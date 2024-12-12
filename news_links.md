@@ -4,401 +4,397 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### deutschland
+### syrer
 
-* [https://www.spiegel.de/panorama/bundesamt-fuer-bevoelkerungsschutz-appelliert-bereiten-sie-sich-auf-notlagen-vor](https://www.spiegel.de/panorama/bundesamt-fuer-bevoelkerungsschutz-appelliert-bereiten-sie-sich-auf-notlagen-vor-a-e163da86-1a9f-42d2-907c-7b3bc442d406#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/syrien-was-bedeutet-der-assad-sturz-fuer-die-rechtsstellung-syrischer-fluechtlinge-in-deutschland](https://www.spiegel.de/politik/deutschland/syrien-was-bedeutet-der-assad-sturz-fuer-die-rechtsstellung-syrischer-fluechtlinge-in-deutschland-a-34e26299-75d5-4d1c-93a2-798b857e165d#ref=rss)
-* [https://www.spiegel.de/start/syrien-wie-hat-der-assad-sturz-das-leben-junger-syrer-in-deutschland-veraendert](https://www.spiegel.de/start/syrien-wie-hat-der-assad-sturz-das-leben-junger-syrer-in-deutschland-veraendert-a-78abff17-15a6-42a6-b7d3-b60a01751932#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/migrationspolitik-migrationsforscherin-bezweifelt-rueckkehr-der-syrer-in-ihr-heimatland](https://www.spiegel.de/panorama/gesellschaft/migrationspolitik-migrationsforscherin-bezweifelt-rueckkehr-der-syrer-in-ihr-heimatland-a-020205d4-7eda-4791-b9b3-dc38856323af#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-54-jahre-unter-dem-assad-regime-wie-der-vater-so-der-sohn](https://www.spiegel.de/ausland/syrien-54-jahre-unter-dem-assad-regime-wie-der-vater-so-der-sohn-a-12eab6ba-3977-4f11-8429-385e20ccada7#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-cafe-bakdasch-nach-dem-sturz-von-baschar-al-assad-treffen-sich-syrer-in-beruehmter-eisdiele](https://www.spiegel.de/ausland/syrien-cafe-bakdasch-nach-dem-sturz-von-baschar-al-assad-treffen-sich-syrer-in-beruehmter-eisdiele-a-b124ac4a-e93f-4ab1-af57-8b1e1f2a093e#ref=rss)
 ### syrien
 
-* [https://www.spiegel.de/politik/deutschland/syrien-was-bedeutet-der-assad-sturz-fuer-die-rechtsstellung-syrischer-fluechtlinge-in-deutschland](https://www.spiegel.de/politik/deutschland/syrien-was-bedeutet-der-assad-sturz-fuer-die-rechtsstellung-syrischer-fluechtlinge-in-deutschland-a-34e26299-75d5-4d1c-93a2-798b857e165d#ref=rss)
-* [https://www.spiegel.de/start/syrien-wie-hat-der-assad-sturz-das-leben-junger-syrer-in-deutschland-veraendert](https://www.spiegel.de/start/syrien-wie-hat-der-assad-sturz-das-leben-junger-syrer-in-deutschland-veraendert-a-78abff17-15a6-42a6-b7d3-b60a01751932#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-warum-israel-jetzt-verantwortung-fuer-den-gesamten-nahen-osten-traegt](https://www.spiegel.de/ausland/syrien-warum-israel-jetzt-verantwortung-fuer-den-gesamten-nahen-osten-traegt-a-bd3276d2-80cc-40b9-a6a9-ddc495474728#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-54-jahre-unter-dem-assad-regime-wie-der-vater-so-der-sohn](https://www.spiegel.de/ausland/syrien-54-jahre-unter-dem-assad-regime-wie-der-vater-so-der-sohn-a-12eab6ba-3977-4f11-8429-385e20ccada7#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-news-heute-rebellenregierung-setzt-verfassung-und-parlament-ausser-kraft](https://www.spiegel.de/ausland/syrien-news-heute-rebellenregierung-setzt-verfassung-und-parlament-ausser-kraft-a-3723dc72-fec1-4595-be04-10cd7ffba33e#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-cafe-bakdasch-nach-dem-sturz-von-baschar-al-assad-treffen-sich-syrer-in-beruehmter-eisdiele](https://www.spiegel.de/ausland/syrien-cafe-bakdasch-nach-dem-sturz-von-baschar-al-assad-treffen-sich-syrer-in-beruehmter-eisdiele-a-b124ac4a-e93f-4ab1-af57-8b1e1f2a093e#ref=rss)
+* [https://www.spiegel.de/kultur/syrien-debatte-ueber-abschiebungen-niemand-wird-freiwillig-zum-gefluechteten](https://www.spiegel.de/kultur/syrien-debatte-ueber-abschiebungen-niemand-wird-freiwillig-zum-gefluechteten-a-52003b72-b863-4aa8-857d-8e45b8f61cf8#ref=rss)
+### neuer
+
+* [https://www.spiegel.de/wirtschaft/erneuerbare-energien-neuer-rekord-54-prozent-des-stroms-in-deutschland-stammen-aus-oekostrom](https://www.spiegel.de/wirtschaft/erneuerbare-energien-neuer-rekord-54-prozent-des-stroms-in-deutschland-stammen-aus-oekostrom-a-9dde0208-dedd-4835-adc2-bc51a7438729#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-mario-voigt-urteil-im-mouhamed-drame-prozess-schachweltmeister-dommaraju-gukesh](https://www.spiegel.de/politik/deutschland/news-des-tages-mario-voigt-urteil-im-mouhamed-drame-prozess-schachweltmeister-dommaraju-gukesh-a-9cc51f65-4bfb-4055-bf6e-a48f4b54f68e#ref=rss)
+* [https://www.spiegel.de/sport/fussball/manuel-neuer-protest-gegen-pokalsperre-verhandlung-geraet-kurios](https://www.spiegel.de/sport/fussball/manuel-neuer-protest-gegen-pokalsperre-verhandlung-geraet-kurios-a-114dd2f7-9903-4b42-a7c2-e57a4ff4eefd#ref=rss)
+### viele
+
+* [https://www.spiegel.de/panorama/gesellschaft/migrationspolitik-migrationsforscherin-bezweifelt-rueckkehr-der-syrer-in-ihr-heimatland](https://www.spiegel.de/panorama/gesellschaft/migrationspolitik-migrationsforscherin-bezweifelt-rueckkehr-der-syrer-in-ihr-heimatland-a-020205d4-7eda-4791-b9b3-dc38856323af#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-cafe-bakdasch-nach-dem-sturz-von-baschar-al-assad-treffen-sich-syrer-in-beruehmter-eisdiele](https://www.spiegel.de/ausland/syrien-cafe-bakdasch-nach-dem-sturz-von-baschar-al-assad-treffen-sich-syrer-in-beruehmter-eisdiele-a-b124ac4a-e93f-4ab1-af57-8b1e1f2a093e#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/wissenschaft/mensch/mysterioeser-ort-in-der-lueneburger-heide-das-geheimnis-der-oldendorfer-totenstatt](https://www.spiegel.de/wissenschaft/mensch/mysterioeser-ort-in-der-lueneburger-heide-das-geheimnis-der-oldendorfer-totenstatt-a-a1e5b2a7-1dec-45ac-a8ad-245487152765#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-54-jahre-unter-dem-assad-regime-wie-der-vater-so-der-sohn](https://www.spiegel.de/ausland/syrien-54-jahre-unter-dem-assad-regime-wie-der-vater-so-der-sohn-a-12eab6ba-3977-4f11-8429-385e20ccada7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/rundfunkbeitrag-gebuehr-steigt-erstmal-nicht-bundeslaender-einigen-sich](https://www.spiegel.de/wirtschaft/service/rundfunkbeitrag-gebuehr-steigt-erstmal-nicht-bundeslaender-einigen-sich-a-bcc569f8-d3fe-4ac1-bbd7-1d7c8a878a56#ref=rss)
 ### offenbar
 
-* [https://www.spiegel.de/wirtschaft/indien-und-russland-vereinbaren-offenbar-oelgeschaeft-im-milliardenumfang](https://www.spiegel.de/wirtschaft/indien-und-russland-vereinbaren-offenbar-oelgeschaeft-im-milliardenumfang-a-58f086bf-b2b2-4f54-a1c7-e46697593c68#ref=rss)
-* [https://www.spiegel.de/kultur/musik/sabrina-carpenter-landet-als-top-artist-in-ihrem-eigene-spotify-wrapped](https://www.spiegel.de/kultur/musik/sabrina-carpenter-landet-als-top-artist-in-ihrem-eigene-spotify-wrapped-a-16c91e16-c408-43c7-bca9-e186d9e17e59#ref=rss)
-* [https://www.spiegel.de/panorama/leute/selena-gomez-ist-verlobt-mit-musikproduzent-benny-blanco](https://www.spiegel.de/panorama/leute/selena-gomez-ist-verlobt-mit-musikproduzent-benny-blanco-a-b40faefe-42cf-4f1e-9073-75245bcf1ec8#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/kultur/musik/sabrina-carpenter-landet-als-top-artist-in-ihrem-eigene-spotify-wrapped](https://www.spiegel.de/kultur/musik/sabrina-carpenter-landet-als-top-artist-in-ihrem-eigene-spotify-wrapped-a-16c91e16-c408-43c7-bca9-e186d9e17e59#ref=rss)
-* [https://www.spiegel.de/ausland/schengen-raum-eu-nimmt-rumaenien-und-bulgarien-auf-kontrollen-ueber-landgrenzen-fallen-weg](https://www.spiegel.de/ausland/schengen-raum-eu-nimmt-rumaenien-und-bulgarien-auf-kontrollen-ueber-landgrenzen-fallen-weg-a-54094799-bb4d-4fc9-8b9c-e1c48b9f8c4a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/iw-umfrage-vier-von-zehn-firmen-wollen-im-naechsten-jahr-jobs-abbauen](https://www.spiegel.de/wirtschaft/iw-umfrage-vier-von-zehn-firmen-wollen-im-naechsten-jahr-jobs-abbauen-a-c4042ee7-d9b6-4576-a917-000f5c5cb91e#ref=rss)
-### ministerpräsidenten
-
-* [https://www.spiegel.de/politik/deutschland/thueringen-cdu-politiker-mario-voigt-zum-ministerpraesidenten-gewaehlt](https://www.spiegel.de/politik/deutschland/thueringen-cdu-politiker-mario-voigt-zum-ministerpraesidenten-gewaehlt-a-56a0c3eb-9c9a-4679-9013-8c1cc833a53f#ref=rss)
-* [https://www.spiegel.de/politik/thueringen-landtag-waehlt-einen-neuen-ministerpraesidenten](https://www.spiegel.de/politik/thueringen-landtag-waehlt-einen-neuen-ministerpraesidenten-a-d787ef72-018d-4aab-affc-e49bf2e0468c#ref=rss)
-### nennt
-
-* [https://www.spiegel.de/panorama/bundesamt-fuer-bevoelkerungsschutz-appelliert-bereiten-sie-sich-auf-notlagen-vor](https://www.spiegel.de/panorama/bundesamt-fuer-bevoelkerungsschutz-appelliert-bereiten-sie-sich-auf-notlagen-vor-a-e163da86-1a9f-42d2-907c-7b3bc442d406#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-news-heute-assad-partei-stellt-aktivitaeten-ein](https://www.spiegel.de/ausland/syrien-news-heute-assad-partei-stellt-aktivitaeten-ein-a-3723dc72-fec1-4595-be04-10cd7ffba33e#ref=rss)
-* [https://www.spiegel.de/sport/fussball/medienberichte-ueber-vorwurf-der-vergewaltigung-gegen-kylian-mbappe-staatsanwaltschaft-in-schweden-stellt-ermittlungen-ein](https://www.spiegel.de/sport/fussball/medienberichte-ueber-vorwurf-der-vergewaltigung-gegen-kylian-mbappe-staatsanwaltschaft-in-schweden-stellt-ermittlungen-ein-a-8adf32ac-09bb-4988-b7b1-3a26e82a535e#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/kultur/tv/christina-applegate-spricht-ueber-ihre-ersten-ms-symptome](https://www.spiegel.de/kultur/tv/christina-applegate-spricht-ueber-ihre-ersten-ms-symptome-a-b807e8b4-40ba-47bc-bec3-55cc38568d90#ref=rss)
-* [https://www.spiegel.de/wirtschaft/katja-de-la-vina-allianz-leben-vorstandschefin-gibt-ihren-posten-auf](https://www.spiegel.de/wirtschaft/katja-de-la-vina-allianz-leben-vorstandschefin-gibt-ihren-posten-auf-a-0736a499-6af3-4664-9a73-262c9db62cd7#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mallorca-tod-eines-deutschen-urlaubers-auf-der-autobahn-angeklagte-schuldig-gesprochen](https://www.spiegel.de/panorama/justiz/mallorca-tod-eines-deutschen-urlaubers-auf-der-autobahn-angeklagte-schuldig-gesprochen-a-eaee340f-4cfb-4f26-8073-d4565d88a080#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/syrien-news-heute-assad-partei-stellt-aktivitaeten-ein](https://www.spiegel.de/ausland/syrien-news-heute-assad-partei-stellt-aktivitaeten-ein-a-3723dc72-fec1-4595-be04-10cd7ffba33e#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-warum-israel-jetzt-verantwortung-fuer-den-gesamten-nahen-osten-traegt](https://www.spiegel.de/ausland/syrien-warum-israel-jetzt-verantwortung-fuer-den-gesamten-nahen-osten-traegt-a-bd3276d2-80cc-40b9-a6a9-ddc495474728#ref=rss)
-### sturz
-
-* [https://www.spiegel.de/ausland/syrien-news-heute-assad-partei-stellt-aktivitaeten-ein](https://www.spiegel.de/ausland/syrien-news-heute-assad-partei-stellt-aktivitaeten-ein-a-3723dc72-fec1-4595-be04-10cd7ffba33e#ref=rss)
-* [https://www.spiegel.de/start/syrien-wie-hat-der-assad-sturz-das-leben-junger-syrer-in-deutschland-veraendert](https://www.spiegel.de/start/syrien-wie-hat-der-assad-sturz-das-leben-junger-syrer-in-deutschland-veraendert-a-78abff17-15a6-42a6-b7d3-b60a01751932#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-warum-israel-jetzt-verantwortung-fuer-den-gesamten-nahen-osten-traegt](https://www.spiegel.de/ausland/syrien-warum-israel-jetzt-verantwortung-fuer-den-gesamten-nahen-osten-traegt-a-bd3276d2-80cc-40b9-a6a9-ddc495474728#ref=rss)
-### thüringen
-
-* [https://www.spiegel.de/politik/deutschland/thueringen-cdu-politiker-mario-voigt-zum-ministerpraesidenten-gewaehlt](https://www.spiegel.de/politik/deutschland/thueringen-cdu-politiker-mario-voigt-zum-ministerpraesidenten-gewaehlt-a-56a0c3eb-9c9a-4679-9013-8c1cc833a53f#ref=rss)
-* [https://www.spiegel.de/politik/thueringen-landtag-waehlt-einen-neuen-ministerpraesidenten](https://www.spiegel.de/politik/thueringen-landtag-waehlt-einen-neuen-ministerpraesidenten-a-d787ef72-018d-4aab-affc-e49bf2e0468c#ref=rss)
-### mario
-
-* [https://www.spiegel.de/politik/deutschland/thueringen-cdu-politiker-mario-voigt-zum-ministerpraesidenten-gewaehlt](https://www.spiegel.de/politik/deutschland/thueringen-cdu-politiker-mario-voigt-zum-ministerpraesidenten-gewaehlt-a-56a0c3eb-9c9a-4679-9013-8c1cc833a53f#ref=rss)
-* [https://www.spiegel.de/politik/thueringen-landtag-waehlt-einen-neuen-ministerpraesidenten](https://www.spiegel.de/politik/thueringen-landtag-waehlt-einen-neuen-ministerpraesidenten-a-d787ef72-018d-4aab-affc-e49bf2e0468c#ref=rss)
-### voigt
-
-* [https://www.spiegel.de/politik/deutschland/thueringen-cdu-politiker-mario-voigt-zum-ministerpraesidenten-gewaehlt](https://www.spiegel.de/politik/deutschland/thueringen-cdu-politiker-mario-voigt-zum-ministerpraesidenten-gewaehlt-a-56a0c3eb-9c9a-4679-9013-8c1cc833a53f#ref=rss)
-* [https://www.spiegel.de/politik/thueringen-landtag-waehlt-einen-neuen-ministerpraesidenten](https://www.spiegel.de/politik/thueringen-landtag-waehlt-einen-neuen-ministerpraesidenten-a-d787ef72-018d-4aab-affc-e49bf2e0468c#ref=rss)
-### gewählt
-
-* [https://www.spiegel.de/politik/deutschland/thueringen-cdu-politiker-mario-voigt-zum-ministerpraesidenten-gewaehlt](https://www.spiegel.de/politik/deutschland/thueringen-cdu-politiker-mario-voigt-zum-ministerpraesidenten-gewaehlt-a-56a0c3eb-9c9a-4679-9013-8c1cc833a53f#ref=rss)
-* [https://www.spiegel.de/politik/thueringen-landtag-waehlt-einen-neuen-ministerpraesidenten](https://www.spiegel.de/politik/thueringen-landtag-waehlt-einen-neuen-ministerpraesidenten-a-d787ef72-018d-4aab-affc-e49bf2e0468c#ref=rss)
-### dazu
-
-* [https://www.spiegel.de/panorama/leute/selena-gomez-ist-verlobt-mit-musikproduzent-benny-blanco](https://www.spiegel.de/panorama/leute/selena-gomez-ist-verlobt-mit-musikproduzent-benny-blanco-a-b40faefe-42cf-4f1e-9073-75245bcf1ec8#ref=rss)
-* [https://www.spiegel.de/netzwelt/australien-plant-strafsteuer-fuer-internet-riesen-die-fuer-nachrichten-nicht-bezahlen](https://www.spiegel.de/netzwelt/australien-plant-strafsteuer-fuer-internet-riesen-die-fuer-nachrichten-nicht-bezahlen-a-7255f80c-2824-4c56-bbf0-0fd14afb2116#ref=rss)
-* [https://www.spiegel.de/wirtschaft/markus-soeder-energieexperte-haelt-seinen-atomstromplan-mit-tschechien-fuer-nicht-umsetzbar](https://www.spiegel.de/wirtschaft/markus-soeder-energieexperte-haelt-seinen-atomstromplan-mit-tschechien-fuer-nicht-umsetzbar-a-7c1adfa9-772c-4c30-a6e9-f0c9852675c1#ref=rss)
-### leben
-
-* [https://www.spiegel.de/start/syrien-wie-hat-der-assad-sturz-das-leben-junger-syrer-in-deutschland-veraendert](https://www.spiegel.de/start/syrien-wie-hat-der-assad-sturz-das-leben-junger-syrer-in-deutschland-veraendert-a-78abff17-15a6-42a6-b7d3-b60a01751932#ref=rss)
-* [https://www.spiegel.de/wirtschaft/katja-de-la-vina-allianz-leben-vorstandschefin-gibt-ihren-posten-auf](https://www.spiegel.de/wirtschaft/katja-de-la-vina-allianz-leben-vorstandschefin-gibt-ihren-posten-auf-a-0736a499-6af3-4664-9a73-262c9db62cd7#ref=rss)
-### feuerwerk
-
-* [https://www.spiegel.de/panorama/feuerwerk-mann-in-unterfranken-sprengt-sich-mit-boeller-finger-ab](https://www.spiegel.de/panorama/feuerwerk-mann-in-unterfranken-sprengt-sich-mit-boeller-finger-ab-a-91c3bcb5-a381-49f0-a008-64cc25d6dc91#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/feuerwerk-mann-in-unterfranken-sprengt-sich-mit-boeller-finger-ab](https://www.spiegel.de/panorama/feuerwerk-mann-in-unterfranken-sprengt-sich-mit-boeller-finger-ab-a-91c3bcb5-a381-49f0-a008-64cc25d6dc91#ref=rss)
-### finger
-
-* [https://www.spiegel.de/panorama/feuerwerk-mann-in-unterfranken-sprengt-sich-mit-boeller-finger-ab](https://www.spiegel.de/panorama/feuerwerk-mann-in-unterfranken-sprengt-sich-mit-boeller-finger-ab-a-91c3bcb5-a381-49f0-a008-64cc25d6dc91#ref=rss)
-### drei
-
-* [https://www.spiegel.de/panorama/feuerwerk-mann-in-unterfranken-sprengt-sich-mit-boeller-finger-ab](https://www.spiegel.de/panorama/feuerwerk-mann-in-unterfranken-sprengt-sich-mit-boeller-finger-ab-a-91c3bcb5-a381-49f0-a008-64cc25d6dc91#ref=rss)
-* [https://www.spiegel.de/start/syrien-wie-hat-der-assad-sturz-das-leben-junger-syrer-in-deutschland-veraendert](https://www.spiegel.de/start/syrien-wie-hat-der-assad-sturz-das-leben-junger-syrer-in-deutschland-veraendert-a-78abff17-15a6-42a6-b7d3-b60a01751932#ref=rss)
-### verletzt
-
-* [https://www.spiegel.de/panorama/feuerwerk-mann-in-unterfranken-sprengt-sich-mit-boeller-finger-ab](https://www.spiegel.de/panorama/feuerwerk-mann-in-unterfranken-sprengt-sich-mit-boeller-finger-ab-a-91c3bcb5-a381-49f0-a008-64cc25d6dc91#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/kaarst-42-jaehriger-bei-saeureangriff-lebensgefaehrlich-verletzt](https://www.spiegel.de/panorama/justiz/kaarst-42-jaehriger-bei-saeureangriff-lebensgefaehrlich-verletzt-a-63709dfd-10aa-424e-a93f-d8b9e2f9da1f#ref=rss)
-### zahl
-
-* [https://www.spiegel.de/panorama/bundesamt-fuer-bevoelkerungsschutz-appelliert-bereiten-sie-sich-auf-notlagen-vor](https://www.spiegel.de/panorama/bundesamt-fuer-bevoelkerungsschutz-appelliert-bereiten-sie-sich-auf-notlagen-vor-a-e163da86-1a9f-42d2-907c-7b3bc442d406#ref=rss)
-* [https://www.spiegel.de/wirtschaft/iw-umfrage-vier-von-zehn-firmen-wollen-im-naechsten-jahr-jobs-abbauen](https://www.spiegel.de/wirtschaft/iw-umfrage-vier-von-zehn-firmen-wollen-im-naechsten-jahr-jobs-abbauen-a-c4042ee7-d9b6-4576-a917-000f5c5cb91e#ref=rss)
-### christina
-
-* [https://www.spiegel.de/kultur/tv/christina-applegate-spricht-ueber-ihre-ersten-ms-symptome](https://www.spiegel.de/kultur/tv/christina-applegate-spricht-ueber-ihre-ersten-ms-symptome-a-b807e8b4-40ba-47bc-bec3-55cc38568d90#ref=rss)
-### applegate
-
-* [https://www.spiegel.de/kultur/tv/christina-applegate-spricht-ueber-ihre-ersten-ms-symptome](https://www.spiegel.de/kultur/tv/christina-applegate-spricht-ueber-ihre-ersten-ms-symptome-a-b807e8b4-40ba-47bc-bec3-55cc38568d90#ref=rss)
-### stellt
-
-* [https://www.spiegel.de/kultur/tv/christina-applegate-spricht-ueber-ihre-ersten-ms-symptome](https://www.spiegel.de/kultur/tv/christina-applegate-spricht-ueber-ihre-ersten-ms-symptome-a-b807e8b4-40ba-47bc-bec3-55cc38568d90#ref=rss)
-* [https://www.spiegel.de/sport/fussball/medienberichte-ueber-vorwurf-der-vergewaltigung-gegen-kylian-mbappe-staatsanwaltschaft-in-schweden-stellt-ermittlungen-ein](https://www.spiegel.de/sport/fussball/medienberichte-ueber-vorwurf-der-vergewaltigung-gegen-kylian-mbappe-staatsanwaltschaft-in-schweden-stellt-ermittlungen-ein-a-8adf32ac-09bb-4988-b7b1-3a26e82a535e#ref=rss)
-### zuvor
-
-* [https://www.spiegel.de/kultur/tv/christina-applegate-spricht-ueber-ihre-ersten-ms-symptome](https://www.spiegel.de/kultur/tv/christina-applegate-spricht-ueber-ihre-ersten-ms-symptome-a-b807e8b4-40ba-47bc-bec3-55cc38568d90#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-warum-israel-jetzt-verantwortung-fuer-den-gesamten-nahen-osten-traegt](https://www.spiegel.de/ausland/syrien-warum-israel-jetzt-verantwortung-fuer-den-gesamten-nahen-osten-traegt-a-bd3276d2-80cc-40b9-a6a9-ddc495474728#ref=rss)
-### filme
-
-* [https://www.spiegel.de/kultur/filme-des-jahres-2024-zone-of-interest-black-dog-all-we-imagine-as-light-challengers-und-mehr](https://www.spiegel.de/kultur/filme-des-jahres-2024-zone-of-interest-black-dog-all-we-imagine-as-light-challengers-und-mehr-a-b7886418-2a35-4b94-a486-dccd65ec9f3c#ref=rss)
-### jahres
-
-* [https://www.spiegel.de/kultur/filme-des-jahres-2024-zone-of-interest-black-dog-all-we-imagine-as-light-challengers-und-mehr](https://www.spiegel.de/kultur/filme-des-jahres-2024-zone-of-interest-black-dog-all-we-imagine-as-light-challengers-und-mehr-a-b7886418-2a35-4b94-a486-dccd65ec9f3c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/erneuerbare-energien-neuer-rekord-54-prozent-des-stroms-in-deutschland-stammen-aus-oekostrom](https://www.spiegel.de/wirtschaft/erneuerbare-energien-neuer-rekord-54-prozent-des-stroms-in-deutschland-stammen-aus-oekostrom-a-9dde0208-dedd-4835-adc2-bc51a7438729#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/dubai-teenager-aus-grossbritannien-soll-wegen-urlaubsbeziehung-fuer-ein-jahr-ins-gefaengnis](https://www.spiegel.de/panorama/justiz/dubai-teenager-aus-grossbritannien-soll-wegen-urlaubsbeziehung-fuer-ein-jahr-ins-gefaengnis-a-868c02a4-954f-40aa-a812-ba6de6e11547#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/bauunternehmer-christoph-groener-ist-offenbar-privatinsolvent](https://www.spiegel.de/wirtschaft/unternehmen/bauunternehmer-christoph-groener-ist-offenbar-privatinsolvent-a-dd87a719-2f13-4b5c-90c1-dfa160a5f641#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/kultur/filme-des-jahres-2024-zone-of-interest-black-dog-all-we-imagine-as-light-challengers-und-mehr](https://www.spiegel.de/kultur/filme-des-jahres-2024-zone-of-interest-black-dog-all-we-imagine-as-light-challengers-und-mehr-a-b7886418-2a35-4b94-a486-dccd65ec9f3c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/eu-parlament-abgeordnete-verdienen-mehr-als-sechs-millionen-euro-hinzu](https://www.spiegel.de/wirtschaft/eu-parlament-abgeordnete-verdienen-mehr-als-sechs-millionen-euro-hinzu-a-0d3a74db-c530-4f20-96fd-ad8e869ba6fe#ref=rss)
-### erzählen
+* [https://www.spiegel.de/wirtschaft/erneuerbare-energien-neuer-rekord-54-prozent-des-stroms-in-deutschland-stammen-aus-oekostrom](https://www.spiegel.de/wirtschaft/erneuerbare-energien-neuer-rekord-54-prozent-des-stroms-in-deutschland-stammen-aus-oekostrom-a-9dde0208-dedd-4835-adc2-bc51a7438729#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/oel-energieagentur-erwartet-weltweite-ueberproduktion-fuer-2025](https://www.spiegel.de/wirtschaft/service/oel-energieagentur-erwartet-weltweite-ueberproduktion-fuer-2025-a-3f73555a-a827-435d-bb6f-ddce62d261a2#ref=rss)
+* [https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-ueber-eine-million-tote-nato-chef-fordert-kriegerische-denkweise-ein](https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-ueber-eine-million-tote-nato-chef-fordert-kriegerische-denkweise-ein-a-803ccd14-0aca-4c37-92ab-7d132f5e247c#ref=rss)
+### neue
 
-* [https://www.spiegel.de/kultur/filme-des-jahres-2024-zone-of-interest-black-dog-all-we-imagine-as-light-challengers-und-mehr](https://www.spiegel.de/kultur/filme-des-jahres-2024-zone-of-interest-black-dog-all-we-imagine-as-light-challengers-und-mehr-a-b7886418-2a35-4b94-a486-dccd65ec9f3c#ref=rss)
-* [https://www.spiegel.de/start/syrien-wie-hat-der-assad-sturz-das-leben-junger-syrer-in-deutschland-veraendert](https://www.spiegel.de/start/syrien-wie-hat-der-assad-sturz-das-leben-junger-syrer-in-deutschland-veraendert-a-78abff17-15a6-42a6-b7d3-b60a01751932#ref=rss)
-### appleupdate
+* [https://www.spiegel.de/wirtschaft/zinsen-ezb-senkt-erneut-leitzinsen-aufgrund-unsicherer-us-politik](https://www.spiegel.de/wirtschaft/zinsen-ezb-senkt-erneut-leitzinsen-aufgrund-unsicherer-us-politik-a-2b298b42-2b0a-4f9c-a882-0125840cd772#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-mario-voigt-urteil-im-mouhamed-drame-prozess-schachweltmeister-dommaraju-gukesh](https://www.spiegel.de/politik/deutschland/news-des-tages-mario-voigt-urteil-im-mouhamed-drame-prozess-schachweltmeister-dommaraju-gukesh-a-9cc51f65-4bfb-4055-bf6e-a48f4b54f68e#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/ios-18-2-fuers-iphone-16-das-steckt-in-apples-neuem-kameraknopf](https://www.spiegel.de/netzwelt/gadgets/ios-18-2-fuers-iphone-16-das-steckt-in-apples-neuem-kameraknopf-a-ce143d98-8301-4ca0-a1b2-e3afb9c2153f#ref=rss)
+### uspräsident
 
-* [https://www.spiegel.de/netzwelt/gadgets/apple-update-ios-18-2-ab-jetzt-koennen-sie-airtags-mit-fluggesellschaften-teilen](https://www.spiegel.de/netzwelt/gadgets/apple-update-ios-18-2-ab-jetzt-koennen-sie-airtags-mit-fluggesellschaften-teilen-a-a0226a69-8159-4f70-8b9f-e44b0f65e915#ref=rss)
-### ios
-
-* [https://www.spiegel.de/netzwelt/gadgets/apple-update-ios-18-2-ab-jetzt-koennen-sie-airtags-mit-fluggesellschaften-teilen](https://www.spiegel.de/netzwelt/gadgets/apple-update-ios-18-2-ab-jetzt-koennen-sie-airtags-mit-fluggesellschaften-teilen-a-a0226a69-8159-4f70-8b9f-e44b0f65e915#ref=rss)
-### 182
-
-* [https://www.spiegel.de/netzwelt/gadgets/apple-update-ios-18-2-ab-jetzt-koennen-sie-airtags-mit-fluggesellschaften-teilen](https://www.spiegel.de/netzwelt/gadgets/apple-update-ios-18-2-ab-jetzt-koennen-sie-airtags-mit-fluggesellschaften-teilen-a-a0226a69-8159-4f70-8b9f-e44b0f65e915#ref=rss)
-### airtags
-
-* [https://www.spiegel.de/netzwelt/gadgets/apple-update-ios-18-2-ab-jetzt-koennen-sie-airtags-mit-fluggesellschaften-teilen](https://www.spiegel.de/netzwelt/gadgets/apple-update-ios-18-2-ab-jetzt-koennen-sie-airtags-mit-fluggesellschaften-teilen-a-a0226a69-8159-4f70-8b9f-e44b0f65e915#ref=rss)
-### teilen
-
-* [https://www.spiegel.de/netzwelt/gadgets/apple-update-ios-18-2-ab-jetzt-koennen-sie-airtags-mit-fluggesellschaften-teilen](https://www.spiegel.de/netzwelt/gadgets/apple-update-ios-18-2-ab-jetzt-koennen-sie-airtags-mit-fluggesellschaften-teilen-a-a0226a69-8159-4f70-8b9f-e44b0f65e915#ref=rss)
-### indien
-
-* [https://www.spiegel.de/wirtschaft/indien-und-russland-vereinbaren-offenbar-oelgeschaeft-im-milliardenumfang](https://www.spiegel.de/wirtschaft/indien-und-russland-vereinbaren-offenbar-oelgeschaeft-im-milliardenumfang-a-58f086bf-b2b2-4f54-a1c7-e46697593c68#ref=rss)
-### russland
-
-* [https://www.spiegel.de/wirtschaft/indien-und-russland-vereinbaren-offenbar-oelgeschaeft-im-milliardenumfang](https://www.spiegel.de/wirtschaft/indien-und-russland-vereinbaren-offenbar-oelgeschaeft-im-milliardenumfang-a-58f086bf-b2b2-4f54-a1c7-e46697593c68#ref=rss)
-### ganz
-
-* [https://www.spiegel.de/wirtschaft/indien-und-russland-vereinbaren-offenbar-oelgeschaeft-im-milliardenumfang](https://www.spiegel.de/wirtschaft/indien-und-russland-vereinbaren-offenbar-oelgeschaeft-im-milliardenumfang-a-58f086bf-b2b2-4f54-a1c7-e46697593c68#ref=rss)
-* [https://www.spiegel.de/auto/friesenbruecke-letztes-bauteil-eingesetzt](https://www.spiegel.de/auto/friesenbruecke-letztes-bauteil-eingesetzt-a-6cc0a9ab-a55f-418f-ad7d-f0156781cbc3#ref=rss)
-### zdf
-
-* [https://www.spiegel.de/wirtschaft/zdf-magazin-royale-sender-stoppte-jan-boehmermann-sendung-vor-ausstrahlung](https://www.spiegel.de/wirtschaft/zdf-magazin-royale-sender-stoppte-jan-boehmermann-sendung-vor-ausstrahlung-a-7f2eada9-d96b-41e2-aab0-8dd5f1c28c38#ref=rss)
-### magazin
-
-* [https://www.spiegel.de/wirtschaft/zdf-magazin-royale-sender-stoppte-jan-boehmermann-sendung-vor-ausstrahlung](https://www.spiegel.de/wirtschaft/zdf-magazin-royale-sender-stoppte-jan-boehmermann-sendung-vor-ausstrahlung-a-7f2eada9-d96b-41e2-aab0-8dd5f1c28c38#ref=rss)
-### royale
-
-* [https://www.spiegel.de/wirtschaft/zdf-magazin-royale-sender-stoppte-jan-boehmermann-sendung-vor-ausstrahlung](https://www.spiegel.de/wirtschaft/zdf-magazin-royale-sender-stoppte-jan-boehmermann-sendung-vor-ausstrahlung-a-7f2eada9-d96b-41e2-aab0-8dd5f1c28c38#ref=rss)
-### friesenbrücke
-
-* [https://www.spiegel.de/auto/friesenbruecke-letztes-bauteil-eingesetzt](https://www.spiegel.de/auto/friesenbruecke-letztes-bauteil-eingesetzt-a-6cc0a9ab-a55f-418f-ad7d-f0156781cbc3#ref=rss)
-### letztes
-
-* [https://www.spiegel.de/auto/friesenbruecke-letztes-bauteil-eingesetzt](https://www.spiegel.de/auto/friesenbruecke-letztes-bauteil-eingesetzt-a-6cc0a9ab-a55f-418f-ad7d-f0156781cbc3#ref=rss)
-### eingesetzt
-
-* [https://www.spiegel.de/auto/friesenbruecke-letztes-bauteil-eingesetzt](https://www.spiegel.de/auto/friesenbruecke-letztes-bauteil-eingesetzt-a-6cc0a9ab-a55f-418f-ad7d-f0156781cbc3#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/auto/friesenbruecke-letztes-bauteil-eingesetzt](https://www.spiegel.de/auto/friesenbruecke-letztes-bauteil-eingesetzt-a-6cc0a9ab-a55f-418f-ad7d-f0156781cbc3#ref=rss)
-* [https://www.spiegel.de/politik/thueringen-landtag-waehlt-einen-neuen-ministerpraesidenten](https://www.spiegel.de/politik/thueringen-landtag-waehlt-einen-neuen-ministerpraesidenten-a-d787ef72-018d-4aab-affc-e49bf2e0468c#ref=rss)
-### assadsturz
-
-* [https://www.spiegel.de/politik/deutschland/syrien-was-bedeutet-der-assad-sturz-fuer-die-rechtsstellung-syrischer-fluechtlinge-in-deutschland](https://www.spiegel.de/politik/deutschland/syrien-was-bedeutet-der-assad-sturz-fuer-die-rechtsstellung-syrischer-fluechtlinge-in-deutschland-a-34e26299-75d5-4d1c-93a2-798b857e165d#ref=rss)
-* [https://www.spiegel.de/start/syrien-wie-hat-der-assad-sturz-das-leben-junger-syrer-in-deutschland-veraendert](https://www.spiegel.de/start/syrien-wie-hat-der-assad-sturz-das-leben-junger-syrer-in-deutschland-veraendert-a-78abff17-15a6-42a6-b7d3-b60a01751932#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/politik/deutschland/syrien-was-bedeutet-der-assad-sturz-fuer-die-rechtsstellung-syrischer-fluechtlinge-in-deutschland](https://www.spiegel.de/politik/deutschland/syrien-was-bedeutet-der-assad-sturz-fuer-die-rechtsstellung-syrischer-fluechtlinge-in-deutschland-a-34e26299-75d5-4d1c-93a2-798b857e165d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/markus-soeder-energieexperte-haelt-seinen-atomstromplan-mit-tschechien-fuer-nicht-umsetzbar](https://www.spiegel.de/wirtschaft/markus-soeder-energieexperte-haelt-seinen-atomstromplan-mit-tschechien-fuer-nicht-umsetzbar-a-7c1adfa9-772c-4c30-a6e9-f0c9852675c1#ref=rss)
-### sabrina
-
-* [https://www.spiegel.de/kultur/musik/sabrina-carpenter-landet-als-top-artist-in-ihrem-eigene-spotify-wrapped](https://www.spiegel.de/kultur/musik/sabrina-carpenter-landet-als-top-artist-in-ihrem-eigene-spotify-wrapped-a-16c91e16-c408-43c7-bca9-e186d9e17e59#ref=rss)
-### carpenter
-
-* [https://www.spiegel.de/kultur/musik/sabrina-carpenter-landet-als-top-artist-in-ihrem-eigene-spotify-wrapped](https://www.spiegel.de/kultur/musik/sabrina-carpenter-landet-als-top-artist-in-ihrem-eigene-spotify-wrapped-a-16c91e16-c408-43c7-bca9-e186d9e17e59#ref=rss)
-### spotify
-
-* [https://www.spiegel.de/kultur/musik/sabrina-carpenter-landet-als-top-artist-in-ihrem-eigene-spotify-wrapped](https://www.spiegel.de/kultur/musik/sabrina-carpenter-landet-als-top-artist-in-ihrem-eigene-spotify-wrapped-a-16c91e16-c408-43c7-bca9-e186d9e17e59#ref=rss)
-### wrapped
-
-* [https://www.spiegel.de/kultur/musik/sabrina-carpenter-landet-als-top-artist-in-ihrem-eigene-spotify-wrapped](https://www.spiegel.de/kultur/musik/sabrina-carpenter-landet-als-top-artist-in-ihrem-eigene-spotify-wrapped-a-16c91e16-c408-43c7-bca9-e186d9e17e59#ref=rss)
-### sängerin
-
-* [https://www.spiegel.de/kultur/musik/sabrina-carpenter-landet-als-top-artist-in-ihrem-eigene-spotify-wrapped](https://www.spiegel.de/kultur/musik/sabrina-carpenter-landet-als-top-artist-in-ihrem-eigene-spotify-wrapped-a-16c91e16-c408-43c7-bca9-e186d9e17e59#ref=rss)
-* [https://www.spiegel.de/panorama/leute/selena-gomez-ist-verlobt-mit-musikproduzent-benny-blanco](https://www.spiegel.de/panorama/leute/selena-gomez-ist-verlobt-mit-musikproduzent-benny-blanco-a-b40faefe-42cf-4f1e-9073-75245bcf1ec8#ref=rss)
-### gehört
-
-* [https://www.spiegel.de/kultur/musik/sabrina-carpenter-landet-als-top-artist-in-ihrem-eigene-spotify-wrapped](https://www.spiegel.de/kultur/musik/sabrina-carpenter-landet-als-top-artist-in-ihrem-eigene-spotify-wrapped-a-16c91e16-c408-43c7-bca9-e186d9e17e59#ref=rss)
-* [https://www.spiegel.de/netzwelt/australien-plant-strafsteuer-fuer-internet-riesen-die-fuer-nachrichten-nicht-bezahlen](https://www.spiegel.de/netzwelt/australien-plant-strafsteuer-fuer-internet-riesen-die-fuer-nachrichten-nicht-bezahlen-a-7255f80c-2824-4c56-bbf0-0fd14afb2116#ref=rss)
-### schengenraum
-
-* [https://www.spiegel.de/ausland/schengen-raum-eu-nimmt-rumaenien-und-bulgarien-auf-kontrollen-ueber-landgrenzen-fallen-weg](https://www.spiegel.de/ausland/schengen-raum-eu-nimmt-rumaenien-und-bulgarien-auf-kontrollen-ueber-landgrenzen-fallen-weg-a-54094799-bb4d-4fc9-8b9c-e1c48b9f8c4a#ref=rss)
-### eu
-
-* [https://www.spiegel.de/ausland/schengen-raum-eu-nimmt-rumaenien-und-bulgarien-auf-kontrollen-ueber-landgrenzen-fallen-weg](https://www.spiegel.de/ausland/schengen-raum-eu-nimmt-rumaenien-und-bulgarien-auf-kontrollen-ueber-landgrenzen-fallen-weg-a-54094799-bb4d-4fc9-8b9c-e1c48b9f8c4a#ref=rss)
-### nimmt
-
-* [https://www.spiegel.de/ausland/schengen-raum-eu-nimmt-rumaenien-und-bulgarien-auf-kontrollen-ueber-landgrenzen-fallen-weg](https://www.spiegel.de/ausland/schengen-raum-eu-nimmt-rumaenien-und-bulgarien-auf-kontrollen-ueber-landgrenzen-fallen-weg-a-54094799-bb4d-4fc9-8b9c-e1c48b9f8c4a#ref=rss)
-### rumänien
-
-* [https://www.spiegel.de/ausland/schengen-raum-eu-nimmt-rumaenien-und-bulgarien-auf-kontrollen-ueber-landgrenzen-fallen-weg](https://www.spiegel.de/ausland/schengen-raum-eu-nimmt-rumaenien-und-bulgarien-auf-kontrollen-ueber-landgrenzen-fallen-weg-a-54094799-bb4d-4fc9-8b9c-e1c48b9f8c4a#ref=rss)
-### bulgarien
-
-* [https://www.spiegel.de/ausland/schengen-raum-eu-nimmt-rumaenien-und-bulgarien-auf-kontrollen-ueber-landgrenzen-fallen-weg](https://www.spiegel.de/ausland/schengen-raum-eu-nimmt-rumaenien-und-bulgarien-auf-kontrollen-ueber-landgrenzen-fallen-weg-a-54094799-bb4d-4fc9-8b9c-e1c48b9f8c4a#ref=rss)
-### kontrollen
-
-* [https://www.spiegel.de/ausland/schengen-raum-eu-nimmt-rumaenien-und-bulgarien-auf-kontrollen-ueber-landgrenzen-fallen-weg](https://www.spiegel.de/ausland/schengen-raum-eu-nimmt-rumaenien-und-bulgarien-auf-kontrollen-ueber-landgrenzen-fallen-weg-a-54094799-bb4d-4fc9-8b9c-e1c48b9f8c4a#ref=rss)
-### landgrenzen
-
-* [https://www.spiegel.de/ausland/schengen-raum-eu-nimmt-rumaenien-und-bulgarien-auf-kontrollen-ueber-landgrenzen-fallen-weg](https://www.spiegel.de/ausland/schengen-raum-eu-nimmt-rumaenien-und-bulgarien-auf-kontrollen-ueber-landgrenzen-fallen-weg-a-54094799-bb4d-4fc9-8b9c-e1c48b9f8c4a#ref=rss)
-### beiden
-
-* [https://www.spiegel.de/ausland/schengen-raum-eu-nimmt-rumaenien-und-bulgarien-auf-kontrollen-ueber-landgrenzen-fallen-weg](https://www.spiegel.de/ausland/schengen-raum-eu-nimmt-rumaenien-und-bulgarien-auf-kontrollen-ueber-landgrenzen-fallen-weg-a-54094799-bb4d-4fc9-8b9c-e1c48b9f8c4a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/windhorst-werften-fsg-und-nobiskrug-sind-insolvent](https://www.spiegel.de/wirtschaft/windhorst-werften-fsg-und-nobiskrug-sind-insolvent-a-810b06ed-2906-4922-93c8-d7c0e8ea2587#ref=rss)
-### kylian
-
-* [https://www.spiegel.de/sport/fussball/medienberichte-ueber-vorwurf-der-vergewaltigung-gegen-kylian-mbappe-staatsanwaltschaft-in-schweden-stellt-ermittlungen-ein](https://www.spiegel.de/sport/fussball/medienberichte-ueber-vorwurf-der-vergewaltigung-gegen-kylian-mbappe-staatsanwaltschaft-in-schweden-stellt-ermittlungen-ein-a-8adf32ac-09bb-4988-b7b1-3a26e82a535e#ref=rss)
-### mbappé
-
-* [https://www.spiegel.de/sport/fussball/medienberichte-ueber-vorwurf-der-vergewaltigung-gegen-kylian-mbappe-staatsanwaltschaft-in-schweden-stellt-ermittlungen-ein](https://www.spiegel.de/sport/fussball/medienberichte-ueber-vorwurf-der-vergewaltigung-gegen-kylian-mbappe-staatsanwaltschaft-in-schweden-stellt-ermittlungen-ein-a-8adf32ac-09bb-4988-b7b1-3a26e82a535e#ref=rss)
-### staatsanwaltschaft
-
-* [https://www.spiegel.de/sport/fussball/medienberichte-ueber-vorwurf-der-vergewaltigung-gegen-kylian-mbappe-staatsanwaltschaft-in-schweden-stellt-ermittlungen-ein](https://www.spiegel.de/sport/fussball/medienberichte-ueber-vorwurf-der-vergewaltigung-gegen-kylian-mbappe-staatsanwaltschaft-in-schweden-stellt-ermittlungen-ein-a-8adf32ac-09bb-4988-b7b1-3a26e82a535e#ref=rss)
-### schweden
-
-* [https://www.spiegel.de/sport/fussball/medienberichte-ueber-vorwurf-der-vergewaltigung-gegen-kylian-mbappe-staatsanwaltschaft-in-schweden-stellt-ermittlungen-ein](https://www.spiegel.de/sport/fussball/medienberichte-ueber-vorwurf-der-vergewaltigung-gegen-kylian-mbappe-staatsanwaltschaft-in-schweden-stellt-ermittlungen-ein-a-8adf32ac-09bb-4988-b7b1-3a26e82a535e#ref=rss)
-### cdupolitiker
-
-* [https://www.spiegel.de/politik/deutschland/thueringen-cdu-politiker-mario-voigt-zum-ministerpraesidenten-gewaehlt](https://www.spiegel.de/politik/deutschland/thueringen-cdu-politiker-mario-voigt-zum-ministerpraesidenten-gewaehlt-a-56a0c3eb-9c9a-4679-9013-8c1cc833a53f#ref=rss)
-### wahl
-
-* [https://www.spiegel.de/politik/deutschland/thueringen-cdu-politiker-mario-voigt-zum-ministerpraesidenten-gewaehlt](https://www.spiegel.de/politik/deutschland/thueringen-cdu-politiker-mario-voigt-zum-ministerpraesidenten-gewaehlt-a-56a0c3eb-9c9a-4679-9013-8c1cc833a53f#ref=rss)
-* [https://www.spiegel.de/politik/thueringen-landtag-waehlt-einen-neuen-ministerpraesidenten](https://www.spiegel.de/politik/thueringen-landtag-waehlt-einen-neuen-ministerpraesidenten-a-d787ef72-018d-4aab-affc-e49bf2e0468c#ref=rss)
-### koalition
-
-* [https://www.spiegel.de/politik/deutschland/thueringen-cdu-politiker-mario-voigt-zum-ministerpraesidenten-gewaehlt](https://www.spiegel.de/politik/deutschland/thueringen-cdu-politiker-mario-voigt-zum-ministerpraesidenten-gewaehlt-a-56a0c3eb-9c9a-4679-9013-8c1cc833a53f#ref=rss)
-* [https://www.spiegel.de/politik/thueringen-landtag-waehlt-einen-neuen-ministerpraesidenten](https://www.spiegel.de/politik/thueringen-landtag-waehlt-einen-neuen-ministerpraesidenten-a-d787ef72-018d-4aab-affc-e49bf2e0468c#ref=rss)
-### stimme
-
-* [https://www.spiegel.de/politik/deutschland/thueringen-cdu-politiker-mario-voigt-zum-ministerpraesidenten-gewaehlt](https://www.spiegel.de/politik/deutschland/thueringen-cdu-politiker-mario-voigt-zum-ministerpraesidenten-gewaehlt-a-56a0c3eb-9c9a-4679-9013-8c1cc833a53f#ref=rss)
-* [https://www.spiegel.de/politik/thueringen-landtag-waehlt-einen-neuen-ministerpraesidenten](https://www.spiegel.de/politik/thueringen-landtag-waehlt-einen-neuen-ministerpraesidenten-a-d787ef72-018d-4aab-affc-e49bf2e0468c#ref=rss)
-### landtag
-
-* [https://www.spiegel.de/politik/deutschland/thueringen-cdu-politiker-mario-voigt-zum-ministerpraesidenten-gewaehlt](https://www.spiegel.de/politik/deutschland/thueringen-cdu-politiker-mario-voigt-zum-ministerpraesidenten-gewaehlt-a-56a0c3eb-9c9a-4679-9013-8c1cc833a53f#ref=rss)
-* [https://www.spiegel.de/politik/thueringen-landtag-waehlt-einen-neuen-ministerpraesidenten](https://www.spiegel.de/politik/thueringen-landtag-waehlt-einen-neuen-ministerpraesidenten-a-d787ef72-018d-4aab-affc-e49bf2e0468c#ref=rss)
-### bildungsausgaben
-
-* [https://www.spiegel.de/panorama/bildung/bildungsausgaben-von-bund-laendern-und-gemeinden-7200-euro-fuer-jeden-unter-30](https://www.spiegel.de/panorama/bildung/bildungsausgaben-von-bund-laendern-und-gemeinden-7200-euro-fuer-jeden-unter-30-a-4a4a88e2-0771-496e-81e2-a6227283d573#ref=rss)
-### gemeinden
-
-* [https://www.spiegel.de/panorama/bildung/bildungsausgaben-von-bund-laendern-und-gemeinden-7200-euro-fuer-jeden-unter-30](https://www.spiegel.de/panorama/bildung/bildungsausgaben-von-bund-laendern-und-gemeinden-7200-euro-fuer-jeden-unter-30-a-4a4a88e2-0771-496e-81e2-a6227283d573#ref=rss)
-### euro
-
-* [https://www.spiegel.de/panorama/bildung/bildungsausgaben-von-bund-laendern-und-gemeinden-7200-euro-fuer-jeden-unter-30](https://www.spiegel.de/panorama/bildung/bildungsausgaben-von-bund-laendern-und-gemeinden-7200-euro-fuer-jeden-unter-30-a-4a4a88e2-0771-496e-81e2-a6227283d573#ref=rss)
-* [https://www.spiegel.de/wirtschaft/eu-parlament-abgeordnete-verdienen-mehr-als-sechs-millionen-euro-hinzu](https://www.spiegel.de/wirtschaft/eu-parlament-abgeordnete-verdienen-mehr-als-sechs-millionen-euro-hinzu-a-0d3a74db-c530-4f20-96fd-ad8e869ba6fe#ref=rss)
-### unter
-
-* [https://www.spiegel.de/panorama/bildung/bildungsausgaben-von-bund-laendern-und-gemeinden-7200-euro-fuer-jeden-unter-30](https://www.spiegel.de/panorama/bildung/bildungsausgaben-von-bund-laendern-und-gemeinden-7200-euro-fuer-jeden-unter-30-a-4a4a88e2-0771-496e-81e2-a6227283d573#ref=rss)
-* [https://www.spiegel.de/wirtschaft/eu-parlament-abgeordnete-verdienen-mehr-als-sechs-millionen-euro-hinzu](https://www.spiegel.de/wirtschaft/eu-parlament-abgeordnete-verdienen-mehr-als-sechs-millionen-euro-hinzu-a-0d3a74db-c530-4f20-96fd-ad8e869ba6fe#ref=rss)
-### fsg
-
-* [https://www.spiegel.de/wirtschaft/windhorst-werften-fsg-und-nobiskrug-sind-insolvent](https://www.spiegel.de/wirtschaft/windhorst-werften-fsg-und-nobiskrug-sind-insolvent-a-810b06ed-2906-4922-93c8-d7c0e8ea2587#ref=rss)
-### nobiskrug
-
-* [https://www.spiegel.de/wirtschaft/windhorst-werften-fsg-und-nobiskrug-sind-insolvent](https://www.spiegel.de/wirtschaft/windhorst-werften-fsg-und-nobiskrug-sind-insolvent-a-810b06ed-2906-4922-93c8-d7c0e8ea2587#ref=rss)
-### tinder
-
-* [https://www.spiegel.de/netzwelt/apps/tinder-in-der-dating-app-warnt-jetzt-eine-katze-vor-love-scams](https://www.spiegel.de/netzwelt/apps/tinder-in-der-dating-app-warnt-jetzt-eine-katze-vor-love-scams-a-1cf4f364-7b07-4abd-997e-80d05f014955#ref=rss)
-### lovescams
-
-* [https://www.spiegel.de/netzwelt/apps/tinder-in-der-dating-app-warnt-jetzt-eine-katze-vor-love-scams](https://www.spiegel.de/netzwelt/apps/tinder-in-der-dating-app-warnt-jetzt-eine-katze-vor-love-scams-a-1cf4f364-7b07-4abd-997e-80d05f014955#ref=rss)
-### geld
-
-* [https://www.spiegel.de/netzwelt/apps/tinder-in-der-dating-app-warnt-jetzt-eine-katze-vor-love-scams](https://www.spiegel.de/netzwelt/apps/tinder-in-der-dating-app-warnt-jetzt-eine-katze-vor-love-scams-a-1cf4f364-7b07-4abd-997e-80d05f014955#ref=rss)
-* [https://www.spiegel.de/wirtschaft/eu-parlament-abgeordnete-verdienen-mehr-als-sechs-millionen-euro-hinzu](https://www.spiegel.de/wirtschaft/eu-parlament-abgeordnete-verdienen-mehr-als-sechs-millionen-euro-hinzu-a-0d3a74db-c530-4f20-96fd-ad8e869ba6fe#ref=rss)
-### selena
-
-* [https://www.spiegel.de/panorama/leute/selena-gomez-ist-verlobt-mit-musikproduzent-benny-blanco](https://www.spiegel.de/panorama/leute/selena-gomez-ist-verlobt-mit-musikproduzent-benny-blanco-a-b40faefe-42cf-4f1e-9073-75245bcf1ec8#ref=rss)
-### gomez
-
-* [https://www.spiegel.de/panorama/leute/selena-gomez-ist-verlobt-mit-musikproduzent-benny-blanco](https://www.spiegel.de/panorama/leute/selena-gomez-ist-verlobt-mit-musikproduzent-benny-blanco-a-b40faefe-42cf-4f1e-9073-75245bcf1ec8#ref=rss)
-### verlobt
-
-* [https://www.spiegel.de/panorama/leute/selena-gomez-ist-verlobt-mit-musikproduzent-benny-blanco](https://www.spiegel.de/panorama/leute/selena-gomez-ist-verlobt-mit-musikproduzent-benny-blanco-a-b40faefe-42cf-4f1e-9073-75245bcf1ec8#ref=rss)
-### benny
-
-* [https://www.spiegel.de/panorama/leute/selena-gomez-ist-verlobt-mit-musikproduzent-benny-blanco](https://www.spiegel.de/panorama/leute/selena-gomez-ist-verlobt-mit-musikproduzent-benny-blanco-a-b40faefe-42cf-4f1e-9073-75245bcf1ec8#ref=rss)
-### blanco
-
-* [https://www.spiegel.de/panorama/leute/selena-gomez-ist-verlobt-mit-musikproduzent-benny-blanco](https://www.spiegel.de/panorama/leute/selena-gomez-ist-verlobt-mit-musikproduzent-benny-blanco-a-b40faefe-42cf-4f1e-9073-75245bcf1ec8#ref=rss)
-### legen
-
-* [https://www.spiegel.de/panorama/leute/selena-gomez-ist-verlobt-mit-musikproduzent-benny-blanco](https://www.spiegel.de/panorama/leute/selena-gomez-ist-verlobt-mit-musikproduzent-benny-blanco-a-b40faefe-42cf-4f1e-9073-75245bcf1ec8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/iw-umfrage-vier-von-zehn-firmen-wollen-im-naechsten-jahr-jobs-abbauen](https://www.spiegel.de/wirtschaft/iw-umfrage-vier-von-zehn-firmen-wollen-im-naechsten-jahr-jobs-abbauen-a-c4042ee7-d9b6-4576-a917-000f5c5cb91e#ref=rss)
-### schachwm
-
-* [https://www.spiegel.de/sport/schach-wm-ding-liren-vs-dommaraju-gukesh-die-14-partie-im-liveticker](https://www.spiegel.de/sport/schach-wm-ding-liren-vs-dommaraju-gukesh-die-14-partie-im-liveticker-a-7158d32b-c5f5-4e36-a1f5-4fbd972e02c2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/zinsen-ezb-senkt-erneut-leitzinsen-aufgrund-unsicherer-us-politik](https://www.spiegel.de/wirtschaft/zinsen-ezb-senkt-erneut-leitzinsen-aufgrund-unsicherer-us-politik-a-2b298b42-2b0a-4f9c-a882-0125840cd772#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-designierter-us-praesident-gibt-sich-im-time-interview-als-friedensstifter](https://www.spiegel.de/ausland/donald-trump-designierter-us-praesident-gibt-sich-im-time-interview-als-friedensstifter-a-e9fd2294-2de3-4d2a-870a-ba18ab4ea532#ref=rss)
 ### dommaraju
 
-* [https://www.spiegel.de/sport/schach-wm-ding-liren-vs-dommaraju-gukesh-die-14-partie-im-liveticker](https://www.spiegel.de/sport/schach-wm-ding-liren-vs-dommaraju-gukesh-die-14-partie-im-liveticker-a-7158d32b-c5f5-4e36-a1f5-4fbd972e02c2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-mario-voigt-urteil-im-mouhamed-drame-prozess-schachweltmeister-dommaraju-gukesh](https://www.spiegel.de/politik/deutschland/news-des-tages-mario-voigt-urteil-im-mouhamed-drame-prozess-schachweltmeister-dommaraju-gukesh-a-9cc51f65-4bfb-4055-bf6e-a48f4b54f68e#ref=rss)
+* [https://www.spiegel.de/sport/schach-wm-dommaraju-gukesh-ist-weltmeister-mit-18-und-am-schachbrett-kullern-die-traenen](https://www.spiegel.de/sport/schach-wm-dommaraju-gukesh-ist-weltmeister-mit-18-und-am-schachbrett-kullern-die-traenen-a-e3603ded-e82f-4c5a-ae9a-38d0c371c833#ref=rss)
 ### gukesh
 
-* [https://www.spiegel.de/sport/schach-wm-ding-liren-vs-dommaraju-gukesh-die-14-partie-im-liveticker](https://www.spiegel.de/sport/schach-wm-ding-liren-vs-dommaraju-gukesh-die-14-partie-im-liveticker-a-7158d32b-c5f5-4e36-a1f5-4fbd972e02c2#ref=rss)
-### partie
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-mario-voigt-urteil-im-mouhamed-drame-prozess-schachweltmeister-dommaraju-gukesh](https://www.spiegel.de/politik/deutschland/news-des-tages-mario-voigt-urteil-im-mouhamed-drame-prozess-schachweltmeister-dommaraju-gukesh-a-9cc51f65-4bfb-4055-bf6e-a48f4b54f68e#ref=rss)
+* [https://www.spiegel.de/sport/schach-wm-dommaraju-gukesh-ist-weltmeister-mit-18-und-am-schachbrett-kullern-die-traenen](https://www.spiegel.de/sport/schach-wm-dommaraju-gukesh-ist-weltmeister-mit-18-und-am-schachbrett-kullern-die-traenen-a-e3603ded-e82f-4c5a-ae9a-38d0c371c833#ref=rss)
+### ministerpräsident
 
-* [https://www.spiegel.de/sport/schach-wm-ding-liren-vs-dommaraju-gukesh-die-14-partie-im-liveticker](https://www.spiegel.de/sport/schach-wm-ding-liren-vs-dommaraju-gukesh-die-14-partie-im-liveticker-a-7158d32b-c5f5-4e36-a1f5-4fbd972e02c2#ref=rss)
-### letzte
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-mario-voigt-urteil-im-mouhamed-drame-prozess-schachweltmeister-dommaraju-gukesh](https://www.spiegel.de/politik/deutschland/news-des-tages-mario-voigt-urteil-im-mouhamed-drame-prozess-schachweltmeister-dommaraju-gukesh-a-9cc51f65-4bfb-4055-bf6e-a48f4b54f68e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/kanada-donald-trump-ontarios-ministerpraesident-droht-den-usa-den-strom-abzustellen](https://www.spiegel.de/wirtschaft/service/kanada-donald-trump-ontarios-ministerpraesident-droht-den-usa-den-strom-abzustellen-a-6d26b3fa-b996-4b35-9c03-e6f0febd306e#ref=rss)
+### donald
 
-* [https://www.spiegel.de/sport/schach-wm-ding-liren-vs-dommaraju-gukesh-die-14-partie-im-liveticker](https://www.spiegel.de/sport/schach-wm-ding-liren-vs-dommaraju-gukesh-die-14-partie-im-liveticker-a-7158d32b-c5f5-4e36-a1f5-4fbd972e02c2#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-borussia-dortmund-verliert-gegen-fc-barcelona-die-teure-letzte-sekunde](https://www.spiegel.de/sport/fussball/champions-league-borussia-dortmund-verliert-gegen-fc-barcelona-die-teure-letzte-sekunde-a-16d34fda-2827-4c2a-b36f-847b9675c961#ref=rss)
-### kaarst
+* [https://www.spiegel.de/ausland/donald-trump-designierter-us-praesident-gibt-sich-im-time-interview-als-friedensstifter](https://www.spiegel.de/ausland/donald-trump-designierter-us-praesident-gibt-sich-im-time-interview-als-friedensstifter-a-e9fd2294-2de3-4d2a-870a-ba18ab4ea532#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/kanada-donald-trump-ontarios-ministerpraesident-droht-den-usa-den-strom-abzustellen](https://www.spiegel.de/wirtschaft/service/kanada-donald-trump-ontarios-ministerpraesident-droht-den-usa-den-strom-abzustellen-a-6d26b3fa-b996-4b35-9c03-e6f0febd306e#ref=rss)
+### trump
 
-* [https://www.spiegel.de/panorama/justiz/kaarst-42-jaehriger-bei-saeureangriff-lebensgefaehrlich-verletzt](https://www.spiegel.de/panorama/justiz/kaarst-42-jaehriger-bei-saeureangriff-lebensgefaehrlich-verletzt-a-63709dfd-10aa-424e-a93f-d8b9e2f9da1f#ref=rss)
-### opfer
+* [https://www.spiegel.de/ausland/donald-trump-designierter-us-praesident-gibt-sich-im-time-interview-als-friedensstifter](https://www.spiegel.de/ausland/donald-trump-designierter-us-praesident-gibt-sich-im-time-interview-als-friedensstifter-a-e9fd2294-2de3-4d2a-870a-ba18ab4ea532#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/kanada-donald-trump-ontarios-ministerpraesident-droht-den-usa-den-strom-abzustellen](https://www.spiegel.de/wirtschaft/service/kanada-donald-trump-ontarios-ministerpraesident-droht-den-usa-den-strom-abzustellen-a-6d26b3fa-b996-4b35-9c03-e6f0febd306e#ref=rss)
+### unter
 
-* [https://www.spiegel.de/panorama/justiz/kaarst-42-jaehriger-bei-saeureangriff-lebensgefaehrlich-verletzt](https://www.spiegel.de/panorama/justiz/kaarst-42-jaehriger-bei-saeureangriff-lebensgefaehrlich-verletzt-a-63709dfd-10aa-424e-a93f-d8b9e2f9da1f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mallorca-tod-eines-deutschen-urlaubers-auf-der-autobahn-angeklagte-schuldig-gesprochen](https://www.spiegel.de/panorama/justiz/mallorca-tod-eines-deutschen-urlaubers-auf-der-autobahn-angeklagte-schuldig-gesprochen-a-eaee340f-4cfb-4f26-8073-d4565d88a080#ref=rss)
-### vier
+* [https://www.spiegel.de/ausland/syrien-54-jahre-unter-dem-assad-regime-wie-der-vater-so-der-sohn](https://www.spiegel.de/ausland/syrien-54-jahre-unter-dem-assad-regime-wie-der-vater-so-der-sohn-a-12eab6ba-3977-4f11-8429-385e20ccada7#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/kylie-kelce-stoesst-mit-erster-folge-not-gonna-lie-joe-rogan-vom-us-podcast-thron](https://www.spiegel.de/netzwelt/apps/kylie-kelce-stoesst-mit-erster-folge-not-gonna-lie-joe-rogan-vom-us-podcast-thron-a-f8850947-abcb-4940-a7ae-71ff4477dcfc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-schliesst-vizekanzlerschaft-unter-friedrich-merz-aus](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-schliesst-vizekanzlerschaft-unter-friedrich-merz-aus-a-6f33e93d-c118-4c89-a081-f608508b16ef#ref=rss)
+### sohn
 
-* [https://www.spiegel.de/wirtschaft/iw-umfrage-vier-von-zehn-firmen-wollen-im-naechsten-jahr-jobs-abbauen](https://www.spiegel.de/wirtschaft/iw-umfrage-vier-von-zehn-firmen-wollen-im-naechsten-jahr-jobs-abbauen-a-c4042ee7-d9b6-4576-a917-000f5c5cb91e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/eu-parlament-abgeordnete-verdienen-mehr-als-sechs-millionen-euro-hinzu](https://www.spiegel.de/wirtschaft/eu-parlament-abgeordnete-verdienen-mehr-als-sechs-millionen-euro-hinzu-a-0d3a74db-c530-4f20-96fd-ad8e869ba6fe#ref=rss)
-### zehn
+* [https://www.spiegel.de/ausland/syrien-54-jahre-unter-dem-assad-regime-wie-der-vater-so-der-sohn](https://www.spiegel.de/ausland/syrien-54-jahre-unter-dem-assad-regime-wie-der-vater-so-der-sohn-a-12eab6ba-3977-4f11-8429-385e20ccada7#ref=rss)
+* [https://www.spiegel.de/panorama/norwegen-frau-sagt-mette-marits-sohn-marius-borg-hoiby-habe-sie-nicht-vergewaltigt](https://www.spiegel.de/panorama/norwegen-frau-sagt-mette-marits-sohn-marius-borg-hoiby-habe-sie-nicht-vergewaltigt-a-ecd137d5-e78c-4703-81f3-c8dacca5ffa2#ref=rss)
+### überhaupt
 
-* [https://www.spiegel.de/wirtschaft/iw-umfrage-vier-von-zehn-firmen-wollen-im-naechsten-jahr-jobs-abbauen](https://www.spiegel.de/wirtschaft/iw-umfrage-vier-von-zehn-firmen-wollen-im-naechsten-jahr-jobs-abbauen-a-c4042ee7-d9b6-4576-a917-000f5c5cb91e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/eu-parlament-abgeordnete-verdienen-mehr-als-sechs-millionen-euro-hinzu](https://www.spiegel.de/wirtschaft/eu-parlament-abgeordnete-verdienen-mehr-als-sechs-millionen-euro-hinzu-a-0d3a74db-c530-4f20-96fd-ad8e869ba6fe#ref=rss)
-### nächsten
+* [https://www.spiegel.de/ausland/syrien-54-jahre-unter-dem-assad-regime-wie-der-vater-so-der-sohn](https://www.spiegel.de/ausland/syrien-54-jahre-unter-dem-assad-regime-wie-der-vater-so-der-sohn-a-12eab6ba-3977-4f11-8429-385e20ccada7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/kanada-donald-trump-ontarios-ministerpraesident-droht-den-usa-den-strom-abzustellen](https://www.spiegel.de/wirtschaft/service/kanada-donald-trump-ontarios-ministerpraesident-droht-den-usa-den-strom-abzustellen-a-6d26b3fa-b996-4b35-9c03-e6f0febd306e#ref=rss)
+* [https://www.spiegel.de/kultur/syrien-debatte-ueber-abschiebungen-niemand-wird-freiwillig-zum-gefluechteten](https://www.spiegel.de/kultur/syrien-debatte-ueber-abschiebungen-niemand-wird-freiwillig-zum-gefluechteten-a-52003b72-b863-4aa8-857d-8e45b8f61cf8#ref=rss)
+### kommen
 
-* [https://www.spiegel.de/wirtschaft/iw-umfrage-vier-von-zehn-firmen-wollen-im-naechsten-jahr-jobs-abbauen](https://www.spiegel.de/wirtschaft/iw-umfrage-vier-von-zehn-firmen-wollen-im-naechsten-jahr-jobs-abbauen-a-c4042ee7-d9b6-4576-a917-000f5c5cb91e#ref=rss)
-### verändert
+* [https://www.spiegel.de/ausland/syrien-54-jahre-unter-dem-assad-regime-wie-der-vater-so-der-sohn](https://www.spiegel.de/ausland/syrien-54-jahre-unter-dem-assad-regime-wie-der-vater-so-der-sohn-a-12eab6ba-3977-4f11-8429-385e20ccada7#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/dubai-teenager-aus-grossbritannien-soll-wegen-urlaubsbeziehung-fuer-ein-jahr-ins-gefaengnis](https://www.spiegel.de/panorama/justiz/dubai-teenager-aus-grossbritannien-soll-wegen-urlaubsbeziehung-fuer-ein-jahr-ins-gefaengnis-a-868c02a4-954f-40aa-a812-ba6de6e11547#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-cafe-bakdasch-nach-dem-sturz-von-baschar-al-assad-treffen-sich-syrer-in-beruehmter-eisdiele](https://www.spiegel.de/ausland/syrien-cafe-bakdasch-nach-dem-sturz-von-baschar-al-assad-treffen-sich-syrer-in-beruehmter-eisdiele-a-b124ac4a-e93f-4ab1-af57-8b1e1f2a093e#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/start/syrien-wie-hat-der-assad-sturz-das-leben-junger-syrer-in-deutschland-veraendert](https://www.spiegel.de/start/syrien-wie-hat-der-assad-sturz-das-leben-junger-syrer-in-deutschland-veraendert-a-78abff17-15a6-42a6-b7d3-b60a01751932#ref=rss)
-### champions
+* [https://www.spiegel.de/sport/fussball/manuel-neuer-protest-gegen-pokalsperre-verhandlung-geraet-kurios](https://www.spiegel.de/sport/fussball/manuel-neuer-protest-gegen-pokalsperre-verhandlung-geraet-kurios-a-114dd2f7-9903-4b42-a7c2-e57a4ff4eefd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/rundfunkbeitrag-gebuehr-steigt-erstmal-nicht-bundeslaender-einigen-sich](https://www.spiegel.de/wirtschaft/service/rundfunkbeitrag-gebuehr-steigt-erstmal-nicht-bundeslaender-einigen-sich-a-bcc569f8-d3fe-4ac1-bbd7-1d7c8a878a56#ref=rss)
+* [https://www.spiegel.de/panorama/norwegen-frau-sagt-mette-marits-sohn-marius-borg-hoiby-habe-sie-nicht-vergewaltigt](https://www.spiegel.de/panorama/norwegen-frau-sagt-mette-marits-sohn-marius-borg-hoiby-habe-sie-nicht-vergewaltigt-a-ecd137d5-e78c-4703-81f3-c8dacca5ffa2#ref=rss)
+### davon
 
-* [https://www.spiegel.de/sport/fussball/champions-league-borussia-dortmund-verliert-gegen-fc-barcelona-die-teure-letzte-sekunde](https://www.spiegel.de/sport/fussball/champions-league-borussia-dortmund-verliert-gegen-fc-barcelona-die-teure-letzte-sekunde-a-16d34fda-2827-4c2a-b36f-847b9675c961#ref=rss)
-### league
+* [https://www.spiegel.de/wirtschaft/unternehmen/bauunternehmer-christoph-groener-ist-offenbar-privatinsolvent](https://www.spiegel.de/wirtschaft/unternehmen/bauunternehmer-christoph-groener-ist-offenbar-privatinsolvent-a-dd87a719-2f13-4b5c-90c1-dfa160a5f641#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/oel-energieagentur-erwartet-weltweite-ueberproduktion-fuer-2025](https://www.spiegel.de/wirtschaft/service/oel-energieagentur-erwartet-weltweite-ueberproduktion-fuer-2025-a-3f73555a-a827-435d-bb6f-ddce62d261a2#ref=rss)
+* [https://www.spiegel.de/panorama/norwegen-frau-sagt-mette-marits-sohn-marius-borg-hoiby-habe-sie-nicht-vergewaltigt](https://www.spiegel.de/panorama/norwegen-frau-sagt-mette-marits-sohn-marius-borg-hoiby-habe-sie-nicht-vergewaltigt-a-ecd137d5-e78c-4703-81f3-c8dacca5ffa2#ref=rss)
+### 2025
 
-* [https://www.spiegel.de/sport/fussball/champions-league-borussia-dortmund-verliert-gegen-fc-barcelona-die-teure-letzte-sekunde](https://www.spiegel.de/sport/fussball/champions-league-borussia-dortmund-verliert-gegen-fc-barcelona-die-teure-letzte-sekunde-a-16d34fda-2827-4c2a-b36f-847b9675c961#ref=rss)
-### verliert
+* [https://www.spiegel.de/wirtschaft/service/oel-energieagentur-erwartet-weltweite-ueberproduktion-fuer-2025](https://www.spiegel.de/wirtschaft/service/oel-energieagentur-erwartet-weltweite-ueberproduktion-fuer-2025-a-3f73555a-a827-435d-bb6f-ddce62d261a2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-schliesst-vizekanzlerschaft-unter-friedrich-merz-aus](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-schliesst-vizekanzlerschaft-unter-friedrich-merz-aus-a-6f33e93d-c118-4c89-a081-f608508b16ef#ref=rss)
+### kritik
 
-* [https://www.spiegel.de/sport/fussball/champions-league-borussia-dortmund-verliert-gegen-fc-barcelona-die-teure-letzte-sekunde](https://www.spiegel.de/sport/fussball/champions-league-borussia-dortmund-verliert-gegen-fc-barcelona-die-teure-letzte-sekunde-a-16d34fda-2827-4c2a-b36f-847b9675c961#ref=rss)
-### fc
+* [https://www.spiegel.de/ausland/britischer-premier-keir-starmer-und-kemi-badenoch-delikatessen-disput-entfacht-in-grossbritannien](https://www.spiegel.de/ausland/britischer-premier-keir-starmer-und-kemi-badenoch-delikatessen-disput-entfacht-in-grossbritannien-a-b21d7f80-3c53-49fd-a3cc-d0951d055363#ref=rss)
+* [https://www.spiegel.de/sport/olympia/sportfoerderung-hockey-kapitaenin-nike-ruehr-ueber-krasses-doppelleben-zwischen-arbeit-und-sport](https://www.spiegel.de/sport/olympia/sportfoerderung-hockey-kapitaenin-nike-ruehr-ueber-krasses-doppelleben-zwischen-arbeit-und-sport-a-567869a6-d40f-4c98-bbcc-ae599c79d832#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-schliesst-vizekanzlerschaft-unter-friedrich-merz-aus](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-schliesst-vizekanzlerschaft-unter-friedrich-merz-aus-a-6f33e93d-c118-4c89-a081-f608508b16ef#ref=rss)
+### kelce
 
-* [https://www.spiegel.de/sport/fussball/champions-league-borussia-dortmund-verliert-gegen-fc-barcelona-die-teure-letzte-sekunde](https://www.spiegel.de/sport/fussball/champions-league-borussia-dortmund-verliert-gegen-fc-barcelona-die-teure-letzte-sekunde-a-16d34fda-2827-4c2a-b36f-847b9675c961#ref=rss)
-### barcelona
+* [https://www.spiegel.de/netzwelt/apps/kylie-kelce-stoesst-mit-erster-folge-not-gonna-lie-joe-rogan-vom-us-podcast-thron](https://www.spiegel.de/netzwelt/apps/kylie-kelce-stoesst-mit-erster-folge-not-gonna-lie-joe-rogan-vom-us-podcast-thron-a-f8850947-abcb-4940-a7ae-71ff4477dcfc#ref=rss)
+### migrationsforscherin
 
-* [https://www.spiegel.de/sport/fussball/champions-league-borussia-dortmund-verliert-gegen-fc-barcelona-die-teure-letzte-sekunde](https://www.spiegel.de/sport/fussball/champions-league-borussia-dortmund-verliert-gegen-fc-barcelona-die-teure-letzte-sekunde-a-16d34fda-2827-4c2a-b36f-847b9675c961#ref=rss)
-### katja
+* [https://www.spiegel.de/panorama/gesellschaft/migrationspolitik-migrationsforscherin-bezweifelt-rueckkehr-der-syrer-in-ihr-heimatland](https://www.spiegel.de/panorama/gesellschaft/migrationspolitik-migrationsforscherin-bezweifelt-rueckkehr-der-syrer-in-ihr-heimatland-a-020205d4-7eda-4791-b9b3-dc38856323af#ref=rss)
+### bezweifelt
 
-* [https://www.spiegel.de/wirtschaft/katja-de-la-vina-allianz-leben-vorstandschefin-gibt-ihren-posten-auf](https://www.spiegel.de/wirtschaft/katja-de-la-vina-allianz-leben-vorstandschefin-gibt-ihren-posten-auf-a-0736a499-6af3-4664-9a73-262c9db62cd7#ref=rss)
-### de
+* [https://www.spiegel.de/panorama/gesellschaft/migrationspolitik-migrationsforscherin-bezweifelt-rueckkehr-der-syrer-in-ihr-heimatland](https://www.spiegel.de/panorama/gesellschaft/migrationspolitik-migrationsforscherin-bezweifelt-rueckkehr-der-syrer-in-ihr-heimatland-a-020205d4-7eda-4791-b9b3-dc38856323af#ref=rss)
+### rückkehr
 
-* [https://www.spiegel.de/wirtschaft/katja-de-la-vina-allianz-leben-vorstandschefin-gibt-ihren-posten-auf](https://www.spiegel.de/wirtschaft/katja-de-la-vina-allianz-leben-vorstandschefin-gibt-ihren-posten-auf-a-0736a499-6af3-4664-9a73-262c9db62cd7#ref=rss)
-### la
+* [https://www.spiegel.de/panorama/gesellschaft/migrationspolitik-migrationsforscherin-bezweifelt-rueckkehr-der-syrer-in-ihr-heimatland](https://www.spiegel.de/panorama/gesellschaft/migrationspolitik-migrationsforscherin-bezweifelt-rueckkehr-der-syrer-in-ihr-heimatland-a-020205d4-7eda-4791-b9b3-dc38856323af#ref=rss)
+### heimatland
 
-* [https://www.spiegel.de/wirtschaft/katja-de-la-vina-allianz-leben-vorstandschefin-gibt-ihren-posten-auf](https://www.spiegel.de/wirtschaft/katja-de-la-vina-allianz-leben-vorstandschefin-gibt-ihren-posten-auf-a-0736a499-6af3-4664-9a73-262c9db62cd7#ref=rss)
-### viña
+* [https://www.spiegel.de/panorama/gesellschaft/migrationspolitik-migrationsforscherin-bezweifelt-rueckkehr-der-syrer-in-ihr-heimatland](https://www.spiegel.de/panorama/gesellschaft/migrationspolitik-migrationsforscherin-bezweifelt-rueckkehr-der-syrer-in-ihr-heimatland-a-020205d4-7eda-4791-b9b3-dc38856323af#ref=rss)
+### manche
 
-* [https://www.spiegel.de/wirtschaft/katja-de-la-vina-allianz-leben-vorstandschefin-gibt-ihren-posten-auf](https://www.spiegel.de/wirtschaft/katja-de-la-vina-allianz-leben-vorstandschefin-gibt-ihren-posten-auf-a-0736a499-6af3-4664-9a73-262c9db62cd7#ref=rss)
-### euparlament
+* [https://www.spiegel.de/panorama/gesellschaft/migrationspolitik-migrationsforscherin-bezweifelt-rueckkehr-der-syrer-in-ihr-heimatland](https://www.spiegel.de/panorama/gesellschaft/migrationspolitik-migrationsforscherin-bezweifelt-rueckkehr-der-syrer-in-ihr-heimatland-a-020205d4-7eda-4791-b9b3-dc38856323af#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-cafe-bakdasch-nach-dem-sturz-von-baschar-al-assad-treffen-sich-syrer-in-beruehmter-eisdiele](https://www.spiegel.de/ausland/syrien-cafe-bakdasch-nach-dem-sturz-von-baschar-al-assad-treffen-sich-syrer-in-beruehmter-eisdiele-a-b124ac4a-e93f-4ab1-af57-8b1e1f2a093e#ref=rss)
+### lüneburger
 
-* [https://www.spiegel.de/wirtschaft/eu-parlament-abgeordnete-verdienen-mehr-als-sechs-millionen-euro-hinzu](https://www.spiegel.de/wirtschaft/eu-parlament-abgeordnete-verdienen-mehr-als-sechs-millionen-euro-hinzu-a-0d3a74db-c530-4f20-96fd-ad8e869ba6fe#ref=rss)
-### nachrichten
+* [https://www.spiegel.de/wissenschaft/mensch/mysterioeser-ort-in-der-lueneburger-heide-das-geheimnis-der-oldendorfer-totenstatt](https://www.spiegel.de/wissenschaft/mensch/mysterioeser-ort-in-der-lueneburger-heide-das-geheimnis-der-oldendorfer-totenstatt-a-a1e5b2a7-1dec-45ac-a8ad-245487152765#ref=rss)
+### heide
 
-* [https://www.spiegel.de/netzwelt/australien-plant-strafsteuer-fuer-internet-riesen-die-fuer-nachrichten-nicht-bezahlen](https://www.spiegel.de/netzwelt/australien-plant-strafsteuer-fuer-internet-riesen-die-fuer-nachrichten-nicht-bezahlen-a-7255f80c-2824-4c56-bbf0-0fd14afb2116#ref=rss)
-### bezahlen
+* [https://www.spiegel.de/wissenschaft/mensch/mysterioeser-ort-in-der-lueneburger-heide-das-geheimnis-der-oldendorfer-totenstatt](https://www.spiegel.de/wissenschaft/mensch/mysterioeser-ort-in-der-lueneburger-heide-das-geheimnis-der-oldendorfer-totenstatt-a-a1e5b2a7-1dec-45ac-a8ad-245487152765#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/netzwelt/australien-plant-strafsteuer-fuer-internet-riesen-die-fuer-nachrichten-nicht-bezahlen](https://www.spiegel.de/netzwelt/australien-plant-strafsteuer-fuer-internet-riesen-die-fuer-nachrichten-nicht-bezahlen-a-7255f80c-2824-4c56-bbf0-0fd14afb2116#ref=rss)
-### mallorca
+* [https://www.spiegel.de/wissenschaft/mensch/mysterioeser-ort-in-der-lueneburger-heide-das-geheimnis-der-oldendorfer-totenstatt](https://www.spiegel.de/wissenschaft/mensch/mysterioeser-ort-in-der-lueneburger-heide-das-geheimnis-der-oldendorfer-totenstatt-a-a1e5b2a7-1dec-45ac-a8ad-245487152765#ref=rss)
+* [https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-ueber-eine-million-tote-nato-chef-fordert-kriegerische-denkweise-ein](https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-ueber-eine-million-tote-nato-chef-fordert-kriegerische-denkweise-ein-a-803ccd14-0aca-4c37-92ab-7d132f5e247c#ref=rss)
+### drei
 
-* [https://www.spiegel.de/panorama/justiz/mallorca-tod-eines-deutschen-urlaubers-auf-der-autobahn-angeklagte-schuldig-gesprochen](https://www.spiegel.de/panorama/justiz/mallorca-tod-eines-deutschen-urlaubers-auf-der-autobahn-angeklagte-schuldig-gesprochen-a-eaee340f-4cfb-4f26-8073-d4565d88a080#ref=rss)
-### tod
+* [https://www.spiegel.de/wissenschaft/mensch/mysterioeser-ort-in-der-lueneburger-heide-das-geheimnis-der-oldendorfer-totenstatt](https://www.spiegel.de/wissenschaft/mensch/mysterioeser-ort-in-der-lueneburger-heide-das-geheimnis-der-oldendorfer-totenstatt-a-a1e5b2a7-1dec-45ac-a8ad-245487152765#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-news-heute-rebellenregierung-setzt-verfassung-und-parlament-ausser-kraft](https://www.spiegel.de/ausland/syrien-news-heute-rebellenregierung-setzt-verfassung-und-parlament-ausser-kraft-a-3723dc72-fec1-4595-be04-10cd7ffba33e#ref=rss)
+### michelle
 
-* [https://www.spiegel.de/panorama/justiz/mallorca-tod-eines-deutschen-urlaubers-auf-der-autobahn-angeklagte-schuldig-gesprochen](https://www.spiegel.de/panorama/justiz/mallorca-tod-eines-deutschen-urlaubers-auf-der-autobahn-angeklagte-schuldig-gesprochen-a-eaee340f-4cfb-4f26-8073-d4565d88a080#ref=rss)
-### deutschen
+* [https://www.spiegel.de/partnerschaft/michelle-hunziker-und-aurora-ramazzotti-ueber-schwangerschaften-mutterschaft-und-hoellenjahre](https://www.spiegel.de/partnerschaft/michelle-hunziker-und-aurora-ramazzotti-ueber-schwangerschaften-mutterschaft-und-hoellenjahre-a-33795513-e72b-4802-9a55-4b7c42f0307b#ref=rss)
+### hunziker
 
-* [https://www.spiegel.de/panorama/justiz/mallorca-tod-eines-deutschen-urlaubers-auf-der-autobahn-angeklagte-schuldig-gesprochen](https://www.spiegel.de/panorama/justiz/mallorca-tod-eines-deutschen-urlaubers-auf-der-autobahn-angeklagte-schuldig-gesprochen-a-eaee340f-4cfb-4f26-8073-d4565d88a080#ref=rss)
-### autobahn
+* [https://www.spiegel.de/partnerschaft/michelle-hunziker-und-aurora-ramazzotti-ueber-schwangerschaften-mutterschaft-und-hoellenjahre](https://www.spiegel.de/partnerschaft/michelle-hunziker-und-aurora-ramazzotti-ueber-schwangerschaften-mutterschaft-und-hoellenjahre-a-33795513-e72b-4802-9a55-4b7c42f0307b#ref=rss)
+### aurora
 
-* [https://www.spiegel.de/panorama/justiz/mallorca-tod-eines-deutschen-urlaubers-auf-der-autobahn-angeklagte-schuldig-gesprochen](https://www.spiegel.de/panorama/justiz/mallorca-tod-eines-deutschen-urlaubers-auf-der-autobahn-angeklagte-schuldig-gesprochen-a-eaee340f-4cfb-4f26-8073-d4565d88a080#ref=rss)
-### schuldig
+* [https://www.spiegel.de/partnerschaft/michelle-hunziker-und-aurora-ramazzotti-ueber-schwangerschaften-mutterschaft-und-hoellenjahre](https://www.spiegel.de/partnerschaft/michelle-hunziker-und-aurora-ramazzotti-ueber-schwangerschaften-mutterschaft-und-hoellenjahre-a-33795513-e72b-4802-9a55-4b7c42f0307b#ref=rss)
+### ramazzotti
 
-* [https://www.spiegel.de/panorama/justiz/mallorca-tod-eines-deutschen-urlaubers-auf-der-autobahn-angeklagte-schuldig-gesprochen](https://www.spiegel.de/panorama/justiz/mallorca-tod-eines-deutschen-urlaubers-auf-der-autobahn-angeklagte-schuldig-gesprochen-a-eaee340f-4cfb-4f26-8073-d4565d88a080#ref=rss)
-### markus
+* [https://www.spiegel.de/partnerschaft/michelle-hunziker-und-aurora-ramazzotti-ueber-schwangerschaften-mutterschaft-und-hoellenjahre](https://www.spiegel.de/partnerschaft/michelle-hunziker-und-aurora-ramazzotti-ueber-schwangerschaften-mutterschaft-und-hoellenjahre-a-33795513-e72b-4802-9a55-4b7c42f0307b#ref=rss)
+### höllenjahre
 
-* [https://www.spiegel.de/wirtschaft/markus-soeder-energieexperte-haelt-seinen-atomstromplan-mit-tschechien-fuer-nicht-umsetzbar](https://www.spiegel.de/wirtschaft/markus-soeder-energieexperte-haelt-seinen-atomstromplan-mit-tschechien-fuer-nicht-umsetzbar-a-7c1adfa9-772c-4c30-a6e9-f0c9852675c1#ref=rss)
-### söder
+* [https://www.spiegel.de/partnerschaft/michelle-hunziker-und-aurora-ramazzotti-ueber-schwangerschaften-mutterschaft-und-hoellenjahre](https://www.spiegel.de/partnerschaft/michelle-hunziker-und-aurora-ramazzotti-ueber-schwangerschaften-mutterschaft-und-hoellenjahre-a-33795513-e72b-4802-9a55-4b7c42f0307b#ref=rss)
+### mittlerweile
 
-* [https://www.spiegel.de/wirtschaft/markus-soeder-energieexperte-haelt-seinen-atomstromplan-mit-tschechien-fuer-nicht-umsetzbar](https://www.spiegel.de/wirtschaft/markus-soeder-energieexperte-haelt-seinen-atomstromplan-mit-tschechien-fuer-nicht-umsetzbar-a-7c1adfa9-772c-4c30-a6e9-f0c9852675c1#ref=rss)
-### energieexperte
+* [https://www.spiegel.de/partnerschaft/michelle-hunziker-und-aurora-ramazzotti-ueber-schwangerschaften-mutterschaft-und-hoellenjahre](https://www.spiegel.de/partnerschaft/michelle-hunziker-und-aurora-ramazzotti-ueber-schwangerschaften-mutterschaft-und-hoellenjahre-a-33795513-e72b-4802-9a55-4b7c42f0307b#ref=rss)
+* [https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-ueber-eine-million-tote-nato-chef-fordert-kriegerische-denkweise-ein](https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-ueber-eine-million-tote-nato-chef-fordert-kriegerische-denkweise-ein-a-803ccd14-0aca-4c37-92ab-7d132f5e247c#ref=rss)
+### mutter
 
-* [https://www.spiegel.de/wirtschaft/markus-soeder-energieexperte-haelt-seinen-atomstromplan-mit-tschechien-fuer-nicht-umsetzbar](https://www.spiegel.de/wirtschaft/markus-soeder-energieexperte-haelt-seinen-atomstromplan-mit-tschechien-fuer-nicht-umsetzbar-a-7c1adfa9-772c-4c30-a6e9-f0c9852675c1#ref=rss)
-### tschechien
+* [https://www.spiegel.de/partnerschaft/michelle-hunziker-und-aurora-ramazzotti-ueber-schwangerschaften-mutterschaft-und-hoellenjahre](https://www.spiegel.de/partnerschaft/michelle-hunziker-und-aurora-ramazzotti-ueber-schwangerschaften-mutterschaft-und-hoellenjahre-a-33795513-e72b-4802-9a55-4b7c42f0307b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/dubai-teenager-aus-grossbritannien-soll-wegen-urlaubsbeziehung-fuer-ein-jahr-ins-gefaengnis](https://www.spiegel.de/panorama/justiz/dubai-teenager-aus-grossbritannien-soll-wegen-urlaubsbeziehung-fuer-ein-jahr-ins-gefaengnis-a-868c02a4-954f-40aa-a812-ba6de6e11547#ref=rss)
+### 54
 
-* [https://www.spiegel.de/wirtschaft/markus-soeder-energieexperte-haelt-seinen-atomstromplan-mit-tschechien-fuer-nicht-umsetzbar](https://www.spiegel.de/wirtschaft/markus-soeder-energieexperte-haelt-seinen-atomstromplan-mit-tschechien-fuer-nicht-umsetzbar-a-7c1adfa9-772c-4c30-a6e9-f0c9852675c1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/erneuerbare-energien-neuer-rekord-54-prozent-des-stroms-in-deutschland-stammen-aus-oekostrom](https://www.spiegel.de/wirtschaft/erneuerbare-energien-neuer-rekord-54-prozent-des-stroms-in-deutschland-stammen-aus-oekostrom-a-9dde0208-dedd-4835-adc2-bc51a7438729#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-54-jahre-unter-dem-assad-regime-wie-der-vater-so-der-sohn](https://www.spiegel.de/ausland/syrien-54-jahre-unter-dem-assad-regime-wie-der-vater-so-der-sohn-a-12eab6ba-3977-4f11-8429-385e20ccada7#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/wirtschaft/erneuerbare-energien-neuer-rekord-54-prozent-des-stroms-in-deutschland-stammen-aus-oekostrom](https://www.spiegel.de/wirtschaft/erneuerbare-energien-neuer-rekord-54-prozent-des-stroms-in-deutschland-stammen-aus-oekostrom-a-9dde0208-dedd-4835-adc2-bc51a7438729#ref=rss)
+* [https://www.spiegel.de/sport/olympia/sportfoerderung-hockey-kapitaenin-nike-ruehr-ueber-krasses-doppelleben-zwischen-arbeit-und-sport](https://www.spiegel.de/sport/olympia/sportfoerderung-hockey-kapitaenin-nike-ruehr-ueber-krasses-doppelleben-zwischen-arbeit-und-sport-a-567869a6-d40f-4c98-bbcc-ae599c79d832#ref=rss)
+### zeigen
+
+* [https://www.spiegel.de/wirtschaft/erneuerbare-energien-neuer-rekord-54-prozent-des-stroms-in-deutschland-stammen-aus-oekostrom](https://www.spiegel.de/wirtschaft/erneuerbare-energien-neuer-rekord-54-prozent-des-stroms-in-deutschland-stammen-aus-oekostrom-a-9dde0208-dedd-4835-adc2-bc51a7438729#ref=rss)
+* [https://www.spiegel.de/kultur/syrien-debatte-ueber-abschiebungen-niemand-wird-freiwillig-zum-gefluechteten](https://www.spiegel.de/kultur/syrien-debatte-ueber-abschiebungen-niemand-wird-freiwillig-zum-gefluechteten-a-52003b72-b863-4aa8-857d-8e45b8f61cf8#ref=rss)
+### senkt
+
+* [https://www.spiegel.de/wirtschaft/zinsen-ezb-senkt-erneut-leitzinsen-aufgrund-unsicherer-us-politik](https://www.spiegel.de/wirtschaft/zinsen-ezb-senkt-erneut-leitzinsen-aufgrund-unsicherer-us-politik-a-2b298b42-2b0a-4f9c-a882-0125840cd772#ref=rss)
+### leitzinsen
+
+* [https://www.spiegel.de/wirtschaft/zinsen-ezb-senkt-erneut-leitzinsen-aufgrund-unsicherer-us-politik](https://www.spiegel.de/wirtschaft/zinsen-ezb-senkt-erneut-leitzinsen-aufgrund-unsicherer-us-politik-a-2b298b42-2b0a-4f9c-a882-0125840cd772#ref=rss)
+### niemand
+
+* [https://www.spiegel.de/wirtschaft/zinsen-ezb-senkt-erneut-leitzinsen-aufgrund-unsicherer-us-politik](https://www.spiegel.de/wirtschaft/zinsen-ezb-senkt-erneut-leitzinsen-aufgrund-unsicherer-us-politik-a-2b298b42-2b0a-4f9c-a882-0125840cd772#ref=rss)
+* [https://www.spiegel.de/kultur/syrien-debatte-ueber-abschiebungen-niemand-wird-freiwillig-zum-gefluechteten](https://www.spiegel.de/kultur/syrien-debatte-ueber-abschiebungen-niemand-wird-freiwillig-zum-gefluechteten-a-52003b72-b863-4aa8-857d-8e45b8f61cf8#ref=rss)
+### berlinneukölln
+
+* [https://www.spiegel.de/panorama/justiz/berlin-neukoelln-mehrjaehrige-haftstrafen-nach-rechtsextremen-brandanschlaegen](https://www.spiegel.de/panorama/justiz/berlin-neukoelln-mehrjaehrige-haftstrafen-nach-rechtsextremen-brandanschlaegen-a-5d6341f6-1fab-4457-a114-6ff10c436cbd#ref=rss)
+### angst
+
+* [https://www.spiegel.de/panorama/justiz/berlin-neukoelln-mehrjaehrige-haftstrafen-nach-rechtsextremen-brandanschlaegen](https://www.spiegel.de/panorama/justiz/berlin-neukoelln-mehrjaehrige-haftstrafen-nach-rechtsextremen-brandanschlaegen-a-5d6341f6-1fab-4457-a114-6ff10c436cbd#ref=rss)
+* [https://www.spiegel.de/panorama/norwegen-frau-sagt-mette-marits-sohn-marius-borg-hoiby-habe-sie-nicht-vergewaltigt](https://www.spiegel.de/panorama/norwegen-frau-sagt-mette-marits-sohn-marius-borg-hoiby-habe-sie-nicht-vergewaltigt-a-ecd137d5-e78c-4703-81f3-c8dacca5ffa2#ref=rss)
+### verurteilt
+
+* [https://www.spiegel.de/panorama/justiz/berlin-neukoelln-mehrjaehrige-haftstrafen-nach-rechtsextremen-brandanschlaegen](https://www.spiegel.de/panorama/justiz/berlin-neukoelln-mehrjaehrige-haftstrafen-nach-rechtsextremen-brandanschlaegen-a-5d6341f6-1fab-4457-a114-6ff10c436cbd#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/dubai-teenager-aus-grossbritannien-soll-wegen-urlaubsbeziehung-fuer-ein-jahr-ins-gefaengnis](https://www.spiegel.de/panorama/justiz/dubai-teenager-aus-grossbritannien-soll-wegen-urlaubsbeziehung-fuer-ein-jahr-ins-gefaengnis-a-868c02a4-954f-40aa-a812-ba6de6e11547#ref=rss)
+### konnte
+
+* [https://www.spiegel.de/ausland/syrien-54-jahre-unter-dem-assad-regime-wie-der-vater-so-der-sohn](https://www.spiegel.de/ausland/syrien-54-jahre-unter-dem-assad-regime-wie-der-vater-so-der-sohn-a-12eab6ba-3977-4f11-8429-385e20ccada7#ref=rss)
+### macht
+
+* [https://www.spiegel.de/ausland/syrien-54-jahre-unter-dem-assad-regime-wie-der-vater-so-der-sohn](https://www.spiegel.de/ausland/syrien-54-jahre-unter-dem-assad-regime-wie-der-vater-so-der-sohn-a-12eab6ba-3977-4f11-8429-385e20ccada7#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-teamgruender-eddie-jordan-macht-krebserkrankung-oeffentlich](https://www.spiegel.de/sport/formel1/formel-1-teamgruender-eddie-jordan-macht-krebserkrankung-oeffentlich-a-0e9eb87d-6c0d-4879-869d-6970678cc711#ref=rss)
+### lange
+
+* [https://www.spiegel.de/ausland/syrien-54-jahre-unter-dem-assad-regime-wie-der-vater-so-der-sohn](https://www.spiegel.de/ausland/syrien-54-jahre-unter-dem-assad-regime-wie-der-vater-so-der-sohn-a-12eab6ba-3977-4f11-8429-385e20ccada7#ref=rss)
+* [https://www.spiegel.de/kultur/syrien-debatte-ueber-abschiebungen-niemand-wird-freiwillig-zum-gefluechteten](https://www.spiegel.de/kultur/syrien-debatte-ueber-abschiebungen-niemand-wird-freiwillig-zum-gefluechteten-a-52003b72-b863-4aa8-857d-8e45b8f61cf8#ref=rss)
+### kanada
+
+* [https://www.spiegel.de/wirtschaft/service/kanada-donald-trump-ontarios-ministerpraesident-droht-den-usa-den-strom-abzustellen](https://www.spiegel.de/wirtschaft/service/kanada-donald-trump-ontarios-ministerpraesident-droht-den-usa-den-strom-abzustellen-a-6d26b3fa-b996-4b35-9c03-e6f0febd306e#ref=rss)
+### droht
+
+* [https://www.spiegel.de/wirtschaft/service/kanada-donald-trump-ontarios-ministerpraesident-droht-den-usa-den-strom-abzustellen](https://www.spiegel.de/wirtschaft/service/kanada-donald-trump-ontarios-ministerpraesident-droht-den-usa-den-strom-abzustellen-a-6d26b3fa-b996-4b35-9c03-e6f0febd306e#ref=rss)
+### usa
+
+* [https://www.spiegel.de/wirtschaft/service/kanada-donald-trump-ontarios-ministerpraesident-droht-den-usa-den-strom-abzustellen](https://www.spiegel.de/wirtschaft/service/kanada-donald-trump-ontarios-ministerpraesident-droht-den-usa-den-strom-abzustellen-a-6d26b3fa-b996-4b35-9c03-e6f0febd306e#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/kylie-kelce-stoesst-mit-erster-folge-not-gonna-lie-joe-rogan-vom-us-podcast-thron](https://www.spiegel.de/netzwelt/apps/kylie-kelce-stoesst-mit-erster-folge-not-gonna-lie-joe-rogan-vom-us-podcast-thron-a-f8850947-abcb-4940-a7ae-71ff4477dcfc#ref=rss)
+### teenager
+
+* [https://www.spiegel.de/panorama/justiz/dubai-teenager-aus-grossbritannien-soll-wegen-urlaubsbeziehung-fuer-ein-jahr-ins-gefaengnis](https://www.spiegel.de/panorama/justiz/dubai-teenager-aus-grossbritannien-soll-wegen-urlaubsbeziehung-fuer-ein-jahr-ins-gefaengnis-a-868c02a4-954f-40aa-a812-ba6de6e11547#ref=rss)
+* [https://www.spiegel.de/sport/schach-wm-dommaraju-gukesh-ist-weltmeister-mit-18-und-am-schachbrett-kullern-die-traenen](https://www.spiegel.de/sport/schach-wm-dommaraju-gukesh-ist-weltmeister-mit-18-und-am-schachbrett-kullern-die-traenen-a-e3603ded-e82f-4c5a-ae9a-38d0c371c833#ref=rss)
+### großbritannien
+
+* [https://www.spiegel.de/panorama/justiz/dubai-teenager-aus-grossbritannien-soll-wegen-urlaubsbeziehung-fuer-ein-jahr-ins-gefaengnis](https://www.spiegel.de/panorama/justiz/dubai-teenager-aus-grossbritannien-soll-wegen-urlaubsbeziehung-fuer-ein-jahr-ins-gefaengnis-a-868c02a4-954f-40aa-a812-ba6de6e11547#ref=rss)
+* [https://www.spiegel.de/ausland/britischer-premier-keir-starmer-und-kemi-badenoch-delikatessen-disput-entfacht-in-grossbritannien](https://www.spiegel.de/ausland/britischer-premier-keir-starmer-und-kemi-badenoch-delikatessen-disput-entfacht-in-grossbritannien-a-b21d7f80-3c53-49fd-a3cc-d0951d055363#ref=rss)
+### 18
+
+* [https://www.spiegel.de/panorama/justiz/dubai-teenager-aus-grossbritannien-soll-wegen-urlaubsbeziehung-fuer-ein-jahr-ins-gefaengnis](https://www.spiegel.de/panorama/justiz/dubai-teenager-aus-grossbritannien-soll-wegen-urlaubsbeziehung-fuer-ein-jahr-ins-gefaengnis-a-868c02a4-954f-40aa-a812-ba6de6e11547#ref=rss)
+* [https://www.spiegel.de/sport/schach-wm-dommaraju-gukesh-ist-weltmeister-mit-18-und-am-schachbrett-kullern-die-traenen](https://www.spiegel.de/sport/schach-wm-dommaraju-gukesh-ist-weltmeister-mit-18-und-am-schachbrett-kullern-die-traenen-a-e3603ded-e82f-4c5a-ae9a-38d0c371c833#ref=rss)
+### britische
+
+* [https://www.spiegel.de/panorama/justiz/dubai-teenager-aus-grossbritannien-soll-wegen-urlaubsbeziehung-fuer-ein-jahr-ins-gefaengnis](https://www.spiegel.de/panorama/justiz/dubai-teenager-aus-grossbritannien-soll-wegen-urlaubsbeziehung-fuer-ein-jahr-ins-gefaengnis-a-868c02a4-954f-40aa-a812-ba6de6e11547#ref=rss)
+* [https://www.spiegel.de/ausland/britischer-premier-keir-starmer-und-kemi-badenoch-delikatessen-disput-entfacht-in-grossbritannien](https://www.spiegel.de/ausland/britischer-premier-keir-starmer-und-kemi-badenoch-delikatessen-disput-entfacht-in-grossbritannien-a-b21d7f80-3c53-49fd-a3cc-d0951d055363#ref=rss)
+### manuel
+
+* [https://www.spiegel.de/sport/fussball/manuel-neuer-protest-gegen-pokalsperre-verhandlung-geraet-kurios](https://www.spiegel.de/sport/fussball/manuel-neuer-protest-gegen-pokalsperre-verhandlung-geraet-kurios-a-114dd2f7-9903-4b42-a7c2-e57a4ff4eefd#ref=rss)
+### verhandlung
+
+* [https://www.spiegel.de/sport/fussball/manuel-neuer-protest-gegen-pokalsperre-verhandlung-geraet-kurios](https://www.spiegel.de/sport/fussball/manuel-neuer-protest-gegen-pokalsperre-verhandlung-geraet-kurios-a-114dd2f7-9903-4b42-a7c2-e57a4ff4eefd#ref=rss)
+### eltern
+
+* [https://www.spiegel.de/gesundheit/polio-viren-im-abwasser-eltern-sollen-impfstatus-ihrer-kinder-ueberpruefen](https://www.spiegel.de/gesundheit/polio-viren-im-abwasser-eltern-sollen-impfstatus-ihrer-kinder-ueberpruefen-a-86155e02-4b24-4d81-801f-276bdb0292d3#ref=rss)
+### kinder
+
+* [https://www.spiegel.de/gesundheit/polio-viren-im-abwasser-eltern-sollen-impfstatus-ihrer-kinder-ueberpruefen](https://www.spiegel.de/gesundheit/polio-viren-im-abwasser-eltern-sollen-impfstatus-ihrer-kinder-ueberpruefen-a-86155e02-4b24-4d81-801f-276bdb0292d3#ref=rss)
+### rebellenregierung
+
+* [https://www.spiegel.de/ausland/syrien-news-heute-rebellenregierung-setzt-verfassung-und-parlament-ausser-kraft](https://www.spiegel.de/ausland/syrien-news-heute-rebellenregierung-setzt-verfassung-und-parlament-ausser-kraft-a-3723dc72-fec1-4595-be04-10cd7ffba33e#ref=rss)
+### setzt
+
+* [https://www.spiegel.de/ausland/syrien-news-heute-rebellenregierung-setzt-verfassung-und-parlament-ausser-kraft](https://www.spiegel.de/ausland/syrien-news-heute-rebellenregierung-setzt-verfassung-und-parlament-ausser-kraft-a-3723dc72-fec1-4595-be04-10cd7ffba33e#ref=rss)
+### verfassung
+
+* [https://www.spiegel.de/ausland/syrien-news-heute-rebellenregierung-setzt-verfassung-und-parlament-ausser-kraft](https://www.spiegel.de/ausland/syrien-news-heute-rebellenregierung-setzt-verfassung-und-parlament-ausser-kraft-a-3723dc72-fec1-4595-be04-10cd7ffba33e#ref=rss)
+### parlament
+
+* [https://www.spiegel.de/ausland/syrien-news-heute-rebellenregierung-setzt-verfassung-und-parlament-ausser-kraft](https://www.spiegel.de/ausland/syrien-news-heute-rebellenregierung-setzt-verfassung-und-parlament-ausser-kraft-a-3723dc72-fec1-4595-be04-10cd7ffba33e#ref=rss)
+### gröner
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bauunternehmer-christoph-groener-ist-offenbar-privatinsolvent](https://www.spiegel.de/wirtschaft/unternehmen/bauunternehmer-christoph-groener-ist-offenbar-privatinsolvent-a-dd87a719-2f13-4b5c-90c1-dfa160a5f641#ref=rss)
+### selbst
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bauunternehmer-christoph-groener-ist-offenbar-privatinsolvent](https://www.spiegel.de/wirtschaft/unternehmen/bauunternehmer-christoph-groener-ist-offenbar-privatinsolvent-a-dd87a719-2f13-4b5c-90c1-dfa160a5f641#ref=rss)
+* [https://www.spiegel.de/kultur/syrien-debatte-ueber-abschiebungen-niemand-wird-freiwillig-zum-gefluechteten](https://www.spiegel.de/kultur/syrien-debatte-ueber-abschiebungen-niemand-wird-freiwillig-zum-gefluechteten-a-52003b72-b863-4aa8-857d-8e45b8f61cf8#ref=rss)
+### energieagentur
+
+* [https://www.spiegel.de/wirtschaft/service/oel-energieagentur-erwartet-weltweite-ueberproduktion-fuer-2025](https://www.spiegel.de/wirtschaft/service/oel-energieagentur-erwartet-weltweite-ueberproduktion-fuer-2025-a-3f73555a-a827-435d-bb6f-ddce62d261a2#ref=rss)
+### eddie
+
+* [https://www.spiegel.de/sport/formel1/formel-1-teamgruender-eddie-jordan-macht-krebserkrankung-oeffentlich](https://www.spiegel.de/sport/formel1/formel-1-teamgruender-eddie-jordan-macht-krebserkrankung-oeffentlich-a-0e9eb87d-6c0d-4879-869d-6970678cc711#ref=rss)
+### jordan
+
+* [https://www.spiegel.de/sport/formel1/formel-1-teamgruender-eddie-jordan-macht-krebserkrankung-oeffentlich](https://www.spiegel.de/sport/formel1/formel-1-teamgruender-eddie-jordan-macht-krebserkrankung-oeffentlich-a-0e9eb87d-6c0d-4879-869d-6970678cc711#ref=rss)
+### rundfunkbeitrag
+
+* [https://www.spiegel.de/wirtschaft/service/rundfunkbeitrag-gebuehr-steigt-erstmal-nicht-bundeslaender-einigen-sich](https://www.spiegel.de/wirtschaft/service/rundfunkbeitrag-gebuehr-steigt-erstmal-nicht-bundeslaender-einigen-sich-a-bcc569f8-d3fe-4ac1-bbd7-1d7c8a878a56#ref=rss)
+### russlands
+
+* [https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-ueber-eine-million-tote-nato-chef-fordert-kriegerische-denkweise-ein](https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-ueber-eine-million-tote-nato-chef-fordert-kriegerische-denkweise-ein-a-803ccd14-0aca-4c37-92ab-7d132f5e247c#ref=rss)
+### krieg
+
+* [https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-ueber-eine-million-tote-nato-chef-fordert-kriegerische-denkweise-ein](https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-ueber-eine-million-tote-nato-chef-fordert-kriegerische-denkweise-ein-a-803ccd14-0aca-4c37-92ab-7d132f5e247c#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-ueber-eine-million-tote-nato-chef-fordert-kriegerische-denkweise-ein](https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-ueber-eine-million-tote-nato-chef-fordert-kriegerische-denkweise-ein-a-803ccd14-0aca-4c37-92ab-7d132f5e247c#ref=rss)
+### million
+
+* [https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-ueber-eine-million-tote-nato-chef-fordert-kriegerische-denkweise-ein](https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-ueber-eine-million-tote-nato-chef-fordert-kriegerische-denkweise-ein-a-803ccd14-0aca-4c37-92ab-7d132f5e247c#ref=rss)
+### natochef
+
+* [https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-ueber-eine-million-tote-nato-chef-fordert-kriegerische-denkweise-ein](https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-ueber-eine-million-tote-nato-chef-fordert-kriegerische-denkweise-ein-a-803ccd14-0aca-4c37-92ab-7d132f5e247c#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-ueber-eine-million-tote-nato-chef-fordert-kriegerische-denkweise-ein](https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-ueber-eine-million-tote-nato-chef-fordert-kriegerische-denkweise-ein-a-803ccd14-0aca-4c37-92ab-7d132f5e247c#ref=rss)
+### kriegerische
+
+* [https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-ueber-eine-million-tote-nato-chef-fordert-kriegerische-denkweise-ein](https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-ueber-eine-million-tote-nato-chef-fordert-kriegerische-denkweise-ein-a-803ccd14-0aca-4c37-92ab-7d132f5e247c#ref=rss)
+### denkweise
+
+* [https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-ueber-eine-million-tote-nato-chef-fordert-kriegerische-denkweise-ein](https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-ueber-eine-million-tote-nato-chef-fordert-kriegerische-denkweise-ein-a-803ccd14-0aca-4c37-92ab-7d132f5e247c#ref=rss)
+### frau
+
+* [https://www.spiegel.de/panorama/norwegen-frau-sagt-mette-marits-sohn-marius-borg-hoiby-habe-sie-nicht-vergewaltigt](https://www.spiegel.de/panorama/norwegen-frau-sagt-mette-marits-sohn-marius-borg-hoiby-habe-sie-nicht-vergewaltigt-a-ecd137d5-e78c-4703-81f3-c8dacca5ffa2#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/kylie-kelce-stoesst-mit-erster-folge-not-gonna-lie-joe-rogan-vom-us-podcast-thron](https://www.spiegel.de/netzwelt/apps/kylie-kelce-stoesst-mit-erster-folge-not-gonna-lie-joe-rogan-vom-us-podcast-thron-a-f8850947-abcb-4940-a7ae-71ff4477dcfc#ref=rss)
+### marius
+
+* [https://www.spiegel.de/panorama/norwegen-frau-sagt-mette-marits-sohn-marius-borg-hoiby-habe-sie-nicht-vergewaltigt](https://www.spiegel.de/panorama/norwegen-frau-sagt-mette-marits-sohn-marius-borg-hoiby-habe-sie-nicht-vergewaltigt-a-ecd137d5-e78c-4703-81f3-c8dacca5ffa2#ref=rss)
+### borg
+
+* [https://www.spiegel.de/panorama/norwegen-frau-sagt-mette-marits-sohn-marius-borg-hoiby-habe-sie-nicht-vergewaltigt](https://www.spiegel.de/panorama/norwegen-frau-sagt-mette-marits-sohn-marius-borg-hoiby-habe-sie-nicht-vergewaltigt-a-ecd137d5-e78c-4703-81f3-c8dacca5ffa2#ref=rss)
+### høiby
+
+* [https://www.spiegel.de/panorama/norwegen-frau-sagt-mette-marits-sohn-marius-borg-hoiby-habe-sie-nicht-vergewaltigt](https://www.spiegel.de/panorama/norwegen-frau-sagt-mette-marits-sohn-marius-borg-hoiby-habe-sie-nicht-vergewaltigt-a-ecd137d5-e78c-4703-81f3-c8dacca5ffa2#ref=rss)
+### vergewaltigt
+
+* [https://www.spiegel.de/panorama/norwegen-frau-sagt-mette-marits-sohn-marius-borg-hoiby-habe-sie-nicht-vergewaltigt](https://www.spiegel.de/panorama/norwegen-frau-sagt-mette-marits-sohn-marius-borg-hoiby-habe-sie-nicht-vergewaltigt-a-ecd137d5-e78c-4703-81f3-c8dacca5ffa2#ref=rss)
+### pen
+
+* [https://www.spiegel.de/kultur/pen-berlin-bleibende-mitglieder-kritisieren-aussteiger-in-oeffentlichem-brief](https://www.spiegel.de/kultur/pen-berlin-bleibende-mitglieder-kritisieren-aussteiger-in-oeffentlichem-brief-a-772223c6-7d1d-4167-aed9-e663924eeae2#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/kultur/pen-berlin-bleibende-mitglieder-kritisieren-aussteiger-in-oeffentlichem-brief](https://www.spiegel.de/kultur/pen-berlin-bleibende-mitglieder-kritisieren-aussteiger-in-oeffentlichem-brief-a-772223c6-7d1d-4167-aed9-e663924eeae2#ref=rss)
+### kemi
+
+* [https://www.spiegel.de/ausland/britischer-premier-keir-starmer-und-kemi-badenoch-delikatessen-disput-entfacht-in-grossbritannien](https://www.spiegel.de/ausland/britischer-premier-keir-starmer-und-kemi-badenoch-delikatessen-disput-entfacht-in-grossbritannien-a-b21d7f80-3c53-49fd-a3cc-d0951d055363#ref=rss)
+### badenoch
+
+* [https://www.spiegel.de/ausland/britischer-premier-keir-starmer-und-kemi-badenoch-delikatessen-disput-entfacht-in-grossbritannien](https://www.spiegel.de/ausland/britischer-premier-keir-starmer-und-kemi-badenoch-delikatessen-disput-entfacht-in-grossbritannien-a-b21d7f80-3c53-49fd-a3cc-d0951d055363#ref=rss)
+### kylie
+
+* [https://www.spiegel.de/netzwelt/apps/kylie-kelce-stoesst-mit-erster-folge-not-gonna-lie-joe-rogan-vom-us-podcast-thron](https://www.spiegel.de/netzwelt/apps/kylie-kelce-stoesst-mit-erster-folge-not-gonna-lie-joe-rogan-vom-us-podcast-thron-a-f8850947-abcb-4940-a7ae-71ff4477dcfc#ref=rss)
+### joe
+
+* [https://www.spiegel.de/netzwelt/apps/kylie-kelce-stoesst-mit-erster-folge-not-gonna-lie-joe-rogan-vom-us-podcast-thron](https://www.spiegel.de/netzwelt/apps/kylie-kelce-stoesst-mit-erster-folge-not-gonna-lie-joe-rogan-vom-us-podcast-thron-a-f8850947-abcb-4940-a7ae-71ff4477dcfc#ref=rss)
+### rogan
+
+* [https://www.spiegel.de/netzwelt/apps/kylie-kelce-stoesst-mit-erster-folge-not-gonna-lie-joe-rogan-vom-us-podcast-thron](https://www.spiegel.de/netzwelt/apps/kylie-kelce-stoesst-mit-erster-folge-not-gonna-lie-joe-rogan-vom-us-podcast-thron-a-f8850947-abcb-4940-a7ae-71ff4477dcfc#ref=rss)
+### eigentlich
+
+* [https://www.spiegel.de/netzwelt/apps/kylie-kelce-stoesst-mit-erster-folge-not-gonna-lie-joe-rogan-vom-us-podcast-thron](https://www.spiegel.de/netzwelt/apps/kylie-kelce-stoesst-mit-erster-folge-not-gonna-lie-joe-rogan-vom-us-podcast-thron-a-f8850947-abcb-4940-a7ae-71ff4477dcfc#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/ios-18-2-fuers-iphone-16-das-steckt-in-apples-neuem-kameraknopf](https://www.spiegel.de/netzwelt/gadgets/ios-18-2-fuers-iphone-16-das-steckt-in-apples-neuem-kameraknopf-a-ce143d98-8301-4ca0-a1b2-e3afb9c2153f#ref=rss)
+### bakdasch
+
+* [https://www.spiegel.de/ausland/syrien-cafe-bakdasch-nach-dem-sturz-von-baschar-al-assad-treffen-sich-syrer-in-beruehmter-eisdiele](https://www.spiegel.de/ausland/syrien-cafe-bakdasch-nach-dem-sturz-von-baschar-al-assad-treffen-sich-syrer-in-beruehmter-eisdiele-a-b124ac4a-e93f-4ab1-af57-8b1e1f2a093e#ref=rss)
+### eisdiele
+
+* [https://www.spiegel.de/ausland/syrien-cafe-bakdasch-nach-dem-sturz-von-baschar-al-assad-treffen-sich-syrer-in-beruehmter-eisdiele](https://www.spiegel.de/ausland/syrien-cafe-bakdasch-nach-dem-sturz-von-baschar-al-assad-treffen-sich-syrer-in-beruehmter-eisdiele-a-b124ac4a-e93f-4ab1-af57-8b1e1f2a093e#ref=rss)
+### sportförderung
+
+* [https://www.spiegel.de/sport/olympia/sportfoerderung-hockey-kapitaenin-nike-ruehr-ueber-krasses-doppelleben-zwischen-arbeit-und-sport](https://www.spiegel.de/sport/olympia/sportfoerderung-hockey-kapitaenin-nike-ruehr-ueber-krasses-doppelleben-zwischen-arbeit-und-sport-a-567869a6-d40f-4c98-bbcc-ae599c79d832#ref=rss)
+### nike
+
+* [https://www.spiegel.de/sport/olympia/sportfoerderung-hockey-kapitaenin-nike-ruehr-ueber-krasses-doppelleben-zwischen-arbeit-und-sport](https://www.spiegel.de/sport/olympia/sportfoerderung-hockey-kapitaenin-nike-ruehr-ueber-krasses-doppelleben-zwischen-arbeit-und-sport-a-567869a6-d40f-4c98-bbcc-ae599c79d832#ref=rss)
+### rühr
+
+* [https://www.spiegel.de/sport/olympia/sportfoerderung-hockey-kapitaenin-nike-ruehr-ueber-krasses-doppelleben-zwischen-arbeit-und-sport](https://www.spiegel.de/sport/olympia/sportfoerderung-hockey-kapitaenin-nike-ruehr-ueber-krasses-doppelleben-zwischen-arbeit-und-sport-a-567869a6-d40f-4c98-bbcc-ae599c79d832#ref=rss)
+### doppelleben
+
+* [https://www.spiegel.de/sport/olympia/sportfoerderung-hockey-kapitaenin-nike-ruehr-ueber-krasses-doppelleben-zwischen-arbeit-und-sport](https://www.spiegel.de/sport/olympia/sportfoerderung-hockey-kapitaenin-nike-ruehr-ueber-krasses-doppelleben-zwischen-arbeit-und-sport-a-567869a6-d40f-4c98-bbcc-ae599c79d832#ref=rss)
+### arbeit
+
+* [https://www.spiegel.de/sport/olympia/sportfoerderung-hockey-kapitaenin-nike-ruehr-ueber-krasses-doppelleben-zwischen-arbeit-und-sport](https://www.spiegel.de/sport/olympia/sportfoerderung-hockey-kapitaenin-nike-ruehr-ueber-krasses-doppelleben-zwischen-arbeit-und-sport-a-567869a6-d40f-4c98-bbcc-ae599c79d832#ref=rss)
+### sport
+
+* [https://www.spiegel.de/sport/olympia/sportfoerderung-hockey-kapitaenin-nike-ruehr-ueber-krasses-doppelleben-zwischen-arbeit-und-sport](https://www.spiegel.de/sport/olympia/sportfoerderung-hockey-kapitaenin-nike-ruehr-ueber-krasses-doppelleben-zwischen-arbeit-und-sport-a-567869a6-d40f-4c98-bbcc-ae599c79d832#ref=rss)
+### abschiebungen
+
+* [https://www.spiegel.de/kultur/syrien-debatte-ueber-abschiebungen-niemand-wird-freiwillig-zum-gefluechteten](https://www.spiegel.de/kultur/syrien-debatte-ueber-abschiebungen-niemand-wird-freiwillig-zum-gefluechteten-a-52003b72-b863-4aa8-857d-8e45b8f61cf8#ref=rss)
+### wir
+
+* [https://www.spiegel.de/kultur/syrien-debatte-ueber-abschiebungen-niemand-wird-freiwillig-zum-gefluechteten](https://www.spiegel.de/kultur/syrien-debatte-ueber-abschiebungen-niemand-wird-freiwillig-zum-gefluechteten-a-52003b72-b863-4aa8-857d-8e45b8f61cf8#ref=rss)
+### fentanyl
+
+* [https://www.spiegel.de/wissenschaft/natur/mexiko-forscher-weisen-fentanyl-in-delfinen-nach](https://www.spiegel.de/wissenschaft/natur/mexiko-forscher-weisen-fentanyl-in-delfinen-nach-a-deda52f7-447c-41b7-b1db-138006f8fbd6#ref=rss)
+### delfinen
+
+* [https://www.spiegel.de/wissenschaft/natur/mexiko-forscher-weisen-fentanyl-in-delfinen-nach](https://www.spiegel.de/wissenschaft/natur/mexiko-forscher-weisen-fentanyl-in-delfinen-nach-a-deda52f7-447c-41b7-b1db-138006f8fbd6#ref=rss)
+### ios
+
+* [https://www.spiegel.de/netzwelt/gadgets/ios-18-2-fuers-iphone-16-das-steckt-in-apples-neuem-kameraknopf](https://www.spiegel.de/netzwelt/gadgets/ios-18-2-fuers-iphone-16-das-steckt-in-apples-neuem-kameraknopf-a-ce143d98-8301-4ca0-a1b2-e3afb9c2153f#ref=rss)
+### 182
+
+* [https://www.spiegel.de/netzwelt/gadgets/ios-18-2-fuers-iphone-16-das-steckt-in-apples-neuem-kameraknopf](https://www.spiegel.de/netzwelt/gadgets/ios-18-2-fuers-iphone-16-das-steckt-in-apples-neuem-kameraknopf-a-ce143d98-8301-4ca0-a1b2-e3afb9c2153f#ref=rss)
+### apple
+
+* [https://www.spiegel.de/netzwelt/gadgets/ios-18-2-fuers-iphone-16-das-steckt-in-apples-neuem-kameraknopf](https://www.spiegel.de/netzwelt/gadgets/ios-18-2-fuers-iphone-16-das-steckt-in-apples-neuem-kameraknopf-a-ce143d98-8301-4ca0-a1b2-e3afb9c2153f#ref=rss)
+### olaf
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-schliesst-vizekanzlerschaft-unter-friedrich-merz-aus](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-schliesst-vizekanzlerschaft-unter-friedrich-merz-aus-a-6f33e93d-c118-4c89-a081-f608508b16ef#ref=rss)
+### scholz
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-schliesst-vizekanzlerschaft-unter-friedrich-merz-aus](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-schliesst-vizekanzlerschaft-unter-friedrich-merz-aus-a-6f33e93d-c118-4c89-a081-f608508b16ef#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-schliesst-vizekanzlerschaft-unter-friedrich-merz-aus](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-schliesst-vizekanzlerschaft-unter-friedrich-merz-aus-a-6f33e93d-c118-4c89-a081-f608508b16ef#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-schliesst-vizekanzlerschaft-unter-friedrich-merz-aus](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-schliesst-vizekanzlerschaft-unter-friedrich-merz-aus-a-6f33e93d-c118-4c89-a081-f608508b16ef#ref=rss)
 
