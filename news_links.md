@@ -4,325 +4,376 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### euro
+### ich
 
-* [https://www.spiegel.de/start/universitaet-erlangen-nuernberg-studierende-zahlen-fuer-steckdosen-10-000-euro-aus-eigenem-budget](https://www.spiegel.de/start/universitaet-erlangen-nuernberg-studierende-zahlen-fuer-steckdosen-10-000-euro-aus-eigenem-budget-a-d93cf442-bb63-41e4-8c93-242659e7db85#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-humboldt-universitaet-erleidet-niederlage-im-streit-gegen-studenten](https://www.spiegel.de/panorama/justiz/berlin-humboldt-universitaet-erleidet-niederlage-im-streit-gegen-studenten-a-663d14a7-6441-4b1b-8fea-b3aa0e57eff7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/cum-ex-mehrjaehrige-haftstrafen-im-ersten-muenchner-prozess](https://www.spiegel.de/wirtschaft/cum-ex-mehrjaehrige-haftstrafen-im-ersten-muenchner-prozess-a-638c191e-a1c0-404b-bd67-9c29ab51c069#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/bund-und-laender-einigen-sich-auf-digitalpakt-2-0-fuer-schulen](https://www.spiegel.de/panorama/bildung/bund-und-laender-einigen-sich-auf-digitalpakt-2-0-fuer-schulen-a-7290e18a-c0f1-49ea-826c-5f4cfbc6503b#ref=rss)
-### georgien
-
-* [https://www.spiegel.de/politik/deutschland/georgien-auswaertiges-amt-setzt-sich-fuer-sanktionen-bei-georgien-ein](https://www.spiegel.de/politik/deutschland/georgien-auswaertiges-amt-setzt-sich-fuer-sanktionen-bei-georgien-ein-a-8b7d23be-8a00-4ea3-a3b0-3dea451982c2#ref=rss)
-### françois
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-umsturz-in-syrien-francois-bayrou-alice-schwarzer](https://www.spiegel.de/politik/deutschland/news-des-tages-umsturz-in-syrien-francois-bayrou-alice-schwarzer-a-c27ad820-c8a6-4ea7-a412-7bc3aec49cad#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-neuer-premier-francois-bayrou-anderer-name-gleiches-problem](https://www.spiegel.de/ausland/frankreich-neuer-premier-francois-bayrou-anderer-name-gleiches-problem-a-ae8739e7-ca58-4d77-a246-c4a7e938b78c#ref=rss)
-### bayrou
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-umsturz-in-syrien-francois-bayrou-alice-schwarzer](https://www.spiegel.de/politik/deutschland/news-des-tages-umsturz-in-syrien-francois-bayrou-alice-schwarzer-a-c27ad820-c8a6-4ea7-a412-7bc3aec49cad#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-neuer-premier-francois-bayrou-anderer-name-gleiches-problem](https://www.spiegel.de/ausland/frankreich-neuer-premier-francois-bayrou-anderer-name-gleiches-problem-a-ae8739e7-ca58-4d77-a246-c4a7e938b78c#ref=rss)
-### russland
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-umsturz-in-syrien-francois-bayrou-alice-schwarzer](https://www.spiegel.de/politik/deutschland/news-des-tages-umsturz-in-syrien-francois-bayrou-alice-schwarzer-a-c27ad820-c8a6-4ea7-a412-7bc3aec49cad#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-designierter-us-praesident-bekommt-lob-vom-kreml-fuer-aussagen-zum-ukraine-krieg](https://www.spiegel.de/ausland/donald-trump-designierter-us-praesident-bekommt-lob-vom-kreml-fuer-aussagen-zum-ukraine-krieg-a-dcabc591-88dc-4b88-8aa3-d150d79990ae#ref=rss)
-* [https://www.spiegel.de/ausland/staatskrise-in-rumaenien-pandemie-des-hasses](https://www.spiegel.de/ausland/staatskrise-in-rumaenien-pandemie-des-hasses-a-e5b29304-a642-442b-a499-414aec1ae915#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-umsturz-in-syrien-francois-bayrou-alice-schwarzer](https://www.spiegel.de/politik/deutschland/news-des-tages-umsturz-in-syrien-francois-bayrou-alice-schwarzer-a-c27ad820-c8a6-4ea7-a412-7bc3aec49cad#ref=rss)
-* [https://www.spiegel.de/kultur/kino/angelina-jolie-schmerz-sperrte-ihre-stimme-ein-nun-hat-sie-sie-freigelassen](https://www.spiegel.de/kultur/kino/angelina-jolie-schmerz-sperrte-ihre-stimme-ein-nun-hat-sie-sie-freigelassen-a-93fc6914-782f-4ca8-998a-78e4a66129a5#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-neuer-premier-francois-bayrou-anderer-name-gleiches-problem](https://www.spiegel.de/ausland/frankreich-neuer-premier-francois-bayrou-anderer-name-gleiches-problem-a-ae8739e7-ca58-4d77-a246-c4a7e938b78c#ref=rss)
-### forderungen
-
-* [https://www.spiegel.de/politik/deutschland/robert-habeck-wie-der-gruenen-kanzlerkandidat-versucht-wahlkampf-ohne-jedes-thema-zu-machen](https://www.spiegel.de/politik/deutschland/robert-habeck-wie-der-gruenen-kanzlerkandidat-versucht-wahlkampf-ohne-jedes-thema-zu-machen-a-0573c30c-dfe9-4f3f-b2cf-9e6c0990b069#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-fussfessel-genderverbot-steuerfreies-eigenheim](https://www.spiegel.de/politik/deutschland/cdu-fussfessel-genderverbot-steuerfreies-eigenheim-a-c4fa152f-5efd-4bf1-a628-4a1aded1e5e9#ref=rss)
-### kritik
-
-* [https://www.spiegel.de/ausland/donald-trump-designierter-us-praesident-bekommt-lob-vom-kreml-fuer-aussagen-zum-ukraine-krieg](https://www.spiegel.de/ausland/donald-trump-designierter-us-praesident-bekommt-lob-vom-kreml-fuer-aussagen-zum-ukraine-krieg-a-dcabc591-88dc-4b88-8aa3-d150d79990ae#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundesregierung-kippt-laut-medienbericht-ihre-fernwaerme-plaene](https://www.spiegel.de/politik/deutschland/bundesregierung-kippt-laut-medienbericht-ihre-fernwaerme-plaene-a-646a5705-1e8d-461a-b599-14e9ec4e1616#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-ruanda-bewirbt-sich-um-rennen](https://www.spiegel.de/sport/formel1/formel-1-ruanda-bewirbt-sich-um-rennen-a-4707ecf7-392c-42a1-8297-faafb7836363#ref=rss)
-### prozess
-
-* [https://www.spiegel.de/wirtschaft/cum-ex-mehrjaehrige-haftstrafen-im-ersten-muenchner-prozess](https://www.spiegel.de/wirtschaft/cum-ex-mehrjaehrige-haftstrafen-im-ersten-muenchner-prozess-a-638c191e-a1c0-404b-bd67-9c29ab51c069#ref=rss)
-* [https://www.spiegel.de/ausland/avignon-der-prozess-pelicot-die-videos-folge-3-podcast](https://www.spiegel.de/ausland/avignon-der-prozess-pelicot-die-videos-folge-3-podcast-a-2d223920-9d44-40eb-99f0-58ef0eaa0487#ref=rss)
-### männer
-
-* [https://www.spiegel.de/wirtschaft/cum-ex-mehrjaehrige-haftstrafen-im-ersten-muenchner-prozess](https://www.spiegel.de/wirtschaft/cum-ex-mehrjaehrige-haftstrafen-im-ersten-muenchner-prozess-a-638c191e-a1c0-404b-bd67-9c29ab51c069#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bayern-polizei-stoppt-transporter-mit-1-5-tonnen-illegaler-pyrotechnik](https://www.spiegel.de/panorama/justiz/bayern-polizei-stoppt-transporter-mit-1-5-tonnen-illegaler-pyrotechnik-a-b4cb0fe6-0609-429c-b7c5-c226f36d517b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bka-bericht-lgbtq-community-besonders-von-straftaten-betroffen](https://www.spiegel.de/panorama/justiz/bka-bericht-lgbtq-community-besonders-von-straftaten-betroffen-a-742361ea-7517-445d-89ac-8f81ea13aaa4#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/wirtschaft/cum-ex-mehrjaehrige-haftstrafen-im-ersten-muenchner-prozess](https://www.spiegel.de/wirtschaft/cum-ex-mehrjaehrige-haftstrafen-im-ersten-muenchner-prozess-a-638c191e-a1c0-404b-bd67-9c29ab51c069#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/klimakrise-in-alaska-vier-millionen-trottellummen-einfach-verschwunden](https://www.spiegel.de/wissenschaft/natur/klimakrise-in-alaska-vier-millionen-trottellummen-einfach-verschwunden-a-09b2c7c0-f78b-4049-9b8b-19fa0478e5d6#ref=rss)
-### chanel
-
-* [https://www.spiegel.de/stil/chanel-matthieu-blazy-wird-neuer-kreativdirektor-verjuengungskur-fuer-die-luxusmarke](https://www.spiegel.de/stil/chanel-matthieu-blazy-wird-neuer-kreativdirektor-verjuengungskur-fuer-die-luxusmarke-a-383cbb3b-2341-4146-8f00-d716583879fe#ref=rss)
-### matthieu
-
-* [https://www.spiegel.de/stil/chanel-matthieu-blazy-wird-neuer-kreativdirektor-verjuengungskur-fuer-die-luxusmarke](https://www.spiegel.de/stil/chanel-matthieu-blazy-wird-neuer-kreativdirektor-verjuengungskur-fuer-die-luxusmarke-a-383cbb3b-2341-4146-8f00-d716583879fe#ref=rss)
-### blazy
-
-* [https://www.spiegel.de/stil/chanel-matthieu-blazy-wird-neuer-kreativdirektor-verjuengungskur-fuer-die-luxusmarke](https://www.spiegel.de/stil/chanel-matthieu-blazy-wird-neuer-kreativdirektor-verjuengungskur-fuer-die-luxusmarke-a-383cbb3b-2341-4146-8f00-d716583879fe#ref=rss)
-### neuer
-
-* [https://www.spiegel.de/stil/chanel-matthieu-blazy-wird-neuer-kreativdirektor-verjuengungskur-fuer-die-luxusmarke](https://www.spiegel.de/stil/chanel-matthieu-blazy-wird-neuer-kreativdirektor-verjuengungskur-fuer-die-luxusmarke-a-383cbb3b-2341-4146-8f00-d716583879fe#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-neuer-premier-francois-bayrou-anderer-name-gleiches-problem](https://www.spiegel.de/ausland/frankreich-neuer-premier-francois-bayrou-anderer-name-gleiches-problem-a-ae8739e7-ca58-4d77-a246-c4a7e938b78c#ref=rss)
-### luxusmarke
-
-* [https://www.spiegel.de/stil/chanel-matthieu-blazy-wird-neuer-kreativdirektor-verjuengungskur-fuer-die-luxusmarke](https://www.spiegel.de/stil/chanel-matthieu-blazy-wird-neuer-kreativdirektor-verjuengungskur-fuer-die-luxusmarke-a-383cbb3b-2341-4146-8f00-d716583879fe#ref=rss)
-### universität
-
-* [https://www.spiegel.de/start/universitaet-erlangen-nuernberg-studierende-zahlen-fuer-steckdosen-10-000-euro-aus-eigenem-budget](https://www.spiegel.de/start/universitaet-erlangen-nuernberg-studierende-zahlen-fuer-steckdosen-10-000-euro-aus-eigenem-budget-a-d93cf442-bb63-41e4-8c93-242659e7db85#ref=rss)
-### erlangennürnberg
-
-* [https://www.spiegel.de/start/universitaet-erlangen-nuernberg-studierende-zahlen-fuer-steckdosen-10-000-euro-aus-eigenem-budget](https://www.spiegel.de/start/universitaet-erlangen-nuernberg-studierende-zahlen-fuer-steckdosen-10-000-euro-aus-eigenem-budget-a-d93cf442-bb63-41e4-8c93-242659e7db85#ref=rss)
-### studierende
-
-* [https://www.spiegel.de/start/universitaet-erlangen-nuernberg-studierende-zahlen-fuer-steckdosen-10-000-euro-aus-eigenem-budget](https://www.spiegel.de/start/universitaet-erlangen-nuernberg-studierende-zahlen-fuer-steckdosen-10-000-euro-aus-eigenem-budget-a-d93cf442-bb63-41e4-8c93-242659e7db85#ref=rss)
-### zahlen
-
-* [https://www.spiegel.de/start/universitaet-erlangen-nuernberg-studierende-zahlen-fuer-steckdosen-10-000-euro-aus-eigenem-budget](https://www.spiegel.de/start/universitaet-erlangen-nuernberg-studierende-zahlen-fuer-steckdosen-10-000-euro-aus-eigenem-budget-a-d93cf442-bb63-41e4-8c93-242659e7db85#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bka-bericht-lgbtq-community-besonders-von-straftaten-betroffen](https://www.spiegel.de/panorama/justiz/bka-bericht-lgbtq-community-besonders-von-straftaten-betroffen-a-742361ea-7517-445d-89ac-8f81ea13aaa4#ref=rss)
-### tut
-
-* [https://www.spiegel.de/start/universitaet-erlangen-nuernberg-studierende-zahlen-fuer-steckdosen-10-000-euro-aus-eigenem-budget](https://www.spiegel.de/start/universitaet-erlangen-nuernberg-studierende-zahlen-fuer-steckdosen-10-000-euro-aus-eigenem-budget-a-d93cf442-bb63-41e4-8c93-242659e7db85#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-und-reichsbuerger-bjoern-winter-rechtsextremer-minijobber](https://www.spiegel.de/politik/deutschland/afd-und-reichsbuerger-bjoern-winter-rechtsextremer-minijobber-a-a1087549-b205-4271-9b10-7c4382fbf03c#ref=rss)
-### uni
-
-* [https://www.spiegel.de/start/universitaet-erlangen-nuernberg-studierende-zahlen-fuer-steckdosen-10-000-euro-aus-eigenem-budget](https://www.spiegel.de/start/universitaet-erlangen-nuernberg-studierende-zahlen-fuer-steckdosen-10-000-euro-aus-eigenem-budget-a-d93cf442-bb63-41e4-8c93-242659e7db85#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-humboldt-universitaet-erleidet-niederlage-im-streit-gegen-studenten](https://www.spiegel.de/panorama/justiz/berlin-humboldt-universitaet-erleidet-niederlage-im-streit-gegen-studenten-a-663d14a7-6441-4b1b-8fea-b3aa0e57eff7#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/start/universitaet-erlangen-nuernberg-studierende-zahlen-fuer-steckdosen-10-000-euro-aus-eigenem-budget](https://www.spiegel.de/start/universitaet-erlangen-nuernberg-studierende-zahlen-fuer-steckdosen-10-000-euro-aus-eigenem-budget-a-d93cf442-bb63-41e4-8c93-242659e7db85#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/sternschnuppen-wo-und-wann-sie-den-meteorsturm-der-geminiden-am-besten-sehen](https://www.spiegel.de/wissenschaft/natur/sternschnuppen-wo-und-wann-sie-den-meteorsturm-der-geminiden-am-besten-sehen-a-249e834b-c3a4-4bd0-8007-9486ec216cc6#ref=rss)
-### amt
-
-* [https://www.spiegel.de/politik/deutschland/georgien-auswaertiges-amt-setzt-sich-fuer-sanktionen-bei-georgien-ein](https://www.spiegel.de/politik/deutschland/georgien-auswaertiges-amt-setzt-sich-fuer-sanktionen-bei-georgien-ein-a-8b7d23be-8a00-4ea3-a3b0-3dea451982c2#ref=rss)
-### setzt
-
-* [https://www.spiegel.de/politik/deutschland/georgien-auswaertiges-amt-setzt-sich-fuer-sanktionen-bei-georgien-ein](https://www.spiegel.de/politik/deutschland/georgien-auswaertiges-amt-setzt-sich-fuer-sanktionen-bei-georgien-ein-a-8b7d23be-8a00-4ea3-a3b0-3dea451982c2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/robert-habeck-wie-der-gruenen-kanzlerkandidat-versucht-wahlkampf-ohne-jedes-thema-zu-machen](https://www.spiegel.de/politik/deutschland/robert-habeck-wie-der-gruenen-kanzlerkandidat-versucht-wahlkampf-ohne-jedes-thema-zu-machen-a-0573c30c-dfe9-4f3f-b2cf-9e6c0990b069#ref=rss)
-### fall
-
-* [https://www.spiegel.de/politik/deutschland/georgien-auswaertiges-amt-setzt-sich-fuer-sanktionen-bei-georgien-ein](https://www.spiegel.de/politik/deutschland/georgien-auswaertiges-amt-setzt-sich-fuer-sanktionen-bei-georgien-ein-a-8b7d23be-8a00-4ea3-a3b0-3dea451982c2#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bka-bericht-lgbtq-community-besonders-von-straftaten-betroffen](https://www.spiegel.de/panorama/justiz/bka-bericht-lgbtq-community-besonders-von-straftaten-betroffen-a-742361ea-7517-445d-89ac-8f81ea13aaa4#ref=rss)
+* [https://www.spiegel.de/panorama/syrischer-arzt-ich-muss-auch-der-deutschen-gesellschaft-helfen](https://www.spiegel.de/panorama/syrischer-arzt-ich-muss-auch-der-deutschen-gesellschaft-helfen-a-4a994d72-48af-4cfc-a88c-255a579a4f59#ref=rss)
+* [https://www.spiegel.de/familie/adventskalender-aus-klopapierrollen-ein-geschenk-das-schiefging](https://www.spiegel.de/familie/adventskalender-aus-klopapierrollen-ein-geschenk-das-schiefging-a-ee334339-5f64-4874-b260-9fde7104cea1#ref=rss)
+* [https://www.spiegel.de/fitness/konsumgestaendnis-und-ploetzlich-wollte-ich-auch-eine-fahrradmaus-sein](https://www.spiegel.de/fitness/konsumgestaendnis-und-ploetzlich-wollte-ich-auch-eine-fahrradmaus-sein-a-892c6fbc-6360-47db-ab81-5c5400d753b6#ref=rss)
 ### syrien
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-umsturz-in-syrien-francois-bayrou-alice-schwarzer](https://www.spiegel.de/politik/deutschland/news-des-tages-umsturz-in-syrien-francois-bayrou-alice-schwarzer-a-c27ad820-c8a6-4ea7-a412-7bc3aec49cad#ref=rss)
-### alice
+* [https://www.spiegel.de/panorama/syrischer-arzt-ich-muss-auch-der-deutschen-gesellschaft-helfen](https://www.spiegel.de/panorama/syrischer-arzt-ich-muss-auch-der-deutschen-gesellschaft-helfen-a-4a994d72-48af-4cfc-a88c-255a579a4f59#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/syrien-wie-spiegel-journalistin-asia-haidar-ihre-rueckkehr-in-die-heimat-erlebte](https://www.spiegel.de/panorama/gesellschaft/syrien-wie-spiegel-journalistin-asia-haidar-ihre-rueckkehr-in-die-heimat-erlebte-a-d02b1d73-c597-4c58-82c4-080840eb7fda#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-hts-miliz-will-sturz-von-assad-ein-jahr-lang-geplant-haben](https://www.spiegel.de/ausland/syrien-hts-miliz-will-sturz-von-assad-ein-jahr-lang-geplant-haben-a-60448f51-f641-45e7-a4b1-ad0eacfd152b#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-umsturz-in-syrien-francois-bayrou-alice-schwarzer](https://www.spiegel.de/politik/deutschland/news-des-tages-umsturz-in-syrien-francois-bayrou-alice-schwarzer-a-c27ad820-c8a6-4ea7-a412-7bc3aec49cad#ref=rss)
-### schwarzer
+* [https://www.spiegel.de/panorama/syrischer-arzt-ich-muss-auch-der-deutschen-gesellschaft-helfen](https://www.spiegel.de/panorama/syrischer-arzt-ich-muss-auch-der-deutschen-gesellschaft-helfen-a-4a994d72-48af-4cfc-a88c-255a579a4f59#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/syrien-wie-spiegel-journalistin-asia-haidar-ihre-rueckkehr-in-die-heimat-erlebte](https://www.spiegel.de/panorama/gesellschaft/syrien-wie-spiegel-journalistin-asia-haidar-ihre-rueckkehr-in-die-heimat-erlebte-a-d02b1d73-c597-4c58-82c4-080840eb7fda#ref=rss)
+* [https://www.spiegel.de/ausland/wo-viele-schwarze-us-amerikaner-eine-neue-heimat-finden-alles-gute-vom-spiegel](https://www.spiegel.de/ausland/wo-viele-schwarze-us-amerikaner-eine-neue-heimat-finden-alles-gute-vom-spiegel-a-031ba209-3001-4f48-b32e-a30e952e30ed#ref=rss)
+* [https://www.spiegel.de/panorama/donald-trump-kriege-in-nahost-und-ukraine-ampel-aus-gisele-pelicot-2024-in-bildern](https://www.spiegel.de/panorama/donald-trump-kriege-in-nahost-und-ukraine-ampel-aus-gisele-pelicot-2024-in-bildern-a-30599d01-bc90-4c47-8413-ab6959829df7#ref=rss)
+### heimat
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-umsturz-in-syrien-francois-bayrou-alice-schwarzer](https://www.spiegel.de/politik/deutschland/news-des-tages-umsturz-in-syrien-francois-bayrou-alice-schwarzer-a-c27ad820-c8a6-4ea7-a412-7bc3aec49cad#ref=rss)
-### frankreich
+* [https://www.spiegel.de/panorama/syrischer-arzt-ich-muss-auch-der-deutschen-gesellschaft-helfen](https://www.spiegel.de/panorama/syrischer-arzt-ich-muss-auch-der-deutschen-gesellschaft-helfen-a-4a994d72-48af-4cfc-a88c-255a579a4f59#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/syrien-wie-spiegel-journalistin-asia-haidar-ihre-rueckkehr-in-die-heimat-erlebte](https://www.spiegel.de/panorama/gesellschaft/syrien-wie-spiegel-journalistin-asia-haidar-ihre-rueckkehr-in-die-heimat-erlebte-a-d02b1d73-c597-4c58-82c4-080840eb7fda#ref=rss)
+* [https://www.spiegel.de/ausland/wo-viele-schwarze-us-amerikaner-eine-neue-heimat-finden-alles-gute-vom-spiegel](https://www.spiegel.de/ausland/wo-viele-schwarze-us-amerikaner-eine-neue-heimat-finden-alles-gute-vom-spiegel-a-031ba209-3001-4f48-b32e-a30e952e30ed#ref=rss)
+### usa
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-umsturz-in-syrien-francois-bayrou-alice-schwarzer](https://www.spiegel.de/politik/deutschland/news-des-tages-umsturz-in-syrien-francois-bayrou-alice-schwarzer-a-c27ad820-c8a6-4ea7-a412-7bc3aec49cad#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-neuer-premier-francois-bayrou-anderer-name-gleiches-problem](https://www.spiegel.de/ausland/frankreich-neuer-premier-francois-bayrou-anderer-name-gleiches-problem-a-ae8739e7-ca58-4d77-a246-c4a7e938b78c#ref=rss)
-### premierminister
+* [https://www.spiegel.de/wirtschaft/unternehmen/tiktok-verbot-in-den-usa-gericht-lehnt-antrag-fuer-aufschub-ab](https://www.spiegel.de/wirtschaft/unternehmen/tiktok-verbot-in-den-usa-gericht-lehnt-antrag-fuer-aufschub-ab-a-a6f72afe-9cbd-4e80-bada-b385dced60a6#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/donald-trump-will-die-sommerzeit-in-den-usa-abschaffen](https://www.spiegel.de/panorama/gesellschaft/donald-trump-will-die-sommerzeit-in-den-usa-abschaffen-a-455c59b7-b7b2-499d-b5f5-40b1ec8a2050#ref=rss)
+### 2024
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-umsturz-in-syrien-francois-bayrou-alice-schwarzer](https://www.spiegel.de/politik/deutschland/news-des-tages-umsturz-in-syrien-francois-bayrou-alice-schwarzer-a-c27ad820-c8a6-4ea7-a412-7bc3aec49cad#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-neuer-premier-francois-bayrou-anderer-name-gleiches-problem](https://www.spiegel.de/ausland/frankreich-neuer-premier-francois-bayrou-anderer-name-gleiches-problem-a-ae8739e7-ca58-4d77-a246-c4a7e938b78c#ref=rss)
-### jack
+* [https://www.spiegel.de/wissenschaft/mensch/sabotage-in-der-ostsee-raetsel-um-amulett-die-besten-sachbuecher-2024-elementarteilchen-newsletter](https://www.spiegel.de/wissenschaft/mensch/sabotage-in-der-ostsee-raetsel-um-amulett-die-besten-sachbuecher-2024-elementarteilchen-newsletter-a-9da893b1-7e01-4f3b-bfe8-df0fdef080ba#ref=rss)
+* [https://www.spiegel.de/panorama/donald-trump-kriege-in-nahost-und-ukraine-ampel-aus-gisele-pelicot-2024-in-bildern](https://www.spiegel.de/panorama/donald-trump-kriege-in-nahost-und-ukraine-ampel-aus-gisele-pelicot-2024-in-bildern-a-30599d01-bc90-4c47-8413-ab6959829df7#ref=rss)
+### jahr
 
-* [https://www.spiegel.de/sport/radsport-jack-burke-wie-kann-es-sein-dass-ein-zweitklassiger-radfahrer-die-rekorde-der-stars-bricht](https://www.spiegel.de/sport/radsport-jack-burke-wie-kann-es-sein-dass-ein-zweitklassiger-radfahrer-die-rekorde-der-stars-bricht-a-17dae174-05c8-4bbb-8c8f-7ff386d1bbd0#ref=rss)
-### burke
-
-* [https://www.spiegel.de/sport/radsport-jack-burke-wie-kann-es-sein-dass-ein-zweitklassiger-radfahrer-die-rekorde-der-stars-bricht](https://www.spiegel.de/sport/radsport-jack-burke-wie-kann-es-sein-dass-ein-zweitklassiger-radfahrer-die-rekorde-der-stars-bricht-a-17dae174-05c8-4bbb-8c8f-7ff386d1bbd0#ref=rss)
-### überraschend
-
-* [https://www.spiegel.de/sport/radsport-jack-burke-wie-kann-es-sein-dass-ein-zweitklassiger-radfahrer-die-rekorde-der-stars-bricht](https://www.spiegel.de/sport/radsport-jack-burke-wie-kann-es-sein-dass-ein-zweitklassiger-radfahrer-die-rekorde-der-stars-bricht-a-17dae174-05c8-4bbb-8c8f-7ff386d1bbd0#ref=rss)
-* [https://www.spiegel.de/kultur/kino/wolfgang-becker-regisseur-von-good-bye-lenin-ist-tot](https://www.spiegel.de/kultur/kino/wolfgang-becker-regisseur-von-good-bye-lenin-ist-tot-a-1bce4ab6-6fee-411c-8032-a3303f5fcc66#ref=rss)
-### robert
-
-* [https://www.spiegel.de/politik/deutschland/robert-habeck-wie-der-gruenen-kanzlerkandidat-versucht-wahlkampf-ohne-jedes-thema-zu-machen](https://www.spiegel.de/politik/deutschland/robert-habeck-wie-der-gruenen-kanzlerkandidat-versucht-wahlkampf-ohne-jedes-thema-zu-machen-a-0573c30c-dfe9-4f3f-b2cf-9e6c0990b069#ref=rss)
-### habeck
-
-* [https://www.spiegel.de/politik/deutschland/robert-habeck-wie-der-gruenen-kanzlerkandidat-versucht-wahlkampf-ohne-jedes-thema-zu-machen](https://www.spiegel.de/politik/deutschland/robert-habeck-wie-der-gruenen-kanzlerkandidat-versucht-wahlkampf-ohne-jedes-thema-zu-machen-a-0573c30c-dfe9-4f3f-b2cf-9e6c0990b069#ref=rss)
-### grünen
-
-* [https://www.spiegel.de/politik/deutschland/robert-habeck-wie-der-gruenen-kanzlerkandidat-versucht-wahlkampf-ohne-jedes-thema-zu-machen](https://www.spiegel.de/politik/deutschland/robert-habeck-wie-der-gruenen-kanzlerkandidat-versucht-wahlkampf-ohne-jedes-thema-zu-machen-a-0573c30c-dfe9-4f3f-b2cf-9e6c0990b069#ref=rss)
-### sprechen
-
-* [https://www.spiegel.de/politik/deutschland/robert-habeck-wie-der-gruenen-kanzlerkandidat-versucht-wahlkampf-ohne-jedes-thema-zu-machen](https://www.spiegel.de/politik/deutschland/robert-habeck-wie-der-gruenen-kanzlerkandidat-versucht-wahlkampf-ohne-jedes-thema-zu-machen-a-0573c30c-dfe9-4f3f-b2cf-9e6c0990b069#ref=rss)
-* [https://www.spiegel.de/ausland/avignon-der-prozess-pelicot-die-videos-folge-3-podcast](https://www.spiegel.de/ausland/avignon-der-prozess-pelicot-die-videos-folge-3-podcast-a-2d223920-9d44-40eb-99f0-58ef0eaa0487#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/donald-trump-designierter-us-praesident-bekommt-lob-vom-kreml-fuer-aussagen-zum-ukraine-krieg](https://www.spiegel.de/ausland/donald-trump-designierter-us-praesident-bekommt-lob-vom-kreml-fuer-aussagen-zum-ukraine-krieg-a-dcabc591-88dc-4b88-8aa3-d150d79990ae#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/donald-trump-designierter-us-praesident-bekommt-lob-vom-kreml-fuer-aussagen-zum-ukraine-krieg](https://www.spiegel.de/ausland/donald-trump-designierter-us-praesident-bekommt-lob-vom-kreml-fuer-aussagen-zum-ukraine-krieg-a-dcabc591-88dc-4b88-8aa3-d150d79990ae#ref=rss)
-### bekommt
-
-* [https://www.spiegel.de/ausland/donald-trump-designierter-us-praesident-bekommt-lob-vom-kreml-fuer-aussagen-zum-ukraine-krieg](https://www.spiegel.de/ausland/donald-trump-designierter-us-praesident-bekommt-lob-vom-kreml-fuer-aussagen-zum-ukraine-krieg-a-dcabc591-88dc-4b88-8aa3-d150d79990ae#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sachsen-michael-kretschmer-bekommt-gegenkandidat](https://www.spiegel.de/politik/deutschland/sachsen-michael-kretschmer-bekommt-gegenkandidat-a-b1d009ce-d497-4219-821d-b27d7fdcfe67#ref=rss)
-### interview
-
-* [https://www.spiegel.de/ausland/donald-trump-designierter-us-praesident-bekommt-lob-vom-kreml-fuer-aussagen-zum-ukraine-krieg](https://www.spiegel.de/ausland/donald-trump-designierter-us-praesident-bekommt-lob-vom-kreml-fuer-aussagen-zum-ukraine-krieg-a-dcabc591-88dc-4b88-8aa3-d150d79990ae#ref=rss)
-* [https://www.spiegel.de/sport/fussball/hamburger-sv-bakery-jatta-hat-geheiratet-ohne-anwesend-zu-sein](https://www.spiegel.de/sport/fussball/hamburger-sv-bakery-jatta-hat-geheiratet-ohne-anwesend-zu-sein-a-20aac006-caa3-45db-abdd-17dc71ccefd2#ref=rss)
-### humboldtuniversität
-
-* [https://www.spiegel.de/panorama/justiz/berlin-humboldt-universitaet-erleidet-niederlage-im-streit-gegen-studenten](https://www.spiegel.de/panorama/justiz/berlin-humboldt-universitaet-erleidet-niederlage-im-streit-gegen-studenten-a-663d14a7-6441-4b1b-8fea-b3aa0e57eff7#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/panorama/justiz/berlin-humboldt-universitaet-erleidet-niederlage-im-streit-gegen-studenten](https://www.spiegel.de/panorama/justiz/berlin-humboldt-universitaet-erleidet-niederlage-im-streit-gegen-studenten-a-663d14a7-6441-4b1b-8fea-b3aa0e57eff7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/cum-ex-mehrjaehrige-haftstrafen-im-ersten-muenchner-prozess](https://www.spiegel.de/wirtschaft/cum-ex-mehrjaehrige-haftstrafen-im-ersten-muenchner-prozess-a-638c191e-a1c0-404b-bd67-9c29ab51c069#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/wirtschaft/cum-ex-mehrjaehrige-haftstrafen-im-ersten-muenchner-prozess](https://www.spiegel.de/wirtschaft/cum-ex-mehrjaehrige-haftstrafen-im-ersten-muenchner-prozess-a-638c191e-a1c0-404b-bd67-9c29ab51c069#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-fussfessel-genderverbot-steuerfreies-eigenheim](https://www.spiegel.de/politik/deutschland/cdu-fussfessel-genderverbot-steuerfreies-eigenheim-a-c4fa152f-5efd-4bf1-a628-4a1aded1e5e9#ref=rss)
-### münchner
-
-* [https://www.spiegel.de/wirtschaft/cum-ex-mehrjaehrige-haftstrafen-im-ersten-muenchner-prozess](https://www.spiegel.de/wirtschaft/cum-ex-mehrjaehrige-haftstrafen-im-ersten-muenchner-prozess-a-638c191e-a1c0-404b-bd67-9c29ab51c069#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/wirtschaft/cum-ex-mehrjaehrige-haftstrafen-im-ersten-muenchner-prozess](https://www.spiegel.de/wirtschaft/cum-ex-mehrjaehrige-haftstrafen-im-ersten-muenchner-prozess-a-638c191e-a1c0-404b-bd67-9c29ab51c069#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bayern-polizei-stoppt-transporter-mit-1-5-tonnen-illegaler-pyrotechnik](https://www.spiegel.de/panorama/justiz/bayern-polizei-stoppt-transporter-mit-1-5-tonnen-illegaler-pyrotechnik-a-b4cb0fe6-0609-429c-b7c5-c226f36d517b#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wirtschaft/cum-ex-mehrjaehrige-haftstrafen-im-ersten-muenchner-prozess](https://www.spiegel.de/wirtschaft/cum-ex-mehrjaehrige-haftstrafen-im-ersten-muenchner-prozess-a-638c191e-a1c0-404b-bd67-9c29ab51c069#ref=rss)
-* [https://www.spiegel.de/panorama/leute/grossbritannien-vertrauter-von-prinz-andrew-darf-wegen-spionageverdacht-nicht-mehr-einreisen](https://www.spiegel.de/panorama/leute/grossbritannien-vertrauter-von-prinz-andrew-darf-wegen-spionageverdacht-nicht-mehr-einreisen-a-4a14ee8b-5739-421c-be33-204bca66c92b#ref=rss)
-### forscher
-
-* [https://www.spiegel.de/wissenschaft/natur/neuseeland-extrem-seltener-wal-angeschwemmt-forscher-staunen-ueber-winzige-zaehne](https://www.spiegel.de/wissenschaft/natur/neuseeland-extrem-seltener-wal-angeschwemmt-forscher-staunen-ueber-winzige-zaehne-a-79f17545-74b0-4b1e-8b65-8073abc8c6fc#ref=rss)
-### meer
-
-* [https://www.spiegel.de/wissenschaft/natur/neuseeland-extrem-seltener-wal-angeschwemmt-forscher-staunen-ueber-winzige-zaehne](https://www.spiegel.de/wissenschaft/natur/neuseeland-extrem-seltener-wal-angeschwemmt-forscher-staunen-ueber-winzige-zaehne-a-79f17545-74b0-4b1e-8b65-8073abc8c6fc#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/klimakrise-in-alaska-vier-millionen-trottellummen-einfach-verschwunden](https://www.spiegel.de/wissenschaft/natur/klimakrise-in-alaska-vier-millionen-trottellummen-einfach-verschwunden-a-09b2c7c0-f78b-4049-9b8b-19fa0478e5d6#ref=rss)
-### angelina
-
-* [https://www.spiegel.de/kultur/kino/angelina-jolie-schmerz-sperrte-ihre-stimme-ein-nun-hat-sie-sie-freigelassen](https://www.spiegel.de/kultur/kino/angelina-jolie-schmerz-sperrte-ihre-stimme-ein-nun-hat-sie-sie-freigelassen-a-93fc6914-782f-4ca8-998a-78e4a66129a5#ref=rss)
-### jolie
-
-* [https://www.spiegel.de/kultur/kino/angelina-jolie-schmerz-sperrte-ihre-stimme-ein-nun-hat-sie-sie-freigelassen](https://www.spiegel.de/kultur/kino/angelina-jolie-schmerz-sperrte-ihre-stimme-ein-nun-hat-sie-sie-freigelassen-a-93fc6914-782f-4ca8-998a-78e4a66129a5#ref=rss)
-### schmerz
-
-* [https://www.spiegel.de/kultur/kino/angelina-jolie-schmerz-sperrte-ihre-stimme-ein-nun-hat-sie-sie-freigelassen](https://www.spiegel.de/kultur/kino/angelina-jolie-schmerz-sperrte-ihre-stimme-ein-nun-hat-sie-sie-freigelassen-a-93fc6914-782f-4ca8-998a-78e4a66129a5#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/kultur/kino/angelina-jolie-schmerz-sperrte-ihre-stimme-ein-nun-hat-sie-sie-freigelassen](https://www.spiegel.de/kultur/kino/angelina-jolie-schmerz-sperrte-ihre-stimme-ein-nun-hat-sie-sie-freigelassen-a-93fc6914-782f-4ca8-998a-78e4a66129a5#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bka-bericht-lgbtq-community-besonders-von-straftaten-betroffen](https://www.spiegel.de/panorama/justiz/bka-bericht-lgbtq-community-besonders-von-straftaten-betroffen-a-742361ea-7517-445d-89ac-8f81ea13aaa4#ref=rss)
-### trottellummen
-
-* [https://www.spiegel.de/wissenschaft/natur/klimakrise-in-alaska-vier-millionen-trottellummen-einfach-verschwunden](https://www.spiegel.de/wissenschaft/natur/klimakrise-in-alaska-vier-millionen-trottellummen-einfach-verschwunden-a-09b2c7c0-f78b-4049-9b8b-19fa0478e5d6#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/wissenschaft/natur/klimakrise-in-alaska-vier-millionen-trottellummen-einfach-verschwunden](https://www.spiegel.de/wissenschaft/natur/klimakrise-in-alaska-vier-millionen-trottellummen-einfach-verschwunden-a-09b2c7c0-f78b-4049-9b8b-19fa0478e5d6#ref=rss)
-* [https://www.spiegel.de/kultur/kino/wolfgang-becker-regisseur-von-good-bye-lenin-ist-tot](https://www.spiegel.de/kultur/kino/wolfgang-becker-regisseur-von-good-bye-lenin-ist-tot-a-1bce4ab6-6fee-411c-8032-a3303f5fcc66#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/panorama/justiz/bayern-polizei-stoppt-transporter-mit-1-5-tonnen-illegaler-pyrotechnik](https://www.spiegel.de/panorama/justiz/bayern-polizei-stoppt-transporter-mit-1-5-tonnen-illegaler-pyrotechnik-a-b4cb0fe6-0609-429c-b7c5-c226f36d517b#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/justiz/bayern-polizei-stoppt-transporter-mit-1-5-tonnen-illegaler-pyrotechnik](https://www.spiegel.de/panorama/justiz/bayern-polizei-stoppt-transporter-mit-1-5-tonnen-illegaler-pyrotechnik-a-b4cb0fe6-0609-429c-b7c5-c226f36d517b#ref=rss)
-### einreisen
-
-* [https://www.spiegel.de/panorama/justiz/bayern-polizei-stoppt-transporter-mit-1-5-tonnen-illegaler-pyrotechnik](https://www.spiegel.de/panorama/justiz/bayern-polizei-stoppt-transporter-mit-1-5-tonnen-illegaler-pyrotechnik-a-b4cb0fe6-0609-429c-b7c5-c226f36d517b#ref=rss)
-* [https://www.spiegel.de/panorama/leute/grossbritannien-vertrauter-von-prinz-andrew-darf-wegen-spionageverdacht-nicht-mehr-einreisen](https://www.spiegel.de/panorama/leute/grossbritannien-vertrauter-von-prinz-andrew-darf-wegen-spionageverdacht-nicht-mehr-einreisen-a-4a14ee8b-5739-421c-be33-204bca66c92b#ref=rss)
-### michael
-
-* [https://www.spiegel.de/politik/deutschland/sachsen-michael-kretschmer-bekommt-gegenkandidat](https://www.spiegel.de/politik/deutschland/sachsen-michael-kretschmer-bekommt-gegenkandidat-a-b1d009ce-d497-4219-821d-b27d7fdcfe67#ref=rss)
+* [https://www.spiegel.de/ausland/antisemitische-vorfaelle-schweiz-will-mit-neuem-gesetz-gegen-ns-symbole-vorgehen](https://www.spiegel.de/ausland/antisemitische-vorfaelle-schweiz-will-mit-neuem-gesetz-gegen-ns-symbole-vorgehen-a-15e346e6-53ed-4f55-ae56-d08b423947b0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/porsche-se-muss-voraussichtlich-milliarden-euro-abschreiben](https://www.spiegel.de/wirtschaft/unternehmen/porsche-se-muss-voraussichtlich-milliarden-euro-abschreiben-a-52f0962b-0ae1-4079-bb03-513643afc994#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/donald-trump-will-die-sommerzeit-in-den-usa-abschaffen](https://www.spiegel.de/panorama/gesellschaft/donald-trump-will-die-sommerzeit-in-den-usa-abschaffen-a-455c59b7-b7b2-499d-b5f5-40b1ec8a2050#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-hts-miliz-will-sturz-von-assad-ein-jahr-lang-geplant-haben](https://www.spiegel.de/ausland/syrien-hts-miliz-will-sturz-von-assad-ein-jahr-lang-geplant-haben-a-60448f51-f641-45e7-a4b1-ad0eacfd152b#ref=rss)
 ### präsident
 
-* [https://www.spiegel.de/ausland/frankreich-neuer-premier-francois-bayrou-anderer-name-gleiches-problem](https://www.spiegel.de/ausland/frankreich-neuer-premier-francois-bayrou-anderer-name-gleiches-problem-a-ae8739e7-ca58-4d77-a246-c4a7e938b78c#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-ruanda-bewirbt-sich-um-rennen](https://www.spiegel.de/sport/formel1/formel-1-ruanda-bewirbt-sich-um-rennen-a-4707ecf7-392c-42a1-8297-faafb7836363#ref=rss)
+* [https://www.spiegel.de/ausland/suedkorea-parlament-stimmt-fuer-absetzung-von-praesident-yoon-suk-yeol](https://www.spiegel.de/ausland/suedkorea-parlament-stimmt-fuer-absetzung-von-praesident-yoon-suk-yeol-a-4bcbca8a-2cda-4dde-b593-4ee2ce48f2ba#ref=rss)
+* [https://www.spiegel.de/ausland/protest-gegen-suedkoreas-praesident-yoon-mit-k-pop-gegen-die-maechtigen](https://www.spiegel.de/ausland/protest-gegen-suedkoreas-praesident-yoon-mit-k-pop-gegen-die-maechtigen-a-5c0a559b-0530-4e57-ae5f-baa71ef8954d#ref=rss)
+* [https://www.spiegel.de/panorama/donald-trump-kriege-in-nahost-und-ukraine-ampel-aus-gisele-pelicot-2024-in-bildern](https://www.spiegel.de/panorama/donald-trump-kriege-in-nahost-und-ukraine-ampel-aus-gisele-pelicot-2024-in-bildern-a-30599d01-bc90-4c47-8413-ab6959829df7#ref=rss)
+### trump
+
+* [https://www.spiegel.de/panorama/gesellschaft/donald-trump-will-die-sommerzeit-in-den-usa-abschaffen](https://www.spiegel.de/panorama/gesellschaft/donald-trump-will-die-sommerzeit-in-den-usa-abschaffen-a-455c59b7-b7b2-499d-b5f5-40b1ec8a2050#ref=rss)
+* [https://www.spiegel.de/panorama/donald-trump-kriege-in-nahost-und-ukraine-ampel-aus-gisele-pelicot-2024-in-bildern](https://www.spiegel.de/panorama/donald-trump-kriege-in-nahost-und-ukraine-ampel-aus-gisele-pelicot-2024-in-bildern-a-30599d01-bc90-4c47-8413-ab6959829df7#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/panorama/donald-trump-kriege-in-nahost-und-ukraine-ampel-aus-gisele-pelicot-2024-in-bildern](https://www.spiegel.de/panorama/donald-trump-kriege-in-nahost-und-ukraine-ampel-aus-gisele-pelicot-2024-in-bildern-a-30599d01-bc90-4c47-8413-ab6959829df7#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-nach-niederlagen-wird-offenbar-kommandeur-olexander-luzenko-an-front-ausgetauscht](https://www.spiegel.de/ausland/ukraine-nach-niederlagen-wird-offenbar-kommandeur-olexander-luzenko-an-front-ausgetauscht-a-24d066cf-b445-432f-80bd-e706d95ba2a3#ref=rss)
 ### laut
 
-* [https://www.spiegel.de/politik/deutschland/bundesregierung-kippt-laut-medienbericht-ihre-fernwaerme-plaene](https://www.spiegel.de/politik/deutschland/bundesregierung-kippt-laut-medienbericht-ihre-fernwaerme-plaene-a-646a5705-1e8d-461a-b599-14e9ec4e1616#ref=rss)
-* [https://www.spiegel.de/ausland/staatskrise-in-rumaenien-pandemie-des-hasses](https://www.spiegel.de/ausland/staatskrise-in-rumaenien-pandemie-des-hasses-a-e5b29304-a642-442b-a499-414aec1ae915#ref=rss)
-### besonders
+* [https://www.spiegel.de/ausland/menschenrechte-in-iran-aktivist-reza-khandan-festgenommen](https://www.spiegel.de/ausland/menschenrechte-in-iran-aktivist-reza-khandan-festgenommen-a-810e9bc1-fc5f-439b-8245-3b141c2cfb39#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-nach-niederlagen-wird-offenbar-kommandeur-olexander-luzenko-an-front-ausgetauscht](https://www.spiegel.de/ausland/ukraine-nach-niederlagen-wird-offenbar-kommandeur-olexander-luzenko-an-front-ausgetauscht-a-24d066cf-b445-432f-80bd-e706d95ba2a3#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-hts-miliz-will-sturz-von-assad-ein-jahr-lang-geplant-haben](https://www.spiegel.de/ausland/syrien-hts-miliz-will-sturz-von-assad-ein-jahr-lang-geplant-haben-a-60448f51-f641-45e7-a4b1-ad0eacfd152b#ref=rss)
+### parlament
 
-* [https://www.spiegel.de/panorama/justiz/bka-bericht-lgbtq-community-besonders-von-straftaten-betroffen](https://www.spiegel.de/panorama/justiz/bka-bericht-lgbtq-community-besonders-von-straftaten-betroffen-a-742361ea-7517-445d-89ac-8f81ea13aaa4#ref=rss)
-### betroffen
+* [https://www.spiegel.de/ausland/suedkorea-parlament-stimmt-fuer-absetzung-von-praesident-yoon-suk-yeol](https://www.spiegel.de/ausland/suedkorea-parlament-stimmt-fuer-absetzung-von-praesident-yoon-suk-yeol-a-4bcbca8a-2cda-4dde-b593-4ee2ce48f2ba#ref=rss)
+* [https://www.spiegel.de/ausland/protest-gegen-suedkoreas-praesident-yoon-mit-k-pop-gegen-die-maechtigen](https://www.spiegel.de/ausland/protest-gegen-suedkoreas-praesident-yoon-mit-k-pop-gegen-die-maechtigen-a-5c0a559b-0530-4e57-ae5f-baa71ef8954d#ref=rss)
+### yoon
 
-* [https://www.spiegel.de/panorama/justiz/bka-bericht-lgbtq-community-besonders-von-straftaten-betroffen](https://www.spiegel.de/panorama/justiz/bka-bericht-lgbtq-community-besonders-von-straftaten-betroffen-a-742361ea-7517-445d-89ac-8f81ea13aaa4#ref=rss)
-### jeder
+* [https://www.spiegel.de/ausland/suedkorea-parlament-stimmt-fuer-absetzung-von-praesident-yoon-suk-yeol](https://www.spiegel.de/ausland/suedkorea-parlament-stimmt-fuer-absetzung-von-praesident-yoon-suk-yeol-a-4bcbca8a-2cda-4dde-b593-4ee2ce48f2ba#ref=rss)
+* [https://www.spiegel.de/ausland/protest-gegen-suedkoreas-praesident-yoon-mit-k-pop-gegen-die-maechtigen](https://www.spiegel.de/ausland/protest-gegen-suedkoreas-praesident-yoon-mit-k-pop-gegen-die-maechtigen-a-5c0a559b-0530-4e57-ae5f-baa71ef8954d#ref=rss)
+### südkoreas
 
-* [https://www.spiegel.de/panorama/justiz/bka-bericht-lgbtq-community-besonders-von-straftaten-betroffen](https://www.spiegel.de/panorama/justiz/bka-bericht-lgbtq-community-besonders-von-straftaten-betroffen-a-742361ea-7517-445d-89ac-8f81ea13aaa4#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/youtube-hit-buzzfeed-verkauft-hot-ones](https://www.spiegel.de/netzwelt/web/youtube-hit-buzzfeed-verkauft-hot-ones-a-2d20df52-9811-425d-8438-94b9198d046c#ref=rss)
-### rechtsextremer
+* [https://www.spiegel.de/ausland/suedkorea-parlament-stimmt-fuer-absetzung-von-praesident-yoon-suk-yeol](https://www.spiegel.de/ausland/suedkorea-parlament-stimmt-fuer-absetzung-von-praesident-yoon-suk-yeol-a-4bcbca8a-2cda-4dde-b593-4ee2ce48f2ba#ref=rss)
+* [https://www.spiegel.de/ausland/protest-gegen-suedkoreas-praesident-yoon-mit-k-pop-gegen-die-maechtigen](https://www.spiegel.de/ausland/protest-gegen-suedkoreas-praesident-yoon-mit-k-pop-gegen-die-maechtigen-a-5c0a559b-0530-4e57-ae5f-baa71ef8954d#ref=rss)
+### union
 
-* [https://www.spiegel.de/ausland/staatskrise-in-rumaenien-pandemie-des-hasses](https://www.spiegel.de/ausland/staatskrise-in-rumaenien-pandemie-des-hasses-a-e5b29304-a642-442b-a499-414aec1ae915#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-und-reichsbuerger-bjoern-winter-rechtsextremer-minijobber](https://www.spiegel.de/politik/deutschland/afd-und-reichsbuerger-bjoern-winter-rechtsextremer-minijobber-a-a1087549-b205-4271-9b10-7c4382fbf03c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-mahnt-zu-besonnenheit-in-debatte-ueber-syrische-gefluechtete](https://www.spiegel.de/politik/deutschland/olaf-scholz-mahnt-zu-besonnenheit-in-debatte-ueber-syrische-gefluechtete-a-0fb1840d-6c25-4ba7-be12-aa324aaf55a4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-ampelregierung-union-kindergeld-frankreich](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-ampelregierung-union-kindergeld-frankreich-a-b9c5e3ca-842d-4f3d-b114-2b987ea81fe0#ref=rss)
+### arzt
+
+* [https://www.spiegel.de/panorama/syrischer-arzt-ich-muss-auch-der-deutschen-gesellschaft-helfen](https://www.spiegel.de/panorama/syrischer-arzt-ich-muss-auch-der-deutschen-gesellschaft-helfen-a-4a994d72-48af-4cfc-a88c-255a579a4f59#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/panorama/syrischer-arzt-ich-muss-auch-der-deutschen-gesellschaft-helfen](https://www.spiegel.de/panorama/syrischer-arzt-ich-muss-auch-der-deutschen-gesellschaft-helfen-a-4a994d72-48af-4cfc-a88c-255a579a4f59#ref=rss)
+* [https://www.spiegel.de/ausland/wo-viele-schwarze-us-amerikaner-eine-neue-heimat-finden-alles-gute-vom-spiegel](https://www.spiegel.de/ausland/wo-viele-schwarze-us-amerikaner-eine-neue-heimat-finden-alles-gute-vom-spiegel-a-031ba209-3001-4f48-b32e-a30e952e30ed#ref=rss)
+### stand
+
+* [https://www.spiegel.de/panorama/syrischer-arzt-ich-muss-auch-der-deutschen-gesellschaft-helfen](https://www.spiegel.de/panorama/syrischer-arzt-ich-muss-auch-der-deutschen-gesellschaft-helfen-a-4a994d72-48af-4cfc-a88c-255a579a4f59#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-nach-niederlagen-wird-offenbar-kommandeur-olexander-luzenko-an-front-ausgetauscht](https://www.spiegel.de/ausland/ukraine-nach-niederlagen-wird-offenbar-kommandeur-olexander-luzenko-an-front-ausgetauscht-a-24d066cf-b445-432f-80bd-e706d95ba2a3#ref=rss)
+### deshalb
+
+* [https://www.spiegel.de/panorama/syrischer-arzt-ich-muss-auch-der-deutschen-gesellschaft-helfen](https://www.spiegel.de/panorama/syrischer-arzt-ich-muss-auch-der-deutschen-gesellschaft-helfen-a-4a994d72-48af-4cfc-a88c-255a579a4f59#ref=rss)
+* [https://www.spiegel.de/panorama/norwegen-erneute-ermittlungen-gegen-mette-marits-sohn](https://www.spiegel.de/panorama/norwegen-erneute-ermittlungen-gegen-mette-marits-sohn-a-153aa0cd-251b-4375-8dc7-aabcd7816b5b#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tiktok-verbot-in-den-usa-gericht-lehnt-antrag-fuer-aufschub-ab](https://www.spiegel.de/wirtschaft/unternehmen/tiktok-verbot-in-den-usa-gericht-lehnt-antrag-fuer-aufschub-ab-a-a6f72afe-9cbd-4e80-bada-b385dced60a6#ref=rss)
+### antrag
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tiktok-verbot-in-den-usa-gericht-lehnt-antrag-fuer-aufschub-ab](https://www.spiegel.de/wirtschaft/unternehmen/tiktok-verbot-in-den-usa-gericht-lehnt-antrag-fuer-aufschub-ab-a-a6f72afe-9cbd-4e80-bada-b385dced60a6#ref=rss)
+### verhindern
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tiktok-verbot-in-den-usa-gericht-lehnt-antrag-fuer-aufschub-ab](https://www.spiegel.de/wirtschaft/unternehmen/tiktok-verbot-in-den-usa-gericht-lehnt-antrag-fuer-aufschub-ab-a-a6f72afe-9cbd-4e80-bada-b385dced60a6#ref=rss)
+* [https://www.spiegel.de/sport/fussball/bundesliga-vfl-wolfsburg-verliert-beim-sc-freiburg](https://www.spiegel.de/sport/fussball/bundesliga-vfl-wolfsburg-verliert-beim-sc-freiburg-a-bcf3ef98-c01d-4569-8b9b-b76eb55423ce#ref=rss)
+### iran
+
+* [https://www.spiegel.de/ausland/menschenrechte-in-iran-aktivist-reza-khandan-festgenommen](https://www.spiegel.de/ausland/menschenrechte-in-iran-aktivist-reza-khandan-festgenommen-a-810e9bc1-fc5f-439b-8245-3b141c2cfb39#ref=rss)
+### bekannten
+
+* [https://www.spiegel.de/ausland/menschenrechte-in-iran-aktivist-reza-khandan-festgenommen](https://www.spiegel.de/ausland/menschenrechte-in-iran-aktivist-reza-khandan-festgenommen-a-810e9bc1-fc5f-439b-8245-3b141c2cfb39#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-nach-niederlagen-wird-offenbar-kommandeur-olexander-luzenko-an-front-ausgetauscht](https://www.spiegel.de/ausland/ukraine-nach-niederlagen-wird-offenbar-kommandeur-olexander-luzenko-an-front-ausgetauscht-a-24d066cf-b445-432f-80bd-e706d95ba2a3#ref=rss)
+### regimes
+
+* [https://www.spiegel.de/ausland/menschenrechte-in-iran-aktivist-reza-khandan-festgenommen](https://www.spiegel.de/ausland/menschenrechte-in-iran-aktivist-reza-khandan-festgenommen-a-810e9bc1-fc5f-439b-8245-3b141c2cfb39#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-hts-miliz-will-sturz-von-assad-ein-jahr-lang-geplant-haben](https://www.spiegel.de/ausland/syrien-hts-miliz-will-sturz-von-assad-ein-jahr-lang-geplant-haben-a-60448f51-f641-45e7-a4b1-ad0eacfd152b#ref=rss)
+### heinz
+
+* [https://www.spiegel.de/kultur/literatur/heinz-strunk-fragt-sich-ob-die-tagesschau-seinen-tod-melden-wird](https://www.spiegel.de/kultur/literatur/heinz-strunk-fragt-sich-ob-die-tagesschau-seinen-tod-melden-wird-a-85e0fb3d-1782-4041-8809-ea130c83247d#ref=rss)
+### strunk
+
+* [https://www.spiegel.de/kultur/literatur/heinz-strunk-fragt-sich-ob-die-tagesschau-seinen-tod-melden-wird](https://www.spiegel.de/kultur/literatur/heinz-strunk-fragt-sich-ob-die-tagesschau-seinen-tod-melden-wird-a-85e0fb3d-1782-4041-8809-ea130c83247d#ref=rss)
+### tod
+
+* [https://www.spiegel.de/kultur/literatur/heinz-strunk-fragt-sich-ob-die-tagesschau-seinen-tod-melden-wird](https://www.spiegel.de/kultur/literatur/heinz-strunk-fragt-sich-ob-die-tagesschau-seinen-tod-melden-wird-a-85e0fb3d-1782-4041-8809-ea130c83247d#ref=rss)
+### neue
+
+* [https://www.spiegel.de/kultur/literatur/heinz-strunk-fragt-sich-ob-die-tagesschau-seinen-tod-melden-wird](https://www.spiegel.de/kultur/literatur/heinz-strunk-fragt-sich-ob-die-tagesschau-seinen-tod-melden-wird-a-85e0fb3d-1782-4041-8809-ea130c83247d#ref=rss)
+* [https://www.spiegel.de/ausland/wo-viele-schwarze-us-amerikaner-eine-neue-heimat-finden-alles-gute-vom-spiegel](https://www.spiegel.de/ausland/wo-viele-schwarze-us-amerikaner-eine-neue-heimat-finden-alles-gute-vom-spiegel-a-031ba209-3001-4f48-b32e-a30e952e30ed#ref=rss)
+### ende
+
+* [https://www.spiegel.de/kultur/literatur/heinz-strunk-fragt-sich-ob-die-tagesschau-seinen-tod-melden-wird](https://www.spiegel.de/kultur/literatur/heinz-strunk-fragt-sich-ob-die-tagesschau-seinen-tod-melden-wird-a-85e0fb3d-1782-4041-8809-ea130c83247d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/bundesliga-vfl-wolfsburg-verliert-beim-sc-freiburg](https://www.spiegel.de/sport/fussball/bundesliga-vfl-wolfsburg-verliert-beim-sc-freiburg-a-bcf3ef98-c01d-4569-8b9b-b76eb55423ce#ref=rss)
+### macht
+
+* [https://www.spiegel.de/kultur/literatur/heinz-strunk-fragt-sich-ob-die-tagesschau-seinen-tod-melden-wird](https://www.spiegel.de/kultur/literatur/heinz-strunk-fragt-sich-ob-die-tagesschau-seinen-tod-melden-wird-a-85e0fb3d-1782-4041-8809-ea130c83247d#ref=rss)
+* [https://www.spiegel.de/sport/basketball/moritz-und-franz-wagner-jugendtrainer-norbert-opitz-erklaert-ihren-erfolg-und-ihre-bescheidenheit](https://www.spiegel.de/sport/basketball/moritz-und-franz-wagner-jugendtrainer-norbert-opitz-erklaert-ihren-erfolg-und-ihre-bescheidenheit-a-b6518018-2010-4c24-968f-a71ccc668e70#ref=rss)
+### rückkehr
+
+* [https://www.spiegel.de/panorama/gesellschaft/syrien-wie-spiegel-journalistin-asia-haidar-ihre-rueckkehr-in-die-heimat-erlebte](https://www.spiegel.de/panorama/gesellschaft/syrien-wie-spiegel-journalistin-asia-haidar-ihre-rueckkehr-in-die-heimat-erlebte-a-d02b1d73-c597-4c58-82c4-080840eb7fda#ref=rss)
+### kam
+
+* [https://www.spiegel.de/panorama/gesellschaft/syrien-wie-spiegel-journalistin-asia-haidar-ihre-rueckkehr-in-die-heimat-erlebte](https://www.spiegel.de/panorama/gesellschaft/syrien-wie-spiegel-journalistin-asia-haidar-ihre-rueckkehr-in-die-heimat-erlebte-a-d02b1d73-c597-4c58-82c4-080840eb7fda#ref=rss)
+* [https://www.spiegel.de/ausland/antisemitische-vorfaelle-schweiz-will-mit-neuem-gesetz-gegen-ns-symbole-vorgehen](https://www.spiegel.de/ausland/antisemitische-vorfaelle-schweiz-will-mit-neuem-gesetz-gegen-ns-symbole-vorgehen-a-15e346e6-53ed-4f55-ae56-d08b423947b0#ref=rss)
+### berichtet
+
+* [https://www.spiegel.de/panorama/gesellschaft/syrien-wie-spiegel-journalistin-asia-haidar-ihre-rueckkehr-in-die-heimat-erlebte](https://www.spiegel.de/panorama/gesellschaft/syrien-wie-spiegel-journalistin-asia-haidar-ihre-rueckkehr-in-die-heimat-erlebte-a-d02b1d73-c597-4c58-82c4-080840eb7fda#ref=rss)
+* [https://www.spiegel.de/ausland/evan-gershkovich-freigelassener-us-journalist-sieht-sich-als-koeder-der-russischen-spionageabwehr](https://www.spiegel.de/ausland/evan-gershkovich-freigelassener-us-journalist-sieht-sich-als-koeder-der-russischen-spionageabwehr-a-9fcb7974-9997-4864-b53b-dbe2b953016f#ref=rss)
+### flüchtlinge
+
+* [https://www.spiegel.de/panorama/schweriner-fluechtlinge-sollen-zur-arbeit-verpflichtet-werden-gegen-den-willen-des-oberbuergermeisters](https://www.spiegel.de/panorama/schweriner-fluechtlinge-sollen-zur-arbeit-verpflichtet-werden-gegen-den-willen-des-oberbuergermeisters-a-8e622e04-77da-4bfa-9042-13081a32f052#ref=rss)
+### arbeit
+
+* [https://www.spiegel.de/panorama/schweriner-fluechtlinge-sollen-zur-arbeit-verpflichtet-werden-gegen-den-willen-des-oberbuergermeisters](https://www.spiegel.de/panorama/schweriner-fluechtlinge-sollen-zur-arbeit-verpflichtet-werden-gegen-den-willen-des-oberbuergermeisters-a-8e622e04-77da-4bfa-9042-13081a32f052#ref=rss)
+### sabotage
+
+* [https://www.spiegel.de/wissenschaft/mensch/sabotage-in-der-ostsee-raetsel-um-amulett-die-besten-sachbuecher-2024-elementarteilchen-newsletter](https://www.spiegel.de/wissenschaft/mensch/sabotage-in-der-ostsee-raetsel-um-amulett-die-besten-sachbuecher-2024-elementarteilchen-newsletter-a-9da893b1-7e01-4f3b-bfe8-df0fdef080ba#ref=rss)
+### ostsee
+
+* [https://www.spiegel.de/wissenschaft/mensch/sabotage-in-der-ostsee-raetsel-um-amulett-die-besten-sachbuecher-2024-elementarteilchen-newsletter](https://www.spiegel.de/wissenschaft/mensch/sabotage-in-der-ostsee-raetsel-um-amulett-die-besten-sachbuecher-2024-elementarteilchen-newsletter-a-9da893b1-7e01-4f3b-bfe8-df0fdef080ba#ref=rss)
+### amulett
+
+* [https://www.spiegel.de/wissenschaft/mensch/sabotage-in-der-ostsee-raetsel-um-amulett-die-besten-sachbuecher-2024-elementarteilchen-newsletter](https://www.spiegel.de/wissenschaft/mensch/sabotage-in-der-ostsee-raetsel-um-amulett-die-besten-sachbuecher-2024-elementarteilchen-newsletter-a-9da893b1-7e01-4f3b-bfe8-df0fdef080ba#ref=rss)
+### besten
+
+* [https://www.spiegel.de/wissenschaft/mensch/sabotage-in-der-ostsee-raetsel-um-amulett-die-besten-sachbuecher-2024-elementarteilchen-newsletter](https://www.spiegel.de/wissenschaft/mensch/sabotage-in-der-ostsee-raetsel-um-amulett-die-besten-sachbuecher-2024-elementarteilchen-newsletter-a-9da893b1-7e01-4f3b-bfe8-df0fdef080ba#ref=rss)
+### sachbücher
+
+* [https://www.spiegel.de/wissenschaft/mensch/sabotage-in-der-ostsee-raetsel-um-amulett-die-besten-sachbuecher-2024-elementarteilchen-newsletter](https://www.spiegel.de/wissenschaft/mensch/sabotage-in-der-ostsee-raetsel-um-amulett-die-besten-sachbuecher-2024-elementarteilchen-newsletter-a-9da893b1-7e01-4f3b-bfe8-df0fdef080ba#ref=rss)
+### spiegel
+
+* [https://www.spiegel.de/wissenschaft/mensch/sabotage-in-der-ostsee-raetsel-um-amulett-die-besten-sachbuecher-2024-elementarteilchen-newsletter](https://www.spiegel.de/wissenschaft/mensch/sabotage-in-der-ostsee-raetsel-um-amulett-die-besten-sachbuecher-2024-elementarteilchen-newsletter-a-9da893b1-7e01-4f3b-bfe8-df0fdef080ba#ref=rss)
+* [https://www.spiegel.de/ausland/wo-viele-schwarze-us-amerikaner-eine-neue-heimat-finden-alles-gute-vom-spiegel](https://www.spiegel.de/ausland/wo-viele-schwarze-us-amerikaner-eine-neue-heimat-finden-alles-gute-vom-spiegel-a-031ba209-3001-4f48-b32e-a30e952e30ed#ref=rss)
+### schweiz
+
+* [https://www.spiegel.de/ausland/antisemitische-vorfaelle-schweiz-will-mit-neuem-gesetz-gegen-ns-symbole-vorgehen](https://www.spiegel.de/ausland/antisemitische-vorfaelle-schweiz-will-mit-neuem-gesetz-gegen-ns-symbole-vorgehen-a-15e346e6-53ed-4f55-ae56-d08b423947b0#ref=rss)
+### gesetz
+
+* [https://www.spiegel.de/ausland/antisemitische-vorfaelle-schweiz-will-mit-neuem-gesetz-gegen-ns-symbole-vorgehen](https://www.spiegel.de/ausland/antisemitische-vorfaelle-schweiz-will-mit-neuem-gesetz-gegen-ns-symbole-vorgehen-a-15e346e6-53ed-4f55-ae56-d08b423947b0#ref=rss)
+### nancy
+
+* [https://www.spiegel.de/politik/nancy-pelosi-wird-in-us-militaerklinik-in-landstuhl-behandelt](https://www.spiegel.de/politik/nancy-pelosi-wird-in-us-militaerklinik-in-landstuhl-behandelt-a-65ce91d1-deff-4555-99ac-b11169b74b41#ref=rss)
+### pelosi
+
+* [https://www.spiegel.de/politik/nancy-pelosi-wird-in-us-militaerklinik-in-landstuhl-behandelt](https://www.spiegel.de/politik/nancy-pelosi-wird-in-us-militaerklinik-in-landstuhl-behandelt-a-65ce91d1-deff-4555-99ac-b11169b74b41#ref=rss)
+### landstuhl
+
+* [https://www.spiegel.de/politik/nancy-pelosi-wird-in-us-militaerklinik-in-landstuhl-behandelt](https://www.spiegel.de/politik/nancy-pelosi-wird-in-us-militaerklinik-in-landstuhl-behandelt-a-65ce91d1-deff-4555-99ac-b11169b74b41#ref=rss)
+### porsche
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/porsche-se-muss-voraussichtlich-milliarden-euro-abschreiben](https://www.spiegel.de/wirtschaft/unternehmen/porsche-se-muss-voraussichtlich-milliarden-euro-abschreiben-a-52f0962b-0ae1-4079-bb03-513643afc994#ref=rss)
+### se
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/porsche-se-muss-voraussichtlich-milliarden-euro-abschreiben](https://www.spiegel.de/wirtschaft/unternehmen/porsche-se-muss-voraussichtlich-milliarden-euro-abschreiben-a-52f0962b-0ae1-4079-bb03-513643afc994#ref=rss)
+### euro
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/porsche-se-muss-voraussichtlich-milliarden-euro-abschreiben](https://www.spiegel.de/wirtschaft/unternehmen/porsche-se-muss-voraussichtlich-milliarden-euro-abschreiben-a-52f0962b-0ae1-4079-bb03-513643afc994#ref=rss)
+* [https://www.spiegel.de/fitness/konsumgestaendnis-und-ploetzlich-wollte-ich-auch-eine-fahrradmaus-sein](https://www.spiegel.de/fitness/konsumgestaendnis-und-ploetzlich-wollte-ich-auch-eine-fahrradmaus-sein-a-892c6fbc-6360-47db-ab81-5c5400d753b6#ref=rss)
+### tief
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/porsche-se-muss-voraussichtlich-milliarden-euro-abschreiben](https://www.spiegel.de/wirtschaft/unternehmen/porsche-se-muss-voraussichtlich-milliarden-euro-abschreiben-a-52f0962b-0ae1-4079-bb03-513643afc994#ref=rss)
+### hugh
+
+* [https://www.spiegel.de/kultur/hugh-grant-die-last-des-ruhms-ein-gespraech-mit-dem-heretic-star](https://www.spiegel.de/kultur/hugh-grant-die-last-des-ruhms-ein-gespraech-mit-dem-heretic-star-a-e7eaef7b-d5c0-4e3d-bc0d-45b971ac2776#ref=rss)
+### grant
+
+* [https://www.spiegel.de/kultur/hugh-grant-die-last-des-ruhms-ein-gespraech-mit-dem-heretic-star](https://www.spiegel.de/kultur/hugh-grant-die-last-des-ruhms-ein-gespraech-mit-dem-heretic-star-a-e7eaef7b-d5c0-4e3d-bc0d-45b971ac2776#ref=rss)
+### gespräch
+
+* [https://www.spiegel.de/kultur/hugh-grant-die-last-des-ruhms-ein-gespraech-mit-dem-heretic-star](https://www.spiegel.de/kultur/hugh-grant-die-last-des-ruhms-ein-gespraech-mit-dem-heretic-star-a-e7eaef7b-d5c0-4e3d-bc0d-45b971ac2776#ref=rss)
+### finden
+
+* [https://www.spiegel.de/kultur/hugh-grant-die-last-des-ruhms-ein-gespraech-mit-dem-heretic-star](https://www.spiegel.de/kultur/hugh-grant-die-last-des-ruhms-ein-gespraech-mit-dem-heretic-star-a-e7eaef7b-d5c0-4e3d-bc0d-45b971ac2776#ref=rss)
+* [https://www.spiegel.de/ausland/wo-viele-schwarze-us-amerikaner-eine-neue-heimat-finden-alles-gute-vom-spiegel](https://www.spiegel.de/ausland/wo-viele-schwarze-us-amerikaner-eine-neue-heimat-finden-alles-gute-vom-spiegel-a-031ba209-3001-4f48-b32e-a30e952e30ed#ref=rss)
+### ermittlungen
+
+* [https://www.spiegel.de/panorama/norwegen-erneute-ermittlungen-gegen-mette-marits-sohn](https://www.spiegel.de/panorama/norwegen-erneute-ermittlungen-gegen-mette-marits-sohn-a-153aa0cd-251b-4375-8dc7-aabcd7816b5b#ref=rss)
+### sohn
+
+* [https://www.spiegel.de/panorama/norwegen-erneute-ermittlungen-gegen-mette-marits-sohn](https://www.spiegel.de/panorama/norwegen-erneute-ermittlungen-gegen-mette-marits-sohn-a-153aa0cd-251b-4375-8dc7-aabcd7816b5b#ref=rss)
+### absetzung
+
+* [https://www.spiegel.de/ausland/suedkorea-parlament-stimmt-fuer-absetzung-von-praesident-yoon-suk-yeol](https://www.spiegel.de/ausland/suedkorea-parlament-stimmt-fuer-absetzung-von-praesident-yoon-suk-yeol-a-4bcbca8a-2cda-4dde-b593-4ee2ce48f2ba#ref=rss)
+* [https://www.spiegel.de/ausland/protest-gegen-suedkoreas-praesident-yoon-mit-k-pop-gegen-die-maechtigen](https://www.spiegel.de/ausland/protest-gegen-suedkoreas-praesident-yoon-mit-k-pop-gegen-die-maechtigen-a-5c0a559b-0530-4e57-ae5f-baa71ef8954d#ref=rss)
+### seoul
+
+* [https://www.spiegel.de/ausland/suedkorea-parlament-stimmt-fuer-absetzung-von-praesident-yoon-suk-yeol](https://www.spiegel.de/ausland/suedkorea-parlament-stimmt-fuer-absetzung-von-praesident-yoon-suk-yeol-a-4bcbca8a-2cda-4dde-b593-4ee2ce48f2ba#ref=rss)
+* [https://www.spiegel.de/ausland/protest-gegen-suedkoreas-praesident-yoon-mit-k-pop-gegen-die-maechtigen](https://www.spiegel.de/ausland/protest-gegen-suedkoreas-praesident-yoon-mit-k-pop-gegen-die-maechtigen-a-5c0a559b-0530-4e57-ae5f-baa71ef8954d#ref=rss)
+### samstag
+
+* [https://www.spiegel.de/ausland/suedkorea-parlament-stimmt-fuer-absetzung-von-praesident-yoon-suk-yeol](https://www.spiegel.de/ausland/suedkorea-parlament-stimmt-fuer-absetzung-von-praesident-yoon-suk-yeol-a-4bcbca8a-2cda-4dde-b593-4ee2ce48f2ba#ref=rss)
+* [https://www.spiegel.de/ausland/protest-gegen-suedkoreas-praesident-yoon-mit-k-pop-gegen-die-maechtigen](https://www.spiegel.de/ausland/protest-gegen-suedkoreas-praesident-yoon-mit-k-pop-gegen-die-maechtigen-a-5c0a559b-0530-4e57-ae5f-baa71ef8954d#ref=rss)
 ### land
 
-* [https://www.spiegel.de/ausland/staatskrise-in-rumaenien-pandemie-des-hasses](https://www.spiegel.de/ausland/staatskrise-in-rumaenien-pandemie-des-hasses-a-e5b29304-a642-442b-a499-414aec1ae915#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-ruanda-bewirbt-sich-um-rennen](https://www.spiegel.de/sport/formel1/formel-1-ruanda-bewirbt-sich-um-rennen-a-4707ecf7-392c-42a1-8297-faafb7836363#ref=rss)
-### euparlament
+* [https://www.spiegel.de/ausland/suedkorea-parlament-stimmt-fuer-absetzung-von-praesident-yoon-suk-yeol](https://www.spiegel.de/ausland/suedkorea-parlament-stimmt-fuer-absetzung-von-praesident-yoon-suk-yeol-a-4bcbca8a-2cda-4dde-b593-4ee2ce48f2ba#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/donald-trump-will-die-sommerzeit-in-den-usa-abschaffen](https://www.spiegel.de/panorama/gesellschaft/donald-trump-will-die-sommerzeit-in-den-usa-abschaffen-a-455c59b7-b7b2-499d-b5f5-40b1ec8a2050#ref=rss)
+### donald
 
-* [https://www.spiegel.de/politik/deutschland/eu-parlament-afd-mitarbeiterin-schmueckte-sich-mit-hoheitszeichen-des-bundes](https://www.spiegel.de/politik/deutschland/eu-parlament-afd-mitarbeiterin-schmueckte-sich-mit-hoheitszeichen-des-bundes-a-02d1c221-4805-4ccf-b7e4-97c7b4482cbd#ref=rss)
-### afdmitarbeiterin
+* [https://www.spiegel.de/panorama/gesellschaft/donald-trump-will-die-sommerzeit-in-den-usa-abschaffen](https://www.spiegel.de/panorama/gesellschaft/donald-trump-will-die-sommerzeit-in-den-usa-abschaffen-a-455c59b7-b7b2-499d-b5f5-40b1ec8a2050#ref=rss)
+* [https://www.spiegel.de/panorama/donald-trump-kriege-in-nahost-und-ukraine-ampel-aus-gisele-pelicot-2024-in-bildern](https://www.spiegel.de/panorama/donald-trump-kriege-in-nahost-und-ukraine-ampel-aus-gisele-pelicot-2024-in-bildern-a-30599d01-bc90-4c47-8413-ab6959829df7#ref=rss)
+### sommerzeit
 
-* [https://www.spiegel.de/politik/deutschland/eu-parlament-afd-mitarbeiterin-schmueckte-sich-mit-hoheitszeichen-des-bundes](https://www.spiegel.de/politik/deutschland/eu-parlament-afd-mitarbeiterin-schmueckte-sich-mit-hoheitszeichen-des-bundes-a-02d1c221-4805-4ccf-b7e4-97c7b4482cbd#ref=rss)
-### wolfgang
+* [https://www.spiegel.de/panorama/gesellschaft/donald-trump-will-die-sommerzeit-in-den-usa-abschaffen](https://www.spiegel.de/panorama/gesellschaft/donald-trump-will-die-sommerzeit-in-den-usa-abschaffen-a-455c59b7-b7b2-499d-b5f5-40b1ec8a2050#ref=rss)
+### erklärt
 
-* [https://www.spiegel.de/kultur/kino/wolfgang-becker-regisseur-von-good-bye-lenin-ist-tot](https://www.spiegel.de/kultur/kino/wolfgang-becker-regisseur-von-good-bye-lenin-ist-tot-a-1bce4ab6-6fee-411c-8032-a3303f5fcc66#ref=rss)
-### becker
+* [https://www.spiegel.de/panorama/gesellschaft/donald-trump-will-die-sommerzeit-in-den-usa-abschaffen](https://www.spiegel.de/panorama/gesellschaft/donald-trump-will-die-sommerzeit-in-den-usa-abschaffen-a-455c59b7-b7b2-499d-b5f5-40b1ec8a2050#ref=rss)
+* [https://www.spiegel.de/sport/basketball/moritz-und-franz-wagner-jugendtrainer-norbert-opitz-erklaert-ihren-erfolg-und-ihre-bescheidenheit](https://www.spiegel.de/sport/basketball/moritz-und-franz-wagner-jugendtrainer-norbert-opitz-erklaert-ihren-erfolg-und-ihre-bescheidenheit-a-b6518018-2010-4c24-968f-a71ccc668e70#ref=rss)
+### würde
 
-* [https://www.spiegel.de/kultur/kino/wolfgang-becker-regisseur-von-good-bye-lenin-ist-tot](https://www.spiegel.de/kultur/kino/wolfgang-becker-regisseur-von-good-bye-lenin-ist-tot-a-1bce4ab6-6fee-411c-8032-a3303f5fcc66#ref=rss)
-### regisseur
+* [https://www.spiegel.de/panorama/gesellschaft/donald-trump-will-die-sommerzeit-in-den-usa-abschaffen](https://www.spiegel.de/panorama/gesellschaft/donald-trump-will-die-sommerzeit-in-den-usa-abschaffen-a-455c59b7-b7b2-499d-b5f5-40b1ec8a2050#ref=rss)
+* [https://www.spiegel.de/fitness/konsumgestaendnis-und-ploetzlich-wollte-ich-auch-eine-fahrradmaus-sein](https://www.spiegel.de/fitness/konsumgestaendnis-und-ploetzlich-wollte-ich-auch-eine-fahrradmaus-sein-a-892c6fbc-6360-47db-ab81-5c5400d753b6#ref=rss)
+### sehr
 
-* [https://www.spiegel.de/kultur/kino/wolfgang-becker-regisseur-von-good-bye-lenin-ist-tot](https://www.spiegel.de/kultur/kino/wolfgang-becker-regisseur-von-good-bye-lenin-ist-tot-a-1bce4ab6-6fee-411c-8032-a3303f5fcc66#ref=rss)
-### good
+* [https://www.spiegel.de/panorama/gesellschaft/donald-trump-will-die-sommerzeit-in-den-usa-abschaffen](https://www.spiegel.de/panorama/gesellschaft/donald-trump-will-die-sommerzeit-in-den-usa-abschaffen-a-455c59b7-b7b2-499d-b5f5-40b1ec8a2050#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-nach-niederlagen-wird-offenbar-kommandeur-olexander-luzenko-an-front-ausgetauscht](https://www.spiegel.de/ausland/ukraine-nach-niederlagen-wird-offenbar-kommandeur-olexander-luzenko-an-front-ausgetauscht-a-24d066cf-b445-432f-80bd-e706d95ba2a3#ref=rss)
+### usamerikaner
 
-* [https://www.spiegel.de/kultur/kino/wolfgang-becker-regisseur-von-good-bye-lenin-ist-tot](https://www.spiegel.de/kultur/kino/wolfgang-becker-regisseur-von-good-bye-lenin-ist-tot-a-1bce4ab6-6fee-411c-8032-a3303f5fcc66#ref=rss)
-### bye
+* [https://www.spiegel.de/ausland/wo-viele-schwarze-us-amerikaner-eine-neue-heimat-finden-alles-gute-vom-spiegel](https://www.spiegel.de/ausland/wo-viele-schwarze-us-amerikaner-eine-neue-heimat-finden-alles-gute-vom-spiegel-a-031ba209-3001-4f48-b32e-a30e952e30ed#ref=rss)
+### olaf
 
-* [https://www.spiegel.de/kultur/kino/wolfgang-becker-regisseur-von-good-bye-lenin-ist-tot](https://www.spiegel.de/kultur/kino/wolfgang-becker-regisseur-von-good-bye-lenin-ist-tot-a-1bce4ab6-6fee-411c-8032-a3303f5fcc66#ref=rss)
-### lenin
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-mahnt-zu-besonnenheit-in-debatte-ueber-syrische-gefluechtete](https://www.spiegel.de/politik/deutschland/olaf-scholz-mahnt-zu-besonnenheit-in-debatte-ueber-syrische-gefluechtete-a-0fb1840d-6c25-4ba7-be12-aa324aaf55a4#ref=rss)
+### scholz
 
-* [https://www.spiegel.de/kultur/kino/wolfgang-becker-regisseur-von-good-bye-lenin-ist-tot](https://www.spiegel.de/kultur/kino/wolfgang-becker-regisseur-von-good-bye-lenin-ist-tot-a-1bce4ab6-6fee-411c-8032-a3303f5fcc66#ref=rss)
-### sternschnuppen
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-mahnt-zu-besonnenheit-in-debatte-ueber-syrische-gefluechtete](https://www.spiegel.de/politik/deutschland/olaf-scholz-mahnt-zu-besonnenheit-in-debatte-ueber-syrische-gefluechtete-a-0fb1840d-6c25-4ba7-be12-aa324aaf55a4#ref=rss)
+### mahnt
 
-* [https://www.spiegel.de/wissenschaft/natur/sternschnuppen-wo-und-wann-sie-den-meteorsturm-der-geminiden-am-besten-sehen](https://www.spiegel.de/wissenschaft/natur/sternschnuppen-wo-und-wann-sie-den-meteorsturm-der-geminiden-am-besten-sehen-a-249e834b-c3a4-4bd0-8007-9486ec216cc6#ref=rss)
-### meteorsturm
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-mahnt-zu-besonnenheit-in-debatte-ueber-syrische-gefluechtete](https://www.spiegel.de/politik/deutschland/olaf-scholz-mahnt-zu-besonnenheit-in-debatte-ueber-syrische-gefluechtete-a-0fb1840d-6c25-4ba7-be12-aa324aaf55a4#ref=rss)
+### besonnenheit
 
-* [https://www.spiegel.de/wissenschaft/natur/sternschnuppen-wo-und-wann-sie-den-meteorsturm-der-geminiden-am-besten-sehen](https://www.spiegel.de/wissenschaft/natur/sternschnuppen-wo-und-wann-sie-den-meteorsturm-der-geminiden-am-besten-sehen-a-249e834b-c3a4-4bd0-8007-9486ec216cc6#ref=rss)
-### geminiden
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-mahnt-zu-besonnenheit-in-debatte-ueber-syrische-gefluechtete](https://www.spiegel.de/politik/deutschland/olaf-scholz-mahnt-zu-besonnenheit-in-debatte-ueber-syrische-gefluechtete-a-0fb1840d-6c25-4ba7-be12-aa324aaf55a4#ref=rss)
+### debatte
 
-* [https://www.spiegel.de/wissenschaft/natur/sternschnuppen-wo-und-wann-sie-den-meteorsturm-der-geminiden-am-besten-sehen](https://www.spiegel.de/wissenschaft/natur/sternschnuppen-wo-und-wann-sie-den-meteorsturm-der-geminiden-am-besten-sehen-a-249e834b-c3a4-4bd0-8007-9486ec216cc6#ref=rss)
-### sehen
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-mahnt-zu-besonnenheit-in-debatte-ueber-syrische-gefluechtete](https://www.spiegel.de/politik/deutschland/olaf-scholz-mahnt-zu-besonnenheit-in-debatte-ueber-syrische-gefluechtete-a-0fb1840d-6c25-4ba7-be12-aa324aaf55a4#ref=rss)
+### syrische
 
-* [https://www.spiegel.de/wissenschaft/natur/sternschnuppen-wo-und-wann-sie-den-meteorsturm-der-geminiden-am-besten-sehen](https://www.spiegel.de/wissenschaft/natur/sternschnuppen-wo-und-wann-sie-den-meteorsturm-der-geminiden-am-besten-sehen-a-249e834b-c3a4-4bd0-8007-9486ec216cc6#ref=rss)
-### prinz
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-mahnt-zu-besonnenheit-in-debatte-ueber-syrische-gefluechtete](https://www.spiegel.de/politik/deutschland/olaf-scholz-mahnt-zu-besonnenheit-in-debatte-ueber-syrische-gefluechtete-a-0fb1840d-6c25-4ba7-be12-aa324aaf55a4#ref=rss)
+### geflüchtete
 
-* [https://www.spiegel.de/panorama/leute/grossbritannien-vertrauter-von-prinz-andrew-darf-wegen-spionageverdacht-nicht-mehr-einreisen](https://www.spiegel.de/panorama/leute/grossbritannien-vertrauter-von-prinz-andrew-darf-wegen-spionageverdacht-nicht-mehr-einreisen-a-4a14ee8b-5739-421c-be33-204bca66c92b#ref=rss)
-### andrew
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-mahnt-zu-besonnenheit-in-debatte-ueber-syrische-gefluechtete](https://www.spiegel.de/politik/deutschland/olaf-scholz-mahnt-zu-besonnenheit-in-debatte-ueber-syrische-gefluechtete-a-0fb1840d-6c25-4ba7-be12-aa324aaf55a4#ref=rss)
+### sturz
 
-* [https://www.spiegel.de/panorama/leute/grossbritannien-vertrauter-von-prinz-andrew-darf-wegen-spionageverdacht-nicht-mehr-einreisen](https://www.spiegel.de/panorama/leute/grossbritannien-vertrauter-von-prinz-andrew-darf-wegen-spionageverdacht-nicht-mehr-einreisen-a-4a14ee8b-5739-421c-be33-204bca66c92b#ref=rss)
-### hamburger
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-mahnt-zu-besonnenheit-in-debatte-ueber-syrische-gefluechtete](https://www.spiegel.de/politik/deutschland/olaf-scholz-mahnt-zu-besonnenheit-in-debatte-ueber-syrische-gefluechtete-a-0fb1840d-6c25-4ba7-be12-aa324aaf55a4#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-hts-miliz-will-sturz-von-assad-ein-jahr-lang-geplant-haben](https://www.spiegel.de/ausland/syrien-hts-miliz-will-sturz-von-assad-ein-jahr-lang-geplant-haben-a-60448f51-f641-45e7-a4b1-ad0eacfd152b#ref=rss)
+### assad
 
-* [https://www.spiegel.de/sport/fussball/hamburger-sv-bakery-jatta-hat-geheiratet-ohne-anwesend-zu-sein](https://www.spiegel.de/sport/fussball/hamburger-sv-bakery-jatta-hat-geheiratet-ohne-anwesend-zu-sein-a-20aac006-caa3-45db-abdd-17dc71ccefd2#ref=rss)
-### sv
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-mahnt-zu-besonnenheit-in-debatte-ueber-syrische-gefluechtete](https://www.spiegel.de/politik/deutschland/olaf-scholz-mahnt-zu-besonnenheit-in-debatte-ueber-syrische-gefluechtete-a-0fb1840d-6c25-4ba7-be12-aa324aaf55a4#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-hts-miliz-will-sturz-von-assad-ein-jahr-lang-geplant-haben](https://www.spiegel.de/ausland/syrien-hts-miliz-will-sturz-von-assad-ein-jahr-lang-geplant-haben-a-60448f51-f641-45e7-a4b1-ad0eacfd152b#ref=rss)
+### kriege
 
-* [https://www.spiegel.de/sport/fussball/hamburger-sv-bakery-jatta-hat-geheiratet-ohne-anwesend-zu-sein](https://www.spiegel.de/sport/fussball/hamburger-sv-bakery-jatta-hat-geheiratet-ohne-anwesend-zu-sein-a-20aac006-caa3-45db-abdd-17dc71ccefd2#ref=rss)
-### bakery
+* [https://www.spiegel.de/panorama/donald-trump-kriege-in-nahost-und-ukraine-ampel-aus-gisele-pelicot-2024-in-bildern](https://www.spiegel.de/panorama/donald-trump-kriege-in-nahost-und-ukraine-ampel-aus-gisele-pelicot-2024-in-bildern-a-30599d01-bc90-4c47-8413-ab6959829df7#ref=rss)
+### nahost
 
-* [https://www.spiegel.de/sport/fussball/hamburger-sv-bakery-jatta-hat-geheiratet-ohne-anwesend-zu-sein](https://www.spiegel.de/sport/fussball/hamburger-sv-bakery-jatta-hat-geheiratet-ohne-anwesend-zu-sein-a-20aac006-caa3-45db-abdd-17dc71ccefd2#ref=rss)
-### jatta
+* [https://www.spiegel.de/panorama/donald-trump-kriege-in-nahost-und-ukraine-ampel-aus-gisele-pelicot-2024-in-bildern](https://www.spiegel.de/panorama/donald-trump-kriege-in-nahost-und-ukraine-ampel-aus-gisele-pelicot-2024-in-bildern-a-30599d01-bc90-4c47-8413-ab6959829df7#ref=rss)
+### ampel
 
-* [https://www.spiegel.de/sport/fussball/hamburger-sv-bakery-jatta-hat-geheiratet-ohne-anwesend-zu-sein](https://www.spiegel.de/sport/fussball/hamburger-sv-bakery-jatta-hat-geheiratet-ohne-anwesend-zu-sein-a-20aac006-caa3-45db-abdd-17dc71ccefd2#ref=rss)
-### formel
+* [https://www.spiegel.de/panorama/donald-trump-kriege-in-nahost-und-ukraine-ampel-aus-gisele-pelicot-2024-in-bildern](https://www.spiegel.de/panorama/donald-trump-kriege-in-nahost-und-ukraine-ampel-aus-gisele-pelicot-2024-in-bildern-a-30599d01-bc90-4c47-8413-ab6959829df7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-ampelregierung-union-kindergeld-frankreich](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-ampelregierung-union-kindergeld-frankreich-a-b9c5e3ca-842d-4f3d-b114-2b987ea81fe0#ref=rss)
+### test
 
-* [https://www.spiegel.de/sport/formel1/formel-1-ruanda-bewirbt-sich-um-rennen](https://www.spiegel.de/sport/formel1/formel-1-ruanda-bewirbt-sich-um-rennen-a-4707ecf7-392c-42a1-8297-faafb7836363#ref=rss)
-### 1
+* [https://www.spiegel.de/tests/vollformat-systemkameras-von-canon-nikon-leica-sony-und-panasonic-im-test](https://www.spiegel.de/tests/vollformat-systemkameras-von-canon-nikon-leica-sony-und-panasonic-im-test-a-7cab4eb2-80f3-4b10-83b3-eac531ec1b0b#ref=rss)
+### adventskalender
 
-* [https://www.spiegel.de/sport/formel1/formel-1-ruanda-bewirbt-sich-um-rennen](https://www.spiegel.de/sport/formel1/formel-1-ruanda-bewirbt-sich-um-rennen-a-4707ecf7-392c-42a1-8297-faafb7836363#ref=rss)
-### cdu
+* [https://www.spiegel.de/familie/adventskalender-aus-klopapierrollen-ein-geschenk-das-schiefging](https://www.spiegel.de/familie/adventskalender-aus-klopapierrollen-ein-geschenk-das-schiefging-a-ee334339-5f64-4874-b260-9fde7104cea1#ref=rss)
+### dachte
 
-* [https://www.spiegel.de/politik/deutschland/cdu-fussfessel-genderverbot-steuerfreies-eigenheim](https://www.spiegel.de/politik/deutschland/cdu-fussfessel-genderverbot-steuerfreies-eigenheim-a-c4fa152f-5efd-4bf1-a628-4a1aded1e5e9#ref=rss)
-### bund
+* [https://www.spiegel.de/familie/adventskalender-aus-klopapierrollen-ein-geschenk-das-schiefging](https://www.spiegel.de/familie/adventskalender-aus-klopapierrollen-ein-geschenk-das-schiefging-a-ee334339-5f64-4874-b260-9fde7104cea1#ref=rss)
+* [https://www.spiegel.de/fitness/konsumgestaendnis-und-ploetzlich-wollte-ich-auch-eine-fahrradmaus-sein](https://www.spiegel.de/fitness/konsumgestaendnis-und-ploetzlich-wollte-ich-auch-eine-fahrradmaus-sein-a-892c6fbc-6360-47db-ab81-5c5400d753b6#ref=rss)
+### moritz
 
-* [https://www.spiegel.de/panorama/bildung/bund-und-laender-einigen-sich-auf-digitalpakt-2-0-fuer-schulen](https://www.spiegel.de/panorama/bildung/bund-und-laender-einigen-sich-auf-digitalpakt-2-0-fuer-schulen-a-7290e18a-c0f1-49ea-826c-5f4cfbc6503b#ref=rss)
-### länder
+* [https://www.spiegel.de/sport/basketball/moritz-und-franz-wagner-jugendtrainer-norbert-opitz-erklaert-ihren-erfolg-und-ihre-bescheidenheit](https://www.spiegel.de/sport/basketball/moritz-und-franz-wagner-jugendtrainer-norbert-opitz-erklaert-ihren-erfolg-und-ihre-bescheidenheit-a-b6518018-2010-4c24-968f-a71ccc668e70#ref=rss)
+### franz
 
-* [https://www.spiegel.de/panorama/bildung/bund-und-laender-einigen-sich-auf-digitalpakt-2-0-fuer-schulen](https://www.spiegel.de/panorama/bildung/bund-und-laender-einigen-sich-auf-digitalpakt-2-0-fuer-schulen-a-7290e18a-c0f1-49ea-826c-5f4cfbc6503b#ref=rss)
-### schulen
+* [https://www.spiegel.de/sport/basketball/moritz-und-franz-wagner-jugendtrainer-norbert-opitz-erklaert-ihren-erfolg-und-ihre-bescheidenheit](https://www.spiegel.de/sport/basketball/moritz-und-franz-wagner-jugendtrainer-norbert-opitz-erklaert-ihren-erfolg-und-ihre-bescheidenheit-a-b6518018-2010-4c24-968f-a71ccc668e70#ref=rss)
+### wagner
 
-* [https://www.spiegel.de/panorama/bildung/bund-und-laender-einigen-sich-auf-digitalpakt-2-0-fuer-schulen](https://www.spiegel.de/panorama/bildung/bund-und-laender-einigen-sich-auf-digitalpakt-2-0-fuer-schulen-a-7290e18a-c0f1-49ea-826c-5f4cfbc6503b#ref=rss)
-### holzwickede
+* [https://www.spiegel.de/sport/basketball/moritz-und-franz-wagner-jugendtrainer-norbert-opitz-erklaert-ihren-erfolg-und-ihre-bescheidenheit](https://www.spiegel.de/sport/basketball/moritz-und-franz-wagner-jugendtrainer-norbert-opitz-erklaert-ihren-erfolg-und-ihre-bescheidenheit-a-b6518018-2010-4c24-968f-a71ccc668e70#ref=rss)
+### jugendtrainer
 
-* [https://www.spiegel.de/panorama/holzwickede-in-nordrhein-westfalen-legt-rauchverbot-fuer-freiluft-events-fest](https://www.spiegel.de/panorama/holzwickede-in-nordrhein-westfalen-legt-rauchverbot-fuer-freiluft-events-fest-a-1629eb53-91f9-4990-a070-2edd34954bb9#ref=rss)
-### björn
+* [https://www.spiegel.de/sport/basketball/moritz-und-franz-wagner-jugendtrainer-norbert-opitz-erklaert-ihren-erfolg-und-ihre-bescheidenheit](https://www.spiegel.de/sport/basketball/moritz-und-franz-wagner-jugendtrainer-norbert-opitz-erklaert-ihren-erfolg-und-ihre-bescheidenheit-a-b6518018-2010-4c24-968f-a71ccc668e70#ref=rss)
+### norbert
 
-* [https://www.spiegel.de/politik/deutschland/afd-und-reichsbuerger-bjoern-winter-rechtsextremer-minijobber](https://www.spiegel.de/politik/deutschland/afd-und-reichsbuerger-bjoern-winter-rechtsextremer-minijobber-a-a1087549-b205-4271-9b10-7c4382fbf03c#ref=rss)
+* [https://www.spiegel.de/sport/basketball/moritz-und-franz-wagner-jugendtrainer-norbert-opitz-erklaert-ihren-erfolg-und-ihre-bescheidenheit](https://www.spiegel.de/sport/basketball/moritz-und-franz-wagner-jugendtrainer-norbert-opitz-erklaert-ihren-erfolg-und-ihre-bescheidenheit-a-b6518018-2010-4c24-968f-a71ccc668e70#ref=rss)
+### opitz
+
+* [https://www.spiegel.de/sport/basketball/moritz-und-franz-wagner-jugendtrainer-norbert-opitz-erklaert-ihren-erfolg-und-ihre-bescheidenheit](https://www.spiegel.de/sport/basketball/moritz-und-franz-wagner-jugendtrainer-norbert-opitz-erklaert-ihren-erfolg-und-ihre-bescheidenheit-a-b6518018-2010-4c24-968f-a71ccc668e70#ref=rss)
+### erfolg
+
+* [https://www.spiegel.de/sport/basketball/moritz-und-franz-wagner-jugendtrainer-norbert-opitz-erklaert-ihren-erfolg-und-ihre-bescheidenheit](https://www.spiegel.de/sport/basketball/moritz-und-franz-wagner-jugendtrainer-norbert-opitz-erklaert-ihren-erfolg-und-ihre-bescheidenheit-a-b6518018-2010-4c24-968f-a71ccc668e70#ref=rss)
+### nie
+
+* [https://www.spiegel.de/reise/europa/camping-tourismus-boom-wohin-mit-all-den-wohnmobilen](https://www.spiegel.de/reise/europa/camping-tourismus-boom-wohin-mit-all-den-wohnmobilen-a-b5b8641b-83ff-419c-b548-13fd13bf4086#ref=rss)
+* [https://www.spiegel.de/fitness/konsumgestaendnis-und-ploetzlich-wollte-ich-auch-eine-fahrradmaus-sein](https://www.spiegel.de/fitness/konsumgestaendnis-und-ploetzlich-wollte-ich-auch-eine-fahrradmaus-sein-a-892c6fbc-6360-47db-ab81-5c5400d753b6#ref=rss)
+### mir
+
+* [https://www.spiegel.de/fitness/konsumgestaendnis-und-ploetzlich-wollte-ich-auch-eine-fahrradmaus-sein](https://www.spiegel.de/fitness/konsumgestaendnis-und-ploetzlich-wollte-ich-auch-eine-fahrradmaus-sein-a-892c6fbc-6360-47db-ab81-5c5400d753b6#ref=rss)
+### legende
+
+* [https://www.spiegel.de/panorama/fc-schalke-04-wie-sich-die-aussortierte-legende-gerald-asamoah-fuehlt](https://www.spiegel.de/panorama/fc-schalke-04-wie-sich-die-aussortierte-legende-gerald-asamoah-fuehlt-a-d562e5bc-1f06-4c4d-b1dc-2dfe42b34193#ref=rss)
+### gerald
+
+* [https://www.spiegel.de/panorama/fc-schalke-04-wie-sich-die-aussortierte-legende-gerald-asamoah-fuehlt](https://www.spiegel.de/panorama/fc-schalke-04-wie-sich-die-aussortierte-legende-gerald-asamoah-fuehlt-a-d562e5bc-1f06-4c4d-b1dc-2dfe42b34193#ref=rss)
+### asamoah
+
+* [https://www.spiegel.de/panorama/fc-schalke-04-wie-sich-die-aussortierte-legende-gerald-asamoah-fuehlt](https://www.spiegel.de/panorama/fc-schalke-04-wie-sich-die-aussortierte-legende-gerald-asamoah-fuehlt-a-d562e5bc-1f06-4c4d-b1dc-2dfe42b34193#ref=rss)
+### fühlt
+
+* [https://www.spiegel.de/panorama/fc-schalke-04-wie-sich-die-aussortierte-legende-gerald-asamoah-fuehlt](https://www.spiegel.de/panorama/fc-schalke-04-wie-sich-die-aussortierte-legende-gerald-asamoah-fuehlt-a-d562e5bc-1f06-4c4d-b1dc-2dfe42b34193#ref=rss)
+### verein
+
+* [https://www.spiegel.de/panorama/fc-schalke-04-wie-sich-die-aussortierte-legende-gerald-asamoah-fuehlt](https://www.spiegel.de/panorama/fc-schalke-04-wie-sich-die-aussortierte-legende-gerald-asamoah-fuehlt-a-d562e5bc-1f06-4c4d-b1dc-2dfe42b34193#ref=rss)
+### michael
+
+* [https://www.spiegel.de/panorama/leute/michael-jackson-ex-polizist-besitzt-unveroeffentlichte-lieder-des-popstars](https://www.spiegel.de/panorama/leute/michael-jackson-ex-polizist-besitzt-unveroeffentlichte-lieder-des-popstars-a-20228edc-7590-4ccd-b1c4-61fce497d2e2#ref=rss)
+### jackson
+
+* [https://www.spiegel.de/panorama/leute/michael-jackson-ex-polizist-besitzt-unveroeffentlichte-lieder-des-popstars](https://www.spiegel.de/panorama/leute/michael-jackson-ex-polizist-besitzt-unveroeffentlichte-lieder-des-popstars-a-20228edc-7590-4ccd-b1c4-61fce497d2e2#ref=rss)
+### olexander
+
+* [https://www.spiegel.de/ausland/ukraine-nach-niederlagen-wird-offenbar-kommandeur-olexander-luzenko-an-front-ausgetauscht](https://www.spiegel.de/ausland/ukraine-nach-niederlagen-wird-offenbar-kommandeur-olexander-luzenko-an-front-ausgetauscht-a-24d066cf-b445-432f-80bd-e706d95ba2a3#ref=rss)
+### luzenko
+
+* [https://www.spiegel.de/ausland/ukraine-nach-niederlagen-wird-offenbar-kommandeur-olexander-luzenko-an-front-ausgetauscht](https://www.spiegel.de/ausland/ukraine-nach-niederlagen-wird-offenbar-kommandeur-olexander-luzenko-an-front-ausgetauscht-a-24d066cf-b445-432f-80bd-e706d95ba2a3#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/evan-gershkovich-freigelassener-us-journalist-sieht-sich-als-koeder-der-russischen-spionageabwehr](https://www.spiegel.de/ausland/evan-gershkovich-freigelassener-us-journalist-sieht-sich-als-koeder-der-russischen-spionageabwehr-a-9fcb7974-9997-4864-b53b-dbe2b953016f#ref=rss)
+### usjournalist
+
+* [https://www.spiegel.de/ausland/evan-gershkovich-freigelassener-us-journalist-sieht-sich-als-koeder-der-russischen-spionageabwehr](https://www.spiegel.de/ausland/evan-gershkovich-freigelassener-us-journalist-sieht-sich-als-koeder-der-russischen-spionageabwehr-a-9fcb7974-9997-4864-b53b-dbe2b953016f#ref=rss)
+### evan
+
+* [https://www.spiegel.de/ausland/evan-gershkovich-freigelassener-us-journalist-sieht-sich-als-koeder-der-russischen-spionageabwehr](https://www.spiegel.de/ausland/evan-gershkovich-freigelassener-us-journalist-sieht-sich-als-koeder-der-russischen-spionageabwehr-a-9fcb7974-9997-4864-b53b-dbe2b953016f#ref=rss)
+### gershkovich
+
+* [https://www.spiegel.de/ausland/evan-gershkovich-freigelassener-us-journalist-sieht-sich-als-koeder-der-russischen-spionageabwehr](https://www.spiegel.de/ausland/evan-gershkovich-freigelassener-us-journalist-sieht-sich-als-koeder-der-russischen-spionageabwehr-a-9fcb7974-9997-4864-b53b-dbe2b953016f#ref=rss)
+### spionageabwehr
+
+* [https://www.spiegel.de/ausland/evan-gershkovich-freigelassener-us-journalist-sieht-sich-als-koeder-der-russischen-spionageabwehr](https://www.spiegel.de/ausland/evan-gershkovich-freigelassener-us-journalist-sieht-sich-als-koeder-der-russischen-spionageabwehr-a-9fcb7974-9997-4864-b53b-dbe2b953016f#ref=rss)
+### vfl
+
+* [https://www.spiegel.de/sport/fussball/bundesliga-vfl-wolfsburg-verliert-beim-sc-freiburg](https://www.spiegel.de/sport/fussball/bundesliga-vfl-wolfsburg-verliert-beim-sc-freiburg-a-bcf3ef98-c01d-4569-8b9b-b76eb55423ce#ref=rss)
+### freiburg
+
+* [https://www.spiegel.de/sport/fussball/bundesliga-vfl-wolfsburg-verliert-beim-sc-freiburg](https://www.spiegel.de/sport/fussball/bundesliga-vfl-wolfsburg-verliert-beim-sc-freiburg-a-bcf3ef98-c01d-4569-8b9b-b76eb55423ce#ref=rss)
 
