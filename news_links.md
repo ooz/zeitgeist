@@ -4,376 +4,350 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### ich
+### bayern
 
-* [https://www.spiegel.de/panorama/syrischer-arzt-ich-muss-auch-der-deutschen-gesellschaft-helfen](https://www.spiegel.de/panorama/syrischer-arzt-ich-muss-auch-der-deutschen-gesellschaft-helfen-a-4a994d72-48af-4cfc-a88c-255a579a4f59#ref=rss)
-* [https://www.spiegel.de/familie/adventskalender-aus-klopapierrollen-ein-geschenk-das-schiefging](https://www.spiegel.de/familie/adventskalender-aus-klopapierrollen-ein-geschenk-das-schiefging-a-ee334339-5f64-4874-b260-9fde7104cea1#ref=rss)
-* [https://www.spiegel.de/fitness/konsumgestaendnis-und-ploetzlich-wollte-ich-auch-eine-fahrradmaus-sein](https://www.spiegel.de/fitness/konsumgestaendnis-und-ploetzlich-wollte-ich-auch-eine-fahrradmaus-sein-a-892c6fbc-6360-47db-ab81-5c5400d753b6#ref=rss)
-### syrien
-
-* [https://www.spiegel.de/panorama/syrischer-arzt-ich-muss-auch-der-deutschen-gesellschaft-helfen](https://www.spiegel.de/panorama/syrischer-arzt-ich-muss-auch-der-deutschen-gesellschaft-helfen-a-4a994d72-48af-4cfc-a88c-255a579a4f59#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/syrien-wie-spiegel-journalistin-asia-haidar-ihre-rueckkehr-in-die-heimat-erlebte](https://www.spiegel.de/panorama/gesellschaft/syrien-wie-spiegel-journalistin-asia-haidar-ihre-rueckkehr-in-die-heimat-erlebte-a-d02b1d73-c597-4c58-82c4-080840eb7fda#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-hts-miliz-will-sturz-von-assad-ein-jahr-lang-geplant-haben](https://www.spiegel.de/ausland/syrien-hts-miliz-will-sturz-von-assad-ein-jahr-lang-geplant-haben-a-60448f51-f641-45e7-a4b1-ad0eacfd152b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/bundesliga-armindo-sieb-tut-dem-fc-bayern-muenchen-weh-bayer-leverkusen-beisst-sich-oben-fest](https://www.spiegel.de/sport/fussball/bundesliga-armindo-sieb-tut-dem-fc-bayern-muenchen-weh-bayer-leverkusen-beisst-sich-oben-fest-a-a0a8aad0-f354-483d-a601-3cb8342ee153#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fsv-mainz-05-schlaegt-ueberraschend-den-fc-bayern-muenchen](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fsv-mainz-05-schlaegt-ueberraschend-den-fc-bayern-muenchen-a-f3459708-c9a3-4c95-a123-ae4272fe2ee7#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/panorama/syrischer-arzt-ich-muss-auch-der-deutschen-gesellschaft-helfen](https://www.spiegel.de/panorama/syrischer-arzt-ich-muss-auch-der-deutschen-gesellschaft-helfen-a-4a994d72-48af-4cfc-a88c-255a579a4f59#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/syrien-wie-spiegel-journalistin-asia-haidar-ihre-rueckkehr-in-die-heimat-erlebte](https://www.spiegel.de/panorama/gesellschaft/syrien-wie-spiegel-journalistin-asia-haidar-ihre-rueckkehr-in-die-heimat-erlebte-a-d02b1d73-c597-4c58-82c4-080840eb7fda#ref=rss)
-* [https://www.spiegel.de/ausland/wo-viele-schwarze-us-amerikaner-eine-neue-heimat-finden-alles-gute-vom-spiegel](https://www.spiegel.de/ausland/wo-viele-schwarze-us-amerikaner-eine-neue-heimat-finden-alles-gute-vom-spiegel-a-031ba209-3001-4f48-b32e-a30e952e30ed#ref=rss)
-* [https://www.spiegel.de/panorama/donald-trump-kriege-in-nahost-und-ukraine-ampel-aus-gisele-pelicot-2024-in-bildern](https://www.spiegel.de/panorama/donald-trump-kriege-in-nahost-und-ukraine-ampel-aus-gisele-pelicot-2024-in-bildern-a-30599d01-bc90-4c47-8413-ab6959829df7#ref=rss)
-### heimat
+* [https://www.spiegel.de/panorama/importeur-der-dubai-schokolade-die-ersten-tafeln-brachte-ich-in-rollkoffern-nach-deutschland](https://www.spiegel.de/panorama/importeur-der-dubai-schokolade-die-ersten-tafeln-brachte-ich-in-rollkoffern-nach-deutschland-a-eb798696-2b6f-4348-9c38-fd89204e1bd4#ref=rss)
+* [https://www.spiegel.de/karriere/mercedes-chef-bemaengelt-hohen-krankenstand-in-deutschland](https://www.spiegel.de/karriere/mercedes-chef-bemaengelt-hohen-krankenstand-in-deutschland-a-211b78d7-97da-4fe9-89ac-8e77d9ffb1a2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-merz-sieht-bekaempfung-irregulaerer-migration-als-wichtigste-aufgabe](https://www.spiegel.de/politik/deutschland/friedrich-merz-merz-sieht-bekaempfung-irregulaerer-migration-als-wichtigste-aufgabe-a-b06c5bda-e0e3-4697-bba4-86b9b151f7c0#ref=rss)
+### gisèle
 
-* [https://www.spiegel.de/panorama/syrischer-arzt-ich-muss-auch-der-deutschen-gesellschaft-helfen](https://www.spiegel.de/panorama/syrischer-arzt-ich-muss-auch-der-deutschen-gesellschaft-helfen-a-4a994d72-48af-4cfc-a88c-255a579a4f59#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/syrien-wie-spiegel-journalistin-asia-haidar-ihre-rueckkehr-in-die-heimat-erlebte](https://www.spiegel.de/panorama/gesellschaft/syrien-wie-spiegel-journalistin-asia-haidar-ihre-rueckkehr-in-die-heimat-erlebte-a-d02b1d73-c597-4c58-82c4-080840eb7fda#ref=rss)
-* [https://www.spiegel.de/ausland/wo-viele-schwarze-us-amerikaner-eine-neue-heimat-finden-alles-gute-vom-spiegel](https://www.spiegel.de/ausland/wo-viele-schwarze-us-amerikaner-eine-neue-heimat-finden-alles-gute-vom-spiegel-a-031ba209-3001-4f48-b32e-a30e952e30ed#ref=rss)
-### usa
+* [https://www.spiegel.de/ausland/avignon-anwaelte-von-gisele-pelicot-ueber-die-bedeutung-des-ausnahmeprozesses](https://www.spiegel.de/ausland/avignon-anwaelte-von-gisele-pelicot-ueber-die-bedeutung-des-ausnahmeprozesses-a-1523c691-9f36-4401-942b-eb079dc75dc1#ref=rss)
+* [https://www.spiegel.de/ausland/avignon-der-fall-gisele-pelicot-geht-zu-ende-protokoll-eines-ausnahmeprozesses](https://www.spiegel.de/ausland/avignon-der-fall-gisele-pelicot-geht-zu-ende-protokoll-eines-ausnahmeprozesses-a-3ebfc9a7-abd2-43e6-864a-0eb37541a546#ref=rss)
+### pelicot
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/tiktok-verbot-in-den-usa-gericht-lehnt-antrag-fuer-aufschub-ab](https://www.spiegel.de/wirtschaft/unternehmen/tiktok-verbot-in-den-usa-gericht-lehnt-antrag-fuer-aufschub-ab-a-a6f72afe-9cbd-4e80-bada-b385dced60a6#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/donald-trump-will-die-sommerzeit-in-den-usa-abschaffen](https://www.spiegel.de/panorama/gesellschaft/donald-trump-will-die-sommerzeit-in-den-usa-abschaffen-a-455c59b7-b7b2-499d-b5f5-40b1ec8a2050#ref=rss)
-### 2024
+* [https://www.spiegel.de/ausland/avignon-anwaelte-von-gisele-pelicot-ueber-die-bedeutung-des-ausnahmeprozesses](https://www.spiegel.de/ausland/avignon-anwaelte-von-gisele-pelicot-ueber-die-bedeutung-des-ausnahmeprozesses-a-1523c691-9f36-4401-942b-eb079dc75dc1#ref=rss)
+* [https://www.spiegel.de/ausland/avignon-der-fall-gisele-pelicot-geht-zu-ende-protokoll-eines-ausnahmeprozesses](https://www.spiegel.de/ausland/avignon-der-fall-gisele-pelicot-geht-zu-ende-protokoll-eines-ausnahmeprozesses-a-3ebfc9a7-abd2-43e6-864a-0eb37541a546#ref=rss)
+### merz
 
-* [https://www.spiegel.de/wissenschaft/mensch/sabotage-in-der-ostsee-raetsel-um-amulett-die-besten-sachbuecher-2024-elementarteilchen-newsletter](https://www.spiegel.de/wissenschaft/mensch/sabotage-in-der-ostsee-raetsel-um-amulett-die-besten-sachbuecher-2024-elementarteilchen-newsletter-a-9da893b1-7e01-4f3b-bfe8-df0fdef080ba#ref=rss)
-* [https://www.spiegel.de/panorama/donald-trump-kriege-in-nahost-und-ukraine-ampel-aus-gisele-pelicot-2024-in-bildern](https://www.spiegel.de/panorama/donald-trump-kriege-in-nahost-und-ukraine-ampel-aus-gisele-pelicot-2024-in-bildern-a-30599d01-bc90-4c47-8413-ab6959829df7#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/ausland/antisemitische-vorfaelle-schweiz-will-mit-neuem-gesetz-gegen-ns-symbole-vorgehen](https://www.spiegel.de/ausland/antisemitische-vorfaelle-schweiz-will-mit-neuem-gesetz-gegen-ns-symbole-vorgehen-a-15e346e6-53ed-4f55-ae56-d08b423947b0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/porsche-se-muss-voraussichtlich-milliarden-euro-abschreiben](https://www.spiegel.de/wirtschaft/unternehmen/porsche-se-muss-voraussichtlich-milliarden-euro-abschreiben-a-52f0962b-0ae1-4079-bb03-513643afc994#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/donald-trump-will-die-sommerzeit-in-den-usa-abschaffen](https://www.spiegel.de/panorama/gesellschaft/donald-trump-will-die-sommerzeit-in-den-usa-abschaffen-a-455c59b7-b7b2-499d-b5f5-40b1ec8a2050#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-hts-miliz-will-sturz-von-assad-ein-jahr-lang-geplant-haben](https://www.spiegel.de/ausland/syrien-hts-miliz-will-sturz-von-assad-ein-jahr-lang-geplant-haben-a-60448f51-f641-45e7-a4b1-ad0eacfd152b#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/ausland/suedkorea-parlament-stimmt-fuer-absetzung-von-praesident-yoon-suk-yeol](https://www.spiegel.de/ausland/suedkorea-parlament-stimmt-fuer-absetzung-von-praesident-yoon-suk-yeol-a-4bcbca8a-2cda-4dde-b593-4ee2ce48f2ba#ref=rss)
-* [https://www.spiegel.de/ausland/protest-gegen-suedkoreas-praesident-yoon-mit-k-pop-gegen-die-maechtigen](https://www.spiegel.de/ausland/protest-gegen-suedkoreas-praesident-yoon-mit-k-pop-gegen-die-maechtigen-a-5c0a559b-0530-4e57-ae5f-baa71ef8954d#ref=rss)
-* [https://www.spiegel.de/panorama/donald-trump-kriege-in-nahost-und-ukraine-ampel-aus-gisele-pelicot-2024-in-bildern](https://www.spiegel.de/panorama/donald-trump-kriege-in-nahost-und-ukraine-ampel-aus-gisele-pelicot-2024-in-bildern-a-30599d01-bc90-4c47-8413-ab6959829df7#ref=rss)
-### trump
-
-* [https://www.spiegel.de/panorama/gesellschaft/donald-trump-will-die-sommerzeit-in-den-usa-abschaffen](https://www.spiegel.de/panorama/gesellschaft/donald-trump-will-die-sommerzeit-in-den-usa-abschaffen-a-455c59b7-b7b2-499d-b5f5-40b1ec8a2050#ref=rss)
-* [https://www.spiegel.de/panorama/donald-trump-kriege-in-nahost-und-ukraine-ampel-aus-gisele-pelicot-2024-in-bildern](https://www.spiegel.de/panorama/donald-trump-kriege-in-nahost-und-ukraine-ampel-aus-gisele-pelicot-2024-in-bildern-a-30599d01-bc90-4c47-8413-ab6959829df7#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/panorama/donald-trump-kriege-in-nahost-und-ukraine-ampel-aus-gisele-pelicot-2024-in-bildern](https://www.spiegel.de/panorama/donald-trump-kriege-in-nahost-und-ukraine-ampel-aus-gisele-pelicot-2024-in-bildern-a-30599d01-bc90-4c47-8413-ab6959829df7#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-nach-niederlagen-wird-offenbar-kommandeur-olexander-luzenko-an-front-ausgetauscht](https://www.spiegel.de/ausland/ukraine-nach-niederlagen-wird-offenbar-kommandeur-olexander-luzenko-an-front-ausgetauscht-a-24d066cf-b445-432f-80bd-e706d95ba2a3#ref=rss)
-### laut
-
-* [https://www.spiegel.de/ausland/menschenrechte-in-iran-aktivist-reza-khandan-festgenommen](https://www.spiegel.de/ausland/menschenrechte-in-iran-aktivist-reza-khandan-festgenommen-a-810e9bc1-fc5f-439b-8245-3b141c2cfb39#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-nach-niederlagen-wird-offenbar-kommandeur-olexander-luzenko-an-front-ausgetauscht](https://www.spiegel.de/ausland/ukraine-nach-niederlagen-wird-offenbar-kommandeur-olexander-luzenko-an-front-ausgetauscht-a-24d066cf-b445-432f-80bd-e706d95ba2a3#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-hts-miliz-will-sturz-von-assad-ein-jahr-lang-geplant-haben](https://www.spiegel.de/ausland/syrien-hts-miliz-will-sturz-von-assad-ein-jahr-lang-geplant-haben-a-60448f51-f641-45e7-a4b1-ad0eacfd152b#ref=rss)
-### parlament
-
-* [https://www.spiegel.de/ausland/suedkorea-parlament-stimmt-fuer-absetzung-von-praesident-yoon-suk-yeol](https://www.spiegel.de/ausland/suedkorea-parlament-stimmt-fuer-absetzung-von-praesident-yoon-suk-yeol-a-4bcbca8a-2cda-4dde-b593-4ee2ce48f2ba#ref=rss)
-* [https://www.spiegel.de/ausland/protest-gegen-suedkoreas-praesident-yoon-mit-k-pop-gegen-die-maechtigen](https://www.spiegel.de/ausland/protest-gegen-suedkoreas-praesident-yoon-mit-k-pop-gegen-die-maechtigen-a-5c0a559b-0530-4e57-ae5f-baa71ef8954d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/zank-um-ukrainepolitik-scholz-und-merz-werfen-einander-angstmacherei-vor](https://www.spiegel.de/politik/deutschland/zank-um-ukrainepolitik-scholz-und-merz-werfen-einander-angstmacherei-vor-a-87132901-c938-4e1f-8e2c-58199edfd624#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-merz-sieht-bekaempfung-irregulaerer-migration-als-wichtigste-aufgabe](https://www.spiegel.de/politik/deutschland/friedrich-merz-merz-sieht-bekaempfung-irregulaerer-migration-als-wichtigste-aufgabe-a-b06c5bda-e0e3-4697-bba4-86b9b151f7c0#ref=rss)
 ### yoon
 
-* [https://www.spiegel.de/ausland/suedkorea-parlament-stimmt-fuer-absetzung-von-praesident-yoon-suk-yeol](https://www.spiegel.de/ausland/suedkorea-parlament-stimmt-fuer-absetzung-von-praesident-yoon-suk-yeol-a-4bcbca8a-2cda-4dde-b593-4ee2ce48f2ba#ref=rss)
-* [https://www.spiegel.de/ausland/protest-gegen-suedkoreas-praesident-yoon-mit-k-pop-gegen-die-maechtigen](https://www.spiegel.de/ausland/protest-gegen-suedkoreas-praesident-yoon-mit-k-pop-gegen-die-maechtigen-a-5c0a559b-0530-4e57-ae5f-baa71ef8954d#ref=rss)
-### südkoreas
+* [https://www.spiegel.de/ausland/suedkoreas-praesident-yoon-suk-yeol-ende-mit-schrecken](https://www.spiegel.de/ausland/suedkoreas-praesident-yoon-suk-yeol-ende-mit-schrecken-a-b1aae64e-4b48-4177-a0f2-3518eb1b15b1#ref=rss)
+* [https://www.spiegel.de/ausland/absetzung-von-yoon-suk-yeol-die-menschen-feiern](https://www.spiegel.de/ausland/absetzung-von-yoon-suk-yeol-die-menschen-feiern-a-a604899d-4ea5-4fc8-bec0-b844db2bd1e8#ref=rss)
+### fc
 
-* [https://www.spiegel.de/ausland/suedkorea-parlament-stimmt-fuer-absetzung-von-praesident-yoon-suk-yeol](https://www.spiegel.de/ausland/suedkorea-parlament-stimmt-fuer-absetzung-von-praesident-yoon-suk-yeol-a-4bcbca8a-2cda-4dde-b593-4ee2ce48f2ba#ref=rss)
-* [https://www.spiegel.de/ausland/protest-gegen-suedkoreas-praesident-yoon-mit-k-pop-gegen-die-maechtigen](https://www.spiegel.de/ausland/protest-gegen-suedkoreas-praesident-yoon-mit-k-pop-gegen-die-maechtigen-a-5c0a559b-0530-4e57-ae5f-baa71ef8954d#ref=rss)
-### union
+* [https://www.spiegel.de/sport/fussball/bundesliga-armindo-sieb-tut-dem-fc-bayern-muenchen-weh-bayer-leverkusen-beisst-sich-oben-fest](https://www.spiegel.de/sport/fussball/bundesliga-armindo-sieb-tut-dem-fc-bayern-muenchen-weh-bayer-leverkusen-beisst-sich-oben-fest-a-a0a8aad0-f354-483d-a601-3cb8342ee153#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fsv-mainz-05-schlaegt-ueberraschend-den-fc-bayern-muenchen](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fsv-mainz-05-schlaegt-ueberraschend-den-fc-bayern-muenchen-a-f3459708-c9a3-4c95-a123-ae4272fe2ee7#ref=rss)
+### münchen
 
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-mahnt-zu-besonnenheit-in-debatte-ueber-syrische-gefluechtete](https://www.spiegel.de/politik/deutschland/olaf-scholz-mahnt-zu-besonnenheit-in-debatte-ueber-syrische-gefluechtete-a-0fb1840d-6c25-4ba7-be12-aa324aaf55a4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-ampelregierung-union-kindergeld-frankreich](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-ampelregierung-union-kindergeld-frankreich-a-b9c5e3ca-842d-4f3d-b114-2b987ea81fe0#ref=rss)
-### arzt
+* [https://www.spiegel.de/sport/fussball/bundesliga-armindo-sieb-tut-dem-fc-bayern-muenchen-weh-bayer-leverkusen-beisst-sich-oben-fest](https://www.spiegel.de/sport/fussball/bundesliga-armindo-sieb-tut-dem-fc-bayern-muenchen-weh-bayer-leverkusen-beisst-sich-oben-fest-a-a0a8aad0-f354-483d-a601-3cb8342ee153#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fsv-mainz-05-schlaegt-ueberraschend-den-fc-bayern-muenchen](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fsv-mainz-05-schlaegt-ueberraschend-den-fc-bayern-muenchen-a-f3459708-c9a3-4c95-a123-ae4272fe2ee7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-alexander-dobrindt-zum-spitzenkandidaten-der-csu-gewaehlt](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-alexander-dobrindt-zum-spitzenkandidaten-der-csu-gewaehlt-a-71643372-5ffe-48a2-8b4b-bcaa2b043abf#ref=rss)
+### mainz
 
-* [https://www.spiegel.de/panorama/syrischer-arzt-ich-muss-auch-der-deutschen-gesellschaft-helfen](https://www.spiegel.de/panorama/syrischer-arzt-ich-muss-auch-der-deutschen-gesellschaft-helfen-a-4a994d72-48af-4cfc-a88c-255a579a4f59#ref=rss)
-### deutschen
+* [https://www.spiegel.de/sport/fussball/bundesliga-armindo-sieb-tut-dem-fc-bayern-muenchen-weh-bayer-leverkusen-beisst-sich-oben-fest](https://www.spiegel.de/sport/fussball/bundesliga-armindo-sieb-tut-dem-fc-bayern-muenchen-weh-bayer-leverkusen-beisst-sich-oben-fest-a-a0a8aad0-f354-483d-a601-3cb8342ee153#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fsv-mainz-05-schlaegt-ueberraschend-den-fc-bayern-muenchen](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fsv-mainz-05-schlaegt-ueberraschend-den-fc-bayern-muenchen-a-f3459708-c9a3-4c95-a123-ae4272fe2ee7#ref=rss)
+### feuerzeug
 
-* [https://www.spiegel.de/panorama/syrischer-arzt-ich-muss-auch-der-deutschen-gesellschaft-helfen](https://www.spiegel.de/panorama/syrischer-arzt-ich-muss-auch-der-deutschen-gesellschaft-helfen-a-4a994d72-48af-4cfc-a88c-255a579a4f59#ref=rss)
-* [https://www.spiegel.de/ausland/wo-viele-schwarze-us-amerikaner-eine-neue-heimat-finden-alles-gute-vom-spiegel](https://www.spiegel.de/ausland/wo-viele-schwarze-us-amerikaner-eine-neue-heimat-finden-alles-gute-vom-spiegel-a-031ba209-3001-4f48-b32e-a30e952e30ed#ref=rss)
-### stand
-
-* [https://www.spiegel.de/panorama/syrischer-arzt-ich-muss-auch-der-deutschen-gesellschaft-helfen](https://www.spiegel.de/panorama/syrischer-arzt-ich-muss-auch-der-deutschen-gesellschaft-helfen-a-4a994d72-48af-4cfc-a88c-255a579a4f59#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-nach-niederlagen-wird-offenbar-kommandeur-olexander-luzenko-an-front-ausgetauscht](https://www.spiegel.de/ausland/ukraine-nach-niederlagen-wird-offenbar-kommandeur-olexander-luzenko-an-front-ausgetauscht-a-24d066cf-b445-432f-80bd-e706d95ba2a3#ref=rss)
-### deshalb
-
-* [https://www.spiegel.de/panorama/syrischer-arzt-ich-muss-auch-der-deutschen-gesellschaft-helfen](https://www.spiegel.de/panorama/syrischer-arzt-ich-muss-auch-der-deutschen-gesellschaft-helfen-a-4a994d72-48af-4cfc-a88c-255a579a4f59#ref=rss)
-* [https://www.spiegel.de/panorama/norwegen-erneute-ermittlungen-gegen-mette-marits-sohn](https://www.spiegel.de/panorama/norwegen-erneute-ermittlungen-gegen-mette-marits-sohn-a-153aa0cd-251b-4375-8dc7-aabcd7816b5b#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/tiktok-verbot-in-den-usa-gericht-lehnt-antrag-fuer-aufschub-ab](https://www.spiegel.de/wirtschaft/unternehmen/tiktok-verbot-in-den-usa-gericht-lehnt-antrag-fuer-aufschub-ab-a-a6f72afe-9cbd-4e80-bada-b385dced60a6#ref=rss)
-### antrag
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/tiktok-verbot-in-den-usa-gericht-lehnt-antrag-fuer-aufschub-ab](https://www.spiegel.de/wirtschaft/unternehmen/tiktok-verbot-in-den-usa-gericht-lehnt-antrag-fuer-aufschub-ab-a-a6f72afe-9cbd-4e80-bada-b385dced60a6#ref=rss)
-### verhindern
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/tiktok-verbot-in-den-usa-gericht-lehnt-antrag-fuer-aufschub-ab](https://www.spiegel.de/wirtschaft/unternehmen/tiktok-verbot-in-den-usa-gericht-lehnt-antrag-fuer-aufschub-ab-a-a6f72afe-9cbd-4e80-bada-b385dced60a6#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bundesliga-vfl-wolfsburg-verliert-beim-sc-freiburg](https://www.spiegel.de/sport/fussball/bundesliga-vfl-wolfsburg-verliert-beim-sc-freiburg-a-bcf3ef98-c01d-4569-8b9b-b76eb55423ce#ref=rss)
-### iran
-
-* [https://www.spiegel.de/ausland/menschenrechte-in-iran-aktivist-reza-khandan-festgenommen](https://www.spiegel.de/ausland/menschenrechte-in-iran-aktivist-reza-khandan-festgenommen-a-810e9bc1-fc5f-439b-8245-3b141c2cfb39#ref=rss)
-### bekannten
-
-* [https://www.spiegel.de/ausland/menschenrechte-in-iran-aktivist-reza-khandan-festgenommen](https://www.spiegel.de/ausland/menschenrechte-in-iran-aktivist-reza-khandan-festgenommen-a-810e9bc1-fc5f-439b-8245-3b141c2cfb39#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-nach-niederlagen-wird-offenbar-kommandeur-olexander-luzenko-an-front-ausgetauscht](https://www.spiegel.de/ausland/ukraine-nach-niederlagen-wird-offenbar-kommandeur-olexander-luzenko-an-front-ausgetauscht-a-24d066cf-b445-432f-80bd-e706d95ba2a3#ref=rss)
-### regimes
-
-* [https://www.spiegel.de/ausland/menschenrechte-in-iran-aktivist-reza-khandan-festgenommen](https://www.spiegel.de/ausland/menschenrechte-in-iran-aktivist-reza-khandan-festgenommen-a-810e9bc1-fc5f-439b-8245-3b141c2cfb39#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-hts-miliz-will-sturz-von-assad-ein-jahr-lang-geplant-haben](https://www.spiegel.de/ausland/syrien-hts-miliz-will-sturz-von-assad-ein-jahr-lang-geplant-haben-a-60448f51-f641-45e7-a4b1-ad0eacfd152b#ref=rss)
-### heinz
-
-* [https://www.spiegel.de/kultur/literatur/heinz-strunk-fragt-sich-ob-die-tagesschau-seinen-tod-melden-wird](https://www.spiegel.de/kultur/literatur/heinz-strunk-fragt-sich-ob-die-tagesschau-seinen-tod-melden-wird-a-85e0fb3d-1782-4041-8809-ea130c83247d#ref=rss)
-### strunk
-
-* [https://www.spiegel.de/kultur/literatur/heinz-strunk-fragt-sich-ob-die-tagesschau-seinen-tod-melden-wird](https://www.spiegel.de/kultur/literatur/heinz-strunk-fragt-sich-ob-die-tagesschau-seinen-tod-melden-wird-a-85e0fb3d-1782-4041-8809-ea130c83247d#ref=rss)
-### tod
-
-* [https://www.spiegel.de/kultur/literatur/heinz-strunk-fragt-sich-ob-die-tagesschau-seinen-tod-melden-wird](https://www.spiegel.de/kultur/literatur/heinz-strunk-fragt-sich-ob-die-tagesschau-seinen-tod-melden-wird-a-85e0fb3d-1782-4041-8809-ea130c83247d#ref=rss)
-### neue
-
-* [https://www.spiegel.de/kultur/literatur/heinz-strunk-fragt-sich-ob-die-tagesschau-seinen-tod-melden-wird](https://www.spiegel.de/kultur/literatur/heinz-strunk-fragt-sich-ob-die-tagesschau-seinen-tod-melden-wird-a-85e0fb3d-1782-4041-8809-ea130c83247d#ref=rss)
-* [https://www.spiegel.de/ausland/wo-viele-schwarze-us-amerikaner-eine-neue-heimat-finden-alles-gute-vom-spiegel](https://www.spiegel.de/ausland/wo-viele-schwarze-us-amerikaner-eine-neue-heimat-finden-alles-gute-vom-spiegel-a-031ba209-3001-4f48-b32e-a30e952e30ed#ref=rss)
-### ende
-
-* [https://www.spiegel.de/kultur/literatur/heinz-strunk-fragt-sich-ob-die-tagesschau-seinen-tod-melden-wird](https://www.spiegel.de/kultur/literatur/heinz-strunk-fragt-sich-ob-die-tagesschau-seinen-tod-melden-wird-a-85e0fb3d-1782-4041-8809-ea130c83247d#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bundesliga-vfl-wolfsburg-verliert-beim-sc-freiburg](https://www.spiegel.de/sport/fussball/bundesliga-vfl-wolfsburg-verliert-beim-sc-freiburg-a-bcf3ef98-c01d-4569-8b9b-b76eb55423ce#ref=rss)
-### macht
-
-* [https://www.spiegel.de/kultur/literatur/heinz-strunk-fragt-sich-ob-die-tagesschau-seinen-tod-melden-wird](https://www.spiegel.de/kultur/literatur/heinz-strunk-fragt-sich-ob-die-tagesschau-seinen-tod-melden-wird-a-85e0fb3d-1782-4041-8809-ea130c83247d#ref=rss)
-* [https://www.spiegel.de/sport/basketball/moritz-und-franz-wagner-jugendtrainer-norbert-opitz-erklaert-ihren-erfolg-und-ihre-bescheidenheit](https://www.spiegel.de/sport/basketball/moritz-und-franz-wagner-jugendtrainer-norbert-opitz-erklaert-ihren-erfolg-und-ihre-bescheidenheit-a-b6518018-2010-4c24-968f-a71ccc668e70#ref=rss)
-### rückkehr
-
-* [https://www.spiegel.de/panorama/gesellschaft/syrien-wie-spiegel-journalistin-asia-haidar-ihre-rueckkehr-in-die-heimat-erlebte](https://www.spiegel.de/panorama/gesellschaft/syrien-wie-spiegel-journalistin-asia-haidar-ihre-rueckkehr-in-die-heimat-erlebte-a-d02b1d73-c597-4c58-82c4-080840eb7fda#ref=rss)
-### kam
-
-* [https://www.spiegel.de/panorama/gesellschaft/syrien-wie-spiegel-journalistin-asia-haidar-ihre-rueckkehr-in-die-heimat-erlebte](https://www.spiegel.de/panorama/gesellschaft/syrien-wie-spiegel-journalistin-asia-haidar-ihre-rueckkehr-in-die-heimat-erlebte-a-d02b1d73-c597-4c58-82c4-080840eb7fda#ref=rss)
-* [https://www.spiegel.de/ausland/antisemitische-vorfaelle-schweiz-will-mit-neuem-gesetz-gegen-ns-symbole-vorgehen](https://www.spiegel.de/ausland/antisemitische-vorfaelle-schweiz-will-mit-neuem-gesetz-gegen-ns-symbole-vorgehen-a-15e346e6-53ed-4f55-ae56-d08b423947b0#ref=rss)
-### berichtet
-
-* [https://www.spiegel.de/panorama/gesellschaft/syrien-wie-spiegel-journalistin-asia-haidar-ihre-rueckkehr-in-die-heimat-erlebte](https://www.spiegel.de/panorama/gesellschaft/syrien-wie-spiegel-journalistin-asia-haidar-ihre-rueckkehr-in-die-heimat-erlebte-a-d02b1d73-c597-4c58-82c4-080840eb7fda#ref=rss)
-* [https://www.spiegel.de/ausland/evan-gershkovich-freigelassener-us-journalist-sieht-sich-als-koeder-der-russischen-spionageabwehr](https://www.spiegel.de/ausland/evan-gershkovich-freigelassener-us-journalist-sieht-sich-als-koeder-der-russischen-spionageabwehr-a-9fcb7974-9997-4864-b53b-dbe2b953016f#ref=rss)
-### flüchtlinge
-
-* [https://www.spiegel.de/panorama/schweriner-fluechtlinge-sollen-zur-arbeit-verpflichtet-werden-gegen-den-willen-des-oberbuergermeisters](https://www.spiegel.de/panorama/schweriner-fluechtlinge-sollen-zur-arbeit-verpflichtet-werden-gegen-den-willen-des-oberbuergermeisters-a-8e622e04-77da-4bfa-9042-13081a32f052#ref=rss)
-### arbeit
-
-* [https://www.spiegel.de/panorama/schweriner-fluechtlinge-sollen-zur-arbeit-verpflichtet-werden-gegen-den-willen-des-oberbuergermeisters](https://www.spiegel.de/panorama/schweriner-fluechtlinge-sollen-zur-arbeit-verpflichtet-werden-gegen-den-willen-des-oberbuergermeisters-a-8e622e04-77da-4bfa-9042-13081a32f052#ref=rss)
-### sabotage
-
-* [https://www.spiegel.de/wissenschaft/mensch/sabotage-in-der-ostsee-raetsel-um-amulett-die-besten-sachbuecher-2024-elementarteilchen-newsletter](https://www.spiegel.de/wissenschaft/mensch/sabotage-in-der-ostsee-raetsel-um-amulett-die-besten-sachbuecher-2024-elementarteilchen-newsletter-a-9da893b1-7e01-4f3b-bfe8-df0fdef080ba#ref=rss)
-### ostsee
-
-* [https://www.spiegel.de/wissenschaft/mensch/sabotage-in-der-ostsee-raetsel-um-amulett-die-besten-sachbuecher-2024-elementarteilchen-newsletter](https://www.spiegel.de/wissenschaft/mensch/sabotage-in-der-ostsee-raetsel-um-amulett-die-besten-sachbuecher-2024-elementarteilchen-newsletter-a-9da893b1-7e01-4f3b-bfe8-df0fdef080ba#ref=rss)
-### amulett
-
-* [https://www.spiegel.de/wissenschaft/mensch/sabotage-in-der-ostsee-raetsel-um-amulett-die-besten-sachbuecher-2024-elementarteilchen-newsletter](https://www.spiegel.de/wissenschaft/mensch/sabotage-in-der-ostsee-raetsel-um-amulett-die-besten-sachbuecher-2024-elementarteilchen-newsletter-a-9da893b1-7e01-4f3b-bfe8-df0fdef080ba#ref=rss)
-### besten
-
-* [https://www.spiegel.de/wissenschaft/mensch/sabotage-in-der-ostsee-raetsel-um-amulett-die-besten-sachbuecher-2024-elementarteilchen-newsletter](https://www.spiegel.de/wissenschaft/mensch/sabotage-in-der-ostsee-raetsel-um-amulett-die-besten-sachbuecher-2024-elementarteilchen-newsletter-a-9da893b1-7e01-4f3b-bfe8-df0fdef080ba#ref=rss)
-### sachbücher
-
-* [https://www.spiegel.de/wissenschaft/mensch/sabotage-in-der-ostsee-raetsel-um-amulett-die-besten-sachbuecher-2024-elementarteilchen-newsletter](https://www.spiegel.de/wissenschaft/mensch/sabotage-in-der-ostsee-raetsel-um-amulett-die-besten-sachbuecher-2024-elementarteilchen-newsletter-a-9da893b1-7e01-4f3b-bfe8-df0fdef080ba#ref=rss)
-### spiegel
-
-* [https://www.spiegel.de/wissenschaft/mensch/sabotage-in-der-ostsee-raetsel-um-amulett-die-besten-sachbuecher-2024-elementarteilchen-newsletter](https://www.spiegel.de/wissenschaft/mensch/sabotage-in-der-ostsee-raetsel-um-amulett-die-besten-sachbuecher-2024-elementarteilchen-newsletter-a-9da893b1-7e01-4f3b-bfe8-df0fdef080ba#ref=rss)
-* [https://www.spiegel.de/ausland/wo-viele-schwarze-us-amerikaner-eine-neue-heimat-finden-alles-gute-vom-spiegel](https://www.spiegel.de/ausland/wo-viele-schwarze-us-amerikaner-eine-neue-heimat-finden-alles-gute-vom-spiegel-a-031ba209-3001-4f48-b32e-a30e952e30ed#ref=rss)
-### schweiz
-
-* [https://www.spiegel.de/ausland/antisemitische-vorfaelle-schweiz-will-mit-neuem-gesetz-gegen-ns-symbole-vorgehen](https://www.spiegel.de/ausland/antisemitische-vorfaelle-schweiz-will-mit-neuem-gesetz-gegen-ns-symbole-vorgehen-a-15e346e6-53ed-4f55-ae56-d08b423947b0#ref=rss)
-### gesetz
-
-* [https://www.spiegel.de/ausland/antisemitische-vorfaelle-schweiz-will-mit-neuem-gesetz-gegen-ns-symbole-vorgehen](https://www.spiegel.de/ausland/antisemitische-vorfaelle-schweiz-will-mit-neuem-gesetz-gegen-ns-symbole-vorgehen-a-15e346e6-53ed-4f55-ae56-d08b423947b0#ref=rss)
-### nancy
-
-* [https://www.spiegel.de/politik/nancy-pelosi-wird-in-us-militaerklinik-in-landstuhl-behandelt](https://www.spiegel.de/politik/nancy-pelosi-wird-in-us-militaerklinik-in-landstuhl-behandelt-a-65ce91d1-deff-4555-99ac-b11169b74b41#ref=rss)
-### pelosi
-
-* [https://www.spiegel.de/politik/nancy-pelosi-wird-in-us-militaerklinik-in-landstuhl-behandelt](https://www.spiegel.de/politik/nancy-pelosi-wird-in-us-militaerklinik-in-landstuhl-behandelt-a-65ce91d1-deff-4555-99ac-b11169b74b41#ref=rss)
-### landstuhl
-
-* [https://www.spiegel.de/politik/nancy-pelosi-wird-in-us-militaerklinik-in-landstuhl-behandelt](https://www.spiegel.de/politik/nancy-pelosi-wird-in-us-militaerklinik-in-landstuhl-behandelt-a-65ce91d1-deff-4555-99ac-b11169b74b41#ref=rss)
-### porsche
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/porsche-se-muss-voraussichtlich-milliarden-euro-abschreiben](https://www.spiegel.de/wirtschaft/unternehmen/porsche-se-muss-voraussichtlich-milliarden-euro-abschreiben-a-52f0962b-0ae1-4079-bb03-513643afc994#ref=rss)
-### se
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/porsche-se-muss-voraussichtlich-milliarden-euro-abschreiben](https://www.spiegel.de/wirtschaft/unternehmen/porsche-se-muss-voraussichtlich-milliarden-euro-abschreiben-a-52f0962b-0ae1-4079-bb03-513643afc994#ref=rss)
-### euro
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/porsche-se-muss-voraussichtlich-milliarden-euro-abschreiben](https://www.spiegel.de/wirtschaft/unternehmen/porsche-se-muss-voraussichtlich-milliarden-euro-abschreiben-a-52f0962b-0ae1-4079-bb03-513643afc994#ref=rss)
-* [https://www.spiegel.de/fitness/konsumgestaendnis-und-ploetzlich-wollte-ich-auch-eine-fahrradmaus-sein](https://www.spiegel.de/fitness/konsumgestaendnis-und-ploetzlich-wollte-ich-auch-eine-fahrradmaus-sein-a-892c6fbc-6360-47db-ab81-5c5400d753b6#ref=rss)
-### tief
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/porsche-se-muss-voraussichtlich-milliarden-euro-abschreiben](https://www.spiegel.de/wirtschaft/unternehmen/porsche-se-muss-voraussichtlich-milliarden-euro-abschreiben-a-52f0962b-0ae1-4079-bb03-513643afc994#ref=rss)
-### hugh
-
-* [https://www.spiegel.de/kultur/hugh-grant-die-last-des-ruhms-ein-gespraech-mit-dem-heretic-star](https://www.spiegel.de/kultur/hugh-grant-die-last-des-ruhms-ein-gespraech-mit-dem-heretic-star-a-e7eaef7b-d5c0-4e3d-bc0d-45b971ac2776#ref=rss)
-### grant
-
-* [https://www.spiegel.de/kultur/hugh-grant-die-last-des-ruhms-ein-gespraech-mit-dem-heretic-star](https://www.spiegel.de/kultur/hugh-grant-die-last-des-ruhms-ein-gespraech-mit-dem-heretic-star-a-e7eaef7b-d5c0-4e3d-bc0d-45b971ac2776#ref=rss)
-### gespräch
-
-* [https://www.spiegel.de/kultur/hugh-grant-die-last-des-ruhms-ein-gespraech-mit-dem-heretic-star](https://www.spiegel.de/kultur/hugh-grant-die-last-des-ruhms-ein-gespraech-mit-dem-heretic-star-a-e7eaef7b-d5c0-4e3d-bc0d-45b971ac2776#ref=rss)
-### finden
-
-* [https://www.spiegel.de/kultur/hugh-grant-die-last-des-ruhms-ein-gespraech-mit-dem-heretic-star](https://www.spiegel.de/kultur/hugh-grant-die-last-des-ruhms-ein-gespraech-mit-dem-heretic-star-a-e7eaef7b-d5c0-4e3d-bc0d-45b971ac2776#ref=rss)
-* [https://www.spiegel.de/ausland/wo-viele-schwarze-us-amerikaner-eine-neue-heimat-finden-alles-gute-vom-spiegel](https://www.spiegel.de/ausland/wo-viele-schwarze-us-amerikaner-eine-neue-heimat-finden-alles-gute-vom-spiegel-a-031ba209-3001-4f48-b32e-a30e952e30ed#ref=rss)
-### ermittlungen
-
-* [https://www.spiegel.de/panorama/norwegen-erneute-ermittlungen-gegen-mette-marits-sohn](https://www.spiegel.de/panorama/norwegen-erneute-ermittlungen-gegen-mette-marits-sohn-a-153aa0cd-251b-4375-8dc7-aabcd7816b5b#ref=rss)
-### sohn
-
-* [https://www.spiegel.de/panorama/norwegen-erneute-ermittlungen-gegen-mette-marits-sohn](https://www.spiegel.de/panorama/norwegen-erneute-ermittlungen-gegen-mette-marits-sohn-a-153aa0cd-251b-4375-8dc7-aabcd7816b5b#ref=rss)
-### absetzung
-
-* [https://www.spiegel.de/ausland/suedkorea-parlament-stimmt-fuer-absetzung-von-praesident-yoon-suk-yeol](https://www.spiegel.de/ausland/suedkorea-parlament-stimmt-fuer-absetzung-von-praesident-yoon-suk-yeol-a-4bcbca8a-2cda-4dde-b593-4ee2ce48f2ba#ref=rss)
-* [https://www.spiegel.de/ausland/protest-gegen-suedkoreas-praesident-yoon-mit-k-pop-gegen-die-maechtigen](https://www.spiegel.de/ausland/protest-gegen-suedkoreas-praesident-yoon-mit-k-pop-gegen-die-maechtigen-a-5c0a559b-0530-4e57-ae5f-baa71ef8954d#ref=rss)
-### seoul
-
-* [https://www.spiegel.de/ausland/suedkorea-parlament-stimmt-fuer-absetzung-von-praesident-yoon-suk-yeol](https://www.spiegel.de/ausland/suedkorea-parlament-stimmt-fuer-absetzung-von-praesident-yoon-suk-yeol-a-4bcbca8a-2cda-4dde-b593-4ee2ce48f2ba#ref=rss)
-* [https://www.spiegel.de/ausland/protest-gegen-suedkoreas-praesident-yoon-mit-k-pop-gegen-die-maechtigen](https://www.spiegel.de/ausland/protest-gegen-suedkoreas-praesident-yoon-mit-k-pop-gegen-die-maechtigen-a-5c0a559b-0530-4e57-ae5f-baa71ef8954d#ref=rss)
-### samstag
-
-* [https://www.spiegel.de/ausland/suedkorea-parlament-stimmt-fuer-absetzung-von-praesident-yoon-suk-yeol](https://www.spiegel.de/ausland/suedkorea-parlament-stimmt-fuer-absetzung-von-praesident-yoon-suk-yeol-a-4bcbca8a-2cda-4dde-b593-4ee2ce48f2ba#ref=rss)
-* [https://www.spiegel.de/ausland/protest-gegen-suedkoreas-praesident-yoon-mit-k-pop-gegen-die-maechtigen](https://www.spiegel.de/ausland/protest-gegen-suedkoreas-praesident-yoon-mit-k-pop-gegen-die-maechtigen-a-5c0a559b-0530-4e57-ae5f-baa71ef8954d#ref=rss)
-### land
-
-* [https://www.spiegel.de/ausland/suedkorea-parlament-stimmt-fuer-absetzung-von-praesident-yoon-suk-yeol](https://www.spiegel.de/ausland/suedkorea-parlament-stimmt-fuer-absetzung-von-praesident-yoon-suk-yeol-a-4bcbca8a-2cda-4dde-b593-4ee2ce48f2ba#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/donald-trump-will-die-sommerzeit-in-den-usa-abschaffen](https://www.spiegel.de/panorama/gesellschaft/donald-trump-will-die-sommerzeit-in-den-usa-abschaffen-a-455c59b7-b7b2-499d-b5f5-40b1ec8a2050#ref=rss)
-### donald
-
-* [https://www.spiegel.de/panorama/gesellschaft/donald-trump-will-die-sommerzeit-in-den-usa-abschaffen](https://www.spiegel.de/panorama/gesellschaft/donald-trump-will-die-sommerzeit-in-den-usa-abschaffen-a-455c59b7-b7b2-499d-b5f5-40b1ec8a2050#ref=rss)
-* [https://www.spiegel.de/panorama/donald-trump-kriege-in-nahost-und-ukraine-ampel-aus-gisele-pelicot-2024-in-bildern](https://www.spiegel.de/panorama/donald-trump-kriege-in-nahost-und-ukraine-ampel-aus-gisele-pelicot-2024-in-bildern-a-30599d01-bc90-4c47-8413-ab6959829df7#ref=rss)
-### sommerzeit
-
-* [https://www.spiegel.de/panorama/gesellschaft/donald-trump-will-die-sommerzeit-in-den-usa-abschaffen](https://www.spiegel.de/panorama/gesellschaft/donald-trump-will-die-sommerzeit-in-den-usa-abschaffen-a-455c59b7-b7b2-499d-b5f5-40b1ec8a2050#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/panorama/gesellschaft/donald-trump-will-die-sommerzeit-in-den-usa-abschaffen](https://www.spiegel.de/panorama/gesellschaft/donald-trump-will-die-sommerzeit-in-den-usa-abschaffen-a-455c59b7-b7b2-499d-b5f5-40b1ec8a2050#ref=rss)
-* [https://www.spiegel.de/sport/basketball/moritz-und-franz-wagner-jugendtrainer-norbert-opitz-erklaert-ihren-erfolg-und-ihre-bescheidenheit](https://www.spiegel.de/sport/basketball/moritz-und-franz-wagner-jugendtrainer-norbert-opitz-erklaert-ihren-erfolg-und-ihre-bescheidenheit-a-b6518018-2010-4c24-968f-a71ccc668e70#ref=rss)
-### würde
-
-* [https://www.spiegel.de/panorama/gesellschaft/donald-trump-will-die-sommerzeit-in-den-usa-abschaffen](https://www.spiegel.de/panorama/gesellschaft/donald-trump-will-die-sommerzeit-in-den-usa-abschaffen-a-455c59b7-b7b2-499d-b5f5-40b1ec8a2050#ref=rss)
-* [https://www.spiegel.de/fitness/konsumgestaendnis-und-ploetzlich-wollte-ich-auch-eine-fahrradmaus-sein](https://www.spiegel.de/fitness/konsumgestaendnis-und-ploetzlich-wollte-ich-auch-eine-fahrradmaus-sein-a-892c6fbc-6360-47db-ab81-5c5400d753b6#ref=rss)
+* [https://www.spiegel.de/sport/fussball/bundesliga-armindo-sieb-tut-dem-fc-bayern-muenchen-weh-bayer-leverkusen-beisst-sich-oben-fest](https://www.spiegel.de/sport/fussball/bundesliga-armindo-sieb-tut-dem-fc-bayern-muenchen-weh-bayer-leverkusen-beisst-sich-oben-fest-a-a0a8aad0-f354-483d-a601-3cb8342ee153#ref=rss)
+* [https://www.spiegel.de/sport/fussball/bundesliga-bochum-keeper-drewes-wird-von-feuerzeug-getroffen-spiel-lange-unterbrochen](https://www.spiegel.de/sport/fussball/bundesliga-bochum-keeper-drewes-wird-von-feuerzeug-getroffen-spiel-lange-unterbrochen-a-38764e1d-16c8-4079-a89f-d56359cac0bd#ref=rss)
 ### sehr
 
-* [https://www.spiegel.de/panorama/gesellschaft/donald-trump-will-die-sommerzeit-in-den-usa-abschaffen](https://www.spiegel.de/panorama/gesellschaft/donald-trump-will-die-sommerzeit-in-den-usa-abschaffen-a-455c59b7-b7b2-499d-b5f5-40b1ec8a2050#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-nach-niederlagen-wird-offenbar-kommandeur-olexander-luzenko-an-front-ausgetauscht](https://www.spiegel.de/ausland/ukraine-nach-niederlagen-wird-offenbar-kommandeur-olexander-luzenko-an-front-ausgetauscht-a-24d066cf-b445-432f-80bd-e706d95ba2a3#ref=rss)
-### usamerikaner
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fsv-mainz-05-schlaegt-ueberraschend-den-fc-bayern-muenchen](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fsv-mainz-05-schlaegt-ueberraschend-den-fc-bayern-muenchen-a-f3459708-c9a3-4c95-a123-ae4272fe2ee7#ref=rss)
+* [https://www.spiegel.de/ausland/javier-milei-argentinien-praesident-hat-nun-italienische-staatsbuergerschaft](https://www.spiegel.de/ausland/javier-milei-argentinien-praesident-hat-nun-italienische-staatsbuergerschaft-a-66ad02d8-51ad-4a28-bd3c-149559de7912#ref=rss)
+### hoffnung
 
-* [https://www.spiegel.de/ausland/wo-viele-schwarze-us-amerikaner-eine-neue-heimat-finden-alles-gute-vom-spiegel](https://www.spiegel.de/ausland/wo-viele-schwarze-us-amerikaner-eine-neue-heimat-finden-alles-gute-vom-spiegel-a-031ba209-3001-4f48-b32e-a30e952e30ed#ref=rss)
-### olaf
+* [https://www.spiegel.de/auto/klimaschutz-warum-ursula-von-der-leyen-die-letzte-hoffnung-fuer-die-wende-zu-mehr-e-autos-ist-newsletter](https://www.spiegel.de/auto/klimaschutz-warum-ursula-von-der-leyen-die-letzte-hoffnung-fuer-die-wende-zu-mehr-e-autos-ist-newsletter-a-3a2e3a68-130b-4f02-a5c4-4cb74b9947b8#ref=rss)
+* [https://www.spiegel.de/politik/alexej-nawalny-ein-vermaechtnis-der-hoffnung-und-resilienz-in-harten-zeiten-kolumne](https://www.spiegel.de/politik/alexej-nawalny-ein-vermaechtnis-der-hoffnung-und-resilienz-in-harten-zeiten-kolumne-a-6b1ed471-c9ed-4402-abc4-eb01fcb57c07#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-mahnt-zu-besonnenheit-in-debatte-ueber-syrische-gefluechtete](https://www.spiegel.de/politik/deutschland/olaf-scholz-mahnt-zu-besonnenheit-in-debatte-ueber-syrische-gefluechtete-a-0fb1840d-6c25-4ba7-be12-aa324aaf55a4#ref=rss)
+* [https://www.spiegel.de/auto/klimaschutz-warum-ursula-von-der-leyen-die-letzte-hoffnung-fuer-die-wende-zu-mehr-e-autos-ist-newsletter](https://www.spiegel.de/auto/klimaschutz-warum-ursula-von-der-leyen-die-letzte-hoffnung-fuer-die-wende-zu-mehr-e-autos-ist-newsletter-a-3a2e3a68-130b-4f02-a5c4-4cb74b9947b8#ref=rss)
+* [https://www.spiegel.de/ausland/fuenf-tote-nach-gekentertem-fluechtlingsboot-vor-der-kueste-kretas](https://www.spiegel.de/ausland/fuenf-tote-nach-gekentertem-fluechtlingsboot-vor-der-kueste-kretas-a-b277c72c-d6cb-4365-88b2-13d891d2eb60#ref=rss)
 ### scholz
 
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-mahnt-zu-besonnenheit-in-debatte-ueber-syrische-gefluechtete](https://www.spiegel.de/politik/deutschland/olaf-scholz-mahnt-zu-besonnenheit-in-debatte-ueber-syrische-gefluechtete-a-0fb1840d-6c25-4ba7-be12-aa324aaf55a4#ref=rss)
-### mahnt
+* [https://www.spiegel.de/auto/klimaschutz-warum-ursula-von-der-leyen-die-letzte-hoffnung-fuer-die-wende-zu-mehr-e-autos-ist-newsletter](https://www.spiegel.de/auto/klimaschutz-warum-ursula-von-der-leyen-die-letzte-hoffnung-fuer-die-wende-zu-mehr-e-autos-ist-newsletter-a-3a2e3a68-130b-4f02-a5c4-4cb74b9947b8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/zank-um-ukrainepolitik-scholz-und-merz-werfen-einander-angstmacherei-vor](https://www.spiegel.de/politik/deutschland/zank-um-ukrainepolitik-scholz-und-merz-werfen-einander-angstmacherei-vor-a-87132901-c938-4e1f-8e2c-58199edfd624#ref=rss)
+### erklärt
 
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-mahnt-zu-besonnenheit-in-debatte-ueber-syrische-gefluechtete](https://www.spiegel.de/politik/deutschland/olaf-scholz-mahnt-zu-besonnenheit-in-debatte-ueber-syrische-gefluechtete-a-0fb1840d-6c25-4ba7-be12-aa324aaf55a4#ref=rss)
-### besonnenheit
+* [https://www.spiegel.de/ausland/finnland-warum-forderungen-nach-einer-wiederaufruestung-mit-antipersonenminen-laut-werden](https://www.spiegel.de/ausland/finnland-warum-forderungen-nach-einer-wiederaufruestung-mit-antipersonenminen-laut-werden-a-6e73139b-c3c1-4545-b8d9-e7f50faccae9#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/weihnachtsbaum-wie-der-perfekte-baum-aussieht-und-was-er-braucht](https://www.spiegel.de/panorama/gesellschaft/weihnachtsbaum-wie-der-perfekte-baum-aussieht-und-was-er-braucht-a-0307d6fb-4e8b-42c8-b297-cedf34d0f3d1#ref=rss)
+* [https://www.spiegel.de/gesundheit/journaling-tagebuch-co-wie-uns-das-schreiben-hilft-gesund-zu-bleiben-podcast-mit-silke-heimes](https://www.spiegel.de/gesundheit/journaling-tagebuch-co-wie-uns-das-schreiben-hilft-gesund-zu-bleiben-podcast-mit-silke-heimes-a-21babec0-1b67-40dc-8d8e-a48bee82fa07#ref=rss)
+### avignon
 
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-mahnt-zu-besonnenheit-in-debatte-ueber-syrische-gefluechtete](https://www.spiegel.de/politik/deutschland/olaf-scholz-mahnt-zu-besonnenheit-in-debatte-ueber-syrische-gefluechtete-a-0fb1840d-6c25-4ba7-be12-aa324aaf55a4#ref=rss)
-### debatte
+* [https://www.spiegel.de/ausland/avignon-anwaelte-von-gisele-pelicot-ueber-die-bedeutung-des-ausnahmeprozesses](https://www.spiegel.de/ausland/avignon-anwaelte-von-gisele-pelicot-ueber-die-bedeutung-des-ausnahmeprozesses-a-1523c691-9f36-4401-942b-eb079dc75dc1#ref=rss)
+* [https://www.spiegel.de/ausland/avignon-der-fall-gisele-pelicot-geht-zu-ende-protokoll-eines-ausnahmeprozesses](https://www.spiegel.de/ausland/avignon-der-fall-gisele-pelicot-geht-zu-ende-protokoll-eines-ausnahmeprozesses-a-3ebfc9a7-abd2-43e6-864a-0eb37541a546#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-mahnt-zu-besonnenheit-in-debatte-ueber-syrische-gefluechtete](https://www.spiegel.de/politik/deutschland/olaf-scholz-mahnt-zu-besonnenheit-in-debatte-ueber-syrische-gefluechtete-a-0fb1840d-6c25-4ba7-be12-aa324aaf55a4#ref=rss)
-### syrische
+* [https://www.spiegel.de/ausland/avignon-anwaelte-von-gisele-pelicot-ueber-die-bedeutung-des-ausnahmeprozesses](https://www.spiegel.de/ausland/avignon-anwaelte-von-gisele-pelicot-ueber-die-bedeutung-des-ausnahmeprozesses-a-1523c691-9f36-4401-942b-eb079dc75dc1#ref=rss)
+* [https://www.spiegel.de/familie/berufspraktikum-fuer-schuelerinnen-und-schueler-arbeiten-da-nur-maenner](https://www.spiegel.de/familie/berufspraktikum-fuer-schuelerinnen-und-schueler-arbeiten-da-nur-maenner-a-6754eb2c-95d2-446d-84a9-27c94fc280bb#ref=rss)
+* [https://www.spiegel.de/kultur/good-bye-lenin-regisseur-wolfgang-becker-gestorben-eine-hommage](https://www.spiegel.de/kultur/good-bye-lenin-regisseur-wolfgang-becker-gestorben-eine-hommage-a-cc381e65-0938-4315-92df-c69d66842845#ref=rss)
+### milei
 
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-mahnt-zu-besonnenheit-in-debatte-ueber-syrische-gefluechtete](https://www.spiegel.de/politik/deutschland/olaf-scholz-mahnt-zu-besonnenheit-in-debatte-ueber-syrische-gefluechtete-a-0fb1840d-6c25-4ba7-be12-aa324aaf55a4#ref=rss)
-### geflüchtete
+* [https://www.spiegel.de/ausland/javier-milei-argentinien-praesident-hat-nun-italienische-staatsbuergerschaft](https://www.spiegel.de/ausland/javier-milei-argentinien-praesident-hat-nun-italienische-staatsbuergerschaft-a-66ad02d8-51ad-4a28-bd3c-149559de7912#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-mahnt-zu-besonnenheit-in-debatte-ueber-syrische-gefluechtete](https://www.spiegel.de/politik/deutschland/olaf-scholz-mahnt-zu-besonnenheit-in-debatte-ueber-syrische-gefluechtete-a-0fb1840d-6c25-4ba7-be12-aa324aaf55a4#ref=rss)
-### sturz
+* [https://www.spiegel.de/gesundheit/donald-trump-das-neue-gruselkabinett-im-gesundheitswesen](https://www.spiegel.de/gesundheit/donald-trump-das-neue-gruselkabinett-im-gesundheitswesen-a-178e7493-98e0-4e71-b1b8-03c7afc283d8#ref=rss)
+* [https://www.spiegel.de/ausland/fuenf-tote-nach-gekentertem-fluechtlingsboot-vor-der-kueste-kretas](https://www.spiegel.de/ausland/fuenf-tote-nach-gekentertem-fluechtlingsboot-vor-der-kueste-kretas-a-b277c72c-d6cb-4365-88b2-13d891d2eb60#ref=rss)
+* [https://www.spiegel.de/ausland/absetzung-von-yoon-suk-yeol-die-menschen-feiern](https://www.spiegel.de/ausland/absetzung-von-yoon-suk-yeol-die-menschen-feiern-a-a604899d-4ea5-4fc8-bec0-b844db2bd1e8#ref=rss)
+### friedrich
 
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-mahnt-zu-besonnenheit-in-debatte-ueber-syrische-gefluechtete](https://www.spiegel.de/politik/deutschland/olaf-scholz-mahnt-zu-besonnenheit-in-debatte-ueber-syrische-gefluechtete-a-0fb1840d-6c25-4ba7-be12-aa324aaf55a4#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-hts-miliz-will-sturz-von-assad-ein-jahr-lang-geplant-haben](https://www.spiegel.de/ausland/syrien-hts-miliz-will-sturz-von-assad-ein-jahr-lang-geplant-haben-a-60448f51-f641-45e7-a4b1-ad0eacfd152b#ref=rss)
-### assad
+* [https://www.spiegel.de/politik/deutschland/zank-um-ukrainepolitik-scholz-und-merz-werfen-einander-angstmacherei-vor](https://www.spiegel.de/politik/deutschland/zank-um-ukrainepolitik-scholz-und-merz-werfen-einander-angstmacherei-vor-a-87132901-c938-4e1f-8e2c-58199edfd624#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-merz-sieht-bekaempfung-irregulaerer-migration-als-wichtigste-aufgabe](https://www.spiegel.de/politik/deutschland/friedrich-merz-merz-sieht-bekaempfung-irregulaerer-migration-als-wichtigste-aufgabe-a-b06c5bda-e0e3-4697-bba4-86b9b151f7c0#ref=rss)
+### bundesliga
 
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-mahnt-zu-besonnenheit-in-debatte-ueber-syrische-gefluechtete](https://www.spiegel.de/politik/deutschland/olaf-scholz-mahnt-zu-besonnenheit-in-debatte-ueber-syrische-gefluechtete-a-0fb1840d-6c25-4ba7-be12-aa324aaf55a4#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-hts-miliz-will-sturz-von-assad-ein-jahr-lang-geplant-haben](https://www.spiegel.de/ausland/syrien-hts-miliz-will-sturz-von-assad-ein-jahr-lang-geplant-haben-a-60448f51-f641-45e7-a4b1-ad0eacfd152b#ref=rss)
-### kriege
+* [https://www.spiegel.de/sport/fussball/bundesliga-armindo-sieb-tut-dem-fc-bayern-muenchen-weh-bayer-leverkusen-beisst-sich-oben-fest](https://www.spiegel.de/sport/fussball/bundesliga-armindo-sieb-tut-dem-fc-bayern-muenchen-weh-bayer-leverkusen-beisst-sich-oben-fest-a-a0a8aad0-f354-483d-a601-3cb8342ee153#ref=rss)
+* [https://www.spiegel.de/sport/fussball/bundesliga-bochum-keeper-drewes-wird-von-feuerzeug-getroffen-spiel-lange-unterbrochen](https://www.spiegel.de/sport/fussball/bundesliga-bochum-keeper-drewes-wird-von-feuerzeug-getroffen-spiel-lange-unterbrochen-a-38764e1d-16c8-4079-a89f-d56359cac0bd#ref=rss)
+### fsv
 
-* [https://www.spiegel.de/panorama/donald-trump-kriege-in-nahost-und-ukraine-ampel-aus-gisele-pelicot-2024-in-bildern](https://www.spiegel.de/panorama/donald-trump-kriege-in-nahost-und-ukraine-ampel-aus-gisele-pelicot-2024-in-bildern-a-30599d01-bc90-4c47-8413-ab6959829df7#ref=rss)
-### nahost
+* [https://www.spiegel.de/sport/fussball/bundesliga-armindo-sieb-tut-dem-fc-bayern-muenchen-weh-bayer-leverkusen-beisst-sich-oben-fest](https://www.spiegel.de/sport/fussball/bundesliga-armindo-sieb-tut-dem-fc-bayern-muenchen-weh-bayer-leverkusen-beisst-sich-oben-fest-a-a0a8aad0-f354-483d-a601-3cb8342ee153#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fsv-mainz-05-schlaegt-ueberraschend-den-fc-bayern-muenchen](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fsv-mainz-05-schlaegt-ueberraschend-den-fc-bayern-muenchen-a-f3459708-c9a3-4c95-a123-ae4272fe2ee7#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/panorama/donald-trump-kriege-in-nahost-und-ukraine-ampel-aus-gisele-pelicot-2024-in-bildern](https://www.spiegel.de/panorama/donald-trump-kriege-in-nahost-und-ukraine-ampel-aus-gisele-pelicot-2024-in-bildern-a-30599d01-bc90-4c47-8413-ab6959829df7#ref=rss)
-### ampel
+* [https://www.spiegel.de/sport/fussball/bundesliga-armindo-sieb-tut-dem-fc-bayern-muenchen-weh-bayer-leverkusen-beisst-sich-oben-fest](https://www.spiegel.de/sport/fussball/bundesliga-armindo-sieb-tut-dem-fc-bayern-muenchen-weh-bayer-leverkusen-beisst-sich-oben-fest-a-a0a8aad0-f354-483d-a601-3cb8342ee153#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-schwerer-sturz-im-ersten-durchgang-clement-noel-bricht-sich-bei-seinem-heimrennen-zwei-zaehne](https://www.spiegel.de/sport/wintersport/ski-alpin-schwerer-sturz-im-ersten-durchgang-clement-noel-bricht-sich-bei-seinem-heimrennen-zwei-zaehne-a-6e3a37a0-87c0-41cb-805b-baa1edc597ad#ref=rss)
+### vorbereitet
 
-* [https://www.spiegel.de/panorama/donald-trump-kriege-in-nahost-und-ukraine-ampel-aus-gisele-pelicot-2024-in-bildern](https://www.spiegel.de/panorama/donald-trump-kriege-in-nahost-und-ukraine-ampel-aus-gisele-pelicot-2024-in-bildern-a-30599d01-bc90-4c47-8413-ab6959829df7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-ampelregierung-union-kindergeld-frankreich](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-ampelregierung-union-kindergeld-frankreich-a-b9c5e3ca-842d-4f3d-b114-2b987ea81fe0#ref=rss)
-### test
+* [https://www.spiegel.de/sport/fussball/bundesliga-armindo-sieb-tut-dem-fc-bayern-muenchen-weh-bayer-leverkusen-beisst-sich-oben-fest](https://www.spiegel.de/sport/fussball/bundesliga-armindo-sieb-tut-dem-fc-bayern-muenchen-weh-bayer-leverkusen-beisst-sich-oben-fest-a-a0a8aad0-f354-483d-a601-3cb8342ee153#ref=rss)
+* [https://www.spiegel.de/ausland/avignon-anwaelte-von-gisele-pelicot-ueber-die-bedeutung-des-ausnahmeprozesses](https://www.spiegel.de/ausland/avignon-anwaelte-von-gisele-pelicot-ueber-die-bedeutung-des-ausnahmeprozesses-a-1523c691-9f36-4401-942b-eb079dc75dc1#ref=rss)
+### dubaischokolade
 
-* [https://www.spiegel.de/tests/vollformat-systemkameras-von-canon-nikon-leica-sony-und-panasonic-im-test](https://www.spiegel.de/tests/vollformat-systemkameras-von-canon-nikon-leica-sony-und-panasonic-im-test-a-7cab4eb2-80f3-4b10-83b3-eac531ec1b0b#ref=rss)
-### adventskalender
+* [https://www.spiegel.de/panorama/importeur-der-dubai-schokolade-die-ersten-tafeln-brachte-ich-in-rollkoffern-nach-deutschland](https://www.spiegel.de/panorama/importeur-der-dubai-schokolade-die-ersten-tafeln-brachte-ich-in-rollkoffern-nach-deutschland-a-eb798696-2b6f-4348-9c38-fd89204e1bd4#ref=rss)
+### drewes
 
-* [https://www.spiegel.de/familie/adventskalender-aus-klopapierrollen-ein-geschenk-das-schiefging](https://www.spiegel.de/familie/adventskalender-aus-klopapierrollen-ein-geschenk-das-schiefging-a-ee334339-5f64-4874-b260-9fde7104cea1#ref=rss)
-### dachte
+* [https://www.spiegel.de/sport/fussball/bundesliga-bochum-keeper-drewes-wird-von-feuerzeug-getroffen-spiel-lange-unterbrochen](https://www.spiegel.de/sport/fussball/bundesliga-bochum-keeper-drewes-wird-von-feuerzeug-getroffen-spiel-lange-unterbrochen-a-38764e1d-16c8-4079-a89f-d56359cac0bd#ref=rss)
+### getroffen
 
-* [https://www.spiegel.de/familie/adventskalender-aus-klopapierrollen-ein-geschenk-das-schiefging](https://www.spiegel.de/familie/adventskalender-aus-klopapierrollen-ein-geschenk-das-schiefging-a-ee334339-5f64-4874-b260-9fde7104cea1#ref=rss)
-* [https://www.spiegel.de/fitness/konsumgestaendnis-und-ploetzlich-wollte-ich-auch-eine-fahrradmaus-sein](https://www.spiegel.de/fitness/konsumgestaendnis-und-ploetzlich-wollte-ich-auch-eine-fahrradmaus-sein-a-892c6fbc-6360-47db-ab81-5c5400d753b6#ref=rss)
-### moritz
+* [https://www.spiegel.de/sport/fussball/bundesliga-bochum-keeper-drewes-wird-von-feuerzeug-getroffen-spiel-lange-unterbrochen](https://www.spiegel.de/sport/fussball/bundesliga-bochum-keeper-drewes-wird-von-feuerzeug-getroffen-spiel-lange-unterbrochen-a-38764e1d-16c8-4079-a89f-d56359cac0bd#ref=rss)
+### spiel
 
-* [https://www.spiegel.de/sport/basketball/moritz-und-franz-wagner-jugendtrainer-norbert-opitz-erklaert-ihren-erfolg-und-ihre-bescheidenheit](https://www.spiegel.de/sport/basketball/moritz-und-franz-wagner-jugendtrainer-norbert-opitz-erklaert-ihren-erfolg-und-ihre-bescheidenheit-a-b6518018-2010-4c24-968f-a71ccc668e70#ref=rss)
-### franz
+* [https://www.spiegel.de/sport/fussball/bundesliga-bochum-keeper-drewes-wird-von-feuerzeug-getroffen-spiel-lange-unterbrochen](https://www.spiegel.de/sport/fussball/bundesliga-bochum-keeper-drewes-wird-von-feuerzeug-getroffen-spiel-lange-unterbrochen-a-38764e1d-16c8-4079-a89f-d56359cac0bd#ref=rss)
+### union
 
-* [https://www.spiegel.de/sport/basketball/moritz-und-franz-wagner-jugendtrainer-norbert-opitz-erklaert-ihren-erfolg-und-ihre-bescheidenheit](https://www.spiegel.de/sport/basketball/moritz-und-franz-wagner-jugendtrainer-norbert-opitz-erklaert-ihren-erfolg-und-ihre-bescheidenheit-a-b6518018-2010-4c24-968f-a71ccc668e70#ref=rss)
-### wagner
+* [https://www.spiegel.de/sport/fussball/bundesliga-bochum-keeper-drewes-wird-von-feuerzeug-getroffen-spiel-lange-unterbrochen](https://www.spiegel.de/sport/fussball/bundesliga-bochum-keeper-drewes-wird-von-feuerzeug-getroffen-spiel-lange-unterbrochen-a-38764e1d-16c8-4079-a89f-d56359cac0bd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-merz-sieht-bekaempfung-irregulaerer-migration-als-wichtigste-aufgabe](https://www.spiegel.de/politik/deutschland/friedrich-merz-merz-sieht-bekaempfung-irregulaerer-migration-als-wichtigste-aufgabe-a-b06c5bda-e0e3-4697-bba4-86b9b151f7c0#ref=rss)
+### bochum
 
-* [https://www.spiegel.de/sport/basketball/moritz-und-franz-wagner-jugendtrainer-norbert-opitz-erklaert-ihren-erfolg-und-ihre-bescheidenheit](https://www.spiegel.de/sport/basketball/moritz-und-franz-wagner-jugendtrainer-norbert-opitz-erklaert-ihren-erfolg-und-ihre-bescheidenheit-a-b6518018-2010-4c24-968f-a71ccc668e70#ref=rss)
-### jugendtrainer
+* [https://www.spiegel.de/sport/fussball/bundesliga-bochum-keeper-drewes-wird-von-feuerzeug-getroffen-spiel-lange-unterbrochen](https://www.spiegel.de/sport/fussball/bundesliga-bochum-keeper-drewes-wird-von-feuerzeug-getroffen-spiel-lange-unterbrochen-a-38764e1d-16c8-4079-a89f-d56359cac0bd#ref=rss)
+### endete
 
-* [https://www.spiegel.de/sport/basketball/moritz-und-franz-wagner-jugendtrainer-norbert-opitz-erklaert-ihren-erfolg-und-ihre-bescheidenheit](https://www.spiegel.de/sport/basketball/moritz-und-franz-wagner-jugendtrainer-norbert-opitz-erklaert-ihren-erfolg-und-ihre-bescheidenheit-a-b6518018-2010-4c24-968f-a71ccc668e70#ref=rss)
-### norbert
+* [https://www.spiegel.de/sport/fussball/bundesliga-bochum-keeper-drewes-wird-von-feuerzeug-getroffen-spiel-lange-unterbrochen](https://www.spiegel.de/sport/fussball/bundesliga-bochum-keeper-drewes-wird-von-feuerzeug-getroffen-spiel-lange-unterbrochen-a-38764e1d-16c8-4079-a89f-d56359cac0bd#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-schwerer-sturz-im-ersten-durchgang-clement-noel-bricht-sich-bei-seinem-heimrennen-zwei-zaehne](https://www.spiegel.de/sport/wintersport/ski-alpin-schwerer-sturz-im-ersten-durchgang-clement-noel-bricht-sich-bei-seinem-heimrennen-zwei-zaehne-a-6e3a37a0-87c0-41cb-805b-baa1edc597ad#ref=rss)
+### fußballbundesliga
 
-* [https://www.spiegel.de/sport/basketball/moritz-und-franz-wagner-jugendtrainer-norbert-opitz-erklaert-ihren-erfolg-und-ihre-bescheidenheit](https://www.spiegel.de/sport/basketball/moritz-und-franz-wagner-jugendtrainer-norbert-opitz-erklaert-ihren-erfolg-und-ihre-bescheidenheit-a-b6518018-2010-4c24-968f-a71ccc668e70#ref=rss)
-### opitz
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fsv-mainz-05-schlaegt-ueberraschend-den-fc-bayern-muenchen](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fsv-mainz-05-schlaegt-ueberraschend-den-fc-bayern-muenchen-a-f3459708-c9a3-4c95-a123-ae4272fe2ee7#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-stolpert-in-ulm-trainerexperiment-droht-zu-scheitern](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-stolpert-in-ulm-trainerexperiment-droht-zu-scheitern-a-c54d78d4-a904-4511-94fc-8c366727d436#ref=rss)
+### 2025
 
-* [https://www.spiegel.de/sport/basketball/moritz-und-franz-wagner-jugendtrainer-norbert-opitz-erklaert-ihren-erfolg-und-ihre-bescheidenheit](https://www.spiegel.de/sport/basketball/moritz-und-franz-wagner-jugendtrainer-norbert-opitz-erklaert-ihren-erfolg-und-ihre-bescheidenheit-a-b6518018-2010-4c24-968f-a71ccc668e70#ref=rss)
-### erfolg
+* [https://www.spiegel.de/auto/klimaschutz-warum-ursula-von-der-leyen-die-letzte-hoffnung-fuer-die-wende-zu-mehr-e-autos-ist-newsletter](https://www.spiegel.de/auto/klimaschutz-warum-ursula-von-der-leyen-die-letzte-hoffnung-fuer-die-wende-zu-mehr-e-autos-ist-newsletter-a-3a2e3a68-130b-4f02-a5c4-4cb74b9947b8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-alexander-dobrindt-zum-spitzenkandidaten-der-csu-gewaehlt](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-alexander-dobrindt-zum-spitzenkandidaten-der-csu-gewaehlt-a-71643372-5ffe-48a2-8b4b-bcaa2b043abf#ref=rss)
+### druck
 
-* [https://www.spiegel.de/sport/basketball/moritz-und-franz-wagner-jugendtrainer-norbert-opitz-erklaert-ihren-erfolg-und-ihre-bescheidenheit](https://www.spiegel.de/sport/basketball/moritz-und-franz-wagner-jugendtrainer-norbert-opitz-erklaert-ihren-erfolg-und-ihre-bescheidenheit-a-b6518018-2010-4c24-968f-a71ccc668e70#ref=rss)
-### nie
+* [https://www.spiegel.de/auto/klimaschutz-warum-ursula-von-der-leyen-die-letzte-hoffnung-fuer-die-wende-zu-mehr-e-autos-ist-newsletter](https://www.spiegel.de/auto/klimaschutz-warum-ursula-von-der-leyen-die-letzte-hoffnung-fuer-die-wende-zu-mehr-e-autos-ist-newsletter-a-3a2e3a68-130b-4f02-a5c4-4cb74b9947b8#ref=rss)
+* [https://www.spiegel.de/ausland/finnland-warum-forderungen-nach-einer-wiederaufruestung-mit-antipersonenminen-laut-werden](https://www.spiegel.de/ausland/finnland-warum-forderungen-nach-einer-wiederaufruestung-mit-antipersonenminen-laut-werden-a-6e73139b-c3c1-4545-b8d9-e7f50faccae9#ref=rss)
+### alexej
 
-* [https://www.spiegel.de/reise/europa/camping-tourismus-boom-wohin-mit-all-den-wohnmobilen](https://www.spiegel.de/reise/europa/camping-tourismus-boom-wohin-mit-all-den-wohnmobilen-a-b5b8641b-83ff-419c-b548-13fd13bf4086#ref=rss)
-* [https://www.spiegel.de/fitness/konsumgestaendnis-und-ploetzlich-wollte-ich-auch-eine-fahrradmaus-sein](https://www.spiegel.de/fitness/konsumgestaendnis-und-ploetzlich-wollte-ich-auch-eine-fahrradmaus-sein-a-892c6fbc-6360-47db-ab81-5c5400d753b6#ref=rss)
-### mir
+* [https://www.spiegel.de/politik/alexej-nawalny-ein-vermaechtnis-der-hoffnung-und-resilienz-in-harten-zeiten-kolumne](https://www.spiegel.de/politik/alexej-nawalny-ein-vermaechtnis-der-hoffnung-und-resilienz-in-harten-zeiten-kolumne-a-6b1ed471-c9ed-4402-abc4-eb01fcb57c07#ref=rss)
+### nawalny
 
-* [https://www.spiegel.de/fitness/konsumgestaendnis-und-ploetzlich-wollte-ich-auch-eine-fahrradmaus-sein](https://www.spiegel.de/fitness/konsumgestaendnis-und-ploetzlich-wollte-ich-auch-eine-fahrradmaus-sein-a-892c6fbc-6360-47db-ab81-5c5400d753b6#ref=rss)
-### legende
+* [https://www.spiegel.de/politik/alexej-nawalny-ein-vermaechtnis-der-hoffnung-und-resilienz-in-harten-zeiten-kolumne](https://www.spiegel.de/politik/alexej-nawalny-ein-vermaechtnis-der-hoffnung-und-resilienz-in-harten-zeiten-kolumne-a-6b1ed471-c9ed-4402-abc4-eb01fcb57c07#ref=rss)
+### resilienz
 
-* [https://www.spiegel.de/panorama/fc-schalke-04-wie-sich-die-aussortierte-legende-gerald-asamoah-fuehlt](https://www.spiegel.de/panorama/fc-schalke-04-wie-sich-die-aussortierte-legende-gerald-asamoah-fuehlt-a-d562e5bc-1f06-4c4d-b1dc-2dfe42b34193#ref=rss)
-### gerald
+* [https://www.spiegel.de/politik/alexej-nawalny-ein-vermaechtnis-der-hoffnung-und-resilienz-in-harten-zeiten-kolumne](https://www.spiegel.de/politik/alexej-nawalny-ein-vermaechtnis-der-hoffnung-und-resilienz-in-harten-zeiten-kolumne-a-6b1ed471-c9ed-4402-abc4-eb01fcb57c07#ref=rss)
+### zeiten
 
-* [https://www.spiegel.de/panorama/fc-schalke-04-wie-sich-die-aussortierte-legende-gerald-asamoah-fuehlt](https://www.spiegel.de/panorama/fc-schalke-04-wie-sich-die-aussortierte-legende-gerald-asamoah-fuehlt-a-d562e5bc-1f06-4c4d-b1dc-2dfe42b34193#ref=rss)
-### asamoah
+* [https://www.spiegel.de/politik/alexej-nawalny-ein-vermaechtnis-der-hoffnung-und-resilienz-in-harten-zeiten-kolumne](https://www.spiegel.de/politik/alexej-nawalny-ein-vermaechtnis-der-hoffnung-und-resilienz-in-harten-zeiten-kolumne-a-6b1ed471-c9ed-4402-abc4-eb01fcb57c07#ref=rss)
+### wissen
 
-* [https://www.spiegel.de/panorama/fc-schalke-04-wie-sich-die-aussortierte-legende-gerald-asamoah-fuehlt](https://www.spiegel.de/panorama/fc-schalke-04-wie-sich-die-aussortierte-legende-gerald-asamoah-fuehlt-a-d562e5bc-1f06-4c4d-b1dc-2dfe42b34193#ref=rss)
-### fühlt
+* [https://www.spiegel.de/politik/alexej-nawalny-ein-vermaechtnis-der-hoffnung-und-resilienz-in-harten-zeiten-kolumne](https://www.spiegel.de/politik/alexej-nawalny-ein-vermaechtnis-der-hoffnung-und-resilienz-in-harten-zeiten-kolumne-a-6b1ed471-c9ed-4402-abc4-eb01fcb57c07#ref=rss)
+* [https://www.spiegel.de/familie/berufspraktikum-fuer-schuelerinnen-und-schueler-arbeiten-da-nur-maenner](https://www.spiegel.de/familie/berufspraktikum-fuer-schuelerinnen-und-schueler-arbeiten-da-nur-maenner-a-6754eb2c-95d2-446d-84a9-27c94fc280bb#ref=rss)
+### finnland
 
-* [https://www.spiegel.de/panorama/fc-schalke-04-wie-sich-die-aussortierte-legende-gerald-asamoah-fuehlt](https://www.spiegel.de/panorama/fc-schalke-04-wie-sich-die-aussortierte-legende-gerald-asamoah-fuehlt-a-d562e5bc-1f06-4c4d-b1dc-2dfe42b34193#ref=rss)
-### verein
+* [https://www.spiegel.de/ausland/finnland-warum-forderungen-nach-einer-wiederaufruestung-mit-antipersonenminen-laut-werden](https://www.spiegel.de/ausland/finnland-warum-forderungen-nach-einer-wiederaufruestung-mit-antipersonenminen-laut-werden-a-6e73139b-c3c1-4545-b8d9-e7f50faccae9#ref=rss)
+### wiederaufrüstung
 
-* [https://www.spiegel.de/panorama/fc-schalke-04-wie-sich-die-aussortierte-legende-gerald-asamoah-fuehlt](https://www.spiegel.de/panorama/fc-schalke-04-wie-sich-die-aussortierte-legende-gerald-asamoah-fuehlt-a-d562e5bc-1f06-4c4d-b1dc-2dfe42b34193#ref=rss)
-### michael
+* [https://www.spiegel.de/ausland/finnland-warum-forderungen-nach-einer-wiederaufruestung-mit-antipersonenminen-laut-werden](https://www.spiegel.de/ausland/finnland-warum-forderungen-nach-einer-wiederaufruestung-mit-antipersonenminen-laut-werden-a-6e73139b-c3c1-4545-b8d9-e7f50faccae9#ref=rss)
+### antipersonenminen
 
-* [https://www.spiegel.de/panorama/leute/michael-jackson-ex-polizist-besitzt-unveroeffentlichte-lieder-des-popstars](https://www.spiegel.de/panorama/leute/michael-jackson-ex-polizist-besitzt-unveroeffentlichte-lieder-des-popstars-a-20228edc-7590-4ccd-b1c4-61fce497d2e2#ref=rss)
-### jackson
+* [https://www.spiegel.de/ausland/finnland-warum-forderungen-nach-einer-wiederaufruestung-mit-antipersonenminen-laut-werden](https://www.spiegel.de/ausland/finnland-warum-forderungen-nach-einer-wiederaufruestung-mit-antipersonenminen-laut-werden-a-6e73139b-c3c1-4545-b8d9-e7f50faccae9#ref=rss)
+### fast
 
-* [https://www.spiegel.de/panorama/leute/michael-jackson-ex-polizist-besitzt-unveroeffentlichte-lieder-des-popstars](https://www.spiegel.de/panorama/leute/michael-jackson-ex-polizist-besitzt-unveroeffentlichte-lieder-des-popstars-a-20228edc-7590-4ccd-b1c4-61fce497d2e2#ref=rss)
-### olexander
+* [https://www.spiegel.de/ausland/finnland-warum-forderungen-nach-einer-wiederaufruestung-mit-antipersonenminen-laut-werden](https://www.spiegel.de/ausland/finnland-warum-forderungen-nach-einer-wiederaufruestung-mit-antipersonenminen-laut-werden-a-6e73139b-c3c1-4545-b8d9-e7f50faccae9#ref=rss)
+* [https://www.spiegel.de/ausland/avignon-anwaelte-von-gisele-pelicot-ueber-die-bedeutung-des-ausnahmeprozesses](https://www.spiegel.de/ausland/avignon-anwaelte-von-gisele-pelicot-ueber-die-bedeutung-des-ausnahmeprozesses-a-1523c691-9f36-4401-942b-eb079dc75dc1#ref=rss)
+### anwälte
 
-* [https://www.spiegel.de/ausland/ukraine-nach-niederlagen-wird-offenbar-kommandeur-olexander-luzenko-an-front-ausgetauscht](https://www.spiegel.de/ausland/ukraine-nach-niederlagen-wird-offenbar-kommandeur-olexander-luzenko-an-front-ausgetauscht-a-24d066cf-b445-432f-80bd-e706d95ba2a3#ref=rss)
-### luzenko
+* [https://www.spiegel.de/ausland/avignon-anwaelte-von-gisele-pelicot-ueber-die-bedeutung-des-ausnahmeprozesses](https://www.spiegel.de/ausland/avignon-anwaelte-von-gisele-pelicot-ueber-die-bedeutung-des-ausnahmeprozesses-a-1523c691-9f36-4401-942b-eb079dc75dc1#ref=rss)
+### ausnahmeprozesses
 
-* [https://www.spiegel.de/ausland/ukraine-nach-niederlagen-wird-offenbar-kommandeur-olexander-luzenko-an-front-ausgetauscht](https://www.spiegel.de/ausland/ukraine-nach-niederlagen-wird-offenbar-kommandeur-olexander-luzenko-an-front-ausgetauscht-a-24d066cf-b445-432f-80bd-e706d95ba2a3#ref=rss)
-### russland
+* [https://www.spiegel.de/ausland/avignon-anwaelte-von-gisele-pelicot-ueber-die-bedeutung-des-ausnahmeprozesses](https://www.spiegel.de/ausland/avignon-anwaelte-von-gisele-pelicot-ueber-die-bedeutung-des-ausnahmeprozesses-a-1523c691-9f36-4401-942b-eb079dc75dc1#ref=rss)
+* [https://www.spiegel.de/ausland/avignon-der-fall-gisele-pelicot-geht-zu-ende-protokoll-eines-ausnahmeprozesses](https://www.spiegel.de/ausland/avignon-der-fall-gisele-pelicot-geht-zu-ende-protokoll-eines-ausnahmeprozesses-a-3ebfc9a7-abd2-43e6-864a-0eb37541a546#ref=rss)
+### fall
 
-* [https://www.spiegel.de/ausland/evan-gershkovich-freigelassener-us-journalist-sieht-sich-als-koeder-der-russischen-spionageabwehr](https://www.spiegel.de/ausland/evan-gershkovich-freigelassener-us-journalist-sieht-sich-als-koeder-der-russischen-spionageabwehr-a-9fcb7974-9997-4864-b53b-dbe2b953016f#ref=rss)
-### usjournalist
+* [https://www.spiegel.de/ausland/avignon-der-fall-gisele-pelicot-geht-zu-ende-protokoll-eines-ausnahmeprozesses](https://www.spiegel.de/ausland/avignon-der-fall-gisele-pelicot-geht-zu-ende-protokoll-eines-ausnahmeprozesses-a-3ebfc9a7-abd2-43e6-864a-0eb37541a546#ref=rss)
+### unsere
 
-* [https://www.spiegel.de/ausland/evan-gershkovich-freigelassener-us-journalist-sieht-sich-als-koeder-der-russischen-spionageabwehr](https://www.spiegel.de/ausland/evan-gershkovich-freigelassener-us-journalist-sieht-sich-als-koeder-der-russischen-spionageabwehr-a-9fcb7974-9997-4864-b53b-dbe2b953016f#ref=rss)
-### evan
+* [https://www.spiegel.de/ausland/avignon-der-fall-gisele-pelicot-geht-zu-ende-protokoll-eines-ausnahmeprozesses](https://www.spiegel.de/ausland/avignon-der-fall-gisele-pelicot-geht-zu-ende-protokoll-eines-ausnahmeprozesses-a-3ebfc9a7-abd2-43e6-864a-0eb37541a546#ref=rss)
+* [https://www.spiegel.de/familie/berufspraktikum-fuer-schuelerinnen-und-schueler-arbeiten-da-nur-maenner](https://www.spiegel.de/familie/berufspraktikum-fuer-schuelerinnen-und-schueler-arbeiten-da-nur-maenner-a-6754eb2c-95d2-446d-84a9-27c94fc280bb#ref=rss)
+### zeit
 
-* [https://www.spiegel.de/ausland/evan-gershkovich-freigelassener-us-journalist-sieht-sich-als-koeder-der-russischen-spionageabwehr](https://www.spiegel.de/ausland/evan-gershkovich-freigelassener-us-journalist-sieht-sich-als-koeder-der-russischen-spionageabwehr-a-9fcb7974-9997-4864-b53b-dbe2b953016f#ref=rss)
-### gershkovich
+* [https://www.spiegel.de/ausland/rueckkehr-von-gefluechteten-jetzt-ist-die-zeit-syrien-wieder-aufzubauen](https://www.spiegel.de/ausland/rueckkehr-von-gefluechteten-jetzt-ist-die-zeit-syrien-wieder-aufzubauen-a-26b8dda0-053a-401b-a091-84a0f2d7604e#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-stolpert-in-ulm-trainerexperiment-droht-zu-scheitern](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-stolpert-in-ulm-trainerexperiment-droht-zu-scheitern-a-c54d78d4-a904-4511-94fc-8c366727d436#ref=rss)
+### meloni
 
-* [https://www.spiegel.de/ausland/evan-gershkovich-freigelassener-us-journalist-sieht-sich-als-koeder-der-russischen-spionageabwehr](https://www.spiegel.de/ausland/evan-gershkovich-freigelassener-us-journalist-sieht-sich-als-koeder-der-russischen-spionageabwehr-a-9fcb7974-9997-4864-b53b-dbe2b953016f#ref=rss)
-### spionageabwehr
+* [https://www.spiegel.de/ausland/javier-milei-argentinien-praesident-hat-nun-italienische-staatsbuergerschaft](https://www.spiegel.de/ausland/javier-milei-argentinien-praesident-hat-nun-italienische-staatsbuergerschaft-a-66ad02d8-51ad-4a28-bd3c-149559de7912#ref=rss)
+### donald
 
-* [https://www.spiegel.de/ausland/evan-gershkovich-freigelassener-us-journalist-sieht-sich-als-koeder-der-russischen-spionageabwehr](https://www.spiegel.de/ausland/evan-gershkovich-freigelassener-us-journalist-sieht-sich-als-koeder-der-russischen-spionageabwehr-a-9fcb7974-9997-4864-b53b-dbe2b953016f#ref=rss)
-### vfl
+* [https://www.spiegel.de/gesundheit/donald-trump-das-neue-gruselkabinett-im-gesundheitswesen](https://www.spiegel.de/gesundheit/donald-trump-das-neue-gruselkabinett-im-gesundheitswesen-a-178e7493-98e0-4e71-b1b8-03c7afc283d8#ref=rss)
+### trump
 
-* [https://www.spiegel.de/sport/fussball/bundesliga-vfl-wolfsburg-verliert-beim-sc-freiburg](https://www.spiegel.de/sport/fussball/bundesliga-vfl-wolfsburg-verliert-beim-sc-freiburg-a-bcf3ef98-c01d-4569-8b9b-b76eb55423ce#ref=rss)
-### freiburg
+* [https://www.spiegel.de/gesundheit/donald-trump-das-neue-gruselkabinett-im-gesundheitswesen](https://www.spiegel.de/gesundheit/donald-trump-das-neue-gruselkabinett-im-gesundheitswesen-a-178e7493-98e0-4e71-b1b8-03c7afc283d8#ref=rss)
+### gruselkabinett
 
-* [https://www.spiegel.de/sport/fussball/bundesliga-vfl-wolfsburg-verliert-beim-sc-freiburg](https://www.spiegel.de/sport/fussball/bundesliga-vfl-wolfsburg-verliert-beim-sc-freiburg-a-bcf3ef98-c01d-4569-8b9b-b76eb55423ce#ref=rss)
+* [https://www.spiegel.de/gesundheit/donald-trump-das-neue-gruselkabinett-im-gesundheitswesen](https://www.spiegel.de/gesundheit/donald-trump-das-neue-gruselkabinett-im-gesundheitswesen-a-178e7493-98e0-4e71-b1b8-03c7afc283d8#ref=rss)
+### uns
+
+* [https://www.spiegel.de/gesundheit/donald-trump-das-neue-gruselkabinett-im-gesundheitswesen](https://www.spiegel.de/gesundheit/donald-trump-das-neue-gruselkabinett-im-gesundheitswesen-a-178e7493-98e0-4e71-b1b8-03c7afc283d8#ref=rss)
+* [https://www.spiegel.de/gesundheit/journaling-tagebuch-co-wie-uns-das-schreiben-hilft-gesund-zu-bleiben-podcast-mit-silke-heimes](https://www.spiegel.de/gesundheit/journaling-tagebuch-co-wie-uns-das-schreiben-hilft-gesund-zu-bleiben-podcast-mit-silke-heimes-a-21babec0-1b67-40dc-8d8e-a48bee82fa07#ref=rss)
+### netflixserie
+
+* [https://www.spiegel.de/kultur/tv/netflix-serie-hundert-jahre-einsamkeit-hokuspokus-alarm-im-dschungeldorf](https://www.spiegel.de/kultur/tv/netflix-serie-hundert-jahre-einsamkeit-hokuspokus-alarm-im-dschungeldorf-a-6ef3bf3d-4648-4931-9458-d93709f049ab#ref=rss)
+### hundert
+
+* [https://www.spiegel.de/kultur/tv/netflix-serie-hundert-jahre-einsamkeit-hokuspokus-alarm-im-dschungeldorf](https://www.spiegel.de/kultur/tv/netflix-serie-hundert-jahre-einsamkeit-hokuspokus-alarm-im-dschungeldorf-a-6ef3bf3d-4648-4931-9458-d93709f049ab#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/kultur/tv/netflix-serie-hundert-jahre-einsamkeit-hokuspokus-alarm-im-dschungeldorf](https://www.spiegel.de/kultur/tv/netflix-serie-hundert-jahre-einsamkeit-hokuspokus-alarm-im-dschungeldorf-a-6ef3bf3d-4648-4931-9458-d93709f049ab#ref=rss)
+### einsamkeit
+
+* [https://www.spiegel.de/kultur/tv/netflix-serie-hundert-jahre-einsamkeit-hokuspokus-alarm-im-dschungeldorf](https://www.spiegel.de/kultur/tv/netflix-serie-hundert-jahre-einsamkeit-hokuspokus-alarm-im-dschungeldorf-a-6ef3bf3d-4648-4931-9458-d93709f049ab#ref=rss)
+### perfekte
+
+* [https://www.spiegel.de/panorama/gesellschaft/weihnachtsbaum-wie-der-perfekte-baum-aussieht-und-was-er-braucht](https://www.spiegel.de/panorama/gesellschaft/weihnachtsbaum-wie-der-perfekte-baum-aussieht-und-was-er-braucht-a-0307d6fb-4e8b-42c8-b297-cedf34d0f3d1#ref=rss)
+### baum
+
+* [https://www.spiegel.de/panorama/gesellschaft/weihnachtsbaum-wie-der-perfekte-baum-aussieht-und-was-er-braucht](https://www.spiegel.de/panorama/gesellschaft/weihnachtsbaum-wie-der-perfekte-baum-aussieht-und-was-er-braucht-a-0307d6fb-4e8b-42c8-b297-cedf34d0f3d1#ref=rss)
+### aussieht
+
+* [https://www.spiegel.de/panorama/gesellschaft/weihnachtsbaum-wie-der-perfekte-baum-aussieht-und-was-er-braucht](https://www.spiegel.de/panorama/gesellschaft/weihnachtsbaum-wie-der-perfekte-baum-aussieht-und-was-er-braucht-a-0307d6fb-4e8b-42c8-b297-cedf34d0f3d1#ref=rss)
+### braucht
+
+* [https://www.spiegel.de/panorama/gesellschaft/weihnachtsbaum-wie-der-perfekte-baum-aussieht-und-was-er-braucht](https://www.spiegel.de/panorama/gesellschaft/weihnachtsbaum-wie-der-perfekte-baum-aussieht-und-was-er-braucht-a-0307d6fb-4e8b-42c8-b297-cedf34d0f3d1#ref=rss)
+### fünf
+
+* [https://www.spiegel.de/ausland/fuenf-tote-nach-gekentertem-fluechtlingsboot-vor-der-kueste-kretas](https://www.spiegel.de/ausland/fuenf-tote-nach-gekentertem-fluechtlingsboot-vor-der-kueste-kretas-a-b277c72c-d6cb-4365-88b2-13d891d2eb60#ref=rss)
+### flüchtlingsboot
+
+* [https://www.spiegel.de/ausland/fuenf-tote-nach-gekentertem-fluechtlingsboot-vor-der-kueste-kretas](https://www.spiegel.de/ausland/fuenf-tote-nach-gekentertem-fluechtlingsboot-vor-der-kueste-kretas-a-b277c72c-d6cb-4365-88b2-13d891d2eb60#ref=rss)
+### mercedeschef
+
+* [https://www.spiegel.de/karriere/mercedes-chef-bemaengelt-hohen-krankenstand-in-deutschland](https://www.spiegel.de/karriere/mercedes-chef-bemaengelt-hohen-krankenstand-in-deutschland-a-211b78d7-97da-4fe9-89ac-8e77d9ffb1a2#ref=rss)
+### krankenstand
+
+* [https://www.spiegel.de/karriere/mercedes-chef-bemaengelt-hohen-krankenstand-in-deutschland](https://www.spiegel.de/karriere/mercedes-chef-bemaengelt-hohen-krankenstand-in-deutschland-a-211b78d7-97da-4fe9-89ac-8e77d9ffb1a2#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/karriere/mercedes-chef-bemaengelt-hohen-krankenstand-in-deutschland](https://www.spiegel.de/karriere/mercedes-chef-bemaengelt-hohen-krankenstand-in-deutschland-a-211b78d7-97da-4fe9-89ac-8e77d9ffb1a2#ref=rss)
+* [https://www.spiegel.de/kultur/good-bye-lenin-regisseur-wolfgang-becker-gestorben-eine-hommage](https://www.spiegel.de/kultur/good-bye-lenin-regisseur-wolfgang-becker-gestorben-eine-hommage-a-cc381e65-0938-4315-92df-c69d66842845#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/karriere/mercedes-chef-bemaengelt-hohen-krankenstand-in-deutschland](https://www.spiegel.de/karriere/mercedes-chef-bemaengelt-hohen-krankenstand-in-deutschland-a-211b78d7-97da-4fe9-89ac-8e77d9ffb1a2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-merz-sieht-bekaempfung-irregulaerer-migration-als-wichtigste-aufgabe](https://www.spiegel.de/politik/deutschland/friedrich-merz-merz-sieht-bekaempfung-irregulaerer-migration-als-wichtigste-aufgabe-a-b06c5bda-e0e3-4697-bba4-86b9b151f7c0#ref=rss)
+### clément
+
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-schwerer-sturz-im-ersten-durchgang-clement-noel-bricht-sich-bei-seinem-heimrennen-zwei-zaehne](https://www.spiegel.de/sport/wintersport/ski-alpin-schwerer-sturz-im-ersten-durchgang-clement-noel-bricht-sich-bei-seinem-heimrennen-zwei-zaehne-a-6e3a37a0-87c0-41cb-805b-baa1edc597ad#ref=rss)
+### noël
+
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-schwerer-sturz-im-ersten-durchgang-clement-noel-bricht-sich-bei-seinem-heimrennen-zwei-zaehne](https://www.spiegel.de/sport/wintersport/ski-alpin-schwerer-sturz-im-ersten-durchgang-clement-noel-bricht-sich-bei-seinem-heimrennen-zwei-zaehne-a-6e3a37a0-87c0-41cb-805b-baa1edc597ad#ref=rss)
+### ulm
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-stolpert-in-ulm-trainerexperiment-droht-zu-scheitern](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-stolpert-in-ulm-trainerexperiment-droht-zu-scheitern-a-c54d78d4-a904-4511-94fc-8c366727d436#ref=rss)
+### fällt
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-stolpert-in-ulm-trainerexperiment-droht-zu-scheitern](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-stolpert-in-ulm-trainerexperiment-droht-zu-scheitern-a-c54d78d4-a904-4511-94fc-8c366727d436#ref=rss)
+* [https://www.spiegel.de/ausland/suedkoreas-praesident-yoon-suk-yeol-ende-mit-schrecken](https://www.spiegel.de/ausland/suedkoreas-praesident-yoon-suk-yeol-ende-mit-schrecken-a-b1aae64e-4b48-4177-a0f2-3518eb1b15b1#ref=rss)
+### spitzenkandidaten
+
+* [https://www.spiegel.de/politik/deutschland/zank-um-ukrainepolitik-scholz-und-merz-werfen-einander-angstmacherei-vor](https://www.spiegel.de/politik/deutschland/zank-um-ukrainepolitik-scholz-und-merz-werfen-einander-angstmacherei-vor-a-87132901-c938-4e1f-8e2c-58199edfd624#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-alexander-dobrindt-zum-spitzenkandidaten-der-csu-gewaehlt](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-alexander-dobrindt-zum-spitzenkandidaten-der-csu-gewaehlt-a-71643372-5ffe-48a2-8b4b-bcaa2b043abf#ref=rss)
+### südkorea
+
+* [https://www.spiegel.de/ausland/suedkoreas-praesident-yoon-suk-yeol-ende-mit-schrecken](https://www.spiegel.de/ausland/suedkoreas-praesident-yoon-suk-yeol-ende-mit-schrecken-a-b1aae64e-4b48-4177-a0f2-3518eb1b15b1#ref=rss)
+* [https://www.spiegel.de/ausland/absetzung-von-yoon-suk-yeol-die-menschen-feiern](https://www.spiegel.de/ausland/absetzung-von-yoon-suk-yeol-die-menschen-feiern-a-a604899d-4ea5-4fc8-bec0-b844db2bd1e8#ref=rss)
+### amtsenthebung
+
+* [https://www.spiegel.de/ausland/suedkoreas-praesident-yoon-suk-yeol-ende-mit-schrecken](https://www.spiegel.de/ausland/suedkoreas-praesident-yoon-suk-yeol-ende-mit-schrecken-a-b1aae64e-4b48-4177-a0f2-3518eb1b15b1#ref=rss)
+### sukyeol
+
+* [https://www.spiegel.de/ausland/suedkoreas-praesident-yoon-suk-yeol-ende-mit-schrecken](https://www.spiegel.de/ausland/suedkoreas-praesident-yoon-suk-yeol-ende-mit-schrecken-a-b1aae64e-4b48-4177-a0f2-3518eb1b15b1#ref=rss)
+### weitergeht
+
+* [https://www.spiegel.de/ausland/suedkoreas-praesident-yoon-suk-yeol-ende-mit-schrecken](https://www.spiegel.de/ausland/suedkoreas-praesident-yoon-suk-yeol-ende-mit-schrecken-a-b1aae64e-4b48-4177-a0f2-3518eb1b15b1#ref=rss)
+### jubeln
+
+* [https://www.spiegel.de/ausland/suedkoreas-praesident-yoon-suk-yeol-ende-mit-schrecken](https://www.spiegel.de/ausland/suedkoreas-praesident-yoon-suk-yeol-ende-mit-schrecken-a-b1aae64e-4b48-4177-a0f2-3518eb1b15b1#ref=rss)
+* [https://www.spiegel.de/ausland/absetzung-von-yoon-suk-yeol-die-menschen-feiern](https://www.spiegel.de/ausland/absetzung-von-yoon-suk-yeol-die-menschen-feiern-a-a604899d-4ea5-4fc8-bec0-b844db2bd1e8#ref=rss)
+### parlament
+
+* [https://www.spiegel.de/ausland/suedkoreas-praesident-yoon-suk-yeol-ende-mit-schrecken](https://www.spiegel.de/ausland/suedkoreas-praesident-yoon-suk-yeol-ende-mit-schrecken-a-b1aae64e-4b48-4177-a0f2-3518eb1b15b1#ref=rss)
+* [https://www.spiegel.de/ausland/absetzung-von-yoon-suk-yeol-die-menschen-feiern](https://www.spiegel.de/ausland/absetzung-von-yoon-suk-yeol-die-menschen-feiern-a-a604899d-4ea5-4fc8-bec0-b844db2bd1e8#ref=rss)
+### präsident
+
+* [https://www.spiegel.de/ausland/suedkoreas-praesident-yoon-suk-yeol-ende-mit-schrecken](https://www.spiegel.de/ausland/suedkoreas-praesident-yoon-suk-yeol-ende-mit-schrecken-a-b1aae64e-4b48-4177-a0f2-3518eb1b15b1#ref=rss)
+* [https://www.spiegel.de/ausland/absetzung-von-yoon-suk-yeol-die-menschen-feiern](https://www.spiegel.de/ausland/absetzung-von-yoon-suk-yeol-die-menschen-feiern-a-a604899d-4ea5-4fc8-bec0-b844db2bd1e8#ref=rss)
+### gestimmt
+
+* [https://www.spiegel.de/ausland/suedkoreas-praesident-yoon-suk-yeol-ende-mit-schrecken](https://www.spiegel.de/ausland/suedkoreas-praesident-yoon-suk-yeol-ende-mit-schrecken-a-b1aae64e-4b48-4177-a0f2-3518eb1b15b1#ref=rss)
+* [https://www.spiegel.de/ausland/absetzung-von-yoon-suk-yeol-die-menschen-feiern](https://www.spiegel.de/ausland/absetzung-von-yoon-suk-yeol-die-menschen-feiern-a-a604899d-4ea5-4fc8-bec0-b844db2bd1e8#ref=rss)
+### haushaltshilfen
+
+* [https://www.spiegel.de/wirtschaft/schwarzarbeit-immer-weniger-haushalte-melden-ihre-haushaltshilfen-an](https://www.spiegel.de/wirtschaft/schwarzarbeit-immer-weniger-haushalte-melden-ihre-haushaltshilfen-an-a-f3a07e9c-d116-4a4c-bcf5-23c7a8916677#ref=rss)
+### arbeiten
+
+* [https://www.spiegel.de/wirtschaft/schwarzarbeit-immer-weniger-haushalte-melden-ihre-haushaltshilfen-an](https://www.spiegel.de/wirtschaft/schwarzarbeit-immer-weniger-haushalte-melden-ihre-haushaltshilfen-an-a-f3a07e9c-d116-4a4c-bcf5-23c7a8916677#ref=rss)
+* [https://www.spiegel.de/familie/berufspraktikum-fuer-schuelerinnen-und-schueler-arbeiten-da-nur-maenner](https://www.spiegel.de/familie/berufspraktikum-fuer-schuelerinnen-und-schueler-arbeiten-da-nur-maenner-a-6754eb2c-95d2-446d-84a9-27c94fc280bb#ref=rss)
+### linken
+
+* [https://www.spiegel.de/politik/deutschland/haseloff-signalisiert-offenheit-fuer-buendnis-mit-linken-die-reagieren-erfreut](https://www.spiegel.de/politik/deutschland/haseloff-signalisiert-offenheit-fuer-buendnis-mit-linken-die-reagieren-erfreut-a-67da0925-7da1-414c-8a6f-872f0750e498#ref=rss)
+### silke
+
+* [https://www.spiegel.de/gesundheit/journaling-tagebuch-co-wie-uns-das-schreiben-hilft-gesund-zu-bleiben-podcast-mit-silke-heimes](https://www.spiegel.de/gesundheit/journaling-tagebuch-co-wie-uns-das-schreiben-hilft-gesund-zu-bleiben-podcast-mit-silke-heimes-a-21babec0-1b67-40dc-8d8e-a48bee82fa07#ref=rss)
+### heimes
+
+* [https://www.spiegel.de/gesundheit/journaling-tagebuch-co-wie-uns-das-schreiben-hilft-gesund-zu-bleiben-podcast-mit-silke-heimes](https://www.spiegel.de/gesundheit/journaling-tagebuch-co-wie-uns-das-schreiben-hilft-gesund-zu-bleiben-podcast-mit-silke-heimes-a-21babec0-1b67-40dc-8d8e-a48bee82fa07#ref=rss)
+### randy
+
+* [https://www.spiegel.de/sport/american-football/randy-moss-ehemaliger-football-superstar-gibt-krebserkrankung-bekannt](https://www.spiegel.de/sport/american-football/randy-moss-ehemaliger-football-superstar-gibt-krebserkrankung-bekannt-a-016f942c-3526-4229-99dc-6fe4534ca72d#ref=rss)
+### moss
+
+* [https://www.spiegel.de/sport/american-football/randy-moss-ehemaliger-football-superstar-gibt-krebserkrankung-bekannt](https://www.spiegel.de/sport/american-football/randy-moss-ehemaliger-football-superstar-gibt-krebserkrankung-bekannt-a-016f942c-3526-4229-99dc-6fe4534ca72d#ref=rss)
+### berufspraktikum
+
+* [https://www.spiegel.de/familie/berufspraktikum-fuer-schuelerinnen-und-schueler-arbeiten-da-nur-maenner](https://www.spiegel.de/familie/berufspraktikum-fuer-schuelerinnen-und-schueler-arbeiten-da-nur-maenner-a-6754eb2c-95d2-446d-84a9-27c94fc280bb#ref=rss)
+### csu
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-alexander-dobrindt-zum-spitzenkandidaten-der-csu-gewaehlt](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-alexander-dobrindt-zum-spitzenkandidaten-der-csu-gewaehlt-a-71643372-5ffe-48a2-8b4b-bcaa2b043abf#ref=rss)
+### alexander
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-alexander-dobrindt-zum-spitzenkandidaten-der-csu-gewaehlt](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-alexander-dobrindt-zum-spitzenkandidaten-der-csu-gewaehlt-a-71643372-5ffe-48a2-8b4b-bcaa2b043abf#ref=rss)
+### dobrindt
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-alexander-dobrindt-zum-spitzenkandidaten-der-csu-gewaehlt](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-alexander-dobrindt-zum-spitzenkandidaten-der-csu-gewaehlt-a-71643372-5ffe-48a2-8b4b-bcaa2b043abf#ref=rss)
+### bundestagswahl
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-alexander-dobrindt-zum-spitzenkandidaten-der-csu-gewaehlt](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-alexander-dobrindt-zum-spitzenkandidaten-der-csu-gewaehlt-a-71643372-5ffe-48a2-8b4b-bcaa2b043abf#ref=rss)
+### jayz
+
+* [https://www.spiegel.de/panorama/vergewaltigungsvorwurf-gegen-jay-z-klaegerin-gibt-widersprueche-zu](https://www.spiegel.de/panorama/vergewaltigungsvorwurf-gegen-jay-z-klaegerin-gibt-widersprueche-zu-a-b93eb6f0-dde0-4d19-a84a-d44c5ce8e810#ref=rss)
+### wolfgang
+
+* [https://www.spiegel.de/kultur/good-bye-lenin-regisseur-wolfgang-becker-gestorben-eine-hommage](https://www.spiegel.de/kultur/good-bye-lenin-regisseur-wolfgang-becker-gestorben-eine-hommage-a-cc381e65-0938-4315-92df-c69d66842845#ref=rss)
+### becker
+
+* [https://www.spiegel.de/kultur/good-bye-lenin-regisseur-wolfgang-becker-gestorben-eine-hommage](https://www.spiegel.de/kultur/good-bye-lenin-regisseur-wolfgang-becker-gestorben-eine-hommage-a-cc381e65-0938-4315-92df-c69d66842845#ref=rss)
+### good
+
+* [https://www.spiegel.de/kultur/good-bye-lenin-regisseur-wolfgang-becker-gestorben-eine-hommage](https://www.spiegel.de/kultur/good-bye-lenin-regisseur-wolfgang-becker-gestorben-eine-hommage-a-cc381e65-0938-4315-92df-c69d66842845#ref=rss)
+### bye
+
+* [https://www.spiegel.de/kultur/good-bye-lenin-regisseur-wolfgang-becker-gestorben-eine-hommage](https://www.spiegel.de/kultur/good-bye-lenin-regisseur-wolfgang-becker-gestorben-eine-hommage-a-cc381e65-0938-4315-92df-c69d66842845#ref=rss)
+### gestorben
+
+* [https://www.spiegel.de/kultur/good-bye-lenin-regisseur-wolfgang-becker-gestorben-eine-hommage](https://www.spiegel.de/kultur/good-bye-lenin-regisseur-wolfgang-becker-gestorben-eine-hommage-a-cc381e65-0938-4315-92df-c69d66842845#ref=rss)
+### filme
+
+* [https://www.spiegel.de/kultur/good-bye-lenin-regisseur-wolfgang-becker-gestorben-eine-hommage](https://www.spiegel.de/kultur/good-bye-lenin-regisseur-wolfgang-becker-gestorben-eine-hommage-a-cc381e65-0938-4315-92df-c69d66842845#ref=rss)
 
