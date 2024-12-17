@@ -4,383 +4,370 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### neuen
+### millionen
 
-* [https://www.spiegel.de/wirtschaft/bundestagswahlkampf-robert-habeck-will-neuen-kurs-in-der-wirtschafts-und-finanzpolitik](https://www.spiegel.de/wirtschaft/bundestagswahlkampf-robert-habeck-will-neuen-kurs-in-der-wirtschafts-und-finanzpolitik-a-1de9e0d6-c8c0-4426-a13a-62641b61bbf6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/arbeitsmarkt-in-deutschland-loehne-duerften-2025-in-vielen-unternehmen-spuerbar-steigen](https://www.spiegel.de/wirtschaft/arbeitsmarkt-in-deutschland-loehne-duerften-2025-in-vielen-unternehmen-spuerbar-steigen-a-9e7f0af3-f325-46b3-b37e-9a5c5320523c#ref=rss)
-* [https://www.spiegel.de/familie/weihnachten-wie-uebersteht-man-die-feiertage-ohne-familienstreit](https://www.spiegel.de/familie/weihnachten-wie-uebersteht-man-die-feiertage-ohne-familienstreit-a-44a30fc5-b829-4b2e-af87-1684509e78c4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-olaf-scholz-vertrauensfrage-ursula-von-der-leyen-tuerkei-recep-tayyip-erdogan-zerstoerung-in-gaza](https://www.spiegel.de/politik/deutschland/news-olaf-scholz-vertrauensfrage-ursula-von-der-leyen-tuerkei-recep-tayyip-erdogan-zerstoerung-in-gaza-a-613e2211-add4-482b-a243-2c0cd449038e#ref=rss)
-### erste
-
-* [https://www.spiegel.de/sport/noa-lynn-van-leuven-bei-der-darts-wm-2025-erste-trans-frau-bei-wm-will-einfach-nur-spielen](https://www.spiegel.de/sport/noa-lynn-van-leuven-bei-der-darts-wm-2025-erste-trans-frau-bei-wm-will-einfach-nur-spielen-a-de46c919-0e65-4f84-b4d6-61a4b03ce1d7#ref=rss)
-* [https://www.spiegel.de/panorama/leute/meghan-und-harry-zeigen-ihre-kinder-auf-offizieller-weihnachtskarte](https://www.spiegel.de/panorama/leute/meghan-und-harry-zeigen-ihre-kinder-auf-offizieller-weihnachtskarte-a-082dbcef-3353-42ff-8f9e-bc3cfdda6e21#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/syrien-deutsche-delegation-fuehrt-erste-gespraeche-mit-hts-vertretern](https://www.spiegel.de/politik/deutschland/syrien-deutsche-delegation-fuehrt-erste-gespraeche-mit-hts-vertretern-a-1842638f-0474-46d4-b229-170bb70a38ff#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/bahn-polizei-stoppt-ice-in-bayern-nach-todesdrohung](https://www.spiegel.de/panorama/bahn-polizei-stoppt-ice-in-bayern-nach-todesdrohung-a-d2a60784-25fc-4bae-86ca-1dab61a56ee2#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mouhamed-drame-staatsanwaltschaft-legt-revision-gegen-einsatzleiter-freispruch-ein](https://www.spiegel.de/panorama/justiz/mouhamed-drame-staatsanwaltschaft-legt-revision-gegen-einsatzleiter-freispruch-ein-a-4650643f-5188-40a7-8f67-273003e9bed6#ref=rss)
-* [https://www.spiegel.de/panorama/schuesse-an-schule-in-wisconsin-polizei-nennt-15-jaehrige-schuelerin-als-mutmassliche-todesschuetzin-von-madison](https://www.spiegel.de/panorama/schuesse-an-schule-in-wisconsin-polizei-nennt-15-jaehrige-schuelerin-als-mutmassliche-todesschuetzin-von-madison-a-dd676f31-f9b6-4932-a699-a1354f432251#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wirtschaft/bundestagswahlkampf-robert-habeck-will-neuen-kurs-in-der-wirtschafts-und-finanzpolitik](https://www.spiegel.de/wirtschaft/bundestagswahlkampf-robert-habeck-will-neuen-kurs-in-der-wirtschafts-und-finanzpolitik-a-1de9e0d6-c8c0-4426-a13a-62641b61bbf6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-in-deutschland-jeden-job-zu-retten-ist-falsch-kommentar](https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-in-deutschland-jeden-job-zu-retten-ist-falsch-kommentar-a-ce98ecc1-5605-4e09-84a4-82c4080f48cb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/arbeitsmarkt-in-deutschland-loehne-duerften-2025-in-vielen-unternehmen-spuerbar-steigen](https://www.spiegel.de/wirtschaft/arbeitsmarkt-in-deutschland-loehne-duerften-2025-in-vielen-unternehmen-spuerbar-steigen-a-9e7f0af3-f325-46b3-b37e-9a5c5320523c#ref=rss)
-### 2025
-
-* [https://www.spiegel.de/sport/noa-lynn-van-leuven-bei-der-darts-wm-2025-erste-trans-frau-bei-wm-will-einfach-nur-spielen](https://www.spiegel.de/sport/noa-lynn-van-leuven-bei-der-darts-wm-2025-erste-trans-frau-bei-wm-will-einfach-nur-spielen-a-de46c919-0e65-4f84-b4d6-61a4b03ce1d7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/arbeitsmarkt-in-deutschland-loehne-duerften-2025-in-vielen-unternehmen-spuerbar-steigen](https://www.spiegel.de/wirtschaft/arbeitsmarkt-in-deutschland-loehne-duerften-2025-in-vielen-unternehmen-spuerbar-steigen-a-9e7f0af3-f325-46b3-b37e-9a5c5320523c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-tv-duelle-zwischen-olaf-scholz-und-friedrich-merz-sind-terminiert](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-tv-duelle-zwischen-olaf-scholz-und-friedrich-merz-sind-terminiert-a-e00a33d8-6dfe-4e30-99bb-88e8cc0ec275#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/sport/hall-of-fame-des-deutschen-sports-gustav-kilian-karl-adam-und-gustav-schaefer-sollen-ueberprueft-werden](https://www.spiegel.de/sport/hall-of-fame-des-deutschen-sports-gustav-kilian-karl-adam-und-gustav-schaefer-sollen-ueberprueft-werden-a-1f63c0f9-6fa1-4451-8a27-1c26f3f715b8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ifo-index-unternehmen-beurteilen-ihre-aussichten-erneut-schlechter](https://www.spiegel.de/wirtschaft/ifo-index-unternehmen-beurteilen-ihre-aussichten-erneut-schlechter-a-cbed93de-0ec9-4838-93e0-c33e64d28a05#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/panorama/leute/meghan-und-harry-zeigen-ihre-kinder-auf-offizieller-weihnachtskarte](https://www.spiegel.de/panorama/leute/meghan-und-harry-zeigen-ihre-kinder-auf-offizieller-weihnachtskarte-a-082dbcef-3353-42ff-8f9e-bc3cfdda6e21#ref=rss)
-* [https://www.spiegel.de/familie/weihnachten-wie-uebersteht-man-die-feiertage-ohne-familienstreit](https://www.spiegel.de/familie/weihnachten-wie-uebersteht-man-die-feiertage-ohne-familienstreit-a-44a30fc5-b829-4b2e-af87-1684509e78c4#ref=rss)
-### unternehmen
-
-* [https://www.spiegel.de/wirtschaft/ifo-index-unternehmen-beurteilen-ihre-aussichten-erneut-schlechter](https://www.spiegel.de/wirtschaft/ifo-index-unternehmen-beurteilen-ihre-aussichten-erneut-schlechter-a-cbed93de-0ec9-4838-93e0-c33e64d28a05#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-in-deutschland-jeden-job-zu-retten-ist-falsch-kommentar](https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-in-deutschland-jeden-job-zu-retten-ist-falsch-kommentar-a-ce98ecc1-5605-4e09-84a4-82c4080f48cb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/arbeitsmarkt-in-deutschland-loehne-duerften-2025-in-vielen-unternehmen-spuerbar-steigen](https://www.spiegel.de/wirtschaft/arbeitsmarkt-in-deutschland-loehne-duerften-2025-in-vielen-unternehmen-spuerbar-steigen-a-9e7f0af3-f325-46b3-b37e-9a5c5320523c#ref=rss)
-### syrien
-
-* [https://www.spiegel.de/politik/deutschland/syrien-deutsche-delegation-fuehrt-erste-gespraeche-mit-hts-vertretern](https://www.spiegel.de/politik/deutschland/syrien-deutsche-delegation-fuehrt-erste-gespraeche-mit-hts-vertretern-a-1842638f-0474-46d4-b229-170bb70a38ff#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-olaf-scholz-vertrauensfrage-ursula-von-der-leyen-tuerkei-recep-tayyip-erdogan-zerstoerung-in-gaza](https://www.spiegel.de/politik/deutschland/news-olaf-scholz-vertrauensfrage-ursula-von-der-leyen-tuerkei-recep-tayyip-erdogan-zerstoerung-in-gaza-a-613e2211-add4-482b-a243-2c0cd449038e#ref=rss)
-### russlands
-
-* [https://www.spiegel.de/ausland/ukraine-und-usa-melden-nordkoreanische-verluste-in-russischer-region-kursk](https://www.spiegel.de/ausland/ukraine-und-usa-melden-nordkoreanische-verluste-in-russischer-region-kursk-a-6d1e26ee-97dc-42ff-b4f7-1273dfc2cea0#ref=rss)
-* [https://www.spiegel.de/ausland/igor-kirillow-russischer-generalleutnant-bei-explosion-getoetet](https://www.spiegel.de/ausland/igor-kirillow-russischer-generalleutnant-bei-explosion-getoetet-a-7cf8a2ea-70ad-4d31-86b1-18cb844dea85#ref=rss)
-* [https://www.spiegel.de/ausland/zwoelf-laender-schmieden-pakt-gegen-russlands-schattenflotte](https://www.spiegel.de/ausland/zwoelf-laender-schmieden-pakt-gegen-russlands-schattenflotte-a-5e351552-4b03-4bf8-8d4d-d7bd4cee77d9#ref=rss)
-### neue
-
-* [https://www.spiegel.de/panorama/leute/daniel-craig-will-sich-nicht-von-james-bond-emanzipieren](https://www.spiegel.de/panorama/leute/daniel-craig-will-sich-nicht-von-james-bond-emanzipieren-a-70d9e297-ab73-4d18-a9b7-1a0095f31181#ref=rss)
-* [https://www.spiegel.de/wirtschaft/krankenkasse-wechseln-wie-es-geht-und-worauf-sie-achten-muessen](https://www.spiegel.de/wirtschaft/krankenkasse-wechseln-wie-es-geht-und-worauf-sie-achten-muessen-a-7cef6d0f-4642-4d86-9db8-b79646fdb9ff#ref=rss)
-* [https://www.spiegel.de/panorama/schuesse-an-schule-in-wisconsin-polizei-nennt-15-jaehrige-schuelerin-als-mutmassliche-todesschuetzin-von-madison](https://www.spiegel.de/panorama/schuesse-an-schule-in-wisconsin-polizei-nennt-15-jaehrige-schuelerin-als-mutmassliche-todesschuetzin-von-madison-a-dd676f31-f9b6-4932-a699-a1354f432251#ref=rss)
-### olaf
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-tv-duelle-zwischen-olaf-scholz-und-friedrich-merz-sind-terminiert](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-tv-duelle-zwischen-olaf-scholz-und-friedrich-merz-sind-terminiert-a-e00a33d8-6dfe-4e30-99bb-88e8cc0ec275#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-olaf-scholz-vertrauensfrage-ursula-von-der-leyen-tuerkei-recep-tayyip-erdogan-zerstoerung-in-gaza](https://www.spiegel.de/politik/deutschland/news-olaf-scholz-vertrauensfrage-ursula-von-der-leyen-tuerkei-recep-tayyip-erdogan-zerstoerung-in-gaza-a-613e2211-add4-482b-a243-2c0cd449038e#ref=rss)
-### scholz
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-tv-duelle-zwischen-olaf-scholz-und-friedrich-merz-sind-terminiert](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-tv-duelle-zwischen-olaf-scholz-und-friedrich-merz-sind-terminiert-a-e00a33d8-6dfe-4e30-99bb-88e8cc0ec275#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-olaf-scholz-vertrauensfrage-ursula-von-der-leyen-tuerkei-recep-tayyip-erdogan-zerstoerung-in-gaza](https://www.spiegel.de/politik/deutschland/news-olaf-scholz-vertrauensfrage-ursula-von-der-leyen-tuerkei-recep-tayyip-erdogan-zerstoerung-in-gaza-a-613e2211-add4-482b-a243-2c0cd449038e#ref=rss)
-### wir
-
-* [https://www.spiegel.de/kultur/musik/taylor-swift-wie-wir-versuchten-ein-interview-mit-dem-popstar-zu-bekommen-und-scheiterten](https://www.spiegel.de/kultur/musik/taylor-swift-wie-wir-versuchten-ein-interview-mit-dem-popstar-zu-bekommen-und-scheiterten-a-86430cb9-4132-47d5-8d9d-182878c59638#ref=rss)
-### robert
-
-* [https://www.spiegel.de/wirtschaft/bundestagswahlkampf-robert-habeck-will-neuen-kurs-in-der-wirtschafts-und-finanzpolitik](https://www.spiegel.de/wirtschaft/bundestagswahlkampf-robert-habeck-will-neuen-kurs-in-der-wirtschafts-und-finanzpolitik-a-1de9e0d6-c8c0-4426-a13a-62641b61bbf6#ref=rss)
-### habeck
-
-* [https://www.spiegel.de/wirtschaft/bundestagswahlkampf-robert-habeck-will-neuen-kurs-in-der-wirtschafts-und-finanzpolitik](https://www.spiegel.de/wirtschaft/bundestagswahlkampf-robert-habeck-will-neuen-kurs-in-der-wirtschafts-und-finanzpolitik-a-1de9e0d6-c8c0-4426-a13a-62641b61bbf6#ref=rss)
-### land
-
-* [https://www.spiegel.de/wirtschaft/bundestagswahlkampf-robert-habeck-will-neuen-kurs-in-der-wirtschafts-und-finanzpolitik](https://www.spiegel.de/wirtschaft/bundestagswahlkampf-robert-habeck-will-neuen-kurs-in-der-wirtschafts-und-finanzpolitik-a-1de9e0d6-c8c0-4426-a13a-62641b61bbf6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/syrien-deutsche-delegation-fuehrt-erste-gespraeche-mit-hts-vertretern](https://www.spiegel.de/politik/deutschland/syrien-deutsche-delegation-fuehrt-erste-gespraeche-mit-hts-vertretern-a-1842638f-0474-46d4-b229-170bb70a38ff#ref=rss)
-### noalynn
-
-* [https://www.spiegel.de/sport/noa-lynn-van-leuven-bei-der-darts-wm-2025-erste-trans-frau-bei-wm-will-einfach-nur-spielen](https://www.spiegel.de/sport/noa-lynn-van-leuven-bei-der-darts-wm-2025-erste-trans-frau-bei-wm-will-einfach-nur-spielen-a-de46c919-0e65-4f84-b4d6-61a4b03ce1d7#ref=rss)
-### van
-
-* [https://www.spiegel.de/sport/noa-lynn-van-leuven-bei-der-darts-wm-2025-erste-trans-frau-bei-wm-will-einfach-nur-spielen](https://www.spiegel.de/sport/noa-lynn-van-leuven-bei-der-darts-wm-2025-erste-trans-frau-bei-wm-will-einfach-nur-spielen-a-de46c919-0e65-4f84-b4d6-61a4b03ce1d7#ref=rss)
-### leuven
-
-* [https://www.spiegel.de/sport/noa-lynn-van-leuven-bei-der-darts-wm-2025-erste-trans-frau-bei-wm-will-einfach-nur-spielen](https://www.spiegel.de/sport/noa-lynn-van-leuven-bei-der-darts-wm-2025-erste-trans-frau-bei-wm-will-einfach-nur-spielen-a-de46c919-0e65-4f84-b4d6-61a4b03ce1d7#ref=rss)
-### dartswm
-
-* [https://www.spiegel.de/sport/noa-lynn-van-leuven-bei-der-darts-wm-2025-erste-trans-frau-bei-wm-will-einfach-nur-spielen](https://www.spiegel.de/sport/noa-lynn-van-leuven-bei-der-darts-wm-2025-erste-trans-frau-bei-wm-will-einfach-nur-spielen-a-de46c919-0e65-4f84-b4d6-61a4b03ce1d7#ref=rss)
-### trans
-
-* [https://www.spiegel.de/sport/noa-lynn-van-leuven-bei-der-darts-wm-2025-erste-trans-frau-bei-wm-will-einfach-nur-spielen](https://www.spiegel.de/sport/noa-lynn-van-leuven-bei-der-darts-wm-2025-erste-trans-frau-bei-wm-will-einfach-nur-spielen-a-de46c919-0e65-4f84-b4d6-61a4b03ce1d7#ref=rss)
-### frau
-
-* [https://www.spiegel.de/sport/noa-lynn-van-leuven-bei-der-darts-wm-2025-erste-trans-frau-bei-wm-will-einfach-nur-spielen](https://www.spiegel.de/sport/noa-lynn-van-leuven-bei-der-darts-wm-2025-erste-trans-frau-bei-wm-will-einfach-nur-spielen-a-de46c919-0e65-4f84-b4d6-61a4b03ce1d7#ref=rss)
-### christoph
-
-* [https://www.spiegel.de/reise/christoph-niemann-ueber-away-eine-stadt-ist-fuer-mich-der-schoenste-urwald](https://www.spiegel.de/reise/christoph-niemann-ueber-away-eine-stadt-ist-fuer-mich-der-schoenste-urwald-a-2c5baea3-03c5-48b2-98dc-40ba6064fa75#ref=rss)
-### niemann
-
-* [https://www.spiegel.de/reise/christoph-niemann-ueber-away-eine-stadt-ist-fuer-mich-der-schoenste-urwald](https://www.spiegel.de/reise/christoph-niemann-ueber-away-eine-stadt-ist-fuer-mich-der-schoenste-urwald-a-2c5baea3-03c5-48b2-98dc-40ba6064fa75#ref=rss)
-### ice
-
-* [https://www.spiegel.de/panorama/bahn-polizei-stoppt-ice-in-bayern-nach-todesdrohung](https://www.spiegel.de/panorama/bahn-polizei-stoppt-ice-in-bayern-nach-todesdrohung-a-d2a60784-25fc-4bae-86ca-1dab61a56ee2#ref=rss)
-### hall
-
-* [https://www.spiegel.de/sport/hall-of-fame-des-deutschen-sports-gustav-kilian-karl-adam-und-gustav-schaefer-sollen-ueberprueft-werden](https://www.spiegel.de/sport/hall-of-fame-des-deutschen-sports-gustav-kilian-karl-adam-und-gustav-schaefer-sollen-ueberprueft-werden-a-1f63c0f9-6fa1-4451-8a27-1c26f3f715b8#ref=rss)
-### of
-
-* [https://www.spiegel.de/sport/hall-of-fame-des-deutschen-sports-gustav-kilian-karl-adam-und-gustav-schaefer-sollen-ueberprueft-werden](https://www.spiegel.de/sport/hall-of-fame-des-deutschen-sports-gustav-kilian-karl-adam-und-gustav-schaefer-sollen-ueberprueft-werden-a-1f63c0f9-6fa1-4451-8a27-1c26f3f715b8#ref=rss)
-### fame
-
-* [https://www.spiegel.de/sport/hall-of-fame-des-deutschen-sports-gustav-kilian-karl-adam-und-gustav-schaefer-sollen-ueberprueft-werden](https://www.spiegel.de/sport/hall-of-fame-des-deutschen-sports-gustav-kilian-karl-adam-und-gustav-schaefer-sollen-ueberprueft-werden-a-1f63c0f9-6fa1-4451-8a27-1c26f3f715b8#ref=rss)
-### sports
-
-* [https://www.spiegel.de/sport/hall-of-fame-des-deutschen-sports-gustav-kilian-karl-adam-und-gustav-schaefer-sollen-ueberprueft-werden](https://www.spiegel.de/sport/hall-of-fame-des-deutschen-sports-gustav-kilian-karl-adam-und-gustav-schaefer-sollen-ueberprueft-werden-a-1f63c0f9-6fa1-4451-8a27-1c26f3f715b8#ref=rss)
-### gustav
-
-* [https://www.spiegel.de/sport/hall-of-fame-des-deutschen-sports-gustav-kilian-karl-adam-und-gustav-schaefer-sollen-ueberprueft-werden](https://www.spiegel.de/sport/hall-of-fame-des-deutschen-sports-gustav-kilian-karl-adam-und-gustav-schaefer-sollen-ueberprueft-werden-a-1f63c0f9-6fa1-4451-8a27-1c26f3f715b8#ref=rss)
-### drei
-
-* [https://www.spiegel.de/sport/hall-of-fame-des-deutschen-sports-gustav-kilian-karl-adam-und-gustav-schaefer-sollen-ueberprueft-werden](https://www.spiegel.de/sport/hall-of-fame-des-deutschen-sports-gustav-kilian-karl-adam-und-gustav-schaefer-sollen-ueberprueft-werden-a-1f63c0f9-6fa1-4451-8a27-1c26f3f715b8#ref=rss)
-* [https://www.spiegel.de/panorama/schuesse-an-schule-in-wisconsin-polizei-nennt-15-jaehrige-schuelerin-als-mutmassliche-todesschuetzin-von-madison](https://www.spiegel.de/panorama/schuesse-an-schule-in-wisconsin-polizei-nennt-15-jaehrige-schuelerin-als-mutmassliche-todesschuetzin-von-madison-a-dd676f31-f9b6-4932-a699-a1354f432251#ref=rss)
-### beziehungen
-
-* [https://www.spiegel.de/sport/hall-of-fame-des-deutschen-sports-gustav-kilian-karl-adam-und-gustav-schaefer-sollen-ueberprueft-werden](https://www.spiegel.de/sport/hall-of-fame-des-deutschen-sports-gustav-kilian-karl-adam-und-gustav-schaefer-sollen-ueberprueft-werden-a-1f63c0f9-6fa1-4451-8a27-1c26f3f715b8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/syrien-deutsche-delegation-fuehrt-erste-gespraeche-mit-hts-vertretern](https://www.spiegel.de/politik/deutschland/syrien-deutsche-delegation-fuehrt-erste-gespraeche-mit-hts-vertretern-a-1842638f-0474-46d4-b229-170bb70a38ff#ref=rss)
-### meghan
-
-* [https://www.spiegel.de/panorama/leute/meghan-und-harry-zeigen-ihre-kinder-auf-offizieller-weihnachtskarte](https://www.spiegel.de/panorama/leute/meghan-und-harry-zeigen-ihre-kinder-auf-offizieller-weihnachtskarte-a-082dbcef-3353-42ff-8f9e-bc3cfdda6e21#ref=rss)
-### harry
-
-* [https://www.spiegel.de/panorama/leute/meghan-und-harry-zeigen-ihre-kinder-auf-offizieller-weihnachtskarte](https://www.spiegel.de/panorama/leute/meghan-und-harry-zeigen-ihre-kinder-auf-offizieller-weihnachtskarte-a-082dbcef-3353-42ff-8f9e-bc3cfdda6e21#ref=rss)
-### einblick
-
-* [https://www.spiegel.de/panorama/leute/meghan-und-harry-zeigen-ihre-kinder-auf-offizieller-weihnachtskarte](https://www.spiegel.de/panorama/leute/meghan-und-harry-zeigen-ihre-kinder-auf-offizieller-weihnachtskarte-a-082dbcef-3353-42ff-8f9e-bc3cfdda6e21#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/asmr-miss-mi-und-karsten-aka-losthistorie-so-lebt-es-sich-als-nischenstar](https://www.spiegel.de/netzwelt/web/asmr-miss-mi-und-karsten-aka-losthistorie-so-lebt-es-sich-als-nischenstar-a-6ee4d2ca-9b80-49fd-9281-a61ffb907d65#ref=rss)
-### leben
-
-* [https://www.spiegel.de/panorama/leute/meghan-und-harry-zeigen-ihre-kinder-auf-offizieller-weihnachtskarte](https://www.spiegel.de/panorama/leute/meghan-und-harry-zeigen-ihre-kinder-auf-offizieller-weihnachtskarte-a-082dbcef-3353-42ff-8f9e-bc3cfdda6e21#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/asmr-miss-mi-und-karsten-aka-losthistorie-so-lebt-es-sich-als-nischenstar](https://www.spiegel.de/netzwelt/web/asmr-miss-mi-und-karsten-aka-losthistorie-so-lebt-es-sich-als-nischenstar-a-6ee4d2ca-9b80-49fd-9281-a61ffb907d65#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/meta-sicherheitsluecke-kostet-facebook-mutterkonzern-251-millionen-euro](https://www.spiegel.de/netzwelt/web/meta-sicherheitsluecke-kostet-facebook-mutterkonzern-251-millionen-euro-a-dbb92caa-72e0-44ab-a310-6c789b23012b#ref=rss)
+* [https://www.spiegel.de/ausland/assad-sturz-eu-zahlt-der-tuerkei-eine-extra-milliarde-fuer-fluechtlinge](https://www.spiegel.de/ausland/assad-sturz-eu-zahlt-der-tuerkei-eine-extra-milliarde-fuer-fluechtlinge-a-2c9ea86a-f9cd-4a48-92e8-e6044a2e498b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/michael-schumacher-staatsanwaltschaft-ermittelt-gegen-fruehere-krankenschwester-des-rennfahrers](https://www.spiegel.de/panorama/justiz/michael-schumacher-staatsanwaltschaft-ermittelt-gegen-fruehere-krankenschwester-des-rennfahrers-a-d6962898-9d30-4fa7-8c77-20607a2a7e70#ref=rss)
 ### unter
 
-* [https://www.spiegel.de/panorama/leute/meghan-und-harry-zeigen-ihre-kinder-auf-offizieller-weihnachtskarte](https://www.spiegel.de/panorama/leute/meghan-und-harry-zeigen-ihre-kinder-auf-offizieller-weihnachtskarte-a-082dbcef-3353-42ff-8f9e-bc3cfdda6e21#ref=rss)
-* [https://www.spiegel.de/ausland/zwoelf-laender-schmieden-pakt-gegen-russlands-schattenflotte](https://www.spiegel.de/ausland/zwoelf-laender-schmieden-pakt-gegen-russlands-schattenflotte-a-5e351552-4b03-4bf8-8d4d-d7bd4cee77d9#ref=rss)
-### beiden
+* [https://www.spiegel.de/panorama/rottweil-schuss-auf-zwoelfjaehrigen-14-jaehriger-jugendlicher-unter-tatverdacht](https://www.spiegel.de/panorama/rottweil-schuss-auf-zwoelfjaehrigen-14-jaehriger-jugendlicher-unter-tatverdacht-a-f7e10651-c6aa-45cd-ad87-ae419d517280#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-anschlag-auf-russischen-general-clarissa-ward-michael-schumacher](https://www.spiegel.de/politik/deutschland/news-des-tages-anschlag-auf-russischen-general-clarissa-ward-michael-schumacher-a-82d9223c-0d5e-4db6-bcfd-e94545670160#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/huk-coburg-uebernimmt-werkstattkette-pitstop](https://www.spiegel.de/wirtschaft/service/huk-coburg-uebernimmt-werkstattkette-pitstop-a-41dc8155-af42-4677-93f4-b664d68065a3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/potsdam-staatsanwaltschaft-stellt-ermittlungen-gegen-ob-mike-schubert-ein](https://www.spiegel.de/politik/deutschland/potsdam-staatsanwaltschaft-stellt-ermittlungen-gegen-ob-mike-schubert-ein-a-0165109a-b865-4539-ac1d-80c7fd1d024a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-super-league-heisst-jetzt-unify-league](https://www.spiegel.de/sport/fussball/fussball-super-league-heisst-jetzt-unify-league-a-bc3be3c1-2738-4b5c-a9c8-f6d1efa02f2c#ref=rss)
+### zeigt
 
-* [https://www.spiegel.de/panorama/leute/meghan-und-harry-zeigen-ihre-kinder-auf-offizieller-weihnachtskarte](https://www.spiegel.de/panorama/leute/meghan-und-harry-zeigen-ihre-kinder-auf-offizieller-weihnachtskarte-a-082dbcef-3353-42ff-8f9e-bc3cfdda6e21#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-tv-duelle-zwischen-olaf-scholz-und-friedrich-merz-sind-terminiert](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-tv-duelle-zwischen-olaf-scholz-und-friedrich-merz-sind-terminiert-a-e00a33d8-6dfe-4e30-99bb-88e8cc0ec275#ref=rss)
-### 2022
-
-* [https://www.spiegel.de/panorama/leute/meghan-und-harry-zeigen-ihre-kinder-auf-offizieller-weihnachtskarte](https://www.spiegel.de/panorama/leute/meghan-und-harry-zeigen-ihre-kinder-auf-offizieller-weihnachtskarte-a-082dbcef-3353-42ff-8f9e-bc3cfdda6e21#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-ademola-lookman-und-barbra-banda-sind-afrikas-fussballer-und-fussballerin-des-jahres-2024](https://www.spiegel.de/sport/fussball/fussball-ademola-lookman-und-barbra-banda-sind-afrikas-fussballer-und-fussballerin-des-jahres-2024-a-14e9b6b2-f69d-4be2-9381-9d74f8574059#ref=rss)
-### wirtschaft
-
-* [https://www.spiegel.de/wirtschaft/ifo-index-unternehmen-beurteilen-ihre-aussichten-erneut-schlechter](https://www.spiegel.de/wirtschaft/ifo-index-unternehmen-beurteilen-ihre-aussichten-erneut-schlechter-a-cbed93de-0ec9-4838-93e0-c33e64d28a05#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-in-deutschland-jeden-job-zu-retten-ist-falsch-kommentar](https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-in-deutschland-jeden-job-zu-retten-ist-falsch-kommentar-a-ce98ecc1-5605-4e09-84a4-82c4080f48cb#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/politik/deutschland/syrien-deutsche-delegation-fuehrt-erste-gespraeche-mit-hts-vertretern](https://www.spiegel.de/politik/deutschland/syrien-deutsche-delegation-fuehrt-erste-gespraeche-mit-hts-vertretern-a-1842638f-0474-46d4-b229-170bb70a38ff#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-in-deutschland-jeden-job-zu-retten-ist-falsch-kommentar](https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-in-deutschland-jeden-job-zu-retten-ist-falsch-kommentar-a-ce98ecc1-5605-4e09-84a4-82c4080f48cb#ref=rss)
-### erstmals
-
-* [https://www.spiegel.de/politik/deutschland/syrien-deutsche-delegation-fuehrt-erste-gespraeche-mit-hts-vertretern](https://www.spiegel.de/politik/deutschland/syrien-deutsche-delegation-fuehrt-erste-gespraeche-mit-hts-vertretern-a-1842638f-0474-46d4-b229-170bb70a38ff#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-und-usa-melden-nordkoreanische-verluste-in-russischer-region-kursk](https://www.spiegel.de/ausland/ukraine-und-usa-melden-nordkoreanische-verluste-in-russischer-region-kursk-a-6d1e26ee-97dc-42ff-b4f7-1273dfc2cea0#ref=rss)
-### ademola
-
-* [https://www.spiegel.de/sport/fussball/fussball-ademola-lookman-und-barbra-banda-sind-afrikas-fussballer-und-fussballerin-des-jahres-2024](https://www.spiegel.de/sport/fussball/fussball-ademola-lookman-und-barbra-banda-sind-afrikas-fussballer-und-fussballerin-des-jahres-2024-a-14e9b6b2-f69d-4be2-9381-9d74f8574059#ref=rss)
-### lookman
-
-* [https://www.spiegel.de/sport/fussball/fussball-ademola-lookman-und-barbra-banda-sind-afrikas-fussballer-und-fussballerin-des-jahres-2024](https://www.spiegel.de/sport/fussball/fussball-ademola-lookman-und-barbra-banda-sind-afrikas-fussballer-und-fussballerin-des-jahres-2024-a-14e9b6b2-f69d-4be2-9381-9d74f8574059#ref=rss)
-### barbra
-
-* [https://www.spiegel.de/sport/fussball/fussball-ademola-lookman-und-barbra-banda-sind-afrikas-fussballer-und-fussballerin-des-jahres-2024](https://www.spiegel.de/sport/fussball/fussball-ademola-lookman-und-barbra-banda-sind-afrikas-fussballer-und-fussballerin-des-jahres-2024-a-14e9b6b2-f69d-4be2-9381-9d74f8574059#ref=rss)
-### banda
-
-* [https://www.spiegel.de/sport/fussball/fussball-ademola-lookman-und-barbra-banda-sind-afrikas-fussballer-und-fussballerin-des-jahres-2024](https://www.spiegel.de/sport/fussball/fussball-ademola-lookman-und-barbra-banda-sind-afrikas-fussballer-und-fussballerin-des-jahres-2024-a-14e9b6b2-f69d-4be2-9381-9d74f8574059#ref=rss)
-### fußballer
-
-* [https://www.spiegel.de/sport/fussball/fussball-ademola-lookman-und-barbra-banda-sind-afrikas-fussballer-und-fussballerin-des-jahres-2024](https://www.spiegel.de/sport/fussball/fussball-ademola-lookman-und-barbra-banda-sind-afrikas-fussballer-und-fussballerin-des-jahres-2024-a-14e9b6b2-f69d-4be2-9381-9d74f8574059#ref=rss)
-### 2024
-
-* [https://www.spiegel.de/sport/fussball/fussball-ademola-lookman-und-barbra-banda-sind-afrikas-fussballer-und-fussballerin-des-jahres-2024](https://www.spiegel.de/sport/fussball/fussball-ademola-lookman-und-barbra-banda-sind-afrikas-fussballer-und-fussballerin-des-jahres-2024-a-14e9b6b2-f69d-4be2-9381-9d74f8574059#ref=rss)
-### europa
-
-* [https://www.spiegel.de/sport/fussball/fussball-ademola-lookman-und-barbra-banda-sind-afrikas-fussballer-und-fussballerin-des-jahres-2024](https://www.spiegel.de/sport/fussball/fussball-ademola-lookman-und-barbra-banda-sind-afrikas-fussballer-und-fussballerin-des-jahres-2024-a-14e9b6b2-f69d-4be2-9381-9d74f8574059#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-olaf-scholz-vertrauensfrage-ursula-von-der-leyen-tuerkei-recep-tayyip-erdogan-zerstoerung-in-gaza](https://www.spiegel.de/politik/deutschland/news-olaf-scholz-vertrauensfrage-ursula-von-der-leyen-tuerkei-recep-tayyip-erdogan-zerstoerung-in-gaza-a-613e2211-add4-482b-a243-2c0cd449038e#ref=rss)
-### afrikanische
-
-* [https://www.spiegel.de/sport/fussball/fussball-ademola-lookman-und-barbra-banda-sind-afrikas-fussballer-und-fussballerin-des-jahres-2024](https://www.spiegel.de/sport/fussball/fussball-ademola-lookman-und-barbra-banda-sind-afrikas-fussballer-und-fussballerin-des-jahres-2024-a-14e9b6b2-f69d-4be2-9381-9d74f8574059#ref=rss)
-### job
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-in-deutschland-jeden-job-zu-retten-ist-falsch-kommentar](https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-in-deutschland-jeden-job-zu-retten-ist-falsch-kommentar-a-ce98ecc1-5605-4e09-84a4-82c4080f48cb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/arbeitsmarkt-in-deutschland-loehne-duerften-2025-in-vielen-unternehmen-spuerbar-steigen](https://www.spiegel.de/wirtschaft/arbeitsmarkt-in-deutschland-loehne-duerften-2025-in-vielen-unternehmen-spuerbar-steigen-a-9e7f0af3-f325-46b3-b37e-9a5c5320523c#ref=rss)
-### tausende
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-in-deutschland-jeden-job-zu-retten-ist-falsch-kommentar](https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-in-deutschland-jeden-job-zu-retten-ist-falsch-kommentar-a-ce98ecc1-5605-4e09-84a4-82c4080f48cb#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-und-usa-melden-nordkoreanische-verluste-in-russischer-region-kursk](https://www.spiegel.de/ausland/ukraine-und-usa-melden-nordkoreanische-verluste-in-russischer-region-kursk-a-6d1e26ee-97dc-42ff-b4f7-1273dfc2cea0#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/ukraine-und-usa-melden-nordkoreanische-verluste-in-russischer-region-kursk](https://www.spiegel.de/ausland/ukraine-und-usa-melden-nordkoreanische-verluste-in-russischer-region-kursk-a-6d1e26ee-97dc-42ff-b4f7-1273dfc2cea0#ref=rss)
-### nordkoreanische
-
-* [https://www.spiegel.de/ausland/ukraine-und-usa-melden-nordkoreanische-verluste-in-russischer-region-kursk](https://www.spiegel.de/ausland/ukraine-und-usa-melden-nordkoreanische-verluste-in-russischer-region-kursk-a-6d1e26ee-97dc-42ff-b4f7-1273dfc2cea0#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/ausland/ukraine-und-usa-melden-nordkoreanische-verluste-in-russischer-region-kursk](https://www.spiegel.de/ausland/ukraine-und-usa-melden-nordkoreanische-verluste-in-russischer-region-kursk-a-6d1e26ee-97dc-42ff-b4f7-1273dfc2cea0#ref=rss)
-* [https://www.spiegel.de/ausland/igor-kirillow-russischer-generalleutnant-bei-explosion-getoetet](https://www.spiegel.de/ausland/igor-kirillow-russischer-generalleutnant-bei-explosion-getoetet-a-7cf8a2ea-70ad-4d31-86b1-18cb844dea85#ref=rss)
-### staatsanwaltschaft
-
-* [https://www.spiegel.de/panorama/justiz/mouhamed-drame-staatsanwaltschaft-legt-revision-gegen-einsatzleiter-freispruch-ein](https://www.spiegel.de/panorama/justiz/mouhamed-drame-staatsanwaltschaft-legt-revision-gegen-einsatzleiter-freispruch-ein-a-4650643f-5188-40a7-8f67-273003e9bed6#ref=rss)
-### beamte
-
-* [https://www.spiegel.de/panorama/justiz/mouhamed-drame-staatsanwaltschaft-legt-revision-gegen-einsatzleiter-freispruch-ein](https://www.spiegel.de/panorama/justiz/mouhamed-drame-staatsanwaltschaft-legt-revision-gegen-einsatzleiter-freispruch-ein-a-4650643f-5188-40a7-8f67-273003e9bed6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/nestle-produktion-von-perrier-soll-wegen-gesundheitsrisiken-bedroht-sein](https://www.spiegel.de/wirtschaft/unternehmen/nestle-produktion-von-perrier-soll-wegen-gesundheitsrisiken-bedroht-sein-a-7c0038a5-8024-4668-a795-66d29e736e89#ref=rss)
-### vielen
-
-* [https://www.spiegel.de/wirtschaft/arbeitsmarkt-in-deutschland-loehne-duerften-2025-in-vielen-unternehmen-spuerbar-steigen](https://www.spiegel.de/wirtschaft/arbeitsmarkt-in-deutschland-loehne-duerften-2025-in-vielen-unternehmen-spuerbar-steigen-a-9e7f0af3-f325-46b3-b37e-9a5c5320523c#ref=rss)
-* [https://www.spiegel.de/familie/weihnachten-wie-uebersteht-man-die-feiertage-ohne-familienstreit](https://www.spiegel.de/familie/weihnachten-wie-uebersteht-man-die-feiertage-ohne-familienstreit-a-44a30fc5-b829-4b2e-af87-1684509e78c4#ref=rss)
-### nestlé
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/nestle-produktion-von-perrier-soll-wegen-gesundheitsrisiken-bedroht-sein](https://www.spiegel.de/wirtschaft/unternehmen/nestle-produktion-von-perrier-soll-wegen-gesundheitsrisiken-bedroht-sein-a-7c0038a5-8024-4668-a795-66d29e736e89#ref=rss)
-### produktion
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/nestle-produktion-von-perrier-soll-wegen-gesundheitsrisiken-bedroht-sein](https://www.spiegel.de/wirtschaft/unternehmen/nestle-produktion-von-perrier-soll-wegen-gesundheitsrisiken-bedroht-sein-a-7c0038a5-8024-4668-a795-66d29e736e89#ref=rss)
-### perrier
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/nestle-produktion-von-perrier-soll-wegen-gesundheitsrisiken-bedroht-sein](https://www.spiegel.de/wirtschaft/unternehmen/nestle-produktion-von-perrier-soll-wegen-gesundheitsrisiken-bedroht-sein-a-7c0038a5-8024-4668-a795-66d29e736e89#ref=rss)
+* [https://www.spiegel.de/kultur/mufasa-ein-loewe-gegen-das-patriarchat](https://www.spiegel.de/kultur/mufasa-ein-loewe-gegen-das-patriarchat-a-4dc22552-c997-4f3f-9bdf-e105f10f5bd0#ref=rss)
+* [https://www.spiegel.de/ausland/russland-getoeteter-general-igor-kirillow-ein-dashcam-video-zeigt-den-moment-des-anschlags](https://www.spiegel.de/ausland/russland-getoeteter-general-igor-kirillow-ein-dashcam-video-zeigt-den-moment-des-anschlags-a-13be549b-a45c-4028-8080-71ed443366b8#ref=rss)
+* [https://www.spiegel.de/kultur/nicole-kidman-warnt-vor-verpassten-chancen](https://www.spiegel.de/kultur/nicole-kidman-warnt-vor-verpassten-chancen-a-48b8b27d-d67c-4d7a-b80e-34726cabbc30#ref=rss)
 ### igor
 
-* [https://www.spiegel.de/ausland/igor-kirillow-russischer-generalleutnant-bei-explosion-getoetet](https://www.spiegel.de/ausland/igor-kirillow-russischer-generalleutnant-bei-explosion-getoetet-a-7cf8a2ea-70ad-4d31-86b1-18cb844dea85#ref=rss)
+* [https://www.spiegel.de/ausland/russland-getoeteter-general-igor-kirillow-ein-dashcam-video-zeigt-den-moment-des-anschlags](https://www.spiegel.de/ausland/russland-getoeteter-general-igor-kirillow-ein-dashcam-video-zeigt-den-moment-des-anschlags-a-13be549b-a45c-4028-8080-71ed443366b8#ref=rss)
+* [https://www.spiegel.de/ausland/russland-warum-kiews-geheimdienst-generalleutnant-igor-kirillow-toetete](https://www.spiegel.de/ausland/russland-warum-kiews-geheimdienst-generalleutnant-igor-kirillow-toetete-a-de8786cd-a139-453c-9272-75c33d44195b#ref=rss)
 ### kirillow
 
-* [https://www.spiegel.de/ausland/igor-kirillow-russischer-generalleutnant-bei-explosion-getoetet](https://www.spiegel.de/ausland/igor-kirillow-russischer-generalleutnant-bei-explosion-getoetet-a-7cf8a2ea-70ad-4d31-86b1-18cb844dea85#ref=rss)
+* [https://www.spiegel.de/ausland/russland-getoeteter-general-igor-kirillow-ein-dashcam-video-zeigt-den-moment-des-anschlags](https://www.spiegel.de/ausland/russland-getoeteter-general-igor-kirillow-ein-dashcam-video-zeigt-den-moment-des-anschlags-a-13be549b-a45c-4028-8080-71ed443366b8#ref=rss)
+* [https://www.spiegel.de/ausland/russland-warum-kiews-geheimdienst-generalleutnant-igor-kirillow-toetete](https://www.spiegel.de/ausland/russland-warum-kiews-geheimdienst-generalleutnant-igor-kirillow-toetete-a-de8786cd-a139-453c-9272-75c33d44195b#ref=rss)
+### waren
+
+* [https://www.spiegel.de/wirtschaft/exportueberschuss-deutschland-zuerst-aber-anders-kolumne](https://www.spiegel.de/wirtschaft/exportueberschuss-deutschland-zuerst-aber-anders-kolumne-a-482cb18f-96c2-4071-885b-8989a90550dc#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/meta-sicherheitsluecke-kostet-facebook-mutterkonzern-251-millionen-euro](https://www.spiegel.de/netzwelt/web/meta-sicherheitsluecke-kostet-facebook-mutterkonzern-251-millionen-euro-a-dbb92caa-72e0-44ab-a310-6c789b23012b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/eu-verdacht-auf-geldwaesche-die-raetselhaften-lotto-lose-des-ehemaligen-eu-justizkommissars-didier-reynders](https://www.spiegel.de/wirtschaft/eu-verdacht-auf-geldwaesche-die-raetselhaften-lotto-lose-des-ehemaligen-eu-justizkommissars-didier-reynders-a-1d8cbd52-d53a-49c4-9e24-9d7775c5635c#ref=rss)
+### euro
+
+* [https://www.spiegel.de/netzwelt/web/meta-sicherheitsluecke-kostet-facebook-mutterkonzern-251-millionen-euro](https://www.spiegel.de/netzwelt/web/meta-sicherheitsluecke-kostet-facebook-mutterkonzern-251-millionen-euro-a-dbb92caa-72e0-44ab-a310-6c789b23012b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/michael-schumacher-staatsanwaltschaft-ermittelt-gegen-fruehere-krankenschwester-des-rennfahrers](https://www.spiegel.de/panorama/justiz/michael-schumacher-staatsanwaltschaft-ermittelt-gegen-fruehere-krankenschwester-des-rennfahrers-a-d6962898-9d30-4fa7-8c77-20607a2a7e70#ref=rss)
+### ottavia
+
+* [https://www.spiegel.de/panorama/italien-was-die-rettung-der-verunglueckten-hoehlenforscherin-ottavia-piana-so-kompliziert-macht](https://www.spiegel.de/panorama/italien-was-die-rettung-der-verunglueckten-hoehlenforscherin-ottavia-piana-so-kompliziert-macht-a-c3edd089-88ba-4a2e-b53c-1afc07924d2d#ref=rss)
+* [https://www.spiegel.de/panorama/italien-rettungsaktion-fuer-verletzte-hoehlenforscherin-ottavia-piana-in-600-meter-tiefe](https://www.spiegel.de/panorama/italien-rettungsaktion-fuer-verletzte-hoehlenforscherin-ottavia-piana-in-600-meter-tiefe-a-db5d845c-cf84-4f25-a60c-c4fb81ced6b7#ref=rss)
+### piana
+
+* [https://www.spiegel.de/panorama/italien-was-die-rettung-der-verunglueckten-hoehlenforscherin-ottavia-piana-so-kompliziert-macht](https://www.spiegel.de/panorama/italien-was-die-rettung-der-verunglueckten-hoehlenforscherin-ottavia-piana-so-kompliziert-macht-a-c3edd089-88ba-4a2e-b53c-1afc07924d2d#ref=rss)
+* [https://www.spiegel.de/panorama/italien-rettungsaktion-fuer-verletzte-hoehlenforscherin-ottavia-piana-in-600-meter-tiefe](https://www.spiegel.de/panorama/italien-rettungsaktion-fuer-verletzte-hoehlenforscherin-ottavia-piana-in-600-meter-tiefe-a-db5d845c-cf84-4f25-a60c-c4fb81ced6b7#ref=rss)
+### ermittelt
+
+* [https://www.spiegel.de/panorama/rottweil-schuss-auf-zwoelfjaehrigen-14-jaehriger-jugendlicher-unter-tatverdacht](https://www.spiegel.de/panorama/rottweil-schuss-auf-zwoelfjaehrigen-14-jaehriger-jugendlicher-unter-tatverdacht-a-f7e10651-c6aa-45cd-ad87-ae419d517280#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-verdacht-auf-giftanschlag-frau-in-charite-eingeliefert](https://www.spiegel.de/panorama/justiz/berlin-verdacht-auf-giftanschlag-frau-in-charite-eingeliefert-a-b6eb7b66-430b-4652-98fd-780e8866c658#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/michael-schumacher-staatsanwaltschaft-ermittelt-gegen-fruehere-krankenschwester-des-rennfahrers](https://www.spiegel.de/panorama/justiz/michael-schumacher-staatsanwaltschaft-ermittelt-gegen-fruehere-krankenschwester-des-rennfahrers-a-d6962898-9d30-4fa7-8c77-20607a2a7e70#ref=rss)
+### verdacht
+
+* [https://www.spiegel.de/panorama/justiz/berlin-verdacht-auf-giftanschlag-frau-in-charite-eingeliefert](https://www.spiegel.de/panorama/justiz/berlin-verdacht-auf-giftanschlag-frau-in-charite-eingeliefert-a-b6eb7b66-430b-4652-98fd-780e8866c658#ref=rss)
+* [https://www.spiegel.de/wirtschaft/eu-verdacht-auf-geldwaesche-die-raetselhaften-lotto-lose-des-ehemaligen-eu-justizkommissars-didier-reynders](https://www.spiegel.de/wirtschaft/eu-verdacht-auf-geldwaesche-die-raetselhaften-lotto-lose-des-ehemaligen-eu-justizkommissars-didier-reynders-a-1d8cbd52-d53a-49c4-9e24-9d7775c5635c#ref=rss)
+### russischen
+
+* [https://www.spiegel.de/panorama/justiz/berlin-verdacht-auf-giftanschlag-frau-in-charite-eingeliefert](https://www.spiegel.de/panorama/justiz/berlin-verdacht-auf-giftanschlag-frau-in-charite-eingeliefert-a-b6eb7b66-430b-4652-98fd-780e8866c658#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-anschlag-auf-russischen-general-clarissa-ward-michael-schumacher](https://www.spiegel.de/politik/deutschland/news-des-tages-anschlag-auf-russischen-general-clarissa-ward-michael-schumacher-a-82d9223c-0d5e-4db6-bcfd-e94545670160#ref=rss)
+### michael
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-anschlag-auf-russischen-general-clarissa-ward-michael-schumacher](https://www.spiegel.de/politik/deutschland/news-des-tages-anschlag-auf-russischen-general-clarissa-ward-michael-schumacher-a-82d9223c-0d5e-4db6-bcfd-e94545670160#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/michael-schumacher-staatsanwaltschaft-ermittelt-gegen-fruehere-krankenschwester-des-rennfahrers](https://www.spiegel.de/panorama/justiz/michael-schumacher-staatsanwaltschaft-ermittelt-gegen-fruehere-krankenschwester-des-rennfahrers-a-d6962898-9d30-4fa7-8c77-20607a2a7e70#ref=rss)
+### schumacher
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-anschlag-auf-russischen-general-clarissa-ward-michael-schumacher](https://www.spiegel.de/politik/deutschland/news-des-tages-anschlag-auf-russischen-general-clarissa-ward-michael-schumacher-a-82d9223c-0d5e-4db6-bcfd-e94545670160#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/michael-schumacher-staatsanwaltschaft-ermittelt-gegen-fruehere-krankenschwester-des-rennfahrers](https://www.spiegel.de/panorama/justiz/michael-schumacher-staatsanwaltschaft-ermittelt-gegen-fruehere-krankenschwester-des-rennfahrers-a-d6962898-9d30-4fa7-8c77-20607a2a7e70#ref=rss)
+### moskau
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-anschlag-auf-russischen-general-clarissa-ward-michael-schumacher](https://www.spiegel.de/politik/deutschland/news-des-tages-anschlag-auf-russischen-general-clarissa-ward-michael-schumacher-a-82d9223c-0d5e-4db6-bcfd-e94545670160#ref=rss)
+* [https://www.spiegel.de/ausland/russland-getoeteter-general-igor-kirillow-ein-dashcam-video-zeigt-den-moment-des-anschlags](https://www.spiegel.de/ausland/russland-getoeteter-general-igor-kirillow-ein-dashcam-video-zeigt-den-moment-des-anschlags-a-13be549b-a45c-4028-8080-71ed443366b8#ref=rss)
+* [https://www.spiegel.de/ausland/russland-warum-kiews-geheimdienst-generalleutnant-igor-kirillow-toetete](https://www.spiegel.de/ausland/russland-warum-kiews-geheimdienst-generalleutnant-igor-kirillow-toetete-a-de8786cd-a139-453c-9272-75c33d44195b#ref=rss)
+### eu
+
+* [https://www.spiegel.de/ausland/assad-sturz-eu-zahlt-der-tuerkei-eine-extra-milliarde-fuer-fluechtlinge](https://www.spiegel.de/ausland/assad-sturz-eu-zahlt-der-tuerkei-eine-extra-milliarde-fuer-fluechtlinge-a-2c9ea86a-f9cd-4a48-92e8-e6044a2e498b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/eu-verdacht-auf-geldwaesche-die-raetselhaften-lotto-lose-des-ehemaligen-eu-justizkommissars-didier-reynders](https://www.spiegel.de/wirtschaft/eu-verdacht-auf-geldwaesche-die-raetselhaften-lotto-lose-des-ehemaligen-eu-justizkommissars-didier-reynders-a-1d8cbd52-d53a-49c4-9e24-9d7775c5635c#ref=rss)
+### drei
+
+* [https://www.spiegel.de/ausland/assad-sturz-eu-zahlt-der-tuerkei-eine-extra-milliarde-fuer-fluechtlinge](https://www.spiegel.de/ausland/assad-sturz-eu-zahlt-der-tuerkei-eine-extra-milliarde-fuer-fluechtlinge-a-2c9ea86a-f9cd-4a48-92e8-e6044a2e498b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/potsdam-staatsanwaltschaft-stellt-ermittlungen-gegen-ob-mike-schubert-ein](https://www.spiegel.de/politik/deutschland/potsdam-staatsanwaltschaft-stellt-ermittlungen-gegen-ob-mike-schubert-ein-a-0165109a-b865-4539-ac1d-80c7fd1d024a#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/michael-schumacher-staatsanwaltschaft-ermittelt-gegen-fruehere-krankenschwester-des-rennfahrers](https://www.spiegel.de/panorama/justiz/michael-schumacher-staatsanwaltschaft-ermittelt-gegen-fruehere-krankenschwester-des-rennfahrers-a-d6962898-9d30-4fa7-8c77-20607a2a7e70#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/wirtschaft/eu-verdacht-auf-geldwaesche-die-raetselhaften-lotto-lose-des-ehemaligen-eu-justizkommissars-didier-reynders](https://www.spiegel.de/wirtschaft/eu-verdacht-auf-geldwaesche-die-raetselhaften-lotto-lose-des-ehemaligen-eu-justizkommissars-didier-reynders-a-1d8cbd52-d53a-49c4-9e24-9d7775c5635c#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
 ### geheimdienst
 
-* [https://www.spiegel.de/ausland/igor-kirillow-russischer-generalleutnant-bei-explosion-getoetet](https://www.spiegel.de/ausland/igor-kirillow-russischer-generalleutnant-bei-explosion-getoetet-a-7cf8a2ea-70ad-4d31-86b1-18cb844dea85#ref=rss)
-### daniel
+* [https://www.spiegel.de/ausland/russland-getoeteter-general-igor-kirillow-ein-dashcam-video-zeigt-den-moment-des-anschlags](https://www.spiegel.de/ausland/russland-getoeteter-general-igor-kirillow-ein-dashcam-video-zeigt-den-moment-des-anschlags-a-13be549b-a45c-4028-8080-71ed443366b8#ref=rss)
+* [https://www.spiegel.de/ausland/russland-warum-kiews-geheimdienst-generalleutnant-igor-kirillow-toetete](https://www.spiegel.de/ausland/russland-warum-kiews-geheimdienst-generalleutnant-igor-kirillow-toetete-a-de8786cd-a139-453c-9272-75c33d44195b#ref=rss)
+### league
 
-* [https://www.spiegel.de/panorama/leute/daniel-craig-will-sich-nicht-von-james-bond-emanzipieren](https://www.spiegel.de/panorama/leute/daniel-craig-will-sich-nicht-von-james-bond-emanzipieren-a-70d9e297-ab73-4d18-a9b7-1a0095f31181#ref=rss)
-### craig
+* [https://www.spiegel.de/sport/fussball/fussball-super-league-heisst-jetzt-unify-league](https://www.spiegel.de/sport/fussball/fussball-super-league-heisst-jetzt-unify-league-a-bc3be3c1-2738-4b5c-a9c8-f6d1efa02f2c#ref=rss)
+### mufasa
 
-* [https://www.spiegel.de/panorama/leute/daniel-craig-will-sich-nicht-von-james-bond-emanzipieren](https://www.spiegel.de/panorama/leute/daniel-craig-will-sich-nicht-von-james-bond-emanzipieren-a-70d9e297-ab73-4d18-a9b7-1a0095f31181#ref=rss)
-### james
+* [https://www.spiegel.de/kultur/mufasa-ein-loewe-gegen-das-patriarchat](https://www.spiegel.de/kultur/mufasa-ein-loewe-gegen-das-patriarchat-a-4dc22552-c997-4f3f-9bdf-e105f10f5bd0#ref=rss)
+### brasilien
 
-* [https://www.spiegel.de/panorama/leute/daniel-craig-will-sich-nicht-von-james-bond-emanzipieren](https://www.spiegel.de/panorama/leute/daniel-craig-will-sich-nicht-von-james-bond-emanzipieren-a-70d9e297-ab73-4d18-a9b7-1a0095f31181#ref=rss)
-### bond
+* [https://www.spiegel.de/panorama/justiz/brasilien-deutsche-sollen-maedchen-in-rio-de-janeiro-missbraucht-haben](https://www.spiegel.de/panorama/justiz/brasilien-deutsche-sollen-maedchen-in-rio-de-janeiro-missbraucht-haben-a-67fbbbb5-1107-47d1-8bde-fd984375a431#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-in-brasilien-ronaldo-will-verbandspraesident-werden](https://www.spiegel.de/sport/fussball/fussball-in-brasilien-ronaldo-will-verbandspraesident-werden-a-e2340d25-6142-4184-bd05-f31be09a7f56#ref=rss)
+### mädchen
 
-* [https://www.spiegel.de/panorama/leute/daniel-craig-will-sich-nicht-von-james-bond-emanzipieren](https://www.spiegel.de/panorama/leute/daniel-craig-will-sich-nicht-von-james-bond-emanzipieren-a-70d9e297-ab73-4d18-a9b7-1a0095f31181#ref=rss)
-### vw
+* [https://www.spiegel.de/panorama/justiz/brasilien-deutsche-sollen-maedchen-in-rio-de-janeiro-missbraucht-haben](https://www.spiegel.de/panorama/justiz/brasilien-deutsche-sollen-maedchen-in-rio-de-janeiro-missbraucht-haben-a-67fbbbb5-1107-47d1-8bde-fd984375a431#ref=rss)
+### rio
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/vw-verhandlungen-im-tarifstreit-nach-mitternacht-unterbrochen](https://www.spiegel.de/wirtschaft/unternehmen/vw-verhandlungen-im-tarifstreit-nach-mitternacht-unterbrochen-a-1986113f-6b0b-43bb-9450-4c965024e435#ref=rss)
-### weihnachten
+* [https://www.spiegel.de/panorama/justiz/brasilien-deutsche-sollen-maedchen-in-rio-de-janeiro-missbraucht-haben](https://www.spiegel.de/panorama/justiz/brasilien-deutsche-sollen-maedchen-in-rio-de-janeiro-missbraucht-haben-a-67fbbbb5-1107-47d1-8bde-fd984375a431#ref=rss)
+### de
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/vw-verhandlungen-im-tarifstreit-nach-mitternacht-unterbrochen](https://www.spiegel.de/wirtschaft/unternehmen/vw-verhandlungen-im-tarifstreit-nach-mitternacht-unterbrochen-a-1986113f-6b0b-43bb-9450-4c965024e435#ref=rss)
-* [https://www.spiegel.de/familie/weihnachten-wie-uebersteht-man-die-feiertage-ohne-familienstreit](https://www.spiegel.de/familie/weihnachten-wie-uebersteht-man-die-feiertage-ohne-familienstreit-a-44a30fc5-b829-4b2e-af87-1684509e78c4#ref=rss)
-### miss
+* [https://www.spiegel.de/panorama/justiz/brasilien-deutsche-sollen-maedchen-in-rio-de-janeiro-missbraucht-haben](https://www.spiegel.de/panorama/justiz/brasilien-deutsche-sollen-maedchen-in-rio-de-janeiro-missbraucht-haben-a-67fbbbb5-1107-47d1-8bde-fd984375a431#ref=rss)
+### janeiro
 
-* [https://www.spiegel.de/netzwelt/web/asmr-miss-mi-und-karsten-aka-losthistorie-so-lebt-es-sich-als-nischenstar](https://www.spiegel.de/netzwelt/web/asmr-miss-mi-und-karsten-aka-losthistorie-so-lebt-es-sich-als-nischenstar-a-6ee4d2ca-9b80-49fd-9281-a61ffb907d65#ref=rss)
-### mi
+* [https://www.spiegel.de/panorama/justiz/brasilien-deutsche-sollen-maedchen-in-rio-de-janeiro-missbraucht-haben](https://www.spiegel.de/panorama/justiz/brasilien-deutsche-sollen-maedchen-in-rio-de-janeiro-missbraucht-haben-a-67fbbbb5-1107-47d1-8bde-fd984375a431#ref=rss)
+### missbraucht
 
-* [https://www.spiegel.de/netzwelt/web/asmr-miss-mi-und-karsten-aka-losthistorie-so-lebt-es-sich-als-nischenstar](https://www.spiegel.de/netzwelt/web/asmr-miss-mi-und-karsten-aka-losthistorie-so-lebt-es-sich-als-nischenstar-a-6ee4d2ca-9b80-49fd-9281-a61ffb907d65#ref=rss)
-### karsten
+* [https://www.spiegel.de/panorama/justiz/brasilien-deutsche-sollen-maedchen-in-rio-de-janeiro-missbraucht-haben](https://www.spiegel.de/panorama/justiz/brasilien-deutsche-sollen-maedchen-in-rio-de-janeiro-missbraucht-haben-a-67fbbbb5-1107-47d1-8bde-fd984375a431#ref=rss)
+### männer
 
-* [https://www.spiegel.de/netzwelt/web/asmr-miss-mi-und-karsten-aka-losthistorie-so-lebt-es-sich-als-nischenstar](https://www.spiegel.de/netzwelt/web/asmr-miss-mi-und-karsten-aka-losthistorie-so-lebt-es-sich-als-nischenstar-a-6ee4d2ca-9b80-49fd-9281-a61ffb907d65#ref=rss)
-### aka
+* [https://www.spiegel.de/panorama/justiz/brasilien-deutsche-sollen-maedchen-in-rio-de-janeiro-missbraucht-haben](https://www.spiegel.de/panorama/justiz/brasilien-deutsche-sollen-maedchen-in-rio-de-janeiro-missbraucht-haben-a-67fbbbb5-1107-47d1-8bde-fd984375a431#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/michael-schumacher-staatsanwaltschaft-ermittelt-gegen-fruehere-krankenschwester-des-rennfahrers](https://www.spiegel.de/panorama/justiz/michael-schumacher-staatsanwaltschaft-ermittelt-gegen-fruehere-krankenschwester-des-rennfahrers-a-d6962898-9d30-4fa7-8c77-20607a2a7e70#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/netzwelt/web/asmr-miss-mi-und-karsten-aka-losthistorie-so-lebt-es-sich-als-nischenstar](https://www.spiegel.de/netzwelt/web/asmr-miss-mi-und-karsten-aka-losthistorie-so-lebt-es-sich-als-nischenstar-a-6ee4d2ca-9b80-49fd-9281-a61ffb907d65#ref=rss)
-### losthistorie
+* [https://www.spiegel.de/panorama/justiz/brasilien-deutsche-sollen-maedchen-in-rio-de-janeiro-missbraucht-haben](https://www.spiegel.de/panorama/justiz/brasilien-deutsche-sollen-maedchen-in-rio-de-janeiro-missbraucht-haben-a-67fbbbb5-1107-47d1-8bde-fd984375a431#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-verdacht-auf-giftanschlag-frau-in-charite-eingeliefert](https://www.spiegel.de/panorama/justiz/berlin-verdacht-auf-giftanschlag-frau-in-charite-eingeliefert-a-b6eb7b66-430b-4652-98fd-780e8866c658#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/netzwelt/web/asmr-miss-mi-und-karsten-aka-losthistorie-so-lebt-es-sich-als-nischenstar](https://www.spiegel.de/netzwelt/web/asmr-miss-mi-und-karsten-aka-losthistorie-so-lebt-es-sich-als-nischenstar-a-6ee4d2ca-9b80-49fd-9281-a61ffb907d65#ref=rss)
-### nischenstar
+* [https://www.spiegel.de/panorama/justiz/brasilien-deutsche-sollen-maedchen-in-rio-de-janeiro-missbraucht-haben](https://www.spiegel.de/panorama/justiz/brasilien-deutsche-sollen-maedchen-in-rio-de-janeiro-missbraucht-haben-a-67fbbbb5-1107-47d1-8bde-fd984375a431#ref=rss)
+* [https://www.spiegel.de/auto/china-elektroauto-boom-laesst-kraftstoffverbrauch-frueher-sinken-als-erwartet](https://www.spiegel.de/auto/china-elektroauto-boom-laesst-kraftstoffverbrauch-frueher-sinken-als-erwartet-a-e8b927ea-9738-4874-ac36-32072c2c2751#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/netzwelt/web/asmr-miss-mi-und-karsten-aka-losthistorie-so-lebt-es-sich-als-nischenstar](https://www.spiegel.de/netzwelt/web/asmr-miss-mi-und-karsten-aka-losthistorie-so-lebt-es-sich-als-nischenstar-a-6ee4d2ca-9b80-49fd-9281-a61ffb907d65#ref=rss)
-### patchworkfamilien
+* [https://www.spiegel.de/wirtschaft/exportueberschuss-deutschland-zuerst-aber-anders-kolumne](https://www.spiegel.de/wirtschaft/exportueberschuss-deutschland-zuerst-aber-anders-kolumne-a-482cb18f-96c2-4071-885b-8989a90550dc#ref=rss)
+* [https://www.spiegel.de/panorama/niedersachsen-hoffnung-fuer-von-abschiebung-bedrohte-pflegehelfer-aus-kolumbien](https://www.spiegel.de/panorama/niedersachsen-hoffnung-fuer-von-abschiebung-bedrohte-pflegehelfer-aus-kolumbien-a-d03783ec-31a3-4d1e-8a91-249feeb13c8b#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/familie/weihnachten-wie-uebersteht-man-die-feiertage-ohne-familienstreit](https://www.spiegel.de/familie/weihnachten-wie-uebersteht-man-die-feiertage-ohne-familienstreit-a-44a30fc5-b829-4b2e-af87-1684509e78c4#ref=rss)
-### feiertage
+* [https://www.spiegel.de/wirtschaft/exportueberschuss-deutschland-zuerst-aber-anders-kolumne](https://www.spiegel.de/wirtschaft/exportueberschuss-deutschland-zuerst-aber-anders-kolumne-a-482cb18f-96c2-4071-885b-8989a90550dc#ref=rss)
+* [https://www.spiegel.de/wirtschaft/volks-und-raiffeisenbanken-von-schmalkalden-bis-neuss-die-skandalnudeln-von-der-volksbank](https://www.spiegel.de/wirtschaft/volks-und-raiffeisenbanken-von-schmalkalden-bis-neuss-die-skandalnudeln-von-der-volksbank-a-aba9973c-ce1f-4cbf-9ffa-ba3c0607aa75#ref=rss)
+### sondern
 
-* [https://www.spiegel.de/familie/weihnachten-wie-uebersteht-man-die-feiertage-ohne-familienstreit](https://www.spiegel.de/familie/weihnachten-wie-uebersteht-man-die-feiertage-ohne-familienstreit-a-44a30fc5-b829-4b2e-af87-1684509e78c4#ref=rss)
-### friedrich
+* [https://www.spiegel.de/wirtschaft/exportueberschuss-deutschland-zuerst-aber-anders-kolumne](https://www.spiegel.de/wirtschaft/exportueberschuss-deutschland-zuerst-aber-anders-kolumne-a-482cb18f-96c2-4071-885b-8989a90550dc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-vs-alice-weidel-tv-duell-entscheidung-von-ard-und-zdf-sorgt-fuer-empoerung](https://www.spiegel.de/politik/deutschland/robert-habeck-vs-alice-weidel-tv-duell-entscheidung-von-ard-und-zdf-sorgt-fuer-empoerung-a-167a3ed0-cdd8-4f9d-9199-543e60c55d93#ref=rss)
+### entwürfe
 
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-tv-duelle-zwischen-olaf-scholz-und-friedrich-merz-sind-terminiert](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-tv-duelle-zwischen-olaf-scholz-und-friedrich-merz-sind-terminiert-a-e00a33d8-6dfe-4e30-99bb-88e8cc0ec275#ref=rss)
-### merz
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-wen-wollen-sie-waehlen-entwuerfe-der-wahlprogramme-von-spd-cdu-csu-gruene-fdp-afd-die-linke-bsw-im-ueberblick](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-wen-wollen-sie-waehlen-entwuerfe-der-wahlprogramme-von-spd-cdu-csu-gruene-fdp-afd-die-linke-bsw-im-ueberblick-a-664b4760-ad38-44c4-88eb-e2468722ea58#ref=rss)
+### wahlprogramme
 
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-tv-duelle-zwischen-olaf-scholz-und-friedrich-merz-sind-terminiert](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-tv-duelle-zwischen-olaf-scholz-und-friedrich-merz-sind-terminiert-a-e00a33d8-6dfe-4e30-99bb-88e8cc0ec275#ref=rss)
-### fest
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-wen-wollen-sie-waehlen-entwuerfe-der-wahlprogramme-von-spd-cdu-csu-gruene-fdp-afd-die-linke-bsw-im-ueberblick](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-wen-wollen-sie-waehlen-entwuerfe-der-wahlprogramme-von-spd-cdu-csu-gruene-fdp-afd-die-linke-bsw-im-ueberblick-a-664b4760-ad38-44c4-88eb-e2468722ea58#ref=rss)
+### afd
 
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-tv-duelle-zwischen-olaf-scholz-und-friedrich-merz-sind-terminiert](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-tv-duelle-zwischen-olaf-scholz-und-friedrich-merz-sind-terminiert-a-e00a33d8-6dfe-4e30-99bb-88e8cc0ec275#ref=rss)
-* [https://www.spiegel.de/wissenschaft/groesster-eisberg-der-welt-a23a-setzt-sich-in-bewegung](https://www.spiegel.de/wissenschaft/groesster-eisberg-der-welt-a23a-setzt-sich-in-bewegung-a-7820129e-b1f0-435a-bea4-16f629da0593#ref=rss)
-### taylor
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-wen-wollen-sie-waehlen-entwuerfe-der-wahlprogramme-von-spd-cdu-csu-gruene-fdp-afd-die-linke-bsw-im-ueberblick](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-wen-wollen-sie-waehlen-entwuerfe-der-wahlprogramme-von-spd-cdu-csu-gruene-fdp-afd-die-linke-bsw-im-ueberblick-a-664b4760-ad38-44c4-88eb-e2468722ea58#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-vs-alice-weidel-tv-duell-entscheidung-von-ard-und-zdf-sorgt-fuer-empoerung](https://www.spiegel.de/politik/deutschland/robert-habeck-vs-alice-weidel-tv-duell-entscheidung-von-ard-und-zdf-sorgt-fuer-empoerung-a-167a3ed0-cdd8-4f9d-9199-543e60c55d93#ref=rss)
+### bsw
 
-* [https://www.spiegel.de/kultur/musik/taylor-swift-wie-wir-versuchten-ein-interview-mit-dem-popstar-zu-bekommen-und-scheiterten](https://www.spiegel.de/kultur/musik/taylor-swift-wie-wir-versuchten-ein-interview-mit-dem-popstar-zu-bekommen-und-scheiterten-a-86430cb9-4132-47d5-8d9d-182878c59638#ref=rss)
-### swift
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-wen-wollen-sie-waehlen-entwuerfe-der-wahlprogramme-von-spd-cdu-csu-gruene-fdp-afd-die-linke-bsw-im-ueberblick](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-wen-wollen-sie-waehlen-entwuerfe-der-wahlprogramme-von-spd-cdu-csu-gruene-fdp-afd-die-linke-bsw-im-ueberblick-a-664b4760-ad38-44c4-88eb-e2468722ea58#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-hamburg-gruendet-landesverband-gegen-willen-der-bundespartei](https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-hamburg-gruendet-landesverband-gegen-willen-der-bundespartei-a-f1713fe4-24e3-4332-b660-c315b117be2f#ref=rss)
+### überblick
 
-* [https://www.spiegel.de/kultur/musik/taylor-swift-wie-wir-versuchten-ein-interview-mit-dem-popstar-zu-bekommen-und-scheiterten](https://www.spiegel.de/kultur/musik/taylor-swift-wie-wir-versuchten-ein-interview-mit-dem-popstar-zu-bekommen-und-scheiterten-a-86430cb9-4132-47d5-8d9d-182878c59638#ref=rss)
-### interview
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-wen-wollen-sie-waehlen-entwuerfe-der-wahlprogramme-von-spd-cdu-csu-gruene-fdp-afd-die-linke-bsw-im-ueberblick](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-wen-wollen-sie-waehlen-entwuerfe-der-wahlprogramme-von-spd-cdu-csu-gruene-fdp-afd-die-linke-bsw-im-ueberblick-a-664b4760-ad38-44c4-88eb-e2468722ea58#ref=rss)
+### geld
 
-* [https://www.spiegel.de/kultur/musik/taylor-swift-wie-wir-versuchten-ein-interview-mit-dem-popstar-zu-bekommen-und-scheiterten](https://www.spiegel.de/kultur/musik/taylor-swift-wie-wir-versuchten-ein-interview-mit-dem-popstar-zu-bekommen-und-scheiterten-a-86430cb9-4132-47d5-8d9d-182878c59638#ref=rss)
-### popstar
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-wen-wollen-sie-waehlen-entwuerfe-der-wahlprogramme-von-spd-cdu-csu-gruene-fdp-afd-die-linke-bsw-im-ueberblick](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-wen-wollen-sie-waehlen-entwuerfe-der-wahlprogramme-von-spd-cdu-csu-gruene-fdp-afd-die-linke-bsw-im-ueberblick-a-664b4760-ad38-44c4-88eb-e2468722ea58#ref=rss)
+* [https://www.spiegel.de/ausland/assad-sturz-eu-zahlt-der-tuerkei-eine-extra-milliarde-fuer-fluechtlinge](https://www.spiegel.de/ausland/assad-sturz-eu-zahlt-der-tuerkei-eine-extra-milliarde-fuer-fluechtlinge-a-2c9ea86a-f9cd-4a48-92e8-e6044a2e498b#ref=rss)
+### meta
 
-* [https://www.spiegel.de/kultur/musik/taylor-swift-wie-wir-versuchten-ein-interview-mit-dem-popstar-zu-bekommen-und-scheiterten](https://www.spiegel.de/kultur/musik/taylor-swift-wie-wir-versuchten-ein-interview-mit-dem-popstar-zu-bekommen-und-scheiterten-a-86430cb9-4132-47d5-8d9d-182878c59638#ref=rss)
-### uns
+* [https://www.spiegel.de/netzwelt/web/meta-sicherheitsluecke-kostet-facebook-mutterkonzern-251-millionen-euro](https://www.spiegel.de/netzwelt/web/meta-sicherheitsluecke-kostet-facebook-mutterkonzern-251-millionen-euro-a-dbb92caa-72e0-44ab-a310-6c789b23012b#ref=rss)
+### 251
 
-* [https://www.spiegel.de/kultur/musik/taylor-swift-wie-wir-versuchten-ein-interview-mit-dem-popstar-zu-bekommen-und-scheiterten](https://www.spiegel.de/kultur/musik/taylor-swift-wie-wir-versuchten-ein-interview-mit-dem-popstar-zu-bekommen-und-scheiterten-a-86430cb9-4132-47d5-8d9d-182878c59638#ref=rss)
-### würde
+* [https://www.spiegel.de/netzwelt/web/meta-sicherheitsluecke-kostet-facebook-mutterkonzern-251-millionen-euro](https://www.spiegel.de/netzwelt/web/meta-sicherheitsluecke-kostet-facebook-mutterkonzern-251-millionen-euro-a-dbb92caa-72e0-44ab-a310-6c789b23012b#ref=rss)
+### zahlen
 
-* [https://www.spiegel.de/kultur/musik/taylor-swift-wie-wir-versuchten-ein-interview-mit-dem-popstar-zu-bekommen-und-scheiterten](https://www.spiegel.de/kultur/musik/taylor-swift-wie-wir-versuchten-ein-interview-mit-dem-popstar-zu-bekommen-und-scheiterten-a-86430cb9-4132-47d5-8d9d-182878c59638#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-olaf-scholz-vertrauensfrage-ursula-von-der-leyen-tuerkei-recep-tayyip-erdogan-zerstoerung-in-gaza](https://www.spiegel.de/politik/deutschland/news-olaf-scholz-vertrauensfrage-ursula-von-der-leyen-tuerkei-recep-tayyip-erdogan-zerstoerung-in-gaza-a-613e2211-add4-482b-a243-2c0cd449038e#ref=rss)
-### private
+* [https://www.spiegel.de/netzwelt/web/meta-sicherheitsluecke-kostet-facebook-mutterkonzern-251-millionen-euro](https://www.spiegel.de/netzwelt/web/meta-sicherheitsluecke-kostet-facebook-mutterkonzern-251-millionen-euro-a-dbb92caa-72e0-44ab-a310-6c789b23012b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/michael-schumacher-staatsanwaltschaft-ermittelt-gegen-fruehere-krankenschwester-des-rennfahrers](https://www.spiegel.de/panorama/justiz/michael-schumacher-staatsanwaltschaft-ermittelt-gegen-fruehere-krankenschwester-des-rennfahrers-a-d6962898-9d30-4fa7-8c77-20607a2a7e70#ref=rss)
+### fast
 
-* [https://www.spiegel.de/wirtschaft/private-krankenversicherung-wer-die-beitraege-erhoeht-und-was-sie-tun-koennen](https://www.spiegel.de/wirtschaft/private-krankenversicherung-wer-die-beitraege-erhoeht-und-was-sie-tun-koennen-a-fa8e626d-09de-4ec7-b813-b28f0893743b#ref=rss)
-### krankenversicherung
+* [https://www.spiegel.de/netzwelt/web/meta-sicherheitsluecke-kostet-facebook-mutterkonzern-251-millionen-euro](https://www.spiegel.de/netzwelt/web/meta-sicherheitsluecke-kostet-facebook-mutterkonzern-251-millionen-euro-a-dbb92caa-72e0-44ab-a310-6c789b23012b#ref=rss)
+* [https://www.spiegel.de/ausland/russland-warum-kiews-geheimdienst-generalleutnant-igor-kirillow-toetete](https://www.spiegel.de/ausland/russland-warum-kiews-geheimdienst-generalleutnant-igor-kirillow-toetete-a-de8786cd-a139-453c-9272-75c33d44195b#ref=rss)
+### robert
 
-* [https://www.spiegel.de/wirtschaft/private-krankenversicherung-wer-die-beitraege-erhoeht-und-was-sie-tun-koennen](https://www.spiegel.de/wirtschaft/private-krankenversicherung-wer-die-beitraege-erhoeht-und-was-sie-tun-koennen-a-fa8e626d-09de-4ec7-b813-b28f0893743b#ref=rss)
-### 40
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-vs-alice-weidel-tv-duell-entscheidung-von-ard-und-zdf-sorgt-fuer-empoerung](https://www.spiegel.de/politik/deutschland/robert-habeck-vs-alice-weidel-tv-duell-entscheidung-von-ard-und-zdf-sorgt-fuer-empoerung-a-167a3ed0-cdd8-4f9d-9199-543e60c55d93#ref=rss)
+### habeck
 
-* [https://www.spiegel.de/wirtschaft/private-krankenversicherung-wer-die-beitraege-erhoeht-und-was-sie-tun-koennen](https://www.spiegel.de/wirtschaft/private-krankenversicherung-wer-die-beitraege-erhoeht-und-was-sie-tun-koennen-a-fa8e626d-09de-4ec7-b813-b28f0893743b#ref=rss)
-* [https://www.spiegel.de/wissenschaft/groesster-eisberg-der-welt-a23a-setzt-sich-in-bewegung](https://www.spiegel.de/wissenschaft/groesster-eisberg-der-welt-a23a-setzt-sich-in-bewegung-a-7820129e-b1f0-435a-bea4-16f629da0593#ref=rss)
-### teurer
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-vs-alice-weidel-tv-duell-entscheidung-von-ard-und-zdf-sorgt-fuer-empoerung](https://www.spiegel.de/politik/deutschland/robert-habeck-vs-alice-weidel-tv-duell-entscheidung-von-ard-und-zdf-sorgt-fuer-empoerung-a-167a3ed0-cdd8-4f9d-9199-543e60c55d93#ref=rss)
+### alice
 
-* [https://www.spiegel.de/wirtschaft/private-krankenversicherung-wer-die-beitraege-erhoeht-und-was-sie-tun-koennen](https://www.spiegel.de/wirtschaft/private-krankenversicherung-wer-die-beitraege-erhoeht-und-was-sie-tun-koennen-a-fa8e626d-09de-4ec7-b813-b28f0893743b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/krankenkasse-wechseln-wie-es-geht-und-worauf-sie-achten-muessen](https://www.spiegel.de/wirtschaft/krankenkasse-wechseln-wie-es-geht-und-worauf-sie-achten-muessen-a-7cef6d0f-4642-4d86-9db8-b79646fdb9ff#ref=rss)
-### jahren
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-vs-alice-weidel-tv-duell-entscheidung-von-ard-und-zdf-sorgt-fuer-empoerung](https://www.spiegel.de/politik/deutschland/robert-habeck-vs-alice-weidel-tv-duell-entscheidung-von-ard-und-zdf-sorgt-fuer-empoerung-a-167a3ed0-cdd8-4f9d-9199-543e60c55d93#ref=rss)
+### weidel
 
-* [https://www.spiegel.de/wirtschaft/private-krankenversicherung-wer-die-beitraege-erhoeht-und-was-sie-tun-koennen](https://www.spiegel.de/wirtschaft/private-krankenversicherung-wer-die-beitraege-erhoeht-und-was-sie-tun-koennen-a-fa8e626d-09de-4ec7-b813-b28f0893743b#ref=rss)
-* [https://www.spiegel.de/wissenschaft/groesster-eisberg-der-welt-a23a-setzt-sich-in-bewegung](https://www.spiegel.de/wissenschaft/groesster-eisberg-der-welt-a23a-setzt-sich-in-bewegung-a-7820129e-b1f0-435a-bea4-16f629da0593#ref=rss)
-### worauf
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-vs-alice-weidel-tv-duell-entscheidung-von-ard-und-zdf-sorgt-fuer-empoerung](https://www.spiegel.de/politik/deutschland/robert-habeck-vs-alice-weidel-tv-duell-entscheidung-von-ard-und-zdf-sorgt-fuer-empoerung-a-167a3ed0-cdd8-4f9d-9199-543e60c55d93#ref=rss)
+### grünen
 
-* [https://www.spiegel.de/wirtschaft/krankenkasse-wechseln-wie-es-geht-und-worauf-sie-achten-muessen](https://www.spiegel.de/wirtschaft/krankenkasse-wechseln-wie-es-geht-und-worauf-sie-achten-muessen-a-7cef6d0f-4642-4d86-9db8-b79646fdb9ff#ref=rss)
-### achten
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-vs-alice-weidel-tv-duell-entscheidung-von-ard-und-zdf-sorgt-fuer-empoerung](https://www.spiegel.de/politik/deutschland/robert-habeck-vs-alice-weidel-tv-duell-entscheidung-von-ard-und-zdf-sorgt-fuer-empoerung-a-167a3ed0-cdd8-4f9d-9199-543e60c55d93#ref=rss)
+* [https://www.spiegel.de/wirtschaft/eu-verdacht-auf-geldwaesche-die-raetselhaften-lotto-lose-des-ehemaligen-eu-justizkommissars-didier-reynders](https://www.spiegel.de/wirtschaft/eu-verdacht-auf-geldwaesche-die-raetselhaften-lotto-lose-des-ehemaligen-eu-justizkommissars-didier-reynders-a-1d8cbd52-d53a-49c4-9e24-9d7775c5635c#ref=rss)
+### british
 
-* [https://www.spiegel.de/wirtschaft/krankenkasse-wechseln-wie-es-geht-und-worauf-sie-achten-muessen](https://www.spiegel.de/wirtschaft/krankenkasse-wechseln-wie-es-geht-und-worauf-sie-achten-muessen-a-7cef6d0f-4642-4d86-9db8-b79646fdb9ff#ref=rss)
-### vertrauensfrage
+* [https://www.spiegel.de/wissenschaft/medizin/weihnachtsstudie-des-british-medical-journal-haette-aschenputtel-doch-nur-eine-ffp2-maske-getragen](https://www.spiegel.de/wissenschaft/medizin/weihnachtsstudie-des-british-medical-journal-haette-aschenputtel-doch-nur-eine-ffp2-maske-getragen-a-20020ce0-3e06-43de-bf1b-86fb09157ed7#ref=rss)
+### medical
 
-* [https://www.spiegel.de/politik/deutschland/news-olaf-scholz-vertrauensfrage-ursula-von-der-leyen-tuerkei-recep-tayyip-erdogan-zerstoerung-in-gaza](https://www.spiegel.de/politik/deutschland/news-olaf-scholz-vertrauensfrage-ursula-von-der-leyen-tuerkei-recep-tayyip-erdogan-zerstoerung-in-gaza-a-613e2211-add4-482b-a243-2c0cd449038e#ref=rss)
-* [https://www.spiegel.de/kultur/tv/hart-aber-fair-zu-vertrauensfrage-und-wahlkampf-mit-gregor-gysi-saskia-esken-und-christian-duerr](https://www.spiegel.de/kultur/tv/hart-aber-fair-zu-vertrauensfrage-und-wahlkampf-mit-gregor-gysi-saskia-esken-und-christian-duerr-a-c78e7bfe-790d-48f8-8d4b-6147f8fa5f13#ref=rss)
-### gaza
+* [https://www.spiegel.de/wissenschaft/medizin/weihnachtsstudie-des-british-medical-journal-haette-aschenputtel-doch-nur-eine-ffp2-maske-getragen](https://www.spiegel.de/wissenschaft/medizin/weihnachtsstudie-des-british-medical-journal-haette-aschenputtel-doch-nur-eine-ffp2-maske-getragen-a-20020ce0-3e06-43de-bf1b-86fb09157ed7#ref=rss)
+### journal
 
-* [https://www.spiegel.de/politik/deutschland/news-olaf-scholz-vertrauensfrage-ursula-von-der-leyen-tuerkei-recep-tayyip-erdogan-zerstoerung-in-gaza](https://www.spiegel.de/politik/deutschland/news-olaf-scholz-vertrauensfrage-ursula-von-der-leyen-tuerkei-recep-tayyip-erdogan-zerstoerung-in-gaza-a-613e2211-add4-482b-a243-2c0cd449038e#ref=rss)
-### schule
+* [https://www.spiegel.de/wissenschaft/medizin/weihnachtsstudie-des-british-medical-journal-haette-aschenputtel-doch-nur-eine-ffp2-maske-getragen](https://www.spiegel.de/wissenschaft/medizin/weihnachtsstudie-des-british-medical-journal-haette-aschenputtel-doch-nur-eine-ffp2-maske-getragen-a-20020ce0-3e06-43de-bf1b-86fb09157ed7#ref=rss)
+### italien
 
-* [https://www.spiegel.de/panorama/schuesse-an-schule-in-wisconsin-polizei-nennt-15-jaehrige-schuelerin-als-mutmassliche-todesschuetzin-von-madison](https://www.spiegel.de/panorama/schuesse-an-schule-in-wisconsin-polizei-nennt-15-jaehrige-schuelerin-als-mutmassliche-todesschuetzin-von-madison-a-dd676f31-f9b6-4932-a699-a1354f432251#ref=rss)
-### wisconsin
+* [https://www.spiegel.de/panorama/italien-was-die-rettung-der-verunglueckten-hoehlenforscherin-ottavia-piana-so-kompliziert-macht](https://www.spiegel.de/panorama/italien-was-die-rettung-der-verunglueckten-hoehlenforscherin-ottavia-piana-so-kompliziert-macht-a-c3edd089-88ba-4a2e-b53c-1afc07924d2d#ref=rss)
+* [https://www.spiegel.de/panorama/italien-rettungsaktion-fuer-verletzte-hoehlenforscherin-ottavia-piana-in-600-meter-tiefe](https://www.spiegel.de/panorama/italien-rettungsaktion-fuer-verletzte-hoehlenforscherin-ottavia-piana-in-600-meter-tiefe-a-db5d845c-cf84-4f25-a60c-c4fb81ced6b7#ref=rss)
+### höhlenforscherin
 
-* [https://www.spiegel.de/panorama/schuesse-an-schule-in-wisconsin-polizei-nennt-15-jaehrige-schuelerin-als-mutmassliche-todesschuetzin-von-madison](https://www.spiegel.de/panorama/schuesse-an-schule-in-wisconsin-polizei-nennt-15-jaehrige-schuelerin-als-mutmassliche-todesschuetzin-von-madison-a-dd676f31-f9b6-4932-a699-a1354f432251#ref=rss)
-### 15jährige
+* [https://www.spiegel.de/panorama/italien-was-die-rettung-der-verunglueckten-hoehlenforscherin-ottavia-piana-so-kompliziert-macht](https://www.spiegel.de/panorama/italien-was-die-rettung-der-verunglueckten-hoehlenforscherin-ottavia-piana-so-kompliziert-macht-a-c3edd089-88ba-4a2e-b53c-1afc07924d2d#ref=rss)
+* [https://www.spiegel.de/panorama/italien-rettungsaktion-fuer-verletzte-hoehlenforscherin-ottavia-piana-in-600-meter-tiefe](https://www.spiegel.de/panorama/italien-rettungsaktion-fuer-verletzte-hoehlenforscherin-ottavia-piana-in-600-meter-tiefe-a-db5d845c-cf84-4f25-a60c-c4fb81ced6b7#ref=rss)
+### mehrere
 
-* [https://www.spiegel.de/panorama/schuesse-an-schule-in-wisconsin-polizei-nennt-15-jaehrige-schuelerin-als-mutmassliche-todesschuetzin-von-madison](https://www.spiegel.de/panorama/schuesse-an-schule-in-wisconsin-polizei-nennt-15-jaehrige-schuelerin-als-mutmassliche-todesschuetzin-von-madison-a-dd676f31-f9b6-4932-a699-a1354f432251#ref=rss)
-### mutmaßliche
+* [https://www.spiegel.de/panorama/italien-was-die-rettung-der-verunglueckten-hoehlenforscherin-ottavia-piana-so-kompliziert-macht](https://www.spiegel.de/panorama/italien-was-die-rettung-der-verunglueckten-hoehlenforscherin-ottavia-piana-so-kompliziert-macht-a-c3edd089-88ba-4a2e-b53c-1afc07924d2d#ref=rss)
+### mithilfe
 
-* [https://www.spiegel.de/panorama/schuesse-an-schule-in-wisconsin-polizei-nennt-15-jaehrige-schuelerin-als-mutmassliche-todesschuetzin-von-madison](https://www.spiegel.de/panorama/schuesse-an-schule-in-wisconsin-polizei-nennt-15-jaehrige-schuelerin-als-mutmassliche-todesschuetzin-von-madison-a-dd676f31-f9b6-4932-a699-a1354f432251#ref=rss)
-### länder
+* [https://www.spiegel.de/panorama/italien-was-die-rettung-der-verunglueckten-hoehlenforscherin-ottavia-piana-so-kompliziert-macht](https://www.spiegel.de/panorama/italien-was-die-rettung-der-verunglueckten-hoehlenforscherin-ottavia-piana-so-kompliziert-macht-a-c3edd089-88ba-4a2e-b53c-1afc07924d2d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/eu-verdacht-auf-geldwaesche-die-raetselhaften-lotto-lose-des-ehemaligen-eu-justizkommissars-didier-reynders](https://www.spiegel.de/wirtschaft/eu-verdacht-auf-geldwaesche-die-raetselhaften-lotto-lose-des-ehemaligen-eu-justizkommissars-didier-reynders-a-1d8cbd52-d53a-49c4-9e24-9d7775c5635c#ref=rss)
+### wann
 
-* [https://www.spiegel.de/ausland/zwoelf-laender-schmieden-pakt-gegen-russlands-schattenflotte](https://www.spiegel.de/ausland/zwoelf-laender-schmieden-pakt-gegen-russlands-schattenflotte-a-5e351552-4b03-4bf8-8d4d-d7bd4cee77d9#ref=rss)
-### eisberg
+* [https://www.spiegel.de/auto/weihnachtsverkehr-wann-es-auf-den-autobahnen-und-bei-der-bahn-am-vollsten-wird](https://www.spiegel.de/auto/weihnachtsverkehr-wann-es-auf-den-autobahnen-und-bei-der-bahn-am-vollsten-wird-a-2c4ce201-37c1-4fcb-b802-ae96ff9a5f69#ref=rss)
+### bahn
 
-* [https://www.spiegel.de/wissenschaft/groesster-eisberg-der-welt-a23a-setzt-sich-in-bewegung](https://www.spiegel.de/wissenschaft/groesster-eisberg-der-welt-a23a-setzt-sich-in-bewegung-a-7820129e-b1f0-435a-bea4-16f629da0593#ref=rss)
-### a23a
+* [https://www.spiegel.de/auto/weihnachtsverkehr-wann-es-auf-den-autobahnen-und-bei-der-bahn-am-vollsten-wird](https://www.spiegel.de/auto/weihnachtsverkehr-wann-es-auf-den-autobahnen-und-bei-der-bahn-am-vollsten-wird-a-2c4ce201-37c1-4fcb-b802-ae96ff9a5f69#ref=rss)
+### warnt
 
-* [https://www.spiegel.de/wissenschaft/groesster-eisberg-der-welt-a23a-setzt-sich-in-bewegung](https://www.spiegel.de/wissenschaft/groesster-eisberg-der-welt-a23a-setzt-sich-in-bewegung-a-7820129e-b1f0-435a-bea4-16f629da0593#ref=rss)
-### hart
+* [https://www.spiegel.de/auto/weihnachtsverkehr-wann-es-auf-den-autobahnen-und-bei-der-bahn-am-vollsten-wird](https://www.spiegel.de/auto/weihnachtsverkehr-wann-es-auf-den-autobahnen-und-bei-der-bahn-am-vollsten-wird-a-2c4ce201-37c1-4fcb-b802-ae96ff9a5f69#ref=rss)
+* [https://www.spiegel.de/kultur/nicole-kidman-warnt-vor-verpassten-chancen](https://www.spiegel.de/kultur/nicole-kidman-warnt-vor-verpassten-chancen-a-48b8b27d-d67c-4d7a-b80e-34726cabbc30#ref=rss)
+### china
 
-* [https://www.spiegel.de/kultur/tv/hart-aber-fair-zu-vertrauensfrage-und-wahlkampf-mit-gregor-gysi-saskia-esken-und-christian-duerr](https://www.spiegel.de/kultur/tv/hart-aber-fair-zu-vertrauensfrage-und-wahlkampf-mit-gregor-gysi-saskia-esken-und-christian-duerr-a-c78e7bfe-790d-48f8-8d4b-6147f8fa5f13#ref=rss)
-### fair
+* [https://www.spiegel.de/auto/china-elektroauto-boom-laesst-kraftstoffverbrauch-frueher-sinken-als-erwartet](https://www.spiegel.de/auto/china-elektroauto-boom-laesst-kraftstoffverbrauch-frueher-sinken-als-erwartet-a-e8b927ea-9738-4874-ac36-32072c2c2751#ref=rss)
+### nachfrage
 
-* [https://www.spiegel.de/kultur/tv/hart-aber-fair-zu-vertrauensfrage-und-wahlkampf-mit-gregor-gysi-saskia-esken-und-christian-duerr](https://www.spiegel.de/kultur/tv/hart-aber-fair-zu-vertrauensfrage-und-wahlkampf-mit-gregor-gysi-saskia-esken-und-christian-duerr-a-c78e7bfe-790d-48f8-8d4b-6147f8fa5f13#ref=rss)
-### wahlkampf
+* [https://www.spiegel.de/auto/china-elektroauto-boom-laesst-kraftstoffverbrauch-frueher-sinken-als-erwartet](https://www.spiegel.de/auto/china-elektroauto-boom-laesst-kraftstoffverbrauch-frueher-sinken-als-erwartet-a-e8b927ea-9738-4874-ac36-32072c2c2751#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/verkauf-von-atombunkern-boomt-obwohl-sie-kaum-schuetzen](https://www.spiegel.de/wirtschaft/service/verkauf-von-atombunkern-boomt-obwohl-sie-kaum-schuetzen-a-d45db673-d71a-410f-a43e-dfcd5e184e50#ref=rss)
+### rottweil
 
-* [https://www.spiegel.de/kultur/tv/hart-aber-fair-zu-vertrauensfrage-und-wahlkampf-mit-gregor-gysi-saskia-esken-und-christian-duerr](https://www.spiegel.de/kultur/tv/hart-aber-fair-zu-vertrauensfrage-und-wahlkampf-mit-gregor-gysi-saskia-esken-und-christian-duerr-a-c78e7bfe-790d-48f8-8d4b-6147f8fa5f13#ref=rss)
-### gregor
+* [https://www.spiegel.de/panorama/rottweil-schuss-auf-zwoelfjaehrigen-14-jaehriger-jugendlicher-unter-tatverdacht](https://www.spiegel.de/panorama/rottweil-schuss-auf-zwoelfjaehrigen-14-jaehriger-jugendlicher-unter-tatverdacht-a-f7e10651-c6aa-45cd-ad87-ae419d517280#ref=rss)
+### schuss
 
-* [https://www.spiegel.de/kultur/tv/hart-aber-fair-zu-vertrauensfrage-und-wahlkampf-mit-gregor-gysi-saskia-esken-und-christian-duerr](https://www.spiegel.de/kultur/tv/hart-aber-fair-zu-vertrauensfrage-und-wahlkampf-mit-gregor-gysi-saskia-esken-und-christian-duerr-a-c78e7bfe-790d-48f8-8d4b-6147f8fa5f13#ref=rss)
-### gysi
+* [https://www.spiegel.de/panorama/rottweil-schuss-auf-zwoelfjaehrigen-14-jaehriger-jugendlicher-unter-tatverdacht](https://www.spiegel.de/panorama/rottweil-schuss-auf-zwoelfjaehrigen-14-jaehriger-jugendlicher-unter-tatverdacht-a-f7e10651-c6aa-45cd-ad87-ae419d517280#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/kultur/tv/hart-aber-fair-zu-vertrauensfrage-und-wahlkampf-mit-gregor-gysi-saskia-esken-und-christian-duerr](https://www.spiegel.de/kultur/tv/hart-aber-fair-zu-vertrauensfrage-und-wahlkampf-mit-gregor-gysi-saskia-esken-und-christian-duerr-a-c78e7bfe-790d-48f8-8d4b-6147f8fa5f13#ref=rss)
-### saskia
+* [https://www.spiegel.de/panorama/rottweil-schuss-auf-zwoelfjaehrigen-14-jaehriger-jugendlicher-unter-tatverdacht](https://www.spiegel.de/panorama/rottweil-schuss-auf-zwoelfjaehrigen-14-jaehriger-jugendlicher-unter-tatverdacht-a-f7e10651-c6aa-45cd-ad87-ae419d517280#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-verdacht-auf-giftanschlag-frau-in-charite-eingeliefert](https://www.spiegel.de/panorama/justiz/berlin-verdacht-auf-giftanschlag-frau-in-charite-eingeliefert-a-b6eb7b66-430b-4652-98fd-780e8866c658#ref=rss)
+### trans
 
-* [https://www.spiegel.de/kultur/tv/hart-aber-fair-zu-vertrauensfrage-und-wahlkampf-mit-gregor-gysi-saskia-esken-und-christian-duerr](https://www.spiegel.de/kultur/tv/hart-aber-fair-zu-vertrauensfrage-und-wahlkampf-mit-gregor-gysi-saskia-esken-und-christian-duerr-a-c78e7bfe-790d-48f8-8d4b-6147f8fa5f13#ref=rss)
-### esken
+* [https://www.spiegel.de/kultur/trans-model-alex-consani-erlebte-als-kind-viel-ablehnung](https://www.spiegel.de/kultur/trans-model-alex-consani-erlebte-als-kind-viel-ablehnung-a-540785d4-6fd7-47f4-b0e9-9d568ce0c793#ref=rss)
+### model
 
-* [https://www.spiegel.de/kultur/tv/hart-aber-fair-zu-vertrauensfrage-und-wahlkampf-mit-gregor-gysi-saskia-esken-und-christian-duerr](https://www.spiegel.de/kultur/tv/hart-aber-fair-zu-vertrauensfrage-und-wahlkampf-mit-gregor-gysi-saskia-esken-und-christian-duerr-a-c78e7bfe-790d-48f8-8d4b-6147f8fa5f13#ref=rss)
+* [https://www.spiegel.de/kultur/trans-model-alex-consani-erlebte-als-kind-viel-ablehnung](https://www.spiegel.de/kultur/trans-model-alex-consani-erlebte-als-kind-viel-ablehnung-a-540785d4-6fd7-47f4-b0e9-9d568ce0c793#ref=rss)
+### alex
+
+* [https://www.spiegel.de/kultur/trans-model-alex-consani-erlebte-als-kind-viel-ablehnung](https://www.spiegel.de/kultur/trans-model-alex-consani-erlebte-als-kind-viel-ablehnung-a-540785d4-6fd7-47f4-b0e9-9d568ce0c793#ref=rss)
+### consani
+
+* [https://www.spiegel.de/kultur/trans-model-alex-consani-erlebte-als-kind-viel-ablehnung](https://www.spiegel.de/kultur/trans-model-alex-consani-erlebte-als-kind-viel-ablehnung-a-540785d4-6fd7-47f4-b0e9-9d568ce0c793#ref=rss)
+### frau
+
+* [https://www.spiegel.de/kultur/trans-model-alex-consani-erlebte-als-kind-viel-ablehnung](https://www.spiegel.de/kultur/trans-model-alex-consani-erlebte-als-kind-viel-ablehnung-a-540785d4-6fd7-47f4-b0e9-9d568ce0c793#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-verdacht-auf-giftanschlag-frau-in-charite-eingeliefert](https://www.spiegel.de/panorama/justiz/berlin-verdacht-auf-giftanschlag-frau-in-charite-eingeliefert-a-b6eb7b66-430b-4652-98fd-780e8866c658#ref=rss)
+### charité
+
+* [https://www.spiegel.de/panorama/justiz/berlin-verdacht-auf-giftanschlag-frau-in-charite-eingeliefert](https://www.spiegel.de/panorama/justiz/berlin-verdacht-auf-giftanschlag-frau-in-charite-eingeliefert-a-b6eb7b66-430b-4652-98fd-780e8866c658#ref=rss)
+### gebracht
+
+* [https://www.spiegel.de/panorama/justiz/berlin-verdacht-auf-giftanschlag-frau-in-charite-eingeliefert](https://www.spiegel.de/panorama/justiz/berlin-verdacht-auf-giftanschlag-frau-in-charite-eingeliefert-a-b6eb7b66-430b-4652-98fd-780e8866c658#ref=rss)
+* [https://www.spiegel.de/kultur/nicole-kidman-warnt-vor-verpassten-chancen](https://www.spiegel.de/kultur/nicole-kidman-warnt-vor-verpassten-chancen-a-48b8b27d-d67c-4d7a-b80e-34726cabbc30#ref=rss)
+### anschlag
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-anschlag-auf-russischen-general-clarissa-ward-michael-schumacher](https://www.spiegel.de/politik/deutschland/news-des-tages-anschlag-auf-russischen-general-clarissa-ward-michael-schumacher-a-82d9223c-0d5e-4db6-bcfd-e94545670160#ref=rss)
+* [https://www.spiegel.de/ausland/russland-warum-kiews-geheimdienst-generalleutnant-igor-kirillow-toetete](https://www.spiegel.de/ausland/russland-warum-kiews-geheimdienst-generalleutnant-igor-kirillow-toetete-a-de8786cd-a139-453c-9272-75c33d44195b#ref=rss)
+### general
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-anschlag-auf-russischen-general-clarissa-ward-michael-schumacher](https://www.spiegel.de/politik/deutschland/news-des-tages-anschlag-auf-russischen-general-clarissa-ward-michael-schumacher-a-82d9223c-0d5e-4db6-bcfd-e94545670160#ref=rss)
+* [https://www.spiegel.de/ausland/russland-getoeteter-general-igor-kirillow-ein-dashcam-video-zeigt-den-moment-des-anschlags](https://www.spiegel.de/ausland/russland-getoeteter-general-igor-kirillow-ein-dashcam-video-zeigt-den-moment-des-anschlags-a-13be549b-a45c-4028-8080-71ed443366b8#ref=rss)
+### wagenknecht
+
+* [https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-hamburg-gruendet-landesverband-gegen-willen-der-bundespartei](https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-hamburg-gruendet-landesverband-gegen-willen-der-bundespartei-a-f1713fe4-24e3-4332-b660-c315b117be2f#ref=rss)
+### hamburg
+
+* [https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-hamburg-gruendet-landesverband-gegen-willen-der-bundespartei](https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-hamburg-gruendet-landesverband-gegen-willen-der-bundespartei-a-f1713fe4-24e3-4332-b660-c315b117be2f#ref=rss)
+### türkei
+
+* [https://www.spiegel.de/ausland/assad-sturz-eu-zahlt-der-tuerkei-eine-extra-milliarde-fuer-fluechtlinge](https://www.spiegel.de/ausland/assad-sturz-eu-zahlt-der-tuerkei-eine-extra-milliarde-fuer-fluechtlinge-a-2c9ea86a-f9cd-4a48-92e8-e6044a2e498b#ref=rss)
+### flüchtlinge
+
+* [https://www.spiegel.de/ausland/assad-sturz-eu-zahlt-der-tuerkei-eine-extra-milliarde-fuer-fluechtlinge](https://www.spiegel.de/ausland/assad-sturz-eu-zahlt-der-tuerkei-eine-extra-milliarde-fuer-fluechtlinge-a-2c9ea86a-f9cd-4a48-92e8-e6044a2e498b#ref=rss)
+### hukcoburg
+
+* [https://www.spiegel.de/wirtschaft/service/huk-coburg-uebernimmt-werkstattkette-pitstop](https://www.spiegel.de/wirtschaft/service/huk-coburg-uebernimmt-werkstattkette-pitstop-a-41dc8155-af42-4677-93f4-b664d68065a3#ref=rss)
+### werkstattkette
+
+* [https://www.spiegel.de/wirtschaft/service/huk-coburg-uebernimmt-werkstattkette-pitstop](https://www.spiegel.de/wirtschaft/service/huk-coburg-uebernimmt-werkstattkette-pitstop-a-41dc8155-af42-4677-93f4-b664d68065a3#ref=rss)
+### pitstop
+
+* [https://www.spiegel.de/wirtschaft/service/huk-coburg-uebernimmt-werkstattkette-pitstop](https://www.spiegel.de/wirtschaft/service/huk-coburg-uebernimmt-werkstattkette-pitstop-a-41dc8155-af42-4677-93f4-b664d68065a3#ref=rss)
+### didier
+
+* [https://www.spiegel.de/wirtschaft/eu-verdacht-auf-geldwaesche-die-raetselhaften-lotto-lose-des-ehemaligen-eu-justizkommissars-didier-reynders](https://www.spiegel.de/wirtschaft/eu-verdacht-auf-geldwaesche-die-raetselhaften-lotto-lose-des-ehemaligen-eu-justizkommissars-didier-reynders-a-1d8cbd52-d53a-49c4-9e24-9d7775c5635c#ref=rss)
+### reynders
+
+* [https://www.spiegel.de/wirtschaft/eu-verdacht-auf-geldwaesche-die-raetselhaften-lotto-lose-des-ehemaligen-eu-justizkommissars-didier-reynders](https://www.spiegel.de/wirtschaft/eu-verdacht-auf-geldwaesche-die-raetselhaften-lotto-lose-des-ehemaligen-eu-justizkommissars-didier-reynders-a-1d8cbd52-d53a-49c4-9e24-9d7775c5635c#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/russland-getoeteter-general-igor-kirillow-ein-dashcam-video-zeigt-den-moment-des-anschlags](https://www.spiegel.de/ausland/russland-getoeteter-general-igor-kirillow-ein-dashcam-video-zeigt-den-moment-des-anschlags-a-13be549b-a45c-4028-8080-71ed443366b8#ref=rss)
+* [https://www.spiegel.de/ausland/russland-warum-kiews-geheimdienst-generalleutnant-igor-kirillow-toetete](https://www.spiegel.de/ausland/russland-warum-kiews-geheimdienst-generalleutnant-igor-kirillow-toetete-a-de8786cd-a139-453c-9272-75c33d44195b#ref=rss)
+### dashcamvideo
+
+* [https://www.spiegel.de/ausland/russland-getoeteter-general-igor-kirillow-ein-dashcam-video-zeigt-den-moment-des-anschlags](https://www.spiegel.de/ausland/russland-getoeteter-general-igor-kirillow-ein-dashcam-video-zeigt-den-moment-des-anschlags-a-13be549b-a45c-4028-8080-71ed443366b8#ref=rss)
+### moment
+
+* [https://www.spiegel.de/ausland/russland-getoeteter-general-igor-kirillow-ein-dashcam-video-zeigt-den-moment-des-anschlags](https://www.spiegel.de/ausland/russland-getoeteter-general-igor-kirillow-ein-dashcam-video-zeigt-den-moment-des-anschlags-a-13be549b-a45c-4028-8080-71ed443366b8#ref=rss)
+### anschlags
+
+* [https://www.spiegel.de/ausland/russland-getoeteter-general-igor-kirillow-ein-dashcam-video-zeigt-den-moment-des-anschlags](https://www.spiegel.de/ausland/russland-getoeteter-general-igor-kirillow-ein-dashcam-video-zeigt-den-moment-des-anschlags-a-13be549b-a45c-4028-8080-71ed443366b8#ref=rss)
+### ukrainische
+
+* [https://www.spiegel.de/ausland/russland-getoeteter-general-igor-kirillow-ein-dashcam-video-zeigt-den-moment-des-anschlags](https://www.spiegel.de/ausland/russland-getoeteter-general-igor-kirillow-ein-dashcam-video-zeigt-den-moment-des-anschlags-a-13be549b-a45c-4028-8080-71ed443366b8#ref=rss)
+* [https://www.spiegel.de/ausland/russland-warum-kiews-geheimdienst-generalleutnant-igor-kirillow-toetete](https://www.spiegel.de/ausland/russland-warum-kiews-geheimdienst-generalleutnant-igor-kirillow-toetete-a-de8786cd-a139-453c-9272-75c33d44195b#ref=rss)
+### generalleutnant
+
+* [https://www.spiegel.de/ausland/russland-warum-kiews-geheimdienst-generalleutnant-igor-kirillow-toetete](https://www.spiegel.de/ausland/russland-warum-kiews-geheimdienst-generalleutnant-igor-kirillow-toetete-a-de8786cd-a139-453c-9272-75c33d44195b#ref=rss)
+### tod
+
+* [https://www.spiegel.de/ausland/russland-warum-kiews-geheimdienst-generalleutnant-igor-kirillow-toetete](https://www.spiegel.de/ausland/russland-warum-kiews-geheimdienst-generalleutnant-igor-kirillow-toetete-a-de8786cd-a139-453c-9272-75c33d44195b#ref=rss)
+* [https://www.spiegel.de/kultur/nicole-kidman-warnt-vor-verpassten-chancen](https://www.spiegel.de/kultur/nicole-kidman-warnt-vor-verpassten-chancen-a-48b8b27d-d67c-4d7a-b80e-34726cabbc30#ref=rss)
+### fußball
+
+* [https://www.spiegel.de/sport/fussball/fussball-in-brasilien-ronaldo-will-verbandspraesident-werden](https://www.spiegel.de/sport/fussball/fussball-in-brasilien-ronaldo-will-verbandspraesident-werden-a-e2340d25-6142-4184-bd05-f31be09a7f56#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-super-league-heisst-jetzt-unify-league](https://www.spiegel.de/sport/fussball/fussball-super-league-heisst-jetzt-unify-league-a-bc3be3c1-2738-4b5c-a9c8-f6d1efa02f2c#ref=rss)
+### ronaldo
+
+* [https://www.spiegel.de/sport/fussball/fussball-in-brasilien-ronaldo-will-verbandspraesident-werden](https://www.spiegel.de/sport/fussball/fussball-in-brasilien-ronaldo-will-verbandspraesident-werden-a-e2340d25-6142-4184-bd05-f31be09a7f56#ref=rss)
+### frühere
+
+* [https://www.spiegel.de/sport/fussball/fussball-in-brasilien-ronaldo-will-verbandspraesident-werden](https://www.spiegel.de/sport/fussball/fussball-in-brasilien-ronaldo-will-verbandspraesident-werden-a-e2340d25-6142-4184-bd05-f31be09a7f56#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/michael-schumacher-staatsanwaltschaft-ermittelt-gegen-fruehere-krankenschwester-des-rennfahrers](https://www.spiegel.de/panorama/justiz/michael-schumacher-staatsanwaltschaft-ermittelt-gegen-fruehere-krankenschwester-des-rennfahrers-a-d6962898-9d30-4fa7-8c77-20607a2a7e70#ref=rss)
+### staatsanwaltschaft
+
+* [https://www.spiegel.de/politik/deutschland/potsdam-staatsanwaltschaft-stellt-ermittlungen-gegen-ob-mike-schubert-ein](https://www.spiegel.de/politik/deutschland/potsdam-staatsanwaltschaft-stellt-ermittlungen-gegen-ob-mike-schubert-ein-a-0165109a-b865-4539-ac1d-80c7fd1d024a#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/michael-schumacher-staatsanwaltschaft-ermittelt-gegen-fruehere-krankenschwester-des-rennfahrers](https://www.spiegel.de/panorama/justiz/michael-schumacher-staatsanwaltschaft-ermittelt-gegen-fruehere-krankenschwester-des-rennfahrers-a-d6962898-9d30-4fa7-8c77-20607a2a7e70#ref=rss)
+### ermittlungen
+
+* [https://www.spiegel.de/politik/deutschland/potsdam-staatsanwaltschaft-stellt-ermittlungen-gegen-ob-mike-schubert-ein](https://www.spiegel.de/politik/deutschland/potsdam-staatsanwaltschaft-stellt-ermittlungen-gegen-ob-mike-schubert-ein-a-0165109a-b865-4539-ac1d-80c7fd1d024a#ref=rss)
+### mike
+
+* [https://www.spiegel.de/politik/deutschland/potsdam-staatsanwaltschaft-stellt-ermittlungen-gegen-ob-mike-schubert-ein](https://www.spiegel.de/politik/deutschland/potsdam-staatsanwaltschaft-stellt-ermittlungen-gegen-ob-mike-schubert-ein-a-0165109a-b865-4539-ac1d-80c7fd1d024a#ref=rss)
+### schubert
+
+* [https://www.spiegel.de/politik/deutschland/potsdam-staatsanwaltschaft-stellt-ermittlungen-gegen-ob-mike-schubert-ein](https://www.spiegel.de/politik/deutschland/potsdam-staatsanwaltschaft-stellt-ermittlungen-gegen-ob-mike-schubert-ein-a-0165109a-b865-4539-ac1d-80c7fd1d024a#ref=rss)
+### tag
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### nicole
+
+* [https://www.spiegel.de/kultur/nicole-kidman-warnt-vor-verpassten-chancen](https://www.spiegel.de/kultur/nicole-kidman-warnt-vor-verpassten-chancen-a-48b8b27d-d67c-4d7a-b80e-34726cabbc30#ref=rss)
+### kidman
+
+* [https://www.spiegel.de/kultur/nicole-kidman-warnt-vor-verpassten-chancen](https://www.spiegel.de/kultur/nicole-kidman-warnt-vor-verpassten-chancen-a-48b8b27d-d67c-4d7a-b80e-34726cabbc30#ref=rss)
+### volks
+
+* [https://www.spiegel.de/wirtschaft/volks-und-raiffeisenbanken-von-schmalkalden-bis-neuss-die-skandalnudeln-von-der-volksbank](https://www.spiegel.de/wirtschaft/volks-und-raiffeisenbanken-von-schmalkalden-bis-neuss-die-skandalnudeln-von-der-volksbank-a-aba9973c-ce1f-4cbf-9ffa-ba3c0607aa75#ref=rss)
+### raiffeisenbanken
+
+* [https://www.spiegel.de/wirtschaft/volks-und-raiffeisenbanken-von-schmalkalden-bis-neuss-die-skandalnudeln-von-der-volksbank](https://www.spiegel.de/wirtschaft/volks-und-raiffeisenbanken-von-schmalkalden-bis-neuss-die-skandalnudeln-von-der-volksbank-a-aba9973c-ce1f-4cbf-9ffa-ba3c0607aa75#ref=rss)
+### abschiebung
+
+* [https://www.spiegel.de/panorama/niedersachsen-hoffnung-fuer-von-abschiebung-bedrohte-pflegehelfer-aus-kolumbien](https://www.spiegel.de/panorama/niedersachsen-hoffnung-fuer-von-abschiebung-bedrohte-pflegehelfer-aus-kolumbien-a-d03783ec-31a3-4d1e-8a91-249feeb13c8b#ref=rss)
+### super
+
+* [https://www.spiegel.de/sport/fussball/fussball-super-league-heisst-jetzt-unify-league](https://www.spiegel.de/sport/fussball/fussball-super-league-heisst-jetzt-unify-league-a-bc3be3c1-2738-4b5c-a9c8-f6d1efa02f2c#ref=rss)
+### europäischen
+
+* [https://www.spiegel.de/sport/fussball/fussball-super-league-heisst-jetzt-unify-league](https://www.spiegel.de/sport/fussball/fussball-super-league-heisst-jetzt-unify-league-a-bc3be3c1-2738-4b5c-a9c8-f6d1efa02f2c#ref=rss)
 
