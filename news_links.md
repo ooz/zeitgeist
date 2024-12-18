@@ -4,300 +4,342 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### michael
+### gericht
 
-* [https://www.spiegel.de/kultur/kino/michael-fassbender-abba-ist-ein-guter-soundtrack-zum-sterben](https://www.spiegel.de/kultur/kino/michael-fassbender-abba-ist-ein-guter-soundtrack-zum-sterben-a-e1bf35cd-71f1-426c-8925-115fd65bd702#ref=rss)
-* [https://www.spiegel.de/wirtschaft/china-us-oekonom-michael-pettis-warnt-vor-den-auswirkungen-eines-handelskriegs-mit-den-usa](https://www.spiegel.de/wirtschaft/china-us-oekonom-michael-pettis-warnt-vor-den-auswirkungen-eines-handelskriegs-mit-den-usa-a-1dc5f2ec-4114-429b-bf5d-8daff18754b2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sachsen-gruene-monieren-fehlende-nein-stimmen-bei-wahl-zum-saechsischen-ministerpraesidenten](https://www.spiegel.de/politik/deutschland/sachsen-gruene-monieren-fehlende-nein-stimmen-bei-wahl-zum-saechsischen-ministerpraesidenten-a-ff359f52-ca34-4ee3-b00c-19ed77a584af#ref=rss)
-* [https://www.spiegel.de/politik/matthias-berger-gegen-michael-kretschmer-landtag-in-sachsen-waehlt-neuen-ministerpraesidenten](https://www.spiegel.de/politik/matthias-berger-gegen-michael-kretschmer-landtag-in-sachsen-waehlt-neuen-ministerpraesidenten-a-4b7545b5-b63e-4249-8fee-a8698f2493b2#ref=rss)
-### deutschland
+* [https://www.spiegel.de/panorama/afd-potsdamer-mutter-unterliegt-vor-gericht-nach-kritik-an-aeusserungen-vor-grundschuelern](https://www.spiegel.de/panorama/afd-potsdamer-mutter-unterliegt-vor-gericht-nach-kritik-an-aeusserungen-vor-grundschuelern-a-28e16980-6101-486d-bb81-3dd3ed632773#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/weiden-15-jaehriger-wegen-toetung-von-siebenjaehrigem-vor-gericht](https://www.spiegel.de/panorama/justiz/weiden-15-jaehriger-wegen-toetung-von-siebenjaehrigem-vor-gericht-a-9448f528-8673-4b27-9d40-017cd3908ece#ref=rss)
+### große
 
-* [https://www.spiegel.de/kultur/kino/oscars-2025-volker-bertelmann-die-saat-des-heiligen-feigenbaums-auf-der-shortlist](https://www.spiegel.de/kultur/kino/oscars-2025-volker-bertelmann-die-saat-des-heiligen-feigenbaums-auf-der-shortlist-a-dbe7d056-9937-4d6f-b13a-9ffaaa31de5d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/kampfgeraet-fuer-die-ukraine-deutschland-raeumt-militaerwerkstatt-in-der-slowakei](https://www.spiegel.de/politik/deutschland/kampfgeraet-fuer-die-ukraine-deutschland-raeumt-militaerwerkstatt-in-der-slowakei-a-c00063c7-a739-4c4b-bf2b-d3ec3ae27af2#ref=rss)
-* [https://www.spiegel.de/wissenschaft/energie-importe-warum-stromimporte-kein-beweis-fuer-das-versagen-der-deutschen-energiewende-sind](https://www.spiegel.de/wissenschaft/energie-importe-warum-stromimporte-kein-beweis-fuer-das-versagen-der-deutschen-energiewende-sind-a-71cfb4ba-bd2d-414f-bb95-5254aa00673d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/iw-koeln-studie-80-000-syrer-arbeiten-dort-wo-arbeitskraefte-fehlen](https://www.spiegel.de/wirtschaft/iw-koeln-studie-80-000-syrer-arbeiten-dort-wo-arbeitskraefte-fehlen-a-27001032-2c37-4639-928f-18f2c351bfa6#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukrainischer-gefluechteter-in-deutschland-soll-fuer-kreml-sabotiert-haben](https://www.spiegel.de/ausland/russland-ukrainischer-gefluechteter-in-deutschland-soll-fuer-kreml-sabotiert-haben-a-5ee12ad2-ea0c-4a88-9efb-bf95d192de88#ref=rss)
-### euro
-
-* [https://www.spiegel.de/panorama/dresden-diebe-stehlen-zutaten-fuer-weihnachtsessen-aus-geschaeft](https://www.spiegel.de/panorama/dresden-diebe-stehlen-zutaten-fuer-weihnachtsessen-aus-geschaeft-a-f458a3ba-c9b2-4a30-9032-328733a9725d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/temu-test-was-taugen-die-produkte-aus-china](https://www.spiegel.de/wirtschaft/service/temu-test-was-taugen-die-produkte-aus-china-a-e33288da-54dd-4c92-bdc1-38fa4e7619e4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/fdp-und-steuern-die-teuren-wahlversprechen-der-liberalen](https://www.spiegel.de/wirtschaft/soziales/fdp-und-steuern-die-teuren-wahlversprechen-der-liberalen-a-e3c153fd-a266-4161-8c1f-2a2d9ebea40b#ref=rss)
-### bundestagswahl
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-kleine-parteien-muessen-unterschriften-sammeln](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-kleine-parteien-muessen-unterschriften-sammeln-a-d483b25a-9462-4113-9026-2f56ed72e945#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-markus-soeder-sieht-moegliches-buendnis-mit-spd-kritisch](https://www.spiegel.de/politik/deutschland/bundestagswahl-markus-soeder-sieht-moegliches-buendnis-mit-spd-kritisch-a-ef996d48-b6fc-47e4-9346-8a350b6aae2c#ref=rss)
-### kretschmer
-
-* [https://www.spiegel.de/politik/deutschland/sachsen-gruene-monieren-fehlende-nein-stimmen-bei-wahl-zum-saechsischen-ministerpraesidenten](https://www.spiegel.de/politik/deutschland/sachsen-gruene-monieren-fehlende-nein-stimmen-bei-wahl-zum-saechsischen-ministerpraesidenten-a-ff359f52-ca34-4ee3-b00c-19ed77a584af#ref=rss)
-* [https://www.spiegel.de/politik/matthias-berger-gegen-michael-kretschmer-landtag-in-sachsen-waehlt-neuen-ministerpraesidenten](https://www.spiegel.de/politik/matthias-berger-gegen-michael-kretschmer-landtag-in-sachsen-waehlt-neuen-ministerpraesidenten-a-4b7545b5-b63e-4249-8fee-a8698f2493b2#ref=rss)
-### wahl
-
-* [https://www.spiegel.de/politik/deutschland/sachsen-gruene-monieren-fehlende-nein-stimmen-bei-wahl-zum-saechsischen-ministerpraesidenten](https://www.spiegel.de/politik/deutschland/sachsen-gruene-monieren-fehlende-nein-stimmen-bei-wahl-zum-saechsischen-ministerpraesidenten-a-ff359f52-ca34-4ee3-b00c-19ed77a584af#ref=rss)
-* [https://www.spiegel.de/politik/matthias-berger-gegen-michael-kretschmer-landtag-in-sachsen-waehlt-neuen-ministerpraesidenten](https://www.spiegel.de/politik/matthias-berger-gegen-michael-kretschmer-landtag-in-sachsen-waehlt-neuen-ministerpraesidenten-a-4b7545b5-b63e-4249-8fee-a8698f2493b2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/kampfgeraet-fuer-die-ukraine-deutschland-raeumt-militaerwerkstatt-in-der-slowakei](https://www.spiegel.de/politik/deutschland/kampfgeraet-fuer-die-ukraine-deutschland-raeumt-militaerwerkstatt-in-der-slowakei-a-c00063c7-a739-4c4b-bf2b-d3ec3ae27af2#ref=rss)
-### china
-
-* [https://www.spiegel.de/wirtschaft/service/temu-test-was-taugen-die-produkte-aus-china](https://www.spiegel.de/wirtschaft/service/temu-test-was-taugen-die-produkte-aus-china-a-e33288da-54dd-4c92-bdc1-38fa4e7619e4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/china-us-oekonom-michael-pettis-warnt-vor-den-auswirkungen-eines-handelskriegs-mit-den-usa](https://www.spiegel.de/wirtschaft/china-us-oekonom-michael-pettis-warnt-vor-den-auswirkungen-eines-handelskriegs-mit-den-usa-a-1dc5f2ec-4114-429b-bf5d-8daff18754b2#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/ausland/grossbritannien-elon-musk-unterstuetzt-offenbar-rechtspopulisten-um-nigel-farage](https://www.spiegel.de/ausland/grossbritannien-elon-musk-unterstuetzt-offenbar-rechtspopulisten-um-nigel-farage-a-fcd329e7-51ae-40d0-931c-680e520c5e55#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukrainischer-gefluechteter-in-deutschland-soll-fuer-kreml-sabotiert-haben](https://www.spiegel.de/ausland/russland-ukrainischer-gefluechteter-in-deutschland-soll-fuer-kreml-sabotiert-haben-a-5ee12ad2-ea0c-4a88-9efb-bf95d192de88#ref=rss)
-### bündnis
-
-* [https://www.spiegel.de/ausland/grossbritannien-elon-musk-unterstuetzt-offenbar-rechtspopulisten-um-nigel-farage](https://www.spiegel.de/ausland/grossbritannien-elon-musk-unterstuetzt-offenbar-rechtspopulisten-um-nigel-farage-a-fcd329e7-51ae-40d0-931c-680e520c5e55#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-markus-soeder-sieht-moegliches-buendnis-mit-spd-kritisch](https://www.spiegel.de/politik/deutschland/bundestagswahl-markus-soeder-sieht-moegliches-buendnis-mit-spd-kritisch-a-ef996d48-b6fc-47e4-9346-8a350b6aae2c#ref=rss)
-### würde
-
-* [https://www.spiegel.de/wirtschaft/china-us-oekonom-michael-pettis-warnt-vor-den-auswirkungen-eines-handelskriegs-mit-den-usa](https://www.spiegel.de/wirtschaft/china-us-oekonom-michael-pettis-warnt-vor-den-auswirkungen-eines-handelskriegs-mit-den-usa-a-1dc5f2ec-4114-429b-bf5d-8daff18754b2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/iw-koeln-studie-80-000-syrer-arbeiten-dort-wo-arbeitskraefte-fehlen](https://www.spiegel.de/wirtschaft/iw-koeln-studie-80-000-syrer-arbeiten-dort-wo-arbeitskraefte-fehlen-a-27001032-2c37-4639-928f-18f2c351bfa6#ref=rss)
-* [https://www.spiegel.de/kultur/kultur-in-hamburg-carsten-brosda-so-engen-wir-die-kunst-ein-und-berauben-sie-ihrer-kraft](https://www.spiegel.de/kultur/kultur-in-hamburg-carsten-brosda-so-engen-wir-die-kunst-ein-und-berauben-sie-ihrer-kraft-a-3f00e19d-cbd6-4155-918c-7140b2c37903#ref=rss)
-### sieht
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-kleine-parteien-muessen-unterschriften-sammeln](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-kleine-parteien-muessen-unterschriften-sammeln-a-d483b25a-9462-4113-9026-2f56ed72e945#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-markus-soeder-sieht-moegliches-buendnis-mit-spd-kritisch](https://www.spiegel.de/politik/deutschland/bundestagswahl-markus-soeder-sieht-moegliches-buendnis-mit-spd-kritisch-a-ef996d48-b6fc-47e4-9346-8a350b6aae2c#ref=rss)
-### dennis
-
-* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeders-sohn-freut-sich-ueber-den-wechsel-seines-vaters-zu-den-warriors](https://www.spiegel.de/sport/basketball/nba-dennis-schroeders-sohn-freut-sich-ueber-den-wechsel-seines-vaters-zu-den-warriors-a-8a1a9217-9719-4e4b-8773-f0af16e986cb#ref=rss)
-### erst
-
-* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeders-sohn-freut-sich-ueber-den-wechsel-seines-vaters-zu-den-warriors](https://www.spiegel.de/sport/basketball/nba-dennis-schroeders-sohn-freut-sich-ueber-den-wechsel-seines-vaters-zu-den-warriors-a-8a1a9217-9719-4e4b-8773-f0af16e986cb#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/kampfgeraet-fuer-die-ukraine-deutschland-raeumt-militaerwerkstatt-in-der-slowakei](https://www.spiegel.de/politik/deutschland/kampfgeraet-fuer-die-ukraine-deutschland-raeumt-militaerwerkstatt-in-der-slowakei-a-c00063c7-a739-4c4b-bf2b-d3ec3ae27af2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/klimakrise-energieagentur-prognostiziert-rekordnachfrage-nach-kohle](https://www.spiegel.de/wirtschaft/klimakrise-energieagentur-prognostiziert-rekordnachfrage-nach-kohle-a-07e398de-ab42-42f0-b704-5828257f8162#ref=rss)
-### 2024
-
-* [https://www.spiegel.de/wirtschaft/klimakrise-energieagentur-prognostiziert-rekordnachfrage-nach-kohle](https://www.spiegel.de/wirtschaft/klimakrise-energieagentur-prognostiziert-rekordnachfrage-nach-kohle-a-07e398de-ab42-42f0-b704-5828257f8162#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kaum-noch-leerstand-diw-studie-belegt-kraeftigen-mietanstieg-in-2024](https://www.spiegel.de/wirtschaft/kaum-noch-leerstand-diw-studie-belegt-kraeftigen-mietanstieg-in-2024-a-1085f2fb-e8f1-4449-9e1e-37ac1ee209cf#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/wirtschaft/klimakrise-energieagentur-prognostiziert-rekordnachfrage-nach-kohle](https://www.spiegel.de/wirtschaft/klimakrise-energieagentur-prognostiziert-rekordnachfrage-nach-kohle-a-07e398de-ab42-42f0-b704-5828257f8162#ref=rss)
-* [https://www.spiegel.de/netzwelt/streaming-datentransfer-per-mobilfunk-erreicht-rekordwert](https://www.spiegel.de/netzwelt/streaming-datentransfer-per-mobilfunk-erreicht-rekordwert-a-e56c6e06-f57e-4cb0-a2a3-1c1f493011d4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/fdp-und-steuern-die-teuren-wahlversprechen-der-liberalen](https://www.spiegel.de/wirtschaft/soziales/fdp-und-steuern-die-teuren-wahlversprechen-der-liberalen-a-e3c153fd-a266-4161-8c1f-2a2d9ebea40b#ref=rss)
-### dresden
-
-* [https://www.spiegel.de/panorama/dresden-diebe-stehlen-zutaten-fuer-weihnachtsessen-aus-geschaeft](https://www.spiegel.de/panorama/dresden-diebe-stehlen-zutaten-fuer-weihnachtsessen-aus-geschaeft-a-f458a3ba-c9b2-4a30-9032-328733a9725d#ref=rss)
-### laut
-
-* [https://www.spiegel.de/panorama/dresden-diebe-stehlen-zutaten-fuer-weihnachtsessen-aus-geschaeft](https://www.spiegel.de/panorama/dresden-diebe-stehlen-zutaten-fuer-weihnachtsessen-aus-geschaeft-a-f458a3ba-c9b2-4a30-9032-328733a9725d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/iw-koeln-studie-80-000-syrer-arbeiten-dort-wo-arbeitskraefte-fehlen](https://www.spiegel.de/wirtschaft/iw-koeln-studie-80-000-syrer-arbeiten-dort-wo-arbeitskraefte-fehlen-a-27001032-2c37-4639-928f-18f2c351bfa6#ref=rss)
-### geschenke
-
-* [https://www.spiegel.de/wirtschaft/service/temu-test-was-taugen-die-produkte-aus-china](https://www.spiegel.de/wirtschaft/service/temu-test-was-taugen-die-produkte-aus-china-a-e33288da-54dd-4c92-bdc1-38fa4e7619e4#ref=rss)
-* [https://www.spiegel.de/panorama/brasilien-weihnachtsmann-rettet-badegaeste-in-rio-de-janeiro](https://www.spiegel.de/panorama/brasilien-weihnachtsmann-rettet-badegaeste-in-rio-de-janeiro-a-461438de-e399-4ee2-bea1-9906b7856c8d#ref=rss)
-### wir
-
-* [https://www.spiegel.de/wirtschaft/service/temu-test-was-taugen-die-produkte-aus-china](https://www.spiegel.de/wirtschaft/service/temu-test-was-taugen-die-produkte-aus-china-a-e33288da-54dd-4c92-bdc1-38fa4e7619e4#ref=rss)
-* [https://www.spiegel.de/kultur/kultur-in-hamburg-carsten-brosda-so-engen-wir-die-kunst-ein-und-berauben-sie-ihrer-kraft](https://www.spiegel.de/kultur/kultur-in-hamburg-carsten-brosda-so-engen-wir-die-kunst-ein-und-berauben-sie-ihrer-kraft-a-3f00e19d-cbd6-4155-918c-7140b2c37903#ref=rss)
-### elon
-
-* [https://www.spiegel.de/ausland/grossbritannien-elon-musk-unterstuetzt-offenbar-rechtspopulisten-um-nigel-farage](https://www.spiegel.de/ausland/grossbritannien-elon-musk-unterstuetzt-offenbar-rechtspopulisten-um-nigel-farage-a-fcd329e7-51ae-40d0-931c-680e520c5e55#ref=rss)
-### musk
-
-* [https://www.spiegel.de/ausland/grossbritannien-elon-musk-unterstuetzt-offenbar-rechtspopulisten-um-nigel-farage](https://www.spiegel.de/ausland/grossbritannien-elon-musk-unterstuetzt-offenbar-rechtspopulisten-um-nigel-farage-a-fcd329e7-51ae-40d0-931c-680e520c5e55#ref=rss)
-### nigel
-
-* [https://www.spiegel.de/ausland/grossbritannien-elon-musk-unterstuetzt-offenbar-rechtspopulisten-um-nigel-farage](https://www.spiegel.de/ausland/grossbritannien-elon-musk-unterstuetzt-offenbar-rechtspopulisten-um-nigel-farage-a-fcd329e7-51ae-40d0-931c-680e520c5e55#ref=rss)
-### farage
-
-* [https://www.spiegel.de/ausland/grossbritannien-elon-musk-unterstuetzt-offenbar-rechtspopulisten-um-nigel-farage](https://www.spiegel.de/ausland/grossbritannien-elon-musk-unterstuetzt-offenbar-rechtspopulisten-um-nigel-farage-a-fcd329e7-51ae-40d0-931c-680e520c5e55#ref=rss)
-### gegner
-
-* [https://www.spiegel.de/ausland/grossbritannien-elon-musk-unterstuetzt-offenbar-rechtspopulisten-um-nigel-farage](https://www.spiegel.de/ausland/grossbritannien-elon-musk-unterstuetzt-offenbar-rechtspopulisten-um-nigel-farage-a-fcd329e7-51ae-40d0-931c-680e520c5e55#ref=rss)
-* [https://www.spiegel.de/sport/darts-wm-trans-spielerin-noa-lynn-van-leuven-wird-freundlich-empfangen-aber-verliert](https://www.spiegel.de/sport/darts-wm-trans-spielerin-noa-lynn-van-leuven-wird-freundlich-empfangen-aber-verliert-a-6644f773-7b50-42e2-81fc-52d07e93f010#ref=rss)
-### fassbender
-
-* [https://www.spiegel.de/kultur/kino/michael-fassbender-abba-ist-ein-guter-soundtrack-zum-sterben](https://www.spiegel.de/kultur/kino/michael-fassbender-abba-ist-ein-guter-soundtrack-zum-sterben-a-e1bf35cd-71f1-426c-8925-115fd65bd702#ref=rss)
-### abba
-
-* [https://www.spiegel.de/kultur/kino/michael-fassbender-abba-ist-ein-guter-soundtrack-zum-sterben](https://www.spiegel.de/kultur/kino/michael-fassbender-abba-ist-ein-guter-soundtrack-zum-sterben-a-e1bf35cd-71f1-426c-8925-115fd65bd702#ref=rss)
-### usökonom
-
-* [https://www.spiegel.de/wirtschaft/china-us-oekonom-michael-pettis-warnt-vor-den-auswirkungen-eines-handelskriegs-mit-den-usa](https://www.spiegel.de/wirtschaft/china-us-oekonom-michael-pettis-warnt-vor-den-auswirkungen-eines-handelskriegs-mit-den-usa-a-1dc5f2ec-4114-429b-bf5d-8daff18754b2#ref=rss)
-### pettis
-
-* [https://www.spiegel.de/wirtschaft/china-us-oekonom-michael-pettis-warnt-vor-den-auswirkungen-eines-handelskriegs-mit-den-usa](https://www.spiegel.de/wirtschaft/china-us-oekonom-michael-pettis-warnt-vor-den-auswirkungen-eines-handelskriegs-mit-den-usa-a-1dc5f2ec-4114-429b-bf5d-8daff18754b2#ref=rss)
-### usa
-
-* [https://www.spiegel.de/wirtschaft/china-us-oekonom-michael-pettis-warnt-vor-den-auswirkungen-eines-handelskriegs-mit-den-usa](https://www.spiegel.de/wirtschaft/china-us-oekonom-michael-pettis-warnt-vor-den-auswirkungen-eines-handelskriegs-mit-den-usa-a-1dc5f2ec-4114-429b-bf5d-8daff18754b2#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/wirtschaft/china-us-oekonom-michael-pettis-warnt-vor-den-auswirkungen-eines-handelskriegs-mit-den-usa](https://www.spiegel.de/wirtschaft/china-us-oekonom-michael-pettis-warnt-vor-den-auswirkungen-eines-handelskriegs-mit-den-usa-a-1dc5f2ec-4114-429b-bf5d-8daff18754b2#ref=rss)
-* [https://www.spiegel.de/kultur/kultur-in-hamburg-carsten-brosda-so-engen-wir-die-kunst-ein-und-berauben-sie-ihrer-kraft](https://www.spiegel.de/kultur/kultur-in-hamburg-carsten-brosda-so-engen-wir-die-kunst-ein-und-berauben-sie-ihrer-kraft-a-3f00e19d-cbd6-4155-918c-7140b2c37903#ref=rss)
-### recht
-
-* [https://www.spiegel.de/wirtschaft/china-us-oekonom-michael-pettis-warnt-vor-den-auswirkungen-eines-handelskriegs-mit-den-usa](https://www.spiegel.de/wirtschaft/china-us-oekonom-michael-pettis-warnt-vor-den-auswirkungen-eines-handelskriegs-mit-den-usa-a-1dc5f2ec-4114-429b-bf5d-8daff18754b2#ref=rss)
-* [https://www.spiegel.de/kultur/kultur-in-hamburg-carsten-brosda-so-engen-wir-die-kunst-ein-und-berauben-sie-ihrer-kraft](https://www.spiegel.de/kultur/kultur-in-hamburg-carsten-brosda-so-engen-wir-die-kunst-ein-und-berauben-sie-ihrer-kraft-a-3f00e19d-cbd6-4155-918c-7140b2c37903#ref=rss)
-### constantini
-
-* [https://www.spiegel.de/sport/fussball/didi-constantini-ist-tot-trainerlegende-aus-oesterreich-gestorben](https://www.spiegel.de/sport/fussball/didi-constantini-ist-tot-trainerlegende-aus-oesterreich-gestorben-a-85f38153-f215-4675-8813-54ab58adc323#ref=rss)
-### gestorben
-
-* [https://www.spiegel.de/sport/fussball/didi-constantini-ist-tot-trainerlegende-aus-oesterreich-gestorben](https://www.spiegel.de/sport/fussball/didi-constantini-ist-tot-trainerlegende-aus-oesterreich-gestorben-a-85f38153-f215-4675-8813-54ab58adc323#ref=rss)
-### seines
-
-* [https://www.spiegel.de/panorama/brasilien-weihnachtsmann-rettet-badegaeste-in-rio-de-janeiro](https://www.spiegel.de/panorama/brasilien-weihnachtsmann-rettet-badegaeste-in-rio-de-janeiro-a-461438de-e399-4ee2-bea1-9906b7856c8d#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeders-sohn-freut-sich-ueber-den-wechsel-seines-vaters-zu-den-warriors](https://www.spiegel.de/sport/basketball/nba-dennis-schroeders-sohn-freut-sich-ueber-den-wechsel-seines-vaters-zu-den-warriors-a-8a1a9217-9719-4e4b-8773-f0af16e986cb#ref=rss)
-### 2025
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-kleine-parteien-muessen-unterschriften-sammeln](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-kleine-parteien-muessen-unterschriften-sammeln-a-d483b25a-9462-4113-9026-2f56ed72e945#ref=rss)
-* [https://www.spiegel.de/kultur/kino/oscars-2025-volker-bertelmann-die-saat-des-heiligen-feigenbaums-auf-der-shortlist](https://www.spiegel.de/kultur/kino/oscars-2025-volker-bertelmann-die-saat-des-heiligen-feigenbaums-auf-der-shortlist-a-dbe7d056-9937-4d6f-b13a-9ffaaa31de5d#ref=rss)
-### kleine
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-kleine-parteien-muessen-unterschriften-sammeln](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-kleine-parteien-muessen-unterschriften-sammeln-a-d483b25a-9462-4113-9026-2f56ed72e945#ref=rss)
-### parteien
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-kleine-parteien-muessen-unterschriften-sammeln](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-kleine-parteien-muessen-unterschriften-sammeln-a-d483b25a-9462-4113-9026-2f56ed72e945#ref=rss)
-### unterschriften
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-kleine-parteien-muessen-unterschriften-sammeln](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-kleine-parteien-muessen-unterschriften-sammeln-a-d483b25a-9462-4113-9026-2f56ed72e945#ref=rss)
-### zeit
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-kleine-parteien-muessen-unterschriften-sammeln](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-kleine-parteien-muessen-unterschriften-sammeln-a-d483b25a-9462-4113-9026-2f56ed72e945#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/mr-unreal-estate-im-interview-anfangs-dachten-viele-ich-mache-makler-satire](https://www.spiegel.de/netzwelt/web/mr-unreal-estate-im-interview-anfangs-dachten-viele-ich-mache-makler-satire-a-3629082d-cddf-4346-bcdf-da2492178b39#ref=rss)
-### anteile
-
-* [https://www.spiegel.de/wirtschaft/anteile-aufgestockt-unicredit-greift-nach-der-commerzbank](https://www.spiegel.de/wirtschaft/anteile-aufgestockt-unicredit-greift-nach-der-commerzbank-a-b31b76ef-8f80-49db-b3f5-2aa38d65af6b#ref=rss)
-### unicredit
-
-* [https://www.spiegel.de/wirtschaft/anteile-aufgestockt-unicredit-greift-nach-der-commerzbank](https://www.spiegel.de/wirtschaft/anteile-aufgestockt-unicredit-greift-nach-der-commerzbank-a-b31b76ef-8f80-49db-b3f5-2aa38d65af6b#ref=rss)
-### commerzbank
-
-* [https://www.spiegel.de/wirtschaft/anteile-aufgestockt-unicredit-greift-nach-der-commerzbank](https://www.spiegel.de/wirtschaft/anteile-aufgestockt-unicredit-greift-nach-der-commerzbank-a-b31b76ef-8f80-49db-b3f5-2aa38d65af6b#ref=rss)
-### markus
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-markus-soeder-sieht-moegliches-buendnis-mit-spd-kritisch](https://www.spiegel.de/politik/deutschland/bundestagswahl-markus-soeder-sieht-moegliches-buendnis-mit-spd-kritisch-a-ef996d48-b6fc-47e4-9346-8a350b6aae2c#ref=rss)
-### söder
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-markus-soeder-sieht-moegliches-buendnis-mit-spd-kritisch](https://www.spiegel.de/politik/deutschland/bundestagswahl-markus-soeder-sieht-moegliches-buendnis-mit-spd-kritisch-a-ef996d48-b6fc-47e4-9346-8a350b6aae2c#ref=rss)
-### spd
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-markus-soeder-sieht-moegliches-buendnis-mit-spd-kritisch](https://www.spiegel.de/politik/deutschland/bundestagswahl-markus-soeder-sieht-moegliches-buendnis-mit-spd-kritisch-a-ef996d48-b6fc-47e4-9346-8a350b6aae2c#ref=rss)
-### viele
-
-* [https://www.spiegel.de/netzwelt/web/mr-unreal-estate-im-interview-anfangs-dachten-viele-ich-mache-makler-satire](https://www.spiegel.de/netzwelt/web/mr-unreal-estate-im-interview-anfangs-dachten-viele-ich-mache-makler-satire-a-3629082d-cddf-4346-bcdf-da2492178b39#ref=rss)
-### suni
-
-* [https://www.spiegel.de/wissenschaft/weltall/nasa-rueckkehr-von-suni-williams-und-butch-wilmore-von-iss-erneut-verschoben](https://www.spiegel.de/wissenschaft/weltall/nasa-rueckkehr-von-suni-williams-und-butch-wilmore-von-iss-erneut-verschoben-a-7130757d-3b1c-40c6-bfee-cbad488db089#ref=rss)
-### williams
-
-* [https://www.spiegel.de/wissenschaft/weltall/nasa-rueckkehr-von-suni-williams-und-butch-wilmore-von-iss-erneut-verschoben](https://www.spiegel.de/wissenschaft/weltall/nasa-rueckkehr-von-suni-williams-und-butch-wilmore-von-iss-erneut-verschoben-a-7130757d-3b1c-40c6-bfee-cbad488db089#ref=rss)
-### butch
-
-* [https://www.spiegel.de/wissenschaft/weltall/nasa-rueckkehr-von-suni-williams-und-butch-wilmore-von-iss-erneut-verschoben](https://www.spiegel.de/wissenschaft/weltall/nasa-rueckkehr-von-suni-williams-und-butch-wilmore-von-iss-erneut-verschoben-a-7130757d-3b1c-40c6-bfee-cbad488db089#ref=rss)
-### wilmore
-
-* [https://www.spiegel.de/wissenschaft/weltall/nasa-rueckkehr-von-suni-williams-und-butch-wilmore-von-iss-erneut-verschoben](https://www.spiegel.de/wissenschaft/weltall/nasa-rueckkehr-von-suni-williams-und-butch-wilmore-von-iss-erneut-verschoben-a-7130757d-3b1c-40c6-bfee-cbad488db089#ref=rss)
-### volker
-
-* [https://www.spiegel.de/kultur/kino/oscars-2025-volker-bertelmann-die-saat-des-heiligen-feigenbaums-auf-der-shortlist](https://www.spiegel.de/kultur/kino/oscars-2025-volker-bertelmann-die-saat-des-heiligen-feigenbaums-auf-der-shortlist-a-dbe7d056-9937-4d6f-b13a-9ffaaa31de5d#ref=rss)
-### bertelmann
-
-* [https://www.spiegel.de/kultur/kino/oscars-2025-volker-bertelmann-die-saat-des-heiligen-feigenbaums-auf-der-shortlist](https://www.spiegel.de/kultur/kino/oscars-2025-volker-bertelmann-die-saat-des-heiligen-feigenbaums-auf-der-shortlist-a-dbe7d056-9937-4d6f-b13a-9ffaaa31de5d#ref=rss)
-### saat
-
-* [https://www.spiegel.de/kultur/kino/oscars-2025-volker-bertelmann-die-saat-des-heiligen-feigenbaums-auf-der-shortlist](https://www.spiegel.de/kultur/kino/oscars-2025-volker-bertelmann-die-saat-des-heiligen-feigenbaums-auf-der-shortlist-a-dbe7d056-9937-4d6f-b13a-9ffaaa31de5d#ref=rss)
-### heiligen
-
-* [https://www.spiegel.de/kultur/kino/oscars-2025-volker-bertelmann-die-saat-des-heiligen-feigenbaums-auf-der-shortlist](https://www.spiegel.de/kultur/kino/oscars-2025-volker-bertelmann-die-saat-des-heiligen-feigenbaums-auf-der-shortlist-a-dbe7d056-9937-4d6f-b13a-9ffaaa31de5d#ref=rss)
-### feigenbaums
-
-* [https://www.spiegel.de/kultur/kino/oscars-2025-volker-bertelmann-die-saat-des-heiligen-feigenbaums-auf-der-shortlist](https://www.spiegel.de/kultur/kino/oscars-2025-volker-bertelmann-die-saat-des-heiligen-feigenbaums-auf-der-shortlist-a-dbe7d056-9937-4d6f-b13a-9ffaaa31de5d#ref=rss)
-### wechsel
-
-* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeders-sohn-freut-sich-ueber-den-wechsel-seines-vaters-zu-den-warriors](https://www.spiegel.de/sport/basketball/nba-dennis-schroeders-sohn-freut-sich-ueber-den-wechsel-seines-vaters-zu-den-warriors-a-8a1a9217-9719-4e4b-8773-f0af16e986cb#ref=rss)
-### gerade
-
-* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeders-sohn-freut-sich-ueber-den-wechsel-seines-vaters-zu-den-warriors](https://www.spiegel.de/sport/basketball/nba-dennis-schroeders-sohn-freut-sich-ueber-den-wechsel-seines-vaters-zu-den-warriors-a-8a1a9217-9719-4e4b-8773-f0af16e986cb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kaum-noch-leerstand-diw-studie-belegt-kraeftigen-mietanstieg-in-2024](https://www.spiegel.de/wirtschaft/kaum-noch-leerstand-diw-studie-belegt-kraeftigen-mietanstieg-in-2024-a-1085f2fb-e8f1-4449-9e1e-37ac1ee209cf#ref=rss)
-### nissan
-
-* [https://www.spiegel.de/wirtschaft/nissan-und-honda-sprechen-ueber-fusion](https://www.spiegel.de/wirtschaft/nissan-und-honda-sprechen-ueber-fusion-a-b2f93936-7ab7-4fd1-9537-9a25345a0e88#ref=rss)
-### honda
-
-* [https://www.spiegel.de/wirtschaft/nissan-und-honda-sprechen-ueber-fusion](https://www.spiegel.de/wirtschaft/nissan-und-honda-sprechen-ueber-fusion-a-b2f93936-7ab7-4fd1-9537-9a25345a0e88#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-in-bsw-kampagne-es-soll-nur-eine-geben](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-in-bsw-kampagne-es-soll-nur-eine-geben-a-98795bd1-092b-477f-8cad-b0bac398d664#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/alzheimer-sterberisiko-laut-us-studie-deutlich-geringer-fuer-krankenwagen-und-taxifahrer](https://www.spiegel.de/wissenschaft/mensch/alzheimer-sterberisiko-laut-us-studie-deutlich-geringer-fuer-krankenwagen-und-taxifahrer-a-b64781ed-8cd0-4cd7-b144-5ea913e7a773#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/das-grosse-missverstaendnis-der-deutschen-migrationspolitik](https://www.spiegel.de/wirtschaft/soziales/das-grosse-missverstaendnis-der-deutschen-migrationspolitik-a-c00bcc4d-8b6f-40f0-b4c2-7fb55ce113bd#ref=rss)
+* [https://www.spiegel.de/sport/fussball/manuel-graefe-gegen-den-dfb-eine-geplatzte-berufung-und-ein-rechtsstreit-um-sehr-viel-geld](https://www.spiegel.de/sport/fussball/manuel-graefe-gegen-den-dfb-eine-geplatzte-berufung-und-ein-rechtsstreit-um-sehr-viel-geld-a-1397fae9-eb10-452f-8816-3c61379eedea#ref=rss)
 ### sachsen
 
-* [https://www.spiegel.de/politik/deutschland/sachsen-gruene-monieren-fehlende-nein-stimmen-bei-wahl-zum-saechsischen-ministerpraesidenten](https://www.spiegel.de/politik/deutschland/sachsen-gruene-monieren-fehlende-nein-stimmen-bei-wahl-zum-saechsischen-ministerpraesidenten-a-ff359f52-ca34-4ee3-b00c-19ed77a584af#ref=rss)
-* [https://www.spiegel.de/politik/matthias-berger-gegen-michael-kretschmer-landtag-in-sachsen-waehlt-neuen-ministerpraesidenten](https://www.spiegel.de/politik/matthias-berger-gegen-michael-kretschmer-landtag-in-sachsen-waehlt-neuen-ministerpraesidenten-a-4b7545b5-b63e-4249-8fee-a8698f2493b2#ref=rss)
-### ministerpräsident
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-sachsen-michael-kretschmer-elon-musk-nigel-farage-hoehlenforscherin](https://www.spiegel.de/politik/deutschland/news-des-tages-sachsen-michael-kretschmer-elon-musk-nigel-farage-hoehlenforscherin-a-b3f1b741-c1fa-4039-b23d-cffff2162f0c#ref=rss)
+* [https://www.spiegel.de/panorama/grossenhain-in-sachsen-b101-bruecke-soll-abgerissen-werden](https://www.spiegel.de/panorama/grossenhain-in-sachsen-b101-bruecke-soll-abgerissen-werden-a-fe140a08-b195-4a19-aef9-9014a8ebaaa1#ref=rss)
+### neue
 
-* [https://www.spiegel.de/politik/deutschland/sachsen-gruene-monieren-fehlende-nein-stimmen-bei-wahl-zum-saechsischen-ministerpraesidenten](https://www.spiegel.de/politik/deutschland/sachsen-gruene-monieren-fehlende-nein-stimmen-bei-wahl-zum-saechsischen-ministerpraesidenten-a-ff359f52-ca34-4ee3-b00c-19ed77a584af#ref=rss)
-### ministerpräsidenten
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-milliardenprojekte-bestaetigt-marine-bekommt-neue-u-boote](https://www.spiegel.de/politik/deutschland/bundeswehr-milliardenprojekte-bestaetigt-marine-bekommt-neue-u-boote-a-4aa81876-2009-4dc6-a248-9e8dda122964#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/bildungsbericht-ruhr-jede-dritte-schule-im-ruhrgebiet-hat-probleme](https://www.spiegel.de/panorama/bildung/bildungsbericht-ruhr-jede-dritte-schule-im-ruhrgebiet-hat-probleme-a-955daf9b-0bd6-4cc3-83ed-2ee3ba39afea#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/politik/matthias-berger-gegen-michael-kretschmer-landtag-in-sachsen-waehlt-neuen-ministerpraesidenten](https://www.spiegel.de/politik/matthias-berger-gegen-michael-kretschmer-landtag-in-sachsen-waehlt-neuen-ministerpraesidenten-a-4b7545b5-b63e-4249-8fee-a8698f2493b2#ref=rss)
-### mehrheit
+* [https://www.spiegel.de/sport/klaus-wolfermann-ist-tot-speerwurf-olympiasieger-von-1972-gestorben](https://www.spiegel.de/sport/klaus-wolfermann-ist-tot-speerwurf-olympiasieger-von-1972-gestorben-a-3dd35a12-775f-45ff-88ef-a0e67dd459fc#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/weiden-15-jaehriger-wegen-toetung-von-siebenjaehrigem-vor-gericht](https://www.spiegel.de/panorama/justiz/weiden-15-jaehriger-wegen-toetung-von-siebenjaehrigem-vor-gericht-a-9448f528-8673-4b27-9d40-017cd3908ece#ref=rss)
+* [https://www.spiegel.de/sport/fussball/manuel-graefe-gegen-den-dfb-eine-geplatzte-berufung-und-ein-rechtsstreit-um-sehr-viel-geld](https://www.spiegel.de/sport/fussball/manuel-graefe-gegen-den-dfb-eine-geplatzte-berufung-und-ein-rechtsstreit-um-sehr-viel-geld-a-1397fae9-eb10-452f-8816-3c61379eedea#ref=rss)
+### bekommt
 
-* [https://www.spiegel.de/politik/matthias-berger-gegen-michael-kretschmer-landtag-in-sachsen-waehlt-neuen-ministerpraesidenten](https://www.spiegel.de/politik/matthias-berger-gegen-michael-kretschmer-landtag-in-sachsen-waehlt-neuen-ministerpraesidenten-a-4b7545b5-b63e-4249-8fee-a8698f2493b2#ref=rss)
-### slowakei
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-milliardenprojekte-bestaetigt-marine-bekommt-neue-u-boote](https://www.spiegel.de/politik/deutschland/bundeswehr-milliardenprojekte-bestaetigt-marine-bekommt-neue-u-boote-a-4aa81876-2009-4dc6-a248-9e8dda122964#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/netflix-niederlande-verhaengen-millionenstrafe-gegen-streamingdienst](https://www.spiegel.de/netzwelt/apps/netflix-niederlande-verhaengen-millionenstrafe-gegen-streamingdienst-a-b03f6785-cbfc-41a9-a1eb-0be28dc82ca7#ref=rss)
+* [https://www.spiegel.de/kultur/kino/superman-regisseur-james-gunn-hat-testaufnahmen-mit-und-ohne-hose-gemacht](https://www.spiegel.de/kultur/kino/superman-regisseur-james-gunn-hat-testaufnahmen-mit-und-ohne-hose-gemacht-a-216b2ab7-0c4a-403c-b567-8bb953b98545#ref=rss)
+### haushaltsausschuss
 
-* [https://www.spiegel.de/politik/deutschland/kampfgeraet-fuer-die-ukraine-deutschland-raeumt-militaerwerkstatt-in-der-slowakei](https://www.spiegel.de/politik/deutschland/kampfgeraet-fuer-die-ukraine-deutschland-raeumt-militaerwerkstatt-in-der-slowakei-a-c00063c7-a739-4c4b-bf2b-d3ec3ae27af2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-milliardenprojekte-bestaetigt-marine-bekommt-neue-u-boote](https://www.spiegel.de/politik/deutschland/bundeswehr-milliardenprojekte-bestaetigt-marine-bekommt-neue-u-boote-a-4aa81876-2009-4dc6-a248-9e8dda122964#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/forschungsschiff-haushaltsausschuss-gibt-mittel-fuer-polarstern-ii-frei](https://www.spiegel.de/politik/deutschland/forschungsschiff-haushaltsausschuss-gibt-mittel-fuer-polarstern-ii-frei-a-3014e46c-228a-43ae-931b-afec99fbb7e8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-union-stimmt-milliardenzahlung-fuer-streckensanierung-zu](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-union-stimmt-milliardenzahlung-fuer-streckensanierung-zu-a-44243b5c-4a99-4231-9b3c-888bc5c7d6bc#ref=rss)
+### union
+
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-milliardenprojekte-bestaetigt-marine-bekommt-neue-u-boote](https://www.spiegel.de/politik/deutschland/bundeswehr-milliardenprojekte-bestaetigt-marine-bekommt-neue-u-boote-a-4aa81876-2009-4dc6-a248-9e8dda122964#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-union-stimmt-milliardenzahlung-fuer-streckensanierung-zu](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-union-stimmt-milliardenzahlung-fuer-streckensanierung-zu-a-44243b5c-4a99-4231-9b3c-888bc5c7d6bc#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/panorama/justiz/ingolstadt-prozess-um-angebliche-doppelgaengerin-warum-musste-khadidja-o-sterben](https://www.spiegel.de/panorama/justiz/ingolstadt-prozess-um-angebliche-doppelgaengerin-warum-musste-khadidja-o-sterben-a-3ec10359-2f52-4f8e-8618-8cc33c96af47#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### jede
+
+* [https://www.spiegel.de/panorama/bildung/bildungsbericht-ruhr-jede-dritte-schule-im-ruhrgebiet-hat-probleme](https://www.spiegel.de/panorama/bildung/bildungsbericht-ruhr-jede-dritte-schule-im-ruhrgebiet-hat-probleme-a-955daf9b-0bd6-4cc3-83ed-2ee3ba39afea#ref=rss)
+* [https://www.spiegel.de/kultur/kino/superman-regisseur-james-gunn-hat-testaufnahmen-mit-und-ohne-hose-gemacht](https://www.spiegel.de/kultur/kino/superman-regisseur-james-gunn-hat-testaufnahmen-mit-und-ohne-hose-gemacht-a-216b2ab7-0c4a-403c-b567-8bb953b98545#ref=rss)
+* [https://www.spiegel.de/ausland/marcin-romanowski-polen-will-europaweit-nach-ex-regierungsmitglied-fahnden](https://www.spiegel.de/ausland/marcin-romanowski-polen-will-europaweit-nach-ex-regierungsmitglied-fahnden-a-7720e88d-6f19-4f95-ae7c-92a576a77a70#ref=rss)
+### unter
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-union-stimmt-milliardenzahlung-fuer-streckensanierung-zu](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-union-stimmt-milliardenzahlung-fuer-streckensanierung-zu-a-44243b5c-4a99-4231-9b3c-888bc5c7d6bc#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/bundesregierung-verlaengert-kurzarbeitergeld-auf-zwei-jahre](https://www.spiegel.de/wirtschaft/soziales/bundesregierung-verlaengert-kurzarbeitergeld-auf-zwei-jahre-a-550b3c37-33f8-454a-ae1e-738c08cdcb31#ref=rss)
 ### deutschen
 
-* [https://www.spiegel.de/wissenschaft/energie-importe-warum-stromimporte-kein-beweis-fuer-das-versagen-der-deutschen-energiewende-sind](https://www.spiegel.de/wissenschaft/energie-importe-warum-stromimporte-kein-beweis-fuer-das-versagen-der-deutschen-energiewende-sind-a-71cfb4ba-bd2d-414f-bb95-5254aa00673d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/iw-koeln-studie-80-000-syrer-arbeiten-dort-wo-arbeitskraefte-fehlen](https://www.spiegel.de/wirtschaft/iw-koeln-studie-80-000-syrer-arbeiten-dort-wo-arbeitskraefte-fehlen-a-27001032-2c37-4639-928f-18f2c351bfa6#ref=rss)
-### energiewende
+* [https://www.spiegel.de/wirtschaft/soziales/das-grosse-missverstaendnis-der-deutschen-migrationspolitik](https://www.spiegel.de/wirtschaft/soziales/das-grosse-missverstaendnis-der-deutschen-migrationspolitik-a-c00bcc4d-8b6f-40f0-b4c2-7fb55ce113bd#ref=rss)
+* [https://www.spiegel.de/kultur/musik/beyonce-charli-xcx-billie-eilish-das-ist-die-beste-musik-des-jahres](https://www.spiegel.de/kultur/musik/beyonce-charli-xcx-billie-eilish-das-ist-die-beste-musik-des-jahres-a-9579e6a9-deab-415d-8f25-2d9a48d55980#ref=rss)
+* [https://www.spiegel.de/sport/fussball/manuel-graefe-gegen-den-dfb-eine-geplatzte-berufung-und-ein-rechtsstreit-um-sehr-viel-geld](https://www.spiegel.de/sport/fussball/manuel-graefe-gegen-den-dfb-eine-geplatzte-berufung-und-ein-rechtsstreit-um-sehr-viel-geld-a-1397fae9-eb10-452f-8816-3c61379eedea#ref=rss)
+### mutter
 
-* [https://www.spiegel.de/wissenschaft/energie-importe-warum-stromimporte-kein-beweis-fuer-das-versagen-der-deutschen-energiewende-sind](https://www.spiegel.de/wissenschaft/energie-importe-warum-stromimporte-kein-beweis-fuer-das-versagen-der-deutschen-energiewende-sind-a-71cfb4ba-bd2d-414f-bb95-5254aa00673d#ref=rss)
-### angeblich
+* [https://www.spiegel.de/panorama/afd-potsdamer-mutter-unterliegt-vor-gericht-nach-kritik-an-aeusserungen-vor-grundschuelern](https://www.spiegel.de/panorama/afd-potsdamer-mutter-unterliegt-vor-gericht-nach-kritik-an-aeusserungen-vor-grundschuelern-a-28e16980-6101-486d-bb81-3dd3ed632773#ref=rss)
+### kritik
 
-* [https://www.spiegel.de/wissenschaft/energie-importe-warum-stromimporte-kein-beweis-fuer-das-versagen-der-deutschen-energiewende-sind](https://www.spiegel.de/wissenschaft/energie-importe-warum-stromimporte-kein-beweis-fuer-das-versagen-der-deutschen-energiewende-sind-a-71cfb4ba-bd2d-414f-bb95-5254aa00673d#ref=rss)
-* [https://www.spiegel.de/ausland/russland-meldet-festnahme-nach-toedlichem-anschlag-auf-general](https://www.spiegel.de/ausland/russland-meldet-festnahme-nach-toedlichem-anschlag-auf-general-a-3e2f3a3f-aed7-4258-90d8-1b0f2b696ab8#ref=rss)
-### russland
+* [https://www.spiegel.de/panorama/afd-potsdamer-mutter-unterliegt-vor-gericht-nach-kritik-an-aeusserungen-vor-grundschuelern](https://www.spiegel.de/panorama/afd-potsdamer-mutter-unterliegt-vor-gericht-nach-kritik-an-aeusserungen-vor-grundschuelern-a-28e16980-6101-486d-bb81-3dd3ed632773#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/bundesregierung-verlaengert-kurzarbeitergeld-auf-zwei-jahre](https://www.spiegel.de/wirtschaft/soziales/bundesregierung-verlaengert-kurzarbeitergeld-auf-zwei-jahre-a-550b3c37-33f8-454a-ae1e-738c08cdcb31#ref=rss)
+### sergio
 
-* [https://www.spiegel.de/ausland/russland-meldet-festnahme-nach-toedlichem-anschlag-auf-general](https://www.spiegel.de/ausland/russland-meldet-festnahme-nach-toedlichem-anschlag-auf-general-a-3e2f3a3f-aed7-4258-90d8-1b0f2b696ab8#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukrainischer-gefluechteter-in-deutschland-soll-fuer-kreml-sabotiert-haben](https://www.spiegel.de/ausland/russland-ukrainischer-gefluechteter-in-deutschland-soll-fuer-kreml-sabotiert-haben-a-5ee12ad2-ea0c-4a88-9efb-bf95d192de88#ref=rss)
-### wo
+* [https://www.spiegel.de/sport/formel1/formel-1-sergio-perez-verliert-sein-cockpit-bei-red-bull-racing](https://www.spiegel.de/sport/formel1/formel-1-sergio-perez-verliert-sein-cockpit-bei-red-bull-racing-a-e360fc1f-e47c-44e3-abbb-bf387c18658a#ref=rss)
+### pérez
 
-* [https://www.spiegel.de/wirtschaft/iw-koeln-studie-80-000-syrer-arbeiten-dort-wo-arbeitskraefte-fehlen](https://www.spiegel.de/wirtschaft/iw-koeln-studie-80-000-syrer-arbeiten-dort-wo-arbeitskraefte-fehlen-a-27001032-2c37-4639-928f-18f2c351bfa6#ref=rss)
-### besonders
+* [https://www.spiegel.de/sport/formel1/formel-1-sergio-perez-verliert-sein-cockpit-bei-red-bull-racing](https://www.spiegel.de/sport/formel1/formel-1-sergio-perez-verliert-sein-cockpit-bei-red-bull-racing-a-e360fc1f-e47c-44e3-abbb-bf387c18658a#ref=rss)
+### red
 
-* [https://www.spiegel.de/wirtschaft/iw-koeln-studie-80-000-syrer-arbeiten-dort-wo-arbeitskraefte-fehlen](https://www.spiegel.de/wirtschaft/iw-koeln-studie-80-000-syrer-arbeiten-dort-wo-arbeitskraefte-fehlen-a-27001032-2c37-4639-928f-18f2c351bfa6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/schufa-bonitaetsmakel-schneller-tilgen-was-das-fuer-kreditnehmer-bedeutet](https://www.spiegel.de/wirtschaft/schufa-bonitaetsmakel-schneller-tilgen-was-das-fuer-kreditnehmer-bedeutet-a-8905b2ac-7cee-4e78-adb6-01bf6bd81a89#ref=rss)
-### kohle
+* [https://www.spiegel.de/sport/formel1/formel-1-sergio-perez-verliert-sein-cockpit-bei-red-bull-racing](https://www.spiegel.de/sport/formel1/formel-1-sergio-perez-verliert-sein-cockpit-bei-red-bull-racing-a-e360fc1f-e47c-44e3-abbb-bf387c18658a#ref=rss)
+### bull
 
-* [https://www.spiegel.de/wirtschaft/klimakrise-energieagentur-prognostiziert-rekordnachfrage-nach-kohle](https://www.spiegel.de/wirtschaft/klimakrise-energieagentur-prognostiziert-rekordnachfrage-nach-kohle-a-07e398de-ab42-42f0-b704-5828257f8162#ref=rss)
-### mehr
+* [https://www.spiegel.de/sport/formel1/formel-1-sergio-perez-verliert-sein-cockpit-bei-red-bull-racing](https://www.spiegel.de/sport/formel1/formel-1-sergio-perez-verliert-sein-cockpit-bei-red-bull-racing-a-e360fc1f-e47c-44e3-abbb-bf387c18658a#ref=rss)
+### racing
 
-* [https://www.spiegel.de/wirtschaft/klimakrise-energieagentur-prognostiziert-rekordnachfrage-nach-kohle](https://www.spiegel.de/wirtschaft/klimakrise-energieagentur-prognostiziert-rekordnachfrage-nach-kohle-a-07e398de-ab42-42f0-b704-5828257f8162#ref=rss)
-* [https://www.spiegel.de/netzwelt/streaming-datentransfer-per-mobilfunk-erreicht-rekordwert](https://www.spiegel.de/netzwelt/streaming-datentransfer-per-mobilfunk-erreicht-rekordwert-a-e56c6e06-f57e-4cb0-a2a3-1c1f493011d4#ref=rss)
-### wende
+* [https://www.spiegel.de/sport/formel1/formel-1-sergio-perez-verliert-sein-cockpit-bei-red-bull-racing](https://www.spiegel.de/sport/formel1/formel-1-sergio-perez-verliert-sein-cockpit-bei-red-bull-racing-a-e360fc1f-e47c-44e3-abbb-bf387c18658a#ref=rss)
+### offen
 
-* [https://www.spiegel.de/wirtschaft/klimakrise-energieagentur-prognostiziert-rekordnachfrage-nach-kohle](https://www.spiegel.de/wirtschaft/klimakrise-energieagentur-prognostiziert-rekordnachfrage-nach-kohle-a-07e398de-ab42-42f0-b704-5828257f8162#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kaum-noch-leerstand-diw-studie-belegt-kraeftigen-mietanstieg-in-2024](https://www.spiegel.de/wirtschaft/kaum-noch-leerstand-diw-studie-belegt-kraeftigen-mietanstieg-in-2024-a-1085f2fb-e8f1-4449-9e1e-37ac1ee209cf#ref=rss)
-### dartswm
+* [https://www.spiegel.de/sport/formel1/formel-1-sergio-perez-verliert-sein-cockpit-bei-red-bull-racing](https://www.spiegel.de/sport/formel1/formel-1-sergio-perez-verliert-sein-cockpit-bei-red-bull-racing-a-e360fc1f-e47c-44e3-abbb-bf387c18658a#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/ingolstadt-prozess-um-angebliche-doppelgaengerin-warum-musste-khadidja-o-sterben](https://www.spiegel.de/panorama/justiz/ingolstadt-prozess-um-angebliche-doppelgaengerin-warum-musste-khadidja-o-sterben-a-3ec10359-2f52-4f8e-8618-8cc33c96af47#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/sport/darts-wm-trans-spielerin-noa-lynn-van-leuven-wird-freundlich-empfangen-aber-verliert](https://www.spiegel.de/sport/darts-wm-trans-spielerin-noa-lynn-van-leuven-wird-freundlich-empfangen-aber-verliert-a-6644f773-7b50-42e2-81fc-52d07e93f010#ref=rss)
-### trans
+* [https://www.spiegel.de/politik/deutschland/ukrainekrieg-deutsche-ruestungsexporte-erreichen-rekordniveau](https://www.spiegel.de/politik/deutschland/ukrainekrieg-deutsche-ruestungsexporte-erreichen-rekordniveau-a-3c440537-bd7f-433a-935f-3938f004c565#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-union-stimmt-milliardenzahlung-fuer-streckensanierung-zu](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-union-stimmt-milliardenzahlung-fuer-streckensanierung-zu-a-44243b5c-4a99-4231-9b3c-888bc5c7d6bc#ref=rss)
+### bundesregierung
 
-* [https://www.spiegel.de/sport/darts-wm-trans-spielerin-noa-lynn-van-leuven-wird-freundlich-empfangen-aber-verliert](https://www.spiegel.de/sport/darts-wm-trans-spielerin-noa-lynn-van-leuven-wird-freundlich-empfangen-aber-verliert-a-6644f773-7b50-42e2-81fc-52d07e93f010#ref=rss)
-### noalynn
+* [https://www.spiegel.de/politik/deutschland/ukrainekrieg-deutsche-ruestungsexporte-erreichen-rekordniveau](https://www.spiegel.de/politik/deutschland/ukrainekrieg-deutsche-ruestungsexporte-erreichen-rekordniveau-a-3c440537-bd7f-433a-935f-3938f004c565#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/bundesregierung-verlaengert-kurzarbeitergeld-auf-zwei-jahre](https://www.spiegel.de/wirtschaft/soziales/bundesregierung-verlaengert-kurzarbeitergeld-auf-zwei-jahre-a-550b3c37-33f8-454a-ae1e-738c08cdcb31#ref=rss)
+### 2024
 
-* [https://www.spiegel.de/sport/darts-wm-trans-spielerin-noa-lynn-van-leuven-wird-freundlich-empfangen-aber-verliert](https://www.spiegel.de/sport/darts-wm-trans-spielerin-noa-lynn-van-leuven-wird-freundlich-empfangen-aber-verliert-a-6644f773-7b50-42e2-81fc-52d07e93f010#ref=rss)
-### van
+* [https://www.spiegel.de/politik/deutschland/ukrainekrieg-deutsche-ruestungsexporte-erreichen-rekordniveau](https://www.spiegel.de/politik/deutschland/ukrainekrieg-deutsche-ruestungsexporte-erreichen-rekordniveau-a-3c440537-bd7f-433a-935f-3938f004c565#ref=rss)
+* [https://www.spiegel.de/kultur/musik/beyonce-charli-xcx-billie-eilish-das-ist-die-beste-musik-des-jahres](https://www.spiegel.de/kultur/musik/beyonce-charli-xcx-billie-eilish-das-ist-die-beste-musik-des-jahres-a-9579e6a9-deab-415d-8f25-2d9a48d55980#ref=rss)
+### geben
 
-* [https://www.spiegel.de/sport/darts-wm-trans-spielerin-noa-lynn-van-leuven-wird-freundlich-empfangen-aber-verliert](https://www.spiegel.de/sport/darts-wm-trans-spielerin-noa-lynn-van-leuven-wird-freundlich-empfangen-aber-verliert-a-6644f773-7b50-42e2-81fc-52d07e93f010#ref=rss)
-### leuven
+* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-in-bsw-kampagne-es-soll-nur-eine-geben](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-in-bsw-kampagne-es-soll-nur-eine-geben-a-98795bd1-092b-477f-8cad-b0bac398d664#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/forschungsschiff-haushaltsausschuss-gibt-mittel-fuer-polarstern-ii-frei](https://www.spiegel.de/politik/deutschland/forschungsschiff-haushaltsausschuss-gibt-mittel-fuer-polarstern-ii-frei-a-3014e46c-228a-43ae-931b-afec99fbb7e8#ref=rss)
+### parteien
 
-* [https://www.spiegel.de/sport/darts-wm-trans-spielerin-noa-lynn-van-leuven-wird-freundlich-empfangen-aber-verliert](https://www.spiegel.de/sport/darts-wm-trans-spielerin-noa-lynn-van-leuven-wird-freundlich-empfangen-aber-verliert-a-6644f773-7b50-42e2-81fc-52d07e93f010#ref=rss)
-### carsten
+* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-in-bsw-kampagne-es-soll-nur-eine-geben](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-in-bsw-kampagne-es-soll-nur-eine-geben-a-98795bd1-092b-477f-8cad-b0bac398d664#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/was-sie-ueber-die-tv-duelle-zur-bundestagswahl-wissen-muessen](https://www.spiegel.de/politik/deutschland/was-sie-ueber-die-tv-duelle-zur-bundestagswahl-wissen-muessen-a-44f76631-f588-442a-bc48-2f44d04a4949#ref=rss)
+### wahlkampf
 
-* [https://www.spiegel.de/kultur/kultur-in-hamburg-carsten-brosda-so-engen-wir-die-kunst-ein-und-berauben-sie-ihrer-kraft](https://www.spiegel.de/kultur/kultur-in-hamburg-carsten-brosda-so-engen-wir-die-kunst-ein-und-berauben-sie-ihrer-kraft-a-3f00e19d-cbd6-4155-918c-7140b2c37903#ref=rss)
-### brosda
+* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-in-bsw-kampagne-es-soll-nur-eine-geben](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-in-bsw-kampagne-es-soll-nur-eine-geben-a-98795bd1-092b-477f-8cad-b0bac398d664#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/was-sie-ueber-die-tv-duelle-zur-bundestagswahl-wissen-muessen](https://www.spiegel.de/politik/deutschland/was-sie-ueber-die-tv-duelle-zur-bundestagswahl-wissen-muessen-a-44f76631-f588-442a-bc48-2f44d04a4949#ref=rss)
+### klaus
 
-* [https://www.spiegel.de/kultur/kultur-in-hamburg-carsten-brosda-so-engen-wir-die-kunst-ein-und-berauben-sie-ihrer-kraft](https://www.spiegel.de/kultur/kultur-in-hamburg-carsten-brosda-so-engen-wir-die-kunst-ein-und-berauben-sie-ihrer-kraft-a-3f00e19d-cbd6-4155-918c-7140b2c37903#ref=rss)
-### kreml
+* [https://www.spiegel.de/sport/klaus-wolfermann-ist-tot-speerwurf-olympiasieger-von-1972-gestorben](https://www.spiegel.de/sport/klaus-wolfermann-ist-tot-speerwurf-olympiasieger-von-1972-gestorben-a-3dd35a12-775f-45ff-88ef-a0e67dd459fc#ref=rss)
+### wolfermann
 
-* [https://www.spiegel.de/ausland/russland-ukrainischer-gefluechteter-in-deutschland-soll-fuer-kreml-sabotiert-haben](https://www.spiegel.de/ausland/russland-ukrainischer-gefluechteter-in-deutschland-soll-fuer-kreml-sabotiert-haben-a-5ee12ad2-ea0c-4a88-9efb-bf95d192de88#ref=rss)
-### fdp
+* [https://www.spiegel.de/sport/klaus-wolfermann-ist-tot-speerwurf-olympiasieger-von-1972-gestorben](https://www.spiegel.de/sport/klaus-wolfermann-ist-tot-speerwurf-olympiasieger-von-1972-gestorben-a-3dd35a12-775f-45ff-88ef-a0e67dd459fc#ref=rss)
+### gestorben
 
-* [https://www.spiegel.de/wirtschaft/soziales/fdp-und-steuern-die-teuren-wahlversprechen-der-liberalen](https://www.spiegel.de/wirtschaft/soziales/fdp-und-steuern-die-teuren-wahlversprechen-der-liberalen-a-e3c153fd-a266-4161-8c1f-2a2d9ebea40b#ref=rss)
-### schufa
+* [https://www.spiegel.de/sport/klaus-wolfermann-ist-tot-speerwurf-olympiasieger-von-1972-gestorben](https://www.spiegel.de/sport/klaus-wolfermann-ist-tot-speerwurf-olympiasieger-von-1972-gestorben-a-3dd35a12-775f-45ff-88ef-a0e67dd459fc#ref=rss)
+### deutschlands
 
-* [https://www.spiegel.de/wirtschaft/schufa-bonitaetsmakel-schneller-tilgen-was-das-fuer-kreditnehmer-bedeutet](https://www.spiegel.de/wirtschaft/schufa-bonitaetsmakel-schneller-tilgen-was-das-fuer-kreditnehmer-bedeutet-a-8905b2ac-7cee-4e78-adb6-01bf6bd81a89#ref=rss)
-### bonitätsmakel
+* [https://www.spiegel.de/sport/klaus-wolfermann-ist-tot-speerwurf-olympiasieger-von-1972-gestorben](https://www.spiegel.de/sport/klaus-wolfermann-ist-tot-speerwurf-olympiasieger-von-1972-gestorben-a-3dd35a12-775f-45ff-88ef-a0e67dd459fc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/forschungsschiff-haushaltsausschuss-gibt-mittel-fuer-polarstern-ii-frei](https://www.spiegel.de/politik/deutschland/forschungsschiff-haushaltsausschuss-gibt-mittel-fuer-polarstern-ii-frei-a-3014e46c-228a-43ae-931b-afec99fbb7e8#ref=rss)
+### syrien
 
-* [https://www.spiegel.de/wirtschaft/schufa-bonitaetsmakel-schneller-tilgen-was-das-fuer-kreditnehmer-bedeutet](https://www.spiegel.de/wirtschaft/schufa-bonitaetsmakel-schneller-tilgen-was-das-fuer-kreditnehmer-bedeutet-a-8905b2ac-7cee-4e78-adb6-01bf6bd81a89#ref=rss)
-### schneller
+* [https://www.spiegel.de/ausland/syrien-nach-baschar-al-assad-kehrt-der-islamische-staat-zurueck](https://www.spiegel.de/ausland/syrien-nach-baschar-al-assad-kehrt-der-islamische-staat-zurueck-a-323d746e-3d39-4c76-b5e6-c93b98067c05#ref=rss)
+### staat
 
-* [https://www.spiegel.de/wirtschaft/schufa-bonitaetsmakel-schneller-tilgen-was-das-fuer-kreditnehmer-bedeutet](https://www.spiegel.de/wirtschaft/schufa-bonitaetsmakel-schneller-tilgen-was-das-fuer-kreditnehmer-bedeutet-a-8905b2ac-7cee-4e78-adb6-01bf6bd81a89#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-nach-baschar-al-assad-kehrt-der-islamische-staat-zurueck](https://www.spiegel.de/ausland/syrien-nach-baschar-al-assad-kehrt-der-islamische-staat-zurueck-a-323d746e-3d39-4c76-b5e6-c93b98067c05#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/ausland/syrien-nach-baschar-al-assad-kehrt-der-islamische-staat-zurueck](https://www.spiegel.de/ausland/syrien-nach-baschar-al-assad-kehrt-der-islamische-staat-zurueck-a-323d746e-3d39-4c76-b5e6-c93b98067c05#ref=rss)
+* [https://www.spiegel.de/kultur/kino/superman-regisseur-james-gunn-hat-testaufnahmen-mit-und-ohne-hose-gemacht](https://www.spiegel.de/kultur/kino/superman-regisseur-james-gunn-hat-testaufnahmen-mit-und-ohne-hose-gemacht-a-216b2ab7-0c4a-403c-b567-8bb953b98545#ref=rss)
+### bisher
+
+* [https://www.spiegel.de/ausland/syrien-nach-baschar-al-assad-kehrt-der-islamische-staat-zurueck](https://www.spiegel.de/ausland/syrien-nach-baschar-al-assad-kehrt-der-islamische-staat-zurueck-a-323d746e-3d39-4c76-b5e6-c93b98067c05#ref=rss)
+* [https://www.spiegel.de/sport/fussball/niclas-fuellkrug-start-bei-west-ham-verlaeuft-enttaeuschend](https://www.spiegel.de/sport/fussball/niclas-fuellkrug-start-bei-west-ham-verlaeuft-enttaeuschend-a-a0246937-df12-446c-a7b6-2ae33b3457f9#ref=rss)
+### michael
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-sachsen-michael-kretschmer-elon-musk-nigel-farage-hoehlenforscherin](https://www.spiegel.de/politik/deutschland/news-des-tages-sachsen-michael-kretschmer-elon-musk-nigel-farage-hoehlenforscherin-a-b3f1b741-c1fa-4039-b23d-cffff2162f0c#ref=rss)
+### kretschmer
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-sachsen-michael-kretschmer-elon-musk-nigel-farage-hoehlenforscherin](https://www.spiegel.de/politik/deutschland/news-des-tages-sachsen-michael-kretschmer-elon-musk-nigel-farage-hoehlenforscherin-a-b3f1b741-c1fa-4039-b23d-cffff2162f0c#ref=rss)
+### elon
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-sachsen-michael-kretschmer-elon-musk-nigel-farage-hoehlenforscherin](https://www.spiegel.de/politik/deutschland/news-des-tages-sachsen-michael-kretschmer-elon-musk-nigel-farage-hoehlenforscherin-a-b3f1b741-c1fa-4039-b23d-cffff2162f0c#ref=rss)
+### musk
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-sachsen-michael-kretschmer-elon-musk-nigel-farage-hoehlenforscherin](https://www.spiegel.de/politik/deutschland/news-des-tages-sachsen-michael-kretschmer-elon-musk-nigel-farage-hoehlenforscherin-a-b3f1b741-c1fa-4039-b23d-cffff2162f0c#ref=rss)
+### nigel
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-sachsen-michael-kretschmer-elon-musk-nigel-farage-hoehlenforscherin](https://www.spiegel.de/politik/deutschland/news-des-tages-sachsen-michael-kretschmer-elon-musk-nigel-farage-hoehlenforscherin-a-b3f1b741-c1fa-4039-b23d-cffff2162f0c#ref=rss)
+### farage
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-sachsen-michael-kretschmer-elon-musk-nigel-farage-hoehlenforscherin](https://www.spiegel.de/politik/deutschland/news-des-tages-sachsen-michael-kretschmer-elon-musk-nigel-farage-hoehlenforscherin-a-b3f1b741-c1fa-4039-b23d-cffff2162f0c#ref=rss)
+### höhlenforscherin
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-sachsen-michael-kretschmer-elon-musk-nigel-farage-hoehlenforscherin](https://www.spiegel.de/politik/deutschland/news-des-tages-sachsen-michael-kretschmer-elon-musk-nigel-farage-hoehlenforscherin-a-b3f1b741-c1fa-4039-b23d-cffff2162f0c#ref=rss)
+### bestätigt
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-sachsen-michael-kretschmer-elon-musk-nigel-farage-hoehlenforscherin](https://www.spiegel.de/politik/deutschland/news-des-tages-sachsen-michael-kretschmer-elon-musk-nigel-farage-hoehlenforscherin-a-b3f1b741-c1fa-4039-b23d-cffff2162f0c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-milliardenprojekte-bestaetigt-marine-bekommt-neue-u-boote](https://www.spiegel.de/politik/deutschland/bundeswehr-milliardenprojekte-bestaetigt-marine-bekommt-neue-u-boote-a-4aa81876-2009-4dc6-a248-9e8dda122964#ref=rss)
+### niclas
+
+* [https://www.spiegel.de/sport/fussball/niclas-fuellkrug-start-bei-west-ham-verlaeuft-enttaeuschend](https://www.spiegel.de/sport/fussball/niclas-fuellkrug-start-bei-west-ham-verlaeuft-enttaeuschend-a-a0246937-df12-446c-a7b6-2ae33b3457f9#ref=rss)
+### füllkrug
+
+* [https://www.spiegel.de/sport/fussball/niclas-fuellkrug-start-bei-west-ham-verlaeuft-enttaeuschend](https://www.spiegel.de/sport/fussball/niclas-fuellkrug-start-bei-west-ham-verlaeuft-enttaeuschend-a-a0246937-df12-446c-a7b6-2ae33b3457f9#ref=rss)
+### west
+
+* [https://www.spiegel.de/sport/fussball/niclas-fuellkrug-start-bei-west-ham-verlaeuft-enttaeuschend](https://www.spiegel.de/sport/fussball/niclas-fuellkrug-start-bei-west-ham-verlaeuft-enttaeuschend-a-a0246937-df12-446c-a7b6-2ae33b3457f9#ref=rss)
+### ham
+
+* [https://www.spiegel.de/sport/fussball/niclas-fuellkrug-start-bei-west-ham-verlaeuft-enttaeuschend](https://www.spiegel.de/sport/fussball/niclas-fuellkrug-start-bei-west-ham-verlaeuft-enttaeuschend-a-a0246937-df12-446c-a7b6-2ae33b3457f9#ref=rss)
+### bundeswehr
+
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-milliardenprojekte-bestaetigt-marine-bekommt-neue-u-boote](https://www.spiegel.de/politik/deutschland/bundeswehr-milliardenprojekte-bestaetigt-marine-bekommt-neue-u-boote-a-4aa81876-2009-4dc6-a248-9e8dda122964#ref=rss)
+### milliardenprojekte
+
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-milliardenprojekte-bestaetigt-marine-bekommt-neue-u-boote](https://www.spiegel.de/politik/deutschland/bundeswehr-milliardenprojekte-bestaetigt-marine-bekommt-neue-u-boote-a-4aa81876-2009-4dc6-a248-9e8dda122964#ref=rss)
+### uboote
+
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-milliardenprojekte-bestaetigt-marine-bekommt-neue-u-boote](https://www.spiegel.de/politik/deutschland/bundeswehr-milliardenprojekte-bestaetigt-marine-bekommt-neue-u-boote-a-4aa81876-2009-4dc6-a248-9e8dda122964#ref=rss)
+### forschungsschiff
+
+* [https://www.spiegel.de/politik/deutschland/forschungsschiff-haushaltsausschuss-gibt-mittel-fuer-polarstern-ii-frei](https://www.spiegel.de/politik/deutschland/forschungsschiff-haushaltsausschuss-gibt-mittel-fuer-polarstern-ii-frei-a-3014e46c-228a-43ae-931b-afec99fbb7e8#ref=rss)
+### polarstern
+
+* [https://www.spiegel.de/politik/deutschland/forschungsschiff-haushaltsausschuss-gibt-mittel-fuer-polarstern-ii-frei](https://www.spiegel.de/politik/deutschland/forschungsschiff-haushaltsausschuss-gibt-mittel-fuer-polarstern-ii-frei-a-3014e46c-228a-43ae-931b-afec99fbb7e8#ref=rss)
+### ende
+
+* [https://www.spiegel.de/politik/deutschland/forschungsschiff-haushaltsausschuss-gibt-mittel-fuer-polarstern-ii-frei](https://www.spiegel.de/politik/deutschland/forschungsschiff-haushaltsausschuss-gibt-mittel-fuer-polarstern-ii-frei-a-3014e46c-228a-43ae-931b-afec99fbb7e8#ref=rss)
+* [https://www.spiegel.de/sport/fussball/manuel-graefe-gegen-den-dfb-eine-geplatzte-berufung-und-ein-rechtsstreit-um-sehr-viel-geld](https://www.spiegel.de/sport/fussball/manuel-graefe-gegen-den-dfb-eine-geplatzte-berufung-und-ein-rechtsstreit-um-sehr-viel-geld-a-1397fae9-eb10-452f-8816-3c61379eedea#ref=rss)
+### gehen
+
+* [https://www.spiegel.de/politik/deutschland/forschungsschiff-haushaltsausschuss-gibt-mittel-fuer-polarstern-ii-frei](https://www.spiegel.de/politik/deutschland/forschungsschiff-haushaltsausschuss-gibt-mittel-fuer-polarstern-ii-frei-a-3014e46c-228a-43ae-931b-afec99fbb7e8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/das-grosse-missverstaendnis-der-deutschen-migrationspolitik](https://www.spiegel.de/wirtschaft/soziales/das-grosse-missverstaendnis-der-deutschen-migrationspolitik-a-c00bcc4d-8b6f-40f0-b4c2-7fb55ce113bd#ref=rss)
+### ingolstadt
+
+* [https://www.spiegel.de/panorama/justiz/ingolstadt-prozess-um-angebliche-doppelgaengerin-warum-musste-khadidja-o-sterben](https://www.spiegel.de/panorama/justiz/ingolstadt-prozess-um-angebliche-doppelgaengerin-warum-musste-khadidja-o-sterben-a-3ec10359-2f52-4f8e-8618-8cc33c96af47#ref=rss)
+### prozess
+
+* [https://www.spiegel.de/panorama/justiz/ingolstadt-prozess-um-angebliche-doppelgaengerin-warum-musste-khadidja-o-sterben](https://www.spiegel.de/panorama/justiz/ingolstadt-prozess-um-angebliche-doppelgaengerin-warum-musste-khadidja-o-sterben-a-3ec10359-2f52-4f8e-8618-8cc33c96af47#ref=rss)
+### doppelgängerin
+
+* [https://www.spiegel.de/panorama/justiz/ingolstadt-prozess-um-angebliche-doppelgaengerin-warum-musste-khadidja-o-sterben](https://www.spiegel.de/panorama/justiz/ingolstadt-prozess-um-angebliche-doppelgaengerin-warum-musste-khadidja-o-sterben-a-3ec10359-2f52-4f8e-8618-8cc33c96af47#ref=rss)
+### wissen
+
+* [https://www.spiegel.de/politik/deutschland/was-sie-ueber-die-tv-duelle-zur-bundestagswahl-wissen-muessen](https://www.spiegel.de/politik/deutschland/was-sie-ueber-die-tv-duelle-zur-bundestagswahl-wissen-muessen-a-44f76631-f588-442a-bc48-2f44d04a4949#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### ostsee
+
+* [https://www.spiegel.de/ausland/ostsee-russischer-kampfjet-abgefangen-bomber-ueber-der-beringsee](https://www.spiegel.de/ausland/ostsee-russischer-kampfjet-abgefangen-bomber-ueber-der-beringsee-a-70e67c80-fc87-47d3-afcd-d88de2da0dd3#ref=rss)
+### laut
+
+* [https://www.spiegel.de/ausland/ostsee-russischer-kampfjet-abgefangen-bomber-ueber-der-beringsee](https://www.spiegel.de/ausland/ostsee-russischer-kampfjet-abgefangen-bomber-ueber-der-beringsee-a-70e67c80-fc87-47d3-afcd-d88de2da0dd3#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/alzheimer-sterberisiko-laut-us-studie-deutlich-geringer-fuer-krankenwagen-und-taxifahrer](https://www.spiegel.de/wissenschaft/mensch/alzheimer-sterberisiko-laut-us-studie-deutlich-geringer-fuer-krankenwagen-und-taxifahrer-a-b64781ed-8cd0-4cd7-b144-5ea913e7a773#ref=rss)
+### netflix
+
+* [https://www.spiegel.de/netzwelt/apps/netflix-niederlande-verhaengen-millionenstrafe-gegen-streamingdienst](https://www.spiegel.de/netzwelt/apps/netflix-niederlande-verhaengen-millionenstrafe-gegen-streamingdienst-a-b03f6785-cbfc-41a9-a1eb-0be28dc82ca7#ref=rss)
+### sehr
+
+* [https://www.spiegel.de/netzwelt/apps/netflix-niederlande-verhaengen-millionenstrafe-gegen-streamingdienst](https://www.spiegel.de/netzwelt/apps/netflix-niederlande-verhaengen-millionenstrafe-gegen-streamingdienst-a-b03f6785-cbfc-41a9-a1eb-0be28dc82ca7#ref=rss)
+* [https://www.spiegel.de/sport/fussball/manuel-graefe-gegen-den-dfb-eine-geplatzte-berufung-und-ein-rechtsstreit-um-sehr-viel-geld](https://www.spiegel.de/sport/fussball/manuel-graefe-gegen-den-dfb-eine-geplatzte-berufung-und-ein-rechtsstreit-um-sehr-viel-geld-a-1397fae9-eb10-452f-8816-3c61379eedea#ref=rss)
+### gemacht
+
+* [https://www.spiegel.de/netzwelt/apps/netflix-niederlande-verhaengen-millionenstrafe-gegen-streamingdienst](https://www.spiegel.de/netzwelt/apps/netflix-niederlande-verhaengen-millionenstrafe-gegen-streamingdienst-a-b03f6785-cbfc-41a9-a1eb-0be28dc82ca7#ref=rss)
+* [https://www.spiegel.de/kultur/kino/superman-regisseur-james-gunn-hat-testaufnahmen-mit-und-ohne-hose-gemacht](https://www.spiegel.de/kultur/kino/superman-regisseur-james-gunn-hat-testaufnahmen-mit-und-ohne-hose-gemacht-a-216b2ab7-0c4a-403c-b567-8bb953b98545#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/panorama/grossenhain-in-sachsen-b101-bruecke-soll-abgerissen-werden](https://www.spiegel.de/panorama/grossenhain-in-sachsen-b101-bruecke-soll-abgerissen-werden-a-fe140a08-b195-4a19-aef9-9014a8ebaaa1#ref=rss)
+* [https://www.spiegel.de/sport/fussball/manuel-graefe-gegen-den-dfb-eine-geplatzte-berufung-und-ein-rechtsstreit-um-sehr-viel-geld](https://www.spiegel.de/sport/fussball/manuel-graefe-gegen-den-dfb-eine-geplatzte-berufung-und-ein-rechtsstreit-um-sehr-viel-geld-a-1397fae9-eb10-452f-8816-3c61379eedea#ref=rss)
+### neutrinos
+
+* [https://www.spiegel.de/wissenschaft/neutrinos-china-baut-riesigen-detektor-fuer-winzige-elementarteilchen](https://www.spiegel.de/wissenschaft/neutrinos-china-baut-riesigen-detektor-fuer-winzige-elementarteilchen-a-98427330-7c32-49ca-bd69-1c119b08f6d1#ref=rss)
+### china
+
+* [https://www.spiegel.de/wissenschaft/neutrinos-china-baut-riesigen-detektor-fuer-winzige-elementarteilchen](https://www.spiegel.de/wissenschaft/neutrinos-china-baut-riesigen-detektor-fuer-winzige-elementarteilchen-a-98427330-7c32-49ca-bd69-1c119b08f6d1#ref=rss)
+### baut
+
+* [https://www.spiegel.de/wissenschaft/neutrinos-china-baut-riesigen-detektor-fuer-winzige-elementarteilchen](https://www.spiegel.de/wissenschaft/neutrinos-china-baut-riesigen-detektor-fuer-winzige-elementarteilchen-a-98427330-7c32-49ca-bd69-1c119b08f6d1#ref=rss)
+* [https://www.spiegel.de/kultur/musik/beyonce-charli-xcx-billie-eilish-das-ist-die-beste-musik-des-jahres](https://www.spiegel.de/kultur/musik/beyonce-charli-xcx-billie-eilish-das-ist-die-beste-musik-des-jahres-a-9579e6a9-deab-415d-8f25-2d9a48d55980#ref=rss)
+### detektor
+
+* [https://www.spiegel.de/wissenschaft/neutrinos-china-baut-riesigen-detektor-fuer-winzige-elementarteilchen](https://www.spiegel.de/wissenschaft/neutrinos-china-baut-riesigen-detektor-fuer-winzige-elementarteilchen-a-98427330-7c32-49ca-bd69-1c119b08f6d1#ref=rss)
+### bildungsbericht
+
+* [https://www.spiegel.de/panorama/bildung/bildungsbericht-ruhr-jede-dritte-schule-im-ruhrgebiet-hat-probleme](https://www.spiegel.de/panorama/bildung/bildungsbericht-ruhr-jede-dritte-schule-im-ruhrgebiet-hat-probleme-a-955daf9b-0bd6-4cc3-83ed-2ee3ba39afea#ref=rss)
+### ruhr
+
+* [https://www.spiegel.de/panorama/bildung/bildungsbericht-ruhr-jede-dritte-schule-im-ruhrgebiet-hat-probleme](https://www.spiegel.de/panorama/bildung/bildungsbericht-ruhr-jede-dritte-schule-im-ruhrgebiet-hat-probleme-a-955daf9b-0bd6-4cc3-83ed-2ee3ba39afea#ref=rss)
+### ruhrgebiet
+
+* [https://www.spiegel.de/panorama/bildung/bildungsbericht-ruhr-jede-dritte-schule-im-ruhrgebiet-hat-probleme](https://www.spiegel.de/panorama/bildung/bildungsbericht-ruhr-jede-dritte-schule-im-ruhrgebiet-hat-probleme-a-955daf9b-0bd6-4cc3-83ed-2ee3ba39afea#ref=rss)
+### drittel
+
+* [https://www.spiegel.de/panorama/bildung/bildungsbericht-ruhr-jede-dritte-schule-im-ruhrgebiet-hat-probleme](https://www.spiegel.de/panorama/bildung/bildungsbericht-ruhr-jede-dritte-schule-im-ruhrgebiet-hat-probleme-a-955daf9b-0bd6-4cc3-83ed-2ee3ba39afea#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/panorama/justiz/weiden-15-jaehriger-wegen-toetung-von-siebenjaehrigem-vor-gericht](https://www.spiegel.de/panorama/justiz/weiden-15-jaehriger-wegen-toetung-von-siebenjaehrigem-vor-gericht-a-9448f528-8673-4b27-9d40-017cd3908ece#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/bundesregierung-verlaengert-kurzarbeitergeld-auf-zwei-jahre](https://www.spiegel.de/wirtschaft/soziales/bundesregierung-verlaengert-kurzarbeitergeld-auf-zwei-jahre-a-550b3c37-33f8-454a-ae1e-738c08cdcb31#ref=rss)
+### donald
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/amazon-google-facebook-die-techbosse-unterwerfen-sich-donald-trump](https://www.spiegel.de/wirtschaft/unternehmen/amazon-google-facebook-die-techbosse-unterwerfen-sich-donald-trump-a-7395850c-f53f-4d3f-afbf-5e3b5e1dd47b#ref=rss)
+### trump
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/amazon-google-facebook-die-techbosse-unterwerfen-sich-donald-trump](https://www.spiegel.de/wirtschaft/unternehmen/amazon-google-facebook-die-techbosse-unterwerfen-sich-donald-trump-a-7395850c-f53f-4d3f-afbf-5e3b5e1dd47b#ref=rss)
+### usa
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/amazon-google-facebook-die-techbosse-unterwerfen-sich-donald-trump](https://www.spiegel.de/wirtschaft/unternehmen/amazon-google-facebook-die-techbosse-unterwerfen-sich-donald-trump-a-7395850c-f53f-4d3f-afbf-5e3b5e1dd47b#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/alzheimer-sterberisiko-laut-us-studie-deutlich-geringer-fuer-krankenwagen-und-taxifahrer](https://www.spiegel.de/wissenschaft/mensch/alzheimer-sterberisiko-laut-us-studie-deutlich-geringer-fuer-krankenwagen-und-taxifahrer-a-b64781ed-8cd0-4cd7-b144-5ea913e7a773#ref=rss)
+### alzheimer
+
+* [https://www.spiegel.de/wissenschaft/mensch/alzheimer-sterberisiko-laut-us-studie-deutlich-geringer-fuer-krankenwagen-und-taxifahrer](https://www.spiegel.de/wissenschaft/mensch/alzheimer-sterberisiko-laut-us-studie-deutlich-geringer-fuer-krankenwagen-und-taxifahrer-a-b64781ed-8cd0-4cd7-b144-5ea913e7a773#ref=rss)
+### stark
+
+* [https://www.spiegel.de/wissenschaft/mensch/alzheimer-sterberisiko-laut-us-studie-deutlich-geringer-fuer-krankenwagen-und-taxifahrer](https://www.spiegel.de/wissenschaft/mensch/alzheimer-sterberisiko-laut-us-studie-deutlich-geringer-fuer-krankenwagen-und-taxifahrer-a-b64781ed-8cd0-4cd7-b144-5ea913e7a773#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/bundesregierung-verlaengert-kurzarbeitergeld-auf-zwei-jahre](https://www.spiegel.de/wirtschaft/soziales/bundesregierung-verlaengert-kurzarbeitergeld-auf-zwei-jahre-a-550b3c37-33f8-454a-ae1e-738c08cdcb31#ref=rss)
+### superman
+
+* [https://www.spiegel.de/kultur/kino/superman-regisseur-james-gunn-hat-testaufnahmen-mit-und-ohne-hose-gemacht](https://www.spiegel.de/kultur/kino/superman-regisseur-james-gunn-hat-testaufnahmen-mit-und-ohne-hose-gemacht-a-216b2ab7-0c4a-403c-b567-8bb953b98545#ref=rss)
+### regisseur
+
+* [https://www.spiegel.de/kultur/kino/superman-regisseur-james-gunn-hat-testaufnahmen-mit-und-ohne-hose-gemacht](https://www.spiegel.de/kultur/kino/superman-regisseur-james-gunn-hat-testaufnahmen-mit-und-ohne-hose-gemacht-a-216b2ab7-0c4a-403c-b567-8bb953b98545#ref=rss)
+### james
+
+* [https://www.spiegel.de/kultur/kino/superman-regisseur-james-gunn-hat-testaufnahmen-mit-und-ohne-hose-gemacht](https://www.spiegel.de/kultur/kino/superman-regisseur-james-gunn-hat-testaufnahmen-mit-und-ohne-hose-gemacht-a-216b2ab7-0c4a-403c-b567-8bb953b98545#ref=rss)
+### gunn
+
+* [https://www.spiegel.de/kultur/kino/superman-regisseur-james-gunn-hat-testaufnahmen-mit-und-ohne-hose-gemacht](https://www.spiegel.de/kultur/kino/superman-regisseur-james-gunn-hat-testaufnahmen-mit-und-ohne-hose-gemacht-a-216b2ab7-0c4a-403c-b567-8bb953b98545#ref=rss)
+### bahn
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-union-stimmt-milliardenzahlung-fuer-streckensanierung-zu](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-union-stimmt-milliardenzahlung-fuer-streckensanierung-zu-a-44243b5c-4a99-4231-9b3c-888bc5c7d6bc#ref=rss)
+### milliardenzahlung
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-union-stimmt-milliardenzahlung-fuer-streckensanierung-zu](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-union-stimmt-milliardenzahlung-fuer-streckensanierung-zu-a-44243b5c-4a99-4231-9b3c-888bc5c7d6bc#ref=rss)
+### geld
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-union-stimmt-milliardenzahlung-fuer-streckensanierung-zu](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-union-stimmt-milliardenzahlung-fuer-streckensanierung-zu-a-44243b5c-4a99-4231-9b3c-888bc5c7d6bc#ref=rss)
+* [https://www.spiegel.de/sport/fussball/manuel-graefe-gegen-den-dfb-eine-geplatzte-berufung-und-ein-rechtsstreit-um-sehr-viel-geld](https://www.spiegel.de/sport/fussball/manuel-graefe-gegen-den-dfb-eine-geplatzte-berufung-und-ein-rechtsstreit-um-sehr-viel-geld-a-1397fae9-eb10-452f-8816-3c61379eedea#ref=rss)
+### kurzarbeitergeld
+
+* [https://www.spiegel.de/wirtschaft/soziales/bundesregierung-verlaengert-kurzarbeitergeld-auf-zwei-jahre](https://www.spiegel.de/wirtschaft/soziales/bundesregierung-verlaengert-kurzarbeitergeld-auf-zwei-jahre-a-550b3c37-33f8-454a-ae1e-738c08cdcb31#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/wirtschaft/soziales/bundesregierung-verlaengert-kurzarbeitergeld-auf-zwei-jahre](https://www.spiegel.de/wirtschaft/soziales/bundesregierung-verlaengert-kurzarbeitergeld-auf-zwei-jahre-a-550b3c37-33f8-454a-ae1e-738c08cdcb31#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-frau-soll-tochter-zum-missbrauch-angeboten-haben](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-frau-soll-tochter-zum-missbrauch-angeboten-haben-a-7fb7ffcc-246b-482b-b4bd-44f95ed87002#ref=rss)
+### frau
+
+* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-frau-soll-tochter-zum-missbrauch-angeboten-haben](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-frau-soll-tochter-zum-missbrauch-angeboten-haben-a-7fb7ffcc-246b-482b-b4bd-44f95ed87002#ref=rss)
+### tochter
+
+* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-frau-soll-tochter-zum-missbrauch-angeboten-haben](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-frau-soll-tochter-zum-missbrauch-angeboten-haben-a-7fb7ffcc-246b-482b-b4bd-44f95ed87002#ref=rss)
+### missbrauch
+
+* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-frau-soll-tochter-zum-missbrauch-angeboten-haben](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-frau-soll-tochter-zum-missbrauch-angeboten-haben-a-7fb7ffcc-246b-482b-b4bd-44f95ed87002#ref=rss)
+### marcin
+
+* [https://www.spiegel.de/ausland/marcin-romanowski-polen-will-europaweit-nach-ex-regierungsmitglied-fahnden](https://www.spiegel.de/ausland/marcin-romanowski-polen-will-europaweit-nach-ex-regierungsmitglied-fahnden-a-7720e88d-6f19-4f95-ae7c-92a576a77a70#ref=rss)
+### romanowski
+
+* [https://www.spiegel.de/ausland/marcin-romanowski-polen-will-europaweit-nach-ex-regierungsmitglied-fahnden](https://www.spiegel.de/ausland/marcin-romanowski-polen-will-europaweit-nach-ex-regierungsmitglied-fahnden-a-7720e88d-6f19-4f95-ae7c-92a576a77a70#ref=rss)
+### beyoncé
+
+* [https://www.spiegel.de/kultur/musik/beyonce-charli-xcx-billie-eilish-das-ist-die-beste-musik-des-jahres](https://www.spiegel.de/kultur/musik/beyonce-charli-xcx-billie-eilish-das-ist-die-beste-musik-des-jahres-a-9579e6a9-deab-415d-8f25-2d9a48d55980#ref=rss)
+### charli
+
+* [https://www.spiegel.de/kultur/musik/beyonce-charli-xcx-billie-eilish-das-ist-die-beste-musik-des-jahres](https://www.spiegel.de/kultur/musik/beyonce-charli-xcx-billie-eilish-das-ist-die-beste-musik-des-jahres-a-9579e6a9-deab-415d-8f25-2d9a48d55980#ref=rss)
+### xcx
+
+* [https://www.spiegel.de/kultur/musik/beyonce-charli-xcx-billie-eilish-das-ist-die-beste-musik-des-jahres](https://www.spiegel.de/kultur/musik/beyonce-charli-xcx-billie-eilish-das-ist-die-beste-musik-des-jahres-a-9579e6a9-deab-415d-8f25-2d9a48d55980#ref=rss)
+### jahres
+
+* [https://www.spiegel.de/kultur/musik/beyonce-charli-xcx-billie-eilish-das-ist-die-beste-musik-des-jahres](https://www.spiegel.de/kultur/musik/beyonce-charli-xcx-billie-eilish-das-ist-die-beste-musik-des-jahres-a-9579e6a9-deab-415d-8f25-2d9a48d55980#ref=rss)
+### manuel
+
+* [https://www.spiegel.de/sport/fussball/manuel-graefe-gegen-den-dfb-eine-geplatzte-berufung-und-ein-rechtsstreit-um-sehr-viel-geld](https://www.spiegel.de/sport/fussball/manuel-graefe-gegen-den-dfb-eine-geplatzte-berufung-und-ein-rechtsstreit-um-sehr-viel-geld-a-1397fae9-eb10-452f-8816-3c61379eedea#ref=rss)
+### gräfe
+
+* [https://www.spiegel.de/sport/fussball/manuel-graefe-gegen-den-dfb-eine-geplatzte-berufung-und-ein-rechtsstreit-um-sehr-viel-geld](https://www.spiegel.de/sport/fussball/manuel-graefe-gegen-den-dfb-eine-geplatzte-berufung-und-ein-rechtsstreit-um-sehr-viel-geld-a-1397fae9-eb10-452f-8816-3c61379eedea#ref=rss)
+### tag
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
 
