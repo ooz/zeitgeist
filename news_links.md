@@ -4,370 +4,300 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### millionen
-
-* [https://www.spiegel.de/netzwelt/web/meta-sicherheitsluecke-kostet-facebook-mutterkonzern-251-millionen-euro](https://www.spiegel.de/netzwelt/web/meta-sicherheitsluecke-kostet-facebook-mutterkonzern-251-millionen-euro-a-dbb92caa-72e0-44ab-a310-6c789b23012b#ref=rss)
-* [https://www.spiegel.de/ausland/assad-sturz-eu-zahlt-der-tuerkei-eine-extra-milliarde-fuer-fluechtlinge](https://www.spiegel.de/ausland/assad-sturz-eu-zahlt-der-tuerkei-eine-extra-milliarde-fuer-fluechtlinge-a-2c9ea86a-f9cd-4a48-92e8-e6044a2e498b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/michael-schumacher-staatsanwaltschaft-ermittelt-gegen-fruehere-krankenschwester-des-rennfahrers](https://www.spiegel.de/panorama/justiz/michael-schumacher-staatsanwaltschaft-ermittelt-gegen-fruehere-krankenschwester-des-rennfahrers-a-d6962898-9d30-4fa7-8c77-20607a2a7e70#ref=rss)
-### unter
-
-* [https://www.spiegel.de/panorama/rottweil-schuss-auf-zwoelfjaehrigen-14-jaehriger-jugendlicher-unter-tatverdacht](https://www.spiegel.de/panorama/rottweil-schuss-auf-zwoelfjaehrigen-14-jaehriger-jugendlicher-unter-tatverdacht-a-f7e10651-c6aa-45cd-ad87-ae419d517280#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-anschlag-auf-russischen-general-clarissa-ward-michael-schumacher](https://www.spiegel.de/politik/deutschland/news-des-tages-anschlag-auf-russischen-general-clarissa-ward-michael-schumacher-a-82d9223c-0d5e-4db6-bcfd-e94545670160#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/huk-coburg-uebernimmt-werkstattkette-pitstop](https://www.spiegel.de/wirtschaft/service/huk-coburg-uebernimmt-werkstattkette-pitstop-a-41dc8155-af42-4677-93f4-b664d68065a3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/potsdam-staatsanwaltschaft-stellt-ermittlungen-gegen-ob-mike-schubert-ein](https://www.spiegel.de/politik/deutschland/potsdam-staatsanwaltschaft-stellt-ermittlungen-gegen-ob-mike-schubert-ein-a-0165109a-b865-4539-ac1d-80c7fd1d024a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-super-league-heisst-jetzt-unify-league](https://www.spiegel.de/sport/fussball/fussball-super-league-heisst-jetzt-unify-league-a-bc3be3c1-2738-4b5c-a9c8-f6d1efa02f2c#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/kultur/mufasa-ein-loewe-gegen-das-patriarchat](https://www.spiegel.de/kultur/mufasa-ein-loewe-gegen-das-patriarchat-a-4dc22552-c997-4f3f-9bdf-e105f10f5bd0#ref=rss)
-* [https://www.spiegel.de/ausland/russland-getoeteter-general-igor-kirillow-ein-dashcam-video-zeigt-den-moment-des-anschlags](https://www.spiegel.de/ausland/russland-getoeteter-general-igor-kirillow-ein-dashcam-video-zeigt-den-moment-des-anschlags-a-13be549b-a45c-4028-8080-71ed443366b8#ref=rss)
-* [https://www.spiegel.de/kultur/nicole-kidman-warnt-vor-verpassten-chancen](https://www.spiegel.de/kultur/nicole-kidman-warnt-vor-verpassten-chancen-a-48b8b27d-d67c-4d7a-b80e-34726cabbc30#ref=rss)
-### igor
-
-* [https://www.spiegel.de/ausland/russland-getoeteter-general-igor-kirillow-ein-dashcam-video-zeigt-den-moment-des-anschlags](https://www.spiegel.de/ausland/russland-getoeteter-general-igor-kirillow-ein-dashcam-video-zeigt-den-moment-des-anschlags-a-13be549b-a45c-4028-8080-71ed443366b8#ref=rss)
-* [https://www.spiegel.de/ausland/russland-warum-kiews-geheimdienst-generalleutnant-igor-kirillow-toetete](https://www.spiegel.de/ausland/russland-warum-kiews-geheimdienst-generalleutnant-igor-kirillow-toetete-a-de8786cd-a139-453c-9272-75c33d44195b#ref=rss)
-### kirillow
-
-* [https://www.spiegel.de/ausland/russland-getoeteter-general-igor-kirillow-ein-dashcam-video-zeigt-den-moment-des-anschlags](https://www.spiegel.de/ausland/russland-getoeteter-general-igor-kirillow-ein-dashcam-video-zeigt-den-moment-des-anschlags-a-13be549b-a45c-4028-8080-71ed443366b8#ref=rss)
-* [https://www.spiegel.de/ausland/russland-warum-kiews-geheimdienst-generalleutnant-igor-kirillow-toetete](https://www.spiegel.de/ausland/russland-warum-kiews-geheimdienst-generalleutnant-igor-kirillow-toetete-a-de8786cd-a139-453c-9272-75c33d44195b#ref=rss)
-### waren
-
-* [https://www.spiegel.de/wirtschaft/exportueberschuss-deutschland-zuerst-aber-anders-kolumne](https://www.spiegel.de/wirtschaft/exportueberschuss-deutschland-zuerst-aber-anders-kolumne-a-482cb18f-96c2-4071-885b-8989a90550dc#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/meta-sicherheitsluecke-kostet-facebook-mutterkonzern-251-millionen-euro](https://www.spiegel.de/netzwelt/web/meta-sicherheitsluecke-kostet-facebook-mutterkonzern-251-millionen-euro-a-dbb92caa-72e0-44ab-a310-6c789b23012b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/eu-verdacht-auf-geldwaesche-die-raetselhaften-lotto-lose-des-ehemaligen-eu-justizkommissars-didier-reynders](https://www.spiegel.de/wirtschaft/eu-verdacht-auf-geldwaesche-die-raetselhaften-lotto-lose-des-ehemaligen-eu-justizkommissars-didier-reynders-a-1d8cbd52-d53a-49c4-9e24-9d7775c5635c#ref=rss)
-### euro
-
-* [https://www.spiegel.de/netzwelt/web/meta-sicherheitsluecke-kostet-facebook-mutterkonzern-251-millionen-euro](https://www.spiegel.de/netzwelt/web/meta-sicherheitsluecke-kostet-facebook-mutterkonzern-251-millionen-euro-a-dbb92caa-72e0-44ab-a310-6c789b23012b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/michael-schumacher-staatsanwaltschaft-ermittelt-gegen-fruehere-krankenschwester-des-rennfahrers](https://www.spiegel.de/panorama/justiz/michael-schumacher-staatsanwaltschaft-ermittelt-gegen-fruehere-krankenschwester-des-rennfahrers-a-d6962898-9d30-4fa7-8c77-20607a2a7e70#ref=rss)
-### ottavia
-
-* [https://www.spiegel.de/panorama/italien-was-die-rettung-der-verunglueckten-hoehlenforscherin-ottavia-piana-so-kompliziert-macht](https://www.spiegel.de/panorama/italien-was-die-rettung-der-verunglueckten-hoehlenforscherin-ottavia-piana-so-kompliziert-macht-a-c3edd089-88ba-4a2e-b53c-1afc07924d2d#ref=rss)
-* [https://www.spiegel.de/panorama/italien-rettungsaktion-fuer-verletzte-hoehlenforscherin-ottavia-piana-in-600-meter-tiefe](https://www.spiegel.de/panorama/italien-rettungsaktion-fuer-verletzte-hoehlenforscherin-ottavia-piana-in-600-meter-tiefe-a-db5d845c-cf84-4f25-a60c-c4fb81ced6b7#ref=rss)
-### piana
-
-* [https://www.spiegel.de/panorama/italien-was-die-rettung-der-verunglueckten-hoehlenforscherin-ottavia-piana-so-kompliziert-macht](https://www.spiegel.de/panorama/italien-was-die-rettung-der-verunglueckten-hoehlenforscherin-ottavia-piana-so-kompliziert-macht-a-c3edd089-88ba-4a2e-b53c-1afc07924d2d#ref=rss)
-* [https://www.spiegel.de/panorama/italien-rettungsaktion-fuer-verletzte-hoehlenforscherin-ottavia-piana-in-600-meter-tiefe](https://www.spiegel.de/panorama/italien-rettungsaktion-fuer-verletzte-hoehlenforscherin-ottavia-piana-in-600-meter-tiefe-a-db5d845c-cf84-4f25-a60c-c4fb81ced6b7#ref=rss)
-### ermittelt
-
-* [https://www.spiegel.de/panorama/rottweil-schuss-auf-zwoelfjaehrigen-14-jaehriger-jugendlicher-unter-tatverdacht](https://www.spiegel.de/panorama/rottweil-schuss-auf-zwoelfjaehrigen-14-jaehriger-jugendlicher-unter-tatverdacht-a-f7e10651-c6aa-45cd-ad87-ae419d517280#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-verdacht-auf-giftanschlag-frau-in-charite-eingeliefert](https://www.spiegel.de/panorama/justiz/berlin-verdacht-auf-giftanschlag-frau-in-charite-eingeliefert-a-b6eb7b66-430b-4652-98fd-780e8866c658#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/michael-schumacher-staatsanwaltschaft-ermittelt-gegen-fruehere-krankenschwester-des-rennfahrers](https://www.spiegel.de/panorama/justiz/michael-schumacher-staatsanwaltschaft-ermittelt-gegen-fruehere-krankenschwester-des-rennfahrers-a-d6962898-9d30-4fa7-8c77-20607a2a7e70#ref=rss)
-### verdacht
-
-* [https://www.spiegel.de/panorama/justiz/berlin-verdacht-auf-giftanschlag-frau-in-charite-eingeliefert](https://www.spiegel.de/panorama/justiz/berlin-verdacht-auf-giftanschlag-frau-in-charite-eingeliefert-a-b6eb7b66-430b-4652-98fd-780e8866c658#ref=rss)
-* [https://www.spiegel.de/wirtschaft/eu-verdacht-auf-geldwaesche-die-raetselhaften-lotto-lose-des-ehemaligen-eu-justizkommissars-didier-reynders](https://www.spiegel.de/wirtschaft/eu-verdacht-auf-geldwaesche-die-raetselhaften-lotto-lose-des-ehemaligen-eu-justizkommissars-didier-reynders-a-1d8cbd52-d53a-49c4-9e24-9d7775c5635c#ref=rss)
-### russischen
-
-* [https://www.spiegel.de/panorama/justiz/berlin-verdacht-auf-giftanschlag-frau-in-charite-eingeliefert](https://www.spiegel.de/panorama/justiz/berlin-verdacht-auf-giftanschlag-frau-in-charite-eingeliefert-a-b6eb7b66-430b-4652-98fd-780e8866c658#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-anschlag-auf-russischen-general-clarissa-ward-michael-schumacher](https://www.spiegel.de/politik/deutschland/news-des-tages-anschlag-auf-russischen-general-clarissa-ward-michael-schumacher-a-82d9223c-0d5e-4db6-bcfd-e94545670160#ref=rss)
 ### michael
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-anschlag-auf-russischen-general-clarissa-ward-michael-schumacher](https://www.spiegel.de/politik/deutschland/news-des-tages-anschlag-auf-russischen-general-clarissa-ward-michael-schumacher-a-82d9223c-0d5e-4db6-bcfd-e94545670160#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/michael-schumacher-staatsanwaltschaft-ermittelt-gegen-fruehere-krankenschwester-des-rennfahrers](https://www.spiegel.de/panorama/justiz/michael-schumacher-staatsanwaltschaft-ermittelt-gegen-fruehere-krankenschwester-des-rennfahrers-a-d6962898-9d30-4fa7-8c77-20607a2a7e70#ref=rss)
-### schumacher
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-anschlag-auf-russischen-general-clarissa-ward-michael-schumacher](https://www.spiegel.de/politik/deutschland/news-des-tages-anschlag-auf-russischen-general-clarissa-ward-michael-schumacher-a-82d9223c-0d5e-4db6-bcfd-e94545670160#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/michael-schumacher-staatsanwaltschaft-ermittelt-gegen-fruehere-krankenschwester-des-rennfahrers](https://www.spiegel.de/panorama/justiz/michael-schumacher-staatsanwaltschaft-ermittelt-gegen-fruehere-krankenschwester-des-rennfahrers-a-d6962898-9d30-4fa7-8c77-20607a2a7e70#ref=rss)
-### moskau
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-anschlag-auf-russischen-general-clarissa-ward-michael-schumacher](https://www.spiegel.de/politik/deutschland/news-des-tages-anschlag-auf-russischen-general-clarissa-ward-michael-schumacher-a-82d9223c-0d5e-4db6-bcfd-e94545670160#ref=rss)
-* [https://www.spiegel.de/ausland/russland-getoeteter-general-igor-kirillow-ein-dashcam-video-zeigt-den-moment-des-anschlags](https://www.spiegel.de/ausland/russland-getoeteter-general-igor-kirillow-ein-dashcam-video-zeigt-den-moment-des-anschlags-a-13be549b-a45c-4028-8080-71ed443366b8#ref=rss)
-* [https://www.spiegel.de/ausland/russland-warum-kiews-geheimdienst-generalleutnant-igor-kirillow-toetete](https://www.spiegel.de/ausland/russland-warum-kiews-geheimdienst-generalleutnant-igor-kirillow-toetete-a-de8786cd-a139-453c-9272-75c33d44195b#ref=rss)
-### eu
-
-* [https://www.spiegel.de/ausland/assad-sturz-eu-zahlt-der-tuerkei-eine-extra-milliarde-fuer-fluechtlinge](https://www.spiegel.de/ausland/assad-sturz-eu-zahlt-der-tuerkei-eine-extra-milliarde-fuer-fluechtlinge-a-2c9ea86a-f9cd-4a48-92e8-e6044a2e498b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/eu-verdacht-auf-geldwaesche-die-raetselhaften-lotto-lose-des-ehemaligen-eu-justizkommissars-didier-reynders](https://www.spiegel.de/wirtschaft/eu-verdacht-auf-geldwaesche-die-raetselhaften-lotto-lose-des-ehemaligen-eu-justizkommissars-didier-reynders-a-1d8cbd52-d53a-49c4-9e24-9d7775c5635c#ref=rss)
-### drei
-
-* [https://www.spiegel.de/ausland/assad-sturz-eu-zahlt-der-tuerkei-eine-extra-milliarde-fuer-fluechtlinge](https://www.spiegel.de/ausland/assad-sturz-eu-zahlt-der-tuerkei-eine-extra-milliarde-fuer-fluechtlinge-a-2c9ea86a-f9cd-4a48-92e8-e6044a2e498b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/potsdam-staatsanwaltschaft-stellt-ermittlungen-gegen-ob-mike-schubert-ein](https://www.spiegel.de/politik/deutschland/potsdam-staatsanwaltschaft-stellt-ermittlungen-gegen-ob-mike-schubert-ein-a-0165109a-b865-4539-ac1d-80c7fd1d024a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/michael-schumacher-staatsanwaltschaft-ermittelt-gegen-fruehere-krankenschwester-des-rennfahrers](https://www.spiegel.de/panorama/justiz/michael-schumacher-staatsanwaltschaft-ermittelt-gegen-fruehere-krankenschwester-des-rennfahrers-a-d6962898-9d30-4fa7-8c77-20607a2a7e70#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/wirtschaft/eu-verdacht-auf-geldwaesche-die-raetselhaften-lotto-lose-des-ehemaligen-eu-justizkommissars-didier-reynders](https://www.spiegel.de/wirtschaft/eu-verdacht-auf-geldwaesche-die-raetselhaften-lotto-lose-des-ehemaligen-eu-justizkommissars-didier-reynders-a-1d8cbd52-d53a-49c4-9e24-9d7775c5635c#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### geheimdienst
-
-* [https://www.spiegel.de/ausland/russland-getoeteter-general-igor-kirillow-ein-dashcam-video-zeigt-den-moment-des-anschlags](https://www.spiegel.de/ausland/russland-getoeteter-general-igor-kirillow-ein-dashcam-video-zeigt-den-moment-des-anschlags-a-13be549b-a45c-4028-8080-71ed443366b8#ref=rss)
-* [https://www.spiegel.de/ausland/russland-warum-kiews-geheimdienst-generalleutnant-igor-kirillow-toetete](https://www.spiegel.de/ausland/russland-warum-kiews-geheimdienst-generalleutnant-igor-kirillow-toetete-a-de8786cd-a139-453c-9272-75c33d44195b#ref=rss)
-### league
-
-* [https://www.spiegel.de/sport/fussball/fussball-super-league-heisst-jetzt-unify-league](https://www.spiegel.de/sport/fussball/fussball-super-league-heisst-jetzt-unify-league-a-bc3be3c1-2738-4b5c-a9c8-f6d1efa02f2c#ref=rss)
-### mufasa
-
-* [https://www.spiegel.de/kultur/mufasa-ein-loewe-gegen-das-patriarchat](https://www.spiegel.de/kultur/mufasa-ein-loewe-gegen-das-patriarchat-a-4dc22552-c997-4f3f-9bdf-e105f10f5bd0#ref=rss)
-### brasilien
-
-* [https://www.spiegel.de/panorama/justiz/brasilien-deutsche-sollen-maedchen-in-rio-de-janeiro-missbraucht-haben](https://www.spiegel.de/panorama/justiz/brasilien-deutsche-sollen-maedchen-in-rio-de-janeiro-missbraucht-haben-a-67fbbbb5-1107-47d1-8bde-fd984375a431#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-in-brasilien-ronaldo-will-verbandspraesident-werden](https://www.spiegel.de/sport/fussball/fussball-in-brasilien-ronaldo-will-verbandspraesident-werden-a-e2340d25-6142-4184-bd05-f31be09a7f56#ref=rss)
-### mädchen
-
-* [https://www.spiegel.de/panorama/justiz/brasilien-deutsche-sollen-maedchen-in-rio-de-janeiro-missbraucht-haben](https://www.spiegel.de/panorama/justiz/brasilien-deutsche-sollen-maedchen-in-rio-de-janeiro-missbraucht-haben-a-67fbbbb5-1107-47d1-8bde-fd984375a431#ref=rss)
-### rio
-
-* [https://www.spiegel.de/panorama/justiz/brasilien-deutsche-sollen-maedchen-in-rio-de-janeiro-missbraucht-haben](https://www.spiegel.de/panorama/justiz/brasilien-deutsche-sollen-maedchen-in-rio-de-janeiro-missbraucht-haben-a-67fbbbb5-1107-47d1-8bde-fd984375a431#ref=rss)
-### de
-
-* [https://www.spiegel.de/panorama/justiz/brasilien-deutsche-sollen-maedchen-in-rio-de-janeiro-missbraucht-haben](https://www.spiegel.de/panorama/justiz/brasilien-deutsche-sollen-maedchen-in-rio-de-janeiro-missbraucht-haben-a-67fbbbb5-1107-47d1-8bde-fd984375a431#ref=rss)
-### janeiro
-
-* [https://www.spiegel.de/panorama/justiz/brasilien-deutsche-sollen-maedchen-in-rio-de-janeiro-missbraucht-haben](https://www.spiegel.de/panorama/justiz/brasilien-deutsche-sollen-maedchen-in-rio-de-janeiro-missbraucht-haben-a-67fbbbb5-1107-47d1-8bde-fd984375a431#ref=rss)
-### missbraucht
-
-* [https://www.spiegel.de/panorama/justiz/brasilien-deutsche-sollen-maedchen-in-rio-de-janeiro-missbraucht-haben](https://www.spiegel.de/panorama/justiz/brasilien-deutsche-sollen-maedchen-in-rio-de-janeiro-missbraucht-haben-a-67fbbbb5-1107-47d1-8bde-fd984375a431#ref=rss)
-### männer
-
-* [https://www.spiegel.de/panorama/justiz/brasilien-deutsche-sollen-maedchen-in-rio-de-janeiro-missbraucht-haben](https://www.spiegel.de/panorama/justiz/brasilien-deutsche-sollen-maedchen-in-rio-de-janeiro-missbraucht-haben-a-67fbbbb5-1107-47d1-8bde-fd984375a431#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/michael-schumacher-staatsanwaltschaft-ermittelt-gegen-fruehere-krankenschwester-des-rennfahrers](https://www.spiegel.de/panorama/justiz/michael-schumacher-staatsanwaltschaft-ermittelt-gegen-fruehere-krankenschwester-des-rennfahrers-a-d6962898-9d30-4fa7-8c77-20607a2a7e70#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/panorama/justiz/brasilien-deutsche-sollen-maedchen-in-rio-de-janeiro-missbraucht-haben](https://www.spiegel.de/panorama/justiz/brasilien-deutsche-sollen-maedchen-in-rio-de-janeiro-missbraucht-haben-a-67fbbbb5-1107-47d1-8bde-fd984375a431#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-verdacht-auf-giftanschlag-frau-in-charite-eingeliefert](https://www.spiegel.de/panorama/justiz/berlin-verdacht-auf-giftanschlag-frau-in-charite-eingeliefert-a-b6eb7b66-430b-4652-98fd-780e8866c658#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/panorama/justiz/brasilien-deutsche-sollen-maedchen-in-rio-de-janeiro-missbraucht-haben](https://www.spiegel.de/panorama/justiz/brasilien-deutsche-sollen-maedchen-in-rio-de-janeiro-missbraucht-haben-a-67fbbbb5-1107-47d1-8bde-fd984375a431#ref=rss)
-* [https://www.spiegel.de/auto/china-elektroauto-boom-laesst-kraftstoffverbrauch-frueher-sinken-als-erwartet](https://www.spiegel.de/auto/china-elektroauto-boom-laesst-kraftstoffverbrauch-frueher-sinken-als-erwartet-a-e8b927ea-9738-4874-ac36-32072c2c2751#ref=rss)
+* [https://www.spiegel.de/kultur/kino/michael-fassbender-abba-ist-ein-guter-soundtrack-zum-sterben](https://www.spiegel.de/kultur/kino/michael-fassbender-abba-ist-ein-guter-soundtrack-zum-sterben-a-e1bf35cd-71f1-426c-8925-115fd65bd702#ref=rss)
+* [https://www.spiegel.de/wirtschaft/china-us-oekonom-michael-pettis-warnt-vor-den-auswirkungen-eines-handelskriegs-mit-den-usa](https://www.spiegel.de/wirtschaft/china-us-oekonom-michael-pettis-warnt-vor-den-auswirkungen-eines-handelskriegs-mit-den-usa-a-1dc5f2ec-4114-429b-bf5d-8daff18754b2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sachsen-gruene-monieren-fehlende-nein-stimmen-bei-wahl-zum-saechsischen-ministerpraesidenten](https://www.spiegel.de/politik/deutschland/sachsen-gruene-monieren-fehlende-nein-stimmen-bei-wahl-zum-saechsischen-ministerpraesidenten-a-ff359f52-ca34-4ee3-b00c-19ed77a584af#ref=rss)
+* [https://www.spiegel.de/politik/matthias-berger-gegen-michael-kretschmer-landtag-in-sachsen-waehlt-neuen-ministerpraesidenten](https://www.spiegel.de/politik/matthias-berger-gegen-michael-kretschmer-landtag-in-sachsen-waehlt-neuen-ministerpraesidenten-a-4b7545b5-b63e-4249-8fee-a8698f2493b2#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/wirtschaft/exportueberschuss-deutschland-zuerst-aber-anders-kolumne](https://www.spiegel.de/wirtschaft/exportueberschuss-deutschland-zuerst-aber-anders-kolumne-a-482cb18f-96c2-4071-885b-8989a90550dc#ref=rss)
-* [https://www.spiegel.de/panorama/niedersachsen-hoffnung-fuer-von-abschiebung-bedrohte-pflegehelfer-aus-kolumbien](https://www.spiegel.de/panorama/niedersachsen-hoffnung-fuer-von-abschiebung-bedrohte-pflegehelfer-aus-kolumbien-a-d03783ec-31a3-4d1e-8a91-249feeb13c8b#ref=rss)
-### mehr
+* [https://www.spiegel.de/kultur/kino/oscars-2025-volker-bertelmann-die-saat-des-heiligen-feigenbaums-auf-der-shortlist](https://www.spiegel.de/kultur/kino/oscars-2025-volker-bertelmann-die-saat-des-heiligen-feigenbaums-auf-der-shortlist-a-dbe7d056-9937-4d6f-b13a-9ffaaa31de5d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/kampfgeraet-fuer-die-ukraine-deutschland-raeumt-militaerwerkstatt-in-der-slowakei](https://www.spiegel.de/politik/deutschland/kampfgeraet-fuer-die-ukraine-deutschland-raeumt-militaerwerkstatt-in-der-slowakei-a-c00063c7-a739-4c4b-bf2b-d3ec3ae27af2#ref=rss)
+* [https://www.spiegel.de/wissenschaft/energie-importe-warum-stromimporte-kein-beweis-fuer-das-versagen-der-deutschen-energiewende-sind](https://www.spiegel.de/wissenschaft/energie-importe-warum-stromimporte-kein-beweis-fuer-das-versagen-der-deutschen-energiewende-sind-a-71cfb4ba-bd2d-414f-bb95-5254aa00673d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/iw-koeln-studie-80-000-syrer-arbeiten-dort-wo-arbeitskraefte-fehlen](https://www.spiegel.de/wirtschaft/iw-koeln-studie-80-000-syrer-arbeiten-dort-wo-arbeitskraefte-fehlen-a-27001032-2c37-4639-928f-18f2c351bfa6#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukrainischer-gefluechteter-in-deutschland-soll-fuer-kreml-sabotiert-haben](https://www.spiegel.de/ausland/russland-ukrainischer-gefluechteter-in-deutschland-soll-fuer-kreml-sabotiert-haben-a-5ee12ad2-ea0c-4a88-9efb-bf95d192de88#ref=rss)
+### euro
 
-* [https://www.spiegel.de/wirtschaft/exportueberschuss-deutschland-zuerst-aber-anders-kolumne](https://www.spiegel.de/wirtschaft/exportueberschuss-deutschland-zuerst-aber-anders-kolumne-a-482cb18f-96c2-4071-885b-8989a90550dc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/volks-und-raiffeisenbanken-von-schmalkalden-bis-neuss-die-skandalnudeln-von-der-volksbank](https://www.spiegel.de/wirtschaft/volks-und-raiffeisenbanken-von-schmalkalden-bis-neuss-die-skandalnudeln-von-der-volksbank-a-aba9973c-ce1f-4cbf-9ffa-ba3c0607aa75#ref=rss)
-### sondern
+* [https://www.spiegel.de/panorama/dresden-diebe-stehlen-zutaten-fuer-weihnachtsessen-aus-geschaeft](https://www.spiegel.de/panorama/dresden-diebe-stehlen-zutaten-fuer-weihnachtsessen-aus-geschaeft-a-f458a3ba-c9b2-4a30-9032-328733a9725d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/temu-test-was-taugen-die-produkte-aus-china](https://www.spiegel.de/wirtschaft/service/temu-test-was-taugen-die-produkte-aus-china-a-e33288da-54dd-4c92-bdc1-38fa4e7619e4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/fdp-und-steuern-die-teuren-wahlversprechen-der-liberalen](https://www.spiegel.de/wirtschaft/soziales/fdp-und-steuern-die-teuren-wahlversprechen-der-liberalen-a-e3c153fd-a266-4161-8c1f-2a2d9ebea40b#ref=rss)
+### bundestagswahl
 
-* [https://www.spiegel.de/wirtschaft/exportueberschuss-deutschland-zuerst-aber-anders-kolumne](https://www.spiegel.de/wirtschaft/exportueberschuss-deutschland-zuerst-aber-anders-kolumne-a-482cb18f-96c2-4071-885b-8989a90550dc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/robert-habeck-vs-alice-weidel-tv-duell-entscheidung-von-ard-und-zdf-sorgt-fuer-empoerung](https://www.spiegel.de/politik/deutschland/robert-habeck-vs-alice-weidel-tv-duell-entscheidung-von-ard-und-zdf-sorgt-fuer-empoerung-a-167a3ed0-cdd8-4f9d-9199-543e60c55d93#ref=rss)
-### entwürfe
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-kleine-parteien-muessen-unterschriften-sammeln](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-kleine-parteien-muessen-unterschriften-sammeln-a-d483b25a-9462-4113-9026-2f56ed72e945#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-markus-soeder-sieht-moegliches-buendnis-mit-spd-kritisch](https://www.spiegel.de/politik/deutschland/bundestagswahl-markus-soeder-sieht-moegliches-buendnis-mit-spd-kritisch-a-ef996d48-b6fc-47e4-9346-8a350b6aae2c#ref=rss)
+### kretschmer
 
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-wen-wollen-sie-waehlen-entwuerfe-der-wahlprogramme-von-spd-cdu-csu-gruene-fdp-afd-die-linke-bsw-im-ueberblick](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-wen-wollen-sie-waehlen-entwuerfe-der-wahlprogramme-von-spd-cdu-csu-gruene-fdp-afd-die-linke-bsw-im-ueberblick-a-664b4760-ad38-44c4-88eb-e2468722ea58#ref=rss)
-### wahlprogramme
+* [https://www.spiegel.de/politik/deutschland/sachsen-gruene-monieren-fehlende-nein-stimmen-bei-wahl-zum-saechsischen-ministerpraesidenten](https://www.spiegel.de/politik/deutschland/sachsen-gruene-monieren-fehlende-nein-stimmen-bei-wahl-zum-saechsischen-ministerpraesidenten-a-ff359f52-ca34-4ee3-b00c-19ed77a584af#ref=rss)
+* [https://www.spiegel.de/politik/matthias-berger-gegen-michael-kretschmer-landtag-in-sachsen-waehlt-neuen-ministerpraesidenten](https://www.spiegel.de/politik/matthias-berger-gegen-michael-kretschmer-landtag-in-sachsen-waehlt-neuen-ministerpraesidenten-a-4b7545b5-b63e-4249-8fee-a8698f2493b2#ref=rss)
+### wahl
 
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-wen-wollen-sie-waehlen-entwuerfe-der-wahlprogramme-von-spd-cdu-csu-gruene-fdp-afd-die-linke-bsw-im-ueberblick](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-wen-wollen-sie-waehlen-entwuerfe-der-wahlprogramme-von-spd-cdu-csu-gruene-fdp-afd-die-linke-bsw-im-ueberblick-a-664b4760-ad38-44c4-88eb-e2468722ea58#ref=rss)
-### afd
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-wen-wollen-sie-waehlen-entwuerfe-der-wahlprogramme-von-spd-cdu-csu-gruene-fdp-afd-die-linke-bsw-im-ueberblick](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-wen-wollen-sie-waehlen-entwuerfe-der-wahlprogramme-von-spd-cdu-csu-gruene-fdp-afd-die-linke-bsw-im-ueberblick-a-664b4760-ad38-44c4-88eb-e2468722ea58#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/robert-habeck-vs-alice-weidel-tv-duell-entscheidung-von-ard-und-zdf-sorgt-fuer-empoerung](https://www.spiegel.de/politik/deutschland/robert-habeck-vs-alice-weidel-tv-duell-entscheidung-von-ard-und-zdf-sorgt-fuer-empoerung-a-167a3ed0-cdd8-4f9d-9199-543e60c55d93#ref=rss)
-### bsw
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-wen-wollen-sie-waehlen-entwuerfe-der-wahlprogramme-von-spd-cdu-csu-gruene-fdp-afd-die-linke-bsw-im-ueberblick](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-wen-wollen-sie-waehlen-entwuerfe-der-wahlprogramme-von-spd-cdu-csu-gruene-fdp-afd-die-linke-bsw-im-ueberblick-a-664b4760-ad38-44c4-88eb-e2468722ea58#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-hamburg-gruendet-landesverband-gegen-willen-der-bundespartei](https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-hamburg-gruendet-landesverband-gegen-willen-der-bundespartei-a-f1713fe4-24e3-4332-b660-c315b117be2f#ref=rss)
-### überblick
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-wen-wollen-sie-waehlen-entwuerfe-der-wahlprogramme-von-spd-cdu-csu-gruene-fdp-afd-die-linke-bsw-im-ueberblick](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-wen-wollen-sie-waehlen-entwuerfe-der-wahlprogramme-von-spd-cdu-csu-gruene-fdp-afd-die-linke-bsw-im-ueberblick-a-664b4760-ad38-44c4-88eb-e2468722ea58#ref=rss)
-### geld
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-wen-wollen-sie-waehlen-entwuerfe-der-wahlprogramme-von-spd-cdu-csu-gruene-fdp-afd-die-linke-bsw-im-ueberblick](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-wen-wollen-sie-waehlen-entwuerfe-der-wahlprogramme-von-spd-cdu-csu-gruene-fdp-afd-die-linke-bsw-im-ueberblick-a-664b4760-ad38-44c4-88eb-e2468722ea58#ref=rss)
-* [https://www.spiegel.de/ausland/assad-sturz-eu-zahlt-der-tuerkei-eine-extra-milliarde-fuer-fluechtlinge](https://www.spiegel.de/ausland/assad-sturz-eu-zahlt-der-tuerkei-eine-extra-milliarde-fuer-fluechtlinge-a-2c9ea86a-f9cd-4a48-92e8-e6044a2e498b#ref=rss)
-### meta
-
-* [https://www.spiegel.de/netzwelt/web/meta-sicherheitsluecke-kostet-facebook-mutterkonzern-251-millionen-euro](https://www.spiegel.de/netzwelt/web/meta-sicherheitsluecke-kostet-facebook-mutterkonzern-251-millionen-euro-a-dbb92caa-72e0-44ab-a310-6c789b23012b#ref=rss)
-### 251
-
-* [https://www.spiegel.de/netzwelt/web/meta-sicherheitsluecke-kostet-facebook-mutterkonzern-251-millionen-euro](https://www.spiegel.de/netzwelt/web/meta-sicherheitsluecke-kostet-facebook-mutterkonzern-251-millionen-euro-a-dbb92caa-72e0-44ab-a310-6c789b23012b#ref=rss)
-### zahlen
-
-* [https://www.spiegel.de/netzwelt/web/meta-sicherheitsluecke-kostet-facebook-mutterkonzern-251-millionen-euro](https://www.spiegel.de/netzwelt/web/meta-sicherheitsluecke-kostet-facebook-mutterkonzern-251-millionen-euro-a-dbb92caa-72e0-44ab-a310-6c789b23012b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/michael-schumacher-staatsanwaltschaft-ermittelt-gegen-fruehere-krankenschwester-des-rennfahrers](https://www.spiegel.de/panorama/justiz/michael-schumacher-staatsanwaltschaft-ermittelt-gegen-fruehere-krankenschwester-des-rennfahrers-a-d6962898-9d30-4fa7-8c77-20607a2a7e70#ref=rss)
-### fast
-
-* [https://www.spiegel.de/netzwelt/web/meta-sicherheitsluecke-kostet-facebook-mutterkonzern-251-millionen-euro](https://www.spiegel.de/netzwelt/web/meta-sicherheitsluecke-kostet-facebook-mutterkonzern-251-millionen-euro-a-dbb92caa-72e0-44ab-a310-6c789b23012b#ref=rss)
-* [https://www.spiegel.de/ausland/russland-warum-kiews-geheimdienst-generalleutnant-igor-kirillow-toetete](https://www.spiegel.de/ausland/russland-warum-kiews-geheimdienst-generalleutnant-igor-kirillow-toetete-a-de8786cd-a139-453c-9272-75c33d44195b#ref=rss)
-### robert
-
-* [https://www.spiegel.de/politik/deutschland/robert-habeck-vs-alice-weidel-tv-duell-entscheidung-von-ard-und-zdf-sorgt-fuer-empoerung](https://www.spiegel.de/politik/deutschland/robert-habeck-vs-alice-weidel-tv-duell-entscheidung-von-ard-und-zdf-sorgt-fuer-empoerung-a-167a3ed0-cdd8-4f9d-9199-543e60c55d93#ref=rss)
-### habeck
-
-* [https://www.spiegel.de/politik/deutschland/robert-habeck-vs-alice-weidel-tv-duell-entscheidung-von-ard-und-zdf-sorgt-fuer-empoerung](https://www.spiegel.de/politik/deutschland/robert-habeck-vs-alice-weidel-tv-duell-entscheidung-von-ard-und-zdf-sorgt-fuer-empoerung-a-167a3ed0-cdd8-4f9d-9199-543e60c55d93#ref=rss)
-### alice
-
-* [https://www.spiegel.de/politik/deutschland/robert-habeck-vs-alice-weidel-tv-duell-entscheidung-von-ard-und-zdf-sorgt-fuer-empoerung](https://www.spiegel.de/politik/deutschland/robert-habeck-vs-alice-weidel-tv-duell-entscheidung-von-ard-und-zdf-sorgt-fuer-empoerung-a-167a3ed0-cdd8-4f9d-9199-543e60c55d93#ref=rss)
-### weidel
-
-* [https://www.spiegel.de/politik/deutschland/robert-habeck-vs-alice-weidel-tv-duell-entscheidung-von-ard-und-zdf-sorgt-fuer-empoerung](https://www.spiegel.de/politik/deutschland/robert-habeck-vs-alice-weidel-tv-duell-entscheidung-von-ard-und-zdf-sorgt-fuer-empoerung-a-167a3ed0-cdd8-4f9d-9199-543e60c55d93#ref=rss)
-### grünen
-
-* [https://www.spiegel.de/politik/deutschland/robert-habeck-vs-alice-weidel-tv-duell-entscheidung-von-ard-und-zdf-sorgt-fuer-empoerung](https://www.spiegel.de/politik/deutschland/robert-habeck-vs-alice-weidel-tv-duell-entscheidung-von-ard-und-zdf-sorgt-fuer-empoerung-a-167a3ed0-cdd8-4f9d-9199-543e60c55d93#ref=rss)
-* [https://www.spiegel.de/wirtschaft/eu-verdacht-auf-geldwaesche-die-raetselhaften-lotto-lose-des-ehemaligen-eu-justizkommissars-didier-reynders](https://www.spiegel.de/wirtschaft/eu-verdacht-auf-geldwaesche-die-raetselhaften-lotto-lose-des-ehemaligen-eu-justizkommissars-didier-reynders-a-1d8cbd52-d53a-49c4-9e24-9d7775c5635c#ref=rss)
-### british
-
-* [https://www.spiegel.de/wissenschaft/medizin/weihnachtsstudie-des-british-medical-journal-haette-aschenputtel-doch-nur-eine-ffp2-maske-getragen](https://www.spiegel.de/wissenschaft/medizin/weihnachtsstudie-des-british-medical-journal-haette-aschenputtel-doch-nur-eine-ffp2-maske-getragen-a-20020ce0-3e06-43de-bf1b-86fb09157ed7#ref=rss)
-### medical
-
-* [https://www.spiegel.de/wissenschaft/medizin/weihnachtsstudie-des-british-medical-journal-haette-aschenputtel-doch-nur-eine-ffp2-maske-getragen](https://www.spiegel.de/wissenschaft/medizin/weihnachtsstudie-des-british-medical-journal-haette-aschenputtel-doch-nur-eine-ffp2-maske-getragen-a-20020ce0-3e06-43de-bf1b-86fb09157ed7#ref=rss)
-### journal
-
-* [https://www.spiegel.de/wissenschaft/medizin/weihnachtsstudie-des-british-medical-journal-haette-aschenputtel-doch-nur-eine-ffp2-maske-getragen](https://www.spiegel.de/wissenschaft/medizin/weihnachtsstudie-des-british-medical-journal-haette-aschenputtel-doch-nur-eine-ffp2-maske-getragen-a-20020ce0-3e06-43de-bf1b-86fb09157ed7#ref=rss)
-### italien
-
-* [https://www.spiegel.de/panorama/italien-was-die-rettung-der-verunglueckten-hoehlenforscherin-ottavia-piana-so-kompliziert-macht](https://www.spiegel.de/panorama/italien-was-die-rettung-der-verunglueckten-hoehlenforscherin-ottavia-piana-so-kompliziert-macht-a-c3edd089-88ba-4a2e-b53c-1afc07924d2d#ref=rss)
-* [https://www.spiegel.de/panorama/italien-rettungsaktion-fuer-verletzte-hoehlenforscherin-ottavia-piana-in-600-meter-tiefe](https://www.spiegel.de/panorama/italien-rettungsaktion-fuer-verletzte-hoehlenforscherin-ottavia-piana-in-600-meter-tiefe-a-db5d845c-cf84-4f25-a60c-c4fb81ced6b7#ref=rss)
-### höhlenforscherin
-
-* [https://www.spiegel.de/panorama/italien-was-die-rettung-der-verunglueckten-hoehlenforscherin-ottavia-piana-so-kompliziert-macht](https://www.spiegel.de/panorama/italien-was-die-rettung-der-verunglueckten-hoehlenforscherin-ottavia-piana-so-kompliziert-macht-a-c3edd089-88ba-4a2e-b53c-1afc07924d2d#ref=rss)
-* [https://www.spiegel.de/panorama/italien-rettungsaktion-fuer-verletzte-hoehlenforscherin-ottavia-piana-in-600-meter-tiefe](https://www.spiegel.de/panorama/italien-rettungsaktion-fuer-verletzte-hoehlenforscherin-ottavia-piana-in-600-meter-tiefe-a-db5d845c-cf84-4f25-a60c-c4fb81ced6b7#ref=rss)
-### mehrere
-
-* [https://www.spiegel.de/panorama/italien-was-die-rettung-der-verunglueckten-hoehlenforscherin-ottavia-piana-so-kompliziert-macht](https://www.spiegel.de/panorama/italien-was-die-rettung-der-verunglueckten-hoehlenforscherin-ottavia-piana-so-kompliziert-macht-a-c3edd089-88ba-4a2e-b53c-1afc07924d2d#ref=rss)
-### mithilfe
-
-* [https://www.spiegel.de/panorama/italien-was-die-rettung-der-verunglueckten-hoehlenforscherin-ottavia-piana-so-kompliziert-macht](https://www.spiegel.de/panorama/italien-was-die-rettung-der-verunglueckten-hoehlenforscherin-ottavia-piana-so-kompliziert-macht-a-c3edd089-88ba-4a2e-b53c-1afc07924d2d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/eu-verdacht-auf-geldwaesche-die-raetselhaften-lotto-lose-des-ehemaligen-eu-justizkommissars-didier-reynders](https://www.spiegel.de/wirtschaft/eu-verdacht-auf-geldwaesche-die-raetselhaften-lotto-lose-des-ehemaligen-eu-justizkommissars-didier-reynders-a-1d8cbd52-d53a-49c4-9e24-9d7775c5635c#ref=rss)
-### wann
-
-* [https://www.spiegel.de/auto/weihnachtsverkehr-wann-es-auf-den-autobahnen-und-bei-der-bahn-am-vollsten-wird](https://www.spiegel.de/auto/weihnachtsverkehr-wann-es-auf-den-autobahnen-und-bei-der-bahn-am-vollsten-wird-a-2c4ce201-37c1-4fcb-b802-ae96ff9a5f69#ref=rss)
-### bahn
-
-* [https://www.spiegel.de/auto/weihnachtsverkehr-wann-es-auf-den-autobahnen-und-bei-der-bahn-am-vollsten-wird](https://www.spiegel.de/auto/weihnachtsverkehr-wann-es-auf-den-autobahnen-und-bei-der-bahn-am-vollsten-wird-a-2c4ce201-37c1-4fcb-b802-ae96ff9a5f69#ref=rss)
-### warnt
-
-* [https://www.spiegel.de/auto/weihnachtsverkehr-wann-es-auf-den-autobahnen-und-bei-der-bahn-am-vollsten-wird](https://www.spiegel.de/auto/weihnachtsverkehr-wann-es-auf-den-autobahnen-und-bei-der-bahn-am-vollsten-wird-a-2c4ce201-37c1-4fcb-b802-ae96ff9a5f69#ref=rss)
-* [https://www.spiegel.de/kultur/nicole-kidman-warnt-vor-verpassten-chancen](https://www.spiegel.de/kultur/nicole-kidman-warnt-vor-verpassten-chancen-a-48b8b27d-d67c-4d7a-b80e-34726cabbc30#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sachsen-gruene-monieren-fehlende-nein-stimmen-bei-wahl-zum-saechsischen-ministerpraesidenten](https://www.spiegel.de/politik/deutschland/sachsen-gruene-monieren-fehlende-nein-stimmen-bei-wahl-zum-saechsischen-ministerpraesidenten-a-ff359f52-ca34-4ee3-b00c-19ed77a584af#ref=rss)
+* [https://www.spiegel.de/politik/matthias-berger-gegen-michael-kretschmer-landtag-in-sachsen-waehlt-neuen-ministerpraesidenten](https://www.spiegel.de/politik/matthias-berger-gegen-michael-kretschmer-landtag-in-sachsen-waehlt-neuen-ministerpraesidenten-a-4b7545b5-b63e-4249-8fee-a8698f2493b2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/kampfgeraet-fuer-die-ukraine-deutschland-raeumt-militaerwerkstatt-in-der-slowakei](https://www.spiegel.de/politik/deutschland/kampfgeraet-fuer-die-ukraine-deutschland-raeumt-militaerwerkstatt-in-der-slowakei-a-c00063c7-a739-4c4b-bf2b-d3ec3ae27af2#ref=rss)
 ### china
 
-* [https://www.spiegel.de/auto/china-elektroauto-boom-laesst-kraftstoffverbrauch-frueher-sinken-als-erwartet](https://www.spiegel.de/auto/china-elektroauto-boom-laesst-kraftstoffverbrauch-frueher-sinken-als-erwartet-a-e8b927ea-9738-4874-ac36-32072c2c2751#ref=rss)
-### nachfrage
+* [https://www.spiegel.de/wirtschaft/service/temu-test-was-taugen-die-produkte-aus-china](https://www.spiegel.de/wirtschaft/service/temu-test-was-taugen-die-produkte-aus-china-a-e33288da-54dd-4c92-bdc1-38fa4e7619e4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/china-us-oekonom-michael-pettis-warnt-vor-den-auswirkungen-eines-handelskriegs-mit-den-usa](https://www.spiegel.de/wirtschaft/china-us-oekonom-michael-pettis-warnt-vor-den-auswirkungen-eines-handelskriegs-mit-den-usa-a-1dc5f2ec-4114-429b-bf5d-8daff18754b2#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/auto/china-elektroauto-boom-laesst-kraftstoffverbrauch-frueher-sinken-als-erwartet](https://www.spiegel.de/auto/china-elektroauto-boom-laesst-kraftstoffverbrauch-frueher-sinken-als-erwartet-a-e8b927ea-9738-4874-ac36-32072c2c2751#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/verkauf-von-atombunkern-boomt-obwohl-sie-kaum-schuetzen](https://www.spiegel.de/wirtschaft/service/verkauf-von-atombunkern-boomt-obwohl-sie-kaum-schuetzen-a-d45db673-d71a-410f-a43e-dfcd5e184e50#ref=rss)
-### rottweil
+* [https://www.spiegel.de/ausland/grossbritannien-elon-musk-unterstuetzt-offenbar-rechtspopulisten-um-nigel-farage](https://www.spiegel.de/ausland/grossbritannien-elon-musk-unterstuetzt-offenbar-rechtspopulisten-um-nigel-farage-a-fcd329e7-51ae-40d0-931c-680e520c5e55#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukrainischer-gefluechteter-in-deutschland-soll-fuer-kreml-sabotiert-haben](https://www.spiegel.de/ausland/russland-ukrainischer-gefluechteter-in-deutschland-soll-fuer-kreml-sabotiert-haben-a-5ee12ad2-ea0c-4a88-9efb-bf95d192de88#ref=rss)
+### bündnis
 
-* [https://www.spiegel.de/panorama/rottweil-schuss-auf-zwoelfjaehrigen-14-jaehriger-jugendlicher-unter-tatverdacht](https://www.spiegel.de/panorama/rottweil-schuss-auf-zwoelfjaehrigen-14-jaehriger-jugendlicher-unter-tatverdacht-a-f7e10651-c6aa-45cd-ad87-ae419d517280#ref=rss)
-### schuss
+* [https://www.spiegel.de/ausland/grossbritannien-elon-musk-unterstuetzt-offenbar-rechtspopulisten-um-nigel-farage](https://www.spiegel.de/ausland/grossbritannien-elon-musk-unterstuetzt-offenbar-rechtspopulisten-um-nigel-farage-a-fcd329e7-51ae-40d0-931c-680e520c5e55#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-markus-soeder-sieht-moegliches-buendnis-mit-spd-kritisch](https://www.spiegel.de/politik/deutschland/bundestagswahl-markus-soeder-sieht-moegliches-buendnis-mit-spd-kritisch-a-ef996d48-b6fc-47e4-9346-8a350b6aae2c#ref=rss)
+### würde
 
-* [https://www.spiegel.de/panorama/rottweil-schuss-auf-zwoelfjaehrigen-14-jaehriger-jugendlicher-unter-tatverdacht](https://www.spiegel.de/panorama/rottweil-schuss-auf-zwoelfjaehrigen-14-jaehriger-jugendlicher-unter-tatverdacht-a-f7e10651-c6aa-45cd-ad87-ae419d517280#ref=rss)
-### polizei
+* [https://www.spiegel.de/wirtschaft/china-us-oekonom-michael-pettis-warnt-vor-den-auswirkungen-eines-handelskriegs-mit-den-usa](https://www.spiegel.de/wirtschaft/china-us-oekonom-michael-pettis-warnt-vor-den-auswirkungen-eines-handelskriegs-mit-den-usa-a-1dc5f2ec-4114-429b-bf5d-8daff18754b2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/iw-koeln-studie-80-000-syrer-arbeiten-dort-wo-arbeitskraefte-fehlen](https://www.spiegel.de/wirtschaft/iw-koeln-studie-80-000-syrer-arbeiten-dort-wo-arbeitskraefte-fehlen-a-27001032-2c37-4639-928f-18f2c351bfa6#ref=rss)
+* [https://www.spiegel.de/kultur/kultur-in-hamburg-carsten-brosda-so-engen-wir-die-kunst-ein-und-berauben-sie-ihrer-kraft](https://www.spiegel.de/kultur/kultur-in-hamburg-carsten-brosda-so-engen-wir-die-kunst-ein-und-berauben-sie-ihrer-kraft-a-3f00e19d-cbd6-4155-918c-7140b2c37903#ref=rss)
+### sieht
 
-* [https://www.spiegel.de/panorama/rottweil-schuss-auf-zwoelfjaehrigen-14-jaehriger-jugendlicher-unter-tatverdacht](https://www.spiegel.de/panorama/rottweil-schuss-auf-zwoelfjaehrigen-14-jaehriger-jugendlicher-unter-tatverdacht-a-f7e10651-c6aa-45cd-ad87-ae419d517280#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-verdacht-auf-giftanschlag-frau-in-charite-eingeliefert](https://www.spiegel.de/panorama/justiz/berlin-verdacht-auf-giftanschlag-frau-in-charite-eingeliefert-a-b6eb7b66-430b-4652-98fd-780e8866c658#ref=rss)
-### trans
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-kleine-parteien-muessen-unterschriften-sammeln](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-kleine-parteien-muessen-unterschriften-sammeln-a-d483b25a-9462-4113-9026-2f56ed72e945#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-markus-soeder-sieht-moegliches-buendnis-mit-spd-kritisch](https://www.spiegel.de/politik/deutschland/bundestagswahl-markus-soeder-sieht-moegliches-buendnis-mit-spd-kritisch-a-ef996d48-b6fc-47e4-9346-8a350b6aae2c#ref=rss)
+### dennis
 
-* [https://www.spiegel.de/kultur/trans-model-alex-consani-erlebte-als-kind-viel-ablehnung](https://www.spiegel.de/kultur/trans-model-alex-consani-erlebte-als-kind-viel-ablehnung-a-540785d4-6fd7-47f4-b0e9-9d568ce0c793#ref=rss)
-### model
+* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeders-sohn-freut-sich-ueber-den-wechsel-seines-vaters-zu-den-warriors](https://www.spiegel.de/sport/basketball/nba-dennis-schroeders-sohn-freut-sich-ueber-den-wechsel-seines-vaters-zu-den-warriors-a-8a1a9217-9719-4e4b-8773-f0af16e986cb#ref=rss)
+### erst
 
-* [https://www.spiegel.de/kultur/trans-model-alex-consani-erlebte-als-kind-viel-ablehnung](https://www.spiegel.de/kultur/trans-model-alex-consani-erlebte-als-kind-viel-ablehnung-a-540785d4-6fd7-47f4-b0e9-9d568ce0c793#ref=rss)
-### alex
+* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeders-sohn-freut-sich-ueber-den-wechsel-seines-vaters-zu-den-warriors](https://www.spiegel.de/sport/basketball/nba-dennis-schroeders-sohn-freut-sich-ueber-den-wechsel-seines-vaters-zu-den-warriors-a-8a1a9217-9719-4e4b-8773-f0af16e986cb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/kampfgeraet-fuer-die-ukraine-deutschland-raeumt-militaerwerkstatt-in-der-slowakei](https://www.spiegel.de/politik/deutschland/kampfgeraet-fuer-die-ukraine-deutschland-raeumt-militaerwerkstatt-in-der-slowakei-a-c00063c7-a739-4c4b-bf2b-d3ec3ae27af2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/klimakrise-energieagentur-prognostiziert-rekordnachfrage-nach-kohle](https://www.spiegel.de/wirtschaft/klimakrise-energieagentur-prognostiziert-rekordnachfrage-nach-kohle-a-07e398de-ab42-42f0-b704-5828257f8162#ref=rss)
+### 2024
 
-* [https://www.spiegel.de/kultur/trans-model-alex-consani-erlebte-als-kind-viel-ablehnung](https://www.spiegel.de/kultur/trans-model-alex-consani-erlebte-als-kind-viel-ablehnung-a-540785d4-6fd7-47f4-b0e9-9d568ce0c793#ref=rss)
-### consani
+* [https://www.spiegel.de/wirtschaft/klimakrise-energieagentur-prognostiziert-rekordnachfrage-nach-kohle](https://www.spiegel.de/wirtschaft/klimakrise-energieagentur-prognostiziert-rekordnachfrage-nach-kohle-a-07e398de-ab42-42f0-b704-5828257f8162#ref=rss)
+* [https://www.spiegel.de/wirtschaft/kaum-noch-leerstand-diw-studie-belegt-kraeftigen-mietanstieg-in-2024](https://www.spiegel.de/wirtschaft/kaum-noch-leerstand-diw-studie-belegt-kraeftigen-mietanstieg-in-2024-a-1085f2fb-e8f1-4449-9e1e-37ac1ee209cf#ref=rss)
+### jahr
 
-* [https://www.spiegel.de/kultur/trans-model-alex-consani-erlebte-als-kind-viel-ablehnung](https://www.spiegel.de/kultur/trans-model-alex-consani-erlebte-als-kind-viel-ablehnung-a-540785d4-6fd7-47f4-b0e9-9d568ce0c793#ref=rss)
-### frau
+* [https://www.spiegel.de/wirtschaft/klimakrise-energieagentur-prognostiziert-rekordnachfrage-nach-kohle](https://www.spiegel.de/wirtschaft/klimakrise-energieagentur-prognostiziert-rekordnachfrage-nach-kohle-a-07e398de-ab42-42f0-b704-5828257f8162#ref=rss)
+* [https://www.spiegel.de/netzwelt/streaming-datentransfer-per-mobilfunk-erreicht-rekordwert](https://www.spiegel.de/netzwelt/streaming-datentransfer-per-mobilfunk-erreicht-rekordwert-a-e56c6e06-f57e-4cb0-a2a3-1c1f493011d4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/fdp-und-steuern-die-teuren-wahlversprechen-der-liberalen](https://www.spiegel.de/wirtschaft/soziales/fdp-und-steuern-die-teuren-wahlversprechen-der-liberalen-a-e3c153fd-a266-4161-8c1f-2a2d9ebea40b#ref=rss)
+### dresden
 
-* [https://www.spiegel.de/kultur/trans-model-alex-consani-erlebte-als-kind-viel-ablehnung](https://www.spiegel.de/kultur/trans-model-alex-consani-erlebte-als-kind-viel-ablehnung-a-540785d4-6fd7-47f4-b0e9-9d568ce0c793#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-verdacht-auf-giftanschlag-frau-in-charite-eingeliefert](https://www.spiegel.de/panorama/justiz/berlin-verdacht-auf-giftanschlag-frau-in-charite-eingeliefert-a-b6eb7b66-430b-4652-98fd-780e8866c658#ref=rss)
-### charité
+* [https://www.spiegel.de/panorama/dresden-diebe-stehlen-zutaten-fuer-weihnachtsessen-aus-geschaeft](https://www.spiegel.de/panorama/dresden-diebe-stehlen-zutaten-fuer-weihnachtsessen-aus-geschaeft-a-f458a3ba-c9b2-4a30-9032-328733a9725d#ref=rss)
+### laut
 
-* [https://www.spiegel.de/panorama/justiz/berlin-verdacht-auf-giftanschlag-frau-in-charite-eingeliefert](https://www.spiegel.de/panorama/justiz/berlin-verdacht-auf-giftanschlag-frau-in-charite-eingeliefert-a-b6eb7b66-430b-4652-98fd-780e8866c658#ref=rss)
-### gebracht
+* [https://www.spiegel.de/panorama/dresden-diebe-stehlen-zutaten-fuer-weihnachtsessen-aus-geschaeft](https://www.spiegel.de/panorama/dresden-diebe-stehlen-zutaten-fuer-weihnachtsessen-aus-geschaeft-a-f458a3ba-c9b2-4a30-9032-328733a9725d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/iw-koeln-studie-80-000-syrer-arbeiten-dort-wo-arbeitskraefte-fehlen](https://www.spiegel.de/wirtschaft/iw-koeln-studie-80-000-syrer-arbeiten-dort-wo-arbeitskraefte-fehlen-a-27001032-2c37-4639-928f-18f2c351bfa6#ref=rss)
+### geschenke
 
-* [https://www.spiegel.de/panorama/justiz/berlin-verdacht-auf-giftanschlag-frau-in-charite-eingeliefert](https://www.spiegel.de/panorama/justiz/berlin-verdacht-auf-giftanschlag-frau-in-charite-eingeliefert-a-b6eb7b66-430b-4652-98fd-780e8866c658#ref=rss)
-* [https://www.spiegel.de/kultur/nicole-kidman-warnt-vor-verpassten-chancen](https://www.spiegel.de/kultur/nicole-kidman-warnt-vor-verpassten-chancen-a-48b8b27d-d67c-4d7a-b80e-34726cabbc30#ref=rss)
-### anschlag
+* [https://www.spiegel.de/wirtschaft/service/temu-test-was-taugen-die-produkte-aus-china](https://www.spiegel.de/wirtschaft/service/temu-test-was-taugen-die-produkte-aus-china-a-e33288da-54dd-4c92-bdc1-38fa4e7619e4#ref=rss)
+* [https://www.spiegel.de/panorama/brasilien-weihnachtsmann-rettet-badegaeste-in-rio-de-janeiro](https://www.spiegel.de/panorama/brasilien-weihnachtsmann-rettet-badegaeste-in-rio-de-janeiro-a-461438de-e399-4ee2-bea1-9906b7856c8d#ref=rss)
+### wir
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-anschlag-auf-russischen-general-clarissa-ward-michael-schumacher](https://www.spiegel.de/politik/deutschland/news-des-tages-anschlag-auf-russischen-general-clarissa-ward-michael-schumacher-a-82d9223c-0d5e-4db6-bcfd-e94545670160#ref=rss)
-* [https://www.spiegel.de/ausland/russland-warum-kiews-geheimdienst-generalleutnant-igor-kirillow-toetete](https://www.spiegel.de/ausland/russland-warum-kiews-geheimdienst-generalleutnant-igor-kirillow-toetete-a-de8786cd-a139-453c-9272-75c33d44195b#ref=rss)
-### general
+* [https://www.spiegel.de/wirtschaft/service/temu-test-was-taugen-die-produkte-aus-china](https://www.spiegel.de/wirtschaft/service/temu-test-was-taugen-die-produkte-aus-china-a-e33288da-54dd-4c92-bdc1-38fa4e7619e4#ref=rss)
+* [https://www.spiegel.de/kultur/kultur-in-hamburg-carsten-brosda-so-engen-wir-die-kunst-ein-und-berauben-sie-ihrer-kraft](https://www.spiegel.de/kultur/kultur-in-hamburg-carsten-brosda-so-engen-wir-die-kunst-ein-und-berauben-sie-ihrer-kraft-a-3f00e19d-cbd6-4155-918c-7140b2c37903#ref=rss)
+### elon
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-anschlag-auf-russischen-general-clarissa-ward-michael-schumacher](https://www.spiegel.de/politik/deutschland/news-des-tages-anschlag-auf-russischen-general-clarissa-ward-michael-schumacher-a-82d9223c-0d5e-4db6-bcfd-e94545670160#ref=rss)
-* [https://www.spiegel.de/ausland/russland-getoeteter-general-igor-kirillow-ein-dashcam-video-zeigt-den-moment-des-anschlags](https://www.spiegel.de/ausland/russland-getoeteter-general-igor-kirillow-ein-dashcam-video-zeigt-den-moment-des-anschlags-a-13be549b-a45c-4028-8080-71ed443366b8#ref=rss)
-### wagenknecht
+* [https://www.spiegel.de/ausland/grossbritannien-elon-musk-unterstuetzt-offenbar-rechtspopulisten-um-nigel-farage](https://www.spiegel.de/ausland/grossbritannien-elon-musk-unterstuetzt-offenbar-rechtspopulisten-um-nigel-farage-a-fcd329e7-51ae-40d0-931c-680e520c5e55#ref=rss)
+### musk
 
-* [https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-hamburg-gruendet-landesverband-gegen-willen-der-bundespartei](https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-hamburg-gruendet-landesverband-gegen-willen-der-bundespartei-a-f1713fe4-24e3-4332-b660-c315b117be2f#ref=rss)
-### hamburg
+* [https://www.spiegel.de/ausland/grossbritannien-elon-musk-unterstuetzt-offenbar-rechtspopulisten-um-nigel-farage](https://www.spiegel.de/ausland/grossbritannien-elon-musk-unterstuetzt-offenbar-rechtspopulisten-um-nigel-farage-a-fcd329e7-51ae-40d0-931c-680e520c5e55#ref=rss)
+### nigel
 
-* [https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-hamburg-gruendet-landesverband-gegen-willen-der-bundespartei](https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-hamburg-gruendet-landesverband-gegen-willen-der-bundespartei-a-f1713fe4-24e3-4332-b660-c315b117be2f#ref=rss)
-### türkei
+* [https://www.spiegel.de/ausland/grossbritannien-elon-musk-unterstuetzt-offenbar-rechtspopulisten-um-nigel-farage](https://www.spiegel.de/ausland/grossbritannien-elon-musk-unterstuetzt-offenbar-rechtspopulisten-um-nigel-farage-a-fcd329e7-51ae-40d0-931c-680e520c5e55#ref=rss)
+### farage
 
-* [https://www.spiegel.de/ausland/assad-sturz-eu-zahlt-der-tuerkei-eine-extra-milliarde-fuer-fluechtlinge](https://www.spiegel.de/ausland/assad-sturz-eu-zahlt-der-tuerkei-eine-extra-milliarde-fuer-fluechtlinge-a-2c9ea86a-f9cd-4a48-92e8-e6044a2e498b#ref=rss)
-### flüchtlinge
+* [https://www.spiegel.de/ausland/grossbritannien-elon-musk-unterstuetzt-offenbar-rechtspopulisten-um-nigel-farage](https://www.spiegel.de/ausland/grossbritannien-elon-musk-unterstuetzt-offenbar-rechtspopulisten-um-nigel-farage-a-fcd329e7-51ae-40d0-931c-680e520c5e55#ref=rss)
+### gegner
 
-* [https://www.spiegel.de/ausland/assad-sturz-eu-zahlt-der-tuerkei-eine-extra-milliarde-fuer-fluechtlinge](https://www.spiegel.de/ausland/assad-sturz-eu-zahlt-der-tuerkei-eine-extra-milliarde-fuer-fluechtlinge-a-2c9ea86a-f9cd-4a48-92e8-e6044a2e498b#ref=rss)
-### hukcoburg
+* [https://www.spiegel.de/ausland/grossbritannien-elon-musk-unterstuetzt-offenbar-rechtspopulisten-um-nigel-farage](https://www.spiegel.de/ausland/grossbritannien-elon-musk-unterstuetzt-offenbar-rechtspopulisten-um-nigel-farage-a-fcd329e7-51ae-40d0-931c-680e520c5e55#ref=rss)
+* [https://www.spiegel.de/sport/darts-wm-trans-spielerin-noa-lynn-van-leuven-wird-freundlich-empfangen-aber-verliert](https://www.spiegel.de/sport/darts-wm-trans-spielerin-noa-lynn-van-leuven-wird-freundlich-empfangen-aber-verliert-a-6644f773-7b50-42e2-81fc-52d07e93f010#ref=rss)
+### fassbender
 
-* [https://www.spiegel.de/wirtschaft/service/huk-coburg-uebernimmt-werkstattkette-pitstop](https://www.spiegel.de/wirtschaft/service/huk-coburg-uebernimmt-werkstattkette-pitstop-a-41dc8155-af42-4677-93f4-b664d68065a3#ref=rss)
-### werkstattkette
+* [https://www.spiegel.de/kultur/kino/michael-fassbender-abba-ist-ein-guter-soundtrack-zum-sterben](https://www.spiegel.de/kultur/kino/michael-fassbender-abba-ist-ein-guter-soundtrack-zum-sterben-a-e1bf35cd-71f1-426c-8925-115fd65bd702#ref=rss)
+### abba
 
-* [https://www.spiegel.de/wirtschaft/service/huk-coburg-uebernimmt-werkstattkette-pitstop](https://www.spiegel.de/wirtschaft/service/huk-coburg-uebernimmt-werkstattkette-pitstop-a-41dc8155-af42-4677-93f4-b664d68065a3#ref=rss)
-### pitstop
+* [https://www.spiegel.de/kultur/kino/michael-fassbender-abba-ist-ein-guter-soundtrack-zum-sterben](https://www.spiegel.de/kultur/kino/michael-fassbender-abba-ist-ein-guter-soundtrack-zum-sterben-a-e1bf35cd-71f1-426c-8925-115fd65bd702#ref=rss)
+### usökonom
 
-* [https://www.spiegel.de/wirtschaft/service/huk-coburg-uebernimmt-werkstattkette-pitstop](https://www.spiegel.de/wirtschaft/service/huk-coburg-uebernimmt-werkstattkette-pitstop-a-41dc8155-af42-4677-93f4-b664d68065a3#ref=rss)
-### didier
+* [https://www.spiegel.de/wirtschaft/china-us-oekonom-michael-pettis-warnt-vor-den-auswirkungen-eines-handelskriegs-mit-den-usa](https://www.spiegel.de/wirtschaft/china-us-oekonom-michael-pettis-warnt-vor-den-auswirkungen-eines-handelskriegs-mit-den-usa-a-1dc5f2ec-4114-429b-bf5d-8daff18754b2#ref=rss)
+### pettis
 
-* [https://www.spiegel.de/wirtschaft/eu-verdacht-auf-geldwaesche-die-raetselhaften-lotto-lose-des-ehemaligen-eu-justizkommissars-didier-reynders](https://www.spiegel.de/wirtschaft/eu-verdacht-auf-geldwaesche-die-raetselhaften-lotto-lose-des-ehemaligen-eu-justizkommissars-didier-reynders-a-1d8cbd52-d53a-49c4-9e24-9d7775c5635c#ref=rss)
-### reynders
+* [https://www.spiegel.de/wirtschaft/china-us-oekonom-michael-pettis-warnt-vor-den-auswirkungen-eines-handelskriegs-mit-den-usa](https://www.spiegel.de/wirtschaft/china-us-oekonom-michael-pettis-warnt-vor-den-auswirkungen-eines-handelskriegs-mit-den-usa-a-1dc5f2ec-4114-429b-bf5d-8daff18754b2#ref=rss)
+### usa
 
-* [https://www.spiegel.de/wirtschaft/eu-verdacht-auf-geldwaesche-die-raetselhaften-lotto-lose-des-ehemaligen-eu-justizkommissars-didier-reynders](https://www.spiegel.de/wirtschaft/eu-verdacht-auf-geldwaesche-die-raetselhaften-lotto-lose-des-ehemaligen-eu-justizkommissars-didier-reynders-a-1d8cbd52-d53a-49c4-9e24-9d7775c5635c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/china-us-oekonom-michael-pettis-warnt-vor-den-auswirkungen-eines-handelskriegs-mit-den-usa](https://www.spiegel.de/wirtschaft/china-us-oekonom-michael-pettis-warnt-vor-den-auswirkungen-eines-handelskriegs-mit-den-usa-a-1dc5f2ec-4114-429b-bf5d-8daff18754b2#ref=rss)
+### erklärt
+
+* [https://www.spiegel.de/wirtschaft/china-us-oekonom-michael-pettis-warnt-vor-den-auswirkungen-eines-handelskriegs-mit-den-usa](https://www.spiegel.de/wirtschaft/china-us-oekonom-michael-pettis-warnt-vor-den-auswirkungen-eines-handelskriegs-mit-den-usa-a-1dc5f2ec-4114-429b-bf5d-8daff18754b2#ref=rss)
+* [https://www.spiegel.de/kultur/kultur-in-hamburg-carsten-brosda-so-engen-wir-die-kunst-ein-und-berauben-sie-ihrer-kraft](https://www.spiegel.de/kultur/kultur-in-hamburg-carsten-brosda-so-engen-wir-die-kunst-ein-und-berauben-sie-ihrer-kraft-a-3f00e19d-cbd6-4155-918c-7140b2c37903#ref=rss)
+### recht
+
+* [https://www.spiegel.de/wirtschaft/china-us-oekonom-michael-pettis-warnt-vor-den-auswirkungen-eines-handelskriegs-mit-den-usa](https://www.spiegel.de/wirtschaft/china-us-oekonom-michael-pettis-warnt-vor-den-auswirkungen-eines-handelskriegs-mit-den-usa-a-1dc5f2ec-4114-429b-bf5d-8daff18754b2#ref=rss)
+* [https://www.spiegel.de/kultur/kultur-in-hamburg-carsten-brosda-so-engen-wir-die-kunst-ein-und-berauben-sie-ihrer-kraft](https://www.spiegel.de/kultur/kultur-in-hamburg-carsten-brosda-so-engen-wir-die-kunst-ein-und-berauben-sie-ihrer-kraft-a-3f00e19d-cbd6-4155-918c-7140b2c37903#ref=rss)
+### constantini
+
+* [https://www.spiegel.de/sport/fussball/didi-constantini-ist-tot-trainerlegende-aus-oesterreich-gestorben](https://www.spiegel.de/sport/fussball/didi-constantini-ist-tot-trainerlegende-aus-oesterreich-gestorben-a-85f38153-f215-4675-8813-54ab58adc323#ref=rss)
+### gestorben
+
+* [https://www.spiegel.de/sport/fussball/didi-constantini-ist-tot-trainerlegende-aus-oesterreich-gestorben](https://www.spiegel.de/sport/fussball/didi-constantini-ist-tot-trainerlegende-aus-oesterreich-gestorben-a-85f38153-f215-4675-8813-54ab58adc323#ref=rss)
+### seines
+
+* [https://www.spiegel.de/panorama/brasilien-weihnachtsmann-rettet-badegaeste-in-rio-de-janeiro](https://www.spiegel.de/panorama/brasilien-weihnachtsmann-rettet-badegaeste-in-rio-de-janeiro-a-461438de-e399-4ee2-bea1-9906b7856c8d#ref=rss)
+* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeders-sohn-freut-sich-ueber-den-wechsel-seines-vaters-zu-den-warriors](https://www.spiegel.de/sport/basketball/nba-dennis-schroeders-sohn-freut-sich-ueber-den-wechsel-seines-vaters-zu-den-warriors-a-8a1a9217-9719-4e4b-8773-f0af16e986cb#ref=rss)
+### 2025
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-kleine-parteien-muessen-unterschriften-sammeln](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-kleine-parteien-muessen-unterschriften-sammeln-a-d483b25a-9462-4113-9026-2f56ed72e945#ref=rss)
+* [https://www.spiegel.de/kultur/kino/oscars-2025-volker-bertelmann-die-saat-des-heiligen-feigenbaums-auf-der-shortlist](https://www.spiegel.de/kultur/kino/oscars-2025-volker-bertelmann-die-saat-des-heiligen-feigenbaums-auf-der-shortlist-a-dbe7d056-9937-4d6f-b13a-9ffaaa31de5d#ref=rss)
+### kleine
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-kleine-parteien-muessen-unterschriften-sammeln](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-kleine-parteien-muessen-unterschriften-sammeln-a-d483b25a-9462-4113-9026-2f56ed72e945#ref=rss)
+### parteien
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-kleine-parteien-muessen-unterschriften-sammeln](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-kleine-parteien-muessen-unterschriften-sammeln-a-d483b25a-9462-4113-9026-2f56ed72e945#ref=rss)
+### unterschriften
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-kleine-parteien-muessen-unterschriften-sammeln](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-kleine-parteien-muessen-unterschriften-sammeln-a-d483b25a-9462-4113-9026-2f56ed72e945#ref=rss)
+### zeit
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-kleine-parteien-muessen-unterschriften-sammeln](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-kleine-parteien-muessen-unterschriften-sammeln-a-d483b25a-9462-4113-9026-2f56ed72e945#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/mr-unreal-estate-im-interview-anfangs-dachten-viele-ich-mache-makler-satire](https://www.spiegel.de/netzwelt/web/mr-unreal-estate-im-interview-anfangs-dachten-viele-ich-mache-makler-satire-a-3629082d-cddf-4346-bcdf-da2492178b39#ref=rss)
+### anteile
+
+* [https://www.spiegel.de/wirtschaft/anteile-aufgestockt-unicredit-greift-nach-der-commerzbank](https://www.spiegel.de/wirtschaft/anteile-aufgestockt-unicredit-greift-nach-der-commerzbank-a-b31b76ef-8f80-49db-b3f5-2aa38d65af6b#ref=rss)
+### unicredit
+
+* [https://www.spiegel.de/wirtschaft/anteile-aufgestockt-unicredit-greift-nach-der-commerzbank](https://www.spiegel.de/wirtschaft/anteile-aufgestockt-unicredit-greift-nach-der-commerzbank-a-b31b76ef-8f80-49db-b3f5-2aa38d65af6b#ref=rss)
+### commerzbank
+
+* [https://www.spiegel.de/wirtschaft/anteile-aufgestockt-unicredit-greift-nach-der-commerzbank](https://www.spiegel.de/wirtschaft/anteile-aufgestockt-unicredit-greift-nach-der-commerzbank-a-b31b76ef-8f80-49db-b3f5-2aa38d65af6b#ref=rss)
+### markus
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-markus-soeder-sieht-moegliches-buendnis-mit-spd-kritisch](https://www.spiegel.de/politik/deutschland/bundestagswahl-markus-soeder-sieht-moegliches-buendnis-mit-spd-kritisch-a-ef996d48-b6fc-47e4-9346-8a350b6aae2c#ref=rss)
+### söder
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-markus-soeder-sieht-moegliches-buendnis-mit-spd-kritisch](https://www.spiegel.de/politik/deutschland/bundestagswahl-markus-soeder-sieht-moegliches-buendnis-mit-spd-kritisch-a-ef996d48-b6fc-47e4-9346-8a350b6aae2c#ref=rss)
+### spd
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-markus-soeder-sieht-moegliches-buendnis-mit-spd-kritisch](https://www.spiegel.de/politik/deutschland/bundestagswahl-markus-soeder-sieht-moegliches-buendnis-mit-spd-kritisch-a-ef996d48-b6fc-47e4-9346-8a350b6aae2c#ref=rss)
+### viele
+
+* [https://www.spiegel.de/netzwelt/web/mr-unreal-estate-im-interview-anfangs-dachten-viele-ich-mache-makler-satire](https://www.spiegel.de/netzwelt/web/mr-unreal-estate-im-interview-anfangs-dachten-viele-ich-mache-makler-satire-a-3629082d-cddf-4346-bcdf-da2492178b39#ref=rss)
+### suni
+
+* [https://www.spiegel.de/wissenschaft/weltall/nasa-rueckkehr-von-suni-williams-und-butch-wilmore-von-iss-erneut-verschoben](https://www.spiegel.de/wissenschaft/weltall/nasa-rueckkehr-von-suni-williams-und-butch-wilmore-von-iss-erneut-verschoben-a-7130757d-3b1c-40c6-bfee-cbad488db089#ref=rss)
+### williams
+
+* [https://www.spiegel.de/wissenschaft/weltall/nasa-rueckkehr-von-suni-williams-und-butch-wilmore-von-iss-erneut-verschoben](https://www.spiegel.de/wissenschaft/weltall/nasa-rueckkehr-von-suni-williams-und-butch-wilmore-von-iss-erneut-verschoben-a-7130757d-3b1c-40c6-bfee-cbad488db089#ref=rss)
+### butch
+
+* [https://www.spiegel.de/wissenschaft/weltall/nasa-rueckkehr-von-suni-williams-und-butch-wilmore-von-iss-erneut-verschoben](https://www.spiegel.de/wissenschaft/weltall/nasa-rueckkehr-von-suni-williams-und-butch-wilmore-von-iss-erneut-verschoben-a-7130757d-3b1c-40c6-bfee-cbad488db089#ref=rss)
+### wilmore
+
+* [https://www.spiegel.de/wissenschaft/weltall/nasa-rueckkehr-von-suni-williams-und-butch-wilmore-von-iss-erneut-verschoben](https://www.spiegel.de/wissenschaft/weltall/nasa-rueckkehr-von-suni-williams-und-butch-wilmore-von-iss-erneut-verschoben-a-7130757d-3b1c-40c6-bfee-cbad488db089#ref=rss)
+### volker
+
+* [https://www.spiegel.de/kultur/kino/oscars-2025-volker-bertelmann-die-saat-des-heiligen-feigenbaums-auf-der-shortlist](https://www.spiegel.de/kultur/kino/oscars-2025-volker-bertelmann-die-saat-des-heiligen-feigenbaums-auf-der-shortlist-a-dbe7d056-9937-4d6f-b13a-9ffaaa31de5d#ref=rss)
+### bertelmann
+
+* [https://www.spiegel.de/kultur/kino/oscars-2025-volker-bertelmann-die-saat-des-heiligen-feigenbaums-auf-der-shortlist](https://www.spiegel.de/kultur/kino/oscars-2025-volker-bertelmann-die-saat-des-heiligen-feigenbaums-auf-der-shortlist-a-dbe7d056-9937-4d6f-b13a-9ffaaa31de5d#ref=rss)
+### saat
+
+* [https://www.spiegel.de/kultur/kino/oscars-2025-volker-bertelmann-die-saat-des-heiligen-feigenbaums-auf-der-shortlist](https://www.spiegel.de/kultur/kino/oscars-2025-volker-bertelmann-die-saat-des-heiligen-feigenbaums-auf-der-shortlist-a-dbe7d056-9937-4d6f-b13a-9ffaaa31de5d#ref=rss)
+### heiligen
+
+* [https://www.spiegel.de/kultur/kino/oscars-2025-volker-bertelmann-die-saat-des-heiligen-feigenbaums-auf-der-shortlist](https://www.spiegel.de/kultur/kino/oscars-2025-volker-bertelmann-die-saat-des-heiligen-feigenbaums-auf-der-shortlist-a-dbe7d056-9937-4d6f-b13a-9ffaaa31de5d#ref=rss)
+### feigenbaums
+
+* [https://www.spiegel.de/kultur/kino/oscars-2025-volker-bertelmann-die-saat-des-heiligen-feigenbaums-auf-der-shortlist](https://www.spiegel.de/kultur/kino/oscars-2025-volker-bertelmann-die-saat-des-heiligen-feigenbaums-auf-der-shortlist-a-dbe7d056-9937-4d6f-b13a-9ffaaa31de5d#ref=rss)
+### wechsel
+
+* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeders-sohn-freut-sich-ueber-den-wechsel-seines-vaters-zu-den-warriors](https://www.spiegel.de/sport/basketball/nba-dennis-schroeders-sohn-freut-sich-ueber-den-wechsel-seines-vaters-zu-den-warriors-a-8a1a9217-9719-4e4b-8773-f0af16e986cb#ref=rss)
+### gerade
+
+* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeders-sohn-freut-sich-ueber-den-wechsel-seines-vaters-zu-den-warriors](https://www.spiegel.de/sport/basketball/nba-dennis-schroeders-sohn-freut-sich-ueber-den-wechsel-seines-vaters-zu-den-warriors-a-8a1a9217-9719-4e4b-8773-f0af16e986cb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/kaum-noch-leerstand-diw-studie-belegt-kraeftigen-mietanstieg-in-2024](https://www.spiegel.de/wirtschaft/kaum-noch-leerstand-diw-studie-belegt-kraeftigen-mietanstieg-in-2024-a-1085f2fb-e8f1-4449-9e1e-37ac1ee209cf#ref=rss)
+### nissan
+
+* [https://www.spiegel.de/wirtschaft/nissan-und-honda-sprechen-ueber-fusion](https://www.spiegel.de/wirtschaft/nissan-und-honda-sprechen-ueber-fusion-a-b2f93936-7ab7-4fd1-9537-9a25345a0e88#ref=rss)
+### honda
+
+* [https://www.spiegel.de/wirtschaft/nissan-und-honda-sprechen-ueber-fusion](https://www.spiegel.de/wirtschaft/nissan-und-honda-sprechen-ueber-fusion-a-b2f93936-7ab7-4fd1-9537-9a25345a0e88#ref=rss)
+### sachsen
+
+* [https://www.spiegel.de/politik/deutschland/sachsen-gruene-monieren-fehlende-nein-stimmen-bei-wahl-zum-saechsischen-ministerpraesidenten](https://www.spiegel.de/politik/deutschland/sachsen-gruene-monieren-fehlende-nein-stimmen-bei-wahl-zum-saechsischen-ministerpraesidenten-a-ff359f52-ca34-4ee3-b00c-19ed77a584af#ref=rss)
+* [https://www.spiegel.de/politik/matthias-berger-gegen-michael-kretschmer-landtag-in-sachsen-waehlt-neuen-ministerpraesidenten](https://www.spiegel.de/politik/matthias-berger-gegen-michael-kretschmer-landtag-in-sachsen-waehlt-neuen-ministerpraesidenten-a-4b7545b5-b63e-4249-8fee-a8698f2493b2#ref=rss)
+### ministerpräsident
+
+* [https://www.spiegel.de/politik/deutschland/sachsen-gruene-monieren-fehlende-nein-stimmen-bei-wahl-zum-saechsischen-ministerpraesidenten](https://www.spiegel.de/politik/deutschland/sachsen-gruene-monieren-fehlende-nein-stimmen-bei-wahl-zum-saechsischen-ministerpraesidenten-a-ff359f52-ca34-4ee3-b00c-19ed77a584af#ref=rss)
+### ministerpräsidenten
+
+* [https://www.spiegel.de/politik/matthias-berger-gegen-michael-kretschmer-landtag-in-sachsen-waehlt-neuen-ministerpraesidenten](https://www.spiegel.de/politik/matthias-berger-gegen-michael-kretschmer-landtag-in-sachsen-waehlt-neuen-ministerpraesidenten-a-4b7545b5-b63e-4249-8fee-a8698f2493b2#ref=rss)
+### mehrheit
+
+* [https://www.spiegel.de/politik/matthias-berger-gegen-michael-kretschmer-landtag-in-sachsen-waehlt-neuen-ministerpraesidenten](https://www.spiegel.de/politik/matthias-berger-gegen-michael-kretschmer-landtag-in-sachsen-waehlt-neuen-ministerpraesidenten-a-4b7545b5-b63e-4249-8fee-a8698f2493b2#ref=rss)
+### slowakei
+
+* [https://www.spiegel.de/politik/deutschland/kampfgeraet-fuer-die-ukraine-deutschland-raeumt-militaerwerkstatt-in-der-slowakei](https://www.spiegel.de/politik/deutschland/kampfgeraet-fuer-die-ukraine-deutschland-raeumt-militaerwerkstatt-in-der-slowakei-a-c00063c7-a739-4c4b-bf2b-d3ec3ae27af2#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/wissenschaft/energie-importe-warum-stromimporte-kein-beweis-fuer-das-versagen-der-deutschen-energiewende-sind](https://www.spiegel.de/wissenschaft/energie-importe-warum-stromimporte-kein-beweis-fuer-das-versagen-der-deutschen-energiewende-sind-a-71cfb4ba-bd2d-414f-bb95-5254aa00673d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/iw-koeln-studie-80-000-syrer-arbeiten-dort-wo-arbeitskraefte-fehlen](https://www.spiegel.de/wirtschaft/iw-koeln-studie-80-000-syrer-arbeiten-dort-wo-arbeitskraefte-fehlen-a-27001032-2c37-4639-928f-18f2c351bfa6#ref=rss)
+### energiewende
+
+* [https://www.spiegel.de/wissenschaft/energie-importe-warum-stromimporte-kein-beweis-fuer-das-versagen-der-deutschen-energiewende-sind](https://www.spiegel.de/wissenschaft/energie-importe-warum-stromimporte-kein-beweis-fuer-das-versagen-der-deutschen-energiewende-sind-a-71cfb4ba-bd2d-414f-bb95-5254aa00673d#ref=rss)
+### angeblich
+
+* [https://www.spiegel.de/wissenschaft/energie-importe-warum-stromimporte-kein-beweis-fuer-das-versagen-der-deutschen-energiewende-sind](https://www.spiegel.de/wissenschaft/energie-importe-warum-stromimporte-kein-beweis-fuer-das-versagen-der-deutschen-energiewende-sind-a-71cfb4ba-bd2d-414f-bb95-5254aa00673d#ref=rss)
+* [https://www.spiegel.de/ausland/russland-meldet-festnahme-nach-toedlichem-anschlag-auf-general](https://www.spiegel.de/ausland/russland-meldet-festnahme-nach-toedlichem-anschlag-auf-general-a-3e2f3a3f-aed7-4258-90d8-1b0f2b696ab8#ref=rss)
 ### russland
 
-* [https://www.spiegel.de/ausland/russland-getoeteter-general-igor-kirillow-ein-dashcam-video-zeigt-den-moment-des-anschlags](https://www.spiegel.de/ausland/russland-getoeteter-general-igor-kirillow-ein-dashcam-video-zeigt-den-moment-des-anschlags-a-13be549b-a45c-4028-8080-71ed443366b8#ref=rss)
-* [https://www.spiegel.de/ausland/russland-warum-kiews-geheimdienst-generalleutnant-igor-kirillow-toetete](https://www.spiegel.de/ausland/russland-warum-kiews-geheimdienst-generalleutnant-igor-kirillow-toetete-a-de8786cd-a139-453c-9272-75c33d44195b#ref=rss)
-### dashcamvideo
+* [https://www.spiegel.de/ausland/russland-meldet-festnahme-nach-toedlichem-anschlag-auf-general](https://www.spiegel.de/ausland/russland-meldet-festnahme-nach-toedlichem-anschlag-auf-general-a-3e2f3a3f-aed7-4258-90d8-1b0f2b696ab8#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukrainischer-gefluechteter-in-deutschland-soll-fuer-kreml-sabotiert-haben](https://www.spiegel.de/ausland/russland-ukrainischer-gefluechteter-in-deutschland-soll-fuer-kreml-sabotiert-haben-a-5ee12ad2-ea0c-4a88-9efb-bf95d192de88#ref=rss)
+### wo
 
-* [https://www.spiegel.de/ausland/russland-getoeteter-general-igor-kirillow-ein-dashcam-video-zeigt-den-moment-des-anschlags](https://www.spiegel.de/ausland/russland-getoeteter-general-igor-kirillow-ein-dashcam-video-zeigt-den-moment-des-anschlags-a-13be549b-a45c-4028-8080-71ed443366b8#ref=rss)
-### moment
+* [https://www.spiegel.de/wirtschaft/iw-koeln-studie-80-000-syrer-arbeiten-dort-wo-arbeitskraefte-fehlen](https://www.spiegel.de/wirtschaft/iw-koeln-studie-80-000-syrer-arbeiten-dort-wo-arbeitskraefte-fehlen-a-27001032-2c37-4639-928f-18f2c351bfa6#ref=rss)
+### besonders
 
-* [https://www.spiegel.de/ausland/russland-getoeteter-general-igor-kirillow-ein-dashcam-video-zeigt-den-moment-des-anschlags](https://www.spiegel.de/ausland/russland-getoeteter-general-igor-kirillow-ein-dashcam-video-zeigt-den-moment-des-anschlags-a-13be549b-a45c-4028-8080-71ed443366b8#ref=rss)
-### anschlags
+* [https://www.spiegel.de/wirtschaft/iw-koeln-studie-80-000-syrer-arbeiten-dort-wo-arbeitskraefte-fehlen](https://www.spiegel.de/wirtschaft/iw-koeln-studie-80-000-syrer-arbeiten-dort-wo-arbeitskraefte-fehlen-a-27001032-2c37-4639-928f-18f2c351bfa6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/schufa-bonitaetsmakel-schneller-tilgen-was-das-fuer-kreditnehmer-bedeutet](https://www.spiegel.de/wirtschaft/schufa-bonitaetsmakel-schneller-tilgen-was-das-fuer-kreditnehmer-bedeutet-a-8905b2ac-7cee-4e78-adb6-01bf6bd81a89#ref=rss)
+### kohle
 
-* [https://www.spiegel.de/ausland/russland-getoeteter-general-igor-kirillow-ein-dashcam-video-zeigt-den-moment-des-anschlags](https://www.spiegel.de/ausland/russland-getoeteter-general-igor-kirillow-ein-dashcam-video-zeigt-den-moment-des-anschlags-a-13be549b-a45c-4028-8080-71ed443366b8#ref=rss)
-### ukrainische
+* [https://www.spiegel.de/wirtschaft/klimakrise-energieagentur-prognostiziert-rekordnachfrage-nach-kohle](https://www.spiegel.de/wirtschaft/klimakrise-energieagentur-prognostiziert-rekordnachfrage-nach-kohle-a-07e398de-ab42-42f0-b704-5828257f8162#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/ausland/russland-getoeteter-general-igor-kirillow-ein-dashcam-video-zeigt-den-moment-des-anschlags](https://www.spiegel.de/ausland/russland-getoeteter-general-igor-kirillow-ein-dashcam-video-zeigt-den-moment-des-anschlags-a-13be549b-a45c-4028-8080-71ed443366b8#ref=rss)
-* [https://www.spiegel.de/ausland/russland-warum-kiews-geheimdienst-generalleutnant-igor-kirillow-toetete](https://www.spiegel.de/ausland/russland-warum-kiews-geheimdienst-generalleutnant-igor-kirillow-toetete-a-de8786cd-a139-453c-9272-75c33d44195b#ref=rss)
-### generalleutnant
+* [https://www.spiegel.de/wirtschaft/klimakrise-energieagentur-prognostiziert-rekordnachfrage-nach-kohle](https://www.spiegel.de/wirtschaft/klimakrise-energieagentur-prognostiziert-rekordnachfrage-nach-kohle-a-07e398de-ab42-42f0-b704-5828257f8162#ref=rss)
+* [https://www.spiegel.de/netzwelt/streaming-datentransfer-per-mobilfunk-erreicht-rekordwert](https://www.spiegel.de/netzwelt/streaming-datentransfer-per-mobilfunk-erreicht-rekordwert-a-e56c6e06-f57e-4cb0-a2a3-1c1f493011d4#ref=rss)
+### wende
 
-* [https://www.spiegel.de/ausland/russland-warum-kiews-geheimdienst-generalleutnant-igor-kirillow-toetete](https://www.spiegel.de/ausland/russland-warum-kiews-geheimdienst-generalleutnant-igor-kirillow-toetete-a-de8786cd-a139-453c-9272-75c33d44195b#ref=rss)
-### tod
+* [https://www.spiegel.de/wirtschaft/klimakrise-energieagentur-prognostiziert-rekordnachfrage-nach-kohle](https://www.spiegel.de/wirtschaft/klimakrise-energieagentur-prognostiziert-rekordnachfrage-nach-kohle-a-07e398de-ab42-42f0-b704-5828257f8162#ref=rss)
+* [https://www.spiegel.de/wirtschaft/kaum-noch-leerstand-diw-studie-belegt-kraeftigen-mietanstieg-in-2024](https://www.spiegel.de/wirtschaft/kaum-noch-leerstand-diw-studie-belegt-kraeftigen-mietanstieg-in-2024-a-1085f2fb-e8f1-4449-9e1e-37ac1ee209cf#ref=rss)
+### dartswm
 
-* [https://www.spiegel.de/ausland/russland-warum-kiews-geheimdienst-generalleutnant-igor-kirillow-toetete](https://www.spiegel.de/ausland/russland-warum-kiews-geheimdienst-generalleutnant-igor-kirillow-toetete-a-de8786cd-a139-453c-9272-75c33d44195b#ref=rss)
-* [https://www.spiegel.de/kultur/nicole-kidman-warnt-vor-verpassten-chancen](https://www.spiegel.de/kultur/nicole-kidman-warnt-vor-verpassten-chancen-a-48b8b27d-d67c-4d7a-b80e-34726cabbc30#ref=rss)
-### fußball
+* [https://www.spiegel.de/sport/darts-wm-trans-spielerin-noa-lynn-van-leuven-wird-freundlich-empfangen-aber-verliert](https://www.spiegel.de/sport/darts-wm-trans-spielerin-noa-lynn-van-leuven-wird-freundlich-empfangen-aber-verliert-a-6644f773-7b50-42e2-81fc-52d07e93f010#ref=rss)
+### trans
 
-* [https://www.spiegel.de/sport/fussball/fussball-in-brasilien-ronaldo-will-verbandspraesident-werden](https://www.spiegel.de/sport/fussball/fussball-in-brasilien-ronaldo-will-verbandspraesident-werden-a-e2340d25-6142-4184-bd05-f31be09a7f56#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-super-league-heisst-jetzt-unify-league](https://www.spiegel.de/sport/fussball/fussball-super-league-heisst-jetzt-unify-league-a-bc3be3c1-2738-4b5c-a9c8-f6d1efa02f2c#ref=rss)
-### ronaldo
+* [https://www.spiegel.de/sport/darts-wm-trans-spielerin-noa-lynn-van-leuven-wird-freundlich-empfangen-aber-verliert](https://www.spiegel.de/sport/darts-wm-trans-spielerin-noa-lynn-van-leuven-wird-freundlich-empfangen-aber-verliert-a-6644f773-7b50-42e2-81fc-52d07e93f010#ref=rss)
+### noalynn
 
-* [https://www.spiegel.de/sport/fussball/fussball-in-brasilien-ronaldo-will-verbandspraesident-werden](https://www.spiegel.de/sport/fussball/fussball-in-brasilien-ronaldo-will-verbandspraesident-werden-a-e2340d25-6142-4184-bd05-f31be09a7f56#ref=rss)
-### frühere
+* [https://www.spiegel.de/sport/darts-wm-trans-spielerin-noa-lynn-van-leuven-wird-freundlich-empfangen-aber-verliert](https://www.spiegel.de/sport/darts-wm-trans-spielerin-noa-lynn-van-leuven-wird-freundlich-empfangen-aber-verliert-a-6644f773-7b50-42e2-81fc-52d07e93f010#ref=rss)
+### van
 
-* [https://www.spiegel.de/sport/fussball/fussball-in-brasilien-ronaldo-will-verbandspraesident-werden](https://www.spiegel.de/sport/fussball/fussball-in-brasilien-ronaldo-will-verbandspraesident-werden-a-e2340d25-6142-4184-bd05-f31be09a7f56#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/michael-schumacher-staatsanwaltschaft-ermittelt-gegen-fruehere-krankenschwester-des-rennfahrers](https://www.spiegel.de/panorama/justiz/michael-schumacher-staatsanwaltschaft-ermittelt-gegen-fruehere-krankenschwester-des-rennfahrers-a-d6962898-9d30-4fa7-8c77-20607a2a7e70#ref=rss)
-### staatsanwaltschaft
+* [https://www.spiegel.de/sport/darts-wm-trans-spielerin-noa-lynn-van-leuven-wird-freundlich-empfangen-aber-verliert](https://www.spiegel.de/sport/darts-wm-trans-spielerin-noa-lynn-van-leuven-wird-freundlich-empfangen-aber-verliert-a-6644f773-7b50-42e2-81fc-52d07e93f010#ref=rss)
+### leuven
 
-* [https://www.spiegel.de/politik/deutschland/potsdam-staatsanwaltschaft-stellt-ermittlungen-gegen-ob-mike-schubert-ein](https://www.spiegel.de/politik/deutschland/potsdam-staatsanwaltschaft-stellt-ermittlungen-gegen-ob-mike-schubert-ein-a-0165109a-b865-4539-ac1d-80c7fd1d024a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/michael-schumacher-staatsanwaltschaft-ermittelt-gegen-fruehere-krankenschwester-des-rennfahrers](https://www.spiegel.de/panorama/justiz/michael-schumacher-staatsanwaltschaft-ermittelt-gegen-fruehere-krankenschwester-des-rennfahrers-a-d6962898-9d30-4fa7-8c77-20607a2a7e70#ref=rss)
-### ermittlungen
+* [https://www.spiegel.de/sport/darts-wm-trans-spielerin-noa-lynn-van-leuven-wird-freundlich-empfangen-aber-verliert](https://www.spiegel.de/sport/darts-wm-trans-spielerin-noa-lynn-van-leuven-wird-freundlich-empfangen-aber-verliert-a-6644f773-7b50-42e2-81fc-52d07e93f010#ref=rss)
+### carsten
 
-* [https://www.spiegel.de/politik/deutschland/potsdam-staatsanwaltschaft-stellt-ermittlungen-gegen-ob-mike-schubert-ein](https://www.spiegel.de/politik/deutschland/potsdam-staatsanwaltschaft-stellt-ermittlungen-gegen-ob-mike-schubert-ein-a-0165109a-b865-4539-ac1d-80c7fd1d024a#ref=rss)
-### mike
+* [https://www.spiegel.de/kultur/kultur-in-hamburg-carsten-brosda-so-engen-wir-die-kunst-ein-und-berauben-sie-ihrer-kraft](https://www.spiegel.de/kultur/kultur-in-hamburg-carsten-brosda-so-engen-wir-die-kunst-ein-und-berauben-sie-ihrer-kraft-a-3f00e19d-cbd6-4155-918c-7140b2c37903#ref=rss)
+### brosda
 
-* [https://www.spiegel.de/politik/deutschland/potsdam-staatsanwaltschaft-stellt-ermittlungen-gegen-ob-mike-schubert-ein](https://www.spiegel.de/politik/deutschland/potsdam-staatsanwaltschaft-stellt-ermittlungen-gegen-ob-mike-schubert-ein-a-0165109a-b865-4539-ac1d-80c7fd1d024a#ref=rss)
-### schubert
+* [https://www.spiegel.de/kultur/kultur-in-hamburg-carsten-brosda-so-engen-wir-die-kunst-ein-und-berauben-sie-ihrer-kraft](https://www.spiegel.de/kultur/kultur-in-hamburg-carsten-brosda-so-engen-wir-die-kunst-ein-und-berauben-sie-ihrer-kraft-a-3f00e19d-cbd6-4155-918c-7140b2c37903#ref=rss)
+### kreml
 
-* [https://www.spiegel.de/politik/deutschland/potsdam-staatsanwaltschaft-stellt-ermittlungen-gegen-ob-mike-schubert-ein](https://www.spiegel.de/politik/deutschland/potsdam-staatsanwaltschaft-stellt-ermittlungen-gegen-ob-mike-schubert-ein-a-0165109a-b865-4539-ac1d-80c7fd1d024a#ref=rss)
-### tag
+* [https://www.spiegel.de/ausland/russland-ukrainischer-gefluechteter-in-deutschland-soll-fuer-kreml-sabotiert-haben](https://www.spiegel.de/ausland/russland-ukrainischer-gefluechteter-in-deutschland-soll-fuer-kreml-sabotiert-haben-a-5ee12ad2-ea0c-4a88-9efb-bf95d192de88#ref=rss)
+### fdp
 
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### nicole
+* [https://www.spiegel.de/wirtschaft/soziales/fdp-und-steuern-die-teuren-wahlversprechen-der-liberalen](https://www.spiegel.de/wirtschaft/soziales/fdp-und-steuern-die-teuren-wahlversprechen-der-liberalen-a-e3c153fd-a266-4161-8c1f-2a2d9ebea40b#ref=rss)
+### schufa
 
-* [https://www.spiegel.de/kultur/nicole-kidman-warnt-vor-verpassten-chancen](https://www.spiegel.de/kultur/nicole-kidman-warnt-vor-verpassten-chancen-a-48b8b27d-d67c-4d7a-b80e-34726cabbc30#ref=rss)
-### kidman
+* [https://www.spiegel.de/wirtschaft/schufa-bonitaetsmakel-schneller-tilgen-was-das-fuer-kreditnehmer-bedeutet](https://www.spiegel.de/wirtschaft/schufa-bonitaetsmakel-schneller-tilgen-was-das-fuer-kreditnehmer-bedeutet-a-8905b2ac-7cee-4e78-adb6-01bf6bd81a89#ref=rss)
+### bonitätsmakel
 
-* [https://www.spiegel.de/kultur/nicole-kidman-warnt-vor-verpassten-chancen](https://www.spiegel.de/kultur/nicole-kidman-warnt-vor-verpassten-chancen-a-48b8b27d-d67c-4d7a-b80e-34726cabbc30#ref=rss)
-### volks
+* [https://www.spiegel.de/wirtschaft/schufa-bonitaetsmakel-schneller-tilgen-was-das-fuer-kreditnehmer-bedeutet](https://www.spiegel.de/wirtschaft/schufa-bonitaetsmakel-schneller-tilgen-was-das-fuer-kreditnehmer-bedeutet-a-8905b2ac-7cee-4e78-adb6-01bf6bd81a89#ref=rss)
+### schneller
 
-* [https://www.spiegel.de/wirtschaft/volks-und-raiffeisenbanken-von-schmalkalden-bis-neuss-die-skandalnudeln-von-der-volksbank](https://www.spiegel.de/wirtschaft/volks-und-raiffeisenbanken-von-schmalkalden-bis-neuss-die-skandalnudeln-von-der-volksbank-a-aba9973c-ce1f-4cbf-9ffa-ba3c0607aa75#ref=rss)
-### raiffeisenbanken
-
-* [https://www.spiegel.de/wirtschaft/volks-und-raiffeisenbanken-von-schmalkalden-bis-neuss-die-skandalnudeln-von-der-volksbank](https://www.spiegel.de/wirtschaft/volks-und-raiffeisenbanken-von-schmalkalden-bis-neuss-die-skandalnudeln-von-der-volksbank-a-aba9973c-ce1f-4cbf-9ffa-ba3c0607aa75#ref=rss)
-### abschiebung
-
-* [https://www.spiegel.de/panorama/niedersachsen-hoffnung-fuer-von-abschiebung-bedrohte-pflegehelfer-aus-kolumbien](https://www.spiegel.de/panorama/niedersachsen-hoffnung-fuer-von-abschiebung-bedrohte-pflegehelfer-aus-kolumbien-a-d03783ec-31a3-4d1e-8a91-249feeb13c8b#ref=rss)
-### super
-
-* [https://www.spiegel.de/sport/fussball/fussball-super-league-heisst-jetzt-unify-league](https://www.spiegel.de/sport/fussball/fussball-super-league-heisst-jetzt-unify-league-a-bc3be3c1-2738-4b5c-a9c8-f6d1efa02f2c#ref=rss)
-### europäischen
-
-* [https://www.spiegel.de/sport/fussball/fussball-super-league-heisst-jetzt-unify-league](https://www.spiegel.de/sport/fussball/fussball-super-league-heisst-jetzt-unify-league-a-bc3be3c1-2738-4b5c-a9c8-f6d1efa02f2c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/schufa-bonitaetsmakel-schneller-tilgen-was-das-fuer-kreditnehmer-bedeutet](https://www.spiegel.de/wirtschaft/schufa-bonitaetsmakel-schneller-tilgen-was-das-fuer-kreditnehmer-bedeutet-a-8905b2ac-7cee-4e78-adb6-01bf6bd81a89#ref=rss)
 
