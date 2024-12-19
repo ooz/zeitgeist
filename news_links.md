@@ -4,305 +4,359 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### deutschland
-
-* [https://www.spiegel.de/karriere/gewalt-im-einsatz-berufsfeuerwehrleute-klagen-ueber-zunehmende-angriffe](https://www.spiegel.de/karriere/gewalt-im-einsatz-berufsfeuerwehrleute-klagen-ueber-zunehmende-angriffe-a-6877e9a0-1648-4f91-91d3-bee0af9db4fd#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/eu-vergleich-junge-deutsche-gehoeren-zu-europas-bildungsmuffeln](https://www.spiegel.de/panorama/bildung/eu-vergleich-junge-deutsche-gehoeren-zu-europas-bildungsmuffeln-a-1ec5671e-c66e-4a4d-b221-52dfc81a085b#ref=rss)
-* [https://www.spiegel.de/ausland/russland-wladimir-putins-jaehrliche-pressekonferenz](https://www.spiegel.de/ausland/russland-wladimir-putins-jaehrliche-pressekonferenz-a-e07ab553-71b3-4fa3-a02a-60a76c5fb4a1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahlkampf-die-ignoranz-der-parteien-gegenueber-den-grossen-problemen-deutschlands](https://www.spiegel.de/politik/deutschland/bundestagswahlkampf-die-ignoranz-der-parteien-gegenueber-den-grossen-problemen-deutschlands-a-5dc32dcd-e645-40b9-9ce5-401629462878#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-wo-deutschland-trotz-misere-sogar-vorbild-fuer-andere-laender-ist](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-wo-deutschland-trotz-misere-sogar-vorbild-fuer-andere-laender-ist-a-73c9bf2b-5886-4eb3-ae2a-0e06fe3ba5b6#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/familie/anschlag-auf-dem-breitscheidplatz-in-berlin-jaehrlich-gruesst-das-weihnachtsmonster](https://www.spiegel.de/familie/anschlag-auf-dem-breitscheidplatz-in-berlin-jaehrlich-gruesst-das-weihnachtsmonster-a-4ef9ee43-cd9b-4eb6-92d3-b1f2cfa47ff5#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/eu-vergleich-junge-deutsche-gehoeren-zu-europas-bildungsmuffeln](https://www.spiegel.de/panorama/bildung/eu-vergleich-junge-deutsche-gehoeren-zu-europas-bildungsmuffeln-a-1ec5671e-c66e-4a4d-b221-52dfc81a085b#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/chatgpt-neue-funktion-ermoeglicht-telefongespraeche](https://www.spiegel.de/netzwelt/apps/chatgpt-neue-funktion-ermoeglicht-telefongespraeche-a-c08442a1-d459-445c-af43-3ceef65c5f11#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-wo-deutschland-trotz-misere-sogar-vorbild-fuer-andere-laender-ist](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-wo-deutschland-trotz-misere-sogar-vorbild-fuer-andere-laender-ist-a-73c9bf2b-5886-4eb3-ae2a-0e06fe3ba5b6#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-vor-vertragsverlaengerung-die-aera-des-torwarts-geht-weiter](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-vor-vertragsverlaengerung-die-aera-des-torwarts-geht-weiter-a-d0b493b2-3716-4b6c-a271-311ed6d52cf3#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-der-frauen-fc-bayern-muenchen-verliert-spaet-gegen-den-fc-arsenal-und-verpasst-gruppensieg](https://www.spiegel.de/sport/fussball/champions-league-der-frauen-fc-bayern-muenchen-verliert-spaet-gegen-den-fc-arsenal-und-verpasst-gruppensieg-a-64671610-dc54-40a3-9040-d9ed7d9ae8c1#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/politik/deutschland/robert-habeck-plaediert-fuer-tv-duell-mit-mehreren-kandidierenden](https://www.spiegel.de/politik/deutschland/robert-habeck-plaediert-fuer-tv-duell-mit-mehreren-kandidierenden-a-fbcc0194-2d60-447d-9383-cbc28e14c3e7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/arbeitskraeftemangel-gruene-wollen-millionen-mehr-frauen-in-vollzeit](https://www.spiegel.de/politik/deutschland/arbeitskraeftemangel-gruene-wollen-millionen-mehr-frauen-in-vollzeit-a-fe3c63a4-1edf-4c1a-ae11-49cf22d4cbe8#ref=rss)
-### welt
-
-* [https://www.spiegel.de/panorama/dubai-schokolade-untersuchung-in-baden-wuerttemberg-enthuellt-erhebliche-maengel](https://www.spiegel.de/panorama/dubai-schokolade-untersuchung-in-baden-wuerttemberg-enthuellt-erhebliche-maengel-a-ecefec9d-30f8-4e55-9e90-299e9abe11e2#ref=rss)
-* [https://www.spiegel.de/ausland/russland-wladimir-putins-jaehrliche-pressekonferenz](https://www.spiegel.de/ausland/russland-wladimir-putins-jaehrliche-pressekonferenz-a-e07ab553-71b3-4fa3-a02a-60a76c5fb4a1#ref=rss)
-* [https://www.spiegel.de/ausland/urteil-im-prozess-um-gisele-pelicot-gericht-spricht-ehemann-in-allen-anklagepunkten-schuldig](https://www.spiegel.de/ausland/urteil-im-prozess-um-gisele-pelicot-gericht-spricht-ehemann-in-allen-anklagepunkten-schuldig-a-4b8c03e3-7fd8-4661-a068-e84808408b06#ref=rss)
-### neue
-
-* [https://www.spiegel.de/wirtschaft/lufthansa-neue-sitze-verzoegern-auslieferung-von-13-fabrikneuen-jets](https://www.spiegel.de/wirtschaft/lufthansa-neue-sitze-verzoegern-auslieferung-von-13-fabrikneuen-jets-a-8a026714-1b96-4132-8972-afd2e8b65217#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/neues-eu-satellitensystem-iris-die-richtung-stimmt](https://www.spiegel.de/wissenschaft/weltall/neues-eu-satellitensystem-iris-die-richtung-stimmt-a-b94528b8-bd2b-4f7d-abaf-7646133333c0#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/chatgpt-neue-funktion-ermoeglicht-telefongespraeche](https://www.spiegel.de/netzwelt/apps/chatgpt-neue-funktion-ermoeglicht-telefongespraeche-a-c08442a1-d459-445c-af43-3ceef65c5f11#ref=rss)
-### syrien
-
-* [https://www.spiegel.de/geschichte/syrien-nach-assads-sturz-werden-die-kurden-wieder-im-stich-gelassen](https://www.spiegel.de/geschichte/syrien-nach-assads-sturz-werden-die-kurden-wieder-im-stich-gelassen-a-1de1b3c4-8e35-4043-9f22-ec88aa3b92c8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-bestaetigt-heimkehr-zahlungen-fuer-syrische-gefluechtete](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-bestaetigt-heimkehr-zahlungen-fuer-syrische-gefluechtete-a-b20d5232-f9eb-45c7-8470-883e8bf37244#ref=rss)
-### ende
-
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-bestaetigt-heimkehr-zahlungen-fuer-syrische-gefluechtete](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-bestaetigt-heimkehr-zahlungen-fuer-syrische-gefluechtete-a-b20d5232-f9eb-45c7-8470-883e8bf37244#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/eu-vergleich-junge-deutsche-gehoeren-zu-europas-bildungsmuffeln](https://www.spiegel.de/panorama/bildung/eu-vergleich-junge-deutsche-gehoeren-zu-europas-bildungsmuffeln-a-1ec5671e-c66e-4a4d-b221-52dfc81a085b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-der-frauen-fc-bayern-muenchen-verliert-spaet-gegen-den-fc-arsenal-und-verpasst-gruppensieg](https://www.spiegel.de/sport/fussball/champions-league-der-frauen-fc-bayern-muenchen-verliert-spaet-gegen-den-fc-arsenal-und-verpasst-gruppensieg-a-64671610-dc54-40a3-9040-d9ed7d9ae8c1#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/wissenschaft/weltall/der-mond-ist-aelter-als-gedacht](https://www.spiegel.de/wissenschaft/weltall/der-mond-ist-aelter-als-gedacht-a-e4338e36-b297-4adf-b313-4a0c668af68a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/arbeitskraeftemangel-gruene-wollen-millionen-mehr-frauen-in-vollzeit](https://www.spiegel.de/politik/deutschland/arbeitskraeftemangel-gruene-wollen-millionen-mehr-frauen-in-vollzeit-a-fe3c63a4-1edf-4c1a-ae11-49cf22d4cbe8#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/wissenschaft/weltall/der-mond-ist-aelter-als-gedacht](https://www.spiegel.de/wissenschaft/weltall/der-mond-ist-aelter-als-gedacht-a-e4338e36-b297-4adf-b313-4a0c668af68a#ref=rss)
-* [https://www.spiegel.de/kultur/tv/ttt-titel-thesen-temperamente-thilo-mischke-wird-moderator-folgt-auf-max-moor](https://www.spiegel.de/kultur/tv/ttt-titel-thesen-temperamente-thilo-mischke-wird-moderator-folgt-auf-max-moor-a-ba7ca4dc-5a15-40bf-97d1-b0013d576bf3#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-vor-vertragsverlaengerung-die-aera-des-torwarts-geht-weiter](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-vor-vertragsverlaengerung-die-aera-des-torwarts-geht-weiter-a-d0b493b2-3716-4b6c-a271-311ed6d52cf3#ref=rss)
-### freud
-
-* [https://www.spiegel.de/kultur/freud-jenseits-des-glaubens-mit-anthony-hopkins-als-sigmund-freud-todkrank-aber-streitlustig](https://www.spiegel.de/kultur/freud-jenseits-des-glaubens-mit-anthony-hopkins-als-sigmund-freud-todkrank-aber-streitlustig-a-443ce761-eb42-4c9e-8f2f-64b66554b638#ref=rss)
-### max
-
-* [https://www.spiegel.de/kultur/tv/ttt-titel-thesen-temperamente-thilo-mischke-wird-moderator-folgt-auf-max-moor](https://www.spiegel.de/kultur/tv/ttt-titel-thesen-temperamente-thilo-mischke-wird-moderator-folgt-auf-max-moor-a-ba7ca4dc-5a15-40bf-97d1-b0013d576bf3#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-vor-vertragsverlaengerung-die-aera-des-torwarts-geht-weiter](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-vor-vertragsverlaengerung-die-aera-des-torwarts-geht-weiter-a-d0b493b2-3716-4b6c-a271-311ed6d52cf3#ref=rss)
-### münchen
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-vor-vertragsverlaengerung-die-aera-des-torwarts-geht-weiter](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-vor-vertragsverlaengerung-die-aera-des-torwarts-geht-weiter-a-d0b493b2-3716-4b6c-a271-311ed6d52cf3#ref=rss)
-* [https://www.spiegel.de/sport/olympia/klaus-wolfermann-ist-tot-der-mann-mit-dem-goldenen-arm-nachruf](https://www.spiegel.de/sport/olympia/klaus-wolfermann-ist-tot-der-mann-mit-dem-goldenen-arm-nachruf-a-fc3abd79-9e25-4f29-a84b-388d3ec02f0a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-der-frauen-fc-bayern-muenchen-verliert-spaet-gegen-den-fc-arsenal-und-verpasst-gruppensieg](https://www.spiegel.de/sport/fussball/champions-league-der-frauen-fc-bayern-muenchen-verliert-spaet-gegen-den-fc-arsenal-und-verpasst-gruppensieg-a-64671610-dc54-40a3-9040-d9ed7d9ae8c1#ref=rss)
-### großen
-
-* [https://www.spiegel.de/ausland/die-fuenf-wichtigsten-spiegel-texte-zum-prozess-in-avignon-und-ein-podcast-spezial](https://www.spiegel.de/ausland/die-fuenf-wichtigsten-spiegel-texte-zum-prozess-in-avignon-und-ein-podcast-spezial-a-c2b3537e-ec88-419a-ba62-ce8df8203cae#ref=rss)
-* [https://www.spiegel.de/ausland/russland-wladimir-putins-jaehrliche-pressekonferenz](https://www.spiegel.de/ausland/russland-wladimir-putins-jaehrliche-pressekonferenz-a-e07ab553-71b3-4fa3-a02a-60a76c5fb4a1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahlkampf-die-ignoranz-der-parteien-gegenueber-den-grossen-problemen-deutschlands](https://www.spiegel.de/politik/deutschland/bundestagswahlkampf-die-ignoranz-der-parteien-gegenueber-den-grossen-problemen-deutschlands-a-5dc32dcd-e645-40b9-9ce5-401629462878#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/israel-militaer-bombardiert-haefen-der-huthi-miliz-im-jemen](https://www.spiegel.de/ausland/israel-militaer-bombardiert-haefen-der-huthi-miliz-im-jemen-a-b9aecf8c-a7c1-41e1-b1aa-d1c00c3ff52d#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/politik/deutschland/arbeitskraeftemangel-gruene-wollen-millionen-mehr-frauen-in-vollzeit](https://www.spiegel.de/politik/deutschland/arbeitskraeftemangel-gruene-wollen-millionen-mehr-frauen-in-vollzeit-a-fe3c63a4-1edf-4c1a-ae11-49cf22d4cbe8#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-der-frauen-fc-bayern-muenchen-verliert-spaet-gegen-den-fc-arsenal-und-verpasst-gruppensieg](https://www.spiegel.de/sport/fussball/champions-league-der-frauen-fc-bayern-muenchen-verliert-spaet-gegen-den-fc-arsenal-und-verpasst-gruppensieg-a-64671610-dc54-40a3-9040-d9ed7d9ae8c1#ref=rss)
-### badenwürttemberg
-
-* [https://www.spiegel.de/panorama/dubai-schokolade-untersuchung-in-baden-wuerttemberg-enthuellt-erhebliche-maengel](https://www.spiegel.de/panorama/dubai-schokolade-untersuchung-in-baden-wuerttemberg-enthuellt-erhebliche-maengel-a-ecefec9d-30f8-4e55-9e90-299e9abe11e2#ref=rss)
-### einige
-
-* [https://www.spiegel.de/panorama/dubai-schokolade-untersuchung-in-baden-wuerttemberg-enthuellt-erhebliche-maengel](https://www.spiegel.de/panorama/dubai-schokolade-untersuchung-in-baden-wuerttemberg-enthuellt-erhebliche-maengel-a-ecefec9d-30f8-4e55-9e90-299e9abe11e2#ref=rss)
-* [https://www.spiegel.de/panorama/leute/billie-eilish-hatte-2024-eine-menge-guten-sex](https://www.spiegel.de/panorama/leute/billie-eilish-hatte-2024-eine-menge-guten-sex-a-3ec10989-c512-461f-bf6f-737678259825#ref=rss)
-### europas
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/windkraft-china-konkurrenz-bedroht-europas-windradbauer](https://www.spiegel.de/wirtschaft/unternehmen/windkraft-china-konkurrenz-bedroht-europas-windradbauer-a-19972eb0-bdd4-4072-b34c-2d6e06677f8d#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/eu-vergleich-junge-deutsche-gehoeren-zu-europas-bildungsmuffeln](https://www.spiegel.de/panorama/bildung/eu-vergleich-junge-deutsche-gehoeren-zu-europas-bildungsmuffeln-a-1ec5671e-c66e-4a4d-b221-52dfc81a085b#ref=rss)
-### chinesischer
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/windkraft-china-konkurrenz-bedroht-europas-windradbauer](https://www.spiegel.de/wirtschaft/unternehmen/windkraft-china-konkurrenz-bedroht-europas-windradbauer-a-19972eb0-bdd4-4072-b34c-2d6e06677f8d#ref=rss)
-* [https://www.spiegel.de/auto/elektroautos-china-setzt-auf-batterietausch-system-als-alternative-zu-ladesaeulen](https://www.spiegel.de/auto/elektroautos-china-setzt-auf-batterietausch-system-als-alternative-zu-ladesaeulen-a-79e681fc-d60d-4cf3-86dd-4df289030fef#ref=rss)
-### lufthansa
-
-* [https://www.spiegel.de/wirtschaft/lufthansa-neue-sitze-verzoegern-auslieferung-von-13-fabrikneuen-jets](https://www.spiegel.de/wirtschaft/lufthansa-neue-sitze-verzoegern-auslieferung-von-13-fabrikneuen-jets-a-8a026714-1b96-4132-8972-afd2e8b65217#ref=rss)
-### sitze
-
-* [https://www.spiegel.de/wirtschaft/lufthansa-neue-sitze-verzoegern-auslieferung-von-13-fabrikneuen-jets](https://www.spiegel.de/wirtschaft/lufthansa-neue-sitze-verzoegern-auslieferung-von-13-fabrikneuen-jets-a-8a026714-1b96-4132-8972-afd2e8b65217#ref=rss)
-### jets
-
-* [https://www.spiegel.de/wirtschaft/lufthansa-neue-sitze-verzoegern-auslieferung-von-13-fabrikneuen-jets](https://www.spiegel.de/wirtschaft/lufthansa-neue-sitze-verzoegern-auslieferung-von-13-fabrikneuen-jets-a-8a026714-1b96-4132-8972-afd2e8b65217#ref=rss)
-### sturz
-
-* [https://www.spiegel.de/geschichte/syrien-nach-assads-sturz-werden-die-kurden-wieder-im-stich-gelassen](https://www.spiegel.de/geschichte/syrien-nach-assads-sturz-werden-die-kurden-wieder-im-stich-gelassen-a-1de1b3c4-8e35-4043-9f22-ec88aa3b92c8#ref=rss)
-### kurden
-
-* [https://www.spiegel.de/geschichte/syrien-nach-assads-sturz-werden-die-kurden-wieder-im-stich-gelassen](https://www.spiegel.de/geschichte/syrien-nach-assads-sturz-werden-die-kurden-wieder-im-stich-gelassen-a-1de1b3c4-8e35-4043-9f22-ec88aa3b92c8#ref=rss)
-### sachsenanhalt
-
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-bestaetigt-heimkehr-zahlungen-fuer-syrische-gefluechtete](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-bestaetigt-heimkehr-zahlungen-fuer-syrische-gefluechtete-a-b20d5232-f9eb-45c7-8470-883e8bf37244#ref=rss)
-### erfolg
-
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-bestaetigt-heimkehr-zahlungen-fuer-syrische-gefluechtete](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-bestaetigt-heimkehr-zahlungen-fuer-syrische-gefluechtete-a-b20d5232-f9eb-45c7-8470-883e8bf37244#ref=rss)
-* [https://www.spiegel.de/karriere/gewalt-im-einsatz-berufsfeuerwehrleute-klagen-ueber-zunehmende-angriffe](https://www.spiegel.de/karriere/gewalt-im-einsatz-berufsfeuerwehrleute-klagen-ueber-zunehmende-angriffe-a-6877e9a0-1648-4f91-91d3-bee0af9db4fd#ref=rss)
-### elektroautos
-
-* [https://www.spiegel.de/auto/elektroautos-china-setzt-auf-batterietausch-system-als-alternative-zu-ladesaeulen](https://www.spiegel.de/auto/elektroautos-china-setzt-auf-batterietausch-system-als-alternative-zu-ladesaeulen-a-79e681fc-d60d-4cf3-86dd-4df289030fef#ref=rss)
-### bald
-
-* [https://www.spiegel.de/auto/elektroautos-china-setzt-auf-batterietausch-system-als-alternative-zu-ladesaeulen](https://www.spiegel.de/auto/elektroautos-china-setzt-auf-batterietausch-system-als-alternative-zu-ladesaeulen-a-79e681fc-d60d-4cf3-86dd-4df289030fef#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-vor-vertragsverlaengerung-die-aera-des-torwarts-geht-weiter](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-vor-vertragsverlaengerung-die-aera-des-torwarts-geht-weiter-a-d0b493b2-3716-4b6c-a271-311ed6d52cf3#ref=rss)
-### angekündigt
-
-* [https://www.spiegel.de/auto/elektroautos-china-setzt-auf-batterietausch-system-als-alternative-zu-ladesaeulen](https://www.spiegel.de/auto/elektroautos-china-setzt-auf-batterietausch-system-als-alternative-zu-ladesaeulen-a-79e681fc-d60d-4cf3-86dd-4df289030fef#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-vor-vertragsverlaengerung-die-aera-des-torwarts-geht-weiter](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-vor-vertragsverlaengerung-die-aera-des-torwarts-geht-weiter-a-d0b493b2-3716-4b6c-a271-311ed6d52cf3#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/auto/elektroautos-china-setzt-auf-batterietausch-system-als-alternative-zu-ladesaeulen](https://www.spiegel.de/auto/elektroautos-china-setzt-auf-batterietausch-system-als-alternative-zu-ladesaeulen-a-79e681fc-d60d-4cf3-86dd-4df289030fef#ref=rss)
-* [https://www.spiegel.de/panorama/leute/billie-eilish-hatte-2024-eine-menge-guten-sex](https://www.spiegel.de/panorama/leute/billie-eilish-hatte-2024-eine-menge-guten-sex-a-3ec10989-c512-461f-bf6f-737678259825#ref=rss)
-### experten
-
-* [https://www.spiegel.de/wissenschaft/weltall/der-mond-ist-aelter-als-gedacht](https://www.spiegel.de/wissenschaft/weltall/der-mond-ist-aelter-als-gedacht-a-e4338e36-b297-4adf-b313-4a0c668af68a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/verbraucherstimmung-hellt-sich-etwas-auf](https://www.spiegel.de/wirtschaft/verbraucherstimmung-hellt-sich-etwas-auf-a-a3968dde-ea0a-4dc7-8780-42eaaf442533#ref=rss)
-### anthony
-
-* [https://www.spiegel.de/kultur/freud-jenseits-des-glaubens-mit-anthony-hopkins-als-sigmund-freud-todkrank-aber-streitlustig](https://www.spiegel.de/kultur/freud-jenseits-des-glaubens-mit-anthony-hopkins-als-sigmund-freud-todkrank-aber-streitlustig-a-443ce761-eb42-4c9e-8f2f-64b66554b638#ref=rss)
-### hopkins
-
-* [https://www.spiegel.de/kultur/freud-jenseits-des-glaubens-mit-anthony-hopkins-als-sigmund-freud-todkrank-aber-streitlustig](https://www.spiegel.de/kultur/freud-jenseits-des-glaubens-mit-anthony-hopkins-als-sigmund-freud-todkrank-aber-streitlustig-a-443ce761-eb42-4c9e-8f2f-64b66554b638#ref=rss)
-### sigmund
-
-* [https://www.spiegel.de/kultur/freud-jenseits-des-glaubens-mit-anthony-hopkins-als-sigmund-freud-todkrank-aber-streitlustig](https://www.spiegel.de/kultur/freud-jenseits-des-glaubens-mit-anthony-hopkins-als-sigmund-freud-todkrank-aber-streitlustig-a-443ce761-eb42-4c9e-8f2f-64b66554b638#ref=rss)
-### ttt
-
-* [https://www.spiegel.de/kultur/tv/ttt-titel-thesen-temperamente-thilo-mischke-wird-moderator-folgt-auf-max-moor](https://www.spiegel.de/kultur/tv/ttt-titel-thesen-temperamente-thilo-mischke-wird-moderator-folgt-auf-max-moor-a-ba7ca4dc-5a15-40bf-97d1-b0013d576bf3#ref=rss)
-### thilo
-
-* [https://www.spiegel.de/kultur/tv/ttt-titel-thesen-temperamente-thilo-mischke-wird-moderator-folgt-auf-max-moor](https://www.spiegel.de/kultur/tv/ttt-titel-thesen-temperamente-thilo-mischke-wird-moderator-folgt-auf-max-moor-a-ba7ca4dc-5a15-40bf-97d1-b0013d576bf3#ref=rss)
-### mischke
-
-* [https://www.spiegel.de/kultur/tv/ttt-titel-thesen-temperamente-thilo-mischke-wird-moderator-folgt-auf-max-moor](https://www.spiegel.de/kultur/tv/ttt-titel-thesen-temperamente-thilo-mischke-wird-moderator-folgt-auf-max-moor-a-ba7ca4dc-5a15-40bf-97d1-b0013d576bf3#ref=rss)
-### moor
-
-* [https://www.spiegel.de/kultur/tv/ttt-titel-thesen-temperamente-thilo-mischke-wird-moderator-folgt-auf-max-moor](https://www.spiegel.de/kultur/tv/ttt-titel-thesen-temperamente-thilo-mischke-wird-moderator-folgt-auf-max-moor-a-ba7ca4dc-5a15-40bf-97d1-b0013d576bf3#ref=rss)
-### berufsfeuerwehrleute
-
-* [https://www.spiegel.de/karriere/gewalt-im-einsatz-berufsfeuerwehrleute-klagen-ueber-zunehmende-angriffe](https://www.spiegel.de/karriere/gewalt-im-einsatz-berufsfeuerwehrleute-klagen-ueber-zunehmende-angriffe-a-6877e9a0-1648-4f91-91d3-bee0af9db4fd#ref=rss)
-### aussicht
-
-* [https://www.spiegel.de/karriere/gewalt-im-einsatz-berufsfeuerwehrleute-klagen-ueber-zunehmende-angriffe](https://www.spiegel.de/karriere/gewalt-im-einsatz-berufsfeuerwehrleute-klagen-ueber-zunehmende-angriffe-a-6877e9a0-1648-4f91-91d3-bee0af9db4fd#ref=rss)
-* [https://www.spiegel.de/wirtschaft/aktienmaerkte-und-bitcoin-kurs-geben-deutlich-nach](https://www.spiegel.de/wirtschaft/aktienmaerkte-und-bitcoin-kurs-geben-deutlich-nach-a-dd4199d3-25e2-4b47-9150-8f6542cd9f27#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-vor-vertragsverlaengerung-die-aera-des-torwarts-geht-weiter](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-vor-vertragsverlaengerung-die-aera-des-torwarts-geht-weiter-a-d0b493b2-3716-4b6c-a271-311ed6d52cf3#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-der-frauen-fc-bayern-muenchen-verliert-spaet-gegen-den-fc-arsenal-und-verpasst-gruppensieg](https://www.spiegel.de/sport/fussball/champions-league-der-frauen-fc-bayern-muenchen-verliert-spaet-gegen-den-fc-arsenal-und-verpasst-gruppensieg-a-64671610-dc54-40a3-9040-d9ed7d9ae8c1#ref=rss)
-### manuel
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-vor-vertragsverlaengerung-die-aera-des-torwarts-geht-weiter](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-vor-vertragsverlaengerung-die-aera-des-torwarts-geht-weiter-a-d0b493b2-3716-4b6c-a271-311ed6d52cf3#ref=rss)
-### neuer
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-vor-vertragsverlaengerung-die-aera-des-torwarts-geht-weiter](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-vor-vertragsverlaengerung-die-aera-des-torwarts-geht-weiter-a-d0b493b2-3716-4b6c-a271-311ed6d52cf3#ref=rss)
-### torhüter
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-vor-vertragsverlaengerung-die-aera-des-torwarts-geht-weiter](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-vor-vertragsverlaengerung-die-aera-des-torwarts-geht-weiter-a-d0b493b2-3716-4b6c-a271-311ed6d52cf3#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-psg-keeper-gianluigi-donnarumma-von-gegenspieler-wilfried-singo-im-gesicht-getroffen](https://www.spiegel.de/sport/fussball/fussball-psg-keeper-gianluigi-donnarumma-von-gegenspieler-wilfried-singo-im-gesicht-getroffen-a-0e4bf6e1-c24c-482b-9fa9-89a946d170d1#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/justiz/kiel-ermittlungen-gegen-chinesen-wegen-spionageverdachts](https://www.spiegel.de/panorama/justiz/kiel-ermittlungen-gegen-chinesen-wegen-spionageverdachts-a-c907aad3-6ae0-4dd8-a153-84081f952a83#ref=rss)
-* [https://www.spiegel.de/sport/olympia/klaus-wolfermann-ist-tot-der-mann-mit-dem-goldenen-arm-nachruf](https://www.spiegel.de/sport/olympia/klaus-wolfermann-ist-tot-der-mann-mit-dem-goldenen-arm-nachruf-a-fc3abd79-9e25-4f29-a84b-388d3ec02f0a#ref=rss)
-### anschlag
-
-* [https://www.spiegel.de/familie/anschlag-auf-dem-breitscheidplatz-in-berlin-jaehrlich-gruesst-das-weihnachtsmonster](https://www.spiegel.de/familie/anschlag-auf-dem-breitscheidplatz-in-berlin-jaehrlich-gruesst-das-weihnachtsmonster-a-4ef9ee43-cd9b-4eb6-92d3-b1f2cfa47ff5#ref=rss)
-### breitscheidplatz
-
-* [https://www.spiegel.de/familie/anschlag-auf-dem-breitscheidplatz-in-berlin-jaehrlich-gruesst-das-weihnachtsmonster](https://www.spiegel.de/familie/anschlag-auf-dem-breitscheidplatz-in-berlin-jaehrlich-gruesst-das-weihnachtsmonster-a-4ef9ee43-cd9b-4eb6-92d3-b1f2cfa47ff5#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/familie/anschlag-auf-dem-breitscheidplatz-in-berlin-jaehrlich-gruesst-das-weihnachtsmonster](https://www.spiegel.de/familie/anschlag-auf-dem-breitscheidplatz-in-berlin-jaehrlich-gruesst-das-weihnachtsmonster-a-4ef9ee43-cd9b-4eb6-92d3-b1f2cfa47ff5#ref=rss)
-* [https://www.spiegel.de/ausland/urteil-im-prozess-um-gisele-pelicot-gericht-spricht-ehemann-in-allen-anklagepunkten-schuldig](https://www.spiegel.de/ausland/urteil-im-prozess-um-gisele-pelicot-gericht-spricht-ehemann-in-allen-anklagepunkten-schuldig-a-4b8c03e3-7fd8-4661-a068-e84808408b06#ref=rss)
-### klaus
-
-* [https://www.spiegel.de/sport/olympia/klaus-wolfermann-ist-tot-der-mann-mit-dem-goldenen-arm-nachruf](https://www.spiegel.de/sport/olympia/klaus-wolfermann-ist-tot-der-mann-mit-dem-goldenen-arm-nachruf-a-fc3abd79-9e25-4f29-a84b-388d3ec02f0a#ref=rss)
-### wolfermann
-
-* [https://www.spiegel.de/sport/olympia/klaus-wolfermann-ist-tot-der-mann-mit-dem-goldenen-arm-nachruf](https://www.spiegel.de/sport/olympia/klaus-wolfermann-ist-tot-der-mann-mit-dem-goldenen-arm-nachruf-a-fc3abd79-9e25-4f29-a84b-388d3ec02f0a#ref=rss)
-### spät
-
-* [https://www.spiegel.de/wissenschaft/weltall/neues-eu-satellitensystem-iris-die-richtung-stimmt](https://www.spiegel.de/wissenschaft/weltall/neues-eu-satellitensystem-iris-die-richtung-stimmt-a-b94528b8-bd2b-4f7d-abaf-7646133333c0#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-der-frauen-fc-bayern-muenchen-verliert-spaet-gegen-den-fc-arsenal-und-verpasst-gruppensieg](https://www.spiegel.de/sport/fussball/champions-league-der-frauen-fc-bayern-muenchen-verliert-spaet-gegen-den-fc-arsenal-und-verpasst-gruppensieg-a-64671610-dc54-40a3-9040-d9ed7d9ae8c1#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/wissenschaft/weltall/neues-eu-satellitensystem-iris-die-richtung-stimmt](https://www.spiegel.de/wissenschaft/weltall/neues-eu-satellitensystem-iris-die-richtung-stimmt-a-b94528b8-bd2b-4f7d-abaf-7646133333c0#ref=rss)
-* [https://www.spiegel.de/ausland/russland-wladimir-putins-jaehrliche-pressekonferenz](https://www.spiegel.de/ausland/russland-wladimir-putins-jaehrliche-pressekonferenz-a-e07ab553-71b3-4fa3-a02a-60a76c5fb4a1#ref=rss)
-### hoch
-
-* [https://www.spiegel.de/panorama/bildung/eu-vergleich-junge-deutsche-gehoeren-zu-europas-bildungsmuffeln](https://www.spiegel.de/panorama/bildung/eu-vergleich-junge-deutsche-gehoeren-zu-europas-bildungsmuffeln-a-1ec5671e-c66e-4a4d-b221-52dfc81a085b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/verbraucherstimmung-hellt-sich-etwas-auf](https://www.spiegel.de/wirtschaft/verbraucherstimmung-hellt-sich-etwas-auf-a-a3968dde-ea0a-4dc7-8780-42eaaf442533#ref=rss)
-### chatgpt
-
-* [https://www.spiegel.de/netzwelt/apps/chatgpt-neue-funktion-ermoeglicht-telefongespraeche](https://www.spiegel.de/netzwelt/apps/chatgpt-neue-funktion-ermoeglicht-telefongespraeche-a-c08442a1-d459-445c-af43-3ceef65c5f11#ref=rss)
-### avignon
-
-* [https://www.spiegel.de/ausland/die-fuenf-wichtigsten-spiegel-texte-zum-prozess-in-avignon-und-ein-podcast-spezial](https://www.spiegel.de/ausland/die-fuenf-wichtigsten-spiegel-texte-zum-prozess-in-avignon-und-ein-podcast-spezial-a-c2b3537e-ec88-419a-ba62-ce8df8203cae#ref=rss)
-* [https://www.spiegel.de/ausland/urteil-im-prozess-um-gisele-pelicot-gericht-spricht-ehemann-in-allen-anklagepunkten-schuldig](https://www.spiegel.de/ausland/urteil-im-prozess-um-gisele-pelicot-gericht-spricht-ehemann-in-allen-anklagepunkten-schuldig-a-4b8c03e3-7fd8-4661-a068-e84808408b06#ref=rss)
-### wichtigsten
-
-* [https://www.spiegel.de/ausland/die-fuenf-wichtigsten-spiegel-texte-zum-prozess-in-avignon-und-ein-podcast-spezial](https://www.spiegel.de/ausland/die-fuenf-wichtigsten-spiegel-texte-zum-prozess-in-avignon-und-ein-podcast-spezial-a-c2b3537e-ec88-419a-ba62-ce8df8203cae#ref=rss)
-### urteil
-
-* [https://www.spiegel.de/ausland/die-fuenf-wichtigsten-spiegel-texte-zum-prozess-in-avignon-und-ein-podcast-spezial](https://www.spiegel.de/ausland/die-fuenf-wichtigsten-spiegel-texte-zum-prozess-in-avignon-und-ein-podcast-spezial-a-c2b3537e-ec88-419a-ba62-ce8df8203cae#ref=rss)
-* [https://www.spiegel.de/ausland/urteil-im-prozess-um-gisele-pelicot-gericht-spricht-ehemann-in-allen-anklagepunkten-schuldig](https://www.spiegel.de/ausland/urteil-im-prozess-um-gisele-pelicot-gericht-spricht-ehemann-in-allen-anklagepunkten-schuldig-a-4b8c03e3-7fd8-4661-a068-e84808408b06#ref=rss)
-### vergewaltigungsprozess
-
-* [https://www.spiegel.de/ausland/die-fuenf-wichtigsten-spiegel-texte-zum-prozess-in-avignon-und-ein-podcast-spezial](https://www.spiegel.de/ausland/die-fuenf-wichtigsten-spiegel-texte-zum-prozess-in-avignon-und-ein-podcast-spezial-a-c2b3537e-ec88-419a-ba62-ce8df8203cae#ref=rss)
-* [https://www.spiegel.de/ausland/urteil-im-prozess-um-gisele-pelicot-gericht-spricht-ehemann-in-allen-anklagepunkten-schuldig](https://www.spiegel.de/ausland/urteil-im-prozess-um-gisele-pelicot-gericht-spricht-ehemann-in-allen-anklagepunkten-schuldig-a-4b8c03e3-7fd8-4661-a068-e84808408b06#ref=rss)
-### pelicot
-
-* [https://www.spiegel.de/ausland/die-fuenf-wichtigsten-spiegel-texte-zum-prozess-in-avignon-und-ein-podcast-spezial](https://www.spiegel.de/ausland/die-fuenf-wichtigsten-spiegel-texte-zum-prozess-in-avignon-und-ein-podcast-spezial-a-c2b3537e-ec88-419a-ba62-ce8df8203cae#ref=rss)
-* [https://www.spiegel.de/ausland/urteil-im-prozess-um-gisele-pelicot-gericht-spricht-ehemann-in-allen-anklagepunkten-schuldig](https://www.spiegel.de/ausland/urteil-im-prozess-um-gisele-pelicot-gericht-spricht-ehemann-in-allen-anklagepunkten-schuldig-a-4b8c03e3-7fd8-4661-a068-e84808408b06#ref=rss)
-### alle
-
-* [https://www.spiegel.de/ausland/die-fuenf-wichtigsten-spiegel-texte-zum-prozess-in-avignon-und-ein-podcast-spezial](https://www.spiegel.de/ausland/die-fuenf-wichtigsten-spiegel-texte-zum-prozess-in-avignon-und-ein-podcast-spezial-a-c2b3537e-ec88-419a-ba62-ce8df8203cae#ref=rss)
-* [https://www.spiegel.de/panorama/leute/billie-eilish-hatte-2024-eine-menge-guten-sex](https://www.spiegel.de/panorama/leute/billie-eilish-hatte-2024-eine-menge-guten-sex-a-3ec10989-c512-461f-bf6f-737678259825#ref=rss)
-### habeck
-
-* [https://www.spiegel.de/politik/deutschland/robert-habeck-plaediert-fuer-tv-duell-mit-mehreren-kandidierenden](https://www.spiegel.de/politik/deutschland/robert-habeck-plaediert-fuer-tv-duell-mit-mehreren-kandidierenden-a-fbcc0194-2d60-447d-9383-cbc28e14c3e7#ref=rss)
-### wladimir
-
-* [https://www.spiegel.de/ausland/russland-wladimir-putins-jaehrliche-pressekonferenz](https://www.spiegel.de/ausland/russland-wladimir-putins-jaehrliche-pressekonferenz-a-e07ab553-71b3-4fa3-a02a-60a76c5fb4a1#ref=rss)
-### putin
-
-* [https://www.spiegel.de/ausland/russland-wladimir-putins-jaehrliche-pressekonferenz](https://www.spiegel.de/ausland/russland-wladimir-putins-jaehrliche-pressekonferenz-a-e07ab553-71b3-4fa3-a02a-60a76c5fb4a1#ref=rss)
-### beginn
-
-* [https://www.spiegel.de/ausland/russland-wladimir-putins-jaehrliche-pressekonferenz](https://www.spiegel.de/ausland/russland-wladimir-putins-jaehrliche-pressekonferenz-a-e07ab553-71b3-4fa3-a02a-60a76c5fb4a1#ref=rss)
-* [https://www.spiegel.de/ausland/israel-militaer-bombardiert-haefen-der-huthi-miliz-im-jemen](https://www.spiegel.de/ausland/israel-militaer-bombardiert-haefen-der-huthi-miliz-im-jemen-a-b9aecf8c-a7c1-41e1-b1aa-d1c00c3ff52d#ref=rss)
-### wirtschaft
-
-* [https://www.spiegel.de/ausland/russland-wladimir-putins-jaehrliche-pressekonferenz](https://www.spiegel.de/ausland/russland-wladimir-putins-jaehrliche-pressekonferenz-a-e07ab553-71b3-4fa3-a02a-60a76c5fb4a1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/verbraucherstimmung-hellt-sich-etwas-auf](https://www.spiegel.de/wirtschaft/verbraucherstimmung-hellt-sich-etwas-auf-a-a3968dde-ea0a-4dc7-8780-42eaaf442533#ref=rss)
 ### gisèle
 
-* [https://www.spiegel.de/ausland/urteil-im-prozess-um-gisele-pelicot-gericht-spricht-ehemann-in-allen-anklagepunkten-schuldig](https://www.spiegel.de/ausland/urteil-im-prozess-um-gisele-pelicot-gericht-spricht-ehemann-in-allen-anklagepunkten-schuldig-a-4b8c03e3-7fd8-4661-a068-e84808408b06#ref=rss)
-### billie
+* [https://www.spiegel.de/ausland/fall-gisele-pelicot-urteile-im-vergewaltigungsprozess-von-avignon-428-jahre-gefaengnis](https://www.spiegel.de/ausland/fall-gisele-pelicot-urteile-im-vergewaltigungsprozess-von-avignon-428-jahre-gefaengnis-a-06c0d459-d720-4f4f-9f7b-dad6134ca389#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-avignon-prozess-wladimir-putin-donald-trump](https://www.spiegel.de/politik/deutschland/news-des-tages-avignon-prozess-wladimir-putin-donald-trump-a-706c2036-96f0-4f08-b7ef-7860a9606c55#ref=rss)
+* [https://www.spiegel.de/ausland/fall-gisele-pelicot-urteile-im-vergewaltigungs-prozess-von-avignon-das-ende-einer-tortur](https://www.spiegel.de/ausland/fall-gisele-pelicot-urteile-im-vergewaltigungs-prozess-von-avignon-das-ende-einer-tortur-a-f0e5498b-ed10-40c1-a3e6-6bedf7b7dc37#ref=rss)
+* [https://www.spiegel.de/ausland/gisele-pelicot-reaktionen-auf-das-urteil-im-vergewaltigungsprozess-in-avignon](https://www.spiegel.de/ausland/gisele-pelicot-reaktionen-auf-das-urteil-im-vergewaltigungsprozess-in-avignon-a-03c12d5f-20e4-4a90-b990-462d11494581#ref=rss)
+### pelicot
 
-* [https://www.spiegel.de/panorama/leute/billie-eilish-hatte-2024-eine-menge-guten-sex](https://www.spiegel.de/panorama/leute/billie-eilish-hatte-2024-eine-menge-guten-sex-a-3ec10989-c512-461f-bf6f-737678259825#ref=rss)
-### eilish
+* [https://www.spiegel.de/ausland/fall-gisele-pelicot-urteile-im-vergewaltigungsprozess-von-avignon-428-jahre-gefaengnis](https://www.spiegel.de/ausland/fall-gisele-pelicot-urteile-im-vergewaltigungsprozess-von-avignon-428-jahre-gefaengnis-a-06c0d459-d720-4f4f-9f7b-dad6134ca389#ref=rss)
+* [https://www.spiegel.de/ausland/fall-gisele-pelicot-urteile-im-vergewaltigungs-prozess-von-avignon-das-ende-einer-tortur](https://www.spiegel.de/ausland/fall-gisele-pelicot-urteile-im-vergewaltigungs-prozess-von-avignon-das-ende-einer-tortur-a-f0e5498b-ed10-40c1-a3e6-6bedf7b7dc37#ref=rss)
+* [https://www.spiegel.de/ausland/gisele-pelicot-reaktionen-auf-das-urteil-im-vergewaltigungsprozess-in-avignon](https://www.spiegel.de/ausland/gisele-pelicot-reaktionen-auf-das-urteil-im-vergewaltigungsprozess-in-avignon-a-03c12d5f-20e4-4a90-b990-462d11494581#ref=rss)
+### avignon
 
-* [https://www.spiegel.de/panorama/leute/billie-eilish-hatte-2024-eine-menge-guten-sex](https://www.spiegel.de/panorama/leute/billie-eilish-hatte-2024-eine-menge-guten-sex-a-3ec10989-c512-461f-bf6f-737678259825#ref=rss)
-### 2024
+* [https://www.spiegel.de/ausland/fall-gisele-pelicot-urteile-im-vergewaltigungsprozess-von-avignon-428-jahre-gefaengnis](https://www.spiegel.de/ausland/fall-gisele-pelicot-urteile-im-vergewaltigungsprozess-von-avignon-428-jahre-gefaengnis-a-06c0d459-d720-4f4f-9f7b-dad6134ca389#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-avignon-prozess-wladimir-putin-donald-trump](https://www.spiegel.de/politik/deutschland/news-des-tages-avignon-prozess-wladimir-putin-donald-trump-a-706c2036-96f0-4f08-b7ef-7860a9606c55#ref=rss)
+* [https://www.spiegel.de/ausland/fall-gisele-pelicot-urteile-im-vergewaltigungs-prozess-von-avignon-das-ende-einer-tortur](https://www.spiegel.de/ausland/fall-gisele-pelicot-urteile-im-vergewaltigungs-prozess-von-avignon-das-ende-einer-tortur-a-f0e5498b-ed10-40c1-a3e6-6bedf7b7dc37#ref=rss)
+* [https://www.spiegel.de/ausland/gisele-pelicot-reaktionen-auf-das-urteil-im-vergewaltigungsprozess-in-avignon](https://www.spiegel.de/ausland/gisele-pelicot-reaktionen-auf-das-urteil-im-vergewaltigungsprozess-in-avignon-a-03c12d5f-20e4-4a90-b990-462d11494581#ref=rss)
+### wladimir
 
-* [https://www.spiegel.de/panorama/leute/billie-eilish-hatte-2024-eine-menge-guten-sex](https://www.spiegel.de/panorama/leute/billie-eilish-hatte-2024-eine-menge-guten-sex-a-3ec10989-c512-461f-bf6f-737678259825#ref=rss)
-### retten
+* [https://www.spiegel.de/panorama/leute/boxen-wladimir-klitschko-kehrt-in-den-ring-zurueck](https://www.spiegel.de/panorama/leute/boxen-wladimir-klitschko-kehrt-in-den-ring-zurueck-a-06c863e9-1266-4d14-a868-4027ebaec7e2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-avignon-prozess-wladimir-putin-donald-trump](https://www.spiegel.de/politik/deutschland/news-des-tages-avignon-prozess-wladimir-putin-donald-trump-a-706c2036-96f0-4f08-b7ef-7860a9606c55#ref=rss)
+* [https://www.spiegel.de/ausland/russland-wladimir-putins-thesen-zu-syrien-wirtschaft-und-geburtenrate-im-faktencheck](https://www.spiegel.de/ausland/russland-wladimir-putins-thesen-zu-syrien-wirtschaft-und-geburtenrate-im-faktencheck-a-66cc92ae-9c2c-4994-8719-ce705a6d51fa#ref=rss)
+### scholz
 
-* [https://www.spiegel.de/panorama/leute/billie-eilish-hatte-2024-eine-menge-guten-sex](https://www.spiegel.de/panorama/leute/billie-eilish-hatte-2024-eine-menge-guten-sex-a-3ec10989-c512-461f-bf6f-737678259825#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahlkampf-die-ignoranz-der-parteien-gegenueber-den-grossen-problemen-deutschlands](https://www.spiegel.de/politik/deutschland/bundestagswahlkampf-die-ignoranz-der-parteien-gegenueber-den-grossen-problemen-deutschlands-a-5dc32dcd-e645-40b9-9ce5-401629462878#ref=rss)
-### gianluigi
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-mann-wegen-gefaehrdung-des-strassenverkehrs-und-hausfriedensbruch-nach-rollfeld-vorfall-angeklagt](https://www.spiegel.de/politik/deutschland/olaf-scholz-mann-wegen-gefaehrdung-des-strassenverkehrs-und-hausfriedensbruch-nach-rollfeld-vorfall-angeklagt-a-bd112b9b-d77a-4630-bdff-3c88ea2ed0ac#ref=rss)
+* [https://www.spiegel.de/auto/abgasvorschriften-autobauer-drohen-milliardenstrafen-scholz-will-helfen](https://www.spiegel.de/auto/abgasvorschriften-autobauer-drohen-milliardenstrafen-scholz-will-helfen-a-213973a4-e386-4c3a-a069-48460d37650a#ref=rss)
+* [https://www.spiegel.de/kultur/tv/ard-und-zdf-kuendigen-weitere-tv-runden-mit-kanzlerkandidaten-an](https://www.spiegel.de/kultur/tv/ard-und-zdf-kuendigen-weitere-tv-runden-mit-kanzlerkandidaten-an-a-8effd39b-8258-470c-9e82-9cb6262330b5#ref=rss)
+### mann
 
-* [https://www.spiegel.de/sport/fussball/fussball-psg-keeper-gianluigi-donnarumma-von-gegenspieler-wilfried-singo-im-gesicht-getroffen](https://www.spiegel.de/sport/fussball/fussball-psg-keeper-gianluigi-donnarumma-von-gegenspieler-wilfried-singo-im-gesicht-getroffen-a-0e4bf6e1-c24c-482b-9fa9-89a946d170d1#ref=rss)
-### donnarumma
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-mann-wegen-gefaehrdung-des-strassenverkehrs-und-hausfriedensbruch-nach-rollfeld-vorfall-angeklagt](https://www.spiegel.de/politik/deutschland/olaf-scholz-mann-wegen-gefaehrdung-des-strassenverkehrs-und-hausfriedensbruch-nach-rollfeld-vorfall-angeklagt-a-bd112b9b-d77a-4630-bdff-3c88ea2ed0ac#ref=rss)
+* [https://www.spiegel.de/panorama/spanien-bild-von-google-street-view-fuehrt-zu-mutmasslichem-moerder](https://www.spiegel.de/panorama/spanien-bild-von-google-street-view-fuehrt-zu-mutmasslichem-moerder-a-e811295a-61a4-4d72-a43b-485d011928c9#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hessen-mann-muss-190-000-euro-an-ehemalige-schwiegereltern-zurueckzahlen](https://www.spiegel.de/panorama/justiz/hessen-mann-muss-190-000-euro-an-ehemalige-schwiegereltern-zurueckzahlen-a-be9ca174-9b06-44fc-969b-37200b3223eb#ref=rss)
+### ohne
 
-* [https://www.spiegel.de/sport/fussball/fussball-psg-keeper-gianluigi-donnarumma-von-gegenspieler-wilfried-singo-im-gesicht-getroffen](https://www.spiegel.de/sport/fussball/fussball-psg-keeper-gianluigi-donnarumma-von-gegenspieler-wilfried-singo-im-gesicht-getroffen-a-0e4bf6e1-c24c-482b-9fa9-89a946d170d1#ref=rss)
-### gegenspieler
+* [https://www.spiegel.de/kultur/musik/kultur-in-berlin-die-stille-an-diesem-abend-war-auch-eine-warnung-gastbeitrag-von-joana-mallwitz](https://www.spiegel.de/kultur/musik/kultur-in-berlin-die-stille-an-diesem-abend-war-auch-eine-warnung-gastbeitrag-von-joana-mallwitz-a-70a74186-db82-4073-88d6-4b60af5ccbea#ref=rss)
+* [https://www.spiegel.de/wirtschaft/grundsteuer-steuerzahler-ohne-bescheid-wie-umgehen-mit-der-neuen-regelung](https://www.spiegel.de/wirtschaft/grundsteuer-steuerzahler-ohne-bescheid-wie-umgehen-mit-der-neuen-regelung-a-80a70274-a9cb-434a-b74a-d31b704f3d0b#ref=rss)
+### vergewaltigungsprozess
 
-* [https://www.spiegel.de/sport/fussball/fussball-psg-keeper-gianluigi-donnarumma-von-gegenspieler-wilfried-singo-im-gesicht-getroffen](https://www.spiegel.de/sport/fussball/fussball-psg-keeper-gianluigi-donnarumma-von-gegenspieler-wilfried-singo-im-gesicht-getroffen-a-0e4bf6e1-c24c-482b-9fa9-89a946d170d1#ref=rss)
-### gesicht
+* [https://www.spiegel.de/ausland/fall-gisele-pelicot-urteile-im-vergewaltigungsprozess-von-avignon-428-jahre-gefaengnis](https://www.spiegel.de/ausland/fall-gisele-pelicot-urteile-im-vergewaltigungsprozess-von-avignon-428-jahre-gefaengnis-a-06c0d459-d720-4f4f-9f7b-dad6134ca389#ref=rss)
+* [https://www.spiegel.de/ausland/fall-gisele-pelicot-urteile-im-vergewaltigungs-prozess-von-avignon-das-ende-einer-tortur](https://www.spiegel.de/ausland/fall-gisele-pelicot-urteile-im-vergewaltigungs-prozess-von-avignon-das-ende-einer-tortur-a-f0e5498b-ed10-40c1-a3e6-6bedf7b7dc37#ref=rss)
+* [https://www.spiegel.de/ausland/gisele-pelicot-reaktionen-auf-das-urteil-im-vergewaltigungsprozess-in-avignon](https://www.spiegel.de/ausland/gisele-pelicot-reaktionen-auf-das-urteil-im-vergewaltigungsprozess-in-avignon-a-03c12d5f-20e4-4a90-b990-462d11494581#ref=rss)
+### kam
 
-* [https://www.spiegel.de/sport/fussball/fussball-psg-keeper-gianluigi-donnarumma-von-gegenspieler-wilfried-singo-im-gesicht-getroffen](https://www.spiegel.de/sport/fussball/fussball-psg-keeper-gianluigi-donnarumma-von-gegenspieler-wilfried-singo-im-gesicht-getroffen-a-0e4bf6e1-c24c-482b-9fa9-89a946d170d1#ref=rss)
-### getroffen
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-mann-wegen-gefaehrdung-des-strassenverkehrs-und-hausfriedensbruch-nach-rollfeld-vorfall-angeklagt](https://www.spiegel.de/politik/deutschland/olaf-scholz-mann-wegen-gefaehrdung-des-strassenverkehrs-und-hausfriedensbruch-nach-rollfeld-vorfall-angeklagt-a-bd112b9b-d77a-4630-bdff-3c88ea2ed0ac#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/eklat-in-berliner-gericht-clan-krimineller-schlaegt-spiegel-tv-reporter-nieder](https://www.spiegel.de/panorama/justiz/eklat-in-berliner-gericht-clan-krimineller-schlaegt-spiegel-tv-reporter-nieder-a-4241b526-0356-4990-82f0-1e2e303ef7fd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/riedbahn-oberleitungsschaden-auf-strecke-nur-tage-nach-sanierung](https://www.spiegel.de/wirtschaft/service/riedbahn-oberleitungsschaden-auf-strecke-nur-tage-nach-sanierung-a-f691d31d-df79-4852-8b41-7d2812464202#ref=rss)
+### donald
 
-* [https://www.spiegel.de/sport/fussball/fussball-psg-keeper-gianluigi-donnarumma-von-gegenspieler-wilfried-singo-im-gesicht-getroffen](https://www.spiegel.de/sport/fussball/fussball-psg-keeper-gianluigi-donnarumma-von-gegenspieler-wilfried-singo-im-gesicht-getroffen-a-0e4bf6e1-c24c-482b-9fa9-89a946d170d1#ref=rss)
-### bombardiert
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-avignon-prozess-wladimir-putin-donald-trump](https://www.spiegel.de/politik/deutschland/news-des-tages-avignon-prozess-wladimir-putin-donald-trump-a-706c2036-96f0-4f08-b7ef-7860a9606c55#ref=rss)
+* [https://www.spiegel.de/ausland/justin-trudeau-aus-kanada-in-der-krise-der-politstar-ist-am-ende](https://www.spiegel.de/ausland/justin-trudeau-aus-kanada-in-der-krise-der-politstar-ist-am-ende-a-b2663fcf-8b15-4a90-a6a3-894516b78da6#ref=rss)
+* [https://www.spiegel.de/ausland/usa-joe-biden-legt-vor-donald-trumps-uebernahme-neue-klimaziele-vor](https://www.spiegel.de/ausland/usa-joe-biden-legt-vor-donald-trumps-uebernahme-neue-klimaziele-vor-a-db7777a4-4f25-465b-a9ae-1dd7b956ee22#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/ausland/israel-militaer-bombardiert-haefen-der-huthi-miliz-im-jemen](https://www.spiegel.de/ausland/israel-militaer-bombardiert-haefen-der-huthi-miliz-im-jemen-a-b9aecf8c-a7c1-41e1-b1aa-d1c00c3ff52d#ref=rss)
-### huthimiliz
+* [https://www.spiegel.de/kultur/musik/kultur-in-berlin-die-stille-an-diesem-abend-war-auch-eine-warnung-gastbeitrag-von-joana-mallwitz](https://www.spiegel.de/kultur/musik/kultur-in-berlin-die-stille-an-diesem-abend-war-auch-eine-warnung-gastbeitrag-von-joana-mallwitz-a-70a74186-db82-4073-88d6-4b60af5ccbea#ref=rss)
+* [https://www.spiegel.de/familie/sozialleben-von-eltern-meine-kinder-sind-meine-neuen-freunde](https://www.spiegel.de/familie/sozialleben-von-eltern-meine-kinder-sind-meine-neuen-freunde-a-53b945e3-16c3-4f33-ae39-531959c27b5e#ref=rss)
+### denn
 
-* [https://www.spiegel.de/ausland/israel-militaer-bombardiert-haefen-der-huthi-miliz-im-jemen](https://www.spiegel.de/ausland/israel-militaer-bombardiert-haefen-der-huthi-miliz-im-jemen-a-b9aecf8c-a7c1-41e1-b1aa-d1c00c3ff52d#ref=rss)
-### jemen
+* [https://www.spiegel.de/kultur/musik/kultur-in-berlin-die-stille-an-diesem-abend-war-auch-eine-warnung-gastbeitrag-von-joana-mallwitz](https://www.spiegel.de/kultur/musik/kultur-in-berlin-die-stille-an-diesem-abend-war-auch-eine-warnung-gastbeitrag-von-joana-mallwitz-a-70a74186-db82-4073-88d6-4b60af5ccbea#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/bundestag-beschliesst-hoeheres-kindergeld-und-steuerentlastungen](https://www.spiegel.de/wirtschaft/service/bundestag-beschliesst-hoeheres-kindergeld-und-steuerentlastungen-a-5276813e-ca02-454b-b25f-666567d0e076#ref=rss)
+* [https://www.spiegel.de/familie/sozialleben-von-eltern-meine-kinder-sind-meine-neuen-freunde](https://www.spiegel.de/familie/sozialleben-von-eltern-meine-kinder-sind-meine-neuen-freunde-a-53b945e3-16c3-4f33-ae39-531959c27b5e#ref=rss)
+### bundestag
 
-* [https://www.spiegel.de/ausland/israel-militaer-bombardiert-haefen-der-huthi-miliz-im-jemen](https://www.spiegel.de/ausland/israel-militaer-bombardiert-haefen-der-huthi-miliz-im-jemen-a-b9aecf8c-a7c1-41e1-b1aa-d1c00c3ff52d#ref=rss)
-### bahn
+* [https://www.spiegel.de/wirtschaft/service/bundestag-beschliesst-hoeheres-kindergeld-und-steuerentlastungen](https://www.spiegel.de/wirtschaft/service/bundestag-beschliesst-hoeheres-kindergeld-und-steuerentlastungen-a-5276813e-ca02-454b-b25f-666567d0e076#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/baerbel-bas-bundestagspraesidentin-beklagt-sexismus-im-plenarsaal](https://www.spiegel.de/politik/deutschland/baerbel-bas-bundestagspraesidentin-beklagt-sexismus-im-plenarsaal-a-091b45a9-3141-4602-b6cc-9af7162de4be#ref=rss)
+### urteile
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-wo-deutschland-trotz-misere-sogar-vorbild-fuer-andere-laender-ist](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-wo-deutschland-trotz-misere-sogar-vorbild-fuer-andere-laender-ist-a-73c9bf2b-5886-4eb3-ae2a-0e06fe3ba5b6#ref=rss)
-### wo
+* [https://www.spiegel.de/ausland/fall-gisele-pelicot-urteile-im-vergewaltigungsprozess-von-avignon-428-jahre-gefaengnis](https://www.spiegel.de/ausland/fall-gisele-pelicot-urteile-im-vergewaltigungsprozess-von-avignon-428-jahre-gefaengnis-a-06c0d459-d720-4f4f-9f7b-dad6134ca389#ref=rss)
+* [https://www.spiegel.de/ausland/fall-gisele-pelicot-urteile-im-vergewaltigungs-prozess-von-avignon-das-ende-einer-tortur](https://www.spiegel.de/ausland/fall-gisele-pelicot-urteile-im-vergewaltigungs-prozess-von-avignon-das-ende-einer-tortur-a-f0e5498b-ed10-40c1-a3e6-6bedf7b7dc37#ref=rss)
+### jahre
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-wo-deutschland-trotz-misere-sogar-vorbild-fuer-andere-laender-ist](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-wo-deutschland-trotz-misere-sogar-vorbild-fuer-andere-laender-ist-a-73c9bf2b-5886-4eb3-ae2a-0e06fe3ba5b6#ref=rss)
-### vorbild
+* [https://www.spiegel.de/ausland/fall-gisele-pelicot-urteile-im-vergewaltigungsprozess-von-avignon-428-jahre-gefaengnis](https://www.spiegel.de/ausland/fall-gisele-pelicot-urteile-im-vergewaltigungsprozess-von-avignon-428-jahre-gefaengnis-a-06c0d459-d720-4f4f-9f7b-dad6134ca389#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/weisse-weihnachten-wie-stehen-die-chancen-2024](https://www.spiegel.de/wissenschaft/natur/weisse-weihnachten-wie-stehen-die-chancen-2024-a-d839bdd7-12f6-43bf-9935-8e37e6728522#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-avignon-prozess-wladimir-putin-donald-trump](https://www.spiegel.de/politik/deutschland/news-des-tages-avignon-prozess-wladimir-putin-donald-trump-a-706c2036-96f0-4f08-b7ef-7860a9606c55#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-wo-deutschland-trotz-misere-sogar-vorbild-fuer-andere-laender-ist](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-wo-deutschland-trotz-misere-sogar-vorbild-fuer-andere-laender-ist-a-73c9bf2b-5886-4eb3-ae2a-0e06fe3ba5b6#ref=rss)
-### arbeitskräftemangel
+* [https://www.spiegel.de/wirtschaft/grundsteuer-steuerzahler-ohne-bescheid-wie-umgehen-mit-der-neuen-regelung](https://www.spiegel.de/wirtschaft/grundsteuer-steuerzahler-ohne-bescheid-wie-umgehen-mit-der-neuen-regelung-a-80a70274-a9cb-434a-b74a-d31b704f3d0b#ref=rss)
+* [https://www.spiegel.de/familie/sozialleben-von-eltern-meine-kinder-sind-meine-neuen-freunde](https://www.spiegel.de/familie/sozialleben-von-eltern-meine-kinder-sind-meine-neuen-freunde-a-53b945e3-16c3-4f33-ae39-531959c27b5e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elbtower-in-hamburg-naturkundemuseum-als-zentraler-mieter-in-verhandlungen-weit-fortgeschritten](https://www.spiegel.de/wirtschaft/elbtower-in-hamburg-naturkundemuseum-als-zentraler-mieter-in-verhandlungen-weit-fortgeschritten-a-1e4570a0-14de-4916-bcdf-a36ca7608d7e#ref=rss)
+### neue
 
-* [https://www.spiegel.de/politik/deutschland/arbeitskraeftemangel-gruene-wollen-millionen-mehr-frauen-in-vollzeit](https://www.spiegel.de/politik/deutschland/arbeitskraeftemangel-gruene-wollen-millionen-mehr-frauen-in-vollzeit-a-fe3c63a4-1edf-4c1a-ae11-49cf22d4cbe8#ref=rss)
-### arsenal
+* [https://www.spiegel.de/wirtschaft/grundsteuer-steuerzahler-ohne-bescheid-wie-umgehen-mit-der-neuen-regelung](https://www.spiegel.de/wirtschaft/grundsteuer-steuerzahler-ohne-bescheid-wie-umgehen-mit-der-neuen-regelung-a-80a70274-a9cb-434a-b74a-d31b704f3d0b#ref=rss)
+* [https://www.spiegel.de/panorama/syrien-asyl-und-migration-bundesinnenministerium-plant-neue-regelungen-fuer-gefluechtete](https://www.spiegel.de/panorama/syrien-asyl-und-migration-bundesinnenministerium-plant-neue-regelungen-fuer-gefluechtete-a-6f282d91-3c6a-4310-9ecc-ff0dd8c922d8#ref=rss)
+* [https://www.spiegel.de/ausland/usa-joe-biden-legt-vor-donald-trumps-uebernahme-neue-klimaziele-vor](https://www.spiegel.de/ausland/usa-joe-biden-legt-vor-donald-trumps-uebernahme-neue-klimaziele-vor-a-db7777a4-4f25-465b-a9ae-1dd7b956ee22#ref=rss)
+### bundestagswahl
 
-* [https://www.spiegel.de/sport/fussball/champions-league-der-frauen-fc-bayern-muenchen-verliert-spaet-gegen-den-fc-arsenal-und-verpasst-gruppensieg](https://www.spiegel.de/sport/fussball/champions-league-der-frauen-fc-bayern-muenchen-verliert-spaet-gegen-den-fc-arsenal-und-verpasst-gruppensieg-a-64671610-dc54-40a3-9040-d9ed7d9ae8c1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-alle-vier-kanzlerkandidaten-bei-mehrheit-der-deutschen-unbeliebt](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-alle-vier-kanzlerkandidaten-bei-mehrheit-der-deutschen-unbeliebt-a-ed772fe3-095a-4ad2-b5b2-c2bf67085fc6#ref=rss)
+* [https://www.spiegel.de/kultur/tv/ard-und-zdf-kuendigen-weitere-tv-runden-mit-kanzlerkandidaten-an](https://www.spiegel.de/kultur/tv/ard-und-zdf-kuendigen-weitere-tv-runden-mit-kanzlerkandidaten-an-a-8effd39b-8258-470c-9e82-9cb6262330b5#ref=rss)
+### 2025
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-alle-vier-kanzlerkandidaten-bei-mehrheit-der-deutschen-unbeliebt](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-alle-vier-kanzlerkandidaten-bei-mehrheit-der-deutschen-unbeliebt-a-ed772fe3-095a-4ad2-b5b2-c2bf67085fc6#ref=rss)
+* [https://www.spiegel.de/auto/abgasvorschriften-autobauer-drohen-milliardenstrafen-scholz-will-helfen](https://www.spiegel.de/auto/abgasvorschriften-autobauer-drohen-milliardenstrafen-scholz-will-helfen-a-213973a4-e386-4c3a-a069-48460d37650a#ref=rss)
+### alle
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-alle-vier-kanzlerkandidaten-bei-mehrheit-der-deutschen-unbeliebt](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-alle-vier-kanzlerkandidaten-bei-mehrheit-der-deutschen-unbeliebt-a-ed772fe3-095a-4ad2-b5b2-c2bf67085fc6#ref=rss)
+* [https://www.spiegel.de/familie/sozialleben-von-eltern-meine-kinder-sind-meine-neuen-freunde](https://www.spiegel.de/familie/sozialleben-von-eltern-meine-kinder-sind-meine-neuen-freunde-a-53b945e3-16c3-4f33-ae39-531959c27b5e#ref=rss)
+* [https://www.spiegel.de/ausland/fall-gisele-pelicot-urteile-im-vergewaltigungs-prozess-von-avignon-das-ende-einer-tortur](https://www.spiegel.de/ausland/fall-gisele-pelicot-urteile-im-vergewaltigungs-prozess-von-avignon-das-ende-einer-tortur-a-f0e5498b-ed10-40c1-a3e6-6bedf7b7dc37#ref=rss)
+### kinder
+
+* [https://www.spiegel.de/familie/sozialleben-von-eltern-meine-kinder-sind-meine-neuen-freunde](https://www.spiegel.de/familie/sozialleben-von-eltern-meine-kinder-sind-meine-neuen-freunde-a-53b945e3-16c3-4f33-ae39-531959c27b5e#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/kita-misere-in-deutschland-traenen-wutanfaelle-erschoepfung-so-fuehlt-sich-kita-wirklich-an](https://www.spiegel.de/panorama/bildung/kita-misere-in-deutschland-traenen-wutanfaelle-erschoepfung-so-fuehlt-sich-kita-wirklich-an-a-dd8cfeaa-07b7-4eca-9880-36d4f35b5428#ref=rss)
+### ich
+
+* [https://www.spiegel.de/familie/sozialleben-von-eltern-meine-kinder-sind-meine-neuen-freunde](https://www.spiegel.de/familie/sozialleben-von-eltern-meine-kinder-sind-meine-neuen-freunde-a-53b945e3-16c3-4f33-ae39-531959c27b5e#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/ausland/geboren-im-frieden-gestorben-im-krieg-was-wurde-aus-kindern-von-mariupol-spiegel-tv](https://www.spiegel.de/ausland/geboren-im-frieden-gestorben-im-krieg-was-wurde-aus-kindern-von-mariupol-spiegel-tv-a-a76e8f95-d398-4978-b311-aa7e37ac4f0a#ref=rss)
+* [https://www.spiegel.de/panorama/syrien-asyl-und-migration-bundesinnenministerium-plant-neue-regelungen-fuer-gefluechtete](https://www.spiegel.de/panorama/syrien-asyl-und-migration-bundesinnenministerium-plant-neue-regelungen-fuer-gefluechtete-a-6f282d91-3c6a-4310-9ecc-ff0dd8c922d8#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/kita-misere-in-deutschland-traenen-wutanfaelle-erschoepfung-so-fuehlt-sich-kita-wirklich-an](https://www.spiegel.de/panorama/bildung/kita-misere-in-deutschland-traenen-wutanfaelle-erschoepfung-so-fuehlt-sich-kita-wirklich-an-a-dd8cfeaa-07b7-4eca-9880-36d4f35b5428#ref=rss)
+### wohl
+
+* [https://www.spiegel.de/wissenschaft/natur/weisse-weihnachten-wie-stehen-die-chancen-2024](https://www.spiegel.de/wissenschaft/natur/weisse-weihnachten-wie-stehen-die-chancen-2024-a-d839bdd7-12f6-43bf-9935-8e37e6728522#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elbtower-in-hamburg-naturkundemuseum-als-zentraler-mieter-in-verhandlungen-weit-fortgeschritten](https://www.spiegel.de/wirtschaft/elbtower-in-hamburg-naturkundemuseum-als-zentraler-mieter-in-verhandlungen-weit-fortgeschritten-a-1e4570a0-14de-4916-bcdf-a36ca7608d7e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/riedbahn-oberleitungsschaden-auf-strecke-nur-tage-nach-sanierung](https://www.spiegel.de/wirtschaft/service/riedbahn-oberleitungsschaden-auf-strecke-nur-tage-nach-sanierung-a-f691d31d-df79-4852-8b41-7d2812464202#ref=rss)
+### trump
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-avignon-prozess-wladimir-putin-donald-trump](https://www.spiegel.de/politik/deutschland/news-des-tages-avignon-prozess-wladimir-putin-donald-trump-a-706c2036-96f0-4f08-b7ef-7860a9606c55#ref=rss)
+* [https://www.spiegel.de/ausland/usa-joe-biden-legt-vor-donald-trumps-uebernahme-neue-klimaziele-vor](https://www.spiegel.de/ausland/usa-joe-biden-legt-vor-donald-trumps-uebernahme-neue-klimaziele-vor-a-db7777a4-4f25-465b-a9ae-1dd7b956ee22#ref=rss)
+### syrien
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-avignon-prozess-wladimir-putin-donald-trump](https://www.spiegel.de/politik/deutschland/news-des-tages-avignon-prozess-wladimir-putin-donald-trump-a-706c2036-96f0-4f08-b7ef-7860a9606c55#ref=rss)
+* [https://www.spiegel.de/panorama/syrien-asyl-und-migration-bundesinnenministerium-plant-neue-regelungen-fuer-gefluechtete](https://www.spiegel.de/panorama/syrien-asyl-und-migration-bundesinnenministerium-plant-neue-regelungen-fuer-gefluechtete-a-6f282d91-3c6a-4310-9ecc-ff0dd8c922d8#ref=rss)
+* [https://www.spiegel.de/ausland/russland-wladimir-putins-thesen-zu-syrien-wirtschaft-und-geburtenrate-im-faktencheck](https://www.spiegel.de/ausland/russland-wladimir-putins-thesen-zu-syrien-wirtschaft-und-geburtenrate-im-faktencheck-a-66cc92ae-9c2c-4994-8719-ce705a6d51fa#ref=rss)
+### erivo
+
+* [https://www.spiegel.de/kultur/kino/cynthia-erivo-schauspielerin-gestaltete-style-ihres-wicked-charakters-mit](https://www.spiegel.de/kultur/kino/cynthia-erivo-schauspielerin-gestaltete-style-ihres-wicked-charakters-mit-a-4f3d1e4c-b38d-4be1-be16-efe94093d305#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/ausland/russland-wladimir-putins-thesen-zu-syrien-wirtschaft-und-geburtenrate-im-faktencheck](https://www.spiegel.de/ausland/russland-wladimir-putins-thesen-zu-syrien-wirtschaft-und-geburtenrate-im-faktencheck-a-66cc92ae-9c2c-4994-8719-ce705a6d51fa#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hessen-mann-muss-190-000-euro-an-ehemalige-schwiegereltern-zurueckzahlen](https://www.spiegel.de/panorama/justiz/hessen-mann-muss-190-000-euro-an-ehemalige-schwiegereltern-zurueckzahlen-a-be9ca174-9b06-44fc-969b-37200b3223eb#ref=rss)
+### kultur
+
+* [https://www.spiegel.de/kultur/musik/kultur-in-berlin-die-stille-an-diesem-abend-war-auch-eine-warnung-gastbeitrag-von-joana-mallwitz](https://www.spiegel.de/kultur/musik/kultur-in-berlin-die-stille-an-diesem-abend-war-auch-eine-warnung-gastbeitrag-von-joana-mallwitz-a-70a74186-db82-4073-88d6-4b60af5ccbea#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/kultur/musik/kultur-in-berlin-die-stille-an-diesem-abend-war-auch-eine-warnung-gastbeitrag-von-joana-mallwitz](https://www.spiegel.de/kultur/musik/kultur-in-berlin-die-stille-an-diesem-abend-war-auch-eine-warnung-gastbeitrag-von-joana-mallwitz-a-70a74186-db82-4073-88d6-4b60af5ccbea#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/eklat-in-berliner-gericht-clan-krimineller-schlaegt-spiegel-tv-reporter-nieder](https://www.spiegel.de/panorama/justiz/eklat-in-berliner-gericht-clan-krimineller-schlaegt-spiegel-tv-reporter-nieder-a-4241b526-0356-4990-82f0-1e2e303ef7fd#ref=rss)
+### stille
+
+* [https://www.spiegel.de/kultur/musik/kultur-in-berlin-die-stille-an-diesem-abend-war-auch-eine-warnung-gastbeitrag-von-joana-mallwitz](https://www.spiegel.de/kultur/musik/kultur-in-berlin-die-stille-an-diesem-abend-war-auch-eine-warnung-gastbeitrag-von-joana-mallwitz-a-70a74186-db82-4073-88d6-4b60af5ccbea#ref=rss)
+### berliner
+
+* [https://www.spiegel.de/kultur/musik/kultur-in-berlin-die-stille-an-diesem-abend-war-auch-eine-warnung-gastbeitrag-von-joana-mallwitz](https://www.spiegel.de/kultur/musik/kultur-in-berlin-die-stille-an-diesem-abend-war-auch-eine-warnung-gastbeitrag-von-joana-mallwitz-a-70a74186-db82-4073-88d6-4b60af5ccbea#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/eklat-in-berliner-gericht-clan-krimineller-schlaegt-spiegel-tv-reporter-nieder](https://www.spiegel.de/panorama/justiz/eklat-in-berliner-gericht-clan-krimineller-schlaegt-spiegel-tv-reporter-nieder-a-4241b526-0356-4990-82f0-1e2e303ef7fd#ref=rss)
+### beschlossen
+
+* [https://www.spiegel.de/kultur/musik/kultur-in-berlin-die-stille-an-diesem-abend-war-auch-eine-warnung-gastbeitrag-von-joana-mallwitz](https://www.spiegel.de/kultur/musik/kultur-in-berlin-die-stille-an-diesem-abend-war-auch-eine-warnung-gastbeitrag-von-joana-mallwitz-a-70a74186-db82-4073-88d6-4b60af5ccbea#ref=rss)
+* [https://www.spiegel.de/ausland/usa-joe-biden-legt-vor-donald-trumps-uebernahme-neue-klimaziele-vor](https://www.spiegel.de/ausland/usa-joe-biden-legt-vor-donald-trumps-uebernahme-neue-klimaziele-vor-a-db7777a4-4f25-465b-a9ae-1dd7b956ee22#ref=rss)
+### klitschko
+
+* [https://www.spiegel.de/panorama/leute/boxen-wladimir-klitschko-kehrt-in-den-ring-zurueck](https://www.spiegel.de/panorama/leute/boxen-wladimir-klitschko-kehrt-in-den-ring-zurueck-a-06c863e9-1266-4d14-a868-4027ebaec7e2#ref=rss)
+### fall
+
+* [https://www.spiegel.de/ausland/fall-gisele-pelicot-urteile-im-vergewaltigungsprozess-von-avignon-428-jahre-gefaengnis](https://www.spiegel.de/ausland/fall-gisele-pelicot-urteile-im-vergewaltigungsprozess-von-avignon-428-jahre-gefaengnis-a-06c0d459-d720-4f4f-9f7b-dad6134ca389#ref=rss)
+* [https://www.spiegel.de/ausland/fall-gisele-pelicot-urteile-im-vergewaltigungs-prozess-von-avignon-das-ende-einer-tortur](https://www.spiegel.de/ausland/fall-gisele-pelicot-urteile-im-vergewaltigungs-prozess-von-avignon-das-ende-einer-tortur-a-f0e5498b-ed10-40c1-a3e6-6bedf7b7dc37#ref=rss)
+### gefängnis
+
+* [https://www.spiegel.de/ausland/fall-gisele-pelicot-urteile-im-vergewaltigungsprozess-von-avignon-428-jahre-gefaengnis](https://www.spiegel.de/ausland/fall-gisele-pelicot-urteile-im-vergewaltigungsprozess-von-avignon-428-jahre-gefaengnis-a-06c0d459-d720-4f4f-9f7b-dad6134ca389#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-avignon-prozess-wladimir-putin-donald-trump](https://www.spiegel.de/politik/deutschland/news-des-tages-avignon-prozess-wladimir-putin-donald-trump-a-706c2036-96f0-4f08-b7ef-7860a9606c55#ref=rss)
+### grundsteuer
+
+* [https://www.spiegel.de/wirtschaft/grundsteuer-steuerzahler-ohne-bescheid-wie-umgehen-mit-der-neuen-regelung](https://www.spiegel.de/wirtschaft/grundsteuer-steuerzahler-ohne-bescheid-wie-umgehen-mit-der-neuen-regelung-a-80a70274-a9cb-434a-b74a-d31b704f3d0b#ref=rss)
+### bescheid
+
+* [https://www.spiegel.de/wirtschaft/grundsteuer-steuerzahler-ohne-bescheid-wie-umgehen-mit-der-neuen-regelung](https://www.spiegel.de/wirtschaft/grundsteuer-steuerzahler-ohne-bescheid-wie-umgehen-mit-der-neuen-regelung-a-80a70274-a9cb-434a-b74a-d31b704f3d0b#ref=rss)
+### umgehen
+
+* [https://www.spiegel.de/wirtschaft/grundsteuer-steuerzahler-ohne-bescheid-wie-umgehen-mit-der-neuen-regelung](https://www.spiegel.de/wirtschaft/grundsteuer-steuerzahler-ohne-bescheid-wie-umgehen-mit-der-neuen-regelung-a-80a70274-a9cb-434a-b74a-d31b704f3d0b#ref=rss)
+### eigentlich
+
+* [https://www.spiegel.de/wirtschaft/grundsteuer-steuerzahler-ohne-bescheid-wie-umgehen-mit-der-neuen-regelung](https://www.spiegel.de/wirtschaft/grundsteuer-steuerzahler-ohne-bescheid-wie-umgehen-mit-der-neuen-regelung-a-80a70274-a9cb-434a-b74a-d31b704f3d0b#ref=rss)
+* [https://www.spiegel.de/ausland/geboren-im-frieden-gestorben-im-krieg-was-wurde-aus-kindern-von-mariupol-spiegel-tv](https://www.spiegel.de/ausland/geboren-im-frieden-gestorben-im-krieg-was-wurde-aus-kindern-von-mariupol-spiegel-tv-a-a76e8f95-d398-4978-b311-aa7e37ac4f0a#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/wirtschaft/grundsteuer-steuerzahler-ohne-bescheid-wie-umgehen-mit-der-neuen-regelung](https://www.spiegel.de/wirtschaft/grundsteuer-steuerzahler-ohne-bescheid-wie-umgehen-mit-der-neuen-regelung-a-80a70274-a9cb-434a-b74a-d31b704f3d0b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-alle-vier-kanzlerkandidaten-bei-mehrheit-der-deutschen-unbeliebt](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-alle-vier-kanzlerkandidaten-bei-mehrheit-der-deutschen-unbeliebt-a-ed772fe3-095a-4ad2-b5b2-c2bf67085fc6#ref=rss)
+### viele
+
+* [https://www.spiegel.de/wirtschaft/grundsteuer-steuerzahler-ohne-bescheid-wie-umgehen-mit-der-neuen-regelung](https://www.spiegel.de/wirtschaft/grundsteuer-steuerzahler-ohne-bescheid-wie-umgehen-mit-der-neuen-regelung-a-80a70274-a9cb-434a-b74a-d31b704f3d0b#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/kita-misere-in-deutschland-traenen-wutanfaelle-erschoepfung-so-fuehlt-sich-kita-wirklich-an](https://www.spiegel.de/panorama/bildung/kita-misere-in-deutschland-traenen-wutanfaelle-erschoepfung-so-fuehlt-sich-kita-wirklich-an-a-dd8cfeaa-07b7-4eca-9880-36d4f35b5428#ref=rss)
+### olaf
+
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-mann-wegen-gefaehrdung-des-strassenverkehrs-und-hausfriedensbruch-nach-rollfeld-vorfall-angeklagt](https://www.spiegel.de/politik/deutschland/olaf-scholz-mann-wegen-gefaehrdung-des-strassenverkehrs-und-hausfriedensbruch-nach-rollfeld-vorfall-angeklagt-a-bd112b9b-d77a-4630-bdff-3c88ea2ed0ac#ref=rss)
+### gefährdung
+
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-mann-wegen-gefaehrdung-des-strassenverkehrs-und-hausfriedensbruch-nach-rollfeld-vorfall-angeklagt](https://www.spiegel.de/politik/deutschland/olaf-scholz-mann-wegen-gefaehrdung-des-strassenverkehrs-und-hausfriedensbruch-nach-rollfeld-vorfall-angeklagt-a-bd112b9b-d77a-4630-bdff-3c88ea2ed0ac#ref=rss)
+### straßenverkehrs
+
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-mann-wegen-gefaehrdung-des-strassenverkehrs-und-hausfriedensbruch-nach-rollfeld-vorfall-angeklagt](https://www.spiegel.de/politik/deutschland/olaf-scholz-mann-wegen-gefaehrdung-des-strassenverkehrs-und-hausfriedensbruch-nach-rollfeld-vorfall-angeklagt-a-bd112b9b-d77a-4630-bdff-3c88ea2ed0ac#ref=rss)
+### hausfriedensbruch
+
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-mann-wegen-gefaehrdung-des-strassenverkehrs-und-hausfriedensbruch-nach-rollfeld-vorfall-angeklagt](https://www.spiegel.de/politik/deutschland/olaf-scholz-mann-wegen-gefaehrdung-des-strassenverkehrs-und-hausfriedensbruch-nach-rollfeld-vorfall-angeklagt-a-bd112b9b-d77a-4630-bdff-3c88ea2ed0ac#ref=rss)
+### prozess
+
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-mann-wegen-gefaehrdung-des-strassenverkehrs-und-hausfriedensbruch-nach-rollfeld-vorfall-angeklagt](https://www.spiegel.de/politik/deutschland/olaf-scholz-mann-wegen-gefaehrdung-des-strassenverkehrs-und-hausfriedensbruch-nach-rollfeld-vorfall-angeklagt-a-bd112b9b-d77a-4630-bdff-3c88ea2ed0ac#ref=rss)
+* [https://www.spiegel.de/ausland/fall-gisele-pelicot-urteile-im-vergewaltigungs-prozess-von-avignon-das-ende-einer-tortur](https://www.spiegel.de/ausland/fall-gisele-pelicot-urteile-im-vergewaltigungs-prozess-von-avignon-das-ende-einer-tortur-a-f0e5498b-ed10-40c1-a3e6-6bedf7b7dc37#ref=rss)
+### kanzlerkandidaten
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-alle-vier-kanzlerkandidaten-bei-mehrheit-der-deutschen-unbeliebt](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-alle-vier-kanzlerkandidaten-bei-mehrheit-der-deutschen-unbeliebt-a-ed772fe3-095a-4ad2-b5b2-c2bf67085fc6#ref=rss)
+* [https://www.spiegel.de/kultur/tv/ard-und-zdf-kuendigen-weitere-tv-runden-mit-kanzlerkandidaten-an](https://www.spiegel.de/kultur/tv/ard-und-zdf-kuendigen-weitere-tv-runden-mit-kanzlerkandidaten-an-a-8effd39b-8258-470c-9e82-9cb6262330b5#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-alle-vier-kanzlerkandidaten-bei-mehrheit-der-deutschen-unbeliebt](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-alle-vier-kanzlerkandidaten-bei-mehrheit-der-deutschen-unbeliebt-a-ed772fe3-095a-4ad2-b5b2-c2bf67085fc6#ref=rss)
+### krieg
+
+* [https://www.spiegel.de/ausland/geboren-im-frieden-gestorben-im-krieg-was-wurde-aus-kindern-von-mariupol-spiegel-tv](https://www.spiegel.de/ausland/geboren-im-frieden-gestorben-im-krieg-was-wurde-aus-kindern-von-mariupol-spiegel-tv-a-a76e8f95-d398-4978-b311-aa7e37ac4f0a#ref=rss)
+### spiegel
+
+* [https://www.spiegel.de/ausland/geboren-im-frieden-gestorben-im-krieg-was-wurde-aus-kindern-von-mariupol-spiegel-tv](https://www.spiegel.de/ausland/geboren-im-frieden-gestorben-im-krieg-was-wurde-aus-kindern-von-mariupol-spiegel-tv-a-a76e8f95-d398-4978-b311-aa7e37ac4f0a#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/eklat-in-berliner-gericht-clan-krimineller-schlaegt-spiegel-tv-reporter-nieder](https://www.spiegel.de/panorama/justiz/eklat-in-berliner-gericht-clan-krimineller-schlaegt-spiegel-tv-reporter-nieder-a-4241b526-0356-4990-82f0-1e2e303ef7fd#ref=rss)
+### tv
+
+* [https://www.spiegel.de/ausland/geboren-im-frieden-gestorben-im-krieg-was-wurde-aus-kindern-von-mariupol-spiegel-tv](https://www.spiegel.de/ausland/geboren-im-frieden-gestorben-im-krieg-was-wurde-aus-kindern-von-mariupol-spiegel-tv-a-a76e8f95-d398-4978-b311-aa7e37ac4f0a#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/eklat-in-berliner-gericht-clan-krimineller-schlaegt-spiegel-tv-reporter-nieder](https://www.spiegel.de/panorama/justiz/eklat-in-berliner-gericht-clan-krimineller-schlaegt-spiegel-tv-reporter-nieder-a-4241b526-0356-4990-82f0-1e2e303ef7fd#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/geboren-im-frieden-gestorben-im-krieg-was-wurde-aus-kindern-von-mariupol-spiegel-tv](https://www.spiegel.de/ausland/geboren-im-frieden-gestorben-im-krieg-was-wurde-aus-kindern-von-mariupol-spiegel-tv-a-a76e8f95-d398-4978-b311-aa7e37ac4f0a#ref=rss)
+* [https://www.spiegel.de/ausland/russland-wladimir-putins-thesen-zu-syrien-wirtschaft-und-geburtenrate-im-faktencheck](https://www.spiegel.de/ausland/russland-wladimir-putins-thesen-zu-syrien-wirtschaft-und-geburtenrate-im-faktencheck-a-66cc92ae-9c2c-4994-8719-ce705a6d51fa#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/geboren-im-frieden-gestorben-im-krieg-was-wurde-aus-kindern-von-mariupol-spiegel-tv](https://www.spiegel.de/ausland/geboren-im-frieden-gestorben-im-krieg-was-wurde-aus-kindern-von-mariupol-spiegel-tv-a-a76e8f95-d398-4978-b311-aa7e37ac4f0a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-avignon-prozess-wladimir-putin-donald-trump](https://www.spiegel.de/politik/deutschland/news-des-tages-avignon-prozess-wladimir-putin-donald-trump-a-706c2036-96f0-4f08-b7ef-7860a9606c55#ref=rss)
+### welt
+
+* [https://www.spiegel.de/panorama/spanien-bild-von-google-street-view-fuehrt-zu-mutmasslichem-moerder](https://www.spiegel.de/panorama/spanien-bild-von-google-street-view-fuehrt-zu-mutmasslichem-moerder-a-e811295a-61a4-4d72-a43b-485d011928c9#ref=rss)
+* [https://www.spiegel.de/ausland/russland-wladimir-putins-thesen-zu-syrien-wirtschaft-und-geburtenrate-im-faktencheck](https://www.spiegel.de/ausland/russland-wladimir-putins-thesen-zu-syrien-wirtschaft-und-geburtenrate-im-faktencheck-a-66cc92ae-9c2c-4994-8719-ce705a6d51fa#ref=rss)
+### gerade
+
+* [https://www.spiegel.de/panorama/spanien-bild-von-google-street-view-fuehrt-zu-mutmasslichem-moerder](https://www.spiegel.de/panorama/spanien-bild-von-google-street-view-fuehrt-zu-mutmasslichem-moerder-a-e811295a-61a4-4d72-a43b-485d011928c9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/riedbahn-oberleitungsschaden-auf-strecke-nur-tage-nach-sanierung](https://www.spiegel.de/wirtschaft/service/riedbahn-oberleitungsschaden-auf-strecke-nur-tage-nach-sanierung-a-f691d31d-df79-4852-8b41-7d2812464202#ref=rss)
+### weiße
+
+* [https://www.spiegel.de/wissenschaft/natur/weisse-weihnachten-wie-stehen-die-chancen-2024](https://www.spiegel.de/wissenschaft/natur/weisse-weihnachten-wie-stehen-die-chancen-2024-a-d839bdd7-12f6-43bf-9935-8e37e6728522#ref=rss)
+### weihnachten
+
+* [https://www.spiegel.de/wissenschaft/natur/weisse-weihnachten-wie-stehen-die-chancen-2024](https://www.spiegel.de/wissenschaft/natur/weisse-weihnachten-wie-stehen-die-chancen-2024-a-d839bdd7-12f6-43bf-9935-8e37e6728522#ref=rss)
+### urteil
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-avignon-prozess-wladimir-putin-donald-trump](https://www.spiegel.de/politik/deutschland/news-des-tages-avignon-prozess-wladimir-putin-donald-trump-a-706c2036-96f0-4f08-b7ef-7860a9606c55#ref=rss)
+* [https://www.spiegel.de/ausland/gisele-pelicot-reaktionen-auf-das-urteil-im-vergewaltigungsprozess-in-avignon](https://www.spiegel.de/ausland/gisele-pelicot-reaktionen-auf-das-urteil-im-vergewaltigungsprozess-in-avignon-a-03c12d5f-20e4-4a90-b990-462d11494581#ref=rss)
+### putins
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-avignon-prozess-wladimir-putin-donald-trump](https://www.spiegel.de/politik/deutschland/news-des-tages-avignon-prozess-wladimir-putin-donald-trump-a-706c2036-96f0-4f08-b7ef-7860a9606c55#ref=rss)
+* [https://www.spiegel.de/ausland/russland-wladimir-putins-thesen-zu-syrien-wirtschaft-und-geburtenrate-im-faktencheck](https://www.spiegel.de/ausland/russland-wladimir-putins-thesen-zu-syrien-wirtschaft-und-geburtenrate-im-faktencheck-a-66cc92ae-9c2c-4994-8719-ce705a6d51fa#ref=rss)
+### putin
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-avignon-prozess-wladimir-putin-donald-trump](https://www.spiegel.de/politik/deutschland/news-des-tages-avignon-prozess-wladimir-putin-donald-trump-a-706c2036-96f0-4f08-b7ef-7860a9606c55#ref=rss)
+* [https://www.spiegel.de/ausland/russland-wladimir-putins-thesen-zu-syrien-wirtschaft-und-geburtenrate-im-faktencheck](https://www.spiegel.de/ausland/russland-wladimir-putins-thesen-zu-syrien-wirtschaft-und-geburtenrate-im-faktencheck-a-66cc92ae-9c2c-4994-8719-ce705a6d51fa#ref=rss)
+### lage
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-avignon-prozess-wladimir-putin-donald-trump](https://www.spiegel.de/politik/deutschland/news-des-tages-avignon-prozess-wladimir-putin-donald-trump-a-706c2036-96f0-4f08-b7ef-7860a9606c55#ref=rss)
+### justin
+
+* [https://www.spiegel.de/ausland/justin-trudeau-aus-kanada-in-der-krise-der-politstar-ist-am-ende](https://www.spiegel.de/ausland/justin-trudeau-aus-kanada-in-der-krise-der-politstar-ist-am-ende-a-b2663fcf-8b15-4a90-a6a3-894516b78da6#ref=rss)
+### trudeau
+
+* [https://www.spiegel.de/ausland/justin-trudeau-aus-kanada-in-der-krise-der-politstar-ist-am-ende](https://www.spiegel.de/ausland/justin-trudeau-aus-kanada-in-der-krise-der-politstar-ist-am-ende-a-b2663fcf-8b15-4a90-a6a3-894516b78da6#ref=rss)
+### kanada
+
+* [https://www.spiegel.de/ausland/justin-trudeau-aus-kanada-in-der-krise-der-politstar-ist-am-ende](https://www.spiegel.de/ausland/justin-trudeau-aus-kanada-in-der-krise-der-politstar-ist-am-ende-a-b2663fcf-8b15-4a90-a6a3-894516b78da6#ref=rss)
+### ende
+
+* [https://www.spiegel.de/ausland/justin-trudeau-aus-kanada-in-der-krise-der-politstar-ist-am-ende](https://www.spiegel.de/ausland/justin-trudeau-aus-kanada-in-der-krise-der-politstar-ist-am-ende-a-b2663fcf-8b15-4a90-a6a3-894516b78da6#ref=rss)
+* [https://www.spiegel.de/ausland/fall-gisele-pelicot-urteile-im-vergewaltigungs-prozess-von-avignon-das-ende-einer-tortur](https://www.spiegel.de/ausland/fall-gisele-pelicot-urteile-im-vergewaltigungs-prozess-von-avignon-das-ende-einer-tortur-a-f0e5498b-ed10-40c1-a3e6-6bedf7b7dc37#ref=rss)
+### trumps
+
+* [https://www.spiegel.de/ausland/justin-trudeau-aus-kanada-in-der-krise-der-politstar-ist-am-ende](https://www.spiegel.de/ausland/justin-trudeau-aus-kanada-in-der-krise-der-politstar-ist-am-ende-a-b2663fcf-8b15-4a90-a6a3-894516b78da6#ref=rss)
+* [https://www.spiegel.de/ausland/usa-joe-biden-legt-vor-donald-trumps-uebernahme-neue-klimaziele-vor](https://www.spiegel.de/ausland/usa-joe-biden-legt-vor-donald-trumps-uebernahme-neue-klimaziele-vor-a-db7777a4-4f25-465b-a9ae-1dd7b956ee22#ref=rss)
+### großen
+
+* [https://www.spiegel.de/ausland/justin-trudeau-aus-kanada-in-der-krise-der-politstar-ist-am-ende](https://www.spiegel.de/ausland/justin-trudeau-aus-kanada-in-der-krise-der-politstar-ist-am-ende-a-b2663fcf-8b15-4a90-a6a3-894516b78da6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/parteispenden-tracker-das-nehmen-cdu-spd-und-co-im-wahlkampf-ein](https://www.spiegel.de/politik/deutschland/parteispenden-tracker-das-nehmen-cdu-spd-und-co-im-wahlkampf-ein-a-b503718d-c483-4f98-867c-9f9aac012084#ref=rss)
+### usa
+
+* [https://www.spiegel.de/ausland/justin-trudeau-aus-kanada-in-der-krise-der-politstar-ist-am-ende](https://www.spiegel.de/ausland/justin-trudeau-aus-kanada-in-der-krise-der-politstar-ist-am-ende-a-b2663fcf-8b15-4a90-a6a3-894516b78da6#ref=rss)
+* [https://www.spiegel.de/ausland/usa-joe-biden-legt-vor-donald-trumps-uebernahme-neue-klimaziele-vor](https://www.spiegel.de/ausland/usa-joe-biden-legt-vor-donald-trumps-uebernahme-neue-klimaziele-vor-a-db7777a4-4f25-465b-a9ae-1dd7b956ee22#ref=rss)
+### andere
+
+* [https://www.spiegel.de/ausland/justin-trudeau-aus-kanada-in-der-krise-der-politstar-ist-am-ende](https://www.spiegel.de/ausland/justin-trudeau-aus-kanada-in-der-krise-der-politstar-ist-am-ende-a-b2663fcf-8b15-4a90-a6a3-894516b78da6#ref=rss)
+* [https://www.spiegel.de/kultur/kino/cynthia-erivo-schauspielerin-gestaltete-style-ihres-wicked-charakters-mit](https://www.spiegel.de/kultur/kino/cynthia-erivo-schauspielerin-gestaltete-style-ihres-wicked-charakters-mit-a-4f3d1e4c-b38d-4be1-be16-efe94093d305#ref=rss)
+### bundesinnenministerium
+
+* [https://www.spiegel.de/panorama/syrien-asyl-und-migration-bundesinnenministerium-plant-neue-regelungen-fuer-gefluechtete](https://www.spiegel.de/panorama/syrien-asyl-und-migration-bundesinnenministerium-plant-neue-regelungen-fuer-gefluechtete-a-6f282d91-3c6a-4310-9ecc-ff0dd8c922d8#ref=rss)
+### schauspielerin
+
+* [https://www.spiegel.de/kultur/kino/cynthia-erivo-schauspielerin-gestaltete-style-ihres-wicked-charakters-mit](https://www.spiegel.de/kultur/kino/cynthia-erivo-schauspielerin-gestaltete-style-ihres-wicked-charakters-mit-a-4f3d1e4c-b38d-4be1-be16-efe94093d305#ref=rss)
+### style
+
+* [https://www.spiegel.de/kultur/kino/cynthia-erivo-schauspielerin-gestaltete-style-ihres-wicked-charakters-mit](https://www.spiegel.de/kultur/kino/cynthia-erivo-schauspielerin-gestaltete-style-ihres-wicked-charakters-mit-a-4f3d1e4c-b38d-4be1-be16-efe94093d305#ref=rss)
+### selbst
+
+* [https://www.spiegel.de/kultur/kino/cynthia-erivo-schauspielerin-gestaltete-style-ihres-wicked-charakters-mit](https://www.spiegel.de/kultur/kino/cynthia-erivo-schauspielerin-gestaltete-style-ihres-wicked-charakters-mit-a-4f3d1e4c-b38d-4be1-be16-efe94093d305#ref=rss)
+* [https://www.spiegel.de/ausland/fall-gisele-pelicot-urteile-im-vergewaltigungs-prozess-von-avignon-das-ende-einer-tortur](https://www.spiegel.de/ausland/fall-gisele-pelicot-urteile-im-vergewaltigungs-prozess-von-avignon-das-ende-einer-tortur-a-f0e5498b-ed10-40c1-a3e6-6bedf7b7dc37#ref=rss)
+### mieter
+
+* [https://www.spiegel.de/wirtschaft/elbtower-in-hamburg-naturkundemuseum-als-zentraler-mieter-in-verhandlungen-weit-fortgeschritten](https://www.spiegel.de/wirtschaft/elbtower-in-hamburg-naturkundemuseum-als-zentraler-mieter-in-verhandlungen-weit-fortgeschritten-a-1e4570a0-14de-4916-bcdf-a36ca7608d7e#ref=rss)
+### hamburger
+
+* [https://www.spiegel.de/wirtschaft/elbtower-in-hamburg-naturkundemuseum-als-zentraler-mieter-in-verhandlungen-weit-fortgeschritten](https://www.spiegel.de/wirtschaft/elbtower-in-hamburg-naturkundemuseum-als-zentraler-mieter-in-verhandlungen-weit-fortgeschritten-a-1e4570a0-14de-4916-bcdf-a36ca7608d7e#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/kita-misere-in-deutschland-traenen-wutanfaelle-erschoepfung-so-fuehlt-sich-kita-wirklich-an](https://www.spiegel.de/panorama/bildung/kita-misere-in-deutschland-traenen-wutanfaelle-erschoepfung-so-fuehlt-sich-kita-wirklich-an-a-dd8cfeaa-07b7-4eca-9880-36d4f35b5428#ref=rss)
+### wirtschaft
+
+* [https://www.spiegel.de/ausland/russland-wladimir-putins-thesen-zu-syrien-wirtschaft-und-geburtenrate-im-faktencheck](https://www.spiegel.de/ausland/russland-wladimir-putins-thesen-zu-syrien-wirtschaft-und-geburtenrate-im-faktencheck-a-66cc92ae-9c2c-4994-8719-ce705a6d51fa#ref=rss)
+### faktencheck
+
+* [https://www.spiegel.de/ausland/russland-wladimir-putins-thesen-zu-syrien-wirtschaft-und-geburtenrate-im-faktencheck](https://www.spiegel.de/ausland/russland-wladimir-putins-thesen-zu-syrien-wirtschaft-und-geburtenrate-im-faktencheck-a-66cc92ae-9c2c-4994-8719-ce705a6d51fa#ref=rss)
+### biden
+
+* [https://www.spiegel.de/ausland/usa-joe-biden-legt-vor-donald-trumps-uebernahme-neue-klimaziele-vor](https://www.spiegel.de/ausland/usa-joe-biden-legt-vor-donald-trumps-uebernahme-neue-klimaziele-vor-a-db7777a4-4f25-465b-a9ae-1dd7b956ee22#ref=rss)
+### klimaziele
+
+* [https://www.spiegel.de/ausland/usa-joe-biden-legt-vor-donald-trumps-uebernahme-neue-klimaziele-vor](https://www.spiegel.de/ausland/usa-joe-biden-legt-vor-donald-trumps-uebernahme-neue-klimaziele-vor-a-db7777a4-4f25-465b-a9ae-1dd7b956ee22#ref=rss)
+### allerdings
+
+* [https://www.spiegel.de/ausland/usa-joe-biden-legt-vor-donald-trumps-uebernahme-neue-klimaziele-vor](https://www.spiegel.de/ausland/usa-joe-biden-legt-vor-donald-trumps-uebernahme-neue-klimaziele-vor-a-db7777a4-4f25-465b-a9ae-1dd7b956ee22#ref=rss)
+* [https://www.spiegel.de/auto/abgasvorschriften-autobauer-drohen-milliardenstrafen-scholz-will-helfen](https://www.spiegel.de/auto/abgasvorschriften-autobauer-drohen-milliardenstrafen-scholz-will-helfen-a-213973a4-e386-4c3a-a069-48460d37650a#ref=rss)
+### bisphenol
+
+* [https://www.spiegel.de/wissenschaft/mensch/eu-kommission-verbietet-bisphenol-a-in-lebensmittelverpackungen](https://www.spiegel.de/wissenschaft/mensch/eu-kommission-verbietet-bisphenol-a-in-lebensmittelverpackungen-a-ee4d75bd-704a-4238-bc17-ea7bed72a98e#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/panorama/justiz/eklat-in-berliner-gericht-clan-krimineller-schlaegt-spiegel-tv-reporter-nieder](https://www.spiegel.de/panorama/justiz/eklat-in-berliner-gericht-clan-krimineller-schlaegt-spiegel-tv-reporter-nieder-a-4241b526-0356-4990-82f0-1e2e303ef7fd#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hessen-mann-muss-190-000-euro-an-ehemalige-schwiegereltern-zurueckzahlen](https://www.spiegel.de/panorama/justiz/hessen-mann-muss-190-000-euro-an-ehemalige-schwiegereltern-zurueckzahlen-a-be9ca174-9b06-44fc-969b-37200b3223eb#ref=rss)
+### reaktionen
+
+* [https://www.spiegel.de/ausland/gisele-pelicot-reaktionen-auf-das-urteil-im-vergewaltigungsprozess-in-avignon](https://www.spiegel.de/ausland/gisele-pelicot-reaktionen-auf-das-urteil-im-vergewaltigungsprozess-in-avignon-a-03c12d5f-20e4-4a90-b990-462d11494581#ref=rss)
+### schwiegereltern
+
+* [https://www.spiegel.de/panorama/justiz/hessen-mann-muss-190-000-euro-an-ehemalige-schwiegereltern-zurueckzahlen](https://www.spiegel.de/panorama/justiz/hessen-mann-muss-190-000-euro-an-ehemalige-schwiegereltern-zurueckzahlen-a-be9ca174-9b06-44fc-969b-37200b3223eb#ref=rss)
+### strecke
+
+* [https://www.spiegel.de/wirtschaft/service/riedbahn-oberleitungsschaden-auf-strecke-nur-tage-nach-sanierung](https://www.spiegel.de/wirtschaft/service/riedbahn-oberleitungsschaden-auf-strecke-nur-tage-nach-sanierung-a-f691d31d-df79-4852-8b41-7d2812464202#ref=rss)
+### kita
+
+* [https://www.spiegel.de/panorama/bildung/kita-misere-in-deutschland-traenen-wutanfaelle-erschoepfung-so-fuehlt-sich-kita-wirklich-an](https://www.spiegel.de/panorama/bildung/kita-misere-in-deutschland-traenen-wutanfaelle-erschoepfung-so-fuehlt-sich-kita-wirklich-an-a-dd8cfeaa-07b7-4eca-9880-36d4f35b5428#ref=rss)
+### abgasvorschriften
+
+* [https://www.spiegel.de/auto/abgasvorschriften-autobauer-drohen-milliardenstrafen-scholz-will-helfen](https://www.spiegel.de/auto/abgasvorschriften-autobauer-drohen-milliardenstrafen-scholz-will-helfen-a-213973a4-e386-4c3a-a069-48460d37650a#ref=rss)
+### autobauer
+
+* [https://www.spiegel.de/auto/abgasvorschriften-autobauer-drohen-milliardenstrafen-scholz-will-helfen](https://www.spiegel.de/auto/abgasvorschriften-autobauer-drohen-milliardenstrafen-scholz-will-helfen-a-213973a4-e386-4c3a-a069-48460d37650a#ref=rss)
+### drohen
+
+* [https://www.spiegel.de/auto/abgasvorschriften-autobauer-drohen-milliardenstrafen-scholz-will-helfen](https://www.spiegel.de/auto/abgasvorschriften-autobauer-drohen-milliardenstrafen-scholz-will-helfen-a-213973a4-e386-4c3a-a069-48460d37650a#ref=rss)
+### milliardenstrafen
+
+* [https://www.spiegel.de/auto/abgasvorschriften-autobauer-drohen-milliardenstrafen-scholz-will-helfen](https://www.spiegel.de/auto/abgasvorschriften-autobauer-drohen-milliardenstrafen-scholz-will-helfen-a-213973a4-e386-4c3a-a069-48460d37650a#ref=rss)
+### helfen
+
+* [https://www.spiegel.de/auto/abgasvorschriften-autobauer-drohen-milliardenstrafen-scholz-will-helfen](https://www.spiegel.de/auto/abgasvorschriften-autobauer-drohen-milliardenstrafen-scholz-will-helfen-a-213973a4-e386-4c3a-a069-48460d37650a#ref=rss)
+### bärbel
+
+* [https://www.spiegel.de/politik/deutschland/baerbel-bas-bundestagspraesidentin-beklagt-sexismus-im-plenarsaal](https://www.spiegel.de/politik/deutschland/baerbel-bas-bundestagspraesidentin-beklagt-sexismus-im-plenarsaal-a-091b45a9-3141-4602-b6cc-9af7162de4be#ref=rss)
+### bas
+
+* [https://www.spiegel.de/politik/deutschland/baerbel-bas-bundestagspraesidentin-beklagt-sexismus-im-plenarsaal](https://www.spiegel.de/politik/deutschland/baerbel-bas-bundestagspraesidentin-beklagt-sexismus-im-plenarsaal-a-091b45a9-3141-4602-b6cc-9af7162de4be#ref=rss)
 
