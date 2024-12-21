@@ -6,324 +6,377 @@ tags: __no_header__
 
 ### magdeburg
 
-* [https://www.spiegel.de/panorama/justiz/magdeburg-news-polizei-geht-von-einzeltaeter-aus-hinweise-auf-zweites-auto-nicht-bestaetigt](https://www.spiegel.de/panorama/justiz/magdeburg-news-polizei-geht-von-einzeltaeter-aus-hinweise-auf-zweites-auto-nicht-bestaetigt-a-16214d4b-1014-4648-b32a-82d11b748364#ref=rss)
-* [https://www.spiegel.de/panorama/magdeburg-news-olaf-scholz-im-livestream-reaktion-des-bundeskanzlers-auf-die-todesfahrt](https://www.spiegel.de/panorama/magdeburg-news-olaf-scholz-im-livestream-reaktion-des-bundeskanzlers-auf-die-todesfahrt-a-2cfdedb5-dd30-4f2c-807f-1879fa11a246#ref=rss)
-* [https://www.spiegel.de/politik/saudi-arabien-verurteilt-todesfahrt-auf-weihnachtsmarkt-in-magdeburg](https://www.spiegel.de/politik/saudi-arabien-verurteilt-todesfahrt-auf-weihnachtsmarkt-in-magdeburg-a-3bd65ea8-692e-4f78-a981-10e448b35a90#ref=rss)
-* [https://www.spiegel.de/panorama/was-auf-dem-weihnachtsmarkt-passierte](https://www.spiegel.de/panorama/was-auf-dem-weihnachtsmarkt-passierte-a-2ea4e810-dbb9-44cb-805d-efa1a22e9e12#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/magdeburg-die-pressestimmen-zur-todesfahrt](https://www.spiegel.de/panorama/justiz/magdeburg-die-pressestimmen-zur-todesfahrt-a-82e7b706-b960-4ce9-80dd-0b2249df8b91#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-tote-und-verletzte-in-magdeburg-weihnachtsmarkt-hamburger-bsw-elon-musk](https://www.spiegel.de/politik/deutschland/news-tote-und-verletzte-in-magdeburg-weihnachtsmarkt-hamburger-bsw-elon-musk-a-6b1a4d4d-6ac2-4df7-9a3d-67e70441f8d4#ref=rss)
-### weihnachtsmarkt
-
-* [https://www.spiegel.de/panorama/magdeburg-news-olaf-scholz-im-livestream-reaktion-des-bundeskanzlers-auf-die-todesfahrt](https://www.spiegel.de/panorama/magdeburg-news-olaf-scholz-im-livestream-reaktion-des-bundeskanzlers-auf-die-todesfahrt-a-2cfdedb5-dd30-4f2c-807f-1879fa11a246#ref=rss)
-* [https://www.spiegel.de/politik/saudi-arabien-verurteilt-todesfahrt-auf-weihnachtsmarkt-in-magdeburg](https://www.spiegel.de/politik/saudi-arabien-verurteilt-todesfahrt-auf-weihnachtsmarkt-in-magdeburg-a-3bd65ea8-692e-4f78-a981-10e448b35a90#ref=rss)
-* [https://www.spiegel.de/panorama/was-auf-dem-weihnachtsmarkt-passierte](https://www.spiegel.de/panorama/was-auf-dem-weihnachtsmarkt-passierte-a-2ea4e810-dbb9-44cb-805d-efa1a22e9e12#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-tote-und-verletzte-in-magdeburg-weihnachtsmarkt-hamburger-bsw-elon-musk](https://www.spiegel.de/politik/deutschland/news-tote-und-verletzte-in-magdeburg-weihnachtsmarkt-hamburger-bsw-elon-musk-a-6b1a4d4d-6ac2-4df7-9a3d-67e70441f8d4#ref=rss)
-### todesfahrt
-
-* [https://www.spiegel.de/panorama/magdeburg-news-olaf-scholz-im-livestream-reaktion-des-bundeskanzlers-auf-die-todesfahrt](https://www.spiegel.de/panorama/magdeburg-news-olaf-scholz-im-livestream-reaktion-des-bundeskanzlers-auf-die-todesfahrt-a-2cfdedb5-dd30-4f2c-807f-1879fa11a246#ref=rss)
-* [https://www.spiegel.de/politik/saudi-arabien-verurteilt-todesfahrt-auf-weihnachtsmarkt-in-magdeburg](https://www.spiegel.de/politik/saudi-arabien-verurteilt-todesfahrt-auf-weihnachtsmarkt-in-magdeburg-a-3bd65ea8-692e-4f78-a981-10e448b35a90#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/magdeburg-die-pressestimmen-zur-todesfahrt](https://www.spiegel.de/panorama/justiz/magdeburg-die-pressestimmen-zur-todesfahrt-a-82e7b706-b960-4ce9-80dd-0b2249df8b91#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-tote-und-verletzte-in-magdeburg-weihnachtsmarkt-hamburger-bsw-elon-musk](https://www.spiegel.de/politik/deutschland/news-tote-und-verletzte-in-magdeburg-weihnachtsmarkt-hamburger-bsw-elon-musk-a-6b1a4d4d-6ac2-4df7-9a3d-67e70441f8d4#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wirtschaft/service/vorbereitung-auf-silvester-umso-knapper-die-kassen-sind-desto-mehr-feuerwerk-wird-gekauft](https://www.spiegel.de/wirtschaft/service/vorbereitung-auf-silvester-umso-knapper-die-kassen-sind-desto-mehr-feuerwerk-wird-gekauft-a-981656b6-930a-4e40-9622-bc804af629ae#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bahn-verspaetungen-fuehren-2024-zu-umsatzverlust-von-700-millionen-euro](https://www.spiegel.de/wirtschaft/bahn-verspaetungen-fuehren-2024-zu-umsatzverlust-von-700-millionen-euro-a-0c4691b1-cd77-4292-91c2-f8a98a0607a0#ref=rss)
-* [https://www.spiegel.de/panorama/sophia-thomalla-die-frau-die-veganer-radfahrer-und-gender-aktivistinnen-aufregt](https://www.spiegel.de/panorama/sophia-thomalla-die-frau-die-veganer-radfahrer-und-gender-aktivistinnen-aufregt-a-17b42302-1902-4b52-9ffa-51ed60211586#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-in-nahost-mehr-als-ein-dutzend-verletzte-in-israel-nach-einschlag-von-geschoss-aus-dem-jemen](https://www.spiegel.de/ausland/krieg-in-nahost-mehr-als-ein-dutzend-verletzte-in-israel-nach-einschlag-von-geschoss-aus-dem-jemen-a-2c9626ea-d6db-4ab3-8fee-f18f228207a5#ref=rss)
-### moskau
-
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-meldet-drohnenangriff-auf-kasan-im-landesinneren](https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-meldet-drohnenangriff-auf-kasan-im-landesinneren-a-5997a3b9-2bee-40b8-ba5f-6b5d0aad3f4b#ref=rss)
-* [https://www.spiegel.de/ausland/russland-und-ukraine-tauschen-weihnachtspakete-und-briefe-fuer-gefangene-aus](https://www.spiegel.de/ausland/russland-und-ukraine-tauschen-weihnachtspakete-und-briefe-fuer-gefangene-aus-a-e2ad4a3f-4d67-4dda-b132-d32a0f3fab3b#ref=rss)
+* [https://www.spiegel.de/panorama/magdeburg-augenzeugen-schildern-die-dramatischen-szenen-auf-dem-weihnachtsmarkt](https://www.spiegel.de/panorama/magdeburg-augenzeugen-schildern-die-dramatischen-szenen-auf-dem-weihnachtsmarkt-a-8a162a94-1189-4178-a582-1ce407c3a87c#ref=rss)
+* [https://www.spiegel.de/panorama/magdeburg-aktueller-stand-der-ermittlungen-zur-todesfahrt-im-livestream](https://www.spiegel.de/panorama/magdeburg-aktueller-stand-der-ermittlungen-zur-todesfahrt-im-livestream-a-b81b1d7d-17e0-484d-b0d6-b3b5eccc9e8c#ref=rss)
+* [https://www.spiegel.de/panorama/magdeburg-attentaeter-vom-weihnachtsmarkt-wurde-bereits-2013-verurteilt](https://www.spiegel.de/panorama/magdeburg-attentaeter-vom-weihnachtsmarkt-wurde-bereits-2013-verurteilt-a-57963a33-3325-422a-8fd5-3cfc5248a00d#ref=rss)
+* [https://www.spiegel.de/panorama/zehn-minuten-nachdem-wir-los-sind-hat-es-geknallt](https://www.spiegel.de/panorama/zehn-minuten-nachdem-wir-los-sind-hat-es-geknallt-a-e191c022-f59f-4ae8-9ee4-a0a36eea46f0#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/ausland/iran-afghanistan-tadschikistan-millionen-feiern-persische-jalda-nacht](https://www.spiegel.de/ausland/iran-afghanistan-tadschikistan-millionen-feiern-persische-jalda-nacht-a-147010d6-c48e-4f24-83b3-81b4c5adb276#ref=rss)
-* [https://www.spiegel.de/ausland/gute-nachrichten-wie-ueberlebende-des-tsunamis-von-2004-trost-fanden-alles-gute-vom-spiegel](https://www.spiegel.de/ausland/gute-nachrichten-wie-ueberlebende-des-tsunamis-von-2004-trost-fanden-alles-gute-vom-spiegel-a-10e63c9c-ce3a-4ab3-a1aa-31a6e0733e5d#ref=rss)
-* [https://www.spiegel.de/partnerschaft/bad-segeberg-und-seine-autokennzeichen-wie-ich-auf-humorvolle-menschen-traf-deren-autos-das-kennzeichen-se-xy-tragen](https://www.spiegel.de/partnerschaft/bad-segeberg-und-seine-autokennzeichen-wie-ich-auf-humorvolle-menschen-traf-deren-autos-das-kennzeichen-se-xy-tragen-a-0b2e9e87-9a32-4ea9-8a14-b604510f751b#ref=rss)
+* [https://www.spiegel.de/panorama/stonehenge-tausende-feiern-wintersonnenwende](https://www.spiegel.de/panorama/stonehenge-tausende-feiern-wintersonnenwende-a-62588960-2f81-416b-8a10-e39361b7da98#ref=rss)
+* [https://www.spiegel.de/panorama/online-shopping-vor-weihnachten-warum-ist-im-paket-so-viel-luft-und-so-wenig-inhalt](https://www.spiegel.de/panorama/online-shopping-vor-weihnachten-warum-ist-im-paket-so-viel-luft-und-so-wenig-inhalt-a-f073890d-500d-4b11-8ae8-96864ddbdab5#ref=rss)
+* [https://www.spiegel.de/start/kampf-um-die-sorbische-kultur-junge-sorben-zwischen-trachten-und-techno](https://www.spiegel.de/start/kampf-um-die-sorbische-kultur-junge-sorben-zwischen-trachten-und-techno-a-905273b1-90c5-4c57-8551-4800e29ba3f4#ref=rss)
+* [https://www.spiegel.de/wissenschaft/us-arzneimittelbehoerde-fda-laesst-medikament-zepbound-zur-behandlung-bei-schlafapnoe-zu](https://www.spiegel.de/wissenschaft/us-arzneimittelbehoerde-fda-laesst-medikament-zepbound-zur-behandlung-bei-schlafapnoe-zu-a-fedf4f06-7829-4f73-9626-00a0a79a1859#ref=rss)
+### wir
+
+* [https://www.spiegel.de/familie/gelassenheit-wie-werden-wir-geduldiger-best-of-smarter-leben-podcast-mit-leon-windscheid](https://www.spiegel.de/familie/gelassenheit-wie-werden-wir-geduldiger-best-of-smarter-leben-podcast-mit-leon-windscheid-a-655bf60c-b3f6-4bce-81e6-6cb2f2cdb5b8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/immo-tommy-der-gefaehrliche-vertrauensbonus-fuer-gehypte-influencer](https://www.spiegel.de/wirtschaft/immo-tommy-der-gefaehrliche-vertrauensbonus-fuer-gehypte-influencer-a-20b57061-db51-4ba6-a872-c2b4dad65a61#ref=rss)
+* [https://www.spiegel.de/tests/brettspiele/alberne-partypiele-miezekatze-ich-habe-fertig-beat-that-mafia-minze-molch-flieg-schweinchen-flieg](https://www.spiegel.de/tests/brettspiele/alberne-partypiele-miezekatze-ich-habe-fertig-beat-that-mafia-minze-molch-flieg-schweinchen-flieg-a-315de7a2-36c5-4eec-a734-95e998aa3e74#ref=rss)
+* [https://www.spiegel.de/panorama/zehn-minuten-nachdem-wir-los-sind-hat-es-geknallt](https://www.spiegel.de/panorama/zehn-minuten-nachdem-wir-los-sind-hat-es-geknallt-a-e191c022-f59f-4ae8-9ee4-a0a36eea46f0#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/ausland/island-sozialdemokratin-kristrun-frostadottir-wird-neue-ministerpraesidentin-von-island](https://www.spiegel.de/ausland/island-sozialdemokratin-kristrun-frostadottir-wird-neue-ministerpraesidentin-von-island-a-7a119016-3a62-44ac-966a-4d745f23e7bc#ref=rss)
+* [https://www.spiegel.de/auto/pkw-maut-bauindustrie-fordert-pkw-maut-gegen-den-verkehrskollaps](https://www.spiegel.de/auto/pkw-maut-bauindustrie-fordert-pkw-maut-gegen-den-verkehrskollaps-a-65e3f100-23c2-4df0-88fa-c1d1d1895aad#ref=rss)
+* [https://www.spiegel.de/panorama/magdeburg-aktueller-stand-der-ermittlungen-zur-todesfahrt-im-livestream](https://www.spiegel.de/panorama/magdeburg-aktueller-stand-der-ermittlungen-zur-todesfahrt-im-livestream-a-b81b1d7d-17e0-484d-b0d6-b3b5eccc9e8c#ref=rss)
+* [https://www.spiegel.de/auto/zemmi-fahrrad-sattelzug-im-test-truck-mit-tretantrieb](https://www.spiegel.de/auto/zemmi-fahrrad-sattelzug-im-test-truck-mit-tretantrieb-a-c432b9c8-6420-4764-a719-913dff99eade#ref=rss)
+### weihnachtsmarkt
+
+* [https://www.spiegel.de/panorama/magdeburg-augenzeugen-schildern-die-dramatischen-szenen-auf-dem-weihnachtsmarkt](https://www.spiegel.de/panorama/magdeburg-augenzeugen-schildern-die-dramatischen-szenen-auf-dem-weihnachtsmarkt-a-8a162a94-1189-4178-a582-1ce407c3a87c#ref=rss)
+* [https://www.spiegel.de/panorama/magdeburg-attentaeter-vom-weihnachtsmarkt-wurde-bereits-2013-verurteilt](https://www.spiegel.de/panorama/magdeburg-attentaeter-vom-weihnachtsmarkt-wurde-bereits-2013-verurteilt-a-57963a33-3325-422a-8fd5-3cfc5248a00d#ref=rss)
+* [https://www.spiegel.de/panorama/zehn-minuten-nachdem-wir-los-sind-hat-es-geknallt](https://www.spiegel.de/panorama/zehn-minuten-nachdem-wir-los-sind-hat-es-geknallt-a-e191c022-f59f-4ae8-9ee4-a0a36eea46f0#ref=rss)
+### unter
+
+* [https://www.spiegel.de/panorama/magdeburg-attentaeter-vom-weihnachtsmarkt-wurde-bereits-2013-verurteilt](https://www.spiegel.de/panorama/magdeburg-attentaeter-vom-weihnachtsmarkt-wurde-bereits-2013-verurteilt-a-57963a33-3325-422a-8fd5-3cfc5248a00d#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-taeuschte-ein-betrueger-heinz-christian-strache](https://www.spiegel.de/ausland/oesterreich-taeuschte-ein-betrueger-heinz-christian-strache-a-abe6f411-f9fd-4f1b-982e-01d82c482d84#ref=rss)
+* [https://www.spiegel.de/start/kampf-um-die-sorbische-kultur-junge-sorben-zwischen-trachten-und-techno](https://www.spiegel.de/start/kampf-um-die-sorbische-kultur-junge-sorben-zwischen-trachten-und-techno-a-905273b1-90c5-4c57-8551-4800e29ba3f4#ref=rss)
+* [https://www.spiegel.de/panorama/zehn-minuten-nachdem-wir-los-sind-hat-es-geknallt](https://www.spiegel.de/panorama/zehn-minuten-nachdem-wir-los-sind-hat-es-geknallt-a-e191c022-f59f-4ae8-9ee4-a0a36eea46f0#ref=rss)
 ### weihnachten
 
-* [https://www.spiegel.de/stil/party-an-weihnachten-und-silvester-ein-guter-abend-ist-kein-zufall](https://www.spiegel.de/stil/party-an-weihnachten-und-silvester-ein-guter-abend-ist-kein-zufall-a-752ce124-6782-4f88-8b7b-40f846fe00b9#ref=rss)
-* [https://www.spiegel.de/kultur/last-christmas-george-michael-schafft-es-posthum-auf-platz-eins-der-weihnachts-charts](https://www.spiegel.de/kultur/last-christmas-george-michael-schafft-es-posthum-auf-platz-eins-der-weihnachts-charts-a-f4b51ef1-0654-4d0d-9ebb-7b57aa099af8#ref=rss)
-* [https://www.spiegel.de/ausland/gute-nachrichten-wie-ueberlebende-des-tsunamis-von-2004-trost-fanden-alles-gute-vom-spiegel](https://www.spiegel.de/ausland/gute-nachrichten-wie-ueberlebende-des-tsunamis-von-2004-trost-fanden-alles-gute-vom-spiegel-a-10e63c9c-ce3a-4ab3-a1aa-31a6e0733e5d#ref=rss)
-* [https://www.spiegel.de/stil/festessen-an-weihnachten-einblicke-in-die-kuechenmeisterei-deutschlands-aeltestes-kochbuch](https://www.spiegel.de/stil/festessen-an-weihnachten-einblicke-in-die-kuechenmeisterei-deutschlands-aeltestes-kochbuch-a-45046c8f-cd61-49f8-ab4b-bc407b75450f#ref=rss)
-### ich
+* [https://www.spiegel.de/panorama/weihnachten-im-bavarian-village-in-london-der-partysaenger-der-nicht-singen-kann](https://www.spiegel.de/panorama/weihnachten-im-bavarian-village-in-london-der-partysaenger-der-nicht-singen-kann-a-c50855cd-b508-403f-943c-b28d1d2c1d1a#ref=rss)
+* [https://www.spiegel.de/auto/zemmi-fahrrad-sattelzug-im-test-truck-mit-tretantrieb](https://www.spiegel.de/auto/zemmi-fahrrad-sattelzug-im-test-truck-mit-tretantrieb-a-c432b9c8-6420-4764-a719-913dff99eade#ref=rss)
+* [https://www.spiegel.de/panorama/online-shopping-vor-weihnachten-warum-ist-im-paket-so-viel-luft-und-so-wenig-inhalt](https://www.spiegel.de/panorama/online-shopping-vor-weihnachten-warum-ist-im-paket-so-viel-luft-und-so-wenig-inhalt-a-f073890d-500d-4b11-8ae8-96864ddbdab5#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/stil/party-an-weihnachten-und-silvester-ein-guter-abend-ist-kein-zufall](https://www.spiegel.de/stil/party-an-weihnachten-und-silvester-ein-guter-abend-ist-kein-zufall-a-752ce124-6782-4f88-8b7b-40f846fe00b9#ref=rss)
-* [https://www.spiegel.de/partnerschaft/bad-segeberg-und-seine-autokennzeichen-wie-ich-auf-humorvolle-menschen-traf-deren-autos-das-kennzeichen-se-xy-tragen](https://www.spiegel.de/partnerschaft/bad-segeberg-und-seine-autokennzeichen-wie-ich-auf-humorvolle-menschen-traf-deren-autos-das-kennzeichen-se-xy-tragen-a-0b2e9e87-9a32-4ea9-8a14-b604510f751b#ref=rss)
-### syrien
+* [https://www.spiegel.de/wissenschaft/technik/atomkraft-frankreich-schliesst-reaktor-flamanville-3-ans-netz-an](https://www.spiegel.de/wissenschaft/technik/atomkraft-frankreich-schliesst-reaktor-flamanville-3-ans-netz-an-a-e54d845c-30d9-4e27-8504-b74757debfab#ref=rss)
+* [https://www.spiegel.de/wirtschaft/argentinien-javier-milei-setzt-auf-atomkraft-fuer-kuenstliche-intelligenz](https://www.spiegel.de/wirtschaft/argentinien-javier-milei-setzt-auf-atomkraft-fuer-kuenstliche-intelligenz-a-d534f13c-6a25-46c2-93b8-219dcf49a53b#ref=rss)
+### tag
 
-* [https://www.spiegel.de/ausland/syrien-unter-baschar-al-assad-es-war-ein-mob-eine-regierungsmafia](https://www.spiegel.de/ausland/syrien-unter-baschar-al-assad-es-war-ein-mob-eine-regierungsmafia-a-91565e8c-0161-44a4-9633-4291d9ab8154#ref=rss)
-* [https://www.spiegel.de/ausland/russland-tschetschenenfuehrer-ramsan-kadyrow-hat-seinen-militaerischen-und-wirtschaftlichen-einfluss-vergroessert](https://www.spiegel.de/ausland/russland-tschetschenenfuehrer-ramsan-kadyrow-hat-seinen-militaerischen-und-wirtschaftlichen-einfluss-vergroessert-a-e92d7c7e-8be1-400d-9e37-ba87085700bd#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-us-militaer-toetet-is-anfuehrer-durch-luftangriff](https://www.spiegel.de/ausland/syrien-us-militaer-toetet-is-anfuehrer-durch-luftangriff-a-5310a018-589d-4380-8243-900f9cfe9e3a#ref=rss)
-### spiegel
-
-* [https://www.spiegel.de/kultur/holger-friedrich-und-berliner-zeitung-was-seit-dem-spiegel-bericht-geschah](https://www.spiegel.de/kultur/holger-friedrich-und-berliner-zeitung-was-seit-dem-spiegel-bericht-geschah-a-8d05003c-d2fe-455e-baa1-2d115f41545f#ref=rss)
-* [https://www.spiegel.de/ausland/gute-nachrichten-wie-ueberlebende-des-tsunamis-von-2004-trost-fanden-alles-gute-vom-spiegel](https://www.spiegel.de/ausland/gute-nachrichten-wie-ueberlebende-des-tsunamis-von-2004-trost-fanden-alles-gute-vom-spiegel-a-10e63c9c-ce3a-4ab3-a1aa-31a6e0733e5d#ref=rss)
-* [https://www.spiegel.de/deinspiegel/besuch-in-einer-geschenkpapierfabrik-da-kannst-du-einpacken](https://www.spiegel.de/deinspiegel/besuch-in-einer-geschenkpapierfabrik-da-kannst-du-einpacken-a-3609d05d-0b96-43c5-987b-0a80f6ab90bb#ref=rss)
-### drei
-
-* [https://www.spiegel.de/panorama/landkreis-ravensburg-drei-auffahrunfaelle-auf-100-metern-auf-der-a-96](https://www.spiegel.de/panorama/landkreis-ravensburg-drei-auffahrunfaelle-auf-100-metern-auf-der-a-96-a-809a11c0-0a24-411a-abca-087a5c80b0a1#ref=rss)
-* [https://www.spiegel.de/stil/party-an-weihnachten-und-silvester-ein-guter-abend-ist-kein-zufall](https://www.spiegel.de/stil/party-an-weihnachten-und-silvester-ein-guter-abend-ist-kein-zufall-a-752ce124-6782-4f88-8b7b-40f846fe00b9#ref=rss)
-### news
-
-* [https://www.spiegel.de/panorama/justiz/magdeburg-news-polizei-geht-von-einzeltaeter-aus-hinweise-auf-zweites-auto-nicht-bestaetigt](https://www.spiegel.de/panorama/justiz/magdeburg-news-polizei-geht-von-einzeltaeter-aus-hinweise-auf-zweites-auto-nicht-bestaetigt-a-16214d4b-1014-4648-b32a-82d11b748364#ref=rss)
-* [https://www.spiegel.de/panorama/magdeburg-news-olaf-scholz-im-livestream-reaktion-des-bundeskanzlers-auf-die-todesfahrt](https://www.spiegel.de/panorama/magdeburg-news-olaf-scholz-im-livestream-reaktion-des-bundeskanzlers-auf-die-todesfahrt-a-2cfdedb5-dd30-4f2c-807f-1879fa11a246#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-tote-und-verletzte-in-magdeburg-weihnachtsmarkt-hamburger-bsw-elon-musk](https://www.spiegel.de/politik/deutschland/news-tote-und-verletzte-in-magdeburg-weihnachtsmarkt-hamburger-bsw-elon-musk-a-6b1a4d4d-6ac2-4df7-9a3d-67e70441f8d4#ref=rss)
-### scholz
-
-* [https://www.spiegel.de/panorama/justiz/magdeburg-news-polizei-geht-von-einzeltaeter-aus-hinweise-auf-zweites-auto-nicht-bestaetigt](https://www.spiegel.de/panorama/justiz/magdeburg-news-polizei-geht-von-einzeltaeter-aus-hinweise-auf-zweites-auto-nicht-bestaetigt-a-16214d4b-1014-4648-b32a-82d11b748364#ref=rss)
-* [https://www.spiegel.de/panorama/magdeburg-news-olaf-scholz-im-livestream-reaktion-des-bundeskanzlers-auf-die-todesfahrt](https://www.spiegel.de/panorama/magdeburg-news-olaf-scholz-im-livestream-reaktion-des-bundeskanzlers-auf-die-todesfahrt-a-2cfdedb5-dd30-4f2c-807f-1879fa11a246#ref=rss)
-### last
-
-* [https://www.spiegel.de/kultur/last-christmas-george-michael-schafft-es-posthum-auf-platz-eins-der-weihnachts-charts](https://www.spiegel.de/kultur/last-christmas-george-michael-schafft-es-posthum-auf-platz-eins-der-weihnachts-charts-a-f4b51ef1-0654-4d0d-9ebb-7b57aa099af8#ref=rss)
-### christmas
-
-* [https://www.spiegel.de/kultur/last-christmas-george-michael-schafft-es-posthum-auf-platz-eins-der-weihnachts-charts](https://www.spiegel.de/kultur/last-christmas-george-michael-schafft-es-posthum-auf-platz-eins-der-weihnachts-charts-a-f4b51ef1-0654-4d0d-9ebb-7b57aa099af8#ref=rss)
-### verletzte
-
-* [https://www.spiegel.de/panorama/was-auf-dem-weihnachtsmarkt-passierte](https://www.spiegel.de/panorama/was-auf-dem-weihnachtsmarkt-passierte-a-2ea4e810-dbb9-44cb-805d-efa1a22e9e12#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-in-nahost-mehr-als-ein-dutzend-verletzte-in-israel-nach-einschlag-von-geschoss-aus-dem-jemen](https://www.spiegel.de/ausland/krieg-in-nahost-mehr-als-ein-dutzend-verletzte-in-israel-nach-einschlag-von-geschoss-aus-dem-jemen-a-2c9626ea-d6db-4ab3-8fee-f18f228207a5#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/panorama/justiz/magdeburg-die-pressestimmen-zur-todesfahrt](https://www.spiegel.de/panorama/justiz/magdeburg-die-pressestimmen-zur-todesfahrt-a-82e7b706-b960-4ce9-80dd-0b2249df8b91#ref=rss)
-* [https://www.spiegel.de/panorama/viele-tafeln-in-deutschland-fuehren-wartelisten](https://www.spiegel.de/panorama/viele-tafeln-in-deutschland-fuehren-wartelisten-a-94a79c1b-23f3-448c-94de-5b93a054fd90#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-tote-und-verletzte-in-magdeburg-weihnachtsmarkt-hamburger-bsw-elon-musk](https://www.spiegel.de/politik/deutschland/news-tote-und-verletzte-in-magdeburg-weihnachtsmarkt-hamburger-bsw-elon-musk-a-6b1a4d4d-6ac2-4df7-9a3d-67e70441f8d4#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/panorama/justiz/magdeburg-die-pressestimmen-zur-todesfahrt](https://www.spiegel.de/panorama/justiz/magdeburg-die-pressestimmen-zur-todesfahrt-a-82e7b706-b960-4ce9-80dd-0b2249df8b91#ref=rss)
-* [https://www.spiegel.de/kultur/schoener-schreiben-marie-luise-scherer-und-die-kraftvolle-genauigkeit-die-deutschkolumne](https://www.spiegel.de/kultur/schoener-schreiben-marie-luise-scherer-und-die-kraftvolle-genauigkeit-die-deutschkolumne-a-c0bdc9b0-254c-482e-be25-899958b6e995#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bahn-verspaetungen-fuehren-2024-zu-umsatzverlust-von-700-millionen-euro](https://www.spiegel.de/wirtschaft/bahn-verspaetungen-fuehren-2024-zu-umsatzverlust-von-700-millionen-euro-a-0c4691b1-cd77-4292-91c2-f8a98a0607a0#ref=rss)
-### tafeln
-
-* [https://www.spiegel.de/panorama/viele-tafeln-in-deutschland-fuehren-wartelisten](https://www.spiegel.de/panorama/viele-tafeln-in-deutschland-fuehren-wartelisten-a-94a79c1b-23f3-448c-94de-5b93a054fd90#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/usa-versus-china-joe-biden-genehmigt-militaerhilfen-fuer-taiwan](https://www.spiegel.de/ausland/usa-versus-china-joe-biden-genehmigt-militaerhilfen-fuer-taiwan-a-2fe4d3ba-746a-4f4e-a73c-a21b22dbfb2d#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-us-militaer-toetet-is-anfuehrer-durch-luftangriff](https://www.spiegel.de/ausland/syrien-us-militaer-toetet-is-anfuehrer-durch-luftangriff-a-5310a018-589d-4380-8243-900f9cfe9e3a#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-traum-einer-praesidentschaft-ohne-limit](https://www.spiegel.de/ausland/donald-trump-traum-einer-praesidentschaft-ohne-limit-a-439ae03a-a0f6-449b-86e8-af16f2e80258#ref=rss)
-### deutschlands
-
-* [https://www.spiegel.de/stil/festessen-an-weihnachten-einblicke-in-die-kuechenmeisterei-deutschlands-aeltestes-kochbuch](https://www.spiegel.de/stil/festessen-an-weihnachten-einblicke-in-die-kuechenmeisterei-deutschlands-aeltestes-kochbuch-a-45046c8f-cd61-49f8-ab4b-bc407b75450f#ref=rss)
-* [https://www.spiegel.de/deinspiegel/besuch-in-einer-geschenkpapierfabrik-da-kannst-du-einpacken](https://www.spiegel.de/deinspiegel/besuch-in-einer-geschenkpapierfabrik-da-kannst-du-einpacken-a-3609d05d-0b96-43c5-987b-0a80f6ab90bb#ref=rss)
-### 96
-
-* [https://www.spiegel.de/panorama/landkreis-ravensburg-drei-auffahrunfaelle-auf-100-metern-auf-der-a-96](https://www.spiegel.de/panorama/landkreis-ravensburg-drei-auffahrunfaelle-auf-100-metern-auf-der-a-96-a-809a11c0-0a24-411a-abca-087a5c80b0a1#ref=rss)
-### folge
-
-* [https://www.spiegel.de/panorama/landkreis-ravensburg-drei-auffahrunfaelle-auf-100-metern-auf-der-a-96](https://www.spiegel.de/panorama/landkreis-ravensburg-drei-auffahrunfaelle-auf-100-metern-auf-der-a-96-a-809a11c0-0a24-411a-abca-087a5c80b0a1#ref=rss)
-* [https://www.spiegel.de/kultur/schoener-schreiben-marie-luise-scherer-und-die-kraftvolle-genauigkeit-die-deutschkolumne](https://www.spiegel.de/kultur/schoener-schreiben-marie-luise-scherer-und-die-kraftvolle-genauigkeit-die-deutschkolumne-a-c0bdc9b0-254c-482e-be25-899958b6e995#ref=rss)
-### todesfahrer
-
-* [https://www.spiegel.de/panorama/justiz/magdeburg-news-polizei-geht-von-einzeltaeter-aus-hinweise-auf-zweites-auto-nicht-bestaetigt](https://www.spiegel.de/panorama/justiz/magdeburg-news-polizei-geht-von-einzeltaeter-aus-hinweise-auf-zweites-auto-nicht-bestaetigt-a-16214d4b-1014-4648-b32a-82d11b748364#ref=rss)
-* [https://www.spiegel.de/politik/saudi-arabien-verurteilt-todesfahrt-auf-weihnachtsmarkt-in-magdeburg](https://www.spiegel.de/politik/saudi-arabien-verurteilt-todesfahrt-auf-weihnachtsmarkt-in-magdeburg-a-3bd65ea8-692e-4f78-a981-10e448b35a90#ref=rss)
-### bernburg
-
-* [https://www.spiegel.de/panorama/justiz/magdeburg-news-polizei-geht-von-einzeltaeter-aus-hinweise-auf-zweites-auto-nicht-bestaetigt](https://www.spiegel.de/panorama/justiz/magdeburg-news-polizei-geht-von-einzeltaeter-aus-hinweise-auf-zweites-auto-nicht-bestaetigt-a-16214d4b-1014-4648-b32a-82d11b748364#ref=rss)
-### oft
-
-* [https://www.spiegel.de/panorama/justiz/magdeburg-news-polizei-geht-von-einzeltaeter-aus-hinweise-auf-zweites-auto-nicht-bestaetigt](https://www.spiegel.de/panorama/justiz/magdeburg-news-polizei-geht-von-einzeltaeter-aus-hinweise-auf-zweites-auto-nicht-bestaetigt-a-16214d4b-1014-4648-b32a-82d11b748364#ref=rss)
-### kanzler
-
-* [https://www.spiegel.de/panorama/justiz/magdeburg-news-polizei-geht-von-einzeltaeter-aus-hinweise-auf-zweites-auto-nicht-bestaetigt](https://www.spiegel.de/panorama/justiz/magdeburg-news-polizei-geht-von-einzeltaeter-aus-hinweise-auf-zweites-auto-nicht-bestaetigt-a-16214d4b-1014-4648-b32a-82d11b748364#ref=rss)
-* [https://www.spiegel.de/panorama/magdeburg-news-olaf-scholz-im-livestream-reaktion-des-bundeskanzlers-auf-die-todesfahrt](https://www.spiegel.de/panorama/magdeburg-news-olaf-scholz-im-livestream-reaktion-des-bundeskanzlers-auf-die-todesfahrt-a-2cfdedb5-dd30-4f2c-807f-1879fa11a246#ref=rss)
-### meldet
-
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-meldet-drohnenangriff-auf-kasan-im-landesinneren](https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-meldet-drohnenangriff-auf-kasan-im-landesinneren-a-5997a3b9-2bee-40b8-ba5f-6b5d0aad3f4b#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-in-nahost-mehr-als-ein-dutzend-verletzte-in-israel-nach-einschlag-von-geschoss-aus-dem-jemen](https://www.spiegel.de/ausland/krieg-in-nahost-mehr-als-ein-dutzend-verletzte-in-israel-nach-einschlag-von-geschoss-aus-dem-jemen-a-2c9626ea-d6db-4ab3-8fee-f18f228207a5#ref=rss)
-### kasan
-
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-meldet-drohnenangriff-auf-kasan-im-landesinneren](https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-meldet-drohnenangriff-auf-kasan-im-landesinneren-a-5997a3b9-2bee-40b8-ba5f-6b5d0aad3f4b#ref=rss)
-### landesinneren
-
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-meldet-drohnenangriff-auf-kasan-im-landesinneren](https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-meldet-drohnenangriff-auf-kasan-im-landesinneren-a-5997a3b9-2bee-40b8-ba5f-6b5d0aad3f4b#ref=rss)
-### laut
-
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-meldet-drohnenangriff-auf-kasan-im-landesinneren](https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-meldet-drohnenangriff-auf-kasan-im-landesinneren-a-5997a3b9-2bee-40b8-ba5f-6b5d0aad3f4b#ref=rss)
-* [https://www.spiegel.de/panorama/viele-tafeln-in-deutschland-fuehren-wartelisten](https://www.spiegel.de/panorama/viele-tafeln-in-deutschland-fuehren-wartelisten-a-94a79c1b-23f3-448c-94de-5b93a054fd90#ref=rss)
-### berichten
-
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-meldet-drohnenangriff-auf-kasan-im-landesinneren](https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-meldet-drohnenangriff-auf-kasan-im-landesinneren-a-5997a3b9-2bee-40b8-ba5f-6b5d0aad3f4b#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-unter-baschar-al-assad-es-war-ein-mob-eine-regierungsmafia](https://www.spiegel.de/ausland/syrien-unter-baschar-al-assad-es-war-ein-mob-eine-regierungsmafia-a-91565e8c-0161-44a4-9633-4291d9ab8154#ref=rss)
-### russlands
-
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-meldet-drohnenangriff-auf-kasan-im-landesinneren](https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-meldet-drohnenangriff-auf-kasan-im-landesinneren-a-5997a3b9-2bee-40b8-ba5f-6b5d0aad3f4b#ref=rss)
-* [https://www.spiegel.de/ausland/russland-tschetschenenfuehrer-ramsan-kadyrow-hat-seinen-militaerischen-und-wirtschaftlichen-einfluss-vergroessert](https://www.spiegel.de/ausland/russland-tschetschenenfuehrer-ramsan-kadyrow-hat-seinen-militaerischen-und-wirtschaftlichen-einfluss-vergroessert-a-e92d7c7e-8be1-400d-9e37-ba87085700bd#ref=rss)
-### getroffen
-
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-meldet-drohnenangriff-auf-kasan-im-landesinneren](https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-meldet-drohnenangriff-auf-kasan-im-landesinneren-a-5997a3b9-2bee-40b8-ba5f-6b5d0aad3f4b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/magdeburg-die-pressestimmen-zur-todesfahrt](https://www.spiegel.de/panorama/justiz/magdeburg-die-pressestimmen-zur-todesfahrt-a-82e7b706-b960-4ce9-80dd-0b2249df8b91#ref=rss)
-### iran
-
-* [https://www.spiegel.de/ausland/iran-afghanistan-tadschikistan-millionen-feiern-persische-jalda-nacht](https://www.spiegel.de/ausland/iran-afghanistan-tadschikistan-millionen-feiern-persische-jalda-nacht-a-147010d6-c48e-4f24-83b3-81b4c5adb276#ref=rss)
-### afghanistan
-
-* [https://www.spiegel.de/ausland/iran-afghanistan-tadschikistan-millionen-feiern-persische-jalda-nacht](https://www.spiegel.de/ausland/iran-afghanistan-tadschikistan-millionen-feiern-persische-jalda-nacht-a-147010d6-c48e-4f24-83b3-81b4c5adb276#ref=rss)
-### tadschikistan
-
-* [https://www.spiegel.de/ausland/iran-afghanistan-tadschikistan-millionen-feiern-persische-jalda-nacht](https://www.spiegel.de/ausland/iran-afghanistan-tadschikistan-millionen-feiern-persische-jalda-nacht-a-147010d6-c48e-4f24-83b3-81b4c5adb276#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/ausland/iran-afghanistan-tadschikistan-millionen-feiern-persische-jalda-nacht](https://www.spiegel.de/ausland/iran-afghanistan-tadschikistan-millionen-feiern-persische-jalda-nacht-a-147010d6-c48e-4f24-83b3-81b4c5adb276#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bahn-verspaetungen-fuehren-2024-zu-umsatzverlust-von-700-millionen-euro](https://www.spiegel.de/wirtschaft/bahn-verspaetungen-fuehren-2024-zu-umsatzverlust-von-700-millionen-euro-a-0c4691b1-cd77-4292-91c2-f8a98a0607a0#ref=rss)
-### persische
-
-* [https://www.spiegel.de/ausland/iran-afghanistan-tadschikistan-millionen-feiern-persische-jalda-nacht](https://www.spiegel.de/ausland/iran-afghanistan-tadschikistan-millionen-feiern-persische-jalda-nacht-a-147010d6-c48e-4f24-83b3-81b4c5adb276#ref=rss)
+* [https://www.spiegel.de/panorama/magdeburg-augenzeugen-schildern-die-dramatischen-szenen-auf-dem-weihnachtsmarkt](https://www.spiegel.de/panorama/magdeburg-augenzeugen-schildern-die-dramatischen-szenen-auf-dem-weihnachtsmarkt-a-8a162a94-1189-4178-a582-1ce407c3a87c#ref=rss)
+* [https://www.spiegel.de/panorama/stonehenge-tausende-feiern-wintersonnenwende](https://www.spiegel.de/panorama/stonehenge-tausende-feiern-wintersonnenwende-a-62588960-2f81-416b-8a10-e39361b7da98#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/luxusuhren-von-mb-f-das-haus-in-dem-die-verruecktesten-uhren-der-welt-gebaut-werden](https://www.spiegel.de/wirtschaft/unternehmen/luxusuhren-von-mb-f-das-haus-in-dem-die-verruecktesten-uhren-der-welt-gebaut-werden-a-a2b40f2e-93cb-4c44-ba15-fe1f30bbeb3e#ref=rss)
 ### jahres
 
-* [https://www.spiegel.de/ausland/iran-afghanistan-tadschikistan-millionen-feiern-persische-jalda-nacht](https://www.spiegel.de/ausland/iran-afghanistan-tadschikistan-millionen-feiern-persische-jalda-nacht-a-147010d6-c48e-4f24-83b3-81b4c5adb276#ref=rss)
-* [https://www.spiegel.de/ausland/russland-tschetschenenfuehrer-ramsan-kadyrow-hat-seinen-militaerischen-und-wirtschaftlichen-einfluss-vergroessert](https://www.spiegel.de/ausland/russland-tschetschenenfuehrer-ramsan-kadyrow-hat-seinen-militaerischen-und-wirtschaftlichen-einfluss-vergroessert-a-e92d7c7e-8be1-400d-9e37-ba87085700bd#ref=rss)
-### olaf
+* [https://www.spiegel.de/panorama/stonehenge-tausende-feiern-wintersonnenwende](https://www.spiegel.de/panorama/stonehenge-tausende-feiern-wintersonnenwende-a-62588960-2f81-416b-8a10-e39361b7da98#ref=rss)
+* [https://www.spiegel.de/familie/gelassenheit-wie-werden-wir-geduldiger-best-of-smarter-leben-podcast-mit-leon-windscheid](https://www.spiegel.de/familie/gelassenheit-wie-werden-wir-geduldiger-best-of-smarter-leben-podcast-mit-leon-windscheid-a-655bf60c-b3f6-4bce-81e6-6cb2f2cdb5b8#ref=rss)
+* [https://www.spiegel.de/netzwelt/games/games-die-10-besten-indie-spiele-des-jahres-2024](https://www.spiegel.de/netzwelt/games/games-die-10-besten-indie-spiele-des-jahres-2024-a-fbc6deb9-e504-45ba-8551-16ff119206c6#ref=rss)
+### 2024
 
-* [https://www.spiegel.de/panorama/magdeburg-news-olaf-scholz-im-livestream-reaktion-des-bundeskanzlers-auf-die-todesfahrt](https://www.spiegel.de/panorama/magdeburg-news-olaf-scholz-im-livestream-reaktion-des-bundeskanzlers-auf-die-todesfahrt-a-2cfdedb5-dd30-4f2c-807f-1879fa11a246#ref=rss)
-### livestream
+* [https://www.spiegel.de/netzwelt/games/games-die-10-besten-indie-spiele-des-jahres-2024](https://www.spiegel.de/netzwelt/games/games-die-10-besten-indie-spiele-des-jahres-2024-a-fbc6deb9-e504-45ba-8551-16ff119206c6#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/kuenstliche-intelligenz-folgt-auf-den-ki-hype-nun-ein-ki-herbst](https://www.spiegel.de/netzwelt/web/kuenstliche-intelligenz-folgt-auf-den-ki-hype-nun-ein-ki-herbst-a-08877d13-66a7-44d3-a0f3-0d9d1c5096f7#ref=rss)
+### einige
 
-* [https://www.spiegel.de/panorama/magdeburg-news-olaf-scholz-im-livestream-reaktion-des-bundeskanzlers-auf-die-todesfahrt](https://www.spiegel.de/panorama/magdeburg-news-olaf-scholz-im-livestream-reaktion-des-bundeskanzlers-auf-die-todesfahrt-a-2cfdedb5-dd30-4f2c-807f-1879fa11a246#ref=rss)
-### silvester
+* [https://www.spiegel.de/netzwelt/games/games-die-10-besten-indie-spiele-des-jahres-2024](https://www.spiegel.de/netzwelt/games/games-die-10-besten-indie-spiele-des-jahres-2024-a-fbc6deb9-e504-45ba-8551-16ff119206c6#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/kuenstliche-intelligenz-folgt-auf-den-ki-hype-nun-ein-ki-herbst](https://www.spiegel.de/netzwelt/web/kuenstliche-intelligenz-folgt-auf-den-ki-hype-nun-ein-ki-herbst-a-08877d13-66a7-44d3-a0f3-0d9d1c5096f7#ref=rss)
+* [https://www.spiegel.de/panorama/zehn-minuten-nachdem-wir-los-sind-hat-es-geknallt](https://www.spiegel.de/panorama/zehn-minuten-nachdem-wir-los-sind-hat-es-geknallt-a-e191c022-f59f-4ae8-9ee4-a0a36eea46f0#ref=rss)
+### künstliche
 
-* [https://www.spiegel.de/stil/party-an-weihnachten-und-silvester-ein-guter-abend-ist-kein-zufall](https://www.spiegel.de/stil/party-an-weihnachten-und-silvester-ein-guter-abend-ist-kein-zufall-a-752ce124-6782-4f88-8b7b-40f846fe00b9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/vorbereitung-auf-silvester-umso-knapper-die-kassen-sind-desto-mehr-feuerwerk-wird-gekauft](https://www.spiegel.de/wirtschaft/service/vorbereitung-auf-silvester-umso-knapper-die-kassen-sind-desto-mehr-feuerwerk-wird-gekauft-a-981656b6-930a-4e40-9622-bc804af629ae#ref=rss)
-### saudiarabien
+* [https://www.spiegel.de/netzwelt/web/kuenstliche-intelligenz-folgt-auf-den-ki-hype-nun-ein-ki-herbst](https://www.spiegel.de/netzwelt/web/kuenstliche-intelligenz-folgt-auf-den-ki-hype-nun-ein-ki-herbst-a-08877d13-66a7-44d3-a0f3-0d9d1c5096f7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/argentinien-javier-milei-setzt-auf-atomkraft-fuer-kuenstliche-intelligenz](https://www.spiegel.de/wirtschaft/argentinien-javier-milei-setzt-auf-atomkraft-fuer-kuenstliche-intelligenz-a-d534f13c-6a25-46c2-93b8-219dcf49a53b#ref=rss)
+### intelligenz
 
-* [https://www.spiegel.de/politik/saudi-arabien-verurteilt-todesfahrt-auf-weihnachtsmarkt-in-magdeburg](https://www.spiegel.de/politik/saudi-arabien-verurteilt-todesfahrt-auf-weihnachtsmarkt-in-magdeburg-a-3bd65ea8-692e-4f78-a981-10e448b35a90#ref=rss)
-### verurteilt
+* [https://www.spiegel.de/netzwelt/web/kuenstliche-intelligenz-folgt-auf-den-ki-hype-nun-ein-ki-herbst](https://www.spiegel.de/netzwelt/web/kuenstliche-intelligenz-folgt-auf-den-ki-hype-nun-ein-ki-herbst-a-08877d13-66a7-44d3-a0f3-0d9d1c5096f7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/argentinien-javier-milei-setzt-auf-atomkraft-fuer-kuenstliche-intelligenz](https://www.spiegel.de/wirtschaft/argentinien-javier-milei-setzt-auf-atomkraft-fuer-kuenstliche-intelligenz-a-d534f13c-6a25-46c2-93b8-219dcf49a53b#ref=rss)
+### corendon
 
-* [https://www.spiegel.de/politik/saudi-arabien-verurteilt-todesfahrt-auf-weihnachtsmarkt-in-magdeburg](https://www.spiegel.de/politik/saudi-arabien-verurteilt-todesfahrt-auf-weihnachtsmarkt-in-magdeburg-a-3bd65ea8-692e-4f78-a981-10e448b35a90#ref=rss)
-### ersten
+* [https://www.spiegel.de/panorama/corendon-airlines-doener-im-flugzeug-nach-antalya](https://www.spiegel.de/panorama/corendon-airlines-doener-im-flugzeug-nach-antalya-a-fe7fe3f0-5838-496b-9258-45e23796266a#ref=rss)
+### döner
 
-* [https://www.spiegel.de/politik/saudi-arabien-verurteilt-todesfahrt-auf-weihnachtsmarkt-in-magdeburg](https://www.spiegel.de/politik/saudi-arabien-verurteilt-todesfahrt-auf-weihnachtsmarkt-in-magdeburg-a-3bd65ea8-692e-4f78-a981-10e448b35a90#ref=rss)
-* [https://www.spiegel.de/kultur/last-christmas-george-michael-schafft-es-posthum-auf-platz-eins-der-weihnachts-charts](https://www.spiegel.de/kultur/last-christmas-george-michael-schafft-es-posthum-auf-platz-eins-der-weihnachts-charts-a-f4b51ef1-0654-4d0d-9ebb-7b57aa099af8#ref=rss)
-### berliner
+* [https://www.spiegel.de/panorama/corendon-airlines-doener-im-flugzeug-nach-antalya](https://www.spiegel.de/panorama/corendon-airlines-doener-im-flugzeug-nach-antalya-a-fe7fe3f0-5838-496b-9258-45e23796266a#ref=rss)
+### flugzeug
 
-* [https://www.spiegel.de/kultur/holger-friedrich-und-berliner-zeitung-was-seit-dem-spiegel-bericht-geschah](https://www.spiegel.de/kultur/holger-friedrich-und-berliner-zeitung-was-seit-dem-spiegel-bericht-geschah-a-8d05003c-d2fe-455e-baa1-2d115f41545f#ref=rss)
-### zeitung
+* [https://www.spiegel.de/panorama/corendon-airlines-doener-im-flugzeug-nach-antalya](https://www.spiegel.de/panorama/corendon-airlines-doener-im-flugzeug-nach-antalya-a-fe7fe3f0-5838-496b-9258-45e23796266a#ref=rss)
+* [https://www.spiegel.de/auto/ukraine-mit-diesem-nachtzug-faehrt-der-staatsbesuch-aus-dem-westen-nach-kyjiw](https://www.spiegel.de/auto/ukraine-mit-diesem-nachtzug-faehrt-der-staatsbesuch-aus-dem-westen-nach-kyjiw-a-48a5ec43-0405-4f35-9671-c86e907f6716#ref=rss)
+### antalya
 
-* [https://www.spiegel.de/kultur/holger-friedrich-und-berliner-zeitung-was-seit-dem-spiegel-bericht-geschah](https://www.spiegel.de/kultur/holger-friedrich-und-berliner-zeitung-was-seit-dem-spiegel-bericht-geschah-a-8d05003c-d2fe-455e-baa1-2d115f41545f#ref=rss)
-### jahr
+* [https://www.spiegel.de/panorama/corendon-airlines-doener-im-flugzeug-nach-antalya](https://www.spiegel.de/panorama/corendon-airlines-doener-im-flugzeug-nach-antalya-a-fe7fe3f0-5838-496b-9258-45e23796266a#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/kultur/last-christmas-george-michael-schafft-es-posthum-auf-platz-eins-der-weihnachts-charts](https://www.spiegel.de/kultur/last-christmas-george-michael-schafft-es-posthum-auf-platz-eins-der-weihnachts-charts-a-f4b51ef1-0654-4d0d-9ebb-7b57aa099af8#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/deutsches-rotes-kreuz-verzeichnet-massiven-spendeneinbruch](https://www.spiegel.de/panorama/gesellschaft/deutsches-rotes-kreuz-verzeichnet-massiven-spendeneinbruch-a-9babff77-3bba-435d-b943-170fe3a1f088#ref=rss)
-### ramsan
+* [https://www.spiegel.de/panorama/corendon-airlines-doener-im-flugzeug-nach-antalya](https://www.spiegel.de/panorama/corendon-airlines-doener-im-flugzeug-nach-antalya-a-fe7fe3f0-5838-496b-9258-45e23796266a#ref=rss)
+* [https://www.spiegel.de/kultur/kino/die-saat-des-heiligen-feigenbaums-von-mohammad-rasoulof-showdown-im-widerstand](https://www.spiegel.de/kultur/kino/die-saat-des-heiligen-feigenbaums-von-mohammad-rasoulof-showdown-im-widerstand-a-7b4a9a1b-c1fa-4e3e-9126-e8b63092cc62#ref=rss)
+### rb
 
-* [https://www.spiegel.de/ausland/russland-tschetschenenfuehrer-ramsan-kadyrow-hat-seinen-militaerischen-und-wirtschaftlichen-einfluss-vergroessert](https://www.spiegel.de/ausland/russland-tschetschenenfuehrer-ramsan-kadyrow-hat-seinen-militaerischen-und-wirtschaftlichen-einfluss-vergroessert-a-e92d7c7e-8be1-400d-9e37-ba87085700bd#ref=rss)
-### kadyrow
+* [https://www.spiegel.de/sport/fussball/rb-leipzig-benjamin-henrichs-erleidet-achillessehnenriss](https://www.spiegel.de/sport/fussball/rb-leipzig-benjamin-henrichs-erleidet-achillessehnenriss-a-cb55305c-c9cc-44e0-bd03-7076170109e8#ref=rss)
+### leipzig
 
-* [https://www.spiegel.de/ausland/russland-tschetschenenfuehrer-ramsan-kadyrow-hat-seinen-militaerischen-und-wirtschaftlichen-einfluss-vergroessert](https://www.spiegel.de/ausland/russland-tschetschenenfuehrer-ramsan-kadyrow-hat-seinen-militaerischen-und-wirtschaftlichen-einfluss-vergroessert-a-e92d7c7e-8be1-400d-9e37-ba87085700bd#ref=rss)
-### viele
+* [https://www.spiegel.de/sport/fussball/rb-leipzig-benjamin-henrichs-erleidet-achillessehnenriss](https://www.spiegel.de/sport/fussball/rb-leipzig-benjamin-henrichs-erleidet-achillessehnenriss-a-cb55305c-c9cc-44e0-bd03-7076170109e8#ref=rss)
+### benjamin
 
-* [https://www.spiegel.de/panorama/was-auf-dem-weihnachtsmarkt-passierte](https://www.spiegel.de/panorama/was-auf-dem-weihnachtsmarkt-passierte-a-2ea4e810-dbb9-44cb-805d-efa1a22e9e12#ref=rss)
-* [https://www.spiegel.de/panorama/viele-tafeln-in-deutschland-fuehren-wartelisten](https://www.spiegel.de/panorama/viele-tafeln-in-deutschland-fuehren-wartelisten-a-94a79c1b-23f3-448c-94de-5b93a054fd90#ref=rss)
-### zeigen
+* [https://www.spiegel.de/sport/fussball/rb-leipzig-benjamin-henrichs-erleidet-achillessehnenriss](https://www.spiegel.de/sport/fussball/rb-leipzig-benjamin-henrichs-erleidet-achillessehnenriss-a-cb55305c-c9cc-44e0-bd03-7076170109e8#ref=rss)
+### henrichs
 
-* [https://www.spiegel.de/panorama/was-auf-dem-weihnachtsmarkt-passierte](https://www.spiegel.de/panorama/was-auf-dem-weihnachtsmarkt-passierte-a-2ea4e810-dbb9-44cb-805d-efa1a22e9e12#ref=rss)
-* [https://www.spiegel.de/ausland/gute-nachrichten-wie-ueberlebende-des-tsunamis-von-2004-trost-fanden-alles-gute-vom-spiegel](https://www.spiegel.de/ausland/gute-nachrichten-wie-ueberlebende-des-tsunamis-von-2004-trost-fanden-alles-gute-vom-spiegel-a-10e63c9c-ce3a-4ab3-a1aa-31a6e0733e5d#ref=rss)
-### unklar
+* [https://www.spiegel.de/sport/fussball/rb-leipzig-benjamin-henrichs-erleidet-achillessehnenriss](https://www.spiegel.de/sport/fussball/rb-leipzig-benjamin-henrichs-erleidet-achillessehnenriss-a-cb55305c-c9cc-44e0-bd03-7076170109e8#ref=rss)
+### mehrere
 
-* [https://www.spiegel.de/panorama/was-auf-dem-weihnachtsmarkt-passierte](https://www.spiegel.de/panorama/was-auf-dem-weihnachtsmarkt-passierte-a-2ea4e810-dbb9-44cb-805d-efa1a22e9e12#ref=rss)
-* [https://www.spiegel.de/ausland/usa-versus-china-joe-biden-genehmigt-militaerhilfen-fuer-taiwan](https://www.spiegel.de/ausland/usa-versus-china-joe-biden-genehmigt-militaerhilfen-fuer-taiwan-a-2fe4d3ba-746a-4f4e-a73c-a21b22dbfb2d#ref=rss)
-### mercedesbenz
+* [https://www.spiegel.de/sport/fussball/rb-leipzig-benjamin-henrichs-erleidet-achillessehnenriss](https://www.spiegel.de/sport/fussball/rb-leipzig-benjamin-henrichs-erleidet-achillessehnenriss-a-cb55305c-c9cc-44e0-bd03-7076170109e8#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-taeuschte-ein-betrueger-heinz-christian-strache](https://www.spiegel.de/ausland/oesterreich-taeuschte-ein-betrueger-heinz-christian-strache-a-abe6f411-f9fd-4f1b-982e-01d82c482d84#ref=rss)
+### bavarian
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/mercedes-benz-streicht-gehaltserhoehungen-fuer-fuehrungskraefte](https://www.spiegel.de/wirtschaft/unternehmen/mercedes-benz-streicht-gehaltserhoehungen-fuer-fuehrungskraefte-a-acd1abef-8b78-4517-a0dc-8af6d42d6ade#ref=rss)
-### führen
+* [https://www.spiegel.de/panorama/weihnachten-im-bavarian-village-in-london-der-partysaenger-der-nicht-singen-kann](https://www.spiegel.de/panorama/weihnachten-im-bavarian-village-in-london-der-partysaenger-der-nicht-singen-kann-a-c50855cd-b508-403f-943c-b28d1d2c1d1a#ref=rss)
+### village
 
-* [https://www.spiegel.de/panorama/viele-tafeln-in-deutschland-fuehren-wartelisten](https://www.spiegel.de/panorama/viele-tafeln-in-deutschland-fuehren-wartelisten-a-94a79c1b-23f3-448c-94de-5b93a054fd90#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bahn-verspaetungen-fuehren-2024-zu-umsatzverlust-von-700-millionen-euro](https://www.spiegel.de/wirtschaft/bahn-verspaetungen-fuehren-2024-zu-umsatzverlust-von-700-millionen-euro-a-0c4691b1-cd77-4292-91c2-f8a98a0607a0#ref=rss)
-### hohe
+* [https://www.spiegel.de/panorama/weihnachten-im-bavarian-village-in-london-der-partysaenger-der-nicht-singen-kann](https://www.spiegel.de/panorama/weihnachten-im-bavarian-village-in-london-der-partysaenger-der-nicht-singen-kann-a-c50855cd-b508-403f-943c-b28d1d2c1d1a#ref=rss)
+### minas
 
-* [https://www.spiegel.de/panorama/viele-tafeln-in-deutschland-fuehren-wartelisten](https://www.spiegel.de/panorama/viele-tafeln-in-deutschland-fuehren-wartelisten-a-94a79c1b-23f3-448c-94de-5b93a054fd90#ref=rss)
-### gute
+* [https://www.spiegel.de/panorama/brasilien-busunglueck-in-minas-gerais-mit-30-toten](https://www.spiegel.de/panorama/brasilien-busunglueck-in-minas-gerais-mit-30-toten-a-f89b4cbb-27ef-43be-8562-04690b1025b8#ref=rss)
+### gerais
 
-* [https://www.spiegel.de/ausland/gute-nachrichten-wie-ueberlebende-des-tsunamis-von-2004-trost-fanden-alles-gute-vom-spiegel](https://www.spiegel.de/ausland/gute-nachrichten-wie-ueberlebende-des-tsunamis-von-2004-trost-fanden-alles-gute-vom-spiegel-a-10e63c9c-ce3a-4ab3-a1aa-31a6e0733e5d#ref=rss)
-### nachrichten
+* [https://www.spiegel.de/panorama/brasilien-busunglueck-in-minas-gerais-mit-30-toten](https://www.spiegel.de/panorama/brasilien-busunglueck-in-minas-gerais-mit-30-toten-a-f89b4cbb-27ef-43be-8562-04690b1025b8#ref=rss)
+### konnte
 
-* [https://www.spiegel.de/ausland/gute-nachrichten-wie-ueberlebende-des-tsunamis-von-2004-trost-fanden-alles-gute-vom-spiegel](https://www.spiegel.de/ausland/gute-nachrichten-wie-ueberlebende-des-tsunamis-von-2004-trost-fanden-alles-gute-vom-spiegel-a-10e63c9c-ce3a-4ab3-a1aa-31a6e0733e5d#ref=rss)
-### alles
+* [https://www.spiegel.de/panorama/brasilien-busunglueck-in-minas-gerais-mit-30-toten](https://www.spiegel.de/panorama/brasilien-busunglueck-in-minas-gerais-mit-30-toten-a-f89b4cbb-27ef-43be-8562-04690b1025b8#ref=rss)
+* [https://www.spiegel.de/kultur/kino/die-saat-des-heiligen-feigenbaums-von-mohammad-rasoulof-showdown-im-widerstand](https://www.spiegel.de/kultur/kino/die-saat-des-heiligen-feigenbaums-von-mohammad-rasoulof-showdown-im-widerstand-a-7b4a9a1b-c1fa-4e3e-9126-e8b63092cc62#ref=rss)
+### atomkraft
 
-* [https://www.spiegel.de/ausland/gute-nachrichten-wie-ueberlebende-des-tsunamis-von-2004-trost-fanden-alles-gute-vom-spiegel](https://www.spiegel.de/ausland/gute-nachrichten-wie-ueberlebende-des-tsunamis-von-2004-trost-fanden-alles-gute-vom-spiegel-a-10e63c9c-ce3a-4ab3-a1aa-31a6e0733e5d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bahn-verspaetungen-fuehren-2024-zu-umsatzverlust-von-700-millionen-euro](https://www.spiegel.de/wirtschaft/bahn-verspaetungen-fuehren-2024-zu-umsatzverlust-von-700-millionen-euro-a-0c4691b1-cd77-4292-91c2-f8a98a0607a0#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/atomkraft-frankreich-schliesst-reaktor-flamanville-3-ans-netz-an](https://www.spiegel.de/wissenschaft/technik/atomkraft-frankreich-schliesst-reaktor-flamanville-3-ans-netz-an-a-e54d845c-30d9-4e27-8504-b74757debfab#ref=rss)
+* [https://www.spiegel.de/wirtschaft/argentinien-javier-milei-setzt-auf-atomkraft-fuer-kuenstliche-intelligenz](https://www.spiegel.de/wirtschaft/argentinien-javier-milei-setzt-auf-atomkraft-fuer-kuenstliche-intelligenz-a-d534f13c-6a25-46c2-93b8-219dcf49a53b#ref=rss)
+### frankreich
+
+* [https://www.spiegel.de/wissenschaft/technik/atomkraft-frankreich-schliesst-reaktor-flamanville-3-ans-netz-an](https://www.spiegel.de/wissenschaft/technik/atomkraft-frankreich-schliesst-reaktor-flamanville-3-ans-netz-an-a-e54d845c-30d9-4e27-8504-b74757debfab#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/wissenschaft/technik/atomkraft-frankreich-schliesst-reaktor-flamanville-3-ans-netz-an](https://www.spiegel.de/wissenschaft/technik/atomkraft-frankreich-schliesst-reaktor-flamanville-3-ans-netz-an-a-e54d845c-30d9-4e27-8504-b74757debfab#ref=rss)
+* [https://www.spiegel.de/ausland/island-sozialdemokratin-kristrun-frostadottir-wird-neue-ministerpraesidentin-von-island](https://www.spiegel.de/ausland/island-sozialdemokratin-kristrun-frostadottir-wird-neue-ministerpraesidentin-von-island-a-7a119016-3a62-44ac-966a-4d745f23e7bc#ref=rss)
+### zwölf
+
+* [https://www.spiegel.de/wissenschaft/technik/atomkraft-frankreich-schliesst-reaktor-flamanville-3-ans-netz-an](https://www.spiegel.de/wissenschaft/technik/atomkraft-frankreich-schliesst-reaktor-flamanville-3-ans-netz-an-a-e54d845c-30d9-4e27-8504-b74757debfab#ref=rss)
+* [https://www.spiegel.de/sport/fussball/premier-league-manchester-city-verliert-auch-bei-aston-villa](https://www.spiegel.de/sport/fussball/premier-league-manchester-city-verliert-auch-bei-aston-villa-a-fabe4f44-27c9-4250-8641-fe9375d7c049#ref=rss)
+### island
+
+* [https://www.spiegel.de/ausland/island-sozialdemokratin-kristrun-frostadottir-wird-neue-ministerpraesidentin-von-island](https://www.spiegel.de/ausland/island-sozialdemokratin-kristrun-frostadottir-wird-neue-ministerpraesidentin-von-island-a-7a119016-3a62-44ac-966a-4d745f23e7bc#ref=rss)
+### sozialdemokratin
+
+* [https://www.spiegel.de/ausland/island-sozialdemokratin-kristrun-frostadottir-wird-neue-ministerpraesidentin-von-island](https://www.spiegel.de/ausland/island-sozialdemokratin-kristrun-frostadottir-wird-neue-ministerpraesidentin-von-island-a-7a119016-3a62-44ac-966a-4d745f23e7bc#ref=rss)
+### kristrún
+
+* [https://www.spiegel.de/ausland/island-sozialdemokratin-kristrun-frostadottir-wird-neue-ministerpraesidentin-von-island](https://www.spiegel.de/ausland/island-sozialdemokratin-kristrun-frostadottir-wird-neue-ministerpraesidentin-von-island-a-7a119016-3a62-44ac-966a-4d745f23e7bc#ref=rss)
+### frostadóttir
+
+* [https://www.spiegel.de/ausland/island-sozialdemokratin-kristrun-frostadottir-wird-neue-ministerpraesidentin-von-island](https://www.spiegel.de/ausland/island-sozialdemokratin-kristrun-frostadottir-wird-neue-ministerpraesidentin-von-island-a-7a119016-3a62-44ac-966a-4d745f23e7bc#ref=rss)
+### neue
+
+* [https://www.spiegel.de/ausland/island-sozialdemokratin-kristrun-frostadottir-wird-neue-ministerpraesidentin-von-island](https://www.spiegel.de/ausland/island-sozialdemokratin-kristrun-frostadottir-wird-neue-ministerpraesidentin-von-island-a-7a119016-3a62-44ac-966a-4d745f23e7bc#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/kuenstliche-intelligenz-folgt-auf-den-ki-hype-nun-ein-ki-herbst](https://www.spiegel.de/netzwelt/web/kuenstliche-intelligenz-folgt-auf-den-ki-hype-nun-ein-ki-herbst-a-08877d13-66a7-44d3-a0f3-0d9d1c5096f7#ref=rss)
+### erst
+
+* [https://www.spiegel.de/ausland/island-sozialdemokratin-kristrun-frostadottir-wird-neue-ministerpraesidentin-von-island](https://www.spiegel.de/ausland/island-sozialdemokratin-kristrun-frostadottir-wird-neue-ministerpraesidentin-von-island-a-7a119016-3a62-44ac-966a-4d745f23e7bc#ref=rss)
+* [https://www.spiegel.de/panorama/magdeburg-attentaeter-vom-weihnachtsmarkt-wurde-bereits-2013-verurteilt](https://www.spiegel.de/panorama/magdeburg-attentaeter-vom-weihnachtsmarkt-wurde-bereits-2013-verurteilt-a-57963a33-3325-422a-8fd5-3cfc5248a00d#ref=rss)
+### augenzeugen
+
+* [https://www.spiegel.de/panorama/magdeburg-augenzeugen-schildern-die-dramatischen-szenen-auf-dem-weihnachtsmarkt](https://www.spiegel.de/panorama/magdeburg-augenzeugen-schildern-die-dramatischen-szenen-auf-dem-weihnachtsmarkt-a-8a162a94-1189-4178-a582-1ce407c3a87c#ref=rss)
+### szenen
+
+* [https://www.spiegel.de/panorama/magdeburg-augenzeugen-schildern-die-dramatischen-szenen-auf-dem-weihnachtsmarkt](https://www.spiegel.de/panorama/magdeburg-augenzeugen-schildern-die-dramatischen-szenen-auf-dem-weihnachtsmarkt-a-8a162a94-1189-4178-a582-1ce407c3a87c#ref=rss)
+* [https://www.spiegel.de/panorama/zehn-minuten-nachdem-wir-los-sind-hat-es-geknallt](https://www.spiegel.de/panorama/zehn-minuten-nachdem-wir-los-sind-hat-es-geknallt-a-e191c022-f59f-4ae8-9ee4-a0a36eea46f0#ref=rss)
+### manchester
+
+* [https://www.spiegel.de/sport/fussball/premier-league-manchester-city-verliert-auch-bei-aston-villa](https://www.spiegel.de/sport/fussball/premier-league-manchester-city-verliert-auch-bei-aston-villa-a-fabe4f44-27c9-4250-8641-fe9375d7c049#ref=rss)
+### city
+
+* [https://www.spiegel.de/sport/fussball/premier-league-manchester-city-verliert-auch-bei-aston-villa](https://www.spiegel.de/sport/fussball/premier-league-manchester-city-verliert-auch-bei-aston-villa-a-fabe4f44-27c9-4250-8641-fe9375d7c049#ref=rss)
+### aston
+
+* [https://www.spiegel.de/sport/fussball/premier-league-manchester-city-verliert-auch-bei-aston-villa](https://www.spiegel.de/sport/fussball/premier-league-manchester-city-verliert-auch-bei-aston-villa-a-fabe4f44-27c9-4250-8641-fe9375d7c049#ref=rss)
+### villa
+
+* [https://www.spiegel.de/sport/fussball/premier-league-manchester-city-verliert-auch-bei-aston-villa](https://www.spiegel.de/sport/fussball/premier-league-manchester-city-verliert-auch-bei-aston-villa-a-fabe4f44-27c9-4250-8641-fe9375d7c049#ref=rss)
+### setzt
+
+* [https://www.spiegel.de/sport/fussball/premier-league-manchester-city-verliert-auch-bei-aston-villa](https://www.spiegel.de/sport/fussball/premier-league-manchester-city-verliert-auch-bei-aston-villa-a-fabe4f44-27c9-4250-8641-fe9375d7c049#ref=rss)
+* [https://www.spiegel.de/wirtschaft/argentinien-javier-milei-setzt-auf-atomkraft-fuer-kuenstliche-intelligenz](https://www.spiegel.de/wirtschaft/argentinien-javier-milei-setzt-auf-atomkraft-fuer-kuenstliche-intelligenz-a-d534f13c-6a25-46c2-93b8-219dcf49a53b#ref=rss)
+### pkwmaut
+
+* [https://www.spiegel.de/auto/pkw-maut-bauindustrie-fordert-pkw-maut-gegen-den-verkehrskollaps](https://www.spiegel.de/auto/pkw-maut-bauindustrie-fordert-pkw-maut-gegen-den-verkehrskollaps-a-65e3f100-23c2-4df0-88fa-c1d1d1895aad#ref=rss)
+### bauindustrie
+
+* [https://www.spiegel.de/auto/pkw-maut-bauindustrie-fordert-pkw-maut-gegen-den-verkehrskollaps](https://www.spiegel.de/auto/pkw-maut-bauindustrie-fordert-pkw-maut-gegen-den-verkehrskollaps-a-65e3f100-23c2-4df0-88fa-c1d1d1895aad#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/auto/pkw-maut-bauindustrie-fordert-pkw-maut-gegen-den-verkehrskollaps](https://www.spiegel.de/auto/pkw-maut-bauindustrie-fordert-pkw-maut-gegen-den-verkehrskollaps-a-65e3f100-23c2-4df0-88fa-c1d1d1895aad#ref=rss)
+### straßen
+
+* [https://www.spiegel.de/auto/pkw-maut-bauindustrie-fordert-pkw-maut-gegen-den-verkehrskollaps](https://www.spiegel.de/auto/pkw-maut-bauindustrie-fordert-pkw-maut-gegen-den-verkehrskollaps-a-65e3f100-23c2-4df0-88fa-c1d1d1895aad#ref=rss)
+* [https://www.spiegel.de/auto/zemmi-fahrrad-sattelzug-im-test-truck-mit-tretantrieb](https://www.spiegel.de/auto/zemmi-fahrrad-sattelzug-im-test-truck-mit-tretantrieb-a-c432b9c8-6420-4764-a719-913dff99eade#ref=rss)
+### erhalten
+
+* [https://www.spiegel.de/auto/pkw-maut-bauindustrie-fordert-pkw-maut-gegen-den-verkehrskollaps](https://www.spiegel.de/auto/pkw-maut-bauindustrie-fordert-pkw-maut-gegen-den-verkehrskollaps-a-65e3f100-23c2-4df0-88fa-c1d1d1895aad#ref=rss)
+* [https://www.spiegel.de/start/kampf-um-die-sorbische-kultur-junge-sorben-zwischen-trachten-und-techno](https://www.spiegel.de/start/kampf-um-die-sorbische-kultur-junge-sorben-zwischen-trachten-und-techno-a-905273b1-90c5-4c57-8551-4800e29ba3f4#ref=rss)
+### warnt
+
+* [https://www.spiegel.de/auto/pkw-maut-bauindustrie-fordert-pkw-maut-gegen-den-verkehrskollaps](https://www.spiegel.de/auto/pkw-maut-bauindustrie-fordert-pkw-maut-gegen-den-verkehrskollaps-a-65e3f100-23c2-4df0-88fa-c1d1d1895aad#ref=rss)
+* [https://www.spiegel.de/panorama/deutscher-wetterdienst-warnt-vor-heftigem-sturm-im-harz](https://www.spiegel.de/panorama/deutscher-wetterdienst-warnt-vor-heftigem-sturm-im-harz-a-02341384-7108-4343-b268-f9e0a4da7ad4#ref=rss)
+### daher
+
+* [https://www.spiegel.de/auto/pkw-maut-bauindustrie-fordert-pkw-maut-gegen-den-verkehrskollaps](https://www.spiegel.de/auto/pkw-maut-bauindustrie-fordert-pkw-maut-gegen-den-verkehrskollaps-a-65e3f100-23c2-4df0-88fa-c1d1d1895aad#ref=rss)
+* [https://www.spiegel.de/auto/ukraine-mit-diesem-nachtzug-faehrt-der-staatsbesuch-aus-dem-westen-nach-kyjiw](https://www.spiegel.de/auto/ukraine-mit-diesem-nachtzug-faehrt-der-staatsbesuch-aus-dem-westen-nach-kyjiw-a-48a5ec43-0405-4f35-9671-c86e907f6716#ref=rss)
+### stonehenge
+
+* [https://www.spiegel.de/panorama/stonehenge-tausende-feiern-wintersonnenwende](https://www.spiegel.de/panorama/stonehenge-tausende-feiern-wintersonnenwende-a-62588960-2f81-416b-8a10-e39361b7da98#ref=rss)
+### todesfahrt
+
+* [https://www.spiegel.de/panorama/magdeburg-aktueller-stand-der-ermittlungen-zur-todesfahrt-im-livestream](https://www.spiegel.de/panorama/magdeburg-aktueller-stand-der-ermittlungen-zur-todesfahrt-im-livestream-a-b81b1d7d-17e0-484d-b0d6-b3b5eccc9e8c#ref=rss)
+* [https://www.spiegel.de/panorama/zehn-minuten-nachdem-wir-los-sind-hat-es-geknallt](https://www.spiegel.de/panorama/zehn-minuten-nachdem-wir-los-sind-hat-es-geknallt-a-e191c022-f59f-4ae8-9ee4-a0a36eea46f0#ref=rss)
+### anschlag
+
+* [https://www.spiegel.de/panorama/magdeburg-aktueller-stand-der-ermittlungen-zur-todesfahrt-im-livestream](https://www.spiegel.de/panorama/magdeburg-aktueller-stand-der-ermittlungen-zur-todesfahrt-im-livestream-a-b81b1d7d-17e0-484d-b0d6-b3b5eccc9e8c#ref=rss)
+* [https://www.spiegel.de/panorama/zehn-minuten-nachdem-wir-los-sind-hat-es-geknallt](https://www.spiegel.de/panorama/zehn-minuten-nachdem-wir-los-sind-hat-es-geknallt-a-e191c022-f59f-4ae8-9ee4-a0a36eea46f0#ref=rss)
+### sagen
+
+* [https://www.spiegel.de/panorama/magdeburg-aktueller-stand-der-ermittlungen-zur-todesfahrt-im-livestream](https://www.spiegel.de/panorama/magdeburg-aktueller-stand-der-ermittlungen-zur-todesfahrt-im-livestream-a-b81b1d7d-17e0-484d-b0d6-b3b5eccc9e8c#ref=rss)
+* [https://www.spiegel.de/netzwelt/games/games-die-10-besten-indie-spiele-des-jahres-2024](https://www.spiegel.de/netzwelt/games/games-die-10-besten-indie-spiele-des-jahres-2024-a-fbc6deb9-e504-45ba-8551-16ff119206c6#ref=rss)
+### hamburger
+
+* [https://www.spiegel.de/sport/fussball/2-bundesliga-hamburger-sv-ueberrollt-greuther-fuerth-karlsruher-sc-uebernimmt-tabellenfuehrung](https://www.spiegel.de/sport/fussball/2-bundesliga-hamburger-sv-ueberrollt-greuther-fuerth-karlsruher-sc-uebernimmt-tabellenfuehrung-a-76dfdfaf-d73a-4e52-8286-10a9de548106#ref=rss)
+### sv
+
+* [https://www.spiegel.de/sport/fussball/2-bundesliga-hamburger-sv-ueberrollt-greuther-fuerth-karlsruher-sc-uebernimmt-tabellenfuehrung](https://www.spiegel.de/sport/fussball/2-bundesliga-hamburger-sv-ueberrollt-greuther-fuerth-karlsruher-sc-uebernimmt-tabellenfuehrung-a-76dfdfaf-d73a-4e52-8286-10a9de548106#ref=rss)
+### karlsruher
+
+* [https://www.spiegel.de/sport/fussball/2-bundesliga-hamburger-sv-ueberrollt-greuther-fuerth-karlsruher-sc-uebernimmt-tabellenfuehrung](https://www.spiegel.de/sport/fussball/2-bundesliga-hamburger-sv-ueberrollt-greuther-fuerth-karlsruher-sc-uebernimmt-tabellenfuehrung-a-76dfdfaf-d73a-4e52-8286-10a9de548106#ref=rss)
+### tabellenführung
+
+* [https://www.spiegel.de/sport/fussball/2-bundesliga-hamburger-sv-ueberrollt-greuther-fuerth-karlsruher-sc-uebernimmt-tabellenfuehrung](https://www.spiegel.de/sport/fussball/2-bundesliga-hamburger-sv-ueberrollt-greuther-fuerth-karlsruher-sc-uebernimmt-tabellenfuehrung-a-76dfdfaf-d73a-4e52-8286-10a9de548106#ref=rss)
+### geduldiger
+
+* [https://www.spiegel.de/familie/gelassenheit-wie-werden-wir-geduldiger-best-of-smarter-leben-podcast-mit-leon-windscheid](https://www.spiegel.de/familie/gelassenheit-wie-werden-wir-geduldiger-best-of-smarter-leben-podcast-mit-leon-windscheid-a-655bf60c-b3f6-4bce-81e6-6cb2f2cdb5b8#ref=rss)
+### leon
+
+* [https://www.spiegel.de/familie/gelassenheit-wie-werden-wir-geduldiger-best-of-smarter-leben-podcast-mit-leon-windscheid](https://www.spiegel.de/familie/gelassenheit-wie-werden-wir-geduldiger-best-of-smarter-leben-podcast-mit-leon-windscheid-a-655bf60c-b3f6-4bce-81e6-6cb2f2cdb5b8#ref=rss)
+### windscheid
+
+* [https://www.spiegel.de/familie/gelassenheit-wie-werden-wir-geduldiger-best-of-smarter-leben-podcast-mit-leon-windscheid](https://www.spiegel.de/familie/gelassenheit-wie-werden-wir-geduldiger-best-of-smarter-leben-podcast-mit-leon-windscheid-a-655bf60c-b3f6-4bce-81e6-6cb2f2cdb5b8#ref=rss)
+### uns
+
+* [https://www.spiegel.de/familie/gelassenheit-wie-werden-wir-geduldiger-best-of-smarter-leben-podcast-mit-leon-windscheid](https://www.spiegel.de/familie/gelassenheit-wie-werden-wir-geduldiger-best-of-smarter-leben-podcast-mit-leon-windscheid-a-655bf60c-b3f6-4bce-81e6-6cb2f2cdb5b8#ref=rss)
+### erklärt
+
+* [https://www.spiegel.de/familie/gelassenheit-wie-werden-wir-geduldiger-best-of-smarter-leben-podcast-mit-leon-windscheid](https://www.spiegel.de/familie/gelassenheit-wie-werden-wir-geduldiger-best-of-smarter-leben-podcast-mit-leon-windscheid-a-655bf60c-b3f6-4bce-81e6-6cb2f2cdb5b8#ref=rss)
+* [https://www.spiegel.de/panorama/online-shopping-vor-weihnachten-warum-ist-im-paket-so-viel-luft-und-so-wenig-inhalt](https://www.spiegel.de/panorama/online-shopping-vor-weihnachten-warum-ist-im-paket-so-viel-luft-und-so-wenig-inhalt-a-f073890d-500d-4b11-8ae8-96864ddbdab5#ref=rss)
+### 10
+
+* [https://www.spiegel.de/netzwelt/games/games-die-10-besten-indie-spiele-des-jahres-2024](https://www.spiegel.de/netzwelt/games/games-die-10-besten-indie-spiele-des-jahres-2024-a-fbc6deb9-e504-45ba-8551-16ff119206c6#ref=rss)
+### besten
+
+* [https://www.spiegel.de/netzwelt/games/games-die-10-besten-indie-spiele-des-jahres-2024](https://www.spiegel.de/netzwelt/games/games-die-10-besten-indie-spiele-des-jahres-2024-a-fbc6deb9-e504-45ba-8551-16ff119206c6#ref=rss)
+* [https://www.spiegel.de/tests/brettspiele/alberne-partypiele-miezekatze-ich-habe-fertig-beat-that-mafia-minze-molch-flieg-schweinchen-flieg](https://www.spiegel.de/tests/brettspiele/alberne-partypiele-miezekatze-ich-habe-fertig-beat-that-mafia-minze-molch-flieg-schweinchen-flieg-a-315de7a2-36c5-4eec-a734-95e998aa3e74#ref=rss)
+### zemmi
+
+* [https://www.spiegel.de/auto/zemmi-fahrrad-sattelzug-im-test-truck-mit-tretantrieb](https://www.spiegel.de/auto/zemmi-fahrrad-sattelzug-im-test-truck-mit-tretantrieb-a-c432b9c8-6420-4764-a719-913dff99eade#ref=rss)
+### welt
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/luxusuhren-von-mb-f-das-haus-in-dem-die-verruecktesten-uhren-der-welt-gebaut-werden](https://www.spiegel.de/wirtschaft/unternehmen/luxusuhren-von-mb-f-das-haus-in-dem-die-verruecktesten-uhren-der-welt-gebaut-werden-a-a2b40f2e-93cb-4c44-ba15-fe1f30bbeb3e#ref=rss)
+* [https://www.spiegel.de/auto/ukraine-mit-diesem-nachtzug-faehrt-der-staatsbesuch-aus-dem-westen-nach-kyjiw](https://www.spiegel.de/auto/ukraine-mit-diesem-nachtzug-faehrt-der-staatsbesuch-aus-dem-westen-nach-kyjiw-a-48a5ec43-0405-4f35-9671-c86e907f6716#ref=rss)
+### pro
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/luxusuhren-von-mb-f-das-haus-in-dem-die-verruecktesten-uhren-der-welt-gebaut-werden](https://www.spiegel.de/wirtschaft/unternehmen/luxusuhren-von-mb-f-das-haus-in-dem-die-verruecktesten-uhren-der-welt-gebaut-werden-a-a2b40f2e-93cb-4c44-ba15-fe1f30bbeb3e#ref=rss)
+* [https://www.spiegel.de/panorama/deutscher-wetterdienst-warnt-vor-heftigem-sturm-im-harz](https://www.spiegel.de/panorama/deutscher-wetterdienst-warnt-vor-heftigem-sturm-im-harz-a-02341384-7108-4343-b268-f9e0a4da7ad4#ref=rss)
 ### zwei
 
-* [https://www.spiegel.de/ausland/gute-nachrichten-wie-ueberlebende-des-tsunamis-von-2004-trost-fanden-alles-gute-vom-spiegel](https://www.spiegel.de/ausland/gute-nachrichten-wie-ueberlebende-des-tsunamis-von-2004-trost-fanden-alles-gute-vom-spiegel-a-10e63c9c-ce3a-4ab3-a1aa-31a6e0733e5d#ref=rss)
-* [https://www.spiegel.de/ausland/russland-und-ukraine-tauschen-weihnachtspakete-und-briefe-fuer-gefangene-aus](https://www.spiegel.de/ausland/russland-und-ukraine-tauschen-weihnachtspakete-und-briefe-fuer-gefangene-aus-a-e2ad4a3f-4d67-4dda-b132-d32a0f3fab3b#ref=rss)
-### china
+* [https://www.spiegel.de/wirtschaft/unternehmen/luxusuhren-von-mb-f-das-haus-in-dem-die-verruecktesten-uhren-der-welt-gebaut-werden](https://www.spiegel.de/wirtschaft/unternehmen/luxusuhren-von-mb-f-das-haus-in-dem-die-verruecktesten-uhren-der-welt-gebaut-werden-a-a2b40f2e-93cb-4c44-ba15-fe1f30bbeb3e#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/kuenstliche-intelligenz-folgt-auf-den-ki-hype-nun-ein-ki-herbst](https://www.spiegel.de/netzwelt/web/kuenstliche-intelligenz-folgt-auf-den-ki-hype-nun-ein-ki-herbst-a-08877d13-66a7-44d3-a0f3-0d9d1c5096f7#ref=rss)
+### fertig
 
-* [https://www.spiegel.de/ausland/usa-versus-china-joe-biden-genehmigt-militaerhilfen-fuer-taiwan](https://www.spiegel.de/ausland/usa-versus-china-joe-biden-genehmigt-militaerhilfen-fuer-taiwan-a-2fe4d3ba-746a-4f4e-a73c-a21b22dbfb2d#ref=rss)
-### taiwan
+* [https://www.spiegel.de/wirtschaft/unternehmen/luxusuhren-von-mb-f-das-haus-in-dem-die-verruecktesten-uhren-der-welt-gebaut-werden](https://www.spiegel.de/wirtschaft/unternehmen/luxusuhren-von-mb-f-das-haus-in-dem-die-verruecktesten-uhren-der-welt-gebaut-werden-a-a2b40f2e-93cb-4c44-ba15-fe1f30bbeb3e#ref=rss)
+* [https://www.spiegel.de/tests/brettspiele/alberne-partypiele-miezekatze-ich-habe-fertig-beat-that-mafia-minze-molch-flieg-schweinchen-flieg](https://www.spiegel.de/tests/brettspiele/alberne-partypiele-miezekatze-ich-habe-fertig-beat-that-mafia-minze-molch-flieg-schweinchen-flieg-a-315de7a2-36c5-4eec-a734-95e998aa3e74#ref=rss)
+### immo
 
-* [https://www.spiegel.de/ausland/usa-versus-china-joe-biden-genehmigt-militaerhilfen-fuer-taiwan](https://www.spiegel.de/ausland/usa-versus-china-joe-biden-genehmigt-militaerhilfen-fuer-taiwan-a-2fe4d3ba-746a-4f4e-a73c-a21b22dbfb2d#ref=rss)
-### vereinigten
+* [https://www.spiegel.de/wirtschaft/immo-tommy-der-gefaehrliche-vertrauensbonus-fuer-gehypte-influencer](https://www.spiegel.de/wirtschaft/immo-tommy-der-gefaehrliche-vertrauensbonus-fuer-gehypte-influencer-a-20b57061-db51-4ba6-a872-c2b4dad65a61#ref=rss)
+### tommy
 
-* [https://www.spiegel.de/ausland/usa-versus-china-joe-biden-genehmigt-militaerhilfen-fuer-taiwan](https://www.spiegel.de/ausland/usa-versus-china-joe-biden-genehmigt-militaerhilfen-fuer-taiwan-a-2fe4d3ba-746a-4f4e-a73c-a21b22dbfb2d#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-us-militaer-toetet-is-anfuehrer-durch-luftangriff](https://www.spiegel.de/ausland/syrien-us-militaer-toetet-is-anfuehrer-durch-luftangriff-a-5310a018-589d-4380-8243-900f9cfe9e3a#ref=rss)
-### staaten
+* [https://www.spiegel.de/wirtschaft/immo-tommy-der-gefaehrliche-vertrauensbonus-fuer-gehypte-influencer](https://www.spiegel.de/wirtschaft/immo-tommy-der-gefaehrliche-vertrauensbonus-fuer-gehypte-influencer-a-20b57061-db51-4ba6-a872-c2b4dad65a61#ref=rss)
+### attentäter
 
-* [https://www.spiegel.de/ausland/usa-versus-china-joe-biden-genehmigt-militaerhilfen-fuer-taiwan](https://www.spiegel.de/ausland/usa-versus-china-joe-biden-genehmigt-militaerhilfen-fuer-taiwan-a-2fe4d3ba-746a-4f4e-a73c-a21b22dbfb2d#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-us-militaer-toetet-is-anfuehrer-durch-luftangriff](https://www.spiegel.de/ausland/syrien-us-militaer-toetet-is-anfuehrer-durch-luftangriff-a-5310a018-589d-4380-8243-900f9cfe9e3a#ref=rss)
-### donald
+* [https://www.spiegel.de/panorama/magdeburg-attentaeter-vom-weihnachtsmarkt-wurde-bereits-2013-verurteilt](https://www.spiegel.de/panorama/magdeburg-attentaeter-vom-weihnachtsmarkt-wurde-bereits-2013-verurteilt-a-57963a33-3325-422a-8fd5-3cfc5248a00d#ref=rss)
+### 2013
 
-* [https://www.spiegel.de/ausland/usa-versus-china-joe-biden-genehmigt-militaerhilfen-fuer-taiwan](https://www.spiegel.de/ausland/usa-versus-china-joe-biden-genehmigt-militaerhilfen-fuer-taiwan-a-2fe4d3ba-746a-4f4e-a73c-a21b22dbfb2d#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-traum-einer-praesidentschaft-ohne-limit](https://www.spiegel.de/ausland/donald-trump-traum-einer-praesidentschaft-ohne-limit-a-439ae03a-a0f6-449b-86e8-af16f2e80258#ref=rss)
-### trump
+* [https://www.spiegel.de/panorama/magdeburg-attentaeter-vom-weihnachtsmarkt-wurde-bereits-2013-verurteilt](https://www.spiegel.de/panorama/magdeburg-attentaeter-vom-weihnachtsmarkt-wurde-bereits-2013-verurteilt-a-57963a33-3325-422a-8fd5-3cfc5248a00d#ref=rss)
+### verurteilt
 
-* [https://www.spiegel.de/ausland/usa-versus-china-joe-biden-genehmigt-militaerhilfen-fuer-taiwan](https://www.spiegel.de/ausland/usa-versus-china-joe-biden-genehmigt-militaerhilfen-fuer-taiwan-a-2fe4d3ba-746a-4f4e-a73c-a21b22dbfb2d#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-traum-einer-praesidentschaft-ohne-limit](https://www.spiegel.de/ausland/donald-trump-traum-einer-praesidentschaft-ohne-limit-a-439ae03a-a0f6-449b-86e8-af16f2e80258#ref=rss)
-### kreuz
+* [https://www.spiegel.de/panorama/magdeburg-attentaeter-vom-weihnachtsmarkt-wurde-bereits-2013-verurteilt](https://www.spiegel.de/panorama/magdeburg-attentaeter-vom-weihnachtsmarkt-wurde-bereits-2013-verurteilt-a-57963a33-3325-422a-8fd5-3cfc5248a00d#ref=rss)
+### dagegen
 
-* [https://www.spiegel.de/panorama/gesellschaft/deutsches-rotes-kreuz-verzeichnet-massiven-spendeneinbruch](https://www.spiegel.de/panorama/gesellschaft/deutsches-rotes-kreuz-verzeichnet-massiven-spendeneinbruch-a-9babff77-3bba-435d-b943-170fe3a1f088#ref=rss)
-### deutschen
+* [https://www.spiegel.de/panorama/magdeburg-attentaeter-vom-weihnachtsmarkt-wurde-bereits-2013-verurteilt](https://www.spiegel.de/panorama/magdeburg-attentaeter-vom-weihnachtsmarkt-wurde-bereits-2013-verurteilt-a-57963a33-3325-422a-8fd5-3cfc5248a00d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/us-arzneimittelbehoerde-fda-laesst-medikament-zepbound-zur-behandlung-bei-schlafapnoe-zu](https://www.spiegel.de/wissenschaft/us-arzneimittelbehoerde-fda-laesst-medikament-zepbound-zur-behandlung-bei-schlafapnoe-zu-a-fedf4f06-7829-4f73-9626-00a0a79a1859#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/panorama/gesellschaft/deutsches-rotes-kreuz-verzeichnet-massiven-spendeneinbruch](https://www.spiegel.de/panorama/gesellschaft/deutsches-rotes-kreuz-verzeichnet-massiven-spendeneinbruch-a-9babff77-3bba-435d-b943-170fe3a1f088#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-tote-und-verletzte-in-magdeburg-weihnachtsmarkt-hamburger-bsw-elon-musk](https://www.spiegel.de/politik/deutschland/news-tote-und-verletzte-in-magdeburg-weihnachtsmarkt-hamburger-bsw-elon-musk-a-6b1a4d4d-6ac2-4df7-9a3d-67e70441f8d4#ref=rss)
-### isanführer
+* [https://www.spiegel.de/auto/ukraine-mit-diesem-nachtzug-faehrt-der-staatsbesuch-aus-dem-westen-nach-kyjiw](https://www.spiegel.de/auto/ukraine-mit-diesem-nachtzug-faehrt-der-staatsbesuch-aus-dem-westen-nach-kyjiw-a-48a5ec43-0405-4f35-9671-c86e907f6716#ref=rss)
+### erreichen
 
-* [https://www.spiegel.de/ausland/syrien-us-militaer-toetet-is-anfuehrer-durch-luftangriff](https://www.spiegel.de/ausland/syrien-us-militaer-toetet-is-anfuehrer-durch-luftangriff-a-5310a018-589d-4380-8243-900f9cfe9e3a#ref=rss)
-### küchenmeisterei
+* [https://www.spiegel.de/auto/ukraine-mit-diesem-nachtzug-faehrt-der-staatsbesuch-aus-dem-westen-nach-kyjiw](https://www.spiegel.de/auto/ukraine-mit-diesem-nachtzug-faehrt-der-staatsbesuch-aus-dem-westen-nach-kyjiw-a-48a5ec43-0405-4f35-9671-c86e907f6716#ref=rss)
+* [https://www.spiegel.de/panorama/deutscher-wetterdienst-warnt-vor-heftigem-sturm-im-harz](https://www.spiegel.de/panorama/deutscher-wetterdienst-warnt-vor-heftigem-sturm-im-harz-a-02341384-7108-4343-b268-f9e0a4da7ad4#ref=rss)
+### darin
 
-* [https://www.spiegel.de/stil/festessen-an-weihnachten-einblicke-in-die-kuechenmeisterei-deutschlands-aeltestes-kochbuch](https://www.spiegel.de/stil/festessen-an-weihnachten-einblicke-in-die-kuechenmeisterei-deutschlands-aeltestes-kochbuch-a-45046c8f-cd61-49f8-ab4b-bc407b75450f#ref=rss)
-### ältestes
+* [https://www.spiegel.de/auto/ukraine-mit-diesem-nachtzug-faehrt-der-staatsbesuch-aus-dem-westen-nach-kyjiw](https://www.spiegel.de/auto/ukraine-mit-diesem-nachtzug-faehrt-der-staatsbesuch-aus-dem-westen-nach-kyjiw-a-48a5ec43-0405-4f35-9671-c86e907f6716#ref=rss)
+* [https://www.spiegel.de/wirtschaft/argentinien-javier-milei-setzt-auf-atomkraft-fuer-kuenstliche-intelligenz](https://www.spiegel.de/wirtschaft/argentinien-javier-milei-setzt-auf-atomkraft-fuer-kuenstliche-intelligenz-a-d534f13c-6a25-46c2-93b8-219dcf49a53b#ref=rss)
+### saat
 
-* [https://www.spiegel.de/stil/festessen-an-weihnachten-einblicke-in-die-kuechenmeisterei-deutschlands-aeltestes-kochbuch](https://www.spiegel.de/stil/festessen-an-weihnachten-einblicke-in-die-kuechenmeisterei-deutschlands-aeltestes-kochbuch-a-45046c8f-cd61-49f8-ab4b-bc407b75450f#ref=rss)
-### kochbuch
+* [https://www.spiegel.de/kultur/kino/die-saat-des-heiligen-feigenbaums-von-mohammad-rasoulof-showdown-im-widerstand](https://www.spiegel.de/kultur/kino/die-saat-des-heiligen-feigenbaums-von-mohammad-rasoulof-showdown-im-widerstand-a-7b4a9a1b-c1fa-4e3e-9126-e8b63092cc62#ref=rss)
+### heiligen
 
-* [https://www.spiegel.de/stil/festessen-an-weihnachten-einblicke-in-die-kuechenmeisterei-deutschlands-aeltestes-kochbuch](https://www.spiegel.de/stil/festessen-an-weihnachten-einblicke-in-die-kuechenmeisterei-deutschlands-aeltestes-kochbuch-a-45046c8f-cd61-49f8-ab4b-bc407b75450f#ref=rss)
-### marieluise
+* [https://www.spiegel.de/kultur/kino/die-saat-des-heiligen-feigenbaums-von-mohammad-rasoulof-showdown-im-widerstand](https://www.spiegel.de/kultur/kino/die-saat-des-heiligen-feigenbaums-von-mohammad-rasoulof-showdown-im-widerstand-a-7b4a9a1b-c1fa-4e3e-9126-e8b63092cc62#ref=rss)
+### feigenbaums
 
-* [https://www.spiegel.de/kultur/schoener-schreiben-marie-luise-scherer-und-die-kraftvolle-genauigkeit-die-deutschkolumne](https://www.spiegel.de/kultur/schoener-schreiben-marie-luise-scherer-und-die-kraftvolle-genauigkeit-die-deutschkolumne-a-c0bdc9b0-254c-482e-be25-899958b6e995#ref=rss)
-### scherer
+* [https://www.spiegel.de/kultur/kino/die-saat-des-heiligen-feigenbaums-von-mohammad-rasoulof-showdown-im-widerstand](https://www.spiegel.de/kultur/kino/die-saat-des-heiligen-feigenbaums-von-mohammad-rasoulof-showdown-im-widerstand-a-7b4a9a1b-c1fa-4e3e-9126-e8b63092cc62#ref=rss)
+### mohammad
 
-* [https://www.spiegel.de/kultur/schoener-schreiben-marie-luise-scherer-und-die-kraftvolle-genauigkeit-die-deutschkolumne](https://www.spiegel.de/kultur/schoener-schreiben-marie-luise-scherer-und-die-kraftvolle-genauigkeit-die-deutschkolumne-a-c0bdc9b0-254c-482e-be25-899958b6e995#ref=rss)
-### genauigkeit
+* [https://www.spiegel.de/kultur/kino/die-saat-des-heiligen-feigenbaums-von-mohammad-rasoulof-showdown-im-widerstand](https://www.spiegel.de/kultur/kino/die-saat-des-heiligen-feigenbaums-von-mohammad-rasoulof-showdown-im-widerstand-a-7b4a9a1b-c1fa-4e3e-9126-e8b63092cc62#ref=rss)
+### rasoulof
 
-* [https://www.spiegel.de/kultur/schoener-schreiben-marie-luise-scherer-und-die-kraftvolle-genauigkeit-die-deutschkolumne](https://www.spiegel.de/kultur/schoener-schreiben-marie-luise-scherer-und-die-kraftvolle-genauigkeit-die-deutschkolumne-a-c0bdc9b0-254c-482e-be25-899958b6e995#ref=rss)
-### bahn
+* [https://www.spiegel.de/kultur/kino/die-saat-des-heiligen-feigenbaums-von-mohammad-rasoulof-showdown-im-widerstand](https://www.spiegel.de/kultur/kino/die-saat-des-heiligen-feigenbaums-von-mohammad-rasoulof-showdown-im-widerstand-a-7b4a9a1b-c1fa-4e3e-9126-e8b63092cc62#ref=rss)
+### österreich
 
-* [https://www.spiegel.de/wirtschaft/bahn-verspaetungen-fuehren-2024-zu-umsatzverlust-von-700-millionen-euro](https://www.spiegel.de/wirtschaft/bahn-verspaetungen-fuehren-2024-zu-umsatzverlust-von-700-millionen-euro-a-0c4691b1-cd77-4292-91c2-f8a98a0607a0#ref=rss)
-### verspätungen
+* [https://www.spiegel.de/ausland/oesterreich-taeuschte-ein-betrueger-heinz-christian-strache](https://www.spiegel.de/ausland/oesterreich-taeuschte-ein-betrueger-heinz-christian-strache-a-abe6f411-f9fd-4f1b-982e-01d82c482d84#ref=rss)
+### kultur
 
-* [https://www.spiegel.de/wirtschaft/bahn-verspaetungen-fuehren-2024-zu-umsatzverlust-von-700-millionen-euro](https://www.spiegel.de/wirtschaft/bahn-verspaetungen-fuehren-2024-zu-umsatzverlust-von-700-millionen-euro-a-0c4691b1-cd77-4292-91c2-f8a98a0607a0#ref=rss)
-### bsw
+* [https://www.spiegel.de/start/kampf-um-die-sorbische-kultur-junge-sorben-zwischen-trachten-und-techno](https://www.spiegel.de/start/kampf-um-die-sorbische-kultur-junge-sorben-zwischen-trachten-und-techno-a-905273b1-90c5-4c57-8551-4800e29ba3f4#ref=rss)
+### sorben
 
-* [https://www.spiegel.de/politik/deutschland/news-tote-und-verletzte-in-magdeburg-weihnachtsmarkt-hamburger-bsw-elon-musk](https://www.spiegel.de/politik/deutschland/news-tote-und-verletzte-in-magdeburg-weihnachtsmarkt-hamburger-bsw-elon-musk-a-6b1a4d4d-6ac2-4df7-9a3d-67e70441f8d4#ref=rss)
-### elon
+* [https://www.spiegel.de/start/kampf-um-die-sorbische-kultur-junge-sorben-zwischen-trachten-und-techno](https://www.spiegel.de/start/kampf-um-die-sorbische-kultur-junge-sorben-zwischen-trachten-und-techno-a-905273b1-90c5-4c57-8551-4800e29ba3f4#ref=rss)
+### wetterdienst
 
-* [https://www.spiegel.de/politik/deutschland/news-tote-und-verletzte-in-magdeburg-weihnachtsmarkt-hamburger-bsw-elon-musk](https://www.spiegel.de/politik/deutschland/news-tote-und-verletzte-in-magdeburg-weihnachtsmarkt-hamburger-bsw-elon-musk-a-6b1a4d4d-6ac2-4df7-9a3d-67e70441f8d4#ref=rss)
-### musk
+* [https://www.spiegel.de/panorama/deutscher-wetterdienst-warnt-vor-heftigem-sturm-im-harz](https://www.spiegel.de/panorama/deutscher-wetterdienst-warnt-vor-heftigem-sturm-im-harz-a-02341384-7108-4343-b268-f9e0a4da7ad4#ref=rss)
+### sturm
 
-* [https://www.spiegel.de/politik/deutschland/news-tote-und-verletzte-in-magdeburg-weihnachtsmarkt-hamburger-bsw-elon-musk](https://www.spiegel.de/politik/deutschland/news-tote-und-verletzte-in-magdeburg-weihnachtsmarkt-hamburger-bsw-elon-musk-a-6b1a4d4d-6ac2-4df7-9a3d-67e70441f8d4#ref=rss)
-### bad
+* [https://www.spiegel.de/panorama/deutscher-wetterdienst-warnt-vor-heftigem-sturm-im-harz](https://www.spiegel.de/panorama/deutscher-wetterdienst-warnt-vor-heftigem-sturm-im-harz-a-02341384-7108-4343-b268-f9e0a4da7ad4#ref=rss)
+### flieg
 
-* [https://www.spiegel.de/partnerschaft/bad-segeberg-und-seine-autokennzeichen-wie-ich-auf-humorvolle-menschen-traf-deren-autos-das-kennzeichen-se-xy-tragen](https://www.spiegel.de/partnerschaft/bad-segeberg-und-seine-autokennzeichen-wie-ich-auf-humorvolle-menschen-traf-deren-autos-das-kennzeichen-se-xy-tragen-a-0b2e9e87-9a32-4ea9-8a14-b604510f751b#ref=rss)
-### segeberg
+* [https://www.spiegel.de/tests/brettspiele/alberne-partypiele-miezekatze-ich-habe-fertig-beat-that-mafia-minze-molch-flieg-schweinchen-flieg](https://www.spiegel.de/tests/brettspiele/alberne-partypiele-miezekatze-ich-habe-fertig-beat-that-mafia-minze-molch-flieg-schweinchen-flieg-a-315de7a2-36c5-4eec-a734-95e998aa3e74#ref=rss)
+### tischtennis
 
-* [https://www.spiegel.de/partnerschaft/bad-segeberg-und-seine-autokennzeichen-wie-ich-auf-humorvolle-menschen-traf-deren-autos-das-kennzeichen-se-xy-tragen](https://www.spiegel.de/partnerschaft/bad-segeberg-und-seine-autokennzeichen-wie-ich-auf-humorvolle-menschen-traf-deren-autos-das-kennzeichen-se-xy-tragen-a-0b2e9e87-9a32-4ea9-8a14-b604510f751b#ref=rss)
-### sophia
+* [https://www.spiegel.de/sport/olympia/tischtennis-annett-kaufmann-distanziert-sich-von-vergleichen-mit-timo-boll](https://www.spiegel.de/sport/olympia/tischtennis-annett-kaufmann-distanziert-sich-von-vergleichen-mit-timo-boll-a-77d18737-9adb-46dd-bc2b-b901e178b428#ref=rss)
+### annett
 
-* [https://www.spiegel.de/panorama/sophia-thomalla-die-frau-die-veganer-radfahrer-und-gender-aktivistinnen-aufregt](https://www.spiegel.de/panorama/sophia-thomalla-die-frau-die-veganer-radfahrer-und-gender-aktivistinnen-aufregt-a-17b42302-1902-4b52-9ffa-51ed60211586#ref=rss)
-### thomalla
+* [https://www.spiegel.de/sport/olympia/tischtennis-annett-kaufmann-distanziert-sich-von-vergleichen-mit-timo-boll](https://www.spiegel.de/sport/olympia/tischtennis-annett-kaufmann-distanziert-sich-von-vergleichen-mit-timo-boll-a-77d18737-9adb-46dd-bc2b-b901e178b428#ref=rss)
+### kaufmann
 
-* [https://www.spiegel.de/panorama/sophia-thomalla-die-frau-die-veganer-radfahrer-und-gender-aktivistinnen-aufregt](https://www.spiegel.de/panorama/sophia-thomalla-die-frau-die-veganer-radfahrer-und-gender-aktivistinnen-aufregt-a-17b42302-1902-4b52-9ffa-51ed60211586#ref=rss)
-### kyjiw
+* [https://www.spiegel.de/sport/olympia/tischtennis-annett-kaufmann-distanziert-sich-von-vergleichen-mit-timo-boll](https://www.spiegel.de/sport/olympia/tischtennis-annett-kaufmann-distanziert-sich-von-vergleichen-mit-timo-boll-a-77d18737-9adb-46dd-bc2b-b901e178b428#ref=rss)
+### distanziert
 
-* [https://www.spiegel.de/ausland/russland-und-ukraine-tauschen-weihnachtspakete-und-briefe-fuer-gefangene-aus](https://www.spiegel.de/ausland/russland-und-ukraine-tauschen-weihnachtspakete-und-briefe-fuer-gefangene-aus-a-e2ad4a3f-4d67-4dda-b132-d32a0f3fab3b#ref=rss)
-### jemen
+* [https://www.spiegel.de/sport/olympia/tischtennis-annett-kaufmann-distanziert-sich-von-vergleichen-mit-timo-boll](https://www.spiegel.de/sport/olympia/tischtennis-annett-kaufmann-distanziert-sich-von-vergleichen-mit-timo-boll-a-77d18737-9adb-46dd-bc2b-b901e178b428#ref=rss)
+### vergleichen
 
-* [https://www.spiegel.de/ausland/krieg-in-nahost-mehr-als-ein-dutzend-verletzte-in-israel-nach-einschlag-von-geschoss-aus-dem-jemen](https://www.spiegel.de/ausland/krieg-in-nahost-mehr-als-ein-dutzend-verletzte-in-israel-nach-einschlag-von-geschoss-aus-dem-jemen-a-2c9626ea-d6db-4ab3-8fee-f18f228207a5#ref=rss)
+* [https://www.spiegel.de/sport/olympia/tischtennis-annett-kaufmann-distanziert-sich-von-vergleichen-mit-timo-boll](https://www.spiegel.de/sport/olympia/tischtennis-annett-kaufmann-distanziert-sich-von-vergleichen-mit-timo-boll-a-77d18737-9adb-46dd-bc2b-b901e178b428#ref=rss)
+### timo
+
+* [https://www.spiegel.de/sport/olympia/tischtennis-annett-kaufmann-distanziert-sich-von-vergleichen-mit-timo-boll](https://www.spiegel.de/sport/olympia/tischtennis-annett-kaufmann-distanziert-sich-von-vergleichen-mit-timo-boll-a-77d18737-9adb-46dd-bc2b-b901e178b428#ref=rss)
+### boll
+
+* [https://www.spiegel.de/sport/olympia/tischtennis-annett-kaufmann-distanziert-sich-von-vergleichen-mit-timo-boll](https://www.spiegel.de/sport/olympia/tischtennis-annett-kaufmann-distanziert-sich-von-vergleichen-mit-timo-boll-a-77d18737-9adb-46dd-bc2b-b901e178b428#ref=rss)
+### argentinien
+
+* [https://www.spiegel.de/wirtschaft/argentinien-javier-milei-setzt-auf-atomkraft-fuer-kuenstliche-intelligenz](https://www.spiegel.de/wirtschaft/argentinien-javier-milei-setzt-auf-atomkraft-fuer-kuenstliche-intelligenz-a-d534f13c-6a25-46c2-93b8-219dcf49a53b#ref=rss)
+### javier
+
+* [https://www.spiegel.de/wirtschaft/argentinien-javier-milei-setzt-auf-atomkraft-fuer-kuenstliche-intelligenz](https://www.spiegel.de/wirtschaft/argentinien-javier-milei-setzt-auf-atomkraft-fuer-kuenstliche-intelligenz-a-d534f13c-6a25-46c2-93b8-219dcf49a53b#ref=rss)
+### milei
+
+* [https://www.spiegel.de/wirtschaft/argentinien-javier-milei-setzt-auf-atomkraft-fuer-kuenstliche-intelligenz](https://www.spiegel.de/wirtschaft/argentinien-javier-milei-setzt-auf-atomkraft-fuer-kuenstliche-intelligenz-a-d534f13c-6a25-46c2-93b8-219dcf49a53b#ref=rss)
+### zehn
+
+* [https://www.spiegel.de/wirtschaft/argentinien-javier-milei-setzt-auf-atomkraft-fuer-kuenstliche-intelligenz](https://www.spiegel.de/wirtschaft/argentinien-javier-milei-setzt-auf-atomkraft-fuer-kuenstliche-intelligenz-a-d534f13c-6a25-46c2-93b8-219dcf49a53b#ref=rss)
+* [https://www.spiegel.de/panorama/zehn-minuten-nachdem-wir-los-sind-hat-es-geknallt](https://www.spiegel.de/panorama/zehn-minuten-nachdem-wir-los-sind-hat-es-geknallt-a-e191c022-f59f-4ae8-9ee4-a0a36eea46f0#ref=rss)
+### medikament
+
+* [https://www.spiegel.de/wissenschaft/us-arzneimittelbehoerde-fda-laesst-medikament-zepbound-zur-behandlung-bei-schlafapnoe-zu](https://www.spiegel.de/wissenschaft/us-arzneimittelbehoerde-fda-laesst-medikament-zepbound-zur-behandlung-bei-schlafapnoe-zu-a-fedf4f06-7829-4f73-9626-00a0a79a1859#ref=rss)
+### behandlung
+
+* [https://www.spiegel.de/wissenschaft/us-arzneimittelbehoerde-fda-laesst-medikament-zepbound-zur-behandlung-bei-schlafapnoe-zu](https://www.spiegel.de/wissenschaft/us-arzneimittelbehoerde-fda-laesst-medikament-zepbound-zur-behandlung-bei-schlafapnoe-zu-a-fedf4f06-7829-4f73-9626-00a0a79a1859#ref=rss)
 
