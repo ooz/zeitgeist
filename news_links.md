@@ -4,288 +4,370 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### weihnachten
+### mann
 
-* [https://www.spiegel.de/kultur/tv/weihnachtsfilme-2024-wo-die-klassiker-im-tv-und-streaming-laufen](https://www.spiegel.de/kultur/tv/weihnachtsfilme-2024-wo-die-klassiker-im-tv-und-streaming-laufen-a-9b5d4152-2a54-4caf-b4ab-1e7ed85cfe42#ref=rss)
-* [https://www.spiegel.de/panorama/schnee-an-heiligabend-wo-weisse-weihnachten-moeglich-sind](https://www.spiegel.de/panorama/schnee-an-heiligabend-wo-weisse-weihnachten-moeglich-sind-a-ccf515ff-bbf6-443b-8bfa-ad23a71bbc7a#ref=rss)
-* [https://www.spiegel.de/panorama/papst-franziskus-sendet-angelusgebet-von-zu-hause-um-an-weihnachten-fit-zu-sein](https://www.spiegel.de/panorama/papst-franziskus-sendet-angelusgebet-von-zu-hause-um-an-weihnachten-fit-zu-sein-a-577bd372-3485-46fc-aa66-d824113a9701#ref=rss)
-### fc
+* [https://www.spiegel.de/panorama/schwede-schiesst-mann-in-den-fuss-weil-er-die-letzte-kaper-wollte](https://www.spiegel.de/panorama/schwede-schiesst-mann-in-den-fuss-weil-er-die-letzte-kaper-wollte-a-59a5b7c0-df1d-4508-b647-ec2f11bb5b22#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bremerhaven-mann-droht-mit-messerangriffen-auf-weihnachtsmarkt-festnahme](https://www.spiegel.de/panorama/justiz/bremerhaven-mann-droht-mit-messerangriffen-auf-weihnachtsmarkt-festnahme-a-7823d991-252a-49a4-a71c-692f7439b3fe#ref=rss)
+### donald
 
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-1-fc-koeln-erobert-tabellenspitze-merlin-polzin-bleibt-hsv-trainer](https://www.spiegel.de/sport/fussball/2-bundesliga-1-fc-koeln-erobert-tabellenspitze-merlin-polzin-bleibt-hsv-trainer-a-7b72510e-852a-4015-aadb-a24fbed45091#ref=rss)
-* [https://www.spiegel.de/sport/fussball/rassismus-im-fussball-oladapo-afolayan-vom-fc-st-pauli-veroeffentlicht-rassistische-anfeindungen](https://www.spiegel.de/sport/fussball/rassismus-im-fussball-oladapo-afolayan-vom-fc-st-pauli-veroeffentlicht-rassistische-anfeindungen-a-683616b0-7913-45fa-979e-06323b8934e6#ref=rss)
-### laut
+* [https://www.spiegel.de/ausland/us-praesident-donald-trump-nimmt-erneut-groenland-ins-visier](https://www.spiegel.de/ausland/us-praesident-donald-trump-nimmt-erneut-groenland-ins-visier-a-b714330a-7330-4e45-b40f-3e7b73fdae03#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-aeussert-sich-transfeindlich-und-will-dritte-geschlechtsoption-verbieten](https://www.spiegel.de/ausland/donald-trump-aeussert-sich-transfeindlich-und-will-dritte-geschlechtsoption-verbieten-a-ad933aa0-1c4f-41c5-a31a-d9d0abcf1ded#ref=rss)
+### trump
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-boni-fuer-manager-gekuerzt](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-boni-fuer-manager-gekuerzt-a-b8946853-e8d2-41ee-8d01-e3625be55b99#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/goerlitz-brutaler-angriff-auf-linke-kommunalpolitikerinnen-in-goerlitz](https://www.spiegel.de/panorama/justiz/goerlitz-brutaler-angriff-auf-linke-kommunalpolitikerinnen-in-goerlitz-a-68f2c1d5-baa4-41b2-b9f4-4d11c6734017#ref=rss)
-* [https://www.spiegel.de/panorama/schnee-an-heiligabend-wo-weisse-weihnachten-moeglich-sind](https://www.spiegel.de/panorama/schnee-an-heiligabend-wo-weisse-weihnachten-moeglich-sind-a-ccf515ff-bbf6-443b-8bfa-ad23a71bbc7a#ref=rss)
+* [https://www.spiegel.de/ausland/us-praesident-donald-trump-nimmt-erneut-groenland-ins-visier](https://www.spiegel.de/ausland/us-praesident-donald-trump-nimmt-erneut-groenland-ins-visier-a-b714330a-7330-4e45-b40f-3e7b73fdae03#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-aeussert-sich-transfeindlich-und-will-dritte-geschlechtsoption-verbieten](https://www.spiegel.de/ausland/donald-trump-aeussert-sich-transfeindlich-und-will-dritte-geschlechtsoption-verbieten-a-ad933aa0-1c4f-41c5-a31a-d9d0abcf1ded#ref=rss)
+### bleiben
+
+* [https://www.spiegel.de/politik/deutschland/cdu-thorsten-frei-will-bleiberecht-von-migranten-an-mindestverdienst-knuepfen](https://www.spiegel.de/politik/deutschland/cdu-thorsten-frei-will-bleiberecht-von-migranten-an-mindestverdienst-knuepfen-a-e090ab44-3d97-4eed-9f75-2bb1681a30e4#ref=rss)
+* [https://www.spiegel.de/karriere/burn-out-nach-erkrankung-den-job-wechseln-oder-bleiben](https://www.spiegel.de/karriere/burn-out-nach-erkrankung-den-job-wechseln-oder-bleiben-a-54c0815f-bae8-4c44-88ce-db63f3a41287#ref=rss)
+* [https://www.spiegel.de/karriere/burnout-wie-man-zwischen-bleiben-und-gehen-abwaegt](https://www.spiegel.de/karriere/burnout-wie-man-zwischen-bleiben-und-gehen-abwaegt-a-eb59e444-cf9b-44e5-9c4a-64e606078ec6#ref=rss)
+### viele
+
+* [https://www.spiegel.de/wirtschaft/techniker-krankenkasse-meldet-rekord-bei-krankmeldungen](https://www.spiegel.de/wirtschaft/techniker-krankenkasse-meldet-rekord-bei-krankmeldungen-a-f16986a9-4434-4523-a855-fd35ebc02a74#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-in-italien-eklat-nach-tor-von-mussolini-urenkel-fans-zeigen-roemischen-gruss](https://www.spiegel.de/sport/fussball/fussball-in-italien-eklat-nach-tor-von-mussolini-urenkel-fans-zeigen-roemischen-gruss-a-bb60315b-2850-4b2c-8ec8-2cb3cdead899#ref=rss)
+* [https://www.spiegel.de/wirtschaft/strukturprobleme-wirtschaftsweise-grimm-erwartet-harte-zeiten-auf-dem-arbeitsmarkt](https://www.spiegel.de/wirtschaft/strukturprobleme-wirtschaftsweise-grimm-erwartet-harte-zeiten-auf-dem-arbeitsmarkt-a-1b7d910b-2f8e-48e9-9a25-ec26cc9424f7#ref=rss)
+### studie
+
+* [https://www.spiegel.de/wissenschaft/mensch/klimakrise-studie-identifiziert-13-verschiedene-typen-von-klimazorn](https://www.spiegel.de/wissenschaft/mensch/klimakrise-studie-identifiziert-13-verschiedene-typen-von-klimazorn-a-9ab5a051-b7fa-4f90-b7c5-0e089688bc2d#ref=rss)
+* [https://www.spiegel.de/panorama/studie-ueber-hochdeutsch-in-hannover-das-ist-doch-keese](https://www.spiegel.de/panorama/studie-ueber-hochdeutsch-in-hannover-das-ist-doch-keese-a-4d821343-aded-4e4b-8a35-26df6909d857#ref=rss)
+### uspräsident
+
+* [https://www.spiegel.de/ausland/us-praesident-donald-trump-nimmt-erneut-groenland-ins-visier](https://www.spiegel.de/ausland/us-praesident-donald-trump-nimmt-erneut-groenland-ins-visier-a-b714330a-7330-4e45-b40f-3e7b73fdae03#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-aeussert-sich-transfeindlich-und-will-dritte-geschlechtsoption-verbieten](https://www.spiegel.de/ausland/donald-trump-aeussert-sich-transfeindlich-und-will-dritte-geschlechtsoption-verbieten-a-ad933aa0-1c4f-41c5-a31a-d9d0abcf1ded#ref=rss)
+### post
+
+* [https://www.spiegel.de/politik/deutschland/renate-kuenast-gruenenpolitikerin-nach-post-ueber-palaestinensischen-juden-jesus-in-der-kritik](https://www.spiegel.de/politik/deutschland/renate-kuenast-gruenenpolitikerin-nach-post-ueber-palaestinensischen-juden-jesus-in-der-kritik-a-d57c416b-dc79-4580-9eed-0aa82785d6b1#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-nova-post-verbindet-die-gefluechteten-mit-der-heimat](https://www.spiegel.de/ausland/ukraine-nova-post-verbindet-die-gefluechteten-mit-der-heimat-a-95406f5e-2473-4304-9622-143f0e678aba#ref=rss)
 ### wo
 
-* [https://www.spiegel.de/kultur/tv/weihnachtsfilme-2024-wo-die-klassiker-im-tv-und-streaming-laufen](https://www.spiegel.de/kultur/tv/weihnachtsfilme-2024-wo-die-klassiker-im-tv-und-streaming-laufen-a-9b5d4152-2a54-4caf-b4ab-1e7ed85cfe42#ref=rss)
-* [https://www.spiegel.de/panorama/schnee-an-heiligabend-wo-weisse-weihnachten-moeglich-sind](https://www.spiegel.de/panorama/schnee-an-heiligabend-wo-weisse-weihnachten-moeglich-sind-a-ccf515ff-bbf6-443b-8bfa-ad23a71bbc7a#ref=rss)
-### jahre
+* [https://www.spiegel.de/kultur/deutsche-netflix-comedy-von-dimitrij-und-alex-schaad-in-kacken-an-der-havel-wo-der-spass-anfaengt](https://www.spiegel.de/kultur/deutsche-netflix-comedy-von-dimitrij-und-alex-schaad-in-kacken-an-der-havel-wo-der-spass-anfaengt-a-87cc4bfc-a994-4ad8-a5d2-7dda2a07e0d7#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/netflix-wow-rtl-prime-video-und-disney-wo-nervt-die-werbung-am-meisten](https://www.spiegel.de/netzwelt/apps/netflix-wow-rtl-prime-video-und-disney-wo-nervt-die-werbung-am-meisten-a-b843ea16-2f7e-4902-8379-3bda3e2ffcbd#ref=rss)
+* [https://www.spiegel.de/karriere/burnout-wie-man-zwischen-bleiben-und-gehen-abwaegt](https://www.spiegel.de/karriere/burnout-wie-man-zwischen-bleiben-und-gehen-abwaegt-a-eb59e444-cf9b-44e5-9c4a-64e606078ec6#ref=rss)
+### video
 
-* [https://www.spiegel.de/kultur/tv/weihnachtsfilme-2024-wo-die-klassiker-im-tv-und-streaming-laufen](https://www.spiegel.de/kultur/tv/weihnachtsfilme-2024-wo-die-klassiker-im-tv-und-streaming-laufen-a-9b5d4152-2a54-4caf-b4ab-1e7ed85cfe42#ref=rss)
-* [https://www.spiegel.de/ausland/mexiko-wie-frauen-indigene-traditionen-erhalten-und-zeitgleich-geschlechterrollen-veraendern](https://www.spiegel.de/ausland/mexiko-wie-frauen-indigene-traditionen-erhalten-und-zeitgleich-geschlechterrollen-veraendern-a-e2ce0949-0014-41a8-935c-2780bd8bc1bb#ref=rss)
-* [https://www.spiegel.de/wissenschaft/glattwale-koennen-ueber-130-jahre-alt-werden-viel-aelter-als-bisher-angenommen](https://www.spiegel.de/wissenschaft/glattwale-koennen-ueber-130-jahre-alt-werden-viel-aelter-als-bisher-angenommen-a-78ae63f1-6283-44c2-b822-6d9cb40f4d62#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/netflix-wow-rtl-prime-video-und-disney-wo-nervt-die-werbung-am-meisten](https://www.spiegel.de/netzwelt/apps/netflix-wow-rtl-prime-video-und-disney-wo-nervt-die-werbung-am-meisten-a-b843ea16-2f7e-4902-8379-3bda3e2ffcbd#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bremerhaven-mann-droht-mit-messerangriffen-auf-weihnachtsmarkt-festnahme](https://www.spiegel.de/panorama/justiz/bremerhaven-mann-droht-mit-messerangriffen-auf-weihnachtsmarkt-festnahme-a-7823d991-252a-49a4-a71c-692f7439b3fe#ref=rss)
+### kaiserslautern
+
+* [https://www.spiegel.de/start/studieren-in-kaiserslautern-campus-wohnviertel-wg-zimmer-preise-die-besten-kneipen](https://www.spiegel.de/start/studieren-in-kaiserslautern-campus-wohnviertel-wg-zimmer-preise-die-besten-kneipen-a-5f75b83f-57ce-420c-b89e-0cabfb8369f9#ref=rss)
 ### ich
 
-* [https://www.spiegel.de/wissenschaft/studie-zur-handkraft-greif-zu-und-ich-sag-dir-wie-gesund-du-bist](https://www.spiegel.de/wissenschaft/studie-zur-handkraft-greif-zu-und-ich-sag-dir-wie-gesund-du-bist-a-44b340ed-5479-4cd7-8d70-142e92ce5ba8#ref=rss)
-* [https://www.spiegel.de/familie/kuckuckskinder-mein-leben-lang-hatte-ich-mich-gefragt-warum-ich-so-anders-bin](https://www.spiegel.de/familie/kuckuckskinder-mein-leben-lang-hatte-ich-mich-gefragt-warum-ich-so-anders-bin-a-5cc2e2a9-e2cb-40f9-be59-21ae27aa47ad#ref=rss)
-### bisher
+* [https://www.spiegel.de/familie/geschenke-kaufen-an-heiligabend-tipps-von-den-profis](https://www.spiegel.de/familie/geschenke-kaufen-an-heiligabend-tipps-von-den-profis-a-c6ba5cc6-f914-4787-94b1-97c2207633be#ref=rss)
+* [https://www.spiegel.de/karriere/burn-out-nach-erkrankung-den-job-wechseln-oder-bleiben](https://www.spiegel.de/karriere/burn-out-nach-erkrankung-den-job-wechseln-oder-bleiben-a-54c0815f-bae8-4c44-88ce-db63f3a41287#ref=rss)
+### burnout
 
-* [https://www.spiegel.de/wissenschaft/studie-zur-handkraft-greif-zu-und-ich-sag-dir-wie-gesund-du-bist](https://www.spiegel.de/wissenschaft/studie-zur-handkraft-greif-zu-und-ich-sag-dir-wie-gesund-du-bist-a-44b340ed-5479-4cd7-8d70-142e92ce5ba8#ref=rss)
-* [https://www.spiegel.de/wissenschaft/glattwale-koennen-ueber-130-jahre-alt-werden-viel-aelter-als-bisher-angenommen](https://www.spiegel.de/wissenschaft/glattwale-koennen-ueber-130-jahre-alt-werden-viel-aelter-als-bisher-angenommen-a-78ae63f1-6283-44c2-b822-6d9cb40f4d62#ref=rss)
-### 2025
+* [https://www.spiegel.de/karriere/burn-out-nach-erkrankung-den-job-wechseln-oder-bleiben](https://www.spiegel.de/karriere/burn-out-nach-erkrankung-den-job-wechseln-oder-bleiben-a-54c0815f-bae8-4c44-88ce-db63f3a41287#ref=rss)
+* [https://www.spiegel.de/karriere/burnout-wie-man-zwischen-bleiben-und-gehen-abwaegt](https://www.spiegel.de/karriere/burnout-wie-man-zwischen-bleiben-und-gehen-abwaegt-a-eb59e444-cf9b-44e5-9c4a-64e606078ec6#ref=rss)
+### job
 
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-1-fc-koeln-erobert-tabellenspitze-merlin-polzin-bleibt-hsv-trainer](https://www.spiegel.de/sport/fussball/2-bundesliga-1-fc-koeln-erobert-tabellenspitze-merlin-polzin-bleibt-hsv-trainer-a-7b72510e-852a-4015-aadb-a24fbed45091#ref=rss)
-* [https://www.spiegel.de/auto/fahrkultur/oldtimer-diese-legendaeren-autos-erhalten-2025-das-begehrte-h-kennzeichen](https://www.spiegel.de/auto/fahrkultur/oldtimer-diese-legendaeren-autos-erhalten-2025-das-begehrte-h-kennzeichen-a-518262b1-827f-4cd7-b94c-e62b759024c9#ref=rss)
-* [https://www.spiegel.de/sport/darts-wm-2025-luke-littler-ueberwaeltigt-von-emotionen-nach-rekordleistung](https://www.spiegel.de/sport/darts-wm-2025-luke-littler-ueberwaeltigt-von-emotionen-nach-rekordleistung-a-d2178694-aff3-4ccb-9cd9-a38161860070#ref=rss)
-### drohnenangriff
+* [https://www.spiegel.de/karriere/burn-out-nach-erkrankung-den-job-wechseln-oder-bleiben](https://www.spiegel.de/karriere/burn-out-nach-erkrankung-den-job-wechseln-oder-bleiben-a-54c0815f-bae8-4c44-88ce-db63f3a41287#ref=rss)
+### techniker
 
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-meldet-drohnenangriff-auf-kasan-im-landesinneren-1734885421](https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-meldet-drohnenangriff-auf-kasan-im-landesinneren-1734885421-a-565670cc-174a-4bc2-8ff2-9757e2fdfd12#ref=rss)
-### kasan
+* [https://www.spiegel.de/wirtschaft/techniker-krankenkasse-meldet-rekord-bei-krankmeldungen](https://www.spiegel.de/wirtschaft/techniker-krankenkasse-meldet-rekord-bei-krankmeldungen-a-f16986a9-4434-4523-a855-fd35ebc02a74#ref=rss)
+### krankenkasse
 
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-meldet-drohnenangriff-auf-kasan-im-landesinneren-1734885421](https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-meldet-drohnenangriff-auf-kasan-im-landesinneren-1734885421-a-565670cc-174a-4bc2-8ff2-9757e2fdfd12#ref=rss)
-### zunächst
+* [https://www.spiegel.de/wirtschaft/techniker-krankenkasse-meldet-rekord-bei-krankmeldungen](https://www.spiegel.de/wirtschaft/techniker-krankenkasse-meldet-rekord-bei-krankmeldungen-a-f16986a9-4434-4523-a855-fd35ebc02a74#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/rente-pflege-krankenkasse-rechner-zeigt-wie-ihr-gehalt-bis-2045-zusammenschrumpft](https://www.spiegel.de/wirtschaft/soziales/rente-pflege-krankenkasse-rechner-zeigt-wie-ihr-gehalt-bis-2045-zusammenschrumpft-a-4be44dd2-7195-41be-9da2-6cea1c573616#ref=rss)
+### rekord
 
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-meldet-drohnenangriff-auf-kasan-im-landesinneren-1734885421](https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-meldet-drohnenangriff-auf-kasan-im-landesinneren-1734885421-a-565670cc-174a-4bc2-8ff2-9757e2fdfd12#ref=rss)
-* [https://www.spiegel.de/familie/kuckuckskinder-mein-leben-lang-hatte-ich-mich-gefragt-warum-ich-so-anders-bin](https://www.spiegel.de/familie/kuckuckskinder-mein-leben-lang-hatte-ich-mich-gefragt-warum-ich-so-anders-bin-a-5cc2e2a9-e2cb-40f9-be59-21ae27aa47ad#ref=rss)
-### angriff
+* [https://www.spiegel.de/wirtschaft/techniker-krankenkasse-meldet-rekord-bei-krankmeldungen](https://www.spiegel.de/wirtschaft/techniker-krankenkasse-meldet-rekord-bei-krankmeldungen-a-f16986a9-4434-4523-a855-fd35ebc02a74#ref=rss)
+### waren
 
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-meldet-drohnenangriff-auf-kasan-im-landesinneren-1734885421](https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-meldet-drohnenangriff-auf-kasan-im-landesinneren-1734885421-a-565670cc-174a-4bc2-8ff2-9757e2fdfd12#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/goerlitz-brutaler-angriff-auf-linke-kommunalpolitikerinnen-in-goerlitz](https://www.spiegel.de/panorama/justiz/goerlitz-brutaler-angriff-auf-linke-kommunalpolitikerinnen-in-goerlitz-a-68f2c1d5-baa4-41b2-b9f4-4d11c6734017#ref=rss)
-### magdeburg
+* [https://www.spiegel.de/wirtschaft/techniker-krankenkasse-meldet-rekord-bei-krankmeldungen](https://www.spiegel.de/wirtschaft/techniker-krankenkasse-meldet-rekord-bei-krankmeldungen-a-f16986a9-4434-4523-a855-fd35ebc02a74#ref=rss)
+* [https://www.spiegel.de/wirtschaft/nissan-und-honda-wollen-fusionieren](https://www.spiegel.de/wirtschaft/nissan-und-honda-wollen-fusionieren-a-3a2df2e3-a71f-4778-994c-33fb1d247492#ref=rss)
+### lang
 
-* [https://www.spiegel.de/politik/anschlag-auf-weihnachtsmarkt-in-magdeburg-innenministerin-faeser-draengt-auf-beschluesse-zur-inneren-sicherheit](https://www.spiegel.de/politik/anschlag-auf-weihnachtsmarkt-in-magdeburg-innenministerin-faeser-draengt-auf-beschluesse-zur-inneren-sicherheit-a-2a8840db-33fc-4f8c-845c-a36b4f13f9b2#ref=rss)
-### innenministerin
+* [https://www.spiegel.de/wirtschaft/techniker-krankenkasse-meldet-rekord-bei-krankmeldungen](https://www.spiegel.de/wirtschaft/techniker-krankenkasse-meldet-rekord-bei-krankmeldungen-a-f16986a9-4434-4523-a855-fd35ebc02a74#ref=rss)
+* [https://www.spiegel.de/panorama/leute/n-tv-moderator-marcel-wagner-hoert-auf-wohl-wegen-zu-viel-schlechter-nachrichten](https://www.spiegel.de/panorama/leute/n-tv-moderator-marcel-wagner-hoert-auf-wohl-wegen-zu-viel-schlechter-nachrichten-a-cc5324bb-2aae-4732-88d1-639cf49b6284#ref=rss)
+### neuer
 
-* [https://www.spiegel.de/politik/anschlag-auf-weihnachtsmarkt-in-magdeburg-innenministerin-faeser-draengt-auf-beschluesse-zur-inneren-sicherheit](https://www.spiegel.de/politik/anschlag-auf-weihnachtsmarkt-in-magdeburg-innenministerin-faeser-draengt-auf-beschluesse-zur-inneren-sicherheit-a-2a8840db-33fc-4f8c-845c-a36b4f13f9b2#ref=rss)
-### faeser
+* [https://www.spiegel.de/wirtschaft/techniker-krankenkasse-meldet-rekord-bei-krankmeldungen](https://www.spiegel.de/wirtschaft/techniker-krankenkasse-meldet-rekord-bei-krankmeldungen-a-f16986a9-4434-4523-a855-fd35ebc02a74#ref=rss)
+* [https://www.spiegel.de/wirtschaft/strukturprobleme-wirtschaftsweise-grimm-erwartet-harte-zeiten-auf-dem-arbeitsmarkt](https://www.spiegel.de/wirtschaft/strukturprobleme-wirtschaftsweise-grimm-erwartet-harte-zeiten-auf-dem-arbeitsmarkt-a-1b7d910b-2f8e-48e9-9a25-ec26cc9424f7#ref=rss)
+### max
 
-* [https://www.spiegel.de/politik/anschlag-auf-weihnachtsmarkt-in-magdeburg-innenministerin-faeser-draengt-auf-beschluesse-zur-inneren-sicherheit](https://www.spiegel.de/politik/anschlag-auf-weihnachtsmarkt-in-magdeburg-innenministerin-faeser-draengt-auf-beschluesse-zur-inneren-sicherheit-a-2a8840db-33fc-4f8c-845c-a36b4f13f9b2#ref=rss)
-### drängt
+* [https://www.spiegel.de/sport/tennis/max-purcell-australischer-tennisprofi-laesst-sich-freiwillig-suspendieren](https://www.spiegel.de/sport/tennis/max-purcell-australischer-tennisprofi-laesst-sich-freiwillig-suspendieren-a-1c4f2c99-4214-476e-92c9-bc978bc1fa5f#ref=rss)
+### purcell
 
-* [https://www.spiegel.de/politik/anschlag-auf-weihnachtsmarkt-in-magdeburg-innenministerin-faeser-draengt-auf-beschluesse-zur-inneren-sicherheit](https://www.spiegel.de/politik/anschlag-auf-weihnachtsmarkt-in-magdeburg-innenministerin-faeser-draengt-auf-beschluesse-zur-inneren-sicherheit-a-2a8840db-33fc-4f8c-845c-a36b4f13f9b2#ref=rss)
-### mehr
+* [https://www.spiegel.de/sport/tennis/max-purcell-australischer-tennisprofi-laesst-sich-freiwillig-suspendieren](https://www.spiegel.de/sport/tennis/max-purcell-australischer-tennisprofi-laesst-sich-freiwillig-suspendieren-a-1c4f2c99-4214-476e-92c9-bc978bc1fa5f#ref=rss)
+### vieles
 
-* [https://www.spiegel.de/politik/anschlag-auf-weihnachtsmarkt-in-magdeburg-innenministerin-faeser-draengt-auf-beschluesse-zur-inneren-sicherheit](https://www.spiegel.de/politik/anschlag-auf-weihnachtsmarkt-in-magdeburg-innenministerin-faeser-draengt-auf-beschluesse-zur-inneren-sicherheit-a-2a8840db-33fc-4f8c-845c-a36b4f13f9b2#ref=rss)
-### volkswagen
+* [https://www.spiegel.de/sport/tennis/max-purcell-australischer-tennisprofi-laesst-sich-freiwillig-suspendieren](https://www.spiegel.de/sport/tennis/max-purcell-australischer-tennisprofi-laesst-sich-freiwillig-suspendieren-a-1c4f2c99-4214-476e-92c9-bc978bc1fa5f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/rente-pflege-krankenkasse-rechner-zeigt-wie-ihr-gehalt-bis-2045-zusammenschrumpft](https://www.spiegel.de/wirtschaft/soziales/rente-pflege-krankenkasse-rechner-zeigt-wie-ihr-gehalt-bis-2045-zusammenschrumpft-a-4be44dd2-7195-41be-9da2-6cea1c573616#ref=rss)
+### fußball
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-boni-fuer-manager-gekuerzt](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-boni-fuer-manager-gekuerzt-a-b8946853-e8d2-41ee-8d01-e3625be55b99#ref=rss)
-* [https://www.spiegel.de/auto/fahrkultur/oldtimer-diese-legendaeren-autos-erhalten-2025-das-begehrte-h-kennzeichen](https://www.spiegel.de/auto/fahrkultur/oldtimer-diese-legendaeren-autos-erhalten-2025-das-begehrte-h-kennzeichen-a-518262b1-827f-4cd7-b94c-e62b759024c9#ref=rss)
-### worauf
+* [https://www.spiegel.de/sport/fussball/fussball-in-italien-eklat-nach-tor-von-mussolini-urenkel-fans-zeigen-roemischen-gruss](https://www.spiegel.de/sport/fussball/fussball-in-italien-eklat-nach-tor-von-mussolini-urenkel-fans-zeigen-roemischen-gruss-a-bb60315b-2850-4b2c-8ec8-2cb3cdead899#ref=rss)
+* [https://www.spiegel.de/start/studieren-in-kaiserslautern-campus-wohnviertel-wg-zimmer-preise-die-besten-kneipen](https://www.spiegel.de/start/studieren-in-kaiserslautern-campus-wohnviertel-wg-zimmer-preise-die-besten-kneipen-a-5f75b83f-57ce-420c-b89e-0cabfb8369f9#ref=rss)
+### tor
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-boni-fuer-manager-gekuerzt](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-boni-fuer-manager-gekuerzt-a-b8946853-e8d2-41ee-8d01-e3625be55b99#ref=rss)
-* [https://www.spiegel.de/tests/kueche/french-press-modelle-im-test-bodum-ikea-und-gronenberg](https://www.spiegel.de/tests/kueche/french-press-modelle-im-test-bodum-ikea-und-gronenberg-a-534c7bf6-4abd-4407-ae7d-43cbf26ce1fb#ref=rss)
-### manchester
+* [https://www.spiegel.de/sport/fussball/fussball-in-italien-eklat-nach-tor-von-mussolini-urenkel-fans-zeigen-roemischen-gruss](https://www.spiegel.de/sport/fussball/fussball-in-italien-eklat-nach-tor-von-mussolini-urenkel-fans-zeigen-roemischen-gruss-a-bb60315b-2850-4b2c-8ec8-2cb3cdead899#ref=rss)
+### fans
 
-* [https://www.spiegel.de/sport/fussball/premier-league-manchester-united-verliert-auch-gegen-bournemouth-und-rutscht-auf-platz-13](https://www.spiegel.de/sport/fussball/premier-league-manchester-united-verliert-auch-gegen-bournemouth-und-rutscht-auf-platz-13-a-fad8fc9f-6777-45e8-a7c2-e92c4036d80d#ref=rss)
-### united
+* [https://www.spiegel.de/sport/fussball/fussball-in-italien-eklat-nach-tor-von-mussolini-urenkel-fans-zeigen-roemischen-gruss](https://www.spiegel.de/sport/fussball/fussball-in-italien-eklat-nach-tor-von-mussolini-urenkel-fans-zeigen-roemischen-gruss-a-bb60315b-2850-4b2c-8ec8-2cb3cdead899#ref=rss)
+### römischen
 
-* [https://www.spiegel.de/sport/fussball/premier-league-manchester-united-verliert-auch-gegen-bournemouth-und-rutscht-auf-platz-13](https://www.spiegel.de/sport/fussball/premier-league-manchester-united-verliert-auch-gegen-bournemouth-und-rutscht-auf-platz-13-a-fad8fc9f-6777-45e8-a7c2-e92c4036d80d#ref=rss)
-### bournemouth
+* [https://www.spiegel.de/sport/fussball/fussball-in-italien-eklat-nach-tor-von-mussolini-urenkel-fans-zeigen-roemischen-gruss](https://www.spiegel.de/sport/fussball/fussball-in-italien-eklat-nach-tor-von-mussolini-urenkel-fans-zeigen-roemischen-gruss-a-bb60315b-2850-4b2c-8ec8-2cb3cdead899#ref=rss)
+### gruß
 
-* [https://www.spiegel.de/sport/fussball/premier-league-manchester-united-verliert-auch-gegen-bournemouth-und-rutscht-auf-platz-13](https://www.spiegel.de/sport/fussball/premier-league-manchester-united-verliert-auch-gegen-bournemouth-und-rutscht-auf-platz-13-a-fad8fc9f-6777-45e8-a7c2-e92c4036d80d#ref=rss)
-### delfine
+* [https://www.spiegel.de/sport/fussball/fussball-in-italien-eklat-nach-tor-von-mussolini-urenkel-fans-zeigen-roemischen-gruss](https://www.spiegel.de/sport/fussball/fussball-in-italien-eklat-nach-tor-von-mussolini-urenkel-fans-zeigen-roemischen-gruss-a-bb60315b-2850-4b2c-8ec8-2cb3cdead899#ref=rss)
+### letzte
 
-* [https://www.spiegel.de/panorama/schwarzes-meer-delfine-sterben-durch-oelkatastrophe-in-der-strasse-von-kertsch](https://www.spiegel.de/panorama/schwarzes-meer-delfine-sterben-durch-oelkatastrophe-in-der-strasse-von-kertsch-a-4de9b6ec-d801-47e6-a00b-10dfdc866dc6#ref=rss)
-### straße
+* [https://www.spiegel.de/panorama/schwede-schiesst-mann-in-den-fuss-weil-er-die-letzte-kaper-wollte](https://www.spiegel.de/panorama/schwede-schiesst-mann-in-den-fuss-weil-er-die-letzte-kaper-wollte-a-59a5b7c0-df1d-4508-b647-ec2f11bb5b22#ref=rss)
+### kaper
 
-* [https://www.spiegel.de/panorama/schwarzes-meer-delfine-sterben-durch-oelkatastrophe-in-der-strasse-von-kertsch](https://www.spiegel.de/panorama/schwarzes-meer-delfine-sterben-durch-oelkatastrophe-in-der-strasse-von-kertsch-a-4de9b6ec-d801-47e6-a00b-10dfdc866dc6#ref=rss)
-### kertsch
+* [https://www.spiegel.de/panorama/schwede-schiesst-mann-in-den-fuss-weil-er-die-letzte-kaper-wollte](https://www.spiegel.de/panorama/schwede-schiesst-mann-in-den-fuss-weil-er-die-letzte-kaper-wollte-a-59a5b7c0-df1d-4508-b647-ec2f11bb5b22#ref=rss)
+### großer
 
-* [https://www.spiegel.de/panorama/schwarzes-meer-delfine-sterben-durch-oelkatastrophe-in-der-strasse-von-kertsch](https://www.spiegel.de/panorama/schwarzes-meer-delfine-sterben-durch-oelkatastrophe-in-der-strasse-von-kertsch-a-4de9b6ec-d801-47e6-a00b-10dfdc866dc6#ref=rss)
-### görlitz
+* [https://www.spiegel.de/panorama/schwede-schiesst-mann-in-den-fuss-weil-er-die-letzte-kaper-wollte](https://www.spiegel.de/panorama/schwede-schiesst-mann-in-den-fuss-weil-er-die-letzte-kaper-wollte-a-59a5b7c0-df1d-4508-b647-ec2f11bb5b22#ref=rss)
+* [https://www.spiegel.de/auto/fahrberichte/elektroautos-audi-a6-avant-e-tron-im-test](https://www.spiegel.de/auto/fahrberichte/elektroautos-audi-a6-avant-e-tron-im-test-a-db36f498-1065-47f5-bc41-96c4332dd8d3#ref=rss)
+### angeblich
 
-* [https://www.spiegel.de/panorama/justiz/goerlitz-brutaler-angriff-auf-linke-kommunalpolitikerinnen-in-goerlitz](https://www.spiegel.de/panorama/justiz/goerlitz-brutaler-angriff-auf-linke-kommunalpolitikerinnen-in-goerlitz-a-68f2c1d5-baa4-41b2-b9f4-4d11c6734017#ref=rss)
-### linke
+* [https://www.spiegel.de/panorama/schwede-schiesst-mann-in-den-fuss-weil-er-die-letzte-kaper-wollte](https://www.spiegel.de/panorama/schwede-schiesst-mann-in-den-fuss-weil-er-die-letzte-kaper-wollte-a-59a5b7c0-df1d-4508-b647-ec2f11bb5b22#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/familienpolitik-der-ampel-kuerzen-statt-reform-sollen-die-frauen-das-mal-weiter-alleine-machen](https://www.spiegel.de/politik/deutschland/familienpolitik-der-ampel-kuerzen-statt-reform-sollen-die-frauen-das-mal-weiter-alleine-machen-a-07f791f8-b3b4-4ff2-846e-bbe21a510589#ref=rss)
+### 13
 
-* [https://www.spiegel.de/panorama/justiz/goerlitz-brutaler-angriff-auf-linke-kommunalpolitikerinnen-in-goerlitz](https://www.spiegel.de/panorama/justiz/goerlitz-brutaler-angriff-auf-linke-kommunalpolitikerinnen-in-goerlitz-a-68f2c1d5-baa4-41b2-b9f4-4d11c6734017#ref=rss)
-### gemacht
+* [https://www.spiegel.de/wissenschaft/mensch/klimakrise-studie-identifiziert-13-verschiedene-typen-von-klimazorn](https://www.spiegel.de/wissenschaft/mensch/klimakrise-studie-identifiziert-13-verschiedene-typen-von-klimazorn-a-9ab5a051-b7fa-4f90-b7c5-0e089688bc2d#ref=rss)
+### verschiedene
 
-* [https://www.spiegel.de/panorama/justiz/goerlitz-brutaler-angriff-auf-linke-kommunalpolitikerinnen-in-goerlitz](https://www.spiegel.de/panorama/justiz/goerlitz-brutaler-angriff-auf-linke-kommunalpolitikerinnen-in-goerlitz-a-68f2c1d5-baa4-41b2-b9f4-4d11c6734017#ref=rss)
-* [https://www.spiegel.de/sport/fussball/rassismus-im-fussball-oladapo-afolayan-vom-fc-st-pauli-veroeffentlicht-rassistische-anfeindungen](https://www.spiegel.de/sport/fussball/rassismus-im-fussball-oladapo-afolayan-vom-fc-st-pauli-veroeffentlicht-rassistische-anfeindungen-a-683616b0-7913-45fa-979e-06323b8934e6#ref=rss)
-### vfl
+* [https://www.spiegel.de/wissenschaft/mensch/klimakrise-studie-identifiziert-13-verschiedene-typen-von-klimazorn](https://www.spiegel.de/wissenschaft/mensch/klimakrise-studie-identifiziert-13-verschiedene-typen-von-klimazorn-a-9ab5a051-b7fa-4f90-b7c5-0e089688bc2d#ref=rss)
+### typen
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-bochum-gelingt-erster-saisonsieg-gegen-heidenheim](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-bochum-gelingt-erster-saisonsieg-gegen-heidenheim-a-c638de51-12d8-44df-b068-463731f8cdde#ref=rss)
-### bochum
+* [https://www.spiegel.de/wissenschaft/mensch/klimakrise-studie-identifiziert-13-verschiedene-typen-von-klimazorn](https://www.spiegel.de/wissenschaft/mensch/klimakrise-studie-identifiziert-13-verschiedene-typen-von-klimazorn-a-9ab5a051-b7fa-4f90-b7c5-0e089688bc2d#ref=rss)
+### klimazorn
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-bochum-gelingt-erster-saisonsieg-gegen-heidenheim](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-bochum-gelingt-erster-saisonsieg-gegen-heidenheim-a-c638de51-12d8-44df-b068-463731f8cdde#ref=rss)
-### heidenheim
+* [https://www.spiegel.de/wissenschaft/mensch/klimakrise-studie-identifiziert-13-verschiedene-typen-von-klimazorn](https://www.spiegel.de/wissenschaft/mensch/klimakrise-studie-identifiziert-13-verschiedene-typen-von-klimazorn-a-9ab5a051-b7fa-4f90-b7c5-0e089688bc2d#ref=rss)
+### wut
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-bochum-gelingt-erster-saisonsieg-gegen-heidenheim](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-bochum-gelingt-erster-saisonsieg-gegen-heidenheim-a-c638de51-12d8-44df-b068-463731f8cdde#ref=rss)
-### jahres
+* [https://www.spiegel.de/wissenschaft/mensch/klimakrise-studie-identifiziert-13-verschiedene-typen-von-klimazorn](https://www.spiegel.de/wissenschaft/mensch/klimakrise-studie-identifiziert-13-verschiedene-typen-von-klimazorn-a-9ab5a051-b7fa-4f90-b7c5-0e089688bc2d#ref=rss)
+### davon
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-bochum-gelingt-erster-saisonsieg-gegen-heidenheim](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-bochum-gelingt-erster-saisonsieg-gegen-heidenheim-a-c638de51-12d8-44df-b068-463731f8cdde#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/influencer-des-jahres-tahsim-durgun-levi-penell-und-sieben-weitere-aufsteiger](https://www.spiegel.de/netzwelt/web/influencer-des-jahres-tahsim-durgun-levi-penell-und-sieben-weitere-aufsteiger-a-d164e218-8a5a-4d65-98ad-443147ea21df#ref=rss)
-### ersten
+* [https://www.spiegel.de/wissenschaft/mensch/klimakrise-studie-identifiziert-13-verschiedene-typen-von-klimazorn](https://www.spiegel.de/wissenschaft/mensch/klimakrise-studie-identifiziert-13-verschiedene-typen-von-klimazorn-a-9ab5a051-b7fa-4f90-b7c5-0e089688bc2d#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-nova-post-verbindet-die-gefluechteten-mit-der-heimat](https://www.spiegel.de/ausland/ukraine-nova-post-verbindet-die-gefluechteten-mit-der-heimat-a-95406f5e-2473-4304-9622-143f0e678aba#ref=rss)
+### grönland
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-bochum-gelingt-erster-saisonsieg-gegen-heidenheim](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-bochum-gelingt-erster-saisonsieg-gegen-heidenheim-a-c638de51-12d8-44df-b068-463731f8cdde#ref=rss)
-* [https://www.spiegel.de/familie/kuckuckskinder-mein-leben-lang-hatte-ich-mich-gefragt-warum-ich-so-anders-bin](https://www.spiegel.de/familie/kuckuckskinder-mein-leben-lang-hatte-ich-mich-gefragt-warum-ich-so-anders-bin-a-5cc2e2a9-e2cb-40f9-be59-21ae27aa47ad#ref=rss)
-### dank
+* [https://www.spiegel.de/ausland/us-praesident-donald-trump-nimmt-erneut-groenland-ins-visier](https://www.spiegel.de/ausland/us-praesident-donald-trump-nimmt-erneut-groenland-ins-visier-a-b714330a-7330-4e45-b40f-3e7b73fdae03#ref=rss)
+### kaufen
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-bochum-gelingt-erster-saisonsieg-gegen-heidenheim](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-bochum-gelingt-erster-saisonsieg-gegen-heidenheim-a-c638de51-12d8-44df-b068-463731f8cdde#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/influencer-des-jahres-tahsim-durgun-levi-penell-und-sieben-weitere-aufsteiger](https://www.spiegel.de/netzwelt/web/influencer-des-jahres-tahsim-durgun-levi-penell-und-sieben-weitere-aufsteiger-a-d164e218-8a5a-4d65-98ad-443147ea21df#ref=rss)
-### du
+* [https://www.spiegel.de/ausland/us-praesident-donald-trump-nimmt-erneut-groenland-ins-visier](https://www.spiegel.de/ausland/us-praesident-donald-trump-nimmt-erneut-groenland-ins-visier-a-b714330a-7330-4e45-b40f-3e7b73fdae03#ref=rss)
+* [https://www.spiegel.de/familie/geschenke-kaufen-an-heiligabend-tipps-von-den-profis](https://www.spiegel.de/familie/geschenke-kaufen-an-heiligabend-tipps-von-den-profis-a-c6ba5cc6-f914-4787-94b1-97c2207633be#ref=rss)
+### künftig
 
-* [https://www.spiegel.de/wissenschaft/studie-zur-handkraft-greif-zu-und-ich-sag-dir-wie-gesund-du-bist](https://www.spiegel.de/wissenschaft/studie-zur-handkraft-greif-zu-und-ich-sag-dir-wie-gesund-du-bist-a-44b340ed-5479-4cd7-8d70-142e92ce5ba8#ref=rss)
-* [https://www.spiegel.de/familie/kuckuckskinder-mein-leben-lang-hatte-ich-mich-gefragt-warum-ich-so-anders-bin](https://www.spiegel.de/familie/kuckuckskinder-mein-leben-lang-hatte-ich-mich-gefragt-warum-ich-so-anders-bin-a-5cc2e2a9-e2cb-40f9-be59-21ae27aa47ad#ref=rss)
-### menschen
+* [https://www.spiegel.de/ausland/us-praesident-donald-trump-nimmt-erneut-groenland-ins-visier](https://www.spiegel.de/ausland/us-praesident-donald-trump-nimmt-erneut-groenland-ins-visier-a-b714330a-7330-4e45-b40f-3e7b73fdae03#ref=rss)
+* [https://www.spiegel.de/wirtschaft/strukturprobleme-wirtschaftsweise-grimm-erwartet-harte-zeiten-auf-dem-arbeitsmarkt](https://www.spiegel.de/wirtschaft/strukturprobleme-wirtschaftsweise-grimm-erwartet-harte-zeiten-auf-dem-arbeitsmarkt-a-1b7d910b-2f8e-48e9-9a25-ec26cc9424f7#ref=rss)
+### renate
 
-* [https://www.spiegel.de/wissenschaft/studie-zur-handkraft-greif-zu-und-ich-sag-dir-wie-gesund-du-bist](https://www.spiegel.de/wissenschaft/studie-zur-handkraft-greif-zu-und-ich-sag-dir-wie-gesund-du-bist-a-44b340ed-5479-4cd7-8d70-142e92ce5ba8#ref=rss)
-* [https://www.spiegel.de/panorama/el-gordo-flutopfer-haben-losglueck-in-spanien](https://www.spiegel.de/panorama/el-gordo-flutopfer-haben-losglueck-in-spanien-a-da13c29d-c4e0-455d-90b8-1f4478a9c9fd#ref=rss)
-### unter
+* [https://www.spiegel.de/politik/deutschland/renate-kuenast-gruenenpolitikerin-nach-post-ueber-palaestinensischen-juden-jesus-in-der-kritik](https://www.spiegel.de/politik/deutschland/renate-kuenast-gruenenpolitikerin-nach-post-ueber-palaestinensischen-juden-jesus-in-der-kritik-a-d57c416b-dc79-4580-9eed-0aa82785d6b1#ref=rss)
+### künast
 
-* [https://www.spiegel.de/panorama/el-gordo-flutopfer-haben-losglueck-in-spanien](https://www.spiegel.de/panorama/el-gordo-flutopfer-haben-losglueck-in-spanien-a-da13c29d-c4e0-455d-90b8-1f4478a9c9fd#ref=rss)
-* [https://www.spiegel.de/tests/kueche/french-press-modelle-im-test-bodum-ikea-und-gronenberg](https://www.spiegel.de/tests/kueche/french-press-modelle-im-test-bodum-ikea-und-gronenberg-a-534c7bf6-4abd-4407-ae7d-43cbf26ce1fb#ref=rss)
-### andere
+* [https://www.spiegel.de/politik/deutschland/renate-kuenast-gruenenpolitikerin-nach-post-ueber-palaestinensischen-juden-jesus-in-der-kritik](https://www.spiegel.de/politik/deutschland/renate-kuenast-gruenenpolitikerin-nach-post-ueber-palaestinensischen-juden-jesus-in-der-kritik-a-d57c416b-dc79-4580-9eed-0aa82785d6b1#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/panorama/schnee-an-heiligabend-wo-weisse-weihnachten-moeglich-sind](https://www.spiegel.de/panorama/schnee-an-heiligabend-wo-weisse-weihnachten-moeglich-sind-a-ccf515ff-bbf6-443b-8bfa-ad23a71bbc7a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/glattwale-koennen-ueber-130-jahre-alt-werden-viel-aelter-als-bisher-angenommen](https://www.spiegel.de/wissenschaft/glattwale-koennen-ueber-130-jahre-alt-werden-viel-aelter-als-bisher-angenommen-a-78ae63f1-6283-44c2-b822-6d9cb40f4d62#ref=rss)
-### unterhalt
+* [https://www.spiegel.de/kultur/deutsche-netflix-comedy-von-dimitrij-und-alex-schaad-in-kacken-an-der-havel-wo-der-spass-anfaengt](https://www.spiegel.de/kultur/deutsche-netflix-comedy-von-dimitrij-und-alex-schaad-in-kacken-an-der-havel-wo-der-spass-anfaengt-a-87cc4bfc-a994-4ad8-a5d2-7dda2a07e0d7#ref=rss)
+### netflixcomedy
 
-* [https://www.spiegel.de/familie/unterhalt-offene-forderungen-fuer-staatlichen-vorschuss-ueber-fuenf-milliarden-euro](https://www.spiegel.de/familie/unterhalt-offene-forderungen-fuer-staatlichen-vorschuss-ueber-fuenf-milliarden-euro-a-0591abc2-56e8-49a6-b223-f3adb6cf6413#ref=rss)
-### springt
+* [https://www.spiegel.de/kultur/deutsche-netflix-comedy-von-dimitrij-und-alex-schaad-in-kacken-an-der-havel-wo-der-spass-anfaengt](https://www.spiegel.de/kultur/deutsche-netflix-comedy-von-dimitrij-und-alex-schaad-in-kacken-an-der-havel-wo-der-spass-anfaengt-a-87cc4bfc-a994-4ad8-a5d2-7dda2a07e0d7#ref=rss)
+### dimitrij
 
-* [https://www.spiegel.de/familie/unterhalt-offene-forderungen-fuer-staatlichen-vorschuss-ueber-fuenf-milliarden-euro](https://www.spiegel.de/familie/unterhalt-offene-forderungen-fuer-staatlichen-vorschuss-ueber-fuenf-milliarden-euro-a-0591abc2-56e8-49a6-b223-f3adb6cf6413#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-1-fc-koeln-erobert-tabellenspitze-merlin-polzin-bleibt-hsv-trainer](https://www.spiegel.de/sport/fussball/2-bundesliga-1-fc-koeln-erobert-tabellenspitze-merlin-polzin-bleibt-hsv-trainer-a-7b72510e-852a-4015-aadb-a24fbed45091#ref=rss)
-### bleibt
+* [https://www.spiegel.de/kultur/deutsche-netflix-comedy-von-dimitrij-und-alex-schaad-in-kacken-an-der-havel-wo-der-spass-anfaengt](https://www.spiegel.de/kultur/deutsche-netflix-comedy-von-dimitrij-und-alex-schaad-in-kacken-an-der-havel-wo-der-spass-anfaengt-a-87cc4bfc-a994-4ad8-a5d2-7dda2a07e0d7#ref=rss)
+### alex
 
-* [https://www.spiegel.de/familie/unterhalt-offene-forderungen-fuer-staatlichen-vorschuss-ueber-fuenf-milliarden-euro](https://www.spiegel.de/familie/unterhalt-offene-forderungen-fuer-staatlichen-vorschuss-ueber-fuenf-milliarden-euro-a-0591abc2-56e8-49a6-b223-f3adb6cf6413#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-1-fc-koeln-erobert-tabellenspitze-merlin-polzin-bleibt-hsv-trainer](https://www.spiegel.de/sport/fussball/2-bundesliga-1-fc-koeln-erobert-tabellenspitze-merlin-polzin-bleibt-hsv-trainer-a-7b72510e-852a-4015-aadb-a24fbed45091#ref=rss)
-### köln
+* [https://www.spiegel.de/kultur/deutsche-netflix-comedy-von-dimitrij-und-alex-schaad-in-kacken-an-der-havel-wo-der-spass-anfaengt](https://www.spiegel.de/kultur/deutsche-netflix-comedy-von-dimitrij-und-alex-schaad-in-kacken-an-der-havel-wo-der-spass-anfaengt-a-87cc4bfc-a994-4ad8-a5d2-7dda2a07e0d7#ref=rss)
+### schaad
 
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-1-fc-koeln-erobert-tabellenspitze-merlin-polzin-bleibt-hsv-trainer](https://www.spiegel.de/sport/fussball/2-bundesliga-1-fc-koeln-erobert-tabellenspitze-merlin-polzin-bleibt-hsv-trainer-a-7b72510e-852a-4015-aadb-a24fbed45091#ref=rss)
-### merlin
+* [https://www.spiegel.de/kultur/deutsche-netflix-comedy-von-dimitrij-und-alex-schaad-in-kacken-an-der-havel-wo-der-spass-anfaengt](https://www.spiegel.de/kultur/deutsche-netflix-comedy-von-dimitrij-und-alex-schaad-in-kacken-an-der-havel-wo-der-spass-anfaengt-a-87cc4bfc-a994-4ad8-a5d2-7dda2a07e0d7#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-1-fc-koeln-erobert-tabellenspitze-merlin-polzin-bleibt-hsv-trainer](https://www.spiegel.de/sport/fussball/2-bundesliga-1-fc-koeln-erobert-tabellenspitze-merlin-polzin-bleibt-hsv-trainer-a-7b72510e-852a-4015-aadb-a24fbed45091#ref=rss)
-### polzin
+* [https://www.spiegel.de/kultur/deutsche-netflix-comedy-von-dimitrij-und-alex-schaad-in-kacken-an-der-havel-wo-der-spass-anfaengt](https://www.spiegel.de/kultur/deutsche-netflix-comedy-von-dimitrij-und-alex-schaad-in-kacken-an-der-havel-wo-der-spass-anfaengt-a-87cc4bfc-a994-4ad8-a5d2-7dda2a07e0d7#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-nova-post-verbindet-die-gefluechteten-mit-der-heimat](https://www.spiegel.de/ausland/ukraine-nova-post-verbindet-die-gefluechteten-mit-der-heimat-a-95406f5e-2473-4304-9622-143f0e678aba#ref=rss)
+### netflix
 
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-1-fc-koeln-erobert-tabellenspitze-merlin-polzin-bleibt-hsv-trainer](https://www.spiegel.de/sport/fussball/2-bundesliga-1-fc-koeln-erobert-tabellenspitze-merlin-polzin-bleibt-hsv-trainer-a-7b72510e-852a-4015-aadb-a24fbed45091#ref=rss)
-### macht
+* [https://www.spiegel.de/netzwelt/apps/netflix-wow-rtl-prime-video-und-disney-wo-nervt-die-werbung-am-meisten](https://www.spiegel.de/netzwelt/apps/netflix-wow-rtl-prime-video-und-disney-wo-nervt-die-werbung-am-meisten-a-b843ea16-2f7e-4902-8379-3bda3e2ffcbd#ref=rss)
+### wow
 
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-1-fc-koeln-erobert-tabellenspitze-merlin-polzin-bleibt-hsv-trainer](https://www.spiegel.de/sport/fussball/2-bundesliga-1-fc-koeln-erobert-tabellenspitze-merlin-polzin-bleibt-hsv-trainer-a-7b72510e-852a-4015-aadb-a24fbed45091#ref=rss)
-* [https://www.spiegel.de/familie/kuckuckskinder-mein-leben-lang-hatte-ich-mich-gefragt-warum-ich-so-anders-bin](https://www.spiegel.de/familie/kuckuckskinder-mein-leben-lang-hatte-ich-mich-gefragt-warum-ich-so-anders-bin-a-5cc2e2a9-e2cb-40f9-be59-21ae27aa47ad#ref=rss)
-### absoluter
+* [https://www.spiegel.de/netzwelt/apps/netflix-wow-rtl-prime-video-und-disney-wo-nervt-die-werbung-am-meisten](https://www.spiegel.de/netzwelt/apps/netflix-wow-rtl-prime-video-und-disney-wo-nervt-die-werbung-am-meisten-a-b843ea16-2f7e-4902-8379-3bda3e2ffcbd#ref=rss)
+### rtl+
 
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-kritik-an-strecke-im-riesenslalom-absoluter-skandal](https://www.spiegel.de/sport/wintersport/ski-alpin-kritik-an-strecke-im-riesenslalom-absoluter-skandal-a-45f12be2-e1cc-48d1-b2a7-638480467825#ref=rss)
-### skandal
+* [https://www.spiegel.de/netzwelt/apps/netflix-wow-rtl-prime-video-und-disney-wo-nervt-die-werbung-am-meisten](https://www.spiegel.de/netzwelt/apps/netflix-wow-rtl-prime-video-und-disney-wo-nervt-die-werbung-am-meisten-a-b843ea16-2f7e-4902-8379-3bda3e2ffcbd#ref=rss)
+### prime
 
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-kritik-an-strecke-im-riesenslalom-absoluter-skandal](https://www.spiegel.de/sport/wintersport/ski-alpin-kritik-an-strecke-im-riesenslalom-absoluter-skandal-a-45f12be2-e1cc-48d1-b2a7-638480467825#ref=rss)
-### bestmarke
+* [https://www.spiegel.de/netzwelt/apps/netflix-wow-rtl-prime-video-und-disney-wo-nervt-die-werbung-am-meisten](https://www.spiegel.de/netzwelt/apps/netflix-wow-rtl-prime-video-und-disney-wo-nervt-die-werbung-am-meisten-a-b843ea16-2f7e-4902-8379-3bda3e2ffcbd#ref=rss)
+### disney+
 
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-kritik-an-strecke-im-riesenslalom-absoluter-skandal](https://www.spiegel.de/sport/wintersport/ski-alpin-kritik-an-strecke-im-riesenslalom-absoluter-skandal-a-45f12be2-e1cc-48d1-b2a7-638480467825#ref=rss)
-* [https://www.spiegel.de/sport/darts-wm-2025-luke-littler-ueberwaeltigt-von-emotionen-nach-rekordleistung](https://www.spiegel.de/sport/darts-wm-2025-luke-littler-ueberwaeltigt-von-emotionen-nach-rekordleistung-a-d2178694-aff3-4ccb-9cd9-a38161860070#ref=rss)
-### schnell
+* [https://www.spiegel.de/netzwelt/apps/netflix-wow-rtl-prime-video-und-disney-wo-nervt-die-werbung-am-meisten](https://www.spiegel.de/netzwelt/apps/netflix-wow-rtl-prime-video-und-disney-wo-nervt-die-werbung-am-meisten-a-b843ea16-2f7e-4902-8379-3bda3e2ffcbd#ref=rss)
+### werbung
 
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-kritik-an-strecke-im-riesenslalom-absoluter-skandal](https://www.spiegel.de/sport/wintersport/ski-alpin-kritik-an-strecke-im-riesenslalom-absoluter-skandal-a-45f12be2-e1cc-48d1-b2a7-638480467825#ref=rss)
-* [https://www.spiegel.de/karriere/raetsel-der-woche-bike-sharing-fuer-fortgeschrittene](https://www.spiegel.de/karriere/raetsel-der-woche-bike-sharing-fuer-fortgeschrittene-a-b651359e-8b56-46ac-9a6a-bdc977bc3545#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/netflix-wow-rtl-prime-video-und-disney-wo-nervt-die-werbung-am-meisten](https://www.spiegel.de/netzwelt/apps/netflix-wow-rtl-prime-video-und-disney-wo-nervt-die-werbung-am-meisten-a-b843ea16-2f7e-4902-8379-3bda3e2ffcbd#ref=rss)
+### teurer
+
+* [https://www.spiegel.de/netzwelt/apps/netflix-wow-rtl-prime-video-und-disney-wo-nervt-die-werbung-am-meisten](https://www.spiegel.de/netzwelt/apps/netflix-wow-rtl-prime-video-und-disney-wo-nervt-die-werbung-am-meisten-a-b843ea16-2f7e-4902-8379-3bda3e2ffcbd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/rente-pflege-krankenkasse-rechner-zeigt-wie-ihr-gehalt-bis-2045-zusammenschrumpft](https://www.spiegel.de/wirtschaft/soziales/rente-pflege-krankenkasse-rechner-zeigt-wie-ihr-gehalt-bis-2045-zusammenschrumpft-a-4be44dd2-7195-41be-9da2-6cea1c573616#ref=rss)
 ### wir
 
-* [https://www.spiegel.de/tests/kueche/french-press-modelle-im-test-bodum-ikea-und-gronenberg](https://www.spiegel.de/tests/kueche/french-press-modelle-im-test-bodum-ikea-und-gronenberg-a-534c7bf6-4abd-4407-ae7d-43cbf26ce1fb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/thomas-gottschalk-wie-sich-der-tv-moderator-um-kopf-und-kragen-redete](https://www.spiegel.de/wirtschaft/thomas-gottschalk-wie-sich-der-tv-moderator-um-kopf-und-kragen-redete-a-372c3345-4791-4968-a754-26805372e645#ref=rss)
-### rätsel
+* [https://www.spiegel.de/netzwelt/apps/netflix-wow-rtl-prime-video-und-disney-wo-nervt-die-werbung-am-meisten](https://www.spiegel.de/netzwelt/apps/netflix-wow-rtl-prime-video-und-disney-wo-nervt-die-werbung-am-meisten-a-b843ea16-2f7e-4902-8379-3bda3e2ffcbd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/rene-benko-falsche-spur-zu-den-chinesischen-triaden](https://www.spiegel.de/wirtschaft/rene-benko-falsche-spur-zu-den-chinesischen-triaden-a-25e6fa3e-67d7-419a-b99c-a1ae690ae317#ref=rss)
+### familienpolitik
 
-* [https://www.spiegel.de/karriere/raetsel-der-woche-bike-sharing-fuer-fortgeschrittene](https://www.spiegel.de/karriere/raetsel-der-woche-bike-sharing-fuer-fortgeschrittene-a-b651359e-8b56-46ac-9a6a-bdc977bc3545#ref=rss)
-* [https://www.spiegel.de/panorama/oberpfalz-bundespolizei-findet-stofftasche-mit-42-000-euro-lokale-polizeiinspektion-klaert-herkunft-auf](https://www.spiegel.de/panorama/oberpfalz-bundespolizei-findet-stofftasche-mit-42-000-euro-lokale-polizeiinspektion-klaert-herkunft-auf-a-3e8fb842-7443-49e2-b778-f4efe04ef054#ref=rss)
-### leben
+* [https://www.spiegel.de/politik/deutschland/familienpolitik-der-ampel-kuerzen-statt-reform-sollen-die-frauen-das-mal-weiter-alleine-machen](https://www.spiegel.de/politik/deutschland/familienpolitik-der-ampel-kuerzen-statt-reform-sollen-die-frauen-das-mal-weiter-alleine-machen-a-07f791f8-b3b4-4ff2-846e-bbe21a510589#ref=rss)
+### statt
 
-* [https://www.spiegel.de/familie/kuckuckskinder-mein-leben-lang-hatte-ich-mich-gefragt-warum-ich-so-anders-bin](https://www.spiegel.de/familie/kuckuckskinder-mein-leben-lang-hatte-ich-mich-gefragt-warum-ich-so-anders-bin-a-5cc2e2a9-e2cb-40f9-be59-21ae27aa47ad#ref=rss)
-* [https://www.spiegel.de/ausland/mexiko-wie-frauen-indigene-traditionen-erhalten-und-zeitgleich-geschlechterrollen-veraendern](https://www.spiegel.de/ausland/mexiko-wie-frauen-indigene-traditionen-erhalten-und-zeitgleich-geschlechterrollen-veraendern-a-e2ce0949-0014-41a8-935c-2780bd8bc1bb#ref=rss)
-### erst
+* [https://www.spiegel.de/politik/deutschland/familienpolitik-der-ampel-kuerzen-statt-reform-sollen-die-frauen-das-mal-weiter-alleine-machen](https://www.spiegel.de/politik/deutschland/familienpolitik-der-ampel-kuerzen-statt-reform-sollen-die-frauen-das-mal-weiter-alleine-machen-a-07f791f8-b3b4-4ff2-846e-bbe21a510589#ref=rss)
+### reform
 
-* [https://www.spiegel.de/familie/kuckuckskinder-mein-leben-lang-hatte-ich-mich-gefragt-warum-ich-so-anders-bin](https://www.spiegel.de/familie/kuckuckskinder-mein-leben-lang-hatte-ich-mich-gefragt-warum-ich-so-anders-bin-a-5cc2e2a9-e2cb-40f9-be59-21ae27aa47ad#ref=rss)
-* [https://www.spiegel.de/sport/boris-herrmann-beim-vendee-globe-erst-der-schreckmoment-jetzt-weihnachtsgefuehle](https://www.spiegel.de/sport/boris-herrmann-beim-vendee-globe-erst-der-schreckmoment-jetzt-weihnachtsgefuehle-a-21866dce-ec11-44c7-a042-dfb2949eb7e4#ref=rss)
-### autos
+* [https://www.spiegel.de/politik/deutschland/familienpolitik-der-ampel-kuerzen-statt-reform-sollen-die-frauen-das-mal-weiter-alleine-machen](https://www.spiegel.de/politik/deutschland/familienpolitik-der-ampel-kuerzen-statt-reform-sollen-die-frauen-das-mal-weiter-alleine-machen-a-07f791f8-b3b4-4ff2-846e-bbe21a510589#ref=rss)
+### flughafen
 
-* [https://www.spiegel.de/auto/fahrkultur/oldtimer-diese-legendaeren-autos-erhalten-2025-das-begehrte-h-kennzeichen](https://www.spiegel.de/auto/fahrkultur/oldtimer-diese-legendaeren-autos-erhalten-2025-das-begehrte-h-kennzeichen-a-518262b1-827f-4cd7-b94c-e62b759024c9#ref=rss)
-### erhalten
+* [https://www.spiegel.de/panorama/london-flughafen-heathrow-streicht-rund-100-fluege](https://www.spiegel.de/panorama/london-flughafen-heathrow-streicht-rund-100-fluege-a-f6108ed6-9f7a-4602-bd45-8fb6358cb748#ref=rss)
+### heathrow
 
-* [https://www.spiegel.de/auto/fahrkultur/oldtimer-diese-legendaeren-autos-erhalten-2025-das-begehrte-h-kennzeichen](https://www.spiegel.de/auto/fahrkultur/oldtimer-diese-legendaeren-autos-erhalten-2025-das-begehrte-h-kennzeichen-a-518262b1-827f-4cd7-b94c-e62b759024c9#ref=rss)
-* [https://www.spiegel.de/ausland/mexiko-wie-frauen-indigene-traditionen-erhalten-und-zeitgleich-geschlechterrollen-veraendern](https://www.spiegel.de/ausland/mexiko-wie-frauen-indigene-traditionen-erhalten-und-zeitgleich-geschlechterrollen-veraendern-a-e2ce0949-0014-41a8-935c-2780bd8bc1bb#ref=rss)
-### jahr
+* [https://www.spiegel.de/panorama/london-flughafen-heathrow-streicht-rund-100-fluege](https://www.spiegel.de/panorama/london-flughafen-heathrow-streicht-rund-100-fluege-a-f6108ed6-9f7a-4602-bd45-8fb6358cb748#ref=rss)
+### flüge
 
-* [https://www.spiegel.de/auto/fahrkultur/oldtimer-diese-legendaeren-autos-erhalten-2025-das-begehrte-h-kennzeichen](https://www.spiegel.de/auto/fahrkultur/oldtimer-diese-legendaeren-autos-erhalten-2025-das-begehrte-h-kennzeichen-a-518262b1-827f-4cd7-b94c-e62b759024c9#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/influencer-des-jahres-tahsim-durgun-levi-penell-und-sieben-weitere-aufsteiger](https://www.spiegel.de/netzwelt/web/influencer-des-jahres-tahsim-durgun-levi-penell-und-sieben-weitere-aufsteiger-a-d164e218-8a5a-4d65-98ad-443147ea21df#ref=rss)
-### tvmoderator
+* [https://www.spiegel.de/panorama/london-flughafen-heathrow-streicht-rund-100-fluege](https://www.spiegel.de/panorama/london-flughafen-heathrow-streicht-rund-100-fluege-a-f6108ed6-9f7a-4602-bd45-8fb6358cb748#ref=rss)
+### nissan
 
-* [https://www.spiegel.de/wirtschaft/thomas-gottschalk-wie-sich-der-tv-moderator-um-kopf-und-kragen-redete](https://www.spiegel.de/wirtschaft/thomas-gottschalk-wie-sich-der-tv-moderator-um-kopf-und-kragen-redete-a-372c3345-4791-4968-a754-26805372e645#ref=rss)
-### geschlechterrollen
+* [https://www.spiegel.de/wirtschaft/nissan-und-honda-wollen-fusionieren](https://www.spiegel.de/wirtschaft/nissan-und-honda-wollen-fusionieren-a-3a2df2e3-a71f-4778-994c-33fb1d247492#ref=rss)
+### honda
 
-* [https://www.spiegel.de/ausland/mexiko-wie-frauen-indigene-traditionen-erhalten-und-zeitgleich-geschlechterrollen-veraendern](https://www.spiegel.de/ausland/mexiko-wie-frauen-indigene-traditionen-erhalten-und-zeitgleich-geschlechterrollen-veraendern-a-e2ce0949-0014-41a8-935c-2780bd8bc1bb#ref=rss)
-### verändern
+* [https://www.spiegel.de/wirtschaft/nissan-und-honda-wollen-fusionieren](https://www.spiegel.de/wirtschaft/nissan-und-honda-wollen-fusionieren-a-3a2df2e3-a71f-4778-994c-33fb1d247492#ref=rss)
+### bremerhaven
 
-* [https://www.spiegel.de/ausland/mexiko-wie-frauen-indigene-traditionen-erhalten-und-zeitgleich-geschlechterrollen-veraendern](https://www.spiegel.de/ausland/mexiko-wie-frauen-indigene-traditionen-erhalten-und-zeitgleich-geschlechterrollen-veraendern-a-e2ce0949-0014-41a8-935c-2780bd8bc1bb#ref=rss)
-### tahsim
+* [https://www.spiegel.de/panorama/justiz/bremerhaven-mann-droht-mit-messerangriffen-auf-weihnachtsmarkt-festnahme](https://www.spiegel.de/panorama/justiz/bremerhaven-mann-droht-mit-messerangriffen-auf-weihnachtsmarkt-festnahme-a-7823d991-252a-49a4-a71c-692f7439b3fe#ref=rss)
+### weihnachtsmarkt
 
-* [https://www.spiegel.de/netzwelt/web/influencer-des-jahres-tahsim-durgun-levi-penell-und-sieben-weitere-aufsteiger](https://www.spiegel.de/netzwelt/web/influencer-des-jahres-tahsim-durgun-levi-penell-und-sieben-weitere-aufsteiger-a-d164e218-8a5a-4d65-98ad-443147ea21df#ref=rss)
-### durgun
+* [https://www.spiegel.de/panorama/justiz/bremerhaven-mann-droht-mit-messerangriffen-auf-weihnachtsmarkt-festnahme](https://www.spiegel.de/panorama/justiz/bremerhaven-mann-droht-mit-messerangriffen-auf-weihnachtsmarkt-festnahme-a-7823d991-252a-49a4-a71c-692f7439b3fe#ref=rss)
+### baubranche
 
-* [https://www.spiegel.de/netzwelt/web/influencer-des-jahres-tahsim-durgun-levi-penell-und-sieben-weitere-aufsteiger](https://www.spiegel.de/netzwelt/web/influencer-des-jahres-tahsim-durgun-levi-penell-und-sieben-weitere-aufsteiger-a-d164e218-8a5a-4d65-98ad-443147ea21df#ref=rss)
-### levi
+* [https://www.spiegel.de/wirtschaft/konjunktur-baubranche-gewinnt-wieder-mehr-auftraege](https://www.spiegel.de/wirtschaft/konjunktur-baubranche-gewinnt-wieder-mehr-auftraege-a-0a9d19f4-fcb4-40dd-9deb-09dd3b7f4cf5#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/netzwelt/web/influencer-des-jahres-tahsim-durgun-levi-penell-und-sieben-weitere-aufsteiger](https://www.spiegel.de/netzwelt/web/influencer-des-jahres-tahsim-durgun-levi-penell-und-sieben-weitere-aufsteiger-a-d164e218-8a5a-4d65-98ad-443147ea21df#ref=rss)
-### penell
+* [https://www.spiegel.de/wirtschaft/konjunktur-baubranche-gewinnt-wieder-mehr-auftraege](https://www.spiegel.de/wirtschaft/konjunktur-baubranche-gewinnt-wieder-mehr-auftraege-a-0a9d19f4-fcb4-40dd-9deb-09dd3b7f4cf5#ref=rss)
+* [https://www.spiegel.de/start/studieren-in-kaiserslautern-campus-wohnviertel-wg-zimmer-preise-die-besten-kneipen](https://www.spiegel.de/start/studieren-in-kaiserslautern-campus-wohnviertel-wg-zimmer-preise-die-besten-kneipen-a-5f75b83f-57ce-420c-b89e-0cabfb8369f9#ref=rss)
+### zahlen
 
-* [https://www.spiegel.de/netzwelt/web/influencer-des-jahres-tahsim-durgun-levi-penell-und-sieben-weitere-aufsteiger](https://www.spiegel.de/netzwelt/web/influencer-des-jahres-tahsim-durgun-levi-penell-und-sieben-weitere-aufsteiger-a-d164e218-8a5a-4d65-98ad-443147ea21df#ref=rss)
-### boris
+* [https://www.spiegel.de/wirtschaft/konjunktur-baubranche-gewinnt-wieder-mehr-auftraege](https://www.spiegel.de/wirtschaft/konjunktur-baubranche-gewinnt-wieder-mehr-auftraege-a-0a9d19f4-fcb4-40dd-9deb-09dd3b7f4cf5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/rente-pflege-krankenkasse-rechner-zeigt-wie-ihr-gehalt-bis-2045-zusammenschrumpft](https://www.spiegel.de/wirtschaft/soziales/rente-pflege-krankenkasse-rechner-zeigt-wie-ihr-gehalt-bis-2045-zusammenschrumpft-a-4be44dd2-7195-41be-9da2-6cea1c573616#ref=rss)
+### rené
 
-* [https://www.spiegel.de/sport/boris-herrmann-beim-vendee-globe-erst-der-schreckmoment-jetzt-weihnachtsgefuehle](https://www.spiegel.de/sport/boris-herrmann-beim-vendee-globe-erst-der-schreckmoment-jetzt-weihnachtsgefuehle-a-21866dce-ec11-44c7-a042-dfb2949eb7e4#ref=rss)
-### herrmann
+* [https://www.spiegel.de/wirtschaft/rene-benko-falsche-spur-zu-den-chinesischen-triaden](https://www.spiegel.de/wirtschaft/rene-benko-falsche-spur-zu-den-chinesischen-triaden-a-25e6fa3e-67d7-419a-b99c-a1ae690ae317#ref=rss)
+### benko
 
-* [https://www.spiegel.de/sport/boris-herrmann-beim-vendee-globe-erst-der-schreckmoment-jetzt-weihnachtsgefuehle](https://www.spiegel.de/sport/boris-herrmann-beim-vendee-globe-erst-der-schreckmoment-jetzt-weihnachtsgefuehle-a-21866dce-ec11-44c7-a042-dfb2949eb7e4#ref=rss)
-### vendée
+* [https://www.spiegel.de/wirtschaft/rene-benko-falsche-spur-zu-den-chinesischen-triaden](https://www.spiegel.de/wirtschaft/rene-benko-falsche-spur-zu-den-chinesischen-triaden-a-25e6fa3e-67d7-419a-b99c-a1ae690ae317#ref=rss)
+### hochdeutsch
 
-* [https://www.spiegel.de/sport/boris-herrmann-beim-vendee-globe-erst-der-schreckmoment-jetzt-weihnachtsgefuehle](https://www.spiegel.de/sport/boris-herrmann-beim-vendee-globe-erst-der-schreckmoment-jetzt-weihnachtsgefuehle-a-21866dce-ec11-44c7-a042-dfb2949eb7e4#ref=rss)
-### globe
+* [https://www.spiegel.de/panorama/studie-ueber-hochdeutsch-in-hannover-das-ist-doch-keese](https://www.spiegel.de/panorama/studie-ueber-hochdeutsch-in-hannover-das-ist-doch-keese-a-4d821343-aded-4e4b-8a35-26df6909d857#ref=rss)
+### oft
 
-* [https://www.spiegel.de/sport/boris-herrmann-beim-vendee-globe-erst-der-schreckmoment-jetzt-weihnachtsgefuehle](https://www.spiegel.de/sport/boris-herrmann-beim-vendee-globe-erst-der-schreckmoment-jetzt-weihnachtsgefuehle-a-21866dce-ec11-44c7-a042-dfb2949eb7e4#ref=rss)
-### alt
+* [https://www.spiegel.de/panorama/studie-ueber-hochdeutsch-in-hannover-das-ist-doch-keese](https://www.spiegel.de/panorama/studie-ueber-hochdeutsch-in-hannover-das-ist-doch-keese-a-4d821343-aded-4e4b-8a35-26df6909d857#ref=rss)
+* [https://www.spiegel.de/wirtschaft/strukturprobleme-wirtschaftsweise-grimm-erwartet-harte-zeiten-auf-dem-arbeitsmarkt](https://www.spiegel.de/wirtschaft/strukturprobleme-wirtschaftsweise-grimm-erwartet-harte-zeiten-auf-dem-arbeitsmarkt-a-1b7d910b-2f8e-48e9-9a25-ec26cc9424f7#ref=rss)
+### etwas
 
-* [https://www.spiegel.de/wissenschaft/glattwale-koennen-ueber-130-jahre-alt-werden-viel-aelter-als-bisher-angenommen](https://www.spiegel.de/wissenschaft/glattwale-koennen-ueber-130-jahre-alt-werden-viel-aelter-als-bisher-angenommen-a-78ae63f1-6283-44c2-b822-6d9cb40f4d62#ref=rss)
-### angenommen
+* [https://www.spiegel.de/panorama/studie-ueber-hochdeutsch-in-hannover-das-ist-doch-keese](https://www.spiegel.de/panorama/studie-ueber-hochdeutsch-in-hannover-das-ist-doch-keese-a-4d821343-aded-4e4b-8a35-26df6909d857#ref=rss)
+* [https://www.spiegel.de/auto/fahrberichte/elektroautos-audi-a6-avant-e-tron-im-test](https://www.spiegel.de/auto/fahrberichte/elektroautos-audi-a6-avant-e-tron-im-test-a-db36f498-1065-47f5-bc41-96c4332dd8d3#ref=rss)
+### stadt
 
-* [https://www.spiegel.de/wissenschaft/glattwale-koennen-ueber-130-jahre-alt-werden-viel-aelter-als-bisher-angenommen](https://www.spiegel.de/wissenschaft/glattwale-koennen-ueber-130-jahre-alt-werden-viel-aelter-als-bisher-angenommen-a-78ae63f1-6283-44c2-b822-6d9cb40f4d62#ref=rss)
-### wohnsitz
+* [https://www.spiegel.de/panorama/studie-ueber-hochdeutsch-in-hannover-das-ist-doch-keese](https://www.spiegel.de/panorama/studie-ueber-hochdeutsch-in-hannover-das-ist-doch-keese-a-4d821343-aded-4e4b-8a35-26df6909d857#ref=rss)
+* [https://www.spiegel.de/start/studieren-in-kaiserslautern-campus-wohnviertel-wg-zimmer-preise-die-besten-kneipen](https://www.spiegel.de/start/studieren-in-kaiserslautern-campus-wohnviertel-wg-zimmer-preise-die-besten-kneipen-a-5f75b83f-57ce-420c-b89e-0cabfb8369f9#ref=rss)
+### nova
 
-* [https://www.spiegel.de/panorama/papst-franziskus-sendet-angelusgebet-von-zu-hause-um-an-weihnachten-fit-zu-sein](https://www.spiegel.de/panorama/papst-franziskus-sendet-angelusgebet-von-zu-hause-um-an-weihnachten-fit-zu-sein-a-577bd372-3485-46fc-aa66-d824113a9701#ref=rss)
-### oladapo
+* [https://www.spiegel.de/ausland/ukraine-nova-post-verbindet-die-gefluechteten-mit-der-heimat](https://www.spiegel.de/ausland/ukraine-nova-post-verbindet-die-gefluechteten-mit-der-heimat-a-95406f5e-2473-4304-9622-143f0e678aba#ref=rss)
+### verbindet
 
-* [https://www.spiegel.de/sport/fussball/rassismus-im-fussball-oladapo-afolayan-vom-fc-st-pauli-veroeffentlicht-rassistische-anfeindungen](https://www.spiegel.de/sport/fussball/rassismus-im-fussball-oladapo-afolayan-vom-fc-st-pauli-veroeffentlicht-rassistische-anfeindungen-a-683616b0-7913-45fa-979e-06323b8934e6#ref=rss)
-### afolayan
+* [https://www.spiegel.de/ausland/ukraine-nova-post-verbindet-die-gefluechteten-mit-der-heimat](https://www.spiegel.de/ausland/ukraine-nova-post-verbindet-die-gefluechteten-mit-der-heimat-a-95406f5e-2473-4304-9622-143f0e678aba#ref=rss)
+### heimat
 
-* [https://www.spiegel.de/sport/fussball/rassismus-im-fussball-oladapo-afolayan-vom-fc-st-pauli-veroeffentlicht-rassistische-anfeindungen](https://www.spiegel.de/sport/fussball/rassismus-im-fussball-oladapo-afolayan-vom-fc-st-pauli-veroeffentlicht-rassistische-anfeindungen-a-683616b0-7913-45fa-979e-06323b8934e6#ref=rss)
-### stürmer
+* [https://www.spiegel.de/ausland/ukraine-nova-post-verbindet-die-gefluechteten-mit-der-heimat](https://www.spiegel.de/ausland/ukraine-nova-post-verbindet-die-gefluechteten-mit-der-heimat-a-95406f5e-2473-4304-9622-143f0e678aba#ref=rss)
+### familie
 
-* [https://www.spiegel.de/sport/fussball/rassismus-im-fussball-oladapo-afolayan-vom-fc-st-pauli-veroeffentlicht-rassistische-anfeindungen](https://www.spiegel.de/sport/fussball/rassismus-im-fussball-oladapo-afolayan-vom-fc-st-pauli-veroeffentlicht-rassistische-anfeindungen-a-683616b0-7913-45fa-979e-06323b8934e6#ref=rss)
-### st
+* [https://www.spiegel.de/ausland/ukraine-nova-post-verbindet-die-gefluechteten-mit-der-heimat](https://www.spiegel.de/ausland/ukraine-nova-post-verbindet-die-gefluechteten-mit-der-heimat-a-95406f5e-2473-4304-9622-143f0e678aba#ref=rss)
+* [https://www.spiegel.de/familie/geschenke-kaufen-an-heiligabend-tipps-von-den-profis](https://www.spiegel.de/familie/geschenke-kaufen-an-heiligabend-tipps-von-den-profis-a-c6ba5cc6-f914-4787-94b1-97c2207633be#ref=rss)
+### fast
 
-* [https://www.spiegel.de/sport/fussball/rassismus-im-fussball-oladapo-afolayan-vom-fc-st-pauli-veroeffentlicht-rassistische-anfeindungen](https://www.spiegel.de/sport/fussball/rassismus-im-fussball-oladapo-afolayan-vom-fc-st-pauli-veroeffentlicht-rassistische-anfeindungen-a-683616b0-7913-45fa-979e-06323b8934e6#ref=rss)
-### pauli
+* [https://www.spiegel.de/ausland/ukraine-nova-post-verbindet-die-gefluechteten-mit-der-heimat](https://www.spiegel.de/ausland/ukraine-nova-post-verbindet-die-gefluechteten-mit-der-heimat-a-95406f5e-2473-4304-9622-143f0e678aba#ref=rss)
+* [https://www.spiegel.de/panorama/leute/n-tv-moderator-marcel-wagner-hoert-auf-wohl-wegen-zu-viel-schlechter-nachrichten](https://www.spiegel.de/panorama/leute/n-tv-moderator-marcel-wagner-hoert-auf-wohl-wegen-zu-viel-schlechter-nachrichten-a-cc5324bb-2aae-4732-88d1-639cf49b6284#ref=rss)
+### nils
 
-* [https://www.spiegel.de/sport/fussball/rassismus-im-fussball-oladapo-afolayan-vom-fc-st-pauli-veroeffentlicht-rassistische-anfeindungen](https://www.spiegel.de/sport/fussball/rassismus-im-fussball-oladapo-afolayan-vom-fc-st-pauli-veroeffentlicht-rassistische-anfeindungen-a-683616b0-7913-45fa-979e-06323b8934e6#ref=rss)
-### rassistische
+* [https://www.spiegel.de/sport/radsport-nils-politt-ueber-die-dominanz-von-tadej-pogacar-2024](https://www.spiegel.de/sport/radsport-nils-politt-ueber-die-dominanz-von-tadej-pogacar-2024-a-1c42bae3-a315-4b15-aca9-51fbdece1b11#ref=rss)
+### politt
 
-* [https://www.spiegel.de/sport/fussball/rassismus-im-fussball-oladapo-afolayan-vom-fc-st-pauli-veroeffentlicht-rassistische-anfeindungen](https://www.spiegel.de/sport/fussball/rassismus-im-fussball-oladapo-afolayan-vom-fc-st-pauli-veroeffentlicht-rassistische-anfeindungen-a-683616b0-7913-45fa-979e-06323b8934e6#ref=rss)
-### dartswm
+* [https://www.spiegel.de/sport/radsport-nils-politt-ueber-die-dominanz-von-tadej-pogacar-2024](https://www.spiegel.de/sport/radsport-nils-politt-ueber-die-dominanz-von-tadej-pogacar-2024-a-1c42bae3-a315-4b15-aca9-51fbdece1b11#ref=rss)
+### tadej
 
-* [https://www.spiegel.de/sport/darts-wm-2025-luke-littler-ueberwaeltigt-von-emotionen-nach-rekordleistung](https://www.spiegel.de/sport/darts-wm-2025-luke-littler-ueberwaeltigt-von-emotionen-nach-rekordleistung-a-d2178694-aff3-4ccb-9cd9-a38161860070#ref=rss)
-### luke
+* [https://www.spiegel.de/sport/radsport-nils-politt-ueber-die-dominanz-von-tadej-pogacar-2024](https://www.spiegel.de/sport/radsport-nils-politt-ueber-die-dominanz-von-tadej-pogacar-2024-a-1c42bae3-a315-4b15-aca9-51fbdece1b11#ref=rss)
+### pogačar
 
-* [https://www.spiegel.de/sport/darts-wm-2025-luke-littler-ueberwaeltigt-von-emotionen-nach-rekordleistung](https://www.spiegel.de/sport/darts-wm-2025-luke-littler-ueberwaeltigt-von-emotionen-nach-rekordleistung-a-d2178694-aff3-4ccb-9cd9-a38161860070#ref=rss)
-### littler
+* [https://www.spiegel.de/sport/radsport-nils-politt-ueber-die-dominanz-von-tadej-pogacar-2024](https://www.spiegel.de/sport/radsport-nils-politt-ueber-die-dominanz-von-tadej-pogacar-2024-a-1c42bae3-a315-4b15-aca9-51fbdece1b11#ref=rss)
+### 2024
 
-* [https://www.spiegel.de/sport/darts-wm-2025-luke-littler-ueberwaeltigt-von-emotionen-nach-rekordleistung](https://www.spiegel.de/sport/darts-wm-2025-luke-littler-ueberwaeltigt-von-emotionen-nach-rekordleistung-a-d2178694-aff3-4ccb-9cd9-a38161860070#ref=rss)
-### emotionen
+* [https://www.spiegel.de/sport/radsport-nils-politt-ueber-die-dominanz-von-tadej-pogacar-2024](https://www.spiegel.de/sport/radsport-nils-politt-ueber-die-dominanz-von-tadej-pogacar-2024-a-1c42bae3-a315-4b15-aca9-51fbdece1b11#ref=rss)
+### rente
 
-* [https://www.spiegel.de/sport/darts-wm-2025-luke-littler-ueberwaeltigt-von-emotionen-nach-rekordleistung](https://www.spiegel.de/sport/darts-wm-2025-luke-littler-ueberwaeltigt-von-emotionen-nach-rekordleistung-a-d2178694-aff3-4ccb-9cd9-a38161860070#ref=rss)
-### emilie
+* [https://www.spiegel.de/wirtschaft/soziales/rente-pflege-krankenkasse-rechner-zeigt-wie-ihr-gehalt-bis-2045-zusammenschrumpft](https://www.spiegel.de/wirtschaft/soziales/rente-pflege-krankenkasse-rechner-zeigt-wie-ihr-gehalt-bis-2045-zusammenschrumpft-a-4be44dd2-7195-41be-9da2-6cea1c573616#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-thorsten-frei-will-bleiberecht-von-migranten-an-mindestverdienst-knuepfen](https://www.spiegel.de/politik/deutschland/cdu-thorsten-frei-will-bleiberecht-von-migranten-an-mindestverdienst-knuepfen-a-e090ab44-3d97-4eed-9f75-2bb1681a30e4#ref=rss)
+### gehalt
 
-* [https://www.spiegel.de/sport/turnen-emilie-petz-spricht-ueber-essstoerungen-und-selbstzweifel](https://www.spiegel.de/sport/turnen-emilie-petz-spricht-ueber-essstoerungen-und-selbstzweifel-a-da538b6b-c6bf-4b5e-b951-30c2c65c4873#ref=rss)
-### petz
+* [https://www.spiegel.de/wirtschaft/soziales/rente-pflege-krankenkasse-rechner-zeigt-wie-ihr-gehalt-bis-2045-zusammenschrumpft](https://www.spiegel.de/wirtschaft/soziales/rente-pflege-krankenkasse-rechner-zeigt-wie-ihr-gehalt-bis-2045-zusammenschrumpft-a-4be44dd2-7195-41be-9da2-6cea1c573616#ref=rss)
+* [https://www.spiegel.de/wirtschaft/strukturprobleme-wirtschaftsweise-grimm-erwartet-harte-zeiten-auf-dem-arbeitsmarkt](https://www.spiegel.de/wirtschaft/strukturprobleme-wirtschaftsweise-grimm-erwartet-harte-zeiten-auf-dem-arbeitsmarkt-a-1b7d910b-2f8e-48e9-9a25-ec26cc9424f7#ref=rss)
+### thorsten
 
-* [https://www.spiegel.de/sport/turnen-emilie-petz-spricht-ueber-essstoerungen-und-selbstzweifel](https://www.spiegel.de/sport/turnen-emilie-petz-spricht-ueber-essstoerungen-und-selbstzweifel-a-da538b6b-c6bf-4b5e-b951-30c2c65c4873#ref=rss)
-### oberpfalz
+* [https://www.spiegel.de/politik/deutschland/cdu-thorsten-frei-will-bleiberecht-von-migranten-an-mindestverdienst-knuepfen](https://www.spiegel.de/politik/deutschland/cdu-thorsten-frei-will-bleiberecht-von-migranten-an-mindestverdienst-knuepfen-a-e090ab44-3d97-4eed-9f75-2bb1681a30e4#ref=rss)
+### frei
 
-* [https://www.spiegel.de/panorama/oberpfalz-bundespolizei-findet-stofftasche-mit-42-000-euro-lokale-polizeiinspektion-klaert-herkunft-auf](https://www.spiegel.de/panorama/oberpfalz-bundespolizei-findet-stofftasche-mit-42-000-euro-lokale-polizeiinspektion-klaert-herkunft-auf-a-3e8fb842-7443-49e2-b778-f4efe04ef054#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-thorsten-frei-will-bleiberecht-von-migranten-an-mindestverdienst-knuepfen](https://www.spiegel.de/politik/deutschland/cdu-thorsten-frei-will-bleiberecht-von-migranten-an-mindestverdienst-knuepfen-a-e090ab44-3d97-4eed-9f75-2bb1681a30e4#ref=rss)
+### audi
+
+* [https://www.spiegel.de/auto/fahrberichte/elektroautos-audi-a6-avant-e-tron-im-test](https://www.spiegel.de/auto/fahrberichte/elektroautos-audi-a6-avant-e-tron-im-test-a-db36f498-1065-47f5-bc41-96c4332dd8d3#ref=rss)
+### a6
+
+* [https://www.spiegel.de/auto/fahrberichte/elektroautos-audi-a6-avant-e-tron-im-test](https://www.spiegel.de/auto/fahrberichte/elektroautos-audi-a6-avant-e-tron-im-test-a-db36f498-1065-47f5-bc41-96c4332dd8d3#ref=rss)
+### avant
+
+* [https://www.spiegel.de/auto/fahrberichte/elektroautos-audi-a6-avant-e-tron-im-test](https://www.spiegel.de/auto/fahrberichte/elektroautos-audi-a6-avant-e-tron-im-test-a-db36f498-1065-47f5-bc41-96c4332dd8d3#ref=rss)
+### etron
+
+* [https://www.spiegel.de/auto/fahrberichte/elektroautos-audi-a6-avant-e-tron-im-test](https://www.spiegel.de/auto/fahrberichte/elektroautos-audi-a6-avant-e-tron-im-test-a-db36f498-1065-47f5-bc41-96c4332dd8d3#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/auto/fahrberichte/elektroautos-audi-a6-avant-e-tron-im-test](https://www.spiegel.de/auto/fahrberichte/elektroautos-audi-a6-avant-e-tron-im-test-a-db36f498-1065-47f5-bc41-96c4332dd8d3#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-aeussert-sich-transfeindlich-und-will-dritte-geschlechtsoption-verbieten](https://www.spiegel.de/ausland/donald-trump-aeussert-sich-transfeindlich-und-will-dritte-geschlechtsoption-verbieten-a-ad933aa0-1c4f-41c5-a31a-d9d0abcf1ded#ref=rss)
+### marcel
+
+* [https://www.spiegel.de/panorama/leute/n-tv-moderator-marcel-wagner-hoert-auf-wohl-wegen-zu-viel-schlechter-nachrichten](https://www.spiegel.de/panorama/leute/n-tv-moderator-marcel-wagner-hoert-auf-wohl-wegen-zu-viel-schlechter-nachrichten-a-cc5324bb-2aae-4732-88d1-639cf49b6284#ref=rss)
+### wagner
+
+* [https://www.spiegel.de/panorama/leute/n-tv-moderator-marcel-wagner-hoert-auf-wohl-wegen-zu-viel-schlechter-nachrichten](https://www.spiegel.de/panorama/leute/n-tv-moderator-marcel-wagner-hoert-auf-wohl-wegen-zu-viel-schlechter-nachrichten-a-cc5324bb-2aae-4732-88d1-639cf49b6284#ref=rss)
+### wirtschaftsweise
+
+* [https://www.spiegel.de/wirtschaft/strukturprobleme-wirtschaftsweise-grimm-erwartet-harte-zeiten-auf-dem-arbeitsmarkt](https://www.spiegel.de/wirtschaft/strukturprobleme-wirtschaftsweise-grimm-erwartet-harte-zeiten-auf-dem-arbeitsmarkt-a-1b7d910b-2f8e-48e9-9a25-ec26cc9424f7#ref=rss)
+### veronika
+
+* [https://www.spiegel.de/wirtschaft/strukturprobleme-wirtschaftsweise-grimm-erwartet-harte-zeiten-auf-dem-arbeitsmarkt](https://www.spiegel.de/wirtschaft/strukturprobleme-wirtschaftsweise-grimm-erwartet-harte-zeiten-auf-dem-arbeitsmarkt-a-1b7d910b-2f8e-48e9-9a25-ec26cc9424f7#ref=rss)
+### grimm
+
+* [https://www.spiegel.de/wirtschaft/strukturprobleme-wirtschaftsweise-grimm-erwartet-harte-zeiten-auf-dem-arbeitsmarkt](https://www.spiegel.de/wirtschaft/strukturprobleme-wirtschaftsweise-grimm-erwartet-harte-zeiten-auf-dem-arbeitsmarkt-a-1b7d910b-2f8e-48e9-9a25-ec26cc9424f7#ref=rss)
+### plus
+
+* [https://www.spiegel.de/wirtschaft/strukturprobleme-wirtschaftsweise-grimm-erwartet-harte-zeiten-auf-dem-arbeitsmarkt](https://www.spiegel.de/wirtschaft/strukturprobleme-wirtschaftsweise-grimm-erwartet-harte-zeiten-auf-dem-arbeitsmarkt-a-1b7d910b-2f8e-48e9-9a25-ec26cc9424f7#ref=rss)
+* [https://www.spiegel.de/karriere/burn-out-nach-erkrankung-den-job-wechseln-oder-bleiben](https://www.spiegel.de/karriere/burn-out-nach-erkrankung-den-job-wechseln-oder-bleiben-a-54c0815f-bae8-4c44-88ce-db63f3a41287#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/wirtschaft/strukturprobleme-wirtschaftsweise-grimm-erwartet-harte-zeiten-auf-dem-arbeitsmarkt](https://www.spiegel.de/wirtschaft/strukturprobleme-wirtschaftsweise-grimm-erwartet-harte-zeiten-auf-dem-arbeitsmarkt-a-1b7d910b-2f8e-48e9-9a25-ec26cc9424f7#ref=rss)
+* [https://www.spiegel.de/panorama/magdeburg-terrorismus-experte-peter-neumann-ueber-die-todesfahrt-von-taleb-al-abdulmohsen](https://www.spiegel.de/panorama/magdeburg-terrorismus-experte-peter-neumann-ueber-die-todesfahrt-von-taleb-al-abdulmohsen-a-d35afdca-2a3a-4faf-9e73-8172c4f11010#ref=rss)
+### peter
+
+* [https://www.spiegel.de/panorama/magdeburg-terrorismus-experte-peter-neumann-ueber-die-todesfahrt-von-taleb-al-abdulmohsen](https://www.spiegel.de/panorama/magdeburg-terrorismus-experte-peter-neumann-ueber-die-todesfahrt-von-taleb-al-abdulmohsen-a-d35afdca-2a3a-4faf-9e73-8172c4f11010#ref=rss)
+### neumann
+
+* [https://www.spiegel.de/panorama/magdeburg-terrorismus-experte-peter-neumann-ueber-die-todesfahrt-von-taleb-al-abdulmohsen](https://www.spiegel.de/panorama/magdeburg-terrorismus-experte-peter-neumann-ueber-die-todesfahrt-von-taleb-al-abdulmohsen-a-d35afdca-2a3a-4faf-9e73-8172c4f11010#ref=rss)
+### taleb
+
+* [https://www.spiegel.de/panorama/magdeburg-terrorismus-experte-peter-neumann-ueber-die-todesfahrt-von-taleb-al-abdulmohsen](https://www.spiegel.de/panorama/magdeburg-terrorismus-experte-peter-neumann-ueber-die-todesfahrt-von-taleb-al-abdulmohsen-a-d35afdca-2a3a-4faf-9e73-8172c4f11010#ref=rss)
+### alabdulmohsen
+
+* [https://www.spiegel.de/panorama/magdeburg-terrorismus-experte-peter-neumann-ueber-die-todesfahrt-von-taleb-al-abdulmohsen](https://www.spiegel.de/panorama/magdeburg-terrorismus-experte-peter-neumann-ueber-die-todesfahrt-von-taleb-al-abdulmohsen-a-d35afdca-2a3a-4faf-9e73-8172c4f11010#ref=rss)
+### heiligabend
+
+* [https://www.spiegel.de/familie/geschenke-kaufen-an-heiligabend-tipps-von-den-profis](https://www.spiegel.de/familie/geschenke-kaufen-an-heiligabend-tipps-von-den-profis-a-c6ba5cc6-f914-4787-94b1-97c2207633be#ref=rss)
+### entschieden
+
+* [https://www.spiegel.de/karriere/burn-out-nach-erkrankung-den-job-wechseln-oder-bleiben](https://www.spiegel.de/karriere/burn-out-nach-erkrankung-den-job-wechseln-oder-bleiben-a-54c0815f-bae8-4c44-88ce-db63f3a41287#ref=rss)
+* [https://www.spiegel.de/karriere/burnout-wie-man-zwischen-bleiben-und-gehen-abwaegt](https://www.spiegel.de/karriere/burnout-wie-man-zwischen-bleiben-und-gehen-abwaegt-a-eb59e444-cf9b-44e5-9c4a-64e606078ec6#ref=rss)
 
