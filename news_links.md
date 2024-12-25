@@ -4,354 +4,305 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### ich
-
-* [https://www.spiegel.de/familie/weihnachten-in-einkommensarmer-familie-heute-bin-ich-nicht-mehr-so-kindlich-naiv](https://www.spiegel.de/familie/weihnachten-in-einkommensarmer-familie-heute-bin-ich-nicht-mehr-so-kindlich-naiv-a-a4833ca1-1b45-4c07-a286-2766c7fa7a01#ref=rss)
-* [https://www.spiegel.de/sport/darts-wm-ricardo-pietrezczko-gewinnt-gegen-gian-van-veen-und-steht-als-einziger-deutscher-in-der-dritten-runde](https://www.spiegel.de/sport/darts-wm-ricardo-pietrezczko-gewinnt-gegen-gian-van-veen-und-steht-als-einziger-deutscher-in-der-dritten-runde-a-3db1b675-d90d-4c9b-aa24-c7edec55754b#ref=rss)
-* [https://www.spiegel.de/familie/geburtstag-an-heiligabend-ach-sie-sind-ein-christkind](https://www.spiegel.de/familie/geburtstag-an-heiligabend-ach-sie-sind-ein-christkind-a-d87fe38d-7c87-4a04-9915-395081bcab4f#ref=rss)
-### fünf
-
-* [https://www.spiegel.de/panorama/justiz/wer-ist-taleb-al-abdulmohsen-der-amokfahrer-von-magdeburg-spiegel-tv](https://www.spiegel.de/panorama/justiz/wer-ist-taleb-al-abdulmohsen-der-amokfahrer-von-magdeburg-spiegel-tv-a-9c744291-4720-45d2-b4a2-9241b0ea7b76#ref=rss)
-* [https://www.spiegel.de/panorama/gericht-in-amsterdam-verurteilt-fuenf-maenner-wegen-gewalt-gegen-israelische-fussballfans](https://www.spiegel.de/panorama/gericht-in-amsterdam-verurteilt-fuenf-maenner-wegen-gewalt-gegen-israelische-fussballfans-a-b1e7ff1b-5a17-4494-b30c-5a451ac4f882#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/todesfahrer-von-magdeburg-haetten-die-behoerden-die-bluttat-verhindern-koennen](https://www.spiegel.de/panorama/justiz/todesfahrer-von-magdeburg-haetten-die-behoerden-die-bluttat-verhindern-koennen-a-8c8e4d31-46fa-4b64-852b-620613cf4584#ref=rss)
-* [https://www.spiegel.de/panorama/krokodil-aus-kultfilm-crocodile-dundee-gestorben](https://www.spiegel.de/panorama/krokodil-aus-kultfilm-crocodile-dundee-gestorben-a-07b97d3e-c8b6-4222-97b8-3ed68399d2ab#ref=rss)
-* [https://www.spiegel.de/kultur/nahostkonflikt-in-der-mode-qaher-harhash-ueber-seine-erfahrungen-als-palaestinensisches-model](https://www.spiegel.de/kultur/nahostkonflikt-in-der-mode-qaher-harhash-ueber-seine-erfahrungen-als-palaestinensisches-model-a-6becdaa5-590b-4743-bfc9-0e83fc802be3#ref=rss)
-### rund
-
-* [https://www.spiegel.de/panorama/santa-tracker-hier-koennen-sie-sehen-wo-der-weihnachtsmann-gerade-ist](https://www.spiegel.de/panorama/santa-tracker-hier-koennen-sie-sehen-wo-der-weihnachtsmann-gerade-ist-a-ccaf935d-da6b-4740-862f-28f5ca1b4faa#ref=rss)
-* [https://www.spiegel.de/panorama/baden-wuerttemberg-rund-hundert-reisende-werden-aus-s-bahn-evakuiert](https://www.spiegel.de/panorama/baden-wuerttemberg-rund-hundert-reisende-werden-aus-s-bahn-evakuiert-a-098b2c7e-6c4a-452f-adde-a5faee109261#ref=rss)
-* [https://www.spiegel.de/wirtschaft/lilium-investorengruppe-uebernimmt-flugtaxi-entwickler](https://www.spiegel.de/wirtschaft/lilium-investorengruppe-uebernimmt-flugtaxi-entwickler-a-7fce0a07-720d-44f4-aa35-c5d16bdf5e15#ref=rss)
-* [https://www.spiegel.de/panorama/krokodil-aus-kultfilm-crocodile-dundee-gestorben](https://www.spiegel.de/panorama/krokodil-aus-kultfilm-crocodile-dundee-gestorben-a-07b97d3e-c8b6-4222-97b8-3ed68399d2ab#ref=rss)
-### verurteilt
-
-* [https://www.spiegel.de/panorama/gericht-in-amsterdam-verurteilt-fuenf-maenner-wegen-gewalt-gegen-israelische-fussballfans](https://www.spiegel.de/panorama/gericht-in-amsterdam-verurteilt-fuenf-maenner-wegen-gewalt-gegen-israelische-fussballfans-a-b1e7ff1b-5a17-4494-b30c-5a451ac4f882#ref=rss)
-* [https://www.spiegel.de/ausland/gene-spector-russisches-gericht-verurteilt-us-buerger-zu-15-jahren-haft](https://www.spiegel.de/ausland/gene-spector-russisches-gericht-verurteilt-us-buerger-zu-15-jahren-haft-a-fb726272-0434-437c-b860-3ade5d50b17d#ref=rss)
-### taleb
-
-* [https://www.spiegel.de/panorama/justiz/wer-ist-taleb-al-abdulmohsen-der-amokfahrer-von-magdeburg-spiegel-tv](https://www.spiegel.de/panorama/justiz/wer-ist-taleb-al-abdulmohsen-der-amokfahrer-von-magdeburg-spiegel-tv-a-9c744291-4720-45d2-b4a2-9241b0ea7b76#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/todesfahrer-von-magdeburg-haetten-die-behoerden-die-bluttat-verhindern-koennen](https://www.spiegel.de/panorama/justiz/todesfahrer-von-magdeburg-haetten-die-behoerden-die-bluttat-verhindern-koennen-a-8c8e4d31-46fa-4b64-852b-620613cf4584#ref=rss)
-### al
-
-* [https://www.spiegel.de/panorama/justiz/wer-ist-taleb-al-abdulmohsen-der-amokfahrer-von-magdeburg-spiegel-tv](https://www.spiegel.de/panorama/justiz/wer-ist-taleb-al-abdulmohsen-der-amokfahrer-von-magdeburg-spiegel-tv-a-9c744291-4720-45d2-b4a2-9241b0ea7b76#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/todesfahrer-von-magdeburg-haetten-die-behoerden-die-bluttat-verhindern-koennen](https://www.spiegel.de/panorama/justiz/todesfahrer-von-magdeburg-haetten-die-behoerden-die-bluttat-verhindern-koennen-a-8c8e4d31-46fa-4b64-852b-620613cf4584#ref=rss)
-### abdulmohsen
-
-* [https://www.spiegel.de/panorama/justiz/wer-ist-taleb-al-abdulmohsen-der-amokfahrer-von-magdeburg-spiegel-tv](https://www.spiegel.de/panorama/justiz/wer-ist-taleb-al-abdulmohsen-der-amokfahrer-von-magdeburg-spiegel-tv-a-9c744291-4720-45d2-b4a2-9241b0ea7b76#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/todesfahrer-von-magdeburg-haetten-die-behoerden-die-bluttat-verhindern-koennen](https://www.spiegel.de/panorama/justiz/todesfahrer-von-magdeburg-haetten-die-behoerden-die-bluttat-verhindern-koennen-a-8c8e4d31-46fa-4b64-852b-620613cf4584#ref=rss)
-### magdeburg
-
-* [https://www.spiegel.de/panorama/justiz/wer-ist-taleb-al-abdulmohsen-der-amokfahrer-von-magdeburg-spiegel-tv](https://www.spiegel.de/panorama/justiz/wer-ist-taleb-al-abdulmohsen-der-amokfahrer-von-magdeburg-spiegel-tv-a-9c744291-4720-45d2-b4a2-9241b0ea7b76#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/todesfahrer-von-magdeburg-haetten-die-behoerden-die-bluttat-verhindern-koennen](https://www.spiegel.de/panorama/justiz/todesfahrer-von-magdeburg-haetten-die-behoerden-die-bluttat-verhindern-koennen-a-8c8e4d31-46fa-4b64-852b-620613cf4584#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/justiz/wer-ist-taleb-al-abdulmohsen-der-amokfahrer-von-magdeburg-spiegel-tv](https://www.spiegel.de/panorama/justiz/wer-ist-taleb-al-abdulmohsen-der-amokfahrer-von-magdeburg-spiegel-tv-a-9c744291-4720-45d2-b4a2-9241b0ea7b76#ref=rss)
-* [https://www.spiegel.de/wissenschaft/erosion-wie-forscher-mit-stromstoessen-die-kuesten-der-welt-retten-wollen](https://www.spiegel.de/wissenschaft/erosion-wie-forscher-mit-stromstoessen-die-kuesten-der-welt-retten-wollen-a-0dd20469-08e4-4567-a943-0aa12760aba7#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/todesfahrer-von-magdeburg-haetten-die-behoerden-die-bluttat-verhindern-koennen](https://www.spiegel.de/panorama/justiz/todesfahrer-von-magdeburg-haetten-die-behoerden-die-bluttat-verhindern-koennen-a-8c8e4d31-46fa-4b64-852b-620613cf4584#ref=rss)
-### geschenk
-
-* [https://www.spiegel.de/panorama/leute/nationalmannschaft-joshua-kimmich-ueberrascht-henrichs-mit-vorweihnachtlichem-geschenk](https://www.spiegel.de/panorama/leute/nationalmannschaft-joshua-kimmich-ueberrascht-henrichs-mit-vorweihnachtlichem-geschenk-a-61563931-87a4-4adb-8fdc-e2a78d489ae8#ref=rss)
-* [https://www.spiegel.de/netzwelt/games/videospiele-mit-diesen-zehn-handygames-machen-sie-sich-selbst-ein-schoenes-geschenk](https://www.spiegel.de/netzwelt/games/videospiele-mit-diesen-zehn-handygames-machen-sie-sich-selbst-ein-schoenes-geschenk-a-832dc2d8-e6ae-4425-aafa-d7e1b6c21669#ref=rss)
 ### weihnachten
 
-* [https://www.spiegel.de/kultur/frank-schoebe-saenger-ueber-weihnachten-in-der-ddr-und-seine-treffen-mit-angela-merkel](https://www.spiegel.de/kultur/frank-schoebe-saenger-ueber-weihnachten-in-der-ddr-und-seine-treffen-mit-angela-merkel-a-41996265-c716-4316-a030-03e0f4dccfa4#ref=rss)
-* [https://www.spiegel.de/familie/weihnachten-in-einkommensarmer-familie-heute-bin-ich-nicht-mehr-so-kindlich-naiv](https://www.spiegel.de/familie/weihnachten-in-einkommensarmer-familie-heute-bin-ich-nicht-mehr-so-kindlich-naiv-a-a4833ca1-1b45-4c07-a286-2766c7fa7a01#ref=rss)
-### familie
+* [https://www.spiegel.de/panorama/wetter-zu-weihnachten-sonne-und-schnee-gibts-nur-im-sueden](https://www.spiegel.de/panorama/wetter-zu-weihnachten-sonne-und-schnee-gibts-nur-im-sueden-a-4f99db14-f852-4592-b81a-4ec243865065#ref=rss)
+* [https://www.spiegel.de/ausland/russland-massive-russische-angriffe-am-weihnachtstag-auf-die-ukraine](https://www.spiegel.de/ausland/russland-massive-russische-angriffe-am-weihnachtstag-auf-die-ukraine-a-4729ccc4-e882-4027-9379-aea1513604e6#ref=rss)
+* [https://www.spiegel.de/gesundheit/ernaehrung/gesundheit-und-fitness-an-weihnachten-was-an-heilig-abend-vor-sodbrennen-schuetzt](https://www.spiegel.de/gesundheit/ernaehrung/gesundheit-und-fitness-an-weihnachten-was-an-heilig-abend-vor-sodbrennen-schuetzt-a-77a03551-e257-4c9d-8a8a-8ab35224d06e#ref=rss)
+* [https://www.spiegel.de/panorama/leute/tori-spelling-ihre-aelteste-tochter-bekam-2023-keine-geschenke](https://www.spiegel.de/panorama/leute/tori-spelling-ihre-aelteste-tochter-bekam-2023-keine-geschenke-a-c172a1fa-c553-406f-a9b5-71e39f69c424#ref=rss)
+* [https://www.spiegel.de/ausland/weihnachten-im-vatikan-papst-franziskus-eroeffnet-heiliges-jahr](https://www.spiegel.de/ausland/weihnachten-im-vatikan-papst-franziskus-eroeffnet-heiliges-jahr-a-6a9c2983-39a8-41ef-bd02-2a5d35283801#ref=rss)
+* [https://www.spiegel.de/ausland/dinner-for-one-international-diese-tv-klassiker-laufen-in-anderen-laendern-an-den-feiertagen](https://www.spiegel.de/ausland/dinner-for-one-international-diese-tv-klassiker-laufen-in-anderen-laendern-an-den-feiertagen-a-6d105254-4115-4ffe-955f-ad6e1e48a882#ref=rss)
+* [https://www.spiegel.de/panorama/peru-grinch-klaut-dealern-kurz-vor-weihnachten-ihr-kokain](https://www.spiegel.de/panorama/peru-grinch-klaut-dealern-kurz-vor-weihnachten-ihr-kokain-a-ec9a25f1-76f3-4bf2-a943-90a1d7590069#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/kultur/frank-schoebe-saenger-ueber-weihnachten-in-der-ddr-und-seine-treffen-mit-angela-merkel](https://www.spiegel.de/kultur/frank-schoebe-saenger-ueber-weihnachten-in-der-ddr-und-seine-treffen-mit-angela-merkel-a-41996265-c716-4316-a030-03e0f4dccfa4#ref=rss)
-* [https://www.spiegel.de/familie/weihnachten-in-einkommensarmer-familie-heute-bin-ich-nicht-mehr-so-kindlich-naiv](https://www.spiegel.de/familie/weihnachten-in-einkommensarmer-familie-heute-bin-ich-nicht-mehr-so-kindlich-naiv-a-a4833ca1-1b45-4c07-a286-2766c7fa7a01#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/panorama/justiz/mehr-als-vier-tonnen-zoll-stoppt-tonnenweise-illegale-pyrotechnik-aus-polen](https://www.spiegel.de/panorama/justiz/mehr-als-vier-tonnen-zoll-stoppt-tonnenweise-illegale-pyrotechnik-aus-polen-a-ed2426c5-144c-4e0f-83ba-a463161bf82f#ref=rss)
-* [https://www.spiegel.de/familie/weihnachten-in-einkommensarmer-familie-heute-bin-ich-nicht-mehr-so-kindlich-naiv](https://www.spiegel.de/familie/weihnachten-in-einkommensarmer-familie-heute-bin-ich-nicht-mehr-so-kindlich-naiv-a-a4833ca1-1b45-4c07-a286-2766c7fa7a01#ref=rss)
-### syrien
-
-* [https://www.spiegel.de/ausland/syrien-regierung-gibt-aufloesung-von-bewaffneten-gruppen-bekannt](https://www.spiegel.de/ausland/syrien-regierung-gibt-aufloesung-von-bewaffneten-gruppen-bekannt-a-1a8224e0-1bc5-42f5-8a77-71a3574357c1#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-christen-demonstrieren-nach-verbrennung-von-weihnachtsbaum](https://www.spiegel.de/ausland/syrien-christen-demonstrieren-nach-verbrennung-von-weihnachtsbaum-a-0844d1eb-7555-4a7f-b25b-418ccc896e50#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/panorama/gericht-in-amsterdam-verurteilt-fuenf-maenner-wegen-gewalt-gegen-israelische-fussballfans](https://www.spiegel.de/panorama/gericht-in-amsterdam-verurteilt-fuenf-maenner-wegen-gewalt-gegen-israelische-fussballfans-a-b1e7ff1b-5a17-4494-b30c-5a451ac4f882#ref=rss)
-* [https://www.spiegel.de/ausland/gene-spector-russisches-gericht-verurteilt-us-buerger-zu-15-jahren-haft](https://www.spiegel.de/ausland/gene-spector-russisches-gericht-verurteilt-us-buerger-zu-15-jahren-haft-a-fb726272-0434-437c-b860-3ade5d50b17d#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/justiz/schweiz-zwei-crew-mitglieder-der-swiss-nach-rauch-in-der-kabine-in-klinik](https://www.spiegel.de/panorama/justiz/schweiz-zwei-crew-mitglieder-der-swiss-nach-rauch-in-der-kabine-in-klinik-a-304c7a69-3ba0-4f3f-9572-f9f86bed14a3#ref=rss)
-* [https://www.spiegel.de/panorama/peterskapelle-in-luzern-in-der-schweiz-ki-jesus-nimmt-beichten-ab-und-polarisiert](https://www.spiegel.de/panorama/peterskapelle-in-luzern-in-der-schweiz-ki-jesus-nimmt-beichten-ab-und-polarisiert-a-23c314ea-49b0-4cde-9c2e-58cda5423eab#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/panorama/justiz/todesfahrer-von-magdeburg-haetten-die-behoerden-die-bluttat-verhindern-koennen](https://www.spiegel.de/panorama/justiz/todesfahrer-von-magdeburg-haetten-die-behoerden-die-bluttat-verhindern-koennen-a-8c8e4d31-46fa-4b64-852b-620613cf4584#ref=rss)
-* [https://www.spiegel.de/ausland/gene-spector-russisches-gericht-verurteilt-us-buerger-zu-15-jahren-haft](https://www.spiegel.de/ausland/gene-spector-russisches-gericht-verurteilt-us-buerger-zu-15-jahren-haft-a-fb726272-0434-437c-b860-3ade5d50b17d#ref=rss)
-* [https://www.spiegel.de/kultur/nahostkonflikt-in-der-mode-qaher-harhash-ueber-seine-erfahrungen-als-palaestinensisches-model](https://www.spiegel.de/kultur/nahostkonflikt-in-der-mode-qaher-harhash-ueber-seine-erfahrungen-als-palaestinensisches-model-a-6becdaa5-590b-4743-bfc9-0e83fc802be3#ref=rss)
-### großeltern
-
-* [https://www.spiegel.de/wissenschaft/mensch/grosseltern-und-eltern-so-lassen-sich-generationenkonflikte-loesen](https://www.spiegel.de/wissenschaft/mensch/grosseltern-und-eltern-so-lassen-sich-generationenkonflikte-loesen-a-d08bb242-8743-42d6-a281-d9cf91946e5c#ref=rss)
-### eltern
-
-* [https://www.spiegel.de/wissenschaft/mensch/grosseltern-und-eltern-so-lassen-sich-generationenkonflikte-loesen](https://www.spiegel.de/wissenschaft/mensch/grosseltern-und-eltern-so-lassen-sich-generationenkonflikte-loesen-a-d08bb242-8743-42d6-a281-d9cf91946e5c#ref=rss)
-### lösen
-
-* [https://www.spiegel.de/wissenschaft/mensch/grosseltern-und-eltern-so-lassen-sich-generationenkonflikte-loesen](https://www.spiegel.de/wissenschaft/mensch/grosseltern-und-eltern-so-lassen-sich-generationenkonflikte-loesen-a-d08bb242-8743-42d6-a281-d9cf91946e5c#ref=rss)
-### zweiten
-
-* [https://www.spiegel.de/ausland/australien-heftige-waldbraende-im-suedosten-des-landes-sorge-vor-hitze-am-zweiten-weihnachtstag](https://www.spiegel.de/ausland/australien-heftige-waldbraende-im-suedosten-des-landes-sorge-vor-hitze-am-zweiten-weihnachtstag-a-18e23199-3536-4acb-9c11-8fccdd25bc48#ref=rss)
-### weihnachtstag
-
-* [https://www.spiegel.de/ausland/australien-heftige-waldbraende-im-suedosten-des-landes-sorge-vor-hitze-am-zweiten-weihnachtstag](https://www.spiegel.de/ausland/australien-heftige-waldbraende-im-suedosten-des-landes-sorge-vor-hitze-am-zweiten-weihnachtstag-a-18e23199-3536-4acb-9c11-8fccdd25bc48#ref=rss)
-### evakuiert
-
-* [https://www.spiegel.de/ausland/australien-heftige-waldbraende-im-suedosten-des-landes-sorge-vor-hitze-am-zweiten-weihnachtstag](https://www.spiegel.de/ausland/australien-heftige-waldbraende-im-suedosten-des-landes-sorge-vor-hitze-am-zweiten-weihnachtstag-a-18e23199-3536-4acb-9c11-8fccdd25bc48#ref=rss)
-* [https://www.spiegel.de/panorama/baden-wuerttemberg-rund-hundert-reisende-werden-aus-s-bahn-evakuiert](https://www.spiegel.de/panorama/baden-wuerttemberg-rund-hundert-reisende-werden-aus-s-bahn-evakuiert-a-098b2c7e-6c4a-452f-adde-a5faee109261#ref=rss)
-### kevin
-
-* [https://www.spiegel.de/kultur/kevin-allein-zu-haus-wie-chris-columbus-den-durchbruch-schaffte-und-mit-chevy-chase-stritt](https://www.spiegel.de/kultur/kevin-allein-zu-haus-wie-chris-columbus-den-durchbruch-schaffte-und-mit-chevy-chase-stritt-a-a9eb7891-c145-4ff6-af61-7deba59b2870#ref=rss)
-### allein
-
-* [https://www.spiegel.de/kultur/kevin-allein-zu-haus-wie-chris-columbus-den-durchbruch-schaffte-und-mit-chevy-chase-stritt](https://www.spiegel.de/kultur/kevin-allein-zu-haus-wie-chris-columbus-den-durchbruch-schaffte-und-mit-chevy-chase-stritt-a-a9eb7891-c145-4ff6-af61-7deba59b2870#ref=rss)
-### haus
-
-* [https://www.spiegel.de/kultur/kevin-allein-zu-haus-wie-chris-columbus-den-durchbruch-schaffte-und-mit-chevy-chase-stritt](https://www.spiegel.de/kultur/kevin-allein-zu-haus-wie-chris-columbus-den-durchbruch-schaffte-und-mit-chevy-chase-stritt-a-a9eb7891-c145-4ff6-af61-7deba59b2870#ref=rss)
-### chris
-
-* [https://www.spiegel.de/kultur/kevin-allein-zu-haus-wie-chris-columbus-den-durchbruch-schaffte-und-mit-chevy-chase-stritt](https://www.spiegel.de/kultur/kevin-allein-zu-haus-wie-chris-columbus-den-durchbruch-schaffte-und-mit-chevy-chase-stritt-a-a9eb7891-c145-4ff6-af61-7deba59b2870#ref=rss)
-### columbus
-
-* [https://www.spiegel.de/kultur/kevin-allein-zu-haus-wie-chris-columbus-den-durchbruch-schaffte-und-mit-chevy-chase-stritt](https://www.spiegel.de/kultur/kevin-allein-zu-haus-wie-chris-columbus-den-durchbruch-schaffte-und-mit-chevy-chase-stritt-a-a9eb7891-c145-4ff6-af61-7deba59b2870#ref=rss)
-### chevy
-
-* [https://www.spiegel.de/kultur/kevin-allein-zu-haus-wie-chris-columbus-den-durchbruch-schaffte-und-mit-chevy-chase-stritt](https://www.spiegel.de/kultur/kevin-allein-zu-haus-wie-chris-columbus-den-durchbruch-schaffte-und-mit-chevy-chase-stritt-a-a9eb7891-c145-4ff6-af61-7deba59b2870#ref=rss)
-### chase
-
-* [https://www.spiegel.de/kultur/kevin-allein-zu-haus-wie-chris-columbus-den-durchbruch-schaffte-und-mit-chevy-chase-stritt](https://www.spiegel.de/kultur/kevin-allein-zu-haus-wie-chris-columbus-den-durchbruch-schaffte-und-mit-chevy-chase-stritt-a-a9eb7891-c145-4ff6-af61-7deba59b2870#ref=rss)
-### grund
-
-* [https://www.spiegel.de/kultur/kevin-allein-zu-haus-wie-chris-columbus-den-durchbruch-schaffte-und-mit-chevy-chase-stritt](https://www.spiegel.de/kultur/kevin-allein-zu-haus-wie-chris-columbus-den-durchbruch-schaffte-und-mit-chevy-chase-stritt-a-a9eb7891-c145-4ff6-af61-7deba59b2870#ref=rss)
-* [https://www.spiegel.de/ausland/gene-spector-russisches-gericht-verurteilt-us-buerger-zu-15-jahren-haft](https://www.spiegel.de/ausland/gene-spector-russisches-gericht-verurteilt-us-buerger-zu-15-jahren-haft-a-fb726272-0434-437c-b860-3ade5d50b17d#ref=rss)
-### forscher
-
-* [https://www.spiegel.de/wissenschaft/erosion-wie-forscher-mit-stromstoessen-die-kuesten-der-welt-retten-wollen](https://www.spiegel.de/wissenschaft/erosion-wie-forscher-mit-stromstoessen-die-kuesten-der-welt-retten-wollen-a-0dd20469-08e4-4567-a943-0aa12760aba7#ref=rss)
-### küsten
-
-* [https://www.spiegel.de/wissenschaft/erosion-wie-forscher-mit-stromstoessen-die-kuesten-der-welt-retten-wollen](https://www.spiegel.de/wissenschaft/erosion-wie-forscher-mit-stromstoessen-die-kuesten-der-welt-retten-wollen-a-0dd20469-08e4-4567-a943-0aa12760aba7#ref=rss)
+* [https://www.spiegel.de/panorama/muenchen-15-menschen-bei-brand-in-seniorenheim-verletzt](https://www.spiegel.de/panorama/muenchen-15-menschen-bei-brand-in-seniorenheim-verletzt-a-da376c96-1bfc-45d0-ad97-5db24735562a#ref=rss)
+* [https://www.spiegel.de/ausland/haiti-mindestens-drei-menschen-sterben-durch-schuesse-in-krankenhaus](https://www.spiegel.de/ausland/haiti-mindestens-drei-menschen-sterben-durch-schuesse-in-krankenhaus-a-7da1dae8-426b-4f92-bf67-5f76c85b8999#ref=rss)
+* [https://www.spiegel.de/ausland/russland-massive-russische-angriffe-am-weihnachtstag-auf-die-ukraine](https://www.spiegel.de/ausland/russland-massive-russische-angriffe-am-weihnachtstag-auf-die-ukraine-a-4729ccc4-e882-4027-9379-aea1513604e6#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-mehr-als-600-000-menschen-von-hungersnot-betroffen](https://www.spiegel.de/ausland/sudan-mehr-als-600-000-menschen-von-hungersnot-betroffen-a-952e7082-2270-4356-9243-1675ce1076f5#ref=rss)
 ### welt
 
-* [https://www.spiegel.de/wissenschaft/erosion-wie-forscher-mit-stromstoessen-die-kuesten-der-welt-retten-wollen](https://www.spiegel.de/wissenschaft/erosion-wie-forscher-mit-stromstoessen-die-kuesten-der-welt-retten-wollen-a-0dd20469-08e4-4567-a943-0aa12760aba7#ref=rss)
-* [https://www.spiegel.de/panorama/santa-tracker-hier-koennen-sie-sehen-wo-der-weihnachtsmann-gerade-ist](https://www.spiegel.de/panorama/santa-tracker-hier-koennen-sie-sehen-wo-der-weihnachtsmann-gerade-ist-a-ccaf935d-da6b-4740-862f-28f5ca1b4faa#ref=rss)
-### henrichs
-
-* [https://www.spiegel.de/panorama/leute/nationalmannschaft-joshua-kimmich-ueberrascht-henrichs-mit-vorweihnachtlichem-geschenk](https://www.spiegel.de/panorama/leute/nationalmannschaft-joshua-kimmich-ueberrascht-henrichs-mit-vorweihnachtlichem-geschenk-a-61563931-87a4-4adb-8fdc-e2a78d489ae8#ref=rss)
-### wo
-
-* [https://www.spiegel.de/panorama/santa-tracker-hier-koennen-sie-sehen-wo-der-weihnachtsmann-gerade-ist](https://www.spiegel.de/panorama/santa-tracker-hier-koennen-sie-sehen-wo-der-weihnachtsmann-gerade-ist-a-ccaf935d-da6b-4740-862f-28f5ca1b4faa#ref=rss)
-* [https://www.spiegel.de/ausland/us-abgeordnete-kay-granger-haelt-offenbar-trotz-demenz-symptomen-an-ihrem-amt-fest](https://www.spiegel.de/ausland/us-abgeordnete-kay-granger-haelt-offenbar-trotz-demenz-symptomen-an-ihrem-amt-fest-a-75a62be1-2035-4038-a888-735f693db871#ref=rss)
-### weihnachtsmann
-
-* [https://www.spiegel.de/panorama/santa-tracker-hier-koennen-sie-sehen-wo-der-weihnachtsmann-gerade-ist](https://www.spiegel.de/panorama/santa-tracker-hier-koennen-sie-sehen-wo-der-weihnachtsmann-gerade-ist-a-ccaf935d-da6b-4740-862f-28f5ca1b4faa#ref=rss)
+* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-franz-wagner-und-co-so-schlagen-sich-die-deutschen-profis](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-franz-wagner-und-co-so-schlagen-sich-die-deutschen-profis-a-efe5229c-a339-4900-b9e3-5d65ccef4c4f#ref=rss)
+* [https://www.spiegel.de/panorama/jan-marsalek-auf-der-spur-eines-spions](https://www.spiegel.de/panorama/jan-marsalek-auf-der-spur-eines-spions-a-30aaf03a-5c2d-43c2-a6d8-51a0a9289680#ref=rss)
+* [https://www.spiegel.de/ausland/dinner-for-one-international-diese-tv-klassiker-laufen-in-anderen-laendern-an-den-feiertagen](https://www.spiegel.de/ausland/dinner-for-one-international-diese-tv-klassiker-laufen-in-anderen-laendern-an-den-feiertagen-a-6d105254-4115-4ffe-955f-ad6e1e48a882#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/synthetische-biologie-reines-marketing-oder-berechtigte-sorge-forschende-warnen-vor-spiegelleben](https://www.spiegel.de/wissenschaft/natur/synthetische-biologie-reines-marketing-oder-berechtigte-sorge-forschende-warnen-vor-spiegelleben-a-9610fee2-a67b-418f-8447-37dd300c45ce#ref=rss)
 ### viele
 
-* [https://www.spiegel.de/panorama/santa-tracker-hier-koennen-sie-sehen-wo-der-weihnachtsmann-gerade-ist](https://www.spiegel.de/panorama/santa-tracker-hier-koennen-sie-sehen-wo-der-weihnachtsmann-gerade-ist-a-ccaf935d-da6b-4740-862f-28f5ca1b4faa#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-christen-demonstrieren-nach-verbrennung-von-weihnachtsbaum](https://www.spiegel.de/ausland/syrien-christen-demonstrieren-nach-verbrennung-von-weihnachtsbaum-a-0844d1eb-7555-4a7f-b25b-418ccc896e50#ref=rss)
-### frage
+* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-franz-wagner-und-co-so-schlagen-sich-die-deutschen-profis](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-franz-wagner-und-co-so-schlagen-sich-die-deutschen-profis-a-efe5229c-a339-4900-b9e3-5d65ccef4c4f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/mittelstand-in-deutschland-145-000-unternehmen-suchen-nachfolger](https://www.spiegel.de/wirtschaft/mittelstand-in-deutschland-145-000-unternehmen-suchen-nachfolger-a-a329126d-9053-447c-8004-54457663606a#ref=rss)
+* [https://www.spiegel.de/auto/natenom-warum-der-unfalltod-des-radaktivisten-so-viele-beruehrte](https://www.spiegel.de/auto/natenom-warum-der-unfalltod-des-radaktivisten-so-viele-beruehrte-a-f5e95abb-4193-4123-972f-2565f790db1c#ref=rss)
+* [https://www.spiegel.de/ausland/iran-whatsapp-ist-jetzt-wieder-erlaubt](https://www.spiegel.de/ausland/iran-whatsapp-ist-jetzt-wieder-erlaubt-a-b7ed7bfe-ab54-4e87-8dd4-44360c7778d8#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/panorama/santa-tracker-hier-koennen-sie-sehen-wo-der-weihnachtsmann-gerade-ist](https://www.spiegel.de/panorama/santa-tracker-hier-koennen-sie-sehen-wo-der-weihnachtsmann-gerade-ist-a-ccaf935d-da6b-4740-862f-28f5ca1b4faa#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-christen-demonstrieren-nach-verbrennung-von-weihnachtsbaum](https://www.spiegel.de/ausland/syrien-christen-demonstrieren-nach-verbrennung-von-weihnachtsbaum-a-0844d1eb-7555-4a7f-b25b-418ccc896e50#ref=rss)
-### frank
+* [https://www.spiegel.de/panorama/wetter-zu-weihnachten-sonne-und-schnee-gibts-nur-im-sueden](https://www.spiegel.de/panorama/wetter-zu-weihnachten-sonne-und-schnee-gibts-nur-im-sueden-a-4f99db14-f852-4592-b81a-4ec243865065#ref=rss)
+* [https://www.spiegel.de/wirtschaft/mittelstand-in-deutschland-145-000-unternehmen-suchen-nachfolger](https://www.spiegel.de/wirtschaft/mittelstand-in-deutschland-145-000-unternehmen-suchen-nachfolger-a-a329126d-9053-447c-8004-54457663606a#ref=rss)
+* [https://www.spiegel.de/ausland/dinner-for-one-international-diese-tv-klassiker-laufen-in-anderen-laendern-an-den-feiertagen](https://www.spiegel.de/ausland/dinner-for-one-international-diese-tv-klassiker-laufen-in-anderen-laendern-an-den-feiertagen-a-6d105254-4115-4ffe-955f-ad6e1e48a882#ref=rss)
+### wir
 
-* [https://www.spiegel.de/kultur/frank-schoebe-saenger-ueber-weihnachten-in-der-ddr-und-seine-treffen-mit-angela-merkel](https://www.spiegel.de/kultur/frank-schoebe-saenger-ueber-weihnachten-in-der-ddr-und-seine-treffen-mit-angela-merkel-a-41996265-c716-4316-a030-03e0f4dccfa4#ref=rss)
-### sänger
+* [https://www.spiegel.de/start/kochen-ohne-kohle-guenstige-rezepte-die-sie-2024-besonders-interessiert-haben](https://www.spiegel.de/start/kochen-ohne-kohle-guenstige-rezepte-die-sie-2024-besonders-interessiert-haben-a-c64417c4-b41d-4b7c-97f9-72dc745c3ee7#ref=rss)
+* [https://www.spiegel.de/kultur/kunsthistoriker-ueber-digitale-fotos-wir-wollen-zu-jeder-tageszeit-fotogen-und-bildwuerdig-sein](https://www.spiegel.de/kultur/kunsthistoriker-ueber-digitale-fotos-wir-wollen-zu-jeder-tageszeit-fotogen-und-bildwuerdig-sein-a-dea4743a-d108-43b1-9d82-53615aebbd82#ref=rss)
+### fünf
 
-* [https://www.spiegel.de/kultur/frank-schoebe-saenger-ueber-weihnachten-in-der-ddr-und-seine-treffen-mit-angela-merkel](https://www.spiegel.de/kultur/frank-schoebe-saenger-ueber-weihnachten-in-der-ddr-und-seine-treffen-mit-angela-merkel-a-41996265-c716-4316-a030-03e0f4dccfa4#ref=rss)
-### ddr
+* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-franz-wagner-und-co-so-schlagen-sich-die-deutschen-profis](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-franz-wagner-und-co-so-schlagen-sich-die-deutschen-profis-a-efe5229c-a339-4900-b9e3-5d65ccef4c4f#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-mehr-als-600-000-menschen-von-hungersnot-betroffen](https://www.spiegel.de/ausland/sudan-mehr-als-600-000-menschen-von-hungersnot-betroffen-a-952e7082-2270-4356-9243-1675ce1076f5#ref=rss)
+* [https://www.spiegel.de/ausland/dinner-for-one-international-diese-tv-klassiker-laufen-in-anderen-laendern-an-den-feiertagen](https://www.spiegel.de/ausland/dinner-for-one-international-diese-tv-klassiker-laufen-in-anderen-laendern-an-den-feiertagen-a-6d105254-4115-4ffe-955f-ad6e1e48a882#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/kultur/frank-schoebe-saenger-ueber-weihnachten-in-der-ddr-und-seine-treffen-mit-angela-merkel](https://www.spiegel.de/kultur/frank-schoebe-saenger-ueber-weihnachten-in-der-ddr-und-seine-treffen-mit-angela-merkel-a-41996265-c716-4316-a030-03e0f4dccfa4#ref=rss)
-### treffen
+* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-franz-wagner-und-co-so-schlagen-sich-die-deutschen-profis](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-franz-wagner-und-co-so-schlagen-sich-die-deutschen-profis-a-efe5229c-a339-4900-b9e3-5d65ccef4c4f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/mittelstand-in-deutschland-145-000-unternehmen-suchen-nachfolger](https://www.spiegel.de/wirtschaft/mittelstand-in-deutschland-145-000-unternehmen-suchen-nachfolger-a-a329126d-9053-447c-8004-54457663606a#ref=rss)
+* [https://www.spiegel.de/fitness/skisport-tipps-vom-experten-so-vermeiden-sie-verletzungen-beim-skifahren](https://www.spiegel.de/fitness/skisport-tipps-vom-experten-so-vermeiden-sie-verletzungen-beim-skifahren-a-501a4498-964e-41be-95bf-e212d8630349#ref=rss)
+### verletzt
 
-* [https://www.spiegel.de/kultur/frank-schoebe-saenger-ueber-weihnachten-in-der-ddr-und-seine-treffen-mit-angela-merkel](https://www.spiegel.de/kultur/frank-schoebe-saenger-ueber-weihnachten-in-der-ddr-und-seine-treffen-mit-angela-merkel-a-41996265-c716-4316-a030-03e0f4dccfa4#ref=rss)
-### angela
+* [https://www.spiegel.de/panorama/muenchen-15-menschen-bei-brand-in-seniorenheim-verletzt](https://www.spiegel.de/panorama/muenchen-15-menschen-bei-brand-in-seniorenheim-verletzt-a-da376c96-1bfc-45d0-ad97-5db24735562a#ref=rss)
+* [https://www.spiegel.de/ausland/russland-massive-russische-angriffe-am-weihnachtstag-auf-die-ukraine](https://www.spiegel.de/ausland/russland-massive-russische-angriffe-am-weihnachtstag-auf-die-ukraine-a-4729ccc4-e882-4027-9379-aea1513604e6#ref=rss)
+### einige
 
-* [https://www.spiegel.de/kultur/frank-schoebe-saenger-ueber-weihnachten-in-der-ddr-und-seine-treffen-mit-angela-merkel](https://www.spiegel.de/kultur/frank-schoebe-saenger-ueber-weihnachten-in-der-ddr-und-seine-treffen-mit-angela-merkel-a-41996265-c716-4316-a030-03e0f4dccfa4#ref=rss)
-### merkel
+* [https://www.spiegel.de/netzwelt/gadgets/android-smartphone-neu-einrichten-zehn-tipps-fuer-anfaenger](https://www.spiegel.de/netzwelt/gadgets/android-smartphone-neu-einrichten-zehn-tipps-fuer-anfaenger-a-2b3bc1d2-28b6-4280-ba6a-ad6387e43f8e#ref=rss)
+* [https://www.spiegel.de/ausland/iran-whatsapp-ist-jetzt-wieder-erlaubt](https://www.spiegel.de/ausland/iran-whatsapp-ist-jetzt-wieder-erlaubt-a-b7ed7bfe-ab54-4e87-8dd4-44360c7778d8#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/synthetische-biologie-reines-marketing-oder-berechtigte-sorge-forschende-warnen-vor-spiegelleben](https://www.spiegel.de/wissenschaft/natur/synthetische-biologie-reines-marketing-oder-berechtigte-sorge-forschende-warnen-vor-spiegelleben-a-9610fee2-a67b-418f-8447-37dd300c45ce#ref=rss)
+### fotos
 
-* [https://www.spiegel.de/kultur/frank-schoebe-saenger-ueber-weihnachten-in-der-ddr-und-seine-treffen-mit-angela-merkel](https://www.spiegel.de/kultur/frank-schoebe-saenger-ueber-weihnachten-in-der-ddr-und-seine-treffen-mit-angela-merkel-a-41996265-c716-4316-a030-03e0f4dccfa4#ref=rss)
-### feiertage
+* [https://www.spiegel.de/netzwelt/gadgets/android-smartphone-neu-einrichten-zehn-tipps-fuer-anfaenger](https://www.spiegel.de/netzwelt/gadgets/android-smartphone-neu-einrichten-zehn-tipps-fuer-anfaenger-a-2b3bc1d2-28b6-4280-ba6a-ad6387e43f8e#ref=rss)
+* [https://www.spiegel.de/kultur/kunsthistoriker-ueber-digitale-fotos-wir-wollen-zu-jeder-tageszeit-fotogen-und-bildwuerdig-sein](https://www.spiegel.de/kultur/kunsthistoriker-ueber-digitale-fotos-wir-wollen-zu-jeder-tageszeit-fotogen-und-bildwuerdig-sein-a-dea4743a-d108-43b1-9d82-53615aebbd82#ref=rss)
+### schnee
 
-* [https://www.spiegel.de/kultur/frank-schoebe-saenger-ueber-weihnachten-in-der-ddr-und-seine-treffen-mit-angela-merkel](https://www.spiegel.de/kultur/frank-schoebe-saenger-ueber-weihnachten-in-der-ddr-und-seine-treffen-mit-angela-merkel-a-41996265-c716-4316-a030-03e0f4dccfa4#ref=rss)
-* [https://www.spiegel.de/netzwelt/games/videospiele-mit-diesen-zehn-handygames-machen-sie-sich-selbst-ein-schoenes-geschenk](https://www.spiegel.de/netzwelt/games/videospiele-mit-diesen-zehn-handygames-machen-sie-sich-selbst-ein-schoenes-geschenk-a-832dc2d8-e6ae-4425-aafa-d7e1b6c21669#ref=rss)
-### snowboarderin
+* [https://www.spiegel.de/panorama/wetter-zu-weihnachten-sonne-und-schnee-gibts-nur-im-sueden](https://www.spiegel.de/panorama/wetter-zu-weihnachten-sonne-und-schnee-gibts-nur-im-sueden-a-4f99db14-f852-4592-b81a-4ec243865065#ref=rss)
+### alpen
 
-* [https://www.spiegel.de/sport/wintersport/snowboarderin-sophia-hediger-stirbt-bei-lawinenunglueck](https://www.spiegel.de/sport/wintersport/snowboarderin-sophia-hediger-stirbt-bei-lawinenunglueck-a-2f69778f-0ecd-4857-9413-c3106761fad9#ref=rss)
-### hediger
+* [https://www.spiegel.de/panorama/wetter-zu-weihnachten-sonne-und-schnee-gibts-nur-im-sueden](https://www.spiegel.de/panorama/wetter-zu-weihnachten-sonne-und-schnee-gibts-nur-im-sueden-a-4f99db14-f852-4592-b81a-4ec243865065#ref=rss)
+* [https://www.spiegel.de/panorama/frankreich-rettungskraefte-befreien-240-skifahrer-in-den-alpen-aus-sessellift](https://www.spiegel.de/panorama/frankreich-rettungskraefte-befreien-240-skifahrer-in-den-alpen-aus-sessellift-a-e832b3b0-e861-485d-b163-8cd8e5f394b4#ref=rss)
+### hoch
 
-* [https://www.spiegel.de/sport/wintersport/snowboarderin-sophia-hediger-stirbt-bei-lawinenunglueck](https://www.spiegel.de/sport/wintersport/snowboarderin-sophia-hediger-stirbt-bei-lawinenunglueck-a-2f69778f-0ecd-4857-9413-c3106761fad9#ref=rss)
-### gewinnen
+* [https://www.spiegel.de/panorama/wetter-zu-weihnachten-sonne-und-schnee-gibts-nur-im-sueden](https://www.spiegel.de/panorama/wetter-zu-weihnachten-sonne-und-schnee-gibts-nur-im-sueden-a-4f99db14-f852-4592-b81a-4ec243865065#ref=rss)
+* [https://www.spiegel.de/panorama/frankreich-rettungskraefte-befreien-240-skifahrer-in-den-alpen-aus-sessellift](https://www.spiegel.de/panorama/frankreich-rettungskraefte-befreien-240-skifahrer-in-den-alpen-aus-sessellift-a-e832b3b0-e861-485d-b163-8cd8e5f394b4#ref=rss)
+### ohne
 
-* [https://www.spiegel.de/sport/wintersport/snowboarderin-sophia-hediger-stirbt-bei-lawinenunglueck](https://www.spiegel.de/sport/wintersport/snowboarderin-sophia-hediger-stirbt-bei-lawinenunglueck-a-2f69778f-0ecd-4857-9413-c3106761fad9#ref=rss)
-* [https://www.spiegel.de/sport/darts-wm-ricardo-pietrezczko-gewinnt-gegen-gian-van-veen-und-steht-als-einziger-deutscher-in-der-dritten-runde](https://www.spiegel.de/sport/darts-wm-ricardo-pietrezczko-gewinnt-gegen-gian-van-veen-und-steht-als-einziger-deutscher-in-der-dritten-runde-a-3db1b675-d90d-4c9b-aa24-c7edec55754b#ref=rss)
-### fußball
-
-* [https://www.spiegel.de/sport/fussball/fussball-benins-nationaltrainer-gernot-rohr-berichtet-von-angriff-nach-qualifikationsspiel-in-libyen](https://www.spiegel.de/sport/fussball/fussball-benins-nationaltrainer-gernot-rohr-berichtet-von-angriff-nach-qualifikationsspiel-in-libyen-a-5d65264b-9158-441c-afaf-c6898ad21477#ref=rss)
-### benins
-
-* [https://www.spiegel.de/sport/fussball/fussball-benins-nationaltrainer-gernot-rohr-berichtet-von-angriff-nach-qualifikationsspiel-in-libyen](https://www.spiegel.de/sport/fussball/fussball-benins-nationaltrainer-gernot-rohr-berichtet-von-angriff-nach-qualifikationsspiel-in-libyen-a-5d65264b-9158-441c-afaf-c6898ad21477#ref=rss)
-### nationaltrainer
-
-* [https://www.spiegel.de/sport/fussball/fussball-benins-nationaltrainer-gernot-rohr-berichtet-von-angriff-nach-qualifikationsspiel-in-libyen](https://www.spiegel.de/sport/fussball/fussball-benins-nationaltrainer-gernot-rohr-berichtet-von-angriff-nach-qualifikationsspiel-in-libyen-a-5d65264b-9158-441c-afaf-c6898ad21477#ref=rss)
-### gernot
-
-* [https://www.spiegel.de/sport/fussball/fussball-benins-nationaltrainer-gernot-rohr-berichtet-von-angriff-nach-qualifikationsspiel-in-libyen](https://www.spiegel.de/sport/fussball/fussball-benins-nationaltrainer-gernot-rohr-berichtet-von-angriff-nach-qualifikationsspiel-in-libyen-a-5d65264b-9158-441c-afaf-c6898ad21477#ref=rss)
-### rohr
-
-* [https://www.spiegel.de/sport/fussball/fussball-benins-nationaltrainer-gernot-rohr-berichtet-von-angriff-nach-qualifikationsspiel-in-libyen](https://www.spiegel.de/sport/fussball/fussball-benins-nationaltrainer-gernot-rohr-berichtet-von-angriff-nach-qualifikationsspiel-in-libyen-a-5d65264b-9158-441c-afaf-c6898ad21477#ref=rss)
-### berichtet
-
-* [https://www.spiegel.de/sport/fussball/fussball-benins-nationaltrainer-gernot-rohr-berichtet-von-angriff-nach-qualifikationsspiel-in-libyen](https://www.spiegel.de/sport/fussball/fussball-benins-nationaltrainer-gernot-rohr-berichtet-von-angriff-nach-qualifikationsspiel-in-libyen-a-5d65264b-9158-441c-afaf-c6898ad21477#ref=rss)
-### libyen
-
-* [https://www.spiegel.de/sport/fussball/fussball-benins-nationaltrainer-gernot-rohr-berichtet-von-angriff-nach-qualifikationsspiel-in-libyen](https://www.spiegel.de/sport/fussball/fussball-benins-nationaltrainer-gernot-rohr-berichtet-von-angriff-nach-qualifikationsspiel-in-libyen-a-5d65264b-9158-441c-afaf-c6898ad21477#ref=rss)
-### vier
-
-* [https://www.spiegel.de/panorama/justiz/mehr-als-vier-tonnen-zoll-stoppt-tonnenweise-illegale-pyrotechnik-aus-polen](https://www.spiegel.de/panorama/justiz/mehr-als-vier-tonnen-zoll-stoppt-tonnenweise-illegale-pyrotechnik-aus-polen-a-ed2426c5-144c-4e0f-83ba-a463161bf82f#ref=rss)
-### tonnen
-
-* [https://www.spiegel.de/panorama/justiz/mehr-als-vier-tonnen-zoll-stoppt-tonnenweise-illegale-pyrotechnik-aus-polen](https://www.spiegel.de/panorama/justiz/mehr-als-vier-tonnen-zoll-stoppt-tonnenweise-illegale-pyrotechnik-aus-polen-a-ed2426c5-144c-4e0f-83ba-a463161bf82f#ref=rss)
-### zoll
-
-* [https://www.spiegel.de/panorama/justiz/mehr-als-vier-tonnen-zoll-stoppt-tonnenweise-illegale-pyrotechnik-aus-polen](https://www.spiegel.de/panorama/justiz/mehr-als-vier-tonnen-zoll-stoppt-tonnenweise-illegale-pyrotechnik-aus-polen-a-ed2426c5-144c-4e0f-83ba-a463161bf82f#ref=rss)
-### polen
-
-* [https://www.spiegel.de/panorama/justiz/mehr-als-vier-tonnen-zoll-stoppt-tonnenweise-illegale-pyrotechnik-aus-polen](https://www.spiegel.de/panorama/justiz/mehr-als-vier-tonnen-zoll-stoppt-tonnenweise-illegale-pyrotechnik-aus-polen-a-ed2426c5-144c-4e0f-83ba-a463161bf82f#ref=rss)
-### sbahn
-
-* [https://www.spiegel.de/panorama/baden-wuerttemberg-rund-hundert-reisende-werden-aus-s-bahn-evakuiert](https://www.spiegel.de/panorama/baden-wuerttemberg-rund-hundert-reisende-werden-aus-s-bahn-evakuiert-a-098b2c7e-6c4a-452f-adde-a5faee109261#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/ausland/syrien-regierung-gibt-aufloesung-von-bewaffneten-gruppen-bekannt](https://www.spiegel.de/ausland/syrien-regierung-gibt-aufloesung-von-bewaffneten-gruppen-bekannt-a-1a8224e0-1bc5-42f5-8a77-71a3574357c1#ref=rss)
-### sturz
-
-* [https://www.spiegel.de/ausland/syrien-regierung-gibt-aufloesung-von-bewaffneten-gruppen-bekannt](https://www.spiegel.de/ausland/syrien-regierung-gibt-aufloesung-von-bewaffneten-gruppen-bekannt-a-1a8224e0-1bc5-42f5-8a77-71a3574357c1#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-christen-demonstrieren-nach-verbrennung-von-weihnachtsbaum](https://www.spiegel.de/ausland/syrien-christen-demonstrieren-nach-verbrennung-von-weihnachtsbaum-a-0844d1eb-7555-4a7f-b25b-418ccc896e50#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/ausland/syrien-regierung-gibt-aufloesung-von-bewaffneten-gruppen-bekannt](https://www.spiegel.de/ausland/syrien-regierung-gibt-aufloesung-von-bewaffneten-gruppen-bekannt-a-1a8224e0-1bc5-42f5-8a77-71a3574357c1#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-christen-demonstrieren-nach-verbrennung-von-weihnachtsbaum](https://www.spiegel.de/ausland/syrien-christen-demonstrieren-nach-verbrennung-von-weihnachtsbaum-a-0844d1eb-7555-4a7f-b25b-418ccc896e50#ref=rss)
-### unter
-
-* [https://www.spiegel.de/ausland/syrien-regierung-gibt-aufloesung-von-bewaffneten-gruppen-bekannt](https://www.spiegel.de/ausland/syrien-regierung-gibt-aufloesung-von-bewaffneten-gruppen-bekannt-a-1a8224e0-1bc5-42f5-8a77-71a3574357c1#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-christen-demonstrieren-nach-verbrennung-von-weihnachtsbaum](https://www.spiegel.de/ausland/syrien-christen-demonstrieren-nach-verbrennung-von-weihnachtsbaum-a-0844d1eb-7555-4a7f-b25b-418ccc896e50#ref=rss)
-### amsterdam
-
-* [https://www.spiegel.de/panorama/gericht-in-amsterdam-verurteilt-fuenf-maenner-wegen-gewalt-gegen-israelische-fussballfans](https://www.spiegel.de/panorama/gericht-in-amsterdam-verurteilt-fuenf-maenner-wegen-gewalt-gegen-israelische-fussballfans-a-b1e7ff1b-5a17-4494-b30c-5a451ac4f882#ref=rss)
-### männer
-
-* [https://www.spiegel.de/panorama/gericht-in-amsterdam-verurteilt-fuenf-maenner-wegen-gewalt-gegen-israelische-fussballfans](https://www.spiegel.de/panorama/gericht-in-amsterdam-verurteilt-fuenf-maenner-wegen-gewalt-gegen-israelische-fussballfans-a-b1e7ff1b-5a17-4494-b30c-5a451ac4f882#ref=rss)
-### kay
-
-* [https://www.spiegel.de/ausland/us-abgeordnete-kay-granger-haelt-offenbar-trotz-demenz-symptomen-an-ihrem-amt-fest](https://www.spiegel.de/ausland/us-abgeordnete-kay-granger-haelt-offenbar-trotz-demenz-symptomen-an-ihrem-amt-fest-a-75a62be1-2035-4038-a888-735f693db871#ref=rss)
-### granger
-
-* [https://www.spiegel.de/ausland/us-abgeordnete-kay-granger-haelt-offenbar-trotz-demenz-symptomen-an-ihrem-amt-fest](https://www.spiegel.de/ausland/us-abgeordnete-kay-granger-haelt-offenbar-trotz-demenz-symptomen-an-ihrem-amt-fest-a-75a62be1-2035-4038-a888-735f693db871#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/ausland/us-abgeordnete-kay-granger-haelt-offenbar-trotz-demenz-symptomen-an-ihrem-amt-fest](https://www.spiegel.de/ausland/us-abgeordnete-kay-granger-haelt-offenbar-trotz-demenz-symptomen-an-ihrem-amt-fest-a-75a62be1-2035-4038-a888-735f693db871#ref=rss)
-### bin
-
-* [https://www.spiegel.de/familie/weihnachten-in-einkommensarmer-familie-heute-bin-ich-nicht-mehr-so-kindlich-naiv](https://www.spiegel.de/familie/weihnachten-in-einkommensarmer-familie-heute-bin-ich-nicht-mehr-so-kindlich-naiv-a-a4833ca1-1b45-4c07-a286-2766c7fa7a01#ref=rss)
-* [https://www.spiegel.de/familie/geburtstag-an-heiligabend-ach-sie-sind-ein-christkind](https://www.spiegel.de/familie/geburtstag-an-heiligabend-ach-sie-sind-ein-christkind-a-d87fe38d-7c87-4a04-9915-395081bcab4f#ref=rss)
-### meiner
-
-* [https://www.spiegel.de/familie/weihnachten-in-einkommensarmer-familie-heute-bin-ich-nicht-mehr-so-kindlich-naiv](https://www.spiegel.de/familie/weihnachten-in-einkommensarmer-familie-heute-bin-ich-nicht-mehr-so-kindlich-naiv-a-a4833ca1-1b45-4c07-a286-2766c7fa7a01#ref=rss)
-### sorgen
-
-* [https://www.spiegel.de/familie/weihnachten-in-einkommensarmer-familie-heute-bin-ich-nicht-mehr-so-kindlich-naiv](https://www.spiegel.de/familie/weihnachten-in-einkommensarmer-familie-heute-bin-ich-nicht-mehr-so-kindlich-naiv-a-a4833ca1-1b45-4c07-a286-2766c7fa7a01#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-christen-demonstrieren-nach-verbrennung-von-weihnachtsbaum](https://www.spiegel.de/ausland/syrien-christen-demonstrieren-nach-verbrennung-von-weihnachtsbaum-a-0844d1eb-7555-4a7f-b25b-418ccc896e50#ref=rss)
-### schweiz
-
-* [https://www.spiegel.de/panorama/justiz/schweiz-zwei-crew-mitglieder-der-swiss-nach-rauch-in-der-kabine-in-klinik](https://www.spiegel.de/panorama/justiz/schweiz-zwei-crew-mitglieder-der-swiss-nach-rauch-in-der-kabine-in-klinik-a-304c7a69-3ba0-4f3f-9572-f9f86bed14a3#ref=rss)
-* [https://www.spiegel.de/panorama/peterskapelle-in-luzern-in-der-schweiz-ki-jesus-nimmt-beichten-ab-und-polarisiert](https://www.spiegel.de/panorama/peterskapelle-in-luzern-in-der-schweiz-ki-jesus-nimmt-beichten-ab-und-polarisiert-a-23c314ea-49b0-4cde-9c2e-58cda5423eab#ref=rss)
-### klinik
-
-* [https://www.spiegel.de/panorama/justiz/schweiz-zwei-crew-mitglieder-der-swiss-nach-rauch-in-der-kabine-in-klinik](https://www.spiegel.de/panorama/justiz/schweiz-zwei-crew-mitglieder-der-swiss-nach-rauch-in-der-kabine-in-klinik-a-304c7a69-3ba0-4f3f-9572-f9f86bed14a3#ref=rss)
-### mitarbeitende
-
-* [https://www.spiegel.de/panorama/justiz/schweiz-zwei-crew-mitglieder-der-swiss-nach-rauch-in-der-kabine-in-klinik](https://www.spiegel.de/panorama/justiz/schweiz-zwei-crew-mitglieder-der-swiss-nach-rauch-in-der-kabine-in-klinik-a-304c7a69-3ba0-4f3f-9572-f9f86bed14a3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/lilium-investorengruppe-uebernimmt-flugtaxi-entwickler](https://www.spiegel.de/wirtschaft/lilium-investorengruppe-uebernimmt-flugtaxi-entwickler-a-7fce0a07-720d-44f4-aa35-c5d16bdf5e15#ref=rss)
-### harte
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/social-media-kontrollen-grossbritannien-plant-harte-massnahmen-gegen-plattformen-ohne-jugendschutz](https://www.spiegel.de/netzwelt/netzpolitik/social-media-kontrollen-grossbritannien-plant-harte-massnahmen-gegen-plattformen-ohne-jugendschutz-a-65d58dc4-d43b-4d16-80ea-3ba130de5ec1#ref=rss)
-### maßnahmen
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/social-media-kontrollen-grossbritannien-plant-harte-massnahmen-gegen-plattformen-ohne-jugendschutz](https://www.spiegel.de/netzwelt/netzpolitik/social-media-kontrollen-grossbritannien-plant-harte-massnahmen-gegen-plattformen-ohne-jugendschutz-a-65d58dc4-d43b-4d16-80ea-3ba130de5ec1#ref=rss)
-### ricardo
-
-* [https://www.spiegel.de/sport/darts-wm-ricardo-pietrezczko-gewinnt-gegen-gian-van-veen-und-steht-als-einziger-deutscher-in-der-dritten-runde](https://www.spiegel.de/sport/darts-wm-ricardo-pietrezczko-gewinnt-gegen-gian-van-veen-und-steht-als-einziger-deutscher-in-der-dritten-runde-a-3db1b675-d90d-4c9b-aa24-c7edec55754b#ref=rss)
-### einziger
-
-* [https://www.spiegel.de/sport/darts-wm-ricardo-pietrezczko-gewinnt-gegen-gian-van-veen-und-steht-als-einziger-deutscher-in-der-dritten-runde](https://www.spiegel.de/sport/darts-wm-ricardo-pietrezczko-gewinnt-gegen-gian-van-veen-und-steht-als-einziger-deutscher-in-der-dritten-runde-a-3db1b675-d90d-4c9b-aa24-c7edec55754b#ref=rss)
-### deutscher
-
-* [https://www.spiegel.de/sport/darts-wm-ricardo-pietrezczko-gewinnt-gegen-gian-van-veen-und-steht-als-einziger-deutscher-in-der-dritten-runde](https://www.spiegel.de/sport/darts-wm-ricardo-pietrezczko-gewinnt-gegen-gian-van-veen-und-steht-als-einziger-deutscher-in-der-dritten-runde-a-3db1b675-d90d-4c9b-aa24-c7edec55754b#ref=rss)
-### zehn
-
-* [https://www.spiegel.de/netzwelt/games/videospiele-mit-diesen-zehn-handygames-machen-sie-sich-selbst-ein-schoenes-geschenk](https://www.spiegel.de/netzwelt/games/videospiele-mit-diesen-zehn-handygames-machen-sie-sich-selbst-ein-schoenes-geschenk-a-832dc2d8-e6ae-4425-aafa-d7e1b6c21669#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/netzwelt/games/videospiele-mit-diesen-zehn-handygames-machen-sie-sich-selbst-ein-schoenes-geschenk](https://www.spiegel.de/netzwelt/games/videospiele-mit-diesen-zehn-handygames-machen-sie-sich-selbst-ein-schoenes-geschenk-a-832dc2d8-e6ae-4425-aafa-d7e1b6c21669#ref=rss)
-* [https://www.spiegel.de/panorama/peterskapelle-in-luzern-in-der-schweiz-ki-jesus-nimmt-beichten-ab-und-polarisiert](https://www.spiegel.de/panorama/peterskapelle-in-luzern-in-der-schweiz-ki-jesus-nimmt-beichten-ab-und-polarisiert-a-23c314ea-49b0-4cde-9c2e-58cda5423eab#ref=rss)
+* [https://www.spiegel.de/start/kochen-ohne-kohle-guenstige-rezepte-die-sie-2024-besonders-interessiert-haben](https://www.spiegel.de/start/kochen-ohne-kohle-guenstige-rezepte-die-sie-2024-besonders-interessiert-haben-a-c64417c4-b41d-4b7c-97f9-72dc745c3ee7#ref=rss)
+* [https://www.spiegel.de/start/domschweizer-in-koeln-ich-kann-mir-ein-leben-ohne-den-dom-nicht-vorstellen](https://www.spiegel.de/start/domschweizer-in-koeln-ich-kann-mir-ein-leben-ohne-den-dom-nicht-vorstellen-a-eb108754-c24e-49fe-8f0f-3be8054e7a08#ref=rss)
 ### besonders
 
-* [https://www.spiegel.de/netzwelt/games/videospiele-mit-diesen-zehn-handygames-machen-sie-sich-selbst-ein-schoenes-geschenk](https://www.spiegel.de/netzwelt/games/videospiele-mit-diesen-zehn-handygames-machen-sie-sich-selbst-ein-schoenes-geschenk-a-832dc2d8-e6ae-4425-aafa-d7e1b6c21669#ref=rss)
-### christen
+* [https://www.spiegel.de/start/kochen-ohne-kohle-guenstige-rezepte-die-sie-2024-besonders-interessiert-haben](https://www.spiegel.de/start/kochen-ohne-kohle-guenstige-rezepte-die-sie-2024-besonders-interessiert-haben-a-c64417c4-b41d-4b7c-97f9-72dc745c3ee7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/mittelstand-in-deutschland-145-000-unternehmen-suchen-nachfolger](https://www.spiegel.de/wirtschaft/mittelstand-in-deutschland-145-000-unternehmen-suchen-nachfolger-a-a329126d-9053-447c-8004-54457663606a#ref=rss)
+### unser
 
-* [https://www.spiegel.de/ausland/syrien-christen-demonstrieren-nach-verbrennung-von-weihnachtsbaum](https://www.spiegel.de/ausland/syrien-christen-demonstrieren-nach-verbrennung-von-weihnachtsbaum-a-0844d1eb-7555-4a7f-b25b-418ccc896e50#ref=rss)
-### stellen
+* [https://www.spiegel.de/start/kochen-ohne-kohle-guenstige-rezepte-die-sie-2024-besonders-interessiert-haben](https://www.spiegel.de/start/kochen-ohne-kohle-guenstige-rezepte-die-sie-2024-besonders-interessiert-haben-a-c64417c4-b41d-4b7c-97f9-72dc745c3ee7#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/android-smartphone-neu-einrichten-zehn-tipps-fuer-anfaenger](https://www.spiegel.de/netzwelt/gadgets/android-smartphone-neu-einrichten-zehn-tipps-fuer-anfaenger-a-2b3bc1d2-28b6-4280-ba6a-ad6387e43f8e#ref=rss)
+### dennis
 
-* [https://www.spiegel.de/ausland/syrien-christen-demonstrieren-nach-verbrennung-von-weihnachtsbaum](https://www.spiegel.de/ausland/syrien-christen-demonstrieren-nach-verbrennung-von-weihnachtsbaum-a-0844d1eb-7555-4a7f-b25b-418ccc896e50#ref=rss)
-* [https://www.spiegel.de/ausland/us-bundesgerichte-biden-legt-veto-gegen-dutzende-neue-stellen-fuer-richter-ein](https://www.spiegel.de/ausland/us-bundesgerichte-biden-legt-veto-gegen-dutzende-neue-stellen-fuer-richter-ein-a-77a2ac35-a706-4f89-8992-b9f45cac3d04#ref=rss)
-### lilium
+* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-franz-wagner-und-co-so-schlagen-sich-die-deutschen-profis](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-franz-wagner-und-co-so-schlagen-sich-die-deutschen-profis-a-efe5229c-a339-4900-b9e3-5d65ccef4c4f#ref=rss)
+### schröder
 
-* [https://www.spiegel.de/wirtschaft/lilium-investorengruppe-uebernimmt-flugtaxi-entwickler](https://www.spiegel.de/wirtschaft/lilium-investorengruppe-uebernimmt-flugtaxi-entwickler-a-7fce0a07-720d-44f4-aa35-c5d16bdf5e15#ref=rss)
-### investorengruppe
+* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-franz-wagner-und-co-so-schlagen-sich-die-deutschen-profis](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-franz-wagner-und-co-so-schlagen-sich-die-deutschen-profis-a-efe5229c-a339-4900-b9e3-5d65ccef4c4f#ref=rss)
+### co
 
-* [https://www.spiegel.de/wirtschaft/lilium-investorengruppe-uebernimmt-flugtaxi-entwickler](https://www.spiegel.de/wirtschaft/lilium-investorengruppe-uebernimmt-flugtaxi-entwickler-a-7fce0a07-720d-44f4-aa35-c5d16bdf5e15#ref=rss)
-### behörden
+* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-franz-wagner-und-co-so-schlagen-sich-die-deutschen-profis](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-franz-wagner-und-co-so-schlagen-sich-die-deutschen-profis-a-efe5229c-a339-4900-b9e3-5d65ccef4c4f#ref=rss)
+* [https://www.spiegel.de/ausland/iran-whatsapp-ist-jetzt-wieder-erlaubt](https://www.spiegel.de/ausland/iran-whatsapp-ist-jetzt-wieder-erlaubt-a-b7ed7bfe-ab54-4e87-8dd4-44360c7778d8#ref=rss)
+### fast
 
-* [https://www.spiegel.de/panorama/justiz/todesfahrer-von-magdeburg-haetten-die-behoerden-die-bluttat-verhindern-koennen](https://www.spiegel.de/panorama/justiz/todesfahrer-von-magdeburg-haetten-die-behoerden-die-bluttat-verhindern-koennen-a-8c8e4d31-46fa-4b64-852b-620613cf4584#ref=rss)
-### gene
+* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-franz-wagner-und-co-so-schlagen-sich-die-deutschen-profis](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-franz-wagner-und-co-so-schlagen-sich-die-deutschen-profis-a-efe5229c-a339-4900-b9e3-5d65ccef4c4f#ref=rss)
+* [https://www.spiegel.de/ausland/russland-massive-russische-angriffe-am-weihnachtstag-auf-die-ukraine](https://www.spiegel.de/ausland/russland-massive-russische-angriffe-am-weihnachtstag-auf-die-ukraine-a-4729ccc4-e882-4027-9379-aea1513604e6#ref=rss)
+### alle
 
-* [https://www.spiegel.de/ausland/gene-spector-russisches-gericht-verurteilt-us-buerger-zu-15-jahren-haft](https://www.spiegel.de/ausland/gene-spector-russisches-gericht-verurteilt-us-buerger-zu-15-jahren-haft-a-fb726272-0434-437c-b860-3ade5d50b17d#ref=rss)
-### spector
+* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-franz-wagner-und-co-so-schlagen-sich-die-deutschen-profis](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-franz-wagner-und-co-so-schlagen-sich-die-deutschen-profis-a-efe5229c-a339-4900-b9e3-5d65ccef4c4f#ref=rss)
+* [https://www.spiegel.de/ausland/weihnachten-im-vatikan-papst-franziskus-eroeffnet-heiliges-jahr](https://www.spiegel.de/ausland/weihnachten-im-vatikan-papst-franziskus-eroeffnet-heiliges-jahr-a-6a9c2983-39a8-41ef-bd02-2a5d35283801#ref=rss)
+### 15
 
-* [https://www.spiegel.de/ausland/gene-spector-russisches-gericht-verurteilt-us-buerger-zu-15-jahren-haft](https://www.spiegel.de/ausland/gene-spector-russisches-gericht-verurteilt-us-buerger-zu-15-jahren-haft-a-fb726272-0434-437c-b860-3ade5d50b17d#ref=rss)
-### usbürger
+* [https://www.spiegel.de/panorama/muenchen-15-menschen-bei-brand-in-seniorenheim-verletzt](https://www.spiegel.de/panorama/muenchen-15-menschen-bei-brand-in-seniorenheim-verletzt-a-da376c96-1bfc-45d0-ad97-5db24735562a#ref=rss)
+### seniorenheim
 
-* [https://www.spiegel.de/ausland/gene-spector-russisches-gericht-verurteilt-us-buerger-zu-15-jahren-haft](https://www.spiegel.de/ausland/gene-spector-russisches-gericht-verurteilt-us-buerger-zu-15-jahren-haft-a-fb726272-0434-437c-b860-3ade5d50b17d#ref=rss)
-### geburtstag
+* [https://www.spiegel.de/panorama/muenchen-15-menschen-bei-brand-in-seniorenheim-verletzt](https://www.spiegel.de/panorama/muenchen-15-menschen-bei-brand-in-seniorenheim-verletzt-a-da376c96-1bfc-45d0-ad97-5db24735562a#ref=rss)
+### feuer
 
-* [https://www.spiegel.de/familie/geburtstag-an-heiligabend-ach-sie-sind-ein-christkind](https://www.spiegel.de/familie/geburtstag-an-heiligabend-ach-sie-sind-ein-christkind-a-d87fe38d-7c87-4a04-9915-395081bcab4f#ref=rss)
-### crocodile
+* [https://www.spiegel.de/panorama/muenchen-15-menschen-bei-brand-in-seniorenheim-verletzt](https://www.spiegel.de/panorama/muenchen-15-menschen-bei-brand-in-seniorenheim-verletzt-a-da376c96-1bfc-45d0-ad97-5db24735562a#ref=rss)
+* [https://www.spiegel.de/ausland/haiti-mindestens-drei-menschen-sterben-durch-schuesse-in-krankenhaus](https://www.spiegel.de/ausland/haiti-mindestens-drei-menschen-sterben-durch-schuesse-in-krankenhaus-a-7da1dae8-426b-4f92-bf67-5f76c85b8999#ref=rss)
+### heiligabend
 
-* [https://www.spiegel.de/panorama/krokodil-aus-kultfilm-crocodile-dundee-gestorben](https://www.spiegel.de/panorama/krokodil-aus-kultfilm-crocodile-dundee-gestorben-a-07b97d3e-c8b6-4222-97b8-3ed68399d2ab#ref=rss)
-### lang
+* [https://www.spiegel.de/panorama/muenchen-15-menschen-bei-brand-in-seniorenheim-verletzt](https://www.spiegel.de/panorama/muenchen-15-menschen-bei-brand-in-seniorenheim-verletzt-a-da376c96-1bfc-45d0-ad97-5db24735562a#ref=rss)
+* [https://www.spiegel.de/ausland/russland-massive-russische-angriffe-am-weihnachtstag-auf-die-ukraine](https://www.spiegel.de/ausland/russland-massive-russische-angriffe-am-weihnachtstag-auf-die-ukraine-a-4729ccc4-e882-4027-9379-aea1513604e6#ref=rss)
+### waren
 
-* [https://www.spiegel.de/panorama/krokodil-aus-kultfilm-crocodile-dundee-gestorben](https://www.spiegel.de/panorama/krokodil-aus-kultfilm-crocodile-dundee-gestorben-a-07b97d3e-c8b6-4222-97b8-3ed68399d2ab#ref=rss)
-* [https://www.spiegel.de/panorama/peterskapelle-in-luzern-in-der-schweiz-ki-jesus-nimmt-beichten-ab-und-polarisiert](https://www.spiegel.de/panorama/peterskapelle-in-luzern-in-der-schweiz-ki-jesus-nimmt-beichten-ab-und-polarisiert-a-23c314ea-49b0-4cde-9c2e-58cda5423eab#ref=rss)
-### paul
+* [https://www.spiegel.de/panorama/muenchen-15-menschen-bei-brand-in-seniorenheim-verletzt](https://www.spiegel.de/panorama/muenchen-15-menschen-bei-brand-in-seniorenheim-verletzt-a-da376c96-1bfc-45d0-ad97-5db24735562a#ref=rss)
+* [https://www.spiegel.de/panorama/frankreich-rettungskraefte-befreien-240-skifahrer-in-den-alpen-aus-sessellift](https://www.spiegel.de/panorama/frankreich-rettungskraefte-befreien-240-skifahrer-in-den-alpen-aus-sessellift-a-e832b3b0-e861-485d-b163-8cd8e5f394b4#ref=rss)
+### einsatz
 
-* [https://www.spiegel.de/panorama/krokodil-aus-kultfilm-crocodile-dundee-gestorben](https://www.spiegel.de/panorama/krokodil-aus-kultfilm-crocodile-dundee-gestorben-a-07b97d3e-c8b6-4222-97b8-3ed68399d2ab#ref=rss)
-* [https://www.spiegel.de/kultur/nahostkonflikt-in-der-mode-qaher-harhash-ueber-seine-erfahrungen-als-palaestinensisches-model](https://www.spiegel.de/kultur/nahostkonflikt-in-der-mode-qaher-harhash-ueber-seine-erfahrungen-als-palaestinensisches-model-a-6becdaa5-590b-4743-bfc9-0e83fc802be3#ref=rss)
-### biden
+* [https://www.spiegel.de/panorama/muenchen-15-menschen-bei-brand-in-seniorenheim-verletzt](https://www.spiegel.de/panorama/muenchen-15-menschen-bei-brand-in-seniorenheim-verletzt-a-da376c96-1bfc-45d0-ad97-5db24735562a#ref=rss)
+* [https://www.spiegel.de/ausland/aserbaidschan-passagierflugzeug-in-kasachstan-abgestuerzt-hinweise-auf-ueberlebende](https://www.spiegel.de/ausland/aserbaidschan-passagierflugzeug-in-kasachstan-abgestuerzt-hinweise-auf-ueberlebende-a-4ae1a6c9-b782-44d3-952d-945bc12e2054#ref=rss)
+### anschlag
 
-* [https://www.spiegel.de/ausland/us-bundesgerichte-biden-legt-veto-gegen-dutzende-neue-stellen-fuer-richter-ein](https://www.spiegel.de/ausland/us-bundesgerichte-biden-legt-veto-gegen-dutzende-neue-stellen-fuer-richter-ein-a-77a2ac35-a706-4f89-8992-b9f45cac3d04#ref=rss)
-### qaher
+* [https://www.spiegel.de/politik/deutschland/nach-dem-anschlag-in-magdeburg-warum-von-friedrich-merz-so-wenig-zu-hoeren-ist](https://www.spiegel.de/politik/deutschland/nach-dem-anschlag-in-magdeburg-warum-von-friedrich-merz-so-wenig-zu-hoeren-ist-a-25baaf73-332f-4c6f-84e5-75aa5c52bf20#ref=rss)
+### magdeburg
 
-* [https://www.spiegel.de/kultur/nahostkonflikt-in-der-mode-qaher-harhash-ueber-seine-erfahrungen-als-palaestinensisches-model](https://www.spiegel.de/kultur/nahostkonflikt-in-der-mode-qaher-harhash-ueber-seine-erfahrungen-als-palaestinensisches-model-a-6becdaa5-590b-4743-bfc9-0e83fc802be3#ref=rss)
-### harhash
+* [https://www.spiegel.de/politik/deutschland/nach-dem-anschlag-in-magdeburg-warum-von-friedrich-merz-so-wenig-zu-hoeren-ist](https://www.spiegel.de/politik/deutschland/nach-dem-anschlag-in-magdeburg-warum-von-friedrich-merz-so-wenig-zu-hoeren-ist-a-25baaf73-332f-4c6f-84e5-75aa5c52bf20#ref=rss)
+### merz
 
-* [https://www.spiegel.de/kultur/nahostkonflikt-in-der-mode-qaher-harhash-ueber-seine-erfahrungen-als-palaestinensisches-model](https://www.spiegel.de/kultur/nahostkonflikt-in-der-mode-qaher-harhash-ueber-seine-erfahrungen-als-palaestinensisches-model-a-6becdaa5-590b-4743-bfc9-0e83fc802be3#ref=rss)
-### model
+* [https://www.spiegel.de/politik/deutschland/nach-dem-anschlag-in-magdeburg-warum-von-friedrich-merz-so-wenig-zu-hoeren-ist](https://www.spiegel.de/politik/deutschland/nach-dem-anschlag-in-magdeburg-warum-von-friedrich-merz-so-wenig-zu-hoeren-ist-a-25baaf73-332f-4c6f-84e5-75aa5c52bf20#ref=rss)
+### drei
 
-* [https://www.spiegel.de/kultur/nahostkonflikt-in-der-mode-qaher-harhash-ueber-seine-erfahrungen-als-palaestinensisches-model](https://www.spiegel.de/kultur/nahostkonflikt-in-der-mode-qaher-harhash-ueber-seine-erfahrungen-als-palaestinensisches-model-a-6becdaa5-590b-4743-bfc9-0e83fc802be3#ref=rss)
-### peterskapelle
+* [https://www.spiegel.de/ausland/haiti-mindestens-drei-menschen-sterben-durch-schuesse-in-krankenhaus](https://www.spiegel.de/ausland/haiti-mindestens-drei-menschen-sterben-durch-schuesse-in-krankenhaus-a-7da1dae8-426b-4f92-bf67-5f76c85b8999#ref=rss)
+* [https://www.spiegel.de/panorama/peru-grinch-klaut-dealern-kurz-vor-weihnachten-ihr-kokain](https://www.spiegel.de/panorama/peru-grinch-klaut-dealern-kurz-vor-weihnachten-ihr-kokain-a-ec9a25f1-76f3-4bf2-a943-90a1d7590069#ref=rss)
+### krankenhaus
 
-* [https://www.spiegel.de/panorama/peterskapelle-in-luzern-in-der-schweiz-ki-jesus-nimmt-beichten-ab-und-polarisiert](https://www.spiegel.de/panorama/peterskapelle-in-luzern-in-der-schweiz-ki-jesus-nimmt-beichten-ab-und-polarisiert-a-23c314ea-49b0-4cde-9c2e-58cda5423eab#ref=rss)
-### luzern
+* [https://www.spiegel.de/ausland/haiti-mindestens-drei-menschen-sterben-durch-schuesse-in-krankenhaus](https://www.spiegel.de/ausland/haiti-mindestens-drei-menschen-sterben-durch-schuesse-in-krankenhaus-a-7da1dae8-426b-4f92-bf67-5f76c85b8999#ref=rss)
+* [https://www.spiegel.de/fitness/skisport-tipps-vom-experten-so-vermeiden-sie-verletzungen-beim-skifahren](https://www.spiegel.de/fitness/skisport-tipps-vom-experten-so-vermeiden-sie-verletzungen-beim-skifahren-a-501a4498-964e-41be-95bf-e212d8630349#ref=rss)
+### männer
 
-* [https://www.spiegel.de/panorama/peterskapelle-in-luzern-in-der-schweiz-ki-jesus-nimmt-beichten-ab-und-polarisiert](https://www.spiegel.de/panorama/peterskapelle-in-luzern-in-der-schweiz-ki-jesus-nimmt-beichten-ab-und-polarisiert-a-23c314ea-49b0-4cde-9c2e-58cda5423eab#ref=rss)
+* [https://www.spiegel.de/ausland/haiti-mindestens-drei-menschen-sterben-durch-schuesse-in-krankenhaus](https://www.spiegel.de/ausland/haiti-mindestens-drei-menschen-sterben-durch-schuesse-in-krankenhaus-a-7da1dae8-426b-4f92-bf67-5f76c85b8999#ref=rss)
+* [https://www.spiegel.de/panorama/jan-marsalek-auf-der-spur-eines-spions](https://www.spiegel.de/panorama/jan-marsalek-auf-der-spur-eines-spions-a-30aaf03a-5c2d-43c2-a6d8-51a0a9289680#ref=rss)
+### eröffnet
+
+* [https://www.spiegel.de/ausland/haiti-mindestens-drei-menschen-sterben-durch-schuesse-in-krankenhaus](https://www.spiegel.de/ausland/haiti-mindestens-drei-menschen-sterben-durch-schuesse-in-krankenhaus-a-7da1dae8-426b-4f92-bf67-5f76c85b8999#ref=rss)
+* [https://www.spiegel.de/ausland/weihnachten-im-vatikan-papst-franziskus-eroeffnet-heiliges-jahr](https://www.spiegel.de/ausland/weihnachten-im-vatikan-papst-franziskus-eroeffnet-heiliges-jahr-a-6a9c2983-39a8-41ef-bd02-2a5d35283801#ref=rss)
+### jan
+
+* [https://www.spiegel.de/panorama/jan-marsalek-auf-der-spur-eines-spions](https://www.spiegel.de/panorama/jan-marsalek-auf-der-spur-eines-spions-a-30aaf03a-5c2d-43c2-a6d8-51a0a9289680#ref=rss)
+### marsalek
+
+* [https://www.spiegel.de/panorama/jan-marsalek-auf-der-spur-eines-spions](https://www.spiegel.de/panorama/jan-marsalek-auf-der-spur-eines-spions-a-30aaf03a-5c2d-43c2-a6d8-51a0a9289680#ref=rss)
+### dom
+
+* [https://www.spiegel.de/start/domschweizer-in-koeln-ich-kann-mir-ein-leben-ohne-den-dom-nicht-vorstellen](https://www.spiegel.de/start/domschweizer-in-koeln-ich-kann-mir-ein-leben-ohne-den-dom-nicht-vorstellen-a-eb108754-c24e-49fe-8f0f-3be8054e7a08#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/start/domschweizer-in-koeln-ich-kann-mir-ein-leben-ohne-den-dom-nicht-vorstellen](https://www.spiegel.de/start/domschweizer-in-koeln-ich-kann-mir-ein-leben-ohne-den-dom-nicht-vorstellen-a-eb108754-c24e-49fe-8f0f-3be8054e7a08#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-mehr-als-600-000-menschen-von-hungersnot-betroffen](https://www.spiegel.de/ausland/sudan-mehr-als-600-000-menschen-von-hungersnot-betroffen-a-952e7082-2270-4356-9243-1675ce1076f5#ref=rss)
+### sicherheit
+
+* [https://www.spiegel.de/start/domschweizer-in-koeln-ich-kann-mir-ein-leben-ohne-den-dom-nicht-vorstellen](https://www.spiegel.de/start/domschweizer-in-koeln-ich-kann-mir-ein-leben-ohne-den-dom-nicht-vorstellen-a-eb108754-c24e-49fe-8f0f-3be8054e7a08#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trumps-territoriale-ansprueche-daenemark-will-milliarden-in-groenlands-sicherheit-investieren](https://www.spiegel.de/ausland/donald-trumps-territoriale-ansprueche-daenemark-will-milliarden-in-groenlands-sicherheit-investieren-a-bad71964-4e8f-40f5-8f81-06c936fb8c8c#ref=rss)
+### richard
+
+* [https://www.spiegel.de/kultur/richard-perry-musikproduzent-ist-tot](https://www.spiegel.de/kultur/richard-perry-musikproduzent-ist-tot-a-8d0e2cab-4af0-4099-b7c1-0c7f410f39fb#ref=rss)
+### perry
+
+* [https://www.spiegel.de/kultur/richard-perry-musikproduzent-ist-tot](https://www.spiegel.de/kultur/richard-perry-musikproduzent-ist-tot-a-8d0e2cab-4af0-4099-b7c1-0c7f410f39fb#ref=rss)
+### musikproduzent
+
+* [https://www.spiegel.de/kultur/richard-perry-musikproduzent-ist-tot](https://www.spiegel.de/kultur/richard-perry-musikproduzent-ist-tot-a-8d0e2cab-4af0-4099-b7c1-0c7f410f39fb#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/kultur/richard-perry-musikproduzent-ist-tot](https://www.spiegel.de/kultur/richard-perry-musikproduzent-ist-tot-a-8d0e2cab-4af0-4099-b7c1-0c7f410f39fb#ref=rss)
+* [https://www.spiegel.de/ausland/weihnachten-im-vatikan-papst-franziskus-eroeffnet-heiliges-jahr](https://www.spiegel.de/ausland/weihnachten-im-vatikan-papst-franziskus-eroeffnet-heiliges-jahr-a-6a9c2983-39a8-41ef-bd02-2a5d35283801#ref=rss)
+### kasachstan
+
+* [https://www.spiegel.de/ausland/aserbaidschan-passagierflugzeug-in-kasachstan-abgestuerzt-hinweise-auf-ueberlebende](https://www.spiegel.de/ausland/aserbaidschan-passagierflugzeug-in-kasachstan-abgestuerzt-hinweise-auf-ueberlebende-a-4ae1a6c9-b782-44d3-952d-945bc12e2054#ref=rss)
+### überlebende
+
+* [https://www.spiegel.de/ausland/aserbaidschan-passagierflugzeug-in-kasachstan-abgestuerzt-hinweise-auf-ueberlebende](https://www.spiegel.de/ausland/aserbaidschan-passagierflugzeug-in-kasachstan-abgestuerzt-hinweise-auf-ueberlebende-a-4ae1a6c9-b782-44d3-952d-945bc12e2054#ref=rss)
+### rettungskräfte
+
+* [https://www.spiegel.de/ausland/aserbaidschan-passagierflugzeug-in-kasachstan-abgestuerzt-hinweise-auf-ueberlebende](https://www.spiegel.de/ausland/aserbaidschan-passagierflugzeug-in-kasachstan-abgestuerzt-hinweise-auf-ueberlebende-a-4ae1a6c9-b782-44d3-952d-945bc12e2054#ref=rss)
+* [https://www.spiegel.de/panorama/frankreich-rettungskraefte-befreien-240-skifahrer-in-den-alpen-aus-sessellift](https://www.spiegel.de/panorama/frankreich-rettungskraefte-befreien-240-skifahrer-in-den-alpen-aus-sessellift-a-e832b3b0-e861-485d-b163-8cd8e5f394b4#ref=rss)
+### geben
+
+* [https://www.spiegel.de/ausland/aserbaidschan-passagierflugzeug-in-kasachstan-abgestuerzt-hinweise-auf-ueberlebende](https://www.spiegel.de/ausland/aserbaidschan-passagierflugzeug-in-kasachstan-abgestuerzt-hinweise-auf-ueberlebende-a-4ae1a6c9-b782-44d3-952d-945bc12e2054#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/synthetische-biologie-reines-marketing-oder-berechtigte-sorge-forschende-warnen-vor-spiegelleben](https://www.spiegel.de/wissenschaft/natur/synthetische-biologie-reines-marketing-oder-berechtigte-sorge-forschende-warnen-vor-spiegelleben-a-9610fee2-a67b-418f-8447-37dd300c45ce#ref=rss)
+### unternehmen
+
+* [https://www.spiegel.de/wirtschaft/mittelstand-in-deutschland-145-000-unternehmen-suchen-nachfolger](https://www.spiegel.de/wirtschaft/mittelstand-in-deutschland-145-000-unternehmen-suchen-nachfolger-a-a329126d-9053-447c-8004-54457663606a#ref=rss)
+### südkorea
+
+* [https://www.spiegel.de/ausland/suedkorea-praesident-yoon-suk-yeol-erscheint-erneut-nicht-zu-vorladung](https://www.spiegel.de/ausland/suedkorea-praesident-yoon-suk-yeol-erscheint-erneut-nicht-zu-vorladung-a-f3a88f23-d92d-4b29-ac76-7b3557a60ef4#ref=rss)
+### präsident
+
+* [https://www.spiegel.de/ausland/suedkorea-praesident-yoon-suk-yeol-erscheint-erneut-nicht-zu-vorladung](https://www.spiegel.de/ausland/suedkorea-praesident-yoon-suk-yeol-erscheint-erneut-nicht-zu-vorladung-a-f3a88f23-d92d-4b29-ac76-7b3557a60ef4#ref=rss)
+### vorladung
+
+* [https://www.spiegel.de/ausland/suedkorea-praesident-yoon-suk-yeol-erscheint-erneut-nicht-zu-vorladung](https://www.spiegel.de/ausland/suedkorea-praesident-yoon-suk-yeol-erscheint-erneut-nicht-zu-vorladung-a-f3a88f23-d92d-4b29-ac76-7b3557a60ef4#ref=rss)
+### angriffe
+
+* [https://www.spiegel.de/ausland/russland-massive-russische-angriffe-am-weihnachtstag-auf-die-ukraine](https://www.spiegel.de/ausland/russland-massive-russische-angriffe-am-weihnachtstag-auf-die-ukraine-a-4729ccc4-e882-4027-9379-aea1513604e6#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/russland-massive-russische-angriffe-am-weihnachtstag-auf-die-ukraine](https://www.spiegel.de/ausland/russland-massive-russische-angriffe-am-weihnachtstag-auf-die-ukraine-a-4729ccc4-e882-4027-9379-aea1513604e6#ref=rss)
+### androidsmartphone
+
+* [https://www.spiegel.de/netzwelt/gadgets/android-smartphone-neu-einrichten-zehn-tipps-fuer-anfaenger](https://www.spiegel.de/netzwelt/gadgets/android-smartphone-neu-einrichten-zehn-tipps-fuer-anfaenger-a-2b3bc1d2-28b6-4280-ba6a-ad6387e43f8e#ref=rss)
+### tipps
+
+* [https://www.spiegel.de/netzwelt/gadgets/android-smartphone-neu-einrichten-zehn-tipps-fuer-anfaenger](https://www.spiegel.de/netzwelt/gadgets/android-smartphone-neu-einrichten-zehn-tipps-fuer-anfaenger-a-2b3bc1d2-28b6-4280-ba6a-ad6387e43f8e#ref=rss)
+* [https://www.spiegel.de/fitness/skisport-tipps-vom-experten-so-vermeiden-sie-verletzungen-beim-skifahren](https://www.spiegel.de/fitness/skisport-tipps-vom-experten-so-vermeiden-sie-verletzungen-beim-skifahren-a-501a4498-964e-41be-95bf-e212d8630349#ref=rss)
+### uns
+
+* [https://www.spiegel.de/kultur/kunsthistoriker-ueber-digitale-fotos-wir-wollen-zu-jeder-tageszeit-fotogen-und-bildwuerdig-sein](https://www.spiegel.de/kultur/kunsthistoriker-ueber-digitale-fotos-wir-wollen-zu-jeder-tageszeit-fotogen-und-bildwuerdig-sein-a-dea4743a-d108-43b1-9d82-53615aebbd82#ref=rss)
+### michael
+
+* [https://www.spiegel.de/karriere/michael-lindner-warum-der-politiker-aus-oesterreich-die-karriere-fuer-seine-kinder-aufgibt](https://www.spiegel.de/karriere/michael-lindner-warum-der-politiker-aus-oesterreich-die-karriere-fuer-seine-kinder-aufgibt-a-cd8b83df-0384-4335-85b3-40404453b031#ref=rss)
+### lindner
+
+* [https://www.spiegel.de/karriere/michael-lindner-warum-der-politiker-aus-oesterreich-die-karriere-fuer-seine-kinder-aufgibt](https://www.spiegel.de/karriere/michael-lindner-warum-der-politiker-aus-oesterreich-die-karriere-fuer-seine-kinder-aufgibt-a-cd8b83df-0384-4335-85b3-40404453b031#ref=rss)
+### österreich
+
+* [https://www.spiegel.de/karriere/michael-lindner-warum-der-politiker-aus-oesterreich-die-karriere-fuer-seine-kinder-aufgibt](https://www.spiegel.de/karriere/michael-lindner-warum-der-politiker-aus-oesterreich-die-karriere-fuer-seine-kinder-aufgibt-a-cd8b83df-0384-4335-85b3-40404453b031#ref=rss)
+* [https://www.spiegel.de/ausland/demokratie-auf-diese-laender-und-wahlen-muessen-sie-2025-in-europa-achten](https://www.spiegel.de/ausland/demokratie-auf-diese-laender-und-wahlen-muessen-sie-2025-in-europa-achten-a-da09c975-bd89-4cec-922c-4978a3977a7f#ref=rss)
+### experten
+
+* [https://www.spiegel.de/fitness/skisport-tipps-vom-experten-so-vermeiden-sie-verletzungen-beim-skifahren](https://www.spiegel.de/fitness/skisport-tipps-vom-experten-so-vermeiden-sie-verletzungen-beim-skifahren-a-501a4498-964e-41be-95bf-e212d8630349#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-mehr-als-600-000-menschen-von-hungersnot-betroffen](https://www.spiegel.de/ausland/sudan-mehr-als-600-000-menschen-von-hungersnot-betroffen-a-952e7082-2270-4356-9243-1675ce1076f5#ref=rss)
+### vermeiden
+
+* [https://www.spiegel.de/fitness/skisport-tipps-vom-experten-so-vermeiden-sie-verletzungen-beim-skifahren](https://www.spiegel.de/fitness/skisport-tipps-vom-experten-so-vermeiden-sie-verletzungen-beim-skifahren-a-501a4498-964e-41be-95bf-e212d8630349#ref=rss)
+### skifahren
+
+* [https://www.spiegel.de/fitness/skisport-tipps-vom-experten-so-vermeiden-sie-verletzungen-beim-skifahren](https://www.spiegel.de/fitness/skisport-tipps-vom-experten-so-vermeiden-sie-verletzungen-beim-skifahren-a-501a4498-964e-41be-95bf-e212d8630349#ref=rss)
+### sodbrennen
+
+* [https://www.spiegel.de/gesundheit/ernaehrung/gesundheit-und-fitness-an-weihnachten-was-an-heilig-abend-vor-sodbrennen-schuetzt](https://www.spiegel.de/gesundheit/ernaehrung/gesundheit-und-fitness-an-weihnachten-was-an-heilig-abend-vor-sodbrennen-schuetzt-a-77a03551-e257-4c9d-8a8a-8ab35224d06e#ref=rss)
+### mosambik
+
+* [https://www.spiegel.de/ausland/mosambik-21-tote-nach-unruhen-proteste-gegen-wahlergebnis](https://www.spiegel.de/ausland/mosambik-21-tote-nach-unruhen-proteste-gegen-wahlergebnis-a-e5a9c818-0c01-4a84-80d3-fab85a46aa9f#ref=rss)
+### 21
+
+* [https://www.spiegel.de/ausland/mosambik-21-tote-nach-unruhen-proteste-gegen-wahlergebnis](https://www.spiegel.de/ausland/mosambik-21-tote-nach-unruhen-proteste-gegen-wahlergebnis-a-e5a9c818-0c01-4a84-80d3-fab85a46aa9f#ref=rss)
+### tote
+
+* [https://www.spiegel.de/ausland/mosambik-21-tote-nach-unruhen-proteste-gegen-wahlergebnis](https://www.spiegel.de/ausland/mosambik-21-tote-nach-unruhen-proteste-gegen-wahlergebnis-a-e5a9c818-0c01-4a84-80d3-fab85a46aa9f#ref=rss)
+### frankreich
+
+* [https://www.spiegel.de/panorama/frankreich-rettungskraefte-befreien-240-skifahrer-in-den-alpen-aus-sessellift](https://www.spiegel.de/panorama/frankreich-rettungskraefte-befreien-240-skifahrer-in-den-alpen-aus-sessellift-a-e832b3b0-e861-485d-b163-8cd8e5f394b4#ref=rss)
+* [https://www.spiegel.de/ausland/demokratie-auf-diese-laender-und-wahlen-muessen-sie-2025-in-europa-achten](https://www.spiegel.de/ausland/demokratie-auf-diese-laender-und-wahlen-muessen-sie-2025-in-europa-achten-a-da09c975-bd89-4cec-922c-4978a3977a7f#ref=rss)
+### tori
+
+* [https://www.spiegel.de/panorama/leute/tori-spelling-ihre-aelteste-tochter-bekam-2023-keine-geschenke](https://www.spiegel.de/panorama/leute/tori-spelling-ihre-aelteste-tochter-bekam-2023-keine-geschenke-a-c172a1fa-c553-406f-a9b5-71e39f69c424#ref=rss)
+### spelling
+
+* [https://www.spiegel.de/panorama/leute/tori-spelling-ihre-aelteste-tochter-bekam-2023-keine-geschenke](https://www.spiegel.de/panorama/leute/tori-spelling-ihre-aelteste-tochter-bekam-2023-keine-geschenke-a-c172a1fa-c553-406f-a9b5-71e39f69c424#ref=rss)
+### geschenke
+
+* [https://www.spiegel.de/panorama/leute/tori-spelling-ihre-aelteste-tochter-bekam-2023-keine-geschenke](https://www.spiegel.de/panorama/leute/tori-spelling-ihre-aelteste-tochter-bekam-2023-keine-geschenke-a-c172a1fa-c553-406f-a9b5-71e39f69c424#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/donald-trumps-territoriale-ansprueche-daenemark-will-milliarden-in-groenlands-sicherheit-investieren](https://www.spiegel.de/ausland/donald-trumps-territoriale-ansprueche-daenemark-will-milliarden-in-groenlands-sicherheit-investieren-a-bad71964-4e8f-40f5-8f81-06c936fb8c8c#ref=rss)
+### dänemark
+
+* [https://www.spiegel.de/ausland/donald-trumps-territoriale-ansprueche-daenemark-will-milliarden-in-groenlands-sicherheit-investieren](https://www.spiegel.de/ausland/donald-trumps-territoriale-ansprueche-daenemark-will-milliarden-in-groenlands-sicherheit-investieren-a-bad71964-4e8f-40f5-8f81-06c936fb8c8c#ref=rss)
+### sudan
+
+* [https://www.spiegel.de/ausland/sudan-mehr-als-600-000-menschen-von-hungersnot-betroffen](https://www.spiegel.de/ausland/sudan-mehr-als-600-000-menschen-von-hungersnot-betroffen-a-952e7082-2270-4356-9243-1675ce1076f5#ref=rss)
+### papst
+
+* [https://www.spiegel.de/ausland/weihnachten-im-vatikan-papst-franziskus-eroeffnet-heiliges-jahr](https://www.spiegel.de/ausland/weihnachten-im-vatikan-papst-franziskus-eroeffnet-heiliges-jahr-a-6a9c2983-39a8-41ef-bd02-2a5d35283801#ref=rss)
+### franziskus
+
+* [https://www.spiegel.de/ausland/weihnachten-im-vatikan-papst-franziskus-eroeffnet-heiliges-jahr](https://www.spiegel.de/ausland/weihnachten-im-vatikan-papst-franziskus-eroeffnet-heiliges-jahr-a-6a9c2983-39a8-41ef-bd02-2a5d35283801#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/ausland/weihnachten-im-vatikan-papst-franziskus-eroeffnet-heiliges-jahr](https://www.spiegel.de/ausland/weihnachten-im-vatikan-papst-franziskus-eroeffnet-heiliges-jahr-a-6a9c2983-39a8-41ef-bd02-2a5d35283801#ref=rss)
+* [https://www.spiegel.de/ausland/dinner-for-one-international-diese-tv-klassiker-laufen-in-anderen-laendern-an-den-feiertagen](https://www.spiegel.de/ausland/dinner-for-one-international-diese-tv-klassiker-laufen-in-anderen-laendern-an-den-feiertagen-a-6d105254-4115-4ffe-955f-ad6e1e48a882#ref=rss)
+### iran
+
+* [https://www.spiegel.de/ausland/iran-whatsapp-ist-jetzt-wieder-erlaubt](https://www.spiegel.de/ausland/iran-whatsapp-ist-jetzt-wieder-erlaubt-a-b7ed7bfe-ab54-4e87-8dd4-44360c7778d8#ref=rss)
+### dinner
+
+* [https://www.spiegel.de/ausland/dinner-for-one-international-diese-tv-klassiker-laufen-in-anderen-laendern-an-den-feiertagen](https://www.spiegel.de/ausland/dinner-for-one-international-diese-tv-klassiker-laufen-in-anderen-laendern-an-den-feiertagen-a-6d105254-4115-4ffe-955f-ad6e1e48a882#ref=rss)
+### for
+
+* [https://www.spiegel.de/ausland/dinner-for-one-international-diese-tv-klassiker-laufen-in-anderen-laendern-an-den-feiertagen](https://www.spiegel.de/ausland/dinner-for-one-international-diese-tv-klassiker-laufen-in-anderen-laendern-an-den-feiertagen-a-6d105254-4115-4ffe-955f-ad6e1e48a882#ref=rss)
+### one
+
+* [https://www.spiegel.de/ausland/dinner-for-one-international-diese-tv-klassiker-laufen-in-anderen-laendern-an-den-feiertagen](https://www.spiegel.de/ausland/dinner-for-one-international-diese-tv-klassiker-laufen-in-anderen-laendern-an-den-feiertagen-a-6d105254-4115-4ffe-955f-ad6e1e48a882#ref=rss)
+### kokain
+
+* [https://www.spiegel.de/panorama/peru-grinch-klaut-dealern-kurz-vor-weihnachten-ihr-kokain](https://www.spiegel.de/panorama/peru-grinch-klaut-dealern-kurz-vor-weihnachten-ihr-kokain-a-ec9a25f1-76f3-4bf2-a943-90a1d7590069#ref=rss)
+### warnen
+
+* [https://www.spiegel.de/wissenschaft/natur/synthetische-biologie-reines-marketing-oder-berechtigte-sorge-forschende-warnen-vor-spiegelleben](https://www.spiegel.de/wissenschaft/natur/synthetische-biologie-reines-marketing-oder-berechtigte-sorge-forschende-warnen-vor-spiegelleben-a-9610fee2-a67b-418f-8447-37dd300c45ce#ref=rss)
 
