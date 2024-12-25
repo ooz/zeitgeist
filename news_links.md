@@ -4,305 +4,389 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### weihnachten
-
-* [https://www.spiegel.de/panorama/wetter-zu-weihnachten-sonne-und-schnee-gibts-nur-im-sueden](https://www.spiegel.de/panorama/wetter-zu-weihnachten-sonne-und-schnee-gibts-nur-im-sueden-a-4f99db14-f852-4592-b81a-4ec243865065#ref=rss)
-* [https://www.spiegel.de/ausland/russland-massive-russische-angriffe-am-weihnachtstag-auf-die-ukraine](https://www.spiegel.de/ausland/russland-massive-russische-angriffe-am-weihnachtstag-auf-die-ukraine-a-4729ccc4-e882-4027-9379-aea1513604e6#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung/gesundheit-und-fitness-an-weihnachten-was-an-heilig-abend-vor-sodbrennen-schuetzt](https://www.spiegel.de/gesundheit/ernaehrung/gesundheit-und-fitness-an-weihnachten-was-an-heilig-abend-vor-sodbrennen-schuetzt-a-77a03551-e257-4c9d-8a8a-8ab35224d06e#ref=rss)
-* [https://www.spiegel.de/panorama/leute/tori-spelling-ihre-aelteste-tochter-bekam-2023-keine-geschenke](https://www.spiegel.de/panorama/leute/tori-spelling-ihre-aelteste-tochter-bekam-2023-keine-geschenke-a-c172a1fa-c553-406f-a9b5-71e39f69c424#ref=rss)
-* [https://www.spiegel.de/ausland/weihnachten-im-vatikan-papst-franziskus-eroeffnet-heiliges-jahr](https://www.spiegel.de/ausland/weihnachten-im-vatikan-papst-franziskus-eroeffnet-heiliges-jahr-a-6a9c2983-39a8-41ef-bd02-2a5d35283801#ref=rss)
-* [https://www.spiegel.de/ausland/dinner-for-one-international-diese-tv-klassiker-laufen-in-anderen-laendern-an-den-feiertagen](https://www.spiegel.de/ausland/dinner-for-one-international-diese-tv-klassiker-laufen-in-anderen-laendern-an-den-feiertagen-a-6d105254-4115-4ffe-955f-ad6e1e48a882#ref=rss)
-* [https://www.spiegel.de/panorama/peru-grinch-klaut-dealern-kurz-vor-weihnachten-ihr-kokain](https://www.spiegel.de/panorama/peru-grinch-klaut-dealern-kurz-vor-weihnachten-ihr-kokain-a-ec9a25f1-76f3-4bf2-a943-90a1d7590069#ref=rss)
 ### menschen
 
+* [https://www.spiegel.de/ausland/obdachlosigkeit-in-den-usa-wie-kevin-adler-menschen-wieder-mit-ihren-familien-vereint](https://www.spiegel.de/ausland/obdachlosigkeit-in-den-usa-wie-kevin-adler-menschen-wieder-mit-ihren-familien-vereint-a-392e66c6-4933-4e54-a1fd-7748cca25764#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-mindestens-46-tote-nach-pakistanischen-luftangriffen](https://www.spiegel.de/ausland/afghanistan-mindestens-46-tote-nach-pakistanischen-luftangriffen-a-53ffa722-a786-4a42-a6e8-9de63c31d516#ref=rss)
+* [https://www.spiegel.de/reise/reisetrend-silent-travel-und-jetzt-einfach-mal-ein-bisschen-ruhe-bitte](https://www.spiegel.de/reise/reisetrend-silent-travel-und-jetzt-einfach-mal-ein-bisschen-ruhe-bitte-a-4866063f-e2cf-41a4-b32d-e8dd46535666#ref=rss)
 * [https://www.spiegel.de/panorama/muenchen-15-menschen-bei-brand-in-seniorenheim-verletzt](https://www.spiegel.de/panorama/muenchen-15-menschen-bei-brand-in-seniorenheim-verletzt-a-da376c96-1bfc-45d0-ad97-5db24735562a#ref=rss)
 * [https://www.spiegel.de/ausland/haiti-mindestens-drei-menschen-sterben-durch-schuesse-in-krankenhaus](https://www.spiegel.de/ausland/haiti-mindestens-drei-menschen-sterben-durch-schuesse-in-krankenhaus-a-7da1dae8-426b-4f92-bf67-5f76c85b8999#ref=rss)
-* [https://www.spiegel.de/ausland/russland-massive-russische-angriffe-am-weihnachtstag-auf-die-ukraine](https://www.spiegel.de/ausland/russland-massive-russische-angriffe-am-weihnachtstag-auf-die-ukraine-a-4729ccc4-e882-4027-9379-aea1513604e6#ref=rss)
-* [https://www.spiegel.de/ausland/sudan-mehr-als-600-000-menschen-von-hungersnot-betroffen](https://www.spiegel.de/ausland/sudan-mehr-als-600-000-menschen-von-hungersnot-betroffen-a-952e7082-2270-4356-9243-1675ce1076f5#ref=rss)
-### welt
+### jahres
 
-* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-franz-wagner-und-co-so-schlagen-sich-die-deutschen-profis](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-franz-wagner-und-co-so-schlagen-sich-die-deutschen-profis-a-efe5229c-a339-4900-b9e3-5d65ccef4c4f#ref=rss)
-* [https://www.spiegel.de/panorama/jan-marsalek-auf-der-spur-eines-spions](https://www.spiegel.de/panorama/jan-marsalek-auf-der-spur-eines-spions-a-30aaf03a-5c2d-43c2-a6d8-51a0a9289680#ref=rss)
-* [https://www.spiegel.de/ausland/dinner-for-one-international-diese-tv-klassiker-laufen-in-anderen-laendern-an-den-feiertagen](https://www.spiegel.de/ausland/dinner-for-one-international-diese-tv-klassiker-laufen-in-anderen-laendern-an-den-feiertagen-a-6d105254-4115-4ffe-955f-ad6e1e48a882#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/synthetische-biologie-reines-marketing-oder-berechtigte-sorge-forschende-warnen-vor-spiegelleben](https://www.spiegel.de/wissenschaft/natur/synthetische-biologie-reines-marketing-oder-berechtigte-sorge-forschende-warnen-vor-spiegelleben-a-9610fee2-a67b-418f-8447-37dd300c45ce#ref=rss)
-### viele
-
-* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-franz-wagner-und-co-so-schlagen-sich-die-deutschen-profis](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-franz-wagner-und-co-so-schlagen-sich-die-deutschen-profis-a-efe5229c-a339-4900-b9e3-5d65ccef4c4f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/mittelstand-in-deutschland-145-000-unternehmen-suchen-nachfolger](https://www.spiegel.de/wirtschaft/mittelstand-in-deutschland-145-000-unternehmen-suchen-nachfolger-a-a329126d-9053-447c-8004-54457663606a#ref=rss)
-* [https://www.spiegel.de/auto/natenom-warum-der-unfalltod-des-radaktivisten-so-viele-beruehrte](https://www.spiegel.de/auto/natenom-warum-der-unfalltod-des-radaktivisten-so-viele-beruehrte-a-f5e95abb-4193-4123-972f-2565f790db1c#ref=rss)
-* [https://www.spiegel.de/ausland/iran-whatsapp-ist-jetzt-wieder-erlaubt](https://www.spiegel.de/ausland/iran-whatsapp-ist-jetzt-wieder-erlaubt-a-b7ed7bfe-ab54-4e87-8dd4-44360c7778d8#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/panorama/wetter-zu-weihnachten-sonne-und-schnee-gibts-nur-im-sueden](https://www.spiegel.de/panorama/wetter-zu-weihnachten-sonne-und-schnee-gibts-nur-im-sueden-a-4f99db14-f852-4592-b81a-4ec243865065#ref=rss)
-* [https://www.spiegel.de/wirtschaft/mittelstand-in-deutschland-145-000-unternehmen-suchen-nachfolger](https://www.spiegel.de/wirtschaft/mittelstand-in-deutschland-145-000-unternehmen-suchen-nachfolger-a-a329126d-9053-447c-8004-54457663606a#ref=rss)
-* [https://www.spiegel.de/ausland/dinner-for-one-international-diese-tv-klassiker-laufen-in-anderen-laendern-an-den-feiertagen](https://www.spiegel.de/ausland/dinner-for-one-international-diese-tv-klassiker-laufen-in-anderen-laendern-an-den-feiertagen-a-6d105254-4115-4ffe-955f-ad6e1e48a882#ref=rss)
-### wir
-
+* [https://www.spiegel.de/familie/der-grosse-reset-von-ika-sperling-was-tun-wenn-man-seinen-vater-an-verschwoerungstheorien-verliert](https://www.spiegel.de/familie/der-grosse-reset-von-ika-sperling-was-tun-wenn-man-seinen-vater-an-verschwoerungstheorien-verliert-a-32c7118b-5600-4d06-9ae4-2e84539574c3#ref=rss)
+* [https://www.spiegel.de/ausland/weihnachtsansprache-papst-franziskus-ruft-in-weihnachtsansprache-zum-frieden-auf](https://www.spiegel.de/ausland/weihnachtsansprache-papst-franziskus-ruft-in-weihnachtsansprache-zum-frieden-auf-a-0bf4f729-6d15-4be1-bbc2-427ff43e3d46#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-deutschlands-fussballer-fuehren-tv-ranking-2024-an](https://www.spiegel.de/sport/fussball/dfb-deutschlands-fussballer-fuehren-tv-ranking-2024-an-a-2527be62-8a1c-4d99-8e24-2cd21f131c01#ref=rss)
 * [https://www.spiegel.de/start/kochen-ohne-kohle-guenstige-rezepte-die-sie-2024-besonders-interessiert-haben](https://www.spiegel.de/start/kochen-ohne-kohle-guenstige-rezepte-die-sie-2024-besonders-interessiert-haben-a-c64417c4-b41d-4b7c-97f9-72dc745c3ee7#ref=rss)
-* [https://www.spiegel.de/kultur/kunsthistoriker-ueber-digitale-fotos-wir-wollen-zu-jeder-tageszeit-fotogen-und-bildwuerdig-sein](https://www.spiegel.de/kultur/kunsthistoriker-ueber-digitale-fotos-wir-wollen-zu-jeder-tageszeit-fotogen-und-bildwuerdig-sein-a-dea4743a-d108-43b1-9d82-53615aebbd82#ref=rss)
-### fünf
+### unter
 
-* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-franz-wagner-und-co-so-schlagen-sich-die-deutschen-profis](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-franz-wagner-und-co-so-schlagen-sich-die-deutschen-profis-a-efe5229c-a339-4900-b9e3-5d65ccef4c4f#ref=rss)
-* [https://www.spiegel.de/ausland/sudan-mehr-als-600-000-menschen-von-hungersnot-betroffen](https://www.spiegel.de/ausland/sudan-mehr-als-600-000-menschen-von-hungersnot-betroffen-a-952e7082-2270-4356-9243-1675ce1076f5#ref=rss)
-* [https://www.spiegel.de/ausland/dinner-for-one-international-diese-tv-klassiker-laufen-in-anderen-laendern-an-den-feiertagen](https://www.spiegel.de/ausland/dinner-for-one-international-diese-tv-klassiker-laufen-in-anderen-laendern-an-den-feiertagen-a-6d105254-4115-4ffe-955f-ad6e1e48a882#ref=rss)
-### deutsche
+* [https://www.spiegel.de/ausland/kasachstan-38-tote-und-29-ueberlebende-bei-flugzeugabsturz-offenbar-ein-elfjaehriges-maedchen-mit-deutscher-staatsangehoerigkeit-unter-den-ueberlebenden](https://www.spiegel.de/ausland/kasachstan-38-tote-und-29-ueberlebende-bei-flugzeugabsturz-offenbar-ein-elfjaehriges-maedchen-mit-deutscher-staatsangehoerigkeit-unter-den-ueberlebenden-a-327b597e-63b6-4a8a-a718-56d73b199ba7#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-erdogan-fordert-syrische-kurden-zur-niederlegung-der-waffen-auf](https://www.spiegel.de/ausland/syrien-erdogan-fordert-syrische-kurden-zur-niederlegung-der-waffen-auf-a-d17a7489-7d67-42af-936e-3e732421a0d8#ref=rss)
+* [https://www.spiegel.de/ausland/usa-unter-donald-trump-was-2025-in-den-vereinigten-staaten-wichtig-wird](https://www.spiegel.de/ausland/usa-unter-donald-trump-was-2025-in-den-vereinigten-staaten-wichtig-wird-a-001036b8-6585-4215-889a-5298e352743a#ref=rss)
+### männer
 
-* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-franz-wagner-und-co-so-schlagen-sich-die-deutschen-profis](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-franz-wagner-und-co-so-schlagen-sich-die-deutschen-profis-a-efe5229c-a339-4900-b9e3-5d65ccef4c4f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/mittelstand-in-deutschland-145-000-unternehmen-suchen-nachfolger](https://www.spiegel.de/wirtschaft/mittelstand-in-deutschland-145-000-unternehmen-suchen-nachfolger-a-a329126d-9053-447c-8004-54457663606a#ref=rss)
-* [https://www.spiegel.de/fitness/skisport-tipps-vom-experten-so-vermeiden-sie-verletzungen-beim-skifahren](https://www.spiegel.de/fitness/skisport-tipps-vom-experten-so-vermeiden-sie-verletzungen-beim-skifahren-a-501a4498-964e-41be-95bf-e212d8630349#ref=rss)
-### verletzt
+* [https://www.spiegel.de/ausland/wehrdienst-in-russland-in-moskau-werden-junge-maenner-mit-zwang-eingezogen](https://www.spiegel.de/ausland/wehrdienst-in-russland-in-moskau-werden-junge-maenner-mit-zwang-eingezogen-a-0e349a65-cdee-45ff-8634-8922a8d2bfda#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-deutschlands-fussballer-fuehren-tv-ranking-2024-an](https://www.spiegel.de/sport/fussball/dfb-deutschlands-fussballer-fuehren-tv-ranking-2024-an-a-2527be62-8a1c-4d99-8e24-2cd21f131c01#ref=rss)
+* [https://www.spiegel.de/ausland/haiti-mindestens-drei-menschen-sterben-durch-schuesse-in-krankenhaus](https://www.spiegel.de/ausland/haiti-mindestens-drei-menschen-sterben-durch-schuesse-in-krankenhaus-a-7da1dae8-426b-4f92-bf67-5f76c85b8999#ref=rss)
+### 15
 
+* [https://www.spiegel.de/panorama/auktionen-jacke-von-ss-chef-heinrich-himmler-fuer-1-5-millionen-euro-versteigert](https://www.spiegel.de/panorama/auktionen-jacke-von-ss-chef-heinrich-himmler-fuer-1-5-millionen-euro-versteigert-a-509bde8e-1c81-431e-9eb1-9de20ef00587#ref=rss)
 * [https://www.spiegel.de/panorama/muenchen-15-menschen-bei-brand-in-seniorenheim-verletzt](https://www.spiegel.de/panorama/muenchen-15-menschen-bei-brand-in-seniorenheim-verletzt-a-da376c96-1bfc-45d0-ad97-5db24735562a#ref=rss)
-* [https://www.spiegel.de/ausland/russland-massive-russische-angriffe-am-weihnachtstag-auf-die-ukraine](https://www.spiegel.de/ausland/russland-massive-russische-angriffe-am-weihnachtstag-auf-die-ukraine-a-4729ccc4-e882-4027-9379-aea1513604e6#ref=rss)
-### einige
+### weihnachtsansprache
 
-* [https://www.spiegel.de/netzwelt/gadgets/android-smartphone-neu-einrichten-zehn-tipps-fuer-anfaenger](https://www.spiegel.de/netzwelt/gadgets/android-smartphone-neu-einrichten-zehn-tipps-fuer-anfaenger-a-2b3bc1d2-28b6-4280-ba6a-ad6387e43f8e#ref=rss)
-* [https://www.spiegel.de/ausland/iran-whatsapp-ist-jetzt-wieder-erlaubt](https://www.spiegel.de/ausland/iran-whatsapp-ist-jetzt-wieder-erlaubt-a-b7ed7bfe-ab54-4e87-8dd4-44360c7778d8#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/synthetische-biologie-reines-marketing-oder-berechtigte-sorge-forschende-warnen-vor-spiegelleben](https://www.spiegel.de/wissenschaft/natur/synthetische-biologie-reines-marketing-oder-berechtigte-sorge-forschende-warnen-vor-spiegelleben-a-9610fee2-a67b-418f-8447-37dd300c45ce#ref=rss)
-### fotos
+* [https://www.spiegel.de/politik/weihnachtsansprache-des-bundespraesidenten-frank-walter-steinmeier-ruft-zu-zusammenhalt-auf](https://www.spiegel.de/politik/weihnachtsansprache-des-bundespraesidenten-frank-walter-steinmeier-ruft-zu-zusammenhalt-auf-a-0058293b-fd64-488a-bf4d-fb0e3dbe1ff5#ref=rss)
+* [https://www.spiegel.de/ausland/weihnachtsansprache-papst-franziskus-ruft-in-weihnachtsansprache-zum-frieden-auf](https://www.spiegel.de/ausland/weihnachtsansprache-papst-franziskus-ruft-in-weihnachtsansprache-zum-frieden-auf-a-0bf4f729-6d15-4be1-bbc2-427ff43e3d46#ref=rss)
+### magdeburg
 
-* [https://www.spiegel.de/netzwelt/gadgets/android-smartphone-neu-einrichten-zehn-tipps-fuer-anfaenger](https://www.spiegel.de/netzwelt/gadgets/android-smartphone-neu-einrichten-zehn-tipps-fuer-anfaenger-a-2b3bc1d2-28b6-4280-ba6a-ad6387e43f8e#ref=rss)
-* [https://www.spiegel.de/kultur/kunsthistoriker-ueber-digitale-fotos-wir-wollen-zu-jeder-tageszeit-fotogen-und-bildwuerdig-sein](https://www.spiegel.de/kultur/kunsthistoriker-ueber-digitale-fotos-wir-wollen-zu-jeder-tageszeit-fotogen-und-bildwuerdig-sein-a-dea4743a-d108-43b1-9d82-53615aebbd82#ref=rss)
-### schnee
+* [https://www.spiegel.de/politik/weihnachtsansprache-des-bundespraesidenten-frank-walter-steinmeier-ruft-zu-zusammenhalt-auf](https://www.spiegel.de/politik/weihnachtsansprache-des-bundespraesidenten-frank-walter-steinmeier-ruft-zu-zusammenhalt-auf-a-0058293b-fd64-488a-bf4d-fb0e3dbe1ff5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/nach-dem-anschlag-in-magdeburg-warum-von-friedrich-merz-so-wenig-zu-hoeren-ist](https://www.spiegel.de/politik/deutschland/nach-dem-anschlag-in-magdeburg-warum-von-friedrich-merz-so-wenig-zu-hoeren-ist-a-25baaf73-332f-4c6f-84e5-75aa5c52bf20#ref=rss)
+### finnland
 
-* [https://www.spiegel.de/panorama/wetter-zu-weihnachten-sonne-und-schnee-gibts-nur-im-sueden](https://www.spiegel.de/panorama/wetter-zu-weihnachten-sonne-und-schnee-gibts-nur-im-sueden-a-4f99db14-f852-4592-b81a-4ec243865065#ref=rss)
-### alpen
-
-* [https://www.spiegel.de/panorama/wetter-zu-weihnachten-sonne-und-schnee-gibts-nur-im-sueden](https://www.spiegel.de/panorama/wetter-zu-weihnachten-sonne-und-schnee-gibts-nur-im-sueden-a-4f99db14-f852-4592-b81a-4ec243865065#ref=rss)
-* [https://www.spiegel.de/panorama/frankreich-rettungskraefte-befreien-240-skifahrer-in-den-alpen-aus-sessellift](https://www.spiegel.de/panorama/frankreich-rettungskraefte-befreien-240-skifahrer-in-den-alpen-aus-sessellift-a-e832b3b0-e861-485d-b163-8cd8e5f394b4#ref=rss)
-### hoch
-
-* [https://www.spiegel.de/panorama/wetter-zu-weihnachten-sonne-und-schnee-gibts-nur-im-sueden](https://www.spiegel.de/panorama/wetter-zu-weihnachten-sonne-und-schnee-gibts-nur-im-sueden-a-4f99db14-f852-4592-b81a-4ec243865065#ref=rss)
-* [https://www.spiegel.de/panorama/frankreich-rettungskraefte-befreien-240-skifahrer-in-den-alpen-aus-sessellift](https://www.spiegel.de/panorama/frankreich-rettungskraefte-befreien-240-skifahrer-in-den-alpen-aus-sessellift-a-e832b3b0-e861-485d-b163-8cd8e5f394b4#ref=rss)
+* [https://www.spiegel.de/netzwelt/finnland-unterseekabel-zwischen-estland-und-finnland-gestoert](https://www.spiegel.de/netzwelt/finnland-unterseekabel-zwischen-estland-und-finnland-gestoert-a-bab8d38a-3d42-4b95-bb35-08d8a8fd92da#ref=rss)
 ### ohne
 
+* [https://www.spiegel.de/gesundheit/ernaehrung/abnehmspritzen-gewicht-verlieren-ohne-diaet-spiegel-tv-fuer-arte-re](https://www.spiegel.de/gesundheit/ernaehrung/abnehmspritzen-gewicht-verlieren-ohne-diaet-spiegel-tv-fuer-arte-re-a-da9fd200-e327-4659-90c8-3966b5d876b0#ref=rss)
+* [https://www.spiegel.de/familie/tipps-fuer-vaeter-waehrend-der-geburt-im-kreisssaal-werden-wahre-helden-geboren](https://www.spiegel.de/familie/tipps-fuer-vaeter-waehrend-der-geburt-im-kreisssaal-werden-wahre-helden-geboren-a-d86bec24-6976-4520-a73b-ee4ec7382dd1#ref=rss)
 * [https://www.spiegel.de/start/kochen-ohne-kohle-guenstige-rezepte-die-sie-2024-besonders-interessiert-haben](https://www.spiegel.de/start/kochen-ohne-kohle-guenstige-rezepte-die-sie-2024-besonders-interessiert-haben-a-c64417c4-b41d-4b7c-97f9-72dc745c3ee7#ref=rss)
-* [https://www.spiegel.de/start/domschweizer-in-koeln-ich-kann-mir-ein-leben-ohne-den-dom-nicht-vorstellen](https://www.spiegel.de/start/domschweizer-in-koeln-ich-kann-mir-ein-leben-ohne-den-dom-nicht-vorstellen-a-eb108754-c24e-49fe-8f0f-3be8054e7a08#ref=rss)
+### kasachstan
+
+* [https://www.spiegel.de/ausland/kasachstan-38-tote-und-29-ueberlebende-bei-flugzeugabsturz-offenbar-ein-elfjaehriges-maedchen-mit-deutscher-staatsangehoerigkeit-unter-den-ueberlebenden](https://www.spiegel.de/ausland/kasachstan-38-tote-und-29-ueberlebende-bei-flugzeugabsturz-offenbar-ein-elfjaehriges-maedchen-mit-deutscher-staatsangehoerigkeit-unter-den-ueberlebenden-a-327b597e-63b6-4a8a-a718-56d73b199ba7#ref=rss)
+* [https://www.spiegel.de/ausland/aserbaidschan-video-zeigt-flugzeugabsturz-in-kasachstan-mehrere-ueberlebende](https://www.spiegel.de/ausland/aserbaidschan-video-zeigt-flugzeugabsturz-in-kasachstan-mehrere-ueberlebende-a-c6584090-a184-4df0-83a4-9f8aea9a338a#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/ausland/kasachstan-38-tote-und-29-ueberlebende-bei-flugzeugabsturz-offenbar-ein-elfjaehriges-maedchen-mit-deutscher-staatsangehoerigkeit-unter-den-ueberlebenden](https://www.spiegel.de/ausland/kasachstan-38-tote-und-29-ueberlebende-bei-flugzeugabsturz-offenbar-ein-elfjaehriges-maedchen-mit-deutscher-staatsangehoerigkeit-unter-den-ueberlebenden-a-327b597e-63b6-4a8a-a718-56d73b199ba7#ref=rss)
+* [https://www.spiegel.de/ausland/aserbaidschan-video-zeigt-flugzeugabsturz-in-kasachstan-mehrere-ueberlebende](https://www.spiegel.de/ausland/aserbaidschan-video-zeigt-flugzeugabsturz-in-kasachstan-mehrere-ueberlebende-a-c6584090-a184-4df0-83a4-9f8aea9a338a#ref=rss)
+### mädchen
+
+* [https://www.spiegel.de/ausland/kasachstan-38-tote-und-29-ueberlebende-bei-flugzeugabsturz-offenbar-ein-elfjaehriges-maedchen-mit-deutscher-staatsangehoerigkeit-unter-den-ueberlebenden](https://www.spiegel.de/ausland/kasachstan-38-tote-und-29-ueberlebende-bei-flugzeugabsturz-offenbar-ein-elfjaehriges-maedchen-mit-deutscher-staatsangehoerigkeit-unter-den-ueberlebenden-a-327b597e-63b6-4a8a-a718-56d73b199ba7#ref=rss)
+* [https://www.spiegel.de/panorama/leute/sido-stellt-12-jaehrige-bei-weihnachtsshow-bloss](https://www.spiegel.de/panorama/leute/sido-stellt-12-jaehrige-bei-weihnachtsshow-bloss-a-8a61c1e5-c0a3-4646-a60b-a93856a7ffe6#ref=rss)
+### waffen
+
+* [https://www.spiegel.de/ausland/syrien-erdogan-fordert-syrische-kurden-zur-niederlegung-der-waffen-auf](https://www.spiegel.de/ausland/syrien-erdogan-fordert-syrische-kurden-zur-niederlegung-der-waffen-auf-a-d17a7489-7d67-42af-936e-3e732421a0d8#ref=rss)
+* [https://www.spiegel.de/ausland/weihnachtsansprache-papst-franziskus-ruft-in-weihnachtsansprache-zum-frieden-auf](https://www.spiegel.de/ausland/weihnachtsansprache-papst-franziskus-ruft-in-weihnachtsansprache-zum-frieden-auf-a-0bf4f729-6d15-4be1-bbc2-427ff43e3d46#ref=rss)
+### armee
+
+* [https://www.spiegel.de/ausland/wehrdienst-in-russland-in-moskau-werden-junge-maenner-mit-zwang-eingezogen](https://www.spiegel.de/ausland/wehrdienst-in-russland-in-moskau-werden-junge-maenner-mit-zwang-eingezogen-a-0e349a65-cdee-45ff-8634-8922a8d2bfda#ref=rss)
+* [https://www.spiegel.de/ausland/israel-israelische-armee-faengt-ballistische-rakete-aus-dem-jemen-ab](https://www.spiegel.de/ausland/israel-israelische-armee-faengt-ballistische-rakete-aus-dem-jemen-ab-a-4ed1c451-9eb7-46dc-965f-d8f7270c7e06#ref=rss)
+### väter
+
+* [https://www.spiegel.de/familie/tipps-fuer-vaeter-waehrend-der-geburt-im-kreisssaal-werden-wahre-helden-geboren](https://www.spiegel.de/familie/tipps-fuer-vaeter-waehrend-der-geburt-im-kreisssaal-werden-wahre-helden-geboren-a-d86bec24-6976-4520-a73b-ee4ec7382dd1#ref=rss)
+### mindestens
+
+* [https://www.spiegel.de/ausland/afghanistan-mindestens-46-tote-nach-pakistanischen-luftangriffen](https://www.spiegel.de/ausland/afghanistan-mindestens-46-tote-nach-pakistanischen-luftangriffen-a-53ffa722-a786-4a42-a6e8-9de63c31d516#ref=rss)
+* [https://www.spiegel.de/ausland/haiti-mindestens-drei-menschen-sterben-durch-schuesse-in-krankenhaus](https://www.spiegel.de/ausland/haiti-mindestens-drei-menschen-sterben-durch-schuesse-in-krankenhaus-a-7da1dae8-426b-4f92-bf67-5f76c85b8999#ref=rss)
+### 2024
+
+* [https://www.spiegel.de/sport/fussball/dfb-deutschlands-fussballer-fuehren-tv-ranking-2024-an](https://www.spiegel.de/sport/fussball/dfb-deutschlands-fussballer-fuehren-tv-ranking-2024-an-a-2527be62-8a1c-4d99-8e24-2cd21f131c01#ref=rss)
+* [https://www.spiegel.de/start/kochen-ohne-kohle-guenstige-rezepte-die-sie-2024-besonders-interessiert-haben](https://www.spiegel.de/start/kochen-ohne-kohle-guenstige-rezepte-die-sie-2024-besonders-interessiert-haben-a-c64417c4-b41d-4b7c-97f9-72dc745c3ee7#ref=rss)
+### anschlag
+
+* [https://www.spiegel.de/panorama/predigten-an-weihnachten-wie-kirchenvertreter-auf-die-duestere-weltlage-reagieren](https://www.spiegel.de/panorama/predigten-an-weihnachten-wie-kirchenvertreter-auf-die-duestere-weltlage-reagieren-a-b25175b2-9bff-4447-a1bb-45e2ed6e3b34#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/nach-dem-anschlag-in-magdeburg-warum-von-friedrich-merz-so-wenig-zu-hoeren-ist](https://www.spiegel.de/politik/deutschland/nach-dem-anschlag-in-magdeburg-warum-von-friedrich-merz-so-wenig-zu-hoeren-ist-a-25baaf73-332f-4c6f-84e5-75aa5c52bf20#ref=rss)
+### schnee
+
+* [https://www.spiegel.de/panorama/leute/sido-stellt-12-jaehrige-bei-weihnachtsshow-bloss](https://www.spiegel.de/panorama/leute/sido-stellt-12-jaehrige-bei-weihnachtsshow-bloss-a-8a61c1e5-c0a3-4646-a60b-a93856a7ffe6#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-zu-weihnachten-sonne-und-schnee-gibts-nur-im-sueden](https://www.spiegel.de/panorama/wetter-zu-weihnachten-sonne-und-schnee-gibts-nur-im-sueden-a-4f99db14-f852-4592-b81a-4ec243865065#ref=rss)
+### bundespräsidenten
+
+* [https://www.spiegel.de/politik/weihnachtsansprache-des-bundespraesidenten-frank-walter-steinmeier-ruft-zu-zusammenhalt-auf](https://www.spiegel.de/politik/weihnachtsansprache-des-bundespraesidenten-frank-walter-steinmeier-ruft-zu-zusammenhalt-auf-a-0058293b-fd64-488a-bf4d-fb0e3dbe1ff5#ref=rss)
+### frankwalter
+
+* [https://www.spiegel.de/politik/weihnachtsansprache-des-bundespraesidenten-frank-walter-steinmeier-ruft-zu-zusammenhalt-auf](https://www.spiegel.de/politik/weihnachtsansprache-des-bundespraesidenten-frank-walter-steinmeier-ruft-zu-zusammenhalt-auf-a-0058293b-fd64-488a-bf4d-fb0e3dbe1ff5#ref=rss)
+### steinmeier
+
+* [https://www.spiegel.de/politik/weihnachtsansprache-des-bundespraesidenten-frank-walter-steinmeier-ruft-zu-zusammenhalt-auf](https://www.spiegel.de/politik/weihnachtsansprache-des-bundespraesidenten-frank-walter-steinmeier-ruft-zu-zusammenhalt-auf-a-0058293b-fd64-488a-bf4d-fb0e3dbe1ff5#ref=rss)
+### ruft
+
+* [https://www.spiegel.de/politik/weihnachtsansprache-des-bundespraesidenten-frank-walter-steinmeier-ruft-zu-zusammenhalt-auf](https://www.spiegel.de/politik/weihnachtsansprache-des-bundespraesidenten-frank-walter-steinmeier-ruft-zu-zusammenhalt-auf-a-0058293b-fd64-488a-bf4d-fb0e3dbe1ff5#ref=rss)
+* [https://www.spiegel.de/ausland/weihnachtsansprache-papst-franziskus-ruft-in-weihnachtsansprache-zum-frieden-auf](https://www.spiegel.de/ausland/weihnachtsansprache-papst-franziskus-ruft-in-weihnachtsansprache-zum-frieden-auf-a-0bf4f729-6d15-4be1-bbc2-427ff43e3d46#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/politik/weihnachtsansprache-des-bundespraesidenten-frank-walter-steinmeier-ruft-zu-zusammenhalt-auf](https://www.spiegel.de/politik/weihnachtsansprache-des-bundespraesidenten-frank-walter-steinmeier-ruft-zu-zusammenhalt-auf-a-0058293b-fd64-488a-bf4d-fb0e3dbe1ff5#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-zu-weihnachten-sonne-und-schnee-gibts-nur-im-sueden](https://www.spiegel.de/panorama/wetter-zu-weihnachten-sonne-und-schnee-gibts-nur-im-sueden-a-4f99db14-f852-4592-b81a-4ec243865065#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/politik/weihnachtsansprache-des-bundespraesidenten-frank-walter-steinmeier-ruft-zu-zusammenhalt-auf](https://www.spiegel.de/politik/weihnachtsansprache-des-bundespraesidenten-frank-walter-steinmeier-ruft-zu-zusammenhalt-auf-a-0058293b-fd64-488a-bf4d-fb0e3dbe1ff5#ref=rss)
+* [https://www.spiegel.de/ausland/obdachlosigkeit-in-den-usa-wie-kevin-adler-menschen-wieder-mit-ihren-familien-vereint](https://www.spiegel.de/ausland/obdachlosigkeit-in-den-usa-wie-kevin-adler-menschen-wieder-mit-ihren-familien-vereint-a-392e66c6-4933-4e54-a1fd-7748cca25764#ref=rss)
+### voller
+
+* [https://www.spiegel.de/politik/weihnachtsansprache-des-bundespraesidenten-frank-walter-steinmeier-ruft-zu-zusammenhalt-auf](https://www.spiegel.de/politik/weihnachtsansprache-des-bundespraesidenten-frank-walter-steinmeier-ruft-zu-zusammenhalt-auf-a-0058293b-fd64-488a-bf4d-fb0e3dbe1ff5#ref=rss)
+* [https://www.spiegel.de/ausland/betlehem-kardinal-bekundet-waehrend-mitternachtsmesse-mitgefuehl-fuer-palaestinenser](https://www.spiegel.de/ausland/betlehem-kardinal-bekundet-waehrend-mitternachtsmesse-mitgefuehl-fuer-palaestinenser-a-bbf6ced2-42ba-4bd6-a670-2cb1bc5b1a4b#ref=rss)
+### unterseekabel
+
+* [https://www.spiegel.de/netzwelt/finnland-unterseekabel-zwischen-estland-und-finnland-gestoert](https://www.spiegel.de/netzwelt/finnland-unterseekabel-zwischen-estland-und-finnland-gestoert-a-bab8d38a-3d42-4b95-bb35-08d8a8fd92da#ref=rss)
+### estland
+
+* [https://www.spiegel.de/netzwelt/finnland-unterseekabel-zwischen-estland-und-finnland-gestoert](https://www.spiegel.de/netzwelt/finnland-unterseekabel-zwischen-estland-und-finnland-gestoert-a-bab8d38a-3d42-4b95-bb35-08d8a8fd92da#ref=rss)
+### ika
+
+* [https://www.spiegel.de/familie/der-grosse-reset-von-ika-sperling-was-tun-wenn-man-seinen-vater-an-verschwoerungstheorien-verliert](https://www.spiegel.de/familie/der-grosse-reset-von-ika-sperling-was-tun-wenn-man-seinen-vater-an-verschwoerungstheorien-verliert-a-32c7118b-5600-4d06-9ae4-2e84539574c3#ref=rss)
+### sperling
+
+* [https://www.spiegel.de/familie/der-grosse-reset-von-ika-sperling-was-tun-wenn-man-seinen-vater-an-verschwoerungstheorien-verliert](https://www.spiegel.de/familie/der-grosse-reset-von-ika-sperling-was-tun-wenn-man-seinen-vater-an-verschwoerungstheorien-verliert-a-32c7118b-5600-4d06-9ae4-2e84539574c3#ref=rss)
+### vater
+
+* [https://www.spiegel.de/familie/der-grosse-reset-von-ika-sperling-was-tun-wenn-man-seinen-vater-an-verschwoerungstheorien-verliert](https://www.spiegel.de/familie/der-grosse-reset-von-ika-sperling-was-tun-wenn-man-seinen-vater-an-verschwoerungstheorien-verliert-a-32c7118b-5600-4d06-9ae4-2e84539574c3#ref=rss)
+### verschwörungstheorien
+
+* [https://www.spiegel.de/familie/der-grosse-reset-von-ika-sperling-was-tun-wenn-man-seinen-vater-an-verschwoerungstheorien-verliert](https://www.spiegel.de/familie/der-grosse-reset-von-ika-sperling-was-tun-wenn-man-seinen-vater-an-verschwoerungstheorien-verliert-a-32c7118b-5600-4d06-9ae4-2e84539574c3#ref=rss)
+### verliert
+
+* [https://www.spiegel.de/familie/der-grosse-reset-von-ika-sperling-was-tun-wenn-man-seinen-vater-an-verschwoerungstheorien-verliert](https://www.spiegel.de/familie/der-grosse-reset-von-ika-sperling-was-tun-wenn-man-seinen-vater-an-verschwoerungstheorien-verliert-a-32c7118b-5600-4d06-9ae4-2e84539574c3#ref=rss)
+### weg
+
+* [https://www.spiegel.de/familie/der-grosse-reset-von-ika-sperling-was-tun-wenn-man-seinen-vater-an-verschwoerungstheorien-verliert](https://www.spiegel.de/familie/der-grosse-reset-von-ika-sperling-was-tun-wenn-man-seinen-vater-an-verschwoerungstheorien-verliert-a-32c7118b-5600-4d06-9ae4-2e84539574c3#ref=rss)
+* [https://www.spiegel.de/ausland/aserbaidschan-video-zeigt-flugzeugabsturz-in-kasachstan-mehrere-ueberlebende](https://www.spiegel.de/ausland/aserbaidschan-video-zeigt-flugzeugabsturz-in-kasachstan-mehrere-ueberlebende-a-c6584090-a184-4df0-83a4-9f8aea9a338a#ref=rss)
+### abnehmspritzen
+
+* [https://www.spiegel.de/gesundheit/ernaehrung/abnehmspritzen-gewicht-verlieren-ohne-diaet-spiegel-tv-fuer-arte-re](https://www.spiegel.de/gesundheit/ernaehrung/abnehmspritzen-gewicht-verlieren-ohne-diaet-spiegel-tv-fuer-arte-re-a-da9fd200-e327-4659-90c8-3966b5d876b0#ref=rss)
+### spiegel
+
+* [https://www.spiegel.de/gesundheit/ernaehrung/abnehmspritzen-gewicht-verlieren-ohne-diaet-spiegel-tv-fuer-arte-re](https://www.spiegel.de/gesundheit/ernaehrung/abnehmspritzen-gewicht-verlieren-ohne-diaet-spiegel-tv-fuer-arte-re-a-da9fd200-e327-4659-90c8-3966b5d876b0#ref=rss)
+### tv
+
+* [https://www.spiegel.de/gesundheit/ernaehrung/abnehmspritzen-gewicht-verlieren-ohne-diaet-spiegel-tv-fuer-arte-re](https://www.spiegel.de/gesundheit/ernaehrung/abnehmspritzen-gewicht-verlieren-ohne-diaet-spiegel-tv-fuer-arte-re-a-da9fd200-e327-4659-90c8-3966b5d876b0#ref=rss)
+### arte
+
+* [https://www.spiegel.de/gesundheit/ernaehrung/abnehmspritzen-gewicht-verlieren-ohne-diaet-spiegel-tv-fuer-arte-re](https://www.spiegel.de/gesundheit/ernaehrung/abnehmspritzen-gewicht-verlieren-ohne-diaet-spiegel-tv-fuer-arte-re-a-da9fd200-e327-4659-90c8-3966b5d876b0#ref=rss)
+### tote
+
+* [https://www.spiegel.de/ausland/kasachstan-38-tote-und-29-ueberlebende-bei-flugzeugabsturz-offenbar-ein-elfjaehriges-maedchen-mit-deutscher-staatsangehoerigkeit-unter-den-ueberlebenden](https://www.spiegel.de/ausland/kasachstan-38-tote-und-29-ueberlebende-bei-flugzeugabsturz-offenbar-ein-elfjaehriges-maedchen-mit-deutscher-staatsangehoerigkeit-unter-den-ueberlebenden-a-327b597e-63b6-4a8a-a718-56d73b199ba7#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-mindestens-46-tote-nach-pakistanischen-luftangriffen](https://www.spiegel.de/ausland/afghanistan-mindestens-46-tote-nach-pakistanischen-luftangriffen-a-53ffa722-a786-4a42-a6e8-9de63c31d516#ref=rss)
+### überlebende
+
+* [https://www.spiegel.de/ausland/kasachstan-38-tote-und-29-ueberlebende-bei-flugzeugabsturz-offenbar-ein-elfjaehriges-maedchen-mit-deutscher-staatsangehoerigkeit-unter-den-ueberlebenden](https://www.spiegel.de/ausland/kasachstan-38-tote-und-29-ueberlebende-bei-flugzeugabsturz-offenbar-ein-elfjaehriges-maedchen-mit-deutscher-staatsangehoerigkeit-unter-den-ueberlebenden-a-327b597e-63b6-4a8a-a718-56d73b199ba7#ref=rss)
+* [https://www.spiegel.de/ausland/aserbaidschan-video-zeigt-flugzeugabsturz-in-kasachstan-mehrere-ueberlebende](https://www.spiegel.de/ausland/aserbaidschan-video-zeigt-flugzeugabsturz-in-kasachstan-mehrere-ueberlebende-a-c6584090-a184-4df0-83a4-9f8aea9a338a#ref=rss)
+### flugzeugabsturz
+
+* [https://www.spiegel.de/ausland/kasachstan-38-tote-und-29-ueberlebende-bei-flugzeugabsturz-offenbar-ein-elfjaehriges-maedchen-mit-deutscher-staatsangehoerigkeit-unter-den-ueberlebenden](https://www.spiegel.de/ausland/kasachstan-38-tote-und-29-ueberlebende-bei-flugzeugabsturz-offenbar-ein-elfjaehriges-maedchen-mit-deutscher-staatsangehoerigkeit-unter-den-ueberlebenden-a-327b597e-63b6-4a8a-a718-56d73b199ba7#ref=rss)
+* [https://www.spiegel.de/ausland/aserbaidschan-video-zeigt-flugzeugabsturz-in-kasachstan-mehrere-ueberlebende](https://www.spiegel.de/ausland/aserbaidschan-video-zeigt-flugzeugabsturz-in-kasachstan-mehrere-ueberlebende-a-c6584090-a184-4df0-83a4-9f8aea9a338a#ref=rss)
+### elfjähriges
+
+* [https://www.spiegel.de/ausland/kasachstan-38-tote-und-29-ueberlebende-bei-flugzeugabsturz-offenbar-ein-elfjaehriges-maedchen-mit-deutscher-staatsangehoerigkeit-unter-den-ueberlebenden](https://www.spiegel.de/ausland/kasachstan-38-tote-und-29-ueberlebende-bei-flugzeugabsturz-offenbar-ein-elfjaehriges-maedchen-mit-deutscher-staatsangehoerigkeit-unter-den-ueberlebenden-a-327b597e-63b6-4a8a-a718-56d73b199ba7#ref=rss)
+### deutscher
+
+* [https://www.spiegel.de/ausland/kasachstan-38-tote-und-29-ueberlebende-bei-flugzeugabsturz-offenbar-ein-elfjaehriges-maedchen-mit-deutscher-staatsangehoerigkeit-unter-den-ueberlebenden](https://www.spiegel.de/ausland/kasachstan-38-tote-und-29-ueberlebende-bei-flugzeugabsturz-offenbar-ein-elfjaehriges-maedchen-mit-deutscher-staatsangehoerigkeit-unter-den-ueberlebenden-a-327b597e-63b6-4a8a-a718-56d73b199ba7#ref=rss)
+### staatsangehörigkeit
+
+* [https://www.spiegel.de/ausland/kasachstan-38-tote-und-29-ueberlebende-bei-flugzeugabsturz-offenbar-ein-elfjaehriges-maedchen-mit-deutscher-staatsangehoerigkeit-unter-den-ueberlebenden](https://www.spiegel.de/ausland/kasachstan-38-tote-und-29-ueberlebende-bei-flugzeugabsturz-offenbar-ein-elfjaehriges-maedchen-mit-deutscher-staatsangehoerigkeit-unter-den-ueberlebenden-a-327b597e-63b6-4a8a-a718-56d73b199ba7#ref=rss)
+### überlebenden
+
+* [https://www.spiegel.de/ausland/kasachstan-38-tote-und-29-ueberlebende-bei-flugzeugabsturz-offenbar-ein-elfjaehriges-maedchen-mit-deutscher-staatsangehoerigkeit-unter-den-ueberlebenden](https://www.spiegel.de/ausland/kasachstan-38-tote-und-29-ueberlebende-bei-flugzeugabsturz-offenbar-ein-elfjaehriges-maedchen-mit-deutscher-staatsangehoerigkeit-unter-den-ueberlebenden-a-327b597e-63b6-4a8a-a718-56d73b199ba7#ref=rss)
+### syrien
+
+* [https://www.spiegel.de/ausland/syrien-erdogan-fordert-syrische-kurden-zur-niederlegung-der-waffen-auf](https://www.spiegel.de/ausland/syrien-erdogan-fordert-syrische-kurden-zur-niederlegung-der-waffen-auf-a-d17a7489-7d67-42af-936e-3e732421a0d8#ref=rss)
+### erdoğan
+
+* [https://www.spiegel.de/ausland/syrien-erdogan-fordert-syrische-kurden-zur-niederlegung-der-waffen-auf](https://www.spiegel.de/ausland/syrien-erdogan-fordert-syrische-kurden-zur-niederlegung-der-waffen-auf-a-d17a7489-7d67-42af-936e-3e732421a0d8#ref=rss)
+### kurden
+
+* [https://www.spiegel.de/ausland/syrien-erdogan-fordert-syrische-kurden-zur-niederlegung-der-waffen-auf](https://www.spiegel.de/ausland/syrien-erdogan-fordert-syrische-kurden-zur-niederlegung-der-waffen-auf-a-d17a7489-7d67-42af-936e-3e732421a0d8#ref=rss)
+### usa
+
+* [https://www.spiegel.de/ausland/obdachlosigkeit-in-den-usa-wie-kevin-adler-menschen-wieder-mit-ihren-familien-vereint](https://www.spiegel.de/ausland/obdachlosigkeit-in-den-usa-wie-kevin-adler-menschen-wieder-mit-ihren-familien-vereint-a-392e66c6-4933-4e54-a1fd-7748cca25764#ref=rss)
+* [https://www.spiegel.de/ausland/usa-unter-donald-trump-was-2025-in-den-vereinigten-staaten-wichtig-wird](https://www.spiegel.de/ausland/usa-unter-donald-trump-was-2025-in-den-vereinigten-staaten-wichtig-wird-a-001036b8-6585-4215-889a-5298e352743a#ref=rss)
+### kevin
+
+* [https://www.spiegel.de/ausland/obdachlosigkeit-in-den-usa-wie-kevin-adler-menschen-wieder-mit-ihren-familien-vereint](https://www.spiegel.de/ausland/obdachlosigkeit-in-den-usa-wie-kevin-adler-menschen-wieder-mit-ihren-familien-vereint-a-392e66c6-4933-4e54-a1fd-7748cca25764#ref=rss)
+### adler
+
+* [https://www.spiegel.de/ausland/obdachlosigkeit-in-den-usa-wie-kevin-adler-menschen-wieder-mit-ihren-familien-vereint](https://www.spiegel.de/ausland/obdachlosigkeit-in-den-usa-wie-kevin-adler-menschen-wieder-mit-ihren-familien-vereint-a-392e66c6-4933-4e54-a1fd-7748cca25764#ref=rss)
+### familien
+
+* [https://www.spiegel.de/ausland/obdachlosigkeit-in-den-usa-wie-kevin-adler-menschen-wieder-mit-ihren-familien-vereint](https://www.spiegel.de/ausland/obdachlosigkeit-in-den-usa-wie-kevin-adler-menschen-wieder-mit-ihren-familien-vereint-a-392e66c6-4933-4e54-a1fd-7748cca25764#ref=rss)
+* [https://www.spiegel.de/panorama/royals-in-grossbritannien-fans-beschenken-kate-und-kinder-beim-royalen-weihnachtsfest](https://www.spiegel.de/panorama/royals-in-grossbritannien-fans-beschenken-kate-und-kinder-beim-royalen-weihnachtsfest-a-b91462bd-ad69-4c06-95e6-bf7b48e29582#ref=rss)
+### familie
+
+* [https://www.spiegel.de/ausland/obdachlosigkeit-in-den-usa-wie-kevin-adler-menschen-wieder-mit-ihren-familien-vereint](https://www.spiegel.de/ausland/obdachlosigkeit-in-den-usa-wie-kevin-adler-menschen-wieder-mit-ihren-familien-vereint-a-392e66c6-4933-4e54-a1fd-7748cca25764#ref=rss)
+* [https://www.spiegel.de/panorama/royals-in-grossbritannien-fans-beschenken-kate-und-kinder-beim-royalen-weihnachtsfest](https://www.spiegel.de/panorama/royals-in-grossbritannien-fans-beschenken-kate-und-kinder-beim-royalen-weihnachtsfest-a-b91462bd-ad69-4c06-95e6-bf7b48e29582#ref=rss)
+### moskau
+
+* [https://www.spiegel.de/ausland/wehrdienst-in-russland-in-moskau-werden-junge-maenner-mit-zwang-eingezogen](https://www.spiegel.de/ausland/wehrdienst-in-russland-in-moskau-werden-junge-maenner-mit-zwang-eingezogen-a-0e349a65-cdee-45ff-8634-8922a8d2bfda#ref=rss)
+### junge
+
+* [https://www.spiegel.de/ausland/wehrdienst-in-russland-in-moskau-werden-junge-maenner-mit-zwang-eingezogen](https://www.spiegel.de/ausland/wehrdienst-in-russland-in-moskau-werden-junge-maenner-mit-zwang-eingezogen-a-0e349a65-cdee-45ff-8634-8922a8d2bfda#ref=rss)
+### folge
+
+* [https://www.spiegel.de/ausland/wehrdienst-in-russland-in-moskau-werden-junge-maenner-mit-zwang-eingezogen](https://www.spiegel.de/ausland/wehrdienst-in-russland-in-moskau-werden-junge-maenner-mit-zwang-eingezogen-a-0e349a65-cdee-45ff-8634-8922a8d2bfda#ref=rss)
+* [https://www.spiegel.de/ausland/israel-israelische-armee-faengt-ballistische-rakete-aus-dem-jemen-ab](https://www.spiegel.de/ausland/israel-israelische-armee-faengt-ballistische-rakete-aus-dem-jemen-ab-a-4ed1c451-9eb7-46dc-965f-d8f7270c7e06#ref=rss)
+### papst
+
+* [https://www.spiegel.de/ausland/weihnachtsansprache-papst-franziskus-ruft-in-weihnachtsansprache-zum-frieden-auf](https://www.spiegel.de/ausland/weihnachtsansprache-papst-franziskus-ruft-in-weihnachtsansprache-zum-frieden-auf-a-0bf4f729-6d15-4be1-bbc2-427ff43e3d46#ref=rss)
+### franziskus
+
+* [https://www.spiegel.de/ausland/weihnachtsansprache-papst-franziskus-ruft-in-weihnachtsansprache-zum-frieden-auf](https://www.spiegel.de/ausland/weihnachtsansprache-papst-franziskus-ruft-in-weihnachtsansprache-zum-frieden-auf-a-0bf4f729-6d15-4be1-bbc2-427ff43e3d46#ref=rss)
+### royals
+
+* [https://www.spiegel.de/panorama/royals-in-grossbritannien-fans-beschenken-kate-und-kinder-beim-royalen-weihnachtsfest](https://www.spiegel.de/panorama/royals-in-grossbritannien-fans-beschenken-kate-und-kinder-beim-royalen-weihnachtsfest-a-b91462bd-ad69-4c06-95e6-bf7b48e29582#ref=rss)
+### fans
+
+* [https://www.spiegel.de/panorama/royals-in-grossbritannien-fans-beschenken-kate-und-kinder-beim-royalen-weihnachtsfest](https://www.spiegel.de/panorama/royals-in-grossbritannien-fans-beschenken-kate-und-kinder-beim-royalen-weihnachtsfest-a-b91462bd-ad69-4c06-95e6-bf7b48e29582#ref=rss)
+* [https://www.spiegel.de/panorama/leute/sido-stellt-12-jaehrige-bei-weihnachtsshow-bloss](https://www.spiegel.de/panorama/leute/sido-stellt-12-jaehrige-bei-weihnachtsshow-bloss-a-8a61c1e5-c0a3-4646-a60b-a93856a7ffe6#ref=rss)
+### tradition
+
+* [https://www.spiegel.de/panorama/royals-in-grossbritannien-fans-beschenken-kate-und-kinder-beim-royalen-weihnachtsfest](https://www.spiegel.de/panorama/royals-in-grossbritannien-fans-beschenken-kate-und-kinder-beim-royalen-weihnachtsfest-a-b91462bd-ad69-4c06-95e6-bf7b48e29582#ref=rss)
+* [https://www.spiegel.de/panorama/tradition-weihnachtsbaden-und-spruuung](https://www.spiegel.de/panorama/tradition-weihnachtsbaden-und-spruuung-a-fd5d7667-7b00-4f43-a4b6-893c0bc9fbfc#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/panorama/royals-in-grossbritannien-fans-beschenken-kate-und-kinder-beim-royalen-weihnachtsfest](https://www.spiegel.de/panorama/royals-in-grossbritannien-fans-beschenken-kate-und-kinder-beim-royalen-weihnachtsfest-a-b91462bd-ad69-4c06-95e6-bf7b48e29582#ref=rss)
+* [https://www.spiegel.de/ausland/aserbaidschan-video-zeigt-flugzeugabsturz-in-kasachstan-mehrere-ueberlebende](https://www.spiegel.de/ausland/aserbaidschan-video-zeigt-flugzeugabsturz-in-kasachstan-mehrere-ueberlebende-a-c6584090-a184-4df0-83a4-9f8aea9a338a#ref=rss)
+### welt
+
+* [https://www.spiegel.de/panorama/tradition-weihnachtsbaden-und-spruuung](https://www.spiegel.de/panorama/tradition-weihnachtsbaden-und-spruuung-a-fd5d7667-7b00-4f43-a4b6-893c0bc9fbfc#ref=rss)
+* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-franz-wagner-und-co-so-schlagen-sich-die-deutschen-profis](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-franz-wagner-und-co-so-schlagen-sich-die-deutschen-profis-a-efe5229c-a339-4900-b9e3-5d65ccef4c4f#ref=rss)
+### versprochen
+
+* [https://www.spiegel.de/panorama/tradition-weihnachtsbaden-und-spruuung](https://www.spiegel.de/panorama/tradition-weihnachtsbaden-und-spruuung-a-fd5d7667-7b00-4f43-a4b6-893c0bc9fbfc#ref=rss)
+* [https://www.spiegel.de/ausland/usa-unter-donald-trump-was-2025-in-den-vereinigten-staaten-wichtig-wird](https://www.spiegel.de/ausland/usa-unter-donald-trump-was-2025-in-den-vereinigten-staaten-wichtig-wird-a-001036b8-6585-4215-889a-5298e352743a#ref=rss)
+### besten
+
+* [https://www.spiegel.de/panorama/tradition-weihnachtsbaden-und-spruuung](https://www.spiegel.de/panorama/tradition-weihnachtsbaden-und-spruuung-a-fd5d7667-7b00-4f43-a4b6-893c0bc9fbfc#ref=rss)
+* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-franz-wagner-und-co-so-schlagen-sich-die-deutschen-profis](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-franz-wagner-und-co-so-schlagen-sich-die-deutschen-profis-a-efe5229c-a339-4900-b9e3-5d65ccef4c4f#ref=rss)
+### tipps
+
+* [https://www.spiegel.de/familie/tipps-fuer-vaeter-waehrend-der-geburt-im-kreisssaal-werden-wahre-helden-geboren](https://www.spiegel.de/familie/tipps-fuer-vaeter-waehrend-der-geburt-im-kreisssaal-werden-wahre-helden-geboren-a-d86bec24-6976-4520-a73b-ee4ec7382dd1#ref=rss)
+### kreißsaal
+
+* [https://www.spiegel.de/familie/tipps-fuer-vaeter-waehrend-der-geburt-im-kreisssaal-werden-wahre-helden-geboren](https://www.spiegel.de/familie/tipps-fuer-vaeter-waehrend-der-geburt-im-kreisssaal-werden-wahre-helden-geboren-a-d86bec24-6976-4520-a73b-ee4ec7382dd1#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/usa-unter-donald-trump-was-2025-in-den-vereinigten-staaten-wichtig-wird](https://www.spiegel.de/ausland/usa-unter-donald-trump-was-2025-in-den-vereinigten-staaten-wichtig-wird-a-001036b8-6585-4215-889a-5298e352743a#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/usa-unter-donald-trump-was-2025-in-den-vereinigten-staaten-wichtig-wird](https://www.spiegel.de/ausland/usa-unter-donald-trump-was-2025-in-den-vereinigten-staaten-wichtig-wird-a-001036b8-6585-4215-889a-5298e352743a#ref=rss)
+### afghanistan
+
+* [https://www.spiegel.de/ausland/afghanistan-mindestens-46-tote-nach-pakistanischen-luftangriffen](https://www.spiegel.de/ausland/afghanistan-mindestens-46-tote-nach-pakistanischen-luftangriffen-a-53ffa722-a786-4a42-a6e8-9de63c31d516#ref=rss)
+### 46
+
+* [https://www.spiegel.de/ausland/afghanistan-mindestens-46-tote-nach-pakistanischen-luftangriffen](https://www.spiegel.de/ausland/afghanistan-mindestens-46-tote-nach-pakistanischen-luftangriffen-a-53ffa722-a786-4a42-a6e8-9de63c31d516#ref=rss)
+### pakistanischen
+
+* [https://www.spiegel.de/ausland/afghanistan-mindestens-46-tote-nach-pakistanischen-luftangriffen](https://www.spiegel.de/ausland/afghanistan-mindestens-46-tote-nach-pakistanischen-luftangriffen-a-53ffa722-a786-4a42-a6e8-9de63c31d516#ref=rss)
+### starben
+
+* [https://www.spiegel.de/ausland/afghanistan-mindestens-46-tote-nach-pakistanischen-luftangriffen](https://www.spiegel.de/ausland/afghanistan-mindestens-46-tote-nach-pakistanischen-luftangriffen-a-53ffa722-a786-4a42-a6e8-9de63c31d516#ref=rss)
+* [https://www.spiegel.de/ausland/haiti-mindestens-drei-menschen-sterben-durch-schuesse-in-krankenhaus](https://www.spiegel.de/ausland/haiti-mindestens-drei-menschen-sterben-durch-schuesse-in-krankenhaus-a-7da1dae8-426b-4f92-bf67-5f76c85b8999#ref=rss)
+### betlehem
+
+* [https://www.spiegel.de/ausland/betlehem-kardinal-bekundet-waehrend-mitternachtsmesse-mitgefuehl-fuer-palaestinenser](https://www.spiegel.de/ausland/betlehem-kardinal-bekundet-waehrend-mitternachtsmesse-mitgefuehl-fuer-palaestinenser-a-bbf6ced2-42ba-4bd6-a670-2cb1bc5b1a4b#ref=rss)
+### bekundet
+
+* [https://www.spiegel.de/ausland/betlehem-kardinal-bekundet-waehrend-mitternachtsmesse-mitgefuehl-fuer-palaestinenser](https://www.spiegel.de/ausland/betlehem-kardinal-bekundet-waehrend-mitternachtsmesse-mitgefuehl-fuer-palaestinenser-a-bbf6ced2-42ba-4bd6-a670-2cb1bc5b1a4b#ref=rss)
+### mehrere
+
+* [https://www.spiegel.de/ausland/aserbaidschan-video-zeigt-flugzeugabsturz-in-kasachstan-mehrere-ueberlebende](https://www.spiegel.de/ausland/aserbaidschan-video-zeigt-flugzeugabsturz-in-kasachstan-mehrere-ueberlebende-a-c6584090-a184-4df0-83a4-9f8aea9a338a#ref=rss)
+* [https://www.spiegel.de/ausland/haiti-mindestens-drei-menschen-sterben-durch-schuesse-in-krankenhaus](https://www.spiegel.de/ausland/haiti-mindestens-drei-menschen-sterben-durch-schuesse-in-krankenhaus-a-7da1dae8-426b-4f92-bf67-5f76c85b8999#ref=rss)
+### formel
+
+* [https://www.spiegel.de/sport/formel1/formel-1-cadillac-beschaeftigt-sich-mit-mick-schumacher](https://www.spiegel.de/sport/formel1/formel-1-cadillac-beschaeftigt-sich-mit-mick-schumacher-a-916c790f-098d-4a84-8b37-944425ddd502#ref=rss)
+### 1
+
+* [https://www.spiegel.de/sport/formel1/formel-1-cadillac-beschaeftigt-sich-mit-mick-schumacher](https://www.spiegel.de/sport/formel1/formel-1-cadillac-beschaeftigt-sich-mit-mick-schumacher-a-916c790f-098d-4a84-8b37-944425ddd502#ref=rss)
+### beschäftigt
+
+* [https://www.spiegel.de/sport/formel1/formel-1-cadillac-beschaeftigt-sich-mit-mick-schumacher](https://www.spiegel.de/sport/formel1/formel-1-cadillac-beschaeftigt-sich-mit-mick-schumacher-a-916c790f-098d-4a84-8b37-944425ddd502#ref=rss)
+* [https://www.spiegel.de/panorama/predigten-an-weihnachten-wie-kirchenvertreter-auf-die-duestere-weltlage-reagieren](https://www.spiegel.de/panorama/predigten-an-weihnachten-wie-kirchenvertreter-auf-die-duestere-weltlage-reagieren-a-b25175b2-9bff-4447-a1bb-45e2ed6e3b34#ref=rss)
+### mick
+
+* [https://www.spiegel.de/sport/formel1/formel-1-cadillac-beschaeftigt-sich-mit-mick-schumacher](https://www.spiegel.de/sport/formel1/formel-1-cadillac-beschaeftigt-sich-mit-mick-schumacher-a-916c790f-098d-4a84-8b37-944425ddd502#ref=rss)
+### schumacher
+
+* [https://www.spiegel.de/sport/formel1/formel-1-cadillac-beschaeftigt-sich-mit-mick-schumacher](https://www.spiegel.de/sport/formel1/formel-1-cadillac-beschaeftigt-sich-mit-mick-schumacher-a-916c790f-098d-4a84-8b37-944425ddd502#ref=rss)
+### israelische
+
+* [https://www.spiegel.de/ausland/israel-israelische-armee-faengt-ballistische-rakete-aus-dem-jemen-ab](https://www.spiegel.de/ausland/israel-israelische-armee-faengt-ballistische-rakete-aus-dem-jemen-ab-a-4ed1c451-9eb7-46dc-965f-d8f7270c7e06#ref=rss)
+### jemen
+
+* [https://www.spiegel.de/ausland/israel-israelische-armee-faengt-ballistische-rakete-aus-dem-jemen-ab](https://www.spiegel.de/ausland/israel-israelische-armee-faengt-ballistische-rakete-aus-dem-jemen-ab-a-4ed1c451-9eb7-46dc-965f-d8f7270c7e06#ref=rss)
+### bisschen
+
+* [https://www.spiegel.de/reise/reisetrend-silent-travel-und-jetzt-einfach-mal-ein-bisschen-ruhe-bitte](https://www.spiegel.de/reise/reisetrend-silent-travel-und-jetzt-einfach-mal-ein-bisschen-ruhe-bitte-a-4866063f-e2cf-41a4-b32d-e8dd46535666#ref=rss)
+* [https://www.spiegel.de/panorama/leute/sido-stellt-12-jaehrige-bei-weihnachtsshow-bloss](https://www.spiegel.de/panorama/leute/sido-stellt-12-jaehrige-bei-weihnachtsshow-bloss-a-8a61c1e5-c0a3-4646-a60b-a93856a7ffe6#ref=rss)
+### jacke
+
+* [https://www.spiegel.de/panorama/auktionen-jacke-von-ss-chef-heinrich-himmler-fuer-1-5-millionen-euro-versteigert](https://www.spiegel.de/panorama/auktionen-jacke-von-ss-chef-heinrich-himmler-fuer-1-5-millionen-euro-versteigert-a-509bde8e-1c81-431e-9eb1-9de20ef00587#ref=rss)
+### sschef
+
+* [https://www.spiegel.de/panorama/auktionen-jacke-von-ss-chef-heinrich-himmler-fuer-1-5-millionen-euro-versteigert](https://www.spiegel.de/panorama/auktionen-jacke-von-ss-chef-heinrich-himmler-fuer-1-5-millionen-euro-versteigert-a-509bde8e-1c81-431e-9eb1-9de20ef00587#ref=rss)
+### heinrich
+
+* [https://www.spiegel.de/panorama/auktionen-jacke-von-ss-chef-heinrich-himmler-fuer-1-5-millionen-euro-versteigert](https://www.spiegel.de/panorama/auktionen-jacke-von-ss-chef-heinrich-himmler-fuer-1-5-millionen-euro-versteigert-a-509bde8e-1c81-431e-9eb1-9de20ef00587#ref=rss)
+### himmler
+
+* [https://www.spiegel.de/panorama/auktionen-jacke-von-ss-chef-heinrich-himmler-fuer-1-5-millionen-euro-versteigert](https://www.spiegel.de/panorama/auktionen-jacke-von-ss-chef-heinrich-himmler-fuer-1-5-millionen-euro-versteigert-a-509bde8e-1c81-431e-9eb1-9de20ef00587#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/panorama/auktionen-jacke-von-ss-chef-heinrich-himmler-fuer-1-5-millionen-euro-versteigert](https://www.spiegel.de/panorama/auktionen-jacke-von-ss-chef-heinrich-himmler-fuer-1-5-millionen-euro-versteigert-a-509bde8e-1c81-431e-9eb1-9de20ef00587#ref=rss)
+### euro
+
+* [https://www.spiegel.de/panorama/auktionen-jacke-von-ss-chef-heinrich-himmler-fuer-1-5-millionen-euro-versteigert](https://www.spiegel.de/panorama/auktionen-jacke-von-ss-chef-heinrich-himmler-fuer-1-5-millionen-euro-versteigert-a-509bde8e-1c81-431e-9eb1-9de20ef00587#ref=rss)
+### versteigert
+
+* [https://www.spiegel.de/panorama/auktionen-jacke-von-ss-chef-heinrich-himmler-fuer-1-5-millionen-euro-versteigert](https://www.spiegel.de/panorama/auktionen-jacke-von-ss-chef-heinrich-himmler-fuer-1-5-millionen-euro-versteigert-a-509bde8e-1c81-431e-9eb1-9de20ef00587#ref=rss)
+### großeltern
+
+* [https://www.spiegel.de/wissenschaft/mensch/grosseltern-erzaehlen-das-praegt-ihr-oma-und-opa-sein](https://www.spiegel.de/wissenschaft/mensch/grosseltern-erzaehlen-das-praegt-ihr-oma-und-opa-sein-a-c94ff1a6-fa77-4bee-8480-6cbb88138103#ref=rss)
+### oma
+
+* [https://www.spiegel.de/wissenschaft/mensch/grosseltern-erzaehlen-das-praegt-ihr-oma-und-opa-sein](https://www.spiegel.de/wissenschaft/mensch/grosseltern-erzaehlen-das-praegt-ihr-oma-und-opa-sein-a-c94ff1a6-fa77-4bee-8480-6cbb88138103#ref=rss)
+### opasein
+
+* [https://www.spiegel.de/wissenschaft/mensch/grosseltern-erzaehlen-das-praegt-ihr-oma-und-opa-sein](https://www.spiegel.de/wissenschaft/mensch/grosseltern-erzaehlen-das-praegt-ihr-oma-und-opa-sein-a-c94ff1a6-fa77-4bee-8480-6cbb88138103#ref=rss)
+### prägen
+
+* [https://www.spiegel.de/wissenschaft/mensch/grosseltern-erzaehlen-das-praegt-ihr-oma-und-opa-sein](https://www.spiegel.de/wissenschaft/mensch/grosseltern-erzaehlen-das-praegt-ihr-oma-und-opa-sein-a-c94ff1a6-fa77-4bee-8480-6cbb88138103#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/nach-dem-anschlag-in-magdeburg-warum-von-friedrich-merz-so-wenig-zu-hoeren-ist](https://www.spiegel.de/politik/deutschland/nach-dem-anschlag-in-magdeburg-warum-von-friedrich-merz-so-wenig-zu-hoeren-ist-a-25baaf73-332f-4c6f-84e5-75aa5c52bf20#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/sport/fussball/dfb-deutschlands-fussballer-fuehren-tv-ranking-2024-an](https://www.spiegel.de/sport/fussball/dfb-deutschlands-fussballer-fuehren-tv-ranking-2024-an-a-2527be62-8a1c-4d99-8e24-2cd21f131c01#ref=rss)
+* [https://www.spiegel.de/ausland/haiti-mindestens-drei-menschen-sterben-durch-schuesse-in-krankenhaus](https://www.spiegel.de/ausland/haiti-mindestens-drei-menschen-sterben-durch-schuesse-in-krankenhaus-a-7da1dae8-426b-4f92-bf67-5f76c85b8999#ref=rss)
+### spielen
+
+* [https://www.spiegel.de/sport/fussball/dfb-deutschlands-fussballer-fuehren-tv-ranking-2024-an](https://www.spiegel.de/sport/fussball/dfb-deutschlands-fussballer-fuehren-tv-ranking-2024-an-a-2527be62-8a1c-4d99-8e24-2cd21f131c01#ref=rss)
+* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-franz-wagner-und-co-so-schlagen-sich-die-deutschen-profis](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-franz-wagner-und-co-so-schlagen-sich-die-deutschen-profis-a-efe5229c-a339-4900-b9e3-5d65ccef4c4f#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/sport/fussball/dfb-deutschlands-fussballer-fuehren-tv-ranking-2024-an](https://www.spiegel.de/sport/fussball/dfb-deutschlands-fussballer-fuehren-tv-ranking-2024-an-a-2527be62-8a1c-4d99-8e24-2cd21f131c01#ref=rss)
+* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-franz-wagner-und-co-so-schlagen-sich-die-deutschen-profis](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-franz-wagner-und-co-so-schlagen-sich-die-deutschen-profis-a-efe5229c-a339-4900-b9e3-5d65ccef4c4f#ref=rss)
+### weihnachten
+
+* [https://www.spiegel.de/panorama/predigten-an-weihnachten-wie-kirchenvertreter-auf-die-duestere-weltlage-reagieren](https://www.spiegel.de/panorama/predigten-an-weihnachten-wie-kirchenvertreter-auf-die-duestere-weltlage-reagieren-a-b25175b2-9bff-4447-a1bb-45e2ed6e3b34#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-zu-weihnachten-sonne-und-schnee-gibts-nur-im-sueden](https://www.spiegel.de/panorama/wetter-zu-weihnachten-sonne-und-schnee-gibts-nur-im-sueden-a-4f99db14-f852-4592-b81a-4ec243865065#ref=rss)
+### düstere
+
+* [https://www.spiegel.de/panorama/predigten-an-weihnachten-wie-kirchenvertreter-auf-die-duestere-weltlage-reagieren](https://www.spiegel.de/panorama/predigten-an-weihnachten-wie-kirchenvertreter-auf-die-duestere-weltlage-reagieren-a-b25175b2-9bff-4447-a1bb-45e2ed6e3b34#ref=rss)
+### weltlage
+
+* [https://www.spiegel.de/panorama/predigten-an-weihnachten-wie-kirchenvertreter-auf-die-duestere-weltlage-reagieren](https://www.spiegel.de/panorama/predigten-an-weihnachten-wie-kirchenvertreter-auf-die-duestere-weltlage-reagieren-a-b25175b2-9bff-4447-a1bb-45e2ed6e3b34#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/panorama/predigten-an-weihnachten-wie-kirchenvertreter-auf-die-duestere-weltlage-reagieren](https://www.spiegel.de/panorama/predigten-an-weihnachten-wie-kirchenvertreter-auf-die-duestere-weltlage-reagieren-a-b25175b2-9bff-4447-a1bb-45e2ed6e3b34#ref=rss)
+* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-franz-wagner-und-co-so-schlagen-sich-die-deutschen-profis](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-franz-wagner-und-co-so-schlagen-sich-die-deutschen-profis-a-efe5229c-a339-4900-b9e3-5d65ccef4c4f#ref=rss)
 ### besonders
 
+* [https://www.spiegel.de/panorama/predigten-an-weihnachten-wie-kirchenvertreter-auf-die-duestere-weltlage-reagieren](https://www.spiegel.de/panorama/predigten-an-weihnachten-wie-kirchenvertreter-auf-die-duestere-weltlage-reagieren-a-b25175b2-9bff-4447-a1bb-45e2ed6e3b34#ref=rss)
 * [https://www.spiegel.de/start/kochen-ohne-kohle-guenstige-rezepte-die-sie-2024-besonders-interessiert-haben](https://www.spiegel.de/start/kochen-ohne-kohle-guenstige-rezepte-die-sie-2024-besonders-interessiert-haben-a-c64417c4-b41d-4b7c-97f9-72dc745c3ee7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/mittelstand-in-deutschland-145-000-unternehmen-suchen-nachfolger](https://www.spiegel.de/wirtschaft/mittelstand-in-deutschland-145-000-unternehmen-suchen-nachfolger-a-a329126d-9053-447c-8004-54457663606a#ref=rss)
-### unser
+### sido
 
-* [https://www.spiegel.de/start/kochen-ohne-kohle-guenstige-rezepte-die-sie-2024-besonders-interessiert-haben](https://www.spiegel.de/start/kochen-ohne-kohle-guenstige-rezepte-die-sie-2024-besonders-interessiert-haben-a-c64417c4-b41d-4b7c-97f9-72dc745c3ee7#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/android-smartphone-neu-einrichten-zehn-tipps-fuer-anfaenger](https://www.spiegel.de/netzwelt/gadgets/android-smartphone-neu-einrichten-zehn-tipps-fuer-anfaenger-a-2b3bc1d2-28b6-4280-ba6a-ad6387e43f8e#ref=rss)
+* [https://www.spiegel.de/panorama/leute/sido-stellt-12-jaehrige-bei-weihnachtsshow-bloss](https://www.spiegel.de/panorama/leute/sido-stellt-12-jaehrige-bei-weihnachtsshow-bloss-a-8a61c1e5-c0a3-4646-a60b-a93856a7ffe6#ref=rss)
 ### dennis
 
 * [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-franz-wagner-und-co-so-schlagen-sich-die-deutschen-profis](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-franz-wagner-und-co-so-schlagen-sich-die-deutschen-profis-a-efe5229c-a339-4900-b9e3-5d65ccef4c4f#ref=rss)
 ### schröder
 
 * [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-franz-wagner-und-co-so-schlagen-sich-die-deutschen-profis](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-franz-wagner-und-co-so-schlagen-sich-die-deutschen-profis-a-efe5229c-a339-4900-b9e3-5d65ccef4c4f#ref=rss)
-### co
-
-* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-franz-wagner-und-co-so-schlagen-sich-die-deutschen-profis](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-franz-wagner-und-co-so-schlagen-sich-die-deutschen-profis-a-efe5229c-a339-4900-b9e3-5d65ccef4c4f#ref=rss)
-* [https://www.spiegel.de/ausland/iran-whatsapp-ist-jetzt-wieder-erlaubt](https://www.spiegel.de/ausland/iran-whatsapp-ist-jetzt-wieder-erlaubt-a-b7ed7bfe-ab54-4e87-8dd4-44360c7778d8#ref=rss)
-### fast
-
-* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-franz-wagner-und-co-so-schlagen-sich-die-deutschen-profis](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-franz-wagner-und-co-so-schlagen-sich-die-deutschen-profis-a-efe5229c-a339-4900-b9e3-5d65ccef4c4f#ref=rss)
-* [https://www.spiegel.de/ausland/russland-massive-russische-angriffe-am-weihnachtstag-auf-die-ukraine](https://www.spiegel.de/ausland/russland-massive-russische-angriffe-am-weihnachtstag-auf-die-ukraine-a-4729ccc4-e882-4027-9379-aea1513604e6#ref=rss)
-### alle
-
-* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-franz-wagner-und-co-so-schlagen-sich-die-deutschen-profis](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-franz-wagner-und-co-so-schlagen-sich-die-deutschen-profis-a-efe5229c-a339-4900-b9e3-5d65ccef4c4f#ref=rss)
-* [https://www.spiegel.de/ausland/weihnachten-im-vatikan-papst-franziskus-eroeffnet-heiliges-jahr](https://www.spiegel.de/ausland/weihnachten-im-vatikan-papst-franziskus-eroeffnet-heiliges-jahr-a-6a9c2983-39a8-41ef-bd02-2a5d35283801#ref=rss)
-### 15
+### seniorenheim
 
 * [https://www.spiegel.de/panorama/muenchen-15-menschen-bei-brand-in-seniorenheim-verletzt](https://www.spiegel.de/panorama/muenchen-15-menschen-bei-brand-in-seniorenheim-verletzt-a-da376c96-1bfc-45d0-ad97-5db24735562a#ref=rss)
-### seniorenheim
+### verletzt
 
 * [https://www.spiegel.de/panorama/muenchen-15-menschen-bei-brand-in-seniorenheim-verletzt](https://www.spiegel.de/panorama/muenchen-15-menschen-bei-brand-in-seniorenheim-verletzt-a-da376c96-1bfc-45d0-ad97-5db24735562a#ref=rss)
 ### feuer
 
 * [https://www.spiegel.de/panorama/muenchen-15-menschen-bei-brand-in-seniorenheim-verletzt](https://www.spiegel.de/panorama/muenchen-15-menschen-bei-brand-in-seniorenheim-verletzt-a-da376c96-1bfc-45d0-ad97-5db24735562a#ref=rss)
 * [https://www.spiegel.de/ausland/haiti-mindestens-drei-menschen-sterben-durch-schuesse-in-krankenhaus](https://www.spiegel.de/ausland/haiti-mindestens-drei-menschen-sterben-durch-schuesse-in-krankenhaus-a-7da1dae8-426b-4f92-bf67-5f76c85b8999#ref=rss)
-### heiligabend
-
-* [https://www.spiegel.de/panorama/muenchen-15-menschen-bei-brand-in-seniorenheim-verletzt](https://www.spiegel.de/panorama/muenchen-15-menschen-bei-brand-in-seniorenheim-verletzt-a-da376c96-1bfc-45d0-ad97-5db24735562a#ref=rss)
-* [https://www.spiegel.de/ausland/russland-massive-russische-angriffe-am-weihnachtstag-auf-die-ukraine](https://www.spiegel.de/ausland/russland-massive-russische-angriffe-am-weihnachtstag-auf-die-ukraine-a-4729ccc4-e882-4027-9379-aea1513604e6#ref=rss)
-### waren
-
-* [https://www.spiegel.de/panorama/muenchen-15-menschen-bei-brand-in-seniorenheim-verletzt](https://www.spiegel.de/panorama/muenchen-15-menschen-bei-brand-in-seniorenheim-verletzt-a-da376c96-1bfc-45d0-ad97-5db24735562a#ref=rss)
-* [https://www.spiegel.de/panorama/frankreich-rettungskraefte-befreien-240-skifahrer-in-den-alpen-aus-sessellift](https://www.spiegel.de/panorama/frankreich-rettungskraefte-befreien-240-skifahrer-in-den-alpen-aus-sessellift-a-e832b3b0-e861-485d-b163-8cd8e5f394b4#ref=rss)
-### einsatz
-
-* [https://www.spiegel.de/panorama/muenchen-15-menschen-bei-brand-in-seniorenheim-verletzt](https://www.spiegel.de/panorama/muenchen-15-menschen-bei-brand-in-seniorenheim-verletzt-a-da376c96-1bfc-45d0-ad97-5db24735562a#ref=rss)
-* [https://www.spiegel.de/ausland/aserbaidschan-passagierflugzeug-in-kasachstan-abgestuerzt-hinweise-auf-ueberlebende](https://www.spiegel.de/ausland/aserbaidschan-passagierflugzeug-in-kasachstan-abgestuerzt-hinweise-auf-ueberlebende-a-4ae1a6c9-b782-44d3-952d-945bc12e2054#ref=rss)
-### anschlag
-
-* [https://www.spiegel.de/politik/deutschland/nach-dem-anschlag-in-magdeburg-warum-von-friedrich-merz-so-wenig-zu-hoeren-ist](https://www.spiegel.de/politik/deutschland/nach-dem-anschlag-in-magdeburg-warum-von-friedrich-merz-so-wenig-zu-hoeren-ist-a-25baaf73-332f-4c6f-84e5-75aa5c52bf20#ref=rss)
-### magdeburg
-
-* [https://www.spiegel.de/politik/deutschland/nach-dem-anschlag-in-magdeburg-warum-von-friedrich-merz-so-wenig-zu-hoeren-ist](https://www.spiegel.de/politik/deutschland/nach-dem-anschlag-in-magdeburg-warum-von-friedrich-merz-so-wenig-zu-hoeren-ist-a-25baaf73-332f-4c6f-84e5-75aa5c52bf20#ref=rss)
 ### merz
 
 * [https://www.spiegel.de/politik/deutschland/nach-dem-anschlag-in-magdeburg-warum-von-friedrich-merz-so-wenig-zu-hoeren-ist](https://www.spiegel.de/politik/deutschland/nach-dem-anschlag-in-magdeburg-warum-von-friedrich-merz-so-wenig-zu-hoeren-ist-a-25baaf73-332f-4c6f-84e5-75aa5c52bf20#ref=rss)
-### drei
-
-* [https://www.spiegel.de/ausland/haiti-mindestens-drei-menschen-sterben-durch-schuesse-in-krankenhaus](https://www.spiegel.de/ausland/haiti-mindestens-drei-menschen-sterben-durch-schuesse-in-krankenhaus-a-7da1dae8-426b-4f92-bf67-5f76c85b8999#ref=rss)
-* [https://www.spiegel.de/panorama/peru-grinch-klaut-dealern-kurz-vor-weihnachten-ihr-kokain](https://www.spiegel.de/panorama/peru-grinch-klaut-dealern-kurz-vor-weihnachten-ihr-kokain-a-ec9a25f1-76f3-4bf2-a943-90a1d7590069#ref=rss)
-### krankenhaus
-
-* [https://www.spiegel.de/ausland/haiti-mindestens-drei-menschen-sterben-durch-schuesse-in-krankenhaus](https://www.spiegel.de/ausland/haiti-mindestens-drei-menschen-sterben-durch-schuesse-in-krankenhaus-a-7da1dae8-426b-4f92-bf67-5f76c85b8999#ref=rss)
-* [https://www.spiegel.de/fitness/skisport-tipps-vom-experten-so-vermeiden-sie-verletzungen-beim-skifahren](https://www.spiegel.de/fitness/skisport-tipps-vom-experten-so-vermeiden-sie-verletzungen-beim-skifahren-a-501a4498-964e-41be-95bf-e212d8630349#ref=rss)
-### männer
-
-* [https://www.spiegel.de/ausland/haiti-mindestens-drei-menschen-sterben-durch-schuesse-in-krankenhaus](https://www.spiegel.de/ausland/haiti-mindestens-drei-menschen-sterben-durch-schuesse-in-krankenhaus-a-7da1dae8-426b-4f92-bf67-5f76c85b8999#ref=rss)
-* [https://www.spiegel.de/panorama/jan-marsalek-auf-der-spur-eines-spions](https://www.spiegel.de/panorama/jan-marsalek-auf-der-spur-eines-spions-a-30aaf03a-5c2d-43c2-a6d8-51a0a9289680#ref=rss)
-### eröffnet
-
-* [https://www.spiegel.de/ausland/haiti-mindestens-drei-menschen-sterben-durch-schuesse-in-krankenhaus](https://www.spiegel.de/ausland/haiti-mindestens-drei-menschen-sterben-durch-schuesse-in-krankenhaus-a-7da1dae8-426b-4f92-bf67-5f76c85b8999#ref=rss)
-* [https://www.spiegel.de/ausland/weihnachten-im-vatikan-papst-franziskus-eroeffnet-heiliges-jahr](https://www.spiegel.de/ausland/weihnachten-im-vatikan-papst-franziskus-eroeffnet-heiliges-jahr-a-6a9c2983-39a8-41ef-bd02-2a5d35283801#ref=rss)
-### jan
-
-* [https://www.spiegel.de/panorama/jan-marsalek-auf-der-spur-eines-spions](https://www.spiegel.de/panorama/jan-marsalek-auf-der-spur-eines-spions-a-30aaf03a-5c2d-43c2-a6d8-51a0a9289680#ref=rss)
-### marsalek
-
-* [https://www.spiegel.de/panorama/jan-marsalek-auf-der-spur-eines-spions](https://www.spiegel.de/panorama/jan-marsalek-auf-der-spur-eines-spions-a-30aaf03a-5c2d-43c2-a6d8-51a0a9289680#ref=rss)
-### dom
-
-* [https://www.spiegel.de/start/domschweizer-in-koeln-ich-kann-mir-ein-leben-ohne-den-dom-nicht-vorstellen](https://www.spiegel.de/start/domschweizer-in-koeln-ich-kann-mir-ein-leben-ohne-den-dom-nicht-vorstellen-a-eb108754-c24e-49fe-8f0f-3be8054e7a08#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/start/domschweizer-in-koeln-ich-kann-mir-ein-leben-ohne-den-dom-nicht-vorstellen](https://www.spiegel.de/start/domschweizer-in-koeln-ich-kann-mir-ein-leben-ohne-den-dom-nicht-vorstellen-a-eb108754-c24e-49fe-8f0f-3be8054e7a08#ref=rss)
-* [https://www.spiegel.de/ausland/sudan-mehr-als-600-000-menschen-von-hungersnot-betroffen](https://www.spiegel.de/ausland/sudan-mehr-als-600-000-menschen-von-hungersnot-betroffen-a-952e7082-2270-4356-9243-1675ce1076f5#ref=rss)
-### sicherheit
-
-* [https://www.spiegel.de/start/domschweizer-in-koeln-ich-kann-mir-ein-leben-ohne-den-dom-nicht-vorstellen](https://www.spiegel.de/start/domschweizer-in-koeln-ich-kann-mir-ein-leben-ohne-den-dom-nicht-vorstellen-a-eb108754-c24e-49fe-8f0f-3be8054e7a08#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trumps-territoriale-ansprueche-daenemark-will-milliarden-in-groenlands-sicherheit-investieren](https://www.spiegel.de/ausland/donald-trumps-territoriale-ansprueche-daenemark-will-milliarden-in-groenlands-sicherheit-investieren-a-bad71964-4e8f-40f5-8f81-06c936fb8c8c#ref=rss)
-### richard
-
-* [https://www.spiegel.de/kultur/richard-perry-musikproduzent-ist-tot](https://www.spiegel.de/kultur/richard-perry-musikproduzent-ist-tot-a-8d0e2cab-4af0-4099-b7c1-0c7f410f39fb#ref=rss)
-### perry
-
-* [https://www.spiegel.de/kultur/richard-perry-musikproduzent-ist-tot](https://www.spiegel.de/kultur/richard-perry-musikproduzent-ist-tot-a-8d0e2cab-4af0-4099-b7c1-0c7f410f39fb#ref=rss)
-### musikproduzent
-
-* [https://www.spiegel.de/kultur/richard-perry-musikproduzent-ist-tot](https://www.spiegel.de/kultur/richard-perry-musikproduzent-ist-tot-a-8d0e2cab-4af0-4099-b7c1-0c7f410f39fb#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/kultur/richard-perry-musikproduzent-ist-tot](https://www.spiegel.de/kultur/richard-perry-musikproduzent-ist-tot-a-8d0e2cab-4af0-4099-b7c1-0c7f410f39fb#ref=rss)
-* [https://www.spiegel.de/ausland/weihnachten-im-vatikan-papst-franziskus-eroeffnet-heiliges-jahr](https://www.spiegel.de/ausland/weihnachten-im-vatikan-papst-franziskus-eroeffnet-heiliges-jahr-a-6a9c2983-39a8-41ef-bd02-2a5d35283801#ref=rss)
-### kasachstan
-
-* [https://www.spiegel.de/ausland/aserbaidschan-passagierflugzeug-in-kasachstan-abgestuerzt-hinweise-auf-ueberlebende](https://www.spiegel.de/ausland/aserbaidschan-passagierflugzeug-in-kasachstan-abgestuerzt-hinweise-auf-ueberlebende-a-4ae1a6c9-b782-44d3-952d-945bc12e2054#ref=rss)
-### überlebende
-
-* [https://www.spiegel.de/ausland/aserbaidschan-passagierflugzeug-in-kasachstan-abgestuerzt-hinweise-auf-ueberlebende](https://www.spiegel.de/ausland/aserbaidschan-passagierflugzeug-in-kasachstan-abgestuerzt-hinweise-auf-ueberlebende-a-4ae1a6c9-b782-44d3-952d-945bc12e2054#ref=rss)
-### rettungskräfte
-
-* [https://www.spiegel.de/ausland/aserbaidschan-passagierflugzeug-in-kasachstan-abgestuerzt-hinweise-auf-ueberlebende](https://www.spiegel.de/ausland/aserbaidschan-passagierflugzeug-in-kasachstan-abgestuerzt-hinweise-auf-ueberlebende-a-4ae1a6c9-b782-44d3-952d-945bc12e2054#ref=rss)
-* [https://www.spiegel.de/panorama/frankreich-rettungskraefte-befreien-240-skifahrer-in-den-alpen-aus-sessellift](https://www.spiegel.de/panorama/frankreich-rettungskraefte-befreien-240-skifahrer-in-den-alpen-aus-sessellift-a-e832b3b0-e861-485d-b163-8cd8e5f394b4#ref=rss)
-### geben
-
-* [https://www.spiegel.de/ausland/aserbaidschan-passagierflugzeug-in-kasachstan-abgestuerzt-hinweise-auf-ueberlebende](https://www.spiegel.de/ausland/aserbaidschan-passagierflugzeug-in-kasachstan-abgestuerzt-hinweise-auf-ueberlebende-a-4ae1a6c9-b782-44d3-952d-945bc12e2054#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/synthetische-biologie-reines-marketing-oder-berechtigte-sorge-forschende-warnen-vor-spiegelleben](https://www.spiegel.de/wissenschaft/natur/synthetische-biologie-reines-marketing-oder-berechtigte-sorge-forschende-warnen-vor-spiegelleben-a-9610fee2-a67b-418f-8447-37dd300c45ce#ref=rss)
-### unternehmen
-
-* [https://www.spiegel.de/wirtschaft/mittelstand-in-deutschland-145-000-unternehmen-suchen-nachfolger](https://www.spiegel.de/wirtschaft/mittelstand-in-deutschland-145-000-unternehmen-suchen-nachfolger-a-a329126d-9053-447c-8004-54457663606a#ref=rss)
-### südkorea
-
-* [https://www.spiegel.de/ausland/suedkorea-praesident-yoon-suk-yeol-erscheint-erneut-nicht-zu-vorladung](https://www.spiegel.de/ausland/suedkorea-praesident-yoon-suk-yeol-erscheint-erneut-nicht-zu-vorladung-a-f3a88f23-d92d-4b29-ac76-7b3557a60ef4#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/ausland/suedkorea-praesident-yoon-suk-yeol-erscheint-erneut-nicht-zu-vorladung](https://www.spiegel.de/ausland/suedkorea-praesident-yoon-suk-yeol-erscheint-erneut-nicht-zu-vorladung-a-f3a88f23-d92d-4b29-ac76-7b3557a60ef4#ref=rss)
-### vorladung
-
-* [https://www.spiegel.de/ausland/suedkorea-praesident-yoon-suk-yeol-erscheint-erneut-nicht-zu-vorladung](https://www.spiegel.de/ausland/suedkorea-praesident-yoon-suk-yeol-erscheint-erneut-nicht-zu-vorladung-a-f3a88f23-d92d-4b29-ac76-7b3557a60ef4#ref=rss)
-### angriffe
-
-* [https://www.spiegel.de/ausland/russland-massive-russische-angriffe-am-weihnachtstag-auf-die-ukraine](https://www.spiegel.de/ausland/russland-massive-russische-angriffe-am-weihnachtstag-auf-die-ukraine-a-4729ccc4-e882-4027-9379-aea1513604e6#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/russland-massive-russische-angriffe-am-weihnachtstag-auf-die-ukraine](https://www.spiegel.de/ausland/russland-massive-russische-angriffe-am-weihnachtstag-auf-die-ukraine-a-4729ccc4-e882-4027-9379-aea1513604e6#ref=rss)
-### androidsmartphone
-
-* [https://www.spiegel.de/netzwelt/gadgets/android-smartphone-neu-einrichten-zehn-tipps-fuer-anfaenger](https://www.spiegel.de/netzwelt/gadgets/android-smartphone-neu-einrichten-zehn-tipps-fuer-anfaenger-a-2b3bc1d2-28b6-4280-ba6a-ad6387e43f8e#ref=rss)
-### tipps
-
-* [https://www.spiegel.de/netzwelt/gadgets/android-smartphone-neu-einrichten-zehn-tipps-fuer-anfaenger](https://www.spiegel.de/netzwelt/gadgets/android-smartphone-neu-einrichten-zehn-tipps-fuer-anfaenger-a-2b3bc1d2-28b6-4280-ba6a-ad6387e43f8e#ref=rss)
-* [https://www.spiegel.de/fitness/skisport-tipps-vom-experten-so-vermeiden-sie-verletzungen-beim-skifahren](https://www.spiegel.de/fitness/skisport-tipps-vom-experten-so-vermeiden-sie-verletzungen-beim-skifahren-a-501a4498-964e-41be-95bf-e212d8630349#ref=rss)
-### uns
-
-* [https://www.spiegel.de/kultur/kunsthistoriker-ueber-digitale-fotos-wir-wollen-zu-jeder-tageszeit-fotogen-und-bildwuerdig-sein](https://www.spiegel.de/kultur/kunsthistoriker-ueber-digitale-fotos-wir-wollen-zu-jeder-tageszeit-fotogen-und-bildwuerdig-sein-a-dea4743a-d108-43b1-9d82-53615aebbd82#ref=rss)
-### michael
-
-* [https://www.spiegel.de/karriere/michael-lindner-warum-der-politiker-aus-oesterreich-die-karriere-fuer-seine-kinder-aufgibt](https://www.spiegel.de/karriere/michael-lindner-warum-der-politiker-aus-oesterreich-die-karriere-fuer-seine-kinder-aufgibt-a-cd8b83df-0384-4335-85b3-40404453b031#ref=rss)
-### lindner
-
-* [https://www.spiegel.de/karriere/michael-lindner-warum-der-politiker-aus-oesterreich-die-karriere-fuer-seine-kinder-aufgibt](https://www.spiegel.de/karriere/michael-lindner-warum-der-politiker-aus-oesterreich-die-karriere-fuer-seine-kinder-aufgibt-a-cd8b83df-0384-4335-85b3-40404453b031#ref=rss)
-### österreich
-
-* [https://www.spiegel.de/karriere/michael-lindner-warum-der-politiker-aus-oesterreich-die-karriere-fuer-seine-kinder-aufgibt](https://www.spiegel.de/karriere/michael-lindner-warum-der-politiker-aus-oesterreich-die-karriere-fuer-seine-kinder-aufgibt-a-cd8b83df-0384-4335-85b3-40404453b031#ref=rss)
-* [https://www.spiegel.de/ausland/demokratie-auf-diese-laender-und-wahlen-muessen-sie-2025-in-europa-achten](https://www.spiegel.de/ausland/demokratie-auf-diese-laender-und-wahlen-muessen-sie-2025-in-europa-achten-a-da09c975-bd89-4cec-922c-4978a3977a7f#ref=rss)
-### experten
-
-* [https://www.spiegel.de/fitness/skisport-tipps-vom-experten-so-vermeiden-sie-verletzungen-beim-skifahren](https://www.spiegel.de/fitness/skisport-tipps-vom-experten-so-vermeiden-sie-verletzungen-beim-skifahren-a-501a4498-964e-41be-95bf-e212d8630349#ref=rss)
-* [https://www.spiegel.de/ausland/sudan-mehr-als-600-000-menschen-von-hungersnot-betroffen](https://www.spiegel.de/ausland/sudan-mehr-als-600-000-menschen-von-hungersnot-betroffen-a-952e7082-2270-4356-9243-1675ce1076f5#ref=rss)
-### vermeiden
-
-* [https://www.spiegel.de/fitness/skisport-tipps-vom-experten-so-vermeiden-sie-verletzungen-beim-skifahren](https://www.spiegel.de/fitness/skisport-tipps-vom-experten-so-vermeiden-sie-verletzungen-beim-skifahren-a-501a4498-964e-41be-95bf-e212d8630349#ref=rss)
-### skifahren
-
-* [https://www.spiegel.de/fitness/skisport-tipps-vom-experten-so-vermeiden-sie-verletzungen-beim-skifahren](https://www.spiegel.de/fitness/skisport-tipps-vom-experten-so-vermeiden-sie-verletzungen-beim-skifahren-a-501a4498-964e-41be-95bf-e212d8630349#ref=rss)
-### sodbrennen
-
-* [https://www.spiegel.de/gesundheit/ernaehrung/gesundheit-und-fitness-an-weihnachten-was-an-heilig-abend-vor-sodbrennen-schuetzt](https://www.spiegel.de/gesundheit/ernaehrung/gesundheit-und-fitness-an-weihnachten-was-an-heilig-abend-vor-sodbrennen-schuetzt-a-77a03551-e257-4c9d-8a8a-8ab35224d06e#ref=rss)
-### mosambik
-
-* [https://www.spiegel.de/ausland/mosambik-21-tote-nach-unruhen-proteste-gegen-wahlergebnis](https://www.spiegel.de/ausland/mosambik-21-tote-nach-unruhen-proteste-gegen-wahlergebnis-a-e5a9c818-0c01-4a84-80d3-fab85a46aa9f#ref=rss)
-### 21
-
-* [https://www.spiegel.de/ausland/mosambik-21-tote-nach-unruhen-proteste-gegen-wahlergebnis](https://www.spiegel.de/ausland/mosambik-21-tote-nach-unruhen-proteste-gegen-wahlergebnis-a-e5a9c818-0c01-4a84-80d3-fab85a46aa9f#ref=rss)
-### tote
-
-* [https://www.spiegel.de/ausland/mosambik-21-tote-nach-unruhen-proteste-gegen-wahlergebnis](https://www.spiegel.de/ausland/mosambik-21-tote-nach-unruhen-proteste-gegen-wahlergebnis-a-e5a9c818-0c01-4a84-80d3-fab85a46aa9f#ref=rss)
-### frankreich
-
-* [https://www.spiegel.de/panorama/frankreich-rettungskraefte-befreien-240-skifahrer-in-den-alpen-aus-sessellift](https://www.spiegel.de/panorama/frankreich-rettungskraefte-befreien-240-skifahrer-in-den-alpen-aus-sessellift-a-e832b3b0-e861-485d-b163-8cd8e5f394b4#ref=rss)
-* [https://www.spiegel.de/ausland/demokratie-auf-diese-laender-und-wahlen-muessen-sie-2025-in-europa-achten](https://www.spiegel.de/ausland/demokratie-auf-diese-laender-und-wahlen-muessen-sie-2025-in-europa-achten-a-da09c975-bd89-4cec-922c-4978a3977a7f#ref=rss)
-### tori
-
-* [https://www.spiegel.de/panorama/leute/tori-spelling-ihre-aelteste-tochter-bekam-2023-keine-geschenke](https://www.spiegel.de/panorama/leute/tori-spelling-ihre-aelteste-tochter-bekam-2023-keine-geschenke-a-c172a1fa-c553-406f-a9b5-71e39f69c424#ref=rss)
-### spelling
-
-* [https://www.spiegel.de/panorama/leute/tori-spelling-ihre-aelteste-tochter-bekam-2023-keine-geschenke](https://www.spiegel.de/panorama/leute/tori-spelling-ihre-aelteste-tochter-bekam-2023-keine-geschenke-a-c172a1fa-c553-406f-a9b5-71e39f69c424#ref=rss)
-### geschenke
-
-* [https://www.spiegel.de/panorama/leute/tori-spelling-ihre-aelteste-tochter-bekam-2023-keine-geschenke](https://www.spiegel.de/panorama/leute/tori-spelling-ihre-aelteste-tochter-bekam-2023-keine-geschenke-a-c172a1fa-c553-406f-a9b5-71e39f69c424#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/donald-trumps-territoriale-ansprueche-daenemark-will-milliarden-in-groenlands-sicherheit-investieren](https://www.spiegel.de/ausland/donald-trumps-territoriale-ansprueche-daenemark-will-milliarden-in-groenlands-sicherheit-investieren-a-bad71964-4e8f-40f5-8f81-06c936fb8c8c#ref=rss)
-### dänemark
-
-* [https://www.spiegel.de/ausland/donald-trumps-territoriale-ansprueche-daenemark-will-milliarden-in-groenlands-sicherheit-investieren](https://www.spiegel.de/ausland/donald-trumps-territoriale-ansprueche-daenemark-will-milliarden-in-groenlands-sicherheit-investieren-a-bad71964-4e8f-40f5-8f81-06c936fb8c8c#ref=rss)
-### sudan
-
-* [https://www.spiegel.de/ausland/sudan-mehr-als-600-000-menschen-von-hungersnot-betroffen](https://www.spiegel.de/ausland/sudan-mehr-als-600-000-menschen-von-hungersnot-betroffen-a-952e7082-2270-4356-9243-1675ce1076f5#ref=rss)
-### papst
-
-* [https://www.spiegel.de/ausland/weihnachten-im-vatikan-papst-franziskus-eroeffnet-heiliges-jahr](https://www.spiegel.de/ausland/weihnachten-im-vatikan-papst-franziskus-eroeffnet-heiliges-jahr-a-6a9c2983-39a8-41ef-bd02-2a5d35283801#ref=rss)
-### franziskus
-
-* [https://www.spiegel.de/ausland/weihnachten-im-vatikan-papst-franziskus-eroeffnet-heiliges-jahr](https://www.spiegel.de/ausland/weihnachten-im-vatikan-papst-franziskus-eroeffnet-heiliges-jahr-a-6a9c2983-39a8-41ef-bd02-2a5d35283801#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/ausland/weihnachten-im-vatikan-papst-franziskus-eroeffnet-heiliges-jahr](https://www.spiegel.de/ausland/weihnachten-im-vatikan-papst-franziskus-eroeffnet-heiliges-jahr-a-6a9c2983-39a8-41ef-bd02-2a5d35283801#ref=rss)
-* [https://www.spiegel.de/ausland/dinner-for-one-international-diese-tv-klassiker-laufen-in-anderen-laendern-an-den-feiertagen](https://www.spiegel.de/ausland/dinner-for-one-international-diese-tv-klassiker-laufen-in-anderen-laendern-an-den-feiertagen-a-6d105254-4115-4ffe-955f-ad6e1e48a882#ref=rss)
-### iran
-
-* [https://www.spiegel.de/ausland/iran-whatsapp-ist-jetzt-wieder-erlaubt](https://www.spiegel.de/ausland/iran-whatsapp-ist-jetzt-wieder-erlaubt-a-b7ed7bfe-ab54-4e87-8dd4-44360c7778d8#ref=rss)
-### dinner
-
-* [https://www.spiegel.de/ausland/dinner-for-one-international-diese-tv-klassiker-laufen-in-anderen-laendern-an-den-feiertagen](https://www.spiegel.de/ausland/dinner-for-one-international-diese-tv-klassiker-laufen-in-anderen-laendern-an-den-feiertagen-a-6d105254-4115-4ffe-955f-ad6e1e48a882#ref=rss)
-### for
-
-* [https://www.spiegel.de/ausland/dinner-for-one-international-diese-tv-klassiker-laufen-in-anderen-laendern-an-den-feiertagen](https://www.spiegel.de/ausland/dinner-for-one-international-diese-tv-klassiker-laufen-in-anderen-laendern-an-den-feiertagen-a-6d105254-4115-4ffe-955f-ad6e1e48a882#ref=rss)
-### one
-
-* [https://www.spiegel.de/ausland/dinner-for-one-international-diese-tv-klassiker-laufen-in-anderen-laendern-an-den-feiertagen](https://www.spiegel.de/ausland/dinner-for-one-international-diese-tv-klassiker-laufen-in-anderen-laendern-an-den-feiertagen-a-6d105254-4115-4ffe-955f-ad6e1e48a882#ref=rss)
-### kokain
-
-* [https://www.spiegel.de/panorama/peru-grinch-klaut-dealern-kurz-vor-weihnachten-ihr-kokain](https://www.spiegel.de/panorama/peru-grinch-klaut-dealern-kurz-vor-weihnachten-ihr-kokain-a-ec9a25f1-76f3-4bf2-a943-90a1d7590069#ref=rss)
-### warnen
-
-* [https://www.spiegel.de/wissenschaft/natur/synthetische-biologie-reines-marketing-oder-berechtigte-sorge-forschende-warnen-vor-spiegelleben](https://www.spiegel.de/wissenschaft/natur/synthetische-biologie-reines-marketing-oder-berechtigte-sorge-forschende-warnen-vor-spiegelleben-a-9610fee2-a67b-418f-8447-37dd300c45ce#ref=rss)
 
