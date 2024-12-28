@@ -4,368 +4,320 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### elon
+### usa
 
-* [https://www.spiegel.de/politik/volker-wissing-kritisiert-fdp-chef-christian-lindner-fuer-komplimente-an-elon-musk](https://www.spiegel.de/politik/volker-wissing-kritisiert-fdp-chef-christian-lindner-fuer-komplimente-an-elon-musk-a-77c26086-6ed4-44a4-bebf-e9a90781b19c#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-wikipedia-spender-lassen-sich-von-boykottaufruf-nicht-abschrecken](https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-wikipedia-spender-lassen-sich-von-boykottaufruf-nicht-abschrecken-a-6df91e84-6f61-453e-95b6-8e2789c56efd#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutsche-raumfahrt-bayerns-start-up-will-mit-made-in-germany-raketen-elon-musk-konkurrenz-machen](https://www.spiegel.de/wirtschaft/deutsche-raumfahrt-bayerns-start-up-will-mit-made-in-germany-raketen-elon-musk-konkurrenz-machen-a-967fe9a2-91c1-4b70-a27e-9d3a93b13eb5#ref=rss)
-### musk
+* [https://www.spiegel.de/panorama/gesellschaft/usa-obdachlosigkeit-auf-rekordwert-gestiegen](https://www.spiegel.de/panorama/gesellschaft/usa-obdachlosigkeit-auf-rekordwert-gestiegen-a-5b4a9bd0-d93f-4a6b-a08f-b8251c2f0b04#ref=rss)
+* [https://www.spiegel.de/ausland/tiktok-in-den-usa-donald-trump-will-verbot-torpedieren](https://www.spiegel.de/ausland/tiktok-in-den-usa-donald-trump-will-verbot-torpedieren-a-6b943e37-a584-4f64-a05f-6a80af44894b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/usa-schuldenobergrenze-koennte-mitte-januar-erreicht-werden](https://www.spiegel.de/wirtschaft/soziales/usa-schuldenobergrenze-koennte-mitte-januar-erreicht-werden-a-dee14fe4-b43d-423f-afdb-f60768baab7d#ref=rss)
+* [https://www.spiegel.de/panorama/gefaengniswaerter-pruegeln-haeftling-zu-tode](https://www.spiegel.de/panorama/gefaengniswaerter-pruegeln-haeftling-zu-tode-a-49bf0d0e-fec7-4bfa-9f7a-f7b27c8e9971#ref=rss)
+* [https://www.spiegel.de/ausland/usa-elon-musk-und-vivek-ramaswamy-legen-sich-mit-den-maga-rechten-an](https://www.spiegel.de/ausland/usa-elon-musk-und-vivek-ramaswamy-legen-sich-mit-den-maga-rechten-an-a-03cb349d-b427-40fa-a649-95c6467088eb#ref=rss)
+### donald
 
-* [https://www.spiegel.de/politik/volker-wissing-kritisiert-fdp-chef-christian-lindner-fuer-komplimente-an-elon-musk](https://www.spiegel.de/politik/volker-wissing-kritisiert-fdp-chef-christian-lindner-fuer-komplimente-an-elon-musk-a-77c26086-6ed4-44a4-bebf-e9a90781b19c#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-wikipedia-spender-lassen-sich-von-boykottaufruf-nicht-abschrecken](https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-wikipedia-spender-lassen-sich-von-boykottaufruf-nicht-abschrecken-a-6df91e84-6f61-453e-95b6-8e2789c56efd#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutsche-raumfahrt-bayerns-start-up-will-mit-made-in-germany-raketen-elon-musk-konkurrenz-machen](https://www.spiegel.de/wirtschaft/deutsche-raumfahrt-bayerns-start-up-will-mit-made-in-germany-raketen-elon-musk-konkurrenz-machen-a-967fe9a2-91c1-4b70-a27e-9d3a93b13eb5#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/panorama/justiz/anschlag-in-magdeburg-wieso-konnte-taleb-al-abdulmohsen-auf-den-weihnachtsmarkt-rasen](https://www.spiegel.de/panorama/justiz/anschlag-in-magdeburg-wieso-konnte-taleb-al-abdulmohsen-auf-den-weihnachtsmarkt-rasen-a-77ed3ffa-b6f0-47ec-80a2-65ef09fbce52#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/flugzeugabsturz-in-kasachstan-was-flug-j2-8243-zum-verhaengnis-wurde](https://www.spiegel.de/wissenschaft/technik/flugzeugabsturz-in-kasachstan-was-flug-j2-8243-zum-verhaengnis-wurde-a-82a35182-903a-4750-8667-20f939213ee4#ref=rss)
-* [https://www.spiegel.de/ausland/iran-italienische-journalistin-cecilia-sala-festgenommen](https://www.spiegel.de/ausland/iran-italienische-journalistin-cecilia-sala-festgenommen-a-62294bc1-c5d8-414e-bead-d5bf92e9edf4#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-krieg-israel-nutzt-offenbar-fehlerhafte-methoden](https://www.spiegel.de/ausland/gaza-krieg-israel-nutzt-offenbar-fehlerhafte-methoden-a-8e8026a4-8463-4b35-8cc0-852e1031c553#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/justiz/polizeieinsatz-in-siegen-mann-stirbt-auf-offener-strasse-an-stichverletzung](https://www.spiegel.de/panorama/justiz/polizeieinsatz-in-siegen-mann-stirbt-auf-offener-strasse-an-stichverletzung-a-7f5b3fd8-47da-465f-b1c1-38163174e812#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/china-mann-in-zhuhai-nach-toedlichem-angriff-mit-auto-zum-tode-verurteilt](https://www.spiegel.de/panorama/justiz/china-mann-in-zhuhai-nach-toedlichem-angriff-mit-auto-zum-tode-verurteilt-a-aa6eb88f-e228-453b-9d50-a582862c382a#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/panorama/justiz/polizeieinsatz-in-siegen-mann-stirbt-auf-offener-strasse-an-stichverletzung](https://www.spiegel.de/panorama/justiz/polizeieinsatz-in-siegen-mann-stirbt-auf-offener-strasse-an-stichverletzung-a-7f5b3fd8-47da-465f-b1c1-38163174e812#ref=rss)
-* [https://www.spiegel.de/kultur/mads-mikkelsen-fand-es-super-befreiend-ein-loewe-zu-sein](https://www.spiegel.de/kultur/mads-mikkelsen-fand-es-super-befreiend-ein-loewe-zu-sein-a-18c3c5f5-c8c7-4e3e-90c9-55569f4b0c1b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/ex-bundesbankpraesident-helmut-schlesinger-ist-tot](https://www.spiegel.de/wirtschaft/unternehmen/ex-bundesbankpraesident-helmut-schlesinger-ist-tot-a-25a0b710-503f-4f9c-a969-fe7ff370f9a8#ref=rss)
-* [https://www.spiegel.de/ausland/iran-italienische-journalistin-cecilia-sala-festgenommen](https://www.spiegel.de/ausland/iran-italienische-journalistin-cecilia-sala-festgenommen-a-62294bc1-c5d8-414e-bead-d5bf92e9edf4#ref=rss)
-### suzuki
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/suzuki-ehemaliger-patriarch-osamu-suzuki-ist-tot](https://www.spiegel.de/wirtschaft/unternehmen/suzuki-ehemaliger-patriarch-osamu-suzuki-ist-tot-a-1e69628e-9d80-4e5c-bc55-cc3ad23ba76d#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/innenpolitik-die-todesfahrt-von-magdeburg-ist-laengst-teil-des-wahlkampfs-merz-verschaerft-den-ton](https://www.spiegel.de/politik/deutschland/innenpolitik-die-todesfahrt-von-magdeburg-ist-laengst-teil-des-wahlkampfs-merz-verschaerft-den-ton-a-6efaae34-db70-471c-8549-38d5a513161f#ref=rss)
-* [https://www.spiegel.de/politik/bundestagswahlkampf-olaf-scholz-wirft-friedrich-merz-zickzackkurs-in-ukrainepolitik-vor](https://www.spiegel.de/politik/bundestagswahlkampf-olaf-scholz-wirft-friedrich-merz-zickzackkurs-in-ukrainepolitik-vor-a-6a175c3c-1913-4dba-b20b-a66ddb8f67c1#ref=rss)
-### indien
-
-* [https://www.spiegel.de/ausland/indien-manmohan-singh-der-premier-der-indien-zur-wirtschaftlichen-macht-asiens-machte-ist-tot](https://www.spiegel.de/ausland/indien-manmohan-singh-der-premier-der-indien-zur-wirtschaftlichen-macht-asiens-machte-ist-tot-a-f45fe41b-bf7a-423c-961c-4fdb6d6c1021#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/salman-rushdie-die-satanischen-verse-in-indien-wieder-erhaeltlich-nach-36-jahren-verkaufsverbot](https://www.spiegel.de/kultur/literatur/salman-rushdie-die-satanischen-verse-in-indien-wieder-erhaeltlich-nach-36-jahren-verkaufsverbot-a-1a65bed4-076b-41a5-b8c0-88640f62ad95#ref=rss)
-### magdeburg
-
-* [https://www.spiegel.de/panorama/justiz/anschlag-in-magdeburg-wieso-konnte-taleb-al-abdulmohsen-auf-den-weihnachtsmarkt-rasen](https://www.spiegel.de/panorama/justiz/anschlag-in-magdeburg-wieso-konnte-taleb-al-abdulmohsen-auf-den-weihnachtsmarkt-rasen-a-77ed3ffa-b6f0-47ec-80a2-65ef09fbce52#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/innenpolitik-die-todesfahrt-von-magdeburg-ist-laengst-teil-des-wahlkampfs-merz-verschaerft-den-ton](https://www.spiegel.de/politik/deutschland/innenpolitik-die-todesfahrt-von-magdeburg-ist-laengst-teil-des-wahlkampfs-merz-verschaerft-den-ton-a-6efaae34-db70-471c-8549-38d5a513161f#ref=rss)
-### sechs
-
-* [https://www.spiegel.de/panorama/justiz/anschlag-in-magdeburg-wieso-konnte-taleb-al-abdulmohsen-auf-den-weihnachtsmarkt-rasen](https://www.spiegel.de/panorama/justiz/anschlag-in-magdeburg-wieso-konnte-taleb-al-abdulmohsen-auf-den-weihnachtsmarkt-rasen-a-77ed3ffa-b6f0-47ec-80a2-65ef09fbce52#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/klimawandel-sorgte-2024-im-mittel-fuer-sechs-wochen-extra-hitze](https://www.spiegel.de/wissenschaft/natur/klimawandel-sorgte-2024-im-mittel-fuer-sechs-wochen-extra-hitze-a-9a7a172f-1499-449f-9191-2ea8e1c03996#ref=rss)
-* [https://www.spiegel.de/panorama/johnny-depp-anwaelte-verraten-strategie-im-prozess-gegen-amber-heard](https://www.spiegel.de/panorama/johnny-depp-anwaelte-verraten-strategie-im-prozess-gegen-amber-heard-a-1ba5eaa5-f637-4681-a21e-f344bebbc208#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/panorama/justiz/china-mann-in-zhuhai-nach-toedlichem-angriff-mit-auto-zum-tode-verurteilt](https://www.spiegel.de/panorama/justiz/china-mann-in-zhuhai-nach-toedlichem-angriff-mit-auto-zum-tode-verurteilt-a-aa6eb88f-e228-453b-9d50-a582862c382a#ref=rss)
-* [https://www.spiegel.de/panorama/johnny-depp-anwaelte-verraten-strategie-im-prozess-gegen-amber-heard](https://www.spiegel.de/panorama/johnny-depp-anwaelte-verraten-strategie-im-prozess-gegen-amber-heard-a-1ba5eaa5-f637-4681-a21e-f344bebbc208#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/salman-rushdie-die-satanischen-verse-in-indien-wieder-erhaeltlich-nach-36-jahren-verkaufsverbot](https://www.spiegel.de/kultur/literatur/salman-rushdie-die-satanischen-verse-in-indien-wieder-erhaeltlich-nach-36-jahren-verkaufsverbot-a-1a65bed4-076b-41a5-b8c0-88640f62ad95#ref=rss)
-### zuletzt
-
-* [https://www.spiegel.de/ausland/china-stellt-neues-kriegsschiff-sichuan-vor](https://www.spiegel.de/ausland/china-stellt-neues-kriegsschiff-sichuan-vor-a-b193cd2e-7ee3-41d8-965c-9ea7ce59d803#ref=rss)
-* [https://www.spiegel.de/ausland/iran-italienische-journalistin-cecilia-sala-festgenommen](https://www.spiegel.de/ausland/iran-italienische-journalistin-cecilia-sala-festgenommen-a-62294bc1-c5d8-414e-bead-d5bf92e9edf4#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-trennt-sich-von-trainer-bo-svensson](https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-trennt-sich-von-trainer-bo-svensson-a-93fb932f-8986-405f-8e27-285958070965#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/panorama/orphans-christmas-in-australien-wie-eine-weihnachtsfeier-am-strand-eskaliert](https://www.spiegel.de/panorama/orphans-christmas-in-australien-wie-eine-weihnachtsfeier-am-strand-eskaliert-a-6088babe-b5d6-4880-acb6-0ffb3f8312a7#ref=rss)
-* [https://www.spiegel.de/auto/hamburger-s-bahn-station-geht-ein-halbes-jahr-spaeter-in-betrieb-weil-spezialisten-fehlen](https://www.spiegel.de/auto/hamburger-s-bahn-station-geht-ein-halbes-jahr-spaeter-in-betrieb-weil-spezialisten-fehlen-a-4d71d25e-ca2b-44a4-956b-b5b89a31995c#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-trennt-sich-von-trainer-bo-svensson](https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-trennt-sich-von-trainer-bo-svensson-a-93fb932f-8986-405f-8e27-285958070965#ref=rss)
-### tot
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/suzuki-ehemaliger-patriarch-osamu-suzuki-ist-tot](https://www.spiegel.de/wirtschaft/unternehmen/suzuki-ehemaliger-patriarch-osamu-suzuki-ist-tot-a-1e69628e-9d80-4e5c-bc55-cc3ad23ba76d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/ex-bundesbankpraesident-helmut-schlesinger-ist-tot](https://www.spiegel.de/wirtschaft/unternehmen/ex-bundesbankpraesident-helmut-schlesinger-ist-tot-a-25a0b710-503f-4f9c-a969-fe7ff370f9a8#ref=rss)
-* [https://www.spiegel.de/ausland/indien-manmohan-singh-der-premier-der-indien-zur-wirtschaftlichen-macht-asiens-machte-ist-tot](https://www.spiegel.de/ausland/indien-manmohan-singh-der-premier-der-indien-zur-wirtschaftlichen-macht-asiens-machte-ist-tot-a-f45fe41b-bf7a-423c-961c-4fdb6d6c1021#ref=rss)
-### wochen
-
-* [https://www.spiegel.de/auto/hamburger-s-bahn-station-geht-ein-halbes-jahr-spaeter-in-betrieb-weil-spezialisten-fehlen](https://www.spiegel.de/auto/hamburger-s-bahn-station-geht-ein-halbes-jahr-spaeter-in-betrieb-weil-spezialisten-fehlen-a-4d71d25e-ca2b-44a4-956b-b5b89a31995c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/klimawandel-sorgte-2024-im-mittel-fuer-sechs-wochen-extra-hitze](https://www.spiegel.de/wissenschaft/natur/klimawandel-sorgte-2024-im-mittel-fuer-sechs-wochen-extra-hitze-a-9a7a172f-1499-449f-9191-2ea8e1c03996#ref=rss)
-* [https://www.spiegel.de/panorama/johnny-depp-anwaelte-verraten-strategie-im-prozess-gegen-amber-heard](https://www.spiegel.de/panorama/johnny-depp-anwaelte-verraten-strategie-im-prozess-gegen-amber-heard-a-1ba5eaa5-f637-4681-a21e-f344bebbc208#ref=rss)
-### kasachstan
-
-* [https://www.spiegel.de/wissenschaft/technik/flugzeugabsturz-in-kasachstan-was-flug-j2-8243-zum-verhaengnis-wurde](https://www.spiegel.de/wissenschaft/technik/flugzeugabsturz-in-kasachstan-was-flug-j2-8243-zum-verhaengnis-wurde-a-82a35182-903a-4750-8667-20f939213ee4#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/ueberlebenschance-bei-flugzeugabstuerzen-die-billigsten-plaetze-sind-die-sichersten](https://www.spiegel.de/wissenschaft/technik/ueberlebenschance-bei-flugzeugabstuerzen-die-billigsten-plaetze-sind-die-sichersten-a-d8f5d55e-e8ed-47ac-824f-f18d05acb265#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/johnny-depp-anwaelte-verraten-strategie-im-prozess-gegen-amber-heard](https://www.spiegel.de/panorama/johnny-depp-anwaelte-verraten-strategie-im-prozess-gegen-amber-heard-a-1ba5eaa5-f637-4681-a21e-f344bebbc208#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestag-aufgeloest-bundespraesident-frank-walter-steinmeier-loest-bundestag-auf-und-warnt-vor-elon-musk](https://www.spiegel.de/politik/deutschland/bundestag-aufgeloest-bundespraesident-frank-walter-steinmeier-loest-bundestag-auf-und-warnt-vor-elon-musk-a-c6897e2f-9c7c-4c8d-a207-b09c91acbee8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutsche-raumfahrt-bayerns-start-up-will-mit-made-in-germany-raketen-elon-musk-konkurrenz-machen](https://www.spiegel.de/wirtschaft/deutsche-raumfahrt-bayerns-start-up-will-mit-made-in-germany-raketen-elon-musk-konkurrenz-machen-a-967fe9a2-91c1-4b70-a27e-9d3a93b13eb5#ref=rss)
-### iran
-
-* [https://www.spiegel.de/sport/fussball/fussball-im-iran-umarmung-fuer-weiblichen-fan-nationalspieler-ramin-rezaeian-droht-strafe](https://www.spiegel.de/sport/fussball/fussball-im-iran-umarmung-fuer-weiblichen-fan-nationalspieler-ramin-rezaeian-droht-strafe-a-01e97cc2-1b77-4630-bf3a-6563a831ded1#ref=rss)
-* [https://www.spiegel.de/ausland/iran-italienische-journalistin-cecilia-sala-festgenommen](https://www.spiegel.de/ausland/iran-italienische-journalistin-cecilia-sala-festgenommen-a-62294bc1-c5d8-414e-bead-d5bf92e9edf4#ref=rss)
-### behörden
-
-* [https://www.spiegel.de/ausland/iran-italienische-journalistin-cecilia-sala-festgenommen](https://www.spiegel.de/ausland/iran-italienische-journalistin-cecilia-sala-festgenommen-a-62294bc1-c5d8-414e-bead-d5bf92e9edf4#ref=rss)
-* [https://www.spiegel.de/ausland/irak-grausiger-fund-behoerden-bergen-knochen-von-ermordeten-kurdischen-frauen-und-kindern](https://www.spiegel.de/ausland/irak-grausiger-fund-behoerden-bergen-knochen-von-ermordeten-kurdischen-frauen-und-kindern-a-07073c97-731c-4576-95ed-c256e6861b05#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/angriff-auf-spd-mitglieder-in-berlin-weitere-verdaechtige-ermittelt](https://www.spiegel.de/panorama/justiz/angriff-auf-spd-mitglieder-in-berlin-weitere-verdaechtige-ermittelt-a-a482929c-b14b-4aec-820b-91cce94aae52#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/wissenschaft/technik/ueberlebenschance-bei-flugzeugabstuerzen-die-billigsten-plaetze-sind-die-sichersten](https://www.spiegel.de/wissenschaft/technik/ueberlebenschance-bei-flugzeugabstuerzen-die-billigsten-plaetze-sind-die-sichersten-a-d8f5d55e-e8ed-47ac-824f-f18d05acb265#ref=rss)
-* [https://www.spiegel.de/sport/darts-wm-australier-heta-wirft-neundarter-und-selbst-sein-gegner-feiert-mit](https://www.spiegel.de/sport/darts-wm-australier-heta-wirft-neundarter-und-selbst-sein-gegner-feiert-mit-a-0ed1f18c-34b0-4afa-8e54-3f7613f0a04e#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-trennt-sich-von-trainer-bo-svensson](https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-trennt-sich-von-trainer-bo-svensson-a-93fb932f-8986-405f-8e27-285958070965#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/angriff-auf-spd-mitglieder-in-berlin-weitere-verdaechtige-ermittelt](https://www.spiegel.de/panorama/justiz/angriff-auf-spd-mitglieder-in-berlin-weitere-verdaechtige-ermittelt-a-a482929c-b14b-4aec-820b-91cce94aae52#ref=rss)
-### weihnachtsmarkt
-
-* [https://www.spiegel.de/panorama/justiz/anschlag-in-magdeburg-wieso-konnte-taleb-al-abdulmohsen-auf-den-weihnachtsmarkt-rasen](https://www.spiegel.de/panorama/justiz/anschlag-in-magdeburg-wieso-konnte-taleb-al-abdulmohsen-auf-den-weihnachtsmarkt-rasen-a-77ed3ffa-b6f0-47ec-80a2-65ef09fbce52#ref=rss)
-### stand
-
-* [https://www.spiegel.de/panorama/justiz/anschlag-in-magdeburg-wieso-konnte-taleb-al-abdulmohsen-auf-den-weihnachtsmarkt-rasen](https://www.spiegel.de/panorama/justiz/anschlag-in-magdeburg-wieso-konnte-taleb-al-abdulmohsen-auf-den-weihnachtsmarkt-rasen-a-77ed3ffa-b6f0-47ec-80a2-65ef09fbce52#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/suzuki-ehemaliger-patriarch-osamu-suzuki-ist-tot](https://www.spiegel.de/wirtschaft/unternehmen/suzuki-ehemaliger-patriarch-osamu-suzuki-ist-tot-a-1e69628e-9d80-4e5c-bc55-cc3ad23ba76d#ref=rss)
-### siegen
-
-* [https://www.spiegel.de/panorama/justiz/polizeieinsatz-in-siegen-mann-stirbt-auf-offener-strasse-an-stichverletzung](https://www.spiegel.de/panorama/justiz/polizeieinsatz-in-siegen-mann-stirbt-auf-offener-strasse-an-stichverletzung-a-7f5b3fd8-47da-465f-b1c1-38163174e812#ref=rss)
-### straße
-
-* [https://www.spiegel.de/panorama/justiz/polizeieinsatz-in-siegen-mann-stirbt-auf-offener-strasse-an-stichverletzung](https://www.spiegel.de/panorama/justiz/polizeieinsatz-in-siegen-mann-stirbt-auf-offener-strasse-an-stichverletzung-a-7f5b3fd8-47da-465f-b1c1-38163174e812#ref=rss)
-### gefunden
-
-* [https://www.spiegel.de/panorama/justiz/polizeieinsatz-in-siegen-mann-stirbt-auf-offener-strasse-an-stichverletzung](https://www.spiegel.de/panorama/justiz/polizeieinsatz-in-siegen-mann-stirbt-auf-offener-strasse-an-stichverletzung-a-7f5b3fd8-47da-465f-b1c1-38163174e812#ref=rss)
-* [https://www.spiegel.de/ausland/irak-grausiger-fund-behoerden-bergen-knochen-von-ermordeten-kurdischen-frauen-und-kindern](https://www.spiegel.de/ausland/irak-grausiger-fund-behoerden-bergen-knochen-von-ermordeten-kurdischen-frauen-und-kindern-a-07073c97-731c-4576-95ed-c256e6861b05#ref=rss)
-### china
-
-* [https://www.spiegel.de/panorama/justiz/china-mann-in-zhuhai-nach-toedlichem-angriff-mit-auto-zum-tode-verurteilt](https://www.spiegel.de/panorama/justiz/china-mann-in-zhuhai-nach-toedlichem-angriff-mit-auto-zum-tode-verurteilt-a-aa6eb88f-e228-453b-9d50-a582862c382a#ref=rss)
-* [https://www.spiegel.de/ausland/china-stellt-neues-kriegsschiff-sichuan-vor](https://www.spiegel.de/ausland/china-stellt-neues-kriegsschiff-sichuan-vor-a-b193cd2e-7ee3-41d8-965c-9ea7ce59d803#ref=rss)
-### zhuhai
-
-* [https://www.spiegel.de/panorama/justiz/china-mann-in-zhuhai-nach-toedlichem-angriff-mit-auto-zum-tode-verurteilt](https://www.spiegel.de/panorama/justiz/china-mann-in-zhuhai-nach-toedlichem-angriff-mit-auto-zum-tode-verurteilt-a-aa6eb88f-e228-453b-9d50-a582862c382a#ref=rss)
-### angriff
-
-* [https://www.spiegel.de/panorama/justiz/china-mann-in-zhuhai-nach-toedlichem-angriff-mit-auto-zum-tode-verurteilt](https://www.spiegel.de/panorama/justiz/china-mann-in-zhuhai-nach-toedlichem-angriff-mit-auto-zum-tode-verurteilt-a-aa6eb88f-e228-453b-9d50-a582862c382a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/angriff-auf-spd-mitglieder-in-berlin-weitere-verdaechtige-ermittelt](https://www.spiegel.de/panorama/justiz/angriff-auf-spd-mitglieder-in-berlin-weitere-verdaechtige-ermittelt-a-a482929c-b14b-4aec-820b-91cce94aae52#ref=rss)
-### tode
-
-* [https://www.spiegel.de/panorama/justiz/china-mann-in-zhuhai-nach-toedlichem-angriff-mit-auto-zum-tode-verurteilt](https://www.spiegel.de/panorama/justiz/china-mann-in-zhuhai-nach-toedlichem-angriff-mit-auto-zum-tode-verurteilt-a-aa6eb88f-e228-453b-9d50-a582862c382a#ref=rss)
-### verurteilt
-
-* [https://www.spiegel.de/panorama/justiz/china-mann-in-zhuhai-nach-toedlichem-angriff-mit-auto-zum-tode-verurteilt](https://www.spiegel.de/panorama/justiz/china-mann-in-zhuhai-nach-toedlichem-angriff-mit-auto-zum-tode-verurteilt-a-aa6eb88f-e228-453b-9d50-a582862c382a#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/justiz/china-mann-in-zhuhai-nach-toedlichem-angriff-mit-auto-zum-tode-verurteilt](https://www.spiegel.de/panorama/justiz/china-mann-in-zhuhai-nach-toedlichem-angriff-mit-auto-zum-tode-verurteilt-a-aa6eb88f-e228-453b-9d50-a582862c382a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/ueberlebenschance-bei-flugzeugabstuerzen-die-billigsten-plaetze-sind-die-sichersten](https://www.spiegel.de/wissenschaft/technik/ueberlebenschance-bei-flugzeugabstuerzen-die-billigsten-plaetze-sind-die-sichersten-a-d8f5d55e-e8ed-47ac-824f-f18d05acb265#ref=rss)
-### stellt
-
-* [https://www.spiegel.de/ausland/china-stellt-neues-kriegsschiff-sichuan-vor](https://www.spiegel.de/ausland/china-stellt-neues-kriegsschiff-sichuan-vor-a-b193cd2e-7ee3-41d8-965c-9ea7ce59d803#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-wikipedia-spender-lassen-sich-von-boykottaufruf-nicht-abschrecken](https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-wikipedia-spender-lassen-sich-von-boykottaufruf-nicht-abschrecken-a-6df91e84-6f61-453e-95b6-8e2789c56efd#ref=rss)
-### kriegsschiff
-
-* [https://www.spiegel.de/ausland/china-stellt-neues-kriegsschiff-sichuan-vor](https://www.spiegel.de/ausland/china-stellt-neues-kriegsschiff-sichuan-vor-a-b193cd2e-7ee3-41d8-965c-9ea7ce59d803#ref=rss)
-### wissing
-
-* [https://www.spiegel.de/politik/volker-wissing-kritisiert-fdp-chef-christian-lindner-fuer-komplimente-an-elon-musk](https://www.spiegel.de/politik/volker-wissing-kritisiert-fdp-chef-christian-lindner-fuer-komplimente-an-elon-musk-a-77c26086-6ed4-44a4-bebf-e9a90781b19c#ref=rss)
-### kritisiert
-
-* [https://www.spiegel.de/politik/volker-wissing-kritisiert-fdp-chef-christian-lindner-fuer-komplimente-an-elon-musk](https://www.spiegel.de/politik/volker-wissing-kritisiert-fdp-chef-christian-lindner-fuer-komplimente-an-elon-musk-a-77c26086-6ed4-44a4-bebf-e9a90781b19c#ref=rss)
-### fdpchef
-
-* [https://www.spiegel.de/politik/volker-wissing-kritisiert-fdp-chef-christian-lindner-fuer-komplimente-an-elon-musk](https://www.spiegel.de/politik/volker-wissing-kritisiert-fdp-chef-christian-lindner-fuer-komplimente-an-elon-musk-a-77c26086-6ed4-44a4-bebf-e9a90781b19c#ref=rss)
-### lindner
-
-* [https://www.spiegel.de/politik/volker-wissing-kritisiert-fdp-chef-christian-lindner-fuer-komplimente-an-elon-musk](https://www.spiegel.de/politik/volker-wissing-kritisiert-fdp-chef-christian-lindner-fuer-komplimente-an-elon-musk-a-77c26086-6ed4-44a4-bebf-e9a90781b19c#ref=rss)
-### osamu
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/suzuki-ehemaliger-patriarch-osamu-suzuki-ist-tot](https://www.spiegel.de/wirtschaft/unternehmen/suzuki-ehemaliger-patriarch-osamu-suzuki-ist-tot-a-1e69628e-9d80-4e5c-bc55-cc3ad23ba76d#ref=rss)
-### gestorben
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/suzuki-ehemaliger-patriarch-osamu-suzuki-ist-tot](https://www.spiegel.de/wirtschaft/unternehmen/suzuki-ehemaliger-patriarch-osamu-suzuki-ist-tot-a-1e69628e-9d80-4e5c-bc55-cc3ad23ba76d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/ex-bundesbankpraesident-helmut-schlesinger-ist-tot](https://www.spiegel.de/wirtschaft/unternehmen/ex-bundesbankpraesident-helmut-schlesinger-ist-tot-a-25a0b710-503f-4f9c-a969-fe7ff370f9a8#ref=rss)
-### hamburger
-
-* [https://www.spiegel.de/auto/hamburger-s-bahn-station-geht-ein-halbes-jahr-spaeter-in-betrieb-weil-spezialisten-fehlen](https://www.spiegel.de/auto/hamburger-s-bahn-station-geht-ein-halbes-jahr-spaeter-in-betrieb-weil-spezialisten-fehlen-a-4d71d25e-ca2b-44a4-956b-b5b89a31995c#ref=rss)
-### sbahnstation
-
-* [https://www.spiegel.de/auto/hamburger-s-bahn-station-geht-ein-halbes-jahr-spaeter-in-betrieb-weil-spezialisten-fehlen](https://www.spiegel.de/auto/hamburger-s-bahn-station-geht-ein-halbes-jahr-spaeter-in-betrieb-weil-spezialisten-fehlen-a-4d71d25e-ca2b-44a4-956b-b5b89a31995c#ref=rss)
-### gesucht
-
-* [https://www.spiegel.de/auto/hamburger-s-bahn-station-geht-ein-halbes-jahr-spaeter-in-betrieb-weil-spezialisten-fehlen](https://www.spiegel.de/auto/hamburger-s-bahn-station-geht-ein-halbes-jahr-spaeter-in-betrieb-weil-spezialisten-fehlen-a-4d71d25e-ca2b-44a4-956b-b5b89a31995c#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-trennt-sich-von-trainer-bo-svensson](https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-trennt-sich-von-trainer-bo-svensson-a-93fb932f-8986-405f-8e27-285958070965#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/israel-raeumt-letztes-krankenhaus-im-norden-von-gaza](https://www.spiegel.de/ausland/israel-raeumt-letztes-krankenhaus-im-norden-von-gaza-a-337f7a61-d1c5-40e4-98ad-624321526525#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-krieg-israel-nutzt-offenbar-fehlerhafte-methoden](https://www.spiegel.de/ausland/gaza-krieg-israel-nutzt-offenbar-fehlerhafte-methoden-a-8e8026a4-8463-4b35-8cc0-852e1031c553#ref=rss)
-### krankenhaus
-
-* [https://www.spiegel.de/ausland/israel-raeumt-letztes-krankenhaus-im-norden-von-gaza](https://www.spiegel.de/ausland/israel-raeumt-letztes-krankenhaus-im-norden-von-gaza-a-337f7a61-d1c5-40e4-98ad-624321526525#ref=rss)
-### norden
-
-* [https://www.spiegel.de/ausland/israel-raeumt-letztes-krankenhaus-im-norden-von-gaza](https://www.spiegel.de/ausland/israel-raeumt-letztes-krankenhaus-im-norden-von-gaza-a-337f7a61-d1c5-40e4-98ad-624321526525#ref=rss)
-### armee
-
-* [https://www.spiegel.de/ausland/israel-raeumt-letztes-krankenhaus-im-norden-von-gaza](https://www.spiegel.de/ausland/israel-raeumt-letztes-krankenhaus-im-norden-von-gaza-a-337f7a61-d1c5-40e4-98ad-624321526525#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-krieg-israel-nutzt-offenbar-fehlerhafte-methoden](https://www.spiegel.de/ausland/gaza-krieg-israel-nutzt-offenbar-fehlerhafte-methoden-a-8e8026a4-8463-4b35-8cc0-852e1031c553#ref=rss)
-### zivilisten
-
-* [https://www.spiegel.de/ausland/israel-raeumt-letztes-krankenhaus-im-norden-von-gaza](https://www.spiegel.de/ausland/israel-raeumt-letztes-krankenhaus-im-norden-von-gaza-a-337f7a61-d1c5-40e4-98ad-624321526525#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-krieg-israel-nutzt-offenbar-fehlerhafte-methoden](https://www.spiegel.de/ausland/gaza-krieg-israel-nutzt-offenbar-fehlerhafte-methoden-a-8e8026a4-8463-4b35-8cc0-852e1031c553#ref=rss)
-### todesfahrt
-
-* [https://www.spiegel.de/politik/deutschland/innenpolitik-die-todesfahrt-von-magdeburg-ist-laengst-teil-des-wahlkampfs-merz-verschaerft-den-ton](https://www.spiegel.de/politik/deutschland/innenpolitik-die-todesfahrt-von-magdeburg-ist-laengst-teil-des-wahlkampfs-merz-verschaerft-den-ton-a-6efaae34-db70-471c-8549-38d5a513161f#ref=rss)
-### verschärft
-
-* [https://www.spiegel.de/politik/deutschland/innenpolitik-die-todesfahrt-von-magdeburg-ist-laengst-teil-des-wahlkampfs-merz-verschaerft-den-ton](https://www.spiegel.de/politik/deutschland/innenpolitik-die-todesfahrt-von-magdeburg-ist-laengst-teil-des-wahlkampfs-merz-verschaerft-den-ton-a-6efaae34-db70-471c-8549-38d5a513161f#ref=rss)
-### ton
-
-* [https://www.spiegel.de/politik/deutschland/innenpolitik-die-todesfahrt-von-magdeburg-ist-laengst-teil-des-wahlkampfs-merz-verschaerft-den-ton](https://www.spiegel.de/politik/deutschland/innenpolitik-die-todesfahrt-von-magdeburg-ist-laengst-teil-des-wahlkampfs-merz-verschaerft-den-ton-a-6efaae34-db70-471c-8549-38d5a513161f#ref=rss)
-### cduchef
-
-* [https://www.spiegel.de/politik/deutschland/innenpolitik-die-todesfahrt-von-magdeburg-ist-laengst-teil-des-wahlkampfs-merz-verschaerft-den-ton](https://www.spiegel.de/politik/deutschland/innenpolitik-die-todesfahrt-von-magdeburg-ist-laengst-teil-des-wahlkampfs-merz-verschaerft-den-ton-a-6efaae34-db70-471c-8549-38d5a513161f#ref=rss)
-* [https://www.spiegel.de/politik/bundestagswahlkampf-olaf-scholz-wirft-friedrich-merz-zickzackkurs-in-ukrainepolitik-vor](https://www.spiegel.de/politik/bundestagswahlkampf-olaf-scholz-wirft-friedrich-merz-zickzackkurs-in-ukrainepolitik-vor-a-6a175c3c-1913-4dba-b20b-a66ddb8f67c1#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/innenpolitik-die-todesfahrt-von-magdeburg-ist-laengst-teil-des-wahlkampfs-merz-verschaerft-den-ton](https://www.spiegel.de/politik/deutschland/innenpolitik-die-todesfahrt-von-magdeburg-ist-laengst-teil-des-wahlkampfs-merz-verschaerft-den-ton-a-6efaae34-db70-471c-8549-38d5a513161f#ref=rss)
-* [https://www.spiegel.de/politik/bundestagswahlkampf-olaf-scholz-wirft-friedrich-merz-zickzackkurs-in-ukrainepolitik-vor](https://www.spiegel.de/politik/bundestagswahlkampf-olaf-scholz-wirft-friedrich-merz-zickzackkurs-in-ukrainepolitik-vor-a-6a175c3c-1913-4dba-b20b-a66ddb8f67c1#ref=rss)
+* [https://www.spiegel.de/ausland/tiktok-in-den-usa-donald-trump-will-verbot-torpedieren](https://www.spiegel.de/ausland/tiktok-in-den-usa-donald-trump-will-verbot-torpedieren-a-6b943e37-a584-4f64-a05f-6a80af44894b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/usa-schuldenobergrenze-koennte-mitte-januar-erreicht-werden](https://www.spiegel.de/wirtschaft/soziales/usa-schuldenobergrenze-koennte-mitte-januar-erreicht-werden-a-dee14fe4-b43d-423f-afdb-f60768baab7d#ref=rss)
+* [https://www.spiegel.de/ausland/news-frank-walter-steinmeier-donald-trump-wladimir-putin-baschar-al-assad](https://www.spiegel.de/ausland/news-frank-walter-steinmeier-donald-trump-wladimir-putin-baschar-al-assad-a-7e35de09-7fa0-4aac-ab51-7946f4b4e904#ref=rss)
+* [https://www.spiegel.de/ausland/usa-elon-musk-und-vivek-ramaswamy-legen-sich-mit-den-maga-rechten-an](https://www.spiegel.de/ausland/usa-elon-musk-und-vivek-ramaswamy-legen-sich-mit-den-maga-rechten-an-a-03cb349d-b427-40fa-a649-95c6467088eb#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-veroeffentlicht-offenbar-aus-versehen-private-nachricht-an-elon-musk](https://www.spiegel.de/ausland/donald-trump-veroeffentlicht-offenbar-aus-versehen-private-nachricht-an-elon-musk-a-37a94e05-fe03-4e2a-be19-bd2152d77070#ref=rss)
 ### 2024
 
-* [https://www.spiegel.de/wissenschaft/natur/klimawandel-sorgte-2024-im-mittel-fuer-sechs-wochen-extra-hitze](https://www.spiegel.de/wissenschaft/natur/klimawandel-sorgte-2024-im-mittel-fuer-sechs-wochen-extra-hitze-a-9a7a172f-1499-449f-9191-2ea8e1c03996#ref=rss)
-### bekannt
+* [https://www.spiegel.de/kultur/die-toten-des-jahres-2024-von-diesen-prominenten-mussten-wir-uns-verabschieden](https://www.spiegel.de/kultur/die-toten-des-jahres-2024-von-diesen-prominenten-mussten-wir-uns-verabschieden-a-03077cec-5950-49ea-b4aa-4c8adb5de6ec#ref=rss)
+* [https://www.spiegel.de/auto/fahrkultur/tesla-schleswig-holstein-hvo-sprit-die-flops-in-der-mobilitaet-2024](https://www.spiegel.de/auto/fahrkultur/tesla-schleswig-holstein-hvo-sprit-die-flops-in-der-mobilitaet-2024-a-9bc97e68-e20f-4634-bfc0-c85eca15eefe#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/emilia-und-noah-das-waren-die-beliebtesten-babynamen-2024](https://www.spiegel.de/panorama/gesellschaft/emilia-und-noah-das-waren-die-beliebtesten-babynamen-2024-a-c818f54b-ed7f-4d24-a10d-af2f4c245ac2#ref=rss)
+### trump
 
-* [https://www.spiegel.de/wissenschaft/natur/klimawandel-sorgte-2024-im-mittel-fuer-sechs-wochen-extra-hitze](https://www.spiegel.de/wissenschaft/natur/klimawandel-sorgte-2024-im-mittel-fuer-sechs-wochen-extra-hitze-a-9a7a172f-1499-449f-9191-2ea8e1c03996#ref=rss)
-* [https://www.spiegel.de/ausland/iran-italienische-journalistin-cecilia-sala-festgenommen](https://www.spiegel.de/ausland/iran-italienische-journalistin-cecilia-sala-festgenommen-a-62294bc1-c5d8-414e-bead-d5bf92e9edf4#ref=rss)
-### südkorea
+* [https://www.spiegel.de/ausland/tiktok-in-den-usa-donald-trump-will-verbot-torpedieren](https://www.spiegel.de/ausland/tiktok-in-den-usa-donald-trump-will-verbot-torpedieren-a-6b943e37-a584-4f64-a05f-6a80af44894b#ref=rss)
+* [https://www.spiegel.de/ausland/news-frank-walter-steinmeier-donald-trump-wladimir-putin-baschar-al-assad](https://www.spiegel.de/ausland/news-frank-walter-steinmeier-donald-trump-wladimir-putin-baschar-al-assad-a-7e35de09-7fa0-4aac-ab51-7946f4b4e904#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-veroeffentlicht-offenbar-aus-versehen-private-nachricht-an-elon-musk](https://www.spiegel.de/ausland/donald-trump-veroeffentlicht-offenbar-aus-versehen-private-nachricht-an-elon-musk-a-37a94e05-fe03-4e2a-be19-bd2152d77070#ref=rss)
+### jahres
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-datenleck-bei-volkswagen-suedkorea-nasa-mission-sonde-parker-solar-probe](https://www.spiegel.de/politik/deutschland/news-des-tages-datenleck-bei-volkswagen-suedkorea-nasa-mission-sonde-parker-solar-probe-a-ddbe7368-edca-4002-ba10-8c28f85bf7e9#ref=rss)
-### sonde
+* [https://www.spiegel.de/familie/einfache-tipps-fuer-ein-sauberes-ordentliches-zuhause-podcast-mit-jennifer-schulz](https://www.spiegel.de/familie/einfache-tipps-fuer-ein-sauberes-ordentliches-zuhause-podcast-mit-jennifer-schulz-a-17adca1f-4f65-4ccb-95bf-4684dcb765f3#ref=rss)
+* [https://www.spiegel.de/kultur/die-toten-des-jahres-2024-von-diesen-prominenten-mussten-wir-uns-verabschieden](https://www.spiegel.de/kultur/die-toten-des-jahres-2024-von-diesen-prominenten-mussten-wir-uns-verabschieden-a-03077cec-5950-49ea-b4aa-4c8adb5de6ec#ref=rss)
+* [https://www.spiegel.de/sport/golf/golf-scottie-sheffler-verletzt-sich-beim-weihnachtsessen](https://www.spiegel.de/sport/golf/golf-scottie-sheffler-verletzt-sich-beim-weihnachtsessen-a-8294feca-7946-4b9c-849f-e0b663d3281b#ref=rss)
+### wir
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-datenleck-bei-volkswagen-suedkorea-nasa-mission-sonde-parker-solar-probe](https://www.spiegel.de/politik/deutschland/news-des-tages-datenleck-bei-volkswagen-suedkorea-nasa-mission-sonde-parker-solar-probe-a-ddbe7368-edca-4002-ba10-8c28f85bf7e9#ref=rss)
-### demokratie
+* [https://www.spiegel.de/ausland/russland-schiesst-in-propagandavideo-den-weihnachtsmann-ab](https://www.spiegel.de/ausland/russland-schiesst-in-propagandavideo-den-weihnachtsmann-ab-a-14238086-c474-4875-9d13-243f4da125e9#ref=rss)
+* [https://www.spiegel.de/kultur/die-toten-des-jahres-2024-von-diesen-prominenten-mussten-wir-uns-verabschieden](https://www.spiegel.de/kultur/die-toten-des-jahres-2024-von-diesen-prominenten-mussten-wir-uns-verabschieden-a-03077cec-5950-49ea-b4aa-4c8adb5de6ec#ref=rss)
+* [https://www.spiegel.de/ausland/news-frank-walter-steinmeier-donald-trump-wladimir-putin-baschar-al-assad](https://www.spiegel.de/ausland/news-frank-walter-steinmeier-donald-trump-wladimir-putin-baschar-al-assad-a-7e35de09-7fa0-4aac-ab51-7946f4b4e904#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-veroeffentlicht-offenbar-aus-versehen-private-nachricht-an-elon-musk](https://www.spiegel.de/ausland/donald-trump-veroeffentlicht-offenbar-aus-versehen-private-nachricht-an-elon-musk-a-37a94e05-fe03-4e2a-be19-bd2152d77070#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-datenleck-bei-volkswagen-suedkorea-nasa-mission-sonde-parker-solar-probe](https://www.spiegel.de/politik/deutschland/news-des-tages-datenleck-bei-volkswagen-suedkorea-nasa-mission-sonde-parker-solar-probe-a-ddbe7368-edca-4002-ba10-8c28f85bf7e9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestag-aufgeloest-bundespraesident-frank-walter-steinmeier-loest-bundestag-auf-und-warnt-vor-elon-musk](https://www.spiegel.de/politik/deutschland/bundestag-aufgeloest-bundespraesident-frank-walter-steinmeier-loest-bundestag-auf-und-warnt-vor-elon-musk-a-c6897e2f-9c7c-4c8d-a207-b09c91acbee8#ref=rss)
-### mads
+* [https://www.spiegel.de/panorama/gesellschaft/usa-obdachlosigkeit-auf-rekordwert-gestiegen](https://www.spiegel.de/panorama/gesellschaft/usa-obdachlosigkeit-auf-rekordwert-gestiegen-a-5b4a9bd0-d93f-4a6b-a08f-b8251c2f0b04#ref=rss)
+* [https://www.spiegel.de/reise/fernweh/safaritourismus-in-afrika-warum-elefanten-in-botswana-zum-problem-werden](https://www.spiegel.de/reise/fernweh/safaritourismus-in-afrika-warum-elefanten-in-botswana-zum-problem-werden-a-513dbcc9-6b84-4a6c-a761-242f7b9ebf62#ref=rss)
+* [https://www.spiegel.de/ausland/unicef-schaetzungen-mehr-kinder-als-je-zuvor-von-konflikten-und-kriegen-betroffen](https://www.spiegel.de/ausland/unicef-schaetzungen-mehr-kinder-als-je-zuvor-von-konflikten-und-kriegen-betroffen-a-5a18e730-8c8b-42d7-b27b-cf6cba38b161#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/elektronische-patientenakte-epa-ccc-sieht-eklatante-sicherheitsluecken](https://www.spiegel.de/netzwelt/netzpolitik/elektronische-patientenakte-epa-ccc-sieht-eklatante-sicherheitsluecken-a-32dd2310-f52d-403c-9ec7-40d9b6426112#ref=rss)
+### waren
 
-* [https://www.spiegel.de/kultur/mads-mikkelsen-fand-es-super-befreiend-ein-loewe-zu-sein](https://www.spiegel.de/kultur/mads-mikkelsen-fand-es-super-befreiend-ein-loewe-zu-sein-a-18c3c5f5-c8c7-4e3e-90c9-55569f4b0c1b#ref=rss)
-### mikkelsen
+* [https://www.spiegel.de/panorama/gesellschaft/usa-obdachlosigkeit-auf-rekordwert-gestiegen](https://www.spiegel.de/panorama/gesellschaft/usa-obdachlosigkeit-auf-rekordwert-gestiegen-a-5b4a9bd0-d93f-4a6b-a08f-b8251c2f0b04#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/emilia-und-noah-das-waren-die-beliebtesten-babynamen-2024](https://www.spiegel.de/panorama/gesellschaft/emilia-und-noah-das-waren-die-beliebtesten-babynamen-2024-a-c818f54b-ed7f-4d24-a10d-af2f4c245ac2#ref=rss)
+* [https://www.spiegel.de/ausland/katholische-kirche-diese-sexarbeiterinnen-waren-mit-dem-papst-mittagessen](https://www.spiegel.de/ausland/katholische-kirche-diese-sexarbeiterinnen-waren-mit-dem-papst-mittagessen-a-528c008d-9b5d-4cde-bdae-145db779dc16#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-soldaten-aus-nordkorea-nischer-gefangenschaft](https://www.spiegel.de/ausland/ukraine-krieg-soldaten-aus-nordkorea-nischer-gefangenschaft-a-0769a8b4-fa9c-4166-ba0e-f9bcece838f7#ref=rss)
+### kinder
 
-* [https://www.spiegel.de/kultur/mads-mikkelsen-fand-es-super-befreiend-ein-loewe-zu-sein](https://www.spiegel.de/kultur/mads-mikkelsen-fand-es-super-befreiend-ein-loewe-zu-sein-a-18c3c5f5-c8c7-4e3e-90c9-55569f4b0c1b#ref=rss)
-### johnny
+* [https://www.spiegel.de/panorama/gesellschaft/usa-obdachlosigkeit-auf-rekordwert-gestiegen](https://www.spiegel.de/panorama/gesellschaft/usa-obdachlosigkeit-auf-rekordwert-gestiegen-a-5b4a9bd0-d93f-4a6b-a08f-b8251c2f0b04#ref=rss)
+* [https://www.spiegel.de/ausland/unicef-schaetzungen-mehr-kinder-als-je-zuvor-von-konflikten-und-kriegen-betroffen](https://www.spiegel.de/ausland/unicef-schaetzungen-mehr-kinder-als-je-zuvor-von-konflikten-und-kriegen-betroffen-a-5a18e730-8c8b-42d7-b27b-cf6cba38b161#ref=rss)
+* [https://www.spiegel.de/wissenschaft/malaria-und-atemwegsinfektionen-sind-der-grund-fuer-raetselhafte-todesfaelle-im-kongo](https://www.spiegel.de/wissenschaft/malaria-und-atemwegsinfektionen-sind-der-grund-fuer-raetselhafte-todesfaelle-im-kongo-a-7a27f9de-3976-4d40-9532-de9a70ed0950#ref=rss)
+### elon
 
-* [https://www.spiegel.de/panorama/johnny-depp-anwaelte-verraten-strategie-im-prozess-gegen-amber-heard](https://www.spiegel.de/panorama/johnny-depp-anwaelte-verraten-strategie-im-prozess-gegen-amber-heard-a-1ba5eaa5-f637-4681-a21e-f344bebbc208#ref=rss)
-### depp
+* [https://www.spiegel.de/auto/fahrkultur/tesla-schleswig-holstein-hvo-sprit-die-flops-in-der-mobilitaet-2024](https://www.spiegel.de/auto/fahrkultur/tesla-schleswig-holstein-hvo-sprit-die-flops-in-der-mobilitaet-2024-a-9bc97e68-e20f-4634-bfc0-c85eca15eefe#ref=rss)
+* [https://www.spiegel.de/ausland/usa-elon-musk-und-vivek-ramaswamy-legen-sich-mit-den-maga-rechten-an](https://www.spiegel.de/ausland/usa-elon-musk-und-vivek-ramaswamy-legen-sich-mit-den-maga-rechten-an-a-03cb349d-b427-40fa-a649-95c6467088eb#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-veroeffentlicht-offenbar-aus-versehen-private-nachricht-an-elon-musk](https://www.spiegel.de/ausland/donald-trump-veroeffentlicht-offenbar-aus-versehen-private-nachricht-an-elon-musk-a-37a94e05-fe03-4e2a-be19-bd2152d77070#ref=rss)
+### musk
 
-* [https://www.spiegel.de/panorama/johnny-depp-anwaelte-verraten-strategie-im-prozess-gegen-amber-heard](https://www.spiegel.de/panorama/johnny-depp-anwaelte-verraten-strategie-im-prozess-gegen-amber-heard-a-1ba5eaa5-f637-4681-a21e-f344bebbc208#ref=rss)
-### anwälte
+* [https://www.spiegel.de/auto/fahrkultur/tesla-schleswig-holstein-hvo-sprit-die-flops-in-der-mobilitaet-2024](https://www.spiegel.de/auto/fahrkultur/tesla-schleswig-holstein-hvo-sprit-die-flops-in-der-mobilitaet-2024-a-9bc97e68-e20f-4634-bfc0-c85eca15eefe#ref=rss)
+* [https://www.spiegel.de/ausland/usa-elon-musk-und-vivek-ramaswamy-legen-sich-mit-den-maga-rechten-an](https://www.spiegel.de/ausland/usa-elon-musk-und-vivek-ramaswamy-legen-sich-mit-den-maga-rechten-an-a-03cb349d-b427-40fa-a649-95c6467088eb#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-veroeffentlicht-offenbar-aus-versehen-private-nachricht-an-elon-musk](https://www.spiegel.de/ausland/donald-trump-veroeffentlicht-offenbar-aus-versehen-private-nachricht-an-elon-musk-a-37a94e05-fe03-4e2a-be19-bd2152d77070#ref=rss)
+### nachricht
 
-* [https://www.spiegel.de/panorama/johnny-depp-anwaelte-verraten-strategie-im-prozess-gegen-amber-heard](https://www.spiegel.de/panorama/johnny-depp-anwaelte-verraten-strategie-im-prozess-gegen-amber-heard-a-1ba5eaa5-f637-4681-a21e-f344bebbc208#ref=rss)
-### verraten
+* [https://www.spiegel.de/wissenschaft/malaria-und-atemwegsinfektionen-sind-der-grund-fuer-raetselhafte-todesfaelle-im-kongo](https://www.spiegel.de/wissenschaft/malaria-und-atemwegsinfektionen-sind-der-grund-fuer-raetselhafte-todesfaelle-im-kongo-a-7a27f9de-3976-4d40-9532-de9a70ed0950#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-veroeffentlicht-offenbar-aus-versehen-private-nachricht-an-elon-musk](https://www.spiegel.de/ausland/donald-trump-veroeffentlicht-offenbar-aus-versehen-private-nachricht-an-elon-musk-a-37a94e05-fe03-4e2a-be19-bd2152d77070#ref=rss)
+### soldaten
 
-* [https://www.spiegel.de/panorama/johnny-depp-anwaelte-verraten-strategie-im-prozess-gegen-amber-heard](https://www.spiegel.de/panorama/johnny-depp-anwaelte-verraten-strategie-im-prozess-gegen-amber-heard-a-1ba5eaa5-f637-4681-a21e-f344bebbc208#ref=rss)
-### amber
+* [https://www.spiegel.de/ausland/russland-schiesst-in-propagandavideo-den-weihnachtsmann-ab](https://www.spiegel.de/ausland/russland-schiesst-in-propagandavideo-den-weihnachtsmann-ab-a-14238086-c474-4875-9d13-243f4da125e9#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-soldaten-aus-nordkorea-nischer-gefangenschaft](https://www.spiegel.de/ausland/ukraine-krieg-soldaten-aus-nordkorea-nischer-gefangenschaft-a-0769a8b4-fa9c-4166-ba0e-f9bcece838f7#ref=rss)
+### gut
 
-* [https://www.spiegel.de/panorama/johnny-depp-anwaelte-verraten-strategie-im-prozess-gegen-amber-heard](https://www.spiegel.de/panorama/johnny-depp-anwaelte-verraten-strategie-im-prozess-gegen-amber-heard-a-1ba5eaa5-f637-4681-a21e-f344bebbc208#ref=rss)
-### heard
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-cyprien-sarrazin-nach-sturz-erfolgreich-am-kopf-operiert](https://www.spiegel.de/sport/wintersport/ski-alpin-cyprien-sarrazin-nach-sturz-erfolgreich-am-kopf-operiert-a-ad47bfa4-e2b1-4176-9e6d-65bd63a6a42e#ref=rss)
+* [https://www.spiegel.de/reise/fernweh/safaritourismus-in-afrika-warum-elefanten-in-botswana-zum-problem-werden](https://www.spiegel.de/reise/fernweh/safaritourismus-in-afrika-warum-elefanten-in-botswana-zum-problem-werden-a-513dbcc9-6b84-4a6c-a761-242f7b9ebf62#ref=rss)
+* [https://www.spiegel.de/panorama/nina-chuba-und-co-lernen-sie-100-menschen-kennen-die-hoffnung-machen](https://www.spiegel.de/panorama/nina-chuba-und-co-lernen-sie-100-menschen-kennen-die-hoffnung-machen-a-08489a9f-8b89-4686-bea0-1c16fc3c11d1#ref=rss)
+### uns
 
-* [https://www.spiegel.de/panorama/johnny-depp-anwaelte-verraten-strategie-im-prozess-gegen-amber-heard](https://www.spiegel.de/panorama/johnny-depp-anwaelte-verraten-strategie-im-prozess-gegen-amber-heard-a-1ba5eaa5-f637-4681-a21e-f344bebbc208#ref=rss)
-### lang
+* [https://www.spiegel.de/kultur/die-toten-des-jahres-2024-von-diesen-prominenten-mussten-wir-uns-verabschieden](https://www.spiegel.de/kultur/die-toten-des-jahres-2024-von-diesen-prominenten-mussten-wir-uns-verabschieden-a-03077cec-5950-49ea-b4aa-4c8adb5de6ec#ref=rss)
+* [https://www.spiegel.de/panorama/nina-chuba-und-co-lernen-sie-100-menschen-kennen-die-hoffnung-machen](https://www.spiegel.de/panorama/nina-chuba-und-co-lernen-sie-100-menschen-kennen-die-hoffnung-machen-a-08489a9f-8b89-4686-bea0-1c16fc3c11d1#ref=rss)
+### vergangenen
 
-* [https://www.spiegel.de/panorama/johnny-depp-anwaelte-verraten-strategie-im-prozess-gegen-amber-heard](https://www.spiegel.de/panorama/johnny-depp-anwaelte-verraten-strategie-im-prozess-gegen-amber-heard-a-1ba5eaa5-f637-4681-a21e-f344bebbc208#ref=rss)
-* [https://www.spiegel.de/ausland/indien-manmohan-singh-der-premier-der-indien-zur-wirtschaftlichen-macht-asiens-machte-ist-tot](https://www.spiegel.de/ausland/indien-manmohan-singh-der-premier-der-indien-zur-wirtschaftlichen-macht-asiens-machte-ist-tot-a-f45fe41b-bf7a-423c-961c-4fdb6d6c1021#ref=rss)
-### fan
+* [https://www.spiegel.de/kultur/die-toten-des-jahres-2024-von-diesen-prominenten-mussten-wir-uns-verabschieden](https://www.spiegel.de/kultur/die-toten-des-jahres-2024-von-diesen-prominenten-mussten-wir-uns-verabschieden-a-03077cec-5950-49ea-b4aa-4c8adb5de6ec#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/sozialwohnungen-fast-400-000-weniger-als-2014](https://www.spiegel.de/wirtschaft/soziales/sozialwohnungen-fast-400-000-weniger-als-2014-a-fea306de-e254-4c81-808e-4a2c2e95cf91#ref=rss)
+* [https://www.spiegel.de/ausland/news-frank-walter-steinmeier-donald-trump-wladimir-putin-baschar-al-assad](https://www.spiegel.de/ausland/news-frank-walter-steinmeier-donald-trump-wladimir-putin-baschar-al-assad-a-7e35de09-7fa0-4aac-ab51-7946f4b4e904#ref=rss)
+### gestorben
 
-* [https://www.spiegel.de/sport/fussball/fussball-im-iran-umarmung-fuer-weiblichen-fan-nationalspieler-ramin-rezaeian-droht-strafe](https://www.spiegel.de/sport/fussball/fussball-im-iran-umarmung-fuer-weiblichen-fan-nationalspieler-ramin-rezaeian-droht-strafe-a-01e97cc2-1b77-4630-bf3a-6563a831ded1#ref=rss)
-* [https://www.spiegel.de/sport/darts-wm-australier-heta-wirft-neundarter-und-selbst-sein-gegner-feiert-mit](https://www.spiegel.de/sport/darts-wm-australier-heta-wirft-neundarter-und-selbst-sein-gegner-feiert-mit-a-0ed1f18c-34b0-4afa-8e54-3f7613f0a04e#ref=rss)
-### nationalspieler
+* [https://www.spiegel.de/kultur/die-toten-des-jahres-2024-von-diesen-prominenten-mussten-wir-uns-verabschieden](https://www.spiegel.de/kultur/die-toten-des-jahres-2024-von-diesen-prominenten-mussten-wir-uns-verabschieden-a-03077cec-5950-49ea-b4aa-4c8adb5de6ec#ref=rss)
+* [https://www.spiegel.de/kultur/kino/olivia-hussey-ist-tot](https://www.spiegel.de/kultur/kino/olivia-hussey-ist-tot-a-a7e69439-2d12-49b0-b4b1-d8819b34fef8#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-soldaten-aus-nordkorea-nischer-gefangenschaft](https://www.spiegel.de/ausland/ukraine-krieg-soldaten-aus-nordkorea-nischer-gefangenschaft-a-0769a8b4-fa9c-4166-ba0e-f9bcece838f7#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/sport/fussball/fussball-im-iran-umarmung-fuer-weiblichen-fan-nationalspieler-ramin-rezaeian-droht-strafe](https://www.spiegel.de/sport/fussball/fussball-im-iran-umarmung-fuer-weiblichen-fan-nationalspieler-ramin-rezaeian-droht-strafe-a-01e97cc2-1b77-4630-bf3a-6563a831ded1#ref=rss)
-### ramin
+* [https://www.spiegel.de/panorama/gesellschaft/usa-obdachlosigkeit-auf-rekordwert-gestiegen](https://www.spiegel.de/panorama/gesellschaft/usa-obdachlosigkeit-auf-rekordwert-gestiegen-a-5b4a9bd0-d93f-4a6b-a08f-b8251c2f0b04#ref=rss)
+* [https://www.spiegel.de/panorama/nina-chuba-und-co-lernen-sie-100-menschen-kennen-die-hoffnung-machen](https://www.spiegel.de/panorama/nina-chuba-und-co-lernen-sie-100-menschen-kennen-die-hoffnung-machen-a-08489a9f-8b89-4686-bea0-1c16fc3c11d1#ref=rss)
+### januar
 
-* [https://www.spiegel.de/sport/fussball/fussball-im-iran-umarmung-fuer-weiblichen-fan-nationalspieler-ramin-rezaeian-droht-strafe](https://www.spiegel.de/sport/fussball/fussball-im-iran-umarmung-fuer-weiblichen-fan-nationalspieler-ramin-rezaeian-droht-strafe-a-01e97cc2-1b77-4630-bf3a-6563a831ded1#ref=rss)
-### rezaeian
+* [https://www.spiegel.de/panorama/gesellschaft/usa-obdachlosigkeit-auf-rekordwert-gestiegen](https://www.spiegel.de/panorama/gesellschaft/usa-obdachlosigkeit-auf-rekordwert-gestiegen-a-5b4a9bd0-d93f-4a6b-a08f-b8251c2f0b04#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/usa-schuldenobergrenze-koennte-mitte-januar-erreicht-werden](https://www.spiegel.de/wirtschaft/soziales/usa-schuldenobergrenze-koennte-mitte-januar-erreicht-werden-a-dee14fe4-b43d-423f-afdb-f60768baab7d#ref=rss)
+### fachkräftemangel
 
-* [https://www.spiegel.de/sport/fussball/fussball-im-iran-umarmung-fuer-weiblichen-fan-nationalspieler-ramin-rezaeian-droht-strafe](https://www.spiegel.de/sport/fussball/fussball-im-iran-umarmung-fuer-weiblichen-fan-nationalspieler-ramin-rezaeian-droht-strafe-a-01e97cc2-1b77-4630-bf3a-6563a831ded1#ref=rss)
-### folge
+* [https://www.spiegel.de/karriere/fachkraeftemangel-von-brasilien-nach-bayern-und-schnell-wieder-zurueck](https://www.spiegel.de/karriere/fachkraeftemangel-von-brasilien-nach-bayern-und-schnell-wieder-zurueck-a-8e08b3f1-cab6-4091-8df7-037fba6b5ed8#ref=rss)
+* [https://www.spiegel.de/ausland/katholische-kirche-diese-sexarbeiterinnen-waren-mit-dem-papst-mittagessen](https://www.spiegel.de/ausland/katholische-kirche-diese-sexarbeiterinnen-waren-mit-dem-papst-mittagessen-a-528c008d-9b5d-4cde-bdae-145db779dc16#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/sport/fussball/fussball-im-iran-umarmung-fuer-weiblichen-fan-nationalspieler-ramin-rezaeian-droht-strafe](https://www.spiegel.de/sport/fussball/fussball-im-iran-umarmung-fuer-weiblichen-fan-nationalspieler-ramin-rezaeian-droht-strafe-a-01e97cc2-1b77-4630-bf3a-6563a831ded1#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/angriff-auf-spd-mitglieder-in-berlin-weitere-verdaechtige-ermittelt](https://www.spiegel.de/panorama/justiz/angriff-auf-spd-mitglieder-in-berlin-weitere-verdaechtige-ermittelt-a-a482929c-b14b-4aec-820b-91cce94aae52#ref=rss)
-### helmut
+* [https://www.spiegel.de/panorama/gesellschaft/emilia-und-noah-das-waren-die-beliebtesten-babynamen-2024](https://www.spiegel.de/panorama/gesellschaft/emilia-und-noah-das-waren-die-beliebtesten-babynamen-2024-a-c818f54b-ed7f-4d24-a10d-af2f4c245ac2#ref=rss)
+* [https://www.spiegel.de/ausland/news-frank-walter-steinmeier-donald-trump-wladimir-putin-baschar-al-assad](https://www.spiegel.de/ausland/news-frank-walter-steinmeier-donald-trump-wladimir-putin-baschar-al-assad-a-7e35de09-7fa0-4aac-ab51-7946f4b4e904#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bauindustrie-befuerchtet-weiteren-rueckgang-des-neubaus](https://www.spiegel.de/wirtschaft/bauindustrie-befuerchtet-weiteren-rueckgang-des-neubaus-a-aba1cf30-29d4-4504-816b-abd6df9ac2b1#ref=rss)
+### löst
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/ex-bundesbankpraesident-helmut-schlesinger-ist-tot](https://www.spiegel.de/wirtschaft/unternehmen/ex-bundesbankpraesident-helmut-schlesinger-ist-tot-a-25a0b710-503f-4f9c-a969-fe7ff370f9a8#ref=rss)
-### schlesinger
+* [https://www.spiegel.de/ausland/katholische-kirche-diese-sexarbeiterinnen-waren-mit-dem-papst-mittagessen](https://www.spiegel.de/ausland/katholische-kirche-diese-sexarbeiterinnen-waren-mit-dem-papst-mittagessen-a-528c008d-9b5d-4cde-bdae-145db779dc16#ref=rss)
+* [https://www.spiegel.de/ausland/news-frank-walter-steinmeier-donald-trump-wladimir-putin-baschar-al-assad](https://www.spiegel.de/ausland/news-frank-walter-steinmeier-donald-trump-wladimir-putin-baschar-al-assad-a-7e35de09-7fa0-4aac-ab51-7946f4b4e904#ref=rss)
+* [https://www.spiegel.de/panorama/nina-chuba-und-co-lernen-sie-100-menschen-kennen-die-hoffnung-machen](https://www.spiegel.de/panorama/nina-chuba-und-co-lernen-sie-100-menschen-kennen-die-hoffnung-machen-a-08489a9f-8b89-4686-bea0-1c16fc3c11d1#ref=rss)
+### jahr
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/ex-bundesbankpraesident-helmut-schlesinger-ist-tot](https://www.spiegel.de/wirtschaft/unternehmen/ex-bundesbankpraesident-helmut-schlesinger-ist-tot-a-25a0b710-503f-4f9c-a969-fe7ff370f9a8#ref=rss)
-### jahre
+* [https://www.spiegel.de/ausland/news-frank-walter-steinmeier-donald-trump-wladimir-putin-baschar-al-assad](https://www.spiegel.de/ausland/news-frank-walter-steinmeier-donald-trump-wladimir-putin-baschar-al-assad-a-7e35de09-7fa0-4aac-ab51-7946f4b4e904#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bauindustrie-befuerchtet-weiteren-rueckgang-des-neubaus](https://www.spiegel.de/wirtschaft/bauindustrie-befuerchtet-weiteren-rueckgang-des-neubaus-a-aba1cf30-29d4-4504-816b-abd6df9ac2b1#ref=rss)
+### jennifer
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/ex-bundesbankpraesident-helmut-schlesinger-ist-tot](https://www.spiegel.de/wirtschaft/unternehmen/ex-bundesbankpraesident-helmut-schlesinger-ist-tot-a-25a0b710-503f-4f9c-a969-fe7ff370f9a8#ref=rss)
-* [https://www.spiegel.de/ausland/indien-manmohan-singh-der-premier-der-indien-zur-wirtschaftlichen-macht-asiens-machte-ist-tot](https://www.spiegel.de/ausland/indien-manmohan-singh-der-premier-der-indien-zur-wirtschaftlichen-macht-asiens-machte-ist-tot-a-f45fe41b-bf7a-423c-961c-4fdb6d6c1021#ref=rss)
-### olaf
+* [https://www.spiegel.de/familie/einfache-tipps-fuer-ein-sauberes-ordentliches-zuhause-podcast-mit-jennifer-schulz](https://www.spiegel.de/familie/einfache-tipps-fuer-ein-sauberes-ordentliches-zuhause-podcast-mit-jennifer-schulz-a-17adca1f-4f65-4ccb-95bf-4684dcb765f3#ref=rss)
+### schulz
 
-* [https://www.spiegel.de/politik/bundestagswahlkampf-olaf-scholz-wirft-friedrich-merz-zickzackkurs-in-ukrainepolitik-vor](https://www.spiegel.de/politik/bundestagswahlkampf-olaf-scholz-wirft-friedrich-merz-zickzackkurs-in-ukrainepolitik-vor-a-6a175c3c-1913-4dba-b20b-a66ddb8f67c1#ref=rss)
-### scholz
+* [https://www.spiegel.de/familie/einfache-tipps-fuer-ein-sauberes-ordentliches-zuhause-podcast-mit-jennifer-schulz](https://www.spiegel.de/familie/einfache-tipps-fuer-ein-sauberes-ordentliches-zuhause-podcast-mit-jennifer-schulz-a-17adca1f-4f65-4ccb-95bf-4684dcb765f3#ref=rss)
+### gute
 
-* [https://www.spiegel.de/politik/bundestagswahlkampf-olaf-scholz-wirft-friedrich-merz-zickzackkurs-in-ukrainepolitik-vor](https://www.spiegel.de/politik/bundestagswahlkampf-olaf-scholz-wirft-friedrich-merz-zickzackkurs-in-ukrainepolitik-vor-a-6a175c3c-1913-4dba-b20b-a66ddb8f67c1#ref=rss)
-### wirft
+* [https://www.spiegel.de/familie/einfache-tipps-fuer-ein-sauberes-ordentliches-zuhause-podcast-mit-jennifer-schulz](https://www.spiegel.de/familie/einfache-tipps-fuer-ein-sauberes-ordentliches-zuhause-podcast-mit-jennifer-schulz-a-17adca1f-4f65-4ccb-95bf-4684dcb765f3#ref=rss)
+* [https://www.spiegel.de/wissenschaft/malaria-und-atemwegsinfektionen-sind-der-grund-fuer-raetselhafte-todesfaelle-im-kongo](https://www.spiegel.de/wissenschaft/malaria-und-atemwegsinfektionen-sind-der-grund-fuer-raetselhafte-todesfaelle-im-kongo-a-7a27f9de-3976-4d40-9532-de9a70ed0950#ref=rss)
+### schnell
 
-* [https://www.spiegel.de/politik/bundestagswahlkampf-olaf-scholz-wirft-friedrich-merz-zickzackkurs-in-ukrainepolitik-vor](https://www.spiegel.de/politik/bundestagswahlkampf-olaf-scholz-wirft-friedrich-merz-zickzackkurs-in-ukrainepolitik-vor-a-6a175c3c-1913-4dba-b20b-a66ddb8f67c1#ref=rss)
-* [https://www.spiegel.de/sport/darts-wm-australier-heta-wirft-neundarter-und-selbst-sein-gegner-feiert-mit](https://www.spiegel.de/sport/darts-wm-australier-heta-wirft-neundarter-und-selbst-sein-gegner-feiert-mit-a-0ed1f18c-34b0-4afa-8e54-3f7613f0a04e#ref=rss)
-### ukrainepolitik
+* [https://www.spiegel.de/familie/einfache-tipps-fuer-ein-sauberes-ordentliches-zuhause-podcast-mit-jennifer-schulz](https://www.spiegel.de/familie/einfache-tipps-fuer-ein-sauberes-ordentliches-zuhause-podcast-mit-jennifer-schulz-a-17adca1f-4f65-4ccb-95bf-4684dcb765f3#ref=rss)
+* [https://www.spiegel.de/karriere/fachkraeftemangel-von-brasilien-nach-bayern-und-schnell-wieder-zurueck](https://www.spiegel.de/karriere/fachkraeftemangel-von-brasilien-nach-bayern-und-schnell-wieder-zurueck-a-8e08b3f1-cab6-4091-8df7-037fba6b5ed8#ref=rss)
+### weihnachtsmann
 
-* [https://www.spiegel.de/politik/bundestagswahlkampf-olaf-scholz-wirft-friedrich-merz-zickzackkurs-in-ukrainepolitik-vor](https://www.spiegel.de/politik/bundestagswahlkampf-olaf-scholz-wirft-friedrich-merz-zickzackkurs-in-ukrainepolitik-vor-a-6a175c3c-1913-4dba-b20b-a66ddb8f67c1#ref=rss)
-### journalistin
+* [https://www.spiegel.de/ausland/russland-schiesst-in-propagandavideo-den-weihnachtsmann-ab](https://www.spiegel.de/ausland/russland-schiesst-in-propagandavideo-den-weihnachtsmann-ab-a-14238086-c474-4875-9d13-243f4da125e9#ref=rss)
+### russische
 
-* [https://www.spiegel.de/ausland/iran-italienische-journalistin-cecilia-sala-festgenommen](https://www.spiegel.de/ausland/iran-italienische-journalistin-cecilia-sala-festgenommen-a-62294bc1-c5d8-414e-bead-d5bf92e9edf4#ref=rss)
-### festgenommen
+* [https://www.spiegel.de/ausland/russland-schiesst-in-propagandavideo-den-weihnachtsmann-ab](https://www.spiegel.de/ausland/russland-schiesst-in-propagandavideo-den-weihnachtsmann-ab-a-14238086-c474-4875-9d13-243f4da125e9#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-soldaten-aus-nordkorea-nischer-gefangenschaft](https://www.spiegel.de/ausland/ukraine-krieg-soldaten-aus-nordkorea-nischer-gefangenschaft-a-0769a8b4-fa9c-4166-ba0e-f9bcece838f7#ref=rss)
+### unserem
 
-* [https://www.spiegel.de/ausland/iran-italienische-journalistin-cecilia-sala-festgenommen](https://www.spiegel.de/ausland/iran-italienische-journalistin-cecilia-sala-festgenommen-a-62294bc1-c5d8-414e-bead-d5bf92e9edf4#ref=rss)
-### plätze
+* [https://www.spiegel.de/ausland/russland-schiesst-in-propagandavideo-den-weihnachtsmann-ab](https://www.spiegel.de/ausland/russland-schiesst-in-propagandavideo-den-weihnachtsmann-ab-a-14238086-c474-4875-9d13-243f4da125e9#ref=rss)
+* [https://www.spiegel.de/panorama/nina-chuba-und-co-lernen-sie-100-menschen-kennen-die-hoffnung-machen](https://www.spiegel.de/panorama/nina-chuba-und-co-lernen-sie-100-menschen-kennen-die-hoffnung-machen-a-08489a9f-8b89-4686-bea0-1c16fc3c11d1#ref=rss)
+### cyprien
 
-* [https://www.spiegel.de/wissenschaft/technik/ueberlebenschance-bei-flugzeugabstuerzen-die-billigsten-plaetze-sind-die-sichersten](https://www.spiegel.de/wissenschaft/technik/ueberlebenschance-bei-flugzeugabstuerzen-die-billigsten-plaetze-sind-die-sichersten-a-d8f5d55e-e8ed-47ac-824f-f18d05acb265#ref=rss)
-### sichersten
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-cyprien-sarrazin-nach-sturz-erfolgreich-am-kopf-operiert](https://www.spiegel.de/sport/wintersport/ski-alpin-cyprien-sarrazin-nach-sturz-erfolgreich-am-kopf-operiert-a-ad47bfa4-e2b1-4176-9e6d-65bd63a6a42e#ref=rss)
+### sarrazin
 
-* [https://www.spiegel.de/wissenschaft/technik/ueberlebenschance-bei-flugzeugabstuerzen-die-billigsten-plaetze-sind-die-sichersten](https://www.spiegel.de/wissenschaft/technik/ueberlebenschance-bei-flugzeugabstuerzen-die-billigsten-plaetze-sind-die-sichersten-a-d8f5d55e-e8ed-47ac-824f-f18d05acb265#ref=rss)
-### heta
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-cyprien-sarrazin-nach-sturz-erfolgreich-am-kopf-operiert](https://www.spiegel.de/sport/wintersport/ski-alpin-cyprien-sarrazin-nach-sturz-erfolgreich-am-kopf-operiert-a-ad47bfa4-e2b1-4176-9e6d-65bd63a6a42e#ref=rss)
+### toten
 
-* [https://www.spiegel.de/sport/darts-wm-australier-heta-wirft-neundarter-und-selbst-sein-gegner-feiert-mit](https://www.spiegel.de/sport/darts-wm-australier-heta-wirft-neundarter-und-selbst-sein-gegner-feiert-mit-a-0ed1f18c-34b0-4afa-8e54-3f7613f0a04e#ref=rss)
-### gegner
+* [https://www.spiegel.de/kultur/die-toten-des-jahres-2024-von-diesen-prominenten-mussten-wir-uns-verabschieden](https://www.spiegel.de/kultur/die-toten-des-jahres-2024-von-diesen-prominenten-mussten-wir-uns-verabschieden-a-03077cec-5950-49ea-b4aa-4c8adb5de6ec#ref=rss)
+### tiktok
 
-* [https://www.spiegel.de/sport/darts-wm-australier-heta-wirft-neundarter-und-selbst-sein-gegner-feiert-mit](https://www.spiegel.de/sport/darts-wm-australier-heta-wirft-neundarter-und-selbst-sein-gegner-feiert-mit-a-0ed1f18c-34b0-4afa-8e54-3f7613f0a04e#ref=rss)
-### moment
+* [https://www.spiegel.de/ausland/tiktok-in-den-usa-donald-trump-will-verbot-torpedieren](https://www.spiegel.de/ausland/tiktok-in-den-usa-donald-trump-will-verbot-torpedieren-a-6b943e37-a584-4f64-a05f-6a80af44894b#ref=rss)
+### präsidentschaft
 
-* [https://www.spiegel.de/sport/darts-wm-australier-heta-wirft-neundarter-und-selbst-sein-gegner-feiert-mit](https://www.spiegel.de/sport/darts-wm-australier-heta-wirft-neundarter-und-selbst-sein-gegner-feiert-mit-a-0ed1f18c-34b0-4afa-8e54-3f7613f0a04e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestag-aufgeloest-bundespraesident-frank-walter-steinmeier-loest-bundestag-auf-und-warnt-vor-elon-musk](https://www.spiegel.de/politik/deutschland/bundestag-aufgeloest-bundespraesident-frank-walter-steinmeier-loest-bundestag-auf-und-warnt-vor-elon-musk-a-c6897e2f-9c7c-4c8d-a207-b09c91acbee8#ref=rss)
-### gazakrieg
+* [https://www.spiegel.de/ausland/tiktok-in-den-usa-donald-trump-will-verbot-torpedieren](https://www.spiegel.de/ausland/tiktok-in-den-usa-donald-trump-will-verbot-torpedieren-a-6b943e37-a584-4f64-a05f-6a80af44894b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/usa-schuldenobergrenze-koennte-mitte-januar-erreicht-werden](https://www.spiegel.de/wirtschaft/soziales/usa-schuldenobergrenze-koennte-mitte-januar-erreicht-werden-a-dee14fe4-b43d-423f-afdb-f60768baab7d#ref=rss)
+### stoppen
 
-* [https://www.spiegel.de/ausland/gaza-krieg-israel-nutzt-offenbar-fehlerhafte-methoden](https://www.spiegel.de/ausland/gaza-krieg-israel-nutzt-offenbar-fehlerhafte-methoden-a-8e8026a4-8463-4b35-8cc0-852e1031c553#ref=rss)
-### manmohan
+* [https://www.spiegel.de/ausland/tiktok-in-den-usa-donald-trump-will-verbot-torpedieren](https://www.spiegel.de/ausland/tiktok-in-den-usa-donald-trump-will-verbot-torpedieren-a-6b943e37-a584-4f64-a05f-6a80af44894b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/sozialwohnungen-fast-400-000-weniger-als-2014](https://www.spiegel.de/wirtschaft/soziales/sozialwohnungen-fast-400-000-weniger-als-2014-a-fea306de-e254-4c81-808e-4a2c2e95cf91#ref=rss)
+### co
 
-* [https://www.spiegel.de/ausland/indien-manmohan-singh-der-premier-der-indien-zur-wirtschaftlichen-macht-asiens-machte-ist-tot](https://www.spiegel.de/ausland/indien-manmohan-singh-der-premier-der-indien-zur-wirtschaftlichen-macht-asiens-machte-ist-tot-a-f45fe41b-bf7a-423c-961c-4fdb6d6c1021#ref=rss)
-### singh
+* [https://www.spiegel.de/auto/fahrkultur/tesla-schleswig-holstein-hvo-sprit-die-flops-in-der-mobilitaet-2024](https://www.spiegel.de/auto/fahrkultur/tesla-schleswig-holstein-hvo-sprit-die-flops-in-der-mobilitaet-2024-a-9bc97e68-e20f-4634-bfc0-c85eca15eefe#ref=rss)
+* [https://www.spiegel.de/panorama/nina-chuba-und-co-lernen-sie-100-menschen-kennen-die-hoffnung-machen](https://www.spiegel.de/panorama/nina-chuba-und-co-lernen-sie-100-menschen-kennen-die-hoffnung-machen-a-08489a9f-8b89-4686-bea0-1c16fc3c11d1#ref=rss)
+### safaritourismus
 
-* [https://www.spiegel.de/ausland/indien-manmohan-singh-der-premier-der-indien-zur-wirtschaftlichen-macht-asiens-machte-ist-tot](https://www.spiegel.de/ausland/indien-manmohan-singh-der-premier-der-indien-zur-wirtschaftlichen-macht-asiens-machte-ist-tot-a-f45fe41b-bf7a-423c-961c-4fdb6d6c1021#ref=rss)
-### macht
+* [https://www.spiegel.de/reise/fernweh/safaritourismus-in-afrika-warum-elefanten-in-botswana-zum-problem-werden](https://www.spiegel.de/reise/fernweh/safaritourismus-in-afrika-warum-elefanten-in-botswana-zum-problem-werden-a-513dbcc9-6b84-4a6c-a761-242f7b9ebf62#ref=rss)
+### botswana
 
-* [https://www.spiegel.de/ausland/indien-manmohan-singh-der-premier-der-indien-zur-wirtschaftlichen-macht-asiens-machte-ist-tot](https://www.spiegel.de/ausland/indien-manmohan-singh-der-premier-der-indien-zur-wirtschaftlichen-macht-asiens-machte-ist-tot-a-f45fe41b-bf7a-423c-961c-4fdb6d6c1021#ref=rss)
-### frankwalter
+* [https://www.spiegel.de/reise/fernweh/safaritourismus-in-afrika-warum-elefanten-in-botswana-zum-problem-werden](https://www.spiegel.de/reise/fernweh/safaritourismus-in-afrika-warum-elefanten-in-botswana-zum-problem-werden-a-513dbcc9-6b84-4a6c-a761-242f7b9ebf62#ref=rss)
+### land
 
-* [https://www.spiegel.de/politik/deutschland/bundestag-aufgeloest-bundespraesident-frank-walter-steinmeier-loest-bundestag-auf-und-warnt-vor-elon-musk](https://www.spiegel.de/politik/deutschland/bundestag-aufgeloest-bundespraesident-frank-walter-steinmeier-loest-bundestag-auf-und-warnt-vor-elon-musk-a-c6897e2f-9c7c-4c8d-a207-b09c91acbee8#ref=rss)
+* [https://www.spiegel.de/reise/fernweh/safaritourismus-in-afrika-warum-elefanten-in-botswana-zum-problem-werden](https://www.spiegel.de/reise/fernweh/safaritourismus-in-afrika-warum-elefanten-in-botswana-zum-problem-werden-a-513dbcc9-6b84-4a6c-a761-242f7b9ebf62#ref=rss)
+* [https://www.spiegel.de/panorama/nina-chuba-und-co-lernen-sie-100-menschen-kennen-die-hoffnung-machen](https://www.spiegel.de/panorama/nina-chuba-und-co-lernen-sie-100-menschen-kennen-die-hoffnung-machen-a-08489a9f-8b89-4686-bea0-1c16fc3c11d1#ref=rss)
+### lukáš
+
+* [https://www.spiegel.de/sport/lukas-hradecky-torwart-von-bayer-leverkusen-wir-denken-nicht-wir-machen](https://www.spiegel.de/sport/lukas-hradecky-torwart-von-bayer-leverkusen-wir-denken-nicht-wir-machen-a-d0a96ba6-471d-45ae-820e-2e86b30e6f74#ref=rss)
+### hrádecký
+
+* [https://www.spiegel.de/sport/lukas-hradecky-torwart-von-bayer-leverkusen-wir-denken-nicht-wir-machen](https://www.spiegel.de/sport/lukas-hradecky-torwart-von-bayer-leverkusen-wir-denken-nicht-wir-machen-a-d0a96ba6-471d-45ae-820e-2e86b30e6f74#ref=rss)
+### torwart
+
+* [https://www.spiegel.de/sport/lukas-hradecky-torwart-von-bayer-leverkusen-wir-denken-nicht-wir-machen](https://www.spiegel.de/sport/lukas-hradecky-torwart-von-bayer-leverkusen-wir-denken-nicht-wir-machen-a-d0a96ba6-471d-45ae-820e-2e86b30e6f74#ref=rss)
+### bayer
+
+* [https://www.spiegel.de/sport/lukas-hradecky-torwart-von-bayer-leverkusen-wir-denken-nicht-wir-machen](https://www.spiegel.de/sport/lukas-hradecky-torwart-von-bayer-leverkusen-wir-denken-nicht-wir-machen-a-d0a96ba6-471d-45ae-820e-2e86b30e6f74#ref=rss)
+### leverkusen
+
+* [https://www.spiegel.de/sport/lukas-hradecky-torwart-von-bayer-leverkusen-wir-denken-nicht-wir-machen](https://www.spiegel.de/sport/lukas-hradecky-torwart-von-bayer-leverkusen-wir-denken-nicht-wir-machen-a-d0a96ba6-471d-45ae-820e-2e86b30e6f74#ref=rss)
+### magnus
+
+* [https://www.spiegel.de/sport/schach-magnus-carlsen-bricht-schnellschach-wm-ab-wegen-seiner-jeans](https://www.spiegel.de/sport/schach-magnus-carlsen-bricht-schnellschach-wm-ab-wegen-seiner-jeans-a-3f6a9808-c98f-411d-b79f-6634fbfbd83e#ref=rss)
+### carlsen
+
+* [https://www.spiegel.de/sport/schach-magnus-carlsen-bricht-schnellschach-wm-ab-wegen-seiner-jeans](https://www.spiegel.de/sport/schach-magnus-carlsen-bricht-schnellschach-wm-ab-wegen-seiner-jeans-a-3f6a9808-c98f-411d-b79f-6634fbfbd83e#ref=rss)
+### konflikt
+
+* [https://www.spiegel.de/sport/schach-magnus-carlsen-bricht-schnellschach-wm-ab-wegen-seiner-jeans](https://www.spiegel.de/sport/schach-magnus-carlsen-bricht-schnellschach-wm-ab-wegen-seiner-jeans-a-3f6a9808-c98f-411d-b79f-6634fbfbd83e#ref=rss)
+* [https://www.spiegel.de/ausland/usa-elon-musk-und-vivek-ramaswamy-legen-sich-mit-den-maga-rechten-an](https://www.spiegel.de/ausland/usa-elon-musk-und-vivek-ramaswamy-legen-sich-mit-den-maga-rechten-an-a-03cb349d-b427-40fa-a649-95c6467088eb#ref=rss)
+### schuldenobergrenze
+
+* [https://www.spiegel.de/wirtschaft/soziales/usa-schuldenobergrenze-koennte-mitte-januar-erreicht-werden](https://www.spiegel.de/wirtschaft/soziales/usa-schuldenobergrenze-koennte-mitte-januar-erreicht-werden-a-dee14fe4-b43d-423f-afdb-f60768baab7d#ref=rss)
+### erreicht
+
+* [https://www.spiegel.de/wirtschaft/soziales/usa-schuldenobergrenze-koennte-mitte-januar-erreicht-werden](https://www.spiegel.de/wirtschaft/soziales/usa-schuldenobergrenze-koennte-mitte-januar-erreicht-werden-a-dee14fe4-b43d-423f-afdb-f60768baab7d#ref=rss)
+### trumps
+
+* [https://www.spiegel.de/wirtschaft/soziales/usa-schuldenobergrenze-koennte-mitte-januar-erreicht-werden](https://www.spiegel.de/wirtschaft/soziales/usa-schuldenobergrenze-koennte-mitte-januar-erreicht-werden-a-dee14fe4-b43d-423f-afdb-f60768baab7d#ref=rss)
+* [https://www.spiegel.de/ausland/usa-elon-musk-und-vivek-ramaswamy-legen-sich-mit-den-maga-rechten-an](https://www.spiegel.de/ausland/usa-elon-musk-und-vivek-ramaswamy-legen-sich-mit-den-maga-rechten-an-a-03cb349d-b427-40fa-a649-95c6467088eb#ref=rss)
+### laut
+
+* [https://www.spiegel.de/wirtschaft/soziales/usa-schuldenobergrenze-koennte-mitte-januar-erreicht-werden](https://www.spiegel.de/wirtschaft/soziales/usa-schuldenobergrenze-koennte-mitte-januar-erreicht-werden-a-dee14fe4-b43d-423f-afdb-f60768baab7d#ref=rss)
+* [https://www.spiegel.de/ausland/unicef-schaetzungen-mehr-kinder-als-je-zuvor-von-konflikten-und-kriegen-betroffen](https://www.spiegel.de/ausland/unicef-schaetzungen-mehr-kinder-als-je-zuvor-von-konflikten-und-kriegen-betroffen-a-5a18e730-8c8b-42d7-b27b-cf6cba38b161#ref=rss)
+### brasilien
+
+* [https://www.spiegel.de/karriere/fachkraeftemangel-von-brasilien-nach-bayern-und-schnell-wieder-zurueck](https://www.spiegel.de/karriere/fachkraeftemangel-von-brasilien-nach-bayern-und-schnell-wieder-zurueck-a-8e08b3f1-cab6-4091-8df7-037fba6b5ed8#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/karriere/fachkraeftemangel-von-brasilien-nach-bayern-und-schnell-wieder-zurueck](https://www.spiegel.de/karriere/fachkraeftemangel-von-brasilien-nach-bayern-und-schnell-wieder-zurueck-a-8e08b3f1-cab6-4091-8df7-037fba6b5ed8#ref=rss)
+### scottie
+
+* [https://www.spiegel.de/sport/golf/golf-scottie-sheffler-verletzt-sich-beim-weihnachtsessen](https://www.spiegel.de/sport/golf/golf-scottie-sheffler-verletzt-sich-beim-weihnachtsessen-a-8294feca-7946-4b9c-849f-e0b663d3281b#ref=rss)
+### sheffler
+
+* [https://www.spiegel.de/sport/golf/golf-scottie-sheffler-verletzt-sich-beim-weihnachtsessen](https://www.spiegel.de/sport/golf/golf-scottie-sheffler-verletzt-sich-beim-weihnachtsessen-a-8294feca-7946-4b9c-849f-e0b663d3281b#ref=rss)
+### sozialwohnungen
+
+* [https://www.spiegel.de/wirtschaft/soziales/sozialwohnungen-fast-400-000-weniger-als-2014](https://www.spiegel.de/wirtschaft/soziales/sozialwohnungen-fast-400-000-weniger-als-2014-a-fea306de-e254-4c81-808e-4a2c2e95cf91#ref=rss)
+### fast
+
+* [https://www.spiegel.de/wirtschaft/soziales/sozialwohnungen-fast-400-000-weniger-als-2014](https://www.spiegel.de/wirtschaft/soziales/sozialwohnungen-fast-400-000-weniger-als-2014-a-fea306de-e254-4c81-808e-4a2c2e95cf91#ref=rss)
+* [https://www.spiegel.de/ausland/unicef-schaetzungen-mehr-kinder-als-je-zuvor-von-konflikten-und-kriegen-betroffen](https://www.spiegel.de/ausland/unicef-schaetzungen-mehr-kinder-als-je-zuvor-von-konflikten-und-kriegen-betroffen-a-5a18e730-8c8b-42d7-b27b-cf6cba38b161#ref=rss)
+### weniger
+
+* [https://www.spiegel.de/wirtschaft/soziales/sozialwohnungen-fast-400-000-weniger-als-2014](https://www.spiegel.de/wirtschaft/soziales/sozialwohnungen-fast-400-000-weniger-als-2014-a-fea306de-e254-4c81-808e-4a2c2e95cf91#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bauindustrie-befuerchtet-weiteren-rueckgang-des-neubaus](https://www.spiegel.de/wirtschaft/bauindustrie-befuerchtet-weiteren-rueckgang-des-neubaus-a-aba1cf30-29d4-4504-816b-abd6df9ac2b1#ref=rss)
+### rückgang
+
+* [https://www.spiegel.de/wirtschaft/soziales/sozialwohnungen-fast-400-000-weniger-als-2014](https://www.spiegel.de/wirtschaft/soziales/sozialwohnungen-fast-400-000-weniger-als-2014-a-fea306de-e254-4c81-808e-4a2c2e95cf91#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bauindustrie-befuerchtet-weiteren-rueckgang-des-neubaus](https://www.spiegel.de/wirtschaft/bauindustrie-befuerchtet-weiteren-rueckgang-des-neubaus-a-aba1cf30-29d4-4504-816b-abd6df9ac2b1#ref=rss)
+### babynamen
+
+* [https://www.spiegel.de/panorama/gesellschaft/emilia-und-noah-das-waren-die-beliebtesten-babynamen-2024](https://www.spiegel.de/panorama/gesellschaft/emilia-und-noah-das-waren-die-beliebtesten-babynamen-2024-a-c818f54b-ed7f-4d24-a10d-af2f4c245ac2#ref=rss)
+### denen
+
+* [https://www.spiegel.de/panorama/gesellschaft/emilia-und-noah-das-waren-die-beliebtesten-babynamen-2024](https://www.spiegel.de/panorama/gesellschaft/emilia-und-noah-das-waren-die-beliebtesten-babynamen-2024-a-c818f54b-ed7f-4d24-a10d-af2f4c245ac2#ref=rss)
+* [https://www.spiegel.de/geschichte/besuch-bei-der-holocaust-ueberlebenden-anita-lasker-wallfisch-sehnsucht-nach-selbstentlastung](https://www.spiegel.de/geschichte/besuch-bei-der-holocaust-ueberlebenden-anita-lasker-wallfisch-sehnsucht-nach-selbstentlastung-a-e0086fb4-b865-4d7d-aec9-a77c3b531ef4#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/ausland/unicef-schaetzungen-mehr-kinder-als-je-zuvor-von-konflikten-und-kriegen-betroffen](https://www.spiegel.de/ausland/unicef-schaetzungen-mehr-kinder-als-je-zuvor-von-konflikten-und-kriegen-betroffen-a-5a18e730-8c8b-42d7-b27b-cf6cba38b161#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/elektronische-patientenakte-epa-ccc-sieht-eklatante-sicherheitsluecken](https://www.spiegel.de/netzwelt/netzpolitik/elektronische-patientenakte-epa-ccc-sieht-eklatante-sicherheitsluecken-a-32dd2310-f52d-403c-9ec7-40d9b6426112#ref=rss)
+### olivia
+
+* [https://www.spiegel.de/kultur/kino/olivia-hussey-ist-tot](https://www.spiegel.de/kultur/kino/olivia-hussey-ist-tot-a-a7e69439-2d12-49b0-b4b1-d8819b34fef8#ref=rss)
+### hussey
+
+* [https://www.spiegel.de/kultur/kino/olivia-hussey-ist-tot](https://www.spiegel.de/kultur/kino/olivia-hussey-ist-tot-a-a7e69439-2d12-49b0-b4b1-d8819b34fef8#ref=rss)
+### papst
+
+* [https://www.spiegel.de/ausland/katholische-kirche-diese-sexarbeiterinnen-waren-mit-dem-papst-mittagessen](https://www.spiegel.de/ausland/katholische-kirche-diese-sexarbeiterinnen-waren-mit-dem-papst-mittagessen-a-528c008d-9b5d-4cde-bdae-145db779dc16#ref=rss)
 ### steinmeier
 
-* [https://www.spiegel.de/politik/deutschland/bundestag-aufgeloest-bundespraesident-frank-walter-steinmeier-loest-bundestag-auf-und-warnt-vor-elon-musk](https://www.spiegel.de/politik/deutschland/bundestag-aufgeloest-bundespraesident-frank-walter-steinmeier-loest-bundestag-auf-und-warnt-vor-elon-musk-a-c6897e2f-9c7c-4c8d-a207-b09c91acbee8#ref=rss)
-### irak
+* [https://www.spiegel.de/ausland/news-frank-walter-steinmeier-donald-trump-wladimir-putin-baschar-al-assad](https://www.spiegel.de/ausland/news-frank-walter-steinmeier-donald-trump-wladimir-putin-baschar-al-assad-a-7e35de09-7fa0-4aac-ab51-7946f4b4e904#ref=rss)
+### kommenden
 
-* [https://www.spiegel.de/ausland/irak-grausiger-fund-behoerden-bergen-knochen-von-ermordeten-kurdischen-frauen-und-kindern](https://www.spiegel.de/ausland/irak-grausiger-fund-behoerden-bergen-knochen-von-ermordeten-kurdischen-frauen-und-kindern-a-07073c97-731c-4576-95ed-c256e6861b05#ref=rss)
-### union
+* [https://www.spiegel.de/ausland/news-frank-walter-steinmeier-donald-trump-wladimir-putin-baschar-al-assad](https://www.spiegel.de/ausland/news-frank-walter-steinmeier-donald-trump-wladimir-putin-baschar-al-assad-a-7e35de09-7fa0-4aac-ab51-7946f4b4e904#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bauindustrie-befuerchtet-weiteren-rueckgang-des-neubaus](https://www.spiegel.de/wirtschaft/bauindustrie-befuerchtet-weiteren-rueckgang-des-neubaus-a-aba1cf30-29d4-4504-816b-abd6df9ac2b1#ref=rss)
+### holocaustüberlebenden
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-trennt-sich-von-trainer-bo-svensson](https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-trennt-sich-von-trainer-bo-svensson-a-93fb932f-8986-405f-8e27-285958070965#ref=rss)
-### trainer
+* [https://www.spiegel.de/geschichte/besuch-bei-der-holocaust-ueberlebenden-anita-lasker-wallfisch-sehnsucht-nach-selbstentlastung](https://www.spiegel.de/geschichte/besuch-bei-der-holocaust-ueberlebenden-anita-lasker-wallfisch-sehnsucht-nach-selbstentlastung-a-e0086fb4-b865-4d7d-aec9-a77c3b531ef4#ref=rss)
+### anita
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-trennt-sich-von-trainer-bo-svensson](https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-trennt-sich-von-trainer-bo-svensson-a-93fb932f-8986-405f-8e27-285958070965#ref=rss)
-### bo
+* [https://www.spiegel.de/geschichte/besuch-bei-der-holocaust-ueberlebenden-anita-lasker-wallfisch-sehnsucht-nach-selbstentlastung](https://www.spiegel.de/geschichte/besuch-bei-der-holocaust-ueberlebenden-anita-lasker-wallfisch-sehnsucht-nach-selbstentlastung-a-e0086fb4-b865-4d7d-aec9-a77c3b531ef4#ref=rss)
+### laskerwallfisch
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-trennt-sich-von-trainer-bo-svensson](https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-trennt-sich-von-trainer-bo-svensson-a-93fb932f-8986-405f-8e27-285958070965#ref=rss)
-### svensson
+* [https://www.spiegel.de/geschichte/besuch-bei-der-holocaust-ueberlebenden-anita-lasker-wallfisch-sehnsucht-nach-selbstentlastung](https://www.spiegel.de/geschichte/besuch-bei-der-holocaust-ueberlebenden-anita-lasker-wallfisch-sehnsucht-nach-selbstentlastung-a-e0086fb4-b865-4d7d-aec9-a77c3b531ef4#ref=rss)
+### unter
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-trennt-sich-von-trainer-bo-svensson](https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-trennt-sich-von-trainer-bo-svensson-a-93fb932f-8986-405f-8e27-285958070965#ref=rss)
-### salman
+* [https://www.spiegel.de/geschichte/besuch-bei-der-holocaust-ueberlebenden-anita-lasker-wallfisch-sehnsucht-nach-selbstentlastung](https://www.spiegel.de/geschichte/besuch-bei-der-holocaust-ueberlebenden-anita-lasker-wallfisch-sehnsucht-nach-selbstentlastung-a-e0086fb4-b865-4d7d-aec9-a77c3b531ef4#ref=rss)
+* [https://www.spiegel.de/ausland/usa-elon-musk-und-vivek-ramaswamy-legen-sich-mit-den-maga-rechten-an](https://www.spiegel.de/ausland/usa-elon-musk-und-vivek-ramaswamy-legen-sich-mit-den-maga-rechten-an-a-03cb349d-b427-40fa-a649-95c6467088eb#ref=rss)
+### häftling
 
-* [https://www.spiegel.de/kultur/literatur/salman-rushdie-die-satanischen-verse-in-indien-wieder-erhaeltlich-nach-36-jahren-verkaufsverbot](https://www.spiegel.de/kultur/literatur/salman-rushdie-die-satanischen-verse-in-indien-wieder-erhaeltlich-nach-36-jahren-verkaufsverbot-a-1a65bed4-076b-41a5-b8c0-88640f62ad95#ref=rss)
-### satanischen
+* [https://www.spiegel.de/panorama/gefaengniswaerter-pruegeln-haeftling-zu-tode](https://www.spiegel.de/panorama/gefaengniswaerter-pruegeln-haeftling-zu-tode-a-49bf0d0e-fec7-4bfa-9f7a-f7b27c8e9971#ref=rss)
+### außenministerin
 
-* [https://www.spiegel.de/kultur/literatur/salman-rushdie-die-satanischen-verse-in-indien-wieder-erhaeltlich-nach-36-jahren-verkaufsverbot](https://www.spiegel.de/kultur/literatur/salman-rushdie-die-satanischen-verse-in-indien-wieder-erhaeltlich-nach-36-jahren-verkaufsverbot-a-1a65bed4-076b-41a5-b8c0-88640f62ad95#ref=rss)
-### verse
+* [https://www.spiegel.de/ausland/ostsee-kabel-aussenministerin-annalena-baerbock-warnt-vor-russlands-schattenflotte](https://www.spiegel.de/ausland/ostsee-kabel-aussenministerin-annalena-baerbock-warnt-vor-russlands-schattenflotte-a-cd5cba97-b5c5-4be4-9013-6c56dc41b915#ref=rss)
+### warnt
 
-* [https://www.spiegel.de/kultur/literatur/salman-rushdie-die-satanischen-verse-in-indien-wieder-erhaeltlich-nach-36-jahren-verkaufsverbot](https://www.spiegel.de/kultur/literatur/salman-rushdie-die-satanischen-verse-in-indien-wieder-erhaeltlich-nach-36-jahren-verkaufsverbot-a-1a65bed4-076b-41a5-b8c0-88640f62ad95#ref=rss)
-### verkaufsverbot
+* [https://www.spiegel.de/ausland/ostsee-kabel-aussenministerin-annalena-baerbock-warnt-vor-russlands-schattenflotte](https://www.spiegel.de/ausland/ostsee-kabel-aussenministerin-annalena-baerbock-warnt-vor-russlands-schattenflotte-a-cd5cba97-b5c5-4be4-9013-6c56dc41b915#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/elektronische-patientenakte-epa-ccc-sieht-eklatante-sicherheitsluecken](https://www.spiegel.de/netzwelt/netzpolitik/elektronische-patientenakte-epa-ccc-sieht-eklatante-sicherheitsluecken-a-32dd2310-f52d-403c-9ec7-40d9b6426112#ref=rss)
+### hamas
 
-* [https://www.spiegel.de/kultur/literatur/salman-rushdie-die-satanischen-verse-in-indien-wieder-erhaeltlich-nach-36-jahren-verkaufsverbot](https://www.spiegel.de/kultur/literatur/salman-rushdie-die-satanischen-verse-in-indien-wieder-erhaeltlich-nach-36-jahren-verkaufsverbot-a-1a65bed4-076b-41a5-b8c0-88640f62ad95#ref=rss)
-### spdmitglieder
+* [https://www.spiegel.de/ausland/gaza-krieg-gegen-hamas-who-prangert-zerstoerung-des-gesundheitssystems-an](https://www.spiegel.de/ausland/gaza-krieg-gegen-hamas-who-prangert-zerstoerung-des-gesundheitssystems-an-a-3cde0fe7-d695-4106-9801-d80a46a9383e#ref=rss)
+### armee
 
-* [https://www.spiegel.de/panorama/justiz/angriff-auf-spd-mitglieder-in-berlin-weitere-verdaechtige-ermittelt](https://www.spiegel.de/panorama/justiz/angriff-auf-spd-mitglieder-in-berlin-weitere-verdaechtige-ermittelt-a-a482929c-b14b-4aec-820b-91cce94aae52#ref=rss)
-### verdächtige
+* [https://www.spiegel.de/ausland/gaza-krieg-gegen-hamas-who-prangert-zerstoerung-des-gesundheitssystems-an](https://www.spiegel.de/ausland/gaza-krieg-gegen-hamas-who-prangert-zerstoerung-des-gesundheitssystems-an-a-3cde0fe7-d695-4106-9801-d80a46a9383e#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-soldaten-aus-nordkorea-nischer-gefangenschaft](https://www.spiegel.de/ausland/ukraine-krieg-soldaten-aus-nordkorea-nischer-gefangenschaft-a-0769a8b4-fa9c-4166-ba0e-f9bcece838f7#ref=rss)
+### todesfälle
 
-* [https://www.spiegel.de/panorama/justiz/angriff-auf-spd-mitglieder-in-berlin-weitere-verdaechtige-ermittelt](https://www.spiegel.de/panorama/justiz/angriff-auf-spd-mitglieder-in-berlin-weitere-verdaechtige-ermittelt-a-a482929c-b14b-4aec-820b-91cce94aae52#ref=rss)
+* [https://www.spiegel.de/wissenschaft/malaria-und-atemwegsinfektionen-sind-der-grund-fuer-raetselhafte-todesfaelle-im-kongo](https://www.spiegel.de/wissenschaft/malaria-und-atemwegsinfektionen-sind-der-grund-fuer-raetselhafte-todesfaelle-im-kongo-a-7a27f9de-3976-4d40-9532-de9a70ed0950#ref=rss)
+### kongo
+
+* [https://www.spiegel.de/wissenschaft/malaria-und-atemwegsinfektionen-sind-der-grund-fuer-raetselhafte-todesfaelle-im-kongo](https://www.spiegel.de/wissenschaft/malaria-und-atemwegsinfektionen-sind-der-grund-fuer-raetselhafte-todesfaelle-im-kongo-a-7a27f9de-3976-4d40-9532-de9a70ed0950#ref=rss)
+### allem
+
+* [https://www.spiegel.de/wissenschaft/malaria-und-atemwegsinfektionen-sind-der-grund-fuer-raetselhafte-todesfaelle-im-kongo](https://www.spiegel.de/wissenschaft/malaria-und-atemwegsinfektionen-sind-der-grund-fuer-raetselhafte-todesfaelle-im-kongo-a-7a27f9de-3976-4d40-9532-de9a70ed0950#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-veroeffentlicht-offenbar-aus-versehen-private-nachricht-an-elon-musk](https://www.spiegel.de/ausland/donald-trump-veroeffentlicht-offenbar-aus-versehen-private-nachricht-an-elon-musk-a-37a94e05-fe03-4e2a-be19-bd2152d77070#ref=rss)
+### gefangenschaft
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-soldaten-aus-nordkorea-nischer-gefangenschaft](https://www.spiegel.de/ausland/ukraine-krieg-soldaten-aus-nordkorea-nischer-gefangenschaft-a-0769a8b4-fa9c-4166-ba0e-f9bcece838f7#ref=rss)
+### elektronische
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/elektronische-patientenakte-epa-ccc-sieht-eklatante-sicherheitsluecken](https://www.spiegel.de/netzwelt/netzpolitik/elektronische-patientenakte-epa-ccc-sieht-eklatante-sicherheitsluecken-a-32dd2310-f52d-403c-9ec7-40d9b6426112#ref=rss)
+### patientenakte
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/elektronische-patientenakte-epa-ccc-sieht-eklatante-sicherheitsluecken](https://www.spiegel.de/netzwelt/netzpolitik/elektronische-patientenakte-epa-ccc-sieht-eklatante-sicherheitsluecken-a-32dd2310-f52d-403c-9ec7-40d9b6426112#ref=rss)
 
