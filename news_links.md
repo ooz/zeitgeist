@@ -4,342 +4,374 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### elon
+### frauen
 
-* [https://www.spiegel.de/politik/deutschland/elon-musk-afd-wahlempfehlung-in-der-welt-matthias-miersch-kritisiert-springer-verlag](https://www.spiegel.de/politik/deutschland/elon-musk-afd-wahlempfehlung-in-der-welt-matthias-miersch-kritisiert-springer-verlag-a-f43d6e22-066d-40c6-a59f-821c4f0abf46#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/elon-musk-weihnachten-neuwahlen-das-sind-die-besten-cartoons-der-woche](https://www.spiegel.de/kultur/literatur/elon-musk-weihnachten-neuwahlen-das-sind-die-besten-cartoons-der-woche-a-55a9ef31-ae3e-49e2-b171-88921ced7c63#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-elon-musk-macht-wahlkampf-fuer-die-afd](https://www.spiegel.de/politik/deutschland/news-elon-musk-macht-wahlkampf-fuer-die-afd-a-fe77042c-57b2-45c4-a0e0-d7d26e1b3073#ref=rss)
-### musk
+* [https://www.spiegel.de/panorama/justiz/bremen-polizei-nimmt-23-jaehrigen-am-hauptbahnhof-fest-frauen-im-zug-mit-messer-bedroht](https://www.spiegel.de/panorama/justiz/bremen-polizei-nimmt-23-jaehrigen-am-hauptbahnhof-fest-frauen-im-zug-mit-messer-bedroht-a-c5104e9e-625b-4618-856f-9071cb8beaf0#ref=rss)
+* [https://www.spiegel.de/ausland/brasilien-drei-tote-durch-mit-arsen-versetzten-weihnachtskuchen](https://www.spiegel.de/ausland/brasilien-drei-tote-durch-mit-arsen-versetzten-weihnachtskuchen-a-25259a2d-8596-49d1-9a46-d87f714429f2#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-taliban-verbieten-fenster-mit-blick-auf-frauenorte](https://www.spiegel.de/ausland/afghanistan-taliban-verbieten-fenster-mit-blick-auf-frauenorte-a-6481a68d-c187-4f6b-a8b1-3435d130a8d4#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/digitale-gewalt-so-schuetzen-sie-sich-wenn-nacktbilder-von-ihnen-verbreitet-werden](https://www.spiegel.de/panorama/justiz/digitale-gewalt-so-schuetzen-sie-sich-wenn-nacktbilder-von-ihnen-verbreitet-werden-a-33291785-8c71-4ae2-b172-4bf2e18730dd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/kita-krise-wirtschaftsweise-kritisiert-mangelnde-kinderbetreuung-in-deutschland](https://www.spiegel.de/wirtschaft/soziales/kita-krise-wirtschaftsweise-kritisiert-mangelnde-kinderbetreuung-in-deutschland-a-bebbd71d-7b22-48e2-a337-38fa488d261a#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/politik/deutschland/elon-musk-afd-wahlempfehlung-in-der-welt-matthias-miersch-kritisiert-springer-verlag](https://www.spiegel.de/politik/deutschland/elon-musk-afd-wahlempfehlung-in-der-welt-matthias-miersch-kritisiert-springer-verlag-a-f43d6e22-066d-40c6-a59f-821c4f0abf46#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/elon-musk-weihnachten-neuwahlen-das-sind-die-besten-cartoons-der-woche](https://www.spiegel.de/kultur/literatur/elon-musk-weihnachten-neuwahlen-das-sind-die-besten-cartoons-der-woche-a-55a9ef31-ae3e-49e2-b171-88921ced7c63#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-elon-musk-macht-wahlkampf-fuer-die-afd](https://www.spiegel.de/politik/deutschland/news-elon-musk-macht-wahlkampf-fuer-die-afd-a-fe77042c-57b2-45c4-a0e0-d7d26e1b3073#ref=rss)
-### alt
+* [https://www.spiegel.de/panorama/sandra-hueller-der-weltstar-der-fuer-menschlichkeit-wirbt](https://www.spiegel.de/panorama/sandra-hueller-der-weltstar-der-fuer-menschlichkeit-wirbt-a-680a1288-5fda-4f18-b1d0-0e77c6c8d4a2#ref=rss)
+* [https://www.spiegel.de/ausland/russland-chef-von-lgbtqi-reiseagentur-stirbt-im-gefaengnis](https://www.spiegel.de/ausland/russland-chef-von-lgbtqi-reiseagentur-stirbt-im-gefaengnis-a-8290efb9-147d-411f-b26e-3148c258b775#ref=rss)
+* [https://www.spiegel.de/panorama/johannes-mesus-wie-ein-ministrant-mit-trisomie-21-bei-beerdingungen-einsamer-menschen-dabei-ist](https://www.spiegel.de/panorama/johannes-mesus-wie-ein-ministrant-mit-trisomie-21-bei-beerdingungen-einsamer-menschen-dabei-ist-a-97c6d5a4-c156-4bac-be4f-8870c55e22a6#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/waldheim-in-sachsen-unbekannte-substanz-in-supermarkt-freigesetzt-mehrere-menschen-verletzt](https://www.spiegel.de/panorama/justiz/waldheim-in-sachsen-unbekannte-substanz-in-supermarkt-freigesetzt-mehrere-menschen-verletzt-a-315cb906-449c-42dd-9d39-7b53dc0b7d37#ref=rss)
+* [https://www.spiegel.de/ausland/suedkorea-was-ueber-das-flugzeugunglueck-bekannt-ist](https://www.spiegel.de/ausland/suedkorea-was-ueber-das-flugzeugunglueck-bekannt-ist-a-c60dfe53-db61-409b-ba41-17603b7ad3ec#ref=rss)
+### drei
 
-* [https://www.spiegel.de/sport/missbrauchsvorwuefe-von-tabea-alt-deutscher-turner-bund-leitet-untersuchung-ein](https://www.spiegel.de/sport/missbrauchsvorwuefe-von-tabea-alt-deutscher-turner-bund-leitet-untersuchung-ein-a-6203f840-67df-466d-b93a-2fd5d5de4b15#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/pius-paschke-bei-der-vierschanzentournee-lange-in-der-zweiten-reihe-nun-favorit](https://www.spiegel.de/sport/wintersport/pius-paschke-bei-der-vierschanzentournee-lange-in-der-zweiten-reihe-nun-favorit-a-044d0cd1-7d05-4f78-9007-a29701b6466a#ref=rss)
-* [https://www.spiegel.de/sport/dtb-und-stb-tabea-alt-wirft-turnverbaenden-systematischen-missbrauch-vor](https://www.spiegel.de/sport/dtb-und-stb-tabea-alt-wirft-turnverbaenden-systematischen-missbrauch-vor-a-378b80e7-4284-4d24-b82e-cccf7861483e#ref=rss)
-### tabea
+* [https://www.spiegel.de/ausland/brasilien-drei-tote-durch-mit-arsen-versetzten-weihnachtskuchen](https://www.spiegel.de/ausland/brasilien-drei-tote-durch-mit-arsen-versetzten-weihnachtskuchen-a-25259a2d-8596-49d1-9a46-d87f714429f2#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/auftakt-der-vierschanzentournee-pius-paschke-springt-in-oberstdorf-auf-rang-drei](https://www.spiegel.de/sport/wintersport/auftakt-der-vierschanzentournee-pius-paschke-springt-in-oberstdorf-auf-rang-drei-a-1f48c4ce-c08a-4085-a67f-56d75659977c#ref=rss)
+* [https://www.spiegel.de/ausland/ahmed-al-sharaa-zu-syrien-bis-zu-den-naechsten-wahlen-koennte-es-vier-jahre-dauern](https://www.spiegel.de/ausland/ahmed-al-sharaa-zu-syrien-bis-zu-den-naechsten-wahlen-koennte-es-vier-jahre-dauern-a-7a29bc72-f217-4236-8fd9-a91d87d7950f#ref=rss)
+### viele
 
-* [https://www.spiegel.de/sport/missbrauchsvorwuefe-von-tabea-alt-deutscher-turner-bund-leitet-untersuchung-ein](https://www.spiegel.de/sport/missbrauchsvorwuefe-von-tabea-alt-deutscher-turner-bund-leitet-untersuchung-ein-a-6203f840-67df-466d-b93a-2fd5d5de4b15#ref=rss)
-* [https://www.spiegel.de/sport/dtb-und-stb-tabea-alt-wirft-turnverbaenden-systematischen-missbrauch-vor](https://www.spiegel.de/sport/dtb-und-stb-tabea-alt-wirft-turnverbaenden-systematischen-missbrauch-vor-a-378b80e7-4284-4d24-b82e-cccf7861483e#ref=rss)
-### zwei
+* [https://www.spiegel.de/panorama/sandra-hueller-der-weltstar-der-fuer-menschlichkeit-wirbt](https://www.spiegel.de/panorama/sandra-hueller-der-weltstar-der-fuer-menschlichkeit-wirbt-a-680a1288-5fda-4f18-b1d0-0e77c6c8d4a2#ref=rss)
+* [https://www.spiegel.de/karriere/brueckentage-rechner-so-optimieren-sie-ihren-urlaub-in-2025](https://www.spiegel.de/karriere/brueckentage-rechner-so-optimieren-sie-ihren-urlaub-in-2025-a-5215baaf-b08c-46af-87d2-72173ed0de16#ref=rss)
+* [https://www.spiegel.de/panorama/johannes-mesus-wie-ein-ministrant-mit-trisomie-21-bei-beerdingungen-einsamer-menschen-dabei-ist](https://www.spiegel.de/panorama/johannes-mesus-wie-ein-ministrant-mit-trisomie-21-bei-beerdingungen-einsamer-menschen-dabei-ist-a-97c6d5a4-c156-4bac-be4f-8870c55e22a6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/kita-krise-wirtschaftsweise-kritisiert-mangelnde-kinderbetreuung-in-deutschland](https://www.spiegel.de/wirtschaft/soziales/kita-krise-wirtschaftsweise-kritisiert-mangelnde-kinderbetreuung-in-deutschland-a-bebbd71d-7b22-48e2-a337-38fa488d261a#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/panorama/diskriminierung-bei-der-wohnungssuche-wer-einen-auslaendischen-namen-hat-hat-es-besonders-schwer](https://www.spiegel.de/panorama/diskriminierung-bei-der-wohnungssuche-wer-einen-auslaendischen-namen-hat-hat-es-besonders-schwer-a-8e10bf20-399b-47fa-b80b-5ccae1e22143#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-einbruch-bei-luka-doncic-wenige-tage-nach-verletzung](https://www.spiegel.de/sport/basketball/nba-einbruch-bei-luka-doncic-wenige-tage-nach-verletzung-a-2c74ce9a-80f7-4958-a467-131a8bd96dea#ref=rss)
-* [https://www.spiegel.de/ausland/suedkorea-mindestens-96-tote-bei-flugzeugabsturz](https://www.spiegel.de/ausland/suedkorea-mindestens-96-tote-bei-flugzeugabsturz-a-80c1a7ca-e872-4aaf-8e5e-222e5e569ede#ref=rss)
-### vierschanzentournee
-
-* [https://www.spiegel.de/sport/wintersport/pius-paschke-bei-der-vierschanzentournee-lange-in-der-zweiten-reihe-nun-favorit](https://www.spiegel.de/sport/wintersport/pius-paschke-bei-der-vierschanzentournee-lange-in-der-zweiten-reihe-nun-favorit-a-044d0cd1-7d05-4f78-9007-a29701b6466a#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-pius-paschke-ist-in-reichweite-oesterreichs-skispringer-dominieren-qualifikation-in-oberstdorf](https://www.spiegel.de/sport/wintersport/vierschanzentournee-pius-paschke-ist-in-reichweite-oesterreichs-skispringer-dominieren-qualifikation-in-oberstdorf-a-dd1e72da-7aa2-470b-91a5-f37e02e1d707#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/sport/missbrauchsvorwuefe-von-tabea-alt-deutscher-turner-bund-leitet-untersuchung-ein](https://www.spiegel.de/sport/missbrauchsvorwuefe-von-tabea-alt-deutscher-turner-bund-leitet-untersuchung-ein-a-6203f840-67df-466d-b93a-2fd5d5de4b15#ref=rss)
-* [https://www.spiegel.de/panorama/diskriminierung-bei-der-wohnungssuche-wer-einen-auslaendischen-namen-hat-hat-es-besonders-schwer](https://www.spiegel.de/panorama/diskriminierung-bei-der-wohnungssuche-wer-einen-auslaendischen-namen-hat-hat-es-besonders-schwer-a-8e10bf20-399b-47fa-b80b-5ccae1e22143#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-pius-paschke-ist-in-reichweite-oesterreichs-skispringer-dominieren-qualifikation-in-oberstdorf](https://www.spiegel.de/sport/wintersport/vierschanzentournee-pius-paschke-ist-in-reichweite-oesterreichs-skispringer-dominieren-qualifikation-in-oberstdorf-a-dd1e72da-7aa2-470b-91a5-f37e02e1d707#ref=rss)
-### trump
-
-* [https://www.spiegel.de/wirtschaft/kryptowaehrungen-christian-lindner-fdp-plaediert-fuer-reserven-bei-ezb-und-bundesbank](https://www.spiegel.de/wirtschaft/kryptowaehrungen-christian-lindner-fdp-plaediert-fuer-reserven-bei-ezb-und-bundesbank-a-9c481ce9-1758-40ea-9582-672458ca30ce#ref=rss)
-* [https://www.spiegel.de/ausland/joe-biden-glaubt-offenbar-er-haette-trump-geschlagen](https://www.spiegel.de/ausland/joe-biden-glaubt-offenbar-er-haette-trump-geschlagen-a-6ff85409-df3e-4e21-be76-c858164c25b5#ref=rss)
-### südkorea
-
-* [https://www.spiegel.de/ausland/suedkorea-amateurfilmer-dokumentiert-landung-aufnahmen-zeigen-schwerstes-flugzeugunglueck-in-der-geschichte-des-landes](https://www.spiegel.de/ausland/suedkorea-amateurfilmer-dokumentiert-landung-aufnahmen-zeigen-schwerstes-flugzeugunglueck-in-der-geschichte-des-landes-a-40bf0f36-a67d-4faa-906e-cacd7921a7ab#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-elon-musk-macht-wahlkampf-fuer-die-afd](https://www.spiegel.de/politik/deutschland/news-elon-musk-macht-wahlkampf-fuer-die-afd-a-fe77042c-57b2-45c4-a0e0-d7d26e1b3073#ref=rss)
-* [https://www.spiegel.de/ausland/suedkorea-mindestens-96-tote-bei-flugzeugabsturz](https://www.spiegel.de/ausland/suedkorea-mindestens-96-tote-bei-flugzeugabsturz-a-80c1a7ca-e872-4aaf-8e5e-222e5e569ede#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/panorama/leute/hilary-swank-ist-50-fuehlt-sich-dank-ihrer-kleinen-kinder-aber-wie-30](https://www.spiegel.de/panorama/leute/hilary-swank-ist-50-fuehlt-sich-dank-ihrer-kleinen-kinder-aber-wie-30-a-80c4fccf-82cb-4590-8ddc-e866aaf91af5#ref=rss)
-* [https://www.spiegel.de/panorama/diskriminierung-bei-der-wohnungssuche-wer-einen-auslaendischen-namen-hat-hat-es-besonders-schwer](https://www.spiegel.de/panorama/diskriminierung-bei-der-wohnungssuche-wer-einen-auslaendischen-namen-hat-hat-es-besonders-schwer-a-8e10bf20-399b-47fa-b80b-5ccae1e22143#ref=rss)
-* [https://www.spiegel.de/sport/dtb-und-stb-tabea-alt-wirft-turnverbaenden-systematischen-missbrauch-vor](https://www.spiegel.de/sport/dtb-und-stb-tabea-alt-wirft-turnverbaenden-systematischen-missbrauch-vor-a-378b80e7-4284-4d24-b82e-cccf7861483e#ref=rss)
-### mutter
-
-* [https://www.spiegel.de/panorama/leute/hilary-swank-ist-50-fuehlt-sich-dank-ihrer-kleinen-kinder-aber-wie-30](https://www.spiegel.de/panorama/leute/hilary-swank-ist-50-fuehlt-sich-dank-ihrer-kleinen-kinder-aber-wie-30-a-80c4fccf-82cb-4590-8ddc-e866aaf91af5#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/tod-des-kindes-mutter-in-altkrautheim-kaempft-um-grab-ihres-sohnes](https://www.spiegel.de/panorama/justiz/tod-des-kindes-mutter-in-altkrautheim-kaempft-um-grab-ihres-sohnes-a-d6d9a162-2984-406d-aea9-8f6c85691f9c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bremen-polizei-nimmt-23-jaehrigen-am-hauptbahnhof-fest-frauen-im-zug-mit-messer-bedroht](https://www.spiegel.de/panorama/justiz/bremen-polizei-nimmt-23-jaehrigen-am-hauptbahnhof-fest-frauen-im-zug-mit-messer-bedroht-a-c5104e9e-625b-4618-856f-9071cb8beaf0#ref=rss)
+* [https://www.spiegel.de/panorama/leute/nader-jindaoui-und-louisa-jindaoui-loesen-massenansturm-auf-waffelladen-in-berlin-aus](https://www.spiegel.de/panorama/leute/nader-jindaoui-und-louisa-jindaoui-loesen-massenansturm-auf-waffelladen-in-berlin-aus-a-daed4fbf-52a1-4afd-a33f-28d43bf53366#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/waldheim-in-sachsen-unbekannte-substanz-in-supermarkt-freigesetzt-mehrere-menschen-verletzt](https://www.spiegel.de/panorama/justiz/waldheim-in-sachsen-unbekannte-substanz-in-supermarkt-freigesetzt-mehrere-menschen-verletzt-a-315cb906-449c-42dd-9d39-7b53dc0b7d37#ref=rss)
 ### sagt
 
-* [https://www.spiegel.de/panorama/leute/hilary-swank-ist-50-fuehlt-sich-dank-ihrer-kleinen-kinder-aber-wie-30](https://www.spiegel.de/panorama/leute/hilary-swank-ist-50-fuehlt-sich-dank-ihrer-kleinen-kinder-aber-wie-30-a-80c4fccf-82cb-4590-8ddc-e866aaf91af5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/elon-musk-afd-wahlempfehlung-in-der-welt-matthias-miersch-kritisiert-springer-verlag](https://www.spiegel.de/politik/deutschland/elon-musk-afd-wahlempfehlung-in-der-welt-matthias-miersch-kritisiert-springer-verlag-a-f43d6e22-066d-40c6-a59f-821c4f0abf46#ref=rss)
-* [https://www.spiegel.de/ausland/tedros-adhanom-ghebreyesus-who-chef-spricht-davon-im-jemen-knapp-dem-tod-entkommen-zu-sein](https://www.spiegel.de/ausland/tedros-adhanom-ghebreyesus-who-chef-spricht-davon-im-jemen-knapp-dem-tod-entkommen-zu-sein-a-c1330c9a-4bb3-47fe-ac17-6d215435d93a#ref=rss)
-### mehr
+* [https://www.spiegel.de/ausland/sabotage-nato-funktionaer-james-appathurai-warnt-vor-hybridem-angriff-mit-vielen-opfern](https://www.spiegel.de/ausland/sabotage-nato-funktionaer-james-appathurai-warnt-vor-hybridem-angriff-mit-vielen-opfern-a-95018a7c-5d63-4045-869f-b1e95050b7ed#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dramatisches-em-aus-raubte-joshua-kimmich-den-schlaf](https://www.spiegel.de/sport/fussball/dramatisches-em-aus-raubte-joshua-kimmich-den-schlaf-a-52ab462e-69d0-4eb4-99d4-cd1b3a52fd9e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/kita-krise-wirtschaftsweise-kritisiert-mangelnde-kinderbetreuung-in-deutschland](https://www.spiegel.de/wirtschaft/soziales/kita-krise-wirtschaftsweise-kritisiert-mangelnde-kinderbetreuung-in-deutschland-a-bebbd71d-7b22-48e2-a337-38fa488d261a#ref=rss)
+* [https://www.spiegel.de/wissenschaft/vogelschlag-kann-ein-fahrwerk-schwer-beschaedigen](https://www.spiegel.de/wissenschaft/vogelschlag-kann-ein-fahrwerk-schwer-beschaedigen-a-5ea12f93-0d65-4d4d-ad4a-34ad0dfc714e#ref=rss)
+### 2025
 
-* [https://www.spiegel.de/panorama/diskriminierung-bei-der-wohnungssuche-wer-einen-auslaendischen-namen-hat-hat-es-besonders-schwer](https://www.spiegel.de/panorama/diskriminierung-bei-der-wohnungssuche-wer-einen-auslaendischen-namen-hat-hat-es-besonders-schwer-a-8e10bf20-399b-47fa-b80b-5ccae1e22143#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/pius-paschke-bei-der-vierschanzentournee-lange-in-der-zweiten-reihe-nun-favorit](https://www.spiegel.de/sport/wintersport/pius-paschke-bei-der-vierschanzentournee-lange-in-der-zweiten-reihe-nun-favorit-a-044d0cd1-7d05-4f78-9007-a29701b6466a#ref=rss)
-* [https://www.spiegel.de/sport/magnus-carlsen-jeansgate-erschuettert-die-schachwelt](https://www.spiegel.de/sport/magnus-carlsen-jeansgate-erschuettert-die-schachwelt-a-6d2ef492-8ecb-4394-ae0b-c3643cec0fce#ref=rss)
-### tage
-
-* [https://www.spiegel.de/sport/basketball/nba-einbruch-bei-luka-doncic-wenige-tage-nach-verletzung](https://www.spiegel.de/sport/basketball/nba-einbruch-bei-luka-doncic-wenige-tage-nach-verletzung-a-2c74ce9a-80f7-4958-a467-131a8bd96dea#ref=rss)
+* [https://www.spiegel.de/ausland/afrika-2025-kontinent-der-zukunft-und-der-kriege](https://www.spiegel.de/ausland/afrika-2025-kontinent-der-zukunft-und-der-kriege-a-4f321744-41b8-40cd-bae8-6adcd4e5b22c#ref=rss)
 * [https://www.spiegel.de/karriere/brueckentage-rechner-so-optimieren-sie-ihren-urlaub-in-2025](https://www.spiegel.de/karriere/brueckentage-rechner-so-optimieren-sie-ihren-urlaub-in-2025-a-5215baaf-b08c-46af-87d2-72173ed0de16#ref=rss)
-### israel
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-csu-weihnachten-und-die-bundestagswahl-2025-soeder-die-glocken-nie-klingen](https://www.spiegel.de/politik/deutschland/markus-soeder-csu-weihnachten-und-die-bundestagswahl-2025-soeder-die-glocken-nie-klingen-a-33abb982-c323-40fc-b3c5-0380be0da108#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/ausland/israel-beendet-einsatz-in-gaza-klinik-bezeichnet-chefarzt-als-terror-kader-der-hamas](https://www.spiegel.de/ausland/israel-beendet-einsatz-in-gaza-klinik-bezeichnet-chefarzt-als-terror-kader-der-hamas-a-4ff52966-af3c-4d37-af35-974c0acc164f#ref=rss)
-* [https://www.spiegel.de/ausland/tedros-adhanom-ghebreyesus-who-chef-spricht-davon-im-jemen-knapp-dem-tod-entkommen-zu-sein](https://www.spiegel.de/ausland/tedros-adhanom-ghebreyesus-who-chef-spricht-davon-im-jemen-knapp-dem-tod-entkommen-zu-sein-a-c1330c9a-4bb3-47fe-ac17-6d215435d93a#ref=rss)
-* [https://www.spiegel.de/ausland/israel-benjamin-netanyahu-muss-sich-einer-prostataoperation-unterziehen](https://www.spiegel.de/ausland/israel-benjamin-netanyahu-muss-sich-einer-prostataoperation-unterziehen-a-e6b1c689-8bea-4cc4-ba96-0e9ce393d073#ref=rss)
-### tod
+* [https://www.spiegel.de/panorama/justiz/bremen-polizei-nimmt-23-jaehrigen-am-hauptbahnhof-fest-frauen-im-zug-mit-messer-bedroht](https://www.spiegel.de/panorama/justiz/bremen-polizei-nimmt-23-jaehrigen-am-hauptbahnhof-fest-frauen-im-zug-mit-messer-bedroht-a-c5104e9e-625b-4618-856f-9071cb8beaf0#ref=rss)
+* [https://www.spiegel.de/panorama/aegypten-tourist-im-roten-meer-von-hai-angegriffen-und-getoetet](https://www.spiegel.de/panorama/aegypten-tourist-im-roten-meer-von-hai-angegriffen-und-getoetet-a-5a279933-e099-47f5-9340-87cc189c4c67#ref=rss)
+* [https://www.spiegel.de/ausland/suedkorea-was-ueber-das-flugzeugunglueck-bekannt-ist](https://www.spiegel.de/ausland/suedkorea-was-ueber-das-flugzeugunglueck-bekannt-ist-a-c60dfe53-db61-409b-ba41-17603b7ad3ec#ref=rss)
+### vier
 
-* [https://www.spiegel.de/ausland/tedros-adhanom-ghebreyesus-who-chef-spricht-davon-im-jemen-knapp-dem-tod-entkommen-zu-sein](https://www.spiegel.de/ausland/tedros-adhanom-ghebreyesus-who-chef-spricht-davon-im-jemen-knapp-dem-tod-entkommen-zu-sein-a-c1330c9a-4bb3-47fe-ac17-6d215435d93a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/tod-des-kindes-mutter-in-altkrautheim-kaempft-um-grab-ihres-sohnes](https://www.spiegel.de/panorama/justiz/tod-des-kindes-mutter-in-altkrautheim-kaempft-um-grab-ihres-sohnes-a-d6d9a162-2984-406d-aea9-8f6c85691f9c#ref=rss)
-### macht
+* [https://www.spiegel.de/sport/wintersport/auftakt-der-vierschanzentournee-pius-paschke-springt-in-oberstdorf-auf-rang-drei](https://www.spiegel.de/sport/wintersport/auftakt-der-vierschanzentournee-pius-paschke-springt-in-oberstdorf-auf-rang-drei-a-1f48c4ce-c08a-4085-a67f-56d75659977c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dramatisches-em-aus-raubte-joshua-kimmich-den-schlaf](https://www.spiegel.de/sport/fussball/dramatisches-em-aus-raubte-joshua-kimmich-den-schlaf-a-52ab462e-69d0-4eb4-99d4-cd1b3a52fd9e#ref=rss)
+* [https://www.spiegel.de/ausland/ahmed-al-sharaa-zu-syrien-bis-zu-den-naechsten-wahlen-koennte-es-vier-jahre-dauern](https://www.spiegel.de/ausland/ahmed-al-sharaa-zu-syrien-bis-zu-den-naechsten-wahlen-koennte-es-vier-jahre-dauern-a-7a29bc72-f217-4236-8fd9-a91d87d7950f#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/politik/deutschland/news-elon-musk-macht-wahlkampf-fuer-die-afd](https://www.spiegel.de/politik/deutschland/news-elon-musk-macht-wahlkampf-fuer-die-afd-a-fe77042c-57b2-45c4-a0e0-d7d26e1b3073#ref=rss)
-* [https://www.spiegel.de/ausland/nordkorea-die-neue-macht-des-kim-jong-un](https://www.spiegel.de/ausland/nordkorea-die-neue-macht-des-kim-jong-un-a-e4c293eb-8c4f-42c6-b284-6212d9d73b56#ref=rss)
-### biden
+* [https://www.spiegel.de/panorama/sandra-hueller-der-weltstar-der-fuer-menschlichkeit-wirbt](https://www.spiegel.de/panorama/sandra-hueller-der-weltstar-der-fuer-menschlichkeit-wirbt-a-680a1288-5fda-4f18-b1d0-0e77c6c8d4a2#ref=rss)
+* [https://www.spiegel.de/panorama/johannes-mesus-wie-ein-ministrant-mit-trisomie-21-bei-beerdingungen-einsamer-menschen-dabei-ist](https://www.spiegel.de/panorama/johannes-mesus-wie-ein-ministrant-mit-trisomie-21-bei-beerdingungen-einsamer-menschen-dabei-ist-a-97c6d5a4-c156-4bac-be4f-8870c55e22a6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/kita-krise-wirtschaftsweise-kritisiert-mangelnde-kinderbetreuung-in-deutschland](https://www.spiegel.de/wirtschaft/soziales/kita-krise-wirtschaftsweise-kritisiert-mangelnde-kinderbetreuung-in-deutschland-a-bebbd71d-7b22-48e2-a337-38fa488d261a#ref=rss)
+### alscharaa
 
-* [https://www.spiegel.de/politik/deutschland/news-elon-musk-macht-wahlkampf-fuer-die-afd](https://www.spiegel.de/politik/deutschland/news-elon-musk-macht-wahlkampf-fuer-die-afd-a-fe77042c-57b2-45c4-a0e0-d7d26e1b3073#ref=rss)
-* [https://www.spiegel.de/ausland/joe-biden-glaubt-offenbar-er-haette-trump-geschlagen](https://www.spiegel.de/ausland/joe-biden-glaubt-offenbar-er-haette-trump-geschlagen-a-6ff85409-df3e-4e21-be76-c858164c25b5#ref=rss)
-### sonntag
+* [https://www.spiegel.de/ausland/ahmed-al-sharaa-zu-syrien-bis-zu-den-naechsten-wahlen-koennte-es-vier-jahre-dauern](https://www.spiegel.de/ausland/ahmed-al-sharaa-zu-syrien-bis-zu-den-naechsten-wahlen-koennte-es-vier-jahre-dauern-a-7a29bc72-f217-4236-8fd9-a91d87d7950f#ref=rss)
+### söder
 
-* [https://www.spiegel.de/politik/deutschland/news-elon-musk-macht-wahlkampf-fuer-die-afd](https://www.spiegel.de/politik/deutschland/news-elon-musk-macht-wahlkampf-fuer-die-afd-a-fe77042c-57b2-45c4-a0e0-d7d26e1b3073#ref=rss)
-* [https://www.spiegel.de/ausland/iran-warum-mir-die-iranische-botschaft-in-berlin-ausnahmsweise-an-einem-sonntag-ihre-tueren-oeffnete](https://www.spiegel.de/ausland/iran-warum-mir-die-iranische-botschaft-in-berlin-ausnahmsweise-an-einem-sonntag-ihre-tueren-oeffnete-a-d62ad2bc-2c12-4cb3-8765-0ad64cf1382d#ref=rss)
-### hätte
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-csu-weihnachten-und-die-bundestagswahl-2025-soeder-die-glocken-nie-klingen](https://www.spiegel.de/politik/deutschland/markus-soeder-csu-weihnachten-und-die-bundestagswahl-2025-soeder-die-glocken-nie-klingen-a-33abb982-c323-40fc-b3c5-0380be0da108#ref=rss)
+### 23jährigen
 
-* [https://www.spiegel.de/ausland/louisiana-polizisten-finden-vermisstes-maedchen-nach-onlinedate-im-wald](https://www.spiegel.de/ausland/louisiana-polizisten-finden-vermisstes-maedchen-nach-onlinedate-im-wald-a-3e78dcd6-0d40-4d12-aec1-acb58ae82b97#ref=rss)
-* [https://www.spiegel.de/ausland/joe-biden-glaubt-offenbar-er-haette-trump-geschlagen](https://www.spiegel.de/ausland/joe-biden-glaubt-offenbar-er-haette-trump-geschlagen-a-6ff85409-df3e-4e21-be76-c858164c25b5#ref=rss)
-### deutscher
+* [https://www.spiegel.de/panorama/justiz/bremen-polizei-nimmt-23-jaehrigen-am-hauptbahnhof-fest-frauen-im-zug-mit-messer-bedroht](https://www.spiegel.de/panorama/justiz/bremen-polizei-nimmt-23-jaehrigen-am-hauptbahnhof-fest-frauen-im-zug-mit-messer-bedroht-a-c5104e9e-625b-4618-856f-9071cb8beaf0#ref=rss)
+### hauptbahnhof
 
-* [https://www.spiegel.de/sport/missbrauchsvorwuefe-von-tabea-alt-deutscher-turner-bund-leitet-untersuchung-ein](https://www.spiegel.de/sport/missbrauchsvorwuefe-von-tabea-alt-deutscher-turner-bund-leitet-untersuchung-ein-a-6203f840-67df-466d-b93a-2fd5d5de4b15#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/pius-paschke-bei-der-vierschanzentournee-lange-in-der-zweiten-reihe-nun-favorit](https://www.spiegel.de/sport/wintersport/pius-paschke-bei-der-vierschanzentournee-lange-in-der-zweiten-reihe-nun-favorit-a-044d0cd1-7d05-4f78-9007-a29701b6466a#ref=rss)
-### systematischen
+* [https://www.spiegel.de/panorama/justiz/bremen-polizei-nimmt-23-jaehrigen-am-hauptbahnhof-fest-frauen-im-zug-mit-messer-bedroht](https://www.spiegel.de/panorama/justiz/bremen-polizei-nimmt-23-jaehrigen-am-hauptbahnhof-fest-frauen-im-zug-mit-messer-bedroht-a-c5104e9e-625b-4618-856f-9071cb8beaf0#ref=rss)
+### fest
 
-* [https://www.spiegel.de/sport/missbrauchsvorwuefe-von-tabea-alt-deutscher-turner-bund-leitet-untersuchung-ein](https://www.spiegel.de/sport/missbrauchsvorwuefe-von-tabea-alt-deutscher-turner-bund-leitet-untersuchung-ein-a-6203f840-67df-466d-b93a-2fd5d5de4b15#ref=rss)
-* [https://www.spiegel.de/sport/dtb-und-stb-tabea-alt-wirft-turnverbaenden-systematischen-missbrauch-vor](https://www.spiegel.de/sport/dtb-und-stb-tabea-alt-wirft-turnverbaenden-systematischen-missbrauch-vor-a-378b80e7-4284-4d24-b82e-cccf7861483e#ref=rss)
-### missbrauch
+* [https://www.spiegel.de/panorama/justiz/bremen-polizei-nimmt-23-jaehrigen-am-hauptbahnhof-fest-frauen-im-zug-mit-messer-bedroht](https://www.spiegel.de/panorama/justiz/bremen-polizei-nimmt-23-jaehrigen-am-hauptbahnhof-fest-frauen-im-zug-mit-messer-bedroht-a-c5104e9e-625b-4618-856f-9071cb8beaf0#ref=rss)
+### zug
 
-* [https://www.spiegel.de/sport/missbrauchsvorwuefe-von-tabea-alt-deutscher-turner-bund-leitet-untersuchung-ein](https://www.spiegel.de/sport/missbrauchsvorwuefe-von-tabea-alt-deutscher-turner-bund-leitet-untersuchung-ein-a-6203f840-67df-466d-b93a-2fd5d5de4b15#ref=rss)
-* [https://www.spiegel.de/sport/dtb-und-stb-tabea-alt-wirft-turnverbaenden-systematischen-missbrauch-vor](https://www.spiegel.de/sport/dtb-und-stb-tabea-alt-wirft-turnverbaenden-systematischen-missbrauch-vor-a-378b80e7-4284-4d24-b82e-cccf7861483e#ref=rss)
-### dtb
+* [https://www.spiegel.de/panorama/justiz/bremen-polizei-nimmt-23-jaehrigen-am-hauptbahnhof-fest-frauen-im-zug-mit-messer-bedroht](https://www.spiegel.de/panorama/justiz/bremen-polizei-nimmt-23-jaehrigen-am-hauptbahnhof-fest-frauen-im-zug-mit-messer-bedroht-a-c5104e9e-625b-4618-856f-9071cb8beaf0#ref=rss)
+### bedroht
 
-* [https://www.spiegel.de/sport/missbrauchsvorwuefe-von-tabea-alt-deutscher-turner-bund-leitet-untersuchung-ein](https://www.spiegel.de/sport/missbrauchsvorwuefe-von-tabea-alt-deutscher-turner-bund-leitet-untersuchung-ein-a-6203f840-67df-466d-b93a-2fd5d5de4b15#ref=rss)
-* [https://www.spiegel.de/sport/dtb-und-stb-tabea-alt-wirft-turnverbaenden-systematischen-missbrauch-vor](https://www.spiegel.de/sport/dtb-und-stb-tabea-alt-wirft-turnverbaenden-systematischen-missbrauch-vor-a-378b80e7-4284-4d24-b82e-cccf7861483e#ref=rss)
-### dayle
-
-* [https://www.spiegel.de/panorama/leute/dayle-haddon-schauspielerin-und-model-nach-heizungsleck-gestorben](https://www.spiegel.de/panorama/leute/dayle-haddon-schauspielerin-und-model-nach-heizungsleck-gestorben-a-d143efdf-40e9-4dee-883b-1ddea852ede3#ref=rss)
-### haddon
-
-* [https://www.spiegel.de/panorama/leute/dayle-haddon-schauspielerin-und-model-nach-heizungsleck-gestorben](https://www.spiegel.de/panorama/leute/dayle-haddon-schauspielerin-und-model-nach-heizungsleck-gestorben-a-d143efdf-40e9-4dee-883b-1ddea852ede3#ref=rss)
-### gestorben
-
-* [https://www.spiegel.de/panorama/leute/dayle-haddon-schauspielerin-und-model-nach-heizungsleck-gestorben](https://www.spiegel.de/panorama/leute/dayle-haddon-schauspielerin-und-model-nach-heizungsleck-gestorben-a-d143efdf-40e9-4dee-883b-1ddea852ede3#ref=rss)
-### später
-
-* [https://www.spiegel.de/panorama/leute/dayle-haddon-schauspielerin-und-model-nach-heizungsleck-gestorben](https://www.spiegel.de/panorama/leute/dayle-haddon-schauspielerin-und-model-nach-heizungsleck-gestorben-a-d143efdf-40e9-4dee-883b-1ddea852ede3#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-einbruch-bei-luka-doncic-wenige-tage-nach-verletzung](https://www.spiegel.de/sport/basketball/nba-einbruch-bei-luka-doncic-wenige-tage-nach-verletzung-a-2c74ce9a-80f7-4958-a467-131a8bd96dea#ref=rss)
-### sah
-
-* [https://www.spiegel.de/panorama/leute/dayle-haddon-schauspielerin-und-model-nach-heizungsleck-gestorben](https://www.spiegel.de/panorama/leute/dayle-haddon-schauspielerin-und-model-nach-heizungsleck-gestorben-a-d143efdf-40e9-4dee-883b-1ddea852ede3#ref=rss)
-* [https://www.spiegel.de/ausland/iran-warum-mir-die-iranische-botschaft-in-berlin-ausnahmsweise-an-einem-sonntag-ihre-tueren-oeffnete](https://www.spiegel.de/ausland/iran-warum-mir-die-iranische-botschaft-in-berlin-ausnahmsweise-an-einem-sonntag-ihre-tueren-oeffnete-a-d62ad2bc-2c12-4cb3-8765-0ad64cf1382d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bremen-polizei-nimmt-23-jaehrigen-am-hauptbahnhof-fest-frauen-im-zug-mit-messer-bedroht](https://www.spiegel.de/panorama/justiz/bremen-polizei-nimmt-23-jaehrigen-am-hauptbahnhof-fest-frauen-im-zug-mit-messer-bedroht-a-c5104e9e-625b-4618-856f-9071cb8beaf0#ref=rss)
 ### offenbar
 
-* [https://www.spiegel.de/panorama/leute/dayle-haddon-schauspielerin-und-model-nach-heizungsleck-gestorben](https://www.spiegel.de/panorama/leute/dayle-haddon-schauspielerin-und-model-nach-heizungsleck-gestorben-a-d143efdf-40e9-4dee-883b-1ddea852ede3#ref=rss)
-* [https://www.spiegel.de/ausland/joe-biden-glaubt-offenbar-er-haette-trump-geschlagen](https://www.spiegel.de/ausland/joe-biden-glaubt-offenbar-er-haette-trump-geschlagen-a-6ff85409-df3e-4e21-be76-c858164c25b5#ref=rss)
-### kryptowährungen
+* [https://www.spiegel.de/panorama/justiz/bremen-polizei-nimmt-23-jaehrigen-am-hauptbahnhof-fest-frauen-im-zug-mit-messer-bedroht](https://www.spiegel.de/panorama/justiz/bremen-polizei-nimmt-23-jaehrigen-am-hauptbahnhof-fest-frauen-im-zug-mit-messer-bedroht-a-c5104e9e-625b-4618-856f-9071cb8beaf0#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/waldheim-in-sachsen-unbekannte-substanz-in-supermarkt-freigesetzt-mehrere-menschen-verletzt](https://www.spiegel.de/panorama/justiz/waldheim-in-sachsen-unbekannte-substanz-in-supermarkt-freigesetzt-mehrere-menschen-verletzt-a-315cb906-449c-42dd-9d39-7b53dc0b7d37#ref=rss)
+### tote
 
-* [https://www.spiegel.de/wirtschaft/kryptowaehrungen-christian-lindner-fdp-plaediert-fuer-reserven-bei-ezb-und-bundesbank](https://www.spiegel.de/wirtschaft/kryptowaehrungen-christian-lindner-fdp-plaediert-fuer-reserven-bei-ezb-und-bundesbank-a-9c481ce9-1758-40ea-9582-672458ca30ce#ref=rss)
-### lindner
-
-* [https://www.spiegel.de/wirtschaft/kryptowaehrungen-christian-lindner-fdp-plaediert-fuer-reserven-bei-ezb-und-bundesbank](https://www.spiegel.de/wirtschaft/kryptowaehrungen-christian-lindner-fdp-plaediert-fuer-reserven-bei-ezb-und-bundesbank-a-9c481ce9-1758-40ea-9582-672458ca30ce#ref=rss)
-### ezb
-
-* [https://www.spiegel.de/wirtschaft/kryptowaehrungen-christian-lindner-fdp-plaediert-fuer-reserven-bei-ezb-und-bundesbank](https://www.spiegel.de/wirtschaft/kryptowaehrungen-christian-lindner-fdp-plaediert-fuer-reserven-bei-ezb-und-bundesbank-a-9c481ce9-1758-40ea-9582-672458ca30ce#ref=rss)
-### bundesbank
-
-* [https://www.spiegel.de/wirtschaft/kryptowaehrungen-christian-lindner-fdp-plaediert-fuer-reserven-bei-ezb-und-bundesbank](https://www.spiegel.de/wirtschaft/kryptowaehrungen-christian-lindner-fdp-plaediert-fuer-reserven-bei-ezb-und-bundesbank-a-9c481ce9-1758-40ea-9582-672458ca30ce#ref=rss)
-### donald
-
-* [https://www.spiegel.de/wirtschaft/kryptowaehrungen-christian-lindner-fdp-plaediert-fuer-reserven-bei-ezb-und-bundesbank](https://www.spiegel.de/wirtschaft/kryptowaehrungen-christian-lindner-fdp-plaediert-fuer-reserven-bei-ezb-und-bundesbank-a-9c481ce9-1758-40ea-9582-672458ca30ce#ref=rss)
-* [https://www.spiegel.de/ausland/joe-biden-glaubt-offenbar-er-haette-trump-geschlagen](https://www.spiegel.de/ausland/joe-biden-glaubt-offenbar-er-haette-trump-geschlagen-a-6ff85409-df3e-4e21-be76-c858164c25b5#ref=rss)
-### neue
-
-* [https://www.spiegel.de/wirtschaft/kryptowaehrungen-christian-lindner-fdp-plaediert-fuer-reserven-bei-ezb-und-bundesbank](https://www.spiegel.de/wirtschaft/kryptowaehrungen-christian-lindner-fdp-plaediert-fuer-reserven-bei-ezb-und-bundesbank-a-9c481ce9-1758-40ea-9582-672458ca30ce#ref=rss)
-* [https://www.spiegel.de/ausland/nordkorea-die-neue-macht-des-kim-jong-un](https://www.spiegel.de/ausland/nordkorea-die-neue-macht-des-kim-jong-un-a-e4c293eb-8c4f-42c6-b284-6212d9d73b56#ref=rss)
-### zeigen
-
-* [https://www.spiegel.de/ausland/suedkorea-amateurfilmer-dokumentiert-landung-aufnahmen-zeigen-schwerstes-flugzeugunglueck-in-der-geschichte-des-landes](https://www.spiegel.de/ausland/suedkorea-amateurfilmer-dokumentiert-landung-aufnahmen-zeigen-schwerstes-flugzeugunglueck-in-der-geschichte-des-landes-a-40bf0f36-a67d-4faa-906e-cacd7921a7ab#ref=rss)
-### landebahn
-
-* [https://www.spiegel.de/ausland/suedkorea-amateurfilmer-dokumentiert-landung-aufnahmen-zeigen-schwerstes-flugzeugunglueck-in-der-geschichte-des-landes](https://www.spiegel.de/ausland/suedkorea-amateurfilmer-dokumentiert-landung-aufnahmen-zeigen-schwerstes-flugzeugunglueck-in-der-geschichte-des-landes-a-40bf0f36-a67d-4faa-906e-cacd7921a7ab#ref=rss)
-* [https://www.spiegel.de/ausland/suedkorea-mindestens-96-tote-bei-flugzeugabsturz](https://www.spiegel.de/ausland/suedkorea-mindestens-96-tote-bei-flugzeugabsturz-a-80c1a7ca-e872-4aaf-8e5e-222e5e569ede#ref=rss)
-### angehörigen
-
-* [https://www.spiegel.de/ausland/suedkorea-amateurfilmer-dokumentiert-landung-aufnahmen-zeigen-schwerstes-flugzeugunglueck-in-der-geschichte-des-landes](https://www.spiegel.de/ausland/suedkorea-amateurfilmer-dokumentiert-landung-aufnahmen-zeigen-schwerstes-flugzeugunglueck-in-der-geschichte-des-landes-a-40bf0f36-a67d-4faa-906e-cacd7921a7ab#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-angehoerige-wegen-mordes-an-achtjaehriger-narin-gueran-verurteilt](https://www.spiegel.de/ausland/tuerkei-angehoerige-wegen-mordes-an-achtjaehriger-narin-gueran-verurteilt-a-7055b15b-08f1-4096-aefe-13baa1dbf925#ref=rss)
-### verzweifelt
-
-* [https://www.spiegel.de/ausland/suedkorea-amateurfilmer-dokumentiert-landung-aufnahmen-zeigen-schwerstes-flugzeugunglueck-in-der-geschichte-des-landes](https://www.spiegel.de/ausland/suedkorea-amateurfilmer-dokumentiert-landung-aufnahmen-zeigen-schwerstes-flugzeugunglueck-in-der-geschichte-des-landes-a-40bf0f36-a67d-4faa-906e-cacd7921a7ab#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/tod-des-kindes-mutter-in-altkrautheim-kaempft-um-grab-ihres-sohnes](https://www.spiegel.de/panorama/justiz/tod-des-kindes-mutter-in-altkrautheim-kaempft-um-grab-ihres-sohnes-a-d6d9a162-2984-406d-aea9-8f6c85691f9c#ref=rss)
-### hilary
-
-* [https://www.spiegel.de/panorama/leute/hilary-swank-ist-50-fuehlt-sich-dank-ihrer-kleinen-kinder-aber-wie-30](https://www.spiegel.de/panorama/leute/hilary-swank-ist-50-fuehlt-sich-dank-ihrer-kleinen-kinder-aber-wie-30-a-80c4fccf-82cb-4590-8ddc-e866aaf91af5#ref=rss)
-### swank
-
-* [https://www.spiegel.de/panorama/leute/hilary-swank-ist-50-fuehlt-sich-dank-ihrer-kleinen-kinder-aber-wie-30](https://www.spiegel.de/panorama/leute/hilary-swank-ist-50-fuehlt-sich-dank-ihrer-kleinen-kinder-aber-wie-30-a-80c4fccf-82cb-4590-8ddc-e866aaf91af5#ref=rss)
-### 50
-
-* [https://www.spiegel.de/panorama/leute/hilary-swank-ist-50-fuehlt-sich-dank-ihrer-kleinen-kinder-aber-wie-30](https://www.spiegel.de/panorama/leute/hilary-swank-ist-50-fuehlt-sich-dank-ihrer-kleinen-kinder-aber-wie-30-a-80c4fccf-82cb-4590-8ddc-e866aaf91af5#ref=rss)
-### tag
-
-* [https://www.spiegel.de/panorama/leute/hilary-swank-ist-50-fuehlt-sich-dank-ihrer-kleinen-kinder-aber-wie-30](https://www.spiegel.de/panorama/leute/hilary-swank-ist-50-fuehlt-sich-dank-ihrer-kleinen-kinder-aber-wie-30-a-80c4fccf-82cb-4590-8ddc-e866aaf91af5#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/elon-musk-weihnachten-neuwahlen-das-sind-die-besten-cartoons-der-woche](https://www.spiegel.de/kultur/literatur/elon-musk-weihnachten-neuwahlen-das-sind-die-besten-cartoons-der-woche-a-55a9ef31-ae3e-49e2-b171-88921ced7c63#ref=rss)
-### besonders
-
-* [https://www.spiegel.de/panorama/diskriminierung-bei-der-wohnungssuche-wer-einen-auslaendischen-namen-hat-hat-es-besonders-schwer](https://www.spiegel.de/panorama/diskriminierung-bei-der-wohnungssuche-wer-einen-auslaendischen-namen-hat-hat-es-besonders-schwer-a-8e10bf20-399b-47fa-b80b-5ccae1e22143#ref=rss)
-### schwer
-
-* [https://www.spiegel.de/panorama/diskriminierung-bei-der-wohnungssuche-wer-einen-auslaendischen-namen-hat-hat-es-besonders-schwer](https://www.spiegel.de/panorama/diskriminierung-bei-der-wohnungssuche-wer-einen-auslaendischen-namen-hat-hat-es-besonders-schwer-a-8e10bf20-399b-47fa-b80b-5ccae1e22143#ref=rss)
-### pius
-
-* [https://www.spiegel.de/sport/wintersport/pius-paschke-bei-der-vierschanzentournee-lange-in-der-zweiten-reihe-nun-favorit](https://www.spiegel.de/sport/wintersport/pius-paschke-bei-der-vierschanzentournee-lange-in-der-zweiten-reihe-nun-favorit-a-044d0cd1-7d05-4f78-9007-a29701b6466a#ref=rss)
-### paschke
-
-* [https://www.spiegel.de/sport/wintersport/pius-paschke-bei-der-vierschanzentournee-lange-in-der-zweiten-reihe-nun-favorit](https://www.spiegel.de/sport/wintersport/pius-paschke-bei-der-vierschanzentournee-lange-in-der-zweiten-reihe-nun-favorit-a-044d0cd1-7d05-4f78-9007-a29701b6466a#ref=rss)
-### lange
-
-* [https://www.spiegel.de/sport/wintersport/pius-paschke-bei-der-vierschanzentournee-lange-in-der-zweiten-reihe-nun-favorit](https://www.spiegel.de/sport/wintersport/pius-paschke-bei-der-vierschanzentournee-lange-in-der-zweiten-reihe-nun-favorit-a-044d0cd1-7d05-4f78-9007-a29701b6466a#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/sport/wintersport/pius-paschke-bei-der-vierschanzentournee-lange-in-der-zweiten-reihe-nun-favorit](https://www.spiegel.de/sport/wintersport/pius-paschke-bei-der-vierschanzentournee-lange-in-der-zweiten-reihe-nun-favorit-a-044d0cd1-7d05-4f78-9007-a29701b6466a#ref=rss)
-* [https://www.spiegel.de/panorama/leute/bonnie-tyler-will-noch-zehn-jahre-weitersingen-karriereende-nicht-in-sicht](https://www.spiegel.de/panorama/leute/bonnie-tyler-will-noch-zehn-jahre-weitersingen-karriereende-nicht-in-sicht-a-838e0aed-5783-460a-875b-63fa392a45c3#ref=rss)
-### welt
-
-* [https://www.spiegel.de/politik/deutschland/elon-musk-afd-wahlempfehlung-in-der-welt-matthias-miersch-kritisiert-springer-verlag](https://www.spiegel.de/politik/deutschland/elon-musk-afd-wahlempfehlung-in-der-welt-matthias-miersch-kritisiert-springer-verlag-a-f43d6e22-066d-40c6-a59f-821c4f0abf46#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-elon-musk-macht-wahlkampf-fuer-die-afd](https://www.spiegel.de/politik/deutschland/news-elon-musk-macht-wahlkampf-fuer-die-afd-a-fe77042c-57b2-45c4-a0e0-d7d26e1b3073#ref=rss)
-### miersch
-
-* [https://www.spiegel.de/politik/deutschland/elon-musk-afd-wahlempfehlung-in-der-welt-matthias-miersch-kritisiert-springer-verlag](https://www.spiegel.de/politik/deutschland/elon-musk-afd-wahlempfehlung-in-der-welt-matthias-miersch-kritisiert-springer-verlag-a-f43d6e22-066d-40c6-a59f-821c4f0abf46#ref=rss)
-### springerverlag
-
-* [https://www.spiegel.de/politik/deutschland/elon-musk-afd-wahlempfehlung-in-der-welt-matthias-miersch-kritisiert-springer-verlag](https://www.spiegel.de/politik/deutschland/elon-musk-afd-wahlempfehlung-in-der-welt-matthias-miersch-kritisiert-springer-verlag-a-f43d6e22-066d-40c6-a59f-821c4f0abf46#ref=rss)
-### besten
-
-* [https://www.spiegel.de/kultur/literatur/elon-musk-weihnachten-neuwahlen-das-sind-die-besten-cartoons-der-woche](https://www.spiegel.de/kultur/literatur/elon-musk-weihnachten-neuwahlen-das-sind-die-besten-cartoons-der-woche-a-55a9ef31-ae3e-49e2-b171-88921ced7c63#ref=rss)
-* [https://www.spiegel.de/tests/brettspiele/brettspiele-im-test-mythwind-kronologic-botanicus-und-bonsai](https://www.spiegel.de/tests/brettspiele/brettspiele-im-test-mythwind-kronologic-botanicus-und-bonsai-a-85181795-6c01-42b0-8eba-ec25a894c389#ref=rss)
-### wahlkampf
-
-* [https://www.spiegel.de/kultur/literatur/elon-musk-weihnachten-neuwahlen-das-sind-die-besten-cartoons-der-woche](https://www.spiegel.de/kultur/literatur/elon-musk-weihnachten-neuwahlen-das-sind-die-besten-cartoons-der-woche-a-55a9ef31-ae3e-49e2-b171-88921ced7c63#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-elon-musk-macht-wahlkampf-fuer-die-afd](https://www.spiegel.de/politik/deutschland/news-elon-musk-macht-wahlkampf-fuer-die-afd-a-fe77042c-57b2-45c4-a0e0-d7d26e1b3073#ref=rss)
-### luka
-
-* [https://www.spiegel.de/sport/basketball/nba-einbruch-bei-luka-doncic-wenige-tage-nach-verletzung](https://www.spiegel.de/sport/basketball/nba-einbruch-bei-luka-doncic-wenige-tage-nach-verletzung-a-2c74ce9a-80f7-4958-a467-131a8bd96dea#ref=rss)
-### dončić
-
-* [https://www.spiegel.de/sport/basketball/nba-einbruch-bei-luka-doncic-wenige-tage-nach-verletzung](https://www.spiegel.de/sport/basketball/nba-einbruch-bei-luka-doncic-wenige-tage-nach-verletzung-a-2c74ce9a-80f7-4958-a467-131a8bd96dea#ref=rss)
-### israels
-
-* [https://www.spiegel.de/ausland/israel-beendet-einsatz-in-gaza-klinik-bezeichnet-chefarzt-als-terror-kader-der-hamas](https://www.spiegel.de/ausland/israel-beendet-einsatz-in-gaza-klinik-bezeichnet-chefarzt-als-terror-kader-der-hamas-a-4ff52966-af3c-4d37-af35-974c0acc164f#ref=rss)
-* [https://www.spiegel.de/ausland/israel-benjamin-netanyahu-muss-sich-einer-prostataoperation-unterziehen](https://www.spiegel.de/ausland/israel-benjamin-netanyahu-muss-sich-einer-prostataoperation-unterziehen-a-e6b1c689-8bea-4cc4-ba96-0e9ce393d073#ref=rss)
+* [https://www.spiegel.de/ausland/brasilien-drei-tote-durch-mit-arsen-versetzten-weihnachtskuchen](https://www.spiegel.de/ausland/brasilien-drei-tote-durch-mit-arsen-versetzten-weihnachtskuchen-a-25259a2d-8596-49d1-9a46-d87f714429f2#ref=rss)
+* [https://www.spiegel.de/wissenschaft/vogelschlag-kann-ein-fahrwerk-schwer-beschaedigen](https://www.spiegel.de/wissenschaft/vogelschlag-kann-ein-fahrwerk-schwer-beschaedigen-a-5ea12f93-0d65-4d4d-ad4a-34ad0dfc714e#ref=rss)
 ### leben
 
-* [https://www.spiegel.de/panorama/australien-40-jaehriger-stirbt-bei-hai-angriff](https://www.spiegel.de/panorama/australien-40-jaehriger-stirbt-bei-hai-angriff-a-61ce6032-9e56-4571-ba47-fd7f3df520f8#ref=rss)
-* [https://www.spiegel.de/ausland/suedkorea-mindestens-96-tote-bei-flugzeugabsturz](https://www.spiegel.de/ausland/suedkorea-mindestens-96-tote-bei-flugzeugabsturz-a-80c1a7ca-e872-4aaf-8e5e-222e5e569ede#ref=rss)
+* [https://www.spiegel.de/ausland/brasilien-drei-tote-durch-mit-arsen-versetzten-weihnachtskuchen](https://www.spiegel.de/ausland/brasilien-drei-tote-durch-mit-arsen-versetzten-weihnachtskuchen-a-25259a2d-8596-49d1-9a46-d87f714429f2#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/sexfotos-im-internet-wie-geklaute-nacktbilder-ein-ganzes-leben-zerstoeren](https://www.spiegel.de/netzwelt/web/sexfotos-im-internet-wie-geklaute-nacktbilder-ein-ganzes-leben-zerstoeren-a-3c63e545-024e-4a3d-8d65-f2850e7bcc8a#ref=rss)
+### weiteres
+
+* [https://www.spiegel.de/wirtschaft/soziales/seabed-warfare-weiteres-russisches-schiff-nahe-estlink-2-kabel-gesichtet](https://www.spiegel.de/wirtschaft/soziales/seabed-warfare-weiteres-russisches-schiff-nahe-estlink-2-kabel-gesichtet-a-533d6cf1-782d-4a03-ae92-b61d7ea32f09#ref=rss)
+### schiff
+
+* [https://www.spiegel.de/wirtschaft/soziales/seabed-warfare-weiteres-russisches-schiff-nahe-estlink-2-kabel-gesichtet](https://www.spiegel.de/wirtschaft/soziales/seabed-warfare-weiteres-russisches-schiff-nahe-estlink-2-kabel-gesichtet-a-533d6cf1-782d-4a03-ae92-b61d7ea32f09#ref=rss)
+### vierschanzentournee
+
+* [https://www.spiegel.de/sport/wintersport/auftakt-der-vierschanzentournee-pius-paschke-springt-in-oberstdorf-auf-rang-drei](https://www.spiegel.de/sport/wintersport/auftakt-der-vierschanzentournee-pius-paschke-springt-in-oberstdorf-auf-rang-drei-a-1f48c4ce-c08a-4085-a67f-56d75659977c#ref=rss)
+### pius
+
+* [https://www.spiegel.de/sport/wintersport/auftakt-der-vierschanzentournee-pius-paschke-springt-in-oberstdorf-auf-rang-drei](https://www.spiegel.de/sport/wintersport/auftakt-der-vierschanzentournee-pius-paschke-springt-in-oberstdorf-auf-rang-drei-a-1f48c4ce-c08a-4085-a67f-56d75659977c#ref=rss)
+### paschke
+
+* [https://www.spiegel.de/sport/wintersport/auftakt-der-vierschanzentournee-pius-paschke-springt-in-oberstdorf-auf-rang-drei](https://www.spiegel.de/sport/wintersport/auftakt-der-vierschanzentournee-pius-paschke-springt-in-oberstdorf-auf-rang-drei-a-1f48c4ce-c08a-4085-a67f-56d75659977c#ref=rss)
+### oberstdorf
+
+* [https://www.spiegel.de/sport/wintersport/auftakt-der-vierschanzentournee-pius-paschke-springt-in-oberstdorf-auf-rang-drei](https://www.spiegel.de/sport/wintersport/auftakt-der-vierschanzentournee-pius-paschke-springt-in-oberstdorf-auf-rang-drei-a-1f48c4ce-c08a-4085-a67f-56d75659977c#ref=rss)
+### ersten
+
+* [https://www.spiegel.de/sport/wintersport/auftakt-der-vierschanzentournee-pius-paschke-springt-in-oberstdorf-auf-rang-drei](https://www.spiegel.de/sport/wintersport/auftakt-der-vierschanzentournee-pius-paschke-springt-in-oberstdorf-auf-rang-drei-a-1f48c4ce-c08a-4085-a67f-56d75659977c#ref=rss)
+* [https://www.spiegel.de/sport/olympia-2024-in-paris-wie-die-spiegel-reporter-mit-gianni-infantino-im-regen-ausharrten](https://www.spiegel.de/sport/olympia-2024-in-paris-wie-die-spiegel-reporter-mit-gianni-infantino-im-regen-ausharrten-a-9d57a22f-8ef6-4219-8376-88cb06cc390f#ref=rss)
+### landen
+
+* [https://www.spiegel.de/sport/wintersport/auftakt-der-vierschanzentournee-pius-paschke-springt-in-oberstdorf-auf-rang-drei](https://www.spiegel.de/sport/wintersport/auftakt-der-vierschanzentournee-pius-paschke-springt-in-oberstdorf-auf-rang-drei-a-1f48c4ce-c08a-4085-a67f-56d75659977c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/digitale-gewalt-so-schuetzen-sie-sich-wenn-nacktbilder-von-ihnen-verbreitet-werden](https://www.spiegel.de/panorama/justiz/digitale-gewalt-so-schuetzen-sie-sich-wenn-nacktbilder-von-ihnen-verbreitet-werden-a-33291785-8c71-4ae2-b172-4bf2e18730dd#ref=rss)
+### sandra
+
+* [https://www.spiegel.de/panorama/sandra-hueller-der-weltstar-der-fuer-menschlichkeit-wirbt](https://www.spiegel.de/panorama/sandra-hueller-der-weltstar-der-fuer-menschlichkeit-wirbt-a-680a1288-5fda-4f18-b1d0-0e77c6c8d4a2#ref=rss)
+### hüller
+
+* [https://www.spiegel.de/panorama/sandra-hueller-der-weltstar-der-fuer-menschlichkeit-wirbt](https://www.spiegel.de/panorama/sandra-hueller-der-weltstar-der-fuer-menschlichkeit-wirbt-a-680a1288-5fda-4f18-b1d0-0e77c6c8d4a2#ref=rss)
+### menschlichkeit
+
+* [https://www.spiegel.de/panorama/sandra-hueller-der-weltstar-der-fuer-menschlichkeit-wirbt](https://www.spiegel.de/panorama/sandra-hueller-der-weltstar-der-fuer-menschlichkeit-wirbt-a-680a1288-5fda-4f18-b1d0-0e77c6c8d4a2#ref=rss)
+### erforschen
+
+* [https://www.spiegel.de/panorama/sandra-hueller-der-weltstar-der-fuer-menschlichkeit-wirbt](https://www.spiegel.de/panorama/sandra-hueller-der-weltstar-der-fuer-menschlichkeit-wirbt-a-680a1288-5fda-4f18-b1d0-0e77c6c8d4a2#ref=rss)
+* [https://www.spiegel.de/panorama/johannes-mesus-wie-ein-ministrant-mit-trisomie-21-bei-beerdingungen-einsamer-menschen-dabei-ist](https://www.spiegel.de/panorama/johannes-mesus-wie-ein-ministrant-mit-trisomie-21-bei-beerdingungen-einsamer-menschen-dabei-ist-a-97c6d5a4-c156-4bac-be4f-8870c55e22a6#ref=rss)
+### weltall
+
+* [https://www.spiegel.de/panorama/sandra-hueller-der-weltstar-der-fuer-menschlichkeit-wirbt](https://www.spiegel.de/panorama/sandra-hueller-der-weltstar-der-fuer-menschlichkeit-wirbt-a-680a1288-5fda-4f18-b1d0-0e77c6c8d4a2#ref=rss)
+* [https://www.spiegel.de/panorama/johannes-mesus-wie-ein-ministrant-mit-trisomie-21-bei-beerdingungen-einsamer-menschen-dabei-ist](https://www.spiegel.de/panorama/johannes-mesus-wie-ein-ministrant-mit-trisomie-21-bei-beerdingungen-einsamer-menschen-dabei-ist-a-97c6d5a4-c156-4bac-be4f-8870c55e22a6#ref=rss)
+### streiten
+
+* [https://www.spiegel.de/panorama/sandra-hueller-der-weltstar-der-fuer-menschlichkeit-wirbt](https://www.spiegel.de/panorama/sandra-hueller-der-weltstar-der-fuer-menschlichkeit-wirbt-a-680a1288-5fda-4f18-b1d0-0e77c6c8d4a2#ref=rss)
+* [https://www.spiegel.de/panorama/johannes-mesus-wie-ein-ministrant-mit-trisomie-21-bei-beerdingungen-einsamer-menschen-dabei-ist](https://www.spiegel.de/panorama/johannes-mesus-wie-ein-ministrant-mit-trisomie-21-bei-beerdingungen-einsamer-menschen-dabei-ist-a-97c6d5a4-c156-4bac-be4f-8870c55e22a6#ref=rss)
+### gerechtigkeit
+
+* [https://www.spiegel.de/panorama/sandra-hueller-der-weltstar-der-fuer-menschlichkeit-wirbt](https://www.spiegel.de/panorama/sandra-hueller-der-weltstar-der-fuer-menschlichkeit-wirbt-a-680a1288-5fda-4f18-b1d0-0e77c6c8d4a2#ref=rss)
+* [https://www.spiegel.de/panorama/johannes-mesus-wie-ein-ministrant-mit-trisomie-21-bei-beerdingungen-einsamer-menschen-dabei-ist](https://www.spiegel.de/panorama/johannes-mesus-wie-ein-ministrant-mit-trisomie-21-bei-beerdingungen-einsamer-menschen-dabei-ist-a-97c6d5a4-c156-4bac-be4f-8870c55e22a6#ref=rss)
+### große
+
+* [https://www.spiegel.de/panorama/sandra-hueller-der-weltstar-der-fuer-menschlichkeit-wirbt](https://www.spiegel.de/panorama/sandra-hueller-der-weltstar-der-fuer-menschlichkeit-wirbt-a-680a1288-5fda-4f18-b1d0-0e77c6c8d4a2#ref=rss)
+* [https://www.spiegel.de/panorama/johannes-mesus-wie-ein-ministrant-mit-trisomie-21-bei-beerdingungen-einsamer-menschen-dabei-ist](https://www.spiegel.de/panorama/johannes-mesus-wie-ein-ministrant-mit-trisomie-21-bei-beerdingungen-einsamer-menschen-dabei-ist-a-97c6d5a4-c156-4bac-be4f-8870c55e22a6#ref=rss)
+### ziele
+
+* [https://www.spiegel.de/panorama/sandra-hueller-der-weltstar-der-fuer-menschlichkeit-wirbt](https://www.spiegel.de/panorama/sandra-hueller-der-weltstar-der-fuer-menschlichkeit-wirbt-a-680a1288-5fda-4f18-b1d0-0e77c6c8d4a2#ref=rss)
+* [https://www.spiegel.de/panorama/johannes-mesus-wie-ein-ministrant-mit-trisomie-21-bei-beerdingungen-einsamer-menschen-dabei-ist](https://www.spiegel.de/panorama/johannes-mesus-wie-ein-ministrant-mit-trisomie-21-bei-beerdingungen-einsamer-menschen-dabei-ist-a-97c6d5a4-c156-4bac-be4f-8870c55e22a6#ref=rss)
+### stecken
+
+* [https://www.spiegel.de/panorama/sandra-hueller-der-weltstar-der-fuer-menschlichkeit-wirbt](https://www.spiegel.de/panorama/sandra-hueller-der-weltstar-der-fuer-menschlichkeit-wirbt-a-680a1288-5fda-4f18-b1d0-0e77c6c8d4a2#ref=rss)
+* [https://www.spiegel.de/panorama/johannes-mesus-wie-ein-ministrant-mit-trisomie-21-bei-beerdingungen-einsamer-menschen-dabei-ist](https://www.spiegel.de/panorama/johannes-mesus-wie-ein-ministrant-mit-trisomie-21-bei-beerdingungen-einsamer-menschen-dabei-ist-a-97c6d5a4-c156-4bac-be4f-8870c55e22a6#ref=rss)
+### anderen
+
+* [https://www.spiegel.de/panorama/sandra-hueller-der-weltstar-der-fuer-menschlichkeit-wirbt](https://www.spiegel.de/panorama/sandra-hueller-der-weltstar-der-fuer-menschlichkeit-wirbt-a-680a1288-5fda-4f18-b1d0-0e77c6c8d4a2#ref=rss)
+* [https://www.spiegel.de/panorama/johannes-mesus-wie-ein-ministrant-mit-trisomie-21-bei-beerdingungen-einsamer-menschen-dabei-ist](https://www.spiegel.de/panorama/johannes-mesus-wie-ein-ministrant-mit-trisomie-21-bei-beerdingungen-einsamer-menschen-dabei-ist-a-97c6d5a4-c156-4bac-be4f-8870c55e22a6#ref=rss)
+### helfen
+
+* [https://www.spiegel.de/panorama/sandra-hueller-der-weltstar-der-fuer-menschlichkeit-wirbt](https://www.spiegel.de/panorama/sandra-hueller-der-weltstar-der-fuer-menschlichkeit-wirbt-a-680a1288-5fda-4f18-b1d0-0e77c6c8d4a2#ref=rss)
+* [https://www.spiegel.de/panorama/johannes-mesus-wie-ein-ministrant-mit-trisomie-21-bei-beerdingungen-einsamer-menschen-dabei-ist](https://www.spiegel.de/panorama/johannes-mesus-wie-ein-ministrant-mit-trisomie-21-bei-beerdingungen-einsamer-menschen-dabei-ist-a-97c6d5a4-c156-4bac-be4f-8870c55e22a6#ref=rss)
+### mutig
+
+* [https://www.spiegel.de/panorama/sandra-hueller-der-weltstar-der-fuer-menschlichkeit-wirbt](https://www.spiegel.de/panorama/sandra-hueller-der-weltstar-der-fuer-menschlichkeit-wirbt-a-680a1288-5fda-4f18-b1d0-0e77c6c8d4a2#ref=rss)
+* [https://www.spiegel.de/panorama/johannes-mesus-wie-ein-ministrant-mit-trisomie-21-bei-beerdingungen-einsamer-menschen-dabei-ist](https://www.spiegel.de/panorama/johannes-mesus-wie-ein-ministrant-mit-trisomie-21-bei-beerdingungen-einsamer-menschen-dabei-ist-a-97c6d5a4-c156-4bac-be4f-8870c55e22a6#ref=rss)
+### voranschreiten
+
+* [https://www.spiegel.de/panorama/sandra-hueller-der-weltstar-der-fuer-menschlichkeit-wirbt](https://www.spiegel.de/panorama/sandra-hueller-der-weltstar-der-fuer-menschlichkeit-wirbt-a-680a1288-5fda-4f18-b1d0-0e77c6c8d4a2#ref=rss)
+* [https://www.spiegel.de/panorama/johannes-mesus-wie-ein-ministrant-mit-trisomie-21-bei-beerdingungen-einsamer-menschen-dabei-ist](https://www.spiegel.de/panorama/johannes-mesus-wie-ein-ministrant-mit-trisomie-21-bei-beerdingungen-einsamer-menschen-dabei-ist-a-97c6d5a4-c156-4bac-be4f-8870c55e22a6#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/panorama/sandra-hueller-der-weltstar-der-fuer-menschlichkeit-wirbt](https://www.spiegel.de/panorama/sandra-hueller-der-weltstar-der-fuer-menschlichkeit-wirbt-a-680a1288-5fda-4f18-b1d0-0e77c6c8d4a2#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-taliban-verbieten-fenster-mit-blick-auf-frauenorte](https://www.spiegel.de/ausland/afghanistan-taliban-verbieten-fenster-mit-blick-auf-frauenorte-a-6481a68d-c187-4f6b-a8b1-3435d130a8d4#ref=rss)
+### charles
+
+* [https://www.spiegel.de/panorama/leute/charles-dolan-gruender-von-hbo-und-und-cablevision-ist-tot](https://www.spiegel.de/panorama/leute/charles-dolan-gruender-von-hbo-und-und-cablevision-ist-tot-a-ef5b94d2-aeae-4710-8f3b-9b0560ccc257#ref=rss)
+### dolan
+
+* [https://www.spiegel.de/panorama/leute/charles-dolan-gruender-von-hbo-und-und-cablevision-ist-tot](https://www.spiegel.de/panorama/leute/charles-dolan-gruender-von-hbo-und-und-cablevision-ist-tot-a-ef5b94d2-aeae-4710-8f3b-9b0560ccc257#ref=rss)
+### russische
+
+* [https://www.spiegel.de/ausland/russland-chef-von-lgbtqi-reiseagentur-stirbt-im-gefaengnis](https://www.spiegel.de/ausland/russland-chef-von-lgbtqi-reiseagentur-stirbt-im-gefaengnis-a-8290efb9-147d-411f-b26e-3148c258b775#ref=rss)
+* [https://www.spiegel.de/ausland/aserbaidschan-ilham-alijew-wirft-moskau-verschleierung-nach-flugzeugabsturz](https://www.spiegel.de/ausland/aserbaidschan-ilham-alijew-wirft-moskau-verschleierung-nach-flugzeugabsturz-a-e146fbe3-863d-4374-bf90-cf2e4e4caf03#ref=rss)
+### james
+
+* [https://www.spiegel.de/ausland/sabotage-nato-funktionaer-james-appathurai-warnt-vor-hybridem-angriff-mit-vielen-opfern](https://www.spiegel.de/ausland/sabotage-nato-funktionaer-james-appathurai-warnt-vor-hybridem-angriff-mit-vielen-opfern-a-95018a7c-5d63-4045-869f-b1e95050b7ed#ref=rss)
+### appathurai
+
+* [https://www.spiegel.de/ausland/sabotage-nato-funktionaer-james-appathurai-warnt-vor-hybridem-angriff-mit-vielen-opfern](https://www.spiegel.de/ausland/sabotage-nato-funktionaer-james-appathurai-warnt-vor-hybridem-angriff-mit-vielen-opfern-a-95018a7c-5d63-4045-869f-b1e95050b7ed#ref=rss)
+### daran
+
+* [https://www.spiegel.de/ausland/sabotage-nato-funktionaer-james-appathurai-warnt-vor-hybridem-angriff-mit-vielen-opfern](https://www.spiegel.de/ausland/sabotage-nato-funktionaer-james-appathurai-warnt-vor-hybridem-angriff-mit-vielen-opfern-a-95018a7c-5d63-4045-869f-b1e95050b7ed#ref=rss)
+* [https://www.spiegel.de/ausland/suedkorea-was-ueber-das-flugzeugunglueck-bekannt-ist](https://www.spiegel.de/ausland/suedkorea-was-ueber-das-flugzeugunglueck-bekannt-ist-a-c60dfe53-db61-409b-ba41-17603b7ad3ec#ref=rss)
+### ilham
+
+* [https://www.spiegel.de/ausland/aserbaidschan-ilham-alijew-wirft-moskau-verschleierung-nach-flugzeugabsturz](https://www.spiegel.de/ausland/aserbaidschan-ilham-alijew-wirft-moskau-verschleierung-nach-flugzeugabsturz-a-e146fbe3-863d-4374-bf90-cf2e4e4caf03#ref=rss)
+### alijew
+
+* [https://www.spiegel.de/ausland/aserbaidschan-ilham-alijew-wirft-moskau-verschleierung-nach-flugzeugabsturz](https://www.spiegel.de/ausland/aserbaidschan-ilham-alijew-wirft-moskau-verschleierung-nach-flugzeugabsturz-a-e146fbe3-863d-4374-bf90-cf2e4e4caf03#ref=rss)
+### flugzeugabsturz
+
+* [https://www.spiegel.de/ausland/aserbaidschan-ilham-alijew-wirft-moskau-verschleierung-nach-flugzeugabsturz](https://www.spiegel.de/ausland/aserbaidschan-ilham-alijew-wirft-moskau-verschleierung-nach-flugzeugabsturz-a-e146fbe3-863d-4374-bf90-cf2e4e4caf03#ref=rss)
+### verantwortung
+
+* [https://www.spiegel.de/ausland/aserbaidschan-ilham-alijew-wirft-moskau-verschleierung-nach-flugzeugabsturz](https://www.spiegel.de/ausland/aserbaidschan-ilham-alijew-wirft-moskau-verschleierung-nach-flugzeugabsturz-a-e146fbe3-863d-4374-bf90-cf2e4e4caf03#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/kita-krise-wirtschaftsweise-kritisiert-mangelnde-kinderbetreuung-in-deutschland](https://www.spiegel.de/wirtschaft/soziales/kita-krise-wirtschaftsweise-kritisiert-mangelnde-kinderbetreuung-in-deutschland-a-bebbd71d-7b22-48e2-a337-38fa488d261a#ref=rss)
+### hai
+
+* [https://www.spiegel.de/panorama/aegypten-tourist-im-roten-meer-von-hai-angegriffen-und-getoetet](https://www.spiegel.de/panorama/aegypten-tourist-im-roten-meer-von-hai-angegriffen-und-getoetet-a-5a279933-e099-47f5-9340-87cc189c4c67#ref=rss)
+### afghanistan
+
+* [https://www.spiegel.de/ausland/afghanistan-taliban-verbieten-fenster-mit-blick-auf-frauenorte](https://www.spiegel.de/ausland/afghanistan-taliban-verbieten-fenster-mit-blick-auf-frauenorte-a-6481a68d-c187-4f6b-a8b1-3435d130a8d4#ref=rss)
+### fenster
+
+* [https://www.spiegel.de/ausland/afghanistan-taliban-verbieten-fenster-mit-blick-auf-frauenorte](https://www.spiegel.de/ausland/afghanistan-taliban-verbieten-fenster-mit-blick-auf-frauenorte-a-6481a68d-c187-4f6b-a8b1-3435d130a8d4#ref=rss)
+### blick
+
+* [https://www.spiegel.de/ausland/afghanistan-taliban-verbieten-fenster-mit-blick-auf-frauenorte](https://www.spiegel.de/ausland/afghanistan-taliban-verbieten-fenster-mit-blick-auf-frauenorte-a-6481a68d-c187-4f6b-a8b1-3435d130a8d4#ref=rss)
+### weniger
+
+* [https://www.spiegel.de/ausland/afghanistan-taliban-verbieten-fenster-mit-blick-auf-frauenorte](https://www.spiegel.de/ausland/afghanistan-taliban-verbieten-fenster-mit-blick-auf-frauenorte-a-6481a68d-c187-4f6b-a8b1-3435d130a8d4#ref=rss)
+* [https://www.spiegel.de/ausland/afrika-2025-kontinent-der-zukunft-und-der-kriege](https://www.spiegel.de/ausland/afrika-2025-kontinent-der-zukunft-und-der-kriege-a-4f321744-41b8-40cd-bae8-6adcd4e5b22c#ref=rss)
 ### urlaub
 
 * [https://www.spiegel.de/karriere/brueckentage-rechner-so-optimieren-sie-ihren-urlaub-in-2025](https://www.spiegel.de/karriere/brueckentage-rechner-so-optimieren-sie-ihren-urlaub-in-2025-a-5215baaf-b08c-46af-87d2-72173ed0de16#ref=rss)
-### 2025
+### unser
 
 * [https://www.spiegel.de/karriere/brueckentage-rechner-so-optimieren-sie-ihren-urlaub-in-2025](https://www.spiegel.de/karriere/brueckentage-rechner-so-optimieren-sie-ihren-urlaub-in-2025-a-5215baaf-b08c-46af-87d2-72173ed0de16#ref=rss)
-### viele
-
-* [https://www.spiegel.de/karriere/brueckentage-rechner-so-optimieren-sie-ihren-urlaub-in-2025](https://www.spiegel.de/karriere/brueckentage-rechner-so-optimieren-sie-ihren-urlaub-in-2025-a-5215baaf-b08c-46af-87d2-72173ed0de16#ref=rss)
+* [https://www.spiegel.de/sport/olympia-2024-in-paris-wie-die-spiegel-reporter-mit-gianni-infantino-im-regen-ausharrten](https://www.spiegel.de/sport/olympia-2024-in-paris-wie-die-spiegel-reporter-mit-gianni-infantino-im-regen-ausharrten-a-9d57a22f-8ef6-4219-8376-88cb06cc390f#ref=rss)
 ### stück
 
 * [https://www.spiegel.de/karriere/brueckentage-rechner-so-optimieren-sie-ihren-urlaub-in-2025](https://www.spiegel.de/karriere/brueckentage-rechner-so-optimieren-sie-ihren-urlaub-in-2025-a-5215baaf-b08c-46af-87d2-72173ed0de16#ref=rss)
-* [https://www.spiegel.de/sport/magnus-carlsen-jeansgate-erschuettert-die-schachwelt](https://www.spiegel.de/sport/magnus-carlsen-jeansgate-erschuettert-die-schachwelt-a-6d2ef492-8ecb-4394-ae0b-c3643cec0fce#ref=rss)
-### tedros
+* [https://www.spiegel.de/panorama/leute/nosferatu-nicholas-hoult-hat-einen-vampir-penis-in-seiner-wohnung](https://www.spiegel.de/panorama/leute/nosferatu-nicholas-hoult-hat-einen-vampir-penis-in-seiner-wohnung-a-17da81f5-f82d-4970-86dc-76e8b49247eb#ref=rss)
+### ermittelt
 
-* [https://www.spiegel.de/ausland/tedros-adhanom-ghebreyesus-who-chef-spricht-davon-im-jemen-knapp-dem-tod-entkommen-zu-sein](https://www.spiegel.de/ausland/tedros-adhanom-ghebreyesus-who-chef-spricht-davon-im-jemen-knapp-dem-tod-entkommen-zu-sein-a-c1330c9a-4bb3-47fe-ac17-6d215435d93a#ref=rss)
-### adhanom
+* [https://www.spiegel.de/kultur/tv/polizeiruf-110-heute-aus-muenchen-jenseits-des-rechts-im-schnellcheck](https://www.spiegel.de/kultur/tv/polizeiruf-110-heute-aus-muenchen-jenseits-des-rechts-im-schnellcheck-a-7504cb6a-271b-4006-863a-9c0129cfcb6c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/waldheim-in-sachsen-unbekannte-substanz-in-supermarkt-freigesetzt-mehrere-menschen-verletzt](https://www.spiegel.de/panorama/justiz/waldheim-in-sachsen-unbekannte-substanz-in-supermarkt-freigesetzt-mehrere-menschen-verletzt-a-315cb906-449c-42dd-9d39-7b53dc0b7d37#ref=rss)
+### prorussische
 
-* [https://www.spiegel.de/ausland/tedros-adhanom-ghebreyesus-who-chef-spricht-davon-im-jemen-knapp-dem-tod-entkommen-zu-sein](https://www.spiegel.de/ausland/tedros-adhanom-ghebreyesus-who-chef-spricht-davon-im-jemen-knapp-dem-tod-entkommen-zu-sein-a-c1330c9a-4bb3-47fe-ac17-6d215435d93a#ref=rss)
-### ghebreyesus
+* [https://www.spiegel.de/ausland/hackerangriff-in-mailand-prorussische-aktivisten-verueben-cyberattacke-auf-flughaefen](https://www.spiegel.de/ausland/hackerangriff-in-mailand-prorussische-aktivisten-verueben-cyberattacke-auf-flughaefen-a-e9a9ce2d-24a8-4f0a-b8e3-3dc27c0d0110#ref=rss)
+### flughäfen
 
-* [https://www.spiegel.de/ausland/tedros-adhanom-ghebreyesus-who-chef-spricht-davon-im-jemen-knapp-dem-tod-entkommen-zu-sein](https://www.spiegel.de/ausland/tedros-adhanom-ghebreyesus-who-chef-spricht-davon-im-jemen-knapp-dem-tod-entkommen-zu-sein-a-c1330c9a-4bb3-47fe-ac17-6d215435d93a#ref=rss)
-### whochef
+* [https://www.spiegel.de/ausland/hackerangriff-in-mailand-prorussische-aktivisten-verueben-cyberattacke-auf-flughaefen](https://www.spiegel.de/ausland/hackerangriff-in-mailand-prorussische-aktivisten-verueben-cyberattacke-auf-flughaefen-a-e9a9ce2d-24a8-4f0a-b8e3-3dc27c0d0110#ref=rss)
+### mehrere
 
-* [https://www.spiegel.de/ausland/tedros-adhanom-ghebreyesus-who-chef-spricht-davon-im-jemen-knapp-dem-tod-entkommen-zu-sein](https://www.spiegel.de/ausland/tedros-adhanom-ghebreyesus-who-chef-spricht-davon-im-jemen-knapp-dem-tod-entkommen-zu-sein-a-c1330c9a-4bb3-47fe-ac17-6d215435d93a#ref=rss)
+* [https://www.spiegel.de/ausland/hackerangriff-in-mailand-prorussische-aktivisten-verueben-cyberattacke-auf-flughaefen](https://www.spiegel.de/ausland/hackerangriff-in-mailand-prorussische-aktivisten-verueben-cyberattacke-auf-flughaefen-a-e9a9ce2d-24a8-4f0a-b8e3-3dc27c0d0110#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/waldheim-in-sachsen-unbekannte-substanz-in-supermarkt-freigesetzt-mehrere-menschen-verletzt](https://www.spiegel.de/panorama/justiz/waldheim-in-sachsen-unbekannte-substanz-in-supermarkt-freigesetzt-mehrere-menschen-verletzt-a-315cb906-449c-42dd-9d39-7b53dc0b7d37#ref=rss)
 ### davon
 
-* [https://www.spiegel.de/ausland/tedros-adhanom-ghebreyesus-who-chef-spricht-davon-im-jemen-knapp-dem-tod-entkommen-zu-sein](https://www.spiegel.de/ausland/tedros-adhanom-ghebreyesus-who-chef-spricht-davon-im-jemen-knapp-dem-tod-entkommen-zu-sein-a-c1330c9a-4bb3-47fe-ac17-6d215435d93a#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-angehoerige-wegen-mordes-an-achtjaehriger-narin-gueran-verurteilt](https://www.spiegel.de/ausland/tuerkei-angehoerige-wegen-mordes-an-achtjaehriger-narin-gueran-verurteilt-a-7055b15b-08f1-4096-aefe-13baa1dbf925#ref=rss)
-### jemen
+* [https://www.spiegel.de/ausland/hackerangriff-in-mailand-prorussische-aktivisten-verueben-cyberattacke-auf-flughaefen](https://www.spiegel.de/ausland/hackerangriff-in-mailand-prorussische-aktivisten-verueben-cyberattacke-auf-flughaefen-a-e9a9ce2d-24a8-4f0a-b8e3-3dc27c0d0110#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-csu-weihnachten-und-die-bundestagswahl-2025-soeder-die-glocken-nie-klingen](https://www.spiegel.de/politik/deutschland/markus-soeder-csu-weihnachten-und-die-bundestagswahl-2025-soeder-die-glocken-nie-klingen-a-33abb982-c323-40fc-b3c5-0380be0da108#ref=rss)
+### johannes
 
-* [https://www.spiegel.de/ausland/tedros-adhanom-ghebreyesus-who-chef-spricht-davon-im-jemen-knapp-dem-tod-entkommen-zu-sein](https://www.spiegel.de/ausland/tedros-adhanom-ghebreyesus-who-chef-spricht-davon-im-jemen-knapp-dem-tod-entkommen-zu-sein-a-c1330c9a-4bb3-47fe-ac17-6d215435d93a#ref=rss)
-### brettspiele
+* [https://www.spiegel.de/panorama/johannes-mesus-wie-ein-ministrant-mit-trisomie-21-bei-beerdingungen-einsamer-menschen-dabei-ist](https://www.spiegel.de/panorama/johannes-mesus-wie-ein-ministrant-mit-trisomie-21-bei-beerdingungen-einsamer-menschen-dabei-ist-a-97c6d5a4-c156-4bac-be4f-8870c55e22a6#ref=rss)
+### mesus
 
-* [https://www.spiegel.de/tests/brettspiele/brettspiele-im-test-mythwind-kronologic-botanicus-und-bonsai](https://www.spiegel.de/tests/brettspiele/brettspiele-im-test-mythwind-kronologic-botanicus-und-bonsai-a-85181795-6c01-42b0-8eba-ec25a894c389#ref=rss)
-### mir
+* [https://www.spiegel.de/panorama/johannes-mesus-wie-ein-ministrant-mit-trisomie-21-bei-beerdingungen-einsamer-menschen-dabei-ist](https://www.spiegel.de/panorama/johannes-mesus-wie-ein-ministrant-mit-trisomie-21-bei-beerdingungen-einsamer-menschen-dabei-ist-a-97c6d5a4-c156-4bac-be4f-8870c55e22a6#ref=rss)
+### ministrant
 
-* [https://www.spiegel.de/ausland/iran-warum-mir-die-iranische-botschaft-in-berlin-ausnahmsweise-an-einem-sonntag-ihre-tueren-oeffnete](https://www.spiegel.de/ausland/iran-warum-mir-die-iranische-botschaft-in-berlin-ausnahmsweise-an-einem-sonntag-ihre-tueren-oeffnete-a-d62ad2bc-2c12-4cb3-8765-0ad64cf1382d#ref=rss)
-### iranische
+* [https://www.spiegel.de/panorama/johannes-mesus-wie-ein-ministrant-mit-trisomie-21-bei-beerdingungen-einsamer-menschen-dabei-ist](https://www.spiegel.de/panorama/johannes-mesus-wie-ein-ministrant-mit-trisomie-21-bei-beerdingungen-einsamer-menschen-dabei-ist-a-97c6d5a4-c156-4bac-be4f-8870c55e22a6#ref=rss)
+### nacktbilder
 
-* [https://www.spiegel.de/ausland/iran-warum-mir-die-iranische-botschaft-in-berlin-ausnahmsweise-an-einem-sonntag-ihre-tueren-oeffnete](https://www.spiegel.de/ausland/iran-warum-mir-die-iranische-botschaft-in-berlin-ausnahmsweise-an-einem-sonntag-ihre-tueren-oeffnete-a-d62ad2bc-2c12-4cb3-8765-0ad64cf1382d#ref=rss)
-### botschaft
+* [https://www.spiegel.de/panorama/justiz/digitale-gewalt-so-schuetzen-sie-sich-wenn-nacktbilder-von-ihnen-verbreitet-werden](https://www.spiegel.de/panorama/justiz/digitale-gewalt-so-schuetzen-sie-sich-wenn-nacktbilder-von-ihnen-verbreitet-werden-a-33291785-8c71-4ae2-b172-4bf2e18730dd#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/sexfotos-im-internet-wie-geklaute-nacktbilder-ein-ganzes-leben-zerstoeren](https://www.spiegel.de/netzwelt/web/sexfotos-im-internet-wie-geklaute-nacktbilder-ein-ganzes-leben-zerstoeren-a-3c63e545-024e-4a3d-8d65-f2850e7bcc8a#ref=rss)
+### nie
 
-* [https://www.spiegel.de/ausland/iran-warum-mir-die-iranische-botschaft-in-berlin-ausnahmsweise-an-einem-sonntag-ihre-tueren-oeffnete](https://www.spiegel.de/ausland/iran-warum-mir-die-iranische-botschaft-in-berlin-ausnahmsweise-an-einem-sonntag-ihre-tueren-oeffnete-a-d62ad2bc-2c12-4cb3-8765-0ad64cf1382d#ref=rss)
-### berlin
+* [https://www.spiegel.de/panorama/justiz/digitale-gewalt-so-schuetzen-sie-sich-wenn-nacktbilder-von-ihnen-verbreitet-werden](https://www.spiegel.de/panorama/justiz/digitale-gewalt-so-schuetzen-sie-sich-wenn-nacktbilder-von-ihnen-verbreitet-werden-a-33291785-8c71-4ae2-b172-4bf2e18730dd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-csu-weihnachten-und-die-bundestagswahl-2025-soeder-die-glocken-nie-klingen](https://www.spiegel.de/politik/deutschland/markus-soeder-csu-weihnachten-und-die-bundestagswahl-2025-soeder-die-glocken-nie-klingen-a-33abb982-c323-40fc-b3c5-0380be0da108#ref=rss)
+### netz
 
-* [https://www.spiegel.de/ausland/iran-warum-mir-die-iranische-botschaft-in-berlin-ausnahmsweise-an-einem-sonntag-ihre-tueren-oeffnete](https://www.spiegel.de/ausland/iran-warum-mir-die-iranische-botschaft-in-berlin-ausnahmsweise-an-einem-sonntag-ihre-tueren-oeffnete-a-d62ad2bc-2c12-4cb3-8765-0ad64cf1382d#ref=rss)
-### ausnahmsweise
+* [https://www.spiegel.de/panorama/justiz/digitale-gewalt-so-schuetzen-sie-sich-wenn-nacktbilder-von-ihnen-verbreitet-werden](https://www.spiegel.de/panorama/justiz/digitale-gewalt-so-schuetzen-sie-sich-wenn-nacktbilder-von-ihnen-verbreitet-werden-a-33291785-8c71-4ae2-b172-4bf2e18730dd#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/sexfotos-im-internet-wie-geklaute-nacktbilder-ein-ganzes-leben-zerstoeren](https://www.spiegel.de/netzwelt/web/sexfotos-im-internet-wie-geklaute-nacktbilder-ein-ganzes-leben-zerstoeren-a-3c63e545-024e-4a3d-8d65-f2850e7bcc8a#ref=rss)
+### joshua
 
-* [https://www.spiegel.de/ausland/iran-warum-mir-die-iranische-botschaft-in-berlin-ausnahmsweise-an-einem-sonntag-ihre-tueren-oeffnete](https://www.spiegel.de/ausland/iran-warum-mir-die-iranische-botschaft-in-berlin-ausnahmsweise-an-einem-sonntag-ihre-tueren-oeffnete-a-d62ad2bc-2c12-4cb3-8765-0ad64cf1382d#ref=rss)
-### türen
+* [https://www.spiegel.de/sport/fussball/dramatisches-em-aus-raubte-joshua-kimmich-den-schlaf](https://www.spiegel.de/sport/fussball/dramatisches-em-aus-raubte-joshua-kimmich-den-schlaf-a-52ab462e-69d0-4eb4-99d4-cd1b3a52fd9e#ref=rss)
+### kimmich
 
-* [https://www.spiegel.de/ausland/iran-warum-mir-die-iranische-botschaft-in-berlin-ausnahmsweise-an-einem-sonntag-ihre-tueren-oeffnete](https://www.spiegel.de/ausland/iran-warum-mir-die-iranische-botschaft-in-berlin-ausnahmsweise-an-einem-sonntag-ihre-tueren-oeffnete-a-d62ad2bc-2c12-4cb3-8765-0ad64cf1382d#ref=rss)
-### öffnete
+* [https://www.spiegel.de/sport/fussball/dramatisches-em-aus-raubte-joshua-kimmich-den-schlaf](https://www.spiegel.de/sport/fussball/dramatisches-em-aus-raubte-joshua-kimmich-den-schlaf-a-52ab462e-69d0-4eb4-99d4-cd1b3a52fd9e#ref=rss)
+### danach
 
-* [https://www.spiegel.de/ausland/iran-warum-mir-die-iranische-botschaft-in-berlin-ausnahmsweise-an-einem-sonntag-ihre-tueren-oeffnete](https://www.spiegel.de/ausland/iran-warum-mir-die-iranische-botschaft-in-berlin-ausnahmsweise-an-einem-sonntag-ihre-tueren-oeffnete-a-d62ad2bc-2c12-4cb3-8765-0ad64cf1382d#ref=rss)
-### ich
+* [https://www.spiegel.de/sport/fussball/dramatisches-em-aus-raubte-joshua-kimmich-den-schlaf](https://www.spiegel.de/sport/fussball/dramatisches-em-aus-raubte-joshua-kimmich-den-schlaf-a-52ab462e-69d0-4eb4-99d4-cd1b3a52fd9e#ref=rss)
+* [https://www.spiegel.de/ausland/ahmed-al-sharaa-zu-syrien-bis-zu-den-naechsten-wahlen-koennte-es-vier-jahre-dauern](https://www.spiegel.de/ausland/ahmed-al-sharaa-zu-syrien-bis-zu-den-naechsten-wahlen-koennte-es-vier-jahre-dauern-a-7a29bc72-f217-4236-8fd9-a91d87d7950f#ref=rss)
+### sexfotos
 
-* [https://www.spiegel.de/ausland/iran-warum-mir-die-iranische-botschaft-in-berlin-ausnahmsweise-an-einem-sonntag-ihre-tueren-oeffnete](https://www.spiegel.de/ausland/iran-warum-mir-die-iranische-botschaft-in-berlin-ausnahmsweise-an-einem-sonntag-ihre-tueren-oeffnete-a-d62ad2bc-2c12-4cb3-8765-0ad64cf1382d#ref=rss)
-### magnus
+* [https://www.spiegel.de/netzwelt/web/sexfotos-im-internet-wie-geklaute-nacktbilder-ein-ganzes-leben-zerstoeren](https://www.spiegel.de/netzwelt/web/sexfotos-im-internet-wie-geklaute-nacktbilder-ein-ganzes-leben-zerstoeren-a-3c63e545-024e-4a3d-8d65-f2850e7bcc8a#ref=rss)
+### unbekannte
 
-* [https://www.spiegel.de/sport/magnus-carlsen-jeansgate-erschuettert-die-schachwelt](https://www.spiegel.de/sport/magnus-carlsen-jeansgate-erschuettert-die-schachwelt-a-6d2ef492-8ecb-4394-ae0b-c3643cec0fce#ref=rss)
-### carlsen
+* [https://www.spiegel.de/netzwelt/web/sexfotos-im-internet-wie-geklaute-nacktbilder-ein-ganzes-leben-zerstoeren](https://www.spiegel.de/netzwelt/web/sexfotos-im-internet-wie-geklaute-nacktbilder-ein-ganzes-leben-zerstoeren-a-3c63e545-024e-4a3d-8d65-f2850e7bcc8a#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/waldheim-in-sachsen-unbekannte-substanz-in-supermarkt-freigesetzt-mehrere-menschen-verletzt](https://www.spiegel.de/panorama/justiz/waldheim-in-sachsen-unbekannte-substanz-in-supermarkt-freigesetzt-mehrere-menschen-verletzt-a-315cb906-449c-42dd-9d39-7b53dc0b7d37#ref=rss)
+### szene
 
-* [https://www.spiegel.de/sport/magnus-carlsen-jeansgate-erschuettert-die-schachwelt](https://www.spiegel.de/sport/magnus-carlsen-jeansgate-erschuettert-die-schachwelt-a-6d2ef492-8ecb-4394-ae0b-c3643cec0fce#ref=rss)
-### diesem
+* [https://www.spiegel.de/netzwelt/web/sexfotos-im-internet-wie-geklaute-nacktbilder-ein-ganzes-leben-zerstoeren](https://www.spiegel.de/netzwelt/web/sexfotos-im-internet-wie-geklaute-nacktbilder-ein-ganzes-leben-zerstoeren-a-3c63e545-024e-4a3d-8d65-f2850e7bcc8a#ref=rss)
+* [https://www.spiegel.de/panorama/leute/nosferatu-nicholas-hoult-hat-einen-vampir-penis-in-seiner-wohnung](https://www.spiegel.de/panorama/leute/nosferatu-nicholas-hoult-hat-einen-vampir-penis-in-seiner-wohnung-a-17da81f5-f82d-4970-86dc-76e8b49247eb#ref=rss)
+### elon
 
-* [https://www.spiegel.de/ausland/israel-benjamin-netanyahu-muss-sich-einer-prostataoperation-unterziehen](https://www.spiegel.de/ausland/israel-benjamin-netanyahu-muss-sich-einer-prostataoperation-unterziehen-a-e6b1c689-8bea-4cc4-ba96-0e9ce393d073#ref=rss)
-* [https://www.spiegel.de/panorama/leute/bonnie-tyler-will-noch-zehn-jahre-weitersingen-karriereende-nicht-in-sicht](https://www.spiegel.de/panorama/leute/bonnie-tyler-will-noch-zehn-jahre-weitersingen-karriereende-nicht-in-sicht-a-838e0aed-5783-460a-875b-63fa392a45c3#ref=rss)
-### narin
+* [https://www.spiegel.de/kultur/elon-musk-und-die-afd-warum-populisten-so-leicht-unsere-diskurse-kapern](https://www.spiegel.de/kultur/elon-musk-und-die-afd-warum-populisten-so-leicht-unsere-diskurse-kapern-a-a7c7fa02-76ce-4b23-803e-9d8eaeef1cc8#ref=rss)
+### musk
 
-* [https://www.spiegel.de/ausland/tuerkei-angehoerige-wegen-mordes-an-achtjaehriger-narin-gueran-verurteilt](https://www.spiegel.de/ausland/tuerkei-angehoerige-wegen-mordes-an-achtjaehriger-narin-gueran-verurteilt-a-7055b15b-08f1-4096-aefe-13baa1dbf925#ref=rss)
-### güran
+* [https://www.spiegel.de/kultur/elon-musk-und-die-afd-warum-populisten-so-leicht-unsere-diskurse-kapern](https://www.spiegel.de/kultur/elon-musk-und-die-afd-warum-populisten-so-leicht-unsere-diskurse-kapern-a-a7c7fa02-76ce-4b23-803e-9d8eaeef1cc8#ref=rss)
+### afd
 
-* [https://www.spiegel.de/ausland/tuerkei-angehoerige-wegen-mordes-an-achtjaehriger-narin-gueran-verurteilt](https://www.spiegel.de/ausland/tuerkei-angehoerige-wegen-mordes-an-achtjaehriger-narin-gueran-verurteilt-a-7055b15b-08f1-4096-aefe-13baa1dbf925#ref=rss)
-### georgien
+* [https://www.spiegel.de/kultur/elon-musk-und-die-afd-warum-populisten-so-leicht-unsere-diskurse-kapern](https://www.spiegel.de/kultur/elon-musk-und-die-afd-warum-populisten-so-leicht-unsere-diskurse-kapern-a-a7c7fa02-76ce-4b23-803e-9d8eaeef1cc8#ref=rss)
+### nicholas
 
-* [https://www.spiegel.de/ausland/regierungswechsel-in-georgien-staatschefin-will-sich-weigern-ihr-amt-aufzugeben](https://www.spiegel.de/ausland/regierungswechsel-in-georgien-staatschefin-will-sich-weigern-ihr-amt-aufzugeben-a-e5a31d7e-c285-4280-9265-c3452c4f02a6#ref=rss)
-### joe
+* [https://www.spiegel.de/panorama/leute/nosferatu-nicholas-hoult-hat-einen-vampir-penis-in-seiner-wohnung](https://www.spiegel.de/panorama/leute/nosferatu-nicholas-hoult-hat-einen-vampir-penis-in-seiner-wohnung-a-17da81f5-f82d-4970-86dc-76e8b49247eb#ref=rss)
+### hoult
 
-* [https://www.spiegel.de/ausland/joe-biden-glaubt-offenbar-er-haette-trump-geschlagen](https://www.spiegel.de/ausland/joe-biden-glaubt-offenbar-er-haette-trump-geschlagen-a-6ff85409-df3e-4e21-be76-c858164c25b5#ref=rss)
-### glaubt
+* [https://www.spiegel.de/panorama/leute/nosferatu-nicholas-hoult-hat-einen-vampir-penis-in-seiner-wohnung](https://www.spiegel.de/panorama/leute/nosferatu-nicholas-hoult-hat-einen-vampir-penis-in-seiner-wohnung-a-17da81f5-f82d-4970-86dc-76e8b49247eb#ref=rss)
+### ahmed
 
-* [https://www.spiegel.de/ausland/joe-biden-glaubt-offenbar-er-haette-trump-geschlagen](https://www.spiegel.de/ausland/joe-biden-glaubt-offenbar-er-haette-trump-geschlagen-a-6ff85409-df3e-4e21-be76-c858164c25b5#ref=rss)
-### kim
+* [https://www.spiegel.de/ausland/ahmed-al-sharaa-zu-syrien-bis-zu-den-naechsten-wahlen-koennte-es-vier-jahre-dauern](https://www.spiegel.de/ausland/ahmed-al-sharaa-zu-syrien-bis-zu-den-naechsten-wahlen-koennte-es-vier-jahre-dauern-a-7a29bc72-f217-4236-8fd9-a91d87d7950f#ref=rss)
+### syrien
 
-* [https://www.spiegel.de/ausland/nordkorea-die-neue-macht-des-kim-jong-un](https://www.spiegel.de/ausland/nordkorea-die-neue-macht-des-kim-jong-un-a-e4c293eb-8c4f-42c6-b284-6212d9d73b56#ref=rss)
-### diktator
+* [https://www.spiegel.de/ausland/ahmed-al-sharaa-zu-syrien-bis-zu-den-naechsten-wahlen-koennte-es-vier-jahre-dauern](https://www.spiegel.de/ausland/ahmed-al-sharaa-zu-syrien-bis-zu-den-naechsten-wahlen-koennte-es-vier-jahre-dauern-a-7a29bc72-f217-4236-8fd9-a91d87d7950f#ref=rss)
+### wahlen
 
-* [https://www.spiegel.de/ausland/nordkorea-die-neue-macht-des-kim-jong-un](https://www.spiegel.de/ausland/nordkorea-die-neue-macht-des-kim-jong-un-a-e4c293eb-8c4f-42c6-b284-6212d9d73b56#ref=rss)
-* [https://www.spiegel.de/ausland/venezuela-diktator-nicolas-maduro-wird-im-januar-erneut-als-praesident-vereidigt](https://www.spiegel.de/ausland/venezuela-diktator-nicolas-maduro-wird-im-januar-erneut-als-praesident-vereidigt-a-dc566e9a-2f83-42b7-bca4-c3406991bc4d#ref=rss)
-### nicolás
+* [https://www.spiegel.de/ausland/ahmed-al-sharaa-zu-syrien-bis-zu-den-naechsten-wahlen-koennte-es-vier-jahre-dauern](https://www.spiegel.de/ausland/ahmed-al-sharaa-zu-syrien-bis-zu-den-naechsten-wahlen-koennte-es-vier-jahre-dauern-a-7a29bc72-f217-4236-8fd9-a91d87d7950f#ref=rss)
+### jahre
 
-* [https://www.spiegel.de/ausland/venezuela-diktator-nicolas-maduro-wird-im-januar-erneut-als-praesident-vereidigt](https://www.spiegel.de/ausland/venezuela-diktator-nicolas-maduro-wird-im-januar-erneut-als-praesident-vereidigt-a-dc566e9a-2f83-42b7-bca4-c3406991bc4d#ref=rss)
-### maduro
+* [https://www.spiegel.de/ausland/ahmed-al-sharaa-zu-syrien-bis-zu-den-naechsten-wahlen-koennte-es-vier-jahre-dauern](https://www.spiegel.de/ausland/ahmed-al-sharaa-zu-syrien-bis-zu-den-naechsten-wahlen-koennte-es-vier-jahre-dauern-a-7a29bc72-f217-4236-8fd9-a91d87d7950f#ref=rss)
+### erst
 
-* [https://www.spiegel.de/ausland/venezuela-diktator-nicolas-maduro-wird-im-januar-erneut-als-praesident-vereidigt](https://www.spiegel.de/ausland/venezuela-diktator-nicolas-maduro-wird-im-januar-erneut-als-praesident-vereidigt-a-dc566e9a-2f83-42b7-bca4-c3406991bc4d#ref=rss)
-### bonnie
+* [https://www.spiegel.de/ausland/ahmed-al-sharaa-zu-syrien-bis-zu-den-naechsten-wahlen-koennte-es-vier-jahre-dauern](https://www.spiegel.de/ausland/ahmed-al-sharaa-zu-syrien-bis-zu-den-naechsten-wahlen-koennte-es-vier-jahre-dauern-a-7a29bc72-f217-4236-8fd9-a91d87d7950f#ref=rss)
+* [https://www.spiegel.de/panorama/leute/rebel-wilson-und-ramona-agruma-haben-zum-zweiten-mal-geheiratet](https://www.spiegel.de/panorama/leute/rebel-wilson-und-ramona-agruma-haben-zum-zweiten-mal-geheiratet-a-b8a4d62a-363f-4457-af88-eca1e7f990c9#ref=rss)
+### jindaoui
 
-* [https://www.spiegel.de/panorama/leute/bonnie-tyler-will-noch-zehn-jahre-weitersingen-karriereende-nicht-in-sicht](https://www.spiegel.de/panorama/leute/bonnie-tyler-will-noch-zehn-jahre-weitersingen-karriereende-nicht-in-sicht-a-838e0aed-5783-460a-875b-63fa392a45c3#ref=rss)
-### tyler
+* [https://www.spiegel.de/panorama/leute/nader-jindaoui-und-louisa-jindaoui-loesen-massenansturm-auf-waffelladen-in-berlin-aus](https://www.spiegel.de/panorama/leute/nader-jindaoui-und-louisa-jindaoui-loesen-massenansturm-auf-waffelladen-in-berlin-aus-a-daed4fbf-52a1-4afd-a33f-28d43bf53366#ref=rss)
+### wirtschaftsweise
 
-* [https://www.spiegel.de/panorama/leute/bonnie-tyler-will-noch-zehn-jahre-weitersingen-karriereende-nicht-in-sicht](https://www.spiegel.de/panorama/leute/bonnie-tyler-will-noch-zehn-jahre-weitersingen-karriereende-nicht-in-sicht-a-838e0aed-5783-460a-875b-63fa392a45c3#ref=rss)
-### qualifikation
+* [https://www.spiegel.de/wirtschaft/soziales/kita-krise-wirtschaftsweise-kritisiert-mangelnde-kinderbetreuung-in-deutschland](https://www.spiegel.de/wirtschaft/soziales/kita-krise-wirtschaftsweise-kritisiert-mangelnde-kinderbetreuung-in-deutschland-a-bebbd71d-7b22-48e2-a337-38fa488d261a#ref=rss)
+### kinderbetreuung
 
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-pius-paschke-ist-in-reichweite-oesterreichs-skispringer-dominieren-qualifikation-in-oberstdorf](https://www.spiegel.de/sport/wintersport/vierschanzentournee-pius-paschke-ist-in-reichweite-oesterreichs-skispringer-dominieren-qualifikation-in-oberstdorf-a-dd1e72da-7aa2-470b-91a5-f37e02e1d707#ref=rss)
-### grab
+* [https://www.spiegel.de/wirtschaft/soziales/kita-krise-wirtschaftsweise-kritisiert-mangelnde-kinderbetreuung-in-deutschland](https://www.spiegel.de/wirtschaft/soziales/kita-krise-wirtschaftsweise-kritisiert-mangelnde-kinderbetreuung-in-deutschland-a-bebbd71d-7b22-48e2-a337-38fa488d261a#ref=rss)
+### markus
 
-* [https://www.spiegel.de/panorama/justiz/tod-des-kindes-mutter-in-altkrautheim-kaempft-um-grab-ihres-sohnes](https://www.spiegel.de/panorama/justiz/tod-des-kindes-mutter-in-altkrautheim-kaempft-um-grab-ihres-sohnes-a-d6d9a162-2984-406d-aea9-8f6c85691f9c#ref=rss)
-### sohnes
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-csu-weihnachten-und-die-bundestagswahl-2025-soeder-die-glocken-nie-klingen](https://www.spiegel.de/politik/deutschland/markus-soeder-csu-weihnachten-und-die-bundestagswahl-2025-soeder-die-glocken-nie-klingen-a-33abb982-c323-40fc-b3c5-0380be0da108#ref=rss)
+### rebel
 
-* [https://www.spiegel.de/panorama/justiz/tod-des-kindes-mutter-in-altkrautheim-kaempft-um-grab-ihres-sohnes](https://www.spiegel.de/panorama/justiz/tod-des-kindes-mutter-in-altkrautheim-kaempft-um-grab-ihres-sohnes-a-d6d9a162-2984-406d-aea9-8f6c85691f9c#ref=rss)
+* [https://www.spiegel.de/panorama/leute/rebel-wilson-und-ramona-agruma-haben-zum-zweiten-mal-geheiratet](https://www.spiegel.de/panorama/leute/rebel-wilson-und-ramona-agruma-haben-zum-zweiten-mal-geheiratet-a-b8a4d62a-363f-4457-af88-eca1e7f990c9#ref=rss)
+### wilson
+
+* [https://www.spiegel.de/panorama/leute/rebel-wilson-und-ramona-agruma-haben-zum-zweiten-mal-geheiratet](https://www.spiegel.de/panorama/leute/rebel-wilson-und-ramona-agruma-haben-zum-zweiten-mal-geheiratet-a-b8a4d62a-363f-4457-af88-eca1e7f990c9#ref=rss)
+### ramona
+
+* [https://www.spiegel.de/panorama/leute/rebel-wilson-und-ramona-agruma-haben-zum-zweiten-mal-geheiratet](https://www.spiegel.de/panorama/leute/rebel-wilson-und-ramona-agruma-haben-zum-zweiten-mal-geheiratet-a-b8a4d62a-363f-4457-af88-eca1e7f990c9#ref=rss)
+### agruma
+
+* [https://www.spiegel.de/panorama/leute/rebel-wilson-und-ramona-agruma-haben-zum-zweiten-mal-geheiratet](https://www.spiegel.de/panorama/leute/rebel-wilson-und-ramona-agruma-haben-zum-zweiten-mal-geheiratet-a-b8a4d62a-363f-4457-af88-eca1e7f990c9#ref=rss)
+### regen
+
+* [https://www.spiegel.de/sport/olympia-2024-in-paris-wie-die-spiegel-reporter-mit-gianni-infantino-im-regen-ausharrten](https://www.spiegel.de/sport/olympia-2024-in-paris-wie-die-spiegel-reporter-mit-gianni-infantino-im-regen-ausharrten-a-9d57a22f-8ef6-4219-8376-88cb06cc390f#ref=rss)
+### vogelschlag
+
+* [https://www.spiegel.de/wissenschaft/vogelschlag-kann-ein-fahrwerk-schwer-beschaedigen](https://www.spiegel.de/wissenschaft/vogelschlag-kann-ein-fahrwerk-schwer-beschaedigen-a-5ea12f93-0d65-4d4d-ad4a-34ad0dfc714e#ref=rss)
+### flugzeugunglück
+
+* [https://www.spiegel.de/wissenschaft/vogelschlag-kann-ein-fahrwerk-schwer-beschaedigen](https://www.spiegel.de/wissenschaft/vogelschlag-kann-ein-fahrwerk-schwer-beschaedigen-a-5ea12f93-0d65-4d4d-ad4a-34ad0dfc714e#ref=rss)
+* [https://www.spiegel.de/ausland/suedkorea-was-ueber-das-flugzeugunglueck-bekannt-ist](https://www.spiegel.de/ausland/suedkorea-was-ueber-das-flugzeugunglueck-bekannt-ist-a-c60dfe53-db61-409b-ba41-17603b7ad3ec#ref=rss)
+### südkorea
+
+* [https://www.spiegel.de/wissenschaft/vogelschlag-kann-ein-fahrwerk-schwer-beschaedigen](https://www.spiegel.de/wissenschaft/vogelschlag-kann-ein-fahrwerk-schwer-beschaedigen-a-5ea12f93-0d65-4d4d-ad4a-34ad0dfc714e#ref=rss)
+* [https://www.spiegel.de/ausland/suedkorea-was-ueber-das-flugzeugunglueck-bekannt-ist](https://www.spiegel.de/ausland/suedkorea-was-ueber-das-flugzeugunglueck-bekannt-ist-a-c60dfe53-db61-409b-ba41-17603b7ad3ec#ref=rss)
+### waldheim
+
+* [https://www.spiegel.de/panorama/justiz/waldheim-in-sachsen-unbekannte-substanz-in-supermarkt-freigesetzt-mehrere-menschen-verletzt](https://www.spiegel.de/panorama/justiz/waldheim-in-sachsen-unbekannte-substanz-in-supermarkt-freigesetzt-mehrere-menschen-verletzt-a-315cb906-449c-42dd-9d39-7b53dc0b7d37#ref=rss)
+### substanz
+
+* [https://www.spiegel.de/panorama/justiz/waldheim-in-sachsen-unbekannte-substanz-in-supermarkt-freigesetzt-mehrere-menschen-verletzt](https://www.spiegel.de/panorama/justiz/waldheim-in-sachsen-unbekannte-substanz-in-supermarkt-freigesetzt-mehrere-menschen-verletzt-a-315cb906-449c-42dd-9d39-7b53dc0b7d37#ref=rss)
+### supermarkt
+
+* [https://www.spiegel.de/panorama/justiz/waldheim-in-sachsen-unbekannte-substanz-in-supermarkt-freigesetzt-mehrere-menschen-verletzt](https://www.spiegel.de/panorama/justiz/waldheim-in-sachsen-unbekannte-substanz-in-supermarkt-freigesetzt-mehrere-menschen-verletzt-a-315cb906-449c-42dd-9d39-7b53dc0b7d37#ref=rss)
 
