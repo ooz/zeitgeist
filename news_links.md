@@ -4,90 +4,310 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### 2024
-
-* [https://www.spiegel.de/sport/alpinismus-wettlauf-in-der-todeszone](https://www.spiegel.de/sport/alpinismus-wettlauf-in-der-todeszone-a-4841b44c-56ea-420a-a0e8-6cdd91db3b8d#ref=rss)
-* [https://www.spiegel.de/panorama/silvester-2024-eisbaden-traditionelle-taenze-und-kalligrafie](https://www.spiegel.de/panorama/silvester-2024-eisbaden-traditionelle-taenze-und-kalligrafie-a-92f9b82c-6c4d-4c17-aad7-42a656d69282#ref=rss)
-* [https://www.spiegel.de/politik/best-of-spitzengespraech-2024-es-lohnt-sich-zu-leben-es-lohnt-sich-zu-kaempfen](https://www.spiegel.de/politik/best-of-spitzengespraech-2024-es-lohnt-sich-zu-leben-es-lohnt-sich-zu-kaempfen-a-22ddefd8-c582-4517-9451-ad1ebf57ff1f#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-2024-oesterreicher-dominieren-qualifikation-in-garmisch-pius-paschke-neunter](https://www.spiegel.de/sport/wintersport/vierschanzentournee-2024-oesterreicher-dominieren-qualifikation-in-garmisch-pius-paschke-neunter-a-6e0f323b-f2b5-4961-b647-29fe88d261d7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/immobilien-wird-2025-ein-gutes-jahr-fuer-den-hauskauf](https://www.spiegel.de/wirtschaft/service/immobilien-wird-2025-ein-gutes-jahr-fuer-den-hauskauf-a-5cbc93ae-4990-49be-b28e-1290fa5104f9#ref=rss)
-* [https://www.spiegel.de/karriere/landwirtschaft-blauzungenkrankheit-butterpreis-proteste-was-landwirte-fuer-2025-fordern](https://www.spiegel.de/karriere/landwirtschaft-blauzungenkrankheit-butterpreis-proteste-was-landwirte-fuer-2025-fordern-a-dfd62dde-3170-4b7c-a3dd-acec44a315ea#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/silvester-2024-auf-kiritimati-hat-das-neue-jahr-schon-begonnen](https://www.spiegel.de/panorama/gesellschaft/silvester-2024-auf-kiritimati-hat-das-neue-jahr-schon-begonnen-a-b86fd1f0-0fca-48ca-afdf-296a0293596d#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/sport/alpinismus-wettlauf-in-der-todeszone](https://www.spiegel.de/sport/alpinismus-wettlauf-in-der-todeszone-a-4841b44c-56ea-420a-a0e8-6cdd91db3b8d#ref=rss)
-* [https://www.spiegel.de/politik/best-of-spitzengespraech-2024-es-lohnt-sich-zu-leben-es-lohnt-sich-zu-kaempfen](https://www.spiegel.de/politik/best-of-spitzengespraech-2024-es-lohnt-sich-zu-leben-es-lohnt-sich-zu-kaempfen-a-22ddefd8-c582-4517-9451-ad1ebf57ff1f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/immobilien-wird-2025-ein-gutes-jahr-fuer-den-hauskauf](https://www.spiegel.de/wirtschaft/service/immobilien-wird-2025-ein-gutes-jahr-fuer-den-hauskauf-a-5cbc93ae-4990-49be-b28e-1290fa5104f9#ref=rss)
-* [https://www.spiegel.de/karriere/landwirtschaft-blauzungenkrankheit-butterpreis-proteste-was-landwirte-fuer-2025-fordern](https://www.spiegel.de/karriere/landwirtschaft-blauzungenkrankheit-butterpreis-proteste-was-landwirte-fuer-2025-fordern-a-dfd62dde-3170-4b7c-a3dd-acec44a315ea#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/silvester-2024-auf-kiritimati-hat-das-neue-jahr-schon-begonnen](https://www.spiegel.de/panorama/gesellschaft/silvester-2024-auf-kiritimati-hat-das-neue-jahr-schon-begonnen-a-b86fd1f0-0fca-48ca-afdf-296a0293596d#ref=rss)
-### silvester
-
-* [https://www.spiegel.de/panorama/gesellschaft/silvester-warum-menschen-das-boellern-an-silvester-so-fasziniert](https://www.spiegel.de/panorama/gesellschaft/silvester-warum-menschen-das-boellern-an-silvester-so-fasziniert-a-e0e2b3e6-617d-4615-ba0f-a9b3b69e8d0c#ref=rss)
-* [https://www.spiegel.de/panorama/silvester-2024-eisbaden-traditionelle-taenze-und-kalligrafie](https://www.spiegel.de/panorama/silvester-2024-eisbaden-traditionelle-taenze-und-kalligrafie-a-92f9b82c-6c4d-4c17-aad7-42a656d69282#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-2024-oesterreicher-dominieren-qualifikation-in-garmisch-pius-paschke-neunter](https://www.spiegel.de/sport/wintersport/vierschanzentournee-2024-oesterreicher-dominieren-qualifikation-in-garmisch-pius-paschke-neunter-a-6e0f323b-f2b5-4961-b647-29fe88d261d7#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/silvester-sturmwarnung-in-teilen-deutschlands-wetterdienst-warnt-vor-raketen](https://www.spiegel.de/panorama/gesellschaft/silvester-sturmwarnung-in-teilen-deutschlands-wetterdienst-warnt-vor-raketen-a-0ed379d7-ffed-4853-8850-01d61db72929#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/silvester-2024-auf-kiritimati-hat-das-neue-jahr-schon-begonnen](https://www.spiegel.de/panorama/gesellschaft/silvester-2024-auf-kiritimati-hat-das-neue-jahr-schon-begonnen-a-b86fd1f0-0fca-48ca-afdf-296a0293596d#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/panorama/gesellschaft/silvester-warum-menschen-das-boellern-an-silvester-so-fasziniert](https://www.spiegel.de/panorama/gesellschaft/silvester-warum-menschen-das-boellern-an-silvester-so-fasziniert-a-e0e2b3e6-617d-4615-ba0f-a9b3b69e8d0c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mann-verletzt-mehrere-menschen-in-charlottenburg](https://www.spiegel.de/panorama/justiz/mann-verletzt-mehrere-menschen-in-charlottenburg-a-e0445a81-b809-491d-bc69-5539e6f942e2#ref=rss)
-* [https://www.spiegel.de/panorama/silvester-2024-eisbaden-traditionelle-taenze-und-kalligrafie](https://www.spiegel.de/panorama/silvester-2024-eisbaden-traditionelle-taenze-und-kalligrafie-a-92f9b82c-6c4d-4c17-aad7-42a656d69282#ref=rss)
-* [https://www.spiegel.de/ausland/thailand-elefantenpopulation-waechst-regierung-plant-verhuetungsspritze](https://www.spiegel.de/ausland/thailand-elefantenpopulation-waechst-regierung-plant-verhuetungsspritze-a-76aa4c82-bf09-4312-929f-94bd84a171a8#ref=rss)
-### afd
+* [https://www.spiegel.de/ausland/serbien-tausende-bei-schweigeprotesten-gegen-staatsfuehrung](https://www.spiegel.de/ausland/serbien-tausende-bei-schweigeprotesten-gegen-staatsfuehrung-a-91de343d-87bd-43c3-b9b6-f906f8b9c756#ref=rss)
+* [https://www.spiegel.de/wirtschaft/vermoegen-menschen-in-deutschland-offenbar-so-reich-wie-nie](https://www.spiegel.de/wirtschaft/vermoegen-menschen-in-deutschland-offenbar-so-reich-wie-nie-a-6eccb771-6635-4035-9118-4f739ab57865#ref=rss)
+* [https://www.spiegel.de/panorama/rimini-polizist-erschiesst-messerangreifer-mehrere-verletzte](https://www.spiegel.de/panorama/rimini-polizist-erschiesst-messerangreifer-mehrere-verletzte-a-9243b139-4cec-4c45-9bcb-bdfa96ef7124#ref=rss)
+* [https://www.spiegel.de/panorama/erste-bilanz-der-silvesternacht-mindestens-fuenf-menschen-sterben-durch-feuerwerkskoerper](https://www.spiegel.de/panorama/erste-bilanz-der-silvesternacht-mindestens-fuenf-menschen-sterben-durch-feuerwerkskoerper-a-6aaa0b49-29c8-482c-bca3-9e43d568c726#ref=rss)
+* [https://www.spiegel.de/panorama/lampedusa-20-vermisste-nach-schiffsunglueck](https://www.spiegel.de/panorama/lampedusa-20-vermisste-nach-schiffsunglueck-a-e68fe893-6abb-4a37-841d-a75b0837298f#ref=rss)
+* [https://www.spiegel.de/ausland/bangladesch-tausende-fordern-in-bangladesch-prozess-fuer-gestuerzte-premierministerin-sheikh-hasina](https://www.spiegel.de/ausland/bangladesch-tausende-fordern-in-bangladesch-prozess-fuer-gestuerzte-premierministerin-sheikh-hasina-a-2a0b0798-8018-4c1b-91d8-2823d68dce6e#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/politik/deutschland/weidels-team-nach-eigenen-angaben-in-regelmaessigem-kontakt-mit-musk-umfeld](https://www.spiegel.de/politik/deutschland/weidels-team-nach-eigenen-angaben-in-regelmaessigem-kontakt-mit-musk-umfeld-a-cde79574-0100-4877-8833-9ca7538f8b1f#ref=rss)
-* [https://www.spiegel.de/kultur/musik/alphaville-will-afd-die-nutzung-von-forever-young-verbieten](https://www.spiegel.de/kultur/musik/alphaville-will-afd-die-nutzung-von-forever-young-verbieten-a-df62e5d1-e740-44d8-8916-20447b7ff1ea#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/elon-musk-politikberater-nennt-ihn-wertvollsten-wahlkampfhelfer-fuer-die-afd](https://www.spiegel.de/politik/deutschland/elon-musk-politikberater-nennt-ihn-wertvollsten-wahlkampfhelfer-fuer-die-afd-a-a32a7541-95ac-4927-9521-08ad32dfc763#ref=rss)
-### elon
+* [https://www.spiegel.de/wirtschaft/vermoegen-menschen-in-deutschland-offenbar-so-reich-wie-nie](https://www.spiegel.de/wirtschaft/vermoegen-menschen-in-deutschland-offenbar-so-reich-wie-nie-a-6eccb771-6635-4035-9118-4f739ab57865#ref=rss)
+* [https://www.spiegel.de/panorama/erste-bilanz-der-silvesternacht-mindestens-fuenf-menschen-sterben-durch-feuerwerkskoerper](https://www.spiegel.de/panorama/erste-bilanz-der-silvesternacht-mindestens-fuenf-menschen-sterben-durch-feuerwerkskoerper-a-6aaa0b49-29c8-482c-bca3-9e43d568c726#ref=rss)
+* [https://www.spiegel.de/sport/handball-leichtathletik-tennis-das-sind-die-sporthighlights-2025](https://www.spiegel.de/sport/handball-leichtathletik-tennis-das-sind-die-sporthighlights-2025-a-9178c176-cda3-4305-981d-4d47d2ca346d#ref=rss)
+* [https://www.spiegel.de/ausland/georgien-einreisesperren-gegen-vertreter-georgiens-wegen-gewalt-gegen-protestierende](https://www.spiegel.de/ausland/georgien-einreisesperren-gegen-vertreter-georgiens-wegen-gewalt-gegen-protestierende-a-d5c0c544-fe85-4f77-af62-ac2d050d86b6#ref=rss)
+* [https://www.spiegel.de/panorama/koenig-frederik-x-von-daenemark-meistert-erste-neujahrsansprache](https://www.spiegel.de/panorama/koenig-frederik-x-von-daenemark-meistert-erste-neujahrsansprache-a-ed794183-20e5-42d7-af36-7d25fcaccb16#ref=rss)
+### jahr
 
-* [https://www.spiegel.de/politik/deutschland/weidels-team-nach-eigenen-angaben-in-regelmaessigem-kontakt-mit-musk-umfeld](https://www.spiegel.de/politik/deutschland/weidels-team-nach-eigenen-angaben-in-regelmaessigem-kontakt-mit-musk-umfeld-a-cde79574-0100-4877-8833-9ca7538f8b1f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/elon-musk-beschimpft-jetzt-auch-bundespraesident-frank-walter-steinmeier](https://www.spiegel.de/politik/deutschland/elon-musk-beschimpft-jetzt-auch-bundespraesident-frank-walter-steinmeier-a-6b7bd315-d4b9-4055-a5f4-4a284f7c2311#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/elon-musk-politikberater-nennt-ihn-wertvollsten-wahlkampfhelfer-fuer-die-afd](https://www.spiegel.de/politik/deutschland/elon-musk-politikberater-nennt-ihn-wertvollsten-wahlkampfhelfer-fuer-die-afd-a-a32a7541-95ac-4927-9521-08ad32dfc763#ref=rss)
-### musk
+* [https://www.spiegel.de/wirtschaft/service/geldanlage-vier-dinge-auf-die-anleger-in-diesem-jahr-achten-muessen](https://www.spiegel.de/wirtschaft/service/geldanlage-vier-dinge-auf-die-anleger-in-diesem-jahr-achten-muessen-a-0097b4b7-186b-4344-948c-4e53b542c37a#ref=rss)
+* [https://www.spiegel.de/psychologie/neujahrsvorsaetze-ziele-finden-und-wirklich-umsetzen-podcast](https://www.spiegel.de/psychologie/neujahrsvorsaetze-ziele-finden-und-wirklich-umsetzen-podcast-a-73efda00-fb41-41a2-9573-b04c54180e22#ref=rss)
+* [https://www.spiegel.de/sport/handball-leichtathletik-tennis-das-sind-die-sporthighlights-2025](https://www.spiegel.de/sport/handball-leichtathletik-tennis-das-sind-die-sporthighlights-2025-a-9178c176-cda3-4305-981d-4d47d2ca346d#ref=rss)
+* [https://www.spiegel.de/sport/alpinismus-wettlauf-in-der-todeszone](https://www.spiegel.de/sport/alpinismus-wettlauf-in-der-todeszone-a-4841b44c-56ea-420a-a0e8-6cdd91db3b8d#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/politik/deutschland/weidels-team-nach-eigenen-angaben-in-regelmaessigem-kontakt-mit-musk-umfeld](https://www.spiegel.de/politik/deutschland/weidels-team-nach-eigenen-angaben-in-regelmaessigem-kontakt-mit-musk-umfeld-a-cde79574-0100-4877-8833-9ca7538f8b1f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/elon-musk-beschimpft-jetzt-auch-bundespraesident-frank-walter-steinmeier](https://www.spiegel.de/politik/deutschland/elon-musk-beschimpft-jetzt-auch-bundespraesident-frank-walter-steinmeier-a-6b7bd315-d4b9-4055-a5f4-4a284f7c2311#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/elon-musk-politikberater-nennt-ihn-wertvollsten-wahlkampfhelfer-fuer-die-afd](https://www.spiegel.de/politik/deutschland/elon-musk-politikberater-nennt-ihn-wertvollsten-wahlkampfhelfer-fuer-die-afd-a-a32a7541-95ac-4927-9521-08ad32dfc763#ref=rss)
+* [https://www.spiegel.de/ausland/ungarn-verliert-wegen-fehlender-reformen-anspruch-auf-eu-milliardenhilfe](https://www.spiegel.de/ausland/ungarn-verliert-wegen-fehlender-reformen-anspruch-auf-eu-milliardenhilfe-a-38e0bbcf-ea07-4dcc-8352-749f61e55940#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/prime-video-dazn-wow-und-co-wie-kuendige-ich-streamingdienste-moeglichst-stressfrei](https://www.spiegel.de/netzwelt/apps/prime-video-dazn-wow-und-co-wie-kuendige-ich-streamingdienste-moeglichst-stressfrei-a-f25b6ac3-a8d4-435e-967c-c18d3619960d#ref=rss)
+* [https://www.spiegel.de/ausland/russlands-krieg-in-der-ukraine-durch-die-ukraine-fliesst-jetzt-kein-russisches-gas-mehr](https://www.spiegel.de/ausland/russlands-krieg-in-der-ukraine-durch-die-ukraine-fliesst-jetzt-kein-russisches-gas-mehr-a-74497c96-e305-42ad-b03d-faeadd125abb#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/panorama/justiz/bonn-jugendliche-schiessen-mit-feuerwerksrakete-auf-obdachlosen](https://www.spiegel.de/panorama/justiz/bonn-jugendliche-schiessen-mit-feuerwerksrakete-auf-obdachlosen-a-d7a9042a-cd33-4935-905f-93cfdcb64960#ref=rss)
+* [https://www.spiegel.de/wirtschaft/vermoegen-menschen-in-deutschland-offenbar-so-reich-wie-nie](https://www.spiegel.de/wirtschaft/vermoegen-menschen-in-deutschland-offenbar-so-reich-wie-nie-a-6eccb771-6635-4035-9118-4f739ab57865#ref=rss)
+### silvesterabend
+
+* [https://www.spiegel.de/panorama/justiz/osdorf-im-kreis-rendsburg-eckernfoerde-betrunkener-rammt-fussgaengergruppe-80-jaehriger-in-lebensgefahr](https://www.spiegel.de/panorama/justiz/osdorf-im-kreis-rendsburg-eckernfoerde-betrunkener-rammt-fussgaengergruppe-80-jaehriger-in-lebensgefahr-a-d4cb438c-fc8a-4520-b910-b2b4fa36cefb#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-mehrere-bezirke-in-berlin-ohne-wasserversorgung](https://www.spiegel.de/panorama/berlin-mehrere-bezirke-in-berlin-ohne-wasserversorgung-a-9ca6de38-5054-4e57-8822-9cff85a685a2#ref=rss)
+* [https://www.spiegel.de/panorama/koenig-frederik-x-von-daenemark-meistert-erste-neujahrsansprache](https://www.spiegel.de/panorama/koenig-frederik-x-von-daenemark-meistert-erste-neujahrsansprache-a-ed794183-20e5-42d7-af36-7d25fcaccb16#ref=rss)
+### teilen
+
+* [https://www.spiegel.de/sport/blitzschach-wm-magnus-carlsen-und-jan-nepomnjaschtschi-teilen-sich-titel](https://www.spiegel.de/sport/blitzschach-wm-magnus-carlsen-und-jan-nepomnjaschtschi-teilen-sich-titel-a-4cf8a6ad-cb5c-4a27-a3fd-2c8a372bcf65#ref=rss)
+* [https://www.spiegel.de/ausland/georgien-einreisesperren-gegen-vertreter-georgiens-wegen-gewalt-gegen-protestierende](https://www.spiegel.de/ausland/georgien-einreisesperren-gegen-vertreter-georgiens-wegen-gewalt-gegen-protestierende-a-d5c0c544-fe85-4f77-af62-ac2d050d86b6#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-mehrere-bezirke-in-berlin-ohne-wasserversorgung](https://www.spiegel.de/panorama/berlin-mehrere-bezirke-in-berlin-ohne-wasserversorgung-a-9ca6de38-5054-4e57-8822-9cff85a685a2#ref=rss)
+### viele
+
+* [https://www.spiegel.de/ausland/serbien-tausende-bei-schweigeprotesten-gegen-staatsfuehrung](https://www.spiegel.de/ausland/serbien-tausende-bei-schweigeprotesten-gegen-staatsfuehrung-a-91de343d-87bd-43c3-b9b6-f906f8b9c756#ref=rss)
+* [https://www.spiegel.de/psychologie/neujahrsvorsaetze-ziele-finden-und-wirklich-umsetzen-podcast](https://www.spiegel.de/psychologie/neujahrsvorsaetze-ziele-finden-und-wirklich-umsetzen-podcast-a-73efda00-fb41-41a2-9573-b04c54180e22#ref=rss)
+* [https://www.spiegel.de/gesundheit/verkatert-an-neujahr-schnelle-hilfe-wie-wir-heute-den-hangover-besiegen](https://www.spiegel.de/gesundheit/verkatert-an-neujahr-schnelle-hilfe-wie-wir-heute-den-hangover-besiegen-a-eaa89404-b833-4ea5-8b11-7aa255fac045#ref=rss)
+### silvester
+
+* [https://www.spiegel.de/ausland/serbien-tausende-bei-schweigeprotesten-gegen-staatsfuehrung](https://www.spiegel.de/ausland/serbien-tausende-bei-schweigeprotesten-gegen-staatsfuehrung-a-91de343d-87bd-43c3-b9b6-f906f8b9c756#ref=rss)
+* [https://www.spiegel.de/panorama/silvester-so-feiert-die-welt-den-jahreswechsel-die-bilder](https://www.spiegel.de/panorama/silvester-so-feiert-die-welt-den-jahreswechsel-die-bilder-a-c1ede106-bed8-4059-ab52-83a98c205642#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-mehrere-bezirke-in-berlin-ohne-wasserversorgung](https://www.spiegel.de/panorama/berlin-mehrere-bezirke-in-berlin-ohne-wasserversorgung-a-9ca6de38-5054-4e57-8822-9cff85a685a2#ref=rss)
+### deshalb
+
+* [https://www.spiegel.de/ausland/serbien-tausende-bei-schweigeprotesten-gegen-staatsfuehrung](https://www.spiegel.de/ausland/serbien-tausende-bei-schweigeprotesten-gegen-staatsfuehrung-a-91de343d-87bd-43c3-b9b6-f906f8b9c756#ref=rss)
+* [https://www.spiegel.de/ausland/russlands-krieg-in-der-ukraine-durch-die-ukraine-fliesst-jetzt-kein-russisches-gas-mehr](https://www.spiegel.de/ausland/russlands-krieg-in-der-ukraine-durch-die-ukraine-fliesst-jetzt-kein-russisches-gas-mehr-a-74497c96-e305-42ad-b03d-faeadd125abb#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/geschichte/pearl-harbour-veteran-harry-chandler-mit-103-jahren-gestorben](https://www.spiegel.de/geschichte/pearl-harbour-veteran-harry-chandler-mit-103-jahren-gestorben-a-5076fcae-7af8-4adb-accd-a04244200b1c#ref=rss)
+* [https://www.spiegel.de/kultur/watergate-in-berlin-ein-abschied-nichts-glitzert-so-feierlich-wie-drogenschweiss](https://www.spiegel.de/kultur/watergate-in-berlin-ein-abschied-nichts-glitzert-so-feierlich-wie-drogenschweiss-a-47887f00-f793-460c-8d2b-7d51d9a5eeab#ref=rss)
+### gestorben
+
+* [https://www.spiegel.de/geschichte/pearl-harbour-veteran-harry-chandler-mit-103-jahren-gestorben](https://www.spiegel.de/geschichte/pearl-harbour-veteran-harry-chandler-mit-103-jahren-gestorben-a-5076fcae-7af8-4adb-accd-a04244200b1c#ref=rss)
+* [https://www.spiegel.de/panorama/erste-bilanz-der-silvesternacht-mindestens-fuenf-menschen-sterben-durch-feuerwerkskoerper](https://www.spiegel.de/panorama/erste-bilanz-der-silvesternacht-mindestens-fuenf-menschen-sterben-durch-feuerwerkskoerper-a-6aaa0b49-29c8-482c-bca3-9e43d568c726#ref=rss)
+### wasser
+
+* [https://www.spiegel.de/geschichte/pearl-harbour-veteran-harry-chandler-mit-103-jahren-gestorben](https://www.spiegel.de/geschichte/pearl-harbour-veteran-harry-chandler-mit-103-jahren-gestorben-a-5076fcae-7af8-4adb-accd-a04244200b1c#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-mehrere-bezirke-in-berlin-ohne-wasserversorgung](https://www.spiegel.de/panorama/berlin-mehrere-bezirke-in-berlin-ohne-wasserversorgung-a-9ca6de38-5054-4e57-8822-9cff85a685a2#ref=rss)
+### mehrere
+
+* [https://www.spiegel.de/panorama/rimini-polizist-erschiesst-messerangreifer-mehrere-verletzte](https://www.spiegel.de/panorama/rimini-polizist-erschiesst-messerangreifer-mehrere-verletzte-a-9243b139-4cec-4c45-9bcb-bdfa96ef7124#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-mehrere-bezirke-in-berlin-ohne-wasserversorgung](https://www.spiegel.de/panorama/berlin-mehrere-bezirke-in-berlin-ohne-wasserversorgung-a-9ca6de38-5054-4e57-8822-9cff85a685a2#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/russlands-krieg-in-der-ukraine-durch-die-ukraine-fliesst-jetzt-kein-russisches-gas-mehr](https://www.spiegel.de/ausland/russlands-krieg-in-der-ukraine-durch-die-ukraine-fliesst-jetzt-kein-russisches-gas-mehr-a-74497c96-e305-42ad-b03d-faeadd125abb#ref=rss)
+### finden
+
+* [https://www.spiegel.de/psychologie/neujahrsvorsaetze-ziele-finden-und-wirklich-umsetzen-podcast](https://www.spiegel.de/psychologie/neujahrsvorsaetze-ziele-finden-und-wirklich-umsetzen-podcast-a-73efda00-fb41-41a2-9573-b04c54180e22#ref=rss)
+* [https://www.spiegel.de/sport/handball-leichtathletik-tennis-das-sind-die-sporthighlights-2025](https://www.spiegel.de/sport/handball-leichtathletik-tennis-das-sind-die-sporthighlights-2025-a-9178c176-cda3-4305-981d-4d47d2ca346d#ref=rss)
+* [https://www.spiegel.de/panorama/lampedusa-20-vermisste-nach-schiffsunglueck](https://www.spiegel.de/panorama/lampedusa-20-vermisste-nach-schiffsunglueck-a-e68fe893-6abb-4a37-841d-a75b0837298f#ref=rss)
+### wir
+
+* [https://www.spiegel.de/psychologie/neujahrsvorsaetze-ziele-finden-und-wirklich-umsetzen-podcast](https://www.spiegel.de/psychologie/neujahrsvorsaetze-ziele-finden-und-wirklich-umsetzen-podcast-a-73efda00-fb41-41a2-9573-b04c54180e22#ref=rss)
+* [https://www.spiegel.de/gesundheit/verkatert-an-neujahr-schnelle-hilfe-wie-wir-heute-den-hangover-besiegen](https://www.spiegel.de/gesundheit/verkatert-an-neujahr-schnelle-hilfe-wie-wir-heute-den-hangover-besiegen-a-eaa89404-b833-4ea5-8b11-7aa255fac045#ref=rss)
+### silvesternacht
+
+* [https://www.spiegel.de/panorama/erste-bilanz-der-silvesternacht-mindestens-fuenf-menschen-sterben-durch-feuerwerkskoerper](https://www.spiegel.de/panorama/erste-bilanz-der-silvesternacht-mindestens-fuenf-menschen-sterben-durch-feuerwerkskoerper-a-6aaa0b49-29c8-482c-bca3-9e43d568c726#ref=rss)
+* [https://www.spiegel.de/gesundheit/verkatert-an-neujahr-schnelle-hilfe-wie-wir-heute-den-hangover-besiegen](https://www.spiegel.de/gesundheit/verkatert-an-neujahr-schnelle-hilfe-wie-wir-heute-den-hangover-besiegen-a-eaa89404-b833-4ea5-8b11-7aa255fac045#ref=rss)
+### sieben
+
+* [https://www.spiegel.de/fitness/fitness-krafttraining-fuer-alle-sieben-uebungen-fuer-starke-muskeln](https://www.spiegel.de/fitness/fitness-krafttraining-fuer-alle-sieben-uebungen-fuer-starke-muskeln-a-4fda3c9b-1d2b-4a06-a972-9eb514c7e08e#ref=rss)
+* [https://www.spiegel.de/panorama/lampedusa-20-vermisste-nach-schiffsunglueck](https://www.spiegel.de/panorama/lampedusa-20-vermisste-nach-schiffsunglueck-a-e68fe893-6abb-4a37-841d-a75b0837298f#ref=rss)
+### ohne
+
+* [https://www.spiegel.de/panorama/berlin-mehrere-bezirke-in-berlin-ohne-wasserversorgung](https://www.spiegel.de/panorama/berlin-mehrere-bezirke-in-berlin-ohne-wasserversorgung-a-9ca6de38-5054-4e57-8822-9cff85a685a2#ref=rss)
+* [https://www.spiegel.de/ausland/puerto-rico-tage-ohne-strom-karibikinsel-kaempft-mit-defekter-leitung](https://www.spiegel.de/ausland/puerto-rico-tage-ohne-strom-karibikinsel-kaempft-mit-defekter-leitung-a-54861c74-d7d9-4bbd-8ac8-6294ad092e63#ref=rss)
+### bonn
+
+* [https://www.spiegel.de/panorama/justiz/bonn-jugendliche-schiessen-mit-feuerwerksrakete-auf-obdachlosen](https://www.spiegel.de/panorama/justiz/bonn-jugendliche-schiessen-mit-feuerwerksrakete-auf-obdachlosen-a-d7a9042a-cd33-4935-905f-93cfdcb64960#ref=rss)
+### jugendliche
+
+* [https://www.spiegel.de/panorama/justiz/bonn-jugendliche-schiessen-mit-feuerwerksrakete-auf-obdachlosen](https://www.spiegel.de/panorama/justiz/bonn-jugendliche-schiessen-mit-feuerwerksrakete-auf-obdachlosen-a-d7a9042a-cd33-4935-905f-93cfdcb64960#ref=rss)
+### obdachlosen
+
+* [https://www.spiegel.de/panorama/justiz/bonn-jugendliche-schiessen-mit-feuerwerksrakete-auf-obdachlosen](https://www.spiegel.de/panorama/justiz/bonn-jugendliche-schiessen-mit-feuerwerksrakete-auf-obdachlosen-a-d7a9042a-cd33-4935-905f-93cfdcb64960#ref=rss)
+### vier
+
+* [https://www.spiegel.de/panorama/justiz/bonn-jugendliche-schiessen-mit-feuerwerksrakete-auf-obdachlosen](https://www.spiegel.de/panorama/justiz/bonn-jugendliche-schiessen-mit-feuerwerksrakete-auf-obdachlosen-a-d7a9042a-cd33-4935-905f-93cfdcb64960#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/geldanlage-vier-dinge-auf-die-anleger-in-diesem-jahr-achten-muessen](https://www.spiegel.de/wirtschaft/service/geldanlage-vier-dinge-auf-die-anleger-in-diesem-jahr-achten-muessen-a-0097b4b7-186b-4344-948c-4e53b542c37a#ref=rss)
 ### mann
 
-* [https://www.spiegel.de/panorama/justiz/mann-verletzt-mehrere-menschen-in-charlottenburg](https://www.spiegel.de/panorama/justiz/mann-verletzt-mehrere-menschen-in-charlottenburg-a-e0445a81-b809-491d-bc69-5539e6f942e2#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/polizei-erschiesst-mann-nach-zerstoerungsfahrt-mit-bagger](https://www.spiegel.de/panorama/justiz/polizei-erschiesst-mann-nach-zerstoerungsfahrt-mit-bagger-a-260e6a5b-599d-438f-8096-508801c36677#ref=rss)
-### polizei
+* [https://www.spiegel.de/panorama/justiz/bonn-jugendliche-schiessen-mit-feuerwerksrakete-auf-obdachlosen](https://www.spiegel.de/panorama/justiz/bonn-jugendliche-schiessen-mit-feuerwerksrakete-auf-obdachlosen-a-d7a9042a-cd33-4935-905f-93cfdcb64960#ref=rss)
+* [https://www.spiegel.de/panorama/rimini-polizist-erschiesst-messerangreifer-mehrere-verletzte](https://www.spiegel.de/panorama/rimini-polizist-erschiesst-messerangreifer-mehrere-verletzte-a-9243b139-4cec-4c45-9bcb-bdfa96ef7124#ref=rss)
+### it
 
-* [https://www.spiegel.de/panorama/justiz/mann-verletzt-mehrere-menschen-in-charlottenburg](https://www.spiegel.de/panorama/justiz/mann-verletzt-mehrere-menschen-in-charlottenburg-a-e0445a81-b809-491d-bc69-5539e6f942e2#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/polizei-erschiesst-mann-nach-zerstoerungsfahrt-mit-bagger](https://www.spiegel.de/panorama/justiz/polizei-erschiesst-mann-nach-zerstoerungsfahrt-mit-bagger-a-260e6a5b-599d-438f-8096-508801c36677#ref=rss)
-* [https://www.spiegel.de/wirtschaft/finnische-polizei-veroeffentlicht-fotos-von-verdaechtigem-schiffsrumpf](https://www.spiegel.de/wirtschaft/finnische-polizei-veroeffentlicht-fotos-von-verdaechtigem-schiffsrumpf-a-72953877-d525-4fde-8c35-85eba1bb6e12#ref=rss)
+* [https://www.spiegel.de/panorama/it-ends-with-us-justin-baldoni-kuendigt-gegenklage-gegen-blake-lively-an](https://www.spiegel.de/panorama/it-ends-with-us-justin-baldoni-kuendigt-gegenklage-gegen-blake-lively-an-a-8527887f-3a84-4674-87c3-5145baf70c61#ref=rss)
+### ends
+
+* [https://www.spiegel.de/panorama/it-ends-with-us-justin-baldoni-kuendigt-gegenklage-gegen-blake-lively-an](https://www.spiegel.de/panorama/it-ends-with-us-justin-baldoni-kuendigt-gegenklage-gegen-blake-lively-an-a-8527887f-3a84-4674-87c3-5145baf70c61#ref=rss)
+### justin
+
+* [https://www.spiegel.de/panorama/it-ends-with-us-justin-baldoni-kuendigt-gegenklage-gegen-blake-lively-an](https://www.spiegel.de/panorama/it-ends-with-us-justin-baldoni-kuendigt-gegenklage-gegen-blake-lively-an-a-8527887f-3a84-4674-87c3-5145baf70c61#ref=rss)
+### baldoni
+
+* [https://www.spiegel.de/panorama/it-ends-with-us-justin-baldoni-kuendigt-gegenklage-gegen-blake-lively-an](https://www.spiegel.de/panorama/it-ends-with-us-justin-baldoni-kuendigt-gegenklage-gegen-blake-lively-an-a-8527887f-3a84-4674-87c3-5145baf70c61#ref=rss)
+### boot
+
+* [https://www.spiegel.de/panorama/it-ends-with-us-justin-baldoni-kuendigt-gegenklage-gegen-blake-lively-an](https://www.spiegel.de/panorama/it-ends-with-us-justin-baldoni-kuendigt-gegenklage-gegen-blake-lively-an-a-8527887f-3a84-4674-87c3-5145baf70c61#ref=rss)
+* [https://www.spiegel.de/panorama/lampedusa-20-vermisste-nach-schiffsunglueck](https://www.spiegel.de/panorama/lampedusa-20-vermisste-nach-schiffsunglueck-a-e68fe893-6abb-4a37-841d-a75b0837298f#ref=rss)
+### osdorf
+
+* [https://www.spiegel.de/panorama/justiz/osdorf-im-kreis-rendsburg-eckernfoerde-betrunkener-rammt-fussgaengergruppe-80-jaehriger-in-lebensgefahr](https://www.spiegel.de/panorama/justiz/osdorf-im-kreis-rendsburg-eckernfoerde-betrunkener-rammt-fussgaengergruppe-80-jaehriger-in-lebensgefahr-a-d4cb438c-fc8a-4520-b910-b2b4fa36cefb#ref=rss)
+### magnus
+
+* [https://www.spiegel.de/sport/blitzschach-wm-magnus-carlsen-und-jan-nepomnjaschtschi-teilen-sich-titel](https://www.spiegel.de/sport/blitzschach-wm-magnus-carlsen-und-jan-nepomnjaschtschi-teilen-sich-titel-a-4cf8a6ad-cb5c-4a27-a3fd-2c8a372bcf65#ref=rss)
+### carlsen
+
+* [https://www.spiegel.de/sport/blitzschach-wm-magnus-carlsen-und-jan-nepomnjaschtschi-teilen-sich-titel](https://www.spiegel.de/sport/blitzschach-wm-magnus-carlsen-und-jan-nepomnjaschtschi-teilen-sich-titel-a-4cf8a6ad-cb5c-4a27-a3fd-2c8a372bcf65#ref=rss)
+### nepomnjaschtschi
+
+* [https://www.spiegel.de/sport/blitzschach-wm-magnus-carlsen-und-jan-nepomnjaschtschi-teilen-sich-titel](https://www.spiegel.de/sport/blitzschach-wm-magnus-carlsen-und-jan-nepomnjaschtschi-teilen-sich-titel-a-4cf8a6ad-cb5c-4a27-a3fd-2c8a372bcf65#ref=rss)
+### serbien
+
+* [https://www.spiegel.de/ausland/serbien-tausende-bei-schweigeprotesten-gegen-staatsfuehrung](https://www.spiegel.de/ausland/serbien-tausende-bei-schweigeprotesten-gegen-staatsfuehrung-a-91de343d-87bd-43c3-b9b6-f906f8b9c756#ref=rss)
+### tausende
+
+* [https://www.spiegel.de/ausland/serbien-tausende-bei-schweigeprotesten-gegen-staatsfuehrung](https://www.spiegel.de/ausland/serbien-tausende-bei-schweigeprotesten-gegen-staatsfuehrung-a-91de343d-87bd-43c3-b9b6-f906f8b9c756#ref=rss)
+* [https://www.spiegel.de/ausland/bangladesch-tausende-fordern-in-bangladesch-prozess-fuer-gestuerzte-premierministerin-sheikh-hasina](https://www.spiegel.de/ausland/bangladesch-tausende-fordern-in-bangladesch-prozess-fuer-gestuerzte-premierministerin-sheikh-hasina-a-2a0b0798-8018-4c1b-91d8-2823d68dce6e#ref=rss)
+### ungarn
+
+* [https://www.spiegel.de/ausland/ungarn-verliert-wegen-fehlender-reformen-anspruch-auf-eu-milliardenhilfe](https://www.spiegel.de/ausland/ungarn-verliert-wegen-fehlender-reformen-anspruch-auf-eu-milliardenhilfe-a-38e0bbcf-ea07-4dcc-8352-749f61e55940#ref=rss)
+### umsetzen
+
+* [https://www.spiegel.de/ausland/ungarn-verliert-wegen-fehlender-reformen-anspruch-auf-eu-milliardenhilfe](https://www.spiegel.de/ausland/ungarn-verliert-wegen-fehlender-reformen-anspruch-auf-eu-milliardenhilfe-a-38e0bbcf-ea07-4dcc-8352-749f61e55940#ref=rss)
+* [https://www.spiegel.de/psychologie/neujahrsvorsaetze-ziele-finden-und-wirklich-umsetzen-podcast](https://www.spiegel.de/psychologie/neujahrsvorsaetze-ziele-finden-und-wirklich-umsetzen-podcast-a-73efda00-fb41-41a2-9573-b04c54180e22#ref=rss)
 ### 2025
 
-* [https://www.spiegel.de/wirtschaft/service/immobilien-wird-2025-ein-gutes-jahr-fuer-den-hauskauf](https://www.spiegel.de/wirtschaft/service/immobilien-wird-2025-ein-gutes-jahr-fuer-den-hauskauf-a-5cbc93ae-4990-49be-b28e-1290fa5104f9#ref=rss)
-* [https://www.spiegel.de/karriere/landwirtschaft-blauzungenkrankheit-butterpreis-proteste-was-landwirte-fuer-2025-fordern](https://www.spiegel.de/karriere/landwirtschaft-blauzungenkrankheit-butterpreis-proteste-was-landwirte-fuer-2025-fordern-a-dfd62dde-3170-4b7c-a3dd-acec44a315ea#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/silvester-2024-auf-kiritimati-hat-das-neue-jahr-schon-begonnen](https://www.spiegel.de/panorama/gesellschaft/silvester-2024-auf-kiritimati-hat-das-neue-jahr-schon-begonnen-a-b86fd1f0-0fca-48ca-afdf-296a0293596d#ref=rss)
-### scholz
+* [https://www.spiegel.de/wirtschaft/service/geldanlage-vier-dinge-auf-die-anleger-in-diesem-jahr-achten-muessen](https://www.spiegel.de/wirtschaft/service/geldanlage-vier-dinge-auf-die-anleger-in-diesem-jahr-achten-muessen-a-0097b4b7-186b-4344-948c-4e53b542c37a#ref=rss)
+* [https://www.spiegel.de/sport/handball-leichtathletik-tennis-das-sind-die-sporthighlights-2025](https://www.spiegel.de/sport/handball-leichtathletik-tennis-das-sind-die-sporthighlights-2025-a-9178c176-cda3-4305-981d-4d47d2ca346d#ref=rss)
+### chancen
 
-* [https://www.spiegel.de/politik/neujahrsansprache-olaf-scholz-ruft-zu-zusammenhalt-auf](https://www.spiegel.de/politik/neujahrsansprache-olaf-scholz-ruft-zu-zusammenhalt-auf-a-d94ea35e-cfe9-4097-b8c8-467347e4d7c2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/elon-musk-beschimpft-jetzt-auch-bundespraesident-frank-walter-steinmeier](https://www.spiegel.de/politik/deutschland/elon-musk-beschimpft-jetzt-auch-bundespraesident-frank-walter-steinmeier-a-6b7bd315-d4b9-4055-a5f4-4a284f7c2311#ref=rss)
-### sehen
+* [https://www.spiegel.de/wirtschaft/service/geldanlage-vier-dinge-auf-die-anleger-in-diesem-jahr-achten-muessen](https://www.spiegel.de/wirtschaft/service/geldanlage-vier-dinge-auf-die-anleger-in-diesem-jahr-achten-muessen-a-0097b4b7-186b-4344-948c-4e53b542c37a#ref=rss)
+* [https://www.spiegel.de/panorama/lampedusa-20-vermisste-nach-schiffsunglueck](https://www.spiegel.de/panorama/lampedusa-20-vermisste-nach-schiffsunglueck-a-e68fe893-6abb-4a37-841d-a75b0837298f#ref=rss)
+### co
 
-* [https://www.spiegel.de/politik/neujahrsansprache-olaf-scholz-ruft-zu-zusammenhalt-auf](https://www.spiegel.de/politik/neujahrsansprache-olaf-scholz-ruft-zu-zusammenhalt-auf-a-d94ea35e-cfe9-4097-b8c8-467347e4d7c2#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/silvester-warum-menschen-das-boellern-an-silvester-so-fasziniert](https://www.spiegel.de/panorama/gesellschaft/silvester-warum-menschen-das-boellern-an-silvester-so-fasziniert-a-e0e2b3e6-617d-4615-ba0f-a9b3b69e8d0c#ref=rss)
-* [https://www.spiegel.de/panorama/silvester-2024-eisbaden-traditionelle-taenze-und-kalligrafie](https://www.spiegel.de/panorama/silvester-2024-eisbaden-traditionelle-taenze-und-kalligrafie-a-92f9b82c-6c4d-4c17-aad7-42a656d69282#ref=rss)
-### raketen
+* [https://www.spiegel.de/netzwelt/apps/prime-video-dazn-wow-und-co-wie-kuendige-ich-streamingdienste-moeglichst-stressfrei](https://www.spiegel.de/netzwelt/apps/prime-video-dazn-wow-und-co-wie-kuendige-ich-streamingdienste-moeglichst-stressfrei-a-f25b6ac3-a8d4-435e-967c-c18d3619960d#ref=rss)
+* [https://www.spiegel.de/sport/alpinismus-wettlauf-in-der-todeszone](https://www.spiegel.de/sport/alpinismus-wettlauf-in-der-todeszone-a-4841b44c-56ea-420a-a0e8-6cdd91db3b8d#ref=rss)
+### ich
 
-* [https://www.spiegel.de/panorama/gesellschaft/silvester-warum-menschen-das-boellern-an-silvester-so-fasziniert](https://www.spiegel.de/panorama/gesellschaft/silvester-warum-menschen-das-boellern-an-silvester-so-fasziniert-a-e0e2b3e6-617d-4615-ba0f-a9b3b69e8d0c#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/silvester-sturmwarnung-in-teilen-deutschlands-wetterdienst-warnt-vor-raketen](https://www.spiegel.de/panorama/gesellschaft/silvester-sturmwarnung-in-teilen-deutschlands-wetterdienst-warnt-vor-raketen-a-0ed379d7-ffed-4853-8850-01d61db72929#ref=rss)
-### manche
+* [https://www.spiegel.de/netzwelt/apps/prime-video-dazn-wow-und-co-wie-kuendige-ich-streamingdienste-moeglichst-stressfrei](https://www.spiegel.de/netzwelt/apps/prime-video-dazn-wow-und-co-wie-kuendige-ich-streamingdienste-moeglichst-stressfrei-a-f25b6ac3-a8d4-435e-967c-c18d3619960d#ref=rss)
+* [https://www.spiegel.de/kultur/watergate-in-berlin-ein-abschied-nichts-glitzert-so-feierlich-wie-drogenschweiss](https://www.spiegel.de/kultur/watergate-in-berlin-ein-abschied-nichts-glitzert-so-feierlich-wie-drogenschweiss-a-47887f00-f793-460c-8d2b-7d51d9a5eeab#ref=rss)
+### harry
 
-* [https://www.spiegel.de/panorama/silvester-2024-eisbaden-traditionelle-taenze-und-kalligrafie](https://www.spiegel.de/panorama/silvester-2024-eisbaden-traditionelle-taenze-und-kalligrafie-a-92f9b82c-6c4d-4c17-aad7-42a656d69282#ref=rss)
-### deutschen
+* [https://www.spiegel.de/geschichte/pearl-harbour-veteran-harry-chandler-mit-103-jahren-gestorben](https://www.spiegel.de/geschichte/pearl-harbour-veteran-harry-chandler-mit-103-jahren-gestorben-a-5076fcae-7af8-4adb-accd-a04244200b1c#ref=rss)
+### chandler
 
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-2024-oesterreicher-dominieren-qualifikation-in-garmisch-pius-paschke-neunter](https://www.spiegel.de/sport/wintersport/vierschanzentournee-2024-oesterreicher-dominieren-qualifikation-in-garmisch-pius-paschke-neunter-a-6e0f323b-f2b5-4961-b647-29fe88d261d7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/weidels-team-nach-eigenen-angaben-in-regelmaessigem-kontakt-mit-musk-umfeld](https://www.spiegel.de/politik/deutschland/weidels-team-nach-eigenen-angaben-in-regelmaessigem-kontakt-mit-musk-umfeld-a-cde79574-0100-4877-8833-9ca7538f8b1f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/elon-musk-politikberater-nennt-ihn-wertvollsten-wahlkampfhelfer-fuer-die-afd](https://www.spiegel.de/politik/deutschland/elon-musk-politikberater-nennt-ihn-wertvollsten-wahlkampfhelfer-fuer-die-afd-a-a32a7541-95ac-4927-9521-08ad32dfc763#ref=rss)
-### usmilliardär
+* [https://www.spiegel.de/geschichte/pearl-harbour-veteran-harry-chandler-mit-103-jahren-gestorben](https://www.spiegel.de/geschichte/pearl-harbour-veteran-harry-chandler-mit-103-jahren-gestorben-a-5076fcae-7af8-4adb-accd-a04244200b1c#ref=rss)
+### 103
 
-* [https://www.spiegel.de/politik/deutschland/weidels-team-nach-eigenen-angaben-in-regelmaessigem-kontakt-mit-musk-umfeld](https://www.spiegel.de/politik/deutschland/weidels-team-nach-eigenen-angaben-in-regelmaessigem-kontakt-mit-musk-umfeld-a-cde79574-0100-4877-8833-9ca7538f8b1f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/elon-musk-beschimpft-jetzt-auch-bundespraesident-frank-walter-steinmeier](https://www.spiegel.de/politik/deutschland/elon-musk-beschimpft-jetzt-auch-bundespraesident-frank-walter-steinmeier-a-6b7bd315-d4b9-4055-a5f4-4a284f7c2311#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/elon-musk-politikberater-nennt-ihn-wertvollsten-wahlkampfhelfer-fuer-die-afd](https://www.spiegel.de/politik/deutschland/elon-musk-politikberater-nennt-ihn-wertvollsten-wahlkampfhelfer-fuer-die-afd-a-a32a7541-95ac-4927-9521-08ad32dfc763#ref=rss)
+* [https://www.spiegel.de/geschichte/pearl-harbour-veteran-harry-chandler-mit-103-jahren-gestorben](https://www.spiegel.de/geschichte/pearl-harbour-veteran-harry-chandler-mit-103-jahren-gestorben-a-5076fcae-7af8-4adb-accd-a04244200b1c#ref=rss)
+### los
+
+* [https://www.spiegel.de/geschichte/pearl-harbour-veteran-harry-chandler-mit-103-jahren-gestorben](https://www.spiegel.de/geschichte/pearl-harbour-veteran-harry-chandler-mit-103-jahren-gestorben-a-5076fcae-7af8-4adb-accd-a04244200b1c#ref=rss)
+* [https://www.spiegel.de/panorama/rimini-polizist-erschiesst-messerangreifer-mehrere-verletzte](https://www.spiegel.de/panorama/rimini-polizist-erschiesst-messerangreifer-mehrere-verletzte-a-9243b139-4cec-4c45-9bcb-bdfa96ef7124#ref=rss)
+### verletzte
+
+* [https://www.spiegel.de/geschichte/pearl-harbour-veteran-harry-chandler-mit-103-jahren-gestorben](https://www.spiegel.de/geschichte/pearl-harbour-veteran-harry-chandler-mit-103-jahren-gestorben-a-5076fcae-7af8-4adb-accd-a04244200b1c#ref=rss)
+* [https://www.spiegel.de/panorama/rimini-polizist-erschiesst-messerangreifer-mehrere-verletzte](https://www.spiegel.de/panorama/rimini-polizist-erschiesst-messerangreifer-mehrere-verletzte-a-9243b139-4cec-4c45-9bcb-bdfa96ef7124#ref=rss)
+### nie
+
+* [https://www.spiegel.de/wirtschaft/vermoegen-menschen-in-deutschland-offenbar-so-reich-wie-nie](https://www.spiegel.de/wirtschaft/vermoegen-menschen-in-deutschland-offenbar-so-reich-wie-nie-a-6eccb771-6635-4035-9118-4f739ab57865#ref=rss)
+* [https://www.spiegel.de/ausland/der-fall-lucy-letby-in-grossbritannien-kindermoerderin-oder-ein-opfer-der-justiz](https://www.spiegel.de/ausland/der-fall-lucy-letby-in-grossbritannien-kindermoerderin-oder-ein-opfer-der-justiz-a-8090b51d-633a-4a1b-ad8e-214f66352ebd#ref=rss)
+### grund
+
+* [https://www.spiegel.de/wirtschaft/vermoegen-menschen-in-deutschland-offenbar-so-reich-wie-nie](https://www.spiegel.de/wirtschaft/vermoegen-menschen-in-deutschland-offenbar-so-reich-wie-nie-a-6eccb771-6635-4035-9118-4f739ab57865#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-mehrere-bezirke-in-berlin-ohne-wasserversorgung](https://www.spiegel.de/panorama/berlin-mehrere-bezirke-in-berlin-ohne-wasserversorgung-a-9ca6de38-5054-4e57-8822-9cff85a685a2#ref=rss)
+### rimini
+
+* [https://www.spiegel.de/panorama/rimini-polizist-erschiesst-messerangreifer-mehrere-verletzte](https://www.spiegel.de/panorama/rimini-polizist-erschiesst-messerangreifer-mehrere-verletzte-a-9243b139-4cec-4c45-9bcb-bdfa96ef7124#ref=rss)
+### feiernde
+
+* [https://www.spiegel.de/panorama/rimini-polizist-erschiesst-messerangreifer-mehrere-verletzte](https://www.spiegel.de/panorama/rimini-polizist-erschiesst-messerangreifer-mehrere-verletzte-a-9243b139-4cec-4c45-9bcb-bdfa96ef7124#ref=rss)
+* [https://www.spiegel.de/panorama/erste-bilanz-der-silvesternacht-mindestens-fuenf-menschen-sterben-durch-feuerwerkskoerper](https://www.spiegel.de/panorama/erste-bilanz-der-silvesternacht-mindestens-fuenf-menschen-sterben-durch-feuerwerkskoerper-a-6aaa0b49-29c8-482c-bca3-9e43d568c726#ref=rss)
+### italienischen
+
+* [https://www.spiegel.de/panorama/rimini-polizist-erschiesst-messerangreifer-mehrere-verletzte](https://www.spiegel.de/panorama/rimini-polizist-erschiesst-messerangreifer-mehrere-verletzte-a-9243b139-4cec-4c45-9bcb-bdfa96ef7124#ref=rss)
+* [https://www.spiegel.de/panorama/lampedusa-20-vermisste-nach-schiffsunglueck](https://www.spiegel.de/panorama/lampedusa-20-vermisste-nach-schiffsunglueck-a-e68fe893-6abb-4a37-841d-a75b0837298f#ref=rss)
+### lehrerin
+
+* [https://www.spiegel.de/panorama/gesellschaft/beamtenrecht-lehrerin-angeblich-knapp-ein-kilogramm-zu-schwer-fuer-den-staatsdienst](https://www.spiegel.de/panorama/gesellschaft/beamtenrecht-lehrerin-angeblich-knapp-ein-kilogramm-zu-schwer-fuer-den-staatsdienst-a-7e91f079-4325-4526-881b-79c04e4096d9#ref=rss)
+### schwer
+
+* [https://www.spiegel.de/panorama/gesellschaft/beamtenrecht-lehrerin-angeblich-knapp-ein-kilogramm-zu-schwer-fuer-den-staatsdienst](https://www.spiegel.de/panorama/gesellschaft/beamtenrecht-lehrerin-angeblich-knapp-ein-kilogramm-zu-schwer-fuer-den-staatsdienst-a-7e91f079-4325-4526-881b-79c04e4096d9#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/panorama/gesellschaft/beamtenrecht-lehrerin-angeblich-knapp-ein-kilogramm-zu-schwer-fuer-den-staatsdienst](https://www.spiegel.de/panorama/gesellschaft/beamtenrecht-lehrerin-angeblich-knapp-ein-kilogramm-zu-schwer-fuer-den-staatsdienst-a-7e91f079-4325-4526-881b-79c04e4096d9#ref=rss)
+* [https://www.spiegel.de/ausland/bangladesch-tausende-fordern-in-bangladesch-prozess-fuer-gestuerzte-premierministerin-sheikh-hasina](https://www.spiegel.de/ausland/bangladesch-tausende-fordern-in-bangladesch-prozess-fuer-gestuerzte-premierministerin-sheikh-hasina-a-2a0b0798-8018-4c1b-91d8-2823d68dce6e#ref=rss)
+### russisches
+
+* [https://www.spiegel.de/ausland/russlands-krieg-in-der-ukraine-durch-die-ukraine-fliesst-jetzt-kein-russisches-gas-mehr](https://www.spiegel.de/ausland/russlands-krieg-in-der-ukraine-durch-die-ukraine-fliesst-jetzt-kein-russisches-gas-mehr-a-74497c96-e305-42ad-b03d-faeadd125abb#ref=rss)
+### gas
+
+* [https://www.spiegel.de/ausland/russlands-krieg-in-der-ukraine-durch-die-ukraine-fliesst-jetzt-kein-russisches-gas-mehr](https://www.spiegel.de/ausland/russlands-krieg-in-der-ukraine-durch-die-ukraine-fliesst-jetzt-kein-russisches-gas-mehr-a-74497c96-e305-42ad-b03d-faeadd125abb#ref=rss)
+### konsequenzen
+
+* [https://www.spiegel.de/ausland/russlands-krieg-in-der-ukraine-durch-die-ukraine-fliesst-jetzt-kein-russisches-gas-mehr](https://www.spiegel.de/ausland/russlands-krieg-in-der-ukraine-durch-die-ukraine-fliesst-jetzt-kein-russisches-gas-mehr-a-74497c96-e305-42ad-b03d-faeadd125abb#ref=rss)
+* [https://www.spiegel.de/ausland/georgien-einreisesperren-gegen-vertreter-georgiens-wegen-gewalt-gegen-protestierende](https://www.spiegel.de/ausland/georgien-einreisesperren-gegen-vertreter-georgiens-wegen-gewalt-gegen-protestierende-a-d5c0c544-fe85-4f77-af62-ac2d050d86b6#ref=rss)
+### ziele
+
+* [https://www.spiegel.de/psychologie/neujahrsvorsaetze-ziele-finden-und-wirklich-umsetzen-podcast](https://www.spiegel.de/psychologie/neujahrsvorsaetze-ziele-finden-und-wirklich-umsetzen-podcast-a-73efda00-fb41-41a2-9573-b04c54180e22#ref=rss)
+### uns
+
+* [https://www.spiegel.de/psychologie/neujahrsvorsaetze-ziele-finden-und-wirklich-umsetzen-podcast](https://www.spiegel.de/psychologie/neujahrsvorsaetze-ziele-finden-und-wirklich-umsetzen-podcast-a-73efda00-fb41-41a2-9573-b04c54180e22#ref=rss)
+### miami
+
+* [https://www.spiegel.de/wissenschaft/mensch/miami-satelliten-zeigen-sinkende-luxus-hochhaeuser-in-florida](https://www.spiegel.de/wissenschaft/mensch/miami-satelliten-zeigen-sinkende-luxus-hochhaeuser-in-florida-a-257eaf25-04c8-46b0-ab35-007483c402ed#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/wissenschaft/mensch/miami-satelliten-zeigen-sinkende-luxus-hochhaeuser-in-florida](https://www.spiegel.de/wissenschaft/mensch/miami-satelliten-zeigen-sinkende-luxus-hochhaeuser-in-florida-a-257eaf25-04c8-46b0-ab35-007483c402ed#ref=rss)
+* [https://www.spiegel.de/sport/alpinismus-wettlauf-in-der-todeszone](https://www.spiegel.de/sport/alpinismus-wettlauf-in-der-todeszone-a-4841b44c-56ea-420a-a0e8-6cdd91db3b8d#ref=rss)
+### erste
+
+* [https://www.spiegel.de/panorama/erste-bilanz-der-silvesternacht-mindestens-fuenf-menschen-sterben-durch-feuerwerkskoerper](https://www.spiegel.de/panorama/erste-bilanz-der-silvesternacht-mindestens-fuenf-menschen-sterben-durch-feuerwerkskoerper-a-6aaa0b49-29c8-482c-bca3-9e43d568c726#ref=rss)
+* [https://www.spiegel.de/panorama/koenig-frederik-x-von-daenemark-meistert-erste-neujahrsansprache](https://www.spiegel.de/panorama/koenig-frederik-x-von-daenemark-meistert-erste-neujahrsansprache-a-ed794183-20e5-42d7-af36-7d25fcaccb16#ref=rss)
+### mindestens
+
+* [https://www.spiegel.de/panorama/erste-bilanz-der-silvesternacht-mindestens-fuenf-menschen-sterben-durch-feuerwerkskoerper](https://www.spiegel.de/panorama/erste-bilanz-der-silvesternacht-mindestens-fuenf-menschen-sterben-durch-feuerwerkskoerper-a-6aaa0b49-29c8-482c-bca3-9e43d568c726#ref=rss)
+* [https://www.spiegel.de/ausland/gesundheitssystem-in-gaza-laut-uno-am-rande-des-zusammenbruchs](https://www.spiegel.de/ausland/gesundheitssystem-in-gaza-laut-uno-am-rande-des-zusammenbruchs-a-d19ae936-7c6d-40f8-8299-ff65ec6c59e3#ref=rss)
+### fünf
+
+* [https://www.spiegel.de/panorama/erste-bilanz-der-silvesternacht-mindestens-fuenf-menschen-sterben-durch-feuerwerkskoerper](https://www.spiegel.de/panorama/erste-bilanz-der-silvesternacht-mindestens-fuenf-menschen-sterben-durch-feuerwerkskoerper-a-6aaa0b49-29c8-482c-bca3-9e43d568c726#ref=rss)
+### feiert
+
+* [https://www.spiegel.de/sport/handball-leichtathletik-tennis-das-sind-die-sporthighlights-2025](https://www.spiegel.de/sport/handball-leichtathletik-tennis-das-sind-die-sporthighlights-2025-a-9178c176-cda3-4305-981d-4d47d2ca346d#ref=rss)
+* [https://www.spiegel.de/panorama/silvester-so-feiert-die-welt-den-jahreswechsel-die-bilder](https://www.spiegel.de/panorama/silvester-so-feiert-die-welt-den-jahreswechsel-die-bilder-a-c1ede106-bed8-4059-ab52-83a98c205642#ref=rss)
+### hangover
+
+* [https://www.spiegel.de/gesundheit/verkatert-an-neujahr-schnelle-hilfe-wie-wir-heute-den-hangover-besiegen](https://www.spiegel.de/gesundheit/verkatert-an-neujahr-schnelle-hilfe-wie-wir-heute-den-hangover-besiegen-a-eaa89404-b833-4ea5-8b11-7aa255fac045#ref=rss)
+### alle
+
+* [https://www.spiegel.de/fitness/fitness-krafttraining-fuer-alle-sieben-uebungen-fuer-starke-muskeln](https://www.spiegel.de/fitness/fitness-krafttraining-fuer-alle-sieben-uebungen-fuer-starke-muskeln-a-4fda3c9b-1d2b-4a06-a972-9eb514c7e08e#ref=rss)
+* [https://www.spiegel.de/sport/alpinismus-wettlauf-in-der-todeszone](https://www.spiegel.de/sport/alpinismus-wettlauf-in-der-todeszone-a-4841b44c-56ea-420a-a0e8-6cdd91db3b8d#ref=rss)
+### übungen
+
+* [https://www.spiegel.de/fitness/fitness-krafttraining-fuer-alle-sieben-uebungen-fuer-starke-muskeln](https://www.spiegel.de/fitness/fitness-krafttraining-fuer-alle-sieben-uebungen-fuer-starke-muskeln-a-4fda3c9b-1d2b-4a06-a972-9eb514c7e08e#ref=rss)
+### starke
+
+* [https://www.spiegel.de/fitness/fitness-krafttraining-fuer-alle-sieben-uebungen-fuer-starke-muskeln](https://www.spiegel.de/fitness/fitness-krafttraining-fuer-alle-sieben-uebungen-fuer-starke-muskeln-a-4fda3c9b-1d2b-4a06-a972-9eb514c7e08e#ref=rss)
+### muskeln
+
+* [https://www.spiegel.de/fitness/fitness-krafttraining-fuer-alle-sieben-uebungen-fuer-starke-muskeln](https://www.spiegel.de/fitness/fitness-krafttraining-fuer-alle-sieben-uebungen-fuer-starke-muskeln-a-4fda3c9b-1d2b-4a06-a972-9eb514c7e08e#ref=rss)
+### welt
+
+* [https://www.spiegel.de/panorama/silvester-so-feiert-die-welt-den-jahreswechsel-die-bilder](https://www.spiegel.de/panorama/silvester-so-feiert-die-welt-den-jahreswechsel-die-bilder-a-c1ede106-bed8-4059-ab52-83a98c205642#ref=rss)
+### bilder
+
+* [https://www.spiegel.de/panorama/silvester-so-feiert-die-welt-den-jahreswechsel-die-bilder](https://www.spiegel.de/panorama/silvester-so-feiert-die-welt-den-jahreswechsel-die-bilder-a-c1ede106-bed8-4059-ab52-83a98c205642#ref=rss)
+### georgien
+
+* [https://www.spiegel.de/ausland/georgien-einreisesperren-gegen-vertreter-georgiens-wegen-gewalt-gegen-protestierende](https://www.spiegel.de/ausland/georgien-einreisesperren-gegen-vertreter-georgiens-wegen-gewalt-gegen-protestierende-a-d5c0c544-fe85-4f77-af62-ac2d050d86b6#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/panorama/berlin-mehrere-bezirke-in-berlin-ohne-wasserversorgung](https://www.spiegel.de/panorama/berlin-mehrere-bezirke-in-berlin-ohne-wasserversorgung-a-9ca6de38-5054-4e57-8822-9cff85a685a2#ref=rss)
+* [https://www.spiegel.de/kultur/watergate-in-berlin-ein-abschied-nichts-glitzert-so-feierlich-wie-drogenschweiss](https://www.spiegel.de/kultur/watergate-in-berlin-ein-abschied-nichts-glitzert-so-feierlich-wie-drogenschweiss-a-47887f00-f793-460c-8d2b-7d51d9a5eeab#ref=rss)
+### könig
+
+* [https://www.spiegel.de/panorama/koenig-frederik-x-von-daenemark-meistert-erste-neujahrsansprache](https://www.spiegel.de/panorama/koenig-frederik-x-von-daenemark-meistert-erste-neujahrsansprache-a-ed794183-20e5-42d7-af36-7d25fcaccb16#ref=rss)
+### frederik
+
+* [https://www.spiegel.de/panorama/koenig-frederik-x-von-daenemark-meistert-erste-neujahrsansprache](https://www.spiegel.de/panorama/koenig-frederik-x-von-daenemark-meistert-erste-neujahrsansprache-a-ed794183-20e5-42d7-af36-7d25fcaccb16#ref=rss)
+### watergate
+
+* [https://www.spiegel.de/kultur/watergate-in-berlin-ein-abschied-nichts-glitzert-so-feierlich-wie-drogenschweiss](https://www.spiegel.de/kultur/watergate-in-berlin-ein-abschied-nichts-glitzert-so-feierlich-wie-drogenschweiss-a-47887f00-f793-460c-8d2b-7d51d9a5eeab#ref=rss)
+### bangladesch
+
+* [https://www.spiegel.de/ausland/bangladesch-tausende-fordern-in-bangladesch-prozess-fuer-gestuerzte-premierministerin-sheikh-hasina](https://www.spiegel.de/ausland/bangladesch-tausende-fordern-in-bangladesch-prozess-fuer-gestuerzte-premierministerin-sheikh-hasina-a-2a0b0798-8018-4c1b-91d8-2823d68dce6e#ref=rss)
+### sheikh
+
+* [https://www.spiegel.de/ausland/bangladesch-tausende-fordern-in-bangladesch-prozess-fuer-gestuerzte-premierministerin-sheikh-hasina](https://www.spiegel.de/ausland/bangladesch-tausende-fordern-in-bangladesch-prozess-fuer-gestuerzte-premierministerin-sheikh-hasina-a-2a0b0798-8018-4c1b-91d8-2823d68dce6e#ref=rss)
+### hasina
+
+* [https://www.spiegel.de/ausland/bangladesch-tausende-fordern-in-bangladesch-prozess-fuer-gestuerzte-premierministerin-sheikh-hasina](https://www.spiegel.de/ausland/bangladesch-tausende-fordern-in-bangladesch-prozess-fuer-gestuerzte-premierministerin-sheikh-hasina-a-2a0b0798-8018-4c1b-91d8-2823d68dce6e#ref=rss)
+### einigen
+
+* [https://www.spiegel.de/ausland/bangladesch-tausende-fordern-in-bangladesch-prozess-fuer-gestuerzte-premierministerin-sheikh-hasina](https://www.spiegel.de/ausland/bangladesch-tausende-fordern-in-bangladesch-prozess-fuer-gestuerzte-premierministerin-sheikh-hasina-a-2a0b0798-8018-4c1b-91d8-2823d68dce6e#ref=rss)
+* [https://www.spiegel.de/sport/alpinismus-wettlauf-in-der-todeszone](https://www.spiegel.de/sport/alpinismus-wettlauf-in-der-todeszone-a-4841b44c-56ea-420a-a0e8-6cdd91db3b8d#ref=rss)
 ### puerto
 
 * [https://www.spiegel.de/ausland/puerto-rico-tage-ohne-strom-karibikinsel-kaempft-mit-defekter-leitung](https://www.spiegel.de/ausland/puerto-rico-tage-ohne-strom-karibikinsel-kaempft-mit-defekter-leitung-a-54861c74-d7d9-4bbd-8ac8-6294ad092e63#ref=rss)
@@ -95,9 +315,6 @@ tags: __no_header__
 
 * [https://www.spiegel.de/ausland/puerto-rico-tage-ohne-strom-karibikinsel-kaempft-mit-defekter-leitung](https://www.spiegel.de/ausland/puerto-rico-tage-ohne-strom-karibikinsel-kaempft-mit-defekter-leitung-a-54861c74-d7d9-4bbd-8ac8-6294ad092e63#ref=rss)
 ### tage
-
-* [https://www.spiegel.de/ausland/puerto-rico-tage-ohne-strom-karibikinsel-kaempft-mit-defekter-leitung](https://www.spiegel.de/ausland/puerto-rico-tage-ohne-strom-karibikinsel-kaempft-mit-defekter-leitung-a-54861c74-d7d9-4bbd-8ac8-6294ad092e63#ref=rss)
-### ohne
 
 * [https://www.spiegel.de/ausland/puerto-rico-tage-ohne-strom-karibikinsel-kaempft-mit-defekter-leitung](https://www.spiegel.de/ausland/puerto-rico-tage-ohne-strom-karibikinsel-kaempft-mit-defekter-leitung-a-54861c74-d7d9-4bbd-8ac8-6294ad092e63#ref=rss)
 ### strom
@@ -122,187 +339,4 @@ tags: __no_header__
 ### gaza
 
 * [https://www.spiegel.de/ausland/gesundheitssystem-in-gaza-laut-uno-am-rande-des-zusammenbruchs](https://www.spiegel.de/ausland/gesundheitssystem-in-gaza-laut-uno-am-rande-des-zusammenbruchs-a-d19ae936-7c6d-40f8-8299-ff65ec6c59e3#ref=rss)
-### olaf
-
-* [https://www.spiegel.de/politik/neujahrsansprache-olaf-scholz-ruft-zu-zusammenhalt-auf](https://www.spiegel.de/politik/neujahrsansprache-olaf-scholz-ruft-zu-zusammenhalt-auf-a-d94ea35e-cfe9-4097-b8c8-467347e4d7c2#ref=rss)
-### ruft
-
-* [https://www.spiegel.de/politik/neujahrsansprache-olaf-scholz-ruft-zu-zusammenhalt-auf](https://www.spiegel.de/politik/neujahrsansprache-olaf-scholz-ruft-zu-zusammenhalt-auf-a-d94ea35e-cfe9-4097-b8c8-467347e4d7c2#ref=rss)
-### zusammenhalt
-
-* [https://www.spiegel.de/politik/neujahrsansprache-olaf-scholz-ruft-zu-zusammenhalt-auf](https://www.spiegel.de/politik/neujahrsansprache-olaf-scholz-ruft-zu-zusammenhalt-auf-a-d94ea35e-cfe9-4097-b8c8-467347e4d7c2#ref=rss)
-### krieg
-
-* [https://www.spiegel.de/politik/neujahrsansprache-olaf-scholz-ruft-zu-zusammenhalt-auf](https://www.spiegel.de/politik/neujahrsansprache-olaf-scholz-ruft-zu-zusammenhalt-auf-a-d94ea35e-cfe9-4097-b8c8-467347e4d7c2#ref=rss)
-* [https://www.spiegel.de/sport/tour-de-france-der-veteran-auf-dem-rad-zum-tod-von-emile-idee](https://www.spiegel.de/sport/tour-de-france-der-veteran-auf-dem-rad-zum-tod-von-emile-idee-a-f899f9e7-a1c6-4623-ae81-eafcc1b7124d#ref=rss)
-### früher
-
-* [https://www.spiegel.de/panorama/schweiz-toedlicher-vorfall-bei-swiss-triebwerk-eines-us-herstellers-versagte-ploetzlich](https://www.spiegel.de/panorama/schweiz-toedlicher-vorfall-bei-swiss-triebwerk-eines-us-herstellers-versagte-ploetzlich-a-4b6d533f-c662-494d-b6a0-192fd9fd09f9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/immobilien-wird-2025-ein-gutes-jahr-fuer-den-hauskauf](https://www.spiegel.de/wirtschaft/service/immobilien-wird-2025-ein-gutes-jahr-fuer-den-hauskauf-a-5cbc93ae-4990-49be-b28e-1290fa5104f9#ref=rss)
-### ehemaliger
-
-* [https://www.spiegel.de/panorama/hamburg-ehemaliger-kickboxer-predigt-von-hoelle-und-vergebung-in-der-innenstadt](https://www.spiegel.de/panorama/hamburg-ehemaliger-kickboxer-predigt-von-hoelle-und-vergebung-in-der-innenstadt-a-47c397b2-d560-40ef-a874-17320230811b#ref=rss)
-### kickboxer
-
-* [https://www.spiegel.de/panorama/hamburg-ehemaliger-kickboxer-predigt-von-hoelle-und-vergebung-in-der-innenstadt](https://www.spiegel.de/panorama/hamburg-ehemaliger-kickboxer-predigt-von-hoelle-und-vergebung-in-der-innenstadt-a-47c397b2-d560-40ef-a874-17320230811b#ref=rss)
-### predigt
-
-* [https://www.spiegel.de/panorama/hamburg-ehemaliger-kickboxer-predigt-von-hoelle-und-vergebung-in-der-innenstadt](https://www.spiegel.de/panorama/hamburg-ehemaliger-kickboxer-predigt-von-hoelle-und-vergebung-in-der-innenstadt-a-47c397b2-d560-40ef-a874-17320230811b#ref=rss)
-### hölle
-
-* [https://www.spiegel.de/panorama/hamburg-ehemaliger-kickboxer-predigt-von-hoelle-und-vergebung-in-der-innenstadt](https://www.spiegel.de/panorama/hamburg-ehemaliger-kickboxer-predigt-von-hoelle-und-vergebung-in-der-innenstadt-a-47c397b2-d560-40ef-a874-17320230811b#ref=rss)
-### vergebung
-
-* [https://www.spiegel.de/panorama/hamburg-ehemaliger-kickboxer-predigt-von-hoelle-und-vergebung-in-der-innenstadt](https://www.spiegel.de/panorama/hamburg-ehemaliger-kickboxer-predigt-von-hoelle-und-vergebung-in-der-innenstadt-a-47c397b2-d560-40ef-a874-17320230811b#ref=rss)
-### innenstadt
-
-* [https://www.spiegel.de/panorama/hamburg-ehemaliger-kickboxer-predigt-von-hoelle-und-vergebung-in-der-innenstadt](https://www.spiegel.de/panorama/hamburg-ehemaliger-kickboxer-predigt-von-hoelle-und-vergebung-in-der-innenstadt-a-47c397b2-d560-40ef-a874-17320230811b#ref=rss)
-### silvesterschnappschüsse
-
-* [https://www.spiegel.de/netzwelt/gadgets/silvester-schnappschuesse-mit-dem-smartphone-so-klappt-es-mit-den-feuerwerk-fotos](https://www.spiegel.de/netzwelt/gadgets/silvester-schnappschuesse-mit-dem-smartphone-so-klappt-es-mit-den-feuerwerk-fotos-a-f9da2941-c7f4-483d-a90c-e852216b2982#ref=rss)
-### smartphone
-
-* [https://www.spiegel.de/netzwelt/gadgets/silvester-schnappschuesse-mit-dem-smartphone-so-klappt-es-mit-den-feuerwerk-fotos](https://www.spiegel.de/netzwelt/gadgets/silvester-schnappschuesse-mit-dem-smartphone-so-klappt-es-mit-den-feuerwerk-fotos-a-f9da2941-c7f4-483d-a90c-e852216b2982#ref=rss)
-### böllern
-
-* [https://www.spiegel.de/panorama/gesellschaft/silvester-warum-menschen-das-boellern-an-silvester-so-fasziniert](https://www.spiegel.de/panorama/gesellschaft/silvester-warum-menschen-das-boellern-an-silvester-so-fasziniert-a-e0e2b3e6-617d-4615-ba0f-a9b3b69e8d0c#ref=rss)
-### tour
-
-* [https://www.spiegel.de/sport/tour-de-france-der-veteran-auf-dem-rad-zum-tod-von-emile-idee](https://www.spiegel.de/sport/tour-de-france-der-veteran-auf-dem-rad-zum-tod-von-emile-idee-a-f899f9e7-a1c6-4623-ae81-eafcc1b7124d#ref=rss)
-### de
-
-* [https://www.spiegel.de/sport/tour-de-france-der-veteran-auf-dem-rad-zum-tod-von-emile-idee](https://www.spiegel.de/sport/tour-de-france-der-veteran-auf-dem-rad-zum-tod-von-emile-idee-a-f899f9e7-a1c6-4623-ae81-eafcc1b7124d#ref=rss)
-### france
-
-* [https://www.spiegel.de/sport/tour-de-france-der-veteran-auf-dem-rad-zum-tod-von-emile-idee](https://www.spiegel.de/sport/tour-de-france-der-veteran-auf-dem-rad-zum-tod-von-emile-idee-a-f899f9e7-a1c6-4623-ae81-eafcc1b7124d#ref=rss)
-### émile
-
-* [https://www.spiegel.de/sport/tour-de-france-der-veteran-auf-dem-rad-zum-tod-von-emile-idee](https://www.spiegel.de/sport/tour-de-france-der-veteran-auf-dem-rad-zum-tod-von-emile-idee-a-f899f9e7-a1c6-4623-ae81-eafcc1b7124d#ref=rss)
-### idée
-
-* [https://www.spiegel.de/sport/tour-de-france-der-veteran-auf-dem-rad-zum-tod-von-emile-idee](https://www.spiegel.de/sport/tour-de-france-der-veteran-auf-dem-rad-zum-tod-von-emile-idee-a-f899f9e7-a1c6-4623-ae81-eafcc1b7124d#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/sport/tour-de-france-der-veteran-auf-dem-rad-zum-tod-von-emile-idee](https://www.spiegel.de/sport/tour-de-france-der-veteran-auf-dem-rad-zum-tod-von-emile-idee-a-f899f9e7-a1c6-4623-ae81-eafcc1b7124d#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-2024-oesterreicher-dominieren-qualifikation-in-garmisch-pius-paschke-neunter](https://www.spiegel.de/sport/wintersport/vierschanzentournee-2024-oesterreicher-dominieren-qualifikation-in-garmisch-pius-paschke-neunter-a-6e0f323b-f2b5-4961-b647-29fe88d261d7#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/sport/tour-de-france-der-veteran-auf-dem-rad-zum-tod-von-emile-idee](https://www.spiegel.de/sport/tour-de-france-der-veteran-auf-dem-rad-zum-tod-von-emile-idee-a-f899f9e7-a1c6-4623-ae81-eafcc1b7124d#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-2024-oesterreicher-dominieren-qualifikation-in-garmisch-pius-paschke-neunter](https://www.spiegel.de/sport/wintersport/vierschanzentournee-2024-oesterreicher-dominieren-qualifikation-in-garmisch-pius-paschke-neunter-a-6e0f323b-f2b5-4961-b647-29fe88d261d7#ref=rss)
-### attackiert
-
-* [https://www.spiegel.de/panorama/justiz/mann-verletzt-mehrere-menschen-in-charlottenburg](https://www.spiegel.de/panorama/justiz/mann-verletzt-mehrere-menschen-in-charlottenburg-a-e0445a81-b809-491d-bc69-5539e6f942e2#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/justiz/mann-verletzt-mehrere-menschen-in-charlottenburg](https://www.spiegel.de/panorama/justiz/mann-verletzt-mehrere-menschen-in-charlottenburg-a-e0445a81-b809-491d-bc69-5539e6f942e2#ref=rss)
-### kurz
-
-* [https://www.spiegel.de/panorama/justiz/mann-verletzt-mehrere-menschen-in-charlottenburg](https://www.spiegel.de/panorama/justiz/mann-verletzt-mehrere-menschen-in-charlottenburg-a-e0445a81-b809-491d-bc69-5539e6f942e2#ref=rss)
-* [https://www.spiegel.de/politik/best-of-spitzengespraech-2024-es-lohnt-sich-zu-leben-es-lohnt-sich-zu-kaempfen](https://www.spiegel.de/politik/best-of-spitzengespraech-2024-es-lohnt-sich-zu-leben-es-lohnt-sich-zu-kaempfen-a-22ddefd8-c582-4517-9451-ad1ebf57ff1f#ref=rss)
-### festgenommen
-
-* [https://www.spiegel.de/panorama/justiz/mann-verletzt-mehrere-menschen-in-charlottenburg](https://www.spiegel.de/panorama/justiz/mann-verletzt-mehrere-menschen-in-charlottenburg-a-e0445a81-b809-491d-bc69-5539e6f942e2#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/goerlitz-razzien-und-festnahme-nach-brutalem-angriff-auf-linkenpolitikerin](https://www.spiegel.de/panorama/justiz/goerlitz-razzien-und-festnahme-nach-brutalem-angriff-auf-linkenpolitikerin-a-f0ceff9d-4757-4994-a351-cb94f49d85ca#ref=rss)
-### bagger
-
-* [https://www.spiegel.de/panorama/justiz/polizei-erschiesst-mann-nach-zerstoerungsfahrt-mit-bagger](https://www.spiegel.de/panorama/justiz/polizei-erschiesst-mann-nach-zerstoerungsfahrt-mit-bagger-a-260e6a5b-599d-438f-8096-508801c36677#ref=rss)
-### kate
-
-* [https://www.spiegel.de/kultur/kino/schauspielerin-kate-beckinsale-spricht-ueber-uebergriffe-am-filmset](https://www.spiegel.de/kultur/kino/schauspielerin-kate-beckinsale-spricht-ueber-uebergriffe-am-filmset-a-83e26e27-4580-408d-889c-bd6492934a0e#ref=rss)
-### beckinsale
-
-* [https://www.spiegel.de/kultur/kino/schauspielerin-kate-beckinsale-spricht-ueber-uebergriffe-am-filmset](https://www.spiegel.de/kultur/kino/schauspielerin-kate-beckinsale-spricht-ueber-uebergriffe-am-filmset-a-83e26e27-4580-408d-889c-bd6492934a0e#ref=rss)
-### lohnt
-
-* [https://www.spiegel.de/politik/best-of-spitzengespraech-2024-es-lohnt-sich-zu-leben-es-lohnt-sich-zu-kaempfen](https://www.spiegel.de/politik/best-of-spitzengespraech-2024-es-lohnt-sich-zu-leben-es-lohnt-sich-zu-kaempfen-a-22ddefd8-c582-4517-9451-ad1ebf57ff1f#ref=rss)
-### zuvor
-
-* [https://www.spiegel.de/politik/best-of-spitzengespraech-2024-es-lohnt-sich-zu-leben-es-lohnt-sich-zu-kaempfen](https://www.spiegel.de/politik/best-of-spitzengespraech-2024-es-lohnt-sich-zu-leben-es-lohnt-sich-zu-kaempfen-a-22ddefd8-c582-4517-9451-ad1ebf57ff1f#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-2024-oesterreicher-dominieren-qualifikation-in-garmisch-pius-paschke-neunter](https://www.spiegel.de/sport/wintersport/vierschanzentournee-2024-oesterreicher-dominieren-qualifikation-in-garmisch-pius-paschke-neunter-a-6e0f323b-f2b5-4961-b647-29fe88d261d7#ref=rss)
-### qualifikation
-
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-2024-oesterreicher-dominieren-qualifikation-in-garmisch-pius-paschke-neunter](https://www.spiegel.de/sport/wintersport/vierschanzentournee-2024-oesterreicher-dominieren-qualifikation-in-garmisch-pius-paschke-neunter-a-6e0f323b-f2b5-4961-b647-29fe88d261d7#ref=rss)
-### macht
-
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-2024-oesterreicher-dominieren-qualifikation-in-garmisch-pius-paschke-neunter](https://www.spiegel.de/sport/wintersport/vierschanzentournee-2024-oesterreicher-dominieren-qualifikation-in-garmisch-pius-paschke-neunter-a-6e0f323b-f2b5-4961-b647-29fe88d261d7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/elon-musk-politikberater-nennt-ihn-wertvollsten-wahlkampfhelfer-fuer-die-afd](https://www.spiegel.de/politik/deutschland/elon-musk-politikberater-nennt-ihn-wertvollsten-wahlkampfhelfer-fuer-die-afd-a-a32a7541-95ac-4927-9521-08ad32dfc763#ref=rss)
-### alice
-
-* [https://www.spiegel.de/politik/deutschland/weidels-team-nach-eigenen-angaben-in-regelmaessigem-kontakt-mit-musk-umfeld](https://www.spiegel.de/politik/deutschland/weidels-team-nach-eigenen-angaben-in-regelmaessigem-kontakt-mit-musk-umfeld-a-cde79574-0100-4877-8833-9ca7538f8b1f#ref=rss)
-### weidel
-
-* [https://www.spiegel.de/politik/deutschland/weidels-team-nach-eigenen-angaben-in-regelmaessigem-kontakt-mit-musk-umfeld](https://www.spiegel.de/politik/deutschland/weidels-team-nach-eigenen-angaben-in-regelmaessigem-kontakt-mit-musk-umfeld-a-cde79574-0100-4877-8833-9ca7538f8b1f#ref=rss)
-### kontakt
-
-* [https://www.spiegel.de/politik/deutschland/weidels-team-nach-eigenen-angaben-in-regelmaessigem-kontakt-mit-musk-umfeld](https://www.spiegel.de/politik/deutschland/weidels-team-nach-eigenen-angaben-in-regelmaessigem-kontakt-mit-musk-umfeld-a-cde79574-0100-4877-8833-9ca7538f8b1f#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/ausland/syrien-frauen-uebernehmen-wichtige-fuehrungspositionen-nach-sturz-des-assad-regimes](https://www.spiegel.de/ausland/syrien-frauen-uebernehmen-wichtige-fuehrungspositionen-nach-sturz-des-assad-regimes-a-170f783a-75ab-4f2c-bdac-73e60c81dcbd#ref=rss)
-### wichtige
-
-* [https://www.spiegel.de/ausland/syrien-frauen-uebernehmen-wichtige-fuehrungspositionen-nach-sturz-des-assad-regimes](https://www.spiegel.de/ausland/syrien-frauen-uebernehmen-wichtige-fuehrungspositionen-nach-sturz-des-assad-regimes-a-170f783a-75ab-4f2c-bdac-73e60c81dcbd#ref=rss)
-### schiffsrumpf
-
-* [https://www.spiegel.de/wirtschaft/finnische-polizei-veroeffentlicht-fotos-von-verdaechtigem-schiffsrumpf](https://www.spiegel.de/wirtschaft/finnische-polizei-veroeffentlicht-fotos-von-verdaechtigem-schiffsrumpf-a-72953877-d525-4fde-8c35-85eba1bb6e12#ref=rss)
-### alphaville
-
-* [https://www.spiegel.de/kultur/musik/alphaville-will-afd-die-nutzung-von-forever-young-verbieten](https://www.spiegel.de/kultur/musik/alphaville-will-afd-die-nutzung-von-forever-young-verbieten-a-df62e5d1-e740-44d8-8916-20447b7ff1ea#ref=rss)
-### wahlkampf
-
-* [https://www.spiegel.de/kultur/musik/alphaville-will-afd-die-nutzung-von-forever-young-verbieten](https://www.spiegel.de/kultur/musik/alphaville-will-afd-die-nutzung-von-forever-young-verbieten-a-df62e5d1-e740-44d8-8916-20447b7ff1ea#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/elon-musk-politikberater-nennt-ihn-wertvollsten-wahlkampfhelfer-fuer-die-afd](https://www.spiegel.de/politik/deutschland/elon-musk-politikberater-nennt-ihn-wertvollsten-wahlkampfhelfer-fuer-die-afd-a-a32a7541-95ac-4927-9521-08ad32dfc763#ref=rss)
-### frankwalter
-
-* [https://www.spiegel.de/politik/deutschland/elon-musk-beschimpft-jetzt-auch-bundespraesident-frank-walter-steinmeier](https://www.spiegel.de/politik/deutschland/elon-musk-beschimpft-jetzt-auch-bundespraesident-frank-walter-steinmeier-a-6b7bd315-d4b9-4055-a5f4-4a284f7c2311#ref=rss)
-### steinmeier
-
-* [https://www.spiegel.de/politik/deutschland/elon-musk-beschimpft-jetzt-auch-bundespraesident-frank-walter-steinmeier](https://www.spiegel.de/politik/deutschland/elon-musk-beschimpft-jetzt-auch-bundespraesident-frank-walter-steinmeier-a-6b7bd315-d4b9-4055-a5f4-4a284f7c2311#ref=rss)
-### deutschlands
-
-* [https://www.spiegel.de/panorama/gesellschaft/silvester-sturmwarnung-in-teilen-deutschlands-wetterdienst-warnt-vor-raketen](https://www.spiegel.de/panorama/gesellschaft/silvester-sturmwarnung-in-teilen-deutschlands-wetterdienst-warnt-vor-raketen-a-0ed379d7-ffed-4853-8850-01d61db72929#ref=rss)
-### wetterdienst
-
-* [https://www.spiegel.de/panorama/gesellschaft/silvester-sturmwarnung-in-teilen-deutschlands-wetterdienst-warnt-vor-raketen](https://www.spiegel.de/panorama/gesellschaft/silvester-sturmwarnung-in-teilen-deutschlands-wetterdienst-warnt-vor-raketen-a-0ed379d7-ffed-4853-8850-01d61db72929#ref=rss)
-### introvertierte
-
-* [https://www.spiegel.de/psychologie/ein-party-guide-fuer-introvertierte-so-fuehlen-sie-sich-auch-auf-partys-wohl](https://www.spiegel.de/psychologie/ein-party-guide-fuer-introvertierte-so-fuehlen-sie-sich-auch-auf-partys-wohl-a-45848936-3e16-483d-90f3-9de0d494c57e#ref=rss)
-### görlitz
-
-* [https://www.spiegel.de/panorama/justiz/goerlitz-razzien-und-festnahme-nach-brutalem-angriff-auf-linkenpolitikerin](https://www.spiegel.de/panorama/justiz/goerlitz-razzien-und-festnahme-nach-brutalem-angriff-auf-linkenpolitikerin-a-f0ceff9d-4757-4994-a351-cb94f49d85ca#ref=rss)
-### wayne
-
-* [https://www.spiegel.de/sport/fussball/englischer-fussball-trainer-wayne-rooney-verlaesst-zweitligist-plymouth-argyle](https://www.spiegel.de/sport/fussball/englischer-fussball-trainer-wayne-rooney-verlaesst-zweitligist-plymouth-argyle-a-c28cfaf0-4b3f-466e-80b7-96e8cc3bbc90#ref=rss)
-### rooney
-
-* [https://www.spiegel.de/sport/fussball/englischer-fussball-trainer-wayne-rooney-verlaesst-zweitligist-plymouth-argyle](https://www.spiegel.de/sport/fussball/englischer-fussball-trainer-wayne-rooney-verlaesst-zweitligist-plymouth-argyle-a-c28cfaf0-4b3f-466e-80b7-96e8cc3bbc90#ref=rss)
-### plymouth
-
-* [https://www.spiegel.de/sport/fussball/englischer-fussball-trainer-wayne-rooney-verlaesst-zweitligist-plymouth-argyle](https://www.spiegel.de/sport/fussball/englischer-fussball-trainer-wayne-rooney-verlaesst-zweitligist-plymouth-argyle-a-c28cfaf0-4b3f-466e-80b7-96e8cc3bbc90#ref=rss)
-### argyle
-
-* [https://www.spiegel.de/sport/fussball/englischer-fussball-trainer-wayne-rooney-verlaesst-zweitligist-plymouth-argyle](https://www.spiegel.de/sport/fussball/englischer-fussball-trainer-wayne-rooney-verlaesst-zweitligist-plymouth-argyle-a-c28cfaf0-4b3f-466e-80b7-96e8cc3bbc90#ref=rss)
-### blauzungenkrankheit
-
-* [https://www.spiegel.de/karriere/landwirtschaft-blauzungenkrankheit-butterpreis-proteste-was-landwirte-fuer-2025-fordern](https://www.spiegel.de/karriere/landwirtschaft-blauzungenkrankheit-butterpreis-proteste-was-landwirte-fuer-2025-fordern-a-dfd62dde-3170-4b7c-a3dd-acec44a315ea#ref=rss)
-### butterpreis
-
-* [https://www.spiegel.de/karriere/landwirtschaft-blauzungenkrankheit-butterpreis-proteste-was-landwirte-fuer-2025-fordern](https://www.spiegel.de/karriere/landwirtschaft-blauzungenkrankheit-butterpreis-proteste-was-landwirte-fuer-2025-fordern-a-dfd62dde-3170-4b7c-a3dd-acec44a315ea#ref=rss)
-### proteste
-
-* [https://www.spiegel.de/karriere/landwirtschaft-blauzungenkrankheit-butterpreis-proteste-was-landwirte-fuer-2025-fordern](https://www.spiegel.de/karriere/landwirtschaft-blauzungenkrankheit-butterpreis-proteste-was-landwirte-fuer-2025-fordern-a-dfd62dde-3170-4b7c-a3dd-acec44a315ea#ref=rss)
-### landwirte
-
-* [https://www.spiegel.de/karriere/landwirtschaft-blauzungenkrankheit-butterpreis-proteste-was-landwirte-fuer-2025-fordern](https://www.spiegel.de/karriere/landwirtschaft-blauzungenkrankheit-butterpreis-proteste-was-landwirte-fuer-2025-fordern-a-dfd62dde-3170-4b7c-a3dd-acec44a315ea#ref=rss)
-### politikberater
-
-* [https://www.spiegel.de/politik/deutschland/elon-musk-politikberater-nennt-ihn-wertvollsten-wahlkampfhelfer-fuer-die-afd](https://www.spiegel.de/politik/deutschland/elon-musk-politikberater-nennt-ihn-wertvollsten-wahlkampfhelfer-fuer-die-afd-a-a32a7541-95ac-4927-9521-08ad32dfc763#ref=rss)
-### neue
-
-* [https://www.spiegel.de/panorama/gesellschaft/silvester-2024-auf-kiritimati-hat-das-neue-jahr-schon-begonnen](https://www.spiegel.de/panorama/gesellschaft/silvester-2024-auf-kiritimati-hat-das-neue-jahr-schon-begonnen-a-b86fd1f0-0fca-48ca-afdf-296a0293596d#ref=rss)
-### thailand
-
-* [https://www.spiegel.de/ausland/thailand-elefantenpopulation-waechst-regierung-plant-verhuetungsspritze](https://www.spiegel.de/ausland/thailand-elefantenpopulation-waechst-regierung-plant-verhuetungsspritze-a-76aa4c82-bf09-4312-929f-94bd84a171a8#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/ausland/thailand-elefantenpopulation-waechst-regierung-plant-verhuetungsspritze](https://www.spiegel.de/ausland/thailand-elefantenpopulation-waechst-regierung-plant-verhuetungsspritze-a-76aa4c82-bf09-4312-929f-94bd84a171a8#ref=rss)
 
