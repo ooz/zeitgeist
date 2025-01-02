@@ -4,324 +4,309 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### ohne
+### mehr
 
-* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-kann-ich-ohne-alkohol-spass-haben-selbstversuch-auf-einer-sober-party](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-kann-ich-ohne-alkohol-spass-haben-selbstversuch-auf-einer-sober-party-a-465f54d0-d311-4868-a36b-b5c98d571d69#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-was-bringt-ein-monat-ohne-alkohol](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-was-bringt-ein-monat-ohne-alkohol-und-wie-haelt-man-durch-a-1300451.html#ref=rss)
-* [https://www.spiegel.de/karriere/arbeitsrecht-2025-die-wichtigsten-neuerungen-fuer-beschaeftigte](https://www.spiegel.de/karriere/arbeitsrecht-2025-die-wichtigsten-neuerungen-fuer-beschaeftigte-a-0de82780-56df-4f24-a3df-66879f5b20a0#ref=rss)
-### ich
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-toedliche-vorfaelle-in-den-usa-elon-musk-gas-transitstopp](https://www.spiegel.de/politik/deutschland/news-des-tages-toedliche-vorfaelle-in-den-usa-elon-musk-gas-transitstopp-a-215ce837-e48a-447f-beff-9150d2483284#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/skispringen-andrzej-stekala-spricht-ueber-seine-homosexualitaet](https://www.spiegel.de/sport/wintersport/skispringen-andrzej-stekala-spricht-ueber-seine-homosexualitaet-a-1be139ce-79ed-4650-848d-750e6cccca0a#ref=rss)
+* [https://www.spiegel.de/ausland/indien-giftmuell-in-bhopal-wird-40-jahre-nach-katastrophe-entsorgt](https://www.spiegel.de/ausland/indien-giftmuell-in-bhopal-wird-40-jahre-nach-katastrophe-entsorgt-a-720bddf7-2455-4ce2-9e19-1aa951f6090a#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/grossbritannien-neue-fussabdruecke-von-dinosauriern-entdeckt](https://www.spiegel.de/wissenschaft/natur/grossbritannien-neue-fussabdruecke-von-dinosauriern-entdeckt-a-5e30589f-55e8-46d4-8a38-4349e03d3328#ref=rss)
+* [https://www.spiegel.de/auto/norwegen-verbrenner-aus-ab-neujahr-elektroauto-vordenker-erklaert-wie-es-dazu-kam](https://www.spiegel.de/auto/norwegen-verbrenner-aus-ab-neujahr-elektroauto-vordenker-erklaert-wie-es-dazu-kam-a-9cc8ed88-5aa8-456b-a476-a5933a587efc#ref=rss)
+* [https://www.spiegel.de/ausland/china-verhaengt-sanktionen-gegen-us-ruestungsindustrie](https://www.spiegel.de/ausland/china-verhaengt-sanktionen-gegen-us-ruestungsindustrie-a-658f7f46-e114-4b4b-9060-5c3962180458#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-experte-ueber-energiestreit-mit-der-slowakei-ficos-drohungen-sind-lachhaft](https://www.spiegel.de/ausland/ukraine-experte-ueber-energiestreit-mit-der-slowakei-ficos-drohungen-sind-lachhaft-a-f2403a26-9940-4a89-913c-ba271321f30f#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-kann-ich-ohne-alkohol-spass-haben-selbstversuch-auf-einer-sober-party](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-kann-ich-ohne-alkohol-spass-haben-selbstversuch-auf-einer-sober-party-a-465f54d0-d311-4868-a36b-b5c98d571d69#ref=rss)
-* [https://www.spiegel.de/kultur/tv/neue-wdr-intendantin-katrin-vernau-ich-haette-das-duell-mit-hoecke-gerne-bei-uns-gesehen](https://www.spiegel.de/kultur/tv/neue-wdr-intendantin-katrin-vernau-ich-haette-das-duell-mit-hoecke-gerne-bei-uns-gesehen-a-fd93286d-65f1-4262-a832-65e1b12a93d6#ref=rss)
-### alkohol
+* [https://www.spiegel.de/ausland/ukraine-schwimm-drohne-holt-russischen-helikopter-vom-himmel-kyjiws-neueste-tueftelei](https://www.spiegel.de/ausland/ukraine-schwimm-drohne-holt-russischen-helikopter-vom-himmel-kyjiws-neueste-tueftelei-a-842a1520-a014-4a5f-8168-9ab92eac4cd8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-toedliche-vorfaelle-in-den-usa-elon-musk-gas-transitstopp](https://www.spiegel.de/politik/deutschland/news-des-tages-toedliche-vorfaelle-in-den-usa-elon-musk-gas-transitstopp-a-215ce837-e48a-447f-beff-9150d2483284#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-experte-ueber-energiestreit-mit-der-slowakei-ficos-drohungen-sind-lachhaft](https://www.spiegel.de/ausland/ukraine-experte-ueber-energiestreit-mit-der-slowakei-ficos-drohungen-sind-lachhaft-a-f2403a26-9940-4a89-913c-ba271321f30f#ref=rss)
+### tesla
 
-* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-kann-ich-ohne-alkohol-spass-haben-selbstversuch-auf-einer-sober-party](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-kann-ich-ohne-alkohol-spass-haben-selbstversuch-auf-einer-sober-party-a-465f54d0-d311-4868-a36b-b5c98d571d69#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-und-mindful-drinking-mit-diesen-tipps-gelingt-es-weniger-zu-trinken](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-und-mindful-drinking-mit-diesen-tipps-gelingt-es-weniger-zu-trinken-a-d45e5264-dab8-4931-97a7-b4303ac5844f#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-was-bringt-ein-monat-ohne-alkohol](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-was-bringt-ein-monat-ohne-alkohol-und-wie-haelt-man-durch-a-1300451.html#ref=rss)
-### monat
+* [https://www.spiegel.de/ausland/las-vegas-fahrer-des-explodierten-tesla-cybertrucks-war-aktiver-elite-soldat](https://www.spiegel.de/ausland/las-vegas-fahrer-des-explodierten-tesla-cybertrucks-war-aktiver-elite-soldat-a-8f00ff62-4ae8-40f6-baed-f39b579c2f7e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/tesla-us-autobauer-erreicht-auslieferungsziel-2024-nicht](https://www.spiegel.de/wirtschaft/tesla-us-autobauer-erreicht-auslieferungsziel-2024-nicht-a-d5447c0d-a974-4de5-8fa3-b28933cf737b#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/gesundheit/ernaehrung/veganuary-ein-monat-vegan-ernaehren-was-es-bringt-und-worauf-man-achten-sollte](https://www.spiegel.de/gesundheit/ernaehrung/veganuary-ein-monat-vegan-ernaehren-was-es-bringt-und-worauf-man-achten-sollte-a-75568374-c528-46ca-81d0-c619056f50be#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-was-bringt-ein-monat-ohne-alkohol](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-was-bringt-ein-monat-ohne-alkohol-und-wie-haelt-man-durch-a-1300451.html#ref=rss)
-* [https://www.spiegel.de/familie/neujahr-2025-zwoelf-familienfreundliche-vorsaetze-inklusive-soundtrack](https://www.spiegel.de/familie/neujahr-2025-zwoelf-familienfreundliche-vorsaetze-inklusive-soundtrack-a-c7026a9a-0389-43e4-b948-1048cec946de#ref=rss)
-### 2025
+* [https://www.spiegel.de/ausland/ukraine-schwimm-drohne-holt-russischen-helikopter-vom-himmel-kyjiws-neueste-tueftelei](https://www.spiegel.de/ausland/ukraine-schwimm-drohne-holt-russischen-helikopter-vom-himmel-kyjiws-neueste-tueftelei-a-842a1520-a014-4a5f-8168-9ab92eac4cd8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-toedliche-vorfaelle-in-den-usa-elon-musk-gas-transitstopp](https://www.spiegel.de/politik/deutschland/news-des-tages-toedliche-vorfaelle-in-den-usa-elon-musk-gas-transitstopp-a-215ce837-e48a-447f-beff-9150d2483284#ref=rss)
+* [https://www.spiegel.de/panorama/leute/diplo-gesteht-lsd-trip-in-liveshow-ralph-fiennes-gibt-sich-demure-waehrend-cnn-silvester-spezial](https://www.spiegel.de/panorama/leute/diplo-gesteht-lsd-trip-in-liveshow-ralph-fiennes-gibt-sich-demure-waehrend-cnn-silvester-spezial-a-f300035a-3094-483a-b50d-440c88a9f1eb#ref=rss)
+### unter
 
-* [https://www.spiegel.de/familie/neujahr-2025-zwoelf-familienfreundliche-vorsaetze-inklusive-soundtrack](https://www.spiegel.de/familie/neujahr-2025-zwoelf-familienfreundliche-vorsaetze-inklusive-soundtrack-a-c7026a9a-0389-43e4-b948-1048cec946de#ref=rss)
-* [https://www.spiegel.de/karriere/arbeitsrecht-2025-die-wichtigsten-neuerungen-fuer-beschaeftigte](https://www.spiegel.de/karriere/arbeitsrecht-2025-die-wichtigsten-neuerungen-fuer-beschaeftigte-a-0de82780-56df-4f24-a3df-66879f5b20a0#ref=rss)
-### new
-
-* [https://www.spiegel.de/ausland/new-orleans-gouverneur-von-louisiana-ruft-notstand-aus](https://www.spiegel.de/ausland/new-orleans-gouverneur-von-louisiana-ruft-notstand-aus-a-d36b1509-5675-4d5f-beaa-63234be8cc0b#ref=rss)
-* [https://www.spiegel.de/familie/neujahr-2025-zwoelf-familienfreundliche-vorsaetze-inklusive-soundtrack](https://www.spiegel.de/familie/neujahr-2025-zwoelf-familienfreundliche-vorsaetze-inklusive-soundtrack-a-c7026a9a-0389-43e4-b948-1048cec946de#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/csu-politiker-ehemaliger-bundesbauminister-oscar-schneider-ist-tot](https://www.spiegel.de/politik/deutschland/csu-politiker-ehemaliger-bundesbauminister-oscar-schneider-ist-tot-a-08ad885a-5121-4ce5-8910-ad15ad9b1b66#ref=rss)
+* [https://www.spiegel.de/panorama/simbabwe-achtjaehriger-ueberlebt-fuenf-tage-unter-loewen-und-elefanten-im-wildpark](https://www.spiegel.de/panorama/simbabwe-achtjaehriger-ueberlebt-fuenf-tage-unter-loewen-und-elefanten-im-wildpark-a-c47a533e-9dd1-4829-bce1-48b5ff6d4634#ref=rss)
+* [https://www.spiegel.de/ausland/las-vegas-fahrer-des-explodierten-tesla-cybertrucks-war-aktiver-elite-soldat](https://www.spiegel.de/ausland/las-vegas-fahrer-des-explodierten-tesla-cybertrucks-war-aktiver-elite-soldat-a-8f00ff62-4ae8-40f6-baed-f39b579c2f7e#ref=rss)
 ### jahren
 
-* [https://www.spiegel.de/sport/fussball/nachruf-auf-torwart-wolfgang-teddy-de-beer-von-borussia-dortmund-ein-borusse](https://www.spiegel.de/sport/fussball/nachruf-auf-torwart-wolfgang-teddy-de-beer-von-borussia-dortmund-ein-borusse-a-7c2b7c34-6188-442c-8313-371384ed22f4#ref=rss)
-* [https://www.spiegel.de/ausland/russischer-meinungsforscher-lew-gudkow-zum-ukrainekrieg-die-russen-glauben-dass-die-ukraine-kapitulieren-sollte](https://www.spiegel.de/ausland/russischer-meinungsforscher-lew-gudkow-zum-ukrainekrieg-die-russen-glauben-dass-die-ukraine-kapitulieren-sollte-a-14fad9ee-e7c6-44a5-843e-39d9e39674bc#ref=rss)
-* [https://www.spiegel.de/panorama/leute/katzenfrau-jocelyne-wildenstein-mit-79-jahren-gestorben](https://www.spiegel.de/panorama/leute/katzenfrau-jocelyne-wildenstein-mit-79-jahren-gestorben-a-ff631a4f-149e-4ce6-9bb5-f479336636aa#ref=rss)
-### neue
-
-* [https://www.spiegel.de/ausland/israel-gaza-konflikt-palaestinenser-klagen-ueber-tote-bei-angriff-in-humanitaerer-zone-in-gaza](https://www.spiegel.de/ausland/israel-gaza-konflikt-palaestinenser-klagen-ueber-tote-bei-angriff-in-humanitaerer-zone-in-gaza-a-b50429d6-8c7d-48e9-9851-93f10773acb8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/zahl-der-erwerbstaetigen-in-deutschland-auf-rekord-gestiegen](https://www.spiegel.de/wirtschaft/zahl-der-erwerbstaetigen-in-deutschland-auf-rekord-gestiegen-a-fdb31e7e-aad5-4f17-9131-8b748b94c674#ref=rss)
-* [https://www.spiegel.de/kultur/tv/neue-wdr-intendantin-katrin-vernau-ich-haette-das-duell-mit-hoecke-gerne-bei-uns-gesehen](https://www.spiegel.de/kultur/tv/neue-wdr-intendantin-katrin-vernau-ich-haette-das-duell-mit-hoecke-gerne-bei-uns-gesehen-a-fd93286d-65f1-4262-a832-65e1b12a93d6#ref=rss)
-### ukrainekrieg
-
-* [https://www.spiegel.de/ausland/russischer-meinungsforscher-lew-gudkow-zum-ukrainekrieg-die-russen-glauben-dass-die-ukraine-kapitulieren-sollte](https://www.spiegel.de/ausland/russischer-meinungsforscher-lew-gudkow-zum-ukrainekrieg-die-russen-glauben-dass-die-ukraine-kapitulieren-sollte-a-14fad9ee-e7c6-44a5-843e-39d9e39674bc#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-kritik-an-armeefuehrung-wegen-desertion-und-mangelhafter-organisation](https://www.spiegel.de/ausland/ukraine-krieg-kritik-an-armeefuehrung-wegen-desertion-und-mangelhafter-organisation-a-6debaf13-531c-49dd-b5b5-e4c9ab32c395#ref=rss)
-### sollte
-
-* [https://www.spiegel.de/ausland/russischer-meinungsforscher-lew-gudkow-zum-ukrainekrieg-die-russen-glauben-dass-die-ukraine-kapitulieren-sollte](https://www.spiegel.de/ausland/russischer-meinungsforscher-lew-gudkow-zum-ukrainekrieg-die-russen-glauben-dass-die-ukraine-kapitulieren-sollte-a-14fad9ee-e7c6-44a5-843e-39d9e39674bc#ref=rss)
-* [https://www.spiegel.de/start/geschenke-essen-reisen-was-sollte-man-sich-von-den-eltern-finanzieren-lassen](https://www.spiegel.de/start/geschenke-essen-reisen-was-sollte-man-sich-von-den-eltern-finanzieren-lassen-a-10089b9b-bd41-4966-80d1-e0c3ed8ea607#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung/veganuary-ein-monat-vegan-ernaehren-was-es-bringt-und-worauf-man-achten-sollte](https://www.spiegel.de/gesundheit/ernaehrung/veganuary-ein-monat-vegan-ernaehren-was-es-bringt-und-worauf-man-achten-sollte-a-75568374-c528-46ca-81d0-c619056f50be#ref=rss)
-### jeden
-
-* [https://www.spiegel.de/ausland/russischer-meinungsforscher-lew-gudkow-zum-ukrainekrieg-die-russen-glauben-dass-die-ukraine-kapitulieren-sollte](https://www.spiegel.de/ausland/russischer-meinungsforscher-lew-gudkow-zum-ukrainekrieg-die-russen-glauben-dass-die-ukraine-kapitulieren-sollte-a-14fad9ee-e7c6-44a5-843e-39d9e39674bc#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-und-mindful-drinking-mit-diesen-tipps-gelingt-es-weniger-zu-trinken](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-und-mindful-drinking-mit-diesen-tipps-gelingt-es-weniger-zu-trinken-a-d45e5264-dab8-4931-97a7-b4303ac5844f#ref=rss)
-* [https://www.spiegel.de/familie/neujahr-2025-zwoelf-familienfreundliche-vorsaetze-inklusive-soundtrack](https://www.spiegel.de/familie/neujahr-2025-zwoelf-familienfreundliche-vorsaetze-inklusive-soundtrack-a-c7026a9a-0389-43e4-b948-1048cec946de#ref=rss)
-### dry
-
-* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-kann-ich-ohne-alkohol-spass-haben-selbstversuch-auf-einer-sober-party](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-kann-ich-ohne-alkohol-spass-haben-selbstversuch-auf-einer-sober-party-a-465f54d0-d311-4868-a36b-b5c98d571d69#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-und-mindful-drinking-mit-diesen-tipps-gelingt-es-weniger-zu-trinken](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-und-mindful-drinking-mit-diesen-tipps-gelingt-es-weniger-zu-trinken-a-d45e5264-dab8-4931-97a7-b4303ac5844f#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-was-bringt-ein-monat-ohne-alkohol](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-was-bringt-ein-monat-ohne-alkohol-und-wie-haelt-man-durch-a-1300451.html#ref=rss)
-### january
-
-* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-kann-ich-ohne-alkohol-spass-haben-selbstversuch-auf-einer-sober-party](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-kann-ich-ohne-alkohol-spass-haben-selbstversuch-auf-einer-sober-party-a-465f54d0-d311-4868-a36b-b5c98d571d69#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-und-mindful-drinking-mit-diesen-tipps-gelingt-es-weniger-zu-trinken](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-und-mindful-drinking-mit-diesen-tipps-gelingt-es-weniger-zu-trinken-a-d45e5264-dab8-4931-97a7-b4303ac5844f#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-was-bringt-ein-monat-ohne-alkohol](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-was-bringt-ein-monat-ohne-alkohol-und-wie-haelt-man-durch-a-1300451.html#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/gesundheit/ernaehrung/veganuary-ein-monat-vegan-ernaehren-was-es-bringt-und-worauf-man-achten-sollte](https://www.spiegel.de/gesundheit/ernaehrung/veganuary-ein-monat-vegan-ernaehren-was-es-bringt-und-worauf-man-achten-sollte-a-75568374-c528-46ca-81d0-c619056f50be#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-und-mindful-drinking-mit-diesen-tipps-gelingt-es-weniger-zu-trinken](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-und-mindful-drinking-mit-diesen-tipps-gelingt-es-weniger-zu-trinken-a-d45e5264-dab8-4931-97a7-b4303ac5844f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/fruehere-staatsanwaeltin-anne-brorhilker-haelt-cum-ex-betrug-fuer-weiterhin-moeglich](https://www.spiegel.de/wirtschaft/fruehere-staatsanwaeltin-anne-brorhilker-haelt-cum-ex-betrug-fuer-weiterhin-moeglich-a-dda73d63-dd62-4293-8a84-58a50e1d9561#ref=rss)
-### carlsen
-
-* [https://www.spiegel.de/sport/schach-aussergewoehnliches-finale-magnus-carlsen-widerspricht-betrugsvorwuerfen](https://www.spiegel.de/sport/schach-aussergewoehnliches-finale-magnus-carlsen-widerspricht-betrugsvorwuerfen-a-98124dd1-97e5-4409-bd5c-5a31b57e3b32#ref=rss)
-### schäfer
-
-* [https://www.spiegel.de/politik/deutschland/fdp-austritt-helmut-schaefer-wirft-christian-lindner-fuehrungsfehler-vor](https://www.spiegel.de/politik/deutschland/fdp-austritt-helmut-schaefer-wirft-christian-lindner-fuehrungsfehler-vor-a-0b138bf0-475e-4409-9f51-7c49f7a9cc09#ref=rss)
-### wirft
-
-* [https://www.spiegel.de/politik/deutschland/fdp-austritt-helmut-schaefer-wirft-christian-lindner-fuehrungsfehler-vor](https://www.spiegel.de/politik/deutschland/fdp-austritt-helmut-schaefer-wirft-christian-lindner-fuehrungsfehler-vor-a-0b138bf0-475e-4409-9f51-7c49f7a9cc09#ref=rss)
-* [https://www.spiegel.de/wirtschaft/diw-chef-fratzscher-wirft-parteien-unlautere-wahlversprechen-vor](https://www.spiegel.de/wirtschaft/diw-chef-fratzscher-wirft-parteien-unlautere-wahlversprechen-vor-a-f0bff1fc-458a-4597-beb9-cae2a476ae7c#ref=rss)
-### erbe
-
-* [https://www.spiegel.de/politik/deutschland/fdp-austritt-helmut-schaefer-wirft-christian-lindner-fuehrungsfehler-vor](https://www.spiegel.de/politik/deutschland/fdp-austritt-helmut-schaefer-wirft-christian-lindner-fuehrungsfehler-vor-a-0b138bf0-475e-4409-9f51-7c49f7a9cc09#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/weltraumschrott-forscher-sehen-darin-kulturelles-erbe](https://www.spiegel.de/wissenschaft/weltall/weltraumschrott-forscher-sehen-darin-kulturelles-erbe-a-4cf47faa-9bdf-40f5-8f12-bd9f1bddceeb#ref=rss)
-### orleans
-
-* [https://www.spiegel.de/ausland/new-orleans-gouverneur-von-louisiana-ruft-notstand-aus](https://www.spiegel.de/ausland/new-orleans-gouverneur-von-louisiana-ruft-notstand-aus-a-d36b1509-5675-4d5f-beaa-63234be8cc0b#ref=rss)
-### gouverneur
-
-* [https://www.spiegel.de/ausland/new-orleans-gouverneur-von-louisiana-ruft-notstand-aus](https://www.spiegel.de/ausland/new-orleans-gouverneur-von-louisiana-ruft-notstand-aus-a-d36b1509-5675-4d5f-beaa-63234be8cc0b#ref=rss)
-### cyprien
-
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-cyprien-sarrazin-verlaesst-nach-sturz-die-intensivstation](https://www.spiegel.de/sport/wintersport/ski-alpin-cyprien-sarrazin-verlaesst-nach-sturz-die-intensivstation-a-2aba2cc9-b486-4af2-83c7-61e04b877efb#ref=rss)
-### sarrazin
-
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-cyprien-sarrazin-verlaesst-nach-sturz-die-intensivstation](https://www.spiegel.de/sport/wintersport/ski-alpin-cyprien-sarrazin-verlaesst-nach-sturz-die-intensivstation-a-2aba2cc9-b486-4af2-83c7-61e04b877efb#ref=rss)
-### wolfgang
-
-* [https://www.spiegel.de/sport/fussball/nachruf-auf-torwart-wolfgang-teddy-de-beer-von-borussia-dortmund-ein-borusse](https://www.spiegel.de/sport/fussball/nachruf-auf-torwart-wolfgang-teddy-de-beer-von-borussia-dortmund-ein-borusse-a-7c2b7c34-6188-442c-8313-371384ed22f4#ref=rss)
-### teddy
-
-* [https://www.spiegel.de/sport/fussball/nachruf-auf-torwart-wolfgang-teddy-de-beer-von-borussia-dortmund-ein-borusse](https://www.spiegel.de/sport/fussball/nachruf-auf-torwart-wolfgang-teddy-de-beer-von-borussia-dortmund-ein-borusse-a-7c2b7c34-6188-442c-8313-371384ed22f4#ref=rss)
-### de
-
-* [https://www.spiegel.de/sport/fussball/nachruf-auf-torwart-wolfgang-teddy-de-beer-von-borussia-dortmund-ein-borusse](https://www.spiegel.de/sport/fussball/nachruf-auf-torwart-wolfgang-teddy-de-beer-von-borussia-dortmund-ein-borusse-a-7c2b7c34-6188-442c-8313-371384ed22f4#ref=rss)
-### beer
-
-* [https://www.spiegel.de/sport/fussball/nachruf-auf-torwart-wolfgang-teddy-de-beer-von-borussia-dortmund-ein-borusse](https://www.spiegel.de/sport/fussball/nachruf-auf-torwart-wolfgang-teddy-de-beer-von-borussia-dortmund-ein-borusse-a-7c2b7c34-6188-442c-8313-371384ed22f4#ref=rss)
-### festen
-
-* [https://www.spiegel.de/sport/fussball/nachruf-auf-torwart-wolfgang-teddy-de-beer-von-borussia-dortmund-ein-borusse](https://www.spiegel.de/sport/fussball/nachruf-auf-torwart-wolfgang-teddy-de-beer-von-borussia-dortmund-ein-borusse-a-7c2b7c34-6188-442c-8313-371384ed22f4#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-was-bringt-ein-monat-ohne-alkohol](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-was-bringt-ein-monat-ohne-alkohol-und-wie-haelt-man-durch-a-1300451.html#ref=rss)
-### fans
-
-* [https://www.spiegel.de/sport/fussball/nachruf-auf-torwart-wolfgang-teddy-de-beer-von-borussia-dortmund-ein-borusse](https://www.spiegel.de/sport/fussball/nachruf-auf-torwart-wolfgang-teddy-de-beer-von-borussia-dortmund-ein-borusse-a-7c2b7c34-6188-442c-8313-371384ed22f4#ref=rss)
-* [https://www.spiegel.de/panorama/leute/robbie-williams-ueberrascht-mit-gratis-konzert-in-melbourne](https://www.spiegel.de/panorama/leute/robbie-williams-ueberrascht-mit-gratis-konzert-in-melbourne-a-185e0e99-751a-4370-ba28-fde36f6731cd#ref=rss)
-### diesen
-
-* [https://www.spiegel.de/sport/fussball/nachruf-auf-torwart-wolfgang-teddy-de-beer-von-borussia-dortmund-ein-borusse](https://www.spiegel.de/sport/fussball/nachruf-auf-torwart-wolfgang-teddy-de-beer-von-borussia-dortmund-ein-borusse-a-7c2b7c34-6188-442c-8313-371384ed22f4#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-und-mindful-drinking-mit-diesen-tipps-gelingt-es-weniger-zu-trinken](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-und-mindful-drinking-mit-diesen-tipps-gelingt-es-weniger-zu-trinken-a-d45e5264-dab8-4931-97a7-b4303ac5844f#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/israel-gaza-konflikt-palaestinenser-klagen-ueber-tote-bei-angriff-in-humanitaerer-zone-in-gaza](https://www.spiegel.de/ausland/israel-gaza-konflikt-palaestinenser-klagen-ueber-tote-bei-angriff-in-humanitaerer-zone-in-gaza-a-b50429d6-8c7d-48e9-9851-93f10773acb8#ref=rss)
-### kritik
-
-* [https://www.spiegel.de/ausland/israel-gaza-konflikt-palaestinenser-klagen-ueber-tote-bei-angriff-in-humanitaerer-zone-in-gaza](https://www.spiegel.de/ausland/israel-gaza-konflikt-palaestinenser-klagen-ueber-tote-bei-angriff-in-humanitaerer-zone-in-gaza-a-b50429d6-8c7d-48e9-9851-93f10773acb8#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-kritik-an-armeefuehrung-wegen-desertion-und-mangelhafter-organisation](https://www.spiegel.de/ausland/ukraine-krieg-kritik-an-armeefuehrung-wegen-desertion-und-mangelhafter-organisation-a-6debaf13-531c-49dd-b5b5-e4c9ab32c395#ref=rss)
-### lew
-
-* [https://www.spiegel.de/ausland/russischer-meinungsforscher-lew-gudkow-zum-ukrainekrieg-die-russen-glauben-dass-die-ukraine-kapitulieren-sollte](https://www.spiegel.de/ausland/russischer-meinungsforscher-lew-gudkow-zum-ukrainekrieg-die-russen-glauben-dass-die-ukraine-kapitulieren-sollte-a-14fad9ee-e7c6-44a5-843e-39d9e39674bc#ref=rss)
-### gudkow
-
-* [https://www.spiegel.de/ausland/russischer-meinungsforscher-lew-gudkow-zum-ukrainekrieg-die-russen-glauben-dass-die-ukraine-kapitulieren-sollte](https://www.spiegel.de/ausland/russischer-meinungsforscher-lew-gudkow-zum-ukrainekrieg-die-russen-glauben-dass-die-ukraine-kapitulieren-sollte-a-14fad9ee-e7c6-44a5-843e-39d9e39674bc#ref=rss)
-### russen
-
-* [https://www.spiegel.de/ausland/russischer-meinungsforscher-lew-gudkow-zum-ukrainekrieg-die-russen-glauben-dass-die-ukraine-kapitulieren-sollte](https://www.spiegel.de/ausland/russischer-meinungsforscher-lew-gudkow-zum-ukrainekrieg-die-russen-glauben-dass-die-ukraine-kapitulieren-sollte-a-14fad9ee-e7c6-44a5-843e-39d9e39674bc#ref=rss)
-### glauben
-
-* [https://www.spiegel.de/ausland/russischer-meinungsforscher-lew-gudkow-zum-ukrainekrieg-die-russen-glauben-dass-die-ukraine-kapitulieren-sollte](https://www.spiegel.de/ausland/russischer-meinungsforscher-lew-gudkow-zum-ukrainekrieg-die-russen-glauben-dass-die-ukraine-kapitulieren-sollte-a-14fad9ee-e7c6-44a5-843e-39d9e39674bc#ref=rss)
-* [https://www.spiegel.de/familie/neujahr-2025-zwoelf-familienfreundliche-vorsaetze-inklusive-soundtrack](https://www.spiegel.de/familie/neujahr-2025-zwoelf-familienfreundliche-vorsaetze-inklusive-soundtrack-a-c7026a9a-0389-43e4-b948-1048cec946de#ref=rss)
-### fast
-
-* [https://www.spiegel.de/ausland/russischer-meinungsforscher-lew-gudkow-zum-ukrainekrieg-die-russen-glauben-dass-die-ukraine-kapitulieren-sollte](https://www.spiegel.de/ausland/russischer-meinungsforscher-lew-gudkow-zum-ukrainekrieg-die-russen-glauben-dass-die-ukraine-kapitulieren-sollte-a-14fad9ee-e7c6-44a5-843e-39d9e39674bc#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-und-mindful-drinking-mit-diesen-tipps-gelingt-es-weniger-zu-trinken](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-und-mindful-drinking-mit-diesen-tipps-gelingt-es-weniger-zu-trinken-a-d45e5264-dab8-4931-97a7-b4303ac5844f#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/ausland/russischer-meinungsforscher-lew-gudkow-zum-ukrainekrieg-die-russen-glauben-dass-die-ukraine-kapitulieren-sollte](https://www.spiegel.de/ausland/russischer-meinungsforscher-lew-gudkow-zum-ukrainekrieg-die-russen-glauben-dass-die-ukraine-kapitulieren-sollte-a-14fad9ee-e7c6-44a5-843e-39d9e39674bc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/zahl-der-erwerbstaetigen-in-deutschland-auf-rekord-gestiegen](https://www.spiegel.de/wirtschaft/zahl-der-erwerbstaetigen-in-deutschland-auf-rekord-gestiegen-a-fdb31e7e-aad5-4f17-9131-8b748b94c674#ref=rss)
-### weltraumschrott
-
-* [https://www.spiegel.de/wissenschaft/weltall/weltraumschrott-forscher-sehen-darin-kulturelles-erbe](https://www.spiegel.de/wissenschaft/weltall/weltraumschrott-forscher-sehen-darin-kulturelles-erbe-a-4cf47faa-9bdf-40f5-8f12-bd9f1bddceeb#ref=rss)
-### oft
-
-* [https://www.spiegel.de/wissenschaft/weltall/weltraumschrott-forscher-sehen-darin-kulturelles-erbe](https://www.spiegel.de/wissenschaft/weltall/weltraumschrott-forscher-sehen-darin-kulturelles-erbe-a-4cf47faa-9bdf-40f5-8f12-bd9f1bddceeb#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-kann-ich-ohne-alkohol-spass-haben-selbstversuch-auf-einer-sober-party](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-kann-ich-ohne-alkohol-spass-haben-selbstversuch-auf-einer-sober-party-a-465f54d0-d311-4868-a36b-b5c98d571d69#ref=rss)
-### essen
-
-* [https://www.spiegel.de/start/geschenke-essen-reisen-was-sollte-man-sich-von-den-eltern-finanzieren-lassen](https://www.spiegel.de/start/geschenke-essen-reisen-was-sollte-man-sich-von-den-eltern-finanzieren-lassen-a-10089b9b-bd41-4966-80d1-e0c3ed8ea607#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-und-mindful-drinking-mit-diesen-tipps-gelingt-es-weniger-zu-trinken](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-und-mindful-drinking-mit-diesen-tipps-gelingt-es-weniger-zu-trinken-a-d45e5264-dab8-4931-97a7-b4303ac5844f#ref=rss)
-### eltern
-
-* [https://www.spiegel.de/start/geschenke-essen-reisen-was-sollte-man-sich-von-den-eltern-finanzieren-lassen](https://www.spiegel.de/start/geschenke-essen-reisen-was-sollte-man-sich-von-den-eltern-finanzieren-lassen-a-10089b9b-bd41-4966-80d1-e0c3ed8ea607#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/start/geschenke-essen-reisen-was-sollte-man-sich-von-den-eltern-finanzieren-lassen](https://www.spiegel.de/start/geschenke-essen-reisen-was-sollte-man-sich-von-den-eltern-finanzieren-lassen-a-10089b9b-bd41-4966-80d1-e0c3ed8ea607#ref=rss)
-* [https://www.spiegel.de/wirtschaft/gleichstellung-frauenanteil-in-dax-vorstaenden-erreicht-ein-viertel](https://www.spiegel.de/wirtschaft/gleichstellung-frauenanteil-in-dax-vorstaenden-erreicht-ein-viertel-a-9893451c-f36a-4edd-bd9e-f551bd3bc900#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/start/geschenke-essen-reisen-was-sollte-man-sich-von-den-eltern-finanzieren-lassen](https://www.spiegel.de/start/geschenke-essen-reisen-was-sollte-man-sich-von-den-eltern-finanzieren-lassen-a-10089b9b-bd41-4966-80d1-e0c3ed8ea607#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung/veganuary-ein-monat-vegan-ernaehren-was-es-bringt-und-worauf-man-achten-sollte](https://www.spiegel.de/gesundheit/ernaehrung/veganuary-ein-monat-vegan-ernaehren-was-es-bringt-und-worauf-man-achten-sollte-a-75568374-c528-46ca-81d0-c619056f50be#ref=rss)
-### organisation
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-kritik-an-armeefuehrung-wegen-desertion-und-mangelhafter-organisation](https://www.spiegel.de/ausland/ukraine-krieg-kritik-an-armeefuehrung-wegen-desertion-und-mangelhafter-organisation-a-6debaf13-531c-49dd-b5b5-e4c9ab32c395#ref=rss)
-### zahl
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-kritik-an-armeefuehrung-wegen-desertion-und-mangelhafter-organisation](https://www.spiegel.de/ausland/ukraine-krieg-kritik-an-armeefuehrung-wegen-desertion-und-mangelhafter-organisation-a-6debaf13-531c-49dd-b5b5-e4c9ab32c395#ref=rss)
-* [https://www.spiegel.de/wirtschaft/zahl-der-erwerbstaetigen-in-deutschland-auf-rekord-gestiegen](https://www.spiegel.de/wirtschaft/zahl-der-erwerbstaetigen-in-deutschland-auf-rekord-gestiegen-a-fdb31e7e-aad5-4f17-9131-8b748b94c674#ref=rss)
-### bringt
-
-* [https://www.spiegel.de/gesundheit/ernaehrung/veganuary-ein-monat-vegan-ernaehren-was-es-bringt-und-worauf-man-achten-sollte](https://www.spiegel.de/gesundheit/ernaehrung/veganuary-ein-monat-vegan-ernaehren-was-es-bringt-und-worauf-man-achten-sollte-a-75568374-c528-46ca-81d0-c619056f50be#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-was-bringt-ein-monat-ohne-alkohol](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-was-bringt-ein-monat-ohne-alkohol-und-wie-haelt-man-durch-a-1300451.html#ref=rss)
-### achten
-
-* [https://www.spiegel.de/gesundheit/ernaehrung/veganuary-ein-monat-vegan-ernaehren-was-es-bringt-und-worauf-man-achten-sollte](https://www.spiegel.de/gesundheit/ernaehrung/veganuary-ein-monat-vegan-ernaehren-was-es-bringt-und-worauf-man-achten-sollte-a-75568374-c528-46ca-81d0-c619056f50be#ref=rss)
-### januar
-
-* [https://www.spiegel.de/gesundheit/ernaehrung/veganuary-ein-monat-vegan-ernaehren-was-es-bringt-und-worauf-man-achten-sollte](https://www.spiegel.de/gesundheit/ernaehrung/veganuary-ein-monat-vegan-ernaehren-was-es-bringt-und-worauf-man-achten-sollte-a-75568374-c528-46ca-81d0-c619056f50be#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-was-bringt-ein-monat-ohne-alkohol](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-was-bringt-ein-monat-ohne-alkohol-und-wie-haelt-man-durch-a-1300451.html#ref=rss)
-### viele
-
-* [https://www.spiegel.de/gesundheit/ernaehrung/veganuary-ein-monat-vegan-ernaehren-was-es-bringt-und-worauf-man-achten-sollte](https://www.spiegel.de/gesundheit/ernaehrung/veganuary-ein-monat-vegan-ernaehren-was-es-bringt-und-worauf-man-achten-sollte-a-75568374-c528-46ca-81d0-c619056f50be#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-was-bringt-ein-monat-ohne-alkohol](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-was-bringt-ein-monat-ohne-alkohol-und-wie-haelt-man-durch-a-1300451.html#ref=rss)
-### magnus
-
-* [https://www.spiegel.de/sport/schach-aussergewoehnliches-finale-magnus-carlsen-widerspricht-betrugsvorwuerfen](https://www.spiegel.de/sport/schach-aussergewoehnliches-finale-magnus-carlsen-widerspricht-betrugsvorwuerfen-a-98124dd1-97e5-4409-bd5c-5a31b57e3b32#ref=rss)
-### ende
-
-* [https://www.spiegel.de/sport/schach-aussergewoehnliches-finale-magnus-carlsen-widerspricht-betrugsvorwuerfen](https://www.spiegel.de/sport/schach-aussergewoehnliches-finale-magnus-carlsen-widerspricht-betrugsvorwuerfen-a-98124dd1-97e5-4409-bd5c-5a31b57e3b32#ref=rss)
-* [https://www.spiegel.de/wirtschaft/zahl-der-erwerbstaetigen-in-deutschland-auf-rekord-gestiegen](https://www.spiegel.de/wirtschaft/zahl-der-erwerbstaetigen-in-deutschland-auf-rekord-gestiegen-a-fdb31e7e-aad5-4f17-9131-8b748b94c674#ref=rss)
-### weniger
-
-* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-und-mindful-drinking-mit-diesen-tipps-gelingt-es-weniger-zu-trinken](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-und-mindful-drinking-mit-diesen-tipps-gelingt-es-weniger-zu-trinken-a-d45e5264-dab8-4931-97a7-b4303ac5844f#ref=rss)
-### trinken
-
-* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-und-mindful-drinking-mit-diesen-tipps-gelingt-es-weniger-zu-trinken](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-und-mindful-drinking-mit-diesen-tipps-gelingt-es-weniger-zu-trinken-a-d45e5264-dab8-4931-97a7-b4303ac5844f#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-was-bringt-ein-monat-ohne-alkohol](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-was-bringt-ein-monat-ohne-alkohol-und-wie-haelt-man-durch-a-1300451.html#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/kosten-nach-scheidung-unterhalt-versicherungen-und-vermoegensaufteilung](https://www.spiegel.de/wirtschaft/service/kosten-nach-scheidung-unterhalt-versicherungen-und-vermoegensaufteilung-a-d9b18473-e84f-4d5a-83b5-159e137a8407#ref=rss)
-### erreicht
-
-* [https://www.spiegel.de/wirtschaft/zahl-der-erwerbstaetigen-in-deutschland-auf-rekord-gestiegen](https://www.spiegel.de/wirtschaft/zahl-der-erwerbstaetigen-in-deutschland-auf-rekord-gestiegen-a-fdb31e7e-aad5-4f17-9131-8b748b94c674#ref=rss)
-* [https://www.spiegel.de/wirtschaft/gleichstellung-frauenanteil-in-dax-vorstaenden-erreicht-ein-viertel](https://www.spiegel.de/wirtschaft/gleichstellung-frauenanteil-in-dax-vorstaenden-erreicht-ein-viertel-a-9893451c-f36a-4edd-bd9e-f551bd3bc900#ref=rss)
-### allerdings
-
-* [https://www.spiegel.de/wirtschaft/zahl-der-erwerbstaetigen-in-deutschland-auf-rekord-gestiegen](https://www.spiegel.de/wirtschaft/zahl-der-erwerbstaetigen-in-deutschland-auf-rekord-gestiegen-a-fdb31e7e-aad5-4f17-9131-8b748b94c674#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/inversionswetterlage-und-feuerwerk-sorgen-fuer-hohe-feinstaubwerte-in-sueddeutschland](https://www.spiegel.de/wissenschaft/mensch/inversionswetterlage-und-feuerwerk-sorgen-fuer-hohe-feinstaubwerte-in-sueddeutschland-a-f6f92d86-f6c5-4d19-88e1-68a1c4f49599#ref=rss)
-### zwölf
-
-* [https://www.spiegel.de/familie/neujahr-2025-zwoelf-familienfreundliche-vorsaetze-inklusive-soundtrack](https://www.spiegel.de/familie/neujahr-2025-zwoelf-familienfreundliche-vorsaetze-inklusive-soundtrack-a-c7026a9a-0389-43e4-b948-1048cec946de#ref=rss)
-### familienfreundliche
-
-* [https://www.spiegel.de/familie/neujahr-2025-zwoelf-familienfreundliche-vorsaetze-inklusive-soundtrack](https://www.spiegel.de/familie/neujahr-2025-zwoelf-familienfreundliche-vorsaetze-inklusive-soundtrack-a-c7026a9a-0389-43e4-b948-1048cec946de#ref=rss)
-### vorsätze
-
-* [https://www.spiegel.de/familie/neujahr-2025-zwoelf-familienfreundliche-vorsaetze-inklusive-soundtrack](https://www.spiegel.de/familie/neujahr-2025-zwoelf-familienfreundliche-vorsaetze-inklusive-soundtrack-a-c7026a9a-0389-43e4-b948-1048cec946de#ref=rss)
-### inklusive
-
-* [https://www.spiegel.de/familie/neujahr-2025-zwoelf-familienfreundliche-vorsaetze-inklusive-soundtrack](https://www.spiegel.de/familie/neujahr-2025-zwoelf-familienfreundliche-vorsaetze-inklusive-soundtrack-a-c7026a9a-0389-43e4-b948-1048cec946de#ref=rss)
-### soundtrack
-
-* [https://www.spiegel.de/familie/neujahr-2025-zwoelf-familienfreundliche-vorsaetze-inklusive-soundtrack](https://www.spiegel.de/familie/neujahr-2025-zwoelf-familienfreundliche-vorsaetze-inklusive-soundtrack-a-c7026a9a-0389-43e4-b948-1048cec946de#ref=rss)
-### zukunft
-
-* [https://www.spiegel.de/familie/neujahr-2025-zwoelf-familienfreundliche-vorsaetze-inklusive-soundtrack](https://www.spiegel.de/familie/neujahr-2025-zwoelf-familienfreundliche-vorsaetze-inklusive-soundtrack-a-c7026a9a-0389-43e4-b948-1048cec946de#ref=rss)
-* [https://www.spiegel.de/panorama/leute/robbie-williams-ueberrascht-mit-gratis-konzert-in-melbourne](https://www.spiegel.de/panorama/leute/robbie-williams-ueberrascht-mit-gratis-konzert-in-melbourne-a-185e0e99-751a-4370-ba28-fde36f6731cd#ref=rss)
-### feuerwerk
-
-* [https://www.spiegel.de/wissenschaft/mensch/inversionswetterlage-und-feuerwerk-sorgen-fuer-hohe-feinstaubwerte-in-sueddeutschland](https://www.spiegel.de/wissenschaft/mensch/inversionswetterlage-und-feuerwerk-sorgen-fuer-hohe-feinstaubwerte-in-sueddeutschland-a-f6f92d86-f6c5-4d19-88e1-68a1c4f49599#ref=rss)
-### sorgen
-
-* [https://www.spiegel.de/wissenschaft/mensch/inversionswetterlage-und-feuerwerk-sorgen-fuer-hohe-feinstaubwerte-in-sueddeutschland](https://www.spiegel.de/wissenschaft/mensch/inversionswetterlage-und-feuerwerk-sorgen-fuer-hohe-feinstaubwerte-in-sueddeutschland-a-f6f92d86-f6c5-4d19-88e1-68a1c4f49599#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/csu-will-bleiberecht-nur-noch-fuer-migranten-die-fuer-sich-selbst-sorgen-koennen](https://www.spiegel.de/politik/deutschland/csu-will-bleiberecht-nur-noch-fuer-migranten-die-fuer-sich-selbst-sorgen-koennen-a-d45a1889-6af2-45ac-87ba-0e837adfc254#ref=rss)
-### feinstaubwerte
-
-* [https://www.spiegel.de/wissenschaft/mensch/inversionswetterlage-und-feuerwerk-sorgen-fuer-hohe-feinstaubwerte-in-sueddeutschland](https://www.spiegel.de/wissenschaft/mensch/inversionswetterlage-und-feuerwerk-sorgen-fuer-hohe-feinstaubwerte-in-sueddeutschland-a-f6f92d86-f6c5-4d19-88e1-68a1c4f49599#ref=rss)
-### viertel
-
-* [https://www.spiegel.de/wirtschaft/gleichstellung-frauenanteil-in-dax-vorstaenden-erreicht-ein-viertel](https://www.spiegel.de/wirtschaft/gleichstellung-frauenanteil-in-dax-vorstaenden-erreicht-ein-viertel-a-9893451c-f36a-4edd-bd9e-f551bd3bc900#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/wirtschaft/gleichstellung-frauenanteil-in-dax-vorstaenden-erreicht-ein-viertel](https://www.spiegel.de/wirtschaft/gleichstellung-frauenanteil-in-dax-vorstaenden-erreicht-ein-viertel-a-9893451c-f36a-4edd-bd9e-f551bd3bc900#ref=rss)
-* [https://www.spiegel.de/panorama/leute/robbie-williams-ueberrascht-mit-gratis-konzert-in-melbourne](https://www.spiegel.de/panorama/leute/robbie-williams-ueberrascht-mit-gratis-konzert-in-melbourne-a-185e0e99-751a-4370-ba28-fde36f6731cd#ref=rss)
-### katrin
-
-* [https://www.spiegel.de/kultur/tv/neue-wdr-intendantin-katrin-vernau-ich-haette-das-duell-mit-hoecke-gerne-bei-uns-gesehen](https://www.spiegel.de/kultur/tv/neue-wdr-intendantin-katrin-vernau-ich-haette-das-duell-mit-hoecke-gerne-bei-uns-gesehen-a-fd93286d-65f1-4262-a832-65e1b12a93d6#ref=rss)
-### vernau
-
-* [https://www.spiegel.de/kultur/tv/neue-wdr-intendantin-katrin-vernau-ich-haette-das-duell-mit-hoecke-gerne-bei-uns-gesehen](https://www.spiegel.de/kultur/tv/neue-wdr-intendantin-katrin-vernau-ich-haette-das-duell-mit-hoecke-gerne-bei-uns-gesehen-a-fd93286d-65f1-4262-a832-65e1b12a93d6#ref=rss)
-### uns
-
-* [https://www.spiegel.de/kultur/tv/neue-wdr-intendantin-katrin-vernau-ich-haette-das-duell-mit-hoecke-gerne-bei-uns-gesehen](https://www.spiegel.de/kultur/tv/neue-wdr-intendantin-katrin-vernau-ich-haette-das-duell-mit-hoecke-gerne-bei-uns-gesehen-a-fd93286d-65f1-4262-a832-65e1b12a93d6#ref=rss)
-* [https://www.spiegel.de/karriere/arbeitsrecht-2025-die-wichtigsten-neuerungen-fuer-beschaeftigte](https://www.spiegel.de/karriere/arbeitsrecht-2025-die-wichtigsten-neuerungen-fuer-beschaeftigte-a-0de82780-56df-4f24-a3df-66879f5b20a0#ref=rss)
-### iran
-
-* [https://www.spiegel.de/kultur/narges-mohammadi-prangert-schwere-sexuelle-gewalt-in-iranischen-gefaengnissen-an](https://www.spiegel.de/kultur/narges-mohammadi-prangert-schwere-sexuelle-gewalt-in-iranischen-gefaengnissen-an-a-d8d6cd0c-bb5b-408e-add0-2bdaafd8c6c9#ref=rss)
-### narges
-
-* [https://www.spiegel.de/kultur/narges-mohammadi-prangert-schwere-sexuelle-gewalt-in-iranischen-gefaengnissen-an](https://www.spiegel.de/kultur/narges-mohammadi-prangert-schwere-sexuelle-gewalt-in-iranischen-gefaengnissen-an-a-d8d6cd0c-bb5b-408e-add0-2bdaafd8c6c9#ref=rss)
-### mohammadi
-
-* [https://www.spiegel.de/kultur/narges-mohammadi-prangert-schwere-sexuelle-gewalt-in-iranischen-gefaengnissen-an](https://www.spiegel.de/kultur/narges-mohammadi-prangert-schwere-sexuelle-gewalt-in-iranischen-gefaengnissen-an-a-d8d6cd0c-bb5b-408e-add0-2bdaafd8c6c9#ref=rss)
-### katzenfrau
-
-* [https://www.spiegel.de/panorama/leute/katzenfrau-jocelyne-wildenstein-mit-79-jahren-gestorben](https://www.spiegel.de/panorama/leute/katzenfrau-jocelyne-wildenstein-mit-79-jahren-gestorben-a-ff631a4f-149e-4ce6-9bb5-f479336636aa#ref=rss)
-### jocelyne
-
-* [https://www.spiegel.de/panorama/leute/katzenfrau-jocelyne-wildenstein-mit-79-jahren-gestorben](https://www.spiegel.de/panorama/leute/katzenfrau-jocelyne-wildenstein-mit-79-jahren-gestorben-a-ff631a4f-149e-4ce6-9bb5-f479336636aa#ref=rss)
-### wildenstein
-
-* [https://www.spiegel.de/panorama/leute/katzenfrau-jocelyne-wildenstein-mit-79-jahren-gestorben](https://www.spiegel.de/panorama/leute/katzenfrau-jocelyne-wildenstein-mit-79-jahren-gestorben-a-ff631a4f-149e-4ce6-9bb5-f479336636aa#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/csu-politiker-ehemaliger-bundesbauminister-oscar-schneider-ist-tot](https://www.spiegel.de/politik/deutschland/csu-politiker-ehemaliger-bundesbauminister-oscar-schneider-ist-tot-a-08ad885a-5121-4ce5-8910-ad15ad9b1b66#ref=rss)
+* [https://www.spiegel.de/sport/olympia/agnes-keleti-stirbt-mit-103-jahren-das-jahrhundertleben-einer-turnerin-nachruf](https://www.spiegel.de/sport/olympia/agnes-keleti-stirbt-mit-103-jahren-das-jahrhundertleben-einer-turnerin-nachruf-a-db2a0506-04d3-4dcb-9c24-3e5d7f2345d8#ref=rss)
 ### gestorben
 
-* [https://www.spiegel.de/panorama/leute/katzenfrau-jocelyne-wildenstein-mit-79-jahren-gestorben](https://www.spiegel.de/panorama/leute/katzenfrau-jocelyne-wildenstein-mit-79-jahren-gestorben-a-ff631a4f-149e-4ce6-9bb5-f479336636aa#ref=rss)
-### melbourne
+* [https://www.spiegel.de/politik/deutschland/csu-politiker-ehemaliger-bundesbauminister-oscar-schneider-ist-tot](https://www.spiegel.de/politik/deutschland/csu-politiker-ehemaliger-bundesbauminister-oscar-schneider-ist-tot-a-08ad885a-5121-4ce5-8910-ad15ad9b1b66#ref=rss)
+* [https://www.spiegel.de/ausland/indien-giftmuell-in-bhopal-wird-40-jahre-nach-katastrophe-entsorgt](https://www.spiegel.de/ausland/indien-giftmuell-in-bhopal-wird-40-jahre-nach-katastrophe-entsorgt-a-720bddf7-2455-4ce2-9e19-1aa951f6090a#ref=rss)
+* [https://www.spiegel.de/sport/olympia/agnes-keleti-stirbt-mit-103-jahren-das-jahrhundertleben-einer-turnerin-nachruf](https://www.spiegel.de/sport/olympia/agnes-keleti-stirbt-mit-103-jahren-das-jahrhundertleben-einer-turnerin-nachruf-a-db2a0506-04d3-4dcb-9c24-3e5d7f2345d8#ref=rss)
+### new
 
-* [https://www.spiegel.de/panorama/leute/robbie-williams-ueberrascht-mit-gratis-konzert-in-melbourne](https://www.spiegel.de/panorama/leute/robbie-williams-ueberrascht-mit-gratis-konzert-in-melbourne-a-185e0e99-751a-4370-ba28-fde36f6731cd#ref=rss)
-### anne
+* [https://www.spiegel.de/ausland/las-vegas-fahrer-des-explodierten-tesla-cybertrucks-war-aktiver-elite-soldat](https://www.spiegel.de/ausland/las-vegas-fahrer-des-explodierten-tesla-cybertrucks-war-aktiver-elite-soldat-a-8f00ff62-4ae8-40f6-baed-f39b579c2f7e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/new-york-city-zehn-verletzte-bei-schuessen-vor-nachtklub-in-queens](https://www.spiegel.de/panorama/justiz/new-york-city-zehn-verletzte-bei-schuessen-vor-nachtklub-in-queens-a-dcab30fa-1e22-403a-91fe-a548139e7237#ref=rss)
+### zehn
 
-* [https://www.spiegel.de/wirtschaft/fruehere-staatsanwaeltin-anne-brorhilker-haelt-cum-ex-betrug-fuer-weiterhin-moeglich](https://www.spiegel.de/wirtschaft/fruehere-staatsanwaeltin-anne-brorhilker-haelt-cum-ex-betrug-fuer-weiterhin-moeglich-a-dda73d63-dd62-4293-8a84-58a50e1d9561#ref=rss)
-### brorhilker
+* [https://www.spiegel.de/wirtschaft/strommarkt-woher-der-deutsche-strom-kommt-und-wie-viel-er-wirklich-kostet](https://www.spiegel.de/wirtschaft/strommarkt-woher-der-deutsche-strom-kommt-und-wie-viel-er-wirklich-kostet-a-76b9f9a7-bf28-4319-9416-a5ec15eb745c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/new-york-city-zehn-verletzte-bei-schuessen-vor-nachtklub-in-queens](https://www.spiegel.de/panorama/justiz/new-york-city-zehn-verletzte-bei-schuessen-vor-nachtklub-in-queens-a-dcab30fa-1e22-403a-91fe-a548139e7237#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/wirtschaft/fruehere-staatsanwaeltin-anne-brorhilker-haelt-cum-ex-betrug-fuer-weiterhin-moeglich](https://www.spiegel.de/wirtschaft/fruehere-staatsanwaeltin-anne-brorhilker-haelt-cum-ex-betrug-fuer-weiterhin-moeglich-a-dda73d63-dd62-4293-8a84-58a50e1d9561#ref=rss)
-### unterhalt
+* [https://www.spiegel.de/ausland/indien-giftmuell-in-bhopal-wird-40-jahre-nach-katastrophe-entsorgt](https://www.spiegel.de/ausland/indien-giftmuell-in-bhopal-wird-40-jahre-nach-katastrophe-entsorgt-a-720bddf7-2455-4ce2-9e19-1aa951f6090a#ref=rss)
+* [https://www.spiegel.de/start/gerichtsvollzieherin-werden-gehalt-aufgaben-gefahren](https://www.spiegel.de/start/gerichtsvollzieherin-werden-gehalt-aufgaben-gefahren-a-0742ca53-8149-4fb9-93d8-7fa6654eaaa6#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/new-york-city-zehn-verletzte-bei-schuessen-vor-nachtklub-in-queens](https://www.spiegel.de/panorama/justiz/new-york-city-zehn-verletzte-bei-schuessen-vor-nachtklub-in-queens-a-dcab30fa-1e22-403a-91fe-a548139e7237#ref=rss)
+### entdeckt
 
-* [https://www.spiegel.de/wirtschaft/service/kosten-nach-scheidung-unterhalt-versicherungen-und-vermoegensaufteilung](https://www.spiegel.de/wirtschaft/service/kosten-nach-scheidung-unterhalt-versicherungen-und-vermoegensaufteilung-a-d9b18473-e84f-4d5a-83b5-159e137a8407#ref=rss)
-### versicherungen
+* [https://www.spiegel.de/wissenschaft/natur/grossbritannien-neue-fussabdruecke-von-dinosauriern-entdeckt](https://www.spiegel.de/wissenschaft/natur/grossbritannien-neue-fussabdruecke-von-dinosauriern-entdeckt-a-5e30589f-55e8-46d4-8a38-4349e03d3328#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/schleswig-holstein-toter-kalmar-an-ostseestrand-entdeckt](https://www.spiegel.de/wissenschaft/natur/schleswig-holstein-toter-kalmar-an-ostseestrand-entdeckt-a-552dbbdb-1f53-4a7d-8a61-eedca82f50b7#ref=rss)
+### pro
 
-* [https://www.spiegel.de/wirtschaft/service/kosten-nach-scheidung-unterhalt-versicherungen-und-vermoegensaufteilung](https://www.spiegel.de/wirtschaft/service/kosten-nach-scheidung-unterhalt-versicherungen-und-vermoegensaufteilung-a-d9b18473-e84f-4d5a-83b5-159e137a8407#ref=rss)
-### vermögensaufteilung
+* [https://www.spiegel.de/panorama/justiz/reichsbuerger-komplex-bundesweit-189-personen-per-haftbefehl-gesucht](https://www.spiegel.de/panorama/justiz/reichsbuerger-komplex-bundesweit-189-personen-per-haftbefehl-gesucht-a-a871c605-48bb-45d0-8413-5c71705c6162#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/quadrantiden-kommen-bis-zu-100-sternschnuppen-pro-sekunde-erwartet](https://www.spiegel.de/wissenschaft/natur/quadrantiden-kommen-bis-zu-100-sternschnuppen-pro-sekunde-erwartet-a-9471416f-9fd0-443a-a18a-b915ba3126fc#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### sehen
 
-* [https://www.spiegel.de/wirtschaft/service/kosten-nach-scheidung-unterhalt-versicherungen-und-vermoegensaufteilung](https://www.spiegel.de/wirtschaft/service/kosten-nach-scheidung-unterhalt-versicherungen-und-vermoegensaufteilung-a-d9b18473-e84f-4d5a-83b5-159e137a8407#ref=rss)
-### diwchef
+* [https://www.spiegel.de/wissenschaft/natur/quadrantiden-kommen-bis-zu-100-sternschnuppen-pro-sekunde-erwartet](https://www.spiegel.de/wissenschaft/natur/quadrantiden-kommen-bis-zu-100-sternschnuppen-pro-sekunde-erwartet-a-9471416f-9fd0-443a-a18a-b915ba3126fc#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/magdeburg-mutter-darf-die-leiche-ihres-getoeteten-kindes-erst-jetzt-sehen](https://www.spiegel.de/panorama/justiz/magdeburg-mutter-darf-die-leiche-ihres-getoeteten-kindes-erst-jetzt-sehen-a-63791f2e-fa3c-4514-8c82-8add2e159cf7#ref=rss)
+### tag
 
-* [https://www.spiegel.de/wirtschaft/diw-chef-fratzscher-wirft-parteien-unlautere-wahlversprechen-vor](https://www.spiegel.de/wirtschaft/diw-chef-fratzscher-wirft-parteien-unlautere-wahlversprechen-vor-a-f0bff1fc-458a-4597-beb9-cae2a476ae7c#ref=rss)
-### fratzscher
+* [https://www.spiegel.de/kultur/tv/thomas-gottschalk-hungert-sich-mit-850-kalorien-am-tag-durchs-leben](https://www.spiegel.de/kultur/tv/thomas-gottschalk-hungert-sich-mit-850-kalorien-am-tag-durchs-leben-a-c1073f8e-e993-4034-8a6d-052a96480133#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### macht
 
-* [https://www.spiegel.de/wirtschaft/diw-chef-fratzscher-wirft-parteien-unlautere-wahlversprechen-vor](https://www.spiegel.de/wirtschaft/diw-chef-fratzscher-wirft-parteien-unlautere-wahlversprechen-vor-a-f0bff1fc-458a-4597-beb9-cae2a476ae7c#ref=rss)
-### parteien
+* [https://www.spiegel.de/kultur/tv/thomas-gottschalk-hungert-sich-mit-850-kalorien-am-tag-durchs-leben](https://www.spiegel.de/kultur/tv/thomas-gottschalk-hungert-sich-mit-850-kalorien-am-tag-durchs-leben-a-c1073f8e-e993-4034-8a6d-052a96480133#ref=rss)
+* [https://www.spiegel.de/auto/norwegen-verbrenner-aus-ab-neujahr-elektroauto-vordenker-erklaert-wie-es-dazu-kam](https://www.spiegel.de/auto/norwegen-verbrenner-aus-ab-neujahr-elektroauto-vordenker-erklaert-wie-es-dazu-kam-a-9cc8ed88-5aa8-456b-a476-a5933a587efc#ref=rss)
+* [https://www.spiegel.de/partnerschaft/aufraeumen-ohne-beziehungskrise-diese-aufraeumexpertinnen-helfen-paaren-im-haushalt](https://www.spiegel.de/partnerschaft/aufraeumen-ohne-beziehungskrise-diese-aufraeumexpertinnen-helfen-paaren-im-haushalt-a-3055ec1d-c24d-4123-a1db-a9dc8a4f946f#ref=rss)
+### oscar
 
-* [https://www.spiegel.de/wirtschaft/diw-chef-fratzscher-wirft-parteien-unlautere-wahlversprechen-vor](https://www.spiegel.de/wirtschaft/diw-chef-fratzscher-wirft-parteien-unlautere-wahlversprechen-vor-a-f0bff1fc-458a-4597-beb9-cae2a476ae7c#ref=rss)
-### wahlkampf
+* [https://www.spiegel.de/politik/deutschland/csu-politiker-ehemaliger-bundesbauminister-oscar-schneider-ist-tot](https://www.spiegel.de/politik/deutschland/csu-politiker-ehemaliger-bundesbauminister-oscar-schneider-ist-tot-a-08ad885a-5121-4ce5-8910-ad15ad9b1b66#ref=rss)
+### schneider
 
-* [https://www.spiegel.de/wirtschaft/diw-chef-fratzscher-wirft-parteien-unlautere-wahlversprechen-vor](https://www.spiegel.de/wirtschaft/diw-chef-fratzscher-wirft-parteien-unlautere-wahlversprechen-vor-a-f0bff1fc-458a-4597-beb9-cae2a476ae7c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/csu-will-bleiberecht-nur-noch-fuer-migranten-die-fuer-sich-selbst-sorgen-koennen](https://www.spiegel.de/politik/deutschland/csu-will-bleiberecht-nur-noch-fuer-migranten-die-fuer-sich-selbst-sorgen-koennen-a-d45a1889-6af2-45ac-87ba-0e837adfc254#ref=rss)
-### aldi
+* [https://www.spiegel.de/politik/deutschland/csu-politiker-ehemaliger-bundesbauminister-oscar-schneider-ist-tot](https://www.spiegel.de/politik/deutschland/csu-politiker-ehemaliger-bundesbauminister-oscar-schneider-ist-tot-a-08ad885a-5121-4ce5-8910-ad15ad9b1b66#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/wirtschaft/aldi-in-der-schweiz-muss-verkauf-von-schokoladenkugeln-vorlaeufig-einstellen](https://www.spiegel.de/wirtschaft/aldi-in-der-schweiz-muss-verkauf-von-schokoladenkugeln-vorlaeufig-einstellen-a-cfb140a9-d237-4ffc-a7a9-21f53aa4a82c#ref=rss)
-### schokoladenkugeln
+* [https://www.spiegel.de/politik/deutschland/csu-politiker-ehemaliger-bundesbauminister-oscar-schneider-ist-tot](https://www.spiegel.de/politik/deutschland/csu-politiker-ehemaliger-bundesbauminister-oscar-schneider-ist-tot-a-08ad885a-5121-4ce5-8910-ad15ad9b1b66#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/schleswig-holstein-toter-kalmar-an-ostseestrand-entdeckt](https://www.spiegel.de/wissenschaft/natur/schleswig-holstein-toter-kalmar-an-ostseestrand-entdeckt-a-552dbbdb-1f53-4a7d-8a61-eedca82f50b7#ref=rss)
+### sylt
 
-* [https://www.spiegel.de/wirtschaft/aldi-in-der-schweiz-muss-verkauf-von-schokoladenkugeln-vorlaeufig-einstellen](https://www.spiegel.de/wirtschaft/aldi-in-der-schweiz-muss-verkauf-von-schokoladenkugeln-vorlaeufig-einstellen-a-cfb140a9-d237-4ffc-a7a9-21f53aa4a82c#ref=rss)
-### csu
+* [https://www.spiegel.de/panorama/justiz/sylt-wieder-kokain-am-strand-gefunden](https://www.spiegel.de/panorama/justiz/sylt-wieder-kokain-am-strand-gefunden-a-511cdc9f-0a98-4ce6-aa1b-28c987a1f5eb#ref=rss)
+### kokain
 
-* [https://www.spiegel.de/politik/deutschland/csu-will-bleiberecht-nur-noch-fuer-migranten-die-fuer-sich-selbst-sorgen-koennen](https://www.spiegel.de/politik/deutschland/csu-will-bleiberecht-nur-noch-fuer-migranten-die-fuer-sich-selbst-sorgen-koennen-a-d45a1889-6af2-45ac-87ba-0e837adfc254#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/sylt-wieder-kokain-am-strand-gefunden](https://www.spiegel.de/panorama/justiz/sylt-wieder-kokain-am-strand-gefunden-a-511cdc9f-0a98-4ce6-aa1b-28c987a1f5eb#ref=rss)
+### strand
+
+* [https://www.spiegel.de/panorama/justiz/sylt-wieder-kokain-am-strand-gefunden](https://www.spiegel.de/panorama/justiz/sylt-wieder-kokain-am-strand-gefunden-a-511cdc9f-0a98-4ce6-aa1b-28c987a1f5eb#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/schleswig-holstein-toter-kalmar-an-ostseestrand-entdeckt](https://www.spiegel.de/wissenschaft/natur/schleswig-holstein-toter-kalmar-an-ostseestrand-entdeckt-a-552dbbdb-1f53-4a7d-8a61-eedca82f50b7#ref=rss)
+### tödliche
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-toedliche-vorfaelle-in-den-usa-elon-musk-gas-transitstopp](https://www.spiegel.de/politik/deutschland/news-des-tages-toedliche-vorfaelle-in-den-usa-elon-musk-gas-transitstopp-a-215ce837-e48a-447f-beff-9150d2483284#ref=rss)
+### vorfälle
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-toedliche-vorfaelle-in-den-usa-elon-musk-gas-transitstopp](https://www.spiegel.de/politik/deutschland/news-des-tages-toedliche-vorfaelle-in-den-usa-elon-musk-gas-transitstopp-a-215ce837-e48a-447f-beff-9150d2483284#ref=rss)
+### usa
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-toedliche-vorfaelle-in-den-usa-elon-musk-gas-transitstopp](https://www.spiegel.de/politik/deutschland/news-des-tages-toedliche-vorfaelle-in-den-usa-elon-musk-gas-transitstopp-a-215ce837-e48a-447f-beff-9150d2483284#ref=rss)
+### elon
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-toedliche-vorfaelle-in-den-usa-elon-musk-gas-transitstopp](https://www.spiegel.de/politik/deutschland/news-des-tages-toedliche-vorfaelle-in-den-usa-elon-musk-gas-transitstopp-a-215ce837-e48a-447f-beff-9150d2483284#ref=rss)
+### musk
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-toedliche-vorfaelle-in-den-usa-elon-musk-gas-transitstopp](https://www.spiegel.de/politik/deutschland/news-des-tages-toedliche-vorfaelle-in-den-usa-elon-musk-gas-transitstopp-a-215ce837-e48a-447f-beff-9150d2483284#ref=rss)
+### gas
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-toedliche-vorfaelle-in-den-usa-elon-musk-gas-transitstopp](https://www.spiegel.de/politik/deutschland/news-des-tages-toedliche-vorfaelle-in-den-usa-elon-musk-gas-transitstopp-a-215ce837-e48a-447f-beff-9150d2483284#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-experte-ueber-energiestreit-mit-der-slowakei-ficos-drohungen-sind-lachhaft](https://www.spiegel.de/ausland/ukraine-experte-ueber-energiestreit-mit-der-slowakei-ficos-drohungen-sind-lachhaft-a-f2403a26-9940-4a89-913c-ba271321f30f#ref=rss)
+### simbabwe
+
+* [https://www.spiegel.de/panorama/simbabwe-achtjaehriger-ueberlebt-fuenf-tage-unter-loewen-und-elefanten-im-wildpark](https://www.spiegel.de/panorama/simbabwe-achtjaehriger-ueberlebt-fuenf-tage-unter-loewen-und-elefanten-im-wildpark-a-c47a533e-9dd1-4829-bce1-48b5ff6d4634#ref=rss)
+### achtjähriger
+
+* [https://www.spiegel.de/panorama/simbabwe-achtjaehriger-ueberlebt-fuenf-tage-unter-loewen-und-elefanten-im-wildpark](https://www.spiegel.de/panorama/simbabwe-achtjaehriger-ueberlebt-fuenf-tage-unter-loewen-und-elefanten-im-wildpark-a-c47a533e-9dd1-4829-bce1-48b5ff6d4634#ref=rss)
+### löwen
+
+* [https://www.spiegel.de/panorama/simbabwe-achtjaehriger-ueberlebt-fuenf-tage-unter-loewen-und-elefanten-im-wildpark](https://www.spiegel.de/panorama/simbabwe-achtjaehriger-ueberlebt-fuenf-tage-unter-loewen-und-elefanten-im-wildpark-a-c47a533e-9dd1-4829-bce1-48b5ff6d4634#ref=rss)
+### wildpark
+
+* [https://www.spiegel.de/panorama/simbabwe-achtjaehriger-ueberlebt-fuenf-tage-unter-loewen-und-elefanten-im-wildpark](https://www.spiegel.de/panorama/simbabwe-achtjaehriger-ueberlebt-fuenf-tage-unter-loewen-und-elefanten-im-wildpark-a-c47a533e-9dd1-4829-bce1-48b5ff6d4634#ref=rss)
+### 40
+
+* [https://www.spiegel.de/panorama/simbabwe-achtjaehriger-ueberlebt-fuenf-tage-unter-loewen-und-elefanten-im-wildpark](https://www.spiegel.de/panorama/simbabwe-achtjaehriger-ueberlebt-fuenf-tage-unter-loewen-und-elefanten-im-wildpark-a-c47a533e-9dd1-4829-bce1-48b5ff6d4634#ref=rss)
+* [https://www.spiegel.de/ausland/indien-giftmuell-in-bhopal-wird-40-jahre-nach-katastrophe-entsorgt](https://www.spiegel.de/ausland/indien-giftmuell-in-bhopal-wird-40-jahre-nach-katastrophe-entsorgt-a-720bddf7-2455-4ce2-9e19-1aa951f6090a#ref=rss)
+### wissen
+
+* [https://www.spiegel.de/panorama/simbabwe-achtjaehriger-ueberlebt-fuenf-tage-unter-loewen-und-elefanten-im-wildpark](https://www.spiegel.de/panorama/simbabwe-achtjaehriger-ueberlebt-fuenf-tage-unter-loewen-und-elefanten-im-wildpark-a-c47a533e-9dd1-4829-bce1-48b5ff6d4634#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### explodierten
+
+* [https://www.spiegel.de/ausland/las-vegas-fahrer-des-explodierten-tesla-cybertrucks-war-aktiver-elite-soldat](https://www.spiegel.de/ausland/las-vegas-fahrer-des-explodierten-tesla-cybertrucks-war-aktiver-elite-soldat-a-8f00ff62-4ae8-40f6-baed-f39b579c2f7e#ref=rss)
+### cybertrucks
+
+* [https://www.spiegel.de/ausland/las-vegas-fahrer-des-explodierten-tesla-cybertrucks-war-aktiver-elite-soldat](https://www.spiegel.de/ausland/las-vegas-fahrer-des-explodierten-tesla-cybertrucks-war-aktiver-elite-soldat-a-8f00ff62-4ae8-40f6-baed-f39b579c2f7e#ref=rss)
+### stabianer
+
+* [https://www.spiegel.de/geschichte/sehr-viel-heisse-luft](https://www.spiegel.de/geschichte/sehr-viel-heisse-luft-a-3908382e-0002-0001-0000-000205609797#ref=rss)
+### thermen
+
+* [https://www.spiegel.de/geschichte/sehr-viel-heisse-luft](https://www.spiegel.de/geschichte/sehr-viel-heisse-luft-a-3908382e-0002-0001-0000-000205609797#ref=rss)
+### erst
+
+* [https://www.spiegel.de/geschichte/sehr-viel-heisse-luft](https://www.spiegel.de/geschichte/sehr-viel-heisse-luft-a-3908382e-0002-0001-0000-000205609797#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/magdeburg-mutter-darf-die-leiche-ihres-getoeteten-kindes-erst-jetzt-sehen](https://www.spiegel.de/panorama/justiz/magdeburg-mutter-darf-die-leiche-ihres-getoeteten-kindes-erst-jetzt-sehen-a-63791f2e-fa3c-4514-8c82-8add2e159cf7#ref=rss)
+### lilyrose
+
+* [https://www.spiegel.de/kultur/nosferatu-remake-mit-lily-rose-depp-dieser-film-verwest-vor-unseren-augen](https://www.spiegel.de/kultur/nosferatu-remake-mit-lily-rose-depp-dieser-film-verwest-vor-unseren-augen-a-26037ae9-3ff5-4fc3-b43e-34aaf13f2961#ref=rss)
+### depp
+
+* [https://www.spiegel.de/kultur/nosferatu-remake-mit-lily-rose-depp-dieser-film-verwest-vor-unseren-augen](https://www.spiegel.de/kultur/nosferatu-remake-mit-lily-rose-depp-dieser-film-verwest-vor-unseren-augen-a-26037ae9-3ff5-4fc3-b43e-34aaf13f2961#ref=rss)
+### andrzej
+
+* [https://www.spiegel.de/sport/wintersport/skispringen-andrzej-stekala-spricht-ueber-seine-homosexualitaet](https://www.spiegel.de/sport/wintersport/skispringen-andrzej-stekala-spricht-ueber-seine-homosexualitaet-a-1be139ce-79ed-4650-848d-750e6cccca0a#ref=rss)
+### stękała
+
+* [https://www.spiegel.de/sport/wintersport/skispringen-andrzej-stekala-spricht-ueber-seine-homosexualitaet](https://www.spiegel.de/sport/wintersport/skispringen-andrzej-stekala-spricht-ueber-seine-homosexualitaet-a-1be139ce-79ed-4650-848d-750e6cccca0a#ref=rss)
+### homosexualität
+
+* [https://www.spiegel.de/sport/wintersport/skispringen-andrzej-stekala-spricht-ueber-seine-homosexualitaet](https://www.spiegel.de/sport/wintersport/skispringen-andrzej-stekala-spricht-ueber-seine-homosexualitaet-a-1be139ce-79ed-4650-848d-750e6cccca0a#ref=rss)
+### ersten
+
+* [https://www.spiegel.de/sport/wintersport/skispringen-andrzej-stekala-spricht-ueber-seine-homosexualitaet](https://www.spiegel.de/sport/wintersport/skispringen-andrzej-stekala-spricht-ueber-seine-homosexualitaet-a-1be139ce-79ed-4650-848d-750e6cccca0a#ref=rss)
+* [https://www.spiegel.de/ausland/rumaenien-rechtsextremer-kandidat-klagt-gegen-annullierung-der-praesidentenwahl](https://www.spiegel.de/ausland/rumaenien-rechtsextremer-kandidat-klagt-gegen-annullierung-der-praesidentenwahl-a-a9d1f669-f2f1-474b-b9fb-30a92943eada#ref=rss)
+### kam
+
+* [https://www.spiegel.de/sport/wintersport/skispringen-andrzej-stekala-spricht-ueber-seine-homosexualitaet](https://www.spiegel.de/sport/wintersport/skispringen-andrzej-stekala-spricht-ueber-seine-homosexualitaet-a-1be139ce-79ed-4650-848d-750e6cccca0a#ref=rss)
+* [https://www.spiegel.de/auto/norwegen-verbrenner-aus-ab-neujahr-elektroauto-vordenker-erklaert-wie-es-dazu-kam](https://www.spiegel.de/auto/norwegen-verbrenner-aus-ab-neujahr-elektroauto-vordenker-erklaert-wie-es-dazu-kam-a-9cc8ed88-5aa8-456b-a476-a5933a587efc#ref=rss)
+### strom
+
+* [https://www.spiegel.de/wirtschaft/strommarkt-woher-der-deutsche-strom-kommt-und-wie-viel-er-wirklich-kostet](https://www.spiegel.de/wirtschaft/strommarkt-woher-der-deutsche-strom-kommt-und-wie-viel-er-wirklich-kostet-a-76b9f9a7-bf28-4319-9416-a5ec15eb745c#ref=rss)
+### viele
+
+* [https://www.spiegel.de/wirtschaft/strommarkt-woher-der-deutsche-strom-kommt-und-wie-viel-er-wirklich-kostet](https://www.spiegel.de/wirtschaft/strommarkt-woher-der-deutsche-strom-kommt-und-wie-viel-er-wirklich-kostet-a-76b9f9a7-bf28-4319-9416-a5ec15eb745c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/industrie-in-der-krise-lars-klingbeil-fordert-absenkung-der-stromnetz-entgelte](https://www.spiegel.de/wirtschaft/industrie-in-der-krise-lars-klingbeil-fordert-absenkung-der-stromnetz-entgelte-a-069a4b95-337e-4b6d-a2fe-9bd824dc49d2#ref=rss)
+### sieben
+
+* [https://www.spiegel.de/wirtschaft/strommarkt-woher-der-deutsche-strom-kommt-und-wie-viel-er-wirklich-kostet](https://www.spiegel.de/wirtschaft/strommarkt-woher-der-deutsche-strom-kommt-und-wie-viel-er-wirklich-kostet-a-76b9f9a7-bf28-4319-9416-a5ec15eb745c#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### giftmüll
+
+* [https://www.spiegel.de/ausland/indien-giftmuell-in-bhopal-wird-40-jahre-nach-katastrophe-entsorgt](https://www.spiegel.de/ausland/indien-giftmuell-in-bhopal-wird-40-jahre-nach-katastrophe-entsorgt-a-720bddf7-2455-4ce2-9e19-1aa951f6090a#ref=rss)
+### bhopal
+
+* [https://www.spiegel.de/ausland/indien-giftmuell-in-bhopal-wird-40-jahre-nach-katastrophe-entsorgt](https://www.spiegel.de/ausland/indien-giftmuell-in-bhopal-wird-40-jahre-nach-katastrophe-entsorgt-a-720bddf7-2455-4ce2-9e19-1aa951f6090a#ref=rss)
+### entsorgt
+
+* [https://www.spiegel.de/ausland/indien-giftmuell-in-bhopal-wird-40-jahre-nach-katastrophe-entsorgt](https://www.spiegel.de/ausland/indien-giftmuell-in-bhopal-wird-40-jahre-nach-katastrophe-entsorgt-a-720bddf7-2455-4ce2-9e19-1aa951f6090a#ref=rss)
+### großbritannien
+
+* [https://www.spiegel.de/wissenschaft/natur/grossbritannien-neue-fussabdruecke-von-dinosauriern-entdeckt](https://www.spiegel.de/wissenschaft/natur/grossbritannien-neue-fussabdruecke-von-dinosauriern-entdeckt-a-5e30589f-55e8-46d4-8a38-4349e03d3328#ref=rss)
+### neue
+
+* [https://www.spiegel.de/wissenschaft/natur/grossbritannien-neue-fussabdruecke-von-dinosauriern-entdeckt](https://www.spiegel.de/wissenschaft/natur/grossbritannien-neue-fussabdruecke-von-dinosauriern-entdeckt-a-5e30589f-55e8-46d4-8a38-4349e03d3328#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/reichsbuerger-komplex-bundesweit-189-personen-per-haftbefehl-gesucht](https://www.spiegel.de/panorama/justiz/reichsbuerger-komplex-bundesweit-189-personen-per-haftbefehl-gesucht-a-a871c605-48bb-45d0-8413-5c71705c6162#ref=rss)
+### fußabdrücke
+
+* [https://www.spiegel.de/wissenschaft/natur/grossbritannien-neue-fussabdruecke-von-dinosauriern-entdeckt](https://www.spiegel.de/wissenschaft/natur/grossbritannien-neue-fussabdruecke-von-dinosauriern-entdeckt-a-5e30589f-55e8-46d4-8a38-4349e03d3328#ref=rss)
+### dinosauriern
+
+* [https://www.spiegel.de/wissenschaft/natur/grossbritannien-neue-fussabdruecke-von-dinosauriern-entdeckt](https://www.spiegel.de/wissenschaft/natur/grossbritannien-neue-fussabdruecke-von-dinosauriern-entdeckt-a-5e30589f-55e8-46d4-8a38-4349e03d3328#ref=rss)
+### reicht
+
+* [https://www.spiegel.de/wissenschaft/natur/grossbritannien-neue-fussabdruecke-von-dinosauriern-entdeckt](https://www.spiegel.de/wissenschaft/natur/grossbritannien-neue-fussabdruecke-von-dinosauriern-entdeckt-a-5e30589f-55e8-46d4-8a38-4349e03d3328#ref=rss)
+* [https://www.spiegel.de/kultur/tv/thomas-gottschalk-hungert-sich-mit-850-kalorien-am-tag-durchs-leben](https://www.spiegel.de/kultur/tv/thomas-gottschalk-hungert-sich-mit-850-kalorien-am-tag-durchs-leben-a-c1073f8e-e993-4034-8a6d-052a96480133#ref=rss)
+### bundesweit
+
+* [https://www.spiegel.de/panorama/justiz/reichsbuerger-komplex-bundesweit-189-personen-per-haftbefehl-gesucht](https://www.spiegel.de/panorama/justiz/reichsbuerger-komplex-bundesweit-189-personen-per-haftbefehl-gesucht-a-a871c605-48bb-45d0-8413-5c71705c6162#ref=rss)
+### 189
+
+* [https://www.spiegel.de/panorama/justiz/reichsbuerger-komplex-bundesweit-189-personen-per-haftbefehl-gesucht](https://www.spiegel.de/panorama/justiz/reichsbuerger-komplex-bundesweit-189-personen-per-haftbefehl-gesucht-a-a871c605-48bb-45d0-8413-5c71705c6162#ref=rss)
+### zuletzt
+
+* [https://www.spiegel.de/panorama/justiz/reichsbuerger-komplex-bundesweit-189-personen-per-haftbefehl-gesucht](https://www.spiegel.de/panorama/justiz/reichsbuerger-komplex-bundesweit-189-personen-per-haftbefehl-gesucht-a-a871c605-48bb-45d0-8413-5c71705c6162#ref=rss)
+* [https://www.spiegel.de/kultur/tv/thomas-gottschalk-hungert-sich-mit-850-kalorien-am-tag-durchs-leben](https://www.spiegel.de/kultur/tv/thomas-gottschalk-hungert-sich-mit-850-kalorien-am-tag-durchs-leben-a-c1073f8e-e993-4034-8a6d-052a96480133#ref=rss)
+### kommen
+
+* [https://www.spiegel.de/panorama/justiz/reichsbuerger-komplex-bundesweit-189-personen-per-haftbefehl-gesucht](https://www.spiegel.de/panorama/justiz/reichsbuerger-komplex-bundesweit-189-personen-per-haftbefehl-gesucht-a-a871c605-48bb-45d0-8413-5c71705c6162#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/quadrantiden-kommen-bis-zu-100-sternschnuppen-pro-sekunde-erwartet](https://www.spiegel.de/wissenschaft/natur/quadrantiden-kommen-bis-zu-100-sternschnuppen-pro-sekunde-erwartet-a-9471416f-9fd0-443a-a18a-b915ba3126fc#ref=rss)
+### präsidentenwahl
+
+* [https://www.spiegel.de/ausland/rumaenien-rechtsextremer-kandidat-klagt-gegen-annullierung-der-praesidentenwahl](https://www.spiegel.de/ausland/rumaenien-rechtsextremer-kandidat-klagt-gegen-annullierung-der-praesidentenwahl-a-a9d1f669-f2f1-474b-b9fb-30a92943eada#ref=rss)
+### europa
+
+* [https://www.spiegel.de/ausland/rumaenien-rechtsextremer-kandidat-klagt-gegen-annullierung-der-praesidentenwahl](https://www.spiegel.de/ausland/rumaenien-rechtsextremer-kandidat-klagt-gegen-annullierung-der-praesidentenwahl-a-a9d1f669-f2f1-474b-b9fb-30a92943eada#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-experte-ueber-energiestreit-mit-der-slowakei-ficos-drohungen-sind-lachhaft](https://www.spiegel.de/ausland/ukraine-experte-ueber-energiestreit-mit-der-slowakei-ficos-drohungen-sind-lachhaft-a-f2403a26-9940-4a89-913c-ba271321f30f#ref=rss)
+### unternehmen
+
+* [https://www.spiegel.de/wirtschaft/tesla-us-autobauer-erreicht-auslieferungsziel-2024-nicht](https://www.spiegel.de/wirtschaft/tesla-us-autobauer-erreicht-auslieferungsziel-2024-nicht-a-d5447c0d-a974-4de5-8fa3-b28933cf737b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/industrie-in-der-krise-lars-klingbeil-fordert-absenkung-der-stromnetz-entgelte](https://www.spiegel.de/wirtschaft/industrie-in-der-krise-lars-klingbeil-fordert-absenkung-der-stromnetz-entgelte-a-069a4b95-337e-4b6d-a2fe-9bd824dc49d2#ref=rss)
+### geplant
+
+* [https://www.spiegel.de/wirtschaft/tesla-us-autobauer-erreicht-auslieferungsziel-2024-nicht](https://www.spiegel.de/wirtschaft/tesla-us-autobauer-erreicht-auslieferungsziel-2024-nicht-a-d5447c0d-a974-4de5-8fa3-b28933cf737b#ref=rss)
+* [https://www.spiegel.de/panorama/reisehinweis-des-auswaertigen-amtes-vietnam-verbietet-saemtliche-e-zigaretten](https://www.spiegel.de/panorama/reisehinweis-des-auswaertigen-amtes-vietnam-verbietet-saemtliche-e-zigaretten-a-6eb75079-4322-4013-b2f0-5d9b4cdfaa3a#ref=rss)
+### ágnes
+
+* [https://www.spiegel.de/sport/olympia/agnes-keleti-stirbt-mit-103-jahren-das-jahrhundertleben-einer-turnerin-nachruf](https://www.spiegel.de/sport/olympia/agnes-keleti-stirbt-mit-103-jahren-das-jahrhundertleben-einer-turnerin-nachruf-a-db2a0506-04d3-4dcb-9c24-3e5d7f2345d8#ref=rss)
+### keleti
+
+* [https://www.spiegel.de/sport/olympia/agnes-keleti-stirbt-mit-103-jahren-das-jahrhundertleben-einer-turnerin-nachruf](https://www.spiegel.de/sport/olympia/agnes-keleti-stirbt-mit-103-jahren-das-jahrhundertleben-einer-turnerin-nachruf-a-db2a0506-04d3-4dcb-9c24-3e5d7f2345d8#ref=rss)
+### 103
+
+* [https://www.spiegel.de/sport/olympia/agnes-keleti-stirbt-mit-103-jahren-das-jahrhundertleben-einer-turnerin-nachruf](https://www.spiegel.de/sport/olympia/agnes-keleti-stirbt-mit-103-jahren-das-jahrhundertleben-einer-turnerin-nachruf-a-db2a0506-04d3-4dcb-9c24-3e5d7f2345d8#ref=rss)
+### spiegel
+
+* [https://www.spiegel.de/sport/olympia/agnes-keleti-stirbt-mit-103-jahren-das-jahrhundertleben-einer-turnerin-nachruf](https://www.spiegel.de/sport/olympia/agnes-keleti-stirbt-mit-103-jahren-das-jahrhundertleben-einer-turnerin-nachruf-a-db2a0506-04d3-4dcb-9c24-3e5d7f2345d8#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### vietnam
+
+* [https://www.spiegel.de/panorama/reisehinweis-des-auswaertigen-amtes-vietnam-verbietet-saemtliche-e-zigaretten](https://www.spiegel.de/panorama/reisehinweis-des-auswaertigen-amtes-vietnam-verbietet-saemtliche-e-zigaretten-a-6eb75079-4322-4013-b2f0-5d9b4cdfaa3a#ref=rss)
+### ezigaretten
+
+* [https://www.spiegel.de/panorama/reisehinweis-des-auswaertigen-amtes-vietnam-verbietet-saemtliche-e-zigaretten](https://www.spiegel.de/panorama/reisehinweis-des-auswaertigen-amtes-vietnam-verbietet-saemtliche-e-zigaretten-a-6eb75079-4322-4013-b2f0-5d9b4cdfaa3a#ref=rss)
+### quadrantiden
+
+* [https://www.spiegel.de/wissenschaft/natur/quadrantiden-kommen-bis-zu-100-sternschnuppen-pro-sekunde-erwartet](https://www.spiegel.de/wissenschaft/natur/quadrantiden-kommen-bis-zu-100-sternschnuppen-pro-sekunde-erwartet-a-9471416f-9fd0-443a-a18a-b915ba3126fc#ref=rss)
+### gottschalk
+
+* [https://www.spiegel.de/kultur/tv/thomas-gottschalk-hungert-sich-mit-850-kalorien-am-tag-durchs-leben](https://www.spiegel.de/kultur/tv/thomas-gottschalk-hungert-sich-mit-850-kalorien-am-tag-durchs-leben-a-c1073f8e-e993-4034-8a6d-052a96480133#ref=rss)
+### mutter
+
+* [https://www.spiegel.de/panorama/justiz/magdeburg-mutter-darf-die-leiche-ihres-getoeteten-kindes-erst-jetzt-sehen](https://www.spiegel.de/panorama/justiz/magdeburg-mutter-darf-die-leiche-ihres-getoeteten-kindes-erst-jetzt-sehen-a-63791f2e-fa3c-4514-8c82-8add2e159cf7#ref=rss)
+### norwegen
+
+* [https://www.spiegel.de/auto/norwegen-verbrenner-aus-ab-neujahr-elektroauto-vordenker-erklaert-wie-es-dazu-kam](https://www.spiegel.de/auto/norwegen-verbrenner-aus-ab-neujahr-elektroauto-vordenker-erklaert-wie-es-dazu-kam-a-9cc8ed88-5aa8-456b-a476-a5933a587efc#ref=rss)
+### neujahr
+
+* [https://www.spiegel.de/auto/norwegen-verbrenner-aus-ab-neujahr-elektroauto-vordenker-erklaert-wie-es-dazu-kam](https://www.spiegel.de/auto/norwegen-verbrenner-aus-ab-neujahr-elektroauto-vordenker-erklaert-wie-es-dazu-kam-a-9cc8ed88-5aa8-456b-a476-a5933a587efc#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-experte-ueber-energiestreit-mit-der-slowakei-ficos-drohungen-sind-lachhaft](https://www.spiegel.de/ausland/ukraine-experte-ueber-energiestreit-mit-der-slowakei-ficos-drohungen-sind-lachhaft-a-f2403a26-9940-4a89-913c-ba271321f30f#ref=rss)
+### schüssen
+
+* [https://www.spiegel.de/panorama/justiz/new-york-city-zehn-verletzte-bei-schuessen-vor-nachtklub-in-queens](https://www.spiegel.de/panorama/justiz/new-york-city-zehn-verletzte-bei-schuessen-vor-nachtklub-in-queens-a-dcab30fa-1e22-403a-91fe-a548139e7237#ref=rss)
+### aufräumen
+
+* [https://www.spiegel.de/partnerschaft/aufraeumen-ohne-beziehungskrise-diese-aufraeumexpertinnen-helfen-paaren-im-haushalt](https://www.spiegel.de/partnerschaft/aufraeumen-ohne-beziehungskrise-diese-aufraeumexpertinnen-helfen-paaren-im-haushalt-a-3055ec1d-c24d-4123-a1db-a9dc8a4f946f#ref=rss)
+### helfen
+
+* [https://www.spiegel.de/partnerschaft/aufraeumen-ohne-beziehungskrise-diese-aufraeumexpertinnen-helfen-paaren-im-haushalt](https://www.spiegel.de/partnerschaft/aufraeumen-ohne-beziehungskrise-diese-aufraeumexpertinnen-helfen-paaren-im-haushalt-a-3055ec1d-c24d-4123-a1db-a9dc8a4f946f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/industrie-in-der-krise-lars-klingbeil-fordert-absenkung-der-stromnetz-entgelte](https://www.spiegel.de/wirtschaft/industrie-in-der-krise-lars-klingbeil-fordert-absenkung-der-stromnetz-entgelte-a-069a4b95-337e-4b6d-a2fe-9bd824dc49d2#ref=rss)
+### slowakei
+
+* [https://www.spiegel.de/ausland/ukraine-experte-ueber-energiestreit-mit-der-slowakei-ficos-drohungen-sind-lachhaft](https://www.spiegel.de/ausland/ukraine-experte-ueber-energiestreit-mit-der-slowakei-ficos-drohungen-sind-lachhaft-a-f2403a26-9940-4a89-913c-ba271321f30f#ref=rss)
+### industrie
+
+* [https://www.spiegel.de/wirtschaft/industrie-in-der-krise-lars-klingbeil-fordert-absenkung-der-stromnetz-entgelte](https://www.spiegel.de/wirtschaft/industrie-in-der-krise-lars-klingbeil-fordert-absenkung-der-stromnetz-entgelte-a-069a4b95-337e-4b6d-a2fe-9bd824dc49d2#ref=rss)
+### lars
+
+* [https://www.spiegel.de/wirtschaft/industrie-in-der-krise-lars-klingbeil-fordert-absenkung-der-stromnetz-entgelte](https://www.spiegel.de/wirtschaft/industrie-in-der-krise-lars-klingbeil-fordert-absenkung-der-stromnetz-entgelte-a-069a4b95-337e-4b6d-a2fe-9bd824dc49d2#ref=rss)
+### klingbeil
+
+* [https://www.spiegel.de/wirtschaft/industrie-in-der-krise-lars-klingbeil-fordert-absenkung-der-stromnetz-entgelte](https://www.spiegel.de/wirtschaft/industrie-in-der-krise-lars-klingbeil-fordert-absenkung-der-stromnetz-entgelte-a-069a4b95-337e-4b6d-a2fe-9bd824dc49d2#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/wirtschaft/industrie-in-der-krise-lars-klingbeil-fordert-absenkung-der-stromnetz-entgelte](https://www.spiegel.de/wirtschaft/industrie-in-der-krise-lars-klingbeil-fordert-absenkung-der-stromnetz-entgelte-a-069a4b95-337e-4b6d-a2fe-9bd824dc49d2#ref=rss)
+### gesteht
+
+* [https://www.spiegel.de/panorama/leute/diplo-gesteht-lsd-trip-in-liveshow-ralph-fiennes-gibt-sich-demure-waehrend-cnn-silvester-spezial](https://www.spiegel.de/panorama/leute/diplo-gesteht-lsd-trip-in-liveshow-ralph-fiennes-gibt-sich-demure-waehrend-cnn-silvester-spezial-a-f300035a-3094-483a-b50d-440c88a9f1eb#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### ostsee
+
+* [https://www.spiegel.de/wissenschaft/natur/schleswig-holstein-toter-kalmar-an-ostseestrand-entdeckt](https://www.spiegel.de/wissenschaft/natur/schleswig-holstein-toter-kalmar-an-ostseestrand-entdeckt-a-552dbbdb-1f53-4a7d-8a61-eedca82f50b7#ref=rss)
 
