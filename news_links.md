@@ -4,351 +4,324 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### neue
+### ohne
 
-* [https://www.spiegel.de/panorama/gesellschaft/neujahrsbaden-so-badet-sich-europa-ins-neue-jahr](https://www.spiegel.de/panorama/gesellschaft/neujahrsbaden-so-badet-sich-europa-ins-neue-jahr-a-e67ebbdf-2a9d-417d-a932-aedf0864f38b#ref=rss)
-* [https://www.spiegel.de/kultur/tv/netflix-amazon-prime-disney-neue-serien-und-filme-im-januar-2024-was-sich-jetzt-lohnt](https://www.spiegel.de/kultur/tv/netflix-amazon-prime-disney-neue-serien-und-filme-im-januar-2024-was-sich-jetzt-lohnt-a-9d3ead25-8420-4a2e-95b8-c49a528a5806#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/new-orleans-zehn-tote-nach-mutmasslichem-terrorakt](https://www.spiegel.de/panorama/justiz/new-orleans-zehn-tote-nach-mutmasslichem-terrorakt-a-a600f85e-cc42-448b-9c5e-a205f361660b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/steuer-mindestlohn-krankenkasse-das-hat-sich-zum-jahreswechsel-2025-geaendert](https://www.spiegel.de/wirtschaft/service/steuer-mindestlohn-krankenkasse-das-hat-sich-zum-jahreswechsel-2025-geaendert-a-833f471c-fd40-4f23-89f0-81baf5dcb993#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-daniel-tschofenig-gewinnt-neujahrsspringen-pius-paschke-abgeschlagen](https://www.spiegel.de/sport/wintersport/vierschanzentournee-daniel-tschofenig-gewinnt-neujahrsspringen-pius-paschke-abgeschlagen-a-f7514dd3-e694-411d-8bc0-26b63c355bb3#ref=rss)
-* [https://www.spiegel.de/geschichte/tokio-kuehne-plaene-fuer-japans-hauptstadt-tokio-ist-hoffnungslos](https://www.spiegel.de/geschichte/tokio-kuehne-plaene-fuer-japans-hauptstadt-tokio-ist-hoffnungslos-a-49aeaffa-1632-48d7-b52b-f9641e173bea#ref=rss)
-* [https://www.spiegel.de/kultur/tv/tatort-aus-ludwigshafen-der-stelzenmann-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-aus-ludwigshafen-der-stelzenmann-im-schnellcheck-a-1caf22cc-0ceb-4718-8125-58bcaedd4d90#ref=rss)
-* [https://www.spiegel.de/ausland/psychedelika-retreats-in-mexiko-der-trip-aus-dem-die-traeume-sind](https://www.spiegel.de/ausland/psychedelika-retreats-in-mexiko-der-trip-aus-dem-die-traeume-sind-a-a4f63204-ab91-4e8e-ac27-06f517a2ad88#ref=rss)
-### jahr
+* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-kann-ich-ohne-alkohol-spass-haben-selbstversuch-auf-einer-sober-party](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-kann-ich-ohne-alkohol-spass-haben-selbstversuch-auf-einer-sober-party-a-465f54d0-d311-4868-a36b-b5c98d571d69#ref=rss)
+* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-was-bringt-ein-monat-ohne-alkohol](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-was-bringt-ein-monat-ohne-alkohol-und-wie-haelt-man-durch-a-1300451.html#ref=rss)
+* [https://www.spiegel.de/karriere/arbeitsrecht-2025-die-wichtigsten-neuerungen-fuer-beschaeftigte](https://www.spiegel.de/karriere/arbeitsrecht-2025-die-wichtigsten-neuerungen-fuer-beschaeftigte-a-0de82780-56df-4f24-a3df-66879f5b20a0#ref=rss)
+### ich
 
-* [https://www.spiegel.de/panorama/gesellschaft/neujahrsbaden-so-badet-sich-europa-ins-neue-jahr](https://www.spiegel.de/panorama/gesellschaft/neujahrsbaden-so-badet-sich-europa-ins-neue-jahr-a-e67ebbdf-2a9d-417d-a932-aedf0864f38b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/new-orleans-zehn-tote-nach-mutmasslichem-terrorakt](https://www.spiegel.de/panorama/justiz/new-orleans-zehn-tote-nach-mutmasslichem-terrorakt-a-a600f85e-cc42-448b-9c5e-a205f361660b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/steuer-mindestlohn-krankenkasse-das-hat-sich-zum-jahreswechsel-2025-geaendert](https://www.spiegel.de/wirtschaft/service/steuer-mindestlohn-krankenkasse-das-hat-sich-zum-jahreswechsel-2025-geaendert-a-833f471c-fd40-4f23-89f0-81baf5dcb993#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-daniel-tschofenig-gewinnt-neujahrsspringen-pius-paschke-abgeschlagen](https://www.spiegel.de/sport/wintersport/vierschanzentournee-daniel-tschofenig-gewinnt-neujahrsspringen-pius-paschke-abgeschlagen-a-f7514dd3-e694-411d-8bc0-26b63c355bb3#ref=rss)
+* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-kann-ich-ohne-alkohol-spass-haben-selbstversuch-auf-einer-sober-party](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-kann-ich-ohne-alkohol-spass-haben-selbstversuch-auf-einer-sober-party-a-465f54d0-d311-4868-a36b-b5c98d571d69#ref=rss)
+* [https://www.spiegel.de/kultur/tv/neue-wdr-intendantin-katrin-vernau-ich-haette-das-duell-mit-hoecke-gerne-bei-uns-gesehen](https://www.spiegel.de/kultur/tv/neue-wdr-intendantin-katrin-vernau-ich-haette-das-duell-mit-hoecke-gerne-bei-uns-gesehen-a-fd93286d-65f1-4262-a832-65e1b12a93d6#ref=rss)
+### alkohol
+
+* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-kann-ich-ohne-alkohol-spass-haben-selbstversuch-auf-einer-sober-party](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-kann-ich-ohne-alkohol-spass-haben-selbstversuch-auf-einer-sober-party-a-465f54d0-d311-4868-a36b-b5c98d571d69#ref=rss)
+* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-und-mindful-drinking-mit-diesen-tipps-gelingt-es-weniger-zu-trinken](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-und-mindful-drinking-mit-diesen-tipps-gelingt-es-weniger-zu-trinken-a-d45e5264-dab8-4931-97a7-b4303ac5844f#ref=rss)
+* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-was-bringt-ein-monat-ohne-alkohol](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-was-bringt-ein-monat-ohne-alkohol-und-wie-haelt-man-durch-a-1300451.html#ref=rss)
+### monat
+
+* [https://www.spiegel.de/gesundheit/ernaehrung/veganuary-ein-monat-vegan-ernaehren-was-es-bringt-und-worauf-man-achten-sollte](https://www.spiegel.de/gesundheit/ernaehrung/veganuary-ein-monat-vegan-ernaehren-was-es-bringt-und-worauf-man-achten-sollte-a-75568374-c528-46ca-81d0-c619056f50be#ref=rss)
+* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-was-bringt-ein-monat-ohne-alkohol](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-was-bringt-ein-monat-ohne-alkohol-und-wie-haelt-man-durch-a-1300451.html#ref=rss)
+* [https://www.spiegel.de/familie/neujahr-2025-zwoelf-familienfreundliche-vorsaetze-inklusive-soundtrack](https://www.spiegel.de/familie/neujahr-2025-zwoelf-familienfreundliche-vorsaetze-inklusive-soundtrack-a-c7026a9a-0389-43e4-b948-1048cec946de#ref=rss)
 ### 2025
 
-* [https://www.spiegel.de/panorama/gesellschaft/neujahrsbaden-so-badet-sich-europa-ins-neue-jahr](https://www.spiegel.de/panorama/gesellschaft/neujahrsbaden-so-badet-sich-europa-ins-neue-jahr-a-e67ebbdf-2a9d-417d-a932-aedf0864f38b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/steuer-mindestlohn-krankenkasse-das-hat-sich-zum-jahreswechsel-2025-geaendert](https://www.spiegel.de/wirtschaft/service/steuer-mindestlohn-krankenkasse-das-hat-sich-zum-jahreswechsel-2025-geaendert-a-833f471c-fd40-4f23-89f0-81baf5dcb993#ref=rss)
-* [https://www.spiegel.de/sport/darts-wm-2025-chris-dobey-gewinnt-gegen-seine-nervositaet-und-gerwyn-price](https://www.spiegel.de/sport/darts-wm-2025-chris-dobey-gewinnt-gegen-seine-nervositaet-und-gerwyn-price-a-a45bc1e2-3e1a-4026-a062-34d0785a408a#ref=rss)
-* [https://www.spiegel.de/start/arbeitsjahr-2025-neun-tipps-um-stress-aus-dem-job-zu-nehmen](https://www.spiegel.de/start/arbeitsjahr-2025-neun-tipps-um-stress-aus-dem-job-zu-nehmen-a-d6f845e9-253b-407d-8419-544d07732a6d#ref=rss)
-### pius
-
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-pius-paschke-verliert-chancen-auf-tourneesieg-mit-schwachem-ersten-sprung](https://www.spiegel.de/sport/wintersport/vierschanzentournee-pius-paschke-verliert-chancen-auf-tourneesieg-mit-schwachem-ersten-sprung-a-9145bf0e-0c6f-47c9-8446-511698b31124#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-daniel-tschofenig-gewinnt-neujahrsspringen-pius-paschke-abgeschlagen](https://www.spiegel.de/sport/wintersport/vierschanzentournee-daniel-tschofenig-gewinnt-neujahrsspringen-pius-paschke-abgeschlagen-a-f7514dd3-e694-411d-8bc0-26b63c355bb3#ref=rss)
-### paschke
-
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-pius-paschke-verliert-chancen-auf-tourneesieg-mit-schwachem-ersten-sprung](https://www.spiegel.de/sport/wintersport/vierschanzentournee-pius-paschke-verliert-chancen-auf-tourneesieg-mit-schwachem-ersten-sprung-a-9145bf0e-0c6f-47c9-8446-511698b31124#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-daniel-tschofenig-gewinnt-neujahrsspringen-pius-paschke-abgeschlagen](https://www.spiegel.de/sport/wintersport/vierschanzentournee-daniel-tschofenig-gewinnt-neujahrsspringen-pius-paschke-abgeschlagen-a-f7514dd3-e694-411d-8bc0-26b63c355bb3#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/panorama/grossbritannien-vermisste-frau-nach-mehr-als-50-jahren-offiziell-gefunden](https://www.spiegel.de/panorama/grossbritannien-vermisste-frau-nach-mehr-als-50-jahren-offiziell-gefunden-a-f1683d18-ae19-4c22-8d66-cb2884916fcb#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/two-nights-tour-sven-hannawald-kritisiert-duschgel-praemie-fuer-skispringerinnen](https://www.spiegel.de/sport/wintersport/two-nights-tour-sven-hannawald-kritisiert-duschgel-praemie-fuer-skispringerinnen-a-6baa6f27-9744-4e74-877b-26777a1061a4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/stuermisches-wetter-an-neujahr-deutschland-deckt-strombedarf-zu-125-prozent-aus-erneuerbaren-energien](https://www.spiegel.de/wirtschaft/stuermisches-wetter-an-neujahr-deutschland-deckt-strombedarf-zu-125-prozent-aus-erneuerbaren-energien-a-5642a01e-9447-4749-9372-ad6b21341a49#ref=rss)
-* [https://www.spiegel.de/ausland/elfenbeinkueste-kuendigt-abzug-franzoesischer-truppen-an](https://www.spiegel.de/ausland/elfenbeinkueste-kuendigt-abzug-franzoesischer-truppen-an-a-2bd81f4c-fdd0-448c-a52a-423139f17d73#ref=rss)
-### tipps
-
-* [https://www.spiegel.de/panorama/bildung/erziehung-und-bildung-so-macht-kindern-lernen-spass-tipps-fuer-eltern-und-lehrkraefte](https://www.spiegel.de/panorama/bildung/erziehung-und-bildung-so-macht-kindern-lernen-spass-tipps-fuer-eltern-und-lehrkraefte-a-c02fa905-1aea-40ac-8290-d3dca1bfd603#ref=rss)
-* [https://www.spiegel.de/start/arbeitsjahr-2025-neun-tipps-um-stress-aus-dem-job-zu-nehmen](https://www.spiegel.de/start/arbeitsjahr-2025-neun-tipps-um-stress-aus-dem-job-zu-nehmen-a-d6f845e9-253b-407d-8419-544d07732a6d#ref=rss)
-### wohl
-
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-pius-paschke-verliert-chancen-auf-tourneesieg-mit-schwachem-ersten-sprung](https://www.spiegel.de/sport/wintersport/vierschanzentournee-pius-paschke-verliert-chancen-auf-tourneesieg-mit-schwachem-ersten-sprung-a-9145bf0e-0c6f-47c9-8446-511698b31124#ref=rss)
-* [https://www.spiegel.de/ausland/hamas-schiesst-an-silvester-raketen-auf-israel-palaestinensische-tote-an-neujahr-in-gaza](https://www.spiegel.de/ausland/hamas-schiesst-an-silvester-raketen-auf-israel-palaestinensische-tote-an-neujahr-in-gaza-a-0ba89d6a-e1c9-4bdf-baf9-8cad95621448#ref=rss)
-* [https://www.spiegel.de/geschichte/tokio-kuehne-plaene-fuer-japans-hauptstadt-tokio-ist-hoffnungslos](https://www.spiegel.de/geschichte/tokio-kuehne-plaene-fuer-japans-hauptstadt-tokio-ist-hoffnungslos-a-49aeaffa-1632-48d7-b52b-f9641e173bea#ref=rss)
-### gewinnt
-
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-pius-paschke-verliert-chancen-auf-tourneesieg-mit-schwachem-ersten-sprung](https://www.spiegel.de/sport/wintersport/vierschanzentournee-pius-paschke-verliert-chancen-auf-tourneesieg-mit-schwachem-ersten-sprung-a-9145bf0e-0c6f-47c9-8446-511698b31124#ref=rss)
-* [https://www.spiegel.de/sport/darts-wm-2025-chris-dobey-gewinnt-gegen-seine-nervositaet-und-gerwyn-price](https://www.spiegel.de/sport/darts-wm-2025-chris-dobey-gewinnt-gegen-seine-nervositaet-und-gerwyn-price-a-a45bc1e2-3e1a-4026-a062-34d0785a408a#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-daniel-tschofenig-gewinnt-neujahrsspringen-pius-paschke-abgeschlagen](https://www.spiegel.de/sport/wintersport/vierschanzentournee-daniel-tschofenig-gewinnt-neujahrsspringen-pius-paschke-abgeschlagen-a-f7514dd3-e694-411d-8bc0-26b63c355bb3#ref=rss)
-### syrien
-
-* [https://www.spiegel.de/ausland/syrien-murhaf-abu-kasra-ist-neuer-verteidigungsminister](https://www.spiegel.de/ausland/syrien-murhaf-abu-kasra-ist-neuer-verteidigungsminister-a-306adabf-858d-4d1b-8428-d5806d8f9e12#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-frankreich-greift-islamischen-staat-an](https://www.spiegel.de/ausland/syrien-frankreich-greift-islamischen-staat-an-a-f26152cb-8e13-4528-8d28-5846e9e7b596#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wirtschaft/stuermisches-wetter-an-neujahr-deutschland-deckt-strombedarf-zu-125-prozent-aus-erneuerbaren-energien](https://www.spiegel.de/wirtschaft/stuermisches-wetter-an-neujahr-deutschland-deckt-strombedarf-zu-125-prozent-aus-erneuerbaren-energien-a-5642a01e-9447-4749-9372-ad6b21341a49#ref=rss)
-* [https://www.spiegel.de/sport/tennis/tennis-deutsches-team-scheidet-beim-united-cup-aus-alexander-zverev-verletzt](https://www.spiegel.de/sport/tennis/tennis-deutsches-team-scheidet-beim-united-cup-aus-alexander-zverev-verletzt-a-df63dfe0-cb5d-4334-a506-419158f436e2#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/wirtschaft/stuermisches-wetter-an-neujahr-deutschland-deckt-strombedarf-zu-125-prozent-aus-erneuerbaren-energien](https://www.spiegel.de/wirtschaft/stuermisches-wetter-an-neujahr-deutschland-deckt-strombedarf-zu-125-prozent-aus-erneuerbaren-energien-a-5642a01e-9447-4749-9372-ad6b21341a49#ref=rss)
-* [https://www.spiegel.de/ausland/jemen-who-chef-tedros-leidet-nach-israel-angriff-auf-huthi-flughafen-in-sanaa-an-tinnitus](https://www.spiegel.de/ausland/jemen-who-chef-tedros-leidet-nach-israel-angriff-auf-huthi-flughafen-in-sanaa-an-tinnitus-a-e3c2327b-85e6-4522-9c5b-f9a24bef2f53#ref=rss)
-* [https://www.spiegel.de/ausland/hamas-schiesst-an-silvester-raketen-auf-israel-palaestinensische-tote-an-neujahr-in-gaza](https://www.spiegel.de/ausland/hamas-schiesst-an-silvester-raketen-auf-israel-palaestinensische-tote-an-neujahr-in-gaza-a-0ba89d6a-e1c9-4bdf-baf9-8cad95621448#ref=rss)
-### diesen
-
-* [https://www.spiegel.de/panorama/bildung/erziehung-und-bildung-so-macht-kindern-lernen-spass-tipps-fuer-eltern-und-lehrkraefte](https://www.spiegel.de/panorama/bildung/erziehung-und-bildung-so-macht-kindern-lernen-spass-tipps-fuer-eltern-und-lehrkraefte-a-c02fa905-1aea-40ac-8290-d3dca1bfd603#ref=rss)
-* [https://www.spiegel.de/kultur/tv/netflix-amazon-prime-disney-neue-serien-und-filme-im-januar-2024-was-sich-jetzt-lohnt](https://www.spiegel.de/kultur/tv/netflix-amazon-prime-disney-neue-serien-und-filme-im-januar-2024-was-sich-jetzt-lohnt-a-9d3ead25-8420-4a2e-95b8-c49a528a5806#ref=rss)
-* [https://www.spiegel.de/start/arbeitsjahr-2025-neun-tipps-um-stress-aus-dem-job-zu-nehmen](https://www.spiegel.de/start/arbeitsjahr-2025-neun-tipps-um-stress-aus-dem-job-zu-nehmen-a-d6f845e9-253b-407d-8419-544d07732a6d#ref=rss)
-### truppen
-
-* [https://www.spiegel.de/ausland/elfenbeinkueste-kuendigt-abzug-franzoesischer-truppen-an](https://www.spiegel.de/ausland/elfenbeinkueste-kuendigt-abzug-franzoesischer-truppen-an-a-2bd81f4c-fdd0-448c-a52a-423139f17d73#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-frankreich-greift-islamischen-staat-an](https://www.spiegel.de/ausland/syrien-frankreich-greift-islamischen-staat-an-a-f26152cb-8e13-4528-8d28-5846e9e7b596#ref=rss)
-### kahrs
-
-* [https://www.spiegel.de/politik/deutschland/johannes-kahrs-linke-will-spd-mann-kahrs-in-cum-ex-affaere-als-zeugen-hoeren](https://www.spiegel.de/politik/deutschland/johannes-kahrs-linke-will-spd-mann-kahrs-in-cum-ex-affaere-als-zeugen-hoeren-a-ea90b01b-033a-4976-9a1d-8a30b1464496#ref=rss)
-### tokio
-
-* [https://www.spiegel.de/geschichte/tokio-kuehne-plaene-fuer-japans-hauptstadt-tokio-ist-hoffnungslos](https://www.spiegel.de/geschichte/tokio-kuehne-plaene-fuer-japans-hauptstadt-tokio-ist-hoffnungslos-a-49aeaffa-1632-48d7-b52b-f9641e173bea#ref=rss)
-### musk
-
-* [https://www.spiegel.de/politik/deutschland/elon-musk-spd-fraktionschef-muetzenich-wirft-trump-berater-musk-grenzueberschreitung-vor](https://www.spiegel.de/politik/deutschland/elon-musk-spd-fraktionschef-muetzenich-wirft-trump-berater-musk-grenzueberschreitung-vor-a-caaa9fde-982c-4813-b53f-ce9ef0320edb#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/panorama/justiz/berlin-klimaaktivisten-der-extinction-rebellion-entfernen-autobahnschilder-entlang-des-berliner-rings](https://www.spiegel.de/panorama/justiz/berlin-klimaaktivisten-der-extinction-rebellion-entfernen-autobahnschilder-entlang-des-berliner-rings-a-3dbd6c82-f7a3-4d82-909b-344d0c559ba9#ref=rss)
-* [https://www.spiegel.de/ausland/psychedelika-retreats-in-mexiko-der-trip-aus-dem-die-traeume-sind](https://www.spiegel.de/ausland/psychedelika-retreats-in-mexiko-der-trip-aus-dem-die-traeume-sind-a-a4f63204-ab91-4e8e-ac27-06f517a2ad88#ref=rss)
-### extinction
-
-* [https://www.spiegel.de/panorama/justiz/berlin-klimaaktivisten-der-extinction-rebellion-entfernen-autobahnschilder-entlang-des-berliner-rings](https://www.spiegel.de/panorama/justiz/berlin-klimaaktivisten-der-extinction-rebellion-entfernen-autobahnschilder-entlang-des-berliner-rings-a-3dbd6c82-f7a3-4d82-909b-344d0c559ba9#ref=rss)
-### rebellion
-
-* [https://www.spiegel.de/panorama/justiz/berlin-klimaaktivisten-der-extinction-rebellion-entfernen-autobahnschilder-entlang-des-berliner-rings](https://www.spiegel.de/panorama/justiz/berlin-klimaaktivisten-der-extinction-rebellion-entfernen-autobahnschilder-entlang-des-berliner-rings-a-3dbd6c82-f7a3-4d82-909b-344d0c559ba9#ref=rss)
-### entlang
-
-* [https://www.spiegel.de/panorama/justiz/berlin-klimaaktivisten-der-extinction-rebellion-entfernen-autobahnschilder-entlang-des-berliner-rings](https://www.spiegel.de/panorama/justiz/berlin-klimaaktivisten-der-extinction-rebellion-entfernen-autobahnschilder-entlang-des-berliner-rings-a-3dbd6c82-f7a3-4d82-909b-344d0c559ba9#ref=rss)
-### berliner
-
-* [https://www.spiegel.de/panorama/justiz/berlin-klimaaktivisten-der-extinction-rebellion-entfernen-autobahnschilder-entlang-des-berliner-rings](https://www.spiegel.de/panorama/justiz/berlin-klimaaktivisten-der-extinction-rebellion-entfernen-autobahnschilder-entlang-des-berliner-rings-a-3dbd6c82-f7a3-4d82-909b-344d0c559ba9#ref=rss)
-### rings
-
-* [https://www.spiegel.de/panorama/justiz/berlin-klimaaktivisten-der-extinction-rebellion-entfernen-autobahnschilder-entlang-des-berliner-rings](https://www.spiegel.de/panorama/justiz/berlin-klimaaktivisten-der-extinction-rebellion-entfernen-autobahnschilder-entlang-des-berliner-rings-a-3dbd6c82-f7a3-4d82-909b-344d0c559ba9#ref=rss)
-### bemannten
-
-* [https://www.spiegel.de/wissenschaft/wie-es-zum-groessten-unglueck-der-bemannten-raumfahrt-kommen-konnte](https://www.spiegel.de/wissenschaft/wie-es-zum-groessten-unglueck-der-bemannten-raumfahrt-kommen-konnte-a-c2e6d3ed-e106-4307-8c06-8f80d1aa2c8e#ref=rss)
-### raumfahrt
-
-* [https://www.spiegel.de/wissenschaft/wie-es-zum-groessten-unglueck-der-bemannten-raumfahrt-kommen-konnte](https://www.spiegel.de/wissenschaft/wie-es-zum-groessten-unglueck-der-bemannten-raumfahrt-kommen-konnte-a-c2e6d3ed-e106-4307-8c06-8f80d1aa2c8e#ref=rss)
-### kommen
-
-* [https://www.spiegel.de/wissenschaft/wie-es-zum-groessten-unglueck-der-bemannten-raumfahrt-kommen-konnte](https://www.spiegel.de/wissenschaft/wie-es-zum-groessten-unglueck-der-bemannten-raumfahrt-kommen-konnte-a-c2e6d3ed-e106-4307-8c06-8f80d1aa2c8e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/elon-musk-spd-fraktionschef-muetzenich-wirft-trump-berater-musk-grenzueberschreitung-vor](https://www.spiegel.de/politik/deutschland/elon-musk-spd-fraktionschef-muetzenich-wirft-trump-berater-musk-grenzueberschreitung-vor-a-caaa9fde-982c-4813-b53f-ce9ef0320edb#ref=rss)
-### nie
-
-* [https://www.spiegel.de/wissenschaft/wie-es-zum-groessten-unglueck-der-bemannten-raumfahrt-kommen-konnte](https://www.spiegel.de/wissenschaft/wie-es-zum-groessten-unglueck-der-bemannten-raumfahrt-kommen-konnte-a-c2e6d3ed-e106-4307-8c06-8f80d1aa2c8e#ref=rss)
-* [https://www.spiegel.de/sport/darts-wm-2025-chris-dobey-gewinnt-gegen-seine-nervositaet-und-gerwyn-price](https://www.spiegel.de/sport/darts-wm-2025-chris-dobey-gewinnt-gegen-seine-nervositaet-und-gerwyn-price-a-a45bc1e2-3e1a-4026-a062-34d0785a408a#ref=rss)
-### vierschanzentournee
-
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-pius-paschke-verliert-chancen-auf-tourneesieg-mit-schwachem-ersten-sprung](https://www.spiegel.de/sport/wintersport/vierschanzentournee-pius-paschke-verliert-chancen-auf-tourneesieg-mit-schwachem-ersten-sprung-a-9145bf0e-0c6f-47c9-8446-511698b31124#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-daniel-tschofenig-gewinnt-neujahrsspringen-pius-paschke-abgeschlagen](https://www.spiegel.de/sport/wintersport/vierschanzentournee-daniel-tschofenig-gewinnt-neujahrsspringen-pius-paschke-abgeschlagen-a-f7514dd3-e694-411d-8bc0-26b63c355bb3#ref=rss)
-### chancen
-
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-pius-paschke-verliert-chancen-auf-tourneesieg-mit-schwachem-ersten-sprung](https://www.spiegel.de/sport/wintersport/vierschanzentournee-pius-paschke-verliert-chancen-auf-tourneesieg-mit-schwachem-ersten-sprung-a-9145bf0e-0c6f-47c9-8446-511698b31124#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-daniel-tschofenig-gewinnt-neujahrsspringen-pius-paschke-abgeschlagen](https://www.spiegel.de/sport/wintersport/vierschanzentournee-daniel-tschofenig-gewinnt-neujahrsspringen-pius-paschke-abgeschlagen-a-f7514dd3-e694-411d-8bc0-26b63c355bb3#ref=rss)
-### tourneesieg
-
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-pius-paschke-verliert-chancen-auf-tourneesieg-mit-schwachem-ersten-sprung](https://www.spiegel.de/sport/wintersport/vierschanzentournee-pius-paschke-verliert-chancen-auf-tourneesieg-mit-schwachem-ersten-sprung-a-9145bf0e-0c6f-47c9-8446-511698b31124#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-pius-paschke-verliert-chancen-auf-tourneesieg-mit-schwachem-ersten-sprung](https://www.spiegel.de/sport/wintersport/vierschanzentournee-pius-paschke-verliert-chancen-auf-tourneesieg-mit-schwachem-ersten-sprung-a-9145bf0e-0c6f-47c9-8446-511698b31124#ref=rss)
-### sprung
-
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-pius-paschke-verliert-chancen-auf-tourneesieg-mit-schwachem-ersten-sprung](https://www.spiegel.de/sport/wintersport/vierschanzentournee-pius-paschke-verliert-chancen-auf-tourneesieg-mit-schwachem-ersten-sprung-a-9145bf0e-0c6f-47c9-8446-511698b31124#ref=rss)
-### bringt
-
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-pius-paschke-verliert-chancen-auf-tourneesieg-mit-schwachem-ersten-sprung](https://www.spiegel.de/sport/wintersport/vierschanzentournee-pius-paschke-verliert-chancen-auf-tourneesieg-mit-schwachem-ersten-sprung-a-9145bf0e-0c6f-47c9-8446-511698b31124#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/steuer-mindestlohn-krankenkasse-das-hat-sich-zum-jahreswechsel-2025-geaendert](https://www.spiegel.de/wirtschaft/service/steuer-mindestlohn-krankenkasse-das-hat-sich-zum-jahreswechsel-2025-geaendert-a-833f471c-fd40-4f23-89f0-81baf5dcb993#ref=rss)
-### murhaf
-
-* [https://www.spiegel.de/ausland/syrien-murhaf-abu-kasra-ist-neuer-verteidigungsminister](https://www.spiegel.de/ausland/syrien-murhaf-abu-kasra-ist-neuer-verteidigungsminister-a-306adabf-858d-4d1b-8428-d5806d8f9e12#ref=rss)
-### abu
-
-* [https://www.spiegel.de/ausland/syrien-murhaf-abu-kasra-ist-neuer-verteidigungsminister](https://www.spiegel.de/ausland/syrien-murhaf-abu-kasra-ist-neuer-verteidigungsminister-a-306adabf-858d-4d1b-8428-d5806d8f9e12#ref=rss)
-### kasra
-
-* [https://www.spiegel.de/ausland/syrien-murhaf-abu-kasra-ist-neuer-verteidigungsminister](https://www.spiegel.de/ausland/syrien-murhaf-abu-kasra-ist-neuer-verteidigungsminister-a-306adabf-858d-4d1b-8428-d5806d8f9e12#ref=rss)
-### verteidigungsminister
-
-* [https://www.spiegel.de/ausland/syrien-murhaf-abu-kasra-ist-neuer-verteidigungsminister](https://www.spiegel.de/ausland/syrien-murhaf-abu-kasra-ist-neuer-verteidigungsminister-a-306adabf-858d-4d1b-8428-d5806d8f9e12#ref=rss)
-### kam
-
-* [https://www.spiegel.de/ausland/syrien-murhaf-abu-kasra-ist-neuer-verteidigungsminister](https://www.spiegel.de/ausland/syrien-murhaf-abu-kasra-ist-neuer-verteidigungsminister-a-306adabf-858d-4d1b-8428-d5806d8f9e12#ref=rss)
-* [https://www.spiegel.de/ausland/jemen-who-chef-tedros-leidet-nach-israel-angriff-auf-huthi-flughafen-in-sanaa-an-tinnitus](https://www.spiegel.de/ausland/jemen-who-chef-tedros-leidet-nach-israel-angriff-auf-huthi-flughafen-in-sanaa-an-tinnitus-a-e3c2327b-85e6-4522-9c5b-f9a24bef2f53#ref=rss)
-### neujahrsbaden
-
-* [https://www.spiegel.de/panorama/gesellschaft/neujahrsbaden-so-badet-sich-europa-ins-neue-jahr](https://www.spiegel.de/panorama/gesellschaft/neujahrsbaden-so-badet-sich-europa-ins-neue-jahr-a-e67ebbdf-2a9d-417d-a932-aedf0864f38b#ref=rss)
-### europa
-
-* [https://www.spiegel.de/panorama/gesellschaft/neujahrsbaden-so-badet-sich-europa-ins-neue-jahr](https://www.spiegel.de/panorama/gesellschaft/neujahrsbaden-so-badet-sich-europa-ins-neue-jahr-a-e67ebbdf-2a9d-417d-a932-aedf0864f38b#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/gesellschaft/neujahrsbaden-so-badet-sich-europa-ins-neue-jahr](https://www.spiegel.de/panorama/gesellschaft/neujahrsbaden-so-badet-sich-europa-ins-neue-jahr-a-e67ebbdf-2a9d-417d-a932-aedf0864f38b#ref=rss)
-* [https://www.spiegel.de/ausland/psychedelika-retreats-in-mexiko-der-trip-aus-dem-die-traeume-sind](https://www.spiegel.de/ausland/psychedelika-retreats-in-mexiko-der-trip-aus-dem-die-traeume-sind-a-a4f63204-ab91-4e8e-ac27-06f517a2ad88#ref=rss)
-### frau
-
-* [https://www.spiegel.de/panorama/grossbritannien-vermisste-frau-nach-mehr-als-50-jahren-offiziell-gefunden](https://www.spiegel.de/panorama/grossbritannien-vermisste-frau-nach-mehr-als-50-jahren-offiziell-gefunden-a-f1683d18-ae19-4c22-8d66-cb2884916fcb#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/panorama/grossbritannien-vermisste-frau-nach-mehr-als-50-jahren-offiziell-gefunden](https://www.spiegel.de/panorama/grossbritannien-vermisste-frau-nach-mehr-als-50-jahren-offiziell-gefunden-a-f1683d18-ae19-4c22-8d66-cb2884916fcb#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/johannes-kahrs-linke-will-spd-mann-kahrs-in-cum-ex-affaere-als-zeugen-hoeren](https://www.spiegel.de/politik/deutschland/johannes-kahrs-linke-will-spd-mann-kahrs-in-cum-ex-affaere-als-zeugen-hoeren-a-ea90b01b-033a-4976-9a1d-8a30b1464496#ref=rss)
-### einige
-
-* [https://www.spiegel.de/sport/wintersport/two-nights-tour-sven-hannawald-kritisiert-duschgel-praemie-fuer-skispringerinnen](https://www.spiegel.de/sport/wintersport/two-nights-tour-sven-hannawald-kritisiert-duschgel-praemie-fuer-skispringerinnen-a-6baa6f27-9744-4e74-877b-26777a1061a4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/steuer-mindestlohn-krankenkasse-das-hat-sich-zum-jahreswechsel-2025-geaendert](https://www.spiegel.de/wirtschaft/service/steuer-mindestlohn-krankenkasse-das-hat-sich-zum-jahreswechsel-2025-geaendert-a-833f471c-fd40-4f23-89f0-81baf5dcb993#ref=rss)
-### jahreswechsel
-
-* [https://www.spiegel.de/sport/wintersport/two-nights-tour-sven-hannawald-kritisiert-duschgel-praemie-fuer-skispringerinnen](https://www.spiegel.de/sport/wintersport/two-nights-tour-sven-hannawald-kritisiert-duschgel-praemie-fuer-skispringerinnen-a-6baa6f27-9744-4e74-877b-26777a1061a4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/steuer-mindestlohn-krankenkasse-das-hat-sich-zum-jahreswechsel-2025-geaendert](https://www.spiegel.de/wirtschaft/service/steuer-mindestlohn-krankenkasse-das-hat-sich-zum-jahreswechsel-2025-geaendert-a-833f471c-fd40-4f23-89f0-81baf5dcb993#ref=rss)
-### sorgt
-
-* [https://www.spiegel.de/sport/wintersport/two-nights-tour-sven-hannawald-kritisiert-duschgel-praemie-fuer-skispringerinnen](https://www.spiegel.de/sport/wintersport/two-nights-tour-sven-hannawald-kritisiert-duschgel-praemie-fuer-skispringerinnen-a-6baa6f27-9744-4e74-877b-26777a1061a4#ref=rss)
-* [https://www.spiegel.de/start/arbeitsjahr-2025-neun-tipps-um-stress-aus-dem-job-zu-nehmen](https://www.spiegel.de/start/arbeitsjahr-2025-neun-tipps-um-stress-aus-dem-job-zu-nehmen-a-d6f845e9-253b-407d-8419-544d07732a6d#ref=rss)
-### neujahr
-
-* [https://www.spiegel.de/wirtschaft/stuermisches-wetter-an-neujahr-deutschland-deckt-strombedarf-zu-125-prozent-aus-erneuerbaren-energien](https://www.spiegel.de/wirtschaft/stuermisches-wetter-an-neujahr-deutschland-deckt-strombedarf-zu-125-prozent-aus-erneuerbaren-energien-a-5642a01e-9447-4749-9372-ad6b21341a49#ref=rss)
-* [https://www.spiegel.de/ausland/hamas-schiesst-an-silvester-raketen-auf-israel-palaestinensische-tote-an-neujahr-in-gaza](https://www.spiegel.de/ausland/hamas-schiesst-an-silvester-raketen-auf-israel-palaestinensische-tote-an-neujahr-in-gaza-a-0ba89d6a-e1c9-4bdf-baf9-8cad95621448#ref=rss)
-### erneuerbaren
-
-* [https://www.spiegel.de/wirtschaft/stuermisches-wetter-an-neujahr-deutschland-deckt-strombedarf-zu-125-prozent-aus-erneuerbaren-energien](https://www.spiegel.de/wirtschaft/stuermisches-wetter-an-neujahr-deutschland-deckt-strombedarf-zu-125-prozent-aus-erneuerbaren-energien-a-5642a01e-9447-4749-9372-ad6b21341a49#ref=rss)
-### jörg
-
-* [https://www.spiegel.de/panorama/bildung/joerg-meuthen-ex-afd-chef-ist-wieder-professor-an-hochschule-kehl](https://www.spiegel.de/panorama/bildung/joerg-meuthen-ex-afd-chef-ist-wieder-professor-an-hochschule-kehl-a-690a5d03-999c-4184-b2cf-3845f9e78e9e#ref=rss)
-### meuthen
-
-* [https://www.spiegel.de/panorama/bildung/joerg-meuthen-ex-afd-chef-ist-wieder-professor-an-hochschule-kehl](https://www.spiegel.de/panorama/bildung/joerg-meuthen-ex-afd-chef-ist-wieder-professor-an-hochschule-kehl-a-690a5d03-999c-4184-b2cf-3845f9e78e9e#ref=rss)
-### hochschule
-
-* [https://www.spiegel.de/panorama/bildung/joerg-meuthen-ex-afd-chef-ist-wieder-professor-an-hochschule-kehl](https://www.spiegel.de/panorama/bildung/joerg-meuthen-ex-afd-chef-ist-wieder-professor-an-hochschule-kehl-a-690a5d03-999c-4184-b2cf-3845f9e78e9e#ref=rss)
-### kehl
-
-* [https://www.spiegel.de/panorama/bildung/joerg-meuthen-ex-afd-chef-ist-wieder-professor-an-hochschule-kehl](https://www.spiegel.de/panorama/bildung/joerg-meuthen-ex-afd-chef-ist-wieder-professor-an-hochschule-kehl-a-690a5d03-999c-4184-b2cf-3845f9e78e9e#ref=rss)
-### kindern
-
-* [https://www.spiegel.de/panorama/bildung/erziehung-und-bildung-so-macht-kindern-lernen-spass-tipps-fuer-eltern-und-lehrkraefte](https://www.spiegel.de/panorama/bildung/erziehung-und-bildung-so-macht-kindern-lernen-spass-tipps-fuer-eltern-und-lehrkraefte-a-c02fa905-1aea-40ac-8290-d3dca1bfd603#ref=rss)
-### lernen
-
-* [https://www.spiegel.de/panorama/bildung/erziehung-und-bildung-so-macht-kindern-lernen-spass-tipps-fuer-eltern-und-lehrkraefte](https://www.spiegel.de/panorama/bildung/erziehung-und-bildung-so-macht-kindern-lernen-spass-tipps-fuer-eltern-und-lehrkraefte-a-c02fa905-1aea-40ac-8290-d3dca1bfd603#ref=rss)
-### spaß
-
-* [https://www.spiegel.de/panorama/bildung/erziehung-und-bildung-so-macht-kindern-lernen-spass-tipps-fuer-eltern-und-lehrkraefte](https://www.spiegel.de/panorama/bildung/erziehung-und-bildung-so-macht-kindern-lernen-spass-tipps-fuer-eltern-und-lehrkraefte-a-c02fa905-1aea-40ac-8290-d3dca1bfd603#ref=rss)
-### eltern
-
-* [https://www.spiegel.de/panorama/bildung/erziehung-und-bildung-so-macht-kindern-lernen-spass-tipps-fuer-eltern-und-lehrkraefte](https://www.spiegel.de/panorama/bildung/erziehung-und-bildung-so-macht-kindern-lernen-spass-tipps-fuer-eltern-und-lehrkraefte-a-c02fa905-1aea-40ac-8290-d3dca1bfd603#ref=rss)
-### ecuador
-
-* [https://www.spiegel.de/ausland/ecuador-drogenkrieg-gegen-die-narcos-kartelle-killer-korruption-spiegel-tv](https://www.spiegel.de/ausland/ecuador-drogenkrieg-gegen-die-narcos-kartelle-killer-korruption-spiegel-tv-a-e3a1c1d0-c4ac-4000-8cf5-22cbc14dbc26#ref=rss)
-### blick
-
-* [https://www.spiegel.de/kultur/tv/netflix-amazon-prime-disney-neue-serien-und-filme-im-januar-2024-was-sich-jetzt-lohnt](https://www.spiegel.de/kultur/tv/netflix-amazon-prime-disney-neue-serien-und-filme-im-januar-2024-was-sich-jetzt-lohnt-a-9d3ead25-8420-4a2e-95b8-c49a528a5806#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/steuer-mindestlohn-krankenkasse-das-hat-sich-zum-jahreswechsel-2025-geaendert](https://www.spiegel.de/wirtschaft/service/steuer-mindestlohn-krankenkasse-das-hat-sich-zum-jahreswechsel-2025-geaendert-a-833f471c-fd40-4f23-89f0-81baf5dcb993#ref=rss)
+* [https://www.spiegel.de/familie/neujahr-2025-zwoelf-familienfreundliche-vorsaetze-inklusive-soundtrack](https://www.spiegel.de/familie/neujahr-2025-zwoelf-familienfreundliche-vorsaetze-inklusive-soundtrack-a-c7026a9a-0389-43e4-b948-1048cec946de#ref=rss)
+* [https://www.spiegel.de/karriere/arbeitsrecht-2025-die-wichtigsten-neuerungen-fuer-beschaeftigte](https://www.spiegel.de/karriere/arbeitsrecht-2025-die-wichtigsten-neuerungen-fuer-beschaeftigte-a-0de82780-56df-4f24-a3df-66879f5b20a0#ref=rss)
 ### new
 
-* [https://www.spiegel.de/panorama/justiz/new-orleans-zehn-tote-nach-mutmasslichem-terrorakt](https://www.spiegel.de/panorama/justiz/new-orleans-zehn-tote-nach-mutmasslichem-terrorakt-a-a600f85e-cc42-448b-9c5e-a205f361660b#ref=rss)
+* [https://www.spiegel.de/ausland/new-orleans-gouverneur-von-louisiana-ruft-notstand-aus](https://www.spiegel.de/ausland/new-orleans-gouverneur-von-louisiana-ruft-notstand-aus-a-d36b1509-5675-4d5f-beaa-63234be8cc0b#ref=rss)
+* [https://www.spiegel.de/familie/neujahr-2025-zwoelf-familienfreundliche-vorsaetze-inklusive-soundtrack](https://www.spiegel.de/familie/neujahr-2025-zwoelf-familienfreundliche-vorsaetze-inklusive-soundtrack-a-c7026a9a-0389-43e4-b948-1048cec946de#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/sport/fussball/nachruf-auf-torwart-wolfgang-teddy-de-beer-von-borussia-dortmund-ein-borusse](https://www.spiegel.de/sport/fussball/nachruf-auf-torwart-wolfgang-teddy-de-beer-von-borussia-dortmund-ein-borusse-a-7c2b7c34-6188-442c-8313-371384ed22f4#ref=rss)
+* [https://www.spiegel.de/ausland/russischer-meinungsforscher-lew-gudkow-zum-ukrainekrieg-die-russen-glauben-dass-die-ukraine-kapitulieren-sollte](https://www.spiegel.de/ausland/russischer-meinungsforscher-lew-gudkow-zum-ukrainekrieg-die-russen-glauben-dass-die-ukraine-kapitulieren-sollte-a-14fad9ee-e7c6-44a5-843e-39d9e39674bc#ref=rss)
+* [https://www.spiegel.de/panorama/leute/katzenfrau-jocelyne-wildenstein-mit-79-jahren-gestorben](https://www.spiegel.de/panorama/leute/katzenfrau-jocelyne-wildenstein-mit-79-jahren-gestorben-a-ff631a4f-149e-4ce6-9bb5-f479336636aa#ref=rss)
+### neue
+
+* [https://www.spiegel.de/ausland/israel-gaza-konflikt-palaestinenser-klagen-ueber-tote-bei-angriff-in-humanitaerer-zone-in-gaza](https://www.spiegel.de/ausland/israel-gaza-konflikt-palaestinenser-klagen-ueber-tote-bei-angriff-in-humanitaerer-zone-in-gaza-a-b50429d6-8c7d-48e9-9851-93f10773acb8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/zahl-der-erwerbstaetigen-in-deutschland-auf-rekord-gestiegen](https://www.spiegel.de/wirtschaft/zahl-der-erwerbstaetigen-in-deutschland-auf-rekord-gestiegen-a-fdb31e7e-aad5-4f17-9131-8b748b94c674#ref=rss)
+* [https://www.spiegel.de/kultur/tv/neue-wdr-intendantin-katrin-vernau-ich-haette-das-duell-mit-hoecke-gerne-bei-uns-gesehen](https://www.spiegel.de/kultur/tv/neue-wdr-intendantin-katrin-vernau-ich-haette-das-duell-mit-hoecke-gerne-bei-uns-gesehen-a-fd93286d-65f1-4262-a832-65e1b12a93d6#ref=rss)
+### ukrainekrieg
+
+* [https://www.spiegel.de/ausland/russischer-meinungsforscher-lew-gudkow-zum-ukrainekrieg-die-russen-glauben-dass-die-ukraine-kapitulieren-sollte](https://www.spiegel.de/ausland/russischer-meinungsforscher-lew-gudkow-zum-ukrainekrieg-die-russen-glauben-dass-die-ukraine-kapitulieren-sollte-a-14fad9ee-e7c6-44a5-843e-39d9e39674bc#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-kritik-an-armeefuehrung-wegen-desertion-und-mangelhafter-organisation](https://www.spiegel.de/ausland/ukraine-krieg-kritik-an-armeefuehrung-wegen-desertion-und-mangelhafter-organisation-a-6debaf13-531c-49dd-b5b5-e4c9ab32c395#ref=rss)
+### sollte
+
+* [https://www.spiegel.de/ausland/russischer-meinungsforscher-lew-gudkow-zum-ukrainekrieg-die-russen-glauben-dass-die-ukraine-kapitulieren-sollte](https://www.spiegel.de/ausland/russischer-meinungsforscher-lew-gudkow-zum-ukrainekrieg-die-russen-glauben-dass-die-ukraine-kapitulieren-sollte-a-14fad9ee-e7c6-44a5-843e-39d9e39674bc#ref=rss)
+* [https://www.spiegel.de/start/geschenke-essen-reisen-was-sollte-man-sich-von-den-eltern-finanzieren-lassen](https://www.spiegel.de/start/geschenke-essen-reisen-was-sollte-man-sich-von-den-eltern-finanzieren-lassen-a-10089b9b-bd41-4966-80d1-e0c3ed8ea607#ref=rss)
+* [https://www.spiegel.de/gesundheit/ernaehrung/veganuary-ein-monat-vegan-ernaehren-was-es-bringt-und-worauf-man-achten-sollte](https://www.spiegel.de/gesundheit/ernaehrung/veganuary-ein-monat-vegan-ernaehren-was-es-bringt-und-worauf-man-achten-sollte-a-75568374-c528-46ca-81d0-c619056f50be#ref=rss)
+### jeden
+
+* [https://www.spiegel.de/ausland/russischer-meinungsforscher-lew-gudkow-zum-ukrainekrieg-die-russen-glauben-dass-die-ukraine-kapitulieren-sollte](https://www.spiegel.de/ausland/russischer-meinungsforscher-lew-gudkow-zum-ukrainekrieg-die-russen-glauben-dass-die-ukraine-kapitulieren-sollte-a-14fad9ee-e7c6-44a5-843e-39d9e39674bc#ref=rss)
+* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-und-mindful-drinking-mit-diesen-tipps-gelingt-es-weniger-zu-trinken](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-und-mindful-drinking-mit-diesen-tipps-gelingt-es-weniger-zu-trinken-a-d45e5264-dab8-4931-97a7-b4303ac5844f#ref=rss)
+* [https://www.spiegel.de/familie/neujahr-2025-zwoelf-familienfreundliche-vorsaetze-inklusive-soundtrack](https://www.spiegel.de/familie/neujahr-2025-zwoelf-familienfreundliche-vorsaetze-inklusive-soundtrack-a-c7026a9a-0389-43e4-b948-1048cec946de#ref=rss)
+### dry
+
+* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-kann-ich-ohne-alkohol-spass-haben-selbstversuch-auf-einer-sober-party](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-kann-ich-ohne-alkohol-spass-haben-selbstversuch-auf-einer-sober-party-a-465f54d0-d311-4868-a36b-b5c98d571d69#ref=rss)
+* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-und-mindful-drinking-mit-diesen-tipps-gelingt-es-weniger-zu-trinken](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-und-mindful-drinking-mit-diesen-tipps-gelingt-es-weniger-zu-trinken-a-d45e5264-dab8-4931-97a7-b4303ac5844f#ref=rss)
+* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-was-bringt-ein-monat-ohne-alkohol](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-was-bringt-ein-monat-ohne-alkohol-und-wie-haelt-man-durch-a-1300451.html#ref=rss)
+### january
+
+* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-kann-ich-ohne-alkohol-spass-haben-selbstversuch-auf-einer-sober-party](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-kann-ich-ohne-alkohol-spass-haben-selbstversuch-auf-einer-sober-party-a-465f54d0-d311-4868-a36b-b5c98d571d69#ref=rss)
+* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-und-mindful-drinking-mit-diesen-tipps-gelingt-es-weniger-zu-trinken](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-und-mindful-drinking-mit-diesen-tipps-gelingt-es-weniger-zu-trinken-a-d45e5264-dab8-4931-97a7-b4303ac5844f#ref=rss)
+* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-was-bringt-ein-monat-ohne-alkohol](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-was-bringt-ein-monat-ohne-alkohol-und-wie-haelt-man-durch-a-1300451.html#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/gesundheit/ernaehrung/veganuary-ein-monat-vegan-ernaehren-was-es-bringt-und-worauf-man-achten-sollte](https://www.spiegel.de/gesundheit/ernaehrung/veganuary-ein-monat-vegan-ernaehren-was-es-bringt-und-worauf-man-achten-sollte-a-75568374-c528-46ca-81d0-c619056f50be#ref=rss)
+* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-und-mindful-drinking-mit-diesen-tipps-gelingt-es-weniger-zu-trinken](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-und-mindful-drinking-mit-diesen-tipps-gelingt-es-weniger-zu-trinken-a-d45e5264-dab8-4931-97a7-b4303ac5844f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/fruehere-staatsanwaeltin-anne-brorhilker-haelt-cum-ex-betrug-fuer-weiterhin-moeglich](https://www.spiegel.de/wirtschaft/fruehere-staatsanwaeltin-anne-brorhilker-haelt-cum-ex-betrug-fuer-weiterhin-moeglich-a-dda73d63-dd62-4293-8a84-58a50e1d9561#ref=rss)
+### carlsen
+
+* [https://www.spiegel.de/sport/schach-aussergewoehnliches-finale-magnus-carlsen-widerspricht-betrugsvorwuerfen](https://www.spiegel.de/sport/schach-aussergewoehnliches-finale-magnus-carlsen-widerspricht-betrugsvorwuerfen-a-98124dd1-97e5-4409-bd5c-5a31b57e3b32#ref=rss)
+### schäfer
+
+* [https://www.spiegel.de/politik/deutschland/fdp-austritt-helmut-schaefer-wirft-christian-lindner-fuehrungsfehler-vor](https://www.spiegel.de/politik/deutschland/fdp-austritt-helmut-schaefer-wirft-christian-lindner-fuehrungsfehler-vor-a-0b138bf0-475e-4409-9f51-7c49f7a9cc09#ref=rss)
+### wirft
+
+* [https://www.spiegel.de/politik/deutschland/fdp-austritt-helmut-schaefer-wirft-christian-lindner-fuehrungsfehler-vor](https://www.spiegel.de/politik/deutschland/fdp-austritt-helmut-schaefer-wirft-christian-lindner-fuehrungsfehler-vor-a-0b138bf0-475e-4409-9f51-7c49f7a9cc09#ref=rss)
+* [https://www.spiegel.de/wirtschaft/diw-chef-fratzscher-wirft-parteien-unlautere-wahlversprechen-vor](https://www.spiegel.de/wirtschaft/diw-chef-fratzscher-wirft-parteien-unlautere-wahlversprechen-vor-a-f0bff1fc-458a-4597-beb9-cae2a476ae7c#ref=rss)
+### erbe
+
+* [https://www.spiegel.de/politik/deutschland/fdp-austritt-helmut-schaefer-wirft-christian-lindner-fuehrungsfehler-vor](https://www.spiegel.de/politik/deutschland/fdp-austritt-helmut-schaefer-wirft-christian-lindner-fuehrungsfehler-vor-a-0b138bf0-475e-4409-9f51-7c49f7a9cc09#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/weltraumschrott-forscher-sehen-darin-kulturelles-erbe](https://www.spiegel.de/wissenschaft/weltall/weltraumschrott-forscher-sehen-darin-kulturelles-erbe-a-4cf47faa-9bdf-40f5-8f12-bd9f1bddceeb#ref=rss)
 ### orleans
 
-* [https://www.spiegel.de/panorama/justiz/new-orleans-zehn-tote-nach-mutmasslichem-terrorakt](https://www.spiegel.de/panorama/justiz/new-orleans-zehn-tote-nach-mutmasslichem-terrorakt-a-a600f85e-cc42-448b-9c5e-a205f361660b#ref=rss)
-### tote
+* [https://www.spiegel.de/ausland/new-orleans-gouverneur-von-louisiana-ruft-notstand-aus](https://www.spiegel.de/ausland/new-orleans-gouverneur-von-louisiana-ruft-notstand-aus-a-d36b1509-5675-4d5f-beaa-63234be8cc0b#ref=rss)
+### gouverneur
 
-* [https://www.spiegel.de/panorama/justiz/new-orleans-zehn-tote-nach-mutmasslichem-terrorakt](https://www.spiegel.de/panorama/justiz/new-orleans-zehn-tote-nach-mutmasslichem-terrorakt-a-a600f85e-cc42-448b-9c5e-a205f361660b#ref=rss)
-* [https://www.spiegel.de/ausland/hamas-schiesst-an-silvester-raketen-auf-israel-palaestinensische-tote-an-neujahr-in-gaza](https://www.spiegel.de/ausland/hamas-schiesst-an-silvester-raketen-auf-israel-palaestinensische-tote-an-neujahr-in-gaza-a-0ba89d6a-e1c9-4bdf-baf9-8cad95621448#ref=rss)
-### elfenbeinküste
+* [https://www.spiegel.de/ausland/new-orleans-gouverneur-von-louisiana-ruft-notstand-aus](https://www.spiegel.de/ausland/new-orleans-gouverneur-von-louisiana-ruft-notstand-aus-a-d36b1509-5675-4d5f-beaa-63234be8cc0b#ref=rss)
+### cyprien
 
-* [https://www.spiegel.de/ausland/elfenbeinkueste-kuendigt-abzug-franzoesischer-truppen-an](https://www.spiegel.de/ausland/elfenbeinkueste-kuendigt-abzug-franzoesischer-truppen-an-a-2bd81f4c-fdd0-448c-a52a-423139f17d73#ref=rss)
-### whochef
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-cyprien-sarrazin-verlaesst-nach-sturz-die-intensivstation](https://www.spiegel.de/sport/wintersport/ski-alpin-cyprien-sarrazin-verlaesst-nach-sturz-die-intensivstation-a-2aba2cc9-b486-4af2-83c7-61e04b877efb#ref=rss)
+### sarrazin
 
-* [https://www.spiegel.de/ausland/jemen-who-chef-tedros-leidet-nach-israel-angriff-auf-huthi-flughafen-in-sanaa-an-tinnitus](https://www.spiegel.de/ausland/jemen-who-chef-tedros-leidet-nach-israel-angriff-auf-huthi-flughafen-in-sanaa-an-tinnitus-a-e3c2327b-85e6-4522-9c5b-f9a24bef2f53#ref=rss)
-### tedros
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-cyprien-sarrazin-verlaesst-nach-sturz-die-intensivstation](https://www.spiegel.de/sport/wintersport/ski-alpin-cyprien-sarrazin-verlaesst-nach-sturz-die-intensivstation-a-2aba2cc9-b486-4af2-83c7-61e04b877efb#ref=rss)
+### wolfgang
 
-* [https://www.spiegel.de/ausland/jemen-who-chef-tedros-leidet-nach-israel-angriff-auf-huthi-flughafen-in-sanaa-an-tinnitus](https://www.spiegel.de/ausland/jemen-who-chef-tedros-leidet-nach-israel-angriff-auf-huthi-flughafen-in-sanaa-an-tinnitus-a-e3c2327b-85e6-4522-9c5b-f9a24bef2f53#ref=rss)
-### sanaa
+* [https://www.spiegel.de/sport/fussball/nachruf-auf-torwart-wolfgang-teddy-de-beer-von-borussia-dortmund-ein-borusse](https://www.spiegel.de/sport/fussball/nachruf-auf-torwart-wolfgang-teddy-de-beer-von-borussia-dortmund-ein-borusse-a-7c2b7c34-6188-442c-8313-371384ed22f4#ref=rss)
+### teddy
 
-* [https://www.spiegel.de/ausland/jemen-who-chef-tedros-leidet-nach-israel-angriff-auf-huthi-flughafen-in-sanaa-an-tinnitus](https://www.spiegel.de/ausland/jemen-who-chef-tedros-leidet-nach-israel-angriff-auf-huthi-flughafen-in-sanaa-an-tinnitus-a-e3c2327b-85e6-4522-9c5b-f9a24bef2f53#ref=rss)
+* [https://www.spiegel.de/sport/fussball/nachruf-auf-torwart-wolfgang-teddy-de-beer-von-borussia-dortmund-ein-borusse](https://www.spiegel.de/sport/fussball/nachruf-auf-torwart-wolfgang-teddy-de-beer-von-borussia-dortmund-ein-borusse-a-7c2b7c34-6188-442c-8313-371384ed22f4#ref=rss)
+### de
+
+* [https://www.spiegel.de/sport/fussball/nachruf-auf-torwart-wolfgang-teddy-de-beer-von-borussia-dortmund-ein-borusse](https://www.spiegel.de/sport/fussball/nachruf-auf-torwart-wolfgang-teddy-de-beer-von-borussia-dortmund-ein-borusse-a-7c2b7c34-6188-442c-8313-371384ed22f4#ref=rss)
+### beer
+
+* [https://www.spiegel.de/sport/fussball/nachruf-auf-torwart-wolfgang-teddy-de-beer-von-borussia-dortmund-ein-borusse](https://www.spiegel.de/sport/fussball/nachruf-auf-torwart-wolfgang-teddy-de-beer-von-borussia-dortmund-ein-borusse-a-7c2b7c34-6188-442c-8313-371384ed22f4#ref=rss)
+### festen
+
+* [https://www.spiegel.de/sport/fussball/nachruf-auf-torwart-wolfgang-teddy-de-beer-von-borussia-dortmund-ein-borusse](https://www.spiegel.de/sport/fussball/nachruf-auf-torwart-wolfgang-teddy-de-beer-von-borussia-dortmund-ein-borusse-a-7c2b7c34-6188-442c-8313-371384ed22f4#ref=rss)
+* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-was-bringt-ein-monat-ohne-alkohol](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-was-bringt-ein-monat-ohne-alkohol-und-wie-haelt-man-durch-a-1300451.html#ref=rss)
+### fans
+
+* [https://www.spiegel.de/sport/fussball/nachruf-auf-torwart-wolfgang-teddy-de-beer-von-borussia-dortmund-ein-borusse](https://www.spiegel.de/sport/fussball/nachruf-auf-torwart-wolfgang-teddy-de-beer-von-borussia-dortmund-ein-borusse-a-7c2b7c34-6188-442c-8313-371384ed22f4#ref=rss)
+* [https://www.spiegel.de/panorama/leute/robbie-williams-ueberrascht-mit-gratis-konzert-in-melbourne](https://www.spiegel.de/panorama/leute/robbie-williams-ueberrascht-mit-gratis-konzert-in-melbourne-a-185e0e99-751a-4370-ba28-fde36f6731cd#ref=rss)
+### diesen
+
+* [https://www.spiegel.de/sport/fussball/nachruf-auf-torwart-wolfgang-teddy-de-beer-von-borussia-dortmund-ein-borusse](https://www.spiegel.de/sport/fussball/nachruf-auf-torwart-wolfgang-teddy-de-beer-von-borussia-dortmund-ein-borusse-a-7c2b7c34-6188-442c-8313-371384ed22f4#ref=rss)
+* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-und-mindful-drinking-mit-diesen-tipps-gelingt-es-weniger-zu-trinken](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-und-mindful-drinking-mit-diesen-tipps-gelingt-es-weniger-zu-trinken-a-d45e5264-dab8-4931-97a7-b4303ac5844f#ref=rss)
 ### israel
 
-* [https://www.spiegel.de/ausland/hamas-schiesst-an-silvester-raketen-auf-israel-palaestinensische-tote-an-neujahr-in-gaza](https://www.spiegel.de/ausland/hamas-schiesst-an-silvester-raketen-auf-israel-palaestinensische-tote-an-neujahr-in-gaza-a-0ba89d6a-e1c9-4bdf-baf9-8cad95621448#ref=rss)
-### gaza
+* [https://www.spiegel.de/ausland/israel-gaza-konflikt-palaestinenser-klagen-ueber-tote-bei-angriff-in-humanitaerer-zone-in-gaza](https://www.spiegel.de/ausland/israel-gaza-konflikt-palaestinenser-klagen-ueber-tote-bei-angriff-in-humanitaerer-zone-in-gaza-a-b50429d6-8c7d-48e9-9851-93f10773acb8#ref=rss)
+### kritik
 
-* [https://www.spiegel.de/ausland/hamas-schiesst-an-silvester-raketen-auf-israel-palaestinensische-tote-an-neujahr-in-gaza](https://www.spiegel.de/ausland/hamas-schiesst-an-silvester-raketen-auf-israel-palaestinensische-tote-an-neujahr-in-gaza-a-0ba89d6a-e1c9-4bdf-baf9-8cad95621448#ref=rss)
-### angegriffen
+* [https://www.spiegel.de/ausland/israel-gaza-konflikt-palaestinenser-klagen-ueber-tote-bei-angriff-in-humanitaerer-zone-in-gaza](https://www.spiegel.de/ausland/israel-gaza-konflikt-palaestinenser-klagen-ueber-tote-bei-angriff-in-humanitaerer-zone-in-gaza-a-b50429d6-8c7d-48e9-9851-93f10773acb8#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-kritik-an-armeefuehrung-wegen-desertion-und-mangelhafter-organisation](https://www.spiegel.de/ausland/ukraine-krieg-kritik-an-armeefuehrung-wegen-desertion-und-mangelhafter-organisation-a-6debaf13-531c-49dd-b5b5-e4c9ab32c395#ref=rss)
+### lew
 
-* [https://www.spiegel.de/ausland/hamas-schiesst-an-silvester-raketen-auf-israel-palaestinensische-tote-an-neujahr-in-gaza](https://www.spiegel.de/ausland/hamas-schiesst-an-silvester-raketen-auf-israel-palaestinensische-tote-an-neujahr-in-gaza-a-0ba89d6a-e1c9-4bdf-baf9-8cad95621448#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-frankreich-greift-islamischen-staat-an](https://www.spiegel.de/ausland/syrien-frankreich-greift-islamischen-staat-an-a-f26152cb-8e13-4528-8d28-5846e9e7b596#ref=rss)
-### islamischen
+* [https://www.spiegel.de/ausland/russischer-meinungsforscher-lew-gudkow-zum-ukrainekrieg-die-russen-glauben-dass-die-ukraine-kapitulieren-sollte](https://www.spiegel.de/ausland/russischer-meinungsforscher-lew-gudkow-zum-ukrainekrieg-die-russen-glauben-dass-die-ukraine-kapitulieren-sollte-a-14fad9ee-e7c6-44a5-843e-39d9e39674bc#ref=rss)
+### gudkow
 
-* [https://www.spiegel.de/ausland/syrien-frankreich-greift-islamischen-staat-an](https://www.spiegel.de/ausland/syrien-frankreich-greift-islamischen-staat-an-a-f26152cb-8e13-4528-8d28-5846e9e7b596#ref=rss)
-### staat
+* [https://www.spiegel.de/ausland/russischer-meinungsforscher-lew-gudkow-zum-ukrainekrieg-die-russen-glauben-dass-die-ukraine-kapitulieren-sollte](https://www.spiegel.de/ausland/russischer-meinungsforscher-lew-gudkow-zum-ukrainekrieg-die-russen-glauben-dass-die-ukraine-kapitulieren-sollte-a-14fad9ee-e7c6-44a5-843e-39d9e39674bc#ref=rss)
+### russen
 
-* [https://www.spiegel.de/ausland/syrien-frankreich-greift-islamischen-staat-an](https://www.spiegel.de/ausland/syrien-frankreich-greift-islamischen-staat-an-a-f26152cb-8e13-4528-8d28-5846e9e7b596#ref=rss)
-### söder
+* [https://www.spiegel.de/ausland/russischer-meinungsforscher-lew-gudkow-zum-ukrainekrieg-die-russen-glauben-dass-die-ukraine-kapitulieren-sollte](https://www.spiegel.de/ausland/russischer-meinungsforscher-lew-gudkow-zum-ukrainekrieg-die-russen-glauben-dass-die-ukraine-kapitulieren-sollte-a-14fad9ee-e7c6-44a5-843e-39d9e39674bc#ref=rss)
+### glauben
 
-* [https://www.spiegel.de/politik/deutschland/cdu-und-gruene-soeder-bekraeftigt-ablehnung-von-koalition-merz-in-schwieriger-position](https://www.spiegel.de/politik/deutschland/cdu-und-gruene-soeder-bekraeftigt-ablehnung-von-koalition-merz-in-schwieriger-position-a-a1dc7d38-3a01-4eea-a65a-1e2dc9f980c7#ref=rss)
-### koalition
+* [https://www.spiegel.de/ausland/russischer-meinungsforscher-lew-gudkow-zum-ukrainekrieg-die-russen-glauben-dass-die-ukraine-kapitulieren-sollte](https://www.spiegel.de/ausland/russischer-meinungsforscher-lew-gudkow-zum-ukrainekrieg-die-russen-glauben-dass-die-ukraine-kapitulieren-sollte-a-14fad9ee-e7c6-44a5-843e-39d9e39674bc#ref=rss)
+* [https://www.spiegel.de/familie/neujahr-2025-zwoelf-familienfreundliche-vorsaetze-inklusive-soundtrack](https://www.spiegel.de/familie/neujahr-2025-zwoelf-familienfreundliche-vorsaetze-inklusive-soundtrack-a-c7026a9a-0389-43e4-b948-1048cec946de#ref=rss)
+### fast
 
-* [https://www.spiegel.de/politik/deutschland/cdu-und-gruene-soeder-bekraeftigt-ablehnung-von-koalition-merz-in-schwieriger-position](https://www.spiegel.de/politik/deutschland/cdu-und-gruene-soeder-bekraeftigt-ablehnung-von-koalition-merz-in-schwieriger-position-a-a1dc7d38-3a01-4eea-a65a-1e2dc9f980c7#ref=rss)
-### merz
+* [https://www.spiegel.de/ausland/russischer-meinungsforscher-lew-gudkow-zum-ukrainekrieg-die-russen-glauben-dass-die-ukraine-kapitulieren-sollte](https://www.spiegel.de/ausland/russischer-meinungsforscher-lew-gudkow-zum-ukrainekrieg-die-russen-glauben-dass-die-ukraine-kapitulieren-sollte-a-14fad9ee-e7c6-44a5-843e-39d9e39674bc#ref=rss)
+* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-und-mindful-drinking-mit-diesen-tipps-gelingt-es-weniger-zu-trinken](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-und-mindful-drinking-mit-diesen-tipps-gelingt-es-weniger-zu-trinken-a-d45e5264-dab8-4931-97a7-b4303ac5844f#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/politik/deutschland/cdu-und-gruene-soeder-bekraeftigt-ablehnung-von-koalition-merz-in-schwieriger-position](https://www.spiegel.de/politik/deutschland/cdu-und-gruene-soeder-bekraeftigt-ablehnung-von-koalition-merz-in-schwieriger-position-a-a1dc7d38-3a01-4eea-a65a-1e2dc9f980c7#ref=rss)
-### dartswm
+* [https://www.spiegel.de/ausland/russischer-meinungsforscher-lew-gudkow-zum-ukrainekrieg-die-russen-glauben-dass-die-ukraine-kapitulieren-sollte](https://www.spiegel.de/ausland/russischer-meinungsforscher-lew-gudkow-zum-ukrainekrieg-die-russen-glauben-dass-die-ukraine-kapitulieren-sollte-a-14fad9ee-e7c6-44a5-843e-39d9e39674bc#ref=rss)
+* [https://www.spiegel.de/wirtschaft/zahl-der-erwerbstaetigen-in-deutschland-auf-rekord-gestiegen](https://www.spiegel.de/wirtschaft/zahl-der-erwerbstaetigen-in-deutschland-auf-rekord-gestiegen-a-fdb31e7e-aad5-4f17-9131-8b748b94c674#ref=rss)
+### weltraumschrott
 
-* [https://www.spiegel.de/sport/darts-wm-2025-chris-dobey-gewinnt-gegen-seine-nervositaet-und-gerwyn-price](https://www.spiegel.de/sport/darts-wm-2025-chris-dobey-gewinnt-gegen-seine-nervositaet-und-gerwyn-price-a-a45bc1e2-3e1a-4026-a062-34d0785a408a#ref=rss)
-### chris
+* [https://www.spiegel.de/wissenschaft/weltall/weltraumschrott-forscher-sehen-darin-kulturelles-erbe](https://www.spiegel.de/wissenschaft/weltall/weltraumschrott-forscher-sehen-darin-kulturelles-erbe-a-4cf47faa-9bdf-40f5-8f12-bd9f1bddceeb#ref=rss)
+### oft
 
-* [https://www.spiegel.de/sport/darts-wm-2025-chris-dobey-gewinnt-gegen-seine-nervositaet-und-gerwyn-price](https://www.spiegel.de/sport/darts-wm-2025-chris-dobey-gewinnt-gegen-seine-nervositaet-und-gerwyn-price-a-a45bc1e2-3e1a-4026-a062-34d0785a408a#ref=rss)
-### dobey
+* [https://www.spiegel.de/wissenschaft/weltall/weltraumschrott-forscher-sehen-darin-kulturelles-erbe](https://www.spiegel.de/wissenschaft/weltall/weltraumschrott-forscher-sehen-darin-kulturelles-erbe-a-4cf47faa-9bdf-40f5-8f12-bd9f1bddceeb#ref=rss)
+* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-kann-ich-ohne-alkohol-spass-haben-selbstversuch-auf-einer-sober-party](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-kann-ich-ohne-alkohol-spass-haben-selbstversuch-auf-einer-sober-party-a-465f54d0-d311-4868-a36b-b5c98d571d69#ref=rss)
+### essen
 
-* [https://www.spiegel.de/sport/darts-wm-2025-chris-dobey-gewinnt-gegen-seine-nervositaet-und-gerwyn-price](https://www.spiegel.de/sport/darts-wm-2025-chris-dobey-gewinnt-gegen-seine-nervositaet-und-gerwyn-price-a-a45bc1e2-3e1a-4026-a062-34d0785a408a#ref=rss)
-### gerwyn
+* [https://www.spiegel.de/start/geschenke-essen-reisen-was-sollte-man-sich-von-den-eltern-finanzieren-lassen](https://www.spiegel.de/start/geschenke-essen-reisen-was-sollte-man-sich-von-den-eltern-finanzieren-lassen-a-10089b9b-bd41-4966-80d1-e0c3ed8ea607#ref=rss)
+* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-und-mindful-drinking-mit-diesen-tipps-gelingt-es-weniger-zu-trinken](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-und-mindful-drinking-mit-diesen-tipps-gelingt-es-weniger-zu-trinken-a-d45e5264-dab8-4931-97a7-b4303ac5844f#ref=rss)
+### eltern
 
-* [https://www.spiegel.de/sport/darts-wm-2025-chris-dobey-gewinnt-gegen-seine-nervositaet-und-gerwyn-price](https://www.spiegel.de/sport/darts-wm-2025-chris-dobey-gewinnt-gegen-seine-nervositaet-und-gerwyn-price-a-a45bc1e2-3e1a-4026-a062-34d0785a408a#ref=rss)
-### price
+* [https://www.spiegel.de/start/geschenke-essen-reisen-was-sollte-man-sich-von-den-eltern-finanzieren-lassen](https://www.spiegel.de/start/geschenke-essen-reisen-was-sollte-man-sich-von-den-eltern-finanzieren-lassen-a-10089b9b-bd41-4966-80d1-e0c3ed8ea607#ref=rss)
+### frauen
 
-* [https://www.spiegel.de/sport/darts-wm-2025-chris-dobey-gewinnt-gegen-seine-nervositaet-und-gerwyn-price](https://www.spiegel.de/sport/darts-wm-2025-chris-dobey-gewinnt-gegen-seine-nervositaet-und-gerwyn-price-a-a45bc1e2-3e1a-4026-a062-34d0785a408a#ref=rss)
-### stand
+* [https://www.spiegel.de/start/geschenke-essen-reisen-was-sollte-man-sich-von-den-eltern-finanzieren-lassen](https://www.spiegel.de/start/geschenke-essen-reisen-was-sollte-man-sich-von-den-eltern-finanzieren-lassen-a-10089b9b-bd41-4966-80d1-e0c3ed8ea607#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gleichstellung-frauenanteil-in-dax-vorstaenden-erreicht-ein-viertel](https://www.spiegel.de/wirtschaft/gleichstellung-frauenanteil-in-dax-vorstaenden-erreicht-ein-viertel-a-9893451c-f36a-4edd-bd9e-f551bd3bc900#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/sport/darts-wm-2025-chris-dobey-gewinnt-gegen-seine-nervositaet-und-gerwyn-price](https://www.spiegel.de/sport/darts-wm-2025-chris-dobey-gewinnt-gegen-seine-nervositaet-und-gerwyn-price-a-a45bc1e2-3e1a-4026-a062-34d0785a408a#ref=rss)
-* [https://www.spiegel.de/geschichte/tokio-kuehne-plaene-fuer-japans-hauptstadt-tokio-ist-hoffnungslos](https://www.spiegel.de/geschichte/tokio-kuehne-plaene-fuer-japans-hauptstadt-tokio-ist-hoffnungslos-a-49aeaffa-1632-48d7-b52b-f9641e173bea#ref=rss)
-### viertelfinale
+* [https://www.spiegel.de/start/geschenke-essen-reisen-was-sollte-man-sich-von-den-eltern-finanzieren-lassen](https://www.spiegel.de/start/geschenke-essen-reisen-was-sollte-man-sich-von-den-eltern-finanzieren-lassen-a-10089b9b-bd41-4966-80d1-e0c3ed8ea607#ref=rss)
+* [https://www.spiegel.de/gesundheit/ernaehrung/veganuary-ein-monat-vegan-ernaehren-was-es-bringt-und-worauf-man-achten-sollte](https://www.spiegel.de/gesundheit/ernaehrung/veganuary-ein-monat-vegan-ernaehren-was-es-bringt-und-worauf-man-achten-sollte-a-75568374-c528-46ca-81d0-c619056f50be#ref=rss)
+### organisation
 
-* [https://www.spiegel.de/sport/darts-wm-2025-chris-dobey-gewinnt-gegen-seine-nervositaet-und-gerwyn-price](https://www.spiegel.de/sport/darts-wm-2025-chris-dobey-gewinnt-gegen-seine-nervositaet-und-gerwyn-price-a-a45bc1e2-3e1a-4026-a062-34d0785a408a#ref=rss)
-* [https://www.spiegel.de/sport/tennis/tennis-deutsches-team-scheidet-beim-united-cup-aus-alexander-zverev-verletzt](https://www.spiegel.de/sport/tennis/tennis-deutsches-team-scheidet-beim-united-cup-aus-alexander-zverev-verletzt-a-df63dfe0-cb5d-4334-a506-419158f436e2#ref=rss)
-### zwei
+* [https://www.spiegel.de/ausland/ukraine-krieg-kritik-an-armeefuehrung-wegen-desertion-und-mangelhafter-organisation](https://www.spiegel.de/ausland/ukraine-krieg-kritik-an-armeefuehrung-wegen-desertion-und-mangelhafter-organisation-a-6debaf13-531c-49dd-b5b5-e4c9ab32c395#ref=rss)
+### zahl
 
-* [https://www.spiegel.de/sport/darts-wm-2025-chris-dobey-gewinnt-gegen-seine-nervositaet-und-gerwyn-price](https://www.spiegel.de/sport/darts-wm-2025-chris-dobey-gewinnt-gegen-seine-nervositaet-und-gerwyn-price-a-a45bc1e2-3e1a-4026-a062-34d0785a408a#ref=rss)
-* [https://www.spiegel.de/kultur/tv/tatort-aus-ludwigshafen-der-stelzenmann-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-aus-ludwigshafen-der-stelzenmann-im-schnellcheck-a-1caf22cc-0ceb-4718-8125-58bcaedd4d90#ref=rss)
-### daniel
+* [https://www.spiegel.de/ausland/ukraine-krieg-kritik-an-armeefuehrung-wegen-desertion-und-mangelhafter-organisation](https://www.spiegel.de/ausland/ukraine-krieg-kritik-an-armeefuehrung-wegen-desertion-und-mangelhafter-organisation-a-6debaf13-531c-49dd-b5b5-e4c9ab32c395#ref=rss)
+* [https://www.spiegel.de/wirtschaft/zahl-der-erwerbstaetigen-in-deutschland-auf-rekord-gestiegen](https://www.spiegel.de/wirtschaft/zahl-der-erwerbstaetigen-in-deutschland-auf-rekord-gestiegen-a-fdb31e7e-aad5-4f17-9131-8b748b94c674#ref=rss)
+### bringt
 
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-daniel-tschofenig-gewinnt-neujahrsspringen-pius-paschke-abgeschlagen](https://www.spiegel.de/sport/wintersport/vierschanzentournee-daniel-tschofenig-gewinnt-neujahrsspringen-pius-paschke-abgeschlagen-a-f7514dd3-e694-411d-8bc0-26b63c355bb3#ref=rss)
-### tschofenig
+* [https://www.spiegel.de/gesundheit/ernaehrung/veganuary-ein-monat-vegan-ernaehren-was-es-bringt-und-worauf-man-achten-sollte](https://www.spiegel.de/gesundheit/ernaehrung/veganuary-ein-monat-vegan-ernaehren-was-es-bringt-und-worauf-man-achten-sollte-a-75568374-c528-46ca-81d0-c619056f50be#ref=rss)
+* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-was-bringt-ein-monat-ohne-alkohol](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-was-bringt-ein-monat-ohne-alkohol-und-wie-haelt-man-durch-a-1300451.html#ref=rss)
+### achten
 
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-daniel-tschofenig-gewinnt-neujahrsspringen-pius-paschke-abgeschlagen](https://www.spiegel.de/sport/wintersport/vierschanzentournee-daniel-tschofenig-gewinnt-neujahrsspringen-pius-paschke-abgeschlagen-a-f7514dd3-e694-411d-8bc0-26b63c355bb3#ref=rss)
-### johannes
+* [https://www.spiegel.de/gesundheit/ernaehrung/veganuary-ein-monat-vegan-ernaehren-was-es-bringt-und-worauf-man-achten-sollte](https://www.spiegel.de/gesundheit/ernaehrung/veganuary-ein-monat-vegan-ernaehren-was-es-bringt-und-worauf-man-achten-sollte-a-75568374-c528-46ca-81d0-c619056f50be#ref=rss)
+### januar
 
-* [https://www.spiegel.de/politik/deutschland/johannes-kahrs-linke-will-spd-mann-kahrs-in-cum-ex-affaere-als-zeugen-hoeren](https://www.spiegel.de/politik/deutschland/johannes-kahrs-linke-will-spd-mann-kahrs-in-cum-ex-affaere-als-zeugen-hoeren-a-ea90b01b-033a-4976-9a1d-8a30b1464496#ref=rss)
-### cumexaffäre
+* [https://www.spiegel.de/gesundheit/ernaehrung/veganuary-ein-monat-vegan-ernaehren-was-es-bringt-und-worauf-man-achten-sollte](https://www.spiegel.de/gesundheit/ernaehrung/veganuary-ein-monat-vegan-ernaehren-was-es-bringt-und-worauf-man-achten-sollte-a-75568374-c528-46ca-81d0-c619056f50be#ref=rss)
+* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-was-bringt-ein-monat-ohne-alkohol](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-was-bringt-ein-monat-ohne-alkohol-und-wie-haelt-man-durch-a-1300451.html#ref=rss)
+### viele
 
-* [https://www.spiegel.de/politik/deutschland/johannes-kahrs-linke-will-spd-mann-kahrs-in-cum-ex-affaere-als-zeugen-hoeren](https://www.spiegel.de/politik/deutschland/johannes-kahrs-linke-will-spd-mann-kahrs-in-cum-ex-affaere-als-zeugen-hoeren-a-ea90b01b-033a-4976-9a1d-8a30b1464496#ref=rss)
-### japans
+* [https://www.spiegel.de/gesundheit/ernaehrung/veganuary-ein-monat-vegan-ernaehren-was-es-bringt-und-worauf-man-achten-sollte](https://www.spiegel.de/gesundheit/ernaehrung/veganuary-ein-monat-vegan-ernaehren-was-es-bringt-und-worauf-man-achten-sollte-a-75568374-c528-46ca-81d0-c619056f50be#ref=rss)
+* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-was-bringt-ein-monat-ohne-alkohol](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-was-bringt-ein-monat-ohne-alkohol-und-wie-haelt-man-durch-a-1300451.html#ref=rss)
+### magnus
 
-* [https://www.spiegel.de/geschichte/tokio-kuehne-plaene-fuer-japans-hauptstadt-tokio-ist-hoffnungslos](https://www.spiegel.de/geschichte/tokio-kuehne-plaene-fuer-japans-hauptstadt-tokio-ist-hoffnungslos-a-49aeaffa-1632-48d7-b52b-f9641e173bea#ref=rss)
-### hauptstadt
+* [https://www.spiegel.de/sport/schach-aussergewoehnliches-finale-magnus-carlsen-widerspricht-betrugsvorwuerfen](https://www.spiegel.de/sport/schach-aussergewoehnliches-finale-magnus-carlsen-widerspricht-betrugsvorwuerfen-a-98124dd1-97e5-4409-bd5c-5a31b57e3b32#ref=rss)
+### ende
 
-* [https://www.spiegel.de/geschichte/tokio-kuehne-plaene-fuer-japans-hauptstadt-tokio-ist-hoffnungslos](https://www.spiegel.de/geschichte/tokio-kuehne-plaene-fuer-japans-hauptstadt-tokio-ist-hoffnungslos-a-49aeaffa-1632-48d7-b52b-f9641e173bea#ref=rss)
-### ludwigshafen
+* [https://www.spiegel.de/sport/schach-aussergewoehnliches-finale-magnus-carlsen-widerspricht-betrugsvorwuerfen](https://www.spiegel.de/sport/schach-aussergewoehnliches-finale-magnus-carlsen-widerspricht-betrugsvorwuerfen-a-98124dd1-97e5-4409-bd5c-5a31b57e3b32#ref=rss)
+* [https://www.spiegel.de/wirtschaft/zahl-der-erwerbstaetigen-in-deutschland-auf-rekord-gestiegen](https://www.spiegel.de/wirtschaft/zahl-der-erwerbstaetigen-in-deutschland-auf-rekord-gestiegen-a-fdb31e7e-aad5-4f17-9131-8b748b94c674#ref=rss)
+### weniger
 
-* [https://www.spiegel.de/kultur/tv/tatort-aus-ludwigshafen-der-stelzenmann-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-aus-ludwigshafen-der-stelzenmann-im-schnellcheck-a-1caf22cc-0ceb-4718-8125-58bcaedd4d90#ref=rss)
-### nehmen
+* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-und-mindful-drinking-mit-diesen-tipps-gelingt-es-weniger-zu-trinken](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-und-mindful-drinking-mit-diesen-tipps-gelingt-es-weniger-zu-trinken-a-d45e5264-dab8-4931-97a7-b4303ac5844f#ref=rss)
+### trinken
 
-* [https://www.spiegel.de/kultur/tv/tatort-aus-ludwigshafen-der-stelzenmann-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-aus-ludwigshafen-der-stelzenmann-im-schnellcheck-a-1caf22cc-0ceb-4718-8125-58bcaedd4d90#ref=rss)
-* [https://www.spiegel.de/start/arbeitsjahr-2025-neun-tipps-um-stress-aus-dem-job-zu-nehmen](https://www.spiegel.de/start/arbeitsjahr-2025-neun-tipps-um-stress-aus-dem-job-zu-nehmen-a-d6f845e9-253b-407d-8419-544d07732a6d#ref=rss)
-### united
+* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-und-mindful-drinking-mit-diesen-tipps-gelingt-es-weniger-zu-trinken](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-und-mindful-drinking-mit-diesen-tipps-gelingt-es-weniger-zu-trinken-a-d45e5264-dab8-4931-97a7-b4303ac5844f#ref=rss)
+### fragen
 
-* [https://www.spiegel.de/sport/tennis/tennis-deutsches-team-scheidet-beim-united-cup-aus-alexander-zverev-verletzt](https://www.spiegel.de/sport/tennis/tennis-deutsches-team-scheidet-beim-united-cup-aus-alexander-zverev-verletzt-a-df63dfe0-cb5d-4334-a506-419158f436e2#ref=rss)
-### alexander
+* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-was-bringt-ein-monat-ohne-alkohol](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-was-bringt-ein-monat-ohne-alkohol-und-wie-haelt-man-durch-a-1300451.html#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/kosten-nach-scheidung-unterhalt-versicherungen-und-vermoegensaufteilung](https://www.spiegel.de/wirtschaft/service/kosten-nach-scheidung-unterhalt-versicherungen-und-vermoegensaufteilung-a-d9b18473-e84f-4d5a-83b5-159e137a8407#ref=rss)
+### erreicht
 
-* [https://www.spiegel.de/sport/tennis/tennis-deutsches-team-scheidet-beim-united-cup-aus-alexander-zverev-verletzt](https://www.spiegel.de/sport/tennis/tennis-deutsches-team-scheidet-beim-united-cup-aus-alexander-zverev-verletzt-a-df63dfe0-cb5d-4334-a506-419158f436e2#ref=rss)
-### zverev
+* [https://www.spiegel.de/wirtschaft/zahl-der-erwerbstaetigen-in-deutschland-auf-rekord-gestiegen](https://www.spiegel.de/wirtschaft/zahl-der-erwerbstaetigen-in-deutschland-auf-rekord-gestiegen-a-fdb31e7e-aad5-4f17-9131-8b748b94c674#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gleichstellung-frauenanteil-in-dax-vorstaenden-erreicht-ein-viertel](https://www.spiegel.de/wirtschaft/gleichstellung-frauenanteil-in-dax-vorstaenden-erreicht-ein-viertel-a-9893451c-f36a-4edd-bd9e-f551bd3bc900#ref=rss)
+### allerdings
 
-* [https://www.spiegel.de/sport/tennis/tennis-deutsches-team-scheidet-beim-united-cup-aus-alexander-zverev-verletzt](https://www.spiegel.de/sport/tennis/tennis-deutsches-team-scheidet-beim-united-cup-aus-alexander-zverev-verletzt-a-df63dfe0-cb5d-4334-a506-419158f436e2#ref=rss)
-### lara
+* [https://www.spiegel.de/wirtschaft/zahl-der-erwerbstaetigen-in-deutschland-auf-rekord-gestiegen](https://www.spiegel.de/wirtschaft/zahl-der-erwerbstaetigen-in-deutschland-auf-rekord-gestiegen-a-fdb31e7e-aad5-4f17-9131-8b748b94c674#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/inversionswetterlage-und-feuerwerk-sorgen-fuer-hohe-feinstaubwerte-in-sueddeutschland](https://www.spiegel.de/wissenschaft/mensch/inversionswetterlage-und-feuerwerk-sorgen-fuer-hohe-feinstaubwerte-in-sueddeutschland-a-f6f92d86-f6c5-4d19-88e1-68a1c4f49599#ref=rss)
+### zwölf
 
-* [https://www.spiegel.de/sport/turnen-mit-lara-hinsberger-prangert-die-naechste-sportlerin-missstaende-an](https://www.spiegel.de/sport/turnen-mit-lara-hinsberger-prangert-die-naechste-sportlerin-missstaende-an-a-0293a032-ebeb-40e1-895b-218a1182367e#ref=rss)
-### hinsberger
+* [https://www.spiegel.de/familie/neujahr-2025-zwoelf-familienfreundliche-vorsaetze-inklusive-soundtrack](https://www.spiegel.de/familie/neujahr-2025-zwoelf-familienfreundliche-vorsaetze-inklusive-soundtrack-a-c7026a9a-0389-43e4-b948-1048cec946de#ref=rss)
+### familienfreundliche
 
-* [https://www.spiegel.de/sport/turnen-mit-lara-hinsberger-prangert-die-naechste-sportlerin-missstaende-an](https://www.spiegel.de/sport/turnen-mit-lara-hinsberger-prangert-die-naechste-sportlerin-missstaende-an-a-0293a032-ebeb-40e1-895b-218a1182367e#ref=rss)
-### neun
+* [https://www.spiegel.de/familie/neujahr-2025-zwoelf-familienfreundliche-vorsaetze-inklusive-soundtrack](https://www.spiegel.de/familie/neujahr-2025-zwoelf-familienfreundliche-vorsaetze-inklusive-soundtrack-a-c7026a9a-0389-43e4-b948-1048cec946de#ref=rss)
+### vorsätze
 
-* [https://www.spiegel.de/start/arbeitsjahr-2025-neun-tipps-um-stress-aus-dem-job-zu-nehmen](https://www.spiegel.de/start/arbeitsjahr-2025-neun-tipps-um-stress-aus-dem-job-zu-nehmen-a-d6f845e9-253b-407d-8419-544d07732a6d#ref=rss)
-### job
+* [https://www.spiegel.de/familie/neujahr-2025-zwoelf-familienfreundliche-vorsaetze-inklusive-soundtrack](https://www.spiegel.de/familie/neujahr-2025-zwoelf-familienfreundliche-vorsaetze-inklusive-soundtrack-a-c7026a9a-0389-43e4-b948-1048cec946de#ref=rss)
+### inklusive
 
-* [https://www.spiegel.de/start/arbeitsjahr-2025-neun-tipps-um-stress-aus-dem-job-zu-nehmen](https://www.spiegel.de/start/arbeitsjahr-2025-neun-tipps-um-stress-aus-dem-job-zu-nehmen-a-d6f845e9-253b-407d-8419-544d07732a6d#ref=rss)
-### mexiko
+* [https://www.spiegel.de/familie/neujahr-2025-zwoelf-familienfreundliche-vorsaetze-inklusive-soundtrack](https://www.spiegel.de/familie/neujahr-2025-zwoelf-familienfreundliche-vorsaetze-inklusive-soundtrack-a-c7026a9a-0389-43e4-b948-1048cec946de#ref=rss)
+### soundtrack
 
-* [https://www.spiegel.de/ausland/psychedelika-retreats-in-mexiko-der-trip-aus-dem-die-traeume-sind](https://www.spiegel.de/ausland/psychedelika-retreats-in-mexiko-der-trip-aus-dem-die-traeume-sind-a-a4f63204-ab91-4e8e-ac27-06f517a2ad88#ref=rss)
-### elon
+* [https://www.spiegel.de/familie/neujahr-2025-zwoelf-familienfreundliche-vorsaetze-inklusive-soundtrack](https://www.spiegel.de/familie/neujahr-2025-zwoelf-familienfreundliche-vorsaetze-inklusive-soundtrack-a-c7026a9a-0389-43e4-b948-1048cec946de#ref=rss)
+### zukunft
 
-* [https://www.spiegel.de/politik/deutschland/elon-musk-spd-fraktionschef-muetzenich-wirft-trump-berater-musk-grenzueberschreitung-vor](https://www.spiegel.de/politik/deutschland/elon-musk-spd-fraktionschef-muetzenich-wirft-trump-berater-musk-grenzueberschreitung-vor-a-caaa9fde-982c-4813-b53f-ce9ef0320edb#ref=rss)
-### trumpberater
+* [https://www.spiegel.de/familie/neujahr-2025-zwoelf-familienfreundliche-vorsaetze-inklusive-soundtrack](https://www.spiegel.de/familie/neujahr-2025-zwoelf-familienfreundliche-vorsaetze-inklusive-soundtrack-a-c7026a9a-0389-43e4-b948-1048cec946de#ref=rss)
+* [https://www.spiegel.de/panorama/leute/robbie-williams-ueberrascht-mit-gratis-konzert-in-melbourne](https://www.spiegel.de/panorama/leute/robbie-williams-ueberrascht-mit-gratis-konzert-in-melbourne-a-185e0e99-751a-4370-ba28-fde36f6731cd#ref=rss)
+### feuerwerk
 
-* [https://www.spiegel.de/politik/deutschland/elon-musk-spd-fraktionschef-muetzenich-wirft-trump-berater-musk-grenzueberschreitung-vor](https://www.spiegel.de/politik/deutschland/elon-musk-spd-fraktionschef-muetzenich-wirft-trump-berater-musk-grenzueberschreitung-vor-a-caaa9fde-982c-4813-b53f-ce9ef0320edb#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/inversionswetterlage-und-feuerwerk-sorgen-fuer-hohe-feinstaubwerte-in-sueddeutschland](https://www.spiegel.de/wissenschaft/mensch/inversionswetterlage-und-feuerwerk-sorgen-fuer-hohe-feinstaubwerte-in-sueddeutschland-a-f6f92d86-f6c5-4d19-88e1-68a1c4f49599#ref=rss)
+### sorgen
+
+* [https://www.spiegel.de/wissenschaft/mensch/inversionswetterlage-und-feuerwerk-sorgen-fuer-hohe-feinstaubwerte-in-sueddeutschland](https://www.spiegel.de/wissenschaft/mensch/inversionswetterlage-und-feuerwerk-sorgen-fuer-hohe-feinstaubwerte-in-sueddeutschland-a-f6f92d86-f6c5-4d19-88e1-68a1c4f49599#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/csu-will-bleiberecht-nur-noch-fuer-migranten-die-fuer-sich-selbst-sorgen-koennen](https://www.spiegel.de/politik/deutschland/csu-will-bleiberecht-nur-noch-fuer-migranten-die-fuer-sich-selbst-sorgen-koennen-a-d45a1889-6af2-45ac-87ba-0e837adfc254#ref=rss)
+### feinstaubwerte
+
+* [https://www.spiegel.de/wissenschaft/mensch/inversionswetterlage-und-feuerwerk-sorgen-fuer-hohe-feinstaubwerte-in-sueddeutschland](https://www.spiegel.de/wissenschaft/mensch/inversionswetterlage-und-feuerwerk-sorgen-fuer-hohe-feinstaubwerte-in-sueddeutschland-a-f6f92d86-f6c5-4d19-88e1-68a1c4f49599#ref=rss)
+### viertel
+
+* [https://www.spiegel.de/wirtschaft/gleichstellung-frauenanteil-in-dax-vorstaenden-erreicht-ein-viertel](https://www.spiegel.de/wirtschaft/gleichstellung-frauenanteil-in-dax-vorstaenden-erreicht-ein-viertel-a-9893451c-f36a-4edd-bd9e-f551bd3bc900#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/wirtschaft/gleichstellung-frauenanteil-in-dax-vorstaenden-erreicht-ein-viertel](https://www.spiegel.de/wirtschaft/gleichstellung-frauenanteil-in-dax-vorstaenden-erreicht-ein-viertel-a-9893451c-f36a-4edd-bd9e-f551bd3bc900#ref=rss)
+* [https://www.spiegel.de/panorama/leute/robbie-williams-ueberrascht-mit-gratis-konzert-in-melbourne](https://www.spiegel.de/panorama/leute/robbie-williams-ueberrascht-mit-gratis-konzert-in-melbourne-a-185e0e99-751a-4370-ba28-fde36f6731cd#ref=rss)
+### katrin
+
+* [https://www.spiegel.de/kultur/tv/neue-wdr-intendantin-katrin-vernau-ich-haette-das-duell-mit-hoecke-gerne-bei-uns-gesehen](https://www.spiegel.de/kultur/tv/neue-wdr-intendantin-katrin-vernau-ich-haette-das-duell-mit-hoecke-gerne-bei-uns-gesehen-a-fd93286d-65f1-4262-a832-65e1b12a93d6#ref=rss)
+### vernau
+
+* [https://www.spiegel.de/kultur/tv/neue-wdr-intendantin-katrin-vernau-ich-haette-das-duell-mit-hoecke-gerne-bei-uns-gesehen](https://www.spiegel.de/kultur/tv/neue-wdr-intendantin-katrin-vernau-ich-haette-das-duell-mit-hoecke-gerne-bei-uns-gesehen-a-fd93286d-65f1-4262-a832-65e1b12a93d6#ref=rss)
+### uns
+
+* [https://www.spiegel.de/kultur/tv/neue-wdr-intendantin-katrin-vernau-ich-haette-das-duell-mit-hoecke-gerne-bei-uns-gesehen](https://www.spiegel.de/kultur/tv/neue-wdr-intendantin-katrin-vernau-ich-haette-das-duell-mit-hoecke-gerne-bei-uns-gesehen-a-fd93286d-65f1-4262-a832-65e1b12a93d6#ref=rss)
+* [https://www.spiegel.de/karriere/arbeitsrecht-2025-die-wichtigsten-neuerungen-fuer-beschaeftigte](https://www.spiegel.de/karriere/arbeitsrecht-2025-die-wichtigsten-neuerungen-fuer-beschaeftigte-a-0de82780-56df-4f24-a3df-66879f5b20a0#ref=rss)
+### iran
+
+* [https://www.spiegel.de/kultur/narges-mohammadi-prangert-schwere-sexuelle-gewalt-in-iranischen-gefaengnissen-an](https://www.spiegel.de/kultur/narges-mohammadi-prangert-schwere-sexuelle-gewalt-in-iranischen-gefaengnissen-an-a-d8d6cd0c-bb5b-408e-add0-2bdaafd8c6c9#ref=rss)
+### narges
+
+* [https://www.spiegel.de/kultur/narges-mohammadi-prangert-schwere-sexuelle-gewalt-in-iranischen-gefaengnissen-an](https://www.spiegel.de/kultur/narges-mohammadi-prangert-schwere-sexuelle-gewalt-in-iranischen-gefaengnissen-an-a-d8d6cd0c-bb5b-408e-add0-2bdaafd8c6c9#ref=rss)
+### mohammadi
+
+* [https://www.spiegel.de/kultur/narges-mohammadi-prangert-schwere-sexuelle-gewalt-in-iranischen-gefaengnissen-an](https://www.spiegel.de/kultur/narges-mohammadi-prangert-schwere-sexuelle-gewalt-in-iranischen-gefaengnissen-an-a-d8d6cd0c-bb5b-408e-add0-2bdaafd8c6c9#ref=rss)
+### katzenfrau
+
+* [https://www.spiegel.de/panorama/leute/katzenfrau-jocelyne-wildenstein-mit-79-jahren-gestorben](https://www.spiegel.de/panorama/leute/katzenfrau-jocelyne-wildenstein-mit-79-jahren-gestorben-a-ff631a4f-149e-4ce6-9bb5-f479336636aa#ref=rss)
+### jocelyne
+
+* [https://www.spiegel.de/panorama/leute/katzenfrau-jocelyne-wildenstein-mit-79-jahren-gestorben](https://www.spiegel.de/panorama/leute/katzenfrau-jocelyne-wildenstein-mit-79-jahren-gestorben-a-ff631a4f-149e-4ce6-9bb5-f479336636aa#ref=rss)
+### wildenstein
+
+* [https://www.spiegel.de/panorama/leute/katzenfrau-jocelyne-wildenstein-mit-79-jahren-gestorben](https://www.spiegel.de/panorama/leute/katzenfrau-jocelyne-wildenstein-mit-79-jahren-gestorben-a-ff631a4f-149e-4ce6-9bb5-f479336636aa#ref=rss)
+### gestorben
+
+* [https://www.spiegel.de/panorama/leute/katzenfrau-jocelyne-wildenstein-mit-79-jahren-gestorben](https://www.spiegel.de/panorama/leute/katzenfrau-jocelyne-wildenstein-mit-79-jahren-gestorben-a-ff631a4f-149e-4ce6-9bb5-f479336636aa#ref=rss)
+### melbourne
+
+* [https://www.spiegel.de/panorama/leute/robbie-williams-ueberrascht-mit-gratis-konzert-in-melbourne](https://www.spiegel.de/panorama/leute/robbie-williams-ueberrascht-mit-gratis-konzert-in-melbourne-a-185e0e99-751a-4370-ba28-fde36f6731cd#ref=rss)
+### anne
+
+* [https://www.spiegel.de/wirtschaft/fruehere-staatsanwaeltin-anne-brorhilker-haelt-cum-ex-betrug-fuer-weiterhin-moeglich](https://www.spiegel.de/wirtschaft/fruehere-staatsanwaeltin-anne-brorhilker-haelt-cum-ex-betrug-fuer-weiterhin-moeglich-a-dda73d63-dd62-4293-8a84-58a50e1d9561#ref=rss)
+### brorhilker
+
+* [https://www.spiegel.de/wirtschaft/fruehere-staatsanwaeltin-anne-brorhilker-haelt-cum-ex-betrug-fuer-weiterhin-moeglich](https://www.spiegel.de/wirtschaft/fruehere-staatsanwaeltin-anne-brorhilker-haelt-cum-ex-betrug-fuer-weiterhin-moeglich-a-dda73d63-dd62-4293-8a84-58a50e1d9561#ref=rss)
+### unterhalt
+
+* [https://www.spiegel.de/wirtschaft/service/kosten-nach-scheidung-unterhalt-versicherungen-und-vermoegensaufteilung](https://www.spiegel.de/wirtschaft/service/kosten-nach-scheidung-unterhalt-versicherungen-und-vermoegensaufteilung-a-d9b18473-e84f-4d5a-83b5-159e137a8407#ref=rss)
+### versicherungen
+
+* [https://www.spiegel.de/wirtschaft/service/kosten-nach-scheidung-unterhalt-versicherungen-und-vermoegensaufteilung](https://www.spiegel.de/wirtschaft/service/kosten-nach-scheidung-unterhalt-versicherungen-und-vermoegensaufteilung-a-d9b18473-e84f-4d5a-83b5-159e137a8407#ref=rss)
+### vermögensaufteilung
+
+* [https://www.spiegel.de/wirtschaft/service/kosten-nach-scheidung-unterhalt-versicherungen-und-vermoegensaufteilung](https://www.spiegel.de/wirtschaft/service/kosten-nach-scheidung-unterhalt-versicherungen-und-vermoegensaufteilung-a-d9b18473-e84f-4d5a-83b5-159e137a8407#ref=rss)
+### diwchef
+
+* [https://www.spiegel.de/wirtschaft/diw-chef-fratzscher-wirft-parteien-unlautere-wahlversprechen-vor](https://www.spiegel.de/wirtschaft/diw-chef-fratzscher-wirft-parteien-unlautere-wahlversprechen-vor-a-f0bff1fc-458a-4597-beb9-cae2a476ae7c#ref=rss)
+### fratzscher
+
+* [https://www.spiegel.de/wirtschaft/diw-chef-fratzscher-wirft-parteien-unlautere-wahlversprechen-vor](https://www.spiegel.de/wirtschaft/diw-chef-fratzscher-wirft-parteien-unlautere-wahlversprechen-vor-a-f0bff1fc-458a-4597-beb9-cae2a476ae7c#ref=rss)
+### parteien
+
+* [https://www.spiegel.de/wirtschaft/diw-chef-fratzscher-wirft-parteien-unlautere-wahlversprechen-vor](https://www.spiegel.de/wirtschaft/diw-chef-fratzscher-wirft-parteien-unlautere-wahlversprechen-vor-a-f0bff1fc-458a-4597-beb9-cae2a476ae7c#ref=rss)
+### wahlkampf
+
+* [https://www.spiegel.de/wirtschaft/diw-chef-fratzscher-wirft-parteien-unlautere-wahlversprechen-vor](https://www.spiegel.de/wirtschaft/diw-chef-fratzscher-wirft-parteien-unlautere-wahlversprechen-vor-a-f0bff1fc-458a-4597-beb9-cae2a476ae7c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/csu-will-bleiberecht-nur-noch-fuer-migranten-die-fuer-sich-selbst-sorgen-koennen](https://www.spiegel.de/politik/deutschland/csu-will-bleiberecht-nur-noch-fuer-migranten-die-fuer-sich-selbst-sorgen-koennen-a-d45a1889-6af2-45ac-87ba-0e837adfc254#ref=rss)
+### aldi
+
+* [https://www.spiegel.de/wirtschaft/aldi-in-der-schweiz-muss-verkauf-von-schokoladenkugeln-vorlaeufig-einstellen](https://www.spiegel.de/wirtschaft/aldi-in-der-schweiz-muss-verkauf-von-schokoladenkugeln-vorlaeufig-einstellen-a-cfb140a9-d237-4ffc-a7a9-21f53aa4a82c#ref=rss)
+### schokoladenkugeln
+
+* [https://www.spiegel.de/wirtschaft/aldi-in-der-schweiz-muss-verkauf-von-schokoladenkugeln-vorlaeufig-einstellen](https://www.spiegel.de/wirtschaft/aldi-in-der-schweiz-muss-verkauf-von-schokoladenkugeln-vorlaeufig-einstellen-a-cfb140a9-d237-4ffc-a7a9-21f53aa4a82c#ref=rss)
+### csu
+
+* [https://www.spiegel.de/politik/deutschland/csu-will-bleiberecht-nur-noch-fuer-migranten-die-fuer-sich-selbst-sorgen-koennen](https://www.spiegel.de/politik/deutschland/csu-will-bleiberecht-nur-noch-fuer-migranten-die-fuer-sich-selbst-sorgen-koennen-a-d45a1889-6af2-45ac-87ba-0e837adfc254#ref=rss)
 
