@@ -4,309 +4,372 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### mehr
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-toedliche-vorfaelle-in-den-usa-elon-musk-gas-transitstopp](https://www.spiegel.de/politik/deutschland/news-des-tages-toedliche-vorfaelle-in-den-usa-elon-musk-gas-transitstopp-a-215ce837-e48a-447f-beff-9150d2483284#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/skispringen-andrzej-stekala-spricht-ueber-seine-homosexualitaet](https://www.spiegel.de/sport/wintersport/skispringen-andrzej-stekala-spricht-ueber-seine-homosexualitaet-a-1be139ce-79ed-4650-848d-750e6cccca0a#ref=rss)
-* [https://www.spiegel.de/ausland/indien-giftmuell-in-bhopal-wird-40-jahre-nach-katastrophe-entsorgt](https://www.spiegel.de/ausland/indien-giftmuell-in-bhopal-wird-40-jahre-nach-katastrophe-entsorgt-a-720bddf7-2455-4ce2-9e19-1aa951f6090a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/grossbritannien-neue-fussabdruecke-von-dinosauriern-entdeckt](https://www.spiegel.de/wissenschaft/natur/grossbritannien-neue-fussabdruecke-von-dinosauriern-entdeckt-a-5e30589f-55e8-46d4-8a38-4349e03d3328#ref=rss)
-* [https://www.spiegel.de/auto/norwegen-verbrenner-aus-ab-neujahr-elektroauto-vordenker-erklaert-wie-es-dazu-kam](https://www.spiegel.de/auto/norwegen-verbrenner-aus-ab-neujahr-elektroauto-vordenker-erklaert-wie-es-dazu-kam-a-9cc8ed88-5aa8-456b-a476-a5933a587efc#ref=rss)
-* [https://www.spiegel.de/ausland/china-verhaengt-sanktionen-gegen-us-ruestungsindustrie](https://www.spiegel.de/ausland/china-verhaengt-sanktionen-gegen-us-ruestungsindustrie-a-658f7f46-e114-4b4b-9060-5c3962180458#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-experte-ueber-energiestreit-mit-der-slowakei-ficos-drohungen-sind-lachhaft](https://www.spiegel.de/ausland/ukraine-experte-ueber-energiestreit-mit-der-slowakei-ficos-drohungen-sind-lachhaft-a-f2403a26-9940-4a89-913c-ba271321f30f#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/ukraine-schwimm-drohne-holt-russischen-helikopter-vom-himmel-kyjiws-neueste-tueftelei](https://www.spiegel.de/ausland/ukraine-schwimm-drohne-holt-russischen-helikopter-vom-himmel-kyjiws-neueste-tueftelei-a-842a1520-a014-4a5f-8168-9ab92eac4cd8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-toedliche-vorfaelle-in-den-usa-elon-musk-gas-transitstopp](https://www.spiegel.de/politik/deutschland/news-des-tages-toedliche-vorfaelle-in-den-usa-elon-musk-gas-transitstopp-a-215ce837-e48a-447f-beff-9150d2483284#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-experte-ueber-energiestreit-mit-der-slowakei-ficos-drohungen-sind-lachhaft](https://www.spiegel.de/ausland/ukraine-experte-ueber-energiestreit-mit-der-slowakei-ficos-drohungen-sind-lachhaft-a-f2403a26-9940-4a89-913c-ba271321f30f#ref=rss)
-### tesla
-
-* [https://www.spiegel.de/ausland/las-vegas-fahrer-des-explodierten-tesla-cybertrucks-war-aktiver-elite-soldat](https://www.spiegel.de/ausland/las-vegas-fahrer-des-explodierten-tesla-cybertrucks-war-aktiver-elite-soldat-a-8f00ff62-4ae8-40f6-baed-f39b579c2f7e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/tesla-us-autobauer-erreicht-auslieferungsziel-2024-nicht](https://www.spiegel.de/wirtschaft/tesla-us-autobauer-erreicht-auslieferungsziel-2024-nicht-a-d5447c0d-a974-4de5-8fa3-b28933cf737b#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/ausland/ukraine-schwimm-drohne-holt-russischen-helikopter-vom-himmel-kyjiws-neueste-tueftelei](https://www.spiegel.de/ausland/ukraine-schwimm-drohne-holt-russischen-helikopter-vom-himmel-kyjiws-neueste-tueftelei-a-842a1520-a014-4a5f-8168-9ab92eac4cd8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-toedliche-vorfaelle-in-den-usa-elon-musk-gas-transitstopp](https://www.spiegel.de/politik/deutschland/news-des-tages-toedliche-vorfaelle-in-den-usa-elon-musk-gas-transitstopp-a-215ce837-e48a-447f-beff-9150d2483284#ref=rss)
-* [https://www.spiegel.de/panorama/leute/diplo-gesteht-lsd-trip-in-liveshow-ralph-fiennes-gibt-sich-demure-waehrend-cnn-silvester-spezial](https://www.spiegel.de/panorama/leute/diplo-gesteht-lsd-trip-in-liveshow-ralph-fiennes-gibt-sich-demure-waehrend-cnn-silvester-spezial-a-f300035a-3094-483a-b50d-440c88a9f1eb#ref=rss)
-### unter
-
-* [https://www.spiegel.de/politik/deutschland/csu-politiker-ehemaliger-bundesbauminister-oscar-schneider-ist-tot](https://www.spiegel.de/politik/deutschland/csu-politiker-ehemaliger-bundesbauminister-oscar-schneider-ist-tot-a-08ad885a-5121-4ce5-8910-ad15ad9b1b66#ref=rss)
-* [https://www.spiegel.de/panorama/simbabwe-achtjaehriger-ueberlebt-fuenf-tage-unter-loewen-und-elefanten-im-wildpark](https://www.spiegel.de/panorama/simbabwe-achtjaehriger-ueberlebt-fuenf-tage-unter-loewen-und-elefanten-im-wildpark-a-c47a533e-9dd1-4829-bce1-48b5ff6d4634#ref=rss)
-* [https://www.spiegel.de/ausland/las-vegas-fahrer-des-explodierten-tesla-cybertrucks-war-aktiver-elite-soldat](https://www.spiegel.de/ausland/las-vegas-fahrer-des-explodierten-tesla-cybertrucks-war-aktiver-elite-soldat-a-8f00ff62-4ae8-40f6-baed-f39b579c2f7e#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/politik/deutschland/csu-politiker-ehemaliger-bundesbauminister-oscar-schneider-ist-tot](https://www.spiegel.de/politik/deutschland/csu-politiker-ehemaliger-bundesbauminister-oscar-schneider-ist-tot-a-08ad885a-5121-4ce5-8910-ad15ad9b1b66#ref=rss)
-* [https://www.spiegel.de/sport/olympia/agnes-keleti-stirbt-mit-103-jahren-das-jahrhundertleben-einer-turnerin-nachruf](https://www.spiegel.de/sport/olympia/agnes-keleti-stirbt-mit-103-jahren-das-jahrhundertleben-einer-turnerin-nachruf-a-db2a0506-04d3-4dcb-9c24-3e5d7f2345d8#ref=rss)
-### gestorben
-
-* [https://www.spiegel.de/politik/deutschland/csu-politiker-ehemaliger-bundesbauminister-oscar-schneider-ist-tot](https://www.spiegel.de/politik/deutschland/csu-politiker-ehemaliger-bundesbauminister-oscar-schneider-ist-tot-a-08ad885a-5121-4ce5-8910-ad15ad9b1b66#ref=rss)
-* [https://www.spiegel.de/ausland/indien-giftmuell-in-bhopal-wird-40-jahre-nach-katastrophe-entsorgt](https://www.spiegel.de/ausland/indien-giftmuell-in-bhopal-wird-40-jahre-nach-katastrophe-entsorgt-a-720bddf7-2455-4ce2-9e19-1aa951f6090a#ref=rss)
-* [https://www.spiegel.de/sport/olympia/agnes-keleti-stirbt-mit-103-jahren-das-jahrhundertleben-einer-turnerin-nachruf](https://www.spiegel.de/sport/olympia/agnes-keleti-stirbt-mit-103-jahren-das-jahrhundertleben-einer-turnerin-nachruf-a-db2a0506-04d3-4dcb-9c24-3e5d7f2345d8#ref=rss)
-### new
-
-* [https://www.spiegel.de/ausland/las-vegas-fahrer-des-explodierten-tesla-cybertrucks-war-aktiver-elite-soldat](https://www.spiegel.de/ausland/las-vegas-fahrer-des-explodierten-tesla-cybertrucks-war-aktiver-elite-soldat-a-8f00ff62-4ae8-40f6-baed-f39b579c2f7e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/new-york-city-zehn-verletzte-bei-schuessen-vor-nachtklub-in-queens](https://www.spiegel.de/panorama/justiz/new-york-city-zehn-verletzte-bei-schuessen-vor-nachtklub-in-queens-a-dcab30fa-1e22-403a-91fe-a548139e7237#ref=rss)
-### zehn
-
-* [https://www.spiegel.de/wirtschaft/strommarkt-woher-der-deutsche-strom-kommt-und-wie-viel-er-wirklich-kostet](https://www.spiegel.de/wirtschaft/strommarkt-woher-der-deutsche-strom-kommt-und-wie-viel-er-wirklich-kostet-a-76b9f9a7-bf28-4319-9416-a5ec15eb745c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/new-york-city-zehn-verletzte-bei-schuessen-vor-nachtklub-in-queens](https://www.spiegel.de/panorama/justiz/new-york-city-zehn-verletzte-bei-schuessen-vor-nachtklub-in-queens-a-dcab30fa-1e22-403a-91fe-a548139e7237#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/ausland/indien-giftmuell-in-bhopal-wird-40-jahre-nach-katastrophe-entsorgt](https://www.spiegel.de/ausland/indien-giftmuell-in-bhopal-wird-40-jahre-nach-katastrophe-entsorgt-a-720bddf7-2455-4ce2-9e19-1aa951f6090a#ref=rss)
-* [https://www.spiegel.de/start/gerichtsvollzieherin-werden-gehalt-aufgaben-gefahren](https://www.spiegel.de/start/gerichtsvollzieherin-werden-gehalt-aufgaben-gefahren-a-0742ca53-8149-4fb9-93d8-7fa6654eaaa6#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/new-york-city-zehn-verletzte-bei-schuessen-vor-nachtklub-in-queens](https://www.spiegel.de/panorama/justiz/new-york-city-zehn-verletzte-bei-schuessen-vor-nachtklub-in-queens-a-dcab30fa-1e22-403a-91fe-a548139e7237#ref=rss)
-### entdeckt
+* [https://www.spiegel.de/wirtschaft/arbeitslosenquote-ist-im-jahr-2024-auf-6-0-prozent-gestiegen](https://www.spiegel.de/wirtschaft/arbeitslosenquote-ist-im-jahr-2024-auf-6-0-prozent-gestiegen-a-ec806def-a04b-4bea-ac9b-9c614fbc01f2#ref=rss)
+* [https://www.spiegel.de/fitness/geschichte-des-fitness-sports-was-hat-napoleon-mit-mcfit-zu-tun](https://www.spiegel.de/fitness/geschichte-des-fitness-sports-was-hat-napoleon-mit-mcfit-zu-tun-a-8e67b011-62fa-42e0-a0de-0f067c8253fc#ref=rss)
+* [https://www.spiegel.de/kultur/wallace-gromit-mit-neuem-film-bei-netflix-die-feier-des-unperfekten](https://www.spiegel.de/kultur/wallace-gromit-mit-neuem-film-bei-netflix-die-feier-des-unperfekten-a-7db55beb-940d-4225-a4bc-41d22fd49f79#ref=rss)
+* [https://www.spiegel.de/panorama/leute/andrew-garfield-schaetzt-emotionale-offenheit-unter-maennern](https://www.spiegel.de/panorama/leute/andrew-garfield-schaetzt-emotionale-offenheit-unter-maennern-a-6678aa24-2b3b-499d-af5e-6274d31cd1f0#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-israel-greift-erneut-ziele-an-mindestens-68-tote](https://www.spiegel.de/ausland/gaza-israel-greift-erneut-ziele-an-mindestens-68-tote-a-1fdbebc3-b9eb-4d44-a135-b3166bda38ec#ref=rss)
+### union
 
-* [https://www.spiegel.de/wissenschaft/natur/grossbritannien-neue-fussabdruecke-von-dinosauriern-entdeckt](https://www.spiegel.de/wissenschaft/natur/grossbritannien-neue-fussabdruecke-von-dinosauriern-entdeckt-a-5e30589f-55e8-46d4-8a38-4349e03d3328#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/schleswig-holstein-toter-kalmar-an-ostseestrand-entdeckt](https://www.spiegel.de/wissenschaft/natur/schleswig-holstein-toter-kalmar-an-ostseestrand-entdeckt-a-552dbbdb-1f53-4a7d-8a61-eedca82f50b7#ref=rss)
-### pro
+* [https://www.spiegel.de/wirtschaft/olaf-scholz-und-markus-soeder-wollen-e-autos-foerdern](https://www.spiegel.de/wirtschaft/olaf-scholz-und-markus-soeder-wollen-e-autos-foerdern-a-f528c9d0-3463-404b-ac1e-c0b657774de5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-christian-lindner-draengt-union-zu-exklusivem-buendnis-mit-der-fdp](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-christian-lindner-draengt-union-zu-exklusivem-buendnis-mit-der-fdp-a-2a6d9aaf-848d-440d-9d93-1ed8e559d676#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-union-friedrich-merz-markus-soeder-gruene-stefan-gelbhaar-arbeitslosigkeit](https://www.spiegel.de/politik/deutschland/news-union-friedrich-merz-markus-soeder-gruene-stefan-gelbhaar-arbeitslosigkeit-a-e4ef64a8-ce2b-4fac-986e-b258e6753472#ref=rss)
+### welt
 
-* [https://www.spiegel.de/panorama/justiz/reichsbuerger-komplex-bundesweit-189-personen-per-haftbefehl-gesucht](https://www.spiegel.de/panorama/justiz/reichsbuerger-komplex-bundesweit-189-personen-per-haftbefehl-gesucht-a-a871c605-48bb-45d0-8413-5c71705c6162#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/quadrantiden-kommen-bis-zu-100-sternschnuppen-pro-sekunde-erwartet](https://www.spiegel.de/wissenschaft/natur/quadrantiden-kommen-bis-zu-100-sternschnuppen-pro-sekunde-erwartet-a-9471416f-9fd0-443a-a18a-b915ba3126fc#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### sehen
+* [https://www.spiegel.de/wirtschaft/elon-musk-und-mathias-doepfner-die-verbindung-hinter-dem-afd-beitrag-in-der-welt](https://www.spiegel.de/wirtschaft/elon-musk-und-mathias-doepfner-die-verbindung-hinter-dem-afd-beitrag-in-der-welt-a-87e73e0f-d8f8-48e6-aa0f-d3e4f0cbbabe#ref=rss)
+* [https://www.spiegel.de/reise/reisetipps-fuer-2025-wo-soll-ich-urlaub-machen](https://www.spiegel.de/reise/reisetipps-fuer-2025-wo-soll-ich-urlaub-machen-a-8f734427-bc0b-43ff-8d50-0226a96a4305#ref=rss)
+* [https://www.spiegel.de/wirtschaft/top-100-der-wertvollsten-boersenkonzerne-nur-drei-deutsche-dabei](https://www.spiegel.de/wirtschaft/top-100-der-wertvollsten-boersenkonzerne-nur-drei-deutsche-dabei-a-bffdfad9-7934-4a50-a65f-3e46520770e4#ref=rss)
+### stuttgart
 
-* [https://www.spiegel.de/wissenschaft/natur/quadrantiden-kommen-bis-zu-100-sternschnuppen-pro-sekunde-erwartet](https://www.spiegel.de/wissenschaft/natur/quadrantiden-kommen-bis-zu-100-sternschnuppen-pro-sekunde-erwartet-a-9471416f-9fd0-443a-a18a-b915ba3126fc#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/magdeburg-mutter-darf-die-leiche-ihres-getoeteten-kindes-erst-jetzt-sehen](https://www.spiegel.de/panorama/justiz/magdeburg-mutter-darf-die-leiche-ihres-getoeteten-kindes-erst-jetzt-sehen-a-63791f2e-fa3c-4514-8c82-8add2e159cf7#ref=rss)
-### tag
+* [https://www.spiegel.de/sport/fussball/frans-kraetzig-das-bayern-talent-das-in-stuttgart-nicht-zum-zug-kam-und-jetzt-in-heidenheim-lernen-soll](https://www.spiegel.de/sport/fussball/frans-kraetzig-das-bayern-talent-das-in-stuttgart-nicht-zum-zug-kam-und-jetzt-in-heidenheim-lernen-soll-a-997c939c-6a99-4bfe-ae81-53bb073bef2b#ref=rss)
+* [https://www.spiegel.de/sport/missbrauchsvorwuerfe-im-turnen-trainer-in-stuttgart-vorlaeufig-freigestellt](https://www.spiegel.de/sport/missbrauchsvorwuerfe-im-turnen-trainer-in-stuttgart-vorlaeufig-freigestellt-a-b82d78bb-9e26-455c-a9e5-6e5264bd2901#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/kultur/tv/thomas-gottschalk-hungert-sich-mit-850-kalorien-am-tag-durchs-leben](https://www.spiegel.de/kultur/tv/thomas-gottschalk-hungert-sich-mit-850-kalorien-am-tag-durchs-leben-a-c1073f8e-e993-4034-8a6d-052a96480133#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/energie-deutsche-uranimporte-aus-russland-steigen-um-fast-70-prozent](https://www.spiegel.de/wirtschaft/unternehmen/energie-deutsche-uranimporte-aus-russland-steigen-um-fast-70-prozent-a-78651543-7cb0-4767-8c43-adcf096f0bac#ref=rss)
+* [https://www.spiegel.de/wirtschaft/top-100-der-wertvollsten-boersenkonzerne-nur-drei-deutsche-dabei](https://www.spiegel.de/wirtschaft/top-100-der-wertvollsten-boersenkonzerne-nur-drei-deutsche-dabei-a-bffdfad9-7934-4a50-a65f-3e46520770e4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/olaf-scholz-und-markus-soeder-wollen-e-autos-foerdern](https://www.spiegel.de/wirtschaft/olaf-scholz-und-markus-soeder-wollen-e-autos-foerdern-a-f528c9d0-3463-404b-ac1e-c0b657774de5#ref=rss)
+### fast
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/energie-deutsche-uranimporte-aus-russland-steigen-um-fast-70-prozent](https://www.spiegel.de/wirtschaft/unternehmen/energie-deutsche-uranimporte-aus-russland-steigen-um-fast-70-prozent-a-78651543-7cb0-4767-8c43-adcf096f0bac#ref=rss)
+* [https://www.spiegel.de/kultur/wallace-gromit-mit-neuem-film-bei-netflix-die-feier-des-unperfekten](https://www.spiegel.de/kultur/wallace-gromit-mit-neuem-film-bei-netflix-die-feier-des-unperfekten-a-7db55beb-940d-4225-a4bc-41d22fd49f79#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/energie-deutsche-uranimporte-aus-russland-steigen-um-fast-70-prozent](https://www.spiegel.de/wirtschaft/unternehmen/energie-deutsche-uranimporte-aus-russland-steigen-um-fast-70-prozent-a-78651543-7cb0-4767-8c43-adcf096f0bac#ref=rss)
+* [https://www.spiegel.de/wirtschaft/arbeitslosenquote-ist-im-jahr-2024-auf-6-0-prozent-gestiegen](https://www.spiegel.de/wirtschaft/arbeitslosenquote-ist-im-jahr-2024-auf-6-0-prozent-gestiegen-a-ec806def-a04b-4bea-ac9b-9c614fbc01f2#ref=rss)
+* [https://www.spiegel.de/fitness/geschichte-des-fitness-sports-was-hat-napoleon-mit-mcfit-zu-tun](https://www.spiegel.de/fitness/geschichte-des-fitness-sports-was-hat-napoleon-mit-mcfit-zu-tun-a-8e67b011-62fa-42e0-a0de-0f067c8253fc#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/panorama/justiz/gruensfeld-baggerfahrer-randalierte-offenbar-wegen-geld](https://www.spiegel.de/panorama/justiz/gruensfeld-baggerfahrer-randalierte-offenbar-wegen-geld-a-aeaa8ef1-c28d-494d-bc55-a03d968f0255#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/google-wallet-mit-paypal-nutzer-berichten-von-problemen-beim-mobilen-bezahlen](https://www.spiegel.de/netzwelt/web/google-wallet-mit-paypal-nutzer-berichten-von-problemen-beim-mobilen-bezahlen-a-61e1a5d1-98c7-46e9-ac7b-655f8ffe4bfe#ref=rss)
+* [https://www.spiegel.de/kultur/kino/tom-holland-spider-man-star-zeigt-auch-im-echten-leben-superheldenqualitaeten](https://www.spiegel.de/kultur/kino/tom-holland-spider-man-star-zeigt-auch-im-echten-leben-superheldenqualitaeten-a-e35b61a7-38c0-46af-a828-59af52446f68#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/sport/fussball/frans-kraetzig-das-bayern-talent-das-in-stuttgart-nicht-zum-zug-kam-und-jetzt-in-heidenheim-lernen-soll](https://www.spiegel.de/sport/fussball/frans-kraetzig-das-bayern-talent-das-in-stuttgart-nicht-zum-zug-kam-und-jetzt-in-heidenheim-lernen-soll-a-997c939c-6a99-4bfe-ae81-53bb073bef2b#ref=rss)
+* [https://www.spiegel.de/panorama/bayern-schnee-und-glaette-unfall-mit-intercity-zug-in-stephanskirchen-bei-rosenheim](https://www.spiegel.de/panorama/bayern-schnee-und-glaette-unfall-mit-intercity-zug-in-stephanskirchen-bei-rosenheim-a-41e95703-445c-47a5-8e34-1fdd9ae73b50#ref=rss)
+### neos
+
+* [https://www.spiegel.de/ausland/oesterreich-koalitionsverhandlungen-zwischen-oevp-spoe-und-neos-gescheitert](https://www.spiegel.de/ausland/oesterreich-koalitionsverhandlungen-zwischen-oevp-spoe-und-neos-gescheitert-a-0759248b-5e1e-435e-a815-20f4c4de71f5#ref=rss)
 ### macht
 
-* [https://www.spiegel.de/kultur/tv/thomas-gottschalk-hungert-sich-mit-850-kalorien-am-tag-durchs-leben](https://www.spiegel.de/kultur/tv/thomas-gottschalk-hungert-sich-mit-850-kalorien-am-tag-durchs-leben-a-c1073f8e-e993-4034-8a6d-052a96480133#ref=rss)
-* [https://www.spiegel.de/auto/norwegen-verbrenner-aus-ab-neujahr-elektroauto-vordenker-erklaert-wie-es-dazu-kam](https://www.spiegel.de/auto/norwegen-verbrenner-aus-ab-neujahr-elektroauto-vordenker-erklaert-wie-es-dazu-kam-a-9cc8ed88-5aa8-456b-a476-a5933a587efc#ref=rss)
-* [https://www.spiegel.de/partnerschaft/aufraeumen-ohne-beziehungskrise-diese-aufraeumexpertinnen-helfen-paaren-im-haushalt](https://www.spiegel.de/partnerschaft/aufraeumen-ohne-beziehungskrise-diese-aufraeumexpertinnen-helfen-paaren-im-haushalt-a-3055ec1d-c24d-4123-a1db-a9dc8a4f946f#ref=rss)
-### oscar
+* [https://www.spiegel.de/ausland/oesterreich-koalitionsverhandlungen-zwischen-oevp-spoe-und-neos-gescheitert](https://www.spiegel.de/ausland/oesterreich-koalitionsverhandlungen-zwischen-oevp-spoe-und-neos-gescheitert-a-0759248b-5e1e-435e-a815-20f4c4de71f5#ref=rss)
+* [https://www.spiegel.de/panorama/leute/jennifer-lopez-was-frauen-stark-macht-die-schauspielerin-ueber-weibliche-superkraefte](https://www.spiegel.de/panorama/leute/jennifer-lopez-was-frauen-stark-macht-die-schauspielerin-ueber-weibliche-superkraefte-a-0267e536-38ea-4ef0-95c4-59cb76414a67#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-ehrt-trump-kritikerin-liz-cheney-aber-begnadigt-er-sie-auch-vorsorglich](https://www.spiegel.de/ausland/joe-biden-ehrt-trump-kritikerin-liz-cheney-aber-begnadigt-er-sie-auch-vorsorglich-a-00307eb1-1d1a-4a49-b96a-0861c65c7a68#ref=rss)
+### ohne
 
-* [https://www.spiegel.de/politik/deutschland/csu-politiker-ehemaliger-bundesbauminister-oscar-schneider-ist-tot](https://www.spiegel.de/politik/deutschland/csu-politiker-ehemaliger-bundesbauminister-oscar-schneider-ist-tot-a-08ad885a-5121-4ce5-8910-ad15ad9b1b66#ref=rss)
-### schneider
+* [https://www.spiegel.de/wirtschaft/arbeitslosenquote-ist-im-jahr-2024-auf-6-0-prozent-gestiegen](https://www.spiegel.de/wirtschaft/arbeitslosenquote-ist-im-jahr-2024-auf-6-0-prozent-gestiegen-a-ec806def-a04b-4bea-ac9b-9c614fbc01f2#ref=rss)
+* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-was-bringt-ein-monat-ohne-alkohol](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-was-bringt-ein-monat-ohne-alkohol-und-wie-haelt-man-durch-a-1300451.html#ref=rss)
+### donald
 
-* [https://www.spiegel.de/politik/deutschland/csu-politiker-ehemaliger-bundesbauminister-oscar-schneider-ist-tot](https://www.spiegel.de/politik/deutschland/csu-politiker-ehemaliger-bundesbauminister-oscar-schneider-ist-tot-a-08ad885a-5121-4ce5-8910-ad15ad9b1b66#ref=rss)
-### deutschen
+* [https://www.spiegel.de/wirtschaft/donald-trump-das-unwuerdige-verhalten-der-bosse-wie-mark-zuckerberg-und-jeff-bezos](https://www.spiegel.de/wirtschaft/donald-trump-das-unwuerdige-verhalten-der-bosse-wie-mark-zuckerberg-und-jeff-bezos-a-efe3dd60-2155-4e2a-b81b-f203366d96a0#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-ehrt-trump-kritikerin-liz-cheney-aber-begnadigt-er-sie-auch-vorsorglich](https://www.spiegel.de/ausland/joe-biden-ehrt-trump-kritikerin-liz-cheney-aber-begnadigt-er-sie-auch-vorsorglich-a-00307eb1-1d1a-4a49-b96a-0861c65c7a68#ref=rss)
+### trump
 
-* [https://www.spiegel.de/politik/deutschland/csu-politiker-ehemaliger-bundesbauminister-oscar-schneider-ist-tot](https://www.spiegel.de/politik/deutschland/csu-politiker-ehemaliger-bundesbauminister-oscar-schneider-ist-tot-a-08ad885a-5121-4ce5-8910-ad15ad9b1b66#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/schleswig-holstein-toter-kalmar-an-ostseestrand-entdeckt](https://www.spiegel.de/wissenschaft/natur/schleswig-holstein-toter-kalmar-an-ostseestrand-entdeckt-a-552dbbdb-1f53-4a7d-8a61-eedca82f50b7#ref=rss)
-### sylt
-
-* [https://www.spiegel.de/panorama/justiz/sylt-wieder-kokain-am-strand-gefunden](https://www.spiegel.de/panorama/justiz/sylt-wieder-kokain-am-strand-gefunden-a-511cdc9f-0a98-4ce6-aa1b-28c987a1f5eb#ref=rss)
-### kokain
-
-* [https://www.spiegel.de/panorama/justiz/sylt-wieder-kokain-am-strand-gefunden](https://www.spiegel.de/panorama/justiz/sylt-wieder-kokain-am-strand-gefunden-a-511cdc9f-0a98-4ce6-aa1b-28c987a1f5eb#ref=rss)
-### strand
-
-* [https://www.spiegel.de/panorama/justiz/sylt-wieder-kokain-am-strand-gefunden](https://www.spiegel.de/panorama/justiz/sylt-wieder-kokain-am-strand-gefunden-a-511cdc9f-0a98-4ce6-aa1b-28c987a1f5eb#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/schleswig-holstein-toter-kalmar-an-ostseestrand-entdeckt](https://www.spiegel.de/wissenschaft/natur/schleswig-holstein-toter-kalmar-an-ostseestrand-entdeckt-a-552dbbdb-1f53-4a7d-8a61-eedca82f50b7#ref=rss)
-### tödliche
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-toedliche-vorfaelle-in-den-usa-elon-musk-gas-transitstopp](https://www.spiegel.de/politik/deutschland/news-des-tages-toedliche-vorfaelle-in-den-usa-elon-musk-gas-transitstopp-a-215ce837-e48a-447f-beff-9150d2483284#ref=rss)
-### vorfälle
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-toedliche-vorfaelle-in-den-usa-elon-musk-gas-transitstopp](https://www.spiegel.de/politik/deutschland/news-des-tages-toedliche-vorfaelle-in-den-usa-elon-musk-gas-transitstopp-a-215ce837-e48a-447f-beff-9150d2483284#ref=rss)
-### usa
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-toedliche-vorfaelle-in-den-usa-elon-musk-gas-transitstopp](https://www.spiegel.de/politik/deutschland/news-des-tages-toedliche-vorfaelle-in-den-usa-elon-musk-gas-transitstopp-a-215ce837-e48a-447f-beff-9150d2483284#ref=rss)
-### elon
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-toedliche-vorfaelle-in-den-usa-elon-musk-gas-transitstopp](https://www.spiegel.de/politik/deutschland/news-des-tages-toedliche-vorfaelle-in-den-usa-elon-musk-gas-transitstopp-a-215ce837-e48a-447f-beff-9150d2483284#ref=rss)
-### musk
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-toedliche-vorfaelle-in-den-usa-elon-musk-gas-transitstopp](https://www.spiegel.de/politik/deutschland/news-des-tages-toedliche-vorfaelle-in-den-usa-elon-musk-gas-transitstopp-a-215ce837-e48a-447f-beff-9150d2483284#ref=rss)
-### gas
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-toedliche-vorfaelle-in-den-usa-elon-musk-gas-transitstopp](https://www.spiegel.de/politik/deutschland/news-des-tages-toedliche-vorfaelle-in-den-usa-elon-musk-gas-transitstopp-a-215ce837-e48a-447f-beff-9150d2483284#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-experte-ueber-energiestreit-mit-der-slowakei-ficos-drohungen-sind-lachhaft](https://www.spiegel.de/ausland/ukraine-experte-ueber-energiestreit-mit-der-slowakei-ficos-drohungen-sind-lachhaft-a-f2403a26-9940-4a89-913c-ba271321f30f#ref=rss)
-### simbabwe
-
-* [https://www.spiegel.de/panorama/simbabwe-achtjaehriger-ueberlebt-fuenf-tage-unter-loewen-und-elefanten-im-wildpark](https://www.spiegel.de/panorama/simbabwe-achtjaehriger-ueberlebt-fuenf-tage-unter-loewen-und-elefanten-im-wildpark-a-c47a533e-9dd1-4829-bce1-48b5ff6d4634#ref=rss)
-### achtjähriger
-
-* [https://www.spiegel.de/panorama/simbabwe-achtjaehriger-ueberlebt-fuenf-tage-unter-loewen-und-elefanten-im-wildpark](https://www.spiegel.de/panorama/simbabwe-achtjaehriger-ueberlebt-fuenf-tage-unter-loewen-und-elefanten-im-wildpark-a-c47a533e-9dd1-4829-bce1-48b5ff6d4634#ref=rss)
-### löwen
-
-* [https://www.spiegel.de/panorama/simbabwe-achtjaehriger-ueberlebt-fuenf-tage-unter-loewen-und-elefanten-im-wildpark](https://www.spiegel.de/panorama/simbabwe-achtjaehriger-ueberlebt-fuenf-tage-unter-loewen-und-elefanten-im-wildpark-a-c47a533e-9dd1-4829-bce1-48b5ff6d4634#ref=rss)
-### wildpark
-
-* [https://www.spiegel.de/panorama/simbabwe-achtjaehriger-ueberlebt-fuenf-tage-unter-loewen-und-elefanten-im-wildpark](https://www.spiegel.de/panorama/simbabwe-achtjaehriger-ueberlebt-fuenf-tage-unter-loewen-und-elefanten-im-wildpark-a-c47a533e-9dd1-4829-bce1-48b5ff6d4634#ref=rss)
-### 40
-
-* [https://www.spiegel.de/panorama/simbabwe-achtjaehriger-ueberlebt-fuenf-tage-unter-loewen-und-elefanten-im-wildpark](https://www.spiegel.de/panorama/simbabwe-achtjaehriger-ueberlebt-fuenf-tage-unter-loewen-und-elefanten-im-wildpark-a-c47a533e-9dd1-4829-bce1-48b5ff6d4634#ref=rss)
-* [https://www.spiegel.de/ausland/indien-giftmuell-in-bhopal-wird-40-jahre-nach-katastrophe-entsorgt](https://www.spiegel.de/ausland/indien-giftmuell-in-bhopal-wird-40-jahre-nach-katastrophe-entsorgt-a-720bddf7-2455-4ce2-9e19-1aa951f6090a#ref=rss)
-### wissen
-
-* [https://www.spiegel.de/panorama/simbabwe-achtjaehriger-ueberlebt-fuenf-tage-unter-loewen-und-elefanten-im-wildpark](https://www.spiegel.de/panorama/simbabwe-achtjaehriger-ueberlebt-fuenf-tage-unter-loewen-und-elefanten-im-wildpark-a-c47a533e-9dd1-4829-bce1-48b5ff6d4634#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### explodierten
-
-* [https://www.spiegel.de/ausland/las-vegas-fahrer-des-explodierten-tesla-cybertrucks-war-aktiver-elite-soldat](https://www.spiegel.de/ausland/las-vegas-fahrer-des-explodierten-tesla-cybertrucks-war-aktiver-elite-soldat-a-8f00ff62-4ae8-40f6-baed-f39b579c2f7e#ref=rss)
-### cybertrucks
-
-* [https://www.spiegel.de/ausland/las-vegas-fahrer-des-explodierten-tesla-cybertrucks-war-aktiver-elite-soldat](https://www.spiegel.de/ausland/las-vegas-fahrer-des-explodierten-tesla-cybertrucks-war-aktiver-elite-soldat-a-8f00ff62-4ae8-40f6-baed-f39b579c2f7e#ref=rss)
-### stabianer
-
-* [https://www.spiegel.de/geschichte/sehr-viel-heisse-luft](https://www.spiegel.de/geschichte/sehr-viel-heisse-luft-a-3908382e-0002-0001-0000-000205609797#ref=rss)
-### thermen
-
-* [https://www.spiegel.de/geschichte/sehr-viel-heisse-luft](https://www.spiegel.de/geschichte/sehr-viel-heisse-luft-a-3908382e-0002-0001-0000-000205609797#ref=rss)
-### erst
-
-* [https://www.spiegel.de/geschichte/sehr-viel-heisse-luft](https://www.spiegel.de/geschichte/sehr-viel-heisse-luft-a-3908382e-0002-0001-0000-000205609797#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/magdeburg-mutter-darf-die-leiche-ihres-getoeteten-kindes-erst-jetzt-sehen](https://www.spiegel.de/panorama/justiz/magdeburg-mutter-darf-die-leiche-ihres-getoeteten-kindes-erst-jetzt-sehen-a-63791f2e-fa3c-4514-8c82-8add2e159cf7#ref=rss)
-### lilyrose
-
-* [https://www.spiegel.de/kultur/nosferatu-remake-mit-lily-rose-depp-dieser-film-verwest-vor-unseren-augen](https://www.spiegel.de/kultur/nosferatu-remake-mit-lily-rose-depp-dieser-film-verwest-vor-unseren-augen-a-26037ae9-3ff5-4fc3-b43e-34aaf13f2961#ref=rss)
-### depp
-
-* [https://www.spiegel.de/kultur/nosferatu-remake-mit-lily-rose-depp-dieser-film-verwest-vor-unseren-augen](https://www.spiegel.de/kultur/nosferatu-remake-mit-lily-rose-depp-dieser-film-verwest-vor-unseren-augen-a-26037ae9-3ff5-4fc3-b43e-34aaf13f2961#ref=rss)
-### andrzej
-
-* [https://www.spiegel.de/sport/wintersport/skispringen-andrzej-stekala-spricht-ueber-seine-homosexualitaet](https://www.spiegel.de/sport/wintersport/skispringen-andrzej-stekala-spricht-ueber-seine-homosexualitaet-a-1be139ce-79ed-4650-848d-750e6cccca0a#ref=rss)
-### stękała
-
-* [https://www.spiegel.de/sport/wintersport/skispringen-andrzej-stekala-spricht-ueber-seine-homosexualitaet](https://www.spiegel.de/sport/wintersport/skispringen-andrzej-stekala-spricht-ueber-seine-homosexualitaet-a-1be139ce-79ed-4650-848d-750e6cccca0a#ref=rss)
-### homosexualität
-
-* [https://www.spiegel.de/sport/wintersport/skispringen-andrzej-stekala-spricht-ueber-seine-homosexualitaet](https://www.spiegel.de/sport/wintersport/skispringen-andrzej-stekala-spricht-ueber-seine-homosexualitaet-a-1be139ce-79ed-4650-848d-750e6cccca0a#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/sport/wintersport/skispringen-andrzej-stekala-spricht-ueber-seine-homosexualitaet](https://www.spiegel.de/sport/wintersport/skispringen-andrzej-stekala-spricht-ueber-seine-homosexualitaet-a-1be139ce-79ed-4650-848d-750e6cccca0a#ref=rss)
-* [https://www.spiegel.de/ausland/rumaenien-rechtsextremer-kandidat-klagt-gegen-annullierung-der-praesidentenwahl](https://www.spiegel.de/ausland/rumaenien-rechtsextremer-kandidat-klagt-gegen-annullierung-der-praesidentenwahl-a-a9d1f669-f2f1-474b-b9fb-30a92943eada#ref=rss)
-### kam
-
-* [https://www.spiegel.de/sport/wintersport/skispringen-andrzej-stekala-spricht-ueber-seine-homosexualitaet](https://www.spiegel.de/sport/wintersport/skispringen-andrzej-stekala-spricht-ueber-seine-homosexualitaet-a-1be139ce-79ed-4650-848d-750e6cccca0a#ref=rss)
-* [https://www.spiegel.de/auto/norwegen-verbrenner-aus-ab-neujahr-elektroauto-vordenker-erklaert-wie-es-dazu-kam](https://www.spiegel.de/auto/norwegen-verbrenner-aus-ab-neujahr-elektroauto-vordenker-erklaert-wie-es-dazu-kam-a-9cc8ed88-5aa8-456b-a476-a5933a587efc#ref=rss)
-### strom
-
-* [https://www.spiegel.de/wirtschaft/strommarkt-woher-der-deutsche-strom-kommt-und-wie-viel-er-wirklich-kostet](https://www.spiegel.de/wirtschaft/strommarkt-woher-der-deutsche-strom-kommt-und-wie-viel-er-wirklich-kostet-a-76b9f9a7-bf28-4319-9416-a5ec15eb745c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-das-unwuerdige-verhalten-der-bosse-wie-mark-zuckerberg-und-jeff-bezos](https://www.spiegel.de/wirtschaft/donald-trump-das-unwuerdige-verhalten-der-bosse-wie-mark-zuckerberg-und-jeff-bezos-a-efe3dd60-2155-4e2a-b81b-f203366d96a0#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-ehrt-trump-kritikerin-liz-cheney-aber-begnadigt-er-sie-auch-vorsorglich](https://www.spiegel.de/ausland/joe-biden-ehrt-trump-kritikerin-liz-cheney-aber-begnadigt-er-sie-auch-vorsorglich-a-00307eb1-1d1a-4a49-b96a-0861c65c7a68#ref=rss)
 ### viele
 
-* [https://www.spiegel.de/wirtschaft/strommarkt-woher-der-deutsche-strom-kommt-und-wie-viel-er-wirklich-kostet](https://www.spiegel.de/wirtschaft/strommarkt-woher-der-deutsche-strom-kommt-und-wie-viel-er-wirklich-kostet-a-76b9f9a7-bf28-4319-9416-a5ec15eb745c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/industrie-in-der-krise-lars-klingbeil-fordert-absenkung-der-stromnetz-entgelte](https://www.spiegel.de/wirtschaft/industrie-in-der-krise-lars-klingbeil-fordert-absenkung-der-stromnetz-entgelte-a-069a4b95-337e-4b6d-a2fe-9bd824dc49d2#ref=rss)
-### sieben
+* [https://www.spiegel.de/wirtschaft/donald-trump-das-unwuerdige-verhalten-der-bosse-wie-mark-zuckerberg-und-jeff-bezos](https://www.spiegel.de/wirtschaft/donald-trump-das-unwuerdige-verhalten-der-bosse-wie-mark-zuckerberg-und-jeff-bezos-a-efe3dd60-2155-4e2a-b81b-f203366d96a0#ref=rss)
+* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-was-bringt-ein-monat-ohne-alkohol](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-was-bringt-ein-monat-ohne-alkohol-und-wie-haelt-man-durch-a-1300451.html#ref=rss)
+* [https://www.spiegel.de/sport/fussball/hallenfussball-ein-plaedoyer-spiegel-extra-von-11freunde](https://www.spiegel.de/sport/fussball/hallenfussball-ein-plaedoyer-spiegel-extra-von-11freunde-a-57bfdc80-effe-4dd8-ab1e-14c010de405f#ref=rss)
+### wo
 
-* [https://www.spiegel.de/wirtschaft/strommarkt-woher-der-deutsche-strom-kommt-und-wie-viel-er-wirklich-kostet](https://www.spiegel.de/wirtschaft/strommarkt-woher-der-deutsche-strom-kommt-und-wie-viel-er-wirklich-kostet-a-76b9f9a7-bf28-4319-9416-a5ec15eb745c#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### giftmüll
+* [https://www.spiegel.de/reise/reisetipps-fuer-2025-wo-soll-ich-urlaub-machen](https://www.spiegel.de/reise/reisetipps-fuer-2025-wo-soll-ich-urlaub-machen-a-8f734427-bc0b-43ff-8d50-0226a96a4305#ref=rss)
+* [https://www.spiegel.de/kultur/wallace-gromit-mit-neuem-film-bei-netflix-die-feier-des-unperfekten](https://www.spiegel.de/kultur/wallace-gromit-mit-neuem-film-bei-netflix-die-feier-des-unperfekten-a-7db55beb-940d-4225-a4bc-41d22fd49f79#ref=rss)
+### unter
 
-* [https://www.spiegel.de/ausland/indien-giftmuell-in-bhopal-wird-40-jahre-nach-katastrophe-entsorgt](https://www.spiegel.de/ausland/indien-giftmuell-in-bhopal-wird-40-jahre-nach-katastrophe-entsorgt-a-720bddf7-2455-4ce2-9e19-1aa951f6090a#ref=rss)
-### bhopal
+* [https://www.spiegel.de/wirtschaft/top-100-der-wertvollsten-boersenkonzerne-nur-drei-deutsche-dabei](https://www.spiegel.de/wirtschaft/top-100-der-wertvollsten-boersenkonzerne-nur-drei-deutsche-dabei-a-bffdfad9-7934-4a50-a65f-3e46520770e4#ref=rss)
+* [https://www.spiegel.de/panorama/leute/andrew-garfield-schaetzt-emotionale-offenheit-unter-maennern](https://www.spiegel.de/panorama/leute/andrew-garfield-schaetzt-emotionale-offenheit-unter-maennern-a-6678aa24-2b3b-499d-af5e-6274d31cd1f0#ref=rss)
+### polizisten
 
-* [https://www.spiegel.de/ausland/indien-giftmuell-in-bhopal-wird-40-jahre-nach-katastrophe-entsorgt](https://www.spiegel.de/ausland/indien-giftmuell-in-bhopal-wird-40-jahre-nach-katastrophe-entsorgt-a-720bddf7-2455-4ce2-9e19-1aa951f6090a#ref=rss)
-### entsorgt
+* [https://www.spiegel.de/panorama/justiz/gruensfeld-baggerfahrer-randalierte-offenbar-wegen-geld](https://www.spiegel.de/panorama/justiz/gruensfeld-baggerfahrer-randalierte-offenbar-wegen-geld-a-aeaa8ef1-c28d-494d-bc55-a03d968f0255#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/nancy-faeser-und-volker-wissing-fordern-nach-silvester-gewalt-harte-strafen](https://www.spiegel.de/politik/deutschland/nancy-faeser-und-volker-wissing-fordern-nach-silvester-gewalt-harte-strafen-a-4ecc37f4-db78-41f1-8455-7dd526b6086e#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/ausland/indien-giftmuell-in-bhopal-wird-40-jahre-nach-katastrophe-entsorgt](https://www.spiegel.de/ausland/indien-giftmuell-in-bhopal-wird-40-jahre-nach-katastrophe-entsorgt-a-720bddf7-2455-4ce2-9e19-1aa951f6090a#ref=rss)
-### großbritannien
+* [https://www.spiegel.de/panorama/justiz/gruensfeld-baggerfahrer-randalierte-offenbar-wegen-geld](https://www.spiegel.de/panorama/justiz/gruensfeld-baggerfahrer-randalierte-offenbar-wegen-geld-a-aeaa8ef1-c28d-494d-bc55-a03d968f0255#ref=rss)
+* [https://www.spiegel.de/panorama/australien-surfer-vermisst-polizei-vermutet-toedliche-hai-attacke](https://www.spiegel.de/panorama/australien-surfer-vermisst-polizei-vermutet-toedliche-hai-attacke-a-0f710b0f-fbeb-4889-a32c-65a0976b9251#ref=rss)
+### nordrheinwestfalen
 
-* [https://www.spiegel.de/wissenschaft/natur/grossbritannien-neue-fussabdruecke-von-dinosauriern-entdeckt](https://www.spiegel.de/wissenschaft/natur/grossbritannien-neue-fussabdruecke-von-dinosauriern-entdeckt-a-5e30589f-55e8-46d4-8a38-4349e03d3328#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-polizeigesetz-laut-bundesverfassungsgericht-teilweise-nicht-mit-dem-grundgesetz-vereinbar](https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-polizeigesetz-laut-bundesverfassungsgericht-teilweise-nicht-mit-dem-grundgesetz-vereinbar-a-32e73db2-069f-4e46-af12-b3447ecb6b0a#ref=rss)
+### polizeigesetz
+
+* [https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-polizeigesetz-laut-bundesverfassungsgericht-teilweise-nicht-mit-dem-grundgesetz-vereinbar](https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-polizeigesetz-laut-bundesverfassungsgericht-teilweise-nicht-mit-dem-grundgesetz-vereinbar-a-32e73db2-069f-4e46-af12-b3447ecb6b0a#ref=rss)
+### elon
+
+* [https://www.spiegel.de/wirtschaft/elon-musk-und-mathias-doepfner-die-verbindung-hinter-dem-afd-beitrag-in-der-welt](https://www.spiegel.de/wirtschaft/elon-musk-und-mathias-doepfner-die-verbindung-hinter-dem-afd-beitrag-in-der-welt-a-87e73e0f-d8f8-48e6-aa0f-d3e4f0cbbabe#ref=rss)
+### musk
+
+* [https://www.spiegel.de/wirtschaft/elon-musk-und-mathias-doepfner-die-verbindung-hinter-dem-afd-beitrag-in-der-welt](https://www.spiegel.de/wirtschaft/elon-musk-und-mathias-doepfner-die-verbindung-hinter-dem-afd-beitrag-in-der-welt-a-87e73e0f-d8f8-48e6-aa0f-d3e4f0cbbabe#ref=rss)
+### mathias
+
+* [https://www.spiegel.de/wirtschaft/elon-musk-und-mathias-doepfner-die-verbindung-hinter-dem-afd-beitrag-in-der-welt](https://www.spiegel.de/wirtschaft/elon-musk-und-mathias-doepfner-die-verbindung-hinter-dem-afd-beitrag-in-der-welt-a-87e73e0f-d8f8-48e6-aa0f-d3e4f0cbbabe#ref=rss)
+### döpfner
+
+* [https://www.spiegel.de/wirtschaft/elon-musk-und-mathias-doepfner-die-verbindung-hinter-dem-afd-beitrag-in-der-welt](https://www.spiegel.de/wirtschaft/elon-musk-und-mathias-doepfner-die-verbindung-hinter-dem-afd-beitrag-in-der-welt-a-87e73e0f-d8f8-48e6-aa0f-d3e4f0cbbabe#ref=rss)
+### verbindung
+
+* [https://www.spiegel.de/wirtschaft/elon-musk-und-mathias-doepfner-die-verbindung-hinter-dem-afd-beitrag-in-der-welt](https://www.spiegel.de/wirtschaft/elon-musk-und-mathias-doepfner-die-verbindung-hinter-dem-afd-beitrag-in-der-welt-a-87e73e0f-d8f8-48e6-aa0f-d3e4f0cbbabe#ref=rss)
+### frans
+
+* [https://www.spiegel.de/sport/fussball/frans-kraetzig-das-bayern-talent-das-in-stuttgart-nicht-zum-zug-kam-und-jetzt-in-heidenheim-lernen-soll](https://www.spiegel.de/sport/fussball/frans-kraetzig-das-bayern-talent-das-in-stuttgart-nicht-zum-zug-kam-und-jetzt-in-heidenheim-lernen-soll-a-997c939c-6a99-4bfe-ae81-53bb073bef2b#ref=rss)
+### krätzig
+
+* [https://www.spiegel.de/sport/fussball/frans-kraetzig-das-bayern-talent-das-in-stuttgart-nicht-zum-zug-kam-und-jetzt-in-heidenheim-lernen-soll](https://www.spiegel.de/sport/fussball/frans-kraetzig-das-bayern-talent-das-in-stuttgart-nicht-zum-zug-kam-und-jetzt-in-heidenheim-lernen-soll-a-997c939c-6a99-4bfe-ae81-53bb073bef2b#ref=rss)
+### heidenheim
+
+* [https://www.spiegel.de/sport/fussball/frans-kraetzig-das-bayern-talent-das-in-stuttgart-nicht-zum-zug-kam-und-jetzt-in-heidenheim-lernen-soll](https://www.spiegel.de/sport/fussball/frans-kraetzig-das-bayern-talent-das-in-stuttgart-nicht-zum-zug-kam-und-jetzt-in-heidenheim-lernen-soll-a-997c939c-6a99-4bfe-ae81-53bb073bef2b#ref=rss)
+### beweisen
+
+* [https://www.spiegel.de/sport/fussball/frans-kraetzig-das-bayern-talent-das-in-stuttgart-nicht-zum-zug-kam-und-jetzt-in-heidenheim-lernen-soll](https://www.spiegel.de/sport/fussball/frans-kraetzig-das-bayern-talent-das-in-stuttgart-nicht-zum-zug-kam-und-jetzt-in-heidenheim-lernen-soll-a-997c939c-6a99-4bfe-ae81-53bb073bef2b#ref=rss)
+* [https://www.spiegel.de/panorama/leute/jennifer-lopez-was-frauen-stark-macht-die-schauspielerin-ueber-weibliche-superkraefte](https://www.spiegel.de/panorama/leute/jennifer-lopez-was-frauen-stark-macht-die-schauspielerin-ueber-weibliche-superkraefte-a-0267e536-38ea-4ef0-95c4-59cb76414a67#ref=rss)
+### bezahlen
+
+* [https://www.spiegel.de/netzwelt/web/google-wallet-mit-paypal-nutzer-berichten-von-problemen-beim-mobilen-bezahlen](https://www.spiegel.de/netzwelt/web/google-wallet-mit-paypal-nutzer-berichten-von-problemen-beim-mobilen-bezahlen-a-61e1a5d1-98c7-46e9-ac7b-655f8ffe4bfe#ref=rss)
+### russland
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/energie-deutsche-uranimporte-aus-russland-steigen-um-fast-70-prozent](https://www.spiegel.de/wirtschaft/unternehmen/energie-deutsche-uranimporte-aus-russland-steigen-um-fast-70-prozent-a-78651543-7cb0-4767-8c43-adcf096f0bac#ref=rss)
+### 70
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/energie-deutsche-uranimporte-aus-russland-steigen-um-fast-70-prozent](https://www.spiegel.de/wirtschaft/unternehmen/energie-deutsche-uranimporte-aus-russland-steigen-um-fast-70-prozent-a-78651543-7cb0-4767-8c43-adcf096f0bac#ref=rss)
+### prozent
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/energie-deutsche-uranimporte-aus-russland-steigen-um-fast-70-prozent](https://www.spiegel.de/wirtschaft/unternehmen/energie-deutsche-uranimporte-aus-russland-steigen-um-fast-70-prozent-a-78651543-7cb0-4767-8c43-adcf096f0bac#ref=rss)
+### drei
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/energie-deutsche-uranimporte-aus-russland-steigen-um-fast-70-prozent](https://www.spiegel.de/wirtschaft/unternehmen/energie-deutsche-uranimporte-aus-russland-steigen-um-fast-70-prozent-a-78651543-7cb0-4767-8c43-adcf096f0bac#ref=rss)
+* [https://www.spiegel.de/wirtschaft/top-100-der-wertvollsten-boersenkonzerne-nur-drei-deutsche-dabei](https://www.spiegel.de/wirtschaft/top-100-der-wertvollsten-boersenkonzerne-nur-drei-deutsche-dabei-a-bffdfad9-7934-4a50-a65f-3e46520770e4#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/energie-deutsche-uranimporte-aus-russland-steigen-um-fast-70-prozent](https://www.spiegel.de/wirtschaft/unternehmen/energie-deutsche-uranimporte-aus-russland-steigen-um-fast-70-prozent-a-78651543-7cb0-4767-8c43-adcf096f0bac#ref=rss)
+* [https://www.spiegel.de/kultur/wallace-gromit-mit-neuem-film-bei-netflix-die-feier-des-unperfekten](https://www.spiegel.de/kultur/wallace-gromit-mit-neuem-film-bei-netflix-die-feier-des-unperfekten-a-7db55beb-940d-4225-a4bc-41d22fd49f79#ref=rss)
+### führt
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/energie-deutsche-uranimporte-aus-russland-steigen-um-fast-70-prozent](https://www.spiegel.de/wirtschaft/unternehmen/energie-deutsche-uranimporte-aus-russland-steigen-um-fast-70-prozent-a-78651543-7cb0-4767-8c43-adcf096f0bac#ref=rss)
+* [https://www.spiegel.de/wirtschaft/arbeitslosenquote-ist-im-jahr-2024-auf-6-0-prozent-gestiegen](https://www.spiegel.de/wirtschaft/arbeitslosenquote-ist-im-jahr-2024-auf-6-0-prozent-gestiegen-a-ec806def-a04b-4bea-ac9b-9c614fbc01f2#ref=rss)
+### vergangenen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/energie-deutsche-uranimporte-aus-russland-steigen-um-fast-70-prozent](https://www.spiegel.de/wirtschaft/unternehmen/energie-deutsche-uranimporte-aus-russland-steigen-um-fast-70-prozent-a-78651543-7cb0-4767-8c43-adcf096f0bac#ref=rss)
+* [https://www.spiegel.de/wirtschaft/arbeitslosenquote-ist-im-jahr-2024-auf-6-0-prozent-gestiegen](https://www.spiegel.de/wirtschaft/arbeitslosenquote-ist-im-jahr-2024-auf-6-0-prozent-gestiegen-a-ec806def-a04b-4bea-ac9b-9c614fbc01f2#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/energie-deutsche-uranimporte-aus-russland-steigen-um-fast-70-prozent](https://www.spiegel.de/wirtschaft/unternehmen/energie-deutsche-uranimporte-aus-russland-steigen-um-fast-70-prozent-a-78651543-7cb0-4767-8c43-adcf096f0bac#ref=rss)
+* [https://www.spiegel.de/wirtschaft/arbeitslosenquote-ist-im-jahr-2024-auf-6-0-prozent-gestiegen](https://www.spiegel.de/wirtschaft/arbeitslosenquote-ist-im-jahr-2024-auf-6-0-prozent-gestiegen-a-ec806def-a04b-4bea-ac9b-9c614fbc01f2#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/energie-deutsche-uranimporte-aus-russland-steigen-um-fast-70-prozent](https://www.spiegel.de/wirtschaft/unternehmen/energie-deutsche-uranimporte-aus-russland-steigen-um-fast-70-prozent-a-78651543-7cb0-4767-8c43-adcf096f0bac#ref=rss)
+* [https://www.spiegel.de/wirtschaft/arbeitslosenquote-ist-im-jahr-2024-auf-6-0-prozent-gestiegen](https://www.spiegel.de/wirtschaft/arbeitslosenquote-ist-im-jahr-2024-auf-6-0-prozent-gestiegen-a-ec806def-a04b-4bea-ac9b-9c614fbc01f2#ref=rss)
+### tom
+
+* [https://www.spiegel.de/kultur/kino/tom-holland-spider-man-star-zeigt-auch-im-echten-leben-superheldenqualitaeten](https://www.spiegel.de/kultur/kino/tom-holland-spider-man-star-zeigt-auch-im-echten-leben-superheldenqualitaeten-a-e35b61a7-38c0-46af-a828-59af52446f68#ref=rss)
+### holland
+
+* [https://www.spiegel.de/kultur/kino/tom-holland-spider-man-star-zeigt-auch-im-echten-leben-superheldenqualitaeten](https://www.spiegel.de/kultur/kino/tom-holland-spider-man-star-zeigt-auch-im-echten-leben-superheldenqualitaeten-a-e35b61a7-38c0-46af-a828-59af52446f68#ref=rss)
+### österreich
+
+* [https://www.spiegel.de/ausland/oesterreich-koalitionsverhandlungen-zwischen-oevp-spoe-und-neos-gescheitert](https://www.spiegel.de/ausland/oesterreich-koalitionsverhandlungen-zwischen-oevp-spoe-und-neos-gescheitert-a-0759248b-5e1e-435e-a815-20f4c4de71f5#ref=rss)
+### övp
+
+* [https://www.spiegel.de/ausland/oesterreich-koalitionsverhandlungen-zwischen-oevp-spoe-und-neos-gescheitert](https://www.spiegel.de/ausland/oesterreich-koalitionsverhandlungen-zwischen-oevp-spoe-und-neos-gescheitert-a-0759248b-5e1e-435e-a815-20f4c4de71f5#ref=rss)
+### spö
+
+* [https://www.spiegel.de/ausland/oesterreich-koalitionsverhandlungen-zwischen-oevp-spoe-und-neos-gescheitert](https://www.spiegel.de/ausland/oesterreich-koalitionsverhandlungen-zwischen-oevp-spoe-und-neos-gescheitert-a-0759248b-5e1e-435e-a815-20f4c4de71f5#ref=rss)
+### kraft
+
+* [https://www.spiegel.de/ausland/oesterreich-koalitionsverhandlungen-zwischen-oevp-spoe-und-neos-gescheitert](https://www.spiegel.de/ausland/oesterreich-koalitionsverhandlungen-zwischen-oevp-spoe-und-neos-gescheitert-a-0759248b-5e1e-435e-a815-20f4c4de71f5#ref=rss)
+* [https://www.spiegel.de/panorama/leute/jennifer-lopez-was-frauen-stark-macht-die-schauspielerin-ueber-weibliche-superkraefte](https://www.spiegel.de/panorama/leute/jennifer-lopez-was-frauen-stark-macht-die-schauspielerin-ueber-weibliche-superkraefte-a-0267e536-38ea-4ef0-95c4-59cb76414a67#ref=rss)
+### faeser
+
+* [https://www.spiegel.de/politik/deutschland/nancy-faeser-und-volker-wissing-fordern-nach-silvester-gewalt-harte-strafen](https://www.spiegel.de/politik/deutschland/nancy-faeser-und-volker-wissing-fordern-nach-silvester-gewalt-harte-strafen-a-4ecc37f4-db78-41f1-8455-7dd526b6086e#ref=rss)
+### wissing
+
+* [https://www.spiegel.de/politik/deutschland/nancy-faeser-und-volker-wissing-fordern-nach-silvester-gewalt-harte-strafen](https://www.spiegel.de/politik/deutschland/nancy-faeser-und-volker-wissing-fordern-nach-silvester-gewalt-harte-strafen-a-4ecc37f4-db78-41f1-8455-7dd526b6086e#ref=rss)
+### fordern
+
+* [https://www.spiegel.de/politik/deutschland/nancy-faeser-und-volker-wissing-fordern-nach-silvester-gewalt-harte-strafen](https://www.spiegel.de/politik/deutschland/nancy-faeser-und-volker-wissing-fordern-nach-silvester-gewalt-harte-strafen-a-4ecc37f4-db78-41f1-8455-7dd526b6086e#ref=rss)
+### strafen
+
+* [https://www.spiegel.de/politik/deutschland/nancy-faeser-und-volker-wissing-fordern-nach-silvester-gewalt-harte-strafen](https://www.spiegel.de/politik/deutschland/nancy-faeser-und-volker-wissing-fordern-nach-silvester-gewalt-harte-strafen-a-4ecc37f4-db78-41f1-8455-7dd526b6086e#ref=rss)
+### vorläufig
+
+* [https://www.spiegel.de/sport/missbrauchsvorwuerfe-im-turnen-trainer-in-stuttgart-vorlaeufig-freigestellt](https://www.spiegel.de/sport/missbrauchsvorwuerfe-im-turnen-trainer-in-stuttgart-vorlaeufig-freigestellt-a-b82d78bb-9e26-455c-a9e5-6e5264bd2901#ref=rss)
+### freigestellt
+
+* [https://www.spiegel.de/sport/missbrauchsvorwuerfe-im-turnen-trainer-in-stuttgart-vorlaeufig-freigestellt](https://www.spiegel.de/sport/missbrauchsvorwuerfe-im-turnen-trainer-in-stuttgart-vorlaeufig-freigestellt-a-b82d78bb-9e26-455c-a9e5-6e5264bd2901#ref=rss)
+### wirtschaftliche
+
+* [https://www.spiegel.de/wirtschaft/arbeitslosenquote-ist-im-jahr-2024-auf-6-0-prozent-gestiegen](https://www.spiegel.de/wirtschaft/arbeitslosenquote-ist-im-jahr-2024-auf-6-0-prozent-gestiegen-a-ec806def-a04b-4bea-ac9b-9c614fbc01f2#ref=rss)
+### stagnation
+
+* [https://www.spiegel.de/wirtschaft/arbeitslosenquote-ist-im-jahr-2024-auf-6-0-prozent-gestiegen](https://www.spiegel.de/wirtschaft/arbeitslosenquote-ist-im-jahr-2024-auf-6-0-prozent-gestiegen-a-ec806def-a04b-4bea-ac9b-9c614fbc01f2#ref=rss)
+### arbeitslosigkeit
+
+* [https://www.spiegel.de/wirtschaft/arbeitslosenquote-ist-im-jahr-2024-auf-6-0-prozent-gestiegen](https://www.spiegel.de/wirtschaft/arbeitslosenquote-ist-im-jahr-2024-auf-6-0-prozent-gestiegen-a-ec806def-a04b-4bea-ac9b-9c614fbc01f2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-union-friedrich-merz-markus-soeder-gruene-stefan-gelbhaar-arbeitslosigkeit](https://www.spiegel.de/politik/deutschland/news-union-friedrich-merz-markus-soeder-gruene-stefan-gelbhaar-arbeitslosigkeit-a-e4ef64a8-ce2b-4fac-986e-b258e6753472#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/wirtschaft/arbeitslosenquote-ist-im-jahr-2024-auf-6-0-prozent-gestiegen](https://www.spiegel.de/wirtschaft/arbeitslosenquote-ist-im-jahr-2024-auf-6-0-prozent-gestiegen-a-ec806def-a04b-4bea-ac9b-9c614fbc01f2#ref=rss)
+* [https://www.spiegel.de/panorama/leute/jennifer-lopez-was-frauen-stark-macht-die-schauspielerin-ueber-weibliche-superkraefte](https://www.spiegel.de/panorama/leute/jennifer-lopez-was-frauen-stark-macht-die-schauspielerin-ueber-weibliche-superkraefte-a-0267e536-38ea-4ef0-95c4-59cb76414a67#ref=rss)
+### weißen
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/meta-facebook-konzern-bekommt-politik-chef-mit-naehe-zu-republikanern](https://www.spiegel.de/netzwelt/netzpolitik/meta-facebook-konzern-bekommt-politik-chef-mit-naehe-zu-republikanern-a-01ad9177-e52b-4918-83df-6c94c5e2aff1#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-ehrt-trump-kritikerin-liz-cheney-aber-begnadigt-er-sie-auch-vorsorglich](https://www.spiegel.de/ausland/joe-biden-ehrt-trump-kritikerin-liz-cheney-aber-begnadigt-er-sie-auch-vorsorglich-a-00307eb1-1d1a-4a49-b96a-0861c65c7a68#ref=rss)
+### haus
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/meta-facebook-konzern-bekommt-politik-chef-mit-naehe-zu-republikanern](https://www.spiegel.de/netzwelt/netzpolitik/meta-facebook-konzern-bekommt-politik-chef-mit-naehe-zu-republikanern-a-01ad9177-e52b-4918-83df-6c94c5e2aff1#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-ehrt-trump-kritikerin-liz-cheney-aber-begnadigt-er-sie-auch-vorsorglich](https://www.spiegel.de/ausland/joe-biden-ehrt-trump-kritikerin-liz-cheney-aber-begnadigt-er-sie-auch-vorsorglich-a-00307eb1-1d1a-4a49-b96a-0861c65c7a68#ref=rss)
+### jennifer
+
+* [https://www.spiegel.de/panorama/leute/jennifer-lopez-was-frauen-stark-macht-die-schauspielerin-ueber-weibliche-superkraefte](https://www.spiegel.de/panorama/leute/jennifer-lopez-was-frauen-stark-macht-die-schauspielerin-ueber-weibliche-superkraefte-a-0267e536-38ea-4ef0-95c4-59cb76414a67#ref=rss)
+### lopez
+
+* [https://www.spiegel.de/panorama/leute/jennifer-lopez-was-frauen-stark-macht-die-schauspielerin-ueber-weibliche-superkraefte](https://www.spiegel.de/panorama/leute/jennifer-lopez-was-frauen-stark-macht-die-schauspielerin-ueber-weibliche-superkraefte-a-0267e536-38ea-4ef0-95c4-59cb76414a67#ref=rss)
+### frauen
+
+* [https://www.spiegel.de/panorama/leute/jennifer-lopez-was-frauen-stark-macht-die-schauspielerin-ueber-weibliche-superkraefte](https://www.spiegel.de/panorama/leute/jennifer-lopez-was-frauen-stark-macht-die-schauspielerin-ueber-weibliche-superkraefte-a-0267e536-38ea-4ef0-95c4-59cb76414a67#ref=rss)
+### schauspielerin
+
+* [https://www.spiegel.de/panorama/leute/jennifer-lopez-was-frauen-stark-macht-die-schauspielerin-ueber-weibliche-superkraefte](https://www.spiegel.de/panorama/leute/jennifer-lopez-was-frauen-stark-macht-die-schauspielerin-ueber-weibliche-superkraefte-a-0267e536-38ea-4ef0-95c4-59cb76414a67#ref=rss)
+### deutscher
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-das-unwuerdige-verhalten-der-bosse-wie-mark-zuckerberg-und-jeff-bezos](https://www.spiegel.de/wirtschaft/donald-trump-das-unwuerdige-verhalten-der-bosse-wie-mark-zuckerberg-und-jeff-bezos-a-efe3dd60-2155-4e2a-b81b-f203366d96a0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/top-100-der-wertvollsten-boersenkonzerne-nur-drei-deutsche-dabei](https://www.spiegel.de/wirtschaft/top-100-der-wertvollsten-boersenkonzerne-nur-drei-deutsche-dabei-a-bffdfad9-7934-4a50-a65f-3e46520770e4#ref=rss)
+### besonders
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-das-unwuerdige-verhalten-der-bosse-wie-mark-zuckerberg-und-jeff-bezos](https://www.spiegel.de/wirtschaft/donald-trump-das-unwuerdige-verhalten-der-bosse-wie-mark-zuckerberg-und-jeff-bezos-a-efe3dd60-2155-4e2a-b81b-f203366d96a0#ref=rss)
+* [https://www.spiegel.de/reise/reisetipps-fuer-2025-wo-soll-ich-urlaub-machen](https://www.spiegel.de/reise/reisetipps-fuer-2025-wo-soll-ich-urlaub-machen-a-8f734427-bc0b-43ff-8d50-0226a96a4305#ref=rss)
+### surfer
+
+* [https://www.spiegel.de/panorama/australien-surfer-vermisst-polizei-vermutet-toedliche-hai-attacke](https://www.spiegel.de/panorama/australien-surfer-vermisst-polizei-vermutet-toedliche-hai-attacke-a-0f710b0f-fbeb-4889-a32c-65a0976b9251#ref=rss)
+### 2025
+
+* [https://www.spiegel.de/reise/reisetipps-fuer-2025-wo-soll-ich-urlaub-machen](https://www.spiegel.de/reise/reisetipps-fuer-2025-wo-soll-ich-urlaub-machen-a-8f734427-bc0b-43ff-8d50-0226a96a4305#ref=rss)
+### urlaub
+
+* [https://www.spiegel.de/reise/reisetipps-fuer-2025-wo-soll-ich-urlaub-machen](https://www.spiegel.de/reise/reisetipps-fuer-2025-wo-soll-ich-urlaub-machen-a-8f734427-bc0b-43ff-8d50-0226a96a4305#ref=rss)
+### ziele
+
+* [https://www.spiegel.de/reise/reisetipps-fuer-2025-wo-soll-ich-urlaub-machen](https://www.spiegel.de/reise/reisetipps-fuer-2025-wo-soll-ich-urlaub-machen-a-8f734427-bc0b-43ff-8d50-0226a96a4305#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-israel-greift-erneut-ziele-an-mindestens-68-tote](https://www.spiegel.de/ausland/gaza-israel-greift-erneut-ziele-an-mindestens-68-tote-a-1fdbebc3-b9eb-4d44-a135-b3166bda38ec#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/reise/reisetipps-fuer-2025-wo-soll-ich-urlaub-machen](https://www.spiegel.de/reise/reisetipps-fuer-2025-wo-soll-ich-urlaub-machen-a-8f734427-bc0b-43ff-8d50-0226a96a4305#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/syrien-annalena-baerbock-reist-als-erste-eu-aussenministerin-nach-damaskus](https://www.spiegel.de/politik/deutschland/syrien-annalena-baerbock-reist-als-erste-eu-aussenministerin-nach-damaskus-a-6884f1be-3006-454b-9664-3ee76c0eda2e#ref=rss)
+### wallace
+
+* [https://www.spiegel.de/kultur/wallace-gromit-mit-neuem-film-bei-netflix-die-feier-des-unperfekten](https://www.spiegel.de/kultur/wallace-gromit-mit-neuem-film-bei-netflix-die-feier-des-unperfekten-a-7db55beb-940d-4225-a4bc-41d22fd49f79#ref=rss)
+### gromit
+
+* [https://www.spiegel.de/kultur/wallace-gromit-mit-neuem-film-bei-netflix-die-feier-des-unperfekten](https://www.spiegel.de/kultur/wallace-gromit-mit-neuem-film-bei-netflix-die-feier-des-unperfekten-a-7db55beb-940d-4225-a4bc-41d22fd49f79#ref=rss)
+### monat
+
+* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-was-bringt-ein-monat-ohne-alkohol](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-was-bringt-ein-monat-ohne-alkohol-und-wie-haelt-man-durch-a-1300451.html#ref=rss)
+### alkohol
+
+* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-was-bringt-ein-monat-ohne-alkohol](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-was-bringt-ein-monat-ohne-alkohol-und-wie-haelt-man-durch-a-1300451.html#ref=rss)
+### konzerne
+
+* [https://www.spiegel.de/wirtschaft/top-100-der-wertvollsten-boersenkonzerne-nur-drei-deutsche-dabei](https://www.spiegel.de/wirtschaft/top-100-der-wertvollsten-boersenkonzerne-nur-drei-deutsche-dabei-a-bffdfad9-7934-4a50-a65f-3e46520770e4#ref=rss)
+### anderen
+
+* [https://www.spiegel.de/wirtschaft/top-100-der-wertvollsten-boersenkonzerne-nur-drei-deutsche-dabei](https://www.spiegel.de/wirtschaft/top-100-der-wertvollsten-boersenkonzerne-nur-drei-deutsche-dabei-a-bffdfad9-7934-4a50-a65f-3e46520770e4#ref=rss)
+* [https://www.spiegel.de/panorama/leute/andrew-garfield-schaetzt-emotionale-offenheit-unter-maennern](https://www.spiegel.de/panorama/leute/andrew-garfield-schaetzt-emotionale-offenheit-unter-maennern-a-6678aa24-2b3b-499d-af5e-6274d31cd1f0#ref=rss)
+### usa
+
+* [https://www.spiegel.de/wirtschaft/top-100-der-wertvollsten-boersenkonzerne-nur-drei-deutsche-dabei](https://www.spiegel.de/wirtschaft/top-100-der-wertvollsten-boersenkonzerne-nur-drei-deutsche-dabei-a-bffdfad9-7934-4a50-a65f-3e46520770e4#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-ehrt-trump-kritikerin-liz-cheney-aber-begnadigt-er-sie-auch-vorsorglich](https://www.spiegel.de/ausland/joe-biden-ehrt-trump-kritikerin-liz-cheney-aber-begnadigt-er-sie-auch-vorsorglich-a-00307eb1-1d1a-4a49-b96a-0861c65c7a68#ref=rss)
+### schnee
+
+* [https://www.spiegel.de/panorama/bayern-schnee-und-glaette-unfall-mit-intercity-zug-in-stephanskirchen-bei-rosenheim](https://www.spiegel.de/panorama/bayern-schnee-und-glaette-unfall-mit-intercity-zug-in-stephanskirchen-bei-rosenheim-a-41e95703-445c-47a5-8e34-1fdd9ae73b50#ref=rss)
+### herrscht
+
+* [https://www.spiegel.de/panorama/bayern-schnee-und-glaette-unfall-mit-intercity-zug-in-stephanskirchen-bei-rosenheim](https://www.spiegel.de/panorama/bayern-schnee-und-glaette-unfall-mit-intercity-zug-in-stephanskirchen-bei-rosenheim-a-41e95703-445c-47a5-8e34-1fdd9ae73b50#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-union-friedrich-merz-markus-soeder-gruene-stefan-gelbhaar-arbeitslosigkeit](https://www.spiegel.de/politik/deutschland/news-union-friedrich-merz-markus-soeder-gruene-stefan-gelbhaar-arbeitslosigkeit-a-e4ef64a8-ce2b-4fac-986e-b258e6753472#ref=rss)
+### markus
+
+* [https://www.spiegel.de/wirtschaft/olaf-scholz-und-markus-soeder-wollen-e-autos-foerdern](https://www.spiegel.de/wirtschaft/olaf-scholz-und-markus-soeder-wollen-e-autos-foerdern-a-f528c9d0-3463-404b-ac1e-c0b657774de5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-union-friedrich-merz-markus-soeder-gruene-stefan-gelbhaar-arbeitslosigkeit](https://www.spiegel.de/politik/deutschland/news-union-friedrich-merz-markus-soeder-gruene-stefan-gelbhaar-arbeitslosigkeit-a-e4ef64a8-ce2b-4fac-986e-b258e6753472#ref=rss)
+### söder
+
+* [https://www.spiegel.de/wirtschaft/olaf-scholz-und-markus-soeder-wollen-e-autos-foerdern](https://www.spiegel.de/wirtschaft/olaf-scholz-und-markus-soeder-wollen-e-autos-foerdern-a-f528c9d0-3463-404b-ac1e-c0b657774de5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-union-friedrich-merz-markus-soeder-gruene-stefan-gelbhaar-arbeitslosigkeit](https://www.spiegel.de/politik/deutschland/news-union-friedrich-merz-markus-soeder-gruene-stefan-gelbhaar-arbeitslosigkeit-a-e4ef64a8-ce2b-4fac-986e-b258e6753472#ref=rss)
+### spd
+
+* [https://www.spiegel.de/wirtschaft/olaf-scholz-und-markus-soeder-wollen-e-autos-foerdern](https://www.spiegel.de/wirtschaft/olaf-scholz-und-markus-soeder-wollen-e-autos-foerdern-a-f528c9d0-3463-404b-ac1e-c0b657774de5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-christian-lindner-draengt-union-zu-exklusivem-buendnis-mit-der-fdp](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-christian-lindner-draengt-union-zu-exklusivem-buendnis-mit-der-fdp-a-2a6d9aaf-848d-440d-9d93-1ed8e559d676#ref=rss)
+### fdp
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-christian-lindner-draengt-union-zu-exklusivem-buendnis-mit-der-fdp](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-christian-lindner-draengt-union-zu-exklusivem-buendnis-mit-der-fdp-a-2a6d9aaf-848d-440d-9d93-1ed8e559d676#ref=rss)
+### christian
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-christian-lindner-draengt-union-zu-exklusivem-buendnis-mit-der-fdp](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-christian-lindner-draengt-union-zu-exklusivem-buendnis-mit-der-fdp-a-2a6d9aaf-848d-440d-9d93-1ed8e559d676#ref=rss)
+### lindner
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-christian-lindner-draengt-union-zu-exklusivem-buendnis-mit-der-fdp](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-christian-lindner-draengt-union-zu-exklusivem-buendnis-mit-der-fdp-a-2a6d9aaf-848d-440d-9d93-1ed8e559d676#ref=rss)
+### koalition
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-christian-lindner-draengt-union-zu-exklusivem-buendnis-mit-der-fdp](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-christian-lindner-draengt-union-zu-exklusivem-buendnis-mit-der-fdp-a-2a6d9aaf-848d-440d-9d93-1ed8e559d676#ref=rss)
+### grünen
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-christian-lindner-draengt-union-zu-exklusivem-buendnis-mit-der-fdp](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-christian-lindner-draengt-union-zu-exklusivem-buendnis-mit-der-fdp-a-2a6d9aaf-848d-440d-9d93-1ed8e559d676#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-union-friedrich-merz-markus-soeder-gruene-stefan-gelbhaar-arbeitslosigkeit](https://www.spiegel.de/politik/deutschland/news-union-friedrich-merz-markus-soeder-gruene-stefan-gelbhaar-arbeitslosigkeit-a-e4ef64a8-ce2b-4fac-986e-b258e6753472#ref=rss)
+### andrew
+
+* [https://www.spiegel.de/panorama/leute/andrew-garfield-schaetzt-emotionale-offenheit-unter-maennern](https://www.spiegel.de/panorama/leute/andrew-garfield-schaetzt-emotionale-offenheit-unter-maennern-a-6678aa24-2b3b-499d-af5e-6274d31cd1f0#ref=rss)
+### garfield
+
+* [https://www.spiegel.de/panorama/leute/andrew-garfield-schaetzt-emotionale-offenheit-unter-maennern](https://www.spiegel.de/panorama/leute/andrew-garfield-schaetzt-emotionale-offenheit-unter-maennern-a-6678aa24-2b3b-499d-af5e-6274d31cd1f0#ref=rss)
+### schätzt
+
+* [https://www.spiegel.de/panorama/leute/andrew-garfield-schaetzt-emotionale-offenheit-unter-maennern](https://www.spiegel.de/panorama/leute/andrew-garfield-schaetzt-emotionale-offenheit-unter-maennern-a-6678aa24-2b3b-499d-af5e-6274d31cd1f0#ref=rss)
+### emotionale
+
+* [https://www.spiegel.de/panorama/leute/andrew-garfield-schaetzt-emotionale-offenheit-unter-maennern](https://www.spiegel.de/panorama/leute/andrew-garfield-schaetzt-emotionale-offenheit-unter-maennern-a-6678aa24-2b3b-499d-af5e-6274d31cd1f0#ref=rss)
+### offenheit
+
+* [https://www.spiegel.de/panorama/leute/andrew-garfield-schaetzt-emotionale-offenheit-unter-maennern](https://www.spiegel.de/panorama/leute/andrew-garfield-schaetzt-emotionale-offenheit-unter-maennern-a-6678aa24-2b3b-499d-af5e-6274d31cd1f0#ref=rss)
+### männern
+
+* [https://www.spiegel.de/panorama/leute/andrew-garfield-schaetzt-emotionale-offenheit-unter-maennern](https://www.spiegel.de/panorama/leute/andrew-garfield-schaetzt-emotionale-offenheit-unter-maennern-a-6678aa24-2b3b-499d-af5e-6274d31cd1f0#ref=rss)
+### sprechen
+
+* [https://www.spiegel.de/panorama/leute/andrew-garfield-schaetzt-emotionale-offenheit-unter-maennern](https://www.spiegel.de/panorama/leute/andrew-garfield-schaetzt-emotionale-offenheit-unter-maennern-a-6678aa24-2b3b-499d-af5e-6274d31cd1f0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/syrien-annalena-baerbock-reist-als-erste-eu-aussenministerin-nach-damaskus](https://www.spiegel.de/politik/deutschland/syrien-annalena-baerbock-reist-als-erste-eu-aussenministerin-nach-damaskus-a-6884f1be-3006-454b-9664-3ee76c0eda2e#ref=rss)
+### gaza
+
+* [https://www.spiegel.de/ausland/gaza-israel-greift-erneut-ziele-an-mindestens-68-tote](https://www.spiegel.de/ausland/gaza-israel-greift-erneut-ziele-an-mindestens-68-tote-a-1fdbebc3-b9eb-4d44-a135-b3166bda38ec#ref=rss)
+### mindestens
+
+* [https://www.spiegel.de/ausland/gaza-israel-greift-erneut-ziele-an-mindestens-68-tote](https://www.spiegel.de/ausland/gaza-israel-greift-erneut-ziele-an-mindestens-68-tote-a-1fdbebc3-b9eb-4d44-a135-b3166bda38ec#ref=rss)
+### 68
+
+* [https://www.spiegel.de/ausland/gaza-israel-greift-erneut-ziele-an-mindestens-68-tote](https://www.spiegel.de/ausland/gaza-israel-greift-erneut-ziele-an-mindestens-68-tote-a-1fdbebc3-b9eb-4d44-a135-b3166bda38ec#ref=rss)
 ### neue
 
-* [https://www.spiegel.de/wissenschaft/natur/grossbritannien-neue-fussabdruecke-von-dinosauriern-entdeckt](https://www.spiegel.de/wissenschaft/natur/grossbritannien-neue-fussabdruecke-von-dinosauriern-entdeckt-a-5e30589f-55e8-46d4-8a38-4349e03d3328#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/reichsbuerger-komplex-bundesweit-189-personen-per-haftbefehl-gesucht](https://www.spiegel.de/panorama/justiz/reichsbuerger-komplex-bundesweit-189-personen-per-haftbefehl-gesucht-a-a871c605-48bb-45d0-8413-5c71705c6162#ref=rss)
-### fußabdrücke
+* [https://www.spiegel.de/ausland/gaza-israel-greift-erneut-ziele-an-mindestens-68-tote](https://www.spiegel.de/ausland/gaza-israel-greift-erneut-ziele-an-mindestens-68-tote-a-1fdbebc3-b9eb-4d44-a135-b3166bda38ec#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-union-friedrich-merz-markus-soeder-gruene-stefan-gelbhaar-arbeitslosigkeit](https://www.spiegel.de/politik/deutschland/news-union-friedrich-merz-markus-soeder-gruene-stefan-gelbhaar-arbeitslosigkeit-a-e4ef64a8-ce2b-4fac-986e-b258e6753472#ref=rss)
+### new
 
-* [https://www.spiegel.de/wissenschaft/natur/grossbritannien-neue-fussabdruecke-von-dinosauriern-entdeckt](https://www.spiegel.de/wissenschaft/natur/grossbritannien-neue-fussabdruecke-von-dinosauriern-entdeckt-a-5e30589f-55e8-46d4-8a38-4349e03d3328#ref=rss)
-### dinosauriern
+* [https://www.spiegel.de/ausland/anschlag-in-new-orleans-wie-der-terror-in-den-usa-politisch-ausgeschlachtet-wird](https://www.spiegel.de/ausland/anschlag-in-new-orleans-wie-der-terror-in-den-usa-politisch-ausgeschlachtet-wird-a-80a7faf0-1a2c-4db1-9509-9eec6d33d780#ref=rss)
+### orleans
 
-* [https://www.spiegel.de/wissenschaft/natur/grossbritannien-neue-fussabdruecke-von-dinosauriern-entdeckt](https://www.spiegel.de/wissenschaft/natur/grossbritannien-neue-fussabdruecke-von-dinosauriern-entdeckt-a-5e30589f-55e8-46d4-8a38-4349e03d3328#ref=rss)
-### reicht
+* [https://www.spiegel.de/ausland/anschlag-in-new-orleans-wie-der-terror-in-den-usa-politisch-ausgeschlachtet-wird](https://www.spiegel.de/ausland/anschlag-in-new-orleans-wie-der-terror-in-den-usa-politisch-ausgeschlachtet-wird-a-80a7faf0-1a2c-4db1-9509-9eec6d33d780#ref=rss)
+### annalena
 
-* [https://www.spiegel.de/wissenschaft/natur/grossbritannien-neue-fussabdruecke-von-dinosauriern-entdeckt](https://www.spiegel.de/wissenschaft/natur/grossbritannien-neue-fussabdruecke-von-dinosauriern-entdeckt-a-5e30589f-55e8-46d4-8a38-4349e03d3328#ref=rss)
-* [https://www.spiegel.de/kultur/tv/thomas-gottschalk-hungert-sich-mit-850-kalorien-am-tag-durchs-leben](https://www.spiegel.de/kultur/tv/thomas-gottschalk-hungert-sich-mit-850-kalorien-am-tag-durchs-leben-a-c1073f8e-e993-4034-8a6d-052a96480133#ref=rss)
-### bundesweit
+* [https://www.spiegel.de/politik/deutschland/syrien-annalena-baerbock-reist-als-erste-eu-aussenministerin-nach-damaskus](https://www.spiegel.de/politik/deutschland/syrien-annalena-baerbock-reist-als-erste-eu-aussenministerin-nach-damaskus-a-6884f1be-3006-454b-9664-3ee76c0eda2e#ref=rss)
+### baerbock
 
-* [https://www.spiegel.de/panorama/justiz/reichsbuerger-komplex-bundesweit-189-personen-per-haftbefehl-gesucht](https://www.spiegel.de/panorama/justiz/reichsbuerger-komplex-bundesweit-189-personen-per-haftbefehl-gesucht-a-a871c605-48bb-45d0-8413-5c71705c6162#ref=rss)
-### 189
+* [https://www.spiegel.de/politik/deutschland/syrien-annalena-baerbock-reist-als-erste-eu-aussenministerin-nach-damaskus](https://www.spiegel.de/politik/deutschland/syrien-annalena-baerbock-reist-als-erste-eu-aussenministerin-nach-damaskus-a-6884f1be-3006-454b-9664-3ee76c0eda2e#ref=rss)
+### friedrich
 
-* [https://www.spiegel.de/panorama/justiz/reichsbuerger-komplex-bundesweit-189-personen-per-haftbefehl-gesucht](https://www.spiegel.de/panorama/justiz/reichsbuerger-komplex-bundesweit-189-personen-per-haftbefehl-gesucht-a-a871c605-48bb-45d0-8413-5c71705c6162#ref=rss)
-### zuletzt
+* [https://www.spiegel.de/politik/deutschland/news-union-friedrich-merz-markus-soeder-gruene-stefan-gelbhaar-arbeitslosigkeit](https://www.spiegel.de/politik/deutschland/news-union-friedrich-merz-markus-soeder-gruene-stefan-gelbhaar-arbeitslosigkeit-a-e4ef64a8-ce2b-4fac-986e-b258e6753472#ref=rss)
+### merz
 
-* [https://www.spiegel.de/panorama/justiz/reichsbuerger-komplex-bundesweit-189-personen-per-haftbefehl-gesucht](https://www.spiegel.de/panorama/justiz/reichsbuerger-komplex-bundesweit-189-personen-per-haftbefehl-gesucht-a-a871c605-48bb-45d0-8413-5c71705c6162#ref=rss)
-* [https://www.spiegel.de/kultur/tv/thomas-gottschalk-hungert-sich-mit-850-kalorien-am-tag-durchs-leben](https://www.spiegel.de/kultur/tv/thomas-gottschalk-hungert-sich-mit-850-kalorien-am-tag-durchs-leben-a-c1073f8e-e993-4034-8a6d-052a96480133#ref=rss)
-### kommen
+* [https://www.spiegel.de/politik/deutschland/news-union-friedrich-merz-markus-soeder-gruene-stefan-gelbhaar-arbeitslosigkeit](https://www.spiegel.de/politik/deutschland/news-union-friedrich-merz-markus-soeder-gruene-stefan-gelbhaar-arbeitslosigkeit-a-e4ef64a8-ce2b-4fac-986e-b258e6753472#ref=rss)
+### liz
 
-* [https://www.spiegel.de/panorama/justiz/reichsbuerger-komplex-bundesweit-189-personen-per-haftbefehl-gesucht](https://www.spiegel.de/panorama/justiz/reichsbuerger-komplex-bundesweit-189-personen-per-haftbefehl-gesucht-a-a871c605-48bb-45d0-8413-5c71705c6162#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/quadrantiden-kommen-bis-zu-100-sternschnuppen-pro-sekunde-erwartet](https://www.spiegel.de/wissenschaft/natur/quadrantiden-kommen-bis-zu-100-sternschnuppen-pro-sekunde-erwartet-a-9471416f-9fd0-443a-a18a-b915ba3126fc#ref=rss)
-### präsidentenwahl
+* [https://www.spiegel.de/ausland/joe-biden-ehrt-trump-kritikerin-liz-cheney-aber-begnadigt-er-sie-auch-vorsorglich](https://www.spiegel.de/ausland/joe-biden-ehrt-trump-kritikerin-liz-cheney-aber-begnadigt-er-sie-auch-vorsorglich-a-00307eb1-1d1a-4a49-b96a-0861c65c7a68#ref=rss)
+### cheney
 
-* [https://www.spiegel.de/ausland/rumaenien-rechtsextremer-kandidat-klagt-gegen-annullierung-der-praesidentenwahl](https://www.spiegel.de/ausland/rumaenien-rechtsextremer-kandidat-klagt-gegen-annullierung-der-praesidentenwahl-a-a9d1f669-f2f1-474b-b9fb-30a92943eada#ref=rss)
-### europa
-
-* [https://www.spiegel.de/ausland/rumaenien-rechtsextremer-kandidat-klagt-gegen-annullierung-der-praesidentenwahl](https://www.spiegel.de/ausland/rumaenien-rechtsextremer-kandidat-klagt-gegen-annullierung-der-praesidentenwahl-a-a9d1f669-f2f1-474b-b9fb-30a92943eada#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-experte-ueber-energiestreit-mit-der-slowakei-ficos-drohungen-sind-lachhaft](https://www.spiegel.de/ausland/ukraine-experte-ueber-energiestreit-mit-der-slowakei-ficos-drohungen-sind-lachhaft-a-f2403a26-9940-4a89-913c-ba271321f30f#ref=rss)
-### unternehmen
-
-* [https://www.spiegel.de/wirtschaft/tesla-us-autobauer-erreicht-auslieferungsziel-2024-nicht](https://www.spiegel.de/wirtschaft/tesla-us-autobauer-erreicht-auslieferungsziel-2024-nicht-a-d5447c0d-a974-4de5-8fa3-b28933cf737b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/industrie-in-der-krise-lars-klingbeil-fordert-absenkung-der-stromnetz-entgelte](https://www.spiegel.de/wirtschaft/industrie-in-der-krise-lars-klingbeil-fordert-absenkung-der-stromnetz-entgelte-a-069a4b95-337e-4b6d-a2fe-9bd824dc49d2#ref=rss)
-### geplant
-
-* [https://www.spiegel.de/wirtschaft/tesla-us-autobauer-erreicht-auslieferungsziel-2024-nicht](https://www.spiegel.de/wirtschaft/tesla-us-autobauer-erreicht-auslieferungsziel-2024-nicht-a-d5447c0d-a974-4de5-8fa3-b28933cf737b#ref=rss)
-* [https://www.spiegel.de/panorama/reisehinweis-des-auswaertigen-amtes-vietnam-verbietet-saemtliche-e-zigaretten](https://www.spiegel.de/panorama/reisehinweis-des-auswaertigen-amtes-vietnam-verbietet-saemtliche-e-zigaretten-a-6eb75079-4322-4013-b2f0-5d9b4cdfaa3a#ref=rss)
-### ágnes
-
-* [https://www.spiegel.de/sport/olympia/agnes-keleti-stirbt-mit-103-jahren-das-jahrhundertleben-einer-turnerin-nachruf](https://www.spiegel.de/sport/olympia/agnes-keleti-stirbt-mit-103-jahren-das-jahrhundertleben-einer-turnerin-nachruf-a-db2a0506-04d3-4dcb-9c24-3e5d7f2345d8#ref=rss)
-### keleti
-
-* [https://www.spiegel.de/sport/olympia/agnes-keleti-stirbt-mit-103-jahren-das-jahrhundertleben-einer-turnerin-nachruf](https://www.spiegel.de/sport/olympia/agnes-keleti-stirbt-mit-103-jahren-das-jahrhundertleben-einer-turnerin-nachruf-a-db2a0506-04d3-4dcb-9c24-3e5d7f2345d8#ref=rss)
-### 103
-
-* [https://www.spiegel.de/sport/olympia/agnes-keleti-stirbt-mit-103-jahren-das-jahrhundertleben-einer-turnerin-nachruf](https://www.spiegel.de/sport/olympia/agnes-keleti-stirbt-mit-103-jahren-das-jahrhundertleben-einer-turnerin-nachruf-a-db2a0506-04d3-4dcb-9c24-3e5d7f2345d8#ref=rss)
-### spiegel
-
-* [https://www.spiegel.de/sport/olympia/agnes-keleti-stirbt-mit-103-jahren-das-jahrhundertleben-einer-turnerin-nachruf](https://www.spiegel.de/sport/olympia/agnes-keleti-stirbt-mit-103-jahren-das-jahrhundertleben-einer-turnerin-nachruf-a-db2a0506-04d3-4dcb-9c24-3e5d7f2345d8#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### vietnam
-
-* [https://www.spiegel.de/panorama/reisehinweis-des-auswaertigen-amtes-vietnam-verbietet-saemtliche-e-zigaretten](https://www.spiegel.de/panorama/reisehinweis-des-auswaertigen-amtes-vietnam-verbietet-saemtliche-e-zigaretten-a-6eb75079-4322-4013-b2f0-5d9b4cdfaa3a#ref=rss)
-### ezigaretten
-
-* [https://www.spiegel.de/panorama/reisehinweis-des-auswaertigen-amtes-vietnam-verbietet-saemtliche-e-zigaretten](https://www.spiegel.de/panorama/reisehinweis-des-auswaertigen-amtes-vietnam-verbietet-saemtliche-e-zigaretten-a-6eb75079-4322-4013-b2f0-5d9b4cdfaa3a#ref=rss)
-### quadrantiden
-
-* [https://www.spiegel.de/wissenschaft/natur/quadrantiden-kommen-bis-zu-100-sternschnuppen-pro-sekunde-erwartet](https://www.spiegel.de/wissenschaft/natur/quadrantiden-kommen-bis-zu-100-sternschnuppen-pro-sekunde-erwartet-a-9471416f-9fd0-443a-a18a-b915ba3126fc#ref=rss)
-### gottschalk
-
-* [https://www.spiegel.de/kultur/tv/thomas-gottschalk-hungert-sich-mit-850-kalorien-am-tag-durchs-leben](https://www.spiegel.de/kultur/tv/thomas-gottschalk-hungert-sich-mit-850-kalorien-am-tag-durchs-leben-a-c1073f8e-e993-4034-8a6d-052a96480133#ref=rss)
-### mutter
-
-* [https://www.spiegel.de/panorama/justiz/magdeburg-mutter-darf-die-leiche-ihres-getoeteten-kindes-erst-jetzt-sehen](https://www.spiegel.de/panorama/justiz/magdeburg-mutter-darf-die-leiche-ihres-getoeteten-kindes-erst-jetzt-sehen-a-63791f2e-fa3c-4514-8c82-8add2e159cf7#ref=rss)
-### norwegen
-
-* [https://www.spiegel.de/auto/norwegen-verbrenner-aus-ab-neujahr-elektroauto-vordenker-erklaert-wie-es-dazu-kam](https://www.spiegel.de/auto/norwegen-verbrenner-aus-ab-neujahr-elektroauto-vordenker-erklaert-wie-es-dazu-kam-a-9cc8ed88-5aa8-456b-a476-a5933a587efc#ref=rss)
-### neujahr
-
-* [https://www.spiegel.de/auto/norwegen-verbrenner-aus-ab-neujahr-elektroauto-vordenker-erklaert-wie-es-dazu-kam](https://www.spiegel.de/auto/norwegen-verbrenner-aus-ab-neujahr-elektroauto-vordenker-erklaert-wie-es-dazu-kam-a-9cc8ed88-5aa8-456b-a476-a5933a587efc#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-experte-ueber-energiestreit-mit-der-slowakei-ficos-drohungen-sind-lachhaft](https://www.spiegel.de/ausland/ukraine-experte-ueber-energiestreit-mit-der-slowakei-ficos-drohungen-sind-lachhaft-a-f2403a26-9940-4a89-913c-ba271321f30f#ref=rss)
-### schüssen
-
-* [https://www.spiegel.de/panorama/justiz/new-york-city-zehn-verletzte-bei-schuessen-vor-nachtklub-in-queens](https://www.spiegel.de/panorama/justiz/new-york-city-zehn-verletzte-bei-schuessen-vor-nachtklub-in-queens-a-dcab30fa-1e22-403a-91fe-a548139e7237#ref=rss)
-### aufräumen
-
-* [https://www.spiegel.de/partnerschaft/aufraeumen-ohne-beziehungskrise-diese-aufraeumexpertinnen-helfen-paaren-im-haushalt](https://www.spiegel.de/partnerschaft/aufraeumen-ohne-beziehungskrise-diese-aufraeumexpertinnen-helfen-paaren-im-haushalt-a-3055ec1d-c24d-4123-a1db-a9dc8a4f946f#ref=rss)
-### helfen
-
-* [https://www.spiegel.de/partnerschaft/aufraeumen-ohne-beziehungskrise-diese-aufraeumexpertinnen-helfen-paaren-im-haushalt](https://www.spiegel.de/partnerschaft/aufraeumen-ohne-beziehungskrise-diese-aufraeumexpertinnen-helfen-paaren-im-haushalt-a-3055ec1d-c24d-4123-a1db-a9dc8a4f946f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/industrie-in-der-krise-lars-klingbeil-fordert-absenkung-der-stromnetz-entgelte](https://www.spiegel.de/wirtschaft/industrie-in-der-krise-lars-klingbeil-fordert-absenkung-der-stromnetz-entgelte-a-069a4b95-337e-4b6d-a2fe-9bd824dc49d2#ref=rss)
-### slowakei
-
-* [https://www.spiegel.de/ausland/ukraine-experte-ueber-energiestreit-mit-der-slowakei-ficos-drohungen-sind-lachhaft](https://www.spiegel.de/ausland/ukraine-experte-ueber-energiestreit-mit-der-slowakei-ficos-drohungen-sind-lachhaft-a-f2403a26-9940-4a89-913c-ba271321f30f#ref=rss)
-### industrie
-
-* [https://www.spiegel.de/wirtschaft/industrie-in-der-krise-lars-klingbeil-fordert-absenkung-der-stromnetz-entgelte](https://www.spiegel.de/wirtschaft/industrie-in-der-krise-lars-klingbeil-fordert-absenkung-der-stromnetz-entgelte-a-069a4b95-337e-4b6d-a2fe-9bd824dc49d2#ref=rss)
-### lars
-
-* [https://www.spiegel.de/wirtschaft/industrie-in-der-krise-lars-klingbeil-fordert-absenkung-der-stromnetz-entgelte](https://www.spiegel.de/wirtschaft/industrie-in-der-krise-lars-klingbeil-fordert-absenkung-der-stromnetz-entgelte-a-069a4b95-337e-4b6d-a2fe-9bd824dc49d2#ref=rss)
-### klingbeil
-
-* [https://www.spiegel.de/wirtschaft/industrie-in-der-krise-lars-klingbeil-fordert-absenkung-der-stromnetz-entgelte](https://www.spiegel.de/wirtschaft/industrie-in-der-krise-lars-klingbeil-fordert-absenkung-der-stromnetz-entgelte-a-069a4b95-337e-4b6d-a2fe-9bd824dc49d2#ref=rss)
-### fordert
-
-* [https://www.spiegel.de/wirtschaft/industrie-in-der-krise-lars-klingbeil-fordert-absenkung-der-stromnetz-entgelte](https://www.spiegel.de/wirtschaft/industrie-in-der-krise-lars-klingbeil-fordert-absenkung-der-stromnetz-entgelte-a-069a4b95-337e-4b6d-a2fe-9bd824dc49d2#ref=rss)
-### gesteht
-
-* [https://www.spiegel.de/panorama/leute/diplo-gesteht-lsd-trip-in-liveshow-ralph-fiennes-gibt-sich-demure-waehrend-cnn-silvester-spezial](https://www.spiegel.de/panorama/leute/diplo-gesteht-lsd-trip-in-liveshow-ralph-fiennes-gibt-sich-demure-waehrend-cnn-silvester-spezial-a-f300035a-3094-483a-b50d-440c88a9f1eb#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### ostsee
-
-* [https://www.spiegel.de/wissenschaft/natur/schleswig-holstein-toter-kalmar-an-ostseestrand-entdeckt](https://www.spiegel.de/wissenschaft/natur/schleswig-holstein-toter-kalmar-an-ostseestrand-entdeckt-a-552dbbdb-1f53-4a7d-8a61-eedca82f50b7#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-ehrt-trump-kritikerin-liz-cheney-aber-begnadigt-er-sie-auch-vorsorglich](https://www.spiegel.de/ausland/joe-biden-ehrt-trump-kritikerin-liz-cheney-aber-begnadigt-er-sie-auch-vorsorglich-a-00307eb1-1d1a-4a49-b96a-0861c65c7a68#ref=rss)
 
