@@ -4,372 +4,360 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### menschen
+### zug
 
-* [https://www.spiegel.de/wirtschaft/arbeitslosenquote-ist-im-jahr-2024-auf-6-0-prozent-gestiegen](https://www.spiegel.de/wirtschaft/arbeitslosenquote-ist-im-jahr-2024-auf-6-0-prozent-gestiegen-a-ec806def-a04b-4bea-ac9b-9c614fbc01f2#ref=rss)
-* [https://www.spiegel.de/fitness/geschichte-des-fitness-sports-was-hat-napoleon-mit-mcfit-zu-tun](https://www.spiegel.de/fitness/geschichte-des-fitness-sports-was-hat-napoleon-mit-mcfit-zu-tun-a-8e67b011-62fa-42e0-a0de-0f067c8253fc#ref=rss)
-* [https://www.spiegel.de/kultur/wallace-gromit-mit-neuem-film-bei-netflix-die-feier-des-unperfekten](https://www.spiegel.de/kultur/wallace-gromit-mit-neuem-film-bei-netflix-die-feier-des-unperfekten-a-7db55beb-940d-4225-a4bc-41d22fd49f79#ref=rss)
-* [https://www.spiegel.de/panorama/leute/andrew-garfield-schaetzt-emotionale-offenheit-unter-maennern](https://www.spiegel.de/panorama/leute/andrew-garfield-schaetzt-emotionale-offenheit-unter-maennern-a-6678aa24-2b3b-499d-af5e-6274d31cd1f0#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-israel-greift-erneut-ziele-an-mindestens-68-tote](https://www.spiegel.de/ausland/gaza-israel-greift-erneut-ziele-an-mindestens-68-tote-a-1fdbebc3-b9eb-4d44-a135-b3166bda38ec#ref=rss)
-### union
+* [https://www.spiegel.de/ausland/oesterreich-regierungsbildung-gescheitert-kommt-jetzt-das-comeback-von-sebastian-kurz](https://www.spiegel.de/ausland/oesterreich-regierungsbildung-gescheitert-kommt-jetzt-das-comeback-von-sebastian-kurz-a-84478883-bfae-447b-9e05-b484745fda20#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-rekordverspaetungen-37-5-prozent-der-halte-unpuenktlich](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-rekordverspaetungen-37-5-prozent-der-halte-unpuenktlich-a-4f66f1ec-8a08-4c3b-965b-97ed908f3d91#ref=rss)
+* [https://www.spiegel.de/panorama/gingen-an-der-fils-in-baden-wuerttemberg-zug-ueberfaehrt-schneemann](https://www.spiegel.de/panorama/gingen-an-der-fils-in-baden-wuerttemberg-zug-ueberfaehrt-schneemann-a-c25a6bbf-b6b6-444c-b770-39b749b8f6be#ref=rss)
+### habeck
 
-* [https://www.spiegel.de/wirtschaft/olaf-scholz-und-markus-soeder-wollen-e-autos-foerdern](https://www.spiegel.de/wirtschaft/olaf-scholz-und-markus-soeder-wollen-e-autos-foerdern-a-f528c9d0-3463-404b-ac1e-c0b657774de5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-christian-lindner-draengt-union-zu-exklusivem-buendnis-mit-der-fdp](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-christian-lindner-draengt-union-zu-exklusivem-buendnis-mit-der-fdp-a-2a6d9aaf-848d-440d-9d93-1ed8e559d676#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-union-friedrich-merz-markus-soeder-gruene-stefan-gelbhaar-arbeitslosigkeit](https://www.spiegel.de/politik/deutschland/news-union-friedrich-merz-markus-soeder-gruene-stefan-gelbhaar-arbeitslosigkeit-a-e4ef64a8-ce2b-4fac-986e-b258e6753472#ref=rss)
-### welt
-
-* [https://www.spiegel.de/wirtschaft/elon-musk-und-mathias-doepfner-die-verbindung-hinter-dem-afd-beitrag-in-der-welt](https://www.spiegel.de/wirtschaft/elon-musk-und-mathias-doepfner-die-verbindung-hinter-dem-afd-beitrag-in-der-welt-a-87e73e0f-d8f8-48e6-aa0f-d3e4f0cbbabe#ref=rss)
-* [https://www.spiegel.de/reise/reisetipps-fuer-2025-wo-soll-ich-urlaub-machen](https://www.spiegel.de/reise/reisetipps-fuer-2025-wo-soll-ich-urlaub-machen-a-8f734427-bc0b-43ff-8d50-0226a96a4305#ref=rss)
-* [https://www.spiegel.de/wirtschaft/top-100-der-wertvollsten-boersenkonzerne-nur-drei-deutsche-dabei](https://www.spiegel.de/wirtschaft/top-100-der-wertvollsten-boersenkonzerne-nur-drei-deutsche-dabei-a-bffdfad9-7934-4a50-a65f-3e46520770e4#ref=rss)
-### stuttgart
-
-* [https://www.spiegel.de/sport/fussball/frans-kraetzig-das-bayern-talent-das-in-stuttgart-nicht-zum-zug-kam-und-jetzt-in-heidenheim-lernen-soll](https://www.spiegel.de/sport/fussball/frans-kraetzig-das-bayern-talent-das-in-stuttgart-nicht-zum-zug-kam-und-jetzt-in-heidenheim-lernen-soll-a-997c939c-6a99-4bfe-ae81-53bb073bef2b#ref=rss)
-* [https://www.spiegel.de/sport/missbrauchsvorwuerfe-im-turnen-trainer-in-stuttgart-vorlaeufig-freigestellt](https://www.spiegel.de/sport/missbrauchsvorwuerfe-im-turnen-trainer-in-stuttgart-vorlaeufig-freigestellt-a-b82d78bb-9e26-455c-a9e5-6e5264bd2901#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/energie-deutsche-uranimporte-aus-russland-steigen-um-fast-70-prozent](https://www.spiegel.de/wirtschaft/unternehmen/energie-deutsche-uranimporte-aus-russland-steigen-um-fast-70-prozent-a-78651543-7cb0-4767-8c43-adcf096f0bac#ref=rss)
-* [https://www.spiegel.de/wirtschaft/top-100-der-wertvollsten-boersenkonzerne-nur-drei-deutsche-dabei](https://www.spiegel.de/wirtschaft/top-100-der-wertvollsten-boersenkonzerne-nur-drei-deutsche-dabei-a-bffdfad9-7934-4a50-a65f-3e46520770e4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/olaf-scholz-und-markus-soeder-wollen-e-autos-foerdern](https://www.spiegel.de/wirtschaft/olaf-scholz-und-markus-soeder-wollen-e-autos-foerdern-a-f528c9d0-3463-404b-ac1e-c0b657774de5#ref=rss)
-### fast
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/energie-deutsche-uranimporte-aus-russland-steigen-um-fast-70-prozent](https://www.spiegel.de/wirtschaft/unternehmen/energie-deutsche-uranimporte-aus-russland-steigen-um-fast-70-prozent-a-78651543-7cb0-4767-8c43-adcf096f0bac#ref=rss)
-* [https://www.spiegel.de/kultur/wallace-gromit-mit-neuem-film-bei-netflix-die-feier-des-unperfekten](https://www.spiegel.de/kultur/wallace-gromit-mit-neuem-film-bei-netflix-die-feier-des-unperfekten-a-7db55beb-940d-4225-a4bc-41d22fd49f79#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/energie-deutsche-uranimporte-aus-russland-steigen-um-fast-70-prozent](https://www.spiegel.de/wirtschaft/unternehmen/energie-deutsche-uranimporte-aus-russland-steigen-um-fast-70-prozent-a-78651543-7cb0-4767-8c43-adcf096f0bac#ref=rss)
-* [https://www.spiegel.de/wirtschaft/arbeitslosenquote-ist-im-jahr-2024-auf-6-0-prozent-gestiegen](https://www.spiegel.de/wirtschaft/arbeitslosenquote-ist-im-jahr-2024-auf-6-0-prozent-gestiegen-a-ec806def-a04b-4bea-ac9b-9c614fbc01f2#ref=rss)
-* [https://www.spiegel.de/fitness/geschichte-des-fitness-sports-was-hat-napoleon-mit-mcfit-zu-tun](https://www.spiegel.de/fitness/geschichte-des-fitness-sports-was-hat-napoleon-mit-mcfit-zu-tun-a-8e67b011-62fa-42e0-a0de-0f067c8253fc#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/panorama/justiz/gruensfeld-baggerfahrer-randalierte-offenbar-wegen-geld](https://www.spiegel.de/panorama/justiz/gruensfeld-baggerfahrer-randalierte-offenbar-wegen-geld-a-aeaa8ef1-c28d-494d-bc55-a03d968f0255#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/google-wallet-mit-paypal-nutzer-berichten-von-problemen-beim-mobilen-bezahlen](https://www.spiegel.de/netzwelt/web/google-wallet-mit-paypal-nutzer-berichten-von-problemen-beim-mobilen-bezahlen-a-61e1a5d1-98c7-46e9-ac7b-655f8ffe4bfe#ref=rss)
-* [https://www.spiegel.de/kultur/kino/tom-holland-spider-man-star-zeigt-auch-im-echten-leben-superheldenqualitaeten](https://www.spiegel.de/kultur/kino/tom-holland-spider-man-star-zeigt-auch-im-echten-leben-superheldenqualitaeten-a-e35b61a7-38c0-46af-a828-59af52446f68#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/sport/fussball/frans-kraetzig-das-bayern-talent-das-in-stuttgart-nicht-zum-zug-kam-und-jetzt-in-heidenheim-lernen-soll](https://www.spiegel.de/sport/fussball/frans-kraetzig-das-bayern-talent-das-in-stuttgart-nicht-zum-zug-kam-und-jetzt-in-heidenheim-lernen-soll-a-997c939c-6a99-4bfe-ae81-53bb073bef2b#ref=rss)
-* [https://www.spiegel.de/panorama/bayern-schnee-und-glaette-unfall-mit-intercity-zug-in-stephanskirchen-bei-rosenheim](https://www.spiegel.de/panorama/bayern-schnee-und-glaette-unfall-mit-intercity-zug-in-stephanskirchen-bei-rosenheim-a-41e95703-445c-47a5-8e34-1fdd9ae73b50#ref=rss)
-### neos
-
-* [https://www.spiegel.de/ausland/oesterreich-koalitionsverhandlungen-zwischen-oevp-spoe-und-neos-gescheitert](https://www.spiegel.de/ausland/oesterreich-koalitionsverhandlungen-zwischen-oevp-spoe-und-neos-gescheitert-a-0759248b-5e1e-435e-a815-20f4c4de71f5#ref=rss)
-### macht
-
-* [https://www.spiegel.de/ausland/oesterreich-koalitionsverhandlungen-zwischen-oevp-spoe-und-neos-gescheitert](https://www.spiegel.de/ausland/oesterreich-koalitionsverhandlungen-zwischen-oevp-spoe-und-neos-gescheitert-a-0759248b-5e1e-435e-a815-20f4c4de71f5#ref=rss)
-* [https://www.spiegel.de/panorama/leute/jennifer-lopez-was-frauen-stark-macht-die-schauspielerin-ueber-weibliche-superkraefte](https://www.spiegel.de/panorama/leute/jennifer-lopez-was-frauen-stark-macht-die-schauspielerin-ueber-weibliche-superkraefte-a-0267e536-38ea-4ef0-95c4-59cb76414a67#ref=rss)
-* [https://www.spiegel.de/ausland/joe-biden-ehrt-trump-kritikerin-liz-cheney-aber-begnadigt-er-sie-auch-vorsorglich](https://www.spiegel.de/ausland/joe-biden-ehrt-trump-kritikerin-liz-cheney-aber-begnadigt-er-sie-auch-vorsorglich-a-00307eb1-1d1a-4a49-b96a-0861c65c7a68#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/wirtschaft/arbeitslosenquote-ist-im-jahr-2024-auf-6-0-prozent-gestiegen](https://www.spiegel.de/wirtschaft/arbeitslosenquote-ist-im-jahr-2024-auf-6-0-prozent-gestiegen-a-ec806def-a04b-4bea-ac9b-9c614fbc01f2#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-was-bringt-ein-monat-ohne-alkohol](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-was-bringt-ein-monat-ohne-alkohol-und-wie-haelt-man-durch-a-1300451.html#ref=rss)
-### donald
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-das-unwuerdige-verhalten-der-bosse-wie-mark-zuckerberg-und-jeff-bezos](https://www.spiegel.de/wirtschaft/donald-trump-das-unwuerdige-verhalten-der-bosse-wie-mark-zuckerberg-und-jeff-bezos-a-efe3dd60-2155-4e2a-b81b-f203366d96a0#ref=rss)
-* [https://www.spiegel.de/ausland/joe-biden-ehrt-trump-kritikerin-liz-cheney-aber-begnadigt-er-sie-auch-vorsorglich](https://www.spiegel.de/ausland/joe-biden-ehrt-trump-kritikerin-liz-cheney-aber-begnadigt-er-sie-auch-vorsorglich-a-00307eb1-1d1a-4a49-b96a-0861c65c7a68#ref=rss)
-### trump
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-das-unwuerdige-verhalten-der-bosse-wie-mark-zuckerberg-und-jeff-bezos](https://www.spiegel.de/wirtschaft/donald-trump-das-unwuerdige-verhalten-der-bosse-wie-mark-zuckerberg-und-jeff-bezos-a-efe3dd60-2155-4e2a-b81b-f203366d96a0#ref=rss)
-* [https://www.spiegel.de/ausland/joe-biden-ehrt-trump-kritikerin-liz-cheney-aber-begnadigt-er-sie-auch-vorsorglich](https://www.spiegel.de/ausland/joe-biden-ehrt-trump-kritikerin-liz-cheney-aber-begnadigt-er-sie-auch-vorsorglich-a-00307eb1-1d1a-4a49-b96a-0861c65c7a68#ref=rss)
-### viele
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-das-unwuerdige-verhalten-der-bosse-wie-mark-zuckerberg-und-jeff-bezos](https://www.spiegel.de/wirtschaft/donald-trump-das-unwuerdige-verhalten-der-bosse-wie-mark-zuckerberg-und-jeff-bezos-a-efe3dd60-2155-4e2a-b81b-f203366d96a0#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-was-bringt-ein-monat-ohne-alkohol](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-was-bringt-ein-monat-ohne-alkohol-und-wie-haelt-man-durch-a-1300451.html#ref=rss)
-* [https://www.spiegel.de/sport/fussball/hallenfussball-ein-plaedoyer-spiegel-extra-von-11freunde](https://www.spiegel.de/sport/fussball/hallenfussball-ein-plaedoyer-spiegel-extra-von-11freunde-a-57bfdc80-effe-4dd8-ab1e-14c010de405f#ref=rss)
-### wo
-
-* [https://www.spiegel.de/reise/reisetipps-fuer-2025-wo-soll-ich-urlaub-machen](https://www.spiegel.de/reise/reisetipps-fuer-2025-wo-soll-ich-urlaub-machen-a-8f734427-bc0b-43ff-8d50-0226a96a4305#ref=rss)
-* [https://www.spiegel.de/kultur/wallace-gromit-mit-neuem-film-bei-netflix-die-feier-des-unperfekten](https://www.spiegel.de/kultur/wallace-gromit-mit-neuem-film-bei-netflix-die-feier-des-unperfekten-a-7db55beb-940d-4225-a4bc-41d22fd49f79#ref=rss)
-### unter
-
-* [https://www.spiegel.de/wirtschaft/top-100-der-wertvollsten-boersenkonzerne-nur-drei-deutsche-dabei](https://www.spiegel.de/wirtschaft/top-100-der-wertvollsten-boersenkonzerne-nur-drei-deutsche-dabei-a-bffdfad9-7934-4a50-a65f-3e46520770e4#ref=rss)
-* [https://www.spiegel.de/panorama/leute/andrew-garfield-schaetzt-emotionale-offenheit-unter-maennern](https://www.spiegel.de/panorama/leute/andrew-garfield-schaetzt-emotionale-offenheit-unter-maennern-a-6678aa24-2b3b-499d-af5e-6274d31cd1f0#ref=rss)
-### polizisten
-
-* [https://www.spiegel.de/panorama/justiz/gruensfeld-baggerfahrer-randalierte-offenbar-wegen-geld](https://www.spiegel.de/panorama/justiz/gruensfeld-baggerfahrer-randalierte-offenbar-wegen-geld-a-aeaa8ef1-c28d-494d-bc55-a03d968f0255#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nancy-faeser-und-volker-wissing-fordern-nach-silvester-gewalt-harte-strafen](https://www.spiegel.de/politik/deutschland/nancy-faeser-und-volker-wissing-fordern-nach-silvester-gewalt-harte-strafen-a-4ecc37f4-db78-41f1-8455-7dd526b6086e#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/justiz/gruensfeld-baggerfahrer-randalierte-offenbar-wegen-geld](https://www.spiegel.de/panorama/justiz/gruensfeld-baggerfahrer-randalierte-offenbar-wegen-geld-a-aeaa8ef1-c28d-494d-bc55-a03d968f0255#ref=rss)
-* [https://www.spiegel.de/panorama/australien-surfer-vermisst-polizei-vermutet-toedliche-hai-attacke](https://www.spiegel.de/panorama/australien-surfer-vermisst-polizei-vermutet-toedliche-hai-attacke-a-0f710b0f-fbeb-4889-a32c-65a0976b9251#ref=rss)
-### nordrheinwestfalen
-
-* [https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-polizeigesetz-laut-bundesverfassungsgericht-teilweise-nicht-mit-dem-grundgesetz-vereinbar](https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-polizeigesetz-laut-bundesverfassungsgericht-teilweise-nicht-mit-dem-grundgesetz-vereinbar-a-32e73db2-069f-4e46-af12-b3447ecb6b0a#ref=rss)
-### polizeigesetz
-
-* [https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-polizeigesetz-laut-bundesverfassungsgericht-teilweise-nicht-mit-dem-grundgesetz-vereinbar](https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-polizeigesetz-laut-bundesverfassungsgericht-teilweise-nicht-mit-dem-grundgesetz-vereinbar-a-32e73db2-069f-4e46-af12-b3447ecb6b0a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-robert-habeck-mathias-doepfner-und-elon-musk-oesterreichs-koalitionsverhandlungen](https://www.spiegel.de/politik/deutschland/news-des-tages-robert-habeck-mathias-doepfner-und-elon-musk-oesterreichs-koalitionsverhandlungen-a-533e6a32-c4ea-4909-87e6-9411f0816597#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/rolf-muetzenich-wirft-robert-habeck-holzschnittartigen-ueberbietungswettbewerb-vor](https://www.spiegel.de/politik/deutschland/rolf-muetzenich-wirft-robert-habeck-holzschnittartigen-ueberbietungswettbewerb-vor-a-518b158f-2178-4e05-aa89-af4b76bb7419#ref=rss)
 ### elon
 
-* [https://www.spiegel.de/wirtschaft/elon-musk-und-mathias-doepfner-die-verbindung-hinter-dem-afd-beitrag-in-der-welt](https://www.spiegel.de/wirtschaft/elon-musk-und-mathias-doepfner-die-verbindung-hinter-dem-afd-beitrag-in-der-welt-a-87e73e0f-d8f8-48e6-aa0f-d3e4f0cbbabe#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-robert-habeck-mathias-doepfner-und-elon-musk-oesterreichs-koalitionsverhandlungen](https://www.spiegel.de/politik/deutschland/news-des-tages-robert-habeck-mathias-doepfner-und-elon-musk-oesterreichs-koalitionsverhandlungen-a-533e6a32-c4ea-4909-87e6-9411f0816597#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/alice-weidel-und-elon-musk-afd-chefin-will-mit-tech-milliardaer-auf-x-sprechen](https://www.spiegel.de/politik/deutschland/alice-weidel-und-elon-musk-afd-chefin-will-mit-tech-milliardaer-auf-x-sprechen-a-6cd893b7-3ecc-4ba7-a217-c5f099d317cf#ref=rss)
 ### musk
 
-* [https://www.spiegel.de/wirtschaft/elon-musk-und-mathias-doepfner-die-verbindung-hinter-dem-afd-beitrag-in-der-welt](https://www.spiegel.de/wirtschaft/elon-musk-und-mathias-doepfner-die-verbindung-hinter-dem-afd-beitrag-in-der-welt-a-87e73e0f-d8f8-48e6-aa0f-d3e4f0cbbabe#ref=rss)
-### mathias
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-robert-habeck-mathias-doepfner-und-elon-musk-oesterreichs-koalitionsverhandlungen](https://www.spiegel.de/politik/deutschland/news-des-tages-robert-habeck-mathias-doepfner-und-elon-musk-oesterreichs-koalitionsverhandlungen-a-533e6a32-c4ea-4909-87e6-9411f0816597#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/alice-weidel-und-elon-musk-afd-chefin-will-mit-tech-milliardaer-auf-x-sprechen](https://www.spiegel.de/politik/deutschland/alice-weidel-und-elon-musk-afd-chefin-will-mit-tech-milliardaer-auf-x-sprechen-a-6cd893b7-3ecc-4ba7-a217-c5f099d317cf#ref=rss)
+### stefan
 
-* [https://www.spiegel.de/wirtschaft/elon-musk-und-mathias-doepfner-die-verbindung-hinter-dem-afd-beitrag-in-der-welt](https://www.spiegel.de/wirtschaft/elon-musk-und-mathias-doepfner-die-verbindung-hinter-dem-afd-beitrag-in-der-welt-a-87e73e0f-d8f8-48e6-aa0f-d3e4f0cbbabe#ref=rss)
-### döpfner
+* [https://www.spiegel.de/politik/deutschland/gruene-und-bundestagswahl-stefan-gelbhaar-will-kandidieren](https://www.spiegel.de/politik/deutschland/gruene-und-bundestagswahl-stefan-gelbhaar-will-kandidieren-a-6dfc6abf-742c-47f0-8afd-a7d75ce4df40#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-kreisverband-berlin-pankow-verlangt-verzicht-auf-kandidatur-fuer-bundestagswahl](https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-kreisverband-berlin-pankow-verlangt-verzicht-auf-kandidatur-fuer-bundestagswahl-a-4b60be62-926e-4a73-ad03-440509a7ce87#ref=rss)
+### gelbhaar
 
-* [https://www.spiegel.de/wirtschaft/elon-musk-und-mathias-doepfner-die-verbindung-hinter-dem-afd-beitrag-in-der-welt](https://www.spiegel.de/wirtschaft/elon-musk-und-mathias-doepfner-die-verbindung-hinter-dem-afd-beitrag-in-der-welt-a-87e73e0f-d8f8-48e6-aa0f-d3e4f0cbbabe#ref=rss)
-### verbindung
+* [https://www.spiegel.de/politik/deutschland/gruene-und-bundestagswahl-stefan-gelbhaar-will-kandidieren](https://www.spiegel.de/politik/deutschland/gruene-und-bundestagswahl-stefan-gelbhaar-will-kandidieren-a-6dfc6abf-742c-47f0-8afd-a7d75ce4df40#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-kreisverband-berlin-pankow-verlangt-verzicht-auf-kandidatur-fuer-bundestagswahl](https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-kreisverband-berlin-pankow-verlangt-verzicht-auf-kandidatur-fuer-bundestagswahl-a-4b60be62-926e-4a73-ad03-440509a7ce87#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/wirtschaft/elon-musk-und-mathias-doepfner-die-verbindung-hinter-dem-afd-beitrag-in-der-welt](https://www.spiegel.de/wirtschaft/elon-musk-und-mathias-doepfner-die-verbindung-hinter-dem-afd-beitrag-in-der-welt-a-87e73e0f-d8f8-48e6-aa0f-d3e4f0cbbabe#ref=rss)
-### frans
+* [https://www.spiegel.de/politik/deutschland/syrien-annalena-baerbock-trifft-ahmed-al-sharaa-k-ein-handschlag](https://www.spiegel.de/politik/deutschland/syrien-annalena-baerbock-trifft-ahmed-al-sharaa-k-ein-handschlag-a-9835d45a-e171-46d0-b819-af3a8145be27#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/flughafen-frankfurt-duesseldorf-hamburg-technikprobleme-an-mehreren-airports](https://www.spiegel.de/netzwelt/web/flughafen-frankfurt-duesseldorf-hamburg-technikprobleme-an-mehreren-airports-a-a5f35ba5-9865-4287-a602-255df65130a2#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-oesterreicher-dominieren-qualifikation-in-innsbruck-sieben-skispringer-in-den-top-15](https://www.spiegel.de/sport/wintersport/vierschanzentournee-oesterreicher-dominieren-qualifikation-in-innsbruck-sieben-skispringer-in-den-top-15-a-49a6dbfe-54ba-4ac0-b349-b6999144431d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/rolf-muetzenich-wirft-robert-habeck-holzschnittartigen-ueberbietungswettbewerb-vor](https://www.spiegel.de/politik/deutschland/rolf-muetzenich-wirft-robert-habeck-holzschnittartigen-ueberbietungswettbewerb-vor-a-518b158f-2178-4e05-aa89-af4b76bb7419#ref=rss)
+### vierschanzentournee
 
-* [https://www.spiegel.de/sport/fussball/frans-kraetzig-das-bayern-talent-das-in-stuttgart-nicht-zum-zug-kam-und-jetzt-in-heidenheim-lernen-soll](https://www.spiegel.de/sport/fussball/frans-kraetzig-das-bayern-talent-das-in-stuttgart-nicht-zum-zug-kam-und-jetzt-in-heidenheim-lernen-soll-a-997c939c-6a99-4bfe-ae81-53bb073bef2b#ref=rss)
-### krätzig
+* [https://www.spiegel.de/sport/wintersport/skispringen-wie-der-19-jaehrige-tate-frantz-bei-der-vierschanzentournee-beeindruckt](https://www.spiegel.de/sport/wintersport/skispringen-wie-der-19-jaehrige-tate-frantz-bei-der-vierschanzentournee-beeindruckt-a-73b370cd-2f16-4ab0-8773-bab935e4ebc5#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-oesterreicher-dominieren-qualifikation-in-innsbruck-sieben-skispringer-in-den-top-15](https://www.spiegel.de/sport/wintersport/vierschanzentournee-oesterreicher-dominieren-qualifikation-in-innsbruck-sieben-skispringer-in-den-top-15-a-49a6dbfe-54ba-4ac0-b349-b6999144431d#ref=rss)
+### koalitionsverhandlungen
 
-* [https://www.spiegel.de/sport/fussball/frans-kraetzig-das-bayern-talent-das-in-stuttgart-nicht-zum-zug-kam-und-jetzt-in-heidenheim-lernen-soll](https://www.spiegel.de/sport/fussball/frans-kraetzig-das-bayern-talent-das-in-stuttgart-nicht-zum-zug-kam-und-jetzt-in-heidenheim-lernen-soll-a-997c939c-6a99-4bfe-ae81-53bb073bef2b#ref=rss)
-### heidenheim
+* [https://www.spiegel.de/ausland/oesterreich-regierungsbildung-gescheitert-kommt-jetzt-das-comeback-von-sebastian-kurz](https://www.spiegel.de/ausland/oesterreich-regierungsbildung-gescheitert-kommt-jetzt-das-comeback-von-sebastian-kurz-a-84478883-bfae-447b-9e05-b484745fda20#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-robert-habeck-mathias-doepfner-und-elon-musk-oesterreichs-koalitionsverhandlungen](https://www.spiegel.de/politik/deutschland/news-des-tages-robert-habeck-mathias-doepfner-und-elon-musk-oesterreichs-koalitionsverhandlungen-a-533e6a32-c4ea-4909-87e6-9411f0816597#ref=rss)
+### robert
 
-* [https://www.spiegel.de/sport/fussball/frans-kraetzig-das-bayern-talent-das-in-stuttgart-nicht-zum-zug-kam-und-jetzt-in-heidenheim-lernen-soll](https://www.spiegel.de/sport/fussball/frans-kraetzig-das-bayern-talent-das-in-stuttgart-nicht-zum-zug-kam-und-jetzt-in-heidenheim-lernen-soll-a-997c939c-6a99-4bfe-ae81-53bb073bef2b#ref=rss)
-### beweisen
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-robert-habeck-mathias-doepfner-und-elon-musk-oesterreichs-koalitionsverhandlungen](https://www.spiegel.de/politik/deutschland/news-des-tages-robert-habeck-mathias-doepfner-und-elon-musk-oesterreichs-koalitionsverhandlungen-a-533e6a32-c4ea-4909-87e6-9411f0816597#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/rolf-muetzenich-wirft-robert-habeck-holzschnittartigen-ueberbietungswettbewerb-vor](https://www.spiegel.de/politik/deutschland/rolf-muetzenich-wirft-robert-habeck-holzschnittartigen-ueberbietungswettbewerb-vor-a-518b158f-2178-4e05-aa89-af4b76bb7419#ref=rss)
+### kreisverband
 
-* [https://www.spiegel.de/sport/fussball/frans-kraetzig-das-bayern-talent-das-in-stuttgart-nicht-zum-zug-kam-und-jetzt-in-heidenheim-lernen-soll](https://www.spiegel.de/sport/fussball/frans-kraetzig-das-bayern-talent-das-in-stuttgart-nicht-zum-zug-kam-und-jetzt-in-heidenheim-lernen-soll-a-997c939c-6a99-4bfe-ae81-53bb073bef2b#ref=rss)
-* [https://www.spiegel.de/panorama/leute/jennifer-lopez-was-frauen-stark-macht-die-schauspielerin-ueber-weibliche-superkraefte](https://www.spiegel.de/panorama/leute/jennifer-lopez-was-frauen-stark-macht-die-schauspielerin-ueber-weibliche-superkraefte-a-0267e536-38ea-4ef0-95c4-59cb76414a67#ref=rss)
-### bezahlen
+* [https://www.spiegel.de/politik/deutschland/gruene-und-bundestagswahl-stefan-gelbhaar-will-kandidieren](https://www.spiegel.de/politik/deutschland/gruene-und-bundestagswahl-stefan-gelbhaar-will-kandidieren-a-6dfc6abf-742c-47f0-8afd-a7d75ce4df40#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-kreisverband-berlin-pankow-verlangt-verzicht-auf-kandidatur-fuer-bundestagswahl](https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-kreisverband-berlin-pankow-verlangt-verzicht-auf-kandidatur-fuer-bundestagswahl-a-4b60be62-926e-4a73-ad03-440509a7ce87#ref=rss)
+### ich
 
-* [https://www.spiegel.de/netzwelt/web/google-wallet-mit-paypal-nutzer-berichten-von-problemen-beim-mobilen-bezahlen](https://www.spiegel.de/netzwelt/web/google-wallet-mit-paypal-nutzer-berichten-von-problemen-beim-mobilen-bezahlen-a-61e1a5d1-98c7-46e9-ac7b-655f8ffe4bfe#ref=rss)
-### russland
+* [https://www.spiegel.de/kultur/max-strohe-sternekoch-ueber-knoedel-und-kloesse-lob-der-klossmopoliten](https://www.spiegel.de/kultur/max-strohe-sternekoch-ueber-knoedel-und-kloesse-lob-der-klossmopoliten-a-a09de4cc-63d4-48c4-a405-d6ba60975f17#ref=rss)
+* [https://www.spiegel.de/kultur/tv/dschungelcamp-2025-lilly-becker-nina-bott-yeliz-koc-das-sind-die-kandidaten-der-18-staffel-von-ich-bin-ein-star-holt-mich-hier-raus](https://www.spiegel.de/kultur/tv/dschungelcamp-2025-lilly-becker-nina-bott-yeliz-koc-das-sind-die-kandidaten-der-18-staffel-von-ich-bin-ein-star-holt-mich-hier-raus-a-22435213-2b70-4919-8df6-cdd746874511#ref=rss)
+### spiegel
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/energie-deutsche-uranimporte-aus-russland-steigen-um-fast-70-prozent](https://www.spiegel.de/wirtschaft/unternehmen/energie-deutsche-uranimporte-aus-russland-steigen-um-fast-70-prozent-a-78651543-7cb0-4767-8c43-adcf096f0bac#ref=rss)
-### 70
+* [https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-will-bei-aufnahmepraxis-von-mitgliedern-nachschaerfen](https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-will-bei-aufnahmepraxis-von-mitgliedern-nachschaerfen-a-f9df2fc3-b312-44f9-a2b7-890c52e3691d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/rolf-muetzenich-wirft-robert-habeck-holzschnittartigen-ueberbietungswettbewerb-vor](https://www.spiegel.de/politik/deutschland/rolf-muetzenich-wirft-robert-habeck-holzschnittartigen-ueberbietungswettbewerb-vor-a-518b158f-2178-4e05-aa89-af4b76bb7419#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/energie-deutsche-uranimporte-aus-russland-steigen-um-fast-70-prozent](https://www.spiegel.de/wirtschaft/unternehmen/energie-deutsche-uranimporte-aus-russland-steigen-um-fast-70-prozent-a-78651543-7cb0-4767-8c43-adcf096f0bac#ref=rss)
-### prozent
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-rekordverspaetungen-37-5-prozent-der-halte-unpuenktlich](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-rekordverspaetungen-37-5-prozent-der-halte-unpuenktlich-a-4f66f1ec-8a08-4c3b-965b-97ed908f3d91#ref=rss)
+* [https://www.spiegel.de/panorama/wintereinbruch-in-deutschland-der-schnee-kommt-zumindest-am-wochenende](https://www.spiegel.de/panorama/wintereinbruch-in-deutschland-der-schnee-kommt-zumindest-am-wochenende-a-6c7951c9-0822-4877-98dd-d4c59df15bb7#ref=rss)
+### tate
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/energie-deutsche-uranimporte-aus-russland-steigen-um-fast-70-prozent](https://www.spiegel.de/wirtschaft/unternehmen/energie-deutsche-uranimporte-aus-russland-steigen-um-fast-70-prozent-a-78651543-7cb0-4767-8c43-adcf096f0bac#ref=rss)
-### drei
+* [https://www.spiegel.de/sport/wintersport/skispringen-wie-der-19-jaehrige-tate-frantz-bei-der-vierschanzentournee-beeindruckt](https://www.spiegel.de/sport/wintersport/skispringen-wie-der-19-jaehrige-tate-frantz-bei-der-vierschanzentournee-beeindruckt-a-73b370cd-2f16-4ab0-8773-bab935e4ebc5#ref=rss)
+### frantz
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/energie-deutsche-uranimporte-aus-russland-steigen-um-fast-70-prozent](https://www.spiegel.de/wirtschaft/unternehmen/energie-deutsche-uranimporte-aus-russland-steigen-um-fast-70-prozent-a-78651543-7cb0-4767-8c43-adcf096f0bac#ref=rss)
-* [https://www.spiegel.de/wirtschaft/top-100-der-wertvollsten-boersenkonzerne-nur-drei-deutsche-dabei](https://www.spiegel.de/wirtschaft/top-100-der-wertvollsten-boersenkonzerne-nur-drei-deutsche-dabei-a-bffdfad9-7934-4a50-a65f-3e46520770e4#ref=rss)
-### jahren
+* [https://www.spiegel.de/sport/wintersport/skispringen-wie-der-19-jaehrige-tate-frantz-bei-der-vierschanzentournee-beeindruckt](https://www.spiegel.de/sport/wintersport/skispringen-wie-der-19-jaehrige-tate-frantz-bei-der-vierschanzentournee-beeindruckt-a-73b370cd-2f16-4ab0-8773-bab935e4ebc5#ref=rss)
+### paschke
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/energie-deutsche-uranimporte-aus-russland-steigen-um-fast-70-prozent](https://www.spiegel.de/wirtschaft/unternehmen/energie-deutsche-uranimporte-aus-russland-steigen-um-fast-70-prozent-a-78651543-7cb0-4767-8c43-adcf096f0bac#ref=rss)
-* [https://www.spiegel.de/kultur/wallace-gromit-mit-neuem-film-bei-netflix-die-feier-des-unperfekten](https://www.spiegel.de/kultur/wallace-gromit-mit-neuem-film-bei-netflix-die-feier-des-unperfekten-a-7db55beb-940d-4225-a4bc-41d22fd49f79#ref=rss)
-### führt
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/energie-deutsche-uranimporte-aus-russland-steigen-um-fast-70-prozent](https://www.spiegel.de/wirtschaft/unternehmen/energie-deutsche-uranimporte-aus-russland-steigen-um-fast-70-prozent-a-78651543-7cb0-4767-8c43-adcf096f0bac#ref=rss)
-* [https://www.spiegel.de/wirtschaft/arbeitslosenquote-ist-im-jahr-2024-auf-6-0-prozent-gestiegen](https://www.spiegel.de/wirtschaft/arbeitslosenquote-ist-im-jahr-2024-auf-6-0-prozent-gestiegen-a-ec806def-a04b-4bea-ac9b-9c614fbc01f2#ref=rss)
-### vergangenen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/energie-deutsche-uranimporte-aus-russland-steigen-um-fast-70-prozent](https://www.spiegel.de/wirtschaft/unternehmen/energie-deutsche-uranimporte-aus-russland-steigen-um-fast-70-prozent-a-78651543-7cb0-4767-8c43-adcf096f0bac#ref=rss)
-* [https://www.spiegel.de/wirtschaft/arbeitslosenquote-ist-im-jahr-2024-auf-6-0-prozent-gestiegen](https://www.spiegel.de/wirtschaft/arbeitslosenquote-ist-im-jahr-2024-auf-6-0-prozent-gestiegen-a-ec806def-a04b-4bea-ac9b-9c614fbc01f2#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/energie-deutsche-uranimporte-aus-russland-steigen-um-fast-70-prozent](https://www.spiegel.de/wirtschaft/unternehmen/energie-deutsche-uranimporte-aus-russland-steigen-um-fast-70-prozent-a-78651543-7cb0-4767-8c43-adcf096f0bac#ref=rss)
-* [https://www.spiegel.de/wirtschaft/arbeitslosenquote-ist-im-jahr-2024-auf-6-0-prozent-gestiegen](https://www.spiegel.de/wirtschaft/arbeitslosenquote-ist-im-jahr-2024-auf-6-0-prozent-gestiegen-a-ec806def-a04b-4bea-ac9b-9c614fbc01f2#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/energie-deutsche-uranimporte-aus-russland-steigen-um-fast-70-prozent](https://www.spiegel.de/wirtschaft/unternehmen/energie-deutsche-uranimporte-aus-russland-steigen-um-fast-70-prozent-a-78651543-7cb0-4767-8c43-adcf096f0bac#ref=rss)
-* [https://www.spiegel.de/wirtschaft/arbeitslosenquote-ist-im-jahr-2024-auf-6-0-prozent-gestiegen](https://www.spiegel.de/wirtschaft/arbeitslosenquote-ist-im-jahr-2024-auf-6-0-prozent-gestiegen-a-ec806def-a04b-4bea-ac9b-9c614fbc01f2#ref=rss)
-### tom
-
-* [https://www.spiegel.de/kultur/kino/tom-holland-spider-man-star-zeigt-auch-im-echten-leben-superheldenqualitaeten](https://www.spiegel.de/kultur/kino/tom-holland-spider-man-star-zeigt-auch-im-echten-leben-superheldenqualitaeten-a-e35b61a7-38c0-46af-a828-59af52446f68#ref=rss)
-### holland
-
-* [https://www.spiegel.de/kultur/kino/tom-holland-spider-man-star-zeigt-auch-im-echten-leben-superheldenqualitaeten](https://www.spiegel.de/kultur/kino/tom-holland-spider-man-star-zeigt-auch-im-echten-leben-superheldenqualitaeten-a-e35b61a7-38c0-46af-a828-59af52446f68#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/skispringen-wie-der-19-jaehrige-tate-frantz-bei-der-vierschanzentournee-beeindruckt](https://www.spiegel.de/sport/wintersport/skispringen-wie-der-19-jaehrige-tate-frantz-bei-der-vierschanzentournee-beeindruckt-a-73b370cd-2f16-4ab0-8773-bab935e4ebc5#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-oesterreicher-dominieren-qualifikation-in-innsbruck-sieben-skispringer-in-den-top-15](https://www.spiegel.de/sport/wintersport/vierschanzentournee-oesterreicher-dominieren-qualifikation-in-innsbruck-sieben-skispringer-in-den-top-15-a-49a6dbfe-54ba-4ac0-b349-b6999144431d#ref=rss)
 ### österreich
 
-* [https://www.spiegel.de/ausland/oesterreich-koalitionsverhandlungen-zwischen-oevp-spoe-und-neos-gescheitert](https://www.spiegel.de/ausland/oesterreich-koalitionsverhandlungen-zwischen-oevp-spoe-und-neos-gescheitert-a-0759248b-5e1e-435e-a815-20f4c4de71f5#ref=rss)
-### övp
+* [https://www.spiegel.de/ausland/oesterreich-regierungsbildung-gescheitert-kommt-jetzt-das-comeback-von-sebastian-kurz](https://www.spiegel.de/ausland/oesterreich-regierungsbildung-gescheitert-kommt-jetzt-das-comeback-von-sebastian-kurz-a-84478883-bfae-447b-9e05-b484745fda20#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-robert-habeck-mathias-doepfner-und-elon-musk-oesterreichs-koalitionsverhandlungen](https://www.spiegel.de/politik/deutschland/news-des-tages-robert-habeck-mathias-doepfner-und-elon-musk-oesterreichs-koalitionsverhandlungen-a-533e6a32-c4ea-4909-87e6-9411f0816597#ref=rss)
+### gescheitert
 
-* [https://www.spiegel.de/ausland/oesterreich-koalitionsverhandlungen-zwischen-oevp-spoe-und-neos-gescheitert](https://www.spiegel.de/ausland/oesterreich-koalitionsverhandlungen-zwischen-oevp-spoe-und-neos-gescheitert-a-0759248b-5e1e-435e-a815-20f4c4de71f5#ref=rss)
-### spö
+* [https://www.spiegel.de/ausland/oesterreich-regierungsbildung-gescheitert-kommt-jetzt-das-comeback-von-sebastian-kurz](https://www.spiegel.de/ausland/oesterreich-regierungsbildung-gescheitert-kommt-jetzt-das-comeback-von-sebastian-kurz-a-84478883-bfae-447b-9e05-b484745fda20#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-robert-habeck-mathias-doepfner-und-elon-musk-oesterreichs-koalitionsverhandlungen](https://www.spiegel.de/politik/deutschland/news-des-tages-robert-habeck-mathias-doepfner-und-elon-musk-oesterreichs-koalitionsverhandlungen-a-533e6a32-c4ea-4909-87e6-9411f0816597#ref=rss)
+### comeback
 
-* [https://www.spiegel.de/ausland/oesterreich-koalitionsverhandlungen-zwischen-oevp-spoe-und-neos-gescheitert](https://www.spiegel.de/ausland/oesterreich-koalitionsverhandlungen-zwischen-oevp-spoe-und-neos-gescheitert-a-0759248b-5e1e-435e-a815-20f4c4de71f5#ref=rss)
-### kraft
+* [https://www.spiegel.de/ausland/oesterreich-regierungsbildung-gescheitert-kommt-jetzt-das-comeback-von-sebastian-kurz](https://www.spiegel.de/ausland/oesterreich-regierungsbildung-gescheitert-kommt-jetzt-das-comeback-von-sebastian-kurz-a-84478883-bfae-447b-9e05-b484745fda20#ref=rss)
+### sebastian
 
-* [https://www.spiegel.de/ausland/oesterreich-koalitionsverhandlungen-zwischen-oevp-spoe-und-neos-gescheitert](https://www.spiegel.de/ausland/oesterreich-koalitionsverhandlungen-zwischen-oevp-spoe-und-neos-gescheitert-a-0759248b-5e1e-435e-a815-20f4c4de71f5#ref=rss)
-* [https://www.spiegel.de/panorama/leute/jennifer-lopez-was-frauen-stark-macht-die-schauspielerin-ueber-weibliche-superkraefte](https://www.spiegel.de/panorama/leute/jennifer-lopez-was-frauen-stark-macht-die-schauspielerin-ueber-weibliche-superkraefte-a-0267e536-38ea-4ef0-95c4-59cb76414a67#ref=rss)
-### faeser
+* [https://www.spiegel.de/ausland/oesterreich-regierungsbildung-gescheitert-kommt-jetzt-das-comeback-von-sebastian-kurz](https://www.spiegel.de/ausland/oesterreich-regierungsbildung-gescheitert-kommt-jetzt-das-comeback-von-sebastian-kurz-a-84478883-bfae-447b-9e05-b484745fda20#ref=rss)
+### kurz
 
-* [https://www.spiegel.de/politik/deutschland/nancy-faeser-und-volker-wissing-fordern-nach-silvester-gewalt-harte-strafen](https://www.spiegel.de/politik/deutschland/nancy-faeser-und-volker-wissing-fordern-nach-silvester-gewalt-harte-strafen-a-4ecc37f4-db78-41f1-8455-7dd526b6086e#ref=rss)
-### wissing
+* [https://www.spiegel.de/ausland/oesterreich-regierungsbildung-gescheitert-kommt-jetzt-das-comeback-von-sebastian-kurz](https://www.spiegel.de/ausland/oesterreich-regierungsbildung-gescheitert-kommt-jetzt-das-comeback-von-sebastian-kurz-a-84478883-bfae-447b-9e05-b484745fda20#ref=rss)
+### flughafen
 
-* [https://www.spiegel.de/politik/deutschland/nancy-faeser-und-volker-wissing-fordern-nach-silvester-gewalt-harte-strafen](https://www.spiegel.de/politik/deutschland/nancy-faeser-und-volker-wissing-fordern-nach-silvester-gewalt-harte-strafen-a-4ecc37f4-db78-41f1-8455-7dd526b6086e#ref=rss)
-### fordern
+* [https://www.spiegel.de/panorama/justiz/leipzig-tiramisu-diebin-am-flughafen-gefasst-zweimal-in-restaurant-eingebrochen](https://www.spiegel.de/panorama/justiz/leipzig-tiramisu-diebin-am-flughafen-gefasst-zweimal-in-restaurant-eingebrochen-a-a520b726-be2b-4186-ac89-22aa1692c049#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/flughafen-frankfurt-duesseldorf-hamburg-technikprobleme-an-mehreren-airports](https://www.spiegel.de/netzwelt/web/flughafen-frankfurt-duesseldorf-hamburg-technikprobleme-an-mehreren-airports-a-a5f35ba5-9865-4287-a602-255df65130a2#ref=rss)
+### gefasst
 
-* [https://www.spiegel.de/politik/deutschland/nancy-faeser-und-volker-wissing-fordern-nach-silvester-gewalt-harte-strafen](https://www.spiegel.de/politik/deutschland/nancy-faeser-und-volker-wissing-fordern-nach-silvester-gewalt-harte-strafen-a-4ecc37f4-db78-41f1-8455-7dd526b6086e#ref=rss)
-### strafen
+* [https://www.spiegel.de/panorama/justiz/leipzig-tiramisu-diebin-am-flughafen-gefasst-zweimal-in-restaurant-eingebrochen](https://www.spiegel.de/panorama/justiz/leipzig-tiramisu-diebin-am-flughafen-gefasst-zweimal-in-restaurant-eingebrochen-a-a520b726-be2b-4186-ac89-22aa1692c049#ref=rss)
+### restaurant
 
-* [https://www.spiegel.de/politik/deutschland/nancy-faeser-und-volker-wissing-fordern-nach-silvester-gewalt-harte-strafen](https://www.spiegel.de/politik/deutschland/nancy-faeser-und-volker-wissing-fordern-nach-silvester-gewalt-harte-strafen-a-4ecc37f4-db78-41f1-8455-7dd526b6086e#ref=rss)
-### vorläufig
+* [https://www.spiegel.de/panorama/justiz/leipzig-tiramisu-diebin-am-flughafen-gefasst-zweimal-in-restaurant-eingebrochen](https://www.spiegel.de/panorama/justiz/leipzig-tiramisu-diebin-am-flughafen-gefasst-zweimal-in-restaurant-eingebrochen-a-a520b726-be2b-4186-ac89-22aa1692c049#ref=rss)
+### kam
 
-* [https://www.spiegel.de/sport/missbrauchsvorwuerfe-im-turnen-trainer-in-stuttgart-vorlaeufig-freigestellt](https://www.spiegel.de/sport/missbrauchsvorwuerfe-im-turnen-trainer-in-stuttgart-vorlaeufig-freigestellt-a-b82d78bb-9e26-455c-a9e5-6e5264bd2901#ref=rss)
-### freigestellt
+* [https://www.spiegel.de/panorama/justiz/leipzig-tiramisu-diebin-am-flughafen-gefasst-zweimal-in-restaurant-eingebrochen](https://www.spiegel.de/panorama/justiz/leipzig-tiramisu-diebin-am-flughafen-gefasst-zweimal-in-restaurant-eingebrochen-a-a520b726-be2b-4186-ac89-22aa1692c049#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-rekordverspaetungen-37-5-prozent-der-halte-unpuenktlich](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-rekordverspaetungen-37-5-prozent-der-halte-unpuenktlich-a-4f66f1ec-8a08-4c3b-965b-97ed908f3d91#ref=rss)
+### mathias
 
-* [https://www.spiegel.de/sport/missbrauchsvorwuerfe-im-turnen-trainer-in-stuttgart-vorlaeufig-freigestellt](https://www.spiegel.de/sport/missbrauchsvorwuerfe-im-turnen-trainer-in-stuttgart-vorlaeufig-freigestellt-a-b82d78bb-9e26-455c-a9e5-6e5264bd2901#ref=rss)
-### wirtschaftliche
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-robert-habeck-mathias-doepfner-und-elon-musk-oesterreichs-koalitionsverhandlungen](https://www.spiegel.de/politik/deutschland/news-des-tages-robert-habeck-mathias-doepfner-und-elon-musk-oesterreichs-koalitionsverhandlungen-a-533e6a32-c4ea-4909-87e6-9411f0816597#ref=rss)
+### döpfner
 
-* [https://www.spiegel.de/wirtschaft/arbeitslosenquote-ist-im-jahr-2024-auf-6-0-prozent-gestiegen](https://www.spiegel.de/wirtschaft/arbeitslosenquote-ist-im-jahr-2024-auf-6-0-prozent-gestiegen-a-ec806def-a04b-4bea-ac9b-9c614fbc01f2#ref=rss)
-### stagnation
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-robert-habeck-mathias-doepfner-und-elon-musk-oesterreichs-koalitionsverhandlungen](https://www.spiegel.de/politik/deutschland/news-des-tages-robert-habeck-mathias-doepfner-und-elon-musk-oesterreichs-koalitionsverhandlungen-a-533e6a32-c4ea-4909-87e6-9411f0816597#ref=rss)
+### rückzug
 
-* [https://www.spiegel.de/wirtschaft/arbeitslosenquote-ist-im-jahr-2024-auf-6-0-prozent-gestiegen](https://www.spiegel.de/wirtschaft/arbeitslosenquote-ist-im-jahr-2024-auf-6-0-prozent-gestiegen-a-ec806def-a04b-4bea-ac9b-9c614fbc01f2#ref=rss)
-### arbeitslosigkeit
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-robert-habeck-mathias-doepfner-und-elon-musk-oesterreichs-koalitionsverhandlungen](https://www.spiegel.de/politik/deutschland/news-des-tages-robert-habeck-mathias-doepfner-und-elon-musk-oesterreichs-koalitionsverhandlungen-a-533e6a32-c4ea-4909-87e6-9411f0816597#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gruene-und-bundestagswahl-stefan-gelbhaar-will-kandidieren](https://www.spiegel.de/politik/deutschland/gruene-und-bundestagswahl-stefan-gelbhaar-will-kandidieren-a-6dfc6abf-742c-47f0-8afd-a7d75ce4df40#ref=rss)
+### mehrere
 
-* [https://www.spiegel.de/wirtschaft/arbeitslosenquote-ist-im-jahr-2024-auf-6-0-prozent-gestiegen](https://www.spiegel.de/wirtschaft/arbeitslosenquote-ist-im-jahr-2024-auf-6-0-prozent-gestiegen-a-ec806def-a04b-4bea-ac9b-9c614fbc01f2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-union-friedrich-merz-markus-soeder-gruene-stefan-gelbhaar-arbeitslosigkeit](https://www.spiegel.de/politik/deutschland/news-union-friedrich-merz-markus-soeder-gruene-stefan-gelbhaar-arbeitslosigkeit-a-e4ef64a8-ce2b-4fac-986e-b258e6753472#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/wirtschaft/arbeitslosenquote-ist-im-jahr-2024-auf-6-0-prozent-gestiegen](https://www.spiegel.de/wirtschaft/arbeitslosenquote-ist-im-jahr-2024-auf-6-0-prozent-gestiegen-a-ec806def-a04b-4bea-ac9b-9c614fbc01f2#ref=rss)
-* [https://www.spiegel.de/panorama/leute/jennifer-lopez-was-frauen-stark-macht-die-schauspielerin-ueber-weibliche-superkraefte](https://www.spiegel.de/panorama/leute/jennifer-lopez-was-frauen-stark-macht-die-schauspielerin-ueber-weibliche-superkraefte-a-0267e536-38ea-4ef0-95c4-59cb76414a67#ref=rss)
-### weißen
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/meta-facebook-konzern-bekommt-politik-chef-mit-naehe-zu-republikanern](https://www.spiegel.de/netzwelt/netzpolitik/meta-facebook-konzern-bekommt-politik-chef-mit-naehe-zu-republikanern-a-01ad9177-e52b-4918-83df-6c94c5e2aff1#ref=rss)
-* [https://www.spiegel.de/ausland/joe-biden-ehrt-trump-kritikerin-liz-cheney-aber-begnadigt-er-sie-auch-vorsorglich](https://www.spiegel.de/ausland/joe-biden-ehrt-trump-kritikerin-liz-cheney-aber-begnadigt-er-sie-auch-vorsorglich-a-00307eb1-1d1a-4a49-b96a-0861c65c7a68#ref=rss)
-### haus
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/meta-facebook-konzern-bekommt-politik-chef-mit-naehe-zu-republikanern](https://www.spiegel.de/netzwelt/netzpolitik/meta-facebook-konzern-bekommt-politik-chef-mit-naehe-zu-republikanern-a-01ad9177-e52b-4918-83df-6c94c5e2aff1#ref=rss)
-* [https://www.spiegel.de/ausland/joe-biden-ehrt-trump-kritikerin-liz-cheney-aber-begnadigt-er-sie-auch-vorsorglich](https://www.spiegel.de/ausland/joe-biden-ehrt-trump-kritikerin-liz-cheney-aber-begnadigt-er-sie-auch-vorsorglich-a-00307eb1-1d1a-4a49-b96a-0861c65c7a68#ref=rss)
-### jennifer
-
-* [https://www.spiegel.de/panorama/leute/jennifer-lopez-was-frauen-stark-macht-die-schauspielerin-ueber-weibliche-superkraefte](https://www.spiegel.de/panorama/leute/jennifer-lopez-was-frauen-stark-macht-die-schauspielerin-ueber-weibliche-superkraefte-a-0267e536-38ea-4ef0-95c4-59cb76414a67#ref=rss)
-### lopez
-
-* [https://www.spiegel.de/panorama/leute/jennifer-lopez-was-frauen-stark-macht-die-schauspielerin-ueber-weibliche-superkraefte](https://www.spiegel.de/panorama/leute/jennifer-lopez-was-frauen-stark-macht-die-schauspielerin-ueber-weibliche-superkraefte-a-0267e536-38ea-4ef0-95c4-59cb76414a67#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gruene-und-bundestagswahl-stefan-gelbhaar-will-kandidieren](https://www.spiegel.de/politik/deutschland/gruene-und-bundestagswahl-stefan-gelbhaar-will-kandidieren-a-6dfc6abf-742c-47f0-8afd-a7d75ce4df40#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-kreisverband-berlin-pankow-verlangt-verzicht-auf-kandidatur-fuer-bundestagswahl](https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-kreisverband-berlin-pankow-verlangt-verzicht-auf-kandidatur-fuer-bundestagswahl-a-4b60be62-926e-4a73-ad03-440509a7ce87#ref=rss)
 ### frauen
 
-* [https://www.spiegel.de/panorama/leute/jennifer-lopez-was-frauen-stark-macht-die-schauspielerin-ueber-weibliche-superkraefte](https://www.spiegel.de/panorama/leute/jennifer-lopez-was-frauen-stark-macht-die-schauspielerin-ueber-weibliche-superkraefte-a-0267e536-38ea-4ef0-95c4-59cb76414a67#ref=rss)
-### schauspielerin
+* [https://www.spiegel.de/politik/deutschland/gruene-und-bundestagswahl-stefan-gelbhaar-will-kandidieren](https://www.spiegel.de/politik/deutschland/gruene-und-bundestagswahl-stefan-gelbhaar-will-kandidieren-a-6dfc6abf-742c-47f0-8afd-a7d75ce4df40#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-kreisverband-berlin-pankow-verlangt-verzicht-auf-kandidatur-fuer-bundestagswahl](https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-kreisverband-berlin-pankow-verlangt-verzicht-auf-kandidatur-fuer-bundestagswahl-a-4b60be62-926e-4a73-ad03-440509a7ce87#ref=rss)
+### grünenbundestagsabgeordneten
 
-* [https://www.spiegel.de/panorama/leute/jennifer-lopez-was-frauen-stark-macht-die-schauspielerin-ueber-weibliche-superkraefte](https://www.spiegel.de/panorama/leute/jennifer-lopez-was-frauen-stark-macht-die-schauspielerin-ueber-weibliche-superkraefte-a-0267e536-38ea-4ef0-95c4-59cb76414a67#ref=rss)
-### deutscher
+* [https://www.spiegel.de/politik/deutschland/gruene-und-bundestagswahl-stefan-gelbhaar-will-kandidieren](https://www.spiegel.de/politik/deutschland/gruene-und-bundestagswahl-stefan-gelbhaar-will-kandidieren-a-6dfc6abf-742c-47f0-8afd-a7d75ce4df40#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-kreisverband-berlin-pankow-verlangt-verzicht-auf-kandidatur-fuer-bundestagswahl](https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-kreisverband-berlin-pankow-verlangt-verzicht-auf-kandidatur-fuer-bundestagswahl-a-4b60be62-926e-4a73-ad03-440509a7ce87#ref=rss)
+### sexuelle
 
-* [https://www.spiegel.de/wirtschaft/donald-trump-das-unwuerdige-verhalten-der-bosse-wie-mark-zuckerberg-und-jeff-bezos](https://www.spiegel.de/wirtschaft/donald-trump-das-unwuerdige-verhalten-der-bosse-wie-mark-zuckerberg-und-jeff-bezos-a-efe3dd60-2155-4e2a-b81b-f203366d96a0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/top-100-der-wertvollsten-boersenkonzerne-nur-drei-deutsche-dabei](https://www.spiegel.de/wirtschaft/top-100-der-wertvollsten-boersenkonzerne-nur-drei-deutsche-dabei-a-bffdfad9-7934-4a50-a65f-3e46520770e4#ref=rss)
-### besonders
+* [https://www.spiegel.de/politik/deutschland/gruene-und-bundestagswahl-stefan-gelbhaar-will-kandidieren](https://www.spiegel.de/politik/deutschland/gruene-und-bundestagswahl-stefan-gelbhaar-will-kandidieren-a-6dfc6abf-742c-47f0-8afd-a7d75ce4df40#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-kreisverband-berlin-pankow-verlangt-verzicht-auf-kandidatur-fuer-bundestagswahl](https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-kreisverband-berlin-pankow-verlangt-verzicht-auf-kandidatur-fuer-bundestagswahl-a-4b60be62-926e-4a73-ad03-440509a7ce87#ref=rss)
+### gewalt
 
-* [https://www.spiegel.de/wirtschaft/donald-trump-das-unwuerdige-verhalten-der-bosse-wie-mark-zuckerberg-und-jeff-bezos](https://www.spiegel.de/wirtschaft/donald-trump-das-unwuerdige-verhalten-der-bosse-wie-mark-zuckerberg-und-jeff-bezos-a-efe3dd60-2155-4e2a-b81b-f203366d96a0#ref=rss)
-* [https://www.spiegel.de/reise/reisetipps-fuer-2025-wo-soll-ich-urlaub-machen](https://www.spiegel.de/reise/reisetipps-fuer-2025-wo-soll-ich-urlaub-machen-a-8f734427-bc0b-43ff-8d50-0226a96a4305#ref=rss)
-### surfer
+* [https://www.spiegel.de/politik/deutschland/gruene-und-bundestagswahl-stefan-gelbhaar-will-kandidieren](https://www.spiegel.de/politik/deutschland/gruene-und-bundestagswahl-stefan-gelbhaar-will-kandidieren-a-6dfc6abf-742c-47f0-8afd-a7d75ce4df40#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-kreisverband-berlin-pankow-verlangt-verzicht-auf-kandidatur-fuer-bundestagswahl](https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-kreisverband-berlin-pankow-verlangt-verzicht-auf-kandidatur-fuer-bundestagswahl-a-4b60be62-926e-4a73-ad03-440509a7ce87#ref=rss)
+### vorgeworfen
 
-* [https://www.spiegel.de/panorama/australien-surfer-vermisst-polizei-vermutet-toedliche-hai-attacke](https://www.spiegel.de/panorama/australien-surfer-vermisst-polizei-vermutet-toedliche-hai-attacke-a-0f710b0f-fbeb-4889-a32c-65a0976b9251#ref=rss)
-### 2025
-
-* [https://www.spiegel.de/reise/reisetipps-fuer-2025-wo-soll-ich-urlaub-machen](https://www.spiegel.de/reise/reisetipps-fuer-2025-wo-soll-ich-urlaub-machen-a-8f734427-bc0b-43ff-8d50-0226a96a4305#ref=rss)
-### urlaub
-
-* [https://www.spiegel.de/reise/reisetipps-fuer-2025-wo-soll-ich-urlaub-machen](https://www.spiegel.de/reise/reisetipps-fuer-2025-wo-soll-ich-urlaub-machen-a-8f734427-bc0b-43ff-8d50-0226a96a4305#ref=rss)
-### ziele
-
-* [https://www.spiegel.de/reise/reisetipps-fuer-2025-wo-soll-ich-urlaub-machen](https://www.spiegel.de/reise/reisetipps-fuer-2025-wo-soll-ich-urlaub-machen-a-8f734427-bc0b-43ff-8d50-0226a96a4305#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-israel-greift-erneut-ziele-an-mindestens-68-tote](https://www.spiegel.de/ausland/gaza-israel-greift-erneut-ziele-an-mindestens-68-tote-a-1fdbebc3-b9eb-4d44-a135-b3166bda38ec#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/reise/reisetipps-fuer-2025-wo-soll-ich-urlaub-machen](https://www.spiegel.de/reise/reisetipps-fuer-2025-wo-soll-ich-urlaub-machen-a-8f734427-bc0b-43ff-8d50-0226a96a4305#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/syrien-annalena-baerbock-reist-als-erste-eu-aussenministerin-nach-damaskus](https://www.spiegel.de/politik/deutschland/syrien-annalena-baerbock-reist-als-erste-eu-aussenministerin-nach-damaskus-a-6884f1be-3006-454b-9664-3ee76c0eda2e#ref=rss)
-### wallace
-
-* [https://www.spiegel.de/kultur/wallace-gromit-mit-neuem-film-bei-netflix-die-feier-des-unperfekten](https://www.spiegel.de/kultur/wallace-gromit-mit-neuem-film-bei-netflix-die-feier-des-unperfekten-a-7db55beb-940d-4225-a4bc-41d22fd49f79#ref=rss)
-### gromit
-
-* [https://www.spiegel.de/kultur/wallace-gromit-mit-neuem-film-bei-netflix-die-feier-des-unperfekten](https://www.spiegel.de/kultur/wallace-gromit-mit-neuem-film-bei-netflix-die-feier-des-unperfekten-a-7db55beb-940d-4225-a4bc-41d22fd49f79#ref=rss)
-### monat
-
-* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-was-bringt-ein-monat-ohne-alkohol](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-was-bringt-ein-monat-ohne-alkohol-und-wie-haelt-man-durch-a-1300451.html#ref=rss)
-### alkohol
-
-* [https://www.spiegel.de/gesundheit/ernaehrung/dry-january-was-bringt-ein-monat-ohne-alkohol](https://www.spiegel.de/gesundheit/ernaehrung/dry-january-was-bringt-ein-monat-ohne-alkohol-und-wie-haelt-man-durch-a-1300451.html#ref=rss)
-### konzerne
-
-* [https://www.spiegel.de/wirtschaft/top-100-der-wertvollsten-boersenkonzerne-nur-drei-deutsche-dabei](https://www.spiegel.de/wirtschaft/top-100-der-wertvollsten-boersenkonzerne-nur-drei-deutsche-dabei-a-bffdfad9-7934-4a50-a65f-3e46520770e4#ref=rss)
-### anderen
-
-* [https://www.spiegel.de/wirtschaft/top-100-der-wertvollsten-boersenkonzerne-nur-drei-deutsche-dabei](https://www.spiegel.de/wirtschaft/top-100-der-wertvollsten-boersenkonzerne-nur-drei-deutsche-dabei-a-bffdfad9-7934-4a50-a65f-3e46520770e4#ref=rss)
-* [https://www.spiegel.de/panorama/leute/andrew-garfield-schaetzt-emotionale-offenheit-unter-maennern](https://www.spiegel.de/panorama/leute/andrew-garfield-schaetzt-emotionale-offenheit-unter-maennern-a-6678aa24-2b3b-499d-af5e-6274d31cd1f0#ref=rss)
-### usa
-
-* [https://www.spiegel.de/wirtschaft/top-100-der-wertvollsten-boersenkonzerne-nur-drei-deutsche-dabei](https://www.spiegel.de/wirtschaft/top-100-der-wertvollsten-boersenkonzerne-nur-drei-deutsche-dabei-a-bffdfad9-7934-4a50-a65f-3e46520770e4#ref=rss)
-* [https://www.spiegel.de/ausland/joe-biden-ehrt-trump-kritikerin-liz-cheney-aber-begnadigt-er-sie-auch-vorsorglich](https://www.spiegel.de/ausland/joe-biden-ehrt-trump-kritikerin-liz-cheney-aber-begnadigt-er-sie-auch-vorsorglich-a-00307eb1-1d1a-4a49-b96a-0861c65c7a68#ref=rss)
-### schnee
-
-* [https://www.spiegel.de/panorama/bayern-schnee-und-glaette-unfall-mit-intercity-zug-in-stephanskirchen-bei-rosenheim](https://www.spiegel.de/panorama/bayern-schnee-und-glaette-unfall-mit-intercity-zug-in-stephanskirchen-bei-rosenheim-a-41e95703-445c-47a5-8e34-1fdd9ae73b50#ref=rss)
-### herrscht
-
-* [https://www.spiegel.de/panorama/bayern-schnee-und-glaette-unfall-mit-intercity-zug-in-stephanskirchen-bei-rosenheim](https://www.spiegel.de/panorama/bayern-schnee-und-glaette-unfall-mit-intercity-zug-in-stephanskirchen-bei-rosenheim-a-41e95703-445c-47a5-8e34-1fdd9ae73b50#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-union-friedrich-merz-markus-soeder-gruene-stefan-gelbhaar-arbeitslosigkeit](https://www.spiegel.de/politik/deutschland/news-union-friedrich-merz-markus-soeder-gruene-stefan-gelbhaar-arbeitslosigkeit-a-e4ef64a8-ce2b-4fac-986e-b258e6753472#ref=rss)
-### markus
-
-* [https://www.spiegel.de/wirtschaft/olaf-scholz-und-markus-soeder-wollen-e-autos-foerdern](https://www.spiegel.de/wirtschaft/olaf-scholz-und-markus-soeder-wollen-e-autos-foerdern-a-f528c9d0-3463-404b-ac1e-c0b657774de5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-union-friedrich-merz-markus-soeder-gruene-stefan-gelbhaar-arbeitslosigkeit](https://www.spiegel.de/politik/deutschland/news-union-friedrich-merz-markus-soeder-gruene-stefan-gelbhaar-arbeitslosigkeit-a-e4ef64a8-ce2b-4fac-986e-b258e6753472#ref=rss)
-### söder
-
-* [https://www.spiegel.de/wirtschaft/olaf-scholz-und-markus-soeder-wollen-e-autos-foerdern](https://www.spiegel.de/wirtschaft/olaf-scholz-und-markus-soeder-wollen-e-autos-foerdern-a-f528c9d0-3463-404b-ac1e-c0b657774de5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-union-friedrich-merz-markus-soeder-gruene-stefan-gelbhaar-arbeitslosigkeit](https://www.spiegel.de/politik/deutschland/news-union-friedrich-merz-markus-soeder-gruene-stefan-gelbhaar-arbeitslosigkeit-a-e4ef64a8-ce2b-4fac-986e-b258e6753472#ref=rss)
-### spd
-
-* [https://www.spiegel.de/wirtschaft/olaf-scholz-und-markus-soeder-wollen-e-autos-foerdern](https://www.spiegel.de/wirtschaft/olaf-scholz-und-markus-soeder-wollen-e-autos-foerdern-a-f528c9d0-3463-404b-ac1e-c0b657774de5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-christian-lindner-draengt-union-zu-exklusivem-buendnis-mit-der-fdp](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-christian-lindner-draengt-union-zu-exklusivem-buendnis-mit-der-fdp-a-2a6d9aaf-848d-440d-9d93-1ed8e559d676#ref=rss)
-### fdp
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-christian-lindner-draengt-union-zu-exklusivem-buendnis-mit-der-fdp](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-christian-lindner-draengt-union-zu-exklusivem-buendnis-mit-der-fdp-a-2a6d9aaf-848d-440d-9d93-1ed8e559d676#ref=rss)
-### christian
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-christian-lindner-draengt-union-zu-exklusivem-buendnis-mit-der-fdp](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-christian-lindner-draengt-union-zu-exklusivem-buendnis-mit-der-fdp-a-2a6d9aaf-848d-440d-9d93-1ed8e559d676#ref=rss)
-### lindner
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-christian-lindner-draengt-union-zu-exklusivem-buendnis-mit-der-fdp](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-christian-lindner-draengt-union-zu-exklusivem-buendnis-mit-der-fdp-a-2a6d9aaf-848d-440d-9d93-1ed8e559d676#ref=rss)
-### koalition
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-christian-lindner-draengt-union-zu-exklusivem-buendnis-mit-der-fdp](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-christian-lindner-draengt-union-zu-exklusivem-buendnis-mit-der-fdp-a-2a6d9aaf-848d-440d-9d93-1ed8e559d676#ref=rss)
-### grünen
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-christian-lindner-draengt-union-zu-exklusivem-buendnis-mit-der-fdp](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-christian-lindner-draengt-union-zu-exklusivem-buendnis-mit-der-fdp-a-2a6d9aaf-848d-440d-9d93-1ed8e559d676#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-union-friedrich-merz-markus-soeder-gruene-stefan-gelbhaar-arbeitslosigkeit](https://www.spiegel.de/politik/deutschland/news-union-friedrich-merz-markus-soeder-gruene-stefan-gelbhaar-arbeitslosigkeit-a-e4ef64a8-ce2b-4fac-986e-b258e6753472#ref=rss)
-### andrew
-
-* [https://www.spiegel.de/panorama/leute/andrew-garfield-schaetzt-emotionale-offenheit-unter-maennern](https://www.spiegel.de/panorama/leute/andrew-garfield-schaetzt-emotionale-offenheit-unter-maennern-a-6678aa24-2b3b-499d-af5e-6274d31cd1f0#ref=rss)
-### garfield
-
-* [https://www.spiegel.de/panorama/leute/andrew-garfield-schaetzt-emotionale-offenheit-unter-maennern](https://www.spiegel.de/panorama/leute/andrew-garfield-schaetzt-emotionale-offenheit-unter-maennern-a-6678aa24-2b3b-499d-af5e-6274d31cd1f0#ref=rss)
-### schätzt
-
-* [https://www.spiegel.de/panorama/leute/andrew-garfield-schaetzt-emotionale-offenheit-unter-maennern](https://www.spiegel.de/panorama/leute/andrew-garfield-schaetzt-emotionale-offenheit-unter-maennern-a-6678aa24-2b3b-499d-af5e-6274d31cd1f0#ref=rss)
-### emotionale
-
-* [https://www.spiegel.de/panorama/leute/andrew-garfield-schaetzt-emotionale-offenheit-unter-maennern](https://www.spiegel.de/panorama/leute/andrew-garfield-schaetzt-emotionale-offenheit-unter-maennern-a-6678aa24-2b3b-499d-af5e-6274d31cd1f0#ref=rss)
-### offenheit
-
-* [https://www.spiegel.de/panorama/leute/andrew-garfield-schaetzt-emotionale-offenheit-unter-maennern](https://www.spiegel.de/panorama/leute/andrew-garfield-schaetzt-emotionale-offenheit-unter-maennern-a-6678aa24-2b3b-499d-af5e-6274d31cd1f0#ref=rss)
-### männern
-
-* [https://www.spiegel.de/panorama/leute/andrew-garfield-schaetzt-emotionale-offenheit-unter-maennern](https://www.spiegel.de/panorama/leute/andrew-garfield-schaetzt-emotionale-offenheit-unter-maennern-a-6678aa24-2b3b-499d-af5e-6274d31cd1f0#ref=rss)
-### sprechen
-
-* [https://www.spiegel.de/panorama/leute/andrew-garfield-schaetzt-emotionale-offenheit-unter-maennern](https://www.spiegel.de/panorama/leute/andrew-garfield-schaetzt-emotionale-offenheit-unter-maennern-a-6678aa24-2b3b-499d-af5e-6274d31cd1f0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/syrien-annalena-baerbock-reist-als-erste-eu-aussenministerin-nach-damaskus](https://www.spiegel.de/politik/deutschland/syrien-annalena-baerbock-reist-als-erste-eu-aussenministerin-nach-damaskus-a-6884f1be-3006-454b-9664-3ee76c0eda2e#ref=rss)
-### gaza
-
-* [https://www.spiegel.de/ausland/gaza-israel-greift-erneut-ziele-an-mindestens-68-tote](https://www.spiegel.de/ausland/gaza-israel-greift-erneut-ziele-an-mindestens-68-tote-a-1fdbebc3-b9eb-4d44-a135-b3166bda38ec#ref=rss)
-### mindestens
-
-* [https://www.spiegel.de/ausland/gaza-israel-greift-erneut-ziele-an-mindestens-68-tote](https://www.spiegel.de/ausland/gaza-israel-greift-erneut-ziele-an-mindestens-68-tote-a-1fdbebc3-b9eb-4d44-a135-b3166bda38ec#ref=rss)
-### 68
-
-* [https://www.spiegel.de/ausland/gaza-israel-greift-erneut-ziele-an-mindestens-68-tote](https://www.spiegel.de/ausland/gaza-israel-greift-erneut-ziele-an-mindestens-68-tote-a-1fdbebc3-b9eb-4d44-a135-b3166bda38ec#ref=rss)
-### neue
-
-* [https://www.spiegel.de/ausland/gaza-israel-greift-erneut-ziele-an-mindestens-68-tote](https://www.spiegel.de/ausland/gaza-israel-greift-erneut-ziele-an-mindestens-68-tote-a-1fdbebc3-b9eb-4d44-a135-b3166bda38ec#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-union-friedrich-merz-markus-soeder-gruene-stefan-gelbhaar-arbeitslosigkeit](https://www.spiegel.de/politik/deutschland/news-union-friedrich-merz-markus-soeder-gruene-stefan-gelbhaar-arbeitslosigkeit-a-e4ef64a8-ce2b-4fac-986e-b258e6753472#ref=rss)
-### new
-
-* [https://www.spiegel.de/ausland/anschlag-in-new-orleans-wie-der-terror-in-den-usa-politisch-ausgeschlachtet-wird](https://www.spiegel.de/ausland/anschlag-in-new-orleans-wie-der-terror-in-den-usa-politisch-ausgeschlachtet-wird-a-80a7faf0-1a2c-4db1-9509-9eec6d33d780#ref=rss)
-### orleans
-
-* [https://www.spiegel.de/ausland/anschlag-in-new-orleans-wie-der-terror-in-den-usa-politisch-ausgeschlachtet-wird](https://www.spiegel.de/ausland/anschlag-in-new-orleans-wie-der-terror-in-den-usa-politisch-ausgeschlachtet-wird-a-80a7faf0-1a2c-4db1-9509-9eec6d33d780#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gruene-und-bundestagswahl-stefan-gelbhaar-will-kandidieren](https://www.spiegel.de/politik/deutschland/gruene-und-bundestagswahl-stefan-gelbhaar-will-kandidieren-a-6dfc6abf-742c-47f0-8afd-a7d75ce4df40#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-kreisverband-berlin-pankow-verlangt-verzicht-auf-kandidatur-fuer-bundestagswahl](https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-kreisverband-berlin-pankow-verlangt-verzicht-auf-kandidatur-fuer-bundestagswahl-a-4b60be62-926e-4a73-ad03-440509a7ce87#ref=rss)
 ### annalena
 
-* [https://www.spiegel.de/politik/deutschland/syrien-annalena-baerbock-reist-als-erste-eu-aussenministerin-nach-damaskus](https://www.spiegel.de/politik/deutschland/syrien-annalena-baerbock-reist-als-erste-eu-aussenministerin-nach-damaskus-a-6884f1be-3006-454b-9664-3ee76c0eda2e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/syrien-annalena-baerbock-trifft-ahmed-al-sharaa-k-ein-handschlag](https://www.spiegel.de/politik/deutschland/syrien-annalena-baerbock-trifft-ahmed-al-sharaa-k-ein-handschlag-a-9835d45a-e171-46d0-b819-af3a8145be27#ref=rss)
 ### baerbock
 
-* [https://www.spiegel.de/politik/deutschland/syrien-annalena-baerbock-reist-als-erste-eu-aussenministerin-nach-damaskus](https://www.spiegel.de/politik/deutschland/syrien-annalena-baerbock-reist-als-erste-eu-aussenministerin-nach-damaskus-a-6884f1be-3006-454b-9664-3ee76c0eda2e#ref=rss)
-### friedrich
+* [https://www.spiegel.de/politik/deutschland/syrien-annalena-baerbock-trifft-ahmed-al-sharaa-k-ein-handschlag](https://www.spiegel.de/politik/deutschland/syrien-annalena-baerbock-trifft-ahmed-al-sharaa-k-ein-handschlag-a-9835d45a-e171-46d0-b819-af3a8145be27#ref=rss)
+### trifft
 
-* [https://www.spiegel.de/politik/deutschland/news-union-friedrich-merz-markus-soeder-gruene-stefan-gelbhaar-arbeitslosigkeit](https://www.spiegel.de/politik/deutschland/news-union-friedrich-merz-markus-soeder-gruene-stefan-gelbhaar-arbeitslosigkeit-a-e4ef64a8-ce2b-4fac-986e-b258e6753472#ref=rss)
-### merz
+* [https://www.spiegel.de/politik/deutschland/syrien-annalena-baerbock-trifft-ahmed-al-sharaa-k-ein-handschlag](https://www.spiegel.de/politik/deutschland/syrien-annalena-baerbock-trifft-ahmed-al-sharaa-k-ein-handschlag-a-9835d45a-e171-46d0-b819-af3a8145be27#ref=rss)
+### ahmed
 
-* [https://www.spiegel.de/politik/deutschland/news-union-friedrich-merz-markus-soeder-gruene-stefan-gelbhaar-arbeitslosigkeit](https://www.spiegel.de/politik/deutschland/news-union-friedrich-merz-markus-soeder-gruene-stefan-gelbhaar-arbeitslosigkeit-a-e4ef64a8-ce2b-4fac-986e-b258e6753472#ref=rss)
-### liz
+* [https://www.spiegel.de/politik/deutschland/syrien-annalena-baerbock-trifft-ahmed-al-sharaa-k-ein-handschlag](https://www.spiegel.de/politik/deutschland/syrien-annalena-baerbock-trifft-ahmed-al-sharaa-k-ein-handschlag-a-9835d45a-e171-46d0-b819-af3a8145be27#ref=rss)
+### alsharaa
 
-* [https://www.spiegel.de/ausland/joe-biden-ehrt-trump-kritikerin-liz-cheney-aber-begnadigt-er-sie-auch-vorsorglich](https://www.spiegel.de/ausland/joe-biden-ehrt-trump-kritikerin-liz-cheney-aber-begnadigt-er-sie-auch-vorsorglich-a-00307eb1-1d1a-4a49-b96a-0861c65c7a68#ref=rss)
-### cheney
+* [https://www.spiegel.de/politik/deutschland/syrien-annalena-baerbock-trifft-ahmed-al-sharaa-k-ein-handschlag](https://www.spiegel.de/politik/deutschland/syrien-annalena-baerbock-trifft-ahmed-al-sharaa-k-ein-handschlag-a-9835d45a-e171-46d0-b819-af3a8145be27#ref=rss)
+### knödel
 
-* [https://www.spiegel.de/ausland/joe-biden-ehrt-trump-kritikerin-liz-cheney-aber-begnadigt-er-sie-auch-vorsorglich](https://www.spiegel.de/ausland/joe-biden-ehrt-trump-kritikerin-liz-cheney-aber-begnadigt-er-sie-auch-vorsorglich-a-00307eb1-1d1a-4a49-b96a-0861c65c7a68#ref=rss)
+* [https://www.spiegel.de/kultur/max-strohe-sternekoch-ueber-knoedel-und-kloesse-lob-der-klossmopoliten](https://www.spiegel.de/kultur/max-strohe-sternekoch-ueber-knoedel-und-kloesse-lob-der-klossmopoliten-a-a09de4cc-63d4-48c4-a405-d6ba60975f17#ref=rss)
+### klöße
+
+* [https://www.spiegel.de/kultur/max-strohe-sternekoch-ueber-knoedel-und-kloesse-lob-der-klossmopoliten](https://www.spiegel.de/kultur/max-strohe-sternekoch-ueber-knoedel-und-kloesse-lob-der-klossmopoliten-a-a09de4cc-63d4-48c4-a405-d6ba60975f17#ref=rss)
+### kloßmopoliten
+
+* [https://www.spiegel.de/kultur/max-strohe-sternekoch-ueber-knoedel-und-kloesse-lob-der-klossmopoliten](https://www.spiegel.de/kultur/max-strohe-sternekoch-ueber-knoedel-und-kloesse-lob-der-klossmopoliten-a-a09de4cc-63d4-48c4-a405-d6ba60975f17#ref=rss)
+### tote
+
+* [https://www.spiegel.de/wissenschaft/natur/tausend-tote-bergfinken-tierschuetzer-vermuten-feuerwerk-als-ursache](https://www.spiegel.de/wissenschaft/natur/tausend-tote-bergfinken-tierschuetzer-vermuten-feuerwerk-als-ursache-a-f0aaf291-4c91-4f97-9b17-826a680f3864#ref=rss)
+### 18
+
+* [https://www.spiegel.de/kultur/tv/dschungelcamp-2025-lilly-becker-nina-bott-yeliz-koc-das-sind-die-kandidaten-der-18-staffel-von-ich-bin-ein-star-holt-mich-hier-raus](https://www.spiegel.de/kultur/tv/dschungelcamp-2025-lilly-becker-nina-bott-yeliz-koc-das-sind-die-kandidaten-der-18-staffel-von-ich-bin-ein-star-holt-mich-hier-raus-a-22435213-2b70-4919-8df6-cdd746874511#ref=rss)
+### staffel
+
+* [https://www.spiegel.de/kultur/tv/dschungelcamp-2025-lilly-becker-nina-bott-yeliz-koc-das-sind-die-kandidaten-der-18-staffel-von-ich-bin-ein-star-holt-mich-hier-raus](https://www.spiegel.de/kultur/tv/dschungelcamp-2025-lilly-becker-nina-bott-yeliz-koc-das-sind-die-kandidaten-der-18-staffel-von-ich-bin-ein-star-holt-mich-hier-raus-a-22435213-2b70-4919-8df6-cdd746874511#ref=rss)
+### bin
+
+* [https://www.spiegel.de/kultur/tv/dschungelcamp-2025-lilly-becker-nina-bott-yeliz-koc-das-sind-die-kandidaten-der-18-staffel-von-ich-bin-ein-star-holt-mich-hier-raus](https://www.spiegel.de/kultur/tv/dschungelcamp-2025-lilly-becker-nina-bott-yeliz-koc-das-sind-die-kandidaten-der-18-staffel-von-ich-bin-ein-star-holt-mich-hier-raus-a-22435213-2b70-4919-8df6-cdd746874511#ref=rss)
+### star
+
+* [https://www.spiegel.de/kultur/tv/dschungelcamp-2025-lilly-becker-nina-bott-yeliz-koc-das-sind-die-kandidaten-der-18-staffel-von-ich-bin-ein-star-holt-mich-hier-raus](https://www.spiegel.de/kultur/tv/dschungelcamp-2025-lilly-becker-nina-bott-yeliz-koc-das-sind-die-kandidaten-der-18-staffel-von-ich-bin-ein-star-holt-mich-hier-raus-a-22435213-2b70-4919-8df6-cdd746874511#ref=rss)
+### holt
+
+* [https://www.spiegel.de/kultur/tv/dschungelcamp-2025-lilly-becker-nina-bott-yeliz-koc-das-sind-die-kandidaten-der-18-staffel-von-ich-bin-ein-star-holt-mich-hier-raus](https://www.spiegel.de/kultur/tv/dschungelcamp-2025-lilly-becker-nina-bott-yeliz-koc-das-sind-die-kandidaten-der-18-staffel-von-ich-bin-ein-star-holt-mich-hier-raus-a-22435213-2b70-4919-8df6-cdd746874511#ref=rss)
+### mich
+
+* [https://www.spiegel.de/kultur/tv/dschungelcamp-2025-lilly-becker-nina-bott-yeliz-koc-das-sind-die-kandidaten-der-18-staffel-von-ich-bin-ein-star-holt-mich-hier-raus](https://www.spiegel.de/kultur/tv/dschungelcamp-2025-lilly-becker-nina-bott-yeliz-koc-das-sind-die-kandidaten-der-18-staffel-von-ich-bin-ein-star-holt-mich-hier-raus-a-22435213-2b70-4919-8df6-cdd746874511#ref=rss)
+### raus
+
+* [https://www.spiegel.de/kultur/tv/dschungelcamp-2025-lilly-becker-nina-bott-yeliz-koc-das-sind-die-kandidaten-der-18-staffel-von-ich-bin-ein-star-holt-mich-hier-raus](https://www.spiegel.de/kultur/tv/dschungelcamp-2025-lilly-becker-nina-bott-yeliz-koc-das-sind-die-kandidaten-der-18-staffel-von-ich-bin-ein-star-holt-mich-hier-raus-a-22435213-2b70-4919-8df6-cdd746874511#ref=rss)
+### zwölf
+
+* [https://www.spiegel.de/kultur/tv/dschungelcamp-2025-lilly-becker-nina-bott-yeliz-koc-das-sind-die-kandidaten-der-18-staffel-von-ich-bin-ein-star-holt-mich-hier-raus](https://www.spiegel.de/kultur/tv/dschungelcamp-2025-lilly-becker-nina-bott-yeliz-koc-das-sind-die-kandidaten-der-18-staffel-von-ich-bin-ein-star-holt-mich-hier-raus-a-22435213-2b70-4919-8df6-cdd746874511#ref=rss)
+* [https://www.spiegel.de/wirtschaft/getrenntsammlungspflicht-der-eu-was-die-neue-richtlinie-zu-altkleidern-fuer-verbraucher-bedeutet](https://www.spiegel.de/wirtschaft/getrenntsammlungspflicht-der-eu-was-die-neue-richtlinie-zu-altkleidern-fuer-verbraucher-bedeutet-a-3404efe3-31d6-48e1-89a8-34fe45dbe498#ref=rss)
+### israelische
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-israelische-armee-ruft-zu-evakuierung-des-letzten-krankenhauses-im-norden-gazas-auf](https://www.spiegel.de/ausland/israel-gaza-krieg-israelische-armee-ruft-zu-evakuierung-des-letzten-krankenhauses-im-norden-gazas-auf-a-b1c8c953-003b-4bac-b216-b2d34f9c4151#ref=rss)
+### armee
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-israelische-armee-ruft-zu-evakuierung-des-letzten-krankenhauses-im-norden-gazas-auf](https://www.spiegel.de/ausland/israel-gaza-krieg-israelische-armee-ruft-zu-evakuierung-des-letzten-krankenhauses-im-norden-gazas-auf-a-b1c8c953-003b-4bac-b216-b2d34f9c4151#ref=rss)
+### norden
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-israelische-armee-ruft-zu-evakuierung-des-letzten-krankenhauses-im-norden-gazas-auf](https://www.spiegel.de/ausland/israel-gaza-krieg-israelische-armee-ruft-zu-evakuierung-des-letzten-krankenhauses-im-norden-gazas-auf-a-b1c8c953-003b-4bac-b216-b2d34f9c4151#ref=rss)
+### gazas
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-israelische-armee-ruft-zu-evakuierung-des-letzten-krankenhauses-im-norden-gazas-auf](https://www.spiegel.de/ausland/israel-gaza-krieg-israelische-armee-ruft-zu-evakuierung-des-letzten-krankenhauses-im-norden-gazas-auf-a-b1c8c953-003b-4bac-b216-b2d34f9c4151#ref=rss)
+### frankfurt
+
+* [https://www.spiegel.de/netzwelt/web/flughafen-frankfurt-duesseldorf-hamburg-technikprobleme-an-mehreren-airports](https://www.spiegel.de/netzwelt/web/flughafen-frankfurt-duesseldorf-hamburg-technikprobleme-an-mehreren-airports-a-a5f35ba5-9865-4287-a602-255df65130a2#ref=rss)
+### düsseldorf
+
+* [https://www.spiegel.de/netzwelt/web/flughafen-frankfurt-duesseldorf-hamburg-technikprobleme-an-mehreren-airports](https://www.spiegel.de/netzwelt/web/flughafen-frankfurt-duesseldorf-hamburg-technikprobleme-an-mehreren-airports-a-a5f35ba5-9865-4287-a602-255df65130a2#ref=rss)
+### hamburg
+
+* [https://www.spiegel.de/netzwelt/web/flughafen-frankfurt-duesseldorf-hamburg-technikprobleme-an-mehreren-airports](https://www.spiegel.de/netzwelt/web/flughafen-frankfurt-duesseldorf-hamburg-technikprobleme-an-mehreren-airports-a-a5f35ba5-9865-4287-a602-255df65130a2#ref=rss)
+### airports
+
+* [https://www.spiegel.de/netzwelt/web/flughafen-frankfurt-duesseldorf-hamburg-technikprobleme-an-mehreren-airports](https://www.spiegel.de/netzwelt/web/flughafen-frankfurt-duesseldorf-hamburg-technikprobleme-an-mehreren-airports-a-a5f35ba5-9865-4287-a602-255df65130a2#ref=rss)
+### alice
+
+* [https://www.spiegel.de/politik/deutschland/alice-weidel-und-elon-musk-afd-chefin-will-mit-tech-milliardaer-auf-x-sprechen](https://www.spiegel.de/politik/deutschland/alice-weidel-und-elon-musk-afd-chefin-will-mit-tech-milliardaer-auf-x-sprechen-a-6cd893b7-3ecc-4ba7-a217-c5f099d317cf#ref=rss)
+### weidel
+
+* [https://www.spiegel.de/politik/deutschland/alice-weidel-und-elon-musk-afd-chefin-will-mit-tech-milliardaer-auf-x-sprechen](https://www.spiegel.de/politik/deutschland/alice-weidel-und-elon-musk-afd-chefin-will-mit-tech-milliardaer-auf-x-sprechen-a-6cd893b7-3ecc-4ba7-a217-c5f099d317cf#ref=rss)
+### techmilliardär
+
+* [https://www.spiegel.de/politik/deutschland/alice-weidel-und-elon-musk-afd-chefin-will-mit-tech-milliardaer-auf-x-sprechen](https://www.spiegel.de/politik/deutschland/alice-weidel-und-elon-musk-afd-chefin-will-mit-tech-milliardaer-auf-x-sprechen-a-6cd893b7-3ecc-4ba7-a217-c5f099d317cf#ref=rss)
+### teilen
+
+* [https://www.spiegel.de/politik/deutschland/alice-weidel-und-elon-musk-afd-chefin-will-mit-tech-milliardaer-auf-x-sprechen](https://www.spiegel.de/politik/deutschland/alice-weidel-und-elon-musk-afd-chefin-will-mit-tech-milliardaer-auf-x-sprechen-a-6cd893b7-3ecc-4ba7-a217-c5f099d317cf#ref=rss)
+* [https://www.spiegel.de/panorama/wintereinbruch-in-deutschland-der-schnee-kommt-zumindest-am-wochenende](https://www.spiegel.de/panorama/wintereinbruch-in-deutschland-der-schnee-kommt-zumindest-am-wochenende-a-6c7951c9-0822-4877-98dd-d4c59df15bb7#ref=rss)
+### bahn
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-rekordverspaetungen-37-5-prozent-der-halte-unpuenktlich](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-rekordverspaetungen-37-5-prozent-der-halte-unpuenktlich-a-4f66f1ec-8a08-4c3b-965b-97ed908f3d91#ref=rss)
+### 2024
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-rekordverspaetungen-37-5-prozent-der-halte-unpuenktlich](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-rekordverspaetungen-37-5-prozent-der-halte-unpuenktlich-a-4f66f1ec-8a08-4c3b-965b-97ed908f3d91#ref=rss)
+### prozent
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-rekordverspaetungen-37-5-prozent-der-halte-unpuenktlich](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-rekordverspaetungen-37-5-prozent-der-halte-unpuenktlich-a-4f66f1ec-8a08-4c3b-965b-97ed908f3d91#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/rolf-muetzenich-wirft-robert-habeck-holzschnittartigen-ueberbietungswettbewerb-vor](https://www.spiegel.de/politik/deutschland/rolf-muetzenich-wirft-robert-habeck-holzschnittartigen-ueberbietungswettbewerb-vor-a-518b158f-2178-4e05-aa89-af4b76bb7419#ref=rss)
+### eu
+
+* [https://www.spiegel.de/wirtschaft/getrenntsammlungspflicht-der-eu-was-die-neue-richtlinie-zu-altkleidern-fuer-verbraucher-bedeutet](https://www.spiegel.de/wirtschaft/getrenntsammlungspflicht-der-eu-was-die-neue-richtlinie-zu-altkleidern-fuer-verbraucher-bedeutet-a-3404efe3-31d6-48e1-89a8-34fe45dbe498#ref=rss)
+### richtlinie
+
+* [https://www.spiegel.de/wirtschaft/getrenntsammlungspflicht-der-eu-was-die-neue-richtlinie-zu-altkleidern-fuer-verbraucher-bedeutet](https://www.spiegel.de/wirtschaft/getrenntsammlungspflicht-der-eu-was-die-neue-richtlinie-zu-altkleidern-fuer-verbraucher-bedeutet-a-3404efe3-31d6-48e1-89a8-34fe45dbe498#ref=rss)
+### bedeutet
+
+* [https://www.spiegel.de/wirtschaft/getrenntsammlungspflicht-der-eu-was-die-neue-richtlinie-zu-altkleidern-fuer-verbraucher-bedeutet](https://www.spiegel.de/wirtschaft/getrenntsammlungspflicht-der-eu-was-die-neue-richtlinie-zu-altkleidern-fuer-verbraucher-bedeutet-a-3404efe3-31d6-48e1-89a8-34fe45dbe498#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gkv-zusatzbeitrag-so-teuer-werden-die-gesetzlichen-krankenkassen](https://www.spiegel.de/wirtschaft/gkv-zusatzbeitrag-so-teuer-werden-die-gesetzlichen-krankenkassen-a-8d23b98d-711b-4d03-b853-3f0a773e5bc1#ref=rss)
+### pro
+
+* [https://www.spiegel.de/wirtschaft/getrenntsammlungspflicht-der-eu-was-die-neue-richtlinie-zu-altkleidern-fuer-verbraucher-bedeutet](https://www.spiegel.de/wirtschaft/getrenntsammlungspflicht-der-eu-was-die-neue-richtlinie-zu-altkleidern-fuer-verbraucher-bedeutet-a-3404efe3-31d6-48e1-89a8-34fe45dbe498#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/wirtschaft/getrenntsammlungspflicht-der-eu-was-die-neue-richtlinie-zu-altkleidern-fuer-verbraucher-bedeutet](https://www.spiegel.de/wirtschaft/getrenntsammlungspflicht-der-eu-was-die-neue-richtlinie-zu-altkleidern-fuer-verbraucher-bedeutet-a-3404efe3-31d6-48e1-89a8-34fe45dbe498#ref=rss)
+* [https://www.spiegel.de/panorama/gingen-an-der-fils-in-baden-wuerttemberg-zug-ueberfaehrt-schneemann](https://www.spiegel.de/panorama/gingen-an-der-fils-in-baden-wuerttemberg-zug-ueberfaehrt-schneemann-a-c25a6bbf-b6b6-444c-b770-39b749b8f6be#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/wirtschaft/getrenntsammlungspflicht-der-eu-was-die-neue-richtlinie-zu-altkleidern-fuer-verbraucher-bedeutet](https://www.spiegel.de/wirtschaft/getrenntsammlungspflicht-der-eu-was-die-neue-richtlinie-zu-altkleidern-fuer-verbraucher-bedeutet-a-3404efe3-31d6-48e1-89a8-34fe45dbe498#ref=rss)
+* [https://www.spiegel.de/panorama/wintereinbruch-in-deutschland-der-schnee-kommt-zumindest-am-wochenende](https://www.spiegel.de/panorama/wintereinbruch-in-deutschland-der-schnee-kommt-zumindest-am-wochenende-a-6c7951c9-0822-4877-98dd-d4c59df15bb7#ref=rss)
+### estlands
+
+* [https://www.spiegel.de/ausland/russlands-angriffskrieg-estlands-premier-kristen-michal-spricht-sich-fuer-nato-beitritt-der-ukraine-aus](https://www.spiegel.de/ausland/russlands-angriffskrieg-estlands-premier-kristen-michal-spricht-sich-fuer-nato-beitritt-der-ukraine-aus-a-7aa75080-7f3d-4ba6-b719-802eb585e06f#ref=rss)
+### premier
+
+* [https://www.spiegel.de/ausland/russlands-angriffskrieg-estlands-premier-kristen-michal-spricht-sich-fuer-nato-beitritt-der-ukraine-aus](https://www.spiegel.de/ausland/russlands-angriffskrieg-estlands-premier-kristen-michal-spricht-sich-fuer-nato-beitritt-der-ukraine-aus-a-7aa75080-7f3d-4ba6-b719-802eb585e06f#ref=rss)
+### kristen
+
+* [https://www.spiegel.de/ausland/russlands-angriffskrieg-estlands-premier-kristen-michal-spricht-sich-fuer-nato-beitritt-der-ukraine-aus](https://www.spiegel.de/ausland/russlands-angriffskrieg-estlands-premier-kristen-michal-spricht-sich-fuer-nato-beitritt-der-ukraine-aus-a-7aa75080-7f3d-4ba6-b719-802eb585e06f#ref=rss)
+### michal
+
+* [https://www.spiegel.de/ausland/russlands-angriffskrieg-estlands-premier-kristen-michal-spricht-sich-fuer-nato-beitritt-der-ukraine-aus](https://www.spiegel.de/ausland/russlands-angriffskrieg-estlands-premier-kristen-michal-spricht-sich-fuer-nato-beitritt-der-ukraine-aus-a-7aa75080-7f3d-4ba6-b719-802eb585e06f#ref=rss)
+### natobeitritt
+
+* [https://www.spiegel.de/ausland/russlands-angriffskrieg-estlands-premier-kristen-michal-spricht-sich-fuer-nato-beitritt-der-ukraine-aus](https://www.spiegel.de/ausland/russlands-angriffskrieg-estlands-premier-kristen-michal-spricht-sich-fuer-nato-beitritt-der-ukraine-aus-a-7aa75080-7f3d-4ba6-b719-802eb585e06f#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/russlands-angriffskrieg-estlands-premier-kristen-michal-spricht-sich-fuer-nato-beitritt-der-ukraine-aus](https://www.spiegel.de/ausland/russlands-angriffskrieg-estlands-premier-kristen-michal-spricht-sich-fuer-nato-beitritt-der-ukraine-aus-a-7aa75080-7f3d-4ba6-b719-802eb585e06f#ref=rss)
+### südkorea
+
+* [https://www.spiegel.de/ausland/suedkorea-neue-proteste-nach-gescheiterter-verhaftung-von-praesident-yoon-die-bilder](https://www.spiegel.de/ausland/suedkorea-neue-proteste-nach-gescheiterter-verhaftung-von-praesident-yoon-die-bilder-a-ebd11af4-99a3-4fd4-8cef-5bed5c69ea49#ref=rss)
+### seoul
+
+* [https://www.spiegel.de/ausland/suedkorea-neue-proteste-nach-gescheiterter-verhaftung-von-praesident-yoon-die-bilder](https://www.spiegel.de/ausland/suedkorea-neue-proteste-nach-gescheiterter-verhaftung-von-praesident-yoon-die-bilder-a-ebd11af4-99a3-4fd4-8cef-5bed5c69ea49#ref=rss)
+### blockiert
+
+* [https://www.spiegel.de/ausland/suedkorea-neue-proteste-nach-gescheiterter-verhaftung-von-praesident-yoon-die-bilder](https://www.spiegel.de/ausland/suedkorea-neue-proteste-nach-gescheiterter-verhaftung-von-praesident-yoon-die-bilder-a-ebd11af4-99a3-4fd4-8cef-5bed5c69ea49#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/usa-joe-biden-blockiert-uebernahme-von-us-steel-durch-japanischen-konkurrenten-nippon](https://www.spiegel.de/wirtschaft/unternehmen/usa-joe-biden-blockiert-uebernahme-von-us-steel-durch-japanischen-konkurrenten-nippon-a-360b91d5-9dc3-41f4-addb-bf535ea19e4f#ref=rss)
+### us
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/usa-joe-biden-blockiert-uebernahme-von-us-steel-durch-japanischen-konkurrenten-nippon](https://www.spiegel.de/wirtschaft/unternehmen/usa-joe-biden-blockiert-uebernahme-von-us-steel-durch-japanischen-konkurrenten-nippon-a-360b91d5-9dc3-41f4-addb-bf535ea19e4f#ref=rss)
+### steel
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/usa-joe-biden-blockiert-uebernahme-von-us-steel-durch-japanischen-konkurrenten-nippon](https://www.spiegel.de/wirtschaft/unternehmen/usa-joe-biden-blockiert-uebernahme-von-us-steel-durch-japanischen-konkurrenten-nippon-a-360b91d5-9dc3-41f4-addb-bf535ea19e4f#ref=rss)
+### joe
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/usa-joe-biden-blockiert-uebernahme-von-us-steel-durch-japanischen-konkurrenten-nippon](https://www.spiegel.de/wirtschaft/unternehmen/usa-joe-biden-blockiert-uebernahme-von-us-steel-durch-japanischen-konkurrenten-nippon-a-360b91d5-9dc3-41f4-addb-bf535ea19e4f#ref=rss)
+### biden
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/usa-joe-biden-blockiert-uebernahme-von-us-steel-durch-japanischen-konkurrenten-nippon](https://www.spiegel.de/wirtschaft/unternehmen/usa-joe-biden-blockiert-uebernahme-von-us-steel-durch-japanischen-konkurrenten-nippon-a-360b91d5-9dc3-41f4-addb-bf535ea19e4f#ref=rss)
+### übernahme
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/usa-joe-biden-blockiert-uebernahme-von-us-steel-durch-japanischen-konkurrenten-nippon](https://www.spiegel.de/wirtschaft/unternehmen/usa-joe-biden-blockiert-uebernahme-von-us-steel-durch-japanischen-konkurrenten-nippon-a-360b91d5-9dc3-41f4-addb-bf535ea19e4f#ref=rss)
+### nippon
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/usa-joe-biden-blockiert-uebernahme-von-us-steel-durch-japanischen-konkurrenten-nippon](https://www.spiegel.de/wirtschaft/unternehmen/usa-joe-biden-blockiert-uebernahme-von-us-steel-durch-japanischen-konkurrenten-nippon-a-360b91d5-9dc3-41f4-addb-bf535ea19e4f#ref=rss)
+### wochenende
+
+* [https://www.spiegel.de/panorama/wintereinbruch-in-deutschland-der-schnee-kommt-zumindest-am-wochenende](https://www.spiegel.de/panorama/wintereinbruch-in-deutschland-der-schnee-kommt-zumindest-am-wochenende-a-6c7951c9-0822-4877-98dd-d4c59df15bb7#ref=rss)
+### ursula
+
+* [https://www.spiegel.de/politik/ursula-von-der-leyen-sagt-reisen-wegen-lungenentzuendung-ab](https://www.spiegel.de/politik/ursula-von-der-leyen-sagt-reisen-wegen-lungenentzuendung-ab-a-c02b2b7d-e249-46ec-b367-9df335c82150#ref=rss)
+### leyen
+
+* [https://www.spiegel.de/politik/ursula-von-der-leyen-sagt-reisen-wegen-lungenentzuendung-ab](https://www.spiegel.de/politik/ursula-von-der-leyen-sagt-reisen-wegen-lungenentzuendung-ab-a-c02b2b7d-e249-46ec-b367-9df335c82150#ref=rss)
+### gesetzlichen
+
+* [https://www.spiegel.de/wirtschaft/gkv-zusatzbeitrag-so-teuer-werden-die-gesetzlichen-krankenkassen](https://www.spiegel.de/wirtschaft/gkv-zusatzbeitrag-so-teuer-werden-die-gesetzlichen-krankenkassen-a-8d23b98d-711b-4d03-b853-3f0a773e5bc1#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-kreisverband-berlin-pankow-verlangt-verzicht-auf-kandidatur-fuer-bundestagswahl](https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-kreisverband-berlin-pankow-verlangt-verzicht-auf-kandidatur-fuer-bundestagswahl-a-4b60be62-926e-4a73-ad03-440509a7ce87#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/rolf-muetzenich-wirft-robert-habeck-holzschnittartigen-ueberbietungswettbewerb-vor](https://www.spiegel.de/politik/deutschland/rolf-muetzenich-wirft-robert-habeck-holzschnittartigen-ueberbietungswettbewerb-vor-a-518b158f-2178-4e05-aa89-af4b76bb7419#ref=rss)
+### aktion
+
+* [https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-kreisverband-berlin-pankow-verlangt-verzicht-auf-kandidatur-fuer-bundestagswahl](https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-kreisverband-berlin-pankow-verlangt-verzicht-auf-kandidatur-fuer-bundestagswahl-a-4b60be62-926e-4a73-ad03-440509a7ce87#ref=rss)
+* [https://www.spiegel.de/panorama/gingen-an-der-fils-in-baden-wuerttemberg-zug-ueberfaehrt-schneemann](https://www.spiegel.de/panorama/gingen-an-der-fils-in-baden-wuerttemberg-zug-ueberfaehrt-schneemann-a-c25a6bbf-b6b6-444c-b770-39b749b8f6be#ref=rss)
+### österreicher
+
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-oesterreicher-dominieren-qualifikation-in-innsbruck-sieben-skispringer-in-den-top-15](https://www.spiegel.de/sport/wintersport/vierschanzentournee-oesterreicher-dominieren-qualifikation-in-innsbruck-sieben-skispringer-in-den-top-15-a-49a6dbfe-54ba-4ac0-b349-b6999144431d#ref=rss)
+### qualifikation
+
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-oesterreicher-dominieren-qualifikation-in-innsbruck-sieben-skispringer-in-den-top-15](https://www.spiegel.de/sport/wintersport/vierschanzentournee-oesterreicher-dominieren-qualifikation-in-innsbruck-sieben-skispringer-in-den-top-15-a-49a6dbfe-54ba-4ac0-b349-b6999144431d#ref=rss)
+### innsbruck
+
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-oesterreicher-dominieren-qualifikation-in-innsbruck-sieben-skispringer-in-den-top-15](https://www.spiegel.de/sport/wintersport/vierschanzentournee-oesterreicher-dominieren-qualifikation-in-innsbruck-sieben-skispringer-in-den-top-15-a-49a6dbfe-54ba-4ac0-b349-b6999144431d#ref=rss)
+### sieben
+
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-oesterreicher-dominieren-qualifikation-in-innsbruck-sieben-skispringer-in-den-top-15](https://www.spiegel.de/sport/wintersport/vierschanzentournee-oesterreicher-dominieren-qualifikation-in-innsbruck-sieben-skispringer-in-den-top-15-a-49a6dbfe-54ba-4ac0-b349-b6999144431d#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### rolf
+
+* [https://www.spiegel.de/politik/deutschland/rolf-muetzenich-wirft-robert-habeck-holzschnittartigen-ueberbietungswettbewerb-vor](https://www.spiegel.de/politik/deutschland/rolf-muetzenich-wirft-robert-habeck-holzschnittartigen-ueberbietungswettbewerb-vor-a-518b158f-2178-4e05-aa89-af4b76bb7419#ref=rss)
+### mützenich
+
+* [https://www.spiegel.de/politik/deutschland/rolf-muetzenich-wirft-robert-habeck-holzschnittartigen-ueberbietungswettbewerb-vor](https://www.spiegel.de/politik/deutschland/rolf-muetzenich-wirft-robert-habeck-holzschnittartigen-ueberbietungswettbewerb-vor-a-518b158f-2178-4e05-aa89-af4b76bb7419#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### tag
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### gingen
+
+* [https://www.spiegel.de/panorama/gingen-an-der-fils-in-baden-wuerttemberg-zug-ueberfaehrt-schneemann](https://www.spiegel.de/panorama/gingen-an-der-fils-in-baden-wuerttemberg-zug-ueberfaehrt-schneemann-a-c25a6bbf-b6b6-444c-b770-39b749b8f6be#ref=rss)
+### fils
+
+* [https://www.spiegel.de/panorama/gingen-an-der-fils-in-baden-wuerttemberg-zug-ueberfaehrt-schneemann](https://www.spiegel.de/panorama/gingen-an-der-fils-in-baden-wuerttemberg-zug-ueberfaehrt-schneemann-a-c25a6bbf-b6b6-444c-b770-39b749b8f6be#ref=rss)
+### schneemann
+
+* [https://www.spiegel.de/panorama/gingen-an-der-fils-in-baden-wuerttemberg-zug-ueberfaehrt-schneemann](https://www.spiegel.de/panorama/gingen-an-der-fils-in-baden-wuerttemberg-zug-ueberfaehrt-schneemann-a-c25a6bbf-b6b6-444c-b770-39b749b8f6be#ref=rss)
 
