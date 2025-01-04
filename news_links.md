@@ -4,131 +4,368 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### mehr
+### auto
 
-* [https://www.spiegel.de/wirtschaft/soziales/steuerlast-vieler-rentnerinnen-und-rentner-steigt](https://www.spiegel.de/wirtschaft/soziales/steuerlast-vieler-rentnerinnen-und-rentner-steigt-a-a0c6129a-4ff9-4be4-bee6-1702aaec746f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/oeffentlicher-dienst-beamtenbund-nennt-forderung-nach-acht-prozent-voellig-berechtigt](https://www.spiegel.de/wirtschaft/soziales/oeffentlicher-dienst-beamtenbund-nennt-forderung-nach-acht-prozent-voellig-berechtigt-a-3732b4fb-42e8-47c6-8f0d-0e4752c33e0e#ref=rss)
-* [https://www.spiegel.de/auto/staedte-muessen-mehr-fahrradleichen-und-schrottautos-entsorgen](https://www.spiegel.de/auto/staedte-muessen-mehr-fahrradleichen-und-schrottautos-entsorgen-a-164146b2-5776-4474-ae2d-f3a419dd71dd#ref=rss)
-* [https://www.spiegel.de/gesundheit/neujahrsvorsaetze-2025-weniger-suessigkeiten-mehr-lesen-sport-machen-podcast](https://www.spiegel.de/gesundheit/neujahrsvorsaetze-2025-weniger-suessigkeiten-mehr-lesen-sport-machen-podcast-a-1f1f846c-71ae-4162-a308-62758ce4872c#ref=rss)
-* [https://www.spiegel.de/psychologie/ordnung-halten-so-kommen-sie-in-zehn-schritten-zu-einem-aufgeraeumten-leben](https://www.spiegel.de/psychologie/ordnung-halten-so-kommen-sie-in-zehn-schritten-zu-einem-aufgeraeumten-leben-a-b2d49db1-d348-46ba-9ea7-6ebbacfbedda#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-jusos-draengen-olaf-scholz-zu-wg-garantie](https://www.spiegel.de/politik/deutschland/spd-jusos-draengen-olaf-scholz-zu-wg-garantie-a-8988458a-9f75-4ed3-b1d3-f1ccf4deab71#ref=rss)
-### deutschland
+* [https://www.spiegel.de/auto/auto-abhaengigkeit-macht-laut-us-studie-ungluecklich](https://www.spiegel.de/auto/auto-abhaengigkeit-macht-laut-us-studie-ungluecklich-a-a467c6a9-6cad-4ed2-a41b-4aa974ac0dc0#ref=rss)
+* [https://www.spiegel.de/panorama/mit-dem-auto-durch-nordafrika-erinnerungen-an-eine-reise-die-so-heute-nicht-mehr-moeglich-waere](https://www.spiegel.de/panorama/mit-dem-auto-durch-nordafrika-erinnerungen-an-eine-reise-die-so-heute-nicht-mehr-moeglich-waere-a-5efaca1c-f4b5-47df-ac2c-efdfea8c665d#ref=rss)
+* [https://www.spiegel.de/kultur/las-vegas-warum-der-brennende-cybertruck-vor-dem-trump-hotel-das-bild-des-jahres-sein-koennte](https://www.spiegel.de/kultur/las-vegas-warum-der-brennende-cybertruck-vor-dem-trump-hotel-das-bild-des-jahres-sein-koennte-a-0ecbce2b-fe82-4f1d-8e73-4ab93e2f6cbd#ref=rss)
+### thilo
 
-* [https://www.spiegel.de/panorama/justiz/las-vegas-explodierter-tesla-fahrer-des-cybertrucks-war-trump-fan-und-us-elitesoldat](https://www.spiegel.de/panorama/justiz/las-vegas-explodierter-tesla-fahrer-des-cybertrucks-war-trump-fan-und-us-elitesoldat-a-fbc85998-d37d-4ee3-9354-7d705a05eb96#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/wetterdienst-warnt-vor-glaette-in-ganz-deutschland](https://www.spiegel.de/panorama/gesellschaft/wetterdienst-warnt-vor-glaette-in-ganz-deutschland-a-00f3f73c-4e93-4cdd-ba80-6ad5eb21202b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/steuerlast-vieler-rentnerinnen-und-rentner-steigt](https://www.spiegel.de/wirtschaft/soziales/steuerlast-vieler-rentnerinnen-und-rentner-steigt-a-a0c6129a-4ff9-4be4-bee6-1702aaec746f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-und-adenauer-boellerverbot-afd-hochburg-bitterfeld-wolfen-wg-garantie](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-und-adenauer-boellerverbot-afd-hochburg-bitterfeld-wolfen-wg-garantie-a-6be7dbe1-c3fa-482c-a054-6f0066524448#ref=rss)
-### 2025
+* [https://www.spiegel.de/kultur/thilo-mischke-moderiert-doch-nicht-ttt-was-die-personalie-ueber-gleichberechtigung-verraet](https://www.spiegel.de/kultur/thilo-mischke-moderiert-doch-nicht-ttt-was-die-personalie-ueber-gleichberechtigung-verraet-a-461c8e96-7260-4d03-921b-9ee49153acbd#ref=rss)
+* [https://www.spiegel.de/kultur/tv/ard-thilo-mischke-wird-doch-nicht-moderator-bei-ttt](https://www.spiegel.de/kultur/tv/ard-thilo-mischke-wird-doch-nicht-moderator-bei-ttt-a-e82c55a6-637a-46f4-85b1-766fc418342e#ref=rss)
+### mischke
 
-* [https://www.spiegel.de/sport/darts-wm-2025-luke-littler-ist-ein-teenager-und-der-beste-spieler-der-welt](https://www.spiegel.de/sport/darts-wm-2025-luke-littler-ist-ein-teenager-und-der-beste-spieler-der-welt-a-13da99f7-3b2a-4f39-a630-13ab8a81c73f#ref=rss)
-* [https://www.spiegel.de/gesundheit/neujahrsvorsaetze-2025-weniger-suessigkeiten-mehr-lesen-sport-machen-podcast](https://www.spiegel.de/gesundheit/neujahrsvorsaetze-2025-weniger-suessigkeiten-mehr-lesen-sport-machen-podcast-a-1f1f846c-71ae-4162-a308-62758ce4872c#ref=rss)
-* [https://www.spiegel.de/politik/bundestagswahl-2025-cdu-bekommt-fast-zehnmal-so-viele-grossspenden-wie-die-spd](https://www.spiegel.de/politik/bundestagswahl-2025-cdu-bekommt-fast-zehnmal-so-viele-grossspenden-wie-die-spd-a-55b541bf-b6de-49e1-a872-229ccdabf865#ref=rss)
-* [https://www.spiegel.de/politik/bundestagswahl-2025-christian-lindner-macht-steuersenkungen-zur-bedingung-fuer-koalition](https://www.spiegel.de/politik/bundestagswahl-2025-christian-lindner-macht-steuersenkungen-zur-bedingung-fuer-koalition-a-c7505bc9-a347-47aa-ab21-3b7608eb1172#ref=rss)
-* [https://www.spiegel.de/sport/finale-der-darts-wm-2025-im-liveticker-luke-littler-gegen-michael-van-gerwen](https://www.spiegel.de/sport/finale-der-darts-wm-2025-im-liveticker-luke-littler-gegen-michael-van-gerwen-a-a7cbb16d-a2a7-4b0e-beb9-ce50c52a688e#ref=rss)
-### spd
+* [https://www.spiegel.de/kultur/thilo-mischke-moderiert-doch-nicht-ttt-was-die-personalie-ueber-gleichberechtigung-verraet](https://www.spiegel.de/kultur/thilo-mischke-moderiert-doch-nicht-ttt-was-die-personalie-ueber-gleichberechtigung-verraet-a-461c8e96-7260-4d03-921b-9ee49153acbd#ref=rss)
+* [https://www.spiegel.de/kultur/tv/ard-thilo-mischke-wird-doch-nicht-moderator-bei-ttt](https://www.spiegel.de/kultur/tv/ard-thilo-mischke-wird-doch-nicht-moderator-bei-ttt-a-e82c55a6-637a-46f4-85b1-766fc418342e#ref=rss)
+### biden
 
-* [https://www.spiegel.de/politik/bundestagswahl-2025-cdu-bekommt-fast-zehnmal-so-viele-grossspenden-wie-die-spd](https://www.spiegel.de/politik/bundestagswahl-2025-cdu-bekommt-fast-zehnmal-so-viele-grossspenden-wie-die-spd-a-55b541bf-b6de-49e1-a872-229ccdabf865#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-und-adenauer-boellerverbot-afd-hochburg-bitterfeld-wolfen-wg-garantie](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-und-adenauer-boellerverbot-afd-hochburg-bitterfeld-wolfen-wg-garantie-a-6be7dbe1-c3fa-482c-a054-6f0066524448#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-jusos-draengen-olaf-scholz-zu-wg-garantie](https://www.spiegel.de/politik/deutschland/spd-jusos-draengen-olaf-scholz-zu-wg-garantie-a-8988458a-9f75-4ed3-b1d3-f1ccf4deab71#ref=rss)
-### las
+* [https://www.spiegel.de/ausland/us-praesident-biden-bringt-ruestungspaket-fuer-israel-im-wert-von-acht-milliarden-dollar-auf-den-weg](https://www.spiegel.de/ausland/us-praesident-biden-bringt-ruestungspaket-fuer-israel-im-wert-von-acht-milliarden-dollar-auf-den-weg-a-67f32d22-90fb-43cd-8fc0-cb1c6205ea55#ref=rss)
+* [https://www.spiegel.de/panorama/leute/joe-biden-freiheitsmedaille-fuer-bono-lionel-messi-magic-johnson-jane-goodall](https://www.spiegel.de/panorama/leute/joe-biden-freiheitsmedaille-fuer-bono-lionel-messi-magic-johnson-jane-goodall-a-111f31d2-082a-4dbb-9efa-5328118f2469#ref=rss)
+### kurz
 
-* [https://www.spiegel.de/panorama/justiz/las-vegas-explodierter-tesla-fahrer-des-cybertrucks-war-trump-fan-und-us-elitesoldat](https://www.spiegel.de/panorama/justiz/las-vegas-explodierter-tesla-fahrer-des-cybertrucks-war-trump-fan-und-us-elitesoldat-a-fbc85998-d37d-4ee3-9354-7d705a05eb96#ref=rss)
-* [https://www.spiegel.de/panorama/las-vegas-ermittler-behandeln-explosion-von-cybertruck-als-suizid](https://www.spiegel.de/panorama/las-vegas-ermittler-behandeln-explosion-von-cybertruck-als-suizid-a-61ffbe71-d1a4-49b6-af0f-3b18b835da4f#ref=rss)
-### vegas
+* [https://www.spiegel.de/ausland/us-praesident-biden-bringt-ruestungspaket-fuer-israel-im-wert-von-acht-milliarden-dollar-auf-den-weg](https://www.spiegel.de/ausland/us-praesident-biden-bringt-ruestungspaket-fuer-israel-im-wert-von-acht-milliarden-dollar-auf-den-weg-a-67f32d22-90fb-43cd-8fc0-cb1c6205ea55#ref=rss)
+* [https://www.spiegel.de/panorama/leute/joe-biden-freiheitsmedaille-fuer-bono-lionel-messi-magic-johnson-jane-goodall](https://www.spiegel.de/panorama/leute/joe-biden-freiheitsmedaille-fuer-bono-lionel-messi-magic-johnson-jane-goodall-a-111f31d2-082a-4dbb-9efa-5328118f2469#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-cyprien-sarrazin-erwartete-lange-reha-rueckkehr-in-den-skisport-ungewiss](https://www.spiegel.de/sport/wintersport/ski-alpin-cyprien-sarrazin-erwartete-lange-reha-rueckkehr-in-den-skisport-ungewiss-a-d386ba15-2d9b-433e-bc61-b4d1f929bc80#ref=rss)
+### setzt
 
-* [https://www.spiegel.de/panorama/justiz/las-vegas-explodierter-tesla-fahrer-des-cybertrucks-war-trump-fan-und-us-elitesoldat](https://www.spiegel.de/panorama/justiz/las-vegas-explodierter-tesla-fahrer-des-cybertrucks-war-trump-fan-und-us-elitesoldat-a-fbc85998-d37d-4ee3-9354-7d705a05eb96#ref=rss)
-* [https://www.spiegel.de/panorama/las-vegas-ermittler-behandeln-explosion-von-cybertruck-als-suizid](https://www.spiegel.de/panorama/las-vegas-ermittler-behandeln-explosion-von-cybertruck-als-suizid-a-61ffbe71-d1a4-49b6-af0f-3b18b835da4f#ref=rss)
-### luke
+* [https://www.spiegel.de/ausland/us-praesident-biden-bringt-ruestungspaket-fuer-israel-im-wert-von-acht-milliarden-dollar-auf-den-weg](https://www.spiegel.de/ausland/us-praesident-biden-bringt-ruestungspaket-fuer-israel-im-wert-von-acht-milliarden-dollar-auf-den-weg-a-67f32d22-90fb-43cd-8fc0-cb1c6205ea55#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/mercosur-abkommen-wie-ursula-von-der-leyen-italien-und-argentinien-ueberzeugen-will](https://www.spiegel.de/politik/deutschland/mercosur-abkommen-wie-ursula-von-der-leyen-italien-und-argentinien-ueberzeugen-will-a-af3ae054-57f3-4e5d-99b6-941f885ce26a#ref=rss)
+* [https://www.spiegel.de/panorama/leute/joe-biden-freiheitsmedaille-fuer-bono-lionel-messi-magic-johnson-jane-goodall](https://www.spiegel.de/panorama/leute/joe-biden-freiheitsmedaille-fuer-bono-lionel-messi-magic-johnson-jane-goodall-a-111f31d2-082a-4dbb-9efa-5328118f2469#ref=rss)
+### zeichen
 
-* [https://www.spiegel.de/sport/darts-wm-2025-luke-littler-ist-ein-teenager-und-der-beste-spieler-der-welt](https://www.spiegel.de/sport/darts-wm-2025-luke-littler-ist-ein-teenager-und-der-beste-spieler-der-welt-a-13da99f7-3b2a-4f39-a630-13ab8a81c73f#ref=rss)
-* [https://www.spiegel.de/sport/finale-der-darts-wm-2025-im-liveticker-luke-littler-gegen-michael-van-gerwen](https://www.spiegel.de/sport/finale-der-darts-wm-2025-im-liveticker-luke-littler-gegen-michael-van-gerwen-a-a7cbb16d-a2a7-4b0e-beb9-ce50c52a688e#ref=rss)
-### littler
+* [https://www.spiegel.de/ausland/us-praesident-biden-bringt-ruestungspaket-fuer-israel-im-wert-von-acht-milliarden-dollar-auf-den-weg](https://www.spiegel.de/ausland/us-praesident-biden-bringt-ruestungspaket-fuer-israel-im-wert-von-acht-milliarden-dollar-auf-den-weg-a-67f32d22-90fb-43cd-8fc0-cb1c6205ea55#ref=rss)
+* [https://www.spiegel.de/kultur/las-vegas-warum-der-brennende-cybertruck-vor-dem-trump-hotel-das-bild-des-jahres-sein-koennte](https://www.spiegel.de/kultur/las-vegas-warum-der-brennende-cybertruck-vor-dem-trump-hotel-das-bild-des-jahres-sein-koennte-a-0ecbce2b-fe82-4f1d-8e73-4ab93e2f6cbd#ref=rss)
+* [https://www.spiegel.de/panorama/leute/joe-biden-freiheitsmedaille-fuer-bono-lionel-messi-magic-johnson-jane-goodall](https://www.spiegel.de/panorama/leute/joe-biden-freiheitsmedaille-fuer-bono-lionel-messi-magic-johnson-jane-goodall-a-111f31d2-082a-4dbb-9efa-5328118f2469#ref=rss)
+### kritik
 
-* [https://www.spiegel.de/sport/darts-wm-2025-luke-littler-ist-ein-teenager-und-der-beste-spieler-der-welt](https://www.spiegel.de/sport/darts-wm-2025-luke-littler-ist-ein-teenager-und-der-beste-spieler-der-welt-a-13da99f7-3b2a-4f39-a630-13ab8a81c73f#ref=rss)
-* [https://www.spiegel.de/sport/finale-der-darts-wm-2025-im-liveticker-luke-littler-gegen-michael-van-gerwen](https://www.spiegel.de/sport/finale-der-darts-wm-2025-im-liveticker-luke-littler-gegen-michael-van-gerwen-a-a7cbb16d-a2a7-4b0e-beb9-ce50c52a688e#ref=rss)
-### deutlich
+* [https://www.spiegel.de/ausland/us-praesident-biden-bringt-ruestungspaket-fuer-israel-im-wert-von-acht-milliarden-dollar-auf-den-weg](https://www.spiegel.de/ausland/us-praesident-biden-bringt-ruestungspaket-fuer-israel-im-wert-von-acht-milliarden-dollar-auf-den-weg-a-67f32d22-90fb-43cd-8fc0-cb1c6205ea55#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/wintersport-bobfahrerin-lisa-buckwitz-stellt-bahnrekord-auf-und-ist-nicht-zufrieden](https://www.spiegel.de/sport/wintersport/wintersport-bobfahrerin-lisa-buckwitz-stellt-bahnrekord-auf-und-ist-nicht-zufrieden-a-62ed53b0-2296-4e17-8b50-730374691329#ref=rss)
+* [https://www.spiegel.de/kultur/tv/ard-thilo-mischke-wird-doch-nicht-moderator-bei-ttt](https://www.spiegel.de/kultur/tv/ard-thilo-mischke-wird-doch-nicht-moderator-bei-ttt-a-e82c55a6-637a-46f4-85b1-766fc418342e#ref=rss)
+### jahres
 
-* [https://www.spiegel.de/wirtschaft/soziales/steuerlast-vieler-rentnerinnen-und-rentner-steigt](https://www.spiegel.de/wirtschaft/soziales/steuerlast-vieler-rentnerinnen-und-rentner-steigt-a-a0c6129a-4ff9-4be4-bee6-1702aaec746f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/oeffentlicher-dienst-beamtenbund-nennt-forderung-nach-acht-prozent-voellig-berechtigt](https://www.spiegel.de/wirtschaft/soziales/oeffentlicher-dienst-beamtenbund-nennt-forderung-nach-acht-prozent-voellig-berechtigt-a-3732b4fb-42e8-47c6-8f0d-0e4752c33e0e#ref=rss)
-* [https://www.spiegel.de/auto/staedte-muessen-mehr-fahrradleichen-und-schrottautos-entsorgen](https://www.spiegel.de/auto/staedte-muessen-mehr-fahrradleichen-und-schrottautos-entsorgen-a-164146b2-5776-4474-ae2d-f3a419dd71dd#ref=rss)
-* [https://www.spiegel.de/politik/bundestagswahl-2025-cdu-bekommt-fast-zehnmal-so-viele-grossspenden-wie-die-spd](https://www.spiegel.de/politik/bundestagswahl-2025-cdu-bekommt-fast-zehnmal-so-viele-grossspenden-wie-die-spd-a-55b541bf-b6de-49e1-a872-229ccdabf865#ref=rss)
-### elon
+* [https://www.spiegel.de/wissenschaft/natur/inventur-im-london-zoo-wieviele-tiere-seid-ihr-denn](https://www.spiegel.de/wissenschaft/natur/inventur-im-london-zoo-wieviele-tiere-seid-ihr-denn-a-3a1b0ff7-bb29-4d26-925b-922b52f63b43#ref=rss)
+* [https://www.spiegel.de/kultur/las-vegas-warum-der-brennende-cybertruck-vor-dem-trump-hotel-das-bild-des-jahres-sein-koennte](https://www.spiegel.de/kultur/las-vegas-warum-der-brennende-cybertruck-vor-dem-trump-hotel-das-bild-des-jahres-sein-koennte-a-0ecbce2b-fe82-4f1d-8e73-4ab93e2f6cbd#ref=rss)
+### vierschanzentournee
 
-* [https://www.spiegel.de/politik/deutschland/elon-musk-und-die-bundestagswahl-wie-weit-reicht-sein-einfluss-und-wer-kann-ihn-stoppen](https://www.spiegel.de/politik/deutschland/elon-musk-und-die-bundestagswahl-wie-weit-reicht-sein-einfluss-und-wer-kann-ihn-stoppen-a-b26aebf0-4122-401d-a935-051365d73fc0#ref=rss)
-* [https://www.spiegel.de/politik/kanzler-olaf-scholz-zu-attacken-von-elon-musk-da-muss-man-cool-bleiben](https://www.spiegel.de/politik/kanzler-olaf-scholz-zu-attacken-von-elon-musk-da-muss-man-cool-bleiben-a-80a608f6-4cd9-4cc8-be6e-209af5d3849a#ref=rss)
-### musk
+* [https://www.spiegel.de/sport/vierschanzentournee-dominanz-der-oesterreicher-laesst-die-konkurrenz-staunen-nun-wartet-ein-drama](https://www.spiegel.de/sport/vierschanzentournee-dominanz-der-oesterreicher-laesst-die-konkurrenz-staunen-nun-wartet-ein-drama-a-3c153dc7-89e4-449c-976f-ecfbff313f02#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-stefan-kraft-gewinnt-oesterreichischen-dreikampf-in-innsbruck](https://www.spiegel.de/sport/wintersport/vierschanzentournee-stefan-kraft-gewinnt-oesterreichischen-dreikampf-in-innsbruck-a-02439010-337c-4320-99c3-1d8323e3891f#ref=rss)
+### österreicher
 
-* [https://www.spiegel.de/politik/deutschland/elon-musk-und-die-bundestagswahl-wie-weit-reicht-sein-einfluss-und-wer-kann-ihn-stoppen](https://www.spiegel.de/politik/deutschland/elon-musk-und-die-bundestagswahl-wie-weit-reicht-sein-einfluss-und-wer-kann-ihn-stoppen-a-b26aebf0-4122-401d-a935-051365d73fc0#ref=rss)
-* [https://www.spiegel.de/politik/kanzler-olaf-scholz-zu-attacken-von-elon-musk-da-muss-man-cool-bleiben](https://www.spiegel.de/politik/kanzler-olaf-scholz-zu-attacken-von-elon-musk-da-muss-man-cool-bleiben-a-80a608f6-4cd9-4cc8-be6e-209af5d3849a#ref=rss)
-### neue
+* [https://www.spiegel.de/sport/vierschanzentournee-dominanz-der-oesterreicher-laesst-die-konkurrenz-staunen-nun-wartet-ein-drama](https://www.spiegel.de/sport/vierschanzentournee-dominanz-der-oesterreicher-laesst-die-konkurrenz-staunen-nun-wartet-ein-drama-a-3c153dc7-89e4-449c-976f-ecfbff313f02#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-stefan-kraft-gewinnt-oesterreichischen-dreikampf-in-innsbruck](https://www.spiegel.de/sport/wintersport/vierschanzentournee-stefan-kraft-gewinnt-oesterreichischen-dreikampf-in-innsbruck-a-02439010-337c-4320-99c3-1d8323e3891f#ref=rss)
+### ttt
 
-* [https://www.spiegel.de/ausland/psychedelische-erfahrung-in-mexiko-drogentrip-gegen-die-sucht-alles-gute-vom-spiegel](https://www.spiegel.de/ausland/psychedelische-erfahrung-in-mexiko-drogentrip-gegen-die-sucht-alles-gute-vom-spiegel-a-83e4b122-386e-4060-a310-9f691ffaaf75#ref=rss)
-* [https://www.spiegel.de/psychologie/ordnung-halten-so-kommen-sie-in-zehn-schritten-zu-einem-aufgeraeumten-leben](https://www.spiegel.de/psychologie/ordnung-halten-so-kommen-sie-in-zehn-schritten-zu-einem-aufgeraeumten-leben-a-b2d49db1-d348-46ba-9ea7-6ebbacfbedda#ref=rss)
-* [https://www.spiegel.de/politik/bundestagswahl-2025-cdu-bekommt-fast-zehnmal-so-viele-grossspenden-wie-die-spd](https://www.spiegel.de/politik/bundestagswahl-2025-cdu-bekommt-fast-zehnmal-so-viele-grossspenden-wie-die-spd-a-55b541bf-b6de-49e1-a872-229ccdabf865#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-in-damaskus-treffen-sich-ein-islamist-und-eine-feministin](https://www.spiegel.de/politik/deutschland/annalena-baerbock-in-damaskus-treffen-sich-ein-islamist-und-eine-feministin-a-98af135c-5626-40ce-a5b6-9c612cf6f58f#ref=rss)
+* [https://www.spiegel.de/kultur/thilo-mischke-moderiert-doch-nicht-ttt-was-die-personalie-ueber-gleichberechtigung-verraet](https://www.spiegel.de/kultur/thilo-mischke-moderiert-doch-nicht-ttt-was-die-personalie-ueber-gleichberechtigung-verraet-a-461c8e96-7260-4d03-921b-9ee49153acbd#ref=rss)
+* [https://www.spiegel.de/kultur/tv/ard-thilo-mischke-wird-doch-nicht-moderator-bei-ttt](https://www.spiegel.de/kultur/tv/ard-thilo-mischke-wird-doch-nicht-moderator-bei-ttt-a-e82c55a6-637a-46f4-85b1-766fc418342e#ref=rss)
+### personalie
+
+* [https://www.spiegel.de/kultur/thilo-mischke-moderiert-doch-nicht-ttt-was-die-personalie-ueber-gleichberechtigung-verraet](https://www.spiegel.de/kultur/thilo-mischke-moderiert-doch-nicht-ttt-was-die-personalie-ueber-gleichberechtigung-verraet-a-461c8e96-7260-4d03-921b-9ee49153acbd#ref=rss)
+* [https://www.spiegel.de/kultur/tv/ard-thilo-mischke-wird-doch-nicht-moderator-bei-ttt](https://www.spiegel.de/kultur/tv/ard-thilo-mischke-wird-doch-nicht-moderator-bei-ttt-a-e82c55a6-637a-46f4-85b1-766fc418342e#ref=rss)
+### donald
+
+* [https://www.spiegel.de/kultur/las-vegas-warum-der-brennende-cybertruck-vor-dem-trump-hotel-das-bild-des-jahres-sein-koennte](https://www.spiegel.de/kultur/las-vegas-warum-der-brennende-cybertruck-vor-dem-trump-hotel-das-bild-des-jahres-sein-koennte-a-0ecbce2b-fe82-4f1d-8e73-4ab93e2f6cbd#ref=rss)
+* [https://www.spiegel.de/kultur/washington-post-ann-telnaes-darf-jeff-bezos-nicht-karikieren-und-kuendigt](https://www.spiegel.de/kultur/washington-post-ann-telnaes-darf-jeff-bezos-nicht-karikieren-und-kuendigt-a-94ccdfcd-44ff-4b35-a971-7b57c9362277#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-was-sie-ueber-das-urteil-im-schweigegeld-prozess-wissen-muessen](https://www.spiegel.de/ausland/donald-trump-was-sie-ueber-das-urteil-im-schweigegeld-prozess-wissen-muessen-a-aa7e20df-c77e-48db-b7e8-6490adc73a8c#ref=rss)
+### trump
+
+* [https://www.spiegel.de/kultur/las-vegas-warum-der-brennende-cybertruck-vor-dem-trump-hotel-das-bild-des-jahres-sein-koennte](https://www.spiegel.de/kultur/las-vegas-warum-der-brennende-cybertruck-vor-dem-trump-hotel-das-bild-des-jahres-sein-koennte-a-0ecbce2b-fe82-4f1d-8e73-4ab93e2f6cbd#ref=rss)
+* [https://www.spiegel.de/kultur/washington-post-ann-telnaes-darf-jeff-bezos-nicht-karikieren-und-kuendigt](https://www.spiegel.de/kultur/washington-post-ann-telnaes-darf-jeff-bezos-nicht-karikieren-und-kuendigt-a-94ccdfcd-44ff-4b35-a971-7b57c9362277#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-was-sie-ueber-das-urteil-im-schweigegeld-prozess-wissen-muessen](https://www.spiegel.de/ausland/donald-trump-was-sie-ueber-das-urteil-im-schweigegeld-prozess-wissen-muessen-a-aa7e20df-c77e-48db-b7e8-6490adc73a8c#ref=rss)
+### wann
+
+* [https://www.spiegel.de/familie/psychische-gewalt-gegen-kinder-wann-greife-ich-in-die-erziehung-anderer-eltern-ein](https://www.spiegel.de/familie/psychische-gewalt-gegen-kinder-wann-greife-ich-in-die-erziehung-anderer-eltern-ein-a-5e7138f4-0384-454d-a39e-e1f5759dd805#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/eifel-forscher-finden-hinweise-auf-magmakammern-in-der-eifel](https://www.spiegel.de/wissenschaft/natur/eifel-forscher-finden-hinweise-auf-magmakammern-in-der-eifel-a-e6c0b98f-047f-4160-8218-9dbcde7df58b#ref=rss)
 ### eifel
 
 * [https://www.spiegel.de/wissenschaft/natur/eifel-forscher-finden-hinweise-auf-magmakammern-in-der-eifel](https://www.spiegel.de/wissenschaft/natur/eifel-forscher-finden-hinweise-auf-magmakammern-in-der-eifel-a-e6c0b98f-047f-4160-8218-9dbcde7df58b#ref=rss)
-### hoffnung
+### uspräsident
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/ki-startup-aleph-alpha-aus-heidelberg-die-deutsche-hoffnung-in-der-kuenstlichen-intelligenz](https://www.spiegel.de/netzwelt/netzpolitik/ki-startup-aleph-alpha-aus-heidelberg-die-deutsche-hoffnung-in-der-kuenstlichen-intelligenz-a-5be9255d-840b-4e50-829e-47be5d823825#ref=rss)
-* [https://www.spiegel.de/ausland/psychedelische-erfahrung-in-mexiko-drogentrip-gegen-die-sucht-alles-gute-vom-spiegel](https://www.spiegel.de/ausland/psychedelische-erfahrung-in-mexiko-drogentrip-gegen-die-sucht-alles-gute-vom-spiegel-a-83e4b122-386e-4060-a310-9f691ffaaf75#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-russische-truppen-ruecken-im-donbass-vor](https://www.spiegel.de/ausland/ukraine-krieg-russische-truppen-ruecken-im-donbass-vor-a-e09da8b5-57be-4d74-9b9c-d8c0acf0b6b6#ref=rss)
-### erklärt
+* [https://www.spiegel.de/ausland/us-praesident-biden-bringt-ruestungspaket-fuer-israel-im-wert-von-acht-milliarden-dollar-auf-den-weg](https://www.spiegel.de/ausland/us-praesident-biden-bringt-ruestungspaket-fuer-israel-im-wert-von-acht-milliarden-dollar-auf-den-weg-a-67f32d22-90fb-43cd-8fc0-cb1c6205ea55#ref=rss)
+* [https://www.spiegel.de/panorama/leute/joe-biden-freiheitsmedaille-fuer-bono-lionel-messi-magic-johnson-jane-goodall](https://www.spiegel.de/panorama/leute/joe-biden-freiheitsmedaille-fuer-bono-lionel-messi-magic-johnson-jane-goodall-a-111f31d2-082a-4dbb-9efa-5328118f2469#ref=rss)
+### usa
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/ki-startup-aleph-alpha-aus-heidelberg-die-deutsche-hoffnung-in-der-kuenstlichen-intelligenz](https://www.spiegel.de/netzwelt/netzpolitik/ki-startup-aleph-alpha-aus-heidelberg-die-deutsche-hoffnung-in-der-kuenstlichen-intelligenz-a-5be9255d-840b-4e50-829e-47be5d823825#ref=rss)
-* [https://www.spiegel.de/gesundheit/neujahrsvorsaetze-2025-weniger-suessigkeiten-mehr-lesen-sport-machen-podcast](https://www.spiegel.de/gesundheit/neujahrsvorsaetze-2025-weniger-suessigkeiten-mehr-lesen-sport-machen-podcast-a-1f1f846c-71ae-4162-a308-62758ce4872c#ref=rss)
-* [https://www.spiegel.de/stil/dry-january-die-besten-alkoholfreien-drinks-barkeeperin-gibt-tipps](https://www.spiegel.de/stil/dry-january-die-besten-alkoholfreien-drinks-barkeeperin-gibt-tipps-a-5c341edf-eb36-4aa4-bbad-c3cc9f0ace0d#ref=rss)
-### welt
+* [https://www.spiegel.de/ausland/us-praesident-biden-bringt-ruestungspaket-fuer-israel-im-wert-von-acht-milliarden-dollar-auf-den-weg](https://www.spiegel.de/ausland/us-praesident-biden-bringt-ruestungspaket-fuer-israel-im-wert-von-acht-milliarden-dollar-auf-den-weg-a-67f32d22-90fb-43cd-8fc0-cb1c6205ea55#ref=rss)
+* [https://www.spiegel.de/auto/auto-abhaengigkeit-macht-laut-us-studie-ungluecklich](https://www.spiegel.de/auto/auto-abhaengigkeit-macht-laut-us-studie-ungluecklich-a-a467c6a9-6cad-4ed2-a41b-4aa974ac0dc0#ref=rss)
+### regierung
 
-* [https://www.spiegel.de/panorama/leute/japanerin-tomiko-itooka-wohl-aeltester-mensch-der-welt-stirbt-mit-116-jahren](https://www.spiegel.de/panorama/leute/japanerin-tomiko-itooka-wohl-aeltester-mensch-der-welt-stirbt-mit-116-jahren-a-c968b633-fd46-4c06-ae28-9d6da2fa6ccc#ref=rss)
-* [https://www.spiegel.de/sport/darts-wm-2025-luke-littler-ist-ein-teenager-und-der-beste-spieler-der-welt](https://www.spiegel.de/sport/darts-wm-2025-luke-littler-ist-ein-teenager-und-der-beste-spieler-der-welt-a-13da99f7-3b2a-4f39-a630-13ab8a81c73f#ref=rss)
+* [https://www.spiegel.de/ausland/us-praesident-biden-bringt-ruestungspaket-fuer-israel-im-wert-von-acht-milliarden-dollar-auf-den-weg](https://www.spiegel.de/ausland/us-praesident-biden-bringt-ruestungspaket-fuer-israel-im-wert-von-acht-milliarden-dollar-auf-den-weg-a-67f32d22-90fb-43cd-8fc0-cb1c6205ea55#ref=rss)
+* [https://www.spiegel.de/auto/alfa-romeo-junior-im-test-der-italiener-der-nicht-milano-heissen-darf](https://www.spiegel.de/auto/alfa-romeo-junior-im-test-der-italiener-der-nicht-milano-heissen-darf-a-a7fb2fc9-fd42-4601-929b-2b0001006049#ref=rss)
+### liefern
+
+* [https://www.spiegel.de/ausland/us-praesident-biden-bringt-ruestungspaket-fuer-israel-im-wert-von-acht-milliarden-dollar-auf-den-weg](https://www.spiegel.de/ausland/us-praesident-biden-bringt-ruestungspaket-fuer-israel-im-wert-von-acht-milliarden-dollar-auf-den-weg-a-67f32d22-90fb-43cd-8fc0-cb1c6205ea55#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/mercosur-abkommen-wie-ursula-von-der-leyen-italien-und-argentinien-ueberzeugen-will](https://www.spiegel.de/politik/deutschland/mercosur-abkommen-wie-ursula-von-der-leyen-italien-und-argentinien-ueberzeugen-will-a-af3ae054-57f3-4e5d-99b6-941f885ce26a#ref=rss)
+### inventur
+
+* [https://www.spiegel.de/wissenschaft/natur/inventur-im-london-zoo-wieviele-tiere-seid-ihr-denn](https://www.spiegel.de/wissenschaft/natur/inventur-im-london-zoo-wieviele-tiere-seid-ihr-denn-a-3a1b0ff7-bb29-4d26-925b-922b52f63b43#ref=rss)
+### zoo
+
+* [https://www.spiegel.de/wissenschaft/natur/inventur-im-london-zoo-wieviele-tiere-seid-ihr-denn](https://www.spiegel.de/wissenschaft/natur/inventur-im-london-zoo-wieviele-tiere-seid-ihr-denn-a-3a1b0ff7-bb29-4d26-925b-922b52f63b43#ref=rss)
+### denn
+
+* [https://www.spiegel.de/wissenschaft/natur/inventur-im-london-zoo-wieviele-tiere-seid-ihr-denn](https://www.spiegel.de/wissenschaft/natur/inventur-im-london-zoo-wieviele-tiere-seid-ihr-denn-a-3a1b0ff7-bb29-4d26-925b-922b52f63b43#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-jude-bellingham-schiesst-real-madrid-zum-sieg-vinicius-junior-sieht-rot](https://www.spiegel.de/sport/fussball/fussball-jude-bellingham-schiesst-real-madrid-zum-sieg-vinicius-junior-sieht-rot-a-9484b24e-c03a-4782-9779-550e9b865806#ref=rss)
+### rund
+
+* [https://www.spiegel.de/wissenschaft/natur/inventur-im-london-zoo-wieviele-tiere-seid-ihr-denn](https://www.spiegel.de/wissenschaft/natur/inventur-im-london-zoo-wieviele-tiere-seid-ihr-denn-a-3a1b0ff7-bb29-4d26-925b-922b52f63b43#ref=rss)
+* [https://www.spiegel.de/panorama/mit-dem-auto-durch-nordafrika-erinnerungen-an-eine-reise-die-so-heute-nicht-mehr-moeglich-waere](https://www.spiegel.de/panorama/mit-dem-auto-durch-nordafrika-erinnerungen-an-eine-reise-die-so-heute-nicht-mehr-moeglich-waere-a-5efaca1c-f4b5-47df-ac2c-efdfea8c665d#ref=rss)
+### hauptstadt
+
+* [https://www.spiegel.de/wissenschaft/natur/inventur-im-london-zoo-wieviele-tiere-seid-ihr-denn](https://www.spiegel.de/wissenschaft/natur/inventur-im-london-zoo-wieviele-tiere-seid-ihr-denn-a-3a1b0ff7-bb29-4d26-925b-922b52f63b43#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-vom-flughafen-damaskus-starten-ab-dienstag-wieder-internationale-fluege](https://www.spiegel.de/ausland/syrien-vom-flughafen-damaskus-starten-ab-dienstag-wieder-internationale-fluege-a-e9977a62-fc85-4974-a534-e33991c5d6c3#ref=rss)
+### alfa
+
+* [https://www.spiegel.de/auto/alfa-romeo-junior-im-test-der-italiener-der-nicht-milano-heissen-darf](https://www.spiegel.de/auto/alfa-romeo-junior-im-test-der-italiener-der-nicht-milano-heissen-darf-a-a7fb2fc9-fd42-4601-929b-2b0001006049#ref=rss)
+### romeo
+
+* [https://www.spiegel.de/auto/alfa-romeo-junior-im-test-der-italiener-der-nicht-milano-heissen-darf](https://www.spiegel.de/auto/alfa-romeo-junior-im-test-der-italiener-der-nicht-milano-heissen-darf-a-a7fb2fc9-fd42-4601-929b-2b0001006049#ref=rss)
+### test
+
+* [https://www.spiegel.de/auto/alfa-romeo-junior-im-test-der-italiener-der-nicht-milano-heissen-darf](https://www.spiegel.de/auto/alfa-romeo-junior-im-test-der-italiener-der-nicht-milano-heissen-darf-a-a7fb2fc9-fd42-4601-929b-2b0001006049#ref=rss)
+* [https://www.spiegel.de/tests/haushalt/test-fuenf-lichtwecker-good-day-sunshine](https://www.spiegel.de/tests/haushalt/test-fuenf-lichtwecker-good-day-sunshine-a-86d54520-7410-45fc-a474-ff90a2f45584#ref=rss)
+### erste
+
+* [https://www.spiegel.de/auto/alfa-romeo-junior-im-test-der-italiener-der-nicht-milano-heissen-darf](https://www.spiegel.de/auto/alfa-romeo-junior-im-test-der-italiener-der-nicht-milano-heissen-darf-a-a7fb2fc9-fd42-4601-929b-2b0001006049#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-cyprien-sarrazin-erwartete-lange-reha-rueckkehr-in-den-skisport-ungewiss](https://www.spiegel.de/sport/wintersport/ski-alpin-cyprien-sarrazin-erwartete-lange-reha-rueckkehr-in-den-skisport-ungewiss-a-d386ba15-2d9b-433e-bc61-b4d1f929bc80#ref=rss)
+### manchester
+
+* [https://www.spiegel.de/sport/fussball/premier-league-manchester-city-gewinnt-zweites-spiel-in-folge-niclas-fuellkrug-trifft-zum-1-4](https://www.spiegel.de/sport/fussball/premier-league-manchester-city-gewinnt-zweites-spiel-in-folge-niclas-fuellkrug-trifft-zum-1-4-a-1c053cd5-2463-46ea-ba89-903c8bf0c2e4#ref=rss)
+### city
+
+* [https://www.spiegel.de/sport/fussball/premier-league-manchester-city-gewinnt-zweites-spiel-in-folge-niclas-fuellkrug-trifft-zum-1-4](https://www.spiegel.de/sport/fussball/premier-league-manchester-city-gewinnt-zweites-spiel-in-folge-niclas-fuellkrug-trifft-zum-1-4-a-1c053cd5-2463-46ea-ba89-903c8bf0c2e4#ref=rss)
+### gewinnt
+
+* [https://www.spiegel.de/sport/fussball/premier-league-manchester-city-gewinnt-zweites-spiel-in-folge-niclas-fuellkrug-trifft-zum-1-4](https://www.spiegel.de/sport/fussball/premier-league-manchester-city-gewinnt-zweites-spiel-in-folge-niclas-fuellkrug-trifft-zum-1-4-a-1c053cd5-2463-46ea-ba89-903c8bf0c2e4#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-stefan-kraft-gewinnt-oesterreichischen-dreikampf-in-innsbruck](https://www.spiegel.de/sport/wintersport/vierschanzentournee-stefan-kraft-gewinnt-oesterreichischen-dreikampf-in-innsbruck-a-02439010-337c-4320-99c3-1d8323e3891f#ref=rss)
+### niclas
+
+* [https://www.spiegel.de/sport/fussball/premier-league-manchester-city-gewinnt-zweites-spiel-in-folge-niclas-fuellkrug-trifft-zum-1-4](https://www.spiegel.de/sport/fussball/premier-league-manchester-city-gewinnt-zweites-spiel-in-folge-niclas-fuellkrug-trifft-zum-1-4-a-1c053cd5-2463-46ea-ba89-903c8bf0c2e4#ref=rss)
+### füllkrug
+
+* [https://www.spiegel.de/sport/fussball/premier-league-manchester-city-gewinnt-zweites-spiel-in-folge-niclas-fuellkrug-trifft-zum-1-4](https://www.spiegel.de/sport/fussball/premier-league-manchester-city-gewinnt-zweites-spiel-in-folge-niclas-fuellkrug-trifft-zum-1-4-a-1c053cd5-2463-46ea-ba89-903c8bf0c2e4#ref=rss)
+### wartet
+
+* [https://www.spiegel.de/sport/vierschanzentournee-dominanz-der-oesterreicher-laesst-die-konkurrenz-staunen-nun-wartet-ein-drama](https://www.spiegel.de/sport/vierschanzentournee-dominanz-der-oesterreicher-laesst-die-konkurrenz-staunen-nun-wartet-ein-drama-a-3c153dc7-89e4-449c-976f-ecfbff313f02#ref=rss)
+### brodeln
+
+* [https://www.spiegel.de/sport/vierschanzentournee-dominanz-der-oesterreicher-laesst-die-konkurrenz-staunen-nun-wartet-ein-drama](https://www.spiegel.de/sport/vierschanzentournee-dominanz-der-oesterreicher-laesst-die-konkurrenz-staunen-nun-wartet-ein-drama-a-3c153dc7-89e4-449c-976f-ecfbff313f02#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/eifel-forscher-finden-hinweise-auf-magmakammern-in-der-eifel](https://www.spiegel.de/wissenschaft/natur/eifel-forscher-finden-hinweise-auf-magmakammern-in-der-eifel-a-e6c0b98f-047f-4160-8218-9dbcde7df58b#ref=rss)
+### leyen
+
+* [https://www.spiegel.de/politik/deutschland/mercosur-abkommen-wie-ursula-von-der-leyen-italien-und-argentinien-ueberzeugen-will](https://www.spiegel.de/politik/deutschland/mercosur-abkommen-wie-ursula-von-der-leyen-italien-und-argentinien-ueberzeugen-will-a-af3ae054-57f3-4e5d-99b6-941f885ce26a#ref=rss)
+### überzeugen
+
+* [https://www.spiegel.de/politik/deutschland/mercosur-abkommen-wie-ursula-von-der-leyen-italien-und-argentinien-ueberzeugen-will](https://www.spiegel.de/politik/deutschland/mercosur-abkommen-wie-ursula-von-der-leyen-italien-und-argentinien-ueberzeugen-will-a-af3ae054-57f3-4e5d-99b6-941f885ce26a#ref=rss)
+### fünf
+
+* [https://www.spiegel.de/tests/haushalt/test-fuenf-lichtwecker-good-day-sunshine](https://www.spiegel.de/tests/haushalt/test-fuenf-lichtwecker-good-day-sunshine-a-86d54520-7410-45fc-a474-ff90a2f45584#ref=rss)
+### wir
+
+* [https://www.spiegel.de/tests/haushalt/test-fuenf-lichtwecker-good-day-sunshine](https://www.spiegel.de/tests/haushalt/test-fuenf-lichtwecker-good-day-sunshine-a-86d54520-7410-45fc-a474-ff90a2f45584#ref=rss)
+* [https://www.spiegel.de/geschichte/davon-traeumten-die-menschen-des-mittelalters-satt-ewig-jung-und-selbstbestimmt](https://www.spiegel.de/geschichte/davon-traeumten-die-menschen-des-mittelalters-satt-ewig-jung-und-selbstbestimmt-a-5eac3789-82fa-4a21-a774-d5ccada0de6c#ref=rss)
+### kieran
+
+* [https://www.spiegel.de/kultur/kieran-culkin-und-mark-ruffalo-rauchten-joint-waehrend-theater-premiere](https://www.spiegel.de/kultur/kieran-culkin-und-mark-ruffalo-rauchten-joint-waehrend-theater-premiere-a-339670ff-534d-47cc-9696-1ed99a005113#ref=rss)
+### culkin
+
+* [https://www.spiegel.de/kultur/kieran-culkin-und-mark-ruffalo-rauchten-joint-waehrend-theater-premiere](https://www.spiegel.de/kultur/kieran-culkin-und-mark-ruffalo-rauchten-joint-waehrend-theater-premiere-a-339670ff-534d-47cc-9696-1ed99a005113#ref=rss)
+### mark
+
+* [https://www.spiegel.de/kultur/kieran-culkin-und-mark-ruffalo-rauchten-joint-waehrend-theater-premiere](https://www.spiegel.de/kultur/kieran-culkin-und-mark-ruffalo-rauchten-joint-waehrend-theater-premiere-a-339670ff-534d-47cc-9696-1ed99a005113#ref=rss)
+### einst
+
+* [https://www.spiegel.de/kultur/kieran-culkin-und-mark-ruffalo-rauchten-joint-waehrend-theater-premiere](https://www.spiegel.de/kultur/kieran-culkin-und-mark-ruffalo-rauchten-joint-waehrend-theater-premiere-a-339670ff-534d-47cc-9696-1ed99a005113#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/eifel-forscher-finden-hinweise-auf-magmakammern-in-der-eifel](https://www.spiegel.de/wissenschaft/natur/eifel-forscher-finden-hinweise-auf-magmakammern-in-der-eifel-a-e6c0b98f-047f-4160-8218-9dbcde7df58b#ref=rss)
+### davon
+
+* [https://www.spiegel.de/geschichte/davon-traeumten-die-menschen-des-mittelalters-satt-ewig-jung-und-selbstbestimmt](https://www.spiegel.de/geschichte/davon-traeumten-die-menschen-des-mittelalters-satt-ewig-jung-und-selbstbestimmt-a-5eac3789-82fa-4a21-a774-d5ccada0de6c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/nsu-3-0-spd-politiker-helge-lindh-erhaelt-rechtsextremen-drohbrief](https://www.spiegel.de/politik/deutschland/nsu-3-0-spd-politiker-helge-lindh-erhaelt-rechtsextremen-drohbrief-a-c5505cc4-95cb-4d8d-807e-c0d481782f8e#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/panorama/justiz/las-vegas-explodierter-tesla-fahrer-des-cybertrucks-war-trump-fan-und-us-elitesoldat](https://www.spiegel.de/panorama/justiz/las-vegas-explodierter-tesla-fahrer-des-cybertrucks-war-trump-fan-und-us-elitesoldat-a-fbc85998-d37d-4ee3-9354-7d705a05eb96#ref=rss)
-* [https://www.spiegel.de/ausland/myanmars-militaerjunta-verspricht-amnestie-fuer-tausende-gefangene](https://www.spiegel.de/ausland/myanmars-militaerjunta-verspricht-amnestie-fuer-tausende-gefangene-a-eed6a41d-93f7-45a3-991b-99bb1d01871b#ref=rss)
-* [https://www.spiegel.de/ausland/psychedelische-erfahrung-in-mexiko-drogentrip-gegen-die-sucht-alles-gute-vom-spiegel](https://www.spiegel.de/ausland/psychedelische-erfahrung-in-mexiko-drogentrip-gegen-die-sucht-alles-gute-vom-spiegel-a-83e4b122-386e-4060-a310-9f691ffaaf75#ref=rss)
-### 2
+* [https://www.spiegel.de/geschichte/davon-traeumten-die-menschen-des-mittelalters-satt-ewig-jung-und-selbstbestimmt](https://www.spiegel.de/geschichte/davon-traeumten-die-menschen-des-mittelalters-satt-ewig-jung-und-selbstbestimmt-a-5eac3789-82fa-4a21-a774-d5ccada0de6c#ref=rss)
+### bobfahrerin
 
-* [https://www.spiegel.de/panorama/leute/dune-2-zendaya-hatte-angst-in-ihren-wuestenanzug-zu-pinkeln](https://www.spiegel.de/panorama/leute/dune-2-zendaya-hatte-angst-in-ihren-wuestenanzug-zu-pinkeln-a-cae8400c-9f85-42df-ae04-e43c0bde84f9#ref=rss)
-* [https://www.spiegel.de/ausland/estlink-kabel-in-der-ostsee-schweden-schickt-spezialschiff-zur-unterstuetzung-finnischer-ermittlungen](https://www.spiegel.de/ausland/estlink-kabel-in-der-ostsee-schweden-schickt-spezialschiff-zur-unterstuetzung-finnischer-ermittlungen-a-d25d3ef9-f5eb-40fe-88fc-ccee3327aeaf#ref=rss)
-### unter
+* [https://www.spiegel.de/sport/wintersport/wintersport-bobfahrerin-lisa-buckwitz-stellt-bahnrekord-auf-und-ist-nicht-zufrieden](https://www.spiegel.de/sport/wintersport/wintersport-bobfahrerin-lisa-buckwitz-stellt-bahnrekord-auf-und-ist-nicht-zufrieden-a-62ed53b0-2296-4e17-8b50-730374691329#ref=rss)
+### lisa
 
-* [https://www.spiegel.de/panorama/leute/dune-2-zendaya-hatte-angst-in-ihren-wuestenanzug-zu-pinkeln](https://www.spiegel.de/panorama/leute/dune-2-zendaya-hatte-angst-in-ihren-wuestenanzug-zu-pinkeln-a-cae8400c-9f85-42df-ae04-e43c0bde84f9#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-russische-truppen-ruecken-im-donbass-vor](https://www.spiegel.de/ausland/ukraine-krieg-russische-truppen-ruecken-im-donbass-vor-a-e09da8b5-57be-4d74-9b9c-d8c0acf0b6b6#ref=rss)
-* [https://www.spiegel.de/ausland/estlink-kabel-in-der-ostsee-schweden-schickt-spezialschiff-zur-unterstuetzung-finnischer-ermittlungen](https://www.spiegel.de/ausland/estlink-kabel-in-der-ostsee-schweden-schickt-spezialschiff-zur-unterstuetzung-finnischer-ermittlungen-a-d25d3ef9-f5eb-40fe-88fc-ccee3327aeaf#ref=rss)
-### halten
+* [https://www.spiegel.de/sport/wintersport/wintersport-bobfahrerin-lisa-buckwitz-stellt-bahnrekord-auf-und-ist-nicht-zufrieden](https://www.spiegel.de/sport/wintersport/wintersport-bobfahrerin-lisa-buckwitz-stellt-bahnrekord-auf-und-ist-nicht-zufrieden-a-62ed53b0-2296-4e17-8b50-730374691329#ref=rss)
+### buckwitz
 
-* [https://www.spiegel.de/panorama/leute/dune-2-zendaya-hatte-angst-in-ihren-wuestenanzug-zu-pinkeln](https://www.spiegel.de/panorama/leute/dune-2-zendaya-hatte-angst-in-ihren-wuestenanzug-zu-pinkeln-a-cae8400c-9f85-42df-ae04-e43c0bde84f9#ref=rss)
-* [https://www.spiegel.de/psychologie/ordnung-halten-so-kommen-sie-in-zehn-schritten-zu-einem-aufgeraeumten-leben](https://www.spiegel.de/psychologie/ordnung-halten-so-kommen-sie-in-zehn-schritten-zu-einem-aufgeraeumten-leben-a-b2d49db1-d348-46ba-9ea7-6ebbacfbedda#ref=rss)
-### bundestagswahl
+* [https://www.spiegel.de/sport/wintersport/wintersport-bobfahrerin-lisa-buckwitz-stellt-bahnrekord-auf-und-ist-nicht-zufrieden](https://www.spiegel.de/sport/wintersport/wintersport-bobfahrerin-lisa-buckwitz-stellt-bahnrekord-auf-und-ist-nicht-zufrieden-a-62ed53b0-2296-4e17-8b50-730374691329#ref=rss)
+### gleichberechtigung
 
-* [https://www.spiegel.de/politik/deutschland/elon-musk-und-die-bundestagswahl-wie-weit-reicht-sein-einfluss-und-wer-kann-ihn-stoppen](https://www.spiegel.de/politik/deutschland/elon-musk-und-die-bundestagswahl-wie-weit-reicht-sein-einfluss-und-wer-kann-ihn-stoppen-a-b26aebf0-4122-401d-a935-051365d73fc0#ref=rss)
-* [https://www.spiegel.de/politik/bundestagswahl-2025-cdu-bekommt-fast-zehnmal-so-viele-grossspenden-wie-die-spd](https://www.spiegel.de/politik/bundestagswahl-2025-cdu-bekommt-fast-zehnmal-so-viele-grossspenden-wie-die-spd-a-55b541bf-b6de-49e1-a872-229ccdabf865#ref=rss)
-* [https://www.spiegel.de/politik/bundestagswahl-2025-christian-lindner-macht-steuersenkungen-zur-bedingung-fuer-koalition](https://www.spiegel.de/politik/bundestagswahl-2025-christian-lindner-macht-steuersenkungen-zur-bedingung-fuer-koalition-a-c7505bc9-a347-47aa-ab21-3b7608eb1172#ref=rss)
-### ordnung
+* [https://www.spiegel.de/kultur/thilo-mischke-moderiert-doch-nicht-ttt-was-die-personalie-ueber-gleichberechtigung-verraet](https://www.spiegel.de/kultur/thilo-mischke-moderiert-doch-nicht-ttt-was-die-personalie-ueber-gleichberechtigung-verraet-a-461c8e96-7260-4d03-921b-9ee49153acbd#ref=rss)
+### moderator
 
-* [https://www.spiegel.de/psychologie/ordnung-halten-so-kommen-sie-in-zehn-schritten-zu-einem-aufgeraeumten-leben](https://www.spiegel.de/psychologie/ordnung-halten-so-kommen-sie-in-zehn-schritten-zu-einem-aufgeraeumten-leben-a-b2d49db1-d348-46ba-9ea7-6ebbacfbedda#ref=rss)
-### merz
+* [https://www.spiegel.de/kultur/thilo-mischke-moderiert-doch-nicht-ttt-was-die-personalie-ueber-gleichberechtigung-verraet](https://www.spiegel.de/kultur/thilo-mischke-moderiert-doch-nicht-ttt-was-die-personalie-ueber-gleichberechtigung-verraet-a-461c8e96-7260-4d03-921b-9ee49153acbd#ref=rss)
+* [https://www.spiegel.de/kultur/tv/ard-thilo-mischke-wird-doch-nicht-moderator-bei-ttt](https://www.spiegel.de/kultur/tv/ard-thilo-mischke-wird-doch-nicht-moderator-bei-ttt-a-e82c55a6-637a-46f4-85b1-766fc418342e#ref=rss)
+### titel
 
-* [https://www.spiegel.de/stil/dry-january-die-besten-alkoholfreien-drinks-barkeeperin-gibt-tipps](https://www.spiegel.de/stil/dry-january-die-besten-alkoholfreien-drinks-barkeeperin-gibt-tipps-a-5c341edf-eb36-4aa4-bbad-c3cc9f0ace0d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-und-adenauer-boellerverbot-afd-hochburg-bitterfeld-wolfen-wg-garantie](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-und-adenauer-boellerverbot-afd-hochburg-bitterfeld-wolfen-wg-garantie-a-6be7dbe1-c3fa-482c-a054-6f0066524448#ref=rss)
-### olaf
+* [https://www.spiegel.de/kultur/thilo-mischke-moderiert-doch-nicht-ttt-was-die-personalie-ueber-gleichberechtigung-verraet](https://www.spiegel.de/kultur/thilo-mischke-moderiert-doch-nicht-ttt-was-die-personalie-ueber-gleichberechtigung-verraet-a-461c8e96-7260-4d03-921b-9ee49153acbd#ref=rss)
+* [https://www.spiegel.de/kultur/tv/ard-thilo-mischke-wird-doch-nicht-moderator-bei-ttt](https://www.spiegel.de/kultur/tv/ard-thilo-mischke-wird-doch-nicht-moderator-bei-ttt-a-e82c55a6-637a-46f4-85b1-766fc418342e#ref=rss)
+### thesen
 
-* [https://www.spiegel.de/politik/deutschland/spd-jusos-draengen-olaf-scholz-zu-wg-garantie](https://www.spiegel.de/politik/deutschland/spd-jusos-draengen-olaf-scholz-zu-wg-garantie-a-8988458a-9f75-4ed3-b1d3-f1ccf4deab71#ref=rss)
-* [https://www.spiegel.de/politik/kanzler-olaf-scholz-zu-attacken-von-elon-musk-da-muss-man-cool-bleiben](https://www.spiegel.de/politik/kanzler-olaf-scholz-zu-attacken-von-elon-musk-da-muss-man-cool-bleiben-a-80a608f6-4cd9-4cc8-be6e-209af5d3849a#ref=rss)
-### scholz
+* [https://www.spiegel.de/kultur/thilo-mischke-moderiert-doch-nicht-ttt-was-die-personalie-ueber-gleichberechtigung-verraet](https://www.spiegel.de/kultur/thilo-mischke-moderiert-doch-nicht-ttt-was-die-personalie-ueber-gleichberechtigung-verraet-a-461c8e96-7260-4d03-921b-9ee49153acbd#ref=rss)
+* [https://www.spiegel.de/kultur/tv/ard-thilo-mischke-wird-doch-nicht-moderator-bei-ttt](https://www.spiegel.de/kultur/tv/ard-thilo-mischke-wird-doch-nicht-moderator-bei-ttt-a-e82c55a6-637a-46f4-85b1-766fc418342e#ref=rss)
+### temperamente
 
-* [https://www.spiegel.de/politik/deutschland/spd-jusos-draengen-olaf-scholz-zu-wg-garantie](https://www.spiegel.de/politik/deutschland/spd-jusos-draengen-olaf-scholz-zu-wg-garantie-a-8988458a-9f75-4ed3-b1d3-f1ccf4deab71#ref=rss)
-* [https://www.spiegel.de/politik/kanzler-olaf-scholz-zu-attacken-von-elon-musk-da-muss-man-cool-bleiben](https://www.spiegel.de/politik/kanzler-olaf-scholz-zu-attacken-von-elon-musk-da-muss-man-cool-bleiben-a-80a608f6-4cd9-4cc8-be6e-209af5d3849a#ref=rss)
-### donald
+* [https://www.spiegel.de/kultur/thilo-mischke-moderiert-doch-nicht-ttt-was-die-personalie-ueber-gleichberechtigung-verraet](https://www.spiegel.de/kultur/thilo-mischke-moderiert-doch-nicht-ttt-was-die-personalie-ueber-gleichberechtigung-verraet-a-461c8e96-7260-4d03-921b-9ee49153acbd#ref=rss)
+* [https://www.spiegel.de/kultur/tv/ard-thilo-mischke-wird-doch-nicht-moderator-bei-ttt](https://www.spiegel.de/kultur/tv/ard-thilo-mischke-wird-doch-nicht-moderator-bei-ttt-a-e82c55a6-637a-46f4-85b1-766fc418342e#ref=rss)
+### abhängigkeit
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-russische-truppen-ruecken-im-donbass-vor](https://www.spiegel.de/ausland/ukraine-krieg-russische-truppen-ruecken-im-donbass-vor-a-e09da8b5-57be-4d74-9b9c-d8c0acf0b6b6#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-strafverkuendung-im-schweigegeldprozess-fuer-den-10-januar-angesetzt](https://www.spiegel.de/ausland/donald-trump-strafverkuendung-im-schweigegeldprozess-fuer-den-10-januar-angesetzt-a-23739ae7-04ea-4ba6-afad-7134238da28f#ref=rss)
-### trump
+* [https://www.spiegel.de/auto/auto-abhaengigkeit-macht-laut-us-studie-ungluecklich](https://www.spiegel.de/auto/auto-abhaengigkeit-macht-laut-us-studie-ungluecklich-a-a467c6a9-6cad-4ed2-a41b-4aa974ac0dc0#ref=rss)
+### erinnerungen
 
-* [https://www.spiegel.de/panorama/las-vegas-ermittler-behandeln-explosion-von-cybertruck-als-suizid](https://www.spiegel.de/panorama/las-vegas-ermittler-behandeln-explosion-von-cybertruck-als-suizid-a-61ffbe71-d1a4-49b6-af0f-3b18b835da4f#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-strafverkuendung-im-schweigegeldprozess-fuer-den-10-januar-angesetzt](https://www.spiegel.de/ausland/donald-trump-strafverkuendung-im-schweigegeldprozess-fuer-den-10-januar-angesetzt-a-23739ae7-04ea-4ba6-afad-7134238da28f#ref=rss)
+* [https://www.spiegel.de/panorama/mit-dem-auto-durch-nordafrika-erinnerungen-an-eine-reise-die-so-heute-nicht-mehr-moeglich-waere](https://www.spiegel.de/panorama/mit-dem-auto-durch-nordafrika-erinnerungen-an-eine-reise-die-so-heute-nicht-mehr-moeglich-waere-a-5efaca1c-f4b5-47df-ac2c-efdfea8c665d#ref=rss)
+### reise
+
+* [https://www.spiegel.de/panorama/mit-dem-auto-durch-nordafrika-erinnerungen-an-eine-reise-die-so-heute-nicht-mehr-moeglich-waere](https://www.spiegel.de/panorama/mit-dem-auto-durch-nordafrika-erinnerungen-an-eine-reise-die-so-heute-nicht-mehr-moeglich-waere-a-5efaca1c-f4b5-47df-ac2c-efdfea8c665d#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/panorama/mit-dem-auto-durch-nordafrika-erinnerungen-an-eine-reise-die-so-heute-nicht-mehr-moeglich-waere](https://www.spiegel.de/panorama/mit-dem-auto-durch-nordafrika-erinnerungen-an-eine-reise-die-so-heute-nicht-mehr-moeglich-waere-a-5efaca1c-f4b5-47df-ac2c-efdfea8c665d#ref=rss)
+### wäre
+
+* [https://www.spiegel.de/panorama/mit-dem-auto-durch-nordafrika-erinnerungen-an-eine-reise-die-so-heute-nicht-mehr-moeglich-waere](https://www.spiegel.de/panorama/mit-dem-auto-durch-nordafrika-erinnerungen-an-eine-reise-die-so-heute-nicht-mehr-moeglich-waere-a-5efaca1c-f4b5-47df-ac2c-efdfea8c665d#ref=rss)
+### fc
+
+* [https://www.spiegel.de/sport/fussball/la-liga-fc-barcelona-darf-dani-olmo-nicht-registrieren-spanischer-verband-rfef-bestaetigt-entscheidung](https://www.spiegel.de/sport/fussball/la-liga-fc-barcelona-darf-dani-olmo-nicht-registrieren-spanischer-verband-rfef-bestaetigt-entscheidung-a-651101a6-763e-46dd-b634-8b5024b68425#ref=rss)
+### barcelona
+
+* [https://www.spiegel.de/sport/fussball/la-liga-fc-barcelona-darf-dani-olmo-nicht-registrieren-spanischer-verband-rfef-bestaetigt-entscheidung](https://www.spiegel.de/sport/fussball/la-liga-fc-barcelona-darf-dani-olmo-nicht-registrieren-spanischer-verband-rfef-bestaetigt-entscheidung-a-651101a6-763e-46dd-b634-8b5024b68425#ref=rss)
+### dani
+
+* [https://www.spiegel.de/sport/fussball/la-liga-fc-barcelona-darf-dani-olmo-nicht-registrieren-spanischer-verband-rfef-bestaetigt-entscheidung](https://www.spiegel.de/sport/fussball/la-liga-fc-barcelona-darf-dani-olmo-nicht-registrieren-spanischer-verband-rfef-bestaetigt-entscheidung-a-651101a6-763e-46dd-b634-8b5024b68425#ref=rss)
+### olmo
+
+* [https://www.spiegel.de/sport/fussball/la-liga-fc-barcelona-darf-dani-olmo-nicht-registrieren-spanischer-verband-rfef-bestaetigt-entscheidung](https://www.spiegel.de/sport/fussball/la-liga-fc-barcelona-darf-dani-olmo-nicht-registrieren-spanischer-verband-rfef-bestaetigt-entscheidung-a-651101a6-763e-46dd-b634-8b5024b68425#ref=rss)
+### rfef
+
+* [https://www.spiegel.de/sport/fussball/la-liga-fc-barcelona-darf-dani-olmo-nicht-registrieren-spanischer-verband-rfef-bestaetigt-entscheidung](https://www.spiegel.de/sport/fussball/la-liga-fc-barcelona-darf-dani-olmo-nicht-registrieren-spanischer-verband-rfef-bestaetigt-entscheidung-a-651101a6-763e-46dd-b634-8b5024b68425#ref=rss)
+### internationalen
+
+* [https://www.spiegel.de/sport/fussball/la-liga-fc-barcelona-darf-dani-olmo-nicht-registrieren-spanischer-verband-rfef-bestaetigt-entscheidung](https://www.spiegel.de/sport/fussball/la-liga-fc-barcelona-darf-dani-olmo-nicht-registrieren-spanischer-verband-rfef-bestaetigt-entscheidung-a-651101a6-763e-46dd-b634-8b5024b68425#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-vom-flughafen-damaskus-starten-ab-dienstag-wieder-internationale-fluege](https://www.spiegel.de/ausland/syrien-vom-flughafen-damaskus-starten-ab-dienstag-wieder-internationale-fluege-a-e9977a62-fc85-4974-a534-e33991c5d6c3#ref=rss)
+### innsbruck
+
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-stefan-kraft-gewinnt-oesterreichischen-dreikampf-in-innsbruck](https://www.spiegel.de/sport/wintersport/vierschanzentournee-stefan-kraft-gewinnt-oesterreichischen-dreikampf-in-innsbruck-a-02439010-337c-4320-99c3-1d8323e3891f#ref=rss)
+### sieg
+
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-stefan-kraft-gewinnt-oesterreichischen-dreikampf-in-innsbruck](https://www.spiegel.de/sport/wintersport/vierschanzentournee-stefan-kraft-gewinnt-oesterreichischen-dreikampf-in-innsbruck-a-02439010-337c-4320-99c3-1d8323e3891f#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-jude-bellingham-schiesst-real-madrid-zum-sieg-vinicius-junior-sieht-rot](https://www.spiegel.de/sport/fussball/fussball-jude-bellingham-schiesst-real-madrid-zum-sieg-vinicius-junior-sieht-rot-a-9484b24e-c03a-4782-9779-550e9b865806#ref=rss)
+### reza
+
+* [https://www.spiegel.de/ausland/iran-festnahme-von-reza-khandan-der-schleierzwang-ist-das-symbol-der-ungerechtigkeit](https://www.spiegel.de/ausland/iran-festnahme-von-reza-khandan-der-schleierzwang-ist-das-symbol-der-ungerechtigkeit-a-531d6bf9-49de-4b7c-990f-819663bd2c62#ref=rss)
+### khandan
+
+* [https://www.spiegel.de/ausland/iran-festnahme-von-reza-khandan-der-schleierzwang-ist-das-symbol-der-ungerechtigkeit](https://www.spiegel.de/ausland/iran-festnahme-von-reza-khandan-der-schleierzwang-ist-das-symbol-der-ungerechtigkeit-a-531d6bf9-49de-4b7c-990f-819663bd2c62#ref=rss)
+### las
+
+* [https://www.spiegel.de/kultur/las-vegas-warum-der-brennende-cybertruck-vor-dem-trump-hotel-das-bild-des-jahres-sein-koennte](https://www.spiegel.de/kultur/las-vegas-warum-der-brennende-cybertruck-vor-dem-trump-hotel-das-bild-des-jahres-sein-koennte-a-0ecbce2b-fe82-4f1d-8e73-4ab93e2f6cbd#ref=rss)
+### vegas
+
+* [https://www.spiegel.de/kultur/las-vegas-warum-der-brennende-cybertruck-vor-dem-trump-hotel-das-bild-des-jahres-sein-koennte](https://www.spiegel.de/kultur/las-vegas-warum-der-brennende-cybertruck-vor-dem-trump-hotel-das-bild-des-jahres-sein-koennte-a-0ecbce2b-fe82-4f1d-8e73-4ab93e2f6cbd#ref=rss)
+### bild
+
+* [https://www.spiegel.de/kultur/las-vegas-warum-der-brennende-cybertruck-vor-dem-trump-hotel-das-bild-des-jahres-sein-koennte](https://www.spiegel.de/kultur/las-vegas-warum-der-brennende-cybertruck-vor-dem-trump-hotel-das-bild-des-jahres-sein-koennte-a-0ecbce2b-fe82-4f1d-8e73-4ab93e2f6cbd#ref=rss)
+### uspräsidenten
+
+* [https://www.spiegel.de/kultur/las-vegas-warum-der-brennende-cybertruck-vor-dem-trump-hotel-das-bild-des-jahres-sein-koennte](https://www.spiegel.de/kultur/las-vegas-warum-der-brennende-cybertruck-vor-dem-trump-hotel-das-bild-des-jahres-sein-koennte-a-0ecbce2b-fe82-4f1d-8e73-4ab93e2f6cbd#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-was-sie-ueber-das-urteil-im-schweigegeld-prozess-wissen-muessen](https://www.spiegel.de/ausland/donald-trump-was-sie-ueber-das-urteil-im-schweigegeld-prozess-wissen-muessen-a-aa7e20df-c77e-48db-b7e8-6490adc73a8c#ref=rss)
+### carlos
+
+* [https://www.spiegel.de/kultur/musik/carlos-santana-sagt-konzerte-ab-finger-gebrochen](https://www.spiegel.de/kultur/musik/carlos-santana-sagt-konzerte-ab-finger-gebrochen-a-3ffbd457-7707-4711-a74f-df747481408f#ref=rss)
+### santana
+
+* [https://www.spiegel.de/kultur/musik/carlos-santana-sagt-konzerte-ab-finger-gebrochen](https://www.spiegel.de/kultur/musik/carlos-santana-sagt-konzerte-ab-finger-gebrochen-a-3ffbd457-7707-4711-a74f-df747481408f#ref=rss)
+### finger
+
+* [https://www.spiegel.de/kultur/musik/carlos-santana-sagt-konzerte-ab-finger-gebrochen](https://www.spiegel.de/kultur/musik/carlos-santana-sagt-konzerte-ab-finger-gebrochen-a-3ffbd457-7707-4711-a74f-df747481408f#ref=rss)
+### gebrochen
+
+* [https://www.spiegel.de/kultur/musik/carlos-santana-sagt-konzerte-ab-finger-gebrochen](https://www.spiegel.de/kultur/musik/carlos-santana-sagt-konzerte-ab-finger-gebrochen-a-3ffbd457-7707-4711-a74f-df747481408f#ref=rss)
+### gestürzt
+
+* [https://www.spiegel.de/kultur/musik/carlos-santana-sagt-konzerte-ab-finger-gebrochen](https://www.spiegel.de/kultur/musik/carlos-santana-sagt-konzerte-ab-finger-gebrochen-a-3ffbd457-7707-4711-a74f-df747481408f#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-cyprien-sarrazin-erwartete-lange-reha-rueckkehr-in-den-skisport-ungewiss](https://www.spiegel.de/sport/wintersport/ski-alpin-cyprien-sarrazin-erwartete-lange-reha-rueckkehr-in-den-skisport-ungewiss-a-d386ba15-2d9b-433e-bc61-b4d1f929bc80#ref=rss)
+### gewalt
+
+* [https://www.spiegel.de/familie/psychische-gewalt-gegen-kinder-wann-greife-ich-in-die-erziehung-anderer-eltern-ein](https://www.spiegel.de/familie/psychische-gewalt-gegen-kinder-wann-greife-ich-in-die-erziehung-anderer-eltern-ein-a-5e7138f4-0384-454d-a39e-e1f5759dd805#ref=rss)
+### ich
+
+* [https://www.spiegel.de/familie/psychische-gewalt-gegen-kinder-wann-greife-ich-in-die-erziehung-anderer-eltern-ein](https://www.spiegel.de/familie/psychische-gewalt-gegen-kinder-wann-greife-ich-in-die-erziehung-anderer-eltern-ein-a-5e7138f4-0384-454d-a39e-e1f5759dd805#ref=rss)
+### joe
+
+* [https://www.spiegel.de/panorama/leute/joe-biden-freiheitsmedaille-fuer-bono-lionel-messi-magic-johnson-jane-goodall](https://www.spiegel.de/panorama/leute/joe-biden-freiheitsmedaille-fuer-bono-lionel-messi-magic-johnson-jane-goodall-a-111f31d2-082a-4dbb-9efa-5328118f2469#ref=rss)
+### flughafen
+
+* [https://www.spiegel.de/ausland/syrien-vom-flughafen-damaskus-starten-ab-dienstag-wieder-internationale-fluege](https://www.spiegel.de/ausland/syrien-vom-flughafen-damaskus-starten-ab-dienstag-wieder-internationale-fluege-a-e9977a62-fc85-4974-a534-e33991c5d6c3#ref=rss)
+### damaskus
+
+* [https://www.spiegel.de/ausland/syrien-vom-flughafen-damaskus-starten-ab-dienstag-wieder-internationale-fluege](https://www.spiegel.de/ausland/syrien-vom-flughafen-damaskus-starten-ab-dienstag-wieder-internationale-fluege-a-e9977a62-fc85-4974-a534-e33991c5d6c3#ref=rss)
+### angekündigt
+
+* [https://www.spiegel.de/ausland/syrien-vom-flughafen-damaskus-starten-ab-dienstag-wieder-internationale-fluege](https://www.spiegel.de/ausland/syrien-vom-flughafen-damaskus-starten-ab-dienstag-wieder-internationale-fluege-a-e9977a62-fc85-4974-a534-e33991c5d6c3#ref=rss)
+* [https://www.spiegel.de/kultur/tv/ard-thilo-mischke-wird-doch-nicht-moderator-bei-ttt](https://www.spiegel.de/kultur/tv/ard-thilo-mischke-wird-doch-nicht-moderator-bei-ttt-a-e82c55a6-637a-46f4-85b1-766fc418342e#ref=rss)
+### washington
+
+* [https://www.spiegel.de/kultur/washington-post-ann-telnaes-darf-jeff-bezos-nicht-karikieren-und-kuendigt](https://www.spiegel.de/kultur/washington-post-ann-telnaes-darf-jeff-bezos-nicht-karikieren-und-kuendigt-a-94ccdfcd-44ff-4b35-a971-7b57c9362277#ref=rss)
+### post
+
+* [https://www.spiegel.de/kultur/washington-post-ann-telnaes-darf-jeff-bezos-nicht-karikieren-und-kuendigt](https://www.spiegel.de/kultur/washington-post-ann-telnaes-darf-jeff-bezos-nicht-karikieren-und-kuendigt-a-94ccdfcd-44ff-4b35-a971-7b57c9362277#ref=rss)
+### ann
+
+* [https://www.spiegel.de/kultur/washington-post-ann-telnaes-darf-jeff-bezos-nicht-karikieren-und-kuendigt](https://www.spiegel.de/kultur/washington-post-ann-telnaes-darf-jeff-bezos-nicht-karikieren-und-kuendigt-a-94ccdfcd-44ff-4b35-a971-7b57c9362277#ref=rss)
+### telnaes
+
+* [https://www.spiegel.de/kultur/washington-post-ann-telnaes-darf-jeff-bezos-nicht-karikieren-und-kuendigt](https://www.spiegel.de/kultur/washington-post-ann-telnaes-darf-jeff-bezos-nicht-karikieren-und-kuendigt-a-94ccdfcd-44ff-4b35-a971-7b57c9362277#ref=rss)
+### verliert
+
+* [https://www.spiegel.de/kultur/washington-post-ann-telnaes-darf-jeff-bezos-nicht-karikieren-und-kuendigt](https://www.spiegel.de/kultur/washington-post-ann-telnaes-darf-jeff-bezos-nicht-karikieren-und-kuendigt-a-94ccdfcd-44ff-4b35-a971-7b57c9362277#ref=rss)
+### pulitzerpreisträgerin
+
+* [https://www.spiegel.de/kultur/washington-post-ann-telnaes-darf-jeff-bezos-nicht-karikieren-und-kuendigt](https://www.spiegel.de/kultur/washington-post-ann-telnaes-darf-jeff-bezos-nicht-karikieren-und-kuendigt-a-94ccdfcd-44ff-4b35-a971-7b57c9362277#ref=rss)
+### computer
+
+* [https://www.spiegel.de/wissenschaft/technik/neuromorpher-computer-wie-eine-dresdner-physikerin-das-gehirn-auf-einem-chip-nachbauen-moechte](https://www.spiegel.de/wissenschaft/technik/neuromorpher-computer-wie-eine-dresdner-physikerin-das-gehirn-auf-einem-chip-nachbauen-moechte-a-d3166a84-db52-48ef-8d2f-ddb8a2226ce1#ref=rss)
+### dresdner
+
+* [https://www.spiegel.de/wissenschaft/technik/neuromorpher-computer-wie-eine-dresdner-physikerin-das-gehirn-auf-einem-chip-nachbauen-moechte](https://www.spiegel.de/wissenschaft/technik/neuromorpher-computer-wie-eine-dresdner-physikerin-das-gehirn-auf-einem-chip-nachbauen-moechte-a-d3166a84-db52-48ef-8d2f-ddb8a2226ce1#ref=rss)
+### physikerin
+
+* [https://www.spiegel.de/wissenschaft/technik/neuromorpher-computer-wie-eine-dresdner-physikerin-das-gehirn-auf-einem-chip-nachbauen-moechte](https://www.spiegel.de/wissenschaft/technik/neuromorpher-computer-wie-eine-dresdner-physikerin-das-gehirn-auf-einem-chip-nachbauen-moechte-a-d3166a84-db52-48ef-8d2f-ddb8a2226ce1#ref=rss)
+### cyprien
+
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-cyprien-sarrazin-erwartete-lange-reha-rueckkehr-in-den-skisport-ungewiss](https://www.spiegel.de/sport/wintersport/ski-alpin-cyprien-sarrazin-erwartete-lange-reha-rueckkehr-in-den-skisport-ungewiss-a-d386ba15-2d9b-433e-bc61-b4d1f929bc80#ref=rss)
+### sarrazin
+
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-cyprien-sarrazin-erwartete-lange-reha-rueckkehr-in-den-skisport-ungewiss](https://www.spiegel.de/sport/wintersport/ski-alpin-cyprien-sarrazin-erwartete-lange-reha-rueckkehr-in-den-skisport-ungewiss-a-d386ba15-2d9b-433e-bc61-b4d1f929bc80#ref=rss)
+### rückkehr
+
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-cyprien-sarrazin-erwartete-lange-reha-rueckkehr-in-den-skisport-ungewiss](https://www.spiegel.de/sport/wintersport/ski-alpin-cyprien-sarrazin-erwartete-lange-reha-rueckkehr-in-den-skisport-ungewiss-a-d386ba15-2d9b-433e-bc61-b4d1f929bc80#ref=rss)
+### skisport
+
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-cyprien-sarrazin-erwartete-lange-reha-rueckkehr-in-den-skisport-ungewiss](https://www.spiegel.de/sport/wintersport/ski-alpin-cyprien-sarrazin-erwartete-lange-reha-rueckkehr-in-den-skisport-ungewiss-a-d386ba15-2d9b-433e-bc61-b4d1f929bc80#ref=rss)
+### ungewiss
+
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-cyprien-sarrazin-erwartete-lange-reha-rueckkehr-in-den-skisport-ungewiss](https://www.spiegel.de/sport/wintersport/ski-alpin-cyprien-sarrazin-erwartete-lange-reha-rueckkehr-in-den-skisport-ungewiss-a-d386ba15-2d9b-433e-bc61-b4d1f929bc80#ref=rss)
+### schwer
+
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-cyprien-sarrazin-erwartete-lange-reha-rueckkehr-in-den-skisport-ungewiss](https://www.spiegel.de/sport/wintersport/ski-alpin-cyprien-sarrazin-erwartete-lange-reha-rueckkehr-in-den-skisport-ungewiss-a-d386ba15-2d9b-433e-bc61-b4d1f929bc80#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/eifel-forscher-finden-hinweise-auf-magmakammern-in-der-eifel](https://www.spiegel.de/wissenschaft/natur/eifel-forscher-finden-hinweise-auf-magmakammern-in-der-eifel-a-e6c0b98f-047f-4160-8218-9dbcde7df58b#ref=rss)
+### a1
+
+* [https://www.spiegel.de/panorama/a1-bei-sittensen-transporter-kommt-von-der-autobahn-ab-hunderte-fische-sterben](https://www.spiegel.de/panorama/a1-bei-sittensen-transporter-kommt-von-der-autobahn-ab-hunderte-fische-sterben-a-e0d0acb8-f42a-4cb8-b830-561a3b29414f#ref=rss)
+### helge
+
+* [https://www.spiegel.de/politik/deutschland/nsu-3-0-spd-politiker-helge-lindh-erhaelt-rechtsextremen-drohbrief](https://www.spiegel.de/politik/deutschland/nsu-3-0-spd-politiker-helge-lindh-erhaelt-rechtsextremen-drohbrief-a-c5505cc4-95cb-4d8d-807e-c0d481782f8e#ref=rss)
+### lindh
+
+* [https://www.spiegel.de/politik/deutschland/nsu-3-0-spd-politiker-helge-lindh-erhaelt-rechtsextremen-drohbrief](https://www.spiegel.de/politik/deutschland/nsu-3-0-spd-politiker-helge-lindh-erhaelt-rechtsextremen-drohbrief-a-c5505cc4-95cb-4d8d-807e-c0d481782f8e#ref=rss)
+### rechtsextremen
+
+* [https://www.spiegel.de/politik/deutschland/nsu-3-0-spd-politiker-helge-lindh-erhaelt-rechtsextremen-drohbrief](https://www.spiegel.de/politik/deutschland/nsu-3-0-spd-politiker-helge-lindh-erhaelt-rechtsextremen-drohbrief-a-c5505cc4-95cb-4d8d-807e-c0d481782f8e#ref=rss)
+### drohbrief
+
+* [https://www.spiegel.de/politik/deutschland/nsu-3-0-spd-politiker-helge-lindh-erhaelt-rechtsextremen-drohbrief](https://www.spiegel.de/politik/deutschland/nsu-3-0-spd-politiker-helge-lindh-erhaelt-rechtsextremen-drohbrief-a-c5505cc4-95cb-4d8d-807e-c0d481782f8e#ref=rss)
 ### real
 
 * [https://www.spiegel.de/sport/fussball/fussball-jude-bellingham-schiesst-real-madrid-zum-sieg-vinicius-junior-sieht-rot](https://www.spiegel.de/sport/fussball/fussball-jude-bellingham-schiesst-real-madrid-zum-sieg-vinicius-junior-sieht-rot-a-9484b24e-c03a-4782-9779-550e9b865806#ref=rss)
@@ -138,240 +375,7 @@ tags: __no_header__
 ### júnior
 
 * [https://www.spiegel.de/sport/fussball/fussball-jude-bellingham-schiesst-real-madrid-zum-sieg-vinicius-junior-sieht-rot](https://www.spiegel.de/sport/fussball/fussball-jude-bellingham-schiesst-real-madrid-zum-sieg-vinicius-junior-sieht-rot-a-9484b24e-c03a-4782-9779-550e9b865806#ref=rss)
-### denn
-
-* [https://www.spiegel.de/sport/fussball/fussball-jude-bellingham-schiesst-real-madrid-zum-sieg-vinicius-junior-sieht-rot](https://www.spiegel.de/sport/fussball/fussball-jude-bellingham-schiesst-real-madrid-zum-sieg-vinicius-junior-sieht-rot-a-9484b24e-c03a-4782-9779-550e9b865806#ref=rss)
-* [https://www.spiegel.de/panorama/charlie-hebdo-am-tag-als-terroristen-seine-redaktion-ueberfielen-hat-luz-verschlafen](https://www.spiegel.de/panorama/charlie-hebdo-am-tag-als-terroristen-seine-redaktion-ueberfielen-hat-luz-verschlafen-a-c5ed8127-30ae-40cb-969d-a840b5b13091#ref=rss)
 ### forscher
 
 * [https://www.spiegel.de/wissenschaft/natur/eifel-forscher-finden-hinweise-auf-magmakammern-in-der-eifel](https://www.spiegel.de/wissenschaft/natur/eifel-forscher-finden-hinweise-auf-magmakammern-in-der-eifel-a-e6c0b98f-047f-4160-8218-9dbcde7df58b#ref=rss)
-### finden
-
-* [https://www.spiegel.de/wissenschaft/natur/eifel-forscher-finden-hinweise-auf-magmakammern-in-der-eifel](https://www.spiegel.de/wissenschaft/natur/eifel-forscher-finden-hinweise-auf-magmakammern-in-der-eifel-a-e6c0b98f-047f-4160-8218-9dbcde7df58b#ref=rss)
-* [https://www.spiegel.de/psychologie/ordnung-halten-so-kommen-sie-in-zehn-schritten-zu-einem-aufgeraeumten-leben](https://www.spiegel.de/psychologie/ordnung-halten-so-kommen-sie-in-zehn-schritten-zu-einem-aufgeraeumten-leben-a-b2d49db1-d348-46ba-9ea7-6ebbacfbedda#ref=rss)
-### schwer
-
-* [https://www.spiegel.de/wissenschaft/natur/eifel-forscher-finden-hinweise-auf-magmakammern-in-der-eifel](https://www.spiegel.de/wissenschaft/natur/eifel-forscher-finden-hinweise-auf-magmakammern-in-der-eifel-a-e6c0b98f-047f-4160-8218-9dbcde7df58b#ref=rss)
-* [https://www.spiegel.de/gesundheit/neujahrsvorsaetze-2025-weniger-suessigkeiten-mehr-lesen-sport-machen-podcast](https://www.spiegel.de/gesundheit/neujahrsvorsaetze-2025-weniger-suessigkeiten-mehr-lesen-sport-machen-podcast-a-1f1f846c-71ae-4162-a308-62758ce4872c#ref=rss)
-### aleph
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/ki-startup-aleph-alpha-aus-heidelberg-die-deutsche-hoffnung-in-der-kuenstlichen-intelligenz](https://www.spiegel.de/netzwelt/netzpolitik/ki-startup-aleph-alpha-aus-heidelberg-die-deutsche-hoffnung-in-der-kuenstlichen-intelligenz-a-5be9255d-840b-4e50-829e-47be5d823825#ref=rss)
-### alpha
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/ki-startup-aleph-alpha-aus-heidelberg-die-deutsche-hoffnung-in-der-kuenstlichen-intelligenz](https://www.spiegel.de/netzwelt/netzpolitik/ki-startup-aleph-alpha-aus-heidelberg-die-deutsche-hoffnung-in-der-kuenstlichen-intelligenz-a-5be9255d-840b-4e50-829e-47be5d823825#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/ki-startup-aleph-alpha-aus-heidelberg-die-deutsche-hoffnung-in-der-kuenstlichen-intelligenz](https://www.spiegel.de/netzwelt/netzpolitik/ki-startup-aleph-alpha-aus-heidelberg-die-deutsche-hoffnung-in-der-kuenstlichen-intelligenz-a-5be9255d-840b-4e50-829e-47be5d823825#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/elon-musk-und-die-bundestagswahl-wie-weit-reicht-sein-einfluss-und-wer-kann-ihn-stoppen](https://www.spiegel.de/politik/deutschland/elon-musk-und-die-bundestagswahl-wie-weit-reicht-sein-einfluss-und-wer-kann-ihn-stoppen-a-b26aebf0-4122-401d-a935-051365d73fc0#ref=rss)
-### intelligenz
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/ki-startup-aleph-alpha-aus-heidelberg-die-deutsche-hoffnung-in-der-kuenstlichen-intelligenz](https://www.spiegel.de/netzwelt/netzpolitik/ki-startup-aleph-alpha-aus-heidelberg-die-deutsche-hoffnung-in-der-kuenstlichen-intelligenz-a-5be9255d-840b-4e50-829e-47be5d823825#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/ki-startup-aleph-alpha-aus-heidelberg-die-deutsche-hoffnung-in-der-kuenstlichen-intelligenz](https://www.spiegel.de/netzwelt/netzpolitik/ki-startup-aleph-alpha-aus-heidelberg-die-deutsche-hoffnung-in-der-kuenstlichen-intelligenz-a-5be9255d-840b-4e50-829e-47be5d823825#ref=rss)
-* [https://www.spiegel.de/politik/kanzler-olaf-scholz-zu-attacken-von-elon-musk-da-muss-man-cool-bleiben](https://www.spiegel.de/politik/kanzler-olaf-scholz-zu-attacken-von-elon-musk-da-muss-man-cool-bleiben-a-80a608f6-4cd9-4cc8-be6e-209af5d3849a#ref=rss)
-### tomiko
-
-* [https://www.spiegel.de/panorama/leute/japanerin-tomiko-itooka-wohl-aeltester-mensch-der-welt-stirbt-mit-116-jahren](https://www.spiegel.de/panorama/leute/japanerin-tomiko-itooka-wohl-aeltester-mensch-der-welt-stirbt-mit-116-jahren-a-c968b633-fd46-4c06-ae28-9d6da2fa6ccc#ref=rss)
-### itooka
-
-* [https://www.spiegel.de/panorama/leute/japanerin-tomiko-itooka-wohl-aeltester-mensch-der-welt-stirbt-mit-116-jahren](https://www.spiegel.de/panorama/leute/japanerin-tomiko-itooka-wohl-aeltester-mensch-der-welt-stirbt-mit-116-jahren-a-c968b633-fd46-4c06-ae28-9d6da2fa6ccc#ref=rss)
-### ältester
-
-* [https://www.spiegel.de/panorama/leute/japanerin-tomiko-itooka-wohl-aeltester-mensch-der-welt-stirbt-mit-116-jahren](https://www.spiegel.de/panorama/leute/japanerin-tomiko-itooka-wohl-aeltester-mensch-der-welt-stirbt-mit-116-jahren-a-c968b633-fd46-4c06-ae28-9d6da2fa6ccc#ref=rss)
-### mensch
-
-* [https://www.spiegel.de/panorama/leute/japanerin-tomiko-itooka-wohl-aeltester-mensch-der-welt-stirbt-mit-116-jahren](https://www.spiegel.de/panorama/leute/japanerin-tomiko-itooka-wohl-aeltester-mensch-der-welt-stirbt-mit-116-jahren-a-c968b633-fd46-4c06-ae28-9d6da2fa6ccc#ref=rss)
-### lebte
-
-* [https://www.spiegel.de/panorama/leute/japanerin-tomiko-itooka-wohl-aeltester-mensch-der-welt-stirbt-mit-116-jahren](https://www.spiegel.de/panorama/leute/japanerin-tomiko-itooka-wohl-aeltester-mensch-der-welt-stirbt-mit-116-jahren-a-c968b633-fd46-4c06-ae28-9d6da2fa6ccc#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/las-vegas-explodierter-tesla-fahrer-des-cybertrucks-war-trump-fan-und-us-elitesoldat](https://www.spiegel.de/panorama/justiz/las-vegas-explodierter-tesla-fahrer-des-cybertrucks-war-trump-fan-und-us-elitesoldat-a-fbc85998-d37d-4ee3-9354-7d705a05eb96#ref=rss)
-### tesla
-
-* [https://www.spiegel.de/panorama/justiz/las-vegas-explodierter-tesla-fahrer-des-cybertrucks-war-trump-fan-und-us-elitesoldat](https://www.spiegel.de/panorama/justiz/las-vegas-explodierter-tesla-fahrer-des-cybertrucks-war-trump-fan-und-us-elitesoldat-a-fbc85998-d37d-4ee3-9354-7d705a05eb96#ref=rss)
-### fahrer
-
-* [https://www.spiegel.de/panorama/justiz/las-vegas-explodierter-tesla-fahrer-des-cybertrucks-war-trump-fan-und-us-elitesoldat](https://www.spiegel.de/panorama/justiz/las-vegas-explodierter-tesla-fahrer-des-cybertrucks-war-trump-fan-und-us-elitesoldat-a-fbc85998-d37d-4ee3-9354-7d705a05eb96#ref=rss)
-### cybertrucks
-
-* [https://www.spiegel.de/panorama/justiz/las-vegas-explodierter-tesla-fahrer-des-cybertrucks-war-trump-fan-und-us-elitesoldat](https://www.spiegel.de/panorama/justiz/las-vegas-explodierter-tesla-fahrer-des-cybertrucks-war-trump-fan-und-us-elitesoldat-a-fbc85998-d37d-4ee3-9354-7d705a05eb96#ref=rss)
-* [https://www.spiegel.de/panorama/las-vegas-ermittler-behandeln-explosion-von-cybertruck-als-suizid](https://www.spiegel.de/panorama/las-vegas-ermittler-behandeln-explosion-von-cybertruck-als-suizid-a-61ffbe71-d1a4-49b6-af0f-3b18b835da4f#ref=rss)
-### dartswm
-
-* [https://www.spiegel.de/sport/darts-wm-2025-luke-littler-ist-ein-teenager-und-der-beste-spieler-der-welt](https://www.spiegel.de/sport/darts-wm-2025-luke-littler-ist-ein-teenager-und-der-beste-spieler-der-welt-a-13da99f7-3b2a-4f39-a630-13ab8a81c73f#ref=rss)
-* [https://www.spiegel.de/sport/finale-der-darts-wm-2025-im-liveticker-luke-littler-gegen-michael-van-gerwen](https://www.spiegel.de/sport/finale-der-darts-wm-2025-im-liveticker-luke-littler-gegen-michael-van-gerwen-a-a7cbb16d-a2a7-4b0e-beb9-ce50c52a688e#ref=rss)
-### teenager
-
-* [https://www.spiegel.de/sport/darts-wm-2025-luke-littler-ist-ein-teenager-und-der-beste-spieler-der-welt](https://www.spiegel.de/sport/darts-wm-2025-luke-littler-ist-ein-teenager-und-der-beste-spieler-der-welt-a-13da99f7-3b2a-4f39-a630-13ab8a81c73f#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/sport/darts-wm-2025-luke-littler-ist-ein-teenager-und-der-beste-spieler-der-welt](https://www.spiegel.de/sport/darts-wm-2025-luke-littler-ist-ein-teenager-und-der-beste-spieler-der-welt-a-13da99f7-3b2a-4f39-a630-13ab8a81c73f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/mittelstand-mehrheit-der-firmen-rechnet-mit-schrumpfendem-geschaeft](https://www.spiegel.de/wirtschaft/mittelstand-mehrheit-der-firmen-rechnet-mit-schrumpfendem-geschaeft-a-31b40d0f-5aa0-4805-bfb4-4038fcd7548e#ref=rss)
-### sport
-
-* [https://www.spiegel.de/sport/darts-wm-2025-luke-littler-ist-ein-teenager-und-der-beste-spieler-der-welt](https://www.spiegel.de/sport/darts-wm-2025-luke-littler-ist-ein-teenager-und-der-beste-spieler-der-welt-a-13da99f7-3b2a-4f39-a630-13ab8a81c73f#ref=rss)
-* [https://www.spiegel.de/gesundheit/neujahrsvorsaetze-2025-weniger-suessigkeiten-mehr-lesen-sport-machen-podcast](https://www.spiegel.de/gesundheit/neujahrsvorsaetze-2025-weniger-suessigkeiten-mehr-lesen-sport-machen-podcast-a-1f1f846c-71ae-4162-a308-62758ce4872c#ref=rss)
-### myanmars
-
-* [https://www.spiegel.de/ausland/myanmars-militaerjunta-verspricht-amnestie-fuer-tausende-gefangene](https://www.spiegel.de/ausland/myanmars-militaerjunta-verspricht-amnestie-fuer-tausende-gefangene-a-eed6a41d-93f7-45a3-991b-99bb1d01871b#ref=rss)
-### fast
-
-* [https://www.spiegel.de/ausland/myanmars-militaerjunta-verspricht-amnestie-fuer-tausende-gefangene](https://www.spiegel.de/ausland/myanmars-militaerjunta-verspricht-amnestie-fuer-tausende-gefangene-a-eed6a41d-93f7-45a3-991b-99bb1d01871b#ref=rss)
-* [https://www.spiegel.de/politik/bundestagswahl-2025-cdu-bekommt-fast-zehnmal-so-viele-grossspenden-wie-die-spd](https://www.spiegel.de/politik/bundestagswahl-2025-cdu-bekommt-fast-zehnmal-so-viele-grossspenden-wie-die-spd-a-55b541bf-b6de-49e1-a872-229ccdabf865#ref=rss)
-### gefährlich
-
-* [https://www.spiegel.de/panorama/gesellschaft/wetterdienst-warnt-vor-glaette-in-ganz-deutschland](https://www.spiegel.de/panorama/gesellschaft/wetterdienst-warnt-vor-glaette-in-ganz-deutschland-a-00f3f73c-4e93-4cdd-ba80-6ad5eb21202b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/elon-musk-und-die-bundestagswahl-wie-weit-reicht-sein-einfluss-und-wer-kann-ihn-stoppen](https://www.spiegel.de/politik/deutschland/elon-musk-und-die-bundestagswahl-wie-weit-reicht-sein-einfluss-und-wer-kann-ihn-stoppen-a-b26aebf0-4122-401d-a935-051365d73fc0#ref=rss)
-### dune
-
-* [https://www.spiegel.de/panorama/leute/dune-2-zendaya-hatte-angst-in-ihren-wuestenanzug-zu-pinkeln](https://www.spiegel.de/panorama/leute/dune-2-zendaya-hatte-angst-in-ihren-wuestenanzug-zu-pinkeln-a-cae8400c-9f85-42df-ae04-e43c0bde84f9#ref=rss)
-### zendaya
-
-* [https://www.spiegel.de/panorama/leute/dune-2-zendaya-hatte-angst-in-ihren-wuestenanzug-zu-pinkeln](https://www.spiegel.de/panorama/leute/dune-2-zendaya-hatte-angst-in-ihren-wuestenanzug-zu-pinkeln-a-cae8400c-9f85-42df-ae04-e43c0bde84f9#ref=rss)
-### zehn
-
-* [https://www.spiegel.de/panorama/leute/dune-2-zendaya-hatte-angst-in-ihren-wuestenanzug-zu-pinkeln](https://www.spiegel.de/panorama/leute/dune-2-zendaya-hatte-angst-in-ihren-wuestenanzug-zu-pinkeln-a-cae8400c-9f85-42df-ae04-e43c0bde84f9#ref=rss)
-* [https://www.spiegel.de/psychologie/ordnung-halten-so-kommen-sie-in-zehn-schritten-zu-einem-aufgeraeumten-leben](https://www.spiegel.de/psychologie/ordnung-halten-so-kommen-sie-in-zehn-schritten-zu-einem-aufgeraeumten-leben-a-b2d49db1-d348-46ba-9ea7-6ebbacfbedda#ref=rss)
-### weit
-
-* [https://www.spiegel.de/panorama/leute/dune-2-zendaya-hatte-angst-in-ihren-wuestenanzug-zu-pinkeln](https://www.spiegel.de/panorama/leute/dune-2-zendaya-hatte-angst-in-ihren-wuestenanzug-zu-pinkeln-a-cae8400c-9f85-42df-ae04-e43c0bde84f9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/elon-musk-und-die-bundestagswahl-wie-weit-reicht-sein-einfluss-und-wer-kann-ihn-stoppen](https://www.spiegel.de/politik/deutschland/elon-musk-und-die-bundestagswahl-wie-weit-reicht-sein-einfluss-und-wer-kann-ihn-stoppen-a-b26aebf0-4122-401d-a935-051365d73fc0#ref=rss)
-### wenig
-
-* [https://www.spiegel.de/panorama/leute/dune-2-zendaya-hatte-angst-in-ihren-wuestenanzug-zu-pinkeln](https://www.spiegel.de/panorama/leute/dune-2-zendaya-hatte-angst-in-ihren-wuestenanzug-zu-pinkeln-a-cae8400c-9f85-42df-ae04-e43c0bde84f9#ref=rss)
-### geschäft
-
-* [https://www.spiegel.de/wirtschaft/mittelstand-mehrheit-der-firmen-rechnet-mit-schrumpfendem-geschaeft](https://www.spiegel.de/wirtschaft/mittelstand-mehrheit-der-firmen-rechnet-mit-schrumpfendem-geschaeft-a-31b40d0f-5aa0-4805-bfb4-4038fcd7548e#ref=rss)
-### wasser
-
-* [https://www.spiegel.de/wirtschaft/mittelstand-mehrheit-der-firmen-rechnet-mit-schrumpfendem-geschaeft](https://www.spiegel.de/wirtschaft/mittelstand-mehrheit-der-firmen-rechnet-mit-schrumpfendem-geschaeft-a-31b40d0f-5aa0-4805-bfb4-4038fcd7548e#ref=rss)
-* [https://www.spiegel.de/ausland/estlink-kabel-in-der-ostsee-schweden-schickt-spezialschiff-zur-unterstuetzung-finnischer-ermittlungen](https://www.spiegel.de/ausland/estlink-kabel-in-der-ostsee-schweden-schickt-spezialschiff-zur-unterstuetzung-finnischer-ermittlungen-a-d25d3ef9-f5eb-40fe-88fc-ccee3327aeaf#ref=rss)
-### rentner
-
-* [https://www.spiegel.de/wirtschaft/soziales/steuerlast-vieler-rentnerinnen-und-rentner-steigt](https://www.spiegel.de/wirtschaft/soziales/steuerlast-vieler-rentnerinnen-und-rentner-steigt-a-a0c6129a-4ff9-4be4-bee6-1702aaec746f#ref=rss)
-### steigt
-
-* [https://www.spiegel.de/wirtschaft/soziales/steuerlast-vieler-rentnerinnen-und-rentner-steigt](https://www.spiegel.de/wirtschaft/soziales/steuerlast-vieler-rentnerinnen-und-rentner-steigt-a-a0c6129a-4ff9-4be4-bee6-1702aaec746f#ref=rss)
-* [https://www.spiegel.de/auto/staedte-muessen-mehr-fahrradleichen-und-schrottautos-entsorgen](https://www.spiegel.de/auto/staedte-muessen-mehr-fahrradleichen-und-schrottautos-entsorgen-a-164146b2-5776-4474-ae2d-f3a419dd71dd#ref=rss)
-### steuern
-
-* [https://www.spiegel.de/wirtschaft/soziales/steuerlast-vieler-rentnerinnen-und-rentner-steigt](https://www.spiegel.de/wirtschaft/soziales/steuerlast-vieler-rentnerinnen-und-rentner-steigt-a-a0c6129a-4ff9-4be4-bee6-1702aaec746f#ref=rss)
-* [https://www.spiegel.de/politik/bundestagswahl-2025-christian-lindner-macht-steuersenkungen-zur-bedingung-fuer-koalition](https://www.spiegel.de/politik/bundestagswahl-2025-christian-lindner-macht-steuersenkungen-zur-bedingung-fuer-koalition-a-c7505bc9-a347-47aa-ab21-3b7608eb1172#ref=rss)
-### einfluss
-
-* [https://www.spiegel.de/politik/deutschland/elon-musk-und-die-bundestagswahl-wie-weit-reicht-sein-einfluss-und-wer-kann-ihn-stoppen](https://www.spiegel.de/politik/deutschland/elon-musk-und-die-bundestagswahl-wie-weit-reicht-sein-einfluss-und-wer-kann-ihn-stoppen-a-b26aebf0-4122-401d-a935-051365d73fc0#ref=rss)
-### afd
-
-* [https://www.spiegel.de/politik/deutschland/elon-musk-und-die-bundestagswahl-wie-weit-reicht-sein-einfluss-und-wer-kann-ihn-stoppen](https://www.spiegel.de/politik/deutschland/elon-musk-und-die-bundestagswahl-wie-weit-reicht-sein-einfluss-und-wer-kann-ihn-stoppen-a-b26aebf0-4122-401d-a935-051365d73fc0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-und-adenauer-boellerverbot-afd-hochburg-bitterfeld-wolfen-wg-garantie](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-und-adenauer-boellerverbot-afd-hochburg-bitterfeld-wolfen-wg-garantie-a-6be7dbe1-c3fa-482c-a054-6f0066524448#ref=rss)
-### psychedelische
-
-* [https://www.spiegel.de/ausland/psychedelische-erfahrung-in-mexiko-drogentrip-gegen-die-sucht-alles-gute-vom-spiegel](https://www.spiegel.de/ausland/psychedelische-erfahrung-in-mexiko-drogentrip-gegen-die-sucht-alles-gute-vom-spiegel-a-83e4b122-386e-4060-a310-9f691ffaaf75#ref=rss)
-### mexiko
-
-* [https://www.spiegel.de/ausland/psychedelische-erfahrung-in-mexiko-drogentrip-gegen-die-sucht-alles-gute-vom-spiegel](https://www.spiegel.de/ausland/psychedelische-erfahrung-in-mexiko-drogentrip-gegen-die-sucht-alles-gute-vom-spiegel-a-83e4b122-386e-4060-a310-9f691ffaaf75#ref=rss)
-### traumata
-
-* [https://www.spiegel.de/ausland/psychedelische-erfahrung-in-mexiko-drogentrip-gegen-die-sucht-alles-gute-vom-spiegel](https://www.spiegel.de/ausland/psychedelische-erfahrung-in-mexiko-drogentrip-gegen-die-sucht-alles-gute-vom-spiegel-a-83e4b122-386e-4060-a310-9f691ffaaf75#ref=rss)
-* [https://www.spiegel.de/panorama/las-vegas-ermittler-behandeln-explosion-von-cybertruck-als-suizid](https://www.spiegel.de/panorama/las-vegas-ermittler-behandeln-explosion-von-cybertruck-als-suizid-a-61ffbe71-d1a4-49b6-af0f-3b18b835da4f#ref=rss)
-### dienst
-
-* [https://www.spiegel.de/wirtschaft/soziales/oeffentlicher-dienst-beamtenbund-nennt-forderung-nach-acht-prozent-voellig-berechtigt](https://www.spiegel.de/wirtschaft/soziales/oeffentlicher-dienst-beamtenbund-nennt-forderung-nach-acht-prozent-voellig-berechtigt-a-3732b4fb-42e8-47c6-8f0d-0e4752c33e0e#ref=rss)
-### öffentlichen
-
-* [https://www.spiegel.de/wirtschaft/soziales/oeffentlicher-dienst-beamtenbund-nennt-forderung-nach-acht-prozent-voellig-berechtigt](https://www.spiegel.de/wirtschaft/soziales/oeffentlicher-dienst-beamtenbund-nennt-forderung-nach-acht-prozent-voellig-berechtigt-a-3732b4fb-42e8-47c6-8f0d-0e4752c33e0e#ref=rss)
-* [https://www.spiegel.de/auto/staedte-muessen-mehr-fahrradleichen-und-schrottautos-entsorgen](https://www.spiegel.de/auto/staedte-muessen-mehr-fahrradleichen-und-schrottautos-entsorgen-a-164146b2-5776-4474-ae2d-f3a419dd71dd#ref=rss)
-### weniger
-
-* [https://www.spiegel.de/gesundheit/neujahrsvorsaetze-2025-weniger-suessigkeiten-mehr-lesen-sport-machen-podcast](https://www.spiegel.de/gesundheit/neujahrsvorsaetze-2025-weniger-suessigkeiten-mehr-lesen-sport-machen-podcast-a-1f1f846c-71ae-4162-a308-62758ce4872c#ref=rss)
-* [https://www.spiegel.de/psychologie/ordnung-halten-so-kommen-sie-in-zehn-schritten-zu-einem-aufgeraeumten-leben](https://www.spiegel.de/psychologie/ordnung-halten-so-kommen-sie-in-zehn-schritten-zu-einem-aufgeraeumten-leben-a-b2d49db1-d348-46ba-9ea7-6ebbacfbedda#ref=rss)
-### lesen
-
-* [https://www.spiegel.de/gesundheit/neujahrsvorsaetze-2025-weniger-suessigkeiten-mehr-lesen-sport-machen-podcast](https://www.spiegel.de/gesundheit/neujahrsvorsaetze-2025-weniger-suessigkeiten-mehr-lesen-sport-machen-podcast-a-1f1f846c-71ae-4162-a308-62758ce4872c#ref=rss)
-* [https://www.spiegel.de/sport/finale-der-darts-wm-2025-im-liveticker-luke-littler-gegen-michael-van-gerwen](https://www.spiegel.de/sport/finale-der-darts-wm-2025-im-liveticker-luke-littler-gegen-michael-van-gerwen-a-a7cbb16d-a2a7-4b0e-beb9-ce50c52a688e#ref=rss)
-### alkoholfreie
-
-* [https://www.spiegel.de/stil/dry-january-die-besten-alkoholfreien-drinks-barkeeperin-gibt-tipps](https://www.spiegel.de/stil/dry-january-die-besten-alkoholfreien-drinks-barkeeperin-gibt-tipps-a-5c341edf-eb36-4aa4-bbad-c3cc9f0ace0d#ref=rss)
-### wahlkampf
-
-* [https://www.spiegel.de/politik/bundestagswahl-2025-cdu-bekommt-fast-zehnmal-so-viele-grossspenden-wie-die-spd](https://www.spiegel.de/politik/bundestagswahl-2025-cdu-bekommt-fast-zehnmal-so-viele-grossspenden-wie-die-spd-a-55b541bf-b6de-49e1-a872-229ccdabf865#ref=rss)
-* [https://www.spiegel.de/politik/kanzler-olaf-scholz-zu-attacken-von-elon-musk-da-muss-man-cool-bleiben](https://www.spiegel.de/politik/kanzler-olaf-scholz-zu-attacken-von-elon-musk-da-muss-man-cool-bleiben-a-80a608f6-4cd9-4cc8-be6e-209af5d3849a#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-und-adenauer-boellerverbot-afd-hochburg-bitterfeld-wolfen-wg-garantie](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-und-adenauer-boellerverbot-afd-hochburg-bitterfeld-wolfen-wg-garantie-a-6be7dbe1-c3fa-482c-a054-6f0066524448#ref=rss)
-### adenauer
-
-* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-und-adenauer-boellerverbot-afd-hochburg-bitterfeld-wolfen-wg-garantie](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-und-adenauer-boellerverbot-afd-hochburg-bitterfeld-wolfen-wg-garantie-a-6be7dbe1-c3fa-482c-a054-6f0066524448#ref=rss)
-### böllerverbot
-
-* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-und-adenauer-boellerverbot-afd-hochburg-bitterfeld-wolfen-wg-garantie](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-und-adenauer-boellerverbot-afd-hochburg-bitterfeld-wolfen-wg-garantie-a-6be7dbe1-c3fa-482c-a054-6f0066524448#ref=rss)
-### wggarantie
-
-* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-und-adenauer-boellerverbot-afd-hochburg-bitterfeld-wolfen-wg-garantie](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-und-adenauer-boellerverbot-afd-hochburg-bitterfeld-wolfen-wg-garantie-a-6be7dbe1-c3fa-482c-a054-6f0066524448#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-jusos-draengen-olaf-scholz-zu-wg-garantie](https://www.spiegel.de/politik/deutschland/spd-jusos-draengen-olaf-scholz-zu-wg-garantie-a-8988458a-9f75-4ed3-b1d3-f1ccf4deab71#ref=rss)
-### jusos
-
-* [https://www.spiegel.de/politik/deutschland/spd-jusos-draengen-olaf-scholz-zu-wg-garantie](https://www.spiegel.de/politik/deutschland/spd-jusos-draengen-olaf-scholz-zu-wg-garantie-a-8988458a-9f75-4ed3-b1d3-f1ccf4deab71#ref=rss)
-### charlie
-
-* [https://www.spiegel.de/panorama/charlie-hebdo-am-tag-als-terroristen-seine-redaktion-ueberfielen-hat-luz-verschlafen](https://www.spiegel.de/panorama/charlie-hebdo-am-tag-als-terroristen-seine-redaktion-ueberfielen-hat-luz-verschlafen-a-c5ed8127-30ae-40cb-969d-a840b5b13091#ref=rss)
-### hebdo
-
-* [https://www.spiegel.de/panorama/charlie-hebdo-am-tag-als-terroristen-seine-redaktion-ueberfielen-hat-luz-verschlafen](https://www.spiegel.de/panorama/charlie-hebdo-am-tag-als-terroristen-seine-redaktion-ueberfielen-hat-luz-verschlafen-a-c5ed8127-30ae-40cb-969d-a840b5b13091#ref=rss)
-### terroristen
-
-* [https://www.spiegel.de/panorama/charlie-hebdo-am-tag-als-terroristen-seine-redaktion-ueberfielen-hat-luz-verschlafen](https://www.spiegel.de/panorama/charlie-hebdo-am-tag-als-terroristen-seine-redaktion-ueberfielen-hat-luz-verschlafen-a-c5ed8127-30ae-40cb-969d-a840b5b13091#ref=rss)
-### redaktion
-
-* [https://www.spiegel.de/panorama/charlie-hebdo-am-tag-als-terroristen-seine-redaktion-ueberfielen-hat-luz-verschlafen](https://www.spiegel.de/panorama/charlie-hebdo-am-tag-als-terroristen-seine-redaktion-ueberfielen-hat-luz-verschlafen-a-c5ed8127-30ae-40cb-969d-a840b5b13091#ref=rss)
-### überfielen
-
-* [https://www.spiegel.de/panorama/charlie-hebdo-am-tag-als-terroristen-seine-redaktion-ueberfielen-hat-luz-verschlafen](https://www.spiegel.de/panorama/charlie-hebdo-am-tag-als-terroristen-seine-redaktion-ueberfielen-hat-luz-verschlafen-a-c5ed8127-30ae-40cb-969d-a840b5b13091#ref=rss)
-### luz
-
-* [https://www.spiegel.de/panorama/charlie-hebdo-am-tag-als-terroristen-seine-redaktion-ueberfielen-hat-luz-verschlafen](https://www.spiegel.de/panorama/charlie-hebdo-am-tag-als-terroristen-seine-redaktion-ueberfielen-hat-luz-verschlafen-a-c5ed8127-30ae-40cb-969d-a840b5b13091#ref=rss)
-### januar
-
-* [https://www.spiegel.de/panorama/charlie-hebdo-am-tag-als-terroristen-seine-redaktion-ueberfielen-hat-luz-verschlafen](https://www.spiegel.de/panorama/charlie-hebdo-am-tag-als-terroristen-seine-redaktion-ueberfielen-hat-luz-verschlafen-a-c5ed8127-30ae-40cb-969d-a840b5b13091#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-strafverkuendung-im-schweigegeldprozess-fuer-den-10-januar-angesetzt](https://www.spiegel.de/ausland/donald-trump-strafverkuendung-im-schweigegeldprozess-fuer-den-10-januar-angesetzt-a-23739ae7-04ea-4ba6-afad-7134238da28f#ref=rss)
-### geburtstag
-
-* [https://www.spiegel.de/panorama/charlie-hebdo-am-tag-als-terroristen-seine-redaktion-ueberfielen-hat-luz-verschlafen](https://www.spiegel.de/panorama/charlie-hebdo-am-tag-als-terroristen-seine-redaktion-ueberfielen-hat-luz-verschlafen-a-c5ed8127-30ae-40cb-969d-a840b5b13091#ref=rss)
-* [https://www.spiegel.de/sport/finale-der-darts-wm-2025-im-liveticker-luke-littler-gegen-michael-van-gerwen](https://www.spiegel.de/sport/finale-der-darts-wm-2025-im-liveticker-luke-littler-gegen-michael-van-gerwen-a-a7cbb16d-a2a7-4b0e-beb9-ce50c52a688e#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-russische-truppen-ruecken-im-donbass-vor](https://www.spiegel.de/ausland/ukraine-krieg-russische-truppen-ruecken-im-donbass-vor-a-e09da8b5-57be-4d74-9b9c-d8c0acf0b6b6#ref=rss)
-### annalena
-
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-in-damaskus-treffen-sich-ein-islamist-und-eine-feministin](https://www.spiegel.de/politik/deutschland/annalena-baerbock-in-damaskus-treffen-sich-ein-islamist-und-eine-feministin-a-98af135c-5626-40ce-a5b6-9c612cf6f58f#ref=rss)
-### baerbock
-
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-in-damaskus-treffen-sich-ein-islamist-und-eine-feministin](https://www.spiegel.de/politik/deutschland/annalena-baerbock-in-damaskus-treffen-sich-ein-islamist-und-eine-feministin-a-98af135c-5626-40ce-a5b6-9c612cf6f58f#ref=rss)
-### koalition
-
-* [https://www.spiegel.de/politik/bundestagswahl-2025-christian-lindner-macht-steuersenkungen-zur-bedingung-fuer-koalition](https://www.spiegel.de/politik/bundestagswahl-2025-christian-lindner-macht-steuersenkungen-zur-bedingung-fuer-koalition-a-c7505bc9-a347-47aa-ab21-3b7608eb1172#ref=rss)
-### explosion
-
-* [https://www.spiegel.de/panorama/las-vegas-ermittler-behandeln-explosion-von-cybertruck-als-suizid](https://www.spiegel.de/panorama/las-vegas-ermittler-behandeln-explosion-von-cybertruck-als-suizid-a-61ffbe71-d1a4-49b6-af0f-3b18b835da4f#ref=rss)
-### suizid
-
-* [https://www.spiegel.de/panorama/las-vegas-ermittler-behandeln-explosion-von-cybertruck-als-suizid](https://www.spiegel.de/panorama/las-vegas-ermittler-behandeln-explosion-von-cybertruck-als-suizid-a-61ffbe71-d1a4-49b6-af0f-3b18b835da4f#ref=rss)
-### ostsee
-
-* [https://www.spiegel.de/ausland/estlink-kabel-in-der-ostsee-schweden-schickt-spezialschiff-zur-unterstuetzung-finnischer-ermittlungen](https://www.spiegel.de/ausland/estlink-kabel-in-der-ostsee-schweden-schickt-spezialschiff-zur-unterstuetzung-finnischer-ermittlungen-a-d25d3ef9-f5eb-40fe-88fc-ccee3327aeaf#ref=rss)
-### schweden
-
-* [https://www.spiegel.de/ausland/estlink-kabel-in-der-ostsee-schweden-schickt-spezialschiff-zur-unterstuetzung-finnischer-ermittlungen](https://www.spiegel.de/ausland/estlink-kabel-in-der-ostsee-schweden-schickt-spezialschiff-zur-unterstuetzung-finnischer-ermittlungen-a-d25d3ef9-f5eb-40fe-88fc-ccee3327aeaf#ref=rss)
-### michael
-
-* [https://www.spiegel.de/sport/finale-der-darts-wm-2025-im-liveticker-luke-littler-gegen-michael-van-gerwen](https://www.spiegel.de/sport/finale-der-darts-wm-2025-im-liveticker-luke-littler-gegen-michael-van-gerwen-a-a7cbb16d-a2a7-4b0e-beb9-ce50c52a688e#ref=rss)
-### van
-
-* [https://www.spiegel.de/sport/finale-der-darts-wm-2025-im-liveticker-luke-littler-gegen-michael-van-gerwen](https://www.spiegel.de/sport/finale-der-darts-wm-2025-im-liveticker-luke-littler-gegen-michael-van-gerwen-a-a7cbb16d-a2a7-4b0e-beb9-ce50c52a688e#ref=rss)
-### gerwen
-
-* [https://www.spiegel.de/sport/finale-der-darts-wm-2025-im-liveticker-luke-littler-gegen-michael-van-gerwen](https://www.spiegel.de/sport/finale-der-darts-wm-2025-im-liveticker-luke-littler-gegen-michael-van-gerwen-a-a7cbb16d-a2a7-4b0e-beb9-ce50c52a688e#ref=rss)
-### schweigegeldprozess
-
-* [https://www.spiegel.de/ausland/donald-trump-strafverkuendung-im-schweigegeldprozess-fuer-den-10-januar-angesetzt](https://www.spiegel.de/ausland/donald-trump-strafverkuendung-im-schweigegeldprozess-fuer-den-10-januar-angesetzt-a-23739ae7-04ea-4ba6-afad-7134238da28f#ref=rss)
 
