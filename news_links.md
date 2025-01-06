@@ -4,339 +4,364 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### friedrich
-
-* [https://www.spiegel.de/sport/wintersport/weltcup-in-winterberg-schwere-stuerze-beim-viererbob-francesco-friedrich-nur-zweiter](https://www.spiegel.de/sport/wintersport/weltcup-in-winterberg-schwere-stuerze-beim-viererbob-francesco-friedrich-nur-zweiter-a-066e3cb9-23c9-4451-8081-739f06fe0b78#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-will-ausbuergerung-ermoeglichen](https://www.spiegel.de/politik/deutschland/friedrich-merz-will-ausbuergerung-ermoeglichen-a-d887cae0-8e6f-4f1f-ab5b-1de8da5efde7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-attackiert-roderich-kiesewetter-kanzler-im-kampfmodus](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-attackiert-roderich-kiesewetter-kanzler-im-kampfmodus-a-46d5d105-ddb5-41ac-b0c4-de0ce113f17b#ref=rss)
-### euro
-
-* [https://www.spiegel.de/panorama/japan-thunfisch-fuer-1-3-millionen-euro-versteigert](https://www.spiegel.de/panorama/japan-thunfisch-fuer-1-3-millionen-euro-versteigert-a-3b3b8657-799e-44a0-bd46-870609f8168c#ref=rss)
-* [https://www.spiegel.de/sport/darts-luke-littler-hat-noch-keinen-fuehrerschein-aber-will-sich-ein-auto-kaufen](https://www.spiegel.de/sport/darts-luke-littler-hat-noch-keinen-fuehrerschein-aber-will-sich-ein-auto-kaufen-a-20e222db-a15f-4f5d-a62e-5f2b598918ad#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/d-mark-und-euro-deutsche-tauschten-2024-rund-57-millionen-mark-in-euro-um](https://www.spiegel.de/wirtschaft/service/d-mark-und-euro-deutsche-tauschten-2024-rund-57-millionen-mark-in-euro-um-a-7db334dd-6d45-42da-a29b-5dd2f9e1a1d1#ref=rss)
-### övp
-
-* [https://www.spiegel.de/ausland/oesterreich-oevp-zu-gespraechen-mit-rechtspopulistischer-fpoe-bereit](https://www.spiegel.de/ausland/oesterreich-oevp-zu-gespraechen-mit-rechtspopulistischer-fpoe-bereit-a-ef2cc076-5d08-4faf-8f1a-a092c62e31b8#ref=rss)
-* [https://www.spiegel.de/ausland/oesterreich-alexander-van-der-bellen-will-herbert-kickl-treffen](https://www.spiegel.de/ausland/oesterreich-alexander-van-der-bellen-will-herbert-kickl-treffen-a-59bd8af7-a666-4fe8-b607-4e5ac24dc6d7#ref=rss)
-* [https://www.spiegel.de/ausland/oesterreich-christian-stocker-soll-oevp-fuehren](https://www.spiegel.de/ausland/oesterreich-christian-stocker-soll-oevp-fuehren-a-c70b97d1-b5d9-47f2-8b53-79d26c7b874e#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-stefan-kraft-dominiert-die-qualifikation-andreas-wellinger-bester-deutscher](https://www.spiegel.de/sport/wintersport/vierschanzentournee-stefan-kraft-dominiert-die-qualifikation-andreas-wellinger-bester-deutscher-a-5621db61-26f8-4af5-8fd9-4ebd55388d13#ref=rss)
-* [https://www.spiegel.de/kultur/kino/jeff-baena-ist-tot](https://www.spiegel.de/kultur/kino/jeff-baena-ist-tot-a-92fbbce2-ec38-4c24-aaea-e59ae1f6500f#ref=rss)
-* [https://www.spiegel.de/sport/darts-luke-littler-hat-noch-keinen-fuehrerschein-aber-will-sich-ein-auto-kaufen](https://www.spiegel.de/sport/darts-luke-littler-hat-noch-keinen-fuehrerschein-aber-will-sich-ein-auto-kaufen-a-20e222db-a15f-4f5d-a62e-5f2b598918ad#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/d-mark-und-euro-deutsche-tauschten-2024-rund-57-millionen-mark-in-euro-um](https://www.spiegel.de/wirtschaft/service/d-mark-und-euro-deutsche-tauschten-2024-rund-57-millionen-mark-in-euro-um-a-7db334dd-6d45-42da-a29b-5dd2f9e1a1d1#ref=rss)
-### christian
-
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-spricht-ueber-gewichtsprobleme-als-teenager](https://www.spiegel.de/politik/deutschland/christian-lindner-spricht-ueber-gewichtsprobleme-als-teenager-a-ef220268-2913-40c6-90cc-12d79a707108#ref=rss)
-* [https://www.spiegel.de/ausland/oesterreich-christian-stocker-soll-oevp-fuehren](https://www.spiegel.de/ausland/oesterreich-christian-stocker-soll-oevp-fuehren-a-c70b97d1-b5d9-47f2-8b53-79d26c7b874e#ref=rss)
-### rund
-
-* [https://www.spiegel.de/panorama/justiz/magdeburg-hunderte-tote-schafe-auf-grundstueck-entdeckt](https://www.spiegel.de/panorama/justiz/magdeburg-hunderte-tote-schafe-auf-grundstueck-entdeckt-a-276a6c66-7563-42d1-89b1-ccb43e7874c0#ref=rss)
-* [https://www.spiegel.de/panorama/petition-ueber-eine-million-unterstuetzer-fuer-boellerverbot-in-deutschland](https://www.spiegel.de/panorama/petition-ueber-eine-million-unterstuetzer-fuer-boellerverbot-in-deutschland-a-e1c4e3ca-a71a-4a1f-88c5-c7555aed2203#ref=rss)
-* [https://www.spiegel.de/sport/darts-luke-littler-hat-noch-keinen-fuehrerschein-aber-will-sich-ein-auto-kaufen](https://www.spiegel.de/sport/darts-luke-littler-hat-noch-keinen-fuehrerschein-aber-will-sich-ein-auto-kaufen-a-20e222db-a15f-4f5d-a62e-5f2b598918ad#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/d-mark-und-euro-deutsche-tauschten-2024-rund-57-millionen-mark-in-euro-um](https://www.spiegel.de/wirtschaft/service/d-mark-und-euro-deutsche-tauschten-2024-rund-57-millionen-mark-in-euro-um-a-7db334dd-6d45-42da-a29b-5dd2f9e1a1d1#ref=rss)
-### olaf
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-attackiert-roderich-kiesewetter-kanzler-im-kampfmodus](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-attackiert-roderich-kiesewetter-kanzler-im-kampfmodus-a-46d5d105-ddb5-41ac-b0c4-de0ce113f17b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-nennt-roderich-kiesewetter-aussage-zutiefst-unanstaendig](https://www.spiegel.de/politik/deutschland/olaf-scholz-nennt-roderich-kiesewetter-aussage-zutiefst-unanstaendig-a-a340575c-9f92-467c-9247-b624ea0f14ef#ref=rss)
-### scholz
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-attackiert-roderich-kiesewetter-kanzler-im-kampfmodus](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-attackiert-roderich-kiesewetter-kanzler-im-kampfmodus-a-46d5d105-ddb5-41ac-b0c4-de0ce113f17b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-nennt-roderich-kiesewetter-aussage-zutiefst-unanstaendig](https://www.spiegel.de/politik/deutschland/olaf-scholz-nennt-roderich-kiesewetter-aussage-zutiefst-unanstaendig-a-a340575c-9f92-467c-9247-b624ea0f14ef#ref=rss)
-### kanzler
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-attackiert-roderich-kiesewetter-kanzler-im-kampfmodus](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-attackiert-roderich-kiesewetter-kanzler-im-kampfmodus-a-46d5d105-ddb5-41ac-b0c4-de0ce113f17b#ref=rss)
-* [https://www.spiegel.de/ausland/oesterreich-oevp-zu-gespraechen-mit-rechtspopulistischer-fpoe-bereit](https://www.spiegel.de/ausland/oesterreich-oevp-zu-gespraechen-mit-rechtspopulistischer-fpoe-bereit-a-ef2cc076-5d08-4faf-8f1a-a092c62e31b8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-nennt-roderich-kiesewetter-aussage-zutiefst-unanstaendig](https://www.spiegel.de/politik/deutschland/olaf-scholz-nennt-roderich-kiesewetter-aussage-zutiefst-unanstaendig-a-a340575c-9f92-467c-9247-b624ea0f14ef#ref=rss)
-* [https://www.spiegel.de/ausland/oesterreich-christian-stocker-soll-oevp-fuehren](https://www.spiegel.de/ausland/oesterreich-christian-stocker-soll-oevp-fuehren-a-c70b97d1-b5d9-47f2-8b53-79d26c7b874e#ref=rss)
-### österreich
-
-* [https://www.spiegel.de/ausland/oesterreich-oevp-zu-gespraechen-mit-rechtspopulistischer-fpoe-bereit](https://www.spiegel.de/ausland/oesterreich-oevp-zu-gespraechen-mit-rechtspopulistischer-fpoe-bereit-a-ef2cc076-5d08-4faf-8f1a-a092c62e31b8#ref=rss)
-* [https://www.spiegel.de/ausland/oesterreich-alexander-van-der-bellen-will-herbert-kickl-treffen](https://www.spiegel.de/ausland/oesterreich-alexander-van-der-bellen-will-herbert-kickl-treffen-a-59bd8af7-a666-4fe8-b607-4e5ac24dc6d7#ref=rss)
-* [https://www.spiegel.de/ausland/oesterreich-christian-stocker-soll-oevp-fuehren](https://www.spiegel.de/ausland/oesterreich-christian-stocker-soll-oevp-fuehren-a-c70b97d1-b5d9-47f2-8b53-79d26c7b874e#ref=rss)
-### kraft
-
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-stefan-kraft-dominiert-die-qualifikation-andreas-wellinger-bester-deutscher](https://www.spiegel.de/sport/wintersport/vierschanzentournee-stefan-kraft-dominiert-die-qualifikation-andreas-wellinger-bester-deutscher-a-5621db61-26f8-4af5-8fd9-4ebd55388d13#ref=rss)
-* [https://www.spiegel.de/auto/new-york-city-maut-congestion-charge-fuer-manhattan-eingefuehrt](https://www.spiegel.de/auto/new-york-city-maut-congestion-charge-fuer-manhattan-eingefuehrt-a-63075642-dce5-43b2-b3e9-40c37d94eafd#ref=rss)
-### welt
-
-* [https://www.spiegel.de/panorama/krieg-der-woerter-ein-versuch-unsere-wilde-welt-mit-sprache-zu-baendigen](https://www.spiegel.de/panorama/krieg-der-woerter-ein-versuch-unsere-wilde-welt-mit-sprache-zu-baendigen-a-1d8f0f27-bdab-4afd-8ef3-6f61543d76fc#ref=rss)
-* [https://www.spiegel.de/sport/darts-luke-littler-hat-noch-keinen-fuehrerschein-aber-will-sich-ein-auto-kaufen](https://www.spiegel.de/sport/darts-luke-littler-hat-noch-keinen-fuehrerschein-aber-will-sich-ein-auto-kaufen-a-20e222db-a15f-4f5d-a62e-5f2b598918ad#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-will-ausbuergerung-ermoeglichen](https://www.spiegel.de/politik/deutschland/friedrich-merz-will-ausbuergerung-ermoeglichen-a-d887cae0-8e6f-4f1f-ab5b-1de8da5efde7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-attackiert-roderich-kiesewetter-kanzler-im-kampfmodus](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-attackiert-roderich-kiesewetter-kanzler-im-kampfmodus-a-46d5d105-ddb5-41ac-b0c4-de0ce113f17b#ref=rss)
-### fpö
-
-* [https://www.spiegel.de/ausland/oesterreich-oevp-zu-gespraechen-mit-rechtspopulistischer-fpoe-bereit](https://www.spiegel.de/ausland/oesterreich-oevp-zu-gespraechen-mit-rechtspopulistischer-fpoe-bereit-a-ef2cc076-5d08-4faf-8f1a-a092c62e31b8#ref=rss)
-* [https://www.spiegel.de/ausland/oesterreich-alexander-van-der-bellen-will-herbert-kickl-treffen](https://www.spiegel.de/ausland/oesterreich-alexander-van-der-bellen-will-herbert-kickl-treffen-a-59bd8af7-a666-4fe8-b607-4e5ac24dc6d7#ref=rss)
-### stellt
-
-* [https://www.spiegel.de/ausland/oesterreich-oevp-zu-gespraechen-mit-rechtspopulistischer-fpoe-bereit](https://www.spiegel.de/ausland/oesterreich-oevp-zu-gespraechen-mit-rechtspopulistischer-fpoe-bereit-a-ef2cc076-5d08-4faf-8f1a-a092c62e31b8#ref=rss)
-* [https://www.spiegel.de/panorama/silvester-influencer-nach-raketenschuss-durch-fenster-in-untersuchungshaft](https://www.spiegel.de/panorama/silvester-influencer-nach-raketenschuss-durch-fenster-in-untersuchungshaft-a-ef27af66-031b-4a2c-b81a-711bf933a199#ref=rss)
-* [https://www.spiegel.de/ausland/oesterreich-christian-stocker-soll-oevp-fuehren](https://www.spiegel.de/ausland/oesterreich-christian-stocker-soll-oevp-fuehren-a-c70b97d1-b5d9-47f2-8b53-79d26c7b874e#ref=rss)
-### silvester
-
-* [https://www.spiegel.de/panorama/petition-ueber-eine-million-unterstuetzer-fuer-boellerverbot-in-deutschland](https://www.spiegel.de/panorama/petition-ueber-eine-million-unterstuetzer-fuer-boellerverbot-in-deutschland-a-e1c4e3ca-a71a-4a1f-88c5-c7555aed2203#ref=rss)
-* [https://www.spiegel.de/panorama/silvester-influencer-nach-raketenschuss-durch-fenster-in-untersuchungshaft](https://www.spiegel.de/panorama/silvester-influencer-nach-raketenschuss-durch-fenster-in-untersuchungshaft-a-ef27af66-031b-4a2c-b81a-711bf933a199#ref=rss)
-### lennon
-
-* [https://www.spiegel.de/panorama/julian-lennon-lennon-sohn-spricht-ueber-musikalisches-fiasko](https://www.spiegel.de/panorama/julian-lennon-lennon-sohn-spricht-ueber-musikalisches-fiasko-a-1cffa2dd-ab5d-4493-a6ff-185827517cd8#ref=rss)
-### putin
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-nennt-roderich-kiesewetter-aussage-zutiefst-unanstaendig](https://www.spiegel.de/politik/deutschland/olaf-scholz-nennt-roderich-kiesewetter-aussage-zutiefst-unanstaendig-a-a340575c-9f92-467c-9247-b624ea0f14ef#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/silvesterknallerei-neujahrsvorsaetze-putin-und-trump-das-sind-die-besten-cartoons-der-woche](https://www.spiegel.de/kultur/literatur/silvesterknallerei-neujahrsvorsaetze-putin-und-trump-das-sind-die-besten-cartoons-der-woche-a-9007848d-1cf8-4a76-8bff-0c5194773781#ref=rss)
-### trump
-
-* [https://www.spiegel.de/auto/new-york-city-maut-congestion-charge-fuer-manhattan-eingefuehrt](https://www.spiegel.de/auto/new-york-city-maut-congestion-charge-fuer-manhattan-eingefuehrt-a-63075642-dce5-43b2-b3e9-40c37d94eafd#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/silvesterknallerei-neujahrsvorsaetze-putin-und-trump-das-sind-die-besten-cartoons-der-woche](https://www.spiegel.de/kultur/literatur/silvesterknallerei-neujahrsvorsaetze-putin-und-trump-das-sind-die-besten-cartoons-der-woche-a-9007848d-1cf8-4a76-8bff-0c5194773781#ref=rss)
-### woche
-
-* [https://www.spiegel.de/kultur/literatur/silvesterknallerei-neujahrsvorsaetze-putin-und-trump-das-sind-die-besten-cartoons-der-woche](https://www.spiegel.de/kultur/literatur/silvesterknallerei-neujahrsvorsaetze-putin-und-trump-das-sind-die-besten-cartoons-der-woche-a-9007848d-1cf8-4a76-8bff-0c5194773781#ref=rss)
-### vierschanzentournee
-
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-stefan-kraft-dominiert-die-qualifikation-andreas-wellinger-bester-deutscher](https://www.spiegel.de/sport/wintersport/vierschanzentournee-stefan-kraft-dominiert-die-qualifikation-andreas-wellinger-bester-deutscher-a-5621db61-26f8-4af5-8fd9-4ebd55388d13#ref=rss)
-### stefan
-
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-stefan-kraft-dominiert-die-qualifikation-andreas-wellinger-bester-deutscher](https://www.spiegel.de/sport/wintersport/vierschanzentournee-stefan-kraft-dominiert-die-qualifikation-andreas-wellinger-bester-deutscher-a-5621db61-26f8-4af5-8fd9-4ebd55388d13#ref=rss)
-### dominiert
-
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-stefan-kraft-dominiert-die-qualifikation-andreas-wellinger-bester-deutscher](https://www.spiegel.de/sport/wintersport/vierschanzentournee-stefan-kraft-dominiert-die-qualifikation-andreas-wellinger-bester-deutscher-a-5621db61-26f8-4af5-8fd9-4ebd55388d13#ref=rss)
-* [https://www.spiegel.de/ausland/elon-musk-unser-liebster-boesewicht-kolumne](https://www.spiegel.de/ausland/elon-musk-unser-liebster-boesewicht-kolumne-a-0d8f5ca6-763a-4f83-81f4-9b87abb5526d#ref=rss)
-### qualifikation
-
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-stefan-kraft-dominiert-die-qualifikation-andreas-wellinger-bester-deutscher](https://www.spiegel.de/sport/wintersport/vierschanzentournee-stefan-kraft-dominiert-die-qualifikation-andreas-wellinger-bester-deutscher-a-5621db61-26f8-4af5-8fd9-4ebd55388d13#ref=rss)
-### gelingt
-
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-stefan-kraft-dominiert-die-qualifikation-andreas-wellinger-bester-deutscher](https://www.spiegel.de/sport/wintersport/vierschanzentournee-stefan-kraft-dominiert-die-qualifikation-andreas-wellinger-bester-deutscher-a-5621db61-26f8-4af5-8fd9-4ebd55388d13#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-attackiert-roderich-kiesewetter-kanzler-im-kampfmodus](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-attackiert-roderich-kiesewetter-kanzler-im-kampfmodus-a-46d5d105-ddb5-41ac-b0c4-de0ce113f17b#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-stefan-kraft-dominiert-die-qualifikation-andreas-wellinger-bester-deutscher](https://www.spiegel.de/sport/wintersport/vierschanzentournee-stefan-kraft-dominiert-die-qualifikation-andreas-wellinger-bester-deutscher-a-5621db61-26f8-4af5-8fd9-4ebd55388d13#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-will-ausbuergerung-ermoeglichen](https://www.spiegel.de/politik/deutschland/friedrich-merz-will-ausbuergerung-ermoeglichen-a-d887cae0-8e6f-4f1f-ab5b-1de8da5efde7#ref=rss)
-### orcas
-
-* [https://www.spiegel.de/panorama/portugal-orcas-beschaedigen-norwegisches-segelboot](https://www.spiegel.de/panorama/portugal-orcas-beschaedigen-norwegisches-segelboot-a-83be2f88-2fe6-471c-8150-35b448bff8a4#ref=rss)
-### segelboot
-
-* [https://www.spiegel.de/panorama/portugal-orcas-beschaedigen-norwegisches-segelboot](https://www.spiegel.de/panorama/portugal-orcas-beschaedigen-norwegisches-segelboot-a-83be2f88-2fe6-471c-8150-35b448bff8a4#ref=rss)
-### unter
-
-* [https://www.spiegel.de/panorama/portugal-orcas-beschaedigen-norwegisches-segelboot](https://www.spiegel.de/panorama/portugal-orcas-beschaedigen-norwegisches-segelboot-a-83be2f88-2fe6-471c-8150-35b448bff8a4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/schweizer-grossbank-credit-suisse-soll-informationen-ueber-nazi-konten-verschwiegen-haben](https://www.spiegel.de/wirtschaft/schweizer-grossbank-credit-suisse-soll-informationen-ueber-nazi-konten-verschwiegen-haben-a-6b2e97aa-b0f1-45d5-969b-6f5f834e6ab1#ref=rss)
-### wilde
-
-* [https://www.spiegel.de/panorama/krieg-der-woerter-ein-versuch-unsere-wilde-welt-mit-sprache-zu-baendigen](https://www.spiegel.de/panorama/krieg-der-woerter-ein-versuch-unsere-wilde-welt-mit-sprache-zu-baendigen-a-1d8f0f27-bdab-4afd-8ef3-6f61543d76fc#ref=rss)
-### sprache
-
-* [https://www.spiegel.de/panorama/krieg-der-woerter-ein-versuch-unsere-wilde-welt-mit-sprache-zu-baendigen](https://www.spiegel.de/panorama/krieg-der-woerter-ein-versuch-unsere-wilde-welt-mit-sprache-zu-baendigen-a-1d8f0f27-bdab-4afd-8ef3-6f61543d76fc#ref=rss)
-### bändigen
-
-* [https://www.spiegel.de/panorama/krieg-der-woerter-ein-versuch-unsere-wilde-welt-mit-sprache-zu-baendigen](https://www.spiegel.de/panorama/krieg-der-woerter-ein-versuch-unsere-wilde-welt-mit-sprache-zu-baendigen-a-1d8f0f27-bdab-4afd-8ef3-6f61543d76fc#ref=rss)
-### winterberg
-
-* [https://www.spiegel.de/sport/wintersport/weltcup-in-winterberg-schwere-stuerze-beim-viererbob-francesco-friedrich-nur-zweiter](https://www.spiegel.de/sport/wintersport/weltcup-in-winterberg-schwere-stuerze-beim-viererbob-francesco-friedrich-nur-zweiter-a-066e3cb9-23c9-4451-8081-739f06fe0b78#ref=rss)
-### schwere
-
-* [https://www.spiegel.de/sport/wintersport/weltcup-in-winterberg-schwere-stuerze-beim-viererbob-francesco-friedrich-nur-zweiter](https://www.spiegel.de/sport/wintersport/weltcup-in-winterberg-schwere-stuerze-beim-viererbob-francesco-friedrich-nur-zweiter-a-066e3cb9-23c9-4451-8081-739f06fe0b78#ref=rss)
-* [https://www.spiegel.de/wirtschaft/schweizer-grossbank-credit-suisse-soll-informationen-ueber-nazi-konten-verschwiegen-haben](https://www.spiegel.de/wirtschaft/schweizer-grossbank-credit-suisse-soll-informationen-ueber-nazi-konten-verschwiegen-haben-a-6b2e97aa-b0f1-45d5-969b-6f5f834e6ab1#ref=rss)
-### francesco
-
-* [https://www.spiegel.de/sport/wintersport/weltcup-in-winterberg-schwere-stuerze-beim-viererbob-francesco-friedrich-nur-zweiter](https://www.spiegel.de/sport/wintersport/weltcup-in-winterberg-schwere-stuerze-beim-viererbob-francesco-friedrich-nur-zweiter-a-066e3cb9-23c9-4451-8081-739f06fe0b78#ref=rss)
-### unfälle
-
-* [https://www.spiegel.de/sport/wintersport/weltcup-in-winterberg-schwere-stuerze-beim-viererbob-francesco-friedrich-nur-zweiter](https://www.spiegel.de/sport/wintersport/weltcup-in-winterberg-schwere-stuerze-beim-viererbob-francesco-friedrich-nur-zweiter-a-066e3cb9-23c9-4451-8081-739f06fe0b78#ref=rss)
-* [https://www.spiegel.de/panorama/winterwetter-in-deutschland-schnee-und-eis-fuehren-zu-flugausfaellen-und-verkehrsunfaellen](https://www.spiegel.de/panorama/winterwetter-in-deutschland-schnee-und-eis-fuehren-zu-flugausfaellen-und-verkehrsunfaellen-a-14ac547b-c129-4ff9-80a9-6eb496fe764e#ref=rss)
-### geben
-
-* [https://www.spiegel.de/sport/wintersport/weltcup-in-winterberg-schwere-stuerze-beim-viererbob-francesco-friedrich-nur-zweiter](https://www.spiegel.de/sport/wintersport/weltcup-in-winterberg-schwere-stuerze-beim-viererbob-francesco-friedrich-nur-zweiter-a-066e3cb9-23c9-4451-8081-739f06fe0b78#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/d-mark-und-euro-deutsche-tauschten-2024-rund-57-millionen-mark-in-euro-um](https://www.spiegel.de/wirtschaft/service/d-mark-und-euro-deutsche-tauschten-2024-rund-57-millionen-mark-in-euro-um-a-7db334dd-6d45-42da-a29b-5dd2f9e1a1d1#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/panorama/japan-thunfisch-fuer-1-3-millionen-euro-versteigert](https://www.spiegel.de/panorama/japan-thunfisch-fuer-1-3-millionen-euro-versteigert-a-3b3b8657-799e-44a0-bd46-870609f8168c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/d-mark-und-euro-deutsche-tauschten-2024-rund-57-millionen-mark-in-euro-um](https://www.spiegel.de/wirtschaft/service/d-mark-und-euro-deutsche-tauschten-2024-rund-57-millionen-mark-in-euro-um-a-7db334dd-6d45-42da-a29b-5dd2f9e1a1d1#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/panorama/japan-thunfisch-fuer-1-3-millionen-euro-versteigert](https://www.spiegel.de/panorama/japan-thunfisch-fuer-1-3-millionen-euro-versteigert-a-3b3b8657-799e-44a0-bd46-870609f8168c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-spricht-ueber-gewichtsprobleme-als-teenager](https://www.spiegel.de/politik/deutschland/christian-lindner-spricht-ueber-gewichtsprobleme-als-teenager-a-ef220268-2913-40c6-90cc-12d79a707108#ref=rss)
-### schweizer
-
-* [https://www.spiegel.de/wirtschaft/schweizer-grossbank-credit-suisse-soll-informationen-ueber-nazi-konten-verschwiegen-haben](https://www.spiegel.de/wirtschaft/schweizer-grossbank-credit-suisse-soll-informationen-ueber-nazi-konten-verschwiegen-haben-a-6b2e97aa-b0f1-45d5-969b-6f5f834e6ab1#ref=rss)
-### großbank
-
-* [https://www.spiegel.de/wirtschaft/schweizer-grossbank-credit-suisse-soll-informationen-ueber-nazi-konten-verschwiegen-haben](https://www.spiegel.de/wirtschaft/schweizer-grossbank-credit-suisse-soll-informationen-ueber-nazi-konten-verschwiegen-haben-a-6b2e97aa-b0f1-45d5-969b-6f5f834e6ab1#ref=rss)
-### credit
-
-* [https://www.spiegel.de/wirtschaft/schweizer-grossbank-credit-suisse-soll-informationen-ueber-nazi-konten-verschwiegen-haben](https://www.spiegel.de/wirtschaft/schweizer-grossbank-credit-suisse-soll-informationen-ueber-nazi-konten-verschwiegen-haben-a-6b2e97aa-b0f1-45d5-969b-6f5f834e6ab1#ref=rss)
-### suisse
-
-* [https://www.spiegel.de/wirtschaft/schweizer-grossbank-credit-suisse-soll-informationen-ueber-nazi-konten-verschwiegen-haben](https://www.spiegel.de/wirtschaft/schweizer-grossbank-credit-suisse-soll-informationen-ueber-nazi-konten-verschwiegen-haben-a-6b2e97aa-b0f1-45d5-969b-6f5f834e6ab1#ref=rss)
-### tatort
-
-* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-koeln-restschuld-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-koeln-restschuld-im-schnellcheck-a-1268c1af-9213-444d-a862-abf50c23322a#ref=rss)
-### youtuber
-
-* [https://www.spiegel.de/deinspiegel/youtuber-julien-bam-im-kinder-interview-ein-guter-filmemacher-ist-auch-ein-guter-problemloeser](https://www.spiegel.de/deinspiegel/youtuber-julien-bam-im-kinder-interview-ein-guter-filmemacher-ist-auch-ein-guter-problemloeser-a-618bf935-9897-41b9-9b80-d5907932beea#ref=rss)
-### julien
-
-* [https://www.spiegel.de/deinspiegel/youtuber-julien-bam-im-kinder-interview-ein-guter-filmemacher-ist-auch-ein-guter-problemloeser](https://www.spiegel.de/deinspiegel/youtuber-julien-bam-im-kinder-interview-ein-guter-filmemacher-ist-auch-ein-guter-problemloeser-a-618bf935-9897-41b9-9b80-d5907932beea#ref=rss)
-### bam
-
-* [https://www.spiegel.de/deinspiegel/youtuber-julien-bam-im-kinder-interview-ein-guter-filmemacher-ist-auch-ein-guter-problemloeser](https://www.spiegel.de/deinspiegel/youtuber-julien-bam-im-kinder-interview-ein-guter-filmemacher-ist-auch-ein-guter-problemloeser-a-618bf935-9897-41b9-9b80-d5907932beea#ref=rss)
-### guter
-
-* [https://www.spiegel.de/deinspiegel/youtuber-julien-bam-im-kinder-interview-ein-guter-filmemacher-ist-auch-ein-guter-problemloeser](https://www.spiegel.de/deinspiegel/youtuber-julien-bam-im-kinder-interview-ein-guter-filmemacher-ist-auch-ein-guter-problemloeser-a-618bf935-9897-41b9-9b80-d5907932beea#ref=rss)
-### deutschlands
-
-* [https://www.spiegel.de/deinspiegel/youtuber-julien-bam-im-kinder-interview-ein-guter-filmemacher-ist-auch-ein-guter-problemloeser](https://www.spiegel.de/deinspiegel/youtuber-julien-bam-im-kinder-interview-ein-guter-filmemacher-ist-auch-ein-guter-problemloeser-a-618bf935-9897-41b9-9b80-d5907932beea#ref=rss)
-* [https://www.spiegel.de/panorama/winterwetter-in-deutschland-schnee-und-eis-fuehren-zu-flugausfaellen-und-verkehrsunfaellen](https://www.spiegel.de/panorama/winterwetter-in-deutschland-schnee-und-eis-fuehren-zu-flugausfaellen-und-verkehrsunfaellen-a-14ac547b-c129-4ff9-80a9-6eb496fe764e#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/deinspiegel/youtuber-julien-bam-im-kinder-interview-ein-guter-filmemacher-ist-auch-ein-guter-problemloeser](https://www.spiegel.de/deinspiegel/youtuber-julien-bam-im-kinder-interview-ein-guter-filmemacher-ist-auch-ein-guter-problemloeser-a-618bf935-9897-41b9-9b80-d5907932beea#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/d-mark-und-euro-deutsche-tauschten-2024-rund-57-millionen-mark-in-euro-um](https://www.spiegel.de/wirtschaft/service/d-mark-und-euro-deutsche-tauschten-2024-rund-57-millionen-mark-in-euro-um-a-7db334dd-6d45-42da-a29b-5dd2f9e1a1d1#ref=rss)
-### cduchef
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-will-ausbuergerung-ermoeglichen](https://www.spiegel.de/politik/deutschland/friedrich-merz-will-ausbuergerung-ermoeglichen-a-d887cae0-8e6f-4f1f-ab5b-1de8da5efde7#ref=rss)
-### bringt
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-will-ausbuergerung-ermoeglichen](https://www.spiegel.de/politik/deutschland/friedrich-merz-will-ausbuergerung-ermoeglichen-a-d887cae0-8e6f-4f1f-ab5b-1de8da5efde7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-spricht-ueber-gewichtsprobleme-als-teenager](https://www.spiegel.de/politik/deutschland/christian-lindner-spricht-ueber-gewichtsprobleme-als-teenager-a-ef220268-2913-40c6-90cc-12d79a707108#ref=rss)
-### lindner
-
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-spricht-ueber-gewichtsprobleme-als-teenager](https://www.spiegel.de/politik/deutschland/christian-lindner-spricht-ueber-gewichtsprobleme-als-teenager-a-ef220268-2913-40c6-90cc-12d79a707108#ref=rss)
-### schafe
-
-* [https://www.spiegel.de/panorama/justiz/magdeburg-hunderte-tote-schafe-auf-grundstueck-entdeckt](https://www.spiegel.de/panorama/justiz/magdeburg-hunderte-tote-schafe-auf-grundstueck-entdeckt-a-276a6c66-7563-42d1-89b1-ccb43e7874c0#ref=rss)
-### entdeckt
-
-* [https://www.spiegel.de/panorama/justiz/magdeburg-hunderte-tote-schafe-auf-grundstueck-entdeckt](https://www.spiegel.de/panorama/justiz/magdeburg-hunderte-tote-schafe-auf-grundstueck-entdeckt-a-276a6c66-7563-42d1-89b1-ccb43e7874c0#ref=rss)
-### 400
-
-* [https://www.spiegel.de/panorama/justiz/magdeburg-hunderte-tote-schafe-auf-grundstueck-entdeckt](https://www.spiegel.de/panorama/justiz/magdeburg-hunderte-tote-schafe-auf-grundstueck-entdeckt-a-276a6c66-7563-42d1-89b1-ccb43e7874c0#ref=rss)
-* [https://www.spiegel.de/panorama/petition-ueber-eine-million-unterstuetzer-fuer-boellerverbot-in-deutschland](https://www.spiegel.de/panorama/petition-ueber-eine-million-unterstuetzer-fuer-boellerverbot-in-deutschland-a-e1c4e3ca-a71a-4a1f-88c5-c7555aed2203#ref=rss)
-### jeff
-
-* [https://www.spiegel.de/kultur/kino/jeff-baena-ist-tot](https://www.spiegel.de/kultur/kino/jeff-baena-ist-tot-a-92fbbce2-ec38-4c24-aaea-e59ae1f6500f#ref=rss)
-### baena
-
-* [https://www.spiegel.de/kultur/kino/jeff-baena-ist-tot](https://www.spiegel.de/kultur/kino/jeff-baena-ist-tot-a-92fbbce2-ec38-4c24-aaea-e59ae1f6500f#ref=rss)
-### spd
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-attackiert-roderich-kiesewetter-kanzler-im-kampfmodus](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-attackiert-roderich-kiesewetter-kanzler-im-kampfmodus-a-46d5d105-ddb5-41ac-b0c4-de0ce113f17b#ref=rss)
-### kiesewetter
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-attackiert-roderich-kiesewetter-kanzler-im-kampfmodus](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-attackiert-roderich-kiesewetter-kanzler-im-kampfmodus-a-46d5d105-ddb5-41ac-b0c4-de0ce113f17b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-nennt-roderich-kiesewetter-aussage-zutiefst-unanstaendig](https://www.spiegel.de/politik/deutschland/olaf-scholz-nennt-roderich-kiesewetter-aussage-zutiefst-unanstaendig-a-a340575c-9f92-467c-9247-b624ea0f14ef#ref=rss)
-### nennt
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-attackiert-roderich-kiesewetter-kanzler-im-kampfmodus](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-attackiert-roderich-kiesewetter-kanzler-im-kampfmodus-a-46d5d105-ddb5-41ac-b0c4-de0ce113f17b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-nennt-roderich-kiesewetter-aussage-zutiefst-unanstaendig](https://www.spiegel.de/politik/deutschland/olaf-scholz-nennt-roderich-kiesewetter-aussage-zutiefst-unanstaendig-a-a340575c-9f92-467c-9247-b624ea0f14ef#ref=rss)
-### zutiefst
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-attackiert-roderich-kiesewetter-kanzler-im-kampfmodus](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-attackiert-roderich-kiesewetter-kanzler-im-kampfmodus-a-46d5d105-ddb5-41ac-b0c4-de0ce113f17b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-nennt-roderich-kiesewetter-aussage-zutiefst-unanstaendig](https://www.spiegel.de/politik/deutschland/olaf-scholz-nennt-roderich-kiesewetter-aussage-zutiefst-unanstaendig-a-a340575c-9f92-467c-9247-b624ea0f14ef#ref=rss)
-### unanständig
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-attackiert-roderich-kiesewetter-kanzler-im-kampfmodus](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-attackiert-roderich-kiesewetter-kanzler-im-kampfmodus-a-46d5d105-ddb5-41ac-b0c4-de0ce113f17b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-nennt-roderich-kiesewetter-aussage-zutiefst-unanstaendig](https://www.spiegel.de/politik/deutschland/olaf-scholz-nennt-roderich-kiesewetter-aussage-zutiefst-unanstaendig-a-a340575c-9f92-467c-9247-b624ea0f14ef#ref=rss)
-### offen
-
-* [https://www.spiegel.de/ausland/oesterreich-oevp-zu-gespraechen-mit-rechtspopulistischer-fpoe-bereit](https://www.spiegel.de/ausland/oesterreich-oevp-zu-gespraechen-mit-rechtspopulistischer-fpoe-bereit-a-ef2cc076-5d08-4faf-8f1a-a092c62e31b8#ref=rss)
-* [https://www.spiegel.de/ausland/oesterreich-christian-stocker-soll-oevp-fuehren](https://www.spiegel.de/ausland/oesterreich-christian-stocker-soll-oevp-fuehren-a-c70b97d1-b5d9-47f2-8b53-79d26c7b874e#ref=rss)
-### koalitionsgespräche
-
-* [https://www.spiegel.de/ausland/oesterreich-oevp-zu-gespraechen-mit-rechtspopulistischer-fpoe-bereit](https://www.spiegel.de/ausland/oesterreich-oevp-zu-gespraechen-mit-rechtspopulistischer-fpoe-bereit-a-ef2cc076-5d08-4faf-8f1a-a092c62e31b8#ref=rss)
-* [https://www.spiegel.de/ausland/oesterreich-alexander-van-der-bellen-will-herbert-kickl-treffen](https://www.spiegel.de/ausland/oesterreich-alexander-van-der-bellen-will-herbert-kickl-treffen-a-59bd8af7-a666-4fe8-b607-4e5ac24dc6d7#ref=rss)
-### konservative
-
-* [https://www.spiegel.de/ausland/oesterreich-oevp-zu-gespraechen-mit-rechtspopulistischer-fpoe-bereit](https://www.spiegel.de/ausland/oesterreich-oevp-zu-gespraechen-mit-rechtspopulistischer-fpoe-bereit-a-ef2cc076-5d08-4faf-8f1a-a092c62e31b8#ref=rss)
-* [https://www.spiegel.de/ausland/oesterreich-christian-stocker-soll-oevp-fuehren](https://www.spiegel.de/ausland/oesterreich-christian-stocker-soll-oevp-fuehren-a-c70b97d1-b5d9-47f2-8b53-79d26c7b874e#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/panorama/petition-ueber-eine-million-unterstuetzer-fuer-boellerverbot-in-deutschland](https://www.spiegel.de/panorama/petition-ueber-eine-million-unterstuetzer-fuer-boellerverbot-in-deutschland-a-e1c4e3ca-a71a-4a1f-88c5-c7555aed2203#ref=rss)
-* [https://www.spiegel.de/panorama/winterwetter-in-deutschland-schnee-und-eis-fuehren-zu-flugausfaellen-und-verkehrsunfaellen](https://www.spiegel.de/panorama/winterwetter-in-deutschland-schnee-und-eis-fuehren-zu-flugausfaellen-und-verkehrsunfaellen-a-14ac547b-c129-4ff9-80a9-6eb496fe764e#ref=rss)
-### berlin
+* [https://www.spiegel.de/auto/elektroauto-kaufen-csu-plant-bei-wahlsieg-staatliche-praemie-von-bis-zu-3600-euro](https://www.spiegel.de/auto/elektroauto-kaufen-csu-plant-bei-wahlsieg-staatliche-praemie-von-bis-zu-3600-euro-a-1ec53bfc-5311-4d7f-8491-816952f72013#ref=rss)
+* [https://www.spiegel.de/politik/oesterreich-deutsche-politiker-werten-moegliche-fpoe-regierungsbeteiligung-als-warnsignal](https://www.spiegel.de/politik/oesterreich-deutsche-politiker-werten-moegliche-fpoe-regierungsbeteiligung-als-warnsignal-a-e2590242-0839-45de-afa7-f5141be27903#ref=rss)
+* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-zahl-der-insolvenzen-erreicht-niveau-der-finanzkrise](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-zahl-der-insolvenzen-erreicht-niveau-der-finanzkrise-a-078db569-120d-44df-83e9-22edd42df6ac#ref=rss)
+* [https://www.spiegel.de/wirtschaft/mieten-in-deutschland-app-der-linken-zeigt-mehr-als-bedenkliche-22-000-faelle](https://www.spiegel.de/wirtschaft/mieten-in-deutschland-app-der-linken-zeigt-mehr-als-bedenkliche-22-000-faelle-a-672d6e9e-5993-4bed-9703-ab15f7b73489#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/rechtsextremismus-in-deutschland-zahl-der-straftaten-erreicht-2024-neuen-hoechststand](https://www.spiegel.de/panorama/justiz/rechtsextremismus-in-deutschland-zahl-der-straftaten-erreicht-2024-neuen-hoechststand-a-bd9932f6-b7c5-4532-ae68-8c4d483355cc#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/panorama/petition-ueber-eine-million-unterstuetzer-fuer-boellerverbot-in-deutschland](https://www.spiegel.de/panorama/petition-ueber-eine-million-unterstuetzer-fuer-boellerverbot-in-deutschland-a-e1c4e3ca-a71a-4a1f-88c5-c7555aed2203#ref=rss)
-* [https://www.spiegel.de/panorama/silvester-influencer-nach-raketenschuss-durch-fenster-in-untersuchungshaft](https://www.spiegel.de/panorama/silvester-influencer-nach-raketenschuss-durch-fenster-in-untersuchungshaft-a-ef27af66-031b-4a2c-b81a-711bf933a199#ref=rss)
-### polizei
+* [https://www.spiegel.de/panorama/usa-heftigster-schneefall-seit-mehr-als-einem-jahrzehnt-erwartet](https://www.spiegel.de/panorama/usa-heftigster-schneefall-seit-mehr-als-einem-jahrzehnt-erwartet-a-b81bd680-0fe0-44a1-8e97-de3ebf93de8f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/mieten-in-deutschland-app-der-linken-zeigt-mehr-als-bedenkliche-22-000-faelle](https://www.spiegel.de/wirtschaft/mieten-in-deutschland-app-der-linken-zeigt-mehr-als-bedenkliche-22-000-faelle-a-672d6e9e-5993-4bed-9703-ab15f7b73489#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/rechtsextremismus-in-deutschland-zahl-der-straftaten-erreicht-2024-neuen-hoechststand](https://www.spiegel.de/panorama/justiz/rechtsextremismus-in-deutschland-zahl-der-straftaten-erreicht-2024-neuen-hoechststand-a-bd9932f6-b7c5-4532-ae68-8c4d483355cc#ref=rss)
+* [https://www.spiegel.de/karriere/umfrage-nur-48-prozent-geben-ihr-bestes-auf-der-arbeit](https://www.spiegel.de/karriere/umfrage-nur-48-prozent-geben-ihr-bestes-auf-der-arbeit-a-ad418efd-c62c-4b1e-91cd-96161368edbe#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/instagram-wie-bekomme-ich-in-der-app-weniger-nervige-vorschlaege](https://www.spiegel.de/netzwelt/apps/instagram-wie-bekomme-ich-in-der-app-weniger-nervige-vorschlaege-a-293ce650-b648-42f6-bea9-1d16f3c8b2c7#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/panorama/petition-ueber-eine-million-unterstuetzer-fuer-boellerverbot-in-deutschland](https://www.spiegel.de/panorama/petition-ueber-eine-million-unterstuetzer-fuer-boellerverbot-in-deutschland-a-e1c4e3ca-a71a-4a1f-88c5-c7555aed2203#ref=rss)
-* [https://www.spiegel.de/panorama/silvester-influencer-nach-raketenschuss-durch-fenster-in-untersuchungshaft](https://www.spiegel.de/panorama/silvester-influencer-nach-raketenschuss-durch-fenster-in-untersuchungshaft-a-ef27af66-031b-4a2c-b81a-711bf933a199#ref=rss)
-### influencer
+* [https://www.spiegel.de/panorama/melbourne-pilot-bricht-start-bei-200-km-h-ab](https://www.spiegel.de/panorama/melbourne-pilot-bricht-start-bei-200-km-h-ab-a-b7fa049a-1b97-46f0-9ee0-3b4a5d2ac081#ref=rss)
+* [https://www.spiegel.de/auto/elektroauto-kaufen-csu-plant-bei-wahlsieg-staatliche-praemie-von-bis-zu-3600-euro](https://www.spiegel.de/auto/elektroauto-kaufen-csu-plant-bei-wahlsieg-staatliche-praemie-von-bis-zu-3600-euro-a-1ec53bfc-5311-4d7f-8491-816952f72013#ref=rss)
+* [https://www.spiegel.de/wirtschaft/italien-plant-1-5-milliarden-euro-geschaeft-mit-spacex](https://www.spiegel.de/wirtschaft/italien-plant-1-5-milliarden-euro-geschaeft-mit-spacex-a-56d42f22-38c8-46ac-bd61-755793c3f6a0#ref=rss)
+* [https://www.spiegel.de/ausland/justin-trudeau-kanadas-premierminister-erwaegt-offenbar-ruecktritt](https://www.spiegel.de/ausland/justin-trudeau-kanadas-premierminister-erwaegt-offenbar-ruecktritt-a-a62f3258-fb9a-46f0-892b-88be8bd619d3#ref=rss)
+### laut
 
-* [https://www.spiegel.de/panorama/silvester-influencer-nach-raketenschuss-durch-fenster-in-untersuchungshaft](https://www.spiegel.de/panorama/silvester-influencer-nach-raketenschuss-durch-fenster-in-untersuchungshaft-a-ef27af66-031b-4a2c-b81a-711bf933a199#ref=rss)
-### tat
+* [https://www.spiegel.de/ausland/ukraine-krieg-ukrainische-position-in-kursk-laut-antony-blinken-wichtig-fuer-verhandlungen](https://www.spiegel.de/ausland/ukraine-krieg-ukrainische-position-in-kursk-laut-antony-blinken-wichtig-fuer-verhandlungen-a-086b54d7-fde8-48f0-88b7-d272bfee88a0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-zahl-der-insolvenzen-erreicht-niveau-der-finanzkrise](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-zahl-der-insolvenzen-erreicht-niveau-der-finanzkrise-a-078db569-120d-44df-83e9-22edd42df6ac#ref=rss)
+* [https://www.spiegel.de/karriere/umfrage-nur-48-prozent-geben-ihr-bestes-auf-der-arbeit](https://www.spiegel.de/karriere/umfrage-nur-48-prozent-geben-ihr-bestes-auf-der-arbeit-a-ad418efd-c62c-4b1e-91cd-96161368edbe#ref=rss)
+### zahl
 
-* [https://www.spiegel.de/panorama/silvester-influencer-nach-raketenschuss-durch-fenster-in-untersuchungshaft](https://www.spiegel.de/panorama/silvester-influencer-nach-raketenschuss-durch-fenster-in-untersuchungshaft-a-ef27af66-031b-4a2c-b81a-711bf933a199#ref=rss)
-* [https://www.spiegel.de/panorama/julian-lennon-lennon-sohn-spricht-ueber-musikalisches-fiasko](https://www.spiegel.de/panorama/julian-lennon-lennon-sohn-spricht-ueber-musikalisches-fiasko-a-1cffa2dd-ab5d-4493-a6ff-185827517cd8#ref=rss)
-### julian
+* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-zahl-der-insolvenzen-erreicht-niveau-der-finanzkrise](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-zahl-der-insolvenzen-erreicht-niveau-der-finanzkrise-a-078db569-120d-44df-83e9-22edd42df6ac#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/rechtsextremismus-in-deutschland-zahl-der-straftaten-erreicht-2024-neuen-hoechststand](https://www.spiegel.de/panorama/justiz/rechtsextremismus-in-deutschland-zahl-der-straftaten-erreicht-2024-neuen-hoechststand-a-bd9932f6-b7c5-4532-ae68-8c4d483355cc#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/panorama/julian-lennon-lennon-sohn-spricht-ueber-musikalisches-fiasko](https://www.spiegel.de/panorama/julian-lennon-lennon-sohn-spricht-ueber-musikalisches-fiasko-a-1cffa2dd-ab5d-4493-a6ff-185827517cd8#ref=rss)
-### führen
+* [https://www.spiegel.de/auto/elektroauto-kaufen-csu-plant-bei-wahlsieg-staatliche-praemie-von-bis-zu-3600-euro](https://www.spiegel.de/auto/elektroauto-kaufen-csu-plant-bei-wahlsieg-staatliche-praemie-von-bis-zu-3600-euro-a-1ec53bfc-5311-4d7f-8491-816952f72013#ref=rss)
+* [https://www.spiegel.de/reise/europa/sauna-in-grossbritannien-saunen-haben-grosse-aehnlichkeit-mit-unserer-pubkultur](https://www.spiegel.de/reise/europa/sauna-in-grossbritannien-saunen-haben-grosse-aehnlichkeit-mit-unserer-pubkultur-a-c8d68edd-1407-47e6-a801-a75cf33c48bf#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/rechtsextremismus-in-deutschland-zahl-der-straftaten-erreicht-2024-neuen-hoechststand](https://www.spiegel.de/panorama/justiz/rechtsextremismus-in-deutschland-zahl-der-straftaten-erreicht-2024-neuen-hoechststand-a-bd9932f6-b7c5-4532-ae68-8c4d483355cc#ref=rss)
+### usa
 
-* [https://www.spiegel.de/panorama/winterwetter-in-deutschland-schnee-und-eis-fuehren-zu-flugausfaellen-und-verkehrsunfaellen](https://www.spiegel.de/panorama/winterwetter-in-deutschland-schnee-und-eis-fuehren-zu-flugausfaellen-und-verkehrsunfaellen-a-14ac547b-c129-4ff9-80a9-6eb496fe764e#ref=rss)
-* [https://www.spiegel.de/ausland/oesterreich-christian-stocker-soll-oevp-fuehren](https://www.spiegel.de/ausland/oesterreich-christian-stocker-soll-oevp-fuehren-a-c70b97d1-b5d9-47f2-8b53-79d26c7b874e#ref=rss)
-### stocker
+* [https://www.spiegel.de/panorama/usa-heftigster-schneefall-seit-mehr-als-einem-jahrzehnt-erwartet](https://www.spiegel.de/panorama/usa-heftigster-schneefall-seit-mehr-als-einem-jahrzehnt-erwartet-a-b81bd680-0fe0-44a1-8e97-de3ebf93de8f#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-ukrainische-position-in-kursk-laut-antony-blinken-wichtig-fuer-verhandlungen](https://www.spiegel.de/ausland/ukraine-krieg-ukrainische-position-in-kursk-laut-antony-blinken-wichtig-fuer-verhandlungen-a-086b54d7-fde8-48f0-88b7-d272bfee88a0#ref=rss)
+### viele
 
-* [https://www.spiegel.de/ausland/oesterreich-christian-stocker-soll-oevp-fuehren](https://www.spiegel.de/ausland/oesterreich-christian-stocker-soll-oevp-fuehren-a-c70b97d1-b5d9-47f2-8b53-79d26c7b874e#ref=rss)
-### schweinekopf
+* [https://www.spiegel.de/panorama/usa-heftigster-schneefall-seit-mehr-als-einem-jahrzehnt-erwartet](https://www.spiegel.de/panorama/usa-heftigster-schneefall-seit-mehr-als-einem-jahrzehnt-erwartet-a-b81bd680-0fe0-44a1-8e97-de3ebf93de8f#ref=rss)
+* [https://www.spiegel.de/auto/schule-in-bayern-polizei-verteilt-hunderte-strafzettel-fuer-elterntaxis](https://www.spiegel.de/auto/schule-in-bayern-polizei-verteilt-hunderte-strafzettel-fuer-elterntaxis-a-1112d05e-f114-483c-8ea7-0aff3b3c1c35#ref=rss)
+* [https://www.spiegel.de/psychologie/verbitterung-psychiater-michael-linden-sagt-warum-sie-gefaehrlich-ist-und-was-dagegen-hilft](https://www.spiegel.de/psychologie/verbitterung-psychiater-michael-linden-sagt-warum-sie-gefaehrlich-ist-und-was-dagegen-hilft-a-5e546592-73d7-4043-952b-e53baeed1fee#ref=rss)
+### große
 
-* [https://www.spiegel.de/panorama/thueringen-schweinekopf-vor-juedischem-gedenkort-in-apolda-abgelegt](https://www.spiegel.de/panorama/thueringen-schweinekopf-vor-juedischem-gedenkort-in-apolda-abgelegt-a-a0298318-de61-4cff-ba35-ddbaddb1cc0b#ref=rss)
-### gedenkort
+* [https://www.spiegel.de/panorama/usa-heftigster-schneefall-seit-mehr-als-einem-jahrzehnt-erwartet](https://www.spiegel.de/panorama/usa-heftigster-schneefall-seit-mehr-als-einem-jahrzehnt-erwartet-a-b81bd680-0fe0-44a1-8e97-de3ebf93de8f#ref=rss)
+* [https://www.spiegel.de/reise/europa/sauna-in-grossbritannien-saunen-haben-grosse-aehnlichkeit-mit-unserer-pubkultur](https://www.spiegel.de/reise/europa/sauna-in-grossbritannien-saunen-haben-grosse-aehnlichkeit-mit-unserer-pubkultur-a-c8d68edd-1407-47e6-a801-a75cf33c48bf#ref=rss)
+* [https://www.spiegel.de/karriere/umfrage-nur-48-prozent-geben-ihr-bestes-auf-der-arbeit](https://www.spiegel.de/karriere/umfrage-nur-48-prozent-geben-ihr-bestes-auf-der-arbeit-a-ad418efd-c62c-4b1e-91cd-96161368edbe#ref=rss)
+### anschlag
 
-* [https://www.spiegel.de/panorama/thueringen-schweinekopf-vor-juedischem-gedenkort-in-apolda-abgelegt](https://www.spiegel.de/panorama/thueringen-schweinekopf-vor-juedischem-gedenkort-in-apolda-abgelegt-a-a0298318-de61-4cff-ba35-ddbaddb1cc0b#ref=rss)
-### apolda
+* [https://www.spiegel.de/ausland/israel-anschlag-auf-bus-im-westjordanland](https://www.spiegel.de/ausland/israel-anschlag-auf-bus-im-westjordanland-a-64269093-7534-489e-8330-568eb211aa3e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/magdeburg-sechstes-todesopfer-nach-anschlag-auf-weihnachtsmarkt](https://www.spiegel.de/panorama/justiz/magdeburg-sechstes-todesopfer-nach-anschlag-auf-weihnachtsmarkt-a-b7b5f83a-5745-461f-99bf-c7123d691730#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/panorama/thueringen-schweinekopf-vor-juedischem-gedenkort-in-apolda-abgelegt](https://www.spiegel.de/panorama/thueringen-schweinekopf-vor-juedischem-gedenkort-in-apolda-abgelegt-a-a0298318-de61-4cff-ba35-ddbaddb1cc0b#ref=rss)
-### luke
+* [https://www.spiegel.de/ausland/israel-anschlag-auf-bus-im-westjordanland](https://www.spiegel.de/ausland/israel-anschlag-auf-bus-im-westjordanland-a-64269093-7534-489e-8330-568eb211aa3e#ref=rss)
+* [https://www.spiegel.de/psychologie/verbitterung-psychiater-michael-linden-sagt-warum-sie-gefaehrlich-ist-und-was-dagegen-hilft](https://www.spiegel.de/psychologie/verbitterung-psychiater-michael-linden-sagt-warum-sie-gefaehrlich-ist-und-was-dagegen-hilft-a-5e546592-73d7-4043-952b-e53baeed1fee#ref=rss)
+### österreich
 
-* [https://www.spiegel.de/sport/darts-luke-littler-hat-noch-keinen-fuehrerschein-aber-will-sich-ein-auto-kaufen](https://www.spiegel.de/sport/darts-luke-littler-hat-noch-keinen-fuehrerschein-aber-will-sich-ein-auto-kaufen-a-20e222db-a15f-4f5d-a62e-5f2b598918ad#ref=rss)
-### littler
+* [https://www.spiegel.de/ausland/oesterreich-regierungskrise-wird-fpoe-chef-herbert-kickl-jetzt-kanzler](https://www.spiegel.de/ausland/oesterreich-regierungskrise-wird-fpoe-chef-herbert-kickl-jetzt-kanzler-a-9eae4930-a18b-4937-97ce-c4f3d88c3d9e#ref=rss)
+* [https://www.spiegel.de/politik/oesterreich-deutsche-politiker-werten-moegliche-fpoe-regierungsbeteiligung-als-warnsignal](https://www.spiegel.de/politik/oesterreich-deutsche-politiker-werten-moegliche-fpoe-regierungsbeteiligung-als-warnsignal-a-e2590242-0839-45de-afa7-f5141be27903#ref=rss)
+### lange
 
-* [https://www.spiegel.de/sport/darts-luke-littler-hat-noch-keinen-fuehrerschein-aber-will-sich-ein-auto-kaufen](https://www.spiegel.de/sport/darts-luke-littler-hat-noch-keinen-fuehrerschein-aber-will-sich-ein-auto-kaufen-a-20e222db-a15f-4f5d-a62e-5f2b598918ad#ref=rss)
-### auto
+* [https://www.spiegel.de/ausland/oesterreich-regierungskrise-wird-fpoe-chef-herbert-kickl-jetzt-kanzler](https://www.spiegel.de/ausland/oesterreich-regierungskrise-wird-fpoe-chef-herbert-kickl-jetzt-kanzler-a-9eae4930-a18b-4937-97ce-c4f3d88c3d9e#ref=rss)
+* [https://www.spiegel.de/karriere/magna-werk-in-dorfprozelten-wie-eine-beschaeftigte-um-ihre-zukunft-ringt](https://www.spiegel.de/karriere/magna-werk-in-dorfprozelten-wie-eine-beschaeftigte-um-ihre-zukunft-ringt-a-fb44aa31-808e-462f-a554-9e1249e4c72c#ref=rss)
+* [https://www.spiegel.de/karriere/arbeitslosigkeit-nach-schicksalsschlaegen-fuer-mich-ist-es-ein-neuanfang](https://www.spiegel.de/karriere/arbeitslosigkeit-nach-schicksalsschlaegen-fuer-mich-ist-es-ein-neuanfang-a-d1a278b3-90b5-47dc-9b8e-317b2a64340b#ref=rss)
+### antony
 
-* [https://www.spiegel.de/sport/darts-luke-littler-hat-noch-keinen-fuehrerschein-aber-will-sich-ein-auto-kaufen](https://www.spiegel.de/sport/darts-luke-littler-hat-noch-keinen-fuehrerschein-aber-will-sich-ein-auto-kaufen-a-20e222db-a15f-4f5d-a62e-5f2b598918ad#ref=rss)
-* [https://www.spiegel.de/auto/new-york-city-maut-congestion-charge-fuer-manhattan-eingefuehrt](https://www.spiegel.de/auto/new-york-city-maut-congestion-charge-fuer-manhattan-eingefuehrt-a-63075642-dce5-43b2-b3e9-40c37d94eafd#ref=rss)
-### kaufen
+* [https://www.spiegel.de/ausland/ukraine-krieg-ukrainische-position-in-kursk-laut-antony-blinken-wichtig-fuer-verhandlungen](https://www.spiegel.de/ausland/ukraine-krieg-ukrainische-position-in-kursk-laut-antony-blinken-wichtig-fuer-verhandlungen-a-086b54d7-fde8-48f0-88b7-d272bfee88a0#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-antony-blinken-will-geiseln-noch-vor-trumps-amtsantritt-freibekommen](https://www.spiegel.de/ausland/israel-gaza-krieg-antony-blinken-will-geiseln-noch-vor-trumps-amtsantritt-freibekommen-a-eaf4c7f3-2084-4131-a271-cbee0c62de04#ref=rss)
+### blinken
 
-* [https://www.spiegel.de/sport/darts-luke-littler-hat-noch-keinen-fuehrerschein-aber-will-sich-ein-auto-kaufen](https://www.spiegel.de/sport/darts-luke-littler-hat-noch-keinen-fuehrerschein-aber-will-sich-ein-auto-kaufen-a-20e222db-a15f-4f5d-a62e-5f2b598918ad#ref=rss)
-### fragen
+* [https://www.spiegel.de/ausland/ukraine-krieg-ukrainische-position-in-kursk-laut-antony-blinken-wichtig-fuer-verhandlungen](https://www.spiegel.de/ausland/ukraine-krieg-ukrainische-position-in-kursk-laut-antony-blinken-wichtig-fuer-verhandlungen-a-086b54d7-fde8-48f0-88b7-d272bfee88a0#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-antony-blinken-will-geiseln-noch-vor-trumps-amtsantritt-freibekommen](https://www.spiegel.de/ausland/israel-gaza-krieg-antony-blinken-will-geiseln-noch-vor-trumps-amtsantritt-freibekommen-a-eaf4c7f3-2084-4131-a271-cbee0c62de04#ref=rss)
+### verhandlungen
 
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### tag
+* [https://www.spiegel.de/ausland/ukraine-krieg-ukrainische-position-in-kursk-laut-antony-blinken-wichtig-fuer-verhandlungen](https://www.spiegel.de/ausland/ukraine-krieg-ukrainische-position-in-kursk-laut-antony-blinken-wichtig-fuer-verhandlungen-a-086b54d7-fde8-48f0-88b7-d272bfee88a0#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-antony-blinken-will-geiseln-noch-vor-trumps-amtsantritt-freibekommen](https://www.spiegel.de/ausland/israel-gaza-krieg-antony-blinken-will-geiseln-noch-vor-trumps-amtsantritt-freibekommen-a-eaf4c7f3-2084-4131-a271-cbee0c62de04#ref=rss)
+### job
 
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### manhattan
-
-* [https://www.spiegel.de/auto/new-york-city-maut-congestion-charge-fuer-manhattan-eingefuehrt](https://www.spiegel.de/auto/new-york-city-maut-congestion-charge-fuer-manhattan-eingefuehrt-a-63075642-dce5-43b2-b3e9-40c37d94eafd#ref=rss)
+* [https://www.spiegel.de/karriere/magna-werk-in-dorfprozelten-wie-eine-beschaeftigte-um-ihre-zukunft-ringt](https://www.spiegel.de/karriere/magna-werk-in-dorfprozelten-wie-eine-beschaeftigte-um-ihre-zukunft-ringt-a-fb44aa31-808e-462f-a554-9e1249e4c72c#ref=rss)
+* [https://www.spiegel.de/karriere/arbeitslos-im-alter-ich-bin-immer-noch-eine-sahneschnitte-fuer-den-arbeitsmarkt](https://www.spiegel.de/karriere/arbeitslos-im-alter-ich-bin-immer-noch-eine-sahneschnitte-fuer-den-arbeitsmarkt-a-28110ee1-ebeb-42b9-b44f-511205c4766c#ref=rss)
+* [https://www.spiegel.de/karriere/arbeitslosigkeit-nach-schicksalsschlaegen-fuer-mich-ist-es-ein-neuanfang](https://www.spiegel.de/karriere/arbeitslosigkeit-nach-schicksalsschlaegen-fuer-mich-ist-es-ein-neuanfang-a-d1a278b3-90b5-47dc-9b8e-317b2a64340b#ref=rss)
 ### elon
 
-* [https://www.spiegel.de/ausland/elon-musk-unser-liebster-boesewicht-kolumne](https://www.spiegel.de/ausland/elon-musk-unser-liebster-boesewicht-kolumne-a-0d8f5ca6-763a-4f83-81f4-9b87abb5526d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/italien-plant-1-5-milliarden-euro-geschaeft-mit-spacex](https://www.spiegel.de/wirtschaft/italien-plant-1-5-milliarden-euro-geschaeft-mit-spacex-a-56d42f22-38c8-46ac-bd61-755793c3f6a0#ref=rss)
+* [https://www.spiegel.de/ausland/elon-musk-fordert-ruecktritt-von-nigel-farage-als-parteichef-von-reform-uk](https://www.spiegel.de/ausland/elon-musk-fordert-ruecktritt-von-nigel-farage-als-parteichef-von-reform-uk-a-2184c330-68d3-472e-86d3-33883c567364#ref=rss)
 ### musk
 
-* [https://www.spiegel.de/ausland/elon-musk-unser-liebster-boesewicht-kolumne](https://www.spiegel.de/ausland/elon-musk-unser-liebster-boesewicht-kolumne-a-0d8f5ca6-763a-4f83-81f4-9b87abb5526d#ref=rss)
-### deutsche
+* [https://www.spiegel.de/wirtschaft/italien-plant-1-5-milliarden-euro-geschaeft-mit-spacex](https://www.spiegel.de/wirtschaft/italien-plant-1-5-milliarden-euro-geschaeft-mit-spacex-a-56d42f22-38c8-46ac-bd61-755793c3f6a0#ref=rss)
+* [https://www.spiegel.de/ausland/elon-musk-fordert-ruecktritt-von-nigel-farage-als-parteichef-von-reform-uk](https://www.spiegel.de/ausland/elon-musk-fordert-ruecktritt-von-nigel-farage-als-parteichef-von-reform-uk-a-2184c330-68d3-472e-86d3-33883c567364#ref=rss)
+### rom
 
-* [https://www.spiegel.de/ausland/elon-musk-unser-liebster-boesewicht-kolumne](https://www.spiegel.de/ausland/elon-musk-unser-liebster-boesewicht-kolumne-a-0d8f5ca6-763a-4f83-81f4-9b87abb5526d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/d-mark-und-euro-deutsche-tauschten-2024-rund-57-millionen-mark-in-euro-um](https://www.spiegel.de/wirtschaft/service/d-mark-und-euro-deutsche-tauschten-2024-rund-57-millionen-mark-in-euro-um-a-7db334dd-6d45-42da-a29b-5dd2f9e1a1d1#ref=rss)
-### häftlinge
+* [https://www.spiegel.de/wirtschaft/italien-plant-1-5-milliarden-euro-geschaeft-mit-spacex](https://www.spiegel.de/wirtschaft/italien-plant-1-5-milliarden-euro-geschaeft-mit-spacex-a-56d42f22-38c8-46ac-bd61-755793c3f6a0#ref=rss)
+* [https://www.spiegel.de/sport/fussball/serie-a-mats-hummels-loest-rudelbildung-bei-as-rom-vs-lazio-aus](https://www.spiegel.de/sport/fussball/serie-a-mats-hummels-loest-rudelbildung-bei-as-rom-vs-lazio-aus-a-c01bfd77-4526-4297-8629-744ef3676f65#ref=rss)
+### app
 
-* [https://www.spiegel.de/ausland/russland-soll-bis-zu-180-000-haeftlinge-fuer-ukraine-krieg-rekrutiert-haben](https://www.spiegel.de/ausland/russland-soll-bis-zu-180-000-haeftlinge-fuer-ukraine-krieg-rekrutiert-haben-a-c06492dc-585b-4862-9ce5-b6b2e2122bd8#ref=rss)
-### rekrutiert
+* [https://www.spiegel.de/wirtschaft/mieten-in-deutschland-app-der-linken-zeigt-mehr-als-bedenkliche-22-000-faelle](https://www.spiegel.de/wirtschaft/mieten-in-deutschland-app-der-linken-zeigt-mehr-als-bedenkliche-22-000-faelle-a-672d6e9e-5993-4bed-9703-ab15f7b73489#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/instagram-wie-bekomme-ich-in-der-app-weniger-nervige-vorschlaege](https://www.spiegel.de/netzwelt/apps/instagram-wie-bekomme-ich-in-der-app-weniger-nervige-vorschlaege-a-293ce650-b648-42f6-bea9-1d16f3c8b2c7#ref=rss)
+### pilot
 
-* [https://www.spiegel.de/ausland/russland-soll-bis-zu-180-000-haeftlinge-fuer-ukraine-krieg-rekrutiert-haben](https://www.spiegel.de/ausland/russland-soll-bis-zu-180-000-haeftlinge-fuer-ukraine-krieg-rekrutiert-haben-a-c06492dc-585b-4862-9ce5-b6b2e2122bd8#ref=rss)
-### silvesterknallerei
+* [https://www.spiegel.de/panorama/melbourne-pilot-bricht-start-bei-200-km-h-ab](https://www.spiegel.de/panorama/melbourne-pilot-bricht-start-bei-200-km-h-ab-a-b7fa049a-1b97-46f0-9ee0-3b4a5d2ac081#ref=rss)
+### start
 
-* [https://www.spiegel.de/kultur/literatur/silvesterknallerei-neujahrsvorsaetze-putin-und-trump-das-sind-die-besten-cartoons-der-woche](https://www.spiegel.de/kultur/literatur/silvesterknallerei-neujahrsvorsaetze-putin-und-trump-das-sind-die-besten-cartoons-der-woche-a-9007848d-1cf8-4a76-8bff-0c5194773781#ref=rss)
-### cartoons
+* [https://www.spiegel.de/panorama/melbourne-pilot-bricht-start-bei-200-km-h-ab](https://www.spiegel.de/panorama/melbourne-pilot-bricht-start-bei-200-km-h-ab-a-b7fa049a-1b97-46f0-9ee0-3b4a5d2ac081#ref=rss)
+### csu
 
-* [https://www.spiegel.de/kultur/literatur/silvesterknallerei-neujahrsvorsaetze-putin-und-trump-das-sind-die-besten-cartoons-der-woche](https://www.spiegel.de/kultur/literatur/silvesterknallerei-neujahrsvorsaetze-putin-und-trump-das-sind-die-besten-cartoons-der-woche-a-9007848d-1cf8-4a76-8bff-0c5194773781#ref=rss)
-### dmark
+* [https://www.spiegel.de/auto/elektroauto-kaufen-csu-plant-bei-wahlsieg-staatliche-praemie-von-bis-zu-3600-euro](https://www.spiegel.de/auto/elektroauto-kaufen-csu-plant-bei-wahlsieg-staatliche-praemie-von-bis-zu-3600-euro-a-1ec53bfc-5311-4d7f-8491-816952f72013#ref=rss)
+### plant
 
-* [https://www.spiegel.de/wirtschaft/service/d-mark-und-euro-deutsche-tauschten-2024-rund-57-millionen-mark-in-euro-um](https://www.spiegel.de/wirtschaft/service/d-mark-und-euro-deutsche-tauschten-2024-rund-57-millionen-mark-in-euro-um-a-7db334dd-6d45-42da-a29b-5dd2f9e1a1d1#ref=rss)
-### alte
+* [https://www.spiegel.de/auto/elektroauto-kaufen-csu-plant-bei-wahlsieg-staatliche-praemie-von-bis-zu-3600-euro](https://www.spiegel.de/auto/elektroauto-kaufen-csu-plant-bei-wahlsieg-staatliche-praemie-von-bis-zu-3600-euro-a-1ec53bfc-5311-4d7f-8491-816952f72013#ref=rss)
+* [https://www.spiegel.de/wirtschaft/italien-plant-1-5-milliarden-euro-geschaeft-mit-spacex](https://www.spiegel.de/wirtschaft/italien-plant-1-5-milliarden-euro-geschaeft-mit-spacex-a-56d42f22-38c8-46ac-bd61-755793c3f6a0#ref=rss)
+### euro
 
-* [https://www.spiegel.de/wirtschaft/service/d-mark-und-euro-deutsche-tauschten-2024-rund-57-millionen-mark-in-euro-um](https://www.spiegel.de/wirtschaft/service/d-mark-und-euro-deutsche-tauschten-2024-rund-57-millionen-mark-in-euro-um-a-7db334dd-6d45-42da-a29b-5dd2f9e1a1d1#ref=rss)
+* [https://www.spiegel.de/auto/elektroauto-kaufen-csu-plant-bei-wahlsieg-staatliche-praemie-von-bis-zu-3600-euro](https://www.spiegel.de/auto/elektroauto-kaufen-csu-plant-bei-wahlsieg-staatliche-praemie-von-bis-zu-3600-euro-a-1ec53bfc-5311-4d7f-8491-816952f72013#ref=rss)
+* [https://www.spiegel.de/sport/golf/golf-baelle-vertauscht-profis-entgehen-hunderttausende-euro-bei-pga-auftaktturnier](https://www.spiegel.de/sport/golf/golf-baelle-vertauscht-profis-entgehen-hunderttausende-euro-bei-pga-auftaktturnier-a-a0625f5a-7215-4856-884d-b923bfebccf9#ref=rss)
+### alle
+
+* [https://www.spiegel.de/auto/elektroauto-kaufen-csu-plant-bei-wahlsieg-staatliche-praemie-von-bis-zu-3600-euro](https://www.spiegel.de/auto/elektroauto-kaufen-csu-plant-bei-wahlsieg-staatliche-praemie-von-bis-zu-3600-euro-a-1ec53bfc-5311-4d7f-8491-816952f72013#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-regierungskrise-wird-fpoe-chef-herbert-kickl-jetzt-kanzler](https://www.spiegel.de/ausland/oesterreich-regierungskrise-wird-fpoe-chef-herbert-kickl-jetzt-kanzler-a-9eae4930-a18b-4937-97ce-c4f3d88c3d9e#ref=rss)
+### firewall
+
+* [https://www.spiegel.de/politik/neuer-podcast-firewall-hier-den-trailer-hoeren](https://www.spiegel.de/politik/neuer-podcast-firewall-hier-den-trailer-hoeren-a-1191fcae-1d85-4e0c-98c6-276f90c66f79#ref=rss)
+### trailer
+
+* [https://www.spiegel.de/politik/neuer-podcast-firewall-hier-den-trailer-hoeren](https://www.spiegel.de/politik/neuer-podcast-firewall-hier-den-trailer-hoeren-a-1191fcae-1d85-4e0c-98c6-276f90c66f79#ref=rss)
+### behörden
+
+* [https://www.spiegel.de/politik/neuer-podcast-firewall-hier-den-trailer-hoeren](https://www.spiegel.de/politik/neuer-podcast-firewall-hier-den-trailer-hoeren-a-1191fcae-1d85-4e0c-98c6-276f90c66f79#ref=rss)
+* [https://www.spiegel.de/wirtschaft/mieten-in-deutschland-app-der-linken-zeigt-mehr-als-bedenkliche-22-000-faelle](https://www.spiegel.de/wirtschaft/mieten-in-deutschland-app-der-linken-zeigt-mehr-als-bedenkliche-22-000-faelle-a-672d6e9e-5993-4bed-9703-ab15f7b73489#ref=rss)
+### wir
+
+* [https://www.spiegel.de/politik/neuer-podcast-firewall-hier-den-trailer-hoeren](https://www.spiegel.de/politik/neuer-podcast-firewall-hier-den-trailer-hoeren-a-1191fcae-1d85-4e0c-98c6-276f90c66f79#ref=rss)
+* [https://www.spiegel.de/panorama/leute/rupauls-drag-race-james-lee-williams-alias-the-vivienne-stirbt-mit-32-jahren](https://www.spiegel.de/panorama/leute/rupauls-drag-race-james-lee-williams-alias-the-vivienne-stirbt-mit-32-jahren-a-b68a42d4-4aea-43be-a907-e301ac3e7dbd#ref=rss)
+### mehrere
+
+* [https://www.spiegel.de/panorama/usa-heftigster-schneefall-seit-mehr-als-einem-jahrzehnt-erwartet](https://www.spiegel.de/panorama/usa-heftigster-schneefall-seit-mehr-als-einem-jahrzehnt-erwartet-a-b81bd680-0fe0-44a1-8e97-de3ebf93de8f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-zahl-der-insolvenzen-erreicht-niveau-der-finanzkrise](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-zahl-der-insolvenzen-erreicht-niveau-der-finanzkrise-a-078db569-120d-44df-83e9-22edd42df6ac#ref=rss)
+### bus
+
+* [https://www.spiegel.de/ausland/israel-anschlag-auf-bus-im-westjordanland](https://www.spiegel.de/ausland/israel-anschlag-auf-bus-im-westjordanland-a-64269093-7534-489e-8330-568eb211aa3e#ref=rss)
+### westjordanland
+
+* [https://www.spiegel.de/ausland/israel-anschlag-auf-bus-im-westjordanland](https://www.spiegel.de/ausland/israel-anschlag-auf-bus-im-westjordanland-a-64269093-7534-489e-8330-568eb211aa3e#ref=rss)
+### drei
+
+* [https://www.spiegel.de/ausland/israel-anschlag-auf-bus-im-westjordanland](https://www.spiegel.de/ausland/israel-anschlag-auf-bus-im-westjordanland-a-64269093-7534-489e-8330-568eb211aa3e#ref=rss)
+### mindestens
+
+* [https://www.spiegel.de/ausland/israel-anschlag-auf-bus-im-westjordanland](https://www.spiegel.de/ausland/israel-anschlag-auf-bus-im-westjordanland-a-64269093-7534-489e-8330-568eb211aa3e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/rechtsextremismus-in-deutschland-zahl-der-straftaten-erreicht-2024-neuen-hoechststand](https://www.spiegel.de/panorama/justiz/rechtsextremismus-in-deutschland-zahl-der-straftaten-erreicht-2024-neuen-hoechststand-a-bd9932f6-b7c5-4532-ae68-8c4d483355cc#ref=rss)
+### ces
+
+* [https://www.spiegel.de/netzwelt/gadgets/ces-in-las-vegas-so-sieht-samsungs-vision-vom-ki-tv-aus](https://www.spiegel.de/netzwelt/gadgets/ces-in-las-vegas-so-sieht-samsungs-vision-vom-ki-tv-aus-a-88331b54-9530-4313-ac05-3b768a48819e#ref=rss)
+### kurz
+
+* [https://www.spiegel.de/netzwelt/gadgets/ces-in-las-vegas-so-sieht-samsungs-vision-vom-ki-tv-aus](https://www.spiegel.de/netzwelt/gadgets/ces-in-las-vegas-so-sieht-samsungs-vision-vom-ki-tv-aus-a-88331b54-9530-4313-ac05-3b768a48819e#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-antony-blinken-will-geiseln-noch-vor-trumps-amtsantritt-freibekommen](https://www.spiegel.de/ausland/israel-gaza-krieg-antony-blinken-will-geiseln-noch-vor-trumps-amtsantritt-freibekommen-a-eaf4c7f3-2084-4131-a271-cbee0c62de04#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/netzwelt/gadgets/ces-in-las-vegas-so-sieht-samsungs-vision-vom-ki-tv-aus](https://www.spiegel.de/netzwelt/gadgets/ces-in-las-vegas-so-sieht-samsungs-vision-vom-ki-tv-aus-a-88331b54-9530-4313-ac05-3b768a48819e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/mieten-in-deutschland-app-der-linken-zeigt-mehr-als-bedenkliche-22-000-faelle](https://www.spiegel.de/wirtschaft/mieten-in-deutschland-app-der-linken-zeigt-mehr-als-bedenkliche-22-000-faelle-a-672d6e9e-5993-4bed-9703-ab15f7b73489#ref=rss)
+### zukunft
+
+* [https://www.spiegel.de/netzwelt/gadgets/ces-in-las-vegas-so-sieht-samsungs-vision-vom-ki-tv-aus](https://www.spiegel.de/netzwelt/gadgets/ces-in-las-vegas-so-sieht-samsungs-vision-vom-ki-tv-aus-a-88331b54-9530-4313-ac05-3b768a48819e#ref=rss)
+* [https://www.spiegel.de/karriere/magna-werk-in-dorfprozelten-wie-eine-beschaeftigte-um-ihre-zukunft-ringt](https://www.spiegel.de/karriere/magna-werk-in-dorfprozelten-wie-eine-beschaeftigte-um-ihre-zukunft-ringt-a-fb44aa31-808e-462f-a554-9e1249e4c72c#ref=rss)
+### wichtige
+
+* [https://www.spiegel.de/netzwelt/gadgets/ces-in-las-vegas-so-sieht-samsungs-vision-vom-ki-tv-aus](https://www.spiegel.de/netzwelt/gadgets/ces-in-las-vegas-so-sieht-samsungs-vision-vom-ki-tv-aus-a-88331b54-9530-4313-ac05-3b768a48819e#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-ukrainische-position-in-kursk-laut-antony-blinken-wichtig-fuer-verhandlungen](https://www.spiegel.de/ausland/ukraine-krieg-ukrainische-position-in-kursk-laut-antony-blinken-wichtig-fuer-verhandlungen-a-086b54d7-fde8-48f0-88b7-d272bfee88a0#ref=rss)
+### fpöchef
+
+* [https://www.spiegel.de/ausland/oesterreich-regierungskrise-wird-fpoe-chef-herbert-kickl-jetzt-kanzler](https://www.spiegel.de/ausland/oesterreich-regierungskrise-wird-fpoe-chef-herbert-kickl-jetzt-kanzler-a-9eae4930-a18b-4937-97ce-c4f3d88c3d9e#ref=rss)
+### kickl
+
+* [https://www.spiegel.de/ausland/oesterreich-regierungskrise-wird-fpoe-chef-herbert-kickl-jetzt-kanzler](https://www.spiegel.de/ausland/oesterreich-regierungskrise-wird-fpoe-chef-herbert-kickl-jetzt-kanzler-a-9eae4930-a18b-4937-97ce-c4f3d88c3d9e#ref=rss)
+### kanzler
+
+* [https://www.spiegel.de/ausland/oesterreich-regierungskrise-wird-fpoe-chef-herbert-kickl-jetzt-kanzler](https://www.spiegel.de/ausland/oesterreich-regierungskrise-wird-fpoe-chef-herbert-kickl-jetzt-kanzler-a-9eae4930-a18b-4937-97ce-c4f3d88c3d9e#ref=rss)
+* [https://www.spiegel.de/politik/oesterreich-deutsche-politiker-werten-moegliche-fpoe-regierungsbeteiligung-als-warnsignal](https://www.spiegel.de/politik/oesterreich-deutsche-politiker-werten-moegliche-fpoe-regierungsbeteiligung-als-warnsignal-a-e2590242-0839-45de-afa7-f5141be27903#ref=rss)
+### politiker
+
+* [https://www.spiegel.de/politik/oesterreich-deutsche-politiker-werten-moegliche-fpoe-regierungsbeteiligung-als-warnsignal](https://www.spiegel.de/politik/oesterreich-deutsche-politiker-werten-moegliche-fpoe-regierungsbeteiligung-als-warnsignal-a-e2590242-0839-45de-afa7-f5141be27903#ref=rss)
+* [https://www.spiegel.de/ausland/elon-musk-fordert-ruecktritt-von-nigel-farage-als-parteichef-von-reform-uk](https://www.spiegel.de/ausland/elon-musk-fordert-ruecktritt-von-nigel-farage-als-parteichef-von-reform-uk-a-2184c330-68d3-472e-86d3-33883c567364#ref=rss)
+### drag
+
+* [https://www.spiegel.de/panorama/leute/rupauls-drag-race-james-lee-williams-alias-the-vivienne-stirbt-mit-32-jahren](https://www.spiegel.de/panorama/leute/rupauls-drag-race-james-lee-williams-alias-the-vivienne-stirbt-mit-32-jahren-a-b68a42d4-4aea-43be-a907-e301ac3e7dbd#ref=rss)
+### race
+
+* [https://www.spiegel.de/panorama/leute/rupauls-drag-race-james-lee-williams-alias-the-vivienne-stirbt-mit-32-jahren](https://www.spiegel.de/panorama/leute/rupauls-drag-race-james-lee-williams-alias-the-vivienne-stirbt-mit-32-jahren-a-b68a42d4-4aea-43be-a907-e301ac3e7dbd#ref=rss)
+### james
+
+* [https://www.spiegel.de/panorama/leute/rupauls-drag-race-james-lee-williams-alias-the-vivienne-stirbt-mit-32-jahren](https://www.spiegel.de/panorama/leute/rupauls-drag-race-james-lee-williams-alias-the-vivienne-stirbt-mit-32-jahren-a-b68a42d4-4aea-43be-a907-e301ac3e7dbd#ref=rss)
+### lee
+
+* [https://www.spiegel.de/panorama/leute/rupauls-drag-race-james-lee-williams-alias-the-vivienne-stirbt-mit-32-jahren](https://www.spiegel.de/panorama/leute/rupauls-drag-race-james-lee-williams-alias-the-vivienne-stirbt-mit-32-jahren-a-b68a42d4-4aea-43be-a907-e301ac3e7dbd#ref=rss)
+### williams
+
+* [https://www.spiegel.de/panorama/leute/rupauls-drag-race-james-lee-williams-alias-the-vivienne-stirbt-mit-32-jahren](https://www.spiegel.de/panorama/leute/rupauls-drag-race-james-lee-williams-alias-the-vivienne-stirbt-mit-32-jahren-a-b68a42d4-4aea-43be-a907-e301ac3e7dbd#ref=rss)
+### the
+
+* [https://www.spiegel.de/panorama/leute/rupauls-drag-race-james-lee-williams-alias-the-vivienne-stirbt-mit-32-jahren](https://www.spiegel.de/panorama/leute/rupauls-drag-race-james-lee-williams-alias-the-vivienne-stirbt-mit-32-jahren-a-b68a42d4-4aea-43be-a907-e301ac3e7dbd#ref=rss)
+### vivienne
+
+* [https://www.spiegel.de/panorama/leute/rupauls-drag-race-james-lee-williams-alias-the-vivienne-stirbt-mit-32-jahren](https://www.spiegel.de/panorama/leute/rupauls-drag-race-james-lee-williams-alias-the-vivienne-stirbt-mit-32-jahren-a-b68a42d4-4aea-43be-a907-e301ac3e7dbd#ref=rss)
+### bekannt
+
+* [https://www.spiegel.de/panorama/leute/rupauls-drag-race-james-lee-williams-alias-the-vivienne-stirbt-mit-32-jahren](https://www.spiegel.de/panorama/leute/rupauls-drag-race-james-lee-williams-alias-the-vivienne-stirbt-mit-32-jahren-a-b68a42d4-4aea-43be-a907-e301ac3e7dbd#ref=rss)
+### schule
+
+* [https://www.spiegel.de/auto/schule-in-bayern-polizei-verteilt-hunderte-strafzettel-fuer-elterntaxis](https://www.spiegel.de/auto/schule-in-bayern-polizei-verteilt-hunderte-strafzettel-fuer-elterntaxis-a-1112d05e-f114-483c-8ea7-0aff3b3c1c35#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/auto/schule-in-bayern-polizei-verteilt-hunderte-strafzettel-fuer-elterntaxis](https://www.spiegel.de/auto/schule-in-bayern-polizei-verteilt-hunderte-strafzettel-fuer-elterntaxis-a-1112d05e-f114-483c-8ea7-0aff3b3c1c35#ref=rss)
+### kinder
+
+* [https://www.spiegel.de/auto/schule-in-bayern-polizei-verteilt-hunderte-strafzettel-fuer-elterntaxis](https://www.spiegel.de/auto/schule-in-bayern-polizei-verteilt-hunderte-strafzettel-fuer-elterntaxis-a-1112d05e-f114-483c-8ea7-0aff3b3c1c35#ref=rss)
+* [https://www.spiegel.de/karriere/arbeitslosigkeit-nach-schicksalsschlaegen-fuer-mich-ist-es-ein-neuanfang](https://www.spiegel.de/karriere/arbeitslosigkeit-nach-schicksalsschlaegen-fuer-mich-ist-es-ein-neuanfang-a-d1a278b3-90b5-47dc-9b8e-317b2a64340b#ref=rss)
+### kursk
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-ukrainische-position-in-kursk-laut-antony-blinken-wichtig-fuer-verhandlungen](https://www.spiegel.de/ausland/ukraine-krieg-ukrainische-position-in-kursk-laut-antony-blinken-wichtig-fuer-verhandlungen-a-086b54d7-fde8-48f0-88b7-d272bfee88a0#ref=rss)
+### neue
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-ukrainische-position-in-kursk-laut-antony-blinken-wichtig-fuer-verhandlungen](https://www.spiegel.de/ausland/ukraine-krieg-ukrainische-position-in-kursk-laut-antony-blinken-wichtig-fuer-verhandlungen-a-086b54d7-fde8-48f0-88b7-d272bfee88a0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-zahl-der-insolvenzen-erreicht-niveau-der-finanzkrise](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-zahl-der-insolvenzen-erreicht-niveau-der-finanzkrise-a-078db569-120d-44df-83e9-22edd42df6ac#ref=rss)
+### anderen
+
+* [https://www.spiegel.de/sport/golf/golf-baelle-vertauscht-profis-entgehen-hunderttausende-euro-bei-pga-auftaktturnier](https://www.spiegel.de/sport/golf/golf-baelle-vertauscht-profis-entgehen-hunderttausende-euro-bei-pga-auftaktturnier-a-a0625f5a-7215-4856-884d-b923bfebccf9#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/instagram-wie-bekomme-ich-in-der-app-weniger-nervige-vorschlaege](https://www.spiegel.de/netzwelt/apps/instagram-wie-bekomme-ich-in-der-app-weniger-nervige-vorschlaege-a-293ce650-b648-42f6-bea9-1d16f3c8b2c7#ref=rss)
+### saunen
+
+* [https://www.spiegel.de/reise/europa/sauna-in-grossbritannien-saunen-haben-grosse-aehnlichkeit-mit-unserer-pubkultur](https://www.spiegel.de/reise/europa/sauna-in-grossbritannien-saunen-haben-grosse-aehnlichkeit-mit-unserer-pubkultur-a-c8d68edd-1407-47e6-a801-a75cf33c48bf#ref=rss)
+### schwab
+
+* [https://www.spiegel.de/karriere/magna-werk-in-dorfprozelten-wie-eine-beschaeftigte-um-ihre-zukunft-ringt](https://www.spiegel.de/karriere/magna-werk-in-dorfprozelten-wie-eine-beschaeftigte-um-ihre-zukunft-ringt-a-fb44aa31-808e-462f-a554-9e1249e4c72c#ref=rss)
+### arbeitslos
+
+* [https://www.spiegel.de/karriere/arbeitslos-im-alter-ich-bin-immer-noch-eine-sahneschnitte-fuer-den-arbeitsmarkt](https://www.spiegel.de/karriere/arbeitslos-im-alter-ich-bin-immer-noch-eine-sahneschnitte-fuer-den-arbeitsmarkt-a-28110ee1-ebeb-42b9-b44f-511205c4766c#ref=rss)
+* [https://www.spiegel.de/karriere/arbeitslosigkeit-nach-schicksalsschlaegen-fuer-mich-ist-es-ein-neuanfang](https://www.spiegel.de/karriere/arbeitslosigkeit-nach-schicksalsschlaegen-fuer-mich-ist-es-ein-neuanfang-a-d1a278b3-90b5-47dc-9b8e-317b2a64340b#ref=rss)
+### ich
+
+* [https://www.spiegel.de/karriere/arbeitslos-im-alter-ich-bin-immer-noch-eine-sahneschnitte-fuer-den-arbeitsmarkt](https://www.spiegel.de/karriere/arbeitslos-im-alter-ich-bin-immer-noch-eine-sahneschnitte-fuer-den-arbeitsmarkt-a-28110ee1-ebeb-42b9-b44f-511205c4766c#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/instagram-wie-bekomme-ich-in-der-app-weniger-nervige-vorschlaege](https://www.spiegel.de/netzwelt/apps/instagram-wie-bekomme-ich-in-der-app-weniger-nervige-vorschlaege-a-293ce650-b648-42f6-bea9-1d16f3c8b2c7#ref=rss)
+### rochow
+
+* [https://www.spiegel.de/karriere/arbeitslos-im-alter-ich-bin-immer-noch-eine-sahneschnitte-fuer-den-arbeitsmarkt](https://www.spiegel.de/karriere/arbeitslos-im-alter-ich-bin-immer-noch-eine-sahneschnitte-fuer-den-arbeitsmarkt-a-28110ee1-ebeb-42b9-b44f-511205c4766c#ref=rss)
+### verlor
+
+* [https://www.spiegel.de/karriere/arbeitslos-im-alter-ich-bin-immer-noch-eine-sahneschnitte-fuer-den-arbeitsmarkt](https://www.spiegel.de/karriere/arbeitslos-im-alter-ich-bin-immer-noch-eine-sahneschnitte-fuer-den-arbeitsmarkt-a-28110ee1-ebeb-42b9-b44f-511205c4766c#ref=rss)
+* [https://www.spiegel.de/karriere/arbeitslosigkeit-nach-schicksalsschlaegen-fuer-mich-ist-es-ein-neuanfang](https://www.spiegel.de/karriere/arbeitslosigkeit-nach-schicksalsschlaegen-fuer-mich-ist-es-ein-neuanfang-a-d1a278b3-90b5-47dc-9b8e-317b2a64340b#ref=rss)
+### todesopfer
+
+* [https://www.spiegel.de/panorama/justiz/magdeburg-sechstes-todesopfer-nach-anschlag-auf-weihnachtsmarkt](https://www.spiegel.de/panorama/justiz/magdeburg-sechstes-todesopfer-nach-anschlag-auf-weihnachtsmarkt-a-b7b5f83a-5745-461f-99bf-c7123d691730#ref=rss)
+### weihnachtsmarkt
+
+* [https://www.spiegel.de/panorama/justiz/magdeburg-sechstes-todesopfer-nach-anschlag-auf-weihnachtsmarkt](https://www.spiegel.de/panorama/justiz/magdeburg-sechstes-todesopfer-nach-anschlag-auf-weihnachtsmarkt-a-b7b5f83a-5745-461f-99bf-c7123d691730#ref=rss)
+### trumps
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-antony-blinken-will-geiseln-noch-vor-trumps-amtsantritt-freibekommen](https://www.spiegel.de/ausland/israel-gaza-krieg-antony-blinken-will-geiseln-noch-vor-trumps-amtsantritt-freibekommen-a-eaf4c7f3-2084-4131-a271-cbee0c62de04#ref=rss)
+* [https://www.spiegel.de/ausland/elon-musk-fordert-ruecktritt-von-nigel-farage-als-parteichef-von-reform-uk](https://www.spiegel.de/ausland/elon-musk-fordert-ruecktritt-von-nigel-farage-als-parteichef-von-reform-uk-a-2184c330-68d3-472e-86d3-33883c567364#ref=rss)
+### thailand
+
+* [https://www.spiegel.de/panorama/thailand-elefant-toetet-22-jaehrige-touristin](https://www.spiegel.de/panorama/thailand-elefant-toetet-22-jaehrige-touristin-a-3d5e6c40-9241-435d-a150-80852b61474d#ref=rss)
+### unter
+
+* [https://www.spiegel.de/panorama/thailand-elefant-toetet-22-jaehrige-touristin](https://www.spiegel.de/panorama/thailand-elefant-toetet-22-jaehrige-touristin-a-3d5e6c40-9241-435d-a150-80852b61474d#ref=rss)
+* [https://www.spiegel.de/ausland/justin-trudeau-kanadas-premierminister-erwaegt-offenbar-ruecktritt](https://www.spiegel.de/ausland/justin-trudeau-kanadas-premierminister-erwaegt-offenbar-ruecktritt-a-a62f3258-fb9a-46f0-892b-88be8bd619d3#ref=rss)
+### michael
+
+* [https://www.spiegel.de/psychologie/verbitterung-psychiater-michael-linden-sagt-warum-sie-gefaehrlich-ist-und-was-dagegen-hilft](https://www.spiegel.de/psychologie/verbitterung-psychiater-michael-linden-sagt-warum-sie-gefaehrlich-ist-und-was-dagegen-hilft-a-5e546592-73d7-4043-952b-e53baeed1fee#ref=rss)
+### linden
+
+* [https://www.spiegel.de/psychologie/verbitterung-psychiater-michael-linden-sagt-warum-sie-gefaehrlich-ist-und-was-dagegen-hilft](https://www.spiegel.de/psychologie/verbitterung-psychiater-michael-linden-sagt-warum-sie-gefaehrlich-ist-und-was-dagegen-hilft-a-5e546592-73d7-4043-952b-e53baeed1fee#ref=rss)
+### dagegen
+
+* [https://www.spiegel.de/psychologie/verbitterung-psychiater-michael-linden-sagt-warum-sie-gefaehrlich-ist-und-was-dagegen-hilft](https://www.spiegel.de/psychologie/verbitterung-psychiater-michael-linden-sagt-warum-sie-gefaehrlich-ist-und-was-dagegen-hilft-a-5e546592-73d7-4043-952b-e53baeed1fee#ref=rss)
+### oft
+
+* [https://www.spiegel.de/wirtschaft/italien-plant-1-5-milliarden-euro-geschaeft-mit-spacex](https://www.spiegel.de/wirtschaft/italien-plant-1-5-milliarden-euro-geschaeft-mit-spacex-a-56d42f22-38c8-46ac-bd61-755793c3f6a0#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/instagram-wie-bekomme-ich-in-der-app-weniger-nervige-vorschlaege](https://www.spiegel.de/netzwelt/apps/instagram-wie-bekomme-ich-in-der-app-weniger-nervige-vorschlaege-a-293ce650-b648-42f6-bea9-1d16f3c8b2c7#ref=rss)
+### mats
+
+* [https://www.spiegel.de/sport/fussball/serie-a-mats-hummels-loest-rudelbildung-bei-as-rom-vs-lazio-aus](https://www.spiegel.de/sport/fussball/serie-a-mats-hummels-loest-rudelbildung-bei-as-rom-vs-lazio-aus-a-c01bfd77-4526-4297-8629-744ef3676f65#ref=rss)
+### hummels
+
+* [https://www.spiegel.de/sport/fussball/serie-a-mats-hummels-loest-rudelbildung-bei-as-rom-vs-lazio-aus](https://www.spiegel.de/sport/fussball/serie-a-mats-hummels-loest-rudelbildung-bei-as-rom-vs-lazio-aus-a-c01bfd77-4526-4297-8629-744ef3676f65#ref=rss)
+### as
+
+* [https://www.spiegel.de/sport/fussball/serie-a-mats-hummels-loest-rudelbildung-bei-as-rom-vs-lazio-aus](https://www.spiegel.de/sport/fussball/serie-a-mats-hummels-loest-rudelbildung-bei-as-rom-vs-lazio-aus-a-c01bfd77-4526-4297-8629-744ef3676f65#ref=rss)
+### lazio
+
+* [https://www.spiegel.de/sport/fussball/serie-a-mats-hummels-loest-rudelbildung-bei-as-rom-vs-lazio-aus](https://www.spiegel.de/sport/fussball/serie-a-mats-hummels-loest-rudelbildung-bei-as-rom-vs-lazio-aus-a-c01bfd77-4526-4297-8629-744ef3676f65#ref=rss)
+### reiner
+
+* [https://www.spiegel.de/panorama/leute/reiner-calmund-spricht-nach-grill-den-henssler-dreh-ueber-herzprobleme](https://www.spiegel.de/panorama/leute/reiner-calmund-spricht-nach-grill-den-henssler-dreh-ueber-herzprobleme-a-bc3d40a9-12ad-44eb-9b57-a7cc853c25c7#ref=rss)
+### calmund
+
+* [https://www.spiegel.de/panorama/leute/reiner-calmund-spricht-nach-grill-den-henssler-dreh-ueber-herzprobleme](https://www.spiegel.de/panorama/leute/reiner-calmund-spricht-nach-grill-den-henssler-dreh-ueber-herzprobleme-a-bc3d40a9-12ad-44eb-9b57-a7cc853c25c7#ref=rss)
+### grill
+
+* [https://www.spiegel.de/panorama/leute/reiner-calmund-spricht-nach-grill-den-henssler-dreh-ueber-herzprobleme](https://www.spiegel.de/panorama/leute/reiner-calmund-spricht-nach-grill-den-henssler-dreh-ueber-herzprobleme-a-bc3d40a9-12ad-44eb-9b57-a7cc853c25c7#ref=rss)
+### hensslerdreh
+
+* [https://www.spiegel.de/panorama/leute/reiner-calmund-spricht-nach-grill-den-henssler-dreh-ueber-herzprobleme](https://www.spiegel.de/panorama/leute/reiner-calmund-spricht-nach-grill-den-henssler-dreh-ueber-herzprobleme-a-bc3d40a9-12ad-44eb-9b57-a7cc853c25c7#ref=rss)
+### zufolge
+
+* [https://www.spiegel.de/panorama/leute/reiner-calmund-spricht-nach-grill-den-henssler-dreh-ueber-herzprobleme](https://www.spiegel.de/panorama/leute/reiner-calmund-spricht-nach-grill-den-henssler-dreh-ueber-herzprobleme-a-bc3d40a9-12ad-44eb-9b57-a7cc853c25c7#ref=rss)
+* [https://www.spiegel.de/ausland/justin-trudeau-kanadas-premierminister-erwaegt-offenbar-ruecktritt](https://www.spiegel.de/ausland/justin-trudeau-kanadas-premierminister-erwaegt-offenbar-ruecktritt-a-a62f3258-fb9a-46f0-892b-88be8bd619d3#ref=rss)
+### rücktritt
+
+* [https://www.spiegel.de/ausland/elon-musk-fordert-ruecktritt-von-nigel-farage-als-parteichef-von-reform-uk](https://www.spiegel.de/ausland/elon-musk-fordert-ruecktritt-von-nigel-farage-als-parteichef-von-reform-uk-a-2184c330-68d3-472e-86d3-33883c567364#ref=rss)
+* [https://www.spiegel.de/ausland/justin-trudeau-kanadas-premierminister-erwaegt-offenbar-ruecktritt](https://www.spiegel.de/ausland/justin-trudeau-kanadas-premierminister-erwaegt-offenbar-ruecktritt-a-a62f3258-fb9a-46f0-892b-88be8bd619d3#ref=rss)
+### nigel
+
+* [https://www.spiegel.de/ausland/elon-musk-fordert-ruecktritt-von-nigel-farage-als-parteichef-von-reform-uk](https://www.spiegel.de/ausland/elon-musk-fordert-ruecktritt-von-nigel-farage-als-parteichef-von-reform-uk-a-2184c330-68d3-472e-86d3-33883c567364#ref=rss)
+### farage
+
+* [https://www.spiegel.de/ausland/elon-musk-fordert-ruecktritt-von-nigel-farage-als-parteichef-von-reform-uk](https://www.spiegel.de/ausland/elon-musk-fordert-ruecktritt-von-nigel-farage-als-parteichef-von-reform-uk-a-2184c330-68d3-472e-86d3-33883c567364#ref=rss)
+### insolvenzen
+
+* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-zahl-der-insolvenzen-erreicht-niveau-der-finanzkrise](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-zahl-der-insolvenzen-erreicht-niveau-der-finanzkrise-a-078db569-120d-44df-83e9-22edd42df6ac#ref=rss)
+### erreicht
+
+* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-zahl-der-insolvenzen-erreicht-niveau-der-finanzkrise](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-zahl-der-insolvenzen-erreicht-niveau-der-finanzkrise-a-078db569-120d-44df-83e9-22edd42df6ac#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/rechtsextremismus-in-deutschland-zahl-der-straftaten-erreicht-2024-neuen-hoechststand](https://www.spiegel.de/panorama/justiz/rechtsextremismus-in-deutschland-zahl-der-straftaten-erreicht-2024-neuen-hoechststand-a-bd9932f6-b7c5-4532-ae68-8c4d483355cc#ref=rss)
+### vergangenen
+
+* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-zahl-der-insolvenzen-erreicht-niveau-der-finanzkrise](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-zahl-der-insolvenzen-erreicht-niveau-der-finanzkrise-a-078db569-120d-44df-83e9-22edd42df6ac#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/rechtsextremismus-in-deutschland-zahl-der-straftaten-erreicht-2024-neuen-hoechststand](https://www.spiegel.de/panorama/justiz/rechtsextremismus-in-deutschland-zahl-der-straftaten-erreicht-2024-neuen-hoechststand-a-bd9932f6-b7c5-4532-ae68-8c4d483355cc#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-zahl-der-insolvenzen-erreicht-niveau-der-finanzkrise](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-zahl-der-insolvenzen-erreicht-niveau-der-finanzkrise-a-078db569-120d-44df-83e9-22edd42df6ac#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/rechtsextremismus-in-deutschland-zahl-der-straftaten-erreicht-2024-neuen-hoechststand](https://www.spiegel.de/panorama/justiz/rechtsextremismus-in-deutschland-zahl-der-straftaten-erreicht-2024-neuen-hoechststand-a-bd9932f6-b7c5-4532-ae68-8c4d483355cc#ref=rss)
+### mieten
+
+* [https://www.spiegel.de/wirtschaft/mieten-in-deutschland-app-der-linken-zeigt-mehr-als-bedenkliche-22-000-faelle](https://www.spiegel.de/wirtschaft/mieten-in-deutschland-app-der-linken-zeigt-mehr-als-bedenkliche-22-000-faelle-a-672d6e9e-5993-4bed-9703-ab15f7b73489#ref=rss)
+### justin
+
+* [https://www.spiegel.de/ausland/justin-trudeau-kanadas-premierminister-erwaegt-offenbar-ruecktritt](https://www.spiegel.de/ausland/justin-trudeau-kanadas-premierminister-erwaegt-offenbar-ruecktritt-a-a62f3258-fb9a-46f0-892b-88be8bd619d3#ref=rss)
+### trudeau
+
+* [https://www.spiegel.de/ausland/justin-trudeau-kanadas-premierminister-erwaegt-offenbar-ruecktritt](https://www.spiegel.de/ausland/justin-trudeau-kanadas-premierminister-erwaegt-offenbar-ruecktritt-a-a62f3258-fb9a-46f0-892b-88be8bd619d3#ref=rss)
+### kanadas
+
+* [https://www.spiegel.de/ausland/justin-trudeau-kanadas-premierminister-erwaegt-offenbar-ruecktritt](https://www.spiegel.de/ausland/justin-trudeau-kanadas-premierminister-erwaegt-offenbar-ruecktritt-a-a62f3258-fb9a-46f0-892b-88be8bd619d3#ref=rss)
+### straftaten
+
+* [https://www.spiegel.de/panorama/justiz/rechtsextremismus-in-deutschland-zahl-der-straftaten-erreicht-2024-neuen-hoechststand](https://www.spiegel.de/panorama/justiz/rechtsextremismus-in-deutschland-zahl-der-straftaten-erreicht-2024-neuen-hoechststand-a-bd9932f6-b7c5-4532-ae68-8c4d483355cc#ref=rss)
+### prozent
+
+* [https://www.spiegel.de/panorama/justiz/rechtsextremismus-in-deutschland-zahl-der-straftaten-erreicht-2024-neuen-hoechststand](https://www.spiegel.de/panorama/justiz/rechtsextremismus-in-deutschland-zahl-der-straftaten-erreicht-2024-neuen-hoechststand-a-bd9932f6-b7c5-4532-ae68-8c4d483355cc#ref=rss)
+* [https://www.spiegel.de/karriere/umfrage-nur-48-prozent-geben-ihr-bestes-auf-der-arbeit](https://www.spiegel.de/karriere/umfrage-nur-48-prozent-geben-ihr-bestes-auf-der-arbeit-a-ad418efd-c62c-4b1e-91cd-96161368edbe#ref=rss)
+### umfrage
+
+* [https://www.spiegel.de/karriere/umfrage-nur-48-prozent-geben-ihr-bestes-auf-der-arbeit](https://www.spiegel.de/karriere/umfrage-nur-48-prozent-geben-ihr-bestes-auf-der-arbeit-a-ad418efd-c62c-4b1e-91cd-96161368edbe#ref=rss)
+### geben
+
+* [https://www.spiegel.de/karriere/umfrage-nur-48-prozent-geben-ihr-bestes-auf-der-arbeit](https://www.spiegel.de/karriere/umfrage-nur-48-prozent-geben-ihr-bestes-auf-der-arbeit-a-ad418efd-c62c-4b1e-91cd-96161368edbe#ref=rss)
+### vorschläge
+
+* [https://www.spiegel.de/netzwelt/apps/instagram-wie-bekomme-ich-in-der-app-weniger-nervige-vorschlaege](https://www.spiegel.de/netzwelt/apps/instagram-wie-bekomme-ich-in-der-app-weniger-nervige-vorschlaege-a-293ce650-b648-42f6-bea9-1d16f3c8b2c7#ref=rss)
 
