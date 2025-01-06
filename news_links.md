@@ -4,364 +4,416 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### deutschland
-
-* [https://www.spiegel.de/auto/elektroauto-kaufen-csu-plant-bei-wahlsieg-staatliche-praemie-von-bis-zu-3600-euro](https://www.spiegel.de/auto/elektroauto-kaufen-csu-plant-bei-wahlsieg-staatliche-praemie-von-bis-zu-3600-euro-a-1ec53bfc-5311-4d7f-8491-816952f72013#ref=rss)
-* [https://www.spiegel.de/politik/oesterreich-deutsche-politiker-werten-moegliche-fpoe-regierungsbeteiligung-als-warnsignal](https://www.spiegel.de/politik/oesterreich-deutsche-politiker-werten-moegliche-fpoe-regierungsbeteiligung-als-warnsignal-a-e2590242-0839-45de-afa7-f5141be27903#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-zahl-der-insolvenzen-erreicht-niveau-der-finanzkrise](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-zahl-der-insolvenzen-erreicht-niveau-der-finanzkrise-a-078db569-120d-44df-83e9-22edd42df6ac#ref=rss)
-* [https://www.spiegel.de/wirtschaft/mieten-in-deutschland-app-der-linken-zeigt-mehr-als-bedenkliche-22-000-faelle](https://www.spiegel.de/wirtschaft/mieten-in-deutschland-app-der-linken-zeigt-mehr-als-bedenkliche-22-000-faelle-a-672d6e9e-5993-4bed-9703-ab15f7b73489#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/rechtsextremismus-in-deutschland-zahl-der-straftaten-erreicht-2024-neuen-hoechststand](https://www.spiegel.de/panorama/justiz/rechtsextremismus-in-deutschland-zahl-der-straftaten-erreicht-2024-neuen-hoechststand-a-bd9932f6-b7c5-4532-ae68-8c4d483355cc#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/panorama/usa-heftigster-schneefall-seit-mehr-als-einem-jahrzehnt-erwartet](https://www.spiegel.de/panorama/usa-heftigster-schneefall-seit-mehr-als-einem-jahrzehnt-erwartet-a-b81bd680-0fe0-44a1-8e97-de3ebf93de8f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/mieten-in-deutschland-app-der-linken-zeigt-mehr-als-bedenkliche-22-000-faelle](https://www.spiegel.de/wirtschaft/mieten-in-deutschland-app-der-linken-zeigt-mehr-als-bedenkliche-22-000-faelle-a-672d6e9e-5993-4bed-9703-ab15f7b73489#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/rechtsextremismus-in-deutschland-zahl-der-straftaten-erreicht-2024-neuen-hoechststand](https://www.spiegel.de/panorama/justiz/rechtsextremismus-in-deutschland-zahl-der-straftaten-erreicht-2024-neuen-hoechststand-a-bd9932f6-b7c5-4532-ae68-8c4d483355cc#ref=rss)
-* [https://www.spiegel.de/karriere/umfrage-nur-48-prozent-geben-ihr-bestes-auf-der-arbeit](https://www.spiegel.de/karriere/umfrage-nur-48-prozent-geben-ihr-bestes-auf-der-arbeit-a-ad418efd-c62c-4b1e-91cd-96161368edbe#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/instagram-wie-bekomme-ich-in-der-app-weniger-nervige-vorschlaege](https://www.spiegel.de/netzwelt/apps/instagram-wie-bekomme-ich-in-der-app-weniger-nervige-vorschlaege-a-293ce650-b648-42f6-bea9-1d16f3c8b2c7#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/panorama/melbourne-pilot-bricht-start-bei-200-km-h-ab](https://www.spiegel.de/panorama/melbourne-pilot-bricht-start-bei-200-km-h-ab-a-b7fa049a-1b97-46f0-9ee0-3b4a5d2ac081#ref=rss)
-* [https://www.spiegel.de/auto/elektroauto-kaufen-csu-plant-bei-wahlsieg-staatliche-praemie-von-bis-zu-3600-euro](https://www.spiegel.de/auto/elektroauto-kaufen-csu-plant-bei-wahlsieg-staatliche-praemie-von-bis-zu-3600-euro-a-1ec53bfc-5311-4d7f-8491-816952f72013#ref=rss)
-* [https://www.spiegel.de/wirtschaft/italien-plant-1-5-milliarden-euro-geschaeft-mit-spacex](https://www.spiegel.de/wirtschaft/italien-plant-1-5-milliarden-euro-geschaeft-mit-spacex-a-56d42f22-38c8-46ac-bd61-755793c3f6a0#ref=rss)
-* [https://www.spiegel.de/ausland/justin-trudeau-kanadas-premierminister-erwaegt-offenbar-ruecktritt](https://www.spiegel.de/ausland/justin-trudeau-kanadas-premierminister-erwaegt-offenbar-ruecktritt-a-a62f3258-fb9a-46f0-892b-88be8bd619d3#ref=rss)
-### laut
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-ukrainische-position-in-kursk-laut-antony-blinken-wichtig-fuer-verhandlungen](https://www.spiegel.de/ausland/ukraine-krieg-ukrainische-position-in-kursk-laut-antony-blinken-wichtig-fuer-verhandlungen-a-086b54d7-fde8-48f0-88b7-d272bfee88a0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-zahl-der-insolvenzen-erreicht-niveau-der-finanzkrise](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-zahl-der-insolvenzen-erreicht-niveau-der-finanzkrise-a-078db569-120d-44df-83e9-22edd42df6ac#ref=rss)
-* [https://www.spiegel.de/karriere/umfrage-nur-48-prozent-geben-ihr-bestes-auf-der-arbeit](https://www.spiegel.de/karriere/umfrage-nur-48-prozent-geben-ihr-bestes-auf-der-arbeit-a-ad418efd-c62c-4b1e-91cd-96161368edbe#ref=rss)
-### zahl
-
-* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-zahl-der-insolvenzen-erreicht-niveau-der-finanzkrise](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-zahl-der-insolvenzen-erreicht-niveau-der-finanzkrise-a-078db569-120d-44df-83e9-22edd42df6ac#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/rechtsextremismus-in-deutschland-zahl-der-straftaten-erreicht-2024-neuen-hoechststand](https://www.spiegel.de/panorama/justiz/rechtsextremismus-in-deutschland-zahl-der-straftaten-erreicht-2024-neuen-hoechststand-a-bd9932f6-b7c5-4532-ae68-8c4d483355cc#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/auto/elektroauto-kaufen-csu-plant-bei-wahlsieg-staatliche-praemie-von-bis-zu-3600-euro](https://www.spiegel.de/auto/elektroauto-kaufen-csu-plant-bei-wahlsieg-staatliche-praemie-von-bis-zu-3600-euro-a-1ec53bfc-5311-4d7f-8491-816952f72013#ref=rss)
-* [https://www.spiegel.de/reise/europa/sauna-in-grossbritannien-saunen-haben-grosse-aehnlichkeit-mit-unserer-pubkultur](https://www.spiegel.de/reise/europa/sauna-in-grossbritannien-saunen-haben-grosse-aehnlichkeit-mit-unserer-pubkultur-a-c8d68edd-1407-47e6-a801-a75cf33c48bf#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/rechtsextremismus-in-deutschland-zahl-der-straftaten-erreicht-2024-neuen-hoechststand](https://www.spiegel.de/panorama/justiz/rechtsextremismus-in-deutschland-zahl-der-straftaten-erreicht-2024-neuen-hoechststand-a-bd9932f6-b7c5-4532-ae68-8c4d483355cc#ref=rss)
-### usa
-
-* [https://www.spiegel.de/panorama/usa-heftigster-schneefall-seit-mehr-als-einem-jahrzehnt-erwartet](https://www.spiegel.de/panorama/usa-heftigster-schneefall-seit-mehr-als-einem-jahrzehnt-erwartet-a-b81bd680-0fe0-44a1-8e97-de3ebf93de8f#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-ukrainische-position-in-kursk-laut-antony-blinken-wichtig-fuer-verhandlungen](https://www.spiegel.de/ausland/ukraine-krieg-ukrainische-position-in-kursk-laut-antony-blinken-wichtig-fuer-verhandlungen-a-086b54d7-fde8-48f0-88b7-d272bfee88a0#ref=rss)
-### viele
-
-* [https://www.spiegel.de/panorama/usa-heftigster-schneefall-seit-mehr-als-einem-jahrzehnt-erwartet](https://www.spiegel.de/panorama/usa-heftigster-schneefall-seit-mehr-als-einem-jahrzehnt-erwartet-a-b81bd680-0fe0-44a1-8e97-de3ebf93de8f#ref=rss)
-* [https://www.spiegel.de/auto/schule-in-bayern-polizei-verteilt-hunderte-strafzettel-fuer-elterntaxis](https://www.spiegel.de/auto/schule-in-bayern-polizei-verteilt-hunderte-strafzettel-fuer-elterntaxis-a-1112d05e-f114-483c-8ea7-0aff3b3c1c35#ref=rss)
-* [https://www.spiegel.de/psychologie/verbitterung-psychiater-michael-linden-sagt-warum-sie-gefaehrlich-ist-und-was-dagegen-hilft](https://www.spiegel.de/psychologie/verbitterung-psychiater-michael-linden-sagt-warum-sie-gefaehrlich-ist-und-was-dagegen-hilft-a-5e546592-73d7-4043-952b-e53baeed1fee#ref=rss)
-### große
-
-* [https://www.spiegel.de/panorama/usa-heftigster-schneefall-seit-mehr-als-einem-jahrzehnt-erwartet](https://www.spiegel.de/panorama/usa-heftigster-schneefall-seit-mehr-als-einem-jahrzehnt-erwartet-a-b81bd680-0fe0-44a1-8e97-de3ebf93de8f#ref=rss)
-* [https://www.spiegel.de/reise/europa/sauna-in-grossbritannien-saunen-haben-grosse-aehnlichkeit-mit-unserer-pubkultur](https://www.spiegel.de/reise/europa/sauna-in-grossbritannien-saunen-haben-grosse-aehnlichkeit-mit-unserer-pubkultur-a-c8d68edd-1407-47e6-a801-a75cf33c48bf#ref=rss)
-* [https://www.spiegel.de/karriere/umfrage-nur-48-prozent-geben-ihr-bestes-auf-der-arbeit](https://www.spiegel.de/karriere/umfrage-nur-48-prozent-geben-ihr-bestes-auf-der-arbeit-a-ad418efd-c62c-4b1e-91cd-96161368edbe#ref=rss)
-### anschlag
-
-* [https://www.spiegel.de/ausland/israel-anschlag-auf-bus-im-westjordanland](https://www.spiegel.de/ausland/israel-anschlag-auf-bus-im-westjordanland-a-64269093-7534-489e-8330-568eb211aa3e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/magdeburg-sechstes-todesopfer-nach-anschlag-auf-weihnachtsmarkt](https://www.spiegel.de/panorama/justiz/magdeburg-sechstes-todesopfer-nach-anschlag-auf-weihnachtsmarkt-a-b7b5f83a-5745-461f-99bf-c7123d691730#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/israel-anschlag-auf-bus-im-westjordanland](https://www.spiegel.de/ausland/israel-anschlag-auf-bus-im-westjordanland-a-64269093-7534-489e-8330-568eb211aa3e#ref=rss)
-* [https://www.spiegel.de/psychologie/verbitterung-psychiater-michael-linden-sagt-warum-sie-gefaehrlich-ist-und-was-dagegen-hilft](https://www.spiegel.de/psychologie/verbitterung-psychiater-michael-linden-sagt-warum-sie-gefaehrlich-ist-und-was-dagegen-hilft-a-5e546592-73d7-4043-952b-e53baeed1fee#ref=rss)
-### österreich
-
-* [https://www.spiegel.de/ausland/oesterreich-regierungskrise-wird-fpoe-chef-herbert-kickl-jetzt-kanzler](https://www.spiegel.de/ausland/oesterreich-regierungskrise-wird-fpoe-chef-herbert-kickl-jetzt-kanzler-a-9eae4930-a18b-4937-97ce-c4f3d88c3d9e#ref=rss)
-* [https://www.spiegel.de/politik/oesterreich-deutsche-politiker-werten-moegliche-fpoe-regierungsbeteiligung-als-warnsignal](https://www.spiegel.de/politik/oesterreich-deutsche-politiker-werten-moegliche-fpoe-regierungsbeteiligung-als-warnsignal-a-e2590242-0839-45de-afa7-f5141be27903#ref=rss)
-### lange
-
-* [https://www.spiegel.de/ausland/oesterreich-regierungskrise-wird-fpoe-chef-herbert-kickl-jetzt-kanzler](https://www.spiegel.de/ausland/oesterreich-regierungskrise-wird-fpoe-chef-herbert-kickl-jetzt-kanzler-a-9eae4930-a18b-4937-97ce-c4f3d88c3d9e#ref=rss)
-* [https://www.spiegel.de/karriere/magna-werk-in-dorfprozelten-wie-eine-beschaeftigte-um-ihre-zukunft-ringt](https://www.spiegel.de/karriere/magna-werk-in-dorfprozelten-wie-eine-beschaeftigte-um-ihre-zukunft-ringt-a-fb44aa31-808e-462f-a554-9e1249e4c72c#ref=rss)
-* [https://www.spiegel.de/karriere/arbeitslosigkeit-nach-schicksalsschlaegen-fuer-mich-ist-es-ein-neuanfang](https://www.spiegel.de/karriere/arbeitslosigkeit-nach-schicksalsschlaegen-fuer-mich-ist-es-ein-neuanfang-a-d1a278b3-90b5-47dc-9b8e-317b2a64340b#ref=rss)
-### antony
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-ukrainische-position-in-kursk-laut-antony-blinken-wichtig-fuer-verhandlungen](https://www.spiegel.de/ausland/ukraine-krieg-ukrainische-position-in-kursk-laut-antony-blinken-wichtig-fuer-verhandlungen-a-086b54d7-fde8-48f0-88b7-d272bfee88a0#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-antony-blinken-will-geiseln-noch-vor-trumps-amtsantritt-freibekommen](https://www.spiegel.de/ausland/israel-gaza-krieg-antony-blinken-will-geiseln-noch-vor-trumps-amtsantritt-freibekommen-a-eaf4c7f3-2084-4131-a271-cbee0c62de04#ref=rss)
-### blinken
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-ukrainische-position-in-kursk-laut-antony-blinken-wichtig-fuer-verhandlungen](https://www.spiegel.de/ausland/ukraine-krieg-ukrainische-position-in-kursk-laut-antony-blinken-wichtig-fuer-verhandlungen-a-086b54d7-fde8-48f0-88b7-d272bfee88a0#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-antony-blinken-will-geiseln-noch-vor-trumps-amtsantritt-freibekommen](https://www.spiegel.de/ausland/israel-gaza-krieg-antony-blinken-will-geiseln-noch-vor-trumps-amtsantritt-freibekommen-a-eaf4c7f3-2084-4131-a271-cbee0c62de04#ref=rss)
-### verhandlungen
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-ukrainische-position-in-kursk-laut-antony-blinken-wichtig-fuer-verhandlungen](https://www.spiegel.de/ausland/ukraine-krieg-ukrainische-position-in-kursk-laut-antony-blinken-wichtig-fuer-verhandlungen-a-086b54d7-fde8-48f0-88b7-d272bfee88a0#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-antony-blinken-will-geiseln-noch-vor-trumps-amtsantritt-freibekommen](https://www.spiegel.de/ausland/israel-gaza-krieg-antony-blinken-will-geiseln-noch-vor-trumps-amtsantritt-freibekommen-a-eaf4c7f3-2084-4131-a271-cbee0c62de04#ref=rss)
-### job
-
-* [https://www.spiegel.de/karriere/magna-werk-in-dorfprozelten-wie-eine-beschaeftigte-um-ihre-zukunft-ringt](https://www.spiegel.de/karriere/magna-werk-in-dorfprozelten-wie-eine-beschaeftigte-um-ihre-zukunft-ringt-a-fb44aa31-808e-462f-a554-9e1249e4c72c#ref=rss)
-* [https://www.spiegel.de/karriere/arbeitslos-im-alter-ich-bin-immer-noch-eine-sahneschnitte-fuer-den-arbeitsmarkt](https://www.spiegel.de/karriere/arbeitslos-im-alter-ich-bin-immer-noch-eine-sahneschnitte-fuer-den-arbeitsmarkt-a-28110ee1-ebeb-42b9-b44f-511205c4766c#ref=rss)
-* [https://www.spiegel.de/karriere/arbeitslosigkeit-nach-schicksalsschlaegen-fuer-mich-ist-es-ein-neuanfang](https://www.spiegel.de/karriere/arbeitslosigkeit-nach-schicksalsschlaegen-fuer-mich-ist-es-ein-neuanfang-a-d1a278b3-90b5-47dc-9b8e-317b2a64340b#ref=rss)
-### elon
-
-* [https://www.spiegel.de/wirtschaft/italien-plant-1-5-milliarden-euro-geschaeft-mit-spacex](https://www.spiegel.de/wirtschaft/italien-plant-1-5-milliarden-euro-geschaeft-mit-spacex-a-56d42f22-38c8-46ac-bd61-755793c3f6a0#ref=rss)
-* [https://www.spiegel.de/ausland/elon-musk-fordert-ruecktritt-von-nigel-farage-als-parteichef-von-reform-uk](https://www.spiegel.de/ausland/elon-musk-fordert-ruecktritt-von-nigel-farage-als-parteichef-von-reform-uk-a-2184c330-68d3-472e-86d3-33883c567364#ref=rss)
-### musk
-
-* [https://www.spiegel.de/wirtschaft/italien-plant-1-5-milliarden-euro-geschaeft-mit-spacex](https://www.spiegel.de/wirtschaft/italien-plant-1-5-milliarden-euro-geschaeft-mit-spacex-a-56d42f22-38c8-46ac-bd61-755793c3f6a0#ref=rss)
-* [https://www.spiegel.de/ausland/elon-musk-fordert-ruecktritt-von-nigel-farage-als-parteichef-von-reform-uk](https://www.spiegel.de/ausland/elon-musk-fordert-ruecktritt-von-nigel-farage-als-parteichef-von-reform-uk-a-2184c330-68d3-472e-86d3-33883c567364#ref=rss)
-### rom
-
-* [https://www.spiegel.de/wirtschaft/italien-plant-1-5-milliarden-euro-geschaeft-mit-spacex](https://www.spiegel.de/wirtschaft/italien-plant-1-5-milliarden-euro-geschaeft-mit-spacex-a-56d42f22-38c8-46ac-bd61-755793c3f6a0#ref=rss)
-* [https://www.spiegel.de/sport/fussball/serie-a-mats-hummels-loest-rudelbildung-bei-as-rom-vs-lazio-aus](https://www.spiegel.de/sport/fussball/serie-a-mats-hummels-loest-rudelbildung-bei-as-rom-vs-lazio-aus-a-c01bfd77-4526-4297-8629-744ef3676f65#ref=rss)
-### app
-
-* [https://www.spiegel.de/wirtschaft/mieten-in-deutschland-app-der-linken-zeigt-mehr-als-bedenkliche-22-000-faelle](https://www.spiegel.de/wirtschaft/mieten-in-deutschland-app-der-linken-zeigt-mehr-als-bedenkliche-22-000-faelle-a-672d6e9e-5993-4bed-9703-ab15f7b73489#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/instagram-wie-bekomme-ich-in-der-app-weniger-nervige-vorschlaege](https://www.spiegel.de/netzwelt/apps/instagram-wie-bekomme-ich-in-der-app-weniger-nervige-vorschlaege-a-293ce650-b648-42f6-bea9-1d16f3c8b2c7#ref=rss)
-### pilot
-
-* [https://www.spiegel.de/panorama/melbourne-pilot-bricht-start-bei-200-km-h-ab](https://www.spiegel.de/panorama/melbourne-pilot-bricht-start-bei-200-km-h-ab-a-b7fa049a-1b97-46f0-9ee0-3b4a5d2ac081#ref=rss)
-### start
-
-* [https://www.spiegel.de/panorama/melbourne-pilot-bricht-start-bei-200-km-h-ab](https://www.spiegel.de/panorama/melbourne-pilot-bricht-start-bei-200-km-h-ab-a-b7fa049a-1b97-46f0-9ee0-3b4a5d2ac081#ref=rss)
+* [https://www.spiegel.de/kultur/kino/tom-holland-trinkt-seit-drei-jahren-keinen-alkohol-mehr](https://www.spiegel.de/kultur/kino/tom-holland-trinkt-seit-drei-jahren-keinen-alkohol-mehr-a-5c2b84a1-558f-4e4e-9bc9-d1013720f1ae#ref=rss)
+* [https://www.spiegel.de/auto/schlichtungsstelle-reise-verkehr-neuer-rekord-bei-beschwerden-ueber-airlines-und-bahn](https://www.spiegel.de/auto/schlichtungsstelle-reise-verkehr-neuer-rekord-bei-beschwerden-ueber-airlines-und-bahn-a-6f2c1c40-be02-4c00-a810-215b8fd484eb#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/rechtsextremismus-cdu-abgeordneter-wanderwitz-sieht-afd-als-grund-fuer-anstieg-rechtsextremer-straftaten](https://www.spiegel.de/panorama/justiz/rechtsextremismus-cdu-abgeordneter-wanderwitz-sieht-afd-als-grund-fuer-anstieg-rechtsextremer-straftaten-a-573a3e92-dfed-4c8d-8219-bd9b87fe389c#ref=rss)
+* [https://www.spiegel.de/panorama/silvester-in-berlin-gesundheitsbehoerde-meldet-363-verletzte-durch-feuerwerk](https://www.spiegel.de/panorama/silvester-in-berlin-gesundheitsbehoerde-meldet-363-verletzte-durch-feuerwerk-a-09ae438c-b030-42bf-b421-c9eef448dcf5#ref=rss)
 ### csu
 
-* [https://www.spiegel.de/auto/elektroauto-kaufen-csu-plant-bei-wahlsieg-staatliche-praemie-von-bis-zu-3600-euro](https://www.spiegel.de/auto/elektroauto-kaufen-csu-plant-bei-wahlsieg-staatliche-praemie-von-bis-zu-3600-euro-a-1ec53bfc-5311-4d7f-8491-816952f72013#ref=rss)
-### plant
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-regierundbildung-in-oesterreich-dreikoenigstreffen-von-csu-und-fdp-quick-commerce-in-indien](https://www.spiegel.de/politik/deutschland/news-des-tages-regierundbildung-in-oesterreich-dreikoenigstreffen-von-csu-und-fdp-quick-commerce-in-indien-a-7ee2d823-f92b-4a50-bed8-2cbefd2cc2cf#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/csu-markus-soeder-will-migrationsthemen-im-wahlkampf-mit-harter-hand-durchdruecken](https://www.spiegel.de/politik/deutschland/csu-markus-soeder-will-migrationsthemen-im-wahlkampf-mit-harter-hand-durchdruecken-a-a29f0e1f-e31f-44f3-b264-f6bd9fc5737c#ref=rss)
+### herbert
 
-* [https://www.spiegel.de/auto/elektroauto-kaufen-csu-plant-bei-wahlsieg-staatliche-praemie-von-bis-zu-3600-euro](https://www.spiegel.de/auto/elektroauto-kaufen-csu-plant-bei-wahlsieg-staatliche-praemie-von-bis-zu-3600-euro-a-1ec53bfc-5311-4d7f-8491-816952f72013#ref=rss)
-* [https://www.spiegel.de/wirtschaft/italien-plant-1-5-milliarden-euro-geschaeft-mit-spacex](https://www.spiegel.de/wirtschaft/italien-plant-1-5-milliarden-euro-geschaeft-mit-spacex-a-56d42f22-38c8-46ac-bd61-755793c3f6a0#ref=rss)
-### euro
-
-* [https://www.spiegel.de/auto/elektroauto-kaufen-csu-plant-bei-wahlsieg-staatliche-praemie-von-bis-zu-3600-euro](https://www.spiegel.de/auto/elektroauto-kaufen-csu-plant-bei-wahlsieg-staatliche-praemie-von-bis-zu-3600-euro-a-1ec53bfc-5311-4d7f-8491-816952f72013#ref=rss)
-* [https://www.spiegel.de/sport/golf/golf-baelle-vertauscht-profis-entgehen-hunderttausende-euro-bei-pga-auftaktturnier](https://www.spiegel.de/sport/golf/golf-baelle-vertauscht-profis-entgehen-hunderttausende-euro-bei-pga-auftaktturnier-a-a0625f5a-7215-4856-884d-b923bfebccf9#ref=rss)
-### alle
-
-* [https://www.spiegel.de/auto/elektroauto-kaufen-csu-plant-bei-wahlsieg-staatliche-praemie-von-bis-zu-3600-euro](https://www.spiegel.de/auto/elektroauto-kaufen-csu-plant-bei-wahlsieg-staatliche-praemie-von-bis-zu-3600-euro-a-1ec53bfc-5311-4d7f-8491-816952f72013#ref=rss)
-* [https://www.spiegel.de/ausland/oesterreich-regierungskrise-wird-fpoe-chef-herbert-kickl-jetzt-kanzler](https://www.spiegel.de/ausland/oesterreich-regierungskrise-wird-fpoe-chef-herbert-kickl-jetzt-kanzler-a-9eae4930-a18b-4937-97ce-c4f3d88c3d9e#ref=rss)
-### firewall
-
-* [https://www.spiegel.de/politik/neuer-podcast-firewall-hier-den-trailer-hoeren](https://www.spiegel.de/politik/neuer-podcast-firewall-hier-den-trailer-hoeren-a-1191fcae-1d85-4e0c-98c6-276f90c66f79#ref=rss)
-### trailer
-
-* [https://www.spiegel.de/politik/neuer-podcast-firewall-hier-den-trailer-hoeren](https://www.spiegel.de/politik/neuer-podcast-firewall-hier-den-trailer-hoeren-a-1191fcae-1d85-4e0c-98c6-276f90c66f79#ref=rss)
-### behörden
-
-* [https://www.spiegel.de/politik/neuer-podcast-firewall-hier-den-trailer-hoeren](https://www.spiegel.de/politik/neuer-podcast-firewall-hier-den-trailer-hoeren-a-1191fcae-1d85-4e0c-98c6-276f90c66f79#ref=rss)
-* [https://www.spiegel.de/wirtschaft/mieten-in-deutschland-app-der-linken-zeigt-mehr-als-bedenkliche-22-000-faelle](https://www.spiegel.de/wirtschaft/mieten-in-deutschland-app-der-linken-zeigt-mehr-als-bedenkliche-22-000-faelle-a-672d6e9e-5993-4bed-9703-ab15f7b73489#ref=rss)
-### wir
-
-* [https://www.spiegel.de/politik/neuer-podcast-firewall-hier-den-trailer-hoeren](https://www.spiegel.de/politik/neuer-podcast-firewall-hier-den-trailer-hoeren-a-1191fcae-1d85-4e0c-98c6-276f90c66f79#ref=rss)
-* [https://www.spiegel.de/panorama/leute/rupauls-drag-race-james-lee-williams-alias-the-vivienne-stirbt-mit-32-jahren](https://www.spiegel.de/panorama/leute/rupauls-drag-race-james-lee-williams-alias-the-vivienne-stirbt-mit-32-jahren-a-b68a42d4-4aea-43be-a907-e301ac3e7dbd#ref=rss)
-### mehrere
-
-* [https://www.spiegel.de/panorama/usa-heftigster-schneefall-seit-mehr-als-einem-jahrzehnt-erwartet](https://www.spiegel.de/panorama/usa-heftigster-schneefall-seit-mehr-als-einem-jahrzehnt-erwartet-a-b81bd680-0fe0-44a1-8e97-de3ebf93de8f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-zahl-der-insolvenzen-erreicht-niveau-der-finanzkrise](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-zahl-der-insolvenzen-erreicht-niveau-der-finanzkrise-a-078db569-120d-44df-83e9-22edd42df6ac#ref=rss)
-### bus
-
-* [https://www.spiegel.de/ausland/israel-anschlag-auf-bus-im-westjordanland](https://www.spiegel.de/ausland/israel-anschlag-auf-bus-im-westjordanland-a-64269093-7534-489e-8330-568eb211aa3e#ref=rss)
-### westjordanland
-
-* [https://www.spiegel.de/ausland/israel-anschlag-auf-bus-im-westjordanland](https://www.spiegel.de/ausland/israel-anschlag-auf-bus-im-westjordanland-a-64269093-7534-489e-8330-568eb211aa3e#ref=rss)
-### drei
-
-* [https://www.spiegel.de/ausland/israel-anschlag-auf-bus-im-westjordanland](https://www.spiegel.de/ausland/israel-anschlag-auf-bus-im-westjordanland-a-64269093-7534-489e-8330-568eb211aa3e#ref=rss)
-### mindestens
-
-* [https://www.spiegel.de/ausland/israel-anschlag-auf-bus-im-westjordanland](https://www.spiegel.de/ausland/israel-anschlag-auf-bus-im-westjordanland-a-64269093-7534-489e-8330-568eb211aa3e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/rechtsextremismus-in-deutschland-zahl-der-straftaten-erreicht-2024-neuen-hoechststand](https://www.spiegel.de/panorama/justiz/rechtsextremismus-in-deutschland-zahl-der-straftaten-erreicht-2024-neuen-hoechststand-a-bd9932f6-b7c5-4532-ae68-8c4d483355cc#ref=rss)
-### ces
-
-* [https://www.spiegel.de/netzwelt/gadgets/ces-in-las-vegas-so-sieht-samsungs-vision-vom-ki-tv-aus](https://www.spiegel.de/netzwelt/gadgets/ces-in-las-vegas-so-sieht-samsungs-vision-vom-ki-tv-aus-a-88331b54-9530-4313-ac05-3b768a48819e#ref=rss)
-### kurz
-
-* [https://www.spiegel.de/netzwelt/gadgets/ces-in-las-vegas-so-sieht-samsungs-vision-vom-ki-tv-aus](https://www.spiegel.de/netzwelt/gadgets/ces-in-las-vegas-so-sieht-samsungs-vision-vom-ki-tv-aus-a-88331b54-9530-4313-ac05-3b768a48819e#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-antony-blinken-will-geiseln-noch-vor-trumps-amtsantritt-freibekommen](https://www.spiegel.de/ausland/israel-gaza-krieg-antony-blinken-will-geiseln-noch-vor-trumps-amtsantritt-freibekommen-a-eaf4c7f3-2084-4131-a271-cbee0c62de04#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/netzwelt/gadgets/ces-in-las-vegas-so-sieht-samsungs-vision-vom-ki-tv-aus](https://www.spiegel.de/netzwelt/gadgets/ces-in-las-vegas-so-sieht-samsungs-vision-vom-ki-tv-aus-a-88331b54-9530-4313-ac05-3b768a48819e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/mieten-in-deutschland-app-der-linken-zeigt-mehr-als-bedenkliche-22-000-faelle](https://www.spiegel.de/wirtschaft/mieten-in-deutschland-app-der-linken-zeigt-mehr-als-bedenkliche-22-000-faelle-a-672d6e9e-5993-4bed-9703-ab15f7b73489#ref=rss)
-### zukunft
-
-* [https://www.spiegel.de/netzwelt/gadgets/ces-in-las-vegas-so-sieht-samsungs-vision-vom-ki-tv-aus](https://www.spiegel.de/netzwelt/gadgets/ces-in-las-vegas-so-sieht-samsungs-vision-vom-ki-tv-aus-a-88331b54-9530-4313-ac05-3b768a48819e#ref=rss)
-* [https://www.spiegel.de/karriere/magna-werk-in-dorfprozelten-wie-eine-beschaeftigte-um-ihre-zukunft-ringt](https://www.spiegel.de/karriere/magna-werk-in-dorfprozelten-wie-eine-beschaeftigte-um-ihre-zukunft-ringt-a-fb44aa31-808e-462f-a554-9e1249e4c72c#ref=rss)
-### wichtige
-
-* [https://www.spiegel.de/netzwelt/gadgets/ces-in-las-vegas-so-sieht-samsungs-vision-vom-ki-tv-aus](https://www.spiegel.de/netzwelt/gadgets/ces-in-las-vegas-so-sieht-samsungs-vision-vom-ki-tv-aus-a-88331b54-9530-4313-ac05-3b768a48819e#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-ukrainische-position-in-kursk-laut-antony-blinken-wichtig-fuer-verhandlungen](https://www.spiegel.de/ausland/ukraine-krieg-ukrainische-position-in-kursk-laut-antony-blinken-wichtig-fuer-verhandlungen-a-086b54d7-fde8-48f0-88b7-d272bfee88a0#ref=rss)
-### fpöchef
-
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-regierundbildung-in-oesterreich-dreikoenigstreffen-von-csu-und-fdp-quick-commerce-in-indien](https://www.spiegel.de/politik/deutschland/news-des-tages-regierundbildung-in-oesterreich-dreikoenigstreffen-von-csu-und-fdp-quick-commerce-in-indien-a-7ee2d823-f92b-4a50-bed8-2cbefd2cc2cf#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-praesident-alexander-van-der-bellen-beauftragt-fpoe-mit-der-regierungsbildung](https://www.spiegel.de/ausland/oesterreich-praesident-alexander-van-der-bellen-beauftragt-fpoe-mit-der-regierungsbildung-a-f7765398-116f-4791-bff2-e9ae9bad0019#ref=rss)
 * [https://www.spiegel.de/ausland/oesterreich-regierungskrise-wird-fpoe-chef-herbert-kickl-jetzt-kanzler](https://www.spiegel.de/ausland/oesterreich-regierungskrise-wird-fpoe-chef-herbert-kickl-jetzt-kanzler-a-9eae4930-a18b-4937-97ce-c4f3d88c3d9e#ref=rss)
 ### kickl
 
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-regierundbildung-in-oesterreich-dreikoenigstreffen-von-csu-und-fdp-quick-commerce-in-indien](https://www.spiegel.de/politik/deutschland/news-des-tages-regierundbildung-in-oesterreich-dreikoenigstreffen-von-csu-und-fdp-quick-commerce-in-indien-a-7ee2d823-f92b-4a50-bed8-2cbefd2cc2cf#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-praesident-alexander-van-der-bellen-beauftragt-fpoe-mit-der-regierungsbildung](https://www.spiegel.de/ausland/oesterreich-praesident-alexander-van-der-bellen-beauftragt-fpoe-mit-der-regierungsbildung-a-f7765398-116f-4791-bff2-e9ae9bad0019#ref=rss)
 * [https://www.spiegel.de/ausland/oesterreich-regierungskrise-wird-fpoe-chef-herbert-kickl-jetzt-kanzler](https://www.spiegel.de/ausland/oesterreich-regierungskrise-wird-fpoe-chef-herbert-kickl-jetzt-kanzler-a-9eae4930-a18b-4937-97ce-c4f3d88c3d9e#ref=rss)
-### kanzler
+### musk
 
+* [https://www.spiegel.de/ausland/keir-starmer-britischer-premier-mahnt-nach-musk-attacke-zu-anstand](https://www.spiegel.de/ausland/keir-starmer-britischer-premier-mahnt-nach-musk-attacke-zu-anstand-a-64cfef9c-e767-4e24-aa7c-9a7e57402d4f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/fdp-dreikoenigstreffen-christian-lindner-sagt-elon-musk-wolle-deutschland-schwaechen](https://www.spiegel.de/politik/deutschland/fdp-dreikoenigstreffen-christian-lindner-sagt-elon-musk-wolle-deutschland-schwaechen-a-869ef176-648f-44cc-99c7-99b4edfd4c9c#ref=rss)
+### österreich
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-regierundbildung-in-oesterreich-dreikoenigstreffen-von-csu-und-fdp-quick-commerce-in-indien](https://www.spiegel.de/politik/deutschland/news-des-tages-regierundbildung-in-oesterreich-dreikoenigstreffen-von-csu-und-fdp-quick-commerce-in-indien-a-7ee2d823-f92b-4a50-bed8-2cbefd2cc2cf#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-praesident-alexander-van-der-bellen-beauftragt-fpoe-mit-der-regierungsbildung](https://www.spiegel.de/ausland/oesterreich-praesident-alexander-van-der-bellen-beauftragt-fpoe-mit-der-regierungsbildung-a-f7765398-116f-4791-bff2-e9ae9bad0019#ref=rss)
 * [https://www.spiegel.de/ausland/oesterreich-regierungskrise-wird-fpoe-chef-herbert-kickl-jetzt-kanzler](https://www.spiegel.de/ausland/oesterreich-regierungskrise-wird-fpoe-chef-herbert-kickl-jetzt-kanzler-a-9eae4930-a18b-4937-97ce-c4f3d88c3d9e#ref=rss)
-* [https://www.spiegel.de/politik/oesterreich-deutsche-politiker-werten-moegliche-fpoe-regierungsbeteiligung-als-warnsignal](https://www.spiegel.de/politik/oesterreich-deutsche-politiker-werten-moegliche-fpoe-regierungsbeteiligung-als-warnsignal-a-e2590242-0839-45de-afa7-f5141be27903#ref=rss)
-### politiker
+### fdp
 
-* [https://www.spiegel.de/politik/oesterreich-deutsche-politiker-werten-moegliche-fpoe-regierungsbeteiligung-als-warnsignal](https://www.spiegel.de/politik/oesterreich-deutsche-politiker-werten-moegliche-fpoe-regierungsbeteiligung-als-warnsignal-a-e2590242-0839-45de-afa7-f5141be27903#ref=rss)
-* [https://www.spiegel.de/ausland/elon-musk-fordert-ruecktritt-von-nigel-farage-als-parteichef-von-reform-uk](https://www.spiegel.de/ausland/elon-musk-fordert-ruecktritt-von-nigel-farage-als-parteichef-von-reform-uk-a-2184c330-68d3-472e-86d3-33883c567364#ref=rss)
-### drag
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-regierundbildung-in-oesterreich-dreikoenigstreffen-von-csu-und-fdp-quick-commerce-in-indien](https://www.spiegel.de/politik/deutschland/news-des-tages-regierundbildung-in-oesterreich-dreikoenigstreffen-von-csu-und-fdp-quick-commerce-in-indien-a-7ee2d823-f92b-4a50-bed8-2cbefd2cc2cf#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/fdp-dreikoenigstreffen-christian-lindner-sagt-elon-musk-wolle-deutschland-schwaechen](https://www.spiegel.de/politik/deutschland/fdp-dreikoenigstreffen-christian-lindner-sagt-elon-musk-wolle-deutschland-schwaechen-a-869ef176-648f-44cc-99c7-99b4edfd4c9c#ref=rss)
+### fpö
 
-* [https://www.spiegel.de/panorama/leute/rupauls-drag-race-james-lee-williams-alias-the-vivienne-stirbt-mit-32-jahren](https://www.spiegel.de/panorama/leute/rupauls-drag-race-james-lee-williams-alias-the-vivienne-stirbt-mit-32-jahren-a-b68a42d4-4aea-43be-a907-e301ac3e7dbd#ref=rss)
-### race
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-regierundbildung-in-oesterreich-dreikoenigstreffen-von-csu-und-fdp-quick-commerce-in-indien](https://www.spiegel.de/politik/deutschland/news-des-tages-regierundbildung-in-oesterreich-dreikoenigstreffen-von-csu-und-fdp-quick-commerce-in-indien-a-7ee2d823-f92b-4a50-bed8-2cbefd2cc2cf#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-praesident-alexander-van-der-bellen-beauftragt-fpoe-mit-der-regierungsbildung](https://www.spiegel.de/ausland/oesterreich-praesident-alexander-van-der-bellen-beauftragt-fpoe-mit-der-regierungsbildung-a-f7765398-116f-4791-bff2-e9ae9bad0019#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-regierungskrise-wird-fpoe-chef-herbert-kickl-jetzt-kanzler](https://www.spiegel.de/ausland/oesterreich-regierungskrise-wird-fpoe-chef-herbert-kickl-jetzt-kanzler-a-9eae4930-a18b-4937-97ce-c4f3d88c3d9e#ref=rss)
+### regierungsbildung
 
-* [https://www.spiegel.de/panorama/leute/rupauls-drag-race-james-lee-williams-alias-the-vivienne-stirbt-mit-32-jahren](https://www.spiegel.de/panorama/leute/rupauls-drag-race-james-lee-williams-alias-the-vivienne-stirbt-mit-32-jahren-a-b68a42d4-4aea-43be-a907-e301ac3e7dbd#ref=rss)
-### james
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-regierundbildung-in-oesterreich-dreikoenigstreffen-von-csu-und-fdp-quick-commerce-in-indien](https://www.spiegel.de/politik/deutschland/news-des-tages-regierundbildung-in-oesterreich-dreikoenigstreffen-von-csu-und-fdp-quick-commerce-in-indien-a-7ee2d823-f92b-4a50-bed8-2cbefd2cc2cf#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-praesident-alexander-van-der-bellen-beauftragt-fpoe-mit-der-regierungsbildung](https://www.spiegel.de/ausland/oesterreich-praesident-alexander-van-der-bellen-beauftragt-fpoe-mit-der-regierungsbildung-a-f7765398-116f-4791-bff2-e9ae9bad0019#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-regierungskrise-wird-fpoe-chef-herbert-kickl-jetzt-kanzler](https://www.spiegel.de/ausland/oesterreich-regierungskrise-wird-fpoe-chef-herbert-kickl-jetzt-kanzler-a-9eae4930-a18b-4937-97ce-c4f3d88c3d9e#ref=rss)
+### beauftragt
 
-* [https://www.spiegel.de/panorama/leute/rupauls-drag-race-james-lee-williams-alias-the-vivienne-stirbt-mit-32-jahren](https://www.spiegel.de/panorama/leute/rupauls-drag-race-james-lee-williams-alias-the-vivienne-stirbt-mit-32-jahren-a-b68a42d4-4aea-43be-a907-e301ac3e7dbd#ref=rss)
-### lee
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-regierundbildung-in-oesterreich-dreikoenigstreffen-von-csu-und-fdp-quick-commerce-in-indien](https://www.spiegel.de/politik/deutschland/news-des-tages-regierundbildung-in-oesterreich-dreikoenigstreffen-von-csu-und-fdp-quick-commerce-in-indien-a-7ee2d823-f92b-4a50-bed8-2cbefd2cc2cf#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-praesident-alexander-van-der-bellen-beauftragt-fpoe-mit-der-regierungsbildung](https://www.spiegel.de/ausland/oesterreich-praesident-alexander-van-der-bellen-beauftragt-fpoe-mit-der-regierungsbildung-a-f7765398-116f-4791-bff2-e9ae9bad0019#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-regierungskrise-wird-fpoe-chef-herbert-kickl-jetzt-kanzler](https://www.spiegel.de/ausland/oesterreich-regierungskrise-wird-fpoe-chef-herbert-kickl-jetzt-kanzler-a-9eae4930-a18b-4937-97ce-c4f3d88c3d9e#ref=rss)
+### lage
 
-* [https://www.spiegel.de/panorama/leute/rupauls-drag-race-james-lee-williams-alias-the-vivienne-stirbt-mit-32-jahren](https://www.spiegel.de/panorama/leute/rupauls-drag-race-james-lee-williams-alias-the-vivienne-stirbt-mit-32-jahren-a-b68a42d4-4aea-43be-a907-e301ac3e7dbd#ref=rss)
-### williams
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-regierundbildung-in-oesterreich-dreikoenigstreffen-von-csu-und-fdp-quick-commerce-in-indien](https://www.spiegel.de/politik/deutschland/news-des-tages-regierundbildung-in-oesterreich-dreikoenigstreffen-von-csu-und-fdp-quick-commerce-in-indien-a-7ee2d823-f92b-4a50-bed8-2cbefd2cc2cf#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-sieht-donald-trump-in-der-lage-putin-zu-stoppen-was-sagen-die-soldaten](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-sieht-donald-trump-in-der-lage-putin-zu-stoppen-was-sagen-die-soldaten-a-43f056f4-c762-45c3-a9d7-22ea6fdb9b85#ref=rss)
+### präsident
 
-* [https://www.spiegel.de/panorama/leute/rupauls-drag-race-james-lee-williams-alias-the-vivienne-stirbt-mit-32-jahren](https://www.spiegel.de/panorama/leute/rupauls-drag-race-james-lee-williams-alias-the-vivienne-stirbt-mit-32-jahren-a-b68a42d4-4aea-43be-a907-e301ac3e7dbd#ref=rss)
-### the
+* [https://www.spiegel.de/ausland/oesterreich-praesident-alexander-van-der-bellen-beauftragt-fpoe-mit-der-regierungsbildung](https://www.spiegel.de/ausland/oesterreich-praesident-alexander-van-der-bellen-beauftragt-fpoe-mit-der-regierungsbildung-a-f7765398-116f-4791-bff2-e9ae9bad0019#ref=rss)
+* [https://www.spiegel.de/ausland/aserbaidschan-flugzeugabsturz-ilham-alijew-macht-russland-fuer-tote-verantwortlich](https://www.spiegel.de/ausland/aserbaidschan-flugzeugabsturz-ilham-alijew-macht-russland-fuer-tote-verantwortlich-a-5f27fcbb-88f9-4452-a00b-d51cd3f52eb0#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-sieht-donald-trump-in-der-lage-putin-zu-stoppen-was-sagen-die-soldaten](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-sieht-donald-trump-in-der-lage-putin-zu-stoppen-was-sagen-die-soldaten-a-43f056f4-c762-45c3-a9d7-22ea6fdb9b85#ref=rss)
+### van
 
-* [https://www.spiegel.de/panorama/leute/rupauls-drag-race-james-lee-williams-alias-the-vivienne-stirbt-mit-32-jahren](https://www.spiegel.de/panorama/leute/rupauls-drag-race-james-lee-williams-alias-the-vivienne-stirbt-mit-32-jahren-a-b68a42d4-4aea-43be-a907-e301ac3e7dbd#ref=rss)
-### vivienne
+* [https://www.spiegel.de/ausland/oesterreich-praesident-alexander-van-der-bellen-beauftragt-fpoe-mit-der-regierungsbildung](https://www.spiegel.de/ausland/oesterreich-praesident-alexander-van-der-bellen-beauftragt-fpoe-mit-der-regierungsbildung-a-f7765398-116f-4791-bff2-e9ae9bad0019#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-regierungskrise-wird-fpoe-chef-herbert-kickl-jetzt-kanzler](https://www.spiegel.de/ausland/oesterreich-regierungskrise-wird-fpoe-chef-herbert-kickl-jetzt-kanzler-a-9eae4930-a18b-4937-97ce-c4f3d88c3d9e#ref=rss)
+### bellen
 
-* [https://www.spiegel.de/panorama/leute/rupauls-drag-race-james-lee-williams-alias-the-vivienne-stirbt-mit-32-jahren](https://www.spiegel.de/panorama/leute/rupauls-drag-race-james-lee-williams-alias-the-vivienne-stirbt-mit-32-jahren-a-b68a42d4-4aea-43be-a907-e301ac3e7dbd#ref=rss)
-### bekannt
+* [https://www.spiegel.de/ausland/oesterreich-praesident-alexander-van-der-bellen-beauftragt-fpoe-mit-der-regierungsbildung](https://www.spiegel.de/ausland/oesterreich-praesident-alexander-van-der-bellen-beauftragt-fpoe-mit-der-regierungsbildung-a-f7765398-116f-4791-bff2-e9ae9bad0019#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-regierungskrise-wird-fpoe-chef-herbert-kickl-jetzt-kanzler](https://www.spiegel.de/ausland/oesterreich-regierungskrise-wird-fpoe-chef-herbert-kickl-jetzt-kanzler-a-9eae4930-a18b-4937-97ce-c4f3d88c3d9e#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/panorama/leute/rupauls-drag-race-james-lee-williams-alias-the-vivienne-stirbt-mit-32-jahren](https://www.spiegel.de/panorama/leute/rupauls-drag-race-james-lee-williams-alias-the-vivienne-stirbt-mit-32-jahren-a-b68a42d4-4aea-43be-a907-e301ac3e7dbd#ref=rss)
-### schule
+* [https://www.spiegel.de/kultur/kino/tom-holland-trinkt-seit-drei-jahren-keinen-alkohol-mehr](https://www.spiegel.de/kultur/kino/tom-holland-trinkt-seit-drei-jahren-keinen-alkohol-mehr-a-5c2b84a1-558f-4e4e-9bc9-d1013720f1ae#ref=rss)
+* [https://www.spiegel.de/panorama/bremerhaven-mann-stuerzt-beim-pokemon-go-spielen-ins-wasser](https://www.spiegel.de/panorama/bremerhaven-mann-stuerzt-beim-pokemon-go-spielen-ins-wasser-a-2ac55cc3-188e-4c46-affb-79fa82fca447#ref=rss)
+* [https://www.spiegel.de/auto/tesla-besitzer-in-schweden-stehen-in-langen-schlangen-vor-ladestationen](https://www.spiegel.de/auto/tesla-besitzer-in-schweden-stehen-in-langen-schlangen-vor-ladestationen-a-b05bab05-07e4-4fb1-8cb1-5836cf3d0f16#ref=rss)
+### ärger
 
-* [https://www.spiegel.de/auto/schule-in-bayern-polizei-verteilt-hunderte-strafzettel-fuer-elterntaxis](https://www.spiegel.de/auto/schule-in-bayern-polizei-verteilt-hunderte-strafzettel-fuer-elterntaxis-a-1112d05e-f114-483c-8ea7-0aff3b3c1c35#ref=rss)
-### bayern
+* [https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-in-hamburg-neuer-aerger-droht-um-wahlliste](https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-in-hamburg-neuer-aerger-droht-um-wahlliste-a-3041816e-82dc-4761-b8de-6baa79db9e58#ref=rss)
+* [https://www.spiegel.de/auto/wales-auf-der-strasse-der-hoelle-soll-ab-sommer-der-verkehr-rollen](https://www.spiegel.de/auto/wales-auf-der-strasse-der-hoelle-soll-ab-sommer-der-verkehr-rollen-a-3ab5d8b2-0640-4cad-ae02-35c5d473f0e1#ref=rss)
+### flughafen
 
-* [https://www.spiegel.de/auto/schule-in-bayern-polizei-verteilt-hunderte-strafzettel-fuer-elterntaxis](https://www.spiegel.de/auto/schule-in-bayern-polizei-verteilt-hunderte-strafzettel-fuer-elterntaxis-a-1112d05e-f114-483c-8ea7-0aff3b3c1c35#ref=rss)
-### kinder
+* [https://www.spiegel.de/auto/arizona-selbstfahrendes-waymo-auto-dreht-mehrere-runden-vor-flughafen-und-laesst-fahrgast-nicht-aussteigen](https://www.spiegel.de/auto/arizona-selbstfahrendes-waymo-auto-dreht-mehrere-runden-vor-flughafen-und-laesst-fahrgast-nicht-aussteigen-a-c7a53480-be78-4fcb-b56f-2630f8586ed1#ref=rss)
+* [https://www.spiegel.de/sport/tennis/australian-open-novak-djokovic-spricht-ueber-sein-einreise-trauma](https://www.spiegel.de/sport/tennis/australian-open-novak-djokovic-spricht-ueber-sein-einreise-trauma-a-09bee76b-8c35-4bf5-9f3f-e30c640a1e06#ref=rss)
+### premier
 
-* [https://www.spiegel.de/auto/schule-in-bayern-polizei-verteilt-hunderte-strafzettel-fuer-elterntaxis](https://www.spiegel.de/auto/schule-in-bayern-polizei-verteilt-hunderte-strafzettel-fuer-elterntaxis-a-1112d05e-f114-483c-8ea7-0aff3b3c1c35#ref=rss)
-* [https://www.spiegel.de/karriere/arbeitslosigkeit-nach-schicksalsschlaegen-fuer-mich-ist-es-ein-neuanfang](https://www.spiegel.de/karriere/arbeitslosigkeit-nach-schicksalsschlaegen-fuer-mich-ist-es-ein-neuanfang-a-d1a278b3-90b5-47dc-9b8e-317b2a64340b#ref=rss)
-### kursk
+* [https://www.spiegel.de/ausland/keir-starmer-britischer-premier-mahnt-nach-musk-attacke-zu-anstand](https://www.spiegel.de/ausland/keir-starmer-britischer-premier-mahnt-nach-musk-attacke-zu-anstand-a-64cfef9c-e767-4e24-aa7c-9a7e57402d4f#ref=rss)
+* [https://www.spiegel.de/ausland/justin-trudeau-kanadas-premierminister-kuendigt-ruecktritt-an](https://www.spiegel.de/ausland/justin-trudeau-kanadas-premierminister-kuendigt-ruecktritt-an-a-19de67dd-555b-402b-95ca-616d95eb0eb9#ref=rss)
+### elon
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-ukrainische-position-in-kursk-laut-antony-blinken-wichtig-fuer-verhandlungen](https://www.spiegel.de/ausland/ukraine-krieg-ukrainische-position-in-kursk-laut-antony-blinken-wichtig-fuer-verhandlungen-a-086b54d7-fde8-48f0-88b7-d272bfee88a0#ref=rss)
-### neue
+* [https://www.spiegel.de/ausland/keir-starmer-britischer-premier-mahnt-nach-musk-attacke-zu-anstand](https://www.spiegel.de/ausland/keir-starmer-britischer-premier-mahnt-nach-musk-attacke-zu-anstand-a-64cfef9c-e767-4e24-aa7c-9a7e57402d4f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/fdp-dreikoenigstreffen-christian-lindner-sagt-elon-musk-wolle-deutschland-schwaechen](https://www.spiegel.de/politik/deutschland/fdp-dreikoenigstreffen-christian-lindner-sagt-elon-musk-wolle-deutschland-schwaechen-a-869ef176-648f-44cc-99c7-99b4edfd4c9c#ref=rss)
+### russland
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-ukrainische-position-in-kursk-laut-antony-blinken-wichtig-fuer-verhandlungen](https://www.spiegel.de/ausland/ukraine-krieg-ukrainische-position-in-kursk-laut-antony-blinken-wichtig-fuer-verhandlungen-a-086b54d7-fde8-48f0-88b7-d272bfee88a0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-zahl-der-insolvenzen-erreicht-niveau-der-finanzkrise](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-zahl-der-insolvenzen-erreicht-niveau-der-finanzkrise-a-078db569-120d-44df-83e9-22edd42df6ac#ref=rss)
-### anderen
+* [https://www.spiegel.de/ausland/aserbaidschan-flugzeugabsturz-ilham-alijew-macht-russland-fuer-tote-verantwortlich](https://www.spiegel.de/ausland/aserbaidschan-flugzeugabsturz-ilham-alijew-macht-russland-fuer-tote-verantwortlich-a-5f27fcbb-88f9-4452-a00b-d51cd3f52eb0#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-wirft-kyjiw-beschuss-von-atomkraftwerk-saporischschja-vor](https://www.spiegel.de/ausland/ukraine-krieg-russland-wirft-kyjiw-beschuss-von-atomkraftwerk-saporischschja-vor-a-42384542-d254-4819-9fd7-2560d384c318#ref=rss)
+### verkehr
 
-* [https://www.spiegel.de/sport/golf/golf-baelle-vertauscht-profis-entgehen-hunderttausende-euro-bei-pga-auftaktturnier](https://www.spiegel.de/sport/golf/golf-baelle-vertauscht-profis-entgehen-hunderttausende-euro-bei-pga-auftaktturnier-a-a0625f5a-7215-4856-884d-b923bfebccf9#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/instagram-wie-bekomme-ich-in-der-app-weniger-nervige-vorschlaege](https://www.spiegel.de/netzwelt/apps/instagram-wie-bekomme-ich-in-der-app-weniger-nervige-vorschlaege-a-293ce650-b648-42f6-bea9-1d16f3c8b2c7#ref=rss)
-### saunen
-
-* [https://www.spiegel.de/reise/europa/sauna-in-grossbritannien-saunen-haben-grosse-aehnlichkeit-mit-unserer-pubkultur](https://www.spiegel.de/reise/europa/sauna-in-grossbritannien-saunen-haben-grosse-aehnlichkeit-mit-unserer-pubkultur-a-c8d68edd-1407-47e6-a801-a75cf33c48bf#ref=rss)
-### schwab
-
-* [https://www.spiegel.de/karriere/magna-werk-in-dorfprozelten-wie-eine-beschaeftigte-um-ihre-zukunft-ringt](https://www.spiegel.de/karriere/magna-werk-in-dorfprozelten-wie-eine-beschaeftigte-um-ihre-zukunft-ringt-a-fb44aa31-808e-462f-a554-9e1249e4c72c#ref=rss)
-### arbeitslos
-
-* [https://www.spiegel.de/karriere/arbeitslos-im-alter-ich-bin-immer-noch-eine-sahneschnitte-fuer-den-arbeitsmarkt](https://www.spiegel.de/karriere/arbeitslos-im-alter-ich-bin-immer-noch-eine-sahneschnitte-fuer-den-arbeitsmarkt-a-28110ee1-ebeb-42b9-b44f-511205c4766c#ref=rss)
-* [https://www.spiegel.de/karriere/arbeitslosigkeit-nach-schicksalsschlaegen-fuer-mich-ist-es-ein-neuanfang](https://www.spiegel.de/karriere/arbeitslosigkeit-nach-schicksalsschlaegen-fuer-mich-ist-es-ein-neuanfang-a-d1a278b3-90b5-47dc-9b8e-317b2a64340b#ref=rss)
-### ich
-
-* [https://www.spiegel.de/karriere/arbeitslos-im-alter-ich-bin-immer-noch-eine-sahneschnitte-fuer-den-arbeitsmarkt](https://www.spiegel.de/karriere/arbeitslos-im-alter-ich-bin-immer-noch-eine-sahneschnitte-fuer-den-arbeitsmarkt-a-28110ee1-ebeb-42b9-b44f-511205c4766c#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/instagram-wie-bekomme-ich-in-der-app-weniger-nervige-vorschlaege](https://www.spiegel.de/netzwelt/apps/instagram-wie-bekomme-ich-in-der-app-weniger-nervige-vorschlaege-a-293ce650-b648-42f6-bea9-1d16f3c8b2c7#ref=rss)
-### rochow
-
-* [https://www.spiegel.de/karriere/arbeitslos-im-alter-ich-bin-immer-noch-eine-sahneschnitte-fuer-den-arbeitsmarkt](https://www.spiegel.de/karriere/arbeitslos-im-alter-ich-bin-immer-noch-eine-sahneschnitte-fuer-den-arbeitsmarkt-a-28110ee1-ebeb-42b9-b44f-511205c4766c#ref=rss)
-### verlor
-
-* [https://www.spiegel.de/karriere/arbeitslos-im-alter-ich-bin-immer-noch-eine-sahneschnitte-fuer-den-arbeitsmarkt](https://www.spiegel.de/karriere/arbeitslos-im-alter-ich-bin-immer-noch-eine-sahneschnitte-fuer-den-arbeitsmarkt-a-28110ee1-ebeb-42b9-b44f-511205c4766c#ref=rss)
-* [https://www.spiegel.de/karriere/arbeitslosigkeit-nach-schicksalsschlaegen-fuer-mich-ist-es-ein-neuanfang](https://www.spiegel.de/karriere/arbeitslosigkeit-nach-schicksalsschlaegen-fuer-mich-ist-es-ein-neuanfang-a-d1a278b3-90b5-47dc-9b8e-317b2a64340b#ref=rss)
-### todesopfer
-
-* [https://www.spiegel.de/panorama/justiz/magdeburg-sechstes-todesopfer-nach-anschlag-auf-weihnachtsmarkt](https://www.spiegel.de/panorama/justiz/magdeburg-sechstes-todesopfer-nach-anschlag-auf-weihnachtsmarkt-a-b7b5f83a-5745-461f-99bf-c7123d691730#ref=rss)
-### weihnachtsmarkt
-
-* [https://www.spiegel.de/panorama/justiz/magdeburg-sechstes-todesopfer-nach-anschlag-auf-weihnachtsmarkt](https://www.spiegel.de/panorama/justiz/magdeburg-sechstes-todesopfer-nach-anschlag-auf-weihnachtsmarkt-a-b7b5f83a-5745-461f-99bf-c7123d691730#ref=rss)
-### trumps
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-antony-blinken-will-geiseln-noch-vor-trumps-amtsantritt-freibekommen](https://www.spiegel.de/ausland/israel-gaza-krieg-antony-blinken-will-geiseln-noch-vor-trumps-amtsantritt-freibekommen-a-eaf4c7f3-2084-4131-a271-cbee0c62de04#ref=rss)
-* [https://www.spiegel.de/ausland/elon-musk-fordert-ruecktritt-von-nigel-farage-als-parteichef-von-reform-uk](https://www.spiegel.de/ausland/elon-musk-fordert-ruecktritt-von-nigel-farage-als-parteichef-von-reform-uk-a-2184c330-68d3-472e-86d3-33883c567364#ref=rss)
-### thailand
-
-* [https://www.spiegel.de/panorama/thailand-elefant-toetet-22-jaehrige-touristin](https://www.spiegel.de/panorama/thailand-elefant-toetet-22-jaehrige-touristin-a-3d5e6c40-9241-435d-a150-80852b61474d#ref=rss)
-### unter
-
-* [https://www.spiegel.de/panorama/thailand-elefant-toetet-22-jaehrige-touristin](https://www.spiegel.de/panorama/thailand-elefant-toetet-22-jaehrige-touristin-a-3d5e6c40-9241-435d-a150-80852b61474d#ref=rss)
-* [https://www.spiegel.de/ausland/justin-trudeau-kanadas-premierminister-erwaegt-offenbar-ruecktritt](https://www.spiegel.de/ausland/justin-trudeau-kanadas-premierminister-erwaegt-offenbar-ruecktritt-a-a62f3258-fb9a-46f0-892b-88be8bd619d3#ref=rss)
-### michael
-
-* [https://www.spiegel.de/psychologie/verbitterung-psychiater-michael-linden-sagt-warum-sie-gefaehrlich-ist-und-was-dagegen-hilft](https://www.spiegel.de/psychologie/verbitterung-psychiater-michael-linden-sagt-warum-sie-gefaehrlich-ist-und-was-dagegen-hilft-a-5e546592-73d7-4043-952b-e53baeed1fee#ref=rss)
-### linden
-
-* [https://www.spiegel.de/psychologie/verbitterung-psychiater-michael-linden-sagt-warum-sie-gefaehrlich-ist-und-was-dagegen-hilft](https://www.spiegel.de/psychologie/verbitterung-psychiater-michael-linden-sagt-warum-sie-gefaehrlich-ist-und-was-dagegen-hilft-a-5e546592-73d7-4043-952b-e53baeed1fee#ref=rss)
-### dagegen
-
-* [https://www.spiegel.de/psychologie/verbitterung-psychiater-michael-linden-sagt-warum-sie-gefaehrlich-ist-und-was-dagegen-hilft](https://www.spiegel.de/psychologie/verbitterung-psychiater-michael-linden-sagt-warum-sie-gefaehrlich-ist-und-was-dagegen-hilft-a-5e546592-73d7-4043-952b-e53baeed1fee#ref=rss)
-### oft
-
-* [https://www.spiegel.de/wirtschaft/italien-plant-1-5-milliarden-euro-geschaeft-mit-spacex](https://www.spiegel.de/wirtschaft/italien-plant-1-5-milliarden-euro-geschaeft-mit-spacex-a-56d42f22-38c8-46ac-bd61-755793c3f6a0#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/instagram-wie-bekomme-ich-in-der-app-weniger-nervige-vorschlaege](https://www.spiegel.de/netzwelt/apps/instagram-wie-bekomme-ich-in-der-app-weniger-nervige-vorschlaege-a-293ce650-b648-42f6-bea9-1d16f3c8b2c7#ref=rss)
-### mats
-
-* [https://www.spiegel.de/sport/fussball/serie-a-mats-hummels-loest-rudelbildung-bei-as-rom-vs-lazio-aus](https://www.spiegel.de/sport/fussball/serie-a-mats-hummels-loest-rudelbildung-bei-as-rom-vs-lazio-aus-a-c01bfd77-4526-4297-8629-744ef3676f65#ref=rss)
-### hummels
-
-* [https://www.spiegel.de/sport/fussball/serie-a-mats-hummels-loest-rudelbildung-bei-as-rom-vs-lazio-aus](https://www.spiegel.de/sport/fussball/serie-a-mats-hummels-loest-rudelbildung-bei-as-rom-vs-lazio-aus-a-c01bfd77-4526-4297-8629-744ef3676f65#ref=rss)
-### as
-
-* [https://www.spiegel.de/sport/fussball/serie-a-mats-hummels-loest-rudelbildung-bei-as-rom-vs-lazio-aus](https://www.spiegel.de/sport/fussball/serie-a-mats-hummels-loest-rudelbildung-bei-as-rom-vs-lazio-aus-a-c01bfd77-4526-4297-8629-744ef3676f65#ref=rss)
-### lazio
-
-* [https://www.spiegel.de/sport/fussball/serie-a-mats-hummels-loest-rudelbildung-bei-as-rom-vs-lazio-aus](https://www.spiegel.de/sport/fussball/serie-a-mats-hummels-loest-rudelbildung-bei-as-rom-vs-lazio-aus-a-c01bfd77-4526-4297-8629-744ef3676f65#ref=rss)
-### reiner
-
-* [https://www.spiegel.de/panorama/leute/reiner-calmund-spricht-nach-grill-den-henssler-dreh-ueber-herzprobleme](https://www.spiegel.de/panorama/leute/reiner-calmund-spricht-nach-grill-den-henssler-dreh-ueber-herzprobleme-a-bc3d40a9-12ad-44eb-9b57-a7cc853c25c7#ref=rss)
-### calmund
-
-* [https://www.spiegel.de/panorama/leute/reiner-calmund-spricht-nach-grill-den-henssler-dreh-ueber-herzprobleme](https://www.spiegel.de/panorama/leute/reiner-calmund-spricht-nach-grill-den-henssler-dreh-ueber-herzprobleme-a-bc3d40a9-12ad-44eb-9b57-a7cc853c25c7#ref=rss)
-### grill
-
-* [https://www.spiegel.de/panorama/leute/reiner-calmund-spricht-nach-grill-den-henssler-dreh-ueber-herzprobleme](https://www.spiegel.de/panorama/leute/reiner-calmund-spricht-nach-grill-den-henssler-dreh-ueber-herzprobleme-a-bc3d40a9-12ad-44eb-9b57-a7cc853c25c7#ref=rss)
-### hensslerdreh
-
-* [https://www.spiegel.de/panorama/leute/reiner-calmund-spricht-nach-grill-den-henssler-dreh-ueber-herzprobleme](https://www.spiegel.de/panorama/leute/reiner-calmund-spricht-nach-grill-den-henssler-dreh-ueber-herzprobleme-a-bc3d40a9-12ad-44eb-9b57-a7cc853c25c7#ref=rss)
-### zufolge
-
-* [https://www.spiegel.de/panorama/leute/reiner-calmund-spricht-nach-grill-den-henssler-dreh-ueber-herzprobleme](https://www.spiegel.de/panorama/leute/reiner-calmund-spricht-nach-grill-den-henssler-dreh-ueber-herzprobleme-a-bc3d40a9-12ad-44eb-9b57-a7cc853c25c7#ref=rss)
-* [https://www.spiegel.de/ausland/justin-trudeau-kanadas-premierminister-erwaegt-offenbar-ruecktritt](https://www.spiegel.de/ausland/justin-trudeau-kanadas-premierminister-erwaegt-offenbar-ruecktritt-a-a62f3258-fb9a-46f0-892b-88be8bd619d3#ref=rss)
-### rücktritt
-
-* [https://www.spiegel.de/ausland/elon-musk-fordert-ruecktritt-von-nigel-farage-als-parteichef-von-reform-uk](https://www.spiegel.de/ausland/elon-musk-fordert-ruecktritt-von-nigel-farage-als-parteichef-von-reform-uk-a-2184c330-68d3-472e-86d3-33883c567364#ref=rss)
-* [https://www.spiegel.de/ausland/justin-trudeau-kanadas-premierminister-erwaegt-offenbar-ruecktritt](https://www.spiegel.de/ausland/justin-trudeau-kanadas-premierminister-erwaegt-offenbar-ruecktritt-a-a62f3258-fb9a-46f0-892b-88be8bd619d3#ref=rss)
-### nigel
-
-* [https://www.spiegel.de/ausland/elon-musk-fordert-ruecktritt-von-nigel-farage-als-parteichef-von-reform-uk](https://www.spiegel.de/ausland/elon-musk-fordert-ruecktritt-von-nigel-farage-als-parteichef-von-reform-uk-a-2184c330-68d3-472e-86d3-33883c567364#ref=rss)
-### farage
-
-* [https://www.spiegel.de/ausland/elon-musk-fordert-ruecktritt-von-nigel-farage-als-parteichef-von-reform-uk](https://www.spiegel.de/ausland/elon-musk-fordert-ruecktritt-von-nigel-farage-als-parteichef-von-reform-uk-a-2184c330-68d3-472e-86d3-33883c567364#ref=rss)
-### insolvenzen
-
-* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-zahl-der-insolvenzen-erreicht-niveau-der-finanzkrise](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-zahl-der-insolvenzen-erreicht-niveau-der-finanzkrise-a-078db569-120d-44df-83e9-22edd42df6ac#ref=rss)
-### erreicht
-
-* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-zahl-der-insolvenzen-erreicht-niveau-der-finanzkrise](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-zahl-der-insolvenzen-erreicht-niveau-der-finanzkrise-a-078db569-120d-44df-83e9-22edd42df6ac#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/rechtsextremismus-in-deutschland-zahl-der-straftaten-erreicht-2024-neuen-hoechststand](https://www.spiegel.de/panorama/justiz/rechtsextremismus-in-deutschland-zahl-der-straftaten-erreicht-2024-neuen-hoechststand-a-bd9932f6-b7c5-4532-ae68-8c4d483355cc#ref=rss)
-### vergangenen
-
-* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-zahl-der-insolvenzen-erreicht-niveau-der-finanzkrise](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-zahl-der-insolvenzen-erreicht-niveau-der-finanzkrise-a-078db569-120d-44df-83e9-22edd42df6ac#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/rechtsextremismus-in-deutschland-zahl-der-straftaten-erreicht-2024-neuen-hoechststand](https://www.spiegel.de/panorama/justiz/rechtsextremismus-in-deutschland-zahl-der-straftaten-erreicht-2024-neuen-hoechststand-a-bd9932f6-b7c5-4532-ae68-8c4d483355cc#ref=rss)
+* [https://www.spiegel.de/auto/schlichtungsstelle-reise-verkehr-neuer-rekord-bei-beschwerden-ueber-airlines-und-bahn](https://www.spiegel.de/auto/schlichtungsstelle-reise-verkehr-neuer-rekord-bei-beschwerden-ueber-airlines-und-bahn-a-6f2c1c40-be02-4c00-a810-215b8fd484eb#ref=rss)
+* [https://www.spiegel.de/auto/wales-auf-der-strasse-der-hoelle-soll-ab-sommer-der-verkehr-rollen](https://www.spiegel.de/auto/wales-auf-der-strasse-der-hoelle-soll-ab-sommer-der-verkehr-rollen-a-3ab5d8b2-0640-4cad-ae02-35c5d473f0e1#ref=rss)
 ### jahr
 
-* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-zahl-der-insolvenzen-erreicht-niveau-der-finanzkrise](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-zahl-der-insolvenzen-erreicht-niveau-der-finanzkrise-a-078db569-120d-44df-83e9-22edd42df6ac#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/rechtsextremismus-in-deutschland-zahl-der-straftaten-erreicht-2024-neuen-hoechststand](https://www.spiegel.de/panorama/justiz/rechtsextremismus-in-deutschland-zahl-der-straftaten-erreicht-2024-neuen-hoechststand-a-bd9932f6-b7c5-4532-ae68-8c4d483355cc#ref=rss)
-### mieten
+* [https://www.spiegel.de/auto/schlichtungsstelle-reise-verkehr-neuer-rekord-bei-beschwerden-ueber-airlines-und-bahn](https://www.spiegel.de/auto/schlichtungsstelle-reise-verkehr-neuer-rekord-bei-beschwerden-ueber-airlines-und-bahn-a-6f2c1c40-be02-4c00-a810-215b8fd484eb#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/rechtsextremismus-cdu-abgeordneter-wanderwitz-sieht-afd-als-grund-fuer-anstieg-rechtsextremer-straftaten](https://www.spiegel.de/panorama/justiz/rechtsextremismus-cdu-abgeordneter-wanderwitz-sieht-afd-als-grund-fuer-anstieg-rechtsextremer-straftaten-a-573a3e92-dfed-4c8d-8219-bd9b87fe389c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/inflation-in-deutschland-preise-stiegen-2024-um-2-2-prozent](https://www.spiegel.de/wirtschaft/inflation-in-deutschland-preise-stiegen-2024-um-2-2-prozent-a-ea74b1b1-e31d-4921-809d-96ea4fd10634#ref=rss)
+### sieht
 
-* [https://www.spiegel.de/wirtschaft/mieten-in-deutschland-app-der-linken-zeigt-mehr-als-bedenkliche-22-000-faelle](https://www.spiegel.de/wirtschaft/mieten-in-deutschland-app-der-linken-zeigt-mehr-als-bedenkliche-22-000-faelle-a-672d6e9e-5993-4bed-9703-ab15f7b73489#ref=rss)
-### justin
+* [https://www.spiegel.de/panorama/justiz/rechtsextremismus-cdu-abgeordneter-wanderwitz-sieht-afd-als-grund-fuer-anstieg-rechtsextremer-straftaten](https://www.spiegel.de/panorama/justiz/rechtsextremismus-cdu-abgeordneter-wanderwitz-sieht-afd-als-grund-fuer-anstieg-rechtsextremer-straftaten-a-573a3e92-dfed-4c8d-8219-bd9b87fe389c#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-sieht-donald-trump-in-der-lage-putin-zu-stoppen-was-sagen-die-soldaten](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-sieht-donald-trump-in-der-lage-putin-zu-stoppen-was-sagen-die-soldaten-a-43f056f4-c762-45c3-a9d7-22ea6fdb9b85#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/ausland/justin-trudeau-kanadas-premierminister-erwaegt-offenbar-ruecktritt](https://www.spiegel.de/ausland/justin-trudeau-kanadas-premierminister-erwaegt-offenbar-ruecktritt-a-a62f3258-fb9a-46f0-892b-88be8bd619d3#ref=rss)
-### trudeau
-
-* [https://www.spiegel.de/ausland/justin-trudeau-kanadas-premierminister-erwaegt-offenbar-ruecktritt](https://www.spiegel.de/ausland/justin-trudeau-kanadas-premierminister-erwaegt-offenbar-ruecktritt-a-a62f3258-fb9a-46f0-892b-88be8bd619d3#ref=rss)
-### kanadas
-
-* [https://www.spiegel.de/ausland/justin-trudeau-kanadas-premierminister-erwaegt-offenbar-ruecktritt](https://www.spiegel.de/ausland/justin-trudeau-kanadas-premierminister-erwaegt-offenbar-ruecktritt-a-a62f3258-fb9a-46f0-892b-88be8bd619d3#ref=rss)
-### straftaten
-
-* [https://www.spiegel.de/panorama/justiz/rechtsextremismus-in-deutschland-zahl-der-straftaten-erreicht-2024-neuen-hoechststand](https://www.spiegel.de/panorama/justiz/rechtsextremismus-in-deutschland-zahl-der-straftaten-erreicht-2024-neuen-hoechststand-a-bd9932f6-b7c5-4532-ae68-8c4d483355cc#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/rechtsextremismus-cdu-abgeordneter-wanderwitz-sieht-afd-als-grund-fuer-anstieg-rechtsextremer-straftaten](https://www.spiegel.de/panorama/justiz/rechtsextremismus-cdu-abgeordneter-wanderwitz-sieht-afd-als-grund-fuer-anstieg-rechtsextremer-straftaten-a-573a3e92-dfed-4c8d-8219-bd9b87fe389c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/fdp-dreikoenigstreffen-christian-lindner-sagt-elon-musk-wolle-deutschland-schwaechen](https://www.spiegel.de/politik/deutschland/fdp-dreikoenigstreffen-christian-lindner-sagt-elon-musk-wolle-deutschland-schwaechen-a-869ef176-648f-44cc-99c7-99b4edfd4c9c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/inflation-in-deutschland-preise-stiegen-2024-um-2-2-prozent](https://www.spiegel.de/wirtschaft/inflation-in-deutschland-preise-stiegen-2024-um-2-2-prozent-a-ea74b1b1-e31d-4921-809d-96ea4fd10634#ref=rss)
 ### prozent
 
-* [https://www.spiegel.de/panorama/justiz/rechtsextremismus-in-deutschland-zahl-der-straftaten-erreicht-2024-neuen-hoechststand](https://www.spiegel.de/panorama/justiz/rechtsextremismus-in-deutschland-zahl-der-straftaten-erreicht-2024-neuen-hoechststand-a-bd9932f6-b7c5-4532-ae68-8c4d483355cc#ref=rss)
-* [https://www.spiegel.de/karriere/umfrage-nur-48-prozent-geben-ihr-bestes-auf-der-arbeit](https://www.spiegel.de/karriere/umfrage-nur-48-prozent-geben-ihr-bestes-auf-der-arbeit-a-ad418efd-c62c-4b1e-91cd-96161368edbe#ref=rss)
-### umfrage
+* [https://www.spiegel.de/panorama/justiz/rechtsextremismus-cdu-abgeordneter-wanderwitz-sieht-afd-als-grund-fuer-anstieg-rechtsextremer-straftaten](https://www.spiegel.de/panorama/justiz/rechtsextremismus-cdu-abgeordneter-wanderwitz-sieht-afd-als-grund-fuer-anstieg-rechtsextremer-straftaten-a-573a3e92-dfed-4c8d-8219-bd9b87fe389c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/inflation-in-deutschland-preise-stiegen-2024-um-2-2-prozent](https://www.spiegel.de/wirtschaft/inflation-in-deutschland-preise-stiegen-2024-um-2-2-prozent-a-ea74b1b1-e31d-4921-809d-96ea4fd10634#ref=rss)
+### wichtigsten
 
-* [https://www.spiegel.de/karriere/umfrage-nur-48-prozent-geben-ihr-bestes-auf-der-arbeit](https://www.spiegel.de/karriere/umfrage-nur-48-prozent-geben-ihr-bestes-auf-der-arbeit-a-ad418efd-c62c-4b1e-91cd-96161368edbe#ref=rss)
-### geben
+* [https://www.spiegel.de/kultur/kino/golden-globes-emilia-perez-und-the-brutalist-triumphieren-bei-den-wichtigsten-kino-preisen](https://www.spiegel.de/kultur/kino/golden-globes-emilia-perez-und-the-brutalist-triumphieren-bei-den-wichtigsten-kino-preisen-a-437a8acd-d93c-4a82-99a2-83cca250c8e6#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-transfers-werder-bremen-holt-manchester-citys-issa-kabore](https://www.spiegel.de/sport/fussball/fussball-transfers-werder-bremen-holt-manchester-citys-issa-kabore-a-ccf5a5b6-4c49-43fb-aea4-593f38953eba#ref=rss)
+### daniel
 
-* [https://www.spiegel.de/karriere/umfrage-nur-48-prozent-geben-ihr-bestes-auf-der-arbeit](https://www.spiegel.de/karriere/umfrage-nur-48-prozent-geben-ihr-bestes-auf-der-arbeit-a-ad418efd-c62c-4b1e-91cd-96161368edbe#ref=rss)
-### vorschläge
+* [https://www.spiegel.de/sport/wintersport/finale-in-bischofshofen-daniel-tschofenig-gewinnt-die-vierschanzentournee](https://www.spiegel.de/sport/wintersport/finale-in-bischofshofen-daniel-tschofenig-gewinnt-die-vierschanzentournee-a-99f43dd9-9623-4d4f-bc5a-29b664edb12d#ref=rss)
+### tschofenig
 
-* [https://www.spiegel.de/netzwelt/apps/instagram-wie-bekomme-ich-in-der-app-weniger-nervige-vorschlaege](https://www.spiegel.de/netzwelt/apps/instagram-wie-bekomme-ich-in-der-app-weniger-nervige-vorschlaege-a-293ce650-b648-42f6-bea9-1d16f3c8b2c7#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/finale-in-bischofshofen-daniel-tschofenig-gewinnt-die-vierschanzentournee](https://www.spiegel.de/sport/wintersport/finale-in-bischofshofen-daniel-tschofenig-gewinnt-die-vierschanzentournee-a-99f43dd9-9623-4d4f-bc5a-29b664edb12d#ref=rss)
+### gewinnt
+
+* [https://www.spiegel.de/sport/wintersport/finale-in-bischofshofen-daniel-tschofenig-gewinnt-die-vierschanzentournee](https://www.spiegel.de/sport/wintersport/finale-in-bischofshofen-daniel-tschofenig-gewinnt-die-vierschanzentournee-a-99f43dd9-9623-4d4f-bc5a-29b664edb12d#ref=rss)
+### vierschanzentournee
+
+* [https://www.spiegel.de/sport/wintersport/finale-in-bischofshofen-daniel-tschofenig-gewinnt-die-vierschanzentournee](https://www.spiegel.de/sport/wintersport/finale-in-bischofshofen-daniel-tschofenig-gewinnt-die-vierschanzentournee-a-99f43dd9-9623-4d4f-bc5a-29b664edb12d#ref=rss)
+### indien
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-regierundbildung-in-oesterreich-dreikoenigstreffen-von-csu-und-fdp-quick-commerce-in-indien](https://www.spiegel.de/politik/deutschland/news-des-tages-regierundbildung-in-oesterreich-dreikoenigstreffen-von-csu-und-fdp-quick-commerce-in-indien-a-7ee2d823-f92b-4a50-bed8-2cbefd2cc2cf#ref=rss)
+### wien
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-regierundbildung-in-oesterreich-dreikoenigstreffen-von-csu-und-fdp-quick-commerce-in-indien](https://www.spiegel.de/politik/deutschland/news-des-tages-regierundbildung-in-oesterreich-dreikoenigstreffen-von-csu-und-fdp-quick-commerce-in-indien-a-7ee2d823-f92b-4a50-bed8-2cbefd2cc2cf#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-praesident-alexander-van-der-bellen-beauftragt-fpoe-mit-der-regierungsbildung](https://www.spiegel.de/ausland/oesterreich-praesident-alexander-van-der-bellen-beauftragt-fpoe-mit-der-regierungsbildung-a-f7765398-116f-4791-bff2-e9ae9bad0019#ref=rss)
+### seeon
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-regierundbildung-in-oesterreich-dreikoenigstreffen-von-csu-und-fdp-quick-commerce-in-indien](https://www.spiegel.de/politik/deutschland/news-des-tages-regierundbildung-in-oesterreich-dreikoenigstreffen-von-csu-und-fdp-quick-commerce-in-indien-a-7ee2d823-f92b-4a50-bed8-2cbefd2cc2cf#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/csu-markus-soeder-will-migrationsthemen-im-wahlkampf-mit-harter-hand-durchdruecken](https://www.spiegel.de/politik/deutschland/csu-markus-soeder-will-migrationsthemen-im-wahlkampf-mit-harter-hand-durchdruecken-a-a29f0e1f-e31f-44f3-b264-f6bd9fc5737c#ref=rss)
+### september
+
+* [https://www.spiegel.de/kultur/kino/september-5-ueber-das-olympia-attentat-1972-deutscher-oscar-kandidat-ist-terror-in-echtzeit](https://www.spiegel.de/kultur/kino/september-5-ueber-das-olympia-attentat-1972-deutscher-oscar-kandidat-ist-terror-in-echtzeit-a-ba3e078d-21f6-4c8b-8078-2257d294fe5b#ref=rss)
+### 5
+
+* [https://www.spiegel.de/kultur/kino/september-5-ueber-das-olympia-attentat-1972-deutscher-oscar-kandidat-ist-terror-in-echtzeit](https://www.spiegel.de/kultur/kino/september-5-ueber-das-olympia-attentat-1972-deutscher-oscar-kandidat-ist-terror-in-echtzeit-a-ba3e078d-21f6-4c8b-8078-2257d294fe5b#ref=rss)
+### 1972
+
+* [https://www.spiegel.de/kultur/kino/september-5-ueber-das-olympia-attentat-1972-deutscher-oscar-kandidat-ist-terror-in-echtzeit](https://www.spiegel.de/kultur/kino/september-5-ueber-das-olympia-attentat-1972-deutscher-oscar-kandidat-ist-terror-in-echtzeit-a-ba3e078d-21f6-4c8b-8078-2257d294fe5b#ref=rss)
+### oscarkandidat
+
+* [https://www.spiegel.de/kultur/kino/september-5-ueber-das-olympia-attentat-1972-deutscher-oscar-kandidat-ist-terror-in-echtzeit](https://www.spiegel.de/kultur/kino/september-5-ueber-das-olympia-attentat-1972-deutscher-oscar-kandidat-ist-terror-in-echtzeit-a-ba3e078d-21f6-4c8b-8078-2257d294fe5b#ref=rss)
+### gilt
+
+* [https://www.spiegel.de/kultur/kino/september-5-ueber-das-olympia-attentat-1972-deutscher-oscar-kandidat-ist-terror-in-echtzeit](https://www.spiegel.de/kultur/kino/september-5-ueber-das-olympia-attentat-1972-deutscher-oscar-kandidat-ist-terror-in-echtzeit-a-ba3e078d-21f6-4c8b-8078-2257d294fe5b#ref=rss)
+* [https://www.spiegel.de/wissenschaft/kinderkrankheiten-wann-duerfen-erkaeltete-kinder-wieder-zum-sport](https://www.spiegel.de/wissenschaft/kinderkrankheiten-wann-duerfen-erkaeltete-kinder-wieder-zum-sport-a-65eff151-6367-4016-9eee-7758d2d2d75e#ref=rss)
+### alexander
+
+* [https://www.spiegel.de/ausland/oesterreich-praesident-alexander-van-der-bellen-beauftragt-fpoe-mit-der-regierungsbildung](https://www.spiegel.de/ausland/oesterreich-praesident-alexander-van-der-bellen-beauftragt-fpoe-mit-der-regierungsbildung-a-f7765398-116f-4791-bff2-e9ae9bad0019#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-regierungskrise-wird-fpoe-chef-herbert-kickl-jetzt-kanzler](https://www.spiegel.de/ausland/oesterreich-regierungskrise-wird-fpoe-chef-herbert-kickl-jetzt-kanzler-a-9eae4930-a18b-4937-97ce-c4f3d88c3d9e#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/ausland/oesterreich-praesident-alexander-van-der-bellen-beauftragt-fpoe-mit-der-regierungsbildung](https://www.spiegel.de/ausland/oesterreich-praesident-alexander-van-der-bellen-beauftragt-fpoe-mit-der-regierungsbildung-a-f7765398-116f-4791-bff2-e9ae9bad0019#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-regierungskrise-wird-fpoe-chef-herbert-kickl-jetzt-kanzler](https://www.spiegel.de/ausland/oesterreich-regierungskrise-wird-fpoe-chef-herbert-kickl-jetzt-kanzler-a-9eae4930-a18b-4937-97ce-c4f3d88c3d9e#ref=rss)
+### bilden
+
+* [https://www.spiegel.de/ausland/oesterreich-praesident-alexander-van-der-bellen-beauftragt-fpoe-mit-der-regierungsbildung](https://www.spiegel.de/ausland/oesterreich-praesident-alexander-van-der-bellen-beauftragt-fpoe-mit-der-regierungsbildung-a-f7765398-116f-4791-bff2-e9ae9bad0019#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-regierungskrise-wird-fpoe-chef-herbert-kickl-jetzt-kanzler](https://www.spiegel.de/ausland/oesterreich-regierungskrise-wird-fpoe-chef-herbert-kickl-jetzt-kanzler-a-9eae4930-a18b-4937-97ce-c4f3d88c3d9e#ref=rss)
+### tom
+
+* [https://www.spiegel.de/kultur/kino/tom-holland-trinkt-seit-drei-jahren-keinen-alkohol-mehr](https://www.spiegel.de/kultur/kino/tom-holland-trinkt-seit-drei-jahren-keinen-alkohol-mehr-a-5c2b84a1-558f-4e4e-9bc9-d1013720f1ae#ref=rss)
+### holland
+
+* [https://www.spiegel.de/kultur/kino/tom-holland-trinkt-seit-drei-jahren-keinen-alkohol-mehr](https://www.spiegel.de/kultur/kino/tom-holland-trinkt-seit-drei-jahren-keinen-alkohol-mehr-a-5c2b84a1-558f-4e4e-9bc9-d1013720f1ae#ref=rss)
+### trinkt
+
+* [https://www.spiegel.de/kultur/kino/tom-holland-trinkt-seit-drei-jahren-keinen-alkohol-mehr](https://www.spiegel.de/kultur/kino/tom-holland-trinkt-seit-drei-jahren-keinen-alkohol-mehr-a-5c2b84a1-558f-4e4e-9bc9-d1013720f1ae#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/kultur/kino/tom-holland-trinkt-seit-drei-jahren-keinen-alkohol-mehr](https://www.spiegel.de/kultur/kino/tom-holland-trinkt-seit-drei-jahren-keinen-alkohol-mehr-a-5c2b84a1-558f-4e4e-9bc9-d1013720f1ae#ref=rss)
+### keinen
+
+* [https://www.spiegel.de/kultur/kino/tom-holland-trinkt-seit-drei-jahren-keinen-alkohol-mehr](https://www.spiegel.de/kultur/kino/tom-holland-trinkt-seit-drei-jahren-keinen-alkohol-mehr-a-5c2b84a1-558f-4e4e-9bc9-d1013720f1ae#ref=rss)
+### alkohol
+
+* [https://www.spiegel.de/kultur/kino/tom-holland-trinkt-seit-drei-jahren-keinen-alkohol-mehr](https://www.spiegel.de/kultur/kino/tom-holland-trinkt-seit-drei-jahren-keinen-alkohol-mehr-a-5c2b84a1-558f-4e4e-9bc9-d1013720f1ae#ref=rss)
+### bremerhaven
+
+* [https://www.spiegel.de/panorama/bremerhaven-mann-stuerzt-beim-pokemon-go-spielen-ins-wasser](https://www.spiegel.de/panorama/bremerhaven-mann-stuerzt-beim-pokemon-go-spielen-ins-wasser-a-2ac55cc3-188e-4c46-affb-79fa82fca447#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/bremerhaven-mann-stuerzt-beim-pokemon-go-spielen-ins-wasser](https://www.spiegel.de/panorama/bremerhaven-mann-stuerzt-beim-pokemon-go-spielen-ins-wasser-a-2ac55cc3-188e-4c46-affb-79fa82fca447#ref=rss)
+* [https://www.spiegel.de/auto/arizona-selbstfahrendes-waymo-auto-dreht-mehrere-runden-vor-flughafen-und-laesst-fahrgast-nicht-aussteigen](https://www.spiegel.de/auto/arizona-selbstfahrendes-waymo-auto-dreht-mehrere-runden-vor-flughafen-und-laesst-fahrgast-nicht-aussteigen-a-c7a53480-be78-4fcb-b56f-2630f8586ed1#ref=rss)
+### pokémon
+
+* [https://www.spiegel.de/panorama/bremerhaven-mann-stuerzt-beim-pokemon-go-spielen-ins-wasser](https://www.spiegel.de/panorama/bremerhaven-mann-stuerzt-beim-pokemon-go-spielen-ins-wasser-a-2ac55cc3-188e-4c46-affb-79fa82fca447#ref=rss)
+### hamburg
+
+* [https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-in-hamburg-neuer-aerger-droht-um-wahlliste](https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-in-hamburg-neuer-aerger-droht-um-wahlliste-a-3041816e-82dc-4761-b8de-6baa79db9e58#ref=rss)
+### neuer
+
+* [https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-in-hamburg-neuer-aerger-droht-um-wahlliste](https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-in-hamburg-neuer-aerger-droht-um-wahlliste-a-3041816e-82dc-4761-b8de-6baa79db9e58#ref=rss)
+* [https://www.spiegel.de/auto/schlichtungsstelle-reise-verkehr-neuer-rekord-bei-beschwerden-ueber-airlines-und-bahn](https://www.spiegel.de/auto/schlichtungsstelle-reise-verkehr-neuer-rekord-bei-beschwerden-ueber-airlines-und-bahn-a-6f2c1c40-be02-4c00-a810-215b8fd484eb#ref=rss)
+### treiben
+
+* [https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-in-hamburg-neuer-aerger-droht-um-wahlliste](https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-in-hamburg-neuer-aerger-droht-um-wahlliste-a-3041816e-82dc-4761-b8de-6baa79db9e58#ref=rss)
+* [https://www.spiegel.de/wissenschaft/kinderkrankheiten-wann-duerfen-erkaeltete-kinder-wieder-zum-sport](https://www.spiegel.de/wissenschaft/kinderkrankheiten-wann-duerfen-erkaeltete-kinder-wieder-zum-sport-a-65eff151-6367-4016-9eee-7758d2d2d75e#ref=rss)
+### eher
+
+* [https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-in-hamburg-neuer-aerger-droht-um-wahlliste](https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-in-hamburg-neuer-aerger-droht-um-wahlliste-a-3041816e-82dc-4761-b8de-6baa79db9e58#ref=rss)
+* [https://www.spiegel.de/auto/wales-auf-der-strasse-der-hoelle-soll-ab-sommer-der-verkehr-rollen](https://www.spiegel.de/auto/wales-auf-der-strasse-der-hoelle-soll-ab-sommer-der-verkehr-rollen-a-3ab5d8b2-0640-4cad-ae02-35c5d473f0e1#ref=rss)
+### wahlkampf
+
+* [https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-in-hamburg-neuer-aerger-droht-um-wahlliste](https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-in-hamburg-neuer-aerger-droht-um-wahlliste-a-3041816e-82dc-4761-b8de-6baa79db9e58#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/csu-markus-soeder-will-migrationsthemen-im-wahlkampf-mit-harter-hand-durchdruecken](https://www.spiegel.de/politik/deutschland/csu-markus-soeder-will-migrationsthemen-im-wahlkampf-mit-harter-hand-durchdruecken-a-a29f0e1f-e31f-44f3-b264-f6bd9fc5737c#ref=rss)
+### arizona
+
+* [https://www.spiegel.de/auto/arizona-selbstfahrendes-waymo-auto-dreht-mehrere-runden-vor-flughafen-und-laesst-fahrgast-nicht-aussteigen](https://www.spiegel.de/auto/arizona-selbstfahrendes-waymo-auto-dreht-mehrere-runden-vor-flughafen-und-laesst-fahrgast-nicht-aussteigen-a-c7a53480-be78-4fcb-b56f-2630f8586ed1#ref=rss)
+### mehrere
+
+* [https://www.spiegel.de/auto/arizona-selbstfahrendes-waymo-auto-dreht-mehrere-runden-vor-flughafen-und-laesst-fahrgast-nicht-aussteigen](https://www.spiegel.de/auto/arizona-selbstfahrendes-waymo-auto-dreht-mehrere-runden-vor-flughafen-und-laesst-fahrgast-nicht-aussteigen-a-c7a53480-be78-4fcb-b56f-2630f8586ed1#ref=rss)
+* [https://www.spiegel.de/ausland/justin-trudeau-kanadas-premierminister-kuendigt-ruecktritt-an](https://www.spiegel.de/ausland/justin-trudeau-kanadas-premierminister-kuendigt-ruecktritt-an-a-19de67dd-555b-402b-95ca-616d95eb0eb9#ref=rss)
+### kinder
+
+* [https://www.spiegel.de/wissenschaft/kinderkrankheiten-wann-duerfen-erkaeltete-kinder-wieder-zum-sport](https://www.spiegel.de/wissenschaft/kinderkrankheiten-wann-duerfen-erkaeltete-kinder-wieder-zum-sport-a-65eff151-6367-4016-9eee-7758d2d2d75e#ref=rss)
+### sport
+
+* [https://www.spiegel.de/wissenschaft/kinderkrankheiten-wann-duerfen-erkaeltete-kinder-wieder-zum-sport](https://www.spiegel.de/wissenschaft/kinderkrankheiten-wann-duerfen-erkaeltete-kinder-wieder-zum-sport-a-65eff151-6367-4016-9eee-7758d2d2d75e#ref=rss)
+### keir
+
+* [https://www.spiegel.de/ausland/keir-starmer-britischer-premier-mahnt-nach-musk-attacke-zu-anstand](https://www.spiegel.de/ausland/keir-starmer-britischer-premier-mahnt-nach-musk-attacke-zu-anstand-a-64cfef9c-e767-4e24-aa7c-9a7e57402d4f#ref=rss)
+### starmer
+
+* [https://www.spiegel.de/ausland/keir-starmer-britischer-premier-mahnt-nach-musk-attacke-zu-anstand](https://www.spiegel.de/ausland/keir-starmer-britischer-premier-mahnt-nach-musk-attacke-zu-anstand-a-64cfef9c-e767-4e24-aa7c-9a7e57402d4f#ref=rss)
+### alijew
+
+* [https://www.spiegel.de/ausland/aserbaidschan-flugzeugabsturz-ilham-alijew-macht-russland-fuer-tote-verantwortlich](https://www.spiegel.de/ausland/aserbaidschan-flugzeugabsturz-ilham-alijew-macht-russland-fuer-tote-verantwortlich-a-5f27fcbb-88f9-4452-a00b-d51cd3f52eb0#ref=rss)
+### macht
+
+* [https://www.spiegel.de/ausland/aserbaidschan-flugzeugabsturz-ilham-alijew-macht-russland-fuer-tote-verantwortlich](https://www.spiegel.de/ausland/aserbaidschan-flugzeugabsturz-ilham-alijew-macht-russland-fuer-tote-verantwortlich-a-5f27fcbb-88f9-4452-a00b-d51cd3f52eb0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/csu-markus-soeder-will-migrationsthemen-im-wahlkampf-mit-harter-hand-durchdruecken](https://www.spiegel.de/politik/deutschland/csu-markus-soeder-will-migrationsthemen-im-wahlkampf-mit-harter-hand-durchdruecken-a-a29f0e1f-e31f-44f3-b264-f6bd9fc5737c#ref=rss)
+### schuld
+
+* [https://www.spiegel.de/ausland/aserbaidschan-flugzeugabsturz-ilham-alijew-macht-russland-fuer-tote-verantwortlich](https://www.spiegel.de/ausland/aserbaidschan-flugzeugabsturz-ilham-alijew-macht-russland-fuer-tote-verantwortlich-a-5f27fcbb-88f9-4452-a00b-d51cd3f52eb0#ref=rss)
+* [https://www.spiegel.de/auto/tesla-besitzer-in-schweden-stehen-in-langen-schlangen-vor-ladestationen](https://www.spiegel.de/auto/tesla-besitzer-in-schweden-stehen-in-langen-schlangen-vor-ladestationen-a-b05bab05-07e4-4fb1-8cb1-5836cf3d0f16#ref=rss)
+### justin
+
+* [https://www.spiegel.de/ausland/justin-trudeau-kanadas-premierminister-kuendigt-ruecktritt-an](https://www.spiegel.de/ausland/justin-trudeau-kanadas-premierminister-kuendigt-ruecktritt-an-a-19de67dd-555b-402b-95ca-616d95eb0eb9#ref=rss)
+### trudeau
+
+* [https://www.spiegel.de/ausland/justin-trudeau-kanadas-premierminister-kuendigt-ruecktritt-an](https://www.spiegel.de/ausland/justin-trudeau-kanadas-premierminister-kuendigt-ruecktritt-an-a-19de67dd-555b-402b-95ca-616d95eb0eb9#ref=rss)
+### kanadas
+
+* [https://www.spiegel.de/ausland/justin-trudeau-kanadas-premierminister-kuendigt-ruecktritt-an](https://www.spiegel.de/ausland/justin-trudeau-kanadas-premierminister-kuendigt-ruecktritt-an-a-19de67dd-555b-402b-95ca-616d95eb0eb9#ref=rss)
+### lohn
+
+* [https://www.spiegel.de/karriere/krankschreibung-allianz-chef-oliver-baete-will-lohn-fuer-ersten-krankheitstag-abschaffen](https://www.spiegel.de/karriere/krankschreibung-allianz-chef-oliver-baete-will-lohn-fuer-ersten-krankheitstag-abschaffen-a-0a4fd53c-045e-4dc6-83f2-fd5731d6fa73#ref=rss)
+### gewerkschaften
+
+* [https://www.spiegel.de/karriere/krankschreibung-allianz-chef-oliver-baete-will-lohn-fuer-ersten-krankheitstag-abschaffen](https://www.spiegel.de/karriere/krankschreibung-allianz-chef-oliver-baete-will-lohn-fuer-ersten-krankheitstag-abschaffen-a-0a4fd53c-045e-4dc6-83f2-fd5731d6fa73#ref=rss)
+* [https://www.spiegel.de/auto/tesla-besitzer-in-schweden-stehen-in-langen-schlangen-vor-ladestationen](https://www.spiegel.de/auto/tesla-besitzer-in-schweden-stehen-in-langen-schlangen-vor-ladestationen-a-b05bab05-07e4-4fb1-8cb1-5836cf3d0f16#ref=rss)
+### novak
+
+* [https://www.spiegel.de/sport/tennis/australian-open-novak-djokovic-spricht-ueber-sein-einreise-trauma](https://www.spiegel.de/sport/tennis/australian-open-novak-djokovic-spricht-ueber-sein-einreise-trauma-a-09bee76b-8c35-4bf5-9f3f-e30c640a1e06#ref=rss)
+### djokovic
+
+* [https://www.spiegel.de/sport/tennis/australian-open-novak-djokovic-spricht-ueber-sein-einreise-trauma](https://www.spiegel.de/sport/tennis/australian-open-novak-djokovic-spricht-ueber-sein-einreise-trauma-a-09bee76b-8c35-4bf5-9f3f-e30c640a1e06#ref=rss)
+### schweden
+
+* [https://www.spiegel.de/auto/tesla-besitzer-in-schweden-stehen-in-langen-schlangen-vor-ladestationen](https://www.spiegel.de/auto/tesla-besitzer-in-schweden-stehen-in-langen-schlangen-vor-ladestationen-a-b05bab05-07e4-4fb1-8cb1-5836cf3d0f16#ref=rss)
+### lange
+
+* [https://www.spiegel.de/auto/tesla-besitzer-in-schweden-stehen-in-langen-schlangen-vor-ladestationen](https://www.spiegel.de/auto/tesla-besitzer-in-schweden-stehen-in-langen-schlangen-vor-ladestationen-a-b05bab05-07e4-4fb1-8cb1-5836cf3d0f16#ref=rss)
+* [https://www.spiegel.de/auto/wales-auf-der-strasse-der-hoelle-soll-ab-sommer-der-verkehr-rollen](https://www.spiegel.de/auto/wales-auf-der-strasse-der-hoelle-soll-ab-sommer-der-verkehr-rollen-a-3ab5d8b2-0640-4cad-ae02-35c5d473f0e1#ref=rss)
+### schlichtungsstelle
+
+* [https://www.spiegel.de/auto/schlichtungsstelle-reise-verkehr-neuer-rekord-bei-beschwerden-ueber-airlines-und-bahn](https://www.spiegel.de/auto/schlichtungsstelle-reise-verkehr-neuer-rekord-bei-beschwerden-ueber-airlines-und-bahn-a-6f2c1c40-be02-4c00-a810-215b8fd484eb#ref=rss)
+### reise
+
+* [https://www.spiegel.de/auto/schlichtungsstelle-reise-verkehr-neuer-rekord-bei-beschwerden-ueber-airlines-und-bahn](https://www.spiegel.de/auto/schlichtungsstelle-reise-verkehr-neuer-rekord-bei-beschwerden-ueber-airlines-und-bahn-a-6f2c1c40-be02-4c00-a810-215b8fd484eb#ref=rss)
+### rekord
+
+* [https://www.spiegel.de/auto/schlichtungsstelle-reise-verkehr-neuer-rekord-bei-beschwerden-ueber-airlines-und-bahn](https://www.spiegel.de/auto/schlichtungsstelle-reise-verkehr-neuer-rekord-bei-beschwerden-ueber-airlines-und-bahn-a-6f2c1c40-be02-4c00-a810-215b8fd484eb#ref=rss)
+### beschwerden
+
+* [https://www.spiegel.de/auto/schlichtungsstelle-reise-verkehr-neuer-rekord-bei-beschwerden-ueber-airlines-und-bahn](https://www.spiegel.de/auto/schlichtungsstelle-reise-verkehr-neuer-rekord-bei-beschwerden-ueber-airlines-und-bahn-a-6f2c1c40-be02-4c00-a810-215b8fd484eb#ref=rss)
+### 2024
+
+* [https://www.spiegel.de/auto/schlichtungsstelle-reise-verkehr-neuer-rekord-bei-beschwerden-ueber-airlines-und-bahn](https://www.spiegel.de/auto/schlichtungsstelle-reise-verkehr-neuer-rekord-bei-beschwerden-ueber-airlines-und-bahn-a-6f2c1c40-be02-4c00-a810-215b8fd484eb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/inflation-in-deutschland-preise-stiegen-2024-um-2-2-prozent](https://www.spiegel.de/wirtschaft/inflation-in-deutschland-preise-stiegen-2024-um-2-2-prozent-a-ea74b1b1-e31d-4921-809d-96ea4fd10634#ref=rss)
+### rechtsextremismus
+
+* [https://www.spiegel.de/panorama/justiz/rechtsextremismus-cdu-abgeordneter-wanderwitz-sieht-afd-als-grund-fuer-anstieg-rechtsextremer-straftaten](https://www.spiegel.de/panorama/justiz/rechtsextremismus-cdu-abgeordneter-wanderwitz-sieht-afd-als-grund-fuer-anstieg-rechtsextremer-straftaten-a-573a3e92-dfed-4c8d-8219-bd9b87fe389c#ref=rss)
+### wanderwitz
+
+* [https://www.spiegel.de/panorama/justiz/rechtsextremismus-cdu-abgeordneter-wanderwitz-sieht-afd-als-grund-fuer-anstieg-rechtsextremer-straftaten](https://www.spiegel.de/panorama/justiz/rechtsextremismus-cdu-abgeordneter-wanderwitz-sieht-afd-als-grund-fuer-anstieg-rechtsextremer-straftaten-a-573a3e92-dfed-4c8d-8219-bd9b87fe389c#ref=rss)
+### afd
+
+* [https://www.spiegel.de/panorama/justiz/rechtsextremismus-cdu-abgeordneter-wanderwitz-sieht-afd-als-grund-fuer-anstieg-rechtsextremer-straftaten](https://www.spiegel.de/panorama/justiz/rechtsextremismus-cdu-abgeordneter-wanderwitz-sieht-afd-als-grund-fuer-anstieg-rechtsextremer-straftaten-a-573a3e92-dfed-4c8d-8219-bd9b87fe389c#ref=rss)
+### straftaten
+
+* [https://www.spiegel.de/panorama/justiz/rechtsextremismus-cdu-abgeordneter-wanderwitz-sieht-afd-als-grund-fuer-anstieg-rechtsextremer-straftaten](https://www.spiegel.de/panorama/justiz/rechtsextremismus-cdu-abgeordneter-wanderwitz-sieht-afd-als-grund-fuer-anstieg-rechtsextremer-straftaten-a-573a3e92-dfed-4c8d-8219-bd9b87fe389c#ref=rss)
+### vergangenen
+
+* [https://www.spiegel.de/panorama/justiz/rechtsextremismus-cdu-abgeordneter-wanderwitz-sieht-afd-als-grund-fuer-anstieg-rechtsextremer-straftaten](https://www.spiegel.de/panorama/justiz/rechtsextremismus-cdu-abgeordneter-wanderwitz-sieht-afd-als-grund-fuer-anstieg-rechtsextremer-straftaten-a-573a3e92-dfed-4c8d-8219-bd9b87fe389c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/inflation-in-deutschland-preise-stiegen-2024-um-2-2-prozent](https://www.spiegel.de/wirtschaft/inflation-in-deutschland-preise-stiegen-2024-um-2-2-prozent-a-ea74b1b1-e31d-4921-809d-96ea4fd10634#ref=rss)
+### golden
+
+* [https://www.spiegel.de/kultur/kino/golden-globes-emilia-perez-und-the-brutalist-triumphieren-bei-den-wichtigsten-kino-preisen](https://www.spiegel.de/kultur/kino/golden-globes-emilia-perez-und-the-brutalist-triumphieren-bei-den-wichtigsten-kino-preisen-a-437a8acd-d93c-4a82-99a2-83cca250c8e6#ref=rss)
+### globes
+
+* [https://www.spiegel.de/kultur/kino/golden-globes-emilia-perez-und-the-brutalist-triumphieren-bei-den-wichtigsten-kino-preisen](https://www.spiegel.de/kultur/kino/golden-globes-emilia-perez-und-the-brutalist-triumphieren-bei-den-wichtigsten-kino-preisen-a-437a8acd-d93c-4a82-99a2-83cca250c8e6#ref=rss)
+### emilia
+
+* [https://www.spiegel.de/kultur/kino/golden-globes-emilia-perez-und-the-brutalist-triumphieren-bei-den-wichtigsten-kino-preisen](https://www.spiegel.de/kultur/kino/golden-globes-emilia-perez-und-the-brutalist-triumphieren-bei-den-wichtigsten-kino-preisen-a-437a8acd-d93c-4a82-99a2-83cca250c8e6#ref=rss)
+### pérez
+
+* [https://www.spiegel.de/kultur/kino/golden-globes-emilia-perez-und-the-brutalist-triumphieren-bei-den-wichtigsten-kino-preisen](https://www.spiegel.de/kultur/kino/golden-globes-emilia-perez-und-the-brutalist-triumphieren-bei-den-wichtigsten-kino-preisen-a-437a8acd-d93c-4a82-99a2-83cca250c8e6#ref=rss)
+### the
+
+* [https://www.spiegel.de/kultur/kino/golden-globes-emilia-perez-und-the-brutalist-triumphieren-bei-den-wichtigsten-kino-preisen](https://www.spiegel.de/kultur/kino/golden-globes-emilia-perez-und-the-brutalist-triumphieren-bei-den-wichtigsten-kino-preisen-a-437a8acd-d93c-4a82-99a2-83cca250c8e6#ref=rss)
+### brutalist
+
+* [https://www.spiegel.de/kultur/kino/golden-globes-emilia-perez-und-the-brutalist-triumphieren-bei-den-wichtigsten-kino-preisen](https://www.spiegel.de/kultur/kino/golden-globes-emilia-perez-und-the-brutalist-triumphieren-bei-den-wichtigsten-kino-preisen-a-437a8acd-d93c-4a82-99a2-83cca250c8e6#ref=rss)
+### dacia
+
+* [https://www.spiegel.de/auto/dacia-spring-im-test-hat-das-billigste-elektroauto-das-zeug-zum-bestseller](https://www.spiegel.de/auto/dacia-spring-im-test-hat-das-billigste-elektroauto-das-zeug-zum-bestseller-a-1895d09c-526c-4ae8-aa02-ea04934ccd7b#ref=rss)
+### spring
+
+* [https://www.spiegel.de/auto/dacia-spring-im-test-hat-das-billigste-elektroauto-das-zeug-zum-bestseller](https://www.spiegel.de/auto/dacia-spring-im-test-hat-das-billigste-elektroauto-das-zeug-zum-bestseller-a-1895d09c-526c-4ae8-aa02-ea04934ccd7b#ref=rss)
+### billigste
+
+* [https://www.spiegel.de/auto/dacia-spring-im-test-hat-das-billigste-elektroauto-das-zeug-zum-bestseller](https://www.spiegel.de/auto/dacia-spring-im-test-hat-das-billigste-elektroauto-das-zeug-zum-bestseller-a-1895d09c-526c-4ae8-aa02-ea04934ccd7b#ref=rss)
+### elektroauto
+
+* [https://www.spiegel.de/auto/dacia-spring-im-test-hat-das-billigste-elektroauto-das-zeug-zum-bestseller](https://www.spiegel.de/auto/dacia-spring-im-test-hat-das-billigste-elektroauto-das-zeug-zum-bestseller-a-1895d09c-526c-4ae8-aa02-ea04934ccd7b#ref=rss)
+### bestseller
+
+* [https://www.spiegel.de/auto/dacia-spring-im-test-hat-das-billigste-elektroauto-das-zeug-zum-bestseller](https://www.spiegel.de/auto/dacia-spring-im-test-hat-das-billigste-elektroauto-das-zeug-zum-bestseller-a-1895d09c-526c-4ae8-aa02-ea04934ccd7b#ref=rss)
+### kyjiw
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-wirft-kyjiw-beschuss-von-atomkraftwerk-saporischschja-vor](https://www.spiegel.de/ausland/ukraine-krieg-russland-wirft-kyjiw-beschuss-von-atomkraftwerk-saporischschja-vor-a-42384542-d254-4819-9fd7-2560d384c318#ref=rss)
+### saporischschja
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-wirft-kyjiw-beschuss-von-atomkraftwerk-saporischschja-vor](https://www.spiegel.de/ausland/ukraine-krieg-russland-wirft-kyjiw-beschuss-von-atomkraftwerk-saporischschja-vor-a-42384542-d254-4819-9fd7-2560d384c318#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-wirft-kyjiw-beschuss-von-atomkraftwerk-saporischschja-vor](https://www.spiegel.de/ausland/ukraine-krieg-russland-wirft-kyjiw-beschuss-von-atomkraftwerk-saporischschja-vor-a-42384542-d254-4819-9fd7-2560d384c318#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-sieht-donald-trump-in-der-lage-putin-zu-stoppen-was-sagen-die-soldaten](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-sieht-donald-trump-in-der-lage-putin-zu-stoppen-was-sagen-die-soldaten-a-43f056f4-c762-45c3-a9d7-22ea6fdb9b85#ref=rss)
+### behauptet
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-wirft-kyjiw-beschuss-von-atomkraftwerk-saporischschja-vor](https://www.spiegel.de/ausland/ukraine-krieg-russland-wirft-kyjiw-beschuss-von-atomkraftwerk-saporischschja-vor-a-42384542-d254-4819-9fd7-2560d384c318#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-sieht-donald-trump-in-der-lage-putin-zu-stoppen-was-sagen-die-soldaten](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-sieht-donald-trump-in-der-lage-putin-zu-stoppen-was-sagen-die-soldaten-a-43f056f4-c762-45c3-a9d7-22ea6fdb9b85#ref=rss)
+### magdeburg
+
+* [https://www.spiegel.de/panorama/justiz/magdeburg-taleb-al-abdulmohsen-in-die-jva-dresden-verlegt](https://www.spiegel.de/panorama/justiz/magdeburg-taleb-al-abdulmohsen-in-die-jva-dresden-verlegt-a-2c669ddc-434f-433a-ad20-e65846b28901#ref=rss)
+### verlegt
+
+* [https://www.spiegel.de/panorama/justiz/magdeburg-taleb-al-abdulmohsen-in-die-jva-dresden-verlegt](https://www.spiegel.de/panorama/justiz/magdeburg-taleb-al-abdulmohsen-in-die-jva-dresden-verlegt-a-2c669ddc-434f-433a-ad20-e65846b28901#ref=rss)
+### markus
+
+* [https://www.spiegel.de/politik/deutschland/csu-markus-soeder-will-migrationsthemen-im-wahlkampf-mit-harter-hand-durchdruecken](https://www.spiegel.de/politik/deutschland/csu-markus-soeder-will-migrationsthemen-im-wahlkampf-mit-harter-hand-durchdruecken-a-a29f0e1f-e31f-44f3-b264-f6bd9fc5737c#ref=rss)
+### söder
+
+* [https://www.spiegel.de/politik/deutschland/csu-markus-soeder-will-migrationsthemen-im-wahlkampf-mit-harter-hand-durchdruecken](https://www.spiegel.de/politik/deutschland/csu-markus-soeder-will-migrationsthemen-im-wahlkampf-mit-harter-hand-durchdruecken-a-a29f0e1f-e31f-44f3-b264-f6bd9fc5737c#ref=rss)
+### christian
+
+* [https://www.spiegel.de/politik/deutschland/fdp-dreikoenigstreffen-christian-lindner-sagt-elon-musk-wolle-deutschland-schwaechen](https://www.spiegel.de/politik/deutschland/fdp-dreikoenigstreffen-christian-lindner-sagt-elon-musk-wolle-deutschland-schwaechen-a-869ef176-648f-44cc-99c7-99b4edfd4c9c#ref=rss)
+### lindner
+
+* [https://www.spiegel.de/politik/deutschland/fdp-dreikoenigstreffen-christian-lindner-sagt-elon-musk-wolle-deutschland-schwaechen](https://www.spiegel.de/politik/deutschland/fdp-dreikoenigstreffen-christian-lindner-sagt-elon-musk-wolle-deutschland-schwaechen-a-869ef176-648f-44cc-99c7-99b4edfd4c9c#ref=rss)
+### werder
+
+* [https://www.spiegel.de/sport/fussball/fussball-transfers-werder-bremen-holt-manchester-citys-issa-kabore](https://www.spiegel.de/sport/fussball/fussball-transfers-werder-bremen-holt-manchester-citys-issa-kabore-a-ccf5a5b6-4c49-43fb-aea4-593f38953eba#ref=rss)
+### bremen
+
+* [https://www.spiegel.de/sport/fussball/fussball-transfers-werder-bremen-holt-manchester-citys-issa-kabore](https://www.spiegel.de/sport/fussball/fussball-transfers-werder-bremen-holt-manchester-citys-issa-kabore-a-ccf5a5b6-4c49-43fb-aea4-593f38953eba#ref=rss)
+### preise
+
+* [https://www.spiegel.de/wirtschaft/inflation-in-deutschland-preise-stiegen-2024-um-2-2-prozent](https://www.spiegel.de/wirtschaft/inflation-in-deutschland-preise-stiegen-2024-um-2-2-prozent-a-ea74b1b1-e31d-4921-809d-96ea4fd10634#ref=rss)
+### 22
+
+* [https://www.spiegel.de/wirtschaft/inflation-in-deutschland-preise-stiegen-2024-um-2-2-prozent](https://www.spiegel.de/wirtschaft/inflation-in-deutschland-preise-stiegen-2024-um-2-2-prozent-a-ea74b1b1-e31d-4921-809d-96ea4fd10634#ref=rss)
+### selenskyj
+
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-sieht-donald-trump-in-der-lage-putin-zu-stoppen-was-sagen-die-soldaten](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-sieht-donald-trump-in-der-lage-putin-zu-stoppen-was-sagen-die-soldaten-a-43f056f4-c762-45c3-a9d7-22ea6fdb9b85#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-sieht-donald-trump-in-der-lage-putin-zu-stoppen-was-sagen-die-soldaten](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-sieht-donald-trump-in-der-lage-putin-zu-stoppen-was-sagen-die-soldaten-a-43f056f4-c762-45c3-a9d7-22ea6fdb9b85#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-sieht-donald-trump-in-der-lage-putin-zu-stoppen-was-sagen-die-soldaten](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-sieht-donald-trump-in-der-lage-putin-zu-stoppen-was-sagen-die-soldaten-a-43f056f4-c762-45c3-a9d7-22ea6fdb9b85#ref=rss)
+### putin
+
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-sieht-donald-trump-in-der-lage-putin-zu-stoppen-was-sagen-die-soldaten](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-sieht-donald-trump-in-der-lage-putin-zu-stoppen-was-sagen-die-soldaten-a-43f056f4-c762-45c3-a9d7-22ea6fdb9b85#ref=rss)
+### stoppen
+
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-sieht-donald-trump-in-der-lage-putin-zu-stoppen-was-sagen-die-soldaten](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-sieht-donald-trump-in-der-lage-putin-zu-stoppen-was-sagen-die-soldaten-a-43f056f4-c762-45c3-a9d7-22ea6fdb9b85#ref=rss)
+### sagen
+
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-sieht-donald-trump-in-der-lage-putin-zu-stoppen-was-sagen-die-soldaten](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-sieht-donald-trump-in-der-lage-putin-zu-stoppen-was-sagen-die-soldaten-a-43f056f4-c762-45c3-a9d7-22ea6fdb9b85#ref=rss)
+### soldaten
+
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-sieht-donald-trump-in-der-lage-putin-zu-stoppen-was-sagen-die-soldaten](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-sieht-donald-trump-in-der-lage-putin-zu-stoppen-was-sagen-die-soldaten-a-43f056f4-c762-45c3-a9d7-22ea6fdb9b85#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/panorama/silvester-in-berlin-gesundheitsbehoerde-meldet-363-verletzte-durch-feuerwerk](https://www.spiegel.de/panorama/silvester-in-berlin-gesundheitsbehoerde-meldet-363-verletzte-durch-feuerwerk-a-09ae438c-b030-42bf-b421-c9eef448dcf5#ref=rss)
+### petitionen
+
+* [https://www.spiegel.de/panorama/silvester-in-berlin-gesundheitsbehoerde-meldet-363-verletzte-durch-feuerwerk](https://www.spiegel.de/panorama/silvester-in-berlin-gesundheitsbehoerde-meldet-363-verletzte-durch-feuerwerk-a-09ae438c-b030-42bf-b421-c9eef448dcf5#ref=rss)
+### böllerverbot
+
+* [https://www.spiegel.de/panorama/silvester-in-berlin-gesundheitsbehoerde-meldet-363-verletzte-durch-feuerwerk](https://www.spiegel.de/panorama/silvester-in-berlin-gesundheitsbehoerde-meldet-363-verletzte-durch-feuerwerk-a-09ae438c-b030-42bf-b421-c9eef448dcf5#ref=rss)
 
