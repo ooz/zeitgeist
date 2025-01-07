@@ -4,352 +4,420 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### zurück
+### kickl
 
-* [https://www.spiegel.de/kultur/thilo-mischke-interview-zu-ttt-moderation-herr-mischke-haette-sich-aeussern-sollen](https://www.spiegel.de/kultur/thilo-mischke-interview-zu-ttt-moderation-herr-mischke-haette-sich-aeussern-sollen-a-b395f0c3-77b5-423a-aead-2ea1a1f30b2a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/dry-january-und-veganuary-absatz-von-alkohol-und-fleisch-geht-zu-jahresbeginn-zurueck](https://www.spiegel.de/wirtschaft/service/dry-january-und-veganuary-absatz-von-alkohol-und-fleisch-geht-zu-jahresbeginn-zurueck-a-1bb9b922-d114-4b80-98ad-40a492f87fd6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gruene-direktkandidatur-sergey-lagodinsky-zieht-bewerbung-gegen-stefan-gelbhaar-zurueck](https://www.spiegel.de/politik/deutschland/gruene-direktkandidatur-sergey-lagodinsky-zieht-bewerbung-gegen-stefan-gelbhaar-zurueck-a-80bd87b4-4634-4c29-9f52-7d6ea7d8aba2#ref=rss)
-### deutlich
-
-* [https://www.spiegel.de/wirtschaft/service/dry-january-und-veganuary-absatz-von-alkohol-und-fleisch-geht-zu-jahresbeginn-zurueck](https://www.spiegel.de/wirtschaft/service/dry-january-und-veganuary-absatz-von-alkohol-und-fleisch-geht-zu-jahresbeginn-zurueck-a-1bb9b922-d114-4b80-98ad-40a492f87fd6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundesregierung-vermeldet-deutlichen-anstieg-bei-abschiebungen](https://www.spiegel.de/politik/deutschland/bundesregierung-vermeldet-deutlichen-anstieg-bei-abschiebungen-a-1847f459-47fc-4fa1-9339-bd6964bb6f80#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/robert-habeck-olaf-scholz-kritisiert-idee-vom-hoeheren-wehretat-als-unausgegoren](https://www.spiegel.de/politik/deutschland/robert-habeck-olaf-scholz-kritisiert-idee-vom-hoeheren-wehretat-als-unausgegoren-a-856086d9-1486-4b4b-b9d3-c54a7fa14574#ref=rss)
-### habeck
-
-* [https://www.spiegel.de/politik/deutschland/robert-habeck-polizei-stoppt-werbeprojektion-auf-siegestor-in-muenchen](https://www.spiegel.de/politik/deutschland/robert-habeck-polizei-stoppt-werbeprojektion-auf-siegestor-in-muenchen-a-e62c2bb9-1565-4812-bf1a-d024be68b83e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/robert-habeck-olaf-scholz-kritisiert-idee-vom-hoeheren-wehretat-als-unausgegoren](https://www.spiegel.de/politik/deutschland/robert-habeck-olaf-scholz-kritisiert-idee-vom-hoeheren-wehretat-als-unausgegoren-a-856086d9-1486-4b4b-b9d3-c54a7fa14574#ref=rss)
-### steel
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/nippon-steel-will-uebernahme-von-us-steel-vor-gericht-durchsetzen](https://www.spiegel.de/wirtschaft/unternehmen/nippon-steel-will-uebernahme-von-us-steel-vor-gericht-durchsetzen-a-ddd69bf2-1349-4d04-b8f7-7918510505ef#ref=rss)
-### geld
-
-* [https://www.spiegel.de/politik/deutschland/robert-habeck-olaf-scholz-kritisiert-idee-vom-hoeheren-wehretat-als-unausgegoren](https://www.spiegel.de/politik/deutschland/robert-habeck-olaf-scholz-kritisiert-idee-vom-hoeheren-wehretat-als-unausgegoren-a-856086d9-1486-4b4b-b9d3-c54a7fa14574#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/geld-in-der-partnerschaft-getrennte-konten-fuer-claudia-und-andreas-kommt-das-nicht-infrage](https://www.spiegel.de/wirtschaft/service/geld-in-der-partnerschaft-getrennte-konten-fuer-claudia-und-andreas-kommt-das-nicht-infrage-a-aa9dc3e2-bfd7-434e-b4cb-38f52185993d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/geld-drei-hauptkonten-und-300-euro-taschengeld-fuer-jeden-so-regeln-anna-und-tom-ihre-finanzen](https://www.spiegel.de/wirtschaft/service/geld-drei-hauptkonten-und-300-euro-taschengeld-fuer-jeden-so-regeln-anna-und-tom-ihre-finanzen-a-bcf716dd-3e3d-40f5-a439-a77a05b7b041#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/geld-in-der-partnerschaft-so-teilen-sie-finanzen-in-der-beziehung-gerecht-auf](https://www.spiegel.de/wirtschaft/service/geld-in-der-partnerschaft-so-teilen-sie-finanzen-in-der-beziehung-gerecht-auf-a-5841e0c4-a5b8-4e70-ab99-e48f4bb77b72#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wirtschaft/deutschland-ein-drittel-der-kommunen-beginnt-mit-waermeplanung-fuer-klimaneutralitaet-bis-2045](https://www.spiegel.de/wirtschaft/deutschland-ein-drittel-der-kommunen-beginnt-mit-waermeplanung-fuer-klimaneutralitaet-bis-2045-a-1ee43b9a-e6ce-428b-9bf9-0dd0f5d2356a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/pendler-stehen-im-schnitt-43-stunden-im-stau](https://www.spiegel.de/wirtschaft/service/pendler-stehen-im-schnitt-43-stunden-im-stau-a-8b650201-6fe0-40c9-9e50-655309f59c65#ref=rss)
-### mischke
-
-* [https://www.spiegel.de/kultur/thilo-mischke-interview-zu-ttt-moderation-herr-mischke-haette-sich-aeussern-sollen](https://www.spiegel.de/kultur/thilo-mischke-interview-zu-ttt-moderation-herr-mischke-haette-sich-aeussern-sollen-a-b395f0c3-77b5-423a-aead-2ea1a1f30b2a#ref=rss)
-### usa
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/tencent-und-catl-usa-stufen-chinesische-konzerne-als-militaerunternehmen-ein](https://www.spiegel.de/wirtschaft/unternehmen/tencent-und-catl-usa-stufen-chinesische-konzerne-als-militaerunternehmen-ein-a-2f8978f8-732b-4fe3-a3ef-fa3e3ed9fca6#ref=rss)
-* [https://www.spiegel.de/ausland/indonesien-wird-vollmitglied-der-brics-gruppe](https://www.spiegel.de/ausland/indonesien-wird-vollmitglied-der-brics-gruppe-a-2ae81cd5-15ca-4768-8bde-0d1c251dfe34#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-bringt-nach-justin-trudeaus-rueckzug-erneut-fusion-von-usa-und-kanada-ins-spiel](https://www.spiegel.de/ausland/donald-trump-bringt-nach-justin-trudeaus-rueckzug-erneut-fusion-von-usa-und-kanada-ins-spiel-a-10931243-7df0-4385-a67d-e29e3b467903#ref=rss)
-### viele
-
-* [https://www.spiegel.de/wirtschaft/service/dry-january-und-veganuary-absatz-von-alkohol-und-fleisch-geht-zu-jahresbeginn-zurueck](https://www.spiegel.de/wirtschaft/service/dry-january-und-veganuary-absatz-von-alkohol-und-fleisch-geht-zu-jahresbeginn-zurueck-a-1bb9b922-d114-4b80-98ad-40a492f87fd6#ref=rss)
-* [https://www.spiegel.de/psychologie/prokrastination-was-dahinter-steckt-und-welche-strategien-helfen](https://www.spiegel.de/psychologie/prokrastination-was-dahinter-steckt-und-welche-strategien-helfen-a-db7e1ddd-a747-4d69-acce-a85ef005e914#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/pendler-stehen-im-schnitt-43-stunden-im-stau](https://www.spiegel.de/wirtschaft/service/pendler-stehen-im-schnitt-43-stunden-im-stau-a-8b650201-6fe0-40c9-9e50-655309f59c65#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/wirtschaft/service/dry-january-und-veganuary-absatz-von-alkohol-und-fleisch-geht-zu-jahresbeginn-zurueck](https://www.spiegel.de/wirtschaft/service/dry-january-und-veganuary-absatz-von-alkohol-und-fleisch-geht-zu-jahresbeginn-zurueck-a-1bb9b922-d114-4b80-98ad-40a492f87fd6#ref=rss)
-* [https://www.spiegel.de/ausland/venezuela-gibt-festnahme-von-mehr-als-120-auslaendern-wegen-angeblicher-terrorplaene-bekannt](https://www.spiegel.de/ausland/venezuela-gibt-festnahme-von-mehr-als-120-auslaendern-wegen-angeblicher-terrorplaene-bekannt-a-41714392-fac2-4eb7-bf8b-27ba2ef000d8#ref=rss)
-* [https://www.spiegel.de/panorama/deutsche-bahn-bahnverkehr-im-norden-normalisiert-sich-nach-sturm-wieder](https://www.spiegel.de/panorama/deutsche-bahn-bahnverkehr-im-norden-normalisiert-sich-nach-sturm-wieder-a-aaa3ad90-0eb3-4626-9940-dd9e360494da#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/wirtschaft/service/dry-january-und-veganuary-absatz-von-alkohol-und-fleisch-geht-zu-jahresbeginn-zurueck](https://www.spiegel.de/wirtschaft/service/dry-january-und-veganuary-absatz-von-alkohol-und-fleisch-geht-zu-jahresbeginn-zurueck-a-1bb9b922-d114-4b80-98ad-40a492f87fd6#ref=rss)
-* [https://www.spiegel.de/panorama/grossbritannien-29-menschen-seit-drei-tagen-in-pub-eingeschneit](https://www.spiegel.de/panorama/grossbritannien-29-menschen-seit-drei-tagen-in-pub-eingeschneit-a-115333c7-dea4-43fe-a775-178b9feee1f9#ref=rss)
-* [https://www.spiegel.de/panorama/leute/johnny-depp-warnt-fans-vor-internetbetruegern](https://www.spiegel.de/panorama/leute/johnny-depp-warnt-fans-vor-internetbetruegern-a-6031b0ef-3931-48bd-9f1a-d6222b12a6f3#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/wirtschaft/service/dry-january-und-veganuary-absatz-von-alkohol-und-fleisch-geht-zu-jahresbeginn-zurueck](https://www.spiegel.de/wirtschaft/service/dry-january-und-veganuary-absatz-von-alkohol-und-fleisch-geht-zu-jahresbeginn-zurueck-a-1bb9b922-d114-4b80-98ad-40a492f87fd6#ref=rss)
-* [https://www.spiegel.de/panorama/aubrey-plaza-aeussert-sich-erstmals-nach-tod-ihres-ehemannes-jeff-baena](https://www.spiegel.de/panorama/aubrey-plaza-aeussert-sich-erstmals-nach-tod-ihres-ehemannes-jeff-baena-a-ad0f4f73-b68b-48a9-9da2-6bb276fbdd49#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/geld-in-der-partnerschaft-getrennte-konten-fuer-claudia-und-andreas-kommt-das-nicht-infrage](https://www.spiegel.de/wirtschaft/service/geld-in-der-partnerschaft-getrennte-konten-fuer-claudia-und-andreas-kommt-das-nicht-infrage-a-aa9dc3e2-bfd7-434e-b4cb-38f52185993d#ref=rss)
-### kanzler
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-sollte-endlich-zeigen-dass-er-kanzler-kann-kommentar](https://www.spiegel.de/politik/deutschland/friedrich-merz-sollte-endlich-zeigen-dass-er-kanzler-kann-kommentar-a-c236f743-0727-43de-9cad-1101a639356f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundesregierung-vermeldet-deutlichen-anstieg-bei-abschiebungen](https://www.spiegel.de/politik/deutschland/bundesregierung-vermeldet-deutlichen-anstieg-bei-abschiebungen-a-1847f459-47fc-4fa1-9339-bd6964bb6f80#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/robert-habeck-olaf-scholz-kritisiert-idee-vom-hoeheren-wehretat-als-unausgegoren](https://www.spiegel.de/politik/deutschland/robert-habeck-olaf-scholz-kritisiert-idee-vom-hoeheren-wehretat-als-unausgegoren-a-856086d9-1486-4b4b-b9d3-c54a7fa14574#ref=rss)
-### abschiebungen
-
-* [https://www.spiegel.de/politik/deutschland/bundesregierung-vermeldet-deutlichen-anstieg-bei-abschiebungen](https://www.spiegel.de/politik/deutschland/bundesregierung-vermeldet-deutlichen-anstieg-bei-abschiebungen-a-1847f459-47fc-4fa1-9339-bd6964bb6f80#ref=rss)
-### scholz
-
-* [https://www.spiegel.de/politik/deutschland/bundesregierung-vermeldet-deutlichen-anstieg-bei-abschiebungen](https://www.spiegel.de/politik/deutschland/bundesregierung-vermeldet-deutlichen-anstieg-bei-abschiebungen-a-1847f459-47fc-4fa1-9339-bd6964bb6f80#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/robert-habeck-olaf-scholz-kritisiert-idee-vom-hoeheren-wehretat-als-unausgegoren](https://www.spiegel.de/politik/deutschland/robert-habeck-olaf-scholz-kritisiert-idee-vom-hoeheren-wehretat-als-unausgegoren-a-856086d9-1486-4b4b-b9d3-c54a7fa14574#ref=rss)
-### robert
-
-* [https://www.spiegel.de/politik/deutschland/robert-habeck-polizei-stoppt-werbeprojektion-auf-siegestor-in-muenchen](https://www.spiegel.de/politik/deutschland/robert-habeck-polizei-stoppt-werbeprojektion-auf-siegestor-in-muenchen-a-e62c2bb9-1565-4812-bf1a-d024be68b83e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/robert-habeck-olaf-scholz-kritisiert-idee-vom-hoeheren-wehretat-als-unausgegoren](https://www.spiegel.de/politik/deutschland/robert-habeck-olaf-scholz-kritisiert-idee-vom-hoeheren-wehretat-als-unausgegoren-a-856086d9-1486-4b4b-b9d3-c54a7fa14574#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-wie-die-mitte-parteien-die-fpoe-und-herbert-kickl-gross-gemacht-haben](https://www.spiegel.de/ausland/oesterreich-wie-die-mitte-parteien-die-fpoe-und-herbert-kickl-gross-gemacht-haben-a-66006f49-b5d6-439b-b335-6ef5e5fb67ac#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-fpoe-chef-herbert-kickl-verspricht-neue-aera-und-will-mit-oevp-regieren](https://www.spiegel.de/ausland/oesterreich-fpoe-chef-herbert-kickl-verspricht-neue-aera-und-will-mit-oevp-regieren-a-09591dd8-d57f-4c79-ba65-385aa30d364d#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-das-sagt-fpoe-chef-herbert-kickl-zur-regierungskrise-livestream](https://www.spiegel.de/ausland/oesterreich-das-sagt-fpoe-chef-herbert-kickl-zur-regierungskrise-livestream-a-8940c503-5208-4c67-9639-208142700aea#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/ausland/venezuela-gibt-festnahme-von-mehr-als-120-auslaendern-wegen-angeblicher-terrorplaene-bekannt](https://www.spiegel.de/ausland/venezuela-gibt-festnahme-von-mehr-als-120-auslaendern-wegen-angeblicher-terrorplaene-bekannt-a-41714392-fac2-4eb7-bf8b-27ba2ef000d8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/robert-habeck-olaf-scholz-kritisiert-idee-vom-hoeheren-wehretat-als-unausgegoren](https://www.spiegel.de/politik/deutschland/robert-habeck-olaf-scholz-kritisiert-idee-vom-hoeheren-wehretat-als-unausgegoren-a-856086d9-1486-4b4b-b9d3-c54a7fa14574#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/geld-drei-hauptkonten-und-300-euro-taschengeld-fuer-jeden-so-regeln-anna-und-tom-ihre-finanzen](https://www.spiegel.de/wirtschaft/service/geld-drei-hauptkonten-und-300-euro-taschengeld-fuer-jeden-so-regeln-anna-und-tom-ihre-finanzen-a-bcf716dd-3e3d-40f5-a439-a77a05b7b041#ref=rss)
-### claudia
+* [https://www.spiegel.de/kultur/golden-globes-2025-wer-ist-nikki-glaser](https://www.spiegel.de/kultur/golden-globes-2025-wer-ist-nikki-glaser-a-4b6ec9b6-573b-45b0-8895-eed26a3e35f6#ref=rss)
+* [https://www.spiegel.de/panorama/tibet-mindestens-126-tote-bei-schwerem-erdbeben](https://www.spiegel.de/panorama/tibet-mindestens-126-tote-bei-schwerem-erdbeben-a-8b05a4cf-df8f-44ef-8382-04d93b1de5a2#ref=rss)
+* [https://www.spiegel.de/ausland/todesstrafe-so-viele-hinrichtungen-in-iran-wie-seit-2015-nicht-mehr](https://www.spiegel.de/ausland/todesstrafe-so-viele-hinrichtungen-in-iran-wie-seit-2015-nicht-mehr-a-f9318106-4a98-4412-9997-b3a2d42fb03b#ref=rss)
+* [https://www.spiegel.de/start/ausbildung-abgebrochen-wo-besonders-viele-azubis-nicht-mehr-arbeiten-wollen](https://www.spiegel.de/start/ausbildung-abgebrochen-wo-besonders-viele-azubis-nicht-mehr-arbeiten-wollen-a-8de03f18-286e-4fc2-adb6-aeb0bfbbaaf9#ref=rss)
+* [https://www.spiegel.de/fitness/mehr-kraft-und-bewegung-so-gelingt-der-start-im-fitnessstudio](https://www.spiegel.de/fitness/mehr-kraft-und-bewegung-so-gelingt-der-start-im-fitnessstudio-a-5fb368af-90f7-4281-ac53-2b61053f15b4#ref=rss)
+### österreich
 
-* [https://www.spiegel.de/wirtschaft/service/geld-in-der-partnerschaft-getrennte-konten-fuer-claudia-und-andreas-kommt-das-nicht-infrage](https://www.spiegel.de/wirtschaft/service/geld-in-der-partnerschaft-getrennte-konten-fuer-claudia-und-andreas-kommt-das-nicht-infrage-a-aa9dc3e2-bfd7-434e-b4cb-38f52185993d#ref=rss)
-### anna
+* [https://www.spiegel.de/ausland/oesterreich-wie-die-mitte-parteien-die-fpoe-und-herbert-kickl-gross-gemacht-haben](https://www.spiegel.de/ausland/oesterreich-wie-die-mitte-parteien-die-fpoe-und-herbert-kickl-gross-gemacht-haben-a-66006f49-b5d6-439b-b335-6ef5e5fb67ac#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-fpoe-chef-herbert-kickl-verspricht-neue-aera-und-will-mit-oevp-regieren](https://www.spiegel.de/ausland/oesterreich-fpoe-chef-herbert-kickl-verspricht-neue-aera-und-will-mit-oevp-regieren-a-09591dd8-d57f-4c79-ba65-385aa30d364d#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-das-sagt-fpoe-chef-herbert-kickl-zur-regierungskrise-livestream](https://www.spiegel.de/ausland/oesterreich-das-sagt-fpoe-chef-herbert-kickl-zur-regierungskrise-livestream-a-8940c503-5208-4c67-9639-208142700aea#ref=rss)
+### herbert
 
-* [https://www.spiegel.de/wirtschaft/service/geld-drei-hauptkonten-und-300-euro-taschengeld-fuer-jeden-so-regeln-anna-und-tom-ihre-finanzen](https://www.spiegel.de/wirtschaft/service/geld-drei-hauptkonten-und-300-euro-taschengeld-fuer-jeden-so-regeln-anna-und-tom-ihre-finanzen-a-bcf716dd-3e3d-40f5-a439-a77a05b7b041#ref=rss)
-### finanzen
+* [https://www.spiegel.de/ausland/oesterreich-wie-die-mitte-parteien-die-fpoe-und-herbert-kickl-gross-gemacht-haben](https://www.spiegel.de/ausland/oesterreich-wie-die-mitte-parteien-die-fpoe-und-herbert-kickl-gross-gemacht-haben-a-66006f49-b5d6-439b-b335-6ef5e5fb67ac#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-fpoe-chef-herbert-kickl-verspricht-neue-aera-und-will-mit-oevp-regieren](https://www.spiegel.de/ausland/oesterreich-fpoe-chef-herbert-kickl-verspricht-neue-aera-und-will-mit-oevp-regieren-a-09591dd8-d57f-4c79-ba65-385aa30d364d#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-das-sagt-fpoe-chef-herbert-kickl-zur-regierungskrise-livestream](https://www.spiegel.de/ausland/oesterreich-das-sagt-fpoe-chef-herbert-kickl-zur-regierungskrise-livestream-a-8940c503-5208-4c67-9639-208142700aea#ref=rss)
+### usa
 
-* [https://www.spiegel.de/wirtschaft/service/geld-drei-hauptkonten-und-300-euro-taschengeld-fuer-jeden-so-regeln-anna-und-tom-ihre-finanzen](https://www.spiegel.de/wirtschaft/service/geld-drei-hauptkonten-und-300-euro-taschengeld-fuer-jeden-so-regeln-anna-und-tom-ihre-finanzen-a-bcf716dd-3e3d-40f5-a439-a77a05b7b041#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/geld-in-der-partnerschaft-so-teilen-sie-finanzen-in-der-beziehung-gerecht-auf](https://www.spiegel.de/wirtschaft/service/geld-in-der-partnerschaft-so-teilen-sie-finanzen-in-der-beziehung-gerecht-auf-a-5841e0c4-a5b8-4e70-ab99-e48f4bb77b72#ref=rss)
-### drittel
+* [https://www.spiegel.de/ausland/ungarn-usa-verhaengen-wegen-korruption-sanktionen-gegen-orban-vertrauten](https://www.spiegel.de/ausland/ungarn-usa-verhaengen-wegen-korruption-sanktionen-gegen-orban-vertrauten-a-e08ca4a3-cb18-4621-ac78-9f94f46c1773#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-usa-sprechen-von-voelkermord-und-erlassen-sanktionen-gegen-mohamed-hamdan-daglo](https://www.spiegel.de/ausland/sudan-usa-sprechen-von-voelkermord-und-erlassen-sanktionen-gegen-mohamed-hamdan-daglo-a-bf673fbc-afdb-4fc6-b60a-cd110873a5a0#ref=rss)
+* [https://www.spiegel.de/panorama/usa-wintersturm-bringt-schnee-und-eis-nach-washington-massen-schneeballschlacht-entfacht](https://www.spiegel.de/panorama/usa-wintersturm-bringt-schnee-und-eis-nach-washington-massen-schneeballschlacht-entfacht-a-c30b0adf-9eed-48c1-8079-33eec418865d#ref=rss)
+### fpöchef
 
-* [https://www.spiegel.de/wirtschaft/deutschland-ein-drittel-der-kommunen-beginnt-mit-waermeplanung-fuer-klimaneutralitaet-bis-2045](https://www.spiegel.de/wirtschaft/deutschland-ein-drittel-der-kommunen-beginnt-mit-waermeplanung-fuer-klimaneutralitaet-bis-2045-a-1ee43b9a-e6ce-428b-9bf9-0dd0f5d2356a#ref=rss)
-### kommunen
+* [https://www.spiegel.de/ausland/oesterreich-wie-die-mitte-parteien-die-fpoe-und-herbert-kickl-gross-gemacht-haben](https://www.spiegel.de/ausland/oesterreich-wie-die-mitte-parteien-die-fpoe-und-herbert-kickl-gross-gemacht-haben-a-66006f49-b5d6-439b-b335-6ef5e5fb67ac#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-fpoe-chef-herbert-kickl-verspricht-neue-aera-und-will-mit-oevp-regieren](https://www.spiegel.de/ausland/oesterreich-fpoe-chef-herbert-kickl-verspricht-neue-aera-und-will-mit-oevp-regieren-a-09591dd8-d57f-4c79-ba65-385aa30d364d#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-das-sagt-fpoe-chef-herbert-kickl-zur-regierungskrise-livestream](https://www.spiegel.de/ausland/oesterreich-das-sagt-fpoe-chef-herbert-kickl-zur-regierungskrise-livestream-a-8940c503-5208-4c67-9639-208142700aea#ref=rss)
+### schlaf
 
-* [https://www.spiegel.de/wirtschaft/deutschland-ein-drittel-der-kommunen-beginnt-mit-waermeplanung-fuer-klimaneutralitaet-bis-2045](https://www.spiegel.de/wirtschaft/deutschland-ein-drittel-der-kommunen-beginnt-mit-waermeplanung-fuer-klimaneutralitaet-bis-2045-a-1ee43b9a-e6ce-428b-9bf9-0dd0f5d2356a#ref=rss)
-### 2045
+* [https://www.spiegel.de/gesundheit/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf-podcast](https://www.spiegel.de/gesundheit/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf-podcast-a-de244185-49b1-41dc-b7f8-60306be3b30a#ref=rss)
+* [https://www.spiegel.de/politik/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf](https://www.spiegel.de/politik/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf-a-f6646df5-11ee-4dec-a0dd-f909cc10725a#ref=rss)
+### jeanmarie
 
-* [https://www.spiegel.de/wirtschaft/deutschland-ein-drittel-der-kommunen-beginnt-mit-waermeplanung-fuer-klimaneutralitaet-bis-2045](https://www.spiegel.de/wirtschaft/deutschland-ein-drittel-der-kommunen-beginnt-mit-waermeplanung-fuer-klimaneutralitaet-bis-2045-a-1ee43b9a-e6ce-428b-9bf9-0dd0f5d2356a#ref=rss)
-### begonnen
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-oury-jalloh-jean-marie-le-pen-gestorben-richtungswechsel-bei-instagram-und-facebook](https://www.spiegel.de/politik/deutschland/news-des-tages-oury-jalloh-jean-marie-le-pen-gestorben-richtungswechsel-bei-instagram-und-facebook-a-79afb9dc-70fe-45d8-91f2-c1edf460af2c#ref=rss)
+* [https://www.spiegel.de/ausland/jean-marie-le-pen-nachruf-auf-den-begruender-der-rechtsextremen-partei-front-national](https://www.spiegel.de/ausland/jean-marie-le-pen-nachruf-auf-den-begruender-der-rechtsextremen-partei-front-national-a-f8abaab6-b387-40c7-b0c2-023a08867ac1#ref=rss)
+### le
 
-* [https://www.spiegel.de/wirtschaft/deutschland-ein-drittel-der-kommunen-beginnt-mit-waermeplanung-fuer-klimaneutralitaet-bis-2045](https://www.spiegel.de/wirtschaft/deutschland-ein-drittel-der-kommunen-beginnt-mit-waermeplanung-fuer-klimaneutralitaet-bis-2045-a-1ee43b9a-e6ce-428b-9bf9-0dd0f5d2356a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mannheim-ehepaar-gesteht-zwei-ukrainerinnen-getoetet-zu-haben](https://www.spiegel.de/panorama/justiz/mannheim-ehepaar-gesteht-zwei-ukrainerinnen-getoetet-zu-haben-a-a8e072aa-6506-420f-a049-0dc83b887282#ref=rss)
-### thilo
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-oury-jalloh-jean-marie-le-pen-gestorben-richtungswechsel-bei-instagram-und-facebook](https://www.spiegel.de/politik/deutschland/news-des-tages-oury-jalloh-jean-marie-le-pen-gestorben-richtungswechsel-bei-instagram-und-facebook-a-79afb9dc-70fe-45d8-91f2-c1edf460af2c#ref=rss)
+* [https://www.spiegel.de/ausland/jean-marie-le-pen-nachruf-auf-den-begruender-der-rechtsextremen-partei-front-national](https://www.spiegel.de/ausland/jean-marie-le-pen-nachruf-auf-den-begruender-der-rechtsextremen-partei-front-national-a-f8abaab6-b387-40c7-b0c2-023a08867ac1#ref=rss)
+### pen
 
-* [https://www.spiegel.de/kultur/thilo-mischke-interview-zu-ttt-moderation-herr-mischke-haette-sich-aeussern-sollen](https://www.spiegel.de/kultur/thilo-mischke-interview-zu-ttt-moderation-herr-mischke-haette-sich-aeussern-sollen-a-b395f0c3-77b5-423a-aead-2ea1a1f30b2a#ref=rss)
-### sagt
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-oury-jalloh-jean-marie-le-pen-gestorben-richtungswechsel-bei-instagram-und-facebook](https://www.spiegel.de/politik/deutschland/news-des-tages-oury-jalloh-jean-marie-le-pen-gestorben-richtungswechsel-bei-instagram-und-facebook-a-79afb9dc-70fe-45d8-91f2-c1edf460af2c#ref=rss)
+* [https://www.spiegel.de/ausland/jean-marie-le-pen-nachruf-auf-den-begruender-der-rechtsextremen-partei-front-national](https://www.spiegel.de/ausland/jean-marie-le-pen-nachruf-auf-den-begruender-der-rechtsextremen-partei-front-national-a-f8abaab6-b387-40c7-b0c2-023a08867ac1#ref=rss)
+### neue
 
-* [https://www.spiegel.de/kultur/thilo-mischke-interview-zu-ttt-moderation-herr-mischke-haette-sich-aeussern-sollen](https://www.spiegel.de/kultur/thilo-mischke-interview-zu-ttt-moderation-herr-mischke-haette-sich-aeussern-sollen-a-b395f0c3-77b5-423a-aead-2ea1a1f30b2a#ref=rss)
-* [https://www.spiegel.de/sport/radsport-lars-van-der-haar-renkt-sich-nach-sturz-selbst-die-schulter-ein](https://www.spiegel.de/sport/radsport-lars-van-der-haar-renkt-sich-nach-sturz-selbst-die-schulter-ein-a-0c76b1ee-e3c9-4715-a427-0ebbe407074d#ref=rss)
-### suchmaschine
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-kiews-truppen-ruecken-offenbar-in-der-region-kursk-vor](https://www.spiegel.de/ausland/russland-ukraine-krieg-kiews-truppen-ruecken-offenbar-in-der-region-kursk-vor-a-8c719de9-4521-4105-9330-e6907e5cb402#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-fpoe-chef-herbert-kickl-verspricht-neue-aera-und-will-mit-oevp-regieren](https://www.spiegel.de/ausland/oesterreich-fpoe-chef-herbert-kickl-verspricht-neue-aera-und-will-mit-oevp-regieren-a-09591dd8-d57f-4c79-ba65-385aa30d364d#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-annalena-baerbock-in-damaskus-die-bedeutung-eines-handschlags-in-syrien](https://www.spiegel.de/ausland/syrien-annalena-baerbock-in-damaskus-die-bedeutung-eines-handschlags-in-syrien-a-e056667b-7c37-4da4-9e29-82f12ec9b1c6#ref=rss)
+### tesla
 
-* [https://www.spiegel.de/netzwelt/web/wie-microsoft-seine-suchmaschine-als-google-verkleidet](https://www.spiegel.de/netzwelt/web/wie-microsoft-seine-suchmaschine-als-google-verkleidet-a-86dd09df-be3f-4486-a72b-004f9a48a683#ref=rss)
-### google
+* [https://www.spiegel.de/auto/opel-toyota-ford-tesla-autobauer-wollen-emissionen-fuer-co-ziele-verrechnen-lassen](https://www.spiegel.de/auto/opel-toyota-ford-tesla-autobauer-wollen-emissionen-fuer-co-ziele-verrechnen-lassen-a-3f64d222-e54d-40c4-b4c5-103256269b80#ref=rss)
+* [https://www.spiegel.de/wirtschaft/tesla-starlink-spacex-wie-elon-musk-geschaeftliche-und-politische-interessen-verquickt](https://www.spiegel.de/wirtschaft/tesla-starlink-spacex-wie-elon-musk-geschaeftliche-und-politische-interessen-verquickt-a-45c862fb-50ab-4194-8316-0ff6682ff581#ref=rss)
+* [https://www.spiegel.de/auto/mexiko-regierung-kuendigt-bau-von-guenstigen-elektroautos-an-ohne-tesla](https://www.spiegel.de/auto/mexiko-regierung-kuendigt-bau-von-guenstigen-elektroautos-an-ohne-tesla-a-7cd91d72-7d6e-4fdd-8320-cb154e22f5a1#ref=rss)
+### sanktionen
 
-* [https://www.spiegel.de/netzwelt/web/wie-microsoft-seine-suchmaschine-als-google-verkleidet](https://www.spiegel.de/netzwelt/web/wie-microsoft-seine-suchmaschine-als-google-verkleidet-a-86dd09df-be3f-4486-a72b-004f9a48a683#ref=rss)
-### tencent
+* [https://www.spiegel.de/ausland/ungarn-usa-verhaengen-wegen-korruption-sanktionen-gegen-orban-vertrauten](https://www.spiegel.de/ausland/ungarn-usa-verhaengen-wegen-korruption-sanktionen-gegen-orban-vertrauten-a-e08ca4a3-cb18-4621-ac78-9f94f46c1773#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-usa-sprechen-von-voelkermord-und-erlassen-sanktionen-gegen-mohamed-hamdan-daglo](https://www.spiegel.de/ausland/sudan-usa-sprechen-von-voelkermord-und-erlassen-sanktionen-gegen-mohamed-hamdan-daglo-a-bf673fbc-afdb-4fc6-b60a-cd110873a5a0#ref=rss)
+### gehen
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/tencent-und-catl-usa-stufen-chinesische-konzerne-als-militaerunternehmen-ein](https://www.spiegel.de/wirtschaft/unternehmen/tencent-und-catl-usa-stufen-chinesische-konzerne-als-militaerunternehmen-ein-a-2f8978f8-732b-4fe3-a3ef-fa3e3ed9fca6#ref=rss)
-### catl
+* [https://www.spiegel.de/kultur/golden-globes-2025-wer-ist-nikki-glaser](https://www.spiegel.de/kultur/golden-globes-2025-wer-ist-nikki-glaser-a-4b6ec9b6-573b-45b0-8895-eed26a3e35f6#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/kurswende-bei-meta-mark-zuckerberg-kapituliert](https://www.spiegel.de/netzwelt/netzpolitik/kurswende-bei-meta-mark-zuckerberg-kapituliert-a-9505353f-9100-49fc-a8a1-29b1b761ac00#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/baubranche-oekonomen-erwarten-trendwende](https://www.spiegel.de/wirtschaft/unternehmen/baubranche-oekonomen-erwarten-trendwende-a-f2924aaf-9cc5-41ee-a29f-c7ec989a2d55#ref=rss)
+### mark
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/tencent-und-catl-usa-stufen-chinesische-konzerne-als-militaerunternehmen-ein](https://www.spiegel.de/wirtschaft/unternehmen/tencent-und-catl-usa-stufen-chinesische-konzerne-als-militaerunternehmen-ein-a-2f8978f8-732b-4fe3-a3ef-fa3e3ed9fca6#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/kurswende-bei-meta-mark-zuckerberg-kapituliert](https://www.spiegel.de/netzwelt/netzpolitik/kurswende-bei-meta-mark-zuckerberg-kapituliert-a-9505353f-9100-49fc-a8a1-29b1b761ac00#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-oury-jalloh-jean-marie-le-pen-gestorben-richtungswechsel-bei-instagram-und-facebook](https://www.spiegel.de/politik/deutschland/news-des-tages-oury-jalloh-jean-marie-le-pen-gestorben-richtungswechsel-bei-instagram-und-facebook-a-79afb9dc-70fe-45d8-91f2-c1edf460af2c#ref=rss)
+### zuckerberg
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/kurswende-bei-meta-mark-zuckerberg-kapituliert](https://www.spiegel.de/netzwelt/netzpolitik/kurswende-bei-meta-mark-zuckerberg-kapituliert-a-9505353f-9100-49fc-a8a1-29b1b761ac00#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-oury-jalloh-jean-marie-le-pen-gestorben-richtungswechsel-bei-instagram-und-facebook](https://www.spiegel.de/politik/deutschland/news-des-tages-oury-jalloh-jean-marie-le-pen-gestorben-richtungswechsel-bei-instagram-und-facebook-a-79afb9dc-70fe-45d8-91f2-c1edf460af2c#ref=rss)
+### spacex
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/spacex-und-giorgia-meloni-moeglicher-deal-fuer-sicheres-regierungsnetz-in-italien](https://www.spiegel.de/netzwelt/netzpolitik/spacex-und-giorgia-meloni-moeglicher-deal-fuer-sicheres-regierungsnetz-in-italien-a-b0022912-040e-43a4-8b77-82bd688140a5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/tesla-starlink-spacex-wie-elon-musk-geschaeftliche-und-politische-interessen-verquickt](https://www.spiegel.de/wirtschaft/tesla-starlink-spacex-wie-elon-musk-geschaeftliche-und-politische-interessen-verquickt-a-45c862fb-50ab-4194-8316-0ff6682ff581#ref=rss)
+### elon
+
+* [https://www.spiegel.de/wirtschaft/tesla-starlink-spacex-wie-elon-musk-geschaeftliche-und-politische-interessen-verquickt](https://www.spiegel.de/wirtschaft/tesla-starlink-spacex-wie-elon-musk-geschaeftliche-und-politische-interessen-verquickt-a-45c862fb-50ab-4194-8316-0ff6682ff581#ref=rss)
+* [https://www.spiegel.de/auto/mexiko-regierung-kuendigt-bau-von-guenstigen-elektroautos-an-ohne-tesla](https://www.spiegel.de/auto/mexiko-regierung-kuendigt-bau-von-guenstigen-elektroautos-an-ohne-tesla-a-7cd91d72-7d6e-4fdd-8320-cb154e22f5a1#ref=rss)
+### musk
+
+* [https://www.spiegel.de/wirtschaft/tesla-starlink-spacex-wie-elon-musk-geschaeftliche-und-politische-interessen-verquickt](https://www.spiegel.de/wirtschaft/tesla-starlink-spacex-wie-elon-musk-geschaeftliche-und-politische-interessen-verquickt-a-45c862fb-50ab-4194-8316-0ff6682ff581#ref=rss)
+* [https://www.spiegel.de/auto/mexiko-regierung-kuendigt-bau-von-guenstigen-elektroautos-an-ohne-tesla](https://www.spiegel.de/auto/mexiko-regierung-kuendigt-bau-von-guenstigen-elektroautos-an-ohne-tesla-a-7cd91d72-7d6e-4fdd-8320-cb154e22f5a1#ref=rss)
+### viele
+
+* [https://www.spiegel.de/ausland/todesstrafe-so-viele-hinrichtungen-in-iran-wie-seit-2015-nicht-mehr](https://www.spiegel.de/ausland/todesstrafe-so-viele-hinrichtungen-in-iran-wie-seit-2015-nicht-mehr-a-f9318106-4a98-4412-9997-b3a2d42fb03b#ref=rss)
+* [https://www.spiegel.de/start/ausbildung-abgebrochen-wo-besonders-viele-azubis-nicht-mehr-arbeiten-wollen](https://www.spiegel.de/start/ausbildung-abgebrochen-wo-besonders-viele-azubis-nicht-mehr-arbeiten-wollen-a-8de03f18-286e-4fc2-adb6-aeb0bfbbaaf9#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/ausland/todesstrafe-so-viele-hinrichtungen-in-iran-wie-seit-2015-nicht-mehr](https://www.spiegel.de/ausland/todesstrafe-so-viele-hinrichtungen-in-iran-wie-seit-2015-nicht-mehr-a-f9318106-4a98-4412-9997-b3a2d42fb03b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/volvo-erzielt-2024-rekordabsatz-dank-elektroautos](https://www.spiegel.de/wirtschaft/volvo-erzielt-2024-rekordabsatz-dank-elektroautos-a-7d81f410-9a5b-4a36-89db-783b9c159e5a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/baubranche-oekonomen-erwarten-trendwende](https://www.spiegel.de/wirtschaft/unternehmen/baubranche-oekonomen-erwarten-trendwende-a-f2924aaf-9cc5-41ee-a29f-c7ec989a2d55#ref=rss)
+### barr
+
+* [https://www.spiegel.de/wirtschaft/service/michael-barr-fed-vize-tritt-vorzeitig-ab-und-vermeidet-rechtsstreit-mit-donald-trump](https://www.spiegel.de/wirtschaft/service/michael-barr-fed-vize-tritt-vorzeitig-ab-und-vermeidet-rechtsstreit-mit-donald-trump-a-00daa65e-73f9-4163-b2bc-2b412332a489#ref=rss)
+### eis
+
+* [https://www.spiegel.de/panorama/usa-wintersturm-bringt-schnee-und-eis-nach-washington-massen-schneeballschlacht-entfacht](https://www.spiegel.de/panorama/usa-wintersturm-bringt-schnee-und-eis-nach-washington-massen-schneeballschlacht-entfacht-a-c30b0adf-9eed-48c1-8079-33eec418865d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/mogelpackung-des-jahres-mogelpackungen-verteuern-sich-um-bis-zu-150-prozent](https://www.spiegel.de/wirtschaft/service/mogelpackung-des-jahres-mogelpackungen-verteuern-sich-um-bis-zu-150-prozent-a-93e78735-a1f3-4e81-abea-1ac05daeebab#ref=rss)
+### 2025
+
+* [https://www.spiegel.de/auto/opel-toyota-ford-tesla-autobauer-wollen-emissionen-fuer-co-ziele-verrechnen-lassen](https://www.spiegel.de/auto/opel-toyota-ford-tesla-autobauer-wollen-emissionen-fuer-co-ziele-verrechnen-lassen-a-3f64d222-e54d-40c4-b4c5-103256269b80#ref=rss)
+* [https://www.spiegel.de/kultur/golden-globes-2025-wer-ist-nikki-glaser](https://www.spiegel.de/kultur/golden-globes-2025-wer-ist-nikki-glaser-a-4b6ec9b6-573b-45b0-8895-eed26a3e35f6#ref=rss)
+### vorgaben
+
+* [https://www.spiegel.de/auto/opel-toyota-ford-tesla-autobauer-wollen-emissionen-fuer-co-ziele-verrechnen-lassen](https://www.spiegel.de/auto/opel-toyota-ford-tesla-autobauer-wollen-emissionen-fuer-co-ziele-verrechnen-lassen-a-3f64d222-e54d-40c4-b4c5-103256269b80#ref=rss)
 ### usregierung
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/tencent-und-catl-usa-stufen-chinesische-konzerne-als-militaerunternehmen-ein](https://www.spiegel.de/wirtschaft/unternehmen/tencent-und-catl-usa-stufen-chinesische-konzerne-als-militaerunternehmen-ein-a-2f8978f8-732b-4fe3-a3ef-fa3e3ed9fca6#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-bringt-nach-justin-trudeaus-rueckzug-erneut-fusion-von-usa-und-kanada-ins-spiel](https://www.spiegel.de/ausland/donald-trump-bringt-nach-justin-trudeaus-rueckzug-erneut-fusion-von-usa-und-kanada-ins-spiel-a-10931243-7df0-4385-a67d-e29e3b467903#ref=rss)
-### ehepaar
+* [https://www.spiegel.de/ausland/ungarn-usa-verhaengen-wegen-korruption-sanktionen-gegen-orban-vertrauten](https://www.spiegel.de/ausland/ungarn-usa-verhaengen-wegen-korruption-sanktionen-gegen-orban-vertrauten-a-e08ca4a3-cb18-4621-ac78-9f94f46c1773#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-usa-sprechen-von-voelkermord-und-erlassen-sanktionen-gegen-mohamed-hamdan-daglo](https://www.spiegel.de/ausland/sudan-usa-sprechen-von-voelkermord-und-erlassen-sanktionen-gegen-mohamed-hamdan-daglo-a-bf673fbc-afdb-4fc6-b60a-cd110873a5a0#ref=rss)
+### nikki
 
-* [https://www.spiegel.de/panorama/justiz/mannheim-ehepaar-gesteht-zwei-ukrainerinnen-getoetet-zu-haben](https://www.spiegel.de/panorama/justiz/mannheim-ehepaar-gesteht-zwei-ukrainerinnen-getoetet-zu-haben-a-a8e072aa-6506-420f-a049-0dc83b887282#ref=rss)
-### frau
+* [https://www.spiegel.de/kultur/golden-globes-2025-wer-ist-nikki-glaser](https://www.spiegel.de/kultur/golden-globes-2025-wer-ist-nikki-glaser-a-4b6ec9b6-573b-45b0-8895-eed26a3e35f6#ref=rss)
+### glaser
 
-* [https://www.spiegel.de/panorama/justiz/mannheim-ehepaar-gesteht-zwei-ukrainerinnen-getoetet-zu-haben](https://www.spiegel.de/panorama/justiz/mannheim-ehepaar-gesteht-zwei-ukrainerinnen-getoetet-zu-haben-a-a8e072aa-6506-420f-a049-0dc83b887282#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gruene-direktkandidatur-sergey-lagodinsky-zieht-bewerbung-gegen-stefan-gelbhaar-zurueck](https://www.spiegel.de/politik/deutschland/gruene-direktkandidatur-sergey-lagodinsky-zieht-bewerbung-gegen-stefan-gelbhaar-zurueck-a-80bd87b4-4634-4c29-9f52-7d6ea7d8aba2#ref=rss)
-### ausgeben
+* [https://www.spiegel.de/kultur/golden-globes-2025-wer-ist-nikki-glaser](https://www.spiegel.de/kultur/golden-globes-2025-wer-ist-nikki-glaser-a-4b6ec9b6-573b-45b0-8895-eed26a3e35f6#ref=rss)
+### dollar
 
-* [https://www.spiegel.de/panorama/justiz/mannheim-ehepaar-gesteht-zwei-ukrainerinnen-getoetet-zu-haben](https://www.spiegel.de/panorama/justiz/mannheim-ehepaar-gesteht-zwei-ukrainerinnen-getoetet-zu-haben-a-a8e072aa-6506-420f-a049-0dc83b887282#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/robert-habeck-olaf-scholz-kritisiert-idee-vom-hoeheren-wehretat-als-unausgegoren](https://www.spiegel.de/politik/deutschland/robert-habeck-olaf-scholz-kritisiert-idee-vom-hoeheren-wehretat-als-unausgegoren-a-856086d9-1486-4b4b-b9d3-c54a7fa14574#ref=rss)
-### dry
+* [https://www.spiegel.de/kultur/golden-globes-2025-wer-ist-nikki-glaser](https://www.spiegel.de/kultur/golden-globes-2025-wer-ist-nikki-glaser-a-4b6ec9b6-573b-45b0-8895-eed26a3e35f6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/tesla-starlink-spacex-wie-elon-musk-geschaeftliche-und-politische-interessen-verquickt](https://www.spiegel.de/wirtschaft/tesla-starlink-spacex-wie-elon-musk-geschaeftliche-und-politische-interessen-verquickt-a-45c862fb-50ab-4194-8316-0ff6682ff581#ref=rss)
+### kanzler
 
-* [https://www.spiegel.de/wirtschaft/service/dry-january-und-veganuary-absatz-von-alkohol-und-fleisch-geht-zu-jahresbeginn-zurueck](https://www.spiegel.de/wirtschaft/service/dry-january-und-veganuary-absatz-von-alkohol-und-fleisch-geht-zu-jahresbeginn-zurueck-a-1bb9b922-d114-4b80-98ad-40a492f87fd6#ref=rss)
-### january
+* [https://www.spiegel.de/ausland/oesterreich-wie-die-mitte-parteien-die-fpoe-und-herbert-kickl-gross-gemacht-haben](https://www.spiegel.de/ausland/oesterreich-wie-die-mitte-parteien-die-fpoe-und-herbert-kickl-gross-gemacht-haben-a-66006f49-b5d6-439b-b335-6ef5e5fb67ac#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-das-sagt-fpoe-chef-herbert-kickl-zur-regierungskrise-livestream](https://www.spiegel.de/ausland/oesterreich-das-sagt-fpoe-chef-herbert-kickl-zur-regierungskrise-livestream-a-8940c503-5208-4c67-9639-208142700aea#ref=rss)
+### kurswende
 
-* [https://www.spiegel.de/wirtschaft/service/dry-january-und-veganuary-absatz-von-alkohol-und-fleisch-geht-zu-jahresbeginn-zurueck](https://www.spiegel.de/wirtschaft/service/dry-january-und-veganuary-absatz-von-alkohol-und-fleisch-geht-zu-jahresbeginn-zurueck-a-1bb9b922-d114-4b80-98ad-40a492f87fd6#ref=rss)
-### veganuary
+* [https://www.spiegel.de/netzwelt/netzpolitik/kurswende-bei-meta-mark-zuckerberg-kapituliert](https://www.spiegel.de/netzwelt/netzpolitik/kurswende-bei-meta-mark-zuckerberg-kapituliert-a-9505353f-9100-49fc-a8a1-29b1b761ac00#ref=rss)
+### bringt
 
-* [https://www.spiegel.de/wirtschaft/service/dry-january-und-veganuary-absatz-von-alkohol-und-fleisch-geht-zu-jahresbeginn-zurueck](https://www.spiegel.de/wirtschaft/service/dry-january-und-veganuary-absatz-von-alkohol-und-fleisch-geht-zu-jahresbeginn-zurueck-a-1bb9b922-d114-4b80-98ad-40a492f87fd6#ref=rss)
-### alkohol
+* [https://www.spiegel.de/netzwelt/netzpolitik/kurswende-bei-meta-mark-zuckerberg-kapituliert](https://www.spiegel.de/netzwelt/netzpolitik/kurswende-bei-meta-mark-zuckerberg-kapituliert-a-9505353f-9100-49fc-a8a1-29b1b761ac00#ref=rss)
+* [https://www.spiegel.de/panorama/usa-wintersturm-bringt-schnee-und-eis-nach-washington-massen-schneeballschlacht-entfacht](https://www.spiegel.de/panorama/usa-wintersturm-bringt-schnee-und-eis-nach-washington-massen-schneeballschlacht-entfacht-a-c30b0adf-9eed-48c1-8079-33eec418865d#ref=rss)
+### allem
 
-* [https://www.spiegel.de/wirtschaft/service/dry-january-und-veganuary-absatz-von-alkohol-und-fleisch-geht-zu-jahresbeginn-zurueck](https://www.spiegel.de/wirtschaft/service/dry-january-und-veganuary-absatz-von-alkohol-und-fleisch-geht-zu-jahresbeginn-zurueck-a-1bb9b922-d114-4b80-98ad-40a492f87fd6#ref=rss)
-### fleisch
-
-* [https://www.spiegel.de/wirtschaft/service/dry-january-und-veganuary-absatz-von-alkohol-und-fleisch-geht-zu-jahresbeginn-zurueck](https://www.spiegel.de/wirtschaft/service/dry-january-und-veganuary-absatz-von-alkohol-und-fleisch-geht-zu-jahresbeginn-zurueck-a-1bb9b922-d114-4b80-98ad-40a492f87fd6#ref=rss)
-### januar
-
-* [https://www.spiegel.de/wirtschaft/service/dry-january-und-veganuary-absatz-von-alkohol-und-fleisch-geht-zu-jahresbeginn-zurueck](https://www.spiegel.de/wirtschaft/service/dry-january-und-veganuary-absatz-von-alkohol-und-fleisch-geht-zu-jahresbeginn-zurueck-a-1bb9b922-d114-4b80-98ad-40a492f87fd6#ref=rss)
-* [https://www.spiegel.de/reise/tipps-fuer-die-urlaubsbuchung-2025-so-kommen-sie-sicher-und-guenstig-weg](https://www.spiegel.de/reise/tipps-fuer-die-urlaubsbuchung-2025-so-kommen-sie-sicher-und-guenstig-weg-a-bfbddc1b-6f8c-46ca-82d8-c89c3fc828f1#ref=rss)
-### kaufen
-
-* [https://www.spiegel.de/wirtschaft/service/dry-january-und-veganuary-absatz-von-alkohol-und-fleisch-geht-zu-jahresbeginn-zurueck](https://www.spiegel.de/wirtschaft/service/dry-january-und-veganuary-absatz-von-alkohol-und-fleisch-geht-zu-jahresbeginn-zurueck-a-1bb9b922-d114-4b80-98ad-40a492f87fd6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/nippon-steel-will-uebernahme-von-us-steel-vor-gericht-durchsetzen](https://www.spiegel.de/wirtschaft/unternehmen/nippon-steel-will-uebernahme-von-us-steel-vor-gericht-durchsetzen-a-ddd69bf2-1349-4d04-b8f7-7918510505ef#ref=rss)
-### lars
-
-* [https://www.spiegel.de/sport/radsport-lars-van-der-haar-renkt-sich-nach-sturz-selbst-die-schulter-ein](https://www.spiegel.de/sport/radsport-lars-van-der-haar-renkt-sich-nach-sturz-selbst-die-schulter-ein-a-0c76b1ee-e3c9-4715-a427-0ebbe407074d#ref=rss)
-### van
-
-* [https://www.spiegel.de/sport/radsport-lars-van-der-haar-renkt-sich-nach-sturz-selbst-die-schulter-ein](https://www.spiegel.de/sport/radsport-lars-van-der-haar-renkt-sich-nach-sturz-selbst-die-schulter-ein-a-0c76b1ee-e3c9-4715-a427-0ebbe407074d#ref=rss)
-### haar
-
-* [https://www.spiegel.de/sport/radsport-lars-van-der-haar-renkt-sich-nach-sturz-selbst-die-schulter-ein](https://www.spiegel.de/sport/radsport-lars-van-der-haar-renkt-sich-nach-sturz-selbst-die-schulter-ein-a-0c76b1ee-e3c9-4715-a427-0ebbe407074d#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/sport/radsport-lars-van-der-haar-renkt-sich-nach-sturz-selbst-die-schulter-ein](https://www.spiegel.de/sport/radsport-lars-van-der-haar-renkt-sich-nach-sturz-selbst-die-schulter-ein-a-0c76b1ee-e3c9-4715-a427-0ebbe407074d#ref=rss)
-### schulter
-
-* [https://www.spiegel.de/sport/radsport-lars-van-der-haar-renkt-sich-nach-sturz-selbst-die-schulter-ein](https://www.spiegel.de/sport/radsport-lars-van-der-haar-renkt-sich-nach-sturz-selbst-die-schulter-ein-a-0c76b1ee-e3c9-4715-a427-0ebbe407074d#ref=rss)
-### sergey
-
-* [https://www.spiegel.de/politik/deutschland/gruene-direktkandidatur-sergey-lagodinsky-zieht-bewerbung-gegen-stefan-gelbhaar-zurueck](https://www.spiegel.de/politik/deutschland/gruene-direktkandidatur-sergey-lagodinsky-zieht-bewerbung-gegen-stefan-gelbhaar-zurueck-a-80bd87b4-4634-4c29-9f52-7d6ea7d8aba2#ref=rss)
-### lagodinsky
-
-* [https://www.spiegel.de/politik/deutschland/gruene-direktkandidatur-sergey-lagodinsky-zieht-bewerbung-gegen-stefan-gelbhaar-zurueck](https://www.spiegel.de/politik/deutschland/gruene-direktkandidatur-sergey-lagodinsky-zieht-bewerbung-gegen-stefan-gelbhaar-zurueck-a-80bd87b4-4634-4c29-9f52-7d6ea7d8aba2#ref=rss)
-### zieht
-
-* [https://www.spiegel.de/politik/deutschland/gruene-direktkandidatur-sergey-lagodinsky-zieht-bewerbung-gegen-stefan-gelbhaar-zurueck](https://www.spiegel.de/politik/deutschland/gruene-direktkandidatur-sergey-lagodinsky-zieht-bewerbung-gegen-stefan-gelbhaar-zurueck-a-80bd87b4-4634-4c29-9f52-7d6ea7d8aba2#ref=rss)
-### bewerbung
-
-* [https://www.spiegel.de/politik/deutschland/gruene-direktkandidatur-sergey-lagodinsky-zieht-bewerbung-gegen-stefan-gelbhaar-zurueck](https://www.spiegel.de/politik/deutschland/gruene-direktkandidatur-sergey-lagodinsky-zieht-bewerbung-gegen-stefan-gelbhaar-zurueck-a-80bd87b4-4634-4c29-9f52-7d6ea7d8aba2#ref=rss)
-### stefan
-
-* [https://www.spiegel.de/politik/deutschland/gruene-direktkandidatur-sergey-lagodinsky-zieht-bewerbung-gegen-stefan-gelbhaar-zurueck](https://www.spiegel.de/politik/deutschland/gruene-direktkandidatur-sergey-lagodinsky-zieht-bewerbung-gegen-stefan-gelbhaar-zurueck-a-80bd87b4-4634-4c29-9f52-7d6ea7d8aba2#ref=rss)
-### gelbhaar
-
-* [https://www.spiegel.de/politik/deutschland/gruene-direktkandidatur-sergey-lagodinsky-zieht-bewerbung-gegen-stefan-gelbhaar-zurueck](https://www.spiegel.de/politik/deutschland/gruene-direktkandidatur-sergey-lagodinsky-zieht-bewerbung-gegen-stefan-gelbhaar-zurueck-a-80bd87b4-4634-4c29-9f52-7d6ea7d8aba2#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-sollte-endlich-zeigen-dass-er-kanzler-kann-kommentar](https://www.spiegel.de/politik/deutschland/friedrich-merz-sollte-endlich-zeigen-dass-er-kanzler-kann-kommentar-a-c236f743-0727-43de-9cad-1101a639356f#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-sollte-endlich-zeigen-dass-er-kanzler-kann-kommentar](https://www.spiegel.de/politik/deutschland/friedrich-merz-sollte-endlich-zeigen-dass-er-kanzler-kann-kommentar-a-c236f743-0727-43de-9cad-1101a639356f#ref=rss)
-### wann
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-sollte-endlich-zeigen-dass-er-kanzler-kann-kommentar](https://www.spiegel.de/politik/deutschland/friedrich-merz-sollte-endlich-zeigen-dass-er-kanzler-kann-kommentar-a-c236f743-0727-43de-9cad-1101a639356f#ref=rss)
-* [https://www.spiegel.de/psychologie/prokrastination-was-dahinter-steckt-und-welche-strategien-helfen](https://www.spiegel.de/psychologie/prokrastination-was-dahinter-steckt-und-welche-strategien-helfen-a-db7e1ddd-a747-4d69-acce-a85ef005e914#ref=rss)
-### stellt
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-sollte-endlich-zeigen-dass-er-kanzler-kann-kommentar](https://www.spiegel.de/politik/deutschland/friedrich-merz-sollte-endlich-zeigen-dass-er-kanzler-kann-kommentar-a-c236f743-0727-43de-9cad-1101a639356f#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/ces-in-las-vegas-nvidia-stellt-ki-supercomputer-im-schreibtisch-format-vor](https://www.spiegel.de/netzwelt/gadgets/ces-in-las-vegas-nvidia-stellt-ki-supercomputer-im-schreibtisch-format-vor-a-0e0ad625-920d-4a99-a04d-3803ea71974c#ref=rss)
-### zahl
-
-* [https://www.spiegel.de/politik/deutschland/bundesregierung-vermeldet-deutlichen-anstieg-bei-abschiebungen](https://www.spiegel.de/politik/deutschland/bundesregierung-vermeldet-deutlichen-anstieg-bei-abschiebungen-a-1847f459-47fc-4fa1-9339-bd6964bb6f80#ref=rss)
-### laut
-
-* [https://www.spiegel.de/politik/deutschland/bundesregierung-vermeldet-deutlichen-anstieg-bei-abschiebungen](https://www.spiegel.de/politik/deutschland/bundesregierung-vermeldet-deutlichen-anstieg-bei-abschiebungen-a-1847f459-47fc-4fa1-9339-bd6964bb6f80#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/pendler-stehen-im-schnitt-43-stunden-im-stau](https://www.spiegel.de/wirtschaft/service/pendler-stehen-im-schnitt-43-stunden-im-stau-a-8b650201-6fe0-40c9-9e50-655309f59c65#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/grossbritannien-29-menschen-seit-drei-tagen-in-pub-eingeschneit](https://www.spiegel.de/panorama/grossbritannien-29-menschen-seit-drei-tagen-in-pub-eingeschneit-a-115333c7-dea4-43fe-a775-178b9feee1f9#ref=rss)
-* [https://www.spiegel.de/psychologie/prokrastination-was-dahinter-steckt-und-welche-strategien-helfen](https://www.spiegel.de/psychologie/prokrastination-was-dahinter-steckt-und-welche-strategien-helfen-a-db7e1ddd-a747-4d69-acce-a85ef005e914#ref=rss)
-### drei
-
-* [https://www.spiegel.de/panorama/grossbritannien-29-menschen-seit-drei-tagen-in-pub-eingeschneit](https://www.spiegel.de/panorama/grossbritannien-29-menschen-seit-drei-tagen-in-pub-eingeschneit-a-115333c7-dea4-43fe-a775-178b9feee1f9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/geld-drei-hauptkonten-und-300-euro-taschengeld-fuer-jeden-so-regeln-anna-und-tom-ihre-finanzen](https://www.spiegel.de/wirtschaft/service/geld-drei-hauptkonten-und-300-euro-taschengeld-fuer-jeden-so-regeln-anna-und-tom-ihre-finanzen-a-bcf716dd-3e3d-40f5-a439-a77a05b7b041#ref=rss)
-### tagen
-
-* [https://www.spiegel.de/panorama/grossbritannien-29-menschen-seit-drei-tagen-in-pub-eingeschneit](https://www.spiegel.de/panorama/grossbritannien-29-menschen-seit-drei-tagen-in-pub-eingeschneit-a-115333c7-dea4-43fe-a775-178b9feee1f9#ref=rss)
-### pub
-
-* [https://www.spiegel.de/panorama/grossbritannien-29-menschen-seit-drei-tagen-in-pub-eingeschneit](https://www.spiegel.de/panorama/grossbritannien-29-menschen-seit-drei-tagen-in-pub-eingeschneit-a-115333c7-dea4-43fe-a775-178b9feee1f9#ref=rss)
-### münchen
-
-* [https://www.spiegel.de/politik/deutschland/robert-habeck-polizei-stoppt-werbeprojektion-auf-siegestor-in-muenchen](https://www.spiegel.de/politik/deutschland/robert-habeck-polizei-stoppt-werbeprojektion-auf-siegestor-in-muenchen-a-e62c2bb9-1565-4812-bf1a-d024be68b83e#ref=rss)
-### csu
-
-* [https://www.spiegel.de/politik/deutschland/robert-habeck-polizei-stoppt-werbeprojektion-auf-siegestor-in-muenchen](https://www.spiegel.de/politik/deutschland/robert-habeck-polizei-stoppt-werbeprojektion-auf-siegestor-in-muenchen-a-e62c2bb9-1565-4812-bf1a-d024be68b83e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/muetterrente-csu-plaene-wuerden-fast-fuenf-milliarden-euro-kosten](https://www.spiegel.de/wirtschaft/soziales/muetterrente-csu-plaene-wuerden-fast-fuenf-milliarden-euro-kosten-a-1c17b8ba-9c11-4cfa-b808-45d0b036865f#ref=rss)
-### steckt
-
-* [https://www.spiegel.de/netzwelt/gadgets/ces-in-las-vegas-nvidia-stellt-ki-supercomputer-im-schreibtisch-format-vor](https://www.spiegel.de/netzwelt/gadgets/ces-in-las-vegas-nvidia-stellt-ki-supercomputer-im-schreibtisch-format-vor-a-0e0ad625-920d-4a99-a04d-3803ea71974c#ref=rss)
-* [https://www.spiegel.de/psychologie/prokrastination-was-dahinter-steckt-und-welche-strategien-helfen](https://www.spiegel.de/psychologie/prokrastination-was-dahinter-steckt-und-welche-strategien-helfen-a-db7e1ddd-a747-4d69-acce-a85ef005e914#ref=rss)
-### johnny
-
-* [https://www.spiegel.de/panorama/leute/johnny-depp-warnt-fans-vor-internetbetruegern](https://www.spiegel.de/panorama/leute/johnny-depp-warnt-fans-vor-internetbetruegern-a-6031b0ef-3931-48bd-9f1a-d6222b12a6f3#ref=rss)
-### depp
-
-* [https://www.spiegel.de/panorama/leute/johnny-depp-warnt-fans-vor-internetbetruegern](https://www.spiegel.de/panorama/leute/johnny-depp-warnt-fans-vor-internetbetruegern-a-6031b0ef-3931-48bd-9f1a-d6222b12a6f3#ref=rss)
-### warnt
-
-* [https://www.spiegel.de/panorama/leute/johnny-depp-warnt-fans-vor-internetbetruegern](https://www.spiegel.de/panorama/leute/johnny-depp-warnt-fans-vor-internetbetruegern-a-6031b0ef-3931-48bd-9f1a-d6222b12a6f3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/muetterrente-csu-plaene-wuerden-fast-fuenf-milliarden-euro-kosten](https://www.spiegel.de/wirtschaft/soziales/muetterrente-csu-plaene-wuerden-fast-fuenf-milliarden-euro-kosten-a-1c17b8ba-9c11-4cfa-b808-45d0b036865f#ref=rss)
-### fans
-
-* [https://www.spiegel.de/panorama/leute/johnny-depp-warnt-fans-vor-internetbetruegern](https://www.spiegel.de/panorama/leute/johnny-depp-warnt-fans-vor-internetbetruegern-a-6031b0ef-3931-48bd-9f1a-d6222b12a6f3#ref=rss)
-### dahinter
-
-* [https://www.spiegel.de/panorama/leute/johnny-depp-warnt-fans-vor-internetbetruegern](https://www.spiegel.de/panorama/leute/johnny-depp-warnt-fans-vor-internetbetruegern-a-6031b0ef-3931-48bd-9f1a-d6222b12a6f3#ref=rss)
-* [https://www.spiegel.de/psychologie/prokrastination-was-dahinter-steckt-und-welche-strategien-helfen](https://www.spiegel.de/psychologie/prokrastination-was-dahinter-steckt-und-welche-strategien-helfen-a-db7e1ddd-a747-4d69-acce-a85ef005e914#ref=rss)
-### günstig
-
-* [https://www.spiegel.de/wirtschaft/soziales/immobilien-raus-aufs-land-kann-das-klappen](https://www.spiegel.de/wirtschaft/soziales/immobilien-raus-aufs-land-kann-das-klappen-a-18ff05f1-a1f1-4360-8ba6-f761385d7676#ref=rss)
-* [https://www.spiegel.de/reise/tipps-fuer-die-urlaubsbuchung-2025-so-kommen-sie-sicher-und-guenstig-weg](https://www.spiegel.de/reise/tipps-fuer-die-urlaubsbuchung-2025-so-kommen-sie-sicher-und-guenstig-weg-a-bfbddc1b-6f8c-46ca-82d8-c89c3fc828f1#ref=rss)
-### nippon
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/nippon-steel-will-uebernahme-von-us-steel-vor-gericht-durchsetzen](https://www.spiegel.de/wirtschaft/unternehmen/nippon-steel-will-uebernahme-von-us-steel-vor-gericht-durchsetzen-a-ddd69bf2-1349-4d04-b8f7-7918510505ef#ref=rss)
-### us
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/nippon-steel-will-uebernahme-von-us-steel-vor-gericht-durchsetzen](https://www.spiegel.de/wirtschaft/unternehmen/nippon-steel-will-uebernahme-von-us-steel-vor-gericht-durchsetzen-a-ddd69bf2-1349-4d04-b8f7-7918510505ef#ref=rss)
-### scheidenden
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/nippon-steel-will-uebernahme-von-us-steel-vor-gericht-durchsetzen](https://www.spiegel.de/wirtschaft/unternehmen/nippon-steel-will-uebernahme-von-us-steel-vor-gericht-durchsetzen-a-ddd69bf2-1349-4d04-b8f7-7918510505ef#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-bringt-nach-justin-trudeaus-rueckzug-erneut-fusion-von-usa-und-kanada-ins-spiel](https://www.spiegel.de/ausland/donald-trump-bringt-nach-justin-trudeaus-rueckzug-erneut-fusion-von-usa-und-kanada-ins-spiel-a-10931243-7df0-4385-a67d-e29e3b467903#ref=rss)
-### nordkorea
-
-* [https://www.spiegel.de/ausland/nordkorea-meldet-erfolgreichen-test-eigener-hyperschallrakete](https://www.spiegel.de/ausland/nordkorea-meldet-erfolgreichen-test-eigener-hyperschallrakete-a-458bf973-5bb6-43a1-aa5a-13d71985a21f#ref=rss)
-### test
-
-* [https://www.spiegel.de/ausland/nordkorea-meldet-erfolgreichen-test-eigener-hyperschallrakete](https://www.spiegel.de/ausland/nordkorea-meldet-erfolgreichen-test-eigener-hyperschallrakete-a-458bf973-5bb6-43a1-aa5a-13d71985a21f#ref=rss)
-### hyperschallrakete
-
-* [https://www.spiegel.de/ausland/nordkorea-meldet-erfolgreichen-test-eigener-hyperschallrakete](https://www.spiegel.de/ausland/nordkorea-meldet-erfolgreichen-test-eigener-hyperschallrakete-a-458bf973-5bb6-43a1-aa5a-13d71985a21f#ref=rss)
-### bahn
-
-* [https://www.spiegel.de/panorama/deutsche-bahn-bahnverkehr-im-norden-normalisiert-sich-nach-sturm-wieder](https://www.spiegel.de/panorama/deutsche-bahn-bahnverkehr-im-norden-normalisiert-sich-nach-sturm-wieder-a-aaa3ad90-0eb3-4626-9940-dd9e360494da#ref=rss)
-### wieso
-
-* [https://www.spiegel.de/psychologie/prokrastination-was-dahinter-steckt-und-welche-strategien-helfen](https://www.spiegel.de/psychologie/prokrastination-was-dahinter-steckt-und-welche-strategien-helfen-a-db7e1ddd-a747-4d69-acce-a85ef005e914#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/geld-drei-hauptkonten-und-300-euro-taschengeld-fuer-jeden-so-regeln-anna-und-tom-ihre-finanzen](https://www.spiegel.de/wirtschaft/service/geld-drei-hauptkonten-und-300-euro-taschengeld-fuer-jeden-so-regeln-anna-und-tom-ihre-finanzen-a-bcf716dd-3e3d-40f5-a439-a77a05b7b041#ref=rss)
-### indonesien
-
-* [https://www.spiegel.de/ausland/indonesien-wird-vollmitglied-der-brics-gruppe](https://www.spiegel.de/ausland/indonesien-wird-vollmitglied-der-brics-gruppe-a-2ae81cd5-15ca-4768-8bde-0d1c251dfe34#ref=rss)
-### einfluss
-
-* [https://www.spiegel.de/ausland/indonesien-wird-vollmitglied-der-brics-gruppe](https://www.spiegel.de/ausland/indonesien-wird-vollmitglied-der-brics-gruppe-a-2ae81cd5-15ca-4768-8bde-0d1c251dfe34#ref=rss)
-### mütterrente
-
-* [https://www.spiegel.de/wirtschaft/soziales/muetterrente-csu-plaene-wuerden-fast-fuenf-milliarden-euro-kosten](https://www.spiegel.de/wirtschaft/soziales/muetterrente-csu-plaene-wuerden-fast-fuenf-milliarden-euro-kosten-a-1c17b8ba-9c11-4cfa-b808-45d0b036865f#ref=rss)
-### fünf
-
-* [https://www.spiegel.de/wirtschaft/soziales/muetterrente-csu-plaene-wuerden-fast-fuenf-milliarden-euro-kosten](https://www.spiegel.de/wirtschaft/soziales/muetterrente-csu-plaene-wuerden-fast-fuenf-milliarden-euro-kosten-a-1c17b8ba-9c11-4cfa-b808-45d0b036865f#ref=rss)
-* [https://www.spiegel.de/reise/tipps-fuer-die-urlaubsbuchung-2025-so-kommen-sie-sicher-und-guenstig-weg](https://www.spiegel.de/reise/tipps-fuer-die-urlaubsbuchung-2025-so-kommen-sie-sicher-und-guenstig-weg-a-bfbddc1b-6f8c-46ca-82d8-c89c3fc828f1#ref=rss)
-### euro
-
-* [https://www.spiegel.de/wirtschaft/soziales/muetterrente-csu-plaene-wuerden-fast-fuenf-milliarden-euro-kosten](https://www.spiegel.de/wirtschaft/soziales/muetterrente-csu-plaene-wuerden-fast-fuenf-milliarden-euro-kosten-a-1c17b8ba-9c11-4cfa-b808-45d0b036865f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/geld-drei-hauptkonten-und-300-euro-taschengeld-fuer-jeden-so-regeln-anna-und-tom-ihre-finanzen](https://www.spiegel.de/wirtschaft/service/geld-drei-hauptkonten-und-300-euro-taschengeld-fuer-jeden-so-regeln-anna-und-tom-ihre-finanzen-a-bcf716dd-3e3d-40f5-a439-a77a05b7b041#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/kurswende-bei-meta-mark-zuckerberg-kapituliert](https://www.spiegel.de/netzwelt/netzpolitik/kurswende-bei-meta-mark-zuckerberg-kapituliert-a-9505353f-9100-49fc-a8a1-29b1b761ac00#ref=rss)
+* [https://www.spiegel.de/wirtschaft/volvo-erzielt-2024-rekordabsatz-dank-elektroautos](https://www.spiegel.de/wirtschaft/volvo-erzielt-2024-rekordabsatz-dank-elektroautos-a-7d81f410-9a5b-4a36-89db-783b9c159e5a#ref=rss)
 ### kosten
 
-* [https://www.spiegel.de/wirtschaft/soziales/muetterrente-csu-plaene-wuerden-fast-fuenf-milliarden-euro-kosten](https://www.spiegel.de/wirtschaft/soziales/muetterrente-csu-plaene-wuerden-fast-fuenf-milliarden-euro-kosten-a-1c17b8ba-9c11-4cfa-b808-45d0b036865f#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/kurswende-bei-meta-mark-zuckerberg-kapituliert](https://www.spiegel.de/netzwelt/netzpolitik/kurswende-bei-meta-mark-zuckerberg-kapituliert-a-9505353f-9100-49fc-a8a1-29b1b761ac00#ref=rss)
+* [https://www.spiegel.de/auto/mexiko-regierung-kuendigt-bau-von-guenstigen-elektroautos-an-ohne-tesla](https://www.spiegel.de/auto/mexiko-regierung-kuendigt-bau-von-guenstigen-elektroautos-an-ohne-tesla-a-7cd91d72-7d6e-4fdd-8320-cb154e22f5a1#ref=rss)
+### schlafmangel
+
+* [https://www.spiegel.de/gesundheit/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf-podcast](https://www.spiegel.de/gesundheit/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf-podcast-a-de244185-49b1-41dc-b7f8-60306be3b30a#ref=rss)
+* [https://www.spiegel.de/politik/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf](https://www.spiegel.de/politik/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf-a-f6646df5-11ee-4dec-a0dd-f909cc10725a#ref=rss)
+### unruhige
+
+* [https://www.spiegel.de/gesundheit/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf-podcast](https://www.spiegel.de/gesundheit/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf-podcast-a-de244185-49b1-41dc-b7f8-60306be3b30a#ref=rss)
+* [https://www.spiegel.de/politik/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf](https://www.spiegel.de/politik/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf-a-f6646df5-11ee-4dec-a0dd-f909cc10725a#ref=rss)
+### nächte
+
+* [https://www.spiegel.de/gesundheit/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf-podcast](https://www.spiegel.de/gesundheit/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf-podcast-a-de244185-49b1-41dc-b7f8-60306be3b30a#ref=rss)
+* [https://www.spiegel.de/politik/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf](https://www.spiegel.de/politik/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf-a-f6646df5-11ee-4dec-a0dd-f909cc10725a#ref=rss)
+### erholsamen
+
+* [https://www.spiegel.de/gesundheit/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf-podcast](https://www.spiegel.de/gesundheit/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf-podcast-a-de244185-49b1-41dc-b7f8-60306be3b30a#ref=rss)
+* [https://www.spiegel.de/politik/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf](https://www.spiegel.de/politik/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf-a-f6646df5-11ee-4dec-a0dd-f909cc10725a#ref=rss)
+### bett
+
+* [https://www.spiegel.de/gesundheit/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf-podcast](https://www.spiegel.de/gesundheit/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf-podcast-a-de244185-49b1-41dc-b7f8-60306be3b30a#ref=rss)
+* [https://www.spiegel.de/politik/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf](https://www.spiegel.de/politik/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf-a-f6646df5-11ee-4dec-a0dd-f909cc10725a#ref=rss)
+### zweckentfremden
+
+* [https://www.spiegel.de/gesundheit/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf-podcast](https://www.spiegel.de/gesundheit/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf-podcast-a-de244185-49b1-41dc-b7f8-60306be3b30a#ref=rss)
+* [https://www.spiegel.de/politik/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf](https://www.spiegel.de/politik/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf-a-f6646df5-11ee-4dec-a0dd-f909cc10725a#ref=rss)
+### abends
+
+* [https://www.spiegel.de/gesundheit/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf-podcast](https://www.spiegel.de/gesundheit/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf-podcast-a-de244185-49b1-41dc-b7f8-60306be3b30a#ref=rss)
+* [https://www.spiegel.de/politik/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf](https://www.spiegel.de/politik/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf-a-f6646df5-11ee-4dec-a0dd-f909cc10725a#ref=rss)
+### alkohol
+
+* [https://www.spiegel.de/gesundheit/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf-podcast](https://www.spiegel.de/gesundheit/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf-podcast-a-de244185-49b1-41dc-b7f8-60306be3b30a#ref=rss)
+* [https://www.spiegel.de/politik/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf](https://www.spiegel.de/politik/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf-a-f6646df5-11ee-4dec-a0dd-f909cc10725a#ref=rss)
+### trinken
+
+* [https://www.spiegel.de/gesundheit/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf-podcast](https://www.spiegel.de/gesundheit/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf-podcast-a-de244185-49b1-41dc-b7f8-60306be3b30a#ref=rss)
+* [https://www.spiegel.de/politik/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf](https://www.spiegel.de/politik/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf-a-f6646df5-11ee-4dec-a0dd-f909cc10725a#ref=rss)
+### thema
+
+* [https://www.spiegel.de/gesundheit/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf-podcast](https://www.spiegel.de/gesundheit/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf-podcast-a-de244185-49b1-41dc-b7f8-60306be3b30a#ref=rss)
+* [https://www.spiegel.de/politik/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf](https://www.spiegel.de/politik/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf-a-f6646df5-11ee-4dec-a0dd-f909cc10725a#ref=rss)
+### falsch
+
+* [https://www.spiegel.de/gesundheit/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf-podcast](https://www.spiegel.de/gesundheit/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf-podcast-a-de244185-49b1-41dc-b7f8-60306be3b30a#ref=rss)
+* [https://www.spiegel.de/politik/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf](https://www.spiegel.de/politik/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf-a-f6646df5-11ee-4dec-a0dd-f909cc10725a#ref=rss)
+### besser
+
+* [https://www.spiegel.de/gesundheit/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf-podcast](https://www.spiegel.de/gesundheit/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf-podcast-a-de244185-49b1-41dc-b7f8-60306be3b30a#ref=rss)
+* [https://www.spiegel.de/politik/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf](https://www.spiegel.de/politik/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf-a-f6646df5-11ee-4dec-a0dd-f909cc10725a#ref=rss)
+### spiegelredakteurin
+
+* [https://www.spiegel.de/gesundheit/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf-podcast](https://www.spiegel.de/gesundheit/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf-podcast-a-de244185-49b1-41dc-b7f8-60306be3b30a#ref=rss)
+* [https://www.spiegel.de/politik/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf](https://www.spiegel.de/politik/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf-a-f6646df5-11ee-4dec-a0dd-f909cc10725a#ref=rss)
+### gesundheitsexpertin
+
+* [https://www.spiegel.de/gesundheit/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf-podcast](https://www.spiegel.de/gesundheit/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf-podcast-a-de244185-49b1-41dc-b7f8-60306be3b30a#ref=rss)
+* [https://www.spiegel.de/politik/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf](https://www.spiegel.de/politik/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf-a-f6646df5-11ee-4dec-a0dd-f909cc10725a#ref=rss)
+### nina
+
+* [https://www.spiegel.de/gesundheit/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf-podcast](https://www.spiegel.de/gesundheit/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf-podcast-a-de244185-49b1-41dc-b7f8-60306be3b30a#ref=rss)
+* [https://www.spiegel.de/politik/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf](https://www.spiegel.de/politik/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf-a-f6646df5-11ee-4dec-a0dd-f909cc10725a#ref=rss)
+### weber
+
+* [https://www.spiegel.de/gesundheit/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf-podcast](https://www.spiegel.de/gesundheit/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf-podcast-a-de244185-49b1-41dc-b7f8-60306be3b30a#ref=rss)
+* [https://www.spiegel.de/politik/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf](https://www.spiegel.de/politik/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf-a-f6646df5-11ee-4dec-a0dd-f909cc10725a#ref=rss)
+### klärt
+
+* [https://www.spiegel.de/gesundheit/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf-podcast](https://www.spiegel.de/gesundheit/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf-podcast-a-de244185-49b1-41dc-b7f8-60306be3b30a#ref=rss)
+* [https://www.spiegel.de/politik/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf](https://www.spiegel.de/politik/schlafmangel-unruhige-naechte-was-tun-fuer-erholsamen-schlaf-a-f6646df5-11ee-4dec-a0dd-f909cc10725a#ref=rss)
+### oury
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-oury-jalloh-jean-marie-le-pen-gestorben-richtungswechsel-bei-instagram-und-facebook](https://www.spiegel.de/politik/deutschland/news-des-tages-oury-jalloh-jean-marie-le-pen-gestorben-richtungswechsel-bei-instagram-und-facebook-a-79afb9dc-70fe-45d8-91f2-c1edf460af2c#ref=rss)
+### jalloh
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-oury-jalloh-jean-marie-le-pen-gestorben-richtungswechsel-bei-instagram-und-facebook](https://www.spiegel.de/politik/deutschland/news-des-tages-oury-jalloh-jean-marie-le-pen-gestorben-richtungswechsel-bei-instagram-und-facebook-a-79afb9dc-70fe-45d8-91f2-c1edf460af2c#ref=rss)
+### gestorben
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-oury-jalloh-jean-marie-le-pen-gestorben-richtungswechsel-bei-instagram-und-facebook](https://www.spiegel.de/politik/deutschland/news-des-tages-oury-jalloh-jean-marie-le-pen-gestorben-richtungswechsel-bei-instagram-und-facebook-a-79afb9dc-70fe-45d8-91f2-c1edf460af2c#ref=rss)
+### instagram
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-oury-jalloh-jean-marie-le-pen-gestorben-richtungswechsel-bei-instagram-und-facebook](https://www.spiegel.de/politik/deutschland/news-des-tages-oury-jalloh-jean-marie-le-pen-gestorben-richtungswechsel-bei-instagram-und-facebook-a-79afb9dc-70fe-45d8-91f2-c1edf460af2c#ref=rss)
+### facebook
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-oury-jalloh-jean-marie-le-pen-gestorben-richtungswechsel-bei-instagram-und-facebook](https://www.spiegel.de/politik/deutschland/news-des-tages-oury-jalloh-jean-marie-le-pen-gestorben-richtungswechsel-bei-instagram-und-facebook-a-79afb9dc-70fe-45d8-91f2-c1edf460af2c#ref=rss)
+### kündigt
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-oury-jalloh-jean-marie-le-pen-gestorben-richtungswechsel-bei-instagram-und-facebook](https://www.spiegel.de/politik/deutschland/news-des-tages-oury-jalloh-jean-marie-le-pen-gestorben-richtungswechsel-bei-instagram-und-facebook-a-79afb9dc-70fe-45d8-91f2-c1edf460af2c#ref=rss)
+* [https://www.spiegel.de/auto/mexiko-regierung-kuendigt-bau-von-guenstigen-elektroautos-an-ohne-tesla](https://www.spiegel.de/auto/mexiko-regierung-kuendigt-bau-von-guenstigen-elektroautos-an-ohne-tesla-a-7cd91d72-7d6e-4fdd-8320-cb154e22f5a1#ref=rss)
+### lage
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-oury-jalloh-jean-marie-le-pen-gestorben-richtungswechsel-bei-instagram-und-facebook](https://www.spiegel.de/politik/deutschland/news-des-tages-oury-jalloh-jean-marie-le-pen-gestorben-richtungswechsel-bei-instagram-und-facebook-a-79afb9dc-70fe-45d8-91f2-c1edf460af2c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/baubranche-oekonomen-erwarten-trendwende](https://www.spiegel.de/wirtschaft/unternehmen/baubranche-oekonomen-erwarten-trendwende-a-f2924aaf-9cc5-41ee-a29f-c7ec989a2d55#ref=rss)
+### sudan
+
+* [https://www.spiegel.de/ausland/sudan-usa-sprechen-von-voelkermord-und-erlassen-sanktionen-gegen-mohamed-hamdan-daglo](https://www.spiegel.de/ausland/sudan-usa-sprechen-von-voelkermord-und-erlassen-sanktionen-gegen-mohamed-hamdan-daglo-a-bf673fbc-afdb-4fc6-b60a-cd110873a5a0#ref=rss)
+### frauen
+
+* [https://www.spiegel.de/ausland/sudan-usa-sprechen-von-voelkermord-und-erlassen-sanktionen-gegen-mohamed-hamdan-daglo](https://www.spiegel.de/ausland/sudan-usa-sprechen-von-voelkermord-und-erlassen-sanktionen-gegen-mohamed-hamdan-daglo-a-bf673fbc-afdb-4fc6-b60a-cd110873a5a0#ref=rss)
+* [https://www.spiegel.de/ausland/todesstrafe-so-viele-hinrichtungen-in-iran-wie-seit-2015-nicht-mehr](https://www.spiegel.de/ausland/todesstrafe-so-viele-hinrichtungen-in-iran-wie-seit-2015-nicht-mehr-a-f9318106-4a98-4412-9997-b3a2d42fb03b#ref=rss)
+### region
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-kiews-truppen-ruecken-offenbar-in-der-region-kursk-vor](https://www.spiegel.de/ausland/russland-ukraine-krieg-kiews-truppen-ruecken-offenbar-in-der-region-kursk-vor-a-8c719de9-4521-4105-9330-e6907e5cb402#ref=rss)
+* [https://www.spiegel.de/start/ausbildung-abgebrochen-wo-besonders-viele-azubis-nicht-mehr-arbeiten-wollen](https://www.spiegel.de/start/ausbildung-abgebrochen-wo-besonders-viele-azubis-nicht-mehr-arbeiten-wollen-a-8de03f18-286e-4fc2-adb6-aeb0bfbbaaf9#ref=rss)
+### kursk
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-kiews-truppen-ruecken-offenbar-in-der-region-kursk-vor](https://www.spiegel.de/ausland/russland-ukraine-krieg-kiews-truppen-ruecken-offenbar-in-der-region-kursk-vor-a-8c719de9-4521-4105-9330-e6907e5cb402#ref=rss)
+### vergangenen
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-kiews-truppen-ruecken-offenbar-in-der-region-kursk-vor](https://www.spiegel.de/ausland/russland-ukraine-krieg-kiews-truppen-ruecken-offenbar-in-der-region-kursk-vor-a-8c719de9-4521-4105-9330-e6907e5cb402#ref=rss)
+* [https://www.spiegel.de/ausland/todesstrafe-so-viele-hinrichtungen-in-iran-wie-seit-2015-nicht-mehr](https://www.spiegel.de/ausland/todesstrafe-so-viele-hinrichtungen-in-iran-wie-seit-2015-nicht-mehr-a-f9318106-4a98-4412-9997-b3a2d42fb03b#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/bildung/berlin-polizei-ermittelt-nach-antiisraelischer-hoersaalbesetzung](https://www.spiegel.de/panorama/bildung/berlin-polizei-ermittelt-nach-antiisraelischer-hoersaalbesetzung-a-9310f598-d1c8-4e9c-ac23-661f2ebcce25#ref=rss)
+### ermittelt
+
+* [https://www.spiegel.de/panorama/bildung/berlin-polizei-ermittelt-nach-antiisraelischer-hoersaalbesetzung](https://www.spiegel.de/panorama/bildung/berlin-polizei-ermittelt-nach-antiisraelischer-hoersaalbesetzung-a-9310f598-d1c8-4e9c-ac23-661f2ebcce25#ref=rss)
+### montag
+
+* [https://www.spiegel.de/panorama/bildung/berlin-polizei-ermittelt-nach-antiisraelischer-hoersaalbesetzung](https://www.spiegel.de/panorama/bildung/berlin-polizei-ermittelt-nach-antiisraelischer-hoersaalbesetzung-a-9310f598-d1c8-4e9c-ac23-661f2ebcce25#ref=rss)
+* [https://www.spiegel.de/panorama/usa-wintersturm-bringt-schnee-und-eis-nach-washington-massen-schneeballschlacht-entfacht](https://www.spiegel.de/panorama/usa-wintersturm-bringt-schnee-und-eis-nach-washington-massen-schneeballschlacht-entfacht-a-c30b0adf-9eed-48c1-8079-33eec418865d#ref=rss)
+### tibet
+
+* [https://www.spiegel.de/panorama/tibet-mindestens-126-tote-bei-schwerem-erdbeben](https://www.spiegel.de/panorama/tibet-mindestens-126-tote-bei-schwerem-erdbeben-a-8b05a4cf-df8f-44ef-8382-04d93b1de5a2#ref=rss)
+### erdbeben
+
+* [https://www.spiegel.de/panorama/tibet-mindestens-126-tote-bei-schwerem-erdbeben](https://www.spiegel.de/panorama/tibet-mindestens-126-tote-bei-schwerem-erdbeben-a-8b05a4cf-df8f-44ef-8382-04d93b1de5a2#ref=rss)
+### china
+
+* [https://www.spiegel.de/panorama/tibet-mindestens-126-tote-bei-schwerem-erdbeben](https://www.spiegel.de/panorama/tibet-mindestens-126-tote-bei-schwerem-erdbeben-a-8b05a4cf-df8f-44ef-8382-04d93b1de5a2#ref=rss)
+* [https://www.spiegel.de/ausland/todesstrafe-so-viele-hinrichtungen-in-iran-wie-seit-2015-nicht-mehr](https://www.spiegel.de/ausland/todesstrafe-so-viele-hinrichtungen-in-iran-wie-seit-2015-nicht-mehr-a-f9318106-4a98-4412-9997-b3a2d42fb03b#ref=rss)
+### partei
+
+* [https://www.spiegel.de/ausland/jean-marie-le-pen-nachruf-auf-den-begruender-der-rechtsextremen-partei-front-national](https://www.spiegel.de/ausland/jean-marie-le-pen-nachruf-auf-den-begruender-der-rechtsextremen-partei-front-national-a-f8abaab6-b387-40c7-b0c2-023a08867ac1#ref=rss)
+### tochter
+
+* [https://www.spiegel.de/ausland/jean-marie-le-pen-nachruf-auf-den-begruender-der-rechtsextremen-partei-front-national](https://www.spiegel.de/ausland/jean-marie-le-pen-nachruf-auf-den-begruender-der-rechtsextremen-partei-front-national-a-f8abaab6-b387-40c7-b0c2-023a08867ac1#ref=rss)
+* [https://www.spiegel.de/panorama/leute/naomi-osaka-tennis-star-gibt-trennung-von-freund-cordae-bekannt](https://www.spiegel.de/panorama/leute/naomi-osaka-tennis-star-gibt-trennung-von-freund-cordae-bekannt-a-6621ad7e-97b7-4169-bd18-1875df40ea12#ref=rss)
+### deal
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/spacex-und-giorgia-meloni-moeglicher-deal-fuer-sicheres-regierungsnetz-in-italien](https://www.spiegel.de/netzwelt/netzpolitik/spacex-und-giorgia-meloni-moeglicher-deal-fuer-sicheres-regierungsnetz-in-italien-a-b0022912-040e-43a4-8b77-82bd688140a5#ref=rss)
+### sicheres
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/spacex-und-giorgia-meloni-moeglicher-deal-fuer-sicheres-regierungsnetz-in-italien](https://www.spiegel.de/netzwelt/netzpolitik/spacex-und-giorgia-meloni-moeglicher-deal-fuer-sicheres-regierungsnetz-in-italien-a-b0022912-040e-43a4-8b77-82bd688140a5#ref=rss)
+### regierungsnetz
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/spacex-und-giorgia-meloni-moeglicher-deal-fuer-sicheres-regierungsnetz-in-italien](https://www.spiegel.de/netzwelt/netzpolitik/spacex-und-giorgia-meloni-moeglicher-deal-fuer-sicheres-regierungsnetz-in-italien-a-b0022912-040e-43a4-8b77-82bd688140a5#ref=rss)
+### italien
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/spacex-und-giorgia-meloni-moeglicher-deal-fuer-sicheres-regierungsnetz-in-italien](https://www.spiegel.de/netzwelt/netzpolitik/spacex-und-giorgia-meloni-moeglicher-deal-fuer-sicheres-regierungsnetz-in-italien-a-b0022912-040e-43a4-8b77-82bd688140a5#ref=rss)
+### niemand
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/spacex-und-giorgia-meloni-moeglicher-deal-fuer-sicheres-regierungsnetz-in-italien](https://www.spiegel.de/netzwelt/netzpolitik/spacex-und-giorgia-meloni-moeglicher-deal-fuer-sicheres-regierungsnetz-in-italien-a-b0022912-040e-43a4-8b77-82bd688140a5#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-fpoe-chef-herbert-kickl-verspricht-neue-aera-und-will-mit-oevp-regieren](https://www.spiegel.de/ausland/oesterreich-fpoe-chef-herbert-kickl-verspricht-neue-aera-und-will-mit-oevp-regieren-a-09591dd8-d57f-4c79-ba65-385aa30d364d#ref=rss)
+### donald
+
+* [https://www.spiegel.de/wirtschaft/tesla-starlink-spacex-wie-elon-musk-geschaeftliche-und-politische-interessen-verquickt](https://www.spiegel.de/wirtschaft/tesla-starlink-spacex-wie-elon-musk-geschaeftliche-und-politische-interessen-verquickt-a-45c862fb-50ab-4194-8316-0ff6682ff581#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/michael-barr-fed-vize-tritt-vorzeitig-ab-und-vermeidet-rechtsstreit-mit-donald-trump](https://www.spiegel.de/wirtschaft/service/michael-barr-fed-vize-tritt-vorzeitig-ab-und-vermeidet-rechtsstreit-mit-donald-trump-a-00daa65e-73f9-4163-b2bc-2b412332a489#ref=rss)
+### övp
+
+* [https://www.spiegel.de/ausland/oesterreich-fpoe-chef-herbert-kickl-verspricht-neue-aera-und-will-mit-oevp-regieren](https://www.spiegel.de/ausland/oesterreich-fpoe-chef-herbert-kickl-verspricht-neue-aera-und-will-mit-oevp-regieren-a-09591dd8-d57f-4c79-ba65-385aa30d364d#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/ausland/oesterreich-fpoe-chef-herbert-kickl-verspricht-neue-aera-und-will-mit-oevp-regieren](https://www.spiegel.de/ausland/oesterreich-fpoe-chef-herbert-kickl-verspricht-neue-aera-und-will-mit-oevp-regieren-a-09591dd8-d57f-4c79-ba65-385aa30d364d#ref=rss)
+* [https://www.spiegel.de/auto/mexiko-regierung-kuendigt-bau-von-guenstigen-elektroautos-an-ohne-tesla](https://www.spiegel.de/auto/mexiko-regierung-kuendigt-bau-von-guenstigen-elektroautos-an-ohne-tesla-a-7cd91d72-7d6e-4fdd-8320-cb154e22f5a1#ref=rss)
+### naomi
+
+* [https://www.spiegel.de/panorama/leute/naomi-osaka-tennis-star-gibt-trennung-von-freund-cordae-bekannt](https://www.spiegel.de/panorama/leute/naomi-osaka-tennis-star-gibt-trennung-von-freund-cordae-bekannt-a-6621ad7e-97b7-4169-bd18-1875df40ea12#ref=rss)
+### osaka
+
+* [https://www.spiegel.de/panorama/leute/naomi-osaka-tennis-star-gibt-trennung-von-freund-cordae-bekannt](https://www.spiegel.de/panorama/leute/naomi-osaka-tennis-star-gibt-trennung-von-freund-cordae-bekannt-a-6621ad7e-97b7-4169-bd18-1875df40ea12#ref=rss)
+### cordae
+
+* [https://www.spiegel.de/panorama/leute/naomi-osaka-tennis-star-gibt-trennung-von-freund-cordae-bekannt](https://www.spiegel.de/panorama/leute/naomi-osaka-tennis-star-gibt-trennung-von-freund-cordae-bekannt-a-6621ad7e-97b7-4169-bd18-1875df40ea12#ref=rss)
+### syrien
+
+* [https://www.spiegel.de/ausland/syrien-annalena-baerbock-in-damaskus-die-bedeutung-eines-handschlags-in-syrien](https://www.spiegel.de/ausland/syrien-annalena-baerbock-in-damaskus-die-bedeutung-eines-handschlags-in-syrien-a-e056667b-7c37-4da4-9e29-82f12ec9b1c6#ref=rss)
+### damaskus
+
+* [https://www.spiegel.de/ausland/syrien-annalena-baerbock-in-damaskus-die-bedeutung-eines-handschlags-in-syrien](https://www.spiegel.de/ausland/syrien-annalena-baerbock-in-damaskus-die-bedeutung-eines-handschlags-in-syrien-a-e056667b-7c37-4da4-9e29-82f12ec9b1c6#ref=rss)
+### hinrichtungen
+
+* [https://www.spiegel.de/ausland/todesstrafe-so-viele-hinrichtungen-in-iran-wie-seit-2015-nicht-mehr](https://www.spiegel.de/ausland/todesstrafe-so-viele-hinrichtungen-in-iran-wie-seit-2015-nicht-mehr-a-f9318106-4a98-4412-9997-b3a2d42fb03b#ref=rss)
+### iran
+
+* [https://www.spiegel.de/ausland/todesstrafe-so-viele-hinrichtungen-in-iran-wie-seit-2015-nicht-mehr](https://www.spiegel.de/ausland/todesstrafe-so-viele-hinrichtungen-in-iran-wie-seit-2015-nicht-mehr-a-f9318106-4a98-4412-9997-b3a2d42fb03b#ref=rss)
+### land
+
+* [https://www.spiegel.de/ausland/todesstrafe-so-viele-hinrichtungen-in-iran-wie-seit-2015-nicht-mehr](https://www.spiegel.de/ausland/todesstrafe-so-viele-hinrichtungen-in-iran-wie-seit-2015-nicht-mehr-a-f9318106-4a98-4412-9997-b3a2d42fb03b#ref=rss)
+* [https://www.spiegel.de/auto/mexiko-regierung-kuendigt-bau-von-guenstigen-elektroautos-an-ohne-tesla](https://www.spiegel.de/auto/mexiko-regierung-kuendigt-bau-von-guenstigen-elektroautos-an-ohne-tesla-a-7cd91d72-7d6e-4fdd-8320-cb154e22f5a1#ref=rss)
+### stieg
+
+* [https://www.spiegel.de/ausland/todesstrafe-so-viele-hinrichtungen-in-iran-wie-seit-2015-nicht-mehr](https://www.spiegel.de/ausland/todesstrafe-so-viele-hinrichtungen-in-iran-wie-seit-2015-nicht-mehr-a-f9318106-4a98-4412-9997-b3a2d42fb03b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/volvo-erzielt-2024-rekordabsatz-dank-elektroautos](https://www.spiegel.de/wirtschaft/volvo-erzielt-2024-rekordabsatz-dank-elektroautos-a-7d81f410-9a5b-4a36-89db-783b9c159e5a#ref=rss)
+### mexiko
+
+* [https://www.spiegel.de/auto/mexiko-regierung-kuendigt-bau-von-guenstigen-elektroautos-an-ohne-tesla](https://www.spiegel.de/auto/mexiko-regierung-kuendigt-bau-von-guenstigen-elektroautos-an-ohne-tesla-a-7cd91d72-7d6e-4fdd-8320-cb154e22f5a1#ref=rss)
+### elektroautos
+
+* [https://www.spiegel.de/auto/mexiko-regierung-kuendigt-bau-von-guenstigen-elektroautos-an-ohne-tesla](https://www.spiegel.de/auto/mexiko-regierung-kuendigt-bau-von-guenstigen-elektroautos-an-ohne-tesla-a-7cd91d72-7d6e-4fdd-8320-cb154e22f5a1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/volvo-erzielt-2024-rekordabsatz-dank-elektroautos](https://www.spiegel.de/wirtschaft/volvo-erzielt-2024-rekordabsatz-dank-elektroautos-a-7d81f410-9a5b-4a36-89db-783b9c159e5a#ref=rss)
+### 2026
+
+* [https://www.spiegel.de/auto/mexiko-regierung-kuendigt-bau-von-guenstigen-elektroautos-an-ohne-tesla](https://www.spiegel.de/auto/mexiko-regierung-kuendigt-bau-von-guenstigen-elektroautos-an-ohne-tesla-a-7cd91d72-7d6e-4fdd-8320-cb154e22f5a1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/baubranche-oekonomen-erwarten-trendwende](https://www.spiegel.de/wirtschaft/unternehmen/baubranche-oekonomen-erwarten-trendwende-a-f2924aaf-9cc5-41ee-a29f-c7ec989a2d55#ref=rss)
+### michael
+
+* [https://www.spiegel.de/wirtschaft/service/michael-barr-fed-vize-tritt-vorzeitig-ab-und-vermeidet-rechtsstreit-mit-donald-trump](https://www.spiegel.de/wirtschaft/service/michael-barr-fed-vize-tritt-vorzeitig-ab-und-vermeidet-rechtsstreit-mit-donald-trump-a-00daa65e-73f9-4163-b2bc-2b412332a489#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/ausland/donald-trump-bringt-nach-justin-trudeaus-rueckzug-erneut-fusion-von-usa-und-kanada-ins-spiel](https://www.spiegel.de/ausland/donald-trump-bringt-nach-justin-trudeaus-rueckzug-erneut-fusion-von-usa-und-kanada-ins-spiel-a-10931243-7df0-4385-a67d-e29e3b467903#ref=rss)
-### stunden
+* [https://www.spiegel.de/wirtschaft/service/michael-barr-fed-vize-tritt-vorzeitig-ab-und-vermeidet-rechtsstreit-mit-donald-trump](https://www.spiegel.de/wirtschaft/service/michael-barr-fed-vize-tritt-vorzeitig-ab-und-vermeidet-rechtsstreit-mit-donald-trump-a-00daa65e-73f9-4163-b2bc-2b412332a489#ref=rss)
+### volvo
 
-* [https://www.spiegel.de/wirtschaft/service/pendler-stehen-im-schnitt-43-stunden-im-stau](https://www.spiegel.de/wirtschaft/service/pendler-stehen-im-schnitt-43-stunden-im-stau-a-8b650201-6fe0-40c9-9e50-655309f59c65#ref=rss)
-### tipps
+* [https://www.spiegel.de/wirtschaft/volvo-erzielt-2024-rekordabsatz-dank-elektroautos](https://www.spiegel.de/wirtschaft/volvo-erzielt-2024-rekordabsatz-dank-elektroautos-a-7d81f410-9a5b-4a36-89db-783b9c159e5a#ref=rss)
+### 2024
 
-* [https://www.spiegel.de/reise/tipps-fuer-die-urlaubsbuchung-2025-so-kommen-sie-sicher-und-guenstig-weg](https://www.spiegel.de/reise/tipps-fuer-die-urlaubsbuchung-2025-so-kommen-sie-sicher-und-guenstig-weg-a-bfbddc1b-6f8c-46ca-82d8-c89c3fc828f1#ref=rss)
-### olaf
+* [https://www.spiegel.de/wirtschaft/volvo-erzielt-2024-rekordabsatz-dank-elektroautos](https://www.spiegel.de/wirtschaft/volvo-erzielt-2024-rekordabsatz-dank-elektroautos-a-7d81f410-9a5b-4a36-89db-783b9c159e5a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/mogelpackung-des-jahres-mogelpackungen-verteuern-sich-um-bis-zu-150-prozent](https://www.spiegel.de/wirtschaft/service/mogelpackung-des-jahres-mogelpackungen-verteuern-sich-um-bis-zu-150-prozent-a-93e78735-a1f3-4e81-abea-1ac05daeebab#ref=rss)
+### rekordabsatz
 
-* [https://www.spiegel.de/politik/deutschland/robert-habeck-olaf-scholz-kritisiert-idee-vom-hoeheren-wehretat-als-unausgegoren](https://www.spiegel.de/politik/deutschland/robert-habeck-olaf-scholz-kritisiert-idee-vom-hoeheren-wehretat-als-unausgegoren-a-856086d9-1486-4b4b-b9d3-c54a7fa14574#ref=rss)
-### aubrey
+* [https://www.spiegel.de/wirtschaft/volvo-erzielt-2024-rekordabsatz-dank-elektroautos](https://www.spiegel.de/wirtschaft/volvo-erzielt-2024-rekordabsatz-dank-elektroautos-a-7d81f410-9a5b-4a36-89db-783b9c159e5a#ref=rss)
+### wintersturm
 
-* [https://www.spiegel.de/panorama/aubrey-plaza-aeussert-sich-erstmals-nach-tod-ihres-ehemannes-jeff-baena](https://www.spiegel.de/panorama/aubrey-plaza-aeussert-sich-erstmals-nach-tod-ihres-ehemannes-jeff-baena-a-ad0f4f73-b68b-48a9-9da2-6bb276fbdd49#ref=rss)
-### plaza
+* [https://www.spiegel.de/panorama/usa-wintersturm-bringt-schnee-und-eis-nach-washington-massen-schneeballschlacht-entfacht](https://www.spiegel.de/panorama/usa-wintersturm-bringt-schnee-und-eis-nach-washington-massen-schneeballschlacht-entfacht-a-c30b0adf-9eed-48c1-8079-33eec418865d#ref=rss)
+### schnee
 
-* [https://www.spiegel.de/panorama/aubrey-plaza-aeussert-sich-erstmals-nach-tod-ihres-ehemannes-jeff-baena](https://www.spiegel.de/panorama/aubrey-plaza-aeussert-sich-erstmals-nach-tod-ihres-ehemannes-jeff-baena-a-ad0f4f73-b68b-48a9-9da2-6bb276fbdd49#ref=rss)
-### jeff
+* [https://www.spiegel.de/panorama/usa-wintersturm-bringt-schnee-und-eis-nach-washington-massen-schneeballschlacht-entfacht](https://www.spiegel.de/panorama/usa-wintersturm-bringt-schnee-und-eis-nach-washington-massen-schneeballschlacht-entfacht-a-c30b0adf-9eed-48c1-8079-33eec418865d#ref=rss)
+### washington
 
-* [https://www.spiegel.de/panorama/aubrey-plaza-aeussert-sich-erstmals-nach-tod-ihres-ehemannes-jeff-baena](https://www.spiegel.de/panorama/aubrey-plaza-aeussert-sich-erstmals-nach-tod-ihres-ehemannes-jeff-baena-a-ad0f4f73-b68b-48a9-9da2-6bb276fbdd49#ref=rss)
-### baena
+* [https://www.spiegel.de/panorama/usa-wintersturm-bringt-schnee-und-eis-nach-washington-massen-schneeballschlacht-entfacht](https://www.spiegel.de/panorama/usa-wintersturm-bringt-schnee-und-eis-nach-washington-massen-schneeballschlacht-entfacht-a-c30b0adf-9eed-48c1-8079-33eec418865d#ref=rss)
+### betroffen
 
-* [https://www.spiegel.de/panorama/aubrey-plaza-aeussert-sich-erstmals-nach-tod-ihres-ehemannes-jeff-baena](https://www.spiegel.de/panorama/aubrey-plaza-aeussert-sich-erstmals-nach-tod-ihres-ehemannes-jeff-baena-a-ad0f4f73-b68b-48a9-9da2-6bb276fbdd49#ref=rss)
-### gemeinsamen
+* [https://www.spiegel.de/panorama/usa-wintersturm-bringt-schnee-und-eis-nach-washington-massen-schneeballschlacht-entfacht](https://www.spiegel.de/panorama/usa-wintersturm-bringt-schnee-und-eis-nach-washington-massen-schneeballschlacht-entfacht-a-c30b0adf-9eed-48c1-8079-33eec418865d#ref=rss)
+* [https://www.spiegel.de/start/ausbildung-abgebrochen-wo-besonders-viele-azubis-nicht-mehr-arbeiten-wollen](https://www.spiegel.de/start/ausbildung-abgebrochen-wo-besonders-viele-azubis-nicht-mehr-arbeiten-wollen-a-8de03f18-286e-4fc2-adb6-aeb0bfbbaaf9#ref=rss)
+### brandenburg
 
-* [https://www.spiegel.de/panorama/aubrey-plaza-aeussert-sich-erstmals-nach-tod-ihres-ehemannes-jeff-baena](https://www.spiegel.de/panorama/aubrey-plaza-aeussert-sich-erstmals-nach-tod-ihres-ehemannes-jeff-baena-a-ad0f4f73-b68b-48a9-9da2-6bb276fbdd49#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/geld-drei-hauptkonten-und-300-euro-taschengeld-fuer-jeden-so-regeln-anna-und-tom-ihre-finanzen](https://www.spiegel.de/wirtschaft/service/geld-drei-hauptkonten-und-300-euro-taschengeld-fuer-jeden-so-regeln-anna-und-tom-ihre-finanzen-a-bcf716dd-3e3d-40f5-a439-a77a05b7b041#ref=rss)
-### partnerschaft
+* [https://www.spiegel.de/panorama/justiz/lauchhammer-in-brandenburg-polizist-bei-fahrzeugkontrolle-ueberfahren-und-toedlich-verletzt](https://www.spiegel.de/panorama/justiz/lauchhammer-in-brandenburg-polizist-bei-fahrzeugkontrolle-ueberfahren-und-toedlich-verletzt-a-38404aa0-d377-4b29-bbd1-5bc51eb96702#ref=rss)
+### polizist
 
-* [https://www.spiegel.de/wirtschaft/service/geld-in-der-partnerschaft-getrennte-konten-fuer-claudia-und-andreas-kommt-das-nicht-infrage](https://www.spiegel.de/wirtschaft/service/geld-in-der-partnerschaft-getrennte-konten-fuer-claudia-und-andreas-kommt-das-nicht-infrage-a-aa9dc3e2-bfd7-434e-b4cb-38f52185993d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/geld-in-der-partnerschaft-so-teilen-sie-finanzen-in-der-beziehung-gerecht-auf](https://www.spiegel.de/wirtschaft/service/geld-in-der-partnerschaft-so-teilen-sie-finanzen-in-der-beziehung-gerecht-auf-a-5841e0c4-a5b8-4e70-ab99-e48f4bb77b72#ref=rss)
-### andreas
+* [https://www.spiegel.de/panorama/justiz/lauchhammer-in-brandenburg-polizist-bei-fahrzeugkontrolle-ueberfahren-und-toedlich-verletzt](https://www.spiegel.de/panorama/justiz/lauchhammer-in-brandenburg-polizist-bei-fahrzeugkontrolle-ueberfahren-und-toedlich-verletzt-a-38404aa0-d377-4b29-bbd1-5bc51eb96702#ref=rss)
+### besonders
 
-* [https://www.spiegel.de/wirtschaft/service/geld-in-der-partnerschaft-getrennte-konten-fuer-claudia-und-andreas-kommt-das-nicht-infrage](https://www.spiegel.de/wirtschaft/service/geld-in-der-partnerschaft-getrennte-konten-fuer-claudia-und-andreas-kommt-das-nicht-infrage-a-aa9dc3e2-bfd7-434e-b4cb-38f52185993d#ref=rss)
-### oft
+* [https://www.spiegel.de/start/ausbildung-abgebrochen-wo-besonders-viele-azubis-nicht-mehr-arbeiten-wollen](https://www.spiegel.de/start/ausbildung-abgebrochen-wo-besonders-viele-azubis-nicht-mehr-arbeiten-wollen-a-8de03f18-286e-4fc2-adb6-aeb0bfbbaaf9#ref=rss)
+### 150
 
-* [https://www.spiegel.de/wirtschaft/service/geld-in-der-partnerschaft-getrennte-konten-fuer-claudia-und-andreas-kommt-das-nicht-infrage](https://www.spiegel.de/wirtschaft/service/geld-in-der-partnerschaft-getrennte-konten-fuer-claudia-und-andreas-kommt-das-nicht-infrage-a-aa9dc3e2-bfd7-434e-b4cb-38f52185993d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/geld-in-der-partnerschaft-so-teilen-sie-finanzen-in-der-beziehung-gerecht-auf](https://www.spiegel.de/wirtschaft/service/geld-in-der-partnerschaft-so-teilen-sie-finanzen-in-der-beziehung-gerecht-auf-a-5841e0c4-a5b8-4e70-ab99-e48f4bb77b72#ref=rss)
-### regeln
+* [https://www.spiegel.de/wirtschaft/service/mogelpackung-des-jahres-mogelpackungen-verteuern-sich-um-bis-zu-150-prozent](https://www.spiegel.de/wirtschaft/service/mogelpackung-des-jahres-mogelpackungen-verteuern-sich-um-bis-zu-150-prozent-a-93e78735-a1f3-4e81-abea-1ac05daeebab#ref=rss)
+### prozent
 
-* [https://www.spiegel.de/wirtschaft/service/geld-drei-hauptkonten-und-300-euro-taschengeld-fuer-jeden-so-regeln-anna-und-tom-ihre-finanzen](https://www.spiegel.de/wirtschaft/service/geld-drei-hauptkonten-und-300-euro-taschengeld-fuer-jeden-so-regeln-anna-und-tom-ihre-finanzen-a-bcf716dd-3e3d-40f5-a439-a77a05b7b041#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/geld-in-der-partnerschaft-so-teilen-sie-finanzen-in-der-beziehung-gerecht-auf](https://www.spiegel.de/wirtschaft/service/geld-in-der-partnerschaft-so-teilen-sie-finanzen-in-der-beziehung-gerecht-auf-a-5841e0c4-a5b8-4e70-ab99-e48f4bb77b72#ref=rss)
-### tom
+* [https://www.spiegel.de/wirtschaft/service/mogelpackung-des-jahres-mogelpackungen-verteuern-sich-um-bis-zu-150-prozent](https://www.spiegel.de/wirtschaft/service/mogelpackung-des-jahres-mogelpackungen-verteuern-sich-um-bis-zu-150-prozent-a-93e78735-a1f3-4e81-abea-1ac05daeebab#ref=rss)
+### stark
 
-* [https://www.spiegel.de/wirtschaft/service/geld-drei-hauptkonten-und-300-euro-taschengeld-fuer-jeden-so-regeln-anna-und-tom-ihre-finanzen](https://www.spiegel.de/wirtschaft/service/geld-drei-hauptkonten-und-300-euro-taschengeld-fuer-jeden-so-regeln-anna-und-tom-ihre-finanzen-a-bcf716dd-3e3d-40f5-a439-a77a05b7b041#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/mogelpackung-des-jahres-mogelpackungen-verteuern-sich-um-bis-zu-150-prozent](https://www.spiegel.de/wirtschaft/service/mogelpackung-des-jahres-mogelpackungen-verteuern-sich-um-bis-zu-150-prozent-a-93e78735-a1f3-4e81-abea-1ac05daeebab#ref=rss)
+* [https://www.spiegel.de/kultur/getty-images-will-konkurrenten-shutterstock-kaufen](https://www.spiegel.de/kultur/getty-images-will-konkurrenten-shutterstock-kaufen-a-03a2d68c-1649-4a92-b600-b13d2b9dd0f0#ref=rss)
+### kunden
+
+* [https://www.spiegel.de/wirtschaft/service/mogelpackung-des-jahres-mogelpackungen-verteuern-sich-um-bis-zu-150-prozent](https://www.spiegel.de/wirtschaft/service/mogelpackung-des-jahres-mogelpackungen-verteuern-sich-um-bis-zu-150-prozent-a-93e78735-a1f3-4e81-abea-1ac05daeebab#ref=rss)
+* [https://www.spiegel.de/kultur/getty-images-will-konkurrenten-shutterstock-kaufen](https://www.spiegel.de/kultur/getty-images-will-konkurrenten-shutterstock-kaufen-a-03a2d68c-1649-4a92-b600-b13d2b9dd0f0#ref=rss)
+### getty
+
+* [https://www.spiegel.de/kultur/getty-images-will-konkurrenten-shutterstock-kaufen](https://www.spiegel.de/kultur/getty-images-will-konkurrenten-shutterstock-kaufen-a-03a2d68c-1649-4a92-b600-b13d2b9dd0f0#ref=rss)
+### images
+
+* [https://www.spiegel.de/kultur/getty-images-will-konkurrenten-shutterstock-kaufen](https://www.spiegel.de/kultur/getty-images-will-konkurrenten-shutterstock-kaufen-a-03a2d68c-1649-4a92-b600-b13d2b9dd0f0#ref=rss)
+### konkurrenten
+
+* [https://www.spiegel.de/kultur/getty-images-will-konkurrenten-shutterstock-kaufen](https://www.spiegel.de/kultur/getty-images-will-konkurrenten-shutterstock-kaufen-a-03a2d68c-1649-4a92-b600-b13d2b9dd0f0#ref=rss)
+### shutterstock
+
+* [https://www.spiegel.de/kultur/getty-images-will-konkurrenten-shutterstock-kaufen](https://www.spiegel.de/kultur/getty-images-will-konkurrenten-shutterstock-kaufen-a-03a2d68c-1649-4a92-b600-b13d2b9dd0f0#ref=rss)
+### fitnessstudio
+
+* [https://www.spiegel.de/fitness/mehr-kraft-und-bewegung-so-gelingt-der-start-im-fitnessstudio](https://www.spiegel.de/fitness/mehr-kraft-und-bewegung-so-gelingt-der-start-im-fitnessstudio-a-5fb368af-90f7-4281-ac53-2b61053f15b4#ref=rss)
+### baubranche
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/baubranche-oekonomen-erwarten-trendwende](https://www.spiegel.de/wirtschaft/unternehmen/baubranche-oekonomen-erwarten-trendwende-a-f2924aaf-9cc5-41ee-a29f-c7ec989a2d55#ref=rss)
 
