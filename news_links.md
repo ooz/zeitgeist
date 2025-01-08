@@ -4,381 +4,308 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### deutsche
-
-* [https://www.spiegel.de/wirtschaft/deutsche-bahn-2024-wo-die-bahn-besonders-unpuenktlich-ist-die-datenanalyse](https://www.spiegel.de/wirtschaft/deutsche-bahn-2024-wo-die-bahn-besonders-unpuenktlich-ist-die-datenanalyse-a-ae676ad1-f39f-46fc-b775-1ecaea6a71ab#ref=rss)
-* [https://www.spiegel.de/panorama/ns-gedenken-wie-der-deutsche-staat-einstige-kz-areale-verkauft-und-an-wen](https://www.spiegel.de/panorama/ns-gedenken-wie-der-deutsche-staat-einstige-kz-areale-verkauft-und-an-wen-a-384041a2-52cb-4f19-8baa-69836c367c72#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-was-deutsche-politiker-ueber-seine-nato-forderung-sagen-die-reaktionen](https://www.spiegel.de/ausland/donald-trump-was-deutsche-politiker-ueber-seine-nato-forderung-sagen-die-reaktionen-a-a92385b7-2cca-4572-b606-08a3b02290cd#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/wirtschaft/deutsche-bahn-2024-wo-die-bahn-besonders-unpuenktlich-ist-die-datenanalyse](https://www.spiegel.de/wirtschaft/deutsche-bahn-2024-wo-die-bahn-besonders-unpuenktlich-ist-die-datenanalyse-a-ae676ad1-f39f-46fc-b775-1ecaea6a71ab#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/einzelhandelsumsatz-2024-gestiegen-mehr-konsum-dank-gesunkener-inflation](https://www.spiegel.de/wirtschaft/unternehmen/einzelhandelsumsatz-2024-gestiegen-mehr-konsum-dank-gesunkener-inflation-a-eec9da9b-5415-4e3f-bea7-1f36ba17859b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutschland-zahl-der-start-ups-gestiegen](https://www.spiegel.de/wirtschaft/unternehmen/deutschland-zahl-der-start-ups-gestiegen-a-771a8876-26d5-4153-995d-942357bbb256#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/one-direction-zweiter-verdaechtiger-stellt-sich-nach-tod-von-popstar-payne](https://www.spiegel.de/panorama/justiz/one-direction-zweiter-verdaechtiger-stellt-sich-nach-tod-von-popstar-payne-a-fde7d98b-b45b-407f-9098-cab917876429#ref=rss)
-* [https://www.spiegel.de/sport/fussball/abschied-von-didier-deschamps-als-frankreichs-nationaltrainer-steht-bevor](https://www.spiegel.de/sport/fussball/abschied-von-didier-deschamps-als-frankreichs-nationaltrainer-steht-bevor-a-97dc5774-a7f8-44a4-ad0d-46036217a618#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/jimmy-carter-sarg-des-ex-us-praesidenten-im-kapitol-aufgebahrt](https://www.spiegel.de/ausland/jimmy-carter-sarg-des-ex-us-praesidenten-im-kapitol-aufgebahrt-a-4f75417e-a35c-40f2-a62a-4374f2f5eb78#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-kanada-und-groenland-wie-ernst-sind-seine-grossmachtgelueste-zu-nehmen](https://www.spiegel.de/ausland/donald-trump-kanada-und-groenland-wie-ernst-sind-seine-grossmachtgelueste-zu-nehmen-a-e7b7b17a-9641-4d78-ae6e-0ca953e123ba#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-was-deutsche-politiker-ueber-seine-nato-forderung-sagen-die-reaktionen](https://www.spiegel.de/ausland/donald-trump-was-deutsche-politiker-ueber-seine-nato-forderung-sagen-die-reaktionen-a-a92385b7-2cca-4572-b606-08a3b02290cd#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/jimmy-carter-sarg-des-ex-us-praesidenten-im-kapitol-aufgebahrt](https://www.spiegel.de/ausland/jimmy-carter-sarg-des-ex-us-praesidenten-im-kapitol-aufgebahrt-a-4f75417e-a35c-40f2-a62a-4374f2f5eb78#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-kanada-und-groenland-wie-ernst-sind-seine-grossmachtgelueste-zu-nehmen](https://www.spiegel.de/ausland/donald-trump-kanada-und-groenland-wie-ernst-sind-seine-grossmachtgelueste-zu-nehmen-a-e7b7b17a-9641-4d78-ae6e-0ca953e123ba#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-was-deutsche-politiker-ueber-seine-nato-forderung-sagen-die-reaktionen](https://www.spiegel.de/ausland/donald-trump-was-deutsche-politiker-ueber-seine-nato-forderung-sagen-die-reaktionen-a-a92385b7-2cca-4572-b606-08a3b02290cd#ref=rss)
-### tom
-
-* [https://www.spiegel.de/panorama/leute/zendaya-verlobt-mit-tom-holland-ihr-vater-spricht-ueber-geruechte-haufen-mist](https://www.spiegel.de/panorama/leute/zendaya-verlobt-mit-tom-holland-ihr-vater-spricht-ueber-geruechte-haufen-mist-a-c4403d2d-41f5-4c9e-863e-87afd748a648#ref=rss)
-* [https://www.spiegel.de/sport/american-football/kurz-nach-einstieg-von-tom-brady-feuern-die-las-vegas-raiders-den-coach-antonio-pierce](https://www.spiegel.de/sport/american-football/kurz-nach-einstieg-von-tom-brady-feuern-die-las-vegas-raiders-den-coach-antonio-pierce-a-c992d5b2-01d6-4baf-966b-854f55b9508c#ref=rss)
-### mann
-
-* [https://www.spiegel.de/kultur/literatur/wackelkontakt-von-wolf-haas-schon-jetzt-das-lieblingsbuch-des-jahres](https://www.spiegel.de/kultur/literatur/wackelkontakt-von-wolf-haas-schon-jetzt-das-lieblingsbuch-des-jahres-a-b7ccd6fb-4bc2-4621-8176-592d872931d9#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/cybertruck-explosion-verdaechtiger-soll-chatgpt-zur-planung-genutzt-haben](https://www.spiegel.de/netzwelt/web/cybertruck-explosion-verdaechtiger-soll-chatgpt-zur-planung-genutzt-haben-a-54f869c8-d224-40ba-b960-9c2731e251b2#ref=rss)
-### deutlich
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutschland-zahl-der-start-ups-gestiegen](https://www.spiegel.de/wirtschaft/unternehmen/deutschland-zahl-der-start-ups-gestiegen-a-771a8876-26d5-4153-995d-942357bbb256#ref=rss)
-* [https://www.spiegel.de/ausland/jean-marie-le-pen-hunderte-feiern-tod-des-rechtsextremen-politikers-in-frankreich](https://www.spiegel.de/ausland/jean-marie-le-pen-hunderte-feiern-tod-des-rechtsextremen-politikers-in-frankreich-a-66504ab3-da19-4bd2-8ead-1ef0cb573bb4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/daniel-guenther-empfiehlt-markus-soeder-einfach-den-mund-zu-halten](https://www.spiegel.de/politik/deutschland/daniel-guenther-empfiehlt-markus-soeder-einfach-den-mund-zu-halten-a-1ce5e0be-f9df-4292-9d4a-1b76047ac234#ref=rss)
-* [https://www.spiegel.de/familie/vaeter-in-elternzeit-warum-sich-immer-noch-vor-allem-muetter-um-die-kinder-kuemmern](https://www.spiegel.de/familie/vaeter-in-elternzeit-warum-sich-immer-noch-vor-allem-muetter-um-die-kinder-kuemmern-a-a0735e26-30ca-4d5b-b62d-17f2681bd5ff#ref=rss)
-### essen
-
-* [https://www.spiegel.de/gesundheit/gesundheit-bewusster-ernaehren-besser-essen-podcast-smarter-leben](https://www.spiegel.de/gesundheit/gesundheit-bewusster-ernaehren-besser-essen-podcast-smarter-leben-a-fef55606-0160-4523-8653-a8bf8b61850a#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung/blaehbauch-und-ernaehrung-ist-falsches-essen-die-ursache](https://www.spiegel.de/gesundheit/ernaehrung/blaehbauch-und-ernaehrung-ist-falsches-essen-die-ursache-a-e94eba1a-24d5-458d-bcf4-f6414ee12934#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-drohnen-greifen-erneut-ziele-in-russland-an](https://www.spiegel.de/ausland/ukraine-krieg-drohnen-greifen-erneut-ziele-in-russland-an-a-88f184f2-ce56-47c9-a7e5-6ddb5a998fb5#ref=rss)
-### nehmen
-
-* [https://www.spiegel.de/kultur/kino/lively-baldoni-streit-anwalt-justin-baldonis-droht-mit-blake-livelys-zerstoerung-und-nimmt-ryan-reynolds-ins-visier](https://www.spiegel.de/kultur/kino/lively-baldoni-streit-anwalt-justin-baldonis-droht-mit-blake-livelys-zerstoerung-und-nimmt-ryan-reynolds-ins-visier-a-f24b3c32-982f-4e2b-a14c-512cea97eec1#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-kanada-und-groenland-wie-ernst-sind-seine-grossmachtgelueste-zu-nehmen](https://www.spiegel.de/ausland/donald-trump-kanada-und-groenland-wie-ernst-sind-seine-grossmachtgelueste-zu-nehmen-a-e7b7b17a-9641-4d78-ae6e-0ca953e123ba#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/zwei-tote-im-fahrwerk-bei-inspektion-entdeckt](https://www.spiegel.de/panorama/zwei-tote-im-fahrwerk-bei-inspektion-entdeckt-a-91327d34-4d80-4e24-bf0c-d2c59bc74337#ref=rss)
-* [https://www.spiegel.de/panorama/leute/golden-globes-timothee-chalamet-und-glen-powell-treffen-auf-ihre-doppelgaenger](https://www.spiegel.de/panorama/leute/golden-globes-timothee-chalamet-und-glen-powell-treffen-auf-ihre-doppelgaenger-a-3f30bdb7-6739-458d-a9a2-9661452cd472#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/zwei-tote-im-fahrwerk-bei-inspektion-entdeckt](https://www.spiegel.de/panorama/zwei-tote-im-fahrwerk-bei-inspektion-entdeckt-a-91327d34-4d80-4e24-bf0c-d2c59bc74337#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung/blaehbauch-und-ernaehrung-ist-falsches-essen-die-ursache](https://www.spiegel.de/gesundheit/ernaehrung/blaehbauch-und-ernaehrung-ist-falsches-essen-die-ursache-a-e94eba1a-24d5-458d-bcf4-f6414ee12934#ref=rss)
-* [https://www.spiegel.de/fitness/schwimmen-kraulen-lernen-so-klappt-es-auch-ohne-kurs](https://www.spiegel.de/fitness/schwimmen-kraulen-lernen-so-klappt-es-auch-ohne-kurs-a-e1d90252-ce36-4a21-a92d-600b5bc3f066#ref=rss)
-### bahn
-
-* [https://www.spiegel.de/wirtschaft/deutsche-bahn-2024-wo-die-bahn-besonders-unpuenktlich-ist-die-datenanalyse](https://www.spiegel.de/wirtschaft/deutsche-bahn-2024-wo-die-bahn-besonders-unpuenktlich-ist-die-datenanalyse-a-ae676ad1-f39f-46fc-b775-1ecaea6a71ab#ref=rss)
-### vergangenen
-
-* [https://www.spiegel.de/wirtschaft/deutsche-bahn-2024-wo-die-bahn-besonders-unpuenktlich-ist-die-datenanalyse](https://www.spiegel.de/wirtschaft/deutsche-bahn-2024-wo-die-bahn-besonders-unpuenktlich-ist-die-datenanalyse-a-ae676ad1-f39f-46fc-b775-1ecaea6a71ab#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/einzelhandelsumsatz-2024-gestiegen-mehr-konsum-dank-gesunkener-inflation](https://www.spiegel.de/wirtschaft/unternehmen/einzelhandelsumsatz-2024-gestiegen-mehr-konsum-dank-gesunkener-inflation-a-eec9da9b-5415-4e3f-bea7-1f36ba17859b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutschland-zahl-der-start-ups-gestiegen](https://www.spiegel.de/wirtschaft/unternehmen/deutschland-zahl-der-start-ups-gestiegen-a-771a8876-26d5-4153-995d-942357bbb256#ref=rss)
-### gestiegen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/einzelhandelsumsatz-2024-gestiegen-mehr-konsum-dank-gesunkener-inflation](https://www.spiegel.de/wirtschaft/unternehmen/einzelhandelsumsatz-2024-gestiegen-mehr-konsum-dank-gesunkener-inflation-a-eec9da9b-5415-4e3f-bea7-1f36ba17859b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutschland-zahl-der-start-ups-gestiegen](https://www.spiegel.de/wirtschaft/unternehmen/deutschland-zahl-der-start-ups-gestiegen-a-771a8876-26d5-4153-995d-942357bbb256#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutschland-zahl-der-start-ups-gestiegen](https://www.spiegel.de/wirtschaft/unternehmen/deutschland-zahl-der-start-ups-gestiegen-a-771a8876-26d5-4153-995d-942357bbb256#ref=rss)
-* [https://www.spiegel.de/panorama/silvester-in-berlin-nur-harte-strafen-und-verbote-koennen-die-eskalierende-gewalt-eindaemmen](https://www.spiegel.de/panorama/silvester-in-berlin-nur-harte-strafen-und-verbote-koennen-die-eskalierende-gewalt-eindaemmen-a-ae74f5c0-3093-413a-98dd-7accd3b213bb#ref=rss)
-### gewalt
-
-* [https://www.spiegel.de/panorama/silvester-in-berlin-nur-harte-strafen-und-verbote-koennen-die-eskalierende-gewalt-eindaemmen](https://www.spiegel.de/panorama/silvester-in-berlin-nur-harte-strafen-und-verbote-koennen-die-eskalierende-gewalt-eindaemmen-a-ae74f5c0-3093-413a-98dd-7accd3b213bb#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-kanada-und-groenland-wie-ernst-sind-seine-grossmachtgelueste-zu-nehmen](https://www.spiegel.de/ausland/donald-trump-kanada-und-groenland-wie-ernst-sind-seine-grossmachtgelueste-zu-nehmen-a-e7b7b17a-9641-4d78-ae6e-0ca953e123ba#ref=rss)
-### hilft
-
-* [https://www.spiegel.de/panorama/silvester-in-berlin-nur-harte-strafen-und-verbote-koennen-die-eskalierende-gewalt-eindaemmen](https://www.spiegel.de/panorama/silvester-in-berlin-nur-harte-strafen-und-verbote-koennen-die-eskalierende-gewalt-eindaemmen-a-ae74f5c0-3093-413a-98dd-7accd3b213bb#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung/blaehbauch-und-ernaehrung-ist-falsches-essen-die-ursache](https://www.spiegel.de/gesundheit/ernaehrung/blaehbauch-und-ernaehrung-ist-falsches-essen-die-ursache-a-e94eba1a-24d5-458d-bcf4-f6414ee12934#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung/ingwer-shots-wie-gesund-sind-sie-und-was-bringen-sie](https://www.spiegel.de/gesundheit/ernaehrung/ingwer-shots-wie-gesund-sind-sie-und-was-bringen-sie-a-1915aa06-8cbc-4980-9de3-61f47fb29416#ref=rss)
-### tod
-
-* [https://www.spiegel.de/panorama/justiz/one-direction-zweiter-verdaechtiger-stellt-sich-nach-tod-von-popstar-payne](https://www.spiegel.de/panorama/justiz/one-direction-zweiter-verdaechtiger-stellt-sich-nach-tod-von-popstar-payne-a-fde7d98b-b45b-407f-9098-cab917876429#ref=rss)
-* [https://www.spiegel.de/ausland/jean-marie-le-pen-hunderte-feiern-tod-des-rechtsextremen-politikers-in-frankreich](https://www.spiegel.de/ausland/jean-marie-le-pen-hunderte-feiern-tod-des-rechtsextremen-politikers-in-frankreich-a-66504ab3-da19-4bd2-8ead-1ef0cb573bb4#ref=rss)
-### ziele
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-drohnen-greifen-erneut-ziele-in-russland-an](https://www.spiegel.de/ausland/ukraine-krieg-drohnen-greifen-erneut-ziele-in-russland-an-a-88f184f2-ce56-47c9-a7e5-6ddb5a998fb5#ref=rss)
-### greift
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-drohnen-greifen-erneut-ziele-in-russland-an](https://www.spiegel.de/ausland/ukraine-krieg-drohnen-greifen-erneut-ziele-in-russland-an-a-88f184f2-ce56-47c9-a7e5-6ddb5a998fb5#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-kanada-und-groenland-wie-ernst-sind-seine-grossmachtgelueste-zu-nehmen](https://www.spiegel.de/ausland/donald-trump-kanada-und-groenland-wie-ernst-sind-seine-grossmachtgelueste-zu-nehmen-a-e7b7b17a-9641-4d78-ae6e-0ca953e123ba#ref=rss)
-### unter
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-drohnen-greifen-erneut-ziele-in-russland-an](https://www.spiegel.de/ausland/ukraine-krieg-drohnen-greifen-erneut-ziele-in-russland-an-a-88f184f2-ce56-47c9-a7e5-6ddb5a998fb5#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung/blaehbauch-und-ernaehrung-ist-falsches-essen-die-ursache](https://www.spiegel.de/gesundheit/ernaehrung/blaehbauch-und-ernaehrung-ist-falsches-essen-die-ursache-a-e94eba1a-24d5-458d-bcf4-f6414ee12934#ref=rss)
-### anwalt
-
-* [https://www.spiegel.de/kultur/kino/lively-baldoni-streit-anwalt-justin-baldonis-droht-mit-blake-livelys-zerstoerung-und-nimmt-ryan-reynolds-ins-visier](https://www.spiegel.de/kultur/kino/lively-baldoni-streit-anwalt-justin-baldonis-droht-mit-blake-livelys-zerstoerung-und-nimmt-ryan-reynolds-ins-visier-a-f24b3c32-982f-4e2b-a14c-512cea97eec1#ref=rss)
-### justin
-
-* [https://www.spiegel.de/kultur/kino/lively-baldoni-streit-anwalt-justin-baldonis-droht-mit-blake-livelys-zerstoerung-und-nimmt-ryan-reynolds-ins-visier](https://www.spiegel.de/kultur/kino/lively-baldoni-streit-anwalt-justin-baldonis-droht-mit-blake-livelys-zerstoerung-und-nimmt-ryan-reynolds-ins-visier-a-f24b3c32-982f-4e2b-a14c-512cea97eec1#ref=rss)
-### baldonis
-
-* [https://www.spiegel.de/kultur/kino/lively-baldoni-streit-anwalt-justin-baldonis-droht-mit-blake-livelys-zerstoerung-und-nimmt-ryan-reynolds-ins-visier](https://www.spiegel.de/kultur/kino/lively-baldoni-streit-anwalt-justin-baldonis-droht-mit-blake-livelys-zerstoerung-und-nimmt-ryan-reynolds-ins-visier-a-f24b3c32-982f-4e2b-a14c-512cea97eec1#ref=rss)
-### droht
-
-* [https://www.spiegel.de/kultur/kino/lively-baldoni-streit-anwalt-justin-baldonis-droht-mit-blake-livelys-zerstoerung-und-nimmt-ryan-reynolds-ins-visier](https://www.spiegel.de/kultur/kino/lively-baldoni-streit-anwalt-justin-baldonis-droht-mit-blake-livelys-zerstoerung-und-nimmt-ryan-reynolds-ins-visier-a-f24b3c32-982f-4e2b-a14c-512cea97eec1#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-kanada-und-groenland-wie-ernst-sind-seine-grossmachtgelueste-zu-nehmen](https://www.spiegel.de/ausland/donald-trump-kanada-und-groenland-wie-ernst-sind-seine-grossmachtgelueste-zu-nehmen-a-e7b7b17a-9641-4d78-ae6e-0ca953e123ba#ref=rss)
-### blake
-
-* [https://www.spiegel.de/kultur/kino/lively-baldoni-streit-anwalt-justin-baldonis-droht-mit-blake-livelys-zerstoerung-und-nimmt-ryan-reynolds-ins-visier](https://www.spiegel.de/kultur/kino/lively-baldoni-streit-anwalt-justin-baldonis-droht-mit-blake-livelys-zerstoerung-und-nimmt-ryan-reynolds-ins-visier-a-f24b3c32-982f-4e2b-a14c-512cea97eec1#ref=rss)
-### nimmt
-
-* [https://www.spiegel.de/kultur/kino/lively-baldoni-streit-anwalt-justin-baldonis-droht-mit-blake-livelys-zerstoerung-und-nimmt-ryan-reynolds-ins-visier](https://www.spiegel.de/kultur/kino/lively-baldoni-streit-anwalt-justin-baldonis-droht-mit-blake-livelys-zerstoerung-und-nimmt-ryan-reynolds-ins-visier-a-f24b3c32-982f-4e2b-a14c-512cea97eec1#ref=rss)
-* [https://www.spiegel.de/ausland/jimmy-carter-sarg-des-ex-us-praesidenten-im-kapitol-aufgebahrt](https://www.spiegel.de/ausland/jimmy-carter-sarg-des-ex-us-praesidenten-im-kapitol-aufgebahrt-a-4f75417e-a35c-40f2-a62a-4374f2f5eb78#ref=rss)
-### visier
-
-* [https://www.spiegel.de/kultur/kino/lively-baldoni-streit-anwalt-justin-baldonis-droht-mit-blake-livelys-zerstoerung-und-nimmt-ryan-reynolds-ins-visier](https://www.spiegel.de/kultur/kino/lively-baldoni-streit-anwalt-justin-baldonis-droht-mit-blake-livelys-zerstoerung-und-nimmt-ryan-reynolds-ins-visier-a-f24b3c32-982f-4e2b-a14c-512cea97eec1#ref=rss)
-### ende
-
-* [https://www.spiegel.de/kultur/kino/lively-baldoni-streit-anwalt-justin-baldonis-droht-mit-blake-livelys-zerstoerung-und-nimmt-ryan-reynolds-ins-visier](https://www.spiegel.de/kultur/kino/lively-baldoni-streit-anwalt-justin-baldonis-droht-mit-blake-livelys-zerstoerung-und-nimmt-ryan-reynolds-ins-visier-a-f24b3c32-982f-4e2b-a14c-512cea97eec1#ref=rss)
-* [https://www.spiegel.de/sport/fussball/abschied-von-didier-deschamps-als-frankreichs-nationaltrainer-steht-bevor](https://www.spiegel.de/sport/fussball/abschied-von-didier-deschamps-als-frankreichs-nationaltrainer-steht-bevor-a-97dc5774-a7f8-44a4-ad0d-46036217a618#ref=rss)
-### entdeckt
-
-* [https://www.spiegel.de/panorama/zwei-tote-im-fahrwerk-bei-inspektion-entdeckt](https://www.spiegel.de/panorama/zwei-tote-im-fahrwerk-bei-inspektion-entdeckt-a-91327d34-4d80-4e24-bf0c-d2c59bc74337#ref=rss)
-* [https://www.spiegel.de/panorama/dresden-bombe-an-der-carolabruecke-entdeckt](https://www.spiegel.de/panorama/dresden-bombe-an-der-carolabruecke-entdeckt-a-8e96864b-902f-4ce9-a3ef-d5d6922641f2#ref=rss)
-### bombe
-
-* [https://www.spiegel.de/panorama/dresden-bombe-an-der-carolabruecke-entdeckt](https://www.spiegel.de/panorama/dresden-bombe-an-der-carolabruecke-entdeckt-a-8e96864b-902f-4ce9-a3ef-d5d6922641f2#ref=rss)
-### carolabrücke
-
-* [https://www.spiegel.de/panorama/dresden-bombe-an-der-carolabruecke-entdeckt](https://www.spiegel.de/panorama/dresden-bombe-an-der-carolabruecke-entdeckt-a-8e96864b-902f-4ce9-a3ef-d5d6922641f2#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/panorama/dresden-bombe-an-der-carolabruecke-entdeckt](https://www.spiegel.de/panorama/dresden-bombe-an-der-carolabruecke-entdeckt-a-8e96864b-902f-4ce9-a3ef-d5d6922641f2#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/cybertruck-explosion-verdaechtiger-soll-chatgpt-zur-planung-genutzt-haben](https://www.spiegel.de/netzwelt/web/cybertruck-explosion-verdaechtiger-soll-chatgpt-zur-planung-genutzt-haben-a-54f869c8-d224-40ba-b960-9c2731e251b2#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/dresden-bombe-an-der-carolabruecke-entdeckt](https://www.spiegel.de/panorama/dresden-bombe-an-der-carolabruecke-entdeckt-a-8e96864b-902f-4ce9-a3ef-d5d6922641f2#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/cybertruck-explosion-verdaechtiger-soll-chatgpt-zur-planung-genutzt-haben](https://www.spiegel.de/netzwelt/web/cybertruck-explosion-verdaechtiger-soll-chatgpt-zur-planung-genutzt-haben-a-54f869c8-d224-40ba-b960-9c2731e251b2#ref=rss)
-### 2024
-
-* [https://www.spiegel.de/wirtschaft/deutsche-bahn-2024-wo-die-bahn-besonders-unpuenktlich-ist-die-datenanalyse](https://www.spiegel.de/wirtschaft/deutsche-bahn-2024-wo-die-bahn-besonders-unpuenktlich-ist-die-datenanalyse-a-ae676ad1-f39f-46fc-b775-1ecaea6a71ab#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/einzelhandelsumsatz-2024-gestiegen-mehr-konsum-dank-gesunkener-inflation](https://www.spiegel.de/wirtschaft/unternehmen/einzelhandelsumsatz-2024-gestiegen-mehr-konsum-dank-gesunkener-inflation-a-eec9da9b-5415-4e3f-bea7-1f36ba17859b#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/wirtschaft/deutsche-bahn-2024-wo-die-bahn-besonders-unpuenktlich-ist-die-datenanalyse](https://www.spiegel.de/wirtschaft/deutsche-bahn-2024-wo-die-bahn-besonders-unpuenktlich-ist-die-datenanalyse-a-ae676ad1-f39f-46fc-b775-1ecaea6a71ab#ref=rss)
-* [https://www.spiegel.de/fitness/schwimmen-kraulen-lernen-so-klappt-es-auch-ohne-kurs](https://www.spiegel.de/fitness/schwimmen-kraulen-lernen-so-klappt-es-auch-ohne-kurs-a-e1d90252-ce36-4a21-a92d-600b5bc3f066#ref=rss)
-### alexander
-
-* [https://www.spiegel.de/politik/deutschland/alexander-schallenberg-oesterreichs-aussenminister-soll-interimskanzler-werden](https://www.spiegel.de/politik/deutschland/alexander-schallenberg-oesterreichs-aussenminister-soll-interimskanzler-werden-a-280b202d-782f-4863-9693-d95f7d3158fc#ref=rss)
-### schallenberg
-
-* [https://www.spiegel.de/politik/deutschland/alexander-schallenberg-oesterreichs-aussenminister-soll-interimskanzler-werden](https://www.spiegel.de/politik/deutschland/alexander-schallenberg-oesterreichs-aussenminister-soll-interimskanzler-werden-a-280b202d-782f-4863-9693-d95f7d3158fc#ref=rss)
-### außenminister
-
-* [https://www.spiegel.de/politik/deutschland/alexander-schallenberg-oesterreichs-aussenminister-soll-interimskanzler-werden](https://www.spiegel.de/politik/deutschland/alexander-schallenberg-oesterreichs-aussenminister-soll-interimskanzler-werden-a-280b202d-782f-4863-9693-d95f7d3158fc#ref=rss)
-### führen
-
-* [https://www.spiegel.de/politik/deutschland/alexander-schallenberg-oesterreichs-aussenminister-soll-interimskanzler-werden](https://www.spiegel.de/politik/deutschland/alexander-schallenberg-oesterreichs-aussenminister-soll-interimskanzler-werden-a-280b202d-782f-4863-9693-d95f7d3158fc#ref=rss)
-### verkauft
-
-* [https://www.spiegel.de/panorama/ns-gedenken-wie-der-deutsche-staat-einstige-kz-areale-verkauft-und-an-wen](https://www.spiegel.de/panorama/ns-gedenken-wie-der-deutsche-staat-einstige-kz-areale-verkauft-und-an-wen-a-384041a2-52cb-4f19-8baa-69836c367c72#ref=rss)
-### stimmt
-
-* [https://www.spiegel.de/panorama/ns-gedenken-wie-der-deutsche-staat-einstige-kz-areale-verkauft-und-an-wen](https://www.spiegel.de/panorama/ns-gedenken-wie-der-deutsche-staat-einstige-kz-areale-verkauft-und-an-wen-a-384041a2-52cb-4f19-8baa-69836c367c72#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung/ingwer-shots-wie-gesund-sind-sie-und-was-bringen-sie](https://www.spiegel.de/gesundheit/ernaehrung/ingwer-shots-wie-gesund-sind-sie-und-was-bringen-sie-a-1915aa06-8cbc-4980-9de3-61f47fb29416#ref=rss)
-### zendaya
-
-* [https://www.spiegel.de/panorama/leute/zendaya-verlobt-mit-tom-holland-ihr-vater-spricht-ueber-geruechte-haufen-mist](https://www.spiegel.de/panorama/leute/zendaya-verlobt-mit-tom-holland-ihr-vater-spricht-ueber-geruechte-haufen-mist-a-c4403d2d-41f5-4c9e-863e-87afd748a648#ref=rss)
-### verlobt
-
-* [https://www.spiegel.de/panorama/leute/zendaya-verlobt-mit-tom-holland-ihr-vater-spricht-ueber-geruechte-haufen-mist](https://www.spiegel.de/panorama/leute/zendaya-verlobt-mit-tom-holland-ihr-vater-spricht-ueber-geruechte-haufen-mist-a-c4403d2d-41f5-4c9e-863e-87afd748a648#ref=rss)
-### holland
-
-* [https://www.spiegel.de/panorama/leute/zendaya-verlobt-mit-tom-holland-ihr-vater-spricht-ueber-geruechte-haufen-mist](https://www.spiegel.de/panorama/leute/zendaya-verlobt-mit-tom-holland-ihr-vater-spricht-ueber-geruechte-haufen-mist-a-c4403d2d-41f5-4c9e-863e-87afd748a648#ref=rss)
-### vater
-
-* [https://www.spiegel.de/panorama/leute/zendaya-verlobt-mit-tom-holland-ihr-vater-spricht-ueber-geruechte-haufen-mist](https://www.spiegel.de/panorama/leute/zendaya-verlobt-mit-tom-holland-ihr-vater-spricht-ueber-geruechte-haufen-mist-a-c4403d2d-41f5-4c9e-863e-87afd748a648#ref=rss)
-### golden
-
-* [https://www.spiegel.de/panorama/leute/zendaya-verlobt-mit-tom-holland-ihr-vater-spricht-ueber-geruechte-haufen-mist](https://www.spiegel.de/panorama/leute/zendaya-verlobt-mit-tom-holland-ihr-vater-spricht-ueber-geruechte-haufen-mist-a-c4403d2d-41f5-4c9e-863e-87afd748a648#ref=rss)
-* [https://www.spiegel.de/panorama/leute/golden-globes-timothee-chalamet-und-glen-powell-treffen-auf-ihre-doppelgaenger](https://www.spiegel.de/panorama/leute/golden-globes-timothee-chalamet-und-glen-powell-treffen-auf-ihre-doppelgaenger-a-3f30bdb7-6739-458d-a9a2-9661452cd472#ref=rss)
-### globes
-
-* [https://www.spiegel.de/panorama/leute/zendaya-verlobt-mit-tom-holland-ihr-vater-spricht-ueber-geruechte-haufen-mist](https://www.spiegel.de/panorama/leute/zendaya-verlobt-mit-tom-holland-ihr-vater-spricht-ueber-geruechte-haufen-mist-a-c4403d2d-41f5-4c9e-863e-87afd748a648#ref=rss)
-* [https://www.spiegel.de/panorama/leute/golden-globes-timothee-chalamet-und-glen-powell-treffen-auf-ihre-doppelgaenger](https://www.spiegel.de/panorama/leute/golden-globes-timothee-chalamet-und-glen-powell-treffen-auf-ihre-doppelgaenger-a-3f30bdb7-6739-458d-a9a2-9661452cd472#ref=rss)
-### wackelkontakt
-
-* [https://www.spiegel.de/kultur/literatur/wackelkontakt-von-wolf-haas-schon-jetzt-das-lieblingsbuch-des-jahres](https://www.spiegel.de/kultur/literatur/wackelkontakt-von-wolf-haas-schon-jetzt-das-lieblingsbuch-des-jahres-a-b7ccd6fb-4bc2-4621-8176-592d872931d9#ref=rss)
-### wolf
-
-* [https://www.spiegel.de/kultur/literatur/wackelkontakt-von-wolf-haas-schon-jetzt-das-lieblingsbuch-des-jahres](https://www.spiegel.de/kultur/literatur/wackelkontakt-von-wolf-haas-schon-jetzt-das-lieblingsbuch-des-jahres-a-b7ccd6fb-4bc2-4621-8176-592d872931d9#ref=rss)
-### haas
-
-* [https://www.spiegel.de/kultur/literatur/wackelkontakt-von-wolf-haas-schon-jetzt-das-lieblingsbuch-des-jahres](https://www.spiegel.de/kultur/literatur/wackelkontakt-von-wolf-haas-schon-jetzt-das-lieblingsbuch-des-jahres-a-b7ccd6fb-4bc2-4621-8176-592d872931d9#ref=rss)
-### liest
-
-* [https://www.spiegel.de/kultur/literatur/wackelkontakt-von-wolf-haas-schon-jetzt-das-lieblingsbuch-des-jahres](https://www.spiegel.de/kultur/literatur/wackelkontakt-von-wolf-haas-schon-jetzt-das-lieblingsbuch-des-jahres-a-b7ccd6fb-4bc2-4621-8176-592d872931d9#ref=rss)
-### buch
-
-* [https://www.spiegel.de/kultur/literatur/wackelkontakt-von-wolf-haas-schon-jetzt-das-lieblingsbuch-des-jahres](https://www.spiegel.de/kultur/literatur/wackelkontakt-von-wolf-haas-schon-jetzt-das-lieblingsbuch-des-jahres-a-b7ccd6fb-4bc2-4621-8176-592d872931d9#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/kultur/literatur/wackelkontakt-von-wolf-haas-schon-jetzt-das-lieblingsbuch-des-jahres](https://www.spiegel.de/kultur/literatur/wackelkontakt-von-wolf-haas-schon-jetzt-das-lieblingsbuch-des-jahres-a-b7ccd6fb-4bc2-4621-8176-592d872931d9#ref=rss)
-* [https://www.spiegel.de/sport/american-football/kurz-nach-einstieg-von-tom-brady-feuern-die-las-vegas-raiders-den-coach-antonio-pierce](https://www.spiegel.de/sport/american-football/kurz-nach-einstieg-von-tom-brady-feuern-die-las-vegas-raiders-den-coach-antonio-pierce-a-c992d5b2-01d6-4baf-966b-854f55b9508c#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/einzelhandelsumsatz-2024-gestiegen-mehr-konsum-dank-gesunkener-inflation](https://www.spiegel.de/wirtschaft/unternehmen/einzelhandelsumsatz-2024-gestiegen-mehr-konsum-dank-gesunkener-inflation-a-eec9da9b-5415-4e3f-bea7-1f36ba17859b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/abschied-von-didier-deschamps-als-frankreichs-nationaltrainer-steht-bevor](https://www.spiegel.de/sport/fussball/abschied-von-didier-deschamps-als-frankreichs-nationaltrainer-steht-bevor-a-97dc5774-a7f8-44a4-ad0d-46036217a618#ref=rss)
-### kommen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/einzelhandelsumsatz-2024-gestiegen-mehr-konsum-dank-gesunkener-inflation](https://www.spiegel.de/wirtschaft/unternehmen/einzelhandelsumsatz-2024-gestiegen-mehr-konsum-dank-gesunkener-inflation-a-eec9da9b-5415-4e3f-bea7-1f36ba17859b#ref=rss)
-* [https://www.spiegel.de/gesundheit/gesundheit-bewusster-ernaehren-besser-essen-podcast-smarter-leben](https://www.spiegel.de/gesundheit/gesundheit-bewusster-ernaehren-besser-essen-podcast-smarter-leben-a-fef55606-0160-4523-8653-a8bf8b61850a#ref=rss)
-### verdächtiger
-
-* [https://www.spiegel.de/netzwelt/web/cybertruck-explosion-verdaechtiger-soll-chatgpt-zur-planung-genutzt-haben](https://www.spiegel.de/netzwelt/web/cybertruck-explosion-verdaechtiger-soll-chatgpt-zur-planung-genutzt-haben-a-54f869c8-d224-40ba-b960-9c2731e251b2#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/one-direction-zweiter-verdaechtiger-stellt-sich-nach-tod-von-popstar-payne](https://www.spiegel.de/panorama/justiz/one-direction-zweiter-verdaechtiger-stellt-sich-nach-tod-von-popstar-payne-a-fde7d98b-b45b-407f-9098-cab917876429#ref=rss)
-### welt
-
-* [https://www.spiegel.de/netzwelt/web/cybertruck-explosion-verdaechtiger-soll-chatgpt-zur-planung-genutzt-haben](https://www.spiegel.de/netzwelt/web/cybertruck-explosion-verdaechtiger-soll-chatgpt-zur-planung-genutzt-haben-a-54f869c8-d224-40ba-b960-9c2731e251b2#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-was-deutsche-politiker-ueber-seine-nato-forderung-sagen-die-reaktionen](https://www.spiegel.de/ausland/donald-trump-was-deutsche-politiker-ueber-seine-nato-forderung-sagen-die-reaktionen-a-a92385b7-2cca-4572-b606-08a3b02290cd#ref=rss)
+* [https://www.spiegel.de/ausland/waldbraende-in-kalifornien-die-leute-haben-ihre-autos-einfach-auf-der-strasse-stehen-lassen](https://www.spiegel.de/ausland/waldbraende-in-kalifornien-die-leute-haben-ihre-autos-einfach-auf-der-strasse-stehen-lassen-a-4b99458e-5470-4c3b-a67a-48078d42f962#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/donald-trump-nato-fuenf-prozent-ziel-waeren-4068-leopard-panzer-zusaetzlich-fuer-die-bundeswehr](https://www.spiegel.de/politik/deutschland/donald-trump-nato-fuenf-prozent-ziel-waeren-4068-leopard-panzer-zusaetzlich-fuer-die-bundeswehr-a-64832441-419e-4c9d-b37c-99ad6115e47e#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/wohnungslosigkeit-und-obdachlosigkeit-zahl-der-wohnungslosen-menschen-verdoppelt](https://www.spiegel.de/panorama/gesellschaft/wohnungslosigkeit-und-obdachlosigkeit-zahl-der-wohnungslosen-menschen-verdoppelt-a-e54f7dab-c80f-4e89-a7a2-62ebd00cc348#ref=rss)
+* [https://www.spiegel.de/netzwelt/games/pokemon-reihe-pokemon-koennen-das-beduerfnis-nach-zugehoerigkeit-befriedigen](https://www.spiegel.de/netzwelt/games/pokemon-reihe-pokemon-koennen-das-beduerfnis-nach-zugehoerigkeit-befriedigen-a-b04f1fb9-8c56-4866-9b06-329a68f2d5c3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/spritpreise-benzin-und-diesel-sind-so-teuer-wie-seit-sommer-nicht-mehr](https://www.spiegel.de/wirtschaft/service/spritpreise-benzin-und-diesel-sind-so-teuer-wie-seit-sommer-nicht-mehr-a-a0a79540-76a5-4704-af2c-358c259da12f#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/kurswechsel-von-mark-zuckerberg-was-aendert-sich-jetzt-bei-facebook-und-instagram](https://www.spiegel.de/netzwelt/netzpolitik/kurswechsel-von-mark-zuckerberg-was-aendert-sich-jetzt-bei-facebook-und-instagram-a-18e36a12-8990-406d-a9aa-d59215c79ab5#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutschland-zahl-der-start-ups-gestiegen](https://www.spiegel.de/wirtschaft/unternehmen/deutschland-zahl-der-start-ups-gestiegen-a-771a8876-26d5-4153-995d-942357bbb256#ref=rss)
+* [https://www.spiegel.de/panorama/russland-wie-gross-ist-die-spionagegefahr-durch-drohnen](https://www.spiegel.de/panorama/russland-wie-gross-ist-die-spionagegefahr-durch-drohnen-a-aef0e54b-a650-4f31-945d-b2e90850c912#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/drohnen-alarm-ueber-deutschland-verdaechtiges-flugobjekt-sorgt-fuer-eurofighter-einsatz](https://www.spiegel.de/politik/deutschland/drohnen-alarm-ueber-deutschland-verdaechtiges-flugobjekt-sorgt-fuer-eurofighter-einsatz-a-5834430d-9fb6-4b7f-bb13-da32d9799caa#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/donald-trump-nato-fuenf-prozent-ziel-waeren-4068-leopard-panzer-zusaetzlich-fuer-die-bundeswehr](https://www.spiegel.de/politik/deutschland/donald-trump-nato-fuenf-prozent-ziel-waeren-4068-leopard-panzer-zusaetzlich-fuer-die-bundeswehr-a-64832441-419e-4c9d-b37c-99ad6115e47e#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/wohnungslosigkeit-und-obdachlosigkeit-zahl-der-wohnungslosen-menschen-verdoppelt](https://www.spiegel.de/panorama/gesellschaft/wohnungslosigkeit-und-obdachlosigkeit-zahl-der-wohnungslosen-menschen-verdoppelt-a-e54f7dab-c80f-4e89-a7a2-62ebd00cc348#ref=rss)
+### donald
+
+* [https://www.spiegel.de/politik/deutschland/donald-trump-nato-fuenf-prozent-ziel-waeren-4068-leopard-panzer-zusaetzlich-fuer-die-bundeswehr](https://www.spiegel.de/politik/deutschland/donald-trump-nato-fuenf-prozent-ziel-waeren-4068-leopard-panzer-zusaetzlich-fuer-die-bundeswehr-a-64832441-419e-4c9d-b37c-99ad6115e47e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-wahlkampf-deutsche-bahn](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-wahlkampf-deutsche-bahn-a-3286ac43-5252-4d22-b619-b9d8c7204de4#ref=rss)
+* [https://www.spiegel.de/ausland/trump-juniors-besuch-in-groenland-wir-werden-euch-gut-behandeln](https://www.spiegel.de/ausland/trump-juniors-besuch-in-groenland-wir-werden-euch-gut-behandeln-a-94782f9d-6d5e-4c31-8922-2f2e1ee2c56a#ref=rss)
+### trump
+
+* [https://www.spiegel.de/politik/deutschland/donald-trump-nato-fuenf-prozent-ziel-waeren-4068-leopard-panzer-zusaetzlich-fuer-die-bundeswehr](https://www.spiegel.de/politik/deutschland/donald-trump-nato-fuenf-prozent-ziel-waeren-4068-leopard-panzer-zusaetzlich-fuer-die-bundeswehr-a-64832441-419e-4c9d-b37c-99ad6115e47e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-wahlkampf-deutsche-bahn](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-wahlkampf-deutsche-bahn-a-3286ac43-5252-4d22-b619-b9d8c7204de4#ref=rss)
+* [https://www.spiegel.de/ausland/trump-juniors-besuch-in-groenland-wir-werden-euch-gut-behandeln](https://www.spiegel.de/ausland/trump-juniors-besuch-in-groenland-wir-werden-euch-gut-behandeln-a-94782f9d-6d5e-4c31-8922-2f2e1ee2c56a#ref=rss)
+### wahlkampf
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-wahlkampf-deutsche-bahn](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-wahlkampf-deutsche-bahn-a-3286ac43-5252-4d22-b619-b9d8c7204de4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/csu-klausur-in-seeon-wenn-friedrich-merz-markus-soeder-im-regen-stehen-laesst](https://www.spiegel.de/politik/deutschland/csu-klausur-in-seeon-wenn-friedrich-merz-markus-soeder-im-regen-stehen-laesst-a-7c154031-8bda-43f1-b40b-337c4322067b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-spd-linke-wollen-wahlprogramm-verschaerfen](https://www.spiegel.de/politik/deutschland/bundestagswahl-spd-linke-wollen-wahlprogramm-verschaerfen-a-7c5eaae6-ea1a-4bae-815c-f002caf8e63e#ref=rss)
+### meta
+
+* [https://www.spiegel.de/netzwelt/meta-kippt-zahlreiche-hassrede-regeln-auf-instagram-und-facebook-in-den-usa](https://www.spiegel.de/netzwelt/meta-kippt-zahlreiche-hassrede-regeln-auf-instagram-und-facebook-in-den-usa-a-b3c82c32-f8d7-441b-b17a-23087b99d162#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/kurswechsel-von-mark-zuckerberg-was-aendert-sich-jetzt-bei-facebook-und-instagram](https://www.spiegel.de/netzwelt/netzpolitik/kurswechsel-von-mark-zuckerberg-was-aendert-sich-jetzt-bei-facebook-und-instagram-a-18e36a12-8990-406d-a9aa-d59215c79ab5#ref=rss)
+### instagram
+
+* [https://www.spiegel.de/netzwelt/meta-kippt-zahlreiche-hassrede-regeln-auf-instagram-und-facebook-in-den-usa](https://www.spiegel.de/netzwelt/meta-kippt-zahlreiche-hassrede-regeln-auf-instagram-und-facebook-in-den-usa-a-b3c82c32-f8d7-441b-b17a-23087b99d162#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/kurswechsel-von-mark-zuckerberg-was-aendert-sich-jetzt-bei-facebook-und-instagram](https://www.spiegel.de/netzwelt/netzpolitik/kurswechsel-von-mark-zuckerberg-was-aendert-sich-jetzt-bei-facebook-und-instagram-a-18e36a12-8990-406d-a9aa-d59215c79ab5#ref=rss)
+### facebook
+
+* [https://www.spiegel.de/netzwelt/meta-kippt-zahlreiche-hassrede-regeln-auf-instagram-und-facebook-in-den-usa](https://www.spiegel.de/netzwelt/meta-kippt-zahlreiche-hassrede-regeln-auf-instagram-und-facebook-in-den-usa-a-b3c82c32-f8d7-441b-b17a-23087b99d162#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/kurswechsel-von-mark-zuckerberg-was-aendert-sich-jetzt-bei-facebook-und-instagram](https://www.spiegel.de/netzwelt/netzpolitik/kurswechsel-von-mark-zuckerberg-was-aendert-sich-jetzt-bei-facebook-und-instagram-a-18e36a12-8990-406d-a9aa-d59215c79ab5#ref=rss)
+### drohnen
+
+* [https://www.spiegel.de/panorama/russland-wie-gross-ist-die-spionagegefahr-durch-drohnen](https://www.spiegel.de/panorama/russland-wie-gross-ist-die-spionagegefahr-durch-drohnen-a-aef0e54b-a650-4f31-945d-b2e90850c912#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/drohnen-alarm-ueber-deutschland-verdaechtiges-flugobjekt-sorgt-fuer-eurofighter-einsatz](https://www.spiegel.de/politik/deutschland/drohnen-alarm-ueber-deutschland-verdaechtiges-flugobjekt-sorgt-fuer-eurofighter-einsatz-a-5834430d-9fb6-4b7f-bb13-da32d9799caa#ref=rss)
+### verlangt
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/insolvenzverwalter-verlangt-eine-milliarde-euro-schadensersatz-von-ex-fuehrung](https://www.spiegel.de/wirtschaft/unternehmen/insolvenzverwalter-verlangt-eine-milliarde-euro-schadensersatz-von-ex-fuehrung-a-a304a2f1-1f98-4e2a-8361-e17918288e91#ref=rss)
+* [https://www.spiegel.de/kultur/kino/florence-pugh-schauspielerin-fuehlte-sich-nach-midsommar-lange-zeit-gebrochen](https://www.spiegel.de/kultur/kino/florence-pugh-schauspielerin-fuehlte-sich-nach-midsommar-lange-zeit-gebrochen-a-e7205ab2-845b-45cc-a8ee-30bdd243111f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/donald-trump-nato-fuenf-prozent-ziel-waeren-4068-leopard-panzer-zusaetzlich-fuer-die-bundeswehr](https://www.spiegel.de/politik/deutschland/donald-trump-nato-fuenf-prozent-ziel-waeren-4068-leopard-panzer-zusaetzlich-fuer-die-bundeswehr-a-64832441-419e-4c9d-b37c-99ad6115e47e#ref=rss)
+### selbst
+
+* [https://www.spiegel.de/kultur/kino/florence-pugh-schauspielerin-fuehlte-sich-nach-midsommar-lange-zeit-gebrochen](https://www.spiegel.de/kultur/kino/florence-pugh-schauspielerin-fuehlte-sich-nach-midsommar-lange-zeit-gebrochen-a-e7205ab2-845b-45cc-a8ee-30bdd243111f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-wahlkampf-deutsche-bahn](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-wahlkampf-deutsche-bahn-a-3286ac43-5252-4d22-b619-b9d8c7204de4#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/dsgvo-eu-kommission-muss-strafe-fuer-datenschutz-verstoss-zahlen](https://www.spiegel.de/netzwelt/netzpolitik/dsgvo-eu-kommission-muss-strafe-fuer-datenschutz-verstoss-zahlen-a-0dac42f0-9fa7-4aea-962a-7c28b145bb4d#ref=rss)
+### besonders
+
+* [https://www.spiegel.de/kultur/kino/florence-pugh-schauspielerin-fuehlte-sich-nach-midsommar-lange-zeit-gebrochen](https://www.spiegel.de/kultur/kino/florence-pugh-schauspielerin-fuehlte-sich-nach-midsommar-lange-zeit-gebrochen-a-e7205ab2-845b-45cc-a8ee-30bdd243111f#ref=rss)
+* [https://www.spiegel.de/ausland/waldbraende-in-kalifornien-die-leute-haben-ihre-autos-einfach-auf-der-strasse-stehen-lassen](https://www.spiegel.de/ausland/waldbraende-in-kalifornien-die-leute-haben-ihre-autos-einfach-auf-der-strasse-stehen-lassen-a-4b99458e-5470-4c3b-a67a-48078d42f962#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-wahlkampf-deutsche-bahn](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-wahlkampf-deutsche-bahn-a-3286ac43-5252-4d22-b619-b9d8c7204de4#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/ausland/waldbraende-in-kalifornien-die-leute-haben-ihre-autos-einfach-auf-der-strasse-stehen-lassen](https://www.spiegel.de/ausland/waldbraende-in-kalifornien-die-leute-haben-ihre-autos-einfach-auf-der-strasse-stehen-lassen-a-4b99458e-5470-4c3b-a67a-48078d42f962#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/wohnungslosigkeit-und-obdachlosigkeit-zahl-der-wohnungslosen-menschen-verdoppelt](https://www.spiegel.de/panorama/gesellschaft/wohnungslosigkeit-und-obdachlosigkeit-zahl-der-wohnungslosen-menschen-verdoppelt-a-e54f7dab-c80f-4e89-a7a2-62ebd00cc348#ref=rss)
+### kollegen
+
+* [https://www.spiegel.de/panorama/justiz/bad-friedrichshall-ein-angestellter-schoss-wohl-auf-seine-kollegen-bei-laufendem-betrieb](https://www.spiegel.de/panorama/justiz/bad-friedrichshall-ein-angestellter-schoss-wohl-auf-seine-kollegen-bei-laufendem-betrieb-a-7f9d2f46-5c67-4e34-9378-b3a0d2f9d96b#ref=rss)
+* [https://www.spiegel.de/start/trendstudie-2025-die-arbeitsvorstellungen-der-generation-z](https://www.spiegel.de/start/trendstudie-2025-die-arbeitsvorstellungen-der-generation-z-a-3e87a5ca-0433-4bb0-a136-c0e5c1f373f2#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/panorama/justiz/bad-friedrichshall-ein-angestellter-schoss-wohl-auf-seine-kollegen-bei-laufendem-betrieb](https://www.spiegel.de/panorama/justiz/bad-friedrichshall-ein-angestellter-schoss-wohl-auf-seine-kollegen-bei-laufendem-betrieb-a-7f9d2f46-5c67-4e34-9378-b3a0d2f9d96b#ref=rss)
+* [https://www.spiegel.de/ausland/israels-verteidigunsminister-bestaetigt-zwei-weitere-israelische-geiseln-sind-tot](https://www.spiegel.de/ausland/israels-verteidigunsminister-bestaetigt-zwei-weitere-israelische-geiseln-sind-tot-a-ebd74112-5a1d-49b9-93f2-de6c5aef05fa#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-wahlkampf-deutsche-bahn](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-wahlkampf-deutsche-bahn-a-3286ac43-5252-4d22-b619-b9d8c7204de4#ref=rss)
+* [https://www.spiegel.de/sport/golf/tomorrow-golf-league-tgl-tiger-woods-und-rory-mcilroy-spielen-jetzt-in-der-halle](https://www.spiegel.de/sport/golf/tomorrow-golf-league-tgl-tiger-woods-und-rory-mcilroy-spielen-jetzt-in-der-halle-a-8c793463-e31c-43de-96e5-1611aebda6d7#ref=rss)
+* [https://www.spiegel.de/start/trendstudie-2025-die-arbeitsvorstellungen-der-generation-z](https://www.spiegel.de/start/trendstudie-2025-die-arbeitsvorstellungen-der-generation-z-a-3e87a5ca-0433-4bb0-a136-c0e5c1f373f2#ref=rss)
+### gewalt
+
+* [https://www.spiegel.de/politik/deutschland/fussfessel-soll-vor-haeuslicher-gewalt-schuetzen](https://www.spiegel.de/politik/deutschland/fussfessel-soll-vor-haeuslicher-gewalt-schuetzen-a-ff043bae-3ee5-4674-9fa0-56fb383fcf26#ref=rss)
+* [https://www.spiegel.de/ausland/israels-verteidigunsminister-bestaetigt-zwei-weitere-israelische-geiseln-sind-tot](https://www.spiegel.de/ausland/israels-verteidigunsminister-bestaetigt-zwei-weitere-israelische-geiseln-sind-tot-a-ebd74112-5a1d-49b9-93f2-de6c5aef05fa#ref=rss)
+### bundesregierung
+
+* [https://www.spiegel.de/politik/deutschland/fussfessel-soll-vor-haeuslicher-gewalt-schuetzen](https://www.spiegel.de/politik/deutschland/fussfessel-soll-vor-haeuslicher-gewalt-schuetzen-a-ff043bae-3ee5-4674-9fa0-56fb383fcf26#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/wohnungslosigkeit-und-obdachlosigkeit-zahl-der-wohnungslosen-menschen-verdoppelt](https://www.spiegel.de/panorama/gesellschaft/wohnungslosigkeit-und-obdachlosigkeit-zahl-der-wohnungslosen-menschen-verdoppelt-a-e54f7dab-c80f-4e89-a7a2-62ebd00cc348#ref=rss)
+### union
+
+* [https://www.spiegel.de/politik/deutschland/fussfessel-soll-vor-haeuslicher-gewalt-schuetzen](https://www.spiegel.de/politik/deutschland/fussfessel-soll-vor-haeuslicher-gewalt-schuetzen-a-ff043bae-3ee5-4674-9fa0-56fb383fcf26#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-wahlkampf-deutsche-bahn](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-wahlkampf-deutsche-bahn-a-3286ac43-5252-4d22-b619-b9d8c7204de4#ref=rss)
+### zahlreiche
+
+* [https://www.spiegel.de/netzwelt/meta-kippt-zahlreiche-hassrede-regeln-auf-instagram-und-facebook-in-den-usa](https://www.spiegel.de/netzwelt/meta-kippt-zahlreiche-hassrede-regeln-auf-instagram-und-facebook-in-den-usa-a-b3c82c32-f8d7-441b-b17a-23087b99d162#ref=rss)
+* [https://www.spiegel.de/panorama/salmonellen-fressnapf-ruft-zahlreiche-hundefutter-und-katzenfutter-zurueck](https://www.spiegel.de/panorama/salmonellen-fressnapf-ruft-zahlreiche-hundefutter-und-katzenfutter-zurueck-a-2e65b377-c50f-437b-98c0-5f189cf2e40f#ref=rss)
+### russland
+
+* [https://www.spiegel.de/panorama/russland-wie-gross-ist-die-spionagegefahr-durch-drohnen](https://www.spiegel.de/panorama/russland-wie-gross-ist-die-spionagegefahr-durch-drohnen-a-aef0e54b-a650-4f31-945d-b2e90850c912#ref=rss)
+### gehen
+
+* [https://www.spiegel.de/panorama/russland-wie-gross-ist-die-spionagegefahr-durch-drohnen](https://www.spiegel.de/panorama/russland-wie-gross-ist-die-spionagegefahr-durch-drohnen-a-aef0e54b-a650-4f31-945d-b2e90850c912#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/dsgvo-eu-kommission-muss-strafe-fuer-datenschutz-verstoss-zahlen](https://www.spiegel.de/netzwelt/netzpolitik/dsgvo-eu-kommission-muss-strafe-fuer-datenschutz-verstoss-zahlen-a-0dac42f0-9fa7-4aea-962a-7c28b145bb4d#ref=rss)
+### verdächtiges
+
+* [https://www.spiegel.de/politik/deutschland/drohnen-alarm-ueber-deutschland-verdaechtiges-flugobjekt-sorgt-fuer-eurofighter-einsatz](https://www.spiegel.de/politik/deutschland/drohnen-alarm-ueber-deutschland-verdaechtiges-flugobjekt-sorgt-fuer-eurofighter-einsatz-a-5834430d-9fb6-4b7f-bb13-da32d9799caa#ref=rss)
+### flugobjekt
+
+* [https://www.spiegel.de/politik/deutschland/drohnen-alarm-ueber-deutschland-verdaechtiges-flugobjekt-sorgt-fuer-eurofighter-einsatz](https://www.spiegel.de/politik/deutschland/drohnen-alarm-ueber-deutschland-verdaechtiges-flugobjekt-sorgt-fuer-eurofighter-einsatz-a-5834430d-9fb6-4b7f-bb13-da32d9799caa#ref=rss)
+### sehr
+
+* [https://www.spiegel.de/politik/deutschland/drohnen-alarm-ueber-deutschland-verdaechtiges-flugobjekt-sorgt-fuer-eurofighter-einsatz](https://www.spiegel.de/politik/deutschland/drohnen-alarm-ueber-deutschland-verdaechtiges-flugobjekt-sorgt-fuer-eurofighter-einsatz-a-5834430d-9fb6-4b7f-bb13-da32d9799caa#ref=rss)
+* [https://www.spiegel.de/ausland/trump-juniors-besuch-in-groenland-wir-werden-euch-gut-behandeln](https://www.spiegel.de/ausland/trump-juniors-besuch-in-groenland-wir-werden-euch-gut-behandeln-a-94782f9d-6d5e-4c31-8922-2f2e1ee2c56a#ref=rss)
+### zeit
+
+* [https://www.spiegel.de/politik/deutschland/drohnen-alarm-ueber-deutschland-verdaechtiges-flugobjekt-sorgt-fuer-eurofighter-einsatz](https://www.spiegel.de/politik/deutschland/drohnen-alarm-ueber-deutschland-verdaechtiges-flugobjekt-sorgt-fuer-eurofighter-einsatz-a-5834430d-9fb6-4b7f-bb13-da32d9799caa#ref=rss)
+* [https://www.spiegel.de/kultur/kino/florence-pugh-schauspielerin-fuehlte-sich-nach-midsommar-lange-zeit-gebrochen](https://www.spiegel.de/kultur/kino/florence-pugh-schauspielerin-fuehlte-sich-nach-midsommar-lange-zeit-gebrochen-a-e7205ab2-845b-45cc-a8ee-30bdd243111f#ref=rss)
+### northvolt
+
+* [https://www.spiegel.de/wirtschaft/northvolt-batteriehersteller-darf-trotz-finanzierungsproblemen-vorerst-weitermachen](https://www.spiegel.de/wirtschaft/northvolt-batteriehersteller-darf-trotz-finanzierungsproblemen-vorerst-weitermachen-a-869581ca-c069-4031-89d5-7ec8a263826b#ref=rss)
+### batteriehersteller
+
+* [https://www.spiegel.de/wirtschaft/northvolt-batteriehersteller-darf-trotz-finanzierungsproblemen-vorerst-weitermachen](https://www.spiegel.de/wirtschaft/northvolt-batteriehersteller-darf-trotz-finanzierungsproblemen-vorerst-weitermachen-a-869581ca-c069-4031-89d5-7ec8a263826b#ref=rss)
+### darauf
+
+* [https://www.spiegel.de/wirtschaft/northvolt-batteriehersteller-darf-trotz-finanzierungsproblemen-vorerst-weitermachen](https://www.spiegel.de/wirtschaft/northvolt-batteriehersteller-darf-trotz-finanzierungsproblemen-vorerst-weitermachen-a-869581ca-c069-4031-89d5-7ec8a263826b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-spd-linke-wollen-wahlprogramm-verschaerfen](https://www.spiegel.de/politik/deutschland/bundestagswahl-spd-linke-wollen-wahlprogramm-verschaerfen-a-7c5eaae6-ea1a-4bae-815c-f002caf8e63e#ref=rss)
+### insolvenzverwalter
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/insolvenzverwalter-verlangt-eine-milliarde-euro-schadensersatz-von-ex-fuehrung](https://www.spiegel.de/wirtschaft/unternehmen/insolvenzverwalter-verlangt-eine-milliarde-euro-schadensersatz-von-ex-fuehrung-a-a304a2f1-1f98-4e2a-8361-e17918288e91#ref=rss)
+### schadensersatz
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/insolvenzverwalter-verlangt-eine-milliarde-euro-schadensersatz-von-ex-fuehrung](https://www.spiegel.de/wirtschaft/unternehmen/insolvenzverwalter-verlangt-eine-milliarde-euro-schadensersatz-von-ex-fuehrung-a-a304a2f1-1f98-4e2a-8361-e17918288e91#ref=rss)
+### wichtigsten
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/insolvenzverwalter-verlangt-eine-milliarde-euro-schadensersatz-von-ex-fuehrung](https://www.spiegel.de/wirtschaft/unternehmen/insolvenzverwalter-verlangt-eine-milliarde-euro-schadensersatz-von-ex-fuehrung-a-a304a2f1-1f98-4e2a-8361-e17918288e91#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/kurswechsel-von-mark-zuckerberg-was-aendert-sich-jetzt-bei-facebook-und-instagram](https://www.spiegel.de/netzwelt/netzpolitik/kurswechsel-von-mark-zuckerberg-was-aendert-sich-jetzt-bei-facebook-und-instagram-a-18e36a12-8990-406d-a9aa-d59215c79ab5#ref=rss)
+### benko
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/insolvenzverwalter-verlangt-eine-milliarde-euro-schadensersatz-von-ex-fuehrung](https://www.spiegel.de/wirtschaft/unternehmen/insolvenzverwalter-verlangt-eine-milliarde-euro-schadensersatz-von-ex-fuehrung-a-a304a2f1-1f98-4e2a-8361-e17918288e91#ref=rss)
+### führung
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/insolvenzverwalter-verlangt-eine-milliarde-euro-schadensersatz-von-ex-fuehrung](https://www.spiegel.de/wirtschaft/unternehmen/insolvenzverwalter-verlangt-eine-milliarde-euro-schadensersatz-von-ex-fuehrung-a-a304a2f1-1f98-4e2a-8361-e17918288e91#ref=rss)
+* [https://www.spiegel.de/start/trendstudie-2025-die-arbeitsvorstellungen-der-generation-z](https://www.spiegel.de/start/trendstudie-2025-die-arbeitsvorstellungen-der-generation-z-a-3e87a5ca-0433-4bb0-a136-c0e5c1f373f2#ref=rss)
+### debbie
+
+* [https://www.spiegel.de/kultur/altern-debbie-harry-von-blondie-ueber-das-aelterwerden-und-innere-gelassenheit](https://www.spiegel.de/kultur/altern-debbie-harry-von-blondie-ueber-das-aelterwerden-und-innere-gelassenheit-a-2834b35f-4816-419f-aa63-9e1d90392621#ref=rss)
+### harry
+
+* [https://www.spiegel.de/kultur/altern-debbie-harry-von-blondie-ueber-das-aelterwerden-und-innere-gelassenheit](https://www.spiegel.de/kultur/altern-debbie-harry-von-blondie-ueber-das-aelterwerden-und-innere-gelassenheit-a-2834b35f-4816-419f-aa63-9e1d90392621#ref=rss)
+### bald
+
+* [https://www.spiegel.de/kultur/altern-debbie-harry-von-blondie-ueber-das-aelterwerden-und-innere-gelassenheit](https://www.spiegel.de/kultur/altern-debbie-harry-von-blondie-ueber-das-aelterwerden-und-innere-gelassenheit-a-2834b35f-4816-419f-aa63-9e1d90392621#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/oesterreich-wahl-welche-auswirkungen-haette-herbert-kickls-kanzlerschaft-auf-die-eu](https://www.spiegel.de/politik/deutschland/oesterreich-wahl-welche-auswirkungen-haette-herbert-kickls-kanzlerschaft-auf-die-eu-a-31df6994-2d73-4e08-b365-ef15b65ec362#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/kultur/altern-debbie-harry-von-blondie-ueber-das-aelterwerden-und-innere-gelassenheit](https://www.spiegel.de/kultur/altern-debbie-harry-von-blondie-ueber-das-aelterwerden-und-innere-gelassenheit-a-2834b35f-4816-419f-aa63-9e1d90392621#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bad-friedrichshall-ein-angestellter-schoss-wohl-auf-seine-kollegen-bei-laufendem-betrieb](https://www.spiegel.de/panorama/justiz/bad-friedrichshall-ein-angestellter-schoss-wohl-auf-seine-kollegen-bei-laufendem-betrieb-a-7f9d2f46-5c67-4e34-9378-b3a0d2f9d96b#ref=rss)
+### starke
+
+* [https://www.spiegel.de/kultur/altern-debbie-harry-von-blondie-ueber-das-aelterwerden-und-innere-gelassenheit](https://www.spiegel.de/kultur/altern-debbie-harry-von-blondie-ueber-das-aelterwerden-und-innere-gelassenheit-a-2834b35f-4816-419f-aa63-9e1d90392621#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/kalifornien-wie-heftige-santa-ana-winde-explosive-braende-befeuern](https://www.spiegel.de/wissenschaft/natur/kalifornien-wie-heftige-santa-ana-winde-explosive-braende-befeuern-a-448a5dc2-d599-459f-971c-5669150aa36f#ref=rss)
+### florence
+
+* [https://www.spiegel.de/kultur/kino/florence-pugh-schauspielerin-fuehlte-sich-nach-midsommar-lange-zeit-gebrochen](https://www.spiegel.de/kultur/kino/florence-pugh-schauspielerin-fuehlte-sich-nach-midsommar-lange-zeit-gebrochen-a-e7205ab2-845b-45cc-a8ee-30bdd243111f#ref=rss)
+### pugh
+
+* [https://www.spiegel.de/kultur/kino/florence-pugh-schauspielerin-fuehlte-sich-nach-midsommar-lange-zeit-gebrochen](https://www.spiegel.de/kultur/kino/florence-pugh-schauspielerin-fuehlte-sich-nach-midsommar-lange-zeit-gebrochen-a-e7205ab2-845b-45cc-a8ee-30bdd243111f#ref=rss)
+### schauspielerin
+
+* [https://www.spiegel.de/kultur/kino/florence-pugh-schauspielerin-fuehlte-sich-nach-midsommar-lange-zeit-gebrochen](https://www.spiegel.de/kultur/kino/florence-pugh-schauspielerin-fuehlte-sich-nach-midsommar-lange-zeit-gebrochen-a-e7205ab2-845b-45cc-a8ee-30bdd243111f#ref=rss)
+### waldbrände
+
+* [https://www.spiegel.de/ausland/waldbraende-in-kalifornien-die-leute-haben-ihre-autos-einfach-auf-der-strasse-stehen-lassen](https://www.spiegel.de/ausland/waldbraende-in-kalifornien-die-leute-haben-ihre-autos-einfach-auf-der-strasse-stehen-lassen-a-4b99458e-5470-4c3b-a67a-48078d42f962#ref=rss)
+### kalifornien
+
+* [https://www.spiegel.de/ausland/waldbraende-in-kalifornien-die-leute-haben-ihre-autos-einfach-auf-der-strasse-stehen-lassen](https://www.spiegel.de/ausland/waldbraende-in-kalifornien-die-leute-haben-ihre-autos-einfach-auf-der-strasse-stehen-lassen-a-4b99458e-5470-4c3b-a67a-48078d42f962#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/kalifornien-wie-heftige-santa-ana-winde-explosive-braende-befeuern](https://www.spiegel.de/wissenschaft/natur/kalifornien-wie-heftige-santa-ana-winde-explosive-braende-befeuern-a-448a5dc2-d599-459f-971c-5669150aa36f#ref=rss)
+### stehen
+
+* [https://www.spiegel.de/ausland/waldbraende-in-kalifornien-die-leute-haben-ihre-autos-einfach-auf-der-strasse-stehen-lassen](https://www.spiegel.de/ausland/waldbraende-in-kalifornien-die-leute-haben-ihre-autos-einfach-auf-der-strasse-stehen-lassen-a-4b99458e-5470-4c3b-a67a-48078d42f962#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/csu-klausur-in-seeon-wenn-friedrich-merz-markus-soeder-im-regen-stehen-laesst](https://www.spiegel.de/politik/deutschland/csu-klausur-in-seeon-wenn-friedrich-merz-markus-soeder-im-regen-stehen-laesst-a-7c154031-8bda-43f1-b40b-337c4322067b#ref=rss)
+### mehrere
+
+* [https://www.spiegel.de/ausland/waldbraende-in-kalifornien-die-leute-haben-ihre-autos-einfach-auf-der-strasse-stehen-lassen](https://www.spiegel.de/ausland/waldbraende-in-kalifornien-die-leute-haben-ihre-autos-einfach-auf-der-strasse-stehen-lassen-a-4b99458e-5470-4c3b-a67a-48078d42f962#ref=rss)
+* [https://www.spiegel.de/panorama/salmonellen-fressnapf-ruft-zahlreiche-hundefutter-und-katzenfutter-zurueck](https://www.spiegel.de/panorama/salmonellen-fressnapf-ruft-zahlreiche-hundefutter-und-katzenfutter-zurueck-a-2e65b377-c50f-437b-98c0-5f189cf2e40f#ref=rss)
+### weit
+
+* [https://www.spiegel.de/politik/deutschland/donald-trump-nato-fuenf-prozent-ziel-waeren-4068-leopard-panzer-zusaetzlich-fuer-die-bundeswehr](https://www.spiegel.de/politik/deutschland/donald-trump-nato-fuenf-prozent-ziel-waeren-4068-leopard-panzer-zusaetzlich-fuer-die-bundeswehr-a-64832441-419e-4c9d-b37c-99ad6115e47e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/kalifornien-wie-heftige-santa-ana-winde-explosive-braende-befeuern](https://www.spiegel.de/wissenschaft/natur/kalifornien-wie-heftige-santa-ana-winde-explosive-braende-befeuern-a-448a5dc2-d599-459f-971c-5669150aa36f#ref=rss)
+### macht
+
+* [https://www.spiegel.de/kultur/debatte-ueber-maennerfeindlichkeit-und-deutschfeindlichkeit-die-macht-des-dudens](https://www.spiegel.de/kultur/debatte-ueber-maennerfeindlichkeit-und-deutschfeindlichkeit-die-macht-des-dudens-a-89b395bc-28ba-467c-8f5d-1e5e3f288c3b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/spritpreise-benzin-und-diesel-sind-so-teuer-wie-seit-sommer-nicht-mehr](https://www.spiegel.de/wirtschaft/service/spritpreise-benzin-und-diesel-sind-so-teuer-wie-seit-sommer-nicht-mehr-a-a0a79540-76a5-4704-af2c-358c259da12f#ref=rss)
+### dudens
+
+* [https://www.spiegel.de/kultur/debatte-ueber-maennerfeindlichkeit-und-deutschfeindlichkeit-die-macht-des-dudens](https://www.spiegel.de/kultur/debatte-ueber-maennerfeindlichkeit-und-deutschfeindlichkeit-die-macht-des-dudens-a-89b395bc-28ba-467c-8f5d-1e5e3f288c3b#ref=rss)
+### betrieb
+
+* [https://www.spiegel.de/panorama/justiz/bad-friedrichshall-ein-angestellter-schoss-wohl-auf-seine-kollegen-bei-laufendem-betrieb](https://www.spiegel.de/panorama/justiz/bad-friedrichshall-ein-angestellter-schoss-wohl-auf-seine-kollegen-bei-laufendem-betrieb-a-7f9d2f46-5c67-4e34-9378-b3a0d2f9d96b#ref=rss)
+* [https://www.spiegel.de/ausland/trump-juniors-besuch-in-groenland-wir-werden-euch-gut-behandeln](https://www.spiegel.de/ausland/trump-juniors-besuch-in-groenland-wir-werden-euch-gut-behandeln-a-94782f9d-6d5e-4c31-8922-2f2e1ee2c56a#ref=rss)
+### arbeitsplatz
+
+* [https://www.spiegel.de/panorama/justiz/bad-friedrichshall-ein-angestellter-schoss-wohl-auf-seine-kollegen-bei-laufendem-betrieb](https://www.spiegel.de/panorama/justiz/bad-friedrichshall-ein-angestellter-schoss-wohl-auf-seine-kollegen-bei-laufendem-betrieb-a-7f9d2f46-5c67-4e34-9378-b3a0d2f9d96b#ref=rss)
+* [https://www.spiegel.de/start/trendstudie-2025-die-arbeitsvorstellungen-der-generation-z](https://www.spiegel.de/start/trendstudie-2025-die-arbeitsvorstellungen-der-generation-z-a-3e87a5ca-0433-4bb0-a136-c0e5c1f373f2#ref=rss)
+### israels
+
+* [https://www.spiegel.de/ausland/israels-verteidigunsminister-bestaetigt-zwei-weitere-israelische-geiseln-sind-tot](https://www.spiegel.de/ausland/israels-verteidigunsminister-bestaetigt-zwei-weitere-israelische-geiseln-sind-tot-a-ebd74112-5a1d-49b9-93f2-de6c5aef05fa#ref=rss)
+### bestätigt
+
+* [https://www.spiegel.de/ausland/israels-verteidigunsminister-bestaetigt-zwei-weitere-israelische-geiseln-sind-tot](https://www.spiegel.de/ausland/israels-verteidigunsminister-bestaetigt-zwei-weitere-israelische-geiseln-sind-tot-a-ebd74112-5a1d-49b9-93f2-de6c5aef05fa#ref=rss)
+### geiseln
+
+* [https://www.spiegel.de/ausland/israels-verteidigunsminister-bestaetigt-zwei-weitere-israelische-geiseln-sind-tot](https://www.spiegel.de/ausland/israels-verteidigunsminister-bestaetigt-zwei-weitere-israelische-geiseln-sind-tot-a-ebd74112-5a1d-49b9-93f2-de6c5aef05fa#ref=rss)
+### 100
+
+* [https://www.spiegel.de/ausland/israels-verteidigunsminister-bestaetigt-zwei-weitere-israelische-geiseln-sind-tot](https://www.spiegel.de/ausland/israels-verteidigunsminister-bestaetigt-zwei-weitere-israelische-geiseln-sind-tot-a-ebd74112-5a1d-49b9-93f2-de6c5aef05fa#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/kalifornien-wie-heftige-santa-ana-winde-explosive-braende-befeuern](https://www.spiegel.de/wissenschaft/natur/kalifornien-wie-heftige-santa-ana-winde-explosive-braende-befeuern-a-448a5dc2-d599-459f-971c-5669150aa36f#ref=rss)
+### bahn
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-wahlkampf-deutsche-bahn](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-wahlkampf-deutsche-bahn-a-3286ac43-5252-4d22-b619-b9d8c7204de4#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-wahlkampf-deutsche-bahn](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-wahlkampf-deutsche-bahn-a-3286ac43-5252-4d22-b619-b9d8c7204de4#ref=rss)
+* [https://www.spiegel.de/panorama/salmonellen-fressnapf-ruft-zahlreiche-hundefutter-und-katzenfutter-zurueck](https://www.spiegel.de/panorama/salmonellen-fressnapf-ruft-zahlreiche-hundefutter-und-katzenfutter-zurueck-a-2e65b377-c50f-437b-98c0-5f189cf2e40f#ref=rss)
+### seeon
+
+* [https://www.spiegel.de/politik/deutschland/csu-klausur-in-seeon-wenn-friedrich-merz-markus-soeder-im-regen-stehen-laesst](https://www.spiegel.de/politik/deutschland/csu-klausur-in-seeon-wenn-friedrich-merz-markus-soeder-im-regen-stehen-laesst-a-7c154031-8bda-43f1-b40b-337c4322067b#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/deutschland/csu-klausur-in-seeon-wenn-friedrich-merz-markus-soeder-im-regen-stehen-laesst](https://www.spiegel.de/politik/deutschland/csu-klausur-in-seeon-wenn-friedrich-merz-markus-soeder-im-regen-stehen-laesst-a-7c154031-8bda-43f1-b40b-337c4322067b#ref=rss)
 ### zahl
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutschland-zahl-der-start-ups-gestiegen](https://www.spiegel.de/wirtschaft/unternehmen/deutschland-zahl-der-start-ups-gestiegen-a-771a8876-26d5-4153-995d-942357bbb256#ref=rss)
-### startups
+* [https://www.spiegel.de/panorama/gesellschaft/wohnungslosigkeit-und-obdachlosigkeit-zahl-der-wohnungslosen-menschen-verdoppelt](https://www.spiegel.de/panorama/gesellschaft/wohnungslosigkeit-und-obdachlosigkeit-zahl-der-wohnungslosen-menschen-verdoppelt-a-e54f7dab-c80f-4e89-a7a2-62ebd00cc348#ref=rss)
+### pokémonreihe
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutschland-zahl-der-start-ups-gestiegen](https://www.spiegel.de/wirtschaft/unternehmen/deutschland-zahl-der-start-ups-gestiegen-a-771a8876-26d5-4153-995d-942357bbb256#ref=rss)
-### silvester
+* [https://www.spiegel.de/netzwelt/games/pokemon-reihe-pokemon-koennen-das-beduerfnis-nach-zugehoerigkeit-befriedigen](https://www.spiegel.de/netzwelt/games/pokemon-reihe-pokemon-koennen-das-beduerfnis-nach-zugehoerigkeit-befriedigen-a-b04f1fb9-8c56-4866-9b06-329a68f2d5c3#ref=rss)
+### pokémon
 
-* [https://www.spiegel.de/panorama/silvester-in-berlin-nur-harte-strafen-und-verbote-koennen-die-eskalierende-gewalt-eindaemmen](https://www.spiegel.de/panorama/silvester-in-berlin-nur-harte-strafen-und-verbote-koennen-die-eskalierende-gewalt-eindaemmen-a-ae74f5c0-3093-413a-98dd-7accd3b213bb#ref=rss)
-### zweiter
+* [https://www.spiegel.de/netzwelt/games/pokemon-reihe-pokemon-koennen-das-beduerfnis-nach-zugehoerigkeit-befriedigen](https://www.spiegel.de/netzwelt/games/pokemon-reihe-pokemon-koennen-das-beduerfnis-nach-zugehoerigkeit-befriedigen-a-b04f1fb9-8c56-4866-9b06-329a68f2d5c3#ref=rss)
+### hinter
 
-* [https://www.spiegel.de/panorama/justiz/one-direction-zweiter-verdaechtiger-stellt-sich-nach-tod-von-popstar-payne](https://www.spiegel.de/panorama/justiz/one-direction-zweiter-verdaechtiger-stellt-sich-nach-tod-von-popstar-payne-a-fde7d98b-b45b-407f-9098-cab917876429#ref=rss)
-### payne
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-spd-linke-wollen-wahlprogramm-verschaerfen](https://www.spiegel.de/politik/deutschland/bundestagswahl-spd-linke-wollen-wahlprogramm-verschaerfen-a-7c5eaae6-ea1a-4bae-815c-f002caf8e63e#ref=rss)
+* [https://www.spiegel.de/geschichte/squid-game-und-das-brothers-home-in-suedkorea-beruht-die-netflix-serie-auf-wahren-begebenheiten](https://www.spiegel.de/geschichte/squid-game-und-das-brothers-home-in-suedkorea-beruht-die-netflix-serie-auf-wahren-begebenheiten-a-53d9bb5b-99f2-4ad2-8d0b-336941f76427#ref=rss)
+### artenvielfalt
 
-* [https://www.spiegel.de/panorama/justiz/one-direction-zweiter-verdaechtiger-stellt-sich-nach-tod-von-popstar-payne](https://www.spiegel.de/panorama/justiz/one-direction-zweiter-verdaechtiger-stellt-sich-nach-tod-von-popstar-payne-a-fde7d98b-b45b-407f-9098-cab917876429#ref=rss)
-### hotels
+* [https://www.spiegel.de/wissenschaft/natur/artenvielfalt-fast-jedes-vierte-suesswassertier-vom-aussterben-bedroht](https://www.spiegel.de/wissenschaft/natur/artenvielfalt-fast-jedes-vierte-suesswassertier-vom-aussterben-bedroht-a-2695d2b3-41d8-4fd2-81b2-bb7d81f69c3b#ref=rss)
+### auswirkungen
 
-* [https://www.spiegel.de/panorama/justiz/one-direction-zweiter-verdaechtiger-stellt-sich-nach-tod-von-popstar-payne](https://www.spiegel.de/panorama/justiz/one-direction-zweiter-verdaechtiger-stellt-sich-nach-tod-von-popstar-payne-a-fde7d98b-b45b-407f-9098-cab917876429#ref=rss)
-### abschied
+* [https://www.spiegel.de/politik/deutschland/oesterreich-wahl-welche-auswirkungen-haette-herbert-kickls-kanzlerschaft-auf-die-eu](https://www.spiegel.de/politik/deutschland/oesterreich-wahl-welche-auswirkungen-haette-herbert-kickls-kanzlerschaft-auf-die-eu-a-31df6994-2d73-4e08-b365-ef15b65ec362#ref=rss)
+### hätte
 
-* [https://www.spiegel.de/sport/fussball/abschied-von-didier-deschamps-als-frankreichs-nationaltrainer-steht-bevor](https://www.spiegel.de/sport/fussball/abschied-von-didier-deschamps-als-frankreichs-nationaltrainer-steht-bevor-a-97dc5774-a7f8-44a4-ad0d-46036217a618#ref=rss)
-* [https://www.spiegel.de/ausland/jimmy-carter-sarg-des-ex-us-praesidenten-im-kapitol-aufgebahrt](https://www.spiegel.de/ausland/jimmy-carter-sarg-des-ex-us-praesidenten-im-kapitol-aufgebahrt-a-4f75417e-a35c-40f2-a62a-4374f2f5eb78#ref=rss)
-### didier
+* [https://www.spiegel.de/politik/deutschland/oesterreich-wahl-welche-auswirkungen-haette-herbert-kickls-kanzlerschaft-auf-die-eu](https://www.spiegel.de/politik/deutschland/oesterreich-wahl-welche-auswirkungen-haette-herbert-kickls-kanzlerschaft-auf-die-eu-a-31df6994-2d73-4e08-b365-ef15b65ec362#ref=rss)
+### herbert
 
-* [https://www.spiegel.de/sport/fussball/abschied-von-didier-deschamps-als-frankreichs-nationaltrainer-steht-bevor](https://www.spiegel.de/sport/fussball/abschied-von-didier-deschamps-als-frankreichs-nationaltrainer-steht-bevor-a-97dc5774-a7f8-44a4-ad0d-46036217a618#ref=rss)
-### deschamps
+* [https://www.spiegel.de/politik/deutschland/oesterreich-wahl-welche-auswirkungen-haette-herbert-kickls-kanzlerschaft-auf-die-eu](https://www.spiegel.de/politik/deutschland/oesterreich-wahl-welche-auswirkungen-haette-herbert-kickls-kanzlerschaft-auf-die-eu-a-31df6994-2d73-4e08-b365-ef15b65ec362#ref=rss)
+### eu
 
-* [https://www.spiegel.de/sport/fussball/abschied-von-didier-deschamps-als-frankreichs-nationaltrainer-steht-bevor](https://www.spiegel.de/sport/fussball/abschied-von-didier-deschamps-als-frankreichs-nationaltrainer-steht-bevor-a-97dc5774-a7f8-44a4-ad0d-46036217a618#ref=rss)
-### frankreichs
+* [https://www.spiegel.de/politik/deutschland/oesterreich-wahl-welche-auswirkungen-haette-herbert-kickls-kanzlerschaft-auf-die-eu](https://www.spiegel.de/politik/deutschland/oesterreich-wahl-welche-auswirkungen-haette-herbert-kickls-kanzlerschaft-auf-die-eu-a-31df6994-2d73-4e08-b365-ef15b65ec362#ref=rss)
+### sorgen
 
-* [https://www.spiegel.de/sport/fussball/abschied-von-didier-deschamps-als-frankreichs-nationaltrainer-steht-bevor](https://www.spiegel.de/sport/fussball/abschied-von-didier-deschamps-als-frankreichs-nationaltrainer-steht-bevor-a-97dc5774-a7f8-44a4-ad0d-46036217a618#ref=rss)
-* [https://www.spiegel.de/ausland/jean-marie-le-pen-hunderte-feiern-tod-des-rechtsextremen-politikers-in-frankreich](https://www.spiegel.de/ausland/jean-marie-le-pen-hunderte-feiern-tod-des-rechtsextremen-politikers-in-frankreich-a-66504ab3-da19-4bd2-8ead-1ef0cb573bb4#ref=rss)
-### jeanmarie
-
-* [https://www.spiegel.de/ausland/jean-marie-le-pen-hunderte-feiern-tod-des-rechtsextremen-politikers-in-frankreich](https://www.spiegel.de/ausland/jean-marie-le-pen-hunderte-feiern-tod-des-rechtsextremen-politikers-in-frankreich-a-66504ab3-da19-4bd2-8ead-1ef0cb573bb4#ref=rss)
-### le
-
-* [https://www.spiegel.de/ausland/jean-marie-le-pen-hunderte-feiern-tod-des-rechtsextremen-politikers-in-frankreich](https://www.spiegel.de/ausland/jean-marie-le-pen-hunderte-feiern-tod-des-rechtsextremen-politikers-in-frankreich-a-66504ab3-da19-4bd2-8ead-1ef0cb573bb4#ref=rss)
-### jimmy
-
-* [https://www.spiegel.de/ausland/jimmy-carter-sarg-des-ex-us-praesidenten-im-kapitol-aufgebahrt](https://www.spiegel.de/ausland/jimmy-carter-sarg-des-ex-us-praesidenten-im-kapitol-aufgebahrt-a-4f75417e-a35c-40f2-a62a-4374f2f5eb78#ref=rss)
-### carter
-
-* [https://www.spiegel.de/ausland/jimmy-carter-sarg-des-ex-us-praesidenten-im-kapitol-aufgebahrt](https://www.spiegel.de/ausland/jimmy-carter-sarg-des-ex-us-praesidenten-im-kapitol-aufgebahrt-a-4f75417e-a35c-40f2-a62a-4374f2f5eb78#ref=rss)
-### kapitol
-
-* [https://www.spiegel.de/ausland/jimmy-carter-sarg-des-ex-us-praesidenten-im-kapitol-aufgebahrt](https://www.spiegel.de/ausland/jimmy-carter-sarg-des-ex-us-praesidenten-im-kapitol-aufgebahrt-a-4f75417e-a35c-40f2-a62a-4374f2f5eb78#ref=rss)
-### aufgebahrt
-
-* [https://www.spiegel.de/ausland/jimmy-carter-sarg-des-ex-us-praesidenten-im-kapitol-aufgebahrt](https://www.spiegel.de/ausland/jimmy-carter-sarg-des-ex-us-praesidenten-im-kapitol-aufgebahrt-a-4f75417e-a35c-40f2-a62a-4374f2f5eb78#ref=rss)
-### gutes
-
-* [https://www.spiegel.de/ausland/jimmy-carter-sarg-des-ex-us-praesidenten-im-kapitol-aufgebahrt](https://www.spiegel.de/ausland/jimmy-carter-sarg-des-ex-us-praesidenten-im-kapitol-aufgebahrt-a-4f75417e-a35c-40f2-a62a-4374f2f5eb78#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung/ingwer-shots-wie-gesund-sind-sie-und-was-bringen-sie](https://www.spiegel.de/gesundheit/ernaehrung/ingwer-shots-wie-gesund-sind-sie-und-was-bringen-sie-a-1915aa06-8cbc-4980-9de3-61f47fb29416#ref=rss)
-### timothée
-
-* [https://www.spiegel.de/panorama/leute/golden-globes-timothee-chalamet-und-glen-powell-treffen-auf-ihre-doppelgaenger](https://www.spiegel.de/panorama/leute/golden-globes-timothee-chalamet-und-glen-powell-treffen-auf-ihre-doppelgaenger-a-3f30bdb7-6739-458d-a9a2-9661452cd472#ref=rss)
-### chalamet
-
-* [https://www.spiegel.de/panorama/leute/golden-globes-timothee-chalamet-und-glen-powell-treffen-auf-ihre-doppelgaenger](https://www.spiegel.de/panorama/leute/golden-globes-timothee-chalamet-und-glen-powell-treffen-auf-ihre-doppelgaenger-a-3f30bdb7-6739-458d-a9a2-9661452cd472#ref=rss)
-### glen
-
-* [https://www.spiegel.de/panorama/leute/golden-globes-timothee-chalamet-und-glen-powell-treffen-auf-ihre-doppelgaenger](https://www.spiegel.de/panorama/leute/golden-globes-timothee-chalamet-und-glen-powell-treffen-auf-ihre-doppelgaenger-a-3f30bdb7-6739-458d-a9a2-9661452cd472#ref=rss)
-### powell
-
-* [https://www.spiegel.de/panorama/leute/golden-globes-timothee-chalamet-und-glen-powell-treffen-auf-ihre-doppelgaenger](https://www.spiegel.de/panorama/leute/golden-globes-timothee-chalamet-und-glen-powell-treffen-auf-ihre-doppelgaenger-a-3f30bdb7-6739-458d-a9a2-9661452cd472#ref=rss)
-### treffen
-
-* [https://www.spiegel.de/panorama/leute/golden-globes-timothee-chalamet-und-glen-powell-treffen-auf-ihre-doppelgaenger](https://www.spiegel.de/panorama/leute/golden-globes-timothee-chalamet-und-glen-powell-treffen-auf-ihre-doppelgaenger-a-3f30bdb7-6739-458d-a9a2-9661452cd472#ref=rss)
-### brady
-
-* [https://www.spiegel.de/sport/american-football/kurz-nach-einstieg-von-tom-brady-feuern-die-las-vegas-raiders-den-coach-antonio-pierce](https://www.spiegel.de/sport/american-football/kurz-nach-einstieg-von-tom-brady-feuern-die-las-vegas-raiders-den-coach-antonio-pierce-a-c992d5b2-01d6-4baf-966b-854f55b9508c#ref=rss)
-### las
-
-* [https://www.spiegel.de/sport/american-football/kurz-nach-einstieg-von-tom-brady-feuern-die-las-vegas-raiders-den-coach-antonio-pierce](https://www.spiegel.de/sport/american-football/kurz-nach-einstieg-von-tom-brady-feuern-die-las-vegas-raiders-den-coach-antonio-pierce-a-c992d5b2-01d6-4baf-966b-854f55b9508c#ref=rss)
-### vegas
-
-* [https://www.spiegel.de/sport/american-football/kurz-nach-einstieg-von-tom-brady-feuern-die-las-vegas-raiders-den-coach-antonio-pierce](https://www.spiegel.de/sport/american-football/kurz-nach-einstieg-von-tom-brady-feuern-die-las-vegas-raiders-den-coach-antonio-pierce-a-c992d5b2-01d6-4baf-966b-854f55b9508c#ref=rss)
-### raiders
-
-* [https://www.spiegel.de/sport/american-football/kurz-nach-einstieg-von-tom-brady-feuern-die-las-vegas-raiders-den-coach-antonio-pierce](https://www.spiegel.de/sport/american-football/kurz-nach-einstieg-von-tom-brady-feuern-die-las-vegas-raiders-den-coach-antonio-pierce-a-c992d5b2-01d6-4baf-966b-854f55b9508c#ref=rss)
-### coach
-
-* [https://www.spiegel.de/sport/american-football/kurz-nach-einstieg-von-tom-brady-feuern-die-las-vegas-raiders-den-coach-antonio-pierce](https://www.spiegel.de/sport/american-football/kurz-nach-einstieg-von-tom-brady-feuern-die-las-vegas-raiders-den-coach-antonio-pierce-a-c992d5b2-01d6-4baf-966b-854f55b9508c#ref=rss)
-### kanada
-
-* [https://www.spiegel.de/ausland/donald-trump-kanada-und-groenland-wie-ernst-sind-seine-grossmachtgelueste-zu-nehmen](https://www.spiegel.de/ausland/donald-trump-kanada-und-groenland-wie-ernst-sind-seine-grossmachtgelueste-zu-nehmen-a-e7b7b17a-9641-4d78-ae6e-0ca953e123ba#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/oesterreich-wahl-welche-auswirkungen-haette-herbert-kickls-kanzlerschaft-auf-die-eu](https://www.spiegel.de/politik/deutschland/oesterreich-wahl-welche-auswirkungen-haette-herbert-kickls-kanzlerschaft-auf-die-eu-a-31df6994-2d73-4e08-b365-ef15b65ec362#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/kalifornien-wie-heftige-santa-ana-winde-explosive-braende-befeuern](https://www.spiegel.de/wissenschaft/natur/kalifornien-wie-heftige-santa-ana-winde-explosive-braende-befeuern-a-448a5dc2-d599-459f-971c-5669150aa36f#ref=rss)
 ### grönland
 
-* [https://www.spiegel.de/ausland/donald-trump-kanada-und-groenland-wie-ernst-sind-seine-grossmachtgelueste-zu-nehmen](https://www.spiegel.de/ausland/donald-trump-kanada-und-groenland-wie-ernst-sind-seine-grossmachtgelueste-zu-nehmen-a-e7b7b17a-9641-4d78-ae6e-0ca953e123ba#ref=rss)
-### ernst
+* [https://www.spiegel.de/ausland/trump-juniors-besuch-in-groenland-wir-werden-euch-gut-behandeln](https://www.spiegel.de/ausland/trump-juniors-besuch-in-groenland-wir-werden-euch-gut-behandeln-a-94782f9d-6d5e-4c31-8922-2f2e1ee2c56a#ref=rss)
+### tomorrow
 
-* [https://www.spiegel.de/ausland/donald-trump-kanada-und-groenland-wie-ernst-sind-seine-grossmachtgelueste-zu-nehmen](https://www.spiegel.de/ausland/donald-trump-kanada-und-groenland-wie-ernst-sind-seine-grossmachtgelueste-zu-nehmen-a-e7b7b17a-9641-4d78-ae6e-0ca953e123ba#ref=rss)
-### ärzte
+* [https://www.spiegel.de/sport/golf/tomorrow-golf-league-tgl-tiger-woods-und-rory-mcilroy-spielen-jetzt-in-der-halle](https://www.spiegel.de/sport/golf/tomorrow-golf-league-tgl-tiger-woods-und-rory-mcilroy-spielen-jetzt-in-der-halle-a-8c793463-e31c-43de-96e5-1611aebda6d7#ref=rss)
+### golf
 
-* [https://www.spiegel.de/karriere/gehaltsreport-von-stepstone-aerzte-sind-spitzenverdiener](https://www.spiegel.de/karriere/gehaltsreport-von-stepstone-aerzte-sind-spitzenverdiener-a-1db957c7-8781-4e29-ac57-5ea360a71517#ref=rss)
-### daniel
+* [https://www.spiegel.de/sport/golf/tomorrow-golf-league-tgl-tiger-woods-und-rory-mcilroy-spielen-jetzt-in-der-halle](https://www.spiegel.de/sport/golf/tomorrow-golf-league-tgl-tiger-woods-und-rory-mcilroy-spielen-jetzt-in-der-halle-a-8c793463-e31c-43de-96e5-1611aebda6d7#ref=rss)
+### league
 
-* [https://www.spiegel.de/politik/deutschland/daniel-guenther-empfiehlt-markus-soeder-einfach-den-mund-zu-halten](https://www.spiegel.de/politik/deutschland/daniel-guenther-empfiehlt-markus-soeder-einfach-den-mund-zu-halten-a-1ce5e0be-f9df-4292-9d4a-1b76047ac234#ref=rss)
-### günther
+* [https://www.spiegel.de/sport/golf/tomorrow-golf-league-tgl-tiger-woods-und-rory-mcilroy-spielen-jetzt-in-der-halle](https://www.spiegel.de/sport/golf/tomorrow-golf-league-tgl-tiger-woods-und-rory-mcilroy-spielen-jetzt-in-der-halle-a-8c793463-e31c-43de-96e5-1611aebda6d7#ref=rss)
+### spielen
 
-* [https://www.spiegel.de/politik/deutschland/daniel-guenther-empfiehlt-markus-soeder-einfach-den-mund-zu-halten](https://www.spiegel.de/politik/deutschland/daniel-guenther-empfiehlt-markus-soeder-einfach-den-mund-zu-halten-a-1ce5e0be-f9df-4292-9d4a-1b76047ac234#ref=rss)
-### markus
+* [https://www.spiegel.de/sport/golf/tomorrow-golf-league-tgl-tiger-woods-und-rory-mcilroy-spielen-jetzt-in-der-halle](https://www.spiegel.de/sport/golf/tomorrow-golf-league-tgl-tiger-woods-und-rory-mcilroy-spielen-jetzt-in-der-halle-a-8c793463-e31c-43de-96e5-1611aebda6d7#ref=rss)
+* [https://www.spiegel.de/geschichte/squid-game-und-das-brothers-home-in-suedkorea-beruht-die-netflix-serie-auf-wahren-begebenheiten](https://www.spiegel.de/geschichte/squid-game-und-das-brothers-home-in-suedkorea-beruht-die-netflix-serie-auf-wahren-begebenheiten-a-53d9bb5b-99f2-4ad2-8d0b-336941f76427#ref=rss)
+### salmonellen
 
-* [https://www.spiegel.de/politik/deutschland/daniel-guenther-empfiehlt-markus-soeder-einfach-den-mund-zu-halten](https://www.spiegel.de/politik/deutschland/daniel-guenther-empfiehlt-markus-soeder-einfach-den-mund-zu-halten-a-1ce5e0be-f9df-4292-9d4a-1b76047ac234#ref=rss)
-### söder
+* [https://www.spiegel.de/panorama/salmonellen-fressnapf-ruft-zahlreiche-hundefutter-und-katzenfutter-zurueck](https://www.spiegel.de/panorama/salmonellen-fressnapf-ruft-zahlreiche-hundefutter-und-katzenfutter-zurueck-a-2e65b377-c50f-437b-98c0-5f189cf2e40f#ref=rss)
+### eukommission
 
-* [https://www.spiegel.de/politik/deutschland/daniel-guenther-empfiehlt-markus-soeder-einfach-den-mund-zu-halten](https://www.spiegel.de/politik/deutschland/daniel-guenther-empfiehlt-markus-soeder-einfach-den-mund-zu-halten-a-1ce5e0be-f9df-4292-9d4a-1b76047ac234#ref=rss)
-### dirk
+* [https://www.spiegel.de/netzwelt/netzpolitik/dsgvo-eu-kommission-muss-strafe-fuer-datenschutz-verstoss-zahlen](https://www.spiegel.de/netzwelt/netzpolitik/dsgvo-eu-kommission-muss-strafe-fuer-datenschutz-verstoss-zahlen-a-0dac42f0-9fa7-4aea-962a-7c28b145bb4d#ref=rss)
+### zahlen
 
-* [https://www.spiegel.de/sport/basketball/dirk-nowitzki-feiert-sein-comeback-in-der-nba-als-tv-experte](https://www.spiegel.de/sport/basketball/dirk-nowitzki-feiert-sein-comeback-in-der-nba-als-tv-experte-a-4dd789b7-2ff0-4de1-bad6-6cf64b21a92a#ref=rss)
-### nowitzki
+* [https://www.spiegel.de/netzwelt/netzpolitik/dsgvo-eu-kommission-muss-strafe-fuer-datenschutz-verstoss-zahlen](https://www.spiegel.de/netzwelt/netzpolitik/dsgvo-eu-kommission-muss-strafe-fuer-datenschutz-verstoss-zahlen-a-0dac42f0-9fa7-4aea-962a-7c28b145bb4d#ref=rss)
+### behörden
 
-* [https://www.spiegel.de/sport/basketball/dirk-nowitzki-feiert-sein-comeback-in-der-nba-als-tv-experte](https://www.spiegel.de/sport/basketball/dirk-nowitzki-feiert-sein-comeback-in-der-nba-als-tv-experte-a-4dd789b7-2ff0-4de1-bad6-6cf64b21a92a#ref=rss)
-### nba
+* [https://www.spiegel.de/netzwelt/netzpolitik/dsgvo-eu-kommission-muss-strafe-fuer-datenschutz-verstoss-zahlen](https://www.spiegel.de/netzwelt/netzpolitik/dsgvo-eu-kommission-muss-strafe-fuer-datenschutz-verstoss-zahlen-a-0dac42f0-9fa7-4aea-962a-7c28b145bb4d#ref=rss)
+* [https://www.spiegel.de/geschichte/squid-game-und-das-brothers-home-in-suedkorea-beruht-die-netflix-serie-auf-wahren-begebenheiten](https://www.spiegel.de/geschichte/squid-game-und-das-brothers-home-in-suedkorea-beruht-die-netflix-serie-auf-wahren-begebenheiten-a-53d9bb5b-99f2-4ad2-8d0b-336941f76427#ref=rss)
+### scholz
 
-* [https://www.spiegel.de/sport/basketball/dirk-nowitzki-feiert-sein-comeback-in-der-nba-als-tv-experte](https://www.spiegel.de/sport/basketball/dirk-nowitzki-feiert-sein-comeback-in-der-nba-als-tv-experte-a-4dd789b7-2ff0-4de1-bad6-6cf64b21a92a#ref=rss)
-### politiker
+* [https://www.spiegel.de/ausland/olaf-scholz-nimmt-an-gipfel-zur-ostsee-sicherheit-in-helsinki-teil](https://www.spiegel.de/ausland/olaf-scholz-nimmt-an-gipfel-zur-ostsee-sicherheit-in-helsinki-teil-a-2a47ad01-8305-454d-9cac-1d211c2b33a2#ref=rss)
+### gipfel
 
-* [https://www.spiegel.de/ausland/donald-trump-was-deutsche-politiker-ueber-seine-nato-forderung-sagen-die-reaktionen](https://www.spiegel.de/ausland/donald-trump-was-deutsche-politiker-ueber-seine-nato-forderung-sagen-die-reaktionen-a-a92385b7-2cca-4572-b606-08a3b02290cd#ref=rss)
-### väter
+* [https://www.spiegel.de/ausland/olaf-scholz-nimmt-an-gipfel-zur-ostsee-sicherheit-in-helsinki-teil](https://www.spiegel.de/ausland/olaf-scholz-nimmt-an-gipfel-zur-ostsee-sicherheit-in-helsinki-teil-a-2a47ad01-8305-454d-9cac-1d211c2b33a2#ref=rss)
+### generation
 
-* [https://www.spiegel.de/familie/vaeter-in-elternzeit-warum-sich-immer-noch-vor-allem-muetter-um-die-kinder-kuemmern](https://www.spiegel.de/familie/vaeter-in-elternzeit-warum-sich-immer-noch-vor-allem-muetter-um-die-kinder-kuemmern-a-a0735e26-30ca-4d5b-b62d-17f2681bd5ff#ref=rss)
-### mütter
+* [https://www.spiegel.de/start/trendstudie-2025-die-arbeitsvorstellungen-der-generation-z](https://www.spiegel.de/start/trendstudie-2025-die-arbeitsvorstellungen-der-generation-z-a-3e87a5ca-0433-4bb0-a136-c0e5c1f373f2#ref=rss)
+### home
 
-* [https://www.spiegel.de/familie/vaeter-in-elternzeit-warum-sich-immer-noch-vor-allem-muetter-um-die-kinder-kuemmern](https://www.spiegel.de/familie/vaeter-in-elternzeit-warum-sich-immer-noch-vor-allem-muetter-um-die-kinder-kuemmern-a-a0735e26-30ca-4d5b-b62d-17f2681bd5ff#ref=rss)
-### kinder
+* [https://www.spiegel.de/geschichte/squid-game-und-das-brothers-home-in-suedkorea-beruht-die-netflix-serie-auf-wahren-begebenheiten](https://www.spiegel.de/geschichte/squid-game-und-das-brothers-home-in-suedkorea-beruht-die-netflix-serie-auf-wahren-begebenheiten-a-53d9bb5b-99f2-4ad2-8d0b-336941f76427#ref=rss)
+### kündigt
 
-* [https://www.spiegel.de/familie/vaeter-in-elternzeit-warum-sich-immer-noch-vor-allem-muetter-um-die-kinder-kuemmern](https://www.spiegel.de/familie/vaeter-in-elternzeit-warum-sich-immer-noch-vor-allem-muetter-um-die-kinder-kuemmern-a-a0735e26-30ca-4d5b-b62d-17f2681bd5ff#ref=rss)
-### meisten
-
-* [https://www.spiegel.de/familie/vaeter-in-elternzeit-warum-sich-immer-noch-vor-allem-muetter-um-die-kinder-kuemmern](https://www.spiegel.de/familie/vaeter-in-elternzeit-warum-sich-immer-noch-vor-allem-muetter-um-die-kinder-kuemmern-a-a0735e26-30ca-4d5b-b62d-17f2681bd5ff#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung/blaehbauch-und-ernaehrung-ist-falsches-essen-die-ursache](https://www.spiegel.de/gesundheit/ernaehrung/blaehbauch-und-ernaehrung-ist-falsches-essen-die-ursache-a-e94eba1a-24d5-458d-bcf4-f6414ee12934#ref=rss)
-### viele
-
-* [https://www.spiegel.de/familie/vaeter-in-elternzeit-warum-sich-immer-noch-vor-allem-muetter-um-die-kinder-kuemmern](https://www.spiegel.de/familie/vaeter-in-elternzeit-warum-sich-immer-noch-vor-allem-muetter-um-die-kinder-kuemmern-a-a0735e26-30ca-4d5b-b62d-17f2681bd5ff#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung/blaehbauch-und-ernaehrung-ist-falsches-essen-die-ursache](https://www.spiegel.de/gesundheit/ernaehrung/blaehbauch-und-ernaehrung-ist-falsches-essen-die-ursache-a-e94eba1a-24d5-458d-bcf4-f6414ee12934#ref=rss)
-### wir
-
-* [https://www.spiegel.de/familie/vaeter-in-elternzeit-warum-sich-immer-noch-vor-allem-muetter-um-die-kinder-kuemmern](https://www.spiegel.de/familie/vaeter-in-elternzeit-warum-sich-immer-noch-vor-allem-muetter-um-die-kinder-kuemmern-a-a0735e26-30ca-4d5b-b62d-17f2681bd5ff#ref=rss)
-* [https://www.spiegel.de/gesundheit/gesundheit-bewusster-ernaehren-besser-essen-podcast-smarter-leben](https://www.spiegel.de/gesundheit/gesundheit-bewusster-ernaehren-besser-essen-podcast-smarter-leben-a-fef55606-0160-4523-8653-a8bf8b61850a#ref=rss)
-### gesundheit
-
-* [https://www.spiegel.de/gesundheit/gesundheit-bewusster-ernaehren-besser-essen-podcast-smarter-leben](https://www.spiegel.de/gesundheit/gesundheit-bewusster-ernaehren-besser-essen-podcast-smarter-leben-a-fef55606-0160-4523-8653-a8bf8b61850a#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung/ingwer-shots-wie-gesund-sind-sie-und-was-bringen-sie](https://www.spiegel.de/gesundheit/ernaehrung/ingwer-shots-wie-gesund-sind-sie-und-was-bringen-sie-a-1915aa06-8cbc-4980-9de3-61f47fb29416#ref=rss)
-### blähbauch
-
-* [https://www.spiegel.de/gesundheit/ernaehrung/blaehbauch-und-ernaehrung-ist-falsches-essen-die-ursache](https://www.spiegel.de/gesundheit/ernaehrung/blaehbauch-und-ernaehrung-ist-falsches-essen-die-ursache-a-e94eba1a-24d5-458d-bcf4-f6414ee12934#ref=rss)
-### ursache
-
-* [https://www.spiegel.de/gesundheit/ernaehrung/blaehbauch-und-ernaehrung-ist-falsches-essen-die-ursache](https://www.spiegel.de/gesundheit/ernaehrung/blaehbauch-und-ernaehrung-ist-falsches-essen-die-ursache-a-e94eba1a-24d5-458d-bcf4-f6414ee12934#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/kurswechsel-von-mark-zuckerberg-was-aendert-sich-jetzt-bei-facebook-und-instagram](https://www.spiegel.de/netzwelt/netzpolitik/kurswechsel-von-mark-zuckerberg-was-aendert-sich-jetzt-bei-facebook-und-instagram-a-18e36a12-8990-406d-a9aa-d59215c79ab5#ref=rss)
 
