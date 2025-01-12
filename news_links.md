@@ -4,397 +4,370 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### menschen
-
-* [https://www.spiegel.de/ausland/weltraumschrott-500-kilo-metallring-schlaegt-in-kenia-ein-kann-sowas-kuenftig-oefter-passieren](https://www.spiegel.de/ausland/weltraumschrott-500-kilo-metallring-schlaegt-in-kenia-ein-kann-sowas-kuenftig-oefter-passieren-a-58f6a06a-216a-4783-b2e5-f083a1fda747#ref=rss)
-* [https://www.spiegel.de/ausland/indien-mehr-als-200-millionen-menschen-bei-rituellem-bad-kumbh-mela-erwartet](https://www.spiegel.de/ausland/indien-mehr-als-200-millionen-menschen-bei-rituellem-bad-kumbh-mela-erwartet-a-30b8a54e-06e5-4c91-82ab-607666097c09#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/afd-parteitag-in-riesa-wie-machtlos-die-proteste-gegen-den-erfolg-der-partei-sind](https://www.spiegel.de/panorama/gesellschaft/afd-parteitag-in-riesa-wie-machtlos-die-proteste-gegen-den-erfolg-der-partei-sind-a-6df1546b-5476-49b3-845f-471072bfe3d7#ref=rss)
-* [https://www.spiegel.de/panorama/tschechien-sechs-tote-bei-explosion-in-gaststaette](https://www.spiegel.de/panorama/tschechien-sechs-tote-bei-explosion-in-gaststaette-a-98f04ec3-6507-4fe6-b9d9-55a921409b97#ref=rss)
-* [https://www.spiegel.de/ausland/los-angeles-zahl-der-todesopfer-steigt-auf-16-feuer-weiten-sich-erneut-aus](https://www.spiegel.de/ausland/los-angeles-zahl-der-todesopfer-steigt-auf-16-feuer-weiten-sich-erneut-aus-a-44d6dc81-593a-46f0-8e2a-d36df3183b67#ref=rss)
-### parteitag
-
-* [https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-verweigert-parteirebellen-zutritt-zum-parteitag](https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-verweigert-parteirebellen-zutritt-zum-parteitag-a-37059c3e-f1e0-43f2-bf9b-cff8ada45549#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/afd-parteitag-in-riesa-wie-machtlos-die-proteste-gegen-den-erfolg-der-partei-sind](https://www.spiegel.de/panorama/gesellschaft/afd-parteitag-in-riesa-wie-machtlos-die-proteste-gegen-den-erfolg-der-partei-sind-a-6df1546b-5476-49b3-845f-471072bfe3d7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-parteitag-in-riesa-was-die-partei-in-ihr-wahlprogramm-aufnimmt-und-was-nicht](https://www.spiegel.de/politik/deutschland/afd-parteitag-in-riesa-was-die-partei-in-ihr-wahlprogramm-aufnimmt-und-was-nicht-a-1c36f488-8735-4962-9cd0-749058cb65cd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bsw-parteitag-in-bonn-die-groessten-baustellen-fuer-das-buendnis-sahra-wagenknecht](https://www.spiegel.de/politik/deutschland/bsw-parteitag-in-bonn-die-groessten-baustellen-fuer-das-buendnis-sahra-wagenknecht-a-a59822a8-9a78-4346-850b-fa3327a9f515#ref=rss)
-### los
-
-* [https://www.spiegel.de/ausland/waldbraende-in-los-angeles-der-enorme-schaden-im-vorort-altadena](https://www.spiegel.de/ausland/waldbraende-in-los-angeles-der-enorme-schaden-im-vorort-altadena-a-f4067d50-c0a0-4047-995f-5ce8c0c2c395#ref=rss)
-* [https://www.spiegel.de/ausland/los-angeles-zahl-der-todesopfer-steigt-auf-16-feuer-weiten-sich-erneut-aus](https://www.spiegel.de/ausland/los-angeles-zahl-der-todesopfer-steigt-auf-16-feuer-weiten-sich-erneut-aus-a-44d6dc81-593a-46f0-8e2a-d36df3183b67#ref=rss)
-* [https://www.spiegel.de/ausland/los-angeles-deutsche-kulturstaetten-thomas-mann-haus-und-villa-aurora-von-feuer-verschont](https://www.spiegel.de/ausland/los-angeles-deutsche-kulturstaetten-thomas-mann-haus-und-villa-aurora-von-feuer-verschont-a-4f600bee-9f01-4dbf-8387-3041b4f122e4#ref=rss)
-### angeles
-
-* [https://www.spiegel.de/ausland/waldbraende-in-los-angeles-der-enorme-schaden-im-vorort-altadena](https://www.spiegel.de/ausland/waldbraende-in-los-angeles-der-enorme-schaden-im-vorort-altadena-a-f4067d50-c0a0-4047-995f-5ce8c0c2c395#ref=rss)
-* [https://www.spiegel.de/ausland/los-angeles-zahl-der-todesopfer-steigt-auf-16-feuer-weiten-sich-erneut-aus](https://www.spiegel.de/ausland/los-angeles-zahl-der-todesopfer-steigt-auf-16-feuer-weiten-sich-erneut-aus-a-44d6dc81-593a-46f0-8e2a-d36df3183b67#ref=rss)
-* [https://www.spiegel.de/ausland/los-angeles-deutsche-kulturstaetten-thomas-mann-haus-und-villa-aurora-von-feuer-verschont](https://www.spiegel.de/ausland/los-angeles-deutsche-kulturstaetten-thomas-mann-haus-und-villa-aurora-von-feuer-verschont-a-4f600bee-9f01-4dbf-8387-3041b4f122e4#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-nach-erfolg-in-gladbach-vertragslage-der-bayern-stars-im-fokus](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-nach-erfolg-in-gladbach-vertragslage-der-bayern-stars-im-fokus-a-45be7b6a-e431-401c-a4de-a51c59b0c895#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bundesliga-fc-bayern-muenchen-ueberlegen-harry-kane-trifft-per-strafstoss-zum-sieg-in-gladbach](https://www.spiegel.de/sport/fussball/bundesliga-fc-bayern-muenchen-ueberlegen-harry-kane-trifft-per-strafstoss-zum-sieg-in-gladbach-a-91412fc3-8ed1-4643-b9d4-c78cd8688f52#ref=rss)
-* [https://www.spiegel.de/sport/schach-magnus-carlsen-gewinnt-bei-debuet-fuer-den-fc-st-pauli](https://www.spiegel.de/sport/schach-magnus-carlsen-gewinnt-bei-debuet-fuer-den-fc-st-pauli-a-1c356128-a71e-4e4d-ace7-bc932ea7fdde#ref=rss)
-### feuer
-
-* [https://www.spiegel.de/ausland/waldbraende-in-los-angeles-der-enorme-schaden-im-vorort-altadena](https://www.spiegel.de/ausland/waldbraende-in-los-angeles-der-enorme-schaden-im-vorort-altadena-a-f4067d50-c0a0-4047-995f-5ce8c0c2c395#ref=rss)
-* [https://www.spiegel.de/ausland/los-angeles-zahl-der-todesopfer-steigt-auf-16-feuer-weiten-sich-erneut-aus](https://www.spiegel.de/ausland/los-angeles-zahl-der-todesopfer-steigt-auf-16-feuer-weiten-sich-erneut-aus-a-44d6dc81-593a-46f0-8e2a-d36df3183b67#ref=rss)
-* [https://www.spiegel.de/ausland/los-angeles-deutsche-kulturstaetten-thomas-mann-haus-und-villa-aurora-von-feuer-verschont](https://www.spiegel.de/ausland/los-angeles-deutsche-kulturstaetten-thomas-mann-haus-und-villa-aurora-von-feuer-verschont-a-4f600bee-9f01-4dbf-8387-3041b4f122e4#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-nach-erfolg-in-gladbach-vertragslage-der-bayern-stars-im-fokus](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-nach-erfolg-in-gladbach-vertragslage-der-bayern-stars-im-fokus-a-45be7b6a-e431-401c-a4de-a51c59b0c895#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bundesliga-fc-bayern-muenchen-ueberlegen-harry-kane-trifft-per-strafstoss-zum-sieg-in-gladbach](https://www.spiegel.de/sport/fussball/bundesliga-fc-bayern-muenchen-ueberlegen-harry-kane-trifft-per-strafstoss-zum-sieg-in-gladbach-a-91412fc3-8ed1-4643-b9d4-c78cd8688f52#ref=rss)
-### erfolg
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-nach-erfolg-in-gladbach-vertragslage-der-bayern-stars-im-fokus](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-nach-erfolg-in-gladbach-vertragslage-der-bayern-stars-im-fokus-a-45be7b6a-e431-401c-a4de-a51c59b0c895#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/afd-parteitag-in-riesa-wie-machtlos-die-proteste-gegen-den-erfolg-der-partei-sind](https://www.spiegel.de/panorama/gesellschaft/afd-parteitag-in-riesa-wie-machtlos-die-proteste-gegen-den-erfolg-der-partei-sind-a-6df1546b-5476-49b3-845f-471072bfe3d7#ref=rss)
-* [https://www.spiegel.de/sport/schach-magnus-carlsen-gewinnt-bei-debuet-fuer-den-fc-st-pauli](https://www.spiegel.de/sport/schach-magnus-carlsen-gewinnt-bei-debuet-fuer-den-fc-st-pauli-a-1c356128-a71e-4e4d-ace7-bc932ea7fdde#ref=rss)
-### gladbach
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-nach-erfolg-in-gladbach-vertragslage-der-bayern-stars-im-fokus](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-nach-erfolg-in-gladbach-vertragslage-der-bayern-stars-im-fokus-a-45be7b6a-e431-401c-a4de-a51c59b0c895#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bundesliga-fc-bayern-muenchen-ueberlegen-harry-kane-trifft-per-strafstoss-zum-sieg-in-gladbach](https://www.spiegel.de/sport/fussball/bundesliga-fc-bayern-muenchen-ueberlegen-harry-kane-trifft-per-strafstoss-zum-sieg-in-gladbach-a-91412fc3-8ed1-4643-b9d4-c78cd8688f52#ref=rss)
-### partei
-
-* [https://www.spiegel.de/panorama/gesellschaft/afd-parteitag-in-riesa-wie-machtlos-die-proteste-gegen-den-erfolg-der-partei-sind](https://www.spiegel.de/panorama/gesellschaft/afd-parteitag-in-riesa-wie-machtlos-die-proteste-gegen-den-erfolg-der-partei-sind-a-6df1546b-5476-49b3-845f-471072bfe3d7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-parteitag-in-riesa-was-die-partei-in-ihr-wahlprogramm-aufnimmt-und-was-nicht](https://www.spiegel.de/politik/deutschland/afd-parteitag-in-riesa-was-die-partei-in-ihr-wahlprogramm-aufnimmt-und-was-nicht-a-1c36f488-8735-4962-9cd0-749058cb65cd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bsw-parteitag-in-bonn-die-groessten-baustellen-fuer-das-buendnis-sahra-wagenknecht](https://www.spiegel.de/politik/deutschland/bsw-parteitag-in-bonn-die-groessten-baustellen-fuer-das-buendnis-sahra-wagenknecht-a-a59822a8-9a78-4346-850b-fa3327a9f515#ref=rss)
-### künftig
-
-* [https://www.spiegel.de/ausland/weltraumschrott-500-kilo-metallring-schlaegt-in-kenia-ein-kann-sowas-kuenftig-oefter-passieren](https://www.spiegel.de/ausland/weltraumschrott-500-kilo-metallring-schlaegt-in-kenia-ein-kann-sowas-kuenftig-oefter-passieren-a-58f6a06a-216a-4783-b2e5-f083a1fda747#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/ces-in-las-vegas-warum-dolby-jetzt-kino-bildschirme-in-autos-einbaut](https://www.spiegel.de/netzwelt/gadgets/ces-in-las-vegas-warum-dolby-jetzt-kino-bildschirme-in-autos-einbaut-a-198573bd-a355-4716-82e6-9ccc980cc252#ref=rss)
-### uns
-
-* [https://www.spiegel.de/ausland/weltraumschrott-500-kilo-metallring-schlaegt-in-kenia-ein-kann-sowas-kuenftig-oefter-passieren](https://www.spiegel.de/ausland/weltraumschrott-500-kilo-metallring-schlaegt-in-kenia-ein-kann-sowas-kuenftig-oefter-passieren-a-58f6a06a-216a-4783-b2e5-f083a1fda747#ref=rss)
-* [https://www.spiegel.de/start/selbstsabotage-warum-wir-uns-selbst-steine-in-den-weg-legen-und-was-dagegen-hilft](https://www.spiegel.de/start/selbstsabotage-warum-wir-uns-selbst-steine-in-den-weg-legen-und-was-dagegen-hilft-a-d153d9d1-e960-4026-82c9-1f369a4af034#ref=rss)
-### bündnis
-
-* [https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-verweigert-parteirebellen-zutritt-zum-parteitag](https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-verweigert-parteirebellen-zutritt-zum-parteitag-a-37059c3e-f1e0-43f2-bf9b-cff8ada45549#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bsw-parteitag-in-bonn-die-groessten-baustellen-fuer-das-buendnis-sahra-wagenknecht](https://www.spiegel.de/politik/deutschland/bsw-parteitag-in-bonn-die-groessten-baustellen-fuer-das-buendnis-sahra-wagenknecht-a-a59822a8-9a78-4346-850b-fa3327a9f515#ref=rss)
-### sahra
-
-* [https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-verweigert-parteirebellen-zutritt-zum-parteitag](https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-verweigert-parteirebellen-zutritt-zum-parteitag-a-37059c3e-f1e0-43f2-bf9b-cff8ada45549#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bsw-parteitag-in-bonn-die-groessten-baustellen-fuer-das-buendnis-sahra-wagenknecht](https://www.spiegel.de/politik/deutschland/bsw-parteitag-in-bonn-die-groessten-baustellen-fuer-das-buendnis-sahra-wagenknecht-a-a59822a8-9a78-4346-850b-fa3327a9f515#ref=rss)
-### wagenknecht
-
-* [https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-verweigert-parteirebellen-zutritt-zum-parteitag](https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-verweigert-parteirebellen-zutritt-zum-parteitag-a-37059c3e-f1e0-43f2-bf9b-cff8ada45549#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bsw-parteitag-in-bonn-die-groessten-baustellen-fuer-das-buendnis-sahra-wagenknecht](https://www.spiegel.de/politik/deutschland/bsw-parteitag-in-bonn-die-groessten-baustellen-fuer-das-buendnis-sahra-wagenknecht-a-a59822a8-9a78-4346-850b-fa3327a9f515#ref=rss)
-### bonn
-
-* [https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-verweigert-parteirebellen-zutritt-zum-parteitag](https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-verweigert-parteirebellen-zutritt-zum-parteitag-a-37059c3e-f1e0-43f2-bf9b-cff8ada45549#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bsw-parteitag-in-bonn-die-groessten-baustellen-fuer-das-buendnis-sahra-wagenknecht](https://www.spiegel.de/politik/deutschland/bsw-parteitag-in-bonn-die-groessten-baustellen-fuer-das-buendnis-sahra-wagenknecht-a-a59822a8-9a78-4346-850b-fa3327a9f515#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-verweigert-parteirebellen-zutritt-zum-parteitag](https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-verweigert-parteirebellen-zutritt-zum-parteitag-a-37059c3e-f1e0-43f2-bf9b-cff8ada45549#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-sonderermittler-jack-smith-tritt-ab-bevor-trump-antritt](https://www.spiegel.de/ausland/donald-trump-sonderermittler-jack-smith-tritt-ab-bevor-trump-antritt-a-05f69455-0383-4d7c-a2d4-7ee9cac402ec#ref=rss)
-* [https://www.spiegel.de/ausland/los-angeles-deutsche-kulturstaetten-thomas-mann-haus-und-villa-aurora-von-feuer-verschont](https://www.spiegel.de/ausland/los-angeles-deutsche-kulturstaetten-thomas-mann-haus-und-villa-aurora-von-feuer-verschont-a-4f600bee-9f01-4dbf-8387-3041b4f122e4#ref=rss)
-### schaden
-
-* [https://www.spiegel.de/ausland/waldbraende-in-los-angeles-der-enorme-schaden-im-vorort-altadena](https://www.spiegel.de/ausland/waldbraende-in-los-angeles-der-enorme-schaden-im-vorort-altadena-a-f4067d50-c0a0-4047-995f-5ce8c0c2c395#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung-ein-glas-milch-taeglich-senkt-laut-oxford-studie-das-risiko-auf-darmkrebs](https://www.spiegel.de/gesundheit/ernaehrung-ein-glas-milch-taeglich-senkt-laut-oxford-studie-das-risiko-auf-darmkrebs-a-52f68c97-da1a-4bfe-ab3e-c0e1da62fada#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/sport/tennis/australian-open-2025-tatjana-maria-gewinnt-ihr-auftaktmatch-nach-langer-unwetterpause](https://www.spiegel.de/sport/tennis/australian-open-2025-tatjana-maria-gewinnt-ihr-auftaktmatch-nach-langer-unwetterpause-a-9be37348-0514-48ec-9bf6-e5057abff430#ref=rss)
-* [https://www.spiegel.de/ausland/los-angeles-deutsche-kulturstaetten-thomas-mann-haus-und-villa-aurora-von-feuer-verschont](https://www.spiegel.de/ausland/los-angeles-deutsche-kulturstaetten-thomas-mann-haus-und-villa-aurora-von-feuer-verschont-a-4f600bee-9f01-4dbf-8387-3041b4f122e4#ref=rss)
-### viele
-
-* [https://www.spiegel.de/sport/tennis/australian-open-marc-kevin-goellner-ueber-alexander-zverev-kevin-krawietz-und-boris-becker](https://www.spiegel.de/sport/tennis/australian-open-marc-kevin-goellner-ueber-alexander-zverev-kevin-krawietz-und-boris-becker-a-f21a983b-2107-433f-9089-95fc3ede37e8#ref=rss)
-* [https://www.spiegel.de/ausland/los-angeles-zahl-der-todesopfer-steigt-auf-16-feuer-weiten-sich-erneut-aus](https://www.spiegel.de/ausland/los-angeles-zahl-der-todesopfer-steigt-auf-16-feuer-weiten-sich-erneut-aus-a-44d6dc81-593a-46f0-8e2a-d36df3183b67#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/ces-in-las-vegas-warum-dolby-jetzt-kino-bildschirme-in-autos-einbaut](https://www.spiegel.de/netzwelt/gadgets/ces-in-las-vegas-warum-dolby-jetzt-kino-bildschirme-in-autos-einbaut-a-198573bd-a355-4716-82e6-9ccc980cc252#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/politik/deutschland/news-unbeliebte-kanzlerkandidaten-wahlkampf-in-deutschland](https://www.spiegel.de/politik/deutschland/news-unbeliebte-kanzlerkandidaten-wahlkampf-in-deutschland-a-0995a155-2266-439e-bdfa-a2226f77575b#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/afd-parteitag-in-riesa-wie-machtlos-die-proteste-gegen-den-erfolg-der-partei-sind](https://www.spiegel.de/panorama/gesellschaft/afd-parteitag-in-riesa-wie-machtlos-die-proteste-gegen-den-erfolg-der-partei-sind-a-6df1546b-5476-49b3-845f-471072bfe3d7#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/ces-in-las-vegas-warum-dolby-jetzt-kino-bildschirme-in-autos-einbaut](https://www.spiegel.de/netzwelt/gadgets/ces-in-las-vegas-warum-dolby-jetzt-kino-bildschirme-in-autos-einbaut-a-198573bd-a355-4716-82e6-9ccc980cc252#ref=rss)
 ### riesa
 
-* [https://www.spiegel.de/panorama/gesellschaft/afd-parteitag-in-riesa-wie-machtlos-die-proteste-gegen-den-erfolg-der-partei-sind](https://www.spiegel.de/panorama/gesellschaft/afd-parteitag-in-riesa-wie-machtlos-die-proteste-gegen-den-erfolg-der-partei-sind-a-6df1546b-5476-49b3-845f-471072bfe3d7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-parteitag-in-riesa-was-die-partei-in-ihr-wahlprogramm-aufnimmt-und-was-nicht](https://www.spiegel.de/politik/deutschland/afd-parteitag-in-riesa-was-die-partei-in-ihr-wahlprogramm-aufnimmt-und-was-nicht-a-1c36f488-8735-4962-9cd0-749058cb65cd#ref=rss)
-### drei
+* [https://www.spiegel.de/politik/deutschland/afd-parteitag-in-riesa-endlich-ehrlich-analyse](https://www.spiegel.de/politik/deutschland/afd-parteitag-in-riesa-endlich-ehrlich-analyse-a-8e9720ae-0aa0-4898-9e9d-7eed1df7f890#ref=rss)
+* [https://www.spiegel.de/politik/riesa-linken-politiker-bei-protesten-verletzt-ermittlungen-richten-sich-auf-niedersaechsische-polizisten](https://www.spiegel.de/politik/riesa-linken-politiker-bei-protesten-verletzt-ermittlungen-richten-sich-auf-niedersaechsische-polizisten-a-92d0622e-f0c7-4a3d-86b3-ad1f97f1f140#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-verschaerft-wahlprogramm-und-nimmt-rechten-begriff-der-remigration-auf](https://www.spiegel.de/politik/deutschland/afd-verschaerft-wahlprogramm-und-nimmt-rechten-begriff-der-remigration-auf-a-444b6c0c-63a6-4b6c-8dfc-023f727e25c4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-parteitag-in-riesa-ermittlungen-gegen-polizisten-wegen-polizeihund-einsatz](https://www.spiegel.de/politik/deutschland/afd-parteitag-in-riesa-ermittlungen-gegen-polizisten-wegen-polizeihund-einsatz-a-8c27ad93-617c-4f34-bd45-2694dcf4ae12#ref=rss)
+### verletzt
 
-* [https://www.spiegel.de/familie/kuckuckskind-ich-hatte-das-gefuehl-wie-in-der-truman-show-zu-leben](https://www.spiegel.de/familie/kuckuckskind-ich-hatte-das-gefuehl-wie-in-der-truman-show-zu-leben-a-e0b8d603-7b85-4f11-b7ef-d8755c3abc95#ref=rss)
-* [https://www.spiegel.de/gesundheit/maul-und-klauenseuche-in-brandenburg-virustyp-in-wasserbueffel-herde-identifiziert](https://www.spiegel.de/gesundheit/maul-und-klauenseuche-in-brandenburg-virustyp-in-wasserbueffel-herde-identifiziert-a-facb54b7-ce18-4239-83db-38a5a9d44114#ref=rss)
-* [https://www.spiegel.de/sport/schach-magnus-carlsen-gewinnt-bei-debuet-fuer-den-fc-st-pauli](https://www.spiegel.de/sport/schach-magnus-carlsen-gewinnt-bei-debuet-fuer-den-fc-st-pauli-a-1c356128-a71e-4e4d-ace7-bc932ea7fdde#ref=rss)
-### lacoste
+* [https://www.spiegel.de/politik/riesa-linken-politiker-bei-protesten-verletzt-ermittlungen-richten-sich-auf-niedersaechsische-polizisten](https://www.spiegel.de/politik/riesa-linken-politiker-bei-protesten-verletzt-ermittlungen-richten-sich-auf-niedersaechsische-polizisten-a-92d0622e-f0c7-4a3d-86b3-ad1f97f1f140#ref=rss)
+* [https://www.spiegel.de/panorama/schweden-schnee-und-eis-in-stockholm-soldat-verletzt-sich-mit-bajonett](https://www.spiegel.de/panorama/schweden-schnee-und-eis-in-stockholm-soldat-verletzt-sich-mit-bajonett-a-b2cf404d-4232-47a2-a862-36ff4fd7f32d#ref=rss)
+* [https://www.spiegel.de/panorama/strassburg-dutzende-verletzte-bei-strassenbahnunglueck](https://www.spiegel.de/panorama/strassburg-dutzende-verletzte-bei-strassenbahnunglueck-a-c6f995fa-edf8-4c8c-bff7-362f90e6e220#ref=rss)
+* [https://www.spiegel.de/ausland/rom-zusammenstoesse-bei-demonstration-nach-tod-eines-jungen-mannes-acht-polizisten-verletzt](https://www.spiegel.de/ausland/rom-zusammenstoesse-bei-demonstration-nach-tod-eines-jungen-mannes-acht-polizisten-verletzt-a-6719c42c-ddeb-45c5-bfd5-c280d17c2051#ref=rss)
+### polizisten
 
-* [https://www.spiegel.de/wirtschaft/lacoste-wie-sophie-lacoste-das-edel-label-fusalp-neu-aufbaut](https://www.spiegel.de/wirtschaft/lacoste-wie-sophie-lacoste-das-edel-label-fusalp-neu-aufbaut-a-3c9c82d1-e8e4-4c5e-92e2-fb5da1fad477#ref=rss)
-### trump
+* [https://www.spiegel.de/politik/riesa-linken-politiker-bei-protesten-verletzt-ermittlungen-richten-sich-auf-niedersaechsische-polizisten](https://www.spiegel.de/politik/riesa-linken-politiker-bei-protesten-verletzt-ermittlungen-richten-sich-auf-niedersaechsische-polizisten-a-92d0622e-f0c7-4a3d-86b3-ad1f97f1f140#ref=rss)
+* [https://www.spiegel.de/ausland/rom-zusammenstoesse-bei-demonstration-nach-tod-eines-jungen-mannes-acht-polizisten-verletzt](https://www.spiegel.de/ausland/rom-zusammenstoesse-bei-demonstration-nach-tod-eines-jungen-mannes-acht-polizisten-verletzt-a-6719c42c-ddeb-45c5-bfd5-c280d17c2051#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-parteitag-in-riesa-ermittlungen-gegen-polizisten-wegen-polizeihund-einsatz](https://www.spiegel.de/politik/deutschland/afd-parteitag-in-riesa-ermittlungen-gegen-polizisten-wegen-polizeihund-einsatz-a-8c27ad93-617c-4f34-bd45-2694dcf4ae12#ref=rss)
+### afd
 
-* [https://www.spiegel.de/ausland/donald-trump-sonderermittler-jack-smith-tritt-ab-bevor-trump-antritt](https://www.spiegel.de/ausland/donald-trump-sonderermittler-jack-smith-tritt-ab-bevor-trump-antritt-a-05f69455-0383-4d7c-a2d4-7ee9cac402ec#ref=rss)
-### dolby
+* [https://www.spiegel.de/politik/deutschland/afd-parteitag-in-riesa-endlich-ehrlich-analyse](https://www.spiegel.de/politik/deutschland/afd-parteitag-in-riesa-endlich-ehrlich-analyse-a-8e9720ae-0aa0-4898-9e9d-7eed1df7f890#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-verschaerft-wahlprogramm-und-nimmt-rechten-begriff-der-remigration-auf](https://www.spiegel.de/politik/deutschland/afd-verschaerft-wahlprogramm-und-nimmt-rechten-begriff-der-remigration-auf-a-444b6c0c-63a6-4b6c-8dfc-023f727e25c4#ref=rss)
+* [https://www.spiegel.de/politik/afd-trennt-sich-von-junger-alternative-und-beschliesst-gruendung-neuer-jugendorganisation](https://www.spiegel.de/politik/afd-trennt-sich-von-junger-alternative-und-beschliesst-gruendung-neuer-jugendorganisation-a-0f24cbd8-2846-4ae5-a401-2c343fb4d51c#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/netzwelt/gadgets/ces-in-las-vegas-warum-dolby-jetzt-kino-bildschirme-in-autos-einbaut](https://www.spiegel.de/netzwelt/gadgets/ces-in-las-vegas-warum-dolby-jetzt-kino-bildschirme-in-autos-einbaut-a-198573bd-a355-4716-82e6-9ccc980cc252#ref=rss)
-### schlägt
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-juergen-klopp-sieht-rb-leipzigs-sieg-ueber-werder-bremen-xavi-simons-trifft-doppelt](https://www.spiegel.de/sport/fussball/fussball-bundesliga-juergen-klopp-sieht-rb-leipzigs-sieg-ueber-werder-bremen-xavi-simons-trifft-doppelt-a-cff03887-4d95-4bd2-99b2-3c8cf2b1a56c#ref=rss)
+* [https://www.spiegel.de/ausland/elon-musk-und-donald-trump-insider-geben-einblicke-in-den-aufbau-neuer-effizienzkommission-doge](https://www.spiegel.de/ausland/elon-musk-und-donald-trump-insider-geben-einblicke-in-den-aufbau-neuer-effizienzkommission-doge-a-4170fa24-4e64-4185-927c-0041f7c1bb93#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-armee-meldet-strategischen-erfolg-wichtige-stadt-zurueckerobert](https://www.spiegel.de/ausland/sudan-armee-meldet-strategischen-erfolg-wichtige-stadt-zurueckerobert-a-d48c62e8-ddee-4d2a-a0b8-49e64230d94e#ref=rss)
+* [https://www.spiegel.de/panorama/strassburg-dutzende-verletzte-bei-strassenbahnunglueck](https://www.spiegel.de/panorama/strassburg-dutzende-verletzte-bei-strassenbahnunglueck-a-c6f995fa-edf8-4c8c-bff7-362f90e6e220#ref=rss)
+* [https://www.spiegel.de/sport/tennis/australian-open-2025-alexander-zverev-nach-sieg-gegen-lucas-pouille-in-runde-zwei](https://www.spiegel.de/sport/tennis/australian-open-2025-alexander-zverev-nach-sieg-gegen-lucas-pouille-in-runde-zwei-a-59953069-4a2f-44eb-a072-a775094ab0f5#ref=rss)
+### russland
 
-* [https://www.spiegel.de/ausland/weltraumschrott-500-kilo-metallring-schlaegt-in-kenia-ein-kann-sowas-kuenftig-oefter-passieren](https://www.spiegel.de/ausland/weltraumschrott-500-kilo-metallring-schlaegt-in-kenia-ein-kann-sowas-kuenftig-oefter-passieren-a-58f6a06a-216a-4783-b2e5-f083a1fda747#ref=rss)
-### kenia
+* [https://www.spiegel.de/politik/jan-marsalek-warum-deutsche-geheimdienste-arglos-waren-podcast-firewall](https://www.spiegel.de/politik/jan-marsalek-warum-deutsche-geheimdienste-arglos-waren-podcast-firewall-a-03a96d8a-dbdd-4e0b-b05d-fcd89a9434ec#ref=rss)
+* [https://www.spiegel.de/ausland/russland-wie-donald-trump-den-imperialismus-von-wladimir-putin-stuetzt](https://www.spiegel.de/ausland/russland-wie-donald-trump-den-imperialismus-von-wladimir-putin-stuetzt-a-dbaf1571-4adb-4074-b73a-bcea10d89905#ref=rss)
+* [https://www.spiegel.de/ausland/russland-frauenproteste-gegen-den-krieg](https://www.spiegel.de/ausland/russland-frauenproteste-gegen-den-krieg-a-1612378c-3193-4f88-b5fd-6a194d2d91c9#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/ausland/weltraumschrott-500-kilo-metallring-schlaegt-in-kenia-ein-kann-sowas-kuenftig-oefter-passieren](https://www.spiegel.de/ausland/weltraumschrott-500-kilo-metallring-schlaegt-in-kenia-ein-kann-sowas-kuenftig-oefter-passieren-a-58f6a06a-216a-4783-b2e5-f083a1fda747#ref=rss)
-### passieren
+* [https://www.spiegel.de/politik/jan-marsalek-warum-deutsche-geheimdienste-arglos-waren-podcast-firewall](https://www.spiegel.de/politik/jan-marsalek-warum-deutsche-geheimdienste-arglos-waren-podcast-firewall-a-03a96d8a-dbdd-4e0b-b05d-fcd89a9434ec#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/wintersport-riesenslalom-in-adelboden-tv-drohne-stuerzt-hinter-jonas-stockinger-ab](https://www.spiegel.de/sport/wintersport/wintersport-riesenslalom-in-adelboden-tv-drohne-stuerzt-hinter-jonas-stockinger-ab-a-b40497fe-2883-4414-a902-ca9ca26efb88#ref=rss)
+### krieg
 
-* [https://www.spiegel.de/ausland/weltraumschrott-500-kilo-metallring-schlaegt-in-kenia-ein-kann-sowas-kuenftig-oefter-passieren](https://www.spiegel.de/ausland/weltraumschrott-500-kilo-metallring-schlaegt-in-kenia-ein-kann-sowas-kuenftig-oefter-passieren-a-58f6a06a-216a-4783-b2e5-f083a1fda747#ref=rss)
-### etwas
+* [https://www.spiegel.de/politik/jan-marsalek-warum-deutsche-geheimdienste-arglos-waren-podcast-firewall](https://www.spiegel.de/politik/jan-marsalek-warum-deutsche-geheimdienste-arglos-waren-podcast-firewall-a-03a96d8a-dbdd-4e0b-b05d-fcd89a9434ec#ref=rss)
+* [https://www.spiegel.de/ausland/russland-frauenproteste-gegen-den-krieg](https://www.spiegel.de/ausland/russland-frauenproteste-gegen-den-krieg-a-1612378c-3193-4f88-b5fd-6a194d2d91c9#ref=rss)
+### zeigt
 
-* [https://www.spiegel.de/ausland/weltraumschrott-500-kilo-metallring-schlaegt-in-kenia-ein-kann-sowas-kuenftig-oefter-passieren](https://www.spiegel.de/ausland/weltraumschrott-500-kilo-metallring-schlaegt-in-kenia-ein-kann-sowas-kuenftig-oefter-passieren-a-58f6a06a-216a-4783-b2e5-f083a1fda747#ref=rss)
-* [https://www.spiegel.de/sport/schach-magnus-carlsen-gewinnt-bei-debuet-fuer-den-fc-st-pauli](https://www.spiegel.de/sport/schach-magnus-carlsen-gewinnt-bei-debuet-fuer-den-fc-st-pauli-a-1c356128-a71e-4e4d-ace7-bc932ea7fdde#ref=rss)
-### indien
+* [https://www.spiegel.de/politik/deutschland/afd-parteitag-in-riesa-endlich-ehrlich-analyse](https://www.spiegel.de/politik/deutschland/afd-parteitag-in-riesa-endlich-ehrlich-analyse-a-8e9720ae-0aa0-4898-9e9d-7eed1df7f890#ref=rss)
+* [https://www.spiegel.de/politik/ostsee-schutz-von-seekabeln-schweden-beteiligt-sich-mit-drei-schiffen-an-nato-einsatz](https://www.spiegel.de/politik/ostsee-schutz-von-seekabeln-schweden-beteiligt-sich-mit-drei-schiffen-an-nato-einsatz-a-3032d5ec-8bdb-4248-8086-a0990ca01d59#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-parteitag-in-riesa-ermittlungen-gegen-polizisten-wegen-polizeihund-einsatz](https://www.spiegel.de/politik/deutschland/afd-parteitag-in-riesa-ermittlungen-gegen-polizisten-wegen-polizeihund-einsatz-a-8c27ad93-617c-4f34-bd45-2694dcf4ae12#ref=rss)
+### blieb
 
-* [https://www.spiegel.de/ausland/indien-mehr-als-200-millionen-menschen-bei-rituellem-bad-kumbh-mela-erwartet](https://www.spiegel.de/ausland/indien-mehr-als-200-millionen-menschen-bei-rituellem-bad-kumbh-mela-erwartet-a-30b8a54e-06e5-4c91-82ab-607666097c09#ref=rss)
-### mehr
+* [https://www.spiegel.de/panorama/leute/robert-redford-niemand-kuesst-vor-der-kamera-so-gut-wie-der-us-schauspieler-sagt-glenn-close](https://www.spiegel.de/panorama/leute/robert-redford-niemand-kuesst-vor-der-kamera-so-gut-wie-der-us-schauspieler-sagt-glenn-close-a-4f8ebf52-b1b2-421f-9823-df332118df06#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/wintersport-riesenslalom-in-adelboden-tv-drohne-stuerzt-hinter-jonas-stockinger-ab](https://www.spiegel.de/sport/wintersport/wintersport-riesenslalom-in-adelboden-tv-drohne-stuerzt-hinter-jonas-stockinger-ab-a-b40497fe-2883-4414-a902-ca9ca26efb88#ref=rss)
+* [https://www.spiegel.de/panorama/ansbach-fahrzeug-des-us-militaers-erfasst-fussgaengerin-frau-stirbt](https://www.spiegel.de/panorama/ansbach-fahrzeug-des-us-militaers-erfasst-fussgaengerin-frau-stirbt-a-7731ab14-2454-48d5-a576-6cf9e3a1a2be#ref=rss)
+### schweden
 
-* [https://www.spiegel.de/ausland/indien-mehr-als-200-millionen-menschen-bei-rituellem-bad-kumbh-mela-erwartet](https://www.spiegel.de/ausland/indien-mehr-als-200-millionen-menschen-bei-rituellem-bad-kumbh-mela-erwartet-a-30b8a54e-06e5-4c91-82ab-607666097c09#ref=rss)
-* [https://www.spiegel.de/ausland/transnistrien-energie-notstand-in-putins-phantomstaat-kein-anderer-ausweg-als-wegzuziehen](https://www.spiegel.de/ausland/transnistrien-energie-notstand-in-putins-phantomstaat-kein-anderer-ausweg-als-wegzuziehen-a-837f39e9-00fe-43a6-bcad-ac1b0c74ba73#ref=rss)
-### 200
+* [https://www.spiegel.de/politik/ostsee-schutz-von-seekabeln-schweden-beteiligt-sich-mit-drei-schiffen-an-nato-einsatz](https://www.spiegel.de/politik/ostsee-schutz-von-seekabeln-schweden-beteiligt-sich-mit-drei-schiffen-an-nato-einsatz-a-3032d5ec-8bdb-4248-8086-a0990ca01d59#ref=rss)
+* [https://www.spiegel.de/panorama/schweden-schnee-und-eis-in-stockholm-soldat-verletzt-sich-mit-bajonett](https://www.spiegel.de/panorama/schweden-schnee-und-eis-in-stockholm-soldat-verletzt-sich-mit-bajonett-a-b2cf404d-4232-47a2-a862-36ff4fd7f32d#ref=rss)
+### wichtige
 
-* [https://www.spiegel.de/ausland/indien-mehr-als-200-millionen-menschen-bei-rituellem-bad-kumbh-mela-erwartet](https://www.spiegel.de/ausland/indien-mehr-als-200-millionen-menschen-bei-rituellem-bad-kumbh-mela-erwartet-a-30b8a54e-06e5-4c91-82ab-607666097c09#ref=rss)
-### millionen
+* [https://www.spiegel.de/politik/ostsee-schutz-von-seekabeln-schweden-beteiligt-sich-mit-drei-schiffen-an-nato-einsatz](https://www.spiegel.de/politik/ostsee-schutz-von-seekabeln-schweden-beteiligt-sich-mit-drei-schiffen-an-nato-einsatz-a-3032d5ec-8bdb-4248-8086-a0990ca01d59#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-armee-meldet-strategischen-erfolg-wichtige-stadt-zurueckerobert](https://www.spiegel.de/ausland/sudan-armee-meldet-strategischen-erfolg-wichtige-stadt-zurueckerobert-a-d48c62e8-ddee-4d2a-a0b8-49e64230d94e#ref=rss)
+### ermittlungen
 
-* [https://www.spiegel.de/ausland/indien-mehr-als-200-millionen-menschen-bei-rituellem-bad-kumbh-mela-erwartet](https://www.spiegel.de/ausland/indien-mehr-als-200-millionen-menschen-bei-rituellem-bad-kumbh-mela-erwartet-a-30b8a54e-06e5-4c91-82ab-607666097c09#ref=rss)
-### kumbh
-
-* [https://www.spiegel.de/ausland/indien-mehr-als-200-millionen-menschen-bei-rituellem-bad-kumbh-mela-erwartet](https://www.spiegel.de/ausland/indien-mehr-als-200-millionen-menschen-bei-rituellem-bad-kumbh-mela-erwartet-a-30b8a54e-06e5-4c91-82ab-607666097c09#ref=rss)
-### mela
-
-* [https://www.spiegel.de/ausland/indien-mehr-als-200-millionen-menschen-bei-rituellem-bad-kumbh-mela-erwartet](https://www.spiegel.de/ausland/indien-mehr-als-200-millionen-menschen-bei-rituellem-bad-kumbh-mela-erwartet-a-30b8a54e-06e5-4c91-82ab-607666097c09#ref=rss)
-### erwartet
-
-* [https://www.spiegel.de/ausland/indien-mehr-als-200-millionen-menschen-bei-rituellem-bad-kumbh-mela-erwartet](https://www.spiegel.de/ausland/indien-mehr-als-200-millionen-menschen-bei-rituellem-bad-kumbh-mela-erwartet-a-30b8a54e-06e5-4c91-82ab-607666097c09#ref=rss)
-### djimon
-
-* [https://www.spiegel.de/panorama/leute/djimon-hounsou-oscar-anwaerter-muss-kaempfen-um-lebensunterhalt-zu-verdienen](https://www.spiegel.de/panorama/leute/djimon-hounsou-oscar-anwaerter-muss-kaempfen-um-lebensunterhalt-zu-verdienen-a-d9c6f803-cfa3-4f77-bc7a-16b4e0e57033#ref=rss)
-### hounsou
-
-* [https://www.spiegel.de/panorama/leute/djimon-hounsou-oscar-anwaerter-muss-kaempfen-um-lebensunterhalt-zu-verdienen](https://www.spiegel.de/panorama/leute/djimon-hounsou-oscar-anwaerter-muss-kaempfen-um-lebensunterhalt-zu-verdienen-a-d9c6f803-cfa3-4f77-bc7a-16b4e0e57033#ref=rss)
-### interview
-
-* [https://www.spiegel.de/panorama/leute/djimon-hounsou-oscar-anwaerter-muss-kaempfen-um-lebensunterhalt-zu-verdienen](https://www.spiegel.de/panorama/leute/djimon-hounsou-oscar-anwaerter-muss-kaempfen-um-lebensunterhalt-zu-verdienen-a-d9c6f803-cfa3-4f77-bc7a-16b4e0e57033#ref=rss)
-* [https://www.spiegel.de/sport/tennis/australian-open-marc-kevin-goellner-ueber-alexander-zverev-kevin-krawietz-und-boris-becker](https://www.spiegel.de/sport/tennis/australian-open-marc-kevin-goellner-ueber-alexander-zverev-kevin-krawietz-und-boris-becker-a-f21a983b-2107-433f-9089-95fc3ede37e8#ref=rss)
-### altadena
-
-* [https://www.spiegel.de/ausland/waldbraende-in-los-angeles-der-enorme-schaden-im-vorort-altadena](https://www.spiegel.de/ausland/waldbraende-in-los-angeles-der-enorme-schaden-im-vorort-altadena-a-f4067d50-c0a0-4047-995f-5ce8c0c2c395#ref=rss)
-### australian
-
-* [https://www.spiegel.de/sport/tennis/australian-open-2025-tatjana-maria-gewinnt-ihr-auftaktmatch-nach-langer-unwetterpause](https://www.spiegel.de/sport/tennis/australian-open-2025-tatjana-maria-gewinnt-ihr-auftaktmatch-nach-langer-unwetterpause-a-9be37348-0514-48ec-9bf6-e5057abff430#ref=rss)
-* [https://www.spiegel.de/sport/tennis/australian-open-marc-kevin-goellner-ueber-alexander-zverev-kevin-krawietz-und-boris-becker](https://www.spiegel.de/sport/tennis/australian-open-marc-kevin-goellner-ueber-alexander-zverev-kevin-krawietz-und-boris-becker-a-f21a983b-2107-433f-9089-95fc3ede37e8#ref=rss)
-### open
-
-* [https://www.spiegel.de/sport/tennis/australian-open-2025-tatjana-maria-gewinnt-ihr-auftaktmatch-nach-langer-unwetterpause](https://www.spiegel.de/sport/tennis/australian-open-2025-tatjana-maria-gewinnt-ihr-auftaktmatch-nach-langer-unwetterpause-a-9be37348-0514-48ec-9bf6-e5057abff430#ref=rss)
-* [https://www.spiegel.de/sport/tennis/australian-open-marc-kevin-goellner-ueber-alexander-zverev-kevin-krawietz-und-boris-becker](https://www.spiegel.de/sport/tennis/australian-open-marc-kevin-goellner-ueber-alexander-zverev-kevin-krawietz-und-boris-becker-a-f21a983b-2107-433f-9089-95fc3ede37e8#ref=rss)
-### tatjana
-
-* [https://www.spiegel.de/sport/tennis/australian-open-2025-tatjana-maria-gewinnt-ihr-auftaktmatch-nach-langer-unwetterpause](https://www.spiegel.de/sport/tennis/australian-open-2025-tatjana-maria-gewinnt-ihr-auftaktmatch-nach-langer-unwetterpause-a-9be37348-0514-48ec-9bf6-e5057abff430#ref=rss)
-### maria
-
-* [https://www.spiegel.de/sport/tennis/australian-open-2025-tatjana-maria-gewinnt-ihr-auftaktmatch-nach-langer-unwetterpause](https://www.spiegel.de/sport/tennis/australian-open-2025-tatjana-maria-gewinnt-ihr-auftaktmatch-nach-langer-unwetterpause-a-9be37348-0514-48ec-9bf6-e5057abff430#ref=rss)
-### gewinnt
-
-* [https://www.spiegel.de/sport/tennis/australian-open-2025-tatjana-maria-gewinnt-ihr-auftaktmatch-nach-langer-unwetterpause](https://www.spiegel.de/sport/tennis/australian-open-2025-tatjana-maria-gewinnt-ihr-auftaktmatch-nach-langer-unwetterpause-a-9be37348-0514-48ec-9bf6-e5057abff430#ref=rss)
-* [https://www.spiegel.de/sport/schach-magnus-carlsen-gewinnt-bei-debuet-fuer-den-fc-st-pauli](https://www.spiegel.de/sport/schach-magnus-carlsen-gewinnt-bei-debuet-fuer-den-fc-st-pauli-a-1c356128-a71e-4e4d-ace7-bc932ea7fdde#ref=rss)
-### zweite
-
-* [https://www.spiegel.de/sport/tennis/australian-open-2025-tatjana-maria-gewinnt-ihr-auftaktmatch-nach-langer-unwetterpause](https://www.spiegel.de/sport/tennis/australian-open-2025-tatjana-maria-gewinnt-ihr-auftaktmatch-nach-langer-unwetterpause-a-9be37348-0514-48ec-9bf6-e5057abff430#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/sport/tennis/australian-open-2025-tatjana-maria-gewinnt-ihr-auftaktmatch-nach-langer-unwetterpause](https://www.spiegel.de/sport/tennis/australian-open-2025-tatjana-maria-gewinnt-ihr-auftaktmatch-nach-langer-unwetterpause-a-9be37348-0514-48ec-9bf6-e5057abff430#ref=rss)
-* [https://www.spiegel.de/sport/fussball/australian-open-quiz-wann-wurde-das-turnier-zuletzt-auf-gras-ausgetragen](https://www.spiegel.de/sport/fussball/australian-open-quiz-wann-wurde-das-turnier-zuletzt-auf-gras-ausgetragen-a-d7db73e5-ddba-4239-a623-1a5270b8aab9#ref=rss)
-### jahres
-
-* [https://www.spiegel.de/sport/tennis/australian-open-2025-tatjana-maria-gewinnt-ihr-auftaktmatch-nach-langer-unwetterpause](https://www.spiegel.de/sport/tennis/australian-open-2025-tatjana-maria-gewinnt-ihr-auftaktmatch-nach-langer-unwetterpause-a-9be37348-0514-48ec-9bf6-e5057abff430#ref=rss)
-* [https://www.spiegel.de/sport/fussball/australian-open-quiz-wann-wurde-das-turnier-zuletzt-auf-gras-ausgetragen](https://www.spiegel.de/sport/fussball/australian-open-quiz-wann-wurde-das-turnier-zuletzt-auf-gras-ausgetragen-a-d7db73e5-ddba-4239-a623-1a5270b8aab9#ref=rss)
-### münchen
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-nach-erfolg-in-gladbach-vertragslage-der-bayern-stars-im-fokus](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-nach-erfolg-in-gladbach-vertragslage-der-bayern-stars-im-fokus-a-45be7b6a-e431-401c-a4de-a51c59b0c895#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bundesliga-fc-bayern-muenchen-ueberlegen-harry-kane-trifft-per-strafstoss-zum-sieg-in-gladbach](https://www.spiegel.de/sport/fussball/bundesliga-fc-bayern-muenchen-ueberlegen-harry-kane-trifft-per-strafstoss-zum-sieg-in-gladbach-a-91412fc3-8ed1-4643-b9d4-c78cd8688f52#ref=rss)
-### sieg
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-nach-erfolg-in-gladbach-vertragslage-der-bayern-stars-im-fokus](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-nach-erfolg-in-gladbach-vertragslage-der-bayern-stars-im-fokus-a-45be7b6a-e431-401c-a4de-a51c59b0c895#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bundesliga-fc-bayern-muenchen-ueberlegen-harry-kane-trifft-per-strafstoss-zum-sieg-in-gladbach](https://www.spiegel.de/sport/fussball/bundesliga-fc-bayern-muenchen-ueberlegen-harry-kane-trifft-per-strafstoss-zum-sieg-in-gladbach-a-91412fc3-8ed1-4643-b9d4-c78cd8688f52#ref=rss)
-### allem
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-nach-erfolg-in-gladbach-vertragslage-der-bayern-stars-im-fokus](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-nach-erfolg-in-gladbach-vertragslage-der-bayern-stars-im-fokus-a-45be7b6a-e431-401c-a4de-a51c59b0c895#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung-ein-glas-milch-taeglich-senkt-laut-oxford-studie-das-risiko-auf-darmkrebs](https://www.spiegel.de/gesundheit/ernaehrung-ein-glas-milch-taeglich-senkt-laut-oxford-studie-das-risiko-auf-darmkrebs-a-52f68c97-da1a-4bfe-ab3e-c0e1da62fada#ref=rss)
-### wann
-
-* [https://www.spiegel.de/sport/fussball/australian-open-quiz-wann-wurde-das-turnier-zuletzt-auf-gras-ausgetragen](https://www.spiegel.de/sport/fussball/australian-open-quiz-wann-wurde-das-turnier-zuletzt-auf-gras-ausgetragen-a-d7db73e5-ddba-4239-a623-1a5270b8aab9#ref=rss)
-### ausgetragen
-
-* [https://www.spiegel.de/sport/fussball/australian-open-quiz-wann-wurde-das-turnier-zuletzt-auf-gras-ausgetragen](https://www.spiegel.de/sport/fussball/australian-open-quiz-wann-wurde-das-turnier-zuletzt-auf-gras-ausgetragen-a-d7db73e5-ddba-4239-a623-1a5270b8aab9#ref=rss)
-### marckevin
-
-* [https://www.spiegel.de/sport/tennis/australian-open-marc-kevin-goellner-ueber-alexander-zverev-kevin-krawietz-und-boris-becker](https://www.spiegel.de/sport/tennis/australian-open-marc-kevin-goellner-ueber-alexander-zverev-kevin-krawietz-und-boris-becker-a-f21a983b-2107-433f-9089-95fc3ede37e8#ref=rss)
-### goellner
-
-* [https://www.spiegel.de/sport/tennis/australian-open-marc-kevin-goellner-ueber-alexander-zverev-kevin-krawietz-und-boris-becker](https://www.spiegel.de/sport/tennis/australian-open-marc-kevin-goellner-ueber-alexander-zverev-kevin-krawietz-und-boris-becker-a-f21a983b-2107-433f-9089-95fc3ede37e8#ref=rss)
-### alexander
-
-* [https://www.spiegel.de/sport/tennis/australian-open-marc-kevin-goellner-ueber-alexander-zverev-kevin-krawietz-und-boris-becker](https://www.spiegel.de/sport/tennis/australian-open-marc-kevin-goellner-ueber-alexander-zverev-kevin-krawietz-und-boris-becker-a-f21a983b-2107-433f-9089-95fc3ede37e8#ref=rss)
-### zverev
-
-* [https://www.spiegel.de/sport/tennis/australian-open-marc-kevin-goellner-ueber-alexander-zverev-kevin-krawietz-und-boris-becker](https://www.spiegel.de/sport/tennis/australian-open-marc-kevin-goellner-ueber-alexander-zverev-kevin-krawietz-und-boris-becker-a-f21a983b-2107-433f-9089-95fc3ede37e8#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/sport/tennis/australian-open-marc-kevin-goellner-ueber-alexander-zverev-kevin-krawietz-und-boris-becker](https://www.spiegel.de/sport/tennis/australian-open-marc-kevin-goellner-ueber-alexander-zverev-kevin-krawietz-und-boris-becker-a-f21a983b-2107-433f-9089-95fc3ede37e8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-unbeliebte-kanzlerkandidaten-wahlkampf-in-deutschland](https://www.spiegel.de/politik/deutschland/news-unbeliebte-kanzlerkandidaten-wahlkampf-in-deutschland-a-0995a155-2266-439e-bdfa-a2226f77575b#ref=rss)
-### milch
-
-* [https://www.spiegel.de/gesundheit/ernaehrung-ein-glas-milch-taeglich-senkt-laut-oxford-studie-das-risiko-auf-darmkrebs](https://www.spiegel.de/gesundheit/ernaehrung-ein-glas-milch-taeglich-senkt-laut-oxford-studie-das-risiko-auf-darmkrebs-a-52f68c97-da1a-4bfe-ab3e-c0e1da62fada#ref=rss)
-### laut
-
-* [https://www.spiegel.de/gesundheit/ernaehrung-ein-glas-milch-taeglich-senkt-laut-oxford-studie-das-risiko-auf-darmkrebs](https://www.spiegel.de/gesundheit/ernaehrung-ein-glas-milch-taeglich-senkt-laut-oxford-studie-das-risiko-auf-darmkrebs-a-52f68c97-da1a-4bfe-ab3e-c0e1da62fada#ref=rss)
-* [https://www.spiegel.de/panorama/tschechien-sechs-tote-bei-explosion-in-gaststaette](https://www.spiegel.de/panorama/tschechien-sechs-tote-bei-explosion-in-gaststaette-a-98f04ec3-6507-4fe6-b9d9-55a921409b97#ref=rss)
-### risiko
-
-* [https://www.spiegel.de/gesundheit/ernaehrung-ein-glas-milch-taeglich-senkt-laut-oxford-studie-das-risiko-auf-darmkrebs](https://www.spiegel.de/gesundheit/ernaehrung-ein-glas-milch-taeglich-senkt-laut-oxford-studie-das-risiko-auf-darmkrebs-a-52f68c97-da1a-4bfe-ab3e-c0e1da62fada#ref=rss)
-### darmkrebs
-
-* [https://www.spiegel.de/gesundheit/ernaehrung-ein-glas-milch-taeglich-senkt-laut-oxford-studie-das-risiko-auf-darmkrebs](https://www.spiegel.de/gesundheit/ernaehrung-ein-glas-milch-taeglich-senkt-laut-oxford-studie-das-risiko-auf-darmkrebs-a-52f68c97-da1a-4bfe-ab3e-c0e1da62fada#ref=rss)
-### unbeliebte
-
-* [https://www.spiegel.de/politik/deutschland/news-unbeliebte-kanzlerkandidaten-wahlkampf-in-deutschland](https://www.spiegel.de/politik/deutschland/news-unbeliebte-kanzlerkandidaten-wahlkampf-in-deutschland-a-0995a155-2266-439e-bdfa-a2226f77575b#ref=rss)
-### kanzlerkandidaten
-
-* [https://www.spiegel.de/politik/deutschland/news-unbeliebte-kanzlerkandidaten-wahlkampf-in-deutschland](https://www.spiegel.de/politik/deutschland/news-unbeliebte-kanzlerkandidaten-wahlkampf-in-deutschland-a-0995a155-2266-439e-bdfa-a2226f77575b#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/ukraine-gefangene-nordkoreaner-sollen-nicht-gewusst-haben-dass-sie-in-den-krieg-ziehen](https://www.spiegel.de/ausland/ukraine-gefangene-nordkoreaner-sollen-nicht-gewusst-haben-dass-sie-in-den-krieg-ziehen-a-2e050994-7498-436f-8e02-6d16210440ff#ref=rss)
-* [https://www.spiegel.de/ausland/transnistrien-energie-notstand-in-putins-phantomstaat-kein-anderer-ausweg-als-wegzuziehen](https://www.spiegel.de/ausland/transnistrien-energie-notstand-in-putins-phantomstaat-kein-anderer-ausweg-als-wegzuziehen-a-837f39e9-00fe-43a6-bcad-ac1b0c74ba73#ref=rss)
-### macht
-
-* [https://www.spiegel.de/ausland/ukraine-gefangene-nordkoreaner-sollen-nicht-gewusst-haben-dass-sie-in-den-krieg-ziehen](https://www.spiegel.de/ausland/ukraine-gefangene-nordkoreaner-sollen-nicht-gewusst-haben-dass-sie-in-den-krieg-ziehen-a-2e050994-7498-436f-8e02-6d16210440ff#ref=rss)
-* [https://www.spiegel.de/wirtschaft/lacoste-wie-sophie-lacoste-das-edel-label-fusalp-neu-aufbaut](https://www.spiegel.de/wirtschaft/lacoste-wie-sophie-lacoste-das-edel-label-fusalp-neu-aufbaut-a-3c9c82d1-e8e4-4c5e-92e2-fb5da1fad477#ref=rss)
-### angaben
-
-* [https://www.spiegel.de/ausland/ukraine-gefangene-nordkoreaner-sollen-nicht-gewusst-haben-dass-sie-in-den-krieg-ziehen](https://www.spiegel.de/ausland/ukraine-gefangene-nordkoreaner-sollen-nicht-gewusst-haben-dass-sie-in-den-krieg-ziehen-a-2e050994-7498-436f-8e02-6d16210440ff#ref=rss)
-* [https://www.spiegel.de/ausland/los-angeles-zahl-der-todesopfer-steigt-auf-16-feuer-weiten-sich-erneut-aus](https://www.spiegel.de/ausland/los-angeles-zahl-der-todesopfer-steigt-auf-16-feuer-weiten-sich-erneut-aus-a-44d6dc81-593a-46f0-8e2a-d36df3183b67#ref=rss)
-### afdparteitag
-
-* [https://www.spiegel.de/panorama/gesellschaft/afd-parteitag-in-riesa-wie-machtlos-die-proteste-gegen-den-erfolg-der-partei-sind](https://www.spiegel.de/panorama/gesellschaft/afd-parteitag-in-riesa-wie-machtlos-die-proteste-gegen-den-erfolg-der-partei-sind-a-6df1546b-5476-49b3-845f-471072bfe3d7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-parteitag-in-riesa-was-die-partei-in-ihr-wahlprogramm-aufnimmt-und-was-nicht](https://www.spiegel.de/politik/deutschland/afd-parteitag-in-riesa-was-die-partei-in-ihr-wahlprogramm-aufnimmt-und-was-nicht-a-1c36f488-8735-4962-9cd0-749058cb65cd#ref=rss)
-### tschechien
-
-* [https://www.spiegel.de/panorama/tschechien-sechs-tote-bei-explosion-in-gaststaette](https://www.spiegel.de/panorama/tschechien-sechs-tote-bei-explosion-in-gaststaette-a-98f04ec3-6507-4fe6-b9d9-55a921409b97#ref=rss)
-### sechs
-
-* [https://www.spiegel.de/panorama/tschechien-sechs-tote-bei-explosion-in-gaststaette](https://www.spiegel.de/panorama/tschechien-sechs-tote-bei-explosion-in-gaststaette-a-98f04ec3-6507-4fe6-b9d9-55a921409b97#ref=rss)
-### explosion
-
-* [https://www.spiegel.de/panorama/tschechien-sechs-tote-bei-explosion-in-gaststaette](https://www.spiegel.de/panorama/tschechien-sechs-tote-bei-explosion-in-gaststaette-a-98f04ec3-6507-4fe6-b9d9-55a921409b97#ref=rss)
-### endete
-
-* [https://www.spiegel.de/panorama/tschechien-sechs-tote-bei-explosion-in-gaststaette](https://www.spiegel.de/panorama/tschechien-sechs-tote-bei-explosion-in-gaststaette-a-98f04ec3-6507-4fe6-b9d9-55a921409b97#ref=rss)
-* [https://www.spiegel.de/panorama/niederlande-fallschirmspringer-landet-ungewollt-in-affengehege-knapp-neben-loewen-areal](https://www.spiegel.de/panorama/niederlande-fallschirmspringer-landet-ungewollt-in-affengehege-knapp-neben-loewen-areal-a-b423b455-3cca-4b83-9f99-46b36064c2b4#ref=rss)
-### 16
-
-* [https://www.spiegel.de/ausland/los-angeles-zahl-der-todesopfer-steigt-auf-16-feuer-weiten-sich-erneut-aus](https://www.spiegel.de/ausland/los-angeles-zahl-der-todesopfer-steigt-auf-16-feuer-weiten-sich-erneut-aus-a-44d6dc81-593a-46f0-8e2a-d36df3183b67#ref=rss)
-### leben
-
-* [https://www.spiegel.de/ausland/los-angeles-zahl-der-todesopfer-steigt-auf-16-feuer-weiten-sich-erneut-aus](https://www.spiegel.de/ausland/los-angeles-zahl-der-todesopfer-steigt-auf-16-feuer-weiten-sich-erneut-aus-a-44d6dc81-593a-46f0-8e2a-d36df3183b67#ref=rss)
-* [https://www.spiegel.de/familie/kuckuckskind-ich-hatte-das-gefuehl-wie-in-der-truman-show-zu-leben](https://www.spiegel.de/familie/kuckuckskind-ich-hatte-das-gefuehl-wie-in-der-truman-show-zu-leben-a-e0b8d603-7b85-4f11-b7ef-d8755c3abc95#ref=rss)
-### ostsee
-
-* [https://www.spiegel.de/panorama/ostsee-havarierter-russischer-oeltanker-eventin-bis-vor-sassnitz-auf-ruegen-geschleppt](https://www.spiegel.de/panorama/ostsee-havarierter-russischer-oeltanker-eventin-bis-vor-sassnitz-auf-ruegen-geschleppt-a-e7caaa41-ffc7-4621-a119-fccef2206e52#ref=rss)
-### eventin
-
-* [https://www.spiegel.de/panorama/ostsee-havarierter-russischer-oeltanker-eventin-bis-vor-sassnitz-auf-ruegen-geschleppt](https://www.spiegel.de/panorama/ostsee-havarierter-russischer-oeltanker-eventin-bis-vor-sassnitz-auf-ruegen-geschleppt-a-e7caaa41-ffc7-4621-a119-fccef2206e52#ref=rss)
-### putins
-
-* [https://www.spiegel.de/panorama/ostsee-havarierter-russischer-oeltanker-eventin-bis-vor-sassnitz-auf-ruegen-geschleppt](https://www.spiegel.de/panorama/ostsee-havarierter-russischer-oeltanker-eventin-bis-vor-sassnitz-auf-ruegen-geschleppt-a-e7caaa41-ffc7-4621-a119-fccef2206e52#ref=rss)
-* [https://www.spiegel.de/ausland/transnistrien-energie-notstand-in-putins-phantomstaat-kein-anderer-ausweg-als-wegzuziehen](https://www.spiegel.de/ausland/transnistrien-energie-notstand-in-putins-phantomstaat-kein-anderer-ausweg-als-wegzuziehen-a-837f39e9-00fe-43a6-bcad-ac1b0c74ba73#ref=rss)
-### seines
-
-* [https://www.spiegel.de/familie/kuckuckskind-ich-hatte-das-gefuehl-wie-in-der-truman-show-zu-leben](https://www.spiegel.de/familie/kuckuckskind-ich-hatte-das-gefuehl-wie-in-der-truman-show-zu-leben-a-e0b8d603-7b85-4f11-b7ef-d8755c3abc95#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-sonderermittler-jack-smith-tritt-ab-bevor-trump-antritt](https://www.spiegel.de/ausland/donald-trump-sonderermittler-jack-smith-tritt-ab-bevor-trump-antritt-a-05f69455-0383-4d7c-a2d4-7ee9cac402ec#ref=rss)
-### wir
-
-* [https://www.spiegel.de/start/selbstsabotage-warum-wir-uns-selbst-steine-in-den-weg-legen-und-was-dagegen-hilft](https://www.spiegel.de/start/selbstsabotage-warum-wir-uns-selbst-steine-in-den-weg-legen-und-was-dagegen-hilft-a-d153d9d1-e960-4026-82c9-1f369a4af034#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/start/selbstsabotage-warum-wir-uns-selbst-steine-in-den-weg-legen-und-was-dagegen-hilft](https://www.spiegel.de/start/selbstsabotage-warum-wir-uns-selbst-steine-in-den-weg-legen-und-was-dagegen-hilft-a-d153d9d1-e960-4026-82c9-1f369a4af034#ref=rss)
-### weg
-
-* [https://www.spiegel.de/start/selbstsabotage-warum-wir-uns-selbst-steine-in-den-weg-legen-und-was-dagegen-hilft](https://www.spiegel.de/start/selbstsabotage-warum-wir-uns-selbst-steine-in-den-weg-legen-und-was-dagegen-hilft-a-d153d9d1-e960-4026-82c9-1f369a4af034#ref=rss)
-### sophie
-
-* [https://www.spiegel.de/wirtschaft/lacoste-wie-sophie-lacoste-das-edel-label-fusalp-neu-aufbaut](https://www.spiegel.de/wirtschaft/lacoste-wie-sophie-lacoste-das-edel-label-fusalp-neu-aufbaut-a-3c9c82d1-e8e4-4c5e-92e2-fb5da1fad477#ref=rss)
-### fusalp
-
-* [https://www.spiegel.de/wirtschaft/lacoste-wie-sophie-lacoste-das-edel-label-fusalp-neu-aufbaut](https://www.spiegel.de/wirtschaft/lacoste-wie-sophie-lacoste-das-edel-label-fusalp-neu-aufbaut-a-3c9c82d1-e8e4-4c5e-92e2-fb5da1fad477#ref=rss)
+* [https://www.spiegel.de/politik/riesa-linken-politiker-bei-protesten-verletzt-ermittlungen-richten-sich-auf-niedersaechsische-polizisten](https://www.spiegel.de/politik/riesa-linken-politiker-bei-protesten-verletzt-ermittlungen-richten-sich-auf-niedersaechsische-polizisten-a-92d0622e-f0c7-4a3d-86b3-ad1f97f1f140#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-parteitag-in-riesa-ermittlungen-gegen-polizisten-wegen-polizeihund-einsatz](https://www.spiegel.de/politik/deutschland/afd-parteitag-in-riesa-ermittlungen-gegen-polizisten-wegen-polizeihund-einsatz-a-8c27ad93-617c-4f34-bd45-2694dcf4ae12#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/ausland/donald-trump-sonderermittler-jack-smith-tritt-ab-bevor-trump-antritt](https://www.spiegel.de/ausland/donald-trump-sonderermittler-jack-smith-tritt-ab-bevor-trump-antritt-a-05f69455-0383-4d7c-a2d4-7ee9cac402ec#ref=rss)
-### sonderermittler
+* [https://www.spiegel.de/ausland/russland-wie-donald-trump-den-imperialismus-von-wladimir-putin-stuetzt](https://www.spiegel.de/ausland/russland-wie-donald-trump-den-imperialismus-von-wladimir-putin-stuetzt-a-dbaf1571-4adb-4074-b73a-bcea10d89905#ref=rss)
+* [https://www.spiegel.de/ausland/elon-musk-und-donald-trump-insider-geben-einblicke-in-den-aufbau-neuer-effizienzkommission-doge](https://www.spiegel.de/ausland/elon-musk-und-donald-trump-insider-geben-einblicke-in-den-aufbau-neuer-effizienzkommission-doge-a-4170fa24-4e64-4185-927c-0041f7c1bb93#ref=rss)
+### trump
 
-* [https://www.spiegel.de/ausland/donald-trump-sonderermittler-jack-smith-tritt-ab-bevor-trump-antritt](https://www.spiegel.de/ausland/donald-trump-sonderermittler-jack-smith-tritt-ab-bevor-trump-antritt-a-05f69455-0383-4d7c-a2d4-7ee9cac402ec#ref=rss)
-### jack
+* [https://www.spiegel.de/ausland/russland-wie-donald-trump-den-imperialismus-von-wladimir-putin-stuetzt](https://www.spiegel.de/ausland/russland-wie-donald-trump-den-imperialismus-von-wladimir-putin-stuetzt-a-dbaf1571-4adb-4074-b73a-bcea10d89905#ref=rss)
+* [https://www.spiegel.de/ausland/elon-musk-und-donald-trump-insider-geben-einblicke-in-den-aufbau-neuer-effizienzkommission-doge](https://www.spiegel.de/ausland/elon-musk-und-donald-trump-insider-geben-einblicke-in-den-aufbau-neuer-effizienzkommission-doge-a-4170fa24-4e64-4185-927c-0041f7c1bb93#ref=rss)
+### elon
 
-* [https://www.spiegel.de/ausland/donald-trump-sonderermittler-jack-smith-tritt-ab-bevor-trump-antritt](https://www.spiegel.de/ausland/donald-trump-sonderermittler-jack-smith-tritt-ab-bevor-trump-antritt-a-05f69455-0383-4d7c-a2d4-7ee9cac402ec#ref=rss)
-### smith
+* [https://www.spiegel.de/ausland/russland-wie-donald-trump-den-imperialismus-von-wladimir-putin-stuetzt](https://www.spiegel.de/ausland/russland-wie-donald-trump-den-imperialismus-von-wladimir-putin-stuetzt-a-dbaf1571-4adb-4074-b73a-bcea10d89905#ref=rss)
+* [https://www.spiegel.de/ausland/elon-musk-und-donald-trump-insider-geben-einblicke-in-den-aufbau-neuer-effizienzkommission-doge](https://www.spiegel.de/ausland/elon-musk-und-donald-trump-insider-geben-einblicke-in-den-aufbau-neuer-effizienzkommission-doge-a-4170fa24-4e64-4185-927c-0041f7c1bb93#ref=rss)
+### musk
 
-* [https://www.spiegel.de/ausland/donald-trump-sonderermittler-jack-smith-tritt-ab-bevor-trump-antritt](https://www.spiegel.de/ausland/donald-trump-sonderermittler-jack-smith-tritt-ab-bevor-trump-antritt-a-05f69455-0383-4d7c-a2d4-7ee9cac402ec#ref=rss)
-### maul
+* [https://www.spiegel.de/ausland/russland-wie-donald-trump-den-imperialismus-von-wladimir-putin-stuetzt](https://www.spiegel.de/ausland/russland-wie-donald-trump-den-imperialismus-von-wladimir-putin-stuetzt-a-dbaf1571-4adb-4074-b73a-bcea10d89905#ref=rss)
+* [https://www.spiegel.de/ausland/elon-musk-und-donald-trump-insider-geben-einblicke-in-den-aufbau-neuer-effizienzkommission-doge](https://www.spiegel.de/ausland/elon-musk-und-donald-trump-insider-geben-einblicke-in-den-aufbau-neuer-effizienzkommission-doge-a-4170fa24-4e64-4185-927c-0041f7c1bb93#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/gesundheit/maul-und-klauenseuche-in-brandenburg-virustyp-in-wasserbueffel-herde-identifiziert](https://www.spiegel.de/gesundheit/maul-und-klauenseuche-in-brandenburg-virustyp-in-wasserbueffel-herde-identifiziert-a-facb54b7-ce18-4239-83db-38a5a9d44114#ref=rss)
-### klauenseuche
+* [https://www.spiegel.de/ausland/elon-musk-und-donald-trump-insider-geben-einblicke-in-den-aufbau-neuer-effizienzkommission-doge](https://www.spiegel.de/ausland/elon-musk-und-donald-trump-insider-geben-einblicke-in-den-aufbau-neuer-effizienzkommission-doge-a-4170fa24-4e64-4185-927c-0041f7c1bb93#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-armee-meldet-strategischen-erfolg-wichtige-stadt-zurueckerobert](https://www.spiegel.de/ausland/sudan-armee-meldet-strategischen-erfolg-wichtige-stadt-zurueckerobert-a-d48c62e8-ddee-4d2a-a0b8-49e64230d94e#ref=rss)
+* [https://www.spiegel.de/politik/bundestagswahl-2025-robert-habeck-nennt-ausschliesseritis-von-markus-soeder-daemlich](https://www.spiegel.de/politik/bundestagswahl-2025-robert-habeck-nennt-ausschliesseritis-von-markus-soeder-daemlich-a-b446c4ba-371b-4034-a663-65771916b5e2#ref=rss)
+### gamingchairs
 
-* [https://www.spiegel.de/gesundheit/maul-und-klauenseuche-in-brandenburg-virustyp-in-wasserbueffel-herde-identifiziert](https://www.spiegel.de/gesundheit/maul-und-klauenseuche-in-brandenburg-virustyp-in-wasserbueffel-herde-identifiziert-a-facb54b7-ce18-4239-83db-38a5a9d44114#ref=rss)
-### brandenburg
+* [https://www.spiegel.de/tests/elektronik/gamingchairs-im-test-sitzenbleiber](https://www.spiegel.de/tests/elektronik/gamingchairs-im-test-sitzenbleiber-a-a598a50f-e8b9-49ef-9d9a-b1c50eac78b0#ref=rss)
+### lange
 
-* [https://www.spiegel.de/gesundheit/maul-und-klauenseuche-in-brandenburg-virustyp-in-wasserbueffel-herde-identifiziert](https://www.spiegel.de/gesundheit/maul-und-klauenseuche-in-brandenburg-virustyp-in-wasserbueffel-herde-identifiziert-a-facb54b7-ce18-4239-83db-38a5a9d44114#ref=rss)
-### virustyp
+* [https://www.spiegel.de/tests/elektronik/gamingchairs-im-test-sitzenbleiber](https://www.spiegel.de/tests/elektronik/gamingchairs-im-test-sitzenbleiber-a-a598a50f-e8b9-49ef-9d9a-b1c50eac78b0#ref=rss)
+* [https://www.spiegel.de/politik/jan-marsalek-warum-deutsche-geheimdienste-arglos-waren-podcast-firewall](https://www.spiegel.de/politik/jan-marsalek-warum-deutsche-geheimdienste-arglos-waren-podcast-firewall-a-03a96d8a-dbdd-4e0b-b05d-fcd89a9434ec#ref=rss)
+### wir
 
-* [https://www.spiegel.de/gesundheit/maul-und-klauenseuche-in-brandenburg-virustyp-in-wasserbueffel-herde-identifiziert](https://www.spiegel.de/gesundheit/maul-und-klauenseuche-in-brandenburg-virustyp-in-wasserbueffel-herde-identifiziert-a-facb54b7-ce18-4239-83db-38a5a9d44114#ref=rss)
-### kulturstätten
+* [https://www.spiegel.de/tests/elektronik/gamingchairs-im-test-sitzenbleiber](https://www.spiegel.de/tests/elektronik/gamingchairs-im-test-sitzenbleiber-a-a598a50f-e8b9-49ef-9d9a-b1c50eac78b0#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/schont-der-dark-mode-wirklich-die-augen](https://www.spiegel.de/netzwelt/apps/schont-der-dark-mode-wirklich-die-augen-a-978cf60d-e16c-4555-ab24-1f6ffc342c24#ref=rss)
+### viele
 
-* [https://www.spiegel.de/ausland/los-angeles-deutsche-kulturstaetten-thomas-mann-haus-und-villa-aurora-von-feuer-verschont](https://www.spiegel.de/ausland/los-angeles-deutsche-kulturstaetten-thomas-mann-haus-und-villa-aurora-von-feuer-verschont-a-4f600bee-9f01-4dbf-8387-3041b4f122e4#ref=rss)
-### thomasmannhaus
+* [https://www.spiegel.de/karriere/raetsel-der-woche-wie-viele-gefangene-kommen-frei](https://www.spiegel.de/karriere/raetsel-der-woche-wie-viele-gefangene-kommen-frei-a-ed4cec71-b293-4673-ae0f-969b6cd131ff#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/schont-der-dark-mode-wirklich-die-augen](https://www.spiegel.de/netzwelt/apps/schont-der-dark-mode-wirklich-die-augen-a-978cf60d-e16c-4555-ab24-1f6ffc342c24#ref=rss)
+### gefangene
 
-* [https://www.spiegel.de/ausland/los-angeles-deutsche-kulturstaetten-thomas-mann-haus-und-villa-aurora-von-feuer-verschont](https://www.spiegel.de/ausland/los-angeles-deutsche-kulturstaetten-thomas-mann-haus-und-villa-aurora-von-feuer-verschont-a-4f600bee-9f01-4dbf-8387-3041b4f122e4#ref=rss)
-### villa
+* [https://www.spiegel.de/karriere/raetsel-der-woche-wie-viele-gefangene-kommen-frei](https://www.spiegel.de/karriere/raetsel-der-woche-wie-viele-gefangene-kommen-frei-a-ed4cec71-b293-4673-ae0f-969b6cd131ff#ref=rss)
+* [https://www.spiegel.de/ausland/italien-will-haft-fuer-iranischen-geschaeftsmann-aufheben](https://www.spiegel.de/ausland/italien-will-haft-fuer-iranischen-geschaeftsmann-aufheben-a-7c1e5172-1050-4bac-930f-5f46fb9dac6f#ref=rss)
+### frei
 
-* [https://www.spiegel.de/ausland/los-angeles-deutsche-kulturstaetten-thomas-mann-haus-und-villa-aurora-von-feuer-verschont](https://www.spiegel.de/ausland/los-angeles-deutsche-kulturstaetten-thomas-mann-haus-und-villa-aurora-von-feuer-verschont-a-4f600bee-9f01-4dbf-8387-3041b4f122e4#ref=rss)
-### aurora
+* [https://www.spiegel.de/karriere/raetsel-der-woche-wie-viele-gefangene-kommen-frei](https://www.spiegel.de/karriere/raetsel-der-woche-wie-viele-gefangene-kommen-frei-a-ed4cec71-b293-4673-ae0f-969b6cd131ff#ref=rss)
+* [https://www.spiegel.de/ausland/italien-will-haft-fuer-iranischen-geschaeftsmann-aufheben](https://www.spiegel.de/ausland/italien-will-haft-fuer-iranischen-geschaeftsmann-aufheben-a-7c1e5172-1050-4bac-930f-5f46fb9dac6f#ref=rss)
+### jan
 
-* [https://www.spiegel.de/ausland/los-angeles-deutsche-kulturstaetten-thomas-mann-haus-und-villa-aurora-von-feuer-verschont](https://www.spiegel.de/ausland/los-angeles-deutsche-kulturstaetten-thomas-mann-haus-und-villa-aurora-von-feuer-verschont-a-4f600bee-9f01-4dbf-8387-3041b4f122e4#ref=rss)
-### grund
+* [https://www.spiegel.de/politik/jan-marsalek-warum-deutsche-geheimdienste-arglos-waren-podcast-firewall](https://www.spiegel.de/politik/jan-marsalek-warum-deutsche-geheimdienste-arglos-waren-podcast-firewall-a-03a96d8a-dbdd-4e0b-b05d-fcd89a9434ec#ref=rss)
+### marsalek
 
-* [https://www.spiegel.de/ausland/los-angeles-deutsche-kulturstaetten-thomas-mann-haus-und-villa-aurora-von-feuer-verschont](https://www.spiegel.de/ausland/los-angeles-deutsche-kulturstaetten-thomas-mann-haus-und-villa-aurora-von-feuer-verschont-a-4f600bee-9f01-4dbf-8387-3041b4f122e4#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/ces-in-las-vegas-warum-dolby-jetzt-kino-bildschirme-in-autos-einbaut](https://www.spiegel.de/netzwelt/gadgets/ces-in-las-vegas-warum-dolby-jetzt-kino-bildschirme-in-autos-einbaut-a-198573bd-a355-4716-82e6-9ccc980cc252#ref=rss)
-### hamas
+* [https://www.spiegel.de/politik/jan-marsalek-warum-deutsche-geheimdienste-arglos-waren-podcast-firewall](https://www.spiegel.de/politik/jan-marsalek-warum-deutsche-geheimdienste-arglos-waren-podcast-firewall-a-03a96d8a-dbdd-4e0b-b05d-fcd89a9434ec#ref=rss)
+### geheimdienste
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-fatah-gibt-hamas-die-schuld-an-der-zerstoerung-von-gaza](https://www.spiegel.de/ausland/israel-gaza-krieg-fatah-gibt-hamas-die-schuld-an-der-zerstoerung-von-gaza-a-eede5a5b-1d16-4ff7-a5cb-e0acf13ed9a8#ref=rss)
-### ces
+* [https://www.spiegel.de/politik/jan-marsalek-warum-deutsche-geheimdienste-arglos-waren-podcast-firewall](https://www.spiegel.de/politik/jan-marsalek-warum-deutsche-geheimdienste-arglos-waren-podcast-firewall-a-03a96d8a-dbdd-4e0b-b05d-fcd89a9434ec#ref=rss)
+### arglos
 
-* [https://www.spiegel.de/netzwelt/gadgets/ces-in-las-vegas-warum-dolby-jetzt-kino-bildschirme-in-autos-einbaut](https://www.spiegel.de/netzwelt/gadgets/ces-in-las-vegas-warum-dolby-jetzt-kino-bildschirme-in-autos-einbaut-a-198573bd-a355-4716-82e6-9ccc980cc252#ref=rss)
-### harry
+* [https://www.spiegel.de/politik/jan-marsalek-warum-deutsche-geheimdienste-arglos-waren-podcast-firewall](https://www.spiegel.de/politik/jan-marsalek-warum-deutsche-geheimdienste-arglos-waren-podcast-firewall-a-03a96d8a-dbdd-4e0b-b05d-fcd89a9434ec#ref=rss)
+### waren
 
-* [https://www.spiegel.de/sport/fussball/bundesliga-fc-bayern-muenchen-ueberlegen-harry-kane-trifft-per-strafstoss-zum-sieg-in-gladbach](https://www.spiegel.de/sport/fussball/bundesliga-fc-bayern-muenchen-ueberlegen-harry-kane-trifft-per-strafstoss-zum-sieg-in-gladbach-a-91412fc3-8ed1-4643-b9d4-c78cd8688f52#ref=rss)
-### kane
+* [https://www.spiegel.de/politik/jan-marsalek-warum-deutsche-geheimdienste-arglos-waren-podcast-firewall](https://www.spiegel.de/politik/jan-marsalek-warum-deutsche-geheimdienste-arglos-waren-podcast-firewall-a-03a96d8a-dbdd-4e0b-b05d-fcd89a9434ec#ref=rss)
+### afdparteitag
 
-* [https://www.spiegel.de/sport/fussball/bundesliga-fc-bayern-muenchen-ueberlegen-harry-kane-trifft-per-strafstoss-zum-sieg-in-gladbach](https://www.spiegel.de/sport/fussball/bundesliga-fc-bayern-muenchen-ueberlegen-harry-kane-trifft-per-strafstoss-zum-sieg-in-gladbach-a-91412fc3-8ed1-4643-b9d4-c78cd8688f52#ref=rss)
-### fallschirmspringer
+* [https://www.spiegel.de/politik/deutschland/afd-parteitag-in-riesa-endlich-ehrlich-analyse](https://www.spiegel.de/politik/deutschland/afd-parteitag-in-riesa-endlich-ehrlich-analyse-a-8e9720ae-0aa0-4898-9e9d-7eed1df7f890#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-parteitag-in-riesa-ermittlungen-gegen-polizisten-wegen-polizeihund-einsatz](https://www.spiegel.de/politik/deutschland/afd-parteitag-in-riesa-ermittlungen-gegen-polizisten-wegen-polizeihund-einsatz-a-8c27ad93-617c-4f34-bd45-2694dcf4ae12#ref=rss)
+### rede
 
-* [https://www.spiegel.de/panorama/niederlande-fallschirmspringer-landet-ungewollt-in-affengehege-knapp-neben-loewen-areal](https://www.spiegel.de/panorama/niederlande-fallschirmspringer-landet-ungewollt-in-affengehege-knapp-neben-loewen-areal-a-b423b455-3cca-4b83-9f99-46b36064c2b4#ref=rss)
-### affengehege
+* [https://www.spiegel.de/politik/deutschland/afd-parteitag-in-riesa-endlich-ehrlich-analyse](https://www.spiegel.de/politik/deutschland/afd-parteitag-in-riesa-endlich-ehrlich-analyse-a-8e9720ae-0aa0-4898-9e9d-7eed1df7f890#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-verschaerft-wahlprogramm-und-nimmt-rechten-begriff-der-remigration-auf](https://www.spiegel.de/politik/deutschland/afd-verschaerft-wahlprogramm-und-nimmt-rechten-begriff-der-remigration-auf-a-444b6c0c-63a6-4b6c-8dfc-023f727e25c4#ref=rss)
+### robert
 
-* [https://www.spiegel.de/panorama/niederlande-fallschirmspringer-landet-ungewollt-in-affengehege-knapp-neben-loewen-areal](https://www.spiegel.de/panorama/niederlande-fallschirmspringer-landet-ungewollt-in-affengehege-knapp-neben-loewen-areal-a-b423b455-3cca-4b83-9f99-46b36064c2b4#ref=rss)
-### knapp
+* [https://www.spiegel.de/panorama/leute/robert-redford-niemand-kuesst-vor-der-kamera-so-gut-wie-der-us-schauspieler-sagt-glenn-close](https://www.spiegel.de/panorama/leute/robert-redford-niemand-kuesst-vor-der-kamera-so-gut-wie-der-us-schauspieler-sagt-glenn-close-a-4f8ebf52-b1b2-421f-9823-df332118df06#ref=rss)
+* [https://www.spiegel.de/politik/bundestagswahl-2025-robert-habeck-nennt-ausschliesseritis-von-markus-soeder-daemlich](https://www.spiegel.de/politik/bundestagswahl-2025-robert-habeck-nennt-ausschliesseritis-von-markus-soeder-daemlich-a-b446c4ba-371b-4034-a663-65771916b5e2#ref=rss)
+### niemand
 
-* [https://www.spiegel.de/panorama/niederlande-fallschirmspringer-landet-ungewollt-in-affengehege-knapp-neben-loewen-areal](https://www.spiegel.de/panorama/niederlande-fallschirmspringer-landet-ungewollt-in-affengehege-knapp-neben-loewen-areal-a-b423b455-3cca-4b83-9f99-46b36064c2b4#ref=rss)
-### neben
+* [https://www.spiegel.de/panorama/leute/robert-redford-niemand-kuesst-vor-der-kamera-so-gut-wie-der-us-schauspieler-sagt-glenn-close](https://www.spiegel.de/panorama/leute/robert-redford-niemand-kuesst-vor-der-kamera-so-gut-wie-der-us-schauspieler-sagt-glenn-close-a-4f8ebf52-b1b2-421f-9823-df332118df06#ref=rss)
+* [https://www.spiegel.de/ausland/elon-musk-und-donald-trump-insider-geben-einblicke-in-den-aufbau-neuer-effizienzkommission-doge](https://www.spiegel.de/ausland/elon-musk-und-donald-trump-insider-geben-einblicke-in-den-aufbau-neuer-effizienzkommission-doge-a-4170fa24-4e64-4185-927c-0041f7c1bb93#ref=rss)
+### glenn
 
-* [https://www.spiegel.de/panorama/niederlande-fallschirmspringer-landet-ungewollt-in-affengehege-knapp-neben-loewen-areal](https://www.spiegel.de/panorama/niederlande-fallschirmspringer-landet-ungewollt-in-affengehege-knapp-neben-loewen-areal-a-b423b455-3cca-4b83-9f99-46b36064c2b4#ref=rss)
-### transnistrien
+* [https://www.spiegel.de/panorama/leute/robert-redford-niemand-kuesst-vor-der-kamera-so-gut-wie-der-us-schauspieler-sagt-glenn-close](https://www.spiegel.de/panorama/leute/robert-redford-niemand-kuesst-vor-der-kamera-so-gut-wie-der-us-schauspieler-sagt-glenn-close-a-4f8ebf52-b1b2-421f-9823-df332118df06#ref=rss)
+### close
 
-* [https://www.spiegel.de/ausland/transnistrien-energie-notstand-in-putins-phantomstaat-kein-anderer-ausweg-als-wegzuziehen](https://www.spiegel.de/ausland/transnistrien-energie-notstand-in-putins-phantomstaat-kein-anderer-ausweg-als-wegzuziehen-a-837f39e9-00fe-43a6-bcad-ac1b0c74ba73#ref=rss)
-### phantomstaat
+* [https://www.spiegel.de/panorama/leute/robert-redford-niemand-kuesst-vor-der-kamera-so-gut-wie-der-us-schauspieler-sagt-glenn-close](https://www.spiegel.de/panorama/leute/robert-redford-niemand-kuesst-vor-der-kamera-so-gut-wie-der-us-schauspieler-sagt-glenn-close-a-4f8ebf52-b1b2-421f-9823-df332118df06#ref=rss)
+### ostsee
 
-* [https://www.spiegel.de/ausland/transnistrien-energie-notstand-in-putins-phantomstaat-kein-anderer-ausweg-als-wegzuziehen](https://www.spiegel.de/ausland/transnistrien-energie-notstand-in-putins-phantomstaat-kein-anderer-ausweg-als-wegzuziehen-a-837f39e9-00fe-43a6-bcad-ac1b0c74ba73#ref=rss)
-### magnus
+* [https://www.spiegel.de/politik/ostsee-schutz-von-seekabeln-schweden-beteiligt-sich-mit-drei-schiffen-an-nato-einsatz](https://www.spiegel.de/politik/ostsee-schutz-von-seekabeln-schweden-beteiligt-sich-mit-drei-schiffen-an-nato-einsatz-a-3032d5ec-8bdb-4248-8086-a0990ca01d59#ref=rss)
+### drei
 
-* [https://www.spiegel.de/sport/schach-magnus-carlsen-gewinnt-bei-debuet-fuer-den-fc-st-pauli](https://www.spiegel.de/sport/schach-magnus-carlsen-gewinnt-bei-debuet-fuer-den-fc-st-pauli-a-1c356128-a71e-4e4d-ace7-bc932ea7fdde#ref=rss)
-### st
+* [https://www.spiegel.de/politik/ostsee-schutz-von-seekabeln-schweden-beteiligt-sich-mit-drei-schiffen-an-nato-einsatz](https://www.spiegel.de/politik/ostsee-schutz-von-seekabeln-schweden-beteiligt-sich-mit-drei-schiffen-an-nato-einsatz-a-3032d5ec-8bdb-4248-8086-a0990ca01d59#ref=rss)
+* [https://www.spiegel.de/ausland/russland-frauenproteste-gegen-den-krieg](https://www.spiegel.de/ausland/russland-frauenproteste-gegen-den-krieg-a-1612378c-3193-4f88-b5fd-6a194d2d91c9#ref=rss)
+### neue
 
-* [https://www.spiegel.de/sport/schach-magnus-carlsen-gewinnt-bei-debuet-fuer-den-fc-st-pauli](https://www.spiegel.de/sport/schach-magnus-carlsen-gewinnt-bei-debuet-fuer-den-fc-st-pauli-a-1c356128-a71e-4e4d-ace7-bc932ea7fdde#ref=rss)
-### pauli
+* [https://www.spiegel.de/politik/ostsee-schutz-von-seekabeln-schweden-beteiligt-sich-mit-drei-schiffen-an-nato-einsatz](https://www.spiegel.de/politik/ostsee-schutz-von-seekabeln-schweden-beteiligt-sich-mit-drei-schiffen-an-nato-einsatz-a-3032d5ec-8bdb-4248-8086-a0990ca01d59#ref=rss)
+* [https://www.spiegel.de/politik/afd-trennt-sich-von-junger-alternative-und-beschliesst-gruendung-neuer-jugendorganisation](https://www.spiegel.de/politik/afd-trennt-sich-von-junger-alternative-und-beschliesst-gruendung-neuer-jugendorganisation-a-0f24cbd8-2846-4ae5-a401-2c343fb4d51c#ref=rss)
+### rom
 
-* [https://www.spiegel.de/sport/schach-magnus-carlsen-gewinnt-bei-debuet-fuer-den-fc-st-pauli](https://www.spiegel.de/sport/schach-magnus-carlsen-gewinnt-bei-debuet-fuer-den-fc-st-pauli-a-1c356128-a71e-4e4d-ace7-bc932ea7fdde#ref=rss)
-### carlsens
+* [https://www.spiegel.de/ausland/italien-will-haft-fuer-iranischen-geschaeftsmann-aufheben](https://www.spiegel.de/ausland/italien-will-haft-fuer-iranischen-geschaeftsmann-aufheben-a-7c1e5172-1050-4bac-930f-5f46fb9dac6f#ref=rss)
+* [https://www.spiegel.de/ausland/rom-zusammenstoesse-bei-demonstration-nach-tod-eines-jungen-mannes-acht-polizisten-verletzt](https://www.spiegel.de/ausland/rom-zusammenstoesse-bei-demonstration-nach-tod-eines-jungen-mannes-acht-polizisten-verletzt-a-6719c42c-ddeb-45c5-bfd5-c280d17c2051#ref=rss)
+### fall
 
-* [https://www.spiegel.de/sport/schach-magnus-carlsen-gewinnt-bei-debuet-fuer-den-fc-st-pauli](https://www.spiegel.de/sport/schach-magnus-carlsen-gewinnt-bei-debuet-fuer-den-fc-st-pauli-a-1c356128-a71e-4e4d-ace7-bc932ea7fdde#ref=rss)
+* [https://www.spiegel.de/ausland/italien-will-haft-fuer-iranischen-geschaeftsmann-aufheben](https://www.spiegel.de/ausland/italien-will-haft-fuer-iranischen-geschaeftsmann-aufheben-a-7c1e5172-1050-4bac-930f-5f46fb9dac6f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-parteitag-in-riesa-ermittlungen-gegen-polizisten-wegen-polizeihund-einsatz](https://www.spiegel.de/politik/deutschland/afd-parteitag-in-riesa-ermittlungen-gegen-polizisten-wegen-polizeihund-einsatz-a-8c27ad93-617c-4f34-bd45-2694dcf4ae12#ref=rss)
+### jürgen
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-juergen-klopp-sieht-rb-leipzigs-sieg-ueber-werder-bremen-xavi-simons-trifft-doppelt](https://www.spiegel.de/sport/fussball/fussball-bundesliga-juergen-klopp-sieht-rb-leipzigs-sieg-ueber-werder-bremen-xavi-simons-trifft-doppelt-a-cff03887-4d95-4bd2-99b2-3c8cf2b1a56c#ref=rss)
+### klopp
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-juergen-klopp-sieht-rb-leipzigs-sieg-ueber-werder-bremen-xavi-simons-trifft-doppelt](https://www.spiegel.de/sport/fussball/fussball-bundesliga-juergen-klopp-sieht-rb-leipzigs-sieg-ueber-werder-bremen-xavi-simons-trifft-doppelt-a-cff03887-4d95-4bd2-99b2-3c8cf2b1a56c#ref=rss)
+### rb
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-juergen-klopp-sieht-rb-leipzigs-sieg-ueber-werder-bremen-xavi-simons-trifft-doppelt](https://www.spiegel.de/sport/fussball/fussball-bundesliga-juergen-klopp-sieht-rb-leipzigs-sieg-ueber-werder-bremen-xavi-simons-trifft-doppelt-a-cff03887-4d95-4bd2-99b2-3c8cf2b1a56c#ref=rss)
+### sieg
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-juergen-klopp-sieht-rb-leipzigs-sieg-ueber-werder-bremen-xavi-simons-trifft-doppelt](https://www.spiegel.de/sport/fussball/fussball-bundesliga-juergen-klopp-sieht-rb-leipzigs-sieg-ueber-werder-bremen-xavi-simons-trifft-doppelt-a-cff03887-4d95-4bd2-99b2-3c8cf2b1a56c#ref=rss)
+* [https://www.spiegel.de/sport/tennis/australian-open-2025-alexander-zverev-nach-sieg-gegen-lucas-pouille-in-runde-zwei](https://www.spiegel.de/sport/tennis/australian-open-2025-alexander-zverev-nach-sieg-gegen-lucas-pouille-in-runde-zwei-a-59953069-4a2f-44eb-a072-a775094ab0f5#ref=rss)
+### werder
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-juergen-klopp-sieht-rb-leipzigs-sieg-ueber-werder-bremen-xavi-simons-trifft-doppelt](https://www.spiegel.de/sport/fussball/fussball-bundesliga-juergen-klopp-sieht-rb-leipzigs-sieg-ueber-werder-bremen-xavi-simons-trifft-doppelt-a-cff03887-4d95-4bd2-99b2-3c8cf2b1a56c#ref=rss)
+### xavi
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-juergen-klopp-sieht-rb-leipzigs-sieg-ueber-werder-bremen-xavi-simons-trifft-doppelt](https://www.spiegel.de/sport/fussball/fussball-bundesliga-juergen-klopp-sieht-rb-leipzigs-sieg-ueber-werder-bremen-xavi-simons-trifft-doppelt-a-cff03887-4d95-4bd2-99b2-3c8cf2b1a56c#ref=rss)
+### simons
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-juergen-klopp-sieht-rb-leipzigs-sieg-ueber-werder-bremen-xavi-simons-trifft-doppelt](https://www.spiegel.de/sport/fussball/fussball-bundesliga-juergen-klopp-sieht-rb-leipzigs-sieg-ueber-werder-bremen-xavi-simons-trifft-doppelt-a-cff03887-4d95-4bd2-99b2-3c8cf2b1a56c#ref=rss)
+### trifft
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-juergen-klopp-sieht-rb-leipzigs-sieg-ueber-werder-bremen-xavi-simons-trifft-doppelt](https://www.spiegel.de/sport/fussball/fussball-bundesliga-juergen-klopp-sieht-rb-leipzigs-sieg-ueber-werder-bremen-xavi-simons-trifft-doppelt-a-cff03887-4d95-4bd2-99b2-3c8cf2b1a56c#ref=rss)
+### halten
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-juergen-klopp-sieht-rb-leipzigs-sieg-ueber-werder-bremen-xavi-simons-trifft-doppelt](https://www.spiegel.de/sport/fussball/fussball-bundesliga-juergen-klopp-sieht-rb-leipzigs-sieg-ueber-werder-bremen-xavi-simons-trifft-doppelt-a-cff03887-4d95-4bd2-99b2-3c8cf2b1a56c#ref=rss)
+* [https://www.spiegel.de/ausland/russland-frauenproteste-gegen-den-krieg](https://www.spiegel.de/ausland/russland-frauenproteste-gegen-den-krieg-a-1612378c-3193-4f88-b5fd-6a194d2d91c9#ref=rss)
+### linkenpolitiker
+
+* [https://www.spiegel.de/politik/riesa-linken-politiker-bei-protesten-verletzt-ermittlungen-richten-sich-auf-niedersaechsische-polizisten](https://www.spiegel.de/politik/riesa-linken-politiker-bei-protesten-verletzt-ermittlungen-richten-sich-auf-niedersaechsische-polizisten-a-92d0622e-f0c7-4a3d-86b3-ad1f97f1f140#ref=rss)
+### protesten
+
+* [https://www.spiegel.de/politik/riesa-linken-politiker-bei-protesten-verletzt-ermittlungen-richten-sich-auf-niedersaechsische-polizisten](https://www.spiegel.de/politik/riesa-linken-politiker-bei-protesten-verletzt-ermittlungen-richten-sich-auf-niedersaechsische-polizisten-a-92d0622e-f0c7-4a3d-86b3-ad1f97f1f140#ref=rss)
+### niedersächsische
+
+* [https://www.spiegel.de/politik/riesa-linken-politiker-bei-protesten-verletzt-ermittlungen-richten-sich-auf-niedersaechsische-polizisten](https://www.spiegel.de/politik/riesa-linken-politiker-bei-protesten-verletzt-ermittlungen-richten-sich-auf-niedersaechsische-polizisten-a-92d0622e-f0c7-4a3d-86b3-ad1f97f1f140#ref=rss)
+### stehen
+
+* [https://www.spiegel.de/politik/riesa-linken-politiker-bei-protesten-verletzt-ermittlungen-richten-sich-auf-niedersaechsische-polizisten](https://www.spiegel.de/politik/riesa-linken-politiker-bei-protesten-verletzt-ermittlungen-richten-sich-auf-niedersaechsische-polizisten-a-92d0622e-f0c7-4a3d-86b3-ad1f97f1f140#ref=rss)
+* [https://www.spiegel.de/panorama/maul-und-klauenseuche-suedkorea-verbietet-schweinefleischimporte-aus-deutschland](https://www.spiegel.de/panorama/maul-und-klauenseuche-suedkorea-verbietet-schweinefleischimporte-aus-deutschland-a-06681dfa-ab0e-4112-af42-012f57efb9bf#ref=rss)
+### imperialismus
+
+* [https://www.spiegel.de/ausland/russland-wie-donald-trump-den-imperialismus-von-wladimir-putin-stuetzt](https://www.spiegel.de/ausland/russland-wie-donald-trump-den-imperialismus-von-wladimir-putin-stuetzt-a-dbaf1571-4adb-4074-b73a-bcea10d89905#ref=rss)
+### putin
+
+* [https://www.spiegel.de/ausland/russland-wie-donald-trump-den-imperialismus-von-wladimir-putin-stuetzt](https://www.spiegel.de/ausland/russland-wie-donald-trump-den-imperialismus-von-wladimir-putin-stuetzt-a-dbaf1571-4adb-4074-b73a-bcea10d89905#ref=rss)
+### geben
+
+* [https://www.spiegel.de/ausland/russland-wie-donald-trump-den-imperialismus-von-wladimir-putin-stuetzt](https://www.spiegel.de/ausland/russland-wie-donald-trump-den-imperialismus-von-wladimir-putin-stuetzt-a-dbaf1571-4adb-4074-b73a-bcea10d89905#ref=rss)
+* [https://www.spiegel.de/ausland/elon-musk-und-donald-trump-insider-geben-einblicke-in-den-aufbau-neuer-effizienzkommission-doge](https://www.spiegel.de/ausland/elon-musk-und-donald-trump-insider-geben-einblicke-in-den-aufbau-neuer-effizienzkommission-doge-a-4170fa24-4e64-4185-927c-0041f7c1bb93#ref=rss)
+### neuer
+
+* [https://www.spiegel.de/ausland/elon-musk-und-donald-trump-insider-geben-einblicke-in-den-aufbau-neuer-effizienzkommission-doge](https://www.spiegel.de/ausland/elon-musk-und-donald-trump-insider-geben-einblicke-in-den-aufbau-neuer-effizienzkommission-doge-a-4170fa24-4e64-4185-927c-0041f7c1bb93#ref=rss)
+* [https://www.spiegel.de/politik/afd-trennt-sich-von-junger-alternative-und-beschliesst-gruendung-neuer-jugendorganisation](https://www.spiegel.de/politik/afd-trennt-sich-von-junger-alternative-und-beschliesst-gruendung-neuer-jugendorganisation-a-0f24cbd8-2846-4ae5-a401-2c343fb4d51c#ref=rss)
+### lukas
+
+* [https://www.spiegel.de/sport/fussball/lukas-podolski-bei-gornik-zabrze-ex-nationalspieler-graetscht-gegner-mit-offener-sohle-um-brutales-foul](https://www.spiegel.de/sport/fussball/lukas-podolski-bei-gornik-zabrze-ex-nationalspieler-graetscht-gegner-mit-offener-sohle-um-brutales-foul-a-5a50e602-5673-41ec-875e-710351024cdb#ref=rss)
+### podolski
+
+* [https://www.spiegel.de/sport/fussball/lukas-podolski-bei-gornik-zabrze-ex-nationalspieler-graetscht-gegner-mit-offener-sohle-um-brutales-foul](https://www.spiegel.de/sport/fussball/lukas-podolski-bei-gornik-zabrze-ex-nationalspieler-graetscht-gegner-mit-offener-sohle-um-brutales-foul-a-5a50e602-5673-41ec-875e-710351024cdb#ref=rss)
+### exnationalspieler
+
+* [https://www.spiegel.de/sport/fussball/lukas-podolski-bei-gornik-zabrze-ex-nationalspieler-graetscht-gegner-mit-offener-sohle-um-brutales-foul](https://www.spiegel.de/sport/fussball/lukas-podolski-bei-gornik-zabrze-ex-nationalspieler-graetscht-gegner-mit-offener-sohle-um-brutales-foul-a-5a50e602-5673-41ec-875e-710351024cdb#ref=rss)
+### foul
+
+* [https://www.spiegel.de/sport/fussball/lukas-podolski-bei-gornik-zabrze-ex-nationalspieler-graetscht-gegner-mit-offener-sohle-um-brutales-foul](https://www.spiegel.de/sport/fussball/lukas-podolski-bei-gornik-zabrze-ex-nationalspieler-graetscht-gegner-mit-offener-sohle-um-brutales-foul-a-5a50e602-5673-41ec-875e-710351024cdb#ref=rss)
+### politiker
+
+* [https://www.spiegel.de/panorama/gesellschaft/berlin-ausschreitungen-bei-rosa-luxemburg-gedenken-20-festnahmen](https://www.spiegel.de/panorama/gesellschaft/berlin-ausschreitungen-bei-rosa-luxemburg-gedenken-20-festnahmen-a-990de46b-552e-44ba-aa78-e9fee6e97ea0#ref=rss)
+* [https://www.spiegel.de/politik/bundestagswahl-2025-robert-habeck-nennt-ausschliesseritis-von-markus-soeder-daemlich](https://www.spiegel.de/politik/bundestagswahl-2025-robert-habeck-nennt-ausschliesseritis-von-markus-soeder-daemlich-a-b446c4ba-371b-4034-a663-65771916b5e2#ref=rss)
+### demonstranten
+
+* [https://www.spiegel.de/panorama/gesellschaft/berlin-ausschreitungen-bei-rosa-luxemburg-gedenken-20-festnahmen](https://www.spiegel.de/panorama/gesellschaft/berlin-ausschreitungen-bei-rosa-luxemburg-gedenken-20-festnahmen-a-990de46b-552e-44ba-aa78-e9fee6e97ea0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-parteitag-in-riesa-ermittlungen-gegen-polizisten-wegen-polizeihund-einsatz](https://www.spiegel.de/politik/deutschland/afd-parteitag-in-riesa-ermittlungen-gegen-polizisten-wegen-polizeihund-einsatz-a-8c27ad93-617c-4f34-bd45-2694dcf4ae12#ref=rss)
+### hinter
+
+* [https://www.spiegel.de/sport/wintersport/wintersport-riesenslalom-in-adelboden-tv-drohne-stuerzt-hinter-jonas-stockinger-ab](https://www.spiegel.de/sport/wintersport/wintersport-riesenslalom-in-adelboden-tv-drohne-stuerzt-hinter-jonas-stockinger-ab-a-b40497fe-2883-4414-a902-ca9ca26efb88#ref=rss)
+### jonas
+
+* [https://www.spiegel.de/sport/wintersport/wintersport-riesenslalom-in-adelboden-tv-drohne-stuerzt-hinter-jonas-stockinger-ab](https://www.spiegel.de/sport/wintersport/wintersport-riesenslalom-in-adelboden-tv-drohne-stuerzt-hinter-jonas-stockinger-ab-a-b40497fe-2883-4414-a902-ca9ca26efb88#ref=rss)
+### stockinger
+
+* [https://www.spiegel.de/sport/wintersport/wintersport-riesenslalom-in-adelboden-tv-drohne-stuerzt-hinter-jonas-stockinger-ab](https://www.spiegel.de/sport/wintersport/wintersport-riesenslalom-in-adelboden-tv-drohne-stuerzt-hinter-jonas-stockinger-ab-a-b40497fe-2883-4414-a902-ca9ca26efb88#ref=rss)
+### schnee
+
+* [https://www.spiegel.de/sport/wintersport/wintersport-riesenslalom-in-adelboden-tv-drohne-stuerzt-hinter-jonas-stockinger-ab](https://www.spiegel.de/sport/wintersport/wintersport-riesenslalom-in-adelboden-tv-drohne-stuerzt-hinter-jonas-stockinger-ab-a-b40497fe-2883-4414-a902-ca9ca26efb88#ref=rss)
+* [https://www.spiegel.de/panorama/schweden-schnee-und-eis-in-stockholm-soldat-verletzt-sich-mit-bajonett](https://www.spiegel.de/panorama/schweden-schnee-und-eis-in-stockholm-soldat-verletzt-sich-mit-bajonett-a-b2cf404d-4232-47a2-a862-36ff4fd7f32d#ref=rss)
+### unverletzt
+
+* [https://www.spiegel.de/sport/wintersport/wintersport-riesenslalom-in-adelboden-tv-drohne-stuerzt-hinter-jonas-stockinger-ab](https://www.spiegel.de/sport/wintersport/wintersport-riesenslalom-in-adelboden-tv-drohne-stuerzt-hinter-jonas-stockinger-ab-a-b40497fe-2883-4414-a902-ca9ca26efb88#ref=rss)
+* [https://www.spiegel.de/panorama/ansbach-fahrzeug-des-us-militaers-erfasst-fussgaengerin-frau-stirbt](https://www.spiegel.de/panorama/ansbach-fahrzeug-des-us-militaers-erfasst-fussgaengerin-frau-stirbt-a-7731ab14-2454-48d5-a576-6cf9e3a1a2be#ref=rss)
+### schweizer
+
+* [https://www.spiegel.de/geschichte/credit-suisse-und-nazi-konten-das-abwiegeln-der-schweizer-banken-zieht-sich-bis-heute-durch](https://www.spiegel.de/geschichte/credit-suisse-und-nazi-konten-das-abwiegeln-der-schweizer-banken-zieht-sich-bis-heute-durch-a-ceef12a0-b674-4584-bf32-8bf692880169#ref=rss)
+### tatort
+
+* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-kiel-borowski-und-das-hungrige-herz-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-kiel-borowski-und-das-hungrige-herz-im-schnellcheck-a-cf800450-eaf6-4b3f-b2bf-d6908f3f3e6f#ref=rss)
+### sudan
+
+* [https://www.spiegel.de/ausland/sudan-armee-meldet-strategischen-erfolg-wichtige-stadt-zurueckerobert](https://www.spiegel.de/ausland/sudan-armee-meldet-strategischen-erfolg-wichtige-stadt-zurueckerobert-a-d48c62e8-ddee-4d2a-a0b8-49e64230d94e#ref=rss)
+### stadt
+
+* [https://www.spiegel.de/ausland/sudan-armee-meldet-strategischen-erfolg-wichtige-stadt-zurueckerobert](https://www.spiegel.de/ausland/sudan-armee-meldet-strategischen-erfolg-wichtige-stadt-zurueckerobert-a-d48c62e8-ddee-4d2a-a0b8-49e64230d94e#ref=rss)
+### zurückerobert
+
+* [https://www.spiegel.de/ausland/sudan-armee-meldet-strategischen-erfolg-wichtige-stadt-zurueckerobert](https://www.spiegel.de/ausland/sudan-armee-meldet-strategischen-erfolg-wichtige-stadt-zurueckerobert-a-d48c62e8-ddee-4d2a-a0b8-49e64230d94e#ref=rss)
+### fast
+
+* [https://www.spiegel.de/ausland/sudan-armee-meldet-strategischen-erfolg-wichtige-stadt-zurueckerobert](https://www.spiegel.de/ausland/sudan-armee-meldet-strategischen-erfolg-wichtige-stadt-zurueckerobert-a-d48c62e8-ddee-4d2a-a0b8-49e64230d94e#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/schont-der-dark-mode-wirklich-die-augen](https://www.spiegel.de/netzwelt/apps/schont-der-dark-mode-wirklich-die-augen-a-978cf60d-e16c-4555-ab24-1f6ffc342c24#ref=rss)
+### fußgängerin
+
+* [https://www.spiegel.de/panorama/ansbach-fahrzeug-des-us-militaers-erfasst-fussgaengerin-frau-stirbt](https://www.spiegel.de/panorama/ansbach-fahrzeug-des-us-militaers-erfasst-fussgaengerin-frau-stirbt-a-7731ab14-2454-48d5-a576-6cf9e3a1a2be#ref=rss)
+### fahrer
+
+* [https://www.spiegel.de/panorama/ansbach-fahrzeug-des-us-militaers-erfasst-fussgaengerin-frau-stirbt](https://www.spiegel.de/panorama/ansbach-fahrzeug-des-us-militaers-erfasst-fussgaengerin-frau-stirbt-a-7731ab14-2454-48d5-a576-6cf9e3a1a2be#ref=rss)
+### bajonett
+
+* [https://www.spiegel.de/panorama/schweden-schnee-und-eis-in-stockholm-soldat-verletzt-sich-mit-bajonett](https://www.spiegel.de/panorama/schweden-schnee-und-eis-in-stockholm-soldat-verletzt-sich-mit-bajonett-a-b2cf404d-4232-47a2-a862-36ff4fd7f32d#ref=rss)
+### dark
+
+* [https://www.spiegel.de/netzwelt/apps/schont-der-dark-mode-wirklich-die-augen](https://www.spiegel.de/netzwelt/apps/schont-der-dark-mode-wirklich-die-augen-a-978cf60d-e16c-4555-ab24-1f6ffc342c24#ref=rss)
+### mode
+
+* [https://www.spiegel.de/netzwelt/apps/schont-der-dark-mode-wirklich-die-augen](https://www.spiegel.de/netzwelt/apps/schont-der-dark-mode-wirklich-die-augen-a-978cf60d-e16c-4555-ab24-1f6ffc342c24#ref=rss)
+### augen
+
+* [https://www.spiegel.de/netzwelt/apps/schont-der-dark-mode-wirklich-die-augen](https://www.spiegel.de/netzwelt/apps/schont-der-dark-mode-wirklich-die-augen-a-978cf60d-e16c-4555-ab24-1f6ffc342c24#ref=rss)
+### hintergrund
+
+* [https://www.spiegel.de/netzwelt/apps/schont-der-dark-mode-wirklich-die-augen](https://www.spiegel.de/netzwelt/apps/schont-der-dark-mode-wirklich-die-augen-a-978cf60d-e16c-4555-ab24-1f6ffc342c24#ref=rss)
+* [https://www.spiegel.de/ausland/rom-zusammenstoesse-bei-demonstration-nach-tod-eines-jungen-mannes-acht-polizisten-verletzt](https://www.spiegel.de/ausland/rom-zusammenstoesse-bei-demonstration-nach-tod-eines-jungen-mannes-acht-polizisten-verletzt-a-6719c42c-ddeb-45c5-bfd5-c280d17c2051#ref=rss)
+### straßburg
+
+* [https://www.spiegel.de/panorama/strassburg-dutzende-verletzte-bei-strassenbahnunglueck](https://www.spiegel.de/panorama/strassburg-dutzende-verletzte-bei-strassenbahnunglueck-a-c6f995fa-edf8-4c8c-bff7-362f90e6e220#ref=rss)
+### 2025
+
+* [https://www.spiegel.de/politik/bundestagswahl-2025-robert-habeck-nennt-ausschliesseritis-von-markus-soeder-daemlich](https://www.spiegel.de/politik/bundestagswahl-2025-robert-habeck-nennt-ausschliesseritis-von-markus-soeder-daemlich-a-b446c4ba-371b-4034-a663-65771916b5e2#ref=rss)
+* [https://www.spiegel.de/sport/tennis/australian-open-2025-alexander-zverev-nach-sieg-gegen-lucas-pouille-in-runde-zwei](https://www.spiegel.de/sport/tennis/australian-open-2025-alexander-zverev-nach-sieg-gegen-lucas-pouille-in-runde-zwei-a-59953069-4a2f-44eb-a072-a775094ab0f5#ref=rss)
+### habeck
+
+* [https://www.spiegel.de/politik/bundestagswahl-2025-robert-habeck-nennt-ausschliesseritis-von-markus-soeder-daemlich](https://www.spiegel.de/politik/bundestagswahl-2025-robert-habeck-nennt-ausschliesseritis-von-markus-soeder-daemlich-a-b446c4ba-371b-4034-a663-65771916b5e2#ref=rss)
+### markus
+
+* [https://www.spiegel.de/politik/bundestagswahl-2025-robert-habeck-nennt-ausschliesseritis-von-markus-soeder-daemlich](https://www.spiegel.de/politik/bundestagswahl-2025-robert-habeck-nennt-ausschliesseritis-von-markus-soeder-daemlich-a-b446c4ba-371b-4034-a663-65771916b5e2#ref=rss)
+### söder
+
+* [https://www.spiegel.de/politik/bundestagswahl-2025-robert-habeck-nennt-ausschliesseritis-von-markus-soeder-daemlich](https://www.spiegel.de/politik/bundestagswahl-2025-robert-habeck-nennt-ausschliesseritis-von-markus-soeder-daemlich-a-b446c4ba-371b-4034-a663-65771916b5e2#ref=rss)
+### australian
+
+* [https://www.spiegel.de/sport/tennis/australian-open-2025-alexander-zverev-nach-sieg-gegen-lucas-pouille-in-runde-zwei](https://www.spiegel.de/sport/tennis/australian-open-2025-alexander-zverev-nach-sieg-gegen-lucas-pouille-in-runde-zwei-a-59953069-4a2f-44eb-a072-a775094ab0f5#ref=rss)
+### open
+
+* [https://www.spiegel.de/sport/tennis/australian-open-2025-alexander-zverev-nach-sieg-gegen-lucas-pouille-in-runde-zwei](https://www.spiegel.de/sport/tennis/australian-open-2025-alexander-zverev-nach-sieg-gegen-lucas-pouille-in-runde-zwei-a-59953069-4a2f-44eb-a072-a775094ab0f5#ref=rss)
+### alexander
+
+* [https://www.spiegel.de/sport/tennis/australian-open-2025-alexander-zverev-nach-sieg-gegen-lucas-pouille-in-runde-zwei](https://www.spiegel.de/sport/tennis/australian-open-2025-alexander-zverev-nach-sieg-gegen-lucas-pouille-in-runde-zwei-a-59953069-4a2f-44eb-a072-a775094ab0f5#ref=rss)
+### zverev
+
+* [https://www.spiegel.de/sport/tennis/australian-open-2025-alexander-zverev-nach-sieg-gegen-lucas-pouille-in-runde-zwei](https://www.spiegel.de/sport/tennis/australian-open-2025-alexander-zverev-nach-sieg-gegen-lucas-pouille-in-runde-zwei-a-59953069-4a2f-44eb-a072-a775094ab0f5#ref=rss)
+### lucas
+
+* [https://www.spiegel.de/sport/tennis/australian-open-2025-alexander-zverev-nach-sieg-gegen-lucas-pouille-in-runde-zwei](https://www.spiegel.de/sport/tennis/australian-open-2025-alexander-zverev-nach-sieg-gegen-lucas-pouille-in-runde-zwei-a-59953069-4a2f-44eb-a072-a775094ab0f5#ref=rss)
+### pouille
+
+* [https://www.spiegel.de/sport/tennis/australian-open-2025-alexander-zverev-nach-sieg-gegen-lucas-pouille-in-runde-zwei](https://www.spiegel.de/sport/tennis/australian-open-2025-alexander-zverev-nach-sieg-gegen-lucas-pouille-in-runde-zwei-a-59953069-4a2f-44eb-a072-a775094ab0f5#ref=rss)
+### tod
+
+* [https://www.spiegel.de/ausland/rom-zusammenstoesse-bei-demonstration-nach-tod-eines-jungen-mannes-acht-polizisten-verletzt](https://www.spiegel.de/ausland/rom-zusammenstoesse-bei-demonstration-nach-tod-eines-jungen-mannes-acht-polizisten-verletzt-a-6719c42c-ddeb-45c5-bfd5-c280d17c2051#ref=rss)
+### jungen
+
+* [https://www.spiegel.de/ausland/rom-zusammenstoesse-bei-demonstration-nach-tod-eines-jungen-mannes-acht-polizisten-verletzt](https://www.spiegel.de/ausland/rom-zusammenstoesse-bei-demonstration-nach-tod-eines-jungen-mannes-acht-polizisten-verletzt-a-6719c42c-ddeb-45c5-bfd5-c280d17c2051#ref=rss)
+### mannes
+
+* [https://www.spiegel.de/ausland/rom-zusammenstoesse-bei-demonstration-nach-tod-eines-jungen-mannes-acht-polizisten-verletzt](https://www.spiegel.de/ausland/rom-zusammenstoesse-bei-demonstration-nach-tod-eines-jungen-mannes-acht-polizisten-verletzt-a-6719c42c-ddeb-45c5-bfd5-c280d17c2051#ref=rss)
+### verschärft
+
+* [https://www.spiegel.de/politik/deutschland/afd-verschaerft-wahlprogramm-und-nimmt-rechten-begriff-der-remigration-auf](https://www.spiegel.de/politik/deutschland/afd-verschaerft-wahlprogramm-und-nimmt-rechten-begriff-der-remigration-auf-a-444b6c0c-63a6-4b6c-8dfc-023f727e25c4#ref=rss)
+### wahlprogramm
+
+* [https://www.spiegel.de/politik/deutschland/afd-verschaerft-wahlprogramm-und-nimmt-rechten-begriff-der-remigration-auf](https://www.spiegel.de/politik/deutschland/afd-verschaerft-wahlprogramm-und-nimmt-rechten-begriff-der-remigration-auf-a-444b6c0c-63a6-4b6c-8dfc-023f727e25c4#ref=rss)
+### remigration
+
+* [https://www.spiegel.de/politik/deutschland/afd-verschaerft-wahlprogramm-und-nimmt-rechten-begriff-der-remigration-auf](https://www.spiegel.de/politik/deutschland/afd-verschaerft-wahlprogramm-und-nimmt-rechten-begriff-der-remigration-auf-a-444b6c0c-63a6-4b6c-8dfc-023f727e25c4#ref=rss)
+### parteitag
+
+* [https://www.spiegel.de/politik/deutschland/afd-verschaerft-wahlprogramm-und-nimmt-rechten-begriff-der-remigration-auf](https://www.spiegel.de/politik/deutschland/afd-verschaerft-wahlprogramm-und-nimmt-rechten-begriff-der-remigration-auf-a-444b6c0c-63a6-4b6c-8dfc-023f727e25c4#ref=rss)
+* [https://www.spiegel.de/politik/afd-trennt-sich-von-junger-alternative-und-beschliesst-gruendung-neuer-jugendorganisation](https://www.spiegel.de/politik/afd-trennt-sich-von-junger-alternative-und-beschliesst-gruendung-neuer-jugendorganisation-a-0f24cbd8-2846-4ae5-a401-2c343fb4d51c#ref=rss)
+### alternative
+
+* [https://www.spiegel.de/politik/afd-trennt-sich-von-junger-alternative-und-beschliesst-gruendung-neuer-jugendorganisation](https://www.spiegel.de/politik/afd-trennt-sich-von-junger-alternative-und-beschliesst-gruendung-neuer-jugendorganisation-a-0f24cbd8-2846-4ae5-a401-2c343fb4d51c#ref=rss)
+### jugendorganisation
+
+* [https://www.spiegel.de/politik/afd-trennt-sich-von-junger-alternative-und-beschliesst-gruendung-neuer-jugendorganisation](https://www.spiegel.de/politik/afd-trennt-sich-von-junger-alternative-und-beschliesst-gruendung-neuer-jugendorganisation-a-0f24cbd8-2846-4ae5-a401-2c343fb4d51c#ref=rss)
+### königin
+
+* [https://www.spiegel.de/panorama/leute/koenigin-sonja-von-norwegen-nach-skiausflug-voruebergehend-in-klinik](https://www.spiegel.de/panorama/leute/koenigin-sonja-von-norwegen-nach-skiausflug-voruebergehend-in-klinik-a-ba0f3b36-93ca-4cfa-8cac-d7f23a52818e#ref=rss)
+### sonja
+
+* [https://www.spiegel.de/panorama/leute/koenigin-sonja-von-norwegen-nach-skiausflug-voruebergehend-in-klinik](https://www.spiegel.de/panorama/leute/koenigin-sonja-von-norwegen-nach-skiausflug-voruebergehend-in-klinik-a-ba0f3b36-93ca-4cfa-8cac-d7f23a52818e#ref=rss)
 
