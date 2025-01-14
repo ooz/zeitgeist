@@ -6,456 +6,397 @@ tags: __no_header__
 
 ### donald
 
-* [https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-meta-umbaut-podcast](https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-meta-umbaut-podcast-a-614bebc7-0983-4b6a-b5fe-ac07a8edac3c#ref=rss)
-* [https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-seine-plattformen-umbaut](https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-seine-plattformen-umbaut-a-f7be38a2-d819-41f9-8aff-0a394339be19#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-klimaprognose-papst-franziskus-vs-donald-trump-unwort-des-jahres](https://www.spiegel.de/politik/deutschland/news-klimaprognose-papst-franziskus-vs-donald-trump-unwort-des-jahres-a-9f490238-66d0-4175-809a-ee85b316dddc#ref=rss)
-* [https://www.spiegel.de/kultur/oliviero-toscani-meine-groessten-gegner-waren-die-benetton-manager](https://www.spiegel.de/kultur/oliviero-toscani-meine-groessten-gegner-waren-die-benetton-manager-a-c74a1426-2936-4c35-aec1-220e7b179324#ref=rss)
-* [https://www.spiegel.de/ausland/papst-franziskus-und-donald-trump-streiten-ueber-fluechtlingspolitik-dieser-mann-ist-kein-christ](https://www.spiegel.de/ausland/papst-franziskus-und-donald-trump-streiten-ueber-fluechtlingspolitik-dieser-mann-ist-kein-christ-a-8e9db66e-3d13-4103-b6e1-0e77eea49060#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/polen-unterstuetzt-donald-trumps-nato-forderung-scholz-distanziert-sich](https://www.spiegel.de/politik/deutschland/polen-unterstuetzt-donald-trumps-nato-forderung-scholz-distanziert-sich-a-aca01e2d-9737-4bef-835e-b468eba46da7#ref=rss)
-* [https://www.spiegel.de/ausland/waldbraende-in-kalifornien-spiegel-reporter-berichten-von-der-verheerenden-lage-in-los-angeles](https://www.spiegel.de/ausland/waldbraende-in-kalifornien-spiegel-reporter-berichten-von-der-verheerenden-lage-in-los-angeles-a-9a72f441-cc24-4108-bd02-98a4cdba42a8#ref=rss)
+* [https://www.spiegel.de/ausland/jack-smith-lesen-sie-den-bericht-des-sonderermittlers-ueber-donald-trump-hier-im-original](https://www.spiegel.de/ausland/jack-smith-lesen-sie-den-bericht-des-sonderermittlers-ueber-donald-trump-hier-im-original-a-cd78765c-c723-4829-a149-968c65d8d437#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-das-steht-im-abschlussbericht-von-trump-sonderermittler-jack-smith](https://www.spiegel.de/ausland/donald-trump-das-steht-im-abschlussbericht-von-trump-sonderermittler-jack-smith-a-b6f837a1-4f18-46a5-9564-27c5871d2b6c#ref=rss)
+* [https://www.spiegel.de/ausland/groenland-mute-b-egede-erteilt-donald-trump-eine-scharfe-absage](https://www.spiegel.de/ausland/groenland-mute-b-egede-erteilt-donald-trump-eine-scharfe-absage-a-49f9268e-b5f2-48ec-ae2d-0bbcca61d865#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-wiederwahl-verhinderte-laut-sonderermittler-schuldspruch](https://www.spiegel.de/ausland/donald-trump-wiederwahl-verhinderte-laut-sonderermittler-schuldspruch-a-2a766252-8578-486e-93c3-b6cd4df3481d#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-meta-umbaut-podcast](https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-meta-umbaut-podcast-a-614bebc7-0983-4b6a-b5fe-ac07a8edac3c#ref=rss)
-* [https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-seine-plattformen-umbaut](https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-seine-plattformen-umbaut-a-f7be38a2-d819-41f9-8aff-0a394339be19#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-klimaprognose-papst-franziskus-vs-donald-trump-unwort-des-jahres](https://www.spiegel.de/politik/deutschland/news-klimaprognose-papst-franziskus-vs-donald-trump-unwort-des-jahres-a-9f490238-66d0-4175-809a-ee85b316dddc#ref=rss)
-* [https://www.spiegel.de/kultur/oliviero-toscani-meine-groessten-gegner-waren-die-benetton-manager](https://www.spiegel.de/kultur/oliviero-toscani-meine-groessten-gegner-waren-die-benetton-manager-a-c74a1426-2936-4c35-aec1-220e7b179324#ref=rss)
-* [https://www.spiegel.de/ausland/papst-franziskus-und-donald-trump-streiten-ueber-fluechtlingspolitik-dieser-mann-ist-kein-christ](https://www.spiegel.de/ausland/papst-franziskus-und-donald-trump-streiten-ueber-fluechtlingspolitik-dieser-mann-ist-kein-christ-a-8e9db66e-3d13-4103-b6e1-0e77eea49060#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/polen-unterstuetzt-donald-trumps-nato-forderung-scholz-distanziert-sich](https://www.spiegel.de/politik/deutschland/polen-unterstuetzt-donald-trumps-nato-forderung-scholz-distanziert-sich-a-aca01e2d-9737-4bef-835e-b468eba46da7#ref=rss)
-* [https://www.spiegel.de/ausland/waldbraende-in-kalifornien-spiegel-reporter-berichten-von-der-verheerenden-lage-in-los-angeles](https://www.spiegel.de/ausland/waldbraende-in-kalifornien-spiegel-reporter-berichten-von-der-verheerenden-lage-in-los-angeles-a-9a72f441-cc24-4108-bd02-98a4cdba42a8#ref=rss)
-### zwei
+* [https://www.spiegel.de/ausland/jack-smith-lesen-sie-den-bericht-des-sonderermittlers-ueber-donald-trump-hier-im-original](https://www.spiegel.de/ausland/jack-smith-lesen-sie-den-bericht-des-sonderermittlers-ueber-donald-trump-hier-im-original-a-cd78765c-c723-4829-a149-968c65d8d437#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-das-steht-im-abschlussbericht-von-trump-sonderermittler-jack-smith](https://www.spiegel.de/ausland/donald-trump-das-steht-im-abschlussbericht-von-trump-sonderermittler-jack-smith-a-b6f837a1-4f18-46a5-9564-27c5871d2b6c#ref=rss)
+* [https://www.spiegel.de/ausland/groenland-mute-b-egede-erteilt-donald-trump-eine-scharfe-absage](https://www.spiegel.de/ausland/groenland-mute-b-egede-erteilt-donald-trump-eine-scharfe-absage-a-49f9268e-b5f2-48ec-ae2d-0bbcca61d865#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-wiederwahl-verhinderte-laut-sonderermittler-schuldspruch](https://www.spiegel.de/ausland/donald-trump-wiederwahl-verhinderte-laut-sonderermittler-schuldspruch-a-2a766252-8578-486e-93c3-b6cd4df3481d#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/panorama/justiz/rastow-in-mecklenburg-vorpommern-neun-verletzte-bei-boellerexplosion-auf-darttunier](https://www.spiegel.de/panorama/justiz/rastow-in-mecklenburg-vorpommern-neun-verletzte-bei-boellerexplosion-auf-darttunier-a-ab10a271-d6eb-4af8-b32b-624c8e410458#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/telefonbetrug-mit-schockanrufen-wenn-die-scammer-zwei-mal-durchklingeln](https://www.spiegel.de/netzwelt/web/telefonbetrug-mit-schockanrufen-wenn-die-scammer-zwei-mal-durchklingeln-a-5e2c9b49-8ef1-4838-8a97-a27db70280ef#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/flusskrebse-forscher-finden-neue-art-in-der-lieferung-eines-tierhaendlers](https://www.spiegel.de/wissenschaft/natur/flusskrebse-forscher-finden-neue-art-in-der-lieferung-eines-tierhaendlers-a-dcbcccfa-bb41-4e4d-a7ce-a9ed26af3803#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/casekow-in-brandenburg-zwei-personen-bei-attacke-mit-stichwaffe-getoetet](https://www.spiegel.de/panorama/justiz/casekow-in-brandenburg-zwei-personen-bei-attacke-mit-stichwaffe-getoetet-a-d4c794c2-ab1b-432e-b7a0-c18e7641af94#ref=rss)
+* [https://www.spiegel.de/wirtschaft/aktien-und-anlegen-2025-hedgefondsmanager-sieht-grosse-chancen-fuer-europaeische-boersen](https://www.spiegel.de/wirtschaft/aktien-und-anlegen-2025-hedgefondsmanager-sieht-grosse-chancen-fuer-europaeische-boersen-a-19ac72f3-4cf0-4dbc-b998-99f7fb2723a5#ref=rss)
+* [https://www.spiegel.de/sport/fussball/deutsche-fussball-liga-laender-duerfen-bundesliga-vereine-fuer-polizei-einsaetze-zur-kasse-bitten](https://www.spiegel.de/sport/fussball/deutsche-fussball-liga-laender-duerfen-bundesliga-vereine-fuer-polizei-einsaetze-zur-kasse-bitten-a-daefedc6-7fdb-48be-ac31-bd472de8e59d#ref=rss)
+* [https://www.spiegel.de/sport/tennis/australian-open-eva-lys-als-lucky-loser-ueberraschend-im-turnier](https://www.spiegel.de/sport/tennis/australian-open-eva-lys-als-lucky-loser-ueberraschend-im-turnier-a-60011175-6290-4c00-9867-3b700bf5831e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutlich-mehr-geld-von-investoren-fuer-deutsche-start-ups](https://www.spiegel.de/wirtschaft/unternehmen/deutlich-mehr-geld-von-investoren-fuer-deutsche-start-ups-a-2a13b353-3bf7-45ae-bac8-3f7613df22d8#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/deutsche-bahn-laut-sahra-wagenknecht-anfrage-mehr-straftaten-gegen-mitarbeiter-und-bundespolizisten](https://www.spiegel.de/panorama/justiz/deutsche-bahn-laut-sahra-wagenknecht-anfrage-mehr-straftaten-gegen-mitarbeiter-und-bundespolizisten-a-f46a8295-06c1-4d16-b90c-a0cb21c7d47d#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/wirtschaft/oel-preis-so-hoch-wie-seit-fuenf-monaten-nicht-mehr](https://www.spiegel.de/wirtschaft/oel-preis-so-hoch-wie-seit-fuenf-monaten-nicht-mehr-a-a3caf011-98fd-486a-b4f4-690379d900cb#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/telefonbetrug-mit-schockanrufen-wenn-die-scammer-zwei-mal-durchklingeln](https://www.spiegel.de/netzwelt/web/telefonbetrug-mit-schockanrufen-wenn-die-scammer-zwei-mal-durchklingeln-a-5e2c9b49-8ef1-4838-8a97-a27db70280ef#ref=rss)
-* [https://www.spiegel.de/panorama/ostsee-havarierter-russischer-oeltanker-eventin-wird-nach-daenemark-geschleppt](https://www.spiegel.de/panorama/ostsee-havarierter-russischer-oeltanker-eventin-wird-nach-daenemark-geschleppt-a-745140fa-912d-48d8-95ea-a20f3fdd895d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/flusskrebse-forscher-finden-neue-art-in-der-lieferung-eines-tierhaendlers](https://www.spiegel.de/wissenschaft/natur/flusskrebse-forscher-finden-neue-art-in-der-lieferung-eines-tierhaendlers-a-dcbcccfa-bb41-4e4d-a7ce-a9ed26af3803#ref=rss)
-* [https://www.spiegel.de/ausland/waldbraende-in-kalifornien-spiegel-reporter-berichten-von-der-verheerenden-lage-in-los-angeles](https://www.spiegel.de/ausland/waldbraende-in-kalifornien-spiegel-reporter-berichten-von-der-verheerenden-lage-in-los-angeles-a-9a72f441-cc24-4108-bd02-98a4cdba42a8#ref=rss)
-### instagram
+* [https://www.spiegel.de/kultur/kino/kieran-culkin-in-a-real-pain-kleiner-bruder-grosser-star](https://www.spiegel.de/kultur/kino/kieran-culkin-in-a-real-pain-kleiner-bruder-grosser-star-a-f252f459-1787-42b8-adfd-35e2c2499d81#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-ermittlungen-wegen-mutmasslicher-korruption-bei-sanierung-der-staatskanzlei](https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-ermittlungen-wegen-mutmasslicher-korruption-bei-sanierung-der-staatskanzlei-a-3d88fada-48a8-481f-8b1d-3348e2171aa9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutlich-mehr-geld-von-investoren-fuer-deutsche-start-ups](https://www.spiegel.de/wirtschaft/unternehmen/deutlich-mehr-geld-von-investoren-fuer-deutsche-start-ups-a-2a13b353-3bf7-45ae-bac8-3f7613df22d8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-boris-pistorius-verspricht-kyjiv-mehr-ruestungshilfen](https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-boris-pistorius-verspricht-kyjiv-mehr-ruestungshilfen-a-178e07e0-1038-42e5-b0ef-14fd030df5e1#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/deutsche-bahn-laut-sahra-wagenknecht-anfrage-mehr-straftaten-gegen-mitarbeiter-und-bundespolizisten](https://www.spiegel.de/panorama/justiz/deutsche-bahn-laut-sahra-wagenknecht-anfrage-mehr-straftaten-gegen-mitarbeiter-und-bundespolizisten-a-f46a8295-06c1-4d16-b90c-a0cb21c7d47d#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-meta-umbaut-podcast](https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-meta-umbaut-podcast-a-614bebc7-0983-4b6a-b5fe-ac07a8edac3c#ref=rss)
-* [https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-seine-plattformen-umbaut](https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-seine-plattformen-umbaut-a-f7be38a2-d819-41f9-8aff-0a394339be19#ref=rss)
-### facebook
+* [https://www.spiegel.de/politik/deutschland/nancy-faeser-wirft-russland-anfachen-von-migration-nach-europa-vor](https://www.spiegel.de/politik/deutschland/nancy-faeser-wirft-russland-anfachen-von-migration-nach-europa-vor-a-218c96ea-e65f-46f1-a684-16e0070f4fb4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/drogeriekette-dm-unternehmen-will-rezeptfreie-medikamente-online-verkaufen](https://www.spiegel.de/wirtschaft/unternehmen/drogeriekette-dm-unternehmen-will-rezeptfreie-medikamente-online-verkaufen-a-6f7de53b-34fe-49b6-8454-50bf475c9ef5#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/marl-mehrere-drohnen-ueber-dem-chemiepark-gesichtet](https://www.spiegel.de/panorama/justiz/marl-mehrere-drohnen-ueber-dem-chemiepark-gesichtet-a-e3d9cb4e-2c4a-498b-963d-34fe7dae8f30#ref=rss)
+* [https://www.spiegel.de/panorama/deutscher-wetterdienst-warnt-vor-glatten-strassen-in-deutschland](https://www.spiegel.de/panorama/deutscher-wetterdienst-warnt-vor-glatten-strassen-in-deutschland-a-3162e3c3-cba7-4f3d-9840-99f0632be18f#ref=rss)
+### jack
 
-* [https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-meta-umbaut-podcast](https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-meta-umbaut-podcast-a-614bebc7-0983-4b6a-b5fe-ac07a8edac3c#ref=rss)
-* [https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-seine-plattformen-umbaut](https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-seine-plattformen-umbaut-a-f7be38a2-d819-41f9-8aff-0a394339be19#ref=rss)
-### threads
+* [https://www.spiegel.de/ausland/jack-smith-lesen-sie-den-bericht-des-sonderermittlers-ueber-donald-trump-hier-im-original](https://www.spiegel.de/ausland/jack-smith-lesen-sie-den-bericht-des-sonderermittlers-ueber-donald-trump-hier-im-original-a-cd78765c-c723-4829-a149-968c65d8d437#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-das-steht-im-abschlussbericht-von-trump-sonderermittler-jack-smith](https://www.spiegel.de/ausland/donald-trump-das-steht-im-abschlussbericht-von-trump-sonderermittler-jack-smith-a-b6f837a1-4f18-46a5-9564-27c5871d2b6c#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-wiederwahl-verhinderte-laut-sonderermittler-schuldspruch](https://www.spiegel.de/ausland/donald-trump-wiederwahl-verhinderte-laut-sonderermittler-schuldspruch-a-2a766252-8578-486e-93c3-b6cd4df3481d#ref=rss)
+### smith
 
-* [https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-meta-umbaut-podcast](https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-meta-umbaut-podcast-a-614bebc7-0983-4b6a-b5fe-ac07a8edac3c#ref=rss)
-* [https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-seine-plattformen-umbaut](https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-seine-plattformen-umbaut-a-f7be38a2-d819-41f9-8aff-0a394339be19#ref=rss)
-### zuckerberg
+* [https://www.spiegel.de/ausland/jack-smith-lesen-sie-den-bericht-des-sonderermittlers-ueber-donald-trump-hier-im-original](https://www.spiegel.de/ausland/jack-smith-lesen-sie-den-bericht-des-sonderermittlers-ueber-donald-trump-hier-im-original-a-cd78765c-c723-4829-a149-968c65d8d437#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-das-steht-im-abschlussbericht-von-trump-sonderermittler-jack-smith](https://www.spiegel.de/ausland/donald-trump-das-steht-im-abschlussbericht-von-trump-sonderermittler-jack-smith-a-b6f837a1-4f18-46a5-9564-27c5871d2b6c#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-wiederwahl-verhinderte-laut-sonderermittler-schuldspruch](https://www.spiegel.de/ausland/donald-trump-wiederwahl-verhinderte-laut-sonderermittler-schuldspruch-a-2a766252-8578-486e-93c3-b6cd4df3481d#ref=rss)
+### australian
 
-* [https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-meta-umbaut-podcast](https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-meta-umbaut-podcast-a-614bebc7-0983-4b6a-b5fe-ac07a8edac3c#ref=rss)
-* [https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-seine-plattformen-umbaut](https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-seine-plattformen-umbaut-a-f7be38a2-d819-41f9-8aff-0a394339be19#ref=rss)
-### fall
+* [https://www.spiegel.de/sport/tennis/australian-open-daniil-medwedew-zertruemmert-aus-wut-netzkamera](https://www.spiegel.de/sport/tennis/australian-open-daniil-medwedew-zertruemmert-aus-wut-netzkamera-a-9ff24863-fa04-4fca-af38-48436248bc12#ref=rss)
+* [https://www.spiegel.de/sport/tennis/australian-open-eva-lys-als-lucky-loser-ueberraschend-im-turnier](https://www.spiegel.de/sport/tennis/australian-open-eva-lys-als-lucky-loser-ueberraschend-im-turnier-a-60011175-6290-4c00-9867-3b700bf5831e#ref=rss)
+### open
 
-* [https://www.spiegel.de/sport/fussball/hasskommentare-im-sport-was-ein-experte-zum-fall-sophia-havertz-sagt](https://www.spiegel.de/sport/fussball/hasskommentare-im-sport-was-ein-experte-zum-fall-sophia-havertz-sagt-a-10338a71-ad5d-4266-8f29-29822402ae45#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-anschlagsplaene-auf-israelische-botschaft-nicht-erhaertet-terrorverdaechtiger-wieder-frei](https://www.spiegel.de/panorama/berlin-anschlagsplaene-auf-israelische-botschaft-nicht-erhaertet-terrorverdaechtiger-wieder-frei-a-0b18df5b-a83d-41a8-94e8-fe519adb774c#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/telefonbetrug-mit-schockanrufen-wenn-die-scammer-zwei-mal-durchklingeln](https://www.spiegel.de/netzwelt/web/telefonbetrug-mit-schockanrufen-wenn-die-scammer-zwei-mal-durchklingeln-a-5e2c9b49-8ef1-4838-8a97-a27db70280ef#ref=rss)
-### 2025
+* [https://www.spiegel.de/sport/tennis/australian-open-daniil-medwedew-zertruemmert-aus-wut-netzkamera](https://www.spiegel.de/sport/tennis/australian-open-daniil-medwedew-zertruemmert-aus-wut-netzkamera-a-9ff24863-fa04-4fca-af38-48436248bc12#ref=rss)
+* [https://www.spiegel.de/sport/tennis/australian-open-eva-lys-als-lucky-loser-ueberraschend-im-turnier](https://www.spiegel.de/sport/tennis/australian-open-eva-lys-als-lucky-loser-ueberraschend-im-turnier-a-60011175-6290-4c00-9867-3b700bf5831e#ref=rss)
+### los
 
-* [https://www.spiegel.de/panorama/gesellschaft/kumbh-mela-in-indien-bis-zu-400-millionen-pilger-an-den-ufern-des-ganges-erwartet](https://www.spiegel.de/panorama/gesellschaft/kumbh-mela-in-indien-bis-zu-400-millionen-pilger-an-den-ufern-des-ganges-erwartet-a-61ae3bf4-b8ae-4d1f-9bbd-41ee912794ef#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-klimaprognose-papst-franziskus-vs-donald-trump-unwort-des-jahres](https://www.spiegel.de/politik/deutschland/news-klimaprognose-papst-franziskus-vs-donald-trump-unwort-des-jahres-a-9f490238-66d0-4175-809a-ee85b316dddc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/briefwahl-2025-das-muessen-sie-vor-der-bundestagswahl-wissen](https://www.spiegel.de/politik/deutschland/briefwahl-2025-das-muessen-sie-vor-der-bundestagswahl-wissen-a-384cde4f-f6e9-4be8-9579-34a848c339ed#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-armin-laschet-und-johannes-vogel-plaedieren-fuer-schwarz-gelb](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-armin-laschet-und-johannes-vogel-plaedieren-fuer-schwarz-gelb-a-72d9e965-c8ea-46cb-ad8b-c62221ee02ab#ref=rss)
-### papst
+* [https://www.spiegel.de/ausland/waldbraende-in-los-angeles-wie-vermieter-an-den-feueropfern-verdienen-wollen](https://www.spiegel.de/ausland/waldbraende-in-los-angeles-wie-vermieter-an-den-feueropfern-verdienen-wollen-a-85fde2a5-566c-4e8d-98df-b523db8124f7#ref=rss)
+* [https://www.spiegel.de/panorama/leute/waldbraende-in-los-angeles-prominente-finden-unterschlupf-bei-hilary-duff-paris-hilton-engagiert-sich-fuer-tiere](https://www.spiegel.de/panorama/leute/waldbraende-in-los-angeles-prominente-finden-unterschlupf-bei-hilary-duff-paris-hilton-engagiert-sich-fuer-tiere-a-b78fafa7-3ece-4a23-8d7a-c69a34546f5f#ref=rss)
+### angeles
 
-* [https://www.spiegel.de/politik/deutschland/news-klimaprognose-papst-franziskus-vs-donald-trump-unwort-des-jahres](https://www.spiegel.de/politik/deutschland/news-klimaprognose-papst-franziskus-vs-donald-trump-unwort-des-jahres-a-9f490238-66d0-4175-809a-ee85b316dddc#ref=rss)
-* [https://www.spiegel.de/ausland/papst-franziskus-und-donald-trump-streiten-ueber-fluechtlingspolitik-dieser-mann-ist-kein-christ](https://www.spiegel.de/ausland/papst-franziskus-und-donald-trump-streiten-ueber-fluechtlingspolitik-dieser-mann-ist-kein-christ-a-8e9db66e-3d13-4103-b6e1-0e77eea49060#ref=rss)
-### franziskus
+* [https://www.spiegel.de/ausland/waldbraende-in-los-angeles-wie-vermieter-an-den-feueropfern-verdienen-wollen](https://www.spiegel.de/ausland/waldbraende-in-los-angeles-wie-vermieter-an-den-feueropfern-verdienen-wollen-a-85fde2a5-566c-4e8d-98df-b523db8124f7#ref=rss)
+* [https://www.spiegel.de/panorama/leute/waldbraende-in-los-angeles-prominente-finden-unterschlupf-bei-hilary-duff-paris-hilton-engagiert-sich-fuer-tiere](https://www.spiegel.de/panorama/leute/waldbraende-in-los-angeles-prominente-finden-unterschlupf-bei-hilary-duff-paris-hilton-engagiert-sich-fuer-tiere-a-b78fafa7-3ece-4a23-8d7a-c69a34546f5f#ref=rss)
+### tiktok
 
-* [https://www.spiegel.de/politik/deutschland/news-klimaprognose-papst-franziskus-vs-donald-trump-unwort-des-jahres](https://www.spiegel.de/politik/deutschland/news-klimaprognose-papst-franziskus-vs-donald-trump-unwort-des-jahres-a-9f490238-66d0-4175-809a-ee85b316dddc#ref=rss)
-* [https://www.spiegel.de/ausland/papst-franziskus-und-donald-trump-streiten-ueber-fluechtlingspolitik-dieser-mann-ist-kein-christ](https://www.spiegel.de/ausland/papst-franziskus-und-donald-trump-streiten-ueber-fluechtlingspolitik-dieser-mann-ist-kein-christ-a-8e9db66e-3d13-4103-b6e1-0e77eea49060#ref=rss)
-### mann
+* [https://www.spiegel.de/netzwelt/apps/rednote-tiktok-nutzer-weichen-auf-alternative-chinesische-app-aus](https://www.spiegel.de/netzwelt/apps/rednote-tiktok-nutzer-weichen-auf-alternative-chinesische-app-aus-a-89198bbd-4390-4962-b93e-97bd84e29a8c#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/medienbericht-china-prueft-offenbar-verkauf-von-tiktok-an-elon-musk](https://www.spiegel.de/netzwelt/apps/medienbericht-china-prueft-offenbar-verkauf-von-tiktok-an-elon-musk-a-ef21dc7d-e217-4d97-aeb5-3be79b71a0c9#ref=rss)
+### korruption
 
-* [https://www.spiegel.de/panorama/rethen-lokfuehrer-schlaeft-mit-1-4-promille-in-gueterzug-ein](https://www.spiegel.de/panorama/rethen-lokfuehrer-schlaeft-mit-1-4-promille-in-gueterzug-ein-a-3dc1827a-a76a-4131-b32c-6333f1b04b42#ref=rss)
-* [https://www.spiegel.de/ausland/papst-franziskus-und-donald-trump-streiten-ueber-fluechtlingspolitik-dieser-mann-ist-kein-christ](https://www.spiegel.de/ausland/papst-franziskus-und-donald-trump-streiten-ueber-fluechtlingspolitik-dieser-mann-ist-kein-christ-a-8e9db66e-3d13-4103-b6e1-0e77eea49060#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/casekow-in-brandenburg-zwei-personen-bei-attacke-mit-stichwaffe-getoetet](https://www.spiegel.de/panorama/justiz/casekow-in-brandenburg-zwei-personen-bei-attacke-mit-stichwaffe-getoetet-a-d4c794c2-ab1b-432e-b7a0-c18e7641af94#ref=rss)
-### berlin
+* [https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-ermittlungen-wegen-mutmasslicher-korruption-bei-sanierung-der-staatskanzlei](https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-ermittlungen-wegen-mutmasslicher-korruption-bei-sanierung-der-staatskanzlei-a-3d88fada-48a8-481f-8b1d-3348e2171aa9#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-berichtet-in-autobiografie-ueber-weisse-box-mit-dokumenten-ueber-skandale](https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-berichtet-in-autobiografie-ueber-weisse-box-mit-dokumenten-ueber-skandale-a-9e14aa04-8be3-4cf4-923b-78eba498902e#ref=rss)
+### bericht
 
-* [https://www.spiegel.de/panorama/berlin-anschlagsplaene-auf-israelische-botschaft-nicht-erhaertet-terrorverdaechtiger-wieder-frei](https://www.spiegel.de/panorama/berlin-anschlagsplaene-auf-israelische-botschaft-nicht-erhaertet-terrorverdaechtiger-wieder-frei-a-0b18df5b-a83d-41a8-94e8-fe519adb774c#ref=rss)
-* [https://www.spiegel.de/panorama/zoo-berlin-nikolas-algenstaedt-ist-der-bademeister-fuer-das-junge-zwergflusspferd-toni](https://www.spiegel.de/panorama/zoo-berlin-nikolas-algenstaedt-ist-der-bademeister-fuer-das-junge-zwergflusspferd-toni-a-983feea7-1395-4be2-96dc-8a7810d9096d#ref=rss)
-### betroffene
+* [https://www.spiegel.de/ausland/jack-smith-lesen-sie-den-bericht-des-sonderermittlers-ueber-donald-trump-hier-im-original](https://www.spiegel.de/ausland/jack-smith-lesen-sie-den-bericht-des-sonderermittlers-ueber-donald-trump-hier-im-original-a-cd78765c-c723-4829-a149-968c65d8d437#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-wiederwahl-verhinderte-laut-sonderermittler-schuldspruch](https://www.spiegel.de/ausland/donald-trump-wiederwahl-verhinderte-laut-sonderermittler-schuldspruch-a-2a766252-8578-486e-93c3-b6cd4df3481d#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/medienbericht-china-prueft-offenbar-verkauf-von-tiktok-an-elon-musk](https://www.spiegel.de/netzwelt/apps/medienbericht-china-prueft-offenbar-verkauf-von-tiktok-an-elon-musk-a-ef21dc7d-e217-4d97-aeb5-3be79b71a0c9#ref=rss)
+### laut
 
-* [https://www.spiegel.de/sport/fussball/hasskommentare-im-sport-was-ein-experte-zum-fall-sophia-havertz-sagt](https://www.spiegel.de/sport/fussball/hasskommentare-im-sport-was-ein-experte-zum-fall-sophia-havertz-sagt-a-10338a71-ad5d-4266-8f29-29822402ae45#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/anschlag-von-madgeburg-betroffenenzahl-steigt-auf-ueber-600](https://www.spiegel.de/panorama/justiz/anschlag-von-madgeburg-betroffenenzahl-steigt-auf-ueber-600-a-18f584b6-8613-40d3-a193-930c2ab527ba#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/telefonbetrug-mit-schockanrufen-wenn-die-scammer-zwei-mal-durchklingeln](https://www.spiegel.de/netzwelt/web/telefonbetrug-mit-schockanrufen-wenn-die-scammer-zwei-mal-durchklingeln-a-5e2c9b49-8ef1-4838-8a97-a27db70280ef#ref=rss)
-### mecklenburgvorpommern
+* [https://www.spiegel.de/ausland/jack-smith-lesen-sie-den-bericht-des-sonderermittlers-ueber-donald-trump-hier-im-original](https://www.spiegel.de/ausland/jack-smith-lesen-sie-den-bericht-des-sonderermittlers-ueber-donald-trump-hier-im-original-a-cd78765c-c723-4829-a149-968c65d8d437#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-wiederwahl-verhinderte-laut-sonderermittler-schuldspruch](https://www.spiegel.de/ausland/donald-trump-wiederwahl-verhinderte-laut-sonderermittler-schuldspruch-a-2a766252-8578-486e-93c3-b6cd4df3481d#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/medienbericht-china-prueft-offenbar-verkauf-von-tiktok-an-elon-musk](https://www.spiegel.de/netzwelt/apps/medienbericht-china-prueft-offenbar-verkauf-von-tiktok-an-elon-musk-a-ef21dc7d-e217-4d97-aeb5-3be79b71a0c9#ref=rss)
+### sonderermittler
 
-* [https://www.spiegel.de/panorama/justiz/rastow-in-mecklenburg-vorpommern-neun-verletzte-bei-boellerexplosion-auf-darttunier](https://www.spiegel.de/panorama/justiz/rastow-in-mecklenburg-vorpommern-neun-verletzte-bei-boellerexplosion-auf-darttunier-a-ab10a271-d6eb-4af8-b32b-624c8e410458#ref=rss)
-* [https://www.spiegel.de/panorama/nord-stream-2-und-klimastiftung-mecklenburg-vorpommern-olaf-scholz-soll-als-zeuge-aussagen](https://www.spiegel.de/panorama/nord-stream-2-und-klimastiftung-mecklenburg-vorpommern-olaf-scholz-soll-als-zeuge-aussagen-a-dbd3183b-0fa3-4bd7-8d36-9b7a9ae698b4#ref=rss)
-### neun
+* [https://www.spiegel.de/ausland/jack-smith-lesen-sie-den-bericht-des-sonderermittlers-ueber-donald-trump-hier-im-original](https://www.spiegel.de/ausland/jack-smith-lesen-sie-den-bericht-des-sonderermittlers-ueber-donald-trump-hier-im-original-a-cd78765c-c723-4829-a149-968c65d8d437#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-das-steht-im-abschlussbericht-von-trump-sonderermittler-jack-smith](https://www.spiegel.de/ausland/donald-trump-das-steht-im-abschlussbericht-von-trump-sonderermittler-jack-smith-a-b6f837a1-4f18-46a5-9564-27c5871d2b6c#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-wiederwahl-verhinderte-laut-sonderermittler-schuldspruch](https://www.spiegel.de/ausland/donald-trump-wiederwahl-verhinderte-laut-sonderermittler-schuldspruch-a-2a766252-8578-486e-93c3-b6cd4df3481d#ref=rss)
+### boris
 
-* [https://www.spiegel.de/panorama/justiz/rastow-in-mecklenburg-vorpommern-neun-verletzte-bei-boellerexplosion-auf-darttunier](https://www.spiegel.de/panorama/justiz/rastow-in-mecklenburg-vorpommern-neun-verletzte-bei-boellerexplosion-auf-darttunier-a-ab10a271-d6eb-4af8-b32b-624c8e410458#ref=rss)
-* [https://www.spiegel.de/sport/fussball/polizei-einsaetze-bei-fussballspielen-urteil-des-bundesverfassungsgerichts-und-die-folgen](https://www.spiegel.de/sport/fussball/polizei-einsaetze-bei-fussballspielen-urteil-des-bundesverfassungsgerichts-und-die-folgen-a-70a13b77-d8f6-4984-acb2-073b7cecfaa2#ref=rss)
-### menschen
+* [https://www.spiegel.de/sport/tennis/nick-kyrgios-boris-becker-attackiert-australischen-tennisprofi](https://www.spiegel.de/sport/tennis/nick-kyrgios-boris-becker-attackiert-australischen-tennisprofi-a-e0e53445-4fb8-431e-b953-ddfadc78199d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-boris-pistorius-verspricht-kyjiv-mehr-ruestungshilfen](https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-boris-pistorius-verspricht-kyjiv-mehr-ruestungshilfen-a-178e07e0-1038-42e5-b0ef-14fd030df5e1#ref=rss)
+### nancy
 
-* [https://www.spiegel.de/panorama/justiz/rastow-in-mecklenburg-vorpommern-neun-verletzte-bei-boellerexplosion-auf-darttunier](https://www.spiegel.de/panorama/justiz/rastow-in-mecklenburg-vorpommern-neun-verletzte-bei-boellerexplosion-auf-darttunier-a-ab10a271-d6eb-4af8-b32b-624c8e410458#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/kumbh-mela-in-indien-bis-zu-400-millionen-pilger-an-den-ufern-des-ganges-erwartet](https://www.spiegel.de/panorama/gesellschaft/kumbh-mela-in-indien-bis-zu-400-millionen-pilger-an-den-ufern-des-ganges-erwartet-a-61ae3bf4-b8ae-4d1f-9bbd-41ee912794ef#ref=rss)
-* [https://www.spiegel.de/ausland/waldbraende-in-kalifornien-spiegel-reporter-berichten-von-der-verheerenden-lage-in-los-angeles](https://www.spiegel.de/ausland/waldbraende-in-kalifornien-spiegel-reporter-berichten-von-der-verheerenden-lage-in-los-angeles-a-9a72f441-cc24-4108-bd02-98a4cdba42a8#ref=rss)
-### obwohl
+* [https://www.spiegel.de/politik/deutschland/nancy-faeser-wirft-russland-anfachen-von-migration-nach-europa-vor](https://www.spiegel.de/politik/deutschland/nancy-faeser-wirft-russland-anfachen-von-migration-nach-europa-vor-a-218c96ea-e65f-46f1-a684-16e0070f4fb4#ref=rss)
+### faeser
 
-* [https://www.spiegel.de/panorama/justiz/rastow-in-mecklenburg-vorpommern-neun-verletzte-bei-boellerexplosion-auf-darttunier](https://www.spiegel.de/panorama/justiz/rastow-in-mecklenburg-vorpommern-neun-verletzte-bei-boellerexplosion-auf-darttunier-a-ab10a271-d6eb-4af8-b32b-624c8e410458#ref=rss)
-* [https://www.spiegel.de/panorama/ostsee-havarierter-russischer-oeltanker-eventin-wird-nach-daenemark-geschleppt](https://www.spiegel.de/panorama/ostsee-havarierter-russischer-oeltanker-eventin-wird-nach-daenemark-geschleppt-a-745140fa-912d-48d8-95ea-a20f3fdd895d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/flusskrebse-forscher-finden-neue-art-in-der-lieferung-eines-tierhaendlers](https://www.spiegel.de/wissenschaft/natur/flusskrebse-forscher-finden-neue-art-in-der-lieferung-eines-tierhaendlers-a-dcbcccfa-bb41-4e4d-a7ce-a9ed26af3803#ref=rss)
-### jahr
+* [https://www.spiegel.de/politik/deutschland/nancy-faeser-wirft-russland-anfachen-von-migration-nach-europa-vor](https://www.spiegel.de/politik/deutschland/nancy-faeser-wirft-russland-anfachen-von-migration-nach-europa-vor-a-218c96ea-e65f-46f1-a684-16e0070f4fb4#ref=rss)
+### russland
 
-* [https://www.spiegel.de/politik/deutschland/news-klimaprognose-papst-franziskus-vs-donald-trump-unwort-des-jahres](https://www.spiegel.de/politik/deutschland/news-klimaprognose-papst-franziskus-vs-donald-trump-unwort-des-jahres-a-9f490238-66d0-4175-809a-ee85b316dddc#ref=rss)
-* [https://www.spiegel.de/psychologie/einsam-ins-neue-jahr-was-gegen-das-alleinsein-hilft](https://www.spiegel.de/psychologie/einsam-ins-neue-jahr-was-gegen-das-alleinsein-hilft-a-b18b85a2-ffd4-44fa-ac4f-329578e3a0e7#ref=rss)
-### anschlag
+* [https://www.spiegel.de/politik/deutschland/nancy-faeser-wirft-russland-anfachen-von-migration-nach-europa-vor](https://www.spiegel.de/politik/deutschland/nancy-faeser-wirft-russland-anfachen-von-migration-nach-europa-vor-a-218c96ea-e65f-46f1-a684-16e0070f4fb4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-boris-pistorius-verspricht-kyjiv-mehr-ruestungshilfen](https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-boris-pistorius-verspricht-kyjiv-mehr-ruestungshilfen-a-178e07e0-1038-42e5-b0ef-14fd030df5e1#ref=rss)
+### spionage
 
-* [https://www.spiegel.de/panorama/justiz/anschlag-von-madgeburg-betroffenenzahl-steigt-auf-ueber-600](https://www.spiegel.de/panorama/justiz/anschlag-von-madgeburg-betroffenenzahl-steigt-auf-ueber-600-a-18f584b6-8613-40d3-a193-930c2ab527ba#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-anschlagsplaene-auf-israelische-botschaft-nicht-erhaertet-terrorverdaechtiger-wieder-frei](https://www.spiegel.de/panorama/berlin-anschlagsplaene-auf-israelische-botschaft-nicht-erhaertet-terrorverdaechtiger-wieder-frei-a-0b18df5b-a83d-41a8-94e8-fe519adb774c#ref=rss)
-### 300
+* [https://www.spiegel.de/politik/deutschland/nancy-faeser-wirft-russland-anfachen-von-migration-nach-europa-vor](https://www.spiegel.de/politik/deutschland/nancy-faeser-wirft-russland-anfachen-von-migration-nach-europa-vor-a-218c96ea-e65f-46f1-a684-16e0070f4fb4#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/marl-mehrere-drohnen-ueber-dem-chemiepark-gesichtet](https://www.spiegel.de/panorama/justiz/marl-mehrere-drohnen-ueber-dem-chemiepark-gesichtet-a-e3d9cb4e-2c4a-498b-963d-34fe7dae8f30#ref=rss)
+### warnt
 
-* [https://www.spiegel.de/panorama/justiz/anschlag-von-madgeburg-betroffenenzahl-steigt-auf-ueber-600](https://www.spiegel.de/panorama/justiz/anschlag-von-madgeburg-betroffenenzahl-steigt-auf-ueber-600-a-18f584b6-8613-40d3-a193-930c2ab527ba#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/amtsgericht-muenchen-frau-muss-300-euro-wegen-klopfen-an-wohnungsdecke-zahlen](https://www.spiegel.de/panorama/justiz/amtsgericht-muenchen-frau-muss-300-euro-wegen-klopfen-an-wohnungsdecke-zahlen-a-13955ed9-75cd-4236-aef8-0c5e76a6a742#ref=rss)
-### ich
+* [https://www.spiegel.de/politik/deutschland/nancy-faeser-wirft-russland-anfachen-von-migration-nach-europa-vor](https://www.spiegel.de/politik/deutschland/nancy-faeser-wirft-russland-anfachen-von-migration-nach-europa-vor-a-218c96ea-e65f-46f1-a684-16e0070f4fb4#ref=rss)
+* [https://www.spiegel.de/panorama/deutscher-wetterdienst-warnt-vor-glatten-strassen-in-deutschland](https://www.spiegel.de/panorama/deutscher-wetterdienst-warnt-vor-glatten-strassen-in-deutschland-a-3162e3c3-cba7-4f3d-9840-99f0632be18f#ref=rss)
+### christopher
 
-* [https://www.spiegel.de/politik/deutschland/briefwahl-2025-das-muessen-sie-vor-der-bundestagswahl-wissen](https://www.spiegel.de/politik/deutschland/briefwahl-2025-das-muessen-sie-vor-der-bundestagswahl-wissen-a-384cde4f-f6e9-4be8-9579-34a848c339ed#ref=rss)
-### frau
+* [https://www.spiegel.de/sport/fussball/bundesliga-christopher-nkunku-mathys-tel-und-der-fc-bayern-muenchen-der-transferticker](https://www.spiegel.de/sport/fussball/bundesliga-christopher-nkunku-mathys-tel-und-der-fc-bayern-muenchen-der-transferticker-a-7fa46588-1c0b-4146-b25e-4f7040667b1a#ref=rss)
+### nkunku
 
-* [https://www.spiegel.de/netzwelt/web/telefonbetrug-mit-schockanrufen-wenn-die-scammer-zwei-mal-durchklingeln](https://www.spiegel.de/netzwelt/web/telefonbetrug-mit-schockanrufen-wenn-die-scammer-zwei-mal-durchklingeln-a-5e2c9b49-8ef1-4838-8a97-a27db70280ef#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/amtsgericht-muenchen-frau-muss-300-euro-wegen-klopfen-an-wohnungsdecke-zahlen](https://www.spiegel.de/panorama/justiz/amtsgericht-muenchen-frau-muss-300-euro-wegen-klopfen-an-wohnungsdecke-zahlen-a-13955ed9-75cd-4236-aef8-0c5e76a6a742#ref=rss)
-### euro
+* [https://www.spiegel.de/sport/fussball/bundesliga-christopher-nkunku-mathys-tel-und-der-fc-bayern-muenchen-der-transferticker](https://www.spiegel.de/sport/fussball/bundesliga-christopher-nkunku-mathys-tel-und-der-fc-bayern-muenchen-der-transferticker-a-7fa46588-1c0b-4146-b25e-4f7040667b1a#ref=rss)
+### mathys
 
-* [https://www.spiegel.de/netzwelt/web/telefonbetrug-mit-schockanrufen-wenn-die-scammer-zwei-mal-durchklingeln](https://www.spiegel.de/netzwelt/web/telefonbetrug-mit-schockanrufen-wenn-die-scammer-zwei-mal-durchklingeln-a-5e2c9b49-8ef1-4838-8a97-a27db70280ef#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/amtsgericht-muenchen-frau-muss-300-euro-wegen-klopfen-an-wohnungsdecke-zahlen](https://www.spiegel.de/panorama/justiz/amtsgericht-muenchen-frau-muss-300-euro-wegen-klopfen-an-wohnungsdecke-zahlen-a-13955ed9-75cd-4236-aef8-0c5e76a6a742#ref=rss)
-* [https://www.spiegel.de/sport/fussball/polizei-einsaetze-bei-fussballspielen-urteil-des-bundesverfassungsgerichts-und-die-folgen](https://www.spiegel.de/sport/fussball/polizei-einsaetze-bei-fussballspielen-urteil-des-bundesverfassungsgerichts-und-die-folgen-a-70a13b77-d8f6-4984-acb2-073b7cecfaa2#ref=rss)
-### olaf
+* [https://www.spiegel.de/sport/fussball/bundesliga-christopher-nkunku-mathys-tel-und-der-fc-bayern-muenchen-der-transferticker](https://www.spiegel.de/sport/fussball/bundesliga-christopher-nkunku-mathys-tel-und-der-fc-bayern-muenchen-der-transferticker-a-7fa46588-1c0b-4146-b25e-4f7040667b1a#ref=rss)
+### tel
 
-* [https://www.spiegel.de/politik/deutschland/polen-unterstuetzt-donald-trumps-nato-forderung-scholz-distanziert-sich](https://www.spiegel.de/politik/deutschland/polen-unterstuetzt-donald-trumps-nato-forderung-scholz-distanziert-sich-a-aca01e2d-9737-4bef-835e-b468eba46da7#ref=rss)
-* [https://www.spiegel.de/panorama/nord-stream-2-und-klimastiftung-mecklenburg-vorpommern-olaf-scholz-soll-als-zeuge-aussagen](https://www.spiegel.de/panorama/nord-stream-2-und-klimastiftung-mecklenburg-vorpommern-olaf-scholz-soll-als-zeuge-aussagen-a-dbd3183b-0fa3-4bd7-8d36-9b7a9ae698b4#ref=rss)
-### scholz
+* [https://www.spiegel.de/sport/fussball/bundesliga-christopher-nkunku-mathys-tel-und-der-fc-bayern-muenchen-der-transferticker](https://www.spiegel.de/sport/fussball/bundesliga-christopher-nkunku-mathys-tel-und-der-fc-bayern-muenchen-der-transferticker-a-7fa46588-1c0b-4146-b25e-4f7040667b1a#ref=rss)
+### fc
 
-* [https://www.spiegel.de/politik/deutschland/polen-unterstuetzt-donald-trumps-nato-forderung-scholz-distanziert-sich](https://www.spiegel.de/politik/deutschland/polen-unterstuetzt-donald-trumps-nato-forderung-scholz-distanziert-sich-a-aca01e2d-9737-4bef-835e-b468eba46da7#ref=rss)
-* [https://www.spiegel.de/panorama/nord-stream-2-und-klimastiftung-mecklenburg-vorpommern-olaf-scholz-soll-als-zeuge-aussagen](https://www.spiegel.de/panorama/nord-stream-2-und-klimastiftung-mecklenburg-vorpommern-olaf-scholz-soll-als-zeuge-aussagen-a-dbd3183b-0fa3-4bd7-8d36-9b7a9ae698b4#ref=rss)
-### neue
+* [https://www.spiegel.de/sport/fussball/bundesliga-christopher-nkunku-mathys-tel-und-der-fc-bayern-muenchen-der-transferticker](https://www.spiegel.de/sport/fussball/bundesliga-christopher-nkunku-mathys-tel-und-der-fc-bayern-muenchen-der-transferticker-a-7fa46588-1c0b-4146-b25e-4f7040667b1a#ref=rss)
+### bayern
 
-* [https://www.spiegel.de/wissenschaft/natur/flusskrebse-forscher-finden-neue-art-in-der-lieferung-eines-tierhaendlers](https://www.spiegel.de/wissenschaft/natur/flusskrebse-forscher-finden-neue-art-in-der-lieferung-eines-tierhaendlers-a-dcbcccfa-bb41-4e4d-a7ce-a9ed26af3803#ref=rss)
-* [https://www.spiegel.de/psychologie/einsam-ins-neue-jahr-was-gegen-das-alleinsein-hilft](https://www.spiegel.de/psychologie/einsam-ins-neue-jahr-was-gegen-das-alleinsein-hilft-a-b18b85a2-ffd4-44fa-ac4f-329578e3a0e7#ref=rss)
-### mark
+* [https://www.spiegel.de/sport/fussball/bundesliga-christopher-nkunku-mathys-tel-und-der-fc-bayern-muenchen-der-transferticker](https://www.spiegel.de/sport/fussball/bundesliga-christopher-nkunku-mathys-tel-und-der-fc-bayern-muenchen-der-transferticker-a-7fa46588-1c0b-4146-b25e-4f7040667b1a#ref=rss)
+### münchen
 
-* [https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-meta-umbaut-podcast](https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-meta-umbaut-podcast-a-614bebc7-0983-4b6a-b5fe-ac07a8edac3c#ref=rss)
-* [https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-seine-plattformen-umbaut](https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-seine-plattformen-umbaut-a-f7be38a2-d819-41f9-8aff-0a394339be19#ref=rss)
-### umbaut
+* [https://www.spiegel.de/sport/fussball/bundesliga-christopher-nkunku-mathys-tel-und-der-fc-bayern-muenchen-der-transferticker](https://www.spiegel.de/sport/fussball/bundesliga-christopher-nkunku-mathys-tel-und-der-fc-bayern-muenchen-der-transferticker-a-7fa46588-1c0b-4146-b25e-4f7040667b1a#ref=rss)
+### wichtigsten
 
-* [https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-meta-umbaut-podcast](https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-meta-umbaut-podcast-a-614bebc7-0983-4b6a-b5fe-ac07a8edac3c#ref=rss)
-* [https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-seine-plattformen-umbaut](https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-seine-plattformen-umbaut-a-f7be38a2-d819-41f9-8aff-0a394339be19#ref=rss)
-### faktenchecks
+* [https://www.spiegel.de/sport/fussball/bundesliga-christopher-nkunku-mathys-tel-und-der-fc-bayern-muenchen-der-transferticker](https://www.spiegel.de/sport/fussball/bundesliga-christopher-nkunku-mathys-tel-und-der-fc-bayern-muenchen-der-transferticker-a-7fa46588-1c0b-4146-b25e-4f7040667b1a#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-das-steht-im-abschlussbericht-von-trump-sonderermittler-jack-smith](https://www.spiegel.de/ausland/donald-trump-das-steht-im-abschlussbericht-von-trump-sonderermittler-jack-smith-a-b6f837a1-4f18-46a5-9564-27c5871d2b6c#ref=rss)
+### geschäft
 
-* [https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-meta-umbaut-podcast](https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-meta-umbaut-podcast-a-614bebc7-0983-4b6a-b5fe-ac07a8edac3c#ref=rss)
-* [https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-seine-plattformen-umbaut](https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-seine-plattformen-umbaut-a-f7be38a2-d819-41f9-8aff-0a394339be19#ref=rss)
-### abschaffen
+* [https://www.spiegel.de/sport/fussball/bundesliga-christopher-nkunku-mathys-tel-und-der-fc-bayern-muenchen-der-transferticker](https://www.spiegel.de/sport/fussball/bundesliga-christopher-nkunku-mathys-tel-und-der-fc-bayern-muenchen-der-transferticker-a-7fa46588-1c0b-4146-b25e-4f7040667b1a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/starbucks-besucher-muessen-kuenftig-zahlende-kunden-sein](https://www.spiegel.de/wirtschaft/unternehmen/starbucks-besucher-muessen-kuenftig-zahlende-kunden-sein-a-1c035a0e-5624-463f-821a-76ce7fd5bdb4#ref=rss)
+### kugelbombe
 
-* [https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-meta-umbaut-podcast](https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-meta-umbaut-podcast-a-614bebc7-0983-4b6a-b5fe-ac07a8edac3c#ref=rss)
-* [https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-seine-plattformen-umbaut](https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-seine-plattformen-umbaut-a-f7be38a2-d819-41f9-8aff-0a394339be19#ref=rss)
-### regeln
+* [https://www.spiegel.de/panorama/justiz/berlin-durch-kugelbombe-verletztes-kind-jugendlicher-als-tatverdaechtiger-identifiziert](https://www.spiegel.de/panorama/justiz/berlin-durch-kugelbombe-verletztes-kind-jugendlicher-als-tatverdaechtiger-identifiziert-a-c37e3c8a-9c95-4267-a313-206271276361#ref=rss)
+### kind
 
-* [https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-meta-umbaut-podcast](https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-meta-umbaut-podcast-a-614bebc7-0983-4b6a-b5fe-ac07a8edac3c#ref=rss)
-* [https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-seine-plattformen-umbaut](https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-seine-plattformen-umbaut-a-f7be38a2-d819-41f9-8aff-0a394339be19#ref=rss)
-### posts
-
-* [https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-meta-umbaut-podcast](https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-meta-umbaut-podcast-a-614bebc7-0983-4b6a-b5fe-ac07a8edac3c#ref=rss)
-* [https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-seine-plattformen-umbaut](https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-seine-plattformen-umbaut-a-f7be38a2-d819-41f9-8aff-0a394339be19#ref=rss)
-### lockern
-
-* [https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-meta-umbaut-podcast](https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-meta-umbaut-podcast-a-614bebc7-0983-4b6a-b5fe-ac07a8edac3c#ref=rss)
-* [https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-seine-plattformen-umbaut](https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-seine-plattformen-umbaut-a-f7be38a2-d819-41f9-8aff-0a394339be19#ref=rss)
-### metachef
-
-* [https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-meta-umbaut-podcast](https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-meta-umbaut-podcast-a-614bebc7-0983-4b6a-b5fe-ac07a8edac3c#ref=rss)
-* [https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-seine-plattformen-umbaut](https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-seine-plattformen-umbaut-a-f7be38a2-d819-41f9-8aff-0a394339be19#ref=rss)
-### schraubt
-
-* [https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-meta-umbaut-podcast](https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-meta-umbaut-podcast-a-614bebc7-0983-4b6a-b5fe-ac07a8edac3c#ref=rss)
-* [https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-seine-plattformen-umbaut](https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-seine-plattformen-umbaut-a-f7be38a2-d819-41f9-8aff-0a394339be19#ref=rss)
-### kniefall
-
-* [https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-meta-umbaut-podcast](https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-meta-umbaut-podcast-a-614bebc7-0983-4b6a-b5fe-ac07a8edac3c#ref=rss)
-* [https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-seine-plattformen-umbaut](https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-seine-plattformen-umbaut-a-f7be38a2-d819-41f9-8aff-0a394339be19#ref=rss)
-### spiegelredakteur
-
-* [https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-meta-umbaut-podcast](https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-meta-umbaut-podcast-a-614bebc7-0983-4b6a-b5fe-ac07a8edac3c#ref=rss)
-* [https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-seine-plattformen-umbaut](https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-seine-plattformen-umbaut-a-f7be38a2-d819-41f9-8aff-0a394339be19#ref=rss)
-### jannis
-
-* [https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-meta-umbaut-podcast](https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-meta-umbaut-podcast-a-614bebc7-0983-4b6a-b5fe-ac07a8edac3c#ref=rss)
-* [https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-seine-plattformen-umbaut](https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-seine-plattformen-umbaut-a-f7be38a2-d819-41f9-8aff-0a394339be19#ref=rss)
-### schakarian
-
-* [https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-meta-umbaut-podcast](https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-meta-umbaut-podcast-a-614bebc7-0983-4b6a-b5fe-ac07a8edac3c#ref=rss)
-* [https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-seine-plattformen-umbaut](https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-seine-plattformen-umbaut-a-f7be38a2-d819-41f9-8aff-0a394339be19#ref=rss)
-### ordnet
-
-* [https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-meta-umbaut-podcast](https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-meta-umbaut-podcast-a-614bebc7-0983-4b6a-b5fe-ac07a8edac3c#ref=rss)
-* [https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-seine-plattformen-umbaut](https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-seine-plattformen-umbaut-a-f7be38a2-d819-41f9-8aff-0a394339be19#ref=rss)
-### statement
-
-* [https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-meta-umbaut-podcast](https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-meta-umbaut-podcast-a-614bebc7-0983-4b6a-b5fe-ac07a8edac3c#ref=rss)
-* [https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-seine-plattformen-umbaut](https://www.spiegel.de/netzwelt/instagram-facebook-und-threads-wie-mark-zuckerberg-seine-plattformen-umbaut-a-f7be38a2-d819-41f9-8aff-0a394339be19#ref=rss)
-### sport
-
-* [https://www.spiegel.de/sport/fussball/hasskommentare-im-sport-was-ein-experte-zum-fall-sophia-havertz-sagt](https://www.spiegel.de/sport/fussball/hasskommentare-im-sport-was-ein-experte-zum-fall-sophia-havertz-sagt-a-10338a71-ad5d-4266-8f29-29822402ae45#ref=rss)
-### experte
-
-* [https://www.spiegel.de/sport/fussball/hasskommentare-im-sport-was-ein-experte-zum-fall-sophia-havertz-sagt](https://www.spiegel.de/sport/fussball/hasskommentare-im-sport-was-ein-experte-zum-fall-sophia-havertz-sagt-a-10338a71-ad5d-4266-8f29-29822402ae45#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/sport/fussball/hasskommentare-im-sport-was-ein-experte-zum-fall-sophia-havertz-sagt](https://www.spiegel.de/sport/fussball/hasskommentare-im-sport-was-ein-experte-zum-fall-sophia-havertz-sagt-a-10338a71-ad5d-4266-8f29-29822402ae45#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/sport/fussball/hasskommentare-im-sport-was-ein-experte-zum-fall-sophia-havertz-sagt](https://www.spiegel.de/sport/fussball/hasskommentare-im-sport-was-ein-experte-zum-fall-sophia-havertz-sagt-a-10338a71-ad5d-4266-8f29-29822402ae45#ref=rss)
-* [https://www.spiegel.de/panorama/zoo-berlin-nikolas-algenstaedt-ist-der-bademeister-fuer-das-junge-zwergflusspferd-toni](https://www.spiegel.de/panorama/zoo-berlin-nikolas-algenstaedt-ist-der-bademeister-fuer-das-junge-zwergflusspferd-toni-a-983feea7-1395-4be2-96dc-8a7810d9096d#ref=rss)
-### schützen
-
-* [https://www.spiegel.de/sport/fussball/hasskommentare-im-sport-was-ein-experte-zum-fall-sophia-havertz-sagt](https://www.spiegel.de/sport/fussball/hasskommentare-im-sport-was-ein-experte-zum-fall-sophia-havertz-sagt-a-10338a71-ad5d-4266-8f29-29822402ae45#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/vorschlag-von-robert-habeck-gruene-wollen-sozialbeitraege-auch-fuer-kapitaleinkuenfte](https://www.spiegel.de/wirtschaft/soziales/vorschlag-von-robert-habeck-gruene-wollen-sozialbeitraege-auch-fuer-kapitaleinkuenfte-a-fbb205cc-6777-401d-9337-bf52aab085e9#ref=rss)
-### darttunier
-
-* [https://www.spiegel.de/panorama/justiz/rastow-in-mecklenburg-vorpommern-neun-verletzte-bei-boellerexplosion-auf-darttunier](https://www.spiegel.de/panorama/justiz/rastow-in-mecklenburg-vorpommern-neun-verletzte-bei-boellerexplosion-auf-darttunier-a-ab10a271-d6eb-4af8-b32b-624c8e410458#ref=rss)
-### verletzt
-
-* [https://www.spiegel.de/panorama/justiz/rastow-in-mecklenburg-vorpommern-neun-verletzte-bei-boellerexplosion-auf-darttunier](https://www.spiegel.de/panorama/justiz/rastow-in-mecklenburg-vorpommern-neun-verletzte-bei-boellerexplosion-auf-darttunier-a-ab10a271-d6eb-4af8-b32b-624c8e410458#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/casekow-in-brandenburg-zwei-personen-bei-attacke-mit-stichwaffe-getoetet](https://www.spiegel.de/panorama/justiz/casekow-in-brandenburg-zwei-personen-bei-attacke-mit-stichwaffe-getoetet-a-d4c794c2-ab1b-432e-b7a0-c18e7641af94#ref=rss)
-### davon
-
-* [https://www.spiegel.de/panorama/justiz/rastow-in-mecklenburg-vorpommern-neun-verletzte-bei-boellerexplosion-auf-darttunier](https://www.spiegel.de/panorama/justiz/rastow-in-mecklenburg-vorpommern-neun-verletzte-bei-boellerexplosion-auf-darttunier-a-ab10a271-d6eb-4af8-b32b-624c8e410458#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/anschlag-von-madgeburg-betroffenenzahl-steigt-auf-ueber-600](https://www.spiegel.de/panorama/justiz/anschlag-von-madgeburg-betroffenenzahl-steigt-auf-ueber-600-a-18f584b6-8613-40d3-a193-930c2ab527ba#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-durch-kugelbombe-verletztes-kind-jugendlicher-als-tatverdaechtiger-identifiziert](https://www.spiegel.de/panorama/justiz/berlin-durch-kugelbombe-verletztes-kind-jugendlicher-als-tatverdaechtiger-identifiziert-a-c37e3c8a-9c95-4267-a313-206271276361#ref=rss)
 ### schwer
 
-* [https://www.spiegel.de/panorama/justiz/rastow-in-mecklenburg-vorpommern-neun-verletzte-bei-boellerexplosion-auf-darttunier](https://www.spiegel.de/panorama/justiz/rastow-in-mecklenburg-vorpommern-neun-verletzte-bei-boellerexplosion-auf-darttunier-a-ab10a271-d6eb-4af8-b32b-624c8e410458#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/casekow-in-brandenburg-zwei-personen-bei-attacke-mit-stichwaffe-getoetet](https://www.spiegel.de/panorama/justiz/casekow-in-brandenburg-zwei-personen-bei-attacke-mit-stichwaffe-getoetet-a-d4c794c2-ab1b-432e-b7a0-c18e7641af94#ref=rss)
-### kumbh
+* [https://www.spiegel.de/panorama/justiz/berlin-durch-kugelbombe-verletztes-kind-jugendlicher-als-tatverdaechtiger-identifiziert](https://www.spiegel.de/panorama/justiz/berlin-durch-kugelbombe-verletztes-kind-jugendlicher-als-tatverdaechtiger-identifiziert-a-c37e3c8a-9c95-4267-a313-206271276361#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-das-steht-im-abschlussbericht-von-trump-sonderermittler-jack-smith](https://www.spiegel.de/ausland/donald-trump-das-steht-im-abschlussbericht-von-trump-sonderermittler-jack-smith-a-b6f837a1-4f18-46a5-9564-27c5871d2b6c#ref=rss)
+### mutmaßlichen
 
-* [https://www.spiegel.de/panorama/gesellschaft/kumbh-mela-in-indien-bis-zu-400-millionen-pilger-an-den-ufern-des-ganges-erwartet](https://www.spiegel.de/panorama/gesellschaft/kumbh-mela-in-indien-bis-zu-400-millionen-pilger-an-den-ufern-des-ganges-erwartet-a-61ae3bf4-b8ae-4d1f-9bbd-41ee912794ef#ref=rss)
-### mela
+* [https://www.spiegel.de/panorama/justiz/berlin-durch-kugelbombe-verletztes-kind-jugendlicher-als-tatverdaechtiger-identifiziert](https://www.spiegel.de/panorama/justiz/berlin-durch-kugelbombe-verletztes-kind-jugendlicher-als-tatverdaechtiger-identifiziert-a-c37e3c8a-9c95-4267-a313-206271276361#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-ermittlungen-wegen-mutmasslicher-korruption-bei-sanierung-der-staatskanzlei](https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-ermittlungen-wegen-mutmasslicher-korruption-bei-sanierung-der-staatskanzlei-a-3d88fada-48a8-481f-8b1d-3348e2171aa9#ref=rss)
+### waldbrände
 
-* [https://www.spiegel.de/panorama/gesellschaft/kumbh-mela-in-indien-bis-zu-400-millionen-pilger-an-den-ufern-des-ganges-erwartet](https://www.spiegel.de/panorama/gesellschaft/kumbh-mela-in-indien-bis-zu-400-millionen-pilger-an-den-ufern-des-ganges-erwartet-a-61ae3bf4-b8ae-4d1f-9bbd-41ee912794ef#ref=rss)
-### millionen
+* [https://www.spiegel.de/ausland/waldbraende-in-los-angeles-wie-vermieter-an-den-feueropfern-verdienen-wollen](https://www.spiegel.de/ausland/waldbraende-in-los-angeles-wie-vermieter-an-den-feueropfern-verdienen-wollen-a-85fde2a5-566c-4e8d-98df-b523db8124f7#ref=rss)
+* [https://www.spiegel.de/panorama/leute/waldbraende-in-los-angeles-prominente-finden-unterschlupf-bei-hilary-duff-paris-hilton-engagiert-sich-fuer-tiere](https://www.spiegel.de/panorama/leute/waldbraende-in-los-angeles-prominente-finden-unterschlupf-bei-hilary-duff-paris-hilton-engagiert-sich-fuer-tiere-a-b78fafa7-3ece-4a23-8d7a-c69a34546f5f#ref=rss)
+### vermieter
 
-* [https://www.spiegel.de/panorama/gesellschaft/kumbh-mela-in-indien-bis-zu-400-millionen-pilger-an-den-ufern-des-ganges-erwartet](https://www.spiegel.de/panorama/gesellschaft/kumbh-mela-in-indien-bis-zu-400-millionen-pilger-an-den-ufern-des-ganges-erwartet-a-61ae3bf4-b8ae-4d1f-9bbd-41ee912794ef#ref=rss)
-### gilt
+* [https://www.spiegel.de/ausland/waldbraende-in-los-angeles-wie-vermieter-an-den-feueropfern-verdienen-wollen](https://www.spiegel.de/ausland/waldbraende-in-los-angeles-wie-vermieter-an-den-feueropfern-verdienen-wollen-a-85fde2a5-566c-4e8d-98df-b523db8124f7#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/panorama/gesellschaft/kumbh-mela-in-indien-bis-zu-400-millionen-pilger-an-den-ufern-des-ganges-erwartet](https://www.spiegel.de/panorama/gesellschaft/kumbh-mela-in-indien-bis-zu-400-millionen-pilger-an-den-ufern-des-ganges-erwartet-a-61ae3bf4-b8ae-4d1f-9bbd-41ee912794ef#ref=rss)
-* [https://www.spiegel.de/panorama/zoo-berlin-nikolas-algenstaedt-ist-der-bademeister-fuer-das-junge-zwergflusspferd-toni](https://www.spiegel.de/panorama/zoo-berlin-nikolas-algenstaedt-ist-der-bademeister-fuer-das-junge-zwergflusspferd-toni-a-983feea7-1395-4be2-96dc-8a7810d9096d#ref=rss)
-### landes
+* [https://www.spiegel.de/ausland/waldbraende-in-los-angeles-wie-vermieter-an-den-feueropfern-verdienen-wollen](https://www.spiegel.de/ausland/waldbraende-in-los-angeles-wie-vermieter-an-den-feueropfern-verdienen-wollen-a-85fde2a5-566c-4e8d-98df-b523db8124f7#ref=rss)
+* [https://www.spiegel.de/gesundheit/schlecht-schlafen-bei-vollmond-was-steckt-dahinter](https://www.spiegel.de/gesundheit/schlecht-schlafen-bei-vollmond-was-steckt-dahinter-a-5a3650d0-28d4-4187-890f-eccc60c8ef14#ref=rss)
+### neue
 
-* [https://www.spiegel.de/panorama/gesellschaft/kumbh-mela-in-indien-bis-zu-400-millionen-pilger-an-den-ufern-des-ganges-erwartet](https://www.spiegel.de/panorama/gesellschaft/kumbh-mela-in-indien-bis-zu-400-millionen-pilger-an-den-ufern-des-ganges-erwartet-a-61ae3bf4-b8ae-4d1f-9bbd-41ee912794ef#ref=rss)
-* [https://www.spiegel.de/kultur/fpoe-unter-herbert-kickl-albtraum-fuer-die-kulturszene](https://www.spiegel.de/kultur/fpoe-unter-herbert-kickl-albtraum-fuer-die-kulturszene-a-3d6c7f2c-033e-47f3-b43e-c26a36752c69#ref=rss)
-### unwort
+* [https://www.spiegel.de/ausland/waldbraende-in-los-angeles-wie-vermieter-an-den-feueropfern-verdienen-wollen](https://www.spiegel.de/ausland/waldbraende-in-los-angeles-wie-vermieter-an-den-feueropfern-verdienen-wollen-a-85fde2a5-566c-4e8d-98df-b523db8124f7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/starbucks-besucher-muessen-kuenftig-zahlende-kunden-sein](https://www.spiegel.de/wirtschaft/unternehmen/starbucks-besucher-muessen-kuenftig-zahlende-kunden-sein-a-1c035a0e-5624-463f-821a-76ce7fd5bdb4#ref=rss)
+### weihnachtsbaum
 
-* [https://www.spiegel.de/politik/deutschland/news-klimaprognose-papst-franziskus-vs-donald-trump-unwort-des-jahres](https://www.spiegel.de/politik/deutschland/news-klimaprognose-papst-franziskus-vs-donald-trump-unwort-des-jahres-a-9f490238-66d0-4175-809a-ee85b316dddc#ref=rss)
-### jahres
+* [https://www.spiegel.de/panorama/dietzhoelztal-weihnachtsbaum-loest-kaminbrand-aus](https://www.spiegel.de/panorama/dietzhoelztal-weihnachtsbaum-loest-kaminbrand-aus-a-122367e7-e0c0-4036-9b7e-d016c1850928#ref=rss)
+### rednote
 
-* [https://www.spiegel.de/politik/deutschland/news-klimaprognose-papst-franziskus-vs-donald-trump-unwort-des-jahres](https://www.spiegel.de/politik/deutschland/news-klimaprognose-papst-franziskus-vs-donald-trump-unwort-des-jahres-a-9f490238-66d0-4175-809a-ee85b316dddc#ref=rss)
-### bringen
+* [https://www.spiegel.de/netzwelt/apps/rednote-tiktok-nutzer-weichen-auf-alternative-chinesische-app-aus](https://www.spiegel.de/netzwelt/apps/rednote-tiktok-nutzer-weichen-auf-alternative-chinesische-app-aus-a-89198bbd-4390-4962-b93e-97bd84e29a8c#ref=rss)
+### chinesische
 
-* [https://www.spiegel.de/politik/deutschland/news-klimaprognose-papst-franziskus-vs-donald-trump-unwort-des-jahres](https://www.spiegel.de/politik/deutschland/news-klimaprognose-papst-franziskus-vs-donald-trump-unwort-des-jahres-a-9f490238-66d0-4175-809a-ee85b316dddc#ref=rss)
-* [https://www.spiegel.de/panorama/ostsee-havarierter-russischer-oeltanker-eventin-wird-nach-daenemark-geschleppt](https://www.spiegel.de/panorama/ostsee-havarierter-russischer-oeltanker-eventin-wird-nach-daenemark-geschleppt-a-745140fa-912d-48d8-95ea-a20f3fdd895d#ref=rss)
-### lage
+* [https://www.spiegel.de/netzwelt/apps/rednote-tiktok-nutzer-weichen-auf-alternative-chinesische-app-aus](https://www.spiegel.de/netzwelt/apps/rednote-tiktok-nutzer-weichen-auf-alternative-chinesische-app-aus-a-89198bbd-4390-4962-b93e-97bd84e29a8c#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/medienbericht-china-prueft-offenbar-verkauf-von-tiktok-an-elon-musk](https://www.spiegel.de/netzwelt/apps/medienbericht-china-prueft-offenbar-verkauf-von-tiktok-an-elon-musk-a-ef21dc7d-e217-4d97-aeb5-3be79b71a0c9#ref=rss)
+### china
 
-* [https://www.spiegel.de/politik/deutschland/news-klimaprognose-papst-franziskus-vs-donald-trump-unwort-des-jahres](https://www.spiegel.de/politik/deutschland/news-klimaprognose-papst-franziskus-vs-donald-trump-unwort-des-jahres-a-9f490238-66d0-4175-809a-ee85b316dddc#ref=rss)
-* [https://www.spiegel.de/ausland/waldbraende-in-kalifornien-spiegel-reporter-berichten-von-der-verheerenden-lage-in-los-angeles](https://www.spiegel.de/ausland/waldbraende-in-kalifornien-spiegel-reporter-berichten-von-der-verheerenden-lage-in-los-angeles-a-9a72f441-cc24-4108-bd02-98a4cdba42a8#ref=rss)
-### oliviero
+* [https://www.spiegel.de/netzwelt/apps/rednote-tiktok-nutzer-weichen-auf-alternative-chinesische-app-aus](https://www.spiegel.de/netzwelt/apps/rednote-tiktok-nutzer-weichen-auf-alternative-chinesische-app-aus-a-89198bbd-4390-4962-b93e-97bd84e29a8c#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/medienbericht-china-prueft-offenbar-verkauf-von-tiktok-an-elon-musk](https://www.spiegel.de/netzwelt/apps/medienbericht-china-prueft-offenbar-verkauf-von-tiktok-an-elon-musk-a-ef21dc7d-e217-4d97-aeb5-3be79b71a0c9#ref=rss)
+### drogeriekette
 
-* [https://www.spiegel.de/kultur/oliviero-toscani-meine-groessten-gegner-waren-die-benetton-manager](https://www.spiegel.de/kultur/oliviero-toscani-meine-groessten-gegner-waren-die-benetton-manager-a-c74a1426-2936-4c35-aec1-220e7b179324#ref=rss)
-### toscani
+* [https://www.spiegel.de/wirtschaft/unternehmen/drogeriekette-dm-unternehmen-will-rezeptfreie-medikamente-online-verkaufen](https://www.spiegel.de/wirtschaft/unternehmen/drogeriekette-dm-unternehmen-will-rezeptfreie-medikamente-online-verkaufen-a-6f7de53b-34fe-49b6-8454-50bf475c9ef5#ref=rss)
+### dm
 
-* [https://www.spiegel.de/kultur/oliviero-toscani-meine-groessten-gegner-waren-die-benetton-manager](https://www.spiegel.de/kultur/oliviero-toscani-meine-groessten-gegner-waren-die-benetton-manager-a-c74a1426-2936-4c35-aec1-220e7b179324#ref=rss)
-### aller
+* [https://www.spiegel.de/wirtschaft/unternehmen/drogeriekette-dm-unternehmen-will-rezeptfreie-medikamente-online-verkaufen](https://www.spiegel.de/wirtschaft/unternehmen/drogeriekette-dm-unternehmen-will-rezeptfreie-medikamente-online-verkaufen-a-6f7de53b-34fe-49b6-8454-50bf475c9ef5#ref=rss)
+### medikamente
 
-* [https://www.spiegel.de/kultur/oliviero-toscani-meine-groessten-gegner-waren-die-benetton-manager](https://www.spiegel.de/kultur/oliviero-toscani-meine-groessten-gegner-waren-die-benetton-manager-a-c74a1426-2936-4c35-aec1-220e7b179324#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-buergermeister-von-tuerkischer-oppositionspartei-in-istanbul-offenbar-festgenommen](https://www.spiegel.de/ausland/tuerkei-buergermeister-von-tuerkischer-oppositionspartei-in-istanbul-offenbar-festgenommen-a-8373d481-636e-4d3a-bd90-daab72bca88b#ref=rss)
-### jahren
+* [https://www.spiegel.de/wirtschaft/unternehmen/drogeriekette-dm-unternehmen-will-rezeptfreie-medikamente-online-verkaufen](https://www.spiegel.de/wirtschaft/unternehmen/drogeriekette-dm-unternehmen-will-rezeptfreie-medikamente-online-verkaufen-a-6f7de53b-34fe-49b6-8454-50bf475c9ef5#ref=rss)
+### verkaufen
 
-* [https://www.spiegel.de/kultur/oliviero-toscani-meine-groessten-gegner-waren-die-benetton-manager](https://www.spiegel.de/kultur/oliviero-toscani-meine-groessten-gegner-waren-die-benetton-manager-a-c74a1426-2936-4c35-aec1-220e7b179324#ref=rss)
-* [https://www.spiegel.de/sport/fussball/polizei-einsaetze-bei-fussballspielen-urteil-des-bundesverfassungsgerichts-und-die-folgen](https://www.spiegel.de/sport/fussball/polizei-einsaetze-bei-fussballspielen-urteil-des-bundesverfassungsgerichts-und-die-folgen-a-70a13b77-d8f6-4984-acb2-073b7cecfaa2#ref=rss)
-### unter
+* [https://www.spiegel.de/wirtschaft/unternehmen/drogeriekette-dm-unternehmen-will-rezeptfreie-medikamente-online-verkaufen](https://www.spiegel.de/wirtschaft/unternehmen/drogeriekette-dm-unternehmen-will-rezeptfreie-medikamente-online-verkaufen-a-6f7de53b-34fe-49b6-8454-50bf475c9ef5#ref=rss)
+### glaubt
 
-* [https://www.spiegel.de/kultur/fpoe-unter-herbert-kickl-albtraum-fuer-die-kulturszene](https://www.spiegel.de/kultur/fpoe-unter-herbert-kickl-albtraum-fuer-die-kulturszene-a-3d6c7f2c-033e-47f3-b43e-c26a36752c69#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/casekow-in-brandenburg-zwei-personen-bei-attacke-mit-stichwaffe-getoetet](https://www.spiegel.de/panorama/justiz/casekow-in-brandenburg-zwei-personen-bei-attacke-mit-stichwaffe-getoetet-a-d4c794c2-ab1b-432e-b7a0-c18e7641af94#ref=rss)
-### herbert
+* [https://www.spiegel.de/wirtschaft/unternehmen/drogeriekette-dm-unternehmen-will-rezeptfreie-medikamente-online-verkaufen](https://www.spiegel.de/wirtschaft/unternehmen/drogeriekette-dm-unternehmen-will-rezeptfreie-medikamente-online-verkaufen-a-6f7de53b-34fe-49b6-8454-50bf475c9ef5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/aktien-und-anlegen-2025-hedgefondsmanager-sieht-grosse-chancen-fuer-europaeische-boersen](https://www.spiegel.de/wirtschaft/aktien-und-anlegen-2025-hedgefondsmanager-sieht-grosse-chancen-fuer-europaeische-boersen-a-19ac72f3-4cf0-4dbc-b998-99f7fb2723a5#ref=rss)
+### regeln
 
-* [https://www.spiegel.de/kultur/fpoe-unter-herbert-kickl-albtraum-fuer-die-kulturszene](https://www.spiegel.de/kultur/fpoe-unter-herbert-kickl-albtraum-fuer-die-kulturszene-a-3d6c7f2c-033e-47f3-b43e-c26a36752c69#ref=rss)
-### kickl
+* [https://www.spiegel.de/wirtschaft/unternehmen/drogeriekette-dm-unternehmen-will-rezeptfreie-medikamente-online-verkaufen](https://www.spiegel.de/wirtschaft/unternehmen/drogeriekette-dm-unternehmen-will-rezeptfreie-medikamente-online-verkaufen-a-6f7de53b-34fe-49b6-8454-50bf475c9ef5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/starbucks-besucher-muessen-kuenftig-zahlende-kunden-sein](https://www.spiegel.de/wirtschaft/unternehmen/starbucks-besucher-muessen-kuenftig-zahlende-kunden-sein-a-1c035a0e-5624-463f-821a-76ce7fd5bdb4#ref=rss)
+### verkauf
 
-* [https://www.spiegel.de/kultur/fpoe-unter-herbert-kickl-albtraum-fuer-die-kulturszene](https://www.spiegel.de/kultur/fpoe-unter-herbert-kickl-albtraum-fuer-die-kulturszene-a-3d6c7f2c-033e-47f3-b43e-c26a36752c69#ref=rss)
-### albtraum
+* [https://www.spiegel.de/wirtschaft/unternehmen/drogeriekette-dm-unternehmen-will-rezeptfreie-medikamente-online-verkaufen](https://www.spiegel.de/wirtschaft/unternehmen/drogeriekette-dm-unternehmen-will-rezeptfreie-medikamente-online-verkaufen-a-6f7de53b-34fe-49b6-8454-50bf475c9ef5#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/medienbericht-china-prueft-offenbar-verkauf-von-tiktok-an-elon-musk](https://www.spiegel.de/netzwelt/apps/medienbericht-china-prueft-offenbar-verkauf-von-tiktok-an-elon-musk-a-ef21dc7d-e217-4d97-aeb5-3be79b71a0c9#ref=rss)
+### künftig
 
-* [https://www.spiegel.de/kultur/fpoe-unter-herbert-kickl-albtraum-fuer-die-kulturszene](https://www.spiegel.de/kultur/fpoe-unter-herbert-kickl-albtraum-fuer-die-kulturszene-a-3d6c7f2c-033e-47f3-b43e-c26a36752c69#ref=rss)
-### kulturszene
+* [https://www.spiegel.de/wirtschaft/unternehmen/drogeriekette-dm-unternehmen-will-rezeptfreie-medikamente-online-verkaufen](https://www.spiegel.de/wirtschaft/unternehmen/drogeriekette-dm-unternehmen-will-rezeptfreie-medikamente-online-verkaufen-a-6f7de53b-34fe-49b6-8454-50bf475c9ef5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/starbucks-besucher-muessen-kuenftig-zahlende-kunden-sein](https://www.spiegel.de/wirtschaft/unternehmen/starbucks-besucher-muessen-kuenftig-zahlende-kunden-sein-a-1c035a0e-5624-463f-821a-76ce7fd5bdb4#ref=rss)
+### kieran
 
-* [https://www.spiegel.de/kultur/fpoe-unter-herbert-kickl-albtraum-fuer-die-kulturszene](https://www.spiegel.de/kultur/fpoe-unter-herbert-kickl-albtraum-fuer-die-kulturszene-a-3d6c7f2c-033e-47f3-b43e-c26a36752c69#ref=rss)
-### regierung
+* [https://www.spiegel.de/kultur/kino/kieran-culkin-in-a-real-pain-kleiner-bruder-grosser-star](https://www.spiegel.de/kultur/kino/kieran-culkin-in-a-real-pain-kleiner-bruder-grosser-star-a-f252f459-1787-42b8-adfd-35e2c2499d81#ref=rss)
+### culkin
 
-* [https://www.spiegel.de/kultur/fpoe-unter-herbert-kickl-albtraum-fuer-die-kulturszene](https://www.spiegel.de/kultur/fpoe-unter-herbert-kickl-albtraum-fuer-die-kulturszene-a-3d6c7f2c-033e-47f3-b43e-c26a36752c69#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-buergermeister-von-tuerkischer-oppositionspartei-in-istanbul-offenbar-festgenommen](https://www.spiegel.de/ausland/tuerkei-buergermeister-von-tuerkischer-oppositionspartei-in-istanbul-offenbar-festgenommen-a-8373d481-636e-4d3a-bd90-daab72bca88b#ref=rss)
-### robert
+* [https://www.spiegel.de/kultur/kino/kieran-culkin-in-a-real-pain-kleiner-bruder-grosser-star](https://www.spiegel.de/kultur/kino/kieran-culkin-in-a-real-pain-kleiner-bruder-grosser-star-a-f252f459-1787-42b8-adfd-35e2c2499d81#ref=rss)
+### real
 
-* [https://www.spiegel.de/wirtschaft/soziales/vorschlag-von-robert-habeck-gruene-wollen-sozialbeitraege-auch-fuer-kapitaleinkuenfte](https://www.spiegel.de/wirtschaft/soziales/vorschlag-von-robert-habeck-gruene-wollen-sozialbeitraege-auch-fuer-kapitaleinkuenfte-a-fbb205cc-6777-401d-9337-bf52aab085e9#ref=rss)
-### habeck
+* [https://www.spiegel.de/kultur/kino/kieran-culkin-in-a-real-pain-kleiner-bruder-grosser-star](https://www.spiegel.de/kultur/kino/kieran-culkin-in-a-real-pain-kleiner-bruder-grosser-star-a-f252f459-1787-42b8-adfd-35e2c2499d81#ref=rss)
+### pain
 
-* [https://www.spiegel.de/wirtschaft/soziales/vorschlag-von-robert-habeck-gruene-wollen-sozialbeitraege-auch-fuer-kapitaleinkuenfte](https://www.spiegel.de/wirtschaft/soziales/vorschlag-von-robert-habeck-gruene-wollen-sozialbeitraege-auch-fuer-kapitaleinkuenfte-a-fbb205cc-6777-401d-9337-bf52aab085e9#ref=rss)
-### grüne
+* [https://www.spiegel.de/kultur/kino/kieran-culkin-in-a-real-pain-kleiner-bruder-grosser-star](https://www.spiegel.de/kultur/kino/kieran-culkin-in-a-real-pain-kleiner-bruder-grosser-star-a-f252f459-1787-42b8-adfd-35e2c2499d81#ref=rss)
+### auftritte
 
-* [https://www.spiegel.de/wirtschaft/soziales/vorschlag-von-robert-habeck-gruene-wollen-sozialbeitraege-auch-fuer-kapitaleinkuenfte](https://www.spiegel.de/wirtschaft/soziales/vorschlag-von-robert-habeck-gruene-wollen-sozialbeitraege-auch-fuer-kapitaleinkuenfte-a-fbb205cc-6777-401d-9337-bf52aab085e9#ref=rss)
-* [https://www.spiegel.de/panorama/nord-stream-2-und-klimastiftung-mecklenburg-vorpommern-olaf-scholz-soll-als-zeuge-aussagen](https://www.spiegel.de/panorama/nord-stream-2-und-klimastiftung-mecklenburg-vorpommern-olaf-scholz-soll-als-zeuge-aussagen-a-dbd3183b-0fa3-4bd7-8d36-9b7a9ae698b4#ref=rss)
-### sozialbeiträge
+* [https://www.spiegel.de/kultur/kino/kieran-culkin-in-a-real-pain-kleiner-bruder-grosser-star](https://www.spiegel.de/kultur/kino/kieran-culkin-in-a-real-pain-kleiner-bruder-grosser-star-a-f252f459-1787-42b8-adfd-35e2c2499d81#ref=rss)
+* [https://www.spiegel.de/politik/christian-lindner-fdp-chef-beim-wahlkampf-in-bremen-beschimpft](https://www.spiegel.de/politik/christian-lindner-fdp-chef-beim-wahlkampf-in-bremen-beschimpft-a-c79af74e-56b3-42bb-89cc-425a22bc3369#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/wirtschaft/soziales/vorschlag-von-robert-habeck-gruene-wollen-sozialbeitraege-auch-fuer-kapitaleinkuenfte](https://www.spiegel.de/wirtschaft/soziales/vorschlag-von-robert-habeck-gruene-wollen-sozialbeitraege-auch-fuer-kapitaleinkuenfte-a-fbb205cc-6777-401d-9337-bf52aab085e9#ref=rss)
-### zahlen
+* [https://www.spiegel.de/kultur/kino/kieran-culkin-in-a-real-pain-kleiner-bruder-grosser-star](https://www.spiegel.de/kultur/kino/kieran-culkin-in-a-real-pain-kleiner-bruder-grosser-star-a-f252f459-1787-42b8-adfd-35e2c2499d81#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-boris-pistorius-verspricht-kyjiv-mehr-ruestungshilfen](https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-boris-pistorius-verspricht-kyjiv-mehr-ruestungshilfen-a-178e07e0-1038-42e5-b0ef-14fd030df5e1#ref=rss)
+### drei
 
-* [https://www.spiegel.de/wirtschaft/soziales/vorschlag-von-robert-habeck-gruene-wollen-sozialbeitraege-auch-fuer-kapitaleinkuenfte](https://www.spiegel.de/wirtschaft/soziales/vorschlag-von-robert-habeck-gruene-wollen-sozialbeitraege-auch-fuer-kapitaleinkuenfte-a-fbb205cc-6777-401d-9337-bf52aab085e9#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/amtsgericht-muenchen-frau-muss-300-euro-wegen-klopfen-an-wohnungsdecke-zahlen](https://www.spiegel.de/panorama/justiz/amtsgericht-muenchen-frau-muss-300-euro-wegen-klopfen-an-wohnungsdecke-zahlen-a-13955ed9-75cd-4236-aef8-0c5e76a6a742#ref=rss)
-### hoch
+* [https://www.spiegel.de/wissenschaft/australien-giftspinne-besteht-aus-drei-arten](https://www.spiegel.de/wissenschaft/australien-giftspinne-besteht-aus-drei-arten-a-137e830e-6b55-45b4-bc58-3b0584219821#ref=rss)
+### arten
 
-* [https://www.spiegel.de/wirtschaft/soziales/vorschlag-von-robert-habeck-gruene-wollen-sozialbeitraege-auch-fuer-kapitaleinkuenfte](https://www.spiegel.de/wirtschaft/soziales/vorschlag-von-robert-habeck-gruene-wollen-sozialbeitraege-auch-fuer-kapitaleinkuenfte-a-fbb205cc-6777-401d-9337-bf52aab085e9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/oel-preis-so-hoch-wie-seit-fuenf-monaten-nicht-mehr](https://www.spiegel.de/wirtschaft/oel-preis-so-hoch-wie-seit-fuenf-monaten-nicht-mehr-a-a3caf011-98fd-486a-b4f4-690379d900cb#ref=rss)
-### güterzug
+* [https://www.spiegel.de/wissenschaft/australien-giftspinne-besteht-aus-drei-arten](https://www.spiegel.de/wissenschaft/australien-giftspinne-besteht-aus-drei-arten-a-137e830e-6b55-45b4-bc58-3b0584219821#ref=rss)
+### 2025
 
-* [https://www.spiegel.de/panorama/rethen-lokfuehrer-schlaeft-mit-1-4-promille-in-gueterzug-ein](https://www.spiegel.de/panorama/rethen-lokfuehrer-schlaeft-mit-1-4-promille-in-gueterzug-ein-a-3dc1827a-a76a-4131-b32c-6333f1b04b42#ref=rss)
-### behörden
+* [https://www.spiegel.de/wirtschaft/aktien-und-anlegen-2025-hedgefondsmanager-sieht-grosse-chancen-fuer-europaeische-boersen](https://www.spiegel.de/wirtschaft/aktien-und-anlegen-2025-hedgefondsmanager-sieht-grosse-chancen-fuer-europaeische-boersen-a-19ac72f3-4cf0-4dbc-b998-99f7fb2723a5#ref=rss)
+### hedgefondsmanager
 
-* [https://www.spiegel.de/panorama/justiz/anschlag-von-madgeburg-betroffenenzahl-steigt-auf-ueber-600](https://www.spiegel.de/panorama/justiz/anschlag-von-madgeburg-betroffenenzahl-steigt-auf-ueber-600-a-18f584b6-8613-40d3-a193-930c2ab527ba#ref=rss)
-* [https://www.spiegel.de/ausland/waldbraende-in-kalifornien-spiegel-reporter-berichten-von-der-verheerenden-lage-in-los-angeles](https://www.spiegel.de/ausland/waldbraende-in-kalifornien-spiegel-reporter-berichten-von-der-verheerenden-lage-in-los-angeles-a-9a72f441-cc24-4108-bd02-98a4cdba42a8#ref=rss)
-### israelische
+* [https://www.spiegel.de/wirtschaft/aktien-und-anlegen-2025-hedgefondsmanager-sieht-grosse-chancen-fuer-europaeische-boersen](https://www.spiegel.de/wirtschaft/aktien-und-anlegen-2025-hedgefondsmanager-sieht-grosse-chancen-fuer-europaeische-boersen-a-19ac72f3-4cf0-4dbc-b998-99f7fb2723a5#ref=rss)
+### sieht
 
-* [https://www.spiegel.de/panorama/berlin-anschlagsplaene-auf-israelische-botschaft-nicht-erhaertet-terrorverdaechtiger-wieder-frei](https://www.spiegel.de/panorama/berlin-anschlagsplaene-auf-israelische-botschaft-nicht-erhaertet-terrorverdaechtiger-wieder-frei-a-0b18df5b-a83d-41a8-94e8-fe519adb774c#ref=rss)
-### botschaft
+* [https://www.spiegel.de/wirtschaft/aktien-und-anlegen-2025-hedgefondsmanager-sieht-grosse-chancen-fuer-europaeische-boersen](https://www.spiegel.de/wirtschaft/aktien-und-anlegen-2025-hedgefondsmanager-sieht-grosse-chancen-fuer-europaeische-boersen-a-19ac72f3-4cf0-4dbc-b998-99f7fb2723a5#ref=rss)
+### börsen
 
-* [https://www.spiegel.de/panorama/berlin-anschlagsplaene-auf-israelische-botschaft-nicht-erhaertet-terrorverdaechtiger-wieder-frei](https://www.spiegel.de/panorama/berlin-anschlagsplaene-auf-israelische-botschaft-nicht-erhaertet-terrorverdaechtiger-wieder-frei-a-0b18df5b-a83d-41a8-94e8-fe519adb774c#ref=rss)
-### frei
+* [https://www.spiegel.de/wirtschaft/aktien-und-anlegen-2025-hedgefondsmanager-sieht-grosse-chancen-fuer-europaeische-boersen](https://www.spiegel.de/wirtschaft/aktien-und-anlegen-2025-hedgefondsmanager-sieht-grosse-chancen-fuer-europaeische-boersen-a-19ac72f3-4cf0-4dbc-b998-99f7fb2723a5#ref=rss)
+### nordrheinwestfalen
 
-* [https://www.spiegel.de/panorama/berlin-anschlagsplaene-auf-israelische-botschaft-nicht-erhaertet-terrorverdaechtiger-wieder-frei](https://www.spiegel.de/panorama/berlin-anschlagsplaene-auf-israelische-botschaft-nicht-erhaertet-terrorverdaechtiger-wieder-frei-a-0b18df5b-a83d-41a8-94e8-fe519adb774c#ref=rss)
-### ölpreis
+* [https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-ermittlungen-wegen-mutmasslicher-korruption-bei-sanierung-der-staatskanzlei](https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-ermittlungen-wegen-mutmasslicher-korruption-bei-sanierung-der-staatskanzlei-a-3d88fada-48a8-481f-8b1d-3348e2171aa9#ref=rss)
+### sanierung
 
-* [https://www.spiegel.de/wirtschaft/oel-preis-so-hoch-wie-seit-fuenf-monaten-nicht-mehr](https://www.spiegel.de/wirtschaft/oel-preis-so-hoch-wie-seit-fuenf-monaten-nicht-mehr-a-a3caf011-98fd-486a-b4f4-690379d900cb#ref=rss)
-### usa
+* [https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-ermittlungen-wegen-mutmasslicher-korruption-bei-sanierung-der-staatskanzlei](https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-ermittlungen-wegen-mutmasslicher-korruption-bei-sanierung-der-staatskanzlei-a-3d88fada-48a8-481f-8b1d-3348e2171aa9#ref=rss)
+### staatskanzlei
 
-* [https://www.spiegel.de/wirtschaft/oel-preis-so-hoch-wie-seit-fuenf-monaten-nicht-mehr](https://www.spiegel.de/wirtschaft/oel-preis-so-hoch-wie-seit-fuenf-monaten-nicht-mehr-a-a3caf011-98fd-486a-b4f4-690379d900cb#ref=rss)
-* [https://www.spiegel.de/ausland/papst-franziskus-und-donald-trump-streiten-ueber-fluechtlingspolitik-dieser-mann-ist-kein-christ](https://www.spiegel.de/ausland/papst-franziskus-und-donald-trump-streiten-ueber-fluechtlingspolitik-dieser-mann-ist-kein-christ-a-8e9db66e-3d13-4103-b6e1-0e77eea49060#ref=rss)
-### axel
+* [https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-ermittlungen-wegen-mutmasslicher-korruption-bei-sanierung-der-staatskanzlei](https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-ermittlungen-wegen-mutmasslicher-korruption-bei-sanierung-der-staatskanzlei-a-3d88fada-48a8-481f-8b1d-3348e2171aa9#ref=rss)
+### waren
 
-* [https://www.spiegel.de/kultur/mathias-doepfner-axel-springer-chef-kritisiert-afd-linke-und-bsw](https://www.spiegel.de/kultur/mathias-doepfner-axel-springer-chef-kritisiert-afd-linke-und-bsw-a-de28941a-ebeb-4cd6-8697-9c0f776f5892#ref=rss)
-### springer
+* [https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-ermittlungen-wegen-mutmasslicher-korruption-bei-sanierung-der-staatskanzlei](https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-ermittlungen-wegen-mutmasslicher-korruption-bei-sanierung-der-staatskanzlei-a-3d88fada-48a8-481f-8b1d-3348e2171aa9#ref=rss)
+* [https://www.spiegel.de/sport/tennis/nick-kyrgios-boris-becker-attackiert-australischen-tennisprofi](https://www.spiegel.de/sport/tennis/nick-kyrgios-boris-becker-attackiert-australischen-tennisprofi-a-e0e53445-4fb8-431e-b953-ddfadc78199d#ref=rss)
+### marl
 
-* [https://www.spiegel.de/kultur/mathias-doepfner-axel-springer-chef-kritisiert-afd-linke-und-bsw](https://www.spiegel.de/kultur/mathias-doepfner-axel-springer-chef-kritisiert-afd-linke-und-bsw-a-de28941a-ebeb-4cd6-8697-9c0f776f5892#ref=rss)
-### mathias
+* [https://www.spiegel.de/panorama/justiz/marl-mehrere-drohnen-ueber-dem-chemiepark-gesichtet](https://www.spiegel.de/panorama/justiz/marl-mehrere-drohnen-ueber-dem-chemiepark-gesichtet-a-e3d9cb4e-2c4a-498b-963d-34fe7dae8f30#ref=rss)
+### chemiepark
 
-* [https://www.spiegel.de/kultur/mathias-doepfner-axel-springer-chef-kritisiert-afd-linke-und-bsw](https://www.spiegel.de/kultur/mathias-doepfner-axel-springer-chef-kritisiert-afd-linke-und-bsw-a-de28941a-ebeb-4cd6-8697-9c0f776f5892#ref=rss)
-### döpfner
+* [https://www.spiegel.de/panorama/justiz/marl-mehrere-drohnen-ueber-dem-chemiepark-gesichtet](https://www.spiegel.de/panorama/justiz/marl-mehrere-drohnen-ueber-dem-chemiepark-gesichtet-a-e3d9cb4e-2c4a-498b-963d-34fe7dae8f30#ref=rss)
+### hilary
 
-* [https://www.spiegel.de/kultur/mathias-doepfner-axel-springer-chef-kritisiert-afd-linke-und-bsw](https://www.spiegel.de/kultur/mathias-doepfner-axel-springer-chef-kritisiert-afd-linke-und-bsw-a-de28941a-ebeb-4cd6-8697-9c0f776f5892#ref=rss)
-### afd
+* [https://www.spiegel.de/panorama/leute/waldbraende-in-los-angeles-prominente-finden-unterschlupf-bei-hilary-duff-paris-hilton-engagiert-sich-fuer-tiere](https://www.spiegel.de/panorama/leute/waldbraende-in-los-angeles-prominente-finden-unterschlupf-bei-hilary-duff-paris-hilton-engagiert-sich-fuer-tiere-a-b78fafa7-3ece-4a23-8d7a-c69a34546f5f#ref=rss)
+### duff
 
-* [https://www.spiegel.de/kultur/mathias-doepfner-axel-springer-chef-kritisiert-afd-linke-und-bsw](https://www.spiegel.de/kultur/mathias-doepfner-axel-springer-chef-kritisiert-afd-linke-und-bsw-a-de28941a-ebeb-4cd6-8697-9c0f776f5892#ref=rss)
-### briefwahl
+* [https://www.spiegel.de/panorama/leute/waldbraende-in-los-angeles-prominente-finden-unterschlupf-bei-hilary-duff-paris-hilton-engagiert-sich-fuer-tiere](https://www.spiegel.de/panorama/leute/waldbraende-in-los-angeles-prominente-finden-unterschlupf-bei-hilary-duff-paris-hilton-engagiert-sich-fuer-tiere-a-b78fafa7-3ece-4a23-8d7a-c69a34546f5f#ref=rss)
+### paris
 
-* [https://www.spiegel.de/politik/deutschland/briefwahl-2025-das-muessen-sie-vor-der-bundestagswahl-wissen](https://www.spiegel.de/politik/deutschland/briefwahl-2025-das-muessen-sie-vor-der-bundestagswahl-wissen-a-384cde4f-f6e9-4be8-9579-34a848c339ed#ref=rss)
-### bundestagswahl
+* [https://www.spiegel.de/panorama/leute/waldbraende-in-los-angeles-prominente-finden-unterschlupf-bei-hilary-duff-paris-hilton-engagiert-sich-fuer-tiere](https://www.spiegel.de/panorama/leute/waldbraende-in-los-angeles-prominente-finden-unterschlupf-bei-hilary-duff-paris-hilton-engagiert-sich-fuer-tiere-a-b78fafa7-3ece-4a23-8d7a-c69a34546f5f#ref=rss)
+### hilton
 
-* [https://www.spiegel.de/politik/deutschland/briefwahl-2025-das-muessen-sie-vor-der-bundestagswahl-wissen](https://www.spiegel.de/politik/deutschland/briefwahl-2025-das-muessen-sie-vor-der-bundestagswahl-wissen-a-384cde4f-f6e9-4be8-9579-34a848c339ed#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-armin-laschet-und-johannes-vogel-plaedieren-fuer-schwarz-gelb](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-armin-laschet-und-johannes-vogel-plaedieren-fuer-schwarz-gelb-a-72d9e965-c8ea-46cb-ad8b-c62221ee02ab#ref=rss)
-### alles
+* [https://www.spiegel.de/panorama/leute/waldbraende-in-los-angeles-prominente-finden-unterschlupf-bei-hilary-duff-paris-hilton-engagiert-sich-fuer-tiere](https://www.spiegel.de/panorama/leute/waldbraende-in-los-angeles-prominente-finden-unterschlupf-bei-hilary-duff-paris-hilton-engagiert-sich-fuer-tiere-a-b78fafa7-3ece-4a23-8d7a-c69a34546f5f#ref=rss)
+### tiere
 
-* [https://www.spiegel.de/politik/deutschland/briefwahl-2025-das-muessen-sie-vor-der-bundestagswahl-wissen](https://www.spiegel.de/politik/deutschland/briefwahl-2025-das-muessen-sie-vor-der-bundestagswahl-wissen-a-384cde4f-f6e9-4be8-9579-34a848c339ed#ref=rss)
-* [https://www.spiegel.de/sport/fussball/polizei-einsaetze-bei-fussballspielen-urteil-des-bundesverfassungsgerichts-und-die-folgen](https://www.spiegel.de/sport/fussball/polizei-einsaetze-bei-fussballspielen-urteil-des-bundesverfassungsgerichts-und-die-folgen-a-70a13b77-d8f6-4984-acb2-073b7cecfaa2#ref=rss)
+* [https://www.spiegel.de/panorama/leute/waldbraende-in-los-angeles-prominente-finden-unterschlupf-bei-hilary-duff-paris-hilton-engagiert-sich-fuer-tiere](https://www.spiegel.de/panorama/leute/waldbraende-in-los-angeles-prominente-finden-unterschlupf-bei-hilary-duff-paris-hilton-engagiert-sich-fuer-tiere-a-b78fafa7-3ece-4a23-8d7a-c69a34546f5f#ref=rss)
+### fußball
+
+* [https://www.spiegel.de/sport/fussball/deutsche-fussball-liga-laender-duerfen-bundesliga-vereine-fuer-polizei-einsaetze-zur-kasse-bitten](https://www.spiegel.de/sport/fussball/deutsche-fussball-liga-laender-duerfen-bundesliga-vereine-fuer-polizei-einsaetze-zur-kasse-bitten-a-daefedc6-7fdb-48be-ac31-bd472de8e59d#ref=rss)
+### liga
+
+* [https://www.spiegel.de/sport/fussball/deutsche-fussball-liga-laender-duerfen-bundesliga-vereine-fuer-polizei-einsaetze-zur-kasse-bitten](https://www.spiegel.de/sport/fussball/deutsche-fussball-liga-laender-duerfen-bundesliga-vereine-fuer-polizei-einsaetze-zur-kasse-bitten-a-daefedc6-7fdb-48be-ac31-bd472de8e59d#ref=rss)
+### dürfen
+
+* [https://www.spiegel.de/sport/fussball/deutsche-fussball-liga-laender-duerfen-bundesliga-vereine-fuer-polizei-einsaetze-zur-kasse-bitten](https://www.spiegel.de/sport/fussball/deutsche-fussball-liga-laender-duerfen-bundesliga-vereine-fuer-polizei-einsaetze-zur-kasse-bitten-a-daefedc6-7fdb-48be-ac31-bd472de8e59d#ref=rss)
+### polizeieinsätze
+
+* [https://www.spiegel.de/sport/fussball/deutsche-fussball-liga-laender-duerfen-bundesliga-vereine-fuer-polizei-einsaetze-zur-kasse-bitten](https://www.spiegel.de/sport/fussball/deutsche-fussball-liga-laender-duerfen-bundesliga-vereine-fuer-polizei-einsaetze-zur-kasse-bitten-a-daefedc6-7fdb-48be-ac31-bd472de8e59d#ref=rss)
+### lesen
+
+* [https://www.spiegel.de/ausland/jack-smith-lesen-sie-den-bericht-des-sonderermittlers-ueber-donald-trump-hier-im-original](https://www.spiegel.de/ausland/jack-smith-lesen-sie-den-bericht-des-sonderermittlers-ueber-donald-trump-hier-im-original-a-cd78765c-c723-4829-a149-968c65d8d437#ref=rss)
+### sonderermittlers
+
+* [https://www.spiegel.de/ausland/jack-smith-lesen-sie-den-bericht-des-sonderermittlers-ueber-donald-trump-hier-im-original](https://www.spiegel.de/ausland/jack-smith-lesen-sie-den-bericht-des-sonderermittlers-ueber-donald-trump-hier-im-original-a-cd78765c-c723-4829-a149-968c65d8d437#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-wiederwahl-verhinderte-laut-sonderermittler-schuldspruch](https://www.spiegel.de/ausland/donald-trump-wiederwahl-verhinderte-laut-sonderermittler-schuldspruch-a-2a766252-8578-486e-93c3-b6cd4df3481d#ref=rss)
+### beweise
+
+* [https://www.spiegel.de/ausland/jack-smith-lesen-sie-den-bericht-des-sonderermittlers-ueber-donald-trump-hier-im-original](https://www.spiegel.de/ausland/jack-smith-lesen-sie-den-bericht-des-sonderermittlers-ueber-donald-trump-hier-im-original-a-cd78765c-c723-4829-a149-968c65d8d437#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-wiederwahl-verhinderte-laut-sonderermittler-schuldspruch](https://www.spiegel.de/ausland/donald-trump-wiederwahl-verhinderte-laut-sonderermittler-schuldspruch-a-2a766252-8578-486e-93c3-b6cd4df3481d#ref=rss)
+### antworten
+
+* [https://www.spiegel.de/ausland/donald-trump-das-steht-im-abschlussbericht-von-trump-sonderermittler-jack-smith](https://www.spiegel.de/ausland/donald-trump-das-steht-im-abschlussbericht-von-trump-sonderermittler-jack-smith-a-b6f837a1-4f18-46a5-9564-27c5871d2b6c#ref=rss)
+* [https://www.spiegel.de/gesundheit/schlecht-schlafen-bei-vollmond-was-steckt-dahinter](https://www.spiegel.de/gesundheit/schlecht-schlafen-bei-vollmond-was-steckt-dahinter-a-5a3650d0-28d4-4187-890f-eccc60c8ef14#ref=rss)
+### daniil
+
+* [https://www.spiegel.de/sport/tennis/australian-open-daniil-medwedew-zertruemmert-aus-wut-netzkamera](https://www.spiegel.de/sport/tennis/australian-open-daniil-medwedew-zertruemmert-aus-wut-netzkamera-a-9ff24863-fa04-4fca-af38-48436248bc12#ref=rss)
+### medwedew
+
+* [https://www.spiegel.de/sport/tennis/australian-open-daniil-medwedew-zertruemmert-aus-wut-netzkamera](https://www.spiegel.de/sport/tennis/australian-open-daniil-medwedew-zertruemmert-aus-wut-netzkamera-a-9ff24863-fa04-4fca-af38-48436248bc12#ref=rss)
+### rund
+
+* [https://www.spiegel.de/sport/tennis/australian-open-daniil-medwedew-zertruemmert-aus-wut-netzkamera](https://www.spiegel.de/sport/tennis/australian-open-daniil-medwedew-zertruemmert-aus-wut-netzkamera-a-9ff24863-fa04-4fca-af38-48436248bc12#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutlich-mehr-geld-von-investoren-fuer-deutsche-start-ups](https://www.spiegel.de/wirtschaft/unternehmen/deutlich-mehr-geld-von-investoren-fuer-deutsche-start-ups-a-2a13b353-3bf7-45ae-bac8-3f7613df22d8#ref=rss)
+### bekam
+
+* [https://www.spiegel.de/sport/tennis/australian-open-daniil-medwedew-zertruemmert-aus-wut-netzkamera](https://www.spiegel.de/sport/tennis/australian-open-daniil-medwedew-zertruemmert-aus-wut-netzkamera-a-9ff24863-fa04-4fca-af38-48436248bc12#ref=rss)
+* [https://www.spiegel.de/sport/tennis/australian-open-eva-lys-als-lucky-loser-ueberraschend-im-turnier](https://www.spiegel.de/sport/tennis/australian-open-eva-lys-als-lucky-loser-ueberraschend-im-turnier-a-60011175-6290-4c00-9867-3b700bf5831e#ref=rss)
+### eva
+
+* [https://www.spiegel.de/sport/tennis/australian-open-eva-lys-als-lucky-loser-ueberraschend-im-turnier](https://www.spiegel.de/sport/tennis/australian-open-eva-lys-als-lucky-loser-ueberraschend-im-turnier-a-60011175-6290-4c00-9867-3b700bf5831e#ref=rss)
+### lys
+
+* [https://www.spiegel.de/sport/tennis/australian-open-eva-lys-als-lucky-loser-ueberraschend-im-turnier](https://www.spiegel.de/sport/tennis/australian-open-eva-lys-als-lucky-loser-ueberraschend-im-turnier-a-60011175-6290-4c00-9867-3b700bf5831e#ref=rss)
+### lucky
+
+* [https://www.spiegel.de/sport/tennis/australian-open-eva-lys-als-lucky-loser-ueberraschend-im-turnier](https://www.spiegel.de/sport/tennis/australian-open-eva-lys-als-lucky-loser-ueberraschend-im-turnier-a-60011175-6290-4c00-9867-3b700bf5831e#ref=rss)
+### loser
+
+* [https://www.spiegel.de/sport/tennis/australian-open-eva-lys-als-lucky-loser-ueberraschend-im-turnier](https://www.spiegel.de/sport/tennis/australian-open-eva-lys-als-lucky-loser-ueberraschend-im-turnier-a-60011175-6290-4c00-9867-3b700bf5831e#ref=rss)
+### fdpchef
+
+* [https://www.spiegel.de/politik/christian-lindner-fdp-chef-beim-wahlkampf-in-bremen-beschimpft](https://www.spiegel.de/politik/christian-lindner-fdp-chef-beim-wahlkampf-in-bremen-beschimpft-a-c79af74e-56b3-42bb-89cc-425a22bc3369#ref=rss)
+### steckt
+
+* [https://www.spiegel.de/gesundheit/schlecht-schlafen-bei-vollmond-was-steckt-dahinter](https://www.spiegel.de/gesundheit/schlecht-schlafen-bei-vollmond-was-steckt-dahinter-a-5a3650d0-28d4-4187-890f-eccc60c8ef14#ref=rss)
+### wir
+
+* [https://www.spiegel.de/gesundheit/schlecht-schlafen-bei-vollmond-was-steckt-dahinter](https://www.spiegel.de/gesundheit/schlecht-schlafen-bei-vollmond-was-steckt-dahinter-a-5a3650d0-28d4-4187-890f-eccc60c8ef14#ref=rss)
+* [https://www.spiegel.de/ausland/groenland-mute-b-egede-erteilt-donald-trump-eine-scharfe-absage](https://www.spiegel.de/ausland/groenland-mute-b-egede-erteilt-donald-trump-eine-scharfe-absage-a-49f9268e-b5f2-48ec-ae2d-0bbcca61d865#ref=rss)
+### nick
+
+* [https://www.spiegel.de/sport/tennis/nick-kyrgios-boris-becker-attackiert-australischen-tennisprofi](https://www.spiegel.de/sport/tennis/nick-kyrgios-boris-becker-attackiert-australischen-tennisprofi-a-e0e53445-4fb8-431e-b953-ddfadc78199d#ref=rss)
+### kyrgios
+
+* [https://www.spiegel.de/sport/tennis/nick-kyrgios-boris-becker-attackiert-australischen-tennisprofi](https://www.spiegel.de/sport/tennis/nick-kyrgios-boris-becker-attackiert-australischen-tennisprofi-a-e0e53445-4fb8-431e-b953-ddfadc78199d#ref=rss)
+### becker
+
+* [https://www.spiegel.de/sport/tennis/nick-kyrgios-boris-becker-attackiert-australischen-tennisprofi](https://www.spiegel.de/sport/tennis/nick-kyrgios-boris-becker-attackiert-australischen-tennisprofi-a-e0e53445-4fb8-431e-b953-ddfadc78199d#ref=rss)
+### australischen
+
+* [https://www.spiegel.de/sport/tennis/nick-kyrgios-boris-becker-attackiert-australischen-tennisprofi](https://www.spiegel.de/sport/tennis/nick-kyrgios-boris-becker-attackiert-australischen-tennisprofi-a-e0e53445-4fb8-431e-b953-ddfadc78199d#ref=rss)
+### tennisprofi
+
+* [https://www.spiegel.de/sport/tennis/nick-kyrgios-boris-becker-attackiert-australischen-tennisprofi](https://www.spiegel.de/sport/tennis/nick-kyrgios-boris-becker-attackiert-australischen-tennisprofi-a-e0e53445-4fb8-431e-b953-ddfadc78199d#ref=rss)
+### papst
+
+* [https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-berichtet-in-autobiografie-ueber-weisse-box-mit-dokumenten-ueber-skandale](https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-berichtet-in-autobiografie-ueber-weisse-box-mit-dokumenten-ueber-skandale-a-9e14aa04-8be3-4cf4-923b-78eba498902e#ref=rss)
+### franziskus
+
+* [https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-berichtet-in-autobiografie-ueber-weisse-box-mit-dokumenten-ueber-skandale](https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-berichtet-in-autobiografie-ueber-weisse-box-mit-dokumenten-ueber-skandale-a-9e14aa04-8be3-4cf4-923b-78eba498902e#ref=rss)
+### berichtet
+
+* [https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-berichtet-in-autobiografie-ueber-weisse-box-mit-dokumenten-ueber-skandale](https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-berichtet-in-autobiografie-ueber-weisse-box-mit-dokumenten-ueber-skandale-a-9e14aa04-8be3-4cf4-923b-78eba498902e#ref=rss)
+### 2024
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutlich-mehr-geld-von-investoren-fuer-deutsche-start-ups](https://www.spiegel.de/wirtschaft/unternehmen/deutlich-mehr-geld-von-investoren-fuer-deutsche-start-ups-a-2a13b353-3bf7-45ae-bac8-3f7613df22d8#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/deutsche-bahn-laut-sahra-wagenknecht-anfrage-mehr-straftaten-gegen-mitarbeiter-und-bundespolizisten](https://www.spiegel.de/panorama/justiz/deutsche-bahn-laut-sahra-wagenknecht-anfrage-mehr-straftaten-gegen-mitarbeiter-und-bundespolizisten-a-f46a8295-06c1-4d16-b90c-a0cb21c7d47d#ref=rss)
 ### neues
 
-* [https://www.spiegel.de/netzwelt/web/telefonbetrug-mit-schockanrufen-wenn-die-scammer-zwei-mal-durchklingeln](https://www.spiegel.de/netzwelt/web/telefonbetrug-mit-schockanrufen-wenn-die-scammer-zwei-mal-durchklingeln-a-5e2c9b49-8ef1-4838-8a97-a27db70280ef#ref=rss)
-* [https://www.spiegel.de/psychologie/einsam-ins-neue-jahr-was-gegen-das-alleinsein-hilft](https://www.spiegel.de/psychologie/einsam-ins-neue-jahr-was-gegen-das-alleinsein-hilft-a-b18b85a2-ffd4-44fa-ac4f-329578e3a0e7#ref=rss)
-### manchmal
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutlich-mehr-geld-von-investoren-fuer-deutsche-start-ups](https://www.spiegel.de/wirtschaft/unternehmen/deutlich-mehr-geld-von-investoren-fuer-deutsche-start-ups-a-2a13b353-3bf7-45ae-bac8-3f7613df22d8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-boris-pistorius-verspricht-kyjiv-mehr-ruestungshilfen](https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-boris-pistorius-verspricht-kyjiv-mehr-ruestungshilfen-a-178e07e0-1038-42e5-b0ef-14fd030df5e1#ref=rss)
+### grönland
 
-* [https://www.spiegel.de/netzwelt/web/telefonbetrug-mit-schockanrufen-wenn-die-scammer-zwei-mal-durchklingeln](https://www.spiegel.de/netzwelt/web/telefonbetrug-mit-schockanrufen-wenn-die-scammer-zwei-mal-durchklingeln-a-5e2c9b49-8ef1-4838-8a97-a27db70280ef#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/flusskrebse-forscher-finden-neue-art-in-der-lieferung-eines-tierhaendlers](https://www.spiegel.de/wissenschaft/natur/flusskrebse-forscher-finden-neue-art-in-der-lieferung-eines-tierhaendlers-a-dcbcccfa-bb41-4e4d-a7ce-a9ed26af3803#ref=rss)
-### tyson
+* [https://www.spiegel.de/ausland/groenland-mute-b-egede-erteilt-donald-trump-eine-scharfe-absage](https://www.spiegel.de/ausland/groenland-mute-b-egede-erteilt-donald-trump-eine-scharfe-absage-a-49f9268e-b5f2-48ec-ae2d-0bbcca61d865#ref=rss)
+### teilen
 
-* [https://www.spiegel.de/sport/boxen-tyson-fury-tritt-mal-wieder-zurueck](https://www.spiegel.de/sport/boxen-tyson-fury-tritt-mal-wieder-zurueck-a-9f195c6e-3cd9-4f13-82f6-e5a7f3bd4652#ref=rss)
-### fury
+* [https://www.spiegel.de/ausland/donald-trump-wiederwahl-verhinderte-laut-sonderermittler-schuldspruch](https://www.spiegel.de/ausland/donald-trump-wiederwahl-verhinderte-laut-sonderermittler-schuldspruch-a-2a766252-8578-486e-93c3-b6cd4df3481d#ref=rss)
+* [https://www.spiegel.de/panorama/deutscher-wetterdienst-warnt-vor-glatten-strassen-in-deutschland](https://www.spiegel.de/panorama/deutscher-wetterdienst-warnt-vor-glatten-strassen-in-deutschland-a-3162e3c3-cba7-4f3d-9840-99f0632be18f#ref=rss)
+### straßen
 
-* [https://www.spiegel.de/sport/boxen-tyson-fury-tritt-mal-wieder-zurueck](https://www.spiegel.de/sport/boxen-tyson-fury-tritt-mal-wieder-zurueck-a-9f195c6e-3cd9-4f13-82f6-e5a7f3bd4652#ref=rss)
-### trumps
+* [https://www.spiegel.de/panorama/deutscher-wetterdienst-warnt-vor-glatten-strassen-in-deutschland](https://www.spiegel.de/panorama/deutscher-wetterdienst-warnt-vor-glatten-strassen-in-deutschland-a-3162e3c3-cba7-4f3d-9840-99f0632be18f#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/ausland/papst-franziskus-und-donald-trump-streiten-ueber-fluechtlingspolitik-dieser-mann-ist-kein-christ](https://www.spiegel.de/ausland/papst-franziskus-und-donald-trump-streiten-ueber-fluechtlingspolitik-dieser-mann-ist-kein-christ-a-8e9db66e-3d13-4103-b6e1-0e77eea49060#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/polen-unterstuetzt-donald-trumps-nato-forderung-scholz-distanziert-sich](https://www.spiegel.de/politik/deutschland/polen-unterstuetzt-donald-trumps-nato-forderung-scholz-distanziert-sich-a-aca01e2d-9737-4bef-835e-b468eba46da7#ref=rss)
-### ostsee
+* [https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-boris-pistorius-verspricht-kyjiv-mehr-ruestungshilfen](https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-boris-pistorius-verspricht-kyjiv-mehr-ruestungshilfen-a-178e07e0-1038-42e5-b0ef-14fd030df5e1#ref=rss)
+### pistorius
 
-* [https://www.spiegel.de/panorama/ostsee-havarierter-russischer-oeltanker-eventin-wird-nach-daenemark-geschleppt](https://www.spiegel.de/panorama/ostsee-havarierter-russischer-oeltanker-eventin-wird-nach-daenemark-geschleppt-a-745140fa-912d-48d8-95ea-a20f3fdd895d#ref=rss)
-### eventin
+* [https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-boris-pistorius-verspricht-kyjiv-mehr-ruestungshilfen](https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-boris-pistorius-verspricht-kyjiv-mehr-ruestungshilfen-a-178e07e0-1038-42e5-b0ef-14fd030df5e1#ref=rss)
+### elon
 
-* [https://www.spiegel.de/panorama/ostsee-havarierter-russischer-oeltanker-eventin-wird-nach-daenemark-geschleppt](https://www.spiegel.de/panorama/ostsee-havarierter-russischer-oeltanker-eventin-wird-nach-daenemark-geschleppt-a-745140fa-912d-48d8-95ea-a20f3fdd895d#ref=rss)
-### verlassen
+* [https://www.spiegel.de/netzwelt/apps/medienbericht-china-prueft-offenbar-verkauf-von-tiktok-an-elon-musk](https://www.spiegel.de/netzwelt/apps/medienbericht-china-prueft-offenbar-verkauf-von-tiktok-an-elon-musk-a-ef21dc7d-e217-4d97-aeb5-3be79b71a0c9#ref=rss)
+### musk
 
-* [https://www.spiegel.de/panorama/ostsee-havarierter-russischer-oeltanker-eventin-wird-nach-daenemark-geschleppt](https://www.spiegel.de/panorama/ostsee-havarierter-russischer-oeltanker-eventin-wird-nach-daenemark-geschleppt-a-745140fa-912d-48d8-95ea-a20f3fdd895d#ref=rss)
-* [https://www.spiegel.de/ausland/waldbraende-in-kalifornien-spiegel-reporter-berichten-von-der-verheerenden-lage-in-los-angeles](https://www.spiegel.de/ausland/waldbraende-in-kalifornien-spiegel-reporter-berichten-von-der-verheerenden-lage-in-los-angeles-a-9a72f441-cc24-4108-bd02-98a4cdba42a8#ref=rss)
-### wohnungsdecke
+* [https://www.spiegel.de/netzwelt/apps/medienbericht-china-prueft-offenbar-verkauf-von-tiktok-an-elon-musk](https://www.spiegel.de/netzwelt/apps/medienbericht-china-prueft-offenbar-verkauf-von-tiktok-an-elon-musk-a-ef21dc7d-e217-4d97-aeb5-3be79b71a0c9#ref=rss)
+### straftaten
 
-* [https://www.spiegel.de/panorama/justiz/amtsgericht-muenchen-frau-muss-300-euro-wegen-klopfen-an-wohnungsdecke-zahlen](https://www.spiegel.de/panorama/justiz/amtsgericht-muenchen-frau-muss-300-euro-wegen-klopfen-an-wohnungsdecke-zahlen-a-13955ed9-75cd-4236-aef8-0c5e76a6a742#ref=rss)
-### mindestens
-
-* [https://www.spiegel.de/panorama/justiz/amtsgericht-muenchen-frau-muss-300-euro-wegen-klopfen-an-wohnungsdecke-zahlen](https://www.spiegel.de/panorama/justiz/amtsgericht-muenchen-frau-muss-300-euro-wegen-klopfen-an-wohnungsdecke-zahlen-a-13955ed9-75cd-4236-aef8-0c5e76a6a742#ref=rss)
-* [https://www.spiegel.de/ausland/waldbraende-in-kalifornien-spiegel-reporter-berichten-von-der-verheerenden-lage-in-los-angeles](https://www.spiegel.de/ausland/waldbraende-in-kalifornien-spiegel-reporter-berichten-von-der-verheerenden-lage-in-los-angeles-a-9a72f441-cc24-4108-bd02-98a4cdba42a8#ref=rss)
-### armin
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-armin-laschet-und-johannes-vogel-plaedieren-fuer-schwarz-gelb](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-armin-laschet-und-johannes-vogel-plaedieren-fuer-schwarz-gelb-a-72d9e965-c8ea-46cb-ad8b-c62221ee02ab#ref=rss)
-### laschet
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-armin-laschet-und-johannes-vogel-plaedieren-fuer-schwarz-gelb](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-armin-laschet-und-johannes-vogel-plaedieren-fuer-schwarz-gelb-a-72d9e965-c8ea-46cb-ad8b-c62221ee02ab#ref=rss)
-### johannes
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-armin-laschet-und-johannes-vogel-plaedieren-fuer-schwarz-gelb](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-armin-laschet-und-johannes-vogel-plaedieren-fuer-schwarz-gelb-a-72d9e965-c8ea-46cb-ad8b-c62221ee02ab#ref=rss)
-### vogel
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-armin-laschet-und-johannes-vogel-plaedieren-fuer-schwarz-gelb](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-armin-laschet-und-johannes-vogel-plaedieren-fuer-schwarz-gelb-a-72d9e965-c8ea-46cb-ad8b-c62221ee02ab#ref=rss)
-### urteil
-
-* [https://www.spiegel.de/sport/fussball/polizei-einsaetze-bei-fussballspielen-urteil-des-bundesverfassungsgerichts-und-die-folgen](https://www.spiegel.de/sport/fussball/polizei-einsaetze-bei-fussballspielen-urteil-des-bundesverfassungsgerichts-und-die-folgen-a-70a13b77-d8f6-4984-acb2-073b7cecfaa2#ref=rss)
-### polen
-
-* [https://www.spiegel.de/politik/deutschland/polen-unterstuetzt-donald-trumps-nato-forderung-scholz-distanziert-sich](https://www.spiegel.de/politik/deutschland/polen-unterstuetzt-donald-trumps-nato-forderung-scholz-distanziert-sich-a-aca01e2d-9737-4bef-835e-b468eba46da7#ref=rss)
-### festgenommen
-
-* [https://www.spiegel.de/ausland/tuerkei-buergermeister-von-tuerkischer-oppositionspartei-in-istanbul-offenbar-festgenommen](https://www.spiegel.de/ausland/tuerkei-buergermeister-von-tuerkischer-oppositionspartei-in-istanbul-offenbar-festgenommen-a-8373d481-636e-4d3a-bd90-daab72bca88b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/casekow-in-brandenburg-zwei-personen-bei-attacke-mit-stichwaffe-getoetet](https://www.spiegel.de/panorama/justiz/casekow-in-brandenburg-zwei-personen-bei-attacke-mit-stichwaffe-getoetet-a-d4c794c2-ab1b-432e-b7a0-c18e7641af94#ref=rss)
-### klimastiftung
-
-* [https://www.spiegel.de/panorama/nord-stream-2-und-klimastiftung-mecklenburg-vorpommern-olaf-scholz-soll-als-zeuge-aussagen](https://www.spiegel.de/panorama/nord-stream-2-und-klimastiftung-mecklenburg-vorpommern-olaf-scholz-soll-als-zeuge-aussagen-a-dbd3183b-0fa3-4bd7-8d36-9b7a9ae698b4#ref=rss)
-### forscher
-
-* [https://www.spiegel.de/wissenschaft/natur/flusskrebse-forscher-finden-neue-art-in-der-lieferung-eines-tierhaendlers](https://www.spiegel.de/wissenschaft/natur/flusskrebse-forscher-finden-neue-art-in-der-lieferung-eines-tierhaendlers-a-dcbcccfa-bb41-4e4d-a7ce-a9ed26af3803#ref=rss)
-### art
-
-* [https://www.spiegel.de/wissenschaft/natur/flusskrebse-forscher-finden-neue-art-in-der-lieferung-eines-tierhaendlers](https://www.spiegel.de/wissenschaft/natur/flusskrebse-forscher-finden-neue-art-in-der-lieferung-eines-tierhaendlers-a-dcbcccfa-bb41-4e4d-a7ce-a9ed26af3803#ref=rss)
-### casekow
-
-* [https://www.spiegel.de/panorama/justiz/casekow-in-brandenburg-zwei-personen-bei-attacke-mit-stichwaffe-getoetet](https://www.spiegel.de/panorama/justiz/casekow-in-brandenburg-zwei-personen-bei-attacke-mit-stichwaffe-getoetet-a-d4c794c2-ab1b-432e-b7a0-c18e7641af94#ref=rss)
-### personen
-
-* [https://www.spiegel.de/panorama/justiz/casekow-in-brandenburg-zwei-personen-bei-attacke-mit-stichwaffe-getoetet](https://www.spiegel.de/panorama/justiz/casekow-in-brandenburg-zwei-personen-bei-attacke-mit-stichwaffe-getoetet-a-d4c794c2-ab1b-432e-b7a0-c18e7641af94#ref=rss)
-### getötet
-
-* [https://www.spiegel.de/panorama/justiz/casekow-in-brandenburg-zwei-personen-bei-attacke-mit-stichwaffe-getoetet](https://www.spiegel.de/panorama/justiz/casekow-in-brandenburg-zwei-personen-bei-attacke-mit-stichwaffe-getoetet-a-d4c794c2-ab1b-432e-b7a0-c18e7641af94#ref=rss)
-### spiegelreporter
-
-* [https://www.spiegel.de/ausland/waldbraende-in-kalifornien-spiegel-reporter-berichten-von-der-verheerenden-lage-in-los-angeles](https://www.spiegel.de/ausland/waldbraende-in-kalifornien-spiegel-reporter-berichten-von-der-verheerenden-lage-in-los-angeles-a-9a72f441-cc24-4108-bd02-98a4cdba42a8#ref=rss)
-### zoo
-
-* [https://www.spiegel.de/panorama/zoo-berlin-nikolas-algenstaedt-ist-der-bademeister-fuer-das-junge-zwergflusspferd-toni](https://www.spiegel.de/panorama/zoo-berlin-nikolas-algenstaedt-ist-der-bademeister-fuer-das-junge-zwergflusspferd-toni-a-983feea7-1395-4be2-96dc-8a7810d9096d#ref=rss)
-### nikolas
-
-* [https://www.spiegel.de/panorama/zoo-berlin-nikolas-algenstaedt-ist-der-bademeister-fuer-das-junge-zwergflusspferd-toni](https://www.spiegel.de/panorama/zoo-berlin-nikolas-algenstaedt-ist-der-bademeister-fuer-das-junge-zwergflusspferd-toni-a-983feea7-1395-4be2-96dc-8a7810d9096d#ref=rss)
-### algenstaedt
-
-* [https://www.spiegel.de/panorama/zoo-berlin-nikolas-algenstaedt-ist-der-bademeister-fuer-das-junge-zwergflusspferd-toni](https://www.spiegel.de/panorama/zoo-berlin-nikolas-algenstaedt-ist-der-bademeister-fuer-das-junge-zwergflusspferd-toni-a-983feea7-1395-4be2-96dc-8a7810d9096d#ref=rss)
-### bademeister
-
-* [https://www.spiegel.de/panorama/zoo-berlin-nikolas-algenstaedt-ist-der-bademeister-fuer-das-junge-zwergflusspferd-toni](https://www.spiegel.de/panorama/zoo-berlin-nikolas-algenstaedt-ist-der-bademeister-fuer-das-junge-zwergflusspferd-toni-a-983feea7-1395-4be2-96dc-8a7810d9096d#ref=rss)
-### toni
-
-* [https://www.spiegel.de/panorama/zoo-berlin-nikolas-algenstaedt-ist-der-bademeister-fuer-das-junge-zwergflusspferd-toni](https://www.spiegel.de/panorama/zoo-berlin-nikolas-algenstaedt-ist-der-bademeister-fuer-das-junge-zwergflusspferd-toni-a-983feea7-1395-4be2-96dc-8a7810d9096d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/deutsche-bahn-laut-sahra-wagenknecht-anfrage-mehr-straftaten-gegen-mitarbeiter-und-bundespolizisten](https://www.spiegel.de/panorama/justiz/deutsche-bahn-laut-sahra-wagenknecht-anfrage-mehr-straftaten-gegen-mitarbeiter-und-bundespolizisten-a-f46a8295-06c1-4d16-b90c-a0cb21c7d47d#ref=rss)
 
