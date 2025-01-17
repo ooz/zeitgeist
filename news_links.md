@@ -4,350 +4,398 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### woche
-
-* [https://www.spiegel.de/start/jobangebot-studentin-soll-fuer-ihr-praktikum-bezahlen-30-euro-pro-stunde](https://www.spiegel.de/start/jobangebot-studentin-soll-fuer-ihr-praktikum-bezahlen-30-euro-pro-stunde-a-78145d25-211d-48f1-896c-439dfb5d9090#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/klimaschutz-und-landwirtschaft-warum-die-gruene-woche-nur-gruen-tut-aber-es-nicht-ist](https://www.spiegel.de/wissenschaft/mensch/klimaschutz-und-landwirtschaft-warum-die-gruene-woche-nur-gruen-tut-aber-es-nicht-ist-a-ed109319-595a-4548-9008-b6633d078838#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/radhaubitze-rch-155-was-kann-das-hochmoderne-waffensystem](https://www.spiegel.de/wissenschaft/technik/radhaubitze-rch-155-was-kann-das-hochmoderne-waffensystem-a-5237d545-7abf-4493-b4a3-d09aa0e4c7a4#ref=rss)
-### david
-
-* [https://www.spiegel.de/kultur/kino/david-lynch-ist-tot-surreale-und-duestere-aesthetik-rueckblick-auf-die-beruehmtesten-werke-des-regisseurs](https://www.spiegel.de/kultur/kino/david-lynch-ist-tot-surreale-und-duestere-aesthetik-rueckblick-auf-die-beruehmtesten-werke-des-regisseurs-a-833f2630-388b-40a7-a669-b0a059c1b60b#ref=rss)
-* [https://www.spiegel.de/kultur/kino/david-lynch-ist-tot-unergruedliche-abseitigkeit](https://www.spiegel.de/kultur/kino/david-lynch-ist-tot-unergruedliche-abseitigkeit-a-f8cd82dd-bd84-4c99-bd48-e671486e25fd#ref=rss)
-### lynch
-
-* [https://www.spiegel.de/kultur/kino/david-lynch-ist-tot-surreale-und-duestere-aesthetik-rueckblick-auf-die-beruehmtesten-werke-des-regisseurs](https://www.spiegel.de/kultur/kino/david-lynch-ist-tot-surreale-und-duestere-aesthetik-rueckblick-auf-die-beruehmtesten-werke-des-regisseurs-a-833f2630-388b-40a7-a669-b0a059c1b60b#ref=rss)
-* [https://www.spiegel.de/kultur/kino/david-lynch-ist-tot-unergruedliche-abseitigkeit](https://www.spiegel.de/kultur/kino/david-lynch-ist-tot-unergruedliche-abseitigkeit-a-f8cd82dd-bd84-4c99-bd48-e671486e25fd#ref=rss)
-### zahl
-
-* [https://www.spiegel.de/wirtschaft/baugenehmigungen-zahl-sank-auch-im-november](https://www.spiegel.de/wirtschaft/baugenehmigungen-zahl-sank-auch-im-november-a-6aa8f9ce-53f8-4d0e-9935-0858f1b69416#ref=rss)
-* [https://www.spiegel.de/panorama/waldbraende-in-los-angeles-zahl-der-todesopfer-steigt-auf-27](https://www.spiegel.de/panorama/waldbraende-in-los-angeles-zahl-der-todesopfer-steigt-auf-27-a-4a7c1455-c700-4372-8410-90c797663382#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wirtschaft/grossteil-der-tarifbeschaeftigten-erhielt-inflationspraemie](https://www.spiegel.de/wirtschaft/grossteil-der-tarifbeschaeftigten-erhielt-inflationspraemie-a-b568e9ee-519a-4953-9074-1f0f3a9e63cc#ref=rss)
-* [https://www.spiegel.de/panorama/neustadt-an-der-donau-vier-verletzte-bei-brand-in-raffinerie](https://www.spiegel.de/panorama/neustadt-an-der-donau-vier-verletzte-bei-brand-in-raffinerie-a-bea4c2cc-b406-4780-b91b-ad007d18d3b7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/umfrage-zum-autokauf-preis-schlaegt-qualitaet](https://www.spiegel.de/wirtschaft/umfrage-zum-autokauf-preis-schlaegt-qualitaet-a-018e0f4f-49df-4c06-8ca5-2e0c0ea49f9a#ref=rss)
-### prozent
-
-* [https://www.spiegel.de/wirtschaft/grossteil-der-tarifbeschaeftigten-erhielt-inflationspraemie](https://www.spiegel.de/wirtschaft/grossteil-der-tarifbeschaeftigten-erhielt-inflationspraemie-a-b568e9ee-519a-4953-9074-1f0f3a9e63cc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/china-wirtschaft-unter-druck-fuenf-prozent-wachstum-reichen-nicht](https://www.spiegel.de/wirtschaft/china-wirtschaft-unter-druck-fuenf-prozent-wachstum-reichen-nicht-a-14be4ddc-9495-4afa-b423-6578001c48a4#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/netzwelt/apps/tiktok-trend-moechtegern-paedophilenjaeger-landen-vor-gericht](https://www.spiegel.de/netzwelt/apps/tiktok-trend-moechtegern-paedophilenjaeger-landen-vor-gericht-a-e8903f5f-00bb-4ecc-9045-3c6d2440d5bf#ref=rss)
-* [https://www.spiegel.de/ausland/waffenstillstand-im-israel-gaza-krieg-die-rueckkehr-der-hoffnung](https://www.spiegel.de/ausland/waffenstillstand-im-israel-gaza-krieg-die-rueckkehr-der-hoffnung-a-2d9c4279-6d2b-46a0-aa15-931d130b122e#ref=rss)
-* [https://www.spiegel.de/panorama/leute/feuer-in-los-angeles-billie-eilish-und-green-day-spielen-benefizkonzert-zur-unterstuetzung-der-opfer](https://www.spiegel.de/panorama/leute/feuer-in-los-angeles-billie-eilish-und-green-day-spielen-benefizkonzert-zur-unterstuetzung-der-opfer-a-8f49e4fa-49c1-49f9-be51-dbe937db4996#ref=rss)
-### euro
-
-* [https://www.spiegel.de/start/jobangebot-studentin-soll-fuer-ihr-praktikum-bezahlen-30-euro-pro-stunde](https://www.spiegel.de/start/jobangebot-studentin-soll-fuer-ihr-praktikum-bezahlen-30-euro-pro-stunde-a-78145d25-211d-48f1-896c-439dfb5d9090#ref=rss)
-### pro
-
-* [https://www.spiegel.de/start/jobangebot-studentin-soll-fuer-ihr-praktikum-bezahlen-30-euro-pro-stunde](https://www.spiegel.de/start/jobangebot-studentin-soll-fuer-ihr-praktikum-bezahlen-30-euro-pro-stunde-a-78145d25-211d-48f1-896c-439dfb5d9090#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/kultur/kino/usa-donald-trump-entsendet-hollywood-veteranen-als-sonderbotschafter](https://www.spiegel.de/kultur/kino/usa-donald-trump-entsendet-hollywood-veteranen-als-sonderbotschafter-a-c6bc2ca2-c525-4878-8ce7-00a11497c244#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trumps-amtseinfuehrung-obama-bush-und-zuckerberg-wer-steht-auf-der-gaesteliste](https://www.spiegel.de/ausland/donald-trumps-amtseinfuehrung-obama-bush-und-zuckerberg-wer-steht-auf-der-gaesteliste-a-6860fb16-e959-47ee-9023-65da5e579668#ref=rss)
-### joe
-
-* [https://www.spiegel.de/ausland/joe-bidens-karriere-vom-juengsten-senator-zum-aeltesten-praesidenten](https://www.spiegel.de/ausland/joe-bidens-karriere-vom-juengsten-senator-zum-aeltesten-praesidenten-a-98653216-9682-4868-a6e4-24381f07c1f3#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trumps-amtseinfuehrung-obama-bush-und-zuckerberg-wer-steht-auf-der-gaesteliste](https://www.spiegel.de/ausland/donald-trumps-amtseinfuehrung-obama-bush-und-zuckerberg-wer-steht-auf-der-gaesteliste-a-6860fb16-e959-47ee-9023-65da5e579668#ref=rss)
-### sehen
-
-* [https://www.spiegel.de/ausland/joe-bidens-karriere-vom-juengsten-senator-zum-aeltesten-praesidenten](https://www.spiegel.de/ausland/joe-bidens-karriere-vom-juengsten-senator-zum-aeltesten-praesidenten-a-98653216-9682-4868-a6e4-24381f07c1f3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/china-wirtschaft-unter-druck-fuenf-prozent-wachstum-reichen-nicht](https://www.spiegel.de/wirtschaft/china-wirtschaft-unter-druck-fuenf-prozent-wachstum-reichen-nicht-a-14be4ddc-9495-4afa-b423-6578001c48a4#ref=rss)
-* [https://www.spiegel.de/stil/ugg-boots-warum-die-klobigen-lammfellstiefel-wieder-angesagt-sind](https://www.spiegel.de/stil/ugg-boots-warum-die-klobigen-lammfellstiefel-wieder-angesagt-sind-a-a53eaf83-37cf-4d7a-b6f5-06ad67a7d7e9#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/kultur/justin-baldoni-weist-anschuldigungen-von-blake-lively-und-ryan-reynolds-zurueck-und-verklagt-sie-auf-400-millionen-dollar](https://www.spiegel.de/kultur/justin-baldoni-weist-anschuldigungen-von-blake-lively-und-ryan-reynolds-zurueck-und-verklagt-sie-auf-400-millionen-dollar-a-ed0bfba7-3ee8-49fd-8bcf-664646148ecc#ref=rss)
-* [https://www.spiegel.de/sport/tennis/australian-open-2025-naomi-osaka-muss-verletzungsbedingt-aufgeben](https://www.spiegel.de/sport/tennis/australian-open-2025-naomi-osaka-muss-verletzungsbedingt-aufgeben-a-c7822d52-b394-4dd7-93af-1d21b26059bd#ref=rss)
-* [https://www.spiegel.de/wirtschaft/baugenehmigungen-zahl-sank-auch-im-november](https://www.spiegel.de/wirtschaft/baugenehmigungen-zahl-sank-auch-im-november-a-6aa8f9ce-53f8-4d0e-9935-0858f1b69416#ref=rss)
-### osaka
-
-* [https://www.spiegel.de/sport/tennis/australian-open-2025-naomi-osaka-muss-verletzungsbedingt-aufgeben](https://www.spiegel.de/sport/tennis/australian-open-2025-naomi-osaka-muss-verletzungsbedingt-aufgeben-a-c7822d52-b394-4dd7-93af-1d21b26059bd#ref=rss)
-### tot
-
-* [https://www.spiegel.de/kultur/kino/david-lynch-ist-tot-surreale-und-duestere-aesthetik-rueckblick-auf-die-beruehmtesten-werke-des-regisseurs](https://www.spiegel.de/kultur/kino/david-lynch-ist-tot-surreale-und-duestere-aesthetik-rueckblick-auf-die-beruehmtesten-werke-des-regisseurs-a-833f2630-388b-40a7-a669-b0a059c1b60b#ref=rss)
-* [https://www.spiegel.de/kultur/kino/david-lynch-ist-tot-unergruedliche-abseitigkeit](https://www.spiegel.de/kultur/kino/david-lynch-ist-tot-unergruedliche-abseitigkeit-a-f8cd82dd-bd84-4c99-bd48-e671486e25fd#ref=rss)
-### verurteilt
-
-* [https://www.spiegel.de/ausland/pakistan-ex-premierminister-imran-khan-in-korruptionsprozess-zu-14-jahren-haft-verurteilt](https://www.spiegel.de/ausland/pakistan-ex-premierminister-imran-khan-in-korruptionsprozess-zu-14-jahren-haft-verurteilt-a-5bc89d62-e3f2-4093-8516-3970ceedf7b3#ref=rss)
-* [https://www.spiegel.de/ausland/russland-gericht-verurteilt-drei-nawalny-anwaelte-zu-mehrjaehriger-haft](https://www.spiegel.de/ausland/russland-gericht-verurteilt-drei-nawalny-anwaelte-zu-mehrjaehriger-haft-a-e6a84f45-735a-45f0-904a-64dc45a67ad4#ref=rss)
-### los
-
-* [https://www.spiegel.de/panorama/waldbraende-in-los-angeles-zahl-der-todesopfer-steigt-auf-27](https://www.spiegel.de/panorama/waldbraende-in-los-angeles-zahl-der-todesopfer-steigt-auf-27-a-4a7c1455-c700-4372-8410-90c797663382#ref=rss)
-* [https://www.spiegel.de/panorama/leute/feuer-in-los-angeles-billie-eilish-und-green-day-spielen-benefizkonzert-zur-unterstuetzung-der-opfer](https://www.spiegel.de/panorama/leute/feuer-in-los-angeles-billie-eilish-und-green-day-spielen-benefizkonzert-zur-unterstuetzung-der-opfer-a-8f49e4fa-49c1-49f9-be51-dbe937db4996#ref=rss)
-### angeles
-
-* [https://www.spiegel.de/panorama/waldbraende-in-los-angeles-zahl-der-todesopfer-steigt-auf-27](https://www.spiegel.de/panorama/waldbraende-in-los-angeles-zahl-der-todesopfer-steigt-auf-27-a-4a7c1455-c700-4372-8410-90c797663382#ref=rss)
-* [https://www.spiegel.de/panorama/leute/feuer-in-los-angeles-billie-eilish-und-green-day-spielen-benefizkonzert-zur-unterstuetzung-der-opfer](https://www.spiegel.de/panorama/leute/feuer-in-los-angeles-billie-eilish-und-green-day-spielen-benefizkonzert-zur-unterstuetzung-der-opfer-a-8f49e4fa-49c1-49f9-be51-dbe937db4996#ref=rss)
-### tarifbeschäftigten
-
-* [https://www.spiegel.de/wirtschaft/grossteil-der-tarifbeschaeftigten-erhielt-inflationspraemie](https://www.spiegel.de/wirtschaft/grossteil-der-tarifbeschaeftigten-erhielt-inflationspraemie-a-b568e9ee-519a-4953-9074-1f0f3a9e63cc#ref=rss)
-### inflationsprämie
-
-* [https://www.spiegel.de/wirtschaft/grossteil-der-tarifbeschaeftigten-erhielt-inflationspraemie](https://www.spiegel.de/wirtschaft/grossteil-der-tarifbeschaeftigten-erhielt-inflationspraemie-a-b568e9ee-519a-4953-9074-1f0f3a9e63cc#ref=rss)
-### licht
-
-* [https://www.spiegel.de/wissenschaft/weltraum-riesen-teleskop-soll-das-aelteste-licht-des-universums-einfangen](https://www.spiegel.de/wissenschaft/weltraum-riesen-teleskop-soll-das-aelteste-licht-des-universums-einfangen-a-5dc1d3e4-f993-489b-b86a-cb29d58fda61#ref=rss)
-* [https://www.spiegel.de/panorama/waldbraende-in-los-angeles-zahl-der-todesopfer-steigt-auf-27](https://www.spiegel.de/panorama/waldbraende-in-los-angeles-zahl-der-todesopfer-steigt-auf-27-a-4a7c1455-c700-4372-8410-90c797663382#ref=rss)
-### petter
-
-* [https://www.spiegel.de/sport/wintersport/wintersport-norwegens-langlaeufer-petter-northug-will-fuer-oesterreich-bei-olympia-2026-starten](https://www.spiegel.de/sport/wintersport/wintersport-norwegens-langlaeufer-petter-northug-will-fuer-oesterreich-bei-olympia-2026-starten-a-77b8b594-bc19-4a60-82a4-dd5aba838b86#ref=rss)
-### northug
-
-* [https://www.spiegel.de/sport/wintersport/wintersport-norwegens-langlaeufer-petter-northug-will-fuer-oesterreich-bei-olympia-2026-starten](https://www.spiegel.de/sport/wintersport/wintersport-norwegens-langlaeufer-petter-northug-will-fuer-oesterreich-bei-olympia-2026-starten-a-77b8b594-bc19-4a60-82a4-dd5aba838b86#ref=rss)
-### österreich
-
-* [https://www.spiegel.de/sport/wintersport/wintersport-norwegens-langlaeufer-petter-northug-will-fuer-oesterreich-bei-olympia-2026-starten](https://www.spiegel.de/sport/wintersport/wintersport-norwegens-langlaeufer-petter-northug-will-fuer-oesterreich-bei-olympia-2026-starten-a-77b8b594-bc19-4a60-82a4-dd5aba838b86#ref=rss)
-### 2026
-
-* [https://www.spiegel.de/sport/wintersport/wintersport-norwegens-langlaeufer-petter-northug-will-fuer-oesterreich-bei-olympia-2026-starten](https://www.spiegel.de/sport/wintersport/wintersport-norwegens-langlaeufer-petter-northug-will-fuer-oesterreich-bei-olympia-2026-starten-a-77b8b594-bc19-4a60-82a4-dd5aba838b86#ref=rss)
-### karriere
-
-* [https://www.spiegel.de/sport/wintersport/wintersport-norwegens-langlaeufer-petter-northug-will-fuer-oesterreich-bei-olympia-2026-starten](https://www.spiegel.de/sport/wintersport/wintersport-norwegens-langlaeufer-petter-northug-will-fuer-oesterreich-bei-olympia-2026-starten-a-77b8b594-bc19-4a60-82a4-dd5aba838b86#ref=rss)
-* [https://www.spiegel.de/ausland/joe-bidens-karriere-vom-juengsten-senator-zum-aeltesten-praesidenten](https://www.spiegel.de/ausland/joe-bidens-karriere-vom-juengsten-senator-zum-aeltesten-praesidenten-a-98653216-9682-4868-a6e4-24381f07c1f3#ref=rss)
-### spielen
-
-* [https://www.spiegel.de/sport/wintersport/wintersport-norwegens-langlaeufer-petter-northug-will-fuer-oesterreich-bei-olympia-2026-starten](https://www.spiegel.de/sport/wintersport/wintersport-norwegens-langlaeufer-petter-northug-will-fuer-oesterreich-bei-olympia-2026-starten-a-77b8b594-bc19-4a60-82a4-dd5aba838b86#ref=rss)
-* [https://www.spiegel.de/panorama/leute/feuer-in-los-angeles-billie-eilish-und-green-day-spielen-benefizkonzert-zur-unterstuetzung-der-opfer](https://www.spiegel.de/panorama/leute/feuer-in-los-angeles-billie-eilish-und-green-day-spielen-benefizkonzert-zur-unterstuetzung-der-opfer-a-8f49e4fa-49c1-49f9-be51-dbe937db4996#ref=rss)
-### rivian
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-will-kooperation-mit-e-auto-spezialist-rivian-vertiefen](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-will-kooperation-mit-e-auto-spezialist-rivian-vertiefen-a-79cb6e2e-41f7-4cc9-bc6a-be8c75323634#ref=rss)
-### allem
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-will-kooperation-mit-e-auto-spezialist-rivian-vertiefen](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-will-kooperation-mit-e-auto-spezialist-rivian-vertiefen-a-79cb6e2e-41f7-4cc9-bc6a-be8c75323634#ref=rss)
-* [https://www.spiegel.de/kultur/kino/david-lynch-ist-tot-surreale-und-duestere-aesthetik-rueckblick-auf-die-beruehmtesten-werke-des-regisseurs](https://www.spiegel.de/kultur/kino/david-lynch-ist-tot-surreale-und-duestere-aesthetik-rueckblick-auf-die-beruehmtesten-werke-des-regisseurs-a-833f2630-388b-40a7-a669-b0a059c1b60b#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/netzwelt/apps/tiktok-trend-moechtegern-paedophilenjaeger-landen-vor-gericht](https://www.spiegel.de/netzwelt/apps/tiktok-trend-moechtegern-paedophilenjaeger-landen-vor-gericht-a-e8903f5f-00bb-4ecc-9045-3c6d2440d5bf#ref=rss)
-### junge
-
-* [https://www.spiegel.de/netzwelt/apps/tiktok-trend-moechtegern-paedophilenjaeger-landen-vor-gericht](https://www.spiegel.de/netzwelt/apps/tiktok-trend-moechtegern-paedophilenjaeger-landen-vor-gericht-a-e8903f5f-00bb-4ecc-9045-3c6d2440d5bf#ref=rss)
-### usa
-
-* [https://www.spiegel.de/netzwelt/apps/tiktok-trend-moechtegern-paedophilenjaeger-landen-vor-gericht](https://www.spiegel.de/netzwelt/apps/tiktok-trend-moechtegern-paedophilenjaeger-landen-vor-gericht-a-e8903f5f-00bb-4ecc-9045-3c6d2440d5bf#ref=rss)
-* [https://www.spiegel.de/kultur/kino/usa-donald-trump-entsendet-hollywood-veteranen-als-sonderbotschafter](https://www.spiegel.de/kultur/kino/usa-donald-trump-entsendet-hollywood-veteranen-als-sonderbotschafter-a-c6bc2ca2-c525-4878-8ce7-00a11497c244#ref=rss)
-### studentin
-
-* [https://www.spiegel.de/start/jobangebot-studentin-soll-fuer-ihr-praktikum-bezahlen-30-euro-pro-stunde](https://www.spiegel.de/start/jobangebot-studentin-soll-fuer-ihr-praktikum-bezahlen-30-euro-pro-stunde-a-78145d25-211d-48f1-896c-439dfb5d9090#ref=rss)
-### bezahlen
-
-* [https://www.spiegel.de/start/jobangebot-studentin-soll-fuer-ihr-praktikum-bezahlen-30-euro-pro-stunde](https://www.spiegel.de/start/jobangebot-studentin-soll-fuer-ihr-praktikum-bezahlen-30-euro-pro-stunde-a-78145d25-211d-48f1-896c-439dfb5d9090#ref=rss)
-### 30
-
-* [https://www.spiegel.de/start/jobangebot-studentin-soll-fuer-ihr-praktikum-bezahlen-30-euro-pro-stunde](https://www.spiegel.de/start/jobangebot-studentin-soll-fuer-ihr-praktikum-bezahlen-30-euro-pro-stunde-a-78145d25-211d-48f1-896c-439dfb5d9090#ref=rss)
-### stunde
-
-* [https://www.spiegel.de/start/jobangebot-studentin-soll-fuer-ihr-praktikum-bezahlen-30-euro-pro-stunde](https://www.spiegel.de/start/jobangebot-studentin-soll-fuer-ihr-praktikum-bezahlen-30-euro-pro-stunde-a-78145d25-211d-48f1-896c-439dfb5d9090#ref=rss)
-### idee
-
-* [https://www.spiegel.de/start/jobangebot-studentin-soll-fuer-ihr-praktikum-bezahlen-30-euro-pro-stunde](https://www.spiegel.de/start/jobangebot-studentin-soll-fuer-ihr-praktikum-bezahlen-30-euro-pro-stunde-a-78145d25-211d-48f1-896c-439dfb5d9090#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/robert-habeck-wieso-kassenbeitraege-auf-kapitalertraege-sinnvoll-waeren-aber-nicht-die-beste-idee](https://www.spiegel.de/wirtschaft/soziales/robert-habeck-wieso-kassenbeitraege-auf-kapitalertraege-sinnvoll-waeren-aber-nicht-die-beste-idee-a-832747d1-aa34-41b1-9e9c-a10ee046fcd7#ref=rss)
-### klimaschutz
-
-* [https://www.spiegel.de/wissenschaft/mensch/klimaschutz-und-landwirtschaft-warum-die-gruene-woche-nur-gruen-tut-aber-es-nicht-ist](https://www.spiegel.de/wissenschaft/mensch/klimaschutz-und-landwirtschaft-warum-die-gruene-woche-nur-gruen-tut-aber-es-nicht-ist-a-ed109319-595a-4548-9008-b6633d078838#ref=rss)
-### landwirtschaft
-
-* [https://www.spiegel.de/wissenschaft/mensch/klimaschutz-und-landwirtschaft-warum-die-gruene-woche-nur-gruen-tut-aber-es-nicht-ist](https://www.spiegel.de/wissenschaft/mensch/klimaschutz-und-landwirtschaft-warum-die-gruene-woche-nur-gruen-tut-aber-es-nicht-ist-a-ed109319-595a-4548-9008-b6633d078838#ref=rss)
-### vergangenen
-
-* [https://www.spiegel.de/wissenschaft/mensch/klimaschutz-und-landwirtschaft-warum-die-gruene-woche-nur-gruen-tut-aber-es-nicht-ist](https://www.spiegel.de/wissenschaft/mensch/klimaschutz-und-landwirtschaft-warum-die-gruene-woche-nur-gruen-tut-aber-es-nicht-ist-a-ed109319-595a-4548-9008-b6633d078838#ref=rss)
-* [https://www.spiegel.de/wirtschaft/china-wirtschaft-unter-druck-fuenf-prozent-wachstum-reichen-nicht](https://www.spiegel.de/wirtschaft/china-wirtschaft-unter-druck-fuenf-prozent-wachstum-reichen-nicht-a-14be4ddc-9495-4afa-b423-6578001c48a4#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/wissenschaft/mensch/klimaschutz-und-landwirtschaft-warum-die-gruene-woche-nur-gruen-tut-aber-es-nicht-ist](https://www.spiegel.de/wissenschaft/mensch/klimaschutz-und-landwirtschaft-warum-die-gruene-woche-nur-gruen-tut-aber-es-nicht-ist-a-ed109319-595a-4548-9008-b6633d078838#ref=rss)
-* [https://www.spiegel.de/ausland/pakistan-ex-premierminister-imran-khan-in-korruptionsprozess-zu-14-jahren-haft-verurteilt](https://www.spiegel.de/ausland/pakistan-ex-premierminister-imran-khan-in-korruptionsprozess-zu-14-jahren-haft-verurteilt-a-5bc89d62-e3f2-4093-8516-3970ceedf7b3#ref=rss)
+* [https://www.spiegel.de/ausland/usa-donald-trumps-amtseinfuehrung-soll-wegen-kaelte-drinnen-stattfinden](https://www.spiegel.de/ausland/usa-donald-trumps-amtseinfuehrung-soll-wegen-kaelte-drinnen-stattfinden-a-9d15cab8-6768-48d1-82c0-3b6de1468674#ref=rss)
+* [https://www.spiegel.de/kultur/donald-trump-offizielles-portraetfoto-des-47-praesidenten-in-der-bildanalyse](https://www.spiegel.de/kultur/donald-trump-offizielles-portraetfoto-des-47-praesidenten-in-der-bildanalyse-a-1351770c-15fe-4a3e-ad91-4d3c0799d83e#ref=rss)
+* [https://www.spiegel.de/ausland/usa-und-china-donald-trump-telefonierte-mit-xi-jinping](https://www.spiegel.de/ausland/usa-und-china-donald-trump-telefonierte-mit-xi-jinping-a-854422bc-f179-4d31-afbf-f6ce6a63c6a0#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/tiktok-scheitert-am-us-supreme-court](https://www.spiegel.de/netzwelt/netzpolitik/tiktok-scheitert-am-us-supreme-court-a-7769fca9-f387-4442-a1b2-a769abdc13c0#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/kultur/kino/usa-donald-trump-entsendet-hollywood-veteranen-als-sonderbotschafter](https://www.spiegel.de/kultur/kino/usa-donald-trump-entsendet-hollywood-veteranen-als-sonderbotschafter-a-c6bc2ca2-c525-4878-8ce7-00a11497c244#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trumps-amtseinfuehrung-obama-bush-und-zuckerberg-wer-steht-auf-der-gaesteliste](https://www.spiegel.de/ausland/donald-trumps-amtseinfuehrung-obama-bush-und-zuckerberg-wer-steht-auf-der-gaesteliste-a-6860fb16-e959-47ee-9023-65da5e579668#ref=rss)
-### bidens
+* [https://www.spiegel.de/ausland/usa-donald-trumps-amtseinfuehrung-soll-wegen-kaelte-drinnen-stattfinden](https://www.spiegel.de/ausland/usa-donald-trumps-amtseinfuehrung-soll-wegen-kaelte-drinnen-stattfinden-a-9d15cab8-6768-48d1-82c0-3b6de1468674#ref=rss)
+* [https://www.spiegel.de/kultur/donald-trump-offizielles-portraetfoto-des-47-praesidenten-in-der-bildanalyse](https://www.spiegel.de/kultur/donald-trump-offizielles-portraetfoto-des-47-praesidenten-in-der-bildanalyse-a-1351770c-15fe-4a3e-ad91-4d3c0799d83e#ref=rss)
+* [https://www.spiegel.de/ausland/usa-und-china-donald-trump-telefonierte-mit-xi-jinping](https://www.spiegel.de/ausland/usa-und-china-donald-trump-telefonierte-mit-xi-jinping-a-854422bc-f179-4d31-afbf-f6ce6a63c6a0#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/tiktok-scheitert-am-us-supreme-court](https://www.spiegel.de/netzwelt/netzpolitik/tiktok-scheitert-am-us-supreme-court-a-7769fca9-f387-4442-a1b2-a769abdc13c0#ref=rss)
+### friedrich
 
-* [https://www.spiegel.de/ausland/joe-bidens-karriere-vom-juengsten-senator-zum-aeltesten-praesidenten](https://www.spiegel.de/ausland/joe-bidens-karriere-vom-juengsten-senator-zum-aeltesten-praesidenten-a-98653216-9682-4868-a6e4-24381f07c1f3#ref=rss)
-### premier
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-podcast-a-27d569dd-ca71-4e98-9d4b-eb4c9db678f8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl](https://www.spiegel.de/politik/deutschland/friedrich-merz-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-a-9db89204-76f7-4fa4-89a5-648c762dde0d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-stellt-buch-ueber-friedrich-merz-vor-man-muss-nur-lange-genug-kandidieren](https://www.spiegel.de/politik/deutschland/markus-soeder-stellt-buch-ueber-friedrich-merz-vor-man-muss-nur-lange-genug-kandidieren-a-4128327e-9301-4894-9c2e-d4280a166b93#ref=rss)
+### merz
 
-* [https://www.spiegel.de/sport/fussball/premier-league-erling-haaland-verlaengert-bis-2034-bei-manchester-city](https://www.spiegel.de/sport/fussball/premier-league-erling-haaland-verlaengert-bis-2034-bei-manchester-city-a-340d58a4-764f-4d30-b7b4-db02498ea1b7#ref=rss)
-* [https://www.spiegel.de/ausland/pakistan-ex-premierminister-imran-khan-in-korruptionsprozess-zu-14-jahren-haft-verurteilt](https://www.spiegel.de/ausland/pakistan-ex-premierminister-imran-khan-in-korruptionsprozess-zu-14-jahren-haft-verurteilt-a-5bc89d62-e3f2-4093-8516-3970ceedf7b3#ref=rss)
-### erling
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-podcast-a-27d569dd-ca71-4e98-9d4b-eb4c9db678f8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl](https://www.spiegel.de/politik/deutschland/friedrich-merz-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-a-9db89204-76f7-4fa4-89a5-648c762dde0d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-stellt-buch-ueber-friedrich-merz-vor-man-muss-nur-lange-genug-kandidieren](https://www.spiegel.de/politik/deutschland/markus-soeder-stellt-buch-ueber-friedrich-merz-vor-man-muss-nur-lange-genug-kandidieren-a-4128327e-9301-4894-9c2e-d4280a166b93#ref=rss)
+### markus
 
-* [https://www.spiegel.de/sport/fussball/premier-league-erling-haaland-verlaengert-bis-2034-bei-manchester-city](https://www.spiegel.de/sport/fussball/premier-league-erling-haaland-verlaengert-bis-2034-bei-manchester-city-a-340d58a4-764f-4d30-b7b4-db02498ea1b7#ref=rss)
-### haaland
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-podcast-a-27d569dd-ca71-4e98-9d4b-eb4c9db678f8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl](https://www.spiegel.de/politik/deutschland/friedrich-merz-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-a-9db89204-76f7-4fa4-89a5-648c762dde0d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-stellt-buch-ueber-friedrich-merz-vor-man-muss-nur-lange-genug-kandidieren](https://www.spiegel.de/politik/deutschland/markus-soeder-stellt-buch-ueber-friedrich-merz-vor-man-muss-nur-lange-genug-kandidieren-a-4128327e-9301-4894-9c2e-d4280a166b93#ref=rss)
+### söder
 
-* [https://www.spiegel.de/sport/fussball/premier-league-erling-haaland-verlaengert-bis-2034-bei-manchester-city](https://www.spiegel.de/sport/fussball/premier-league-erling-haaland-verlaengert-bis-2034-bei-manchester-city-a-340d58a4-764f-4d30-b7b4-db02498ea1b7#ref=rss)
-### 2034
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-podcast-a-27d569dd-ca71-4e98-9d4b-eb4c9db678f8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl](https://www.spiegel.de/politik/deutschland/friedrich-merz-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-a-9db89204-76f7-4fa4-89a5-648c762dde0d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-stellt-buch-ueber-friedrich-merz-vor-man-muss-nur-lange-genug-kandidieren](https://www.spiegel.de/politik/deutschland/markus-soeder-stellt-buch-ueber-friedrich-merz-vor-man-muss-nur-lange-genug-kandidieren-a-4128327e-9301-4894-9c2e-d4280a166b93#ref=rss)
+### david
 
-* [https://www.spiegel.de/sport/fussball/premier-league-erling-haaland-verlaengert-bis-2034-bei-manchester-city](https://www.spiegel.de/sport/fussball/premier-league-erling-haaland-verlaengert-bis-2034-bei-manchester-city-a-340d58a4-764f-4d30-b7b4-db02498ea1b7#ref=rss)
-### manchester
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-demokratie-in-deutschland-erling-haaland-david-lynch](https://www.spiegel.de/politik/deutschland/news-des-tages-demokratie-in-deutschland-erling-haaland-david-lynch-a-804109cf-02d0-48f2-b2cf-be79ebcb6bcf#ref=rss)
+* [https://www.spiegel.de/kultur/kino/david-lynch-und-seine-filme-visionaer-und-kryptiker](https://www.spiegel.de/kultur/kino/david-lynch-und-seine-filme-visionaer-und-kryptiker-a-6b91e3fd-3168-4374-9d7b-be54c917b86a#ref=rss)
+### lynch
 
-* [https://www.spiegel.de/sport/fussball/premier-league-erling-haaland-verlaengert-bis-2034-bei-manchester-city](https://www.spiegel.de/sport/fussball/premier-league-erling-haaland-verlaengert-bis-2034-bei-manchester-city-a-340d58a4-764f-4d30-b7b4-db02498ea1b7#ref=rss)
-### city
-
-* [https://www.spiegel.de/sport/fussball/premier-league-erling-haaland-verlaengert-bis-2034-bei-manchester-city](https://www.spiegel.de/sport/fussball/premier-league-erling-haaland-verlaengert-bis-2034-bei-manchester-city-a-340d58a4-764f-4d30-b7b4-db02498ea1b7#ref=rss)
-### maul
-
-* [https://www.spiegel.de/wirtschaft/verdachtsfall-von-maul-und-klauenseuche-nicht-bestaetigt](https://www.spiegel.de/wirtschaft/verdachtsfall-von-maul-und-klauenseuche-nicht-bestaetigt-a-f6c928c9-12e6-45c2-b2c3-56cba19f0603#ref=rss)
-### klauenseuche
-
-* [https://www.spiegel.de/wirtschaft/verdachtsfall-von-maul-und-klauenseuche-nicht-bestaetigt](https://www.spiegel.de/wirtschaft/verdachtsfall-von-maul-und-klauenseuche-nicht-bestaetigt-a-f6c928c9-12e6-45c2-b2c3-56cba19f0603#ref=rss)
-### experten
-
-* [https://www.spiegel.de/wirtschaft/verdachtsfall-von-maul-und-klauenseuche-nicht-bestaetigt](https://www.spiegel.de/wirtschaft/verdachtsfall-von-maul-und-klauenseuche-nicht-bestaetigt-a-f6c928c9-12e6-45c2-b2c3-56cba19f0603#ref=rss)
-* [https://www.spiegel.de/wirtschaft/china-wirtschaft-unter-druck-fuenf-prozent-wachstum-reichen-nicht](https://www.spiegel.de/wirtschaft/china-wirtschaft-unter-druck-fuenf-prozent-wachstum-reichen-nicht-a-14be4ddc-9495-4afa-b423-6578001c48a4#ref=rss)
-### weiteren
-
-* [https://www.spiegel.de/wirtschaft/verdachtsfall-von-maul-und-klauenseuche-nicht-bestaetigt](https://www.spiegel.de/wirtschaft/verdachtsfall-von-maul-und-klauenseuche-nicht-bestaetigt-a-f6c928c9-12e6-45c2-b2c3-56cba19f0603#ref=rss)
-* [https://www.spiegel.de/ausland/pakistan-ex-premierminister-imran-khan-in-korruptionsprozess-zu-14-jahren-haft-verurteilt](https://www.spiegel.de/ausland/pakistan-ex-premierminister-imran-khan-in-korruptionsprozess-zu-14-jahren-haft-verurteilt-a-5bc89d62-e3f2-4093-8516-3970ceedf7b3#ref=rss)
-### justin
-
-* [https://www.spiegel.de/kultur/justin-baldoni-weist-anschuldigungen-von-blake-lively-und-ryan-reynolds-zurueck-und-verklagt-sie-auf-400-millionen-dollar](https://www.spiegel.de/kultur/justin-baldoni-weist-anschuldigungen-von-blake-lively-und-ryan-reynolds-zurueck-und-verklagt-sie-auf-400-millionen-dollar-a-ed0bfba7-3ee8-49fd-8bcf-664646148ecc#ref=rss)
-### baldoni
-
-* [https://www.spiegel.de/kultur/justin-baldoni-weist-anschuldigungen-von-blake-lively-und-ryan-reynolds-zurueck-und-verklagt-sie-auf-400-millionen-dollar](https://www.spiegel.de/kultur/justin-baldoni-weist-anschuldigungen-von-blake-lively-und-ryan-reynolds-zurueck-und-verklagt-sie-auf-400-millionen-dollar-a-ed0bfba7-3ee8-49fd-8bcf-664646148ecc#ref=rss)
-### weist
-
-* [https://www.spiegel.de/kultur/justin-baldoni-weist-anschuldigungen-von-blake-lively-und-ryan-reynolds-zurueck-und-verklagt-sie-auf-400-millionen-dollar](https://www.spiegel.de/kultur/justin-baldoni-weist-anschuldigungen-von-blake-lively-und-ryan-reynolds-zurueck-und-verklagt-sie-auf-400-millionen-dollar-a-ed0bfba7-3ee8-49fd-8bcf-664646148ecc#ref=rss)
-### blake
-
-* [https://www.spiegel.de/kultur/justin-baldoni-weist-anschuldigungen-von-blake-lively-und-ryan-reynolds-zurueck-und-verklagt-sie-auf-400-millionen-dollar](https://www.spiegel.de/kultur/justin-baldoni-weist-anschuldigungen-von-blake-lively-und-ryan-reynolds-zurueck-und-verklagt-sie-auf-400-millionen-dollar-a-ed0bfba7-3ee8-49fd-8bcf-664646148ecc#ref=rss)
-### lively
-
-* [https://www.spiegel.de/kultur/justin-baldoni-weist-anschuldigungen-von-blake-lively-und-ryan-reynolds-zurueck-und-verklagt-sie-auf-400-millionen-dollar](https://www.spiegel.de/kultur/justin-baldoni-weist-anschuldigungen-von-blake-lively-und-ryan-reynolds-zurueck-und-verklagt-sie-auf-400-millionen-dollar-a-ed0bfba7-3ee8-49fd-8bcf-664646148ecc#ref=rss)
-### ryan
-
-* [https://www.spiegel.de/kultur/justin-baldoni-weist-anschuldigungen-von-blake-lively-und-ryan-reynolds-zurueck-und-verklagt-sie-auf-400-millionen-dollar](https://www.spiegel.de/kultur/justin-baldoni-weist-anschuldigungen-von-blake-lively-und-ryan-reynolds-zurueck-und-verklagt-sie-auf-400-millionen-dollar-a-ed0bfba7-3ee8-49fd-8bcf-664646148ecc#ref=rss)
-### reynolds
-
-* [https://www.spiegel.de/kultur/justin-baldoni-weist-anschuldigungen-von-blake-lively-und-ryan-reynolds-zurueck-und-verklagt-sie-auf-400-millionen-dollar](https://www.spiegel.de/kultur/justin-baldoni-weist-anschuldigungen-von-blake-lively-und-ryan-reynolds-zurueck-und-verklagt-sie-auf-400-millionen-dollar-a-ed0bfba7-3ee8-49fd-8bcf-664646148ecc#ref=rss)
-### verklagt
-
-* [https://www.spiegel.de/kultur/justin-baldoni-weist-anschuldigungen-von-blake-lively-und-ryan-reynolds-zurueck-und-verklagt-sie-auf-400-millionen-dollar](https://www.spiegel.de/kultur/justin-baldoni-weist-anschuldigungen-von-blake-lively-und-ryan-reynolds-zurueck-und-verklagt-sie-auf-400-millionen-dollar-a-ed0bfba7-3ee8-49fd-8bcf-664646148ecc#ref=rss)
-### australian
-
-* [https://www.spiegel.de/sport/tennis/australian-open-2025-naomi-osaka-muss-verletzungsbedingt-aufgeben](https://www.spiegel.de/sport/tennis/australian-open-2025-naomi-osaka-muss-verletzungsbedingt-aufgeben-a-c7822d52-b394-4dd7-93af-1d21b26059bd#ref=rss)
-* [https://www.spiegel.de/sport/tennis/australian-open-2025-alexander-zverev-erreicht-achtelfinale-laura-siegemund-scheidet-aus](https://www.spiegel.de/sport/tennis/australian-open-2025-alexander-zverev-erreicht-achtelfinale-laura-siegemund-scheidet-aus-a-c388ea7c-8b77-4533-acb9-0da21dbabb20#ref=rss)
-### open
-
-* [https://www.spiegel.de/sport/tennis/australian-open-2025-naomi-osaka-muss-verletzungsbedingt-aufgeben](https://www.spiegel.de/sport/tennis/australian-open-2025-naomi-osaka-muss-verletzungsbedingt-aufgeben-a-c7822d52-b394-4dd7-93af-1d21b26059bd#ref=rss)
-* [https://www.spiegel.de/sport/tennis/australian-open-2025-alexander-zverev-erreicht-achtelfinale-laura-siegemund-scheidet-aus](https://www.spiegel.de/sport/tennis/australian-open-2025-alexander-zverev-erreicht-achtelfinale-laura-siegemund-scheidet-aus-a-c388ea7c-8b77-4533-acb9-0da21dbabb20#ref=rss)
-### 2025
-
-* [https://www.spiegel.de/sport/tennis/australian-open-2025-naomi-osaka-muss-verletzungsbedingt-aufgeben](https://www.spiegel.de/sport/tennis/australian-open-2025-naomi-osaka-muss-verletzungsbedingt-aufgeben-a-c7822d52-b394-4dd7-93af-1d21b26059bd#ref=rss)
-* [https://www.spiegel.de/sport/tennis/australian-open-2025-alexander-zverev-erreicht-achtelfinale-laura-siegemund-scheidet-aus](https://www.spiegel.de/sport/tennis/australian-open-2025-alexander-zverev-erreicht-achtelfinale-laura-siegemund-scheidet-aus-a-c388ea7c-8b77-4533-acb9-0da21dbabb20#ref=rss)
-### naomi
-
-* [https://www.spiegel.de/sport/tennis/australian-open-2025-naomi-osaka-muss-verletzungsbedingt-aufgeben](https://www.spiegel.de/sport/tennis/australian-open-2025-naomi-osaka-muss-verletzungsbedingt-aufgeben-a-c7822d52-b394-4dd7-93af-1d21b26059bd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-demokratie-in-deutschland-erling-haaland-david-lynch](https://www.spiegel.de/politik/deutschland/news-des-tages-demokratie-in-deutschland-erling-haaland-david-lynch-a-804109cf-02d0-48f2-b2cf-be79ebcb6bcf#ref=rss)
+* [https://www.spiegel.de/kultur/kino/david-lynch-und-seine-filme-visionaer-und-kryptiker](https://www.spiegel.de/kultur/kino/david-lynch-und-seine-filme-visionaer-und-kryptiker-a-6b91e3fd-3168-4374-9d7b-be54c917b86a#ref=rss)
 ### viele
 
-* [https://www.spiegel.de/kultur/kino/david-lynch-ist-tot-surreale-und-duestere-aesthetik-rueckblick-auf-die-beruehmtesten-werke-des-regisseurs](https://www.spiegel.de/kultur/kino/david-lynch-ist-tot-surreale-und-duestere-aesthetik-rueckblick-auf-die-beruehmtesten-werke-des-regisseurs-a-833f2630-388b-40a7-a669-b0a059c1b60b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/robert-habeck-wieso-kassenbeitraege-auf-kapitalertraege-sinnvoll-waeren-aber-nicht-die-beste-idee](https://www.spiegel.de/wirtschaft/soziales/robert-habeck-wieso-kassenbeitraege-auf-kapitalertraege-sinnvoll-waeren-aber-nicht-die-beste-idee-a-832747d1-aa34-41b1-9e9c-a10ee046fcd7#ref=rss)
-### filme
+* [https://www.spiegel.de/wissenschaft/mensch/warum-eltern-eher-maedchen-bevorzugen](https://www.spiegel.de/wissenschaft/mensch/warum-eltern-eher-maedchen-bevorzugen-a-f1235182-06c1-4f81-9139-423e2bb42964#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-polizeikosten-bei-risikospielen-wo-gibt-es-viele-dieser-partien](https://www.spiegel.de/sport/fussball/fussball-bundesliga-polizeikosten-bei-risikospielen-wo-gibt-es-viele-dieser-partien-a-ebc83b7c-113a-4c1f-8943-8eeec44557d6#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/franziska-van-almsick-hat-probleme-beim-googeln](https://www.spiegel.de/netzwelt/web/franziska-van-almsick-hat-probleme-beim-googeln-a-2f721339-a076-4eda-a176-0cefd7033752#ref=rss)
+### franziska
 
-* [https://www.spiegel.de/kultur/kino/david-lynch-ist-tot-surreale-und-duestere-aesthetik-rueckblick-auf-die-beruehmtesten-werke-des-regisseurs](https://www.spiegel.de/kultur/kino/david-lynch-ist-tot-surreale-und-duestere-aesthetik-rueckblick-auf-die-beruehmtesten-werke-des-regisseurs-a-833f2630-388b-40a7-a669-b0a059c1b60b#ref=rss)
-* [https://www.spiegel.de/kultur/kino/david-lynch-ist-tot-unergruedliche-abseitigkeit](https://www.spiegel.de/kultur/kino/david-lynch-ist-tot-unergruedliche-abseitigkeit-a-f8cd82dd-bd84-4c99-bd48-e671486e25fd#ref=rss)
-### machte
+* [https://www.spiegel.de/politik/deutschland/juli-chefin-franziska-brandmann-zur-kritik-an-fdp-plaenen-quatsch](https://www.spiegel.de/politik/deutschland/juli-chefin-franziska-brandmann-zur-kritik-an-fdp-plaenen-quatsch-a-c2f33bb7-4e8a-422e-b2c8-4bdd7cadaecb#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/franziska-van-almsick-hat-probleme-beim-googeln](https://www.spiegel.de/netzwelt/web/franziska-van-almsick-hat-probleme-beim-googeln-a-2f721339-a076-4eda-a176-0cefd7033752#ref=rss)
+### russland
 
-* [https://www.spiegel.de/kultur/kino/david-lynch-ist-tot-surreale-und-duestere-aesthetik-rueckblick-auf-die-beruehmtesten-werke-des-regisseurs](https://www.spiegel.de/kultur/kino/david-lynch-ist-tot-surreale-und-duestere-aesthetik-rueckblick-auf-die-beruehmtesten-werke-des-regisseurs-a-833f2630-388b-40a7-a669-b0a059c1b60b#ref=rss)
-* [https://www.spiegel.de/kultur/kino/david-lynch-ist-tot-unergruedliche-abseitigkeit](https://www.spiegel.de/kultur/kino/david-lynch-ist-tot-unergruedliche-abseitigkeit-a-f8cd82dd-bd84-4c99-bd48-e671486e25fd#ref=rss)
-### november
+* [https://www.spiegel.de/ausland/frankreich-und-rumaenien-melden-russische-provokationen](https://www.spiegel.de/ausland/frankreich-und-rumaenien-melden-russische-provokationen-a-c1182966-2c86-458b-8140-121c4d5431ff#ref=rss)
+* [https://www.spiegel.de/ausland/russland-und-seine-partnerschaft-mit-iran-pakt-der-verlierer](https://www.spiegel.de/ausland/russland-und-seine-partnerschaft-mit-iran-pakt-der-verlierer-a-f68bb5a2-abe1-4752-ae34-1bf643ae76ef#ref=rss)
+### unter
 
-* [https://www.spiegel.de/wirtschaft/baugenehmigungen-zahl-sank-auch-im-november](https://www.spiegel.de/wirtschaft/baugenehmigungen-zahl-sank-auch-im-november-a-6aa8f9ce-53f8-4d0e-9935-0858f1b69416#ref=rss)
-### jahr
+* [https://www.spiegel.de/panorama/justiz/mulhouse-leichenfund-frau-und-kinder-unter-verdacht](https://www.spiegel.de/panorama/justiz/mulhouse-leichenfund-frau-und-kinder-unter-verdacht-a-41971b5e-9bde-4580-a5cd-c9c830a0e0db#ref=rss)
+* [https://www.spiegel.de/ausland/usa-donald-trumps-amtseinfuehrung-soll-wegen-kaelte-drinnen-stattfinden](https://www.spiegel.de/ausland/usa-donald-trumps-amtseinfuehrung-soll-wegen-kaelte-drinnen-stattfinden-a-9d15cab8-6768-48d1-82c0-3b6de1468674#ref=rss)
+* [https://www.spiegel.de/ausland/usa-und-china-donald-trump-telefonierte-mit-xi-jinping](https://www.spiegel.de/ausland/usa-und-china-donald-trump-telefonierte-mit-xi-jinping-a-854422bc-f179-4d31-afbf-f6ce6a63c6a0#ref=rss)
+### entdeckt
 
-* [https://www.spiegel.de/wirtschaft/baugenehmigungen-zahl-sank-auch-im-november](https://www.spiegel.de/wirtschaft/baugenehmigungen-zahl-sank-auch-im-november-a-6aa8f9ce-53f8-4d0e-9935-0858f1b69416#ref=rss)
-* [https://www.spiegel.de/wirtschaft/china-wirtschaft-unter-druck-fuenf-prozent-wachstum-reichen-nicht](https://www.spiegel.de/wirtschaft/china-wirtschaft-unter-druck-fuenf-prozent-wachstum-reichen-nicht-a-14be4ddc-9495-4afa-b423-6578001c48a4#ref=rss)
-### selbst
+* [https://www.spiegel.de/panorama/justiz/mulhouse-leichenfund-frau-und-kinder-unter-verdacht](https://www.spiegel.de/panorama/justiz/mulhouse-leichenfund-frau-und-kinder-unter-verdacht-a-41971b5e-9bde-4580-a5cd-c9c830a0e0db#ref=rss)
+* [https://www.spiegel.de/wissenschaft/pompeji-antikes-luxus-spa-in-den-ruinen-der-verschuetteten-stadt-entdeckt](https://www.spiegel.de/wissenschaft/pompeji-antikes-luxus-spa-in-den-ruinen-der-verschuetteten-stadt-entdeckt-a-d34ec1ce-0646-4f5d-a8fe-5563a6331ac2#ref=rss)
+### israel
 
-* [https://www.spiegel.de/kultur/kino/david-lynch-ist-tot-unergruedliche-abseitigkeit](https://www.spiegel.de/kultur/kino/david-lynch-ist-tot-unergruedliche-abseitigkeit-a-f8cd82dd-bd84-4c99-bd48-e671486e25fd#ref=rss)
-* [https://www.spiegel.de/wirtschaft/china-wirtschaft-unter-druck-fuenf-prozent-wachstum-reichen-nicht](https://www.spiegel.de/wirtschaft/china-wirtschaft-unter-druck-fuenf-prozent-wachstum-reichen-nicht-a-14be4ddc-9495-4afa-b423-6578001c48a4#ref=rss)
-### imran
+* [https://www.spiegel.de/ausland/israel-und-die-waffenruhe-in-gaza-eine-strategische-niederlage-kommentar](https://www.spiegel.de/ausland/israel-und-die-waffenruhe-in-gaza-eine-strategische-niederlage-kommentar-a-d5fbf377-018c-439d-802c-0ddab0955b8c#ref=rss)
+* [https://www.spiegel.de/ausland/israel-hisbollah-konflikt-uno-friedenstruppen-finden-mehr-als-100-waffendepots-im-sueden-des-libanon](https://www.spiegel.de/ausland/israel-hisbollah-konflikt-uno-friedenstruppen-finden-mehr-als-100-waffendepots-im-sueden-des-libanon-a-78f5b461-3fa7-4261-aa05-687029550827#ref=rss)
+### partei
 
-* [https://www.spiegel.de/ausland/pakistan-ex-premierminister-imran-khan-in-korruptionsprozess-zu-14-jahren-haft-verurteilt](https://www.spiegel.de/ausland/pakistan-ex-premierminister-imran-khan-in-korruptionsprozess-zu-14-jahren-haft-verurteilt-a-5bc89d62-e3f2-4093-8516-3970ceedf7b3#ref=rss)
-### khan
+* [https://www.spiegel.de/politik/deutschland/juli-chefin-franziska-brandmann-zur-kritik-an-fdp-plaenen-quatsch](https://www.spiegel.de/politik/deutschland/juli-chefin-franziska-brandmann-zur-kritik-an-fdp-plaenen-quatsch-a-c2f33bb7-4e8a-422e-b2c8-4bdd7cadaecb#ref=rss)
+* [https://www.spiegel.de/ausland/kanada-mark-carney-und-chrystia-freeland-bewerben-sich-um-amt-des-premierministers](https://www.spiegel.de/ausland/kanada-mark-carney-und-chrystia-freeland-bewerben-sich-um-amt-des-premierministers-a-6d81b535-717c-4d78-8d2a-088df0bd0457#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/oesterreich-offener-brief-aus-der-kultur-gegen-koalition-mit-fpoe](https://www.spiegel.de/kultur/literatur/oesterreich-offener-brief-aus-der-kultur-gegen-koalition-mit-fpoe-a-b84807ca-62aa-4843-8246-b1790295db4b#ref=rss)
+### blue
 
-* [https://www.spiegel.de/ausland/pakistan-ex-premierminister-imran-khan-in-korruptionsprozess-zu-14-jahren-haft-verurteilt](https://www.spiegel.de/ausland/pakistan-ex-premierminister-imran-khan-in-korruptionsprozess-zu-14-jahren-haft-verurteilt-a-5bc89d62-e3f2-4093-8516-3970ceedf7b3#ref=rss)
-### haft
+* [https://www.spiegel.de/kultur/kino/david-lynch-und-seine-filme-visionaer-und-kryptiker](https://www.spiegel.de/kultur/kino/david-lynch-und-seine-filme-visionaer-und-kryptiker-a-6b91e3fd-3168-4374-9d7b-be54c917b86a#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/spacex-und-blue-origin-jeff-bezos-gelingt-der-flug-elon-musk-die-landung](https://www.spiegel.de/wissenschaft/weltall/spacex-und-blue-origin-jeff-bezos-gelingt-der-flug-elon-musk-die-landung-a-8f414fc1-c324-4815-a9cc-de950128742b#ref=rss)
+### tiktok
 
-* [https://www.spiegel.de/ausland/pakistan-ex-premierminister-imran-khan-in-korruptionsprozess-zu-14-jahren-haft-verurteilt](https://www.spiegel.de/ausland/pakistan-ex-premierminister-imran-khan-in-korruptionsprozess-zu-14-jahren-haft-verurteilt-a-5bc89d62-e3f2-4093-8516-3970ceedf7b3#ref=rss)
-* [https://www.spiegel.de/ausland/russland-gericht-verurteilt-drei-nawalny-anwaelte-zu-mehrjaehriger-haft](https://www.spiegel.de/ausland/russland-gericht-verurteilt-drei-nawalny-anwaelte-zu-mehrjaehriger-haft-a-e6a84f45-735a-45f0-904a-64dc45a67ad4#ref=rss)
-### gefängnis
+* [https://www.spiegel.de/ausland/usa-und-china-donald-trump-telefonierte-mit-xi-jinping](https://www.spiegel.de/ausland/usa-und-china-donald-trump-telefonierte-mit-xi-jinping-a-854422bc-f179-4d31-afbf-f6ce6a63c6a0#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/tiktok-scheitert-am-us-supreme-court](https://www.spiegel.de/netzwelt/netzpolitik/tiktok-scheitert-am-us-supreme-court-a-7769fca9-f387-4442-a1b2-a769abdc13c0#ref=rss)
+### mulhouse
 
-* [https://www.spiegel.de/ausland/pakistan-ex-premierminister-imran-khan-in-korruptionsprozess-zu-14-jahren-haft-verurteilt](https://www.spiegel.de/ausland/pakistan-ex-premierminister-imran-khan-in-korruptionsprozess-zu-14-jahren-haft-verurteilt-a-5bc89d62-e3f2-4093-8516-3970ceedf7b3#ref=rss)
-* [https://www.spiegel.de/ausland/russland-gericht-verurteilt-drei-nawalny-anwaelte-zu-mehrjaehriger-haft](https://www.spiegel.de/ausland/russland-gericht-verurteilt-drei-nawalny-anwaelte-zu-mehrjaehriger-haft-a-e6a84f45-735a-45f0-904a-64dc45a67ad4#ref=rss)
-### mehrere
+* [https://www.spiegel.de/panorama/justiz/mulhouse-leichenfund-frau-und-kinder-unter-verdacht](https://www.spiegel.de/panorama/justiz/mulhouse-leichenfund-frau-und-kinder-unter-verdacht-a-41971b5e-9bde-4580-a5cd-c9c830a0e0db#ref=rss)
+### usa
 
-* [https://www.spiegel.de/ausland/pakistan-ex-premierminister-imran-khan-in-korruptionsprozess-zu-14-jahren-haft-verurteilt](https://www.spiegel.de/ausland/pakistan-ex-premierminister-imran-khan-in-korruptionsprozess-zu-14-jahren-haft-verurteilt-a-5bc89d62-e3f2-4093-8516-3970ceedf7b3#ref=rss)
-* [https://www.spiegel.de/panorama/leute/feuer-in-los-angeles-billie-eilish-und-green-day-spielen-benefizkonzert-zur-unterstuetzung-der-opfer](https://www.spiegel.de/panorama/leute/feuer-in-los-angeles-billie-eilish-und-green-day-spielen-benefizkonzert-zur-unterstuetzung-der-opfer-a-8f49e4fa-49c1-49f9-be51-dbe937db4996#ref=rss)
-### feuer
-
-* [https://www.spiegel.de/panorama/neustadt-an-der-donau-vier-verletzte-bei-brand-in-raffinerie](https://www.spiegel.de/panorama/neustadt-an-der-donau-vier-verletzte-bei-brand-in-raffinerie-a-bea4c2cc-b406-4780-b91b-ad007d18d3b7#ref=rss)
-* [https://www.spiegel.de/panorama/waldbraende-in-los-angeles-zahl-der-todesopfer-steigt-auf-27](https://www.spiegel.de/panorama/waldbraende-in-los-angeles-zahl-der-todesopfer-steigt-auf-27-a-4a7c1455-c700-4372-8410-90c797663382#ref=rss)
-### drei
-
-* [https://www.spiegel.de/ausland/russland-gericht-verurteilt-drei-nawalny-anwaelte-zu-mehrjaehriger-haft](https://www.spiegel.de/ausland/russland-gericht-verurteilt-drei-nawalny-anwaelte-zu-mehrjaehriger-haft-a-e6a84f45-735a-45f0-904a-64dc45a67ad4#ref=rss)
-### rch
-
-* [https://www.spiegel.de/wissenschaft/technik/radhaubitze-rch-155-was-kann-das-hochmoderne-waffensystem](https://www.spiegel.de/wissenschaft/technik/radhaubitze-rch-155-was-kann-das-hochmoderne-waffensystem-a-5237d545-7abf-4493-b4a3-d09aa0e4c7a4#ref=rss)
-### 155
-
-* [https://www.spiegel.de/wissenschaft/technik/radhaubitze-rch-155-was-kann-das-hochmoderne-waffensystem](https://www.spiegel.de/wissenschaft/technik/radhaubitze-rch-155-was-kann-das-hochmoderne-waffensystem-a-5237d545-7abf-4493-b4a3-d09aa0e4c7a4#ref=rss)
-### steigt
-
-* [https://www.spiegel.de/panorama/waldbraende-in-los-angeles-zahl-der-todesopfer-steigt-auf-27](https://www.spiegel.de/panorama/waldbraende-in-los-angeles-zahl-der-todesopfer-steigt-auf-27-a-4a7c1455-c700-4372-8410-90c797663382#ref=rss)
-### preis
-
-* [https://www.spiegel.de/wirtschaft/umfrage-zum-autokauf-preis-schlaegt-qualitaet](https://www.spiegel.de/wirtschaft/umfrage-zum-autokauf-preis-schlaegt-qualitaet-a-018e0f4f-49df-4c06-8ca5-2e0c0ea49f9a#ref=rss)
-### qualität
-
-* [https://www.spiegel.de/wirtschaft/umfrage-zum-autokauf-preis-schlaegt-qualitaet](https://www.spiegel.de/wirtschaft/umfrage-zum-autokauf-preis-schlaegt-qualitaet-a-018e0f4f-49df-4c06-8ca5-2e0c0ea49f9a#ref=rss)
+* [https://www.spiegel.de/ausland/usa-donald-trumps-amtseinfuehrung-soll-wegen-kaelte-drinnen-stattfinden](https://www.spiegel.de/ausland/usa-donald-trumps-amtseinfuehrung-soll-wegen-kaelte-drinnen-stattfinden-a-9d15cab8-6768-48d1-82c0-3b6de1468674#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/tiktok-scheitert-am-us-supreme-court](https://www.spiegel.de/netzwelt/netzpolitik/tiktok-scheitert-am-us-supreme-court-a-7769fca9-f387-4442-a1b2-a769abdc13c0#ref=rss)
 ### amtseinführung
 
-* [https://www.spiegel.de/ausland/donald-trumps-amtseinfuehrung-obama-bush-und-zuckerberg-wer-steht-auf-der-gaesteliste](https://www.spiegel.de/ausland/donald-trumps-amtseinfuehrung-obama-bush-und-zuckerberg-wer-steht-auf-der-gaesteliste-a-6860fb16-e959-47ee-9023-65da5e579668#ref=rss)
-### kassenbeiträge
+* [https://www.spiegel.de/ausland/usa-donald-trumps-amtseinfuehrung-soll-wegen-kaelte-drinnen-stattfinden](https://www.spiegel.de/ausland/usa-donald-trumps-amtseinfuehrung-soll-wegen-kaelte-drinnen-stattfinden-a-9d15cab8-6768-48d1-82c0-3b6de1468674#ref=rss)
+### stattfinden
 
-* [https://www.spiegel.de/wirtschaft/soziales/robert-habeck-wieso-kassenbeitraege-auf-kapitalertraege-sinnvoll-waeren-aber-nicht-die-beste-idee](https://www.spiegel.de/wirtschaft/soziales/robert-habeck-wieso-kassenbeitraege-auf-kapitalertraege-sinnvoll-waeren-aber-nicht-die-beste-idee-a-832747d1-aa34-41b1-9e9c-a10ee046fcd7#ref=rss)
-### kapitalerträge
+* [https://www.spiegel.de/ausland/usa-donald-trumps-amtseinfuehrung-soll-wegen-kaelte-drinnen-stattfinden](https://www.spiegel.de/ausland/usa-donald-trumps-amtseinfuehrung-soll-wegen-kaelte-drinnen-stattfinden-a-9d15cab8-6768-48d1-82c0-3b6de1468674#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/schleswig-holstein-eklat-um-gedenkfeier-fuer-opfer-des-naziregimes](https://www.spiegel.de/panorama/gesellschaft/schleswig-holstein-eklat-um-gedenkfeier-fuer-opfer-des-naziregimes-a-9309a0ac-00d2-4a29-bae0-d8809c752afb#ref=rss)
+### zeremonie
 
-* [https://www.spiegel.de/wirtschaft/soziales/robert-habeck-wieso-kassenbeitraege-auf-kapitalertraege-sinnvoll-waeren-aber-nicht-die-beste-idee](https://www.spiegel.de/wirtschaft/soziales/robert-habeck-wieso-kassenbeitraege-auf-kapitalertraege-sinnvoll-waeren-aber-nicht-die-beste-idee-a-832747d1-aa34-41b1-9e9c-a10ee046fcd7#ref=rss)
-### alexander
+* [https://www.spiegel.de/ausland/usa-donald-trumps-amtseinfuehrung-soll-wegen-kaelte-drinnen-stattfinden](https://www.spiegel.de/ausland/usa-donald-trumps-amtseinfuehrung-soll-wegen-kaelte-drinnen-stattfinden-a-9d15cab8-6768-48d1-82c0-3b6de1468674#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/chemnitz-sorge-vor-anschlag-auf-eroeffnungsfeier-der-europaeischen-kulturhauptstadt](https://www.spiegel.de/panorama/justiz/chemnitz-sorge-vor-anschlag-auf-eroeffnungsfeier-der-europaeischen-kulturhauptstadt-a-471214a0-57b6-4969-997f-06835d6a02a5#ref=rss)
+### gerangel
 
-* [https://www.spiegel.de/sport/tennis/australian-open-2025-alexander-zverev-erreicht-achtelfinale-laura-siegemund-scheidet-aus](https://www.spiegel.de/sport/tennis/australian-open-2025-alexander-zverev-erreicht-achtelfinale-laura-siegemund-scheidet-aus-a-c388ea7c-8b77-4533-acb9-0da21dbabb20#ref=rss)
-### zverev
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-podcast-a-27d569dd-ca71-4e98-9d4b-eb4c9db678f8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl](https://www.spiegel.de/politik/deutschland/friedrich-merz-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-a-9db89204-76f7-4fa4-89a5-648c762dde0d#ref=rss)
+### cdu/csu
 
-* [https://www.spiegel.de/sport/tennis/australian-open-2025-alexander-zverev-erreicht-achtelfinale-laura-siegemund-scheidet-aus](https://www.spiegel.de/sport/tennis/australian-open-2025-alexander-zverev-erreicht-achtelfinale-laura-siegemund-scheidet-aus-a-c388ea7c-8b77-4533-acb9-0da21dbabb20#ref=rss)
-### erreicht
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-podcast-a-27d569dd-ca71-4e98-9d4b-eb4c9db678f8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl](https://www.spiegel.de/politik/deutschland/friedrich-merz-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-a-9db89204-76f7-4fa4-89a5-648c762dde0d#ref=rss)
+### bundestagswahl
 
-* [https://www.spiegel.de/sport/tennis/australian-open-2025-alexander-zverev-erreicht-achtelfinale-laura-siegemund-scheidet-aus](https://www.spiegel.de/sport/tennis/australian-open-2025-alexander-zverev-erreicht-achtelfinale-laura-siegemund-scheidet-aus-a-c388ea7c-8b77-4533-acb9-0da21dbabb20#ref=rss)
-* [https://www.spiegel.de/wirtschaft/china-wirtschaft-unter-druck-fuenf-prozent-wachstum-reichen-nicht](https://www.spiegel.de/wirtschaft/china-wirtschaft-unter-druck-fuenf-prozent-wachstum-reichen-nicht-a-14be4ddc-9495-4afa-b423-6578001c48a4#ref=rss)
-### laura
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-podcast-a-27d569dd-ca71-4e98-9d4b-eb4c9db678f8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl](https://www.spiegel.de/politik/deutschland/friedrich-merz-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-a-9db89204-76f7-4fa4-89a5-648c762dde0d#ref=rss)
+### beste
 
-* [https://www.spiegel.de/sport/tennis/australian-open-2025-alexander-zverev-erreicht-achtelfinale-laura-siegemund-scheidet-aus](https://www.spiegel.de/sport/tennis/australian-open-2025-alexander-zverev-erreicht-achtelfinale-laura-siegemund-scheidet-aus-a-c388ea7c-8b77-4533-acb9-0da21dbabb20#ref=rss)
-### siegemund
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-podcast-a-27d569dd-ca71-4e98-9d4b-eb4c9db678f8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl](https://www.spiegel.de/politik/deutschland/friedrich-merz-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-a-9db89204-76f7-4fa4-89a5-648c762dde0d#ref=rss)
+### chancen
 
-* [https://www.spiegel.de/sport/tennis/australian-open-2025-alexander-zverev-erreicht-achtelfinale-laura-siegemund-scheidet-aus](https://www.spiegel.de/sport/tennis/australian-open-2025-alexander-zverev-erreicht-achtelfinale-laura-siegemund-scheidet-aus-a-c388ea7c-8b77-4533-acb9-0da21dbabb20#ref=rss)
-### scheidet
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-podcast-a-27d569dd-ca71-4e98-9d4b-eb4c9db678f8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl](https://www.spiegel.de/politik/deutschland/friedrich-merz-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-a-9db89204-76f7-4fa4-89a5-648c762dde0d#ref=rss)
+### aufs
 
-* [https://www.spiegel.de/sport/tennis/australian-open-2025-alexander-zverev-erreicht-achtelfinale-laura-siegemund-scheidet-aus](https://www.spiegel.de/sport/tennis/australian-open-2025-alexander-zverev-erreicht-achtelfinale-laura-siegemund-scheidet-aus-a-c388ea7c-8b77-4533-acb9-0da21dbabb20#ref=rss)
-### wirtschaft
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-podcast-a-27d569dd-ca71-4e98-9d4b-eb4c9db678f8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl](https://www.spiegel.de/politik/deutschland/friedrich-merz-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-a-9db89204-76f7-4fa4-89a5-648c762dde0d#ref=rss)
+### kanzleramt
 
-* [https://www.spiegel.de/wirtschaft/china-wirtschaft-unter-druck-fuenf-prozent-wachstum-reichen-nicht](https://www.spiegel.de/wirtschaft/china-wirtschaft-unter-druck-fuenf-prozent-wachstum-reichen-nicht-a-14be4ddc-9495-4afa-b423-6578001c48a4#ref=rss)
-### fünf
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-podcast-a-27d569dd-ca71-4e98-9d4b-eb4c9db678f8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl](https://www.spiegel.de/politik/deutschland/friedrich-merz-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-a-9db89204-76f7-4fa4-89a5-648c762dde0d#ref=rss)
+### wem
 
-* [https://www.spiegel.de/wirtschaft/china-wirtschaft-unter-druck-fuenf-prozent-wachstum-reichen-nicht](https://www.spiegel.de/wirtschaft/china-wirtschaft-unter-druck-fuenf-prozent-wachstum-reichen-nicht-a-14be4ddc-9495-4afa-b423-6578001c48a4#ref=rss)
-### alice
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-podcast-a-27d569dd-ca71-4e98-9d4b-eb4c9db678f8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl](https://www.spiegel.de/politik/deutschland/friedrich-merz-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-a-9db89204-76f7-4fa4-89a5-648c762dde0d#ref=rss)
+### regieren
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/vattenfallchef-wirft-alice-weidel-ignoranz-gegenueber-den-fakten-vor](https://www.spiegel.de/wirtschaft/unternehmen/vattenfallchef-wirft-alice-weidel-ignoranz-gegenueber-den-fakten-vor-a-0bc534ea-e487-4a97-98ff-66cbafd55d9c#ref=rss)
-### weidel
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-podcast-a-27d569dd-ca71-4e98-9d4b-eb4c9db678f8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl](https://www.spiegel.de/politik/deutschland/friedrich-merz-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-a-9db89204-76f7-4fa4-89a5-648c762dde0d#ref=rss)
+### hängt
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/vattenfallchef-wirft-alice-weidel-ignoranz-gegenueber-den-fakten-vor](https://www.spiegel.de/wirtschaft/unternehmen/vattenfallchef-wirft-alice-weidel-ignoranz-gegenueber-den-fakten-vor-a-0bc534ea-e487-4a97-98ff-66cbafd55d9c#ref=rss)
-### waffenstillstand
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-podcast-a-27d569dd-ca71-4e98-9d4b-eb4c9db678f8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl](https://www.spiegel.de/politik/deutschland/friedrich-merz-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-a-9db89204-76f7-4fa4-89a5-648c762dde0d#ref=rss)
+### störenfried
 
-* [https://www.spiegel.de/ausland/waffenstillstand-im-israel-gaza-krieg-die-rueckkehr-der-hoffnung](https://www.spiegel.de/ausland/waffenstillstand-im-israel-gaza-krieg-die-rueckkehr-der-hoffnung-a-2d9c4279-6d2b-46a0-aa15-931d130b122e#ref=rss)
-### welt
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-podcast-a-27d569dd-ca71-4e98-9d4b-eb4c9db678f8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl](https://www.spiegel.de/politik/deutschland/friedrich-merz-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-a-9db89204-76f7-4fa4-89a5-648c762dde0d#ref=rss)
+### spiegelredakteur
 
-* [https://www.spiegel.de/panorama/leute/feuer-in-los-angeles-billie-eilish-und-green-day-spielen-benefizkonzert-zur-unterstuetzung-der-opfer](https://www.spiegel.de/panorama/leute/feuer-in-los-angeles-billie-eilish-und-green-day-spielen-benefizkonzert-zur-unterstuetzung-der-opfer-a-8f49e4fa-49c1-49f9-be51-dbe937db4996#ref=rss)
-* [https://www.spiegel.de/stil/ugg-boots-warum-die-klobigen-lammfellstiefel-wieder-angesagt-sind](https://www.spiegel.de/stil/ugg-boots-warum-die-klobigen-lammfellstiefel-wieder-angesagt-sind-a-a53eaf83-37cf-4d7a-b6f5-06ad67a7d7e9#ref=rss)
-### uggboots
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-podcast-a-27d569dd-ca71-4e98-9d4b-eb4c9db678f8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl](https://www.spiegel.de/politik/deutschland/friedrich-merz-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-a-9db89204-76f7-4fa4-89a5-648c762dde0d#ref=rss)
+### jonas
 
-* [https://www.spiegel.de/stil/ugg-boots-warum-die-klobigen-lammfellstiefel-wieder-angesagt-sind](https://www.spiegel.de/stil/ugg-boots-warum-die-klobigen-lammfellstiefel-wieder-angesagt-sind-a-a53eaf83-37cf-4d7a-b6f5-06ad67a7d7e9#ref=rss)
-### angesagt
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-podcast-a-27d569dd-ca71-4e98-9d4b-eb4c9db678f8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl](https://www.spiegel.de/politik/deutschland/friedrich-merz-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-a-9db89204-76f7-4fa4-89a5-648c762dde0d#ref=rss)
+### schaible
 
-* [https://www.spiegel.de/stil/ugg-boots-warum-die-klobigen-lammfellstiefel-wieder-angesagt-sind](https://www.spiegel.de/stil/ugg-boots-warum-die-klobigen-lammfellstiefel-wieder-angesagt-sind-a-a53eaf83-37cf-4d7a-b6f5-06ad67a7d7e9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-podcast-a-27d569dd-ca71-4e98-9d4b-eb4c9db678f8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl](https://www.spiegel.de/politik/deutschland/friedrich-merz-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-a-9db89204-76f7-4fa4-89a5-648c762dde0d#ref=rss)
+### berichtet
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-podcast-a-27d569dd-ca71-4e98-9d4b-eb4c9db678f8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl](https://www.spiegel.de/politik/deutschland/friedrich-merz-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-a-9db89204-76f7-4fa4-89a5-648c762dde0d#ref=rss)
+### endspurt
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-podcast-a-27d569dd-ca71-4e98-9d4b-eb4c9db678f8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl](https://www.spiegel.de/politik/deutschland/friedrich-merz-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-a-9db89204-76f7-4fa4-89a5-648c762dde0d#ref=rss)
+### macht
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-podcast-a-27d569dd-ca71-4e98-9d4b-eb4c9db678f8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl](https://www.spiegel.de/politik/deutschland/friedrich-merz-markus-soeder-das-gerangel-bei-cdu-csu-vor-der-bundestagswahl-a-9db89204-76f7-4fa4-89a5-648c762dde0d#ref=rss)
+### zensus
+
+* [https://www.spiegel.de/panorama/gesellschaft/zensus-ostfriesische-inseln-spiekeroog-verliert-einwohner-ohne-es-zu-merken](https://www.spiegel.de/panorama/gesellschaft/zensus-ostfriesische-inseln-spiekeroog-verliert-einwohner-ohne-es-zu-merken-a-039096f9-02c9-4ed5-a735-ac8d56515807#ref=rss)
+### verliert
+
+* [https://www.spiegel.de/panorama/gesellschaft/zensus-ostfriesische-inseln-spiekeroog-verliert-einwohner-ohne-es-zu-merken](https://www.spiegel.de/panorama/gesellschaft/zensus-ostfriesische-inseln-spiekeroog-verliert-einwohner-ohne-es-zu-merken-a-039096f9-02c9-4ed5-a735-ac8d56515807#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-wie-lars-klingbeil-und-boris-pistorius-sich-fuer-die-zeit-nach-olaf-scholz-in-stellung-bringen](https://www.spiegel.de/politik/deutschland/spd-wie-lars-klingbeil-und-boris-pistorius-sich-fuer-die-zeit-nach-olaf-scholz-in-stellung-bringen-a-e490a9d6-e240-4e59-bf4f-443c528edfe3#ref=rss)
+### ganz
+
+* [https://www.spiegel.de/panorama/gesellschaft/zensus-ostfriesische-inseln-spiekeroog-verliert-einwohner-ohne-es-zu-merken](https://www.spiegel.de/panorama/gesellschaft/zensus-ostfriesische-inseln-spiekeroog-verliert-einwohner-ohne-es-zu-merken-a-039096f9-02c9-4ed5-a735-ac8d56515807#ref=rss)
+* [https://www.spiegel.de/kultur/donald-trump-offizielles-portraetfoto-des-47-praesidenten-in-der-bildanalyse](https://www.spiegel.de/kultur/donald-trump-offizielles-portraetfoto-des-47-praesidenten-in-der-bildanalyse-a-1351770c-15fe-4a3e-ad91-4d3c0799d83e#ref=rss)
+### einfach
+
+* [https://www.spiegel.de/panorama/gesellschaft/zensus-ostfriesische-inseln-spiekeroog-verliert-einwohner-ohne-es-zu-merken](https://www.spiegel.de/panorama/gesellschaft/zensus-ostfriesische-inseln-spiekeroog-verliert-einwohner-ohne-es-zu-merken-a-039096f9-02c9-4ed5-a735-ac8d56515807#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/franziska-van-almsick-hat-probleme-beim-googeln](https://www.spiegel.de/netzwelt/web/franziska-van-almsick-hat-probleme-beim-googeln-a-2f721339-a076-4eda-a176-0cefd7033752#ref=rss)
+### sorgt
+
+* [https://www.spiegel.de/panorama/gesellschaft/zensus-ostfriesische-inseln-spiekeroog-verliert-einwohner-ohne-es-zu-merken](https://www.spiegel.de/panorama/gesellschaft/zensus-ostfriesische-inseln-spiekeroog-verliert-einwohner-ohne-es-zu-merken-a-039096f9-02c9-4ed5-a735-ac8d56515807#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/schleswig-holstein-eklat-um-gedenkfeier-fuer-opfer-des-naziregimes](https://www.spiegel.de/panorama/gesellschaft/schleswig-holstein-eklat-um-gedenkfeier-fuer-opfer-des-naziregimes-a-9309a0ac-00d2-4a29-bae0-d8809c752afb#ref=rss)
+### demokratie
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-demokratie-in-deutschland-erling-haaland-david-lynch](https://www.spiegel.de/politik/deutschland/news-des-tages-demokratie-in-deutschland-erling-haaland-david-lynch-a-804109cf-02d0-48f2-b2cf-be79ebcb6bcf#ref=rss)
+### erling
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-demokratie-in-deutschland-erling-haaland-david-lynch](https://www.spiegel.de/politik/deutschland/news-des-tages-demokratie-in-deutschland-erling-haaland-david-lynch-a-804109cf-02d0-48f2-b2cf-be79ebcb6bcf#ref=rss)
+* [https://www.spiegel.de/sport/fussball/neymar-bei-al-hilal-aussortiert-erling-haaland-mit-xxl-vertrag-bei-manchester-city-transferticker](https://www.spiegel.de/sport/fussball/neymar-bei-al-hilal-aussortiert-erling-haaland-mit-xxl-vertrag-bei-manchester-city-transferticker-a-02902147-8552-4a21-8db1-e9dbdbf83911#ref=rss)
+### haaland
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-demokratie-in-deutschland-erling-haaland-david-lynch](https://www.spiegel.de/politik/deutschland/news-des-tages-demokratie-in-deutschland-erling-haaland-david-lynch-a-804109cf-02d0-48f2-b2cf-be79ebcb6bcf#ref=rss)
+* [https://www.spiegel.de/sport/fussball/neymar-bei-al-hilal-aussortiert-erling-haaland-mit-xxl-vertrag-bei-manchester-city-transferticker](https://www.spiegel.de/sport/fussball/neymar-bei-al-hilal-aussortiert-erling-haaland-mit-xxl-vertrag-bei-manchester-city-transferticker-a-02902147-8552-4a21-8db1-e9dbdbf83911#ref=rss)
+### mädchen
+
+* [https://www.spiegel.de/wissenschaft/mensch/warum-eltern-eher-maedchen-bevorzugen](https://www.spiegel.de/wissenschaft/mensch/warum-eltern-eher-maedchen-bevorzugen-a-f1235182-06c1-4f81-9139-423e2bb42964#ref=rss)
+### lieblingskinder
+
+* [https://www.spiegel.de/wissenschaft/mensch/warum-eltern-eher-maedchen-bevorzugen](https://www.spiegel.de/wissenschaft/mensch/warum-eltern-eher-maedchen-bevorzugen-a-f1235182-06c1-4f81-9139-423e2bb42964#ref=rss)
+### zufolge
+
+* [https://www.spiegel.de/wissenschaft/mensch/warum-eltern-eher-maedchen-bevorzugen](https://www.spiegel.de/wissenschaft/mensch/warum-eltern-eher-maedchen-bevorzugen-a-f1235182-06c1-4f81-9139-423e2bb42964#ref=rss)
+* [https://www.spiegel.de/ausland/usa-und-china-donald-trump-telefonierte-mit-xi-jinping](https://www.spiegel.de/ausland/usa-und-china-donald-trump-telefonierte-mit-xi-jinping-a-854422bc-f179-4d31-afbf-f6ce6a63c6a0#ref=rss)
+### erklärt
+
+* [https://www.spiegel.de/wissenschaft/mensch/warum-eltern-eher-maedchen-bevorzugen](https://www.spiegel.de/wissenschaft/mensch/warum-eltern-eher-maedchen-bevorzugen-a-f1235182-06c1-4f81-9139-423e2bb42964#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/juli-chefin-franziska-brandmann-zur-kritik-an-fdp-plaenen-quatsch](https://www.spiegel.de/politik/deutschland/juli-chefin-franziska-brandmann-zur-kritik-an-fdp-plaenen-quatsch-a-c2f33bb7-4e8a-422e-b2c8-4bdd7cadaecb#ref=rss)
+### the
+
+* [https://www.spiegel.de/kultur/musik/the-weather-station-turbostaat-ela-minus-jasmine-4-t-album-der-woche](https://www.spiegel.de/kultur/musik/the-weather-station-turbostaat-ela-minus-jasmine-4-t-album-der-woche-a-d636e630-28c6-480f-b164-780d2cebf7a9#ref=rss)
+### weather
+
+* [https://www.spiegel.de/kultur/musik/the-weather-station-turbostaat-ela-minus-jasmine-4-t-album-der-woche](https://www.spiegel.de/kultur/musik/the-weather-station-turbostaat-ela-minus-jasmine-4-t-album-der-woche-a-d636e630-28c6-480f-b164-780d2cebf7a9#ref=rss)
+### station
+
+* [https://www.spiegel.de/kultur/musik/the-weather-station-turbostaat-ela-minus-jasmine-4-t-album-der-woche](https://www.spiegel.de/kultur/musik/the-weather-station-turbostaat-ela-minus-jasmine-4-t-album-der-woche-a-d636e630-28c6-480f-b164-780d2cebf7a9#ref=rss)
+### turbostaat
+
+* [https://www.spiegel.de/kultur/musik/the-weather-station-turbostaat-ela-minus-jasmine-4-t-album-der-woche](https://www.spiegel.de/kultur/musik/the-weather-station-turbostaat-ela-minus-jasmine-4-t-album-der-woche-a-d636e630-28c6-480f-b164-780d2cebf7a9#ref=rss)
+### album
+
+* [https://www.spiegel.de/kultur/musik/the-weather-station-turbostaat-ela-minus-jasmine-4-t-album-der-woche](https://www.spiegel.de/kultur/musik/the-weather-station-turbostaat-ela-minus-jasmine-4-t-album-der-woche-a-d636e630-28c6-480f-b164-780d2cebf7a9#ref=rss)
+### woche
+
+* [https://www.spiegel.de/kultur/musik/the-weather-station-turbostaat-ela-minus-jasmine-4-t-album-der-woche](https://www.spiegel.de/kultur/musik/the-weather-station-turbostaat-ela-minus-jasmine-4-t-album-der-woche-a-d636e630-28c6-480f-b164-780d2cebf7a9#ref=rss)
+### risikospielen
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-polizeikosten-bei-risikospielen-wo-gibt-es-viele-dieser-partien](https://www.spiegel.de/sport/fussball/fussball-bundesliga-polizeikosten-bei-risikospielen-wo-gibt-es-viele-dieser-partien-a-ebc83b7c-113a-4c1f-8943-8eeec44557d6#ref=rss)
+### partien
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-polizeikosten-bei-risikospielen-wo-gibt-es-viele-dieser-partien](https://www.spiegel.de/sport/fussball/fussball-bundesliga-polizeikosten-bei-risikospielen-wo-gibt-es-viele-dieser-partien-a-ebc83b7c-113a-4c1f-8943-8eeec44557d6#ref=rss)
+### stellt
+
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-stellt-buch-ueber-friedrich-merz-vor-man-muss-nur-lange-genug-kandidieren](https://www.spiegel.de/politik/deutschland/markus-soeder-stellt-buch-ueber-friedrich-merz-vor-man-muss-nur-lange-genug-kandidieren-a-4128327e-9301-4894-9c2e-d4280a166b93#ref=rss)
+### buch
+
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-stellt-buch-ueber-friedrich-merz-vor-man-muss-nur-lange-genug-kandidieren](https://www.spiegel.de/politik/deutschland/markus-soeder-stellt-buch-ueber-friedrich-merz-vor-man-muss-nur-lange-genug-kandidieren-a-4128327e-9301-4894-9c2e-d4280a166b93#ref=rss)
+### eigenen
+
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-stellt-buch-ueber-friedrich-merz-vor-man-muss-nur-lange-genug-kandidieren](https://www.spiegel.de/politik/deutschland/markus-soeder-stellt-buch-ueber-friedrich-merz-vor-man-muss-nur-lange-genug-kandidieren-a-4128327e-9301-4894-9c2e-d4280a166b93#ref=rss)
+* [https://www.spiegel.de/kultur/kino/david-lynch-und-seine-filme-visionaer-und-kryptiker](https://www.spiegel.de/kultur/kino/david-lynch-und-seine-filme-visionaer-und-kryptiker-a-6b91e3fd-3168-4374-9d7b-be54c917b86a#ref=rss)
+### waffenruhe
+
+* [https://www.spiegel.de/ausland/israel-und-die-waffenruhe-in-gaza-eine-strategische-niederlage-kommentar](https://www.spiegel.de/ausland/israel-und-die-waffenruhe-in-gaza-eine-strategische-niederlage-kommentar-a-d5fbf377-018c-439d-802c-0ddab0955b8c#ref=rss)
+* [https://www.spiegel.de/ausland/israel-hisbollah-konflikt-uno-friedenstruppen-finden-mehr-als-100-waffendepots-im-sueden-des-libanon](https://www.spiegel.de/ausland/israel-hisbollah-konflikt-uno-friedenstruppen-finden-mehr-als-100-waffendepots-im-sueden-des-libanon-a-78f5b461-3fa7-4261-aa05-687029550827#ref=rss)
+### details
+
+* [https://www.spiegel.de/ausland/israel-und-die-waffenruhe-in-gaza-eine-strategische-niederlage-kommentar](https://www.spiegel.de/ausland/israel-und-die-waffenruhe-in-gaza-eine-strategische-niederlage-kommentar-a-d5fbf377-018c-439d-802c-0ddab0955b8c#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/franziska-van-almsick-hat-probleme-beim-googeln](https://www.spiegel.de/netzwelt/web/franziska-van-almsick-hat-probleme-beim-googeln-a-2f721339-a076-4eda-a176-0cefd7033752#ref=rss)
+### brandmann
+
+* [https://www.spiegel.de/politik/deutschland/juli-chefin-franziska-brandmann-zur-kritik-an-fdp-plaenen-quatsch](https://www.spiegel.de/politik/deutschland/juli-chefin-franziska-brandmann-zur-kritik-an-fdp-plaenen-quatsch-a-c2f33bb7-4e8a-422e-b2c8-4bdd7cadaecb#ref=rss)
+### kritik
+
+* [https://www.spiegel.de/politik/deutschland/juli-chefin-franziska-brandmann-zur-kritik-an-fdp-plaenen-quatsch](https://www.spiegel.de/politik/deutschland/juli-chefin-franziska-brandmann-zur-kritik-an-fdp-plaenen-quatsch-a-c2f33bb7-4e8a-422e-b2c8-4bdd7cadaecb#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/schleswig-holstein-eklat-um-gedenkfeier-fuer-opfer-des-naziregimes](https://www.spiegel.de/panorama/gesellschaft/schleswig-holstein-eklat-um-gedenkfeier-fuer-opfer-des-naziregimes-a-9309a0ac-00d2-4a29-bae0-d8809c752afb#ref=rss)
+### vorsitzende
+
+* [https://www.spiegel.de/politik/deutschland/juli-chefin-franziska-brandmann-zur-kritik-an-fdp-plaenen-quatsch](https://www.spiegel.de/politik/deutschland/juli-chefin-franziska-brandmann-zur-kritik-an-fdp-plaenen-quatsch-a-c2f33bb7-4e8a-422e-b2c8-4bdd7cadaecb#ref=rss)
+* [https://www.spiegel.de/ausland/kanada-mark-carney-und-chrystia-freeland-bewerben-sich-um-amt-des-premierministers](https://www.spiegel.de/ausland/kanada-mark-carney-und-chrystia-freeland-bewerben-sich-um-amt-des-premierministers-a-6d81b535-717c-4d78-8d2a-088df0bd0457#ref=rss)
+### liberalen
+
+* [https://www.spiegel.de/politik/deutschland/juli-chefin-franziska-brandmann-zur-kritik-an-fdp-plaenen-quatsch](https://www.spiegel.de/politik/deutschland/juli-chefin-franziska-brandmann-zur-kritik-an-fdp-plaenen-quatsch-a-c2f33bb7-4e8a-422e-b2c8-4bdd7cadaecb#ref=rss)
+* [https://www.spiegel.de/ausland/kanada-mark-carney-und-chrystia-freeland-bewerben-sich-um-amt-des-premierministers](https://www.spiegel.de/ausland/kanada-mark-carney-und-chrystia-freeland-bewerben-sich-um-amt-des-premierministers-a-6d81b535-717c-4d78-8d2a-088df0bd0457#ref=rss)
+### lars
+
+* [https://www.spiegel.de/politik/deutschland/spd-wie-lars-klingbeil-und-boris-pistorius-sich-fuer-die-zeit-nach-olaf-scholz-in-stellung-bringen](https://www.spiegel.de/politik/deutschland/spd-wie-lars-klingbeil-und-boris-pistorius-sich-fuer-die-zeit-nach-olaf-scholz-in-stellung-bringen-a-e490a9d6-e240-4e59-bf4f-443c528edfe3#ref=rss)
+### klingbeil
+
+* [https://www.spiegel.de/politik/deutschland/spd-wie-lars-klingbeil-und-boris-pistorius-sich-fuer-die-zeit-nach-olaf-scholz-in-stellung-bringen](https://www.spiegel.de/politik/deutschland/spd-wie-lars-klingbeil-und-boris-pistorius-sich-fuer-die-zeit-nach-olaf-scholz-in-stellung-bringen-a-e490a9d6-e240-4e59-bf4f-443c528edfe3#ref=rss)
+### boris
+
+* [https://www.spiegel.de/politik/deutschland/spd-wie-lars-klingbeil-und-boris-pistorius-sich-fuer-die-zeit-nach-olaf-scholz-in-stellung-bringen](https://www.spiegel.de/politik/deutschland/spd-wie-lars-klingbeil-und-boris-pistorius-sich-fuer-die-zeit-nach-olaf-scholz-in-stellung-bringen-a-e490a9d6-e240-4e59-bf4f-443c528edfe3#ref=rss)
+### pistorius
+
+* [https://www.spiegel.de/politik/deutschland/spd-wie-lars-klingbeil-und-boris-pistorius-sich-fuer-die-zeit-nach-olaf-scholz-in-stellung-bringen](https://www.spiegel.de/politik/deutschland/spd-wie-lars-klingbeil-und-boris-pistorius-sich-fuer-die-zeit-nach-olaf-scholz-in-stellung-bringen-a-e490a9d6-e240-4e59-bf4f-443c528edfe3#ref=rss)
+### olaf
+
+* [https://www.spiegel.de/politik/deutschland/spd-wie-lars-klingbeil-und-boris-pistorius-sich-fuer-die-zeit-nach-olaf-scholz-in-stellung-bringen](https://www.spiegel.de/politik/deutschland/spd-wie-lars-klingbeil-und-boris-pistorius-sich-fuer-die-zeit-nach-olaf-scholz-in-stellung-bringen-a-e490a9d6-e240-4e59-bf4f-443c528edfe3#ref=rss)
+### scholz
+
+* [https://www.spiegel.de/politik/deutschland/spd-wie-lars-klingbeil-und-boris-pistorius-sich-fuer-die-zeit-nach-olaf-scholz-in-stellung-bringen](https://www.spiegel.de/politik/deutschland/spd-wie-lars-klingbeil-und-boris-pistorius-sich-fuer-die-zeit-nach-olaf-scholz-in-stellung-bringen-a-e490a9d6-e240-4e59-bf4f-443c528edfe3#ref=rss)
+### stellung
+
+* [https://www.spiegel.de/politik/deutschland/spd-wie-lars-klingbeil-und-boris-pistorius-sich-fuer-die-zeit-nach-olaf-scholz-in-stellung-bringen](https://www.spiegel.de/politik/deutschland/spd-wie-lars-klingbeil-und-boris-pistorius-sich-fuer-die-zeit-nach-olaf-scholz-in-stellung-bringen-a-e490a9d6-e240-4e59-bf4f-443c528edfe3#ref=rss)
+### bringen
+
+* [https://www.spiegel.de/politik/deutschland/spd-wie-lars-klingbeil-und-boris-pistorius-sich-fuer-die-zeit-nach-olaf-scholz-in-stellung-bringen](https://www.spiegel.de/politik/deutschland/spd-wie-lars-klingbeil-und-boris-pistorius-sich-fuer-die-zeit-nach-olaf-scholz-in-stellung-bringen-a-e490a9d6-e240-4e59-bf4f-443c528edfe3#ref=rss)
+### finden
+
+* [https://www.spiegel.de/ausland/israel-hisbollah-konflikt-uno-friedenstruppen-finden-mehr-als-100-waffendepots-im-sueden-des-libanon](https://www.spiegel.de/ausland/israel-hisbollah-konflikt-uno-friedenstruppen-finden-mehr-als-100-waffendepots-im-sueden-des-libanon-a-78f5b461-3fa7-4261-aa05-687029550827#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/franziska-van-almsick-hat-probleme-beim-googeln](https://www.spiegel.de/netzwelt/web/franziska-van-almsick-hat-probleme-beim-googeln-a-2f721339-a076-4eda-a176-0cefd7033752#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/ausland/israel-hisbollah-konflikt-uno-friedenstruppen-finden-mehr-als-100-waffendepots-im-sueden-des-libanon](https://www.spiegel.de/ausland/israel-hisbollah-konflikt-uno-friedenstruppen-finden-mehr-als-100-waffendepots-im-sueden-des-libanon-a-78f5b461-3fa7-4261-aa05-687029550827#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/franziska-van-almsick-hat-probleme-beim-googeln](https://www.spiegel.de/netzwelt/web/franziska-van-almsick-hat-probleme-beim-googeln-a-2f721339-a076-4eda-a176-0cefd7033752#ref=rss)
+### kanada
+
+* [https://www.spiegel.de/ausland/kanada-mark-carney-und-chrystia-freeland-bewerben-sich-um-amt-des-premierministers](https://www.spiegel.de/ausland/kanada-mark-carney-und-chrystia-freeland-bewerben-sich-um-amt-des-premierministers-a-6d81b535-717c-4d78-8d2a-088df0bd0457#ref=rss)
+### mark
+
+* [https://www.spiegel.de/ausland/kanada-mark-carney-und-chrystia-freeland-bewerben-sich-um-amt-des-premierministers](https://www.spiegel.de/ausland/kanada-mark-carney-und-chrystia-freeland-bewerben-sich-um-amt-des-premierministers-a-6d81b535-717c-4d78-8d2a-088df0bd0457#ref=rss)
+### carney
+
+* [https://www.spiegel.de/ausland/kanada-mark-carney-und-chrystia-freeland-bewerben-sich-um-amt-des-premierministers](https://www.spiegel.de/ausland/kanada-mark-carney-und-chrystia-freeland-bewerben-sich-um-amt-des-premierministers-a-6d81b535-717c-4d78-8d2a-088df0bd0457#ref=rss)
+### chrystia
+
+* [https://www.spiegel.de/ausland/kanada-mark-carney-und-chrystia-freeland-bewerben-sich-um-amt-des-premierministers](https://www.spiegel.de/ausland/kanada-mark-carney-und-chrystia-freeland-bewerben-sich-um-amt-des-premierministers-a-6d81b535-717c-4d78-8d2a-088df0bd0457#ref=rss)
+### freeland
+
+* [https://www.spiegel.de/ausland/kanada-mark-carney-und-chrystia-freeland-bewerben-sich-um-amt-des-premierministers](https://www.spiegel.de/ausland/kanada-mark-carney-und-chrystia-freeland-bewerben-sich-um-amt-des-premierministers-a-6d81b535-717c-4d78-8d2a-088df0bd0457#ref=rss)
+### ende
+
+* [https://www.spiegel.de/kultur/literatur/oesterreich-offener-brief-aus-der-kultur-gegen-koalition-mit-fpoe](https://www.spiegel.de/kultur/literatur/oesterreich-offener-brief-aus-der-kultur-gegen-koalition-mit-fpoe-a-b84807ca-62aa-4843-8246-b1790295db4b#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/franziska-van-almsick-hat-probleme-beim-googeln](https://www.spiegel.de/netzwelt/web/franziska-van-almsick-hat-probleme-beim-googeln-a-2f721339-a076-4eda-a176-0cefd7033752#ref=rss)
+### fpö
+
+* [https://www.spiegel.de/kultur/literatur/oesterreich-offener-brief-aus-der-kultur-gegen-koalition-mit-fpoe](https://www.spiegel.de/kultur/literatur/oesterreich-offener-brief-aus-der-kultur-gegen-koalition-mit-fpoe-a-b84807ca-62aa-4843-8246-b1790295db4b#ref=rss)
+### neymar
+
+* [https://www.spiegel.de/sport/fussball/neymar-bei-al-hilal-aussortiert-erling-haaland-mit-xxl-vertrag-bei-manchester-city-transferticker](https://www.spiegel.de/sport/fussball/neymar-bei-al-hilal-aussortiert-erling-haaland-mit-xxl-vertrag-bei-manchester-city-transferticker-a-02902147-8552-4a21-8db1-e9dbdbf83911#ref=rss)
+### telefon
+
+* [https://www.spiegel.de/ausland/usa-und-china-donald-trump-telefonierte-mit-xi-jinping](https://www.spiegel.de/ausland/usa-und-china-donald-trump-telefonierte-mit-xi-jinping-a-854422bc-f179-4d31-afbf-f6ce6a63c6a0#ref=rss)
+### panamas
+
+* [https://www.spiegel.de/sport/fussball/fussball-panamas-verbandschef-manual-arias-gesperrt-spielerin-marta-cox-als-fett-bezeichnet](https://www.spiegel.de/sport/fussball/fussball-panamas-verbandschef-manual-arias-gesperrt-spielerin-marta-cox-als-fett-bezeichnet-a-f1fb4fd6-9cc2-4a82-a93f-04a5ce299059#ref=rss)
+### app
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/tiktok-scheitert-am-us-supreme-court](https://www.spiegel.de/netzwelt/netzpolitik/tiktok-scheitert-am-us-supreme-court-a-7769fca9-f387-4442-a1b2-a769abdc13c0#ref=rss)
+### stores
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/tiktok-scheitert-am-us-supreme-court](https://www.spiegel.de/netzwelt/netzpolitik/tiktok-scheitert-am-us-supreme-court-a-7769fca9-f387-4442-a1b2-a769abdc13c0#ref=rss)
+### verschwinden
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/tiktok-scheitert-am-us-supreme-court](https://www.spiegel.de/netzwelt/netzpolitik/tiktok-scheitert-am-us-supreme-court-a-7769fca9-f387-4442-a1b2-a769abdc13c0#ref=rss)
+### iran
+
+* [https://www.spiegel.de/ausland/russland-und-seine-partnerschaft-mit-iran-pakt-der-verlierer](https://www.spiegel.de/ausland/russland-und-seine-partnerschaft-mit-iran-pakt-der-verlierer-a-f68bb5a2-abe1-4752-ae34-1bf643ae76ef#ref=rss)
+### nahen
+
+* [https://www.spiegel.de/ausland/russland-und-seine-partnerschaft-mit-iran-pakt-der-verlierer](https://www.spiegel.de/ausland/russland-und-seine-partnerschaft-mit-iran-pakt-der-verlierer-a-f68bb5a2-abe1-4752-ae34-1bf643ae76ef#ref=rss)
+* [https://www.spiegel.de/ausland/heilige-cenotes-unterwasserhoehlen-sollen-rechte-haben-alles-gute-vom-spiegel](https://www.spiegel.de/ausland/heilige-cenotes-unterwasserhoehlen-sollen-rechte-haben-alles-gute-vom-spiegel-a-a39edf41-1ddd-43ed-9bf7-87fb674ea5f0#ref=rss)
+### osten
+
+* [https://www.spiegel.de/ausland/russland-und-seine-partnerschaft-mit-iran-pakt-der-verlierer](https://www.spiegel.de/ausland/russland-und-seine-partnerschaft-mit-iran-pakt-der-verlierer-a-f68bb5a2-abe1-4752-ae34-1bf643ae76ef#ref=rss)
+* [https://www.spiegel.de/ausland/heilige-cenotes-unterwasserhoehlen-sollen-rechte-haben-alles-gute-vom-spiegel](https://www.spiegel.de/ausland/heilige-cenotes-unterwasserhoehlen-sollen-rechte-haben-alles-gute-vom-spiegel-a-a39edf41-1ddd-43ed-9bf7-87fb674ea5f0#ref=rss)
+### pompeji
+
+* [https://www.spiegel.de/wissenschaft/pompeji-antikes-luxus-spa-in-den-ruinen-der-verschuetteten-stadt-entdeckt](https://www.spiegel.de/wissenschaft/pompeji-antikes-luxus-spa-in-den-ruinen-der-verschuetteten-stadt-entdeckt-a-d34ec1ce-0646-4f5d-a8fe-5563a6331ac2#ref=rss)
+### ruinen
+
+* [https://www.spiegel.de/wissenschaft/pompeji-antikes-luxus-spa-in-den-ruinen-der-verschuetteten-stadt-entdeckt](https://www.spiegel.de/wissenschaft/pompeji-antikes-luxus-spa-in-den-ruinen-der-verschuetteten-stadt-entdeckt-a-d34ec1ce-0646-4f5d-a8fe-5563a6331ac2#ref=rss)
+### verschütteten
+
+* [https://www.spiegel.de/wissenschaft/pompeji-antikes-luxus-spa-in-den-ruinen-der-verschuetteten-stadt-entdeckt](https://www.spiegel.de/wissenschaft/pompeji-antikes-luxus-spa-in-den-ruinen-der-verschuetteten-stadt-entdeckt-a-d34ec1ce-0646-4f5d-a8fe-5563a6331ac2#ref=rss)
+### stadt
+
+* [https://www.spiegel.de/wissenschaft/pompeji-antikes-luxus-spa-in-den-ruinen-der-verschuetteten-stadt-entdeckt](https://www.spiegel.de/wissenschaft/pompeji-antikes-luxus-spa-in-den-ruinen-der-verschuetteten-stadt-entdeckt-a-d34ec1ce-0646-4f5d-a8fe-5563a6331ac2#ref=rss)
+### unterwasserhöhlen
+
+* [https://www.spiegel.de/ausland/heilige-cenotes-unterwasserhoehlen-sollen-rechte-haben-alles-gute-vom-spiegel](https://www.spiegel.de/ausland/heilige-cenotes-unterwasserhoehlen-sollen-rechte-haben-alles-gute-vom-spiegel-a-a39edf41-1ddd-43ed-9bf7-87fb674ea5f0#ref=rss)
+### rechte
+
+* [https://www.spiegel.de/ausland/heilige-cenotes-unterwasserhoehlen-sollen-rechte-haben-alles-gute-vom-spiegel](https://www.spiegel.de/ausland/heilige-cenotes-unterwasserhoehlen-sollen-rechte-haben-alles-gute-vom-spiegel-a-a39edf41-1ddd-43ed-9bf7-87fb674ea5f0#ref=rss)
+### almsick
+
+* [https://www.spiegel.de/netzwelt/web/franziska-van-almsick-hat-probleme-beim-googeln](https://www.spiegel.de/netzwelt/web/franziska-van-almsick-hat-probleme-beim-googeln-a-2f721339-a076-4eda-a176-0cefd7033752#ref=rss)
+### schleswigholstein
+
+* [https://www.spiegel.de/panorama/gesellschaft/schleswig-holstein-eklat-um-gedenkfeier-fuer-opfer-des-naziregimes](https://www.spiegel.de/panorama/gesellschaft/schleswig-holstein-eklat-um-gedenkfeier-fuer-opfer-des-naziregimes-a-9309a0ac-00d2-4a29-bae0-d8809c752afb#ref=rss)
+### opfer
+
+* [https://www.spiegel.de/panorama/gesellschaft/schleswig-holstein-eklat-um-gedenkfeier-fuer-opfer-des-naziregimes](https://www.spiegel.de/panorama/gesellschaft/schleswig-holstein-eklat-um-gedenkfeier-fuer-opfer-des-naziregimes-a-9309a0ac-00d2-4a29-bae0-d8809c752afb#ref=rss)
+### origin
+
+* [https://www.spiegel.de/wissenschaft/weltall/spacex-und-blue-origin-jeff-bezos-gelingt-der-flug-elon-musk-die-landung](https://www.spiegel.de/wissenschaft/weltall/spacex-und-blue-origin-jeff-bezos-gelingt-der-flug-elon-musk-die-landung-a-8f414fc1-c324-4815-a9cc-de950128742b#ref=rss)
+### jeff
+
+* [https://www.spiegel.de/wissenschaft/weltall/spacex-und-blue-origin-jeff-bezos-gelingt-der-flug-elon-musk-die-landung](https://www.spiegel.de/wissenschaft/weltall/spacex-und-blue-origin-jeff-bezos-gelingt-der-flug-elon-musk-die-landung-a-8f414fc1-c324-4815-a9cc-de950128742b#ref=rss)
+### bezos
+
+* [https://www.spiegel.de/wissenschaft/weltall/spacex-und-blue-origin-jeff-bezos-gelingt-der-flug-elon-musk-die-landung](https://www.spiegel.de/wissenschaft/weltall/spacex-und-blue-origin-jeff-bezos-gelingt-der-flug-elon-musk-die-landung-a-8f414fc1-c324-4815-a9cc-de950128742b#ref=rss)
+### elon
+
+* [https://www.spiegel.de/wissenschaft/weltall/spacex-und-blue-origin-jeff-bezos-gelingt-der-flug-elon-musk-die-landung](https://www.spiegel.de/wissenschaft/weltall/spacex-und-blue-origin-jeff-bezos-gelingt-der-flug-elon-musk-die-landung-a-8f414fc1-c324-4815-a9cc-de950128742b#ref=rss)
+### chemnitz
+
+* [https://www.spiegel.de/panorama/justiz/chemnitz-sorge-vor-anschlag-auf-eroeffnungsfeier-der-europaeischen-kulturhauptstadt](https://www.spiegel.de/panorama/justiz/chemnitz-sorge-vor-anschlag-auf-eroeffnungsfeier-der-europaeischen-kulturhauptstadt-a-471214a0-57b6-4969-997f-06835d6a02a5#ref=rss)
+### kulturhauptstadt
+
+* [https://www.spiegel.de/panorama/justiz/chemnitz-sorge-vor-anschlag-auf-eroeffnungsfeier-der-europaeischen-kulturhauptstadt](https://www.spiegel.de/panorama/justiz/chemnitz-sorge-vor-anschlag-auf-eroeffnungsfeier-der-europaeischen-kulturhauptstadt-a-471214a0-57b6-4969-997f-06835d6a02a5#ref=rss)
 
