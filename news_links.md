@@ -4,399 +4,350 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### hamas
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-regierung-von-benjamin-netanyahu-streitet-ueber-deal-mit-hamas](https://www.spiegel.de/ausland/israel-gaza-krieg-regierung-von-benjamin-netanyahu-streitet-ueber-deal-mit-hamas-a-263c414e-f9ee-414d-a455-cb97ae274e78#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-deal-zwischen-israel-und-hamas-populismus-von-donald-trump-klage-gegen-apple](https://www.spiegel.de/politik/deutschland/news-des-tages-deal-zwischen-israel-und-hamas-populismus-von-donald-trump-klage-gegen-apple-a-f7744c37-0b29-4c03-8676-5734a2b71e94#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-wie-maechtig-ist-die-hamas-nach-dem-waffenstillstand-noch](https://www.spiegel.de/ausland/gaza-wie-maechtig-ist-die-hamas-nach-dem-waffenstillstand-noch-a-25df2fff-516f-44ee-aac4-b74ea19f928a#ref=rss)
-### mann
-
-* [https://www.spiegel.de/ausland/frankreich-francois-bayrou-macrons-letzter-mann-im-politischen-chaos](https://www.spiegel.de/ausland/frankreich-francois-bayrou-macrons-letzter-mann-im-politischen-chaos-a-6f8f037d-2010-4f96-9e86-2223db54366d#ref=rss)
-* [https://www.spiegel.de/ausland/serbien-mann-rast-bei-studentenprotesten-mit-auto-in-demonstrantengruppe](https://www.spiegel.de/ausland/serbien-mann-rast-bei-studentenprotesten-mit-auto-in-demonstrantengruppe-a-6c83ec71-df82-4234-bd74-8561b9e76754#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/koeln-mann-zieht-schusswaffe-bei-streit-um-parkplatz](https://www.spiegel.de/panorama/justiz/koeln-mann-zieht-schusswaffe-bei-streit-um-parkplatz-a-9afe46df-10b6-4c8d-a4b9-5e7a0764d099#ref=rss)
-### frau
-
-* [https://www.spiegel.de/reise/europa/allein-reisen-wie-haben-sie-ihre-solo-radtour-durch-frankreich-und-spanien-erlebt-frau-wandel](https://www.spiegel.de/reise/europa/allein-reisen-wie-haben-sie-ihre-solo-radtour-durch-frankreich-und-spanien-erlebt-frau-wandel-a-b2200387-195a-44da-9def-70c14817de53#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/australien-frau-soll-einjaehrige-tochter-vergiftet-haben-um-spenden-zu-sammeln](https://www.spiegel.de/panorama/justiz/australien-frau-soll-einjaehrige-tochter-vergiftet-haben-um-spenden-zu-sammeln-a-d8ad3050-bf19-4df2-9cff-d9a2c06ce9df#ref=rss)
-* [https://www.spiegel.de/karriere/mcdonalds-trans-frau-erhaelt-16-500-euro-abfindung-wegen-verweigertem-zutritt-zur-frauenumkleide](https://www.spiegel.de/karriere/mcdonalds-trans-frau-erhaelt-16-500-euro-abfindung-wegen-verweigertem-zutritt-zur-frauenumkleide-a-f29bfcdc-56b7-4b17-b614-8ea06f68a89d#ref=rss)
-### frankreich
-
-* [https://www.spiegel.de/ausland/frankreich-francois-bayrou-macrons-letzter-mann-im-politischen-chaos](https://www.spiegel.de/ausland/frankreich-francois-bayrou-macrons-letzter-mann-im-politischen-chaos-a-6f8f037d-2010-4f96-9e86-2223db54366d#ref=rss)
-* [https://www.spiegel.de/reise/europa/allein-reisen-wie-haben-sie-ihre-solo-radtour-durch-frankreich-und-spanien-erlebt-frau-wandel](https://www.spiegel.de/reise/europa/allein-reisen-wie-haben-sie-ihre-solo-radtour-durch-frankreich-und-spanien-erlebt-frau-wandel-a-b2200387-195a-44da-9def-70c14817de53#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-misstrauensvotum-gegen-premierminister-bayrou-gescheitert](https://www.spiegel.de/ausland/frankreich-misstrauensvotum-gegen-premierminister-bayrou-gescheitert-a-e60daeeb-0cb4-4847-837a-920693c4c8b6#ref=rss)
-### bayrou
-
-* [https://www.spiegel.de/ausland/frankreich-francois-bayrou-macrons-letzter-mann-im-politischen-chaos](https://www.spiegel.de/ausland/frankreich-francois-bayrou-macrons-letzter-mann-im-politischen-chaos-a-6f8f037d-2010-4f96-9e86-2223db54366d#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-misstrauensvotum-gegen-premierminister-bayrou-gescheitert](https://www.spiegel.de/ausland/frankreich-misstrauensvotum-gegen-premierminister-bayrou-gescheitert-a-e60daeeb-0cb4-4847-837a-920693c4c8b6#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/justiz/slowakei-zwei-tote-bei-messerangriff-in-schule-in-spisska-stara-ves](https://www.spiegel.de/panorama/justiz/slowakei-zwei-tote-bei-messerangriff-in-schule-in-spisska-stara-ves-a-69bb7dea-e02d-4785-ad8f-ebdc961071d4#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/schottland-zwillingsschwestern-seit-einer-woche-vermisst-polizei-sucht-nach-spuren](https://www.spiegel.de/panorama/justiz/schottland-zwillingsschwestern-seit-einer-woche-vermisst-polizei-sucht-nach-spuren-a-427cecb6-ee97-4d06-90fe-65f26d61f210#ref=rss)
-* [https://www.spiegel.de/panorama/koelner-zoo-stellt-dikdiks-vor-so-gross-wie-ein-hase-und-doch-eine-antilope](https://www.spiegel.de/panorama/koelner-zoo-stellt-dikdiks-vor-so-gross-wie-ein-hase-und-doch-eine-antilope-a-c7e3d20d-2b0b-4be2-9aaf-409b5e8fa93e#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/politik/deutschland/magdeburg-versaeumnisse-bei-der-umsetzung-von-sicherheitskonzepten-in-deutschland-doppeltes-versagen](https://www.spiegel.de/politik/deutschland/magdeburg-versaeumnisse-bei-der-umsetzung-von-sicherheitskonzepten-in-deutschland-doppeltes-versagen-a-b86f2b33-e969-436e-a99e-18aa4c382df4#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/lehrerin-mit-80-verena-zapf-unterrichtet-seit-mehr-als-60-jahren-warum](https://www.spiegel.de/panorama/bildung/lehrerin-mit-80-verena-zapf-unterrichtet-seit-mehr-als-60-jahren-warum-a-8e89d535-24f3-40a2-b362-f16d52a90abc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/maul-und-klauenseuche-weiterer-verdachtsfall-im-landkreis-barmin](https://www.spiegel.de/wirtschaft/maul-und-klauenseuche-weiterer-verdachtsfall-im-landkreis-barmin-a-0e6ea65d-a5f0-43db-8727-7689d76bd5b4#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/panorama/bildung/lehrerin-mit-80-verena-zapf-unterrichtet-seit-mehr-als-60-jahren-warum](https://www.spiegel.de/panorama/bildung/lehrerin-mit-80-verena-zapf-unterrichtet-seit-mehr-als-60-jahren-warum-a-8e89d535-24f3-40a2-b362-f16d52a90abc#ref=rss)
-* [https://www.spiegel.de/ausland/fake-rezensionen-italien-plant-neues-gesetz](https://www.spiegel.de/ausland/fake-rezensionen-italien-plant-neues-gesetz-a-fe7e5b4b-3c4e-40c8-92d1-7e8cb0e38e91#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/parteispenden-kryptoplattform-bitpanda-unterstuetzt-cdu-csu-und-spd-mit-millionenbetrag](https://www.spiegel.de/politik/deutschland/parteispenden-kryptoplattform-bitpanda-unterstuetzt-cdu-csu-und-spd-mit-millionenbetrag-a-b559e618-392d-497f-b582-e6b125c0582c#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/amazon-prime-gericht-erklaert-preiserhoehung-im-jahr-2022-fuer-unzulaessig-sammelklage-geplant](https://www.spiegel.de/netzwelt/netzpolitik/amazon-prime-gericht-erklaert-preiserhoehung-im-jahr-2022-fuer-unzulaessig-sammelklage-geplant-a-db3f67f4-f331-4f06-a225-519cd2e1dbfc#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/donald-trump-wie-tickt-pete-hegseth-der-umstrittene-designierte-us-verteidigungsminister](https://www.spiegel.de/ausland/donald-trump-wie-tickt-pete-hegseth-der-umstrittene-designierte-us-verteidigungsminister-a-fd375794-5cfa-4482-a818-798df175ff40#ref=rss)
-* [https://www.spiegel.de/ausland/amtseinfuehrung-in-washington-ehemalige-us-praesidenten-werden-nicht-mit-donald-trump-mittagessen](https://www.spiegel.de/ausland/amtseinfuehrung-in-washington-ehemalige-us-praesidenten-werden-nicht-mit-donald-trump-mittagessen-a-46ef2560-e104-4302-9e63-29af5648a43a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-deal-zwischen-israel-und-hamas-populismus-von-donald-trump-klage-gegen-apple](https://www.spiegel.de/politik/deutschland/news-des-tages-deal-zwischen-israel-und-hamas-populismus-von-donald-trump-klage-gegen-apple-a-f7744c37-0b29-4c03-8676-5734a2b71e94#ref=rss)
-### euro
-
-* [https://www.spiegel.de/panorama/justiz/australien-frau-soll-einjaehrige-tochter-vergiftet-haben-um-spenden-zu-sammeln](https://www.spiegel.de/panorama/justiz/australien-frau-soll-einjaehrige-tochter-vergiftet-haben-um-spenden-zu-sammeln-a-d8ad3050-bf19-4df2-9cff-d9a2c06ce9df#ref=rss)
-* [https://www.spiegel.de/karriere/mcdonalds-trans-frau-erhaelt-16-500-euro-abfindung-wegen-verweigertem-zutritt-zur-frauenumkleide](https://www.spiegel.de/karriere/mcdonalds-trans-frau-erhaelt-16-500-euro-abfindung-wegen-verweigertem-zutritt-zur-frauenumkleide-a-f29bfcdc-56b7-4b17-b614-8ea06f68a89d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/parteispenden-kryptoplattform-bitpanda-unterstuetzt-cdu-csu-und-spd-mit-millionenbetrag](https://www.spiegel.de/politik/deutschland/parteispenden-kryptoplattform-bitpanda-unterstuetzt-cdu-csu-und-spd-mit-millionenbetrag-a-b559e618-392d-497f-b582-e6b125c0582c#ref=rss)
-### maul
-
-* [https://www.spiegel.de/wirtschaft/maul-und-klauenseuche-fleischpreise-fuer-verbraucher-koennten-steigen](https://www.spiegel.de/wirtschaft/maul-und-klauenseuche-fleischpreise-fuer-verbraucher-koennten-steigen-a-e9d613fb-c1e5-48e3-8ae2-51265e721e34#ref=rss)
-* [https://www.spiegel.de/wirtschaft/maul-und-klauenseuche-weiterer-verdachtsfall-im-landkreis-barmin](https://www.spiegel.de/wirtschaft/maul-und-klauenseuche-weiterer-verdachtsfall-im-landkreis-barmin-a-0e6ea65d-a5f0-43db-8727-7689d76bd5b4#ref=rss)
-### klauenseuche
-
-* [https://www.spiegel.de/wirtschaft/maul-und-klauenseuche-fleischpreise-fuer-verbraucher-koennten-steigen](https://www.spiegel.de/wirtschaft/maul-und-klauenseuche-fleischpreise-fuer-verbraucher-koennten-steigen-a-e9d613fb-c1e5-48e3-8ae2-51265e721e34#ref=rss)
-* [https://www.spiegel.de/wirtschaft/maul-und-klauenseuche-weiterer-verdachtsfall-im-landkreis-barmin](https://www.spiegel.de/wirtschaft/maul-und-klauenseuche-weiterer-verdachtsfall-im-landkreis-barmin-a-0e6ea65d-a5f0-43db-8727-7689d76bd5b4#ref=rss)
-### zeigen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/boeing-737-max-abstuerze-zeigen-gefaehrliches-profitstreben-podcast-firewall](https://www.spiegel.de/wirtschaft/unternehmen/boeing-737-max-abstuerze-zeigen-gefaehrliches-profitstreben-podcast-firewall-a-66d11e5d-0a5b-43e4-8bf5-5a1a7367c3d0#ref=rss)
-* [https://www.spiegel.de/kultur/los-angeles-architekt-friedrich-von-borries-fordert-ein-radikales-umdenken-beim-bauen-und-wohnen](https://www.spiegel.de/kultur/los-angeles-architekt-friedrich-von-borries-fordert-ein-radikales-umdenken-beim-bauen-und-wohnen-a-c377f600-7f9f-4c31-abeb-95ac70902e99#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/magdeburg-versaeumnisse-bei-der-umsetzung-von-sicherheitskonzepten-in-deutschland-doppeltes-versagen](https://www.spiegel.de/politik/deutschland/magdeburg-versaeumnisse-bei-der-umsetzung-von-sicherheitskonzepten-in-deutschland-doppeltes-versagen-a-b86f2b33-e969-436e-a99e-18aa4c382df4#ref=rss)
-### françois
-
-* [https://www.spiegel.de/ausland/frankreich-francois-bayrou-macrons-letzter-mann-im-politischen-chaos](https://www.spiegel.de/ausland/frankreich-francois-bayrou-macrons-letzter-mann-im-politischen-chaos-a-6f8f037d-2010-4f96-9e86-2223db54366d#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-misstrauensvotum-gegen-premierminister-bayrou-gescheitert](https://www.spiegel.de/ausland/frankreich-misstrauensvotum-gegen-premierminister-bayrou-gescheitert-a-e60daeeb-0cb4-4847-837a-920693c4c8b6#ref=rss)
-### schule
-
-* [https://www.spiegel.de/panorama/justiz/slowakei-zwei-tote-bei-messerangriff-in-schule-in-spisska-stara-ves](https://www.spiegel.de/panorama/justiz/slowakei-zwei-tote-bei-messerangriff-in-schule-in-spisska-stara-ves-a-69bb7dea-e02d-4785-ad8f-ebdc961071d4#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/lehrerin-mit-80-verena-zapf-unterrichtet-seit-mehr-als-60-jahren-warum](https://www.spiegel.de/panorama/bildung/lehrerin-mit-80-verena-zapf-unterrichtet-seit-mehr-als-60-jahren-warum-a-8e89d535-24f3-40a2-b362-f16d52a90abc#ref=rss)
-### lehrerin
-
-* [https://www.spiegel.de/panorama/justiz/slowakei-zwei-tote-bei-messerangriff-in-schule-in-spisska-stara-ves](https://www.spiegel.de/panorama/justiz/slowakei-zwei-tote-bei-messerangriff-in-schule-in-spisska-stara-ves-a-69bb7dea-e02d-4785-ad8f-ebdc961071d4#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/lehrerin-mit-80-verena-zapf-unterrichtet-seit-mehr-als-60-jahren-warum](https://www.spiegel.de/panorama/bildung/lehrerin-mit-80-verena-zapf-unterrichtet-seit-mehr-als-60-jahren-warum-a-8e89d535-24f3-40a2-b362-f16d52a90abc#ref=rss)
-### los
-
-* [https://www.spiegel.de/kultur/los-angeles-architekt-friedrich-von-borries-fordert-ein-radikales-umdenken-beim-bauen-und-wohnen](https://www.spiegel.de/kultur/los-angeles-architekt-friedrich-von-borries-fordert-ein-radikales-umdenken-beim-bauen-und-wohnen-a-c377f600-7f9f-4c31-abeb-95ac70902e99#ref=rss)
-* [https://www.spiegel.de/reise/europa/allein-reisen-wie-haben-sie-ihre-solo-radtour-durch-frankreich-und-spanien-erlebt-frau-wandel](https://www.spiegel.de/reise/europa/allein-reisen-wie-haben-sie-ihre-solo-radtour-durch-frankreich-und-spanien-erlebt-frau-wandel-a-b2200387-195a-44da-9def-70c14817de53#ref=rss)
-### lange
-
-* [https://www.spiegel.de/reise/europa/allein-reisen-wie-haben-sie-ihre-solo-radtour-durch-frankreich-und-spanien-erlebt-frau-wandel](https://www.spiegel.de/reise/europa/allein-reisen-wie-haben-sie-ihre-solo-radtour-durch-frankreich-und-spanien-erlebt-frau-wandel-a-b2200387-195a-44da-9def-70c14817de53#ref=rss)
-* [https://www.spiegel.de/ausland/bulgarien-parlament-bestaetigt-ungewoehnliche-dreierkoalition-nach-sieben-wahlen](https://www.spiegel.de/ausland/bulgarien-parlament-bestaetigt-ungewoehnliche-dreierkoalition-nach-sieben-wahlen-a-4f12173f-9f28-4a42-aff6-7e04db6b9154#ref=rss)
-* [https://www.spiegel.de/panorama/koelner-zoo-stellt-dikdiks-vor-so-gross-wie-ein-hase-und-doch-eine-antilope](https://www.spiegel.de/panorama/koelner-zoo-stellt-dikdiks-vor-so-gross-wie-ein-hase-und-doch-eine-antilope-a-c7e3d20d-2b0b-4be2-9aaf-409b5e8fa93e#ref=rss)
 ### woche
 
-* [https://www.spiegel.de/panorama/justiz/schottland-zwillingsschwestern-seit-einer-woche-vermisst-polizei-sucht-nach-spuren](https://www.spiegel.de/panorama/justiz/schottland-zwillingsschwestern-seit-einer-woche-vermisst-polizei-sucht-nach-spuren-a-427cecb6-ee97-4d06-90fe-65f26d61f210#ref=rss)
-### polizei
+* [https://www.spiegel.de/start/jobangebot-studentin-soll-fuer-ihr-praktikum-bezahlen-30-euro-pro-stunde](https://www.spiegel.de/start/jobangebot-studentin-soll-fuer-ihr-praktikum-bezahlen-30-euro-pro-stunde-a-78145d25-211d-48f1-896c-439dfb5d9090#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/klimaschutz-und-landwirtschaft-warum-die-gruene-woche-nur-gruen-tut-aber-es-nicht-ist](https://www.spiegel.de/wissenschaft/mensch/klimaschutz-und-landwirtschaft-warum-die-gruene-woche-nur-gruen-tut-aber-es-nicht-ist-a-ed109319-595a-4548-9008-b6633d078838#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/radhaubitze-rch-155-was-kann-das-hochmoderne-waffensystem](https://www.spiegel.de/wissenschaft/technik/radhaubitze-rch-155-was-kann-das-hochmoderne-waffensystem-a-5237d545-7abf-4493-b4a3-d09aa0e4c7a4#ref=rss)
+### david
 
-* [https://www.spiegel.de/panorama/justiz/schottland-zwillingsschwestern-seit-einer-woche-vermisst-polizei-sucht-nach-spuren](https://www.spiegel.de/panorama/justiz/schottland-zwillingsschwestern-seit-einer-woche-vermisst-polizei-sucht-nach-spuren-a-427cecb6-ee97-4d06-90fe-65f26d61f210#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/australien-frau-soll-einjaehrige-tochter-vergiftet-haben-um-spenden-zu-sammeln](https://www.spiegel.de/panorama/justiz/australien-frau-soll-einjaehrige-tochter-vergiftet-haben-um-spenden-zu-sammeln-a-d8ad3050-bf19-4df2-9cff-d9a2c06ce9df#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/koeln-mann-zieht-schusswaffe-bei-streit-um-parkplatz](https://www.spiegel.de/panorama/justiz/koeln-mann-zieht-schusswaffe-bei-streit-um-parkplatz-a-9afe46df-10b6-4c8d-a4b9-5e7a0764d099#ref=rss)
+* [https://www.spiegel.de/kultur/kino/david-lynch-ist-tot-surreale-und-duestere-aesthetik-rueckblick-auf-die-beruehmtesten-werke-des-regisseurs](https://www.spiegel.de/kultur/kino/david-lynch-ist-tot-surreale-und-duestere-aesthetik-rueckblick-auf-die-beruehmtesten-werke-des-regisseurs-a-833f2630-388b-40a7-a669-b0a059c1b60b#ref=rss)
+* [https://www.spiegel.de/kultur/kino/david-lynch-ist-tot-unergruedliche-abseitigkeit](https://www.spiegel.de/kultur/kino/david-lynch-ist-tot-unergruedliche-abseitigkeit-a-f8cd82dd-bd84-4c99-bd48-e671486e25fd#ref=rss)
+### lynch
+
+* [https://www.spiegel.de/kultur/kino/david-lynch-ist-tot-surreale-und-duestere-aesthetik-rueckblick-auf-die-beruehmtesten-werke-des-regisseurs](https://www.spiegel.de/kultur/kino/david-lynch-ist-tot-surreale-und-duestere-aesthetik-rueckblick-auf-die-beruehmtesten-werke-des-regisseurs-a-833f2630-388b-40a7-a669-b0a059c1b60b#ref=rss)
+* [https://www.spiegel.de/kultur/kino/david-lynch-ist-tot-unergruedliche-abseitigkeit](https://www.spiegel.de/kultur/kino/david-lynch-ist-tot-unergruedliche-abseitigkeit-a-f8cd82dd-bd84-4c99-bd48-e671486e25fd#ref=rss)
+### zahl
+
+* [https://www.spiegel.de/wirtschaft/baugenehmigungen-zahl-sank-auch-im-november](https://www.spiegel.de/wirtschaft/baugenehmigungen-zahl-sank-auch-im-november-a-6aa8f9ce-53f8-4d0e-9935-0858f1b69416#ref=rss)
+* [https://www.spiegel.de/panorama/waldbraende-in-los-angeles-zahl-der-todesopfer-steigt-auf-27](https://www.spiegel.de/panorama/waldbraende-in-los-angeles-zahl-der-todesopfer-steigt-auf-27-a-4a7c1455-c700-4372-8410-90c797663382#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/wirtschaft/grossteil-der-tarifbeschaeftigten-erhielt-inflationspraemie](https://www.spiegel.de/wirtschaft/grossteil-der-tarifbeschaeftigten-erhielt-inflationspraemie-a-b568e9ee-519a-4953-9074-1f0f3a9e63cc#ref=rss)
+* [https://www.spiegel.de/panorama/neustadt-an-der-donau-vier-verletzte-bei-brand-in-raffinerie](https://www.spiegel.de/panorama/neustadt-an-der-donau-vier-verletzte-bei-brand-in-raffinerie-a-bea4c2cc-b406-4780-b91b-ad007d18d3b7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/umfrage-zum-autokauf-preis-schlaegt-qualitaet](https://www.spiegel.de/wirtschaft/umfrage-zum-autokauf-preis-schlaegt-qualitaet-a-018e0f4f-49df-4c06-8ca5-2e0c0ea49f9a#ref=rss)
+### prozent
+
+* [https://www.spiegel.de/wirtschaft/grossteil-der-tarifbeschaeftigten-erhielt-inflationspraemie](https://www.spiegel.de/wirtschaft/grossteil-der-tarifbeschaeftigten-erhielt-inflationspraemie-a-b568e9ee-519a-4953-9074-1f0f3a9e63cc#ref=rss)
+* [https://www.spiegel.de/wirtschaft/china-wirtschaft-unter-druck-fuenf-prozent-wachstum-reichen-nicht](https://www.spiegel.de/wirtschaft/china-wirtschaft-unter-druck-fuenf-prozent-wachstum-reichen-nicht-a-14be4ddc-9495-4afa-b423-6578001c48a4#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/netzwelt/apps/tiktok-trend-moechtegern-paedophilenjaeger-landen-vor-gericht](https://www.spiegel.de/netzwelt/apps/tiktok-trend-moechtegern-paedophilenjaeger-landen-vor-gericht-a-e8903f5f-00bb-4ecc-9045-3c6d2440d5bf#ref=rss)
+* [https://www.spiegel.de/ausland/waffenstillstand-im-israel-gaza-krieg-die-rueckkehr-der-hoffnung](https://www.spiegel.de/ausland/waffenstillstand-im-israel-gaza-krieg-die-rueckkehr-der-hoffnung-a-2d9c4279-6d2b-46a0-aa15-931d130b122e#ref=rss)
+* [https://www.spiegel.de/panorama/leute/feuer-in-los-angeles-billie-eilish-und-green-day-spielen-benefizkonzert-zur-unterstuetzung-der-opfer](https://www.spiegel.de/panorama/leute/feuer-in-los-angeles-billie-eilish-und-green-day-spielen-benefizkonzert-zur-unterstuetzung-der-opfer-a-8f49e4fa-49c1-49f9-be51-dbe937db4996#ref=rss)
+### euro
+
+* [https://www.spiegel.de/start/jobangebot-studentin-soll-fuer-ihr-praktikum-bezahlen-30-euro-pro-stunde](https://www.spiegel.de/start/jobangebot-studentin-soll-fuer-ihr-praktikum-bezahlen-30-euro-pro-stunde-a-78145d25-211d-48f1-896c-439dfb5d9090#ref=rss)
+### pro
+
+* [https://www.spiegel.de/start/jobangebot-studentin-soll-fuer-ihr-praktikum-bezahlen-30-euro-pro-stunde](https://www.spiegel.de/start/jobangebot-studentin-soll-fuer-ihr-praktikum-bezahlen-30-euro-pro-stunde-a-78145d25-211d-48f1-896c-439dfb5d9090#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/ausland/donald-trump-wie-tickt-pete-hegseth-der-umstrittene-designierte-us-verteidigungsminister](https://www.spiegel.de/ausland/donald-trump-wie-tickt-pete-hegseth-der-umstrittene-designierte-us-verteidigungsminister-a-fd375794-5cfa-4482-a818-798df175ff40#ref=rss)
-* [https://www.spiegel.de/ausland/amtseinfuehrung-in-washington-ehemalige-us-praesidenten-werden-nicht-mit-donald-trump-mittagessen](https://www.spiegel.de/ausland/amtseinfuehrung-in-washington-ehemalige-us-praesidenten-werden-nicht-mit-donald-trump-mittagessen-a-46ef2560-e104-4302-9e63-29af5648a43a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-deal-zwischen-israel-und-hamas-populismus-von-donald-trump-klage-gegen-apple](https://www.spiegel.de/politik/deutschland/news-des-tages-deal-zwischen-israel-und-hamas-populismus-von-donald-trump-klage-gegen-apple-a-f7744c37-0b29-4c03-8676-5734a2b71e94#ref=rss)
-### stellt
+* [https://www.spiegel.de/kultur/kino/usa-donald-trump-entsendet-hollywood-veteranen-als-sonderbotschafter](https://www.spiegel.de/kultur/kino/usa-donald-trump-entsendet-hollywood-veteranen-als-sonderbotschafter-a-c6bc2ca2-c525-4878-8ce7-00a11497c244#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trumps-amtseinfuehrung-obama-bush-und-zuckerberg-wer-steht-auf-der-gaesteliste](https://www.spiegel.de/ausland/donald-trumps-amtseinfuehrung-obama-bush-und-zuckerberg-wer-steht-auf-der-gaesteliste-a-6860fb16-e959-47ee-9023-65da5e579668#ref=rss)
+### joe
 
-* [https://www.spiegel.de/ausland/donald-trump-wie-tickt-pete-hegseth-der-umstrittene-designierte-us-verteidigungsminister](https://www.spiegel.de/ausland/donald-trump-wie-tickt-pete-hegseth-der-umstrittene-designierte-us-verteidigungsminister-a-fd375794-5cfa-4482-a818-798df175ff40#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-regierung-von-benjamin-netanyahu-streitet-ueber-deal-mit-hamas](https://www.spiegel.de/ausland/israel-gaza-krieg-regierung-von-benjamin-netanyahu-streitet-ueber-deal-mit-hamas-a-263c414e-f9ee-414d-a455-cb97ae274e78#ref=rss)
-* [https://www.spiegel.de/panorama/koelner-zoo-stellt-dikdiks-vor-so-gross-wie-ein-hase-und-doch-eine-antilope](https://www.spiegel.de/panorama/koelner-zoo-stellt-dikdiks-vor-so-gross-wie-ein-hase-und-doch-eine-antilope-a-c7e3d20d-2b0b-4be2-9aaf-409b5e8fa93e#ref=rss)
-### ehemalige
+* [https://www.spiegel.de/ausland/joe-bidens-karriere-vom-juengsten-senator-zum-aeltesten-praesidenten](https://www.spiegel.de/ausland/joe-bidens-karriere-vom-juengsten-senator-zum-aeltesten-praesidenten-a-98653216-9682-4868-a6e4-24381f07c1f3#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trumps-amtseinfuehrung-obama-bush-und-zuckerberg-wer-steht-auf-der-gaesteliste](https://www.spiegel.de/ausland/donald-trumps-amtseinfuehrung-obama-bush-und-zuckerberg-wer-steht-auf-der-gaesteliste-a-6860fb16-e959-47ee-9023-65da5e579668#ref=rss)
+### sehen
 
-* [https://www.spiegel.de/ausland/donald-trump-wie-tickt-pete-hegseth-der-umstrittene-designierte-us-verteidigungsminister](https://www.spiegel.de/ausland/donald-trump-wie-tickt-pete-hegseth-der-umstrittene-designierte-us-verteidigungsminister-a-fd375794-5cfa-4482-a818-798df175ff40#ref=rss)
-* [https://www.spiegel.de/ausland/amtseinfuehrung-in-washington-ehemalige-us-praesidenten-werden-nicht-mit-donald-trump-mittagessen](https://www.spiegel.de/ausland/amtseinfuehrung-in-washington-ehemalige-us-praesidenten-werden-nicht-mit-donald-trump-mittagessen-a-46ef2560-e104-4302-9e63-29af5648a43a#ref=rss)
-### offenbar
+* [https://www.spiegel.de/ausland/joe-bidens-karriere-vom-juengsten-senator-zum-aeltesten-praesidenten](https://www.spiegel.de/ausland/joe-bidens-karriere-vom-juengsten-senator-zum-aeltesten-praesidenten-a-98653216-9682-4868-a6e4-24381f07c1f3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/china-wirtschaft-unter-druck-fuenf-prozent-wachstum-reichen-nicht](https://www.spiegel.de/wirtschaft/china-wirtschaft-unter-druck-fuenf-prozent-wachstum-reichen-nicht-a-14be4ddc-9495-4afa-b423-6578001c48a4#ref=rss)
+* [https://www.spiegel.de/stil/ugg-boots-warum-die-klobigen-lammfellstiefel-wieder-angesagt-sind](https://www.spiegel.de/stil/ugg-boots-warum-die-klobigen-lammfellstiefel-wieder-angesagt-sind-a-a53eaf83-37cf-4d7a-b6f5-06ad67a7d7e9#ref=rss)
+### zurück
 
-* [https://www.spiegel.de/kultur/musik/24-7-spyz-saenger-p-fluid-wurde-offenbar-umgebracht](https://www.spiegel.de/kultur/musik/24-7-spyz-saenger-p-fluid-wurde-offenbar-umgebracht-a-b6b8152a-72b0-4252-b5da-93fc6900cd71#ref=rss)
-* [https://www.spiegel.de/ausland/amtseinfuehrung-in-washington-ehemalige-us-praesidenten-werden-nicht-mit-donald-trump-mittagessen](https://www.spiegel.de/ausland/amtseinfuehrung-in-washington-ehemalige-us-praesidenten-werden-nicht-mit-donald-trump-mittagessen-a-46ef2560-e104-4302-9e63-29af5648a43a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/koeln-mann-zieht-schusswaffe-bei-streit-um-parkplatz](https://www.spiegel.de/panorama/justiz/koeln-mann-zieht-schusswaffe-bei-streit-um-parkplatz-a-9afe46df-10b6-4c8d-a4b9-5e7a0764d099#ref=rss)
-### köln
+* [https://www.spiegel.de/kultur/justin-baldoni-weist-anschuldigungen-von-blake-lively-und-ryan-reynolds-zurueck-und-verklagt-sie-auf-400-millionen-dollar](https://www.spiegel.de/kultur/justin-baldoni-weist-anschuldigungen-von-blake-lively-und-ryan-reynolds-zurueck-und-verklagt-sie-auf-400-millionen-dollar-a-ed0bfba7-3ee8-49fd-8bcf-664646148ecc#ref=rss)
+* [https://www.spiegel.de/sport/tennis/australian-open-2025-naomi-osaka-muss-verletzungsbedingt-aufgeben](https://www.spiegel.de/sport/tennis/australian-open-2025-naomi-osaka-muss-verletzungsbedingt-aufgeben-a-c7822d52-b394-4dd7-93af-1d21b26059bd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/baugenehmigungen-zahl-sank-auch-im-november](https://www.spiegel.de/wirtschaft/baugenehmigungen-zahl-sank-auch-im-november-a-6aa8f9ce-53f8-4d0e-9935-0858f1b69416#ref=rss)
+### osaka
 
-* [https://www.spiegel.de/panorama/justiz/koeln-mann-zieht-schusswaffe-bei-streit-um-parkplatz](https://www.spiegel.de/panorama/justiz/koeln-mann-zieht-schusswaffe-bei-streit-um-parkplatz-a-9afe46df-10b6-4c8d-a4b9-5e7a0764d099#ref=rss)
-* [https://www.spiegel.de/panorama/koelner-zoo-stellt-dikdiks-vor-so-gross-wie-ein-hase-und-doch-eine-antilope](https://www.spiegel.de/panorama/koelner-zoo-stellt-dikdiks-vor-so-gross-wie-ein-hase-und-doch-eine-antilope-a-c7e3d20d-2b0b-4be2-9aaf-409b5e8fa93e#ref=rss)
-### boeing
+* [https://www.spiegel.de/sport/tennis/australian-open-2025-naomi-osaka-muss-verletzungsbedingt-aufgeben](https://www.spiegel.de/sport/tennis/australian-open-2025-naomi-osaka-muss-verletzungsbedingt-aufgeben-a-c7822d52-b394-4dd7-93af-1d21b26059bd#ref=rss)
+### tot
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/boeing-737-max-abstuerze-zeigen-gefaehrliches-profitstreben-podcast-firewall](https://www.spiegel.de/wirtschaft/unternehmen/boeing-737-max-abstuerze-zeigen-gefaehrliches-profitstreben-podcast-firewall-a-66d11e5d-0a5b-43e4-8bf5-5a1a7367c3d0#ref=rss)
-### firewall
+* [https://www.spiegel.de/kultur/kino/david-lynch-ist-tot-surreale-und-duestere-aesthetik-rueckblick-auf-die-beruehmtesten-werke-des-regisseurs](https://www.spiegel.de/kultur/kino/david-lynch-ist-tot-surreale-und-duestere-aesthetik-rueckblick-auf-die-beruehmtesten-werke-des-regisseurs-a-833f2630-388b-40a7-a669-b0a059c1b60b#ref=rss)
+* [https://www.spiegel.de/kultur/kino/david-lynch-ist-tot-unergruedliche-abseitigkeit](https://www.spiegel.de/kultur/kino/david-lynch-ist-tot-unergruedliche-abseitigkeit-a-f8cd82dd-bd84-4c99-bd48-e671486e25fd#ref=rss)
+### verurteilt
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/boeing-737-max-abstuerze-zeigen-gefaehrliches-profitstreben-podcast-firewall](https://www.spiegel.de/wirtschaft/unternehmen/boeing-737-max-abstuerze-zeigen-gefaehrliches-profitstreben-podcast-firewall-a-66d11e5d-0a5b-43e4-8bf5-5a1a7367c3d0#ref=rss)
-### hatten
+* [https://www.spiegel.de/ausland/pakistan-ex-premierminister-imran-khan-in-korruptionsprozess-zu-14-jahren-haft-verurteilt](https://www.spiegel.de/ausland/pakistan-ex-premierminister-imran-khan-in-korruptionsprozess-zu-14-jahren-haft-verurteilt-a-5bc89d62-e3f2-4093-8516-3970ceedf7b3#ref=rss)
+* [https://www.spiegel.de/ausland/russland-gericht-verurteilt-drei-nawalny-anwaelte-zu-mehrjaehriger-haft](https://www.spiegel.de/ausland/russland-gericht-verurteilt-drei-nawalny-anwaelte-zu-mehrjaehriger-haft-a-e6a84f45-735a-45f0-904a-64dc45a67ad4#ref=rss)
+### los
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/boeing-737-max-abstuerze-zeigen-gefaehrliches-profitstreben-podcast-firewall](https://www.spiegel.de/wirtschaft/unternehmen/boeing-737-max-abstuerze-zeigen-gefaehrliches-profitstreben-podcast-firewall-a-66d11e5d-0a5b-43e4-8bf5-5a1a7367c3d0#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/schottland-zwillingsschwestern-seit-einer-woche-vermisst-polizei-sucht-nach-spuren](https://www.spiegel.de/panorama/justiz/schottland-zwillingsschwestern-seit-einer-woche-vermisst-polizei-sucht-nach-spuren-a-427cecb6-ee97-4d06-90fe-65f26d61f210#ref=rss)
-### chaos
-
-* [https://www.spiegel.de/ausland/frankreich-francois-bayrou-macrons-letzter-mann-im-politischen-chaos](https://www.spiegel.de/ausland/frankreich-francois-bayrou-macrons-letzter-mann-im-politischen-chaos-a-6f8f037d-2010-4f96-9e86-2223db54366d#ref=rss)
-### ves
-
-* [https://www.spiegel.de/panorama/justiz/slowakei-zwei-tote-bei-messerangriff-in-schule-in-spisska-stara-ves](https://www.spiegel.de/panorama/justiz/slowakei-zwei-tote-bei-messerangriff-in-schule-in-spisska-stara-ves-a-69bb7dea-e02d-4785-ad8f-ebdc961071d4#ref=rss)
+* [https://www.spiegel.de/panorama/waldbraende-in-los-angeles-zahl-der-todesopfer-steigt-auf-27](https://www.spiegel.de/panorama/waldbraende-in-los-angeles-zahl-der-todesopfer-steigt-auf-27-a-4a7c1455-c700-4372-8410-90c797663382#ref=rss)
+* [https://www.spiegel.de/panorama/leute/feuer-in-los-angeles-billie-eilish-und-green-day-spielen-benefizkonzert-zur-unterstuetzung-der-opfer](https://www.spiegel.de/panorama/leute/feuer-in-los-angeles-billie-eilish-und-green-day-spielen-benefizkonzert-zur-unterstuetzung-der-opfer-a-8f49e4fa-49c1-49f9-be51-dbe937db4996#ref=rss)
 ### angeles
 
-* [https://www.spiegel.de/kultur/los-angeles-architekt-friedrich-von-borries-fordert-ein-radikales-umdenken-beim-bauen-und-wohnen](https://www.spiegel.de/kultur/los-angeles-architekt-friedrich-von-borries-fordert-ein-radikales-umdenken-beim-bauen-und-wohnen-a-c377f600-7f9f-4c31-abeb-95ac70902e99#ref=rss)
-### architekt
+* [https://www.spiegel.de/panorama/waldbraende-in-los-angeles-zahl-der-todesopfer-steigt-auf-27](https://www.spiegel.de/panorama/waldbraende-in-los-angeles-zahl-der-todesopfer-steigt-auf-27-a-4a7c1455-c700-4372-8410-90c797663382#ref=rss)
+* [https://www.spiegel.de/panorama/leute/feuer-in-los-angeles-billie-eilish-und-green-day-spielen-benefizkonzert-zur-unterstuetzung-der-opfer](https://www.spiegel.de/panorama/leute/feuer-in-los-angeles-billie-eilish-und-green-day-spielen-benefizkonzert-zur-unterstuetzung-der-opfer-a-8f49e4fa-49c1-49f9-be51-dbe937db4996#ref=rss)
+### tarifbeschäftigten
 
-* [https://www.spiegel.de/kultur/los-angeles-architekt-friedrich-von-borries-fordert-ein-radikales-umdenken-beim-bauen-und-wohnen](https://www.spiegel.de/kultur/los-angeles-architekt-friedrich-von-borries-fordert-ein-radikales-umdenken-beim-bauen-und-wohnen-a-c377f600-7f9f-4c31-abeb-95ac70902e99#ref=rss)
-### friedrich
+* [https://www.spiegel.de/wirtschaft/grossteil-der-tarifbeschaeftigten-erhielt-inflationspraemie](https://www.spiegel.de/wirtschaft/grossteil-der-tarifbeschaeftigten-erhielt-inflationspraemie-a-b568e9ee-519a-4953-9074-1f0f3a9e63cc#ref=rss)
+### inflationsprämie
 
-* [https://www.spiegel.de/kultur/los-angeles-architekt-friedrich-von-borries-fordert-ein-radikales-umdenken-beim-bauen-und-wohnen](https://www.spiegel.de/kultur/los-angeles-architekt-friedrich-von-borries-fordert-ein-radikales-umdenken-beim-bauen-und-wohnen-a-c377f600-7f9f-4c31-abeb-95ac70902e99#ref=rss)
-### borries
+* [https://www.spiegel.de/wirtschaft/grossteil-der-tarifbeschaeftigten-erhielt-inflationspraemie](https://www.spiegel.de/wirtschaft/grossteil-der-tarifbeschaeftigten-erhielt-inflationspraemie-a-b568e9ee-519a-4953-9074-1f0f3a9e63cc#ref=rss)
+### licht
 
-* [https://www.spiegel.de/kultur/los-angeles-architekt-friedrich-von-borries-fordert-ein-radikales-umdenken-beim-bauen-und-wohnen](https://www.spiegel.de/kultur/los-angeles-architekt-friedrich-von-borries-fordert-ein-radikales-umdenken-beim-bauen-und-wohnen-a-c377f600-7f9f-4c31-abeb-95ac70902e99#ref=rss)
-### fordert
+* [https://www.spiegel.de/wissenschaft/weltraum-riesen-teleskop-soll-das-aelteste-licht-des-universums-einfangen](https://www.spiegel.de/wissenschaft/weltraum-riesen-teleskop-soll-das-aelteste-licht-des-universums-einfangen-a-5dc1d3e4-f993-489b-b86a-cb29d58fda61#ref=rss)
+* [https://www.spiegel.de/panorama/waldbraende-in-los-angeles-zahl-der-todesopfer-steigt-auf-27](https://www.spiegel.de/panorama/waldbraende-in-los-angeles-zahl-der-todesopfer-steigt-auf-27-a-4a7c1455-c700-4372-8410-90c797663382#ref=rss)
+### petter
 
-* [https://www.spiegel.de/kultur/los-angeles-architekt-friedrich-von-borries-fordert-ein-radikales-umdenken-beim-bauen-und-wohnen](https://www.spiegel.de/kultur/los-angeles-architekt-friedrich-von-borries-fordert-ein-radikales-umdenken-beim-bauen-und-wohnen-a-c377f600-7f9f-4c31-abeb-95ac70902e99#ref=rss)
-### radikales
+* [https://www.spiegel.de/sport/wintersport/wintersport-norwegens-langlaeufer-petter-northug-will-fuer-oesterreich-bei-olympia-2026-starten](https://www.spiegel.de/sport/wintersport/wintersport-norwegens-langlaeufer-petter-northug-will-fuer-oesterreich-bei-olympia-2026-starten-a-77b8b594-bc19-4a60-82a4-dd5aba838b86#ref=rss)
+### northug
 
-* [https://www.spiegel.de/kultur/los-angeles-architekt-friedrich-von-borries-fordert-ein-radikales-umdenken-beim-bauen-und-wohnen](https://www.spiegel.de/kultur/los-angeles-architekt-friedrich-von-borries-fordert-ein-radikales-umdenken-beim-bauen-und-wohnen-a-c377f600-7f9f-4c31-abeb-95ac70902e99#ref=rss)
-### umdenken
+* [https://www.spiegel.de/sport/wintersport/wintersport-norwegens-langlaeufer-petter-northug-will-fuer-oesterreich-bei-olympia-2026-starten](https://www.spiegel.de/sport/wintersport/wintersport-norwegens-langlaeufer-petter-northug-will-fuer-oesterreich-bei-olympia-2026-starten-a-77b8b594-bc19-4a60-82a4-dd5aba838b86#ref=rss)
+### österreich
 
-* [https://www.spiegel.de/kultur/los-angeles-architekt-friedrich-von-borries-fordert-ein-radikales-umdenken-beim-bauen-und-wohnen](https://www.spiegel.de/kultur/los-angeles-architekt-friedrich-von-borries-fordert-ein-radikales-umdenken-beim-bauen-und-wohnen-a-c377f600-7f9f-4c31-abeb-95ac70902e99#ref=rss)
-### bauen
+* [https://www.spiegel.de/sport/wintersport/wintersport-norwegens-langlaeufer-petter-northug-will-fuer-oesterreich-bei-olympia-2026-starten](https://www.spiegel.de/sport/wintersport/wintersport-norwegens-langlaeufer-petter-northug-will-fuer-oesterreich-bei-olympia-2026-starten-a-77b8b594-bc19-4a60-82a4-dd5aba838b86#ref=rss)
+### 2026
 
-* [https://www.spiegel.de/kultur/los-angeles-architekt-friedrich-von-borries-fordert-ein-radikales-umdenken-beim-bauen-und-wohnen](https://www.spiegel.de/kultur/los-angeles-architekt-friedrich-von-borries-fordert-ein-radikales-umdenken-beim-bauen-und-wohnen-a-c377f600-7f9f-4c31-abeb-95ac70902e99#ref=rss)
-### wohnen
+* [https://www.spiegel.de/sport/wintersport/wintersport-norwegens-langlaeufer-petter-northug-will-fuer-oesterreich-bei-olympia-2026-starten](https://www.spiegel.de/sport/wintersport/wintersport-norwegens-langlaeufer-petter-northug-will-fuer-oesterreich-bei-olympia-2026-starten-a-77b8b594-bc19-4a60-82a4-dd5aba838b86#ref=rss)
+### karriere
 
-* [https://www.spiegel.de/kultur/los-angeles-architekt-friedrich-von-borries-fordert-ein-radikales-umdenken-beim-bauen-und-wohnen](https://www.spiegel.de/kultur/los-angeles-architekt-friedrich-von-borries-fordert-ein-radikales-umdenken-beim-bauen-und-wohnen-a-c377f600-7f9f-4c31-abeb-95ac70902e99#ref=rss)
-### magdeburg
+* [https://www.spiegel.de/sport/wintersport/wintersport-norwegens-langlaeufer-petter-northug-will-fuer-oesterreich-bei-olympia-2026-starten](https://www.spiegel.de/sport/wintersport/wintersport-norwegens-langlaeufer-petter-northug-will-fuer-oesterreich-bei-olympia-2026-starten-a-77b8b594-bc19-4a60-82a4-dd5aba838b86#ref=rss)
+* [https://www.spiegel.de/ausland/joe-bidens-karriere-vom-juengsten-senator-zum-aeltesten-praesidenten](https://www.spiegel.de/ausland/joe-bidens-karriere-vom-juengsten-senator-zum-aeltesten-praesidenten-a-98653216-9682-4868-a6e4-24381f07c1f3#ref=rss)
+### spielen
 
-* [https://www.spiegel.de/politik/deutschland/magdeburg-versaeumnisse-bei-der-umsetzung-von-sicherheitskonzepten-in-deutschland-doppeltes-versagen](https://www.spiegel.de/politik/deutschland/magdeburg-versaeumnisse-bei-der-umsetzung-von-sicherheitskonzepten-in-deutschland-doppeltes-versagen-a-b86f2b33-e969-436e-a99e-18aa4c382df4#ref=rss)
-### deutschland
+* [https://www.spiegel.de/sport/wintersport/wintersport-norwegens-langlaeufer-petter-northug-will-fuer-oesterreich-bei-olympia-2026-starten](https://www.spiegel.de/sport/wintersport/wintersport-norwegens-langlaeufer-petter-northug-will-fuer-oesterreich-bei-olympia-2026-starten-a-77b8b594-bc19-4a60-82a4-dd5aba838b86#ref=rss)
+* [https://www.spiegel.de/panorama/leute/feuer-in-los-angeles-billie-eilish-und-green-day-spielen-benefizkonzert-zur-unterstuetzung-der-opfer](https://www.spiegel.de/panorama/leute/feuer-in-los-angeles-billie-eilish-und-green-day-spielen-benefizkonzert-zur-unterstuetzung-der-opfer-a-8f49e4fa-49c1-49f9-be51-dbe937db4996#ref=rss)
+### rivian
 
-* [https://www.spiegel.de/politik/deutschland/magdeburg-versaeumnisse-bei-der-umsetzung-von-sicherheitskonzepten-in-deutschland-doppeltes-versagen](https://www.spiegel.de/politik/deutschland/magdeburg-versaeumnisse-bei-der-umsetzung-von-sicherheitskonzepten-in-deutschland-doppeltes-versagen-a-b86f2b33-e969-436e-a99e-18aa4c382df4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/maul-und-klauenseuche-weiterer-verdachtsfall-im-landkreis-barmin](https://www.spiegel.de/wirtschaft/maul-und-klauenseuche-weiterer-verdachtsfall-im-landkreis-barmin-a-0e6ea65d-a5f0-43db-8727-7689d76bd5b4#ref=rss)
-### allein
+* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-will-kooperation-mit-e-auto-spezialist-rivian-vertiefen](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-will-kooperation-mit-e-auto-spezialist-rivian-vertiefen-a-79cb6e2e-41f7-4cc9-bc6a-be8c75323634#ref=rss)
+### allem
 
-* [https://www.spiegel.de/reise/europa/allein-reisen-wie-haben-sie-ihre-solo-radtour-durch-frankreich-und-spanien-erlebt-frau-wandel](https://www.spiegel.de/reise/europa/allein-reisen-wie-haben-sie-ihre-solo-radtour-durch-frankreich-und-spanien-erlebt-frau-wandel-a-b2200387-195a-44da-9def-70c14817de53#ref=rss)
-### wandel
-
-* [https://www.spiegel.de/reise/europa/allein-reisen-wie-haben-sie-ihre-solo-radtour-durch-frankreich-und-spanien-erlebt-frau-wandel](https://www.spiegel.de/reise/europa/allein-reisen-wie-haben-sie-ihre-solo-radtour-durch-frankreich-und-spanien-erlebt-frau-wandel-a-b2200387-195a-44da-9def-70c14817de53#ref=rss)
-### monate
-
-* [https://www.spiegel.de/reise/europa/allein-reisen-wie-haben-sie-ihre-solo-radtour-durch-frankreich-und-spanien-erlebt-frau-wandel](https://www.spiegel.de/reise/europa/allein-reisen-wie-haben-sie-ihre-solo-radtour-durch-frankreich-und-spanien-erlebt-frau-wandel-a-b2200387-195a-44da-9def-70c14817de53#ref=rss)
-* [https://www.spiegel.de/ausland/bulgarien-parlament-bestaetigt-ungewoehnliche-dreierkoalition-nach-sieben-wahlen](https://www.spiegel.de/ausland/bulgarien-parlament-bestaetigt-ungewoehnliche-dreierkoalition-nach-sieben-wahlen-a-4f12173f-9f28-4a42-aff6-7e04db6b9154#ref=rss)
-### australian
-
-* [https://www.spiegel.de/sport/tennis/australian-open-learner-tien-bezwingt-daniil-medwedew-in-fuenf-saetzen](https://www.spiegel.de/sport/tennis/australian-open-learner-tien-bezwingt-daniil-medwedew-in-fuenf-saetzen-a-5a4f44d1-fc89-4830-8408-03e2a29a85a6#ref=rss)
-### open
-
-* [https://www.spiegel.de/sport/tennis/australian-open-learner-tien-bezwingt-daniil-medwedew-in-fuenf-saetzen](https://www.spiegel.de/sport/tennis/australian-open-learner-tien-bezwingt-daniil-medwedew-in-fuenf-saetzen-a-5a4f44d1-fc89-4830-8408-03e2a29a85a6#ref=rss)
-### daniil
-
-* [https://www.spiegel.de/sport/tennis/australian-open-learner-tien-bezwingt-daniil-medwedew-in-fuenf-saetzen](https://www.spiegel.de/sport/tennis/australian-open-learner-tien-bezwingt-daniil-medwedew-in-fuenf-saetzen-a-5a4f44d1-fc89-4830-8408-03e2a29a85a6#ref=rss)
-### medwedew
-
-* [https://www.spiegel.de/sport/tennis/australian-open-learner-tien-bezwingt-daniil-medwedew-in-fuenf-saetzen](https://www.spiegel.de/sport/tennis/australian-open-learner-tien-bezwingt-daniil-medwedew-in-fuenf-saetzen-a-5a4f44d1-fc89-4830-8408-03e2a29a85a6#ref=rss)
-### fünf
-
-* [https://www.spiegel.de/sport/tennis/australian-open-learner-tien-bezwingt-daniil-medwedew-in-fuenf-saetzen](https://www.spiegel.de/sport/tennis/australian-open-learner-tien-bezwingt-daniil-medwedew-in-fuenf-saetzen-a-5a4f44d1-fc89-4830-8408-03e2a29a85a6#ref=rss)
-* [https://www.spiegel.de/ausland/fake-rezensionen-italien-plant-neues-gesetz](https://www.spiegel.de/ausland/fake-rezensionen-italien-plant-neues-gesetz-a-fe7e5b4b-3c4e-40c8-92d1-7e8cb0e38e91#ref=rss)
-### schottland
-
-* [https://www.spiegel.de/panorama/justiz/schottland-zwillingsschwestern-seit-einer-woche-vermisst-polizei-sucht-nach-spuren](https://www.spiegel.de/panorama/justiz/schottland-zwillingsschwestern-seit-einer-woche-vermisst-polizei-sucht-nach-spuren-a-427cecb6-ee97-4d06-90fe-65f26d61f210#ref=rss)
-### vermisst
-
-* [https://www.spiegel.de/panorama/justiz/schottland-zwillingsschwestern-seit-einer-woche-vermisst-polizei-sucht-nach-spuren](https://www.spiegel.de/panorama/justiz/schottland-zwillingsschwestern-seit-einer-woche-vermisst-polizei-sucht-nach-spuren-a-427cecb6-ee97-4d06-90fe-65f26d61f210#ref=rss)
-### misstrauensvotum
-
-* [https://www.spiegel.de/ausland/frankreich-misstrauensvotum-gegen-premierminister-bayrou-gescheitert](https://www.spiegel.de/ausland/frankreich-misstrauensvotum-gegen-premierminister-bayrou-gescheitert-a-e60daeeb-0cb4-4847-837a-920693c4c8b6#ref=rss)
-### premierminister
-
-* [https://www.spiegel.de/ausland/frankreich-misstrauensvotum-gegen-premierminister-bayrou-gescheitert](https://www.spiegel.de/ausland/frankreich-misstrauensvotum-gegen-premierminister-bayrou-gescheitert-a-e60daeeb-0cb4-4847-837a-920693c4c8b6#ref=rss)
-### parlament
-
-* [https://www.spiegel.de/ausland/frankreich-misstrauensvotum-gegen-premierminister-bayrou-gescheitert](https://www.spiegel.de/ausland/frankreich-misstrauensvotum-gegen-premierminister-bayrou-gescheitert-a-e60daeeb-0cb4-4847-837a-920693c4c8b6#ref=rss)
-* [https://www.spiegel.de/ausland/bulgarien-parlament-bestaetigt-ungewoehnliche-dreierkoalition-nach-sieben-wahlen](https://www.spiegel.de/ausland/bulgarien-parlament-bestaetigt-ungewoehnliche-dreierkoalition-nach-sieben-wahlen-a-4f12173f-9f28-4a42-aff6-7e04db6b9154#ref=rss)
-### überstanden
-
-* [https://www.spiegel.de/ausland/frankreich-misstrauensvotum-gegen-premierminister-bayrou-gescheitert](https://www.spiegel.de/ausland/frankreich-misstrauensvotum-gegen-premierminister-bayrou-gescheitert-a-e60daeeb-0cb4-4847-837a-920693c4c8b6#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-wie-maechtig-ist-die-hamas-nach-dem-waffenstillstand-noch](https://www.spiegel.de/ausland/gaza-wie-maechtig-ist-die-hamas-nach-dem-waffenstillstand-noch-a-25df2fff-516f-44ee-aac4-b74ea19f928a#ref=rss)
-### wochen
-
-* [https://www.spiegel.de/ausland/frankreich-misstrauensvotum-gegen-premierminister-bayrou-gescheitert](https://www.spiegel.de/ausland/frankreich-misstrauensvotum-gegen-premierminister-bayrou-gescheitert-a-e60daeeb-0cb4-4847-837a-920693c4c8b6#ref=rss)
-* [https://www.spiegel.de/ausland/serbien-mann-rast-bei-studentenprotesten-mit-auto-in-demonstrantengruppe](https://www.spiegel.de/ausland/serbien-mann-rast-bei-studentenprotesten-mit-auto-in-demonstrantengruppe-a-6c83ec71-df82-4234-bd74-8561b9e76754#ref=rss)
-### verena
-
-* [https://www.spiegel.de/panorama/bildung/lehrerin-mit-80-verena-zapf-unterrichtet-seit-mehr-als-60-jahren-warum](https://www.spiegel.de/panorama/bildung/lehrerin-mit-80-verena-zapf-unterrichtet-seit-mehr-als-60-jahren-warum-a-8e89d535-24f3-40a2-b362-f16d52a90abc#ref=rss)
-### zapf
-
-* [https://www.spiegel.de/panorama/bildung/lehrerin-mit-80-verena-zapf-unterrichtet-seit-mehr-als-60-jahren-warum](https://www.spiegel.de/panorama/bildung/lehrerin-mit-80-verena-zapf-unterrichtet-seit-mehr-als-60-jahren-warum-a-8e89d535-24f3-40a2-b362-f16d52a90abc#ref=rss)
-### unterrichtet
-
-* [https://www.spiegel.de/panorama/bildung/lehrerin-mit-80-verena-zapf-unterrichtet-seit-mehr-als-60-jahren-warum](https://www.spiegel.de/panorama/bildung/lehrerin-mit-80-verena-zapf-unterrichtet-seit-mehr-als-60-jahren-warum-a-8e89d535-24f3-40a2-b362-f16d52a90abc#ref=rss)
-### gern
-
-* [https://www.spiegel.de/panorama/bildung/lehrerin-mit-80-verena-zapf-unterrichtet-seit-mehr-als-60-jahren-warum](https://www.spiegel.de/panorama/bildung/lehrerin-mit-80-verena-zapf-unterrichtet-seit-mehr-als-60-jahren-warum-a-8e89d535-24f3-40a2-b362-f16d52a90abc#ref=rss)
-* [https://www.spiegel.de/ausland/fake-rezensionen-italien-plant-neues-gesetz](https://www.spiegel.de/ausland/fake-rezensionen-italien-plant-neues-gesetz-a-fe7e5b4b-3c4e-40c8-92d1-7e8cb0e38e91#ref=rss)
-### bismarcks
-
-* [https://www.spiegel.de/panorama/die-bismarcks-streiten-vor-gericht-ums-erbe-familienzoff-in-besten-kreisen](https://www.spiegel.de/panorama/die-bismarcks-streiten-vor-gericht-ums-erbe-familienzoff-in-besten-kreisen-a-553da889-2b6d-42b4-8776-ab537319347f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-will-kooperation-mit-e-auto-spezialist-rivian-vertiefen](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-will-kooperation-mit-e-auto-spezialist-rivian-vertiefen-a-79cb6e2e-41f7-4cc9-bc6a-be8c75323634#ref=rss)
+* [https://www.spiegel.de/kultur/kino/david-lynch-ist-tot-surreale-und-duestere-aesthetik-rueckblick-auf-die-beruehmtesten-werke-des-regisseurs](https://www.spiegel.de/kultur/kino/david-lynch-ist-tot-surreale-und-duestere-aesthetik-rueckblick-auf-die-beruehmtesten-werke-des-regisseurs-a-833f2630-388b-40a7-a669-b0a059c1b60b#ref=rss)
 ### gericht
 
-* [https://www.spiegel.de/panorama/die-bismarcks-streiten-vor-gericht-ums-erbe-familienzoff-in-besten-kreisen](https://www.spiegel.de/panorama/die-bismarcks-streiten-vor-gericht-ums-erbe-familienzoff-in-besten-kreisen-a-553da889-2b6d-42b4-8776-ab537319347f#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/amazon-prime-gericht-erklaert-preiserhoehung-im-jahr-2022-fuer-unzulaessig-sammelklage-geplant](https://www.spiegel.de/netzwelt/netzpolitik/amazon-prime-gericht-erklaert-preiserhoehung-im-jahr-2022-fuer-unzulaessig-sammelklage-geplant-a-db3f67f4-f331-4f06-a225-519cd2e1dbfc#ref=rss)
-### pete
+* [https://www.spiegel.de/netzwelt/apps/tiktok-trend-moechtegern-paedophilenjaeger-landen-vor-gericht](https://www.spiegel.de/netzwelt/apps/tiktok-trend-moechtegern-paedophilenjaeger-landen-vor-gericht-a-e8903f5f-00bb-4ecc-9045-3c6d2440d5bf#ref=rss)
+### junge
 
-* [https://www.spiegel.de/ausland/donald-trump-wie-tickt-pete-hegseth-der-umstrittene-designierte-us-verteidigungsminister](https://www.spiegel.de/ausland/donald-trump-wie-tickt-pete-hegseth-der-umstrittene-designierte-us-verteidigungsminister-a-fd375794-5cfa-4482-a818-798df175ff40#ref=rss)
-### hegseth
+* [https://www.spiegel.de/netzwelt/apps/tiktok-trend-moechtegern-paedophilenjaeger-landen-vor-gericht](https://www.spiegel.de/netzwelt/apps/tiktok-trend-moechtegern-paedophilenjaeger-landen-vor-gericht-a-e8903f5f-00bb-4ecc-9045-3c6d2440d5bf#ref=rss)
+### usa
 
-* [https://www.spiegel.de/ausland/donald-trump-wie-tickt-pete-hegseth-der-umstrittene-designierte-us-verteidigungsminister](https://www.spiegel.de/ausland/donald-trump-wie-tickt-pete-hegseth-der-umstrittene-designierte-us-verteidigungsminister-a-fd375794-5cfa-4482-a818-798df175ff40#ref=rss)
-### serbien
+* [https://www.spiegel.de/netzwelt/apps/tiktok-trend-moechtegern-paedophilenjaeger-landen-vor-gericht](https://www.spiegel.de/netzwelt/apps/tiktok-trend-moechtegern-paedophilenjaeger-landen-vor-gericht-a-e8903f5f-00bb-4ecc-9045-3c6d2440d5bf#ref=rss)
+* [https://www.spiegel.de/kultur/kino/usa-donald-trump-entsendet-hollywood-veteranen-als-sonderbotschafter](https://www.spiegel.de/kultur/kino/usa-donald-trump-entsendet-hollywood-veteranen-als-sonderbotschafter-a-c6bc2ca2-c525-4878-8ce7-00a11497c244#ref=rss)
+### studentin
 
-* [https://www.spiegel.de/ausland/serbien-mann-rast-bei-studentenprotesten-mit-auto-in-demonstrantengruppe](https://www.spiegel.de/ausland/serbien-mann-rast-bei-studentenprotesten-mit-auto-in-demonstrantengruppe-a-6c83ec71-df82-4234-bd74-8561b9e76754#ref=rss)
-### gehen
+* [https://www.spiegel.de/start/jobangebot-studentin-soll-fuer-ihr-praktikum-bezahlen-30-euro-pro-stunde](https://www.spiegel.de/start/jobangebot-studentin-soll-fuer-ihr-praktikum-bezahlen-30-euro-pro-stunde-a-78145d25-211d-48f1-896c-439dfb5d9090#ref=rss)
+### bezahlen
 
-* [https://www.spiegel.de/ausland/serbien-mann-rast-bei-studentenprotesten-mit-auto-in-demonstrantengruppe](https://www.spiegel.de/ausland/serbien-mann-rast-bei-studentenprotesten-mit-auto-in-demonstrantengruppe-a-6c83ec71-df82-4234-bd74-8561b9e76754#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-regierung-von-benjamin-netanyahu-streitet-ueber-deal-mit-hamas](https://www.spiegel.de/ausland/israel-gaza-krieg-regierung-von-benjamin-netanyahu-streitet-ueber-deal-mit-hamas-a-263c414e-f9ee-414d-a455-cb97ae274e78#ref=rss)
-### regierung
+* [https://www.spiegel.de/start/jobangebot-studentin-soll-fuer-ihr-praktikum-bezahlen-30-euro-pro-stunde](https://www.spiegel.de/start/jobangebot-studentin-soll-fuer-ihr-praktikum-bezahlen-30-euro-pro-stunde-a-78145d25-211d-48f1-896c-439dfb5d9090#ref=rss)
+### 30
 
-* [https://www.spiegel.de/ausland/serbien-mann-rast-bei-studentenprotesten-mit-auto-in-demonstrantengruppe](https://www.spiegel.de/ausland/serbien-mann-rast-bei-studentenprotesten-mit-auto-in-demonstrantengruppe-a-6c83ec71-df82-4234-bd74-8561b9e76754#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-regierung-von-benjamin-netanyahu-streitet-ueber-deal-mit-hamas](https://www.spiegel.de/ausland/israel-gaza-krieg-regierung-von-benjamin-netanyahu-streitet-ueber-deal-mit-hamas-a-263c414e-f9ee-414d-a455-cb97ae274e78#ref=rss)
-### tochter
+* [https://www.spiegel.de/start/jobangebot-studentin-soll-fuer-ihr-praktikum-bezahlen-30-euro-pro-stunde](https://www.spiegel.de/start/jobangebot-studentin-soll-fuer-ihr-praktikum-bezahlen-30-euro-pro-stunde-a-78145d25-211d-48f1-896c-439dfb5d9090#ref=rss)
+### stunde
 
-* [https://www.spiegel.de/panorama/justiz/australien-frau-soll-einjaehrige-tochter-vergiftet-haben-um-spenden-zu-sammeln](https://www.spiegel.de/panorama/justiz/australien-frau-soll-einjaehrige-tochter-vergiftet-haben-um-spenden-zu-sammeln-a-d8ad3050-bf19-4df2-9cff-d9a2c06ce9df#ref=rss)
-### spenden
+* [https://www.spiegel.de/start/jobangebot-studentin-soll-fuer-ihr-praktikum-bezahlen-30-euro-pro-stunde](https://www.spiegel.de/start/jobangebot-studentin-soll-fuer-ihr-praktikum-bezahlen-30-euro-pro-stunde-a-78145d25-211d-48f1-896c-439dfb5d9090#ref=rss)
+### idee
 
-* [https://www.spiegel.de/panorama/justiz/australien-frau-soll-einjaehrige-tochter-vergiftet-haben-um-spenden-zu-sammeln](https://www.spiegel.de/panorama/justiz/australien-frau-soll-einjaehrige-tochter-vergiftet-haben-um-spenden-zu-sammeln-a-d8ad3050-bf19-4df2-9cff-d9a2c06ce9df#ref=rss)
-### 247
+* [https://www.spiegel.de/start/jobangebot-studentin-soll-fuer-ihr-praktikum-bezahlen-30-euro-pro-stunde](https://www.spiegel.de/start/jobangebot-studentin-soll-fuer-ihr-praktikum-bezahlen-30-euro-pro-stunde-a-78145d25-211d-48f1-896c-439dfb5d9090#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/robert-habeck-wieso-kassenbeitraege-auf-kapitalertraege-sinnvoll-waeren-aber-nicht-die-beste-idee](https://www.spiegel.de/wirtschaft/soziales/robert-habeck-wieso-kassenbeitraege-auf-kapitalertraege-sinnvoll-waeren-aber-nicht-die-beste-idee-a-832747d1-aa34-41b1-9e9c-a10ee046fcd7#ref=rss)
+### klimaschutz
 
-* [https://www.spiegel.de/kultur/musik/24-7-spyz-saenger-p-fluid-wurde-offenbar-umgebracht](https://www.spiegel.de/kultur/musik/24-7-spyz-saenger-p-fluid-wurde-offenbar-umgebracht-a-b6b8152a-72b0-4252-b5da-93fc6900cd71#ref=rss)
-### spyz
+* [https://www.spiegel.de/wissenschaft/mensch/klimaschutz-und-landwirtschaft-warum-die-gruene-woche-nur-gruen-tut-aber-es-nicht-ist](https://www.spiegel.de/wissenschaft/mensch/klimaschutz-und-landwirtschaft-warum-die-gruene-woche-nur-gruen-tut-aber-es-nicht-ist-a-ed109319-595a-4548-9008-b6633d078838#ref=rss)
+### landwirtschaft
 
-* [https://www.spiegel.de/kultur/musik/24-7-spyz-saenger-p-fluid-wurde-offenbar-umgebracht](https://www.spiegel.de/kultur/musik/24-7-spyz-saenger-p-fluid-wurde-offenbar-umgebracht-a-b6b8152a-72b0-4252-b5da-93fc6900cd71#ref=rss)
-### p
+* [https://www.spiegel.de/wissenschaft/mensch/klimaschutz-und-landwirtschaft-warum-die-gruene-woche-nur-gruen-tut-aber-es-nicht-ist](https://www.spiegel.de/wissenschaft/mensch/klimaschutz-und-landwirtschaft-warum-die-gruene-woche-nur-gruen-tut-aber-es-nicht-ist-a-ed109319-595a-4548-9008-b6633d078838#ref=rss)
+### vergangenen
 
-* [https://www.spiegel.de/kultur/musik/24-7-spyz-saenger-p-fluid-wurde-offenbar-umgebracht](https://www.spiegel.de/kultur/musik/24-7-spyz-saenger-p-fluid-wurde-offenbar-umgebracht-a-b6b8152a-72b0-4252-b5da-93fc6900cd71#ref=rss)
-### fluid
+* [https://www.spiegel.de/wissenschaft/mensch/klimaschutz-und-landwirtschaft-warum-die-gruene-woche-nur-gruen-tut-aber-es-nicht-ist](https://www.spiegel.de/wissenschaft/mensch/klimaschutz-und-landwirtschaft-warum-die-gruene-woche-nur-gruen-tut-aber-es-nicht-ist-a-ed109319-595a-4548-9008-b6633d078838#ref=rss)
+* [https://www.spiegel.de/wirtschaft/china-wirtschaft-unter-druck-fuenf-prozent-wachstum-reichen-nicht](https://www.spiegel.de/wirtschaft/china-wirtschaft-unter-druck-fuenf-prozent-wachstum-reichen-nicht-a-14be4ddc-9495-4afa-b423-6578001c48a4#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/kultur/musik/24-7-spyz-saenger-p-fluid-wurde-offenbar-umgebracht](https://www.spiegel.de/kultur/musik/24-7-spyz-saenger-p-fluid-wurde-offenbar-umgebracht-a-b6b8152a-72b0-4252-b5da-93fc6900cd71#ref=rss)
-### deal
+* [https://www.spiegel.de/wissenschaft/mensch/klimaschutz-und-landwirtschaft-warum-die-gruene-woche-nur-gruen-tut-aber-es-nicht-ist](https://www.spiegel.de/wissenschaft/mensch/klimaschutz-und-landwirtschaft-warum-die-gruene-woche-nur-gruen-tut-aber-es-nicht-ist-a-ed109319-595a-4548-9008-b6633d078838#ref=rss)
+* [https://www.spiegel.de/ausland/pakistan-ex-premierminister-imran-khan-in-korruptionsprozess-zu-14-jahren-haft-verurteilt](https://www.spiegel.de/ausland/pakistan-ex-premierminister-imran-khan-in-korruptionsprozess-zu-14-jahren-haft-verurteilt-a-5bc89d62-e3f2-4093-8516-3970ceedf7b3#ref=rss)
+### trump
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-regierung-von-benjamin-netanyahu-streitet-ueber-deal-mit-hamas](https://www.spiegel.de/ausland/israel-gaza-krieg-regierung-von-benjamin-netanyahu-streitet-ueber-deal-mit-hamas-a-263c414e-f9ee-414d-a455-cb97ae274e78#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-deal-zwischen-israel-und-hamas-populismus-von-donald-trump-klage-gegen-apple](https://www.spiegel.de/politik/deutschland/news-des-tages-deal-zwischen-israel-und-hamas-populismus-von-donald-trump-klage-gegen-apple-a-f7744c37-0b29-4c03-8676-5734a2b71e94#ref=rss)
-### bald
+* [https://www.spiegel.de/kultur/kino/usa-donald-trump-entsendet-hollywood-veteranen-als-sonderbotschafter](https://www.spiegel.de/kultur/kino/usa-donald-trump-entsendet-hollywood-veteranen-als-sonderbotschafter-a-c6bc2ca2-c525-4878-8ce7-00a11497c244#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trumps-amtseinfuehrung-obama-bush-und-zuckerberg-wer-steht-auf-der-gaesteliste](https://www.spiegel.de/ausland/donald-trumps-amtseinfuehrung-obama-bush-und-zuckerberg-wer-steht-auf-der-gaesteliste-a-6860fb16-e959-47ee-9023-65da5e579668#ref=rss)
+### bidens
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-regierung-von-benjamin-netanyahu-streitet-ueber-deal-mit-hamas](https://www.spiegel.de/ausland/israel-gaza-krieg-regierung-von-benjamin-netanyahu-streitet-ueber-deal-mit-hamas-a-263c414e-f9ee-414d-a455-cb97ae274e78#ref=rss)
-* [https://www.spiegel.de/ausland/fake-rezensionen-italien-plant-neues-gesetz](https://www.spiegel.de/ausland/fake-rezensionen-italien-plant-neues-gesetz-a-fe7e5b4b-3c4e-40c8-92d1-7e8cb0e38e91#ref=rss)
-### waffen
+* [https://www.spiegel.de/ausland/joe-bidens-karriere-vom-juengsten-senator-zum-aeltesten-praesidenten](https://www.spiegel.de/ausland/joe-bidens-karriere-vom-juengsten-senator-zum-aeltesten-praesidenten-a-98653216-9682-4868-a6e4-24381f07c1f3#ref=rss)
+### premier
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-regierung-von-benjamin-netanyahu-streitet-ueber-deal-mit-hamas](https://www.spiegel.de/ausland/israel-gaza-krieg-regierung-von-benjamin-netanyahu-streitet-ueber-deal-mit-hamas-a-263c414e-f9ee-414d-a455-cb97ae274e78#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/koeln-mann-zieht-schusswaffe-bei-streit-um-parkplatz](https://www.spiegel.de/panorama/justiz/koeln-mann-zieht-schusswaffe-bei-streit-um-parkplatz-a-9afe46df-10b6-4c8d-a4b9-5e7a0764d099#ref=rss)
-### italien
+* [https://www.spiegel.de/sport/fussball/premier-league-erling-haaland-verlaengert-bis-2034-bei-manchester-city](https://www.spiegel.de/sport/fussball/premier-league-erling-haaland-verlaengert-bis-2034-bei-manchester-city-a-340d58a4-764f-4d30-b7b4-db02498ea1b7#ref=rss)
+* [https://www.spiegel.de/ausland/pakistan-ex-premierminister-imran-khan-in-korruptionsprozess-zu-14-jahren-haft-verurteilt](https://www.spiegel.de/ausland/pakistan-ex-premierminister-imran-khan-in-korruptionsprozess-zu-14-jahren-haft-verurteilt-a-5bc89d62-e3f2-4093-8516-3970ceedf7b3#ref=rss)
+### erling
 
-* [https://www.spiegel.de/ausland/fake-rezensionen-italien-plant-neues-gesetz](https://www.spiegel.de/ausland/fake-rezensionen-italien-plant-neues-gesetz-a-fe7e5b4b-3c4e-40c8-92d1-7e8cb0e38e91#ref=rss)
-### plant
+* [https://www.spiegel.de/sport/fussball/premier-league-erling-haaland-verlaengert-bis-2034-bei-manchester-city](https://www.spiegel.de/sport/fussball/premier-league-erling-haaland-verlaengert-bis-2034-bei-manchester-city-a-340d58a4-764f-4d30-b7b4-db02498ea1b7#ref=rss)
+### haaland
 
-* [https://www.spiegel.de/ausland/fake-rezensionen-italien-plant-neues-gesetz](https://www.spiegel.de/ausland/fake-rezensionen-italien-plant-neues-gesetz-a-fe7e5b4b-3c4e-40c8-92d1-7e8cb0e38e91#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/amazon-prime-gericht-erklaert-preiserhoehung-im-jahr-2022-fuer-unzulaessig-sammelklage-geplant](https://www.spiegel.de/netzwelt/netzpolitik/amazon-prime-gericht-erklaert-preiserhoehung-im-jahr-2022-fuer-unzulaessig-sammelklage-geplant-a-db3f67f4-f331-4f06-a225-519cd2e1dbfc#ref=rss)
-### gesetz
+* [https://www.spiegel.de/sport/fussball/premier-league-erling-haaland-verlaengert-bis-2034-bei-manchester-city](https://www.spiegel.de/sport/fussball/premier-league-erling-haaland-verlaengert-bis-2034-bei-manchester-city-a-340d58a4-764f-4d30-b7b4-db02498ea1b7#ref=rss)
+### 2034
 
-* [https://www.spiegel.de/ausland/fake-rezensionen-italien-plant-neues-gesetz](https://www.spiegel.de/ausland/fake-rezensionen-italien-plant-neues-gesetz-a-fe7e5b4b-3c4e-40c8-92d1-7e8cb0e38e91#ref=rss)
-### trans
+* [https://www.spiegel.de/sport/fussball/premier-league-erling-haaland-verlaengert-bis-2034-bei-manchester-city](https://www.spiegel.de/sport/fussball/premier-league-erling-haaland-verlaengert-bis-2034-bei-manchester-city-a-340d58a4-764f-4d30-b7b4-db02498ea1b7#ref=rss)
+### manchester
 
-* [https://www.spiegel.de/karriere/mcdonalds-trans-frau-erhaelt-16-500-euro-abfindung-wegen-verweigertem-zutritt-zur-frauenumkleide](https://www.spiegel.de/karriere/mcdonalds-trans-frau-erhaelt-16-500-euro-abfindung-wegen-verweigertem-zutritt-zur-frauenumkleide-a-f29bfcdc-56b7-4b17-b614-8ea06f68a89d#ref=rss)
-### 16500
+* [https://www.spiegel.de/sport/fussball/premier-league-erling-haaland-verlaengert-bis-2034-bei-manchester-city](https://www.spiegel.de/sport/fussball/premier-league-erling-haaland-verlaengert-bis-2034-bei-manchester-city-a-340d58a4-764f-4d30-b7b4-db02498ea1b7#ref=rss)
+### city
 
-* [https://www.spiegel.de/karriere/mcdonalds-trans-frau-erhaelt-16-500-euro-abfindung-wegen-verweigertem-zutritt-zur-frauenumkleide](https://www.spiegel.de/karriere/mcdonalds-trans-frau-erhaelt-16-500-euro-abfindung-wegen-verweigertem-zutritt-zur-frauenumkleide-a-f29bfcdc-56b7-4b17-b614-8ea06f68a89d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/premier-league-erling-haaland-verlaengert-bis-2034-bei-manchester-city](https://www.spiegel.de/sport/fussball/premier-league-erling-haaland-verlaengert-bis-2034-bei-manchester-city-a-340d58a4-764f-4d30-b7b4-db02498ea1b7#ref=rss)
+### maul
+
+* [https://www.spiegel.de/wirtschaft/verdachtsfall-von-maul-und-klauenseuche-nicht-bestaetigt](https://www.spiegel.de/wirtschaft/verdachtsfall-von-maul-und-klauenseuche-nicht-bestaetigt-a-f6c928c9-12e6-45c2-b2c3-56cba19f0603#ref=rss)
+### klauenseuche
+
+* [https://www.spiegel.de/wirtschaft/verdachtsfall-von-maul-und-klauenseuche-nicht-bestaetigt](https://www.spiegel.de/wirtschaft/verdachtsfall-von-maul-und-klauenseuche-nicht-bestaetigt-a-f6c928c9-12e6-45c2-b2c3-56cba19f0603#ref=rss)
+### experten
+
+* [https://www.spiegel.de/wirtschaft/verdachtsfall-von-maul-und-klauenseuche-nicht-bestaetigt](https://www.spiegel.de/wirtschaft/verdachtsfall-von-maul-und-klauenseuche-nicht-bestaetigt-a-f6c928c9-12e6-45c2-b2c3-56cba19f0603#ref=rss)
+* [https://www.spiegel.de/wirtschaft/china-wirtschaft-unter-druck-fuenf-prozent-wachstum-reichen-nicht](https://www.spiegel.de/wirtschaft/china-wirtschaft-unter-druck-fuenf-prozent-wachstum-reichen-nicht-a-14be4ddc-9495-4afa-b423-6578001c48a4#ref=rss)
+### weiteren
+
+* [https://www.spiegel.de/wirtschaft/verdachtsfall-von-maul-und-klauenseuche-nicht-bestaetigt](https://www.spiegel.de/wirtschaft/verdachtsfall-von-maul-und-klauenseuche-nicht-bestaetigt-a-f6c928c9-12e6-45c2-b2c3-56cba19f0603#ref=rss)
+* [https://www.spiegel.de/ausland/pakistan-ex-premierminister-imran-khan-in-korruptionsprozess-zu-14-jahren-haft-verurteilt](https://www.spiegel.de/ausland/pakistan-ex-premierminister-imran-khan-in-korruptionsprozess-zu-14-jahren-haft-verurteilt-a-5bc89d62-e3f2-4093-8516-3970ceedf7b3#ref=rss)
+### justin
+
+* [https://www.spiegel.de/kultur/justin-baldoni-weist-anschuldigungen-von-blake-lively-und-ryan-reynolds-zurueck-und-verklagt-sie-auf-400-millionen-dollar](https://www.spiegel.de/kultur/justin-baldoni-weist-anschuldigungen-von-blake-lively-und-ryan-reynolds-zurueck-und-verklagt-sie-auf-400-millionen-dollar-a-ed0bfba7-3ee8-49fd-8bcf-664646148ecc#ref=rss)
+### baldoni
+
+* [https://www.spiegel.de/kultur/justin-baldoni-weist-anschuldigungen-von-blake-lively-und-ryan-reynolds-zurueck-und-verklagt-sie-auf-400-millionen-dollar](https://www.spiegel.de/kultur/justin-baldoni-weist-anschuldigungen-von-blake-lively-und-ryan-reynolds-zurueck-und-verklagt-sie-auf-400-millionen-dollar-a-ed0bfba7-3ee8-49fd-8bcf-664646148ecc#ref=rss)
+### weist
+
+* [https://www.spiegel.de/kultur/justin-baldoni-weist-anschuldigungen-von-blake-lively-und-ryan-reynolds-zurueck-und-verklagt-sie-auf-400-millionen-dollar](https://www.spiegel.de/kultur/justin-baldoni-weist-anschuldigungen-von-blake-lively-und-ryan-reynolds-zurueck-und-verklagt-sie-auf-400-millionen-dollar-a-ed0bfba7-3ee8-49fd-8bcf-664646148ecc#ref=rss)
+### blake
+
+* [https://www.spiegel.de/kultur/justin-baldoni-weist-anschuldigungen-von-blake-lively-und-ryan-reynolds-zurueck-und-verklagt-sie-auf-400-millionen-dollar](https://www.spiegel.de/kultur/justin-baldoni-weist-anschuldigungen-von-blake-lively-und-ryan-reynolds-zurueck-und-verklagt-sie-auf-400-millionen-dollar-a-ed0bfba7-3ee8-49fd-8bcf-664646148ecc#ref=rss)
+### lively
+
+* [https://www.spiegel.de/kultur/justin-baldoni-weist-anschuldigungen-von-blake-lively-und-ryan-reynolds-zurueck-und-verklagt-sie-auf-400-millionen-dollar](https://www.spiegel.de/kultur/justin-baldoni-weist-anschuldigungen-von-blake-lively-und-ryan-reynolds-zurueck-und-verklagt-sie-auf-400-millionen-dollar-a-ed0bfba7-3ee8-49fd-8bcf-664646148ecc#ref=rss)
+### ryan
+
+* [https://www.spiegel.de/kultur/justin-baldoni-weist-anschuldigungen-von-blake-lively-und-ryan-reynolds-zurueck-und-verklagt-sie-auf-400-millionen-dollar](https://www.spiegel.de/kultur/justin-baldoni-weist-anschuldigungen-von-blake-lively-und-ryan-reynolds-zurueck-und-verklagt-sie-auf-400-millionen-dollar-a-ed0bfba7-3ee8-49fd-8bcf-664646148ecc#ref=rss)
+### reynolds
+
+* [https://www.spiegel.de/kultur/justin-baldoni-weist-anschuldigungen-von-blake-lively-und-ryan-reynolds-zurueck-und-verklagt-sie-auf-400-millionen-dollar](https://www.spiegel.de/kultur/justin-baldoni-weist-anschuldigungen-von-blake-lively-und-ryan-reynolds-zurueck-und-verklagt-sie-auf-400-millionen-dollar-a-ed0bfba7-3ee8-49fd-8bcf-664646148ecc#ref=rss)
+### verklagt
+
+* [https://www.spiegel.de/kultur/justin-baldoni-weist-anschuldigungen-von-blake-lively-und-ryan-reynolds-zurueck-und-verklagt-sie-auf-400-millionen-dollar](https://www.spiegel.de/kultur/justin-baldoni-weist-anschuldigungen-von-blake-lively-und-ryan-reynolds-zurueck-und-verklagt-sie-auf-400-millionen-dollar-a-ed0bfba7-3ee8-49fd-8bcf-664646148ecc#ref=rss)
+### australian
+
+* [https://www.spiegel.de/sport/tennis/australian-open-2025-naomi-osaka-muss-verletzungsbedingt-aufgeben](https://www.spiegel.de/sport/tennis/australian-open-2025-naomi-osaka-muss-verletzungsbedingt-aufgeben-a-c7822d52-b394-4dd7-93af-1d21b26059bd#ref=rss)
+* [https://www.spiegel.de/sport/tennis/australian-open-2025-alexander-zverev-erreicht-achtelfinale-laura-siegemund-scheidet-aus](https://www.spiegel.de/sport/tennis/australian-open-2025-alexander-zverev-erreicht-achtelfinale-laura-siegemund-scheidet-aus-a-c388ea7c-8b77-4533-acb9-0da21dbabb20#ref=rss)
+### open
+
+* [https://www.spiegel.de/sport/tennis/australian-open-2025-naomi-osaka-muss-verletzungsbedingt-aufgeben](https://www.spiegel.de/sport/tennis/australian-open-2025-naomi-osaka-muss-verletzungsbedingt-aufgeben-a-c7822d52-b394-4dd7-93af-1d21b26059bd#ref=rss)
+* [https://www.spiegel.de/sport/tennis/australian-open-2025-alexander-zverev-erreicht-achtelfinale-laura-siegemund-scheidet-aus](https://www.spiegel.de/sport/tennis/australian-open-2025-alexander-zverev-erreicht-achtelfinale-laura-siegemund-scheidet-aus-a-c388ea7c-8b77-4533-acb9-0da21dbabb20#ref=rss)
+### 2025
+
+* [https://www.spiegel.de/sport/tennis/australian-open-2025-naomi-osaka-muss-verletzungsbedingt-aufgeben](https://www.spiegel.de/sport/tennis/australian-open-2025-naomi-osaka-muss-verletzungsbedingt-aufgeben-a-c7822d52-b394-4dd7-93af-1d21b26059bd#ref=rss)
+* [https://www.spiegel.de/sport/tennis/australian-open-2025-alexander-zverev-erreicht-achtelfinale-laura-siegemund-scheidet-aus](https://www.spiegel.de/sport/tennis/australian-open-2025-alexander-zverev-erreicht-achtelfinale-laura-siegemund-scheidet-aus-a-c388ea7c-8b77-4533-acb9-0da21dbabb20#ref=rss)
+### naomi
+
+* [https://www.spiegel.de/sport/tennis/australian-open-2025-naomi-osaka-muss-verletzungsbedingt-aufgeben](https://www.spiegel.de/sport/tennis/australian-open-2025-naomi-osaka-muss-verletzungsbedingt-aufgeben-a-c7822d52-b394-4dd7-93af-1d21b26059bd#ref=rss)
+### viele
+
+* [https://www.spiegel.de/kultur/kino/david-lynch-ist-tot-surreale-und-duestere-aesthetik-rueckblick-auf-die-beruehmtesten-werke-des-regisseurs](https://www.spiegel.de/kultur/kino/david-lynch-ist-tot-surreale-und-duestere-aesthetik-rueckblick-auf-die-beruehmtesten-werke-des-regisseurs-a-833f2630-388b-40a7-a669-b0a059c1b60b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/robert-habeck-wieso-kassenbeitraege-auf-kapitalertraege-sinnvoll-waeren-aber-nicht-die-beste-idee](https://www.spiegel.de/wirtschaft/soziales/robert-habeck-wieso-kassenbeitraege-auf-kapitalertraege-sinnvoll-waeren-aber-nicht-die-beste-idee-a-832747d1-aa34-41b1-9e9c-a10ee046fcd7#ref=rss)
+### filme
+
+* [https://www.spiegel.de/kultur/kino/david-lynch-ist-tot-surreale-und-duestere-aesthetik-rueckblick-auf-die-beruehmtesten-werke-des-regisseurs](https://www.spiegel.de/kultur/kino/david-lynch-ist-tot-surreale-und-duestere-aesthetik-rueckblick-auf-die-beruehmtesten-werke-des-regisseurs-a-833f2630-388b-40a7-a669-b0a059c1b60b#ref=rss)
+* [https://www.spiegel.de/kultur/kino/david-lynch-ist-tot-unergruedliche-abseitigkeit](https://www.spiegel.de/kultur/kino/david-lynch-ist-tot-unergruedliche-abseitigkeit-a-f8cd82dd-bd84-4c99-bd48-e671486e25fd#ref=rss)
+### machte
+
+* [https://www.spiegel.de/kultur/kino/david-lynch-ist-tot-surreale-und-duestere-aesthetik-rueckblick-auf-die-beruehmtesten-werke-des-regisseurs](https://www.spiegel.de/kultur/kino/david-lynch-ist-tot-surreale-und-duestere-aesthetik-rueckblick-auf-die-beruehmtesten-werke-des-regisseurs-a-833f2630-388b-40a7-a669-b0a059c1b60b#ref=rss)
+* [https://www.spiegel.de/kultur/kino/david-lynch-ist-tot-unergruedliche-abseitigkeit](https://www.spiegel.de/kultur/kino/david-lynch-ist-tot-unergruedliche-abseitigkeit-a-f8cd82dd-bd84-4c99-bd48-e671486e25fd#ref=rss)
+### november
+
+* [https://www.spiegel.de/wirtschaft/baugenehmigungen-zahl-sank-auch-im-november](https://www.spiegel.de/wirtschaft/baugenehmigungen-zahl-sank-auch-im-november-a-6aa8f9ce-53f8-4d0e-9935-0858f1b69416#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/wirtschaft/baugenehmigungen-zahl-sank-auch-im-november](https://www.spiegel.de/wirtschaft/baugenehmigungen-zahl-sank-auch-im-november-a-6aa8f9ce-53f8-4d0e-9935-0858f1b69416#ref=rss)
+* [https://www.spiegel.de/wirtschaft/china-wirtschaft-unter-druck-fuenf-prozent-wachstum-reichen-nicht](https://www.spiegel.de/wirtschaft/china-wirtschaft-unter-druck-fuenf-prozent-wachstum-reichen-nicht-a-14be4ddc-9495-4afa-b423-6578001c48a4#ref=rss)
+### selbst
+
+* [https://www.spiegel.de/kultur/kino/david-lynch-ist-tot-unergruedliche-abseitigkeit](https://www.spiegel.de/kultur/kino/david-lynch-ist-tot-unergruedliche-abseitigkeit-a-f8cd82dd-bd84-4c99-bd48-e671486e25fd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/china-wirtschaft-unter-druck-fuenf-prozent-wachstum-reichen-nicht](https://www.spiegel.de/wirtschaft/china-wirtschaft-unter-druck-fuenf-prozent-wachstum-reichen-nicht-a-14be4ddc-9495-4afa-b423-6578001c48a4#ref=rss)
+### imran
+
+* [https://www.spiegel.de/ausland/pakistan-ex-premierminister-imran-khan-in-korruptionsprozess-zu-14-jahren-haft-verurteilt](https://www.spiegel.de/ausland/pakistan-ex-premierminister-imran-khan-in-korruptionsprozess-zu-14-jahren-haft-verurteilt-a-5bc89d62-e3f2-4093-8516-3970ceedf7b3#ref=rss)
+### khan
+
+* [https://www.spiegel.de/ausland/pakistan-ex-premierminister-imran-khan-in-korruptionsprozess-zu-14-jahren-haft-verurteilt](https://www.spiegel.de/ausland/pakistan-ex-premierminister-imran-khan-in-korruptionsprozess-zu-14-jahren-haft-verurteilt-a-5bc89d62-e3f2-4093-8516-3970ceedf7b3#ref=rss)
+### haft
+
+* [https://www.spiegel.de/ausland/pakistan-ex-premierminister-imran-khan-in-korruptionsprozess-zu-14-jahren-haft-verurteilt](https://www.spiegel.de/ausland/pakistan-ex-premierminister-imran-khan-in-korruptionsprozess-zu-14-jahren-haft-verurteilt-a-5bc89d62-e3f2-4093-8516-3970ceedf7b3#ref=rss)
+* [https://www.spiegel.de/ausland/russland-gericht-verurteilt-drei-nawalny-anwaelte-zu-mehrjaehriger-haft](https://www.spiegel.de/ausland/russland-gericht-verurteilt-drei-nawalny-anwaelte-zu-mehrjaehriger-haft-a-e6a84f45-735a-45f0-904a-64dc45a67ad4#ref=rss)
+### gefängnis
+
+* [https://www.spiegel.de/ausland/pakistan-ex-premierminister-imran-khan-in-korruptionsprozess-zu-14-jahren-haft-verurteilt](https://www.spiegel.de/ausland/pakistan-ex-premierminister-imran-khan-in-korruptionsprozess-zu-14-jahren-haft-verurteilt-a-5bc89d62-e3f2-4093-8516-3970ceedf7b3#ref=rss)
+* [https://www.spiegel.de/ausland/russland-gericht-verurteilt-drei-nawalny-anwaelte-zu-mehrjaehriger-haft](https://www.spiegel.de/ausland/russland-gericht-verurteilt-drei-nawalny-anwaelte-zu-mehrjaehriger-haft-a-e6a84f45-735a-45f0-904a-64dc45a67ad4#ref=rss)
+### mehrere
+
+* [https://www.spiegel.de/ausland/pakistan-ex-premierminister-imran-khan-in-korruptionsprozess-zu-14-jahren-haft-verurteilt](https://www.spiegel.de/ausland/pakistan-ex-premierminister-imran-khan-in-korruptionsprozess-zu-14-jahren-haft-verurteilt-a-5bc89d62-e3f2-4093-8516-3970ceedf7b3#ref=rss)
+* [https://www.spiegel.de/panorama/leute/feuer-in-los-angeles-billie-eilish-und-green-day-spielen-benefizkonzert-zur-unterstuetzung-der-opfer](https://www.spiegel.de/panorama/leute/feuer-in-los-angeles-billie-eilish-und-green-day-spielen-benefizkonzert-zur-unterstuetzung-der-opfer-a-8f49e4fa-49c1-49f9-be51-dbe937db4996#ref=rss)
+### feuer
+
+* [https://www.spiegel.de/panorama/neustadt-an-der-donau-vier-verletzte-bei-brand-in-raffinerie](https://www.spiegel.de/panorama/neustadt-an-der-donau-vier-verletzte-bei-brand-in-raffinerie-a-bea4c2cc-b406-4780-b91b-ad007d18d3b7#ref=rss)
+* [https://www.spiegel.de/panorama/waldbraende-in-los-angeles-zahl-der-todesopfer-steigt-auf-27](https://www.spiegel.de/panorama/waldbraende-in-los-angeles-zahl-der-todesopfer-steigt-auf-27-a-4a7c1455-c700-4372-8410-90c797663382#ref=rss)
+### drei
+
+* [https://www.spiegel.de/ausland/russland-gericht-verurteilt-drei-nawalny-anwaelte-zu-mehrjaehriger-haft](https://www.spiegel.de/ausland/russland-gericht-verurteilt-drei-nawalny-anwaelte-zu-mehrjaehriger-haft-a-e6a84f45-735a-45f0-904a-64dc45a67ad4#ref=rss)
+### rch
+
+* [https://www.spiegel.de/wissenschaft/technik/radhaubitze-rch-155-was-kann-das-hochmoderne-waffensystem](https://www.spiegel.de/wissenschaft/technik/radhaubitze-rch-155-was-kann-das-hochmoderne-waffensystem-a-5237d545-7abf-4493-b4a3-d09aa0e4c7a4#ref=rss)
+### 155
+
+* [https://www.spiegel.de/wissenschaft/technik/radhaubitze-rch-155-was-kann-das-hochmoderne-waffensystem](https://www.spiegel.de/wissenschaft/technik/radhaubitze-rch-155-was-kann-das-hochmoderne-waffensystem-a-5237d545-7abf-4493-b4a3-d09aa0e4c7a4#ref=rss)
+### steigt
+
+* [https://www.spiegel.de/panorama/waldbraende-in-los-angeles-zahl-der-todesopfer-steigt-auf-27](https://www.spiegel.de/panorama/waldbraende-in-los-angeles-zahl-der-todesopfer-steigt-auf-27-a-4a7c1455-c700-4372-8410-90c797663382#ref=rss)
+### preis
+
+* [https://www.spiegel.de/wirtschaft/umfrage-zum-autokauf-preis-schlaegt-qualitaet](https://www.spiegel.de/wirtschaft/umfrage-zum-autokauf-preis-schlaegt-qualitaet-a-018e0f4f-49df-4c06-8ca5-2e0c0ea49f9a#ref=rss)
+### qualität
+
+* [https://www.spiegel.de/wirtschaft/umfrage-zum-autokauf-preis-schlaegt-qualitaet](https://www.spiegel.de/wirtschaft/umfrage-zum-autokauf-preis-schlaegt-qualitaet-a-018e0f4f-49df-4c06-8ca5-2e0c0ea49f9a#ref=rss)
 ### amtseinführung
 
-* [https://www.spiegel.de/ausland/amtseinfuehrung-in-washington-ehemalige-us-praesidenten-werden-nicht-mit-donald-trump-mittagessen](https://www.spiegel.de/ausland/amtseinfuehrung-in-washington-ehemalige-us-praesidenten-werden-nicht-mit-donald-trump-mittagessen-a-46ef2560-e104-4302-9e63-29af5648a43a#ref=rss)
-### uspräsidenten
+* [https://www.spiegel.de/ausland/donald-trumps-amtseinfuehrung-obama-bush-und-zuckerberg-wer-steht-auf-der-gaesteliste](https://www.spiegel.de/ausland/donald-trumps-amtseinfuehrung-obama-bush-und-zuckerberg-wer-steht-auf-der-gaesteliste-a-6860fb16-e959-47ee-9023-65da5e579668#ref=rss)
+### kassenbeiträge
 
-* [https://www.spiegel.de/ausland/amtseinfuehrung-in-washington-ehemalige-us-praesidenten-werden-nicht-mit-donald-trump-mittagessen](https://www.spiegel.de/ausland/amtseinfuehrung-in-washington-ehemalige-us-praesidenten-werden-nicht-mit-donald-trump-mittagessen-a-46ef2560-e104-4302-9e63-29af5648a43a#ref=rss)
-### bleiben
+* [https://www.spiegel.de/wirtschaft/soziales/robert-habeck-wieso-kassenbeitraege-auf-kapitalertraege-sinnvoll-waeren-aber-nicht-die-beste-idee](https://www.spiegel.de/wirtschaft/soziales/robert-habeck-wieso-kassenbeitraege-auf-kapitalertraege-sinnvoll-waeren-aber-nicht-die-beste-idee-a-832747d1-aa34-41b1-9e9c-a10ee046fcd7#ref=rss)
+### kapitalerträge
 
-* [https://www.spiegel.de/ausland/amtseinfuehrung-in-washington-ehemalige-us-praesidenten-werden-nicht-mit-donald-trump-mittagessen](https://www.spiegel.de/ausland/amtseinfuehrung-in-washington-ehemalige-us-praesidenten-werden-nicht-mit-donald-trump-mittagessen-a-46ef2560-e104-4302-9e63-29af5648a43a#ref=rss)
-* [https://www.spiegel.de/panorama/koelner-zoo-stellt-dikdiks-vor-so-gross-wie-ein-hase-und-doch-eine-antilope](https://www.spiegel.de/panorama/koelner-zoo-stellt-dikdiks-vor-so-gross-wie-ein-hase-und-doch-eine-antilope-a-c7e3d20d-2b0b-4be2-9aaf-409b5e8fa93e#ref=rss)
-### erhalten
+* [https://www.spiegel.de/wirtschaft/soziales/robert-habeck-wieso-kassenbeitraege-auf-kapitalertraege-sinnvoll-waeren-aber-nicht-die-beste-idee](https://www.spiegel.de/wirtschaft/soziales/robert-habeck-wieso-kassenbeitraege-auf-kapitalertraege-sinnvoll-waeren-aber-nicht-die-beste-idee-a-832747d1-aa34-41b1-9e9c-a10ee046fcd7#ref=rss)
+### alexander
 
-* [https://www.spiegel.de/ausland/amtseinfuehrung-in-washington-ehemalige-us-praesidenten-werden-nicht-mit-donald-trump-mittagessen](https://www.spiegel.de/ausland/amtseinfuehrung-in-washington-ehemalige-us-praesidenten-werden-nicht-mit-donald-trump-mittagessen-a-46ef2560-e104-4302-9e63-29af5648a43a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/parteispenden-kryptoplattform-bitpanda-unterstuetzt-cdu-csu-und-spd-mit-millionenbetrag](https://www.spiegel.de/politik/deutschland/parteispenden-kryptoplattform-bitpanda-unterstuetzt-cdu-csu-und-spd-mit-millionenbetrag-a-b559e618-392d-497f-b582-e6b125c0582c#ref=rss)
-### israel
+* [https://www.spiegel.de/sport/tennis/australian-open-2025-alexander-zverev-erreicht-achtelfinale-laura-siegemund-scheidet-aus](https://www.spiegel.de/sport/tennis/australian-open-2025-alexander-zverev-erreicht-achtelfinale-laura-siegemund-scheidet-aus-a-c388ea7c-8b77-4533-acb9-0da21dbabb20#ref=rss)
+### zverev
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-deal-zwischen-israel-und-hamas-populismus-von-donald-trump-klage-gegen-apple](https://www.spiegel.de/politik/deutschland/news-des-tages-deal-zwischen-israel-und-hamas-populismus-von-donald-trump-klage-gegen-apple-a-f7744c37-0b29-4c03-8676-5734a2b71e94#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-wie-maechtig-ist-die-hamas-nach-dem-waffenstillstand-noch](https://www.spiegel.de/ausland/gaza-wie-maechtig-ist-die-hamas-nach-dem-waffenstillstand-noch-a-25df2fff-516f-44ee-aac4-b74ea19f928a#ref=rss)
-### krieg
+* [https://www.spiegel.de/sport/tennis/australian-open-2025-alexander-zverev-erreicht-achtelfinale-laura-siegemund-scheidet-aus](https://www.spiegel.de/sport/tennis/australian-open-2025-alexander-zverev-erreicht-achtelfinale-laura-siegemund-scheidet-aus-a-c388ea7c-8b77-4533-acb9-0da21dbabb20#ref=rss)
+### erreicht
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-deal-zwischen-israel-und-hamas-populismus-von-donald-trump-klage-gegen-apple](https://www.spiegel.de/politik/deutschland/news-des-tages-deal-zwischen-israel-und-hamas-populismus-von-donald-trump-klage-gegen-apple-a-f7744c37-0b29-4c03-8676-5734a2b71e94#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-wie-maechtig-ist-die-hamas-nach-dem-waffenstillstand-noch](https://www.spiegel.de/ausland/gaza-wie-maechtig-ist-die-hamas-nach-dem-waffenstillstand-noch-a-25df2fff-516f-44ee-aac4-b74ea19f928a#ref=rss)
-### bulgarien
+* [https://www.spiegel.de/sport/tennis/australian-open-2025-alexander-zverev-erreicht-achtelfinale-laura-siegemund-scheidet-aus](https://www.spiegel.de/sport/tennis/australian-open-2025-alexander-zverev-erreicht-achtelfinale-laura-siegemund-scheidet-aus-a-c388ea7c-8b77-4533-acb9-0da21dbabb20#ref=rss)
+* [https://www.spiegel.de/wirtschaft/china-wirtschaft-unter-druck-fuenf-prozent-wachstum-reichen-nicht](https://www.spiegel.de/wirtschaft/china-wirtschaft-unter-druck-fuenf-prozent-wachstum-reichen-nicht-a-14be4ddc-9495-4afa-b423-6578001c48a4#ref=rss)
+### laura
 
-* [https://www.spiegel.de/ausland/bulgarien-parlament-bestaetigt-ungewoehnliche-dreierkoalition-nach-sieben-wahlen](https://www.spiegel.de/ausland/bulgarien-parlament-bestaetigt-ungewoehnliche-dreierkoalition-nach-sieben-wahlen-a-4f12173f-9f28-4a42-aff6-7e04db6b9154#ref=rss)
-### parteien
+* [https://www.spiegel.de/sport/tennis/australian-open-2025-alexander-zverev-erreicht-achtelfinale-laura-siegemund-scheidet-aus](https://www.spiegel.de/sport/tennis/australian-open-2025-alexander-zverev-erreicht-achtelfinale-laura-siegemund-scheidet-aus-a-c388ea7c-8b77-4533-acb9-0da21dbabb20#ref=rss)
+### siegemund
 
-* [https://www.spiegel.de/ausland/bulgarien-parlament-bestaetigt-ungewoehnliche-dreierkoalition-nach-sieben-wahlen](https://www.spiegel.de/ausland/bulgarien-parlament-bestaetigt-ungewoehnliche-dreierkoalition-nach-sieben-wahlen-a-4f12173f-9f28-4a42-aff6-7e04db6b9154#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/parteispenden-kryptoplattform-bitpanda-unterstuetzt-cdu-csu-und-spd-mit-millionenbetrag](https://www.spiegel.de/politik/deutschland/parteispenden-kryptoplattform-bitpanda-unterstuetzt-cdu-csu-und-spd-mit-millionenbetrag-a-b559e618-392d-497f-b582-e6b125c0582c#ref=rss)
-### kryptoplattform
+* [https://www.spiegel.de/sport/tennis/australian-open-2025-alexander-zverev-erreicht-achtelfinale-laura-siegemund-scheidet-aus](https://www.spiegel.de/sport/tennis/australian-open-2025-alexander-zverev-erreicht-achtelfinale-laura-siegemund-scheidet-aus-a-c388ea7c-8b77-4533-acb9-0da21dbabb20#ref=rss)
+### scheidet
 
-* [https://www.spiegel.de/politik/deutschland/parteispenden-kryptoplattform-bitpanda-unterstuetzt-cdu-csu-und-spd-mit-millionenbetrag](https://www.spiegel.de/politik/deutschland/parteispenden-kryptoplattform-bitpanda-unterstuetzt-cdu-csu-und-spd-mit-millionenbetrag-a-b559e618-392d-497f-b582-e6b125c0582c#ref=rss)
-### bitpanda
+* [https://www.spiegel.de/sport/tennis/australian-open-2025-alexander-zverev-erreicht-achtelfinale-laura-siegemund-scheidet-aus](https://www.spiegel.de/sport/tennis/australian-open-2025-alexander-zverev-erreicht-achtelfinale-laura-siegemund-scheidet-aus-a-c388ea7c-8b77-4533-acb9-0da21dbabb20#ref=rss)
+### wirtschaft
 
-* [https://www.spiegel.de/politik/deutschland/parteispenden-kryptoplattform-bitpanda-unterstuetzt-cdu-csu-und-spd-mit-millionenbetrag](https://www.spiegel.de/politik/deutschland/parteispenden-kryptoplattform-bitpanda-unterstuetzt-cdu-csu-und-spd-mit-millionenbetrag-a-b559e618-392d-497f-b582-e6b125c0582c#ref=rss)
-### spd
+* [https://www.spiegel.de/wirtschaft/china-wirtschaft-unter-druck-fuenf-prozent-wachstum-reichen-nicht](https://www.spiegel.de/wirtschaft/china-wirtschaft-unter-druck-fuenf-prozent-wachstum-reichen-nicht-a-14be4ddc-9495-4afa-b423-6578001c48a4#ref=rss)
+### fünf
 
-* [https://www.spiegel.de/politik/deutschland/parteispenden-kryptoplattform-bitpanda-unterstuetzt-cdu-csu-und-spd-mit-millionenbetrag](https://www.spiegel.de/politik/deutschland/parteispenden-kryptoplattform-bitpanda-unterstuetzt-cdu-csu-und-spd-mit-millionenbetrag-a-b559e618-392d-497f-b582-e6b125c0582c#ref=rss)
-### schusswaffe
+* [https://www.spiegel.de/wirtschaft/china-wirtschaft-unter-druck-fuenf-prozent-wachstum-reichen-nicht](https://www.spiegel.de/wirtschaft/china-wirtschaft-unter-druck-fuenf-prozent-wachstum-reichen-nicht-a-14be4ddc-9495-4afa-b423-6578001c48a4#ref=rss)
+### alice
 
-* [https://www.spiegel.de/panorama/justiz/koeln-mann-zieht-schusswaffe-bei-streit-um-parkplatz](https://www.spiegel.de/panorama/justiz/koeln-mann-zieht-schusswaffe-bei-streit-um-parkplatz-a-9afe46df-10b6-4c8d-a4b9-5e7a0764d099#ref=rss)
-### streit
+* [https://www.spiegel.de/wirtschaft/unternehmen/vattenfallchef-wirft-alice-weidel-ignoranz-gegenueber-den-fakten-vor](https://www.spiegel.de/wirtschaft/unternehmen/vattenfallchef-wirft-alice-weidel-ignoranz-gegenueber-den-fakten-vor-a-0bc534ea-e487-4a97-98ff-66cbafd55d9c#ref=rss)
+### weidel
 
-* [https://www.spiegel.de/panorama/justiz/koeln-mann-zieht-schusswaffe-bei-streit-um-parkplatz](https://www.spiegel.de/panorama/justiz/koeln-mann-zieht-schusswaffe-bei-streit-um-parkplatz-a-9afe46df-10b6-4c8d-a4b9-5e7a0764d099#ref=rss)
-### parkplatz
+* [https://www.spiegel.de/wirtschaft/unternehmen/vattenfallchef-wirft-alice-weidel-ignoranz-gegenueber-den-fakten-vor](https://www.spiegel.de/wirtschaft/unternehmen/vattenfallchef-wirft-alice-weidel-ignoranz-gegenueber-den-fakten-vor-a-0bc534ea-e487-4a97-98ff-66cbafd55d9c#ref=rss)
+### waffenstillstand
 
-* [https://www.spiegel.de/panorama/justiz/koeln-mann-zieht-schusswaffe-bei-streit-um-parkplatz](https://www.spiegel.de/panorama/justiz/koeln-mann-zieht-schusswaffe-bei-streit-um-parkplatz-a-9afe46df-10b6-4c8d-a4b9-5e7a0764d099#ref=rss)
-### gaza
+* [https://www.spiegel.de/ausland/waffenstillstand-im-israel-gaza-krieg-die-rueckkehr-der-hoffnung](https://www.spiegel.de/ausland/waffenstillstand-im-israel-gaza-krieg-die-rueckkehr-der-hoffnung-a-2d9c4279-6d2b-46a0-aa15-931d130b122e#ref=rss)
+### welt
 
-* [https://www.spiegel.de/ausland/gaza-wie-maechtig-ist-die-hamas-nach-dem-waffenstillstand-noch](https://www.spiegel.de/ausland/gaza-wie-maechtig-ist-die-hamas-nach-dem-waffenstillstand-noch-a-25df2fff-516f-44ee-aac4-b74ea19f928a#ref=rss)
-### oktober
+* [https://www.spiegel.de/panorama/leute/feuer-in-los-angeles-billie-eilish-und-green-day-spielen-benefizkonzert-zur-unterstuetzung-der-opfer](https://www.spiegel.de/panorama/leute/feuer-in-los-angeles-billie-eilish-und-green-day-spielen-benefizkonzert-zur-unterstuetzung-der-opfer-a-8f49e4fa-49c1-49f9-be51-dbe937db4996#ref=rss)
+* [https://www.spiegel.de/stil/ugg-boots-warum-die-klobigen-lammfellstiefel-wieder-angesagt-sind](https://www.spiegel.de/stil/ugg-boots-warum-die-klobigen-lammfellstiefel-wieder-angesagt-sind-a-a53eaf83-37cf-4d7a-b6f5-06ad67a7d7e9#ref=rss)
+### uggboots
 
-* [https://www.spiegel.de/ausland/gaza-wie-maechtig-ist-die-hamas-nach-dem-waffenstillstand-noch](https://www.spiegel.de/ausland/gaza-wie-maechtig-ist-die-hamas-nach-dem-waffenstillstand-noch-a-25df2fff-516f-44ee-aac4-b74ea19f928a#ref=rss)
-* [https://www.spiegel.de/panorama/koelner-zoo-stellt-dikdiks-vor-so-gross-wie-ein-hase-und-doch-eine-antilope](https://www.spiegel.de/panorama/koelner-zoo-stellt-dikdiks-vor-so-gross-wie-ein-hase-und-doch-eine-antilope-a-c7e3d20d-2b0b-4be2-9aaf-409b5e8fa93e#ref=rss)
-### robert
+* [https://www.spiegel.de/stil/ugg-boots-warum-die-klobigen-lammfellstiefel-wieder-angesagt-sind](https://www.spiegel.de/stil/ugg-boots-warum-die-klobigen-lammfellstiefel-wieder-angesagt-sind-a-a53eaf83-37cf-4d7a-b6f5-06ad67a7d7e9#ref=rss)
+### angesagt
 
-* [https://www.spiegel.de/kultur/literatur/robert-habeck-und-sein-buch-den-bach-rauf-ein-horizont-ist-immerhin-kein-abgrund](https://www.spiegel.de/kultur/literatur/robert-habeck-und-sein-buch-den-bach-rauf-ein-horizont-ist-immerhin-kein-abgrund-a-b135ac2a-128a-4e23-b338-940c6902a082#ref=rss)
-### habeck
-
-* [https://www.spiegel.de/kultur/literatur/robert-habeck-und-sein-buch-den-bach-rauf-ein-horizont-ist-immerhin-kein-abgrund](https://www.spiegel.de/kultur/literatur/robert-habeck-und-sein-buch-den-bach-rauf-ein-horizont-ist-immerhin-kein-abgrund-a-b135ac2a-128a-4e23-b338-940c6902a082#ref=rss)
-### buch
-
-* [https://www.spiegel.de/kultur/literatur/robert-habeck-und-sein-buch-den-bach-rauf-ein-horizont-ist-immerhin-kein-abgrund](https://www.spiegel.de/kultur/literatur/robert-habeck-und-sein-buch-den-bach-rauf-ein-horizont-ist-immerhin-kein-abgrund-a-b135ac2a-128a-4e23-b338-940c6902a082#ref=rss)
-### rhetorik
-
-* [https://www.spiegel.de/kultur/literatur/robert-habeck-und-sein-buch-den-bach-rauf-ein-horizont-ist-immerhin-kein-abgrund](https://www.spiegel.de/kultur/literatur/robert-habeck-und-sein-buch-den-bach-rauf-ein-horizont-ist-immerhin-kein-abgrund-a-b135ac2a-128a-4e23-b338-940c6902a082#ref=rss)
-### boris
-
-* [https://www.spiegel.de/sport/vendee-globe-boris-herrmanns-boot-kollidiert-mit-unbekanntem-objekt](https://www.spiegel.de/sport/vendee-globe-boris-herrmanns-boot-kollidiert-mit-unbekanntem-objekt-a-0334a8cf-49e6-4745-b967-1c8cac135535#ref=rss)
-### weiterer
-
-* [https://www.spiegel.de/sport/vendee-globe-boris-herrmanns-boot-kollidiert-mit-unbekanntem-objekt](https://www.spiegel.de/sport/vendee-globe-boris-herrmanns-boot-kollidiert-mit-unbekanntem-objekt-a-0334a8cf-49e6-4745-b967-1c8cac135535#ref=rss)
-* [https://www.spiegel.de/wirtschaft/maul-und-klauenseuche-weiterer-verdachtsfall-im-landkreis-barmin](https://www.spiegel.de/wirtschaft/maul-und-klauenseuche-weiterer-verdachtsfall-im-landkreis-barmin-a-0e6ea65d-a5f0-43db-8727-7689d76bd5b4#ref=rss)
-### zoo
-
-* [https://www.spiegel.de/panorama/koelner-zoo-stellt-dikdiks-vor-so-gross-wie-ein-hase-und-doch-eine-antilope](https://www.spiegel.de/panorama/koelner-zoo-stellt-dikdiks-vor-so-gross-wie-ein-hase-und-doch-eine-antilope-a-c7e3d20d-2b0b-4be2-9aaf-409b5e8fa93e#ref=rss)
-### dikdiks
-
-* [https://www.spiegel.de/panorama/koelner-zoo-stellt-dikdiks-vor-so-gross-wie-ein-hase-und-doch-eine-antilope](https://www.spiegel.de/panorama/koelner-zoo-stellt-dikdiks-vor-so-gross-wie-ein-hase-und-doch-eine-antilope-a-c7e3d20d-2b0b-4be2-9aaf-409b5e8fa93e#ref=rss)
-### amazon
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/amazon-prime-gericht-erklaert-preiserhoehung-im-jahr-2022-fuer-unzulaessig-sammelklage-geplant](https://www.spiegel.de/netzwelt/netzpolitik/amazon-prime-gericht-erklaert-preiserhoehung-im-jahr-2022-fuer-unzulaessig-sammelklage-geplant-a-db3f67f4-f331-4f06-a225-519cd2e1dbfc#ref=rss)
-### 2022
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/amazon-prime-gericht-erklaert-preiserhoehung-im-jahr-2022-fuer-unzulaessig-sammelklage-geplant](https://www.spiegel.de/netzwelt/netzpolitik/amazon-prime-gericht-erklaert-preiserhoehung-im-jahr-2022-fuer-unzulaessig-sammelklage-geplant-a-db3f67f4-f331-4f06-a225-519cd2e1dbfc#ref=rss)
-### sammelklage
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/amazon-prime-gericht-erklaert-preiserhoehung-im-jahr-2022-fuer-unzulaessig-sammelklage-geplant](https://www.spiegel.de/netzwelt/netzpolitik/amazon-prime-gericht-erklaert-preiserhoehung-im-jahr-2022-fuer-unzulaessig-sammelklage-geplant-a-db3f67f4-f331-4f06-a225-519cd2e1dbfc#ref=rss)
-### verdachtsfall
-
-* [https://www.spiegel.de/wirtschaft/maul-und-klauenseuche-weiterer-verdachtsfall-im-landkreis-barmin](https://www.spiegel.de/wirtschaft/maul-und-klauenseuche-weiterer-verdachtsfall-im-landkreis-barmin-a-0e6ea65d-a5f0-43db-8727-7689d76bd5b4#ref=rss)
-### landkreis
-
-* [https://www.spiegel.de/wirtschaft/maul-und-klauenseuche-weiterer-verdachtsfall-im-landkreis-barmin](https://www.spiegel.de/wirtschaft/maul-und-klauenseuche-weiterer-verdachtsfall-im-landkreis-barmin-a-0e6ea65d-a5f0-43db-8727-7689d76bd5b4#ref=rss)
-### barnim
-
-* [https://www.spiegel.de/wirtschaft/maul-und-klauenseuche-weiterer-verdachtsfall-im-landkreis-barmin](https://www.spiegel.de/wirtschaft/maul-und-klauenseuche-weiterer-verdachtsfall-im-landkreis-barmin-a-0e6ea65d-a5f0-43db-8727-7689d76bd5b4#ref=rss)
+* [https://www.spiegel.de/stil/ugg-boots-warum-die-klobigen-lammfellstiefel-wieder-angesagt-sind](https://www.spiegel.de/stil/ugg-boots-warum-die-klobigen-lammfellstiefel-wieder-angesagt-sind-a-a53eaf83-37cf-4d7a-b6f5-06ad67a7d7e9#ref=rss)
 
