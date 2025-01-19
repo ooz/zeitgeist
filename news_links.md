@@ -4,405 +4,410 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### donald
+### usa
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-haelt-donald-trump-fuer-eine-chance-er-tut-was-er-sagt](https://www.spiegel.de/politik/deutschland/friedrich-merz-haelt-donald-trump-fuer-eine-chance-er-tut-was-er-sagt-a-08c5401e-48c0-402b-a862-77806e7b0e26#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bdi-praesident-peter-leibinger-ueber-die-afd-die-auslaenderfeindlichkeit-ist-schlicht-dumm](https://www.spiegel.de/wirtschaft/bdi-praesident-peter-leibinger-ueber-die-afd-die-auslaenderfeindlichkeit-ist-schlicht-dumm-a-60d23ea4-aec4-425d-8404-060d6d70d6ed#ref=rss)
-* [https://www.spiegel.de/ausland/so-massiv-wird-trumps-vereidigung-abgesichert](https://www.spiegel.de/ausland/so-massiv-wird-trumps-vereidigung-abgesichert-a-4f3bb556-3ef0-4894-a733-1b37bd7ce368#ref=rss)
-* [https://www.spiegel.de/ausland/mike-pence-will-an-donald-trumps-amtseinfuehrung-teilnehmen](https://www.spiegel.de/ausland/mike-pence-will-an-donald-trumps-amtseinfuehrung-teilnehmen-a-4e22e13f-e467-4795-9f7d-abaa96544621#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-berater-sriram-krishnan-das-indischstaemmige-paar-das-steve-bannon-auf-die-palme-bringt](https://www.spiegel.de/wirtschaft/donald-trump-berater-sriram-krishnan-das-indischstaemmige-paar-das-steve-bannon-auf-die-palme-bringt-a-63bc1191-2d51-47a1-8519-324201f11b29#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/usa-friedrich-merz-will-donald-trump-handgeschriebenen-brief-zur-amtseinfuehrung-zukommen-lassen](https://www.spiegel.de/politik/deutschland/usa-friedrich-merz-will-donald-trump-handgeschriebenen-brief-zur-amtseinfuehrung-zukommen-lassen-a-78c2a4aa-3e72-4ed8-bbeb-b4e425e6b0f4#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-und-politik-fifa-praesident-gianni-infantino-nimmt-an-donald-trumps-amtseinfuehrung-teil](https://www.spiegel.de/sport/fussball/fussball-und-politik-fifa-praesident-gianni-infantino-nimmt-an-donald-trumps-amtseinfuehrung-teil-a-9e9d3477-dfbb-4cf2-8956-4eabc4e4dda3#ref=rss)
+* [https://www.spiegel.de/sport/tennis/australian-open-coco-gauff-steht-im-viertelfinale-und-trauert-um-tiktok](https://www.spiegel.de/sport/tennis/australian-open-coco-gauff-steht-im-viertelfinale-und-trauert-um-tiktok-a-8fdd675b-8867-43d2-b004-735b9b450910#ref=rss)
+* [https://www.spiegel.de/kultur/usa-mein-freund-ted-waehlt-donald-trump-und-wir-sind-trotzdem-freunde](https://www.spiegel.de/kultur/usa-mein-freund-ted-waehlt-donald-trump-und-wir-sind-trotzdem-freunde-a-160e5294-38f9-4521-b194-6c95182741e1#ref=rss)
+* [https://www.spiegel.de/ausland/usa-donald-trump-ist-am-tag-vor-der-amtseinfuehrung-in-washington-eingetroffen](https://www.spiegel.de/ausland/usa-donald-trump-ist-am-tag-vor-der-amtseinfuehrung-in-washington-eingetroffen-a-7998324d-f675-4806-a089-1e2e9fe3e8e5#ref=rss)
+* [https://www.spiegel.de/netzwelt/tiktok-ist-in-den-usa-abgeschaltet-worden](https://www.spiegel.de/netzwelt/tiktok-ist-in-den-usa-abgeschaltet-worden-a-97b86199-fd66-4c79-a3c3-ba33d81480b4#ref=rss)
+* [https://www.spiegel.de/ausland/usa-deutscher-botschafter-warnt-laut-interner-analyse-vor-trump](https://www.spiegel.de/ausland/usa-deutscher-botschafter-warnt-laut-interner-analyse-vor-trump-a-050e94a8-a890-4e15-aded-44885054c0a0#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-haelt-donald-trump-fuer-eine-chance-er-tut-was-er-sagt](https://www.spiegel.de/politik/deutschland/friedrich-merz-haelt-donald-trump-fuer-eine-chance-er-tut-was-er-sagt-a-08c5401e-48c0-402b-a862-77806e7b0e26#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bdi-praesident-peter-leibinger-ueber-die-afd-die-auslaenderfeindlichkeit-ist-schlicht-dumm](https://www.spiegel.de/wirtschaft/bdi-praesident-peter-leibinger-ueber-die-afd-die-auslaenderfeindlichkeit-ist-schlicht-dumm-a-60d23ea4-aec4-425d-8404-060d6d70d6ed#ref=rss)
-* [https://www.spiegel.de/ausland/so-massiv-wird-trumps-vereidigung-abgesichert](https://www.spiegel.de/ausland/so-massiv-wird-trumps-vereidigung-abgesichert-a-4f3bb556-3ef0-4894-a733-1b37bd7ce368#ref=rss)
-* [https://www.spiegel.de/ausland/mike-pence-will-an-donald-trumps-amtseinfuehrung-teilnehmen](https://www.spiegel.de/ausland/mike-pence-will-an-donald-trumps-amtseinfuehrung-teilnehmen-a-4e22e13f-e467-4795-9f7d-abaa96544621#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-berater-sriram-krishnan-das-indischstaemmige-paar-das-steve-bannon-auf-die-palme-bringt](https://www.spiegel.de/wirtschaft/donald-trump-berater-sriram-krishnan-das-indischstaemmige-paar-das-steve-bannon-auf-die-palme-bringt-a-63bc1191-2d51-47a1-8519-324201f11b29#ref=rss)
-### sagt
+* [https://www.spiegel.de/politik/deutschland/usa-friedrich-merz-will-donald-trump-handgeschriebenen-brief-zur-amtseinfuehrung-zukommen-lassen](https://www.spiegel.de/politik/deutschland/usa-friedrich-merz-will-donald-trump-handgeschriebenen-brief-zur-amtseinfuehrung-zukommen-lassen-a-78c2a4aa-3e72-4ed8-bbeb-b4e425e6b0f4#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-und-politik-fifa-praesident-gianni-infantino-nimmt-an-donald-trumps-amtseinfuehrung-teil](https://www.spiegel.de/sport/fussball/fussball-und-politik-fifa-praesident-gianni-infantino-nimmt-an-donald-trumps-amtseinfuehrung-teil-a-9e9d3477-dfbb-4cf2-8956-4eabc4e4dda3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-imperialismus-autoritarismus-egoismus-ab-morgen-leben-wir-in-der-trump-welt](https://www.spiegel.de/politik/deutschland/news-imperialismus-autoritarismus-egoismus-ab-morgen-leben-wir-in-der-trump-welt-a-c8fbe89e-c689-42f1-8757-8b87afe1e549#ref=rss)
+* [https://www.spiegel.de/kultur/usa-mein-freund-ted-waehlt-donald-trump-und-wir-sind-trotzdem-freunde](https://www.spiegel.de/kultur/usa-mein-freund-ted-waehlt-donald-trump-und-wir-sind-trotzdem-freunde-a-160e5294-38f9-4521-b194-6c95182741e1#ref=rss)
+* [https://www.spiegel.de/ausland/usa-donald-trump-ist-am-tag-vor-der-amtseinfuehrung-in-washington-eingetroffen](https://www.spiegel.de/ausland/usa-donald-trump-ist-am-tag-vor-der-amtseinfuehrung-in-washington-eingetroffen-a-7998324d-f675-4806-a089-1e2e9fe3e8e5#ref=rss)
+* [https://www.spiegel.de/ausland/machtwechsel-in-den-usa-das-wahre-gesicht-von-joe-biden](https://www.spiegel.de/ausland/machtwechsel-in-den-usa-das-wahre-gesicht-von-joe-biden-a-1ce476e4-6a4b-485c-86fa-bab9d7fc1d19#ref=rss)
+* [https://www.spiegel.de/netzwelt/tiktok-ist-in-den-usa-abgeschaltet-worden](https://www.spiegel.de/netzwelt/tiktok-ist-in-den-usa-abgeschaltet-worden-a-97b86199-fd66-4c79-a3c3-ba33d81480b4#ref=rss)
+* [https://www.spiegel.de/ausland/usa-deutscher-botschafter-warnt-laut-interner-analyse-vor-trump](https://www.spiegel.de/ausland/usa-deutscher-botschafter-warnt-laut-interner-analyse-vor-trump-a-050e94a8-a890-4e15-aded-44885054c0a0#ref=rss)
+### donald
 
-* [https://www.spiegel.de/gesundheit/patientenverfuegung-medizinrechtler-erklaert-wie-sie-formuliert-sein-sollte](https://www.spiegel.de/gesundheit/patientenverfuegung-medizinrechtler-erklaert-wie-sie-formuliert-sein-sollte-a-8eb0feed-98d2-4884-93a5-76d42e238e80#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/schulnoten-und-migration-keine-systematische-diskriminierung](https://www.spiegel.de/panorama/bildung/schulnoten-und-migration-keine-systematische-diskriminierung-a-82de636e-039f-41f5-af7b-703fc33b2497#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-haelt-donald-trump-fuer-eine-chance-er-tut-was-er-sagt](https://www.spiegel.de/politik/deutschland/friedrich-merz-haelt-donald-trump-fuer-eine-chance-er-tut-was-er-sagt-a-08c5401e-48c0-402b-a862-77806e7b0e26#ref=rss)
-* [https://www.spiegel.de/ausland/mike-pence-will-an-donald-trumps-amtseinfuehrung-teilnehmen](https://www.spiegel.de/ausland/mike-pence-will-an-donald-trumps-amtseinfuehrung-teilnehmen-a-4e22e13f-e467-4795-9f7d-abaa96544621#ref=rss)
-### mehr
+* [https://www.spiegel.de/politik/deutschland/usa-friedrich-merz-will-donald-trump-handgeschriebenen-brief-zur-amtseinfuehrung-zukommen-lassen](https://www.spiegel.de/politik/deutschland/usa-friedrich-merz-will-donald-trump-handgeschriebenen-brief-zur-amtseinfuehrung-zukommen-lassen-a-78c2a4aa-3e72-4ed8-bbeb-b4e425e6b0f4#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-und-politik-fifa-praesident-gianni-infantino-nimmt-an-donald-trumps-amtseinfuehrung-teil](https://www.spiegel.de/sport/fussball/fussball-und-politik-fifa-praesident-gianni-infantino-nimmt-an-donald-trumps-amtseinfuehrung-teil-a-9e9d3477-dfbb-4cf2-8956-4eabc4e4dda3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-imperialismus-autoritarismus-egoismus-ab-morgen-leben-wir-in-der-trump-welt](https://www.spiegel.de/politik/deutschland/news-imperialismus-autoritarismus-egoismus-ab-morgen-leben-wir-in-der-trump-welt-a-c8fbe89e-c689-42f1-8757-8b87afe1e549#ref=rss)
+* [https://www.spiegel.de/kultur/usa-mein-freund-ted-waehlt-donald-trump-und-wir-sind-trotzdem-freunde](https://www.spiegel.de/kultur/usa-mein-freund-ted-waehlt-donald-trump-und-wir-sind-trotzdem-freunde-a-160e5294-38f9-4521-b194-6c95182741e1#ref=rss)
+* [https://www.spiegel.de/ausland/usa-donald-trump-ist-am-tag-vor-der-amtseinfuehrung-in-washington-eingetroffen](https://www.spiegel.de/ausland/usa-donald-trump-ist-am-tag-vor-der-amtseinfuehrung-in-washington-eingetroffen-a-7998324d-f675-4806-a089-1e2e9fe3e8e5#ref=rss)
+* [https://www.spiegel.de/ausland/machtwechsel-in-den-usa-das-wahre-gesicht-von-joe-biden](https://www.spiegel.de/ausland/machtwechsel-in-den-usa-das-wahre-gesicht-von-joe-biden-a-1ce476e4-6a4b-485c-86fa-bab9d7fc1d19#ref=rss)
+* [https://www.spiegel.de/netzwelt/tiktok-ist-in-den-usa-abgeschaltet-worden](https://www.spiegel.de/netzwelt/tiktok-ist-in-den-usa-abgeschaltet-worden-a-97b86199-fd66-4c79-a3c3-ba33d81480b4#ref=rss)
+### erste
 
-* [https://www.spiegel.de/auto/fahrberichte/ford-explorer-im-test-elektro-suv-mit-innovativen-loesungen-und-volkswagen-genen](https://www.spiegel.de/auto/fahrberichte/ford-explorer-im-test-elektro-suv-mit-innovativen-loesungen-und-volkswagen-genen-a-64e363b2-1d37-4fc1-ad84-015684a6ec60#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-marco-odermatt-gewinnt-die-abfahrt-in-wenge-zwei-fahrer-stuerzen-schwer](https://www.spiegel.de/sport/wintersport/ski-alpin-marco-odermatt-gewinnt-die-abfahrt-in-wenge-zwei-fahrer-stuerzen-schwer-a-b01fe7f0-ec41-463b-a9da-d4e9ec6ff786#ref=rss)
-* [https://www.spiegel.de/karriere/internationales-zirkusfestival-in-monte-carlo-lea-toran-jenner-aus-ulm-tritt-mit-dem-cyr-rad-auf](https://www.spiegel.de/karriere/internationales-zirkusfestival-in-monte-carlo-lea-toran-jenner-aus-ulm-tritt-mit-dem-cyr-rad-auf-a-fd457cbd-27b1-458b-ad5a-676e4a3008b6#ref=rss)
-* [https://www.spiegel.de/panorama/spanien-mehr-als-30-verletzte-bei-skilift-unfall-in-astun](https://www.spiegel.de/panorama/spanien-mehr-als-30-verletzte-bei-skilift-unfall-in-astun-a-7ee6810c-14a6-4bd9-8025-2df87307635b#ref=rss)
-### schwer
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-im-liveblog-die-waffenruhe-ist-in-kraft-erste-geiseln-sollen-am-nachmittag-freikommen](https://www.spiegel.de/ausland/israel-gaza-krieg-im-liveblog-die-waffenruhe-ist-in-kraft-erste-geiseln-sollen-am-nachmittag-freikommen-a-aed51866-d057-48c5-a6ae-a5c8f801e40b#ref=rss)
+* [https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-steht-im-viertelfinale](https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-steht-im-viertelfinale-a-6bbf6e8c-6105-4617-af98-4c0f8d931051#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-jetzt-ruhen-die-waffen-in-gaza](https://www.spiegel.de/ausland/israel-gaza-krieg-jetzt-ruhen-die-waffen-in-gaza-a-429d9ae7-a813-48fc-bf6c-c8f63edbc35b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-imperialismus-autoritarismus-egoismus-ab-morgen-leben-wir-in-der-trump-welt](https://www.spiegel.de/politik/deutschland/news-imperialismus-autoritarismus-egoismus-ab-morgen-leben-wir-in-der-trump-welt-a-c8fbe89e-c689-42f1-8757-8b87afe1e549#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-und-israel-hamas-verweigert-kurz-vor-geplanter-waffenruhe-zugesagte-liste-ueber-geiseln](https://www.spiegel.de/ausland/gaza-und-israel-hamas-verweigert-kurz-vor-geplanter-waffenruhe-zugesagte-liste-ueber-geiseln-a-db30f526-8649-4634-a2e5-b2ee7531c22d#ref=rss)
+### kulturhauptstadt
 
-* [https://www.spiegel.de/gesundheit/patientenverfuegung-medizinrechtler-erklaert-wie-sie-formuliert-sein-sollte](https://www.spiegel.de/gesundheit/patientenverfuegung-medizinrechtler-erklaert-wie-sie-formuliert-sein-sollte-a-8eb0feed-98d2-4884-93a5-76d42e238e80#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-marco-odermatt-gewinnt-die-abfahrt-in-wenge-zwei-fahrer-stuerzen-schwer](https://www.spiegel.de/sport/wintersport/ski-alpin-marco-odermatt-gewinnt-die-abfahrt-in-wenge-zwei-fahrer-stuerzen-schwer-a-b01fe7f0-ec41-463b-a9da-d4e9ec6ff786#ref=rss)
-* [https://www.spiegel.de/panorama/spanien-mehr-als-30-verletzte-bei-skilift-unfall-in-astun](https://www.spiegel.de/panorama/spanien-mehr-als-30-verletzte-bei-skilift-unfall-in-astun-a-7ee6810c-14a6-4bd9-8025-2df87307635b#ref=rss)
-### tut
+* [https://www.spiegel.de/kultur/kulturhauptstadt-chemnitz-wir-chemnitzer-sind-naemlich-gar-nicht-so-boese](https://www.spiegel.de/kultur/kulturhauptstadt-chemnitz-wir-chemnitzer-sind-naemlich-gar-nicht-so-boese-a-bba7f30b-dfec-40c3-9aee-2fc2a30ff7b0#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/chemnitz-rechtsextreme-demo-und-gegenproteste-zum-start-der-kulturhauptstadt](https://www.spiegel.de/panorama/gesellschaft/chemnitz-rechtsextreme-demo-und-gegenproteste-zum-start-der-kulturhauptstadt-a-42fc450f-c362-43a9-be01-0d86f6a6a9fd#ref=rss)
+### chemnitz
 
-* [https://www.spiegel.de/gesundheit/patientenverfuegung-medizinrechtler-erklaert-wie-sie-formuliert-sein-sollte](https://www.spiegel.de/gesundheit/patientenverfuegung-medizinrechtler-erklaert-wie-sie-formuliert-sein-sollte-a-8eb0feed-98d2-4884-93a5-76d42e238e80#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-braucht-die-tipps-von-juergen-klopp-schneller-denn-je](https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-braucht-die-tipps-von-juergen-klopp-schneller-denn-je-a-8791bc2f-365b-400b-9a98-ef66a62f69b8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-haelt-donald-trump-fuer-eine-chance-er-tut-was-er-sagt](https://www.spiegel.de/politik/deutschland/friedrich-merz-haelt-donald-trump-fuer-eine-chance-er-tut-was-er-sagt-a-08c5401e-48c0-402b-a862-77806e7b0e26#ref=rss)
-### waren
+* [https://www.spiegel.de/kultur/kulturhauptstadt-chemnitz-wir-chemnitzer-sind-naemlich-gar-nicht-so-boese](https://www.spiegel.de/kultur/kulturhauptstadt-chemnitz-wir-chemnitzer-sind-naemlich-gar-nicht-so-boese-a-bba7f30b-dfec-40c3-9aee-2fc2a30ff7b0#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/chemnitz-rechtsextreme-demo-und-gegenproteste-zum-start-der-kulturhauptstadt](https://www.spiegel.de/panorama/gesellschaft/chemnitz-rechtsextreme-demo-und-gegenproteste-zum-start-der-kulturhauptstadt-a-42fc450f-c362-43a9-be01-0d86f6a6a9fd#ref=rss)
+### rechtsextremen
 
-* [https://www.spiegel.de/panorama/justiz/bremen-polizeieinsatz-am-hauptbahnhof-begleitung-der-taskforce-im-einsatz-spiegel-tv](https://www.spiegel.de/panorama/justiz/bremen-polizeieinsatz-am-hauptbahnhof-begleitung-der-taskforce-im-einsatz-spiegel-tv-a-22039d51-dd76-4de9-a99f-d2ca82716e96#ref=rss)
-* [https://www.spiegel.de/karriere/internationales-zirkusfestival-in-monte-carlo-lea-toran-jenner-aus-ulm-tritt-mit-dem-cyr-rad-auf](https://www.spiegel.de/karriere/internationales-zirkusfestival-in-monte-carlo-lea-toran-jenner-aus-ulm-tritt-mit-dem-cyr-rad-auf-a-fd457cbd-27b1-458b-ad5a-676e4a3008b6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-berater-sriram-krishnan-das-indischstaemmige-paar-das-steve-bannon-auf-die-palme-bringt](https://www.spiegel.de/wirtschaft/donald-trump-berater-sriram-krishnan-das-indischstaemmige-paar-das-steve-bannon-auf-die-palme-bringt-a-63bc1191-2d51-47a1-8519-324201f11b29#ref=rss)
-### marco
+* [https://www.spiegel.de/kultur/kulturhauptstadt-chemnitz-wir-chemnitzer-sind-naemlich-gar-nicht-so-boese](https://www.spiegel.de/kultur/kulturhauptstadt-chemnitz-wir-chemnitzer-sind-naemlich-gar-nicht-so-boese-a-bba7f30b-dfec-40c3-9aee-2fc2a30ff7b0#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/aachen-demonstrierende-blockieren-rechtsextremen-aufmarsch](https://www.spiegel.de/panorama/gesellschaft/aachen-demonstrierende-blockieren-rechtsextremen-aufmarsch-a-fd0d95ed-71ab-4766-9cda-32bcdc6aebc9#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/chemnitz-rechtsextreme-demo-und-gegenproteste-zum-start-der-kulturhauptstadt](https://www.spiegel.de/panorama/gesellschaft/chemnitz-rechtsextreme-demo-und-gegenproteste-zum-start-der-kulturhauptstadt-a-42fc450f-c362-43a9-be01-0d86f6a6a9fd#ref=rss)
+### gaza
 
-* [https://www.spiegel.de/sport/wintersport/ski-abfahrt-in-wengen-schweizer-franjo-von-allmen-ist-nur-von-teamkollege-marco-odermatt-zu-schlagen](https://www.spiegel.de/sport/wintersport/ski-abfahrt-in-wengen-schweizer-franjo-von-allmen-ist-nur-von-teamkollege-marco-odermatt-zu-schlagen-a-30539647-fe5f-4614-b583-23482d792a1a#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-marco-odermatt-gewinnt-die-abfahrt-in-wenge-zwei-fahrer-stuerzen-schwer](https://www.spiegel.de/sport/wintersport/ski-alpin-marco-odermatt-gewinnt-die-abfahrt-in-wenge-zwei-fahrer-stuerzen-schwer-a-b01fe7f0-ec41-463b-a9da-d4e9ec6ff786#ref=rss)
-### odermatt
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-im-liveblog-die-waffenruhe-ist-in-kraft-erste-geiseln-sollen-am-nachmittag-freikommen](https://www.spiegel.de/ausland/israel-gaza-krieg-im-liveblog-die-waffenruhe-ist-in-kraft-erste-geiseln-sollen-am-nachmittag-freikommen-a-aed51866-d057-48c5-a6ae-a5c8f801e40b#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-jetzt-ruhen-die-waffen-in-gaza](https://www.spiegel.de/ausland/israel-gaza-krieg-jetzt-ruhen-die-waffen-in-gaza-a-429d9ae7-a813-48fc-bf6c-c8f63edbc35b#ref=rss)
+* [https://www.spiegel.de/ausland/israel-und-gaza-itamar-ben-gvir-verlaesst-wegen-hamas-deal-die-regierung-von-benjamin-netanyahu](https://www.spiegel.de/ausland/israel-und-gaza-itamar-ben-gvir-verlaesst-wegen-hamas-deal-die-regierung-von-benjamin-netanyahu-a-8379a49f-61db-436b-aa3b-c7c1a0ad8778#ref=rss)
+### hamas
 
-* [https://www.spiegel.de/sport/wintersport/ski-abfahrt-in-wengen-schweizer-franjo-von-allmen-ist-nur-von-teamkollege-marco-odermatt-zu-schlagen](https://www.spiegel.de/sport/wintersport/ski-abfahrt-in-wengen-schweizer-franjo-von-allmen-ist-nur-von-teamkollege-marco-odermatt-zu-schlagen-a-30539647-fe5f-4614-b583-23482d792a1a#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-marco-odermatt-gewinnt-die-abfahrt-in-wenge-zwei-fahrer-stuerzen-schwer](https://www.spiegel.de/sport/wintersport/ski-alpin-marco-odermatt-gewinnt-die-abfahrt-in-wenge-zwei-fahrer-stuerzen-schwer-a-b01fe7f0-ec41-463b-a9da-d4e9ec6ff786#ref=rss)
-### nächste
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-im-liveblog-die-waffenruhe-ist-in-kraft-erste-geiseln-sollen-am-nachmittag-freikommen](https://www.spiegel.de/ausland/israel-gaza-krieg-im-liveblog-die-waffenruhe-ist-in-kraft-erste-geiseln-sollen-am-nachmittag-freikommen-a-aed51866-d057-48c5-a6ae-a5c8f801e40b#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-jetzt-ruhen-die-waffen-in-gaza](https://www.spiegel.de/ausland/israel-gaza-krieg-jetzt-ruhen-die-waffen-in-gaza-a-429d9ae7-a813-48fc-bf6c-c8f63edbc35b#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-und-israel-hamas-verweigert-kurz-vor-geplanter-waffenruhe-zugesagte-liste-ueber-geiseln](https://www.spiegel.de/ausland/gaza-und-israel-hamas-verweigert-kurz-vor-geplanter-waffenruhe-zugesagte-liste-ueber-geiseln-a-db30f526-8649-4634-a2e5-b2ee7531c22d#ref=rss)
+### tiktok
 
-* [https://www.spiegel.de/sport/wintersport/ski-abfahrt-in-wengen-schweizer-franjo-von-allmen-ist-nur-von-teamkollege-marco-odermatt-zu-schlagen](https://www.spiegel.de/sport/wintersport/ski-abfahrt-in-wengen-schweizer-franjo-von-allmen-ist-nur-von-teamkollege-marco-odermatt-zu-schlagen-a-30539647-fe5f-4614-b583-23482d792a1a#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/biathlon-franziska-preuss-fuehrt-frauen-staffel-zum-zweiten-saisonsieg-in-folge](https://www.spiegel.de/sport/wintersport/biathlon-franziska-preuss-fuehrt-frauen-staffel-zum-zweiten-saisonsieg-in-folge-a-25341c79-bcf7-4aa7-ab3b-20f7b0d96582#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bdi-praesident-peter-leibinger-ueber-die-afd-die-auslaenderfeindlichkeit-ist-schlicht-dumm](https://www.spiegel.de/wirtschaft/bdi-praesident-peter-leibinger-ueber-die-afd-die-auslaenderfeindlichkeit-ist-schlicht-dumm-a-60d23ea4-aec4-425d-8404-060d6d70d6ed#ref=rss)
-### sieg
-
-* [https://www.spiegel.de/sport/wintersport/biathlon-franziska-preuss-fuehrt-frauen-staffel-zum-zweiten-saisonsieg-in-folge](https://www.spiegel.de/sport/wintersport/biathlon-franziska-preuss-fuehrt-frauen-staffel-zum-zweiten-saisonsieg-in-folge-a-25341c79-bcf7-4aa7-ab3b-20f7b0d96582#ref=rss)
-* [https://www.spiegel.de/geschichte/europas-rechtspopulisten-marine-le-pen-giorgia-meloni-geert-wilders-eine-schrecklich-rechte-familie](https://www.spiegel.de/geschichte/europas-rechtspopulisten-marine-le-pen-giorgia-meloni-geert-wilders-eine-schrecklich-rechte-familie-a-49766962-238d-425b-9510-2fa60c9336a8#ref=rss)
-### mann
-
-* [https://www.spiegel.de/wirtschaft/bdi-praesident-peter-leibinger-ueber-die-afd-die-auslaenderfeindlichkeit-ist-schlicht-dumm](https://www.spiegel.de/wirtschaft/bdi-praesident-peter-leibinger-ueber-die-afd-die-auslaenderfeindlichkeit-ist-schlicht-dumm-a-60d23ea4-aec4-425d-8404-060d6d70d6ed#ref=rss)
-* [https://www.spiegel.de/panorama/bayern-mann-klammert-sich-bei-282-kilometer-pro-stunde-aussen-an-ice-fest](https://www.spiegel.de/panorama/bayern-mann-klammert-sich-bei-282-kilometer-pro-stunde-aussen-an-ice-fest-a-c0e31988-e170-495c-9e86-813eea2a5b95#ref=rss)
-### krishnan
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-berater-sriram-krishnan-das-indischstaemmige-paar-das-steve-bannon-auf-die-palme-bringt](https://www.spiegel.de/wirtschaft/donald-trump-berater-sriram-krishnan-das-indischstaemmige-paar-das-steve-bannon-auf-die-palme-bringt-a-63bc1191-2d51-47a1-8519-324201f11b29#ref=rss)
-### patientenverfügung
-
-* [https://www.spiegel.de/gesundheit/patientenverfuegung-medizinrechtler-erklaert-wie-sie-formuliert-sein-sollte](https://www.spiegel.de/gesundheit/patientenverfuegung-medizinrechtler-erklaert-wie-sie-formuliert-sein-sollte-a-8eb0feed-98d2-4884-93a5-76d42e238e80#ref=rss)
-### formuliert
-
-* [https://www.spiegel.de/gesundheit/patientenverfuegung-medizinrechtler-erklaert-wie-sie-formuliert-sein-sollte](https://www.spiegel.de/gesundheit/patientenverfuegung-medizinrechtler-erklaert-wie-sie-formuliert-sein-sollte-a-8eb0feed-98d2-4884-93a5-76d42e238e80#ref=rss)
-### sollte
-
-* [https://www.spiegel.de/gesundheit/patientenverfuegung-medizinrechtler-erklaert-wie-sie-formuliert-sein-sollte](https://www.spiegel.de/gesundheit/patientenverfuegung-medizinrechtler-erklaert-wie-sie-formuliert-sein-sollte-a-8eb0feed-98d2-4884-93a5-76d42e238e80#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/gesundheit/patientenverfuegung-medizinrechtler-erklaert-wie-sie-formuliert-sein-sollte](https://www.spiegel.de/gesundheit/patientenverfuegung-medizinrechtler-erklaert-wie-sie-formuliert-sein-sollte-a-8eb0feed-98d2-4884-93a5-76d42e238e80#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/kuenstliche-intelligenz-markus-soeder-warnt-mit-taeuschend-echtem-bild-vor-ki-fakes-auf-instagram](https://www.spiegel.de/netzwelt/web/kuenstliche-intelligenz-markus-soeder-warnt-mit-taeuschend-echtem-bild-vor-ki-fakes-auf-instagram-a-f6ad9dfb-637f-4493-b707-4a3f13d91fde#ref=rss)
-### entscheiden
-
-* [https://www.spiegel.de/gesundheit/patientenverfuegung-medizinrechtler-erklaert-wie-sie-formuliert-sein-sollte](https://www.spiegel.de/gesundheit/patientenverfuegung-medizinrechtler-erklaert-wie-sie-formuliert-sein-sollte-a-8eb0feed-98d2-4884-93a5-76d42e238e80#ref=rss)
-* [https://www.spiegel.de/ausland/suedkoreas-entmachteter-praesident-yoon-erstmals-vor-gericht-erschienen](https://www.spiegel.de/ausland/suedkoreas-entmachteter-praesident-yoon-erstmals-vor-gericht-erschienen-a-27a6cd81-cecf-4c22-9921-bba4a107752e#ref=rss)
-### lange
-
-* [https://www.spiegel.de/gesundheit/patientenverfuegung-medizinrechtler-erklaert-wie-sie-formuliert-sein-sollte](https://www.spiegel.de/gesundheit/patientenverfuegung-medizinrechtler-erklaert-wie-sie-formuliert-sein-sollte-a-8eb0feed-98d2-4884-93a5-76d42e238e80#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/kuenstliche-intelligenz-markus-soeder-warnt-mit-taeuschend-echtem-bild-vor-ki-fakes-auf-instagram](https://www.spiegel.de/netzwelt/web/kuenstliche-intelligenz-markus-soeder-warnt-mit-taeuschend-echtem-bild-vor-ki-fakes-auf-instagram-a-f6ad9dfb-637f-4493-b707-4a3f13d91fde#ref=rss)
-### einsatz
-
-* [https://www.spiegel.de/panorama/justiz/bremen-polizeieinsatz-am-hauptbahnhof-begleitung-der-taskforce-im-einsatz-spiegel-tv](https://www.spiegel.de/panorama/justiz/bremen-polizeieinsatz-am-hauptbahnhof-begleitung-der-taskforce-im-einsatz-spiegel-tv-a-22039d51-dd76-4de9-a99f-d2ca82716e96#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-marco-odermatt-gewinnt-die-abfahrt-in-wenge-zwei-fahrer-stuerzen-schwer](https://www.spiegel.de/sport/wintersport/ski-alpin-marco-odermatt-gewinnt-die-abfahrt-in-wenge-zwei-fahrer-stuerzen-schwer-a-b01fe7f0-ec41-463b-a9da-d4e9ec6ff786#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/panorama/justiz/bremen-polizeieinsatz-am-hauptbahnhof-begleitung-der-taskforce-im-einsatz-spiegel-tv](https://www.spiegel.de/panorama/justiz/bremen-polizeieinsatz-am-hauptbahnhof-begleitung-der-taskforce-im-einsatz-spiegel-tv-a-22039d51-dd76-4de9-a99f-d2ca82716e96#ref=rss)
-* [https://www.spiegel.de/ausland/israel-hamas-deal-33-gaza-geiseln-sollen-gegen-rund-1900-palaestinenser-ausgetauscht-werden](https://www.spiegel.de/ausland/israel-hamas-deal-33-gaza-geiseln-sollen-gegen-rund-1900-palaestinenser-ausgetauscht-werden-a-110aac51-9ab8-409e-8db1-0173e575faaf#ref=rss)
-### 2
-
-* [https://www.spiegel.de/kultur/severance-staffel-2-die-vielleicht-interessanteste-serie-der-gegenwart](https://www.spiegel.de/kultur/severance-staffel-2-die-vielleicht-interessanteste-serie-der-gegenwart-a-26bc6320-8efe-494a-9959-160f7b89e187#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-spielt-bei-eintracht-braunschweig-nur-remis-1-fc-kaiserslautern-dreht-partie-gegen-ssv-ulm](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-spielt-bei-eintracht-braunschweig-nur-remis-1-fc-kaiserslautern-dreht-partie-gegen-ssv-ulm-a-3a18a12c-d221-42cb-9201-1247efd2511f#ref=rss)
-### serie
-
-* [https://www.spiegel.de/kultur/severance-staffel-2-die-vielleicht-interessanteste-serie-der-gegenwart](https://www.spiegel.de/kultur/severance-staffel-2-die-vielleicht-interessanteste-serie-der-gegenwart-a-26bc6320-8efe-494a-9959-160f7b89e187#ref=rss)
+* [https://www.spiegel.de/sport/tennis/australian-open-coco-gauff-steht-im-viertelfinale-und-trauert-um-tiktok](https://www.spiegel.de/sport/tennis/australian-open-coco-gauff-steht-im-viertelfinale-und-trauert-um-tiktok-a-8fdd675b-8867-43d2-b004-735b9b450910#ref=rss)
+* [https://www.spiegel.de/netzwelt/tiktok-ist-in-den-usa-abgeschaltet-worden](https://www.spiegel.de/netzwelt/tiktok-ist-in-den-usa-abgeschaltet-worden-a-97b86199-fd66-4c79-a3c3-ba33d81480b4#ref=rss)
 ### ich
 
-* [https://www.spiegel.de/kultur/severance-staffel-2-die-vielleicht-interessanteste-serie-der-gegenwart](https://www.spiegel.de/kultur/severance-staffel-2-die-vielleicht-interessanteste-serie-der-gegenwart-a-26bc6320-8efe-494a-9959-160f7b89e187#ref=rss)
-* [https://www.spiegel.de/familie/gewaltfreie-kommunikation-mit-kindern-strategien-fuer-bessere-gespraeche](https://www.spiegel.de/familie/gewaltfreie-kommunikation-mit-kindern-strategien-fuer-bessere-gespraeche-a-7d95134d-e0de-49cc-ae9a-90d27569b6d4#ref=rss)
-### besser
+* [https://www.spiegel.de/sport/tennis/australian-open-coco-gauff-steht-im-viertelfinale-und-trauert-um-tiktok](https://www.spiegel.de/sport/tennis/australian-open-coco-gauff-steht-im-viertelfinale-und-trauert-um-tiktok-a-8fdd675b-8867-43d2-b004-735b9b450910#ref=rss)
+* [https://www.spiegel.de/auto/autopanne-in-der-betriebsruhe-auf-der-letzten-felge-in-die-zukunft](https://www.spiegel.de/auto/autopanne-in-der-betriebsruhe-auf-der-letzten-felge-in-die-zukunft-a-f85d48f3-939d-4da7-a73e-3f0c1d0096b5#ref=rss)
+* [https://www.spiegel.de/kultur/usa-mein-freund-ted-waehlt-donald-trump-und-wir-sind-trotzdem-freunde](https://www.spiegel.de/kultur/usa-mein-freund-ted-waehlt-donald-trump-und-wir-sind-trotzdem-freunde-a-160e5294-38f9-4521-b194-6c95182741e1#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/kultur/severance-staffel-2-die-vielleicht-interessanteste-serie-der-gegenwart](https://www.spiegel.de/kultur/severance-staffel-2-die-vielleicht-interessanteste-serie-der-gegenwart-a-26bc6320-8efe-494a-9959-160f7b89e187#ref=rss)
-* [https://www.spiegel.de/familie/gewaltfreie-kommunikation-mit-kindern-strategien-fuer-bessere-gespraeche](https://www.spiegel.de/familie/gewaltfreie-kommunikation-mit-kindern-strategien-fuer-bessere-gespraeche-a-7d95134d-e0de-49cc-ae9a-90d27569b6d4#ref=rss)
-### gegenteil
+* [https://www.spiegel.de/panorama/gesellschaft/aachen-demonstrierende-blockieren-rechtsextremen-aufmarsch](https://www.spiegel.de/panorama/gesellschaft/aachen-demonstrierende-blockieren-rechtsextremen-aufmarsch-a-fd0d95ed-71ab-4766-9cda-32bcdc6aebc9#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/chemnitz-rechtsextreme-demo-und-gegenproteste-zum-start-der-kulturhauptstadt](https://www.spiegel.de/panorama/gesellschaft/chemnitz-rechtsextreme-demo-und-gegenproteste-zum-start-der-kulturhauptstadt-a-42fc450f-c362-43a9-be01-0d86f6a6a9fd#ref=rss)
+* [https://www.spiegel.de/ausland/wie-tamilen-in-singapur-leben-ein-liebesbrief-an-die-community](https://www.spiegel.de/ausland/wie-tamilen-in-singapur-leben-ein-liebesbrief-an-die-community-a-d1897016-5574-4b62-9912-8bcc9f904c6a#ref=rss)
+* [https://www.spiegel.de/ausland/sued-korea-praesidentenunterstuetzer-randalieren-in-gericht-in-seoul](https://www.spiegel.de/ausland/sued-korea-praesidentenunterstuetzer-randalieren-in-gericht-in-seoul-a-a4dc6c80-3c93-4b12-90c4-73a531885797#ref=rss)
+### bayern
 
-* [https://www.spiegel.de/kultur/severance-staffel-2-die-vielleicht-interessanteste-serie-der-gegenwart](https://www.spiegel.de/kultur/severance-staffel-2-die-vielleicht-interessanteste-serie-der-gegenwart-a-26bc6320-8efe-494a-9959-160f7b89e187#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/schulnoten-und-migration-keine-systematische-diskriminierung](https://www.spiegel.de/panorama/bildung/schulnoten-und-migration-keine-systematische-diskriminierung-a-82de636e-039f-41f5-af7b-703fc33b2497#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/israel-hamas-deal-33-gaza-geiseln-sollen-gegen-rund-1900-palaestinenser-ausgetauscht-werden](https://www.spiegel.de/ausland/israel-hamas-deal-33-gaza-geiseln-sollen-gegen-rund-1900-palaestinenser-ausgetauscht-werden-a-110aac51-9ab8-409e-8db1-0173e575faaf#ref=rss)
-### darunter
-
-* [https://www.spiegel.de/ausland/israel-hamas-deal-33-gaza-geiseln-sollen-gegen-rund-1900-palaestinenser-ausgetauscht-werden](https://www.spiegel.de/ausland/israel-hamas-deal-33-gaza-geiseln-sollen-gegen-rund-1900-palaestinenser-ausgetauscht-werden-a-110aac51-9ab8-409e-8db1-0173e575faaf#ref=rss)
-* [https://www.spiegel.de/panorama/spanien-mehr-als-30-verletzte-bei-skilift-unfall-in-astun](https://www.spiegel.de/panorama/spanien-mehr-als-30-verletzte-bei-skilift-unfall-in-astun-a-7ee6810c-14a6-4bd9-8025-2df87307635b#ref=rss)
-### markus
-
-* [https://www.spiegel.de/netzwelt/web/kuenstliche-intelligenz-markus-soeder-warnt-mit-taeuschend-echtem-bild-vor-ki-fakes-auf-instagram](https://www.spiegel.de/netzwelt/web/kuenstliche-intelligenz-markus-soeder-warnt-mit-taeuschend-echtem-bild-vor-ki-fakes-auf-instagram-a-f6ad9dfb-637f-4493-b707-4a3f13d91fde#ref=rss)
-### täuschend
-
-* [https://www.spiegel.de/netzwelt/web/kuenstliche-intelligenz-markus-soeder-warnt-mit-taeuschend-echtem-bild-vor-ki-fakes-auf-instagram](https://www.spiegel.de/netzwelt/web/kuenstliche-intelligenz-markus-soeder-warnt-mit-taeuschend-echtem-bild-vor-ki-fakes-auf-instagram-a-f6ad9dfb-637f-4493-b707-4a3f13d91fde#ref=rss)
-### bild
-
-* [https://www.spiegel.de/netzwelt/web/kuenstliche-intelligenz-markus-soeder-warnt-mit-taeuschend-echtem-bild-vor-ki-fakes-auf-instagram](https://www.spiegel.de/netzwelt/web/kuenstliche-intelligenz-markus-soeder-warnt-mit-taeuschend-echtem-bild-vor-ki-fakes-auf-instagram-a-f6ad9dfb-637f-4493-b707-4a3f13d91fde#ref=rss)
-### instagram
-
-* [https://www.spiegel.de/netzwelt/web/kuenstliche-intelligenz-markus-soeder-warnt-mit-taeuschend-echtem-bild-vor-ki-fakes-auf-instagram](https://www.spiegel.de/netzwelt/web/kuenstliche-intelligenz-markus-soeder-warnt-mit-taeuschend-echtem-bild-vor-ki-fakes-auf-instagram-a-f6ad9dfb-637f-4493-b707-4a3f13d91fde#ref=rss)
-### linke
-
-* [https://www.spiegel.de/politik/deutschland/die-linke-im-wahlkampf-neue-einheit-auf-dem-parteitag](https://www.spiegel.de/politik/deutschland/die-linke-im-wahlkampf-neue-einheit-auf-dem-parteitag-a-06d71e82-d2ee-42ed-973d-61b75b54c8b4#ref=rss)
-### wahlkampf
-
-* [https://www.spiegel.de/politik/deutschland/die-linke-im-wahlkampf-neue-einheit-auf-dem-parteitag](https://www.spiegel.de/politik/deutschland/die-linke-im-wahlkampf-neue-einheit-auf-dem-parteitag-a-06d71e82-d2ee-42ed-973d-61b75b54c8b4#ref=rss)
-### neue
-
-* [https://www.spiegel.de/politik/deutschland/die-linke-im-wahlkampf-neue-einheit-auf-dem-parteitag](https://www.spiegel.de/politik/deutschland/die-linke-im-wahlkampf-neue-einheit-auf-dem-parteitag-a-06d71e82-d2ee-42ed-973d-61b75b54c8b4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bdi-praesident-peter-leibinger-ueber-die-afd-die-auslaenderfeindlichkeit-ist-schlicht-dumm](https://www.spiegel.de/wirtschaft/bdi-praesident-peter-leibinger-ueber-die-afd-die-auslaenderfeindlichkeit-ist-schlicht-dumm-a-60d23ea4-aec4-425d-8404-060d6d70d6ed#ref=rss)
-### parteitag
-
-* [https://www.spiegel.de/politik/deutschland/die-linke-im-wahlkampf-neue-einheit-auf-dem-parteitag](https://www.spiegel.de/politik/deutschland/die-linke-im-wahlkampf-neue-einheit-auf-dem-parteitag-a-06d71e82-d2ee-42ed-973d-61b75b54c8b4#ref=rss)
-### rb
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-braucht-die-tipps-von-juergen-klopp-schneller-denn-je](https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-braucht-die-tipps-von-juergen-klopp-schneller-denn-je-a-8791bc2f-365b-400b-9a98-ef66a62f69b8#ref=rss)
-### leipzig
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-braucht-die-tipps-von-juergen-klopp-schneller-denn-je](https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-braucht-die-tipps-von-juergen-klopp-schneller-denn-je-a-8791bc2f-365b-400b-9a98-ef66a62f69b8#ref=rss)
-### schneller
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-braucht-die-tipps-von-juergen-klopp-schneller-denn-je](https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-braucht-die-tipps-von-juergen-klopp-schneller-denn-je-a-8791bc2f-365b-400b-9a98-ef66a62f69b8#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/ski-abfahrt-in-wengen-schweizer-franjo-von-allmen-ist-nur-von-teamkollege-marco-odermatt-zu-schlagen](https://www.spiegel.de/sport/wintersport/ski-abfahrt-in-wengen-schweizer-franjo-von-allmen-ist-nur-von-teamkollege-marco-odermatt-zu-schlagen-a-30539647-fe5f-4614-b583-23482d792a1a#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-braucht-die-tipps-von-juergen-klopp-schneller-denn-je](https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-braucht-die-tipps-von-juergen-klopp-schneller-denn-je-a-8791bc2f-365b-400b-9a98-ef66a62f69b8#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-spielt-bei-eintracht-braunschweig-nur-remis-1-fc-kaiserslautern-dreht-partie-gegen-ssv-ulm](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-spielt-bei-eintracht-braunschweig-nur-remis-1-fc-kaiserslautern-dreht-partie-gegen-ssv-ulm-a-3a18a12c-d221-42cb-9201-1247efd2511f#ref=rss)
-### kämpft
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-braucht-die-tipps-von-juergen-klopp-schneller-denn-je](https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-braucht-die-tipps-von-juergen-klopp-schneller-denn-je-a-8791bc2f-365b-400b-9a98-ef66a62f69b8#ref=rss)
-* [https://www.spiegel.de/sport/tennis/australian-open-eva-lys-steht-im-achtelfinale-es-ist-die-beste-woche-ihres-lebens](https://www.spiegel.de/sport/tennis/australian-open-eva-lys-steht-im-achtelfinale-es-ist-die-beste-woche-ihres-lebens-a-74069020-2baa-44f9-b386-fb653bc84f47#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-braucht-die-tipps-von-juergen-klopp-schneller-denn-je](https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-braucht-die-tipps-von-juergen-klopp-schneller-denn-je-a-8791bc2f-365b-400b-9a98-ef66a62f69b8#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-spielt-bei-eintracht-braunschweig-nur-remis-1-fc-kaiserslautern-dreht-partie-gegen-ssv-ulm](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-spielt-bei-eintracht-braunschweig-nur-remis-1-fc-kaiserslautern-dreht-partie-gegen-ssv-ulm-a-3a18a12c-d221-42cb-9201-1247efd2511f#ref=rss)
-### wengen
-
-* [https://www.spiegel.de/sport/wintersport/ski-abfahrt-in-wengen-schweizer-franjo-von-allmen-ist-nur-von-teamkollege-marco-odermatt-zu-schlagen](https://www.spiegel.de/sport/wintersport/ski-abfahrt-in-wengen-schweizer-franjo-von-allmen-ist-nur-von-teamkollege-marco-odermatt-zu-schlagen-a-30539647-fe5f-4614-b583-23482d792a1a#ref=rss)
-### schweizer
-
-* [https://www.spiegel.de/sport/wintersport/ski-abfahrt-in-wengen-schweizer-franjo-von-allmen-ist-nur-von-teamkollege-marco-odermatt-zu-schlagen](https://www.spiegel.de/sport/wintersport/ski-abfahrt-in-wengen-schweizer-franjo-von-allmen-ist-nur-von-teamkollege-marco-odermatt-zu-schlagen-a-30539647-fe5f-4614-b583-23482d792a1a#ref=rss)
-### franjo
-
-* [https://www.spiegel.de/sport/wintersport/ski-abfahrt-in-wengen-schweizer-franjo-von-allmen-ist-nur-von-teamkollege-marco-odermatt-zu-schlagen](https://www.spiegel.de/sport/wintersport/ski-abfahrt-in-wengen-schweizer-franjo-von-allmen-ist-nur-von-teamkollege-marco-odermatt-zu-schlagen-a-30539647-fe5f-4614-b583-23482d792a1a#ref=rss)
-### allmen
-
-* [https://www.spiegel.de/sport/wintersport/ski-abfahrt-in-wengen-schweizer-franjo-von-allmen-ist-nur-von-teamkollege-marco-odermatt-zu-schlagen](https://www.spiegel.de/sport/wintersport/ski-abfahrt-in-wengen-schweizer-franjo-von-allmen-ist-nur-von-teamkollege-marco-odermatt-zu-schlagen-a-30539647-fe5f-4614-b583-23482d792a1a#ref=rss)
-### gilt
-
-* [https://www.spiegel.de/sport/wintersport/ski-abfahrt-in-wengen-schweizer-franjo-von-allmen-ist-nur-von-teamkollege-marco-odermatt-zu-schlagen](https://www.spiegel.de/sport/wintersport/ski-abfahrt-in-wengen-schweizer-franjo-von-allmen-ist-nur-von-teamkollege-marco-odermatt-zu-schlagen-a-30539647-fe5f-4614-b583-23482d792a1a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bdi-praesident-peter-leibinger-ueber-die-afd-die-auslaenderfeindlichkeit-ist-schlicht-dumm](https://www.spiegel.de/wirtschaft/bdi-praesident-peter-leibinger-ueber-die-afd-die-auslaenderfeindlichkeit-ist-schlicht-dumm-a-60d23ea4-aec4-425d-8404-060d6d70d6ed#ref=rss)
-### eigentlich
-
-* [https://www.spiegel.de/sport/wintersport/ski-abfahrt-in-wengen-schweizer-franjo-von-allmen-ist-nur-von-teamkollege-marco-odermatt-zu-schlagen](https://www.spiegel.de/sport/wintersport/ski-abfahrt-in-wengen-schweizer-franjo-von-allmen-ist-nur-von-teamkollege-marco-odermatt-zu-schlagen-a-30539647-fe5f-4614-b583-23482d792a1a#ref=rss)
-* [https://www.spiegel.de/panorama/bayern-mann-klammert-sich-bei-282-kilometer-pro-stunde-aussen-an-ice-fest](https://www.spiegel.de/panorama/bayern-mann-klammert-sich-bei-282-kilometer-pro-stunde-aussen-an-ice-fest-a-c0e31988-e170-495c-9e86-813eea2a5b95#ref=rss)
-### franziska
-
-* [https://www.spiegel.de/sport/wintersport/biathlon-franziska-preuss-fuehrt-frauen-staffel-zum-zweiten-saisonsieg-in-folge](https://www.spiegel.de/sport/wintersport/biathlon-franziska-preuss-fuehrt-frauen-staffel-zum-zweiten-saisonsieg-in-folge-a-25341c79-bcf7-4aa7-ab3b-20f7b0d96582#ref=rss)
-### preuß
-
-* [https://www.spiegel.de/sport/wintersport/biathlon-franziska-preuss-fuehrt-frauen-staffel-zum-zweiten-saisonsieg-in-folge](https://www.spiegel.de/sport/wintersport/biathlon-franziska-preuss-fuehrt-frauen-staffel-zum-zweiten-saisonsieg-in-folge-a-25341c79-bcf7-4aa7-ab3b-20f7b0d96582#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/sport/wintersport/biathlon-franziska-preuss-fuehrt-frauen-staffel-zum-zweiten-saisonsieg-in-folge](https://www.spiegel.de/sport/wintersport/biathlon-franziska-preuss-fuehrt-frauen-staffel-zum-zweiten-saisonsieg-in-folge-a-25341c79-bcf7-4aa7-ab3b-20f7b0d96582#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/schulnoten-und-migration-keine-systematische-diskriminierung](https://www.spiegel.de/panorama/bildung/schulnoten-und-migration-keine-systematische-diskriminierung-a-82de636e-039f-41f5-af7b-703fc33b2497#ref=rss)
-### sprang
-
-* [https://www.spiegel.de/sport/wintersport/biathlon-franziska-preuss-fuehrt-frauen-staffel-zum-zweiten-saisonsieg-in-folge](https://www.spiegel.de/sport/wintersport/biathlon-franziska-preuss-fuehrt-frauen-staffel-zum-zweiten-saisonsieg-in-folge-a-25341c79-bcf7-4aa7-ab3b-20f7b0d96582#ref=rss)
-* [https://www.spiegel.de/panorama/bayern-mann-klammert-sich-bei-282-kilometer-pro-stunde-aussen-an-ice-fest](https://www.spiegel.de/panorama/bayern-mann-klammert-sich-bei-282-kilometer-pro-stunde-aussen-an-ice-fest-a-c0e31988-e170-495c-9e86-813eea2a5b95#ref=rss)
-### le
-
-* [https://www.spiegel.de/geschichte/europas-rechtspopulisten-marine-le-pen-giorgia-meloni-geert-wilders-eine-schrecklich-rechte-familie](https://www.spiegel.de/geschichte/europas-rechtspopulisten-marine-le-pen-giorgia-meloni-geert-wilders-eine-schrecklich-rechte-familie-a-49766962-238d-425b-9510-2fa60c9336a8#ref=rss)
-### pen
-
-* [https://www.spiegel.de/geschichte/europas-rechtspopulisten-marine-le-pen-giorgia-meloni-geert-wilders-eine-schrecklich-rechte-familie](https://www.spiegel.de/geschichte/europas-rechtspopulisten-marine-le-pen-giorgia-meloni-geert-wilders-eine-schrecklich-rechte-familie-a-49766962-238d-425b-9510-2fa60c9336a8#ref=rss)
-### europas
-
-* [https://www.spiegel.de/geschichte/europas-rechtspopulisten-marine-le-pen-giorgia-meloni-geert-wilders-eine-schrecklich-rechte-familie](https://www.spiegel.de/geschichte/europas-rechtspopulisten-marine-le-pen-giorgia-meloni-geert-wilders-eine-schrecklich-rechte-familie-a-49766962-238d-425b-9510-2fa60c9336a8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-haelt-donald-trump-fuer-eine-chance-er-tut-was-er-sagt](https://www.spiegel.de/politik/deutschland/friedrich-merz-haelt-donald-trump-fuer-eine-chance-er-tut-was-er-sagt-a-08c5401e-48c0-402b-a862-77806e7b0e26#ref=rss)
-### spdgeneralsekretär
-
-* [https://www.spiegel.de/politik/deutschland/spd-generalsekretaer-matthias-miersch-eckt-mit-aussagen-zu-rente-und-ukraine-an](https://www.spiegel.de/politik/deutschland/spd-generalsekretaer-matthias-miersch-eckt-mit-aussagen-zu-rente-und-ukraine-an-a-936cbc71-daf6-4f5f-86b0-484ee8c32acc#ref=rss)
-### matthias
-
-* [https://www.spiegel.de/politik/deutschland/spd-generalsekretaer-matthias-miersch-eckt-mit-aussagen-zu-rente-und-ukraine-an](https://www.spiegel.de/politik/deutschland/spd-generalsekretaer-matthias-miersch-eckt-mit-aussagen-zu-rente-und-ukraine-an-a-936cbc71-daf6-4f5f-86b0-484ee8c32acc#ref=rss)
-### miersch
-
-* [https://www.spiegel.de/politik/deutschland/spd-generalsekretaer-matthias-miersch-eckt-mit-aussagen-zu-rente-und-ukraine-an](https://www.spiegel.de/politik/deutschland/spd-generalsekretaer-matthias-miersch-eckt-mit-aussagen-zu-rente-und-ukraine-an-a-936cbc71-daf6-4f5f-86b0-484ee8c32acc#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/politik/deutschland/spd-generalsekretaer-matthias-miersch-eckt-mit-aussagen-zu-rente-und-ukraine-an](https://www.spiegel.de/politik/deutschland/spd-generalsekretaer-matthias-miersch-eckt-mit-aussagen-zu-rente-und-ukraine-an-a-936cbc71-daf6-4f5f-86b0-484ee8c32acc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/union-setzt-im-wahlkampf-auf-sauerlaendische-weisswurst](https://www.spiegel.de/politik/deutschland/union-setzt-im-wahlkampf-auf-sauerlaendische-weisswurst-a-7c48d158-8891-4cb9-91e0-2d5b93ee75c6#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-leon-goretzka-sorgt-mit-doppelpack-fuer-sieg-gegen-den-vfl-wolfsburg](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-leon-goretzka-sorgt-mit-doppelpack-fuer-sieg-gegen-den-vfl-wolfsburg-a-4ca574e0-ec27-4ebb-a2dc-057d9e9b458c#ref=rss)
 ### wir
 
-* [https://www.spiegel.de/politik/deutschland/spd-generalsekretaer-matthias-miersch-eckt-mit-aussagen-zu-rente-und-ukraine-an](https://www.spiegel.de/politik/deutschland/spd-generalsekretaer-matthias-miersch-eckt-mit-aussagen-zu-rente-und-ukraine-an-a-936cbc71-daf6-4f5f-86b0-484ee8c32acc#ref=rss)
-### australian
+* [https://www.spiegel.de/kultur/kulturhauptstadt-chemnitz-wir-chemnitzer-sind-naemlich-gar-nicht-so-boese](https://www.spiegel.de/kultur/kulturhauptstadt-chemnitz-wir-chemnitzer-sind-naemlich-gar-nicht-so-boese-a-bba7f30b-dfec-40c3-9aee-2fc2a30ff7b0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-imperialismus-autoritarismus-egoismus-ab-morgen-leben-wir-in-der-trump-welt](https://www.spiegel.de/politik/deutschland/news-imperialismus-autoritarismus-egoismus-ab-morgen-leben-wir-in-der-trump-welt-a-c8fbe89e-c689-42f1-8757-8b87afe1e549#ref=rss)
+* [https://www.spiegel.de/kultur/usa-mein-freund-ted-waehlt-donald-trump-und-wir-sind-trotzdem-freunde](https://www.spiegel.de/kultur/usa-mein-freund-ted-waehlt-donald-trump-und-wir-sind-trotzdem-freunde-a-160e5294-38f9-4521-b194-6c95182741e1#ref=rss)
+### amtseinführung
 
-* [https://www.spiegel.de/sport/tennis/australian-open-eva-lys-steht-im-achtelfinale-es-ist-die-beste-woche-ihres-lebens](https://www.spiegel.de/sport/tennis/australian-open-eva-lys-steht-im-achtelfinale-es-ist-die-beste-woche-ihres-lebens-a-74069020-2baa-44f9-b386-fb653bc84f47#ref=rss)
-### open
+* [https://www.spiegel.de/politik/deutschland/usa-friedrich-merz-will-donald-trump-handgeschriebenen-brief-zur-amtseinfuehrung-zukommen-lassen](https://www.spiegel.de/politik/deutschland/usa-friedrich-merz-will-donald-trump-handgeschriebenen-brief-zur-amtseinfuehrung-zukommen-lassen-a-78c2a4aa-3e72-4ed8-bbeb-b4e425e6b0f4#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-und-politik-fifa-praesident-gianni-infantino-nimmt-an-donald-trumps-amtseinfuehrung-teil](https://www.spiegel.de/sport/fussball/fussball-und-politik-fifa-praesident-gianni-infantino-nimmt-an-donald-trumps-amtseinfuehrung-teil-a-9e9d3477-dfbb-4cf2-8956-4eabc4e4dda3#ref=rss)
+* [https://www.spiegel.de/ausland/usa-donald-trump-ist-am-tag-vor-der-amtseinfuehrung-in-washington-eingetroffen](https://www.spiegel.de/ausland/usa-donald-trump-ist-am-tag-vor-der-amtseinfuehrung-in-washington-eingetroffen-a-7998324d-f675-4806-a089-1e2e9fe3e8e5#ref=rss)
+### israelgazakrieg
 
-* [https://www.spiegel.de/sport/tennis/australian-open-eva-lys-steht-im-achtelfinale-es-ist-die-beste-woche-ihres-lebens](https://www.spiegel.de/sport/tennis/australian-open-eva-lys-steht-im-achtelfinale-es-ist-die-beste-woche-ihres-lebens-a-74069020-2baa-44f9-b386-fb653bc84f47#ref=rss)
-### eva
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-im-liveblog-die-waffenruhe-ist-in-kraft-erste-geiseln-sollen-am-nachmittag-freikommen](https://www.spiegel.de/ausland/israel-gaza-krieg-im-liveblog-die-waffenruhe-ist-in-kraft-erste-geiseln-sollen-am-nachmittag-freikommen-a-aed51866-d057-48c5-a6ae-a5c8f801e40b#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-jetzt-ruhen-die-waffen-in-gaza](https://www.spiegel.de/ausland/israel-gaza-krieg-jetzt-ruhen-die-waffen-in-gaza-a-429d9ae7-a813-48fc-bf6c-c8f63edbc35b#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-und-israel-hamas-verweigert-kurz-vor-geplanter-waffenruhe-zugesagte-liste-ueber-geiseln](https://www.spiegel.de/ausland/gaza-und-israel-hamas-verweigert-kurz-vor-geplanter-waffenruhe-zugesagte-liste-ueber-geiseln-a-db30f526-8649-4634-a2e5-b2ee7531c22d#ref=rss)
+### geiseln
 
-* [https://www.spiegel.de/sport/tennis/australian-open-eva-lys-steht-im-achtelfinale-es-ist-die-beste-woche-ihres-lebens](https://www.spiegel.de/sport/tennis/australian-open-eva-lys-steht-im-achtelfinale-es-ist-die-beste-woche-ihres-lebens-a-74069020-2baa-44f9-b386-fb653bc84f47#ref=rss)
-### lys
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-im-liveblog-die-waffenruhe-ist-in-kraft-erste-geiseln-sollen-am-nachmittag-freikommen](https://www.spiegel.de/ausland/israel-gaza-krieg-im-liveblog-die-waffenruhe-ist-in-kraft-erste-geiseln-sollen-am-nachmittag-freikommen-a-aed51866-d057-48c5-a6ae-a5c8f801e40b#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-jetzt-ruhen-die-waffen-in-gaza](https://www.spiegel.de/ausland/israel-gaza-krieg-jetzt-ruhen-die-waffen-in-gaza-a-429d9ae7-a813-48fc-bf6c-c8f63edbc35b#ref=rss)
+### nachmittag
 
-* [https://www.spiegel.de/sport/tennis/australian-open-eva-lys-steht-im-achtelfinale-es-ist-die-beste-woche-ihres-lebens](https://www.spiegel.de/sport/tennis/australian-open-eva-lys-steht-im-achtelfinale-es-ist-die-beste-woche-ihres-lebens-a-74069020-2baa-44f9-b386-fb653bc84f47#ref=rss)
-### achtelfinale
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-im-liveblog-die-waffenruhe-ist-in-kraft-erste-geiseln-sollen-am-nachmittag-freikommen](https://www.spiegel.de/ausland/israel-gaza-krieg-im-liveblog-die-waffenruhe-ist-in-kraft-erste-geiseln-sollen-am-nachmittag-freikommen-a-aed51866-d057-48c5-a6ae-a5c8f801e40b#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-jetzt-ruhen-die-waffen-in-gaza](https://www.spiegel.de/ausland/israel-gaza-krieg-jetzt-ruhen-die-waffen-in-gaza-a-429d9ae7-a813-48fc-bf6c-c8f63edbc35b#ref=rss)
+### drei
 
-* [https://www.spiegel.de/sport/tennis/australian-open-eva-lys-steht-im-achtelfinale-es-ist-die-beste-woche-ihres-lebens](https://www.spiegel.de/sport/tennis/australian-open-eva-lys-steht-im-achtelfinale-es-ist-die-beste-woche-ihres-lebens-a-74069020-2baa-44f9-b386-fb653bc84f47#ref=rss)
-### sylt
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-im-liveblog-die-waffenruhe-ist-in-kraft-erste-geiseln-sollen-am-nachmittag-freikommen](https://www.spiegel.de/ausland/israel-gaza-krieg-im-liveblog-die-waffenruhe-ist-in-kraft-erste-geiseln-sollen-am-nachmittag-freikommen-a-aed51866-d057-48c5-a6ae-a5c8f801e40b#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-und-israel-hamas-verweigert-kurz-vor-geplanter-waffenruhe-zugesagte-liste-ueber-geiseln](https://www.spiegel.de/ausland/gaza-und-israel-hamas-verweigert-kurz-vor-geplanter-waffenruhe-zugesagte-liste-ueber-geiseln-a-db30f526-8649-4634-a2e5-b2ee7531c22d#ref=rss)
+### warnt
 
-* [https://www.spiegel.de/panorama/sylt-250-kilogramm-kokain-am-strand-entdeckt-zoll-ratlos](https://www.spiegel.de/panorama/sylt-250-kilogramm-kokain-am-strand-entdeckt-zoll-ratlos-a-e9516d0e-c525-465b-a1d0-42756a8cbcb8#ref=rss)
-### strand
+* [https://www.spiegel.de/ausland/spionage-stella-rimington-kritisiert-britische-naivitaet-gegenueber-china](https://www.spiegel.de/ausland/spionage-stella-rimington-kritisiert-britische-naivitaet-gegenueber-china-a-eae1b60d-4279-4858-b5ba-6413e86ef7bb#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-droht-russlandunterstuetzern-mit-konsequenzen](https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-droht-russlandunterstuetzern-mit-konsequenzen-a-8bc2f878-5ebc-4519-b1e7-e7772ce47fb0#ref=rss)
+* [https://www.spiegel.de/ausland/usa-deutscher-botschafter-warnt-laut-interner-analyse-vor-trump](https://www.spiegel.de/ausland/usa-deutscher-botschafter-warnt-laut-interner-analyse-vor-trump-a-050e94a8-a890-4e15-aded-44885054c0a0#ref=rss)
+### viertelfinale
 
-* [https://www.spiegel.de/panorama/sylt-250-kilogramm-kokain-am-strand-entdeckt-zoll-ratlos](https://www.spiegel.de/panorama/sylt-250-kilogramm-kokain-am-strand-entdeckt-zoll-ratlos-a-e9516d0e-c525-465b-a1d0-42756a8cbcb8#ref=rss)
-### ford
+* [https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-steht-im-viertelfinale](https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-steht-im-viertelfinale-a-6bbf6e8c-6105-4617-af98-4c0f8d931051#ref=rss)
+* [https://www.spiegel.de/sport/tennis/australian-open-coco-gauff-steht-im-viertelfinale-und-trauert-um-tiktok](https://www.spiegel.de/sport/tennis/australian-open-coco-gauff-steht-im-viertelfinale-und-trauert-um-tiktok-a-8fdd675b-8867-43d2-b004-735b9b450910#ref=rss)
+### israel
 
-* [https://www.spiegel.de/auto/fahrberichte/ford-explorer-im-test-elektro-suv-mit-innovativen-loesungen-und-volkswagen-genen](https://www.spiegel.de/auto/fahrberichte/ford-explorer-im-test-elektro-suv-mit-innovativen-loesungen-und-volkswagen-genen-a-64e363b2-1d37-4fc1-ad84-015684a6ec60#ref=rss)
-### explorer
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-jetzt-ruhen-die-waffen-in-gaza](https://www.spiegel.de/ausland/israel-gaza-krieg-jetzt-ruhen-die-waffen-in-gaza-a-429d9ae7-a813-48fc-bf6c-c8f63edbc35b#ref=rss)
+* [https://www.spiegel.de/ausland/israel-und-gaza-itamar-ben-gvir-verlaesst-wegen-hamas-deal-die-regierung-von-benjamin-netanyahu](https://www.spiegel.de/ausland/israel-und-gaza-itamar-ben-gvir-verlaesst-wegen-hamas-deal-die-regierung-von-benjamin-netanyahu-a-8379a49f-61db-436b-aa3b-c7c1a0ad8778#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-und-israel-hamas-verweigert-kurz-vor-geplanter-waffenruhe-zugesagte-liste-ueber-geiseln](https://www.spiegel.de/ausland/gaza-und-israel-hamas-verweigert-kurz-vor-geplanter-waffenruhe-zugesagte-liste-ueber-geiseln-a-db30f526-8649-4634-a2e5-b2ee7531c22d#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/auto/fahrberichte/ford-explorer-im-test-elektro-suv-mit-innovativen-loesungen-und-volkswagen-genen](https://www.spiegel.de/auto/fahrberichte/ford-explorer-im-test-elektro-suv-mit-innovativen-loesungen-und-volkswagen-genen-a-64e363b2-1d37-4fc1-ad84-015684a6ec60#ref=rss)
-### elektrosuv
+* [https://www.spiegel.de/sport/tennis/australian-open-coco-gauff-steht-im-viertelfinale-und-trauert-um-tiktok](https://www.spiegel.de/sport/tennis/australian-open-coco-gauff-steht-im-viertelfinale-und-trauert-um-tiktok-a-8fdd675b-8867-43d2-b004-735b9b450910#ref=rss)
+* [https://www.spiegel.de/ausland/sued-korea-praesidentenunterstuetzer-randalieren-in-gericht-in-seoul](https://www.spiegel.de/ausland/sued-korea-praesidentenunterstuetzer-randalieren-in-gericht-in-seoul-a-a4dc6c80-3c93-4b12-90c4-73a531885797#ref=rss)
+* [https://www.spiegel.de/ausland/konflikt-im-kongo-hin-und-wieder-ist-sogar-unklar-wer-wo-auf-wen-schiesst](https://www.spiegel.de/ausland/konflikt-im-kongo-hin-und-wieder-ist-sogar-unklar-wer-wo-auf-wen-schiesst-a-9f5685c5-95ec-43ce-9a2c-079c75d7aaa6#ref=rss)
+### präsident
 
-* [https://www.spiegel.de/auto/fahrberichte/ford-explorer-im-test-elektro-suv-mit-innovativen-loesungen-und-volkswagen-genen](https://www.spiegel.de/auto/fahrberichte/ford-explorer-im-test-elektro-suv-mit-innovativen-loesungen-und-volkswagen-genen-a-64e363b2-1d37-4fc1-ad84-015684a6ec60#ref=rss)
-### kindern
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-droht-russlandunterstuetzern-mit-konsequenzen](https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-droht-russlandunterstuetzern-mit-konsequenzen-a-8bc2f878-5ebc-4519-b1e7-e7772ce47fb0#ref=rss)
+* [https://www.spiegel.de/ausland/usa-donald-trump-ist-am-tag-vor-der-amtseinfuehrung-in-washington-eingetroffen](https://www.spiegel.de/ausland/usa-donald-trump-ist-am-tag-vor-der-amtseinfuehrung-in-washington-eingetroffen-a-7998324d-f675-4806-a089-1e2e9fe3e8e5#ref=rss)
+* [https://www.spiegel.de/ausland/machtwechsel-in-den-usa-das-wahre-gesicht-von-joe-biden](https://www.spiegel.de/ausland/machtwechsel-in-den-usa-das-wahre-gesicht-von-joe-biden-a-1ce476e4-6a4b-485c-86fa-bab9d7fc1d19#ref=rss)
+### union
 
-* [https://www.spiegel.de/panorama/bildung/schulnoten-und-migration-keine-systematische-diskriminierung](https://www.spiegel.de/panorama/bildung/schulnoten-und-migration-keine-systematische-diskriminierung-a-82de636e-039f-41f5-af7b-703fc33b2497#ref=rss)
-* [https://www.spiegel.de/familie/gewaltfreie-kommunikation-mit-kindern-strategien-fuer-bessere-gespraeche](https://www.spiegel.de/familie/gewaltfreie-kommunikation-mit-kindern-strategien-fuer-bessere-gespraeche-a-7d95134d-e0de-49cc-ae9a-90d27569b6d4#ref=rss)
-### migrationsgeschichte
+* [https://www.spiegel.de/politik/deutschland/union-setzt-im-wahlkampf-auf-sauerlaendische-weisswurst](https://www.spiegel.de/politik/deutschland/union-setzt-im-wahlkampf-auf-sauerlaendische-weisswurst-a-7c48d158-8891-4cb9-91e0-2d5b93ee75c6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/usa-friedrich-merz-will-donald-trump-handgeschriebenen-brief-zur-amtseinfuehrung-zukommen-lassen](https://www.spiegel.de/politik/deutschland/usa-friedrich-merz-will-donald-trump-handgeschriebenen-brief-zur-amtseinfuehrung-zukommen-lassen-a-78c2a4aa-3e72-4ed8-bbeb-b4e425e6b0f4#ref=rss)
+### weißwurst
 
-* [https://www.spiegel.de/panorama/bildung/schulnoten-und-migration-keine-systematische-diskriminierung](https://www.spiegel.de/panorama/bildung/schulnoten-und-migration-keine-systematische-diskriminierung-a-82de636e-039f-41f5-af7b-703fc33b2497#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-marco-odermatt-gewinnt-die-abfahrt-in-wenge-zwei-fahrer-stuerzen-schwer](https://www.spiegel.de/sport/wintersport/ski-alpin-marco-odermatt-gewinnt-die-abfahrt-in-wenge-zwei-fahrer-stuerzen-schwer-a-b01fe7f0-ec41-463b-a9da-d4e9ec6ff786#ref=rss)
-### kilometer
-
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-marco-odermatt-gewinnt-die-abfahrt-in-wenge-zwei-fahrer-stuerzen-schwer](https://www.spiegel.de/sport/wintersport/ski-alpin-marco-odermatt-gewinnt-die-abfahrt-in-wenge-zwei-fahrer-stuerzen-schwer-a-b01fe7f0-ec41-463b-a9da-d4e9ec6ff786#ref=rss)
-* [https://www.spiegel.de/panorama/bayern-mann-klammert-sich-bei-282-kilometer-pro-stunde-aussen-an-ice-fest](https://www.spiegel.de/panorama/bayern-mann-klammert-sich-bei-282-kilometer-pro-stunde-aussen-an-ice-fest-a-c0e31988-e170-495c-9e86-813eea2a5b95#ref=rss)
-### pro
-
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-marco-odermatt-gewinnt-die-abfahrt-in-wenge-zwei-fahrer-stuerzen-schwer](https://www.spiegel.de/sport/wintersport/ski-alpin-marco-odermatt-gewinnt-die-abfahrt-in-wenge-zwei-fahrer-stuerzen-schwer-a-b01fe7f0-ec41-463b-a9da-d4e9ec6ff786#ref=rss)
-* [https://www.spiegel.de/panorama/bayern-mann-klammert-sich-bei-282-kilometer-pro-stunde-aussen-an-ice-fest](https://www.spiegel.de/panorama/bayern-mann-klammert-sich-bei-282-kilometer-pro-stunde-aussen-an-ice-fest-a-c0e31988-e170-495c-9e86-813eea2a5b95#ref=rss)
-### stunde
-
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-marco-odermatt-gewinnt-die-abfahrt-in-wenge-zwei-fahrer-stuerzen-schwer](https://www.spiegel.de/sport/wintersport/ski-alpin-marco-odermatt-gewinnt-die-abfahrt-in-wenge-zwei-fahrer-stuerzen-schwer-a-b01fe7f0-ec41-463b-a9da-d4e9ec6ff786#ref=rss)
-* [https://www.spiegel.de/panorama/bayern-mann-klammert-sich-bei-282-kilometer-pro-stunde-aussen-an-ice-fest](https://www.spiegel.de/panorama/bayern-mann-klammert-sich-bei-282-kilometer-pro-stunde-aussen-an-ice-fest-a-c0e31988-e170-495c-9e86-813eea2a5b95#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/union-setzt-im-wahlkampf-auf-sauerlaendische-weisswurst](https://www.spiegel.de/politik/deutschland/union-setzt-im-wahlkampf-auf-sauerlaendische-weisswurst-a-7c48d158-8891-4cb9-91e0-2d5b93ee75c6#ref=rss)
 ### friedrich
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-haelt-donald-trump-fuer-eine-chance-er-tut-was-er-sagt](https://www.spiegel.de/politik/deutschland/friedrich-merz-haelt-donald-trump-fuer-eine-chance-er-tut-was-er-sagt-a-08c5401e-48c0-402b-a862-77806e7b0e26#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/union-setzt-im-wahlkampf-auf-sauerlaendische-weisswurst](https://www.spiegel.de/politik/deutschland/union-setzt-im-wahlkampf-auf-sauerlaendische-weisswurst-a-7c48d158-8891-4cb9-91e0-2d5b93ee75c6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/usa-friedrich-merz-will-donald-trump-handgeschriebenen-brief-zur-amtseinfuehrung-zukommen-lassen](https://www.spiegel.de/politik/deutschland/usa-friedrich-merz-will-donald-trump-handgeschriebenen-brief-zur-amtseinfuehrung-zukommen-lassen-a-78c2a4aa-3e72-4ed8-bbeb-b4e425e6b0f4#ref=rss)
 ### merz
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-haelt-donald-trump-fuer-eine-chance-er-tut-was-er-sagt](https://www.spiegel.de/politik/deutschland/friedrich-merz-haelt-donald-trump-fuer-eine-chance-er-tut-was-er-sagt-a-08c5401e-48c0-402b-a862-77806e7b0e26#ref=rss)
-### chance
+* [https://www.spiegel.de/politik/deutschland/union-setzt-im-wahlkampf-auf-sauerlaendische-weisswurst](https://www.spiegel.de/politik/deutschland/union-setzt-im-wahlkampf-auf-sauerlaendische-weisswurst-a-7c48d158-8891-4cb9-91e0-2d5b93ee75c6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/usa-friedrich-merz-will-donald-trump-handgeschriebenen-brief-zur-amtseinfuehrung-zukommen-lassen](https://www.spiegel.de/politik/deutschland/usa-friedrich-merz-will-donald-trump-handgeschriebenen-brief-zur-amtseinfuehrung-zukommen-lassen-a-78c2a4aa-3e72-4ed8-bbeb-b4e425e6b0f4#ref=rss)
+### verlief
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-haelt-donald-trump-fuer-eine-chance-er-tut-was-er-sagt](https://www.spiegel.de/politik/deutschland/friedrich-merz-haelt-donald-trump-fuer-eine-chance-er-tut-was-er-sagt-a-08c5401e-48c0-402b-a862-77806e7b0e26#ref=rss)
-### plädiert
+* [https://www.spiegel.de/kultur/kulturhauptstadt-chemnitz-wir-chemnitzer-sind-naemlich-gar-nicht-so-boese](https://www.spiegel.de/kultur/kulturhauptstadt-chemnitz-wir-chemnitzer-sind-naemlich-gar-nicht-so-boese-a-bba7f30b-dfec-40c3-9aee-2fc2a30ff7b0#ref=rss)
+* [https://www.spiegel.de/sport/american-football/nfl-travis-kelce-dreht-auf-kansas-city-auf-dem-weg-zum-dritten-super-bowl-in-folge](https://www.spiegel.de/sport/american-football/nfl-travis-kelce-dreht-auf-kansas-city-auf-dem-weg-zum-dritten-super-bowl-in-folge-a-de27dee2-60a1-4059-a201-b5dc99440b31#ref=rss)
+### uspräsidenten
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-haelt-donald-trump-fuer-eine-chance-er-tut-was-er-sagt](https://www.spiegel.de/politik/deutschland/friedrich-merz-haelt-donald-trump-fuer-eine-chance-er-tut-was-er-sagt-a-08c5401e-48c0-402b-a862-77806e7b0e26#ref=rss)
-* [https://www.spiegel.de/ausland/mike-pence-will-an-donald-trumps-amtseinfuehrung-teilnehmen](https://www.spiegel.de/ausland/mike-pence-will-an-donald-trumps-amtseinfuehrung-teilnehmen-a-4e22e13f-e467-4795-9f7d-abaa96544621#ref=rss)
-### montecarlo
+* [https://www.spiegel.de/politik/deutschland/usa-friedrich-merz-will-donald-trump-handgeschriebenen-brief-zur-amtseinfuehrung-zukommen-lassen](https://www.spiegel.de/politik/deutschland/usa-friedrich-merz-will-donald-trump-handgeschriebenen-brief-zur-amtseinfuehrung-zukommen-lassen-a-78c2a4aa-3e72-4ed8-bbeb-b4e425e6b0f4#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-und-politik-fifa-praesident-gianni-infantino-nimmt-an-donald-trumps-amtseinfuehrung-teil](https://www.spiegel.de/sport/fussball/fussball-und-politik-fifa-praesident-gianni-infantino-nimmt-an-donald-trumps-amtseinfuehrung-teil-a-9e9d3477-dfbb-4cf2-8956-4eabc4e4dda3#ref=rss)
+### liveblog
 
-* [https://www.spiegel.de/karriere/internationales-zirkusfestival-in-monte-carlo-lea-toran-jenner-aus-ulm-tritt-mit-dem-cyr-rad-auf](https://www.spiegel.de/karriere/internationales-zirkusfestival-in-monte-carlo-lea-toran-jenner-aus-ulm-tritt-mit-dem-cyr-rad-auf-a-fd457cbd-27b1-458b-ad5a-676e4a3008b6#ref=rss)
-### lea
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-im-liveblog-die-waffenruhe-ist-in-kraft-erste-geiseln-sollen-am-nachmittag-freikommen](https://www.spiegel.de/ausland/israel-gaza-krieg-im-liveblog-die-waffenruhe-ist-in-kraft-erste-geiseln-sollen-am-nachmittag-freikommen-a-aed51866-d057-48c5-a6ae-a5c8f801e40b#ref=rss)
+### waffenruhe
 
-* [https://www.spiegel.de/karriere/internationales-zirkusfestival-in-monte-carlo-lea-toran-jenner-aus-ulm-tritt-mit-dem-cyr-rad-auf](https://www.spiegel.de/karriere/internationales-zirkusfestival-in-monte-carlo-lea-toran-jenner-aus-ulm-tritt-mit-dem-cyr-rad-auf-a-fd457cbd-27b1-458b-ad5a-676e4a3008b6#ref=rss)
-### toran
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-im-liveblog-die-waffenruhe-ist-in-kraft-erste-geiseln-sollen-am-nachmittag-freikommen](https://www.spiegel.de/ausland/israel-gaza-krieg-im-liveblog-die-waffenruhe-ist-in-kraft-erste-geiseln-sollen-am-nachmittag-freikommen-a-aed51866-d057-48c5-a6ae-a5c8f801e40b#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-jetzt-ruhen-die-waffen-in-gaza](https://www.spiegel.de/ausland/israel-gaza-krieg-jetzt-ruhen-die-waffen-in-gaza-a-429d9ae7-a813-48fc-bf6c-c8f63edbc35b#ref=rss)
+### freikommen
 
-* [https://www.spiegel.de/karriere/internationales-zirkusfestival-in-monte-carlo-lea-toran-jenner-aus-ulm-tritt-mit-dem-cyr-rad-auf](https://www.spiegel.de/karriere/internationales-zirkusfestival-in-monte-carlo-lea-toran-jenner-aus-ulm-tritt-mit-dem-cyr-rad-auf-a-fd457cbd-27b1-458b-ad5a-676e4a3008b6#ref=rss)
-### jenner
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-im-liveblog-die-waffenruhe-ist-in-kraft-erste-geiseln-sollen-am-nachmittag-freikommen](https://www.spiegel.de/ausland/israel-gaza-krieg-im-liveblog-die-waffenruhe-ist-in-kraft-erste-geiseln-sollen-am-nachmittag-freikommen-a-aed51866-d057-48c5-a6ae-a5c8f801e40b#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-und-israel-hamas-verweigert-kurz-vor-geplanter-waffenruhe-zugesagte-liste-ueber-geiseln](https://www.spiegel.de/ausland/gaza-und-israel-hamas-verweigert-kurz-vor-geplanter-waffenruhe-zugesagte-liste-ueber-geiseln-a-db30f526-8649-4634-a2e5-b2ee7531c22d#ref=rss)
+### ruhen
 
-* [https://www.spiegel.de/karriere/internationales-zirkusfestival-in-monte-carlo-lea-toran-jenner-aus-ulm-tritt-mit-dem-cyr-rad-auf](https://www.spiegel.de/karriere/internationales-zirkusfestival-in-monte-carlo-lea-toran-jenner-aus-ulm-tritt-mit-dem-cyr-rad-auf-a-fd457cbd-27b1-458b-ad5a-676e4a3008b6#ref=rss)
-### ulm
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-im-liveblog-die-waffenruhe-ist-in-kraft-erste-geiseln-sollen-am-nachmittag-freikommen](https://www.spiegel.de/ausland/israel-gaza-krieg-im-liveblog-die-waffenruhe-ist-in-kraft-erste-geiseln-sollen-am-nachmittag-freikommen-a-aed51866-d057-48c5-a6ae-a5c8f801e40b#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-jetzt-ruhen-die-waffen-in-gaza](https://www.spiegel.de/ausland/israel-gaza-krieg-jetzt-ruhen-die-waffen-in-gaza-a-429d9ae7-a813-48fc-bf6c-c8f63edbc35b#ref=rss)
+### waffen
 
-* [https://www.spiegel.de/karriere/internationales-zirkusfestival-in-monte-carlo-lea-toran-jenner-aus-ulm-tritt-mit-dem-cyr-rad-auf](https://www.spiegel.de/karriere/internationales-zirkusfestival-in-monte-carlo-lea-toran-jenner-aus-ulm-tritt-mit-dem-cyr-rad-auf-a-fd457cbd-27b1-458b-ad5a-676e4a3008b6#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-spielt-bei-eintracht-braunschweig-nur-remis-1-fc-kaiserslautern-dreht-partie-gegen-ssv-ulm](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-spielt-bei-eintracht-braunschweig-nur-remis-1-fc-kaiserslautern-dreht-partie-gegen-ssv-ulm-a-3a18a12c-d221-42cb-9201-1247efd2511f#ref=rss)
-### tritt
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-im-liveblog-die-waffenruhe-ist-in-kraft-erste-geiseln-sollen-am-nachmittag-freikommen](https://www.spiegel.de/ausland/israel-gaza-krieg-im-liveblog-die-waffenruhe-ist-in-kraft-erste-geiseln-sollen-am-nachmittag-freikommen-a-aed51866-d057-48c5-a6ae-a5c8f801e40b#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-jetzt-ruhen-die-waffen-in-gaza](https://www.spiegel.de/ausland/israel-gaza-krieg-jetzt-ruhen-die-waffen-in-gaza-a-429d9ae7-a813-48fc-bf6c-c8f63edbc35b#ref=rss)
+### freigelassen
 
-* [https://www.spiegel.de/karriere/internationales-zirkusfestival-in-monte-carlo-lea-toran-jenner-aus-ulm-tritt-mit-dem-cyr-rad-auf](https://www.spiegel.de/karriere/internationales-zirkusfestival-in-monte-carlo-lea-toran-jenner-aus-ulm-tritt-mit-dem-cyr-rad-auf-a-fd457cbd-27b1-458b-ad5a-676e4a3008b6#ref=rss)
-### peter
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-im-liveblog-die-waffenruhe-ist-in-kraft-erste-geiseln-sollen-am-nachmittag-freikommen](https://www.spiegel.de/ausland/israel-gaza-krieg-im-liveblog-die-waffenruhe-ist-in-kraft-erste-geiseln-sollen-am-nachmittag-freikommen-a-aed51866-d057-48c5-a6ae-a5c8f801e40b#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-jetzt-ruhen-die-waffen-in-gaza](https://www.spiegel.de/ausland/israel-gaza-krieg-jetzt-ruhen-die-waffen-in-gaza-a-429d9ae7-a813-48fc-bf6c-c8f63edbc35b#ref=rss)
+### frauen
 
-* [https://www.spiegel.de/wirtschaft/bdi-praesident-peter-leibinger-ueber-die-afd-die-auslaenderfeindlichkeit-ist-schlicht-dumm](https://www.spiegel.de/wirtschaft/bdi-praesident-peter-leibinger-ueber-die-afd-die-auslaenderfeindlichkeit-ist-schlicht-dumm-a-60d23ea4-aec4-425d-8404-060d6d70d6ed#ref=rss)
-### leibinger
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-im-liveblog-die-waffenruhe-ist-in-kraft-erste-geiseln-sollen-am-nachmittag-freikommen](https://www.spiegel.de/ausland/israel-gaza-krieg-im-liveblog-die-waffenruhe-ist-in-kraft-erste-geiseln-sollen-am-nachmittag-freikommen-a-aed51866-d057-48c5-a6ae-a5c8f801e40b#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-und-israel-hamas-verweigert-kurz-vor-geplanter-waffenruhe-zugesagte-liste-ueber-geiseln](https://www.spiegel.de/ausland/gaza-und-israel-hamas-verweigert-kurz-vor-geplanter-waffenruhe-zugesagte-liste-ueber-geiseln-a-db30f526-8649-4634-a2e5-b2ee7531c22d#ref=rss)
+### stella
 
-* [https://www.spiegel.de/wirtschaft/bdi-praesident-peter-leibinger-ueber-die-afd-die-auslaenderfeindlichkeit-ist-schlicht-dumm](https://www.spiegel.de/wirtschaft/bdi-praesident-peter-leibinger-ueber-die-afd-die-auslaenderfeindlichkeit-ist-schlicht-dumm-a-60d23ea4-aec4-425d-8404-060d6d70d6ed#ref=rss)
-### afd
+* [https://www.spiegel.de/ausland/spionage-stella-rimington-kritisiert-britische-naivitaet-gegenueber-china](https://www.spiegel.de/ausland/spionage-stella-rimington-kritisiert-britische-naivitaet-gegenueber-china-a-eae1b60d-4279-4858-b5ba-6413e86ef7bb#ref=rss)
+### rimington
 
-* [https://www.spiegel.de/wirtschaft/bdi-praesident-peter-leibinger-ueber-die-afd-die-auslaenderfeindlichkeit-ist-schlicht-dumm](https://www.spiegel.de/wirtschaft/bdi-praesident-peter-leibinger-ueber-die-afd-die-auslaenderfeindlichkeit-ist-schlicht-dumm-a-60d23ea4-aec4-425d-8404-060d6d70d6ed#ref=rss)
-### schalke
+* [https://www.spiegel.de/ausland/spionage-stella-rimington-kritisiert-britische-naivitaet-gegenueber-china](https://www.spiegel.de/ausland/spionage-stella-rimington-kritisiert-britische-naivitaet-gegenueber-china-a-eae1b60d-4279-4858-b5ba-6413e86ef7bb#ref=rss)
+### gegenüber
 
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-spielt-bei-eintracht-braunschweig-nur-remis-1-fc-kaiserslautern-dreht-partie-gegen-ssv-ulm](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-spielt-bei-eintracht-braunschweig-nur-remis-1-fc-kaiserslautern-dreht-partie-gegen-ssv-ulm-a-3a18a12c-d221-42cb-9201-1247efd2511f#ref=rss)
-### 04
+* [https://www.spiegel.de/ausland/spionage-stella-rimington-kritisiert-britische-naivitaet-gegenueber-china](https://www.spiegel.de/ausland/spionage-stella-rimington-kritisiert-britische-naivitaet-gegenueber-china-a-eae1b60d-4279-4858-b5ba-6413e86ef7bb#ref=rss)
+### china
 
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-spielt-bei-eintracht-braunschweig-nur-remis-1-fc-kaiserslautern-dreht-partie-gegen-ssv-ulm](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-spielt-bei-eintracht-braunschweig-nur-remis-1-fc-kaiserslautern-dreht-partie-gegen-ssv-ulm-a-3a18a12c-d221-42cb-9201-1247efd2511f#ref=rss)
-### remis
+* [https://www.spiegel.de/ausland/spionage-stella-rimington-kritisiert-britische-naivitaet-gegenueber-china](https://www.spiegel.de/ausland/spionage-stella-rimington-kritisiert-britische-naivitaet-gegenueber-china-a-eae1b60d-4279-4858-b5ba-6413e86ef7bb#ref=rss)
+* [https://www.spiegel.de/netzwelt/tiktok-ist-in-den-usa-abgeschaltet-worden](https://www.spiegel.de/netzwelt/tiktok-ist-in-den-usa-abgeschaltet-worden-a-97b86199-fd66-4c79-a3c3-ba33d81480b4#ref=rss)
+### australian
 
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-spielt-bei-eintracht-braunschweig-nur-remis-1-fc-kaiserslautern-dreht-partie-gegen-ssv-ulm](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-spielt-bei-eintracht-braunschweig-nur-remis-1-fc-kaiserslautern-dreht-partie-gegen-ssv-ulm-a-3a18a12c-d221-42cb-9201-1247efd2511f#ref=rss)
-### kaiserslautern
+* [https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-steht-im-viertelfinale](https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-steht-im-viertelfinale-a-6bbf6e8c-6105-4617-af98-4c0f8d931051#ref=rss)
+* [https://www.spiegel.de/sport/tennis/australian-open-coco-gauff-steht-im-viertelfinale-und-trauert-um-tiktok](https://www.spiegel.de/sport/tennis/australian-open-coco-gauff-steht-im-viertelfinale-und-trauert-um-tiktok-a-8fdd675b-8867-43d2-b004-735b9b450910#ref=rss)
+### open
 
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-spielt-bei-eintracht-braunschweig-nur-remis-1-fc-kaiserslautern-dreht-partie-gegen-ssv-ulm](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-spielt-bei-eintracht-braunschweig-nur-remis-1-fc-kaiserslautern-dreht-partie-gegen-ssv-ulm-a-3a18a12c-d221-42cb-9201-1247efd2511f#ref=rss)
-### washington
+* [https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-steht-im-viertelfinale](https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-steht-im-viertelfinale-a-6bbf6e8c-6105-4617-af98-4c0f8d931051#ref=rss)
+* [https://www.spiegel.de/sport/tennis/australian-open-coco-gauff-steht-im-viertelfinale-und-trauert-um-tiktok](https://www.spiegel.de/sport/tennis/australian-open-coco-gauff-steht-im-viertelfinale-und-trauert-um-tiktok-a-8fdd675b-8867-43d2-b004-735b9b450910#ref=rss)
+### alexander
 
-* [https://www.spiegel.de/ausland/so-massiv-wird-trumps-vereidigung-abgesichert](https://www.spiegel.de/ausland/so-massiv-wird-trumps-vereidigung-abgesichert-a-4f3bb556-3ef0-4894-a733-1b37bd7ce368#ref=rss)
-### vereidigung
+* [https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-steht-im-viertelfinale](https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-steht-im-viertelfinale-a-6bbf6e8c-6105-4617-af98-4c0f8d931051#ref=rss)
+### zverev
 
-* [https://www.spiegel.de/ausland/so-massiv-wird-trumps-vereidigung-abgesichert](https://www.spiegel.de/ausland/so-massiv-wird-trumps-vereidigung-abgesichert-a-4f3bb556-3ef0-4894-a733-1b37bd7ce368#ref=rss)
-### regime
+* [https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-steht-im-viertelfinale](https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-steht-im-viertelfinale-a-6bbf6e8c-6105-4617-af98-4c0f8d931051#ref=rss)
+### selbst
 
-* [https://www.spiegel.de/ausland/iran-wie-das-regime-in-teheran-gegner-als-kollaborateure-israels-verfolgt](https://www.spiegel.de/ausland/iran-wie-das-regime-in-teheran-gegner-als-kollaborateure-israels-verfolgt-a-642dece1-b18d-46ae-88f5-ea8579f18572#ref=rss)
-### kollaborateure
+* [https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-steht-im-viertelfinale](https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-steht-im-viertelfinale-a-6bbf6e8c-6105-4617-af98-4c0f8d931051#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-leon-goretzka-sorgt-mit-doppelpack-fuer-sieg-gegen-den-vfl-wolfsburg](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-leon-goretzka-sorgt-mit-doppelpack-fuer-sieg-gegen-den-vfl-wolfsburg-a-4ca574e0-ec27-4ebb-a2dc-057d9e9b458c#ref=rss)
+### streit
 
-* [https://www.spiegel.de/ausland/iran-wie-das-regime-in-teheran-gegner-als-kollaborateure-israels-verfolgt](https://www.spiegel.de/ausland/iran-wie-das-regime-in-teheran-gegner-als-kollaborateure-israels-verfolgt-a-642dece1-b18d-46ae-88f5-ea8579f18572#ref=rss)
-### israels
+* [https://www.spiegel.de/politik/deutschland/streit-ueber-militaerhilfen-gruenenchefin-brantner-kontert-aussagen-von-spd-generalsekretaer-zu-rente-und-ukraine](https://www.spiegel.de/politik/deutschland/streit-ueber-militaerhilfen-gruenenchefin-brantner-kontert-aussagen-von-spd-generalsekretaer-zu-rente-und-ukraine-a-19e5b83f-3d9d-4035-9e10-dd6df181f8fe#ref=rss)
+### militärhilfen
 
-* [https://www.spiegel.de/ausland/iran-wie-das-regime-in-teheran-gegner-als-kollaborateure-israels-verfolgt](https://www.spiegel.de/ausland/iran-wie-das-regime-in-teheran-gegner-als-kollaborateure-israels-verfolgt-a-642dece1-b18d-46ae-88f5-ea8579f18572#ref=rss)
-### verfolgt
+* [https://www.spiegel.de/politik/deutschland/streit-ueber-militaerhilfen-gruenenchefin-brantner-kontert-aussagen-von-spd-generalsekretaer-zu-rente-und-ukraine](https://www.spiegel.de/politik/deutschland/streit-ueber-militaerhilfen-gruenenchefin-brantner-kontert-aussagen-von-spd-generalsekretaer-zu-rente-und-ukraine-a-19e5b83f-3d9d-4035-9e10-dd6df181f8fe#ref=rss)
+### brantner
 
-* [https://www.spiegel.de/ausland/iran-wie-das-regime-in-teheran-gegner-als-kollaborateure-israels-verfolgt](https://www.spiegel.de/ausland/iran-wie-das-regime-in-teheran-gegner-als-kollaborateure-israels-verfolgt-a-642dece1-b18d-46ae-88f5-ea8579f18572#ref=rss)
-### besonders
+* [https://www.spiegel.de/politik/deutschland/streit-ueber-militaerhilfen-gruenenchefin-brantner-kontert-aussagen-von-spd-generalsekretaer-zu-rente-und-ukraine](https://www.spiegel.de/politik/deutschland/streit-ueber-militaerhilfen-gruenenchefin-brantner-kontert-aussagen-von-spd-generalsekretaer-zu-rente-und-ukraine-a-19e5b83f-3d9d-4035-9e10-dd6df181f8fe#ref=rss)
+### aussagen
 
-* [https://www.spiegel.de/ausland/iran-wie-das-regime-in-teheran-gegner-als-kollaborateure-israels-verfolgt](https://www.spiegel.de/ausland/iran-wie-das-regime-in-teheran-gegner-als-kollaborateure-israels-verfolgt-a-642dece1-b18d-46ae-88f5-ea8579f18572#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-berater-sriram-krishnan-das-indischstaemmige-paar-das-steve-bannon-auf-die-palme-bringt](https://www.spiegel.de/wirtschaft/donald-trump-berater-sriram-krishnan-das-indischstaemmige-paar-das-steve-bannon-auf-die-palme-bringt-a-63bc1191-2d51-47a1-8519-324201f11b29#ref=rss)
-### pence
+* [https://www.spiegel.de/politik/deutschland/streit-ueber-militaerhilfen-gruenenchefin-brantner-kontert-aussagen-von-spd-generalsekretaer-zu-rente-und-ukraine](https://www.spiegel.de/politik/deutschland/streit-ueber-militaerhilfen-gruenenchefin-brantner-kontert-aussagen-von-spd-generalsekretaer-zu-rente-und-ukraine-a-19e5b83f-3d9d-4035-9e10-dd6df181f8fe#ref=rss)
+### spdgeneralsekretär
 
-* [https://www.spiegel.de/ausland/mike-pence-will-an-donald-trumps-amtseinfuehrung-teilnehmen](https://www.spiegel.de/ausland/mike-pence-will-an-donald-trumps-amtseinfuehrung-teilnehmen-a-4e22e13f-e467-4795-9f7d-abaa96544621#ref=rss)
-### astún
+* [https://www.spiegel.de/politik/deutschland/streit-ueber-militaerhilfen-gruenenchefin-brantner-kontert-aussagen-von-spd-generalsekretaer-zu-rente-und-ukraine](https://www.spiegel.de/politik/deutschland/streit-ueber-militaerhilfen-gruenenchefin-brantner-kontert-aussagen-von-spd-generalsekretaer-zu-rente-und-ukraine-a-19e5b83f-3d9d-4035-9e10-dd6df181f8fe#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/panorama/spanien-mehr-als-30-verletzte-bei-skilift-unfall-in-astun](https://www.spiegel.de/panorama/spanien-mehr-als-30-verletzte-bei-skilift-unfall-in-astun-a-7ee6810c-14a6-4bd9-8025-2df87307635b#ref=rss)
-### denis
+* [https://www.spiegel.de/politik/deutschland/streit-ueber-militaerhilfen-gruenenchefin-brantner-kontert-aussagen-von-spd-generalsekretaer-zu-rente-und-ukraine](https://www.spiegel.de/politik/deutschland/streit-ueber-militaerhilfen-gruenenchefin-brantner-kontert-aussagen-von-spd-generalsekretaer-zu-rente-und-ukraine-a-19e5b83f-3d9d-4035-9e10-dd6df181f8fe#ref=rss)
+### gianni
 
-* [https://www.spiegel.de/sport/fussball/nachruf-auf-denis-law-tore-waren-sein-gesetz](https://www.spiegel.de/sport/fussball/nachruf-auf-denis-law-tore-waren-sein-gesetz-a-26696aee-22d0-42b9-b3b8-ae8abb4bd6af#ref=rss)
-### law
+* [https://www.spiegel.de/sport/fussball/fussball-und-politik-fifa-praesident-gianni-infantino-nimmt-an-donald-trumps-amtseinfuehrung-teil](https://www.spiegel.de/sport/fussball/fussball-und-politik-fifa-praesident-gianni-infantino-nimmt-an-donald-trumps-amtseinfuehrung-teil-a-9e9d3477-dfbb-4cf2-8956-4eabc4e4dda3#ref=rss)
+### infantino
 
-* [https://www.spiegel.de/sport/fussball/nachruf-auf-denis-law-tore-waren-sein-gesetz](https://www.spiegel.de/sport/fussball/nachruf-auf-denis-law-tore-waren-sein-gesetz-a-26696aee-22d0-42b9-b3b8-ae8abb4bd6af#ref=rss)
-### manchester
+* [https://www.spiegel.de/sport/fussball/fussball-und-politik-fifa-praesident-gianni-infantino-nimmt-an-donald-trumps-amtseinfuehrung-teil](https://www.spiegel.de/sport/fussball/fussball-und-politik-fifa-praesident-gianni-infantino-nimmt-an-donald-trumps-amtseinfuehrung-teil-a-9e9d3477-dfbb-4cf2-8956-4eabc4e4dda3#ref=rss)
+### zooey
 
-* [https://www.spiegel.de/sport/fussball/nachruf-auf-denis-law-tore-waren-sein-gesetz](https://www.spiegel.de/sport/fussball/nachruf-auf-denis-law-tore-waren-sein-gesetz-a-26696aee-22d0-42b9-b3b8-ae8abb4bd6af#ref=rss)
-### united
+* [https://www.spiegel.de/panorama/leute/us-schauspielerin-zooey-deschanel-trauert-um-ihr-elternhaus](https://www.spiegel.de/panorama/leute/us-schauspielerin-zooey-deschanel-trauert-um-ihr-elternhaus-a-8637a22a-4bc2-48ff-8c1a-6eec8e393d46#ref=rss)
+### deschanel
 
-* [https://www.spiegel.de/sport/fussball/nachruf-auf-denis-law-tore-waren-sein-gesetz](https://www.spiegel.de/sport/fussball/nachruf-auf-denis-law-tore-waren-sein-gesetz-a-26696aee-22d0-42b9-b3b8-ae8abb4bd6af#ref=rss)
+* [https://www.spiegel.de/panorama/leute/us-schauspielerin-zooey-deschanel-trauert-um-ihr-elternhaus](https://www.spiegel.de/panorama/leute/us-schauspielerin-zooey-deschanel-trauert-um-ihr-elternhaus-a-8637a22a-4bc2-48ff-8c1a-6eec8e393d46#ref=rss)
+### trauert
+
+* [https://www.spiegel.de/panorama/leute/us-schauspielerin-zooey-deschanel-trauert-um-ihr-elternhaus](https://www.spiegel.de/panorama/leute/us-schauspielerin-zooey-deschanel-trauert-um-ihr-elternhaus-a-8637a22a-4bc2-48ff-8c1a-6eec8e393d46#ref=rss)
+* [https://www.spiegel.de/sport/tennis/australian-open-coco-gauff-steht-im-viertelfinale-und-trauert-um-tiktok](https://www.spiegel.de/sport/tennis/australian-open-coco-gauff-steht-im-viertelfinale-und-trauert-um-tiktok-a-8fdd675b-8867-43d2-b004-735b9b450910#ref=rss)
+### elternhaus
+
+* [https://www.spiegel.de/panorama/leute/us-schauspielerin-zooey-deschanel-trauert-um-ihr-elternhaus](https://www.spiegel.de/panorama/leute/us-schauspielerin-zooey-deschanel-trauert-um-ihr-elternhaus-a-8637a22a-4bc2-48ff-8c1a-6eec8e393d46#ref=rss)
+### los
+
+* [https://www.spiegel.de/panorama/leute/us-schauspielerin-zooey-deschanel-trauert-um-ihr-elternhaus](https://www.spiegel.de/panorama/leute/us-schauspielerin-zooey-deschanel-trauert-um-ihr-elternhaus-a-8637a22a-4bc2-48ff-8c1a-6eec8e393d46#ref=rss)
+### angeles
+
+* [https://www.spiegel.de/panorama/leute/us-schauspielerin-zooey-deschanel-trauert-um-ihr-elternhaus](https://www.spiegel.de/panorama/leute/us-schauspielerin-zooey-deschanel-trauert-um-ihr-elternhaus-a-8637a22a-4bc2-48ff-8c1a-6eec8e393d46#ref=rss)
+### coco
+
+* [https://www.spiegel.de/sport/tennis/australian-open-coco-gauff-steht-im-viertelfinale-und-trauert-um-tiktok](https://www.spiegel.de/sport/tennis/australian-open-coco-gauff-steht-im-viertelfinale-und-trauert-um-tiktok-a-8fdd675b-8867-43d2-b004-735b9b450910#ref=rss)
+### gauff
+
+* [https://www.spiegel.de/sport/tennis/australian-open-coco-gauff-steht-im-viertelfinale-und-trauert-um-tiktok](https://www.spiegel.de/sport/tennis/australian-open-coco-gauff-steht-im-viertelfinale-und-trauert-um-tiktok-a-8fdd675b-8867-43d2-b004-735b9b450910#ref=rss)
+### betrieb
+
+* [https://www.spiegel.de/sport/tennis/australian-open-coco-gauff-steht-im-viertelfinale-und-trauert-um-tiktok](https://www.spiegel.de/sport/tennis/australian-open-coco-gauff-steht-im-viertelfinale-und-trauert-um-tiktok-a-8fdd675b-8867-43d2-b004-735b9b450910#ref=rss)
+* [https://www.spiegel.de/netzwelt/tiktok-ist-in-den-usa-abgeschaltet-worden](https://www.spiegel.de/netzwelt/tiktok-ist-in-den-usa-abgeschaltet-worden-a-97b86199-fd66-4c79-a3c3-ba33d81480b4#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/sport/tennis/australian-open-coco-gauff-steht-im-viertelfinale-und-trauert-um-tiktok](https://www.spiegel.de/sport/tennis/australian-open-coco-gauff-steht-im-viertelfinale-und-trauert-um-tiktok-a-8fdd675b-8867-43d2-b004-735b9b450910#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/so-profitiert-spotify-von-geistermusik-in-playlists-abgruende-des-streaming-geschaefts](https://www.spiegel.de/netzwelt/apps/so-profitiert-spotify-von-geistermusik-in-playlists-abgruende-des-streaming-geschaefts-a-e8db415f-152d-480d-958f-a9c3ffacb543#ref=rss)
+### aachen
+
+* [https://www.spiegel.de/panorama/gesellschaft/aachen-demonstrierende-blockieren-rechtsextremen-aufmarsch](https://www.spiegel.de/panorama/gesellschaft/aachen-demonstrierende-blockieren-rechtsextremen-aufmarsch-a-fd0d95ed-71ab-4766-9cda-32bcdc6aebc9#ref=rss)
+### blockieren
+
+* [https://www.spiegel.de/panorama/gesellschaft/aachen-demonstrierende-blockieren-rechtsextremen-aufmarsch](https://www.spiegel.de/panorama/gesellschaft/aachen-demonstrierende-blockieren-rechtsextremen-aufmarsch-a-fd0d95ed-71ab-4766-9cda-32bcdc6aebc9#ref=rss)
+### aufmarsch
+
+* [https://www.spiegel.de/panorama/gesellschaft/aachen-demonstrierende-blockieren-rechtsextremen-aufmarsch](https://www.spiegel.de/panorama/gesellschaft/aachen-demonstrierende-blockieren-rechtsextremen-aufmarsch-a-fd0d95ed-71ab-4766-9cda-32bcdc6aebc9#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/chemnitz-rechtsextreme-demo-und-gegenproteste-zum-start-der-kulturhauptstadt](https://www.spiegel.de/panorama/gesellschaft/chemnitz-rechtsextreme-demo-und-gegenproteste-zum-start-der-kulturhauptstadt-a-42fc450f-c362-43a9-be01-0d86f6a6a9fd#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/gesellschaft/aachen-demonstrierende-blockieren-rechtsextremen-aufmarsch](https://www.spiegel.de/panorama/gesellschaft/aachen-demonstrierende-blockieren-rechtsextremen-aufmarsch-a-fd0d95ed-71ab-4766-9cda-32bcdc6aebc9#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/chemnitz-rechtsextreme-demo-und-gegenproteste-zum-start-der-kulturhauptstadt](https://www.spiegel.de/panorama/gesellschaft/chemnitz-rechtsextreme-demo-und-gegenproteste-zum-start-der-kulturhauptstadt-a-42fc450f-c362-43a9-be01-0d86f6a6a9fd#ref=rss)
+### itamar
+
+* [https://www.spiegel.de/ausland/israel-und-gaza-itamar-ben-gvir-verlaesst-wegen-hamas-deal-die-regierung-von-benjamin-netanyahu](https://www.spiegel.de/ausland/israel-und-gaza-itamar-ben-gvir-verlaesst-wegen-hamas-deal-die-regierung-von-benjamin-netanyahu-a-8379a49f-61db-436b-aa3b-c7c1a0ad8778#ref=rss)
+### benjamin
+
+* [https://www.spiegel.de/ausland/israel-und-gaza-itamar-ben-gvir-verlaesst-wegen-hamas-deal-die-regierung-von-benjamin-netanyahu](https://www.spiegel.de/ausland/israel-und-gaza-itamar-ben-gvir-verlaesst-wegen-hamas-deal-die-regierung-von-benjamin-netanyahu-a-8379a49f-61db-436b-aa3b-c7c1a0ad8778#ref=rss)
+### netanyahu
+
+* [https://www.spiegel.de/ausland/israel-und-gaza-itamar-ben-gvir-verlaesst-wegen-hamas-deal-die-regierung-von-benjamin-netanyahu](https://www.spiegel.de/ausland/israel-und-gaza-itamar-ben-gvir-verlaesst-wegen-hamas-deal-die-regierung-von-benjamin-netanyahu-a-8379a49f-61db-436b-aa3b-c7c1a0ad8778#ref=rss)
+### rechtsextreme
+
+* [https://www.spiegel.de/ausland/israel-und-gaza-itamar-ben-gvir-verlaesst-wegen-hamas-deal-die-regierung-von-benjamin-netanyahu](https://www.spiegel.de/ausland/israel-und-gaza-itamar-ben-gvir-verlaesst-wegen-hamas-deal-die-regierung-von-benjamin-netanyahu-a-8379a49f-61db-436b-aa3b-c7c1a0ad8778#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/chemnitz-rechtsextreme-demo-und-gegenproteste-zum-start-der-kulturhauptstadt](https://www.spiegel.de/panorama/gesellschaft/chemnitz-rechtsextreme-demo-und-gegenproteste-zum-start-der-kulturhauptstadt-a-42fc450f-c362-43a9-be01-0d86f6a6a9fd#ref=rss)
+### travis
+
+* [https://www.spiegel.de/sport/american-football/nfl-travis-kelce-dreht-auf-kansas-city-auf-dem-weg-zum-dritten-super-bowl-in-folge](https://www.spiegel.de/sport/american-football/nfl-travis-kelce-dreht-auf-kansas-city-auf-dem-weg-zum-dritten-super-bowl-in-folge-a-de27dee2-60a1-4059-a201-b5dc99440b31#ref=rss)
+### kelce
+
+* [https://www.spiegel.de/sport/american-football/nfl-travis-kelce-dreht-auf-kansas-city-auf-dem-weg-zum-dritten-super-bowl-in-folge](https://www.spiegel.de/sport/american-football/nfl-travis-kelce-dreht-auf-kansas-city-auf-dem-weg-zum-dritten-super-bowl-in-folge-a-de27dee2-60a1-4059-a201-b5dc99440b31#ref=rss)
+### dreht
+
+* [https://www.spiegel.de/sport/american-football/nfl-travis-kelce-dreht-auf-kansas-city-auf-dem-weg-zum-dritten-super-bowl-in-folge](https://www.spiegel.de/sport/american-football/nfl-travis-kelce-dreht-auf-kansas-city-auf-dem-weg-zum-dritten-super-bowl-in-folge-a-de27dee2-60a1-4059-a201-b5dc99440b31#ref=rss)
+* [https://www.spiegel.de/kultur/usa-mein-freund-ted-waehlt-donald-trump-und-wir-sind-trotzdem-freunde](https://www.spiegel.de/kultur/usa-mein-freund-ted-waehlt-donald-trump-und-wir-sind-trotzdem-freunde-a-160e5294-38f9-4521-b194-6c95182741e1#ref=rss)
+### kansas
+
+* [https://www.spiegel.de/sport/american-football/nfl-travis-kelce-dreht-auf-kansas-city-auf-dem-weg-zum-dritten-super-bowl-in-folge](https://www.spiegel.de/sport/american-football/nfl-travis-kelce-dreht-auf-kansas-city-auf-dem-weg-zum-dritten-super-bowl-in-folge-a-de27dee2-60a1-4059-a201-b5dc99440b31#ref=rss)
+### city
+
+* [https://www.spiegel.de/sport/american-football/nfl-travis-kelce-dreht-auf-kansas-city-auf-dem-weg-zum-dritten-super-bowl-in-folge](https://www.spiegel.de/sport/american-football/nfl-travis-kelce-dreht-auf-kansas-city-auf-dem-weg-zum-dritten-super-bowl-in-folge-a-de27dee2-60a1-4059-a201-b5dc99440b31#ref=rss)
+### welt
+
+* [https://www.spiegel.de/sport/american-football/nfl-travis-kelce-dreht-auf-kansas-city-auf-dem-weg-zum-dritten-super-bowl-in-folge](https://www.spiegel.de/sport/american-football/nfl-travis-kelce-dreht-auf-kansas-city-auf-dem-weg-zum-dritten-super-bowl-in-folge-a-de27dee2-60a1-4059-a201-b5dc99440b31#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-imperialismus-autoritarismus-egoismus-ab-morgen-leben-wir-in-der-trump-welt](https://www.spiegel.de/politik/deutschland/news-imperialismus-autoritarismus-egoismus-ab-morgen-leben-wir-in-der-trump-welt-a-c8fbe89e-c689-42f1-8757-8b87afe1e549#ref=rss)
+### gezeigt
+
+* [https://www.spiegel.de/sport/american-football/nfl-travis-kelce-dreht-auf-kansas-city-auf-dem-weg-zum-dritten-super-bowl-in-folge](https://www.spiegel.de/sport/american-football/nfl-travis-kelce-dreht-auf-kansas-city-auf-dem-weg-zum-dritten-super-bowl-in-folge-a-de27dee2-60a1-4059-a201-b5dc99440b31#ref=rss)
+* [https://www.spiegel.de/ausland/iran-revolutionswaechter-praesentieren-angebliche-unterirdische-marinebasis](https://www.spiegel.de/ausland/iran-revolutionswaechter-praesentieren-angebliche-unterirdische-marinebasis-a-ee7cae26-3cca-4bbc-a02a-73d3d0740959#ref=rss)
+### leben
+
+* [https://www.spiegel.de/politik/deutschland/news-imperialismus-autoritarismus-egoismus-ab-morgen-leben-wir-in-der-trump-welt](https://www.spiegel.de/politik/deutschland/news-imperialismus-autoritarismus-egoismus-ab-morgen-leben-wir-in-der-trump-welt-a-c8fbe89e-c689-42f1-8757-8b87afe1e549#ref=rss)
+* [https://www.spiegel.de/ausland/wie-tamilen-in-singapur-leben-ein-liebesbrief-an-die-community](https://www.spiegel.de/ausland/wie-tamilen-in-singapur-leben-ein-liebesbrief-an-die-community-a-d1897016-5574-4b62-9912-8bcc9f904c6a#ref=rss)
+### mein
+
+* [https://www.spiegel.de/auto/autopanne-in-der-betriebsruhe-auf-der-letzten-felge-in-die-zukunft](https://www.spiegel.de/auto/autopanne-in-der-betriebsruhe-auf-der-letzten-felge-in-die-zukunft-a-f85d48f3-939d-4da7-a73e-3f0c1d0096b5#ref=rss)
+* [https://www.spiegel.de/kultur/usa-mein-freund-ted-waehlt-donald-trump-und-wir-sind-trotzdem-freunde](https://www.spiegel.de/kultur/usa-mein-freund-ted-waehlt-donald-trump-und-wir-sind-trotzdem-freunde-a-160e5294-38f9-4521-b194-6c95182741e1#ref=rss)
+### fast
+
+* [https://www.spiegel.de/auto/autopanne-in-der-betriebsruhe-auf-der-letzten-felge-in-die-zukunft](https://www.spiegel.de/auto/autopanne-in-der-betriebsruhe-auf-der-letzten-felge-in-die-zukunft-a-f85d48f3-939d-4da7-a73e-3f0c1d0096b5#ref=rss)
+* [https://www.spiegel.de/netzwelt/tiktok-ist-in-den-usa-abgeschaltet-worden](https://www.spiegel.de/netzwelt/tiktok-ist-in-den-usa-abgeschaltet-worden-a-97b86199-fd66-4c79-a3c3-ba33d81480b4#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-droht-russlandunterstuetzern-mit-konsequenzen](https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-droht-russlandunterstuetzern-mit-konsequenzen-a-8bc2f878-5ebc-4519-b1e7-e7772ce47fb0#ref=rss)
+* [https://www.spiegel.de/ausland/iran-revolutionswaechter-praesentieren-angebliche-unterirdische-marinebasis](https://www.spiegel.de/ausland/iran-revolutionswaechter-praesentieren-angebliche-unterirdische-marinebasis-a-ee7cae26-3cca-4bbc-a02a-73d3d0740959#ref=rss)
+### iran
+
+* [https://www.spiegel.de/ausland/iran-revolutionswaechter-praesentieren-angebliche-unterirdische-marinebasis](https://www.spiegel.de/ausland/iran-revolutionswaechter-praesentieren-angebliche-unterirdische-marinebasis-a-ee7cae26-3cca-4bbc-a02a-73d3d0740959#ref=rss)
+### revolutionswächter
+
+* [https://www.spiegel.de/ausland/iran-revolutionswaechter-praesentieren-angebliche-unterirdische-marinebasis](https://www.spiegel.de/ausland/iran-revolutionswaechter-praesentieren-angebliche-unterirdische-marinebasis-a-ee7cae26-3cca-4bbc-a02a-73d3d0740959#ref=rss)
+### unter
+
+* [https://www.spiegel.de/ausland/iran-revolutionswaechter-praesentieren-angebliche-unterirdische-marinebasis](https://www.spiegel.de/ausland/iran-revolutionswaechter-praesentieren-angebliche-unterirdische-marinebasis-a-ee7cae26-3cca-4bbc-a02a-73d3d0740959#ref=rss)
+* [https://www.spiegel.de/netzwelt/tiktok-ist-in-den-usa-abgeschaltet-worden](https://www.spiegel.de/netzwelt/tiktok-ist-in-den-usa-abgeschaltet-worden-a-97b86199-fd66-4c79-a3c3-ba33d81480b4#ref=rss)
+### ted
+
+* [https://www.spiegel.de/kultur/usa-mein-freund-ted-waehlt-donald-trump-und-wir-sind-trotzdem-freunde](https://www.spiegel.de/kultur/usa-mein-freund-ted-waehlt-donald-trump-und-wir-sind-trotzdem-freunde-a-160e5294-38f9-4521-b194-6c95182741e1#ref=rss)
+### wählt
+
+* [https://www.spiegel.de/kultur/usa-mein-freund-ted-waehlt-donald-trump-und-wir-sind-trotzdem-freunde](https://www.spiegel.de/kultur/usa-mein-freund-ted-waehlt-donald-trump-und-wir-sind-trotzdem-freunde-a-160e5294-38f9-4521-b194-6c95182741e1#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/kultur/usa-mein-freund-ted-waehlt-donald-trump-und-wir-sind-trotzdem-freunde](https://www.spiegel.de/kultur/usa-mein-freund-ted-waehlt-donald-trump-und-wir-sind-trotzdem-freunde-a-160e5294-38f9-4521-b194-6c95182741e1#ref=rss)
+* [https://www.spiegel.de/ausland/konflikt-im-kongo-hin-und-wieder-ist-sogar-unklar-wer-wo-auf-wen-schiesst](https://www.spiegel.de/ausland/konflikt-im-kongo-hin-und-wieder-ist-sogar-unklar-wer-wo-auf-wen-schiesst-a-9f5685c5-95ec-43ce-9a2c-079c75d7aaa6#ref=rss)
+### montag
+
+* [https://www.spiegel.de/ausland/usa-donald-trump-ist-am-tag-vor-der-amtseinfuehrung-in-washington-eingetroffen](https://www.spiegel.de/ausland/usa-donald-trump-ist-am-tag-vor-der-amtseinfuehrung-in-washington-eingetroffen-a-7998324d-f675-4806-a089-1e2e9fe3e8e5#ref=rss)
+* [https://www.spiegel.de/ausland/machtwechsel-in-den-usa-das-wahre-gesicht-von-joe-biden](https://www.spiegel.de/ausland/machtwechsel-in-den-usa-das-wahre-gesicht-von-joe-biden-a-1ce476e4-6a4b-485c-86fa-bab9d7fc1d19#ref=rss)
+### tamilen
+
+* [https://www.spiegel.de/ausland/wie-tamilen-in-singapur-leben-ein-liebesbrief-an-die-community](https://www.spiegel.de/ausland/wie-tamilen-in-singapur-leben-ein-liebesbrief-an-die-community-a-d1897016-5574-4b62-9912-8bcc9f904c6a#ref=rss)
+### singapur
+
+* [https://www.spiegel.de/ausland/wie-tamilen-in-singapur-leben-ein-liebesbrief-an-die-community](https://www.spiegel.de/ausland/wie-tamilen-in-singapur-leben-ein-liebesbrief-an-die-community-a-d1897016-5574-4b62-9912-8bcc9f904c6a#ref=rss)
+### geschichte
+
+* [https://www.spiegel.de/ausland/wie-tamilen-in-singapur-leben-ein-liebesbrief-an-die-community](https://www.spiegel.de/ausland/wie-tamilen-in-singapur-leben-ein-liebesbrief-an-die-community-a-d1897016-5574-4b62-9912-8bcc9f904c6a#ref=rss)
+* [https://www.spiegel.de/ausland/machtwechsel-in-den-usa-das-wahre-gesicht-von-joe-biden](https://www.spiegel.de/ausland/machtwechsel-in-den-usa-das-wahre-gesicht-von-joe-biden-a-1ce476e4-6a4b-485c-86fa-bab9d7fc1d19#ref=rss)
 ### yoon
 
-* [https://www.spiegel.de/ausland/suedkoreas-entmachteter-praesident-yoon-erstmals-vor-gericht-erschienen](https://www.spiegel.de/ausland/suedkoreas-entmachteter-praesident-yoon-erstmals-vor-gericht-erschienen-a-27a6cd81-cecf-4c22-9921-bba4a107752e#ref=rss)
-### sukyeol
-
-* [https://www.spiegel.de/ausland/suedkoreas-entmachteter-praesident-yoon-erstmals-vor-gericht-erschienen](https://www.spiegel.de/ausland/suedkoreas-entmachteter-praesident-yoon-erstmals-vor-gericht-erschienen-a-27a6cd81-cecf-4c22-9921-bba4a107752e#ref=rss)
+* [https://www.spiegel.de/ausland/sued-korea-praesidentenunterstuetzer-randalieren-in-gericht-in-seoul](https://www.spiegel.de/ausland/sued-korea-praesidentenunterstuetzer-randalieren-in-gericht-in-seoul-a-a4dc6c80-3c93-4b12-90c4-73a531885797#ref=rss)
 ### gericht
 
-* [https://www.spiegel.de/ausland/suedkoreas-entmachteter-praesident-yoon-erstmals-vor-gericht-erschienen](https://www.spiegel.de/ausland/suedkoreas-entmachteter-praesident-yoon-erstmals-vor-gericht-erschienen-a-27a6cd81-cecf-4c22-9921-bba4a107752e#ref=rss)
-### außen
+* [https://www.spiegel.de/ausland/sued-korea-praesidentenunterstuetzer-randalieren-in-gericht-in-seoul](https://www.spiegel.de/ausland/sued-korea-praesidentenunterstuetzer-randalieren-in-gericht-in-seoul-a-a4dc6c80-3c93-4b12-90c4-73a531885797#ref=rss)
+### seoul
 
-* [https://www.spiegel.de/panorama/bayern-mann-klammert-sich-bei-282-kilometer-pro-stunde-aussen-an-ice-fest](https://www.spiegel.de/panorama/bayern-mann-klammert-sich-bei-282-kilometer-pro-stunde-aussen-an-ice-fest-a-c0e31988-e170-495c-9e86-813eea2a5b95#ref=rss)
-### fest
+* [https://www.spiegel.de/ausland/sued-korea-praesidentenunterstuetzer-randalieren-in-gericht-in-seoul](https://www.spiegel.de/ausland/sued-korea-praesidentenunterstuetzer-randalieren-in-gericht-in-seoul-a-a4dc6c80-3c93-4b12-90c4-73a531885797#ref=rss)
+### liste
 
-* [https://www.spiegel.de/panorama/bayern-mann-klammert-sich-bei-282-kilometer-pro-stunde-aussen-an-ice-fest](https://www.spiegel.de/panorama/bayern-mann-klammert-sich-bei-282-kilometer-pro-stunde-aussen-an-ice-fest-a-c0e31988-e170-495c-9e86-813eea2a5b95#ref=rss)
-### zug
+* [https://www.spiegel.de/ausland/gaza-und-israel-hamas-verweigert-kurz-vor-geplanter-waffenruhe-zugesagte-liste-ueber-geiseln](https://www.spiegel.de/ausland/gaza-und-israel-hamas-verweigert-kurz-vor-geplanter-waffenruhe-zugesagte-liste-ueber-geiseln-a-db30f526-8649-4634-a2e5-b2ee7531c22d#ref=rss)
+### joe
 
-* [https://www.spiegel.de/panorama/bayern-mann-klammert-sich-bei-282-kilometer-pro-stunde-aussen-an-ice-fest](https://www.spiegel.de/panorama/bayern-mann-klammert-sich-bei-282-kilometer-pro-stunde-aussen-an-ice-fest-a-c0e31988-e170-495c-9e86-813eea2a5b95#ref=rss)
-### sriram
+* [https://www.spiegel.de/ausland/machtwechsel-in-den-usa-das-wahre-gesicht-von-joe-biden](https://www.spiegel.de/ausland/machtwechsel-in-den-usa-das-wahre-gesicht-von-joe-biden-a-1ce476e4-6a4b-485c-86fa-bab9d7fc1d19#ref=rss)
+### biden
 
-* [https://www.spiegel.de/wirtschaft/donald-trump-berater-sriram-krishnan-das-indischstaemmige-paar-das-steve-bannon-auf-die-palme-bringt](https://www.spiegel.de/wirtschaft/donald-trump-berater-sriram-krishnan-das-indischstaemmige-paar-das-steve-bannon-auf-die-palme-bringt-a-63bc1191-2d51-47a1-8519-324201f11b29#ref=rss)
-### stefan
+* [https://www.spiegel.de/ausland/machtwechsel-in-den-usa-das-wahre-gesicht-von-joe-biden](https://www.spiegel.de/ausland/machtwechsel-in-den-usa-das-wahre-gesicht-von-joe-biden-a-1ce476e4-6a4b-485c-86fa-bab9d7fc1d19#ref=rss)
+### leon
 
-* [https://www.spiegel.de/politik/deutschland/gruene-zweifel-an-belaestigungsvorwuerfen-gegen-stefan-gelbhaar](https://www.spiegel.de/politik/deutschland/gruene-zweifel-an-belaestigungsvorwuerfen-gegen-stefan-gelbhaar-a-eda76b79-f70f-4f74-94c6-f9249b152348#ref=rss)
-### gelbhaar
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-leon-goretzka-sorgt-mit-doppelpack-fuer-sieg-gegen-den-vfl-wolfsburg](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-leon-goretzka-sorgt-mit-doppelpack-fuer-sieg-gegen-den-vfl-wolfsburg-a-4ca574e0-ec27-4ebb-a2dc-057d9e9b458c#ref=rss)
+### goretzka
 
-* [https://www.spiegel.de/politik/deutschland/gruene-zweifel-an-belaestigungsvorwuerfen-gegen-stefan-gelbhaar](https://www.spiegel.de/politik/deutschland/gruene-zweifel-an-belaestigungsvorwuerfen-gegen-stefan-gelbhaar-a-eda76b79-f70f-4f74-94c6-f9249b152348#ref=rss)
-### strategien
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-leon-goretzka-sorgt-mit-doppelpack-fuer-sieg-gegen-den-vfl-wolfsburg](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-leon-goretzka-sorgt-mit-doppelpack-fuer-sieg-gegen-den-vfl-wolfsburg-a-4ca574e0-ec27-4ebb-a2dc-057d9e9b458c#ref=rss)
+### wolfsburg
 
-* [https://www.spiegel.de/familie/gewaltfreie-kommunikation-mit-kindern-strategien-fuer-bessere-gespraeche](https://www.spiegel.de/familie/gewaltfreie-kommunikation-mit-kindern-strategien-fuer-bessere-gespraeche-a-7d95134d-e0de-49cc-ae9a-90d27569b6d4#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-leon-goretzka-sorgt-mit-doppelpack-fuer-sieg-gegen-den-vfl-wolfsburg](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-leon-goretzka-sorgt-mit-doppelpack-fuer-sieg-gegen-den-vfl-wolfsburg-a-4ca574e0-ec27-4ebb-a2dc-057d9e9b458c#ref=rss)
+### konflikt
+
+* [https://www.spiegel.de/ausland/konflikt-im-kongo-hin-und-wieder-ist-sogar-unklar-wer-wo-auf-wen-schiesst](https://www.spiegel.de/ausland/konflikt-im-kongo-hin-und-wieder-ist-sogar-unklar-wer-wo-auf-wen-schiesst-a-9f5685c5-95ec-43ce-9a2c-079c75d7aaa6#ref=rss)
+### kongo
+
+* [https://www.spiegel.de/ausland/konflikt-im-kongo-hin-und-wieder-ist-sogar-unklar-wer-wo-auf-wen-schiesst](https://www.spiegel.de/ausland/konflikt-im-kongo-hin-und-wieder-ist-sogar-unklar-wer-wo-auf-wen-schiesst-a-9f5685c5-95ec-43ce-9a2c-079c75d7aaa6#ref=rss)
+### botschafter
+
+* [https://www.spiegel.de/ausland/usa-deutscher-botschafter-warnt-laut-interner-analyse-vor-trump](https://www.spiegel.de/ausland/usa-deutscher-botschafter-warnt-laut-interner-analyse-vor-trump-a-050e94a8-a890-4e15-aded-44885054c0a0#ref=rss)
+### laut
+
+* [https://www.spiegel.de/ausland/usa-deutscher-botschafter-warnt-laut-interner-analyse-vor-trump](https://www.spiegel.de/ausland/usa-deutscher-botschafter-warnt-laut-interner-analyse-vor-trump-a-050e94a8-a890-4e15-aded-44885054c0a0#ref=rss)
 
