@@ -6,354 +6,360 @@ tags: __no_header__
 
 ### trump
 
+* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-deutsche-autobauer-ruesten-sich-gegen-drohende-us-strafzoelle](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-deutsche-autobauer-ruesten-sich-gegen-drohende-us-strafzoelle-a-1a5f9983-6dba-473f-be48-4134f48042a7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-und-das-weltwirtschaftsforum-der-geist-von-davos](https://www.spiegel.de/wirtschaft/donald-trump-und-das-weltwirtschaftsforum-der-geist-von-davos-a-24aec6a8-9ae2-45b9-bba1-eeb5f4cc7890#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-unglueck-in-der-tuerkei-gruene](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-unglueck-in-der-tuerkei-gruene-a-51c8dae1-319f-4d7d-a007-944d56bc2a4a#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-aufregung-um-musk-geste-bei-amtseinfuehrung](https://www.spiegel.de/ausland/donald-trump-aufregung-um-musk-geste-bei-amtseinfuehrung-a-0eaa081c-b483-43fa-91a0-b1824d33bec5#ref=rss)
+* [https://www.spiegel.de/ausland/gianni-infantino-giorgia-meloni-tim-cook-co-diese-gaeste-ueberraschten-bei-der-amtseinfuehrung-von-donald-trump](https://www.spiegel.de/ausland/gianni-infantino-giorgia-meloni-tim-cook-co-diese-gaeste-ueberraschten-bei-der-amtseinfuehrung-von-donald-trump-a-db0e15d5-fda9-4359-8f9f-a8a11ef3e63f#ref=rss)
 * [https://www.spiegel.de/ausland/inauguration-von-donald-trump-klagen-gegen-aus-fuer-staatsangehoerigkeit-durch-geburt](https://www.spiegel.de/ausland/inauguration-von-donald-trump-klagen-gegen-aus-fuer-staatsangehoerigkeit-durch-geburt-a-0cd0246b-fb27-4725-a678-8d3c1383dc8d#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-nach-der-vereidigung-saebeltanz-und-dekrete-flut](https://www.spiegel.de/ausland/donald-trump-nach-der-vereidigung-saebeltanz-und-dekrete-flut-a-8e15318e-087c-40e5-95f4-76a659e73c1f#ref=rss)
-* [https://www.spiegel.de/netzwelt/trump-streicht-vorgaben-fuer-kontrolle-von-kuenstlicher-intelligenz](https://www.spiegel.de/netzwelt/trump-streicht-vorgaben-fuer-kontrolle-von-kuenstlicher-intelligenz-a-fbed93e3-fe70-46f3-ab1e-891d7b81714f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/donald-trump-so-reagieren-deutsche-politiker-auf-den-neuen-us-praesidenten-es-werden-vier-wilde-jahre](https://www.spiegel.de/politik/deutschland/donald-trump-so-reagieren-deutsche-politiker-auf-den-neuen-us-praesidenten-es-werden-vier-wilde-jahre-a-708ce4d0-cbf8-4c78-9ff1-99da216562be#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-der-47-us-praesident-tanzt-auf-drei-baellen-an-einem-abend](https://www.spiegel.de/ausland/donald-trump-der-47-us-praesident-tanzt-auf-drei-baellen-an-einem-abend-a-ff9dc501-39fa-4735-9691-a43f92a12fcf#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/tiktok-trump-sichert-der-video-app-per-dekret-mehr-zeit-zu](https://www.spiegel.de/netzwelt/netzpolitik/tiktok-trump-sichert-der-video-app-per-dekret-mehr-zeit-zu-a-85fc1e56-430f-490f-863d-1f0ad26ff71c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/verteidigungsausgaben-friedrich-merz-will-zwei-prozent-des-bip-fuer-ruestung-ausgeben](https://www.spiegel.de/politik/deutschland/verteidigungsausgaben-friedrich-merz-will-zwei-prozent-des-bip-fuer-ruestung-ausgeben-a-6625d878-cf0a-4e01-aa61-2757c70cb56b#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-inauguration-mit-familie-und-oligarchen](https://www.spiegel.de/ausland/donald-trump-inauguration-mit-familie-und-oligarchen-a-443787d8-daf5-46c3-8550-8fbfc36e1f10#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-und-sein-meme-coin-usdtrump-selbst-die-kryptobranche-haelt-das-fuer-abzocke](https://www.spiegel.de/wirtschaft/donald-trump-und-sein-meme-coin-usdtrump-selbst-die-kryptobranche-haelt-das-fuer-abzocke-a-849d813f-08c9-4078-9387-ff32715663de#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/ausland/inauguration-von-donald-trump-klagen-gegen-aus-fuer-staatsangehoerigkeit-durch-geburt](https://www.spiegel.de/ausland/inauguration-von-donald-trump-klagen-gegen-aus-fuer-staatsangehoerigkeit-durch-geburt-a-0cd0246b-fb27-4725-a678-8d3c1383dc8d#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-nach-der-vereidigung-saebeltanz-und-dekrete-flut](https://www.spiegel.de/ausland/donald-trump-nach-der-vereidigung-saebeltanz-und-dekrete-flut-a-8e15318e-087c-40e5-95f4-76a659e73c1f#ref=rss)
-* [https://www.spiegel.de/netzwelt/trump-streicht-vorgaben-fuer-kontrolle-von-kuenstlicher-intelligenz](https://www.spiegel.de/netzwelt/trump-streicht-vorgaben-fuer-kontrolle-von-kuenstlicher-intelligenz-a-fbed93e3-fe70-46f3-ab1e-891d7b81714f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/donald-trump-so-reagieren-deutsche-politiker-auf-den-neuen-us-praesidenten-es-werden-vier-wilde-jahre](https://www.spiegel.de/politik/deutschland/donald-trump-so-reagieren-deutsche-politiker-auf-den-neuen-us-praesidenten-es-werden-vier-wilde-jahre-a-708ce4d0-cbf8-4c78-9ff1-99da216562be#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-der-47-us-praesident-tanzt-auf-drei-baellen-an-einem-abend](https://www.spiegel.de/ausland/donald-trump-der-47-us-praesident-tanzt-auf-drei-baellen-an-einem-abend-a-ff9dc501-39fa-4735-9691-a43f92a12fcf#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/tiktok-trump-sichert-der-video-app-per-dekret-mehr-zeit-zu](https://www.spiegel.de/netzwelt/netzpolitik/tiktok-trump-sichert-der-video-app-per-dekret-mehr-zeit-zu-a-85fc1e56-430f-490f-863d-1f0ad26ff71c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/verteidigungsausgaben-friedrich-merz-will-zwei-prozent-des-bip-fuer-ruestung-ausgeben](https://www.spiegel.de/politik/deutschland/verteidigungsausgaben-friedrich-merz-will-zwei-prozent-des-bip-fuer-ruestung-ausgeben-a-6625d878-cf0a-4e01-aa61-2757c70cb56b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-deutsche-autobauer-ruesten-sich-gegen-drohende-us-strafzoelle](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-deutsche-autobauer-ruesten-sich-gegen-drohende-us-strafzoelle-a-1a5f9983-6dba-473f-be48-4134f48042a7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-und-das-weltwirtschaftsforum-der-geist-von-davos](https://www.spiegel.de/wirtschaft/donald-trump-und-das-weltwirtschaftsforum-der-geist-von-davos-a-24aec6a8-9ae2-45b9-bba1-eeb5f4cc7890#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-unglueck-in-der-tuerkei-gruene](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-unglueck-in-der-tuerkei-gruene-a-51c8dae1-319f-4d7d-a007-944d56bc2a4a#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-aufregung-um-musk-geste-bei-amtseinfuehrung](https://www.spiegel.de/ausland/donald-trump-aufregung-um-musk-geste-bei-amtseinfuehrung-a-0eaa081c-b483-43fa-91a0-b1824d33bec5#ref=rss)
+* [https://www.spiegel.de/ausland/gianni-infantino-giorgia-meloni-tim-cook-co-diese-gaeste-ueberraschten-bei-der-amtseinfuehrung-von-donald-trump](https://www.spiegel.de/ausland/gianni-infantino-giorgia-meloni-tim-cook-co-diese-gaeste-ueberraschten-bei-der-amtseinfuehrung-von-donald-trump-a-db0e15d5-fda9-4359-8f9f-a8a11ef3e63f#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-inauguration-mit-familie-und-oligarchen](https://www.spiegel.de/ausland/donald-trump-inauguration-mit-familie-und-oligarchen-a-443787d8-daf5-46c3-8550-8fbfc36e1f10#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-und-sein-meme-coin-usdtrump-selbst-die-kryptobranche-haelt-das-fuer-abzocke](https://www.spiegel.de/wirtschaft/donald-trump-und-sein-meme-coin-usdtrump-selbst-die-kryptobranche-haelt-das-fuer-abzocke-a-849d813f-08c9-4078-9387-ff32715663de#ref=rss)
+### davos
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-und-das-weltwirtschaftsforum-der-geist-von-davos](https://www.spiegel.de/wirtschaft/donald-trump-und-das-weltwirtschaftsforum-der-geist-von-davos-a-24aec6a8-9ae2-45b9-bba1-eeb5f4cc7890#ref=rss)
+* [https://www.spiegel.de/politik/weltwirtschaftsforum-in-davos-friedrich-merz-spricht-bei-blackrock-dinner](https://www.spiegel.de/politik/weltwirtschaftsforum-in-davos-friedrich-merz-spricht-bei-blackrock-dinner-a-f71a86ef-2442-406c-8447-9eb5ecf88f95#ref=rss)
+* [https://www.spiegel.de/panorama/weltwirtschaftsforum-2025-davos-das-wacken-der-entscheider](https://www.spiegel.de/panorama/weltwirtschaftsforum-2025-davos-das-wacken-der-entscheider-a-a9a13034-5b8b-47d6-a8e9-02b92342637e#ref=rss)
+### weltwirtschaftsforum
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-und-das-weltwirtschaftsforum-der-geist-von-davos](https://www.spiegel.de/wirtschaft/donald-trump-und-das-weltwirtschaftsforum-der-geist-von-davos-a-24aec6a8-9ae2-45b9-bba1-eeb5f4cc7890#ref=rss)
+* [https://www.spiegel.de/politik/weltwirtschaftsforum-in-davos-friedrich-merz-spricht-bei-blackrock-dinner](https://www.spiegel.de/politik/weltwirtschaftsforum-in-davos-friedrich-merz-spricht-bei-blackrock-dinner-a-f71a86ef-2442-406c-8447-9eb5ecf88f95#ref=rss)
+* [https://www.spiegel.de/panorama/weltwirtschaftsforum-2025-davos-das-wacken-der-entscheider](https://www.spiegel.de/panorama/weltwirtschaftsforum-2025-davos-das-wacken-der-entscheider-a-a9a13034-5b8b-47d6-a8e9-02b92342637e#ref=rss)
 ### amtseinführung
 
-* [https://www.spiegel.de/ausland/inauguration-von-donald-trump-klagen-gegen-aus-fuer-staatsangehoerigkeit-durch-geburt](https://www.spiegel.de/ausland/inauguration-von-donald-trump-klagen-gegen-aus-fuer-staatsangehoerigkeit-durch-geburt-a-0cd0246b-fb27-4725-a678-8d3c1383dc8d#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-nach-der-vereidigung-saebeltanz-und-dekrete-flut](https://www.spiegel.de/ausland/donald-trump-nach-der-vereidigung-saebeltanz-und-dekrete-flut-a-8e15318e-087c-40e5-95f4-76a659e73c1f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/donald-trump-so-reagieren-deutsche-politiker-auf-den-neuen-us-praesidenten-es-werden-vier-wilde-jahre](https://www.spiegel.de/politik/deutschland/donald-trump-so-reagieren-deutsche-politiker-auf-den-neuen-us-praesidenten-es-werden-vier-wilde-jahre-a-708ce4d0-cbf8-4c78-9ff1-99da216562be#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-der-47-us-praesident-tanzt-auf-drei-baellen-an-einem-abend](https://www.spiegel.de/ausland/donald-trump-der-47-us-praesident-tanzt-auf-drei-baellen-an-einem-abend-a-ff9dc501-39fa-4735-9691-a43f92a12fcf#ref=rss)
-### menschen
+* [https://www.spiegel.de/ausland/donald-trump-aufregung-um-musk-geste-bei-amtseinfuehrung](https://www.spiegel.de/ausland/donald-trump-aufregung-um-musk-geste-bei-amtseinfuehrung-a-0eaa081c-b483-43fa-91a0-b1824d33bec5#ref=rss)
+* [https://www.spiegel.de/ausland/gianni-infantino-giorgia-meloni-tim-cook-co-diese-gaeste-ueberraschten-bei-der-amtseinfuehrung-von-donald-trump](https://www.spiegel.de/ausland/gianni-infantino-giorgia-meloni-tim-cook-co-diese-gaeste-ueberraschten-bei-der-amtseinfuehrung-von-donald-trump-a-db0e15d5-fda9-4359-8f9f-a8a11ef3e63f#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/panorama/usa-millionen-menschen-von-moeglichem-wintersturm-betroffen](https://www.spiegel.de/panorama/usa-millionen-menschen-von-moeglichem-wintersturm-betroffen-a-019b3269-120c-44a6-8e34-860cc6702f44#ref=rss)
-* [https://www.spiegel.de/panorama/tuerkei-mindestens-zehn-menschen-sterben-bei-hotelbrand](https://www.spiegel.de/panorama/tuerkei-mindestens-zehn-menschen-sterben-bei-hotelbrand-a-ca2fa8ba-e2cd-4a2c-b152-cf434230726b#ref=rss)
+* [https://www.spiegel.de/panorama/hamburg-mordanklage-gegen-zwei-autofahrer-nach-unfalltod-von-kind](https://www.spiegel.de/panorama/hamburg-mordanklage-gegen-zwei-autofahrer-nach-unfalltod-von-kind-a-ebcca06b-796c-4453-9159-7d3356d1cde9#ref=rss)
+* [https://www.spiegel.de/panorama/reutlingen-zwei-tote-nach-gas-explosion-bei-bosch](https://www.spiegel.de/panorama/reutlingen-zwei-tote-nach-gas-explosion-bei-bosch-a-f42d6922-1b73-4be2-bcd1-de0bb24d7ae3#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-deutsche-autobauer-ruesten-sich-gegen-drohende-us-strafzoelle](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-deutsche-autobauer-ruesten-sich-gegen-drohende-us-strafzoelle-a-1a5f9983-6dba-473f-be48-4134f48042a7#ref=rss)
+* [https://www.spiegel.de/kultur/elon-musk-deutsches-museum-entfernt-bild-des-spacex-gruenders](https://www.spiegel.de/kultur/elon-musk-deutsches-museum-entfernt-bild-des-spacex-gruenders-a-dd796b64-8f5f-49f4-9eb9-be576e51fb0a#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/exoplanet-wasp-127b-jetstream-mit-33-000-km-h-forscher-messen-windrekord](https://www.spiegel.de/wissenschaft/weltall/exoplanet-wasp-127b-jetstream-mit-33-000-km-h-forscher-messen-windrekord-a-9efefbd1-ccf3-4b3e-b743-bc8889d7e9ab#ref=rss)
+### elon
+
+* [https://www.spiegel.de/kultur/elon-musk-deutsches-museum-entfernt-bild-des-spacex-gruenders](https://www.spiegel.de/kultur/elon-musk-deutsches-museum-entfernt-bild-des-spacex-gruenders-a-dd796b64-8f5f-49f4-9eb9-be576e51fb0a#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-aufregung-um-musk-geste-bei-amtseinfuehrung](https://www.spiegel.de/ausland/donald-trump-aufregung-um-musk-geste-bei-amtseinfuehrung-a-0eaa081c-b483-43fa-91a0-b1824d33bec5#ref=rss)
+### musk
+
+* [https://www.spiegel.de/kultur/elon-musk-deutsches-museum-entfernt-bild-des-spacex-gruenders](https://www.spiegel.de/kultur/elon-musk-deutsches-museum-entfernt-bild-des-spacex-gruenders-a-dd796b64-8f5f-49f4-9eb9-be576e51fb0a#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-aufregung-um-musk-geste-bei-amtseinfuehrung](https://www.spiegel.de/ausland/donald-trump-aufregung-um-musk-geste-bei-amtseinfuehrung-a-0eaa081c-b483-43fa-91a0-b1824d33bec5#ref=rss)
+### sehen
+
+* [https://www.spiegel.de/kultur/elon-musk-deutsches-museum-entfernt-bild-des-spacex-gruenders](https://www.spiegel.de/kultur/elon-musk-deutsches-museum-entfernt-bild-des-spacex-gruenders-a-dd796b64-8f5f-49f4-9eb9-be576e51fb0a#ref=rss)
+* [https://www.spiegel.de/ausland/gianni-infantino-giorgia-meloni-tim-cook-co-diese-gaeste-ueberraschten-bei-der-amtseinfuehrung-von-donald-trump](https://www.spiegel.de/ausland/gianni-infantino-giorgia-meloni-tim-cook-co-diese-gaeste-ueberraschten-bei-der-amtseinfuehrung-von-donald-trump-a-db0e15d5-fda9-4359-8f9f-a8a11ef3e63f#ref=rss)
+* [https://www.spiegel.de/ausland/fluechtlinge-in-deutschland-erlaubt-den-syrern-ihr-land-jetzt-zu-besuchen](https://www.spiegel.de/ausland/fluechtlinge-in-deutschland-erlaubt-den-syrern-ihr-land-jetzt-zu-besuchen-a-9d38dc0a-d85a-4f4e-96c7-c9e953ff011e#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/netzwelt/trump-streicht-vorgaben-fuer-kontrolle-von-kuenstlicher-intelligenz](https://www.spiegel.de/netzwelt/trump-streicht-vorgaben-fuer-kontrolle-von-kuenstlicher-intelligenz-a-fbed93e3-fe70-46f3-ab1e-891d7b81714f#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/tiktok-trump-sichert-der-video-app-per-dekret-mehr-zeit-zu](https://www.spiegel.de/netzwelt/netzpolitik/tiktok-trump-sichert-der-video-app-per-dekret-mehr-zeit-zu-a-85fc1e56-430f-490f-863d-1f0ad26ff71c#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-und-golden-state-warriors-verlieren-mit-40-punkten-gegen-boston-celtics](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-und-golden-state-warriors-verlieren-mit-40-punkten-gegen-boston-celtics-a-7ef5d80d-f169-44b9-bd2d-369d459d835a#ref=rss)
-* [https://www.spiegel.de/panorama/tuerkei-mindestens-zehn-menschen-sterben-bei-hotelbrand](https://www.spiegel.de/panorama/tuerkei-mindestens-zehn-menschen-sterben-bei-hotelbrand-a-ca2fa8ba-e2cd-4a2c-b152-cf434230726b#ref=rss)
-### weißen
+* [https://www.spiegel.de/wirtschaft/donald-trump-und-das-weltwirtschaftsforum-der-geist-von-davos](https://www.spiegel.de/wirtschaft/donald-trump-und-das-weltwirtschaftsforum-der-geist-von-davos-a-24aec6a8-9ae2-45b9-bba1-eeb5f4cc7890#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/koeln-gericht-verurteilt-mann-wegen-mordes-in-pakistan-verurteilt](https://www.spiegel.de/panorama/justiz/koeln-gericht-verurteilt-mann-wegen-mordes-in-pakistan-verurteilt-a-7e0d018d-70e1-459c-b3e0-a543404e1d21#ref=rss)
+* [https://www.spiegel.de/wirtschaft/versicherungen-verbraucher-beschweren-sich-oefter-bei-schlichtungsstelle](https://www.spiegel.de/wirtschaft/versicherungen-verbraucher-beschweren-sich-oefter-bei-schlichtungsstelle-a-f271d0bc-e5f0-4fe7-93bb-0783ecaa5ad1#ref=rss)
+### davon
+
+* [https://www.spiegel.de/wirtschaft/versicherungen-verbraucher-beschweren-sich-oefter-bei-schlichtungsstelle](https://www.spiegel.de/wirtschaft/versicherungen-verbraucher-beschweren-sich-oefter-bei-schlichtungsstelle-a-f271d0bc-e5f0-4fe7-93bb-0783ecaa5ad1#ref=rss)
+* [https://www.spiegel.de/kultur/kylie-jenner-fliegt-den-braenden-in-los-angeles-davon](https://www.spiegel.de/kultur/kylie-jenner-fliegt-den-braenden-in-los-angeles-davon-a-5752152c-162b-45eb-bd6b-113fc17e5015#ref=rss)
+* [https://www.spiegel.de/ausland/fluechtlinge-in-deutschland-erlaubt-den-syrern-ihr-land-jetzt-zu-besuchen](https://www.spiegel.de/ausland/fluechtlinge-in-deutschland-erlaubt-den-syrern-ihr-land-jetzt-zu-besuchen-a-9d38dc0a-d85a-4f4e-96c7-c9e953ff011e#ref=rss)
+### gefängnis
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-unglueck-in-der-tuerkei-gruene](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-unglueck-in-der-tuerkei-gruene-a-51c8dae1-319f-4d7d-a007-944d56bc2a4a#ref=rss)
+* [https://www.spiegel.de/ausland/inauguration-von-donald-trump-klagen-gegen-aus-fuer-staatsangehoerigkeit-durch-geburt](https://www.spiegel.de/ausland/inauguration-von-donald-trump-klagen-gegen-aus-fuer-staatsangehoerigkeit-durch-geburt-a-0cd0246b-fb27-4725-a678-8d3c1383dc8d#ref=rss)
+### trumps
+
+* [https://www.spiegel.de/ausland/donald-trump-aufregung-um-musk-geste-bei-amtseinfuehrung](https://www.spiegel.de/ausland/donald-trump-aufregung-um-musk-geste-bei-amtseinfuehrung-a-0eaa081c-b483-43fa-91a0-b1824d33bec5#ref=rss)
+* [https://www.spiegel.de/ausland/gianni-infantino-giorgia-meloni-tim-cook-co-diese-gaeste-ueberraschten-bei-der-amtseinfuehrung-von-donald-trump](https://www.spiegel.de/ausland/gianni-infantino-giorgia-meloni-tim-cook-co-diese-gaeste-ueberraschten-bei-der-amtseinfuehrung-von-donald-trump-a-db0e15d5-fda9-4359-8f9f-a8a11ef3e63f#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-inauguration-mit-familie-und-oligarchen](https://www.spiegel.de/ausland/donald-trump-inauguration-mit-familie-und-oligarchen-a-443787d8-daf5-46c3-8550-8fbfc36e1f10#ref=rss)
+### präsident
 
 * [https://www.spiegel.de/ausland/inauguration-von-donald-trump-klagen-gegen-aus-fuer-staatsangehoerigkeit-durch-geburt](https://www.spiegel.de/ausland/inauguration-von-donald-trump-klagen-gegen-aus-fuer-staatsangehoerigkeit-durch-geburt-a-0cd0246b-fb27-4725-a678-8d3c1383dc8d#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-nach-der-vereidigung-saebeltanz-und-dekrete-flut](https://www.spiegel.de/ausland/donald-trump-nach-der-vereidigung-saebeltanz-und-dekrete-flut-a-8e15318e-087c-40e5-95f4-76a659e73c1f#ref=rss)
-### haus
-
-* [https://www.spiegel.de/ausland/inauguration-von-donald-trump-klagen-gegen-aus-fuer-staatsangehoerigkeit-durch-geburt](https://www.spiegel.de/ausland/inauguration-von-donald-trump-klagen-gegen-aus-fuer-staatsangehoerigkeit-durch-geburt-a-0cd0246b-fb27-4725-a678-8d3c1383dc8d#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-nach-der-vereidigung-saebeltanz-und-dekrete-flut](https://www.spiegel.de/ausland/donald-trump-nach-der-vereidigung-saebeltanz-und-dekrete-flut-a-8e15318e-087c-40e5-95f4-76a659e73c1f#ref=rss)
-### tag
-
-* [https://www.spiegel.de/ausland/inauguration-von-donald-trump-klagen-gegen-aus-fuer-staatsangehoerigkeit-durch-geburt](https://www.spiegel.de/ausland/inauguration-von-donald-trump-klagen-gegen-aus-fuer-staatsangehoerigkeit-durch-geburt-a-0cd0246b-fb27-4725-a678-8d3c1383dc8d#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-nach-der-vereidigung-saebeltanz-und-dekrete-flut](https://www.spiegel.de/ausland/donald-trump-nach-der-vereidigung-saebeltanz-und-dekrete-flut-a-8e15318e-087c-40e5-95f4-76a659e73c1f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/donald-trump-so-reagieren-deutsche-politiker-auf-den-neuen-us-praesidenten-es-werden-vier-wilde-jahre](https://www.spiegel.de/politik/deutschland/donald-trump-so-reagieren-deutsche-politiker-auf-den-neuen-us-praesidenten-es-werden-vier-wilde-jahre-a-708ce4d0-cbf8-4c78-9ff1-99da216562be#ref=rss)
-### mindestens
-
-* [https://www.spiegel.de/ausland/inauguration-von-donald-trump-klagen-gegen-aus-fuer-staatsangehoerigkeit-durch-geburt](https://www.spiegel.de/ausland/inauguration-von-donald-trump-klagen-gegen-aus-fuer-staatsangehoerigkeit-durch-geburt-a-0cd0246b-fb27-4725-a678-8d3c1383dc8d#ref=rss)
-* [https://www.spiegel.de/panorama/tuerkei-mindestens-zehn-menschen-sterben-bei-hotelbrand](https://www.spiegel.de/panorama/tuerkei-mindestens-zehn-menschen-sterben-bei-hotelbrand-a-ca2fa8ba-e2cd-4a2c-b152-cf434230726b#ref=rss)
-### usa
-
-* [https://www.spiegel.de/panorama/usa-millionen-menschen-von-moeglichem-wintersturm-betroffen](https://www.spiegel.de/panorama/usa-millionen-menschen-von-moeglichem-wintersturm-betroffen-a-019b3269-120c-44a6-8e34-860cc6702f44#ref=rss)
-* [https://www.spiegel.de/ausland/usa-und-taliban-us-amerikaner-aus-taliban-haft-freigekommen](https://www.spiegel.de/ausland/usa-und-taliban-us-amerikaner-aus-taliban-haft-freigekommen-a-860511c7-8453-4547-9e9b-b895844ff3d2#ref=rss)
-### konnte
-
-* [https://www.spiegel.de/auto/darmstadt-e-scooter-konnte-80-km-h-fahren-ermittlungen-gegen-fahrer](https://www.spiegel.de/auto/darmstadt-e-scooter-konnte-80-km-h-fahren-ermittlungen-gegen-fahrer-a-75fa2a20-50f7-4206-a531-743ded1f5b44#ref=rss)
-* [https://www.spiegel.de/panorama/oesterreich-33-jaehrige-stirbt-kurz-unterhalb-des-gipfels-des-grossglockners](https://www.spiegel.de/panorama/oesterreich-33-jaehrige-stirbt-kurz-unterhalb-des-gipfels-des-grossglockners-a-d5b29a3f-bc75-449f-b017-494ea5e4c25c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/volker-wissing-ex-fdp-minister-will-durch-parteiaustritt-keine-freunde-verloren-haben](https://www.spiegel.de/politik/deutschland/volker-wissing-ex-fdp-minister-will-durch-parteiaustritt-keine-freunde-verloren-haben-a-a938efae-fb99-4e32-9657-1632396e2f82#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/panorama/justiz/woerrstadt-22-jaehriger-soll-16-jaehrige-mit-schuss-aus-illegaler-waffe-verletzt-haben](https://www.spiegel.de/panorama/justiz/woerrstadt-22-jaehriger-soll-16-jaehrige-mit-schuss-aus-illegaler-waffe-verletzt-haben-a-8a403d2a-1540-4c2c-9b98-247e7ff480ee#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/tiktok-trump-sichert-der-video-app-per-dekret-mehr-zeit-zu](https://www.spiegel.de/netzwelt/netzpolitik/tiktok-trump-sichert-der-video-app-per-dekret-mehr-zeit-zu-a-85fc1e56-430f-490f-863d-1f0ad26ff71c#ref=rss)
-* [https://www.spiegel.de/panorama/hochschulen-was-bedeutet-die-vereinbarung-zwischen-israel-und-der-hamas-fuer-die-uniproteste](https://www.spiegel.de/panorama/hochschulen-was-bedeutet-die-vereinbarung-zwischen-israel-und-der-hamas-fuer-die-uniproteste-a-129f829a-a19f-4a36-b1dd-c49ac19b439c#ref=rss)
-### vier
-
-* [https://www.spiegel.de/politik/deutschland/donald-trump-so-reagieren-deutsche-politiker-auf-den-neuen-us-praesidenten-es-werden-vier-wilde-jahre](https://www.spiegel.de/politik/deutschland/donald-trump-so-reagieren-deutsche-politiker-auf-den-neuen-us-praesidenten-es-werden-vier-wilde-jahre-a-708ce4d0-cbf8-4c78-9ff1-99da216562be#ref=rss)
-* [https://www.spiegel.de/wirtschaft/e-mobilitaet-und-kaufpraemien-interesse-an-e-autos-sinkt-nach-auslaufen-der-foerderung](https://www.spiegel.de/wirtschaft/e-mobilitaet-und-kaufpraemien-interesse-an-e-autos-sinkt-nach-auslaufen-der-foerderung-a-2fe8261e-0723-40ad-9298-3b8a7185d6c1#ref=rss)
-* [https://www.spiegel.de/familie/erziehung-in-der-pubertaet-wie-eltern-mit-ihren-kindern-ueber-pornos-sprechen-koennen](https://www.spiegel.de/familie/erziehung-in-der-pubertaet-wie-eltern-mit-ihren-kindern-ueber-pornos-sprechen-koennen-a-b88507fd-8756-4890-8bed-cd0f239797c4#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-inauguration-mit-familie-und-oligarchen](https://www.spiegel.de/ausland/donald-trump-inauguration-mit-familie-und-oligarchen-a-443787d8-daf5-46c3-8550-8fbfc36e1f10#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-und-sein-meme-coin-usdtrump-selbst-die-kryptobranche-haelt-das-fuer-abzocke](https://www.spiegel.de/wirtschaft/donald-trump-und-sein-meme-coin-usdtrump-selbst-die-kryptobranche-haelt-das-fuer-abzocke-a-849d813f-08c9-4078-9387-ff32715663de#ref=rss)
 ### jahre
 
-* [https://www.spiegel.de/politik/deutschland/donald-trump-so-reagieren-deutsche-politiker-auf-den-neuen-us-praesidenten-es-werden-vier-wilde-jahre](https://www.spiegel.de/politik/deutschland/donald-trump-so-reagieren-deutsche-politiker-auf-den-neuen-us-praesidenten-es-werden-vier-wilde-jahre-a-708ce4d0-cbf8-4c78-9ff1-99da216562be#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/volker-wissing-ex-fdp-minister-will-durch-parteiaustritt-keine-freunde-verloren-haben](https://www.spiegel.de/politik/deutschland/volker-wissing-ex-fdp-minister-will-durch-parteiaustritt-keine-freunde-verloren-haben-a-a938efae-fb99-4e32-9657-1632396e2f82#ref=rss)
-* [https://www.spiegel.de/panorama/leute/tippi-hedren-die-voegel-schauspielerin-feiert-95-geburtstag](https://www.spiegel.de/panorama/leute/tippi-hedren-die-voegel-schauspielerin-feiert-95-geburtstag-a-c20868cc-c211-4e35-987b-617a94811d99#ref=rss)
-### prozent
-
-* [https://www.spiegel.de/politik/deutschland/verteidigungsausgaben-friedrich-merz-will-zwei-prozent-des-bip-fuer-ruestung-ausgeben](https://www.spiegel.de/politik/deutschland/verteidigungsausgaben-friedrich-merz-will-zwei-prozent-des-bip-fuer-ruestung-ausgeben-a-6625d878-cf0a-4e01-aa61-2757c70cb56b#ref=rss)
-### macht
-
-* [https://www.spiegel.de/politik/deutschland/verteidigungsausgaben-friedrich-merz-will-zwei-prozent-des-bip-fuer-ruestung-ausgeben](https://www.spiegel.de/politik/deutschland/verteidigungsausgaben-friedrich-merz-will-zwei-prozent-des-bip-fuer-ruestung-ausgeben-a-6625d878-cf0a-4e01-aa61-2757c70cb56b#ref=rss)
-* [https://www.spiegel.de/auto/fahrberichte/nissan-silence-nanocar-im-test-das-elektromobil-fuer-zugeparkte-staedte](https://www.spiegel.de/auto/fahrberichte/nissan-silence-nanocar-im-test-das-elektromobil-fuer-zugeparkte-staedte-a-afd1ef6e-ed28-4fc3-a92a-2ef2795a9bf1#ref=rss)
-* [https://www.spiegel.de/familie/erziehung-in-der-pubertaet-wie-eltern-mit-ihren-kindern-ueber-pornos-sprechen-koennen](https://www.spiegel.de/familie/erziehung-in-der-pubertaet-wie-eltern-mit-ihren-kindern-ueber-pornos-sprechen-koennen-a-b88507fd-8756-4890-8bed-cd0f239797c4#ref=rss)
-### interesse
-
-* [https://www.spiegel.de/wirtschaft/e-mobilitaet-und-kaufpraemien-interesse-an-e-autos-sinkt-nach-auslaufen-der-foerderung](https://www.spiegel.de/wirtschaft/e-mobilitaet-und-kaufpraemien-interesse-an-e-autos-sinkt-nach-auslaufen-der-foerderung-a-2fe8261e-0723-40ad-9298-3b8a7185d6c1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/post-dhl-will-die-zahl-der-paketautomaten-auf-30-000-verdoppeln](https://www.spiegel.de/wirtschaft/post-dhl-will-die-zahl-der-paketautomaten-auf-30-000-verdoppeln-a-87ab582b-094f-4ad1-894c-370b7154e537#ref=rss)
-### zehn
-
-* [https://www.spiegel.de/panorama/tuerkei-mindestens-zehn-menschen-sterben-bei-hotelbrand](https://www.spiegel.de/panorama/tuerkei-mindestens-zehn-menschen-sterben-bei-hotelbrand-a-ca2fa8ba-e2cd-4a2c-b152-cf434230726b#ref=rss)
-* [https://www.spiegel.de/familie/erziehung-in-der-pubertaet-wie-eltern-mit-ihren-kindern-ueber-pornos-sprechen-koennen](https://www.spiegel.de/familie/erziehung-in-der-pubertaet-wie-eltern-mit-ihren-kindern-ueber-pornos-sprechen-koennen-a-b88507fd-8756-4890-8bed-cd0f239797c4#ref=rss)
+* [https://www.spiegel.de/sport/tennis/australian-open-novak-djokovic-schlaegt-carlos-alcaraz-und-trifft-auf-alexander-zverev](https://www.spiegel.de/sport/tennis/australian-open-novak-djokovic-schlaegt-carlos-alcaraz-und-trifft-auf-alexander-zverev-a-64d018b0-6dad-4637-864a-62922863bccb#ref=rss)
+* [https://www.spiegel.de/ausland/georgien-journalistin-drohen-bis-zu-sieben-jahre-haft-nach-ohrfeige-gegen-polizisten](https://www.spiegel.de/ausland/georgien-journalistin-drohen-bis-zu-sieben-jahre-haft-nach-ohrfeige-gegen-polizisten-a-9cb5d6e6-d34f-496a-a9f3-9fc79db2b11f#ref=rss)
 ### uspräsident
 
+* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-deutsche-autobauer-ruesten-sich-gegen-drohende-us-strafzoelle](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-deutsche-autobauer-ruesten-sich-gegen-drohende-us-strafzoelle-a-1a5f9983-6dba-473f-be48-4134f48042a7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-und-das-weltwirtschaftsforum-der-geist-von-davos](https://www.spiegel.de/wirtschaft/donald-trump-und-das-weltwirtschaftsforum-der-geist-von-davos-a-24aec6a8-9ae2-45b9-bba1-eeb5f4cc7890#ref=rss)
+### strafzölle
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-deutsche-autobauer-ruesten-sich-gegen-drohende-us-strafzoelle](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-deutsche-autobauer-ruesten-sich-gegen-drohende-us-strafzoelle-a-1a5f9983-6dba-473f-be48-4134f48042a7#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-inauguration-mit-familie-und-oligarchen](https://www.spiegel.de/ausland/donald-trump-inauguration-mit-familie-und-oligarchen-a-443787d8-daf5-46c3-8550-8fbfc36e1f10#ref=rss)
+### verhängen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-deutsche-autobauer-ruesten-sich-gegen-drohende-us-strafzoelle](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-deutsche-autobauer-ruesten-sich-gegen-drohende-us-strafzoelle-a-1a5f9983-6dba-473f-be48-4134f48042a7#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-inauguration-mit-familie-und-oligarchen](https://www.spiegel.de/ausland/donald-trump-inauguration-mit-familie-und-oligarchen-a-443787d8-daf5-46c3-8550-8fbfc36e1f10#ref=rss)
+### großen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-deutsche-autobauer-ruesten-sich-gegen-drohende-us-strafzoelle](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-deutsche-autobauer-ruesten-sich-gegen-drohende-us-strafzoelle-a-1a5f9983-6dba-473f-be48-4134f48042a7#ref=rss)
+* [https://www.spiegel.de/ausland/gianni-infantino-giorgia-meloni-tim-cook-co-diese-gaeste-ueberraschten-bei-der-amtseinfuehrung-von-donald-trump](https://www.spiegel.de/ausland/gianni-infantino-giorgia-meloni-tim-cook-co-diese-gaeste-ueberraschten-bei-der-amtseinfuehrung-von-donald-trump-a-db0e15d5-fda9-4359-8f9f-a8a11ef3e63f#ref=rss)
+### hunde
+
+* [https://www.spiegel.de/panorama/hunde-diese-fruehlingsblumen-sind-giftig-fuer-die-vierbeiner](https://www.spiegel.de/panorama/hunde-diese-fruehlingsblumen-sind-giftig-fuer-die-vierbeiner-a-50934b29-5bc0-47d9-b1d2-bbd097f1fd9a#ref=rss)
+### frühlingsblumen
+
+* [https://www.spiegel.de/panorama/hunde-diese-fruehlingsblumen-sind-giftig-fuer-die-vierbeiner](https://www.spiegel.de/panorama/hunde-diese-fruehlingsblumen-sind-giftig-fuer-die-vierbeiner-a-50934b29-5bc0-47d9-b1d2-bbd097f1fd9a#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/panorama/hunde-diese-fruehlingsblumen-sind-giftig-fuer-die-vierbeiner](https://www.spiegel.de/panorama/hunde-diese-fruehlingsblumen-sind-giftig-fuer-die-vierbeiner-a-50934b29-5bc0-47d9-b1d2-bbd097f1fd9a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/versicherungen-verbraucher-beschweren-sich-oefter-bei-schlichtungsstelle](https://www.spiegel.de/wirtschaft/versicherungen-verbraucher-beschweren-sich-oefter-bei-schlichtungsstelle-a-f271d0bc-e5f0-4fe7-93bb-0783ecaa5ad1#ref=rss)
+### sollte
+
+* [https://www.spiegel.de/panorama/hunde-diese-fruehlingsblumen-sind-giftig-fuer-die-vierbeiner](https://www.spiegel.de/panorama/hunde-diese-fruehlingsblumen-sind-giftig-fuer-die-vierbeiner-a-50934b29-5bc0-47d9-b1d2-bbd097f1fd9a#ref=rss)
+* [https://www.spiegel.de/ausland/fluechtlinge-in-deutschland-erlaubt-den-syrern-ihr-land-jetzt-zu-besuchen](https://www.spiegel.de/ausland/fluechtlinge-in-deutschland-erlaubt-den-syrern-ihr-land-jetzt-zu-besuchen-a-9d38dc0a-d85a-4f4e-96c7-c9e953ff011e#ref=rss)
+### museum
+
+* [https://www.spiegel.de/kultur/elon-musk-deutsches-museum-entfernt-bild-des-spacex-gruenders](https://www.spiegel.de/kultur/elon-musk-deutsches-museum-entfernt-bild-des-spacex-gruenders-a-dd796b64-8f5f-49f4-9eb9-be576e51fb0a#ref=rss)
+### entfernt
+
+* [https://www.spiegel.de/kultur/elon-musk-deutsches-museum-entfernt-bild-des-spacex-gruenders](https://www.spiegel.de/kultur/elon-musk-deutsches-museum-entfernt-bild-des-spacex-gruenders-a-dd796b64-8f5f-49f4-9eb9-be576e51fb0a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-und-das-weltwirtschaftsforum-der-geist-von-davos](https://www.spiegel.de/wirtschaft/donald-trump-und-das-weltwirtschaftsforum-der-geist-von-davos-a-24aec6a8-9ae2-45b9-bba1-eeb5f4cc7890#ref=rss)
+### bild
+
+* [https://www.spiegel.de/kultur/elon-musk-deutsches-museum-entfernt-bild-des-spacex-gruenders](https://www.spiegel.de/kultur/elon-musk-deutsches-museum-entfernt-bild-des-spacex-gruenders-a-dd796b64-8f5f-49f4-9eb9-be576e51fb0a#ref=rss)
+### deshalb
+
+* [https://www.spiegel.de/kultur/elon-musk-deutsches-museum-entfernt-bild-des-spacex-gruenders](https://www.spiegel.de/kultur/elon-musk-deutsches-museum-entfernt-bild-des-spacex-gruenders-a-dd796b64-8f5f-49f4-9eb9-be576e51fb0a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/erdgas-weltweiter-verbrauch-erreicht-2024-neuen-hoechststand](https://www.spiegel.de/wirtschaft/erdgas-weltweiter-verbrauch-erreicht-2024-neuen-hoechststand-a-81676559-8352-45b0-973a-2f1a1e170474#ref=rss)
+### onlinewahlkampf
+
+* [https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-hitler-memes-und-hetzvideos-fuer-den-online-wahlkampf](https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-hitler-memes-und-hetzvideos-fuer-den-online-wahlkampf-a-fc1b1b9b-66b1-4329-9362-c6e334719999#ref=rss)
+### verurteilt
+
+* [https://www.spiegel.de/panorama/justiz/koeln-gericht-verurteilt-mann-wegen-mordes-in-pakistan-verurteilt](https://www.spiegel.de/panorama/justiz/koeln-gericht-verurteilt-mann-wegen-mordes-in-pakistan-verurteilt-a-7e0d018d-70e1-459c-b3e0-a543404e1d21#ref=rss)
 * [https://www.spiegel.de/ausland/inauguration-von-donald-trump-klagen-gegen-aus-fuer-staatsangehoerigkeit-durch-geburt](https://www.spiegel.de/ausland/inauguration-von-donald-trump-klagen-gegen-aus-fuer-staatsangehoerigkeit-durch-geburt-a-0cd0246b-fb27-4725-a678-8d3c1383dc8d#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-der-47-us-praesident-tanzt-auf-drei-baellen-an-einem-abend](https://www.spiegel.de/ausland/donald-trump-der-47-us-praesident-tanzt-auf-drei-baellen-an-einem-abend-a-ff9dc501-39fa-4735-9691-a43f92a12fcf#ref=rss)
-### ersten
+### mordes
 
+* [https://www.spiegel.de/panorama/justiz/koeln-gericht-verurteilt-mann-wegen-mordes-in-pakistan-verurteilt](https://www.spiegel.de/panorama/justiz/koeln-gericht-verurteilt-mann-wegen-mordes-in-pakistan-verurteilt-a-7e0d018d-70e1-459c-b3e0-a543404e1d21#ref=rss)
+* [https://www.spiegel.de/panorama/hamburg-mordanklage-gegen-zwei-autofahrer-nach-unfalltod-von-kind](https://www.spiegel.de/panorama/hamburg-mordanklage-gegen-zwei-autofahrer-nach-unfalltod-von-kind-a-ebcca06b-796c-4453-9159-7d3356d1cde9#ref=rss)
+### selbst
+
+* [https://www.spiegel.de/panorama/justiz/koeln-gericht-verurteilt-mann-wegen-mordes-in-pakistan-verurteilt](https://www.spiegel.de/panorama/justiz/koeln-gericht-verurteilt-mann-wegen-mordes-in-pakistan-verurteilt-a-7e0d018d-70e1-459c-b3e0-a543404e1d21#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-und-sein-meme-coin-usdtrump-selbst-die-kryptobranche-haelt-das-fuer-abzocke](https://www.spiegel.de/wirtschaft/donald-trump-und-sein-meme-coin-usdtrump-selbst-die-kryptobranche-haelt-das-fuer-abzocke-a-849d813f-08c9-4078-9387-ff32715663de#ref=rss)
+### verkauf
+
+* [https://www.spiegel.de/panorama/justiz/koeln-gericht-verurteilt-mann-wegen-mordes-in-pakistan-verurteilt](https://www.spiegel.de/panorama/justiz/koeln-gericht-verurteilt-mann-wegen-mordes-in-pakistan-verurteilt-a-7e0d018d-70e1-459c-b3e0-a543404e1d21#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/schleswig-holstein-will-lachgas-verkauf-an-jugendliche-verbieten](https://www.spiegel.de/politik/deutschland/schleswig-holstein-will-lachgas-verkauf-an-jugendliche-verbieten-a-12bc5ac0-bd11-449b-b864-aafc247c03e4#ref=rss)
+### euro
+
+* [https://www.spiegel.de/panorama/justiz/koeln-gericht-verurteilt-mann-wegen-mordes-in-pakistan-verurteilt](https://www.spiegel.de/panorama/justiz/koeln-gericht-verurteilt-mann-wegen-mordes-in-pakistan-verurteilt-a-7e0d018d-70e1-459c-b3e0-a543404e1d21#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/lisa-paus-familienministerin-verteilt-millionen-an-zivilgesellschaftliche-projekte](https://www.spiegel.de/politik/deutschland/lisa-paus-familienministerin-verteilt-millionen-an-zivilgesellschaftliche-projekte-a-120f23fe-56f9-4710-a28b-ea3998592730#ref=rss)
+### frau
+
+* [https://www.spiegel.de/panorama/justiz/koeln-gericht-verurteilt-mann-wegen-mordes-in-pakistan-verurteilt](https://www.spiegel.de/panorama/justiz/koeln-gericht-verurteilt-mann-wegen-mordes-in-pakistan-verurteilt-a-7e0d018d-70e1-459c-b3e0-a543404e1d21#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-und-sein-meme-coin-usdtrump-selbst-die-kryptobranche-haelt-das-fuer-abzocke](https://www.spiegel.de/wirtschaft/donald-trump-und-sein-meme-coin-usdtrump-selbst-die-kryptobranche-haelt-das-fuer-abzocke-a-849d813f-08c9-4078-9387-ff32715663de#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/panorama/justiz/koeln-gericht-verurteilt-mann-wegen-mordes-in-pakistan-verurteilt](https://www.spiegel.de/panorama/justiz/koeln-gericht-verurteilt-mann-wegen-mordes-in-pakistan-verurteilt-a-7e0d018d-70e1-459c-b3e0-a543404e1d21#ref=rss)
+* [https://www.spiegel.de/panorama/reutlingen-zwei-tote-nach-gas-explosion-bei-bosch](https://www.spiegel.de/panorama/reutlingen-zwei-tote-nach-gas-explosion-bei-bosch-a-f42d6922-1b73-4be2-bcd1-de0bb24d7ae3#ref=rss)
+### rechtsextremist
+
+* [https://www.spiegel.de/ausland/rumaenien-rechtsextremist-calin-georgescu-verliert-vor-menschenrechtshof](https://www.spiegel.de/ausland/rumaenien-rechtsextremist-calin-georgescu-verliert-vor-menschenrechtshof-a-5531efac-5e5e-4d17-bdd6-001777f27c88#ref=rss)
 * [https://www.spiegel.de/ausland/inauguration-von-donald-trump-klagen-gegen-aus-fuer-staatsangehoerigkeit-durch-geburt](https://www.spiegel.de/ausland/inauguration-von-donald-trump-klagen-gegen-aus-fuer-staatsangehoerigkeit-durch-geburt-a-0cd0246b-fb27-4725-a678-8d3c1383dc8d#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-nach-der-vereidigung-saebeltanz-und-dekrete-flut](https://www.spiegel.de/ausland/donald-trump-nach-der-vereidigung-saebeltanz-und-dekrete-flut-a-8e15318e-087c-40e5-95f4-76a659e73c1f#ref=rss)
-### zurück
+### călin
 
+* [https://www.spiegel.de/ausland/rumaenien-rechtsextremist-calin-georgescu-verliert-vor-menschenrechtshof](https://www.spiegel.de/ausland/rumaenien-rechtsextremist-calin-georgescu-verliert-vor-menschenrechtshof-a-5531efac-5e5e-4d17-bdd6-001777f27c88#ref=rss)
+### georgescu
+
+* [https://www.spiegel.de/ausland/rumaenien-rechtsextremist-calin-georgescu-verliert-vor-menschenrechtshof](https://www.spiegel.de/ausland/rumaenien-rechtsextremist-calin-georgescu-verliert-vor-menschenrechtshof-a-5531efac-5e5e-4d17-bdd6-001777f27c88#ref=rss)
+### erst
+
+* [https://www.spiegel.de/ausland/rumaenien-rechtsextremist-calin-georgescu-verliert-vor-menschenrechtshof](https://www.spiegel.de/ausland/rumaenien-rechtsextremist-calin-georgescu-verliert-vor-menschenrechtshof-a-5531efac-5e5e-4d17-bdd6-001777f27c88#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-inauguration-mit-familie-und-oligarchen](https://www.spiegel.de/ausland/donald-trump-inauguration-mit-familie-und-oligarchen-a-443787d8-daf5-46c3-8550-8fbfc36e1f10#ref=rss)
+### tages
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-unglueck-in-der-tuerkei-gruene](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-unglueck-in-der-tuerkei-gruene-a-51c8dae1-319f-4d7d-a007-944d56bc2a4a#ref=rss)
 * [https://www.spiegel.de/ausland/inauguration-von-donald-trump-klagen-gegen-aus-fuer-staatsangehoerigkeit-durch-geburt](https://www.spiegel.de/ausland/inauguration-von-donald-trump-klagen-gegen-aus-fuer-staatsangehoerigkeit-durch-geburt-a-0cd0246b-fb27-4725-a678-8d3c1383dc8d#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-und-golden-state-warriors-verlieren-mit-40-punkten-gegen-boston-celtics](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-und-golden-state-warriors-verlieren-mit-40-punkten-gegen-boston-celtics-a-7ef5d80d-f169-44b9-bd2d-369d459d835a#ref=rss)
-### instagram
-
-* [https://www.spiegel.de/netzwelt/apps/hashtag-democrats-auf-instagram-nutzer-wundern-sich-ueber-unterdrueckte-suchtreffer](https://www.spiegel.de/netzwelt/apps/hashtag-democrats-auf-instagram-nutzer-wundern-sich-ueber-unterdrueckte-suchtreffer-a-035a68aa-0f6a-443c-8fbb-51f049012341#ref=rss)
-### nutzer
-
-* [https://www.spiegel.de/netzwelt/apps/hashtag-democrats-auf-instagram-nutzer-wundern-sich-ueber-unterdrueckte-suchtreffer](https://www.spiegel.de/netzwelt/apps/hashtag-democrats-auf-instagram-nutzer-wundern-sich-ueber-unterdrueckte-suchtreffer-a-035a68aa-0f6a-443c-8fbb-51f049012341#ref=rss)
-### stefan
-
-* [https://www.spiegel.de/politik/stefan-gelbhaar-oezcan-mutlu-verlaesst-gruene-wegen-gelbhaar-affaere](https://www.spiegel.de/politik/stefan-gelbhaar-oezcan-mutlu-verlaesst-gruene-wegen-gelbhaar-affaere-a-27124dd3-327b-46bb-9475-0dbbad7c4e82#ref=rss)
-### gelbhaar
-
-* [https://www.spiegel.de/politik/stefan-gelbhaar-oezcan-mutlu-verlaesst-gruene-wegen-gelbhaar-affaere](https://www.spiegel.de/politik/stefan-gelbhaar-oezcan-mutlu-verlaesst-gruene-wegen-gelbhaar-affaere-a-27124dd3-327b-46bb-9475-0dbbad7c4e82#ref=rss)
-### özcan
-
-* [https://www.spiegel.de/politik/stefan-gelbhaar-oezcan-mutlu-verlaesst-gruene-wegen-gelbhaar-affaere](https://www.spiegel.de/politik/stefan-gelbhaar-oezcan-mutlu-verlaesst-gruene-wegen-gelbhaar-affaere-a-27124dd3-327b-46bb-9475-0dbbad7c4e82#ref=rss)
-### mutlu
-
-* [https://www.spiegel.de/politik/stefan-gelbhaar-oezcan-mutlu-verlaesst-gruene-wegen-gelbhaar-affaere](https://www.spiegel.de/politik/stefan-gelbhaar-oezcan-mutlu-verlaesst-gruene-wegen-gelbhaar-affaere-a-27124dd3-327b-46bb-9475-0dbbad7c4e82#ref=rss)
-### partei
-
-* [https://www.spiegel.de/politik/stefan-gelbhaar-oezcan-mutlu-verlaesst-gruene-wegen-gelbhaar-affaere](https://www.spiegel.de/politik/stefan-gelbhaar-oezcan-mutlu-verlaesst-gruene-wegen-gelbhaar-affaere-a-27124dd3-327b-46bb-9475-0dbbad7c4e82#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/volker-wissing-ex-fdp-minister-will-durch-parteiaustritt-keine-freunde-verloren-haben](https://www.spiegel.de/politik/deutschland/volker-wissing-ex-fdp-minister-will-durch-parteiaustritt-keine-freunde-verloren-haben-a-a938efae-fb99-4e32-9657-1632396e2f82#ref=rss)
-### grund
-
-* [https://www.spiegel.de/politik/stefan-gelbhaar-oezcan-mutlu-verlaesst-gruene-wegen-gelbhaar-affaere](https://www.spiegel.de/politik/stefan-gelbhaar-oezcan-mutlu-verlaesst-gruene-wegen-gelbhaar-affaere-a-27124dd3-327b-46bb-9475-0dbbad7c4e82#ref=rss)
-* [https://www.spiegel.de/panorama/hochschulen-was-bedeutet-die-vereinbarung-zwischen-israel-und-der-hamas-fuer-die-uniproteste](https://www.spiegel.de/panorama/hochschulen-was-bedeutet-die-vereinbarung-zwischen-israel-und-der-hamas-fuer-die-uniproteste-a-129f829a-a19f-4a36-b1dd-c49ac19b439c#ref=rss)
-### welt
-
-* [https://www.spiegel.de/panorama/bildung/spiegel-bildungsnewsletter-bundesschuelerkonferenz-gegen-smartphone-bann](https://www.spiegel.de/panorama/bildung/spiegel-bildungsnewsletter-bundesschuelerkonferenz-gegen-smartphone-bann-a-e72ece15-bc3c-41ef-98e1-e66206a367b7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/elon-musk-will-die-us-buerokratie-auf-ein-minimum-zurechtstutzen-verspricht-er-zu-viel](https://www.spiegel.de/wirtschaft/elon-musk-will-die-us-buerokratie-auf-ein-minimum-zurechtstutzen-verspricht-er-zu-viel-a-7d5d2b2d-faf3-4fed-9c71-ddceb1a1ee89#ref=rss)
-### viele
-
-* [https://www.spiegel.de/panorama/bildung/spiegel-bildungsnewsletter-bundesschuelerkonferenz-gegen-smartphone-bann](https://www.spiegel.de/panorama/bildung/spiegel-bildungsnewsletter-bundesschuelerkonferenz-gegen-smartphone-bann-a-e72ece15-bc3c-41ef-98e1-e66206a367b7#ref=rss)
-* [https://www.spiegel.de/panorama/hochschulen-was-bedeutet-die-vereinbarung-zwischen-israel-und-der-hamas-fuer-die-uniproteste](https://www.spiegel.de/panorama/hochschulen-was-bedeutet-die-vereinbarung-zwischen-israel-und-der-hamas-fuer-die-uniproteste-a-129f829a-a19f-4a36-b1dd-c49ac19b439c#ref=rss)
-### gerade
-
-* [https://www.spiegel.de/panorama/bildung/spiegel-bildungsnewsletter-bundesschuelerkonferenz-gegen-smartphone-bann](https://www.spiegel.de/panorama/bildung/spiegel-bildungsnewsletter-bundesschuelerkonferenz-gegen-smartphone-bann-a-e72ece15-bc3c-41ef-98e1-e66206a367b7#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-der-47-us-praesident-tanzt-auf-drei-baellen-an-einem-abend](https://www.spiegel.de/ausland/donald-trump-der-47-us-praesident-tanzt-auf-drei-baellen-an-einem-abend-a-ff9dc501-39fa-4735-9691-a43f92a12fcf#ref=rss)
-### betroffen
-
-* [https://www.spiegel.de/panorama/usa-millionen-menschen-von-moeglichem-wintersturm-betroffen](https://www.spiegel.de/panorama/usa-millionen-menschen-von-moeglichem-wintersturm-betroffen-a-019b3269-120c-44a6-8e34-860cc6702f44#ref=rss)
-### fünf
-
-* [https://www.spiegel.de/panorama/usa-millionen-menschen-von-moeglichem-wintersturm-betroffen](https://www.spiegel.de/panorama/usa-millionen-menschen-von-moeglichem-wintersturm-betroffen-a-019b3269-120c-44a6-8e34-860cc6702f44#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/verteidigungsausgaben-friedrich-merz-will-zwei-prozent-des-bip-fuer-ruestung-ausgeben](https://www.spiegel.de/politik/deutschland/verteidigungsausgaben-friedrich-merz-will-zwei-prozent-des-bip-fuer-ruestung-ausgeben-a-6625d878-cf0a-4e01-aa61-2757c70cb56b#ref=rss)
-### taliban
-
-* [https://www.spiegel.de/ausland/usa-und-taliban-us-amerikaner-aus-taliban-haft-freigekommen](https://www.spiegel.de/ausland/usa-und-taliban-us-amerikaner-aus-taliban-haft-freigekommen-a-860511c7-8453-4547-9e9b-b895844ff3d2#ref=rss)
-### usamerikaner
-
-* [https://www.spiegel.de/ausland/usa-und-taliban-us-amerikaner-aus-taliban-haft-freigekommen](https://www.spiegel.de/ausland/usa-und-taliban-us-amerikaner-aus-taliban-haft-freigekommen-a-860511c7-8453-4547-9e9b-b895844ff3d2#ref=rss)
-* [https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-siegt-im-viertelfinale-gegen-tommy-paul](https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-siegt-im-viertelfinale-gegen-tommy-paul-a-bf72b87a-77cf-4d89-9d94-85fc3dafca08#ref=rss)
-### freigekommen
-
-* [https://www.spiegel.de/ausland/usa-und-taliban-us-amerikaner-aus-taliban-haft-freigekommen](https://www.spiegel.de/ausland/usa-und-taliban-us-amerikaner-aus-taliban-haft-freigekommen-a-860511c7-8453-4547-9e9b-b895844ff3d2#ref=rss)
-### escooter
-
-* [https://www.spiegel.de/auto/darmstadt-e-scooter-konnte-80-km-h-fahren-ermittlungen-gegen-fahrer](https://www.spiegel.de/auto/darmstadt-e-scooter-konnte-80-km-h-fahren-ermittlungen-gegen-fahrer-a-75fa2a20-50f7-4206-a531-743ded1f5b44#ref=rss)
-### fahrer
-
-* [https://www.spiegel.de/auto/darmstadt-e-scooter-konnte-80-km-h-fahren-ermittlungen-gegen-fahrer](https://www.spiegel.de/auto/darmstadt-e-scooter-konnte-80-km-h-fahren-ermittlungen-gegen-fahrer-a-75fa2a20-50f7-4206-a531-743ded1f5b44#ref=rss)
-### etwas
-
-* [https://www.spiegel.de/auto/darmstadt-e-scooter-konnte-80-km-h-fahren-ermittlungen-gegen-fahrer](https://www.spiegel.de/auto/darmstadt-e-scooter-konnte-80-km-h-fahren-ermittlungen-gegen-fahrer-a-75fa2a20-50f7-4206-a531-743ded1f5b44#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/verteidigungsausgaben-friedrich-merz-will-zwei-prozent-des-bip-fuer-ruestung-ausgeben](https://www.spiegel.de/politik/deutschland/verteidigungsausgaben-friedrich-merz-will-zwei-prozent-des-bip-fuer-ruestung-ausgeben-a-6625d878-cf0a-4e01-aa61-2757c70cb56b#ref=rss)
-### wörrstadt
-
-* [https://www.spiegel.de/panorama/justiz/woerrstadt-22-jaehriger-soll-16-jaehrige-mit-schuss-aus-illegaler-waffe-verletzt-haben](https://www.spiegel.de/panorama/justiz/woerrstadt-22-jaehriger-soll-16-jaehrige-mit-schuss-aus-illegaler-waffe-verletzt-haben-a-8a403d2a-1540-4c2c-9b98-247e7ff480ee#ref=rss)
-### 16jährige
-
-* [https://www.spiegel.de/panorama/justiz/woerrstadt-22-jaehriger-soll-16-jaehrige-mit-schuss-aus-illegaler-waffe-verletzt-haben](https://www.spiegel.de/panorama/justiz/woerrstadt-22-jaehriger-soll-16-jaehrige-mit-schuss-aus-illegaler-waffe-verletzt-haben-a-8a403d2a-1540-4c2c-9b98-247e7ff480ee#ref=rss)
-### schuss
-
-* [https://www.spiegel.de/panorama/justiz/woerrstadt-22-jaehriger-soll-16-jaehrige-mit-schuss-aus-illegaler-waffe-verletzt-haben](https://www.spiegel.de/panorama/justiz/woerrstadt-22-jaehriger-soll-16-jaehrige-mit-schuss-aus-illegaler-waffe-verletzt-haben-a-8a403d2a-1540-4c2c-9b98-247e7ff480ee#ref=rss)
-### waffe
-
-* [https://www.spiegel.de/panorama/justiz/woerrstadt-22-jaehriger-soll-16-jaehrige-mit-schuss-aus-illegaler-waffe-verletzt-haben](https://www.spiegel.de/panorama/justiz/woerrstadt-22-jaehriger-soll-16-jaehrige-mit-schuss-aus-illegaler-waffe-verletzt-haben-a-8a403d2a-1540-4c2c-9b98-247e7ff480ee#ref=rss)
-### verletzt
-
-* [https://www.spiegel.de/panorama/justiz/woerrstadt-22-jaehriger-soll-16-jaehrige-mit-schuss-aus-illegaler-waffe-verletzt-haben](https://www.spiegel.de/panorama/justiz/woerrstadt-22-jaehriger-soll-16-jaehrige-mit-schuss-aus-illegaler-waffe-verletzt-haben-a-8a403d2a-1540-4c2c-9b98-247e7ff480ee#ref=rss)
-* [https://www.spiegel.de/panorama/tuerkei-mindestens-zehn-menschen-sterben-bei-hotelbrand](https://www.spiegel.de/panorama/tuerkei-mindestens-zehn-menschen-sterben-bei-hotelbrand-a-ca2fa8ba-e2cd-4a2c-b152-cf434230726b#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/justiz/woerrstadt-22-jaehriger-soll-16-jaehrige-mit-schuss-aus-illegaler-waffe-verletzt-haben](https://www.spiegel.de/panorama/justiz/woerrstadt-22-jaehriger-soll-16-jaehrige-mit-schuss-aus-illegaler-waffe-verletzt-haben-a-8a403d2a-1540-4c2c-9b98-247e7ff480ee#ref=rss)
-* [https://www.spiegel.de/wirtschaft/elon-musk-will-die-us-buerokratie-auf-ein-minimum-zurechtstutzen-verspricht-er-zu-viel](https://www.spiegel.de/wirtschaft/elon-musk-will-die-us-buerokratie-auf-ein-minimum-zurechtstutzen-verspricht-er-zu-viel-a-7d5d2b2d-faf3-4fed-9c71-ddceb1a1ee89#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/ausland/donald-trump-nach-der-vereidigung-saebeltanz-und-dekrete-flut](https://www.spiegel.de/ausland/donald-trump-nach-der-vereidigung-saebeltanz-und-dekrete-flut-a-8e15318e-087c-40e5-95f4-76a659e73c1f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/e-mobilitaet-und-kaufpraemien-interesse-an-e-autos-sinkt-nach-auslaufen-der-foerderung](https://www.spiegel.de/wirtschaft/e-mobilitaet-und-kaufpraemien-interesse-an-e-autos-sinkt-nach-auslaufen-der-foerderung-a-2fe8261e-0723-40ad-9298-3b8a7185d6c1#ref=rss)
-### künstlicher
-
-* [https://www.spiegel.de/netzwelt/trump-streicht-vorgaben-fuer-kontrolle-von-kuenstlicher-intelligenz](https://www.spiegel.de/netzwelt/trump-streicht-vorgaben-fuer-kontrolle-von-kuenstlicher-intelligenz-a-fbed93e3-fe70-46f3-ab1e-891d7b81714f#ref=rss)
-### intelligenz
-
-* [https://www.spiegel.de/netzwelt/trump-streicht-vorgaben-fuer-kontrolle-von-kuenstlicher-intelligenz](https://www.spiegel.de/netzwelt/trump-streicht-vorgaben-fuer-kontrolle-von-kuenstlicher-intelligenz-a-fbed93e3-fe70-46f3-ab1e-891d7b81714f#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/netzwelt/trump-streicht-vorgaben-fuer-kontrolle-von-kuenstlicher-intelligenz](https://www.spiegel.de/netzwelt/trump-streicht-vorgaben-fuer-kontrolle-von-kuenstlicher-intelligenz-a-fbed93e3-fe70-46f3-ab1e-891d7b81714f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/donald-trump-so-reagieren-deutsche-politiker-auf-den-neuen-us-praesidenten-es-werden-vier-wilde-jahre](https://www.spiegel.de/politik/deutschland/donald-trump-so-reagieren-deutsche-politiker-auf-den-neuen-us-praesidenten-es-werden-vier-wilde-jahre-a-708ce4d0-cbf8-4c78-9ff1-99da216562be#ref=rss)
-### uspräsidenten
-
-* [https://www.spiegel.de/netzwelt/trump-streicht-vorgaben-fuer-kontrolle-von-kuenstlicher-intelligenz](https://www.spiegel.de/netzwelt/trump-streicht-vorgaben-fuer-kontrolle-von-kuenstlicher-intelligenz-a-fbed93e3-fe70-46f3-ab1e-891d7b81714f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/donald-trump-so-reagieren-deutsche-politiker-auf-den-neuen-us-praesidenten-es-werden-vier-wilde-jahre](https://www.spiegel.de/politik/deutschland/donald-trump-so-reagieren-deutsche-politiker-auf-den-neuen-us-praesidenten-es-werden-vier-wilde-jahre-a-708ce4d0-cbf8-4c78-9ff1-99da216562be#ref=rss)
-### dekret
-
-* [https://www.spiegel.de/netzwelt/trump-streicht-vorgaben-fuer-kontrolle-von-kuenstlicher-intelligenz](https://www.spiegel.de/netzwelt/trump-streicht-vorgaben-fuer-kontrolle-von-kuenstlicher-intelligenz-a-fbed93e3-fe70-46f3-ab1e-891d7b81714f#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/tiktok-trump-sichert-der-video-app-per-dekret-mehr-zeit-zu](https://www.spiegel.de/netzwelt/netzpolitik/tiktok-trump-sichert-der-video-app-per-dekret-mehr-zeit-zu-a-85fc1e56-430f-490f-863d-1f0ad26ff71c#ref=rss)
-### sollten
-
-* [https://www.spiegel.de/netzwelt/trump-streicht-vorgaben-fuer-kontrolle-von-kuenstlicher-intelligenz](https://www.spiegel.de/netzwelt/trump-streicht-vorgaben-fuer-kontrolle-von-kuenstlicher-intelligenz-a-fbed93e3-fe70-46f3-ab1e-891d7b81714f#ref=rss)
-* [https://www.spiegel.de/familie/erziehung-in-der-pubertaet-wie-eltern-mit-ihren-kindern-ueber-pornos-sprechen-koennen](https://www.spiegel.de/familie/erziehung-in-der-pubertaet-wie-eltern-mit-ihren-kindern-ueber-pornos-sprechen-koennen-a-b88507fd-8756-4890-8bed-cd0f239797c4#ref=rss)
-### geben
-
-* [https://www.spiegel.de/politik/deutschland/donald-trump-so-reagieren-deutsche-politiker-auf-den-neuen-us-praesidenten-es-werden-vier-wilde-jahre](https://www.spiegel.de/politik/deutschland/donald-trump-so-reagieren-deutsche-politiker-auf-den-neuen-us-praesidenten-es-werden-vier-wilde-jahre-a-708ce4d0-cbf8-4c78-9ff1-99da216562be#ref=rss)
-* [https://www.spiegel.de/familie/erziehung-in-der-pubertaet-wie-eltern-mit-ihren-kindern-ueber-pornos-sprechen-koennen](https://www.spiegel.de/familie/erziehung-in-der-pubertaet-wie-eltern-mit-ihren-kindern-ueber-pornos-sprechen-koennen-a-b88507fd-8756-4890-8bed-cd0f239797c4#ref=rss)
-### drei
-
-* [https://www.spiegel.de/ausland/donald-trump-der-47-us-praesident-tanzt-auf-drei-baellen-an-einem-abend](https://www.spiegel.de/ausland/donald-trump-der-47-us-praesident-tanzt-auf-drei-baellen-an-einem-abend-a-ff9dc501-39fa-4735-9691-a43f92a12fcf#ref=rss)
-### feiert
-
-* [https://www.spiegel.de/ausland/donald-trump-der-47-us-praesident-tanzt-auf-drei-baellen-an-einem-abend](https://www.spiegel.de/ausland/donald-trump-der-47-us-praesident-tanzt-auf-drei-baellen-an-einem-abend-a-ff9dc501-39fa-4735-9691-a43f92a12fcf#ref=rss)
-* [https://www.spiegel.de/panorama/leute/tippi-hedren-die-voegel-schauspielerin-feiert-95-geburtstag](https://www.spiegel.de/panorama/leute/tippi-hedren-die-voegel-schauspielerin-feiert-95-geburtstag-a-c20868cc-c211-4e35-987b-617a94811d99#ref=rss)
-### usbürokratie
-
-* [https://www.spiegel.de/wirtschaft/elon-musk-will-die-us-buerokratie-auf-ein-minimum-zurechtstutzen-verspricht-er-zu-viel](https://www.spiegel.de/wirtschaft/elon-musk-will-die-us-buerokratie-auf-ein-minimum-zurechtstutzen-verspricht-er-zu-viel-a-7d5d2b2d-faf3-4fed-9c71-ddceb1a1ee89#ref=rss)
-### minimum
-
-* [https://www.spiegel.de/wirtschaft/elon-musk-will-die-us-buerokratie-auf-ein-minimum-zurechtstutzen-verspricht-er-zu-viel](https://www.spiegel.de/wirtschaft/elon-musk-will-die-us-buerokratie-auf-ein-minimum-zurechtstutzen-verspricht-er-zu-viel-a-7d5d2b2d-faf3-4fed-9c71-ddceb1a1ee89#ref=rss)
-### zurechtstutzen
-
-* [https://www.spiegel.de/wirtschaft/elon-musk-will-die-us-buerokratie-auf-ein-minimum-zurechtstutzen-verspricht-er-zu-viel](https://www.spiegel.de/wirtschaft/elon-musk-will-die-us-buerokratie-auf-ein-minimum-zurechtstutzen-verspricht-er-zu-viel-a-7d5d2b2d-faf3-4fed-9c71-ddceb1a1ee89#ref=rss)
-### verspricht
-
-* [https://www.spiegel.de/wirtschaft/elon-musk-will-die-us-buerokratie-auf-ein-minimum-zurechtstutzen-verspricht-er-zu-viel](https://www.spiegel.de/wirtschaft/elon-musk-will-die-us-buerokratie-auf-ein-minimum-zurechtstutzen-verspricht-er-zu-viel-a-7d5d2b2d-faf3-4fed-9c71-ddceb1a1ee89#ref=rss)
-### tiktok
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/tiktok-trump-sichert-der-video-app-per-dekret-mehr-zeit-zu](https://www.spiegel.de/netzwelt/netzpolitik/tiktok-trump-sichert-der-video-app-per-dekret-mehr-zeit-zu-a-85fc1e56-430f-490f-863d-1f0ad26ff71c#ref=rss)
-### volker
-
-* [https://www.spiegel.de/politik/deutschland/volker-wissing-ex-fdp-minister-will-durch-parteiaustritt-keine-freunde-verloren-haben](https://www.spiegel.de/politik/deutschland/volker-wissing-ex-fdp-minister-will-durch-parteiaustritt-keine-freunde-verloren-haben-a-a938efae-fb99-4e32-9657-1632396e2f82#ref=rss)
-### wissing
-
-* [https://www.spiegel.de/politik/deutschland/volker-wissing-ex-fdp-minister-will-durch-parteiaustritt-keine-freunde-verloren-haben](https://www.spiegel.de/politik/deutschland/volker-wissing-ex-fdp-minister-will-durch-parteiaustritt-keine-freunde-verloren-haben-a-a938efae-fb99-4e32-9657-1632396e2f82#ref=rss)
-### verloren
-
-* [https://www.spiegel.de/politik/deutschland/volker-wissing-ex-fdp-minister-will-durch-parteiaustritt-keine-freunde-verloren-haben](https://www.spiegel.de/politik/deutschland/volker-wissing-ex-fdp-minister-will-durch-parteiaustritt-keine-freunde-verloren-haben-a-a938efae-fb99-4e32-9657-1632396e2f82#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-und-golden-state-warriors-verlieren-mit-40-punkten-gegen-boston-celtics](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-und-golden-state-warriors-verlieren-mit-40-punkten-gegen-boston-celtics-a-7ef5d80d-f169-44b9-bd2d-369d459d835a#ref=rss)
-### ende
-
-* [https://www.spiegel.de/politik/deutschland/volker-wissing-ex-fdp-minister-will-durch-parteiaustritt-keine-freunde-verloren-haben](https://www.spiegel.de/politik/deutschland/volker-wissing-ex-fdp-minister-will-durch-parteiaustritt-keine-freunde-verloren-haben-a-a938efae-fb99-4e32-9657-1632396e2f82#ref=rss)
-* [https://www.spiegel.de/wirtschaft/e-mobilitaet-und-kaufpraemien-interesse-an-e-autos-sinkt-nach-auslaufen-der-foerderung](https://www.spiegel.de/wirtschaft/e-mobilitaet-und-kaufpraemien-interesse-an-e-autos-sinkt-nach-auslaufen-der-foerderung-a-2fe8261e-0723-40ad-9298-3b8a7185d6c1#ref=rss)
-### tippi
-
-* [https://www.spiegel.de/panorama/leute/tippi-hedren-die-voegel-schauspielerin-feiert-95-geburtstag](https://www.spiegel.de/panorama/leute/tippi-hedren-die-voegel-schauspielerin-feiert-95-geburtstag-a-c20868cc-c211-4e35-987b-617a94811d99#ref=rss)
-### hedren
-
-* [https://www.spiegel.de/panorama/leute/tippi-hedren-die-voegel-schauspielerin-feiert-95-geburtstag](https://www.spiegel.de/panorama/leute/tippi-hedren-die-voegel-schauspielerin-feiert-95-geburtstag-a-c20868cc-c211-4e35-987b-617a94811d99#ref=rss)
-### 95
-
-* [https://www.spiegel.de/panorama/leute/tippi-hedren-die-voegel-schauspielerin-feiert-95-geburtstag](https://www.spiegel.de/panorama/leute/tippi-hedren-die-voegel-schauspielerin-feiert-95-geburtstag-a-c20868cc-c211-4e35-987b-617a94811d99#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/panorama/leute/tippi-hedren-die-voegel-schauspielerin-feiert-95-geburtstag](https://www.spiegel.de/panorama/leute/tippi-hedren-die-voegel-schauspielerin-feiert-95-geburtstag-a-c20868cc-c211-4e35-987b-617a94811d99#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-und-golden-state-warriors-verlieren-mit-40-punkten-gegen-boston-celtics](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-und-golden-state-warriors-verlieren-mit-40-punkten-gegen-boston-celtics-a-7ef5d80d-f169-44b9-bd2d-369d459d835a#ref=rss)
-### dennis
-
-* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-und-golden-state-warriors-verlieren-mit-40-punkten-gegen-boston-celtics](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-und-golden-state-warriors-verlieren-mit-40-punkten-gegen-boston-celtics-a-7ef5d80d-f169-44b9-bd2d-369d459d835a#ref=rss)
-### schröder
-
-* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-und-golden-state-warriors-verlieren-mit-40-punkten-gegen-boston-celtics](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-und-golden-state-warriors-verlieren-mit-40-punkten-gegen-boston-celtics-a-7ef5d80d-f169-44b9-bd2d-369d459d835a#ref=rss)
-### golden
-
-* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-und-golden-state-warriors-verlieren-mit-40-punkten-gegen-boston-celtics](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-und-golden-state-warriors-verlieren-mit-40-punkten-gegen-boston-celtics-a-7ef5d80d-f169-44b9-bd2d-369d459d835a#ref=rss)
-### state
-
-* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-und-golden-state-warriors-verlieren-mit-40-punkten-gegen-boston-celtics](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-und-golden-state-warriors-verlieren-mit-40-punkten-gegen-boston-celtics-a-7ef5d80d-f169-44b9-bd2d-369d459d835a#ref=rss)
-### warriors
-
-* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-und-golden-state-warriors-verlieren-mit-40-punkten-gegen-boston-celtics](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-und-golden-state-warriors-verlieren-mit-40-punkten-gegen-boston-celtics-a-7ef5d80d-f169-44b9-bd2d-369d459d835a#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/verteidigungsausgaben-friedrich-merz-will-zwei-prozent-des-bip-fuer-ruestung-ausgeben](https://www.spiegel.de/politik/deutschland/verteidigungsausgaben-friedrich-merz-will-zwei-prozent-des-bip-fuer-ruestung-ausgeben-a-6625d878-cf0a-4e01-aa61-2757c70cb56b#ref=rss)
-### eautos
-
-* [https://www.spiegel.de/wirtschaft/e-mobilitaet-und-kaufpraemien-interesse-an-e-autos-sinkt-nach-auslaufen-der-foerderung](https://www.spiegel.de/wirtschaft/e-mobilitaet-und-kaufpraemien-interesse-an-e-autos-sinkt-nach-auslaufen-der-foerderung-a-2fe8261e-0723-40ad-9298-3b8a7185d6c1#ref=rss)
-### alexander
-
-* [https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-siegt-im-viertelfinale-gegen-tommy-paul](https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-siegt-im-viertelfinale-gegen-tommy-paul-a-bf72b87a-77cf-4d89-9d94-85fc3dafca08#ref=rss)
-### zverev
-
-* [https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-siegt-im-viertelfinale-gegen-tommy-paul](https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-siegt-im-viertelfinale-gegen-tommy-paul-a-bf72b87a-77cf-4d89-9d94-85fc3dafca08#ref=rss)
-### tommy
-
-* [https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-siegt-im-viertelfinale-gegen-tommy-paul](https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-siegt-im-viertelfinale-gegen-tommy-paul-a-bf72b87a-77cf-4d89-9d94-85fc3dafca08#ref=rss)
-### paul
-
-* [https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-siegt-im-viertelfinale-gegen-tommy-paul](https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-siegt-im-viertelfinale-gegen-tommy-paul-a-bf72b87a-77cf-4d89-9d94-85fc3dafca08#ref=rss)
-### danny
-
-* [https://www.spiegel.de/panorama/leute/danny-devito-gibt-kryptische-erziehungstipps](https://www.spiegel.de/panorama/leute/danny-devito-gibt-kryptische-erziehungstipps-a-d3d91522-3d0e-4f6d-9d67-f98d024b20ce#ref=rss)
-### devito
-
-* [https://www.spiegel.de/panorama/leute/danny-devito-gibt-kryptische-erziehungstipps](https://www.spiegel.de/panorama/leute/danny-devito-gibt-kryptische-erziehungstipps-a-d3d91522-3d0e-4f6d-9d67-f98d024b20ce#ref=rss)
 ### türkei
 
-* [https://www.spiegel.de/panorama/tuerkei-mindestens-zehn-menschen-sterben-bei-hotelbrand](https://www.spiegel.de/panorama/tuerkei-mindestens-zehn-menschen-sterben-bei-hotelbrand-a-ca2fa8ba-e2cd-4a2c-b152-cf434230726b#ref=rss)
-### dhl
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-unglueck-in-der-tuerkei-gruene](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-unglueck-in-der-tuerkei-gruene-a-51c8dae1-319f-4d7d-a007-944d56bc2a4a#ref=rss)
+### tag
 
-* [https://www.spiegel.de/wirtschaft/post-dhl-will-die-zahl-der-paketautomaten-auf-30-000-verdoppeln](https://www.spiegel.de/wirtschaft/post-dhl-will-die-zahl-der-paketautomaten-auf-30-000-verdoppeln-a-87ab582b-094f-4ad1-894c-370b7154e537#ref=rss)
-### zahl
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-unglueck-in-der-tuerkei-gruene](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-unglueck-in-der-tuerkei-gruene-a-51c8dae1-319f-4d7d-a007-944d56bc2a4a#ref=rss)
+* [https://www.spiegel.de/ausland/gianni-infantino-giorgia-meloni-tim-cook-co-diese-gaeste-ueberraschten-bei-der-amtseinfuehrung-von-donald-trump](https://www.spiegel.de/ausland/gianni-infantino-giorgia-meloni-tim-cook-co-diese-gaeste-ueberraschten-bei-der-amtseinfuehrung-von-donald-trump-a-db0e15d5-fda9-4359-8f9f-a8a11ef3e63f#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/wirtschaft/post-dhl-will-die-zahl-der-paketautomaten-auf-30-000-verdoppeln](https://www.spiegel.de/wirtschaft/post-dhl-will-die-zahl-der-paketautomaten-auf-30-000-verdoppeln-a-87ab582b-094f-4ad1-894c-370b7154e537#ref=rss)
-### 30000
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-unglueck-in-der-tuerkei-gruene](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-unglueck-in-der-tuerkei-gruene-a-51c8dae1-319f-4d7d-a007-944d56bc2a4a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/erdgas-weltweiter-verbrauch-erreicht-2024-neuen-hoechststand](https://www.spiegel.de/wirtschaft/erdgas-weltweiter-verbrauch-erreicht-2024-neuen-hoechststand-a-81676559-8352-45b0-973a-2f1a1e170474#ref=rss)
+### gründer
 
-* [https://www.spiegel.de/wirtschaft/post-dhl-will-die-zahl-der-paketautomaten-auf-30-000-verdoppeln](https://www.spiegel.de/wirtschaft/post-dhl-will-die-zahl-der-paketautomaten-auf-30-000-verdoppeln-a-87ab582b-094f-4ad1-894c-370b7154e537#ref=rss)
-### verdoppeln
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-unglueck-in-der-tuerkei-gruene](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-unglueck-in-der-tuerkei-gruene-a-51c8dae1-319f-4d7d-a007-944d56bc2a4a#ref=rss)
+* [https://www.spiegel.de/ausland/inauguration-von-donald-trump-klagen-gegen-aus-fuer-staatsangehoerigkeit-durch-geburt](https://www.spiegel.de/ausland/inauguration-von-donald-trump-klagen-gegen-aus-fuer-staatsangehoerigkeit-durch-geburt-a-0cd0246b-fb27-4725-a678-8d3c1383dc8d#ref=rss)
+### rechtsextremen
 
-* [https://www.spiegel.de/wirtschaft/post-dhl-will-die-zahl-der-paketautomaten-auf-30-000-verdoppeln](https://www.spiegel.de/wirtschaft/post-dhl-will-die-zahl-der-paketautomaten-auf-30-000-verdoppeln-a-87ab582b-094f-4ad1-894c-370b7154e537#ref=rss)
-### muhammad
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-unglueck-in-der-tuerkei-gruene](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-unglueck-in-der-tuerkei-gruene-a-51c8dae1-319f-4d7d-a007-944d56bc2a4a#ref=rss)
+* [https://www.spiegel.de/ausland/inauguration-von-donald-trump-klagen-gegen-aus-fuer-staatsangehoerigkeit-durch-geburt](https://www.spiegel.de/ausland/inauguration-von-donald-trump-klagen-gegen-aus-fuer-staatsangehoerigkeit-durch-geburt-a-0cd0246b-fb27-4725-a678-8d3c1383dc8d#ref=rss)
+### schleswigholstein
 
-* [https://www.spiegel.de/panorama/muhammad-ali-als-die-box-legende-werbung-fuer-capri-sonne-machte](https://www.spiegel.de/panorama/muhammad-ali-als-die-box-legende-werbung-fuer-capri-sonne-machte-a-5a63845a-291e-40f3-8b68-4878caa17ea6#ref=rss)
-### ali
+* [https://www.spiegel.de/politik/deutschland/schleswig-holstein-will-lachgas-verkauf-an-jugendliche-verbieten](https://www.spiegel.de/politik/deutschland/schleswig-holstein-will-lachgas-verkauf-an-jugendliche-verbieten-a-12bc5ac0-bd11-449b-b864-aafc247c03e4#ref=rss)
+### verbieten
 
-* [https://www.spiegel.de/panorama/muhammad-ali-als-die-box-legende-werbung-fuer-capri-sonne-machte](https://www.spiegel.de/panorama/muhammad-ali-als-die-box-legende-werbung-fuer-capri-sonne-machte-a-5a63845a-291e-40f3-8b68-4878caa17ea6#ref=rss)
-### spiegelleser
+* [https://www.spiegel.de/politik/deutschland/schleswig-holstein-will-lachgas-verkauf-an-jugendliche-verbieten](https://www.spiegel.de/politik/deutschland/schleswig-holstein-will-lachgas-verkauf-an-jugendliche-verbieten-a-12bc5ac0-bd11-449b-b864-aafc247c03e4#ref=rss)
+### friedrich
 
-* [https://www.spiegel.de/panorama/muhammad-ali-als-die-box-legende-werbung-fuer-capri-sonne-machte](https://www.spiegel.de/panorama/muhammad-ali-als-die-box-legende-werbung-fuer-capri-sonne-machte-a-5a63845a-291e-40f3-8b68-4878caa17ea6#ref=rss)
-* [https://www.spiegel.de/reise/fernweh/allein-reisen-ich-kann-so-lange-im-cafe-sitzen-wie-ich-will-ohne-mich-rechtfertigen-zu-muessen](https://www.spiegel.de/reise/fernweh/allein-reisen-ich-kann-so-lange-im-cafe-sitzen-wie-ich-will-ohne-mich-rechtfertigen-zu-muessen-a-9a916be1-2ecf-4b7b-9e20-c30d5a893e13#ref=rss)
-### nissan
+* [https://www.spiegel.de/politik/weltwirtschaftsforum-in-davos-friedrich-merz-spricht-bei-blackrock-dinner](https://www.spiegel.de/politik/weltwirtschaftsforum-in-davos-friedrich-merz-spricht-bei-blackrock-dinner-a-f71a86ef-2442-406c-8447-9eb5ecf88f95#ref=rss)
+### merz
 
-* [https://www.spiegel.de/auto/fahrberichte/nissan-silence-nanocar-im-test-das-elektromobil-fuer-zugeparkte-staedte](https://www.spiegel.de/auto/fahrberichte/nissan-silence-nanocar-im-test-das-elektromobil-fuer-zugeparkte-staedte-a-afd1ef6e-ed28-4fc3-a92a-2ef2795a9bf1#ref=rss)
-### nanocar
+* [https://www.spiegel.de/politik/weltwirtschaftsforum-in-davos-friedrich-merz-spricht-bei-blackrock-dinner](https://www.spiegel.de/politik/weltwirtschaftsforum-in-davos-friedrich-merz-spricht-bei-blackrock-dinner-a-f71a86ef-2442-406c-8447-9eb5ecf88f95#ref=rss)
+### alten
 
-* [https://www.spiegel.de/auto/fahrberichte/nissan-silence-nanocar-im-test-das-elektromobil-fuer-zugeparkte-staedte](https://www.spiegel.de/auto/fahrberichte/nissan-silence-nanocar-im-test-das-elektromobil-fuer-zugeparkte-staedte-a-afd1ef6e-ed28-4fc3-a92a-2ef2795a9bf1#ref=rss)
-### allein
+* [https://www.spiegel.de/politik/weltwirtschaftsforum-in-davos-friedrich-merz-spricht-bei-blackrock-dinner](https://www.spiegel.de/politik/weltwirtschaftsforum-in-davos-friedrich-merz-spricht-bei-blackrock-dinner-a-f71a86ef-2442-406c-8447-9eb5ecf88f95#ref=rss)
+* [https://www.spiegel.de/sport/fussball/premier-league-emmanuel-petit-haelt-seinen-alten-co-trainer-fuer-tot-doch-der-ist-quicklebendig](https://www.spiegel.de/sport/fussball/premier-league-emmanuel-petit-haelt-seinen-alten-co-trainer-fuer-tot-doch-der-ist-quicklebendig-a-aec5c6de-0d25-4d5a-8a5d-d84462f3337d#ref=rss)
+### magdeburg
 
-* [https://www.spiegel.de/reise/fernweh/allein-reisen-ich-kann-so-lange-im-cafe-sitzen-wie-ich-will-ohne-mich-rechtfertigen-zu-muessen](https://www.spiegel.de/reise/fernweh/allein-reisen-ich-kann-so-lange-im-cafe-sitzen-wie-ich-will-ohne-mich-rechtfertigen-zu-muessen-a-9a916be1-2ecf-4b7b-9e20-c30d5a893e13#ref=rss)
-### reisen
+* [https://www.spiegel.de/panorama/justiz/magdeburg-taleb-al-abdulmohsen-war-bei-angriff-auf-weihnachtsmarkt-nuechtern](https://www.spiegel.de/panorama/justiz/magdeburg-taleb-al-abdulmohsen-war-bei-angriff-auf-weihnachtsmarkt-nuechtern-a-2d95415a-f70e-45d1-bf99-f16c4b3d2354#ref=rss)
+### angriff
 
-* [https://www.spiegel.de/reise/fernweh/allein-reisen-ich-kann-so-lange-im-cafe-sitzen-wie-ich-will-ohne-mich-rechtfertigen-zu-muessen](https://www.spiegel.de/reise/fernweh/allein-reisen-ich-kann-so-lange-im-cafe-sitzen-wie-ich-will-ohne-mich-rechtfertigen-zu-muessen-a-9a916be1-2ecf-4b7b-9e20-c30d5a893e13#ref=rss)
-### ich
+* [https://www.spiegel.de/panorama/justiz/magdeburg-taleb-al-abdulmohsen-war-bei-angriff-auf-weihnachtsmarkt-nuechtern](https://www.spiegel.de/panorama/justiz/magdeburg-taleb-al-abdulmohsen-war-bei-angriff-auf-weihnachtsmarkt-nuechtern-a-2d95415a-f70e-45d1-bf99-f16c4b3d2354#ref=rss)
+* [https://www.spiegel.de/ausland/inauguration-von-donald-trump-klagen-gegen-aus-fuer-staatsangehoerigkeit-durch-geburt](https://www.spiegel.de/ausland/inauguration-von-donald-trump-klagen-gegen-aus-fuer-staatsangehoerigkeit-durch-geburt-a-0cd0246b-fb27-4725-a678-8d3c1383dc8d#ref=rss)
+### wasp127b
 
-* [https://www.spiegel.de/reise/fernweh/allein-reisen-ich-kann-so-lange-im-cafe-sitzen-wie-ich-will-ohne-mich-rechtfertigen-zu-muessen](https://www.spiegel.de/reise/fernweh/allein-reisen-ich-kann-so-lange-im-cafe-sitzen-wie-ich-will-ohne-mich-rechtfertigen-zu-muessen-a-9a916be1-2ecf-4b7b-9e20-c30d5a893e13#ref=rss)
-### eltern
+* [https://www.spiegel.de/wissenschaft/weltall/exoplanet-wasp-127b-jetstream-mit-33-000-km-h-forscher-messen-windrekord](https://www.spiegel.de/wissenschaft/weltall/exoplanet-wasp-127b-jetstream-mit-33-000-km-h-forscher-messen-windrekord-a-9efefbd1-ccf3-4b3e-b743-bc8889d7e9ab#ref=rss)
+### jetstream
 
-* [https://www.spiegel.de/familie/erziehung-in-der-pubertaet-wie-eltern-mit-ihren-kindern-ueber-pornos-sprechen-koennen](https://www.spiegel.de/familie/erziehung-in-der-pubertaet-wie-eltern-mit-ihren-kindern-ueber-pornos-sprechen-koennen-a-b88507fd-8756-4890-8bed-cd0f239797c4#ref=rss)
-### pornos
+* [https://www.spiegel.de/wissenschaft/weltall/exoplanet-wasp-127b-jetstream-mit-33-000-km-h-forscher-messen-windrekord](https://www.spiegel.de/wissenschaft/weltall/exoplanet-wasp-127b-jetstream-mit-33-000-km-h-forscher-messen-windrekord-a-9efefbd1-ccf3-4b3e-b743-bc8889d7e9ab#ref=rss)
+### etwas
 
-* [https://www.spiegel.de/familie/erziehung-in-der-pubertaet-wie-eltern-mit-ihren-kindern-ueber-pornos-sprechen-koennen](https://www.spiegel.de/familie/erziehung-in-der-pubertaet-wie-eltern-mit-ihren-kindern-ueber-pornos-sprechen-koennen-a-b88507fd-8756-4890-8bed-cd0f239797c4#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/exoplanet-wasp-127b-jetstream-mit-33-000-km-h-forscher-messen-windrekord](https://www.spiegel.de/wissenschaft/weltall/exoplanet-wasp-127b-jetstream-mit-33-000-km-h-forscher-messen-windrekord-a-9efefbd1-ccf3-4b3e-b743-bc8889d7e9ab#ref=rss)
+* [https://www.spiegel.de/ausland/fluechtlinge-in-deutschland-erlaubt-den-syrern-ihr-land-jetzt-zu-besuchen](https://www.spiegel.de/ausland/fluechtlinge-in-deutschland-erlaubt-den-syrern-ihr-land-jetzt-zu-besuchen-a-9d38dc0a-d85a-4f4e-96c7-c9e953ff011e#ref=rss)
+### wir
+
+* [https://www.spiegel.de/wissenschaft/weltall/exoplanet-wasp-127b-jetstream-mit-33-000-km-h-forscher-messen-windrekord](https://www.spiegel.de/wissenschaft/weltall/exoplanet-wasp-127b-jetstream-mit-33-000-km-h-forscher-messen-windrekord-a-9efefbd1-ccf3-4b3e-b743-bc8889d7e9ab#ref=rss)
+* [https://www.spiegel.de/ausland/fluechtlinge-in-deutschland-erlaubt-den-syrern-ihr-land-jetzt-zu-besuchen](https://www.spiegel.de/ausland/fluechtlinge-in-deutschland-erlaubt-den-syrern-ihr-land-jetzt-zu-besuchen-a-9d38dc0a-d85a-4f4e-96c7-c9e953ff011e#ref=rss)
+### sprechen
+
+* [https://www.spiegel.de/wissenschaft/weltall/exoplanet-wasp-127b-jetstream-mit-33-000-km-h-forscher-messen-windrekord](https://www.spiegel.de/wissenschaft/weltall/exoplanet-wasp-127b-jetstream-mit-33-000-km-h-forscher-messen-windrekord-a-9efefbd1-ccf3-4b3e-b743-bc8889d7e9ab#ref=rss)
+* [https://www.spiegel.de/sport/fussball/premier-league-emmanuel-petit-haelt-seinen-alten-co-trainer-fuer-tot-doch-der-ist-quicklebendig](https://www.spiegel.de/sport/fussball/premier-league-emmanuel-petit-haelt-seinen-alten-co-trainer-fuer-tot-doch-der-ist-quicklebendig-a-aec5c6de-0d25-4d5a-8a5d-d84462f3337d#ref=rss)
+### welt
+
+* [https://www.spiegel.de/wissenschaft/weltall/exoplanet-wasp-127b-jetstream-mit-33-000-km-h-forscher-messen-windrekord](https://www.spiegel.de/wissenschaft/weltall/exoplanet-wasp-127b-jetstream-mit-33-000-km-h-forscher-messen-windrekord-a-9efefbd1-ccf3-4b3e-b743-bc8889d7e9ab#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-inauguration-mit-familie-und-oligarchen](https://www.spiegel.de/ausland/donald-trump-inauguration-mit-familie-und-oligarchen-a-443787d8-daf5-46c3-8550-8fbfc36e1f10#ref=rss)
+### aufregung
+
+* [https://www.spiegel.de/ausland/donald-trump-aufregung-um-musk-geste-bei-amtseinfuehrung](https://www.spiegel.de/ausland/donald-trump-aufregung-um-musk-geste-bei-amtseinfuehrung-a-0eaa081c-b483-43fa-91a0-b1824d33bec5#ref=rss)
+### erdgas
+
+* [https://www.spiegel.de/wirtschaft/erdgas-weltweiter-verbrauch-erreicht-2024-neuen-hoechststand](https://www.spiegel.de/wirtschaft/erdgas-weltweiter-verbrauch-erreicht-2024-neuen-hoechststand-a-81676559-8352-45b0-973a-2f1a1e170474#ref=rss)
+### weltweiter
+
+* [https://www.spiegel.de/wirtschaft/erdgas-weltweiter-verbrauch-erreicht-2024-neuen-hoechststand](https://www.spiegel.de/wirtschaft/erdgas-weltweiter-verbrauch-erreicht-2024-neuen-hoechststand-a-81676559-8352-45b0-973a-2f1a1e170474#ref=rss)
+### verbrauch
+
+* [https://www.spiegel.de/wirtschaft/erdgas-weltweiter-verbrauch-erreicht-2024-neuen-hoechststand](https://www.spiegel.de/wirtschaft/erdgas-weltweiter-verbrauch-erreicht-2024-neuen-hoechststand-a-81676559-8352-45b0-973a-2f1a1e170474#ref=rss)
+### erreicht
+
+* [https://www.spiegel.de/wirtschaft/erdgas-weltweiter-verbrauch-erreicht-2024-neuen-hoechststand](https://www.spiegel.de/wirtschaft/erdgas-weltweiter-verbrauch-erreicht-2024-neuen-hoechststand-a-81676559-8352-45b0-973a-2f1a1e170474#ref=rss)
+### 2024
+
+* [https://www.spiegel.de/wirtschaft/erdgas-weltweiter-verbrauch-erreicht-2024-neuen-hoechststand](https://www.spiegel.de/wirtschaft/erdgas-weltweiter-verbrauch-erreicht-2024-neuen-hoechststand-a-81676559-8352-45b0-973a-2f1a1e170474#ref=rss)
+### ruft
+
+* [https://www.spiegel.de/wirtschaft/erdgas-weltweiter-verbrauch-erreicht-2024-neuen-hoechststand](https://www.spiegel.de/wirtschaft/erdgas-weltweiter-verbrauch-erreicht-2024-neuen-hoechststand-a-81676559-8352-45b0-973a-2f1a1e170474#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/eklat-im-erlanger-stadtrat-afd-politiker-zitiert-goebbels](https://www.spiegel.de/politik/deutschland/eklat-im-erlanger-stadtrat-afd-politiker-zitiert-goebbels-a-b94da8fc-fe48-48e0-992d-1a91c937ec62#ref=rss)
+### kylie
+
+* [https://www.spiegel.de/kultur/kylie-jenner-fliegt-den-braenden-in-los-angeles-davon](https://www.spiegel.de/kultur/kylie-jenner-fliegt-den-braenden-in-los-angeles-davon-a-5752152c-162b-45eb-bd6b-113fc17e5015#ref=rss)
+### jenner
+
+* [https://www.spiegel.de/kultur/kylie-jenner-fliegt-den-braenden-in-los-angeles-davon](https://www.spiegel.de/kultur/kylie-jenner-fliegt-den-braenden-in-los-angeles-davon-a-5752152c-162b-45eb-bd6b-113fc17e5015#ref=rss)
+### novak
+
+* [https://www.spiegel.de/sport/tennis/australian-open-novak-djokovic-schlaegt-carlos-alcaraz-und-trifft-auf-alexander-zverev](https://www.spiegel.de/sport/tennis/australian-open-novak-djokovic-schlaegt-carlos-alcaraz-und-trifft-auf-alexander-zverev-a-64d018b0-6dad-4637-864a-62922863bccb#ref=rss)
+### djokovic
+
+* [https://www.spiegel.de/sport/tennis/australian-open-novak-djokovic-schlaegt-carlos-alcaraz-und-trifft-auf-alexander-zverev](https://www.spiegel.de/sport/tennis/australian-open-novak-djokovic-schlaegt-carlos-alcaraz-und-trifft-auf-alexander-zverev-a-64d018b0-6dad-4637-864a-62922863bccb#ref=rss)
+### carlos
+
+* [https://www.spiegel.de/sport/tennis/australian-open-novak-djokovic-schlaegt-carlos-alcaraz-und-trifft-auf-alexander-zverev](https://www.spiegel.de/sport/tennis/australian-open-novak-djokovic-schlaegt-carlos-alcaraz-und-trifft-auf-alexander-zverev-a-64d018b0-6dad-4637-864a-62922863bccb#ref=rss)
+### alcaraz
+
+* [https://www.spiegel.de/sport/tennis/australian-open-novak-djokovic-schlaegt-carlos-alcaraz-und-trifft-auf-alexander-zverev](https://www.spiegel.de/sport/tennis/australian-open-novak-djokovic-schlaegt-carlos-alcaraz-und-trifft-auf-alexander-zverev-a-64d018b0-6dad-4637-864a-62922863bccb#ref=rss)
+### alexander
+
+* [https://www.spiegel.de/sport/tennis/australian-open-novak-djokovic-schlaegt-carlos-alcaraz-und-trifft-auf-alexander-zverev](https://www.spiegel.de/sport/tennis/australian-open-novak-djokovic-schlaegt-carlos-alcaraz-und-trifft-auf-alexander-zverev-a-64d018b0-6dad-4637-864a-62922863bccb#ref=rss)
+### zverev
+
+* [https://www.spiegel.de/sport/tennis/australian-open-novak-djokovic-schlaegt-carlos-alcaraz-und-trifft-auf-alexander-zverev](https://www.spiegel.de/sport/tennis/australian-open-novak-djokovic-schlaegt-carlos-alcaraz-und-trifft-auf-alexander-zverev-a-64d018b0-6dad-4637-864a-62922863bccb#ref=rss)
+### emmanuel
+
+* [https://www.spiegel.de/sport/fussball/premier-league-emmanuel-petit-haelt-seinen-alten-co-trainer-fuer-tot-doch-der-ist-quicklebendig](https://www.spiegel.de/sport/fussball/premier-league-emmanuel-petit-haelt-seinen-alten-co-trainer-fuer-tot-doch-der-ist-quicklebendig-a-aec5c6de-0d25-4d5a-8a5d-d84462f3337d#ref=rss)
+### petit
+
+* [https://www.spiegel.de/sport/fussball/premier-league-emmanuel-petit-haelt-seinen-alten-co-trainer-fuer-tot-doch-der-ist-quicklebendig](https://www.spiegel.de/sport/fussball/premier-league-emmanuel-petit-haelt-seinen-alten-co-trainer-fuer-tot-doch-der-ist-quicklebendig-a-aec5c6de-0d25-4d5a-8a5d-d84462f3337d#ref=rss)
+### tot
+
+* [https://www.spiegel.de/sport/fussball/premier-league-emmanuel-petit-haelt-seinen-alten-co-trainer-fuer-tot-doch-der-ist-quicklebendig](https://www.spiegel.de/sport/fussball/premier-league-emmanuel-petit-haelt-seinen-alten-co-trainer-fuer-tot-doch-der-ist-quicklebendig-a-aec5c6de-0d25-4d5a-8a5d-d84462f3337d#ref=rss)
+### drohen
+
+* [https://www.spiegel.de/ausland/georgien-journalistin-drohen-bis-zu-sieben-jahre-haft-nach-ohrfeige-gegen-polizisten](https://www.spiegel.de/ausland/georgien-journalistin-drohen-bis-zu-sieben-jahre-haft-nach-ohrfeige-gegen-polizisten-a-9cb5d6e6-d34f-496a-a9f3-9fc79db2b11f#ref=rss)
+### sieben
+
+* [https://www.spiegel.de/ausland/georgien-journalistin-drohen-bis-zu-sieben-jahre-haft-nach-ohrfeige-gegen-polizisten](https://www.spiegel.de/ausland/georgien-journalistin-drohen-bis-zu-sieben-jahre-haft-nach-ohrfeige-gegen-polizisten-a-9cb5d6e6-d34f-496a-a9f3-9fc79db2b11f#ref=rss)
+### haft
+
+* [https://www.spiegel.de/ausland/georgien-journalistin-drohen-bis-zu-sieben-jahre-haft-nach-ohrfeige-gegen-polizisten](https://www.spiegel.de/ausland/georgien-journalistin-drohen-bis-zu-sieben-jahre-haft-nach-ohrfeige-gegen-polizisten-a-9cb5d6e6-d34f-496a-a9f3-9fc79db2b11f#ref=rss)
+### polizisten
+
+* [https://www.spiegel.de/ausland/georgien-journalistin-drohen-bis-zu-sieben-jahre-haft-nach-ohrfeige-gegen-polizisten](https://www.spiegel.de/ausland/georgien-journalistin-drohen-bis-zu-sieben-jahre-haft-nach-ohrfeige-gegen-polizisten-a-9cb5d6e6-d34f-496a-a9f3-9fc79db2b11f#ref=rss)
+### land
+
+* [https://www.spiegel.de/ausland/georgien-journalistin-drohen-bis-zu-sieben-jahre-haft-nach-ohrfeige-gegen-polizisten](https://www.spiegel.de/ausland/georgien-journalistin-drohen-bis-zu-sieben-jahre-haft-nach-ohrfeige-gegen-polizisten-a-9cb5d6e6-d34f-496a-a9f3-9fc79db2b11f#ref=rss)
+* [https://www.spiegel.de/ausland/fluechtlinge-in-deutschland-erlaubt-den-syrern-ihr-land-jetzt-zu-besuchen](https://www.spiegel.de/ausland/fluechtlinge-in-deutschland-erlaubt-den-syrern-ihr-land-jetzt-zu-besuchen-a-9d38dc0a-d85a-4f4e-96c7-c9e953ff011e#ref=rss)
+### stadtrat
+
+* [https://www.spiegel.de/politik/deutschland/eklat-im-erlanger-stadtrat-afd-politiker-zitiert-goebbels](https://www.spiegel.de/politik/deutschland/eklat-im-erlanger-stadtrat-afd-politiker-zitiert-goebbels-a-b94da8fc-fe48-48e0-992d-1a91c937ec62#ref=rss)
+### afdpolitiker
+
+* [https://www.spiegel.de/politik/deutschland/eklat-im-erlanger-stadtrat-afd-politiker-zitiert-goebbels](https://www.spiegel.de/politik/deutschland/eklat-im-erlanger-stadtrat-afd-politiker-zitiert-goebbels-a-b94da8fc-fe48-48e0-992d-1a91c937ec62#ref=rss)
+### joseph
+
+* [https://www.spiegel.de/politik/deutschland/eklat-im-erlanger-stadtrat-afd-politiker-zitiert-goebbels](https://www.spiegel.de/politik/deutschland/eklat-im-erlanger-stadtrat-afd-politiker-zitiert-goebbels-a-b94da8fc-fe48-48e0-992d-1a91c937ec62#ref=rss)
+### goebbels
+
+* [https://www.spiegel.de/politik/deutschland/eklat-im-erlanger-stadtrat-afd-politiker-zitiert-goebbels](https://www.spiegel.de/politik/deutschland/eklat-im-erlanger-stadtrat-afd-politiker-zitiert-goebbels-a-b94da8fc-fe48-48e0-992d-1a91c937ec62#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/ausland/fluechtlinge-in-deutschland-erlaubt-den-syrern-ihr-land-jetzt-zu-besuchen](https://www.spiegel.de/ausland/fluechtlinge-in-deutschland-erlaubt-den-syrern-ihr-land-jetzt-zu-besuchen-a-9d38dc0a-d85a-4f4e-96c7-c9e953ff011e#ref=rss)
+### syrern
+
+* [https://www.spiegel.de/ausland/fluechtlinge-in-deutschland-erlaubt-den-syrern-ihr-land-jetzt-zu-besuchen](https://www.spiegel.de/ausland/fluechtlinge-in-deutschland-erlaubt-den-syrern-ihr-land-jetzt-zu-besuchen-a-9d38dc0a-d85a-4f4e-96c7-c9e953ff011e#ref=rss)
+### bundesregierung
+
+* [https://www.spiegel.de/ausland/fluechtlinge-in-deutschland-erlaubt-den-syrern-ihr-land-jetzt-zu-besuchen](https://www.spiegel.de/ausland/fluechtlinge-in-deutschland-erlaubt-den-syrern-ihr-land-jetzt-zu-besuchen-a-9d38dc0a-d85a-4f4e-96c7-c9e953ff011e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/lisa-paus-familienministerin-verteilt-millionen-an-zivilgesellschaftliche-projekte](https://www.spiegel.de/politik/deutschland/lisa-paus-familienministerin-verteilt-millionen-an-zivilgesellschaftliche-projekte-a-120f23fe-56f9-4710-a28b-ea3998592730#ref=rss)
+### inauguration
+
+* [https://www.spiegel.de/ausland/donald-trump-inauguration-mit-familie-und-oligarchen](https://www.spiegel.de/ausland/donald-trump-inauguration-mit-familie-und-oligarchen-a-443787d8-daf5-46c3-8550-8fbfc36e1f10#ref=rss)
+### familie
+
+* [https://www.spiegel.de/ausland/donald-trump-inauguration-mit-familie-und-oligarchen](https://www.spiegel.de/ausland/donald-trump-inauguration-mit-familie-und-oligarchen-a-443787d8-daf5-46c3-8550-8fbfc36e1f10#ref=rss)
+### oligarchen
+
+* [https://www.spiegel.de/ausland/donald-trump-inauguration-mit-familie-und-oligarchen](https://www.spiegel.de/ausland/donald-trump-inauguration-mit-familie-und-oligarchen-a-443787d8-daf5-46c3-8550-8fbfc36e1f10#ref=rss)
+### neue
+
+* [https://www.spiegel.de/ausland/donald-trump-inauguration-mit-familie-und-oligarchen](https://www.spiegel.de/ausland/donald-trump-inauguration-mit-familie-und-oligarchen-a-443787d8-daf5-46c3-8550-8fbfc36e1f10#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/lisa-paus-familienministerin-verteilt-millionen-an-zivilgesellschaftliche-projekte](https://www.spiegel.de/politik/deutschland/lisa-paus-familienministerin-verteilt-millionen-an-zivilgesellschaftliche-projekte-a-120f23fe-56f9-4710-a28b-ea3998592730#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/politik/deutschland/lisa-paus-familienministerin-verteilt-millionen-an-zivilgesellschaftliche-projekte](https://www.spiegel.de/politik/deutschland/lisa-paus-familienministerin-verteilt-millionen-an-zivilgesellschaftliche-projekte-a-120f23fe-56f9-4710-a28b-ea3998592730#ref=rss)
+### projekte
+
+* [https://www.spiegel.de/politik/deutschland/lisa-paus-familienministerin-verteilt-millionen-an-zivilgesellschaftliche-projekte](https://www.spiegel.de/politik/deutschland/lisa-paus-familienministerin-verteilt-millionen-an-zivilgesellschaftliche-projekte-a-120f23fe-56f9-4710-a28b-ea3998592730#ref=rss)
+### reutlingen
+
+* [https://www.spiegel.de/panorama/reutlingen-zwei-tote-nach-gas-explosion-bei-bosch](https://www.spiegel.de/panorama/reutlingen-zwei-tote-nach-gas-explosion-bei-bosch-a-f42d6922-1b73-4be2-bcd1-de0bb24d7ae3#ref=rss)
+### bosch
+
+* [https://www.spiegel.de/panorama/reutlingen-zwei-tote-nach-gas-explosion-bei-bosch](https://www.spiegel.de/panorama/reutlingen-zwei-tote-nach-gas-explosion-bei-bosch-a-f42d6922-1b73-4be2-bcd1-de0bb24d7ae3#ref=rss)
 
