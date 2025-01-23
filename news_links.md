@@ -4,325 +4,431 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### aschaffenburg
-
-* [https://www.spiegel.de/politik/deutschland/aschaffenburg-markus-soeder-und-joachim-herrmann-halten-pressekonferenz-zum-messerangriff](https://www.spiegel.de/politik/deutschland/aschaffenburg-markus-soeder-und-joachim-herrmann-halten-pressekonferenz-zum-messerangriff-a-b9a0d142-da23-4ad0-972c-624508ee3059#ref=rss)
-* [https://www.spiegel.de/panorama/aschaffenburg-bestuerzung-nach-messerangriff-auf-kleinkinder-in-franken](https://www.spiegel.de/panorama/aschaffenburg-bestuerzung-nach-messerangriff-auf-kleinkinder-in-franken-a-dbed1feb-6650-4368-a99a-0ef764b826d9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/aschaffenburg-wie-die-politik-die-gewalttat-fuer-den-wahlkampf-nutzt](https://www.spiegel.de/politik/deutschland/aschaffenburg-wie-die-politik-die-gewalttat-fuer-den-wahlkampf-nutzt-a-c30f4c66-a6a2-4af9-b6d5-7a72dd9aef01#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/ausland/lettlands-premierministerin-evika-silina-ueber-sicherheit-in-europa-deutschland-muss-mutiger-sein](https://www.spiegel.de/ausland/lettlands-premierministerin-evika-silina-ueber-sicherheit-in-europa-deutschland-muss-mutiger-sein-a-81fcac65-a22b-4c8d-ae3b-83faf5258606#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nazi-verbrecher-und-ss-soldaten-deutschland-zahlt-opferrenten-an-taeter](https://www.spiegel.de/politik/deutschland/nazi-verbrecher-und-ss-soldaten-deutschland-zahlt-opferrenten-an-taeter-a-583882c1-34c3-4e9f-aab7-1102a5f20bae#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutsches-institut-fuer-wirtschaftsforschung-diw-deutsche-industrie-braucht-mehr-zuwanderung](https://www.spiegel.de/wirtschaft/deutsches-institut-fuer-wirtschaftsforschung-diw-deutsche-industrie-braucht-mehr-zuwanderung-a-2520f38d-4ee7-450a-8fea-5bdceed92ef2#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/jeder-zehnte-junge-erwachsene-kennt-laut-umfrage-holocaust-nicht](https://www.spiegel.de/panorama/gesellschaft/jeder-zehnte-junge-erwachsene-kennt-laut-umfrage-holocaust-nicht-a-a44a9c24-9326-4528-9f58-919bd642af9c#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wirtschaft/deutsches-institut-fuer-wirtschaftsforschung-diw-deutsche-industrie-braucht-mehr-zuwanderung](https://www.spiegel.de/wirtschaft/deutsches-institut-fuer-wirtschaftsforschung-diw-deutsche-industrie-braucht-mehr-zuwanderung-a-2520f38d-4ee7-450a-8fea-5bdceed92ef2#ref=rss)
-* [https://www.spiegel.de/start/medizinstudium-wieso-sind-ausgerechnet-die-vertreter-der-medizinstudierenden-gegen-mehr-studienplaetze](https://www.spiegel.de/start/medizinstudium-wieso-sind-ausgerechnet-die-vertreter-der-medizinstudierenden-gegen-mehr-studienplaetze-a-7c8e59ff-f42d-4ea7-9b1f-35694de0215d#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/kinderhilfswerk-umfrage-geld-fuer-bildungschancen-und-gegen-kinderarmut-durch-reichensteuer](https://www.spiegel.de/panorama/bildung/kinderhilfswerk-umfrage-geld-fuer-bildungschancen-und-gegen-kinderarmut-durch-reichensteuer-a-e30e4d8a-6eaa-4d79-b3a4-887daacc9c17#ref=rss)
-* [https://www.spiegel.de/wirtschaft/europaeische-union-fast-die-haelfte-des-eu-stroms-aus-erneuerbarer-energie](https://www.spiegel.de/wirtschaft/europaeische-union-fast-die-haelfte-des-eu-stroms-aus-erneuerbarer-energie-a-a22e48ae-d391-425b-b96e-b80ca734663d#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/ausland/saudi-arabien-als-nahost-partner-donald-trump-telefoniert-mit-mohammed-bin-salman](https://www.spiegel.de/ausland/saudi-arabien-als-nahost-partner-donald-trump-telefoniert-mit-mohammed-bin-salman-a-e5b712aa-928f-4396-a501-d6180ad9230d#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-die-us-medien-das-kalkuel-des-praesidenten-geht-auf](https://www.spiegel.de/ausland/donald-trump-und-die-us-medien-das-kalkuel-des-praesidenten-geht-auf-a-d6e41dc1-21ea-4890-bdbc-c38ab7dbc994#ref=rss)
-### europa
-
-* [https://www.spiegel.de/ausland/lettlands-premierministerin-evika-silina-ueber-sicherheit-in-europa-deutschland-muss-mutiger-sein](https://www.spiegel.de/ausland/lettlands-premierministerin-evika-silina-ueber-sicherheit-in-europa-deutschland-muss-mutiger-sein-a-81fcac65-a22b-4c8d-ae3b-83faf5258606#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-mit-niederlage-joshua-kimmich-wir-sind-kein-topteam-in-europa](https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-mit-niederlage-joshua-kimmich-wir-sind-kein-topteam-in-europa-a-add86e69-ca70-45f1-b4b3-fd647ef69c89#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-will-als-kanzler-faktisches-einreiseverbot-fuer-illegale-verhaengen](https://www.spiegel.de/politik/deutschland/friedrich-merz-will-als-kanzler-faktisches-einreiseverbot-fuer-illegale-verhaengen-a-46b54beb-2a47-4148-910b-2b024798f632#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wie-ich-einmal-mitleid-mit-friedrich-merz-bekam-kolumne](https://www.spiegel.de/politik/deutschland/wie-ich-einmal-mitleid-mit-friedrich-merz-bekam-kolumne-a-acaed9a6-03b6-46c0-bea4-4c1a674a23c0#ref=rss)
-### frau
-
-* [https://www.spiegel.de/panorama/justiz/dinkelsbuehl-frau-holt-gesperrten-fuehrerschein-mit-dem-auto-ab](https://www.spiegel.de/panorama/justiz/dinkelsbuehl-frau-holt-gesperrten-fuehrerschein-mit-dem-auto-ab-a-e925c3af-ccc0-458f-bf61-b2dca6a15c2f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wie-ich-einmal-mitleid-mit-friedrich-merz-bekam-kolumne](https://www.spiegel.de/politik/deutschland/wie-ich-einmal-mitleid-mit-friedrich-merz-bekam-kolumne-a-acaed9a6-03b6-46c0-bea4-4c1a674a23c0#ref=rss)
-### junge
-
-* [https://www.spiegel.de/panorama/justiz/dinkelsbuehl-frau-holt-gesperrten-fuehrerschein-mit-dem-auto-ab](https://www.spiegel.de/panorama/justiz/dinkelsbuehl-frau-holt-gesperrten-fuehrerschein-mit-dem-auto-ab-a-e925c3af-ccc0-458f-bf61-b2dca6a15c2f#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/jeder-zehnte-junge-erwachsene-kennt-laut-umfrage-holocaust-nicht](https://www.spiegel.de/panorama/gesellschaft/jeder-zehnte-junge-erwachsene-kennt-laut-umfrage-holocaust-nicht-a-a44a9c24-9326-4528-9f58-919bd642af9c#ref=rss)
-### ich
-
-* [https://www.spiegel.de/familie/kinderfragen-und-aus-welchem-material-ist-eine-e-mail-fragte-mein-sohn](https://www.spiegel.de/familie/kinderfragen-und-aus-welchem-material-ist-eine-e-mail-fragte-mein-sohn-a-09405b09-24d4-4f88-bda6-f5498a534137#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wie-ich-einmal-mitleid-mit-friedrich-merz-bekam-kolumne](https://www.spiegel.de/politik/deutschland/wie-ich-einmal-mitleid-mit-friedrich-merz-bekam-kolumne-a-acaed9a6-03b6-46c0-bea4-4c1a674a23c0#ref=rss)
-### geld
-
-* [https://www.spiegel.de/familie/kinderfragen-und-aus-welchem-material-ist-eine-e-mail-fragte-mein-sohn](https://www.spiegel.de/familie/kinderfragen-und-aus-welchem-material-ist-eine-e-mail-fragte-mein-sohn-a-09405b09-24d4-4f88-bda6-f5498a534137#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/kinderhilfswerk-umfrage-geld-fuer-bildungschancen-und-gegen-kinderarmut-durch-reichensteuer](https://www.spiegel.de/panorama/bildung/kinderhilfswerk-umfrage-geld-fuer-bildungschancen-und-gegen-kinderarmut-durch-reichensteuer-a-e30e4d8a-6eaa-4d79-b3a4-887daacc9c17#ref=rss)
-### unterstützung
-
-* [https://www.spiegel.de/ausland/austritt-der-usa-aus-der-weltgesundheitsorganisation-who-in-vielen-laendern-wuerde-chaos-ausbrechen](https://www.spiegel.de/ausland/austritt-der-usa-aus-der-weltgesundheitsorganisation-who-in-vielen-laendern-wuerde-chaos-ausbrechen-a-bd7efa7e-ccaa-4026-aa26-d21d86e6341c#ref=rss)
-* [https://www.spiegel.de/ausland/norwegen-profitiert-am-ukrainekrieg-und-streitet-mit-daenemark-ueber-unterstuetzung-fuer-kiew](https://www.spiegel.de/ausland/norwegen-profitiert-am-ukrainekrieg-und-streitet-mit-daenemark-ueber-unterstuetzung-fuer-kiew-a-a0da7286-d033-4c2f-aa27-9d1109546e8e#ref=rss)
+* [https://www.spiegel.de/ausland/kapitolstuermerin-lehnt-begnadigung-durch-trump-ab](https://www.spiegel.de/ausland/kapitolstuermerin-lehnt-begnadigung-durch-trump-ab-a-ffb83050-6850-41ec-bcba-bbc4b98186fc#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-droht-beim-weltwirtschaftsforum-in-davos-mit-zoellen](https://www.spiegel.de/wirtschaft/donald-trump-droht-beim-weltwirtschaftsforum-in-davos-mit-zoellen-a-68435fa8-ad74-4a53-bea0-c0fa55003f98#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cem-oezdemo-leute-wie-trump-halten-uns-fuer-schwaechlinge-leider-bestaetigen-wir-diesen-eindruck-oft-genug](https://www.spiegel.de/politik/deutschland/cem-oezdemo-leute-wie-trump-halten-uns-fuer-schwaechlinge-leider-bestaetigen-wir-diesen-eindruck-oft-genug-a-f77b8b1b-5866-440b-9b59-14b2953f9aaf#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-spricht-auf-dem-weltwirtschaftsforum-in-davos-livestream](https://www.spiegel.de/ausland/donald-trump-spricht-auf-dem-weltwirtschaftsforum-in-davos-livestream-a-f5fbcd44-eb40-47f4-9c56-88b632db6e89#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-und-fossile-energietraeger-deutschlands-begrenzte-optionen-bei-us-importen](https://www.spiegel.de/wirtschaft/donald-trump-und-fossile-energietraeger-deutschlands-begrenzte-optionen-bei-us-importen-a-584a16f9-513e-4926-973f-a870acb0d278#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/ausland/saudi-arabien-als-nahost-partner-donald-trump-telefoniert-mit-mohammed-bin-salman](https://www.spiegel.de/ausland/saudi-arabien-als-nahost-partner-donald-trump-telefoniert-mit-mohammed-bin-salman-a-e5b712aa-928f-4396-a501-d6180ad9230d#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-die-us-medien-das-kalkuel-des-praesidenten-geht-auf](https://www.spiegel.de/ausland/donald-trump-und-die-us-medien-das-kalkuel-des-praesidenten-geht-auf-a-d6e41dc1-21ea-4890-bdbc-c38ab7dbc994#ref=rss)
-### markus
+* [https://www.spiegel.de/ausland/kapitolstuermerin-lehnt-begnadigung-durch-trump-ab](https://www.spiegel.de/ausland/kapitolstuermerin-lehnt-begnadigung-durch-trump-ab-a-ffb83050-6850-41ec-bcba-bbc4b98186fc#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-droht-beim-weltwirtschaftsforum-in-davos-mit-zoellen](https://www.spiegel.de/wirtschaft/donald-trump-droht-beim-weltwirtschaftsforum-in-davos-mit-zoellen-a-68435fa8-ad74-4a53-bea0-c0fa55003f98#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-spricht-auf-dem-weltwirtschaftsforum-in-davos-livestream](https://www.spiegel.de/ausland/donald-trump-spricht-auf-dem-weltwirtschaftsforum-in-davos-livestream-a-f5fbcd44-eb40-47f4-9c56-88b632db6e89#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-und-fossile-energietraeger-deutschlands-begrenzte-optionen-bei-us-importen](https://www.spiegel.de/wirtschaft/donald-trump-und-fossile-energietraeger-deutschlands-begrenzte-optionen-bei-us-importen-a-584a16f9-513e-4926-973f-a870acb0d278#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/politik/deutschland/aschaffenburg-markus-soeder-und-joachim-herrmann-halten-pressekonferenz-zum-messerangriff](https://www.spiegel.de/politik/deutschland/aschaffenburg-markus-soeder-und-joachim-herrmann-halten-pressekonferenz-zum-messerangriff-a-b9a0d142-da23-4ad0-972c-624508ee3059#ref=rss)
-### söder
+* [https://www.spiegel.de/panorama/justiz/berlin-duo-ueberfaellt-juwelier-und-baut-bei-verfolgungsjagd-neun-unfaelle](https://www.spiegel.de/panorama/justiz/berlin-duo-ueberfaellt-juwelier-und-baut-bei-verfolgungsjagd-neun-unfaelle-a-2ebe2725-b007-45f3-aa3e-51542ea3410e#ref=rss)
+* [https://www.spiegel.de/panorama/aschaffenburg-tatverdaechtiger-muss-in-die-psychiatrie](https://www.spiegel.de/panorama/aschaffenburg-tatverdaechtiger-muss-in-die-psychiatrie-a-d7579123-c1cf-461c-ac01-ad9237649db8#ref=rss)
+* [https://www.spiegel.de/gesundheit/ernaehrung/stiftung-warentest-olivenoel-wird-wieder-besser-aber-nur-etwas](https://www.spiegel.de/gesundheit/ernaehrung/stiftung-warentest-olivenoel-wird-wieder-besser-aber-nur-etwas-a-c1e8b57c-8cca-4a36-8b77-56448505c075#ref=rss)
+* [https://www.spiegel.de/ausland/internationaler-strafgerichtshof-beantragt-haftbefehl-gegen-taliban-anfuehrer](https://www.spiegel.de/ausland/internationaler-strafgerichtshof-beantragt-haftbefehl-gegen-taliban-anfuehrer-a-c79606bd-0a95-4b5b-b9db-d6cd1e8481df#ref=rss)
+* [https://www.spiegel.de/kultur/kino/oscars-2025-emilia-perez-in-13-kategorien-fuer-den-oscar-nominiert-auch-zwei-deutsche-filme-in-der-endausscheidung](https://www.spiegel.de/kultur/kino/oscars-2025-emilia-perez-in-13-kategorien-fuer-den-oscar-nominiert-auch-zwei-deutsche-filme-in-der-endausscheidung-a-74b073e8-c384-4d2c-a052-e4e666e23bb6#ref=rss)
+### davos
 
-* [https://www.spiegel.de/politik/deutschland/aschaffenburg-markus-soeder-und-joachim-herrmann-halten-pressekonferenz-zum-messerangriff](https://www.spiegel.de/politik/deutschland/aschaffenburg-markus-soeder-und-joachim-herrmann-halten-pressekonferenz-zum-messerangriff-a-b9a0d142-da23-4ad0-972c-624508ee3059#ref=rss)
-### joachim
+* [https://www.spiegel.de/wirtschaft/donald-trump-droht-beim-weltwirtschaftsforum-in-davos-mit-zoellen](https://www.spiegel.de/wirtschaft/donald-trump-droht-beim-weltwirtschaftsforum-in-davos-mit-zoellen-a-68435fa8-ad74-4a53-bea0-c0fa55003f98#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-aschaffenburg-rene-benko-weltwirtschaftsforum-davos](https://www.spiegel.de/politik/deutschland/news-des-tages-aschaffenburg-rene-benko-weltwirtschaftsforum-davos-a-28fc3719-e268-47a1-ba65-213020642550#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-spricht-auf-dem-weltwirtschaftsforum-in-davos-livestream](https://www.spiegel.de/ausland/donald-trump-spricht-auf-dem-weltwirtschaftsforum-in-davos-livestream-a-f5fbcd44-eb40-47f4-9c56-88b632db6e89#ref=rss)
+### weltwirtschaftsforum
 
-* [https://www.spiegel.de/politik/deutschland/aschaffenburg-markus-soeder-und-joachim-herrmann-halten-pressekonferenz-zum-messerangriff](https://www.spiegel.de/politik/deutschland/aschaffenburg-markus-soeder-und-joachim-herrmann-halten-pressekonferenz-zum-messerangriff-a-b9a0d142-da23-4ad0-972c-624508ee3059#ref=rss)
-### herrmann
+* [https://www.spiegel.de/wirtschaft/donald-trump-droht-beim-weltwirtschaftsforum-in-davos-mit-zoellen](https://www.spiegel.de/wirtschaft/donald-trump-droht-beim-weltwirtschaftsforum-in-davos-mit-zoellen-a-68435fa8-ad74-4a53-bea0-c0fa55003f98#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-aschaffenburg-rene-benko-weltwirtschaftsforum-davos](https://www.spiegel.de/politik/deutschland/news-des-tages-aschaffenburg-rene-benko-weltwirtschaftsforum-davos-a-28fc3719-e268-47a1-ba65-213020642550#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-spricht-auf-dem-weltwirtschaftsforum-in-davos-livestream](https://www.spiegel.de/ausland/donald-trump-spricht-auf-dem-weltwirtschaftsforum-in-davos-livestream-a-f5fbcd44-eb40-47f4-9c56-88b632db6e89#ref=rss)
+### elektronische
 
-* [https://www.spiegel.de/politik/deutschland/aschaffenburg-markus-soeder-und-joachim-herrmann-halten-pressekonferenz-zum-messerangriff](https://www.spiegel.de/politik/deutschland/aschaffenburg-markus-soeder-und-joachim-herrmann-halten-pressekonferenz-zum-messerangriff-a-b9a0d142-da23-4ad0-972c-624508ee3059#ref=rss)
-### pressekonferenz
+* [https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-podcast](https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-podcast-a-a0dc94e2-3290-4d99-8b47-e2ccfb81a123#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet](https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-a-2c3200ff-5921-4717-a262-d547d5163297#ref=rss)
+### patientenakte
 
-* [https://www.spiegel.de/politik/deutschland/aschaffenburg-markus-soeder-und-joachim-herrmann-halten-pressekonferenz-zum-messerangriff](https://www.spiegel.de/politik/deutschland/aschaffenburg-markus-soeder-und-joachim-herrmann-halten-pressekonferenz-zum-messerangriff-a-b9a0d142-da23-4ad0-972c-624508ee3059#ref=rss)
-### messerangriff
+* [https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-podcast](https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-podcast-a-a0dc94e2-3290-4d99-8b47-e2ccfb81a123#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet](https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-a-2c3200ff-5921-4717-a262-d547d5163297#ref=rss)
+### lehnt
 
-* [https://www.spiegel.de/politik/deutschland/aschaffenburg-markus-soeder-und-joachim-herrmann-halten-pressekonferenz-zum-messerangriff](https://www.spiegel.de/politik/deutschland/aschaffenburg-markus-soeder-und-joachim-herrmann-halten-pressekonferenz-zum-messerangriff-a-b9a0d142-da23-4ad0-972c-624508ee3059#ref=rss)
-* [https://www.spiegel.de/panorama/aschaffenburg-bestuerzung-nach-messerangriff-auf-kleinkinder-in-franken](https://www.spiegel.de/panorama/aschaffenburg-bestuerzung-nach-messerangriff-auf-kleinkinder-in-franken-a-dbed1feb-6650-4368-a99a-0ef764b826d9#ref=rss)
-### äußern
+* [https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-podcast](https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-podcast-a-a0dc94e2-3290-4d99-8b47-e2ccfb81a123#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet](https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-a-2c3200ff-5921-4717-a262-d547d5163297#ref=rss)
+* [https://www.spiegel.de/ausland/kapitolstuermerin-lehnt-begnadigung-durch-trump-ab](https://www.spiegel.de/ausland/kapitolstuermerin-lehnt-begnadigung-durch-trump-ab-a-ffb83050-6850-41ec-bcba-bbc4b98186fc#ref=rss)
+### aschaffenburg
 
-* [https://www.spiegel.de/politik/deutschland/aschaffenburg-markus-soeder-und-joachim-herrmann-halten-pressekonferenz-zum-messerangriff](https://www.spiegel.de/politik/deutschland/aschaffenburg-markus-soeder-und-joachim-herrmann-halten-pressekonferenz-zum-messerangriff-a-b9a0d142-da23-4ad0-972c-624508ee3059#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/aschaffenburg-wie-die-politik-die-gewalttat-fuer-den-wahlkampf-nutzt](https://www.spiegel.de/politik/deutschland/aschaffenburg-wie-die-politik-die-gewalttat-fuer-den-wahlkampf-nutzt-a-c30f4c66-a6a2-4af9-b6d5-7a72dd9aef01#ref=rss)
-### gewalttat
-
-* [https://www.spiegel.de/politik/deutschland/aschaffenburg-markus-soeder-und-joachim-herrmann-halten-pressekonferenz-zum-messerangriff](https://www.spiegel.de/politik/deutschland/aschaffenburg-markus-soeder-und-joachim-herrmann-halten-pressekonferenz-zum-messerangriff-a-b9a0d142-da23-4ad0-972c-624508ee3059#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/aschaffenburg-wie-die-politik-die-gewalttat-fuer-den-wahlkampf-nutzt](https://www.spiegel.de/politik/deutschland/aschaffenburg-wie-die-politik-die-gewalttat-fuer-den-wahlkampf-nutzt-a-c30f4c66-a6a2-4af9-b6d5-7a72dd9aef01#ref=rss)
-### lettlands
-
-* [https://www.spiegel.de/ausland/lettlands-premierministerin-evika-silina-ueber-sicherheit-in-europa-deutschland-muss-mutiger-sein](https://www.spiegel.de/ausland/lettlands-premierministerin-evika-silina-ueber-sicherheit-in-europa-deutschland-muss-mutiger-sein-a-81fcac65-a22b-4c8d-ae3b-83faf5258606#ref=rss)
-### premierministerin
-
-* [https://www.spiegel.de/ausland/lettlands-premierministerin-evika-silina-ueber-sicherheit-in-europa-deutschland-muss-mutiger-sein](https://www.spiegel.de/ausland/lettlands-premierministerin-evika-silina-ueber-sicherheit-in-europa-deutschland-muss-mutiger-sein-a-81fcac65-a22b-4c8d-ae3b-83faf5258606#ref=rss)
-### evika
-
-* [https://www.spiegel.de/ausland/lettlands-premierministerin-evika-silina-ueber-sicherheit-in-europa-deutschland-muss-mutiger-sein](https://www.spiegel.de/ausland/lettlands-premierministerin-evika-silina-ueber-sicherheit-in-europa-deutschland-muss-mutiger-sein-a-81fcac65-a22b-4c8d-ae3b-83faf5258606#ref=rss)
-### werde
-
-* [https://www.spiegel.de/ausland/lettlands-premierministerin-evika-silina-ueber-sicherheit-in-europa-deutschland-muss-mutiger-sein](https://www.spiegel.de/ausland/lettlands-premierministerin-evika-silina-ueber-sicherheit-in-europa-deutschland-muss-mutiger-sein-a-81fcac65-a22b-4c8d-ae3b-83faf5258606#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-will-als-kanzler-faktisches-einreiseverbot-fuer-illegale-verhaengen](https://www.spiegel.de/politik/deutschland/friedrich-merz-will-als-kanzler-faktisches-einreiseverbot-fuer-illegale-verhaengen-a-46b54beb-2a47-4148-910b-2b024798f632#ref=rss)
-### europäische
-
-* [https://www.spiegel.de/ausland/lettlands-premierministerin-evika-silina-ueber-sicherheit-in-europa-deutschland-muss-mutiger-sein](https://www.spiegel.de/ausland/lettlands-premierministerin-evika-silina-ueber-sicherheit-in-europa-deutschland-muss-mutiger-sein-a-81fcac65-a22b-4c8d-ae3b-83faf5258606#ref=rss)
-* [https://www.spiegel.de/wirtschaft/europaeische-union-fast-die-haelfte-des-eu-stroms-aus-erneuerbarer-energie](https://www.spiegel.de/wirtschaft/europaeische-union-fast-die-haelfte-des-eu-stroms-aus-erneuerbarer-energie-a-a22e48ae-d391-425b-b96e-b80ca734663d#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-will-als-kanzler-faktisches-einreiseverbot-fuer-illegale-verhaengen](https://www.spiegel.de/politik/deutschland/friedrich-merz-will-als-kanzler-faktisches-einreiseverbot-fuer-illegale-verhaengen-a-46b54beb-2a47-4148-910b-2b024798f632#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wie-ich-einmal-mitleid-mit-friedrich-merz-bekam-kolumne](https://www.spiegel.de/politik/deutschland/wie-ich-einmal-mitleid-mit-friedrich-merz-bekam-kolumne-a-acaed9a6-03b6-46c0-bea4-4c1a674a23c0#ref=rss)
-### kanzler
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-will-als-kanzler-faktisches-einreiseverbot-fuer-illegale-verhaengen](https://www.spiegel.de/politik/deutschland/friedrich-merz-will-als-kanzler-faktisches-einreiseverbot-fuer-illegale-verhaengen-a-46b54beb-2a47-4148-910b-2b024798f632#ref=rss)
-### sollte
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-will-als-kanzler-faktisches-einreiseverbot-fuer-illegale-verhaengen](https://www.spiegel.de/politik/deutschland/friedrich-merz-will-als-kanzler-faktisches-einreiseverbot-fuer-illegale-verhaengen-a-46b54beb-2a47-4148-910b-2b024798f632#ref=rss)
-* [https://www.spiegel.de/wirtschaft/dieselskandal-gesundheitliche-gruende-verhandlung-gegen-martin-winterkorn-ausgesetzt](https://www.spiegel.de/wirtschaft/dieselskandal-gesundheitliche-gruende-verhandlung-gegen-martin-winterkorn-ausgesetzt-a-bf245f33-305e-4439-98ee-71695a0b05c4#ref=rss)
-### naziverbrecher
-
-* [https://www.spiegel.de/politik/deutschland/nazi-verbrecher-und-ss-soldaten-deutschland-zahlt-opferrenten-an-taeter](https://www.spiegel.de/politik/deutschland/nazi-verbrecher-und-ss-soldaten-deutschland-zahlt-opferrenten-an-taeter-a-583882c1-34c3-4e9f-aab7-1102a5f20bae#ref=rss)
-### zahlt
-
-* [https://www.spiegel.de/politik/deutschland/nazi-verbrecher-und-ss-soldaten-deutschland-zahlt-opferrenten-an-taeter](https://www.spiegel.de/politik/deutschland/nazi-verbrecher-und-ss-soldaten-deutschland-zahlt-opferrenten-an-taeter-a-583882c1-34c3-4e9f-aab7-1102a5f20bae#ref=rss)
-### täter
-
-* [https://www.spiegel.de/politik/deutschland/nazi-verbrecher-und-ss-soldaten-deutschland-zahlt-opferrenten-an-taeter](https://www.spiegel.de/politik/deutschland/nazi-verbrecher-und-ss-soldaten-deutschland-zahlt-opferrenten-an-taeter-a-583882c1-34c3-4e9f-aab7-1102a5f20bae#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/aschaffenburg-wie-die-politik-die-gewalttat-fuer-den-wahlkampf-nutzt](https://www.spiegel.de/politik/deutschland/aschaffenburg-wie-die-politik-die-gewalttat-fuer-den-wahlkampf-nutzt-a-c30f4c66-a6a2-4af9-b6d5-7a72dd9aef01#ref=rss)
+* [https://www.spiegel.de/panorama/aschaffenburg-tatverdaechtiger-muss-in-die-psychiatrie](https://www.spiegel.de/panorama/aschaffenburg-tatverdaechtiger-muss-in-die-psychiatrie-a-d7579123-c1cf-461c-ac01-ad9237649db8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-aschaffenburg-rene-benko-weltwirtschaftsforum-davos](https://www.spiegel.de/politik/deutschland/news-des-tages-aschaffenburg-rene-benko-weltwirtschaftsforum-davos-a-28fc3719-e268-47a1-ba65-213020642550#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-aeussert-sich-nach-messerattacke-auf-kindergartengruppe-in-aschaffenburg](https://www.spiegel.de/politik/deutschland/olaf-scholz-aeussert-sich-nach-messerattacke-auf-kindergartengruppe-in-aschaffenburg-a-e7e8e11f-84a4-4ef0-8b53-720af1b03cf5#ref=rss)
 ### deutsche
 
-* [https://www.spiegel.de/politik/deutschland/nazi-verbrecher-und-ss-soldaten-deutschland-zahlt-opferrenten-an-taeter](https://www.spiegel.de/politik/deutschland/nazi-verbrecher-und-ss-soldaten-deutschland-zahlt-opferrenten-an-taeter-a-583882c1-34c3-4e9f-aab7-1102a5f20bae#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutsches-institut-fuer-wirtschaftsforschung-diw-deutsche-industrie-braucht-mehr-zuwanderung](https://www.spiegel.de/wirtschaft/deutsches-institut-fuer-wirtschaftsforschung-diw-deutsche-industrie-braucht-mehr-zuwanderung-a-2520f38d-4ee7-450a-8fea-5bdceed92ef2#ref=rss)
-### neue
+* [https://www.spiegel.de/panorama/italien-mafia-brettspiel-la-famiglia-sorgt-fuer-kritik](https://www.spiegel.de/panorama/italien-mafia-brettspiel-la-famiglia-sorgt-fuer-kritik-a-934830fb-468e-4371-b0fd-f1b9db62e25d#ref=rss)
+* [https://www.spiegel.de/kultur/kino/oscars-2025-emilia-perez-in-13-kategorien-fuer-den-oscar-nominiert-auch-zwei-deutsche-filme-in-der-endausscheidung](https://www.spiegel.de/kultur/kino/oscars-2025-emilia-perez-in-13-kategorien-fuer-den-oscar-nominiert-auch-zwei-deutsche-filme-in-der-endausscheidung-a-74b073e8-c384-4d2c-a052-e4e666e23bb6#ref=rss)
+* [https://www.spiegel.de/auto/norwegen-wie-starlink-den-internetempfang-im-zug-beschleunigt](https://www.spiegel.de/auto/norwegen-wie-starlink-den-internetempfang-im-zug-beschleunigt-a-6e01c0b9-80c9-47ab-b1d6-1094236682de#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/politik/deutschland/nazi-verbrecher-und-ss-soldaten-deutschland-zahlt-opferrenten-an-taeter](https://www.spiegel.de/politik/deutschland/nazi-verbrecher-und-ss-soldaten-deutschland-zahlt-opferrenten-an-taeter-a-583882c1-34c3-4e9f-aab7-1102a5f20bae#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-die-us-medien-das-kalkuel-des-praesidenten-geht-auf](https://www.spiegel.de/ausland/donald-trump-und-die-us-medien-das-kalkuel-des-praesidenten-geht-auf-a-d6e41dc1-21ea-4890-bdbc-c38ab7dbc994#ref=rss)
-### zeigen
-
-* [https://www.spiegel.de/politik/deutschland/nazi-verbrecher-und-ss-soldaten-deutschland-zahlt-opferrenten-an-taeter](https://www.spiegel.de/politik/deutschland/nazi-verbrecher-und-ss-soldaten-deutschland-zahlt-opferrenten-an-taeter-a-583882c1-34c3-4e9f-aab7-1102a5f20bae#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wie-ich-einmal-mitleid-mit-friedrich-merz-bekam-kolumne](https://www.spiegel.de/politik/deutschland/wie-ich-einmal-mitleid-mit-friedrich-merz-bekam-kolumne-a-acaed9a6-03b6-46c0-bea4-4c1a674a23c0#ref=rss)
-### gehen
-
-* [https://www.spiegel.de/politik/deutschland/nazi-verbrecher-und-ss-soldaten-deutschland-zahlt-opferrenten-an-taeter](https://www.spiegel.de/politik/deutschland/nazi-verbrecher-und-ss-soldaten-deutschland-zahlt-opferrenten-an-taeter-a-583882c1-34c3-4e9f-aab7-1102a5f20bae#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutsches-institut-fuer-wirtschaftsforschung-diw-deutsche-industrie-braucht-mehr-zuwanderung](https://www.spiegel.de/wirtschaft/deutsches-institut-fuer-wirtschaftsforschung-diw-deutsche-industrie-braucht-mehr-zuwanderung-a-2520f38d-4ee7-450a-8fea-5bdceed92ef2#ref=rss)
-### eigentlich
-
-* [https://www.spiegel.de/politik/deutschland/nazi-verbrecher-und-ss-soldaten-deutschland-zahlt-opferrenten-an-taeter](https://www.spiegel.de/politik/deutschland/nazi-verbrecher-und-ss-soldaten-deutschland-zahlt-opferrenten-an-taeter-a-583882c1-34c3-4e9f-aab7-1102a5f20bae#ref=rss)
-* [https://www.spiegel.de/wirtschaft/dieselskandal-gesundheitliche-gruende-verhandlung-gegen-martin-winterkorn-ausgesetzt](https://www.spiegel.de/wirtschaft/dieselskandal-gesundheitliche-gruende-verhandlung-gegen-martin-winterkorn-ausgesetzt-a-bf245f33-305e-4439-98ee-71695a0b05c4#ref=rss)
-### aldi
-
-* [https://www.spiegel.de/wirtschaft/aldi-sued-ficht-verkaufsverbot-fuer-seine-dubai-schokolade-an](https://www.spiegel.de/wirtschaft/aldi-sued-ficht-verkaufsverbot-fuer-seine-dubai-schokolade-an-a-6b578fb1-3f8f-47e9-8e5d-dadf1ebcc11b#ref=rss)
-### süd
-
-* [https://www.spiegel.de/wirtschaft/aldi-sued-ficht-verkaufsverbot-fuer-seine-dubai-schokolade-an](https://www.spiegel.de/wirtschaft/aldi-sued-ficht-verkaufsverbot-fuer-seine-dubai-schokolade-an-a-6b578fb1-3f8f-47e9-8e5d-dadf1ebcc11b#ref=rss)
-### dubaischokolade
-
-* [https://www.spiegel.de/wirtschaft/aldi-sued-ficht-verkaufsverbot-fuer-seine-dubai-schokolade-an](https://www.spiegel.de/wirtschaft/aldi-sued-ficht-verkaufsverbot-fuer-seine-dubai-schokolade-an-a-6b578fb1-3f8f-47e9-8e5d-dadf1ebcc11b#ref=rss)
-### israel
-
-* [https://www.spiegel.de/kultur/musik/israel-hamas-krieg-ueberlebende-des-nova-musik-festivals-vertritt-israel-beim-esc](https://www.spiegel.de/kultur/musik/israel-hamas-krieg-ueberlebende-des-nova-musik-festivals-vertritt-israel-beim-esc-a-1fdce919-cfcd-4bf8-973e-f756a8551822#ref=rss)
-### unter
-
-* [https://www.spiegel.de/kultur/musik/israel-hamas-krieg-ueberlebende-des-nova-musik-festivals-vertritt-israel-beim-esc](https://www.spiegel.de/kultur/musik/israel-hamas-krieg-ueberlebende-des-nova-musik-festivals-vertritt-israel-beim-esc-a-1fdce919-cfcd-4bf8-973e-f756a8551822#ref=rss)
-* [https://www.spiegel.de/familie/kinderfragen-und-aus-welchem-material-ist-eine-e-mail-fragte-mein-sohn](https://www.spiegel.de/familie/kinderfragen-und-aus-welchem-material-ist-eine-e-mail-fragte-mein-sohn-a-09405b09-24d4-4f88-bda6-f5498a534137#ref=rss)
-### bundestagswahl
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-wo-politpromis-antreten-manchmal-auch-gegeneinander](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-wo-politpromis-antreten-manchmal-auch-gegeneinander-a-242869dd-caff-4e58-a263-1b6f9fbbf953#ref=rss)
-### besonders
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-wo-politpromis-antreten-manchmal-auch-gegeneinander](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-wo-politpromis-antreten-manchmal-auch-gegeneinander-a-242869dd-caff-4e58-a263-1b6f9fbbf953#ref=rss)
-* [https://www.spiegel.de/ausland/austritt-der-usa-aus-der-weltgesundheitsorganisation-who-in-vielen-laendern-wuerde-chaos-ausbrechen](https://www.spiegel.de/ausland/austritt-der-usa-aus-der-weltgesundheitsorganisation-who-in-vielen-laendern-wuerde-chaos-ausbrechen-a-bd7efa7e-ccaa-4026-aa26-d21d86e6341c#ref=rss)
-### dinkelsbühl
-
-* [https://www.spiegel.de/panorama/justiz/dinkelsbuehl-frau-holt-gesperrten-fuehrerschein-mit-dem-auto-ab](https://www.spiegel.de/panorama/justiz/dinkelsbuehl-frau-holt-gesperrten-fuehrerschein-mit-dem-auto-ab-a-e925c3af-ccc0-458f-bf61-b2dca6a15c2f#ref=rss)
-### linkedin
-
-* [https://www.spiegel.de/netzwelt/apps/klage-in-kalifornien-linkedin-soll-privatnachrichten-von-millionen-nutzern-fuer-ki-training-verwendet-haben](https://www.spiegel.de/netzwelt/apps/klage-in-kalifornien-linkedin-soll-privatnachrichten-von-millionen-nutzern-fuer-ki-training-verwendet-haben-a-e495c960-f4a0-45bf-a6e1-0a059b245d5e#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/netzwelt/apps/klage-in-kalifornien-linkedin-soll-privatnachrichten-von-millionen-nutzern-fuer-ki-training-verwendet-haben](https://www.spiegel.de/netzwelt/apps/klage-in-kalifornien-linkedin-soll-privatnachrichten-von-millionen-nutzern-fuer-ki-training-verwendet-haben-a-e495c960-f4a0-45bf-a6e1-0a059b245d5e#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-eintracht-frankfurts-omar-marmoush-wechselt-zu-manchester-city-transfer-fix](https://www.spiegel.de/sport/fussball/fussball-eintracht-frankfurts-omar-marmoush-wechselt-zu-manchester-city-transfer-fix-a-ba980b2b-ed2f-4a14-a2e7-481bd4cdb7bb#ref=rss)
-### wirtschaftsforschung
-
-* [https://www.spiegel.de/wirtschaft/deutsches-institut-fuer-wirtschaftsforschung-diw-deutsche-industrie-braucht-mehr-zuwanderung](https://www.spiegel.de/wirtschaft/deutsches-institut-fuer-wirtschaftsforschung-diw-deutsche-industrie-braucht-mehr-zuwanderung-a-2520f38d-4ee7-450a-8fea-5bdceed92ef2#ref=rss)
-### industrie
-
-* [https://www.spiegel.de/wirtschaft/deutsches-institut-fuer-wirtschaftsforschung-diw-deutsche-industrie-braucht-mehr-zuwanderung](https://www.spiegel.de/wirtschaft/deutsches-institut-fuer-wirtschaftsforschung-diw-deutsche-industrie-braucht-mehr-zuwanderung-a-2520f38d-4ee7-450a-8fea-5bdceed92ef2#ref=rss)
-### eintracht
-
-* [https://www.spiegel.de/sport/fussball/fussball-eintracht-frankfurts-omar-marmoush-wechselt-zu-manchester-city-transfer-fix](https://www.spiegel.de/sport/fussball/fussball-eintracht-frankfurts-omar-marmoush-wechselt-zu-manchester-city-transfer-fix-a-ba980b2b-ed2f-4a14-a2e7-481bd4cdb7bb#ref=rss)
-### omar
-
-* [https://www.spiegel.de/sport/fussball/fussball-eintracht-frankfurts-omar-marmoush-wechselt-zu-manchester-city-transfer-fix](https://www.spiegel.de/sport/fussball/fussball-eintracht-frankfurts-omar-marmoush-wechselt-zu-manchester-city-transfer-fix-a-ba980b2b-ed2f-4a14-a2e7-481bd4cdb7bb#ref=rss)
-### marmoush
-
-* [https://www.spiegel.de/sport/fussball/fussball-eintracht-frankfurts-omar-marmoush-wechselt-zu-manchester-city-transfer-fix](https://www.spiegel.de/sport/fussball/fussball-eintracht-frankfurts-omar-marmoush-wechselt-zu-manchester-city-transfer-fix-a-ba980b2b-ed2f-4a14-a2e7-481bd4cdb7bb#ref=rss)
-### manchester
-
-* [https://www.spiegel.de/sport/fussball/fussball-eintracht-frankfurts-omar-marmoush-wechselt-zu-manchester-city-transfer-fix](https://www.spiegel.de/sport/fussball/fussball-eintracht-frankfurts-omar-marmoush-wechselt-zu-manchester-city-transfer-fix-a-ba980b2b-ed2f-4a14-a2e7-481bd4cdb7bb#ref=rss)
-### city
-
-* [https://www.spiegel.de/sport/fussball/fussball-eintracht-frankfurts-omar-marmoush-wechselt-zu-manchester-city-transfer-fix](https://www.spiegel.de/sport/fussball/fussball-eintracht-frankfurts-omar-marmoush-wechselt-zu-manchester-city-transfer-fix-a-ba980b2b-ed2f-4a14-a2e7-481bd4cdb7bb#ref=rss)
-### bestürzung
-
-* [https://www.spiegel.de/panorama/aschaffenburg-bestuerzung-nach-messerangriff-auf-kleinkinder-in-franken](https://www.spiegel.de/panorama/aschaffenburg-bestuerzung-nach-messerangriff-auf-kleinkinder-in-franken-a-dbed1feb-6650-4368-a99a-0ef764b826d9#ref=rss)
-### macht
-
-* [https://www.spiegel.de/panorama/aschaffenburg-bestuerzung-nach-messerangriff-auf-kleinkinder-in-franken](https://www.spiegel.de/panorama/aschaffenburg-bestuerzung-nach-messerangriff-auf-kleinkinder-in-franken-a-dbed1feb-6650-4368-a99a-0ef764b826d9#ref=rss)
-* [https://www.spiegel.de/ausland/mexiko-baut-in-ciudad-juarez-lager-fuer-abgeschobene-migranten](https://www.spiegel.de/ausland/mexiko-baut-in-ciudad-juarez-lager-fuer-abgeschobene-migranten-a-db1644eb-a8da-4502-8359-ce16d3a39b62#ref=rss)
-### politik
-
-* [https://www.spiegel.de/panorama/aschaffenburg-bestuerzung-nach-messerangriff-auf-kleinkinder-in-franken](https://www.spiegel.de/panorama/aschaffenburg-bestuerzung-nach-messerangriff-auf-kleinkinder-in-franken-a-dbed1feb-6650-4368-a99a-0ef764b826d9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/aschaffenburg-wie-die-politik-die-gewalttat-fuer-den-wahlkampf-nutzt](https://www.spiegel.de/politik/deutschland/aschaffenburg-wie-die-politik-die-gewalttat-fuer-den-wahlkampf-nutzt-a-c30f4c66-a6a2-4af9-b6d5-7a72dd9aef01#ref=rss)
-### rené
-
-* [https://www.spiegel.de/wirtschaft/behoerden-nehmen-immobilienjongleur-rene-benko-in-innsbruck-fest](https://www.spiegel.de/wirtschaft/behoerden-nehmen-immobilienjongleur-rene-benko-in-innsbruck-fest-a-7e672336-a18e-4c88-868b-0a18ea872818#ref=rss)
-### benko
-
-* [https://www.spiegel.de/wirtschaft/behoerden-nehmen-immobilienjongleur-rene-benko-in-innsbruck-fest](https://www.spiegel.de/wirtschaft/behoerden-nehmen-immobilienjongleur-rene-benko-in-innsbruck-fest-a-7e672336-a18e-4c88-868b-0a18ea872818#ref=rss)
-### mein
-
-* [https://www.spiegel.de/familie/kinderfragen-und-aus-welchem-material-ist-eine-e-mail-fragte-mein-sohn](https://www.spiegel.de/familie/kinderfragen-und-aus-welchem-material-ist-eine-e-mail-fragte-mein-sohn-a-09405b09-24d4-4f88-bda6-f5498a534137#ref=rss)
-### wissen
-
-* [https://www.spiegel.de/familie/kinderfragen-und-aus-welchem-material-ist-eine-e-mail-fragte-mein-sohn](https://www.spiegel.de/familie/kinderfragen-und-aus-welchem-material-ist-eine-e-mail-fragte-mein-sohn-a-09405b09-24d4-4f88-bda6-f5498a534137#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/jeder-zehnte-junge-erwachsene-kennt-laut-umfrage-holocaust-nicht](https://www.spiegel.de/panorama/gesellschaft/jeder-zehnte-junge-erwachsene-kennt-laut-umfrage-holocaust-nicht-a-a44a9c24-9326-4528-9f58-919bd642af9c#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/sport/handball/handball-wm-wie-eine-facebook-nachricht-italiens-handball-veraenderte](https://www.spiegel.de/sport/handball/handball-wm-wie-eine-facebook-nachricht-italiens-handball-veraenderte-a-bcd89ba9-5d24-44d7-9427-b19935af7152#ref=rss)
-* [https://www.spiegel.de/ausland/austritt-der-usa-aus-der-weltgesundheitsorganisation-who-in-vielen-laendern-wuerde-chaos-ausbrechen](https://www.spiegel.de/ausland/austritt-der-usa-aus-der-weltgesundheitsorganisation-who-in-vielen-laendern-wuerde-chaos-ausbrechen-a-bd7efa7e-ccaa-4026-aa26-d21d86e6341c#ref=rss)
-### populistinnen
-
-* [https://www.spiegel.de/geschichte/populistinnen-alice-weidel-und-sahra-wagenknecht-worin-aehneln-sie-sich](https://www.spiegel.de/geschichte/populistinnen-alice-weidel-und-sahra-wagenknecht-worin-aehneln-sie-sich-a-ea3db481-e309-4e5c-a350-c110b949a2d9#ref=rss)
-### alice
-
-* [https://www.spiegel.de/geschichte/populistinnen-alice-weidel-und-sahra-wagenknecht-worin-aehneln-sie-sich](https://www.spiegel.de/geschichte/populistinnen-alice-weidel-und-sahra-wagenknecht-worin-aehneln-sie-sich-a-ea3db481-e309-4e5c-a350-c110b949a2d9#ref=rss)
-### weidel
-
-* [https://www.spiegel.de/geschichte/populistinnen-alice-weidel-und-sahra-wagenknecht-worin-aehneln-sie-sich](https://www.spiegel.de/geschichte/populistinnen-alice-weidel-und-sahra-wagenknecht-worin-aehneln-sie-sich-a-ea3db481-e309-4e5c-a350-c110b949a2d9#ref=rss)
-### sahra
-
-* [https://www.spiegel.de/geschichte/populistinnen-alice-weidel-und-sahra-wagenknecht-worin-aehneln-sie-sich](https://www.spiegel.de/geschichte/populistinnen-alice-weidel-und-sahra-wagenknecht-worin-aehneln-sie-sich-a-ea3db481-e309-4e5c-a350-c110b949a2d9#ref=rss)
-### wagenknecht
-
-* [https://www.spiegel.de/geschichte/populistinnen-alice-weidel-und-sahra-wagenknecht-worin-aehneln-sie-sich](https://www.spiegel.de/geschichte/populistinnen-alice-weidel-und-sahra-wagenknecht-worin-aehneln-sie-sich-a-ea3db481-e309-4e5c-a350-c110b949a2d9#ref=rss)
-### worin
-
-* [https://www.spiegel.de/geschichte/populistinnen-alice-weidel-und-sahra-wagenknecht-worin-aehneln-sie-sich](https://www.spiegel.de/geschichte/populistinnen-alice-weidel-und-sahra-wagenknecht-worin-aehneln-sie-sich-a-ea3db481-e309-4e5c-a350-c110b949a2d9#ref=rss)
-### ähneln
-
-* [https://www.spiegel.de/geschichte/populistinnen-alice-weidel-und-sahra-wagenknecht-worin-aehneln-sie-sich](https://www.spiegel.de/geschichte/populistinnen-alice-weidel-und-sahra-wagenknecht-worin-aehneln-sie-sich-a-ea3db481-e309-4e5c-a350-c110b949a2d9#ref=rss)
-### austritt
-
-* [https://www.spiegel.de/ausland/austritt-der-usa-aus-der-weltgesundheitsorganisation-who-in-vielen-laendern-wuerde-chaos-ausbrechen](https://www.spiegel.de/ausland/austritt-der-usa-aus-der-weltgesundheitsorganisation-who-in-vielen-laendern-wuerde-chaos-ausbrechen-a-bd7efa7e-ccaa-4026-aa26-d21d86e6341c#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/austritt-der-usa-aus-der-weltgesundheitsorganisation-who-in-vielen-laendern-wuerde-chaos-ausbrechen](https://www.spiegel.de/ausland/austritt-der-usa-aus-der-weltgesundheitsorganisation-who-in-vielen-laendern-wuerde-chaos-ausbrechen-a-bd7efa7e-ccaa-4026-aa26-d21d86e6341c#ref=rss)
-### who
-
-* [https://www.spiegel.de/ausland/austritt-der-usa-aus-der-weltgesundheitsorganisation-who-in-vielen-laendern-wuerde-chaos-ausbrechen](https://www.spiegel.de/ausland/austritt-der-usa-aus-der-weltgesundheitsorganisation-who-in-vielen-laendern-wuerde-chaos-ausbrechen-a-bd7efa7e-ccaa-4026-aa26-d21d86e6341c#ref=rss)
-### ländern
-
-* [https://www.spiegel.de/ausland/austritt-der-usa-aus-der-weltgesundheitsorganisation-who-in-vielen-laendern-wuerde-chaos-ausbrechen](https://www.spiegel.de/ausland/austritt-der-usa-aus-der-weltgesundheitsorganisation-who-in-vielen-laendern-wuerde-chaos-ausbrechen-a-bd7efa7e-ccaa-4026-aa26-d21d86e6341c#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/jeder-zehnte-junge-erwachsene-kennt-laut-umfrage-holocaust-nicht](https://www.spiegel.de/panorama/gesellschaft/jeder-zehnte-junge-erwachsene-kennt-laut-umfrage-holocaust-nicht-a-a44a9c24-9326-4528-9f58-919bd642af9c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-duo-ueberfaellt-juwelier-und-baut-bei-verfolgungsjagd-neun-unfaelle](https://www.spiegel.de/panorama/justiz/berlin-duo-ueberfaellt-juwelier-und-baut-bei-verfolgungsjagd-neun-unfaelle-a-2ebe2725-b007-45f3-aa3e-51542ea3410e#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/problemschule-in-berlin-leiterin-der-friedrich-bergius-schule-muss-gehen](https://www.spiegel.de/panorama/bildung/problemschule-in-berlin-leiterin-der-friedrich-bergius-schule-muss-gehen-a-15bd86d2-d4db-4fa2-abc9-b795f85b83fc#ref=rss)
 ### viele
 
-* [https://www.spiegel.de/ausland/austritt-der-usa-aus-der-weltgesundheitsorganisation-who-in-vielen-laendern-wuerde-chaos-ausbrechen](https://www.spiegel.de/ausland/austritt-der-usa-aus-der-weltgesundheitsorganisation-who-in-vielen-laendern-wuerde-chaos-ausbrechen-a-bd7efa7e-ccaa-4026-aa26-d21d86e6341c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/europaeische-union-fast-die-haelfte-des-eu-stroms-aus-erneuerbarer-energie](https://www.spiegel.de/wirtschaft/europaeische-union-fast-die-haelfte-des-eu-stroms-aus-erneuerbarer-energie-a-a22e48ae-d391-425b-b96e-b80ca734663d#ref=rss)
-### dänemark
+* [https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-podcast](https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-podcast-a-a0dc94e2-3290-4d99-8b47-e2ccfb81a123#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet](https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-a-2c3200ff-5921-4717-a262-d547d5163297#ref=rss)
+* [https://www.spiegel.de/kultur/kino/oscars-2025-emilia-perez-in-13-kategorien-fuer-den-oscar-nominiert-auch-zwei-deutsche-filme-in-der-endausscheidung](https://www.spiegel.de/kultur/kino/oscars-2025-emilia-perez-in-13-kategorien-fuer-den-oscar-nominiert-auch-zwei-deutsche-filme-in-der-endausscheidung-a-74b073e8-c384-4d2c-a052-e4e666e23bb6#ref=rss)
+### uns
 
-* [https://www.spiegel.de/ausland/norwegen-profitiert-am-ukrainekrieg-und-streitet-mit-daenemark-ueber-unterstuetzung-fuer-kiew](https://www.spiegel.de/ausland/norwegen-profitiert-am-ukrainekrieg-und-streitet-mit-daenemark-ueber-unterstuetzung-fuer-kiew-a-a0da7286-d033-4c2f-aa27-9d1109546e8e#ref=rss)
-### kritik
+* [https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-podcast](https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-podcast-a-a0dc94e2-3290-4d99-8b47-e2ccfb81a123#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet](https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-a-2c3200ff-5921-4717-a262-d547d5163297#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cem-oezdemo-leute-wie-trump-halten-uns-fuer-schwaechlinge-leider-bestaetigen-wir-diesen-eindruck-oft-genug](https://www.spiegel.de/politik/deutschland/cem-oezdemo-leute-wie-trump-halten-uns-fuer-schwaechlinge-leider-bestaetigen-wir-diesen-eindruck-oft-genug-a-f77b8b1b-5866-440b-9b59-14b2953f9aaf#ref=rss)
+### ermittelt
 
-* [https://www.spiegel.de/ausland/norwegen-profitiert-am-ukrainekrieg-und-streitet-mit-daenemark-ueber-unterstuetzung-fuer-kiew](https://www.spiegel.de/ausland/norwegen-profitiert-am-ukrainekrieg-und-streitet-mit-daenemark-ueber-unterstuetzung-fuer-kiew-a-a0da7286-d033-4c2f-aa27-9d1109546e8e#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-die-us-medien-das-kalkuel-des-praesidenten-geht-auf](https://www.spiegel.de/ausland/donald-trump-und-die-us-medien-das-kalkuel-des-praesidenten-geht-auf-a-d6e41dc1-21ea-4890-bdbc-c38ab7dbc994#ref=rss)
+* [https://www.spiegel.de/panorama/elon-musk-staatsschutz-ermittelt-nach-projektion-tesla-werk-in-gruenheide](https://www.spiegel.de/panorama/elon-musk-staatsschutz-ermittelt-nach-projektion-tesla-werk-in-gruenheide-a-8268048f-050b-4ae7-adf8-bb9cf572cf25#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/zeulenroda-triebes-busfahrerin-feuert-schreckschusswaffe-ab](https://www.spiegel.de/panorama/justiz/zeulenroda-triebes-busfahrerin-feuert-schreckschusswaffe-ab-a-fc6484f0-6712-4e24-869d-0acc6902b69e#ref=rss)
+### hunderte
+
+* [https://www.spiegel.de/ausland/kapitolstuermerin-lehnt-begnadigung-durch-trump-ab](https://www.spiegel.de/ausland/kapitolstuermerin-lehnt-begnadigung-durch-trump-ab-a-ffb83050-6850-41ec-bcba-bbc4b98186fc#ref=rss)
+* [https://www.spiegel.de/ausland/operation-des-israelischen-militaers-hunderte-verlassen-dschenin-im-westjordanland](https://www.spiegel.de/ausland/operation-des-israelischen-militaers-hunderte-verlassen-dschenin-im-westjordanland-a-77949046-46d8-498b-b059-44f4651ee9cf#ref=rss)
+### kindergartengruppe
+
+* [https://www.spiegel.de/panorama/aschaffenburg-tatverdaechtiger-muss-in-die-psychiatrie](https://www.spiegel.de/panorama/aschaffenburg-tatverdaechtiger-muss-in-die-psychiatrie-a-d7579123-c1cf-461c-ac01-ad9237649db8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-aeussert-sich-nach-messerattacke-auf-kindergartengruppe-in-aschaffenburg](https://www.spiegel.de/politik/deutschland/olaf-scholz-aeussert-sich-nach-messerattacke-auf-kindergartengruppe-in-aschaffenburg-a-e7e8e11f-84a4-4ef0-8b53-720af1b03cf5#ref=rss)
+### stellen
+
+* [https://www.spiegel.de/politik/deutschland/cem-oezdemo-leute-wie-trump-halten-uns-fuer-schwaechlinge-leider-bestaetigen-wir-diesen-eindruck-oft-genug](https://www.spiegel.de/politik/deutschland/cem-oezdemo-leute-wie-trump-halten-uns-fuer-schwaechlinge-leider-bestaetigen-wir-diesen-eindruck-oft-genug-a-f77b8b1b-5866-440b-9b59-14b2953f9aaf#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/adidas-verfuenffacht-gewinn-denkt-aber-ueber-jobabbau-nach](https://www.spiegel.de/wirtschaft/unternehmen/adidas-verfuenffacht-gewinn-denkt-aber-ueber-jobabbau-nach-a-838b8236-cc35-4f6e-baa2-81e691753851#ref=rss)
+* [https://www.spiegel.de/wissenschaft/forscher-stellen-historischen-chatbot-eliza-wieder-her-und-ich-sah-sofort-das-muss-der-code-sein](https://www.spiegel.de/wissenschaft/forscher-stellen-historischen-chatbot-eliza-wieder-her-und-ich-sah-sofort-das-muss-der-code-sein-a-928c1c10-0054-4d41-b9c2-7b8e0958a537#ref=rss)
+### arne
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/arne-schoenbohm-ehemaliger-bsi-chef-arne-schoenbohm-scheitert-mit-weiterer-schadenersatzklage](https://www.spiegel.de/netzwelt/netzpolitik/arne-schoenbohm-ehemaliger-bsi-chef-arne-schoenbohm-scheitert-mit-weiterer-schadenersatzklage-a-ab33aead-f39c-4bf1-a939-204b19979cc8#ref=rss)
+### schönbohm
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/arne-schoenbohm-ehemaliger-bsi-chef-arne-schoenbohm-scheitert-mit-weiterer-schadenersatzklage](https://www.spiegel.de/netzwelt/netzpolitik/arne-schoenbohm-ehemaliger-bsi-chef-arne-schoenbohm-scheitert-mit-weiterer-schadenersatzklage-a-ab33aead-f39c-4bf1-a939-204b19979cc8#ref=rss)
+### duo
+
+* [https://www.spiegel.de/panorama/justiz/berlin-duo-ueberfaellt-juwelier-und-baut-bei-verfolgungsjagd-neun-unfaelle](https://www.spiegel.de/panorama/justiz/berlin-duo-ueberfaellt-juwelier-und-baut-bei-verfolgungsjagd-neun-unfaelle-a-2ebe2725-b007-45f3-aa3e-51542ea3410e#ref=rss)
+* [https://www.spiegel.de/sport/tennis/australien-open-2024-aryna-sabalenka-und-madison-keys-im-finale-iga-swiatek-ueberraschend-raus](https://www.spiegel.de/sport/tennis/australien-open-2024-aryna-sabalenka-und-madison-keys-im-finale-iga-swiatek-ueberraschend-raus-a-4236bec4-d15f-4193-8ab6-fe561f54fdea#ref=rss)
+### juwelier
+
+* [https://www.spiegel.de/panorama/justiz/berlin-duo-ueberfaellt-juwelier-und-baut-bei-verfolgungsjagd-neun-unfaelle](https://www.spiegel.de/panorama/justiz/berlin-duo-ueberfaellt-juwelier-und-baut-bei-verfolgungsjagd-neun-unfaelle-a-2ebe2725-b007-45f3-aa3e-51542ea3410e#ref=rss)
+### männer
+
+* [https://www.spiegel.de/panorama/justiz/berlin-duo-ueberfaellt-juwelier-und-baut-bei-verfolgungsjagd-neun-unfaelle](https://www.spiegel.de/panorama/justiz/berlin-duo-ueberfaellt-juwelier-und-baut-bei-verfolgungsjagd-neun-unfaelle-a-2ebe2725-b007-45f3-aa3e-51542ea3410e#ref=rss)
+* [https://www.spiegel.de/kultur/kino/harry-und-sally-gibt-es-ein-sequel-zu-der-erfolgskomoedie-der-achtziger](https://www.spiegel.de/kultur/kino/harry-und-sally-gibt-es-ein-sequel-zu-der-erfolgskomoedie-der-achtziger-a-eb8a385c-1ff7-486b-9ecf-9cb3e585473d#ref=rss)
+### zunächst
+
+* [https://www.spiegel.de/panorama/justiz/berlin-duo-ueberfaellt-juwelier-und-baut-bei-verfolgungsjagd-neun-unfaelle](https://www.spiegel.de/panorama/justiz/berlin-duo-ueberfaellt-juwelier-und-baut-bei-verfolgungsjagd-neun-unfaelle-a-2ebe2725-b007-45f3-aa3e-51542ea3410e#ref=rss)
+* [https://www.spiegel.de/panorama/elon-musk-staatsschutz-ermittelt-nach-projektion-tesla-werk-in-gruenheide](https://www.spiegel.de/panorama/elon-musk-staatsschutz-ermittelt-nach-projektion-tesla-werk-in-gruenheide-a-8268048f-050b-4ae7-adf8-bb9cf572cf25#ref=rss)
+### sihem
+
+* [https://www.spiegel.de/ausland/tunesien-menschenrechtlerin-sihem-bensedrine-tritt-in-hungerstreik](https://www.spiegel.de/ausland/tunesien-menschenrechtlerin-sihem-bensedrine-tritt-in-hungerstreik-a-a7d94f56-88c8-4793-ac03-1516639b290a#ref=rss)
+### bensedrine
+
+* [https://www.spiegel.de/ausland/tunesien-menschenrechtlerin-sihem-bensedrine-tritt-in-hungerstreik](https://www.spiegel.de/ausland/tunesien-menschenrechtlerin-sihem-bensedrine-tritt-in-hungerstreik-a-a7d94f56-88c8-4793-ac03-1516639b290a#ref=rss)
+### galt
+
+* [https://www.spiegel.de/ausland/tunesien-menschenrechtlerin-sihem-bensedrine-tritt-in-hungerstreik](https://www.spiegel.de/ausland/tunesien-menschenrechtlerin-sihem-bensedrine-tritt-in-hungerstreik-a-a7d94f56-88c8-4793-ac03-1516639b290a#ref=rss)
+* [https://www.spiegel.de/wissenschaft/forscher-stellen-historischen-chatbot-eliza-wieder-her-und-ich-sah-sofort-das-muss-der-code-sein](https://www.spiegel.de/wissenschaft/forscher-stellen-historischen-chatbot-eliza-wieder-her-und-ich-sah-sofort-das-muss-der-code-sein-a-928c1c10-0054-4d41-b9c2-7b8e0958a537#ref=rss)
+### sollte
+
+* [https://www.spiegel.de/ausland/tunesien-menschenrechtlerin-sihem-bensedrine-tritt-in-hungerstreik](https://www.spiegel.de/ausland/tunesien-menschenrechtlerin-sihem-bensedrine-tritt-in-hungerstreik-a-a7d94f56-88c8-4793-ac03-1516639b290a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-nord-stream-2-und-klimastiftung-teilnahme-abgsagt](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-nord-stream-2-und-klimastiftung-teilnahme-abgsagt-a-a004f10e-d4a5-485f-a57b-3add986494ff#ref=rss)
+### epa
+
+* [https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-podcast](https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-podcast-a-a0dc94e2-3290-4d99-8b47-e2ccfb81a123#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet](https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-a-2c3200ff-5921-4717-a262-d547d5163297#ref=rss)
+### karl
+
+* [https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-podcast](https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-podcast-a-a0dc94e2-3290-4d99-8b47-e2ccfb81a123#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet](https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-a-2c3200ff-5921-4717-a262-d547d5163297#ref=rss)
+### lauterbach
+
+* [https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-podcast](https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-podcast-a-a0dc94e2-3290-4d99-8b47-e2ccfb81a123#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet](https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-a-2c3200ff-5921-4717-a262-d547d5163297#ref=rss)
+### verspricht
+
+* [https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-podcast](https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-podcast-a-a0dc94e2-3290-4d99-8b47-e2ccfb81a123#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet](https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-a-2c3200ff-5921-4717-a262-d547d5163297#ref=rss)
+### wirklich
+
+* [https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-podcast](https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-podcast-a-a0dc94e2-3290-4d99-8b47-e2ccfb81a123#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet](https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-a-2c3200ff-5921-4717-a262-d547d5163297#ref=rss)
+### bedeutet
+
+* [https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-podcast](https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-podcast-a-a0dc94e2-3290-4d99-8b47-e2ccfb81a123#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet](https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-a-2c3200ff-5921-4717-a262-d547d5163297#ref=rss)
+### arztbesuche
+
+* [https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-podcast](https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-podcast-a-a0dc94e2-3290-4d99-8b47-e2ccfb81a123#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet](https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-a-2c3200ff-5921-4717-a262-d547d5163297#ref=rss)
+### ohne
+
+* [https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-podcast](https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-podcast-a-a0dc94e2-3290-4d99-8b47-e2ccfb81a123#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet](https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-a-2c3200ff-5921-4717-a262-d547d5163297#ref=rss)
+### zettelwirtschaft
+
+* [https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-podcast](https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-podcast-a-a0dc94e2-3290-4d99-8b47-e2ccfb81a123#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet](https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-a-2c3200ff-5921-4717-a262-d547d5163297#ref=rss)
+### bessere
+
+* [https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-podcast](https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-podcast-a-a0dc94e2-3290-4d99-8b47-e2ccfb81a123#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet](https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-a-2c3200ff-5921-4717-a262-d547d5163297#ref=rss)
+### behandlung
+
+* [https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-podcast](https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-podcast-a-a0dc94e2-3290-4d99-8b47-e2ccfb81a123#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet](https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-a-2c3200ff-5921-4717-a262-d547d5163297#ref=rss)
+### dank
+
+* [https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-podcast](https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-podcast-a-a0dc94e2-3290-4d99-8b47-e2ccfb81a123#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet](https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-a-2c3200ff-5921-4717-a262-d547d5163297#ref=rss)
+### ki
+
+* [https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-podcast](https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-podcast-a-a0dc94e2-3290-4d99-8b47-e2ccfb81a123#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet](https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-a-2c3200ff-5921-4717-a262-d547d5163297#ref=rss)
+### vorteile
+
+* [https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-podcast](https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-podcast-a-a0dc94e2-3290-4d99-8b47-e2ccfb81a123#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet](https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-a-2c3200ff-5921-4717-a262-d547d5163297#ref=rss)
+### bieten
+
+* [https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-podcast](https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-podcast-a-a0dc94e2-3290-4d99-8b47-e2ccfb81a123#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet](https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-a-2c3200ff-5921-4717-a262-d547d5163297#ref=rss)
+### spiegelredakteur
+
+* [https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-podcast](https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-podcast-a-a0dc94e2-3290-4d99-8b47-e2ccfb81a123#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet](https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-a-2c3200ff-5921-4717-a262-d547d5163297#ref=rss)
 ### martin
 
-* [https://www.spiegel.de/wirtschaft/dieselskandal-gesundheitliche-gruende-verhandlung-gegen-martin-winterkorn-ausgesetzt](https://www.spiegel.de/wirtschaft/dieselskandal-gesundheitliche-gruende-verhandlung-gegen-martin-winterkorn-ausgesetzt-a-bf245f33-305e-4439-98ee-71695a0b05c4#ref=rss)
-### umfrage
+* [https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-podcast](https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-podcast-a-a0dc94e2-3290-4d99-8b47-e2ccfb81a123#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet](https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-a-2c3200ff-5921-4717-a262-d547d5163297#ref=rss)
+### u
 
-* [https://www.spiegel.de/panorama/gesellschaft/jeder-zehnte-junge-erwachsene-kennt-laut-umfrage-holocaust-nicht](https://www.spiegel.de/panorama/gesellschaft/jeder-zehnte-junge-erwachsene-kennt-laut-umfrage-holocaust-nicht-a-a44a9c24-9326-4528-9f58-919bd642af9c#ref=rss)
-### holocaust
+* [https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-podcast](https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-podcast-a-a0dc94e2-3290-4d99-8b47-e2ccfb81a123#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet](https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-a-2c3200ff-5921-4717-a262-d547d5163297#ref=rss)
+### müller
 
-* [https://www.spiegel.de/panorama/gesellschaft/jeder-zehnte-junge-erwachsene-kennt-laut-umfrage-holocaust-nicht](https://www.spiegel.de/panorama/gesellschaft/jeder-zehnte-junge-erwachsene-kennt-laut-umfrage-holocaust-nicht-a-a44a9c24-9326-4528-9f58-919bd642af9c#ref=rss)
-### judi
+* [https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-podcast](https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-podcast-a-a0dc94e2-3290-4d99-8b47-e2ccfb81a123#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet](https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-a-2c3200ff-5921-4717-a262-d547d5163297#ref=rss)
+### erklärt
 
-* [https://www.spiegel.de/panorama/leute/judi-dench-sieht-kaum-noch-etwas](https://www.spiegel.de/panorama/leute/judi-dench-sieht-kaum-noch-etwas-a-7d17b53c-53d8-43b5-9b32-d784f7a935ce#ref=rss)
-### dench
+* [https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-podcast](https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-podcast-a-a0dc94e2-3290-4d99-8b47-e2ccfb81a123#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet](https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-a-2c3200ff-5921-4717-a262-d547d5163297#ref=rss)
+### zukommt
 
-* [https://www.spiegel.de/panorama/leute/judi-dench-sieht-kaum-noch-etwas](https://www.spiegel.de/panorama/leute/judi-dench-sieht-kaum-noch-etwas-a-7d17b53c-53d8-43b5-9b32-d784f7a935ce#ref=rss)
-### sieht
+* [https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-podcast](https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-podcast-a-a0dc94e2-3290-4d99-8b47-e2ccfb81a123#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet](https://www.spiegel.de/wirtschaft/elektronische-patientenakte-epa-was-karl-lauterbach-verspricht-und-was-sie-wirklich-bedeutet-a-2c3200ff-5921-4717-a262-d547d5163297#ref=rss)
+### schröder
 
-* [https://www.spiegel.de/panorama/leute/judi-dench-sieht-kaum-noch-etwas](https://www.spiegel.de/panorama/leute/judi-dench-sieht-kaum-noch-etwas-a-7d17b53c-53d8-43b5-9b32-d784f7a935ce#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/kinderhilfswerk-umfrage-geld-fuer-bildungschancen-und-gegen-kinderarmut-durch-reichensteuer](https://www.spiegel.de/panorama/bildung/kinderhilfswerk-umfrage-geld-fuer-bildungschancen-und-gegen-kinderarmut-durch-reichensteuer-a-e30e4d8a-6eaa-4d79-b3a4-887daacc9c17#ref=rss)
-### kinderarmut
+* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-nord-stream-2-und-klimastiftung-teilnahme-abgsagt](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-nord-stream-2-und-klimastiftung-teilnahme-abgsagt-a-a004f10e-d4a5-485f-a57b-3add986494ff#ref=rss)
+### klimastiftung
 
-* [https://www.spiegel.de/panorama/bildung/kinderhilfswerk-umfrage-geld-fuer-bildungschancen-und-gegen-kinderarmut-durch-reichensteuer](https://www.spiegel.de/panorama/bildung/kinderhilfswerk-umfrage-geld-fuer-bildungschancen-und-gegen-kinderarmut-durch-reichensteuer-a-e30e4d8a-6eaa-4d79-b3a4-887daacc9c17#ref=rss)
-### niederlage
+* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-nord-stream-2-und-klimastiftung-teilnahme-abgsagt](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-nord-stream-2-und-klimastiftung-teilnahme-abgsagt-a-a004f10e-d4a5-485f-a57b-3add986494ff#ref=rss)
+### umstrittene
 
-* [https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-mit-niederlage-joshua-kimmich-wir-sind-kein-topteam-in-europa](https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-mit-niederlage-joshua-kimmich-wir-sind-kein-topteam-in-europa-a-add86e69-ca70-45f1-b4b3-fd647ef69c89#ref=rss)
-### joshua
+* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-nord-stream-2-und-klimastiftung-teilnahme-abgsagt](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-nord-stream-2-und-klimastiftung-teilnahme-abgsagt-a-a004f10e-d4a5-485f-a57b-3add986494ff#ref=rss)
+* [https://www.spiegel.de/panorama/elon-musk-staatsschutz-ermittelt-nach-projektion-tesla-werk-in-gruenheide](https://www.spiegel.de/panorama/elon-musk-staatsschutz-ermittelt-nach-projektion-tesla-werk-in-gruenheide-a-8268048f-050b-4ae7-adf8-bb9cf572cf25#ref=rss)
+### elon
 
-* [https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-mit-niederlage-joshua-kimmich-wir-sind-kein-topteam-in-europa](https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-mit-niederlage-joshua-kimmich-wir-sind-kein-topteam-in-europa-a-add86e69-ca70-45f1-b4b3-fd647ef69c89#ref=rss)
-### kimmich
+* [https://www.spiegel.de/panorama/elon-musk-staatsschutz-ermittelt-nach-projektion-tesla-werk-in-gruenheide](https://www.spiegel.de/panorama/elon-musk-staatsschutz-ermittelt-nach-projektion-tesla-werk-in-gruenheide-a-8268048f-050b-4ae7-adf8-bb9cf572cf25#ref=rss)
+### staatsschutz
 
-* [https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-mit-niederlage-joshua-kimmich-wir-sind-kein-topteam-in-europa](https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-mit-niederlage-joshua-kimmich-wir-sind-kein-topteam-in-europa-a-add86e69-ca70-45f1-b4b3-fd647ef69c89#ref=rss)
-### saudiarabien
+* [https://www.spiegel.de/panorama/elon-musk-staatsschutz-ermittelt-nach-projektion-tesla-werk-in-gruenheide](https://www.spiegel.de/panorama/elon-musk-staatsschutz-ermittelt-nach-projektion-tesla-werk-in-gruenheide-a-8268048f-050b-4ae7-adf8-bb9cf572cf25#ref=rss)
+### grünheide
 
-* [https://www.spiegel.de/ausland/saudi-arabien-als-nahost-partner-donald-trump-telefoniert-mit-mohammed-bin-salman](https://www.spiegel.de/ausland/saudi-arabien-als-nahost-partner-donald-trump-telefoniert-mit-mohammed-bin-salman-a-e5b712aa-928f-4396-a501-d6180ad9230d#ref=rss)
-### salman
+* [https://www.spiegel.de/panorama/elon-musk-staatsschutz-ermittelt-nach-projektion-tesla-werk-in-gruenheide](https://www.spiegel.de/panorama/elon-musk-staatsschutz-ermittelt-nach-projektion-tesla-werk-in-gruenheide-a-8268048f-050b-4ae7-adf8-bb9cf572cf25#ref=rss)
+### tatsächlich
 
-* [https://www.spiegel.de/ausland/saudi-arabien-als-nahost-partner-donald-trump-telefoniert-mit-mohammed-bin-salman](https://www.spiegel.de/ausland/saudi-arabien-als-nahost-partner-donald-trump-telefoniert-mit-mohammed-bin-salman-a-e5b712aa-928f-4396-a501-d6180ad9230d#ref=rss)
-### große
+* [https://www.spiegel.de/panorama/elon-musk-staatsschutz-ermittelt-nach-projektion-tesla-werk-in-gruenheide](https://www.spiegel.de/panorama/elon-musk-staatsschutz-ermittelt-nach-projektion-tesla-werk-in-gruenheide-a-8268048f-050b-4ae7-adf8-bb9cf572cf25#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-paris-saint-germain-erfreut-sich-am-umbruch-manchester-city-bleibt-in-der-krise](https://www.spiegel.de/sport/fussball/champions-league-paris-saint-germain-erfreut-sich-am-umbruch-manchester-city-bleibt-in-der-krise-a-3c448fae-d2d7-4850-a98b-7e4fd1128fac#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/ausland/saudi-arabien-als-nahost-partner-donald-trump-telefoniert-mit-mohammed-bin-salman](https://www.spiegel.de/ausland/saudi-arabien-als-nahost-partner-donald-trump-telefoniert-mit-mohammed-bin-salman-a-e5b712aa-928f-4396-a501-d6180ad9230d#ref=rss)
-### mexiko
+* [https://www.spiegel.de/panorama/elon-musk-staatsschutz-ermittelt-nach-projektion-tesla-werk-in-gruenheide](https://www.spiegel.de/panorama/elon-musk-staatsschutz-ermittelt-nach-projektion-tesla-werk-in-gruenheide-a-8268048f-050b-4ae7-adf8-bb9cf572cf25#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/zeulenroda-triebes-busfahrerin-feuert-schreckschusswaffe-ab](https://www.spiegel.de/panorama/justiz/zeulenroda-triebes-busfahrerin-feuert-schreckschusswaffe-ab-a-fc6484f0-6712-4e24-869d-0acc6902b69e#ref=rss)
+### 2021
 
-* [https://www.spiegel.de/ausland/mexiko-baut-in-ciudad-juarez-lager-fuer-abgeschobene-migranten](https://www.spiegel.de/ausland/mexiko-baut-in-ciudad-juarez-lager-fuer-abgeschobene-migranten-a-db1644eb-a8da-4502-8359-ce16d3a39b62#ref=rss)
-### abgeschobene
+* [https://www.spiegel.de/ausland/kapitolstuermerin-lehnt-begnadigung-durch-trump-ab](https://www.spiegel.de/ausland/kapitolstuermerin-lehnt-begnadigung-durch-trump-ab-a-ffb83050-6850-41ec-bcba-bbc4b98186fc#ref=rss)
+* [https://www.spiegel.de/ausland/internationaler-strafgerichtshof-beantragt-haftbefehl-gegen-taliban-anfuehrer](https://www.spiegel.de/ausland/internationaler-strafgerichtshof-beantragt-haftbefehl-gegen-taliban-anfuehrer-a-c79606bd-0a95-4b5b-b9db-d6cd1e8481df#ref=rss)
+### harry
 
-* [https://www.spiegel.de/ausland/mexiko-baut-in-ciudad-juarez-lager-fuer-abgeschobene-migranten](https://www.spiegel.de/ausland/mexiko-baut-in-ciudad-juarez-lager-fuer-abgeschobene-migranten-a-db1644eb-a8da-4502-8359-ce16d3a39b62#ref=rss)
-### migranten
+* [https://www.spiegel.de/kultur/kino/harry-und-sally-gibt-es-ein-sequel-zu-der-erfolgskomoedie-der-achtziger](https://www.spiegel.de/kultur/kino/harry-und-sally-gibt-es-ein-sequel-zu-der-erfolgskomoedie-der-achtziger-a-eb8a385c-1ff7-486b-9ecf-9cb3e585473d#ref=rss)
+### sally
 
-* [https://www.spiegel.de/ausland/mexiko-baut-in-ciudad-juarez-lager-fuer-abgeschobene-migranten](https://www.spiegel.de/ausland/mexiko-baut-in-ciudad-juarez-lager-fuer-abgeschobene-migranten-a-db1644eb-a8da-4502-8359-ce16d3a39b62#ref=rss)
-### union
+* [https://www.spiegel.de/kultur/kino/harry-und-sally-gibt-es-ein-sequel-zu-der-erfolgskomoedie-der-achtziger](https://www.spiegel.de/kultur/kino/harry-und-sally-gibt-es-ein-sequel-zu-der-erfolgskomoedie-der-achtziger-a-eb8a385c-1ff7-486b-9ecf-9cb3e585473d#ref=rss)
+### frauen
 
-* [https://www.spiegel.de/wirtschaft/europaeische-union-fast-die-haelfte-des-eu-stroms-aus-erneuerbarer-energie](https://www.spiegel.de/wirtschaft/europaeische-union-fast-die-haelfte-des-eu-stroms-aus-erneuerbarer-energie-a-a22e48ae-d391-425b-b96e-b80ca734663d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wie-ich-einmal-mitleid-mit-friedrich-merz-bekam-kolumne](https://www.spiegel.de/politik/deutschland/wie-ich-einmal-mitleid-mit-friedrich-merz-bekam-kolumne-a-acaed9a6-03b6-46c0-bea4-4c1a674a23c0#ref=rss)
-### energie
+* [https://www.spiegel.de/kultur/kino/harry-und-sally-gibt-es-ein-sequel-zu-der-erfolgskomoedie-der-achtziger](https://www.spiegel.de/kultur/kino/harry-und-sally-gibt-es-ein-sequel-zu-der-erfolgskomoedie-der-achtziger-a-eb8a385c-1ff7-486b-9ecf-9cb3e585473d#ref=rss)
+* [https://www.spiegel.de/ausland/internationaler-strafgerichtshof-beantragt-haftbefehl-gegen-taliban-anfuehrer](https://www.spiegel.de/ausland/internationaler-strafgerichtshof-beantragt-haftbefehl-gegen-taliban-anfuehrer-a-c79606bd-0a95-4b5b-b9db-d6cd1e8481df#ref=rss)
+### sex
 
-* [https://www.spiegel.de/wirtschaft/europaeische-union-fast-die-haelfte-des-eu-stroms-aus-erneuerbarer-energie](https://www.spiegel.de/wirtschaft/europaeische-union-fast-die-haelfte-des-eu-stroms-aus-erneuerbarer-energie-a-a22e48ae-d391-425b-b96e-b80ca734663d#ref=rss)
+* [https://www.spiegel.de/kultur/kino/harry-und-sally-gibt-es-ein-sequel-zu-der-erfolgskomoedie-der-achtziger](https://www.spiegel.de/kultur/kino/harry-und-sally-gibt-es-ein-sequel-zu-der-erfolgskomoedie-der-achtziger-a-eb8a385c-1ff7-486b-9ecf-9cb3e585473d#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-franzoesisches-gericht-hatte-in-einem-scheidungsverfahren-auf-eheliche-pflicht-zum-geschlechtsverkehr-verwiesen](https://www.spiegel.de/ausland/frankreich-franzoesisches-gericht-hatte-in-einem-scheidungsverfahren-auf-eheliche-pflicht-zum-geschlechtsverkehr-verwiesen-a-51e908df-81a1-4cc6-aa89-8e61ec5b93ee#ref=rss)
+### mann
+
+* [https://www.spiegel.de/kultur/kino/harry-und-sally-gibt-es-ein-sequel-zu-der-erfolgskomoedie-der-achtziger](https://www.spiegel.de/kultur/kino/harry-und-sally-gibt-es-ein-sequel-zu-der-erfolgskomoedie-der-achtziger-a-eb8a385c-1ff7-486b-9ecf-9cb3e585473d#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-franzoesisches-gericht-hatte-in-einem-scheidungsverfahren-auf-eheliche-pflicht-zum-geschlechtsverkehr-verwiesen](https://www.spiegel.de/ausland/frankreich-franzoesisches-gericht-hatte-in-einem-scheidungsverfahren-auf-eheliche-pflicht-zum-geschlechtsverkehr-verwiesen-a-51e908df-81a1-4cc6-aa89-8e61ec5b93ee#ref=rss)
+### schrieb
+
+* [https://www.spiegel.de/kultur/kino/harry-und-sally-gibt-es-ein-sequel-zu-der-erfolgskomoedie-der-achtziger](https://www.spiegel.de/kultur/kino/harry-und-sally-gibt-es-ein-sequel-zu-der-erfolgskomoedie-der-achtziger-a-eb8a385c-1ff7-486b-9ecf-9cb3e585473d#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/problemschule-in-berlin-leiterin-der-friedrich-bergius-schule-muss-gehen](https://www.spiegel.de/panorama/bildung/problemschule-in-berlin-leiterin-der-friedrich-bergius-schule-muss-gehen-a-15bd86d2-d4db-4fa2-abc9-b795f85b83fc#ref=rss)
+### diesen
+
+* [https://www.spiegel.de/kultur/kino/harry-und-sally-gibt-es-ein-sequel-zu-der-erfolgskomoedie-der-achtziger](https://www.spiegel.de/kultur/kino/harry-und-sally-gibt-es-ein-sequel-zu-der-erfolgskomoedie-der-achtziger-a-eb8a385c-1ff7-486b-9ecf-9cb3e585473d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cem-oezdemo-leute-wie-trump-halten-uns-fuer-schwaechlinge-leider-bestaetigen-wir-diesen-eindruck-oft-genug](https://www.spiegel.de/politik/deutschland/cem-oezdemo-leute-wie-trump-halten-uns-fuer-schwaechlinge-leider-bestaetigen-wir-diesen-eindruck-oft-genug-a-f77b8b1b-5866-440b-9b59-14b2953f9aaf#ref=rss)
+### alle
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-droht-beim-weltwirtschaftsforum-in-davos-mit-zoellen](https://www.spiegel.de/wirtschaft/donald-trump-droht-beim-weltwirtschaftsforum-in-davos-mit-zoellen-a-68435fa8-ad74-4a53-bea0-c0fa55003f98#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/zeulenroda-triebes-busfahrerin-feuert-schreckschusswaffe-ab](https://www.spiegel.de/panorama/justiz/zeulenroda-triebes-busfahrerin-feuert-schreckschusswaffe-ab-a-fc6484f0-6712-4e24-869d-0acc6902b69e#ref=rss)
+### bleibt
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-droht-beim-weltwirtschaftsforum-in-davos-mit-zoellen](https://www.spiegel.de/wirtschaft/donald-trump-droht-beim-weltwirtschaftsforum-in-davos-mit-zoellen-a-68435fa8-ad74-4a53-bea0-c0fa55003f98#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-paris-saint-germain-erfreut-sich-am-umbruch-manchester-city-bleibt-in-der-krise](https://www.spiegel.de/sport/fussball/champions-league-paris-saint-germain-erfreut-sich-am-umbruch-manchester-city-bleibt-in-der-krise-a-3c448fae-d2d7-4850-a98b-7e4fd1128fac#ref=rss)
+### sehr
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-droht-beim-weltwirtschaftsforum-in-davos-mit-zoellen](https://www.spiegel.de/wirtschaft/donald-trump-droht-beim-weltwirtschaftsforum-in-davos-mit-zoellen-a-68435fa8-ad74-4a53-bea0-c0fa55003f98#ref=rss)
+* [https://www.spiegel.de/gesundheit/ernaehrung/stiftung-warentest-olivenoel-wird-wieder-besser-aber-nur-etwas](https://www.spiegel.de/gesundheit/ernaehrung/stiftung-warentest-olivenoel-wird-wieder-besser-aber-nur-etwas-a-c1e8b57c-8cca-4a36-8b77-56448505c075#ref=rss)
+### cem
+
+* [https://www.spiegel.de/politik/deutschland/cem-oezdemo-leute-wie-trump-halten-uns-fuer-schwaechlinge-leider-bestaetigen-wir-diesen-eindruck-oft-genug](https://www.spiegel.de/politik/deutschland/cem-oezdemo-leute-wie-trump-halten-uns-fuer-schwaechlinge-leider-bestaetigen-wir-diesen-eindruck-oft-genug-a-f77b8b1b-5866-440b-9b59-14b2953f9aaf#ref=rss)
+### özdemir
+
+* [https://www.spiegel.de/politik/deutschland/cem-oezdemo-leute-wie-trump-halten-uns-fuer-schwaechlinge-leider-bestaetigen-wir-diesen-eindruck-oft-genug](https://www.spiegel.de/politik/deutschland/cem-oezdemo-leute-wie-trump-halten-uns-fuer-schwaechlinge-leider-bestaetigen-wir-diesen-eindruck-oft-genug-a-f77b8b1b-5866-440b-9b59-14b2953f9aaf#ref=rss)
+### migration
+
+* [https://www.spiegel.de/politik/deutschland/cem-oezdemo-leute-wie-trump-halten-uns-fuer-schwaechlinge-leider-bestaetigen-wir-diesen-eindruck-oft-genug](https://www.spiegel.de/politik/deutschland/cem-oezdemo-leute-wie-trump-halten-uns-fuer-schwaechlinge-leider-bestaetigen-wir-diesen-eindruck-oft-genug-a-f77b8b1b-5866-440b-9b59-14b2953f9aaf#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-aeussert-sich-nach-messerattacke-auf-kindergartengruppe-in-aschaffenburg](https://www.spiegel.de/politik/deutschland/olaf-scholz-aeussert-sich-nach-messerattacke-auf-kindergartengruppe-in-aschaffenburg-a-e7e8e11f-84a4-4ef0-8b53-720af1b03cf5#ref=rss)
+### stiftung
+
+* [https://www.spiegel.de/gesundheit/ernaehrung/stiftung-warentest-olivenoel-wird-wieder-besser-aber-nur-etwas](https://www.spiegel.de/gesundheit/ernaehrung/stiftung-warentest-olivenoel-wird-wieder-besser-aber-nur-etwas-a-c1e8b57c-8cca-4a36-8b77-56448505c075#ref=rss)
+### warentest
+
+* [https://www.spiegel.de/gesundheit/ernaehrung/stiftung-warentest-olivenoel-wird-wieder-besser-aber-nur-etwas](https://www.spiegel.de/gesundheit/ernaehrung/stiftung-warentest-olivenoel-wird-wieder-besser-aber-nur-etwas-a-c1e8b57c-8cca-4a36-8b77-56448505c075#ref=rss)
+### olivenöl
+
+* [https://www.spiegel.de/gesundheit/ernaehrung/stiftung-warentest-olivenoel-wird-wieder-besser-aber-nur-etwas](https://www.spiegel.de/gesundheit/ernaehrung/stiftung-warentest-olivenoel-wird-wieder-besser-aber-nur-etwas-a-c1e8b57c-8cca-4a36-8b77-56448505c075#ref=rss)
+### rené
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-aschaffenburg-rene-benko-weltwirtschaftsforum-davos](https://www.spiegel.de/politik/deutschland/news-des-tages-aschaffenburg-rene-benko-weltwirtschaftsforum-davos-a-28fc3719-e268-47a1-ba65-213020642550#ref=rss)
+### benko
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-aschaffenburg-rene-benko-weltwirtschaftsforum-davos](https://www.spiegel.de/politik/deutschland/news-des-tages-aschaffenburg-rene-benko-weltwirtschaftsforum-davos-a-28fc3719-e268-47a1-ba65-213020642550#ref=rss)
+### fest
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-aschaffenburg-rene-benko-weltwirtschaftsforum-davos](https://www.spiegel.de/politik/deutschland/news-des-tages-aschaffenburg-rene-benko-weltwirtschaftsforum-davos-a-28fc3719-e268-47a1-ba65-213020642550#ref=rss)
+* [https://www.spiegel.de/kultur/kino/oscarnominierungen-infos-ueber-die-filme-die-im-rennen-sind](https://www.spiegel.de/kultur/kino/oscarnominierungen-infos-ueber-die-filme-die-im-rennen-sind-a-65a0fb41-4740-46db-a659-5f9b6a27d4c2#ref=rss)
+### politik
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-aschaffenburg-rene-benko-weltwirtschaftsforum-davos](https://www.spiegel.de/politik/deutschland/news-des-tages-aschaffenburg-rene-benko-weltwirtschaftsforum-davos-a-28fc3719-e268-47a1-ba65-213020642550#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/problemschule-in-berlin-leiterin-der-friedrich-bergius-schule-muss-gehen](https://www.spiegel.de/panorama/bildung/problemschule-in-berlin-leiterin-der-friedrich-bergius-schule-muss-gehen-a-15bd86d2-d4db-4fa2-abc9-b795f85b83fc#ref=rss)
+### strafgerichtshof
+
+* [https://www.spiegel.de/ausland/internationaler-strafgerichtshof-beantragt-haftbefehl-gegen-taliban-anfuehrer](https://www.spiegel.de/ausland/internationaler-strafgerichtshof-beantragt-haftbefehl-gegen-taliban-anfuehrer-a-c79606bd-0a95-4b5b-b9db-d6cd1e8481df#ref=rss)
+### macht
+
+* [https://www.spiegel.de/ausland/internationaler-strafgerichtshof-beantragt-haftbefehl-gegen-taliban-anfuehrer](https://www.spiegel.de/ausland/internationaler-strafgerichtshof-beantragt-haftbefehl-gegen-taliban-anfuehrer-a-c79606bd-0a95-4b5b-b9db-d6cd1e8481df#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/problemschule-in-berlin-leiterin-der-friedrich-bergius-schule-muss-gehen](https://www.spiegel.de/panorama/bildung/problemschule-in-berlin-leiterin-der-friedrich-bergius-schule-muss-gehen-a-15bd86d2-d4db-4fa2-abc9-b795f85b83fc#ref=rss)
+### gruppe
+
+* [https://www.spiegel.de/ausland/internationaler-strafgerichtshof-beantragt-haftbefehl-gegen-taliban-anfuehrer](https://www.spiegel.de/ausland/internationaler-strafgerichtshof-beantragt-haftbefehl-gegen-taliban-anfuehrer-a-c79606bd-0a95-4b5b-b9db-d6cd1e8481df#ref=rss)
+* [https://www.spiegel.de/wissenschaft/forscher-stellen-historischen-chatbot-eliza-wieder-her-und-ich-sah-sofort-das-muss-der-code-sein](https://www.spiegel.de/wissenschaft/forscher-stellen-historischen-chatbot-eliza-wieder-her-und-ich-sah-sofort-das-muss-der-code-sein-a-928c1c10-0054-4d41-b9c2-7b8e0958a537#ref=rss)
+### fokus
+
+* [https://www.spiegel.de/ausland/internationaler-strafgerichtshof-beantragt-haftbefehl-gegen-taliban-anfuehrer](https://www.spiegel.de/ausland/internationaler-strafgerichtshof-beantragt-haftbefehl-gegen-taliban-anfuehrer-a-c79606bd-0a95-4b5b-b9db-d6cd1e8481df#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-aeussert-sich-nach-messerattacke-auf-kindergartengruppe-in-aschaffenburg](https://www.spiegel.de/politik/deutschland/olaf-scholz-aeussert-sich-nach-messerattacke-auf-kindergartengruppe-in-aschaffenburg-a-e7e8e11f-84a4-4ef0-8b53-720af1b03cf5#ref=rss)
+### la
+
+* [https://www.spiegel.de/panorama/italien-mafia-brettspiel-la-famiglia-sorgt-fuer-kritik](https://www.spiegel.de/panorama/italien-mafia-brettspiel-la-famiglia-sorgt-fuer-kritik-a-934830fb-468e-4371-b0fd-f1b9db62e25d#ref=rss)
+### famiglia
+
+* [https://www.spiegel.de/panorama/italien-mafia-brettspiel-la-famiglia-sorgt-fuer-kritik](https://www.spiegel.de/panorama/italien-mafia-brettspiel-la-famiglia-sorgt-fuer-kritik-a-934830fb-468e-4371-b0fd-f1b9db62e25d#ref=rss)
+### kritik
+
+* [https://www.spiegel.de/panorama/italien-mafia-brettspiel-la-famiglia-sorgt-fuer-kritik](https://www.spiegel.de/panorama/italien-mafia-brettspiel-la-famiglia-sorgt-fuer-kritik-a-934830fb-468e-4371-b0fd-f1b9db62e25d#ref=rss)
+### friedrichbergiusschule
+
+* [https://www.spiegel.de/panorama/bildung/problemschule-in-berlin-leiterin-der-friedrich-bergius-schule-muss-gehen](https://www.spiegel.de/panorama/bildung/problemschule-in-berlin-leiterin-der-friedrich-bergius-schule-muss-gehen-a-15bd86d2-d4db-4fa2-abc9-b795f85b83fc#ref=rss)
+### filme
+
+* [https://www.spiegel.de/kultur/kino/oscarnominierungen-infos-ueber-die-filme-die-im-rennen-sind](https://www.spiegel.de/kultur/kino/oscarnominierungen-infos-ueber-die-filme-die-im-rennen-sind-a-65a0fb41-4740-46db-a659-5f9b6a27d4c2#ref=rss)
+* [https://www.spiegel.de/kultur/kino/oscars-2025-emilia-perez-in-13-kategorien-fuer-den-oscar-nominiert-auch-zwei-deutsche-filme-in-der-endausscheidung](https://www.spiegel.de/kultur/kino/oscars-2025-emilia-perez-in-13-kategorien-fuer-den-oscar-nominiert-auch-zwei-deutsche-filme-in-der-endausscheidung-a-74b073e8-c384-4d2c-a052-e4e666e23bb6#ref=rss)
+### oscar
+
+* [https://www.spiegel.de/kultur/kino/oscarnominierungen-infos-ueber-die-filme-die-im-rennen-sind](https://www.spiegel.de/kultur/kino/oscarnominierungen-infos-ueber-die-filme-die-im-rennen-sind-a-65a0fb41-4740-46db-a659-5f9b6a27d4c2#ref=rss)
+* [https://www.spiegel.de/kultur/kino/oscars-2025-emilia-perez-in-13-kategorien-fuer-den-oscar-nominiert-auch-zwei-deutsche-filme-in-der-endausscheidung](https://www.spiegel.de/kultur/kino/oscars-2025-emilia-perez-in-13-kategorien-fuer-den-oscar-nominiert-auch-zwei-deutsche-filme-in-der-endausscheidung-a-74b073e8-c384-4d2c-a052-e4e666e23bb6#ref=rss)
+### usa
+
+* [https://www.spiegel.de/ausland/donald-trump-spricht-auf-dem-weltwirtschaftsforum-in-davos-livestream](https://www.spiegel.de/ausland/donald-trump-spricht-auf-dem-weltwirtschaftsforum-in-davos-livestream-a-f5fbcd44-eb40-47f4-9c56-88b632db6e89#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-und-fossile-energietraeger-deutschlands-begrenzte-optionen-bei-us-importen](https://www.spiegel.de/wirtschaft/donald-trump-und-fossile-energietraeger-deutschlands-begrenzte-optionen-bei-us-importen-a-584a16f9-513e-4926-973f-a870acb0d278#ref=rss)
+### olaf
+
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-aeussert-sich-nach-messerattacke-auf-kindergartengruppe-in-aschaffenburg](https://www.spiegel.de/politik/deutschland/olaf-scholz-aeussert-sich-nach-messerattacke-auf-kindergartengruppe-in-aschaffenburg-a-e7e8e11f-84a4-4ef0-8b53-720af1b03cf5#ref=rss)
+### scholz
+
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-aeussert-sich-nach-messerattacke-auf-kindergartengruppe-in-aschaffenburg](https://www.spiegel.de/politik/deutschland/olaf-scholz-aeussert-sich-nach-messerattacke-auf-kindergartengruppe-in-aschaffenburg-a-e7e8e11f-84a4-4ef0-8b53-720af1b03cf5#ref=rss)
+### frankreich
+
+* [https://www.spiegel.de/ausland/frankreich-franzoesisches-gericht-hatte-in-einem-scheidungsverfahren-auf-eheliche-pflicht-zum-geschlechtsverkehr-verwiesen](https://www.spiegel.de/ausland/frankreich-franzoesisches-gericht-hatte-in-einem-scheidungsverfahren-auf-eheliche-pflicht-zum-geschlechtsverkehr-verwiesen-a-51e908df-81a1-4cc6-aa89-8e61ec5b93ee#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/ausland/frankreich-franzoesisches-gericht-hatte-in-einem-scheidungsverfahren-auf-eheliche-pflicht-zum-geschlechtsverkehr-verwiesen](https://www.spiegel.de/ausland/frankreich-franzoesisches-gericht-hatte-in-einem-scheidungsverfahren-auf-eheliche-pflicht-zum-geschlechtsverkehr-verwiesen-a-51e908df-81a1-4cc6-aa89-8e61ec5b93ee#ref=rss)
+### israelischen
+
+* [https://www.spiegel.de/ausland/operation-des-israelischen-militaers-hunderte-verlassen-dschenin-im-westjordanland](https://www.spiegel.de/ausland/operation-des-israelischen-militaers-hunderte-verlassen-dschenin-im-westjordanland-a-77949046-46d8-498b-b059-44f4651ee9cf#ref=rss)
+### verlassen
+
+* [https://www.spiegel.de/ausland/operation-des-israelischen-militaers-hunderte-verlassen-dschenin-im-westjordanland](https://www.spiegel.de/ausland/operation-des-israelischen-militaers-hunderte-verlassen-dschenin-im-westjordanland-a-77949046-46d8-498b-b059-44f4651ee9cf#ref=rss)
+### dschenin
+
+* [https://www.spiegel.de/ausland/operation-des-israelischen-militaers-hunderte-verlassen-dschenin-im-westjordanland](https://www.spiegel.de/ausland/operation-des-israelischen-militaers-hunderte-verlassen-dschenin-im-westjordanland-a-77949046-46d8-498b-b059-44f4651ee9cf#ref=rss)
+### westjordanland
+
+* [https://www.spiegel.de/ausland/operation-des-israelischen-militaers-hunderte-verlassen-dschenin-im-westjordanland](https://www.spiegel.de/ausland/operation-des-israelischen-militaers-hunderte-verlassen-dschenin-im-westjordanland-a-77949046-46d8-498b-b059-44f4651ee9cf#ref=rss)
+### adidas
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/adidas-verfuenffacht-gewinn-denkt-aber-ueber-jobabbau-nach](https://www.spiegel.de/wirtschaft/unternehmen/adidas-verfuenffacht-gewinn-denkt-aber-ueber-jobabbau-nach-a-838b8236-cc35-4f6e-baa2-81e691753851#ref=rss)
+### gewinn
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/adidas-verfuenffacht-gewinn-denkt-aber-ueber-jobabbau-nach](https://www.spiegel.de/wirtschaft/unternehmen/adidas-verfuenffacht-gewinn-denkt-aber-ueber-jobabbau-nach-a-838b8236-cc35-4f6e-baa2-81e691753851#ref=rss)
+### 2024
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/adidas-verfuenffacht-gewinn-denkt-aber-ueber-jobabbau-nach](https://www.spiegel.de/wirtschaft/unternehmen/adidas-verfuenffacht-gewinn-denkt-aber-ueber-jobabbau-nach-a-838b8236-cc35-4f6e-baa2-81e691753851#ref=rss)
+* [https://www.spiegel.de/sport/tennis/australien-open-2024-aryna-sabalenka-und-madison-keys-im-finale-iga-swiatek-ueberraschend-raus](https://www.spiegel.de/sport/tennis/australien-open-2024-aryna-sabalenka-und-madison-keys-im-finale-iga-swiatek-ueberraschend-raus-a-4236bec4-d15f-4193-8ab6-fe561f54fdea#ref=rss)
+### aryna
+
+* [https://www.spiegel.de/sport/tennis/australien-open-2024-aryna-sabalenka-und-madison-keys-im-finale-iga-swiatek-ueberraschend-raus](https://www.spiegel.de/sport/tennis/australien-open-2024-aryna-sabalenka-und-madison-keys-im-finale-iga-swiatek-ueberraschend-raus-a-4236bec4-d15f-4193-8ab6-fe561f54fdea#ref=rss)
+### sabalenka
+
+* [https://www.spiegel.de/sport/tennis/australien-open-2024-aryna-sabalenka-und-madison-keys-im-finale-iga-swiatek-ueberraschend-raus](https://www.spiegel.de/sport/tennis/australien-open-2024-aryna-sabalenka-und-madison-keys-im-finale-iga-swiatek-ueberraschend-raus-a-4236bec4-d15f-4193-8ab6-fe561f54fdea#ref=rss)
+### madison
+
+* [https://www.spiegel.de/sport/tennis/australien-open-2024-aryna-sabalenka-und-madison-keys-im-finale-iga-swiatek-ueberraschend-raus](https://www.spiegel.de/sport/tennis/australien-open-2024-aryna-sabalenka-und-madison-keys-im-finale-iga-swiatek-ueberraschend-raus-a-4236bec4-d15f-4193-8ab6-fe561f54fdea#ref=rss)
+### keys
+
+* [https://www.spiegel.de/sport/tennis/australien-open-2024-aryna-sabalenka-und-madison-keys-im-finale-iga-swiatek-ueberraschend-raus](https://www.spiegel.de/sport/tennis/australien-open-2024-aryna-sabalenka-und-madison-keys-im-finale-iga-swiatek-ueberraschend-raus-a-4236bec4-d15f-4193-8ab6-fe561f54fdea#ref=rss)
+### iga
+
+* [https://www.spiegel.de/sport/tennis/australien-open-2024-aryna-sabalenka-und-madison-keys-im-finale-iga-swiatek-ueberraschend-raus](https://www.spiegel.de/sport/tennis/australien-open-2024-aryna-sabalenka-und-madison-keys-im-finale-iga-swiatek-ueberraschend-raus-a-4236bec4-d15f-4193-8ab6-fe561f54fdea#ref=rss)
+### andere
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-und-fossile-energietraeger-deutschlands-begrenzte-optionen-bei-us-importen](https://www.spiegel.de/wirtschaft/donald-trump-und-fossile-energietraeger-deutschlands-begrenzte-optionen-bei-us-importen-a-584a16f9-513e-4926-973f-a870acb0d278#ref=rss)
+* [https://www.spiegel.de/auto/norwegen-wie-starlink-den-internetempfang-im-zug-beschleunigt](https://www.spiegel.de/auto/norwegen-wie-starlink-den-internetempfang-im-zug-beschleunigt-a-6e01c0b9-80c9-47ab-b1d6-1094236682de#ref=rss)
+### oscars
+
+* [https://www.spiegel.de/kultur/kino/oscars-2025-emilia-perez-in-13-kategorien-fuer-den-oscar-nominiert-auch-zwei-deutsche-filme-in-der-endausscheidung](https://www.spiegel.de/kultur/kino/oscars-2025-emilia-perez-in-13-kategorien-fuer-den-oscar-nominiert-auch-zwei-deutsche-filme-in-der-endausscheidung-a-74b073e8-c384-4d2c-a052-e4e666e23bb6#ref=rss)
+### busfahrerin
+
+* [https://www.spiegel.de/panorama/justiz/zeulenroda-triebes-busfahrerin-feuert-schreckschusswaffe-ab](https://www.spiegel.de/panorama/justiz/zeulenroda-triebes-busfahrerin-feuert-schreckschusswaffe-ab-a-fc6484f0-6712-4e24-869d-0acc6902b69e#ref=rss)
+### starlink
+
+* [https://www.spiegel.de/auto/norwegen-wie-starlink-den-internetempfang-im-zug-beschleunigt](https://www.spiegel.de/auto/norwegen-wie-starlink-den-internetempfang-im-zug-beschleunigt-a-6e01c0b9-80c9-47ab-b1d6-1094236682de#ref=rss)
+### eliza
+
+* [https://www.spiegel.de/wissenschaft/forscher-stellen-historischen-chatbot-eliza-wieder-her-und-ich-sah-sofort-das-muss-der-code-sein](https://www.spiegel.de/wissenschaft/forscher-stellen-historischen-chatbot-eliza-wieder-her-und-ich-sah-sofort-das-muss-der-code-sein-a-928c1c10-0054-4d41-b9c2-7b8e0958a537#ref=rss)
+### champions
+
+* [https://www.spiegel.de/sport/fussball/champions-league-paris-saint-germain-erfreut-sich-am-umbruch-manchester-city-bleibt-in-der-krise](https://www.spiegel.de/sport/fussball/champions-league-paris-saint-germain-erfreut-sich-am-umbruch-manchester-city-bleibt-in-der-krise-a-3c448fae-d2d7-4850-a98b-7e4fd1128fac#ref=rss)
+### league
+
+* [https://www.spiegel.de/sport/fussball/champions-league-paris-saint-germain-erfreut-sich-am-umbruch-manchester-city-bleibt-in-der-krise](https://www.spiegel.de/sport/fussball/champions-league-paris-saint-germain-erfreut-sich-am-umbruch-manchester-city-bleibt-in-der-krise-a-3c448fae-d2d7-4850-a98b-7e4fd1128fac#ref=rss)
+### paris
+
+* [https://www.spiegel.de/sport/fussball/champions-league-paris-saint-germain-erfreut-sich-am-umbruch-manchester-city-bleibt-in-der-krise](https://www.spiegel.de/sport/fussball/champions-league-paris-saint-germain-erfreut-sich-am-umbruch-manchester-city-bleibt-in-der-krise-a-3c448fae-d2d7-4850-a98b-7e4fd1128fac#ref=rss)
+### saintgermain
+
+* [https://www.spiegel.de/sport/fussball/champions-league-paris-saint-germain-erfreut-sich-am-umbruch-manchester-city-bleibt-in-der-krise](https://www.spiegel.de/sport/fussball/champions-league-paris-saint-germain-erfreut-sich-am-umbruch-manchester-city-bleibt-in-der-krise-a-3c448fae-d2d7-4850-a98b-7e4fd1128fac#ref=rss)
+### manchester
+
+* [https://www.spiegel.de/sport/fussball/champions-league-paris-saint-germain-erfreut-sich-am-umbruch-manchester-city-bleibt-in-der-krise](https://www.spiegel.de/sport/fussball/champions-league-paris-saint-germain-erfreut-sich-am-umbruch-manchester-city-bleibt-in-der-krise-a-3c448fae-d2d7-4850-a98b-7e4fd1128fac#ref=rss)
+### city
+
+* [https://www.spiegel.de/sport/fussball/champions-league-paris-saint-germain-erfreut-sich-am-umbruch-manchester-city-bleibt-in-der-krise](https://www.spiegel.de/sport/fussball/champions-league-paris-saint-germain-erfreut-sich-am-umbruch-manchester-city-bleibt-in-der-krise-a-3c448fae-d2d7-4850-a98b-7e4fd1128fac#ref=rss)
 
