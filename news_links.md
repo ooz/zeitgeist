@@ -4,326 +4,357 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### afd
+### trump
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-afd-ohne-strategie-start-der-tarifrunde-15-monate-israel-gaza-krieg](https://www.spiegel.de/politik/deutschland/news-des-tages-afd-ohne-strategie-start-der-tarifrunde-15-monate-israel-gaza-krieg-a-c3b4c50e-e0e9-4d81-8031-539bbcbf74de#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/migration-friedrich-merz-die-cdu-und-die-afd-tanz-mit-der-natter](https://www.spiegel.de/politik/deutschland/migration-friedrich-merz-die-cdu-und-die-afd-tanz-mit-der-natter-a-d91395b9-86f0-40b0-b7e9-d41af8b92952#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/darum-braucht-die-afd-in-diesem-wahlkampf-keine-strategie](https://www.spiegel.de/politik/deutschland/darum-braucht-die-afd-in-diesem-wahlkampf-keine-strategie-a-a3165731-e10a-4d11-bc8a-c0db63a116e8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-afd-und-migration-gruener-robert-habeck-warnt-merz-vor-wortbruch](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-afd-und-migration-gruener-robert-habeck-warnt-merz-vor-wortbruch-a-bb1d22a7-d990-4304-90bf-9bfac370bf3c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/migration-fdp-signalisiert-unterstuetzung-fuer-merz-migrationspolitik](https://www.spiegel.de/politik/deutschland/migration-fdp-signalisiert-unterstuetzung-fuer-merz-migrationspolitik-a-35eedfc4-eac1-4d25-b7be-4f117b09a4e9#ref=rss)
-### wahlkampf
+* [https://www.spiegel.de/netzwelt/web/ross-ulbricht-gruender-der-drogenboerse-silk-road-dankt-trump-fuer-zweite-chance](https://www.spiegel.de/netzwelt/web/ross-ulbricht-gruender-der-drogenboerse-silk-road-dankt-trump-fuer-zweite-chance-a-4079ced2-2e0d-4822-9518-18624dc8f30e#ref=rss)
+* [https://www.spiegel.de/ausland/was-wladimir-putin-sich-von-donald-trump-erhofft-nur-im-chaos-hat-russland-eine-chance](https://www.spiegel.de/ausland/was-wladimir-putin-sich-von-donald-trump-erhofft-nur-im-chaos-hat-russland-eine-chance-a-76f54f5d-17bc-4453-a258-774122b0941a#ref=rss)
+* [https://www.spiegel.de/ausland/usa-donald-trump-loest-diversitaetsprogramme-auf-und-laesst-abtreibungsgegner-frei](https://www.spiegel.de/ausland/usa-donald-trump-loest-diversitaetsprogramme-auf-und-laesst-abtreibungsgegner-frei-a-c278d49c-3cfc-4992-8825-7407f39835cf#ref=rss)
+* [https://www.spiegel.de/ausland/druck-von-donald-trump-eu-general-schlaegt-stationierung-von-eu-soldaten-in-groenland-vor](https://www.spiegel.de/ausland/druck-von-donald-trump-eu-general-schlaegt-stationierung-von-eu-soldaten-in-groenland-vor-a-d39fd4d1-e59c-4e12-9635-f6ad3690f060#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-der-golf-von-mexiko-heisst-kuenftig-golf-von-amerika](https://www.spiegel.de/ausland/donald-trump-der-golf-von-mexiko-heisst-kuenftig-golf-von-amerika-a-04e8493a-99b0-4411-9466-f55713ae02d7#ref=rss)
+* [https://www.spiegel.de/ausland/us-aussenminister-marco-rubio-friert-fast-alle-us-hilfen-fuer-ausland-ein](https://www.spiegel.de/ausland/us-aussenminister-marco-rubio-friert-fast-alle-us-hilfen-fuer-ausland-ein-a-bc555716-ce91-4016-be07-b9285d93fb81#ref=rss)
+### mann
 
-* [https://www.spiegel.de/geschichte/falsche-behauptung-von-afd-chefin-alice-weidel-warum-adolf-hitler-kein-kommunist-war](https://www.spiegel.de/geschichte/falsche-behauptung-von-afd-chefin-alice-weidel-warum-adolf-hitler-kein-kommunist-war-a-05f645c0-529e-473a-b48a-9e6e4b899ed5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-afd-ohne-strategie-start-der-tarifrunde-15-monate-israel-gaza-krieg](https://www.spiegel.de/politik/deutschland/news-des-tages-afd-ohne-strategie-start-der-tarifrunde-15-monate-israel-gaza-krieg-a-c3b4c50e-e0e9-4d81-8031-539bbcbf74de#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/darum-braucht-die-afd-in-diesem-wahlkampf-keine-strategie](https://www.spiegel.de/politik/deutschland/darum-braucht-die-afd-in-diesem-wahlkampf-keine-strategie-a-a3165731-e10a-4d11-bc8a-c0db63a116e8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-bei-buergergespraech-in-erfurt-wahlkampf-wie-der-bundeskanzler-ihn-gerne-haette](https://www.spiegel.de/politik/deutschland/olaf-scholz-bei-buergergespraech-in-erfurt-wahlkampf-wie-der-bundeskanzler-ihn-gerne-haette-a-0c821fd6-190f-4b80-b87e-b0b8652ea487#ref=rss)
-### mehr
+* [https://www.spiegel.de/politik/deutschland/fall-stefan-gelbhaar-wo-bleibt-der-aufschrei-der-feministinnen-kommentar](https://www.spiegel.de/politik/deutschland/fall-stefan-gelbhaar-wo-bleibt-der-aufschrei-der-feministinnen-kommentar-a-2b280e19-ee1a-4b32-b499-9fcb090ff4cb#ref=rss)
+* [https://www.spiegel.de/ausland/was-wladimir-putin-sich-von-donald-trump-erhofft-nur-im-chaos-hat-russland-eine-chance](https://www.spiegel.de/ausland/was-wladimir-putin-sich-von-donald-trump-erhofft-nur-im-chaos-hat-russland-eine-chance-a-76f54f5d-17bc-4453-a258-774122b0941a#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/volkach-betrunkener-autofahrer-versenkt-wagen-im-main](https://www.spiegel.de/panorama/justiz/volkach-betrunkener-autofahrer-versenkt-wagen-im-main-a-75f309e1-272f-4a6c-adc3-fac65167b2f6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-erhaelt-von-einem-mann-aus-thueringen-weitere-millionenspende](https://www.spiegel.de/politik/deutschland/afd-erhaelt-von-einem-mann-aus-thueringen-weitere-millionenspende-a-020ef849-55d3-46e7-95d4-ea5d284ef4a0#ref=rss)
+### donald
 
-* [https://www.spiegel.de/panorama/bildung/bildung-buergerrat-fordert-abschaffung-von-hausaufgaben](https://www.spiegel.de/panorama/bildung/bildung-buergerrat-fordert-abschaffung-von-hausaufgaben-a-8071eca9-6c16-4b67-b045-86822cf1a809#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/darum-braucht-die-afd-in-diesem-wahlkampf-keine-strategie](https://www.spiegel.de/politik/deutschland/darum-braucht-die-afd-in-diesem-wahlkampf-keine-strategie-a-a3165731-e10a-4d11-bc8a-c0db63a116e8#ref=rss)
-* [https://www.spiegel.de/auto/elon-musk-immer-mehr-unternehmen-verzichten-seinetwegen-auf-tesla-autos](https://www.spiegel.de/auto/elon-musk-immer-mehr-unternehmen-verzichten-seinetwegen-auf-tesla-autos-a-e144cc94-f32f-434c-b469-fb7ac3a46dea#ref=rss)
-* [https://www.spiegel.de/wissenschaft/close-up-photographer-of-the-year-die-besten-nahaufnahmen-des-jahres](https://www.spiegel.de/wissenschaft/close-up-photographer-of-the-year-die-besten-nahaufnahmen-des-jahres-a-9efd6124-b902-441d-b6b9-c2a1bd23750f#ref=rss)
-### friedrich
+* [https://www.spiegel.de/ausland/was-wladimir-putin-sich-von-donald-trump-erhofft-nur-im-chaos-hat-russland-eine-chance](https://www.spiegel.de/ausland/was-wladimir-putin-sich-von-donald-trump-erhofft-nur-im-chaos-hat-russland-eine-chance-a-76f54f5d-17bc-4453-a258-774122b0941a#ref=rss)
+* [https://www.spiegel.de/ausland/usa-donald-trump-loest-diversitaetsprogramme-auf-und-laesst-abtreibungsgegner-frei](https://www.spiegel.de/ausland/usa-donald-trump-loest-diversitaetsprogramme-auf-und-laesst-abtreibungsgegner-frei-a-c278d49c-3cfc-4992-8825-7407f39835cf#ref=rss)
+* [https://www.spiegel.de/ausland/pete-hegseth-wird-us-verteidigungsminister](https://www.spiegel.de/ausland/pete-hegseth-wird-us-verteidigungsminister-a-4ed26af8-6538-4c36-96b0-962f3b98148f#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-der-golf-von-mexiko-heisst-kuenftig-golf-von-amerika](https://www.spiegel.de/ausland/donald-trump-der-golf-von-mexiko-heisst-kuenftig-golf-von-amerika-a-04e8493a-99b0-4411-9466-f55713ae02d7#ref=rss)
+### gelbhaar
 
-* [https://www.spiegel.de/politik/deutschland/migration-friedrich-merz-die-cdu-und-die-afd-tanz-mit-der-natter](https://www.spiegel.de/politik/deutschland/migration-friedrich-merz-die-cdu-und-die-afd-tanz-mit-der-natter-a-d91395b9-86f0-40b0-b7e9-d41af8b92952#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-afd-und-migration-gruener-robert-habeck-warnt-merz-vor-wortbruch](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-afd-und-migration-gruener-robert-habeck-warnt-merz-vor-wortbruch-a-bb1d22a7-d990-4304-90bf-9bfac370bf3c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/migration-fdp-signalisiert-unterstuetzung-fuer-merz-migrationspolitik](https://www.spiegel.de/politik/deutschland/migration-fdp-signalisiert-unterstuetzung-fuer-merz-migrationspolitik-a-35eedfc4-eac1-4d25-b7be-4f117b09a4e9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/fall-stefan-gelbhaar-wo-bleibt-der-aufschrei-der-feministinnen-kommentar](https://www.spiegel.de/politik/deutschland/fall-stefan-gelbhaar-wo-bleibt-der-aufschrei-der-feministinnen-kommentar-a-2b280e19-ee1a-4b32-b499-9fcb090ff4cb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-gegen-die-afd-fall-gelbhaar-bei-den-gruenen-wahlkampf-mit-taurus-in-berlin-marzahn](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-gegen-die-afd-fall-gelbhaar-bei-den-gruenen-wahlkampf-mit-taurus-in-berlin-marzahn-a-1f774062-6c7d-4449-9192-733daac6c80d#ref=rss)
 ### merz
 
-* [https://www.spiegel.de/politik/deutschland/migration-friedrich-merz-die-cdu-und-die-afd-tanz-mit-der-natter](https://www.spiegel.de/politik/deutschland/migration-friedrich-merz-die-cdu-und-die-afd-tanz-mit-der-natter-a-d91395b9-86f0-40b0-b7e9-d41af8b92952#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-afd-und-migration-gruener-robert-habeck-warnt-merz-vor-wortbruch](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-afd-und-migration-gruener-robert-habeck-warnt-merz-vor-wortbruch-a-bb1d22a7-d990-4304-90bf-9bfac370bf3c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/migration-fdp-signalisiert-unterstuetzung-fuer-merz-migrationspolitik](https://www.spiegel.de/politik/deutschland/migration-fdp-signalisiert-unterstuetzung-fuer-merz-migrationspolitik-a-35eedfc4-eac1-4d25-b7be-4f117b09a4e9#ref=rss)
-### alice
+* [https://www.spiegel.de/politik/deutschland/mario-czaja-der-kampf-des-cdu-aussenseiters-gegen-parteichef-friedrich-merz](https://www.spiegel.de/politik/deutschland/mario-czaja-der-kampf-des-cdu-aussenseiters-gegen-parteichef-friedrich-merz-a-54804d17-3660-4b50-a83b-63fada240067#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-gegen-die-afd-fall-gelbhaar-bei-den-gruenen-wahlkampf-mit-taurus-in-berlin-marzahn](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-gegen-die-afd-fall-gelbhaar-bei-den-gruenen-wahlkampf-mit-taurus-in-berlin-marzahn-a-1f774062-6c7d-4449-9192-733daac6c80d#ref=rss)
+### tage
 
-* [https://www.spiegel.de/geschichte/falsche-behauptung-von-afd-chefin-alice-weidel-warum-adolf-hitler-kein-kommunist-war](https://www.spiegel.de/geschichte/falsche-behauptung-von-afd-chefin-alice-weidel-warum-adolf-hitler-kein-kommunist-war-a-05f645c0-529e-473a-b48a-9e6e4b899ed5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-afd-ohne-strategie-start-der-tarifrunde-15-monate-israel-gaza-krieg](https://www.spiegel.de/politik/deutschland/news-des-tages-afd-ohne-strategie-start-der-tarifrunde-15-monate-israel-gaza-krieg-a-c3b4c50e-e0e9-4d81-8031-539bbcbf74de#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/darum-braucht-die-afd-in-diesem-wahlkampf-keine-strategie](https://www.spiegel.de/politik/deutschland/darum-braucht-die-afd-in-diesem-wahlkampf-keine-strategie-a-a3165731-e10a-4d11-bc8a-c0db63a116e8#ref=rss)
-### weidel
+* [https://www.spiegel.de/politik/deutschland/afd-erhaelt-von-einem-mann-aus-thueringen-weitere-millionenspende](https://www.spiegel.de/politik/deutschland/afd-erhaelt-von-einem-mann-aus-thueringen-weitere-millionenspende-a-020ef849-55d3-46e7-95d4-ea5d284ef4a0#ref=rss)
+* [https://www.spiegel.de/panorama/karibik-deutscher-ingenieur-ruediger-koch-lebt-120-tage-unter-wasser](https://www.spiegel.de/panorama/karibik-deutscher-ingenieur-ruediger-koch-lebt-120-tage-unter-wasser-a-9effacd6-577c-4d24-bd33-7f56fa934f09#ref=rss)
+* [https://www.spiegel.de/ausland/us-aussenminister-marco-rubio-friert-fast-alle-us-hilfen-fuer-ausland-ein](https://www.spiegel.de/ausland/us-aussenminister-marco-rubio-friert-fast-alle-us-hilfen-fuer-ausland-ein-a-bc555716-ce91-4016-be07-b9285d93fb81#ref=rss)
+### drei
 
-* [https://www.spiegel.de/geschichte/falsche-behauptung-von-afd-chefin-alice-weidel-warum-adolf-hitler-kein-kommunist-war](https://www.spiegel.de/geschichte/falsche-behauptung-von-afd-chefin-alice-weidel-warum-adolf-hitler-kein-kommunist-war-a-05f645c0-529e-473a-b48a-9e6e4b899ed5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-afd-ohne-strategie-start-der-tarifrunde-15-monate-israel-gaza-krieg](https://www.spiegel.de/politik/deutschland/news-des-tages-afd-ohne-strategie-start-der-tarifrunde-15-monate-israel-gaza-krieg-a-c3b4c50e-e0e9-4d81-8031-539bbcbf74de#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/darum-braucht-die-afd-in-diesem-wahlkampf-keine-strategie](https://www.spiegel.de/politik/deutschland/darum-braucht-die-afd-in-diesem-wahlkampf-keine-strategie-a-a3165731-e10a-4d11-bc8a-c0db63a116e8#ref=rss)
-### großbritannien
+* [https://www.spiegel.de/sport/handball/handball-wm-spanien-norwegen-und-schweden-scheiden-ueberraschend-aus-portugal-und-brasilien-weiter](https://www.spiegel.de/sport/handball/handball-wm-spanien-norwegen-und-schweden-scheiden-ueberraschend-aus-portugal-und-brasilien-weiter-a-0edeedf8-1fff-4da7-8565-a9bf3d0817d5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-erhaelt-von-einem-mann-aus-thueringen-weitere-millionenspende](https://www.spiegel.de/politik/deutschland/afd-erhaelt-von-einem-mann-aus-thueringen-weitere-millionenspende-a-020ef849-55d3-46e7-95d4-ea5d284ef4a0#ref=rss)
+* [https://www.spiegel.de/ausland/pete-hegseth-wird-us-verteidigungsminister](https://www.spiegel.de/ausland/pete-hegseth-wird-us-verteidigungsminister-a-4ed26af8-6538-4c36-96b0-962f3b98148f#ref=rss)
+### frei
 
-* [https://www.spiegel.de/panorama/irland-grossbritannien-sturm-eowyn-reisst-baeume-um-und-deckt-daecher-ab](https://www.spiegel.de/panorama/irland-grossbritannien-sturm-eowyn-reisst-baeume-um-und-deckt-daecher-ab-a-0b4da6fa-1809-45bf-ae38-6447b54c5d35#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/grossbritannien-mutter-scheitert-mit-klage-gegen-auslieferung-an-die-usa](https://www.spiegel.de/panorama/justiz/grossbritannien-mutter-scheitert-mit-klage-gegen-auslieferung-an-die-usa-a-3d3950ad-b6d4-453e-abc2-a9062789a285#ref=rss)
-### menschen
+* [https://www.spiegel.de/netzwelt/web/ross-ulbricht-gruender-der-drogenboerse-silk-road-dankt-trump-fuer-zweite-chance](https://www.spiegel.de/netzwelt/web/ross-ulbricht-gruender-der-drogenboerse-silk-road-dankt-trump-fuer-zweite-chance-a-4079ced2-2e0d-4822-9518-18624dc8f30e#ref=rss)
+* [https://www.spiegel.de/ausland/israel-hamas-vereinbarung-hamas-laesst-vier-israelische-geiseln-frei](https://www.spiegel.de/ausland/israel-hamas-vereinbarung-hamas-laesst-vier-israelische-geiseln-frei-a-aa6528b7-3b59-4bd0-b28e-cfb89dd87e93#ref=rss)
+* [https://www.spiegel.de/ausland/usa-donald-trump-loest-diversitaetsprogramme-auf-und-laesst-abtreibungsgegner-frei](https://www.spiegel.de/ausland/usa-donald-trump-loest-diversitaetsprogramme-auf-und-laesst-abtreibungsgegner-frei-a-c278d49c-3cfc-4992-8825-7407f39835cf#ref=rss)
+### heftige
 
-* [https://www.spiegel.de/ausland/us-grenze-mexiko-baut-aufnahmelager-fuer-trumps-abschiebeaktion](https://www.spiegel.de/ausland/us-grenze-mexiko-baut-aufnahmelager-fuer-trumps-abschiebeaktion-a-fdba5e6e-c4e5-4509-a8e8-0ac4a93ef9c3#ref=rss)
-* [https://www.spiegel.de/netzwelt/investmentbetrug-kriminelle-zocken-opfer-als-fake-verbraucherschuetzer-ab](https://www.spiegel.de/netzwelt/investmentbetrug-kriminelle-zocken-opfer-als-fake-verbraucherschuetzer-ab-a-9d413e88-6435-4c71-88ca-5a0bdb2b7d9a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/sackler-clan-zahlt-us-bundesstaaten-7-4-milliarden-dollar](https://www.spiegel.de/wirtschaft/sackler-clan-zahlt-us-bundesstaaten-7-4-milliarden-dollar-a-a2ed7f44-45b8-4546-a523-e3bcd6c70725#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/wolken-wie-sie-entstehen-und-wann-sie-dem-menschen-gefaehrlich-werden-koennen](https://www.spiegel.de/wissenschaft/natur/wolken-wie-sie-entstehen-und-wann-sie-dem-menschen-gefaehrlich-werden-koennen-a-36565f10-603d-4de3-a6dc-c3a8c106b0c8#ref=rss)
+* [https://www.spiegel.de/ausland/uno-soldaten-in-heftige-kaempfe-im-kongo-verwickelt](https://www.spiegel.de/ausland/uno-soldaten-in-heftige-kaempfe-im-kongo-verwickelt-a-2d891ae6-d15a-4164-ac4e-65aff09d7e12#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/reise/europa/nouvelle-aquitaine-franzosen-bangen-um-leuchtturm-von-la-coubre](https://www.spiegel.de/reise/europa/nouvelle-aquitaine-franzosen-bangen-um-leuchtturm-von-la-coubre-a-a85ef107-2370-490b-85f2-e1f6839446d7#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/volkach-betrunkener-autofahrer-versenkt-wagen-im-main](https://www.spiegel.de/panorama/justiz/volkach-betrunkener-autofahrer-versenkt-wagen-im-main-a-75f309e1-272f-4a6c-adc3-fac65167b2f6#ref=rss)
+* [https://www.spiegel.de/ausland/uno-soldaten-in-heftige-kaempfe-im-kongo-verwickelt](https://www.spiegel.de/ausland/uno-soldaten-in-heftige-kaempfe-im-kongo-verwickelt-a-2d891ae6-d15a-4164-ac4e-65aff09d7e12#ref=rss)
+### 120
+
+* [https://www.spiegel.de/reise/europa/nouvelle-aquitaine-franzosen-bangen-um-leuchtturm-von-la-coubre](https://www.spiegel.de/reise/europa/nouvelle-aquitaine-franzosen-bangen-um-leuchtturm-von-la-coubre-a-a85ef107-2370-490b-85f2-e1f6839446d7#ref=rss)
+* [https://www.spiegel.de/panorama/karibik-deutscher-ingenieur-ruediger-koch-lebt-120-tage-unter-wasser](https://www.spiegel.de/panorama/karibik-deutscher-ingenieur-ruediger-koch-lebt-120-tage-unter-wasser-a-9effacd6-577c-4d24-bd33-7f56fa934f09#ref=rss)
 ### hamas
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-afd-ohne-strategie-start-der-tarifrunde-15-monate-israel-gaza-krieg](https://www.spiegel.de/politik/deutschland/news-des-tages-afd-ohne-strategie-start-der-tarifrunde-15-monate-israel-gaza-krieg-a-c3b4c50e-e0e9-4d81-8031-539bbcbf74de#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-will-vier-verschleppte-soldatinnen-freilassen](https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-will-vier-verschleppte-soldatinnen-freilassen-a-704a2da9-0ce2-4b1a-af01-a09d2eaebff4#ref=rss)
-### einmal
+* [https://www.spiegel.de/ausland/israel-hamas-vereinbarung-hamas-laesst-vier-israelische-geiseln-frei](https://www.spiegel.de/ausland/israel-hamas-vereinbarung-hamas-laesst-vier-israelische-geiseln-frei-a-aa6528b7-3b59-4bd0-b28e-cfb89dd87e93#ref=rss)
+* [https://www.spiegel.de/ausland/israels-krieg-nach-dem-7-oktober-gaza-zerstoert-hamas-intakt](https://www.spiegel.de/ausland/israels-krieg-nach-dem-7-oktober-gaza-zerstoert-hamas-intakt-a-086c50ac-a086-49a6-8733-5ad87e2abd8e#ref=rss)
+### elon
 
-* [https://www.spiegel.de/politik/deutschland/migration-friedrich-merz-die-cdu-und-die-afd-tanz-mit-der-natter](https://www.spiegel.de/politik/deutschland/migration-friedrich-merz-die-cdu-und-die-afd-tanz-mit-der-natter-a-d91395b9-86f0-40b0-b7e9-d41af8b92952#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/eisenach-56-jaehrige-stirbt-bei-unfall-auf-a4-fehlende-rettungsgasse](https://www.spiegel.de/panorama/justiz/eisenach-56-jaehrige-stirbt-bei-unfall-auf-a4-fehlende-rettungsgasse-a-2b72fcd0-6644-43bb-a7c5-a29c92f2064b#ref=rss)
-* [https://www.spiegel.de/netzwelt/investmentbetrug-kriminelle-zocken-opfer-als-fake-verbraucherschuetzer-ab](https://www.spiegel.de/netzwelt/investmentbetrug-kriminelle-zocken-opfer-als-fake-verbraucherschuetzer-ab-a-9d413e88-6435-4c71-88ca-5a0bdb2b7d9a#ref=rss)
-### afdchefin
+* [https://www.spiegel.de/auto/tesla-cybertruck-experten-erklaeren-den-pick-up-zum-misserfolg](https://www.spiegel.de/auto/tesla-cybertruck-experten-erklaeren-den-pick-up-zum-misserfolg-a-cb90b73d-82b9-414c-97d6-1d949c50b060#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/elon-musk-ist-unzufrieden-mit-dem-x-geschaeft](https://www.spiegel.de/netzwelt/apps/elon-musk-ist-unzufrieden-mit-dem-x-geschaeft-a-0a2b5167-bfef-4cbe-8d88-66325807e7a7#ref=rss)
+### musk
 
-* [https://www.spiegel.de/geschichte/falsche-behauptung-von-afd-chefin-alice-weidel-warum-adolf-hitler-kein-kommunist-war](https://www.spiegel.de/geschichte/falsche-behauptung-von-afd-chefin-alice-weidel-warum-adolf-hitler-kein-kommunist-war-a-05f645c0-529e-473a-b48a-9e6e4b899ed5#ref=rss)
-### adolf
+* [https://www.spiegel.de/auto/tesla-cybertruck-experten-erklaeren-den-pick-up-zum-misserfolg](https://www.spiegel.de/auto/tesla-cybertruck-experten-erklaeren-den-pick-up-zum-misserfolg-a-cb90b73d-82b9-414c-97d6-1d949c50b060#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/elon-musk-ist-unzufrieden-mit-dem-x-geschaeft](https://www.spiegel.de/netzwelt/apps/elon-musk-ist-unzufrieden-mit-dem-x-geschaeft-a-0a2b5167-bfef-4cbe-8d88-66325807e7a7#ref=rss)
+### friedrich
 
-* [https://www.spiegel.de/geschichte/falsche-behauptung-von-afd-chefin-alice-weidel-warum-adolf-hitler-kein-kommunist-war](https://www.spiegel.de/geschichte/falsche-behauptung-von-afd-chefin-alice-weidel-warum-adolf-hitler-kein-kommunist-war-a-05f645c0-529e-473a-b48a-9e6e4b899ed5#ref=rss)
-### hitler
-
-* [https://www.spiegel.de/geschichte/falsche-behauptung-von-afd-chefin-alice-weidel-warum-adolf-hitler-kein-kommunist-war](https://www.spiegel.de/geschichte/falsche-behauptung-von-afd-chefin-alice-weidel-warum-adolf-hitler-kein-kommunist-war-a-05f645c0-529e-473a-b48a-9e6e4b899ed5#ref=rss)
-### kommunist
-
-* [https://www.spiegel.de/geschichte/falsche-behauptung-von-afd-chefin-alice-weidel-warum-adolf-hitler-kein-kommunist-war](https://www.spiegel.de/geschichte/falsche-behauptung-von-afd-chefin-alice-weidel-warum-adolf-hitler-kein-kommunist-war-a-05f645c0-529e-473a-b48a-9e6e4b899ed5#ref=rss)
-### irland
-
-* [https://www.spiegel.de/panorama/irland-grossbritannien-sturm-eowyn-reisst-baeume-um-und-deckt-daecher-ab](https://www.spiegel.de/panorama/irland-grossbritannien-sturm-eowyn-reisst-baeume-um-und-deckt-daecher-ab-a-0b4da6fa-1809-45bf-ae38-6447b54c5d35#ref=rss)
-### sturm
-
-* [https://www.spiegel.de/panorama/irland-grossbritannien-sturm-eowyn-reisst-baeume-um-und-deckt-daecher-ab](https://www.spiegel.de/panorama/irland-grossbritannien-sturm-eowyn-reisst-baeume-um-und-deckt-daecher-ab-a-0b4da6fa-1809-45bf-ae38-6447b54c5d35#ref=rss)
-### éowyn
-
-* [https://www.spiegel.de/panorama/irland-grossbritannien-sturm-eowyn-reisst-baeume-um-und-deckt-daecher-ab](https://www.spiegel.de/panorama/irland-grossbritannien-sturm-eowyn-reisst-baeume-um-und-deckt-daecher-ab-a-0b4da6fa-1809-45bf-ae38-6447b54c5d35#ref=rss)
-### mexiko
-
-* [https://www.spiegel.de/ausland/us-grenze-mexiko-baut-aufnahmelager-fuer-trumps-abschiebeaktion](https://www.spiegel.de/ausland/us-grenze-mexiko-baut-aufnahmelager-fuer-trumps-abschiebeaktion-a-fdba5e6e-c4e5-4509-a8e8-0ac4a93ef9c3#ref=rss)
-### baut
-
-* [https://www.spiegel.de/ausland/us-grenze-mexiko-baut-aufnahmelager-fuer-trumps-abschiebeaktion](https://www.spiegel.de/ausland/us-grenze-mexiko-baut-aufnahmelager-fuer-trumps-abschiebeaktion-a-fdba5e6e-c4e5-4509-a8e8-0ac4a93ef9c3#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/ausland/us-grenze-mexiko-baut-aufnahmelager-fuer-trumps-abschiebeaktion](https://www.spiegel.de/ausland/us-grenze-mexiko-baut-aufnahmelager-fuer-trumps-abschiebeaktion-a-fdba5e6e-c4e5-4509-a8e8-0ac4a93ef9c3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/sackler-clan-zahlt-us-bundesstaaten-7-4-milliarden-dollar](https://www.spiegel.de/wirtschaft/sackler-clan-zahlt-us-bundesstaaten-7-4-milliarden-dollar-a-a2ed7f44-45b8-4546-a523-e3bcd6c70725#ref=rss)
-### leben
-
-* [https://www.spiegel.de/ausland/us-grenze-mexiko-baut-aufnahmelager-fuer-trumps-abschiebeaktion](https://www.spiegel.de/ausland/us-grenze-mexiko-baut-aufnahmelager-fuer-trumps-abschiebeaktion-a-fdba5e6e-c4e5-4509-a8e8-0ac4a93ef9c3#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/eisenach-56-jaehrige-stirbt-bei-unfall-auf-a4-fehlende-rettungsgasse](https://www.spiegel.de/panorama/justiz/eisenach-56-jaehrige-stirbt-bei-unfall-auf-a4-fehlende-rettungsgasse-a-2b72fcd0-6644-43bb-a7c5-a29c92f2064b#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/ausland/us-grenze-mexiko-baut-aufnahmelager-fuer-trumps-abschiebeaktion](https://www.spiegel.de/ausland/us-grenze-mexiko-baut-aufnahmelager-fuer-trumps-abschiebeaktion-a-fdba5e6e-c4e5-4509-a8e8-0ac4a93ef9c3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-afd-ohne-strategie-start-der-tarifrunde-15-monate-israel-gaza-krieg](https://www.spiegel.de/politik/deutschland/news-des-tages-afd-ohne-strategie-start-der-tarifrunde-15-monate-israel-gaza-krieg-a-c3b4c50e-e0e9-4d81-8031-539bbcbf74de#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/us-grenze-mexiko-baut-aufnahmelager-fuer-trumps-abschiebeaktion](https://www.spiegel.de/ausland/us-grenze-mexiko-baut-aufnahmelager-fuer-trumps-abschiebeaktion-a-fdba5e6e-c4e5-4509-a8e8-0ac4a93ef9c3#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/grossbritannien-mutter-scheitert-mit-klage-gegen-auslieferung-an-die-usa](https://www.spiegel.de/panorama/justiz/grossbritannien-mutter-scheitert-mit-klage-gegen-auslieferung-an-die-usa-a-3d3950ad-b6d4-453e-abc2-a9062789a285#ref=rss)
-### gewalt
-
-* [https://www.spiegel.de/ausland/us-grenze-mexiko-baut-aufnahmelager-fuer-trumps-abschiebeaktion](https://www.spiegel.de/ausland/us-grenze-mexiko-baut-aufnahmelager-fuer-trumps-abschiebeaktion-a-fdba5e6e-c4e5-4509-a8e8-0ac4a93ef9c3#ref=rss)
-* [https://www.spiegel.de/ausland/demokratische-republik-kongo-gewalt-im-ostkongo-eskaliert-frauen-und-maedchen-betroffen](https://www.spiegel.de/ausland/demokratische-republik-kongo-gewalt-im-ostkongo-eskaliert-frauen-und-maedchen-betroffen-a-6be7412c-6b94-4a03-ad5c-f7e99118f8b8#ref=rss)
-### bildung
-
-* [https://www.spiegel.de/panorama/bildung/bildung-buergerrat-fordert-abschaffung-von-hausaufgaben](https://www.spiegel.de/panorama/bildung/bildung-buergerrat-fordert-abschaffung-von-hausaufgaben-a-8071eca9-6c16-4b67-b045-86822cf1a809#ref=rss)
-### bürgerrat
-
-* [https://www.spiegel.de/panorama/bildung/bildung-buergerrat-fordert-abschaffung-von-hausaufgaben](https://www.spiegel.de/panorama/bildung/bildung-buergerrat-fordert-abschaffung-von-hausaufgaben-a-8071eca9-6c16-4b67-b045-86822cf1a809#ref=rss)
-### abschaffung
-
-* [https://www.spiegel.de/panorama/bildung/bildung-buergerrat-fordert-abschaffung-von-hausaufgaben](https://www.spiegel.de/panorama/bildung/bildung-buergerrat-fordert-abschaffung-von-hausaufgaben-a-8071eca9-6c16-4b67-b045-86822cf1a809#ref=rss)
-### hausaufgaben
-
-* [https://www.spiegel.de/panorama/bildung/bildung-buergerrat-fordert-abschaffung-von-hausaufgaben](https://www.spiegel.de/panorama/bildung/bildung-buergerrat-fordert-abschaffung-von-hausaufgaben-a-8071eca9-6c16-4b67-b045-86822cf1a809#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/panorama/bildung/bildung-buergerrat-fordert-abschaffung-von-hausaufgaben](https://www.spiegel.de/panorama/bildung/bildung-buergerrat-fordert-abschaffung-von-hausaufgaben-a-8071eca9-6c16-4b67-b045-86822cf1a809#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/grossbritannien-mutter-scheitert-mit-klage-gegen-auslieferung-an-die-usa](https://www.spiegel.de/panorama/justiz/grossbritannien-mutter-scheitert-mit-klage-gegen-auslieferung-an-die-usa-a-3d3950ad-b6d4-453e-abc2-a9062789a285#ref=rss)
-### weniger
-
-* [https://www.spiegel.de/panorama/bildung/bildung-buergerrat-fordert-abschaffung-von-hausaufgaben](https://www.spiegel.de/panorama/bildung/bildung-buergerrat-fordert-abschaffung-von-hausaufgaben-a-8071eca9-6c16-4b67-b045-86822cf1a809#ref=rss)
-* [https://www.spiegel.de/wissenschaft/close-up-photographer-of-the-year-die-besten-nahaufnahmen-des-jahres](https://www.spiegel.de/wissenschaft/close-up-photographer-of-the-year-die-besten-nahaufnahmen-des-jahres-a-9efd6124-b902-441d-b6b9-c2a1bd23750f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/mario-czaja-der-kampf-des-cdu-aussenseiters-gegen-parteichef-friedrich-merz](https://www.spiegel.de/politik/deutschland/mario-czaja-der-kampf-des-cdu-aussenseiters-gegen-parteichef-friedrich-merz-a-54804d17-3660-4b50-a83b-63fada240067#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-gegen-die-afd-fall-gelbhaar-bei-den-gruenen-wahlkampf-mit-taurus-in-berlin-marzahn](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-gegen-die-afd-fall-gelbhaar-bei-den-gruenen-wahlkampf-mit-taurus-in-berlin-marzahn-a-1f774062-6c7d-4449-9192-733daac6c80d#ref=rss)
 ### unter
 
-* [https://www.spiegel.de/panorama/bildung/bildung-buergerrat-fordert-abschaffung-von-hausaufgaben](https://www.spiegel.de/panorama/bildung/bildung-buergerrat-fordert-abschaffung-von-hausaufgaben-a-8071eca9-6c16-4b67-b045-86822cf1a809#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/migration-friedrich-merz-die-cdu-und-die-afd-tanz-mit-der-natter](https://www.spiegel.de/politik/deutschland/migration-friedrich-merz-die-cdu-und-die-afd-tanz-mit-der-natter-a-d91395b9-86f0-40b0-b7e9-d41af8b92952#ref=rss)
-### neue
+* [https://www.spiegel.de/politik/deutschland/mario-czaja-der-kampf-des-cdu-aussenseiters-gegen-parteichef-friedrich-merz](https://www.spiegel.de/politik/deutschland/mario-czaja-der-kampf-des-cdu-aussenseiters-gegen-parteichef-friedrich-merz-a-54804d17-3660-4b50-a83b-63fada240067#ref=rss)
+* [https://www.spiegel.de/panorama/karibik-deutscher-ingenieur-ruediger-koch-lebt-120-tage-unter-wasser](https://www.spiegel.de/panorama/karibik-deutscher-ingenieur-ruediger-koch-lebt-120-tage-unter-wasser-a-9effacd6-577c-4d24-bd33-7f56fa934f09#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/elon-musk-ist-unzufrieden-mit-dem-x-geschaeft](https://www.spiegel.de/netzwelt/apps/elon-musk-ist-unzufrieden-mit-dem-x-geschaeft-a-0a2b5167-bfef-4cbe-8d88-66325807e7a7#ref=rss)
+### ausland
 
-* [https://www.spiegel.de/gesundheit/diagnose/adhs-betroffene-haben-eine-geringere-lebenserwartung](https://www.spiegel.de/gesundheit/diagnose/adhs-betroffene-haben-eine-geringere-lebenserwartung-a-f748de23-180a-4329-879c-14ca470d962e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/klimapolitik-china-kann-sich-ueber-die-trump-volte-freuen](https://www.spiegel.de/wissenschaft/mensch/klimapolitik-china-kann-sich-ueber-die-trump-volte-freuen-a-82677ca4-c33f-49d4-ba8b-65310cf51b8e#ref=rss)
-### jule
+* [https://www.spiegel.de/start/auslandspraktikum-auf-bali-so-klappt-die-organisation-dank-checkliste](https://www.spiegel.de/start/auslandspraktikum-auf-bali-so-klappt-die-organisation-dank-checkliste-a-88f47e96-4fa0-437b-9061-4cd5870275cb#ref=rss)
+* [https://www.spiegel.de/ausland/us-aussenminister-marco-rubio-friert-fast-alle-us-hilfen-fuer-ausland-ein](https://www.spiegel.de/ausland/us-aussenminister-marco-rubio-friert-fast-alle-us-hilfen-fuer-ausland-ein-a-bc555716-ce91-4016-be07-b9285d93fb81#ref=rss)
+### afd
 
-* [https://www.spiegel.de/sport/fussball/frauen-bundesliga-jule-brand-und-merle-frohms-verlassen-vfl-wolfsburg-im-sommer](https://www.spiegel.de/sport/fussball/frauen-bundesliga-jule-brand-und-merle-frohms-verlassen-vfl-wolfsburg-im-sommer-a-5625a4d9-dc38-427c-b299-6c93e6c290f6#ref=rss)
-### brand
+* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-gegen-die-afd-fall-gelbhaar-bei-den-gruenen-wahlkampf-mit-taurus-in-berlin-marzahn](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-gegen-die-afd-fall-gelbhaar-bei-den-gruenen-wahlkampf-mit-taurus-in-berlin-marzahn-a-1f774062-6c7d-4449-9192-733daac6c80d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-erhaelt-von-einem-mann-aus-thueringen-weitere-millionenspende](https://www.spiegel.de/politik/deutschland/afd-erhaelt-von-einem-mann-aus-thueringen-weitere-millionenspende-a-020ef849-55d3-46e7-95d4-ea5d284ef4a0#ref=rss)
+### usa
 
-* [https://www.spiegel.de/sport/fussball/frauen-bundesliga-jule-brand-und-merle-frohms-verlassen-vfl-wolfsburg-im-sommer](https://www.spiegel.de/sport/fussball/frauen-bundesliga-jule-brand-und-merle-frohms-verlassen-vfl-wolfsburg-im-sommer-a-5625a4d9-dc38-427c-b299-6c93e6c290f6#ref=rss)
-### merle
+* [https://www.spiegel.de/ausland/druck-von-donald-trump-eu-general-schlaegt-stationierung-von-eu-soldaten-in-groenland-vor](https://www.spiegel.de/ausland/druck-von-donald-trump-eu-general-schlaegt-stationierung-von-eu-soldaten-in-groenland-vor-a-d39fd4d1-e59c-4e12-9635-f6ad3690f060#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-der-golf-von-mexiko-heisst-kuenftig-golf-von-amerika](https://www.spiegel.de/ausland/donald-trump-der-golf-von-mexiko-heisst-kuenftig-golf-von-amerika-a-04e8493a-99b0-4411-9466-f55713ae02d7#ref=rss)
+* [https://www.spiegel.de/ausland/us-aussenminister-marco-rubio-friert-fast-alle-us-hilfen-fuer-ausland-ein](https://www.spiegel.de/ausland/us-aussenminister-marco-rubio-friert-fast-alle-us-hilfen-fuer-ausland-ein-a-bc555716-ce91-4016-be07-b9285d93fb81#ref=rss)
+### philipp
 
-* [https://www.spiegel.de/sport/fussball/frauen-bundesliga-jule-brand-und-merle-frohms-verlassen-vfl-wolfsburg-im-sommer](https://www.spiegel.de/sport/fussball/frauen-bundesliga-jule-brand-und-merle-frohms-verlassen-vfl-wolfsburg-im-sommer-a-5625a4d9-dc38-427c-b299-6c93e6c290f6#ref=rss)
-### frohms
+* [https://www.spiegel.de/panorama/leute/philipp-amthor-cdu-politiker-fuehrt-rapper-fler-durch-den-bundestag](https://www.spiegel.de/panorama/leute/philipp-amthor-cdu-politiker-fuehrt-rapper-fler-durch-den-bundestag-a-9112117c-4e32-4c59-a8ca-d69b7400f734#ref=rss)
+### amthor
 
-* [https://www.spiegel.de/sport/fussball/frauen-bundesliga-jule-brand-und-merle-frohms-verlassen-vfl-wolfsburg-im-sommer](https://www.spiegel.de/sport/fussball/frauen-bundesliga-jule-brand-und-merle-frohms-verlassen-vfl-wolfsburg-im-sommer-a-5625a4d9-dc38-427c-b299-6c93e6c290f6#ref=rss)
-### vfl
+* [https://www.spiegel.de/panorama/leute/philipp-amthor-cdu-politiker-fuehrt-rapper-fler-durch-den-bundestag](https://www.spiegel.de/panorama/leute/philipp-amthor-cdu-politiker-fuehrt-rapper-fler-durch-den-bundestag-a-9112117c-4e32-4c59-a8ca-d69b7400f734#ref=rss)
+### cdupolitiker
 
-* [https://www.spiegel.de/sport/fussball/frauen-bundesliga-jule-brand-und-merle-frohms-verlassen-vfl-wolfsburg-im-sommer](https://www.spiegel.de/sport/fussball/frauen-bundesliga-jule-brand-und-merle-frohms-verlassen-vfl-wolfsburg-im-sommer-a-5625a4d9-dc38-427c-b299-6c93e6c290f6#ref=rss)
-### wolfsburg
+* [https://www.spiegel.de/panorama/leute/philipp-amthor-cdu-politiker-fuehrt-rapper-fler-durch-den-bundestag](https://www.spiegel.de/panorama/leute/philipp-amthor-cdu-politiker-fuehrt-rapper-fler-durch-den-bundestag-a-9112117c-4e32-4c59-a8ca-d69b7400f734#ref=rss)
+### rapper
 
-* [https://www.spiegel.de/sport/fussball/frauen-bundesliga-jule-brand-und-merle-frohms-verlassen-vfl-wolfsburg-im-sommer](https://www.spiegel.de/sport/fussball/frauen-bundesliga-jule-brand-und-merle-frohms-verlassen-vfl-wolfsburg-im-sommer-a-5625a4d9-dc38-427c-b299-6c93e6c290f6#ref=rss)
-### strategie
+* [https://www.spiegel.de/panorama/leute/philipp-amthor-cdu-politiker-fuehrt-rapper-fler-durch-den-bundestag](https://www.spiegel.de/panorama/leute/philipp-amthor-cdu-politiker-fuehrt-rapper-fler-durch-den-bundestag-a-9112117c-4e32-4c59-a8ca-d69b7400f734#ref=rss)
+### fler
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-afd-ohne-strategie-start-der-tarifrunde-15-monate-israel-gaza-krieg](https://www.spiegel.de/politik/deutschland/news-des-tages-afd-ohne-strategie-start-der-tarifrunde-15-monate-israel-gaza-krieg-a-c3b4c50e-e0e9-4d81-8031-539bbcbf74de#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/darum-braucht-die-afd-in-diesem-wahlkampf-keine-strategie](https://www.spiegel.de/politik/deutschland/darum-braucht-die-afd-in-diesem-wahlkampf-keine-strategie-a-a3165731-e10a-4d11-bc8a-c0db63a116e8#ref=rss)
-### israelgazakrieg
+* [https://www.spiegel.de/panorama/leute/philipp-amthor-cdu-politiker-fuehrt-rapper-fler-durch-den-bundestag](https://www.spiegel.de/panorama/leute/philipp-amthor-cdu-politiker-fuehrt-rapper-fler-durch-den-bundestag-a-9112117c-4e32-4c59-a8ca-d69b7400f734#ref=rss)
+### brachte
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-afd-ohne-strategie-start-der-tarifrunde-15-monate-israel-gaza-krieg](https://www.spiegel.de/politik/deutschland/news-des-tages-afd-ohne-strategie-start-der-tarifrunde-15-monate-israel-gaza-krieg-a-c3b4c50e-e0e9-4d81-8031-539bbcbf74de#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-will-vier-verschleppte-soldatinnen-freilassen](https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-will-vier-verschleppte-soldatinnen-freilassen-a-704a2da9-0ce2-4b1a-af01-a09d2eaebff4#ref=rss)
-### diesem
+* [https://www.spiegel.de/panorama/leute/philipp-amthor-cdu-politiker-fuehrt-rapper-fler-durch-den-bundestag](https://www.spiegel.de/panorama/leute/philipp-amthor-cdu-politiker-fuehrt-rapper-fler-durch-den-bundestag-a-9112117c-4e32-4c59-a8ca-d69b7400f734#ref=rss)
+* [https://www.spiegel.de/ausland/pete-hegseth-wird-us-verteidigungsminister](https://www.spiegel.de/ausland/pete-hegseth-wird-us-verteidigungsminister-a-4ed26af8-6538-4c36-96b0-962f3b98148f#ref=rss)
+### handballwm
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-afd-ohne-strategie-start-der-tarifrunde-15-monate-israel-gaza-krieg](https://www.spiegel.de/politik/deutschland/news-des-tages-afd-ohne-strategie-start-der-tarifrunde-15-monate-israel-gaza-krieg-a-c3b4c50e-e0e9-4d81-8031-539bbcbf74de#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/darum-braucht-die-afd-in-diesem-wahlkampf-keine-strategie](https://www.spiegel.de/politik/deutschland/darum-braucht-die-afd-in-diesem-wahlkampf-keine-strategie-a-a3165731-e10a-4d11-bc8a-c0db63a116e8#ref=rss)
-### freitagabend
+* [https://www.spiegel.de/sport/handball/handball-wm-spanien-norwegen-und-schweden-scheiden-ueberraschend-aus-portugal-und-brasilien-weiter](https://www.spiegel.de/sport/handball/handball-wm-spanien-norwegen-und-schweden-scheiden-ueberraschend-aus-portugal-und-brasilien-weiter-a-0edeedf8-1fff-4da7-8565-a9bf3d0817d5#ref=rss)
+### spanien
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-afd-ohne-strategie-start-der-tarifrunde-15-monate-israel-gaza-krieg](https://www.spiegel.de/politik/deutschland/news-des-tages-afd-ohne-strategie-start-der-tarifrunde-15-monate-israel-gaza-krieg-a-c3b4c50e-e0e9-4d81-8031-539bbcbf74de#ref=rss)
-* [https://www.spiegel.de/kultur/tv/dschungelcamp-kandidaten-2025-der-grosse-kandidatencheck](https://www.spiegel.de/kultur/tv/dschungelcamp-kandidaten-2025-der-grosse-kandidatencheck-a-7f12388b-4225-4330-a64e-cfe6e29b27dd#ref=rss)
-### cdu
+* [https://www.spiegel.de/sport/handball/handball-wm-spanien-norwegen-und-schweden-scheiden-ueberraschend-aus-portugal-und-brasilien-weiter](https://www.spiegel.de/sport/handball/handball-wm-spanien-norwegen-und-schweden-scheiden-ueberraschend-aus-portugal-und-brasilien-weiter-a-0edeedf8-1fff-4da7-8565-a9bf3d0817d5#ref=rss)
+### norwegen
 
-* [https://www.spiegel.de/politik/deutschland/migration-friedrich-merz-die-cdu-und-die-afd-tanz-mit-der-natter](https://www.spiegel.de/politik/deutschland/migration-friedrich-merz-die-cdu-und-die-afd-tanz-mit-der-natter-a-d91395b9-86f0-40b0-b7e9-d41af8b92952#ref=rss)
-### auslieferung
+* [https://www.spiegel.de/sport/handball/handball-wm-spanien-norwegen-und-schweden-scheiden-ueberraschend-aus-portugal-und-brasilien-weiter](https://www.spiegel.de/sport/handball/handball-wm-spanien-norwegen-und-schweden-scheiden-ueberraschend-aus-portugal-und-brasilien-weiter-a-0edeedf8-1fff-4da7-8565-a9bf3d0817d5#ref=rss)
+### schweden
 
-* [https://www.spiegel.de/panorama/justiz/grossbritannien-mutter-scheitert-mit-klage-gegen-auslieferung-an-die-usa](https://www.spiegel.de/panorama/justiz/grossbritannien-mutter-scheitert-mit-klage-gegen-auslieferung-an-die-usa-a-3d3950ad-b6d4-453e-abc2-a9062789a285#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-italiener-mit-beschwerde-gegen-anordnung-der-auslieferungshaft-erfolgreich](https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-italiener-mit-beschwerde-gegen-anordnung-der-auslieferungshaft-erfolgreich-a-0a62c719-9d61-4dc4-b9a8-ee595e1bd9ce#ref=rss)
-### gericht
+* [https://www.spiegel.de/sport/handball/handball-wm-spanien-norwegen-und-schweden-scheiden-ueberraschend-aus-portugal-und-brasilien-weiter](https://www.spiegel.de/sport/handball/handball-wm-spanien-norwegen-und-schweden-scheiden-ueberraschend-aus-portugal-und-brasilien-weiter-a-0edeedf8-1fff-4da7-8565-a9bf3d0817d5#ref=rss)
+### überraschend
 
-* [https://www.spiegel.de/panorama/justiz/grossbritannien-mutter-scheitert-mit-klage-gegen-auslieferung-an-die-usa](https://www.spiegel.de/panorama/justiz/grossbritannien-mutter-scheitert-mit-klage-gegen-auslieferung-an-die-usa-a-3d3950ad-b6d4-453e-abc2-a9062789a285#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-italiener-mit-beschwerde-gegen-anordnung-der-auslieferungshaft-erfolgreich](https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-italiener-mit-beschwerde-gegen-anordnung-der-auslieferungshaft-erfolgreich-a-0a62c719-9d61-4dc4-b9a8-ee595e1bd9ce#ref=rss)
-### hoogstede
+* [https://www.spiegel.de/sport/handball/handball-wm-spanien-norwegen-und-schweden-scheiden-ueberraschend-aus-portugal-und-brasilien-weiter](https://www.spiegel.de/sport/handball/handball-wm-spanien-norwegen-und-schweden-scheiden-ueberraschend-aus-portugal-und-brasilien-weiter-a-0edeedf8-1fff-4da7-8565-a9bf3d0817d5#ref=rss)
+### portugal
 
-* [https://www.spiegel.de/panorama/niedersachsen-vogelgrippe-in-betrieb-in-hoogstede-ausgebrochen](https://www.spiegel.de/panorama/niedersachsen-vogelgrippe-in-betrieb-in-hoogstede-ausgebrochen-a-830670f0-ecf5-4176-8547-c605fcaf9be0#ref=rss)
-### spielen
+* [https://www.spiegel.de/sport/handball/handball-wm-spanien-norwegen-und-schweden-scheiden-ueberraschend-aus-portugal-und-brasilien-weiter](https://www.spiegel.de/sport/handball/handball-wm-spanien-norwegen-und-schweden-scheiden-ueberraschend-aus-portugal-und-brasilien-weiter-a-0edeedf8-1fff-4da7-8565-a9bf3d0817d5#ref=rss)
+### brasilien
 
-* [https://www.spiegel.de/politik/deutschland/darum-braucht-die-afd-in-diesem-wahlkampf-keine-strategie](https://www.spiegel.de/politik/deutschland/darum-braucht-die-afd-in-diesem-wahlkampf-keine-strategie-a-a3165731-e10a-4d11-bc8a-c0db63a116e8#ref=rss)
-* [https://www.spiegel.de/sport/fussball/nationalmannschaft-julian-nagelsmann-bleibt-bundestrainer-bis-2028-das-sind-die-gruende](https://www.spiegel.de/sport/fussball/nationalmannschaft-julian-nagelsmann-bleibt-bundestrainer-bis-2028-das-sind-die-gruende-a-a3ab393f-8085-4a05-973a-8918aa3b7ab9#ref=rss)
+* [https://www.spiegel.de/sport/handball/handball-wm-spanien-norwegen-und-schweden-scheiden-ueberraschend-aus-portugal-und-brasilien-weiter](https://www.spiegel.de/sport/handball/handball-wm-spanien-norwegen-und-schweden-scheiden-ueberraschend-aus-portugal-und-brasilien-weiter-a-0edeedf8-1fff-4da7-8565-a9bf3d0817d5#ref=rss)
+### große
+
+* [https://www.spiegel.de/sport/handball/handball-wm-spanien-norwegen-und-schweden-scheiden-ueberraschend-aus-portugal-und-brasilien-weiter](https://www.spiegel.de/sport/handball/handball-wm-spanien-norwegen-und-schweden-scheiden-ueberraschend-aus-portugal-und-brasilien-weiter-a-0edeedf8-1fff-4da7-8565-a9bf3d0817d5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/per-schiff-lkw-und-pipeline-schottland-will-deutschland-mit-gruenem-wasserstoff-versorgen](https://www.spiegel.de/wirtschaft/per-schiff-lkw-und-pipeline-schottland-will-deutschland-mit-gruenem-wasserstoff-versorgen-a-68c1d597-0fdb-42c9-b1e1-f09214a1c345#ref=rss)
+### hinter
+
+* [https://www.spiegel.de/sport/handball/handball-wm-spanien-norwegen-und-schweden-scheiden-ueberraschend-aus-portugal-und-brasilien-weiter](https://www.spiegel.de/sport/handball/handball-wm-spanien-norwegen-und-schweden-scheiden-ueberraschend-aus-portugal-und-brasilien-weiter-a-0edeedf8-1fff-4da7-8565-a9bf3d0817d5#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/ross-ulbricht-gruender-der-drogenboerse-silk-road-dankt-trump-fuer-zweite-chance](https://www.spiegel.de/netzwelt/web/ross-ulbricht-gruender-der-drogenboerse-silk-road-dankt-trump-fuer-zweite-chance-a-4079ced2-2e0d-4822-9518-18624dc8f30e#ref=rss)
+### ross
+
+* [https://www.spiegel.de/netzwelt/web/ross-ulbricht-gruender-der-drogenboerse-silk-road-dankt-trump-fuer-zweite-chance](https://www.spiegel.de/netzwelt/web/ross-ulbricht-gruender-der-drogenboerse-silk-road-dankt-trump-fuer-zweite-chance-a-4079ced2-2e0d-4822-9518-18624dc8f30e#ref=rss)
+### ulbricht
+
+* [https://www.spiegel.de/netzwelt/web/ross-ulbricht-gruender-der-drogenboerse-silk-road-dankt-trump-fuer-zweite-chance](https://www.spiegel.de/netzwelt/web/ross-ulbricht-gruender-der-drogenboerse-silk-road-dankt-trump-fuer-zweite-chance-a-4079ced2-2e0d-4822-9518-18624dc8f30e#ref=rss)
+### silk
+
+* [https://www.spiegel.de/netzwelt/web/ross-ulbricht-gruender-der-drogenboerse-silk-road-dankt-trump-fuer-zweite-chance](https://www.spiegel.de/netzwelt/web/ross-ulbricht-gruender-der-drogenboerse-silk-road-dankt-trump-fuer-zweite-chance-a-4079ced2-2e0d-4822-9518-18624dc8f30e#ref=rss)
+### road
+
+* [https://www.spiegel.de/netzwelt/web/ross-ulbricht-gruender-der-drogenboerse-silk-road-dankt-trump-fuer-zweite-chance](https://www.spiegel.de/netzwelt/web/ross-ulbricht-gruender-der-drogenboerse-silk-road-dankt-trump-fuer-zweite-chance-a-4079ced2-2e0d-4822-9518-18624dc8f30e#ref=rss)
+### chance
+
+* [https://www.spiegel.de/netzwelt/web/ross-ulbricht-gruender-der-drogenboerse-silk-road-dankt-trump-fuer-zweite-chance](https://www.spiegel.de/netzwelt/web/ross-ulbricht-gruender-der-drogenboerse-silk-road-dankt-trump-fuer-zweite-chance-a-4079ced2-2e0d-4822-9518-18624dc8f30e#ref=rss)
+* [https://www.spiegel.de/ausland/was-wladimir-putin-sich-von-donald-trump-erhofft-nur-im-chaos-hat-russland-eine-chance](https://www.spiegel.de/ausland/was-wladimir-putin-sich-von-donald-trump-erhofft-nur-im-chaos-hat-russland-eine-chance-a-76f54f5d-17bc-4453-a258-774122b0941a#ref=rss)
+### weltwirtschaftsforum
+
+* [https://www.spiegel.de/wirtschaft/weltwirtschaftsforum-2025-beckham-po-foehn-und-harte-tueren-die-geheimnisse-von-davos](https://www.spiegel.de/wirtschaft/weltwirtschaftsforum-2025-beckham-po-foehn-und-harte-tueren-die-geheimnisse-von-davos-a-c412a9c8-8bd8-4e44-bf49-4dd7d2c1b075#ref=rss)
+### fall
+
+* [https://www.spiegel.de/politik/deutschland/fall-stefan-gelbhaar-wo-bleibt-der-aufschrei-der-feministinnen-kommentar](https://www.spiegel.de/politik/deutschland/fall-stefan-gelbhaar-wo-bleibt-der-aufschrei-der-feministinnen-kommentar-a-2b280e19-ee1a-4b32-b499-9fcb090ff4cb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-gegen-die-afd-fall-gelbhaar-bei-den-gruenen-wahlkampf-mit-taurus-in-berlin-marzahn](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-gegen-die-afd-fall-gelbhaar-bei-den-gruenen-wahlkampf-mit-taurus-in-berlin-marzahn-a-1f774062-6c7d-4449-9192-733daac6c80d#ref=rss)
+### stefan
+
+* [https://www.spiegel.de/politik/deutschland/fall-stefan-gelbhaar-wo-bleibt-der-aufschrei-der-feministinnen-kommentar](https://www.spiegel.de/politik/deutschland/fall-stefan-gelbhaar-wo-bleibt-der-aufschrei-der-feministinnen-kommentar-a-2b280e19-ee1a-4b32-b499-9fcb090ff4cb#ref=rss)
+### feministinnen
+
+* [https://www.spiegel.de/politik/deutschland/fall-stefan-gelbhaar-wo-bleibt-der-aufschrei-der-feministinnen-kommentar](https://www.spiegel.de/politik/deutschland/fall-stefan-gelbhaar-wo-bleibt-der-aufschrei-der-feministinnen-kommentar-a-2b280e19-ee1a-4b32-b499-9fcb090ff4cb#ref=rss)
+### frau
+
+* [https://www.spiegel.de/politik/deutschland/fall-stefan-gelbhaar-wo-bleibt-der-aufschrei-der-feministinnen-kommentar](https://www.spiegel.de/politik/deutschland/fall-stefan-gelbhaar-wo-bleibt-der-aufschrei-der-feministinnen-kommentar-a-2b280e19-ee1a-4b32-b499-9fcb090ff4cb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/coronapandemie-frank-walter-steinmeier-campierte-waehrend-quarantaene-in-der-dachkammer](https://www.spiegel.de/politik/deutschland/coronapandemie-frank-walter-steinmeier-campierte-waehrend-quarantaene-in-der-dachkammer-a-60803f9a-280f-4b2f-8d62-01bfa980ab82#ref=rss)
+### wolken
+
+* [https://www.spiegel.de/wissenschaft/natur/wolken-wie-sie-entstehen-und-wann-sie-dem-menschen-gefaehrlich-werden-koennen](https://www.spiegel.de/wissenschaft/natur/wolken-wie-sie-entstehen-und-wann-sie-dem-menschen-gefaehrlich-werden-koennen-a-36565f10-603d-4de3-a6dc-c3a8c106b0c8#ref=rss)
+### entstehen
+
+* [https://www.spiegel.de/wissenschaft/natur/wolken-wie-sie-entstehen-und-wann-sie-dem-menschen-gefaehrlich-werden-koennen](https://www.spiegel.de/wissenschaft/natur/wolken-wie-sie-entstehen-und-wann-sie-dem-menschen-gefaehrlich-werden-koennen-a-36565f10-603d-4de3-a6dc-c3a8c106b0c8#ref=rss)
+### putin
+
+* [https://www.spiegel.de/ausland/was-wladimir-putin-sich-von-donald-trump-erhofft-nur-im-chaos-hat-russland-eine-chance](https://www.spiegel.de/ausland/was-wladimir-putin-sich-von-donald-trump-erhofft-nur-im-chaos-hat-russland-eine-chance-a-76f54f5d-17bc-4453-a258-774122b0941a#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/was-wladimir-putin-sich-von-donald-trump-erhofft-nur-im-chaos-hat-russland-eine-chance](https://www.spiegel.de/ausland/was-wladimir-putin-sich-von-donald-trump-erhofft-nur-im-chaos-hat-russland-eine-chance-a-76f54f5d-17bc-4453-a258-774122b0941a#ref=rss)
+* [https://www.spiegel.de/ausland/us-aussenminister-marco-rubio-friert-fast-alle-us-hilfen-fuer-ausland-ein](https://www.spiegel.de/ausland/us-aussenminister-marco-rubio-friert-fast-alle-us-hilfen-fuer-ausland-ein-a-bc555716-ce91-4016-be07-b9285d93fb81#ref=rss)
+### leuchtturm
+
+* [https://www.spiegel.de/reise/europa/nouvelle-aquitaine-franzosen-bangen-um-leuchtturm-von-la-coubre](https://www.spiegel.de/reise/europa/nouvelle-aquitaine-franzosen-bangen-um-leuchtturm-von-la-coubre-a-a85ef107-2370-490b-85f2-e1f6839446d7#ref=rss)
+### la
+
+* [https://www.spiegel.de/reise/europa/nouvelle-aquitaine-franzosen-bangen-um-leuchtturm-von-la-coubre](https://www.spiegel.de/reise/europa/nouvelle-aquitaine-franzosen-bangen-um-leuchtturm-von-la-coubre-a-a85ef107-2370-490b-85f2-e1f6839446d7#ref=rss)
+### droht
+
+* [https://www.spiegel.de/reise/europa/nouvelle-aquitaine-franzosen-bangen-um-leuchtturm-von-la-coubre](https://www.spiegel.de/reise/europa/nouvelle-aquitaine-franzosen-bangen-um-leuchtturm-von-la-coubre-a-a85ef107-2370-490b-85f2-e1f6839446d7#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/volkach-betrunkener-autofahrer-versenkt-wagen-im-main](https://www.spiegel.de/panorama/justiz/volkach-betrunkener-autofahrer-versenkt-wagen-im-main-a-75f309e1-272f-4a6c-adc3-fac65167b2f6#ref=rss)
+### volkach
+
+* [https://www.spiegel.de/panorama/justiz/volkach-betrunkener-autofahrer-versenkt-wagen-im-main](https://www.spiegel.de/panorama/justiz/volkach-betrunkener-autofahrer-versenkt-wagen-im-main-a-75f309e1-272f-4a6c-adc3-fac65167b2f6#ref=rss)
+### main
+
+* [https://www.spiegel.de/panorama/justiz/volkach-betrunkener-autofahrer-versenkt-wagen-im-main](https://www.spiegel.de/panorama/justiz/volkach-betrunkener-autofahrer-versenkt-wagen-im-main-a-75f309e1-272f-4a6c-adc3-fac65167b2f6#ref=rss)
 ### vier
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-will-vier-verschleppte-soldatinnen-freilassen](https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-will-vier-verschleppte-soldatinnen-freilassen-a-704a2da9-0ce2-4b1a-af01-a09d2eaebff4#ref=rss)
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-interimstrainer-mike-tullberg-will-messer-zwischen-den-zaehnen-sehen](https://www.spiegel.de/sport/fussball/borussia-dortmund-interimstrainer-mike-tullberg-will-messer-zwischen-den-zaehnen-sehen-a-0e91903b-3b6f-4d9e-941b-6432ca7eac42#ref=rss)
-### woche
+* [https://www.spiegel.de/ausland/israel-hamas-vereinbarung-hamas-laesst-vier-israelische-geiseln-frei](https://www.spiegel.de/ausland/israel-hamas-vereinbarung-hamas-laesst-vier-israelische-geiseln-frei-a-aa6528b7-3b59-4bd0-b28e-cfb89dd87e93#ref=rss)
+### israelische
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-will-vier-verschleppte-soldatinnen-freilassen](https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-will-vier-verschleppte-soldatinnen-freilassen-a-704a2da9-0ce2-4b1a-af01-a09d2eaebff4#ref=rss)
-* [https://www.spiegel.de/kultur/musik/fka-twigs-dina-summer-sinem-fuffifufzich-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/fka-twigs-dina-summer-sinem-fuffifufzich-abgehoert-album-der-woche-a-8bc8f496-5ee2-4020-9dd9-06a4f0a5309d#ref=rss)
-### fka
+* [https://www.spiegel.de/ausland/israel-hamas-vereinbarung-hamas-laesst-vier-israelische-geiseln-frei](https://www.spiegel.de/ausland/israel-hamas-vereinbarung-hamas-laesst-vier-israelische-geiseln-frei-a-aa6528b7-3b59-4bd0-b28e-cfb89dd87e93#ref=rss)
+### gekämpft
 
-* [https://www.spiegel.de/kultur/musik/fka-twigs-dina-summer-sinem-fuffifufzich-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/fka-twigs-dina-summer-sinem-fuffifufzich-abgehoert-album-der-woche-a-8bc8f496-5ee2-4020-9dd9-06a4f0a5309d#ref=rss)
-### twigs
+* [https://www.spiegel.de/ausland/israels-krieg-nach-dem-7-oktober-gaza-zerstoert-hamas-intakt](https://www.spiegel.de/ausland/israels-krieg-nach-dem-7-oktober-gaza-zerstoert-hamas-intakt-a-086c50ac-a086-49a6-8733-5ad87e2abd8e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-gegen-die-afd-fall-gelbhaar-bei-den-gruenen-wahlkampf-mit-taurus-in-berlin-marzahn](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-gegen-die-afd-fall-gelbhaar-bei-den-gruenen-wahlkampf-mit-taurus-in-berlin-marzahn-a-1f774062-6c7d-4449-9192-733daac6c80d#ref=rss)
+### kämpfe
 
-* [https://www.spiegel.de/kultur/musik/fka-twigs-dina-summer-sinem-fuffifufzich-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/fka-twigs-dina-summer-sinem-fuffifufzich-abgehoert-album-der-woche-a-8bc8f496-5ee2-4020-9dd9-06a4f0a5309d#ref=rss)
-### dina
+* [https://www.spiegel.de/ausland/uno-soldaten-in-heftige-kaempfe-im-kongo-verwickelt](https://www.spiegel.de/ausland/uno-soldaten-in-heftige-kaempfe-im-kongo-verwickelt-a-2d891ae6-d15a-4164-ac4e-65aff09d7e12#ref=rss)
+### kongo
 
-* [https://www.spiegel.de/kultur/musik/fka-twigs-dina-summer-sinem-fuffifufzich-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/fka-twigs-dina-summer-sinem-fuffifufzich-abgehoert-album-der-woche-a-8bc8f496-5ee2-4020-9dd9-06a4f0a5309d#ref=rss)
-### summer
+* [https://www.spiegel.de/ausland/uno-soldaten-in-heftige-kaempfe-im-kongo-verwickelt](https://www.spiegel.de/ausland/uno-soldaten-in-heftige-kaempfe-im-kongo-verwickelt-a-2d891ae6-d15a-4164-ac4e-65aff09d7e12#ref=rss)
+### uno
 
-* [https://www.spiegel.de/kultur/musik/fka-twigs-dina-summer-sinem-fuffifufzich-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/fka-twigs-dina-summer-sinem-fuffifufzich-abgehoert-album-der-woche-a-8bc8f496-5ee2-4020-9dd9-06a4f0a5309d#ref=rss)
-### sinem
+* [https://www.spiegel.de/ausland/uno-soldaten-in-heftige-kaempfe-im-kongo-verwickelt](https://www.spiegel.de/ausland/uno-soldaten-in-heftige-kaempfe-im-kongo-verwickelt-a-2d891ae6-d15a-4164-ac4e-65aff09d7e12#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-der-golf-von-mexiko-heisst-kuenftig-golf-von-amerika](https://www.spiegel.de/ausland/donald-trump-der-golf-von-mexiko-heisst-kuenftig-golf-von-amerika-a-04e8493a-99b0-4411-9466-f55713ae02d7#ref=rss)
+### tesla
 
-* [https://www.spiegel.de/kultur/musik/fka-twigs-dina-summer-sinem-fuffifufzich-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/fka-twigs-dina-summer-sinem-fuffifufzich-abgehoert-album-der-woche-a-8bc8f496-5ee2-4020-9dd9-06a4f0a5309d#ref=rss)
-### album
+* [https://www.spiegel.de/auto/tesla-cybertruck-experten-erklaeren-den-pick-up-zum-misserfolg](https://www.spiegel.de/auto/tesla-cybertruck-experten-erklaeren-den-pick-up-zum-misserfolg-a-cb90b73d-82b9-414c-97d6-1d949c50b060#ref=rss)
+### cybertruck
 
-* [https://www.spiegel.de/kultur/musik/fka-twigs-dina-summer-sinem-fuffifufzich-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/fka-twigs-dina-summer-sinem-fuffifufzich-abgehoert-album-der-woche-a-8bc8f496-5ee2-4020-9dd9-06a4f0a5309d#ref=rss)
-### neuen
+* [https://www.spiegel.de/auto/tesla-cybertruck-experten-erklaeren-den-pick-up-zum-misserfolg](https://www.spiegel.de/auto/tesla-cybertruck-experten-erklaeren-den-pick-up-zum-misserfolg-a-cb90b73d-82b9-414c-97d6-1d949c50b060#ref=rss)
+### experten
 
-* [https://www.spiegel.de/kultur/musik/fka-twigs-dina-summer-sinem-fuffifufzich-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/fka-twigs-dina-summer-sinem-fuffifufzich-abgehoert-album-der-woche-a-8bc8f496-5ee2-4020-9dd9-06a4f0a5309d#ref=rss)
-* [https://www.spiegel.de/kultur/tv/dschungelcamp-kandidaten-2025-der-grosse-kandidatencheck](https://www.spiegel.de/kultur/tv/dschungelcamp-kandidaten-2025-der-grosse-kandidatencheck-a-7f12388b-4225-4330-a64e-cfe6e29b27dd#ref=rss)
-### ostkongo
+* [https://www.spiegel.de/auto/tesla-cybertruck-experten-erklaeren-den-pick-up-zum-misserfolg](https://www.spiegel.de/auto/tesla-cybertruck-experten-erklaeren-den-pick-up-zum-misserfolg-a-cb90b73d-82b9-414c-97d6-1d949c50b060#ref=rss)
+### erklären
 
-* [https://www.spiegel.de/ausland/demokratische-republik-kongo-gewalt-im-ostkongo-eskaliert-frauen-und-maedchen-betroffen](https://www.spiegel.de/ausland/demokratische-republik-kongo-gewalt-im-ostkongo-eskaliert-frauen-und-maedchen-betroffen-a-6be7412c-6b94-4a03-ad5c-f7e99118f8b8#ref=rss)
-### frauen
+* [https://www.spiegel.de/auto/tesla-cybertruck-experten-erklaeren-den-pick-up-zum-misserfolg](https://www.spiegel.de/auto/tesla-cybertruck-experten-erklaeren-den-pick-up-zum-misserfolg-a-cb90b73d-82b9-414c-97d6-1d949c50b060#ref=rss)
+### misserfolg
 
-* [https://www.spiegel.de/ausland/demokratische-republik-kongo-gewalt-im-ostkongo-eskaliert-frauen-und-maedchen-betroffen](https://www.spiegel.de/ausland/demokratische-republik-kongo-gewalt-im-ostkongo-eskaliert-frauen-und-maedchen-betroffen-a-6be7412c-6b94-4a03-ad5c-f7e99118f8b8#ref=rss)
-### mädchen
+* [https://www.spiegel.de/auto/tesla-cybertruck-experten-erklaeren-den-pick-up-zum-misserfolg](https://www.spiegel.de/auto/tesla-cybertruck-experten-erklaeren-den-pick-up-zum-misserfolg-a-cb90b73d-82b9-414c-97d6-1d949c50b060#ref=rss)
+### oben
 
-* [https://www.spiegel.de/ausland/demokratische-republik-kongo-gewalt-im-ostkongo-eskaliert-frauen-und-maedchen-betroffen](https://www.spiegel.de/ausland/demokratische-republik-kongo-gewalt-im-ostkongo-eskaliert-frauen-und-maedchen-betroffen-a-6be7412c-6b94-4a03-ad5c-f7e99118f8b8#ref=rss)
-### robert
+* [https://www.spiegel.de/auto/tesla-cybertruck-experten-erklaeren-den-pick-up-zum-misserfolg](https://www.spiegel.de/auto/tesla-cybertruck-experten-erklaeren-den-pick-up-zum-misserfolg-a-cb90b73d-82b9-414c-97d6-1d949c50b060#ref=rss)
+* [https://www.spiegel.de/panorama/karibik-deutscher-ingenieur-ruediger-koch-lebt-120-tage-unter-wasser](https://www.spiegel.de/panorama/karibik-deutscher-ingenieur-ruediger-koch-lebt-120-tage-unter-wasser-a-9effacd6-577c-4d24-bd33-7f56fa934f09#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-afd-und-migration-gruener-robert-habeck-warnt-merz-vor-wortbruch](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-afd-und-migration-gruener-robert-habeck-warnt-merz-vor-wortbruch-a-bb1d22a7-d990-4304-90bf-9bfac370bf3c#ref=rss)
-### habeck
+* [https://www.spiegel.de/wirtschaft/per-schiff-lkw-und-pipeline-schottland-will-deutschland-mit-gruenem-wasserstoff-versorgen](https://www.spiegel.de/wirtschaft/per-schiff-lkw-und-pipeline-schottland-will-deutschland-mit-gruenem-wasserstoff-versorgen-a-68c1d597-0fdb-42c9-b1e1-f09214a1c345#ref=rss)
+### grünem
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-afd-und-migration-gruener-robert-habeck-warnt-merz-vor-wortbruch](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-afd-und-migration-gruener-robert-habeck-warnt-merz-vor-wortbruch-a-bb1d22a7-d990-4304-90bf-9bfac370bf3c#ref=rss)
-### cduchef
+* [https://www.spiegel.de/wirtschaft/per-schiff-lkw-und-pipeline-schottland-will-deutschland-mit-gruenem-wasserstoff-versorgen](https://www.spiegel.de/wirtschaft/per-schiff-lkw-und-pipeline-schottland-will-deutschland-mit-gruenem-wasserstoff-versorgen-a-68c1d597-0fdb-42c9-b1e1-f09214a1c345#ref=rss)
+### wasserstoff
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-afd-und-migration-gruener-robert-habeck-warnt-merz-vor-wortbruch](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-afd-und-migration-gruener-robert-habeck-warnt-merz-vor-wortbruch-a-bb1d22a7-d990-4304-90bf-9bfac370bf3c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/migration-fdp-signalisiert-unterstuetzung-fuer-merz-migrationspolitik](https://www.spiegel.de/politik/deutschland/migration-fdp-signalisiert-unterstuetzung-fuer-merz-migrationspolitik-a-35eedfc4-eac1-4d25-b7be-4f117b09a4e9#ref=rss)
-### versprechen
+* [https://www.spiegel.de/wirtschaft/per-schiff-lkw-und-pipeline-schottland-will-deutschland-mit-gruenem-wasserstoff-versorgen](https://www.spiegel.de/wirtschaft/per-schiff-lkw-und-pipeline-schottland-will-deutschland-mit-gruenem-wasserstoff-versorgen-a-68c1d597-0fdb-42c9-b1e1-f09214a1c345#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-afd-und-migration-gruener-robert-habeck-warnt-merz-vor-wortbruch](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-afd-und-migration-gruener-robert-habeck-warnt-merz-vor-wortbruch-a-bb1d22a7-d990-4304-90bf-9bfac370bf3c#ref=rss)
-* [https://www.spiegel.de/netzwelt/investmentbetrug-kriminelle-zocken-opfer-als-fake-verbraucherschuetzer-ab](https://www.spiegel.de/netzwelt/investmentbetrug-kriminelle-zocken-opfer-als-fake-verbraucherschuetzer-ab-a-9d413e88-6435-4c71-88ca-5a0bdb2b7d9a#ref=rss)
-### bettina
+* [https://www.spiegel.de/wirtschaft/per-schiff-lkw-und-pipeline-schottland-will-deutschland-mit-gruenem-wasserstoff-versorgen](https://www.spiegel.de/wirtschaft/per-schiff-lkw-und-pipeline-schottland-will-deutschland-mit-gruenem-wasserstoff-versorgen-a-68c1d597-0fdb-42c9-b1e1-f09214a1c345#ref=rss)
+* [https://www.spiegel.de/panorama/karibik-deutscher-ingenieur-ruediger-koch-lebt-120-tage-unter-wasser](https://www.spiegel.de/panorama/karibik-deutscher-ingenieur-ruediger-koch-lebt-120-tage-unter-wasser-a-9effacd6-577c-4d24-bd33-7f56fa934f09#ref=rss)
+### unternehmen
 
-* [https://www.spiegel.de/politik/deutschland/foerdergeldaffaere-im-bmbf-was-jetzt-klarer-ist-und-welche-fragen-offen-bleiben](https://www.spiegel.de/politik/deutschland/foerdergeldaffaere-im-bmbf-was-jetzt-klarer-ist-und-welche-fragen-offen-bleiben-a-c21480b8-dc90-4d49-858a-d050d5075b42#ref=rss)
-### starkwatzinger
+* [https://www.spiegel.de/wirtschaft/per-schiff-lkw-und-pipeline-schottland-will-deutschland-mit-gruenem-wasserstoff-versorgen](https://www.spiegel.de/wirtschaft/per-schiff-lkw-und-pipeline-schottland-will-deutschland-mit-gruenem-wasserstoff-versorgen-a-68c1d597-0fdb-42c9-b1e1-f09214a1c345#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/elon-musk-ist-unzufrieden-mit-dem-x-geschaeft](https://www.spiegel.de/netzwelt/apps/elon-musk-ist-unzufrieden-mit-dem-x-geschaeft-a-0a2b5167-bfef-4cbe-8d88-66325807e7a7#ref=rss)
+### kampf
 
-* [https://www.spiegel.de/politik/deutschland/foerdergeldaffaere-im-bmbf-was-jetzt-klarer-ist-und-welche-fragen-offen-bleiben](https://www.spiegel.de/politik/deutschland/foerdergeldaffaere-im-bmbf-was-jetzt-klarer-ist-und-welche-fragen-offen-bleiben-a-c21480b8-dc90-4d49-858a-d050d5075b42#ref=rss)
-### bleibt
+* [https://www.spiegel.de/politik/deutschland/mario-czaja-der-kampf-des-cdu-aussenseiters-gegen-parteichef-friedrich-merz](https://www.spiegel.de/politik/deutschland/mario-czaja-der-kampf-des-cdu-aussenseiters-gegen-parteichef-friedrich-merz-a-54804d17-3660-4b50-a83b-63fada240067#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-gegen-die-afd-fall-gelbhaar-bei-den-gruenen-wahlkampf-mit-taurus-in-berlin-marzahn](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-gegen-die-afd-fall-gelbhaar-bei-den-gruenen-wahlkampf-mit-taurus-in-berlin-marzahn-a-1f774062-6c7d-4449-9192-733daac6c80d#ref=rss)
+### wahlkampf
 
-* [https://www.spiegel.de/politik/deutschland/foerdergeldaffaere-im-bmbf-was-jetzt-klarer-ist-und-welche-fragen-offen-bleiben](https://www.spiegel.de/politik/deutschland/foerdergeldaffaere-im-bmbf-was-jetzt-klarer-ist-und-welche-fragen-offen-bleiben-a-c21480b8-dc90-4d49-858a-d050d5075b42#ref=rss)
-### rolle
+* [https://www.spiegel.de/politik/deutschland/mario-czaja-der-kampf-des-cdu-aussenseiters-gegen-parteichef-friedrich-merz](https://www.spiegel.de/politik/deutschland/mario-czaja-der-kampf-des-cdu-aussenseiters-gegen-parteichef-friedrich-merz-a-54804d17-3660-4b50-a83b-63fada240067#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-gegen-die-afd-fall-gelbhaar-bei-den-gruenen-wahlkampf-mit-taurus-in-berlin-marzahn](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-gegen-die-afd-fall-gelbhaar-bei-den-gruenen-wahlkampf-mit-taurus-in-berlin-marzahn-a-1f774062-6c7d-4449-9192-733daac6c80d#ref=rss)
+### eigenen
 
-* [https://www.spiegel.de/politik/deutschland/foerdergeldaffaere-im-bmbf-was-jetzt-klarer-ist-und-welche-fragen-offen-bleiben](https://www.spiegel.de/politik/deutschland/foerdergeldaffaere-im-bmbf-was-jetzt-klarer-ist-und-welche-fragen-offen-bleiben-a-c21480b8-dc90-4d49-858a-d050d5075b42#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-bei-buergergespraech-in-erfurt-wahlkampf-wie-der-bundeskanzler-ihn-gerne-haette](https://www.spiegel.de/politik/deutschland/olaf-scholz-bei-buergergespraech-in-erfurt-wahlkampf-wie-der-bundeskanzler-ihn-gerne-haette-a-0c821fd6-190f-4b80-b87e-b0b8652ea487#ref=rss)
-### migrationspolitik
+* [https://www.spiegel.de/politik/deutschland/mario-czaja-der-kampf-des-cdu-aussenseiters-gegen-parteichef-friedrich-merz](https://www.spiegel.de/politik/deutschland/mario-czaja-der-kampf-des-cdu-aussenseiters-gegen-parteichef-friedrich-merz-a-54804d17-3660-4b50-a83b-63fada240067#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-gegen-die-afd-fall-gelbhaar-bei-den-gruenen-wahlkampf-mit-taurus-in-berlin-marzahn](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-gegen-die-afd-fall-gelbhaar-bei-den-gruenen-wahlkampf-mit-taurus-in-berlin-marzahn-a-1f774062-6c7d-4449-9192-733daac6c80d#ref=rss)
+### partei
 
-* [https://www.spiegel.de/politik/deutschland/migration-fdp-signalisiert-unterstuetzung-fuer-merz-migrationspolitik](https://www.spiegel.de/politik/deutschland/migration-fdp-signalisiert-unterstuetzung-fuer-merz-migrationspolitik-a-35eedfc4-eac1-4d25-b7be-4f117b09a4e9#ref=rss)
-### laut
+* [https://www.spiegel.de/politik/deutschland/mario-czaja-der-kampf-des-cdu-aussenseiters-gegen-parteichef-friedrich-merz](https://www.spiegel.de/politik/deutschland/mario-czaja-der-kampf-des-cdu-aussenseiters-gegen-parteichef-friedrich-merz-a-54804d17-3660-4b50-a83b-63fada240067#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-erhaelt-von-einem-mann-aus-thueringen-weitere-millionenspende](https://www.spiegel.de/politik/deutschland/afd-erhaelt-von-einem-mann-aus-thueringen-weitere-millionenspende-a-020ef849-55d3-46e7-95d4-ea5d284ef4a0#ref=rss)
+### idee
 
-* [https://www.spiegel.de/politik/deutschland/migration-fdp-signalisiert-unterstuetzung-fuer-merz-migrationspolitik](https://www.spiegel.de/politik/deutschland/migration-fdp-signalisiert-unterstuetzung-fuer-merz-migrationspolitik-a-35eedfc4-eac1-4d25-b7be-4f117b09a4e9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-muss-in-untersuchungshaft](https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-muss-in-untersuchungshaft-a-a47b7953-27c8-4387-809c-2ede010848a9#ref=rss)
-### rené
+* [https://www.spiegel.de/start/auslandspraktikum-auf-bali-so-klappt-die-organisation-dank-checkliste](https://www.spiegel.de/start/auslandspraktikum-auf-bali-so-klappt-die-organisation-dank-checkliste-a-88f47e96-4fa0-437b-9061-4cd5870275cb#ref=rss)
+* [https://www.spiegel.de/ausland/druck-von-donald-trump-eu-general-schlaegt-stationierung-von-eu-soldaten-in-groenland-vor](https://www.spiegel.de/ausland/druck-von-donald-trump-eu-general-schlaegt-stationierung-von-eu-soldaten-in-groenland-vor-a-d39fd4d1-e59c-4e12-9635-f6ad3690f060#ref=rss)
+### münchen
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-muss-in-untersuchungshaft](https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-muss-in-untersuchungshaft-a-a47b7953-27c8-4387-809c-2ede010848a9#ref=rss)
-### benko
+* [https://www.spiegel.de/panorama/gesellschaft/muenchen-feuer-bei-der-diensthundestaffel-der-polizei-23-fahrzeuge-brennen](https://www.spiegel.de/panorama/gesellschaft/muenchen-feuer-bei-der-diensthundestaffel-der-polizei-23-fahrzeuge-brennen-a-a903dd07-905c-48c3-a6a1-176d1c0a7010#ref=rss)
+### fast
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-muss-in-untersuchungshaft](https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-muss-in-untersuchungshaft-a-a47b7953-27c8-4387-809c-2ede010848a9#ref=rss)
-### untersuchungshaft
+* [https://www.spiegel.de/panorama/gesellschaft/muenchen-feuer-bei-der-diensthundestaffel-der-polizei-23-fahrzeuge-brennen](https://www.spiegel.de/panorama/gesellschaft/muenchen-feuer-bei-der-diensthundestaffel-der-polizei-23-fahrzeuge-brennen-a-a903dd07-905c-48c3-a6a1-176d1c0a7010#ref=rss)
+* [https://www.spiegel.de/ausland/us-aussenminister-marco-rubio-friert-fast-alle-us-hilfen-fuer-ausland-ein](https://www.spiegel.de/ausland/us-aussenminister-marco-rubio-friert-fast-alle-us-hilfen-fuer-ausland-ein-a-bc555716-ce91-4016-be07-b9285d93fb81#ref=rss)
+### frankwalter
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-muss-in-untersuchungshaft](https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-muss-in-untersuchungshaft-a-a47b7953-27c8-4387-809c-2ede010848a9#ref=rss)
-### zocken
+* [https://www.spiegel.de/politik/deutschland/coronapandemie-frank-walter-steinmeier-campierte-waehrend-quarantaene-in-der-dachkammer](https://www.spiegel.de/politik/deutschland/coronapandemie-frank-walter-steinmeier-campierte-waehrend-quarantaene-in-der-dachkammer-a-60803f9a-280f-4b2f-8d62-01bfa980ab82#ref=rss)
+### steinmeier
 
-* [https://www.spiegel.de/netzwelt/investmentbetrug-kriminelle-zocken-opfer-als-fake-verbraucherschuetzer-ab](https://www.spiegel.de/netzwelt/investmentbetrug-kriminelle-zocken-opfer-als-fake-verbraucherschuetzer-ab-a-9d413e88-6435-4c71-88ca-5a0bdb2b7d9a#ref=rss)
-### opfer
+* [https://www.spiegel.de/politik/deutschland/coronapandemie-frank-walter-steinmeier-campierte-waehrend-quarantaene-in-der-dachkammer](https://www.spiegel.de/politik/deutschland/coronapandemie-frank-walter-steinmeier-campierte-waehrend-quarantaene-in-der-dachkammer-a-60803f9a-280f-4b2f-8d62-01bfa980ab82#ref=rss)
+### abtreibungsgegner
 
-* [https://www.spiegel.de/netzwelt/investmentbetrug-kriminelle-zocken-opfer-als-fake-verbraucherschuetzer-ab](https://www.spiegel.de/netzwelt/investmentbetrug-kriminelle-zocken-opfer-als-fake-verbraucherschuetzer-ab-a-9d413e88-6435-4c71-88ca-5a0bdb2b7d9a#ref=rss)
-### interimstrainer
+* [https://www.spiegel.de/ausland/usa-donald-trump-loest-diversitaetsprogramme-auf-und-laesst-abtreibungsgegner-frei](https://www.spiegel.de/ausland/usa-donald-trump-loest-diversitaetsprogramme-auf-und-laesst-abtreibungsgegner-frei-a-c278d49c-3cfc-4992-8825-7407f39835cf#ref=rss)
+### neue
 
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-interimstrainer-mike-tullberg-will-messer-zwischen-den-zaehnen-sehen](https://www.spiegel.de/sport/fussball/borussia-dortmund-interimstrainer-mike-tullberg-will-messer-zwischen-den-zaehnen-sehen-a-0e91903b-3b6f-4d9e-941b-6432ca7eac42#ref=rss)
-### mike
+* [https://www.spiegel.de/ausland/usa-donald-trump-loest-diversitaetsprogramme-auf-und-laesst-abtreibungsgegner-frei](https://www.spiegel.de/ausland/usa-donald-trump-loest-diversitaetsprogramme-auf-und-laesst-abtreibungsgegner-frei-a-c278d49c-3cfc-4992-8825-7407f39835cf#ref=rss)
+* [https://www.spiegel.de/ausland/druck-von-donald-trump-eu-general-schlaegt-stationierung-von-eu-soldaten-in-groenland-vor](https://www.spiegel.de/ausland/druck-von-donald-trump-eu-general-schlaegt-stationierung-von-eu-soldaten-in-groenland-vor-a-d39fd4d1-e59c-4e12-9635-f6ad3690f060#ref=rss)
+### uspräsident
 
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-interimstrainer-mike-tullberg-will-messer-zwischen-den-zaehnen-sehen](https://www.spiegel.de/sport/fussball/borussia-dortmund-interimstrainer-mike-tullberg-will-messer-zwischen-den-zaehnen-sehen-a-0e91903b-3b6f-4d9e-941b-6432ca7eac42#ref=rss)
-### tullberg
+* [https://www.spiegel.de/ausland/usa-donald-trump-loest-diversitaetsprogramme-auf-und-laesst-abtreibungsgegner-frei](https://www.spiegel.de/ausland/usa-donald-trump-loest-diversitaetsprogramme-auf-und-laesst-abtreibungsgegner-frei-a-c278d49c-3cfc-4992-8825-7407f39835cf#ref=rss)
+* [https://www.spiegel.de/ausland/druck-von-donald-trump-eu-general-schlaegt-stationierung-von-eu-soldaten-in-groenland-vor](https://www.spiegel.de/ausland/druck-von-donald-trump-eu-general-schlaegt-stationierung-von-eu-soldaten-in-groenland-vor-a-d39fd4d1-e59c-4e12-9635-f6ad3690f060#ref=rss)
+### grünen
 
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-interimstrainer-mike-tullberg-will-messer-zwischen-den-zaehnen-sehen](https://www.spiegel.de/sport/fussball/borussia-dortmund-interimstrainer-mike-tullberg-will-messer-zwischen-den-zaehnen-sehen-a-0e91903b-3b6f-4d9e-941b-6432ca7eac42#ref=rss)
-### wende
+* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-gegen-die-afd-fall-gelbhaar-bei-den-gruenen-wahlkampf-mit-taurus-in-berlin-marzahn](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-gegen-die-afd-fall-gelbhaar-bei-den-gruenen-wahlkampf-mit-taurus-in-berlin-marzahn-a-1f774062-6c7d-4449-9192-733daac6c80d#ref=rss)
+### berlinmarzahn
 
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-interimstrainer-mike-tullberg-will-messer-zwischen-den-zaehnen-sehen](https://www.spiegel.de/sport/fussball/borussia-dortmund-interimstrainer-mike-tullberg-will-messer-zwischen-den-zaehnen-sehen-a-0e91903b-3b6f-4d9e-941b-6432ca7eac42#ref=rss)
-* [https://www.spiegel.de/sport/fussball/nationalmannschaft-julian-nagelsmann-bleibt-bundestrainer-bis-2028-das-sind-die-gruende](https://www.spiegel.de/sport/fussball/nationalmannschaft-julian-nagelsmann-bleibt-bundestrainer-bis-2028-das-sind-die-gruende-a-a3ab393f-8085-4a05-973a-8918aa3b7ab9#ref=rss)
-### julian
+* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-gegen-die-afd-fall-gelbhaar-bei-den-gruenen-wahlkampf-mit-taurus-in-berlin-marzahn](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-gegen-die-afd-fall-gelbhaar-bei-den-gruenen-wahlkampf-mit-taurus-in-berlin-marzahn-a-1f774062-6c7d-4449-9192-733daac6c80d#ref=rss)
+### thüringen
 
-* [https://www.spiegel.de/sport/fussball/nationalmannschaft-julian-nagelsmann-bleibt-bundestrainer-bis-2028-das-sind-die-gruende](https://www.spiegel.de/sport/fussball/nationalmannschaft-julian-nagelsmann-bleibt-bundestrainer-bis-2028-das-sind-die-gruende-a-a3ab393f-8085-4a05-973a-8918aa3b7ab9#ref=rss)
-### nagelsmann
+* [https://www.spiegel.de/politik/deutschland/afd-erhaelt-von-einem-mann-aus-thueringen-weitere-millionenspende](https://www.spiegel.de/politik/deutschland/afd-erhaelt-von-einem-mann-aus-thueringen-weitere-millionenspende-a-020ef849-55d3-46e7-95d4-ea5d284ef4a0#ref=rss)
+### euro
 
-* [https://www.spiegel.de/sport/fussball/nationalmannschaft-julian-nagelsmann-bleibt-bundestrainer-bis-2028-das-sind-die-gruende](https://www.spiegel.de/sport/fussball/nationalmannschaft-julian-nagelsmann-bleibt-bundestrainer-bis-2028-das-sind-die-gruende-a-a3ab393f-8085-4a05-973a-8918aa3b7ab9#ref=rss)
-### bundestrainer
+* [https://www.spiegel.de/politik/deutschland/afd-erhaelt-von-einem-mann-aus-thueringen-weitere-millionenspende](https://www.spiegel.de/politik/deutschland/afd-erhaelt-von-einem-mann-aus-thueringen-weitere-millionenspende-a-020ef849-55d3-46e7-95d4-ea5d284ef4a0#ref=rss)
+### bela
 
-* [https://www.spiegel.de/sport/fussball/nationalmannschaft-julian-nagelsmann-bleibt-bundestrainer-bis-2028-das-sind-die-gruende](https://www.spiegel.de/sport/fussball/nationalmannschaft-julian-nagelsmann-bleibt-bundestrainer-bis-2028-das-sind-die-gruende-a-a3ab393f-8085-4a05-973a-8918aa3b7ab9#ref=rss)
-### 2028
+* [https://www.spiegel.de/panorama/bela-b-wenn-man-konzerte-spielt-und-angehimmelt-wird-kann-das-einem-zu-kopf-steigen](https://www.spiegel.de/panorama/bela-b-wenn-man-konzerte-spielt-und-angehimmelt-wird-kann-das-einem-zu-kopf-steigen-a-f9f6d0f2-2457-49c0-aae8-acc1fd911d37#ref=rss)
+### b
 
-* [https://www.spiegel.de/sport/fussball/nationalmannschaft-julian-nagelsmann-bleibt-bundestrainer-bis-2028-das-sind-die-gruende](https://www.spiegel.de/sport/fussball/nationalmannschaft-julian-nagelsmann-bleibt-bundestrainer-bis-2028-das-sind-die-gruende-a-a3ab393f-8085-4a05-973a-8918aa3b7ab9#ref=rss)
-### messerangriff
+* [https://www.spiegel.de/panorama/bela-b-wenn-man-konzerte-spielt-und-angehimmelt-wird-kann-das-einem-zu-kopf-steigen](https://www.spiegel.de/panorama/bela-b-wenn-man-konzerte-spielt-und-angehimmelt-wird-kann-das-einem-zu-kopf-steigen-a-f9f6d0f2-2457-49c0-aae8-acc1fd911d37#ref=rss)
+### grönland
 
-* [https://www.spiegel.de/panorama/justiz/messerangriff-in-aschaffenburg-kabarettist-urban-priol-rechnet-mit-scheinchristen-der-csu-ab](https://www.spiegel.de/panorama/justiz/messerangriff-in-aschaffenburg-kabarettist-urban-priol-rechnet-mit-scheinchristen-der-csu-ab-a-640ebf34-d607-4faf-bd57-942b293fc27c#ref=rss)
-### aschaffenburg
+* [https://www.spiegel.de/ausland/druck-von-donald-trump-eu-general-schlaegt-stationierung-von-eu-soldaten-in-groenland-vor](https://www.spiegel.de/ausland/druck-von-donald-trump-eu-general-schlaegt-stationierung-von-eu-soldaten-in-groenland-vor-a-d39fd4d1-e59c-4e12-9635-f6ad3690f060#ref=rss)
+### andere
 
-* [https://www.spiegel.de/panorama/justiz/messerangriff-in-aschaffenburg-kabarettist-urban-priol-rechnet-mit-scheinchristen-der-csu-ab](https://www.spiegel.de/panorama/justiz/messerangriff-in-aschaffenburg-kabarettist-urban-priol-rechnet-mit-scheinchristen-der-csu-ab-a-640ebf34-d607-4faf-bd57-942b293fc27c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-bei-buergergespraech-in-erfurt-wahlkampf-wie-der-bundeskanzler-ihn-gerne-haette](https://www.spiegel.de/politik/deutschland/olaf-scholz-bei-buergergespraech-in-erfurt-wahlkampf-wie-der-bundeskanzler-ihn-gerne-haette-a-0c821fd6-190f-4b80-b87e-b0b8652ea487#ref=rss)
-### urban
+* [https://www.spiegel.de/ausland/druck-von-donald-trump-eu-general-schlaegt-stationierung-von-eu-soldaten-in-groenland-vor](https://www.spiegel.de/ausland/druck-von-donald-trump-eu-general-schlaegt-stationierung-von-eu-soldaten-in-groenland-vor-a-d39fd4d1-e59c-4e12-9635-f6ad3690f060#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-der-golf-von-mexiko-heisst-kuenftig-golf-von-amerika](https://www.spiegel.de/ausland/donald-trump-der-golf-von-mexiko-heisst-kuenftig-golf-von-amerika-a-04e8493a-99b0-4411-9466-f55713ae02d7#ref=rss)
+### fett
 
-* [https://www.spiegel.de/panorama/justiz/messerangriff-in-aschaffenburg-kabarettist-urban-priol-rechnet-mit-scheinchristen-der-csu-ab](https://www.spiegel.de/panorama/justiz/messerangriff-in-aschaffenburg-kabarettist-urban-priol-rechnet-mit-scheinchristen-der-csu-ab-a-640ebf34-d607-4faf-bd57-942b293fc27c#ref=rss)
-### priol
+* [https://www.spiegel.de/stil/ode-an-heisses-fett-wer-nicht-frittiert-verliert](https://www.spiegel.de/stil/ode-an-heisses-fett-wer-nicht-frittiert-verliert-a-4215a784-8748-45b1-8e48-ae6f30e62cef#ref=rss)
+### gut
 
-* [https://www.spiegel.de/panorama/justiz/messerangriff-in-aschaffenburg-kabarettist-urban-priol-rechnet-mit-scheinchristen-der-csu-ab](https://www.spiegel.de/panorama/justiz/messerangriff-in-aschaffenburg-kabarettist-urban-priol-rechnet-mit-scheinchristen-der-csu-ab-a-640ebf34-d607-4faf-bd57-942b293fc27c#ref=rss)
-### bundesverfassungsgericht
+* [https://www.spiegel.de/stil/ode-an-heisses-fett-wer-nicht-frittiert-verliert](https://www.spiegel.de/stil/ode-an-heisses-fett-wer-nicht-frittiert-verliert-a-4215a784-8748-45b1-8e48-ae6f30e62cef#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/elon-musk-ist-unzufrieden-mit-dem-x-geschaeft](https://www.spiegel.de/netzwelt/apps/elon-musk-ist-unzufrieden-mit-dem-x-geschaeft-a-0a2b5167-bfef-4cbe-8d88-66325807e7a7#ref=rss)
+### rüdiger
 
-* [https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-italiener-mit-beschwerde-gegen-anordnung-der-auslieferungshaft-erfolgreich](https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-italiener-mit-beschwerde-gegen-anordnung-der-auslieferungshaft-erfolgreich-a-0a62c719-9d61-4dc4-b9a8-ee595e1bd9ce#ref=rss)
-### auslieferungshaft
+* [https://www.spiegel.de/panorama/karibik-deutscher-ingenieur-ruediger-koch-lebt-120-tage-unter-wasser](https://www.spiegel.de/panorama/karibik-deutscher-ingenieur-ruediger-koch-lebt-120-tage-unter-wasser-a-9effacd6-577c-4d24-bd33-7f56fa934f09#ref=rss)
+### koch
 
-* [https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-italiener-mit-beschwerde-gegen-anordnung-der-auslieferungshaft-erfolgreich](https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-italiener-mit-beschwerde-gegen-anordnung-der-auslieferungshaft-erfolgreich-a-0a62c719-9d61-4dc4-b9a8-ee595e1bd9ce#ref=rss)
-### bürgergespräch
+* [https://www.spiegel.de/panorama/karibik-deutscher-ingenieur-ruediger-koch-lebt-120-tage-unter-wasser](https://www.spiegel.de/panorama/karibik-deutscher-ingenieur-ruediger-koch-lebt-120-tage-unter-wasser-a-9effacd6-577c-4d24-bd33-7f56fa934f09#ref=rss)
+### pete
 
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-bei-buergergespraech-in-erfurt-wahlkampf-wie-der-bundeskanzler-ihn-gerne-haette](https://www.spiegel.de/politik/deutschland/olaf-scholz-bei-buergergespraech-in-erfurt-wahlkampf-wie-der-bundeskanzler-ihn-gerne-haette-a-0c821fd6-190f-4b80-b87e-b0b8652ea487#ref=rss)
-### erfurt
+* [https://www.spiegel.de/ausland/pete-hegseth-wird-us-verteidigungsminister](https://www.spiegel.de/ausland/pete-hegseth-wird-us-verteidigungsminister-a-4ed26af8-6538-4c36-96b0-962f3b98148f#ref=rss)
+### hegseth
 
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-bei-buergergespraech-in-erfurt-wahlkampf-wie-der-bundeskanzler-ihn-gerne-haette](https://www.spiegel.de/politik/deutschland/olaf-scholz-bei-buergergespraech-in-erfurt-wahlkampf-wie-der-bundeskanzler-ihn-gerne-haette-a-0c821fd6-190f-4b80-b87e-b0b8652ea487#ref=rss)
+* [https://www.spiegel.de/ausland/pete-hegseth-wird-us-verteidigungsminister](https://www.spiegel.de/ausland/pete-hegseth-wird-us-verteidigungsminister-a-4ed26af8-6538-4c36-96b0-962f3b98148f#ref=rss)
+### golf
+
+* [https://www.spiegel.de/ausland/donald-trump-der-golf-von-mexiko-heisst-kuenftig-golf-von-amerika](https://www.spiegel.de/ausland/donald-trump-der-golf-von-mexiko-heisst-kuenftig-golf-von-amerika-a-04e8493a-99b0-4411-9466-f55713ae02d7#ref=rss)
+### mexiko
+
+* [https://www.spiegel.de/ausland/donald-trump-der-golf-von-mexiko-heisst-kuenftig-golf-von-amerika](https://www.spiegel.de/ausland/donald-trump-der-golf-von-mexiko-heisst-kuenftig-golf-von-amerika-a-04e8493a-99b0-4411-9466-f55713ae02d7#ref=rss)
+### alle
+
+* [https://www.spiegel.de/ausland/us-aussenminister-marco-rubio-friert-fast-alle-us-hilfen-fuer-ausland-ein](https://www.spiegel.de/ausland/us-aussenminister-marco-rubio-friert-fast-alle-us-hilfen-fuer-ausland-ein-a-bc555716-ce91-4016-be07-b9285d93fb81#ref=rss)
 
