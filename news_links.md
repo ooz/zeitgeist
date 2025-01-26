@@ -4,392 +4,306 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### hamas
-
-* [https://www.spiegel.de/ausland/die-hamas-laesst-israelische-soldatinnen-frei-die-am-7-oktober-gekidnappt-worden-waren](https://www.spiegel.de/ausland/die-hamas-laesst-israelische-soldatinnen-frei-die-am-7-oktober-gekidnappt-worden-waren-a-bfd9d60f-0323-4ea5-9fa8-19eba998d0cf#ref=rss)
-* [https://www.spiegel.de/ausland/bilder-der-geiseluebergabe-so-inszeniert-sich-die-hamas](https://www.spiegel.de/ausland/bilder-der-geiseluebergabe-so-inszeniert-sich-die-hamas-a-3ceeb166-fdff-4bc7-9ea2-57ba619bf8b2#ref=rss)
-* [https://www.spiegel.de/ausland/israel-hamas-deal-israel-entlaesst-200-palaestinensische-haeftlinge-nach-geisel-uebergabe](https://www.spiegel.de/ausland/israel-hamas-deal-israel-entlaesst-200-palaestinensische-haeftlinge-nach-geisel-uebergabe-a-6921b9a6-58fe-407c-a901-1772fa00734e#ref=rss)
-### soldatinnen
-
-* [https://www.spiegel.de/ausland/die-hamas-laesst-israelische-soldatinnen-frei-die-am-7-oktober-gekidnappt-worden-waren](https://www.spiegel.de/ausland/die-hamas-laesst-israelische-soldatinnen-frei-die-am-7-oktober-gekidnappt-worden-waren-a-bfd9d60f-0323-4ea5-9fa8-19eba998d0cf#ref=rss)
-* [https://www.spiegel.de/ausland/bilder-der-geiseluebergabe-so-inszeniert-sich-die-hamas](https://www.spiegel.de/ausland/bilder-der-geiseluebergabe-so-inszeniert-sich-die-hamas-a-3ceeb166-fdff-4bc7-9ea2-57ba619bf8b2#ref=rss)
-* [https://www.spiegel.de/ausland/israel-hamas-deal-israel-entlaesst-200-palaestinensische-haeftlinge-nach-geisel-uebergabe](https://www.spiegel.de/ausland/israel-hamas-deal-israel-entlaesst-200-palaestinensische-haeftlinge-nach-geisel-uebergabe-a-6921b9a6-58fe-407c-a901-1772fa00734e#ref=rss)
-### neue
-
-* [https://www.spiegel.de/reise/kroatien-schweden-dolomiten-sechs-neue-europaeische-wanderrouten-die-sie-kennen-sollten](https://www.spiegel.de/reise/kroatien-schweden-dolomiten-sechs-neue-europaeische-wanderrouten-die-sie-kennen-sollten-a-72e0e3a8-959e-4fed-83b5-d2cdfe1a8b1c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/uno-diplomat-achim-steiner-hinterfragt-kehrtwende-bei-klimapolitik](https://www.spiegel.de/wirtschaft/uno-diplomat-achim-steiner-hinterfragt-kehrtwende-bei-klimapolitik-a-108591ee-b83b-413d-8b73-6c39bb204725#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/syrien-heimatbesuche-syrischer-gefluechteter-ja-bruder-das-geht-kontaktiere-mich](https://www.spiegel.de/panorama/gesellschaft/syrien-heimatbesuche-syrischer-gefluechteter-ja-bruder-das-geht-kontaktiere-mich-a-f2b0b408-c09f-4ff7-a4fd-7b950cd0d061#ref=rss)
-* [https://www.spiegel.de/kultur/tv/dschungelcamp-2025-im-scared-ne](https://www.spiegel.de/kultur/tv/dschungelcamp-2025-im-scared-ne-a-681c3c55-f6ff-475a-98ab-b0058d08171c#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-nur-remis-gegen-werder-bremen](https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-nur-remis-gegen-werder-bremen-a-24bc3ca3-966c-4109-bc1f-eddd52207926#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-james-crawford-triumphiert-ueberraschend-auf-der-streif-in-kitzbuehel](https://www.spiegel.de/sport/wintersport/ski-alpin-james-crawford-triumphiert-ueberraschend-auf-der-streif-in-kitzbuehel-a-85f312f7-3bf5-4875-91aa-0781b7100e59#ref=rss)
-* [https://www.spiegel.de/sport/tuerkei-vom-erdbebenopfer-zum-paralympics-triathleten-hoffnungstraeger-mehmet-mustafa-erkol](https://www.spiegel.de/sport/tuerkei-vom-erdbebenopfer-zum-paralympics-triathleten-hoffnungstraeger-mehmet-mustafa-erkol-a-5e01a8e2-1871-4815-8716-89d1156bd507#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/politik/deutschland/elon-musk-bei-afd-wahlkampfauftakt-in-halle-saale-zugeschaltet](https://www.spiegel.de/politik/deutschland/elon-musk-bei-afd-wahlkampfauftakt-in-halle-saale-zugeschaltet-a-b21db243-26ca-468e-8715-927c26a73178#ref=rss)
-* [https://www.spiegel.de/sport/tennis/australian-open-2025-ist-alexander-zverev-reif-fuer-den-titel](https://www.spiegel.de/sport/tennis/australian-open-2025-ist-alexander-zverev-reif-fuer-den-titel-a-f5aae658-f75e-449b-954f-ad0392bf8ff5#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/politik/slowakei-ministerpraesident-robert-fico-unterstellt-auslaendische-einmischung-und-droht-mit-ausweisungen](https://www.spiegel.de/politik/slowakei-ministerpraesident-robert-fico-unterstellt-auslaendische-einmischung-und-droht-mit-ausweisungen-a-3c538f41-0d35-4551-8077-3fdefa4e20f7#ref=rss)
-* [https://www.spiegel.de/sport/tuerkei-vom-erdbebenopfer-zum-paralympics-triathleten-hoffnungstraeger-mehmet-mustafa-erkol](https://www.spiegel.de/sport/tuerkei-vom-erdbebenopfer-zum-paralympics-triathleten-hoffnungstraeger-mehmet-mustafa-erkol-a-5e01a8e2-1871-4815-8716-89d1156bd507#ref=rss)
-* [https://www.spiegel.de/kultur/musik/paul-mccartney-fuerchtet-ki-koennte-musiker-ausbeuten-rechtlicher-schutz-gefordert](https://www.spiegel.de/kultur/musik/paul-mccartney-fuerchtet-ki-koennte-musiker-ausbeuten-rechtlicher-schutz-gefordert-a-3b9bb704-863c-4216-8cbc-5dfb5b15d6a3#ref=rss)
-### israelische
-
-* [https://www.spiegel.de/ausland/die-hamas-laesst-israelische-soldatinnen-frei-die-am-7-oktober-gekidnappt-worden-waren](https://www.spiegel.de/ausland/die-hamas-laesst-israelische-soldatinnen-frei-die-am-7-oktober-gekidnappt-worden-waren-a-bfd9d60f-0323-4ea5-9fa8-19eba998d0cf#ref=rss)
-* [https://www.spiegel.de/ausland/israel-hamas-deal-israel-entlaesst-200-palaestinensische-haeftlinge-nach-geisel-uebergabe](https://www.spiegel.de/ausland/israel-hamas-deal-israel-entlaesst-200-palaestinensische-haeftlinge-nach-geisel-uebergabe-a-6921b9a6-58fe-407c-a901-1772fa00734e#ref=rss)
-### vier
-
-* [https://www.spiegel.de/ausland/die-hamas-laesst-israelische-soldatinnen-frei-die-am-7-oktober-gekidnappt-worden-waren](https://www.spiegel.de/ausland/die-hamas-laesst-israelische-soldatinnen-frei-die-am-7-oktober-gekidnappt-worden-waren-a-bfd9d60f-0323-4ea5-9fa8-19eba998d0cf#ref=rss)
-* [https://www.spiegel.de/ausland/bilder-der-geiseluebergabe-so-inszeniert-sich-die-hamas](https://www.spiegel.de/ausland/bilder-der-geiseluebergabe-so-inszeniert-sich-die-hamas-a-3ceeb166-fdff-4bc7-9ea2-57ba619bf8b2#ref=rss)
-* [https://www.spiegel.de/ausland/israel-hamas-deal-israel-entlaesst-200-palaestinensische-haeftlinge-nach-geisel-uebergabe](https://www.spiegel.de/ausland/israel-hamas-deal-israel-entlaesst-200-palaestinensische-haeftlinge-nach-geisel-uebergabe-a-6921b9a6-58fe-407c-a901-1772fa00734e#ref=rss)
-### geiselübergabe
-
-* [https://www.spiegel.de/ausland/bilder-der-geiseluebergabe-so-inszeniert-sich-die-hamas](https://www.spiegel.de/ausland/bilder-der-geiseluebergabe-so-inszeniert-sich-die-hamas-a-3ceeb166-fdff-4bc7-9ea2-57ba619bf8b2#ref=rss)
-* [https://www.spiegel.de/ausland/israel-hamas-deal-israel-entlaesst-200-palaestinensische-haeftlinge-nach-geisel-uebergabe](https://www.spiegel.de/ausland/israel-hamas-deal-israel-entlaesst-200-palaestinensische-haeftlinge-nach-geisel-uebergabe-a-6921b9a6-58fe-407c-a901-1772fa00734e#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-james-crawford-triumphiert-ueberraschend-auf-der-streif-in-kitzbuehel](https://www.spiegel.de/sport/wintersport/ski-alpin-james-crawford-triumphiert-ueberraschend-auf-der-streif-in-kitzbuehel-a-85f312f7-3bf5-4875-91aa-0781b7100e59#ref=rss)
-* [https://www.spiegel.de/sport/tuerkei-vom-erdbebenopfer-zum-paralympics-triathleten-hoffnungstraeger-mehmet-mustafa-erkol](https://www.spiegel.de/sport/tuerkei-vom-erdbebenopfer-zum-paralympics-triathleten-hoffnungstraeger-mehmet-mustafa-erkol-a-5e01a8e2-1871-4815-8716-89d1156bd507#ref=rss)
-* [https://www.spiegel.de/sport/tennis/australian-open-madison-keys-schlaegt-aryna-sabalenka-und-gewinnt-erstmals-ein-grand-slam-turnier](https://www.spiegel.de/sport/tennis/australian-open-madison-keys-schlaegt-aryna-sabalenka-und-gewinnt-erstmals-ein-grand-slam-turnier-a-e36fdb73-c69b-4aab-8d6c-ba94f00533f5#ref=rss)
-### große
-
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-james-crawford-triumphiert-ueberraschend-auf-der-streif-in-kitzbuehel](https://www.spiegel.de/sport/wintersport/ski-alpin-james-crawford-triumphiert-ueberraschend-auf-der-streif-in-kitzbuehel-a-85f312f7-3bf5-4875-91aa-0781b7100e59#ref=rss)
-* [https://www.spiegel.de/sport/tennis/australian-open-madison-keys-schlaegt-aryna-sabalenka-und-gewinnt-erstmals-ein-grand-slam-turnier](https://www.spiegel.de/sport/tennis/australian-open-madison-keys-schlaegt-aryna-sabalenka-und-gewinnt-erstmals-ein-grand-slam-turnier-a-e36fdb73-c69b-4aab-8d6c-ba94f00533f5#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/chemnitz-grosse-gruppe-aus-dem-dem-rechts-motivierten-spektrum-wollte-bar-besucher-angreifen-staatsschutz-ermittelt](https://www.spiegel.de/panorama/justiz/chemnitz-grosse-gruppe-aus-dem-dem-rechts-motivierten-spektrum-wollte-bar-besucher-angreifen-staatsschutz-ermittelt-a-33d65ab1-fac1-416b-94db-6ce841136704#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/kultur/kino/elyas-mbarek-ist-das-schwarz-weiss-denken-in-deutschland-zu-viel](https://www.spiegel.de/kultur/kino/elyas-mbarek-ist-das-schwarz-weiss-denken-in-deutschland-zu-viel-a-f63b456f-fa90-4c6c-9623-3f0c20c96fea#ref=rss)
-* [https://www.spiegel.de/wirtschaft/uno-diplomat-achim-steiner-hinterfragt-kehrtwende-bei-klimapolitik](https://www.spiegel.de/wirtschaft/uno-diplomat-achim-steiner-hinterfragt-kehrtwende-bei-klimapolitik-a-108591ee-b83b-413d-8b73-6c39bb204725#ref=rss)
-* [https://www.spiegel.de/geschichte/deutschland-und-weltweite-krisen-im-21-jahrhundert-blick-des-historikers-timothy-garton-ash](https://www.spiegel.de/geschichte/deutschland-und-weltweite-krisen-im-21-jahrhundert-blick-des-historikers-timothy-garton-ash-a-ba6097c5-8bfc-479e-9f9c-27f718a12823#ref=rss)
-### welt
-
-* [https://www.spiegel.de/reise/kroatien-schweden-dolomiten-sechs-neue-europaeische-wanderrouten-die-sie-kennen-sollten](https://www.spiegel.de/reise/kroatien-schweden-dolomiten-sechs-neue-europaeische-wanderrouten-die-sie-kennen-sollten-a-72e0e3a8-959e-4fed-83b5-d2cdfe1a8b1c#ref=rss)
-* [https://www.spiegel.de/politik/krisen-und-wahlkampf-verloren-im-perfekten-sturm-kolumne](https://www.spiegel.de/politik/krisen-und-wahlkampf-verloren-im-perfekten-sturm-kolumne-a-75df717e-0265-473c-ab14-909fc6d0f446#ref=rss)
-* [https://www.spiegel.de/kultur/tv/dschungelcamp-2025-im-scared-ne](https://www.spiegel.de/kultur/tv/dschungelcamp-2025-im-scared-ne-a-681c3c55-f6ff-475a-98ab-b0058d08171c#ref=rss)
-### zverev
-
-* [https://www.spiegel.de/sport/tennis/australian-open-2025-ist-alexander-zverev-reif-fuer-den-titel](https://www.spiegel.de/sport/tennis/australian-open-2025-ist-alexander-zverev-reif-fuer-den-titel-a-f5aae658-f75e-449b-954f-ad0392bf8ff5#ref=rss)
-### krisen
-
-* [https://www.spiegel.de/politik/krisen-und-wahlkampf-verloren-im-perfekten-sturm-kolumne](https://www.spiegel.de/politik/krisen-und-wahlkampf-verloren-im-perfekten-sturm-kolumne-a-75df717e-0265-473c-ab14-909fc6d0f446#ref=rss)
-* [https://www.spiegel.de/geschichte/deutschland-und-weltweite-krisen-im-21-jahrhundert-blick-des-historikers-timothy-garton-ash](https://www.spiegel.de/geschichte/deutschland-und-weltweite-krisen-im-21-jahrhundert-blick-des-historikers-timothy-garton-ash-a-ba6097c5-8bfc-479e-9f9c-27f718a12823#ref=rss)
-### afd
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-die-aktuellen-reaktionen-auf-seinen-vorstoss-bei-der-migrationspolitik](https://www.spiegel.de/politik/deutschland/friedrich-merz-die-aktuellen-reaktionen-auf-seinen-vorstoss-bei-der-migrationspolitik-a-54b3e32d-847c-4305-b679-6fc6920321c9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gegen-donald-trump-afd-hass-tausende-menschen-versammeln-sich-zu-demos-gegen-rechts](https://www.spiegel.de/politik/deutschland/gegen-donald-trump-afd-hass-tausende-menschen-versammeln-sich-zu-demos-gegen-rechts-a-b0a30d1a-991c-4b9f-a560-f5aeebd8ee72#ref=rss)
-### rechts
-
-* [https://www.spiegel.de/politik/deutschland/gegen-donald-trump-afd-hass-tausende-menschen-versammeln-sich-zu-demos-gegen-rechts](https://www.spiegel.de/politik/deutschland/gegen-donald-trump-afd-hass-tausende-menschen-versammeln-sich-zu-demos-gegen-rechts-a-b0a30d1a-991c-4b9f-a560-f5aeebd8ee72#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/chemnitz-grosse-gruppe-aus-dem-dem-rechts-motivierten-spektrum-wollte-bar-besucher-angreifen-staatsschutz-ermittelt](https://www.spiegel.de/panorama/justiz/chemnitz-grosse-gruppe-aus-dem-dem-rechts-motivierten-spektrum-wollte-bar-besucher-angreifen-staatsschutz-ermittelt-a-33d65ab1-fac1-416b-94db-6ce841136704#ref=rss)
-### remis
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-nur-remis-gegen-werder-bremen](https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-nur-remis-gegen-werder-bremen-a-24bc3ca3-966c-4109-bc1f-eddd52207926#ref=rss)
-### elon
-
-* [https://www.spiegel.de/politik/deutschland/elon-musk-bei-afd-wahlkampfauftakt-in-halle-saale-zugeschaltet](https://www.spiegel.de/politik/deutschland/elon-musk-bei-afd-wahlkampfauftakt-in-halle-saale-zugeschaltet-a-b21db243-26ca-468e-8715-927c26a73178#ref=rss)
-### musk
-
-* [https://www.spiegel.de/politik/deutschland/elon-musk-bei-afd-wahlkampfauftakt-in-halle-saale-zugeschaltet](https://www.spiegel.de/politik/deutschland/elon-musk-bei-afd-wahlkampfauftakt-in-halle-saale-zugeschaltet-a-b21db243-26ca-468e-8715-927c26a73178#ref=rss)
-### ministerpräsident
-
-* [https://www.spiegel.de/politik/slowakei-ministerpraesident-robert-fico-unterstellt-auslaendische-einmischung-und-droht-mit-ausweisungen](https://www.spiegel.de/politik/slowakei-ministerpraesident-robert-fico-unterstellt-auslaendische-einmischung-und-droht-mit-ausweisungen-a-3c538f41-0d35-4551-8077-3fdefa4e20f7#ref=rss)
-### fico
-
-* [https://www.spiegel.de/politik/slowakei-ministerpraesident-robert-fico-unterstellt-auslaendische-einmischung-und-droht-mit-ausweisungen](https://www.spiegel.de/politik/slowakei-ministerpraesident-robert-fico-unterstellt-auslaendische-einmischung-und-droht-mit-ausweisungen-a-3c538f41-0d35-4551-8077-3fdefa4e20f7#ref=rss)
-### ausländische
-
-* [https://www.spiegel.de/politik/slowakei-ministerpraesident-robert-fico-unterstellt-auslaendische-einmischung-und-droht-mit-ausweisungen](https://www.spiegel.de/politik/slowakei-ministerpraesident-robert-fico-unterstellt-auslaendische-einmischung-und-droht-mit-ausweisungen-a-3c538f41-0d35-4551-8077-3fdefa4e20f7#ref=rss)
-### ausweisungen
-
-* [https://www.spiegel.de/politik/slowakei-ministerpraesident-robert-fico-unterstellt-auslaendische-einmischung-und-droht-mit-ausweisungen](https://www.spiegel.de/politik/slowakei-ministerpraesident-robert-fico-unterstellt-auslaendische-einmischung-und-droht-mit-ausweisungen-a-3c538f41-0d35-4551-8077-3fdefa4e20f7#ref=rss)
-### laut
-
-* [https://www.spiegel.de/politik/slowakei-ministerpraesident-robert-fico-unterstellt-auslaendische-einmischung-und-droht-mit-ausweisungen](https://www.spiegel.de/politik/slowakei-ministerpraesident-robert-fico-unterstellt-auslaendische-einmischung-und-droht-mit-ausweisungen-a-3c538f41-0d35-4551-8077-3fdefa4e20f7#ref=rss)
-* [https://www.spiegel.de/psychologie/willenskraft-motivation-lust-bekommen-auf-das-was-schwerfaellt-podcast-mit-hans-georg-willmann](https://www.spiegel.de/psychologie/willenskraft-motivation-lust-bekommen-auf-das-was-schwerfaellt-podcast-mit-hans-georg-willmann-a-1eec541c-d35e-42a4-a4a2-f711bbbea162#ref=rss)
-### 7
-
-* [https://www.spiegel.de/ausland/die-hamas-laesst-israelische-soldatinnen-frei-die-am-7-oktober-gekidnappt-worden-waren](https://www.spiegel.de/ausland/die-hamas-laesst-israelische-soldatinnen-frei-die-am-7-oktober-gekidnappt-worden-waren-a-bfd9d60f-0323-4ea5-9fa8-19eba998d0cf#ref=rss)
-### oktober
-
-* [https://www.spiegel.de/ausland/die-hamas-laesst-israelische-soldatinnen-frei-die-am-7-oktober-gekidnappt-worden-waren](https://www.spiegel.de/ausland/die-hamas-laesst-israelische-soldatinnen-frei-die-am-7-oktober-gekidnappt-worden-waren-a-bfd9d60f-0323-4ea5-9fa8-19eba998d0cf#ref=rss)
-### waren
-
-* [https://www.spiegel.de/ausland/die-hamas-laesst-israelische-soldatinnen-frei-die-am-7-oktober-gekidnappt-worden-waren](https://www.spiegel.de/ausland/die-hamas-laesst-israelische-soldatinnen-frei-die-am-7-oktober-gekidnappt-worden-waren-a-bfd9d60f-0323-4ea5-9fa8-19eba998d0cf#ref=rss)
-* [https://www.spiegel.de/panorama/sturm-eowyn-in-irland-und-schottland-20-jaehriger-stirbt-im-auto-unter-umgestuerztem-baum](https://www.spiegel.de/panorama/sturm-eowyn-in-irland-und-schottland-20-jaehriger-stirbt-im-auto-unter-umgestuerztem-baum-a-4b2a11dd-32a5-4523-b8c9-6cf041a4a6c4#ref=rss)
-### israelischen
-
-* [https://www.spiegel.de/ausland/die-hamas-laesst-israelische-soldatinnen-frei-die-am-7-oktober-gekidnappt-worden-waren](https://www.spiegel.de/ausland/die-hamas-laesst-israelische-soldatinnen-frei-die-am-7-oktober-gekidnappt-worden-waren-a-bfd9d60f-0323-4ea5-9fa8-19eba998d0cf#ref=rss)
-* [https://www.spiegel.de/ausland/bilder-der-geiseluebergabe-so-inszeniert-sich-die-hamas](https://www.spiegel.de/ausland/bilder-der-geiseluebergabe-so-inszeniert-sich-die-hamas-a-3ceeb166-fdff-4bc7-9ea2-57ba619bf8b2#ref=rss)
-### show
-
-* [https://www.spiegel.de/ausland/die-hamas-laesst-israelische-soldatinnen-frei-die-am-7-oktober-gekidnappt-worden-waren](https://www.spiegel.de/ausland/die-hamas-laesst-israelische-soldatinnen-frei-die-am-7-oktober-gekidnappt-worden-waren-a-bfd9d60f-0323-4ea5-9fa8-19eba998d0cf#ref=rss)
-* [https://www.spiegel.de/ausland/bilder-der-geiseluebergabe-so-inszeniert-sich-die-hamas](https://www.spiegel.de/ausland/bilder-der-geiseluebergabe-so-inszeniert-sich-die-hamas-a-3ceeb166-fdff-4bc7-9ea2-57ba619bf8b2#ref=rss)
-### einmal
-
-* [https://www.spiegel.de/ausland/die-hamas-laesst-israelische-soldatinnen-frei-die-am-7-oktober-gekidnappt-worden-waren](https://www.spiegel.de/ausland/die-hamas-laesst-israelische-soldatinnen-frei-die-am-7-oktober-gekidnappt-worden-waren-a-bfd9d60f-0323-4ea5-9fa8-19eba998d0cf#ref=rss)
-* [https://www.spiegel.de/politik/krisen-und-wahlkampf-verloren-im-perfekten-sturm-kolumne](https://www.spiegel.de/politik/krisen-und-wahlkampf-verloren-im-perfekten-sturm-kolumne-a-75df717e-0265-473c-ab14-909fc6d0f446#ref=rss)
-### bilder
-
-* [https://www.spiegel.de/ausland/bilder-der-geiseluebergabe-so-inszeniert-sich-die-hamas](https://www.spiegel.de/ausland/bilder-der-geiseluebergabe-so-inszeniert-sich-die-hamas-a-3ceeb166-fdff-4bc7-9ea2-57ba619bf8b2#ref=rss)
-### emilia
-
-* [https://www.spiegel.de/kultur/kino/emilia-perez-darstellerin-nach-oscarnominierung-bedroht](https://www.spiegel.de/kultur/kino/emilia-perez-darstellerin-nach-oscarnominierung-bedroht-a-04e7083e-655c-42a6-ba75-268e5b283901#ref=rss)
-### viele
-
-* [https://www.spiegel.de/kultur/kino/emilia-perez-darstellerin-nach-oscarnominierung-bedroht](https://www.spiegel.de/kultur/kino/emilia-perez-darstellerin-nach-oscarnominierung-bedroht-a-04e7083e-655c-42a6-ba75-268e5b283901#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/syrien-heimatbesuche-syrischer-gefluechteter-ja-bruder-das-geht-kontaktiere-mich](https://www.spiegel.de/panorama/gesellschaft/syrien-heimatbesuche-syrischer-gefluechteter-ja-bruder-das-geht-kontaktiere-mich-a-f2b0b408-c09f-4ff7-a4fd-7b950cd0d061#ref=rss)
-### ski
-
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-james-crawford-triumphiert-ueberraschend-auf-der-streif-in-kitzbuehel](https://www.spiegel.de/sport/wintersport/ski-alpin-james-crawford-triumphiert-ueberraschend-auf-der-streif-in-kitzbuehel-a-85f312f7-3bf5-4875-91aa-0781b7100e59#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-nina-ortlieb-und-tereza-nova-stuerzen-bei-abfahrt-in-garmisch-partenkirchen-schwer](https://www.spiegel.de/sport/wintersport/ski-alpin-nina-ortlieb-und-tereza-nova-stuerzen-bei-abfahrt-in-garmisch-partenkirchen-schwer-a-d4cc5546-2e89-439b-b685-5cdd06aec7fc#ref=rss)
-### alpin
-
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-james-crawford-triumphiert-ueberraschend-auf-der-streif-in-kitzbuehel](https://www.spiegel.de/sport/wintersport/ski-alpin-james-crawford-triumphiert-ueberraschend-auf-der-streif-in-kitzbuehel-a-85f312f7-3bf5-4875-91aa-0781b7100e59#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-nina-ortlieb-und-tereza-nova-stuerzen-bei-abfahrt-in-garmisch-partenkirchen-schwer](https://www.spiegel.de/sport/wintersport/ski-alpin-nina-ortlieb-und-tereza-nova-stuerzen-bei-abfahrt-in-garmisch-partenkirchen-schwer-a-d4cc5546-2e89-439b-b685-5cdd06aec7fc#ref=rss)
-### james
-
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-james-crawford-triumphiert-ueberraschend-auf-der-streif-in-kitzbuehel](https://www.spiegel.de/sport/wintersport/ski-alpin-james-crawford-triumphiert-ueberraschend-auf-der-streif-in-kitzbuehel-a-85f312f7-3bf5-4875-91aa-0781b7100e59#ref=rss)
-### crawford
-
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-james-crawford-triumphiert-ueberraschend-auf-der-streif-in-kitzbuehel](https://www.spiegel.de/sport/wintersport/ski-alpin-james-crawford-triumphiert-ueberraschend-auf-der-streif-in-kitzbuehel-a-85f312f7-3bf5-4875-91aa-0781b7100e59#ref=rss)
-### elyas
-
-* [https://www.spiegel.de/kultur/kino/elyas-mbarek-ist-das-schwarz-weiss-denken-in-deutschland-zu-viel](https://www.spiegel.de/kultur/kino/elyas-mbarek-ist-das-schwarz-weiss-denken-in-deutschland-zu-viel-a-f63b456f-fa90-4c6c-9623-3f0c20c96fea#ref=rss)
-### m’barek
-
-* [https://www.spiegel.de/kultur/kino/elyas-mbarek-ist-das-schwarz-weiss-denken-in-deutschland-zu-viel](https://www.spiegel.de/kultur/kino/elyas-mbarek-ist-das-schwarz-weiss-denken-in-deutschland-zu-viel-a-f63b456f-fa90-4c6c-9623-3f0c20c96fea#ref=rss)
-### star
-
-* [https://www.spiegel.de/kultur/kino/elyas-mbarek-ist-das-schwarz-weiss-denken-in-deutschland-zu-viel](https://www.spiegel.de/kultur/kino/elyas-mbarek-ist-das-schwarz-weiss-denken-in-deutschland-zu-viel-a-f63b456f-fa90-4c6c-9623-3f0c20c96fea#ref=rss)
-* [https://www.spiegel.de/kultur/tv/dschungelcamp-2025-im-scared-ne](https://www.spiegel.de/kultur/tv/dschungelcamp-2025-im-scared-ne-a-681c3c55-f6ff-475a-98ab-b0058d08171c#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/kultur/kino/elyas-mbarek-ist-das-schwarz-weiss-denken-in-deutschland-zu-viel](https://www.spiegel.de/kultur/kino/elyas-mbarek-ist-das-schwarz-weiss-denken-in-deutschland-zu-viel-a-f63b456f-fa90-4c6c-9623-3f0c20c96fea#ref=rss)
-* [https://www.spiegel.de/geschichte/deutschland-und-weltweite-krisen-im-21-jahrhundert-blick-des-historikers-timothy-garton-ash](https://www.spiegel.de/geschichte/deutschland-und-weltweite-krisen-im-21-jahrhundert-blick-des-historikers-timothy-garton-ash-a-ba6097c5-8bfc-479e-9f9c-27f718a12823#ref=rss)
-### alten
-
-* [https://www.spiegel.de/kultur/kino/elyas-mbarek-ist-das-schwarz-weiss-denken-in-deutschland-zu-viel](https://www.spiegel.de/kultur/kino/elyas-mbarek-ist-das-schwarz-weiss-denken-in-deutschland-zu-viel-a-f63b456f-fa90-4c6c-9623-3f0c20c96fea#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/syrien-heimatbesuche-syrischer-gefluechteter-ja-bruder-das-geht-kontaktiere-mich](https://www.spiegel.de/panorama/gesellschaft/syrien-heimatbesuche-syrischer-gefluechteter-ja-bruder-das-geht-kontaktiere-mich-a-f2b0b408-c09f-4ff7-a4fd-7b950cd0d061#ref=rss)
-### heimat
-
-* [https://www.spiegel.de/kultur/kino/elyas-mbarek-ist-das-schwarz-weiss-denken-in-deutschland-zu-viel](https://www.spiegel.de/kultur/kino/elyas-mbarek-ist-das-schwarz-weiss-denken-in-deutschland-zu-viel-a-f63b456f-fa90-4c6c-9623-3f0c20c96fea#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/syrien-heimatbesuche-syrischer-gefluechteter-ja-bruder-das-geht-kontaktiere-mich](https://www.spiegel.de/panorama/gesellschaft/syrien-heimatbesuche-syrischer-gefluechteter-ja-bruder-das-geht-kontaktiere-mich-a-f2b0b408-c09f-4ff7-a4fd-7b950cd0d061#ref=rss)
-### assen
-
-* [https://www.spiegel.de/panorama/justiz/assen-in-den-niederlanden-museumsdiebe-rauben-goldenen-helm-von-cotofenesti-und-andere-rumaenische-meisterschaetze](https://www.spiegel.de/panorama/justiz/assen-in-den-niederlanden-museumsdiebe-rauben-goldenen-helm-von-cotofenesti-und-andere-rumaenische-meisterschaetze-a-fda8e6fb-cd06-4318-af89-207d733692a5#ref=rss)
-### jede
-
-* [https://www.spiegel.de/panorama/justiz/assen-in-den-niederlanden-museumsdiebe-rauben-goldenen-helm-von-cotofenesti-und-andere-rumaenische-meisterschaetze](https://www.spiegel.de/panorama/justiz/assen-in-den-niederlanden-museumsdiebe-rauben-goldenen-helm-von-cotofenesti-und-andere-rumaenische-meisterschaetze-a-fda8e6fb-cd06-4318-af89-207d733692a5#ref=rss)
-* [https://www.spiegel.de/ausland/israel-hamas-deal-israel-entlaesst-200-palaestinensische-haeftlinge-nach-geisel-uebergabe](https://www.spiegel.de/ausland/israel-hamas-deal-israel-entlaesst-200-palaestinensische-haeftlinge-nach-geisel-uebergabe-a-6921b9a6-58fe-407c-a901-1772fa00734e#ref=rss)
-### erdbebenopfer
-
-* [https://www.spiegel.de/sport/tuerkei-vom-erdbebenopfer-zum-paralympics-triathleten-hoffnungstraeger-mehmet-mustafa-erkol](https://www.spiegel.de/sport/tuerkei-vom-erdbebenopfer-zum-paralympics-triathleten-hoffnungstraeger-mehmet-mustafa-erkol-a-5e01a8e2-1871-4815-8716-89d1156bd507#ref=rss)
-### mehmet
-
-* [https://www.spiegel.de/sport/tuerkei-vom-erdbebenopfer-zum-paralympics-triathleten-hoffnungstraeger-mehmet-mustafa-erkol](https://www.spiegel.de/sport/tuerkei-vom-erdbebenopfer-zum-paralympics-triathleten-hoffnungstraeger-mehmet-mustafa-erkol-a-5e01a8e2-1871-4815-8716-89d1156bd507#ref=rss)
-### mustafa
-
-* [https://www.spiegel.de/sport/tuerkei-vom-erdbebenopfer-zum-paralympics-triathleten-hoffnungstraeger-mehmet-mustafa-erkol](https://www.spiegel.de/sport/tuerkei-vom-erdbebenopfer-zum-paralympics-triathleten-hoffnungstraeger-mehmet-mustafa-erkol-a-5e01a8e2-1871-4815-8716-89d1156bd507#ref=rss)
-### erkol
-
-* [https://www.spiegel.de/sport/tuerkei-vom-erdbebenopfer-zum-paralympics-triathleten-hoffnungstraeger-mehmet-mustafa-erkol](https://www.spiegel.de/sport/tuerkei-vom-erdbebenopfer-zum-paralympics-triathleten-hoffnungstraeger-mehmet-mustafa-erkol-a-5e01a8e2-1871-4815-8716-89d1156bd507#ref=rss)
-### willenskraft
-
-* [https://www.spiegel.de/psychologie/willenskraft-motivation-lust-bekommen-auf-das-was-schwerfaellt-podcast-mit-hans-georg-willmann](https://www.spiegel.de/psychologie/willenskraft-motivation-lust-bekommen-auf-das-was-schwerfaellt-podcast-mit-hans-georg-willmann-a-1eec541c-d35e-42a4-a4a2-f711bbbea162#ref=rss)
-### motivation
-
-* [https://www.spiegel.de/psychologie/willenskraft-motivation-lust-bekommen-auf-das-was-schwerfaellt-podcast-mit-hans-georg-willmann](https://www.spiegel.de/psychologie/willenskraft-motivation-lust-bekommen-auf-das-was-schwerfaellt-podcast-mit-hans-georg-willmann-a-1eec541c-d35e-42a4-a4a2-f711bbbea162#ref=rss)
-### hansgeorg
-
-* [https://www.spiegel.de/psychologie/willenskraft-motivation-lust-bekommen-auf-das-was-schwerfaellt-podcast-mit-hans-georg-willmann](https://www.spiegel.de/psychologie/willenskraft-motivation-lust-bekommen-auf-das-was-schwerfaellt-podcast-mit-hans-georg-willmann-a-1eec541c-d35e-42a4-a4a2-f711bbbea162#ref=rss)
-### willmann
-
-* [https://www.spiegel.de/psychologie/willenskraft-motivation-lust-bekommen-auf-das-was-schwerfaellt-podcast-mit-hans-georg-willmann](https://www.spiegel.de/psychologie/willenskraft-motivation-lust-bekommen-auf-das-was-schwerfaellt-podcast-mit-hans-georg-willmann-a-1eec541c-d35e-42a4-a4a2-f711bbbea162#ref=rss)
-### wir
-
-* [https://www.spiegel.de/psychologie/willenskraft-motivation-lust-bekommen-auf-das-was-schwerfaellt-podcast-mit-hans-georg-willmann](https://www.spiegel.de/psychologie/willenskraft-motivation-lust-bekommen-auf-das-was-schwerfaellt-podcast-mit-hans-georg-willmann-a-1eec541c-d35e-42a4-a4a2-f711bbbea162#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/geloeschte-inhalte-auf-tiktok-x-instagram-youtube-was-wir-nicht-sehen-sollen-datenanalyse](https://www.spiegel.de/netzwelt/netzpolitik/geloeschte-inhalte-auf-tiktok-x-instagram-youtube-was-wir-nicht-sehen-sollen-datenanalyse-a-ca0629a1-16c4-47a3-a9fa-10b7c6b44ac2#ref=rss)
-### sieht
-
-* [https://www.spiegel.de/reise/kroatien-schweden-dolomiten-sechs-neue-europaeische-wanderrouten-die-sie-kennen-sollten](https://www.spiegel.de/reise/kroatien-schweden-dolomiten-sechs-neue-europaeische-wanderrouten-die-sie-kennen-sollten-a-72e0e3a8-959e-4fed-83b5-d2cdfe1a8b1c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/uno-diplomat-achim-steiner-hinterfragt-kehrtwende-bei-klimapolitik](https://www.spiegel.de/wirtschaft/uno-diplomat-achim-steiner-hinterfragt-kehrtwende-bei-klimapolitik-a-108591ee-b83b-413d-8b73-6c39bb204725#ref=rss)
-### schritt
-
-* [https://www.spiegel.de/reise/kroatien-schweden-dolomiten-sechs-neue-europaeische-wanderrouten-die-sie-kennen-sollten](https://www.spiegel.de/reise/kroatien-schweden-dolomiten-sechs-neue-europaeische-wanderrouten-die-sie-kennen-sollten-a-72e0e3a8-959e-4fed-83b5-d2cdfe1a8b1c#ref=rss)
-### australian
-
-* [https://www.spiegel.de/sport/tennis/australian-open-2025-ist-alexander-zverev-reif-fuer-den-titel](https://www.spiegel.de/sport/tennis/australian-open-2025-ist-alexander-zverev-reif-fuer-den-titel-a-f5aae658-f75e-449b-954f-ad0392bf8ff5#ref=rss)
-* [https://www.spiegel.de/sport/tennis/australian-open-madison-keys-schlaegt-aryna-sabalenka-und-gewinnt-erstmals-ein-grand-slam-turnier](https://www.spiegel.de/sport/tennis/australian-open-madison-keys-schlaegt-aryna-sabalenka-und-gewinnt-erstmals-ein-grand-slam-turnier-a-e36fdb73-c69b-4aab-8d6c-ba94f00533f5#ref=rss)
-### open
-
-* [https://www.spiegel.de/sport/tennis/australian-open-2025-ist-alexander-zverev-reif-fuer-den-titel](https://www.spiegel.de/sport/tennis/australian-open-2025-ist-alexander-zverev-reif-fuer-den-titel-a-f5aae658-f75e-449b-954f-ad0392bf8ff5#ref=rss)
-* [https://www.spiegel.de/sport/tennis/australian-open-madison-keys-schlaegt-aryna-sabalenka-und-gewinnt-erstmals-ein-grand-slam-turnier](https://www.spiegel.de/sport/tennis/australian-open-madison-keys-schlaegt-aryna-sabalenka-und-gewinnt-erstmals-ein-grand-slam-turnier-a-e36fdb73-c69b-4aab-8d6c-ba94f00533f5#ref=rss)
-### 2025
-
-* [https://www.spiegel.de/sport/tennis/australian-open-2025-ist-alexander-zverev-reif-fuer-den-titel](https://www.spiegel.de/sport/tennis/australian-open-2025-ist-alexander-zverev-reif-fuer-den-titel-a-f5aae658-f75e-449b-954f-ad0392bf8ff5#ref=rss)
-* [https://www.spiegel.de/kultur/tv/dschungelcamp-2025-im-scared-ne](https://www.spiegel.de/kultur/tv/dschungelcamp-2025-im-scared-ne-a-681c3c55-f6ff-475a-98ab-b0058d08171c#ref=rss)
-### alexander
-
-* [https://www.spiegel.de/sport/tennis/australian-open-2025-ist-alexander-zverev-reif-fuer-den-titel](https://www.spiegel.de/sport/tennis/australian-open-2025-ist-alexander-zverev-reif-fuer-den-titel-a-f5aae658-f75e-449b-954f-ad0392bf8ff5#ref=rss)
-### titel
-
-* [https://www.spiegel.de/sport/tennis/australian-open-2025-ist-alexander-zverev-reif-fuer-den-titel](https://www.spiegel.de/sport/tennis/australian-open-2025-ist-alexander-zverev-reif-fuer-den-titel-a-f5aae658-f75e-449b-954f-ad0392bf8ff5#ref=rss)
-* [https://www.spiegel.de/sport/tennis/australian-open-madison-keys-schlaegt-aryna-sabalenka-und-gewinnt-erstmals-ein-grand-slam-turnier](https://www.spiegel.de/sport/tennis/australian-open-madison-keys-schlaegt-aryna-sabalenka-und-gewinnt-erstmals-ein-grand-slam-turnier-a-e36fdb73-c69b-4aab-8d6c-ba94f00533f5#ref=rss)
-### sturm
-
-* [https://www.spiegel.de/politik/krisen-und-wahlkampf-verloren-im-perfekten-sturm-kolumne](https://www.spiegel.de/politik/krisen-und-wahlkampf-verloren-im-perfekten-sturm-kolumne-a-75df717e-0265-473c-ab14-909fc6d0f446#ref=rss)
-* [https://www.spiegel.de/panorama/sturm-eowyn-in-irland-und-schottland-20-jaehriger-stirbt-im-auto-unter-umgestuerztem-baum](https://www.spiegel.de/panorama/sturm-eowyn-in-irland-und-schottland-20-jaehriger-stirbt-im-auto-unter-umgestuerztem-baum-a-4b2a11dd-32a5-4523-b8c9-6cf041a4a6c4#ref=rss)
-### plädoyer
-
-* [https://www.spiegel.de/politik/krisen-und-wahlkampf-verloren-im-perfekten-sturm-kolumne](https://www.spiegel.de/politik/krisen-und-wahlkampf-verloren-im-perfekten-sturm-kolumne-a-75df717e-0265-473c-ab14-909fc6d0f446#ref=rss)
-* [https://www.spiegel.de/kultur/musik/paul-mccartney-fuerchtet-ki-koennte-musiker-ausbeuten-rechtlicher-schutz-gefordert](https://www.spiegel.de/kultur/musik/paul-mccartney-fuerchtet-ki-koennte-musiker-ausbeuten-rechtlicher-schutz-gefordert-a-3b9bb704-863c-4216-8cbc-5dfb5b15d6a3#ref=rss)
-### österreich
-
-* [https://www.spiegel.de/ausland/oesterreich-die-wahren-plaene-der-fpoe-bei-den-koalitionsverhandlungen](https://www.spiegel.de/ausland/oesterreich-die-wahren-plaene-der-fpoe-bei-den-koalitionsverhandlungen-a-73b5e18f-fa75-4ee8-b1ec-9a62db04b619#ref=rss)
-### pläne
-
-* [https://www.spiegel.de/ausland/oesterreich-die-wahren-plaene-der-fpoe-bei-den-koalitionsverhandlungen](https://www.spiegel.de/ausland/oesterreich-die-wahren-plaene-der-fpoe-bei-den-koalitionsverhandlungen-a-73b5e18f-fa75-4ee8-b1ec-9a62db04b619#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-die-aktuellen-reaktionen-auf-seinen-vorstoss-bei-der-migrationspolitik](https://www.spiegel.de/politik/deutschland/friedrich-merz-die-aktuellen-reaktionen-auf-seinen-vorstoss-bei-der-migrationspolitik-a-54b3e32d-847c-4305-b679-6fc6920321c9#ref=rss)
-### fpö
-
-* [https://www.spiegel.de/ausland/oesterreich-die-wahren-plaene-der-fpoe-bei-den-koalitionsverhandlungen](https://www.spiegel.de/ausland/oesterreich-die-wahren-plaene-der-fpoe-bei-den-koalitionsverhandlungen-a-73b5e18f-fa75-4ee8-b1ec-9a62db04b619#ref=rss)
-### achim
-
-* [https://www.spiegel.de/wirtschaft/uno-diplomat-achim-steiner-hinterfragt-kehrtwende-bei-klimapolitik](https://www.spiegel.de/wirtschaft/uno-diplomat-achim-steiner-hinterfragt-kehrtwende-bei-klimapolitik-a-108591ee-b83b-413d-8b73-6c39bb204725#ref=rss)
-### steiner
-
-* [https://www.spiegel.de/wirtschaft/uno-diplomat-achim-steiner-hinterfragt-kehrtwende-bei-klimapolitik](https://www.spiegel.de/wirtschaft/uno-diplomat-achim-steiner-hinterfragt-kehrtwende-bei-klimapolitik-a-108591ee-b83b-413d-8b73-6c39bb204725#ref=rss)
-### kehrtwende
-
-* [https://www.spiegel.de/wirtschaft/uno-diplomat-achim-steiner-hinterfragt-kehrtwende-bei-klimapolitik](https://www.spiegel.de/wirtschaft/uno-diplomat-achim-steiner-hinterfragt-kehrtwende-bei-klimapolitik-a-108591ee-b83b-413d-8b73-6c39bb204725#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/wirtschaft/uno-diplomat-achim-steiner-hinterfragt-kehrtwende-bei-klimapolitik](https://www.spiegel.de/wirtschaft/uno-diplomat-achim-steiner-hinterfragt-kehrtwende-bei-klimapolitik-a-108591ee-b83b-413d-8b73-6c39bb204725#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gegen-donald-trump-afd-hass-tausende-menschen-versammeln-sich-zu-demos-gegen-rechts](https://www.spiegel.de/politik/deutschland/gegen-donald-trump-afd-hass-tausende-menschen-versammeln-sich-zu-demos-gegen-rechts-a-b0a30d1a-991c-4b9f-a560-f5aeebd8ee72#ref=rss)
-### mich
-
-* [https://www.spiegel.de/panorama/gesellschaft/syrien-heimatbesuche-syrischer-gefluechteter-ja-bruder-das-geht-kontaktiere-mich](https://www.spiegel.de/panorama/gesellschaft/syrien-heimatbesuche-syrischer-gefluechteter-ja-bruder-das-geht-kontaktiere-mich-a-f2b0b408-c09f-4ff7-a4fd-7b950cd0d061#ref=rss)
-* [https://www.spiegel.de/kultur/tv/dschungelcamp-2025-im-scared-ne](https://www.spiegel.de/kultur/tv/dschungelcamp-2025-im-scared-ne-a-681c3c55-f6ff-475a-98ab-b0058d08171c#ref=rss)
-### hoffen
-
-* [https://www.spiegel.de/panorama/gesellschaft/syrien-heimatbesuche-syrischer-gefluechteter-ja-bruder-das-geht-kontaktiere-mich](https://www.spiegel.de/panorama/gesellschaft/syrien-heimatbesuche-syrischer-gefluechteter-ja-bruder-das-geht-kontaktiere-mich-a-f2b0b408-c09f-4ff7-a4fd-7b950cd0d061#ref=rss)
-* [https://www.spiegel.de/kultur/tv/dschungelcamp-2025-im-scared-ne](https://www.spiegel.de/kultur/tv/dschungelcamp-2025-im-scared-ne-a-681c3c55-f6ff-475a-98ab-b0058d08171c#ref=rss)
-### regeln
-
-* [https://www.spiegel.de/panorama/gesellschaft/syrien-heimatbesuche-syrischer-gefluechteter-ja-bruder-das-geht-kontaktiere-mich](https://www.spiegel.de/panorama/gesellschaft/syrien-heimatbesuche-syrischer-gefluechteter-ja-bruder-das-geht-kontaktiere-mich-a-f2b0b408-c09f-4ff7-a4fd-7b950cd0d061#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/geloeschte-inhalte-auf-tiktok-x-instagram-youtube-was-wir-nicht-sehen-sollen-datenanalyse](https://www.spiegel.de/netzwelt/netzpolitik/geloeschte-inhalte-auf-tiktok-x-instagram-youtube-was-wir-nicht-sehen-sollen-datenanalyse-a-ca0629a1-16c4-47a3-a9fa-10b7c6b44ac2#ref=rss)
-### kongo
-
-* [https://www.spiegel.de/ausland/kongo-warum-ihr-smartphone-einen-krieg-anheizt](https://www.spiegel.de/ausland/kongo-warum-ihr-smartphone-einen-krieg-anheizt-a-f48c6788-d362-4e79-a2a0-e02e7797a683#ref=rss)
-### paul
-
-* [https://www.spiegel.de/kultur/musik/paul-mccartney-fuerchtet-ki-koennte-musiker-ausbeuten-rechtlicher-schutz-gefordert](https://www.spiegel.de/kultur/musik/paul-mccartney-fuerchtet-ki-koennte-musiker-ausbeuten-rechtlicher-schutz-gefordert-a-3b9bb704-863c-4216-8cbc-5dfb5b15d6a3#ref=rss)
-### mccartney
-
-* [https://www.spiegel.de/kultur/musik/paul-mccartney-fuerchtet-ki-koennte-musiker-ausbeuten-rechtlicher-schutz-gefordert](https://www.spiegel.de/kultur/musik/paul-mccartney-fuerchtet-ki-koennte-musiker-ausbeuten-rechtlicher-schutz-gefordert-a-3b9bb704-863c-4216-8cbc-5dfb5b15d6a3#ref=rss)
-### schutz
-
-* [https://www.spiegel.de/kultur/musik/paul-mccartney-fuerchtet-ki-koennte-musiker-ausbeuten-rechtlicher-schutz-gefordert](https://www.spiegel.de/kultur/musik/paul-mccartney-fuerchtet-ki-koennte-musiker-ausbeuten-rechtlicher-schutz-gefordert-a-3b9bb704-863c-4216-8cbc-5dfb5b15d6a3#ref=rss)
-### britische
-
-* [https://www.spiegel.de/kultur/musik/paul-mccartney-fuerchtet-ki-koennte-musiker-ausbeuten-rechtlicher-schutz-gefordert](https://www.spiegel.de/kultur/musik/paul-mccartney-fuerchtet-ki-koennte-musiker-ausbeuten-rechtlicher-schutz-gefordert-a-3b9bb704-863c-4216-8cbc-5dfb5b15d6a3#ref=rss)
-* [https://www.spiegel.de/geschichte/deutschland-und-weltweite-krisen-im-21-jahrhundert-blick-des-historikers-timothy-garton-ash](https://www.spiegel.de/geschichte/deutschland-und-weltweite-krisen-im-21-jahrhundert-blick-des-historikers-timothy-garton-ash-a-ba6097c5-8bfc-479e-9f9c-27f718a12823#ref=rss)
-### diskussion
-
-* [https://www.spiegel.de/kultur/musik/paul-mccartney-fuerchtet-ki-koennte-musiker-ausbeuten-rechtlicher-schutz-gefordert](https://www.spiegel.de/kultur/musik/paul-mccartney-fuerchtet-ki-koennte-musiker-ausbeuten-rechtlicher-schutz-gefordert-a-3b9bb704-863c-4216-8cbc-5dfb5b15d6a3#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-nina-ortlieb-und-tereza-nova-stuerzen-bei-abfahrt-in-garmisch-partenkirchen-schwer](https://www.spiegel.de/sport/wintersport/ski-alpin-nina-ortlieb-und-tereza-nova-stuerzen-bei-abfahrt-in-garmisch-partenkirchen-schwer-a-d4cc5546-2e89-439b-b685-5cdd06aec7fc#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-die-aktuellen-reaktionen-auf-seinen-vorstoss-bei-der-migrationspolitik](https://www.spiegel.de/politik/deutschland/friedrich-merz-die-aktuellen-reaktionen-auf-seinen-vorstoss-bei-der-migrationspolitik-a-54b3e32d-847c-4305-b679-6fc6920321c9#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-die-aktuellen-reaktionen-auf-seinen-vorstoss-bei-der-migrationspolitik](https://www.spiegel.de/politik/deutschland/friedrich-merz-die-aktuellen-reaktionen-auf-seinen-vorstoss-bei-der-migrationspolitik-a-54b3e32d-847c-4305-b679-6fc6920321c9#ref=rss)
-### migrationspolitik
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-die-aktuellen-reaktionen-auf-seinen-vorstoss-bei-der-migrationspolitik](https://www.spiegel.de/politik/deutschland/friedrich-merz-die-aktuellen-reaktionen-auf-seinen-vorstoss-bei-der-migrationspolitik-a-54b3e32d-847c-4305-b679-6fc6920321c9#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/politik/deutschland/gegen-donald-trump-afd-hass-tausende-menschen-versammeln-sich-zu-demos-gegen-rechts](https://www.spiegel.de/politik/deutschland/gegen-donald-trump-afd-hass-tausende-menschen-versammeln-sich-zu-demos-gegen-rechts-a-b0a30d1a-991c-4b9f-a560-f5aeebd8ee72#ref=rss)
-### israel
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-und-chappatte-merz-auf-kurs](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-und-chappatte-merz-auf-kurs-a-d7141fb4-c350-4d1b-82af-ce7022683267#ref=rss)
+* [https://www.spiegel.de/psychologie/positives-denken-warum-wir-gerade-jetzt-zuversicht-brauchen-und-gute-gruende-dafuer-haben](https://www.spiegel.de/psychologie/positives-denken-warum-wir-gerade-jetzt-zuversicht-brauchen-und-gute-gruende-dafuer-haben-a-f023447c-c8d5-4007-ac39-159bc891e330#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-schlaegt-umsiedlung-des-gazastreifens-nach-aegypten-und-jordanien-vor](https://www.spiegel.de/ausland/donald-trump-schlaegt-umsiedlung-des-gazastreifens-nach-aegypten-und-jordanien-vor-a-e808dbc9-3a20-4ba8-90f3-bd23761f1214#ref=rss)
+* [https://www.spiegel.de/ausland/usa-der-rachefeldzug-des-donald-trump](https://www.spiegel.de/ausland/usa-der-rachefeldzug-des-donald-trump-a-c5e3b645-ee2d-447e-b3a4-f543b29dfd3f#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-scherzt-in-las-vegas-ueber-weitere-amtszeit-und-ein-groesseres-land](https://www.spiegel.de/ausland/donald-trump-scherzt-in-las-vegas-ueber-weitere-amtszeit-und-ein-groesseres-land-a-78036b9d-91bd-4e85-8515-f6c1bf9849e4#ref=rss)
+* [https://www.spiegel.de/ausland/trumps-agenda-us-arzt-verbreitet-daten-von-transsexuellen-jugendlichen-ohne-konsequenzen](https://www.spiegel.de/ausland/trumps-agenda-us-arzt-verbreitet-daten-von-transsexuellen-jugendlichen-ohne-konsequenzen-a-356105cd-fa2f-4624-9dcf-57297e4ddcc1#ref=rss)
+### donald
 
-* [https://www.spiegel.de/ausland/israel-hamas-deal-israel-entlaesst-200-palaestinensische-haeftlinge-nach-geisel-uebergabe](https://www.spiegel.de/ausland/israel-hamas-deal-israel-entlaesst-200-palaestinensische-haeftlinge-nach-geisel-uebergabe-a-6921b9a6-58fe-407c-a901-1772fa00734e#ref=rss)
-### 200
+* [https://www.spiegel.de/psychologie/positives-denken-warum-wir-gerade-jetzt-zuversicht-brauchen-und-gute-gruende-dafuer-haben](https://www.spiegel.de/psychologie/positives-denken-warum-wir-gerade-jetzt-zuversicht-brauchen-und-gute-gruende-dafuer-haben-a-f023447c-c8d5-4007-ac39-159bc891e330#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-schlaegt-umsiedlung-des-gazastreifens-nach-aegypten-und-jordanien-vor](https://www.spiegel.de/ausland/donald-trump-schlaegt-umsiedlung-des-gazastreifens-nach-aegypten-und-jordanien-vor-a-e808dbc9-3a20-4ba8-90f3-bd23761f1214#ref=rss)
+* [https://www.spiegel.de/ausland/usa-der-rachefeldzug-des-donald-trump](https://www.spiegel.de/ausland/usa-der-rachefeldzug-des-donald-trump-a-c5e3b645-ee2d-447e-b3a4-f543b29dfd3f#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-scherzt-in-las-vegas-ueber-weitere-amtszeit-und-ein-groesseres-land](https://www.spiegel.de/ausland/donald-trump-scherzt-in-las-vegas-ueber-weitere-amtszeit-und-ein-groesseres-land-a-78036b9d-91bd-4e85-8515-f6c1bf9849e4#ref=rss)
+* [https://www.spiegel.de/ausland/trumps-agenda-us-arzt-verbreitet-daten-von-transsexuellen-jugendlichen-ohne-konsequenzen](https://www.spiegel.de/ausland/trumps-agenda-us-arzt-verbreitet-daten-von-transsexuellen-jugendlichen-ohne-konsequenzen-a-356105cd-fa2f-4624-9dcf-57297e4ddcc1#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/ausland/israel-hamas-deal-israel-entlaesst-200-palaestinensische-haeftlinge-nach-geisel-uebergabe](https://www.spiegel.de/ausland/israel-hamas-deal-israel-entlaesst-200-palaestinensische-haeftlinge-nach-geisel-uebergabe-a-6921b9a6-58fe-407c-a901-1772fa00734e#ref=rss)
-### palästinensische
+* [https://www.spiegel.de/wirtschaft/pflegeversicherung-finanzlage-wird-zunehmend-bedrohlicher](https://www.spiegel.de/wirtschaft/pflegeversicherung-finanzlage-wird-zunehmend-bedrohlicher-a-03377d14-9ed2-4d67-939c-3693d2e3f1e3#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-sieg-gegen-freiburg-der-fc-bayern-ist-ein-topteam-aber-nur-in-der-bundesliga](https://www.spiegel.de/sport/fussball/fussball-sieg-gegen-freiburg-der-fc-bayern-ist-ein-topteam-aber-nur-in-der-bundesliga-a-a6787db5-7992-4842-8754-6748eadcf8ba#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/verhandlungen-ueber-gesetz-zum-schutz-von-rettungskraeften-gescheitert](https://www.spiegel.de/politik/deutschland/verhandlungen-ueber-gesetz-zum-schutz-von-rettungskraeften-gescheitert-a-f10e7447-7193-4c55-9e7c-1d872fd2d4f2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/offshore-windparks-windstromproduktion-in-der-nordsee-steigt-um-acht-prozent](https://www.spiegel.de/wirtschaft/service/offshore-windparks-windstromproduktion-in-der-nordsee-steigt-um-acht-prozent-a-0709041f-0644-4e9f-af1d-6d00307b17d8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wolfgang-schmidt-jetzt-muss-der-oberste-scholz-verteidiger-fuer-sich-selbst-kaempfen](https://www.spiegel.de/politik/deutschland/wolfgang-schmidt-jetzt-muss-der-oberste-scholz-verteidiger-fuer-sich-selbst-kaempfen-a-5a235617-0d2d-47bf-b003-f716e61a2500#ref=rss)
+* [https://www.spiegel.de/politik/demokratie-in-gefahr-elf-regeln-gegen-autoritaere-bedrohungen](https://www.spiegel.de/politik/demokratie-in-gefahr-elf-regeln-gegen-autoritaere-bedrohungen-a-9be87a48-0557-4c78-a177-71218edfb1be#ref=rss)
+### bundesliga
 
-* [https://www.spiegel.de/ausland/israel-hamas-deal-israel-entlaesst-200-palaestinensische-haeftlinge-nach-geisel-uebergabe](https://www.spiegel.de/ausland/israel-hamas-deal-israel-entlaesst-200-palaestinensische-haeftlinge-nach-geisel-uebergabe-a-6921b9a6-58fe-407c-a901-1772fa00734e#ref=rss)
-### häftlinge
+* [https://www.spiegel.de/sport/fussball/fussball-sieg-gegen-freiburg-der-fc-bayern-ist-ein-topteam-aber-nur-in-der-bundesliga](https://www.spiegel.de/sport/fussball/fussball-sieg-gegen-freiburg-der-fc-bayern-ist-ein-topteam-aber-nur-in-der-bundesliga-a-a6787db5-7992-4842-8754-6748eadcf8ba#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-schlaegt-hertha-bsc-in-turbulentem-topspiel](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-schlaegt-hertha-bsc-in-turbulentem-topspiel-a-e6d87538-c14b-4dc0-b942-5ffefdfea3fe#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-dfb-raeumt-fehlentscheidung-bei-tor-fuer-borussia-dortmund-ein](https://www.spiegel.de/sport/fussball/fussball-bundesliga-dfb-raeumt-fehlentscheidung-bei-tor-fuer-borussia-dortmund-ein-a-fef8b1db-d2cd-478e-85f5-9d7c0cadfcc9#ref=rss)
+### auschwitz
 
-* [https://www.spiegel.de/ausland/israel-hamas-deal-israel-entlaesst-200-palaestinensische-haeftlinge-nach-geisel-uebergabe](https://www.spiegel.de/ausland/israel-hamas-deal-israel-entlaesst-200-palaestinensische-haeftlinge-nach-geisel-uebergabe-a-6921b9a6-58fe-407c-a901-1772fa00734e#ref=rss)
-### eigenen
+* [https://www.spiegel.de/geschichte/kz-auschwitz-80-jahrestag-der-befreiung-was-im-kz-auschwitz-geschah](https://www.spiegel.de/geschichte/kz-auschwitz-80-jahrestag-der-befreiung-was-im-kz-auschwitz-geschah-a-e37da706-cf68-4138-9a30-260f07fbaec1#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/auschwitz-gedenkstaettenleiter-heute-vergewaltigt-toetet-und-missbraucht-ein-teil-der-befreier-von-damals](https://www.spiegel.de/panorama/gesellschaft/auschwitz-gedenkstaettenleiter-heute-vergewaltigt-toetet-und-missbraucht-ein-teil-der-befreier-von-damals-a-fb924b66-38d0-4aec-ade1-ad66a18513e6#ref=rss)
+### soldaten
 
-* [https://www.spiegel.de/ausland/israel-hamas-deal-israel-entlaesst-200-palaestinensische-haeftlinge-nach-geisel-uebergabe](https://www.spiegel.de/ausland/israel-hamas-deal-israel-entlaesst-200-palaestinensische-haeftlinge-nach-geisel-uebergabe-a-6921b9a6-58fe-407c-a901-1772fa00734e#ref=rss)
-* [https://www.spiegel.de/familie/erinnerung-an-die-momente-der-kindheit-der-eigenen-kinder](https://www.spiegel.de/familie/erinnerung-an-die-momente-der-kindheit-der-eigenen-kinder-a-ca2c146f-a676-4796-bf24-543728174c86#ref=rss)
-### madison
+* [https://www.spiegel.de/geschichte/kz-auschwitz-80-jahrestag-der-befreiung-was-im-kz-auschwitz-geschah](https://www.spiegel.de/geschichte/kz-auschwitz-80-jahrestag-der-befreiung-was-im-kz-auschwitz-geschah-a-e37da706-cf68-4138-9a30-260f07fbaec1#ref=rss)
+* [https://www.spiegel.de/ausland/kongo-neun-suedafrikanische-soldaten-sterben-bei-kaempfen-uno-zieht-personal-ab](https://www.spiegel.de/ausland/kongo-neun-suedafrikanische-soldaten-sterben-bei-kaempfen-uno-zieht-personal-ab-a-15e2b7a9-40fa-4f55-aab5-2e6ac6422940#ref=rss)
+### wagner
 
-* [https://www.spiegel.de/sport/tennis/australian-open-madison-keys-schlaegt-aryna-sabalenka-und-gewinnt-erstmals-ein-grand-slam-turnier](https://www.spiegel.de/sport/tennis/australian-open-madison-keys-schlaegt-aryna-sabalenka-und-gewinnt-erstmals-ein-grand-slam-turnier-a-e36fdb73-c69b-4aab-8d6c-ba94f00533f5#ref=rss)
-### keys
+* [https://www.spiegel.de/sport/basketball/nba-franz-wagner-ueberragt-nach-comeback-bei-sieg-von-orlando-magic-gegen-detroit-pistons](https://www.spiegel.de/sport/basketball/nba-franz-wagner-ueberragt-nach-comeback-bei-sieg-von-orlando-magic-gegen-detroit-pistons-a-363f826a-488a-4350-af38-79dfcd0de82e#ref=rss)
+### woche
 
-* [https://www.spiegel.de/sport/tennis/australian-open-madison-keys-schlaegt-aryna-sabalenka-und-gewinnt-erstmals-ein-grand-slam-turnier](https://www.spiegel.de/sport/tennis/australian-open-madison-keys-schlaegt-aryna-sabalenka-und-gewinnt-erstmals-ein-grand-slam-turnier-a-e36fdb73-c69b-4aab-8d6c-ba94f00533f5#ref=rss)
-### aryna
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-und-chappatte-merz-auf-kurs](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-und-chappatte-merz-auf-kurs-a-d7141fb4-c350-4d1b-82af-ce7022683267#ref=rss)
+### merz
 
-* [https://www.spiegel.de/sport/tennis/australian-open-madison-keys-schlaegt-aryna-sabalenka-und-gewinnt-erstmals-ein-grand-slam-turnier](https://www.spiegel.de/sport/tennis/australian-open-madison-keys-schlaegt-aryna-sabalenka-und-gewinnt-erstmals-ein-grand-slam-turnier-a-e36fdb73-c69b-4aab-8d6c-ba94f00533f5#ref=rss)
-### sabalenka
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-und-chappatte-merz-auf-kurs](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-und-chappatte-merz-auf-kurs-a-d7141fb4-c350-4d1b-82af-ce7022683267#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-nutzt-die-gewalttat-von-aschaffenburg-fuer-markige-rhetorik](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-nutzt-die-gewalttat-von-aschaffenburg-fuer-markige-rhetorik-a-c8b2a5a9-9b6b-4002-921d-bac077665fac#ref=rss)
+### liegt
 
-* [https://www.spiegel.de/sport/tennis/australian-open-madison-keys-schlaegt-aryna-sabalenka-und-gewinnt-erstmals-ein-grand-slam-turnier](https://www.spiegel.de/sport/tennis/australian-open-madison-keys-schlaegt-aryna-sabalenka-und-gewinnt-erstmals-ein-grand-slam-turnier-a-e36fdb73-c69b-4aab-8d6c-ba94f00533f5#ref=rss)
-### grandslamturnier
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-gemeinden-erleben-unerwarteten-ansturm-auf-wahlhelfer-posten](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-gemeinden-erleben-unerwarteten-ansturm-auf-wahlhelfer-posten-a-219205f3-abcb-432c-a438-7d1c98c9a655#ref=rss)
+* [https://www.spiegel.de/gesundheit/gesundheit-preise-fuer-heilmittel-extrem-gestiegen](https://www.spiegel.de/gesundheit/gesundheit-preise-fuer-heilmittel-extrem-gestiegen-a-ac5fd836-64e8-47bd-b92a-44c0b6669eed#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/verhandlungen-ueber-gesetz-zum-schutz-von-rettungskraeften-gescheitert](https://www.spiegel.de/politik/deutschland/verhandlungen-ueber-gesetz-zum-schutz-von-rettungskraeften-gescheitert-a-f10e7447-7193-4c55-9e7c-1d872fd2d4f2#ref=rss)
+### rhetorik
 
-* [https://www.spiegel.de/sport/tennis/australian-open-madison-keys-schlaegt-aryna-sabalenka-und-gewinnt-erstmals-ein-grand-slam-turnier](https://www.spiegel.de/sport/tennis/australian-open-madison-keys-schlaegt-aryna-sabalenka-und-gewinnt-erstmals-ein-grand-slam-turnier-a-e36fdb73-c69b-4aab-8d6c-ba94f00533f5#ref=rss)
-### ersten
+* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-nutzt-die-gewalttat-von-aschaffenburg-fuer-markige-rhetorik](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-nutzt-die-gewalttat-von-aschaffenburg-fuer-markige-rhetorik-a-c8b2a5a9-9b6b-4002-921d-bac077665fac#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-scherzt-in-las-vegas-ueber-weitere-amtszeit-und-ein-groesseres-land](https://www.spiegel.de/ausland/donald-trump-scherzt-in-las-vegas-ueber-weitere-amtszeit-und-ein-groesseres-land-a-78036b9d-91bd-4e85-8515-f6c1bf9849e4#ref=rss)
+### bayern
 
-* [https://www.spiegel.de/sport/tennis/australian-open-madison-keys-schlaegt-aryna-sabalenka-und-gewinnt-erstmals-ein-grand-slam-turnier](https://www.spiegel.de/sport/tennis/australian-open-madison-keys-schlaegt-aryna-sabalenka-und-gewinnt-erstmals-ein-grand-slam-turnier-a-e36fdb73-c69b-4aab-8d6c-ba94f00533f5#ref=rss)
-* [https://www.spiegel.de/geschichte/deutschland-und-weltweite-krisen-im-21-jahrhundert-blick-des-historikers-timothy-garton-ash](https://www.spiegel.de/geschichte/deutschland-und-weltweite-krisen-im-21-jahrhundert-blick-des-historikers-timothy-garton-ash-a-ba6097c5-8bfc-479e-9f9c-27f718a12823#ref=rss)
-### sieben
+* [https://www.spiegel.de/sport/fussball/fussball-sieg-gegen-freiburg-der-fc-bayern-ist-ein-topteam-aber-nur-in-der-bundesliga](https://www.spiegel.de/sport/fussball/fussball-sieg-gegen-freiburg-der-fc-bayern-ist-ein-topteam-aber-nur-in-der-bundesliga-a-a6787db5-7992-4842-8754-6748eadcf8ba#ref=rss)
+### freiburg
 
-* [https://www.spiegel.de/sport/tennis/australian-open-madison-keys-schlaegt-aryna-sabalenka-und-gewinnt-erstmals-ein-grand-slam-turnier](https://www.spiegel.de/sport/tennis/australian-open-madison-keys-schlaegt-aryna-sabalenka-und-gewinnt-erstmals-ein-grand-slam-turnier-a-e36fdb73-c69b-4aab-8d6c-ba94f00533f5#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/chemnitz-grosse-gruppe-aus-dem-dem-rechts-motivierten-spektrum-wollte-bar-besucher-angreifen-staatsschutz-ermittelt](https://www.spiegel.de/panorama/justiz/chemnitz-grosse-gruppe-aus-dem-dem-rechts-motivierten-spektrum-wollte-bar-besucher-angreifen-staatsschutz-ermittelt-a-33d65ab1-fac1-416b-94db-6ce841136704#ref=rss)
-### nina
+* [https://www.spiegel.de/sport/fussball/fussball-sieg-gegen-freiburg-der-fc-bayern-ist-ein-topteam-aber-nur-in-der-bundesliga](https://www.spiegel.de/sport/fussball/fussball-sieg-gegen-freiburg-der-fc-bayern-ist-ein-topteam-aber-nur-in-der-bundesliga-a-a6787db5-7992-4842-8754-6748eadcf8ba#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/vermont-deutscher-und-grenzschuetzer-bei-schusswechsel-getoetet](https://www.spiegel.de/panorama/justiz/vermont-deutscher-und-grenzschuetzer-bei-schusswechsel-getoetet-a-a00c162e-1f9b-438e-87bb-17cbb737560d#ref=rss)
+### millionen
 
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-nina-ortlieb-und-tereza-nova-stuerzen-bei-abfahrt-in-garmisch-partenkirchen-schwer](https://www.spiegel.de/sport/wintersport/ski-alpin-nina-ortlieb-und-tereza-nova-stuerzen-bei-abfahrt-in-garmisch-partenkirchen-schwer-a-d4cc5546-2e89-439b-b685-5cdd06aec7fc#ref=rss)
-### ortlieb
+* [https://www.spiegel.de/wirtschaft/service/offshore-windparks-windstromproduktion-in-der-nordsee-steigt-um-acht-prozent](https://www.spiegel.de/wirtschaft/service/offshore-windparks-windstromproduktion-in-der-nordsee-steigt-um-acht-prozent-a-0709041f-0644-4e9f-af1d-6d00307b17d8#ref=rss)
+* [https://www.spiegel.de/ausland/indien-besuch-beim-kumbh-mela-baden-mit-250-millionen-hindus](https://www.spiegel.de/ausland/indien-besuch-beim-kumbh-mela-baden-mit-250-millionen-hindus-a-eee563ad-6dd0-47ec-80da-9fc3be80571a#ref=rss)
+### raum
 
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-nina-ortlieb-und-tereza-nova-stuerzen-bei-abfahrt-in-garmisch-partenkirchen-schwer](https://www.spiegel.de/sport/wintersport/ski-alpin-nina-ortlieb-und-tereza-nova-stuerzen-bei-abfahrt-in-garmisch-partenkirchen-schwer-a-d4cc5546-2e89-439b-b685-5cdd06aec7fc#ref=rss)
-### tereza
+* [https://www.spiegel.de/panorama/wahlkampf-und-der-laendliche-raum-warum-interessiert-ihr-euch-nicht-fuer-die-provinz](https://www.spiegel.de/panorama/wahlkampf-und-der-laendliche-raum-warum-interessiert-ihr-euch-nicht-fuer-die-provinz-a-6df8b674-81c4-4c78-a086-b665ddf2e7a8#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/vermont-deutscher-und-grenzschuetzer-bei-schusswechsel-getoetet](https://www.spiegel.de/panorama/justiz/vermont-deutscher-und-grenzschuetzer-bei-schusswechsel-getoetet-a-a00c162e-1f9b-438e-87bb-17cbb737560d#ref=rss)
+### influencer
 
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-nina-ortlieb-und-tereza-nova-stuerzen-bei-abfahrt-in-garmisch-partenkirchen-schwer](https://www.spiegel.de/sport/wintersport/ski-alpin-nina-ortlieb-und-tereza-nova-stuerzen-bei-abfahrt-in-garmisch-partenkirchen-schwer-a-d4cc5546-2e89-439b-b685-5cdd06aec7fc#ref=rss)
-### nova
+* [https://www.spiegel.de/panorama/influencer-ueber-gastro-trends-eine-schlange-ist-das-beste-was-einem-laden-passieren-kann](https://www.spiegel.de/panorama/influencer-ueber-gastro-trends-eine-schlange-ist-das-beste-was-einem-laden-passieren-kann-a-edba42ce-d5df-4025-99f2-80780cae96f2#ref=rss)
+### ohne
 
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-nina-ortlieb-und-tereza-nova-stuerzen-bei-abfahrt-in-garmisch-partenkirchen-schwer](https://www.spiegel.de/sport/wintersport/ski-alpin-nina-ortlieb-und-tereza-nova-stuerzen-bei-abfahrt-in-garmisch-partenkirchen-schwer-a-d4cc5546-2e89-439b-b685-5cdd06aec7fc#ref=rss)
-### abfahrt
+* [https://www.spiegel.de/panorama/influencer-ueber-gastro-trends-eine-schlange-ist-das-beste-was-einem-laden-passieren-kann](https://www.spiegel.de/panorama/influencer-ueber-gastro-trends-eine-schlange-ist-das-beste-was-einem-laden-passieren-kann-a-edba42ce-d5df-4025-99f2-80780cae96f2#ref=rss)
+* [https://www.spiegel.de/panorama/sturm-in-irland-und-grossbritannien-hunderttausende-haushalte-nach-eowyn-noch-immer-ohne-strom](https://www.spiegel.de/panorama/sturm-in-irland-und-grossbritannien-hunderttausende-haushalte-nach-eowyn-noch-immer-ohne-strom-a-01fef188-75c6-4891-bda3-bca1826d59eb#ref=rss)
+### erklärt
 
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-nina-ortlieb-und-tereza-nova-stuerzen-bei-abfahrt-in-garmisch-partenkirchen-schwer](https://www.spiegel.de/sport/wintersport/ski-alpin-nina-ortlieb-und-tereza-nova-stuerzen-bei-abfahrt-in-garmisch-partenkirchen-schwer-a-d4cc5546-2e89-439b-b685-5cdd06aec7fc#ref=rss)
-### garmischpartenkirchen
+* [https://www.spiegel.de/panorama/influencer-ueber-gastro-trends-eine-schlange-ist-das-beste-was-einem-laden-passieren-kann](https://www.spiegel.de/panorama/influencer-ueber-gastro-trends-eine-schlange-ist-das-beste-was-einem-laden-passieren-kann-a-edba42ce-d5df-4025-99f2-80780cae96f2#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/auschwitz-gedenkstaettenleiter-heute-vergewaltigt-toetet-und-missbraucht-ein-teil-der-befreier-von-damals](https://www.spiegel.de/panorama/gesellschaft/auschwitz-gedenkstaettenleiter-heute-vergewaltigt-toetet-und-missbraucht-ein-teil-der-befreier-von-damals-a-fb924b66-38d0-4aec-ade1-ad66a18513e6#ref=rss)
+### aufgefunden
 
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-nina-ortlieb-und-tereza-nova-stuerzen-bei-abfahrt-in-garmisch-partenkirchen-schwer](https://www.spiegel.de/sport/wintersport/ski-alpin-nina-ortlieb-und-tereza-nova-stuerzen-bei-abfahrt-in-garmisch-partenkirchen-schwer-a-d4cc5546-2e89-439b-b685-5cdd06aec7fc#ref=rss)
-### momente
+* [https://www.spiegel.de/panorama/justiz/landkreis-goettingen-81-jaehriger-tot-aufgefunden-untermieterin-auf-der-flucht](https://www.spiegel.de/panorama/justiz/landkreis-goettingen-81-jaehriger-tot-aufgefunden-untermieterin-auf-der-flucht-a-6fa43659-5ee8-43a1-91a1-787706301f13#ref=rss)
+### untermieterin
 
-* [https://www.spiegel.de/familie/erinnerung-an-die-momente-der-kindheit-der-eigenen-kinder](https://www.spiegel.de/familie/erinnerung-an-die-momente-der-kindheit-der-eigenen-kinder-a-ca2c146f-a676-4796-bf24-543728174c86#ref=rss)
-### kindheit
+* [https://www.spiegel.de/panorama/justiz/landkreis-goettingen-81-jaehriger-tot-aufgefunden-untermieterin-auf-der-flucht](https://www.spiegel.de/panorama/justiz/landkreis-goettingen-81-jaehriger-tot-aufgefunden-untermieterin-auf-der-flucht-a-6fa43659-5ee8-43a1-91a1-787706301f13#ref=rss)
+### geld
 
-* [https://www.spiegel.de/familie/erinnerung-an-die-momente-der-kindheit-der-eigenen-kinder](https://www.spiegel.de/familie/erinnerung-an-die-momente-der-kindheit-der-eigenen-kinder-a-ca2c146f-a676-4796-bf24-543728174c86#ref=rss)
-### 21
+* [https://www.spiegel.de/wirtschaft/pflegeversicherung-finanzlage-wird-zunehmend-bedrohlicher](https://www.spiegel.de/wirtschaft/pflegeversicherung-finanzlage-wird-zunehmend-bedrohlicher-a-03377d14-9ed2-4d67-939c-3693d2e3f1e3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-gemeinden-erleben-unerwarteten-ansturm-auf-wahlhelfer-posten](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-gemeinden-erleben-unerwarteten-ansturm-auf-wahlhelfer-posten-a-219205f3-abcb-432c-a438-7d1c98c9a655#ref=rss)
+### kz
 
-* [https://www.spiegel.de/geschichte/deutschland-und-weltweite-krisen-im-21-jahrhundert-blick-des-historikers-timothy-garton-ash](https://www.spiegel.de/geschichte/deutschland-und-weltweite-krisen-im-21-jahrhundert-blick-des-historikers-timothy-garton-ash-a-ba6097c5-8bfc-479e-9f9c-27f718a12823#ref=rss)
-### timothy
+* [https://www.spiegel.de/geschichte/kz-auschwitz-80-jahrestag-der-befreiung-was-im-kz-auschwitz-geschah](https://www.spiegel.de/geschichte/kz-auschwitz-80-jahrestag-der-befreiung-was-im-kz-auschwitz-geschah-a-e37da706-cf68-4138-9a30-260f07fbaec1#ref=rss)
+### 80
 
-* [https://www.spiegel.de/geschichte/deutschland-und-weltweite-krisen-im-21-jahrhundert-blick-des-historikers-timothy-garton-ash](https://www.spiegel.de/geschichte/deutschland-und-weltweite-krisen-im-21-jahrhundert-blick-des-historikers-timothy-garton-ash-a-ba6097c5-8bfc-479e-9f9c-27f718a12823#ref=rss)
-### garton
+* [https://www.spiegel.de/geschichte/kz-auschwitz-80-jahrestag-der-befreiung-was-im-kz-auschwitz-geschah](https://www.spiegel.de/geschichte/kz-auschwitz-80-jahrestag-der-befreiung-was-im-kz-auschwitz-geschah-a-e37da706-cf68-4138-9a30-260f07fbaec1#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/auschwitz-gedenkstaettenleiter-heute-vergewaltigt-toetet-und-missbraucht-ein-teil-der-befreier-von-damals](https://www.spiegel.de/panorama/gesellschaft/auschwitz-gedenkstaettenleiter-heute-vergewaltigt-toetet-und-missbraucht-ein-teil-der-befreier-von-damals-a-fb924b66-38d0-4aec-ade1-ad66a18513e6#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/geschichte/deutschland-und-weltweite-krisen-im-21-jahrhundert-blick-des-historikers-timothy-garton-ash](https://www.spiegel.de/geschichte/deutschland-und-weltweite-krisen-im-21-jahrhundert-blick-des-historikers-timothy-garton-ash-a-ba6097c5-8bfc-479e-9f9c-27f718a12823#ref=rss)
-### ash
+* [https://www.spiegel.de/panorama/gesellschaft/auschwitz-gedenkstaettenleiter-heute-vergewaltigt-toetet-und-missbraucht-ein-teil-der-befreier-von-damals](https://www.spiegel.de/panorama/gesellschaft/auschwitz-gedenkstaettenleiter-heute-vergewaltigt-toetet-und-missbraucht-ein-teil-der-befreier-von-damals-a-fb924b66-38d0-4aec-ade1-ad66a18513e6#ref=rss)
+* [https://www.spiegel.de/gesundheit/gesundheit-preise-fuer-heilmittel-extrem-gestiegen](https://www.spiegel.de/gesundheit/gesundheit-preise-fuer-heilmittel-extrem-gestiegen-a-ac5fd836-64e8-47bd-b92a-44c0b6669eed#ref=rss)
+### franz
 
-* [https://www.spiegel.de/geschichte/deutschland-und-weltweite-krisen-im-21-jahrhundert-blick-des-historikers-timothy-garton-ash](https://www.spiegel.de/geschichte/deutschland-und-weltweite-krisen-im-21-jahrhundert-blick-des-historikers-timothy-garton-ash-a-ba6097c5-8bfc-479e-9f9c-27f718a12823#ref=rss)
-### chemnitz
+* [https://www.spiegel.de/sport/basketball/nba-franz-wagner-ueberragt-nach-comeback-bei-sieg-von-orlando-magic-gegen-detroit-pistons](https://www.spiegel.de/sport/basketball/nba-franz-wagner-ueberragt-nach-comeback-bei-sieg-von-orlando-magic-gegen-detroit-pistons-a-363f826a-488a-4350-af38-79dfcd0de82e#ref=rss)
+### sieg
 
-* [https://www.spiegel.de/panorama/justiz/chemnitz-grosse-gruppe-aus-dem-dem-rechts-motivierten-spektrum-wollte-bar-besucher-angreifen-staatsschutz-ermittelt](https://www.spiegel.de/panorama/justiz/chemnitz-grosse-gruppe-aus-dem-dem-rechts-motivierten-spektrum-wollte-bar-besucher-angreifen-staatsschutz-ermittelt-a-33d65ab1-fac1-416b-94db-6ce841136704#ref=rss)
-### spektrum
+* [https://www.spiegel.de/sport/basketball/nba-franz-wagner-ueberragt-nach-comeback-bei-sieg-von-orlando-magic-gegen-detroit-pistons](https://www.spiegel.de/sport/basketball/nba-franz-wagner-ueberragt-nach-comeback-bei-sieg-von-orlando-magic-gegen-detroit-pistons-a-363f826a-488a-4350-af38-79dfcd0de82e#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-schlaegt-hertha-bsc-in-turbulentem-topspiel](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-schlaegt-hertha-bsc-in-turbulentem-topspiel-a-e6d87538-c14b-4dc0-b942-5ffefdfea3fe#ref=rss)
+### orlando
 
-* [https://www.spiegel.de/panorama/justiz/chemnitz-grosse-gruppe-aus-dem-dem-rechts-motivierten-spektrum-wollte-bar-besucher-angreifen-staatsschutz-ermittelt](https://www.spiegel.de/panorama/justiz/chemnitz-grosse-gruppe-aus-dem-dem-rechts-motivierten-spektrum-wollte-bar-besucher-angreifen-staatsschutz-ermittelt-a-33d65ab1-fac1-416b-94db-6ce841136704#ref=rss)
+* [https://www.spiegel.de/sport/basketball/nba-franz-wagner-ueberragt-nach-comeback-bei-sieg-von-orlando-magic-gegen-detroit-pistons](https://www.spiegel.de/sport/basketball/nba-franz-wagner-ueberragt-nach-comeback-bei-sieg-von-orlando-magic-gegen-detroit-pistons-a-363f826a-488a-4350-af38-79dfcd0de82e#ref=rss)
+### magic
+
+* [https://www.spiegel.de/sport/basketball/nba-franz-wagner-ueberragt-nach-comeback-bei-sieg-von-orlando-magic-gegen-detroit-pistons](https://www.spiegel.de/sport/basketball/nba-franz-wagner-ueberragt-nach-comeback-bei-sieg-von-orlando-magic-gegen-detroit-pistons-a-363f826a-488a-4350-af38-79dfcd0de82e#ref=rss)
+### cartoons
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-und-chappatte-merz-auf-kurs](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-und-chappatte-merz-auf-kurs-a-d7141fb4-c350-4d1b-82af-ce7022683267#ref=rss)
+### 2025
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-gemeinden-erleben-unerwarteten-ansturm-auf-wahlhelfer-posten](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-gemeinden-erleben-unerwarteten-ansturm-auf-wahlhelfer-posten-a-219205f3-abcb-432c-a438-7d1c98c9a655#ref=rss)
+* [https://www.spiegel.de/sport/handball/handball-wm-deutschland-gewinnt-muehelos-gegen-tunesien](https://www.spiegel.de/sport/handball/handball-wm-deutschland-gewinnt-muehelos-gegen-tunesien-a-e23ba9fc-0496-4ebe-8397-40c7ddf42197#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-nutzt-die-gewalttat-von-aschaffenburg-fuer-markige-rhetorik](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-nutzt-die-gewalttat-von-aschaffenburg-fuer-markige-rhetorik-a-c8b2a5a9-9b6b-4002-921d-bac077665fac#ref=rss)
+### nutzt
+
+* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-nutzt-die-gewalttat-von-aschaffenburg-fuer-markige-rhetorik](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-nutzt-die-gewalttat-von-aschaffenburg-fuer-markige-rhetorik-a-c8b2a5a9-9b6b-4002-921d-bac077665fac#ref=rss)
+### aschaffenburg
+
+* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-nutzt-die-gewalttat-von-aschaffenburg-fuer-markige-rhetorik](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-nutzt-die-gewalttat-von-aschaffenburg-fuer-markige-rhetorik-a-c8b2a5a9-9b6b-4002-921d-bac077665fac#ref=rss)
+### markige
+
+* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-nutzt-die-gewalttat-von-aschaffenburg-fuer-markige-rhetorik](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-nutzt-die-gewalttat-von-aschaffenburg-fuer-markige-rhetorik-a-c8b2a5a9-9b6b-4002-921d-bac077665fac#ref=rss)
+### union
+
+* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-nutzt-die-gewalttat-von-aschaffenburg-fuer-markige-rhetorik](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-nutzt-die-gewalttat-von-aschaffenburg-fuer-markige-rhetorik-a-c8b2a5a9-9b6b-4002-921d-bac077665fac#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/verhandlungen-ueber-gesetz-zum-schutz-von-rettungskraeften-gescheitert](https://www.spiegel.de/politik/deutschland/verhandlungen-ueber-gesetz-zum-schutz-von-rettungskraeften-gescheitert-a-f10e7447-7193-4c55-9e7c-1d872fd2d4f2#ref=rss)
+### lage
+
+* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-nutzt-die-gewalttat-von-aschaffenburg-fuer-markige-rhetorik](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-nutzt-die-gewalttat-von-aschaffenburg-fuer-markige-rhetorik-a-c8b2a5a9-9b6b-4002-921d-bac077665fac#ref=rss)
+* [https://www.spiegel.de/ausland/kongo-neun-suedafrikanische-soldaten-sterben-bei-kaempfen-uno-zieht-personal-ab](https://www.spiegel.de/ausland/kongo-neun-suedafrikanische-soldaten-sterben-bei-kaempfen-uno-zieht-personal-ab-a-15e2b7a9-40fa-4f55-aab5-2e6ac6422940#ref=rss)
+### sonntag
+
+* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-nutzt-die-gewalttat-von-aschaffenburg-fuer-markige-rhetorik](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-nutzt-die-gewalttat-von-aschaffenburg-fuer-markige-rhetorik-a-c8b2a5a9-9b6b-4002-921d-bac077665fac#ref=rss)
+* [https://www.spiegel.de/ausland/kongo-neun-suedafrikanische-soldaten-sterben-bei-kaempfen-uno-zieht-personal-ab](https://www.spiegel.de/ausland/kongo-neun-suedafrikanische-soldaten-sterben-bei-kaempfen-uno-zieht-personal-ab-a-15e2b7a9-40fa-4f55-aab5-2e6ac6422940#ref=rss)
+### krankenkassen
+
+* [https://www.spiegel.de/gesundheit/gesundheit-preise-fuer-heilmittel-extrem-gestiegen](https://www.spiegel.de/gesundheit/gesundheit-preise-fuer-heilmittel-extrem-gestiegen-a-ac5fd836-64e8-47bd-b92a-44c0b6669eed#ref=rss)
+### heilmittel
+
+* [https://www.spiegel.de/gesundheit/gesundheit-preise-fuer-heilmittel-extrem-gestiegen](https://www.spiegel.de/gesundheit/gesundheit-preise-fuer-heilmittel-extrem-gestiegen-a-ac5fd836-64e8-47bd-b92a-44c0b6669eed#ref=rss)
+### éowyn
+
+* [https://www.spiegel.de/panorama/sturm-in-irland-und-grossbritannien-hunderttausende-haushalte-nach-eowyn-noch-immer-ohne-strom](https://www.spiegel.de/panorama/sturm-in-irland-und-grossbritannien-hunderttausende-haushalte-nach-eowyn-noch-immer-ohne-strom-a-01fef188-75c6-4891-bda3-bca1826d59eb#ref=rss)
+### irland
+
+* [https://www.spiegel.de/panorama/sturm-in-irland-und-grossbritannien-hunderttausende-haushalte-nach-eowyn-noch-immer-ohne-strom](https://www.spiegel.de/panorama/sturm-in-irland-und-grossbritannien-hunderttausende-haushalte-nach-eowyn-noch-immer-ohne-strom-a-01fef188-75c6-4891-bda3-bca1826d59eb#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/panorama/sturm-in-irland-und-grossbritannien-hunderttausende-haushalte-nach-eowyn-noch-immer-ohne-strom](https://www.spiegel.de/panorama/sturm-in-irland-und-grossbritannien-hunderttausende-haushalte-nach-eowyn-noch-immer-ohne-strom-a-01fef188-75c6-4891-bda3-bca1826d59eb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wolfgang-schmidt-jetzt-muss-der-oberste-scholz-verteidiger-fuer-sich-selbst-kaempfen](https://www.spiegel.de/politik/deutschland/wolfgang-schmidt-jetzt-muss-der-oberste-scholz-verteidiger-fuer-sich-selbst-kaempfen-a-5a235617-0d2d-47bf-b003-f716e61a2500#ref=rss)
+### tagen
+
+* [https://www.spiegel.de/panorama/sturm-in-irland-und-grossbritannien-hunderttausende-haushalte-nach-eowyn-noch-immer-ohne-strom](https://www.spiegel.de/panorama/sturm-in-irland-und-grossbritannien-hunderttausende-haushalte-nach-eowyn-noch-immer-ohne-strom-a-01fef188-75c6-4891-bda3-bca1826d59eb#ref=rss)
+* [https://www.spiegel.de/ausland/kongo-neun-suedafrikanische-soldaten-sterben-bei-kaempfen-uno-zieht-personal-ab](https://www.spiegel.de/ausland/kongo-neun-suedafrikanische-soldaten-sterben-bei-kaempfen-uno-zieht-personal-ab-a-15e2b7a9-40fa-4f55-aab5-2e6ac6422940#ref=rss)
+### fc
+
+* [https://www.spiegel.de/sport/fussball/fussball-sieg-gegen-freiburg-der-fc-bayern-ist-ein-topteam-aber-nur-in-der-bundesliga](https://www.spiegel.de/sport/fussball/fussball-sieg-gegen-freiburg-der-fc-bayern-ist-ein-topteam-aber-nur-in-der-bundesliga-a-a6787db5-7992-4842-8754-6748eadcf8ba#ref=rss)
+### ließ
+
+* [https://www.spiegel.de/sport/fussball/fussball-sieg-gegen-freiburg-der-fc-bayern-ist-ein-topteam-aber-nur-in-der-bundesliga](https://www.spiegel.de/sport/fussball/fussball-sieg-gegen-freiburg-der-fc-bayern-ist-ein-topteam-aber-nur-in-der-bundesliga-a-a6787db5-7992-4842-8754-6748eadcf8ba#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-schlaegt-umsiedlung-des-gazastreifens-nach-aegypten-und-jordanien-vor](https://www.spiegel.de/ausland/donald-trump-schlaegt-umsiedlung-des-gazastreifens-nach-aegypten-und-jordanien-vor-a-e808dbc9-3a20-4ba8-90f3-bd23761f1214#ref=rss)
+### ampelkoalition
+
+* [https://www.spiegel.de/politik/deutschland/verhandlungen-ueber-gesetz-zum-schutz-von-rettungskraeften-gescheitert](https://www.spiegel.de/politik/deutschland/verhandlungen-ueber-gesetz-zum-schutz-von-rettungskraeften-gescheitert-a-f10e7447-7193-4c55-9e7c-1d872fd2d4f2#ref=rss)
+### schutz
+
+* [https://www.spiegel.de/politik/deutschland/verhandlungen-ueber-gesetz-zum-schutz-von-rettungskraeften-gescheitert](https://www.spiegel.de/politik/deutschland/verhandlungen-ueber-gesetz-zum-schutz-von-rettungskraeften-gescheitert-a-f10e7447-7193-4c55-9e7c-1d872fd2d4f2#ref=rss)
+### rettungskräften
+
+* [https://www.spiegel.de/politik/deutschland/verhandlungen-ueber-gesetz-zum-schutz-von-rettungskraeften-gescheitert](https://www.spiegel.de/politik/deutschland/verhandlungen-ueber-gesetz-zum-schutz-von-rettungskraeften-gescheitert-a-f10e7447-7193-4c55-9e7c-1d872fd2d4f2#ref=rss)
+### nordsee
+
+* [https://www.spiegel.de/wirtschaft/service/offshore-windparks-windstromproduktion-in-der-nordsee-steigt-um-acht-prozent](https://www.spiegel.de/wirtschaft/service/offshore-windparks-windstromproduktion-in-der-nordsee-steigt-um-acht-prozent-a-0709041f-0644-4e9f-af1d-6d00307b17d8#ref=rss)
+### kumbh
+
+* [https://www.spiegel.de/ausland/indien-besuch-beim-kumbh-mela-baden-mit-250-millionen-hindus](https://www.spiegel.de/ausland/indien-besuch-beim-kumbh-mela-baden-mit-250-millionen-hindus-a-eee563ad-6dd0-47ec-80da-9fc3be80571a#ref=rss)
+### mela
+
+* [https://www.spiegel.de/ausland/indien-besuch-beim-kumbh-mela-baden-mit-250-millionen-hindus](https://www.spiegel.de/ausland/indien-besuch-beim-kumbh-mela-baden-mit-250-millionen-hindus-a-eee563ad-6dd0-47ec-80da-9fc3be80571a#ref=rss)
+### 250
+
+* [https://www.spiegel.de/ausland/indien-besuch-beim-kumbh-mela-baden-mit-250-millionen-hindus](https://www.spiegel.de/ausland/indien-besuch-beim-kumbh-mela-baden-mit-250-millionen-hindus-a-eee563ad-6dd0-47ec-80da-9fc3be80571a#ref=rss)
+### belarus
+
+* [https://www.spiegel.de/ausland/belarus-lukaschenko-plant-fuenf-weitere-jahre-als-praesident](https://www.spiegel.de/ausland/belarus-lukaschenko-plant-fuenf-weitere-jahre-als-praesident-a-b2d3752e-28fa-4da6-a9fa-bebb7c233181#ref=rss)
+### lukaschenko
+
+* [https://www.spiegel.de/ausland/belarus-lukaschenko-plant-fuenf-weitere-jahre-als-praesident](https://www.spiegel.de/ausland/belarus-lukaschenko-plant-fuenf-weitere-jahre-als-praesident-a-b2d3752e-28fa-4da6-a9fa-bebb7c233181#ref=rss)
+### fünf
+
+* [https://www.spiegel.de/ausland/belarus-lukaschenko-plant-fuenf-weitere-jahre-als-praesident](https://www.spiegel.de/ausland/belarus-lukaschenko-plant-fuenf-weitere-jahre-als-praesident-a-b2d3752e-28fa-4da6-a9fa-bebb7c233181#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/ausland/belarus-lukaschenko-plant-fuenf-weitere-jahre-als-praesident](https://www.spiegel.de/ausland/belarus-lukaschenko-plant-fuenf-weitere-jahre-als-praesident-a-b2d3752e-28fa-4da6-a9fa-bebb7c233181#ref=rss)
+### präsident
+
+* [https://www.spiegel.de/ausland/belarus-lukaschenko-plant-fuenf-weitere-jahre-als-praesident](https://www.spiegel.de/ausland/belarus-lukaschenko-plant-fuenf-weitere-jahre-als-praesident-a-b2d3752e-28fa-4da6-a9fa-bebb7c233181#ref=rss)
+* [https://www.spiegel.de/ausland/usa-der-rachefeldzug-des-donald-trump](https://www.spiegel.de/ausland/usa-der-rachefeldzug-des-donald-trump-a-c5e3b645-ee2d-447e-b3a4-f543b29dfd3f#ref=rss)
+### wahlkampf
+
+* [https://www.spiegel.de/panorama/wahlkampf-und-der-laendliche-raum-warum-interessiert-ihr-euch-nicht-fuer-die-provinz](https://www.spiegel.de/panorama/wahlkampf-und-der-laendliche-raum-warum-interessiert-ihr-euch-nicht-fuer-die-provinz-a-6df8b674-81c4-4c78-a086-b665ddf2e7a8#ref=rss)
+### ländliche
+
+* [https://www.spiegel.de/panorama/wahlkampf-und-der-laendliche-raum-warum-interessiert-ihr-euch-nicht-fuer-die-provinz](https://www.spiegel.de/panorama/wahlkampf-und-der-laendliche-raum-warum-interessiert-ihr-euch-nicht-fuer-die-provinz-a-6df8b674-81c4-4c78-a086-b665ddf2e7a8#ref=rss)
+### wolfgang
+
+* [https://www.spiegel.de/politik/deutschland/wolfgang-schmidt-jetzt-muss-der-oberste-scholz-verteidiger-fuer-sich-selbst-kaempfen](https://www.spiegel.de/politik/deutschland/wolfgang-schmidt-jetzt-muss-der-oberste-scholz-verteidiger-fuer-sich-selbst-kaempfen-a-5a235617-0d2d-47bf-b003-f716e61a2500#ref=rss)
+### schmidt
+
+* [https://www.spiegel.de/politik/deutschland/wolfgang-schmidt-jetzt-muss-der-oberste-scholz-verteidiger-fuer-sich-selbst-kaempfen](https://www.spiegel.de/politik/deutschland/wolfgang-schmidt-jetzt-muss-der-oberste-scholz-verteidiger-fuer-sich-selbst-kaempfen-a-5a235617-0d2d-47bf-b003-f716e61a2500#ref=rss)
+### kämpfen
+
+* [https://www.spiegel.de/politik/deutschland/wolfgang-schmidt-jetzt-muss-der-oberste-scholz-verteidiger-fuer-sich-selbst-kaempfen](https://www.spiegel.de/politik/deutschland/wolfgang-schmidt-jetzt-muss-der-oberste-scholz-verteidiger-fuer-sich-selbst-kaempfen-a-5a235617-0d2d-47bf-b003-f716e61a2500#ref=rss)
+* [https://www.spiegel.de/ausland/kongo-neun-suedafrikanische-soldaten-sterben-bei-kaempfen-uno-zieht-personal-ab](https://www.spiegel.de/ausland/kongo-neun-suedafrikanische-soldaten-sterben-bei-kaempfen-uno-zieht-personal-ab-a-15e2b7a9-40fa-4f55-aab5-2e6ac6422940#ref=rss)
+### schlägt
+
+* [https://www.spiegel.de/ausland/donald-trump-schlaegt-umsiedlung-des-gazastreifens-nach-aegypten-und-jordanien-vor](https://www.spiegel.de/ausland/donald-trump-schlaegt-umsiedlung-des-gazastreifens-nach-aegypten-und-jordanien-vor-a-e808dbc9-3a20-4ba8-90f3-bd23761f1214#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-schlaegt-hertha-bsc-in-turbulentem-topspiel](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-schlaegt-hertha-bsc-in-turbulentem-topspiel-a-e6d87538-c14b-4dc0-b942-5ffefdfea3fe#ref=rss)
+### uspräsident
+
+* [https://www.spiegel.de/ausland/donald-trump-schlaegt-umsiedlung-des-gazastreifens-nach-aegypten-und-jordanien-vor](https://www.spiegel.de/ausland/donald-trump-schlaegt-umsiedlung-des-gazastreifens-nach-aegypten-und-jordanien-vor-a-e808dbc9-3a20-4ba8-90f3-bd23761f1214#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-scherzt-in-las-vegas-ueber-weitere-amtszeit-und-ein-groesseres-land](https://www.spiegel.de/ausland/donald-trump-scherzt-in-las-vegas-ueber-weitere-amtszeit-und-ein-groesseres-land-a-78036b9d-91bd-4e85-8515-f6c1bf9849e4#ref=rss)
+### neue
+
+* [https://www.spiegel.de/ausland/usa-der-rachefeldzug-des-donald-trump](https://www.spiegel.de/ausland/usa-der-rachefeldzug-des-donald-trump-a-c5e3b645-ee2d-447e-b3a4-f543b29dfd3f#ref=rss)
+* [https://www.spiegel.de/sport/handball/handball-wm-deutschland-gewinnt-muehelos-gegen-tunesien](https://www.spiegel.de/sport/handball/handball-wm-deutschland-gewinnt-muehelos-gegen-tunesien-a-e23ba9fc-0496-4ebe-8397-40c7ddf42197#ref=rss)
+### las
+
+* [https://www.spiegel.de/ausland/donald-trump-scherzt-in-las-vegas-ueber-weitere-amtszeit-und-ein-groesseres-land](https://www.spiegel.de/ausland/donald-trump-scherzt-in-las-vegas-ueber-weitere-amtszeit-und-ein-groesseres-land-a-78036b9d-91bd-4e85-8515-f6c1bf9849e4#ref=rss)
+### vegas
+
+* [https://www.spiegel.de/ausland/donald-trump-scherzt-in-las-vegas-ueber-weitere-amtszeit-und-ein-groesseres-land](https://www.spiegel.de/ausland/donald-trump-scherzt-in-las-vegas-ueber-weitere-amtszeit-und-ein-groesseres-land-a-78036b9d-91bd-4e85-8515-f6c1bf9849e4#ref=rss)
+### zeit
+
+* [https://www.spiegel.de/ausland/donald-trump-scherzt-in-las-vegas-ueber-weitere-amtszeit-und-ein-groesseres-land](https://www.spiegel.de/ausland/donald-trump-scherzt-in-las-vegas-ueber-weitere-amtszeit-und-ein-groesseres-land-a-78036b9d-91bd-4e85-8515-f6c1bf9849e4#ref=rss)
+* [https://www.spiegel.de/politik/demokratie-in-gefahr-elf-regeln-gegen-autoritaere-bedrohungen](https://www.spiegel.de/politik/demokratie-in-gefahr-elf-regeln-gegen-autoritaere-bedrohungen-a-9be87a48-0557-4c78-a177-71218edfb1be#ref=rss)
+### kongo
+
+* [https://www.spiegel.de/ausland/kongo-neun-suedafrikanische-soldaten-sterben-bei-kaempfen-uno-zieht-personal-ab](https://www.spiegel.de/ausland/kongo-neun-suedafrikanische-soldaten-sterben-bei-kaempfen-uno-zieht-personal-ab-a-15e2b7a9-40fa-4f55-aab5-2e6ac6422940#ref=rss)
+### uno
+
+* [https://www.spiegel.de/ausland/kongo-neun-suedafrikanische-soldaten-sterben-bei-kaempfen-uno-zieht-personal-ab](https://www.spiegel.de/ausland/kongo-neun-suedafrikanische-soldaten-sterben-bei-kaempfen-uno-zieht-personal-ab-a-15e2b7a9-40fa-4f55-aab5-2e6ac6422940#ref=rss)
+### hamburger
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-schlaegt-hertha-bsc-in-turbulentem-topspiel](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-schlaegt-hertha-bsc-in-turbulentem-topspiel-a-e6d87538-c14b-4dc0-b942-5ffefdfea3fe#ref=rss)
+### sv
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-schlaegt-hertha-bsc-in-turbulentem-topspiel](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-schlaegt-hertha-bsc-in-turbulentem-topspiel-a-e6d87538-c14b-4dc0-b942-5ffefdfea3fe#ref=rss)
+### hertha
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-schlaegt-hertha-bsc-in-turbulentem-topspiel](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-schlaegt-hertha-bsc-in-turbulentem-topspiel-a-e6d87538-c14b-4dc0-b942-5ffefdfea3fe#ref=rss)
+### bsc
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-schlaegt-hertha-bsc-in-turbulentem-topspiel](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-schlaegt-hertha-bsc-in-turbulentem-topspiel-a-e6d87538-c14b-4dc0-b942-5ffefdfea3fe#ref=rss)
+### bleibt
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-schlaegt-hertha-bsc-in-turbulentem-topspiel](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-schlaegt-hertha-bsc-in-turbulentem-topspiel-a-e6d87538-c14b-4dc0-b942-5ffefdfea3fe#ref=rss)
+* [https://www.spiegel.de/sport/handball/handball-wm-deutschland-gewinnt-muehelos-gegen-tunesien](https://www.spiegel.de/sport/handball/handball-wm-deutschland-gewinnt-muehelos-gegen-tunesien-a-e23ba9fc-0496-4ebe-8397-40c7ddf42197#ref=rss)
+### gefahr
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-schlaegt-hertha-bsc-in-turbulentem-topspiel](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-schlaegt-hertha-bsc-in-turbulentem-topspiel-a-e6d87538-c14b-4dc0-b942-5ffefdfea3fe#ref=rss)
+* [https://www.spiegel.de/politik/demokratie-in-gefahr-elf-regeln-gegen-autoritaere-bedrohungen](https://www.spiegel.de/politik/demokratie-in-gefahr-elf-regeln-gegen-autoritaere-bedrohungen-a-9be87a48-0557-4c78-a177-71218edfb1be#ref=rss)
+### harry
+
+* [https://www.spiegel.de/panorama/leute/harry-styles-taylor-swift-und-der-falsch-taetowierte-songtext](https://www.spiegel.de/panorama/leute/harry-styles-taylor-swift-und-der-falsch-taetowierte-songtext-a-63e8b3b2-d63d-4982-a5e1-adf083385f4e#ref=rss)
+### styles
+
+* [https://www.spiegel.de/panorama/leute/harry-styles-taylor-swift-und-der-falsch-taetowierte-songtext](https://www.spiegel.de/panorama/leute/harry-styles-taylor-swift-und-der-falsch-taetowierte-songtext-a-63e8b3b2-d63d-4982-a5e1-adf083385f4e#ref=rss)
+### taylor
+
+* [https://www.spiegel.de/panorama/leute/harry-styles-taylor-swift-und-der-falsch-taetowierte-songtext](https://www.spiegel.de/panorama/leute/harry-styles-taylor-swift-und-der-falsch-taetowierte-songtext-a-63e8b3b2-d63d-4982-a5e1-adf083385f4e#ref=rss)
+### swift
+
+* [https://www.spiegel.de/panorama/leute/harry-styles-taylor-swift-und-der-falsch-taetowierte-songtext](https://www.spiegel.de/panorama/leute/harry-styles-taylor-swift-und-der-falsch-taetowierte-songtext-a-63e8b3b2-d63d-4982-a5e1-adf083385f4e#ref=rss)
+### falsch
+
+* [https://www.spiegel.de/panorama/leute/harry-styles-taylor-swift-und-der-falsch-taetowierte-songtext](https://www.spiegel.de/panorama/leute/harry-styles-taylor-swift-und-der-falsch-taetowierte-songtext-a-63e8b3b2-d63d-4982-a5e1-adf083385f4e#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-dfb-raeumt-fehlentscheidung-bei-tor-fuer-borussia-dortmund-ein](https://www.spiegel.de/sport/fussball/fussball-bundesliga-dfb-raeumt-fehlentscheidung-bei-tor-fuer-borussia-dortmund-ein-a-fef8b1db-d2cd-478e-85f5-9d7c0cadfcc9#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/sport/handball/handball-wm-deutschland-gewinnt-muehelos-gegen-tunesien](https://www.spiegel.de/sport/handball/handball-wm-deutschland-gewinnt-muehelos-gegen-tunesien-a-e23ba9fc-0496-4ebe-8397-40c7ddf42197#ref=rss)
+### tunesien
+
+* [https://www.spiegel.de/sport/handball/handball-wm-deutschland-gewinnt-muehelos-gegen-tunesien](https://www.spiegel.de/sport/handball/handball-wm-deutschland-gewinnt-muehelos-gegen-tunesien-a-e23ba9fc-0496-4ebe-8397-40c7ddf42197#ref=rss)
+### demokratie
+
+* [https://www.spiegel.de/politik/demokratie-in-gefahr-elf-regeln-gegen-autoritaere-bedrohungen](https://www.spiegel.de/politik/demokratie-in-gefahr-elf-regeln-gegen-autoritaere-bedrohungen-a-9be87a48-0557-4c78-a177-71218edfb1be#ref=rss)
+### deutscher
+
+* [https://www.spiegel.de/panorama/justiz/vermont-deutscher-und-grenzschuetzer-bei-schusswechsel-getoetet](https://www.spiegel.de/panorama/justiz/vermont-deutscher-und-grenzschuetzer-bei-schusswechsel-getoetet-a-a00c162e-1f9b-438e-87bb-17cbb737560d#ref=rss)
 
