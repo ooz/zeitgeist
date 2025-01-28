@@ -4,380 +4,265 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### trump
-
-* [https://www.spiegel.de/panorama/leute/melania-trump-erstes-portraetfoto-zeigt-selbstbewusste-first-lady](https://www.spiegel.de/panorama/leute/melania-trump-erstes-portraetfoto-zeigt-selbstbewusste-first-lady-a-14753d4a-a8c2-4aa7-a0f3-5ddc033df77f#ref=rss)
-* [https://www.spiegel.de/politik/groenland-plaene-von-donald-trump-olaf-scholz-warnt-vor-gewaltsamen-grenzverschiebungen](https://www.spiegel.de/politik/groenland-plaene-von-donald-trump-olaf-scholz-warnt-vor-gewaltsamen-grenzverschiebungen-a-6e524aee-a763-4975-8ff1-c8041c9421b1#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-verstaerkt-grenzschutz-mit-militaer-und-stacheldraht](https://www.spiegel.de/ausland/usa-donald-trump-verstaerkt-grenzschutz-mit-militaer-und-stacheldraht-a-c19a4305-9038-49b1-8cb7-fe8110e1380a#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/tiktok-microsoft-verhandelt-laut-donald-trump-ebenfalls-ueber-kauf-von-videoplattform](https://www.spiegel.de/netzwelt/netzpolitik/tiktok-microsoft-verhandelt-laut-donald-trump-ebenfalls-ueber-kauf-von-videoplattform-a-c81c1728-2214-4e2a-b4e6-e97ef88de6e1#ref=rss)
-* [https://www.spiegel.de/panorama/leute/selena-gomez-weint-auf-instagram-ueber-donald-trumps-massenabschiebeplaene](https://www.spiegel.de/panorama/leute/selena-gomez-weint-auf-instagram-ueber-donald-trumps-massenabschiebeplaene-a-1c3a2d51-5dac-4cd8-9dc5-953586b2a77a#ref=rss)
-* [https://www.spiegel.de/ausland/usa-unter-donald-trump-die-revolver-diplomatie-des-us-praesidenten](https://www.spiegel.de/ausland/usa-unter-donald-trump-die-revolver-diplomatie-des-us-praesidenten-a-943e1ad9-d54f-40c9-98be-47a3c5c0230c#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-unterzeichnet-praesidiales-dekret-zur-verbannung-von-trans-personen-aus-dem-militaer](https://www.spiegel.de/ausland/usa-donald-trump-unterzeichnet-praesidiales-dekret-zur-verbannung-von-trans-personen-aus-dem-militaer-a-cd4ddf21-360f-4382-895a-37321347883a#ref=rss)
-* [https://www.spiegel.de/ausland/news-friedrich-merz-donald-trump-nvidia-gustavo-petro-mette-frederiksen-afd](https://www.spiegel.de/ausland/news-friedrich-merz-donald-trump-nvidia-gustavo-petro-mette-frederiksen-afd-a-c6f1170b-69a0-4cce-84ba-0a8aaedf629b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deepseek-aus-china-nvidia-mit-historischem-kurssturz-donald-trump-spricht-von-weckruf-fuer-usa](https://www.spiegel.de/wirtschaft/deepseek-aus-china-nvidia-mit-historischem-kurssturz-donald-trump-spricht-von-weckruf-fuer-usa-a-e19851c7-551f-4c76-86de-101c11a9ed2b#ref=rss)
-### donald
-
-* [https://www.spiegel.de/panorama/leute/melania-trump-erstes-portraetfoto-zeigt-selbstbewusste-first-lady](https://www.spiegel.de/panorama/leute/melania-trump-erstes-portraetfoto-zeigt-selbstbewusste-first-lady-a-14753d4a-a8c2-4aa7-a0f3-5ddc033df77f#ref=rss)
-* [https://www.spiegel.de/politik/groenland-plaene-von-donald-trump-olaf-scholz-warnt-vor-gewaltsamen-grenzverschiebungen](https://www.spiegel.de/politik/groenland-plaene-von-donald-trump-olaf-scholz-warnt-vor-gewaltsamen-grenzverschiebungen-a-6e524aee-a763-4975-8ff1-c8041c9421b1#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-verstaerkt-grenzschutz-mit-militaer-und-stacheldraht](https://www.spiegel.de/ausland/usa-donald-trump-verstaerkt-grenzschutz-mit-militaer-und-stacheldraht-a-c19a4305-9038-49b1-8cb7-fe8110e1380a#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/tiktok-microsoft-verhandelt-laut-donald-trump-ebenfalls-ueber-kauf-von-videoplattform](https://www.spiegel.de/netzwelt/netzpolitik/tiktok-microsoft-verhandelt-laut-donald-trump-ebenfalls-ueber-kauf-von-videoplattform-a-c81c1728-2214-4e2a-b4e6-e97ef88de6e1#ref=rss)
-* [https://www.spiegel.de/panorama/leute/selena-gomez-weint-auf-instagram-ueber-donald-trumps-massenabschiebeplaene](https://www.spiegel.de/panorama/leute/selena-gomez-weint-auf-instagram-ueber-donald-trumps-massenabschiebeplaene-a-1c3a2d51-5dac-4cd8-9dc5-953586b2a77a#ref=rss)
-* [https://www.spiegel.de/ausland/usa-unter-donald-trump-die-revolver-diplomatie-des-us-praesidenten](https://www.spiegel.de/ausland/usa-unter-donald-trump-die-revolver-diplomatie-des-us-praesidenten-a-943e1ad9-d54f-40c9-98be-47a3c5c0230c#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-unterzeichnet-praesidiales-dekret-zur-verbannung-von-trans-personen-aus-dem-militaer](https://www.spiegel.de/ausland/usa-donald-trump-unterzeichnet-praesidiales-dekret-zur-verbannung-von-trans-personen-aus-dem-militaer-a-cd4ddf21-360f-4382-895a-37321347883a#ref=rss)
-* [https://www.spiegel.de/ausland/news-friedrich-merz-donald-trump-nvidia-gustavo-petro-mette-frederiksen-afd](https://www.spiegel.de/ausland/news-friedrich-merz-donald-trump-nvidia-gustavo-petro-mette-frederiksen-afd-a-c6f1170b-69a0-4cce-84ba-0a8aaedf629b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deepseek-aus-china-nvidia-mit-historischem-kurssturz-donald-trump-spricht-von-weckruf-fuer-usa](https://www.spiegel.de/wirtschaft/deepseek-aus-china-nvidia-mit-historischem-kurssturz-donald-trump-spricht-von-weckruf-fuer-usa-a-e19851c7-551f-4c76-86de-101c11a9ed2b#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/usa-donald-trump-verstaerkt-grenzschutz-mit-militaer-und-stacheldraht](https://www.spiegel.de/ausland/usa-donald-trump-verstaerkt-grenzschutz-mit-militaer-und-stacheldraht-a-c19a4305-9038-49b1-8cb7-fe8110e1380a#ref=rss)
-* [https://www.spiegel.de/ausland/usa-unter-donald-trump-die-revolver-diplomatie-des-us-praesidenten](https://www.spiegel.de/ausland/usa-unter-donald-trump-die-revolver-diplomatie-des-us-praesidenten-a-943e1ad9-d54f-40c9-98be-47a3c5c0230c#ref=rss)
-* [https://www.spiegel.de/panorama/colorado-zuschauer-beim-hammerwerfen-toedlich-getroffen](https://www.spiegel.de/panorama/colorado-zuschauer-beim-hammerwerfen-toedlich-getroffen-a-9cdf2380-e5c9-47af-a3b6-17a076535942#ref=rss)
-* [https://www.spiegel.de/panorama/leute/doug-emhoff-ehemann-von-kamala-harris-arbeitet-wieder-als-anwalt](https://www.spiegel.de/panorama/leute/doug-emhoff-ehemann-von-kamala-harris-arbeitet-wieder-als-anwalt-a-1a40ddda-cf18-4255-a8a7-14d04738edb5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deepseek-aus-china-nvidia-mit-historischem-kurssturz-donald-trump-spricht-von-weckruf-fuer-usa](https://www.spiegel.de/wirtschaft/deepseek-aus-china-nvidia-mit-historischem-kurssturz-donald-trump-spricht-von-weckruf-fuer-usa-a-e19851c7-551f-4c76-86de-101c11a9ed2b#ref=rss)
-### steuererklärung
-
-* [https://www.spiegel.de/wirtschaft/steuererklaerung-so-sparen-sie-bei-der-steuererklaerung-viel-arbeit](https://www.spiegel.de/wirtschaft/steuererklaerung-so-sparen-sie-bei-der-steuererklaerung-viel-arbeit-a-7f96c71b-a96f-401b-83bc-103aedb8bb66#ref=rss)
-* [https://www.spiegel.de/wirtschaft/lohn-und-einkommenssteuer-steuererklaerung-fuer-anfaenger-so-geht-es-ohne-stress](https://www.spiegel.de/wirtschaft/lohn-und-einkommenssteuer-steuererklaerung-fuer-anfaenger-so-geht-es-ohne-stress-a-4e7f8f18-efc7-44c7-883a-c24e80bc097a#ref=rss)
-### erste
-
-* [https://www.spiegel.de/sport/borussia-moenchengladbach-warum-der-us-komponist-ari-benjamin-meyers-eine-neue-hymne-schrieb](https://www.spiegel.de/sport/borussia-moenchengladbach-warum-der-us-komponist-ari-benjamin-meyers-eine-neue-hymne-schrieb-a-ae3b5667-986c-4a77-b115-2c1a31d0a8c1#ref=rss)
-* [https://www.spiegel.de/panorama/leute/selena-gomez-weint-auf-instagram-ueber-donald-trumps-massenabschiebeplaene](https://www.spiegel.de/panorama/leute/selena-gomez-weint-auf-instagram-ueber-donald-trumps-massenabschiebeplaene-a-1c3a2d51-5dac-4cd8-9dc5-953586b2a77a#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-unterzeichnet-praesidiales-dekret-zur-verbannung-von-trans-personen-aus-dem-militaer](https://www.spiegel.de/ausland/usa-donald-trump-unterzeichnet-praesidiales-dekret-zur-verbannung-von-trans-personen-aus-dem-militaer-a-cd4ddf21-360f-4382-895a-37321347883a#ref=rss)
-* [https://www.spiegel.de/panorama/leute/doug-emhoff-ehemann-von-kamala-harris-arbeitet-wieder-als-anwalt](https://www.spiegel.de/panorama/leute/doug-emhoff-ehemann-von-kamala-harris-arbeitet-wieder-als-anwalt-a-1a40ddda-cf18-4255-a8a7-14d04738edb5#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/tiktok-microsoft-verhandelt-laut-donald-trump-ebenfalls-ueber-kauf-von-videoplattform](https://www.spiegel.de/netzwelt/netzpolitik/tiktok-microsoft-verhandelt-laut-donald-trump-ebenfalls-ueber-kauf-von-videoplattform-a-c81c1728-2214-4e2a-b4e6-e97ef88de6e1#ref=rss)
-* [https://www.spiegel.de/ausland/usa-unter-donald-trump-die-revolver-diplomatie-des-us-praesidenten](https://www.spiegel.de/ausland/usa-unter-donald-trump-die-revolver-diplomatie-des-us-praesidenten-a-943e1ad9-d54f-40c9-98be-47a3c5c0230c#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-unterzeichnet-praesidiales-dekret-zur-verbannung-von-trans-personen-aus-dem-militaer](https://www.spiegel.de/ausland/usa-donald-trump-unterzeichnet-praesidiales-dekret-zur-verbannung-von-trans-personen-aus-dem-militaer-a-cd4ddf21-360f-4382-895a-37321347883a#ref=rss)
-* [https://www.spiegel.de/ausland/news-friedrich-merz-donald-trump-nvidia-gustavo-petro-mette-frederiksen-afd](https://www.spiegel.de/ausland/news-friedrich-merz-donald-trump-nvidia-gustavo-petro-mette-frederiksen-afd-a-c6f1170b-69a0-4cce-84ba-0a8aaedf629b#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wirtschaft/service/inflation-so-teuer-ist-das-leben-in-deutschland-geworden](https://www.spiegel.de/wirtschaft/service/inflation-so-teuer-ist-das-leben-in-deutschland-geworden-a-220a5fa6-2773-4169-b318-7d2c258aee20#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutschland-ermoeglicht-grosse-lng-importe-von-russland-nach-europa](https://www.spiegel.de/wirtschaft/unternehmen/deutschland-ermoeglicht-grosse-lng-importe-von-russland-nach-europa-a-072ef6f0-6526-48ec-9772-37abbff70c1e#ref=rss)
-* [https://www.spiegel.de/ausland/news-friedrich-merz-donald-trump-nvidia-gustavo-petro-mette-frederiksen-afd](https://www.spiegel.de/ausland/news-friedrich-merz-donald-trump-nvidia-gustavo-petro-mette-frederiksen-afd-a-c6f1170b-69a0-4cce-84ba-0a8aaedf629b#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/panorama/leute/melania-trump-erstes-portraetfoto-zeigt-selbstbewusste-first-lady](https://www.spiegel.de/panorama/leute/melania-trump-erstes-portraetfoto-zeigt-selbstbewusste-first-lady-a-14753d4a-a8c2-4aa7-a0f3-5ddc033df77f#ref=rss)
-* [https://www.spiegel.de/panorama/leute/selena-gomez-weint-auf-instagram-ueber-donald-trumps-massenabschiebeplaene](https://www.spiegel.de/panorama/leute/selena-gomez-weint-auf-instagram-ueber-donald-trumps-massenabschiebeplaene-a-1c3a2d51-5dac-4cd8-9dc5-953586b2a77a#ref=rss)
-* [https://www.spiegel.de/ausland/news-friedrich-merz-donald-trump-nvidia-gustavo-petro-mette-frederiksen-afd](https://www.spiegel.de/ausland/news-friedrich-merz-donald-trump-nvidia-gustavo-petro-mette-frederiksen-afd-a-c6f1170b-69a0-4cce-84ba-0a8aaedf629b#ref=rss)
-### scholz
-
-* [https://www.spiegel.de/politik/groenland-plaene-von-donald-trump-olaf-scholz-warnt-vor-gewaltsamen-grenzverschiebungen](https://www.spiegel.de/politik/groenland-plaene-von-donald-trump-olaf-scholz-warnt-vor-gewaltsamen-grenzverschiebungen-a-6e524aee-a763-4975-8ff1-c8041c9421b1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/aktienvermoegen-merz-habeck-und-lindner-schweigen](https://www.spiegel.de/politik/deutschland/aktienvermoegen-merz-habeck-und-lindner-schweigen-a-583dfe49-6741-4c75-8801-158deebcea64#ref=rss)
-### ministerpräsident
-
-* [https://www.spiegel.de/politik/groenland-plaene-von-donald-trump-olaf-scholz-warnt-vor-gewaltsamen-grenzverschiebungen](https://www.spiegel.de/politik/groenland-plaene-von-donald-trump-olaf-scholz-warnt-vor-gewaltsamen-grenzverschiebungen-a-6e524aee-a763-4975-8ff1-c8041c9421b1#ref=rss)
-* [https://www.spiegel.de/ausland/serbien-ministerpraesident-milos-vucevic-tritt-zurueck](https://www.spiegel.de/ausland/serbien-ministerpraesident-milos-vucevic-tritt-zurueck-a-b7bf7c0d-5fea-4ac6-a926-7fa5e8ec6bee#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/aktienvermoegen-merz-habeck-und-lindner-schweigen](https://www.spiegel.de/politik/deutschland/aktienvermoegen-merz-habeck-und-lindner-schweigen-a-583dfe49-6741-4c75-8801-158deebcea64#ref=rss)
-* [https://www.spiegel.de/ausland/italien-bringt-im-dritten-anlauf-migranten-nach-albanien](https://www.spiegel.de/ausland/italien-bringt-im-dritten-anlauf-migranten-nach-albanien-a-8a2852b4-6359-401b-925b-751729bc11a4#ref=rss)
-* [https://www.spiegel.de/ausland/news-friedrich-merz-donald-trump-nvidia-gustavo-petro-mette-frederiksen-afd](https://www.spiegel.de/ausland/news-friedrich-merz-donald-trump-nvidia-gustavo-petro-mette-frederiksen-afd-a-c6f1170b-69a0-4cce-84ba-0a8aaedf629b#ref=rss)
-### neue
-
-* [https://www.spiegel.de/sport/borussia-moenchengladbach-warum-der-us-komponist-ari-benjamin-meyers-eine-neue-hymne-schrieb](https://www.spiegel.de/sport/borussia-moenchengladbach-warum-der-us-komponist-ari-benjamin-meyers-eine-neue-hymne-schrieb-a-ae3b5667-986c-4a77-b115-2c1a31d0a8c1#ref=rss)
-* [https://www.spiegel.de/ausland/usa-unter-donald-trump-die-revolver-diplomatie-des-us-praesidenten](https://www.spiegel.de/ausland/usa-unter-donald-trump-die-revolver-diplomatie-des-us-praesidenten-a-943e1ad9-d54f-40c9-98be-47a3c5c0230c#ref=rss)
-### bundestagswahl
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-gersheim-im-saarland-verschickt-benachrichtungen-mit-falschem-wahldatum](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-gersheim-im-saarland-verschickt-benachrichtungen-mit-falschem-wahldatum-a-deaa754d-c546-419c-bad6-aac465e46471#ref=rss)
-* [https://www.spiegel.de/politik/bundestagswahl-2025-wenns-dir-nicht-gefaellt-mach-neu](https://www.spiegel.de/politik/bundestagswahl-2025-wenns-dir-nicht-gefaellt-mach-neu-a-b6cc876e-42a8-4701-a7d5-d9e35502b57e#ref=rss)
-### laut
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/tiktok-microsoft-verhandelt-laut-donald-trump-ebenfalls-ueber-kauf-von-videoplattform](https://www.spiegel.de/netzwelt/netzpolitik/tiktok-microsoft-verhandelt-laut-donald-trump-ebenfalls-ueber-kauf-von-videoplattform-a-c81c1728-2214-4e2a-b4e6-e97ef88de6e1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/jedes-sechste-krankenhaus-des-roten-kreuzes-insolvent](https://www.spiegel.de/wirtschaft/unternehmen/jedes-sechste-krankenhaus-des-roten-kreuzes-insolvent-a-6dfe7274-2250-498e-a626-7b74c700b754#ref=rss)
-### besonders
-
-* [https://www.spiegel.de/wirtschaft/service/inflation-so-teuer-ist-das-leben-in-deutschland-geworden](https://www.spiegel.de/wirtschaft/service/inflation-so-teuer-ist-das-leben-in-deutschland-geworden-a-220a5fa6-2773-4169-b318-7d2c258aee20#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/jedes-sechste-krankenhaus-des-roten-kreuzes-insolvent](https://www.spiegel.de/wirtschaft/unternehmen/jedes-sechste-krankenhaus-des-roten-kreuzes-insolvent-a-6dfe7274-2250-498e-a626-7b74c700b754#ref=rss)
-* [https://www.spiegel.de/auto/straftaten-im-verkehr-die-sieben-todsuenden-der-autofahrer-es-koennten-noch-mehr-werden](https://www.spiegel.de/auto/straftaten-im-verkehr-die-sieben-todsuenden-der-autofahrer-es-koennten-noch-mehr-werden-a-73f61e70-ba0c-4929-9099-ac399849d545#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/panorama/cannabis-aus-der-apotheke-wer-sich-ein-rezept-erschleicht-macht-sich-strafbar](https://www.spiegel.de/panorama/cannabis-aus-der-apotheke-wer-sich-ein-rezept-erschleicht-macht-sich-strafbar-a-d7e0db77-1d70-45d0-9356-5a420f38c627#ref=rss)
-* [https://www.spiegel.de/ausland/usa-unter-donald-trump-die-revolver-diplomatie-des-us-praesidenten](https://www.spiegel.de/ausland/usa-unter-donald-trump-die-revolver-diplomatie-des-us-praesidenten-a-943e1ad9-d54f-40c9-98be-47a3c5c0230c#ref=rss)
-* [https://www.spiegel.de/ausland/news-friedrich-merz-donald-trump-nvidia-gustavo-petro-mette-frederiksen-afd](https://www.spiegel.de/ausland/news-friedrich-merz-donald-trump-nvidia-gustavo-petro-mette-frederiksen-afd-a-c6f1170b-69a0-4cce-84ba-0a8aaedf629b#ref=rss)
-### afd
-
-* [https://www.spiegel.de/politik/bundestagswahl-2025-wenns-dir-nicht-gefaellt-mach-neu](https://www.spiegel.de/politik/bundestagswahl-2025-wenns-dir-nicht-gefaellt-mach-neu-a-b6cc876e-42a8-4701-a7d5-d9e35502b57e#ref=rss)
-* [https://www.spiegel.de/ausland/news-friedrich-merz-donald-trump-nvidia-gustavo-petro-mette-frederiksen-afd](https://www.spiegel.de/ausland/news-friedrich-merz-donald-trump-nvidia-gustavo-petro-mette-frederiksen-afd-a-c6f1170b-69a0-4cce-84ba-0a8aaedf629b#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/usa-unter-donald-trump-die-revolver-diplomatie-des-us-praesidenten](https://www.spiegel.de/ausland/usa-unter-donald-trump-die-revolver-diplomatie-des-us-praesidenten-a-943e1ad9-d54f-40c9-98be-47a3c5c0230c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutschland-ermoeglicht-grosse-lng-importe-von-russland-nach-europa](https://www.spiegel.de/wirtschaft/unternehmen/deutschland-ermoeglicht-grosse-lng-importe-von-russland-nach-europa-a-072ef6f0-6526-48ec-9772-37abbff70c1e#ref=rss)
-### melania
-
-* [https://www.spiegel.de/panorama/leute/melania-trump-erstes-portraetfoto-zeigt-selbstbewusste-first-lady](https://www.spiegel.de/panorama/leute/melania-trump-erstes-portraetfoto-zeigt-selbstbewusste-first-lady-a-14753d4a-a8c2-4aa7-a0f3-5ddc033df77f#ref=rss)
-### erstes
-
-* [https://www.spiegel.de/panorama/leute/melania-trump-erstes-portraetfoto-zeigt-selbstbewusste-first-lady](https://www.spiegel.de/panorama/leute/melania-trump-erstes-portraetfoto-zeigt-selbstbewusste-first-lady-a-14753d4a-a8c2-4aa7-a0f3-5ddc033df77f#ref=rss)
-### porträtfoto
-
-* [https://www.spiegel.de/panorama/leute/melania-trump-erstes-portraetfoto-zeigt-selbstbewusste-first-lady](https://www.spiegel.de/panorama/leute/melania-trump-erstes-portraetfoto-zeigt-selbstbewusste-first-lady-a-14753d4a-a8c2-4aa7-a0f3-5ddc033df77f#ref=rss)
-### amtszeit
-
-* [https://www.spiegel.de/panorama/leute/melania-trump-erstes-portraetfoto-zeigt-selbstbewusste-first-lady](https://www.spiegel.de/panorama/leute/melania-trump-erstes-portraetfoto-zeigt-selbstbewusste-first-lady-a-14753d4a-a8c2-4aa7-a0f3-5ddc033df77f#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-unterzeichnet-praesidiales-dekret-zur-verbannung-von-trans-personen-aus-dem-militaer](https://www.spiegel.de/ausland/usa-donald-trump-unterzeichnet-praesidiales-dekret-zur-verbannung-von-trans-personen-aus-dem-militaer-a-cd4ddf21-360f-4382-895a-37321347883a#ref=rss)
-### klare
-
-* [https://www.spiegel.de/panorama/leute/melania-trump-erstes-portraetfoto-zeigt-selbstbewusste-first-lady](https://www.spiegel.de/panorama/leute/melania-trump-erstes-portraetfoto-zeigt-selbstbewusste-first-lady-a-14753d4a-a8c2-4aa7-a0f3-5ddc033df77f#ref=rss)
-* [https://www.spiegel.de/politik/groenland-plaene-von-donald-trump-olaf-scholz-warnt-vor-gewaltsamen-grenzverschiebungen](https://www.spiegel.de/politik/groenland-plaene-von-donald-trump-olaf-scholz-warnt-vor-gewaltsamen-grenzverschiebungen-a-6e524aee-a763-4975-8ff1-c8041c9421b1#ref=rss)
-### warnt
-
-* [https://www.spiegel.de/politik/groenland-plaene-von-donald-trump-olaf-scholz-warnt-vor-gewaltsamen-grenzverschiebungen](https://www.spiegel.de/politik/groenland-plaene-von-donald-trump-olaf-scholz-warnt-vor-gewaltsamen-grenzverschiebungen-a-6e524aee-a763-4975-8ff1-c8041c9421b1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/jedes-sechste-krankenhaus-des-roten-kreuzes-insolvent](https://www.spiegel.de/wirtschaft/unternehmen/jedes-sechste-krankenhaus-des-roten-kreuzes-insolvent-a-6dfe7274-2250-498e-a626-7b74c700b754#ref=rss)
-### davon
-
-* [https://www.spiegel.de/politik/groenland-plaene-von-donald-trump-olaf-scholz-warnt-vor-gewaltsamen-grenzverschiebungen](https://www.spiegel.de/politik/groenland-plaene-von-donald-trump-olaf-scholz-warnt-vor-gewaltsamen-grenzverschiebungen-a-6e524aee-a763-4975-8ff1-c8041c9421b1#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/duisburg-vier-feuerwehrmaenner-sollen-braende-verursacht-haben](https://www.spiegel.de/panorama/justiz/duisburg-vier-feuerwehrmaenner-sollen-braende-verursacht-haben-a-c0e91a4b-3a6e-45dc-9c70-8324d2f4c630#ref=rss)
-### dänemark
-
-* [https://www.spiegel.de/politik/groenland-plaene-von-donald-trump-olaf-scholz-warnt-vor-gewaltsamen-grenzverschiebungen](https://www.spiegel.de/politik/groenland-plaene-von-donald-trump-olaf-scholz-warnt-vor-gewaltsamen-grenzverschiebungen-a-6e524aee-a763-4975-8ff1-c8041c9421b1#ref=rss)
-* [https://www.spiegel.de/ausland/news-friedrich-merz-donald-trump-nvidia-gustavo-petro-mette-frederiksen-afd](https://www.spiegel.de/ausland/news-friedrich-merz-donald-trump-nvidia-gustavo-petro-mette-frederiksen-afd-a-c6f1170b-69a0-4cce-84ba-0a8aaedf629b#ref=rss)
-### besuch
-
-* [https://www.spiegel.de/politik/groenland-plaene-von-donald-trump-olaf-scholz-warnt-vor-gewaltsamen-grenzverschiebungen](https://www.spiegel.de/politik/groenland-plaene-von-donald-trump-olaf-scholz-warnt-vor-gewaltsamen-grenzverschiebungen-a-6e524aee-a763-4975-8ff1-c8041c9421b1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/inflation-so-teuer-ist-das-leben-in-deutschland-geworden](https://www.spiegel.de/wirtschaft/service/inflation-so-teuer-ist-das-leben-in-deutschland-geworden-a-220a5fa6-2773-4169-b318-7d2c258aee20#ref=rss)
-### frederiksen
-
-* [https://www.spiegel.de/politik/groenland-plaene-von-donald-trump-olaf-scholz-warnt-vor-gewaltsamen-grenzverschiebungen](https://www.spiegel.de/politik/groenland-plaene-von-donald-trump-olaf-scholz-warnt-vor-gewaltsamen-grenzverschiebungen-a-6e524aee-a763-4975-8ff1-c8041c9421b1#ref=rss)
-* [https://www.spiegel.de/ausland/news-friedrich-merz-donald-trump-nvidia-gustavo-petro-mette-frederiksen-afd](https://www.spiegel.de/ausland/news-friedrich-merz-donald-trump-nvidia-gustavo-petro-mette-frederiksen-afd-a-c6f1170b-69a0-4cce-84ba-0a8aaedf629b#ref=rss)
-### bundeskanzler
-
-* [https://www.spiegel.de/politik/groenland-plaene-von-donald-trump-olaf-scholz-warnt-vor-gewaltsamen-grenzverschiebungen](https://www.spiegel.de/politik/groenland-plaene-von-donald-trump-olaf-scholz-warnt-vor-gewaltsamen-grenzverschiebungen-a-6e524aee-a763-4975-8ff1-c8041c9421b1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/aktienvermoegen-merz-habeck-und-lindner-schweigen](https://www.spiegel.de/politik/deutschland/aktienvermoegen-merz-habeck-und-lindner-schweigen-a-583dfe49-6741-4c75-8801-158deebcea64#ref=rss)
-### türkei
-
-* [https://www.spiegel.de/ausland/tuerkei-schauspielmanagerin-ayse-barim-wegen-gezi-protesten-verhaftet](https://www.spiegel.de/ausland/tuerkei-schauspielmanagerin-ayse-barim-wegen-gezi-protesten-verhaftet-a-7a6976e5-125d-4c0f-af0d-e541ee27b816#ref=rss)
-### ayse
-
-* [https://www.spiegel.de/ausland/tuerkei-schauspielmanagerin-ayse-barim-wegen-gezi-protesten-verhaftet](https://www.spiegel.de/ausland/tuerkei-schauspielmanagerin-ayse-barim-wegen-gezi-protesten-verhaftet-a-7a6976e5-125d-4c0f-af0d-e541ee27b816#ref=rss)
-### barim
-
-* [https://www.spiegel.de/ausland/tuerkei-schauspielmanagerin-ayse-barim-wegen-gezi-protesten-verhaftet](https://www.spiegel.de/ausland/tuerkei-schauspielmanagerin-ayse-barim-wegen-gezi-protesten-verhaftet-a-7a6976e5-125d-4c0f-af0d-e541ee27b816#ref=rss)
-### verhaftet
-
-* [https://www.spiegel.de/ausland/tuerkei-schauspielmanagerin-ayse-barim-wegen-gezi-protesten-verhaftet](https://www.spiegel.de/ausland/tuerkei-schauspielmanagerin-ayse-barim-wegen-gezi-protesten-verhaftet-a-7a6976e5-125d-4c0f-af0d-e541ee27b816#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/ausland/tuerkei-schauspielmanagerin-ayse-barim-wegen-gezi-protesten-verhaftet](https://www.spiegel.de/ausland/tuerkei-schauspielmanagerin-ayse-barim-wegen-gezi-protesten-verhaftet-a-7a6976e5-125d-4c0f-af0d-e541ee27b816#ref=rss)
-* [https://www.spiegel.de/ausland/serbien-ministerpraesident-milos-vucevic-tritt-zurueck](https://www.spiegel.de/ausland/serbien-ministerpraesident-milos-vucevic-tritt-zurueck-a-b7bf7c0d-5fea-4ac6-a926-7fa5e8ec6bee#ref=rss)
-### serbien
-
-* [https://www.spiegel.de/ausland/serbien-ministerpraesident-milos-vucevic-tritt-zurueck](https://www.spiegel.de/ausland/serbien-ministerpraesident-milos-vucevic-tritt-zurueck-a-b7bf7c0d-5fea-4ac6-a926-7fa5e8ec6bee#ref=rss)
-### miloš
-
-* [https://www.spiegel.de/ausland/serbien-ministerpraesident-milos-vucevic-tritt-zurueck](https://www.spiegel.de/ausland/serbien-ministerpraesident-milos-vucevic-tritt-zurueck-a-b7bf7c0d-5fea-4ac6-a926-7fa5e8ec6bee#ref=rss)
-### vučević
-
-* [https://www.spiegel.de/ausland/serbien-ministerpraesident-milos-vucevic-tritt-zurueck](https://www.spiegel.de/ausland/serbien-ministerpraesident-milos-vucevic-tritt-zurueck-a-b7bf7c0d-5fea-4ac6-a926-7fa5e8ec6bee#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/serbien-ministerpraesident-milos-vucevic-tritt-zurueck](https://www.spiegel.de/ausland/serbien-ministerpraesident-milos-vucevic-tritt-zurueck-a-b7bf7c0d-5fea-4ac6-a926-7fa5e8ec6bee#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-verstaerkt-grenzschutz-mit-militaer-und-stacheldraht](https://www.spiegel.de/ausland/usa-donald-trump-verstaerkt-grenzschutz-mit-militaer-und-stacheldraht-a-c19a4305-9038-49b1-8cb7-fe8110e1380a#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/ausland/serbien-ministerpraesident-milos-vucevic-tritt-zurueck](https://www.spiegel.de/ausland/serbien-ministerpraesident-milos-vucevic-tritt-zurueck-a-b7bf7c0d-5fea-4ac6-a926-7fa5e8ec6bee#ref=rss)
-* [https://www.spiegel.de/wirtschaft/roman-abramowitsch-wie-der-oligarch-mit-seiner-megajacht-womoeglich-steuern-hinterzog](https://www.spiegel.de/wirtschaft/roman-abramowitsch-wie-der-oligarch-mit-seiner-megajacht-womoeglich-steuern-hinterzog-a-8ee91f76-c7a4-4049-af01-2c4f3ac986c0#ref=rss)
 ### friedrich
 
-* [https://www.spiegel.de/politik/deutschland/aktienvermoegen-merz-habeck-und-lindner-schweigen](https://www.spiegel.de/politik/deutschland/aktienvermoegen-merz-habeck-und-lindner-schweigen-a-583dfe49-6741-4c75-8801-158deebcea64#ref=rss)
-* [https://www.spiegel.de/ausland/news-friedrich-merz-donald-trump-nvidia-gustavo-petro-mette-frederiksen-afd](https://www.spiegel.de/ausland/news-friedrich-merz-donald-trump-nvidia-gustavo-petro-mette-frederiksen-afd-a-c6f1170b-69a0-4cce-84ba-0a8aaedf629b#ref=rss)
-### finanzen
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-inflation-serbien-friedrich-merz-und-die-brandmauer](https://www.spiegel.de/politik/deutschland/news-des-tages-inflation-serbien-friedrich-merz-und-die-brandmauer-a-7bcc0d91-6b3d-44a0-b25b-e19d84761bb3#ref=rss)
+* [https://www.spiegel.de/politik/streit-ueber-abstimmung-mit-afd-spd-fraktionschef-rolf-muetzenich-spricht-friedrich-merz-kanzlerfaehigkeit-ab](https://www.spiegel.de/politik/streit-ueber-abstimmung-mit-afd-spd-fraktionschef-rolf-muetzenich-spricht-friedrich-merz-kanzlerfaehigkeit-ab-a-387a3953-e233-4930-b9d8-d22b49a46c5b#ref=rss)
+### merz
 
-* [https://www.spiegel.de/politik/deutschland/aktienvermoegen-merz-habeck-und-lindner-schweigen](https://www.spiegel.de/politik/deutschland/aktienvermoegen-merz-habeck-und-lindner-schweigen-a-583dfe49-6741-4c75-8801-158deebcea64#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/jedes-sechste-krankenhaus-des-roten-kreuzes-insolvent](https://www.spiegel.de/wirtschaft/unternehmen/jedes-sechste-krankenhaus-des-roten-kreuzes-insolvent-a-6dfe7274-2250-498e-a626-7b74c700b754#ref=rss)
-### meisten
-
-* [https://www.spiegel.de/politik/deutschland/aktienvermoegen-merz-habeck-und-lindner-schweigen](https://www.spiegel.de/politik/deutschland/aktienvermoegen-merz-habeck-und-lindner-schweigen-a-583dfe49-6741-4c75-8801-158deebcea64#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/inflation-so-teuer-ist-das-leben-in-deutschland-geworden](https://www.spiegel.de/wirtschaft/service/inflation-so-teuer-ist-das-leben-in-deutschland-geworden-a-220a5fa6-2773-4169-b318-7d2c258aee20#ref=rss)
-### stellt
-
-* [https://www.spiegel.de/politik/deutschland/aktienvermoegen-merz-habeck-und-lindner-schweigen](https://www.spiegel.de/politik/deutschland/aktienvermoegen-merz-habeck-und-lindner-schweigen-a-583dfe49-6741-4c75-8801-158deebcea64#ref=rss)
-* [https://www.spiegel.de/panorama/cannabis-aus-der-apotheke-wer-sich-ein-rezept-erschleicht-macht-sich-strafbar](https://www.spiegel.de/panorama/cannabis-aus-der-apotheke-wer-sich-ein-rezept-erschleicht-macht-sich-strafbar-a-d7e0db77-1d70-45d0-9356-5a420f38c627#ref=rss)
-### borussia
-
-* [https://www.spiegel.de/sport/borussia-moenchengladbach-warum-der-us-komponist-ari-benjamin-meyers-eine-neue-hymne-schrieb](https://www.spiegel.de/sport/borussia-moenchengladbach-warum-der-us-komponist-ari-benjamin-meyers-eine-neue-hymne-schrieb-a-ae3b5667-986c-4a77-b115-2c1a31d0a8c1#ref=rss)
-### mönchengladbach
-
-* [https://www.spiegel.de/sport/borussia-moenchengladbach-warum-der-us-komponist-ari-benjamin-meyers-eine-neue-hymne-schrieb](https://www.spiegel.de/sport/borussia-moenchengladbach-warum-der-us-komponist-ari-benjamin-meyers-eine-neue-hymne-schrieb-a-ae3b5667-986c-4a77-b115-2c1a31d0a8c1#ref=rss)
-### ari
-
-* [https://www.spiegel.de/sport/borussia-moenchengladbach-warum-der-us-komponist-ari-benjamin-meyers-eine-neue-hymne-schrieb](https://www.spiegel.de/sport/borussia-moenchengladbach-warum-der-us-komponist-ari-benjamin-meyers-eine-neue-hymne-schrieb-a-ae3b5667-986c-4a77-b115-2c1a31d0a8c1#ref=rss)
-### benjamin
-
-* [https://www.spiegel.de/sport/borussia-moenchengladbach-warum-der-us-komponist-ari-benjamin-meyers-eine-neue-hymne-schrieb](https://www.spiegel.de/sport/borussia-moenchengladbach-warum-der-us-komponist-ari-benjamin-meyers-eine-neue-hymne-schrieb-a-ae3b5667-986c-4a77-b115-2c1a31d0a8c1#ref=rss)
-### meyers
-
-* [https://www.spiegel.de/sport/borussia-moenchengladbach-warum-der-us-komponist-ari-benjamin-meyers-eine-neue-hymne-schrieb](https://www.spiegel.de/sport/borussia-moenchengladbach-warum-der-us-komponist-ari-benjamin-meyers-eine-neue-hymne-schrieb-a-ae3b5667-986c-4a77-b115-2c1a31d0a8c1#ref=rss)
-### gersheim
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-gersheim-im-saarland-verschickt-benachrichtungen-mit-falschem-wahldatum](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-gersheim-im-saarland-verschickt-benachrichtungen-mit-falschem-wahldatum-a-deaa754d-c546-419c-bad6-aac465e46471#ref=rss)
-### microsoft
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/tiktok-microsoft-verhandelt-laut-donald-trump-ebenfalls-ueber-kauf-von-videoplattform](https://www.spiegel.de/netzwelt/netzpolitik/tiktok-microsoft-verhandelt-laut-donald-trump-ebenfalls-ueber-kauf-von-videoplattform-a-c81c1728-2214-4e2a-b4e6-e97ef88de6e1#ref=rss)
-### videoplattform
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/tiktok-microsoft-verhandelt-laut-donald-trump-ebenfalls-ueber-kauf-von-videoplattform](https://www.spiegel.de/netzwelt/netzpolitik/tiktok-microsoft-verhandelt-laut-donald-trump-ebenfalls-ueber-kauf-von-videoplattform-a-c81c1728-2214-4e2a-b4e6-e97ef88de6e1#ref=rss)
-### eigenen
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/tiktok-microsoft-verhandelt-laut-donald-trump-ebenfalls-ueber-kauf-von-videoplattform](https://www.spiegel.de/netzwelt/netzpolitik/tiktok-microsoft-verhandelt-laut-donald-trump-ebenfalls-ueber-kauf-von-videoplattform-a-c81c1728-2214-4e2a-b4e6-e97ef88de6e1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/joerg-kukies-der-merkwuerdige-arbeitseifer-des-finanzministers-auf-abruf](https://www.spiegel.de/wirtschaft/joerg-kukies-der-merkwuerdige-arbeitseifer-des-finanzministers-auf-abruf-a-c08c30c2-10b8-4a94-b6a8-f48d43deb44a#ref=rss)
-### selena
-
-* [https://www.spiegel.de/panorama/leute/selena-gomez-weint-auf-instagram-ueber-donald-trumps-massenabschiebeplaene](https://www.spiegel.de/panorama/leute/selena-gomez-weint-auf-instagram-ueber-donald-trumps-massenabschiebeplaene-a-1c3a2d51-5dac-4cd8-9dc5-953586b2a77a#ref=rss)
-### gomez
-
-* [https://www.spiegel.de/panorama/leute/selena-gomez-weint-auf-instagram-ueber-donald-trumps-massenabschiebeplaene](https://www.spiegel.de/panorama/leute/selena-gomez-weint-auf-instagram-ueber-donald-trumps-massenabschiebeplaene-a-1c3a2d51-5dac-4cd8-9dc5-953586b2a77a#ref=rss)
-### italien
-
-* [https://www.spiegel.de/ausland/italien-bringt-im-dritten-anlauf-migranten-nach-albanien](https://www.spiegel.de/ausland/italien-bringt-im-dritten-anlauf-migranten-nach-albanien-a-8a2852b4-6359-401b-925b-751729bc11a4#ref=rss)
-### migranten
-
-* [https://www.spiegel.de/ausland/italien-bringt-im-dritten-anlauf-migranten-nach-albanien](https://www.spiegel.de/ausland/italien-bringt-im-dritten-anlauf-migranten-nach-albanien-a-8a2852b4-6359-401b-925b-751729bc11a4#ref=rss)
-### bezeichnet
-
-* [https://www.spiegel.de/ausland/italien-bringt-im-dritten-anlauf-migranten-nach-albanien](https://www.spiegel.de/ausland/italien-bringt-im-dritten-anlauf-migranten-nach-albanien-a-8a2852b4-6359-401b-925b-751729bc11a4#ref=rss)
-* [https://www.spiegel.de/ausland/news-friedrich-merz-donald-trump-nvidia-gustavo-petro-mette-frederiksen-afd](https://www.spiegel.de/ausland/news-friedrich-merz-donald-trump-nvidia-gustavo-petro-mette-frederiksen-afd-a-c6f1170b-69a0-4cce-84ba-0a8aaedf629b#ref=rss)
-### inflation
-
-* [https://www.spiegel.de/wirtschaft/service/inflation-so-teuer-ist-das-leben-in-deutschland-geworden](https://www.spiegel.de/wirtschaft/service/inflation-so-teuer-ist-das-leben-in-deutschland-geworden-a-220a5fa6-2773-4169-b318-7d2c258aee20#ref=rss)
-### leben
-
-* [https://www.spiegel.de/wirtschaft/service/inflation-so-teuer-ist-das-leben-in-deutschland-geworden](https://www.spiegel.de/wirtschaft/service/inflation-so-teuer-ist-das-leben-in-deutschland-geworden-a-220a5fa6-2773-4169-b318-7d2c258aee20#ref=rss)
-### geworden
-
-* [https://www.spiegel.de/wirtschaft/service/inflation-so-teuer-ist-das-leben-in-deutschland-geworden](https://www.spiegel.de/wirtschaft/service/inflation-so-teuer-ist-das-leben-in-deutschland-geworden-a-220a5fa6-2773-4169-b318-7d2c258aee20#ref=rss)
-* [https://www.spiegel.de/wirtschaft/joerg-kukies-der-merkwuerdige-arbeitseifer-des-finanzministers-auf-abruf](https://www.spiegel.de/wirtschaft/joerg-kukies-der-merkwuerdige-arbeitseifer-des-finanzministers-auf-abruf-a-c08c30c2-10b8-4a94-b6a8-f48d43deb44a#ref=rss)
-### cannabis
-
-* [https://www.spiegel.de/panorama/cannabis-aus-der-apotheke-wer-sich-ein-rezept-erschleicht-macht-sich-strafbar](https://www.spiegel.de/panorama/cannabis-aus-der-apotheke-wer-sich-ein-rezept-erschleicht-macht-sich-strafbar-a-d7e0db77-1d70-45d0-9356-5a420f38c627#ref=rss)
-### jörg
-
-* [https://www.spiegel.de/wirtschaft/joerg-kukies-der-merkwuerdige-arbeitseifer-des-finanzministers-auf-abruf](https://www.spiegel.de/wirtschaft/joerg-kukies-der-merkwuerdige-arbeitseifer-des-finanzministers-auf-abruf-a-c08c30c2-10b8-4a94-b6a8-f48d43deb44a#ref=rss)
-### kukies
-
-* [https://www.spiegel.de/wirtschaft/joerg-kukies-der-merkwuerdige-arbeitseifer-des-finanzministers-auf-abruf](https://www.spiegel.de/wirtschaft/joerg-kukies-der-merkwuerdige-arbeitseifer-des-finanzministers-auf-abruf-a-c08c30c2-10b8-4a94-b6a8-f48d43deb44a#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wirtschaft/joerg-kukies-der-merkwuerdige-arbeitseifer-des-finanzministers-auf-abruf](https://www.spiegel.de/wirtschaft/joerg-kukies-der-merkwuerdige-arbeitseifer-des-finanzministers-auf-abruf-a-c08c30c2-10b8-4a94-b6a8-f48d43deb44a#ref=rss)
-* [https://www.spiegel.de/auto/straftaten-im-verkehr-die-sieben-todsuenden-der-autofahrer-es-koennten-noch-mehr-werden](https://www.spiegel.de/auto/straftaten-im-verkehr-die-sieben-todsuenden-der-autofahrer-es-koennten-noch-mehr-werden-a-73f61e70-ba0c-4929-9099-ac399849d545#ref=rss)
-### duisburg
-
-* [https://www.spiegel.de/panorama/justiz/duisburg-vier-feuerwehrmaenner-sollen-braende-verursacht-haben](https://www.spiegel.de/panorama/justiz/duisburg-vier-feuerwehrmaenner-sollen-braende-verursacht-haben-a-c0e91a4b-3a6e-45dc-9c70-8324d2f4c630#ref=rss)
-### vier
-
-* [https://www.spiegel.de/panorama/justiz/duisburg-vier-feuerwehrmaenner-sollen-braende-verursacht-haben](https://www.spiegel.de/panorama/justiz/duisburg-vier-feuerwehrmaenner-sollen-braende-verursacht-haben-a-c0e91a4b-3a6e-45dc-9c70-8324d2f4c630#ref=rss)
-* [https://www.spiegel.de/panorama/leute/doug-emhoff-ehemann-von-kamala-harris-arbeitet-wieder-als-anwalt](https://www.spiegel.de/panorama/leute/doug-emhoff-ehemann-von-kamala-harris-arbeitet-wieder-als-anwalt-a-1a40ddda-cf18-4255-a8a7-14d04738edb5#ref=rss)
-### sehnsucht
-
-* [https://www.spiegel.de/politik/bundestagswahl-2025-wenns-dir-nicht-gefaellt-mach-neu](https://www.spiegel.de/politik/bundestagswahl-2025-wenns-dir-nicht-gefaellt-mach-neu-a-b6cc876e-42a8-4701-a7d5-d9e35502b57e#ref=rss)
-### kreativer
-
-* [https://www.spiegel.de/politik/bundestagswahl-2025-wenns-dir-nicht-gefaellt-mach-neu](https://www.spiegel.de/politik/bundestagswahl-2025-wenns-dir-nicht-gefaellt-mach-neu-a-b6cc876e-42a8-4701-a7d5-d9e35502b57e#ref=rss)
-### zerstörung
-
-* [https://www.spiegel.de/politik/bundestagswahl-2025-wenns-dir-nicht-gefaellt-mach-neu](https://www.spiegel.de/politik/bundestagswahl-2025-wenns-dir-nicht-gefaellt-mach-neu-a-b6cc876e-42a8-4701-a7d5-d9e35502b57e#ref=rss)
-### angst
-
-* [https://www.spiegel.de/politik/bundestagswahl-2025-wenns-dir-nicht-gefaellt-mach-neu](https://www.spiegel.de/politik/bundestagswahl-2025-wenns-dir-nicht-gefaellt-mach-neu-a-b6cc876e-42a8-4701-a7d5-d9e35502b57e#ref=rss)
-### veränderung
-
-* [https://www.spiegel.de/politik/bundestagswahl-2025-wenns-dir-nicht-gefaellt-mach-neu](https://www.spiegel.de/politik/bundestagswahl-2025-wenns-dir-nicht-gefaellt-mach-neu-a-b6cc876e-42a8-4701-a7d5-d9e35502b57e#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/politik/bundestagswahl-2025-wenns-dir-nicht-gefaellt-mach-neu](https://www.spiegel.de/politik/bundestagswahl-2025-wenns-dir-nicht-gefaellt-mach-neu-a-b6cc876e-42a8-4701-a7d5-d9e35502b57e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-angestellte-bundesweit-im-warnstreik](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-angestellte-bundesweit-im-warnstreik-a-3ff64f52-0e7d-409f-a1bd-b92c6eaebe49#ref=rss)
-### tarifkonflikt
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-angestellte-bundesweit-im-warnstreik](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-angestellte-bundesweit-im-warnstreik-a-3ff64f52-0e7d-409f-a1bd-b92c6eaebe49#ref=rss)
-### post
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-angestellte-bundesweit-im-warnstreik](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-angestellte-bundesweit-im-warnstreik-a-3ff64f52-0e7d-409f-a1bd-b92c6eaebe49#ref=rss)
-### arbeit
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-angestellte-bundesweit-im-warnstreik](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-angestellte-bundesweit-im-warnstreik-a-3ff64f52-0e7d-409f-a1bd-b92c6eaebe49#ref=rss)
-* [https://www.spiegel.de/wirtschaft/steuererklaerung-so-sparen-sie-bei-der-steuererklaerung-viel-arbeit](https://www.spiegel.de/wirtschaft/steuererklaerung-so-sparen-sie-bei-der-steuererklaerung-viel-arbeit-a-7f96c71b-a96f-401b-83bc-103aedb8bb66#ref=rss)
-### kolumbien
-
-* [https://www.spiegel.de/ausland/usa-unter-donald-trump-die-revolver-diplomatie-des-us-praesidenten](https://www.spiegel.de/ausland/usa-unter-donald-trump-die-revolver-diplomatie-des-us-praesidenten-a-943e1ad9-d54f-40c9-98be-47a3c5c0230c#ref=rss)
-* [https://www.spiegel.de/ausland/news-friedrich-merz-donald-trump-nvidia-gustavo-petro-mette-frederiksen-afd](https://www.spiegel.de/ausland/news-friedrich-merz-donald-trump-nvidia-gustavo-petro-mette-frederiksen-afd-a-c6f1170b-69a0-4cce-84ba-0a8aaedf629b#ref=rss)
-### china
-
-* [https://www.spiegel.de/ausland/usa-unter-donald-trump-die-revolver-diplomatie-des-us-praesidenten](https://www.spiegel.de/ausland/usa-unter-donald-trump-die-revolver-diplomatie-des-us-praesidenten-a-943e1ad9-d54f-40c9-98be-47a3c5c0230c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deepseek-aus-china-nvidia-mit-historischem-kurssturz-donald-trump-spricht-von-weckruf-fuer-usa](https://www.spiegel.de/wirtschaft/deepseek-aus-china-nvidia-mit-historischem-kurssturz-donald-trump-spricht-von-weckruf-fuer-usa-a-e19851c7-551f-4c76-86de-101c11a9ed2b#ref=rss)
-### bricht
-
-* [https://www.spiegel.de/ausland/usa-unter-donald-trump-die-revolver-diplomatie-des-us-praesidenten](https://www.spiegel.de/ausland/usa-unter-donald-trump-die-revolver-diplomatie-des-us-praesidenten-a-943e1ad9-d54f-40c9-98be-47a3c5c0230c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deepseek-aus-china-nvidia-mit-historischem-kurssturz-donald-trump-spricht-von-weckruf-fuer-usa](https://www.spiegel.de/wirtschaft/deepseek-aus-china-nvidia-mit-historischem-kurssturz-donald-trump-spricht-von-weckruf-fuer-usa-a-e19851c7-551f-4c76-86de-101c11a9ed2b#ref=rss)
-### gefahr
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/jedes-sechste-krankenhaus-des-roten-kreuzes-insolvent](https://www.spiegel.de/wirtschaft/unternehmen/jedes-sechste-krankenhaus-des-roten-kreuzes-insolvent-a-6dfe7274-2250-498e-a626-7b74c700b754#ref=rss)
-* [https://www.spiegel.de/ausland/news-friedrich-merz-donald-trump-nvidia-gustavo-petro-mette-frederiksen-afd](https://www.spiegel.de/ausland/news-friedrich-merz-donald-trump-nvidia-gustavo-petro-mette-frederiksen-afd-a-c6f1170b-69a0-4cce-84ba-0a8aaedf629b#ref=rss)
-### zuschauer
-
-* [https://www.spiegel.de/panorama/colorado-zuschauer-beim-hammerwerfen-toedlich-getroffen](https://www.spiegel.de/panorama/colorado-zuschauer-beim-hammerwerfen-toedlich-getroffen-a-9cdf2380-e5c9-47af-a3b6-17a076535942#ref=rss)
-### colorado
-
-* [https://www.spiegel.de/panorama/colorado-zuschauer-beim-hammerwerfen-toedlich-getroffen](https://www.spiegel.de/panorama/colorado-zuschauer-beim-hammerwerfen-toedlich-getroffen-a-9cdf2380-e5c9-47af-a3b6-17a076535942#ref=rss)
-### getroffen
-
-* [https://www.spiegel.de/panorama/colorado-zuschauer-beim-hammerwerfen-toedlich-getroffen](https://www.spiegel.de/panorama/colorado-zuschauer-beim-hammerwerfen-toedlich-getroffen-a-9cdf2380-e5c9-47af-a3b6-17a076535942#ref=rss)
-### usmilitär
-
-* [https://www.spiegel.de/ausland/usa-donald-trump-unterzeichnet-praesidiales-dekret-zur-verbannung-von-trans-personen-aus-dem-militaer](https://www.spiegel.de/ausland/usa-donald-trump-unterzeichnet-praesidiales-dekret-zur-verbannung-von-trans-personen-aus-dem-militaer-a-cd4ddf21-360f-4382-895a-37321347883a#ref=rss)
-### dekret
-
-* [https://www.spiegel.de/ausland/usa-donald-trump-unterzeichnet-praesidiales-dekret-zur-verbannung-von-trans-personen-aus-dem-militaer](https://www.spiegel.de/ausland/usa-donald-trump-unterzeichnet-praesidiales-dekret-zur-verbannung-von-trans-personen-aus-dem-militaer-a-cd4ddf21-360f-4382-895a-37321347883a#ref=rss)
-### trans
-
-* [https://www.spiegel.de/ausland/usa-donald-trump-unterzeichnet-praesidiales-dekret-zur-verbannung-von-trans-personen-aus-dem-militaer](https://www.spiegel.de/ausland/usa-donald-trump-unterzeichnet-praesidiales-dekret-zur-verbannung-von-trans-personen-aus-dem-militaer-a-cd4ddf21-360f-4382-895a-37321347883a#ref=rss)
-### personen
-
-* [https://www.spiegel.de/ausland/usa-donald-trump-unterzeichnet-praesidiales-dekret-zur-verbannung-von-trans-personen-aus-dem-militaer](https://www.spiegel.de/ausland/usa-donald-trump-unterzeichnet-praesidiales-dekret-zur-verbannung-von-trans-personen-aus-dem-militaer-a-cd4ddf21-360f-4382-895a-37321347883a#ref=rss)
-### europa
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutschland-ermoeglicht-grosse-lng-importe-von-russland-nach-europa](https://www.spiegel.de/wirtschaft/unternehmen/deutschland-ermoeglicht-grosse-lng-importe-von-russland-nach-europa-a-072ef6f0-6526-48ec-9772-37abbff70c1e#ref=rss)
-### sieben
-
-* [https://www.spiegel.de/auto/straftaten-im-verkehr-die-sieben-todsuenden-der-autofahrer-es-koennten-noch-mehr-werden](https://www.spiegel.de/auto/straftaten-im-verkehr-die-sieben-todsuenden-der-autofahrer-es-koennten-noch-mehr-werden-a-73f61e70-ba0c-4929-9099-ac399849d545#ref=rss)
-### todsünden
-
-* [https://www.spiegel.de/auto/straftaten-im-verkehr-die-sieben-todsuenden-der-autofahrer-es-koennten-noch-mehr-werden](https://www.spiegel.de/auto/straftaten-im-verkehr-die-sieben-todsuenden-der-autofahrer-es-koennten-noch-mehr-werden-a-73f61e70-ba0c-4929-9099-ac399849d545#ref=rss)
-### roman
-
-* [https://www.spiegel.de/wirtschaft/roman-abramowitsch-wie-der-oligarch-mit-seiner-megajacht-womoeglich-steuern-hinterzog](https://www.spiegel.de/wirtschaft/roman-abramowitsch-wie-der-oligarch-mit-seiner-megajacht-womoeglich-steuern-hinterzog-a-8ee91f76-c7a4-4049-af01-2c4f3ac986c0#ref=rss)
-### abramowitsch
-
-* [https://www.spiegel.de/wirtschaft/roman-abramowitsch-wie-der-oligarch-mit-seiner-megajacht-womoeglich-steuern-hinterzog](https://www.spiegel.de/wirtschaft/roman-abramowitsch-wie-der-oligarch-mit-seiner-megajacht-womoeglich-steuern-hinterzog-a-8ee91f76-c7a4-4049-af01-2c4f3ac986c0#ref=rss)
-### steuern
-
-* [https://www.spiegel.de/wirtschaft/roman-abramowitsch-wie-der-oligarch-mit-seiner-megajacht-womoeglich-steuern-hinterzog](https://www.spiegel.de/wirtschaft/roman-abramowitsch-wie-der-oligarch-mit-seiner-megajacht-womoeglich-steuern-hinterzog-a-8ee91f76-c7a4-4049-af01-2c4f3ac986c0#ref=rss)
-### sparen
-
-* [https://www.spiegel.de/wirtschaft/roman-abramowitsch-wie-der-oligarch-mit-seiner-megajacht-womoeglich-steuern-hinterzog](https://www.spiegel.de/wirtschaft/roman-abramowitsch-wie-der-oligarch-mit-seiner-megajacht-womoeglich-steuern-hinterzog-a-8ee91f76-c7a4-4049-af01-2c4f3ac986c0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/steuererklaerung-so-sparen-sie-bei-der-steuererklaerung-viel-arbeit](https://www.spiegel.de/wirtschaft/steuererklaerung-so-sparen-sie-bei-der-steuererklaerung-viel-arbeit-a-7f96c71b-a96f-401b-83bc-103aedb8bb66#ref=rss)
-### doug
-
-* [https://www.spiegel.de/panorama/leute/doug-emhoff-ehemann-von-kamala-harris-arbeitet-wieder-als-anwalt](https://www.spiegel.de/panorama/leute/doug-emhoff-ehemann-von-kamala-harris-arbeitet-wieder-als-anwalt-a-1a40ddda-cf18-4255-a8a7-14d04738edb5#ref=rss)
-### emhoff
-
-* [https://www.spiegel.de/panorama/leute/doug-emhoff-ehemann-von-kamala-harris-arbeitet-wieder-als-anwalt](https://www.spiegel.de/panorama/leute/doug-emhoff-ehemann-von-kamala-harris-arbeitet-wieder-als-anwalt-a-1a40ddda-cf18-4255-a8a7-14d04738edb5#ref=rss)
-### nvidia
-
-* [https://www.spiegel.de/ausland/news-friedrich-merz-donald-trump-nvidia-gustavo-petro-mette-frederiksen-afd](https://www.spiegel.de/ausland/news-friedrich-merz-donald-trump-nvidia-gustavo-petro-mette-frederiksen-afd-a-c6f1170b-69a0-4cce-84ba-0a8aaedf629b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deepseek-aus-china-nvidia-mit-historischem-kurssturz-donald-trump-spricht-von-weckruf-fuer-usa](https://www.spiegel.de/wirtschaft/deepseek-aus-china-nvidia-mit-historischem-kurssturz-donald-trump-spricht-von-weckruf-fuer-usa-a-e19851c7-551f-4c76-86de-101c11a9ed2b#ref=rss)
-### chinesische
-
-* [https://www.spiegel.de/ausland/news-friedrich-merz-donald-trump-nvidia-gustavo-petro-mette-frederiksen-afd](https://www.spiegel.de/ausland/news-friedrich-merz-donald-trump-nvidia-gustavo-petro-mette-frederiksen-afd-a-c6f1170b-69a0-4cce-84ba-0a8aaedf629b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deepseek-aus-china-nvidia-mit-historischem-kurssturz-donald-trump-spricht-von-weckruf-fuer-usa](https://www.spiegel.de/wirtschaft/deepseek-aus-china-nvidia-mit-historischem-kurssturz-donald-trump-spricht-von-weckruf-fuer-usa-a-e19851c7-551f-4c76-86de-101c11a9ed2b#ref=rss)
-### neymar
-
-* [https://www.spiegel.de/sport/neymar-verlaesst-fussball-klub-al-hilal-in-saudi-arabien-vertrag-aufgeloest](https://www.spiegel.de/sport/neymar-verlaesst-fussball-klub-al-hilal-in-saudi-arabien-vertrag-aufgeloest-a-a2875352-d46d-4513-99b1-6467842c124f#ref=rss)
-### alhilal
-
-* [https://www.spiegel.de/sport/neymar-verlaesst-fussball-klub-al-hilal-in-saudi-arabien-vertrag-aufgeloest](https://www.spiegel.de/sport/neymar-verlaesst-fussball-klub-al-hilal-in-saudi-arabien-vertrag-aufgeloest-a-a2875352-d46d-4513-99b1-6467842c124f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-inflation-serbien-friedrich-merz-und-die-brandmauer](https://www.spiegel.de/politik/deutschland/news-des-tages-inflation-serbien-friedrich-merz-und-die-brandmauer-a-7bcc0d91-6b3d-44a0-b25b-e19d84761bb3#ref=rss)
+* [https://www.spiegel.de/politik/streit-ueber-abstimmung-mit-afd-spd-fraktionschef-rolf-muetzenich-spricht-friedrich-merz-kanzlerfaehigkeit-ab](https://www.spiegel.de/politik/streit-ueber-abstimmung-mit-afd-spd-fraktionschef-rolf-muetzenich-spricht-friedrich-merz-kanzlerfaehigkeit-ab-a-387a3953-e233-4930-b9d8-d22b49a46c5b#ref=rss)
 ### deepseek
 
-* [https://www.spiegel.de/wirtschaft/deepseek-aus-china-nvidia-mit-historischem-kurssturz-donald-trump-spricht-von-weckruf-fuer-usa](https://www.spiegel.de/wirtschaft/deepseek-aus-china-nvidia-mit-historischem-kurssturz-donald-trump-spricht-von-weckruf-fuer-usa-a-e19851c7-551f-4c76-86de-101c11a9ed2b#ref=rss)
-### weckruf
+* [https://www.spiegel.de/netzwelt/hype-um-chinesischen-ki-anbieter-was-kann-deepseek-eigentlich](https://www.spiegel.de/netzwelt/hype-um-chinesischen-ki-anbieter-was-kann-deepseek-eigentlich-a-5aab9acc-1296-4962-ac97-312362b89342#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/deepseek-ist-nur-fuer-anleger-ein-schock](https://www.spiegel.de/netzwelt/web/deepseek-ist-nur-fuer-anleger-ein-schock-a-fcaf98a8-2ae0-44a6-8927-28554e649b7c#ref=rss)
+### bayern
 
-* [https://www.spiegel.de/wirtschaft/deepseek-aus-china-nvidia-mit-historischem-kurssturz-donald-trump-spricht-von-weckruf-fuer-usa](https://www.spiegel.de/wirtschaft/deepseek-aus-china-nvidia-mit-historischem-kurssturz-donald-trump-spricht-von-weckruf-fuer-usa-a-e19851c7-551f-4c76-86de-101c11a9ed2b#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/bayern-lisa-poettinger-darf-referendariat-laut-medienbericht-nicht-antreten-zweifel-an-verfassungstreue](https://www.spiegel.de/panorama/bildung/bayern-lisa-poettinger-darf-referendariat-laut-medienbericht-nicht-antreten-zweifel-an-verfassungstreue-a-9efefdb8-77f2-4078-baab-0d24471bfb67#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/archaeopteryx-forscher-analysieren-bisher-unbekanntes-urvogel-fossil](https://www.spiegel.de/wissenschaft/natur/archaeopteryx-forscher-analysieren-bisher-unbekanntes-urvogel-fossil-a-e7e8eea6-877f-4c1c-b953-57b1f9ff42a3#ref=rss)
+### lisa
+
+* [https://www.spiegel.de/panorama/bildung/bayern-lisa-poettinger-darf-referendariat-laut-medienbericht-nicht-antreten-zweifel-an-verfassungstreue](https://www.spiegel.de/panorama/bildung/bayern-lisa-poettinger-darf-referendariat-laut-medienbericht-nicht-antreten-zweifel-an-verfassungstreue-a-9efefdb8-77f2-4078-baab-0d24471bfb67#ref=rss)
+* [https://www.spiegel.de/kultur/mona-lisa-eigener-raum-geplant](https://www.spiegel.de/kultur/mona-lisa-eigener-raum-geplant-a-d479d48e-d77a-4fc9-9795-0ee0aa30c315#ref=rss)
+### kurz
+
+* [https://www.spiegel.de/auto/bundesverkehrswegeplan-wissing-winkt-alte-plaene-fuer-neue-strassen-durch](https://www.spiegel.de/auto/bundesverkehrswegeplan-wissing-winkt-alte-plaene-fuer-neue-strassen-durch-a-affbb59c-ebb5-471f-9900-c3a59433a693#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/linke-vermelden-groesste-spende-ihrer-parteigeschichte-300-000-euro](https://www.spiegel.de/politik/deutschland/linke-vermelden-groesste-spende-ihrer-parteigeschichte-300-000-euro-a-01f0e133-709d-40df-93b9-a4128fec0a34#ref=rss)
+* [https://www.spiegel.de/panorama/luebeck-10-millionen-diebstahl-aus-bank-schliessfaechern-polizei-setzt-belohnung-aus](https://www.spiegel.de/panorama/luebeck-10-millionen-diebstahl-aus-bank-schliessfaechern-polizei-setzt-belohnung-aus-a-592f3337-1113-4eed-b536-2f31c6df85a5#ref=rss)
+### italienische
+
+* [https://www.spiegel.de/ausland/giorgia-meloni-italienische-justiz-ermittelt-gegen-regierungschefin-wegen-freilassung-von-mutmasslichem-kriegsverbecher-aus-libyen](https://www.spiegel.de/ausland/giorgia-meloni-italienische-justiz-ermittelt-gegen-regierungschefin-wegen-freilassung-von-mutmasslichem-kriegsverbecher-aus-libyen-a-1b2b5bba-2fb6-47ec-b0b4-5aafa14fe752#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/kultur/mona-lisa-eigener-raum-geplant](https://www.spiegel.de/kultur/mona-lisa-eigener-raum-geplant-a-d479d48e-d77a-4fc9-9795-0ee0aa30c315#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bundestagswahlkampf-versprechen-mehr-fuer-dich-und-die-wahrheit-ueber-die-sozialbeitraege](https://www.spiegel.de/wirtschaft/bundestagswahlkampf-versprechen-mehr-fuer-dich-und-die-wahrheit-ueber-die-sozialbeitraege-a-b32d3659-9914-4013-b33b-0b6684f94b87#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/kultur/winnetou-als-symbol-fuer-deutsche-identitaet-clemens-meyer-ueber-karl-may](https://www.spiegel.de/kultur/winnetou-als-symbol-fuer-deutsche-identitaet-clemens-meyer-ueber-karl-may-a-78165a32-e974-4f92-b19b-ff199a4b898d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-annaeherung-bei-tarifverhandlungen-mit-evg](https://www.spiegel.de/wirtschaft/deutsche-bahn-annaeherung-bei-tarifverhandlungen-mit-evg-a-7d7d46a1-59de-4d75-8497-4eb9e1db39c1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bundestagswahlkampf-versprechen-mehr-fuer-dich-und-die-wahrheit-ueber-die-sozialbeitraege](https://www.spiegel.de/wirtschaft/bundestagswahlkampf-versprechen-mehr-fuer-dich-und-die-wahrheit-ueber-die-sozialbeitraege-a-b32d3659-9914-4013-b33b-0b6684f94b87#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/politik/deutschland/linke-vermelden-groesste-spende-ihrer-parteigeschichte-300-000-euro](https://www.spiegel.de/politik/deutschland/linke-vermelden-groesste-spende-ihrer-parteigeschichte-300-000-euro-a-01f0e133-709d-40df-93b9-a4128fec0a34#ref=rss)
+* [https://www.spiegel.de/kultur/horst-janson-in-bildern-trauer-um-den-fernsehliebling-einer-generation](https://www.spiegel.de/kultur/horst-janson-in-bildern-trauer-um-den-fernsehliebling-einer-generation-a-dff6cd1f-64f3-4395-934c-e6b1ce2c441b#ref=rss)
+* [https://www.spiegel.de/sport/tischtennis-11-jaehriger-debuetiert-in-der-bundesliga-gegen-den-olympiavierten](https://www.spiegel.de/sport/tischtennis-11-jaehriger-debuetiert-in-der-bundesliga-gegen-den-olympiavierten-a-df20da0f-64e6-442a-8054-2182461908c6#ref=rss)
+### tijuana
+
+* [https://www.spiegel.de/ausland/tijuana-an-usa-mexiko-grenze-trumps-notstandserklaerung-und-abschottung-podcast](https://www.spiegel.de/ausland/tijuana-an-usa-mexiko-grenze-trumps-notstandserklaerung-und-abschottung-podcast-a-ed42b4be-3313-4b5f-9f04-4d77a1f710b8#ref=rss)
+### abschottung
+
+* [https://www.spiegel.de/ausland/tijuana-an-usa-mexiko-grenze-trumps-notstandserklaerung-und-abschottung-podcast](https://www.spiegel.de/ausland/tijuana-an-usa-mexiko-grenze-trumps-notstandserklaerung-und-abschottung-podcast-a-ed42b4be-3313-4b5f-9f04-4d77a1f710b8#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/tijuana-an-usa-mexiko-grenze-trumps-notstandserklaerung-und-abschottung-podcast](https://www.spiegel.de/ausland/tijuana-an-usa-mexiko-grenze-trumps-notstandserklaerung-und-abschottung-podcast-a-ed42b4be-3313-4b5f-9f04-4d77a1f710b8#ref=rss)
+* [https://www.spiegel.de/ausland/groenland-daenemark-plant-aufruestung-mit-neuen-kriegsschiffen](https://www.spiegel.de/ausland/groenland-daenemark-plant-aufruestung-mit-neuen-kriegsschiffen-a-344d813a-39a8-423f-8df7-596e6db18a7a#ref=rss)
+### setzt
+
+* [https://www.spiegel.de/ausland/tijuana-an-usa-mexiko-grenze-trumps-notstandserklaerung-und-abschottung-podcast](https://www.spiegel.de/ausland/tijuana-an-usa-mexiko-grenze-trumps-notstandserklaerung-und-abschottung-podcast-a-ed42b4be-3313-4b5f-9f04-4d77a1f710b8#ref=rss)
+* [https://www.spiegel.de/panorama/luebeck-10-millionen-diebstahl-aus-bank-schliessfaechern-polizei-setzt-belohnung-aus](https://www.spiegel.de/panorama/luebeck-10-millionen-diebstahl-aus-bank-schliessfaechern-polizei-setzt-belohnung-aus-a-592f3337-1113-4eed-b536-2f31c6df85a5#ref=rss)
+### referendariat
+
+* [https://www.spiegel.de/panorama/bildung/bayern-lisa-poettinger-darf-referendariat-laut-medienbericht-nicht-antreten-zweifel-an-verfassungstreue](https://www.spiegel.de/panorama/bildung/bayern-lisa-poettinger-darf-referendariat-laut-medienbericht-nicht-antreten-zweifel-an-verfassungstreue-a-9efefdb8-77f2-4078-baab-0d24471bfb67#ref=rss)
+### laut
+
+* [https://www.spiegel.de/panorama/bildung/bayern-lisa-poettinger-darf-referendariat-laut-medienbericht-nicht-antreten-zweifel-an-verfassungstreue](https://www.spiegel.de/panorama/bildung/bayern-lisa-poettinger-darf-referendariat-laut-medienbericht-nicht-antreten-zweifel-an-verfassungstreue-a-9efefdb8-77f2-4078-baab-0d24471bfb67#ref=rss)
+### medienbericht
+
+* [https://www.spiegel.de/panorama/bildung/bayern-lisa-poettinger-darf-referendariat-laut-medienbericht-nicht-antreten-zweifel-an-verfassungstreue](https://www.spiegel.de/panorama/bildung/bayern-lisa-poettinger-darf-referendariat-laut-medienbericht-nicht-antreten-zweifel-an-verfassungstreue-a-9efefdb8-77f2-4078-baab-0d24471bfb67#ref=rss)
+### antreten
+
+* [https://www.spiegel.de/panorama/bildung/bayern-lisa-poettinger-darf-referendariat-laut-medienbericht-nicht-antreten-zweifel-an-verfassungstreue](https://www.spiegel.de/panorama/bildung/bayern-lisa-poettinger-darf-referendariat-laut-medienbericht-nicht-antreten-zweifel-an-verfassungstreue-a-9efefdb8-77f2-4078-baab-0d24471bfb67#ref=rss)
+### zweifel
+
+* [https://www.spiegel.de/panorama/bildung/bayern-lisa-poettinger-darf-referendariat-laut-medienbericht-nicht-antreten-zweifel-an-verfassungstreue](https://www.spiegel.de/panorama/bildung/bayern-lisa-poettinger-darf-referendariat-laut-medienbericht-nicht-antreten-zweifel-an-verfassungstreue-a-9efefdb8-77f2-4078-baab-0d24471bfb67#ref=rss)
+* [https://www.spiegel.de/politik/streit-ueber-abstimmung-mit-afd-spd-fraktionschef-rolf-muetzenich-spricht-friedrich-merz-kanzlerfaehigkeit-ab](https://www.spiegel.de/politik/streit-ueber-abstimmung-mit-afd-spd-fraktionschef-rolf-muetzenich-spricht-friedrich-merz-kanzlerfaehigkeit-ab-a-387a3953-e233-4930-b9d8-d22b49a46c5b#ref=rss)
+### verfassungstreue
+
+* [https://www.spiegel.de/panorama/bildung/bayern-lisa-poettinger-darf-referendariat-laut-medienbericht-nicht-antreten-zweifel-an-verfassungstreue](https://www.spiegel.de/panorama/bildung/bayern-lisa-poettinger-darf-referendariat-laut-medienbericht-nicht-antreten-zweifel-an-verfassungstreue-a-9efefdb8-77f2-4078-baab-0d24471bfb67#ref=rss)
+### bundesverkehrswegeplan
+
+* [https://www.spiegel.de/auto/bundesverkehrswegeplan-wissing-winkt-alte-plaene-fuer-neue-strassen-durch](https://www.spiegel.de/auto/bundesverkehrswegeplan-wissing-winkt-alte-plaene-fuer-neue-strassen-durch-a-affbb59c-ebb5-471f-9900-c3a59433a693#ref=rss)
+### alte
+
+* [https://www.spiegel.de/auto/bundesverkehrswegeplan-wissing-winkt-alte-plaene-fuer-neue-strassen-durch](https://www.spiegel.de/auto/bundesverkehrswegeplan-wissing-winkt-alte-plaene-fuer-neue-strassen-durch-a-affbb59c-ebb5-471f-9900-c3a59433a693#ref=rss)
+### neue
+
+* [https://www.spiegel.de/auto/bundesverkehrswegeplan-wissing-winkt-alte-plaene-fuer-neue-strassen-durch](https://www.spiegel.de/auto/bundesverkehrswegeplan-wissing-winkt-alte-plaene-fuer-neue-strassen-durch-a-affbb59c-ebb5-471f-9900-c3a59433a693#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/archaeopteryx-forscher-analysieren-bisher-unbekanntes-urvogel-fossil](https://www.spiegel.de/wissenschaft/natur/archaeopteryx-forscher-analysieren-bisher-unbekanntes-urvogel-fossil-a-e7e8eea6-877f-4c1c-b953-57b1f9ff42a3#ref=rss)
+### wahl
+
+* [https://www.spiegel.de/auto/bundesverkehrswegeplan-wissing-winkt-alte-plaene-fuer-neue-strassen-durch](https://www.spiegel.de/auto/bundesverkehrswegeplan-wissing-winkt-alte-plaene-fuer-neue-strassen-durch-a-affbb59c-ebb5-471f-9900-c3a59433a693#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/linke-vermelden-groesste-spende-ihrer-parteigeschichte-300-000-euro](https://www.spiegel.de/politik/deutschland/linke-vermelden-groesste-spende-ihrer-parteigeschichte-300-000-euro-a-01f0e133-709d-40df-93b9-a4128fec0a34#ref=rss)
+### palästinenser
+
+* [https://www.spiegel.de/ausland/gaza-zurueckkehrende-palaestinenser-sind-schockiert-ueber-die-zerstoerung](https://www.spiegel.de/ausland/gaza-zurueckkehrende-palaestinenser-sind-schockiert-ueber-die-zerstoerung-a-b95deb42-68ec-4e13-92cb-5b869a6a1a7a#ref=rss)
+### schockiert
+
+* [https://www.spiegel.de/ausland/gaza-zurueckkehrende-palaestinenser-sind-schockiert-ueber-die-zerstoerung](https://www.spiegel.de/ausland/gaza-zurueckkehrende-palaestinenser-sind-schockiert-ueber-die-zerstoerung-a-b95deb42-68ec-4e13-92cb-5b869a6a1a7a#ref=rss)
+### meloni
+
+* [https://www.spiegel.de/ausland/giorgia-meloni-italienische-justiz-ermittelt-gegen-regierungschefin-wegen-freilassung-von-mutmasslichem-kriegsverbecher-aus-libyen](https://www.spiegel.de/ausland/giorgia-meloni-italienische-justiz-ermittelt-gegen-regierungschefin-wegen-freilassung-von-mutmasslichem-kriegsverbecher-aus-libyen-a-1b2b5bba-2fb6-47ec-b0b4-5aafa14fe752#ref=rss)
+### justiz
+
+* [https://www.spiegel.de/ausland/giorgia-meloni-italienische-justiz-ermittelt-gegen-regierungschefin-wegen-freilassung-von-mutmasslichem-kriegsverbecher-aus-libyen](https://www.spiegel.de/ausland/giorgia-meloni-italienische-justiz-ermittelt-gegen-regierungschefin-wegen-freilassung-von-mutmasslichem-kriegsverbecher-aus-libyen-a-1b2b5bba-2fb6-47ec-b0b4-5aafa14fe752#ref=rss)
+### ermittelt
+
+* [https://www.spiegel.de/ausland/giorgia-meloni-italienische-justiz-ermittelt-gegen-regierungschefin-wegen-freilassung-von-mutmasslichem-kriegsverbecher-aus-libyen](https://www.spiegel.de/ausland/giorgia-meloni-italienische-justiz-ermittelt-gegen-regierungschefin-wegen-freilassung-von-mutmasslichem-kriegsverbecher-aus-libyen-a-1b2b5bba-2fb6-47ec-b0b4-5aafa14fe752#ref=rss)
+### mona
+
+* [https://www.spiegel.de/kultur/mona-lisa-eigener-raum-geplant](https://www.spiegel.de/kultur/mona-lisa-eigener-raum-geplant-a-d479d48e-d77a-4fc9-9795-0ee0aa30c315#ref=rss)
+### nötig
+
+* [https://www.spiegel.de/kultur/mona-lisa-eigener-raum-geplant](https://www.spiegel.de/kultur/mona-lisa-eigener-raum-geplant-a-d479d48e-d77a-4fc9-9795-0ee0aa30c315#ref=rss)
+* [https://www.spiegel.de/ausland/groenland-daenemark-plant-aufruestung-mit-neuen-kriegsschiffen](https://www.spiegel.de/ausland/groenland-daenemark-plant-aufruestung-mit-neuen-kriegsschiffen-a-344d813a-39a8-423f-8df7-596e6db18a7a#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/kultur/mona-lisa-eigener-raum-geplant](https://www.spiegel.de/kultur/mona-lisa-eigener-raum-geplant-a-d479d48e-d77a-4fc9-9795-0ee0aa30c315#ref=rss)
+* [https://www.spiegel.de/ausland/groenland-daenemark-plant-aufruestung-mit-neuen-kriegsschiffen](https://www.spiegel.de/ausland/groenland-daenemark-plant-aufruestung-mit-neuen-kriegsschiffen-a-344d813a-39a8-423f-8df7-596e6db18a7a#ref=rss)
+### winnetou
+
+* [https://www.spiegel.de/kultur/winnetou-als-symbol-fuer-deutsche-identitaet-clemens-meyer-ueber-karl-may](https://www.spiegel.de/kultur/winnetou-als-symbol-fuer-deutsche-identitaet-clemens-meyer-ueber-karl-may-a-78165a32-e974-4f92-b19b-ff199a4b898d#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/kultur/winnetou-als-symbol-fuer-deutsche-identitaet-clemens-meyer-ueber-karl-may](https://www.spiegel.de/kultur/winnetou-als-symbol-fuer-deutsche-identitaet-clemens-meyer-ueber-karl-may-a-78165a32-e974-4f92-b19b-ff199a4b898d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-annaeherung-bei-tarifverhandlungen-mit-evg](https://www.spiegel.de/wirtschaft/deutsche-bahn-annaeherung-bei-tarifverhandlungen-mit-evg-a-7d7d46a1-59de-4d75-8497-4eb9e1db39c1#ref=rss)
+### clemens
+
+* [https://www.spiegel.de/kultur/winnetou-als-symbol-fuer-deutsche-identitaet-clemens-meyer-ueber-karl-may](https://www.spiegel.de/kultur/winnetou-als-symbol-fuer-deutsche-identitaet-clemens-meyer-ueber-karl-may-a-78165a32-e974-4f92-b19b-ff199a4b898d#ref=rss)
+### meyer
+
+* [https://www.spiegel.de/kultur/winnetou-als-symbol-fuer-deutsche-identitaet-clemens-meyer-ueber-karl-may](https://www.spiegel.de/kultur/winnetou-als-symbol-fuer-deutsche-identitaet-clemens-meyer-ueber-karl-may-a-78165a32-e974-4f92-b19b-ff199a4b898d#ref=rss)
+### karl
+
+* [https://www.spiegel.de/kultur/winnetou-als-symbol-fuer-deutsche-identitaet-clemens-meyer-ueber-karl-may](https://www.spiegel.de/kultur/winnetou-als-symbol-fuer-deutsche-identitaet-clemens-meyer-ueber-karl-may-a-78165a32-e974-4f92-b19b-ff199a4b898d#ref=rss)
+### may
+
+* [https://www.spiegel.de/kultur/winnetou-als-symbol-fuer-deutsche-identitaet-clemens-meyer-ueber-karl-may](https://www.spiegel.de/kultur/winnetou-als-symbol-fuer-deutsche-identitaet-clemens-meyer-ueber-karl-may-a-78165a32-e974-4f92-b19b-ff199a4b898d#ref=rss)
+### linke
+
+* [https://www.spiegel.de/politik/deutschland/linke-vermelden-groesste-spende-ihrer-parteigeschichte-300-000-euro](https://www.spiegel.de/politik/deutschland/linke-vermelden-groesste-spende-ihrer-parteigeschichte-300-000-euro-a-01f0e133-709d-40df-93b9-a4128fec0a34#ref=rss)
+### partei
+
+* [https://www.spiegel.de/politik/deutschland/linke-vermelden-groesste-spende-ihrer-parteigeschichte-300-000-euro](https://www.spiegel.de/politik/deutschland/linke-vermelden-groesste-spende-ihrer-parteigeschichte-300-000-euro-a-01f0e133-709d-40df-93b9-a4128fec0a34#ref=rss)
+* [https://www.spiegel.de/kultur/afd-alice-weidel-im-wahlwerbespot-ein-eiszapfen-fuer-deutschland](https://www.spiegel.de/kultur/afd-alice-weidel-im-wahlwerbespot-ein-eiszapfen-fuer-deutschland-a-7e9fff5d-00f8-4b24-8b44-1b2592715789#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/politik/deutschland/linke-vermelden-groesste-spende-ihrer-parteigeschichte-300-000-euro](https://www.spiegel.de/politik/deutschland/linke-vermelden-groesste-spende-ihrer-parteigeschichte-300-000-euro-a-01f0e133-709d-40df-93b9-a4128fec0a34#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-mercedes-fahrer-kimi-antonelli-macht-seinen-fuehrerschein](https://www.spiegel.de/sport/formel1/formel-1-mercedes-fahrer-kimi-antonelli-macht-seinen-fuehrerschein-a-2b91b841-5b13-4f3e-a731-d3fad56367fb#ref=rss)
+### sarah
+
+* [https://www.spiegel.de/kultur/sarah-jessica-parker-kaempft-gegen-bibliotheken-zensur](https://www.spiegel.de/kultur/sarah-jessica-parker-kaempft-gegen-bibliotheken-zensur-a-04c3ff92-8a86-4085-9b30-ccc5f05d0b99#ref=rss)
+### jessica
+
+* [https://www.spiegel.de/kultur/sarah-jessica-parker-kaempft-gegen-bibliotheken-zensur](https://www.spiegel.de/kultur/sarah-jessica-parker-kaempft-gegen-bibliotheken-zensur-a-04c3ff92-8a86-4085-9b30-ccc5f05d0b99#ref=rss)
+### parker
+
+* [https://www.spiegel.de/kultur/sarah-jessica-parker-kaempft-gegen-bibliotheken-zensur](https://www.spiegel.de/kultur/sarah-jessica-parker-kaempft-gegen-bibliotheken-zensur-a-04c3ff92-8a86-4085-9b30-ccc5f05d0b99#ref=rss)
+### afd
+
+* [https://www.spiegel.de/kultur/afd-alice-weidel-im-wahlwerbespot-ein-eiszapfen-fuer-deutschland](https://www.spiegel.de/kultur/afd-alice-weidel-im-wahlwerbespot-ein-eiszapfen-fuer-deutschland-a-7e9fff5d-00f8-4b24-8b44-1b2592715789#ref=rss)
+* [https://www.spiegel.de/politik/streit-ueber-abstimmung-mit-afd-spd-fraktionschef-rolf-muetzenich-spricht-friedrich-merz-kanzlerfaehigkeit-ab](https://www.spiegel.de/politik/streit-ueber-abstimmung-mit-afd-spd-fraktionschef-rolf-muetzenich-spricht-friedrich-merz-kanzlerfaehigkeit-ab-a-387a3953-e233-4930-b9d8-d22b49a46c5b#ref=rss)
+### alice
+
+* [https://www.spiegel.de/kultur/afd-alice-weidel-im-wahlwerbespot-ein-eiszapfen-fuer-deutschland](https://www.spiegel.de/kultur/afd-alice-weidel-im-wahlwerbespot-ein-eiszapfen-fuer-deutschland-a-7e9fff5d-00f8-4b24-8b44-1b2592715789#ref=rss)
+### weidel
+
+* [https://www.spiegel.de/kultur/afd-alice-weidel-im-wahlwerbespot-ein-eiszapfen-fuer-deutschland](https://www.spiegel.de/kultur/afd-alice-weidel-im-wahlwerbespot-ein-eiszapfen-fuer-deutschland-a-7e9fff5d-00f8-4b24-8b44-1b2592715789#ref=rss)
+### bahn
+
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-annaeherung-bei-tarifverhandlungen-mit-evg](https://www.spiegel.de/wirtschaft/deutsche-bahn-annaeherung-bei-tarifverhandlungen-mit-evg-a-7d7d46a1-59de-4d75-8497-4eb9e1db39c1#ref=rss)
+### tarifverhandlungen
+
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-annaeherung-bei-tarifverhandlungen-mit-evg](https://www.spiegel.de/wirtschaft/deutsche-bahn-annaeherung-bei-tarifverhandlungen-mit-evg-a-7d7d46a1-59de-4d75-8497-4eb9e1db39c1#ref=rss)
+### evg
+
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-annaeherung-bei-tarifverhandlungen-mit-evg](https://www.spiegel.de/wirtschaft/deutsche-bahn-annaeherung-bei-tarifverhandlungen-mit-evg-a-7d7d46a1-59de-4d75-8497-4eb9e1db39c1#ref=rss)
+### erstmals
+
+* [https://www.spiegel.de/wissenschaft/technik/testflugzeug-von-us-start-up-durchbricht-schallmauer](https://www.spiegel.de/wissenschaft/technik/testflugzeug-von-us-start-up-durchbricht-schallmauer-a-0a09925c-26cf-4004-a12a-177db98f9d16#ref=rss)
+* [https://www.spiegel.de/sport/tischtennis-11-jaehriger-debuetiert-in-der-bundesliga-gegen-den-olympiavierten](https://www.spiegel.de/sport/tischtennis-11-jaehriger-debuetiert-in-der-bundesliga-gegen-den-olympiavierten-a-df20da0f-64e6-442a-8054-2182461908c6#ref=rss)
+### naomi
+
+* [https://www.spiegel.de/sport/rekord-transfer-wie-naomi-girma-zur-teuersten-spielerin-der-welt-wurde](https://www.spiegel.de/sport/rekord-transfer-wie-naomi-girma-zur-teuersten-spielerin-der-welt-wurde-a-615bf3bc-e47a-404a-ad76-7ca704e1c062#ref=rss)
+### girma
+
+* [https://www.spiegel.de/sport/rekord-transfer-wie-naomi-girma-zur-teuersten-spielerin-der-welt-wurde](https://www.spiegel.de/sport/rekord-transfer-wie-naomi-girma-zur-teuersten-spielerin-der-welt-wurde-a-615bf3bc-e47a-404a-ad76-7ca704e1c062#ref=rss)
+### spielerin
+
+* [https://www.spiegel.de/sport/rekord-transfer-wie-naomi-girma-zur-teuersten-spielerin-der-welt-wurde](https://www.spiegel.de/sport/rekord-transfer-wie-naomi-girma-zur-teuersten-spielerin-der-welt-wurde-a-615bf3bc-e47a-404a-ad76-7ca704e1c062#ref=rss)
+### welt
+
+* [https://www.spiegel.de/sport/rekord-transfer-wie-naomi-girma-zur-teuersten-spielerin-der-welt-wurde](https://www.spiegel.de/sport/rekord-transfer-wie-naomi-girma-zur-teuersten-spielerin-der-welt-wurde-a-615bf3bc-e47a-404a-ad76-7ca704e1c062#ref=rss)
+* [https://www.spiegel.de/sport/tischtennis-11-jaehriger-debuetiert-in-der-bundesliga-gegen-den-olympiavierten](https://www.spiegel.de/sport/tischtennis-11-jaehriger-debuetiert-in-der-bundesliga-gegen-den-olympiavierten-a-df20da0f-64e6-442a-8054-2182461908c6#ref=rss)
+### grönland
+
+* [https://www.spiegel.de/ausland/groenland-daenemark-plant-aufruestung-mit-neuen-kriegsschiffen](https://www.spiegel.de/ausland/groenland-daenemark-plant-aufruestung-mit-neuen-kriegsschiffen-a-344d813a-39a8-423f-8df7-596e6db18a7a#ref=rss)
+### dänemark
+
+* [https://www.spiegel.de/ausland/groenland-daenemark-plant-aufruestung-mit-neuen-kriegsschiffen](https://www.spiegel.de/ausland/groenland-daenemark-plant-aufruestung-mit-neuen-kriegsschiffen-a-344d813a-39a8-423f-8df7-596e6db18a7a#ref=rss)
+### nachdem
+
+* [https://www.spiegel.de/ausland/groenland-daenemark-plant-aufruestung-mit-neuen-kriegsschiffen](https://www.spiegel.de/ausland/groenland-daenemark-plant-aufruestung-mit-neuen-kriegsschiffen-a-344d813a-39a8-423f-8df7-596e6db18a7a#ref=rss)
+* [https://www.spiegel.de/netzwelt/oberbayern-vierjaehriger-veraetzt-sich-an-spuren-von-tiktok-experiment](https://www.spiegel.de/netzwelt/oberbayern-vierjaehriger-veraetzt-sich-an-spuren-von-tiktok-experiment-a-842bbbb5-316f-4d48-a2b1-86148c20113e#ref=rss)
+### inflation
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-inflation-serbien-friedrich-merz-und-die-brandmauer](https://www.spiegel.de/politik/deutschland/news-des-tages-inflation-serbien-friedrich-merz-und-die-brandmauer-a-7bcc0d91-6b3d-44a0-b25b-e19d84761bb3#ref=rss)
+### serbien
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-inflation-serbien-friedrich-merz-und-die-brandmauer](https://www.spiegel.de/politik/deutschland/news-des-tages-inflation-serbien-friedrich-merz-und-die-brandmauer-a-7bcc0d91-6b3d-44a0-b25b-e19d84761bb3#ref=rss)
+### horst
+
+* [https://www.spiegel.de/kultur/horst-janson-in-bildern-trauer-um-den-fernsehliebling-einer-generation](https://www.spiegel.de/kultur/horst-janson-in-bildern-trauer-um-den-fernsehliebling-einer-generation-a-dff6cd1f-64f3-4395-934c-e6b1ce2c441b#ref=rss)
+### janson
+
+* [https://www.spiegel.de/kultur/horst-janson-in-bildern-trauer-um-den-fernsehliebling-einer-generation](https://www.spiegel.de/kultur/horst-janson-in-bildern-trauer-um-den-fernsehliebling-einer-generation-a-dff6cd1f-64f3-4395-934c-e6b1ce2c441b#ref=rss)
+### bildern
+
+* [https://www.spiegel.de/kultur/horst-janson-in-bildern-trauer-um-den-fernsehliebling-einer-generation](https://www.spiegel.de/kultur/horst-janson-in-bildern-trauer-um-den-fernsehliebling-einer-generation-a-dff6cd1f-64f3-4395-934c-e6b1ce2c441b#ref=rss)
+* [https://www.spiegel.de/reise/tpoty-wettbewerb-das-sind-die-besten-reisebilder-des-jahres](https://www.spiegel.de/reise/tpoty-wettbewerb-das-sind-die-besten-reisebilder-des-jahres-a-d547c994-aa59-4c3f-9600-902423b30076#ref=rss)
+### gerade
+
+* [https://www.spiegel.de/netzwelt/hype-um-chinesischen-ki-anbieter-was-kann-deepseek-eigentlich](https://www.spiegel.de/netzwelt/hype-um-chinesischen-ki-anbieter-was-kann-deepseek-eigentlich-a-5aab9acc-1296-4962-ac97-312362b89342#ref=rss)
+* [https://www.spiegel.de/kultur/sigourney-weaver-klima-aktivisten-stoeren-auftritt-von-sigourney-weaver](https://www.spiegel.de/kultur/sigourney-weaver-klima-aktivisten-stoeren-auftritt-von-sigourney-weaver-a-15274c54-9dce-4d3f-9d90-d555a8c06b4e#ref=rss)
+### archaeopteryx
+
+* [https://www.spiegel.de/wissenschaft/natur/archaeopteryx-forscher-analysieren-bisher-unbekanntes-urvogel-fossil](https://www.spiegel.de/wissenschaft/natur/archaeopteryx-forscher-analysieren-bisher-unbekanntes-urvogel-fossil-a-e7e8eea6-877f-4c1c-b953-57b1f9ff42a3#ref=rss)
+### unbekanntes
+
+* [https://www.spiegel.de/wissenschaft/natur/archaeopteryx-forscher-analysieren-bisher-unbekanntes-urvogel-fossil](https://www.spiegel.de/wissenschaft/natur/archaeopteryx-forscher-analysieren-bisher-unbekanntes-urvogel-fossil-a-e7e8eea6-877f-4c1c-b953-57b1f9ff42a3#ref=rss)
+* [https://www.spiegel.de/netzwelt/oberbayern-vierjaehriger-veraetzt-sich-an-spuren-von-tiktok-experiment](https://www.spiegel.de/netzwelt/oberbayern-vierjaehriger-veraetzt-sich-an-spuren-von-tiktok-experiment-a-842bbbb5-316f-4d48-a2b1-86148c20113e#ref=rss)
+### besten
+
+* [https://www.spiegel.de/reise/tpoty-wettbewerb-das-sind-die-besten-reisebilder-des-jahres](https://www.spiegel.de/reise/tpoty-wettbewerb-das-sind-die-besten-reisebilder-des-jahres-a-d547c994-aa59-4c3f-9600-902423b30076#ref=rss)
+* [https://www.spiegel.de/sport/tischtennis-11-jaehriger-debuetiert-in-der-bundesliga-gegen-den-olympiavierten](https://www.spiegel.de/sport/tischtennis-11-jaehriger-debuetiert-in-der-bundesliga-gegen-den-olympiavierten-a-df20da0f-64e6-442a-8054-2182461908c6#ref=rss)
+### südkorea
+
+* [https://www.spiegel.de/panorama/suedkorea-176-menschen-aus-brennendem-air-busan-flugzeug-gerettet](https://www.spiegel.de/panorama/suedkorea-176-menschen-aus-brennendem-air-busan-flugzeug-gerettet-a-da8c4eab-a15c-4700-a19e-87580aab8be0#ref=rss)
+### kimi
+
+* [https://www.spiegel.de/sport/formel1/formel-1-mercedes-fahrer-kimi-antonelli-macht-seinen-fuehrerschein](https://www.spiegel.de/sport/formel1/formel-1-mercedes-fahrer-kimi-antonelli-macht-seinen-fuehrerschein-a-2b91b841-5b13-4f3e-a731-d3fad56367fb#ref=rss)
+### antonelli
+
+* [https://www.spiegel.de/sport/formel1/formel-1-mercedes-fahrer-kimi-antonelli-macht-seinen-fuehrerschein](https://www.spiegel.de/sport/formel1/formel-1-mercedes-fahrer-kimi-antonelli-macht-seinen-fuehrerschein-a-2b91b841-5b13-4f3e-a731-d3fad56367fb#ref=rss)
+### sozialbeiträge
+
+* [https://www.spiegel.de/wirtschaft/bundestagswahlkampf-versprechen-mehr-fuer-dich-und-die-wahrheit-ueber-die-sozialbeitraege](https://www.spiegel.de/wirtschaft/bundestagswahlkampf-versprechen-mehr-fuer-dich-und-die-wahrheit-ueber-die-sozialbeitraege-a-b32d3659-9914-4013-b33b-0b6684f94b87#ref=rss)
+### sigourney
+
+* [https://www.spiegel.de/kultur/sigourney-weaver-klima-aktivisten-stoeren-auftritt-von-sigourney-weaver](https://www.spiegel.de/kultur/sigourney-weaver-klima-aktivisten-stoeren-auftritt-von-sigourney-weaver-a-15274c54-9dce-4d3f-9d90-d555a8c06b4e#ref=rss)
+### weaver
+
+* [https://www.spiegel.de/kultur/sigourney-weaver-klima-aktivisten-stoeren-auftritt-von-sigourney-weaver](https://www.spiegel.de/kultur/sigourney-weaver-klima-aktivisten-stoeren-auftritt-von-sigourney-weaver-a-15274c54-9dce-4d3f-9d90-d555a8c06b4e#ref=rss)
+### hollywoodstar
+
+* [https://www.spiegel.de/kultur/sigourney-weaver-klima-aktivisten-stoeren-auftritt-von-sigourney-weaver](https://www.spiegel.de/kultur/sigourney-weaver-klima-aktivisten-stoeren-auftritt-von-sigourney-weaver-a-15274c54-9dce-4d3f-9d90-d555a8c06b4e#ref=rss)
+### oberbayern
+
+* [https://www.spiegel.de/netzwelt/oberbayern-vierjaehriger-veraetzt-sich-an-spuren-von-tiktok-experiment](https://www.spiegel.de/netzwelt/oberbayern-vierjaehriger-veraetzt-sich-an-spuren-von-tiktok-experiment-a-842bbbb5-316f-4d48-a2b1-86148c20113e#ref=rss)
+### borussia
+
+* [https://www.spiegel.de/sport/fussball/fussball-transfers-victor-boniface-soll-vor-wechsel-nach-saudi-arabien-stehen](https://www.spiegel.de/sport/fussball/fussball-transfers-victor-boniface-soll-vor-wechsel-nach-saudi-arabien-stehen-a-08ba6cd1-e580-4a9b-a025-5303b6c32153#ref=rss)
+### dortmund
+
+* [https://www.spiegel.de/sport/fussball/fussball-transfers-victor-boniface-soll-vor-wechsel-nach-saudi-arabien-stehen](https://www.spiegel.de/sport/fussball/fussball-transfers-victor-boniface-soll-vor-wechsel-nach-saudi-arabien-stehen-a-08ba6cd1-e580-4a9b-a025-5303b6c32153#ref=rss)
 
