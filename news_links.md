@@ -4,265 +4,309 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### friedrich
+### menschen
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-inflation-serbien-friedrich-merz-und-die-brandmauer](https://www.spiegel.de/politik/deutschland/news-des-tages-inflation-serbien-friedrich-merz-und-die-brandmauer-a-7bcc0d91-6b3d-44a0-b25b-e19d84761bb3#ref=rss)
-* [https://www.spiegel.de/politik/streit-ueber-abstimmung-mit-afd-spd-fraktionschef-rolf-muetzenich-spricht-friedrich-merz-kanzlerfaehigkeit-ab](https://www.spiegel.de/politik/streit-ueber-abstimmung-mit-afd-spd-fraktionschef-rolf-muetzenich-spricht-friedrich-merz-kanzlerfaehigkeit-ab-a-387a3953-e233-4930-b9d8-d22b49a46c5b#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-inflation-serbien-friedrich-merz-und-die-brandmauer](https://www.spiegel.de/politik/deutschland/news-des-tages-inflation-serbien-friedrich-merz-und-die-brandmauer-a-7bcc0d91-6b3d-44a0-b25b-e19d84761bb3#ref=rss)
-* [https://www.spiegel.de/politik/streit-ueber-abstimmung-mit-afd-spd-fraktionschef-rolf-muetzenich-spricht-friedrich-merz-kanzlerfaehigkeit-ab](https://www.spiegel.de/politik/streit-ueber-abstimmung-mit-afd-spd-fraktionschef-rolf-muetzenich-spricht-friedrich-merz-kanzlerfaehigkeit-ab-a-387a3953-e233-4930-b9d8-d22b49a46c5b#ref=rss)
-### deepseek
-
-* [https://www.spiegel.de/netzwelt/hype-um-chinesischen-ki-anbieter-was-kann-deepseek-eigentlich](https://www.spiegel.de/netzwelt/hype-um-chinesischen-ki-anbieter-was-kann-deepseek-eigentlich-a-5aab9acc-1296-4962-ac97-312362b89342#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/deepseek-ist-nur-fuer-anleger-ein-schock](https://www.spiegel.de/netzwelt/web/deepseek-ist-nur-fuer-anleger-ein-schock-a-fcaf98a8-2ae0-44a6-8927-28554e649b7c#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/panorama/bildung/bayern-lisa-poettinger-darf-referendariat-laut-medienbericht-nicht-antreten-zweifel-an-verfassungstreue](https://www.spiegel.de/panorama/bildung/bayern-lisa-poettinger-darf-referendariat-laut-medienbericht-nicht-antreten-zweifel-an-verfassungstreue-a-9efefdb8-77f2-4078-baab-0d24471bfb67#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/archaeopteryx-forscher-analysieren-bisher-unbekanntes-urvogel-fossil](https://www.spiegel.de/wissenschaft/natur/archaeopteryx-forscher-analysieren-bisher-unbekanntes-urvogel-fossil-a-e7e8eea6-877f-4c1c-b953-57b1f9ff42a3#ref=rss)
-### lisa
-
-* [https://www.spiegel.de/panorama/bildung/bayern-lisa-poettinger-darf-referendariat-laut-medienbericht-nicht-antreten-zweifel-an-verfassungstreue](https://www.spiegel.de/panorama/bildung/bayern-lisa-poettinger-darf-referendariat-laut-medienbericht-nicht-antreten-zweifel-an-verfassungstreue-a-9efefdb8-77f2-4078-baab-0d24471bfb67#ref=rss)
-* [https://www.spiegel.de/kultur/mona-lisa-eigener-raum-geplant](https://www.spiegel.de/kultur/mona-lisa-eigener-raum-geplant-a-d479d48e-d77a-4fc9-9795-0ee0aa30c315#ref=rss)
-### kurz
-
-* [https://www.spiegel.de/auto/bundesverkehrswegeplan-wissing-winkt-alte-plaene-fuer-neue-strassen-durch](https://www.spiegel.de/auto/bundesverkehrswegeplan-wissing-winkt-alte-plaene-fuer-neue-strassen-durch-a-affbb59c-ebb5-471f-9900-c3a59433a693#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/linke-vermelden-groesste-spende-ihrer-parteigeschichte-300-000-euro](https://www.spiegel.de/politik/deutschland/linke-vermelden-groesste-spende-ihrer-parteigeschichte-300-000-euro-a-01f0e133-709d-40df-93b9-a4128fec0a34#ref=rss)
-* [https://www.spiegel.de/panorama/luebeck-10-millionen-diebstahl-aus-bank-schliessfaechern-polizei-setzt-belohnung-aus](https://www.spiegel.de/panorama/luebeck-10-millionen-diebstahl-aus-bank-schliessfaechern-polizei-setzt-belohnung-aus-a-592f3337-1113-4eed-b536-2f31c6df85a5#ref=rss)
-### italienische
-
-* [https://www.spiegel.de/ausland/giorgia-meloni-italienische-justiz-ermittelt-gegen-regierungschefin-wegen-freilassung-von-mutmasslichem-kriegsverbecher-aus-libyen](https://www.spiegel.de/ausland/giorgia-meloni-italienische-justiz-ermittelt-gegen-regierungschefin-wegen-freilassung-von-mutmasslichem-kriegsverbecher-aus-libyen-a-1b2b5bba-2fb6-47ec-b0b4-5aafa14fe752#ref=rss)
+* [https://www.spiegel.de/geschichte/verfolgte-des-nationalsozialismus-die-vielfalt-der-opfergruppen-anerkennen](https://www.spiegel.de/geschichte/verfolgte-des-nationalsozialismus-die-vielfalt-der-opfergruppen-anerkennen-a-bbc45f32-8e30-4148-8a4e-b20ad33381a4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/gfk-konsumklima-verbraucherstimmung-zu-jahresbeginn-weiter-getruebt](https://www.spiegel.de/wirtschaft/service/gfk-konsumklima-verbraucherstimmung-zu-jahresbeginn-weiter-getruebt-a-796ddfbc-cf62-43dc-826f-11c458c5a5d8#ref=rss)
+* [https://www.spiegel.de/auto/elektroauto-hat-deutschland-mehr-als-genug-ladesaeulen](https://www.spiegel.de/auto/elektroauto-hat-deutschland-mehr-als-genug-ladesaeulen-a-33917fcc-4752-4a1e-9e68-76cccdab1b9f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/frankfurt-an-der-oder-drei-menschen-sterben-bei-wohnungsbrand](https://www.spiegel.de/panorama/justiz/frankfurt-an-der-oder-drei-menschen-sterben-bei-wohnungsbrand-a-d7a5d7e9-013e-4bc7-b0f0-7f13bc13536d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/los-angeles-klimawandel-verstaerkt-toedliche-waldbraende-in-kalifornien](https://www.spiegel.de/wissenschaft/natur/los-angeles-klimawandel-verstaerkt-toedliche-waldbraende-in-kalifornien-a-a2e80889-06be-41c7-9e2d-ea944f652ae3#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/kultur/mona-lisa-eigener-raum-geplant](https://www.spiegel.de/kultur/mona-lisa-eigener-raum-geplant-a-d479d48e-d77a-4fc9-9795-0ee0aa30c315#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bundestagswahlkampf-versprechen-mehr-fuer-dich-und-die-wahrheit-ueber-die-sozialbeitraege](https://www.spiegel.de/wirtschaft/bundestagswahlkampf-versprechen-mehr-fuer-dich-und-die-wahrheit-ueber-die-sozialbeitraege-a-b32d3659-9914-4013-b33b-0b6684f94b87#ref=rss)
-### deutschen
+* [https://www.spiegel.de/wirtschaft/buergergeld-was-eine-arbeitspflicht-wie-in-schwerin-bewirken-wuerde](https://www.spiegel.de/wirtschaft/buergergeld-was-eine-arbeitspflicht-wie-in-schwerin-bewirken-wuerde-a-05ee7600-0de1-427f-bf4c-90002ec1b58d#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/wismar-mutter-schickt-ihren-sohn-ueber-jahre-nicht-zur-schule-bewaehrungsstrafe](https://www.spiegel.de/panorama/bildung/wismar-mutter-schickt-ihren-sohn-ueber-jahre-nicht-zur-schule-bewaehrungsstrafe-a-c2da78dd-1f0a-44bc-9025-e19be164e009#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/die-linke-parteispitze-fordert-streichung-von-adelstiteln-aus-dokumenten](https://www.spiegel.de/politik/deutschland/die-linke-parteispitze-fordert-streichung-von-adelstiteln-aus-dokumenten-a-79bdfe72-2c13-44e2-9429-94fa5db2b2b0#ref=rss)
+* [https://www.spiegel.de/auto/elektroauto-hat-deutschland-mehr-als-genug-ladesaeulen](https://www.spiegel.de/auto/elektroauto-hat-deutschland-mehr-als-genug-ladesaeulen-a-33917fcc-4752-4a1e-9e68-76cccdab1b9f#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/kultur/winnetou-als-symbol-fuer-deutsche-identitaet-clemens-meyer-ueber-karl-may](https://www.spiegel.de/kultur/winnetou-als-symbol-fuer-deutsche-identitaet-clemens-meyer-ueber-karl-may-a-78165a32-e974-4f92-b19b-ff199a4b898d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutsche-bahn-annaeherung-bei-tarifverhandlungen-mit-evg](https://www.spiegel.de/wirtschaft/deutsche-bahn-annaeherung-bei-tarifverhandlungen-mit-evg-a-7d7d46a1-59de-4d75-8497-4eb9e1db39c1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bundestagswahlkampf-versprechen-mehr-fuer-dich-und-die-wahrheit-ueber-die-sozialbeitraege](https://www.spiegel.de/wirtschaft/bundestagswahlkampf-versprechen-mehr-fuer-dich-und-die-wahrheit-ueber-die-sozialbeitraege-a-b32d3659-9914-4013-b33b-0b6684f94b87#ref=rss)
-### jahren
+* [https://www.spiegel.de/gesundheit/diphtherie-in-berlin-kind-nach-erkrankung-gestorben](https://www.spiegel.de/gesundheit/diphtherie-in-berlin-kind-nach-erkrankung-gestorben-a-55d7cc4c-ec21-47ad-960b-eb9ba5b7681e#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/eisbaeren-berlin-verlegen-del-spitzenspiel-in-sorge-um-schwer-kranken-eder](https://www.spiegel.de/sport/wintersport/eisbaeren-berlin-verlegen-del-spitzenspiel-in-sorge-um-schwer-kranken-eder-a-c09d45e1-4134-4ef4-8425-4d1df40087ec#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-kanzleramt-in-berlin-waechst-um-zehn-prozent-77-neue-mitarbeiter](https://www.spiegel.de/politik/deutschland/olaf-scholz-kanzleramt-in-berlin-waechst-um-zehn-prozent-77-neue-mitarbeiter-a-9dfff117-13b1-4170-802e-022d7a0a9879#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/politik/deutschland/linke-vermelden-groesste-spende-ihrer-parteigeschichte-300-000-euro](https://www.spiegel.de/politik/deutschland/linke-vermelden-groesste-spende-ihrer-parteigeschichte-300-000-euro-a-01f0e133-709d-40df-93b9-a4128fec0a34#ref=rss)
-* [https://www.spiegel.de/kultur/horst-janson-in-bildern-trauer-um-den-fernsehliebling-einer-generation](https://www.spiegel.de/kultur/horst-janson-in-bildern-trauer-um-den-fernsehliebling-einer-generation-a-dff6cd1f-64f3-4395-934c-e6b1ce2c441b#ref=rss)
-* [https://www.spiegel.de/sport/tischtennis-11-jaehriger-debuetiert-in-der-bundesliga-gegen-den-olympiavierten](https://www.spiegel.de/sport/tischtennis-11-jaehriger-debuetiert-in-der-bundesliga-gegen-den-olympiavierten-a-df20da0f-64e6-442a-8054-2182461908c6#ref=rss)
-### tijuana
+* [https://www.spiegel.de/gesundheit/diphtherie-in-berlin-kind-nach-erkrankung-gestorben](https://www.spiegel.de/gesundheit/diphtherie-in-berlin-kind-nach-erkrankung-gestorben-a-55d7cc4c-ec21-47ad-960b-eb9ba5b7681e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/die-linke-parteispitze-fordert-streichung-von-adelstiteln-aus-dokumenten](https://www.spiegel.de/politik/deutschland/die-linke-parteispitze-fordert-streichung-von-adelstiteln-aus-dokumenten-a-79bdfe72-2c13-44e2-9429-94fa5db2b2b0#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-palaestinenserin-eroeffnete-eigene-schule-mithilfe-von-spenden-aus-deutschland](https://www.spiegel.de/ausland/gaza-palaestinenserin-eroeffnete-eigene-schule-mithilfe-von-spenden-aus-deutschland-a-adeacbeb-6587-42cd-b819-3d054b37bbb3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afghanen-in-deutschland-traumata-und-unsicherheit-nach-der-gewalttat-in-aschaffenburg](https://www.spiegel.de/politik/deutschland/afghanen-in-deutschland-traumata-und-unsicherheit-nach-der-gewalttat-in-aschaffenburg-a-e9013fc7-9054-4ef7-901a-8ca87883bb13#ref=rss)
+* [https://www.spiegel.de/auto/elektroauto-hat-deutschland-mehr-als-genug-ladesaeulen](https://www.spiegel.de/auto/elektroauto-hat-deutschland-mehr-als-genug-ladesaeulen-a-33917fcc-4752-4a1e-9e68-76cccdab1b9f#ref=rss)
+### mehrere
 
-* [https://www.spiegel.de/ausland/tijuana-an-usa-mexiko-grenze-trumps-notstandserklaerung-und-abschottung-podcast](https://www.spiegel.de/ausland/tijuana-an-usa-mexiko-grenze-trumps-notstandserklaerung-und-abschottung-podcast-a-ed42b4be-3313-4b5f-9f04-4d77a1f710b8#ref=rss)
-### abschottung
+* [https://www.spiegel.de/ausland/demokratische-republik-kongo-m23-miliz-kontrolliert-teile-von-goma](https://www.spiegel.de/ausland/demokratische-republik-kongo-m23-miliz-kontrolliert-teile-von-goma-a-7543a452-b210-49d5-80ff-561dfbdc3616#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/sande-streit-zwischen-maedchen-eskaliert-14-jaehrige-verletzt-im-krankenhaus](https://www.spiegel.de/panorama/bildung/sande-streit-zwischen-maedchen-eskaliert-14-jaehrige-verletzt-im-krankenhaus-a-11474cfe-b510-4615-9228-5050147ab01e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hamburger-hafen-fast-800-kilogramm-kokain-in-kuehlcontainern-geschmuggelt](https://www.spiegel.de/panorama/justiz/hamburger-hafen-fast-800-kilogramm-kokain-in-kuehlcontainern-geschmuggelt-a-a345ff25-5328-4f9e-a1e6-fe2a170c5862#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/razzien-gegen-schleuserkriminalitaet-grosseinsatz-der-bundespolizei](https://www.spiegel.de/panorama/justiz/razzien-gegen-schleuserkriminalitaet-grosseinsatz-der-bundespolizei-a-0bb32e8e-1c34-48ce-a487-04c21e933792#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/frankfurt-an-der-oder-drei-menschen-sterben-bei-wohnungsbrand](https://www.spiegel.de/panorama/justiz/frankfurt-an-der-oder-drei-menschen-sterben-bei-wohnungsbrand-a-d7a5d7e9-013e-4bc7-b0f0-7f13bc13536d#ref=rss)
+### schule
 
-* [https://www.spiegel.de/ausland/tijuana-an-usa-mexiko-grenze-trumps-notstandserklaerung-und-abschottung-podcast](https://www.spiegel.de/ausland/tijuana-an-usa-mexiko-grenze-trumps-notstandserklaerung-und-abschottung-podcast-a-ed42b4be-3313-4b5f-9f04-4d77a1f710b8#ref=rss)
-### trump
+* [https://www.spiegel.de/panorama/bildung/wismar-mutter-schickt-ihren-sohn-ueber-jahre-nicht-zur-schule-bewaehrungsstrafe](https://www.spiegel.de/panorama/bildung/wismar-mutter-schickt-ihren-sohn-ueber-jahre-nicht-zur-schule-bewaehrungsstrafe-a-c2da78dd-1f0a-44bc-9025-e19be164e009#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-palaestinenserin-eroeffnete-eigene-schule-mithilfe-von-spenden-aus-deutschland](https://www.spiegel.de/ausland/gaza-palaestinenserin-eroeffnete-eigene-schule-mithilfe-von-spenden-aus-deutschland-a-adeacbeb-6587-42cd-b819-3d054b37bbb3#ref=rss)
+### schwerin
 
-* [https://www.spiegel.de/ausland/tijuana-an-usa-mexiko-grenze-trumps-notstandserklaerung-und-abschottung-podcast](https://www.spiegel.de/ausland/tijuana-an-usa-mexiko-grenze-trumps-notstandserklaerung-und-abschottung-podcast-a-ed42b4be-3313-4b5f-9f04-4d77a1f710b8#ref=rss)
-* [https://www.spiegel.de/ausland/groenland-daenemark-plant-aufruestung-mit-neuen-kriegsschiffen](https://www.spiegel.de/ausland/groenland-daenemark-plant-aufruestung-mit-neuen-kriegsschiffen-a-344d813a-39a8-423f-8df7-596e6db18a7a#ref=rss)
-### setzt
-
-* [https://www.spiegel.de/ausland/tijuana-an-usa-mexiko-grenze-trumps-notstandserklaerung-und-abschottung-podcast](https://www.spiegel.de/ausland/tijuana-an-usa-mexiko-grenze-trumps-notstandserklaerung-und-abschottung-podcast-a-ed42b4be-3313-4b5f-9f04-4d77a1f710b8#ref=rss)
-* [https://www.spiegel.de/panorama/luebeck-10-millionen-diebstahl-aus-bank-schliessfaechern-polizei-setzt-belohnung-aus](https://www.spiegel.de/panorama/luebeck-10-millionen-diebstahl-aus-bank-schliessfaechern-polizei-setzt-belohnung-aus-a-592f3337-1113-4eed-b536-2f31c6df85a5#ref=rss)
-### referendariat
-
-* [https://www.spiegel.de/panorama/bildung/bayern-lisa-poettinger-darf-referendariat-laut-medienbericht-nicht-antreten-zweifel-an-verfassungstreue](https://www.spiegel.de/panorama/bildung/bayern-lisa-poettinger-darf-referendariat-laut-medienbericht-nicht-antreten-zweifel-an-verfassungstreue-a-9efefdb8-77f2-4078-baab-0d24471bfb67#ref=rss)
-### laut
-
-* [https://www.spiegel.de/panorama/bildung/bayern-lisa-poettinger-darf-referendariat-laut-medienbericht-nicht-antreten-zweifel-an-verfassungstreue](https://www.spiegel.de/panorama/bildung/bayern-lisa-poettinger-darf-referendariat-laut-medienbericht-nicht-antreten-zweifel-an-verfassungstreue-a-9efefdb8-77f2-4078-baab-0d24471bfb67#ref=rss)
-### medienbericht
-
-* [https://www.spiegel.de/panorama/bildung/bayern-lisa-poettinger-darf-referendariat-laut-medienbericht-nicht-antreten-zweifel-an-verfassungstreue](https://www.spiegel.de/panorama/bildung/bayern-lisa-poettinger-darf-referendariat-laut-medienbericht-nicht-antreten-zweifel-an-verfassungstreue-a-9efefdb8-77f2-4078-baab-0d24471bfb67#ref=rss)
-### antreten
-
-* [https://www.spiegel.de/panorama/bildung/bayern-lisa-poettinger-darf-referendariat-laut-medienbericht-nicht-antreten-zweifel-an-verfassungstreue](https://www.spiegel.de/panorama/bildung/bayern-lisa-poettinger-darf-referendariat-laut-medienbericht-nicht-antreten-zweifel-an-verfassungstreue-a-9efefdb8-77f2-4078-baab-0d24471bfb67#ref=rss)
-### zweifel
-
-* [https://www.spiegel.de/panorama/bildung/bayern-lisa-poettinger-darf-referendariat-laut-medienbericht-nicht-antreten-zweifel-an-verfassungstreue](https://www.spiegel.de/panorama/bildung/bayern-lisa-poettinger-darf-referendariat-laut-medienbericht-nicht-antreten-zweifel-an-verfassungstreue-a-9efefdb8-77f2-4078-baab-0d24471bfb67#ref=rss)
-* [https://www.spiegel.de/politik/streit-ueber-abstimmung-mit-afd-spd-fraktionschef-rolf-muetzenich-spricht-friedrich-merz-kanzlerfaehigkeit-ab](https://www.spiegel.de/politik/streit-ueber-abstimmung-mit-afd-spd-fraktionschef-rolf-muetzenich-spricht-friedrich-merz-kanzlerfaehigkeit-ab-a-387a3953-e233-4930-b9d8-d22b49a46c5b#ref=rss)
-### verfassungstreue
-
-* [https://www.spiegel.de/panorama/bildung/bayern-lisa-poettinger-darf-referendariat-laut-medienbericht-nicht-antreten-zweifel-an-verfassungstreue](https://www.spiegel.de/panorama/bildung/bayern-lisa-poettinger-darf-referendariat-laut-medienbericht-nicht-antreten-zweifel-an-verfassungstreue-a-9efefdb8-77f2-4078-baab-0d24471bfb67#ref=rss)
-### bundesverkehrswegeplan
-
-* [https://www.spiegel.de/auto/bundesverkehrswegeplan-wissing-winkt-alte-plaene-fuer-neue-strassen-durch](https://www.spiegel.de/auto/bundesverkehrswegeplan-wissing-winkt-alte-plaene-fuer-neue-strassen-durch-a-affbb59c-ebb5-471f-9900-c3a59433a693#ref=rss)
-### alte
-
-* [https://www.spiegel.de/auto/bundesverkehrswegeplan-wissing-winkt-alte-plaene-fuer-neue-strassen-durch](https://www.spiegel.de/auto/bundesverkehrswegeplan-wissing-winkt-alte-plaene-fuer-neue-strassen-durch-a-affbb59c-ebb5-471f-9900-c3a59433a693#ref=rss)
+* [https://www.spiegel.de/wirtschaft/buergergeld-was-eine-arbeitspflicht-wie-in-schwerin-bewirken-wuerde](https://www.spiegel.de/wirtschaft/buergergeld-was-eine-arbeitspflicht-wie-in-schwerin-bewirken-wuerde-a-05ee7600-0de1-427f-bf4c-90002ec1b58d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/buergergeld-in-schwerin-stadt-beschliesst-arbeitspflicht-fuer-empfaenger](https://www.spiegel.de/wirtschaft/soziales/buergergeld-in-schwerin-stadt-beschliesst-arbeitspflicht-fuer-empfaenger-a-19e6a513-3507-4f46-b753-3fe41de1dd40#ref=rss)
 ### neue
 
-* [https://www.spiegel.de/auto/bundesverkehrswegeplan-wissing-winkt-alte-plaene-fuer-neue-strassen-durch](https://www.spiegel.de/auto/bundesverkehrswegeplan-wissing-winkt-alte-plaene-fuer-neue-strassen-durch-a-affbb59c-ebb5-471f-9900-c3a59433a693#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/archaeopteryx-forscher-analysieren-bisher-unbekanntes-urvogel-fossil](https://www.spiegel.de/wissenschaft/natur/archaeopteryx-forscher-analysieren-bisher-unbekanntes-urvogel-fossil-a-e7e8eea6-877f-4c1c-b953-57b1f9ff42a3#ref=rss)
-### wahl
+* [https://www.spiegel.de/wirtschaft/buergergeld-was-eine-arbeitspflicht-wie-in-schwerin-bewirken-wuerde](https://www.spiegel.de/wirtschaft/buergergeld-was-eine-arbeitspflicht-wie-in-schwerin-bewirken-wuerde-a-05ee7600-0de1-427f-bf4c-90002ec1b58d#ref=rss)
+* [https://www.spiegel.de/ausland/usa-pentagon-entzieht-ex-generalstabschef-mark-milley-sicherheitsfreigabe](https://www.spiegel.de/ausland/usa-pentagon-entzieht-ex-generalstabschef-mark-milley-sicherheitsfreigabe-a-4945f47d-c3a7-4f43-b862-76d993e4f862#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-kanzleramt-in-berlin-waechst-um-zehn-prozent-77-neue-mitarbeiter](https://www.spiegel.de/politik/deutschland/olaf-scholz-kanzleramt-in-berlin-waechst-um-zehn-prozent-77-neue-mitarbeiter-a-9dfff117-13b1-4170-802e-022d7a0a9879#ref=rss)
+### drei
 
-* [https://www.spiegel.de/auto/bundesverkehrswegeplan-wissing-winkt-alte-plaene-fuer-neue-strassen-durch](https://www.spiegel.de/auto/bundesverkehrswegeplan-wissing-winkt-alte-plaene-fuer-neue-strassen-durch-a-affbb59c-ebb5-471f-9900-c3a59433a693#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/linke-vermelden-groesste-spende-ihrer-parteigeschichte-300-000-euro](https://www.spiegel.de/politik/deutschland/linke-vermelden-groesste-spende-ihrer-parteigeschichte-300-000-euro-a-01f0e133-709d-40df-93b9-a4128fec0a34#ref=rss)
-### palästinenser
+* [https://www.spiegel.de/ausland/ecowas-mali-burkina-faso-und-niger-verlassen-afrikanische-wirtschaftsgemeinschaft](https://www.spiegel.de/ausland/ecowas-mali-burkina-faso-und-niger-verlassen-afrikanische-wirtschaftsgemeinschaft-a-220e9e42-a060-4ca8-98d9-12c2b5c51b2c#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/sande-streit-zwischen-maedchen-eskaliert-14-jaehrige-verletzt-im-krankenhaus](https://www.spiegel.de/panorama/bildung/sande-streit-zwischen-maedchen-eskaliert-14-jaehrige-verletzt-im-krankenhaus-a-11474cfe-b510-4615-9228-5050147ab01e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/frankfurt-an-der-oder-drei-menschen-sterben-bei-wohnungsbrand](https://www.spiegel.de/panorama/justiz/frankfurt-an-der-oder-drei-menschen-sterben-bei-wohnungsbrand-a-d7a5d7e9-013e-4bc7-b0f0-7f13bc13536d#ref=rss)
+### bundestag
 
-* [https://www.spiegel.de/ausland/gaza-zurueckkehrende-palaestinenser-sind-schockiert-ueber-die-zerstoerung](https://www.spiegel.de/ausland/gaza-zurueckkehrende-palaestinenser-sind-schockiert-ueber-die-zerstoerung-a-b95deb42-68ec-4e13-92cb-5b869a6a1a7a#ref=rss)
-### schockiert
+* [https://www.spiegel.de/politik/deutschland/wuerdigung-der-ns-opfer-im-bundestag-so-laeuft-die-gedenkstunde](https://www.spiegel.de/politik/deutschland/wuerdigung-der-ns-opfer-im-bundestag-so-laeuft-die-gedenkstunde-a-21bbe591-3b68-4f10-988d-0360967a0201#ref=rss)
+* [https://www.spiegel.de/geschichte/verfolgte-des-nationalsozialismus-die-vielfalt-der-opfergruppen-anerkennen](https://www.spiegel.de/geschichte/verfolgte-des-nationalsozialismus-die-vielfalt-der-opfergruppen-anerkennen-a-bbc45f32-8e30-4148-8a4e-b20ad33381a4#ref=rss)
+### jahre
 
-* [https://www.spiegel.de/ausland/gaza-zurueckkehrende-palaestinenser-sind-schockiert-ueber-die-zerstoerung](https://www.spiegel.de/ausland/gaza-zurueckkehrende-palaestinenser-sind-schockiert-ueber-die-zerstoerung-a-b95deb42-68ec-4e13-92cb-5b869a6a1a7a#ref=rss)
-### meloni
+* [https://www.spiegel.de/politik/deutschland/wuerdigung-der-ns-opfer-im-bundestag-so-laeuft-die-gedenkstunde](https://www.spiegel.de/politik/deutschland/wuerdigung-der-ns-opfer-im-bundestag-so-laeuft-die-gedenkstunde-a-21bbe591-3b68-4f10-988d-0360967a0201#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/wismar-mutter-schickt-ihren-sohn-ueber-jahre-nicht-zur-schule-bewaehrungsstrafe](https://www.spiegel.de/panorama/bildung/wismar-mutter-schickt-ihren-sohn-ueber-jahre-nicht-zur-schule-bewaehrungsstrafe-a-c2da78dd-1f0a-44bc-9025-e19be164e009#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hamburger-hafen-fast-800-kilogramm-kokain-in-kuehlcontainern-geschmuggelt](https://www.spiegel.de/panorama/justiz/hamburger-hafen-fast-800-kilogramm-kokain-in-kuehlcontainern-geschmuggelt-a-a345ff25-5328-4f9e-a1e6-fe2a170c5862#ref=rss)
+### olaf
 
-* [https://www.spiegel.de/ausland/giorgia-meloni-italienische-justiz-ermittelt-gegen-regierungschefin-wegen-freilassung-von-mutmasslichem-kriegsverbecher-aus-libyen](https://www.spiegel.de/ausland/giorgia-meloni-italienische-justiz-ermittelt-gegen-regierungschefin-wegen-freilassung-von-mutmasslichem-kriegsverbecher-aus-libyen-a-1b2b5bba-2fb6-47ec-b0b4-5aafa14fe752#ref=rss)
-### justiz
+* [https://www.spiegel.de/politik/deutschland/wuerdigung-der-ns-opfer-im-bundestag-so-laeuft-die-gedenkstunde](https://www.spiegel.de/politik/deutschland/wuerdigung-der-ns-opfer-im-bundestag-so-laeuft-die-gedenkstunde-a-21bbe591-3b68-4f10-988d-0360967a0201#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-kanzleramt-in-berlin-waechst-um-zehn-prozent-77-neue-mitarbeiter](https://www.spiegel.de/politik/deutschland/olaf-scholz-kanzleramt-in-berlin-waechst-um-zehn-prozent-77-neue-mitarbeiter-a-9dfff117-13b1-4170-802e-022d7a0a9879#ref=rss)
+### scholz
 
-* [https://www.spiegel.de/ausland/giorgia-meloni-italienische-justiz-ermittelt-gegen-regierungschefin-wegen-freilassung-von-mutmasslichem-kriegsverbecher-aus-libyen](https://www.spiegel.de/ausland/giorgia-meloni-italienische-justiz-ermittelt-gegen-regierungschefin-wegen-freilassung-von-mutmasslichem-kriegsverbecher-aus-libyen-a-1b2b5bba-2fb6-47ec-b0b4-5aafa14fe752#ref=rss)
-### ermittelt
+* [https://www.spiegel.de/politik/deutschland/wuerdigung-der-ns-opfer-im-bundestag-so-laeuft-die-gedenkstunde](https://www.spiegel.de/politik/deutschland/wuerdigung-der-ns-opfer-im-bundestag-so-laeuft-die-gedenkstunde-a-21bbe591-3b68-4f10-988d-0360967a0201#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-kanzleramt-in-berlin-waechst-um-zehn-prozent-77-neue-mitarbeiter](https://www.spiegel.de/politik/deutschland/olaf-scholz-kanzleramt-in-berlin-waechst-um-zehn-prozent-77-neue-mitarbeiter-a-9dfff117-13b1-4170-802e-022d7a0a9879#ref=rss)
+### arbeitspflicht
 
-* [https://www.spiegel.de/ausland/giorgia-meloni-italienische-justiz-ermittelt-gegen-regierungschefin-wegen-freilassung-von-mutmasslichem-kriegsverbecher-aus-libyen](https://www.spiegel.de/ausland/giorgia-meloni-italienische-justiz-ermittelt-gegen-regierungschefin-wegen-freilassung-von-mutmasslichem-kriegsverbecher-aus-libyen-a-1b2b5bba-2fb6-47ec-b0b4-5aafa14fe752#ref=rss)
-### mona
+* [https://www.spiegel.de/wirtschaft/buergergeld-was-eine-arbeitspflicht-wie-in-schwerin-bewirken-wuerde](https://www.spiegel.de/wirtschaft/buergergeld-was-eine-arbeitspflicht-wie-in-schwerin-bewirken-wuerde-a-05ee7600-0de1-427f-bf4c-90002ec1b58d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/buergergeld-in-schwerin-stadt-beschliesst-arbeitspflicht-fuer-empfaenger](https://www.spiegel.de/wirtschaft/soziales/buergergeld-in-schwerin-stadt-beschliesst-arbeitspflicht-fuer-empfaenger-a-19e6a513-3507-4f46-b753-3fe41de1dd40#ref=rss)
+### unter
 
-* [https://www.spiegel.de/kultur/mona-lisa-eigener-raum-geplant](https://www.spiegel.de/kultur/mona-lisa-eigener-raum-geplant-a-d479d48e-d77a-4fc9-9795-0ee0aa30c315#ref=rss)
-### nötig
+* [https://www.spiegel.de/ausland/demokratische-republik-kongo-m23-miliz-kontrolliert-teile-von-goma](https://www.spiegel.de/ausland/demokratische-republik-kongo-m23-miliz-kontrolliert-teile-von-goma-a-7543a452-b210-49d5-80ff-561dfbdc3616#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-palaestinenserin-eroeffnete-eigene-schule-mithilfe-von-spenden-aus-deutschland](https://www.spiegel.de/ausland/gaza-palaestinenserin-eroeffnete-eigene-schule-mithilfe-von-spenden-aus-deutschland-a-adeacbeb-6587-42cd-b819-3d054b37bbb3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-kanzleramt-in-berlin-waechst-um-zehn-prozent-77-neue-mitarbeiter](https://www.spiegel.de/politik/deutschland/olaf-scholz-kanzleramt-in-berlin-waechst-um-zehn-prozent-77-neue-mitarbeiter-a-9dfff117-13b1-4170-802e-022d7a0a9879#ref=rss)
+### schwer
 
-* [https://www.spiegel.de/kultur/mona-lisa-eigener-raum-geplant](https://www.spiegel.de/kultur/mona-lisa-eigener-raum-geplant-a-d479d48e-d77a-4fc9-9795-0ee0aa30c315#ref=rss)
-* [https://www.spiegel.de/ausland/groenland-daenemark-plant-aufruestung-mit-neuen-kriegsschiffen](https://www.spiegel.de/ausland/groenland-daenemark-plant-aufruestung-mit-neuen-kriegsschiffen-a-344d813a-39a8-423f-8df7-596e6db18a7a#ref=rss)
-### neuen
+* [https://www.spiegel.de/panorama/bildung/sande-streit-zwischen-maedchen-eskaliert-14-jaehrige-verletzt-im-krankenhaus](https://www.spiegel.de/panorama/bildung/sande-streit-zwischen-maedchen-eskaliert-14-jaehrige-verletzt-im-krankenhaus-a-11474cfe-b510-4615-9228-5050147ab01e#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/eisbaeren-berlin-verlegen-del-spitzenspiel-in-sorge-um-schwer-kranken-eder](https://www.spiegel.de/sport/wintersport/eisbaeren-berlin-verlegen-del-spitzenspiel-in-sorge-um-schwer-kranken-eder-a-c09d45e1-4134-4ef4-8425-4d1df40087ec#ref=rss)
+* [https://www.spiegel.de/gesundheit/patientenakte-ploetzlich-hatte-ich-eine-depressive-episode-nicht-naeher-bezeichnet](https://www.spiegel.de/gesundheit/patientenakte-ploetzlich-hatte-ich-eine-depressive-episode-nicht-naeher-bezeichnet-a-f905e22a-16bc-4df0-b0b0-8a177128cfa0#ref=rss)
+### folgen
 
-* [https://www.spiegel.de/kultur/mona-lisa-eigener-raum-geplant](https://www.spiegel.de/kultur/mona-lisa-eigener-raum-geplant-a-d479d48e-d77a-4fc9-9795-0ee0aa30c315#ref=rss)
-* [https://www.spiegel.de/ausland/groenland-daenemark-plant-aufruestung-mit-neuen-kriegsschiffen](https://www.spiegel.de/ausland/groenland-daenemark-plant-aufruestung-mit-neuen-kriegsschiffen-a-344d813a-39a8-423f-8df7-596e6db18a7a#ref=rss)
-### winnetou
+* [https://www.spiegel.de/gesundheit/patientenakte-ploetzlich-hatte-ich-eine-depressive-episode-nicht-naeher-bezeichnet](https://www.spiegel.de/gesundheit/patientenakte-ploetzlich-hatte-ich-eine-depressive-episode-nicht-naeher-bezeichnet-a-f905e22a-16bc-4df0-b0b0-8a177128cfa0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afghanen-in-deutschland-traumata-und-unsicherheit-nach-der-gewalttat-in-aschaffenburg](https://www.spiegel.de/politik/deutschland/afghanen-in-deutschland-traumata-und-unsicherheit-nach-der-gewalttat-in-aschaffenburg-a-e9013fc7-9054-4ef7-901a-8ca87883bb13#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/los-angeles-klimawandel-verstaerkt-toedliche-waldbraende-in-kalifornien](https://www.spiegel.de/wissenschaft/natur/los-angeles-klimawandel-verstaerkt-toedliche-waldbraende-in-kalifornien-a-a2e80889-06be-41c7-9e2d-ea944f652ae3#ref=rss)
+### ecowas
 
-* [https://www.spiegel.de/kultur/winnetou-als-symbol-fuer-deutsche-identitaet-clemens-meyer-ueber-karl-may](https://www.spiegel.de/kultur/winnetou-als-symbol-fuer-deutsche-identitaet-clemens-meyer-ueber-karl-may-a-78165a32-e974-4f92-b19b-ff199a4b898d#ref=rss)
-### deutsche
+* [https://www.spiegel.de/ausland/ecowas-mali-burkina-faso-und-niger-verlassen-afrikanische-wirtschaftsgemeinschaft](https://www.spiegel.de/ausland/ecowas-mali-burkina-faso-und-niger-verlassen-afrikanische-wirtschaftsgemeinschaft-a-220e9e42-a060-4ca8-98d9-12c2b5c51b2c#ref=rss)
+### mali
 
-* [https://www.spiegel.de/kultur/winnetou-als-symbol-fuer-deutsche-identitaet-clemens-meyer-ueber-karl-may](https://www.spiegel.de/kultur/winnetou-als-symbol-fuer-deutsche-identitaet-clemens-meyer-ueber-karl-may-a-78165a32-e974-4f92-b19b-ff199a4b898d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutsche-bahn-annaeherung-bei-tarifverhandlungen-mit-evg](https://www.spiegel.de/wirtschaft/deutsche-bahn-annaeherung-bei-tarifverhandlungen-mit-evg-a-7d7d46a1-59de-4d75-8497-4eb9e1db39c1#ref=rss)
-### clemens
+* [https://www.spiegel.de/ausland/ecowas-mali-burkina-faso-und-niger-verlassen-afrikanische-wirtschaftsgemeinschaft](https://www.spiegel.de/ausland/ecowas-mali-burkina-faso-und-niger-verlassen-afrikanische-wirtschaftsgemeinschaft-a-220e9e42-a060-4ca8-98d9-12c2b5c51b2c#ref=rss)
+### burkina
 
-* [https://www.spiegel.de/kultur/winnetou-als-symbol-fuer-deutsche-identitaet-clemens-meyer-ueber-karl-may](https://www.spiegel.de/kultur/winnetou-als-symbol-fuer-deutsche-identitaet-clemens-meyer-ueber-karl-may-a-78165a32-e974-4f92-b19b-ff199a4b898d#ref=rss)
-### meyer
+* [https://www.spiegel.de/ausland/ecowas-mali-burkina-faso-und-niger-verlassen-afrikanische-wirtschaftsgemeinschaft](https://www.spiegel.de/ausland/ecowas-mali-burkina-faso-und-niger-verlassen-afrikanische-wirtschaftsgemeinschaft-a-220e9e42-a060-4ca8-98d9-12c2b5c51b2c#ref=rss)
+### faso
 
-* [https://www.spiegel.de/kultur/winnetou-als-symbol-fuer-deutsche-identitaet-clemens-meyer-ueber-karl-may](https://www.spiegel.de/kultur/winnetou-als-symbol-fuer-deutsche-identitaet-clemens-meyer-ueber-karl-may-a-78165a32-e974-4f92-b19b-ff199a4b898d#ref=rss)
-### karl
+* [https://www.spiegel.de/ausland/ecowas-mali-burkina-faso-und-niger-verlassen-afrikanische-wirtschaftsgemeinschaft](https://www.spiegel.de/ausland/ecowas-mali-burkina-faso-und-niger-verlassen-afrikanische-wirtschaftsgemeinschaft-a-220e9e42-a060-4ca8-98d9-12c2b5c51b2c#ref=rss)
+### niger
 
-* [https://www.spiegel.de/kultur/winnetou-als-symbol-fuer-deutsche-identitaet-clemens-meyer-ueber-karl-may](https://www.spiegel.de/kultur/winnetou-als-symbol-fuer-deutsche-identitaet-clemens-meyer-ueber-karl-may-a-78165a32-e974-4f92-b19b-ff199a4b898d#ref=rss)
-### may
+* [https://www.spiegel.de/ausland/ecowas-mali-burkina-faso-und-niger-verlassen-afrikanische-wirtschaftsgemeinschaft](https://www.spiegel.de/ausland/ecowas-mali-burkina-faso-und-niger-verlassen-afrikanische-wirtschaftsgemeinschaft-a-220e9e42-a060-4ca8-98d9-12c2b5c51b2c#ref=rss)
+### wirtschaftsgemeinschaft
 
-* [https://www.spiegel.de/kultur/winnetou-als-symbol-fuer-deutsche-identitaet-clemens-meyer-ueber-karl-may](https://www.spiegel.de/kultur/winnetou-als-symbol-fuer-deutsche-identitaet-clemens-meyer-ueber-karl-may-a-78165a32-e974-4f92-b19b-ff199a4b898d#ref=rss)
-### linke
+* [https://www.spiegel.de/ausland/ecowas-mali-burkina-faso-und-niger-verlassen-afrikanische-wirtschaftsgemeinschaft](https://www.spiegel.de/ausland/ecowas-mali-burkina-faso-und-niger-verlassen-afrikanische-wirtschaftsgemeinschaft-a-220e9e42-a060-4ca8-98d9-12c2b5c51b2c#ref=rss)
+### allem
 
-* [https://www.spiegel.de/politik/deutschland/linke-vermelden-groesste-spende-ihrer-parteigeschichte-300-000-euro](https://www.spiegel.de/politik/deutschland/linke-vermelden-groesste-spende-ihrer-parteigeschichte-300-000-euro-a-01f0e133-709d-40df-93b9-a4128fec0a34#ref=rss)
-### partei
+* [https://www.spiegel.de/ausland/ecowas-mali-burkina-faso-und-niger-verlassen-afrikanische-wirtschaftsgemeinschaft](https://www.spiegel.de/ausland/ecowas-mali-burkina-faso-und-niger-verlassen-afrikanische-wirtschaftsgemeinschaft-a-220e9e42-a060-4ca8-98d9-12c2b5c51b2c#ref=rss)
+* [https://www.spiegel.de/panorama/leute/katy-perry-so-staerkt-sie-ihre-beziehung-zu-orlando-bloom](https://www.spiegel.de/panorama/leute/katy-perry-so-staerkt-sie-ihre-beziehung-zu-orlando-bloom-a-01b7dd1a-145a-45c6-8661-0b82fd086fdf#ref=rss)
+### präsident
 
-* [https://www.spiegel.de/politik/deutschland/linke-vermelden-groesste-spende-ihrer-parteigeschichte-300-000-euro](https://www.spiegel.de/politik/deutschland/linke-vermelden-groesste-spende-ihrer-parteigeschichte-300-000-euro-a-01f0e133-709d-40df-93b9-a4128fec0a34#ref=rss)
-* [https://www.spiegel.de/kultur/afd-alice-weidel-im-wahlwerbespot-ein-eiszapfen-fuer-deutschland](https://www.spiegel.de/kultur/afd-alice-weidel-im-wahlwerbespot-ein-eiszapfen-fuer-deutschland-a-7e9fff5d-00f8-4b24-8b44-1b2592715789#ref=rss)
+* [https://www.spiegel.de/ausland/ecowas-mali-burkina-faso-und-niger-verlassen-afrikanische-wirtschaftsgemeinschaft](https://www.spiegel.de/ausland/ecowas-mali-burkina-faso-und-niger-verlassen-afrikanische-wirtschaftsgemeinschaft-a-220e9e42-a060-4ca8-98d9-12c2b5c51b2c#ref=rss)
+* [https://www.spiegel.de/ausland/demokratische-republik-kongo-m23-miliz-kontrolliert-teile-von-goma](https://www.spiegel.de/ausland/demokratische-republik-kongo-m23-miliz-kontrolliert-teile-von-goma-a-7543a452-b210-49d5-80ff-561dfbdc3616#ref=rss)
+### bürgergeld
+
+* [https://www.spiegel.de/wirtschaft/buergergeld-was-eine-arbeitspflicht-wie-in-schwerin-bewirken-wuerde](https://www.spiegel.de/wirtschaft/buergergeld-was-eine-arbeitspflicht-wie-in-schwerin-bewirken-wuerde-a-05ee7600-0de1-427f-bf4c-90002ec1b58d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/buergergeld-in-schwerin-stadt-beschliesst-arbeitspflicht-fuer-empfaenger](https://www.spiegel.de/wirtschaft/soziales/buergergeld-in-schwerin-stadt-beschliesst-arbeitspflicht-fuer-empfaenger-a-19e6a513-3507-4f46-b753-3fe41de1dd40#ref=rss)
+### republik
+
+* [https://www.spiegel.de/ausland/demokratische-republik-kongo-m23-miliz-kontrolliert-teile-von-goma](https://www.spiegel.de/ausland/demokratische-republik-kongo-m23-miliz-kontrolliert-teile-von-goma-a-7543a452-b210-49d5-80ff-561dfbdc3616#ref=rss)
+### kongo
+
+* [https://www.spiegel.de/ausland/demokratische-republik-kongo-m23-miliz-kontrolliert-teile-von-goma](https://www.spiegel.de/ausland/demokratische-republik-kongo-m23-miliz-kontrolliert-teile-von-goma-a-7543a452-b210-49d5-80ff-561dfbdc3616#ref=rss)
+### goma
+
+* [https://www.spiegel.de/ausland/demokratische-republik-kongo-m23-miliz-kontrolliert-teile-von-goma](https://www.spiegel.de/ausland/demokratische-republik-kongo-m23-miliz-kontrolliert-teile-von-goma-a-7543a452-b210-49d5-80ff-561dfbdc3616#ref=rss)
+### osten
+
+* [https://www.spiegel.de/ausland/demokratische-republik-kongo-m23-miliz-kontrolliert-teile-von-goma](https://www.spiegel.de/ausland/demokratische-republik-kongo-m23-miliz-kontrolliert-teile-von-goma-a-7543a452-b210-49d5-80ff-561dfbdc3616#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/los-angeles-klimawandel-verstaerkt-toedliche-waldbraende-in-kalifornien](https://www.spiegel.de/wissenschaft/natur/los-angeles-klimawandel-verstaerkt-toedliche-waldbraende-in-kalifornien-a-a2e80889-06be-41c7-9e2d-ea944f652ae3#ref=rss)
 ### offenbar
 
-* [https://www.spiegel.de/politik/deutschland/linke-vermelden-groesste-spende-ihrer-parteigeschichte-300-000-euro](https://www.spiegel.de/politik/deutschland/linke-vermelden-groesste-spende-ihrer-parteigeschichte-300-000-euro-a-01f0e133-709d-40df-93b9-a4128fec0a34#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-mercedes-fahrer-kimi-antonelli-macht-seinen-fuehrerschein](https://www.spiegel.de/sport/formel1/formel-1-mercedes-fahrer-kimi-antonelli-macht-seinen-fuehrerschein-a-2b91b841-5b13-4f3e-a731-d3fad56367fb#ref=rss)
-### sarah
+* [https://www.spiegel.de/ausland/demokratische-republik-kongo-m23-miliz-kontrolliert-teile-von-goma](https://www.spiegel.de/ausland/demokratische-republik-kongo-m23-miliz-kontrolliert-teile-von-goma-a-7543a452-b210-49d5-80ff-561dfbdc3616#ref=rss)
+* [https://www.spiegel.de/ausland/usa-pentagon-entzieht-ex-generalstabschef-mark-milley-sicherheitsfreigabe](https://www.spiegel.de/ausland/usa-pentagon-entzieht-ex-generalstabschef-mark-milley-sicherheitsfreigabe-a-4945f47d-c3a7-4f43-b862-76d993e4f862#ref=rss)
+### gebracht
 
-* [https://www.spiegel.de/kultur/sarah-jessica-parker-kaempft-gegen-bibliotheken-zensur](https://www.spiegel.de/kultur/sarah-jessica-parker-kaempft-gegen-bibliotheken-zensur-a-04c3ff92-8a86-4085-9b30-ccc5f05d0b99#ref=rss)
-### jessica
+* [https://www.spiegel.de/ausland/demokratische-republik-kongo-m23-miliz-kontrolliert-teile-von-goma](https://www.spiegel.de/ausland/demokratische-republik-kongo-m23-miliz-kontrolliert-teile-von-goma-a-7543a452-b210-49d5-80ff-561dfbdc3616#ref=rss)
+* [https://www.spiegel.de/sport/fussball/sommemaerchen-affaere-dfb-bringt-millionenklage-gegen-theo-zwanziger-auf-den-weg](https://www.spiegel.de/sport/fussball/sommemaerchen-affaere-dfb-bringt-millionenklage-gegen-theo-zwanziger-auf-den-weg-a-53b6f5f3-78d4-457a-807a-4024356a570e#ref=rss)
+### mutter
 
-* [https://www.spiegel.de/kultur/sarah-jessica-parker-kaempft-gegen-bibliotheken-zensur](https://www.spiegel.de/kultur/sarah-jessica-parker-kaempft-gegen-bibliotheken-zensur-a-04c3ff92-8a86-4085-9b30-ccc5f05d0b99#ref=rss)
-### parker
+* [https://www.spiegel.de/panorama/bildung/wismar-mutter-schickt-ihren-sohn-ueber-jahre-nicht-zur-schule-bewaehrungsstrafe](https://www.spiegel.de/panorama/bildung/wismar-mutter-schickt-ihren-sohn-ueber-jahre-nicht-zur-schule-bewaehrungsstrafe-a-c2da78dd-1f0a-44bc-9025-e19be164e009#ref=rss)
+### openai
 
-* [https://www.spiegel.de/kultur/sarah-jessica-parker-kaempft-gegen-bibliotheken-zensur](https://www.spiegel.de/kultur/sarah-jessica-parker-kaempft-gegen-bibliotheken-zensur-a-04c3ff92-8a86-4085-9b30-ccc5f05d0b99#ref=rss)
-### afd
+* [https://www.spiegel.de/netzwelt/apps/openai-und-microsoft-datenklau-verdacht-gegen-deepseek](https://www.spiegel.de/netzwelt/apps/openai-und-microsoft-datenklau-verdacht-gegen-deepseek-a-7fbc1665-7749-4c90-9dfe-0b6084ec6baf#ref=rss)
+### microsoft
 
-* [https://www.spiegel.de/kultur/afd-alice-weidel-im-wahlwerbespot-ein-eiszapfen-fuer-deutschland](https://www.spiegel.de/kultur/afd-alice-weidel-im-wahlwerbespot-ein-eiszapfen-fuer-deutschland-a-7e9fff5d-00f8-4b24-8b44-1b2592715789#ref=rss)
-* [https://www.spiegel.de/politik/streit-ueber-abstimmung-mit-afd-spd-fraktionschef-rolf-muetzenich-spricht-friedrich-merz-kanzlerfaehigkeit-ab](https://www.spiegel.de/politik/streit-ueber-abstimmung-mit-afd-spd-fraktionschef-rolf-muetzenich-spricht-friedrich-merz-kanzlerfaehigkeit-ab-a-387a3953-e233-4930-b9d8-d22b49a46c5b#ref=rss)
-### alice
+* [https://www.spiegel.de/netzwelt/apps/openai-und-microsoft-datenklau-verdacht-gegen-deepseek](https://www.spiegel.de/netzwelt/apps/openai-und-microsoft-datenklau-verdacht-gegen-deepseek-a-7fbc1665-7749-4c90-9dfe-0b6084ec6baf#ref=rss)
+### deepseek
 
-* [https://www.spiegel.de/kultur/afd-alice-weidel-im-wahlwerbespot-ein-eiszapfen-fuer-deutschland](https://www.spiegel.de/kultur/afd-alice-weidel-im-wahlwerbespot-ein-eiszapfen-fuer-deutschland-a-7e9fff5d-00f8-4b24-8b44-1b2592715789#ref=rss)
-### weidel
+* [https://www.spiegel.de/netzwelt/apps/openai-und-microsoft-datenklau-verdacht-gegen-deepseek](https://www.spiegel.de/netzwelt/apps/openai-und-microsoft-datenklau-verdacht-gegen-deepseek-a-7fbc1665-7749-4c90-9dfe-0b6084ec6baf#ref=rss)
+### mädchen
 
-* [https://www.spiegel.de/kultur/afd-alice-weidel-im-wahlwerbespot-ein-eiszapfen-fuer-deutschland](https://www.spiegel.de/kultur/afd-alice-weidel-im-wahlwerbespot-ein-eiszapfen-fuer-deutschland-a-7e9fff5d-00f8-4b24-8b44-1b2592715789#ref=rss)
-### bahn
+* [https://www.spiegel.de/panorama/bildung/sande-streit-zwischen-maedchen-eskaliert-14-jaehrige-verletzt-im-krankenhaus](https://www.spiegel.de/panorama/bildung/sande-streit-zwischen-maedchen-eskaliert-14-jaehrige-verletzt-im-krankenhaus-a-11474cfe-b510-4615-9228-5050147ab01e#ref=rss)
+### 14jährige
 
-* [https://www.spiegel.de/wirtschaft/deutsche-bahn-annaeherung-bei-tarifverhandlungen-mit-evg](https://www.spiegel.de/wirtschaft/deutsche-bahn-annaeherung-bei-tarifverhandlungen-mit-evg-a-7d7d46a1-59de-4d75-8497-4eb9e1db39c1#ref=rss)
-### tarifverhandlungen
+* [https://www.spiegel.de/panorama/bildung/sande-streit-zwischen-maedchen-eskaliert-14-jaehrige-verletzt-im-krankenhaus](https://www.spiegel.de/panorama/bildung/sande-streit-zwischen-maedchen-eskaliert-14-jaehrige-verletzt-im-krankenhaus-a-11474cfe-b510-4615-9228-5050147ab01e#ref=rss)
+### verletzt
 
-* [https://www.spiegel.de/wirtschaft/deutsche-bahn-annaeherung-bei-tarifverhandlungen-mit-evg](https://www.spiegel.de/wirtschaft/deutsche-bahn-annaeherung-bei-tarifverhandlungen-mit-evg-a-7d7d46a1-59de-4d75-8497-4eb9e1db39c1#ref=rss)
-### evg
+* [https://www.spiegel.de/panorama/bildung/sande-streit-zwischen-maedchen-eskaliert-14-jaehrige-verletzt-im-krankenhaus](https://www.spiegel.de/panorama/bildung/sande-streit-zwischen-maedchen-eskaliert-14-jaehrige-verletzt-im-krankenhaus-a-11474cfe-b510-4615-9228-5050147ab01e#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/wirtschaft/deutsche-bahn-annaeherung-bei-tarifverhandlungen-mit-evg](https://www.spiegel.de/wirtschaft/deutsche-bahn-annaeherung-bei-tarifverhandlungen-mit-evg-a-7d7d46a1-59de-4d75-8497-4eb9e1db39c1#ref=rss)
-### erstmals
+* [https://www.spiegel.de/panorama/bildung/sande-streit-zwischen-maedchen-eskaliert-14-jaehrige-verletzt-im-krankenhaus](https://www.spiegel.de/panorama/bildung/sande-streit-zwischen-maedchen-eskaliert-14-jaehrige-verletzt-im-krankenhaus-a-11474cfe-b510-4615-9228-5050147ab01e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hamburger-hafen-fast-800-kilogramm-kokain-in-kuehlcontainern-geschmuggelt](https://www.spiegel.de/panorama/justiz/hamburger-hafen-fast-800-kilogramm-kokain-in-kuehlcontainern-geschmuggelt-a-a345ff25-5328-4f9e-a1e6-fe2a170c5862#ref=rss)
+### dfb
 
-* [https://www.spiegel.de/wissenschaft/technik/testflugzeug-von-us-start-up-durchbricht-schallmauer](https://www.spiegel.de/wissenschaft/technik/testflugzeug-von-us-start-up-durchbricht-schallmauer-a-0a09925c-26cf-4004-a12a-177db98f9d16#ref=rss)
-* [https://www.spiegel.de/sport/tischtennis-11-jaehriger-debuetiert-in-der-bundesliga-gegen-den-olympiavierten](https://www.spiegel.de/sport/tischtennis-11-jaehriger-debuetiert-in-der-bundesliga-gegen-den-olympiavierten-a-df20da0f-64e6-442a-8054-2182461908c6#ref=rss)
+* [https://www.spiegel.de/sport/fussball/sommemaerchen-affaere-dfb-bringt-millionenklage-gegen-theo-zwanziger-auf-den-weg](https://www.spiegel.de/sport/fussball/sommemaerchen-affaere-dfb-bringt-millionenklage-gegen-theo-zwanziger-auf-den-weg-a-53b6f5f3-78d4-457a-807a-4024356a570e#ref=rss)
+### theo
+
+* [https://www.spiegel.de/sport/fussball/sommemaerchen-affaere-dfb-bringt-millionenklage-gegen-theo-zwanziger-auf-den-weg](https://www.spiegel.de/sport/fussball/sommemaerchen-affaere-dfb-bringt-millionenklage-gegen-theo-zwanziger-auf-den-weg-a-53b6f5f3-78d4-457a-807a-4024356a570e#ref=rss)
+### zwanziger
+
+* [https://www.spiegel.de/sport/fussball/sommemaerchen-affaere-dfb-bringt-millionenklage-gegen-theo-zwanziger-auf-den-weg](https://www.spiegel.de/sport/fussball/sommemaerchen-affaere-dfb-bringt-millionenklage-gegen-theo-zwanziger-auf-den-weg-a-53b6f5f3-78d4-457a-807a-4024356a570e#ref=rss)
+### weg
+
+* [https://www.spiegel.de/sport/fussball/sommemaerchen-affaere-dfb-bringt-millionenklage-gegen-theo-zwanziger-auf-den-weg](https://www.spiegel.de/sport/fussball/sommemaerchen-affaere-dfb-bringt-millionenklage-gegen-theo-zwanziger-auf-den-weg-a-53b6f5f3-78d4-457a-807a-4024356a570e#ref=rss)
+### präsidenten
+
+* [https://www.spiegel.de/sport/fussball/sommemaerchen-affaere-dfb-bringt-millionenklage-gegen-theo-zwanziger-auf-den-weg](https://www.spiegel.de/sport/fussball/sommemaerchen-affaere-dfb-bringt-millionenklage-gegen-theo-zwanziger-auf-den-weg-a-53b6f5f3-78d4-457a-807a-4024356a570e#ref=rss)
+* [https://www.spiegel.de/ausland/usa-pentagon-entzieht-ex-generalstabschef-mark-milley-sicherheitsfreigabe](https://www.spiegel.de/ausland/usa-pentagon-entzieht-ex-generalstabschef-mark-milley-sicherheitsfreigabe-a-4945f47d-c3a7-4f43-b862-76d993e4f862#ref=rss)
+### fast
+
+* [https://www.spiegel.de/panorama/justiz/hamburger-hafen-fast-800-kilogramm-kokain-in-kuehlcontainern-geschmuggelt](https://www.spiegel.de/panorama/justiz/hamburger-hafen-fast-800-kilogramm-kokain-in-kuehlcontainern-geschmuggelt-a-a345ff25-5328-4f9e-a1e6-fe2a170c5862#ref=rss)
+* [https://www.spiegel.de/panorama/leute/naomi-watts-spricht-ueber-erste-intime-begegnung-mit-heutigem-ehemann-billy-crudup](https://www.spiegel.de/panorama/leute/naomi-watts-spricht-ueber-erste-intime-begegnung-mit-heutigem-ehemann-billy-crudup-a-eac2b460-335f-49d5-a47b-e3189b5cc8e5#ref=rss)
+### kokain
+
+* [https://www.spiegel.de/panorama/justiz/hamburger-hafen-fast-800-kilogramm-kokain-in-kuehlcontainern-geschmuggelt](https://www.spiegel.de/panorama/justiz/hamburger-hafen-fast-800-kilogramm-kokain-in-kuehlcontainern-geschmuggelt-a-a345ff25-5328-4f9e-a1e6-fe2a170c5862#ref=rss)
+### kühlcontainern
+
+* [https://www.spiegel.de/panorama/justiz/hamburger-hafen-fast-800-kilogramm-kokain-in-kuehlcontainern-geschmuggelt](https://www.spiegel.de/panorama/justiz/hamburger-hafen-fast-800-kilogramm-kokain-in-kuehlcontainern-geschmuggelt-a-a345ff25-5328-4f9e-a1e6-fe2a170c5862#ref=rss)
+### geschmuggelt
+
+* [https://www.spiegel.de/panorama/justiz/hamburger-hafen-fast-800-kilogramm-kokain-in-kuehlcontainern-geschmuggelt](https://www.spiegel.de/panorama/justiz/hamburger-hafen-fast-800-kilogramm-kokain-in-kuehlcontainern-geschmuggelt-a-a345ff25-5328-4f9e-a1e6-fe2a170c5862#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/politik/deutschland/die-linke-parteispitze-fordert-streichung-von-adelstiteln-aus-dokumenten](https://www.spiegel.de/politik/deutschland/die-linke-parteispitze-fordert-streichung-von-adelstiteln-aus-dokumenten-a-79bdfe72-2c13-44e2-9429-94fa5db2b2b0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afghanen-in-deutschland-traumata-und-unsicherheit-nach-der-gewalttat-in-aschaffenburg](https://www.spiegel.de/politik/deutschland/afghanen-in-deutschland-traumata-und-unsicherheit-nach-der-gewalttat-in-aschaffenburg-a-e9013fc7-9054-4ef7-901a-8ca87883bb13#ref=rss)
+### alexis
+
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-alexis-pinturaults-winter-nach-sturz-in-kitzbuehel-beendet](https://www.spiegel.de/sport/wintersport/ski-alpin-alexis-pinturaults-winter-nach-sturz-in-kitzbuehel-beendet-a-d36f8605-aee6-483a-a899-7dd388965f9f#ref=rss)
+### winter
+
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-alexis-pinturaults-winter-nach-sturz-in-kitzbuehel-beendet](https://www.spiegel.de/sport/wintersport/ski-alpin-alexis-pinturaults-winter-nach-sturz-in-kitzbuehel-beendet-a-d36f8605-aee6-483a-a899-7dd388965f9f#ref=rss)
+### kultregisseur
+
+* [https://www.spiegel.de/kultur/kino/quentin-tarantino-der-kultregisseur-schreibt-jetzt-ein-theaterstueck](https://www.spiegel.de/kultur/kino/quentin-tarantino-der-kultregisseur-schreibt-jetzt-ein-theaterstueck-a-0d3a7b70-dc0f-4818-a36a-7dee2e033657#ref=rss)
+### setzt
+
+* [https://www.spiegel.de/kultur/kino/quentin-tarantino-der-kultregisseur-schreibt-jetzt-ein-theaterstueck](https://www.spiegel.de/kultur/kino/quentin-tarantino-der-kultregisseur-schreibt-jetzt-ein-theaterstueck-a-0d3a7b70-dc0f-4818-a36a-7dee2e033657#ref=rss)
+* [https://www.spiegel.de/ausland/usa-pentagon-entzieht-ex-generalstabschef-mark-milley-sicherheitsfreigabe](https://www.spiegel.de/ausland/usa-pentagon-entzieht-ex-generalstabschef-mark-milley-sicherheitsfreigabe-a-4945f47d-c3a7-4f43-b862-76d993e4f862#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/kultur/kino/quentin-tarantino-der-kultregisseur-schreibt-jetzt-ein-theaterstueck](https://www.spiegel.de/kultur/kino/quentin-tarantino-der-kultregisseur-schreibt-jetzt-ein-theaterstueck-a-0d3a7b70-dc0f-4818-a36a-7dee2e033657#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/los-angeles-klimawandel-verstaerkt-toedliche-waldbraende-in-kalifornien](https://www.spiegel.de/wissenschaft/natur/los-angeles-klimawandel-verstaerkt-toedliche-waldbraende-in-kalifornien-a-a2e80889-06be-41c7-9e2d-ea944f652ae3#ref=rss)
+### tobias
+
+* [https://www.spiegel.de/sport/wintersport/eisbaeren-berlin-verlegen-del-spitzenspiel-in-sorge-um-schwer-kranken-eder](https://www.spiegel.de/sport/wintersport/eisbaeren-berlin-verlegen-del-spitzenspiel-in-sorge-um-schwer-kranken-eder-a-c09d45e1-4134-4ef4-8425-4d1df40087ec#ref=rss)
+### eder
+
+* [https://www.spiegel.de/sport/wintersport/eisbaeren-berlin-verlegen-del-spitzenspiel-in-sorge-um-schwer-kranken-eder](https://www.spiegel.de/sport/wintersport/eisbaeren-berlin-verlegen-del-spitzenspiel-in-sorge-um-schwer-kranken-eder-a-c09d45e1-4134-4ef4-8425-4d1df40087ec#ref=rss)
+### eisbären
+
+* [https://www.spiegel.de/sport/wintersport/eisbaeren-berlin-verlegen-del-spitzenspiel-in-sorge-um-schwer-kranken-eder](https://www.spiegel.de/sport/wintersport/eisbaeren-berlin-verlegen-del-spitzenspiel-in-sorge-um-schwer-kranken-eder-a-c09d45e1-4134-4ef4-8425-4d1df40087ec#ref=rss)
 ### naomi
 
-* [https://www.spiegel.de/sport/rekord-transfer-wie-naomi-girma-zur-teuersten-spielerin-der-welt-wurde](https://www.spiegel.de/sport/rekord-transfer-wie-naomi-girma-zur-teuersten-spielerin-der-welt-wurde-a-615bf3bc-e47a-404a-ad76-7ca704e1c062#ref=rss)
-### girma
+* [https://www.spiegel.de/panorama/leute/naomi-watts-spricht-ueber-erste-intime-begegnung-mit-heutigem-ehemann-billy-crudup](https://www.spiegel.de/panorama/leute/naomi-watts-spricht-ueber-erste-intime-begegnung-mit-heutigem-ehemann-billy-crudup-a-eac2b460-335f-49d5-a47b-e3189b5cc8e5#ref=rss)
+### watts
 
-* [https://www.spiegel.de/sport/rekord-transfer-wie-naomi-girma-zur-teuersten-spielerin-der-welt-wurde](https://www.spiegel.de/sport/rekord-transfer-wie-naomi-girma-zur-teuersten-spielerin-der-welt-wurde-a-615bf3bc-e47a-404a-ad76-7ca704e1c062#ref=rss)
-### spielerin
+* [https://www.spiegel.de/panorama/leute/naomi-watts-spricht-ueber-erste-intime-begegnung-mit-heutigem-ehemann-billy-crudup](https://www.spiegel.de/panorama/leute/naomi-watts-spricht-ueber-erste-intime-begegnung-mit-heutigem-ehemann-billy-crudup-a-eac2b460-335f-49d5-a47b-e3189b5cc8e5#ref=rss)
+### ehemann
 
-* [https://www.spiegel.de/sport/rekord-transfer-wie-naomi-girma-zur-teuersten-spielerin-der-welt-wurde](https://www.spiegel.de/sport/rekord-transfer-wie-naomi-girma-zur-teuersten-spielerin-der-welt-wurde-a-615bf3bc-e47a-404a-ad76-7ca704e1c062#ref=rss)
-### welt
+* [https://www.spiegel.de/panorama/leute/naomi-watts-spricht-ueber-erste-intime-begegnung-mit-heutigem-ehemann-billy-crudup](https://www.spiegel.de/panorama/leute/naomi-watts-spricht-ueber-erste-intime-begegnung-mit-heutigem-ehemann-billy-crudup-a-eac2b460-335f-49d5-a47b-e3189b5cc8e5#ref=rss)
+### billy
 
-* [https://www.spiegel.de/sport/rekord-transfer-wie-naomi-girma-zur-teuersten-spielerin-der-welt-wurde](https://www.spiegel.de/sport/rekord-transfer-wie-naomi-girma-zur-teuersten-spielerin-der-welt-wurde-a-615bf3bc-e47a-404a-ad76-7ca704e1c062#ref=rss)
-* [https://www.spiegel.de/sport/tischtennis-11-jaehriger-debuetiert-in-der-bundesliga-gegen-den-olympiavierten](https://www.spiegel.de/sport/tischtennis-11-jaehriger-debuetiert-in-der-bundesliga-gegen-den-olympiavierten-a-df20da0f-64e6-442a-8054-2182461908c6#ref=rss)
-### grönland
+* [https://www.spiegel.de/panorama/leute/naomi-watts-spricht-ueber-erste-intime-begegnung-mit-heutigem-ehemann-billy-crudup](https://www.spiegel.de/panorama/leute/naomi-watts-spricht-ueber-erste-intime-begegnung-mit-heutigem-ehemann-billy-crudup-a-eac2b460-335f-49d5-a47b-e3189b5cc8e5#ref=rss)
+### crudup
 
-* [https://www.spiegel.de/ausland/groenland-daenemark-plant-aufruestung-mit-neuen-kriegsschiffen](https://www.spiegel.de/ausland/groenland-daenemark-plant-aufruestung-mit-neuen-kriegsschiffen-a-344d813a-39a8-423f-8df7-596e6db18a7a#ref=rss)
-### dänemark
+* [https://www.spiegel.de/panorama/leute/naomi-watts-spricht-ueber-erste-intime-begegnung-mit-heutigem-ehemann-billy-crudup](https://www.spiegel.de/panorama/leute/naomi-watts-spricht-ueber-erste-intime-begegnung-mit-heutigem-ehemann-billy-crudup-a-eac2b460-335f-49d5-a47b-e3189b5cc8e5#ref=rss)
+### palästinenserin
 
-* [https://www.spiegel.de/ausland/groenland-daenemark-plant-aufruestung-mit-neuen-kriegsschiffen](https://www.spiegel.de/ausland/groenland-daenemark-plant-aufruestung-mit-neuen-kriegsschiffen-a-344d813a-39a8-423f-8df7-596e6db18a7a#ref=rss)
-### nachdem
+* [https://www.spiegel.de/ausland/gaza-palaestinenserin-eroeffnete-eigene-schule-mithilfe-von-spenden-aus-deutschland](https://www.spiegel.de/ausland/gaza-palaestinenserin-eroeffnete-eigene-schule-mithilfe-von-spenden-aus-deutschland-a-adeacbeb-6587-42cd-b819-3d054b37bbb3#ref=rss)
+### bundespolizei
 
-* [https://www.spiegel.de/ausland/groenland-daenemark-plant-aufruestung-mit-neuen-kriegsschiffen](https://www.spiegel.de/ausland/groenland-daenemark-plant-aufruestung-mit-neuen-kriegsschiffen-a-344d813a-39a8-423f-8df7-596e6db18a7a#ref=rss)
-* [https://www.spiegel.de/netzwelt/oberbayern-vierjaehriger-veraetzt-sich-an-spuren-von-tiktok-experiment](https://www.spiegel.de/netzwelt/oberbayern-vierjaehriger-veraetzt-sich-an-spuren-von-tiktok-experiment-a-842bbbb5-316f-4d48-a2b1-86148c20113e#ref=rss)
-### inflation
+* [https://www.spiegel.de/panorama/justiz/razzien-gegen-schleuserkriminalitaet-grosseinsatz-der-bundespolizei](https://www.spiegel.de/panorama/justiz/razzien-gegen-schleuserkriminalitaet-grosseinsatz-der-bundespolizei-a-0bb32e8e-1c34-48ce-a487-04c21e933792#ref=rss)
+### usa
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-inflation-serbien-friedrich-merz-und-die-brandmauer](https://www.spiegel.de/politik/deutschland/news-des-tages-inflation-serbien-friedrich-merz-und-die-brandmauer-a-7bcc0d91-6b3d-44a0-b25b-e19d84761bb3#ref=rss)
-### serbien
+* [https://www.spiegel.de/ausland/usa-pentagon-entzieht-ex-generalstabschef-mark-milley-sicherheitsfreigabe](https://www.spiegel.de/ausland/usa-pentagon-entzieht-ex-generalstabschef-mark-milley-sicherheitsfreigabe-a-4945f47d-c3a7-4f43-b862-76d993e4f862#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/los-angeles-klimawandel-verstaerkt-toedliche-waldbraende-in-kalifornien](https://www.spiegel.de/wissenschaft/natur/los-angeles-klimawandel-verstaerkt-toedliche-waldbraende-in-kalifornien-a-a2e80889-06be-41c7-9e2d-ea944f652ae3#ref=rss)
+### mark
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-inflation-serbien-friedrich-merz-und-die-brandmauer](https://www.spiegel.de/politik/deutschland/news-des-tages-inflation-serbien-friedrich-merz-und-die-brandmauer-a-7bcc0d91-6b3d-44a0-b25b-e19d84761bb3#ref=rss)
-### horst
+* [https://www.spiegel.de/ausland/usa-pentagon-entzieht-ex-generalstabschef-mark-milley-sicherheitsfreigabe](https://www.spiegel.de/ausland/usa-pentagon-entzieht-ex-generalstabschef-mark-milley-sicherheitsfreigabe-a-4945f47d-c3a7-4f43-b862-76d993e4f862#ref=rss)
+### milley
 
-* [https://www.spiegel.de/kultur/horst-janson-in-bildern-trauer-um-den-fernsehliebling-einer-generation](https://www.spiegel.de/kultur/horst-janson-in-bildern-trauer-um-den-fernsehliebling-einer-generation-a-dff6cd1f-64f3-4395-934c-e6b1ce2c441b#ref=rss)
-### janson
+* [https://www.spiegel.de/ausland/usa-pentagon-entzieht-ex-generalstabschef-mark-milley-sicherheitsfreigabe](https://www.spiegel.de/ausland/usa-pentagon-entzieht-ex-generalstabschef-mark-milley-sicherheitsfreigabe-a-4945f47d-c3a7-4f43-b862-76d993e4f862#ref=rss)
+### afghanen
 
-* [https://www.spiegel.de/kultur/horst-janson-in-bildern-trauer-um-den-fernsehliebling-einer-generation](https://www.spiegel.de/kultur/horst-janson-in-bildern-trauer-um-den-fernsehliebling-einer-generation-a-dff6cd1f-64f3-4395-934c-e6b1ce2c441b#ref=rss)
-### bildern
+* [https://www.spiegel.de/politik/deutschland/afghanen-in-deutschland-traumata-und-unsicherheit-nach-der-gewalttat-in-aschaffenburg](https://www.spiegel.de/politik/deutschland/afghanen-in-deutschland-traumata-und-unsicherheit-nach-der-gewalttat-in-aschaffenburg-a-e9013fc7-9054-4ef7-901a-8ca87883bb13#ref=rss)
+### viele
 
-* [https://www.spiegel.de/kultur/horst-janson-in-bildern-trauer-um-den-fernsehliebling-einer-generation](https://www.spiegel.de/kultur/horst-janson-in-bildern-trauer-um-den-fernsehliebling-einer-generation-a-dff6cd1f-64f3-4395-934c-e6b1ce2c441b#ref=rss)
-* [https://www.spiegel.de/reise/tpoty-wettbewerb-das-sind-die-besten-reisebilder-des-jahres](https://www.spiegel.de/reise/tpoty-wettbewerb-das-sind-die-besten-reisebilder-des-jahres-a-d547c994-aa59-4c3f-9600-902423b30076#ref=rss)
-### gerade
+* [https://www.spiegel.de/politik/deutschland/afghanen-in-deutschland-traumata-und-unsicherheit-nach-der-gewalttat-in-aschaffenburg](https://www.spiegel.de/politik/deutschland/afghanen-in-deutschland-traumata-und-unsicherheit-nach-der-gewalttat-in-aschaffenburg-a-e9013fc7-9054-4ef7-901a-8ca87883bb13#ref=rss)
+* [https://www.spiegel.de/auto/elektroauto-hat-deutschland-mehr-als-genug-ladesaeulen](https://www.spiegel.de/auto/elektroauto-hat-deutschland-mehr-als-genug-ladesaeulen-a-33917fcc-4752-4a1e-9e68-76cccdab1b9f#ref=rss)
+### schuldenbremse
 
-* [https://www.spiegel.de/netzwelt/hype-um-chinesischen-ki-anbieter-was-kann-deepseek-eigentlich](https://www.spiegel.de/netzwelt/hype-um-chinesischen-ki-anbieter-was-kann-deepseek-eigentlich-a-5aab9acc-1296-4962-ac97-312362b89342#ref=rss)
-* [https://www.spiegel.de/kultur/sigourney-weaver-klima-aktivisten-stoeren-auftritt-von-sigourney-weaver](https://www.spiegel.de/kultur/sigourney-weaver-klima-aktivisten-stoeren-auftritt-von-sigourney-weaver-a-15274c54-9dce-4d3f-9d90-d555a8c06b4e#ref=rss)
-### archaeopteryx
+* [https://www.spiegel.de/wirtschaft/so-koennte-ein-zukunftsfaehiger-kompromiss-fuer-die-schuldenbremse-aussehen](https://www.spiegel.de/wirtschaft/so-koennte-ein-zukunftsfaehiger-kompromiss-fuer-die-schuldenbremse-aussehen-a-cafc0f34-e7e1-4526-aecd-b16d37fe4f06#ref=rss)
+### post
 
-* [https://www.spiegel.de/wissenschaft/natur/archaeopteryx-forscher-analysieren-bisher-unbekanntes-urvogel-fossil](https://www.spiegel.de/wissenschaft/natur/archaeopteryx-forscher-analysieren-bisher-unbekanntes-urvogel-fossil-a-e7e8eea6-877f-4c1c-b953-57b1f9ff42a3#ref=rss)
-### unbekanntes
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-warnstreiks-auf-dem-land-keine-ergebnisse-in-tarifverhandlungen](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-warnstreiks-auf-dem-land-keine-ergebnisse-in-tarifverhandlungen-a-c44a5aec-31eb-4fe6-91fb-dbfea35a5cc7#ref=rss)
+### erst
 
-* [https://www.spiegel.de/wissenschaft/natur/archaeopteryx-forscher-analysieren-bisher-unbekanntes-urvogel-fossil](https://www.spiegel.de/wissenschaft/natur/archaeopteryx-forscher-analysieren-bisher-unbekanntes-urvogel-fossil-a-e7e8eea6-877f-4c1c-b953-57b1f9ff42a3#ref=rss)
-* [https://www.spiegel.de/netzwelt/oberbayern-vierjaehriger-veraetzt-sich-an-spuren-von-tiktok-experiment](https://www.spiegel.de/netzwelt/oberbayern-vierjaehriger-veraetzt-sich-an-spuren-von-tiktok-experiment-a-842bbbb5-316f-4d48-a2b1-86148c20113e#ref=rss)
-### besten
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-warnstreiks-auf-dem-land-keine-ergebnisse-in-tarifverhandlungen](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-warnstreiks-auf-dem-land-keine-ergebnisse-in-tarifverhandlungen-a-c44a5aec-31eb-4fe6-91fb-dbfea35a5cc7#ref=rss)
+* [https://www.spiegel.de/auto/elektroauto-hat-deutschland-mehr-als-genug-ladesaeulen](https://www.spiegel.de/auto/elektroauto-hat-deutschland-mehr-als-genug-ladesaeulen-a-33917fcc-4752-4a1e-9e68-76cccdab1b9f#ref=rss)
+### jahresbeginn
 
-* [https://www.spiegel.de/reise/tpoty-wettbewerb-das-sind-die-besten-reisebilder-des-jahres](https://www.spiegel.de/reise/tpoty-wettbewerb-das-sind-die-besten-reisebilder-des-jahres-a-d547c994-aa59-4c3f-9600-902423b30076#ref=rss)
-* [https://www.spiegel.de/sport/tischtennis-11-jaehriger-debuetiert-in-der-bundesliga-gegen-den-olympiavierten](https://www.spiegel.de/sport/tischtennis-11-jaehriger-debuetiert-in-der-bundesliga-gegen-den-olympiavierten-a-df20da0f-64e6-442a-8054-2182461908c6#ref=rss)
-### südkorea
+* [https://www.spiegel.de/wirtschaft/service/gfk-konsumklima-verbraucherstimmung-zu-jahresbeginn-weiter-getruebt](https://www.spiegel.de/wirtschaft/service/gfk-konsumklima-verbraucherstimmung-zu-jahresbeginn-weiter-getruebt-a-796ddfbc-cf62-43dc-826f-11c458c5a5d8#ref=rss)
+### frankfurt
 
-* [https://www.spiegel.de/panorama/suedkorea-176-menschen-aus-brennendem-air-busan-flugzeug-gerettet](https://www.spiegel.de/panorama/suedkorea-176-menschen-aus-brennendem-air-busan-flugzeug-gerettet-a-da8c4eab-a15c-4700-a19e-87580aab8be0#ref=rss)
-### kimi
+* [https://www.spiegel.de/panorama/justiz/frankfurt-an-der-oder-drei-menschen-sterben-bei-wohnungsbrand](https://www.spiegel.de/panorama/justiz/frankfurt-an-der-oder-drei-menschen-sterben-bei-wohnungsbrand-a-d7a5d7e9-013e-4bc7-b0f0-7f13bc13536d#ref=rss)
+### katy
 
-* [https://www.spiegel.de/sport/formel1/formel-1-mercedes-fahrer-kimi-antonelli-macht-seinen-fuehrerschein](https://www.spiegel.de/sport/formel1/formel-1-mercedes-fahrer-kimi-antonelli-macht-seinen-fuehrerschein-a-2b91b841-5b13-4f3e-a731-d3fad56367fb#ref=rss)
-### antonelli
+* [https://www.spiegel.de/panorama/leute/katy-perry-so-staerkt-sie-ihre-beziehung-zu-orlando-bloom](https://www.spiegel.de/panorama/leute/katy-perry-so-staerkt-sie-ihre-beziehung-zu-orlando-bloom-a-01b7dd1a-145a-45c6-8661-0b82fd086fdf#ref=rss)
+### perry
 
-* [https://www.spiegel.de/sport/formel1/formel-1-mercedes-fahrer-kimi-antonelli-macht-seinen-fuehrerschein](https://www.spiegel.de/sport/formel1/formel-1-mercedes-fahrer-kimi-antonelli-macht-seinen-fuehrerschein-a-2b91b841-5b13-4f3e-a731-d3fad56367fb#ref=rss)
-### sozialbeiträge
+* [https://www.spiegel.de/panorama/leute/katy-perry-so-staerkt-sie-ihre-beziehung-zu-orlando-bloom](https://www.spiegel.de/panorama/leute/katy-perry-so-staerkt-sie-ihre-beziehung-zu-orlando-bloom-a-01b7dd1a-145a-45c6-8661-0b82fd086fdf#ref=rss)
+### stärkt
 
-* [https://www.spiegel.de/wirtschaft/bundestagswahlkampf-versprechen-mehr-fuer-dich-und-die-wahrheit-ueber-die-sozialbeitraege](https://www.spiegel.de/wirtschaft/bundestagswahlkampf-versprechen-mehr-fuer-dich-und-die-wahrheit-ueber-die-sozialbeitraege-a-b32d3659-9914-4013-b33b-0b6684f94b87#ref=rss)
-### sigourney
+* [https://www.spiegel.de/panorama/leute/katy-perry-so-staerkt-sie-ihre-beziehung-zu-orlando-bloom](https://www.spiegel.de/panorama/leute/katy-perry-so-staerkt-sie-ihre-beziehung-zu-orlando-bloom-a-01b7dd1a-145a-45c6-8661-0b82fd086fdf#ref=rss)
+### beziehung
 
-* [https://www.spiegel.de/kultur/sigourney-weaver-klima-aktivisten-stoeren-auftritt-von-sigourney-weaver](https://www.spiegel.de/kultur/sigourney-weaver-klima-aktivisten-stoeren-auftritt-von-sigourney-weaver-a-15274c54-9dce-4d3f-9d90-d555a8c06b4e#ref=rss)
-### weaver
+* [https://www.spiegel.de/panorama/leute/katy-perry-so-staerkt-sie-ihre-beziehung-zu-orlando-bloom](https://www.spiegel.de/panorama/leute/katy-perry-so-staerkt-sie-ihre-beziehung-zu-orlando-bloom-a-01b7dd1a-145a-45c6-8661-0b82fd086fdf#ref=rss)
+### orlando
 
-* [https://www.spiegel.de/kultur/sigourney-weaver-klima-aktivisten-stoeren-auftritt-von-sigourney-weaver](https://www.spiegel.de/kultur/sigourney-weaver-klima-aktivisten-stoeren-auftritt-von-sigourney-weaver-a-15274c54-9dce-4d3f-9d90-d555a8c06b4e#ref=rss)
-### hollywoodstar
+* [https://www.spiegel.de/panorama/leute/katy-perry-so-staerkt-sie-ihre-beziehung-zu-orlando-bloom](https://www.spiegel.de/panorama/leute/katy-perry-so-staerkt-sie-ihre-beziehung-zu-orlando-bloom-a-01b7dd1a-145a-45c6-8661-0b82fd086fdf#ref=rss)
+### bloom
 
-* [https://www.spiegel.de/kultur/sigourney-weaver-klima-aktivisten-stoeren-auftritt-von-sigourney-weaver](https://www.spiegel.de/kultur/sigourney-weaver-klima-aktivisten-stoeren-auftritt-von-sigourney-weaver-a-15274c54-9dce-4d3f-9d90-d555a8c06b4e#ref=rss)
-### oberbayern
+* [https://www.spiegel.de/panorama/leute/katy-perry-so-staerkt-sie-ihre-beziehung-zu-orlando-bloom](https://www.spiegel.de/panorama/leute/katy-perry-so-staerkt-sie-ihre-beziehung-zu-orlando-bloom-a-01b7dd1a-145a-45c6-8661-0b82fd086fdf#ref=rss)
+### kanzleramt
 
-* [https://www.spiegel.de/netzwelt/oberbayern-vierjaehriger-veraetzt-sich-an-spuren-von-tiktok-experiment](https://www.spiegel.de/netzwelt/oberbayern-vierjaehriger-veraetzt-sich-an-spuren-von-tiktok-experiment-a-842bbbb5-316f-4d48-a2b1-86148c20113e#ref=rss)
-### borussia
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-kanzleramt-in-berlin-waechst-um-zehn-prozent-77-neue-mitarbeiter](https://www.spiegel.de/politik/deutschland/olaf-scholz-kanzleramt-in-berlin-waechst-um-zehn-prozent-77-neue-mitarbeiter-a-9dfff117-13b1-4170-802e-022d7a0a9879#ref=rss)
+### 77
 
-* [https://www.spiegel.de/sport/fussball/fussball-transfers-victor-boniface-soll-vor-wechsel-nach-saudi-arabien-stehen](https://www.spiegel.de/sport/fussball/fussball-transfers-victor-boniface-soll-vor-wechsel-nach-saudi-arabien-stehen-a-08ba6cd1-e580-4a9b-a025-5303b6c32153#ref=rss)
-### dortmund
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-kanzleramt-in-berlin-waechst-um-zehn-prozent-77-neue-mitarbeiter](https://www.spiegel.de/politik/deutschland/olaf-scholz-kanzleramt-in-berlin-waechst-um-zehn-prozent-77-neue-mitarbeiter-a-9dfff117-13b1-4170-802e-022d7a0a9879#ref=rss)
+### mitarbeiter
 
-* [https://www.spiegel.de/sport/fussball/fussball-transfers-victor-boniface-soll-vor-wechsel-nach-saudi-arabien-stehen](https://www.spiegel.de/sport/fussball/fussball-transfers-victor-boniface-soll-vor-wechsel-nach-saudi-arabien-stehen-a-08ba6cd1-e580-4a9b-a025-5303b6c32153#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-kanzleramt-in-berlin-waechst-um-zehn-prozent-77-neue-mitarbeiter](https://www.spiegel.de/politik/deutschland/olaf-scholz-kanzleramt-in-berlin-waechst-um-zehn-prozent-77-neue-mitarbeiter-a-9dfff117-13b1-4170-802e-022d7a0a9879#ref=rss)
+### bundeskanzler
+
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-kanzleramt-in-berlin-waechst-um-zehn-prozent-77-neue-mitarbeiter](https://www.spiegel.de/politik/deutschland/olaf-scholz-kanzleramt-in-berlin-waechst-um-zehn-prozent-77-neue-mitarbeiter-a-9dfff117-13b1-4170-802e-022d7a0a9879#ref=rss)
 
