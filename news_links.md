@@ -4,359 +4,324 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-gegen-friedrich-merz-ein-unverzeihlicher-fehler-und-groesstes-unbehagen](https://www.spiegel.de/politik/deutschland/olaf-scholz-gegen-friedrich-merz-ein-unverzeihlicher-fehler-und-groesstes-unbehagen-a-2d56a0bc-52aa-43d6-86f4-57f5a1a65202#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-erst-der-wortbruch-dann-der-tabubruch](https://www.spiegel.de/politik/deutschland/friedrich-merz-erst-der-wortbruch-dann-der-tabubruch-a-528e1b22-3387-4f7a-9cb6-b2c379667fbc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagsdebatte-scholz-und-merz-im-schlagabtausch-ueber-migration](https://www.spiegel.de/politik/deutschland/bundestagsdebatte-scholz-und-merz-im-schlagabtausch-ueber-migration-a-2f024bf9-5624-4c45-8d6f-2cb4f8850067#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gewalt-gegen-frauen-einigung-bei-gewalthilfegesetz-nur-mit-friedrich-merz](https://www.spiegel.de/politik/deutschland/gewalt-gegen-frauen-einigung-bei-gewalthilfegesetz-nur-mit-friedrich-merz-a-b6f9b8e2-70d6-4d04-adca-d00487a5cc7b#ref=rss)
-### afd
-
-* [https://www.spiegel.de/politik/deutschland/alltagsrassismus-warum-rassismus-in-ost-und-westdeutschland-ein-problem-ist](https://www.spiegel.de/politik/deutschland/alltagsrassismus-warum-rassismus-in-ost-und-westdeutschland-ein-problem-ist-a-ea98daf4-9f06-403b-97bd-30607f126448#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-gegen-friedrich-merz-ein-unverzeihlicher-fehler-und-groesstes-unbehagen](https://www.spiegel.de/politik/deutschland/olaf-scholz-gegen-friedrich-merz-ein-unverzeihlicher-fehler-und-groesstes-unbehagen-a-2d56a0bc-52aa-43d6-86f4-57f5a1a65202#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-erst-der-wortbruch-dann-der-tabubruch](https://www.spiegel.de/politik/deutschland/friedrich-merz-erst-der-wortbruch-dann-der-tabubruch-a-528e1b22-3387-4f7a-9cb6-b2c379667fbc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestag-stimmt-mit-der-afd-fuer-den-asyl-antrag-der-union](https://www.spiegel.de/politik/deutschland/bundestag-stimmt-mit-der-afd-fuer-den-asyl-antrag-der-union-a-57d835aa-4cf0-4ead-a171-40548047272f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-udo-boettcher-fordert-rueckzahlung-der-millionenspende](https://www.spiegel.de/politik/deutschland/afd-udo-boettcher-fordert-rueckzahlung-der-millionenspende-a-b17b0907-27ee-4e06-b994-f96ce20991e9#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-gegen-friedrich-merz-ein-unverzeihlicher-fehler-und-groesstes-unbehagen](https://www.spiegel.de/politik/deutschland/olaf-scholz-gegen-friedrich-merz-ein-unverzeihlicher-fehler-und-groesstes-unbehagen-a-2d56a0bc-52aa-43d6-86f4-57f5a1a65202#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-erst-der-wortbruch-dann-der-tabubruch](https://www.spiegel.de/politik/deutschland/friedrich-merz-erst-der-wortbruch-dann-der-tabubruch-a-528e1b22-3387-4f7a-9cb6-b2c379667fbc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagsdebatte-scholz-und-merz-im-schlagabtausch-ueber-migration](https://www.spiegel.de/politik/deutschland/bundestagsdebatte-scholz-und-merz-im-schlagabtausch-ueber-migration-a-2f024bf9-5624-4c45-8d6f-2cb4f8850067#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gewalt-gegen-frauen-einigung-bei-gewalthilfegesetz-nur-mit-friedrich-merz](https://www.spiegel.de/politik/deutschland/gewalt-gegen-frauen-einigung-bei-gewalthilfegesetz-nur-mit-friedrich-merz-a-b6f9b8e2-70d6-4d04-adca-d00487a5cc7b#ref=rss)
-### scholz
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-gegen-friedrich-merz-ein-unverzeihlicher-fehler-und-groesstes-unbehagen](https://www.spiegel.de/politik/deutschland/olaf-scholz-gegen-friedrich-merz-ein-unverzeihlicher-fehler-und-groesstes-unbehagen-a-2d56a0bc-52aa-43d6-86f4-57f5a1a65202#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagsdebatte-scholz-und-merz-im-schlagabtausch-ueber-migration](https://www.spiegel.de/politik/deutschland/bundestagsdebatte-scholz-und-merz-im-schlagabtausch-ueber-migration-a-2f024bf9-5624-4c45-8d6f-2cb4f8850067#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wirtschaft/soziales/transformation-der-gesellschaft-kanzleramt-vernachlaessigt-wichtige-details-in-neuem-buch](https://www.spiegel.de/wirtschaft/soziales/transformation-der-gesellschaft-kanzleramt-vernachlaessigt-wichtige-details-in-neuem-buch-a-c6bf8b83-71f3-45ef-9b23-e3095308df6e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/illegaler-medikamentenhandel-lunapharm-chefin-zu-haftstrafe-verurteilt](https://www.spiegel.de/wirtschaft/unternehmen/illegaler-medikamentenhandel-lunapharm-chefin-zu-haftstrafe-verurteilt-a-49647dd6-3473-4d15-b9f6-982f9aa385b8#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/temu-shein-deutschland-plant-massnahmen-gegen-paketflut-aus-china](https://www.spiegel.de/netzwelt/netzpolitik/temu-shein-deutschland-plant-massnahmen-gegen-paketflut-aus-china-a-fa49cb15-9477-4179-8016-da019c99683e#ref=rss)
-### donald
-
-* [https://www.spiegel.de/wissenschaft/mensch/donald-trump-und-der-golf-von-mexiko-autoritaeres-neoimperiales-muster](https://www.spiegel.de/wissenschaft/mensch/donald-trump-und-der-golf-von-mexiko-autoritaeres-neoimperiales-muster-a-346f0c98-b13e-4800-8b32-13a2bdf0ecae#ref=rss)
-* [https://www.spiegel.de/ausland/robert-f-kennedy-jr-trumps-wunschkandidat-stellt-sich-den-fragen-der-abgeordneten](https://www.spiegel.de/ausland/robert-f-kennedy-jr-trumps-wunschkandidat-stellt-sich-den-fragen-der-abgeordneten-a-3adbffcc-30fa-48a5-8583-c3dd272a663b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-regierung-bietet-abfindung-bei-freiwilliger-kuendigung-an](https://www.spiegel.de/wirtschaft/donald-trump-regierung-bietet-abfindung-bei-freiwilliger-kuendigung-an-a-e22655e9-0534-463d-8f28-649140f8b064#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/wissenschaft/mensch/donald-trump-und-der-golf-von-mexiko-autoritaeres-neoimperiales-muster](https://www.spiegel.de/wissenschaft/mensch/donald-trump-und-der-golf-von-mexiko-autoritaeres-neoimperiales-muster-a-346f0c98-b13e-4800-8b32-13a2bdf0ecae#ref=rss)
-* [https://www.spiegel.de/ausland/robert-f-kennedy-jr-trumps-wunschkandidat-stellt-sich-den-fragen-der-abgeordneten](https://www.spiegel.de/ausland/robert-f-kennedy-jr-trumps-wunschkandidat-stellt-sich-den-fragen-der-abgeordneten-a-3adbffcc-30fa-48a5-8583-c3dd272a663b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-regierung-bietet-abfindung-bei-freiwilliger-kuendigung-an](https://www.spiegel.de/wirtschaft/donald-trump-regierung-bietet-abfindung-bei-freiwilliger-kuendigung-an-a-e22655e9-0534-463d-8f28-649140f8b064#ref=rss)
-### union
+* [https://www.spiegel.de/ausland/us-hilfen-donald-trumps-entscheidung-trifft-die-schwaechsten-weltweit](https://www.spiegel.de/ausland/us-hilfen-donald-trumps-entscheidung-trifft-die-schwaechsten-weltweit-a-aac22938-a1a8-4284-892a-b97747d77c03#ref=rss)
+* [https://www.spiegel.de/kultur/melania-trump-offizielles-portraet-als-zeichen-fuer-politische-ambitionen](https://www.spiegel.de/kultur/melania-trump-offizielles-portraet-als-zeichen-fuer-politische-ambitionen-a-75ed71f7-c798-4a23-a8af-15ef08643706#ref=rss)
+* [https://www.spiegel.de/panorama/washington-d-c-in-den-usa-passagierflugzeug-und-militaerhubschrauber-nach-kollision-im-wasser-viele-tote-befuerchtet](https://www.spiegel.de/panorama/washington-d-c-in-den-usa-passagierflugzeug-und-militaerhubschrauber-nach-kollision-im-wasser-viele-tote-befuerchtet-a-87022dec-be31-4efc-8886-000413bb1aab#ref=rss)
+* [https://www.spiegel.de/ausland/usa-donald-trump-will-angebliche-indoktrination-an-schulen-verbieten](https://www.spiegel.de/ausland/usa-donald-trump-will-angebliche-indoktrination-an-schulen-verbieten-a-17b9dbe1-4890-414b-b8c4-a1dfb2be87ae#ref=rss)
+* [https://www.spiegel.de/ausland/prozess-in-new-york-city-donald-trump-legt-berufung-gegen-schweigegeld-verurteilung-ein](https://www.spiegel.de/ausland/prozess-in-new-york-city-donald-trump-legt-berufung-gegen-schweigegeld-verurteilung-ein-a-fb4743a8-872d-4d64-8c19-304d7778edbb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-donald-trump-fed-chef-jerome-powell-der-mann-der-trump-trotzt](https://www.spiegel.de/wirtschaft/usa-donald-trump-fed-chef-jerome-powell-der-mann-der-trump-trotzt-a-f5666fb3-00a4-410c-9dd4-73a0b3f02b3b#ref=rss)
+### donald
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-erst-der-wortbruch-dann-der-tabubruch](https://www.spiegel.de/politik/deutschland/friedrich-merz-erst-der-wortbruch-dann-der-tabubruch-a-528e1b22-3387-4f7a-9cb6-b2c379667fbc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestag-stimmt-mit-der-afd-fuer-den-asyl-antrag-der-union](https://www.spiegel.de/politik/deutschland/bundestag-stimmt-mit-der-afd-fuer-den-asyl-antrag-der-union-a-57d835aa-4cf0-4ead-a171-40548047272f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gewalt-gegen-frauen-einigung-bei-gewalthilfegesetz-nur-mit-friedrich-merz](https://www.spiegel.de/politik/deutschland/gewalt-gegen-frauen-einigung-bei-gewalthilfegesetz-nur-mit-friedrich-merz-a-b6f9b8e2-70d6-4d04-adca-d00487a5cc7b#ref=rss)
-### jahr
+* [https://www.spiegel.de/ausland/us-hilfen-donald-trumps-entscheidung-trifft-die-schwaechsten-weltweit](https://www.spiegel.de/ausland/us-hilfen-donald-trumps-entscheidung-trifft-die-schwaechsten-weltweit-a-aac22938-a1a8-4284-892a-b97747d77c03#ref=rss)
+* [https://www.spiegel.de/ausland/usa-donald-trump-will-angebliche-indoktrination-an-schulen-verbieten](https://www.spiegel.de/ausland/usa-donald-trump-will-angebliche-indoktrination-an-schulen-verbieten-a-17b9dbe1-4890-414b-b8c4-a1dfb2be87ae#ref=rss)
+* [https://www.spiegel.de/ausland/prozess-in-new-york-city-donald-trump-legt-berufung-gegen-schweigegeld-verurteilung-ein](https://www.spiegel.de/ausland/prozess-in-new-york-city-donald-trump-legt-berufung-gegen-schweigegeld-verurteilung-ein-a-fb4743a8-872d-4d64-8c19-304d7778edbb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-donald-trump-fed-chef-jerome-powell-der-mann-der-trump-trotzt](https://www.spiegel.de/wirtschaft/usa-donald-trump-fed-chef-jerome-powell-der-mann-der-trump-trotzt-a-f5666fb3-00a4-410c-9dd4-73a0b3f02b3b#ref=rss)
+* [https://www.spiegel.de/ausland/robert-f-kennedy-jr-anhoerung-im-us-senat-der-quacksalber-macht-auf-serioes](https://www.spiegel.de/ausland/robert-f-kennedy-jr-anhoerung-im-us-senat-der-quacksalber-macht-auf-serioes-a-66ec4347-5438-4210-8871-222046e3fa7a#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/ausland/indien-massenpanik-bei-maha-kumbh-mela-dutzende-tote](https://www.spiegel.de/ausland/indien-massenpanik-bei-maha-kumbh-mela-dutzende-tote-a-0df1e29b-afb4-4b39-9500-c6f30b97251a#ref=rss)
-* [https://www.spiegel.de/kultur/lady-gaga-moechte-kinder](https://www.spiegel.de/kultur/lady-gaga-moechte-kinder-a-5f136f1e-ecfc-414d-adcf-198853c3210a#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/temu-shein-deutschland-plant-massnahmen-gegen-paketflut-aus-china](https://www.spiegel.de/netzwelt/netzpolitik/temu-shein-deutschland-plant-massnahmen-gegen-paketflut-aus-china-a-fa49cb15-9477-4179-8016-da019c99683e#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/indien-massenpanik-bei-maha-kumbh-mela-dutzende-tote](https://www.spiegel.de/ausland/indien-massenpanik-bei-maha-kumbh-mela-dutzende-tote-a-0df1e29b-afb4-4b39-9500-c6f30b97251a#ref=rss)
-* [https://www.spiegel.de/ausland/deutsch-israelische-geisel-gadi-moses-soll-am-donnerstag-freikommen](https://www.spiegel.de/ausland/deutsch-israelische-geisel-gadi-moses-soll-am-donnerstag-freikommen-a-557b452b-04bf-4ffd-80d9-3288ac5ba728#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wirtschaftswarntag-unternehmer-demonstrieren-gegen-politik-der-regierung](https://www.spiegel.de/wirtschaft/wirtschaftswarntag-unternehmer-demonstrieren-gegen-politik-der-regierung-a-f87ce428-09fa-4771-94cc-ae9ed18c9edc#ref=rss)
-### golf
-
-* [https://www.spiegel.de/wissenschaft/mensch/donald-trump-und-der-golf-von-mexiko-autoritaeres-neoimperiales-muster](https://www.spiegel.de/wissenschaft/mensch/donald-trump-und-der-golf-von-mexiko-autoritaeres-neoimperiales-muster-a-346f0c98-b13e-4800-8b32-13a2bdf0ecae#ref=rss)
-### olaf
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-gegen-friedrich-merz-ein-unverzeihlicher-fehler-und-groesstes-unbehagen](https://www.spiegel.de/politik/deutschland/olaf-scholz-gegen-friedrich-merz-ein-unverzeihlicher-fehler-und-groesstes-unbehagen-a-2d56a0bc-52aa-43d6-86f4-57f5a1a65202#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagsdebatte-scholz-und-merz-im-schlagabtausch-ueber-migration](https://www.spiegel.de/politik/deutschland/bundestagsdebatte-scholz-und-merz-im-schlagabtausch-ueber-migration-a-2f024bf9-5624-4c45-8d6f-2cb4f8850067#ref=rss)
-### angriff
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-gegen-friedrich-merz-ein-unverzeihlicher-fehler-und-groesstes-unbehagen](https://www.spiegel.de/politik/deutschland/olaf-scholz-gegen-friedrich-merz-ein-unverzeihlicher-fehler-und-groesstes-unbehagen-a-2d56a0bc-52aa-43d6-86f4-57f5a1a65202#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mutmasslicher-angriff-zweifel-an-darstellung-von-bundestagsabgeordneter-akbulut](https://www.spiegel.de/panorama/justiz/mutmasslicher-angriff-zweifel-an-darstellung-von-bundestagsabgeordneter-akbulut-a-c08a9e86-555a-4d69-b4d3-1318c2558b83#ref=rss)
-### bundestag
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-gegen-friedrich-merz-ein-unverzeihlicher-fehler-und-groesstes-unbehagen](https://www.spiegel.de/politik/deutschland/olaf-scholz-gegen-friedrich-merz-ein-unverzeihlicher-fehler-und-groesstes-unbehagen-a-2d56a0bc-52aa-43d6-86f4-57f5a1a65202#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-erst-der-wortbruch-dann-der-tabubruch](https://www.spiegel.de/politik/deutschland/friedrich-merz-erst-der-wortbruch-dann-der-tabubruch-a-528e1b22-3387-4f7a-9cb6-b2c379667fbc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestag-stimmt-mit-der-afd-fuer-den-asyl-antrag-der-union](https://www.spiegel.de/politik/deutschland/bundestag-stimmt-mit-der-afd-fuer-den-asyl-antrag-der-union-a-57d835aa-4cf0-4ead-a171-40548047272f#ref=rss)
-### erst
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-erst-der-wortbruch-dann-der-tabubruch](https://www.spiegel.de/politik/deutschland/friedrich-merz-erst-der-wortbruch-dann-der-tabubruch-a-528e1b22-3387-4f7a-9cb6-b2c379667fbc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gewalt-gegen-frauen-einigung-bei-gewalthilfegesetz-nur-mit-friedrich-merz](https://www.spiegel.de/politik/deutschland/gewalt-gegen-frauen-einigung-bei-gewalthilfegesetz-nur-mit-friedrich-merz-a-b6f9b8e2-70d6-4d04-adca-d00487a5cc7b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/die-linke-partei-fordert-teilnahme-der-spitzenkandidatinnen-bei-tv-deabatte](https://www.spiegel.de/politik/deutschland/die-linke-partei-fordert-teilnahme-der-spitzenkandidatinnen-bei-tv-deabatte-a-3525807f-2263-403d-b401-d1be8faa6588#ref=rss)
-### stimmen
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-erst-der-wortbruch-dann-der-tabubruch](https://www.spiegel.de/politik/deutschland/friedrich-merz-erst-der-wortbruch-dann-der-tabubruch-a-528e1b22-3387-4f7a-9cb6-b2c379667fbc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestag-stimmt-mit-der-afd-fuer-den-asyl-antrag-der-union](https://www.spiegel.de/politik/deutschland/bundestag-stimmt-mit-der-afd-fuer-den-asyl-antrag-der-union-a-57d835aa-4cf0-4ead-a171-40548047272f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gewalt-gegen-frauen-einigung-bei-gewalthilfegesetz-nur-mit-friedrich-merz](https://www.spiegel.de/politik/deutschland/gewalt-gegen-frauen-einigung-bei-gewalthilfegesetz-nur-mit-friedrich-merz-a-b6f9b8e2-70d6-4d04-adca-d00487a5cc7b#ref=rss)
-### abgeordneten
-
-* [https://www.spiegel.de/politik/deutschland/bundestag-stimmt-mit-der-afd-fuer-den-asyl-antrag-der-union](https://www.spiegel.de/politik/deutschland/bundestag-stimmt-mit-der-afd-fuer-den-asyl-antrag-der-union-a-57d835aa-4cf0-4ead-a171-40548047272f#ref=rss)
-* [https://www.spiegel.de/ausland/robert-f-kennedy-jr-trumps-wunschkandidat-stellt-sich-den-fragen-der-abgeordneten](https://www.spiegel.de/ausland/robert-f-kennedy-jr-trumps-wunschkandidat-stellt-sich-den-fragen-der-abgeordneten-a-3adbffcc-30fa-48a5-8583-c3dd272a663b#ref=rss)
-### acht
-
-* [https://www.spiegel.de/ausland/deutsch-israelische-geisel-gadi-moses-soll-am-donnerstag-freikommen](https://www.spiegel.de/ausland/deutsch-israelische-geisel-gadi-moses-soll-am-donnerstag-freikommen-a-557b452b-04bf-4ffd-80d9-3288ac5ba728#ref=rss)
-* [https://www.spiegel.de/kultur/leila-slimani-schliesst-ihre-romantrilogie-ab](https://www.spiegel.de/kultur/leila-slimani-schliesst-ihre-romantrilogie-ab-a-9b26f9e8-9614-4977-94b6-1eab61014072#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-regierung-bietet-abfindung-bei-freiwilliger-kuendigung-an](https://www.spiegel.de/wirtschaft/donald-trump-regierung-bietet-abfindung-bei-freiwilliger-kuendigung-an-a-e22655e9-0534-463d-8f28-649140f8b064#ref=rss)
-### fordert
-
-* [https://www.spiegel.de/politik/deutschland/afd-udo-boettcher-fordert-rueckzahlung-der-millionenspende](https://www.spiegel.de/politik/deutschland/afd-udo-boettcher-fordert-rueckzahlung-der-millionenspende-a-b17b0907-27ee-4e06-b994-f96ce20991e9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/die-linke-partei-fordert-teilnahme-der-spitzenkandidatinnen-bei-tv-deabatte](https://www.spiegel.de/politik/deutschland/die-linke-partei-fordert-teilnahme-der-spitzenkandidatinnen-bei-tv-deabatte-a-3525807f-2263-403d-b401-d1be8faa6588#ref=rss)
-### frieden
-
-* [https://www.spiegel.de/politik/deutschland/goerlitz-fast-alle-wollen-frieden-und-gern-auch-eine-panzerfabrik-in-der-stadt](https://www.spiegel.de/politik/deutschland/goerlitz-fast-alle-wollen-frieden-und-gern-auch-eine-panzerfabrik-in-der-stadt-a-4977f009-e0d3-4620-8578-424a12c7eef8#ref=rss)
-### massenpanik
-
-* [https://www.spiegel.de/ausland/indien-massenpanik-bei-maha-kumbh-mela-dutzende-tote](https://www.spiegel.de/ausland/indien-massenpanik-bei-maha-kumbh-mela-dutzende-tote-a-0df1e29b-afb4-4b39-9500-c6f30b97251a#ref=rss)
-### maha
-
-* [https://www.spiegel.de/ausland/indien-massenpanik-bei-maha-kumbh-mela-dutzende-tote](https://www.spiegel.de/ausland/indien-massenpanik-bei-maha-kumbh-mela-dutzende-tote-a-0df1e29b-afb4-4b39-9500-c6f30b97251a#ref=rss)
-### kumbh
-
-* [https://www.spiegel.de/ausland/indien-massenpanik-bei-maha-kumbh-mela-dutzende-tote](https://www.spiegel.de/ausland/indien-massenpanik-bei-maha-kumbh-mela-dutzende-tote-a-0df1e29b-afb4-4b39-9500-c6f30b97251a#ref=rss)
-### mela
-
-* [https://www.spiegel.de/ausland/indien-massenpanik-bei-maha-kumbh-mela-dutzende-tote](https://www.spiegel.de/ausland/indien-massenpanik-bei-maha-kumbh-mela-dutzende-tote-a-0df1e29b-afb4-4b39-9500-c6f30b97251a#ref=rss)
-### dutzende
-
-* [https://www.spiegel.de/ausland/indien-massenpanik-bei-maha-kumbh-mela-dutzende-tote](https://www.spiegel.de/ausland/indien-massenpanik-bei-maha-kumbh-mela-dutzende-tote-a-0df1e29b-afb4-4b39-9500-c6f30b97251a#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/ausland/indien-massenpanik-bei-maha-kumbh-mela-dutzende-tote](https://www.spiegel.de/ausland/indien-massenpanik-bei-maha-kumbh-mela-dutzende-tote-a-0df1e29b-afb4-4b39-9500-c6f30b97251a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-regierung-bietet-abfindung-bei-freiwilliger-kuendigung-an](https://www.spiegel.de/wirtschaft/donald-trump-regierung-bietet-abfindung-bei-freiwilliger-kuendigung-an-a-e22655e9-0534-463d-8f28-649140f8b064#ref=rss)
-### gesellschaft
-
-* [https://www.spiegel.de/wirtschaft/soziales/transformation-der-gesellschaft-kanzleramt-vernachlaessigt-wichtige-details-in-neuem-buch](https://www.spiegel.de/wirtschaft/soziales/transformation-der-gesellschaft-kanzleramt-vernachlaessigt-wichtige-details-in-neuem-buch-a-c6bf8b83-71f3-45ef-9b23-e3095308df6e#ref=rss)
-### kanzleramt
-
-* [https://www.spiegel.de/wirtschaft/soziales/transformation-der-gesellschaft-kanzleramt-vernachlaessigt-wichtige-details-in-neuem-buch](https://www.spiegel.de/wirtschaft/soziales/transformation-der-gesellschaft-kanzleramt-vernachlaessigt-wichtige-details-in-neuem-buch-a-c6bf8b83-71f3-45ef-9b23-e3095308df6e#ref=rss)
-### entwurf
-
-* [https://www.spiegel.de/wirtschaft/soziales/transformation-der-gesellschaft-kanzleramt-vernachlaessigt-wichtige-details-in-neuem-buch](https://www.spiegel.de/wirtschaft/soziales/transformation-der-gesellschaft-kanzleramt-vernachlaessigt-wichtige-details-in-neuem-buch-a-c6bf8b83-71f3-45ef-9b23-e3095308df6e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gewalt-gegen-frauen-einigung-bei-gewalthilfegesetz-nur-mit-friedrich-merz](https://www.spiegel.de/politik/deutschland/gewalt-gegen-frauen-einigung-bei-gewalthilfegesetz-nur-mit-friedrich-merz-a-b6f9b8e2-70d6-4d04-adca-d00487a5cc7b#ref=rss)
-### wenigen
-
-* [https://www.spiegel.de/wirtschaft/soziales/transformation-der-gesellschaft-kanzleramt-vernachlaessigt-wichtige-details-in-neuem-buch](https://www.spiegel.de/wirtschaft/soziales/transformation-der-gesellschaft-kanzleramt-vernachlaessigt-wichtige-details-in-neuem-buch-a-c6bf8b83-71f3-45ef-9b23-e3095308df6e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/goertz-weitere-unternehmensteile-sind-insolvent](https://www.spiegel.de/wirtschaft/unternehmen/goertz-weitere-unternehmensteile-sind-insolvent-a-3ef70dd3-3612-40fb-82c2-bb21ccd6b2dd#ref=rss)
-### boxset
-
-* [https://www.spiegel.de/kultur/musik/cd-boxset-90-von-hans-joachim-roedelius-ganz-und-gar-gegenwaertig](https://www.spiegel.de/kultur/musik/cd-boxset-90-von-hans-joachim-roedelius-ganz-und-gar-gegenwaertig-a-cdd33a08-b67d-4bb5-890a-388d84e5f422#ref=rss)
-### 90
-
-* [https://www.spiegel.de/kultur/musik/cd-boxset-90-von-hans-joachim-roedelius-ganz-und-gar-gegenwaertig](https://www.spiegel.de/kultur/musik/cd-boxset-90-von-hans-joachim-roedelius-ganz-und-gar-gegenwaertig-a-cdd33a08-b67d-4bb5-890a-388d84e5f422#ref=rss)
-### hansjoachim
-
-* [https://www.spiegel.de/kultur/musik/cd-boxset-90-von-hans-joachim-roedelius-ganz-und-gar-gegenwaertig](https://www.spiegel.de/kultur/musik/cd-boxset-90-von-hans-joachim-roedelius-ganz-und-gar-gegenwaertig-a-cdd33a08-b67d-4bb5-890a-388d84e5f422#ref=rss)
-### roedelius
-
-* [https://www.spiegel.de/kultur/musik/cd-boxset-90-von-hans-joachim-roedelius-ganz-und-gar-gegenwaertig](https://www.spiegel.de/kultur/musik/cd-boxset-90-von-hans-joachim-roedelius-ganz-und-gar-gegenwaertig-a-cdd33a08-b67d-4bb5-890a-388d84e5f422#ref=rss)
-### mexiko
-
-* [https://www.spiegel.de/wissenschaft/mensch/donald-trump-und-der-golf-von-mexiko-autoritaeres-neoimperiales-muster](https://www.spiegel.de/wissenschaft/mensch/donald-trump-und-der-golf-von-mexiko-autoritaeres-neoimperiales-muster-a-346f0c98-b13e-4800-8b32-13a2bdf0ecae#ref=rss)
+* [https://www.spiegel.de/sport/handball/deutschland-scheitert-bei-der-handball-wm-wie-die-deutsche-mannschaft-die-wm-verschlafen-hat](https://www.spiegel.de/sport/handball/deutschland-scheitert-bei-der-handball-wm-wie-die-deutsche-mannschaft-die-wm-verschlafen-hat-a-fec1cd18-e0c6-4b99-96e9-fd3c1a184739#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bruttoinlandsprodukt-deutsche-wirtschaft-im-4-quartal-staerker-geschrumpft-als-befuerchtet](https://www.spiegel.de/wirtschaft/bruttoinlandsprodukt-deutsche-wirtschaft-im-4-quartal-staerker-geschrumpft-als-befuerchtet-a-197a4d47-bf4c-4144-a0e6-1926da212a50#ref=rss)
+* [https://www.spiegel.de/sport/ioc-das-sind-die-nachfolgekandidaten-von-thomas-bach-der-rivale-der-milliardaer-die-getreue](https://www.spiegel.de/sport/ioc-das-sind-die-nachfolgekandidaten-von-thomas-bach-der-rivale-der-milliardaer-die-getreue-a-16b98808-9e8a-40d4-87c7-7179cf9dc2a3#ref=rss)
 ### usa
 
-* [https://www.spiegel.de/wissenschaft/mensch/donald-trump-und-der-golf-von-mexiko-autoritaeres-neoimperiales-muster](https://www.spiegel.de/wissenschaft/mensch/donald-trump-und-der-golf-von-mexiko-autoritaeres-neoimperiales-muster-a-346f0c98-b13e-4800-8b32-13a2bdf0ecae#ref=rss)
-* [https://www.spiegel.de/auto/neuer-us-verkehrsminister-will-verbrenner-wieder-staerken](https://www.spiegel.de/auto/neuer-us-verkehrsminister-will-verbrenner-wieder-staerken-a-0a20d0f2-63a8-498b-95fa-e73af34f1d7d#ref=rss)
-### vorgehen
+* [https://www.spiegel.de/panorama/washington-d-c-in-den-usa-passagierflugzeug-und-militaerhubschrauber-nach-kollision-im-wasser-viele-tote-befuerchtet](https://www.spiegel.de/panorama/washington-d-c-in-den-usa-passagierflugzeug-und-militaerhubschrauber-nach-kollision-im-wasser-viele-tote-befuerchtet-a-87022dec-be31-4efc-8886-000413bb1aab#ref=rss)
+* [https://www.spiegel.de/netzwelt/us-regierung-diskutiert-ueber-schaerferen-exportbann-fuer-nvidias-ki-chips](https://www.spiegel.de/netzwelt/us-regierung-diskutiert-ueber-schaerferen-exportbann-fuer-nvidias-ki-chips-a-3c076396-f879-43a5-8a3e-7d6909dba471#ref=rss)
+* [https://www.spiegel.de/ausland/usa-donald-trump-will-angebliche-indoktrination-an-schulen-verbieten](https://www.spiegel.de/ausland/usa-donald-trump-will-angebliche-indoktrination-an-schulen-verbieten-a-17b9dbe1-4890-414b-b8c4-a1dfb2be87ae#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-donald-trump-fed-chef-jerome-powell-der-mann-der-trump-trotzt](https://www.spiegel.de/wirtschaft/usa-donald-trump-fed-chef-jerome-powell-der-mann-der-trump-trotzt-a-f5666fb3-00a4-410c-9dd4-73a0b3f02b3b#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/wissenschaft/mensch/donald-trump-und-der-golf-von-mexiko-autoritaeres-neoimperiales-muster](https://www.spiegel.de/wissenschaft/mensch/donald-trump-und-der-golf-von-mexiko-autoritaeres-neoimperiales-muster-a-346f0c98-b13e-4800-8b32-13a2bdf0ecae#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-regierung-bietet-abfindung-bei-freiwilliger-kuendigung-an](https://www.spiegel.de/wirtschaft/donald-trump-regierung-bietet-abfindung-bei-freiwilliger-kuendigung-an-a-e22655e9-0534-463d-8f28-649140f8b064#ref=rss)
-### grönland
+* [https://www.spiegel.de/panorama/justiz/indien-dutzende-menschen-sterben-bei-massengedraenge-bei-maha-kumbh-mela-behoerden-ordnen-untersuchung-an](https://www.spiegel.de/panorama/justiz/indien-dutzende-menschen-sterben-bei-massengedraenge-bei-maha-kumbh-mela-behoerden-ordnen-untersuchung-an-a-ade9eb23-eeb9-4893-a715-fbdd1853eea5#ref=rss)
+* [https://www.spiegel.de/ausland/us-hilfen-donald-trumps-entscheidung-trifft-die-schwaechsten-weltweit](https://www.spiegel.de/ausland/us-hilfen-donald-trumps-entscheidung-trifft-die-schwaechsten-weltweit-a-aac22938-a1a8-4284-892a-b97747d77c03#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/streamingdienst-amazon-prime-video-mehr-als-80-000-menschen-beteiligen-sich-an-sammelklage-gegen-amazon-prime-video](https://www.spiegel.de/netzwelt/web/streamingdienst-amazon-prime-video-mehr-als-80-000-menschen-beteiligen-sich-an-sammelklage-gegen-amazon-prime-video-a-6c53e803-2590-4932-9658-a0457a57ee89#ref=rss)
+### wirtschaft
 
-* [https://www.spiegel.de/panorama/vereinsvorsitzender-ueber-groenland-konflikt-wir-haben-ja-noch-nicht-mal-bodenschaetze](https://www.spiegel.de/panorama/vereinsvorsitzender-ueber-groenland-konflikt-wir-haben-ja-noch-nicht-mal-bodenschaetze-a-afd6dda6-6ef5-4f30-a5ed-a53383b19f44#ref=rss)
-### umgang
+* [https://www.spiegel.de/wirtschaft/bruttoinlandsprodukt-deutsche-wirtschaft-im-4-quartal-staerker-geschrumpft-als-befuerchtet](https://www.spiegel.de/wirtschaft/bruttoinlandsprodukt-deutsche-wirtschaft-im-4-quartal-staerker-geschrumpft-als-befuerchtet-a-197a4d47-bf4c-4144-a0e6-1926da212a50#ref=rss)
+* [https://www.spiegel.de/wirtschaft/frankreichs-wirtschaft-schrumpft-erstmals-seit-fast-zwei-jahren](https://www.spiegel.de/wirtschaft/frankreichs-wirtschaft-schrumpft-erstmals-seit-fast-zwei-jahren-a-a1c5b001-740d-4b56-9c15-03ae8290a8fc#ref=rss)
+### quartal
 
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-gegen-friedrich-merz-ein-unverzeihlicher-fehler-und-groesstes-unbehagen](https://www.spiegel.de/politik/deutschland/olaf-scholz-gegen-friedrich-merz-ein-unverzeihlicher-fehler-und-groesstes-unbehagen-a-2d56a0bc-52aa-43d6-86f4-57f5a1a65202#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-regierung-bietet-abfindung-bei-freiwilliger-kuendigung-an](https://www.spiegel.de/wirtschaft/donald-trump-regierung-bietet-abfindung-bei-freiwilliger-kuendigung-an-a-e22655e9-0534-463d-8f28-649140f8b064#ref=rss)
-### lady
+* [https://www.spiegel.de/wirtschaft/bruttoinlandsprodukt-deutsche-wirtschaft-im-4-quartal-staerker-geschrumpft-als-befuerchtet](https://www.spiegel.de/wirtschaft/bruttoinlandsprodukt-deutsche-wirtschaft-im-4-quartal-staerker-geschrumpft-als-befuerchtet-a-197a4d47-bf4c-4144-a0e6-1926da212a50#ref=rss)
+* [https://www.spiegel.de/wirtschaft/frankreichs-wirtschaft-schrumpft-erstmals-seit-fast-zwei-jahren](https://www.spiegel.de/wirtschaft/frankreichs-wirtschaft-schrumpft-erstmals-seit-fast-zwei-jahren-a-a1c5b001-740d-4b56-9c15-03ae8290a8fc#ref=rss)
+* [https://www.spiegel.de/wirtschaft/abflauender-ki-boom-ueberschattet-quartalsberichte-von-microsoft-und-meta](https://www.spiegel.de/wirtschaft/abflauender-ki-boom-ueberschattet-quartalsberichte-von-microsoft-und-meta-a-ac2a2440-69e6-47ad-9072-e4ec5d0708d5#ref=rss)
+### zukunft
 
-* [https://www.spiegel.de/kultur/lady-gaga-moechte-kinder](https://www.spiegel.de/kultur/lady-gaga-moechte-kinder-a-5f136f1e-ecfc-414d-adcf-198853c3210a#ref=rss)
-### gaga
+* [https://www.spiegel.de/wirtschaft/tesla-unter-druck-musk-koedert-boerse-mit-visionen-nach-maessigen-quartalszahlen](https://www.spiegel.de/wirtschaft/tesla-unter-druck-musk-koedert-boerse-mit-visionen-nach-maessigen-quartalszahlen-a-cdc5d2fe-0991-4afb-a64b-4c46a2cd3f98#ref=rss)
+* [https://www.spiegel.de/wirtschaft/abflauender-ki-boom-ueberschattet-quartalsberichte-von-microsoft-und-meta](https://www.spiegel.de/wirtschaft/abflauender-ki-boom-ueberschattet-quartalsberichte-von-microsoft-und-meta-a-ac2a2440-69e6-47ad-9072-e4ec5d0708d5#ref=rss)
+* [https://www.spiegel.de/kultur/deutschland-2025-was-sagen-die-sterne-ueber-unsere-zukunft-voraus-ein-toter-kater-gibt-antworten](https://www.spiegel.de/kultur/deutschland-2025-was-sagen-die-sterne-ueber-unsere-zukunft-voraus-ein-toter-kater-gibt-antworten-a-d8ad6624-963b-4d85-a6fb-14e19124f258#ref=rss)
+### helfen
 
-* [https://www.spiegel.de/kultur/lady-gaga-moechte-kinder](https://www.spiegel.de/kultur/lady-gaga-moechte-kinder-a-5f136f1e-ecfc-414d-adcf-198853c3210a#ref=rss)
-### tabubruch
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-erst-der-wortbruch-dann-der-tabubruch](https://www.spiegel.de/politik/deutschland/friedrich-merz-erst-der-wortbruch-dann-der-tabubruch-a-528e1b22-3387-4f7a-9cb6-b2c379667fbc#ref=rss)
-### migration
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-erst-der-wortbruch-dann-der-tabubruch](https://www.spiegel.de/politik/deutschland/friedrich-merz-erst-der-wortbruch-dann-der-tabubruch-a-528e1b22-3387-4f7a-9cb6-b2c379667fbc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagsdebatte-scholz-und-merz-im-schlagabtausch-ueber-migration](https://www.spiegel.de/politik/deutschland/bundestagsdebatte-scholz-und-merz-im-schlagabtausch-ueber-migration-a-2f024bf9-5624-4c45-8d6f-2cb4f8850067#ref=rss)
-### unbekannter
-
-* [https://www.spiegel.de/panorama/justiz/hannover-unbekannter-zerstoert-kraenze-an-ns-gedenkstaette-ahlem](https://www.spiegel.de/panorama/justiz/hannover-unbekannter-zerstoert-kraenze-an-ns-gedenkstaette-ahlem-a-e6be743a-b964-4f05-8d91-338ff71c01c5#ref=rss)
-### zerstört
-
-* [https://www.spiegel.de/panorama/justiz/hannover-unbekannter-zerstoert-kraenze-an-ns-gedenkstaette-ahlem](https://www.spiegel.de/panorama/justiz/hannover-unbekannter-zerstoert-kraenze-an-ns-gedenkstaette-ahlem-a-e6be743a-b964-4f05-8d91-338ff71c01c5#ref=rss)
-### kränze
-
-* [https://www.spiegel.de/panorama/justiz/hannover-unbekannter-zerstoert-kraenze-an-ns-gedenkstaette-ahlem](https://www.spiegel.de/panorama/justiz/hannover-unbekannter-zerstoert-kraenze-an-ns-gedenkstaette-ahlem-a-e6be743a-b964-4f05-8d91-338ff71c01c5#ref=rss)
-### ahlem
-
-* [https://www.spiegel.de/panorama/justiz/hannover-unbekannter-zerstoert-kraenze-an-ns-gedenkstaette-ahlem](https://www.spiegel.de/panorama/justiz/hannover-unbekannter-zerstoert-kraenze-an-ns-gedenkstaette-ahlem-a-e6be743a-b964-4f05-8d91-338ff71c01c5#ref=rss)
-### vorfall
-
-* [https://www.spiegel.de/panorama/justiz/hannover-unbekannter-zerstoert-kraenze-an-ns-gedenkstaette-ahlem](https://www.spiegel.de/panorama/justiz/hannover-unbekannter-zerstoert-kraenze-an-ns-gedenkstaette-ahlem-a-e6be743a-b964-4f05-8d91-338ff71c01c5#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mutmasslicher-angriff-zweifel-an-darstellung-von-bundestagsabgeordneter-akbulut](https://www.spiegel.de/panorama/justiz/mutmasslicher-angriff-zweifel-an-darstellung-von-bundestagsabgeordneter-akbulut-a-c08a9e86-555a-4d69-b4d3-1318c2558b83#ref=rss)
-### antrag
-
-* [https://www.spiegel.de/politik/deutschland/bundestag-stimmt-mit-der-afd-fuer-den-asyl-antrag-der-union](https://www.spiegel.de/politik/deutschland/bundestag-stimmt-mit-der-afd-fuer-den-asyl-antrag-der-union-a-57d835aa-4cf0-4ead-a171-40548047272f#ref=rss)
-### migrationspolitik
-
-* [https://www.spiegel.de/politik/deutschland/bundestag-stimmt-mit-der-afd-fuer-den-asyl-antrag-der-union](https://www.spiegel.de/politik/deutschland/bundestag-stimmt-mit-der-afd-fuer-den-asyl-antrag-der-union-a-57d835aa-4cf0-4ead-a171-40548047272f#ref=rss)
-### gadi
-
-* [https://www.spiegel.de/ausland/deutsch-israelische-geisel-gadi-moses-soll-am-donnerstag-freikommen](https://www.spiegel.de/ausland/deutsch-israelische-geisel-gadi-moses-soll-am-donnerstag-freikommen-a-557b452b-04bf-4ffd-80d9-3288ac5ba728#ref=rss)
-### moses
-
-* [https://www.spiegel.de/ausland/deutsch-israelische-geisel-gadi-moses-soll-am-donnerstag-freikommen](https://www.spiegel.de/ausland/deutsch-israelische-geisel-gadi-moses-soll-am-donnerstag-freikommen-a-557b452b-04bf-4ffd-80d9-3288ac5ba728#ref=rss)
-### freikommen
-
-* [https://www.spiegel.de/ausland/deutsch-israelische-geisel-gadi-moses-soll-am-donnerstag-freikommen](https://www.spiegel.de/ausland/deutsch-israelische-geisel-gadi-moses-soll-am-donnerstag-freikommen-a-557b452b-04bf-4ffd-80d9-3288ac5ba728#ref=rss)
-### israelischen
-
-* [https://www.spiegel.de/ausland/deutsch-israelische-geisel-gadi-moses-soll-am-donnerstag-freikommen](https://www.spiegel.de/ausland/deutsch-israelische-geisel-gadi-moses-soll-am-donnerstag-freikommen-a-557b452b-04bf-4ffd-80d9-3288ac5ba728#ref=rss)
-* [https://www.spiegel.de/ausland/westjordanland-israelisches-militaer-will-nach-ende-der-militaeroperation-in-dschenin-bleiben](https://www.spiegel.de/ausland/westjordanland-israelisches-militaer-will-nach-ende-der-militaeroperation-in-dschenin-bleiben-a-90449033-e4f8-4f05-974b-95712ba9fa6c#ref=rss)
-### unter
-
-* [https://www.spiegel.de/ausland/deutsch-israelische-geisel-gadi-moses-soll-am-donnerstag-freikommen](https://www.spiegel.de/ausland/deutsch-israelische-geisel-gadi-moses-soll-am-donnerstag-freikommen-a-557b452b-04bf-4ffd-80d9-3288ac5ba728#ref=rss)
-* [https://www.spiegel.de/ausland/robert-f-kennedy-jr-trumps-wunschkandidat-stellt-sich-den-fragen-der-abgeordneten](https://www.spiegel.de/ausland/robert-f-kennedy-jr-trumps-wunschkandidat-stellt-sich-den-fragen-der-abgeordneten-a-3adbffcc-30fa-48a5-8583-c3dd272a663b#ref=rss)
-### görtz
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/goertz-weitere-unternehmensteile-sind-insolvent](https://www.spiegel.de/wirtschaft/unternehmen/goertz-weitere-unternehmensteile-sind-insolvent-a-3ef70dd3-3612-40fb-82c2-bb21ccd6b2dd#ref=rss)
-### neuer
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/goertz-weitere-unternehmensteile-sind-insolvent](https://www.spiegel.de/wirtschaft/unternehmen/goertz-weitere-unternehmensteile-sind-insolvent-a-3ef70dd3-3612-40fb-82c2-bb21ccd6b2dd#ref=rss)
-* [https://www.spiegel.de/auto/neuer-us-verkehrsminister-will-verbrenner-wieder-staerken](https://www.spiegel.de/auto/neuer-us-verkehrsminister-will-verbrenner-wieder-staerken-a-0a20d0f2-63a8-498b-95fa-e73af34f1d7d#ref=rss)
-### brachte
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/goertz-weitere-unternehmensteile-sind-insolvent](https://www.spiegel.de/wirtschaft/unternehmen/goertz-weitere-unternehmensteile-sind-insolvent-a-3ef70dd3-3612-40fb-82c2-bb21ccd6b2dd#ref=rss)
-* [https://www.spiegel.de/panorama/pakistan-youtube-star-rajab-butt-bekommt-loewenbaby-zur-hochzeit-untersuchungshaft](https://www.spiegel.de/panorama/pakistan-youtube-star-rajab-butt-bekommt-loewenbaby-zur-hochzeit-untersuchungshaft-a-420c459a-499b-46b9-9934-a30e5a4ae83a#ref=rss)
-### verurteilt
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/illegaler-medikamentenhandel-lunapharm-chefin-zu-haftstrafe-verurteilt](https://www.spiegel.de/wirtschaft/unternehmen/illegaler-medikamentenhandel-lunapharm-chefin-zu-haftstrafe-verurteilt-a-49647dd6-3473-4d15-b9f6-982f9aa385b8#ref=rss)
-### brandenburger
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/illegaler-medikamentenhandel-lunapharm-chefin-zu-haftstrafe-verurteilt](https://www.spiegel.de/wirtschaft/unternehmen/illegaler-medikamentenhandel-lunapharm-chefin-zu-haftstrafe-verurteilt-a-49647dd6-3473-4d15-b9f6-982f9aa385b8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wirtschaftswarntag-unternehmer-demonstrieren-gegen-politik-der-regierung](https://www.spiegel.de/wirtschaft/wirtschaftswarntag-unternehmer-demonstrieren-gegen-politik-der-regierung-a-f87ce428-09fa-4771-94cc-ae9ed18c9edc#ref=rss)
-### böttcher
-
-* [https://www.spiegel.de/politik/deutschland/afd-udo-boettcher-fordert-rueckzahlung-der-millionenspende](https://www.spiegel.de/politik/deutschland/afd-udo-boettcher-fordert-rueckzahlung-der-millionenspende-a-b17b0907-27ee-4e06-b994-f96ce20991e9#ref=rss)
-### geschenkt
-
-* [https://www.spiegel.de/politik/deutschland/afd-udo-boettcher-fordert-rueckzahlung-der-millionenspende](https://www.spiegel.de/politik/deutschland/afd-udo-boettcher-fordert-rueckzahlung-der-millionenspende-a-b17b0907-27ee-4e06-b994-f96ce20991e9#ref=rss)
-* [https://www.spiegel.de/panorama/pakistan-youtube-star-rajab-butt-bekommt-loewenbaby-zur-hochzeit-untersuchungshaft](https://www.spiegel.de/panorama/pakistan-youtube-star-rajab-butt-bekommt-loewenbaby-zur-hochzeit-untersuchungshaft-a-420c459a-499b-46b9-9934-a30e5a4ae83a#ref=rss)
-### leïla
-
-* [https://www.spiegel.de/kultur/leila-slimani-schliesst-ihre-romantrilogie-ab](https://www.spiegel.de/kultur/leila-slimani-schliesst-ihre-romantrilogie-ab-a-9b26f9e8-9614-4977-94b6-1eab61014072#ref=rss)
-### slimani
-
-* [https://www.spiegel.de/kultur/leila-slimani-schliesst-ihre-romantrilogie-ab](https://www.spiegel.de/kultur/leila-slimani-schliesst-ihre-romantrilogie-ab-a-9b26f9e8-9614-4977-94b6-1eab61014072#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/kultur/leila-slimani-schliesst-ihre-romantrilogie-ab](https://www.spiegel.de/kultur/leila-slimani-schliesst-ihre-romantrilogie-ab-a-9b26f9e8-9614-4977-94b6-1eab61014072#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mutmasslicher-angriff-zweifel-an-darstellung-von-bundestagsabgeordneter-akbulut](https://www.spiegel.de/panorama/justiz/mutmasslicher-angriff-zweifel-an-darstellung-von-bundestagsabgeordneter-akbulut-a-c08a9e86-555a-4d69-b4d3-1318c2558b83#ref=rss)
-### plant
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/temu-shein-deutschland-plant-massnahmen-gegen-paketflut-aus-china](https://www.spiegel.de/netzwelt/netzpolitik/temu-shein-deutschland-plant-massnahmen-gegen-paketflut-aus-china-a-fa49cb15-9477-4179-8016-da019c99683e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/argentinien-berlin-plant-verkauf-von-drei-u-booten-an-marine-von-javier-milei](https://www.spiegel.de/politik/deutschland/argentinien-berlin-plant-verkauf-von-drei-u-booten-an-marine-von-javier-milei-a-303d4eaa-4d60-44cd-8cc6-1a8ddcfc4771#ref=rss)
-### china
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/temu-shein-deutschland-plant-massnahmen-gegen-paketflut-aus-china](https://www.spiegel.de/netzwelt/netzpolitik/temu-shein-deutschland-plant-massnahmen-gegen-paketflut-aus-china-a-fa49cb15-9477-4179-8016-da019c99683e#ref=rss)
-### ärger
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/temu-shein-deutschland-plant-massnahmen-gegen-paketflut-aus-china](https://www.spiegel.de/netzwelt/netzpolitik/temu-shein-deutschland-plant-massnahmen-gegen-paketflut-aus-china-a-fa49cb15-9477-4179-8016-da019c99683e#ref=rss)
-* [https://www.spiegel.de/panorama/pakistan-youtube-star-rajab-butt-bekommt-loewenbaby-zur-hochzeit-untersuchungshaft](https://www.spiegel.de/panorama/pakistan-youtube-star-rajab-butt-bekommt-loewenbaby-zur-hochzeit-untersuchungshaft-a-420c459a-499b-46b9-9934-a30e5a4ae83a#ref=rss)
-### alle
-
-* [https://www.spiegel.de/politik/deutschland/goerlitz-fast-alle-wollen-frieden-und-gern-auch-eine-panzerfabrik-in-der-stadt](https://www.spiegel.de/politik/deutschland/goerlitz-fast-alle-wollen-frieden-und-gern-auch-eine-panzerfabrik-in-der-stadt-a-4977f009-e0d3-4620-8578-424a12c7eef8#ref=rss)
-### stadt
-
-* [https://www.spiegel.de/politik/deutschland/goerlitz-fast-alle-wollen-frieden-und-gern-auch-eine-panzerfabrik-in-der-stadt](https://www.spiegel.de/politik/deutschland/goerlitz-fast-alle-wollen-frieden-und-gern-auch-eine-panzerfabrik-in-der-stadt-a-4977f009-e0d3-4620-8578-424a12c7eef8#ref=rss)
-* [https://www.spiegel.de/ausland/westjordanland-israelisches-militaer-will-nach-ende-der-militaeroperation-in-dschenin-bleiben](https://www.spiegel.de/ausland/westjordanland-israelisches-militaer-will-nach-ende-der-militaeroperation-in-dschenin-bleiben-a-90449033-e4f8-4f05-974b-95712ba9fa6c#ref=rss)
-### bundestagsdebatte
-
-* [https://www.spiegel.de/politik/deutschland/bundestagsdebatte-scholz-und-merz-im-schlagabtausch-ueber-migration](https://www.spiegel.de/politik/deutschland/bundestagsdebatte-scholz-und-merz-im-schlagabtausch-ueber-migration-a-2f024bf9-5624-4c45-8d6f-2cb4f8850067#ref=rss)
-### akbulut
-
-* [https://www.spiegel.de/panorama/justiz/mutmasslicher-angriff-zweifel-an-darstellung-von-bundestagsabgeordneter-akbulut](https://www.spiegel.de/panorama/justiz/mutmasslicher-angriff-zweifel-an-darstellung-von-bundestagsabgeordneter-akbulut-a-c08a9e86-555a-4d69-b4d3-1318c2558b83#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/wirtschaft/wirtschaftswarntag-unternehmer-demonstrieren-gegen-politik-der-regierung](https://www.spiegel.de/wirtschaft/wirtschaftswarntag-unternehmer-demonstrieren-gegen-politik-der-regierung-a-f87ce428-09fa-4771-94cc-ae9ed18c9edc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-regierung-bietet-abfindung-bei-freiwilliger-kuendigung-an](https://www.spiegel.de/wirtschaft/donald-trump-regierung-bietet-abfindung-bei-freiwilliger-kuendigung-an-a-e22655e9-0534-463d-8f28-649140f8b064#ref=rss)
+* [https://www.spiegel.de/sport/fussball/borussia-dortmund-kann-niko-kovac-dem-bvb-langfristig-helfen](https://www.spiegel.de/sport/fussball/borussia-dortmund-kann-niko-kovac-dem-bvb-langfristig-helfen-a-5338445d-f1d4-48db-94b5-9b99785091a7#ref=rss)
+* [https://www.spiegel.de/ausland/robert-f-kennedy-jr-anhoerung-im-us-senat-der-quacksalber-macht-auf-serioes](https://www.spiegel.de/ausland/robert-f-kennedy-jr-anhoerung-im-us-senat-der-quacksalber-macht-auf-serioes-a-66ec4347-5438-4210-8871-222046e3fa7a#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/wirtschaft/wirtschaftswarntag-unternehmer-demonstrieren-gegen-politik-der-regierung](https://www.spiegel.de/wirtschaft/wirtschaftswarntag-unternehmer-demonstrieren-gegen-politik-der-regierung-a-f87ce428-09fa-4771-94cc-ae9ed18c9edc#ref=rss)
-* [https://www.spiegel.de/ausland/westjordanland-israelisches-militaer-will-nach-ende-der-militaeroperation-in-dschenin-bleiben](https://www.spiegel.de/ausland/westjordanland-israelisches-militaer-will-nach-ende-der-militaeroperation-in-dschenin-bleiben-a-90449033-e4f8-4f05-974b-95712ba9fa6c#ref=rss)
-### kritik
+* [https://www.spiegel.de/sport/fussball/borussia-dortmund-kann-niko-kovac-dem-bvb-langfristig-helfen](https://www.spiegel.de/sport/fussball/borussia-dortmund-kann-niko-kovac-dem-bvb-langfristig-helfen-a-5338445d-f1d4-48db-94b5-9b99785091a7#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/streamingdienst-amazon-prime-video-mehr-als-80-000-menschen-beteiligen-sich-an-sammelklage-gegen-amazon-prime-video](https://www.spiegel.de/netzwelt/web/streamingdienst-amazon-prime-video-mehr-als-80-000-menschen-beteiligen-sich-an-sammelklage-gegen-amazon-prime-video-a-6c53e803-2590-4932-9658-a0457a57ee89#ref=rss)
+* [https://www.spiegel.de/wirtschaft/super-bowl-ein-30-sekunden-spot-im-finalspiel-kostet-acht-millionen-dollar](https://www.spiegel.de/wirtschaft/super-bowl-ein-30-sekunden-spot-im-finalspiel-kostet-acht-millionen-dollar-a-be6ff3bc-2245-434c-a895-fd6201bb0a13#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/wirtschaft/wirtschaftswarntag-unternehmer-demonstrieren-gegen-politik-der-regierung](https://www.spiegel.de/wirtschaft/wirtschaftswarntag-unternehmer-demonstrieren-gegen-politik-der-regierung-a-f87ce428-09fa-4771-94cc-ae9ed18c9edc#ref=rss)
-* [https://www.spiegel.de/ausland/robert-f-kennedy-jr-trumps-wunschkandidat-stellt-sich-den-fragen-der-abgeordneten](https://www.spiegel.de/ausland/robert-f-kennedy-jr-trumps-wunschkandidat-stellt-sich-den-fragen-der-abgeordneten-a-3adbffcc-30fa-48a5-8583-c3dd272a663b#ref=rss)
+* [https://www.spiegel.de/ausland/serbien-interview-zur-regierungskrise](https://www.spiegel.de/ausland/serbien-interview-zur-regierungskrise-a-70888fb5-e88a-4dc1-9388-762e646319f4#ref=rss)
+* [https://www.spiegel.de/sport/handball/deutschland-scheitert-bei-der-handball-wm-wie-die-deutsche-mannschaft-die-wm-verschlafen-hat](https://www.spiegel.de/sport/handball/deutschland-scheitert-bei-der-handball-wm-wie-die-deutsche-mannschaft-die-wm-verschlafen-hat-a-fec1cd18-e0c6-4b99-96e9-fd3c1a184739#ref=rss)
+* [https://www.spiegel.de/kultur/deutschland-2025-was-sagen-die-sterne-ueber-unsere-zukunft-voraus-ein-toter-kater-gibt-antworten](https://www.spiegel.de/kultur/deutschland-2025-was-sagen-die-sterne-ueber-unsere-zukunft-voraus-ein-toter-kater-gibt-antworten-a-d8ad6624-963b-4d85-a6fb-14e19124f258#ref=rss)
+### wir
+
+* [https://www.spiegel.de/sport/handball/deutschland-scheitert-bei-der-handball-wm-wie-die-deutsche-mannschaft-die-wm-verschlafen-hat](https://www.spiegel.de/sport/handball/deutschland-scheitert-bei-der-handball-wm-wie-die-deutsche-mannschaft-die-wm-verschlafen-hat-a-fec1cd18-e0c6-4b99-96e9-fd3c1a184739#ref=rss)
+* [https://www.spiegel.de/familie/zeugnisse-sind-eltern-und-politik-versetzungsgefaehrdet](https://www.spiegel.de/familie/zeugnisse-sind-eltern-und-politik-versetzungsgefaehrdet-a-7beaca6a-c4c9-4f4b-92b6-b0d53785cb8d#ref=rss)
+* [https://www.spiegel.de/kultur/deutschland-2025-was-sagen-die-sterne-ueber-unsere-zukunft-voraus-ein-toter-kater-gibt-antworten](https://www.spiegel.de/kultur/deutschland-2025-was-sagen-die-sterne-ueber-unsere-zukunft-voraus-ein-toter-kater-gibt-antworten-a-d8ad6624-963b-4d85-a6fb-14e19124f258#ref=rss)
+### politik
+
+* [https://www.spiegel.de/panorama/justiz/indien-dutzende-menschen-sterben-bei-massengedraenge-bei-maha-kumbh-mela-behoerden-ordnen-untersuchung-an](https://www.spiegel.de/panorama/justiz/indien-dutzende-menschen-sterben-bei-massengedraenge-bei-maha-kumbh-mela-behoerden-ordnen-untersuchung-an-a-ade9eb23-eeb9-4893-a715-fbdd1853eea5#ref=rss)
+* [https://www.spiegel.de/familie/zeugnisse-sind-eltern-und-politik-versetzungsgefaehrdet](https://www.spiegel.de/familie/zeugnisse-sind-eltern-und-politik-versetzungsgefaehrdet-a-7beaca6a-c4c9-4f4b-92b6-b0d53785cb8d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-donald-trump-fed-chef-jerome-powell-der-mann-der-trump-trotzt](https://www.spiegel.de/wirtschaft/usa-donald-trump-fed-chef-jerome-powell-der-mann-der-trump-trotzt-a-f5666fb3-00a4-410c-9dd4-73a0b3f02b3b#ref=rss)
+### amazon
+
+* [https://www.spiegel.de/netzwelt/web/streamingdienst-amazon-prime-video-mehr-als-80-000-menschen-beteiligen-sich-an-sammelklage-gegen-amazon-prime-video](https://www.spiegel.de/netzwelt/web/streamingdienst-amazon-prime-video-mehr-als-80-000-menschen-beteiligen-sich-an-sammelklage-gegen-amazon-prime-video-a-6c53e803-2590-4932-9658-a0457a57ee89#ref=rss)
+### haute
+
+* [https://www.spiegel.de/stil/haute-couture-week-paris-designer-praesentieren-sommer-und-fruehjahrskollektionen](https://www.spiegel.de/stil/haute-couture-week-paris-designer-praesentieren-sommer-und-fruehjahrskollektionen-a-e935f7a6-9d08-4966-b64f-af368bbbe772#ref=rss)
+### couture
+
+* [https://www.spiegel.de/stil/haute-couture-week-paris-designer-praesentieren-sommer-und-fruehjahrskollektionen](https://www.spiegel.de/stil/haute-couture-week-paris-designer-praesentieren-sommer-und-fruehjahrskollektionen-a-e935f7a6-9d08-4966-b64f-af368bbbe772#ref=rss)
+### uns
+
+* [https://www.spiegel.de/familie/zeugnisse-sind-eltern-und-politik-versetzungsgefaehrdet](https://www.spiegel.de/familie/zeugnisse-sind-eltern-und-politik-versetzungsgefaehrdet-a-7beaca6a-c4c9-4f4b-92b6-b0d53785cb8d#ref=rss)
+* [https://www.spiegel.de/kultur/deutschland-2025-was-sagen-die-sterne-ueber-unsere-zukunft-voraus-ein-toter-kater-gibt-antworten](https://www.spiegel.de/kultur/deutschland-2025-was-sagen-die-sterne-ueber-unsere-zukunft-voraus-ein-toter-kater-gibt-antworten-a-d8ad6624-963b-4d85-a6fb-14e19124f258#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/wirtschaft/frankreichs-wirtschaft-schrumpft-erstmals-seit-fast-zwei-jahren](https://www.spiegel.de/wirtschaft/frankreichs-wirtschaft-schrumpft-erstmals-seit-fast-zwei-jahren-a-a1c5b001-740d-4b56-9c15-03ae8290a8fc#ref=rss)
+* [https://www.spiegel.de/partnerschaft/interkulturelle-paare-wie-kann-liebe-zwischen-zwei-kulturen-und-religionen-gelingen](https://www.spiegel.de/partnerschaft/interkulturelle-paare-wie-kann-liebe-zwischen-zwei-kulturen-und-religionen-gelingen-a-b2314e3a-1d2c-4ae7-a946-300be34366bb#ref=rss)
+### washington
+
+* [https://www.spiegel.de/panorama/washington-d-c-in-den-usa-passagierflugzeug-und-militaerhubschrauber-nach-kollision-im-wasser-viele-tote-befuerchtet](https://www.spiegel.de/panorama/washington-d-c-in-den-usa-passagierflugzeug-und-militaerhubschrauber-nach-kollision-im-wasser-viele-tote-befuerchtet-a-87022dec-be31-4efc-8886-000413bb1aab#ref=rss)
+* [https://www.spiegel.de/netzwelt/us-regierung-diskutiert-ueber-schaerferen-exportbann-fuer-nvidias-ki-chips](https://www.spiegel.de/netzwelt/us-regierung-diskutiert-ueber-schaerferen-exportbann-fuer-nvidias-ki-chips-a-3c076396-f879-43a5-8a3e-7d6909dba471#ref=rss)
+### niko
+
+* [https://www.spiegel.de/sport/fussball/borussia-dortmund-kann-niko-kovac-dem-bvb-langfristig-helfen](https://www.spiegel.de/sport/fussball/borussia-dortmund-kann-niko-kovac-dem-bvb-langfristig-helfen-a-5338445d-f1d4-48db-94b5-9b99785091a7#ref=rss)
+### kovač
+
+* [https://www.spiegel.de/sport/fussball/borussia-dortmund-kann-niko-kovac-dem-bvb-langfristig-helfen](https://www.spiegel.de/sport/fussball/borussia-dortmund-kann-niko-kovac-dem-bvb-langfristig-helfen-a-5338445d-f1d4-48db-94b5-9b99785091a7#ref=rss)
+### bvb
+
+* [https://www.spiegel.de/sport/fussball/borussia-dortmund-kann-niko-kovac-dem-bvb-langfristig-helfen](https://www.spiegel.de/sport/fussball/borussia-dortmund-kann-niko-kovac-dem-bvb-langfristig-helfen-a-5338445d-f1d4-48db-94b5-9b99785091a7#ref=rss)
+### nichts
+
+* [https://www.spiegel.de/sport/fussball/borussia-dortmund-kann-niko-kovac-dem-bvb-langfristig-helfen](https://www.spiegel.de/sport/fussball/borussia-dortmund-kann-niko-kovac-dem-bvb-langfristig-helfen-a-5338445d-f1d4-48db-94b5-9b99785091a7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-donald-trump-fed-chef-jerome-powell-der-mann-der-trump-trotzt](https://www.spiegel.de/wirtschaft/usa-donald-trump-fed-chef-jerome-powell-der-mann-der-trump-trotzt-a-f5666fb3-00a4-410c-9dd4-73a0b3f02b3b#ref=rss)
+### neue
+
+* [https://www.spiegel.de/sport/fussball/borussia-dortmund-kann-niko-kovac-dem-bvb-langfristig-helfen](https://www.spiegel.de/sport/fussball/borussia-dortmund-kann-niko-kovac-dem-bvb-langfristig-helfen-a-5338445d-f1d4-48db-94b5-9b99785091a7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wahl-o-mat-zur-hamburg-buergerschaftswahl-wen-sie-waehlen-wollen](https://www.spiegel.de/politik/deutschland/wahl-o-mat-zur-hamburg-buergerschaftswahl-wen-sie-waehlen-wollen-a-ad807f7d-0142-40ed-aaa5-855295d0687d#ref=rss)
+### serbien
+
+* [https://www.spiegel.de/ausland/serbien-interview-zur-regierungskrise](https://www.spiegel.de/ausland/serbien-interview-zur-regierungskrise-a-70888fb5-e88a-4dc1-9388-762e646319f4#ref=rss)
+### zusammen
+
+* [https://www.spiegel.de/ausland/serbien-interview-zur-regierungskrise](https://www.spiegel.de/ausland/serbien-interview-zur-regierungskrise-a-70888fb5-e88a-4dc1-9388-762e646319f4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/sparen-wird-wieder-zum-minusgeschaeft](https://www.spiegel.de/wirtschaft/service/sparen-wird-wieder-zum-minusgeschaeft-a-1804f5a4-f2a0-4bab-9988-a7f29d1eb8df#ref=rss)
+### umgang
+
+* [https://www.spiegel.de/ausland/serbien-interview-zur-regierungskrise](https://www.spiegel.de/ausland/serbien-interview-zur-regierungskrise-a-70888fb5-e88a-4dc1-9388-762e646319f4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-donald-trump-fed-chef-jerome-powell-der-mann-der-trump-trotzt](https://www.spiegel.de/wirtschaft/usa-donald-trump-fed-chef-jerome-powell-der-mann-der-trump-trotzt-a-f5666fb3-00a4-410c-9dd4-73a0b3f02b3b#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/sport/handball/deutschland-scheitert-bei-der-handball-wm-wie-die-deutsche-mannschaft-die-wm-verschlafen-hat](https://www.spiegel.de/sport/handball/deutschland-scheitert-bei-der-handball-wm-wie-die-deutsche-mannschaft-die-wm-verschlafen-hat-a-fec1cd18-e0c6-4b99-96e9-fd3c1a184739#ref=rss)
+* [https://www.spiegel.de/stil/haute-couture-week-paris-designer-praesentieren-sommer-und-fruehjahrskollektionen](https://www.spiegel.de/stil/haute-couture-week-paris-designer-praesentieren-sommer-und-fruehjahrskollektionen-a-e935f7a6-9d08-4966-b64f-af368bbbe772#ref=rss)
+### islamkritiker
+
+* [https://www.spiegel.de/ausland/schweden-koranverbrennung-angeklagter-islam-kritiker-kurz-vor-urteilsverkuendung-erschossen](https://www.spiegel.de/ausland/schweden-koranverbrennung-angeklagter-islam-kritiker-kurz-vor-urteilsverkuendung-erschossen-a-71d1fc3b-25b7-488e-891a-afc06b8f6400#ref=rss)
+### urteilsverkündung
+
+* [https://www.spiegel.de/ausland/schweden-koranverbrennung-angeklagter-islam-kritiker-kurz-vor-urteilsverkuendung-erschossen](https://www.spiegel.de/ausland/schweden-koranverbrennung-angeklagter-islam-kritiker-kurz-vor-urteilsverkuendung-erschossen-a-71d1fc3b-25b7-488e-891a-afc06b8f6400#ref=rss)
+### deswegen
+
+* [https://www.spiegel.de/ausland/schweden-koranverbrennung-angeklagter-islam-kritiker-kurz-vor-urteilsverkuendung-erschossen](https://www.spiegel.de/ausland/schweden-koranverbrennung-angeklagter-islam-kritiker-kurz-vor-urteilsverkuendung-erschossen-a-71d1fc3b-25b7-488e-891a-afc06b8f6400#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-stellt-sich-gegen-friedrich-merz](https://www.spiegel.de/politik/deutschland/angela-merkel-stellt-sich-gegen-friedrich-merz-a-d4c57b5c-3843-41c7-a86f-bf7407a27880#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/ausland/schweden-koranverbrennung-angeklagter-islam-kritiker-kurz-vor-urteilsverkuendung-erschossen](https://www.spiegel.de/ausland/schweden-koranverbrennung-angeklagter-islam-kritiker-kurz-vor-urteilsverkuendung-erschossen-a-71d1fc3b-25b7-488e-891a-afc06b8f6400#ref=rss)
+* [https://www.spiegel.de/ausland/prozess-in-new-york-city-donald-trump-legt-berufung-gegen-schweigegeld-verurteilung-ein](https://www.spiegel.de/ausland/prozess-in-new-york-city-donald-trump-legt-berufung-gegen-schweigegeld-verurteilung-ein-a-fb4743a8-872d-4d64-8c19-304d7778edbb#ref=rss)
+### behörden
+
+* [https://www.spiegel.de/ausland/schweden-koranverbrennung-angeklagter-islam-kritiker-kurz-vor-urteilsverkuendung-erschossen](https://www.spiegel.de/ausland/schweden-koranverbrennung-angeklagter-islam-kritiker-kurz-vor-urteilsverkuendung-erschossen-a-71d1fc3b-25b7-488e-891a-afc06b8f6400#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/indien-dutzende-menschen-sterben-bei-massengedraenge-bei-maha-kumbh-mela-behoerden-ordnen-untersuchung-an](https://www.spiegel.de/panorama/justiz/indien-dutzende-menschen-sterben-bei-massengedraenge-bei-maha-kumbh-mela-behoerden-ordnen-untersuchung-an-a-ade9eb23-eeb9-4893-a715-fbdd1853eea5#ref=rss)
+### indien
+
+* [https://www.spiegel.de/panorama/justiz/indien-dutzende-menschen-sterben-bei-massengedraenge-bei-maha-kumbh-mela-behoerden-ordnen-untersuchung-an](https://www.spiegel.de/panorama/justiz/indien-dutzende-menschen-sterben-bei-massengedraenge-bei-maha-kumbh-mela-behoerden-ordnen-untersuchung-an-a-ade9eb23-eeb9-4893-a715-fbdd1853eea5#ref=rss)
+### dutzende
+
+* [https://www.spiegel.de/panorama/justiz/indien-dutzende-menschen-sterben-bei-massengedraenge-bei-maha-kumbh-mela-behoerden-ordnen-untersuchung-an](https://www.spiegel.de/panorama/justiz/indien-dutzende-menschen-sterben-bei-massengedraenge-bei-maha-kumbh-mela-behoerden-ordnen-untersuchung-an-a-ade9eb23-eeb9-4893-a715-fbdd1853eea5#ref=rss)
+### sterben
+
+* [https://www.spiegel.de/panorama/justiz/indien-dutzende-menschen-sterben-bei-massengedraenge-bei-maha-kumbh-mela-behoerden-ordnen-untersuchung-an](https://www.spiegel.de/panorama/justiz/indien-dutzende-menschen-sterben-bei-massengedraenge-bei-maha-kumbh-mela-behoerden-ordnen-untersuchung-an-a-ade9eb23-eeb9-4893-a715-fbdd1853eea5#ref=rss)
+* [https://www.spiegel.de/ausland/us-hilfen-donald-trumps-entscheidung-trifft-die-schwaechsten-weltweit](https://www.spiegel.de/ausland/us-hilfen-donald-trumps-entscheidung-trifft-die-schwaechsten-weltweit-a-aac22938-a1a8-4284-892a-b97747d77c03#ref=rss)
+### maha
+
+* [https://www.spiegel.de/panorama/justiz/indien-dutzende-menschen-sterben-bei-massengedraenge-bei-maha-kumbh-mela-behoerden-ordnen-untersuchung-an](https://www.spiegel.de/panorama/justiz/indien-dutzende-menschen-sterben-bei-massengedraenge-bei-maha-kumbh-mela-behoerden-ordnen-untersuchung-an-a-ade9eb23-eeb9-4893-a715-fbdd1853eea5#ref=rss)
+### kumbh
+
+* [https://www.spiegel.de/panorama/justiz/indien-dutzende-menschen-sterben-bei-massengedraenge-bei-maha-kumbh-mela-behoerden-ordnen-untersuchung-an](https://www.spiegel.de/panorama/justiz/indien-dutzende-menschen-sterben-bei-massengedraenge-bei-maha-kumbh-mela-behoerden-ordnen-untersuchung-an-a-ade9eb23-eeb9-4893-a715-fbdd1853eea5#ref=rss)
+### mela
+
+* [https://www.spiegel.de/panorama/justiz/indien-dutzende-menschen-sterben-bei-massengedraenge-bei-maha-kumbh-mela-behoerden-ordnen-untersuchung-an](https://www.spiegel.de/panorama/justiz/indien-dutzende-menschen-sterben-bei-massengedraenge-bei-maha-kumbh-mela-behoerden-ordnen-untersuchung-an-a-ade9eb23-eeb9-4893-a715-fbdd1853eea5#ref=rss)
+### ushilfen
+
+* [https://www.spiegel.de/ausland/us-hilfen-donald-trumps-entscheidung-trifft-die-schwaechsten-weltweit](https://www.spiegel.de/ausland/us-hilfen-donald-trumps-entscheidung-trifft-die-schwaechsten-weltweit-a-aac22938-a1a8-4284-892a-b97747d77c03#ref=rss)
+### trumps
+
+* [https://www.spiegel.de/ausland/us-hilfen-donald-trumps-entscheidung-trifft-die-schwaechsten-weltweit](https://www.spiegel.de/ausland/us-hilfen-donald-trumps-entscheidung-trifft-die-schwaechsten-weltweit-a-aac22938-a1a8-4284-892a-b97747d77c03#ref=rss)
+* [https://www.spiegel.de/ausland/robert-f-kennedy-jr-anhoerung-im-us-senat-der-quacksalber-macht-auf-serioes](https://www.spiegel.de/ausland/robert-f-kennedy-jr-anhoerung-im-us-senat-der-quacksalber-macht-auf-serioes-a-66ec4347-5438-4210-8871-222046e3fa7a#ref=rss)
+### viele
+
+* [https://www.spiegel.de/ausland/us-hilfen-donald-trumps-entscheidung-trifft-die-schwaechsten-weltweit](https://www.spiegel.de/ausland/us-hilfen-donald-trumps-entscheidung-trifft-die-schwaechsten-weltweit-a-aac22938-a1a8-4284-892a-b97747d77c03#ref=rss)
+* [https://www.spiegel.de/panorama/washington-d-c-in-den-usa-passagierflugzeug-und-militaerhubschrauber-nach-kollision-im-wasser-viele-tote-befuerchtet](https://www.spiegel.de/panorama/washington-d-c-in-den-usa-passagierflugzeug-und-militaerhubschrauber-nach-kollision-im-wasser-viele-tote-befuerchtet-a-87022dec-be31-4efc-8886-000413bb1aab#ref=rss)
+### wahlomat
+
+* [https://www.spiegel.de/politik/deutschland/wahl-o-mat-zur-hamburg-buergerschaftswahl-wen-sie-waehlen-wollen](https://www.spiegel.de/politik/deutschland/wahl-o-mat-zur-hamburg-buergerschaftswahl-wen-sie-waehlen-wollen-a-ad807f7d-0142-40ed-aaa5-855295d0687d#ref=rss)
+### merkel
+
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-stellt-sich-gegen-friedrich-merz](https://www.spiegel.de/politik/deutschland/angela-merkel-stellt-sich-gegen-friedrich-merz-a-d4c57b5c-3843-41c7-a86f-bf7407a27880#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-stellt-sich-gegen-friedrich-merz](https://www.spiegel.de/politik/deutschland/angela-merkel-stellt-sich-gegen-friedrich-merz-a-d4c57b5c-3843-41c7-a86f-bf7407a27880#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-stellt-sich-gegen-friedrich-merz](https://www.spiegel.de/politik/deutschland/angela-merkel-stellt-sich-gegen-friedrich-merz-a-d4c57b5c-3843-41c7-a86f-bf7407a27880#ref=rss)
+### bruttoinlandsprodukt
+
+* [https://www.spiegel.de/wirtschaft/bruttoinlandsprodukt-deutsche-wirtschaft-im-4-quartal-staerker-geschrumpft-als-befuerchtet](https://www.spiegel.de/wirtschaft/bruttoinlandsprodukt-deutsche-wirtschaft-im-4-quartal-staerker-geschrumpft-als-befuerchtet-a-197a4d47-bf4c-4144-a0e6-1926da212a50#ref=rss)
+### befürchtet
+
+* [https://www.spiegel.de/wirtschaft/bruttoinlandsprodukt-deutsche-wirtschaft-im-4-quartal-staerker-geschrumpft-als-befuerchtet](https://www.spiegel.de/wirtschaft/bruttoinlandsprodukt-deutsche-wirtschaft-im-4-quartal-staerker-geschrumpft-als-befuerchtet-a-197a4d47-bf4c-4144-a0e6-1926da212a50#ref=rss)
+* [https://www.spiegel.de/panorama/washington-d-c-in-den-usa-passagierflugzeug-und-militaerhubschrauber-nach-kollision-im-wasser-viele-tote-befuerchtet](https://www.spiegel.de/panorama/washington-d-c-in-den-usa-passagierflugzeug-und-militaerhubschrauber-nach-kollision-im-wasser-viele-tote-befuerchtet-a-87022dec-be31-4efc-8886-000413bb1aab#ref=rss)
+### vierte
+
+* [https://www.spiegel.de/wirtschaft/bruttoinlandsprodukt-deutsche-wirtschaft-im-4-quartal-staerker-geschrumpft-als-befuerchtet](https://www.spiegel.de/wirtschaft/bruttoinlandsprodukt-deutsche-wirtschaft-im-4-quartal-staerker-geschrumpft-als-befuerchtet-a-197a4d47-bf4c-4144-a0e6-1926da212a50#ref=rss)
+* [https://www.spiegel.de/wirtschaft/frankreichs-wirtschaft-schrumpft-erstmals-seit-fast-zwei-jahren](https://www.spiegel.de/wirtschaft/frankreichs-wirtschaft-schrumpft-erstmals-seit-fast-zwei-jahren-a-a1c5b001-740d-4b56-9c15-03ae8290a8fc#ref=rss)
+### 2024
+
+* [https://www.spiegel.de/wirtschaft/bruttoinlandsprodukt-deutsche-wirtschaft-im-4-quartal-staerker-geschrumpft-als-befuerchtet](https://www.spiegel.de/wirtschaft/bruttoinlandsprodukt-deutsche-wirtschaft-im-4-quartal-staerker-geschrumpft-als-befuerchtet-a-197a4d47-bf4c-4144-a0e6-1926da212a50#ref=rss)
+* [https://www.spiegel.de/wirtschaft/frankreichs-wirtschaft-schrumpft-erstmals-seit-fast-zwei-jahren](https://www.spiegel.de/wirtschaft/frankreichs-wirtschaft-schrumpft-erstmals-seit-fast-zwei-jahren-a-a1c5b001-740d-4b56-9c15-03ae8290a8fc#ref=rss)
+### melania
+
+* [https://www.spiegel.de/kultur/melania-trump-offizielles-portraet-als-zeichen-fuer-politische-ambitionen](https://www.spiegel.de/kultur/melania-trump-offizielles-portraet-als-zeichen-fuer-politische-ambitionen-a-75ed71f7-c798-4a23-a8af-15ef08643706#ref=rss)
+### porträt
+
+* [https://www.spiegel.de/kultur/melania-trump-offizielles-portraet-als-zeichen-fuer-politische-ambitionen](https://www.spiegel.de/kultur/melania-trump-offizielles-portraet-als-zeichen-fuer-politische-ambitionen-a-75ed71f7-c798-4a23-a8af-15ef08643706#ref=rss)
+### prime
+
+* [https://www.spiegel.de/netzwelt/web/streamingdienst-amazon-prime-video-mehr-als-80-000-menschen-beteiligen-sich-an-sammelklage-gegen-amazon-prime-video](https://www.spiegel.de/netzwelt/web/streamingdienst-amazon-prime-video-mehr-als-80-000-menschen-beteiligen-sich-an-sammelklage-gegen-amazon-prime-video-a-6c53e803-2590-4932-9658-a0457a57ee89#ref=rss)
+### video
+
+* [https://www.spiegel.de/netzwelt/web/streamingdienst-amazon-prime-video-mehr-als-80-000-menschen-beteiligen-sich-an-sammelklage-gegen-amazon-prime-video](https://www.spiegel.de/netzwelt/web/streamingdienst-amazon-prime-video-mehr-als-80-000-menschen-beteiligen-sich-an-sammelklage-gegen-amazon-prime-video-a-6c53e803-2590-4932-9658-a0457a57ee89#ref=rss)
+### bennu
+
+* [https://www.spiegel.de/wissenschaft/weltall/nasa-mission-osiris-rex-asteroiden-proben-von-bennu-enthalten-organische-materie](https://www.spiegel.de/wissenschaft/weltall/nasa-mission-osiris-rex-asteroiden-proben-von-bennu-enthalten-organische-materie-a-f5b1cbcd-1977-4aec-8884-f88b782e97c3#ref=rss)
+### tesla
+
+* [https://www.spiegel.de/wirtschaft/tesla-unter-druck-musk-koedert-boerse-mit-visionen-nach-maessigen-quartalszahlen](https://www.spiegel.de/wirtschaft/tesla-unter-druck-musk-koedert-boerse-mit-visionen-nach-maessigen-quartalszahlen-a-cdc5d2fe-0991-4afb-a64b-4c46a2cd3f98#ref=rss)
+### musk
+
+* [https://www.spiegel.de/wirtschaft/tesla-unter-druck-musk-koedert-boerse-mit-visionen-nach-maessigen-quartalszahlen](https://www.spiegel.de/wirtschaft/tesla-unter-druck-musk-koedert-boerse-mit-visionen-nach-maessigen-quartalszahlen-a-cdc5d2fe-0991-4afb-a64b-4c46a2cd3f98#ref=rss)
+### week
+
+* [https://www.spiegel.de/stil/haute-couture-week-paris-designer-praesentieren-sommer-und-fruehjahrskollektionen](https://www.spiegel.de/stil/haute-couture-week-paris-designer-praesentieren-sommer-und-fruehjahrskollektionen-a-e935f7a6-9d08-4966-b64f-af368bbbe772#ref=rss)
+### paris
+
+* [https://www.spiegel.de/stil/haute-couture-week-paris-designer-praesentieren-sommer-und-fruehjahrskollektionen](https://www.spiegel.de/stil/haute-couture-week-paris-designer-praesentieren-sommer-und-fruehjahrskollektionen-a-e935f7a6-9d08-4966-b64f-af368bbbe772#ref=rss)
+### designer
+
+* [https://www.spiegel.de/stil/haute-couture-week-paris-designer-praesentieren-sommer-und-fruehjahrskollektionen](https://www.spiegel.de/stil/haute-couture-week-paris-designer-praesentieren-sommer-und-fruehjahrskollektionen-a-e935f7a6-9d08-4966-b64f-af368bbbe772#ref=rss)
+### sommer
+
+* [https://www.spiegel.de/stil/haute-couture-week-paris-designer-praesentieren-sommer-und-fruehjahrskollektionen](https://www.spiegel.de/stil/haute-couture-week-paris-designer-praesentieren-sommer-und-fruehjahrskollektionen-a-e935f7a6-9d08-4966-b64f-af368bbbe772#ref=rss)
+### stellen
+
+* [https://www.spiegel.de/stil/haute-couture-week-paris-designer-praesentieren-sommer-und-fruehjahrskollektionen](https://www.spiegel.de/stil/haute-couture-week-paris-designer-praesentieren-sommer-und-fruehjahrskollektionen-a-e935f7a6-9d08-4966-b64f-af368bbbe772#ref=rss)
+* [https://www.spiegel.de/sport/ioc-das-sind-die-nachfolgekandidaten-von-thomas-bach-der-rivale-der-milliardaer-die-getreue](https://www.spiegel.de/sport/ioc-das-sind-die-nachfolgekandidaten-von-thomas-bach-der-rivale-der-milliardaer-die-getreue-a-16b98808-9e8a-40d4-87c7-7179cf9dc2a3#ref=rss)
+### unsere
+
+* [https://www.spiegel.de/familie/zeugnisse-sind-eltern-und-politik-versetzungsgefaehrdet](https://www.spiegel.de/familie/zeugnisse-sind-eltern-und-politik-versetzungsgefaehrdet-a-7beaca6a-c4c9-4f4b-92b6-b0d53785cb8d#ref=rss)
+* [https://www.spiegel.de/kultur/deutschland-2025-was-sagen-die-sterne-ueber-unsere-zukunft-voraus-ein-toter-kater-gibt-antworten](https://www.spiegel.de/kultur/deutschland-2025-was-sagen-die-sterne-ueber-unsere-zukunft-voraus-ein-toter-kater-gibt-antworten-a-d8ad6624-963b-4d85-a6fb-14e19124f258#ref=rss)
+### nachfolgekandidaten
+
+* [https://www.spiegel.de/sport/ioc-das-sind-die-nachfolgekandidaten-von-thomas-bach-der-rivale-der-milliardaer-die-getreue](https://www.spiegel.de/sport/ioc-das-sind-die-nachfolgekandidaten-von-thomas-bach-der-rivale-der-milliardaer-die-getreue-a-16b98808-9e8a-40d4-87c7-7179cf9dc2a3#ref=rss)
+### thomas
+
+* [https://www.spiegel.de/sport/ioc-das-sind-die-nachfolgekandidaten-von-thomas-bach-der-rivale-der-milliardaer-die-getreue](https://www.spiegel.de/sport/ioc-das-sind-die-nachfolgekandidaten-von-thomas-bach-der-rivale-der-milliardaer-die-getreue-a-16b98808-9e8a-40d4-87c7-7179cf9dc2a3#ref=rss)
+### bach
+
+* [https://www.spiegel.de/sport/ioc-das-sind-die-nachfolgekandidaten-von-thomas-bach-der-rivale-der-milliardaer-die-getreue](https://www.spiegel.de/sport/ioc-das-sind-die-nachfolgekandidaten-von-thomas-bach-der-rivale-der-milliardaer-die-getreue-a-16b98808-9e8a-40d4-87c7-7179cf9dc2a3#ref=rss)
+### erstmals
+
+* [https://www.spiegel.de/wirtschaft/service/sparen-wird-wieder-zum-minusgeschaeft](https://www.spiegel.de/wirtschaft/service/sparen-wird-wieder-zum-minusgeschaeft-a-1804f5a4-f2a0-4bab-9988-a7f29d1eb8df#ref=rss)
+* [https://www.spiegel.de/wirtschaft/frankreichs-wirtschaft-schrumpft-erstmals-seit-fast-zwei-jahren](https://www.spiegel.de/wirtschaft/frankreichs-wirtschaft-schrumpft-erstmals-seit-fast-zwei-jahren-a-a1c5b001-740d-4b56-9c15-03ae8290a8fc#ref=rss)
+### münchen
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-in-champions-league-playoffs-die-stimmung-droht-zu-kippen](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-in-champions-league-playoffs-die-stimmung-droht-zu-kippen-a-186d5f2d-fc91-4ee1-8d2b-497c9deaa097#ref=rss)
+### droht
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-in-champions-league-playoffs-die-stimmung-droht-zu-kippen](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-in-champions-league-playoffs-die-stimmung-droht-zu-kippen-a-186d5f2d-fc91-4ee1-8d2b-497c9deaa097#ref=rss)
+* [https://www.spiegel.de/ausland/usa-donald-trump-will-angebliche-indoktrination-an-schulen-verbieten](https://www.spiegel.de/ausland/usa-donald-trump-will-angebliche-indoktrination-an-schulen-verbieten-a-17b9dbe1-4890-414b-b8c4-a1dfb2be87ae#ref=rss)
+### city
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-in-champions-league-playoffs-die-stimmung-droht-zu-kippen](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-in-champions-league-playoffs-die-stimmung-droht-zu-kippen-a-186d5f2d-fc91-4ee1-8d2b-497c9deaa097#ref=rss)
+* [https://www.spiegel.de/ausland/prozess-in-new-york-city-donald-trump-legt-berufung-gegen-schweigegeld-verurteilung-ein](https://www.spiegel.de/ausland/prozess-in-new-york-city-donald-trump-legt-berufung-gegen-schweigegeld-verurteilung-ein-a-fb4743a8-872d-4d64-8c19-304d7778edbb#ref=rss)
+### kommen
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-in-champions-league-playoffs-die-stimmung-droht-zu-kippen](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-in-champions-league-playoffs-die-stimmung-droht-zu-kippen-a-186d5f2d-fc91-4ee1-8d2b-497c9deaa097#ref=rss)
+* [https://www.spiegel.de/partnerschaft/interkulturelle-paare-wie-kann-liebe-zwischen-zwei-kulturen-und-religionen-gelingen](https://www.spiegel.de/partnerschaft/interkulturelle-paare-wie-kann-liebe-zwischen-zwei-kulturen-und-religionen-gelingen-a-b2314e3a-1d2c-4ae7-a946-300be34366bb#ref=rss)
+### frankreichs
+
+* [https://www.spiegel.de/wirtschaft/frankreichs-wirtschaft-schrumpft-erstmals-seit-fast-zwei-jahren](https://www.spiegel.de/wirtschaft/frankreichs-wirtschaft-schrumpft-erstmals-seit-fast-zwei-jahren-a-a1c5b001-740d-4b56-9c15-03ae8290a8fc#ref=rss)
+### meta
+
+* [https://www.spiegel.de/wirtschaft/abflauender-ki-boom-ueberschattet-quartalsberichte-von-microsoft-und-meta](https://www.spiegel.de/wirtschaft/abflauender-ki-boom-ueberschattet-quartalsberichte-von-microsoft-und-meta-a-ac2a2440-69e6-47ad-9072-e4ec5d0708d5#ref=rss)
+### wäre
+
+* [https://www.spiegel.de/netzwelt/us-regierung-diskutiert-ueber-schaerferen-exportbann-fuer-nvidias-ki-chips](https://www.spiegel.de/netzwelt/us-regierung-diskutiert-ueber-schaerferen-exportbann-fuer-nvidias-ki-chips-a-3c076396-f879-43a5-8a3e-7d6909dba471#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-donald-trump-fed-chef-jerome-powell-der-mann-der-trump-trotzt](https://www.spiegel.de/wirtschaft/usa-donald-trump-fed-chef-jerome-powell-der-mann-der-trump-trotzt-a-f5666fb3-00a4-410c-9dd4-73a0b3f02b3b#ref=rss)
+### schulen
+
+* [https://www.spiegel.de/ausland/usa-donald-trump-will-angebliche-indoktrination-an-schulen-verbieten](https://www.spiegel.de/ausland/usa-donald-trump-will-angebliche-indoktrination-an-schulen-verbieten-a-17b9dbe1-4890-414b-b8c4-a1dfb2be87ae#ref=rss)
+### uspräsident
+
+* [https://www.spiegel.de/ausland/usa-donald-trump-will-angebliche-indoktrination-an-schulen-verbieten](https://www.spiegel.de/ausland/usa-donald-trump-will-angebliche-indoktrination-an-schulen-verbieten-a-17b9dbe1-4890-414b-b8c4-a1dfb2be87ae#ref=rss)
+* [https://www.spiegel.de/ausland/prozess-in-new-york-city-donald-trump-legt-berufung-gegen-schweigegeld-verurteilung-ein](https://www.spiegel.de/ausland/prozess-in-new-york-city-donald-trump-legt-berufung-gegen-schweigegeld-verurteilung-ein-a-fb4743a8-872d-4d64-8c19-304d7778edbb#ref=rss)
+### prozess
+
+* [https://www.spiegel.de/ausland/prozess-in-new-york-city-donald-trump-legt-berufung-gegen-schweigegeld-verurteilung-ein](https://www.spiegel.de/ausland/prozess-in-new-york-city-donald-trump-legt-berufung-gegen-schweigegeld-verurteilung-ein-a-fb4743a8-872d-4d64-8c19-304d7778edbb#ref=rss)
+### finalspiel
+
+* [https://www.spiegel.de/wirtschaft/super-bowl-ein-30-sekunden-spot-im-finalspiel-kostet-acht-millionen-dollar](https://www.spiegel.de/wirtschaft/super-bowl-ein-30-sekunden-spot-im-finalspiel-kostet-acht-millionen-dollar-a-be6ff3bc-2245-434c-a895-fd6201bb0a13#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/wirtschaft/super-bowl-ein-30-sekunden-spot-im-finalspiel-kostet-acht-millionen-dollar](https://www.spiegel.de/wirtschaft/super-bowl-ein-30-sekunden-spot-im-finalspiel-kostet-acht-millionen-dollar-a-be6ff3bc-2245-434c-a895-fd6201bb0a13#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/wirtschaft/super-bowl-ein-30-sekunden-spot-im-finalspiel-kostet-acht-millionen-dollar](https://www.spiegel.de/wirtschaft/super-bowl-ein-30-sekunden-spot-im-finalspiel-kostet-acht-millionen-dollar-a-be6ff3bc-2245-434c-a895-fd6201bb0a13#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-donald-trump-fed-chef-jerome-powell-der-mann-der-trump-trotzt](https://www.spiegel.de/wirtschaft/usa-donald-trump-fed-chef-jerome-powell-der-mann-der-trump-trotzt-a-f5666fb3-00a4-410c-9dd4-73a0b3f02b3b#ref=rss)
+### sterne
+
+* [https://www.spiegel.de/kultur/deutschland-2025-was-sagen-die-sterne-ueber-unsere-zukunft-voraus-ein-toter-kater-gibt-antworten](https://www.spiegel.de/kultur/deutschland-2025-was-sagen-die-sterne-ueber-unsere-zukunft-voraus-ein-toter-kater-gibt-antworten-a-d8ad6624-963b-4d85-a6fb-14e19124f258#ref=rss)
+### fedchef
+
+* [https://www.spiegel.de/wirtschaft/usa-donald-trump-fed-chef-jerome-powell-der-mann-der-trump-trotzt](https://www.spiegel.de/wirtschaft/usa-donald-trump-fed-chef-jerome-powell-der-mann-der-trump-trotzt-a-f5666fb3-00a4-410c-9dd4-73a0b3f02b3b#ref=rss)
+### jerome
+
+* [https://www.spiegel.de/wirtschaft/usa-donald-trump-fed-chef-jerome-powell-der-mann-der-trump-trotzt](https://www.spiegel.de/wirtschaft/usa-donald-trump-fed-chef-jerome-powell-der-mann-der-trump-trotzt-a-f5666fb3-00a4-410c-9dd4-73a0b3f02b3b#ref=rss)
+### powell
+
+* [https://www.spiegel.de/wirtschaft/usa-donald-trump-fed-chef-jerome-powell-der-mann-der-trump-trotzt](https://www.spiegel.de/wirtschaft/usa-donald-trump-fed-chef-jerome-powell-der-mann-der-trump-trotzt-a-f5666fb3-00a4-410c-9dd4-73a0b3f02b3b#ref=rss)
 ### robert
 
-* [https://www.spiegel.de/ausland/robert-f-kennedy-jr-trumps-wunschkandidat-stellt-sich-den-fragen-der-abgeordneten](https://www.spiegel.de/ausland/robert-f-kennedy-jr-trumps-wunschkandidat-stellt-sich-den-fragen-der-abgeordneten-a-3adbffcc-30fa-48a5-8583-c3dd272a663b#ref=rss)
+* [https://www.spiegel.de/ausland/robert-f-kennedy-jr-anhoerung-im-us-senat-der-quacksalber-macht-auf-serioes](https://www.spiegel.de/ausland/robert-f-kennedy-jr-anhoerung-im-us-senat-der-quacksalber-macht-auf-serioes-a-66ec4347-5438-4210-8871-222046e3fa7a#ref=rss)
+### f
+
+* [https://www.spiegel.de/ausland/robert-f-kennedy-jr-anhoerung-im-us-senat-der-quacksalber-macht-auf-serioes](https://www.spiegel.de/ausland/robert-f-kennedy-jr-anhoerung-im-us-senat-der-quacksalber-macht-auf-serioes-a-66ec4347-5438-4210-8871-222046e3fa7a#ref=rss)
 ### kennedy
 
-* [https://www.spiegel.de/ausland/robert-f-kennedy-jr-trumps-wunschkandidat-stellt-sich-den-fragen-der-abgeordneten](https://www.spiegel.de/ausland/robert-f-kennedy-jr-trumps-wunschkandidat-stellt-sich-den-fragen-der-abgeordneten-a-3adbffcc-30fa-48a5-8583-c3dd272a663b#ref=rss)
+* [https://www.spiegel.de/ausland/robert-f-kennedy-jr-anhoerung-im-us-senat-der-quacksalber-macht-auf-serioes](https://www.spiegel.de/ausland/robert-f-kennedy-jr-anhoerung-im-us-senat-der-quacksalber-macht-auf-serioes-a-66ec4347-5438-4210-8871-222046e3fa7a#ref=rss)
 ### jr
 
-* [https://www.spiegel.de/ausland/robert-f-kennedy-jr-trumps-wunschkandidat-stellt-sich-den-fragen-der-abgeordneten](https://www.spiegel.de/ausland/robert-f-kennedy-jr-trumps-wunschkandidat-stellt-sich-den-fragen-der-abgeordneten-a-3adbffcc-30fa-48a5-8583-c3dd272a663b#ref=rss)
-### stellt
-
-* [https://www.spiegel.de/ausland/robert-f-kennedy-jr-trumps-wunschkandidat-stellt-sich-den-fragen-der-abgeordneten](https://www.spiegel.de/ausland/robert-f-kennedy-jr-trumps-wunschkandidat-stellt-sich-den-fragen-der-abgeordneten-a-3adbffcc-30fa-48a5-8583-c3dd272a663b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-regierung-bietet-abfindung-bei-freiwilliger-kuendigung-an](https://www.spiegel.de/wirtschaft/donald-trump-regierung-bietet-abfindung-bei-freiwilliger-kuendigung-an-a-e22655e9-0534-463d-8f28-649140f8b064#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/ausland/robert-f-kennedy-jr-trumps-wunschkandidat-stellt-sich-den-fragen-der-abgeordneten](https://www.spiegel.de/ausland/robert-f-kennedy-jr-trumps-wunschkandidat-stellt-sich-den-fragen-der-abgeordneten-a-3adbffcc-30fa-48a5-8583-c3dd272a663b#ref=rss)
-### militäroperation
-
-* [https://www.spiegel.de/ausland/westjordanland-israelisches-militaer-will-nach-ende-der-militaeroperation-in-dschenin-bleiben](https://www.spiegel.de/ausland/westjordanland-israelisches-militaer-will-nach-ende-der-militaeroperation-in-dschenin-bleiben-a-90449033-e4f8-4f05-974b-95712ba9fa6c#ref=rss)
-### dschenin
-
-* [https://www.spiegel.de/ausland/westjordanland-israelisches-militaer-will-nach-ende-der-militaeroperation-in-dschenin-bleiben](https://www.spiegel.de/ausland/westjordanland-israelisches-militaer-will-nach-ende-der-militaeroperation-in-dschenin-bleiben-a-90449033-e4f8-4f05-974b-95712ba9fa6c#ref=rss)
-### bleiben
-
-* [https://www.spiegel.de/ausland/westjordanland-israelisches-militaer-will-nach-ende-der-militaeroperation-in-dschenin-bleiben](https://www.spiegel.de/ausland/westjordanland-israelisches-militaer-will-nach-ende-der-militaeroperation-in-dschenin-bleiben-a-90449033-e4f8-4f05-974b-95712ba9fa6c#ref=rss)
-### gewalthilfegesetz
-
-* [https://www.spiegel.de/politik/deutschland/gewalt-gegen-frauen-einigung-bei-gewalthilfegesetz-nur-mit-friedrich-merz](https://www.spiegel.de/politik/deutschland/gewalt-gegen-frauen-einigung-bei-gewalthilfegesetz-nur-mit-friedrich-merz-a-b6f9b8e2-70d6-4d04-adca-d00487a5cc7b#ref=rss)
-### linke
-
-* [https://www.spiegel.de/politik/deutschland/die-linke-partei-fordert-teilnahme-der-spitzenkandidatinnen-bei-tv-deabatte](https://www.spiegel.de/politik/deutschland/die-linke-partei-fordert-teilnahme-der-spitzenkandidatinnen-bei-tv-deabatte-a-3525807f-2263-403d-b401-d1be8faa6588#ref=rss)
-### partei
-
-* [https://www.spiegel.de/politik/deutschland/die-linke-partei-fordert-teilnahme-der-spitzenkandidatinnen-bei-tv-deabatte](https://www.spiegel.de/politik/deutschland/die-linke-partei-fordert-teilnahme-der-spitzenkandidatinnen-bei-tv-deabatte-a-3525807f-2263-403d-b401-d1be8faa6588#ref=rss)
-### spitzenkandidatinnen
-
-* [https://www.spiegel.de/politik/deutschland/die-linke-partei-fordert-teilnahme-der-spitzenkandidatinnen-bei-tv-deabatte](https://www.spiegel.de/politik/deutschland/die-linke-partei-fordert-teilnahme-der-spitzenkandidatinnen-bei-tv-deabatte-a-3525807f-2263-403d-b401-d1be8faa6588#ref=rss)
-### garmin
-
-* [https://www.spiegel.de/netzwelt/gadgets/garmin-fehlerhaftes-update-gefaehrdet-fitnessdaten](https://www.spiegel.de/netzwelt/gadgets/garmin-fehlerhaftes-update-gefaehrdet-fitnessdaten-a-f1d362f9-49f4-4ffa-a65e-da4f85bcdfb0#ref=rss)
-### gefährdet
-
-* [https://www.spiegel.de/netzwelt/gadgets/garmin-fehlerhaftes-update-gefaehrdet-fitnessdaten](https://www.spiegel.de/netzwelt/gadgets/garmin-fehlerhaftes-update-gefaehrdet-fitnessdaten-a-f1d362f9-49f4-4ffa-a65e-da4f85bcdfb0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-regierung-bietet-abfindung-bei-freiwilliger-kuendigung-an](https://www.spiegel.de/wirtschaft/donald-trump-regierung-bietet-abfindung-bei-freiwilliger-kuendigung-an-a-e22655e9-0534-463d-8f28-649140f8b064#ref=rss)
-### argentinien
-
-* [https://www.spiegel.de/politik/deutschland/argentinien-berlin-plant-verkauf-von-drei-u-booten-an-marine-von-javier-milei](https://www.spiegel.de/politik/deutschland/argentinien-berlin-plant-verkauf-von-drei-u-booten-an-marine-von-javier-milei-a-303d4eaa-4d60-44cd-8cc6-1a8ddcfc4771#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/politik/deutschland/argentinien-berlin-plant-verkauf-von-drei-u-booten-an-marine-von-javier-milei](https://www.spiegel.de/politik/deutschland/argentinien-berlin-plant-verkauf-von-drei-u-booten-an-marine-von-javier-milei-a-303d4eaa-4d60-44cd-8cc6-1a8ddcfc4771#ref=rss)
-### verkauf
-
-* [https://www.spiegel.de/politik/deutschland/argentinien-berlin-plant-verkauf-von-drei-u-booten-an-marine-von-javier-milei](https://www.spiegel.de/politik/deutschland/argentinien-berlin-plant-verkauf-von-drei-u-booten-an-marine-von-javier-milei-a-303d4eaa-4d60-44cd-8cc6-1a8ddcfc4771#ref=rss)
-### drei
-
-* [https://www.spiegel.de/politik/deutschland/argentinien-berlin-plant-verkauf-von-drei-u-booten-an-marine-von-javier-milei](https://www.spiegel.de/politik/deutschland/argentinien-berlin-plant-verkauf-von-drei-u-booten-an-marine-von-javier-milei-a-303d4eaa-4d60-44cd-8cc6-1a8ddcfc4771#ref=rss)
-### ubooten
-
-* [https://www.spiegel.de/politik/deutschland/argentinien-berlin-plant-verkauf-von-drei-u-booten-an-marine-von-javier-milei](https://www.spiegel.de/politik/deutschland/argentinien-berlin-plant-verkauf-von-drei-u-booten-an-marine-von-javier-milei-a-303d4eaa-4d60-44cd-8cc6-1a8ddcfc4771#ref=rss)
-### javier
-
-* [https://www.spiegel.de/politik/deutschland/argentinien-berlin-plant-verkauf-von-drei-u-booten-an-marine-von-javier-milei](https://www.spiegel.de/politik/deutschland/argentinien-berlin-plant-verkauf-von-drei-u-booten-an-marine-von-javier-milei-a-303d4eaa-4d60-44cd-8cc6-1a8ddcfc4771#ref=rss)
-### milei
-
-* [https://www.spiegel.de/politik/deutschland/argentinien-berlin-plant-verkauf-von-drei-u-booten-an-marine-von-javier-milei](https://www.spiegel.de/politik/deutschland/argentinien-berlin-plant-verkauf-von-drei-u-booten-an-marine-von-javier-milei-a-303d4eaa-4d60-44cd-8cc6-1a8ddcfc4771#ref=rss)
-### rajab
-
-* [https://www.spiegel.de/panorama/pakistan-youtube-star-rajab-butt-bekommt-loewenbaby-zur-hochzeit-untersuchungshaft](https://www.spiegel.de/panorama/pakistan-youtube-star-rajab-butt-bekommt-loewenbaby-zur-hochzeit-untersuchungshaft-a-420c459a-499b-46b9-9934-a30e5a4ae83a#ref=rss)
-### butt
-
-* [https://www.spiegel.de/panorama/pakistan-youtube-star-rajab-butt-bekommt-loewenbaby-zur-hochzeit-untersuchungshaft](https://www.spiegel.de/panorama/pakistan-youtube-star-rajab-butt-bekommt-loewenbaby-zur-hochzeit-untersuchungshaft-a-420c459a-499b-46b9-9934-a30e5a4ae83a#ref=rss)
-### löwenbaby
-
-* [https://www.spiegel.de/panorama/pakistan-youtube-star-rajab-butt-bekommt-loewenbaby-zur-hochzeit-untersuchungshaft](https://www.spiegel.de/panorama/pakistan-youtube-star-rajab-butt-bekommt-loewenbaby-zur-hochzeit-untersuchungshaft-a-420c459a-499b-46b9-9934-a30e5a4ae83a#ref=rss)
+* [https://www.spiegel.de/ausland/robert-f-kennedy-jr-anhoerung-im-us-senat-der-quacksalber-macht-auf-serioes](https://www.spiegel.de/ausland/robert-f-kennedy-jr-anhoerung-im-us-senat-der-quacksalber-macht-auf-serioes-a-66ec4347-5438-4210-8871-222046e3fa7a#ref=rss)
 
