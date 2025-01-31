@@ -4,333 +4,399 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### zwei
-
-* [https://www.spiegel.de/ausland/usa-wie-sich-tulsi-gabbard-und-kash-patel-durch-die-anhoerungen-lavieren](https://www.spiegel.de/ausland/usa-wie-sich-tulsi-gabbard-und-kash-patel-durch-die-anhoerungen-lavieren-a-35e8733d-23e1-43a2-8e31-408a505b60ce#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/bka-schaltet-zwei-der-weltweit-groessten-cybercrime-foren-ab](https://www.spiegel.de/netzwelt/netzpolitik/bka-schaltet-zwei-der-weltweit-groessten-cybercrime-foren-ab-a-e26c9895-49f0-4deb-a01d-86dcdd8dacda#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-zwei-menschen-am-holocaust-mahnmal-verletzt-kraenze-zerstoert](https://www.spiegel.de/panorama/justiz/berlin-zwei-menschen-am-holocaust-mahnmal-verletzt-kraenze-zerstoert-a-cfa11f3e-0463-4562-84e7-0b233f8853a0#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/panorama/gesellschaft/cdu-proteste-gegen-friedrich-merz-nach-afd-unterstuetzung-fuer-migrationsantrag](https://www.spiegel.de/panorama/gesellschaft/cdu-proteste-gegen-friedrich-merz-nach-afd-unterstuetzung-fuer-migrationsantrag-a-b6aeaa1e-72db-4525-860c-c24712e31773#ref=rss)
-* [https://www.spiegel.de/wirtschaft/friedrich-merz-was-seine-plaene-zu-migration-und-grenzkontrollen-kosten-koennten](https://www.spiegel.de/wirtschaft/friedrich-merz-was-seine-plaene-zu-migration-und-grenzkontrollen-kosten-koennten-a-d06e2374-fd06-4611-af74-8cd1f4f1c3d0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wie-friedrich-merz-seine-partei-der-afd-ausgeliefert-hat](https://www.spiegel.de/politik/deutschland/wie-friedrich-merz-seine-partei-der-afd-ausgeliefert-hat-a-ee65d3f1-4f0b-4956-911d-ba2ccaf29b8d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/katarina-barley-ueber-cdu-csu-abstimmung-mit-afd-es-ist-gefaehrlich-was-da-gerade-passiert](https://www.spiegel.de/politik/deutschland/katarina-barley-ueber-cdu-csu-abstimmung-mit-afd-es-ist-gefaehrlich-was-da-gerade-passiert-a-568e02c5-bdaf-4bd1-ba2c-51cfaaed3932#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-afd-zustrombegrenzungsgesetzt-keir-starmer-ahmed-al-sharaa](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-afd-zustrombegrenzungsgesetzt-keir-starmer-ahmed-al-sharaa-a-c8f270e8-e35d-4708-88ff-a0fc1af1f7e8#ref=rss)
-### merz
-
-* [https://www.spiegel.de/panorama/gesellschaft/cdu-proteste-gegen-friedrich-merz-nach-afd-unterstuetzung-fuer-migrationsantrag](https://www.spiegel.de/panorama/gesellschaft/cdu-proteste-gegen-friedrich-merz-nach-afd-unterstuetzung-fuer-migrationsantrag-a-b6aeaa1e-72db-4525-860c-c24712e31773#ref=rss)
-* [https://www.spiegel.de/wirtschaft/friedrich-merz-was-seine-plaene-zu-migration-und-grenzkontrollen-kosten-koennten](https://www.spiegel.de/wirtschaft/friedrich-merz-was-seine-plaene-zu-migration-und-grenzkontrollen-kosten-koennten-a-d06e2374-fd06-4611-af74-8cd1f4f1c3d0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wie-friedrich-merz-seine-partei-der-afd-ausgeliefert-hat](https://www.spiegel.de/politik/deutschland/wie-friedrich-merz-seine-partei-der-afd-ausgeliefert-hat-a-ee65d3f1-4f0b-4956-911d-ba2ccaf29b8d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/katarina-barley-ueber-cdu-csu-abstimmung-mit-afd-es-ist-gefaehrlich-was-da-gerade-passiert](https://www.spiegel.de/politik/deutschland/katarina-barley-ueber-cdu-csu-abstimmung-mit-afd-es-ist-gefaehrlich-was-da-gerade-passiert-a-568e02c5-bdaf-4bd1-ba2c-51cfaaed3932#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-afd-zustrombegrenzungsgesetzt-keir-starmer-ahmed-al-sharaa](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-afd-zustrombegrenzungsgesetzt-keir-starmer-ahmed-al-sharaa-a-c8f270e8-e35d-4708-88ff-a0fc1af1f7e8#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-die-letzte-chance-fuer-das-drei-milliarden-paket-aus-deutschland](https://www.spiegel.de/politik/deutschland/ukraine-krieg-die-letzte-chance-fuer-das-drei-milliarden-paket-aus-deutschland-a-6a8e19df-c71a-43dd-9a62-5e83d8bf2bf3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-deepkseek-china-fortschritt-als-weckruf-fuer-deutschland](https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-deepkseek-china-fortschritt-als-weckruf-fuer-deutschland-a-a71bbace-ac42-42e6-9832-506165234497#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-zwei-menschen-am-holocaust-mahnmal-verletzt-kraenze-zerstoert](https://www.spiegel.de/panorama/justiz/berlin-zwei-menschen-am-holocaust-mahnmal-verletzt-kraenze-zerstoert-a-cfa11f3e-0463-4562-84e7-0b233f8853a0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/inflation-in-deutschland-bleibt-vorerst-erhoeht](https://www.spiegel.de/wirtschaft/inflation-in-deutschland-bleibt-vorerst-erhoeht-a-5c9c5b80-5bd4-4471-8360-5434834b9310#ref=rss)
-### washington
-
-* [https://www.spiegel.de/sport/flugzeugunglueck-in-washington-eiskunstlauf-sport-trauert-um-todesopfer](https://www.spiegel.de/sport/flugzeugunglueck-in-washington-eiskunstlauf-sport-trauert-um-todesopfer-a-df6eb651-0221-4d13-8cdc-e693c5eb88ed#ref=rss)
-* [https://www.spiegel.de/sport/eiskunstlauf-em-in-tallinn-deutsches-paar-minerva-hase-und-nikita-wolodin-gewinnt-gold](https://www.spiegel.de/sport/eiskunstlauf-em-in-tallinn-deutsches-paar-minerva-hase-und-nikita-wolodin-gewinnt-gold-a-3cb12217-2cae-4550-b2ae-2598843181c5#ref=rss)
-* [https://www.spiegel.de/ausland/flugzeug-unglueck-in-washington-d-c-donald-trump-beschuldigt-demokraten](https://www.spiegel.de/ausland/flugzeug-unglueck-in-washington-d-c-donald-trump-beschuldigt-demokraten-a-11224ea7-93f0-4173-92b1-a920e6ddb8ec#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/bka-schaltet-zwei-der-weltweit-groessten-cybercrime-foren-ab](https://www.spiegel.de/netzwelt/netzpolitik/bka-schaltet-zwei-der-weltweit-groessten-cybercrime-foren-ab-a-e26c9895-49f0-4deb-a01d-86dcdd8dacda#ref=rss)
-* [https://www.spiegel.de/politik/proteste-gegen-cdu-und-csu-demonstranten-fordern-brandmauer-zur-afd](https://www.spiegel.de/politik/proteste-gegen-cdu-und-csu-demonstranten-fordern-brandmauer-zur-afd-a-c909850c-92fa-47ae-8a37-fea495f2687b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/arbeitslosenzahl-jetzt-knapp-unter-der-drei-millionen-marke](https://www.spiegel.de/wirtschaft/arbeitslosenzahl-jetzt-knapp-unter-der-drei-millionen-marke-a-c22f6584-c781-4fbc-a8fa-cfd67cd73641#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-zwei-menschen-am-holocaust-mahnmal-verletzt-kraenze-zerstoert](https://www.spiegel.de/panorama/justiz/berlin-zwei-menschen-am-holocaust-mahnmal-verletzt-kraenze-zerstoert-a-cfa11f3e-0463-4562-84e7-0b233f8853a0#ref=rss)
-### afd
-
-* [https://www.spiegel.de/politik/proteste-gegen-cdu-und-csu-demonstranten-fordern-brandmauer-zur-afd](https://www.spiegel.de/politik/proteste-gegen-cdu-und-csu-demonstranten-fordern-brandmauer-zur-afd-a-c909850c-92fa-47ae-8a37-fea495f2687b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wie-friedrich-merz-seine-partei-der-afd-ausgeliefert-hat](https://www.spiegel.de/politik/deutschland/wie-friedrich-merz-seine-partei-der-afd-ausgeliefert-hat-a-ee65d3f1-4f0b-4956-911d-ba2ccaf29b8d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/katarina-barley-ueber-cdu-csu-abstimmung-mit-afd-es-ist-gefaehrlich-was-da-gerade-passiert](https://www.spiegel.de/politik/deutschland/katarina-barley-ueber-cdu-csu-abstimmung-mit-afd-es-ist-gefaehrlich-was-da-gerade-passiert-a-568e02c5-bdaf-4bd1-ba2c-51cfaaed3932#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-afd-zustrombegrenzungsgesetzt-keir-starmer-ahmed-al-sharaa](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-afd-zustrombegrenzungsgesetzt-keir-starmer-ahmed-al-sharaa-a-c8f270e8-e35d-4708-88ff-a0fc1af1f7e8#ref=rss)
-### bundestag
-
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-die-letzte-chance-fuer-das-drei-milliarden-paket-aus-deutschland](https://www.spiegel.de/politik/deutschland/ukraine-krieg-die-letzte-chance-fuer-das-drei-milliarden-paket-aus-deutschland-a-6a8e19df-c71a-43dd-9a62-5e83d8bf2bf3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestag-fdp-will-abstimmung-ueber-migrationsgesetz-der-union-verschieben](https://www.spiegel.de/politik/deutschland/bundestag-fdp-will-abstimmung-ueber-migrationsgesetz-der-union-verschieben-a-49286684-0e9a-4d76-8e5c-c6226a6c33c0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/pille-danach-wird-nach-vergewaltigung-kostenfrei](https://www.spiegel.de/politik/deutschland/pille-danach-wird-nach-vergewaltigung-kostenfrei-a-0fe5c6e2-0e9b-41a0-b61f-a3f15ef8d5ff#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-afd-zustrombegrenzungsgesetzt-keir-starmer-ahmed-al-sharaa](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-afd-zustrombegrenzungsgesetzt-keir-starmer-ahmed-al-sharaa-a-c8f270e8-e35d-4708-88ff-a0fc1af1f7e8#ref=rss)
-### cdu
-
-* [https://www.spiegel.de/panorama/gesellschaft/cdu-proteste-gegen-friedrich-merz-nach-afd-unterstuetzung-fuer-migrationsantrag](https://www.spiegel.de/panorama/gesellschaft/cdu-proteste-gegen-friedrich-merz-nach-afd-unterstuetzung-fuer-migrationsantrag-a-b6aeaa1e-72db-4525-860c-c24712e31773#ref=rss)
-* [https://www.spiegel.de/politik/proteste-gegen-cdu-und-csu-demonstranten-fordern-brandmauer-zur-afd](https://www.spiegel.de/politik/proteste-gegen-cdu-und-csu-demonstranten-fordern-brandmauer-zur-afd-a-c909850c-92fa-47ae-8a37-fea495f2687b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/michel-friedman-ueber-parteiaustritt-nach-afd-votum-die-cdu-ist-in-ihre-eigene-falle-gestolpert](https://www.spiegel.de/politik/deutschland/michel-friedman-ueber-parteiaustritt-nach-afd-votum-die-cdu-ist-in-ihre-eigene-falle-gestolpert-a-a314dce1-b7e9-4105-9897-5120c9792e26#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/panorama/gesellschaft/cdu-proteste-gegen-friedrich-merz-nach-afd-unterstuetzung-fuer-migrationsantrag](https://www.spiegel.de/panorama/gesellschaft/cdu-proteste-gegen-friedrich-merz-nach-afd-unterstuetzung-fuer-migrationsantrag-a-b6aeaa1e-72db-4525-860c-c24712e31773#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-zwei-menschen-am-holocaust-mahnmal-verletzt-kraenze-zerstoert](https://www.spiegel.de/panorama/justiz/berlin-zwei-menschen-am-holocaust-mahnmal-verletzt-kraenze-zerstoert-a-cfa11f3e-0463-4562-84e7-0b233f8853a0#ref=rss)
 ### union
 
 * [https://www.spiegel.de/politik/deutschland/bundestag-fdp-will-abstimmung-ueber-migrationsgesetz-der-union-verschieben](https://www.spiegel.de/politik/deutschland/bundestag-fdp-will-abstimmung-ueber-migrationsgesetz-der-union-verschieben-a-49286684-0e9a-4d76-8e5c-c6226a6c33c0#ref=rss)
-* [https://www.spiegel.de/politik/proteste-gegen-cdu-und-csu-demonstranten-fordern-brandmauer-zur-afd](https://www.spiegel.de/politik/proteste-gegen-cdu-und-csu-demonstranten-fordern-brandmauer-zur-afd-a-c909850c-92fa-47ae-8a37-fea495f2687b#ref=rss)
-### flugzeugunglück
-
-* [https://www.spiegel.de/sport/flugzeugunglueck-in-washington-eiskunstlauf-sport-trauert-um-todesopfer](https://www.spiegel.de/sport/flugzeugunglueck-in-washington-eiskunstlauf-sport-trauert-um-todesopfer-a-df6eb651-0221-4d13-8cdc-e693c5eb88ed#ref=rss)
-* [https://www.spiegel.de/sport/eiskunstlauf-em-in-tallinn-deutsches-paar-minerva-hase-und-nikita-wolodin-gewinnt-gold](https://www.spiegel.de/sport/eiskunstlauf-em-in-tallinn-deutsches-paar-minerva-hase-und-nikita-wolodin-gewinnt-gold-a-3cb12217-2cae-4550-b2ae-2598843181c5#ref=rss)
-* [https://www.spiegel.de/ausland/flugzeug-unglueck-in-washington-d-c-donald-trump-beschuldigt-demokraten](https://www.spiegel.de/ausland/flugzeug-unglueck-in-washington-d-c-donald-trump-beschuldigt-demokraten-a-11224ea7-93f0-4173-92b1-a920e6ddb8ec#ref=rss)
-### fünf
-
-* [https://www.spiegel.de/wirtschaft/brexit-der-eu-austritt-hat-die-briten-aermer-gemacht](https://www.spiegel.de/wirtschaft/brexit-der-eu-austritt-hat-die-briten-aermer-gemacht-a-1f58e7a0-4435-4c1b-af69-d2c96f5d3a57#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-donald-trumps-nahost-gesandter-steve-witkoff-haelt-region-fuer-unbewohnbar](https://www.spiegel.de/ausland/gaza-donald-trumps-nahost-gesandter-steve-witkoff-haelt-region-fuer-unbewohnbar-a-268f4c4c-d2ae-4f1d-b07b-b628ef88dea4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-afd-zustrombegrenzungsgesetzt-keir-starmer-ahmed-al-sharaa](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-afd-zustrombegrenzungsgesetzt-keir-starmer-ahmed-al-sharaa-a-c8f270e8-e35d-4708-88ff-a0fc1af1f7e8#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/wirtschaft/brexit-der-eu-austritt-hat-die-briten-aermer-gemacht](https://www.spiegel.de/wirtschaft/brexit-der-eu-austritt-hat-die-briten-aermer-gemacht-a-1f58e7a0-4435-4c1b-af69-d2c96f5d3a57#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-donald-trumps-nahost-gesandter-steve-witkoff-haelt-region-fuer-unbewohnbar](https://www.spiegel.de/ausland/gaza-donald-trumps-nahost-gesandter-steve-witkoff-haelt-region-fuer-unbewohnbar-a-268f4c4c-d2ae-4f1d-b07b-b628ef88dea4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-afd-zustrombegrenzungsgesetzt-keir-starmer-ahmed-al-sharaa](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-afd-zustrombegrenzungsgesetzt-keir-starmer-ahmed-al-sharaa-a-c8f270e8-e35d-4708-88ff-a0fc1af1f7e8#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/gaza-donald-trumps-nahost-gesandter-steve-witkoff-haelt-region-fuer-unbewohnbar](https://www.spiegel.de/ausland/gaza-donald-trumps-nahost-gesandter-steve-witkoff-haelt-region-fuer-unbewohnbar-a-268f4c4c-d2ae-4f1d-b07b-b628ef88dea4#ref=rss)
-* [https://www.spiegel.de/ausland/flugzeug-unglueck-in-washington-d-c-donald-trump-beschuldigt-demokraten](https://www.spiegel.de/ausland/flugzeug-unglueck-in-washington-d-c-donald-trump-beschuldigt-demokraten-a-11224ea7-93f0-4173-92b1-a920e6ddb8ec#ref=rss)
-### jörg
-
-* [https://www.spiegel.de/wirtschaft/joerg-kukies-spd-finanzminister-zahlt-vorzeitig-notlagenkredite-zurueck](https://www.spiegel.de/wirtschaft/joerg-kukies-spd-finanzminister-zahlt-vorzeitig-notlagenkredite-zurueck-a-9028b0d3-62a5-45a2-80b9-cbf59776900d#ref=rss)
-### kukies
-
-* [https://www.spiegel.de/wirtschaft/joerg-kukies-spd-finanzminister-zahlt-vorzeitig-notlagenkredite-zurueck](https://www.spiegel.de/wirtschaft/joerg-kukies-spd-finanzminister-zahlt-vorzeitig-notlagenkredite-zurueck-a-9028b0d3-62a5-45a2-80b9-cbf59776900d#ref=rss)
-### renée
-
-* [https://www.spiegel.de/kultur/kino/renee-zellweger-ueber-bridget-jones-verlust-von-mr-darcy-persoenlich-getroffen](https://www.spiegel.de/kultur/kino/renee-zellweger-ueber-bridget-jones-verlust-von-mr-darcy-persoenlich-getroffen-a-085c81d0-bba4-4398-9132-b79af5a0e26c#ref=rss)
-### zellweger
-
-* [https://www.spiegel.de/kultur/kino/renee-zellweger-ueber-bridget-jones-verlust-von-mr-darcy-persoenlich-getroffen](https://www.spiegel.de/kultur/kino/renee-zellweger-ueber-bridget-jones-verlust-von-mr-darcy-persoenlich-getroffen-a-085c81d0-bba4-4398-9132-b79af5a0e26c#ref=rss)
-### bridget
-
-* [https://www.spiegel.de/kultur/kino/renee-zellweger-ueber-bridget-jones-verlust-von-mr-darcy-persoenlich-getroffen](https://www.spiegel.de/kultur/kino/renee-zellweger-ueber-bridget-jones-verlust-von-mr-darcy-persoenlich-getroffen-a-085c81d0-bba4-4398-9132-b79af5a0e26c#ref=rss)
-### verlust
-
-* [https://www.spiegel.de/kultur/kino/renee-zellweger-ueber-bridget-jones-verlust-von-mr-darcy-persoenlich-getroffen](https://www.spiegel.de/kultur/kino/renee-zellweger-ueber-bridget-jones-verlust-von-mr-darcy-persoenlich-getroffen-a-085c81d0-bba4-4398-9132-b79af5a0e26c#ref=rss)
-### persönlich
-
-* [https://www.spiegel.de/kultur/kino/renee-zellweger-ueber-bridget-jones-verlust-von-mr-darcy-persoenlich-getroffen](https://www.spiegel.de/kultur/kino/renee-zellweger-ueber-bridget-jones-verlust-von-mr-darcy-persoenlich-getroffen-a-085c81d0-bba4-4398-9132-b79af5a0e26c#ref=rss)
-### baywa
-
-* [https://www.spiegel.de/wirtschaft/baywa-will-glaeubiger-ueberstimmen](https://www.spiegel.de/wirtschaft/baywa-will-glaeubiger-ueberstimmen-a-c7c0d4c6-5108-48bc-81a4-c3cc2a534d13#ref=rss)
-### gläubiger
-
-* [https://www.spiegel.de/wirtschaft/baywa-will-glaeubiger-ueberstimmen](https://www.spiegel.de/wirtschaft/baywa-will-glaeubiger-ueberstimmen-a-c7c0d4c6-5108-48bc-81a4-c3cc2a534d13#ref=rss)
-### konzern
-
-* [https://www.spiegel.de/wirtschaft/baywa-will-glaeubiger-ueberstimmen](https://www.spiegel.de/wirtschaft/baywa-will-glaeubiger-ueberstimmen-a-c7c0d4c6-5108-48bc-81a4-c3cc2a534d13#ref=rss)
-* [https://www.spiegel.de/wirtschaft/apple-schwaechelt-durch-china-absatz-und-setzt-auf-ki-iphones](https://www.spiegel.de/wirtschaft/apple-schwaechelt-durch-china-absatz-und-setzt-auf-ki-iphones-a-1eb8f607-46e8-4520-b7fe-6ebaa7b000cb#ref=rss)
-### rbb
-
-* [https://www.spiegel.de/wirtschaft/rbb-und-die-stefan-gelbhaar-affaere-wie-ulrike-demmer-um-die-zukunft-des-senders-ringt](https://www.spiegel.de/wirtschaft/rbb-und-die-stefan-gelbhaar-affaere-wie-ulrike-demmer-um-die-zukunft-des-senders-ringt-a-d08b5cd0-3684-4790-9c2b-c5afb6704ba3#ref=rss)
-### senders
-
-* [https://www.spiegel.de/wirtschaft/rbb-und-die-stefan-gelbhaar-affaere-wie-ulrike-demmer-um-die-zukunft-des-senders-ringt](https://www.spiegel.de/wirtschaft/rbb-und-die-stefan-gelbhaar-affaere-wie-ulrike-demmer-um-die-zukunft-des-senders-ringt-a-d08b5cd0-3684-4790-9c2b-c5afb6704ba3#ref=rss)
-### erst
-
-* [https://www.spiegel.de/wirtschaft/rbb-und-die-stefan-gelbhaar-affaere-wie-ulrike-demmer-um-die-zukunft-des-senders-ringt](https://www.spiegel.de/wirtschaft/rbb-und-die-stefan-gelbhaar-affaere-wie-ulrike-demmer-um-die-zukunft-des-senders-ringt-a-d08b5cd0-3684-4790-9c2b-c5afb6704ba3#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-zwei-menschen-am-holocaust-mahnmal-verletzt-kraenze-zerstoert](https://www.spiegel.de/panorama/justiz/berlin-zwei-menschen-am-holocaust-mahnmal-verletzt-kraenze-zerstoert-a-cfa11f3e-0463-4562-84e7-0b233f8853a0#ref=rss)
-### bleiben
-
-* [https://www.spiegel.de/wirtschaft/rbb-und-die-stefan-gelbhaar-affaere-wie-ulrike-demmer-um-die-zukunft-des-senders-ringt](https://www.spiegel.de/wirtschaft/rbb-und-die-stefan-gelbhaar-affaere-wie-ulrike-demmer-um-die-zukunft-des-senders-ringt-a-d08b5cd0-3684-4790-9c2b-c5afb6704ba3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/inflation-in-deutschland-bleibt-vorerst-erhoeht](https://www.spiegel.de/wirtschaft/inflation-in-deutschland-bleibt-vorerst-erhoeht-a-5c9c5b80-5bd4-4471-8360-5434834b9310#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/usa-wie-sich-tulsi-gabbard-und-kash-patel-durch-die-anhoerungen-lavieren](https://www.spiegel.de/ausland/usa-wie-sich-tulsi-gabbard-und-kash-patel-durch-die-anhoerungen-lavieren-a-35e8733d-23e1-43a2-8e31-408a505b60ce#ref=rss)
-* [https://www.spiegel.de/sport/flugzeugunglueck-in-washington-eiskunstlauf-sport-trauert-um-todesopfer](https://www.spiegel.de/sport/flugzeugunglueck-in-washington-eiskunstlauf-sport-trauert-um-todesopfer-a-df6eb651-0221-4d13-8cdc-e693c5eb88ed#ref=rss)
-### tulsi
-
-* [https://www.spiegel.de/ausland/usa-wie-sich-tulsi-gabbard-und-kash-patel-durch-die-anhoerungen-lavieren](https://www.spiegel.de/ausland/usa-wie-sich-tulsi-gabbard-und-kash-patel-durch-die-anhoerungen-lavieren-a-35e8733d-23e1-43a2-8e31-408a505b60ce#ref=rss)
-### gabbard
-
-* [https://www.spiegel.de/ausland/usa-wie-sich-tulsi-gabbard-und-kash-patel-durch-die-anhoerungen-lavieren](https://www.spiegel.de/ausland/usa-wie-sich-tulsi-gabbard-und-kash-patel-durch-die-anhoerungen-lavieren-a-35e8733d-23e1-43a2-8e31-408a505b60ce#ref=rss)
-### kash
-
-* [https://www.spiegel.de/ausland/usa-wie-sich-tulsi-gabbard-und-kash-patel-durch-die-anhoerungen-lavieren](https://www.spiegel.de/ausland/usa-wie-sich-tulsi-gabbard-und-kash-patel-durch-die-anhoerungen-lavieren-a-35e8733d-23e1-43a2-8e31-408a505b60ce#ref=rss)
-### patel
-
-* [https://www.spiegel.de/ausland/usa-wie-sich-tulsi-gabbard-und-kash-patel-durch-die-anhoerungen-lavieren](https://www.spiegel.de/ausland/usa-wie-sich-tulsi-gabbard-und-kash-patel-durch-die-anhoerungen-lavieren-a-35e8733d-23e1-43a2-8e31-408a505b60ce#ref=rss)
-### trumps
-
-* [https://www.spiegel.de/ausland/usa-wie-sich-tulsi-gabbard-und-kash-patel-durch-die-anhoerungen-lavieren](https://www.spiegel.de/ausland/usa-wie-sich-tulsi-gabbard-und-kash-patel-durch-die-anhoerungen-lavieren-a-35e8733d-23e1-43a2-8e31-408a505b60ce#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-donald-trumps-nahost-gesandter-steve-witkoff-haelt-region-fuer-unbewohnbar](https://www.spiegel.de/ausland/gaza-donald-trumps-nahost-gesandter-steve-witkoff-haelt-region-fuer-unbewohnbar-a-268f4c4c-d2ae-4f1d-b07b-b628ef88dea4#ref=rss)
-### bessere
-
-* [https://www.spiegel.de/wirtschaft/krankenkassen-sehen-lauterbach-gesetz-skeptisch](https://www.spiegel.de/wirtschaft/krankenkassen-sehen-lauterbach-gesetz-skeptisch-a-3d130af5-29a8-4098-9f5a-ff857c171a24#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wirtschaft/krankenkassen-sehen-lauterbach-gesetz-skeptisch](https://www.spiegel.de/wirtschaft/krankenkassen-sehen-lauterbach-gesetz-skeptisch-a-3d130af5-29a8-4098-9f5a-ff857c171a24#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-donald-trumps-nahost-gesandter-steve-witkoff-haelt-region-fuer-unbewohnbar](https://www.spiegel.de/ausland/gaza-donald-trumps-nahost-gesandter-steve-witkoff-haelt-region-fuer-unbewohnbar-a-268f4c4c-d2ae-4f1d-b07b-b628ef88dea4#ref=rss)
-### daran
-
-* [https://www.spiegel.de/wirtschaft/krankenkassen-sehen-lauterbach-gesetz-skeptisch](https://www.spiegel.de/wirtschaft/krankenkassen-sehen-lauterbach-gesetz-skeptisch-a-3d130af5-29a8-4098-9f5a-ff857c171a24#ref=rss)
-* [https://www.spiegel.de/wirtschaft/apple-schwaechelt-durch-china-absatz-und-setzt-auf-ki-iphones](https://www.spiegel.de/wirtschaft/apple-schwaechelt-durch-china-absatz-und-setzt-auf-ki-iphones-a-1eb8f607-46e8-4520-b7fe-6ebaa7b000cb#ref=rss)
-### proteste
-
-* [https://www.spiegel.de/panorama/gesellschaft/cdu-proteste-gegen-friedrich-merz-nach-afd-unterstuetzung-fuer-migrationsantrag](https://www.spiegel.de/panorama/gesellschaft/cdu-proteste-gegen-friedrich-merz-nach-afd-unterstuetzung-fuer-migrationsantrag-a-b6aeaa1e-72db-4525-860c-c24712e31773#ref=rss)
-* [https://www.spiegel.de/politik/proteste-gegen-cdu-und-csu-demonstranten-fordern-brandmauer-zur-afd](https://www.spiegel.de/politik/proteste-gegen-cdu-und-csu-demonstranten-fordern-brandmauer-zur-afd-a-c909850c-92fa-47ae-8a37-fea495f2687b#ref=rss)
-### tausende
-
-* [https://www.spiegel.de/panorama/gesellschaft/cdu-proteste-gegen-friedrich-merz-nach-afd-unterstuetzung-fuer-migrationsantrag](https://www.spiegel.de/panorama/gesellschaft/cdu-proteste-gegen-friedrich-merz-nach-afd-unterstuetzung-fuer-migrationsantrag-a-b6aeaa1e-72db-4525-860c-c24712e31773#ref=rss)
-* [https://www.spiegel.de/politik/proteste-gegen-cdu-und-csu-demonstranten-fordern-brandmauer-zur-afd](https://www.spiegel.de/politik/proteste-gegen-cdu-und-csu-demonstranten-fordern-brandmauer-zur-afd-a-c909850c-92fa-47ae-8a37-fea495f2687b#ref=rss)
-### antrag
-
-* [https://www.spiegel.de/politik/deutschland/bundestag-fdp-will-abstimmung-ueber-migrationsgesetz-der-union-verschieben](https://www.spiegel.de/politik/deutschland/bundestag-fdp-will-abstimmung-ueber-migrationsgesetz-der-union-verschieben-a-49286684-0e9a-4d76-8e5c-c6226a6c33c0#ref=rss)
-### vorerst
-
-* [https://www.spiegel.de/politik/deutschland/bundestag-fdp-will-abstimmung-ueber-migrationsgesetz-der-union-verschieben](https://www.spiegel.de/politik/deutschland/bundestag-fdp-will-abstimmung-ueber-migrationsgesetz-der-union-verschieben-a-49286684-0e9a-4d76-8e5c-c6226a6c33c0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/inflation-in-deutschland-bleibt-vorerst-erhoeht](https://www.spiegel.de/wirtschaft/inflation-in-deutschland-bleibt-vorerst-erhoeht-a-5c9c5b80-5bd4-4471-8360-5434834b9310#ref=rss)
-### unterbrochen
-
-* [https://www.spiegel.de/politik/deutschland/bundestag-fdp-will-abstimmung-ueber-migrationsgesetz-der-union-verschieben](https://www.spiegel.de/politik/deutschland/bundestag-fdp-will-abstimmung-ueber-migrationsgesetz-der-union-verschieben-a-49286684-0e9a-4d76-8e5c-c6226a6c33c0#ref=rss)
-### zustrombegrenzungsgesetz
-
-* [https://www.spiegel.de/politik/deutschland/bundestag-fdp-will-abstimmung-ueber-migrationsgesetz-der-union-verschieben](https://www.spiegel.de/politik/deutschland/bundestag-fdp-will-abstimmung-ueber-migrationsgesetz-der-union-verschieben-a-49286684-0e9a-4d76-8e5c-c6226a6c33c0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-afd-zustrombegrenzungsgesetzt-keir-starmer-ahmed-al-sharaa](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-afd-zustrombegrenzungsgesetzt-keir-starmer-ahmed-al-sharaa-a-c8f270e8-e35d-4708-88ff-a0fc1af1f7e8#ref=rss)
-### groß
-
-* [https://www.spiegel.de/sport/flugzeugunglueck-in-washington-eiskunstlauf-sport-trauert-um-todesopfer](https://www.spiegel.de/sport/flugzeugunglueck-in-washington-eiskunstlauf-sport-trauert-um-todesopfer-a-df6eb651-0221-4d13-8cdc-e693c5eb88ed#ref=rss)
-* [https://www.spiegel.de/wirtschaft/brexit-der-eu-austritt-hat-die-briten-aermer-gemacht](https://www.spiegel.de/wirtschaft/brexit-der-eu-austritt-hat-die-briten-aermer-gemacht-a-1f58e7a0-4435-4c1b-af69-d2c96f5d3a57#ref=rss)
-### krise
-
-* [https://www.spiegel.de/wirtschaft/krise-im-automobilbau-continental-plant-schliessung-mehrerer-werke](https://www.spiegel.de/wirtschaft/krise-im-automobilbau-continental-plant-schliessung-mehrerer-werke-a-df8d3c89-5bcc-4099-b300-68d87f87d850#ref=rss)
-### continental
-
-* [https://www.spiegel.de/wirtschaft/krise-im-automobilbau-continental-plant-schliessung-mehrerer-werke](https://www.spiegel.de/wirtschaft/krise-im-automobilbau-continental-plant-schliessung-mehrerer-werke-a-df8d3c89-5bcc-4099-b300-68d87f87d850#ref=rss)
-### macht
-
-* [https://www.spiegel.de/wirtschaft/krise-im-automobilbau-continental-plant-schliessung-mehrerer-werke](https://www.spiegel.de/wirtschaft/krise-im-automobilbau-continental-plant-schliessung-mehrerer-werke-a-df8d3c89-5bcc-4099-b300-68d87f87d850#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wie-friedrich-merz-seine-partei-der-afd-ausgeliefert-hat](https://www.spiegel.de/politik/deutschland/wie-friedrich-merz-seine-partei-der-afd-ausgeliefert-hat-a-ee65d3f1-4f0b-4956-911d-ba2ccaf29b8d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/abstimmung-ueber-migrationsgesetz-der-union-so-haben-die-einzelnen-abgeordneten-gestimmt](https://www.spiegel.de/politik/deutschland/abstimmung-ueber-migrationsgesetz-der-union-so-haben-die-einzelnen-abgeordneten-gestimmt-a-295166bf-bdfe-4fd0-b538-2492d3cfbce8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-csu-papier-union-verteilt-argumentationshilfe-an-ihre-mitglieder](https://www.spiegel.de/politik/deutschland/cdu-csu-papier-union-verteilt-argumentationshilfe-an-ihre-mitglieder-a-e71646e8-bea7-48d7-8a2c-6c388d1fb2f5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gewalthilfegesetz-union-spd-und-gruene-beschliessen-mehr-schutz-fuer-frauen](https://www.spiegel.de/politik/deutschland/gewalthilfegesetz-union-spd-und-gruene-beschliessen-mehr-schutz-fuer-frauen-a-1d7623e8-d00d-4808-ba1b-9c4d6fb70310#ref=rss)
 ### unter
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/bka-schaltet-zwei-der-weltweit-groessten-cybercrime-foren-ab](https://www.spiegel.de/netzwelt/netzpolitik/bka-schaltet-zwei-der-weltweit-groessten-cybercrime-foren-ab-a-e26c9895-49f0-4deb-a01d-86dcdd8dacda#ref=rss)
-* [https://www.spiegel.de/wirtschaft/arbeitslosenzahl-jetzt-knapp-unter-der-drei-millionen-marke](https://www.spiegel.de/wirtschaft/arbeitslosenzahl-jetzt-knapp-unter-der-drei-millionen-marke-a-c22f6584-c781-4fbc-a8fa-cfd67cd73641#ref=rss)
-### deutsche
+* [https://www.spiegel.de/panorama/stuttgart-zwoelfjaehriger-vor-strassenbahn-gestossen-und-toedlich-verletzt](https://www.spiegel.de/panorama/stuttgart-zwoelfjaehriger-vor-strassenbahn-gestossen-und-toedlich-verletzt-a-41869c93-a64b-4dd0-b999-320fde9d7afd#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/whatsapp-warnt-vor-bisher-unbekannter-spionagesoftware](https://www.spiegel.de/netzwelt/apps/whatsapp-warnt-vor-bisher-unbekannter-spionagesoftware-a-1b9110e2-ee5f-4e98-80e2-25c4cbe712ff#ref=rss)
+* [https://www.spiegel.de/ausland/groenland-daenischer-aussenminister-lehnt-trumps-annexionsplaene-ab](https://www.spiegel.de/ausland/groenland-daenischer-aussenminister-lehnt-trumps-annexionsplaene-ab-a-e04ab153-be7e-4217-b451-3a24ab270330#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/muenchen-sechs-jahre-haft-fuer-arzt-der-frauen-bei-der-darmspiegelung-vergewaltigte](https://www.spiegel.de/panorama/justiz/muenchen-sechs-jahre-haft-fuer-arzt-der-frauen-bei-der-darmspiegelung-vergewaltigte-a-86278cab-4116-46c3-a242-e75bc125e890#ref=rss)
+### afd
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/bka-schaltet-zwei-der-weltweit-groessten-cybercrime-foren-ab](https://www.spiegel.de/netzwelt/netzpolitik/bka-schaltet-zwei-der-weltweit-groessten-cybercrime-foren-ab-a-e26c9895-49f0-4deb-a01d-86dcdd8dacda#ref=rss)
-* [https://www.spiegel.de/sport/eiskunstlauf-em-in-tallinn-deutsches-paar-minerva-hase-und-nikita-wolodin-gewinnt-gold](https://www.spiegel.de/sport/eiskunstlauf-em-in-tallinn-deutsches-paar-minerva-hase-und-nikita-wolodin-gewinnt-gold-a-3cb12217-2cae-4550-b2ae-2598843181c5#ref=rss)
-### bleibt
+* [https://www.spiegel.de/politik/deutschland/abstimmung-ueber-migrationsgesetz-der-union-so-haben-die-einzelnen-abgeordneten-gestimmt](https://www.spiegel.de/politik/deutschland/abstimmung-ueber-migrationsgesetz-der-union-so-haben-die-einzelnen-abgeordneten-gestimmt-a-295166bf-bdfe-4fd0-b538-2492d3cfbce8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-migrationsdebatte-im-bundestag-andreas-scheuer-brexit](https://www.spiegel.de/politik/deutschland/news-des-tages-migrationsdebatte-im-bundestag-andreas-scheuer-brexit-a-76bf93cd-4909-456c-9526-b61cc15d7ac1#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/cdu-und-afd-angriffe-auf-parteibueros-nach-gemeinsamer-abstimmung](https://www.spiegel.de/panorama/justiz/cdu-und-afd-angriffe-auf-parteibueros-nach-gemeinsamer-abstimmung-a-86283816-339a-4e66-9d8f-8d8d331b26b1#ref=rss)
+### mutter
 
-* [https://www.spiegel.de/wirtschaft/arbeitslosenzahl-jetzt-knapp-unter-der-drei-millionen-marke](https://www.spiegel.de/wirtschaft/arbeitslosenzahl-jetzt-knapp-unter-der-drei-millionen-marke-a-c22f6584-c781-4fbc-a8fa-cfd67cd73641#ref=rss)
-* [https://www.spiegel.de/wirtschaft/inflation-in-deutschland-bleibt-vorerst-erhoeht](https://www.spiegel.de/wirtschaft/inflation-in-deutschland-bleibt-vorerst-erhoeht-a-5c9c5b80-5bd4-4471-8360-5434834b9310#ref=rss)
-### pille
+* [https://www.spiegel.de/panorama/justiz/duesseldorf-hochzeitskorso-blockierte-a3-verfahren-gegen-alle-beteiligten-wird-eingestellt](https://www.spiegel.de/panorama/justiz/duesseldorf-hochzeitskorso-blockierte-a3-verfahren-gegen-alle-beteiligten-wird-eingestellt-a-0deb0052-1677-4098-833b-b3bf4123f630#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-pandazwillinge-leni-und-lotti-ab-jetzt-mit-mutter-meng-meng-im-berliner-zoo-zu-sehen](https://www.spiegel.de/panorama/berlin-pandazwillinge-leni-und-lotti-ab-jetzt-mit-mutter-meng-meng-im-berliner-zoo-zu-sehen-a-9f68e6a4-d688-4d5f-9bfb-692c9ba10806#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/chemnitz-lebenslange-haft-fuer-moerder-von-valeriia](https://www.spiegel.de/panorama/justiz/chemnitz-lebenslange-haft-fuer-moerder-von-valeriia-a-50b80c49-31f1-4b3e-9651-6a97425ec1e2#ref=rss)
+### frauen
 
-* [https://www.spiegel.de/politik/deutschland/pille-danach-wird-nach-vergewaltigung-kostenfrei](https://www.spiegel.de/politik/deutschland/pille-danach-wird-nach-vergewaltigung-kostenfrei-a-0fe5c6e2-0e9b-41a0-b61f-a3f15ef8d5ff#ref=rss)
-### danach
+* [https://www.spiegel.de/panorama/justiz/muenchen-sechs-jahre-haft-fuer-arzt-der-frauen-bei-der-darmspiegelung-vergewaltigte](https://www.spiegel.de/panorama/justiz/muenchen-sechs-jahre-haft-fuer-arzt-der-frauen-bei-der-darmspiegelung-vergewaltigte-a-86278cab-4116-46c3-a242-e75bc125e890#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gewalthilfegesetz-union-spd-und-gruene-beschliessen-mehr-schutz-fuer-frauen](https://www.spiegel.de/politik/deutschland/gewalthilfegesetz-union-spd-und-gruene-beschliessen-mehr-schutz-fuer-frauen-a-1d7623e8-d00d-4808-ba1b-9c4d6fb70310#ref=rss)
+### bundestag
 
-* [https://www.spiegel.de/politik/deutschland/pille-danach-wird-nach-vergewaltigung-kostenfrei](https://www.spiegel.de/politik/deutschland/pille-danach-wird-nach-vergewaltigung-kostenfrei-a-0fe5c6e2-0e9b-41a0-b61f-a3f15ef8d5ff#ref=rss)
-### vergewaltigung
+* [https://www.spiegel.de/politik/deutschland/bundestag-fdp-will-abstimmung-ueber-migrationsgesetz-der-union-verschieben](https://www.spiegel.de/politik/deutschland/bundestag-fdp-will-abstimmung-ueber-migrationsgesetz-der-union-verschieben-a-49286684-0e9a-4d76-8e5c-c6226a6c33c0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-migrationsdebatte-im-bundestag-andreas-scheuer-brexit](https://www.spiegel.de/politik/deutschland/news-des-tages-migrationsdebatte-im-bundestag-andreas-scheuer-brexit-a-76bf93cd-4909-456c-9526-b61cc15d7ac1#ref=rss)
+* [https://www.spiegel.de/kultur/stiftung-preussischer-kulturbesitz-wird-nach-jahrelangen-verhandlungen-reformiert](https://www.spiegel.de/kultur/stiftung-preussischer-kulturbesitz-wird-nach-jahrelangen-verhandlungen-reformiert-a-6a019534-2cb7-4479-96f6-db95f2ea2492#ref=rss)
+### abgeordneten
 
-* [https://www.spiegel.de/politik/deutschland/pille-danach-wird-nach-vergewaltigung-kostenfrei](https://www.spiegel.de/politik/deutschland/pille-danach-wird-nach-vergewaltigung-kostenfrei-a-0fe5c6e2-0e9b-41a0-b61f-a3f15ef8d5ff#ref=rss)
-### kostenfrei
+* [https://www.spiegel.de/politik/deutschland/bundestag-fdp-will-abstimmung-ueber-migrationsgesetz-der-union-verschieben](https://www.spiegel.de/politik/deutschland/bundestag-fdp-will-abstimmung-ueber-migrationsgesetz-der-union-verschieben-a-49286684-0e9a-4d76-8e5c-c6226a6c33c0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/abstimmung-ueber-migrationsgesetz-der-union-so-haben-die-einzelnen-abgeordneten-gestimmt](https://www.spiegel.de/politik/deutschland/abstimmung-ueber-migrationsgesetz-der-union-so-haben-die-einzelnen-abgeordneten-gestimmt-a-295166bf-bdfe-4fd0-b538-2492d3cfbce8#ref=rss)
+### fdp
 
-* [https://www.spiegel.de/politik/deutschland/pille-danach-wird-nach-vergewaltigung-kostenfrei](https://www.spiegel.de/politik/deutschland/pille-danach-wird-nach-vergewaltigung-kostenfrei-a-0fe5c6e2-0e9b-41a0-b61f-a3f15ef8d5ff#ref=rss)
-### kosten
+* [https://www.spiegel.de/politik/deutschland/bundestag-fdp-will-abstimmung-ueber-migrationsgesetz-der-union-verschieben](https://www.spiegel.de/politik/deutschland/bundestag-fdp-will-abstimmung-ueber-migrationsgesetz-der-union-verschieben-a-49286684-0e9a-4d76-8e5c-c6226a6c33c0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/abstimmung-ueber-migrationsgesetz-der-union-so-haben-die-einzelnen-abgeordneten-gestimmt](https://www.spiegel.de/politik/deutschland/abstimmung-ueber-migrationsgesetz-der-union-so-haben-die-einzelnen-abgeordneten-gestimmt-a-295166bf-bdfe-4fd0-b538-2492d3cfbce8#ref=rss)
+### merz
 
-* [https://www.spiegel.de/wirtschaft/friedrich-merz-was-seine-plaene-zu-migration-und-grenzkontrollen-kosten-koennten](https://www.spiegel.de/wirtschaft/friedrich-merz-was-seine-plaene-zu-migration-und-grenzkontrollen-kosten-koennten-a-d06e2374-fd06-4611-af74-8cd1f4f1c3d0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-deepkseek-china-fortschritt-als-weckruf-fuer-deutschland](https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-deepkseek-china-fortschritt-als-weckruf-fuer-deutschland-a-a71bbace-ac42-42e6-9832-506165234497#ref=rss)
-### deepseek
+* [https://www.spiegel.de/politik/deutschland/bundestag-fdp-will-abstimmung-ueber-migrationsgesetz-der-union-verschieben](https://www.spiegel.de/politik/deutschland/bundestag-fdp-will-abstimmung-ueber-migrationsgesetz-der-union-verschieben-a-49286684-0e9a-4d76-8e5c-c6226a6c33c0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/abstimmung-ueber-migrationsgesetz-der-union-so-haben-die-einzelnen-abgeordneten-gestimmt](https://www.spiegel.de/politik/deutschland/abstimmung-ueber-migrationsgesetz-der-union-so-haben-die-einzelnen-abgeordneten-gestimmt-a-295166bf-bdfe-4fd0-b538-2492d3cfbce8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-migrationsdebatte-im-bundestag-andreas-scheuer-brexit](https://www.spiegel.de/politik/deutschland/news-des-tages-migrationsdebatte-im-bundestag-andreas-scheuer-brexit-a-76bf93cd-4909-456c-9526-b61cc15d7ac1#ref=rss)
+### migrationsgesetz
 
-* [https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-deepkseek-china-fortschritt-als-weckruf-fuer-deutschland](https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-deepkseek-china-fortschritt-als-weckruf-fuer-deutschland-a-a71bbace-ac42-42e6-9832-506165234497#ref=rss)
-### cduchef
+* [https://www.spiegel.de/politik/deutschland/bundestag-fdp-will-abstimmung-ueber-migrationsgesetz-der-union-verschieben](https://www.spiegel.de/politik/deutschland/bundestag-fdp-will-abstimmung-ueber-migrationsgesetz-der-union-verschieben-a-49286684-0e9a-4d76-8e5c-c6226a6c33c0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/abstimmung-ueber-migrationsgesetz-der-union-so-haben-die-einzelnen-abgeordneten-gestimmt](https://www.spiegel.de/politik/deutschland/abstimmung-ueber-migrationsgesetz-der-union-so-haben-die-einzelnen-abgeordneten-gestimmt-a-295166bf-bdfe-4fd0-b538-2492d3cfbce8#ref=rss)
+### cdu
 
-* [https://www.spiegel.de/politik/deutschland/wie-friedrich-merz-seine-partei-der-afd-ausgeliefert-hat](https://www.spiegel.de/politik/deutschland/wie-friedrich-merz-seine-partei-der-afd-ausgeliefert-hat-a-ee65d3f1-4f0b-4956-911d-ba2ccaf29b8d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/katarina-barley-ueber-cdu-csu-abstimmung-mit-afd-es-ist-gefaehrlich-was-da-gerade-passiert](https://www.spiegel.de/politik/deutschland/katarina-barley-ueber-cdu-csu-abstimmung-mit-afd-es-ist-gefaehrlich-was-da-gerade-passiert-a-568e02c5-bdaf-4bd1-ba2c-51cfaaed3932#ref=rss)
-### apple
+* [https://www.spiegel.de/panorama/justiz/cdu-und-afd-angriffe-auf-parteibueros-nach-gemeinsamer-abstimmung](https://www.spiegel.de/panorama/justiz/cdu-und-afd-angriffe-auf-parteibueros-nach-gemeinsamer-abstimmung-a-86283816-339a-4e66-9d8f-8d8d331b26b1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-csu-papier-union-verteilt-argumentationshilfe-an-ihre-mitglieder](https://www.spiegel.de/politik/deutschland/cdu-csu-papier-union-verteilt-argumentationshilfe-an-ihre-mitglieder-a-e71646e8-bea7-48d7-8a2c-6c388d1fb2f5#ref=rss)
+### dänemark
 
-* [https://www.spiegel.de/wirtschaft/apple-schwaechelt-durch-china-absatz-und-setzt-auf-ki-iphones](https://www.spiegel.de/wirtschaft/apple-schwaechelt-durch-china-absatz-und-setzt-auf-ki-iphones-a-1eb8f607-46e8-4520-b7fe-6ebaa7b000cb#ref=rss)
-### nichts
+* [https://www.spiegel.de/ausland/groenland-daenischer-aussenminister-lehnt-trumps-annexionsplaene-ab](https://www.spiegel.de/ausland/groenland-daenischer-aussenminister-lehnt-trumps-annexionsplaene-ab-a-e04ab153-be7e-4217-b451-3a24ab270330#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/bornholm-daenemark-pausiert-energieinsel-plaene-in-der-ostsee](https://www.spiegel.de/wirtschaft/unternehmen/bornholm-daenemark-pausiert-energieinsel-plaene-in-der-ostsee-a-ada3416c-5e38-469b-8bd9-841d3d0993fe#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/wirtschaft/apple-schwaechelt-durch-china-absatz-und-setzt-auf-ki-iphones](https://www.spiegel.de/wirtschaft/apple-schwaechelt-durch-china-absatz-und-setzt-auf-ki-iphones-a-1eb8f607-46e8-4520-b7fe-6ebaa7b000cb#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-donald-trumps-nahost-gesandter-steve-witkoff-haelt-region-fuer-unbewohnbar](https://www.spiegel.de/ausland/gaza-donald-trumps-nahost-gesandter-steve-witkoff-haelt-region-fuer-unbewohnbar-a-268f4c4c-d2ae-4f1d-b07b-b628ef88dea4#ref=rss)
-### minerva
+* [https://www.spiegel.de/wirtschaft/unternehmen/bornholm-daenemark-pausiert-energieinsel-plaene-in-der-ostsee](https://www.spiegel.de/wirtschaft/unternehmen/bornholm-daenemark-pausiert-energieinsel-plaene-in-der-ostsee-a-ada3416c-5e38-469b-8bd9-841d3d0993fe#ref=rss)
+* [https://www.spiegel.de/kultur/tv/esc-2025-stefan-raab-elton-und-yvonne-catterfeld-in-vorentscheid-jury](https://www.spiegel.de/kultur/tv/esc-2025-stefan-raab-elton-und-yvonne-catterfeld-in-vorentscheid-jury-a-588acc50-4a73-4c9f-b400-0dfca615a305#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-uno-palaestinenserhilfswerk-setzt-arbeit-trotz-verbots-fort](https://www.spiegel.de/ausland/israel-gaza-krieg-uno-palaestinenserhilfswerk-setzt-arbeit-trotz-verbots-fort-a-812c05c8-4b30-4671-ae32-eadc012df345#ref=rss)
+### haft
 
-* [https://www.spiegel.de/sport/eiskunstlauf-em-in-tallinn-deutsches-paar-minerva-hase-und-nikita-wolodin-gewinnt-gold](https://www.spiegel.de/sport/eiskunstlauf-em-in-tallinn-deutsches-paar-minerva-hase-und-nikita-wolodin-gewinnt-gold-a-3cb12217-2cae-4550-b2ae-2598843181c5#ref=rss)
-### hase
+* [https://www.spiegel.de/panorama/justiz/muenchen-sechs-jahre-haft-fuer-arzt-der-frauen-bei-der-darmspiegelung-vergewaltigte](https://www.spiegel.de/panorama/justiz/muenchen-sechs-jahre-haft-fuer-arzt-der-frauen-bei-der-darmspiegelung-vergewaltigte-a-86278cab-4116-46c3-a242-e75bc125e890#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/muelheim-an-der-ruhr-lebenslange-haft-verhaengt-34-jahre-nach-mord-an-friseur](https://www.spiegel.de/panorama/justiz/muelheim-an-der-ruhr-lebenslange-haft-verhaengt-34-jahre-nach-mord-an-friseur-a-d97f0039-426b-4086-baa2-dd3acdd010b5#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/chemnitz-lebenslange-haft-fuer-moerder-von-valeriia](https://www.spiegel.de/panorama/justiz/chemnitz-lebenslange-haft-fuer-moerder-von-valeriia-a-50b80c49-31f1-4b3e-9651-6a97425ec1e2#ref=rss)
+### arzt
 
-* [https://www.spiegel.de/sport/eiskunstlauf-em-in-tallinn-deutsches-paar-minerva-hase-und-nikita-wolodin-gewinnt-gold](https://www.spiegel.de/sport/eiskunstlauf-em-in-tallinn-deutsches-paar-minerva-hase-und-nikita-wolodin-gewinnt-gold-a-3cb12217-2cae-4550-b2ae-2598843181c5#ref=rss)
-### nikita
+* [https://www.spiegel.de/panorama/justiz/muenchen-sechs-jahre-haft-fuer-arzt-der-frauen-bei-der-darmspiegelung-vergewaltigte](https://www.spiegel.de/panorama/justiz/muenchen-sechs-jahre-haft-fuer-arzt-der-frauen-bei-der-darmspiegelung-vergewaltigte-a-86278cab-4116-46c3-a242-e75bc125e890#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/osnabrueck-frau-stirbt-nach-narkose-bei-zahnbehandlung-bewaehrungsstrafe-fuer-arzt](https://www.spiegel.de/panorama/justiz/osnabrueck-frau-stirbt-nach-narkose-bei-zahnbehandlung-bewaehrungsstrafe-fuer-arzt-a-05e97859-14de-475a-8cfd-1e1a2a8dc2f4#ref=rss)
+### verurteilt
 
-* [https://www.spiegel.de/sport/eiskunstlauf-em-in-tallinn-deutsches-paar-minerva-hase-und-nikita-wolodin-gewinnt-gold](https://www.spiegel.de/sport/eiskunstlauf-em-in-tallinn-deutsches-paar-minerva-hase-und-nikita-wolodin-gewinnt-gold-a-3cb12217-2cae-4550-b2ae-2598843181c5#ref=rss)
-### wolodin
+* [https://www.spiegel.de/panorama/justiz/muenchen-sechs-jahre-haft-fuer-arzt-der-frauen-bei-der-darmspiegelung-vergewaltigte](https://www.spiegel.de/panorama/justiz/muenchen-sechs-jahre-haft-fuer-arzt-der-frauen-bei-der-darmspiegelung-vergewaltigte-a-86278cab-4116-46c3-a242-e75bc125e890#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/osnabrueck-frau-stirbt-nach-narkose-bei-zahnbehandlung-bewaehrungsstrafe-fuer-arzt](https://www.spiegel.de/panorama/justiz/osnabrueck-frau-stirbt-nach-narkose-bei-zahnbehandlung-bewaehrungsstrafe-fuer-arzt-a-05e97859-14de-475a-8cfd-1e1a2a8dc2f4#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/chemnitz-lebenslange-haft-fuer-moerder-von-valeriia](https://www.spiegel.de/panorama/justiz/chemnitz-lebenslange-haft-fuer-moerder-von-valeriia-a-50b80c49-31f1-4b3e-9651-6a97425ec1e2#ref=rss)
+### israel
 
-* [https://www.spiegel.de/sport/eiskunstlauf-em-in-tallinn-deutsches-paar-minerva-hase-und-nikita-wolodin-gewinnt-gold](https://www.spiegel.de/sport/eiskunstlauf-em-in-tallinn-deutsches-paar-minerva-hase-und-nikita-wolodin-gewinnt-gold-a-3cb12217-2cae-4550-b2ae-2598843181c5#ref=rss)
-### verletzt
+* [https://www.spiegel.de/ausland/unrwa-palaestinenser-hilfe-in-gaza-durch-israels-verbot-vor-dem-aus-trotz-grosser-not](https://www.spiegel.de/ausland/unrwa-palaestinenser-hilfe-in-gaza-durch-israels-verbot-vor-dem-aus-trotz-grosser-not-a-69e06edd-98a2-4a4a-b796-ed6cdc245efa#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-uno-palaestinenserhilfswerk-setzt-arbeit-trotz-verbots-fort](https://www.spiegel.de/ausland/israel-gaza-krieg-uno-palaestinenserhilfswerk-setzt-arbeit-trotz-verbots-fort-a-812c05c8-4b30-4671-ae32-eadc012df345#ref=rss)
+### unterstützt
 
-* [https://www.spiegel.de/panorama/justiz/berlin-zwei-menschen-am-holocaust-mahnmal-verletzt-kraenze-zerstoert](https://www.spiegel.de/panorama/justiz/berlin-zwei-menschen-am-holocaust-mahnmal-verletzt-kraenze-zerstoert-a-cfa11f3e-0463-4562-84e7-0b233f8853a0#ref=rss)
-### kränze
+* [https://www.spiegel.de/politik/deutschland/bundestag-fdp-will-abstimmung-ueber-migrationsgesetz-der-union-verschieben](https://www.spiegel.de/politik/deutschland/bundestag-fdp-will-abstimmung-ueber-migrationsgesetz-der-union-verschieben-a-49286684-0e9a-4d76-8e5c-c6226a6c33c0#ref=rss)
+### mitglieder
 
-* [https://www.spiegel.de/panorama/justiz/berlin-zwei-menschen-am-holocaust-mahnmal-verletzt-kraenze-zerstoert](https://www.spiegel.de/panorama/justiz/berlin-zwei-menschen-am-holocaust-mahnmal-verletzt-kraenze-zerstoert-a-cfa11f3e-0463-4562-84e7-0b233f8853a0#ref=rss)
-### zerstört
+* [https://www.spiegel.de/politik/deutschland/bundestag-fdp-will-abstimmung-ueber-migrationsgesetz-der-union-verschieben](https://www.spiegel.de/politik/deutschland/bundestag-fdp-will-abstimmung-ueber-migrationsgesetz-der-union-verschieben-a-49286684-0e9a-4d76-8e5c-c6226a6c33c0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-csu-papier-union-verteilt-argumentationshilfe-an-ihre-mitglieder](https://www.spiegel.de/politik/deutschland/cdu-csu-papier-union-verteilt-argumentationshilfe-an-ihre-mitglieder-a-e71646e8-bea7-48d7-8a2c-6c388d1fb2f5#ref=rss)
+### gestoßen
 
-* [https://www.spiegel.de/panorama/justiz/berlin-zwei-menschen-am-holocaust-mahnmal-verletzt-kraenze-zerstoert](https://www.spiegel.de/panorama/justiz/berlin-zwei-menschen-am-holocaust-mahnmal-verletzt-kraenze-zerstoert-a-cfa11f3e-0463-4562-84e7-0b233f8853a0#ref=rss)
-### inflation
+* [https://www.spiegel.de/panorama/stuttgart-zwoelfjaehriger-vor-strassenbahn-gestossen-und-toedlich-verletzt](https://www.spiegel.de/panorama/stuttgart-zwoelfjaehriger-vor-strassenbahn-gestossen-und-toedlich-verletzt-a-41869c93-a64b-4dd0-b999-320fde9d7afd#ref=rss)
+### streit
 
-* [https://www.spiegel.de/wirtschaft/inflation-in-deutschland-bleibt-vorerst-erhoeht](https://www.spiegel.de/wirtschaft/inflation-in-deutschland-bleibt-vorerst-erhoeht-a-5c9c5b80-5bd4-4471-8360-5434834b9310#ref=rss)
-### michel
+* [https://www.spiegel.de/panorama/stuttgart-zwoelfjaehriger-vor-strassenbahn-gestossen-und-toedlich-verletzt](https://www.spiegel.de/panorama/stuttgart-zwoelfjaehriger-vor-strassenbahn-gestossen-und-toedlich-verletzt-a-41869c93-a64b-4dd0-b999-320fde9d7afd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/bornholm-daenemark-pausiert-energieinsel-plaene-in-der-ostsee](https://www.spiegel.de/wirtschaft/unternehmen/bornholm-daenemark-pausiert-energieinsel-plaene-in-der-ostsee-a-ada3416c-5e38-469b-8bd9-841d3d0993fe#ref=rss)
+### abstimmung
 
-* [https://www.spiegel.de/politik/deutschland/michel-friedman-ueber-parteiaustritt-nach-afd-votum-die-cdu-ist-in-ihre-eigene-falle-gestolpert](https://www.spiegel.de/politik/deutschland/michel-friedman-ueber-parteiaustritt-nach-afd-votum-die-cdu-ist-in-ihre-eigene-falle-gestolpert-a-a314dce1-b7e9-4105-9897-5120c9792e26#ref=rss)
-### friedman
+* [https://www.spiegel.de/politik/deutschland/abstimmung-ueber-migrationsgesetz-der-union-so-haben-die-einzelnen-abgeordneten-gestimmt](https://www.spiegel.de/politik/deutschland/abstimmung-ueber-migrationsgesetz-der-union-so-haben-die-einzelnen-abgeordneten-gestimmt-a-295166bf-bdfe-4fd0-b538-2492d3cfbce8#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/cdu-und-afd-angriffe-auf-parteibueros-nach-gemeinsamer-abstimmung](https://www.spiegel.de/panorama/justiz/cdu-und-afd-angriffe-auf-parteibueros-nach-gemeinsamer-abstimmung-a-86283816-339a-4e66-9d8f-8d8d331b26b1#ref=rss)
+### friedrich
 
-* [https://www.spiegel.de/politik/deutschland/michel-friedman-ueber-parteiaustritt-nach-afd-votum-die-cdu-ist-in-ihre-eigene-falle-gestolpert](https://www.spiegel.de/politik/deutschland/michel-friedman-ueber-parteiaustritt-nach-afd-votum-die-cdu-ist-in-ihre-eigene-falle-gestolpert-a-a314dce1-b7e9-4105-9897-5120c9792e26#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/abstimmung-ueber-migrationsgesetz-der-union-so-haben-die-einzelnen-abgeordneten-gestimmt](https://www.spiegel.de/politik/deutschland/abstimmung-ueber-migrationsgesetz-der-union-so-haben-die-einzelnen-abgeordneten-gestimmt-a-295166bf-bdfe-4fd0-b538-2492d3cfbce8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-migrationsdebatte-im-bundestag-andreas-scheuer-brexit](https://www.spiegel.de/politik/deutschland/news-des-tages-migrationsdebatte-im-bundestag-andreas-scheuer-brexit-a-76bf93cd-4909-456c-9526-b61cc15d7ac1#ref=rss)
+### scheitert
+
+* [https://www.spiegel.de/politik/deutschland/abstimmung-ueber-migrationsgesetz-der-union-so-haben-die-einzelnen-abgeordneten-gestimmt](https://www.spiegel.de/politik/deutschland/abstimmung-ueber-migrationsgesetz-der-union-so-haben-die-einzelnen-abgeordneten-gestimmt-a-295166bf-bdfe-4fd0-b538-2492d3cfbce8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-migrationsdebatte-im-bundestag-andreas-scheuer-brexit](https://www.spiegel.de/politik/deutschland/news-des-tages-migrationsdebatte-im-bundestag-andreas-scheuer-brexit-a-76bf93cd-4909-456c-9526-b61cc15d7ac1#ref=rss)
+### sehen
+
+* [https://www.spiegel.de/politik/deutschland/abstimmung-ueber-migrationsgesetz-der-union-so-haben-die-einzelnen-abgeordneten-gestimmt](https://www.spiegel.de/politik/deutschland/abstimmung-ueber-migrationsgesetz-der-union-so-haben-die-einzelnen-abgeordneten-gestimmt-a-295166bf-bdfe-4fd0-b538-2492d3cfbce8#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-pandazwillinge-leni-und-lotti-ab-jetzt-mit-mutter-meng-meng-im-berliner-zoo-zu-sehen](https://www.spiegel.de/panorama/berlin-pandazwillinge-leni-und-lotti-ab-jetzt-mit-mutter-meng-meng-im-berliner-zoo-zu-sehen-a-9f68e6a4-d688-4d5f-9bfb-692c9ba10806#ref=rss)
+### israelgazakrieg
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-weitere-drei-geiseln-in-gaza-sollen-samstag-freikommen](https://www.spiegel.de/ausland/israel-gaza-krieg-weitere-drei-geiseln-in-gaza-sollen-samstag-freikommen-a-6e0d43d8-b853-455d-99fa-19f3491c0b81#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-uno-palaestinenserhilfswerk-setzt-arbeit-trotz-verbots-fort](https://www.spiegel.de/ausland/israel-gaza-krieg-uno-palaestinenserhilfswerk-setzt-arbeit-trotz-verbots-fort-a-812c05c8-4b30-4671-ae32-eadc012df345#ref=rss)
+### geiseln
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-weitere-drei-geiseln-in-gaza-sollen-samstag-freikommen](https://www.spiegel.de/ausland/israel-gaza-krieg-weitere-drei-geiseln-in-gaza-sollen-samstag-freikommen-a-6e0d43d8-b853-455d-99fa-19f3491c0b81#ref=rss)
+### gaza
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-weitere-drei-geiseln-in-gaza-sollen-samstag-freikommen](https://www.spiegel.de/ausland/israel-gaza-krieg-weitere-drei-geiseln-in-gaza-sollen-samstag-freikommen-a-6e0d43d8-b853-455d-99fa-19f3491c0b81#ref=rss)
+* [https://www.spiegel.de/ausland/unrwa-palaestinenser-hilfe-in-gaza-durch-israels-verbot-vor-dem-aus-trotz-grosser-not](https://www.spiegel.de/ausland/unrwa-palaestinenser-hilfe-in-gaza-durch-israels-verbot-vor-dem-aus-trotz-grosser-not-a-69e06edd-98a2-4a4a-b796-ed6cdc245efa#ref=rss)
+### scheuer
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-migrationsdebatte-im-bundestag-andreas-scheuer-brexit](https://www.spiegel.de/politik/deutschland/news-des-tages-migrationsdebatte-im-bundestag-andreas-scheuer-brexit-a-76bf93cd-4909-456c-9526-b61cc15d7ac1#ref=rss)
 ### brexit
 
-* [https://www.spiegel.de/wirtschaft/brexit-der-eu-austritt-hat-die-briten-aermer-gemacht](https://www.spiegel.de/wirtschaft/brexit-der-eu-austritt-hat-die-briten-aermer-gemacht-a-1f58e7a0-4435-4c1b-af69-d2c96f5d3a57#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-afd-zustrombegrenzungsgesetzt-keir-starmer-ahmed-al-sharaa](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-afd-zustrombegrenzungsgesetzt-keir-starmer-ahmed-al-sharaa-a-c8f270e8-e35d-4708-88ff-a0fc1af1f7e8#ref=rss)
-### euaustritt
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-migrationsdebatte-im-bundestag-andreas-scheuer-brexit](https://www.spiegel.de/politik/deutschland/news-des-tages-migrationsdebatte-im-bundestag-andreas-scheuer-brexit-a-76bf93cd-4909-456c-9526-b61cc15d7ac1#ref=rss)
+### gesetz
 
-* [https://www.spiegel.de/wirtschaft/brexit-der-eu-austritt-hat-die-briten-aermer-gemacht](https://www.spiegel.de/wirtschaft/brexit-der-eu-austritt-hat-die-briten-aermer-gemacht-a-1f58e7a0-4435-4c1b-af69-d2c96f5d3a57#ref=rss)
-### briten
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-migrationsdebatte-im-bundestag-andreas-scheuer-brexit](https://www.spiegel.de/politik/deutschland/news-des-tages-migrationsdebatte-im-bundestag-andreas-scheuer-brexit-a-76bf93cd-4909-456c-9526-b61cc15d7ac1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gewalthilfegesetz-union-spd-und-gruene-beschliessen-mehr-schutz-fuer-frauen](https://www.spiegel.de/politik/deutschland/gewalthilfegesetz-union-spd-und-gruene-beschliessen-mehr-schutz-fuer-frauen-a-1d7623e8-d00d-4808-ba1b-9c4d6fb70310#ref=rss)
+### a3
 
-* [https://www.spiegel.de/wirtschaft/brexit-der-eu-austritt-hat-die-briten-aermer-gemacht](https://www.spiegel.de/wirtschaft/brexit-der-eu-austritt-hat-die-briten-aermer-gemacht-a-1f58e7a0-4435-4c1b-af69-d2c96f5d3a57#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-afd-zustrombegrenzungsgesetzt-keir-starmer-ahmed-al-sharaa](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-afd-zustrombegrenzungsgesetzt-keir-starmer-ahmed-al-sharaa-a-c8f270e8-e35d-4708-88ff-a0fc1af1f7e8#ref=rss)
-### steve
+* [https://www.spiegel.de/panorama/justiz/duesseldorf-hochzeitskorso-blockierte-a3-verfahren-gegen-alle-beteiligten-wird-eingestellt](https://www.spiegel.de/panorama/justiz/duesseldorf-hochzeitskorso-blockierte-a3-verfahren-gegen-alle-beteiligten-wird-eingestellt-a-0deb0052-1677-4098-833b-b3bf4123f630#ref=rss)
+### alle
 
-* [https://www.spiegel.de/ausland/gaza-donald-trumps-nahost-gesandter-steve-witkoff-haelt-region-fuer-unbewohnbar](https://www.spiegel.de/ausland/gaza-donald-trumps-nahost-gesandter-steve-witkoff-haelt-region-fuer-unbewohnbar-a-268f4c4c-d2ae-4f1d-b07b-b628ef88dea4#ref=rss)
-### witkoff
+* [https://www.spiegel.de/panorama/justiz/duesseldorf-hochzeitskorso-blockierte-a3-verfahren-gegen-alle-beteiligten-wird-eingestellt](https://www.spiegel.de/panorama/justiz/duesseldorf-hochzeitskorso-blockierte-a3-verfahren-gegen-alle-beteiligten-wird-eingestellt-a-0deb0052-1677-4098-833b-b3bf4123f630#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/bornholm-daenemark-pausiert-energieinsel-plaene-in-der-ostsee](https://www.spiegel.de/wirtschaft/unternehmen/bornholm-daenemark-pausiert-energieinsel-plaene-in-der-ostsee-a-ada3416c-5e38-469b-8bd9-841d3d0993fe#ref=rss)
+### gilt
 
-* [https://www.spiegel.de/ausland/gaza-donald-trumps-nahost-gesandter-steve-witkoff-haelt-region-fuer-unbewohnbar](https://www.spiegel.de/ausland/gaza-donald-trumps-nahost-gesandter-steve-witkoff-haelt-region-fuer-unbewohnbar-a-268f4c4c-d2ae-4f1d-b07b-b628ef88dea4#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/duesseldorf-hochzeitskorso-blockierte-a3-verfahren-gegen-alle-beteiligten-wird-eingestellt](https://www.spiegel.de/panorama/justiz/duesseldorf-hochzeitskorso-blockierte-a3-verfahren-gegen-alle-beteiligten-wird-eingestellt-a-0deb0052-1677-4098-833b-b3bf4123f630#ref=rss)
+* [https://www.spiegel.de/ausland/tuerkei-istanbuls-buergermeister-ekrem-imamoglu-wirft-justiz-schikane-vor](https://www.spiegel.de/ausland/tuerkei-istanbuls-buergermeister-ekrem-imamoglu-wirft-justiz-schikane-vor-a-f84f039f-2be5-49c0-8f8c-8b5809a0b797#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/panorama/justiz/duesseldorf-hochzeitskorso-blockierte-a3-verfahren-gegen-alle-beteiligten-wird-eingestellt](https://www.spiegel.de/panorama/justiz/duesseldorf-hochzeitskorso-blockierte-a3-verfahren-gegen-alle-beteiligten-wird-eingestellt-a-0deb0052-1677-4098-833b-b3bf4123f630#ref=rss)
+* [https://www.spiegel.de/ausland/tuerkei-istanbuls-buergermeister-ekrem-imamoglu-wirft-justiz-schikane-vor](https://www.spiegel.de/ausland/tuerkei-istanbuls-buergermeister-ekrem-imamoglu-wirft-justiz-schikane-vor-a-f84f039f-2be5-49c0-8f8c-8b5809a0b797#ref=rss)
+### whatsapp
+
+* [https://www.spiegel.de/netzwelt/apps/whatsapp-warnt-vor-bisher-unbekannter-spionagesoftware](https://www.spiegel.de/netzwelt/apps/whatsapp-warnt-vor-bisher-unbekannter-spionagesoftware-a-1b9110e2-ee5f-4e98-80e2-25c4cbe712ff#ref=rss)
+### the
+
+* [https://www.spiegel.de/kultur/musik/the-weeknd-hurry-up-tomorrow-das-phantom-der-pop-oper-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/the-weeknd-hurry-up-tomorrow-das-phantom-der-pop-oper-abgehoert-album-der-woche-a-5de61a9f-f0c9-4698-a885-c392886e2573#ref=rss)
+### weeknd
+
+* [https://www.spiegel.de/kultur/musik/the-weeknd-hurry-up-tomorrow-das-phantom-der-pop-oper-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/the-weeknd-hurry-up-tomorrow-das-phantom-der-pop-oper-abgehoert-album-der-woche-a-5de61a9f-f0c9-4698-a885-c392886e2573#ref=rss)
+### hurry
+
+* [https://www.spiegel.de/kultur/musik/the-weeknd-hurry-up-tomorrow-das-phantom-der-pop-oper-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/the-weeknd-hurry-up-tomorrow-das-phantom-der-pop-oper-abgehoert-album-der-woche-a-5de61a9f-f0c9-4698-a885-c392886e2573#ref=rss)
+### up
+
+* [https://www.spiegel.de/kultur/musik/the-weeknd-hurry-up-tomorrow-das-phantom-der-pop-oper-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/the-weeknd-hurry-up-tomorrow-das-phantom-der-pop-oper-abgehoert-album-der-woche-a-5de61a9f-f0c9-4698-a885-c392886e2573#ref=rss)
+### tomorrow
+
+* [https://www.spiegel.de/kultur/musik/the-weeknd-hurry-up-tomorrow-das-phantom-der-pop-oper-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/the-weeknd-hurry-up-tomorrow-das-phantom-der-pop-oper-abgehoert-album-der-woche-a-5de61a9f-f0c9-4698-a885-c392886e2573#ref=rss)
+### woche
+
+* [https://www.spiegel.de/kultur/musik/the-weeknd-hurry-up-tomorrow-das-phantom-der-pop-oper-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/the-weeknd-hurry-up-tomorrow-das-phantom-der-pop-oper-abgehoert-album-der-woche-a-5de61a9f-f0c9-4698-a885-c392886e2573#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/chemnitz-lebenslange-haft-fuer-moerder-von-valeriia](https://www.spiegel.de/panorama/justiz/chemnitz-lebenslange-haft-fuer-moerder-von-valeriia-a-50b80c49-31f1-4b3e-9651-6a97425ec1e2#ref=rss)
+### grönland
+
+* [https://www.spiegel.de/ausland/groenland-daenischer-aussenminister-lehnt-trumps-annexionsplaene-ab](https://www.spiegel.de/ausland/groenland-daenischer-aussenminister-lehnt-trumps-annexionsplaene-ab-a-e04ab153-be7e-4217-b451-3a24ab270330#ref=rss)
+### rasmussen
+
+* [https://www.spiegel.de/ausland/groenland-daenischer-aussenminister-lehnt-trumps-annexionsplaene-ab](https://www.spiegel.de/ausland/groenland-daenischer-aussenminister-lehnt-trumps-annexionsplaene-ab-a-e04ab153-be7e-4217-b451-3a24ab270330#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/groenland-daenischer-aussenminister-lehnt-trumps-annexionsplaene-ab](https://www.spiegel.de/ausland/groenland-daenischer-aussenminister-lehnt-trumps-annexionsplaene-ab-a-e04ab153-be7e-4217-b451-3a24ab270330#ref=rss)
+### bundesregierung
+
+* [https://www.spiegel.de/panorama/rechtsextremismus-bundesregierung-mischt-sich-in-fall-liebich-ein](https://www.spiegel.de/panorama/rechtsextremismus-bundesregierung-mischt-sich-in-fall-liebich-ein-a-de5c8142-d56d-43af-918b-caf6a313c915#ref=rss)
+### mischt
+
+* [https://www.spiegel.de/panorama/rechtsextremismus-bundesregierung-mischt-sich-in-fall-liebich-ein](https://www.spiegel.de/panorama/rechtsextremismus-bundesregierung-mischt-sich-in-fall-liebich-ein-a-de5c8142-d56d-43af-918b-caf6a313c915#ref=rss)
+### fall
+
+* [https://www.spiegel.de/panorama/rechtsextremismus-bundesregierung-mischt-sich-in-fall-liebich-ein](https://www.spiegel.de/panorama/rechtsextremismus-bundesregierung-mischt-sich-in-fall-liebich-ein-a-de5c8142-d56d-43af-918b-caf6a313c915#ref=rss)
+### liebich
+
+* [https://www.spiegel.de/panorama/rechtsextremismus-bundesregierung-mischt-sich-in-fall-liebich-ein](https://www.spiegel.de/panorama/rechtsextremismus-bundesregierung-mischt-sich-in-fall-liebich-ein-a-de5c8142-d56d-43af-918b-caf6a313c915#ref=rss)
+### leni
+
+* [https://www.spiegel.de/panorama/berlin-pandazwillinge-leni-und-lotti-ab-jetzt-mit-mutter-meng-meng-im-berliner-zoo-zu-sehen](https://www.spiegel.de/panorama/berlin-pandazwillinge-leni-und-lotti-ab-jetzt-mit-mutter-meng-meng-im-berliner-zoo-zu-sehen-a-9f68e6a4-d688-4d5f-9bfb-692c9ba10806#ref=rss)
+### lotti
+
+* [https://www.spiegel.de/panorama/berlin-pandazwillinge-leni-und-lotti-ab-jetzt-mit-mutter-meng-meng-im-berliner-zoo-zu-sehen](https://www.spiegel.de/panorama/berlin-pandazwillinge-leni-und-lotti-ab-jetzt-mit-mutter-meng-meng-im-berliner-zoo-zu-sehen-a-9f68e6a4-d688-4d5f-9bfb-692c9ba10806#ref=rss)
+### meng
+
+* [https://www.spiegel.de/panorama/berlin-pandazwillinge-leni-und-lotti-ab-jetzt-mit-mutter-meng-meng-im-berliner-zoo-zu-sehen](https://www.spiegel.de/panorama/berlin-pandazwillinge-leni-und-lotti-ab-jetzt-mit-mutter-meng-meng-im-berliner-zoo-zu-sehen-a-9f68e6a4-d688-4d5f-9bfb-692c9ba10806#ref=rss)
+### berliner
+
+* [https://www.spiegel.de/panorama/berlin-pandazwillinge-leni-und-lotti-ab-jetzt-mit-mutter-meng-meng-im-berliner-zoo-zu-sehen](https://www.spiegel.de/panorama/berlin-pandazwillinge-leni-und-lotti-ab-jetzt-mit-mutter-meng-meng-im-berliner-zoo-zu-sehen-a-9f68e6a4-d688-4d5f-9bfb-692c9ba10806#ref=rss)
+### zoo
+
+* [https://www.spiegel.de/panorama/berlin-pandazwillinge-leni-und-lotti-ab-jetzt-mit-mutter-meng-meng-im-berliner-zoo-zu-sehen](https://www.spiegel.de/panorama/berlin-pandazwillinge-leni-und-lotti-ab-jetzt-mit-mutter-meng-meng-im-berliner-zoo-zu-sehen-a-9f68e6a4-d688-4d5f-9bfb-692c9ba10806#ref=rss)
+### erst
+
+* [https://www.spiegel.de/panorama/berlin-pandazwillinge-leni-und-lotti-ab-jetzt-mit-mutter-meng-meng-im-berliner-zoo-zu-sehen](https://www.spiegel.de/panorama/berlin-pandazwillinge-leni-und-lotti-ab-jetzt-mit-mutter-meng-meng-im-berliner-zoo-zu-sehen-a-9f68e6a4-d688-4d5f-9bfb-692c9ba10806#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/muelheim-an-der-ruhr-lebenslange-haft-verhaengt-34-jahre-nach-mord-an-friseur](https://www.spiegel.de/panorama/justiz/muelheim-an-der-ruhr-lebenslange-haft-verhaengt-34-jahre-nach-mord-an-friseur-a-d97f0039-426b-4086-baa2-dd3acdd010b5#ref=rss)
+### besonders
+
+* [https://www.spiegel.de/panorama/berlin-pandazwillinge-leni-und-lotti-ab-jetzt-mit-mutter-meng-meng-im-berliner-zoo-zu-sehen](https://www.spiegel.de/panorama/berlin-pandazwillinge-leni-und-lotti-ab-jetzt-mit-mutter-meng-meng-im-berliner-zoo-zu-sehen-a-9f68e6a4-d688-4d5f-9bfb-692c9ba10806#ref=rss)
+* [https://www.spiegel.de/ausland/unrwa-palaestinenser-hilfe-in-gaza-durch-israels-verbot-vor-dem-aus-trotz-grosser-not](https://www.spiegel.de/ausland/unrwa-palaestinenser-hilfe-in-gaza-durch-israels-verbot-vor-dem-aus-trotz-grosser-not-a-69e06edd-98a2-4a4a-b796-ed6cdc245efa#ref=rss)
+### gut
+
+* [https://www.spiegel.de/panorama/berlin-pandazwillinge-leni-und-lotti-ab-jetzt-mit-mutter-meng-meng-im-berliner-zoo-zu-sehen](https://www.spiegel.de/panorama/berlin-pandazwillinge-leni-und-lotti-ab-jetzt-mit-mutter-meng-meng-im-berliner-zoo-zu-sehen-a-9f68e6a4-d688-4d5f-9bfb-692c9ba10806#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/chemnitz-lebenslange-haft-fuer-moerder-von-valeriia](https://www.spiegel.de/panorama/justiz/chemnitz-lebenslange-haft-fuer-moerder-von-valeriia-a-50b80c49-31f1-4b3e-9651-6a97425ec1e2#ref=rss)
+### bornholm
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bornholm-daenemark-pausiert-energieinsel-plaene-in-der-ostsee](https://www.spiegel.de/wirtschaft/unternehmen/bornholm-daenemark-pausiert-energieinsel-plaene-in-der-ostsee-a-ada3416c-5e38-469b-8bd9-841d3d0993fe#ref=rss)
+### dennoch
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bornholm-daenemark-pausiert-energieinsel-plaene-in-der-ostsee](https://www.spiegel.de/wirtschaft/unternehmen/bornholm-daenemark-pausiert-energieinsel-plaene-in-der-ostsee-a-ada3416c-5e38-469b-8bd9-841d3d0993fe#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-uno-palaestinenserhilfswerk-setzt-arbeit-trotz-verbots-fort](https://www.spiegel.de/ausland/israel-gaza-krieg-uno-palaestinenserhilfswerk-setzt-arbeit-trotz-verbots-fort-a-812c05c8-4b30-4671-ae32-eadc012df345#ref=rss)
+### neue
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bornholm-daenemark-pausiert-energieinsel-plaene-in-der-ostsee](https://www.spiegel.de/wirtschaft/unternehmen/bornholm-daenemark-pausiert-energieinsel-plaene-in-der-ostsee-a-ada3416c-5e38-469b-8bd9-841d3d0993fe#ref=rss)
+* [https://www.spiegel.de/kultur/stiftung-preussischer-kulturbesitz-wird-nach-jahrelangen-verhandlungen-reformiert](https://www.spiegel.de/kultur/stiftung-preussischer-kulturbesitz-wird-nach-jahrelangen-verhandlungen-reformiert-a-6a019534-2cb7-4479-96f6-db95f2ea2492#ref=rss)
+### ekrem
+
+* [https://www.spiegel.de/ausland/tuerkei-istanbuls-buergermeister-ekrem-imamoglu-wirft-justiz-schikane-vor](https://www.spiegel.de/ausland/tuerkei-istanbuls-buergermeister-ekrem-imamoglu-wirft-justiz-schikane-vor-a-f84f039f-2be5-49c0-8f8c-8b5809a0b797#ref=rss)
+### imamoğlu
+
+* [https://www.spiegel.de/ausland/tuerkei-istanbuls-buergermeister-ekrem-imamoglu-wirft-justiz-schikane-vor](https://www.spiegel.de/ausland/tuerkei-istanbuls-buergermeister-ekrem-imamoglu-wirft-justiz-schikane-vor-a-f84f039f-2be5-49c0-8f8c-8b5809a0b797#ref=rss)
+### wirft
+
+* [https://www.spiegel.de/ausland/tuerkei-istanbuls-buergermeister-ekrem-imamoglu-wirft-justiz-schikane-vor](https://www.spiegel.de/ausland/tuerkei-istanbuls-buergermeister-ekrem-imamoglu-wirft-justiz-schikane-vor-a-f84f039f-2be5-49c0-8f8c-8b5809a0b797#ref=rss)
+* [https://www.spiegel.de/ausland/unrwa-palaestinenser-hilfe-in-gaza-durch-israels-verbot-vor-dem-aus-trotz-grosser-not](https://www.spiegel.de/ausland/unrwa-palaestinenser-hilfe-in-gaza-durch-israels-verbot-vor-dem-aus-trotz-grosser-not-a-69e06edd-98a2-4a4a-b796-ed6cdc245efa#ref=rss)
+### justiz
+
+* [https://www.spiegel.de/ausland/tuerkei-istanbuls-buergermeister-ekrem-imamoglu-wirft-justiz-schikane-vor](https://www.spiegel.de/ausland/tuerkei-istanbuls-buergermeister-ekrem-imamoglu-wirft-justiz-schikane-vor-a-f84f039f-2be5-49c0-8f8c-8b5809a0b797#ref=rss)
+### schikane
+
+* [https://www.spiegel.de/ausland/tuerkei-istanbuls-buergermeister-ekrem-imamoglu-wirft-justiz-schikane-vor](https://www.spiegel.de/ausland/tuerkei-istanbuls-buergermeister-ekrem-imamoglu-wirft-justiz-schikane-vor-a-f84f039f-2be5-49c0-8f8c-8b5809a0b797#ref=rss)
+### stefan
+
+* [https://www.spiegel.de/kultur/tv/esc-2025-stefan-raab-elton-und-yvonne-catterfeld-in-vorentscheid-jury](https://www.spiegel.de/kultur/tv/esc-2025-stefan-raab-elton-und-yvonne-catterfeld-in-vorentscheid-jury-a-588acc50-4a73-4c9f-b400-0dfca615a305#ref=rss)
+### raab
+
+* [https://www.spiegel.de/kultur/tv/esc-2025-stefan-raab-elton-und-yvonne-catterfeld-in-vorentscheid-jury](https://www.spiegel.de/kultur/tv/esc-2025-stefan-raab-elton-und-yvonne-catterfeld-in-vorentscheid-jury-a-588acc50-4a73-4c9f-b400-0dfca615a305#ref=rss)
+### elton
+
+* [https://www.spiegel.de/kultur/tv/esc-2025-stefan-raab-elton-und-yvonne-catterfeld-in-vorentscheid-jury](https://www.spiegel.de/kultur/tv/esc-2025-stefan-raab-elton-und-yvonne-catterfeld-in-vorentscheid-jury-a-588acc50-4a73-4c9f-b400-0dfca615a305#ref=rss)
+### yvonne
+
+* [https://www.spiegel.de/kultur/tv/esc-2025-stefan-raab-elton-und-yvonne-catterfeld-in-vorentscheid-jury](https://www.spiegel.de/kultur/tv/esc-2025-stefan-raab-elton-und-yvonne-catterfeld-in-vorentscheid-jury-a-588acc50-4a73-4c9f-b400-0dfca615a305#ref=rss)
+### catterfeld
+
+* [https://www.spiegel.de/kultur/tv/esc-2025-stefan-raab-elton-und-yvonne-catterfeld-in-vorentscheid-jury](https://www.spiegel.de/kultur/tv/esc-2025-stefan-raab-elton-und-yvonne-catterfeld-in-vorentscheid-jury-a-588acc50-4a73-4c9f-b400-0dfca615a305#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/kultur/tv/esc-2025-stefan-raab-elton-und-yvonne-catterfeld-in-vorentscheid-jury](https://www.spiegel.de/kultur/tv/esc-2025-stefan-raab-elton-und-yvonne-catterfeld-in-vorentscheid-jury-a-588acc50-4a73-4c9f-b400-0dfca615a305#ref=rss)
+* [https://www.spiegel.de/kultur/waldbraende-in-los-angeles-kulturhaeuser-villa-aurora-und-mann-haus-stark-betroffen](https://www.spiegel.de/kultur/waldbraende-in-los-angeles-kulturhaeuser-villa-aurora-und-mann-haus-stark-betroffen-a-59143814-62d5-4cc6-8cc7-d6a092e65564#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/panorama/justiz/muenchen-sechs-jahre-haft-fuer-arzt-der-frauen-bei-der-darmspiegelung-vergewaltigte](https://www.spiegel.de/panorama/justiz/muenchen-sechs-jahre-haft-fuer-arzt-der-frauen-bei-der-darmspiegelung-vergewaltigte-a-86278cab-4116-46c3-a242-e75bc125e890#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/muelheim-an-der-ruhr-lebenslange-haft-verhaengt-34-jahre-nach-mord-an-friseur](https://www.spiegel.de/panorama/justiz/muelheim-an-der-ruhr-lebenslange-haft-verhaengt-34-jahre-nach-mord-an-friseur-a-d97f0039-426b-4086-baa2-dd3acdd010b5#ref=rss)
+### darmspiegelung
+
+* [https://www.spiegel.de/panorama/justiz/muenchen-sechs-jahre-haft-fuer-arzt-der-frauen-bei-der-darmspiegelung-vergewaltigte](https://www.spiegel.de/panorama/justiz/muenchen-sechs-jahre-haft-fuer-arzt-der-frauen-bei-der-darmspiegelung-vergewaltigte-a-86278cab-4116-46c3-a242-e75bc125e890#ref=rss)
+### waren
+
+* [https://www.spiegel.de/panorama/justiz/muenchen-sechs-jahre-haft-fuer-arzt-der-frauen-bei-der-darmspiegelung-vergewaltigte](https://www.spiegel.de/panorama/justiz/muenchen-sechs-jahre-haft-fuer-arzt-der-frauen-bei-der-darmspiegelung-vergewaltigte-a-86278cab-4116-46c3-a242-e75bc125e890#ref=rss)
+* [https://www.spiegel.de/kultur/waldbraende-in-los-angeles-kulturhaeuser-villa-aurora-und-mann-haus-stark-betroffen](https://www.spiegel.de/kultur/waldbraende-in-los-angeles-kulturhaeuser-villa-aurora-und-mann-haus-stark-betroffen-a-59143814-62d5-4cc6-8cc7-d6a092e65564#ref=rss)
+### freiheitsstrafe
+
+* [https://www.spiegel.de/panorama/justiz/muenchen-sechs-jahre-haft-fuer-arzt-der-frauen-bei-der-darmspiegelung-vergewaltigte](https://www.spiegel.de/panorama/justiz/muenchen-sechs-jahre-haft-fuer-arzt-der-frauen-bei-der-darmspiegelung-vergewaltigte-a-86278cab-4116-46c3-a242-e75bc125e890#ref=rss)
+* [https://www.spiegel.de/auto/handy-am-steuer-soll-straftat-werden-empfehlen-verkehrsexperten](https://www.spiegel.de/auto/handy-am-steuer-soll-straftat-werden-empfehlen-verkehrsexperten-a-7d143cd8-614d-4fc2-94bf-628f261d1f37#ref=rss)
 ### los
 
-* [https://www.spiegel.de/panorama/leute/fireaid-nach-braenden-in-los-angeles-billie-eilish-green-day-pink-spielen-benefizkonzert](https://www.spiegel.de/panorama/leute/fireaid-nach-braenden-in-los-angeles-billie-eilish-green-day-pink-spielen-benefizkonzert-a-86a75fb9-3bb3-4671-9a52-40d63187b3ea#ref=rss)
+* [https://www.spiegel.de/kultur/waldbraende-in-los-angeles-kulturhaeuser-villa-aurora-und-mann-haus-stark-betroffen](https://www.spiegel.de/kultur/waldbraende-in-los-angeles-kulturhaeuser-villa-aurora-und-mann-haus-stark-betroffen-a-59143814-62d5-4cc6-8cc7-d6a092e65564#ref=rss)
 ### angeles
 
-* [https://www.spiegel.de/panorama/leute/fireaid-nach-braenden-in-los-angeles-billie-eilish-green-day-pink-spielen-benefizkonzert](https://www.spiegel.de/panorama/leute/fireaid-nach-braenden-in-los-angeles-billie-eilish-green-day-pink-spielen-benefizkonzert-a-86a75fb9-3bb3-4671-9a52-40d63187b3ea#ref=rss)
-### billie
+* [https://www.spiegel.de/kultur/waldbraende-in-los-angeles-kulturhaeuser-villa-aurora-und-mann-haus-stark-betroffen](https://www.spiegel.de/kultur/waldbraende-in-los-angeles-kulturhaeuser-villa-aurora-und-mann-haus-stark-betroffen-a-59143814-62d5-4cc6-8cc7-d6a092e65564#ref=rss)
+### kulturhäuser
 
-* [https://www.spiegel.de/panorama/leute/fireaid-nach-braenden-in-los-angeles-billie-eilish-green-day-pink-spielen-benefizkonzert](https://www.spiegel.de/panorama/leute/fireaid-nach-braenden-in-los-angeles-billie-eilish-green-day-pink-spielen-benefizkonzert-a-86a75fb9-3bb3-4671-9a52-40d63187b3ea#ref=rss)
-### eilish
+* [https://www.spiegel.de/kultur/waldbraende-in-los-angeles-kulturhaeuser-villa-aurora-und-mann-haus-stark-betroffen](https://www.spiegel.de/kultur/waldbraende-in-los-angeles-kulturhaeuser-villa-aurora-und-mann-haus-stark-betroffen-a-59143814-62d5-4cc6-8cc7-d6a092e65564#ref=rss)
+### villa
 
-* [https://www.spiegel.de/panorama/leute/fireaid-nach-braenden-in-los-angeles-billie-eilish-green-day-pink-spielen-benefizkonzert](https://www.spiegel.de/panorama/leute/fireaid-nach-braenden-in-los-angeles-billie-eilish-green-day-pink-spielen-benefizkonzert-a-86a75fb9-3bb3-4671-9a52-40d63187b3ea#ref=rss)
-### green
+* [https://www.spiegel.de/kultur/waldbraende-in-los-angeles-kulturhaeuser-villa-aurora-und-mann-haus-stark-betroffen](https://www.spiegel.de/kultur/waldbraende-in-los-angeles-kulturhaeuser-villa-aurora-und-mann-haus-stark-betroffen-a-59143814-62d5-4cc6-8cc7-d6a092e65564#ref=rss)
+### aurora
 
-* [https://www.spiegel.de/panorama/leute/fireaid-nach-braenden-in-los-angeles-billie-eilish-green-day-pink-spielen-benefizkonzert](https://www.spiegel.de/panorama/leute/fireaid-nach-braenden-in-los-angeles-billie-eilish-green-day-pink-spielen-benefizkonzert-a-86a75fb9-3bb3-4671-9a52-40d63187b3ea#ref=rss)
-### day
+* [https://www.spiegel.de/kultur/waldbraende-in-los-angeles-kulturhaeuser-villa-aurora-und-mann-haus-stark-betroffen](https://www.spiegel.de/kultur/waldbraende-in-los-angeles-kulturhaeuser-villa-aurora-und-mann-haus-stark-betroffen-a-59143814-62d5-4cc6-8cc7-d6a092e65564#ref=rss)
+### januar
 
-* [https://www.spiegel.de/panorama/leute/fireaid-nach-braenden-in-los-angeles-billie-eilish-green-day-pink-spielen-benefizkonzert](https://www.spiegel.de/panorama/leute/fireaid-nach-braenden-in-los-angeles-billie-eilish-green-day-pink-spielen-benefizkonzert-a-86a75fb9-3bb3-4671-9a52-40d63187b3ea#ref=rss)
-### pink
+* [https://www.spiegel.de/kultur/waldbraende-in-los-angeles-kulturhaeuser-villa-aurora-und-mann-haus-stark-betroffen](https://www.spiegel.de/kultur/waldbraende-in-los-angeles-kulturhaeuser-villa-aurora-und-mann-haus-stark-betroffen-a-59143814-62d5-4cc6-8cc7-d6a092e65564#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/muelheim-an-der-ruhr-lebenslange-haft-verhaengt-34-jahre-nach-mord-an-friseur](https://www.spiegel.de/panorama/justiz/muelheim-an-der-ruhr-lebenslange-haft-verhaengt-34-jahre-nach-mord-an-friseur-a-d97f0039-426b-4086-baa2-dd3acdd010b5#ref=rss)
+### unrwa
 
-* [https://www.spiegel.de/panorama/leute/fireaid-nach-braenden-in-los-angeles-billie-eilish-green-day-pink-spielen-benefizkonzert](https://www.spiegel.de/panorama/leute/fireaid-nach-braenden-in-los-angeles-billie-eilish-green-day-pink-spielen-benefizkonzert-a-86a75fb9-3bb3-4671-9a52-40d63187b3ea#ref=rss)
-### trump
+* [https://www.spiegel.de/ausland/unrwa-palaestinenser-hilfe-in-gaza-durch-israels-verbot-vor-dem-aus-trotz-grosser-not](https://www.spiegel.de/ausland/unrwa-palaestinenser-hilfe-in-gaza-durch-israels-verbot-vor-dem-aus-trotz-grosser-not-a-69e06edd-98a2-4a4a-b796-ed6cdc245efa#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-uno-palaestinenserhilfswerk-setzt-arbeit-trotz-verbots-fort](https://www.spiegel.de/ausland/israel-gaza-krieg-uno-palaestinenserhilfswerk-setzt-arbeit-trotz-verbots-fort-a-812c05c8-4b30-4671-ae32-eadc012df345#ref=rss)
+### frankreich
 
-* [https://www.spiegel.de/ausland/flugzeug-unglueck-in-washington-d-c-donald-trump-beschuldigt-demokraten](https://www.spiegel.de/ausland/flugzeug-unglueck-in-washington-d-c-donald-trump-beschuldigt-demokraten-a-11224ea7-93f0-4173-92b1-a920e6ddb8ec#ref=rss)
-### demokraten
+* [https://www.spiegel.de/ausland/frankreich-grab-von-jean-marie-le-pen-von-unbekannten-geschaendet](https://www.spiegel.de/ausland/frankreich-grab-von-jean-marie-le-pen-von-unbekannten-geschaendet-a-7a277458-5c6b-4868-9505-aeb13b55bc11#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-uno-palaestinenserhilfswerk-setzt-arbeit-trotz-verbots-fort](https://www.spiegel.de/ausland/israel-gaza-krieg-uno-palaestinenserhilfswerk-setzt-arbeit-trotz-verbots-fort-a-812c05c8-4b30-4671-ae32-eadc012df345#ref=rss)
+### jeanmarie
 
-* [https://www.spiegel.de/ausland/flugzeug-unglueck-in-washington-d-c-donald-trump-beschuldigt-demokraten](https://www.spiegel.de/ausland/flugzeug-unglueck-in-washington-d-c-donald-trump-beschuldigt-demokraten-a-11224ea7-93f0-4173-92b1-a920e6ddb8ec#ref=rss)
-### kindern
+* [https://www.spiegel.de/ausland/frankreich-grab-von-jean-marie-le-pen-von-unbekannten-geschaendet](https://www.spiegel.de/ausland/frankreich-grab-von-jean-marie-le-pen-von-unbekannten-geschaendet-a-7a277458-5c6b-4868-9505-aeb13b55bc11#ref=rss)
+### le
 
-* [https://www.spiegel.de/gesundheit/diagnose/erdnussallergie-was-kindern-und-erwachsenen-helfen-kann-und-wo-sie-aufpassen-muessen](https://www.spiegel.de/gesundheit/diagnose/erdnussallergie-was-kindern-und-erwachsenen-helfen-kann-und-wo-sie-aufpassen-muessen-a-a1a300fc-bbb4-4933-a746-4e1584bb1747#ref=rss)
-### erwachsenen
+* [https://www.spiegel.de/ausland/frankreich-grab-von-jean-marie-le-pen-von-unbekannten-geschaendet](https://www.spiegel.de/ausland/frankreich-grab-von-jean-marie-le-pen-von-unbekannten-geschaendet-a-7a277458-5c6b-4868-9505-aeb13b55bc11#ref=rss)
+### pen
 
-* [https://www.spiegel.de/gesundheit/diagnose/erdnussallergie-was-kindern-und-erwachsenen-helfen-kann-und-wo-sie-aufpassen-muessen](https://www.spiegel.de/gesundheit/diagnose/erdnussallergie-was-kindern-und-erwachsenen-helfen-kann-und-wo-sie-aufpassen-muessen-a-a1a300fc-bbb4-4933-a746-4e1584bb1747#ref=rss)
-### helfen
+* [https://www.spiegel.de/ausland/frankreich-grab-von-jean-marie-le-pen-von-unbekannten-geschaendet](https://www.spiegel.de/ausland/frankreich-grab-von-jean-marie-le-pen-von-unbekannten-geschaendet-a-7a277458-5c6b-4868-9505-aeb13b55bc11#ref=rss)
+### rené
 
-* [https://www.spiegel.de/gesundheit/diagnose/erdnussallergie-was-kindern-und-erwachsenen-helfen-kann-und-wo-sie-aufpassen-muessen](https://www.spiegel.de/gesundheit/diagnose/erdnussallergie-was-kindern-und-erwachsenen-helfen-kann-und-wo-sie-aufpassen-muessen-a-a1a300fc-bbb4-4933-a746-4e1584bb1747#ref=rss)
-### wo
+* [https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-untersuchungshaft-fuer-signa-gruender-in-wien-verlaengert](https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-untersuchungshaft-fuer-signa-gruender-in-wien-verlaengert-a-82f1f05d-abb5-4aaf-ab49-de4b4543da62#ref=rss)
+### benko
 
-* [https://www.spiegel.de/gesundheit/diagnose/erdnussallergie-was-kindern-und-erwachsenen-helfen-kann-und-wo-sie-aufpassen-muessen](https://www.spiegel.de/gesundheit/diagnose/erdnussallergie-was-kindern-und-erwachsenen-helfen-kann-und-wo-sie-aufpassen-muessen-a-a1a300fc-bbb4-4933-a746-4e1584bb1747#ref=rss)
-### aufpassen
+* [https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-untersuchungshaft-fuer-signa-gruender-in-wien-verlaengert](https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-untersuchungshaft-fuer-signa-gruender-in-wien-verlaengert-a-82f1f05d-abb5-4aaf-ab49-de4b4543da62#ref=rss)
+### untersuchungshaft
 
-* [https://www.spiegel.de/gesundheit/diagnose/erdnussallergie-was-kindern-und-erwachsenen-helfen-kann-und-wo-sie-aufpassen-muessen](https://www.spiegel.de/gesundheit/diagnose/erdnussallergie-was-kindern-und-erwachsenen-helfen-kann-und-wo-sie-aufpassen-muessen-a-a1a300fc-bbb4-4933-a746-4e1584bb1747#ref=rss)
-### katarina
+* [https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-untersuchungshaft-fuer-signa-gruender-in-wien-verlaengert](https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-untersuchungshaft-fuer-signa-gruender-in-wien-verlaengert-a-82f1f05d-abb5-4aaf-ab49-de4b4543da62#ref=rss)
+### signagründer
 
-* [https://www.spiegel.de/politik/deutschland/katarina-barley-ueber-cdu-csu-abstimmung-mit-afd-es-ist-gefaehrlich-was-da-gerade-passiert](https://www.spiegel.de/politik/deutschland/katarina-barley-ueber-cdu-csu-abstimmung-mit-afd-es-ist-gefaehrlich-was-da-gerade-passiert-a-568e02c5-bdaf-4bd1-ba2c-51cfaaed3932#ref=rss)
-### barley
+* [https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-untersuchungshaft-fuer-signa-gruender-in-wien-verlaengert](https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-untersuchungshaft-fuer-signa-gruender-in-wien-verlaengert-a-82f1f05d-abb5-4aaf-ab49-de4b4543da62#ref=rss)
+### wien
 
-* [https://www.spiegel.de/politik/deutschland/katarina-barley-ueber-cdu-csu-abstimmung-mit-afd-es-ist-gefaehrlich-was-da-gerade-passiert](https://www.spiegel.de/politik/deutschland/katarina-barley-ueber-cdu-csu-abstimmung-mit-afd-es-ist-gefaehrlich-was-da-gerade-passiert-a-568e02c5-bdaf-4bd1-ba2c-51cfaaed3932#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-untersuchungshaft-fuer-signa-gruender-in-wien-verlaengert](https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-untersuchungshaft-fuer-signa-gruender-in-wien-verlaengert-a-82f1f05d-abb5-4aaf-ab49-de4b4543da62#ref=rss)
+### lebenslange
+
+* [https://www.spiegel.de/panorama/justiz/muelheim-an-der-ruhr-lebenslange-haft-verhaengt-34-jahre-nach-mord-an-friseur](https://www.spiegel.de/panorama/justiz/muelheim-an-der-ruhr-lebenslange-haft-verhaengt-34-jahre-nach-mord-an-friseur-a-d97f0039-426b-4086-baa2-dd3acdd010b5#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/chemnitz-lebenslange-haft-fuer-moerder-von-valeriia](https://www.spiegel.de/panorama/justiz/chemnitz-lebenslange-haft-fuer-moerder-von-valeriia-a-50b80c49-31f1-4b3e-9651-6a97425ec1e2#ref=rss)
+### friseur
+
+* [https://www.spiegel.de/panorama/justiz/muelheim-an-der-ruhr-lebenslange-haft-verhaengt-34-jahre-nach-mord-an-friseur](https://www.spiegel.de/panorama/justiz/muelheim-an-der-ruhr-lebenslange-haft-verhaengt-34-jahre-nach-mord-an-friseur-a-d97f0039-426b-4086-baa2-dd3acdd010b5#ref=rss)
+### setzt
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-uno-palaestinenserhilfswerk-setzt-arbeit-trotz-verbots-fort](https://www.spiegel.de/ausland/israel-gaza-krieg-uno-palaestinenserhilfswerk-setzt-arbeit-trotz-verbots-fort-a-812c05c8-4b30-4671-ae32-eadc012df345#ref=rss)
+### fort
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-uno-palaestinenserhilfswerk-setzt-arbeit-trotz-verbots-fort](https://www.spiegel.de/ausland/israel-gaza-krieg-uno-palaestinenserhilfswerk-setzt-arbeit-trotz-verbots-fort-a-812c05c8-4b30-4671-ae32-eadc012df345#ref=rss)
+### osnabrück
+
+* [https://www.spiegel.de/panorama/justiz/osnabrueck-frau-stirbt-nach-narkose-bei-zahnbehandlung-bewaehrungsstrafe-fuer-arzt](https://www.spiegel.de/panorama/justiz/osnabrueck-frau-stirbt-nach-narkose-bei-zahnbehandlung-bewaehrungsstrafe-fuer-arzt-a-05e97859-14de-475a-8cfd-1e1a2a8dc2f4#ref=rss)
+### spd
+
+* [https://www.spiegel.de/politik/deutschland/gewalthilfegesetz-union-spd-und-gruene-beschliessen-mehr-schutz-fuer-frauen](https://www.spiegel.de/politik/deutschland/gewalthilfegesetz-union-spd-und-gruene-beschliessen-mehr-schutz-fuer-frauen-a-1d7623e8-d00d-4808-ba1b-9c4d6fb70310#ref=rss)
+### grüne
+
+* [https://www.spiegel.de/politik/deutschland/gewalthilfegesetz-union-spd-und-gruene-beschliessen-mehr-schutz-fuer-frauen](https://www.spiegel.de/politik/deutschland/gewalthilfegesetz-union-spd-und-gruene-beschliessen-mehr-schutz-fuer-frauen-a-1d7623e8-d00d-4808-ba1b-9c4d6fb70310#ref=rss)
+### schutz
+
+* [https://www.spiegel.de/politik/deutschland/gewalthilfegesetz-union-spd-und-gruene-beschliessen-mehr-schutz-fuer-frauen](https://www.spiegel.de/politik/deutschland/gewalthilfegesetz-union-spd-und-gruene-beschliessen-mehr-schutz-fuer-frauen-a-1d7623e8-d00d-4808-ba1b-9c4d6fb70310#ref=rss)
+### beschädigt
+
+* [https://www.spiegel.de/ausland/ostsee-kabel-beschaedigt-norwegische-polizei-untersucht-schiff-mit-russischer-besatzung](https://www.spiegel.de/ausland/ostsee-kabel-beschaedigt-norwegische-polizei-untersucht-schiff-mit-russischer-besatzung-a-3702fa69-d90f-48df-b843-2c10810034c1#ref=rss)
+### norwegische
+
+* [https://www.spiegel.de/ausland/ostsee-kabel-beschaedigt-norwegische-polizei-untersucht-schiff-mit-russischer-besatzung](https://www.spiegel.de/ausland/ostsee-kabel-beschaedigt-norwegische-polizei-untersucht-schiff-mit-russischer-besatzung-a-3702fa69-d90f-48df-b843-2c10810034c1#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/ausland/ostsee-kabel-beschaedigt-norwegische-polizei-untersucht-schiff-mit-russischer-besatzung](https://www.spiegel.de/ausland/ostsee-kabel-beschaedigt-norwegische-polizei-untersucht-schiff-mit-russischer-besatzung-a-3702fa69-d90f-48df-b843-2c10810034c1#ref=rss)
+### schiff
+
+* [https://www.spiegel.de/ausland/ostsee-kabel-beschaedigt-norwegische-polizei-untersucht-schiff-mit-russischer-besatzung](https://www.spiegel.de/ausland/ostsee-kabel-beschaedigt-norwegische-polizei-untersucht-schiff-mit-russischer-besatzung-a-3702fa69-d90f-48df-b843-2c10810034c1#ref=rss)
+### besatzung
+
+* [https://www.spiegel.de/ausland/ostsee-kabel-beschaedigt-norwegische-polizei-untersucht-schiff-mit-russischer-besatzung](https://www.spiegel.de/ausland/ostsee-kabel-beschaedigt-norwegische-polizei-untersucht-schiff-mit-russischer-besatzung-a-3702fa69-d90f-48df-b843-2c10810034c1#ref=rss)
+### bob
+
+* [https://www.spiegel.de/sport/handball/handball-bob-hanning-wird-nationaltrainer-italiens](https://www.spiegel.de/sport/handball/handball-bob-hanning-wird-nationaltrainer-italiens-a-a2ab835f-3f04-4240-884d-aea1a88fda0b#ref=rss)
+### hanning
+
+* [https://www.spiegel.de/sport/handball/handball-bob-hanning-wird-nationaltrainer-italiens](https://www.spiegel.de/sport/handball/handball-bob-hanning-wird-nationaltrainer-italiens-a-a2ab835f-3f04-4240-884d-aea1a88fda0b#ref=rss)
+### italiens
+
+* [https://www.spiegel.de/sport/handball/handball-bob-hanning-wird-nationaltrainer-italiens](https://www.spiegel.de/sport/handball/handball-bob-hanning-wird-nationaltrainer-italiens-a-a2ab835f-3f04-4240-884d-aea1a88fda0b#ref=rss)
+### chemnitz
+
+* [https://www.spiegel.de/panorama/justiz/chemnitz-lebenslange-haft-fuer-moerder-von-valeriia](https://www.spiegel.de/panorama/justiz/chemnitz-lebenslange-haft-fuer-moerder-von-valeriia-a-50b80c49-31f1-4b3e-9651-6a97425ec1e2#ref=rss)
+### valeriia
+
+* [https://www.spiegel.de/panorama/justiz/chemnitz-lebenslange-haft-fuer-moerder-von-valeriia](https://www.spiegel.de/panorama/justiz/chemnitz-lebenslange-haft-fuer-moerder-von-valeriia-a-50b80c49-31f1-4b3e-9651-6a97425ec1e2#ref=rss)
+### gefunden
+
+* [https://www.spiegel.de/panorama/justiz/chemnitz-lebenslange-haft-fuer-moerder-von-valeriia](https://www.spiegel.de/panorama/justiz/chemnitz-lebenslange-haft-fuer-moerder-von-valeriia-a-50b80c49-31f1-4b3e-9651-6a97425ec1e2#ref=rss)
+* [https://www.spiegel.de/kultur/stiftung-preussischer-kulturbesitz-wird-nach-jahrelangen-verhandlungen-reformiert](https://www.spiegel.de/kultur/stiftung-preussischer-kulturbesitz-wird-nach-jahrelangen-verhandlungen-reformiert-a-6a019534-2cb7-4479-96f6-db95f2ea2492#ref=rss)
+### stiftung
+
+* [https://www.spiegel.de/kultur/stiftung-preussischer-kulturbesitz-wird-nach-jahrelangen-verhandlungen-reformiert](https://www.spiegel.de/kultur/stiftung-preussischer-kulturbesitz-wird-nach-jahrelangen-verhandlungen-reformiert-a-6a019534-2cb7-4479-96f6-db95f2ea2492#ref=rss)
+### preußischer
+
+* [https://www.spiegel.de/kultur/stiftung-preussischer-kulturbesitz-wird-nach-jahrelangen-verhandlungen-reformiert](https://www.spiegel.de/kultur/stiftung-preussischer-kulturbesitz-wird-nach-jahrelangen-verhandlungen-reformiert-a-6a019534-2cb7-4479-96f6-db95f2ea2492#ref=rss)
+### kulturbesitz
+
+* [https://www.spiegel.de/kultur/stiftung-preussischer-kulturbesitz-wird-nach-jahrelangen-verhandlungen-reformiert](https://www.spiegel.de/kultur/stiftung-preussischer-kulturbesitz-wird-nach-jahrelangen-verhandlungen-reformiert-a-6a019534-2cb7-4479-96f6-db95f2ea2492#ref=rss)
 
