@@ -4,324 +4,263 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### köhler
-
-* [https://www.spiegel.de/politik/horst-koehler-das-wirken-des-frueheren-bundespraesidenten-in-bildern](https://www.spiegel.de/politik/horst-koehler-das-wirken-des-frueheren-bundespraesidenten-in-bildern-a-54c1f2a8-1779-45fb-b0c9-68670f9604db#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/horst-koehler-reaktionen-auf-den-tod-des-ehemaligen-bundespraesidenten-seine-stimme-wird-fehlen](https://www.spiegel.de/politik/deutschland/horst-koehler-reaktionen-auf-den-tod-des-ehemaligen-bundespraesidenten-seine-stimme-wird-fehlen-a-aaf5761b-b139-442e-8647-3a6699443fc8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/horst-koehler-warum-mir-der-ruecktritt-des-ehemaligen-praesidenten-immer-ein-schlechtes-gewissen-gemacht-hat](https://www.spiegel.de/politik/deutschland/horst-koehler-warum-mir-der-ruecktritt-des-ehemaligen-praesidenten-immer-ein-schlechtes-gewissen-gemacht-hat-a-39a1ff14-a531-44ba-b267-dc5029f9f13e#ref=rss)
-### horst
-
-* [https://www.spiegel.de/politik/horst-koehler-das-wirken-des-frueheren-bundespraesidenten-in-bildern](https://www.spiegel.de/politik/horst-koehler-das-wirken-des-frueheren-bundespraesidenten-in-bildern-a-54c1f2a8-1779-45fb-b0c9-68670f9604db#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/horst-koehler-reaktionen-auf-den-tod-des-ehemaligen-bundespraesidenten-seine-stimme-wird-fehlen](https://www.spiegel.de/politik/deutschland/horst-koehler-reaktionen-auf-den-tod-des-ehemaligen-bundespraesidenten-seine-stimme-wird-fehlen-a-aaf5761b-b139-442e-8647-3a6699443fc8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/horst-koehler-warum-mir-der-ruecktritt-des-ehemaligen-praesidenten-immer-ein-schlechtes-gewissen-gemacht-hat](https://www.spiegel.de/politik/deutschland/horst-koehler-warum-mir-der-ruecktritt-des-ehemaligen-praesidenten-immer-ein-schlechtes-gewissen-gemacht-hat-a-39a1ff14-a531-44ba-b267-dc5029f9f13e#ref=rss)
-### fall
-
-* [https://www.spiegel.de/politik/fall-stefan-gelbhaar-die-gruenen-julia-schneider-dachte-nicht-an-rueckzug](https://www.spiegel.de/politik/fall-stefan-gelbhaar-die-gruenen-julia-schneider-dachte-nicht-an-rueckzug-a-ec90de2d-d0e4-4018-b378-c02f5414d2a1#ref=rss)
-### gelbhaar
-
-* [https://www.spiegel.de/politik/fall-stefan-gelbhaar-die-gruenen-julia-schneider-dachte-nicht-an-rueckzug](https://www.spiegel.de/politik/fall-stefan-gelbhaar-die-gruenen-julia-schneider-dachte-nicht-an-rueckzug-a-ec90de2d-d0e4-4018-b378-c02f5414d2a1#ref=rss)
-### tiktok
-
-* [https://www.spiegel.de/kultur/literatur/rebecca-yarros-onyx-storm-drachen-sex-drama-und-gewalt](https://www.spiegel.de/kultur/literatur/rebecca-yarros-onyx-storm-drachen-sex-drama-und-gewalt-a-ec38b7fc-65f3-436c-899d-f1159ab9bc18#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/tiktok-tausende-schauen-kinofilme-illegal-ueber-die-video-app](https://www.spiegel.de/netzwelt/web/tiktok-tausende-schauen-kinofilme-illegal-ueber-die-video-app-a-2c5ebba4-1738-4e46-9f02-e5371ba09ae3#ref=rss)
-### viele
-
-* [https://www.spiegel.de/ausland/japan-ist-der-naechste-tenno-weiblich](https://www.spiegel.de/ausland/japan-ist-der-naechste-tenno-weiblich-a-b6cd7c2a-c98d-4721-b37c-1f40db9f1e7c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/buerokratie-unternehmen-kritisieren-staat-tragen-aber-selbst-zur-buerokratie-bei](https://www.spiegel.de/wirtschaft/buerokratie-unternehmen-kritisieren-staat-tragen-aber-selbst-zur-buerokratie-bei-a-77ceb3bd-8fe2-4eae-a108-d09a917a1a52#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/fdp-im-wahlkampf-grenzueberschreitungen-im-toten-winkel](https://www.spiegel.de/politik/deutschland/fdp-im-wahlkampf-grenzueberschreitungen-im-toten-winkel-a-761e88dd-a095-430f-8f6d-d10d4e6b7478#ref=rss)
-### neue
-
-* [https://www.spiegel.de/politik/deutschland/afd-junge-alternative-wird-durch-neue-organisation-ersetzt](https://www.spiegel.de/politik/deutschland/afd-junge-alternative-wird-durch-neue-organisation-ersetzt-a-eb16564a-6846-4415-8945-efb3606b0c35#ref=rss)
-* [https://www.spiegel.de/kultur/tv/netflix-amazon-prime-disney-neue-serien-und-filme-im-februar-2025-was-sich-jetzt-lohnt](https://www.spiegel.de/kultur/tv/netflix-amazon-prime-disney-neue-serien-und-filme-im-februar-2025-was-sich-jetzt-lohnt-a-1b11f239-f719-4963-8858-5b58700d6ef9#ref=rss)
-### bürokratie
-
-* [https://www.spiegel.de/wirtschaft/buerokratie-unternehmen-kritisieren-staat-tragen-aber-selbst-zur-buerokratie-bei](https://www.spiegel.de/wirtschaft/buerokratie-unternehmen-kritisieren-staat-tragen-aber-selbst-zur-buerokratie-bei-a-77ceb3bd-8fe2-4eae-a108-d09a917a1a52#ref=rss)
-### grenze
-
-* [https://www.spiegel.de/ausland/gazastreifen-grenze-in-rafah-ist-wieder-offen-drei-weitere-israelische-geiseln-frei](https://www.spiegel.de/ausland/gazastreifen-grenze-in-rafah-ist-wieder-offen-drei-weitere-israelische-geiseln-frei-a-3190d7cb-ee5d-45bb-93f2-221e9dc16e7d#ref=rss)
-### rafah
-
-* [https://www.spiegel.de/ausland/gazastreifen-grenze-in-rafah-ist-wieder-offen-drei-weitere-israelische-geiseln-frei](https://www.spiegel.de/ausland/gazastreifen-grenze-in-rafah-ist-wieder-offen-drei-weitere-israelische-geiseln-frei-a-3190d7cb-ee5d-45bb-93f2-221e9dc16e7d#ref=rss)
-### geiseln
-
-* [https://www.spiegel.de/ausland/gazastreifen-grenze-in-rafah-ist-wieder-offen-drei-weitere-israelische-geiseln-frei](https://www.spiegel.de/ausland/gazastreifen-grenze-in-rafah-ist-wieder-offen-drei-weitere-israelische-geiseln-frei-a-3190d7cb-ee5d-45bb-93f2-221e9dc16e7d#ref=rss)
-### frei
-
-* [https://www.spiegel.de/ausland/gazastreifen-grenze-in-rafah-ist-wieder-offen-drei-weitere-israelische-geiseln-frei](https://www.spiegel.de/ausland/gazastreifen-grenze-in-rafah-ist-wieder-offen-drei-weitere-israelische-geiseln-frei-a-3190d7cb-ee5d-45bb-93f2-221e9dc16e7d#ref=rss)
-### verletzte
-
-* [https://www.spiegel.de/ausland/gazastreifen-grenze-in-rafah-ist-wieder-offen-drei-weitere-israelische-geiseln-frei](https://www.spiegel.de/ausland/gazastreifen-grenze-in-rafah-ist-wieder-offen-drei-weitere-israelische-geiseln-frei-a-3190d7cb-ee5d-45bb-93f2-221e9dc16e7d#ref=rss)
-* [https://www.spiegel.de/panorama/philadelphia-sechs-mexikaner-bei-flugzeugabsturz-gestorben](https://www.spiegel.de/panorama/philadelphia-sechs-mexikaner-bei-flugzeugabsturz-gestorben-a-c5b35187-949d-410b-bc28-75b312aaa36c#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/ausland/gazastreifen-grenze-in-rafah-ist-wieder-offen-drei-weitere-israelische-geiseln-frei](https://www.spiegel.de/ausland/gazastreifen-grenze-in-rafah-ist-wieder-offen-drei-weitere-israelische-geiseln-frei-a-3190d7cb-ee5d-45bb-93f2-221e9dc16e7d#ref=rss)
-* [https://www.spiegel.de/sport/fussball/premier-league-fabian-huerzeler-kassiert-mit-brighton-historische-0-7-klatsche](https://www.spiegel.de/sport/fussball/premier-league-fabian-huerzeler-kassiert-mit-brighton-historische-0-7-klatsche-a-54ad1501-873a-40a5-97d1-4d29800da6f5#ref=rss)
-### fast
-
-* [https://www.spiegel.de/ausland/gazastreifen-grenze-in-rafah-ist-wieder-offen-drei-weitere-israelische-geiseln-frei](https://www.spiegel.de/ausland/gazastreifen-grenze-in-rafah-ist-wieder-offen-drei-weitere-israelische-geiseln-frei-a-3190d7cb-ee5d-45bb-93f2-221e9dc16e7d#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bundesliga-kompakt-harry-kane-fuehrt-bayern-zum-sieg-ueber-kiel-borussia-dortmund-gewinnt-vor-kovac-amtsantritt](https://www.spiegel.de/sport/fussball/bundesliga-kompakt-harry-kane-fuehrt-bayern-zum-sieg-ueber-kiel-borussia-dortmund-gewinnt-vor-kovac-amtsantritt-a-406a9aae-28ba-4883-aaf7-7465899cfc7b#ref=rss)
-### kamen
-
-* [https://www.spiegel.de/ausland/gazastreifen-grenze-in-rafah-ist-wieder-offen-drei-weitere-israelische-geiseln-frei](https://www.spiegel.de/ausland/gazastreifen-grenze-in-rafah-ist-wieder-offen-drei-weitere-israelische-geiseln-frei-a-3190d7cb-ee5d-45bb-93f2-221e9dc16e7d#ref=rss)
-* [https://www.spiegel.de/panorama/philadelphia-sechs-mexikaner-bei-flugzeugabsturz-gestorben](https://www.spiegel.de/panorama/philadelphia-sechs-mexikaner-bei-flugzeugabsturz-gestorben-a-c5b35187-949d-410b-bc28-75b312aaa36c#ref=rss)
-### pflegende
-
-* [https://www.spiegel.de/familie/pflegende-angehoerige-irgendwann-geht-jedem-die-kraft-aus](https://www.spiegel.de/familie/pflegende-angehoerige-irgendwann-geht-jedem-die-kraft-aus-a-6d226f37-cc53-4a48-ab09-a2c45c93d6b4#ref=rss)
-### angehörige
-
-* [https://www.spiegel.de/familie/pflegende-angehoerige-irgendwann-geht-jedem-die-kraft-aus](https://www.spiegel.de/familie/pflegende-angehoerige-irgendwann-geht-jedem-die-kraft-aus-a-6d226f37-cc53-4a48-ab09-a2c45c93d6b4#ref=rss)
-### wo
-
-* [https://www.spiegel.de/familie/pflegende-angehoerige-irgendwann-geht-jedem-die-kraft-aus](https://www.spiegel.de/familie/pflegende-angehoerige-irgendwann-geht-jedem-die-kraft-aus-a-6d226f37-cc53-4a48-ab09-a2c45c93d6b4#ref=rss)
-### hilfe
-
-* [https://www.spiegel.de/familie/pflegende-angehoerige-irgendwann-geht-jedem-die-kraft-aus](https://www.spiegel.de/familie/pflegende-angehoerige-irgendwann-geht-jedem-die-kraft-aus-a-6d226f37-cc53-4a48-ab09-a2c45c93d6b4#ref=rss)
-* [https://www.spiegel.de/panorama/leute/lily-collins-emily-in-paris-star-postet-babyfoto](https://www.spiegel.de/panorama/leute/lily-collins-emily-in-paris-star-postet-babyfoto-a-421a71a9-e6f1-4761-9b1b-47b943e7397e#ref=rss)
-### finden
-
-* [https://www.spiegel.de/familie/pflegende-angehoerige-irgendwann-geht-jedem-die-kraft-aus](https://www.spiegel.de/familie/pflegende-angehoerige-irgendwann-geht-jedem-die-kraft-aus-a-6d226f37-cc53-4a48-ab09-a2c45c93d6b4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/fdp-im-wahlkampf-grenzueberschreitungen-im-toten-winkel](https://www.spiegel.de/politik/deutschland/fdp-im-wahlkampf-grenzueberschreitungen-im-toten-winkel-a-761e88dd-a095-430f-8f6d-d10d4e6b7478#ref=rss)
-### stefan
-
-* [https://www.spiegel.de/politik/fall-stefan-gelbhaar-die-gruenen-julia-schneider-dachte-nicht-an-rueckzug](https://www.spiegel.de/politik/fall-stefan-gelbhaar-die-gruenen-julia-schneider-dachte-nicht-an-rueckzug-a-ec90de2d-d0e4-4018-b378-c02f5414d2a1#ref=rss)
-### julia
-
-* [https://www.spiegel.de/politik/fall-stefan-gelbhaar-die-gruenen-julia-schneider-dachte-nicht-an-rueckzug](https://www.spiegel.de/politik/fall-stefan-gelbhaar-die-gruenen-julia-schneider-dachte-nicht-an-rueckzug-a-ec90de2d-d0e4-4018-b378-c02f5414d2a1#ref=rss)
-### schneider
-
-* [https://www.spiegel.de/politik/fall-stefan-gelbhaar-die-gruenen-julia-schneider-dachte-nicht-an-rueckzug](https://www.spiegel.de/politik/fall-stefan-gelbhaar-die-gruenen-julia-schneider-dachte-nicht-an-rueckzug-a-ec90de2d-d0e4-4018-b378-c02f5414d2a1#ref=rss)
-### migrationspolitik
-
-* [https://www.spiegel.de/panorama/migrationspolitik-tausende-menschen-demonstrieren-in-deutschland-gegen-rechts](https://www.spiegel.de/panorama/migrationspolitik-tausende-menschen-demonstrieren-in-deutschland-gegen-rechts-a-98744369-4b59-44f7-85c4-553aed83538c#ref=rss)
-* [https://www.spiegel.de/ausland/migrationspolitik-italien-holt-fluechtlinge-wieder-aus-albanien-ab](https://www.spiegel.de/ausland/migrationspolitik-italien-holt-fluechtlinge-wieder-aus-albanien-ab-a-a079853e-5850-4279-ab78-24887b393685#ref=rss)
-### tausende
-
-* [https://www.spiegel.de/panorama/migrationspolitik-tausende-menschen-demonstrieren-in-deutschland-gegen-rechts](https://www.spiegel.de/panorama/migrationspolitik-tausende-menschen-demonstrieren-in-deutschland-gegen-rechts-a-98744369-4b59-44f7-85c4-553aed83538c#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/tiktok-tausende-schauen-kinofilme-illegal-ueber-die-video-app](https://www.spiegel.de/netzwelt/web/tiktok-tausende-schauen-kinofilme-illegal-ueber-die-video-app-a-2c5ebba4-1738-4e46-9f02-e5371ba09ae3#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/panorama/migrationspolitik-tausende-menschen-demonstrieren-in-deutschland-gegen-rechts](https://www.spiegel.de/panorama/migrationspolitik-tausende-menschen-demonstrieren-in-deutschland-gegen-rechts-a-98744369-4b59-44f7-85c4-553aed83538c#ref=rss)
-### deutschland
+* [https://www.spiegel.de/ausland/ukraine-krieg-15-tote-nach-russischen-luftangriffen](https://www.spiegel.de/ausland/ukraine-krieg-15-tote-nach-russischen-luftangriffen-a-d9c8e2cd-b1e2-4274-ae11-449adcf3a78e#ref=rss)
+* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-kriegsende-die-konferenz-von-jalta-im-februar-1945](https://www.spiegel.de/geschichte/zweiter-weltkrieg-kriegsende-die-konferenz-von-jalta-im-februar-1945-a-34019deb-8ee7-4726-8bad-68a2530b7ffd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/generationenkonflikt-warum-man-die-kinder-nicht-als-tiktok-junkies-abstempeln-sollte](https://www.spiegel.de/politik/deutschland/generationenkonflikt-warum-man-die-kinder-nicht-als-tiktok-junkies-abstempeln-sollte-a-ca4aa394-f017-49c6-9f45-78281ad42b38#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-cdu-ruestet-sich-mit-massnahmenkatalog-fuer-den-wahlsieg](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-cdu-ruestet-sich-mit-massnahmenkatalog-fuer-den-wahlsieg-a-0756c61f-f557-4609-b16c-d3cb7b6019ba#ref=rss)
+* [https://www.spiegel.de/ausland/streit-mit-gazprom-transnistrien-erhaelt-gaslieferungen-aus-moldau](https://www.spiegel.de/ausland/streit-mit-gazprom-transnistrien-erhaelt-gaslieferungen-aus-moldau-a-9b304119-ae87-4a14-a919-ff5279742974#ref=rss)
+* [https://www.spiegel.de/ausland/schule-in-kursk-dutzende-menschen-nach-angriff-in-truemmern-eingeschlossen](https://www.spiegel.de/ausland/schule-in-kursk-dutzende-menschen-nach-angriff-in-truemmern-eingeschlossen-a-909d77a5-9308-4d9f-9163-abdcc5e8373d#ref=rss)
+### trump
 
-* [https://www.spiegel.de/panorama/migrationspolitik-tausende-menschen-demonstrieren-in-deutschland-gegen-rechts](https://www.spiegel.de/panorama/migrationspolitik-tausende-menschen-demonstrieren-in-deutschland-gegen-rechts-a-98744369-4b59-44f7-85c4-553aed83538c#ref=rss)
-### cdu
+* [https://www.spiegel.de/kultur/ulf-poschardt-drastik-a-la-trump-und-musk-im-neuen-buch](https://www.spiegel.de/kultur/ulf-poschardt-drastik-a-la-trump-und-musk-im-neuen-buch-a-e01615f7-d54e-4009-b023-2b3f1cc3fc21#ref=rss)
+* [https://www.spiegel.de/ausland/us-demokraten-ken-martin-als-neuer-vorsitzender-gewaehlt](https://www.spiegel.de/ausland/us-demokraten-ken-martin-als-neuer-vorsitzender-gewaehlt-a-c1ecbdc5-7caf-4e07-bd5e-a0a2911fe93d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-china-kanada-und-mexiko-reagieren-mit-gegenmassnahmen-auf-us-zoelle](https://www.spiegel.de/wirtschaft/donald-trump-china-kanada-und-mexiko-reagieren-mit-gegenmassnahmen-auf-us-zoelle-a-95c79630-525c-4588-9e75-c5523a0c7359#ref=rss)
+### millionen
 
-* [https://www.spiegel.de/panorama/migrationspolitik-tausende-menschen-demonstrieren-in-deutschland-gegen-rechts](https://www.spiegel.de/panorama/migrationspolitik-tausende-menschen-demonstrieren-in-deutschland-gegen-rechts-a-98744369-4b59-44f7-85c4-553aed83538c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-gruene-armin-laschet-lud-vor-hitziger-bundestagsdebatte-spitzenpolitiker-zur-privatparty](https://www.spiegel.de/politik/deutschland/cdu-csu-und-gruene-armin-laschet-lud-vor-hitziger-bundestagsdebatte-spitzenpolitiker-zur-privatparty-a-4d835b50-cff2-45d2-a5ed-d3f88b6400d8#ref=rss)
-### csu
+* [https://www.spiegel.de/auto/silberpfeil-rennwagen-fuer-46-5-millionen-euro-versteigert](https://www.spiegel.de/auto/silberpfeil-rennwagen-fuer-46-5-millionen-euro-versteigert-a-49d15f35-82ac-490d-8d95-4a24ad802f94#ref=rss)
+* [https://www.spiegel.de/ausland/elon-musk-soll-zugang-zu-zahlungssystem-des-us-finanzministeriums-haben](https://www.spiegel.de/ausland/elon-musk-soll-zugang-zu-zahlungssystem-des-us-finanzministeriums-haben-a-a505e13a-9263-4a6f-b32e-898e4cd62c7d#ref=rss)
+* [https://www.spiegel.de/kultur/welfenschatz-ist-der-schatz-im-berliner-museum-ns-raubgut](https://www.spiegel.de/kultur/welfenschatz-ist-der-schatz-im-berliner-museum-ns-raubgut-a-8ddb93ad-8622-403b-aed9-8f57f3ef183c#ref=rss)
+### musk
 
-* [https://www.spiegel.de/panorama/migrationspolitik-tausende-menschen-demonstrieren-in-deutschland-gegen-rechts](https://www.spiegel.de/panorama/migrationspolitik-tausende-menschen-demonstrieren-in-deutschland-gegen-rechts-a-98744369-4b59-44f7-85c4-553aed83538c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-gruene-armin-laschet-lud-vor-hitziger-bundestagsdebatte-spitzenpolitiker-zur-privatparty](https://www.spiegel.de/politik/deutschland/cdu-csu-und-gruene-armin-laschet-lud-vor-hitziger-bundestagsdebatte-spitzenpolitiker-zur-privatparty-a-4d835b50-cff2-45d2-a5ed-d3f88b6400d8#ref=rss)
-### rebecca
-
-* [https://www.spiegel.de/kultur/literatur/rebecca-yarros-onyx-storm-drachen-sex-drama-und-gewalt](https://www.spiegel.de/kultur/literatur/rebecca-yarros-onyx-storm-drachen-sex-drama-und-gewalt-a-ec38b7fc-65f3-436c-899d-f1159ab9bc18#ref=rss)
-### yarros
-
-* [https://www.spiegel.de/kultur/literatur/rebecca-yarros-onyx-storm-drachen-sex-drama-und-gewalt](https://www.spiegel.de/kultur/literatur/rebecca-yarros-onyx-storm-drachen-sex-drama-und-gewalt-a-ec38b7fc-65f3-436c-899d-f1159ab9bc18#ref=rss)
-### onyx
-
-* [https://www.spiegel.de/kultur/literatur/rebecca-yarros-onyx-storm-drachen-sex-drama-und-gewalt](https://www.spiegel.de/kultur/literatur/rebecca-yarros-onyx-storm-drachen-sex-drama-und-gewalt-a-ec38b7fc-65f3-436c-899d-f1159ab9bc18#ref=rss)
-### storm
-
-* [https://www.spiegel.de/kultur/literatur/rebecca-yarros-onyx-storm-drachen-sex-drama-und-gewalt](https://www.spiegel.de/kultur/literatur/rebecca-yarros-onyx-storm-drachen-sex-drama-und-gewalt-a-ec38b7fc-65f3-436c-899d-f1159ab9bc18#ref=rss)
-### dank
-
-* [https://www.spiegel.de/kultur/literatur/rebecca-yarros-onyx-storm-drachen-sex-drama-und-gewalt](https://www.spiegel.de/kultur/literatur/rebecca-yarros-onyx-storm-drachen-sex-drama-und-gewalt-a-ec38b7fc-65f3-436c-899d-f1159ab9bc18#ref=rss)
-* [https://www.spiegel.de/panorama/leute/lily-collins-emily-in-paris-star-postet-babyfoto](https://www.spiegel.de/panorama/leute/lily-collins-emily-in-paris-star-postet-babyfoto-a-421a71a9-e6f1-4761-9b1b-47b943e7397e#ref=rss)
-### platz
-
-* [https://www.spiegel.de/kultur/literatur/rebecca-yarros-onyx-storm-drachen-sex-drama-und-gewalt](https://www.spiegel.de/kultur/literatur/rebecca-yarros-onyx-storm-drachen-sex-drama-und-gewalt-a-ec38b7fc-65f3-436c-899d-f1159ab9bc18#ref=rss)
-* [https://www.spiegel.de/auto/fahrberichte/kia-ev3-im-test-kompakt-suv-mit-ungewoehnlichem-design](https://www.spiegel.de/auto/fahrberichte/kia-ev3-im-test-kompakt-suv-mit-ungewoehnlichem-design-a-1db0622e-a2d2-48db-a8f9-bff9e9f21c2e#ref=rss)
-### nathalie
-
-* [https://www.spiegel.de/sport/wintersport/nathalie-armbruster-mit-weltcupsieg-in-der-nordischen-kombination-erst-schreibt-sie-geschichte-dann-ihr-abitur](https://www.spiegel.de/sport/wintersport/nathalie-armbruster-mit-weltcupsieg-in-der-nordischen-kombination-erst-schreibt-sie-geschichte-dann-ihr-abitur-a-ad3a63d1-2d6b-4570-beea-861b76ee42a4#ref=rss)
-### armbruster
-
-* [https://www.spiegel.de/sport/wintersport/nathalie-armbruster-mit-weltcupsieg-in-der-nordischen-kombination-erst-schreibt-sie-geschichte-dann-ihr-abitur](https://www.spiegel.de/sport/wintersport/nathalie-armbruster-mit-weltcupsieg-in-der-nordischen-kombination-erst-schreibt-sie-geschichte-dann-ihr-abitur-a-ad3a63d1-2d6b-4570-beea-861b76ee42a4#ref=rss)
-### nordischen
-
-* [https://www.spiegel.de/sport/wintersport/nathalie-armbruster-mit-weltcupsieg-in-der-nordischen-kombination-erst-schreibt-sie-geschichte-dann-ihr-abitur](https://www.spiegel.de/sport/wintersport/nathalie-armbruster-mit-weltcupsieg-in-der-nordischen-kombination-erst-schreibt-sie-geschichte-dann-ihr-abitur-a-ad3a63d1-2d6b-4570-beea-861b76ee42a4#ref=rss)
-### kombination
-
-* [https://www.spiegel.de/sport/wintersport/nathalie-armbruster-mit-weltcupsieg-in-der-nordischen-kombination-erst-schreibt-sie-geschichte-dann-ihr-abitur](https://www.spiegel.de/sport/wintersport/nathalie-armbruster-mit-weltcupsieg-in-der-nordischen-kombination-erst-schreibt-sie-geschichte-dann-ihr-abitur-a-ad3a63d1-2d6b-4570-beea-861b76ee42a4#ref=rss)
-### nie
-
-* [https://www.spiegel.de/sport/wintersport/nathalie-armbruster-mit-weltcupsieg-in-der-nordischen-kombination-erst-schreibt-sie-geschichte-dann-ihr-abitur](https://www.spiegel.de/sport/wintersport/nathalie-armbruster-mit-weltcupsieg-in-der-nordischen-kombination-erst-schreibt-sie-geschichte-dann-ihr-abitur-a-ad3a63d1-2d6b-4570-beea-861b76ee42a4#ref=rss)
-* [https://www.spiegel.de/kultur/desiree-nosbusch-ueber-den-verlust-ihrer-brueder-jeder-trauert-auf-seine-ganz-persoenliche-art-und-weise](https://www.spiegel.de/kultur/desiree-nosbusch-ueber-den-verlust-ihrer-brueder-jeder-trauert-auf-seine-ganz-persoenliche-art-und-weise-a-a12c3dc1-313e-47f2-a18d-71f31f9cc599#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-kompakt-harry-kane-fuehrt-bayern-zum-sieg-ueber-kiel-borussia-dortmund-gewinnt-vor-kovac-amtsantritt](https://www.spiegel.de/sport/fussball/bundesliga-kompakt-harry-kane-fuehrt-bayern-zum-sieg-ueber-kiel-borussia-dortmund-gewinnt-vor-kovac-amtsantritt-a-406a9aae-28ba-4883-aaf7-7465899cfc7b#ref=rss)
-### kiel
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-kompakt-harry-kane-fuehrt-bayern-zum-sieg-ueber-kiel-borussia-dortmund-gewinnt-vor-kovac-amtsantritt](https://www.spiegel.de/sport/fussball/bundesliga-kompakt-harry-kane-fuehrt-bayern-zum-sieg-ueber-kiel-borussia-dortmund-gewinnt-vor-kovac-amtsantritt-a-406a9aae-28ba-4883-aaf7-7465899cfc7b#ref=rss)
+* [https://www.spiegel.de/kultur/ulf-poschardt-drastik-a-la-trump-und-musk-im-neuen-buch](https://www.spiegel.de/kultur/ulf-poschardt-drastik-a-la-trump-und-musk-im-neuen-buch-a-e01615f7-d54e-4009-b023-2b3f1cc3fc21#ref=rss)
+* [https://www.spiegel.de/ausland/elon-musk-soll-zugang-zu-zahlungssystem-des-us-finanzministeriums-haben](https://www.spiegel.de/ausland/elon-musk-soll-zugang-zu-zahlungssystem-des-us-finanzministeriums-haben-a-a505e13a-9263-4a6f-b32e-898e4cd62c7d#ref=rss)
 ### fc
 
-* [https://www.spiegel.de/sport/fussball/bundesliga-kompakt-harry-kane-fuehrt-bayern-zum-sieg-ueber-kiel-borussia-dortmund-gewinnt-vor-kovac-amtsantritt](https://www.spiegel.de/sport/fussball/bundesliga-kompakt-harry-kane-fuehrt-bayern-zum-sieg-ueber-kiel-borussia-dortmund-gewinnt-vor-kovac-amtsantritt-a-406a9aae-28ba-4883-aaf7-7465899cfc7b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/premier-league-fabian-huerzeler-kassiert-mit-brighton-historische-0-7-klatsche](https://www.spiegel.de/sport/fussball/premier-league-fabian-huerzeler-kassiert-mit-brighton-historische-0-7-klatsche-a-54ad1501-873a-40a5-97d1-4d29800da6f5#ref=rss)
-### désirée
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-geht-unter-magdeburgs-martijn-kaars-trifft-vierfach](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-geht-unter-magdeburgs-martijn-kaars-trifft-vierfach-a-31ddbb18-da13-48e0-aae4-6b772e7ffb82#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-schlaegt-holstein-kiel-gefaehrliche-siege](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-schlaegt-holstein-kiel-gefaehrliche-siege-a-136afac4-111e-4b28-90a7-3fbaeb4383fc#ref=rss)
+### viele
 
-* [https://www.spiegel.de/kultur/desiree-nosbusch-ueber-den-verlust-ihrer-brueder-jeder-trauert-auf-seine-ganz-persoenliche-art-und-weise](https://www.spiegel.de/kultur/desiree-nosbusch-ueber-den-verlust-ihrer-brueder-jeder-trauert-auf-seine-ganz-persoenliche-art-und-weise-a-a12c3dc1-313e-47f2-a18d-71f31f9cc599#ref=rss)
-### nosbusch
+* [https://www.spiegel.de/wirtschaft/energiekosten-moegliche-steuersenkung-koennte-stromkosten-um-sieben-prozent-verringern](https://www.spiegel.de/wirtschaft/energiekosten-moegliche-steuersenkung-koennte-stromkosten-um-sieben-prozent-verringern-a-c702343b-48d4-44bd-b9a4-9d09fe6d8cbb#ref=rss)
+* [https://www.spiegel.de/auto/silberpfeil-rennwagen-fuer-46-5-millionen-euro-versteigert](https://www.spiegel.de/auto/silberpfeil-rennwagen-fuer-46-5-millionen-euro-versteigert-a-49d15f35-82ac-490d-8d95-4a24ad802f94#ref=rss)
+* [https://www.spiegel.de/ausland/schule-in-kursk-dutzende-menschen-nach-angriff-in-truemmern-eingeschlossen](https://www.spiegel.de/ausland/schule-in-kursk-dutzende-menschen-nach-angriff-in-truemmern-eingeschlossen-a-909d77a5-9308-4d9f-9163-abdcc5e8373d#ref=rss)
+### laut
 
-* [https://www.spiegel.de/kultur/desiree-nosbusch-ueber-den-verlust-ihrer-brueder-jeder-trauert-auf-seine-ganz-persoenliche-art-und-weise](https://www.spiegel.de/kultur/desiree-nosbusch-ueber-den-verlust-ihrer-brueder-jeder-trauert-auf-seine-ganz-persoenliche-art-und-weise-a-a12c3dc1-313e-47f2-a18d-71f31f9cc599#ref=rss)
-### eltern
+* [https://www.spiegel.de/wirtschaft/energiekosten-moegliche-steuersenkung-koennte-stromkosten-um-sieben-prozent-verringern](https://www.spiegel.de/wirtschaft/energiekosten-moegliche-steuersenkung-koennte-stromkosten-um-sieben-prozent-verringern-a-c702343b-48d4-44bd-b9a4-9d09fe6d8cbb#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-15-tote-nach-russischen-luftangriffen](https://www.spiegel.de/ausland/ukraine-krieg-15-tote-nach-russischen-luftangriffen-a-d9c8e2cd-b1e2-4274-ae11-449adcf3a78e#ref=rss)
+* [https://www.spiegel.de/ausland/elon-musk-soll-zugang-zu-zahlungssystem-des-us-finanzministeriums-haben](https://www.spiegel.de/ausland/elon-musk-soll-zugang-zu-zahlungssystem-des-us-finanzministeriums-haben-a-a505e13a-9263-4a6f-b32e-898e4cd62c7d#ref=rss)
+### tote
 
-* [https://www.spiegel.de/kultur/desiree-nosbusch-ueber-den-verlust-ihrer-brueder-jeder-trauert-auf-seine-ganz-persoenliche-art-und-weise](https://www.spiegel.de/kultur/desiree-nosbusch-ueber-den-verlust-ihrer-brueder-jeder-trauert-auf-seine-ganz-persoenliche-art-und-weise-a-a12c3dc1-313e-47f2-a18d-71f31f9cc599#ref=rss)
-* [https://www.spiegel.de/panorama/leute/lily-collins-emily-in-paris-star-postet-babyfoto](https://www.spiegel.de/panorama/leute/lily-collins-emily-in-paris-star-postet-babyfoto-a-421a71a9-e6f1-4761-9b1b-47b943e7397e#ref=rss)
-### schauspielerin
+* [https://www.spiegel.de/ausland/sudan-mindestens-54-tote-bei-angriff-auf-markt-in-omdurman](https://www.spiegel.de/ausland/sudan-mindestens-54-tote-bei-angriff-auf-markt-in-omdurman-a-fbd1a485-7c3b-44a9-a058-76f9d8d79dab#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-15-tote-nach-russischen-luftangriffen](https://www.spiegel.de/ausland/ukraine-krieg-15-tote-nach-russischen-luftangriffen-a-d9c8e2cd-b1e2-4274-ae11-449adcf3a78e#ref=rss)
+### elon
 
-* [https://www.spiegel.de/kultur/desiree-nosbusch-ueber-den-verlust-ihrer-brueder-jeder-trauert-auf-seine-ganz-persoenliche-art-und-weise](https://www.spiegel.de/kultur/desiree-nosbusch-ueber-den-verlust-ihrer-brueder-jeder-trauert-auf-seine-ganz-persoenliche-art-und-weise-a-a12c3dc1-313e-47f2-a18d-71f31f9cc599#ref=rss)
-* [https://www.spiegel.de/panorama/leute/lily-collins-emily-in-paris-star-postet-babyfoto](https://www.spiegel.de/panorama/leute/lily-collins-emily-in-paris-star-postet-babyfoto-a-421a71a9-e6f1-4761-9b1b-47b943e7397e#ref=rss)
-### bundespräsidenten
+* [https://www.spiegel.de/kultur/ulf-poschardt-drastik-a-la-trump-und-musk-im-neuen-buch](https://www.spiegel.de/kultur/ulf-poschardt-drastik-a-la-trump-und-musk-im-neuen-buch-a-e01615f7-d54e-4009-b023-2b3f1cc3fc21#ref=rss)
+* [https://www.spiegel.de/ausland/elon-musk-soll-zugang-zu-zahlungssystem-des-us-finanzministeriums-haben](https://www.spiegel.de/ausland/elon-musk-soll-zugang-zu-zahlungssystem-des-us-finanzministeriums-haben-a-a505e13a-9263-4a6f-b32e-898e4cd62c7d#ref=rss)
+### 2
 
-* [https://www.spiegel.de/politik/horst-koehler-das-wirken-des-frueheren-bundespraesidenten-in-bildern](https://www.spiegel.de/politik/horst-koehler-das-wirken-des-frueheren-bundespraesidenten-in-bildern-a-54c1f2a8-1779-45fb-b0c9-68670f9604db#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/horst-koehler-reaktionen-auf-den-tod-des-ehemaligen-bundespraesidenten-seine-stimme-wird-fehlen](https://www.spiegel.de/politik/deutschland/horst-koehler-reaktionen-auf-den-tod-des-ehemaligen-bundespraesidenten-seine-stimme-wird-fehlen-a-aaf5761b-b139-442e-8647-3a6699443fc8#ref=rss)
-### jahren
+* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-kriegsende-die-konferenz-von-jalta-im-februar-1945](https://www.spiegel.de/geschichte/zweiter-weltkrieg-kriegsende-die-konferenz-von-jalta-im-februar-1945-a-34019deb-8ee7-4726-8bad-68a2530b7ffd#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-geht-unter-magdeburgs-martijn-kaars-trifft-vierfach](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-geht-unter-magdeburgs-martijn-kaars-trifft-vierfach-a-31ddbb18-da13-48e0-aae4-6b772e7ffb82#ref=rss)
+### waren
 
-* [https://www.spiegel.de/politik/horst-koehler-das-wirken-des-frueheren-bundespraesidenten-in-bildern](https://www.spiegel.de/politik/horst-koehler-das-wirken-des-frueheren-bundespraesidenten-in-bildern-a-54c1f2a8-1779-45fb-b0c9-68670f9604db#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/horst-koehler-warum-mir-der-ruecktritt-des-ehemaligen-praesidenten-immer-ein-schlechtes-gewissen-gemacht-hat](https://www.spiegel.de/politik/deutschland/horst-koehler-warum-mir-der-ruecktritt-des-ehemaligen-praesidenten-immer-ein-schlechtes-gewissen-gemacht-hat-a-39a1ff14-a531-44ba-b267-dc5029f9f13e#ref=rss)
-### zeit
+* [https://www.spiegel.de/ausland/streit-mit-gazprom-transnistrien-erhaelt-gaslieferungen-aus-moldau](https://www.spiegel.de/ausland/streit-mit-gazprom-transnistrien-erhaelt-gaslieferungen-aus-moldau-a-9b304119-ae87-4a14-a919-ff5279742974#ref=rss)
+* [https://www.spiegel.de/ausland/schule-in-kursk-dutzende-menschen-nach-angriff-in-truemmern-eingeschlossen](https://www.spiegel.de/ausland/schule-in-kursk-dutzende-menschen-nach-angriff-in-truemmern-eingeschlossen-a-909d77a5-9308-4d9f-9163-abdcc5e8373d#ref=rss)
+### eu
 
-* [https://www.spiegel.de/politik/horst-koehler-das-wirken-des-frueheren-bundespraesidenten-in-bildern](https://www.spiegel.de/politik/horst-koehler-das-wirken-des-frueheren-bundespraesidenten-in-bildern-a-54c1f2a8-1779-45fb-b0c9-68670f9604db#ref=rss)
-* [https://www.spiegel.de/panorama/philadelphia-sechs-mexikaner-bei-flugzeugabsturz-gestorben](https://www.spiegel.de/panorama/philadelphia-sechs-mexikaner-bei-flugzeugabsturz-gestorben-a-c5b35187-949d-410b-bc28-75b312aaa36c#ref=rss)
-### bundespräsident
+* [https://www.spiegel.de/wirtschaft/energiekosten-moegliche-steuersenkung-koennte-stromkosten-um-sieben-prozent-verringern](https://www.spiegel.de/wirtschaft/energiekosten-moegliche-steuersenkung-koennte-stromkosten-um-sieben-prozent-verringern-a-c702343b-48d4-44bd-b9a4-9d09fe6d8cbb#ref=rss)
+* [https://www.spiegel.de/ausland/streit-mit-gazprom-transnistrien-erhaelt-gaslieferungen-aus-moldau](https://www.spiegel.de/ausland/streit-mit-gazprom-transnistrien-erhaelt-gaslieferungen-aus-moldau-a-9b304119-ae87-4a14-a919-ff5279742974#ref=rss)
+### kinder
 
-* [https://www.spiegel.de/politik/horst-koehler-das-wirken-des-frueheren-bundespraesidenten-in-bildern](https://www.spiegel.de/politik/horst-koehler-das-wirken-des-frueheren-bundespraesidenten-in-bildern-a-54c1f2a8-1779-45fb-b0c9-68670f9604db#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/horst-koehler-warum-mir-der-ruecktritt-des-ehemaligen-praesidenten-immer-ein-schlechtes-gewissen-gemacht-hat](https://www.spiegel.de/politik/deutschland/horst-koehler-warum-mir-der-ruecktritt-des-ehemaligen-praesidenten-immer-ein-schlechtes-gewissen-gemacht-hat-a-39a1ff14-a531-44ba-b267-dc5029f9f13e#ref=rss)
-### dialog
+* [https://www.spiegel.de/familie/kinder-und-trauer-abschied-nehmen-ist-eine-unterschaetzte-superkraft](https://www.spiegel.de/familie/kinder-und-trauer-abschied-nehmen-ist-eine-unterschaetzte-superkraft-a-659e92c5-f5b8-47b9-8e38-2d4feafff79e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/generationenkonflikt-warum-man-die-kinder-nicht-als-tiktok-junkies-abstempeln-sollte](https://www.spiegel.de/politik/deutschland/generationenkonflikt-warum-man-die-kinder-nicht-als-tiktok-junkies-abstempeln-sollte-a-ca4aa394-f017-49c6-9f45-78281ad42b38#ref=rss)
+### wir
 
-* [https://www.spiegel.de/politik/horst-koehler-das-wirken-des-frueheren-bundespraesidenten-in-bildern](https://www.spiegel.de/politik/horst-koehler-das-wirken-des-frueheren-bundespraesidenten-in-bildern-a-54c1f2a8-1779-45fb-b0c9-68670f9604db#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/horst-koehler-reaktionen-auf-den-tod-des-ehemaligen-bundespraesidenten-seine-stimme-wird-fehlen](https://www.spiegel.de/politik/deutschland/horst-koehler-reaktionen-auf-den-tod-des-ehemaligen-bundespraesidenten-seine-stimme-wird-fehlen-a-aaf5761b-b139-442e-8647-3a6699443fc8#ref=rss)
-### japan
+* [https://www.spiegel.de/familie/kinder-und-trauer-abschied-nehmen-ist-eine-unterschaetzte-superkraft](https://www.spiegel.de/familie/kinder-und-trauer-abschied-nehmen-ist-eine-unterschaetzte-superkraft-a-659e92c5-f5b8-47b9-8e38-2d4feafff79e#ref=rss)
+* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-kriegsende-die-konferenz-von-jalta-im-februar-1945](https://www.spiegel.de/geschichte/zweiter-weltkrieg-kriegsende-die-konferenz-von-jalta-im-februar-1945-a-34019deb-8ee7-4726-8bad-68a2530b7ffd#ref=rss)
+### leben
 
-* [https://www.spiegel.de/ausland/japan-ist-der-naechste-tenno-weiblich](https://www.spiegel.de/ausland/japan-ist-der-naechste-tenno-weiblich-a-b6cd7c2a-c98d-4721-b37c-1f40db9f1e7c#ref=rss)
-### hoffen
+* [https://www.spiegel.de/familie/kinder-und-trauer-abschied-nehmen-ist-eine-unterschaetzte-superkraft](https://www.spiegel.de/familie/kinder-und-trauer-abschied-nehmen-ist-eine-unterschaetzte-superkraft-a-659e92c5-f5b8-47b9-8e38-2d4feafff79e#ref=rss)
+* [https://www.spiegel.de/panorama/leute/katy-perry-haelt-sich-bei-kritikern-an-den-rat-ihres-therapeuten](https://www.spiegel.de/panorama/leute/katy-perry-haelt-sich-bei-kritikern-an-den-rat-ihres-therapeuten-a-d777eb97-9704-4490-b535-a95d6a984a53#ref=rss)
+### lang
 
-* [https://www.spiegel.de/ausland/japan-ist-der-naechste-tenno-weiblich](https://www.spiegel.de/ausland/japan-ist-der-naechste-tenno-weiblich-a-b6cd7c2a-c98d-4721-b37c-1f40db9f1e7c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/australien-koalas-durch-chlamydien-vom-aussterben-bedroht-kann-eine-impfung-sie-retten](https://www.spiegel.de/wissenschaft/natur/australien-koalas-durch-chlamydien-vom-aussterben-bedroht-kann-eine-impfung-sie-retten-a-d0887991-5af2-4c59-900b-e0b76a099f0e#ref=rss)
-### afd
+* [https://www.spiegel.de/familie/kinder-und-trauer-abschied-nehmen-ist-eine-unterschaetzte-superkraft](https://www.spiegel.de/familie/kinder-und-trauer-abschied-nehmen-ist-eine-unterschaetzte-superkraft-a-659e92c5-f5b8-47b9-8e38-2d4feafff79e#ref=rss)
+* [https://www.spiegel.de/ausland/streit-mit-gazprom-transnistrien-erhaelt-gaslieferungen-aus-moldau](https://www.spiegel.de/ausland/streit-mit-gazprom-transnistrien-erhaelt-gaslieferungen-aus-moldau-a-9b304119-ae87-4a14-a919-ff5279742974#ref=rss)
+### universitäten
 
-* [https://www.spiegel.de/politik/deutschland/afd-junge-alternative-wird-durch-neue-organisation-ersetzt](https://www.spiegel.de/politik/deutschland/afd-junge-alternative-wird-durch-neue-organisation-ersetzt-a-eb16564a-6846-4415-8945-efb3606b0c35#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/fdp-im-wahlkampf-grenzueberschreitungen-im-toten-winkel](https://www.spiegel.de/politik/deutschland/fdp-im-wahlkampf-grenzueberschreitungen-im-toten-winkel-a-761e88dd-a095-430f-8f6d-d10d4e6b7478#ref=rss)
-### junge
+* [https://www.spiegel.de/politik/deutschland/antisemitismus-bundestag-resolution-zur-bekaempfung-an-universitaeten-eine-gute-idee](https://www.spiegel.de/politik/deutschland/antisemitismus-bundestag-resolution-zur-bekaempfung-an-universitaeten-eine-gute-idee-a-413c6be5-acf5-4baa-8137-7bc85df3bb89#ref=rss)
+### mindestens
 
-* [https://www.spiegel.de/politik/deutschland/afd-junge-alternative-wird-durch-neue-organisation-ersetzt](https://www.spiegel.de/politik/deutschland/afd-junge-alternative-wird-durch-neue-organisation-ersetzt-a-eb16564a-6846-4415-8945-efb3606b0c35#ref=rss)
-### alternative
+* [https://www.spiegel.de/ausland/sudan-mindestens-54-tote-bei-angriff-auf-markt-in-omdurman](https://www.spiegel.de/ausland/sudan-mindestens-54-tote-bei-angriff-auf-markt-in-omdurman-a-fbd1a485-7c3b-44a9-a058-76f9d8d79dab#ref=rss)
+* [https://www.spiegel.de/ausland/schule-in-kursk-dutzende-menschen-nach-angriff-in-truemmern-eingeschlossen](https://www.spiegel.de/ausland/schule-in-kursk-dutzende-menschen-nach-angriff-in-truemmern-eingeschlossen-a-909d77a5-9308-4d9f-9163-abdcc5e8373d#ref=rss)
+### angriff
 
-* [https://www.spiegel.de/politik/deutschland/afd-junge-alternative-wird-durch-neue-organisation-ersetzt](https://www.spiegel.de/politik/deutschland/afd-junge-alternative-wird-durch-neue-organisation-ersetzt-a-eb16564a-6846-4415-8945-efb3606b0c35#ref=rss)
-### ersetzt
+* [https://www.spiegel.de/ausland/sudan-mindestens-54-tote-bei-angriff-auf-markt-in-omdurman](https://www.spiegel.de/ausland/sudan-mindestens-54-tote-bei-angriff-auf-markt-in-omdurman-a-fbd1a485-7c3b-44a9-a058-76f9d8d79dab#ref=rss)
+* [https://www.spiegel.de/ausland/schule-in-kursk-dutzende-menschen-nach-angriff-in-truemmern-eingeschlossen](https://www.spiegel.de/ausland/schule-in-kursk-dutzende-menschen-nach-angriff-in-truemmern-eingeschlossen-a-909d77a5-9308-4d9f-9163-abdcc5e8373d#ref=rss)
+### markt
 
-* [https://www.spiegel.de/politik/deutschland/afd-junge-alternative-wird-durch-neue-organisation-ersetzt](https://www.spiegel.de/politik/deutschland/afd-junge-alternative-wird-durch-neue-organisation-ersetzt-a-eb16564a-6846-4415-8945-efb3606b0c35#ref=rss)
-### unternehmen
+* [https://www.spiegel.de/ausland/sudan-mindestens-54-tote-bei-angriff-auf-markt-in-omdurman](https://www.spiegel.de/ausland/sudan-mindestens-54-tote-bei-angriff-auf-markt-in-omdurman-a-fbd1a485-7c3b-44a9-a058-76f9d8d79dab#ref=rss)
+### omdurman
 
-* [https://www.spiegel.de/wirtschaft/buerokratie-unternehmen-kritisieren-staat-tragen-aber-selbst-zur-buerokratie-bei](https://www.spiegel.de/wirtschaft/buerokratie-unternehmen-kritisieren-staat-tragen-aber-selbst-zur-buerokratie-bei-a-77ceb3bd-8fe2-4eae-a108-d09a917a1a52#ref=rss)
-### selbst
+* [https://www.spiegel.de/ausland/sudan-mindestens-54-tote-bei-angriff-auf-markt-in-omdurman](https://www.spiegel.de/ausland/sudan-mindestens-54-tote-bei-angriff-auf-markt-in-omdurman-a-fbd1a485-7c3b-44a9-a058-76f9d8d79dab#ref=rss)
+### ohne
 
-* [https://www.spiegel.de/wirtschaft/buerokratie-unternehmen-kritisieren-staat-tragen-aber-selbst-zur-buerokratie-bei](https://www.spiegel.de/wirtschaft/buerokratie-unternehmen-kritisieren-staat-tragen-aber-selbst-zur-buerokratie-bei-a-77ceb3bd-8fe2-4eae-a108-d09a917a1a52#ref=rss)
-### brettspielklasse
+* [https://www.spiegel.de/ausland/sudan-mindestens-54-tote-bei-angriff-auf-markt-in-omdurman](https://www.spiegel.de/ausland/sudan-mindestens-54-tote-bei-angriff-auf-markt-in-omdurman-a-fbd1a485-7c3b-44a9-a058-76f9d8d79dab#ref=rss)
+* [https://www.spiegel.de/ausland/streit-mit-gazprom-transnistrien-erhaelt-gaslieferungen-aus-moldau](https://www.spiegel.de/ausland/streit-mit-gazprom-transnistrien-erhaelt-gaslieferungen-aus-moldau-a-9b304119-ae87-4a14-a919-ff5279742974#ref=rss)
+### nacht
 
-* [https://www.spiegel.de/panorama/bildung/brettspielklasse-in-hamburg-spielspass-gegen-selbstzweifel](https://www.spiegel.de/panorama/bildung/brettspielklasse-in-hamburg-spielspass-gegen-selbstzweifel-a-fca4d274-3870-4672-a4ee-e9ee96231c5e#ref=rss)
-### hamburg
+* [https://www.spiegel.de/panorama/hamburg-ein-toter-und-sechs-verletzte-bei-wohnungsbrand](https://www.spiegel.de/panorama/hamburg-ein-toter-und-sechs-verletzte-bei-wohnungsbrand-a-43509488-ef47-4527-9161-4678135d89d9#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-15-tote-nach-russischen-luftangriffen](https://www.spiegel.de/ausland/ukraine-krieg-15-tote-nach-russischen-luftangriffen-a-d9c8e2cd-b1e2-4274-ae11-449adcf3a78e#ref=rss)
+### politisch
 
-* [https://www.spiegel.de/panorama/bildung/brettspielklasse-in-hamburg-spielspass-gegen-selbstzweifel](https://www.spiegel.de/panorama/bildung/brettspielklasse-in-hamburg-spielspass-gegen-selbstzweifel-a-fca4d274-3870-4672-a4ee-e9ee96231c5e#ref=rss)
-* [https://www.spiegel.de/kultur/hamburg-hafencity-ein-milliardenvermoegen-ist-keine-qualifikation-fuer-kluge-stadtplanung](https://www.spiegel.de/kultur/hamburg-hafencity-ein-milliardenvermoegen-ist-keine-qualifikation-fuer-kluge-stadtplanung-a-fce87be0-2b96-440b-ab07-a7872086432f#ref=rss)
-### philadelphia
+* [https://www.spiegel.de/panorama/fluechtlinge-anstieg-politisch-motivierter-angriffe-auf-unterkuenfte](https://www.spiegel.de/panorama/fluechtlinge-anstieg-politisch-motivierter-angriffe-auf-unterkuenfte-a-4f69e9a5-9e3e-4d8f-baa8-3bb3220ccf07#ref=rss)
+### angriffe
 
-* [https://www.spiegel.de/panorama/philadelphia-sechs-mexikaner-bei-flugzeugabsturz-gestorben](https://www.spiegel.de/panorama/philadelphia-sechs-mexikaner-bei-flugzeugabsturz-gestorben-a-c5b35187-949d-410b-bc28-75b312aaa36c#ref=rss)
-### sechs
+* [https://www.spiegel.de/panorama/fluechtlinge-anstieg-politisch-motivierter-angriffe-auf-unterkuenfte](https://www.spiegel.de/panorama/fluechtlinge-anstieg-politisch-motivierter-angriffe-auf-unterkuenfte-a-4f69e9a5-9e3e-4d8f-baa8-3bb3220ccf07#ref=rss)
+### russischen
 
-* [https://www.spiegel.de/panorama/philadelphia-sechs-mexikaner-bei-flugzeugabsturz-gestorben](https://www.spiegel.de/panorama/philadelphia-sechs-mexikaner-bei-flugzeugabsturz-gestorben-a-c5b35187-949d-410b-bc28-75b312aaa36c#ref=rss)
-### koalas
+* [https://www.spiegel.de/ausland/ukraine-krieg-15-tote-nach-russischen-luftangriffen](https://www.spiegel.de/ausland/ukraine-krieg-15-tote-nach-russischen-luftangriffen-a-d9c8e2cd-b1e2-4274-ae11-449adcf3a78e#ref=rss)
+### luftangriffen
 
-* [https://www.spiegel.de/wissenschaft/natur/australien-koalas-durch-chlamydien-vom-aussterben-bedroht-kann-eine-impfung-sie-retten](https://www.spiegel.de/wissenschaft/natur/australien-koalas-durch-chlamydien-vom-aussterben-bedroht-kann-eine-impfung-sie-retten-a-d0887991-5af2-4c59-900b-e0b76a099f0e#ref=rss)
-### impfung
+* [https://www.spiegel.de/ausland/ukraine-krieg-15-tote-nach-russischen-luftangriffen](https://www.spiegel.de/ausland/ukraine-krieg-15-tote-nach-russischen-luftangriffen-a-d9c8e2cd-b1e2-4274-ae11-449adcf3a78e#ref=rss)
+### meldet
 
-* [https://www.spiegel.de/wissenschaft/natur/australien-koalas-durch-chlamydien-vom-aussterben-bedroht-kann-eine-impfung-sie-retten](https://www.spiegel.de/wissenschaft/natur/australien-koalas-durch-chlamydien-vom-aussterben-bedroht-kann-eine-impfung-sie-retten-a-d0887991-5af2-4c59-900b-e0b76a099f0e#ref=rss)
-### kia
+* [https://www.spiegel.de/ausland/ukraine-krieg-15-tote-nach-russischen-luftangriffen](https://www.spiegel.de/ausland/ukraine-krieg-15-tote-nach-russischen-luftangriffen-a-d9c8e2cd-b1e2-4274-ae11-449adcf3a78e#ref=rss)
+* [https://www.spiegel.de/ausland/schule-in-kursk-dutzende-menschen-nach-angriff-in-truemmern-eingeschlossen](https://www.spiegel.de/ausland/schule-in-kursk-dutzende-menschen-nach-angriff-in-truemmern-eingeschlossen-a-909d77a5-9308-4d9f-9163-abdcc5e8373d#ref=rss)
+### unterdessen
 
-* [https://www.spiegel.de/auto/fahrberichte/kia-ev3-im-test-kompakt-suv-mit-ungewoehnlichem-design](https://www.spiegel.de/auto/fahrberichte/kia-ev3-im-test-kompakt-suv-mit-ungewoehnlichem-design-a-1db0622e-a2d2-48db-a8f9-bff9e9f21c2e#ref=rss)
-### ev3
+* [https://www.spiegel.de/ausland/ukraine-krieg-15-tote-nach-russischen-luftangriffen](https://www.spiegel.de/ausland/ukraine-krieg-15-tote-nach-russischen-luftangriffen-a-d9c8e2cd-b1e2-4274-ae11-449adcf3a78e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-cdu-ruestet-sich-mit-massnahmenkatalog-fuer-den-wahlsieg](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-cdu-ruestet-sich-mit-massnahmenkatalog-fuer-den-wahlsieg-a-0756c61f-f557-4609-b16c-d3cb7b6019ba#ref=rss)
+### euro
 
-* [https://www.spiegel.de/auto/fahrberichte/kia-ev3-im-test-kompakt-suv-mit-ungewoehnlichem-design](https://www.spiegel.de/auto/fahrberichte/kia-ev3-im-test-kompakt-suv-mit-ungewoehnlichem-design-a-1db0622e-a2d2-48db-a8f9-bff9e9f21c2e#ref=rss)
-### kompaktsuv
+* [https://www.spiegel.de/auto/silberpfeil-rennwagen-fuer-46-5-millionen-euro-versteigert](https://www.spiegel.de/auto/silberpfeil-rennwagen-fuer-46-5-millionen-euro-versteigert-a-49d15f35-82ac-490d-8d95-4a24ad802f94#ref=rss)
+### freilassung
 
-* [https://www.spiegel.de/auto/fahrberichte/kia-ev3-im-test-kompakt-suv-mit-ungewoehnlichem-design](https://www.spiegel.de/auto/fahrberichte/kia-ev3-im-test-kompakt-suv-mit-ungewoehnlichem-design-a-1db0622e-a2d2-48db-a8f9-bff9e9f21c2e#ref=rss)
-### premier
+* [https://www.spiegel.de/ausland/israel-ex-geisel-aeussert-sich-erstmals-oeffentlich-seit-freilassung-aus-hamas-gewalt](https://www.spiegel.de/ausland/israel-ex-geisel-aeussert-sich-erstmals-oeffentlich-seit-freilassung-aus-hamas-gewalt-a-ac2f0bf2-3aa7-4116-a153-33f9cd591ced#ref=rss)
+### lars
 
-* [https://www.spiegel.de/sport/fussball/premier-league-fabian-huerzeler-kassiert-mit-brighton-historische-0-7-klatsche](https://www.spiegel.de/sport/fussball/premier-league-fabian-huerzeler-kassiert-mit-brighton-historische-0-7-klatsche-a-54ad1501-873a-40a5-97d1-4d29800da6f5#ref=rss)
-### league
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-der-spd-chef-macht-ein-geheimnis-um-seine-friseurin](https://www.spiegel.de/politik/deutschland/lars-klingbeil-der-spd-chef-macht-ein-geheimnis-um-seine-friseurin-a-5413629e-868d-4d33-b55b-d49f8cffd7c3#ref=rss)
+### klingbeil
 
-* [https://www.spiegel.de/sport/fussball/premier-league-fabian-huerzeler-kassiert-mit-brighton-historische-0-7-klatsche](https://www.spiegel.de/sport/fussball/premier-league-fabian-huerzeler-kassiert-mit-brighton-historische-0-7-klatsche-a-54ad1501-873a-40a5-97d1-4d29800da6f5#ref=rss)
-### fabian
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-der-spd-chef-macht-ein-geheimnis-um-seine-friseurin](https://www.spiegel.de/politik/deutschland/lars-klingbeil-der-spd-chef-macht-ein-geheimnis-um-seine-friseurin-a-5413629e-868d-4d33-b55b-d49f8cffd7c3#ref=rss)
+### spdchef
 
-* [https://www.spiegel.de/sport/fussball/premier-league-fabian-huerzeler-kassiert-mit-brighton-historische-0-7-klatsche](https://www.spiegel.de/sport/fussball/premier-league-fabian-huerzeler-kassiert-mit-brighton-historische-0-7-klatsche-a-54ad1501-873a-40a5-97d1-4d29800da6f5#ref=rss)
-### hürzeler
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-der-spd-chef-macht-ein-geheimnis-um-seine-friseurin](https://www.spiegel.de/politik/deutschland/lars-klingbeil-der-spd-chef-macht-ein-geheimnis-um-seine-friseurin-a-5413629e-868d-4d33-b55b-d49f8cffd7c3#ref=rss)
+### poschardt
 
-* [https://www.spiegel.de/sport/fussball/premier-league-fabian-huerzeler-kassiert-mit-brighton-historische-0-7-klatsche](https://www.spiegel.de/sport/fussball/premier-league-fabian-huerzeler-kassiert-mit-brighton-historische-0-7-klatsche-a-54ad1501-873a-40a5-97d1-4d29800da6f5#ref=rss)
-### alice
+* [https://www.spiegel.de/kultur/ulf-poschardt-drastik-a-la-trump-und-musk-im-neuen-buch](https://www.spiegel.de/kultur/ulf-poschardt-drastik-a-la-trump-und-musk-im-neuen-buch-a-e01615f7-d54e-4009-b023-2b3f1cc3fc21#ref=rss)
+### donald
 
-* [https://www.spiegel.de/politik/deutschland/alice-weidel-was-hat-die-afd-kandidatin-vor](https://www.spiegel.de/politik/deutschland/alice-weidel-was-hat-die-afd-kandidatin-vor-a-05f1fa3c-d48f-4801-a958-215ac03b8cbd#ref=rss)
-### weidel
+* [https://www.spiegel.de/kultur/ulf-poschardt-drastik-a-la-trump-und-musk-im-neuen-buch](https://www.spiegel.de/kultur/ulf-poschardt-drastik-a-la-trump-und-musk-im-neuen-buch-a-e01615f7-d54e-4009-b023-2b3f1cc3fc21#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-china-kanada-und-mexiko-reagieren-mit-gegenmassnahmen-auf-us-zoelle](https://www.spiegel.de/wirtschaft/donald-trump-china-kanada-und-mexiko-reagieren-mit-gegenmassnahmen-auf-us-zoelle-a-95c79630-525c-4588-9e75-c5523a0c7359#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/politik/deutschland/alice-weidel-was-hat-die-afd-kandidatin-vor](https://www.spiegel.de/politik/deutschland/alice-weidel-was-hat-die-afd-kandidatin-vor-a-05f1fa3c-d48f-4801-a958-215ac03b8cbd#ref=rss)
-### italien
+* [https://www.spiegel.de/ausland/elon-musk-soll-zugang-zu-zahlungssystem-des-us-finanzministeriums-haben](https://www.spiegel.de/ausland/elon-musk-soll-zugang-zu-zahlungssystem-des-us-finanzministeriums-haben-a-a505e13a-9263-4a6f-b32e-898e4cd62c7d#ref=rss)
+* [https://www.spiegel.de/kultur/welfenschatz-ist-der-schatz-im-berliner-museum-ns-raubgut](https://www.spiegel.de/kultur/welfenschatz-ist-der-schatz-im-berliner-museum-ns-raubgut-a-8ddb93ad-8622-403b-aed9-8f57f3ef183c#ref=rss)
+### friedrich
 
-* [https://www.spiegel.de/ausland/migrationspolitik-italien-holt-fluechtlinge-wieder-aus-albanien-ab](https://www.spiegel.de/ausland/migrationspolitik-italien-holt-fluechtlinge-wieder-aus-albanien-ab-a-a079853e-5850-4279-ab78-24887b393685#ref=rss)
-### gericht
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-afd-beschaedigter-kandidat-in-einem-beschaedigten-land](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-afd-beschaedigter-kandidat-in-einem-beschaedigten-land-a-7fec155e-f251-4051-b6c5-7b6ee609661e#ref=rss)
+### merz
 
-* [https://www.spiegel.de/ausland/migrationspolitik-italien-holt-fluechtlinge-wieder-aus-albanien-ab](https://www.spiegel.de/ausland/migrationspolitik-italien-holt-fluechtlinge-wieder-aus-albanien-ab-a-a079853e-5850-4279-ab78-24887b393685#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/horst-koehler-warum-mir-der-ruecktritt-des-ehemaligen-praesidenten-immer-ein-schlechtes-gewissen-gemacht-hat](https://www.spiegel.de/politik/deutschland/horst-koehler-warum-mir-der-ruecktritt-des-ehemaligen-praesidenten-immer-ein-schlechtes-gewissen-gemacht-hat-a-39a1ff14-a531-44ba-b267-dc5029f9f13e#ref=rss)
-### donbass
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-im-donbass-die-russen-druecken-die-linien-broeckeln](https://www.spiegel.de/ausland/ukraine-krieg-im-donbass-die-russen-druecken-die-linien-broeckeln-a-7b8fb12b-2512-4e08-a968-419dbc37a2fe#ref=rss)
-### mir
-
-* [https://www.spiegel.de/panorama/gesellschaft/soldat-bei-der-bundeswehr-mir-war-schon-frueh-klar-dass-ich-mein-land-schuetzen-will](https://www.spiegel.de/panorama/gesellschaft/soldat-bei-der-bundeswehr-mir-war-schon-frueh-klar-dass-ich-mein-land-schuetzen-will-a-2935b57d-d845-46c9-8b20-f09abf5c2c98#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/horst-koehler-warum-mir-der-ruecktritt-des-ehemaligen-praesidenten-immer-ein-schlechtes-gewissen-gemacht-hat](https://www.spiegel.de/politik/deutschland/horst-koehler-warum-mir-der-ruecktritt-des-ehemaligen-praesidenten-immer-ein-schlechtes-gewissen-gemacht-hat-a-39a1ff14-a531-44ba-b267-dc5029f9f13e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-afd-beschaedigter-kandidat-in-einem-beschaedigten-land](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-afd-beschaedigter-kandidat-in-einem-beschaedigten-land-a-7fec155e-f251-4051-b6c5-7b6ee609661e#ref=rss)
 ### land
 
-* [https://www.spiegel.de/panorama/gesellschaft/soldat-bei-der-bundeswehr-mir-war-schon-frueh-klar-dass-ich-mein-land-schuetzen-will](https://www.spiegel.de/panorama/gesellschaft/soldat-bei-der-bundeswehr-mir-war-schon-frueh-klar-dass-ich-mein-land-schuetzen-will-a-2935b57d-d845-46c9-8b20-f09abf5c2c98#ref=rss)
-### armin
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-afd-beschaedigter-kandidat-in-einem-beschaedigten-land](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-afd-beschaedigter-kandidat-in-einem-beschaedigten-land-a-7fec155e-f251-4051-b6c5-7b6ee609661e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-cdu-ruestet-sich-mit-massnahmenkatalog-fuer-den-wahlsieg](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-cdu-ruestet-sich-mit-massnahmenkatalog-fuer-den-wahlsieg-a-0756c61f-f557-4609-b16c-d3cb7b6019ba#ref=rss)
+### lage
 
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-gruene-armin-laschet-lud-vor-hitziger-bundestagsdebatte-spitzenpolitiker-zur-privatparty](https://www.spiegel.de/politik/deutschland/cdu-csu-und-gruene-armin-laschet-lud-vor-hitziger-bundestagsdebatte-spitzenpolitiker-zur-privatparty-a-4d835b50-cff2-45d2-a5ed-d3f88b6400d8#ref=rss)
-### laschet
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-afd-beschaedigter-kandidat-in-einem-beschaedigten-land](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-afd-beschaedigter-kandidat-in-einem-beschaedigten-land-a-7fec155e-f251-4051-b6c5-7b6ee609661e#ref=rss)
+* [https://www.spiegel.de/politik/wirtschaft-steuern-aufruestung-wie-deutschland-aus-den-krisen-staerker-hervorgehen-koennte](https://www.spiegel.de/politik/wirtschaft-steuern-aufruestung-wie-deutschland-aus-den-krisen-staerker-hervorgehen-koennte-a-966d8485-2b02-4bb7-a6b3-4b46637b0d75#ref=rss)
+### luka
 
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-gruene-armin-laschet-lud-vor-hitziger-bundestagsdebatte-spitzenpolitiker-zur-privatparty](https://www.spiegel.de/politik/deutschland/cdu-csu-und-gruene-armin-laschet-lud-vor-hitziger-bundestagsdebatte-spitzenpolitiker-zur-privatparty-a-4d835b50-cff2-45d2-a5ed-d3f88b6400d8#ref=rss)
-### bundestagsdebatte
+* [https://www.spiegel.de/sport/basketball/nba-luka-doncic-wird-wohl-teamkollege-von-basketballstar-lebron-james](https://www.spiegel.de/sport/basketball/nba-luka-doncic-wird-wohl-teamkollege-von-basketballstar-lebron-james-a-b17a52ea-38f1-4882-8412-fb72050cb86d#ref=rss)
+### dončić
 
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-gruene-armin-laschet-lud-vor-hitziger-bundestagsdebatte-spitzenpolitiker-zur-privatparty](https://www.spiegel.de/politik/deutschland/cdu-csu-und-gruene-armin-laschet-lud-vor-hitziger-bundestagsdebatte-spitzenpolitiker-zur-privatparty-a-4d835b50-cff2-45d2-a5ed-d3f88b6400d8#ref=rss)
-### spitzenpolitiker
+* [https://www.spiegel.de/sport/basketball/nba-luka-doncic-wird-wohl-teamkollege-von-basketballstar-lebron-james](https://www.spiegel.de/sport/basketball/nba-luka-doncic-wird-wohl-teamkollege-von-basketballstar-lebron-james-a-b17a52ea-38f1-4882-8412-fb72050cb86d#ref=rss)
+### lebron
 
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-gruene-armin-laschet-lud-vor-hitziger-bundestagsdebatte-spitzenpolitiker-zur-privatparty](https://www.spiegel.de/politik/deutschland/cdu-csu-und-gruene-armin-laschet-lud-vor-hitziger-bundestagsdebatte-spitzenpolitiker-zur-privatparty-a-4d835b50-cff2-45d2-a5ed-d3f88b6400d8#ref=rss)
-### hafencity
+* [https://www.spiegel.de/sport/basketball/nba-luka-doncic-wird-wohl-teamkollege-von-basketballstar-lebron-james](https://www.spiegel.de/sport/basketball/nba-luka-doncic-wird-wohl-teamkollege-von-basketballstar-lebron-james-a-b17a52ea-38f1-4882-8412-fb72050cb86d#ref=rss)
+### james
 
-* [https://www.spiegel.de/kultur/hamburg-hafencity-ein-milliardenvermoegen-ist-keine-qualifikation-fuer-kluge-stadtplanung](https://www.spiegel.de/kultur/hamburg-hafencity-ein-milliardenvermoegen-ist-keine-qualifikation-fuer-kluge-stadtplanung-a-fce87be0-2b96-440b-ab07-a7872086432f#ref=rss)
-### filme
+* [https://www.spiegel.de/sport/basketball/nba-luka-doncic-wird-wohl-teamkollege-von-basketballstar-lebron-james](https://www.spiegel.de/sport/basketball/nba-luka-doncic-wird-wohl-teamkollege-von-basketballstar-lebron-james-a-b17a52ea-38f1-4882-8412-fb72050cb86d#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/netzwelt/web/tiktok-tausende-schauen-kinofilme-illegal-ueber-die-video-app](https://www.spiegel.de/netzwelt/web/tiktok-tausende-schauen-kinofilme-illegal-ueber-die-video-app-a-2c5ebba4-1738-4e46-9f02-e5371ba09ae3#ref=rss)
-* [https://www.spiegel.de/kultur/tv/netflix-amazon-prime-disney-neue-serien-und-filme-im-februar-2025-was-sich-jetzt-lohnt](https://www.spiegel.de/kultur/tv/netflix-amazon-prime-disney-neue-serien-und-filme-im-februar-2025-was-sich-jetzt-lohnt-a-1b11f239-f719-4963-8858-5b58700d6ef9#ref=rss)
-### steckt
+* [https://www.spiegel.de/politik/wirtschaft-steuern-aufruestung-wie-deutschland-aus-den-krisen-staerker-hervorgehen-koennte](https://www.spiegel.de/politik/wirtschaft-steuern-aufruestung-wie-deutschland-aus-den-krisen-staerker-hervorgehen-koennte-a-966d8485-2b02-4bb7-a6b3-4b46637b0d75#ref=rss)
+### weltkrieg
 
-* [https://www.spiegel.de/netzwelt/web/tiktok-tausende-schauen-kinofilme-illegal-ueber-die-video-app](https://www.spiegel.de/netzwelt/web/tiktok-tausende-schauen-kinofilme-illegal-ueber-die-video-app-a-2c5ebba4-1738-4e46-9f02-e5371ba09ae3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/fdp-im-wahlkampf-grenzueberschreitungen-im-toten-winkel](https://www.spiegel.de/politik/deutschland/fdp-im-wahlkampf-grenzueberschreitungen-im-toten-winkel-a-761e88dd-a095-430f-8f6d-d10d4e6b7478#ref=rss)
-### dahinter
+* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-kriegsende-die-konferenz-von-jalta-im-februar-1945](https://www.spiegel.de/geschichte/zweiter-weltkrieg-kriegsende-die-konferenz-von-jalta-im-februar-1945-a-34019deb-8ee7-4726-8bad-68a2530b7ffd#ref=rss)
+### jalta
 
-* [https://www.spiegel.de/netzwelt/web/tiktok-tausende-schauen-kinofilme-illegal-ueber-die-video-app](https://www.spiegel.de/netzwelt/web/tiktok-tausende-schauen-kinofilme-illegal-ueber-die-video-app-a-2c5ebba4-1738-4e46-9f02-e5371ba09ae3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/fdp-im-wahlkampf-grenzueberschreitungen-im-toten-winkel](https://www.spiegel.de/politik/deutschland/fdp-im-wahlkampf-grenzueberschreitungen-im-toten-winkel-a-761e88dd-a095-430f-8f6d-d10d4e6b7478#ref=rss)
-### tod
+* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-kriegsende-die-konferenz-von-jalta-im-februar-1945](https://www.spiegel.de/geschichte/zweiter-weltkrieg-kriegsende-die-konferenz-von-jalta-im-februar-1945-a-34019deb-8ee7-4726-8bad-68a2530b7ffd#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/politik/deutschland/horst-koehler-reaktionen-auf-den-tod-des-ehemaligen-bundespraesidenten-seine-stimme-wird-fehlen](https://www.spiegel.de/politik/deutschland/horst-koehler-reaktionen-auf-den-tod-des-ehemaligen-bundespraesidenten-seine-stimme-wird-fehlen-a-aaf5761b-b139-442e-8647-3a6699443fc8#ref=rss)
-### ehemaligen
+* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-kriegsende-die-konferenz-von-jalta-im-februar-1945](https://www.spiegel.de/geschichte/zweiter-weltkrieg-kriegsende-die-konferenz-von-jalta-im-februar-1945-a-34019deb-8ee7-4726-8bad-68a2530b7ffd#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-schlaegt-holstein-kiel-gefaehrliche-siege](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-schlaegt-holstein-kiel-gefaehrliche-siege-a-136afac4-111e-4b28-90a7-3fbaeb4383fc#ref=rss)
+### phase
 
-* [https://www.spiegel.de/politik/deutschland/horst-koehler-reaktionen-auf-den-tod-des-ehemaligen-bundespraesidenten-seine-stimme-wird-fehlen](https://www.spiegel.de/politik/deutschland/horst-koehler-reaktionen-auf-den-tod-des-ehemaligen-bundespraesidenten-seine-stimme-wird-fehlen-a-aaf5761b-b139-442e-8647-3a6699443fc8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/horst-koehler-warum-mir-der-ruecktritt-des-ehemaligen-praesidenten-immer-ein-schlechtes-gewissen-gemacht-hat](https://www.spiegel.de/politik/deutschland/horst-koehler-warum-mir-der-ruecktritt-des-ehemaligen-praesidenten-immer-ein-schlechtes-gewissen-gemacht-hat-a-39a1ff14-a531-44ba-b267-dc5029f9f13e#ref=rss)
-### fdp
+* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-kriegsende-die-konferenz-von-jalta-im-februar-1945](https://www.spiegel.de/geschichte/zweiter-weltkrieg-kriegsende-die-konferenz-von-jalta-im-februar-1945-a-34019deb-8ee7-4726-8bad-68a2530b7ffd#ref=rss)
+* [https://www.spiegel.de/ausland/gazakrieg-benjamin-netanjahu-plant-gespraeche-zur-zweiten-phase-der-waffenruhe](https://www.spiegel.de/ausland/gazakrieg-benjamin-netanjahu-plant-gespraeche-zur-zweiten-phase-der-waffenruhe-a-e55ff07f-3f23-4cf7-803f-7343a4526736#ref=rss)
+### zeit
 
-* [https://www.spiegel.de/politik/deutschland/fdp-im-wahlkampf-grenzueberschreitungen-im-toten-winkel](https://www.spiegel.de/politik/deutschland/fdp-im-wahlkampf-grenzueberschreitungen-im-toten-winkel-a-761e88dd-a095-430f-8f6d-d10d4e6b7478#ref=rss)
-### lily
+* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-kriegsende-die-konferenz-von-jalta-im-februar-1945](https://www.spiegel.de/geschichte/zweiter-weltkrieg-kriegsende-die-konferenz-von-jalta-im-februar-1945-a-34019deb-8ee7-4726-8bad-68a2530b7ffd#ref=rss)
+### usdemokraten
 
-* [https://www.spiegel.de/panorama/leute/lily-collins-emily-in-paris-star-postet-babyfoto](https://www.spiegel.de/panorama/leute/lily-collins-emily-in-paris-star-postet-babyfoto-a-421a71a9-e6f1-4761-9b1b-47b943e7397e#ref=rss)
-### collins
+* [https://www.spiegel.de/ausland/us-demokraten-ken-martin-als-neuer-vorsitzender-gewaehlt](https://www.spiegel.de/ausland/us-demokraten-ken-martin-als-neuer-vorsitzender-gewaehlt-a-c1ecbdc5-7caf-4e07-bd5e-a0a2911fe93d#ref=rss)
+### ken
 
-* [https://www.spiegel.de/panorama/leute/lily-collins-emily-in-paris-star-postet-babyfoto](https://www.spiegel.de/panorama/leute/lily-collins-emily-in-paris-star-postet-babyfoto-a-421a71a9-e6f1-4761-9b1b-47b943e7397e#ref=rss)
+* [https://www.spiegel.de/ausland/us-demokraten-ken-martin-als-neuer-vorsitzender-gewaehlt](https://www.spiegel.de/ausland/us-demokraten-ken-martin-als-neuer-vorsitzender-gewaehlt-a-c1ecbdc5-7caf-4e07-bd5e-a0a2911fe93d#ref=rss)
+### martin
+
+* [https://www.spiegel.de/ausland/us-demokraten-ken-martin-als-neuer-vorsitzender-gewaehlt](https://www.spiegel.de/ausland/us-demokraten-ken-martin-als-neuer-vorsitzender-gewaehlt-a-c1ecbdc5-7caf-4e07-bd5e-a0a2911fe93d#ref=rss)
+### neuer
+
+* [https://www.spiegel.de/ausland/us-demokraten-ken-martin-als-neuer-vorsitzender-gewaehlt](https://www.spiegel.de/ausland/us-demokraten-ken-martin-als-neuer-vorsitzender-gewaehlt-a-c1ecbdc5-7caf-4e07-bd5e-a0a2911fe93d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/generationenkonflikt-warum-man-die-kinder-nicht-als-tiktok-junkies-abstempeln-sollte](https://www.spiegel.de/politik/deutschland/generationenkonflikt-warum-man-die-kinder-nicht-als-tiktok-junkies-abstempeln-sollte-a-ca4aa394-f017-49c6-9f45-78281ad42b38#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/ausland/us-demokraten-ken-martin-als-neuer-vorsitzender-gewaehlt](https://www.spiegel.de/ausland/us-demokraten-ken-martin-als-neuer-vorsitzender-gewaehlt-a-c1ecbdc5-7caf-4e07-bd5e-a0a2911fe93d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-china-kanada-und-mexiko-reagieren-mit-gegenmassnahmen-auf-us-zoelle](https://www.spiegel.de/wirtschaft/donald-trump-china-kanada-und-mexiko-reagieren-mit-gegenmassnahmen-auf-us-zoelle-a-95c79630-525c-4588-9e75-c5523a0c7359#ref=rss)
+### gegenmaßnahmen
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-china-kanada-und-mexiko-reagieren-mit-gegenmassnahmen-auf-us-zoelle](https://www.spiegel.de/wirtschaft/donald-trump-china-kanada-und-mexiko-reagieren-mit-gegenmassnahmen-auf-us-zoelle-a-95c79630-525c-4588-9e75-c5523a0c7359#ref=rss)
+### usa
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-china-kanada-und-mexiko-reagieren-mit-gegenmassnahmen-auf-us-zoelle](https://www.spiegel.de/wirtschaft/donald-trump-china-kanada-und-mexiko-reagieren-mit-gegenmassnahmen-auf-us-zoelle-a-95c79630-525c-4588-9e75-c5523a0c7359#ref=rss)
+* [https://www.spiegel.de/ausland/gazakrieg-benjamin-netanjahu-plant-gespraeche-zur-zweiten-phase-der-waffenruhe](https://www.spiegel.de/ausland/gazakrieg-benjamin-netanjahu-plant-gespraeche-zur-zweiten-phase-der-waffenruhe-a-e55ff07f-3f23-4cf7-803f-7343a4526736#ref=rss)
+### welfenschatz
+
+* [https://www.spiegel.de/kultur/welfenschatz-ist-der-schatz-im-berliner-museum-ns-raubgut](https://www.spiegel.de/kultur/welfenschatz-ist-der-schatz-im-berliner-museum-ns-raubgut-a-8ddb93ad-8622-403b-aed9-8f57f3ef183c#ref=rss)
+### berliner
+
+* [https://www.spiegel.de/kultur/welfenschatz-ist-der-schatz-im-berliner-museum-ns-raubgut](https://www.spiegel.de/kultur/welfenschatz-ist-der-schatz-im-berliner-museum-ns-raubgut-a-8ddb93ad-8622-403b-aed9-8f57f3ef183c#ref=rss)
+### transnistrien
+
+* [https://www.spiegel.de/ausland/streit-mit-gazprom-transnistrien-erhaelt-gaslieferungen-aus-moldau](https://www.spiegel.de/ausland/streit-mit-gazprom-transnistrien-erhaelt-gaslieferungen-aus-moldau-a-9b304119-ae87-4a14-a919-ff5279742974#ref=rss)
+### moldau
+
+* [https://www.spiegel.de/ausland/streit-mit-gazprom-transnistrien-erhaelt-gaslieferungen-aus-moldau](https://www.spiegel.de/ausland/streit-mit-gazprom-transnistrien-erhaelt-gaslieferungen-aus-moldau-a-9b304119-ae87-4a14-a919-ff5279742974#ref=rss)
+### autor
+
+* [https://www.spiegel.de/panorama/leute/autor-der-morck-romane-jussi-adler-olsen-werde-an-dieser-krankheit-sterben](https://www.spiegel.de/panorama/leute/autor-der-morck-romane-jussi-adler-olsen-werde-an-dieser-krankheit-sterben-a-cd889b8b-187a-435e-9af3-ae1df241e41e#ref=rss)
+### schalke
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-geht-unter-magdeburgs-martijn-kaars-trifft-vierfach](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-geht-unter-magdeburgs-martijn-kaars-trifft-vierfach-a-31ddbb18-da13-48e0-aae4-6b772e7ffb82#ref=rss)
+### 04
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-geht-unter-magdeburgs-martijn-kaars-trifft-vierfach](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-geht-unter-magdeburgs-martijn-kaars-trifft-vierfach-a-31ddbb18-da13-48e0-aae4-6b772e7ffb82#ref=rss)
+### 1
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-geht-unter-magdeburgs-martijn-kaars-trifft-vierfach](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-geht-unter-magdeburgs-martijn-kaars-trifft-vierfach-a-31ddbb18-da13-48e0-aae4-6b772e7ffb82#ref=rss)
+### magdeburg
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-geht-unter-magdeburgs-martijn-kaars-trifft-vierfach](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-geht-unter-magdeburgs-martijn-kaars-trifft-vierfach-a-31ddbb18-da13-48e0-aae4-6b772e7ffb82#ref=rss)
+### liga
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-geht-unter-magdeburgs-martijn-kaars-trifft-vierfach](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-geht-unter-magdeburgs-martijn-kaars-trifft-vierfach-a-31ddbb18-da13-48e0-aae4-6b772e7ffb82#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-schlaegt-holstein-kiel-gefaehrliche-siege](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-schlaegt-holstein-kiel-gefaehrliche-siege-a-136afac4-111e-4b28-90a7-3fbaeb4383fc#ref=rss)
+### kursk
+
+* [https://www.spiegel.de/ausland/schule-in-kursk-dutzende-menschen-nach-angriff-in-truemmern-eingeschlossen](https://www.spiegel.de/ausland/schule-in-kursk-dutzende-menschen-nach-angriff-in-truemmern-eingeschlossen-a-909d77a5-9308-4d9f-9163-abdcc5e8373d#ref=rss)
+### katy
+
+* [https://www.spiegel.de/panorama/leute/katy-perry-haelt-sich-bei-kritikern-an-den-rat-ihres-therapeuten](https://www.spiegel.de/panorama/leute/katy-perry-haelt-sich-bei-kritikern-an-den-rat-ihres-therapeuten-a-d777eb97-9704-4490-b535-a95d6a984a53#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-schlaegt-holstein-kiel-gefaehrliche-siege](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-schlaegt-holstein-kiel-gefaehrliche-siege-a-136afac4-111e-4b28-90a7-3fbaeb4383fc#ref=rss)
+### kiel
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-schlaegt-holstein-kiel-gefaehrliche-siege](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-schlaegt-holstein-kiel-gefaehrliche-siege-a-136afac4-111e-4b28-90a7-3fbaeb4383fc#ref=rss)
+### minister
+
+* [https://www.spiegel.de/politik/deutschland/wahlkampfspenden-von-einem-strafrechtler-erklaert-fuer-minister-gelten-strengere-regeln](https://www.spiegel.de/politik/deutschland/wahlkampfspenden-von-einem-strafrechtler-erklaert-fuer-minister-gelten-strengere-regeln-a-54e26327-9ed5-459a-81cc-cc27ad1eaf08#ref=rss)
 
