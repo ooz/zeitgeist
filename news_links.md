@@ -4,356 +4,286 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### trump
-
-* [https://www.spiegel.de/ausland/italien-donald-trump-junior-soll-erlaubnis-fuer-entenjagd-in-lagune-von-venedig-gehabt-haben](https://www.spiegel.de/ausland/italien-donald-trump-junior-soll-erlaubnis-fuer-entenjagd-in-lagune-von-venedig-gehabt-haben-a-33389659-0c6d-45c2-ab54-0ae8282d212e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/donald-trump-und-ukraine-unklarheit-ueber-forderungen-bei-rohstoff-deal](https://www.spiegel.de/wissenschaft/donald-trump-und-ukraine-unklarheit-ueber-forderungen-bei-rohstoff-deal-a-2790254d-d5e0-429c-8976-9289e28706bc#ref=rss)
-* [https://www.spiegel.de/ausland/cia-donald-trump-plant-verkleinerung-des-geheimdienstes-abfindungen-fuer-mitarbeiter](https://www.spiegel.de/ausland/cia-donald-trump-plant-verkleinerung-des-geheimdienstes-abfindungen-fuer-mitarbeiter-a-baa65eb1-1789-4528-a5b3-1e3aafdd32ab#ref=rss)
-* [https://www.spiegel.de/ausland/benjamin-netanyahu-bei-donald-trump-die-usa-schlagen-vor-den-gazastreifen-zu-uebernehmen-bei-trump](https://www.spiegel.de/ausland/benjamin-netanyahu-bei-donald-trump-die-usa-schlagen-vor-den-gazastreifen-zu-uebernehmen-bei-trump-a-0edc3a9e-f36d-43c9-90a4-32e43f662c7c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-benjamin-netanyahu-donald-trump-gazastreifen-olaf-scholz-k-frage-klimaziele](https://www.spiegel.de/politik/deutschland/news-benjamin-netanyahu-donald-trump-gazastreifen-olaf-scholz-k-frage-klimaziele-a-c01f0496-6348-4af9-9ffa-8b88ef37cf87#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/italien-donald-trump-junior-soll-erlaubnis-fuer-entenjagd-in-lagune-von-venedig-gehabt-haben](https://www.spiegel.de/ausland/italien-donald-trump-junior-soll-erlaubnis-fuer-entenjagd-in-lagune-von-venedig-gehabt-haben-a-33389659-0c6d-45c2-ab54-0ae8282d212e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/donald-trump-und-ukraine-unklarheit-ueber-forderungen-bei-rohstoff-deal](https://www.spiegel.de/wissenschaft/donald-trump-und-ukraine-unklarheit-ueber-forderungen-bei-rohstoff-deal-a-2790254d-d5e0-429c-8976-9289e28706bc#ref=rss)
-* [https://www.spiegel.de/ausland/cia-donald-trump-plant-verkleinerung-des-geheimdienstes-abfindungen-fuer-mitarbeiter](https://www.spiegel.de/ausland/cia-donald-trump-plant-verkleinerung-des-geheimdienstes-abfindungen-fuer-mitarbeiter-a-baa65eb1-1789-4528-a5b3-1e3aafdd32ab#ref=rss)
-* [https://www.spiegel.de/ausland/benjamin-netanyahu-bei-donald-trump-die-usa-schlagen-vor-den-gazastreifen-zu-uebernehmen-bei-trump](https://www.spiegel.de/ausland/benjamin-netanyahu-bei-donald-trump-die-usa-schlagen-vor-den-gazastreifen-zu-uebernehmen-bei-trump-a-0edc3a9e-f36d-43c9-90a4-32e43f662c7c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-benjamin-netanyahu-donald-trump-gazastreifen-olaf-scholz-k-frage-klimaziele](https://www.spiegel.de/politik/deutschland/news-benjamin-netanyahu-donald-trump-gazastreifen-olaf-scholz-k-frage-klimaziele-a-c01f0496-6348-4af9-9ffa-8b88ef37cf87#ref=rss)
-### viele
-
-* [https://www.spiegel.de/auto/adac-test-viele-warnwesten-aus-dem-onlinehandel-sind-im-notfall-nutzlos](https://www.spiegel.de/auto/adac-test-viele-warnwesten-aus-dem-onlinehandel-sind-im-notfall-nutzlos-a-0da1fef3-9889-45f7-87d7-6c8c4067c2b4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/kinderarmut-viele-eltern-sparen-am-essen](https://www.spiegel.de/wirtschaft/service/kinderarmut-viele-eltern-sparen-am-essen-a-120d5c7c-c881-497e-ba17-4a271ea293be#ref=rss)
-* [https://www.spiegel.de/panorama/leute/heidi-klum-war-in-gntm-anfangsjahren-durchgehend-k-o](https://www.spiegel.de/panorama/leute/heidi-klum-war-in-gntm-anfangsjahren-durchgehend-k-o-a-32560818-150c-4bbf-bf50-12f89bb963a9#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/google-distanziert-sich-nicht-mehr-explizit-von-ki-waffen](https://www.spiegel.de/netzwelt/netzpolitik/google-distanziert-sich-nicht-mehr-explizit-von-ki-waffen-a-53a10a6b-954f-4a8e-bd81-8a91e953989e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-wo-die-kritik-am-cdu-chef-masslos-ist-meinung](https://www.spiegel.de/politik/deutschland/friedrich-merz-wo-die-kritik-am-cdu-chef-masslos-ist-meinung-a-78fac396-ecba-4525-81f3-f4459c1705c5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/temu-und-shein-eu-plant-offenbar-neue-gebuehr-us-post-blockiert-pakete-aus-china-und-hongkong](https://www.spiegel.de/wirtschaft/unternehmen/temu-und-shein-eu-plant-offenbar-neue-gebuehr-us-post-blockiert-pakete-aus-china-und-hongkong-a-a2d78ca3-f9f7-43b2-9846-14a1a3757243#ref=rss)
-* [https://www.spiegel.de/fitness/gesundheit-fitness-wie-wir-es-schaffen-im-alltag-mehr-zu-gehen](https://www.spiegel.de/fitness/gesundheit-fitness-wie-wir-es-schaffen-im-alltag-mehr-zu-gehen-a-9a6fda2f-1bc7-4843-87a8-799dd5420428#ref=rss)
-### wir
-
-* [https://www.spiegel.de/reise/fernweh/wie-wir-uns-ein-bisschen-weltreisefeeling-im-alltag-bewahren](https://www.spiegel.de/reise/fernweh/wie-wir-uns-ein-bisschen-weltreisefeeling-im-alltag-bewahren-a-5ff558b3-574a-4c79-ba23-43e9f55a01de#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung/stress-und-essen-wie-wir-unser-essverhalten-neu-programmieren](https://www.spiegel.de/gesundheit/ernaehrung/stress-und-essen-wie-wir-unser-essverhalten-neu-programmieren-a-4f7bc8b7-9343-43d3-bebe-8b2e000bc486#ref=rss)
-* [https://www.spiegel.de/fitness/gesundheit-fitness-wie-wir-es-schaffen-im-alltag-mehr-zu-gehen](https://www.spiegel.de/fitness/gesundheit-fitness-wie-wir-es-schaffen-im-alltag-mehr-zu-gehen-a-9a6fda2f-1bc7-4843-87a8-799dd5420428#ref=rss)
-### shein
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/shein-eu-kommission-eroeffnet-untersuchung-gegen-chinesischen-online-marktplatz](https://www.spiegel.de/wirtschaft/unternehmen/shein-eu-kommission-eroeffnet-untersuchung-gegen-chinesischen-online-marktplatz-a-44fca52c-ab2d-4cfe-b1fa-cbcb262ee7e2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/temu-und-shein-eu-plant-offenbar-neue-gebuehr-us-post-blockiert-pakete-aus-china-und-hongkong](https://www.spiegel.de/wirtschaft/unternehmen/temu-und-shein-eu-plant-offenbar-neue-gebuehr-us-post-blockiert-pakete-aus-china-und-hongkong-a-a2d78ca3-f9f7-43b2-9846-14a1a3757243#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/panorama/justiz/frankreich-serge-atlaoui-nach-19-jahren-haft-in-indonesien-zurueck-in-paris](https://www.spiegel.de/panorama/justiz/frankreich-serge-atlaoui-nach-19-jahren-haft-in-indonesien-zurueck-in-paris-a-44340209-1bcc-4507-bc30-46f6f35b4198#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bundesgerichtshof-hebt-umstrittenes-urteil-nach-gewaltsamem-tod-einer-jungen-frau-auf](https://www.spiegel.de/panorama/justiz/bundesgerichtshof-hebt-umstrittenes-urteil-nach-gewaltsamem-tod-einer-jungen-frau-auf-a-93d74482-c413-4968-8335-67fe1dc64359#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/spotify-schreibt-erstmals-uebers-ganze-jahr-hinweg-schwarze-zahlen](https://www.spiegel.de/netzwelt/apps/spotify-schreibt-erstmals-uebers-ganze-jahr-hinweg-schwarze-zahlen-a-1fe50bd1-dc18-4010-9427-1bd0a2a4c889#ref=rss)
-### zehn
-
-* [https://www.spiegel.de/panorama/justiz/bundesgerichtshof-hebt-umstrittenes-urteil-nach-gewaltsamem-tod-einer-jungen-frau-auf](https://www.spiegel.de/panorama/justiz/bundesgerichtshof-hebt-umstrittenes-urteil-nach-gewaltsamem-tod-einer-jungen-frau-auf-a-93d74482-c413-4968-8335-67fe1dc64359#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/russland-notenbank-macht-sanktionen-und-schwachen-rubel-fuer-hohe-inflation-verantwortlich](https://www.spiegel.de/wirtschaft/unternehmen/russland-notenbank-macht-sanktionen-und-schwachen-rubel-fuer-hohe-inflation-verantwortlich-a-35df9152-8a49-4c07-a385-eda5141e52f2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/kinderarmut-viele-eltern-sparen-am-essen](https://www.spiegel.de/wirtschaft/service/kinderarmut-viele-eltern-sparen-am-essen-a-120d5c7c-c881-497e-ba17-4a271ea293be#ref=rss)
-### russland
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/russland-notenbank-macht-sanktionen-und-schwachen-rubel-fuer-hohe-inflation-verantwortlich](https://www.spiegel.de/wirtschaft/unternehmen/russland-notenbank-macht-sanktionen-und-schwachen-rubel-fuer-hohe-inflation-verantwortlich-a-35df9152-8a49-4c07-a385-eda5141e52f2#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hunderte-autos-beschaedigt-deutschlandweite-sabotageserie-offenbar-aus-russland-gesteuert](https://www.spiegel.de/panorama/justiz/hunderte-autos-beschaedigt-deutschlandweite-sabotageserie-offenbar-aus-russland-gesteuert-a-7625e908-2f28-4ef8-bb69-35e5bacd6125#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/wissenschaft/donald-trump-und-ukraine-unklarheit-ueber-forderungen-bei-rohstoff-deal](https://www.spiegel.de/wissenschaft/donald-trump-und-ukraine-unklarheit-ueber-forderungen-bei-rohstoff-deal-a-2790254d-d5e0-429c-8976-9289e28706bc#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-wuerde-notfalls-auch-direkt-mit-wladimir-putin-verhandeln](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-wuerde-notfalls-auch-direkt-mit-wladimir-putin-verhandeln-a-a0cb441d-f267-4f43-9e27-cc2663382df4#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/wissenschaft/donald-trump-und-ukraine-unklarheit-ueber-forderungen-bei-rohstoff-deal](https://www.spiegel.de/wissenschaft/donald-trump-und-ukraine-unklarheit-ueber-forderungen-bei-rohstoff-deal-a-2790254d-d5e0-429c-8976-9289e28706bc#ref=rss)
-* [https://www.spiegel.de/ausland/cia-donald-trump-plant-verkleinerung-des-geheimdienstes-abfindungen-fuer-mitarbeiter](https://www.spiegel.de/ausland/cia-donald-trump-plant-verkleinerung-des-geheimdienstes-abfindungen-fuer-mitarbeiter-a-baa65eb1-1789-4528-a5b3-1e3aafdd32ab#ref=rss)
-* [https://www.spiegel.de/ausland/benjamin-netanyahu-bei-donald-trump-die-usa-schlagen-vor-den-gazastreifen-zu-uebernehmen-bei-trump](https://www.spiegel.de/ausland/benjamin-netanyahu-bei-donald-trump-die-usa-schlagen-vor-den-gazastreifen-zu-uebernehmen-bei-trump-a-0edc3a9e-f36d-43c9-90a4-32e43f662c7c#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-wo-die-kritik-am-cdu-chef-masslos-ist-meinung](https://www.spiegel.de/politik/deutschland/friedrich-merz-wo-die-kritik-am-cdu-chef-masslos-ist-meinung-a-78fac396-ecba-4525-81f3-f4459c1705c5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/scholz-merz-weidel-und-habeck-treffen-bei-tv-schlagabtausch-aufeinander](https://www.spiegel.de/politik/deutschland/scholz-merz-weidel-und-habeck-treffen-bei-tv-schlagabtausch-aufeinander-a-495d8a11-f558-4569-a098-24b8ea778dab#ref=rss)
-### scholz
-
-* [https://www.spiegel.de/politik/deutschland/scholz-merz-weidel-und-habeck-treffen-bei-tv-schlagabtausch-aufeinander](https://www.spiegel.de/politik/deutschland/scholz-merz-weidel-und-habeck-treffen-bei-tv-schlagabtausch-aufeinander-a-495d8a11-f558-4569-a098-24b8ea778dab#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-benjamin-netanyahu-donald-trump-gazastreifen-olaf-scholz-k-frage-klimaziele](https://www.spiegel.de/politik/deutschland/news-benjamin-netanyahu-donald-trump-gazastreifen-olaf-scholz-k-frage-klimaziele-a-c01f0496-6348-4af9-9ffa-8b88ef37cf87#ref=rss)
-### netanyahu
-
-* [https://www.spiegel.de/ausland/benjamin-netanyahu-bei-donald-trump-die-usa-schlagen-vor-den-gazastreifen-zu-uebernehmen-bei-trump](https://www.spiegel.de/ausland/benjamin-netanyahu-bei-donald-trump-die-usa-schlagen-vor-den-gazastreifen-zu-uebernehmen-bei-trump-a-0edc3a9e-f36d-43c9-90a4-32e43f662c7c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-benjamin-netanyahu-donald-trump-gazastreifen-olaf-scholz-k-frage-klimaziele](https://www.spiegel.de/politik/deutschland/news-benjamin-netanyahu-donald-trump-gazastreifen-olaf-scholz-k-frage-klimaziele-a-c01f0496-6348-4af9-9ffa-8b88ef37cf87#ref=rss)
-### alltag
-
-* [https://www.spiegel.de/reise/fernweh/wie-wir-uns-ein-bisschen-weltreisefeeling-im-alltag-bewahren](https://www.spiegel.de/reise/fernweh/wie-wir-uns-ein-bisschen-weltreisefeeling-im-alltag-bewahren-a-5ff558b3-574a-4c79-ba23-43e9f55a01de#ref=rss)
-* [https://www.spiegel.de/fitness/gesundheit-fitness-wie-wir-es-schaffen-im-alltag-mehr-zu-gehen](https://www.spiegel.de/fitness/gesundheit-fitness-wie-wir-es-schaffen-im-alltag-mehr-zu-gehen-a-9a6fda2f-1bc7-4843-87a8-799dd5420428#ref=rss)
-### schweden
-
-* [https://www.spiegel.de/ausland/schweden-amoklauf-was-bekannt-ist](https://www.spiegel.de/ausland/schweden-amoklauf-was-bekannt-ist-a-89f4e42a-a9c4-4d70-87a5-19d0a265e3dc#ref=rss)
-### amoklauf
-
-* [https://www.spiegel.de/ausland/schweden-amoklauf-was-bekannt-ist](https://www.spiegel.de/ausland/schweden-amoklauf-was-bekannt-ist-a-89f4e42a-a9c4-4d70-87a5-19d0a265e3dc#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/ausland/schweden-amoklauf-was-bekannt-ist](https://www.spiegel.de/ausland/schweden-amoklauf-was-bekannt-ist-a-89f4e42a-a9c4-4d70-87a5-19d0a265e3dc#ref=rss)
-* [https://www.spiegel.de/wissenschaft/donald-trump-und-ukraine-unklarheit-ueber-forderungen-bei-rohstoff-deal](https://www.spiegel.de/wissenschaft/donald-trump-und-ukraine-unklarheit-ueber-forderungen-bei-rohstoff-deal-a-2790254d-d5e0-429c-8976-9289e28706bc#ref=rss)
-### runde
-
-* [https://www.spiegel.de/ausland/schweden-amoklauf-was-bekannt-ist](https://www.spiegel.de/ausland/schweden-amoklauf-was-bekannt-ist-a-89f4e42a-a9c4-4d70-87a5-19d0a265e3dc#ref=rss)
-* [https://www.spiegel.de/sport/tennis/tennis-fruehere-weltranglistenerste-simona-halep-beendet-ihre-karriere](https://www.spiegel.de/sport/tennis/tennis-fruehere-weltranglistenerste-simona-halep-beendet-ihre-karriere-a-5020594b-319a-4de3-a692-15f77278c554#ref=rss)
-### steckt
-
-* [https://www.spiegel.de/ausland/schweden-amoklauf-was-bekannt-ist](https://www.spiegel.de/ausland/schweden-amoklauf-was-bekannt-ist-a-89f4e42a-a9c4-4d70-87a5-19d0a265e3dc#ref=rss)
-* [https://www.spiegel.de/fitness/gesundheit-fitness-wie-wir-es-schaffen-im-alltag-mehr-zu-gehen](https://www.spiegel.de/fitness/gesundheit-fitness-wie-wir-es-schaffen-im-alltag-mehr-zu-gehen-a-9a6fda2f-1bc7-4843-87a8-799dd5420428#ref=rss)
-### hinter
-
-* [https://www.spiegel.de/ausland/schweden-amoklauf-was-bekannt-ist](https://www.spiegel.de/ausland/schweden-amoklauf-was-bekannt-ist-a-89f4e42a-a9c4-4d70-87a5-19d0a265e3dc#ref=rss)
-* [https://www.spiegel.de/fitness/gesundheit-fitness-wie-wir-es-schaffen-im-alltag-mehr-zu-gehen](https://www.spiegel.de/fitness/gesundheit-fitness-wie-wir-es-schaffen-im-alltag-mehr-zu-gehen-a-9a6fda2f-1bc7-4843-87a8-799dd5420428#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/sport/wintersport/rennabsagen-bei-der-ski-wm-para-sportler-entsetzt-traurig-und-sprachlos](https://www.spiegel.de/sport/wintersport/rennabsagen-bei-der-ski-wm-para-sportler-entsetzt-traurig-und-sprachlos-a-d29fb201-1813-4eb5-ae69-0577496474b4#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/frankreich-serge-atlaoui-nach-19-jahren-haft-in-indonesien-zurueck-in-paris](https://www.spiegel.de/panorama/justiz/frankreich-serge-atlaoui-nach-19-jahren-haft-in-indonesien-zurueck-in-paris-a-44340209-1bcc-4507-bc30-46f6f35b4198#ref=rss)
-### chinesische
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/shein-eu-kommission-eroeffnet-untersuchung-gegen-chinesischen-online-marktplatz](https://www.spiegel.de/wirtschaft/unternehmen/shein-eu-kommission-eroeffnet-untersuchung-gegen-chinesischen-online-marktplatz-a-44fca52c-ab2d-4cfe-b1fa-cbcb262ee7e2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/temu-und-shein-eu-plant-offenbar-neue-gebuehr-us-post-blockiert-pakete-aus-china-und-hongkong](https://www.spiegel.de/wirtschaft/unternehmen/temu-und-shein-eu-plant-offenbar-neue-gebuehr-us-post-blockiert-pakete-aus-china-und-hongkong-a-a2d78ca3-f9f7-43b2-9846-14a1a3757243#ref=rss)
-### warnwesten
-
-* [https://www.spiegel.de/auto/adac-test-viele-warnwesten-aus-dem-onlinehandel-sind-im-notfall-nutzlos](https://www.spiegel.de/auto/adac-test-viele-warnwesten-aus-dem-onlinehandel-sind-im-notfall-nutzlos-a-0da1fef3-9889-45f7-87d7-6c8c4067c2b4#ref=rss)
-### notfall
-
-* [https://www.spiegel.de/auto/adac-test-viele-warnwesten-aus-dem-onlinehandel-sind-im-notfall-nutzlos](https://www.spiegel.de/auto/adac-test-viele-warnwesten-aus-dem-onlinehandel-sind-im-notfall-nutzlos-a-0da1fef3-9889-45f7-87d7-6c8c4067c2b4#ref=rss)
-### frankreich
-
-* [https://www.spiegel.de/panorama/justiz/frankreich-serge-atlaoui-nach-19-jahren-haft-in-indonesien-zurueck-in-paris](https://www.spiegel.de/panorama/justiz/frankreich-serge-atlaoui-nach-19-jahren-haft-in-indonesien-zurueck-in-paris-a-44340209-1bcc-4507-bc30-46f6f35b4198#ref=rss)
-### serge
-
-* [https://www.spiegel.de/panorama/justiz/frankreich-serge-atlaoui-nach-19-jahren-haft-in-indonesien-zurueck-in-paris](https://www.spiegel.de/panorama/justiz/frankreich-serge-atlaoui-nach-19-jahren-haft-in-indonesien-zurueck-in-paris-a-44340209-1bcc-4507-bc30-46f6f35b4198#ref=rss)
-### atlaoui
-
-* [https://www.spiegel.de/panorama/justiz/frankreich-serge-atlaoui-nach-19-jahren-haft-in-indonesien-zurueck-in-paris](https://www.spiegel.de/panorama/justiz/frankreich-serge-atlaoui-nach-19-jahren-haft-in-indonesien-zurueck-in-paris-a-44340209-1bcc-4507-bc30-46f6f35b4198#ref=rss)
-### haft
-
-* [https://www.spiegel.de/panorama/justiz/frankreich-serge-atlaoui-nach-19-jahren-haft-in-indonesien-zurueck-in-paris](https://www.spiegel.de/panorama/justiz/frankreich-serge-atlaoui-nach-19-jahren-haft-in-indonesien-zurueck-in-paris-a-44340209-1bcc-4507-bc30-46f6f35b4198#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bundesgerichtshof-hebt-umstrittenes-urteil-nach-gewaltsamem-tod-einer-jungen-frau-auf](https://www.spiegel.de/panorama/justiz/bundesgerichtshof-hebt-umstrittenes-urteil-nach-gewaltsamem-tod-einer-jungen-frau-auf-a-93d74482-c413-4968-8335-67fe1dc64359#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/panorama/justiz/frankreich-serge-atlaoui-nach-19-jahren-haft-in-indonesien-zurueck-in-paris](https://www.spiegel.de/panorama/justiz/frankreich-serge-atlaoui-nach-19-jahren-haft-in-indonesien-zurueck-in-paris-a-44340209-1bcc-4507-bc30-46f6f35b4198#ref=rss)
-* [https://www.spiegel.de/reise/fernweh/wie-wir-uns-ein-bisschen-weltreisefeeling-im-alltag-bewahren](https://www.spiegel.de/reise/fernweh/wie-wir-uns-ein-bisschen-weltreisefeeling-im-alltag-bewahren-a-5ff558b3-574a-4c79-ba23-43e9f55a01de#ref=rss)
-### fast
-
-* [https://www.spiegel.de/panorama/justiz/frankreich-serge-atlaoui-nach-19-jahren-haft-in-indonesien-zurueck-in-paris](https://www.spiegel.de/panorama/justiz/frankreich-serge-atlaoui-nach-19-jahren-haft-in-indonesien-zurueck-in-paris-a-44340209-1bcc-4507-bc30-46f6f35b4198#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/russland-notenbank-macht-sanktionen-und-schwachen-rubel-fuer-hohe-inflation-verantwortlich](https://www.spiegel.de/wirtschaft/unternehmen/russland-notenbank-macht-sanktionen-und-schwachen-rubel-fuer-hohe-inflation-verantwortlich-a-35df9152-8a49-4c07-a385-eda5141e52f2#ref=rss)
-### jahrzehnte
-
-* [https://www.spiegel.de/panorama/justiz/frankreich-serge-atlaoui-nach-19-jahren-haft-in-indonesien-zurueck-in-paris](https://www.spiegel.de/panorama/justiz/frankreich-serge-atlaoui-nach-19-jahren-haft-in-indonesien-zurueck-in-paris-a-44340209-1bcc-4507-bc30-46f6f35b4198#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-brand-im-icc-leiche-gefunden](https://www.spiegel.de/panorama/berlin-brand-im-icc-leiche-gefunden-a-bebb28c2-d117-4f7a-a247-c0ff4dc14d87#ref=rss)
-### knapp
-
-* [https://www.spiegel.de/panorama/justiz/frankreich-serge-atlaoui-nach-19-jahren-haft-in-indonesien-zurueck-in-paris](https://www.spiegel.de/panorama/justiz/frankreich-serge-atlaoui-nach-19-jahren-haft-in-indonesien-zurueck-in-paris-a-44340209-1bcc-4507-bc30-46f6f35b4198#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/kinderarmut-viele-eltern-sparen-am-essen](https://www.spiegel.de/wirtschaft/service/kinderarmut-viele-eltern-sparen-am-essen-a-120d5c7c-c881-497e-ba17-4a271ea293be#ref=rss)
-### tod
-
-* [https://www.spiegel.de/panorama/justiz/bundesgerichtshof-hebt-umstrittenes-urteil-nach-gewaltsamem-tod-einer-jungen-frau-auf](https://www.spiegel.de/panorama/justiz/bundesgerichtshof-hebt-umstrittenes-urteil-nach-gewaltsamem-tod-einer-jungen-frau-auf-a-93d74482-c413-4968-8335-67fe1dc64359#ref=rss)
-* [https://www.spiegel.de/kultur/musik/ariana-grande-popstar-spricht-ueber-depression-und-angstzustaende](https://www.spiegel.de/kultur/musik/ariana-grande-popstar-spricht-ueber-depression-und-angstzustaende-a-a85fb682-a095-4761-92de-b086e10992cd#ref=rss)
-### notenbank
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/russland-notenbank-macht-sanktionen-und-schwachen-rubel-fuer-hohe-inflation-verantwortlich](https://www.spiegel.de/wirtschaft/unternehmen/russland-notenbank-macht-sanktionen-und-schwachen-rubel-fuer-hohe-inflation-verantwortlich-a-35df9152-8a49-4c07-a385-eda5141e52f2#ref=rss)
-### prozent
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/russland-notenbank-macht-sanktionen-und-schwachen-rubel-fuer-hohe-inflation-verantwortlich](https://www.spiegel.de/wirtschaft/unternehmen/russland-notenbank-macht-sanktionen-und-schwachen-rubel-fuer-hohe-inflation-verantwortlich-a-35df9152-8a49-4c07-a385-eda5141e52f2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/kinderarmut-viele-eltern-sparen-am-essen](https://www.spiegel.de/wirtschaft/service/kinderarmut-viele-eltern-sparen-am-essen-a-120d5c7c-c881-497e-ba17-4a271ea293be#ref=rss)
-### lage
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/russland-notenbank-macht-sanktionen-und-schwachen-rubel-fuer-hohe-inflation-verantwortlich](https://www.spiegel.de/wirtschaft/unternehmen/russland-notenbank-macht-sanktionen-und-schwachen-rubel-fuer-hohe-inflation-verantwortlich-a-35df9152-8a49-4c07-a385-eda5141e52f2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-benjamin-netanyahu-donald-trump-gazastreifen-olaf-scholz-k-frage-klimaziele](https://www.spiegel.de/politik/deutschland/news-benjamin-netanyahu-donald-trump-gazastreifen-olaf-scholz-k-frage-klimaziele-a-c01f0496-6348-4af9-9ffa-8b88ef37cf87#ref=rss)
-### spotify
-
-* [https://www.spiegel.de/netzwelt/apps/spotify-schreibt-erstmals-uebers-ganze-jahr-hinweg-schwarze-zahlen](https://www.spiegel.de/netzwelt/apps/spotify-schreibt-erstmals-uebers-ganze-jahr-hinweg-schwarze-zahlen-a-1fe50bd1-dc18-4010-9427-1bd0a2a4c889#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/netzwelt/apps/spotify-schreibt-erstmals-uebers-ganze-jahr-hinweg-schwarze-zahlen](https://www.spiegel.de/netzwelt/apps/spotify-schreibt-erstmals-uebers-ganze-jahr-hinweg-schwarze-zahlen-a-1fe50bd1-dc18-4010-9427-1bd0a2a4c889#ref=rss)
-* [https://www.spiegel.de/reise/fernweh/wie-wir-uns-ein-bisschen-weltreisefeeling-im-alltag-bewahren](https://www.spiegel.de/reise/fernweh/wie-wir-uns-ein-bisschen-weltreisefeeling-im-alltag-bewahren-a-5ff558b3-574a-4c79-ba23-43e9f55a01de#ref=rss)
-### zahlen
-
-* [https://www.spiegel.de/netzwelt/apps/spotify-schreibt-erstmals-uebers-ganze-jahr-hinweg-schwarze-zahlen](https://www.spiegel.de/netzwelt/apps/spotify-schreibt-erstmals-uebers-ganze-jahr-hinweg-schwarze-zahlen-a-1fe50bd1-dc18-4010-9427-1bd0a2a4c889#ref=rss)
-### machte
-
-* [https://www.spiegel.de/netzwelt/apps/spotify-schreibt-erstmals-uebers-ganze-jahr-hinweg-schwarze-zahlen](https://www.spiegel.de/netzwelt/apps/spotify-schreibt-erstmals-uebers-ganze-jahr-hinweg-schwarze-zahlen-a-1fe50bd1-dc18-4010-9427-1bd0a2a4c889#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-brand-im-icc-leiche-gefunden](https://www.spiegel.de/panorama/berlin-brand-im-icc-leiche-gefunden-a-bebb28c2-d117-4f7a-a247-c0ff4dc14d87#ref=rss)
-### italien
-
-* [https://www.spiegel.de/ausland/italien-donald-trump-junior-soll-erlaubnis-fuer-entenjagd-in-lagune-von-venedig-gehabt-haben](https://www.spiegel.de/ausland/italien-donald-trump-junior-soll-erlaubnis-fuer-entenjagd-in-lagune-von-venedig-gehabt-haben-a-33389659-0c6d-45c2-ab54-0ae8282d212e#ref=rss)
-### venedig
-
-* [https://www.spiegel.de/ausland/italien-donald-trump-junior-soll-erlaubnis-fuer-entenjagd-in-lagune-von-venedig-gehabt-haben](https://www.spiegel.de/ausland/italien-donald-trump-junior-soll-erlaubnis-fuer-entenjagd-in-lagune-von-venedig-gehabt-haben-a-33389659-0c6d-45c2-ab54-0ae8282d212e#ref=rss)
-### sorgte
-
-* [https://www.spiegel.de/ausland/italien-donald-trump-junior-soll-erlaubnis-fuer-entenjagd-in-lagune-von-venedig-gehabt-haben](https://www.spiegel.de/ausland/italien-donald-trump-junior-soll-erlaubnis-fuer-entenjagd-in-lagune-von-venedig-gehabt-haben-a-33389659-0c6d-45c2-ab54-0ae8282d212e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/scholz-merz-weidel-und-habeck-treffen-bei-tv-schlagabtausch-aufeinander](https://www.spiegel.de/politik/deutschland/scholz-merz-weidel-und-habeck-treffen-bei-tv-schlagabtausch-aufeinander-a-495d8a11-f558-4569-a098-24b8ea778dab#ref=rss)
-### wohl
-
-* [https://www.spiegel.de/ausland/italien-donald-trump-junior-soll-erlaubnis-fuer-entenjagd-in-lagune-von-venedig-gehabt-haben](https://www.spiegel.de/ausland/italien-donald-trump-junior-soll-erlaubnis-fuer-entenjagd-in-lagune-von-venedig-gehabt-haben-a-33389659-0c6d-45c2-ab54-0ae8282d212e#ref=rss)
-* [https://www.spiegel.de/ausland/cia-donald-trump-plant-verkleinerung-des-geheimdienstes-abfindungen-fuer-mitarbeiter](https://www.spiegel.de/ausland/cia-donald-trump-plant-verkleinerung-des-geheimdienstes-abfindungen-fuer-mitarbeiter-a-baa65eb1-1789-4528-a5b3-1e3aafdd32ab#ref=rss)
-### simona
-
-* [https://www.spiegel.de/sport/tennis/tennis-fruehere-weltranglistenerste-simona-halep-beendet-ihre-karriere](https://www.spiegel.de/sport/tennis/tennis-fruehere-weltranglistenerste-simona-halep-beendet-ihre-karriere-a-5020594b-319a-4de3-a692-15f77278c554#ref=rss)
-### halep
-
-* [https://www.spiegel.de/sport/tennis/tennis-fruehere-weltranglistenerste-simona-halep-beendet-ihre-karriere](https://www.spiegel.de/sport/tennis/tennis-fruehere-weltranglistenerste-simona-halep-beendet-ihre-karriere-a-5020594b-319a-4de3-a692-15f77278c554#ref=rss)
-### entscheidung
-
-* [https://www.spiegel.de/sport/tennis/tennis-fruehere-weltranglistenerste-simona-halep-beendet-ihre-karriere](https://www.spiegel.de/sport/tennis/tennis-fruehere-weltranglistenerste-simona-halep-beendet-ihre-karriere-a-5020594b-319a-4de3-a692-15f77278c554#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/scholz-merz-weidel-und-habeck-treffen-bei-tv-schlagabtausch-aufeinander](https://www.spiegel.de/politik/deutschland/scholz-merz-weidel-und-habeck-treffen-bei-tv-schlagabtausch-aufeinander-a-495d8a11-f558-4569-a098-24b8ea778dab#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/sport/tennis/tennis-fruehere-weltranglistenerste-simona-halep-beendet-ihre-karriere](https://www.spiegel.de/sport/tennis/tennis-fruehere-weltranglistenerste-simona-halep-beendet-ihre-karriere-a-5020594b-319a-4de3-a692-15f77278c554#ref=rss)
-* [https://www.spiegel.de/sport/basketball/basketball-luka-doncic-als-zuschauer-los-angeles-lakers-siegen-nach-nba-megatransfer](https://www.spiegel.de/sport/basketball/basketball-luka-doncic-als-zuschauer-los-angeles-lakers-siegen-nach-nba-megatransfer-a-735f89a5-a5a4-4c22-ac1c-0c09b518d00e#ref=rss)
-### ariana
-
-* [https://www.spiegel.de/kultur/musik/ariana-grande-popstar-spricht-ueber-depression-und-angstzustaende](https://www.spiegel.de/kultur/musik/ariana-grande-popstar-spricht-ueber-depression-und-angstzustaende-a-a85fb682-a095-4761-92de-b086e10992cd#ref=rss)
-### grande
-
-* [https://www.spiegel.de/kultur/musik/ariana-grande-popstar-spricht-ueber-depression-und-angstzustaende](https://www.spiegel.de/kultur/musik/ariana-grande-popstar-spricht-ueber-depression-und-angstzustaende-a-a85fb682-a095-4761-92de-b086e10992cd#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/panorama/justiz/hunderte-autos-beschaedigt-deutschlandweite-sabotageserie-offenbar-aus-russland-gesteuert](https://www.spiegel.de/panorama/justiz/hunderte-autos-beschaedigt-deutschlandweite-sabotageserie-offenbar-aus-russland-gesteuert-a-7625e908-2f28-4ef8-bb69-35e5bacd6125#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-benjamin-netanyahu-donald-trump-gazastreifen-olaf-scholz-k-frage-klimaziele](https://www.spiegel.de/politik/deutschland/news-benjamin-netanyahu-donald-trump-gazastreifen-olaf-scholz-k-frage-klimaziele-a-c01f0496-6348-4af9-9ffa-8b88ef37cf87#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-russische-sabotage-in-deutschland-friedrich-merz-donald-trump](https://www.spiegel.de/politik/deutschland/news-des-tages-russische-sabotage-in-deutschland-friedrich-merz-donald-trump-a-f5f62af9-d4f0-4f44-8a5b-5183ed7470fa#ref=rss)
+* [https://www.spiegel.de/auto/elektroauto-absatz-in-deutschland-steigt-kraeftig-tesla-bricht-ein](https://www.spiegel.de/auto/elektroauto-absatz-in-deutschland-steigt-kraeftig-tesla-bricht-ein-a-394e8031-5292-4868-befd-42934974ca7e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/hass-auf-juden-zahl-der-antisemitischen-straftaten-bleibt-auf-hohem-niveau](https://www.spiegel.de/politik/deutschland/hass-auf-juden-zahl-der-antisemitischen-straftaten-bleibt-auf-hohem-niveau-a-82f69484-4d89-4223-b7d6-10028be9de70#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/pestel-institut-deutschland-fehlen-550-000-sozialwohnungen](https://www.spiegel.de/wirtschaft/soziales/pestel-institut-deutschland-fehlen-550-000-sozialwohnungen-a-34e381ea-0cce-4140-83ef-9fe55f736034#ref=rss)
+### argentinien
+
+* [https://www.spiegel.de/sport/pferdesport-wie-in-argentinien-gentechnisch-veraenderte-polopferde-gezuechtet-werden](https://www.spiegel.de/sport/pferdesport-wie-in-argentinien-gentechnisch-veraenderte-polopferde-gezuechtet-werden-a-f387898c-9c4b-433c-9f3f-2bd251c0ad68#ref=rss)
+* [https://www.spiegel.de/ausland/argentinien-kuendigt-who-austritt-an](https://www.spiegel.de/ausland/argentinien-kuendigt-who-austritt-an-a-8d3350f0-b578-4d31-b74c-ec31858d795e#ref=rss)
+### viele
+
+* [https://www.spiegel.de/wirtschaft/soziales/demokratie-warum-schwimmbaeder-mehr-helfen-als-workshops](https://www.spiegel.de/wirtschaft/soziales/demokratie-warum-schwimmbaeder-mehr-helfen-als-workshops-a-2e121c58-d992-465f-9ba7-bcdc192146c7#ref=rss)
+* [https://www.spiegel.de/auto/elektroauto-absatz-in-deutschland-steigt-kraeftig-tesla-bricht-ein](https://www.spiegel.de/auto/elektroauto-absatz-in-deutschland-steigt-kraeftig-tesla-bricht-ein-a-394e8031-5292-4868-befd-42934974ca7e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/pestel-institut-deutschland-fehlen-550-000-sozialwohnungen](https://www.spiegel.de/wirtschaft/soziales/pestel-institut-deutschland-fehlen-550-000-sozialwohnungen-a-34e381ea-0cce-4140-83ef-9fe55f736034#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/apple-invites-apple-will-jetzt-beim-party-planen-helfen](https://www.spiegel.de/netzwelt/apps/apple-invites-apple-will-jetzt-beim-party-planen-helfen-a-0d855509-7cc5-4008-81d3-95203d59ee30#ref=rss)
 ### offenbar
 
-* [https://www.spiegel.de/panorama/justiz/hunderte-autos-beschaedigt-deutschlandweite-sabotageserie-offenbar-aus-russland-gesteuert](https://www.spiegel.de/panorama/justiz/hunderte-autos-beschaedigt-deutschlandweite-sabotageserie-offenbar-aus-russland-gesteuert-a-7625e908-2f28-4ef8-bb69-35e5bacd6125#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/google-distanziert-sich-nicht-mehr-explizit-von-ki-waffen](https://www.spiegel.de/netzwelt/netzpolitik/google-distanziert-sich-nicht-mehr-explizit-von-ki-waffen-a-53a10a6b-954f-4a8e-bd81-8a91e953989e#ref=rss)
-### gehen
+* [https://www.spiegel.de/auto/bauschaum-im-auspuff-wenn-der-motor-nicht-mehr-atmet](https://www.spiegel.de/auto/bauschaum-im-auspuff-wenn-der-motor-nicht-mehr-atmet-a-242e6adf-d70d-4a56-9960-6391c4aed40d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-russische-sabotage-in-deutschland-friedrich-merz-donald-trump](https://www.spiegel.de/politik/deutschland/news-des-tages-russische-sabotage-in-deutschland-friedrich-merz-donald-trump-a-f5f62af9-d4f0-4f44-8a5b-5183ed7470fa#ref=rss)
+* [https://www.spiegel.de/auto/elektroauto-absatz-in-deutschland-steigt-kraeftig-tesla-bricht-ein](https://www.spiegel.de/auto/elektroauto-absatz-in-deutschland-steigt-kraeftig-tesla-bricht-ein-a-394e8031-5292-4868-befd-42934974ca7e#ref=rss)
+* [https://www.spiegel.de/kultur/kino/academy-awards-2025-netflix-streicht-emilia-perez-star-karla-sofia-gascon-offenbar-aus-oscar-kampagne](https://www.spiegel.de/kultur/kino/academy-awards-2025-netflix-streicht-emilia-perez-star-karla-sofia-gascon-offenbar-aus-oscar-kampagne-a-46bbf61d-5c55-44c5-976b-991298b1c8d2#ref=rss)
+### donald
 
-* [https://www.spiegel.de/panorama/justiz/hunderte-autos-beschaedigt-deutschlandweite-sabotageserie-offenbar-aus-russland-gesteuert](https://www.spiegel.de/panorama/justiz/hunderte-autos-beschaedigt-deutschlandweite-sabotageserie-offenbar-aus-russland-gesteuert-a-7625e908-2f28-4ef8-bb69-35e5bacd6125#ref=rss)
-* [https://www.spiegel.de/fitness/gesundheit-fitness-wie-wir-es-schaffen-im-alltag-mehr-zu-gehen](https://www.spiegel.de/fitness/gesundheit-fitness-wie-wir-es-schaffen-im-alltag-mehr-zu-gehen-a-9a6fda2f-1bc7-4843-87a8-799dd5420428#ref=rss)
-### scheint
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-russische-sabotage-in-deutschland-friedrich-merz-donald-trump](https://www.spiegel.de/politik/deutschland/news-des-tages-russische-sabotage-in-deutschland-friedrich-merz-donald-trump-a-f5f62af9-d4f0-4f44-8a5b-5183ed7470fa#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-donald-trumps-fuer-eine-uebernahme-der-kuestenstreifens-scheinen-voellig-unrealistisch](https://www.spiegel.de/ausland/gaza-donald-trumps-fuer-eine-uebernahme-der-kuestenstreifens-scheinen-voellig-unrealistisch-a-e68e380c-a5ac-4e12-8e06-3996fdd89897#ref=rss)
+* [https://www.spiegel.de/ausland/argentinien-kuendigt-who-austritt-an](https://www.spiegel.de/ausland/argentinien-kuendigt-who-austritt-an-a-8d3350f0-b578-4d31-b74c-ec31858d795e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/aldi-sued-discounter-entfernt-bekenntnis-zu-diversitaet-von-us-website](https://www.spiegel.de/wirtschaft/unternehmen/aldi-sued-discounter-entfernt-bekenntnis-zu-diversitaet-von-us-website-a-95d93e60-5c70-429c-b8d8-4e6c391e1309#ref=rss)
+### trump
 
-* [https://www.spiegel.de/wirtschaft/blumen-am-valentinstag-umweltbelastung-durch-importierte-schnittblumen](https://www.spiegel.de/wirtschaft/blumen-am-valentinstag-umweltbelastung-durch-importierte-schnittblumen-a-327bebe0-66e7-4ecc-9033-4fa05a296d6d#ref=rss)
-* [https://www.spiegel.de/panorama/leute/heidi-klum-war-in-gntm-anfangsjahren-durchgehend-k-o](https://www.spiegel.de/panorama/leute/heidi-klum-war-in-gntm-anfangsjahren-durchgehend-k-o-a-32560818-150c-4bbf-bf50-12f89bb963a9#ref=rss)
-### google
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-russische-sabotage-in-deutschland-friedrich-merz-donald-trump](https://www.spiegel.de/politik/deutschland/news-des-tages-russische-sabotage-in-deutschland-friedrich-merz-donald-trump-a-f5f62af9-d4f0-4f44-8a5b-5183ed7470fa#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-donald-trumps-fuer-eine-uebernahme-der-kuestenstreifens-scheinen-voellig-unrealistisch](https://www.spiegel.de/ausland/gaza-donald-trumps-fuer-eine-uebernahme-der-kuestenstreifens-scheinen-voellig-unrealistisch-a-e68e380c-a5ac-4e12-8e06-3996fdd89897#ref=rss)
+* [https://www.spiegel.de/ausland/argentinien-kuendigt-who-austritt-an](https://www.spiegel.de/ausland/argentinien-kuendigt-who-austritt-an-a-8d3350f0-b578-4d31-b74c-ec31858d795e#ref=rss)
+### grünen
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/google-distanziert-sich-nicht-mehr-explizit-von-ki-waffen](https://www.spiegel.de/netzwelt/netzpolitik/google-distanziert-sich-nicht-mehr-explizit-von-ki-waffen-a-53a10a6b-954f-4a8e-bd81-8a91e953989e#ref=rss)
-### friedrich
+* [https://www.spiegel.de/politik/deutschland/berlin-wahlkampfhelfer-von-gruenen-und-cdu-attackiert](https://www.spiegel.de/politik/deutschland/berlin-wahlkampfhelfer-von-gruenen-und-cdu-attackiert-a-d993ba82-3868-4cec-902e-f4717b45a923#ref=rss)
+* [https://www.spiegel.de/auto/bauschaum-im-auspuff-wenn-der-motor-nicht-mehr-atmet](https://www.spiegel.de/auto/bauschaum-im-auspuff-wenn-der-motor-nicht-mehr-atmet-a-242e6adf-d70d-4a56-9960-6391c4aed40d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gruene-und-robert-habeck-migrationsstreit-spaltet-die-partei-vor-der-wahl](https://www.spiegel.de/politik/deutschland/gruene-und-robert-habeck-migrationsstreit-spaltet-die-partei-vor-der-wahl-a-9f02d177-b98c-41dd-b216-60b4de0ad257#ref=rss)
+### bauschaum
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-wo-die-kritik-am-cdu-chef-masslos-ist-meinung](https://www.spiegel.de/politik/deutschland/friedrich-merz-wo-die-kritik-am-cdu-chef-masslos-ist-meinung-a-78fac396-ecba-4525-81f3-f4459c1705c5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/scholz-merz-weidel-und-habeck-treffen-bei-tv-schlagabtausch-aufeinander](https://www.spiegel.de/politik/deutschland/scholz-merz-weidel-und-habeck-treffen-bei-tv-schlagabtausch-aufeinander-a-495d8a11-f558-4569-a098-24b8ea778dab#ref=rss)
-### kritik
+* [https://www.spiegel.de/auto/bauschaum-im-auspuff-wenn-der-motor-nicht-mehr-atmet](https://www.spiegel.de/auto/bauschaum-im-auspuff-wenn-der-motor-nicht-mehr-atmet-a-242e6adf-d70d-4a56-9960-6391c4aed40d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-russische-sabotage-in-deutschland-friedrich-merz-donald-trump](https://www.spiegel.de/politik/deutschland/news-des-tages-russische-sabotage-in-deutschland-friedrich-merz-donald-trump-a-f5f62af9-d4f0-4f44-8a5b-5183ed7470fa#ref=rss)
+### afd
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-wo-die-kritik-am-cdu-chef-masslos-ist-meinung](https://www.spiegel.de/politik/deutschland/friedrich-merz-wo-die-kritik-am-cdu-chef-masslos-ist-meinung-a-78fac396-ecba-4525-81f3-f4459c1705c5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/scholz-merz-weidel-und-habeck-treffen-bei-tv-schlagabtausch-aufeinander](https://www.spiegel.de/politik/deutschland/scholz-merz-weidel-und-habeck-treffen-bei-tv-schlagabtausch-aufeinander-a-495d8a11-f558-4569-a098-24b8ea778dab#ref=rss)
-### könne
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-russische-sabotage-in-deutschland-friedrich-merz-donald-trump](https://www.spiegel.de/politik/deutschland/news-des-tages-russische-sabotage-in-deutschland-friedrich-merz-donald-trump-a-f5f62af9-d4f0-4f44-8a5b-5183ed7470fa#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-verfassungsschutzgutachten-aus-2021-in-voller-laenge-veroeffentlicht](https://www.spiegel.de/politik/deutschland/afd-verfassungsschutzgutachten-aus-2021-in-voller-laenge-veroeffentlicht-a-df6e505e-1e83-4067-8ed8-c1ecd3284bb2#ref=rss)
+### volkswagen
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-wo-die-kritik-am-cdu-chef-masslos-ist-meinung](https://www.spiegel.de/politik/deutschland/friedrich-merz-wo-die-kritik-am-cdu-chef-masslos-ist-meinung-a-78fac396-ecba-4525-81f3-f4459c1705c5#ref=rss)
-* [https://www.spiegel.de/ausland/benjamin-netanyahu-bei-donald-trump-die-usa-schlagen-vor-den-gazastreifen-zu-uebernehmen-bei-trump](https://www.spiegel.de/ausland/benjamin-netanyahu-bei-donald-trump-die-usa-schlagen-vor-den-gazastreifen-zu-uebernehmen-bei-trump-a-0edc3a9e-f36d-43c9-90a4-32e43f662c7c#ref=rss)
-### post
+* [https://www.spiegel.de/auto/vw-elektroauto-volkswagen-zeigt-erste-skizze-von-20-000-euro-stromer](https://www.spiegel.de/auto/vw-elektroauto-volkswagen-zeigt-erste-skizze-von-20-000-euro-stromer-a-0f634fe0-444f-4c25-92d3-19a2e26c7600#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-betriebsratschefin-daniela-cavallo-verteidigt-kuerzungskompromiss](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-betriebsratschefin-daniela-cavallo-verteidigt-kuerzungskompromiss-a-fb9b375c-3476-41fc-868c-8b2fc356a73a#ref=rss)
+### apple
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-ver-di-ruft-paketzusteller-zum-warnstreik-auf](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-ver-di-ruft-paketzusteller-zum-warnstreik-auf-a-2a63ab3e-f073-4de2-8cbd-6be87a31a276#ref=rss)
-### verdi
+* [https://www.spiegel.de/netzwelt/apps/apple-invites-apple-will-jetzt-beim-party-planen-helfen](https://www.spiegel.de/netzwelt/apps/apple-invites-apple-will-jetzt-beim-party-planen-helfen-a-0d855509-7cc5-4008-81d3-95203d59ee30#ref=rss)
+### wahlkampfhelfer
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-ver-di-ruft-paketzusteller-zum-warnstreik-auf](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-ver-di-ruft-paketzusteller-zum-warnstreik-auf-a-2a63ab3e-f073-4de2-8cbd-6be87a31a276#ref=rss)
-### paketzusteller
+* [https://www.spiegel.de/politik/deutschland/berlin-wahlkampfhelfer-von-gruenen-und-cdu-attackiert](https://www.spiegel.de/politik/deutschland/berlin-wahlkampfhelfer-von-gruenen-und-cdu-attackiert-a-d993ba82-3868-4cec-902e-f4717b45a923#ref=rss)
+### cdu
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-ver-di-ruft-paketzusteller-zum-warnstreik-auf](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-ver-di-ruft-paketzusteller-zum-warnstreik-auf-a-2a63ab3e-f073-4de2-8cbd-6be87a31a276#ref=rss)
-### cia
+* [https://www.spiegel.de/politik/deutschland/berlin-wahlkampfhelfer-von-gruenen-und-cdu-attackiert](https://www.spiegel.de/politik/deutschland/berlin-wahlkampfhelfer-von-gruenen-und-cdu-attackiert-a-d993ba82-3868-4cec-902e-f4717b45a923#ref=rss)
+### mehrere
 
-* [https://www.spiegel.de/ausland/cia-donald-trump-plant-verkleinerung-des-geheimdienstes-abfindungen-fuer-mitarbeiter](https://www.spiegel.de/ausland/cia-donald-trump-plant-verkleinerung-des-geheimdienstes-abfindungen-fuer-mitarbeiter-a-baa65eb1-1789-4528-a5b3-1e3aafdd32ab#ref=rss)
-### plant
+* [https://www.spiegel.de/politik/deutschland/berlin-wahlkampfhelfer-von-gruenen-und-cdu-attackiert](https://www.spiegel.de/politik/deutschland/berlin-wahlkampfhelfer-von-gruenen-und-cdu-attackiert-a-d993ba82-3868-4cec-902e-f4717b45a923#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-dementiert-berichte-ueber-angeblichen-vorstoss-lars-klingbeils-zu-kanzlerkandidatur](https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-dementiert-berichte-ueber-angeblichen-vorstoss-lars-klingbeils-zu-kanzlerkandidatur-a-81c13505-8ffc-4c88-9142-5f325cf2ff71#ref=rss)
+### grüne
 
-* [https://www.spiegel.de/ausland/cia-donald-trump-plant-verkleinerung-des-geheimdienstes-abfindungen-fuer-mitarbeiter](https://www.spiegel.de/ausland/cia-donald-trump-plant-verkleinerung-des-geheimdienstes-abfindungen-fuer-mitarbeiter-a-baa65eb1-1789-4528-a5b3-1e3aafdd32ab#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/temu-und-shein-eu-plant-offenbar-neue-gebuehr-us-post-blockiert-pakete-aus-china-und-hongkong](https://www.spiegel.de/wirtschaft/unternehmen/temu-und-shein-eu-plant-offenbar-neue-gebuehr-us-post-blockiert-pakete-aus-china-und-hongkong-a-a2d78ca3-f9f7-43b2-9846-14a1a3757243#ref=rss)
-### mitarbeiter
-
-* [https://www.spiegel.de/ausland/cia-donald-trump-plant-verkleinerung-des-geheimdienstes-abfindungen-fuer-mitarbeiter](https://www.spiegel.de/ausland/cia-donald-trump-plant-verkleinerung-des-geheimdienstes-abfindungen-fuer-mitarbeiter-a-baa65eb1-1789-4528-a5b3-1e3aafdd32ab#ref=rss)
-### laut
-
-* [https://www.spiegel.de/ausland/cia-donald-trump-plant-verkleinerung-des-geheimdienstes-abfindungen-fuer-mitarbeiter](https://www.spiegel.de/ausland/cia-donald-trump-plant-verkleinerung-des-geheimdienstes-abfindungen-fuer-mitarbeiter-a-baa65eb1-1789-4528-a5b3-1e3aafdd32ab#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/kinderarmut-viele-eltern-sparen-am-essen](https://www.spiegel.de/wirtschaft/service/kinderarmut-viele-eltern-sparen-am-essen-a-120d5c7c-c881-497e-ba17-4a271ea293be#ref=rss)
-### alle
-
-* [https://www.spiegel.de/ausland/cia-donald-trump-plant-verkleinerung-des-geheimdienstes-abfindungen-fuer-mitarbeiter](https://www.spiegel.de/ausland/cia-donald-trump-plant-verkleinerung-des-geheimdienstes-abfindungen-fuer-mitarbeiter-a-baa65eb1-1789-4528-a5b3-1e3aafdd32ab#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/kinderarmut-viele-eltern-sparen-am-essen](https://www.spiegel.de/wirtschaft/service/kinderarmut-viele-eltern-sparen-am-essen-a-120d5c7c-c881-497e-ba17-4a271ea293be#ref=rss)
-### eltern
-
-* [https://www.spiegel.de/wirtschaft/service/kinderarmut-viele-eltern-sparen-am-essen](https://www.spiegel.de/wirtschaft/service/kinderarmut-viele-eltern-sparen-am-essen-a-120d5c7c-c881-497e-ba17-4a271ea293be#ref=rss)
-### sparen
-
-* [https://www.spiegel.de/wirtschaft/service/kinderarmut-viele-eltern-sparen-am-essen](https://www.spiegel.de/wirtschaft/service/kinderarmut-viele-eltern-sparen-am-essen-a-120d5c7c-c881-497e-ba17-4a271ea293be#ref=rss)
-### essen
-
-* [https://www.spiegel.de/wirtschaft/service/kinderarmut-viele-eltern-sparen-am-essen](https://www.spiegel.de/wirtschaft/service/kinderarmut-viele-eltern-sparen-am-essen-a-120d5c7c-c881-497e-ba17-4a271ea293be#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung/stress-und-essen-wie-wir-unser-essverhalten-neu-programmieren](https://www.spiegel.de/gesundheit/ernaehrung/stress-und-essen-wie-wir-unser-essverhalten-neu-programmieren-a-4f7bc8b7-9343-43d3-bebe-8b2e000bc486#ref=rss)
-### ernährung
-
-* [https://www.spiegel.de/wirtschaft/service/kinderarmut-viele-eltern-sparen-am-essen](https://www.spiegel.de/wirtschaft/service/kinderarmut-viele-eltern-sparen-am-essen-a-120d5c7c-c881-497e-ba17-4a271ea293be#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung/stress-und-essen-wie-wir-unser-essverhalten-neu-programmieren](https://www.spiegel.de/gesundheit/ernaehrung/stress-und-essen-wie-wir-unser-essverhalten-neu-programmieren-a-4f7bc8b7-9343-43d3-bebe-8b2e000bc486#ref=rss)
-### luka
-
-* [https://www.spiegel.de/sport/basketball/basketball-luka-doncic-als-zuschauer-los-angeles-lakers-siegen-nach-nba-megatransfer](https://www.spiegel.de/sport/basketball/basketball-luka-doncic-als-zuschauer-los-angeles-lakers-siegen-nach-nba-megatransfer-a-735f89a5-a5a4-4c22-ac1c-0c09b518d00e#ref=rss)
-### dončić
-
-* [https://www.spiegel.de/sport/basketball/basketball-luka-doncic-als-zuschauer-los-angeles-lakers-siegen-nach-nba-megatransfer](https://www.spiegel.de/sport/basketball/basketball-luka-doncic-als-zuschauer-los-angeles-lakers-siegen-nach-nba-megatransfer-a-735f89a5-a5a4-4c22-ac1c-0c09b518d00e#ref=rss)
-### los
-
-* [https://www.spiegel.de/sport/basketball/basketball-luka-doncic-als-zuschauer-los-angeles-lakers-siegen-nach-nba-megatransfer](https://www.spiegel.de/sport/basketball/basketball-luka-doncic-als-zuschauer-los-angeles-lakers-siegen-nach-nba-megatransfer-a-735f89a5-a5a4-4c22-ac1c-0c09b518d00e#ref=rss)
-### angeles
-
-* [https://www.spiegel.de/sport/basketball/basketball-luka-doncic-als-zuschauer-los-angeles-lakers-siegen-nach-nba-megatransfer](https://www.spiegel.de/sport/basketball/basketball-luka-doncic-als-zuschauer-los-angeles-lakers-siegen-nach-nba-megatransfer-a-735f89a5-a5a4-4c22-ac1c-0c09b518d00e#ref=rss)
-### heidi
-
-* [https://www.spiegel.de/panorama/leute/heidi-klum-war-in-gntm-anfangsjahren-durchgehend-k-o](https://www.spiegel.de/panorama/leute/heidi-klum-war-in-gntm-anfangsjahren-durchgehend-k-o-a-32560818-150c-4bbf-bf50-12f89bb963a9#ref=rss)
-### klum
-
-* [https://www.spiegel.de/panorama/leute/heidi-klum-war-in-gntm-anfangsjahren-durchgehend-k-o](https://www.spiegel.de/panorama/leute/heidi-klum-war-in-gntm-anfangsjahren-durchgehend-k-o-a-32560818-150c-4bbf-bf50-12f89bb963a9#ref=rss)
-### gebühr
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/temu-und-shein-eu-plant-offenbar-neue-gebuehr-us-post-blockiert-pakete-aus-china-und-hongkong](https://www.spiegel.de/wirtschaft/unternehmen/temu-und-shein-eu-plant-offenbar-neue-gebuehr-us-post-blockiert-pakete-aus-china-und-hongkong-a-a2d78ca3-f9f7-43b2-9846-14a1a3757243#ref=rss)
-### uspost
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/temu-und-shein-eu-plant-offenbar-neue-gebuehr-us-post-blockiert-pakete-aus-china-und-hongkong](https://www.spiegel.de/wirtschaft/unternehmen/temu-und-shein-eu-plant-offenbar-neue-gebuehr-us-post-blockiert-pakete-aus-china-und-hongkong-a-a2d78ca3-f9f7-43b2-9846-14a1a3757243#ref=rss)
-### tvduell
-
-* [https://www.spiegel.de/politik/deutschland/scholz-merz-weidel-und-habeck-treffen-bei-tv-schlagabtausch-aufeinander](https://www.spiegel.de/politik/deutschland/scholz-merz-weidel-und-habeck-treffen-bei-tv-schlagabtausch-aufeinander-a-495d8a11-f558-4569-a098-24b8ea778dab#ref=rss)
-### rtl
-
-* [https://www.spiegel.de/politik/deutschland/scholz-merz-weidel-und-habeck-treffen-bei-tv-schlagabtausch-aufeinander](https://www.spiegel.de/politik/deutschland/scholz-merz-weidel-und-habeck-treffen-bei-tv-schlagabtausch-aufeinander-a-495d8a11-f558-4569-a098-24b8ea778dab#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-wahlkampfhelfer-von-gruenen-und-cdu-attackiert](https://www.spiegel.de/politik/deutschland/berlin-wahlkampfhelfer-von-gruenen-und-cdu-attackiert-a-d993ba82-3868-4cec-902e-f4717b45a923#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gruene-und-robert-habeck-migrationsstreit-spaltet-die-partei-vor-der-wahl](https://www.spiegel.de/politik/deutschland/gruene-und-robert-habeck-migrationsstreit-spaltet-die-partei-vor-der-wahl-a-9f02d177-b98c-41dd-b216-60b4de0ad257#ref=rss)
 ### olaf
 
-* [https://www.spiegel.de/politik/deutschland/scholz-merz-weidel-und-habeck-treffen-bei-tv-schlagabtausch-aufeinander](https://www.spiegel.de/politik/deutschland/scholz-merz-weidel-und-habeck-treffen-bei-tv-schlagabtausch-aufeinander-a-495d8a11-f558-4569-a098-24b8ea778dab#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-benjamin-netanyahu-donald-trump-gazastreifen-olaf-scholz-k-frage-klimaziele](https://www.spiegel.de/politik/deutschland/news-benjamin-netanyahu-donald-trump-gazastreifen-olaf-scholz-k-frage-klimaziele-a-c01f0496-6348-4af9-9ffa-8b88ef37cf87#ref=rss)
-### kurz
+* [https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-dementiert-berichte-ueber-angeblichen-vorstoss-lars-klingbeils-zu-kanzlerkandidatur](https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-dementiert-berichte-ueber-angeblichen-vorstoss-lars-klingbeils-zu-kanzlerkandidatur-a-81c13505-8ffc-4c88-9142-5f325cf2ff71#ref=rss)
+### scholz
 
-* [https://www.spiegel.de/politik/deutschland/scholz-merz-weidel-und-habeck-treffen-bei-tv-schlagabtausch-aufeinander](https://www.spiegel.de/politik/deutschland/scholz-merz-weidel-und-habeck-treffen-bei-tv-schlagabtausch-aufeinander-a-495d8a11-f558-4569-a098-24b8ea778dab#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-benjamin-netanyahu-donald-trump-gazastreifen-olaf-scholz-k-frage-klimaziele](https://www.spiegel.de/politik/deutschland/news-benjamin-netanyahu-donald-trump-gazastreifen-olaf-scholz-k-frage-klimaziele-a-c01f0496-6348-4af9-9ffa-8b88ef37cf87#ref=rss)
-### wahl
+* [https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-dementiert-berichte-ueber-angeblichen-vorstoss-lars-klingbeils-zu-kanzlerkandidatur](https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-dementiert-berichte-ueber-angeblichen-vorstoss-lars-klingbeils-zu-kanzlerkandidatur-a-81c13505-8ffc-4c88-9142-5f325cf2ff71#ref=rss)
+### lars
 
-* [https://www.spiegel.de/politik/deutschland/scholz-merz-weidel-und-habeck-treffen-bei-tv-schlagabtausch-aufeinander](https://www.spiegel.de/politik/deutschland/scholz-merz-weidel-und-habeck-treffen-bei-tv-schlagabtausch-aufeinander-a-495d8a11-f558-4569-a098-24b8ea778dab#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-benjamin-netanyahu-donald-trump-gazastreifen-olaf-scholz-k-frage-klimaziele](https://www.spiegel.de/politik/deutschland/news-benjamin-netanyahu-donald-trump-gazastreifen-olaf-scholz-k-frage-klimaziele-a-c01f0496-6348-4af9-9ffa-8b88ef37cf87#ref=rss)
-### gazastreifen
+* [https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-dementiert-berichte-ueber-angeblichen-vorstoss-lars-klingbeils-zu-kanzlerkandidatur](https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-dementiert-berichte-ueber-angeblichen-vorstoss-lars-klingbeils-zu-kanzlerkandidatur-a-81c13505-8ffc-4c88-9142-5f325cf2ff71#ref=rss)
+### kanzlerkandidatur
 
-* [https://www.spiegel.de/ausland/benjamin-netanyahu-bei-donald-trump-die-usa-schlagen-vor-den-gazastreifen-zu-uebernehmen-bei-trump](https://www.spiegel.de/ausland/benjamin-netanyahu-bei-donald-trump-die-usa-schlagen-vor-den-gazastreifen-zu-uebernehmen-bei-trump-a-0edc3a9e-f36d-43c9-90a4-32e43f662c7c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-benjamin-netanyahu-donald-trump-gazastreifen-olaf-scholz-k-frage-klimaziele](https://www.spiegel.de/politik/deutschland/news-benjamin-netanyahu-donald-trump-gazastreifen-olaf-scholz-k-frage-klimaziele-a-c01f0496-6348-4af9-9ffa-8b88ef37cf87#ref=rss)
-### wolodymyr
+* [https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-dementiert-berichte-ueber-angeblichen-vorstoss-lars-klingbeils-zu-kanzlerkandidatur](https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-dementiert-berichte-ueber-angeblichen-vorstoss-lars-klingbeils-zu-kanzlerkandidatur-a-81c13505-8ffc-4c88-9142-5f325cf2ff71#ref=rss)
+### berichten
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-wuerde-notfalls-auch-direkt-mit-wladimir-putin-verhandeln](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-wuerde-notfalls-auch-direkt-mit-wladimir-putin-verhandeln-a-a0cb441d-f267-4f43-9e27-cc2663382df4#ref=rss)
-### selenskyj
+* [https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-dementiert-berichte-ueber-angeblichen-vorstoss-lars-klingbeils-zu-kanzlerkandidatur](https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-dementiert-berichte-ueber-angeblichen-vorstoss-lars-klingbeils-zu-kanzlerkandidatur-a-81c13505-8ffc-4c88-9142-5f325cf2ff71#ref=rss)
+* [https://www.spiegel.de/ausland/schweden-augenzeugen-von-oerebro-berichten-er-war-so-nah-wir-konnten-seine-schritte-hoeren](https://www.spiegel.de/ausland/schweden-augenzeugen-von-oerebro-berichten-er-war-so-nah-wir-konnten-seine-schritte-hoeren-a-369632a1-c3c9-4de1-848a-b84dccba70cd#ref=rss)
+### nie
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-wuerde-notfalls-auch-direkt-mit-wladimir-putin-verhandeln](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-wuerde-notfalls-auch-direkt-mit-wladimir-putin-verhandeln-a-a0cb441d-f267-4f43-9e27-cc2663382df4#ref=rss)
-### wladimir
+* [https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-dementiert-berichte-ueber-angeblichen-vorstoss-lars-klingbeils-zu-kanzlerkandidatur](https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-dementiert-berichte-ueber-angeblichen-vorstoss-lars-klingbeils-zu-kanzlerkandidatur-a-81c13505-8ffc-4c88-9142-5f325cf2ff71#ref=rss)
+* [https://www.spiegel.de/auto/elektroauto-absatz-in-deutschland-steigt-kraeftig-tesla-bricht-ein](https://www.spiegel.de/auto/elektroauto-absatz-in-deutschland-steigt-kraeftig-tesla-bricht-ein-a-394e8031-5292-4868-befd-42934974ca7e#ref=rss)
+### gezüchtet
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-wuerde-notfalls-auch-direkt-mit-wladimir-putin-verhandeln](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-wuerde-notfalls-auch-direkt-mit-wladimir-putin-verhandeln-a-a0cb441d-f267-4f43-9e27-cc2663382df4#ref=rss)
-### putin
+* [https://www.spiegel.de/sport/pferdesport-wie-in-argentinien-gentechnisch-veraenderte-polopferde-gezuechtet-werden](https://www.spiegel.de/sport/pferdesport-wie-in-argentinien-gentechnisch-veraenderte-polopferde-gezuechtet-werden-a-f387898c-9c4b-433c-9f3f-2bd251c0ad68#ref=rss)
+### demokratie
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-wuerde-notfalls-auch-direkt-mit-wladimir-putin-verhandeln](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-wuerde-notfalls-auch-direkt-mit-wladimir-putin-verhandeln-a-a0cb441d-f267-4f43-9e27-cc2663382df4#ref=rss)
-### vagateers
+* [https://www.spiegel.de/wirtschaft/soziales/demokratie-warum-schwimmbaeder-mehr-helfen-als-workshops](https://www.spiegel.de/wirtschaft/soziales/demokratie-warum-schwimmbaeder-mehr-helfen-als-workshops-a-2e121c58-d992-465f-9ba7-bcdc192146c7#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/reise/fernweh/wie-wir-uns-ein-bisschen-weltreisefeeling-im-alltag-bewahren](https://www.spiegel.de/reise/fernweh/wie-wir-uns-ein-bisschen-weltreisefeeling-im-alltag-bewahren-a-5ff558b3-574a-4c79-ba23-43e9f55a01de#ref=rss)
-### unser
+* [https://www.spiegel.de/wirtschaft/soziales/demokratie-warum-schwimmbaeder-mehr-helfen-als-workshops](https://www.spiegel.de/wirtschaft/soziales/demokratie-warum-schwimmbaeder-mehr-helfen-als-workshops-a-2e121c58-d992-465f-9ba7-bcdc192146c7#ref=rss)
+* [https://www.spiegel.de/auto/bauschaum-im-auspuff-wenn-der-motor-nicht-mehr-atmet](https://www.spiegel.de/auto/bauschaum-im-auspuff-wenn-der-motor-nicht-mehr-atmet-a-242e6adf-d70d-4a56-9960-6391c4aed40d#ref=rss)
+### helfen
 
-* [https://www.spiegel.de/gesundheit/ernaehrung/stress-und-essen-wie-wir-unser-essverhalten-neu-programmieren](https://www.spiegel.de/gesundheit/ernaehrung/stress-und-essen-wie-wir-unser-essverhalten-neu-programmieren-a-4f7bc8b7-9343-43d3-bebe-8b2e000bc486#ref=rss)
-### essverhalten
+* [https://www.spiegel.de/wirtschaft/soziales/demokratie-warum-schwimmbaeder-mehr-helfen-als-workshops](https://www.spiegel.de/wirtschaft/soziales/demokratie-warum-schwimmbaeder-mehr-helfen-als-workshops-a-2e121c58-d992-465f-9ba7-bcdc192146c7#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/apple-invites-apple-will-jetzt-beim-party-planen-helfen](https://www.spiegel.de/netzwelt/apps/apple-invites-apple-will-jetzt-beim-party-planen-helfen-a-0d855509-7cc5-4008-81d3-95203d59ee30#ref=rss)
+### workshops
 
-* [https://www.spiegel.de/gesundheit/ernaehrung/stress-und-essen-wie-wir-unser-essverhalten-neu-programmieren](https://www.spiegel.de/gesundheit/ernaehrung/stress-und-essen-wie-wir-unser-essverhalten-neu-programmieren-a-4f7bc8b7-9343-43d3-bebe-8b2e000bc486#ref=rss)
-### neu
+* [https://www.spiegel.de/wirtschaft/soziales/demokratie-warum-schwimmbaeder-mehr-helfen-als-workshops](https://www.spiegel.de/wirtschaft/soziales/demokratie-warum-schwimmbaeder-mehr-helfen-als-workshops-a-2e121c58-d992-465f-9ba7-bcdc192146c7#ref=rss)
+### laut
 
-* [https://www.spiegel.de/gesundheit/ernaehrung/stress-und-essen-wie-wir-unser-essverhalten-neu-programmieren](https://www.spiegel.de/gesundheit/ernaehrung/stress-und-essen-wie-wir-unser-essverhalten-neu-programmieren-a-4f7bc8b7-9343-43d3-bebe-8b2e000bc486#ref=rss)
-### programmieren
+* [https://www.spiegel.de/auto/bauschaum-im-auspuff-wenn-der-motor-nicht-mehr-atmet](https://www.spiegel.de/auto/bauschaum-im-auspuff-wenn-der-motor-nicht-mehr-atmet-a-242e6adf-d70d-4a56-9960-6391c4aed40d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/frankreich-ermittler-gehen-neuer-spur-in-mysterioesem-vierfachmordfall-nach](https://www.spiegel.de/panorama/justiz/frankreich-ermittler-gehen-neuer-spur-in-mysterioesem-vierfachmordfall-nach-a-6f1368e2-53ec-415a-b0b9-64b7c7857a61#ref=rss)
+### indien
 
-* [https://www.spiegel.de/gesundheit/ernaehrung/stress-und-essen-wie-wir-unser-essverhalten-neu-programmieren](https://www.spiegel.de/gesundheit/ernaehrung/stress-und-essen-wie-wir-unser-essverhalten-neu-programmieren-a-4f7bc8b7-9343-43d3-bebe-8b2e000bc486#ref=rss)
-### benjamin
+* [https://www.spiegel.de/panorama/indien-77-jaehriger-deutscher-stirbt-nach-elefantenattacke](https://www.spiegel.de/panorama/indien-77-jaehriger-deutscher-stirbt-nach-elefantenattacke-a-b5d1a17b-7587-446b-9f21-e6eeade7b579#ref=rss)
+### deutscher
 
-* [https://www.spiegel.de/politik/deutschland/news-benjamin-netanyahu-donald-trump-gazastreifen-olaf-scholz-k-frage-klimaziele](https://www.spiegel.de/politik/deutschland/news-benjamin-netanyahu-donald-trump-gazastreifen-olaf-scholz-k-frage-klimaziele-a-c01f0496-6348-4af9-9ffa-8b88ef37cf87#ref=rss)
-### kfrage
+* [https://www.spiegel.de/panorama/indien-77-jaehriger-deutscher-stirbt-nach-elefantenattacke](https://www.spiegel.de/panorama/indien-77-jaehriger-deutscher-stirbt-nach-elefantenattacke-a-b5d1a17b-7587-446b-9f21-e6eeade7b579#ref=rss)
+### mann
 
-* [https://www.spiegel.de/politik/deutschland/news-benjamin-netanyahu-donald-trump-gazastreifen-olaf-scholz-k-frage-klimaziele](https://www.spiegel.de/politik/deutschland/news-benjamin-netanyahu-donald-trump-gazastreifen-olaf-scholz-k-frage-klimaziele-a-c01f0496-6348-4af9-9ffa-8b88ef37cf87#ref=rss)
+* [https://www.spiegel.de/panorama/indien-77-jaehriger-deutscher-stirbt-nach-elefantenattacke](https://www.spiegel.de/panorama/indien-77-jaehriger-deutscher-stirbt-nach-elefantenattacke-a-b5d1a17b-7587-446b-9f21-e6eeade7b579#ref=rss)
+* [https://www.spiegel.de/ausland/schweden-augenzeugen-von-oerebro-berichten-er-war-so-nah-wir-konnten-seine-schritte-hoeren](https://www.spiegel.de/ausland/schweden-augenzeugen-von-oerebro-berichten-er-war-so-nah-wir-konnten-seine-schritte-hoeren-a-369632a1-c3c9-4de1-848a-b84dccba70cd#ref=rss)
+### lützerath
+
+* [https://www.spiegel.de/panorama/justiz/moench-von-luetzerath-zu-geldstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/moench-von-luetzerath-zu-geldstrafe-verurteilt-a-a29337e4-70a5-4c74-80c8-fc969cc78e32#ref=rss)
+### geldstrafe
+
+* [https://www.spiegel.de/panorama/justiz/moench-von-luetzerath-zu-geldstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/moench-von-luetzerath-zu-geldstrafe-verurteilt-a-a29337e4-70a5-4c74-80c8-fc969cc78e32#ref=rss)
+### seines
+
+* [https://www.spiegel.de/panorama/justiz/moench-von-luetzerath-zu-geldstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/moench-von-luetzerath-zu-geldstrafe-verurteilt-a-a29337e4-70a5-4c74-80c8-fc969cc78e32#ref=rss)
+* [https://www.spiegel.de/kultur/tv/ibes-rtl-dschungelcamp-tag-12-krokodilstraenen-und-chips-im-camp](https://www.spiegel.de/kultur/tv/ibes-rtl-dschungelcamp-tag-12-krokodilstraenen-und-chips-im-camp-a-3e90ecf6-fa86-4596-8ea2-83d987620018#ref=rss)
+### täter
+
+* [https://www.spiegel.de/panorama/justiz/frankreich-ermittler-gehen-neuer-spur-in-mysterioesem-vierfachmordfall-nach](https://www.spiegel.de/panorama/justiz/frankreich-ermittler-gehen-neuer-spur-in-mysterioesem-vierfachmordfall-nach-a-6f1368e2-53ec-415a-b0b9-64b7c7857a61#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/rheinland-pfalz-86-jaehriger-haendigt-telefonbetruegern-gold-im-wert-von-150-000-euro-aus](https://www.spiegel.de/panorama/justiz/rheinland-pfalz-86-jaehriger-haendigt-telefonbetruegern-gold-im-wert-von-150-000-euro-aus-a-c30bd073-6ad9-49b9-bfea-598f03d44527#ref=rss)
+### wir
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-russische-sabotage-in-deutschland-friedrich-merz-donald-trump](https://www.spiegel.de/politik/deutschland/news-des-tages-russische-sabotage-in-deutschland-friedrich-merz-donald-trump-a-f5f62af9-d4f0-4f44-8a5b-5183ed7470fa#ref=rss)
+* [https://www.spiegel.de/ausland/schweden-augenzeugen-von-oerebro-berichten-er-war-so-nah-wir-konnten-seine-schritte-hoeren](https://www.spiegel.de/ausland/schweden-augenzeugen-von-oerebro-berichten-er-war-so-nah-wir-konnten-seine-schritte-hoeren-a-369632a1-c3c9-4de1-848a-b84dccba70cd#ref=rss)
+### trumps
+
+* [https://www.spiegel.de/ausland/gaza-donald-trumps-fuer-eine-uebernahme-der-kuestenstreifens-scheinen-voellig-unrealistisch](https://www.spiegel.de/ausland/gaza-donald-trumps-fuer-eine-uebernahme-der-kuestenstreifens-scheinen-voellig-unrealistisch-a-e68e380c-a5ac-4e12-8e06-3996fdd89897#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/aldi-sued-discounter-entfernt-bekenntnis-zu-diversitaet-von-us-website](https://www.spiegel.de/wirtschaft/unternehmen/aldi-sued-discounter-entfernt-bekenntnis-zu-diversitaet-von-us-website-a-95d93e60-5c70-429c-b8d8-4e6c391e1309#ref=rss)
+### völlig
+
+* [https://www.spiegel.de/ausland/gaza-donald-trumps-fuer-eine-uebernahme-der-kuestenstreifens-scheinen-voellig-unrealistisch](https://www.spiegel.de/ausland/gaza-donald-trumps-fuer-eine-uebernahme-der-kuestenstreifens-scheinen-voellig-unrealistisch-a-e68e380c-a5ac-4e12-8e06-3996fdd89897#ref=rss)
+### zuletzt
+
+* [https://www.spiegel.de/ausland/argentinien-kuendigt-who-austritt-an](https://www.spiegel.de/ausland/argentinien-kuendigt-who-austritt-an-a-8d3350f0-b578-4d31-b74c-ec31858d795e#ref=rss)
+* [https://www.spiegel.de/sport/basketball/wechsel-von-luka-doncic-dennis-schroeder-bezeichnet-nba-trades-als-moderne-sklaverei](https://www.spiegel.de/sport/basketball/wechsel-von-luka-doncic-dennis-schroeder-bezeichnet-nba-trades-als-moderne-sklaverei-a-a2c6c65a-a99e-4a3f-a12f-9e6e2f5e3efa#ref=rss)
+### robert
+
+* [https://www.spiegel.de/politik/deutschland/gruene-und-robert-habeck-migrationsstreit-spaltet-die-partei-vor-der-wahl](https://www.spiegel.de/politik/deutschland/gruene-und-robert-habeck-migrationsstreit-spaltet-die-partei-vor-der-wahl-a-9f02d177-b98c-41dd-b216-60b4de0ad257#ref=rss)
+### habeck
+
+* [https://www.spiegel.de/politik/deutschland/gruene-und-robert-habeck-migrationsstreit-spaltet-die-partei-vor-der-wahl](https://www.spiegel.de/politik/deutschland/gruene-und-robert-habeck-migrationsstreit-spaltet-die-partei-vor-der-wahl-a-9f02d177-b98c-41dd-b216-60b4de0ad257#ref=rss)
+### migrationsstreit
+
+* [https://www.spiegel.de/politik/deutschland/gruene-und-robert-habeck-migrationsstreit-spaltet-die-partei-vor-der-wahl](https://www.spiegel.de/politik/deutschland/gruene-und-robert-habeck-migrationsstreit-spaltet-die-partei-vor-der-wahl-a-9f02d177-b98c-41dd-b216-60b4de0ad257#ref=rss)
+### partei
+
+* [https://www.spiegel.de/politik/deutschland/gruene-und-robert-habeck-migrationsstreit-spaltet-die-partei-vor-der-wahl](https://www.spiegel.de/politik/deutschland/gruene-und-robert-habeck-migrationsstreit-spaltet-die-partei-vor-der-wahl-a-9f02d177-b98c-41dd-b216-60b4de0ad257#ref=rss)
+### gelöscht
+
+* [https://www.spiegel.de/politik/deutschland/gruene-und-robert-habeck-migrationsstreit-spaltet-die-partei-vor-der-wahl](https://www.spiegel.de/politik/deutschland/gruene-und-robert-habeck-migrationsstreit-spaltet-die-partei-vor-der-wahl-a-9f02d177-b98c-41dd-b216-60b4de0ad257#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/aldi-sued-discounter-entfernt-bekenntnis-zu-diversitaet-von-us-website](https://www.spiegel.de/wirtschaft/unternehmen/aldi-sued-discounter-entfernt-bekenntnis-zu-diversitaet-von-us-website-a-95d93e60-5c70-429c-b8d8-4e6c391e1309#ref=rss)
+### gold
+
+* [https://www.spiegel.de/panorama/justiz/rheinland-pfalz-86-jaehriger-haendigt-telefonbetruegern-gold-im-wert-von-150-000-euro-aus](https://www.spiegel.de/panorama/justiz/rheinland-pfalz-86-jaehriger-haendigt-telefonbetruegern-gold-im-wert-von-150-000-euro-aus-a-c30bd073-6ad9-49b9-bfea-598f03d44527#ref=rss)
+### wert
+
+* [https://www.spiegel.de/panorama/justiz/rheinland-pfalz-86-jaehriger-haendigt-telefonbetruegern-gold-im-wert-von-150-000-euro-aus](https://www.spiegel.de/panorama/justiz/rheinland-pfalz-86-jaehriger-haendigt-telefonbetruegern-gold-im-wert-von-150-000-euro-aus-a-c30bd073-6ad9-49b9-bfea-598f03d44527#ref=rss)
+### 150000
+
+* [https://www.spiegel.de/panorama/justiz/rheinland-pfalz-86-jaehriger-haendigt-telefonbetruegern-gold-im-wert-von-150-000-euro-aus](https://www.spiegel.de/panorama/justiz/rheinland-pfalz-86-jaehriger-haendigt-telefonbetruegern-gold-im-wert-von-150-000-euro-aus-a-c30bd073-6ad9-49b9-bfea-598f03d44527#ref=rss)
+### euro
+
+* [https://www.spiegel.de/panorama/justiz/rheinland-pfalz-86-jaehriger-haendigt-telefonbetruegern-gold-im-wert-von-150-000-euro-aus](https://www.spiegel.de/panorama/justiz/rheinland-pfalz-86-jaehriger-haendigt-telefonbetruegern-gold-im-wert-von-150-000-euro-aus-a-c30bd073-6ad9-49b9-bfea-598f03d44527#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/auto/vw-elektroauto-volkswagen-zeigt-erste-skizze-von-20-000-euro-stromer](https://www.spiegel.de/auto/vw-elektroauto-volkswagen-zeigt-erste-skizze-von-20-000-euro-stromer-a-0f634fe0-444f-4c25-92d3-19a2e26c7600#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-verfassungsschutzgutachten-aus-2021-in-voller-laenge-veroeffentlicht](https://www.spiegel.de/politik/deutschland/afd-verfassungsschutzgutachten-aus-2021-in-voller-laenge-veroeffentlicht-a-df6e505e-1e83-4067-8ed8-c1ecd3284bb2#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-betriebsratschefin-daniela-cavallo-verteidigt-kuerzungskompromiss](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-betriebsratschefin-daniela-cavallo-verteidigt-kuerzungskompromiss-a-fb9b375c-3476-41fc-868c-8b2fc356a73a#ref=rss)
+* [https://www.spiegel.de/kultur/musik/ozzy-osbourne-plant-abschiedskonzert-mit-black-sabbath](https://www.spiegel.de/kultur/musik/ozzy-osbourne-plant-abschiedskonzert-mit-black-sabbath-a-2070617e-4471-4307-aed4-61eaa1736280#ref=rss)
+### kritik
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-betriebsratschefin-daniela-cavallo-verteidigt-kuerzungskompromiss](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-betriebsratschefin-daniela-cavallo-verteidigt-kuerzungskompromiss-a-fb9b375c-3476-41fc-868c-8b2fc356a73a#ref=rss)
+* [https://www.spiegel.de/sport/basketball/wechsel-von-luka-doncic-dennis-schroeder-bezeichnet-nba-trades-als-moderne-sklaverei](https://www.spiegel.de/sport/basketball/wechsel-von-luka-doncic-dennis-schroeder-bezeichnet-nba-trades-als-moderne-sklaverei-a-a2c6c65a-a99e-4a3f-a12f-9e6e2f5e3efa#ref=rss)
+### tesla
+
+* [https://www.spiegel.de/auto/elektroauto-absatz-in-deutschland-steigt-kraeftig-tesla-bricht-ein](https://www.spiegel.de/auto/elektroauto-absatz-in-deutschland-steigt-kraeftig-tesla-bricht-ein-a-394e8031-5292-4868-befd-42934974ca7e#ref=rss)
+### schweden
+
+* [https://www.spiegel.de/ausland/schweden-augenzeugen-von-oerebro-berichten-er-war-so-nah-wir-konnten-seine-schritte-hoeren](https://www.spiegel.de/ausland/schweden-augenzeugen-von-oerebro-berichten-er-war-so-nah-wir-konnten-seine-schritte-hoeren-a-369632a1-c3c9-4de1-848a-b84dccba70cd#ref=rss)
+### augenzeugen
+
+* [https://www.spiegel.de/ausland/schweden-augenzeugen-von-oerebro-berichten-er-war-so-nah-wir-konnten-seine-schritte-hoeren](https://www.spiegel.de/ausland/schweden-augenzeugen-von-oerebro-berichten-er-war-so-nah-wir-konnten-seine-schritte-hoeren-a-369632a1-c3c9-4de1-848a-b84dccba70cd#ref=rss)
+### örebro
+
+* [https://www.spiegel.de/ausland/schweden-augenzeugen-von-oerebro-berichten-er-war-so-nah-wir-konnten-seine-schritte-hoeren](https://www.spiegel.de/ausland/schweden-augenzeugen-von-oerebro-berichten-er-war-so-nah-wir-konnten-seine-schritte-hoeren-a-369632a1-c3c9-4de1-848a-b84dccba70cd#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/ausland/schweden-augenzeugen-von-oerebro-berichten-er-war-so-nah-wir-konnten-seine-schritte-hoeren](https://www.spiegel.de/ausland/schweden-augenzeugen-von-oerebro-berichten-er-war-so-nah-wir-konnten-seine-schritte-hoeren-a-369632a1-c3c9-4de1-848a-b84dccba70cd#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/apple-invites-apple-will-jetzt-beim-party-planen-helfen](https://www.spiegel.de/netzwelt/apps/apple-invites-apple-will-jetzt-beim-party-planen-helfen-a-0d855509-7cc5-4008-81d3-95203d59ee30#ref=rss)
+### angst
+
+* [https://www.spiegel.de/ausland/schweden-augenzeugen-von-oerebro-berichten-er-war-so-nah-wir-konnten-seine-schritte-hoeren](https://www.spiegel.de/ausland/schweden-augenzeugen-von-oerebro-berichten-er-war-so-nah-wir-konnten-seine-schritte-hoeren-a-369632a1-c3c9-4de1-848a-b84dccba70cd#ref=rss)
+* [https://www.spiegel.de/familie/medienzeit-fuer-kinder-wie-eltern-den-streit-darueber-beenden-koennen](https://www.spiegel.de/familie/medienzeit-fuer-kinder-wie-eltern-den-streit-darueber-beenden-koennen-a-944b4ab4-cc05-42eb-a2a9-2e2a4f5b1b9f#ref=rss)
+### ozzy
+
+* [https://www.spiegel.de/kultur/musik/ozzy-osbourne-plant-abschiedskonzert-mit-black-sabbath](https://www.spiegel.de/kultur/musik/ozzy-osbourne-plant-abschiedskonzert-mit-black-sabbath-a-2070617e-4471-4307-aed4-61eaa1736280#ref=rss)
+### osbourne
+
+* [https://www.spiegel.de/kultur/musik/ozzy-osbourne-plant-abschiedskonzert-mit-black-sabbath](https://www.spiegel.de/kultur/musik/ozzy-osbourne-plant-abschiedskonzert-mit-black-sabbath-a-2070617e-4471-4307-aed4-61eaa1736280#ref=rss)
+### black
+
+* [https://www.spiegel.de/kultur/musik/ozzy-osbourne-plant-abschiedskonzert-mit-black-sabbath](https://www.spiegel.de/kultur/musik/ozzy-osbourne-plant-abschiedskonzert-mit-black-sabbath-a-2070617e-4471-4307-aed4-61eaa1736280#ref=rss)
+### sabbath
+
+* [https://www.spiegel.de/kultur/musik/ozzy-osbourne-plant-abschiedskonzert-mit-black-sabbath](https://www.spiegel.de/kultur/musik/ozzy-osbourne-plant-abschiedskonzert-mit-black-sabbath-a-2070617e-4471-4307-aed4-61eaa1736280#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/kultur/musik/ozzy-osbourne-plant-abschiedskonzert-mit-black-sabbath](https://www.spiegel.de/kultur/musik/ozzy-osbourne-plant-abschiedskonzert-mit-black-sabbath-a-2070617e-4471-4307-aed4-61eaa1736280#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/aldi-sued-discounter-entfernt-bekenntnis-zu-diversitaet-von-us-website](https://www.spiegel.de/wirtschaft/unternehmen/aldi-sued-discounter-entfernt-bekenntnis-zu-diversitaet-von-us-website-a-95d93e60-5c70-429c-b8d8-4e6c391e1309#ref=rss)
+### hass
+
+* [https://www.spiegel.de/politik/deutschland/hass-auf-juden-zahl-der-antisemitischen-straftaten-bleibt-auf-hohem-niveau](https://www.spiegel.de/politik/deutschland/hass-auf-juden-zahl-der-antisemitischen-straftaten-bleibt-auf-hohem-niveau-a-82f69484-4d89-4223-b7d6-10028be9de70#ref=rss)
+### juden
+
+* [https://www.spiegel.de/politik/deutschland/hass-auf-juden-zahl-der-antisemitischen-straftaten-bleibt-auf-hohem-niveau](https://www.spiegel.de/politik/deutschland/hass-auf-juden-zahl-der-antisemitischen-straftaten-bleibt-auf-hohem-niveau-a-82f69484-4d89-4223-b7d6-10028be9de70#ref=rss)
+### krokodilstränen
+
+* [https://www.spiegel.de/kultur/tv/ibes-rtl-dschungelcamp-tag-12-krokodilstraenen-und-chips-im-camp](https://www.spiegel.de/kultur/tv/ibes-rtl-dschungelcamp-tag-12-krokodilstraenen-und-chips-im-camp-a-3e90ecf6-fa86-4596-8ea2-83d987620018#ref=rss)
+### camp
+
+* [https://www.spiegel.de/kultur/tv/ibes-rtl-dschungelcamp-tag-12-krokodilstraenen-und-chips-im-camp](https://www.spiegel.de/kultur/tv/ibes-rtl-dschungelcamp-tag-12-krokodilstraenen-und-chips-im-camp-a-3e90ecf6-fa86-4596-8ea2-83d987620018#ref=rss)
+### emilia
+
+* [https://www.spiegel.de/kultur/kino/academy-awards-2025-netflix-streicht-emilia-perez-star-karla-sofia-gascon-offenbar-aus-oscar-kampagne](https://www.spiegel.de/kultur/kino/academy-awards-2025-netflix-streicht-emilia-perez-star-karla-sofia-gascon-offenbar-aus-oscar-kampagne-a-46bbf61d-5c55-44c5-976b-991298b1c8d2#ref=rss)
+### karla
+
+* [https://www.spiegel.de/kultur/kino/academy-awards-2025-netflix-streicht-emilia-perez-star-karla-sofia-gascon-offenbar-aus-oscar-kampagne](https://www.spiegel.de/kultur/kino/academy-awards-2025-netflix-streicht-emilia-perez-star-karla-sofia-gascon-offenbar-aus-oscar-kampagne-a-46bbf61d-5c55-44c5-976b-991298b1c8d2#ref=rss)
+### sofía
+
+* [https://www.spiegel.de/kultur/kino/academy-awards-2025-netflix-streicht-emilia-perez-star-karla-sofia-gascon-offenbar-aus-oscar-kampagne](https://www.spiegel.de/kultur/kino/academy-awards-2025-netflix-streicht-emilia-perez-star-karla-sofia-gascon-offenbar-aus-oscar-kampagne-a-46bbf61d-5c55-44c5-976b-991298b1c8d2#ref=rss)
+### gascón
+
+* [https://www.spiegel.de/kultur/kino/academy-awards-2025-netflix-streicht-emilia-perez-star-karla-sofia-gascon-offenbar-aus-oscar-kampagne](https://www.spiegel.de/kultur/kino/academy-awards-2025-netflix-streicht-emilia-perez-star-karla-sofia-gascon-offenbar-aus-oscar-kampagne-a-46bbf61d-5c55-44c5-976b-991298b1c8d2#ref=rss)
+### aldi
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/aldi-sued-discounter-entfernt-bekenntnis-zu-diversitaet-von-us-website](https://www.spiegel.de/wirtschaft/unternehmen/aldi-sued-discounter-entfernt-bekenntnis-zu-diversitaet-von-us-website-a-95d93e60-5c70-429c-b8d8-4e6c391e1309#ref=rss)
+### süd
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/aldi-sued-discounter-entfernt-bekenntnis-zu-diversitaet-von-us-website](https://www.spiegel.de/wirtschaft/unternehmen/aldi-sued-discounter-entfernt-bekenntnis-zu-diversitaet-von-us-website-a-95d93e60-5c70-429c-b8d8-4e6c391e1309#ref=rss)
+### schwer
+
+* [https://www.spiegel.de/wirtschaft/soziales/pestel-institut-deutschland-fehlen-550-000-sozialwohnungen](https://www.spiegel.de/wirtschaft/soziales/pestel-institut-deutschland-fehlen-550-000-sozialwohnungen-a-34e381ea-0cce-4140-83ef-9fe55f736034#ref=rss)
+* [https://www.spiegel.de/familie/medienzeit-fuer-kinder-wie-eltern-den-streit-darueber-beenden-koennen](https://www.spiegel.de/familie/medienzeit-fuer-kinder-wie-eltern-den-streit-darueber-beenden-koennen-a-944b4ab4-cc05-42eb-a2a9-2e2a4f5b1b9f#ref=rss)
+### luka
+
+* [https://www.spiegel.de/sport/basketball/wechsel-von-luka-doncic-dennis-schroeder-bezeichnet-nba-trades-als-moderne-sklaverei](https://www.spiegel.de/sport/basketball/wechsel-von-luka-doncic-dennis-schroeder-bezeichnet-nba-trades-als-moderne-sklaverei-a-a2c6c65a-a99e-4a3f-a12f-9e6e2f5e3efa#ref=rss)
+### dončić
+
+* [https://www.spiegel.de/sport/basketball/wechsel-von-luka-doncic-dennis-schroeder-bezeichnet-nba-trades-als-moderne-sklaverei](https://www.spiegel.de/sport/basketball/wechsel-von-luka-doncic-dennis-schroeder-bezeichnet-nba-trades-als-moderne-sklaverei-a-a2c6c65a-a99e-4a3f-a12f-9e6e2f5e3efa#ref=rss)
+### dennis
+
+* [https://www.spiegel.de/sport/basketball/wechsel-von-luka-doncic-dennis-schroeder-bezeichnet-nba-trades-als-moderne-sklaverei](https://www.spiegel.de/sport/basketball/wechsel-von-luka-doncic-dennis-schroeder-bezeichnet-nba-trades-als-moderne-sklaverei-a-a2c6c65a-a99e-4a3f-a12f-9e6e2f5e3efa#ref=rss)
+### schröder
+
+* [https://www.spiegel.de/sport/basketball/wechsel-von-luka-doncic-dennis-schroeder-bezeichnet-nba-trades-als-moderne-sklaverei](https://www.spiegel.de/sport/basketball/wechsel-von-luka-doncic-dennis-schroeder-bezeichnet-nba-trades-als-moderne-sklaverei-a-a2c6c65a-a99e-4a3f-a12f-9e6e2f5e3efa#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/sport/basketball/wechsel-von-luka-doncic-dennis-schroeder-bezeichnet-nba-trades-als-moderne-sklaverei](https://www.spiegel.de/sport/basketball/wechsel-von-luka-doncic-dennis-schroeder-bezeichnet-nba-trades-als-moderne-sklaverei-a-a2c6c65a-a99e-4a3f-a12f-9e6e2f5e3efa#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/apple-invites-apple-will-jetzt-beim-party-planen-helfen](https://www.spiegel.de/netzwelt/apps/apple-invites-apple-will-jetzt-beim-party-planen-helfen-a-0d855509-7cc5-4008-81d3-95203d59ee30#ref=rss)
+### kinder
+
+* [https://www.spiegel.de/familie/medienzeit-fuer-kinder-wie-eltern-den-streit-darueber-beenden-koennen](https://www.spiegel.de/familie/medienzeit-fuer-kinder-wie-eltern-den-streit-darueber-beenden-koennen-a-944b4ab4-cc05-42eb-a2a9-2e2a4f5b1b9f#ref=rss)
+### eltern
+
+* [https://www.spiegel.de/familie/medienzeit-fuer-kinder-wie-eltern-den-streit-darueber-beenden-koennen](https://www.spiegel.de/familie/medienzeit-fuer-kinder-wie-eltern-den-streit-darueber-beenden-koennen-a-944b4ab4-cc05-42eb-a2a9-2e2a4f5b1b9f#ref=rss)
+### robbe
+
+* [https://www.spiegel.de/panorama/niederlande-robbe-macht-es-sich-in-hotelzimmer-bequem](https://www.spiegel.de/panorama/niederlande-robbe-macht-es-sich-in-hotelzimmer-bequem-a-1fb2476b-7b31-4787-bf59-3d23b78d1ce4#ref=rss)
 
