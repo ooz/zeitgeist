@@ -4,401 +4,291 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### scholz
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-versus-friedrich-merz-im-tv-duell-sehen-so-sieger-aus](https://www.spiegel.de/politik/deutschland/olaf-scholz-versus-friedrich-merz-im-tv-duell-sehen-so-sieger-aus-a-7c415d5b-8d75-47af-9ad4-99076d6055e7#ref=rss)
-* [https://www.spiegel.de/kultur/tv/tv-duell-hoehere-einschaltquoten-als-2021-und-als-das-dschungelcamp](https://www.spiegel.de/kultur/tv/tv-duell-hoehere-einschaltquoten-als-2021-und-als-das-dschungelcamp-a-9f9e485b-5da6-418d-9844-ca1ac2361ae3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-knapper-duellsieger-laut-umfrage](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-knapper-duellsieger-laut-umfrage-a-57b1b138-de3b-4c41-adea-1eadb2fcaaed#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/tv-duell-psychologe-ulrich-sollmann-scholz-erinnerte-mich-an-einen-bieber-merz-trat-wie-ein-stelzvogel-auf](https://www.spiegel.de/politik/deutschland/tv-duell-psychologe-ulrich-sollmann-scholz-erinnerte-mich-an-einen-bieber-merz-trat-wie-ein-stelzvogel-auf-a-aa2a4045-ac34-4355-bf6f-264a24ad81b1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-wie-die-medien-das-tv-duell-von-merz-und-scholz-bewerten](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-wie-die-medien-das-tv-duell-von-merz-und-scholz-bewerten-a-335fc384-afce-4b7e-a6f6-95cbeb48f338#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-tv-duell-olaf-scholz-friedrich-merz-christian-lindner-donald-trump](https://www.spiegel.de/politik/deutschland/news-tv-duell-olaf-scholz-friedrich-merz-christian-lindner-donald-trump-a-e19a6e8c-2bd4-4dd6-9b2d-1eae71ac52b5#ref=rss)
-* [https://www.spiegel.de/kultur/tv/friedrich-merz-und-olaf-scholz-im-tv-duell-graf-zahl-trifft-auf-den-spd-kassenwart](https://www.spiegel.de/kultur/tv/friedrich-merz-und-olaf-scholz-im-tv-duell-graf-zahl-trifft-auf-den-spd-kassenwart-a-f8f7b1a7-2214-4583-83df-cb017ff9d0ee#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-versus-friedrich-merz-im-tv-duell-sehen-so-sieger-aus](https://www.spiegel.de/politik/deutschland/olaf-scholz-versus-friedrich-merz-im-tv-duell-sehen-so-sieger-aus-a-7c415d5b-8d75-47af-9ad4-99076d6055e7#ref=rss)
-* [https://www.spiegel.de/kultur/tv/tv-duell-hoehere-einschaltquoten-als-2021-und-als-das-dschungelcamp](https://www.spiegel.de/kultur/tv/tv-duell-hoehere-einschaltquoten-als-2021-und-als-das-dschungelcamp-a-9f9e485b-5da6-418d-9844-ca1ac2361ae3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-knapper-duellsieger-laut-umfrage](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-knapper-duellsieger-laut-umfrage-a-57b1b138-de3b-4c41-adea-1eadb2fcaaed#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/tv-duell-psychologe-ulrich-sollmann-scholz-erinnerte-mich-an-einen-bieber-merz-trat-wie-ein-stelzvogel-auf](https://www.spiegel.de/politik/deutschland/tv-duell-psychologe-ulrich-sollmann-scholz-erinnerte-mich-an-einen-bieber-merz-trat-wie-ein-stelzvogel-auf-a-aa2a4045-ac34-4355-bf6f-264a24ad81b1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-wie-die-medien-das-tv-duell-von-merz-und-scholz-bewerten](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-wie-die-medien-das-tv-duell-von-merz-und-scholz-bewerten-a-335fc384-afce-4b7e-a6f6-95cbeb48f338#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-tv-duell-olaf-scholz-friedrich-merz-christian-lindner-donald-trump](https://www.spiegel.de/politik/deutschland/news-tv-duell-olaf-scholz-friedrich-merz-christian-lindner-donald-trump-a-e19a6e8c-2bd4-4dd6-9b2d-1eae71ac52b5#ref=rss)
-* [https://www.spiegel.de/kultur/tv/friedrich-merz-und-olaf-scholz-im-tv-duell-graf-zahl-trifft-auf-den-spd-kassenwart](https://www.spiegel.de/kultur/tv/friedrich-merz-und-olaf-scholz-im-tv-duell-graf-zahl-trifft-auf-den-spd-kassenwart-a-f8f7b1a7-2214-4583-83df-cb017ff9d0ee#ref=rss)
-### super
-
-* [https://www.spiegel.de/sport/american-football/philadelphia-eagles-gewinnen-super-bowl-das-beste-defensivfeuerwerk-der-geschichte](https://www.spiegel.de/sport/american-football/philadelphia-eagles-gewinnen-super-bowl-das-beste-defensivfeuerwerk-der-geschichte-a-2734ad4e-5b3e-4156-b972-d7b2ece299d5#ref=rss)
-* [https://www.spiegel.de/sport/american-football/super-bowl-2025-philadelphia-eagles-besiegen-kansas-city-chiefs-pressestimmen](https://www.spiegel.de/sport/american-football/super-bowl-2025-philadelphia-eagles-besiegen-kansas-city-chiefs-pressestimmen-a-e85404df-b194-49a7-aeda-b005682d4fb3#ref=rss)
-* [https://www.spiegel.de/ausland/super-bowl-2025-donald-trump-spottet-ueber-taylor-swift](https://www.spiegel.de/ausland/super-bowl-2025-donald-trump-spottet-ueber-taylor-swift-a-42f5a690-a82d-423a-8ef8-37605159decc#ref=rss)
-* [https://www.spiegel.de/kultur/musik/super-bowl-2025-so-war-kendrick-lamars-halftime-show](https://www.spiegel.de/kultur/musik/super-bowl-2025-so-war-kendrick-lamars-halftime-show-a-a05db9d9-aafe-433c-813c-0e7e5621261c#ref=rss)
-* [https://www.spiegel.de/sport/american-football/super-bowl-2025-patrick-mahomes-chancenlos-gegen-die-defense-der-philadelphia-eagles](https://www.spiegel.de/sport/american-football/super-bowl-2025-patrick-mahomes-chancenlos-gegen-die-defense-der-philadelphia-eagles-a-e5ee360d-6c73-4649-ba93-54213c8de79e#ref=rss)
-* [https://www.spiegel.de/sport/american-football/super-bowl-eagles-gegen-chiefs-wer-kroent-sich-zum-nfl-champion](https://www.spiegel.de/sport/american-football/super-bowl-eagles-gegen-chiefs-wer-kroent-sich-zum-nfl-champion-a-1c384454-a012-4d64-9df6-dfa578f70518#ref=rss)
-### bowl
-
-* [https://www.spiegel.de/sport/american-football/philadelphia-eagles-gewinnen-super-bowl-das-beste-defensivfeuerwerk-der-geschichte](https://www.spiegel.de/sport/american-football/philadelphia-eagles-gewinnen-super-bowl-das-beste-defensivfeuerwerk-der-geschichte-a-2734ad4e-5b3e-4156-b972-d7b2ece299d5#ref=rss)
-* [https://www.spiegel.de/sport/american-football/super-bowl-2025-philadelphia-eagles-besiegen-kansas-city-chiefs-pressestimmen](https://www.spiegel.de/sport/american-football/super-bowl-2025-philadelphia-eagles-besiegen-kansas-city-chiefs-pressestimmen-a-e85404df-b194-49a7-aeda-b005682d4fb3#ref=rss)
-* [https://www.spiegel.de/ausland/super-bowl-2025-donald-trump-spottet-ueber-taylor-swift](https://www.spiegel.de/ausland/super-bowl-2025-donald-trump-spottet-ueber-taylor-swift-a-42f5a690-a82d-423a-8ef8-37605159decc#ref=rss)
-* [https://www.spiegel.de/kultur/musik/super-bowl-2025-so-war-kendrick-lamars-halftime-show](https://www.spiegel.de/kultur/musik/super-bowl-2025-so-war-kendrick-lamars-halftime-show-a-a05db9d9-aafe-433c-813c-0e7e5621261c#ref=rss)
-* [https://www.spiegel.de/sport/american-football/super-bowl-2025-patrick-mahomes-chancenlos-gegen-die-defense-der-philadelphia-eagles](https://www.spiegel.de/sport/american-football/super-bowl-2025-patrick-mahomes-chancenlos-gegen-die-defense-der-philadelphia-eagles-a-e5ee360d-6c73-4649-ba93-54213c8de79e#ref=rss)
-* [https://www.spiegel.de/sport/american-football/super-bowl-eagles-gegen-chiefs-wer-kroent-sich-zum-nfl-champion](https://www.spiegel.de/sport/american-football/super-bowl-eagles-gegen-chiefs-wer-kroent-sich-zum-nfl-champion-a-1c384454-a012-4d64-9df6-dfa578f70518#ref=rss)
-### tvduell
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-versus-friedrich-merz-im-tv-duell-sehen-so-sieger-aus](https://www.spiegel.de/politik/deutschland/olaf-scholz-versus-friedrich-merz-im-tv-duell-sehen-so-sieger-aus-a-7c415d5b-8d75-47af-9ad4-99076d6055e7#ref=rss)
-* [https://www.spiegel.de/kultur/tv/tv-duell-hoehere-einschaltquoten-als-2021-und-als-das-dschungelcamp](https://www.spiegel.de/kultur/tv/tv-duell-hoehere-einschaltquoten-als-2021-und-als-das-dschungelcamp-a-9f9e485b-5da6-418d-9844-ca1ac2361ae3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-knapper-duellsieger-laut-umfrage](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-knapper-duellsieger-laut-umfrage-a-57b1b138-de3b-4c41-adea-1eadb2fcaaed#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/tv-duell-psychologe-ulrich-sollmann-scholz-erinnerte-mich-an-einen-bieber-merz-trat-wie-ein-stelzvogel-auf](https://www.spiegel.de/politik/deutschland/tv-duell-psychologe-ulrich-sollmann-scholz-erinnerte-mich-an-einen-bieber-merz-trat-wie-ein-stelzvogel-auf-a-aa2a4045-ac34-4355-bf6f-264a24ad81b1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-wie-die-medien-das-tv-duell-von-merz-und-scholz-bewerten](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-wie-die-medien-das-tv-duell-von-merz-und-scholz-bewerten-a-335fc384-afce-4b7e-a6f6-95cbeb48f338#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-tv-duell-olaf-scholz-friedrich-merz-christian-lindner-donald-trump](https://www.spiegel.de/politik/deutschland/news-tv-duell-olaf-scholz-friedrich-merz-christian-lindner-donald-trump-a-e19a6e8c-2bd4-4dd6-9b2d-1eae71ac52b5#ref=rss)
-* [https://www.spiegel.de/kultur/tv/friedrich-merz-und-olaf-scholz-im-tv-duell-graf-zahl-trifft-auf-den-spd-kassenwart](https://www.spiegel.de/kultur/tv/friedrich-merz-und-olaf-scholz-im-tv-duell-graf-zahl-trifft-auf-den-spd-kassenwart-a-f8f7b1a7-2214-4583-83df-cb017ff9d0ee#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/ausland/nahostkonflikt-israel-muss-die-hamas-waehrend-des-wiederaufbaus-von-gaza-weiter-bekaempfen](https://www.spiegel.de/ausland/nahostkonflikt-israel-muss-die-hamas-waehrend-des-wiederaufbaus-von-gaza-weiter-bekaempfen-a-e5459d08-70a8-4b4e-a090-8dd01e99ef24#ref=rss)
-* [https://www.spiegel.de/wirtschaft/eu-kommission-bezeichnet-moegliche-stahl-zoelle-als-rechtswidrig](https://www.spiegel.de/wirtschaft/eu-kommission-bezeichnet-moegliche-stahl-zoelle-als-rechtswidrig-a-b5ea99a5-d4aa-4a97-8ae1-216bfd1b2dd0#ref=rss)
-* [https://www.spiegel.de/ausland/super-bowl-2025-donald-trump-spottet-ueber-taylor-swift](https://www.spiegel.de/ausland/super-bowl-2025-donald-trump-spottet-ueber-taylor-swift-a-42f5a690-a82d-423a-8ef8-37605159decc#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-spricht-davon-gaza-kaufen-zu-wollen-israel-reagiert-positiv](https://www.spiegel.de/ausland/donald-trump-spricht-davon-gaza-kaufen-zu-wollen-israel-reagiert-positiv-a-85c4b098-08a7-4f94-919c-adaddca37625#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-tv-duell-olaf-scholz-friedrich-merz-christian-lindner-donald-trump](https://www.spiegel.de/politik/deutschland/news-tv-duell-olaf-scholz-friedrich-merz-christian-lindner-donald-trump-a-e19a6e8c-2bd4-4dd6-9b2d-1eae71ac52b5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-kuendigt-25-prozent-zoelle-auf-stahl-und-aluminium-an](https://www.spiegel.de/wirtschaft/donald-trump-kuendigt-25-prozent-zoelle-auf-stahl-und-aluminium-an-a-053721eb-9df5-4751-8957-f5713b053da9#ref=rss)
-### olaf
+* [https://www.spiegel.de/wirtschaft/soziales/streit-ueber-zoelle-wie-europa-sich-fuer-den-handelskrieg-gegen-trump-ruestet](https://www.spiegel.de/wirtschaft/soziales/streit-ueber-zoelle-wie-europa-sich-fuer-den-handelskrieg-gegen-trump-ruestet-a-afe6d6ef-5ff6-43df-afaf-f2f735beed16#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-und-die-strafzoelle-bdi-warnt-eu-vor-uebereilten-gegenmassnahmen](https://www.spiegel.de/wirtschaft/donald-trump-und-die-strafzoelle-bdi-warnt-eu-vor-uebereilten-gegenmassnahmen-a-50e260ef-c4ba-48c9-8b76-9534b080d5bb#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/pariser-klimaabkommen-nur-zehn-von-195-staaten-liefern-rechtzeitig-neue-plaene](https://www.spiegel.de/wissenschaft/mensch/pariser-klimaabkommen-nur-zehn-von-195-staaten-liefern-rechtzeitig-neue-plaene-a-e208f1ed-3577-41d7-aae4-b584aaaa0eb9#ref=rss)
+### mann
 
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-versus-friedrich-merz-im-tv-duell-sehen-so-sieger-aus](https://www.spiegel.de/politik/deutschland/olaf-scholz-versus-friedrich-merz-im-tv-duell-sehen-so-sieger-aus-a-7c415d5b-8d75-47af-9ad4-99076d6055e7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-knapper-duellsieger-laut-umfrage](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-knapper-duellsieger-laut-umfrage-a-57b1b138-de3b-4c41-adea-1eadb2fcaaed#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/tv-duell-psychologe-ulrich-sollmann-scholz-erinnerte-mich-an-einen-bieber-merz-trat-wie-ein-stelzvogel-auf](https://www.spiegel.de/politik/deutschland/tv-duell-psychologe-ulrich-sollmann-scholz-erinnerte-mich-an-einen-bieber-merz-trat-wie-ein-stelzvogel-auf-a-aa2a4045-ac34-4355-bf6f-264a24ad81b1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-tv-duell-olaf-scholz-friedrich-merz-christian-lindner-donald-trump](https://www.spiegel.de/politik/deutschland/news-tv-duell-olaf-scholz-friedrich-merz-christian-lindner-donald-trump-a-e19a6e8c-2bd4-4dd6-9b2d-1eae71ac52b5#ref=rss)
-* [https://www.spiegel.de/kultur/tv/friedrich-merz-und-olaf-scholz-im-tv-duell-graf-zahl-trifft-auf-den-spd-kassenwart](https://www.spiegel.de/kultur/tv/friedrich-merz-und-olaf-scholz-im-tv-duell-graf-zahl-trifft-auf-den-spd-kassenwart-a-f8f7b1a7-2214-4583-83df-cb017ff9d0ee#ref=rss)
-### donald
+* [https://www.spiegel.de/panorama/justiz/freiburg-ohr-abgebissen-42-jaehriger-zu-drei-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/freiburg-ohr-abgebissen-42-jaehriger-zu-drei-jahren-haft-verurteilt-a-e0e88cab-cc62-43ca-ae00-e10e7f309e21#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/kall-in-der-eifel-mann-gibt-sich-als-polizist-aus-und-trifft-echten-beamten](https://www.spiegel.de/panorama/justiz/kall-in-der-eifel-mann-gibt-sich-als-polizist-aus-und-trifft-echten-beamten-a-bc658bd7-215f-4a90-8dca-6f867ad703a1#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hamburg-mann-zieht-sich-nach-unfall-aus-und-sticht-autofahrer-nieder](https://www.spiegel.de/panorama/justiz/hamburg-mann-zieht-sich-nach-unfall-aus-und-sticht-autofahrer-nieder-a-1d00d13a-8238-4713-a91f-eeb9a1c4ce0a#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/ausland/nahostkonflikt-israel-muss-die-hamas-waehrend-des-wiederaufbaus-von-gaza-weiter-bekaempfen](https://www.spiegel.de/ausland/nahostkonflikt-israel-muss-die-hamas-waehrend-des-wiederaufbaus-von-gaza-weiter-bekaempfen-a-e5459d08-70a8-4b4e-a090-8dd01e99ef24#ref=rss)
-* [https://www.spiegel.de/wirtschaft/eu-kommission-bezeichnet-moegliche-stahl-zoelle-als-rechtswidrig](https://www.spiegel.de/wirtschaft/eu-kommission-bezeichnet-moegliche-stahl-zoelle-als-rechtswidrig-a-b5ea99a5-d4aa-4a97-8ae1-216bfd1b2dd0#ref=rss)
-* [https://www.spiegel.de/ausland/super-bowl-2025-donald-trump-spottet-ueber-taylor-swift](https://www.spiegel.de/ausland/super-bowl-2025-donald-trump-spottet-ueber-taylor-swift-a-42f5a690-a82d-423a-8ef8-37605159decc#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-spricht-davon-gaza-kaufen-zu-wollen-israel-reagiert-positiv](https://www.spiegel.de/ausland/donald-trump-spricht-davon-gaza-kaufen-zu-wollen-israel-reagiert-positiv-a-85c4b098-08a7-4f94-919c-adaddca37625#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-tv-duell-olaf-scholz-friedrich-merz-christian-lindner-donald-trump](https://www.spiegel.de/politik/deutschland/news-tv-duell-olaf-scholz-friedrich-merz-christian-lindner-donald-trump-a-e19a6e8c-2bd4-4dd6-9b2d-1eae71ac52b5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-kuendigt-25-prozent-zoelle-auf-stahl-und-aluminium-an](https://www.spiegel.de/wirtschaft/donald-trump-kuendigt-25-prozent-zoelle-auf-stahl-und-aluminium-an-a-053721eb-9df5-4751-8957-f5713b053da9#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-versus-friedrich-merz-im-tv-duell-sehen-so-sieger-aus](https://www.spiegel.de/politik/deutschland/olaf-scholz-versus-friedrich-merz-im-tv-duell-sehen-so-sieger-aus-a-7c415d5b-8d75-47af-9ad4-99076d6055e7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/tv-duell-psychologe-ulrich-sollmann-scholz-erinnerte-mich-an-einen-bieber-merz-trat-wie-ein-stelzvogel-auf](https://www.spiegel.de/politik/deutschland/tv-duell-psychologe-ulrich-sollmann-scholz-erinnerte-mich-an-einen-bieber-merz-trat-wie-ein-stelzvogel-auf-a-aa2a4045-ac34-4355-bf6f-264a24ad81b1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-tv-duell-olaf-scholz-friedrich-merz-christian-lindner-donald-trump](https://www.spiegel.de/politik/deutschland/news-tv-duell-olaf-scholz-friedrich-merz-christian-lindner-donald-trump-a-e19a6e8c-2bd4-4dd6-9b2d-1eae71ac52b5#ref=rss)
-* [https://www.spiegel.de/kultur/tv/friedrich-merz-und-olaf-scholz-im-tv-duell-graf-zahl-trifft-auf-den-spd-kassenwart](https://www.spiegel.de/kultur/tv/friedrich-merz-und-olaf-scholz-im-tv-duell-graf-zahl-trifft-auf-den-spd-kassenwart-a-f8f7b1a7-2214-4583-83df-cb017ff9d0ee#ref=rss)
-### philadelphia
-
-* [https://www.spiegel.de/sport/american-football/philadelphia-eagles-gewinnen-super-bowl-das-beste-defensivfeuerwerk-der-geschichte](https://www.spiegel.de/sport/american-football/philadelphia-eagles-gewinnen-super-bowl-das-beste-defensivfeuerwerk-der-geschichte-a-2734ad4e-5b3e-4156-b972-d7b2ece299d5#ref=rss)
-* [https://www.spiegel.de/sport/american-football/super-bowl-2025-philadelphia-eagles-besiegen-kansas-city-chiefs-pressestimmen](https://www.spiegel.de/sport/american-football/super-bowl-2025-philadelphia-eagles-besiegen-kansas-city-chiefs-pressestimmen-a-e85404df-b194-49a7-aeda-b005682d4fb3#ref=rss)
-* [https://www.spiegel.de/sport/american-football/super-bowl-2025-patrick-mahomes-chancenlos-gegen-die-defense-der-philadelphia-eagles](https://www.spiegel.de/sport/american-football/super-bowl-2025-patrick-mahomes-chancenlos-gegen-die-defense-der-philadelphia-eagles-a-e5ee360d-6c73-4649-ba93-54213c8de79e#ref=rss)
-* [https://www.spiegel.de/sport/american-football/super-bowl-eagles-gegen-chiefs-wer-kroent-sich-zum-nfl-champion](https://www.spiegel.de/sport/american-football/super-bowl-eagles-gegen-chiefs-wer-kroent-sich-zum-nfl-champion-a-1c384454-a012-4d64-9df6-dfa578f70518#ref=rss)
-### eagles
-
-* [https://www.spiegel.de/sport/american-football/philadelphia-eagles-gewinnen-super-bowl-das-beste-defensivfeuerwerk-der-geschichte](https://www.spiegel.de/sport/american-football/philadelphia-eagles-gewinnen-super-bowl-das-beste-defensivfeuerwerk-der-geschichte-a-2734ad4e-5b3e-4156-b972-d7b2ece299d5#ref=rss)
-* [https://www.spiegel.de/sport/american-football/super-bowl-2025-philadelphia-eagles-besiegen-kansas-city-chiefs-pressestimmen](https://www.spiegel.de/sport/american-football/super-bowl-2025-philadelphia-eagles-besiegen-kansas-city-chiefs-pressestimmen-a-e85404df-b194-49a7-aeda-b005682d4fb3#ref=rss)
-* [https://www.spiegel.de/sport/american-football/super-bowl-2025-patrick-mahomes-chancenlos-gegen-die-defense-der-philadelphia-eagles](https://www.spiegel.de/sport/american-football/super-bowl-2025-patrick-mahomes-chancenlos-gegen-die-defense-der-philadelphia-eagles-a-e5ee360d-6c73-4649-ba93-54213c8de79e#ref=rss)
-* [https://www.spiegel.de/sport/american-football/super-bowl-eagles-gegen-chiefs-wer-kroent-sich-zum-nfl-champion](https://www.spiegel.de/sport/american-football/super-bowl-eagles-gegen-chiefs-wer-kroent-sich-zum-nfl-champion-a-1c384454-a012-4d64-9df6-dfa578f70518#ref=rss)
-### 2025
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-knapper-duellsieger-laut-umfrage](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-knapper-duellsieger-laut-umfrage-a-57b1b138-de3b-4c41-adea-1eadb2fcaaed#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-wie-die-medien-das-tv-duell-von-merz-und-scholz-bewerten](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-wie-die-medien-das-tv-duell-von-merz-und-scholz-bewerten-a-335fc384-afce-4b7e-a6f6-95cbeb48f338#ref=rss)
-* [https://www.spiegel.de/sport/american-football/super-bowl-2025-philadelphia-eagles-besiegen-kansas-city-chiefs-pressestimmen](https://www.spiegel.de/sport/american-football/super-bowl-2025-philadelphia-eagles-besiegen-kansas-city-chiefs-pressestimmen-a-e85404df-b194-49a7-aeda-b005682d4fb3#ref=rss)
-* [https://www.spiegel.de/ausland/super-bowl-2025-donald-trump-spottet-ueber-taylor-swift](https://www.spiegel.de/ausland/super-bowl-2025-donald-trump-spottet-ueber-taylor-swift-a-42f5a690-a82d-423a-8ef8-37605159decc#ref=rss)
-* [https://www.spiegel.de/kultur/musik/super-bowl-2025-so-war-kendrick-lamars-halftime-show](https://www.spiegel.de/kultur/musik/super-bowl-2025-so-war-kendrick-lamars-halftime-show-a-a05db9d9-aafe-433c-813c-0e7e5621261c#ref=rss)
-* [https://www.spiegel.de/sport/american-football/super-bowl-2025-patrick-mahomes-chancenlos-gegen-die-defense-der-philadelphia-eagles](https://www.spiegel.de/sport/american-football/super-bowl-2025-patrick-mahomes-chancenlos-gegen-die-defense-der-philadelphia-eagles-a-e5ee360d-6c73-4649-ba93-54213c8de79e#ref=rss)
-### patrick
-
-* [https://www.spiegel.de/sport/american-football/philadelphia-eagles-gewinnen-super-bowl-das-beste-defensivfeuerwerk-der-geschichte](https://www.spiegel.de/sport/american-football/philadelphia-eagles-gewinnen-super-bowl-das-beste-defensivfeuerwerk-der-geschichte-a-2734ad4e-5b3e-4156-b972-d7b2ece299d5#ref=rss)
-* [https://www.spiegel.de/sport/american-football/super-bowl-2025-philadelphia-eagles-besiegen-kansas-city-chiefs-pressestimmen](https://www.spiegel.de/sport/american-football/super-bowl-2025-philadelphia-eagles-besiegen-kansas-city-chiefs-pressestimmen-a-e85404df-b194-49a7-aeda-b005682d4fb3#ref=rss)
-* [https://www.spiegel.de/sport/american-football/super-bowl-2025-patrick-mahomes-chancenlos-gegen-die-defense-der-philadelphia-eagles](https://www.spiegel.de/sport/american-football/super-bowl-2025-patrick-mahomes-chancenlos-gegen-die-defense-der-philadelphia-eagles-a-e5ee360d-6c73-4649-ba93-54213c8de79e#ref=rss)
-### mahomes
-
-* [https://www.spiegel.de/sport/american-football/philadelphia-eagles-gewinnen-super-bowl-das-beste-defensivfeuerwerk-der-geschichte](https://www.spiegel.de/sport/american-football/philadelphia-eagles-gewinnen-super-bowl-das-beste-defensivfeuerwerk-der-geschichte-a-2734ad4e-5b3e-4156-b972-d7b2ece299d5#ref=rss)
-* [https://www.spiegel.de/sport/american-football/super-bowl-2025-philadelphia-eagles-besiegen-kansas-city-chiefs-pressestimmen](https://www.spiegel.de/sport/american-football/super-bowl-2025-philadelphia-eagles-besiegen-kansas-city-chiefs-pressestimmen-a-e85404df-b194-49a7-aeda-b005682d4fb3#ref=rss)
-* [https://www.spiegel.de/sport/american-football/super-bowl-2025-patrick-mahomes-chancenlos-gegen-die-defense-der-philadelphia-eagles](https://www.spiegel.de/sport/american-football/super-bowl-2025-patrick-mahomes-chancenlos-gegen-die-defense-der-philadelphia-eagles-a-e5ee360d-6c73-4649-ba93-54213c8de79e#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/wirtschaft/eu-kommission-bezeichnet-moegliche-stahl-zoelle-als-rechtswidrig](https://www.spiegel.de/wirtschaft/eu-kommission-bezeichnet-moegliche-stahl-zoelle-als-rechtswidrig-a-b5ea99a5-d4aa-4a97-8ae1-216bfd1b2dd0#ref=rss)
-* [https://www.spiegel.de/ausland/super-bowl-2025-donald-trump-spottet-ueber-taylor-swift](https://www.spiegel.de/ausland/super-bowl-2025-donald-trump-spottet-ueber-taylor-swift-a-42f5a690-a82d-423a-8ef8-37605159decc#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-spricht-davon-gaza-kaufen-zu-wollen-israel-reagiert-positiv](https://www.spiegel.de/ausland/donald-trump-spricht-davon-gaza-kaufen-zu-wollen-israel-reagiert-positiv-a-85c4b098-08a7-4f94-919c-adaddca37625#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-kuendigt-25-prozent-zoelle-auf-stahl-und-aluminium-an](https://www.spiegel.de/wirtschaft/donald-trump-kuendigt-25-prozent-zoelle-auf-stahl-und-aluminium-an-a-053721eb-9df5-4751-8957-f5713b053da9#ref=rss)
+* [https://www.spiegel.de/auto/autobahn-die-meisten-autofahrer-halten-sich-freiwillig-an-tempolimit-130](https://www.spiegel.de/auto/autobahn-die-meisten-autofahrer-halten-sich-freiwillig-an-tempolimit-130-a-a6656dd4-e805-43a8-ae5f-1981446b0a4e#ref=rss)
+* [https://www.spiegel.de/panorama/wetterin-deutschland-schnee-und-regen-kehren-dienstag-und-mittwoch-zurueck](https://www.spiegel.de/panorama/wetterin-deutschland-schnee-und-regen-kehren-dienstag-und-mittwoch-zurueck-a-30619eb9-2efd-4294-bfac-c0c74dfd2c77#ref=rss)
+* [https://www.spiegel.de/deinspiegel/fuer-kinder-erklaert-was-bei-einer-bundestagswahl-passiert](https://www.spiegel.de/deinspiegel/fuer-kinder-erklaert-was-bei-einer-bundestagswahl-passiert-a-a114f9a8-8d6f-4c9d-8c2b-1c254bf7cacb#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/kultur/tv/tv-duell-hoehere-einschaltquoten-als-2021-und-als-das-dschungelcamp](https://www.spiegel.de/kultur/tv/tv-duell-hoehere-einschaltquoten-als-2021-und-als-das-dschungelcamp-a-9f9e485b-5da6-418d-9844-ca1ac2361ae3#ref=rss)
-* [https://www.spiegel.de/ausland/kosovo-albin-kurti-erklaert-sich-zum-wahlsieger-verliert-aber-mehrheit](https://www.spiegel.de/ausland/kosovo-albin-kurti-erklaert-sich-zum-wahlsieger-verliert-aber-mehrheit-a-4c50df57-9ae0-4237-99e6-2814f715d153#ref=rss)
-* [https://www.spiegel.de/karriere/people-pleasing-im-job-wie-schaffe-ich-es-mehr-an-mich-zu-denken](https://www.spiegel.de/karriere/people-pleasing-im-job-wie-schaffe-ich-es-mehr-an-mich-zu-denken-a-fc7ae974-7fc5-4e39-82da-a3d172604403#ref=rss)
-### israel
+* [https://www.spiegel.de/panorama/guatemala-mehr-als-50-tote-bei-busunglueck](https://www.spiegel.de/panorama/guatemala-mehr-als-50-tote-bei-busunglueck-a-5b7ba29a-5acb-47f7-a99e-baa7f610f71e#ref=rss)
+* [https://www.spiegel.de/ausland/israel-hamas-will-geiselfreilassung-bis-aus-weiteres-verschieben](https://www.spiegel.de/ausland/israel-hamas-will-geiselfreilassung-bis-aus-weiteres-verschieben-a-1ddeef7a-34d0-4369-9d39-63b19032f1a6#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/apple-watch-sollte-ich-sie-mir-ans-bein-binden](https://www.spiegel.de/netzwelt/gadgets/apple-watch-sollte-ich-sie-mir-ans-bein-binden-a-e54d9364-c957-402e-8355-abbb01f7ca20#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ricarda-lang-macht-druck-fuer-reform-von-paragraf-218](https://www.spiegel.de/politik/deutschland/ricarda-lang-macht-druck-fuer-reform-von-paragraf-218-a-835c3d2d-7ca0-43da-b610-551677570d5e#ref=rss)
+### super
 
-* [https://www.spiegel.de/ausland/israel-hamas-geisel-erfaehrt-erst-nach-freilassung-vom-schicksal-seiner-familie](https://www.spiegel.de/ausland/israel-hamas-geisel-erfaehrt-erst-nach-freilassung-vom-schicksal-seiner-familie-a-06e80e63-009c-44ce-82cb-90173219dc30#ref=rss)
-* [https://www.spiegel.de/ausland/nahostkonflikt-israel-muss-die-hamas-waehrend-des-wiederaufbaus-von-gaza-weiter-bekaempfen](https://www.spiegel.de/ausland/nahostkonflikt-israel-muss-die-hamas-waehrend-des-wiederaufbaus-von-gaza-weiter-bekaempfen-a-e5459d08-70a8-4b4e-a090-8dd01e99ef24#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-spricht-davon-gaza-kaufen-zu-wollen-israel-reagiert-positiv](https://www.spiegel.de/ausland/donald-trump-spricht-davon-gaza-kaufen-zu-wollen-israel-reagiert-positiv-a-85c4b098-08a7-4f94-919c-adaddca37625#ref=rss)
-### laut
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-tv-duell-olaf-scholz-friedrich-merz-super-bowl-klimakrise](https://www.spiegel.de/politik/deutschland/news-des-tages-tv-duell-olaf-scholz-friedrich-merz-super-bowl-klimakrise-a-5454326c-1719-4a46-84d0-2aa7365c8566#ref=rss)
+* [https://www.spiegel.de/kultur/musik/super-bowl-mit-taylor-swift-kendrick-lamar-serena-williams-die-wichtigsten-popkulturellen-momente](https://www.spiegel.de/kultur/musik/super-bowl-mit-taylor-swift-kendrick-lamar-serena-williams-die-wichtigsten-popkulturellen-momente-a-b719b03e-4c92-4910-9aa9-060b280a6834#ref=rss)
+### bowl
 
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-knapper-duellsieger-laut-umfrage](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-knapper-duellsieger-laut-umfrage-a-57b1b138-de3b-4c41-adea-1eadb2fcaaed#ref=rss)
-* [https://www.spiegel.de/ausland/kosovo-albin-kurti-erklaert-sich-zum-wahlsieger-verliert-aber-mehrheit](https://www.spiegel.de/ausland/kosovo-albin-kurti-erklaert-sich-zum-wahlsieger-verliert-aber-mehrheit-a-4c50df57-9ae0-4237-99e6-2814f715d153#ref=rss)
-### geschichte
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-tv-duell-olaf-scholz-friedrich-merz-super-bowl-klimakrise](https://www.spiegel.de/politik/deutschland/news-des-tages-tv-duell-olaf-scholz-friedrich-merz-super-bowl-klimakrise-a-5454326c-1719-4a46-84d0-2aa7365c8566#ref=rss)
+* [https://www.spiegel.de/kultur/musik/super-bowl-mit-taylor-swift-kendrick-lamar-serena-williams-die-wichtigsten-popkulturellen-momente](https://www.spiegel.de/kultur/musik/super-bowl-mit-taylor-swift-kendrick-lamar-serena-williams-die-wichtigsten-popkulturellen-momente-a-b719b03e-4c92-4910-9aa9-060b280a6834#ref=rss)
+### polizist
 
-* [https://www.spiegel.de/sport/american-football/philadelphia-eagles-gewinnen-super-bowl-das-beste-defensivfeuerwerk-der-geschichte](https://www.spiegel.de/sport/american-football/philadelphia-eagles-gewinnen-super-bowl-das-beste-defensivfeuerwerk-der-geschichte-a-2734ad4e-5b3e-4156-b972-d7b2ece299d5#ref=rss)
-* [https://www.spiegel.de/geschichte/inzest-in-der-geschichte-grausam-liebgehabt](https://www.spiegel.de/geschichte/inzest-in-der-geschichte-grausam-liebgehabt-a-d4f9b6f9-c348-4e4a-8f5d-01c1ace7c6ca#ref=rss)
-* [https://www.spiegel.de/panorama/ein-bild-und-seine-geschichte-wie-ich-mit-meinem-land-rover-durch-afrika-fuhr](https://www.spiegel.de/panorama/ein-bild-und-seine-geschichte-wie-ich-mit-meinem-land-rover-durch-afrika-fuhr-a-cfecb968-2b12-4673-a46f-915a098efe86#ref=rss)
-### stahl
+* [https://www.spiegel.de/panorama/justiz/kall-in-der-eifel-mann-gibt-sich-als-polizist-aus-und-trifft-echten-beamten](https://www.spiegel.de/panorama/justiz/kall-in-der-eifel-mann-gibt-sich-als-polizist-aus-und-trifft-echten-beamten-a-bc658bd7-215f-4a90-8dca-6f867ad703a1#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/aachen-polizist-wegen-koerperverletzung-zu-bewaehrungsstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/aachen-polizist-wegen-koerperverletzung-zu-bewaehrungsstrafe-verurteilt-a-27b787ec-92a3-4b23-b4d8-cecc39915713#ref=rss)
+### verurteilt
 
-* [https://www.spiegel.de/wirtschaft/eu-kommission-bezeichnet-moegliche-stahl-zoelle-als-rechtswidrig](https://www.spiegel.de/wirtschaft/eu-kommission-bezeichnet-moegliche-stahl-zoelle-als-rechtswidrig-a-b5ea99a5-d4aa-4a97-8ae1-216bfd1b2dd0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-kuendigt-25-prozent-zoelle-auf-stahl-und-aluminium-an](https://www.spiegel.de/wirtschaft/donald-trump-kuendigt-25-prozent-zoelle-auf-stahl-und-aluminium-an-a-053721eb-9df5-4751-8957-f5713b053da9#ref=rss)
-### aluminium
+* [https://www.spiegel.de/panorama/justiz/freiburg-ohr-abgebissen-42-jaehriger-zu-drei-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/freiburg-ohr-abgebissen-42-jaehriger-zu-drei-jahren-haft-verurteilt-a-e0e88cab-cc62-43ca-ae00-e10e7f309e21#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/aachen-polizist-wegen-koerperverletzung-zu-bewaehrungsstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/aachen-polizist-wegen-koerperverletzung-zu-bewaehrungsstrafe-verurteilt-a-27b787ec-92a3-4b23-b4d8-cecc39915713#ref=rss)
+### eu
 
-* [https://www.spiegel.de/wirtschaft/eu-kommission-bezeichnet-moegliche-stahl-zoelle-als-rechtswidrig](https://www.spiegel.de/wirtschaft/eu-kommission-bezeichnet-moegliche-stahl-zoelle-als-rechtswidrig-a-b5ea99a5-d4aa-4a97-8ae1-216bfd1b2dd0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-kuendigt-25-prozent-zoelle-auf-stahl-und-aluminium-an](https://www.spiegel.de/wirtschaft/donald-trump-kuendigt-25-prozent-zoelle-auf-stahl-und-aluminium-an-a-053721eb-9df5-4751-8957-f5713b053da9#ref=rss)
-### kansas
+* [https://www.spiegel.de/wirtschaft/soziales/streit-ueber-zoelle-wie-europa-sich-fuer-den-handelskrieg-gegen-trump-ruestet](https://www.spiegel.de/wirtschaft/soziales/streit-ueber-zoelle-wie-europa-sich-fuer-den-handelskrieg-gegen-trump-ruestet-a-afe6d6ef-5ff6-43df-afaf-f2f735beed16#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-und-die-strafzoelle-bdi-warnt-eu-vor-uebereilten-gegenmassnahmen](https://www.spiegel.de/wirtschaft/donald-trump-und-die-strafzoelle-bdi-warnt-eu-vor-uebereilten-gegenmassnahmen-a-50e260ef-c4ba-48c9-8b76-9534b080d5bb#ref=rss)
+### autofahrer
 
-* [https://www.spiegel.de/sport/american-football/super-bowl-2025-philadelphia-eagles-besiegen-kansas-city-chiefs-pressestimmen](https://www.spiegel.de/sport/american-football/super-bowl-2025-philadelphia-eagles-besiegen-kansas-city-chiefs-pressestimmen-a-e85404df-b194-49a7-aeda-b005682d4fb3#ref=rss)
-* [https://www.spiegel.de/sport/american-football/super-bowl-2025-patrick-mahomes-chancenlos-gegen-die-defense-der-philadelphia-eagles](https://www.spiegel.de/sport/american-football/super-bowl-2025-patrick-mahomes-chancenlos-gegen-die-defense-der-philadelphia-eagles-a-e5ee360d-6c73-4649-ba93-54213c8de79e#ref=rss)
-* [https://www.spiegel.de/sport/american-football/super-bowl-eagles-gegen-chiefs-wer-kroent-sich-zum-nfl-champion](https://www.spiegel.de/sport/american-football/super-bowl-eagles-gegen-chiefs-wer-kroent-sich-zum-nfl-champion-a-1c384454-a012-4d64-9df6-dfa578f70518#ref=rss)
-### city
+* [https://www.spiegel.de/auto/autobahn-die-meisten-autofahrer-halten-sich-freiwillig-an-tempolimit-130](https://www.spiegel.de/auto/autobahn-die-meisten-autofahrer-halten-sich-freiwillig-an-tempolimit-130-a-a6656dd4-e805-43a8-ae5f-1981446b0a4e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/kall-in-der-eifel-mann-gibt-sich-als-polizist-aus-und-trifft-echten-beamten](https://www.spiegel.de/panorama/justiz/kall-in-der-eifel-mann-gibt-sich-als-polizist-aus-und-trifft-echten-beamten-a-bc658bd7-215f-4a90-8dca-6f867ad703a1#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hamburg-mann-zieht-sich-nach-unfall-aus-und-sticht-autofahrer-nieder](https://www.spiegel.de/panorama/justiz/hamburg-mann-zieht-sich-nach-unfall-aus-und-sticht-autofahrer-nieder-a-1d00d13a-8238-4713-a91f-eeb9a1c4ce0a#ref=rss)
+### neue
 
-* [https://www.spiegel.de/sport/american-football/super-bowl-2025-philadelphia-eagles-besiegen-kansas-city-chiefs-pressestimmen](https://www.spiegel.de/sport/american-football/super-bowl-2025-philadelphia-eagles-besiegen-kansas-city-chiefs-pressestimmen-a-e85404df-b194-49a7-aeda-b005682d4fb3#ref=rss)
-* [https://www.spiegel.de/sport/american-football/super-bowl-2025-patrick-mahomes-chancenlos-gegen-die-defense-der-philadelphia-eagles](https://www.spiegel.de/sport/american-football/super-bowl-2025-patrick-mahomes-chancenlos-gegen-die-defense-der-philadelphia-eagles-a-e5ee360d-6c73-4649-ba93-54213c8de79e#ref=rss)
-* [https://www.spiegel.de/sport/american-football/super-bowl-eagles-gegen-chiefs-wer-kroent-sich-zum-nfl-champion](https://www.spiegel.de/sport/american-football/super-bowl-eagles-gegen-chiefs-wer-kroent-sich-zum-nfl-champion-a-1c384454-a012-4d64-9df6-dfa578f70518#ref=rss)
-### chiefs
+* [https://www.spiegel.de/auto/autobahn-die-meisten-autofahrer-halten-sich-freiwillig-an-tempolimit-130](https://www.spiegel.de/auto/autobahn-die-meisten-autofahrer-halten-sich-freiwillig-an-tempolimit-130-a-a6656dd4-e805-43a8-ae5f-1981446b0a4e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/pariser-klimaabkommen-nur-zehn-von-195-staaten-liefern-rechtzeitig-neue-plaene](https://www.spiegel.de/wissenschaft/mensch/pariser-klimaabkommen-nur-zehn-von-195-staaten-liefern-rechtzeitig-neue-plaene-a-e208f1ed-3577-41d7-aae4-b584aaaa0eb9#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/sinus-jugendstudie-kriege-bereiten-jugendlichen-die-groesste-sorge](https://www.spiegel.de/panorama/bildung/sinus-jugendstudie-kriege-bereiten-jugendlichen-die-groesste-sorge-a-d897239a-76d9-454c-943a-329a957990b6#ref=rss)
+### fordert
 
-* [https://www.spiegel.de/sport/american-football/super-bowl-2025-philadelphia-eagles-besiegen-kansas-city-chiefs-pressestimmen](https://www.spiegel.de/sport/american-football/super-bowl-2025-philadelphia-eagles-besiegen-kansas-city-chiefs-pressestimmen-a-e85404df-b194-49a7-aeda-b005682d4fb3#ref=rss)
-* [https://www.spiegel.de/sport/american-football/super-bowl-2025-patrick-mahomes-chancenlos-gegen-die-defense-der-philadelphia-eagles](https://www.spiegel.de/sport/american-football/super-bowl-2025-patrick-mahomes-chancenlos-gegen-die-defense-der-philadelphia-eagles-a-e5ee360d-6c73-4649-ba93-54213c8de79e#ref=rss)
-* [https://www.spiegel.de/sport/american-football/super-bowl-eagles-gegen-chiefs-wer-kroent-sich-zum-nfl-champion](https://www.spiegel.de/sport/american-football/super-bowl-eagles-gegen-chiefs-wer-kroent-sich-zum-nfl-champion-a-1c384454-a012-4d64-9df6-dfa578f70518#ref=rss)
-### sehen
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-versus-friedrich-merz-im-tv-duell-sehen-so-sieger-aus](https://www.spiegel.de/politik/deutschland/olaf-scholz-versus-friedrich-merz-im-tv-duell-sehen-so-sieger-aus-a-7c415d5b-8d75-47af-9ad4-99076d6055e7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/wirtschaftspolitik-der-afd-und-alice-weidel-bedrohen-deutschlands-wohlstand](https://www.spiegel.de/wirtschaft/soziales/wirtschaftspolitik-der-afd-und-alice-weidel-bedrohen-deutschlands-wohlstand-a-d19c1f0a-b026-4955-a0b2-99703f68cf4d#ref=rss)
-### wahlkampf
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-versus-friedrich-merz-im-tv-duell-sehen-so-sieger-aus](https://www.spiegel.de/politik/deutschland/olaf-scholz-versus-friedrich-merz-im-tv-duell-sehen-so-sieger-aus-a-7c415d5b-8d75-47af-9ad4-99076d6055e7#ref=rss)
-* [https://www.spiegel.de/kultur/tv/friedrich-merz-und-olaf-scholz-im-tv-duell-graf-zahl-trifft-auf-den-spd-kassenwart](https://www.spiegel.de/kultur/tv/friedrich-merz-und-olaf-scholz-im-tv-duell-graf-zahl-trifft-auf-den-spd-kassenwart-a-f8f7b1a7-2214-4583-83df-cb017ff9d0ee#ref=rss)
-### liegt
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-versus-friedrich-merz-im-tv-duell-sehen-so-sieger-aus](https://www.spiegel.de/politik/deutschland/olaf-scholz-versus-friedrich-merz-im-tv-duell-sehen-so-sieger-aus-a-7c415d5b-8d75-47af-9ad4-99076d6055e7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-knapper-duellsieger-laut-umfrage](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-knapper-duellsieger-laut-umfrage-a-57b1b138-de3b-4c41-adea-1eadb2fcaaed#ref=rss)
-### hauch
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-versus-friedrich-merz-im-tv-duell-sehen-so-sieger-aus](https://www.spiegel.de/politik/deutschland/olaf-scholz-versus-friedrich-merz-im-tv-duell-sehen-so-sieger-aus-a-7c415d5b-8d75-47af-9ad4-99076d6055e7#ref=rss)
-* [https://www.spiegel.de/sport/american-football/super-bowl-2025-patrick-mahomes-chancenlos-gegen-die-defense-der-philadelphia-eagles](https://www.spiegel.de/sport/american-football/super-bowl-2025-patrick-mahomes-chancenlos-gegen-die-defense-der-philadelphia-eagles-a-e5ee360d-6c73-4649-ba93-54213c8de79e#ref=rss)
-### 2021
-
-* [https://www.spiegel.de/kultur/tv/tv-duell-hoehere-einschaltquoten-als-2021-und-als-das-dschungelcamp](https://www.spiegel.de/kultur/tv/tv-duell-hoehere-einschaltquoten-als-2021-und-als-das-dschungelcamp-a-9f9e485b-5da6-418d-9844-ca1ac2361ae3#ref=rss)
-### prozent
-
-* [https://www.spiegel.de/kultur/tv/tv-duell-hoehere-einschaltquoten-als-2021-und-als-das-dschungelcamp](https://www.spiegel.de/kultur/tv/tv-duell-hoehere-einschaltquoten-als-2021-und-als-das-dschungelcamp-a-9f9e485b-5da6-418d-9844-ca1ac2361ae3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/eu-kommission-bezeichnet-moegliche-stahl-zoelle-als-rechtswidrig](https://www.spiegel.de/wirtschaft/eu-kommission-bezeichnet-moegliche-stahl-zoelle-als-rechtswidrig-a-b5ea99a5-d4aa-4a97-8ae1-216bfd1b2dd0#ref=rss)
-### duell
-
-* [https://www.spiegel.de/kultur/tv/tv-duell-hoehere-einschaltquoten-als-2021-und-als-das-dschungelcamp](https://www.spiegel.de/kultur/tv/tv-duell-hoehere-einschaltquoten-als-2021-und-als-das-dschungelcamp-a-9f9e485b-5da6-418d-9844-ca1ac2361ae3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-wie-die-medien-das-tv-duell-von-merz-und-scholz-bewerten](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-wie-die-medien-das-tv-duell-von-merz-und-scholz-bewerten-a-335fc384-afce-4b7e-a6f6-95cbeb48f338#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gaza-konflikt-bsw-fordert-gedenkminute-fuer-palaestinenser-im-bundestag](https://www.spiegel.de/politik/deutschland/gaza-konflikt-bsw-fordert-gedenkminute-fuer-palaestinenser-im-bundestag-a-db21579a-7fc4-4633-a1d8-dd80afddb475#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-und-die-strafzoelle-bdi-warnt-eu-vor-uebereilten-gegenmassnahmen](https://www.spiegel.de/wirtschaft/donald-trump-und-die-strafzoelle-bdi-warnt-eu-vor-uebereilten-gegenmassnahmen-a-50e260ef-c4ba-48c9-8b76-9534b080d5bb#ref=rss)
+* [https://www.spiegel.de/politik/bundeswehr-kommandeur-fordert-freistellung-fuer-reservisten](https://www.spiegel.de/politik/bundeswehr-kommandeur-fordert-freistellung-fuer-reservisten-a-539c09a5-2404-4bdc-b876-9a6ff9e83432#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/kultur/tv/tv-duell-hoehere-einschaltquoten-als-2021-und-als-das-dschungelcamp](https://www.spiegel.de/kultur/tv/tv-duell-hoehere-einschaltquoten-als-2021-und-als-das-dschungelcamp-a-9f9e485b-5da6-418d-9844-ca1ac2361ae3#ref=rss)
-* [https://www.spiegel.de/panorama/fischotter-berater-ueber-probleme-mit-den-tieren-intelligent-niedlich-und-sehr-gefraessig](https://www.spiegel.de/panorama/fischotter-berater-ueber-probleme-mit-den-tieren-intelligent-niedlich-und-sehr-gefraessig-a-b7bd668b-79f2-451c-ac4f-d8d34a841b24#ref=rss)
-### deutlich
-
-* [https://www.spiegel.de/kultur/tv/tv-duell-hoehere-einschaltquoten-als-2021-und-als-das-dschungelcamp](https://www.spiegel.de/kultur/tv/tv-duell-hoehere-einschaltquoten-als-2021-und-als-das-dschungelcamp-a-9f9e485b-5da6-418d-9844-ca1ac2361ae3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-knapper-duellsieger-laut-umfrage](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-knapper-duellsieger-laut-umfrage-a-57b1b138-de3b-4c41-adea-1eadb2fcaaed#ref=rss)
-### hamasgeisel
-
-* [https://www.spiegel.de/ausland/israel-hamas-geisel-erfaehrt-erst-nach-freilassung-vom-schicksal-seiner-familie](https://www.spiegel.de/ausland/israel-hamas-geisel-erfaehrt-erst-nach-freilassung-vom-schicksal-seiner-familie-a-06e80e63-009c-44ce-82cb-90173219dc30#ref=rss)
-### erst
-
-* [https://www.spiegel.de/ausland/israel-hamas-geisel-erfaehrt-erst-nach-freilassung-vom-schicksal-seiner-familie](https://www.spiegel.de/ausland/israel-hamas-geisel-erfaehrt-erst-nach-freilassung-vom-schicksal-seiner-familie-a-06e80e63-009c-44ce-82cb-90173219dc30#ref=rss)
-### ed
-
-* [https://www.spiegel.de/panorama/leute/ed-sheeran-wird-beim-strassenkonzert-in-indien-der-stecker-gezogen](https://www.spiegel.de/panorama/leute/ed-sheeran-wird-beim-strassenkonzert-in-indien-der-stecker-gezogen-a-02c394c1-e888-491f-b372-1ad918d448b1#ref=rss)
-### sheeran
-
-* [https://www.spiegel.de/panorama/leute/ed-sheeran-wird-beim-strassenkonzert-in-indien-der-stecker-gezogen](https://www.spiegel.de/panorama/leute/ed-sheeran-wird-beim-strassenkonzert-in-indien-der-stecker-gezogen-a-02c394c1-e888-491f-b372-1ad918d448b1#ref=rss)
-### straßenkonzert
-
-* [https://www.spiegel.de/panorama/leute/ed-sheeran-wird-beim-strassenkonzert-in-indien-der-stecker-gezogen](https://www.spiegel.de/panorama/leute/ed-sheeran-wird-beim-strassenkonzert-in-indien-der-stecker-gezogen-a-02c394c1-e888-491f-b372-1ad918d448b1#ref=rss)
-### geben
-
-* [https://www.spiegel.de/panorama/leute/ed-sheeran-wird-beim-strassenkonzert-in-indien-der-stecker-gezogen](https://www.spiegel.de/panorama/leute/ed-sheeran-wird-beim-strassenkonzert-in-indien-der-stecker-gezogen-a-02c394c1-e888-491f-b372-1ad918d448b1#ref=rss)
-* [https://www.spiegel.de/karriere/people-pleasing-im-job-wie-schaffe-ich-es-mehr-an-mich-zu-denken](https://www.spiegel.de/karriere/people-pleasing-im-job-wie-schaffe-ich-es-mehr-an-mich-zu-denken-a-fc7ae974-7fc5-4e39-82da-a3d172604403#ref=rss)
-### hingegen
-
-* [https://www.spiegel.de/panorama/leute/ed-sheeran-wird-beim-strassenkonzert-in-indien-der-stecker-gezogen](https://www.spiegel.de/panorama/leute/ed-sheeran-wird-beim-strassenkonzert-in-indien-der-stecker-gezogen-a-02c394c1-e888-491f-b372-1ad918d448b1#ref=rss)
-* [https://www.spiegel.de/geschichte/inzest-in-der-geschichte-grausam-liebgehabt](https://www.spiegel.de/geschichte/inzest-in-der-geschichte-grausam-liebgehabt-a-d4f9b6f9-c348-4e4a-8f5d-01c1ace7c6ca#ref=rss)
-### alles
-
-* [https://www.spiegel.de/panorama/leute/ed-sheeran-wird-beim-strassenkonzert-in-indien-der-stecker-gezogen](https://www.spiegel.de/panorama/leute/ed-sheeran-wird-beim-strassenkonzert-in-indien-der-stecker-gezogen-a-02c394c1-e888-491f-b372-1ad918d448b1#ref=rss)
-* [https://www.spiegel.de/sport/american-football/philadelphia-eagles-gewinnen-super-bowl-das-beste-defensivfeuerwerk-der-geschichte](https://www.spiegel.de/sport/american-football/philadelphia-eagles-gewinnen-super-bowl-das-beste-defensivfeuerwerk-der-geschichte-a-2734ad4e-5b3e-4156-b972-d7b2ece299d5#ref=rss)
-### andere
-
-* [https://www.spiegel.de/panorama/leute/ed-sheeran-wird-beim-strassenkonzert-in-indien-der-stecker-gezogen](https://www.spiegel.de/panorama/leute/ed-sheeran-wird-beim-strassenkonzert-in-indien-der-stecker-gezogen-a-02c394c1-e888-491f-b372-1ad918d448b1#ref=rss)
-* [https://www.spiegel.de/sport/american-football/philadelphia-eagles-gewinnen-super-bowl-das-beste-defensivfeuerwerk-der-geschichte](https://www.spiegel.de/sport/american-football/philadelphia-eagles-gewinnen-super-bowl-das-beste-defensivfeuerwerk-der-geschichte-a-2734ad4e-5b3e-4156-b972-d7b2ece299d5#ref=rss)
-### weidel
-
-* [https://www.spiegel.de/wirtschaft/soziales/wirtschaftspolitik-der-afd-und-alice-weidel-bedrohen-deutschlands-wohlstand](https://www.spiegel.de/wirtschaft/soziales/wirtschaftspolitik-der-afd-und-alice-weidel-bedrohen-deutschlands-wohlstand-a-d19c1f0a-b026-4955-a0b2-99703f68cf4d#ref=rss)
-### wohlstand
-
-* [https://www.spiegel.de/wirtschaft/soziales/wirtschaftspolitik-der-afd-und-alice-weidel-bedrohen-deutschlands-wohlstand](https://www.spiegel.de/wirtschaft/soziales/wirtschaftspolitik-der-afd-und-alice-weidel-bedrohen-deutschlands-wohlstand-a-d19c1f0a-b026-4955-a0b2-99703f68cf4d#ref=rss)
-### wohl
-
-* [https://www.spiegel.de/wirtschaft/soziales/wirtschaftspolitik-der-afd-und-alice-weidel-bedrohen-deutschlands-wohlstand](https://www.spiegel.de/wirtschaft/soziales/wirtschaftspolitik-der-afd-und-alice-weidel-bedrohen-deutschlands-wohlstand-a-d19c1f0a-b026-4955-a0b2-99703f68cf4d#ref=rss)
-* [https://www.spiegel.de/ausland/kosovo-albin-kurti-erklaert-sich-zum-wahlsieger-verliert-aber-mehrheit](https://www.spiegel.de/ausland/kosovo-albin-kurti-erklaert-sich-zum-wahlsieger-verliert-aber-mehrheit-a-4c50df57-9ae0-4237-99e6-2814f715d153#ref=rss)
+* [https://www.spiegel.de/panorama/guatemala-mehr-als-50-tote-bei-busunglueck](https://www.spiegel.de/panorama/guatemala-mehr-als-50-tote-bei-busunglueck-a-5b7ba29a-5acb-47f7-a99e-baa7f610f71e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/maria-enzersdorf-schamanin-ergaunert-millionen-in-oesterreich-auch-deutsche-abgezockt](https://www.spiegel.de/panorama/justiz/maria-enzersdorf-schamanin-ergaunert-millionen-in-oesterreich-auch-deutsche-abgezockt-a-de40fa05-0b7e-4eb3-82a3-8d8e8b0000ef#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/apple-watch-sollte-ich-sie-mir-ans-bein-binden](https://www.spiegel.de/netzwelt/gadgets/apple-watch-sollte-ich-sie-mir-ans-bein-binden-a-e54d9364-c957-402e-8355-abbb01f7ca20#ref=rss)
 ### hamas
 
-* [https://www.spiegel.de/ausland/nahostkonflikt-israel-muss-die-hamas-waehrend-des-wiederaufbaus-von-gaza-weiter-bekaempfen](https://www.spiegel.de/ausland/nahostkonflikt-israel-muss-die-hamas-waehrend-des-wiederaufbaus-von-gaza-weiter-bekaempfen-a-e5459d08-70a8-4b4e-a090-8dd01e99ef24#ref=rss)
-### gaza
+* [https://www.spiegel.de/ausland/israel-hamas-will-geiselfreilassung-bis-aus-weiteres-verschieben](https://www.spiegel.de/ausland/israel-hamas-will-geiselfreilassung-bis-aus-weiteres-verschieben-a-1ddeef7a-34d0-4369-9d39-63b19032f1a6#ref=rss)
+### pariser
 
-* [https://www.spiegel.de/ausland/nahostkonflikt-israel-muss-die-hamas-waehrend-des-wiederaufbaus-von-gaza-weiter-bekaempfen](https://www.spiegel.de/ausland/nahostkonflikt-israel-muss-die-hamas-waehrend-des-wiederaufbaus-von-gaza-weiter-bekaempfen-a-e5459d08-70a8-4b4e-a090-8dd01e99ef24#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-spricht-davon-gaza-kaufen-zu-wollen-israel-reagiert-positiv](https://www.spiegel.de/ausland/donald-trump-spricht-davon-gaza-kaufen-zu-wollen-israel-reagiert-positiv-a-85c4b098-08a7-4f94-919c-adaddca37625#ref=rss)
-### sagt
+* [https://www.spiegel.de/panorama/leute/heidi-klum-mir-wurde-immer-gesagt-ich-waere-fuer-die-pariser-mode-einfach-zu-dick](https://www.spiegel.de/panorama/leute/heidi-klum-mir-wurde-immer-gesagt-ich-waere-fuer-die-pariser-mode-einfach-zu-dick-a-daa98788-fb73-4cd0-9536-7fef9f0e6445#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/pariser-klimaabkommen-nur-zehn-von-195-staaten-liefern-rechtzeitig-neue-plaene](https://www.spiegel.de/wissenschaft/mensch/pariser-klimaabkommen-nur-zehn-von-195-staaten-liefern-rechtzeitig-neue-plaene-a-e208f1ed-3577-41d7-aae4-b584aaaa0eb9#ref=rss)
+### februar
 
-* [https://www.spiegel.de/ausland/nahostkonflikt-israel-muss-die-hamas-waehrend-des-wiederaufbaus-von-gaza-weiter-bekaempfen](https://www.spiegel.de/ausland/nahostkonflikt-israel-muss-die-hamas-waehrend-des-wiederaufbaus-von-gaza-weiter-bekaempfen-a-e5459d08-70a8-4b4e-a090-8dd01e99ef24#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/tv-duell-psychologe-ulrich-sollmann-scholz-erinnerte-mich-an-einen-bieber-merz-trat-wie-ein-stelzvogel-auf](https://www.spiegel.de/politik/deutschland/tv-duell-psychologe-ulrich-sollmann-scholz-erinnerte-mich-an-einen-bieber-merz-trat-wie-ein-stelzvogel-auf-a-aa2a4045-ac34-4355-bf6f-264a24ad81b1#ref=rss)
-### mögliche
+* [https://www.spiegel.de/deinspiegel/fuer-kinder-erklaert-was-bei-einer-bundestagswahl-passiert](https://www.spiegel.de/deinspiegel/fuer-kinder-erklaert-was-bei-einer-bundestagswahl-passiert-a-a114f9a8-8d6f-4c9d-8c2b-1c254bf7cacb#ref=rss)
+* [https://www.spiegel.de/sport/champions-league-spielplan-alle-partien-und-ergebnisse-der-k-o-phase](https://www.spiegel.de/sport/champions-league-spielplan-alle-partien-und-ergebnisse-der-k-o-phase-a-597c75cf-4991-461b-992a-6b98e1182573#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/pariser-klimaabkommen-nur-zehn-von-195-staaten-liefern-rechtzeitig-neue-plaene](https://www.spiegel.de/wissenschaft/mensch/pariser-klimaabkommen-nur-zehn-von-195-staaten-liefern-rechtzeitig-neue-plaene-a-e208f1ed-3577-41d7-aae4-b584aaaa0eb9#ref=rss)
+### alle
 
-* [https://www.spiegel.de/ausland/nahostkonflikt-israel-muss-die-hamas-waehrend-des-wiederaufbaus-von-gaza-weiter-bekaempfen](https://www.spiegel.de/ausland/nahostkonflikt-israel-muss-die-hamas-waehrend-des-wiederaufbaus-von-gaza-weiter-bekaempfen-a-e5459d08-70a8-4b4e-a090-8dd01e99ef24#ref=rss)
-* [https://www.spiegel.de/wirtschaft/eu-kommission-bezeichnet-moegliche-stahl-zoelle-als-rechtswidrig](https://www.spiegel.de/wirtschaft/eu-kommission-bezeichnet-moegliche-stahl-zoelle-als-rechtswidrig-a-b5ea99a5-d4aa-4a97-8ae1-216bfd1b2dd0#ref=rss)
-### fischotterberater
+* [https://www.spiegel.de/deinspiegel/fuer-kinder-erklaert-was-bei-einer-bundestagswahl-passiert](https://www.spiegel.de/deinspiegel/fuer-kinder-erklaert-was-bei-einer-bundestagswahl-passiert-a-a114f9a8-8d6f-4c9d-8c2b-1c254bf7cacb#ref=rss)
+* [https://www.spiegel.de/sport/champions-league-spielplan-alle-partien-und-ergebnisse-der-k-o-phase](https://www.spiegel.de/sport/champions-league-spielplan-alle-partien-und-ergebnisse-der-k-o-phase-a-597c75cf-4991-461b-992a-6b98e1182573#ref=rss)
+* [https://www.spiegel.de/kultur/musik/super-bowl-mit-taylor-swift-kendrick-lamar-serena-williams-die-wichtigsten-popkulturellen-momente](https://www.spiegel.de/kultur/musik/super-bowl-mit-taylor-swift-kendrick-lamar-serena-williams-die-wichtigsten-popkulturellen-momente-a-b719b03e-4c92-4910-9aa9-060b280a6834#ref=rss)
+### zeigt
 
-* [https://www.spiegel.de/panorama/fischotter-berater-ueber-probleme-mit-den-tieren-intelligent-niedlich-und-sehr-gefraessig](https://www.spiegel.de/panorama/fischotter-berater-ueber-probleme-mit-den-tieren-intelligent-niedlich-und-sehr-gefraessig-a-b7bd668b-79f2-451c-ac4f-d8d34a841b24#ref=rss)
-### sehr
+* [https://www.spiegel.de/netzwelt/influencerin-lala-in-der-kritik-was-experten-zu-kinderbildern-im-internet-raten](https://www.spiegel.de/netzwelt/influencerin-lala-in-der-kritik-was-experten-zu-kinderbildern-im-internet-raten-a-7599a1eb-1181-4e2a-af55-47d2c5414567#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/vegavis-iaai-frueher-vogel-ueberlebte-dinosaurier-sterben-fund-in-der-antarktis](https://www.spiegel.de/wissenschaft/natur/vegavis-iaai-frueher-vogel-ueberlebte-dinosaurier-sterben-fund-in-der-antarktis-a-52a98ae7-d4d3-443d-a72f-bf0d928b6a5c#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/sinus-jugendstudie-kriege-bereiten-jugendlichen-die-groesste-sorge](https://www.spiegel.de/panorama/bildung/sinus-jugendstudie-kriege-bereiten-jugendlichen-die-groesste-sorge-a-d897239a-76d9-454c-943a-329a957990b6#ref=rss)
+### freiburg
 
-* [https://www.spiegel.de/panorama/fischotter-berater-ueber-probleme-mit-den-tieren-intelligent-niedlich-und-sehr-gefraessig](https://www.spiegel.de/panorama/fischotter-berater-ueber-probleme-mit-den-tieren-intelligent-niedlich-und-sehr-gefraessig-a-b7bd668b-79f2-451c-ac4f-d8d34a841b24#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-wie-die-medien-das-tv-duell-von-merz-und-scholz-bewerten](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-wie-die-medien-das-tv-duell-von-merz-und-scholz-bewerten-a-335fc384-afce-4b7e-a6f6-95cbeb48f338#ref=rss)
-### bundestagswahl
+* [https://www.spiegel.de/panorama/justiz/freiburg-ohr-abgebissen-42-jaehriger-zu-drei-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/freiburg-ohr-abgebissen-42-jaehriger-zu-drei-jahren-haft-verurteilt-a-e0e88cab-cc62-43ca-ae00-e10e7f309e21#ref=rss)
+### abgebissen
 
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-knapper-duellsieger-laut-umfrage](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-knapper-duellsieger-laut-umfrage-a-57b1b138-de3b-4c41-adea-1eadb2fcaaed#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-wie-die-medien-das-tv-duell-von-merz-und-scholz-bewerten](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-wie-die-medien-das-tv-duell-von-merz-und-scholz-bewerten-a-335fc384-afce-4b7e-a6f6-95cbeb48f338#ref=rss)
-### knapper
+* [https://www.spiegel.de/panorama/justiz/freiburg-ohr-abgebissen-42-jaehriger-zu-drei-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/freiburg-ohr-abgebissen-42-jaehriger-zu-drei-jahren-haft-verurteilt-a-e0e88cab-cc62-43ca-ae00-e10e7f309e21#ref=rss)
+### europa
 
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-knapper-duellsieger-laut-umfrage](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-knapper-duellsieger-laut-umfrage-a-57b1b138-de3b-4c41-adea-1eadb2fcaaed#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-wie-die-medien-das-tv-duell-von-merz-und-scholz-bewerten](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-wie-die-medien-das-tv-duell-von-merz-und-scholz-bewerten-a-335fc384-afce-4b7e-a6f6-95cbeb48f338#ref=rss)
-### kanzler
+* [https://www.spiegel.de/wirtschaft/soziales/streit-ueber-zoelle-wie-europa-sich-fuer-den-handelskrieg-gegen-trump-ruestet](https://www.spiegel.de/wirtschaft/soziales/streit-ueber-zoelle-wie-europa-sich-fuer-den-handelskrieg-gegen-trump-ruestet-a-afe6d6ef-5ff6-43df-afaf-f2f735beed16#ref=rss)
+### uspräsident
 
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-knapper-duellsieger-laut-umfrage](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-knapper-duellsieger-laut-umfrage-a-57b1b138-de3b-4c41-adea-1eadb2fcaaed#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-wie-die-medien-das-tv-duell-von-merz-und-scholz-bewerten](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-wie-die-medien-das-tv-duell-von-merz-und-scholz-bewerten-a-335fc384-afce-4b7e-a6f6-95cbeb48f338#ref=rss)
-### herausforderer
+* [https://www.spiegel.de/wirtschaft/soziales/streit-ueber-zoelle-wie-europa-sich-fuer-den-handelskrieg-gegen-trump-ruestet](https://www.spiegel.de/wirtschaft/soziales/streit-ueber-zoelle-wie-europa-sich-fuer-den-handelskrieg-gegen-trump-ruestet-a-afe6d6ef-5ff6-43df-afaf-f2f735beed16#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-und-die-strafzoelle-bdi-warnt-eu-vor-uebereilten-gegenmassnahmen](https://www.spiegel.de/wirtschaft/donald-trump-und-die-strafzoelle-bdi-warnt-eu-vor-uebereilten-gegenmassnahmen-a-50e260ef-c4ba-48c9-8b76-9534b080d5bb#ref=rss)
+### stahl
 
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-knapper-duellsieger-laut-umfrage](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-knapper-duellsieger-laut-umfrage-a-57b1b138-de3b-4c41-adea-1eadb2fcaaed#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-wie-die-medien-das-tv-duell-von-merz-und-scholz-bewerten](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-wie-die-medien-das-tv-duell-von-merz-und-scholz-bewerten-a-335fc384-afce-4b7e-a6f6-95cbeb48f338#ref=rss)
-### allen
+* [https://www.spiegel.de/wirtschaft/soziales/streit-ueber-zoelle-wie-europa-sich-fuer-den-handelskrieg-gegen-trump-ruestet](https://www.spiegel.de/wirtschaft/soziales/streit-ueber-zoelle-wie-europa-sich-fuer-den-handelskrieg-gegen-trump-ruestet-a-afe6d6ef-5ff6-43df-afaf-f2f735beed16#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-und-die-strafzoelle-bdi-warnt-eu-vor-uebereilten-gegenmassnahmen](https://www.spiegel.de/wirtschaft/donald-trump-und-die-strafzoelle-bdi-warnt-eu-vor-uebereilten-gegenmassnahmen-a-50e260ef-c4ba-48c9-8b76-9534b080d5bb#ref=rss)
+### liegen
 
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-knapper-duellsieger-laut-umfrage](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-olaf-scholz-knapper-duellsieger-laut-umfrage-a-57b1b138-de3b-4c41-adea-1eadb2fcaaed#ref=rss)
-* [https://www.spiegel.de/karriere/people-pleasing-im-job-wie-schaffe-ich-es-mehr-an-mich-zu-denken](https://www.spiegel.de/karriere/people-pleasing-im-job-wie-schaffe-ich-es-mehr-an-mich-zu-denken-a-fc7ae974-7fc5-4e39-82da-a3d172604403#ref=rss)
-### fleisch
+* [https://www.spiegel.de/wirtschaft/soziales/streit-ueber-zoelle-wie-europa-sich-fuer-den-handelskrieg-gegen-trump-ruestet](https://www.spiegel.de/wirtschaft/soziales/streit-ueber-zoelle-wie-europa-sich-fuer-den-handelskrieg-gegen-trump-ruestet-a-afe6d6ef-5ff6-43df-afaf-f2f735beed16#ref=rss)
+* [https://www.spiegel.de/kultur/grippewelle-und-arbeitsmoral-warum-krankheit-nicht-mit-schwaeche-gleichzusetzen-ist](https://www.spiegel.de/kultur/grippewelle-und-arbeitsmoral-warum-krankheit-nicht-mit-schwaeche-gleichzusetzen-ist-a-dd416fba-c304-4753-8f7d-0b46ecf5b8f2#ref=rss)
+### freiwillig
 
-* [https://www.spiegel.de/wirtschaft/trotz-hoher-preise-nachfrage-nach-bio-waechst-staerker-als-anbauflaeche](https://www.spiegel.de/wirtschaft/trotz-hoher-preise-nachfrage-nach-bio-waechst-staerker-als-anbauflaeche-a-26783818-7b2d-45c1-824e-1646c2a7a6d3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/fleischersatz-veggie-produkte-koennten-250-000-jobs-schaffen-deutschland-bald-marktfuehrer](https://www.spiegel.de/wirtschaft/soziales/fleischersatz-veggie-produkte-koennten-250-000-jobs-schaffen-deutschland-bald-marktfuehrer-a-5b230e99-0ee6-4b3b-98be-de361f2dea9d#ref=rss)
-### nächste
+* [https://www.spiegel.de/auto/autobahn-die-meisten-autofahrer-halten-sich-freiwillig-an-tempolimit-130](https://www.spiegel.de/auto/autobahn-die-meisten-autofahrer-halten-sich-freiwillig-an-tempolimit-130-a-a6656dd4-e805-43a8-ae5f-1981446b0a4e#ref=rss)
+* [https://www.spiegel.de/ausland/rumaenien-staatspraesident-klaus-iohannis-erklaert-ruecktritt](https://www.spiegel.de/ausland/rumaenien-staatspraesident-klaus-iohannis-erklaert-ruecktritt-a-0dece14e-511f-4354-8977-8990314497d7#ref=rss)
+### tempolimit
 
-* [https://www.spiegel.de/wirtschaft/trotz-hoher-preise-nachfrage-nach-bio-waechst-staerker-als-anbauflaeche](https://www.spiegel.de/wirtschaft/trotz-hoher-preise-nachfrage-nach-bio-waechst-staerker-als-anbauflaeche-a-26783818-7b2d-45c1-824e-1646c2a7a6d3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-kuendigt-25-prozent-zoelle-auf-stahl-und-aluminium-an](https://www.spiegel.de/wirtschaft/donald-trump-kuendigt-25-prozent-zoelle-auf-stahl-und-aluminium-an-a-053721eb-9df5-4751-8957-f5713b053da9#ref=rss)
-### bryan
+* [https://www.spiegel.de/auto/autobahn-die-meisten-autofahrer-halten-sich-freiwillig-an-tempolimit-130](https://www.spiegel.de/auto/autobahn-die-meisten-autofahrer-halten-sich-freiwillig-an-tempolimit-130-a-a6656dd4-e805-43a8-ae5f-1981446b0a4e#ref=rss)
+### bsw
 
-* [https://www.spiegel.de/panorama/bryan-adams-konzert-in-australien-wegen-ueberlaufgefahr-der-toiletten-abgesagt](https://www.spiegel.de/panorama/bryan-adams-konzert-in-australien-wegen-ueberlaufgefahr-der-toiletten-abgesagt-a-3f5ae5de-ad0b-4fb7-a95a-744bb361f3cb#ref=rss)
-### adams
+* [https://www.spiegel.de/politik/deutschland/gaza-konflikt-bsw-fordert-gedenkminute-fuer-palaestinenser-im-bundestag](https://www.spiegel.de/politik/deutschland/gaza-konflikt-bsw-fordert-gedenkminute-fuer-palaestinenser-im-bundestag-a-db21579a-7fc4-4633-a1d8-dd80afddb475#ref=rss)
+### bundestag
 
-* [https://www.spiegel.de/panorama/bryan-adams-konzert-in-australien-wegen-ueberlaufgefahr-der-toiletten-abgesagt](https://www.spiegel.de/panorama/bryan-adams-konzert-in-australien-wegen-ueberlaufgefahr-der-toiletten-abgesagt-a-3f5ae5de-ad0b-4fb7-a95a-744bb361f3cb#ref=rss)
-### konzert
+* [https://www.spiegel.de/politik/deutschland/gaza-konflikt-bsw-fordert-gedenkminute-fuer-palaestinenser-im-bundestag](https://www.spiegel.de/politik/deutschland/gaza-konflikt-bsw-fordert-gedenkminute-fuer-palaestinenser-im-bundestag-a-db21579a-7fc4-4633-a1d8-dd80afddb475#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ricarda-lang-macht-druck-fuer-reform-von-paragraf-218](https://www.spiegel.de/politik/deutschland/ricarda-lang-macht-druck-fuer-reform-von-paragraf-218-a-835c3d2d-7ca0-43da-b610-551677570d5e#ref=rss)
+### beginn
 
-* [https://www.spiegel.de/panorama/bryan-adams-konzert-in-australien-wegen-ueberlaufgefahr-der-toiletten-abgesagt](https://www.spiegel.de/panorama/bryan-adams-konzert-in-australien-wegen-ueberlaufgefahr-der-toiletten-abgesagt-a-3f5ae5de-ad0b-4fb7-a95a-744bb361f3cb#ref=rss)
-### abgesagt
+* [https://www.spiegel.de/politik/deutschland/gaza-konflikt-bsw-fordert-gedenkminute-fuer-palaestinenser-im-bundestag](https://www.spiegel.de/politik/deutschland/gaza-konflikt-bsw-fordert-gedenkminute-fuer-palaestinenser-im-bundestag-a-db21579a-7fc4-4633-a1d8-dd80afddb475#ref=rss)
+* [https://www.spiegel.de/panorama/leute/heidi-klum-mir-wurde-immer-gesagt-ich-waere-fuer-die-pariser-mode-einfach-zu-dick](https://www.spiegel.de/panorama/leute/heidi-klum-mir-wurde-immer-gesagt-ich-waere-fuer-die-pariser-mode-einfach-zu-dick-a-daa98788-fb73-4cd0-9536-7fef9f0e6445#ref=rss)
+### sollten
 
-* [https://www.spiegel.de/panorama/bryan-adams-konzert-in-australien-wegen-ueberlaufgefahr-der-toiletten-abgesagt](https://www.spiegel.de/panorama/bryan-adams-konzert-in-australien-wegen-ueberlaufgefahr-der-toiletten-abgesagt-a-3f5ae5de-ad0b-4fb7-a95a-744bb361f3cb#ref=rss)
-### selbst
+* [https://www.spiegel.de/politik/deutschland/gaza-konflikt-bsw-fordert-gedenkminute-fuer-palaestinenser-im-bundestag](https://www.spiegel.de/politik/deutschland/gaza-konflikt-bsw-fordert-gedenkminute-fuer-palaestinenser-im-bundestag-a-db21579a-7fc4-4633-a1d8-dd80afddb475#ref=rss)
+* [https://www.spiegel.de/netzwelt/influencerin-lala-in-der-kritik-was-experten-zu-kinderbildern-im-internet-raten](https://www.spiegel.de/netzwelt/influencerin-lala-in-der-kritik-was-experten-zu-kinderbildern-im-internet-raten-a-7599a1eb-1181-4e2a-af55-47d2c5414567#ref=rss)
+### kritisiert
 
-* [https://www.spiegel.de/panorama/bryan-adams-konzert-in-australien-wegen-ueberlaufgefahr-der-toiletten-abgesagt](https://www.spiegel.de/panorama/bryan-adams-konzert-in-australien-wegen-ueberlaufgefahr-der-toiletten-abgesagt-a-3f5ae5de-ad0b-4fb7-a95a-744bb361f3cb#ref=rss)
-* [https://www.spiegel.de/ausland/super-bowl-2025-donald-trump-spottet-ueber-taylor-swift](https://www.spiegel.de/ausland/super-bowl-2025-donald-trump-spottet-ueber-taylor-swift-a-42f5a690-a82d-423a-8ef8-37605159decc#ref=rss)
-### verteidigung
+* [https://www.spiegel.de/politik/deutschland/gaza-konflikt-bsw-fordert-gedenkminute-fuer-palaestinenser-im-bundestag](https://www.spiegel.de/politik/deutschland/gaza-konflikt-bsw-fordert-gedenkminute-fuer-palaestinenser-im-bundestag-a-db21579a-7fc4-4633-a1d8-dd80afddb475#ref=rss)
+* [https://www.spiegel.de/netzwelt/influencerin-lala-in-der-kritik-was-experten-zu-kinderbildern-im-internet-raten](https://www.spiegel.de/netzwelt/influencerin-lala-in-der-kritik-was-experten-zu-kinderbildern-im-internet-raten-a-7599a1eb-1181-4e2a-af55-47d2c5414567#ref=rss)
+### guatemala
 
-* [https://www.spiegel.de/sport/american-football/philadelphia-eagles-gewinnen-super-bowl-das-beste-defensivfeuerwerk-der-geschichte](https://www.spiegel.de/sport/american-football/philadelphia-eagles-gewinnen-super-bowl-das-beste-defensivfeuerwerk-der-geschichte-a-2734ad4e-5b3e-4156-b972-d7b2ece299d5#ref=rss)
-* [https://www.spiegel.de/sport/american-football/super-bowl-2025-patrick-mahomes-chancenlos-gegen-die-defense-der-philadelphia-eagles](https://www.spiegel.de/sport/american-football/super-bowl-2025-patrick-mahomes-chancenlos-gegen-die-defense-der-philadelphia-eagles-a-e5ee360d-6c73-4649-ba93-54213c8de79e#ref=rss)
-### neuen
+* [https://www.spiegel.de/panorama/guatemala-mehr-als-50-tote-bei-busunglueck](https://www.spiegel.de/panorama/guatemala-mehr-als-50-tote-bei-busunglueck-a-5b7ba29a-5acb-47f7-a99e-baa7f610f71e#ref=rss)
+### darunter
 
-* [https://www.spiegel.de/sport/american-football/philadelphia-eagles-gewinnen-super-bowl-das-beste-defensivfeuerwerk-der-geschichte](https://www.spiegel.de/sport/american-football/philadelphia-eagles-gewinnen-super-bowl-das-beste-defensivfeuerwerk-der-geschichte-a-2734ad4e-5b3e-4156-b972-d7b2ece299d5#ref=rss)
-* [https://www.spiegel.de/sport/american-football/super-bowl-eagles-gegen-chiefs-wer-kroent-sich-zum-nfl-champion](https://www.spiegel.de/sport/american-football/super-bowl-eagles-gegen-chiefs-wer-kroent-sich-zum-nfl-champion-a-1c384454-a012-4d64-9df6-dfa578f70518#ref=rss)
-### eukommission
+* [https://www.spiegel.de/panorama/guatemala-mehr-als-50-tote-bei-busunglueck](https://www.spiegel.de/panorama/guatemala-mehr-als-50-tote-bei-busunglueck-a-5b7ba29a-5acb-47f7-a99e-baa7f610f71e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/pariser-klimaabkommen-nur-zehn-von-195-staaten-liefern-rechtzeitig-neue-plaene](https://www.spiegel.de/wissenschaft/mensch/pariser-klimaabkommen-nur-zehn-von-195-staaten-liefern-rechtzeitig-neue-plaene-a-e208f1ed-3577-41d7-aae4-b584aaaa0eb9#ref=rss)
+### israel
 
-* [https://www.spiegel.de/wirtschaft/eu-kommission-bezeichnet-moegliche-stahl-zoelle-als-rechtswidrig](https://www.spiegel.de/wirtschaft/eu-kommission-bezeichnet-moegliche-stahl-zoelle-als-rechtswidrig-a-b5ea99a5-d4aa-4a97-8ae1-216bfd1b2dd0#ref=rss)
-### importe
+* [https://www.spiegel.de/ausland/israel-hamas-will-geiselfreilassung-bis-aus-weiteres-verschieben](https://www.spiegel.de/ausland/israel-hamas-will-geiselfreilassung-bis-aus-weiteres-verschieben-a-1ddeef7a-34d0-4369-9d39-63b19032f1a6#ref=rss)
+### geiseln
 
-* [https://www.spiegel.de/wirtschaft/eu-kommission-bezeichnet-moegliche-stahl-zoelle-als-rechtswidrig](https://www.spiegel.de/wirtschaft/eu-kommission-bezeichnet-moegliche-stahl-zoelle-als-rechtswidrig-a-b5ea99a5-d4aa-4a97-8ae1-216bfd1b2dd0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-kuendigt-25-prozent-zoelle-auf-stahl-und-aluminium-an](https://www.spiegel.de/wirtschaft/donald-trump-kuendigt-25-prozent-zoelle-auf-stahl-und-aluminium-an-a-053721eb-9df5-4751-8957-f5713b053da9#ref=rss)
-### waren
+* [https://www.spiegel.de/ausland/israel-hamas-will-geiselfreilassung-bis-aus-weiteres-verschieben](https://www.spiegel.de/ausland/israel-hamas-will-geiselfreilassung-bis-aus-weiteres-verschieben-a-1ddeef7a-34d0-4369-9d39-63b19032f1a6#ref=rss)
+### olaf
 
-* [https://www.spiegel.de/geschichte/inzest-in-der-geschichte-grausam-liebgehabt](https://www.spiegel.de/geschichte/inzest-in-der-geschichte-grausam-liebgehabt-a-d4f9b6f9-c348-4e4a-8f5d-01c1ace7c6ca#ref=rss)
-### land
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-tv-duell-olaf-scholz-friedrich-merz-super-bowl-klimakrise](https://www.spiegel.de/politik/deutschland/news-des-tages-tv-duell-olaf-scholz-friedrich-merz-super-bowl-klimakrise-a-5454326c-1719-4a46-84d0-2aa7365c8566#ref=rss)
+### scholz
 
-* [https://www.spiegel.de/geschichte/inzest-in-der-geschichte-grausam-liebgehabt](https://www.spiegel.de/geschichte/inzest-in-der-geschichte-grausam-liebgehabt-a-d4f9b6f9-c348-4e4a-8f5d-01c1ace7c6ca#ref=rss)
-* [https://www.spiegel.de/panorama/ein-bild-und-seine-geschichte-wie-ich-mit-meinem-land-rover-durch-afrika-fuhr](https://www.spiegel.de/panorama/ein-bild-und-seine-geschichte-wie-ich-mit-meinem-land-rover-durch-afrika-fuhr-a-cfecb968-2b12-4673-a46f-915a098efe86#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-tv-duell-olaf-scholz-friedrich-merz-super-bowl-klimakrise](https://www.spiegel.de/politik/deutschland/news-des-tages-tv-duell-olaf-scholz-friedrich-merz-super-bowl-klimakrise-a-5454326c-1719-4a46-84d0-2aa7365c8566#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-tv-duell-olaf-scholz-friedrich-merz-super-bowl-klimakrise](https://www.spiegel.de/politik/deutschland/news-des-tages-tv-duell-olaf-scholz-friedrich-merz-super-bowl-klimakrise-a-5454326c-1719-4a46-84d0-2aa7365c8566#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-tv-duell-olaf-scholz-friedrich-merz-super-bowl-klimakrise](https://www.spiegel.de/politik/deutschland/news-des-tages-tv-duell-olaf-scholz-friedrich-merz-super-bowl-klimakrise-a-5454326c-1719-4a46-84d0-2aa7365c8566#ref=rss)
+### schnee
+
+* [https://www.spiegel.de/panorama/wetterin-deutschland-schnee-und-regen-kehren-dienstag-und-mittwoch-zurueck](https://www.spiegel.de/panorama/wetterin-deutschland-schnee-und-regen-kehren-dienstag-und-mittwoch-zurueck-a-30619eb9-2efd-4294-bfac-c0c74dfd2c77#ref=rss)
+### camp
+
+* [https://www.spiegel.de/kultur/tv/dschungelcamp-2025-die-ehefrau-von-boris-becker-zu-sein-ist-ja-auch-ein-job](https://www.spiegel.de/kultur/tv/dschungelcamp-2025-die-ehefrau-von-boris-becker-zu-sein-ist-ja-auch-ein-job-a-2b47d67e-642e-4cfd-bbde-77f44df472b9#ref=rss)
+### schamanin
+
+* [https://www.spiegel.de/panorama/justiz/maria-enzersdorf-schamanin-ergaunert-millionen-in-oesterreich-auch-deutsche-abgezockt](https://www.spiegel.de/panorama/justiz/maria-enzersdorf-schamanin-ergaunert-millionen-in-oesterreich-auch-deutsche-abgezockt-a-de40fa05-0b7e-4eb3-82a3-8d8e8b0000ef#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/panorama/justiz/maria-enzersdorf-schamanin-ergaunert-millionen-in-oesterreich-auch-deutsche-abgezockt](https://www.spiegel.de/panorama/justiz/maria-enzersdorf-schamanin-ergaunert-millionen-in-oesterreich-auch-deutsche-abgezockt-a-de40fa05-0b7e-4eb3-82a3-8d8e8b0000ef#ref=rss)
 ### ich
 
-* [https://www.spiegel.de/panorama/ein-bild-und-seine-geschichte-wie-ich-mit-meinem-land-rover-durch-afrika-fuhr](https://www.spiegel.de/panorama/ein-bild-und-seine-geschichte-wie-ich-mit-meinem-land-rover-durch-afrika-fuhr-a-cfecb968-2b12-4673-a46f-915a098efe86#ref=rss)
-* [https://www.spiegel.de/karriere/people-pleasing-im-job-wie-schaffe-ich-es-mehr-an-mich-zu-denken](https://www.spiegel.de/karriere/people-pleasing-im-job-wie-schaffe-ich-es-mehr-an-mich-zu-denken-a-fc7ae974-7fc5-4e39-82da-a3d172604403#ref=rss)
-### psychologe
+* [https://www.spiegel.de/netzwelt/gadgets/apple-watch-sollte-ich-sie-mir-ans-bein-binden](https://www.spiegel.de/netzwelt/gadgets/apple-watch-sollte-ich-sie-mir-ans-bein-binden-a-e54d9364-c957-402e-8355-abbb01f7ca20#ref=rss)
+* [https://www.spiegel.de/panorama/leute/heidi-klum-mir-wurde-immer-gesagt-ich-waere-fuer-die-pariser-mode-einfach-zu-dick](https://www.spiegel.de/panorama/leute/heidi-klum-mir-wurde-immer-gesagt-ich-waere-fuer-die-pariser-mode-einfach-zu-dick-a-daa98788-fb73-4cd0-9536-7fef9f0e6445#ref=rss)
+### mir
 
-* [https://www.spiegel.de/politik/deutschland/tv-duell-psychologe-ulrich-sollmann-scholz-erinnerte-mich-an-einen-bieber-merz-trat-wie-ein-stelzvogel-auf](https://www.spiegel.de/politik/deutschland/tv-duell-psychologe-ulrich-sollmann-scholz-erinnerte-mich-an-einen-bieber-merz-trat-wie-ein-stelzvogel-auf-a-aa2a4045-ac34-4355-bf6f-264a24ad81b1#ref=rss)
-### ulrich
+* [https://www.spiegel.de/netzwelt/gadgets/apple-watch-sollte-ich-sie-mir-ans-bein-binden](https://www.spiegel.de/netzwelt/gadgets/apple-watch-sollte-ich-sie-mir-ans-bein-binden-a-e54d9364-c957-402e-8355-abbb01f7ca20#ref=rss)
+* [https://www.spiegel.de/panorama/leute/heidi-klum-mir-wurde-immer-gesagt-ich-waere-fuer-die-pariser-mode-einfach-zu-dick](https://www.spiegel.de/panorama/leute/heidi-klum-mir-wurde-immer-gesagt-ich-waere-fuer-die-pariser-mode-einfach-zu-dick-a-daa98788-fb73-4cd0-9536-7fef9f0e6445#ref=rss)
+### skiwm
 
-* [https://www.spiegel.de/politik/deutschland/tv-duell-psychologe-ulrich-sollmann-scholz-erinnerte-mich-an-einen-bieber-merz-trat-wie-ein-stelzvogel-auf](https://www.spiegel.de/politik/deutschland/tv-duell-psychologe-ulrich-sollmann-scholz-erinnerte-mich-an-einen-bieber-merz-trat-wie-ein-stelzvogel-auf-a-aa2a4045-ac34-4355-bf6f-264a24ad81b1#ref=rss)
-### sollmann
+* [https://www.spiegel.de/sport/wintersport/ski-wm-kenianische-skifahrerin-sabrina-simader-berichtet-ueber-ihren-weg-zur-wm](https://www.spiegel.de/sport/wintersport/ski-wm-kenianische-skifahrerin-sabrina-simader-berichtet-ueber-ihren-weg-zur-wm-a-3ec376b4-2e58-47af-a726-4a97c61d1e4e#ref=rss)
+### sabrina
 
-* [https://www.spiegel.de/politik/deutschland/tv-duell-psychologe-ulrich-sollmann-scholz-erinnerte-mich-an-einen-bieber-merz-trat-wie-ein-stelzvogel-auf](https://www.spiegel.de/politik/deutschland/tv-duell-psychologe-ulrich-sollmann-scholz-erinnerte-mich-an-einen-bieber-merz-trat-wie-ein-stelzvogel-auf-a-aa2a4045-ac34-4355-bf6f-264a24ad81b1#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/ski-wm-kenianische-skifahrerin-sabrina-simader-berichtet-ueber-ihren-weg-zur-wm](https://www.spiegel.de/sport/wintersport/ski-wm-kenianische-skifahrerin-sabrina-simader-berichtet-ueber-ihren-weg-zur-wm-a-3ec376b4-2e58-47af-a726-4a97c61d1e4e#ref=rss)
+### simader
+
+* [https://www.spiegel.de/sport/wintersport/ski-wm-kenianische-skifahrerin-sabrina-simader-berichtet-ueber-ihren-weg-zur-wm](https://www.spiegel.de/sport/wintersport/ski-wm-kenianische-skifahrerin-sabrina-simader-berichtet-ueber-ihren-weg-zur-wm-a-3ec376b4-2e58-47af-a726-4a97c61d1e4e#ref=rss)
+### weg
+
+* [https://www.spiegel.de/sport/wintersport/ski-wm-kenianische-skifahrerin-sabrina-simader-berichtet-ueber-ihren-weg-zur-wm](https://www.spiegel.de/sport/wintersport/ski-wm-kenianische-skifahrerin-sabrina-simader-berichtet-ueber-ihren-weg-zur-wm-a-3ec376b4-2e58-47af-a726-4a97c61d1e4e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/pariser-klimaabkommen-nur-zehn-von-195-staaten-liefern-rechtzeitig-neue-plaene](https://www.spiegel.de/wissenschaft/mensch/pariser-klimaabkommen-nur-zehn-von-195-staaten-liefern-rechtzeitig-neue-plaene-a-e208f1ed-3577-41d7-aae4-b584aaaa0eb9#ref=rss)
+### anderen
+
+* [https://www.spiegel.de/panorama/justiz/kall-in-der-eifel-mann-gibt-sich-als-polizist-aus-und-trifft-echten-beamten](https://www.spiegel.de/panorama/justiz/kall-in-der-eifel-mann-gibt-sich-als-polizist-aus-und-trifft-echten-beamten-a-bc658bd7-215f-4a90-8dca-6f867ad703a1#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hamburg-mann-zieht-sich-nach-unfall-aus-und-sticht-autofahrer-nieder](https://www.spiegel.de/panorama/justiz/hamburg-mann-zieht-sich-nach-unfall-aus-und-sticht-autofahrer-nieder-a-1d00d13a-8238-4713-a91f-eeb9a1c4ce0a#ref=rss)
+### lang
+
+* [https://www.spiegel.de/politik/deutschland/ricarda-lang-macht-druck-fuer-reform-von-paragraf-218](https://www.spiegel.de/politik/deutschland/ricarda-lang-macht-druck-fuer-reform-von-paragraf-218-a-835c3d2d-7ca0-43da-b610-551677570d5e#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/sinus-jugendstudie-kriege-bereiten-jugendlichen-die-groesste-sorge](https://www.spiegel.de/panorama/bildung/sinus-jugendstudie-kriege-bereiten-jugendlichen-die-groesste-sorge-a-d897239a-76d9-454c-943a-329a957990b6#ref=rss)
+### macht
+
+* [https://www.spiegel.de/politik/deutschland/ricarda-lang-macht-druck-fuer-reform-von-paragraf-218](https://www.spiegel.de/politik/deutschland/ricarda-lang-macht-druck-fuer-reform-von-paragraf-218-a-835c3d2d-7ca0-43da-b610-551677570d5e#ref=rss)
+* [https://www.spiegel.de/kultur/grippewelle-und-arbeitsmoral-warum-krankheit-nicht-mit-schwaeche-gleichzusetzen-ist](https://www.spiegel.de/kultur/grippewelle-und-arbeitsmoral-warum-krankheit-nicht-mit-schwaeche-gleichzusetzen-ist-a-dd416fba-c304-4753-8f7d-0b46ecf5b8f2#ref=rss)
+### heidi
+
+* [https://www.spiegel.de/panorama/leute/heidi-klum-mir-wurde-immer-gesagt-ich-waere-fuer-die-pariser-mode-einfach-zu-dick](https://www.spiegel.de/panorama/leute/heidi-klum-mir-wurde-immer-gesagt-ich-waere-fuer-die-pariser-mode-einfach-zu-dick-a-daa98788-fb73-4cd0-9536-7fef9f0e6445#ref=rss)
+### klum
+
+* [https://www.spiegel.de/panorama/leute/heidi-klum-mir-wurde-immer-gesagt-ich-waere-fuer-die-pariser-mode-einfach-zu-dick](https://www.spiegel.de/panorama/leute/heidi-klum-mir-wurde-immer-gesagt-ich-waere-fuer-die-pariser-mode-einfach-zu-dick-a-daa98788-fb73-4cd0-9536-7fef9f0e6445#ref=rss)
+### topmodel
+
+* [https://www.spiegel.de/panorama/leute/heidi-klum-mir-wurde-immer-gesagt-ich-waere-fuer-die-pariser-mode-einfach-zu-dick](https://www.spiegel.de/panorama/leute/heidi-klum-mir-wurde-immer-gesagt-ich-waere-fuer-die-pariser-mode-einfach-zu-dick-a-daa98788-fb73-4cd0-9536-7fef9f0e6445#ref=rss)
+### kritik
+
+* [https://www.spiegel.de/panorama/leute/heidi-klum-mir-wurde-immer-gesagt-ich-waere-fuer-die-pariser-mode-einfach-zu-dick](https://www.spiegel.de/panorama/leute/heidi-klum-mir-wurde-immer-gesagt-ich-waere-fuer-die-pariser-mode-einfach-zu-dick-a-daa98788-fb73-4cd0-9536-7fef9f0e6445#ref=rss)
+* [https://www.spiegel.de/netzwelt/influencerin-lala-in-der-kritik-was-experten-zu-kinderbildern-im-internet-raten](https://www.spiegel.de/netzwelt/influencerin-lala-in-der-kritik-was-experten-zu-kinderbildern-im-internet-raten-a-7599a1eb-1181-4e2a-af55-47d2c5414567#ref=rss)
+### kinder
+
+* [https://www.spiegel.de/deinspiegel/fuer-kinder-erklaert-was-bei-einer-bundestagswahl-passiert](https://www.spiegel.de/deinspiegel/fuer-kinder-erklaert-was-bei-einer-bundestagswahl-passiert-a-a114f9a8-8d6f-4c9d-8c2b-1c254bf7cacb#ref=rss)
+### erklärt
+
+* [https://www.spiegel.de/deinspiegel/fuer-kinder-erklaert-was-bei-einer-bundestagswahl-passiert](https://www.spiegel.de/deinspiegel/fuer-kinder-erklaert-was-bei-einer-bundestagswahl-passiert-a-a114f9a8-8d6f-4c9d-8c2b-1c254bf7cacb#ref=rss)
+* [https://www.spiegel.de/ausland/rumaenien-staatspraesident-klaus-iohannis-erklaert-ruecktritt](https://www.spiegel.de/ausland/rumaenien-staatspraesident-klaus-iohannis-erklaert-ruecktritt-a-0dece14e-511f-4354-8977-8990314497d7#ref=rss)
+### körperverletzung
+
+* [https://www.spiegel.de/panorama/justiz/aachen-polizist-wegen-koerperverletzung-zu-bewaehrungsstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/aachen-polizist-wegen-koerperverletzung-zu-bewaehrungsstrafe-verurteilt-a-27b787ec-92a3-4b23-b4d8-cecc39915713#ref=rss)
 ### mich
 
-* [https://www.spiegel.de/politik/deutschland/tv-duell-psychologe-ulrich-sollmann-scholz-erinnerte-mich-an-einen-bieber-merz-trat-wie-ein-stelzvogel-auf](https://www.spiegel.de/politik/deutschland/tv-duell-psychologe-ulrich-sollmann-scholz-erinnerte-mich-an-einen-bieber-merz-trat-wie-ein-stelzvogel-auf-a-aa2a4045-ac34-4355-bf6f-264a24ad81b1#ref=rss)
-* [https://www.spiegel.de/karriere/people-pleasing-im-job-wie-schaffe-ich-es-mehr-an-mich-zu-denken](https://www.spiegel.de/karriere/people-pleasing-im-job-wie-schaffe-ich-es-mehr-an-mich-zu-denken-a-fc7ae974-7fc5-4e39-82da-a3d172604403#ref=rss)
-### wirkte
+* [https://www.spiegel.de/kultur/grippewelle-und-arbeitsmoral-warum-krankheit-nicht-mit-schwaeche-gleichzusetzen-ist](https://www.spiegel.de/kultur/grippewelle-und-arbeitsmoral-warum-krankheit-nicht-mit-schwaeche-gleichzusetzen-ist-a-dd416fba-c304-4753-8f7d-0b46ecf5b8f2#ref=rss)
+### rumänien
 
-* [https://www.spiegel.de/politik/deutschland/tv-duell-psychologe-ulrich-sollmann-scholz-erinnerte-mich-an-einen-bieber-merz-trat-wie-ein-stelzvogel-auf](https://www.spiegel.de/politik/deutschland/tv-duell-psychologe-ulrich-sollmann-scholz-erinnerte-mich-an-einen-bieber-merz-trat-wie-ein-stelzvogel-auf-a-aa2a4045-ac34-4355-bf6f-264a24ad81b1#ref=rss)
-* [https://www.spiegel.de/sport/american-football/super-bowl-2025-patrick-mahomes-chancenlos-gegen-die-defense-der-philadelphia-eagles](https://www.spiegel.de/sport/american-football/super-bowl-2025-patrick-mahomes-chancenlos-gegen-die-defense-der-philadelphia-eagles-a-e5ee360d-6c73-4649-ba93-54213c8de79e#ref=rss)
-### sieg
+* [https://www.spiegel.de/ausland/rumaenien-staatspraesident-klaus-iohannis-erklaert-ruecktritt](https://www.spiegel.de/ausland/rumaenien-staatspraesident-klaus-iohannis-erklaert-ruecktritt-a-0dece14e-511f-4354-8977-8990314497d7#ref=rss)
+### klaus
 
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-wie-die-medien-das-tv-duell-von-merz-und-scholz-bewerten](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-wie-die-medien-das-tv-duell-von-merz-und-scholz-bewerten-a-335fc384-afce-4b7e-a6f6-95cbeb48f338#ref=rss)
-* [https://www.spiegel.de/sport/american-football/super-bowl-eagles-gegen-chiefs-wer-kroent-sich-zum-nfl-champion](https://www.spiegel.de/sport/american-football/super-bowl-eagles-gegen-chiefs-wer-kroent-sich-zum-nfl-champion-a-1c384454-a012-4d64-9df6-dfa578f70518#ref=rss)
-### pressestimmen
+* [https://www.spiegel.de/ausland/rumaenien-staatspraesident-klaus-iohannis-erklaert-ruecktritt](https://www.spiegel.de/ausland/rumaenien-staatspraesident-klaus-iohannis-erklaert-ruecktritt-a-0dece14e-511f-4354-8977-8990314497d7#ref=rss)
+### iohannis
 
-* [https://www.spiegel.de/sport/american-football/super-bowl-2025-philadelphia-eagles-besiegen-kansas-city-chiefs-pressestimmen](https://www.spiegel.de/sport/american-football/super-bowl-2025-philadelphia-eagles-besiegen-kansas-city-chiefs-pressestimmen-a-e85404df-b194-49a7-aeda-b005682d4fb3#ref=rss)
-### superstar
+* [https://www.spiegel.de/ausland/rumaenien-staatspraesident-klaus-iohannis-erklaert-ruecktritt](https://www.spiegel.de/ausland/rumaenien-staatspraesident-klaus-iohannis-erklaert-ruecktritt-a-0dece14e-511f-4354-8977-8990314497d7#ref=rss)
+### hamburg
 
-* [https://www.spiegel.de/sport/american-football/super-bowl-2025-philadelphia-eagles-besiegen-kansas-city-chiefs-pressestimmen](https://www.spiegel.de/sport/american-football/super-bowl-2025-philadelphia-eagles-besiegen-kansas-city-chiefs-pressestimmen-a-e85404df-b194-49a7-aeda-b005682d4fb3#ref=rss)
-* [https://www.spiegel.de/sport/american-football/super-bowl-2025-patrick-mahomes-chancenlos-gegen-die-defense-der-philadelphia-eagles](https://www.spiegel.de/sport/american-football/super-bowl-2025-patrick-mahomes-chancenlos-gegen-die-defense-der-philadelphia-eagles-a-e5ee360d-6c73-4649-ba93-54213c8de79e#ref=rss)
-### chappell
+* [https://www.spiegel.de/panorama/justiz/hamburg-mann-zieht-sich-nach-unfall-aus-und-sticht-autofahrer-nieder](https://www.spiegel.de/panorama/justiz/hamburg-mann-zieht-sich-nach-unfall-aus-und-sticht-autofahrer-nieder-a-1d00d13a-8238-4713-a91f-eeb9a1c4ce0a#ref=rss)
+### türkei
 
-* [https://www.spiegel.de/panorama/gesellschaft/charli-xcx-noah-kahan-und-chappell-roan-setzen-sich-fuer-gesundheitsversorgung-von-kuenstlern-ein](https://www.spiegel.de/panorama/gesellschaft/charli-xcx-noah-kahan-und-chappell-roan-setzen-sich-fuer-gesundheitsversorgung-von-kuenstlern-ein-a-72257723-ba11-4709-ab12-487209d0f041#ref=rss)
-### roan
+* [https://www.spiegel.de/ausland/tuerkei-neugeborene-sterben-nach-mutmasslichem-betrug-von-aerzten-und-pflegern](https://www.spiegel.de/ausland/tuerkei-neugeborene-sterben-nach-mutmasslichem-betrug-von-aerzten-und-pflegern-a-2de68d1e-a215-47f8-b104-df9a862b7a8b#ref=rss)
+### gedenkort
 
-* [https://www.spiegel.de/panorama/gesellschaft/charli-xcx-noah-kahan-und-chappell-roan-setzen-sich-fuer-gesundheitsversorgung-von-kuenstlern-ein](https://www.spiegel.de/panorama/gesellschaft/charli-xcx-noah-kahan-und-chappell-roan-setzen-sich-fuer-gesundheitsversorgung-von-kuenstlern-ein-a-72257723-ba11-4709-ab12-487209d0f041#ref=rss)
-### künstlern
+* [https://www.spiegel.de/panorama/gesellschaft/muenchen-gedenkort-fuer-flughafen-anschlag-in-muenchen-riem-eroeffnet](https://www.spiegel.de/panorama/gesellschaft/muenchen-gedenkort-fuer-flughafen-anschlag-in-muenchen-riem-eroeffnet-a-2b250061-00ff-4ae6-bb00-3ff8af0b9b6a#ref=rss)
+### eröffnet
 
-* [https://www.spiegel.de/panorama/gesellschaft/charli-xcx-noah-kahan-und-chappell-roan-setzen-sich-fuer-gesundheitsversorgung-von-kuenstlern-ein](https://www.spiegel.de/panorama/gesellschaft/charli-xcx-noah-kahan-und-chappell-roan-setzen-sich-fuer-gesundheitsversorgung-von-kuenstlern-ein-a-72257723-ba11-4709-ab12-487209d0f041#ref=rss)
-### zwei
+* [https://www.spiegel.de/panorama/gesellschaft/muenchen-gedenkort-fuer-flughafen-anschlag-in-muenchen-riem-eroeffnet](https://www.spiegel.de/panorama/gesellschaft/muenchen-gedenkort-fuer-flughafen-anschlag-in-muenchen-riem-eroeffnet-a-2b250061-00ff-4ae6-bb00-3ff8af0b9b6a#ref=rss)
+### fast
 
-* [https://www.spiegel.de/panorama/gesellschaft/charli-xcx-noah-kahan-und-chappell-roan-setzen-sich-fuer-gesundheitsversorgung-von-kuenstlern-ein](https://www.spiegel.de/panorama/gesellschaft/charli-xcx-noah-kahan-und-chappell-roan-setzen-sich-fuer-gesundheitsversorgung-von-kuenstlern-ein-a-72257723-ba11-4709-ab12-487209d0f041#ref=rss)
-* [https://www.spiegel.de/karriere/people-pleasing-im-job-wie-schaffe-ich-es-mehr-an-mich-zu-denken](https://www.spiegel.de/karriere/people-pleasing-im-job-wie-schaffe-ich-es-mehr-an-mich-zu-denken-a-fc7ae974-7fc5-4e39-82da-a3d172604403#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/muenchen-gedenkort-fuer-flughafen-anschlag-in-muenchen-riem-eroeffnet](https://www.spiegel.de/panorama/gesellschaft/muenchen-gedenkort-fuer-flughafen-anschlag-in-muenchen-riem-eroeffnet-a-2b250061-00ff-4ae6-bb00-3ff8af0b9b6a#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/vegavis-iaai-frueher-vogel-ueberlebte-dinosaurier-sterben-fund-in-der-antarktis](https://www.spiegel.de/wissenschaft/natur/vegavis-iaai-frueher-vogel-ueberlebte-dinosaurier-sterben-fund-in-der-antarktis-a-52a98ae7-d4d3-443d-a72f-bf0d928b6a5c#ref=rss)
+### kophase
+
+* [https://www.spiegel.de/sport/champions-league-spielplan-alle-partien-und-ergebnisse-der-k-o-phase](https://www.spiegel.de/sport/champions-league-spielplan-alle-partien-und-ergebnisse-der-k-o-phase-a-597c75cf-4991-461b-992a-6b98e1182573#ref=rss)
+### influencerin
+
+* [https://www.spiegel.de/netzwelt/influencerin-lala-in-der-kritik-was-experten-zu-kinderbildern-im-internet-raten](https://www.spiegel.de/netzwelt/influencerin-lala-in-der-kritik-was-experten-zu-kinderbildern-im-internet-raten-a-7599a1eb-1181-4e2a-af55-47d2c5414567#ref=rss)
+### lala
+
+* [https://www.spiegel.de/netzwelt/influencerin-lala-in-der-kritik-was-experten-zu-kinderbildern-im-internet-raten](https://www.spiegel.de/netzwelt/influencerin-lala-in-der-kritik-was-experten-zu-kinderbildern-im-internet-raten-a-7599a1eb-1181-4e2a-af55-47d2c5414567#ref=rss)
+### experten
+
+* [https://www.spiegel.de/netzwelt/influencerin-lala-in-der-kritik-was-experten-zu-kinderbildern-im-internet-raten](https://www.spiegel.de/netzwelt/influencerin-lala-in-der-kritik-was-experten-zu-kinderbildern-im-internet-raten-a-7599a1eb-1181-4e2a-af55-47d2c5414567#ref=rss)
+### antarktis
+
+* [https://www.spiegel.de/wissenschaft/natur/vegavis-iaai-frueher-vogel-ueberlebte-dinosaurier-sterben-fund-in-der-antarktis](https://www.spiegel.de/wissenschaft/natur/vegavis-iaai-frueher-vogel-ueberlebte-dinosaurier-sterben-fund-in-der-antarktis-a-52a98ae7-d4d3-443d-a72f-bf0d928b6a5c#ref=rss)
+### sinusjugendstudie
+
+* [https://www.spiegel.de/panorama/bildung/sinus-jugendstudie-kriege-bereiten-jugendlichen-die-groesste-sorge](https://www.spiegel.de/panorama/bildung/sinus-jugendstudie-kriege-bereiten-jugendlichen-die-groesste-sorge-a-d897239a-76d9-454c-943a-329a957990b6#ref=rss)
+### kriege
+
+* [https://www.spiegel.de/panorama/bildung/sinus-jugendstudie-kriege-bereiten-jugendlichen-die-groesste-sorge](https://www.spiegel.de/panorama/bildung/sinus-jugendstudie-kriege-bereiten-jugendlichen-die-groesste-sorge-a-d897239a-76d9-454c-943a-329a957990b6#ref=rss)
+### jugendlichen
+
+* [https://www.spiegel.de/panorama/bildung/sinus-jugendstudie-kriege-bereiten-jugendlichen-die-groesste-sorge](https://www.spiegel.de/panorama/bildung/sinus-jugendstudie-kriege-bereiten-jugendlichen-die-groesste-sorge-a-d897239a-76d9-454c-943a-329a957990b6#ref=rss)
 ### taylor
 
-* [https://www.spiegel.de/ausland/super-bowl-2025-donald-trump-spottet-ueber-taylor-swift](https://www.spiegel.de/ausland/super-bowl-2025-donald-trump-spottet-ueber-taylor-swift-a-42f5a690-a82d-423a-8ef8-37605159decc#ref=rss)
+* [https://www.spiegel.de/kultur/musik/super-bowl-mit-taylor-swift-kendrick-lamar-serena-williams-die-wichtigsten-popkulturellen-momente](https://www.spiegel.de/kultur/musik/super-bowl-mit-taylor-swift-kendrick-lamar-serena-williams-die-wichtigsten-popkulturellen-momente-a-b719b03e-4c92-4910-9aa9-060b280a6834#ref=rss)
 ### swift
 
-* [https://www.spiegel.de/ausland/super-bowl-2025-donald-trump-spottet-ueber-taylor-swift](https://www.spiegel.de/ausland/super-bowl-2025-donald-trump-spottet-ueber-taylor-swift-a-42f5a690-a82d-423a-8ef8-37605159decc#ref=rss)
-### kosovo
+* [https://www.spiegel.de/kultur/musik/super-bowl-mit-taylor-swift-kendrick-lamar-serena-williams-die-wichtigsten-popkulturellen-momente](https://www.spiegel.de/kultur/musik/super-bowl-mit-taylor-swift-kendrick-lamar-serena-williams-die-wichtigsten-popkulturellen-momente-a-b719b03e-4c92-4910-9aa9-060b280a6834#ref=rss)
+### serena
 
-* [https://www.spiegel.de/ausland/kosovo-albin-kurti-erklaert-sich-zum-wahlsieger-verliert-aber-mehrheit](https://www.spiegel.de/ausland/kosovo-albin-kurti-erklaert-sich-zum-wahlsieger-verliert-aber-mehrheit-a-4c50df57-9ae0-4237-99e6-2814f715d153#ref=rss)
-### kurti
+* [https://www.spiegel.de/kultur/musik/super-bowl-mit-taylor-swift-kendrick-lamar-serena-williams-die-wichtigsten-popkulturellen-momente](https://www.spiegel.de/kultur/musik/super-bowl-mit-taylor-swift-kendrick-lamar-serena-williams-die-wichtigsten-popkulturellen-momente-a-b719b03e-4c92-4910-9aa9-060b280a6834#ref=rss)
+### williams
 
-* [https://www.spiegel.de/ausland/kosovo-albin-kurti-erklaert-sich-zum-wahlsieger-verliert-aber-mehrheit](https://www.spiegel.de/ausland/kosovo-albin-kurti-erklaert-sich-zum-wahlsieger-verliert-aber-mehrheit-a-4c50df57-9ae0-4237-99e6-2814f715d153#ref=rss)
-### mehrheit
-
-* [https://www.spiegel.de/ausland/kosovo-albin-kurti-erklaert-sich-zum-wahlsieger-verliert-aber-mehrheit](https://www.spiegel.de/ausland/kosovo-albin-kurti-erklaert-sich-zum-wahlsieger-verliert-aber-mehrheit-a-4c50df57-9ae0-4237-99e6-2814f715d153#ref=rss)
-### premier
-
-* [https://www.spiegel.de/ausland/kosovo-albin-kurti-erklaert-sich-zum-wahlsieger-verliert-aber-mehrheit](https://www.spiegel.de/ausland/kosovo-albin-kurti-erklaert-sich-zum-wahlsieger-verliert-aber-mehrheit-a-4c50df57-9ae0-4237-99e6-2814f715d153#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-spricht-davon-gaza-kaufen-zu-wollen-israel-reagiert-positiv](https://www.spiegel.de/ausland/donald-trump-spricht-davon-gaza-kaufen-zu-wollen-israel-reagiert-positiv-a-85c4b098-08a7-4f94-919c-adaddca37625#ref=rss)
-### kendrick
-
-* [https://www.spiegel.de/kultur/musik/super-bowl-2025-so-war-kendrick-lamars-halftime-show](https://www.spiegel.de/kultur/musik/super-bowl-2025-so-war-kendrick-lamars-halftime-show-a-a05db9d9-aafe-433c-813c-0e7e5621261c#ref=rss)
-### marktführer
-
-* [https://www.spiegel.de/wirtschaft/soziales/fleischersatz-veggie-produkte-koennten-250-000-jobs-schaffen-deutschland-bald-marktfuehrer](https://www.spiegel.de/wirtschaft/soziales/fleischersatz-veggie-produkte-koennten-250-000-jobs-schaffen-deutschland-bald-marktfuehrer-a-5b230e99-0ee6-4b3b-98be-de361f2dea9d#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/karriere/people-pleasing-im-job-wie-schaffe-ich-es-mehr-an-mich-zu-denken](https://www.spiegel.de/karriere/people-pleasing-im-job-wie-schaffe-ich-es-mehr-an-mich-zu-denken-a-fc7ae974-7fc5-4e39-82da-a3d172604403#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-kuendigt-25-prozent-zoelle-auf-stahl-und-aluminium-an](https://www.spiegel.de/wirtschaft/donald-trump-kuendigt-25-prozent-zoelle-auf-stahl-und-aluminium-an-a-053721eb-9df5-4751-8957-f5713b053da9#ref=rss)
-### christian
-
-* [https://www.spiegel.de/politik/deutschland/news-tv-duell-olaf-scholz-friedrich-merz-christian-lindner-donald-trump](https://www.spiegel.de/politik/deutschland/news-tv-duell-olaf-scholz-friedrich-merz-christian-lindner-donald-trump-a-e19a6e8c-2bd4-4dd6-9b2d-1eae71ac52b5#ref=rss)
-### lindner
-
-* [https://www.spiegel.de/politik/deutschland/news-tv-duell-olaf-scholz-friedrich-merz-christian-lindner-donald-trump](https://www.spiegel.de/politik/deutschland/news-tv-duell-olaf-scholz-friedrich-merz-christian-lindner-donald-trump-a-e19a6e8c-2bd4-4dd6-9b2d-1eae71ac52b5#ref=rss)
-### erkenntnisse
-
-* [https://www.spiegel.de/sport/american-football/super-bowl-eagles-gegen-chiefs-wer-kroent-sich-zum-nfl-champion](https://www.spiegel.de/sport/american-football/super-bowl-eagles-gegen-chiefs-wer-kroent-sich-zum-nfl-champion-a-1c384454-a012-4d64-9df6-dfa578f70518#ref=rss)
+* [https://www.spiegel.de/kultur/musik/super-bowl-mit-taylor-swift-kendrick-lamar-serena-williams-die-wichtigsten-popkulturellen-momente](https://www.spiegel.de/kultur/musik/super-bowl-mit-taylor-swift-kendrick-lamar-serena-williams-die-wichtigsten-popkulturellen-momente-a-b719b03e-4c92-4910-9aa9-060b280a6834#ref=rss)
 
