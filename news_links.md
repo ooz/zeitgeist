@@ -4,354 +4,388 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### bayern
+### menschen
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayer-leverkusens-verpasster-sieg-gegen-den-fc-bayern-muenchen-ein-verhaengnisvoller-fehlschuss](https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayer-leverkusens-verpasster-sieg-gegen-den-fc-bayern-muenchen-ein-verhaengnisvoller-fehlschuss-a-fc916775-004c-4bde-ac1b-7a8e7aac2a08#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-spielt-0-0-bei-bayer-leverkusen-die-meisterfrage-scheint-geklaert](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-spielt-0-0-bei-bayer-leverkusen-die-meisterfrage-scheint-geklaert-a-4bb6a9d0-b7c0-463f-b887-20c88d0c6d20#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bayer-leverkusen-laesst-gegen-den-fc-bayern-muenchen-keinen-schuss-auf-das-tor-zu](https://www.spiegel.de/sport/fussball/bayer-leverkusen-laesst-gegen-den-fc-bayern-muenchen-keinen-schuss-auf-das-tor-zu-a-2ea58e23-e89c-4b78-84e6-8d4cdf5d0811#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bayer-leverkusen-und-fc-bayern-muenchen-trennen-sich-in-spitzenspiel-0-0](https://www.spiegel.de/sport/fussball/bayer-leverkusen-und-fc-bayern-muenchen-trennen-sich-in-spitzenspiel-0-0-a-3896cf02-fc0f-48cb-b30e-83ba6cd8b75e#ref=rss)
-### fc
+* [https://www.spiegel.de/start/bundestagswahl-2025-ehrenamt-gegen-frust-so-kaempfen-junge-menschen-fuer-die-demokratie](https://www.spiegel.de/start/bundestagswahl-2025-ehrenamt-gegen-frust-so-kaempfen-junge-menschen-fuer-die-demokratie-a-393e664c-0098-4579-86f7-29c0ce703110#ref=rss)
+* [https://www.spiegel.de/politik/bundestagswahl-2025-warum-diese-menschen-jetzt-in-parteien-eingetreten-sind](https://www.spiegel.de/politik/bundestagswahl-2025-warum-diese-menschen-jetzt-in-parteien-eingetreten-sind-a-50061b22-202d-40a4-af9e-a4747e040839#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-mainz-duesseldorf-zehntausende-menschen-demonstrieren-gegen-rechts](https://www.spiegel.de/politik/deutschland/berlin-mainz-duesseldorf-zehntausende-menschen-demonstrieren-gegen-rechts-a-e94fead3-ce48-4541-9cf3-947d345bef58#ref=rss)
+* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-wie-die-menschen-die-dramatische-zeit-erlebten-folge-4](https://www.spiegel.de/geschichte/zweiter-weltkrieg-wie-die-menschen-die-dramatische-zeit-erlebten-folge-4-a-611818c9-def0-4105-8e89-7402be85d337#ref=rss)
+### 2025
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayer-leverkusens-verpasster-sieg-gegen-den-fc-bayern-muenchen-ein-verhaengnisvoller-fehlschuss](https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayer-leverkusens-verpasster-sieg-gegen-den-fc-bayern-muenchen-ein-verhaengnisvoller-fehlschuss-a-fc916775-004c-4bde-ac1b-7a8e7aac2a08#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-spielt-0-0-bei-bayer-leverkusen-die-meisterfrage-scheint-geklaert](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-spielt-0-0-bei-bayer-leverkusen-die-meisterfrage-scheint-geklaert-a-4bb6a9d0-b7c0-463f-b887-20c88d0c6d20#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bayer-leverkusen-laesst-gegen-den-fc-bayern-muenchen-keinen-schuss-auf-das-tor-zu](https://www.spiegel.de/sport/fussball/bayer-leverkusen-laesst-gegen-den-fc-bayern-muenchen-keinen-schuss-auf-das-tor-zu-a-2ea58e23-e89c-4b78-84e6-8d4cdf5d0811#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bayer-leverkusen-und-fc-bayern-muenchen-trennen-sich-in-spitzenspiel-0-0](https://www.spiegel.de/sport/fussball/bayer-leverkusen-und-fc-bayern-muenchen-trennen-sich-in-spitzenspiel-0-0-a-3896cf02-fc0f-48cb-b30e-83ba6cd8b75e#ref=rss)
-### leverkusen
+* [https://www.spiegel.de/start/bundestagswahl-2025-ehrenamt-gegen-frust-so-kaempfen-junge-menschen-fuer-die-demokratie](https://www.spiegel.de/start/bundestagswahl-2025-ehrenamt-gegen-frust-so-kaempfen-junge-menschen-fuer-die-demokratie-a-393e664c-0098-4579-86f7-29c0ce703110#ref=rss)
+* [https://www.spiegel.de/politik/bundestagswahl-2025-warum-diese-menschen-jetzt-in-parteien-eingetreten-sind](https://www.spiegel.de/politik/bundestagswahl-2025-warum-diese-menschen-jetzt-in-parteien-eingetreten-sind-a-50061b22-202d-40a4-af9e-a4747e040839#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/ski-wm-in-saalbach-2025-linus-strasser-sichert-bronze-im-slalom-fuer-deutschland](https://www.spiegel.de/sport/wintersport/ski-wm-in-saalbach-2025-linus-strasser-sichert-bronze-im-slalom-fuer-deutschland-a-b4aba630-1fe3-4879-9898-0cfe053b4992#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/ski-wm-in-saalbach-2025-linus-strasser-bewahrt-deutsches-team-mit-slalombronze-vor-debakel](https://www.spiegel.de/sport/wintersport/ski-wm-in-saalbach-2025-linus-strasser-bewahrt-deutsches-team-mit-slalombronze-vor-debakel-a-596cfea0-8385-4426-8568-db45756459b5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-unterwegs-mit-volt-spitzenkandidatin-maral-koohestanian](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-unterwegs-mit-volt-spitzenkandidatin-maral-koohestanian-a-7e588e90-1a80-40ed-af1c-6b6e09b4075f#ref=rss)
+### politik
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayer-leverkusens-verpasster-sieg-gegen-den-fc-bayern-muenchen-ein-verhaengnisvoller-fehlschuss](https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayer-leverkusens-verpasster-sieg-gegen-den-fc-bayern-muenchen-ein-verhaengnisvoller-fehlschuss-a-fc916775-004c-4bde-ac1b-7a8e7aac2a08#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-spielt-0-0-bei-bayer-leverkusen-die-meisterfrage-scheint-geklaert](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-spielt-0-0-bei-bayer-leverkusen-die-meisterfrage-scheint-geklaert-a-4bb6a9d0-b7c0-463f-b887-20c88d0c6d20#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bayer-leverkusen-laesst-gegen-den-fc-bayern-muenchen-keinen-schuss-auf-das-tor-zu](https://www.spiegel.de/sport/fussball/bayer-leverkusen-laesst-gegen-den-fc-bayern-muenchen-keinen-schuss-auf-das-tor-zu-a-2ea58e23-e89c-4b78-84e6-8d4cdf5d0811#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bayer-leverkusen-und-fc-bayern-muenchen-trennen-sich-in-spitzenspiel-0-0](https://www.spiegel.de/sport/fussball/bayer-leverkusen-und-fc-bayern-muenchen-trennen-sich-in-spitzenspiel-0-0-a-3896cf02-fc0f-48cb-b30e-83ba6cd8b75e#ref=rss)
-### villach
+* [https://www.spiegel.de/ausland/essen-und-politik-wie-historische-speisekarten-die-weltgeschichte-erzaehlen](https://www.spiegel.de/ausland/essen-und-politik-wie-historische-speisekarten-die-weltgeschichte-erzaehlen-a-195b3370-f386-41e8-9298-7f4fa25282cc#ref=rss)
+* [https://www.spiegel.de/politik/bundestagswahl-2025-warum-diese-menschen-jetzt-in-parteien-eingetreten-sind](https://www.spiegel.de/politik/bundestagswahl-2025-warum-diese-menschen-jetzt-in-parteien-eingetreten-sind-a-50061b22-202d-40a4-af9e-a4747e040839#ref=rss)
+* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-berlin-vier-leben-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-berlin-vier-leben-im-schnellcheck-a-d78981c8-6b7b-46cc-91f2-73fc48939f71#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-mainz-duesseldorf-zehntausende-menschen-demonstrieren-gegen-rechts](https://www.spiegel.de/politik/deutschland/berlin-mainz-duesseldorf-zehntausende-menschen-demonstrieren-gegen-rechts-a-e94fead3-ce48-4541-9cf3-947d345bef58#ref=rss)
+### mann
 
-* [https://www.spiegel.de/panorama/justiz/villach-in-oesterreich-ermittler-gehen-von-islamistischem-motiv-bei-messerangriff-aus](https://www.spiegel.de/panorama/justiz/villach-in-oesterreich-ermittler-gehen-von-islamistischem-motiv-bei-messerangriff-aus-a-dc3d0dab-8788-422e-a8ad-79c2cac007a9#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/villach-essenslieferant-stoppt-messerattacke-und-wird-fuer-angreifer-gehalten](https://www.spiegel.de/panorama/justiz/villach-essenslieferant-stoppt-messerattacke-und-wird-fuer-angreifer-gehalten-a-daa8cdbf-ccb2-4dc0-b58f-ce06b2a408ae#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/villach-was-ueber-die-toedliche-messerattacke-in-oesterreich-bislang-bekannt-ist](https://www.spiegel.de/panorama/justiz/villach-was-ueber-die-toedliche-messerattacke-in-oesterreich-bislang-bekannt-ist-a-b52e9a91-8ad2-4c4d-b730-8a78c5c82f5c#ref=rss)
-### bayer
+* [https://www.spiegel.de/panorama/trans-mann-wurde-nach-wochenlanger-folter-ermordet](https://www.spiegel.de/panorama/trans-mann-wurde-nach-wochenlanger-folter-ermordet-a-26415642-9e33-43c2-a650-07fc9ad89ebb#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/herten-mann-schlaegt-offenbar-mit-axt-auf-kontrahenten-ein-und-fluechtet](https://www.spiegel.de/panorama/justiz/herten-mann-schlaegt-offenbar-mit-axt-auf-kontrahenten-ein-und-fluechtet-a-2e48a054-92a4-487d-ba45-70d6ffc692b2#ref=rss)
+### frauen
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayer-leverkusens-verpasster-sieg-gegen-den-fc-bayern-muenchen-ein-verhaengnisvoller-fehlschuss](https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayer-leverkusens-verpasster-sieg-gegen-den-fc-bayern-muenchen-ein-verhaengnisvoller-fehlschuss-a-fc916775-004c-4bde-ac1b-7a8e7aac2a08#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-spielt-0-0-bei-bayer-leverkusen-die-meisterfrage-scheint-geklaert](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-spielt-0-0-bei-bayer-leverkusen-die-meisterfrage-scheint-geklaert-a-4bb6a9d0-b7c0-463f-b887-20c88d0c6d20#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bayer-leverkusen-laesst-gegen-den-fc-bayern-muenchen-keinen-schuss-auf-das-tor-zu](https://www.spiegel.de/sport/fussball/bayer-leverkusen-laesst-gegen-den-fc-bayern-muenchen-keinen-schuss-auf-das-tor-zu-a-2ea58e23-e89c-4b78-84e6-8d4cdf5d0811#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bayer-leverkusen-und-fc-bayern-muenchen-trennen-sich-in-spitzenspiel-0-0](https://www.spiegel.de/sport/fussball/bayer-leverkusen-und-fc-bayern-muenchen-trennen-sich-in-spitzenspiel-0-0-a-3896cf02-fc0f-48cb-b30e-83ba6cd8b75e#ref=rss)
-### münchen
+* [https://www.spiegel.de/panorama/trans-mann-wurde-nach-wochenlanger-folter-ermordet](https://www.spiegel.de/panorama/trans-mann-wurde-nach-wochenlanger-folter-ermordet-a-26415642-9e33-43c2-a650-07fc9ad89ebb#ref=rss)
+* [https://www.spiegel.de/panorama/illegale-goldmine-stuerzt-ein-mehr-als-40-tote](https://www.spiegel.de/panorama/illegale-goldmine-stuerzt-ein-mehr-als-40-tote-a-b0701abb-d7f9-43c3-8097-bb2005b27668#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/psychologie-sind-frauen-grosszuegiger-als-maenner](https://www.spiegel.de/wissenschaft/mensch/psychologie-sind-frauen-grosszuegiger-als-maenner-a-15c46dc4-fa91-4c9a-99f3-6582f8ce34db#ref=rss)
+### europäische
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayer-leverkusens-verpasster-sieg-gegen-den-fc-bayern-muenchen-ein-verhaengnisvoller-fehlschuss](https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayer-leverkusens-verpasster-sieg-gegen-den-fc-bayern-muenchen-ein-verhaengnisvoller-fehlschuss-a-fc916775-004c-4bde-ac1b-7a8e7aac2a08#ref=rss)
-* [https://www.spiegel.de/panorama/leute/tote-hosen-warnen-vor-rechtsextremismus-wir-duerfen-nicht-in-diese-falle-tappen](https://www.spiegel.de/panorama/leute/tote-hosen-warnen-vor-rechtsextremismus-wir-duerfen-nicht-in-diese-falle-tappen-a-8e469338-0bea-4972-9cab-d35f99a89905#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-spielt-0-0-bei-bayer-leverkusen-die-meisterfrage-scheint-geklaert](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-spielt-0-0-bei-bayer-leverkusen-die-meisterfrage-scheint-geklaert-a-4bb6a9d0-b7c0-463f-b887-20c88d0c6d20#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bayer-leverkusen-laesst-gegen-den-fc-bayern-muenchen-keinen-schuss-auf-das-tor-zu](https://www.spiegel.de/sport/fussball/bayer-leverkusen-laesst-gegen-den-fc-bayern-muenchen-keinen-schuss-auf-das-tor-zu-a-2ea58e23-e89c-4b78-84e6-8d4cdf5d0811#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bayer-leverkusen-und-fc-bayern-muenchen-trennen-sich-in-spitzenspiel-0-0](https://www.spiegel.de/sport/fussball/bayer-leverkusen-und-fc-bayern-muenchen-trennen-sich-in-spitzenspiel-0-0-a-3896cf02-fc0f-48cb-b30e-83ba6cd8b75e#ref=rss)
-### donald
+* [https://www.spiegel.de/ausland/ukrainekrieg-washington-will-wissen-welche-sicherheitsgarantien-die-eu-fuer-kyjiw-bietet](https://www.spiegel.de/ausland/ukrainekrieg-washington-will-wissen-welche-sicherheitsgarantien-die-eu-fuer-kyjiw-bietet-a-064729ac-d12f-4d9a-9a53-c4895259af67#ref=rss)
+* [https://www.spiegel.de/ausland/europaeische-pressestimmen-zur-us-politik-bruch-mit-den-vereinigten-staaten](https://www.spiegel.de/ausland/europaeische-pressestimmen-zur-us-politik-bruch-mit-den-vereinigten-staaten-a-513f3953-fec5-4399-98b0-1fb0186bc8b4#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/ausland/usa-unter-donald-trump-die-kotzbrocken-doktrin-und-ihre-aussenpolitischen-folgen](https://www.spiegel.de/ausland/usa-unter-donald-trump-die-kotzbrocken-doktrin-und-ihre-aussenpolitischen-folgen-a-6e429564-cf70-47d6-b114-9424e498a6d1#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-erleben-wir-gerade-einen-staatsstreich-orchestriert-aus-dem-weissen-haus](https://www.spiegel.de/ausland/donald-trump-erleben-wir-gerade-einen-staatsstreich-orchestriert-aus-dem-weissen-haus-a-ddb5c031-546b-4348-be5a-29980bb32cbe#ref=rss)
-* [https://www.spiegel.de/politik/russland-ukraine-krieg-deutschland-soll-usa-militaerkapazitaeten-fuer-ukraine-melden](https://www.spiegel.de/politik/russland-ukraine-krieg-deutschland-soll-usa-militaerkapazitaeten-fuer-ukraine-melden-a-74fbbf79-9078-4aac-afdf-932f855ed143#ref=rss)
-### trump
+* [https://www.spiegel.de/netzwelt/netzpolitik/pornhub-und-co-gegen-regulierer-wie-leicht-darf-es-sein-online-pornos-zu-schauen](https://www.spiegel.de/netzwelt/netzpolitik/pornhub-und-co-gegen-regulierer-wie-leicht-darf-es-sein-online-pornos-zu-schauen-a-a5513c42-433c-4550-9830-346a57542b98#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/ski-wm-in-saalbach-2025-linus-strasser-sichert-bronze-im-slalom-fuer-deutschland](https://www.spiegel.de/sport/wintersport/ski-wm-in-saalbach-2025-linus-strasser-sichert-bronze-im-slalom-fuer-deutschland-a-b4aba630-1fe3-4879-9898-0cfe053b4992#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-unterwegs-mit-volt-spitzenkandidatin-maral-koohestanian](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-unterwegs-mit-volt-spitzenkandidatin-maral-koohestanian-a-7e588e90-1a80-40ed-af1c-6b6e09b4075f#ref=rss)
+### bundestagswahl
 
-* [https://www.spiegel.de/ausland/usa-unter-donald-trump-die-kotzbrocken-doktrin-und-ihre-aussenpolitischen-folgen](https://www.spiegel.de/ausland/usa-unter-donald-trump-die-kotzbrocken-doktrin-und-ihre-aussenpolitischen-folgen-a-6e429564-cf70-47d6-b114-9424e498a6d1#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-erleben-wir-gerade-einen-staatsstreich-orchestriert-aus-dem-weissen-haus](https://www.spiegel.de/ausland/donald-trump-erleben-wir-gerade-einen-staatsstreich-orchestriert-aus-dem-weissen-haus-a-ddb5c031-546b-4348-be5a-29980bb32cbe#ref=rss)
-* [https://www.spiegel.de/politik/russland-ukraine-krieg-deutschland-soll-usa-militaerkapazitaeten-fuer-ukraine-melden](https://www.spiegel.de/politik/russland-ukraine-krieg-deutschland-soll-usa-militaerkapazitaeten-fuer-ukraine-melden-a-74fbbf79-9078-4aac-afdf-932f855ed143#ref=rss)
-### österreich
+* [https://www.spiegel.de/start/bundestagswahl-2025-ehrenamt-gegen-frust-so-kaempfen-junge-menschen-fuer-die-demokratie](https://www.spiegel.de/start/bundestagswahl-2025-ehrenamt-gegen-frust-so-kaempfen-junge-menschen-fuer-die-demokratie-a-393e664c-0098-4579-86f7-29c0ce703110#ref=rss)
+* [https://www.spiegel.de/politik/bundestagswahl-2025-warum-diese-menschen-jetzt-in-parteien-eingetreten-sind](https://www.spiegel.de/politik/bundestagswahl-2025-warum-diese-menschen-jetzt-in-parteien-eingetreten-sind-a-50061b22-202d-40a4-af9e-a4747e040839#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-unterwegs-mit-volt-spitzenkandidatin-maral-koohestanian](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-unterwegs-mit-volt-spitzenkandidatin-maral-koohestanian-a-7e588e90-1a80-40ed-af1c-6b6e09b4075f#ref=rss)
+### skiwm
 
-* [https://www.spiegel.de/panorama/justiz/villach-in-oesterreich-ermittler-gehen-von-islamistischem-motiv-bei-messerangriff-aus](https://www.spiegel.de/panorama/justiz/villach-in-oesterreich-ermittler-gehen-von-islamistischem-motiv-bei-messerangriff-aus-a-dc3d0dab-8788-422e-a8ad-79c2cac007a9#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/villach-was-ueber-die-toedliche-messerattacke-in-oesterreich-bislang-bekannt-ist](https://www.spiegel.de/panorama/justiz/villach-was-ueber-die-toedliche-messerattacke-in-oesterreich-bislang-bekannt-ist-a-b52e9a91-8ad2-4c4d-b730-8a78c5c82f5c#ref=rss)
-* [https://www.spiegel.de/ausland/fpoe-oevp-regierung-in-oesterreich-geplatzt-rekonstruktion-des-scheiterns-podcast-inside-austria](https://www.spiegel.de/ausland/fpoe-oevp-regierung-in-oesterreich-geplatzt-rekonstruktion-des-scheiterns-podcast-inside-austria-a-af38ba96-37e1-4887-9600-899ecfcf473e#ref=rss)
-### messerattacke
+* [https://www.spiegel.de/sport/wintersport/ski-wm-in-saalbach-2025-linus-strasser-sichert-bronze-im-slalom-fuer-deutschland](https://www.spiegel.de/sport/wintersport/ski-wm-in-saalbach-2025-linus-strasser-sichert-bronze-im-slalom-fuer-deutschland-a-b4aba630-1fe3-4879-9898-0cfe053b4992#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/ski-wm-in-saalbach-2025-linus-strasser-bewahrt-deutsches-team-mit-slalombronze-vor-debakel](https://www.spiegel.de/sport/wintersport/ski-wm-in-saalbach-2025-linus-strasser-bewahrt-deutsches-team-mit-slalombronze-vor-debakel-a-596cfea0-8385-4426-8568-db45756459b5#ref=rss)
+### linus
 
-* [https://www.spiegel.de/panorama/justiz/villach-in-oesterreich-ermittler-gehen-von-islamistischem-motiv-bei-messerangriff-aus](https://www.spiegel.de/panorama/justiz/villach-in-oesterreich-ermittler-gehen-von-islamistischem-motiv-bei-messerangriff-aus-a-dc3d0dab-8788-422e-a8ad-79c2cac007a9#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/villach-essenslieferant-stoppt-messerattacke-und-wird-fuer-angreifer-gehalten](https://www.spiegel.de/panorama/justiz/villach-essenslieferant-stoppt-messerattacke-und-wird-fuer-angreifer-gehalten-a-daa8cdbf-ccb2-4dc0-b58f-ce06b2a408ae#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/villach-was-ueber-die-toedliche-messerattacke-in-oesterreich-bislang-bekannt-ist](https://www.spiegel.de/panorama/justiz/villach-was-ueber-die-toedliche-messerattacke-in-oesterreich-bislang-bekannt-ist-a-b52e9a91-8ad2-4c4d-b730-8a78c5c82f5c#ref=rss)
-### opfer
+* [https://www.spiegel.de/sport/wintersport/ski-wm-in-saalbach-2025-linus-strasser-sichert-bronze-im-slalom-fuer-deutschland](https://www.spiegel.de/sport/wintersport/ski-wm-in-saalbach-2025-linus-strasser-sichert-bronze-im-slalom-fuer-deutschland-a-b4aba630-1fe3-4879-9898-0cfe053b4992#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/ski-wm-in-saalbach-2025-linus-strasser-bewahrt-deutsches-team-mit-slalombronze-vor-debakel](https://www.spiegel.de/sport/wintersport/ski-wm-in-saalbach-2025-linus-strasser-bewahrt-deutsches-team-mit-slalombronze-vor-debakel-a-596cfea0-8385-4426-8568-db45756459b5#ref=rss)
+### straßer
 
-* [https://www.spiegel.de/panorama/justiz/villach-essenslieferant-stoppt-messerattacke-und-wird-fuer-angreifer-gehalten](https://www.spiegel.de/panorama/justiz/villach-essenslieferant-stoppt-messerattacke-und-wird-fuer-angreifer-gehalten-a-daa8cdbf-ccb2-4dc0-b58f-ce06b2a408ae#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/samir-salim-schauspieler-auf-nachhauseweg-von-berlinale-mit-messer-angegriffen](https://www.spiegel.de/panorama/justiz/samir-salim-schauspieler-auf-nachhauseweg-von-berlinale-mit-messer-angegriffen-a-9ed69ad8-5a14-43c9-93ab-a5bcd65d73e7#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hanau-hunderte-erinnern-an-opfer-des-rassistischen-anschlags-bei-demo-zum-fuenften-jahrestag](https://www.spiegel.de/panorama/justiz/hanau-hunderte-erinnern-an-opfer-des-rassistischen-anschlags-bei-demo-zum-fuenften-jahrestag-a-79041225-0d74-4496-8a60-391dff32524a#ref=rss)
-### kam
-
-* [https://www.spiegel.de/panorama/justiz/villach-was-ueber-die-toedliche-messerattacke-in-oesterreich-bislang-bekannt-ist](https://www.spiegel.de/panorama/justiz/villach-was-ueber-die-toedliche-messerattacke-in-oesterreich-bislang-bekannt-ist-a-b52e9a91-8ad2-4c4d-b730-8a78c5c82f5c#ref=rss)
-* [https://www.spiegel.de/panorama/leute/harvey-weinstein-streit-um-millionen-klage-gegen-den-eigenen-bruder](https://www.spiegel.de/panorama/leute/harvey-weinstein-streit-um-millionen-klage-gegen-den-eigenen-bruder-a-fabcf23e-1655-44ed-a649-2d7977427a0e#ref=rss)
-* [https://www.spiegel.de/ausland/fpoe-oevp-regierung-in-oesterreich-geplatzt-rekonstruktion-des-scheiterns-podcast-inside-austria](https://www.spiegel.de/ausland/fpoe-oevp-regierung-in-oesterreich-geplatzt-rekonstruktion-des-scheiterns-podcast-inside-austria-a-af38ba96-37e1-4887-9600-899ecfcf473e#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/ski-wm-in-saalbach-2025-linus-strasser-sichert-bronze-im-slalom-fuer-deutschland](https://www.spiegel.de/sport/wintersport/ski-wm-in-saalbach-2025-linus-strasser-sichert-bronze-im-slalom-fuer-deutschland-a-b4aba630-1fe3-4879-9898-0cfe053b4992#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/ski-wm-in-saalbach-2025-linus-strasser-bewahrt-deutsches-team-mit-slalombronze-vor-debakel](https://www.spiegel.de/sport/wintersport/ski-wm-in-saalbach-2025-linus-strasser-bewahrt-deutsches-team-mit-slalombronze-vor-debakel-a-596cfea0-8385-4426-8568-db45756459b5#ref=rss)
 ### männer
 
-* [https://www.spiegel.de/panorama/leute/michelle-hunziker-glaubt-dass-maenner-ein-bisschen-angst-vor-ihr-haben](https://www.spiegel.de/panorama/leute/michelle-hunziker-glaubt-dass-maenner-ein-bisschen-angst-vor-ihr-haben-a-9c873d2c-4bab-47c9-942c-d6fe7da4c87d#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-freigelassene-geiseln-sprechen-von-folter-verhoeren-und-isolation](https://www.spiegel.de/ausland/israel-gaza-krieg-freigelassene-geiseln-sprechen-von-folter-verhoeren-und-isolation-a-c8565c0d-6b2d-4d82-9ea9-8eb8ef889dba#ref=rss)
-* [https://www.spiegel.de/panorama/leute/harvey-weinstein-streit-um-millionen-klage-gegen-den-eigenen-bruder](https://www.spiegel.de/panorama/leute/harvey-weinstein-streit-um-millionen-klage-gegen-den-eigenen-bruder-a-fabcf23e-1655-44ed-a649-2d7977427a0e#ref=rss)
-### tor
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayer-leverkusens-verpasster-sieg-gegen-den-fc-bayern-muenchen-ein-verhaengnisvoller-fehlschuss](https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayer-leverkusens-verpasster-sieg-gegen-den-fc-bayern-muenchen-ein-verhaengnisvoller-fehlschuss-a-fc916775-004c-4bde-ac1b-7a8e7aac2a08#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bayer-leverkusen-laesst-gegen-den-fc-bayern-muenchen-keinen-schuss-auf-das-tor-zu](https://www.spiegel.de/sport/fussball/bayer-leverkusen-laesst-gegen-den-fc-bayern-muenchen-keinen-schuss-auf-das-tor-zu-a-2ea58e23-e89c-4b78-84e6-8d4cdf5d0811#ref=rss)
-### bekannt
-
-* [https://www.spiegel.de/reise/fernweh/der-beliebte-knoedelexpress-ist-im-sommer-geschichte](https://www.spiegel.de/reise/fernweh/der-beliebte-knoedelexpress-ist-im-sommer-geschichte-a-3c52c391-9276-4322-8676-24cb8931fd9e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/villach-was-ueber-die-toedliche-messerattacke-in-oesterreich-bislang-bekannt-ist](https://www.spiegel.de/panorama/justiz/villach-was-ueber-die-toedliche-messerattacke-in-oesterreich-bislang-bekannt-ist-a-b52e9a91-8ad2-4c4d-b730-8a78c5c82f5c#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/panorama/justiz/villach-essenslieferant-stoppt-messerattacke-und-wird-fuer-angreifer-gehalten](https://www.spiegel.de/panorama/justiz/villach-essenslieferant-stoppt-messerattacke-und-wird-fuer-angreifer-gehalten-a-daa8cdbf-ccb2-4dc0-b58f-ce06b2a408ae#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/villach-was-ueber-die-toedliche-messerattacke-in-oesterreich-bislang-bekannt-ist](https://www.spiegel.de/panorama/justiz/villach-was-ueber-die-toedliche-messerattacke-in-oesterreich-bislang-bekannt-ist-a-b52e9a91-8ad2-4c4d-b730-8a78c5c82f5c#ref=rss)
-* [https://www.spiegel.de/politik/russland-ukraine-krieg-deutschland-soll-usa-militaerkapazitaeten-fuer-ukraine-melden](https://www.spiegel.de/politik/russland-ukraine-krieg-deutschland-soll-usa-militaerkapazitaeten-fuer-ukraine-melden-a-74fbbf79-9078-4aac-afdf-932f855ed143#ref=rss)
-### wir
-
-* [https://www.spiegel.de/panorama/leute/tote-hosen-warnen-vor-rechtsextremismus-wir-duerfen-nicht-in-diese-falle-tappen](https://www.spiegel.de/panorama/leute/tote-hosen-warnen-vor-rechtsextremismus-wir-duerfen-nicht-in-diese-falle-tappen-a-8e469338-0bea-4972-9cab-d35f99a89905#ref=rss)
-* [https://www.spiegel.de/tests/fahrrad-zubehoer/fahrrad-drehmomentwerkzeuge-im-test-topeak-park-tool-wera-hazet-contec-lezyne](https://www.spiegel.de/tests/fahrrad-zubehoer/fahrrad-drehmomentwerkzeuge-im-test-topeak-park-tool-wera-hazet-contec-lezyne-a-d6bc19ac-42cf-4628-990f-43938f2b9222#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-erleben-wir-gerade-einen-staatsstreich-orchestriert-aus-dem-weissen-haus](https://www.spiegel.de/ausland/donald-trump-erleben-wir-gerade-einen-staatsstreich-orchestriert-aus-dem-weissen-haus-a-ddb5c031-546b-4348-be5a-29980bb32cbe#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/us-beamte-der-atomsicherheit-versehentlich-gefeuert-wiedereinstellung-scheitert-an-kontaktdaten](https://www.spiegel.de/ausland/us-beamte-der-atomsicherheit-versehentlich-gefeuert-wiedereinstellung-scheitert-an-kontaktdaten-a-88831895-5770-44fb-9e54-671d2522dc01#ref=rss)
-* [https://www.spiegel.de/ausland/usa-unter-donald-trump-die-kotzbrocken-doktrin-und-ihre-aussenpolitischen-folgen](https://www.spiegel.de/ausland/usa-unter-donald-trump-die-kotzbrocken-doktrin-und-ihre-aussenpolitischen-folgen-a-6e429564-cf70-47d6-b114-9424e498a6d1#ref=rss)
-* [https://www.spiegel.de/politik/russland-ukraine-krieg-deutschland-soll-usa-militaerkapazitaeten-fuer-ukraine-melden](https://www.spiegel.de/politik/russland-ukraine-krieg-deutschland-soll-usa-militaerkapazitaeten-fuer-ukraine-melden-a-74fbbf79-9078-4aac-afdf-932f855ed143#ref=rss)
-### michelle
-
-* [https://www.spiegel.de/panorama/leute/michelle-hunziker-glaubt-dass-maenner-ein-bisschen-angst-vor-ihr-haben](https://www.spiegel.de/panorama/leute/michelle-hunziker-glaubt-dass-maenner-ein-bisschen-angst-vor-ihr-haben-a-9c873d2c-4bab-47c9-942c-d6fe7da4c87d#ref=rss)
-### hunziker
-
-* [https://www.spiegel.de/panorama/leute/michelle-hunziker-glaubt-dass-maenner-ein-bisschen-angst-vor-ihr-haben](https://www.spiegel.de/panorama/leute/michelle-hunziker-glaubt-dass-maenner-ein-bisschen-angst-vor-ihr-haben-a-9c873d2c-4bab-47c9-942c-d6fe7da4c87d#ref=rss)
-### derzeit
-
-* [https://www.spiegel.de/panorama/leute/michelle-hunziker-glaubt-dass-maenner-ein-bisschen-angst-vor-ihr-haben](https://www.spiegel.de/panorama/leute/michelle-hunziker-glaubt-dass-maenner-ein-bisschen-angst-vor-ihr-haben-a-9c873d2c-4bab-47c9-942c-d6fe7da4c87d#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/indien-mindestens-15-tote-bei-massenpanik-unter-pilgern-am-hauptbahnhof-von-neu-delhi](https://www.spiegel.de/panorama/gesellschaft/indien-mindestens-15-tote-bei-massenpanik-unter-pilgern-am-hauptbahnhof-von-neu-delhi-a-03890073-c0e9-4427-8122-e55f9c0ac150#ref=rss)
-### eigenen
-
-* [https://www.spiegel.de/panorama/leute/michelle-hunziker-glaubt-dass-maenner-ein-bisschen-angst-vor-ihr-haben](https://www.spiegel.de/panorama/leute/michelle-hunziker-glaubt-dass-maenner-ein-bisschen-angst-vor-ihr-haben-a-9c873d2c-4bab-47c9-942c-d6fe7da4c87d#ref=rss)
-* [https://www.spiegel.de/panorama/leute/harvey-weinstein-streit-um-millionen-klage-gegen-den-eigenen-bruder](https://www.spiegel.de/panorama/leute/harvey-weinstein-streit-um-millionen-klage-gegen-den-eigenen-bruder-a-fabcf23e-1655-44ed-a649-2d7977427a0e#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/panorama/leute/michelle-hunziker-glaubt-dass-maenner-ein-bisschen-angst-vor-ihr-haben](https://www.spiegel.de/panorama/leute/michelle-hunziker-glaubt-dass-maenner-ein-bisschen-angst-vor-ihr-haben-a-9c873d2c-4bab-47c9-942c-d6fe7da4c87d#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-trainer-niko-kovac-will-in-krise-ruhe-bewahren](https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-trainer-niko-kovac-will-in-krise-ruhe-bewahren-a-1e5a875f-dc2c-47e3-91a1-c114e274c619#ref=rss)
-### fußballbundesliga
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayer-leverkusens-verpasster-sieg-gegen-den-fc-bayern-muenchen-ein-verhaengnisvoller-fehlschuss](https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayer-leverkusens-verpasster-sieg-gegen-den-fc-bayern-muenchen-ein-verhaengnisvoller-fehlschuss-a-fc916775-004c-4bde-ac1b-7a8e7aac2a08#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-trainer-niko-kovac-will-in-krise-ruhe-bewahren](https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-trainer-niko-kovac-will-in-krise-ruhe-bewahren-a-1e5a875f-dc2c-47e3-91a1-c114e274c619#ref=rss)
-### hätte
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayer-leverkusens-verpasster-sieg-gegen-den-fc-bayern-muenchen-ein-verhaengnisvoller-fehlschuss](https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayer-leverkusens-verpasster-sieg-gegen-den-fc-bayern-muenchen-ein-verhaengnisvoller-fehlschuss-a-fc916775-004c-4bde-ac1b-7a8e7aac2a08#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/alexej-nawalny-warum-der-gefangenenaustausch-scheiterte](https://www.spiegel.de/politik/deutschland/alexej-nawalny-warum-der-gefangenenaustausch-scheiterte-a-c15a65b3-ab1c-46d5-bf9f-f40bf8425ad3#ref=rss)
-### florian
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayer-leverkusens-verpasster-sieg-gegen-den-fc-bayern-muenchen-ein-verhaengnisvoller-fehlschuss](https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayer-leverkusens-verpasster-sieg-gegen-den-fc-bayern-muenchen-ein-verhaengnisvoller-fehlschuss-a-fc916775-004c-4bde-ac1b-7a8e7aac2a08#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bayer-leverkusen-laesst-gegen-den-fc-bayern-muenchen-keinen-schuss-auf-das-tor-zu](https://www.spiegel.de/sport/fussball/bayer-leverkusen-laesst-gegen-den-fc-bayern-muenchen-keinen-schuss-auf-das-tor-zu-a-2ea58e23-e89c-4b78-84e6-8d4cdf5d0811#ref=rss)
-### wirtz
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayer-leverkusens-verpasster-sieg-gegen-den-fc-bayern-muenchen-ein-verhaengnisvoller-fehlschuss](https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayer-leverkusens-verpasster-sieg-gegen-den-fc-bayern-muenchen-ein-verhaengnisvoller-fehlschuss-a-fc916775-004c-4bde-ac1b-7a8e7aac2a08#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bayer-leverkusen-laesst-gegen-den-fc-bayern-muenchen-keinen-schuss-auf-das-tor-zu](https://www.spiegel.de/sport/fussball/bayer-leverkusen-laesst-gegen-den-fc-bayern-muenchen-keinen-schuss-auf-das-tor-zu-a-2ea58e23-e89c-4b78-84e6-8d4cdf5d0811#ref=rss)
-### trainer
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayer-leverkusens-verpasster-sieg-gegen-den-fc-bayern-muenchen-ein-verhaengnisvoller-fehlschuss](https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayer-leverkusens-verpasster-sieg-gegen-den-fc-bayern-muenchen-ein-verhaengnisvoller-fehlschuss-a-fc916775-004c-4bde-ac1b-7a8e7aac2a08#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-trainer-niko-kovac-will-in-krise-ruhe-bewahren](https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-trainer-niko-kovac-will-in-krise-ruhe-bewahren-a-1e5a875f-dc2c-47e3-91a1-c114e274c619#ref=rss)
-### ermittler
-
-* [https://www.spiegel.de/panorama/justiz/villach-in-oesterreich-ermittler-gehen-von-islamistischem-motiv-bei-messerangriff-aus](https://www.spiegel.de/panorama/justiz/villach-in-oesterreich-ermittler-gehen-von-islamistischem-motiv-bei-messerangriff-aus-a-dc3d0dab-8788-422e-a8ad-79c2cac007a9#ref=rss)
-### motiv
-
-* [https://www.spiegel.de/panorama/justiz/villach-in-oesterreich-ermittler-gehen-von-islamistischem-motiv-bei-messerangriff-aus](https://www.spiegel.de/panorama/justiz/villach-in-oesterreich-ermittler-gehen-von-islamistischem-motiv-bei-messerangriff-aus-a-dc3d0dab-8788-422e-a8ad-79c2cac007a9#ref=rss)
-### wohl
-
-* [https://www.spiegel.de/panorama/justiz/villach-in-oesterreich-ermittler-gehen-von-islamistischem-motiv-bei-messerangriff-aus](https://www.spiegel.de/panorama/justiz/villach-in-oesterreich-ermittler-gehen-von-islamistischem-motiv-bei-messerangriff-aus-a-dc3d0dab-8788-422e-a8ad-79c2cac007a9#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/villach-essenslieferant-stoppt-messerattacke-und-wird-fuer-angreifer-gehalten](https://www.spiegel.de/panorama/justiz/villach-essenslieferant-stoppt-messerattacke-und-wird-fuer-angreifer-gehalten-a-daa8cdbf-ccb2-4dc0-b58f-ce06b2a408ae#ref=rss)
-### angreifer
-
-* [https://www.spiegel.de/panorama/justiz/villach-essenslieferant-stoppt-messerattacke-und-wird-fuer-angreifer-gehalten](https://www.spiegel.de/panorama/justiz/villach-essenslieferant-stoppt-messerattacke-und-wird-fuer-angreifer-gehalten-a-daa8cdbf-ccb2-4dc0-b58f-ce06b2a408ae#ref=rss)
-### gehalten
-
-* [https://www.spiegel.de/panorama/justiz/villach-essenslieferant-stoppt-messerattacke-und-wird-fuer-angreifer-gehalten](https://www.spiegel.de/panorama/justiz/villach-essenslieferant-stoppt-messerattacke-und-wird-fuer-angreifer-gehalten-a-daa8cdbf-ccb2-4dc0-b58f-ce06b2a408ae#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/panorama/justiz/villach-essenslieferant-stoppt-messerattacke-und-wird-fuer-angreifer-gehalten](https://www.spiegel.de/panorama/justiz/villach-essenslieferant-stoppt-messerattacke-und-wird-fuer-angreifer-gehalten-a-daa8cdbf-ccb2-4dc0-b58f-ce06b2a408ae#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/samir-salim-schauspieler-auf-nachhauseweg-von-berlinale-mit-messer-angegriffen](https://www.spiegel.de/panorama/justiz/samir-salim-schauspieler-auf-nachhauseweg-von-berlinale-mit-messer-angegriffen-a-9ed69ad8-5a14-43c9-93ab-a5bcd65d73e7#ref=rss)
-### niko
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-trainer-niko-kovac-will-in-krise-ruhe-bewahren](https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-trainer-niko-kovac-will-in-krise-ruhe-bewahren-a-1e5a875f-dc2c-47e3-91a1-c114e274c619#ref=rss)
-### kovač
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-trainer-niko-kovac-will-in-krise-ruhe-bewahren](https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-trainer-niko-kovac-will-in-krise-ruhe-bewahren-a-1e5a875f-dc2c-47e3-91a1-c114e274c619#ref=rss)
-### spieler
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-trainer-niko-kovac-will-in-krise-ruhe-bewahren](https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-trainer-niko-kovac-will-in-krise-ruhe-bewahren-a-1e5a875f-dc2c-47e3-91a1-c114e274c619#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-fortuna-duesseldorf-schlaegt-dank-dzenan-pejcinovic-hertha-bsc](https://www.spiegel.de/sport/fussball/2-bundesliga-fortuna-duesseldorf-schlaegt-dank-dzenan-pejcinovic-hertha-bsc-a-96b8a833-dbe9-48aa-a8e7-c2e962e9d96e#ref=rss)
-### waren
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-trainer-niko-kovac-will-in-krise-ruhe-bewahren](https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-trainer-niko-kovac-will-in-krise-ruhe-bewahren-a-1e5a875f-dc2c-47e3-91a1-c114e274c619#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/alexej-nawalny-warum-der-gefangenenaustausch-scheiterte](https://www.spiegel.de/politik/deutschland/alexej-nawalny-warum-der-gefangenenaustausch-scheiterte-a-c15a65b3-ab1c-46d5-bf9f-f40bf8425ad3#ref=rss)
-### alexej
-
-* [https://www.spiegel.de/politik/deutschland/alexej-nawalny-warum-der-gefangenenaustausch-scheiterte](https://www.spiegel.de/politik/deutschland/alexej-nawalny-warum-der-gefangenenaustausch-scheiterte-a-c15a65b3-ab1c-46d5-bf9f-f40bf8425ad3#ref=rss)
-### nawalny
-
-* [https://www.spiegel.de/politik/deutschland/alexej-nawalny-warum-der-gefangenenaustausch-scheiterte](https://www.spiegel.de/politik/deutschland/alexej-nawalny-warum-der-gefangenenaustausch-scheiterte-a-c15a65b3-ab1c-46d5-bf9f-f40bf8425ad3#ref=rss)
-### gefangenenaustausch
-
-* [https://www.spiegel.de/politik/deutschland/alexej-nawalny-warum-der-gefangenenaustausch-scheiterte](https://www.spiegel.de/politik/deutschland/alexej-nawalny-warum-der-gefangenenaustausch-scheiterte-a-c15a65b3-ab1c-46d5-bf9f-f40bf8425ad3#ref=rss)
-### kanzler
-
-* [https://www.spiegel.de/politik/deutschland/alexej-nawalny-warum-der-gefangenenaustausch-scheiterte](https://www.spiegel.de/politik/deutschland/alexej-nawalny-warum-der-gefangenenaustausch-scheiterte-a-c15a65b3-ab1c-46d5-bf9f-f40bf8425ad3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-wie-waehlt-man-einen-kanzler](https://www.spiegel.de/politik/deutschland/news-wie-waehlt-man-einen-kanzler-a-d0107f8c-ae10-462c-a2f3-470978c95087#ref=rss)
-### tote
-
-* [https://www.spiegel.de/panorama/leute/tote-hosen-warnen-vor-rechtsextremismus-wir-duerfen-nicht-in-diese-falle-tappen](https://www.spiegel.de/panorama/leute/tote-hosen-warnen-vor-rechtsextremismus-wir-duerfen-nicht-in-diese-falle-tappen-a-8e469338-0bea-4972-9cab-d35f99a89905#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/indien-mindestens-15-tote-bei-massenpanik-unter-pilgern-am-hauptbahnhof-von-neu-delhi](https://www.spiegel.de/panorama/gesellschaft/indien-mindestens-15-tote-bei-massenpanik-unter-pilgern-am-hauptbahnhof-von-neu-delhi-a-03890073-c0e9-4427-8122-e55f9c0ac150#ref=rss)
-### hosen
-
-* [https://www.spiegel.de/panorama/leute/tote-hosen-warnen-vor-rechtsextremismus-wir-duerfen-nicht-in-diese-falle-tappen](https://www.spiegel.de/panorama/leute/tote-hosen-warnen-vor-rechtsextremismus-wir-duerfen-nicht-in-diese-falle-tappen-a-8e469338-0bea-4972-9cab-d35f99a89905#ref=rss)
-### falle
-
-* [https://www.spiegel.de/panorama/leute/tote-hosen-warnen-vor-rechtsextremismus-wir-duerfen-nicht-in-diese-falle-tappen](https://www.spiegel.de/panorama/leute/tote-hosen-warnen-vor-rechtsextremismus-wir-duerfen-nicht-in-diese-falle-tappen-a-8e469338-0bea-4972-9cab-d35f99a89905#ref=rss)
-### tappen
-
-* [https://www.spiegel.de/panorama/leute/tote-hosen-warnen-vor-rechtsextremismus-wir-duerfen-nicht-in-diese-falle-tappen](https://www.spiegel.de/panorama/leute/tote-hosen-warnen-vor-rechtsextremismus-wir-duerfen-nicht-in-diese-falle-tappen-a-8e469338-0bea-4972-9cab-d35f99a89905#ref=rss)
-### anschlag
-
-* [https://www.spiegel.de/panorama/leute/tote-hosen-warnen-vor-rechtsextremismus-wir-duerfen-nicht-in-diese-falle-tappen](https://www.spiegel.de/panorama/leute/tote-hosen-warnen-vor-rechtsextremismus-wir-duerfen-nicht-in-diese-falle-tappen-a-8e469338-0bea-4972-9cab-d35f99a89905#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hanau-hunderte-erinnern-an-opfer-des-rassistischen-anschlags-bei-demo-zum-fuenften-jahrestag](https://www.spiegel.de/panorama/justiz/hanau-hunderte-erinnern-an-opfer-des-rassistischen-anschlags-bei-demo-zum-fuenften-jahrestag-a-79041225-0d74-4496-8a60-391dff32524a#ref=rss)
-### schutz
-
-* [https://www.spiegel.de/panorama/leute/tote-hosen-warnen-vor-rechtsextremismus-wir-duerfen-nicht-in-diese-falle-tappen](https://www.spiegel.de/panorama/leute/tote-hosen-warnen-vor-rechtsextremismus-wir-duerfen-nicht-in-diese-falle-tappen-a-8e469338-0bea-4972-9cab-d35f99a89905#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/reise-versicherungen-auf-diesen-schutz-sollten-sie-im-urlaub-nicht-verzichten](https://www.spiegel.de/wirtschaft/service/reise-versicherungen-auf-diesen-schutz-sollten-sie-im-urlaub-nicht-verzichten-a-1641312f-63cf-412e-9358-9d0ef09ef7d2#ref=rss)
-### felix
-
-* [https://www.spiegel.de/sport/boxen-ex-weltmeister-felix-sturm-mit-46-jahren-wieder-im-ring-besiegt-benjamin-blindert](https://www.spiegel.de/sport/boxen-ex-weltmeister-felix-sturm-mit-46-jahren-wieder-im-ring-besiegt-benjamin-blindert-a-2f05da68-2605-4904-8286-508ec3a69be3#ref=rss)
-### sturm
-
-* [https://www.spiegel.de/sport/boxen-ex-weltmeister-felix-sturm-mit-46-jahren-wieder-im-ring-besiegt-benjamin-blindert](https://www.spiegel.de/sport/boxen-ex-weltmeister-felix-sturm-mit-46-jahren-wieder-im-ring-besiegt-benjamin-blindert-a-2f05da68-2605-4904-8286-508ec3a69be3#ref=rss)
-### benjamin
-
-* [https://www.spiegel.de/sport/boxen-ex-weltmeister-felix-sturm-mit-46-jahren-wieder-im-ring-besiegt-benjamin-blindert](https://www.spiegel.de/sport/boxen-ex-weltmeister-felix-sturm-mit-46-jahren-wieder-im-ring-besiegt-benjamin-blindert-a-2f05da68-2605-4904-8286-508ec3a69be3#ref=rss)
-### blindert
-
-* [https://www.spiegel.de/sport/boxen-ex-weltmeister-felix-sturm-mit-46-jahren-wieder-im-ring-besiegt-benjamin-blindert](https://www.spiegel.de/sport/boxen-ex-weltmeister-felix-sturm-mit-46-jahren-wieder-im-ring-besiegt-benjamin-blindert-a-2f05da68-2605-4904-8286-508ec3a69be3#ref=rss)
-### gegner
-
-* [https://www.spiegel.de/sport/boxen-ex-weltmeister-felix-sturm-mit-46-jahren-wieder-im-ring-besiegt-benjamin-blindert](https://www.spiegel.de/sport/boxen-ex-weltmeister-felix-sturm-mit-46-jahren-wieder-im-ring-besiegt-benjamin-blindert-a-2f05da68-2605-4904-8286-508ec3a69be3#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-erleben-wir-gerade-einen-staatsstreich-orchestriert-aus-dem-weissen-haus](https://www.spiegel.de/ausland/donald-trump-erleben-wir-gerade-einen-staatsstreich-orchestriert-aus-dem-weissen-haus-a-ddb5c031-546b-4348-be5a-29980bb32cbe#ref=rss)
-### 00
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-spielt-0-0-bei-bayer-leverkusen-die-meisterfrage-scheint-geklaert](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-spielt-0-0-bei-bayer-leverkusen-die-meisterfrage-scheint-geklaert-a-4bb6a9d0-b7c0-463f-b887-20c88d0c6d20#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bayer-leverkusen-und-fc-bayern-muenchen-trennen-sich-in-spitzenspiel-0-0](https://www.spiegel.de/sport/fussball/bayer-leverkusen-und-fc-bayern-muenchen-trennen-sich-in-spitzenspiel-0-0-a-3896cf02-fc0f-48cb-b30e-83ba6cd8b75e#ref=rss)
-### scheint
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-spielt-0-0-bei-bayer-leverkusen-die-meisterfrage-scheint-geklaert](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-spielt-0-0-bei-bayer-leverkusen-die-meisterfrage-scheint-geklaert-a-4bb6a9d0-b7c0-463f-b887-20c88d0c6d20#ref=rss)
-### vorsprung
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-spielt-0-0-bei-bayer-leverkusen-die-meisterfrage-scheint-geklaert](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-spielt-0-0-bei-bayer-leverkusen-die-meisterfrage-scheint-geklaert-a-4bb6a9d0-b7c0-463f-b887-20c88d0c6d20#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bayer-leverkusen-und-fc-bayern-muenchen-trennen-sich-in-spitzenspiel-0-0](https://www.spiegel.de/sport/fussball/bayer-leverkusen-und-fc-bayern-muenchen-trennen-sich-in-spitzenspiel-0-0-a-3896cf02-fc0f-48cb-b30e-83ba6cd8b75e#ref=rss)
-### groß
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-spielt-0-0-bei-bayer-leverkusen-die-meisterfrage-scheint-geklaert](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-spielt-0-0-bei-bayer-leverkusen-die-meisterfrage-scheint-geklaert-a-4bb6a9d0-b7c0-463f-b887-20c88d0c6d20#ref=rss)
-* [https://www.spiegel.de/tests/fahrrad-zubehoer/fahrrad-drehmomentwerkzeuge-im-test-topeak-park-tool-wera-hazet-contec-lezyne](https://www.spiegel.de/tests/fahrrad-zubehoer/fahrrad-drehmomentwerkzeuge-im-test-topeak-park-tool-wera-hazet-contec-lezyne-a-d6bc19ac-42cf-4628-990f-43938f2b9222#ref=rss)
-### xabi
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-spielt-0-0-bei-bayer-leverkusen-die-meisterfrage-scheint-geklaert](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-spielt-0-0-bei-bayer-leverkusen-die-meisterfrage-scheint-geklaert-a-4bb6a9d0-b7c0-463f-b887-20c88d0c6d20#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bayer-leverkusen-und-fc-bayern-muenchen-trennen-sich-in-spitzenspiel-0-0](https://www.spiegel.de/sport/fussball/bayer-leverkusen-und-fc-bayern-muenchen-trennen-sich-in-spitzenspiel-0-0-a-3896cf02-fc0f-48cb-b30e-83ba6cd8b75e#ref=rss)
-### samir
-
-* [https://www.spiegel.de/panorama/justiz/samir-salim-schauspieler-auf-nachhauseweg-von-berlinale-mit-messer-angegriffen](https://www.spiegel.de/panorama/justiz/samir-salim-schauspieler-auf-nachhauseweg-von-berlinale-mit-messer-angegriffen-a-9ed69ad8-5a14-43c9-93ab-a5bcd65d73e7#ref=rss)
-### salim
-
-* [https://www.spiegel.de/panorama/justiz/samir-salim-schauspieler-auf-nachhauseweg-von-berlinale-mit-messer-angegriffen](https://www.spiegel.de/panorama/justiz/samir-salim-schauspieler-auf-nachhauseweg-von-berlinale-mit-messer-angegriffen-a-9ed69ad8-5a14-43c9-93ab-a5bcd65d73e7#ref=rss)
-### messer
-
-* [https://www.spiegel.de/panorama/justiz/samir-salim-schauspieler-auf-nachhauseweg-von-berlinale-mit-messer-angegriffen](https://www.spiegel.de/panorama/justiz/samir-salim-schauspieler-auf-nachhauseweg-von-berlinale-mit-messer-angegriffen-a-9ed69ad8-5a14-43c9-93ab-a5bcd65d73e7#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/villach-was-ueber-die-toedliche-messerattacke-in-oesterreich-bislang-bekannt-ist](https://www.spiegel.de/panorama/justiz/villach-was-ueber-die-toedliche-messerattacke-in-oesterreich-bislang-bekannt-ist-a-b52e9a91-8ad2-4c4d-b730-8a78c5c82f5c#ref=rss)
-### streit
-
-* [https://www.spiegel.de/panorama/justiz/samir-salim-schauspieler-auf-nachhauseweg-von-berlinale-mit-messer-angegriffen](https://www.spiegel.de/panorama/justiz/samir-salim-schauspieler-auf-nachhauseweg-von-berlinale-mit-messer-angegriffen-a-9ed69ad8-5a14-43c9-93ab-a5bcd65d73e7#ref=rss)
-* [https://www.spiegel.de/panorama/leute/harvey-weinstein-streit-um-millionen-klage-gegen-den-eigenen-bruder](https://www.spiegel.de/panorama/leute/harvey-weinstein-streit-um-millionen-klage-gegen-den-eigenen-bruder-a-fabcf23e-1655-44ed-a649-2d7977427a0e#ref=rss)
-### bundesregierung
-
-* [https://www.spiegel.de/politik/deutschland/spiegel-hausaufgaben-wo-und-wie-die-kuenftige-bundesregierung-aktiv-werden-muss](https://www.spiegel.de/politik/deutschland/spiegel-hausaufgaben-wo-und-wie-die-kuenftige-bundesregierung-aktiv-werden-muss-a-aad8ec8f-0235-4ff7-aedd-7ab6e98f7e5c#ref=rss)
-### indien
-
-* [https://www.spiegel.de/panorama/gesellschaft/indien-mindestens-15-tote-bei-massenpanik-unter-pilgern-am-hauptbahnhof-von-neu-delhi](https://www.spiegel.de/panorama/gesellschaft/indien-mindestens-15-tote-bei-massenpanik-unter-pilgern-am-hauptbahnhof-von-neu-delhi-a-03890073-c0e9-4427-8122-e55f9c0ac150#ref=rss)
-### mindestens
-
-* [https://www.spiegel.de/panorama/gesellschaft/indien-mindestens-15-tote-bei-massenpanik-unter-pilgern-am-hauptbahnhof-von-neu-delhi](https://www.spiegel.de/panorama/gesellschaft/indien-mindestens-15-tote-bei-massenpanik-unter-pilgern-am-hauptbahnhof-von-neu-delhi-a-03890073-c0e9-4427-8122-e55f9c0ac150#ref=rss)
-### 15
-
-* [https://www.spiegel.de/panorama/gesellschaft/indien-mindestens-15-tote-bei-massenpanik-unter-pilgern-am-hauptbahnhof-von-neu-delhi](https://www.spiegel.de/panorama/gesellschaft/indien-mindestens-15-tote-bei-massenpanik-unter-pilgern-am-hauptbahnhof-von-neu-delhi-a-03890073-c0e9-4427-8122-e55f9c0ac150#ref=rss)
-### unter
-
-* [https://www.spiegel.de/panorama/gesellschaft/indien-mindestens-15-tote-bei-massenpanik-unter-pilgern-am-hauptbahnhof-von-neu-delhi](https://www.spiegel.de/panorama/gesellschaft/indien-mindestens-15-tote-bei-massenpanik-unter-pilgern-am-hauptbahnhof-von-neu-delhi-a-03890073-c0e9-4427-8122-e55f9c0ac150#ref=rss)
-* [https://www.spiegel.de/ausland/usa-unter-donald-trump-die-kotzbrocken-doktrin-und-ihre-aussenpolitischen-folgen](https://www.spiegel.de/ausland/usa-unter-donald-trump-die-kotzbrocken-doktrin-und-ihre-aussenpolitischen-folgen-a-6e429564-cf70-47d6-b114-9424e498a6d1#ref=rss)
-### neudelhi
-
-* [https://www.spiegel.de/panorama/gesellschaft/indien-mindestens-15-tote-bei-massenpanik-unter-pilgern-am-hauptbahnhof-von-neu-delhi](https://www.spiegel.de/panorama/gesellschaft/indien-mindestens-15-tote-bei-massenpanik-unter-pilgern-am-hauptbahnhof-von-neu-delhi-a-03890073-c0e9-4427-8122-e55f9c0ac150#ref=rss)
-### fest
-
-* [https://www.spiegel.de/panorama/gesellschaft/indien-mindestens-15-tote-bei-massenpanik-unter-pilgern-am-hauptbahnhof-von-neu-delhi](https://www.spiegel.de/panorama/gesellschaft/indien-mindestens-15-tote-bei-massenpanik-unter-pilgern-am-hauptbahnhof-von-neu-delhi-a-03890073-c0e9-4427-8122-e55f9c0ac150#ref=rss)
-### weißen
-
-* [https://www.spiegel.de/ausland/usa-unter-donald-trump-die-kotzbrocken-doktrin-und-ihre-aussenpolitischen-folgen](https://www.spiegel.de/ausland/usa-unter-donald-trump-die-kotzbrocken-doktrin-und-ihre-aussenpolitischen-folgen-a-6e429564-cf70-47d6-b114-9424e498a6d1#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-erleben-wir-gerade-einen-staatsstreich-orchestriert-aus-dem-weissen-haus](https://www.spiegel.de/ausland/donald-trump-erleben-wir-gerade-einen-staatsstreich-orchestriert-aus-dem-weissen-haus-a-ddb5c031-546b-4348-be5a-29980bb32cbe#ref=rss)
-### haus
-
-* [https://www.spiegel.de/ausland/usa-unter-donald-trump-die-kotzbrocken-doktrin-und-ihre-aussenpolitischen-folgen](https://www.spiegel.de/ausland/usa-unter-donald-trump-die-kotzbrocken-doktrin-und-ihre-aussenpolitischen-folgen-a-6e429564-cf70-47d6-b114-9424e498a6d1#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-erleben-wir-gerade-einen-staatsstreich-orchestriert-aus-dem-weissen-haus](https://www.spiegel.de/ausland/donald-trump-erleben-wir-gerade-einen-staatsstreich-orchestriert-aus-dem-weissen-haus-a-ddb5c031-546b-4348-be5a-29980bb32cbe#ref=rss)
-### urlaub
-
-* [https://www.spiegel.de/wirtschaft/service/reise-versicherungen-auf-diesen-schutz-sollten-sie-im-urlaub-nicht-verzichten](https://www.spiegel.de/wirtschaft/service/reise-versicherungen-auf-diesen-schutz-sollten-sie-im-urlaub-nicht-verzichten-a-1641312f-63cf-412e-9358-9d0ef09ef7d2#ref=rss)
-### russlandukrainekrieg
-
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-friedensverhandlungen-in-saudi-arabien-werden-konkreter](https://www.spiegel.de/ausland/russland-ukraine-krieg-friedensverhandlungen-in-saudi-arabien-werden-konkreter-a-875fa289-7c0c-4ea5-aff4-c78aef585d15#ref=rss)
-* [https://www.spiegel.de/politik/russland-ukraine-krieg-deutschland-soll-usa-militaerkapazitaeten-fuer-ukraine-melden](https://www.spiegel.de/politik/russland-ukraine-krieg-deutschland-soll-usa-militaerkapazitaeten-fuer-ukraine-melden-a-74fbbf79-9078-4aac-afdf-932f855ed143#ref=rss)
-### saudiarabien
-
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-friedensverhandlungen-in-saudi-arabien-werden-konkreter](https://www.spiegel.de/ausland/russland-ukraine-krieg-friedensverhandlungen-in-saudi-arabien-werden-konkreter-a-875fa289-7c0c-4ea5-aff4-c78aef585d15#ref=rss)
-### russischen
-
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-friedensverhandlungen-in-saudi-arabien-werden-konkreter](https://www.spiegel.de/ausland/russland-ukraine-krieg-friedensverhandlungen-in-saudi-arabien-werden-konkreter-a-875fa289-7c0c-4ea5-aff4-c78aef585d15#ref=rss)
-* [https://www.spiegel.de/politik/russland-ukraine-krieg-deutschland-soll-usa-militaerkapazitaeten-fuer-ukraine-melden](https://www.spiegel.de/politik/russland-ukraine-krieg-deutschland-soll-usa-militaerkapazitaeten-fuer-ukraine-melden-a-74fbbf79-9078-4aac-afdf-932f855ed143#ref=rss)
-### harvey
-
-* [https://www.spiegel.de/panorama/leute/harvey-weinstein-streit-um-millionen-klage-gegen-den-eigenen-bruder](https://www.spiegel.de/panorama/leute/harvey-weinstein-streit-um-millionen-klage-gegen-den-eigenen-bruder-a-fabcf23e-1655-44ed-a649-2d7977427a0e#ref=rss)
-### weinstein
-
-* [https://www.spiegel.de/panorama/leute/harvey-weinstein-streit-um-millionen-klage-gegen-den-eigenen-bruder](https://www.spiegel.de/panorama/leute/harvey-weinstein-streit-um-millionen-klage-gegen-den-eigenen-bruder-a-fabcf23e-1655-44ed-a649-2d7977427a0e#ref=rss)
-### bruder
-
-* [https://www.spiegel.de/panorama/leute/harvey-weinstein-streit-um-millionen-klage-gegen-den-eigenen-bruder](https://www.spiegel.de/panorama/leute/harvey-weinstein-streit-um-millionen-klage-gegen-den-eigenen-bruder-a-fabcf23e-1655-44ed-a649-2d7977427a0e#ref=rss)
-### fortuna
-
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-fortuna-duesseldorf-schlaegt-dank-dzenan-pejcinovic-hertha-bsc](https://www.spiegel.de/sport/fussball/2-bundesliga-fortuna-duesseldorf-schlaegt-dank-dzenan-pejcinovic-hertha-bsc-a-96b8a833-dbe9-48aa-a8e7-c2e962e9d96e#ref=rss)
-### düsseldorf
-
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-fortuna-duesseldorf-schlaegt-dank-dzenan-pejcinovic-hertha-bsc](https://www.spiegel.de/sport/fussball/2-bundesliga-fortuna-duesseldorf-schlaegt-dank-dzenan-pejcinovic-hertha-bsc-a-96b8a833-dbe9-48aa-a8e7-c2e962e9d96e#ref=rss)
-### hertha
-
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-fortuna-duesseldorf-schlaegt-dank-dzenan-pejcinovic-hertha-bsc](https://www.spiegel.de/sport/fussball/2-bundesliga-fortuna-duesseldorf-schlaegt-dank-dzenan-pejcinovic-hertha-bsc-a-96b8a833-dbe9-48aa-a8e7-c2e962e9d96e#ref=rss)
-### bsc
-
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-fortuna-duesseldorf-schlaegt-dank-dzenan-pejcinovic-hertha-bsc](https://www.spiegel.de/sport/fussball/2-bundesliga-fortuna-duesseldorf-schlaegt-dank-dzenan-pejcinovic-hertha-bsc-a-96b8a833-dbe9-48aa-a8e7-c2e962e9d96e#ref=rss)
-### folge
-
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-fortuna-duesseldorf-schlaegt-dank-dzenan-pejcinovic-hertha-bsc](https://www.spiegel.de/sport/fussball/2-bundesliga-fortuna-duesseldorf-schlaegt-dank-dzenan-pejcinovic-hertha-bsc-a-96b8a833-dbe9-48aa-a8e7-c2e962e9d96e#ref=rss)
-* [https://www.spiegel.de/ausland/fpoe-oevp-regierung-in-oesterreich-geplatzt-rekonstruktion-des-scheiterns-podcast-inside-austria](https://www.spiegel.de/ausland/fpoe-oevp-regierung-in-oesterreich-geplatzt-rekonstruktion-des-scheiterns-podcast-inside-austria-a-af38ba96-37e1-4887-9600-899ecfcf473e#ref=rss)
-### hinweg
-
-* [https://www.spiegel.de/ausland/donald-trump-erleben-wir-gerade-einen-staatsstreich-orchestriert-aus-dem-weissen-haus](https://www.spiegel.de/ausland/donald-trump-erleben-wir-gerade-einen-staatsstreich-orchestriert-aus-dem-weissen-haus-a-ddb5c031-546b-4348-be5a-29980bb32cbe#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gerhart-baum-gestorben-wegbegleiter-nennt-fdp-mann-inbegriff-eines-liberalen-politikers](https://www.spiegel.de/politik/deutschland/gerhart-baum-gestorben-wegbegleiter-nennt-fdp-mann-inbegriff-eines-liberalen-politikers-a-9fe2af2d-dac6-40f9-badd-ae01f430d19e#ref=rss)
-### inside
-
-* [https://www.spiegel.de/ausland/fpoe-oevp-regierung-in-oesterreich-geplatzt-rekonstruktion-des-scheiterns-podcast-inside-austria](https://www.spiegel.de/ausland/fpoe-oevp-regierung-in-oesterreich-geplatzt-rekonstruktion-des-scheiterns-podcast-inside-austria-a-af38ba96-37e1-4887-9600-899ecfcf473e#ref=rss)
-### austria
-
-* [https://www.spiegel.de/ausland/fpoe-oevp-regierung-in-oesterreich-geplatzt-rekonstruktion-des-scheiterns-podcast-inside-austria](https://www.spiegel.de/ausland/fpoe-oevp-regierung-in-oesterreich-geplatzt-rekonstruktion-des-scheiterns-podcast-inside-austria-a-af38ba96-37e1-4887-9600-899ecfcf473e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/psychologie-sind-frauen-grosszuegiger-als-maenner](https://www.spiegel.de/wissenschaft/mensch/psychologie-sind-frauen-grosszuegiger-als-maenner-a-15c46dc4-fa91-4c9a-99f3-6582f8ce34db#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/herten-mann-schlaegt-offenbar-mit-axt-auf-kontrahenten-ein-und-fluechtet](https://www.spiegel.de/panorama/justiz/herten-mann-schlaegt-offenbar-mit-axt-auf-kontrahenten-ein-und-fluechtet-a-2e48a054-92a4-487d-ba45-70d6ffc692b2#ref=rss)
+### erzählen
+
+* [https://www.spiegel.de/ausland/essen-und-politik-wie-historische-speisekarten-die-weltgeschichte-erzaehlen](https://www.spiegel.de/ausland/essen-und-politik-wie-historische-speisekarten-die-weltgeschichte-erzaehlen-a-195b3370-f386-41e8-9298-7f4fa25282cc#ref=rss)
+* [https://www.spiegel.de/politik/bundestagswahl-2025-warum-diese-menschen-jetzt-in-parteien-eingetreten-sind](https://www.spiegel.de/politik/bundestagswahl-2025-warum-diese-menschen-jetzt-in-parteien-eingetreten-sind-a-50061b22-202d-40a4-af9e-a4747e040839#ref=rss)
+### leben
+
+* [https://www.spiegel.de/kultur/kino/deutschlandpremiere-von-mickey-17-bekommt-der-mensch-das-ewige-leben-ist-es-auch-wieder-nicht-recht](https://www.spiegel.de/kultur/kino/deutschlandpremiere-von-mickey-17-bekommt-der-mensch-das-ewige-leben-ist-es-auch-wieder-nicht-recht-a-65f3250c-9785-49ae-8816-34754df72805#ref=rss)
+* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-berlin-vier-leben-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-berlin-vier-leben-im-schnellcheck-a-d78981c8-6b7b-46cc-91f2-73fc48939f71#ref=rss)
+* [https://www.spiegel.de/panorama/illegale-goldmine-stuerzt-ein-mehr-als-40-tote](https://www.spiegel.de/panorama/illegale-goldmine-stuerzt-ein-mehr-als-40-tote-a-b0701abb-d7f9-43c3-8097-bb2005b27668#ref=rss)
 ### ukraine
 
-* [https://www.spiegel.de/politik/russland-ukraine-krieg-deutschland-soll-usa-militaerkapazitaeten-fuer-ukraine-melden](https://www.spiegel.de/politik/russland-ukraine-krieg-deutschland-soll-usa-militaerkapazitaeten-fuer-ukraine-melden-a-74fbbf79-9078-4aac-afdf-932f855ed143#ref=rss)
-### gerhart
+* [https://www.spiegel.de/ausland/ukrainekrieg-washington-will-wissen-welche-sicherheitsgarantien-die-eu-fuer-kyjiw-bietet](https://www.spiegel.de/ausland/ukrainekrieg-washington-will-wissen-welche-sicherheitsgarantien-die-eu-fuer-kyjiw-bietet-a-064729ac-d12f-4d9a-9a53-c4895259af67#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/kommentar-zur-muenchner-sicherheitskonferenz-es-war-einmal-eine-transatlantische-freundschaft](https://www.spiegel.de/politik/deutschland/kommentar-zur-muenchner-sicherheitskonferenz-es-war-einmal-eine-transatlantische-freundschaft-a-e439b162-3940-467c-a998-038ed40d6a23#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/us-friedensplan-fuer-die-ukraine-das-chaos-ist-das-neue-normal](https://www.spiegel.de/politik/deutschland/us-friedensplan-fuer-die-ukraine-das-chaos-ist-das-neue-normal-a-71b4a91a-e97a-461c-98dd-8fc2cf2051cf#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/politik/deutschland/gerhart-baum-gestorben-wegbegleiter-nennt-fdp-mann-inbegriff-eines-liberalen-politikers](https://www.spiegel.de/politik/deutschland/gerhart-baum-gestorben-wegbegleiter-nennt-fdp-mann-inbegriff-eines-liberalen-politikers-a-9fe2af2d-dac6-40f9-badd-ae01f430d19e#ref=rss)
-### erinnern
+* [https://www.spiegel.de/ausland/ukrainekrieg-washington-will-wissen-welche-sicherheitsgarantien-die-eu-fuer-kyjiw-bietet](https://www.spiegel.de/ausland/ukrainekrieg-washington-will-wissen-welche-sicherheitsgarantien-die-eu-fuer-kyjiw-bietet-a-064729ac-d12f-4d9a-9a53-c4895259af67#ref=rss)
+* [https://www.spiegel.de/panorama/illegale-goldmine-stuerzt-ein-mehr-als-40-tote](https://www.spiegel.de/panorama/illegale-goldmine-stuerzt-ein-mehr-als-40-tote-a-b0701abb-d7f9-43c3-8097-bb2005b27668#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/herten-mann-schlaegt-offenbar-mit-axt-auf-kontrahenten-ein-und-fluechtet](https://www.spiegel.de/panorama/justiz/herten-mann-schlaegt-offenbar-mit-axt-auf-kontrahenten-ein-und-fluechtet-a-2e48a054-92a4-487d-ba45-70d6ffc692b2#ref=rss)
+### viele
 
-* [https://www.spiegel.de/politik/deutschland/gerhart-baum-gestorben-wegbegleiter-nennt-fdp-mann-inbegriff-eines-liberalen-politikers](https://www.spiegel.de/politik/deutschland/gerhart-baum-gestorben-wegbegleiter-nennt-fdp-mann-inbegriff-eines-liberalen-politikers-a-9fe2af2d-dac6-40f9-badd-ae01f430d19e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hanau-hunderte-erinnern-an-opfer-des-rassistischen-anschlags-bei-demo-zum-fuenften-jahrestag](https://www.spiegel.de/panorama/justiz/hanau-hunderte-erinnern-an-opfer-des-rassistischen-anschlags-bei-demo-zum-fuenften-jahrestag-a-79041225-0d74-4496-8a60-391dff32524a#ref=rss)
-### hanau
+* [https://www.spiegel.de/ausland/ukrainekrieg-washington-will-wissen-welche-sicherheitsgarantien-die-eu-fuer-kyjiw-bietet](https://www.spiegel.de/ausland/ukrainekrieg-washington-will-wissen-welche-sicherheitsgarantien-die-eu-fuer-kyjiw-bietet-a-064729ac-d12f-4d9a-9a53-c4895259af67#ref=rss)
+* [https://www.spiegel.de/start/bundestagswahl-2025-ehrenamt-gegen-frust-so-kaempfen-junge-menschen-fuer-die-demokratie](https://www.spiegel.de/start/bundestagswahl-2025-ehrenamt-gegen-frust-so-kaempfen-junge-menschen-fuer-die-demokratie-a-393e664c-0098-4579-86f7-29c0ce703110#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-und-social-media-wie-wir-mit-unserer-empoerung-unfreiwillig-zu-afd-influencern-werden](https://www.spiegel.de/politik/deutschland/afd-und-social-media-wie-wir-mit-unserer-empoerung-unfreiwillig-zu-afd-influencern-werden-a-fa91f2fc-a41f-4639-aa85-64d75f77eb89#ref=rss)
+### sv
 
-* [https://www.spiegel.de/panorama/justiz/hanau-hunderte-erinnern-an-opfer-des-rassistischen-anschlags-bei-demo-zum-fuenften-jahrestag](https://www.spiegel.de/panorama/justiz/hanau-hunderte-erinnern-an-opfer-des-rassistischen-anschlags-bei-demo-zum-fuenften-jahrestag-a-79041225-0d74-4496-8a60-391dff32524a#ref=rss)
-### hunderte
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-sv-werder-bremen-unterliegt-tsg-hoffenheim](https://www.spiegel.de/sport/fussball/fussball-bundesliga-sv-werder-bremen-unterliegt-tsg-hoffenheim-a-1869c3c5-bacb-42bb-b051-2e0a4332cf47#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-rettet-punkt-gegen-schlusslicht-jahn-regensburg-in-chaotischem-spiel](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-rettet-punkt-gegen-schlusslicht-jahn-regensburg-in-chaotischem-spiel-a-a0609250-3b2f-4eb5-bba3-9b0e27b4b1ff#ref=rss)
+### demokratie
 
-* [https://www.spiegel.de/panorama/justiz/hanau-hunderte-erinnern-an-opfer-des-rassistischen-anschlags-bei-demo-zum-fuenften-jahrestag](https://www.spiegel.de/panorama/justiz/hanau-hunderte-erinnern-an-opfer-des-rassistischen-anschlags-bei-demo-zum-fuenften-jahrestag-a-79041225-0d74-4496-8a60-391dff32524a#ref=rss)
-### demo
+* [https://www.spiegel.de/start/bundestagswahl-2025-ehrenamt-gegen-frust-so-kaempfen-junge-menschen-fuer-die-demokratie](https://www.spiegel.de/start/bundestagswahl-2025-ehrenamt-gegen-frust-so-kaempfen-junge-menschen-fuer-die-demokratie-a-393e664c-0098-4579-86f7-29c0ce703110#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-mainz-duesseldorf-zehntausende-menschen-demonstrieren-gegen-rechts](https://www.spiegel.de/politik/deutschland/berlin-mainz-duesseldorf-zehntausende-menschen-demonstrieren-gegen-rechts-a-e94fead3-ce48-4541-9cf3-947d345bef58#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/panorama/justiz/hanau-hunderte-erinnern-an-opfer-des-rassistischen-anschlags-bei-demo-zum-fuenften-jahrestag](https://www.spiegel.de/panorama/justiz/hanau-hunderte-erinnern-an-opfer-des-rassistischen-anschlags-bei-demo-zum-fuenften-jahrestag-a-79041225-0d74-4496-8a60-391dff32524a#ref=rss)
-### fünften
+* [https://www.spiegel.de/start/bundestagswahl-2025-ehrenamt-gegen-frust-so-kaempfen-junge-menschen-fuer-die-demokratie](https://www.spiegel.de/start/bundestagswahl-2025-ehrenamt-gegen-frust-so-kaempfen-junge-menschen-fuer-die-demokratie-a-393e664c-0098-4579-86f7-29c0ce703110#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/kommentar-zur-muenchner-sicherheitskonferenz-es-war-einmal-eine-transatlantische-freundschaft](https://www.spiegel.de/politik/deutschland/kommentar-zur-muenchner-sicherheitskonferenz-es-war-einmal-eine-transatlantische-freundschaft-a-e439b162-3940-467c-a998-038ed40d6a23#ref=rss)
+* [https://www.spiegel.de/panorama/illegale-goldmine-stuerzt-ein-mehr-als-40-tote](https://www.spiegel.de/panorama/illegale-goldmine-stuerzt-ein-mehr-als-40-tote-a-b0701abb-d7f9-43c3-8097-bb2005b27668#ref=rss)
+### vier
 
-* [https://www.spiegel.de/panorama/justiz/hanau-hunderte-erinnern-an-opfer-des-rassistischen-anschlags-bei-demo-zum-fuenften-jahrestag](https://www.spiegel.de/panorama/justiz/hanau-hunderte-erinnern-an-opfer-des-rassistischen-anschlags-bei-demo-zum-fuenften-jahrestag-a-79041225-0d74-4496-8a60-391dff32524a#ref=rss)
+* [https://www.spiegel.de/start/bundestagswahl-2025-ehrenamt-gegen-frust-so-kaempfen-junge-menschen-fuer-die-demokratie](https://www.spiegel.de/start/bundestagswahl-2025-ehrenamt-gegen-frust-so-kaempfen-junge-menschen-fuer-die-demokratie-a-393e664c-0098-4579-86f7-29c0ce703110#ref=rss)
+* [https://www.spiegel.de/politik/bundestagswahl-2025-warum-diese-menschen-jetzt-in-parteien-eingetreten-sind](https://www.spiegel.de/politik/bundestagswahl-2025-warum-diese-menschen-jetzt-in-parteien-eingetreten-sind-a-50061b22-202d-40a4-af9e-a4747e040839#ref=rss)
+* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-berlin-vier-leben-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-berlin-vier-leben-im-schnellcheck-a-d78981c8-6b7b-46cc-91f2-73fc48939f71#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-berlin-vier-leben-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-berlin-vier-leben-im-schnellcheck-a-d78981c8-6b7b-46cc-91f2-73fc48939f71#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-mainz-duesseldorf-zehntausende-menschen-demonstrieren-gegen-rechts](https://www.spiegel.de/politik/deutschland/berlin-mainz-duesseldorf-zehntausende-menschen-demonstrieren-gegen-rechts-a-e94fead3-ce48-4541-9cf3-947d345bef58#ref=rss)
+### saalbach
+
+* [https://www.spiegel.de/sport/wintersport/ski-wm-in-saalbach-2025-linus-strasser-sichert-bronze-im-slalom-fuer-deutschland](https://www.spiegel.de/sport/wintersport/ski-wm-in-saalbach-2025-linus-strasser-sichert-bronze-im-slalom-fuer-deutschland-a-b4aba630-1fe3-4879-9898-0cfe053b4992#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/ski-wm-in-saalbach-2025-linus-strasser-bewahrt-deutsches-team-mit-slalombronze-vor-debakel](https://www.spiegel.de/sport/wintersport/ski-wm-in-saalbach-2025-linus-strasser-bewahrt-deutsches-team-mit-slalombronze-vor-debakel-a-596cfea0-8385-4426-8568-db45756459b5#ref=rss)
+### einmal
+
+* [https://www.spiegel.de/politik/deutschland/kommentar-zur-muenchner-sicherheitskonferenz-es-war-einmal-eine-transatlantische-freundschaft](https://www.spiegel.de/politik/deutschland/kommentar-zur-muenchner-sicherheitskonferenz-es-war-einmal-eine-transatlantische-freundschaft-a-e439b162-3940-467c-a998-038ed40d6a23#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-rettet-punkt-gegen-schlusslicht-jahn-regensburg-in-chaotischem-spiel](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-rettet-punkt-gegen-schlusslicht-jahn-regensburg-in-chaotischem-spiel-a-a0609250-3b2f-4eb5-bba3-9b0e27b4b1ff#ref=rss)
+### 4
+
+* [https://www.spiegel.de/karriere/raetsel-der-woche-wie-gross-ist-das-blaue-quadrat](https://www.spiegel.de/karriere/raetsel-der-woche-wie-gross-ist-das-blaue-quadrat-a-c0be3cc7-8a40-4c58-a85f-15d1f34645ce#ref=rss)
+* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-wie-die-menschen-die-dramatische-zeit-erlebten-folge-4](https://www.spiegel.de/geschichte/zweiter-weltkrieg-wie-die-menschen-die-dramatische-zeit-erlebten-folge-4-a-611818c9-def0-4105-8e89-7402be85d337#ref=rss)
+### speisekarten
+
+* [https://www.spiegel.de/ausland/essen-und-politik-wie-historische-speisekarten-die-weltgeschichte-erzaehlen](https://www.spiegel.de/ausland/essen-und-politik-wie-historische-speisekarten-die-weltgeschichte-erzaehlen-a-195b3370-f386-41e8-9298-7f4fa25282cc#ref=rss)
+### weltgeschichte
+
+* [https://www.spiegel.de/ausland/essen-und-politik-wie-historische-speisekarten-die-weltgeschichte-erzaehlen](https://www.spiegel.de/ausland/essen-und-politik-wie-historische-speisekarten-die-weltgeschichte-erzaehlen-a-195b3370-f386-41e8-9298-7f4fa25282cc#ref=rss)
+### erklärt
+
+* [https://www.spiegel.de/ausland/essen-und-politik-wie-historische-speisekarten-die-weltgeschichte-erzaehlen](https://www.spiegel.de/ausland/essen-und-politik-wie-historische-speisekarten-die-weltgeschichte-erzaehlen-a-195b3370-f386-41e8-9298-7f4fa25282cc#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/psychologie-sind-frauen-grosszuegiger-als-maenner](https://www.spiegel.de/wissenschaft/mensch/psychologie-sind-frauen-grosszuegiger-als-maenner-a-15c46dc4-fa91-4c9a-99f3-6582f8ce34db#ref=rss)
+### mickey
+
+* [https://www.spiegel.de/kultur/kino/deutschlandpremiere-von-mickey-17-bekommt-der-mensch-das-ewige-leben-ist-es-auch-wieder-nicht-recht](https://www.spiegel.de/kultur/kino/deutschlandpremiere-von-mickey-17-bekommt-der-mensch-das-ewige-leben-ist-es-auch-wieder-nicht-recht-a-65f3250c-9785-49ae-8816-34754df72805#ref=rss)
+### 17
+
+* [https://www.spiegel.de/kultur/kino/deutschlandpremiere-von-mickey-17-bekommt-der-mensch-das-ewige-leben-ist-es-auch-wieder-nicht-recht](https://www.spiegel.de/kultur/kino/deutschlandpremiere-von-mickey-17-bekommt-der-mensch-das-ewige-leben-ist-es-auch-wieder-nicht-recht-a-65f3250c-9785-49ae-8816-34754df72805#ref=rss)
+### anfang
+
+* [https://www.spiegel.de/kultur/kino/deutschlandpremiere-von-mickey-17-bekommt-der-mensch-das-ewige-leben-ist-es-auch-wieder-nicht-recht](https://www.spiegel.de/kultur/kino/deutschlandpremiere-von-mickey-17-bekommt-der-mensch-das-ewige-leben-ist-es-auch-wieder-nicht-recht-a-65f3250c-9785-49ae-8816-34754df72805#ref=rss)
+* [https://www.spiegel.de/geschichte/bundestageswahl-testen-sie-ihr-geschichtswissen-welcher-politiker-liess-1994-alle-huellen-fallen](https://www.spiegel.de/geschichte/bundestageswahl-testen-sie-ihr-geschichtswissen-welcher-politiker-liess-1994-alle-huellen-fallen-a-4ec82bbd-b12e-4b68-bc89-a5c77a9a0cae#ref=rss)
+### rtl
+
+* [https://www.spiegel.de/politik/deutschland/kreuzverhoer-bei-rtl-sahra-wagenknecht-christian-lindner-und-gregor-gysi-im-spiegel-blog](https://www.spiegel.de/politik/deutschland/kreuzverhoer-bei-rtl-sahra-wagenknecht-christian-lindner-und-gregor-gysi-im-spiegel-blog-a-0398d972-d824-4853-9131-b7537e899837#ref=rss)
+### sahra
+
+* [https://www.spiegel.de/politik/deutschland/kreuzverhoer-bei-rtl-sahra-wagenknecht-christian-lindner-und-gregor-gysi-im-spiegel-blog](https://www.spiegel.de/politik/deutschland/kreuzverhoer-bei-rtl-sahra-wagenknecht-christian-lindner-und-gregor-gysi-im-spiegel-blog-a-0398d972-d824-4853-9131-b7537e899837#ref=rss)
+### wagenknecht
+
+* [https://www.spiegel.de/politik/deutschland/kreuzverhoer-bei-rtl-sahra-wagenknecht-christian-lindner-und-gregor-gysi-im-spiegel-blog](https://www.spiegel.de/politik/deutschland/kreuzverhoer-bei-rtl-sahra-wagenknecht-christian-lindner-und-gregor-gysi-im-spiegel-blog-a-0398d972-d824-4853-9131-b7537e899837#ref=rss)
+### christian
+
+* [https://www.spiegel.de/politik/deutschland/kreuzverhoer-bei-rtl-sahra-wagenknecht-christian-lindner-und-gregor-gysi-im-spiegel-blog](https://www.spiegel.de/politik/deutschland/kreuzverhoer-bei-rtl-sahra-wagenknecht-christian-lindner-und-gregor-gysi-im-spiegel-blog-a-0398d972-d824-4853-9131-b7537e899837#ref=rss)
+### lindner
+
+* [https://www.spiegel.de/politik/deutschland/kreuzverhoer-bei-rtl-sahra-wagenknecht-christian-lindner-und-gregor-gysi-im-spiegel-blog](https://www.spiegel.de/politik/deutschland/kreuzverhoer-bei-rtl-sahra-wagenknecht-christian-lindner-und-gregor-gysi-im-spiegel-blog-a-0398d972-d824-4853-9131-b7537e899837#ref=rss)
+### gregor
+
+* [https://www.spiegel.de/politik/deutschland/kreuzverhoer-bei-rtl-sahra-wagenknecht-christian-lindner-und-gregor-gysi-im-spiegel-blog](https://www.spiegel.de/politik/deutschland/kreuzverhoer-bei-rtl-sahra-wagenknecht-christian-lindner-und-gregor-gysi-im-spiegel-blog-a-0398d972-d824-4853-9131-b7537e899837#ref=rss)
+### gysi
+
+* [https://www.spiegel.de/politik/deutschland/kreuzverhoer-bei-rtl-sahra-wagenknecht-christian-lindner-und-gregor-gysi-im-spiegel-blog](https://www.spiegel.de/politik/deutschland/kreuzverhoer-bei-rtl-sahra-wagenknecht-christian-lindner-und-gregor-gysi-im-spiegel-blog-a-0398d972-d824-4853-9131-b7537e899837#ref=rss)
+### spiegelblog
+
+* [https://www.spiegel.de/politik/deutschland/kreuzverhoer-bei-rtl-sahra-wagenknecht-christian-lindner-und-gregor-gysi-im-spiegel-blog](https://www.spiegel.de/politik/deutschland/kreuzverhoer-bei-rtl-sahra-wagenknecht-christian-lindner-und-gregor-gysi-im-spiegel-blog-a-0398d972-d824-4853-9131-b7537e899837#ref=rss)
+### großen
+
+* [https://www.spiegel.de/politik/deutschland/kreuzverhoer-bei-rtl-sahra-wagenknecht-christian-lindner-und-gregor-gysi-im-spiegel-blog](https://www.spiegel.de/politik/deutschland/kreuzverhoer-bei-rtl-sahra-wagenknecht-christian-lindner-und-gregor-gysi-im-spiegel-blog-a-0398d972-d824-4853-9131-b7537e899837#ref=rss)
+* [https://www.spiegel.de/politik/bundestagswahl-2025-warum-diese-menschen-jetzt-in-parteien-eingetreten-sind](https://www.spiegel.de/politik/bundestagswahl-2025-warum-diese-menschen-jetzt-in-parteien-eingetreten-sind-a-50061b22-202d-40a4-af9e-a4747e040839#ref=rss)
+### zunächst
+
+* [https://www.spiegel.de/politik/deutschland/kreuzverhoer-bei-rtl-sahra-wagenknecht-christian-lindner-und-gregor-gysi-im-spiegel-blog](https://www.spiegel.de/politik/deutschland/kreuzverhoer-bei-rtl-sahra-wagenknecht-christian-lindner-und-gregor-gysi-im-spiegel-blog-a-0398d972-d824-4853-9131-b7537e899837#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-sv-werder-bremen-unterliegt-tsg-hoffenheim](https://www.spiegel.de/sport/fussball/fussball-bundesliga-sv-werder-bremen-unterliegt-tsg-hoffenheim-a-1869c3c5-bacb-42bb-b051-2e0a4332cf47#ref=rss)
+### testen
+
+* [https://www.spiegel.de/geschichte/bundestageswahl-testen-sie-ihr-geschichtswissen-welcher-politiker-liess-1994-alle-huellen-fallen](https://www.spiegel.de/geschichte/bundestageswahl-testen-sie-ihr-geschichtswissen-welcher-politiker-liess-1994-alle-huellen-fallen-a-4ec82bbd-b12e-4b68-bc89-a5c77a9a0cae#ref=rss)
+### politiker
+
+* [https://www.spiegel.de/geschichte/bundestageswahl-testen-sie-ihr-geschichtswissen-welcher-politiker-liess-1994-alle-huellen-fallen](https://www.spiegel.de/geschichte/bundestageswahl-testen-sie-ihr-geschichtswissen-welcher-politiker-liess-1994-alle-huellen-fallen-a-4ec82bbd-b12e-4b68-bc89-a5c77a9a0cae#ref=rss)
+* [https://www.spiegel.de/ausland/wie-das-verbrechen-von-villach-oesterreich-veraenderrt-messerangriff-war-is-anschlag](https://www.spiegel.de/ausland/wie-das-verbrechen-von-villach-oesterreich-veraenderrt-messerangriff-war-is-anschlag-a-f6fdbeb6-f2f7-4ab4-ab36-ea41e9eb2cf5#ref=rss)
+### alle
+
+* [https://www.spiegel.de/geschichte/bundestageswahl-testen-sie-ihr-geschichtswissen-welcher-politiker-liess-1994-alle-huellen-fallen](https://www.spiegel.de/geschichte/bundestageswahl-testen-sie-ihr-geschichtswissen-welcher-politiker-liess-1994-alle-huellen-fallen-a-4ec82bbd-b12e-4b68-bc89-a5c77a9a0cae#ref=rss)
+* [https://www.spiegel.de/politik/bundestagswahl-2025-warum-diese-menschen-jetzt-in-parteien-eingetreten-sind](https://www.spiegel.de/politik/bundestagswahl-2025-warum-diese-menschen-jetzt-in-parteien-eingetreten-sind-a-50061b22-202d-40a4-af9e-a4747e040839#ref=rss)
+### partei
+
+* [https://www.spiegel.de/geschichte/bundestageswahl-testen-sie-ihr-geschichtswissen-welcher-politiker-liess-1994-alle-huellen-fallen](https://www.spiegel.de/geschichte/bundestageswahl-testen-sie-ihr-geschichtswissen-welcher-politiker-liess-1994-alle-huellen-fallen-a-4ec82bbd-b12e-4b68-bc89-a5c77a9a0cae#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-unterwegs-mit-volt-spitzenkandidatin-maral-koohestanian](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-unterwegs-mit-volt-spitzenkandidatin-maral-koohestanian-a-7e588e90-1a80-40ed-af1c-6b6e09b4075f#ref=rss)
+### warb
+
+* [https://www.spiegel.de/geschichte/bundestageswahl-testen-sie-ihr-geschichtswissen-welcher-politiker-liess-1994-alle-huellen-fallen](https://www.spiegel.de/geschichte/bundestageswahl-testen-sie-ihr-geschichtswissen-welcher-politiker-liess-1994-alle-huellen-fallen-a-4ec82bbd-b12e-4b68-bc89-a5c77a9a0cae#ref=rss)
+* [https://www.spiegel.de/ausland/israel-us-aussenminister-marco-rubio-brandmarkt-iran-als-bedrohung](https://www.spiegel.de/ausland/israel-us-aussenminister-marco-rubio-brandmarkt-iran-als-bedrohung-a-7c3fdc40-cc1e-420c-8a8a-0c8768adb4c0#ref=rss)
+### wissen
+
+* [https://www.spiegel.de/geschichte/bundestageswahl-testen-sie-ihr-geschichtswissen-welcher-politiker-liess-1994-alle-huellen-fallen](https://www.spiegel.de/geschichte/bundestageswahl-testen-sie-ihr-geschichtswissen-welcher-politiker-liess-1994-alle-huellen-fallen-a-4ec82bbd-b12e-4b68-bc89-a5c77a9a0cae#ref=rss)
+* [https://www.spiegel.de/ausland/ukrainekrieg-washington-will-wissen-welche-sicherheitsgarantien-die-eu-fuer-kyjiw-bietet](https://www.spiegel.de/ausland/ukrainekrieg-washington-will-wissen-welche-sicherheitsgarantien-die-eu-fuer-kyjiw-bietet-a-064729ac-d12f-4d9a-9a53-c4895259af67#ref=rss)
+### trans
+
+* [https://www.spiegel.de/panorama/trans-mann-wurde-nach-wochenlanger-folter-ermordet](https://www.spiegel.de/panorama/trans-mann-wurde-nach-wochenlanger-folter-ermordet-a-26415642-9e33-43c2-a650-07fc9ad89ebb#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/trans-mann-wurde-nach-wochenlanger-folter-ermordet](https://www.spiegel.de/panorama/trans-mann-wurde-nach-wochenlanger-folter-ermordet-a-26415642-9e33-43c2-a650-07fc9ad89ebb#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/herten-mann-schlaegt-offenbar-mit-axt-auf-kontrahenten-ein-und-fluechtet](https://www.spiegel.de/panorama/justiz/herten-mann-schlaegt-offenbar-mit-axt-auf-kontrahenten-ein-und-fluechtet-a-2e48a054-92a4-487d-ba45-70d6ffc692b2#ref=rss)
+### verhaftet
+
+* [https://www.spiegel.de/panorama/trans-mann-wurde-nach-wochenlanger-folter-ermordet](https://www.spiegel.de/panorama/trans-mann-wurde-nach-wochenlanger-folter-ermordet-a-26415642-9e33-43c2-a650-07fc9ad89ebb#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/herten-mann-schlaegt-offenbar-mit-axt-auf-kontrahenten-ein-und-fluechtet](https://www.spiegel.de/panorama/justiz/herten-mann-schlaegt-offenbar-mit-axt-auf-kontrahenten-ein-und-fluechtet-a-2e48a054-92a4-487d-ba45-70d6ffc692b2#ref=rss)
+### drei
+
+* [https://www.spiegel.de/panorama/trans-mann-wurde-nach-wochenlanger-folter-ermordet](https://www.spiegel.de/panorama/trans-mann-wurde-nach-wochenlanger-folter-ermordet-a-26415642-9e33-43c2-a650-07fc9ad89ebb#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/ski-wm-in-saalbach-2025-linus-strasser-bewahrt-deutsches-team-mit-slalombronze-vor-debakel](https://www.spiegel.de/sport/wintersport/ski-wm-in-saalbach-2025-linus-strasser-bewahrt-deutsches-team-mit-slalombronze-vor-debakel-a-596cfea0-8385-4426-8568-db45756459b5#ref=rss)
+### usa
+
+* [https://www.spiegel.de/ausland/ukrainekrieg-washington-will-wissen-welche-sicherheitsgarantien-die-eu-fuer-kyjiw-bietet](https://www.spiegel.de/ausland/ukrainekrieg-washington-will-wissen-welche-sicherheitsgarantien-die-eu-fuer-kyjiw-bietet-a-064729ac-d12f-4d9a-9a53-c4895259af67#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/pornhub-und-co-gegen-regulierer-wie-leicht-darf-es-sein-online-pornos-zu-schauen](https://www.spiegel.de/netzwelt/netzpolitik/pornhub-und-co-gegen-regulierer-wie-leicht-darf-es-sein-online-pornos-zu-schauen-a-a5513c42-433c-4550-9830-346a57542b98#ref=rss)
+### europa
+
+* [https://www.spiegel.de/ausland/ukrainekrieg-washington-will-wissen-welche-sicherheitsgarantien-die-eu-fuer-kyjiw-bietet](https://www.spiegel.de/ausland/ukrainekrieg-washington-will-wissen-welche-sicherheitsgarantien-die-eu-fuer-kyjiw-bietet-a-064729ac-d12f-4d9a-9a53-c4895259af67#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-unterwegs-mit-volt-spitzenkandidatin-maral-koohestanian](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-unterwegs-mit-volt-spitzenkandidatin-maral-koohestanian-a-7e588e90-1a80-40ed-af1c-6b6e09b4075f#ref=rss)
+### fußballbundesliga
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-sv-werder-bremen-unterliegt-tsg-hoffenheim](https://www.spiegel.de/sport/fussball/fussball-bundesliga-sv-werder-bremen-unterliegt-tsg-hoffenheim-a-1869c3c5-bacb-42bb-b051-2e0a4332cf47#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-rettet-punkt-gegen-schlusslicht-jahn-regensburg-in-chaotischem-spiel](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-rettet-punkt-gegen-schlusslicht-jahn-regensburg-in-chaotischem-spiel-a-a0609250-3b2f-4eb5-bba3-9b0e27b4b1ff#ref=rss)
+### werder
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-sv-werder-bremen-unterliegt-tsg-hoffenheim](https://www.spiegel.de/sport/fussball/fussball-bundesliga-sv-werder-bremen-unterliegt-tsg-hoffenheim-a-1869c3c5-bacb-42bb-b051-2e0a4332cf47#ref=rss)
+### bremen
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-sv-werder-bremen-unterliegt-tsg-hoffenheim](https://www.spiegel.de/sport/fussball/fussball-bundesliga-sv-werder-bremen-unterliegt-tsg-hoffenheim-a-1869c3c5-bacb-42bb-b051-2e0a4332cf47#ref=rss)
+### tsg
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-sv-werder-bremen-unterliegt-tsg-hoffenheim](https://www.spiegel.de/sport/fussball/fussball-bundesliga-sv-werder-bremen-unterliegt-tsg-hoffenheim-a-1869c3c5-bacb-42bb-b051-2e0a4332cf47#ref=rss)
+### hoffenheim
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-sv-werder-bremen-unterliegt-tsg-hoffenheim](https://www.spiegel.de/sport/fussball/fussball-bundesliga-sv-werder-bremen-unterliegt-tsg-hoffenheim-a-1869c3c5-bacb-42bb-b051-2e0a4332cf47#ref=rss)
+### sah
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-sv-werder-bremen-unterliegt-tsg-hoffenheim](https://www.spiegel.de/sport/fussball/fussball-bundesliga-sv-werder-bremen-unterliegt-tsg-hoffenheim-a-1869c3c5-bacb-42bb-b051-2e0a4332cf47#ref=rss)
+### pornhub
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/pornhub-und-co-gegen-regulierer-wie-leicht-darf-es-sein-online-pornos-zu-schauen](https://www.spiegel.de/netzwelt/netzpolitik/pornhub-und-co-gegen-regulierer-wie-leicht-darf-es-sein-online-pornos-zu-schauen-a-a5513c42-433c-4550-9830-346a57542b98#ref=rss)
+### etwas
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/pornhub-und-co-gegen-regulierer-wie-leicht-darf-es-sein-online-pornos-zu-schauen](https://www.spiegel.de/netzwelt/netzpolitik/pornhub-und-co-gegen-regulierer-wie-leicht-darf-es-sein-online-pornos-zu-schauen-a-a5513c42-433c-4550-9830-346a57542b98#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/psychologie-sind-frauen-grosszuegiger-als-maenner](https://www.spiegel.de/wissenschaft/mensch/psychologie-sind-frauen-grosszuegiger-als-maenner-a-15c46dc4-fa91-4c9a-99f3-6582f8ce34db#ref=rss)
+### junge
+
+* [https://www.spiegel.de/start/bundestagswahl-2025-ehrenamt-gegen-frust-so-kaempfen-junge-menschen-fuer-die-demokratie](https://www.spiegel.de/start/bundestagswahl-2025-ehrenamt-gegen-frust-so-kaempfen-junge-menschen-fuer-die-demokratie-a-393e664c-0098-4579-86f7-29c0ce703110#ref=rss)
+### eigenen
+
+* [https://www.spiegel.de/start/bundestagswahl-2025-ehrenamt-gegen-frust-so-kaempfen-junge-menschen-fuer-die-demokratie](https://www.spiegel.de/start/bundestagswahl-2025-ehrenamt-gegen-frust-so-kaempfen-junge-menschen-fuer-die-demokratie-a-393e664c-0098-4579-86f7-29c0ce703110#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/ski-wm-in-saalbach-2025-linus-strasser-sichert-bronze-im-slalom-fuer-deutschland](https://www.spiegel.de/sport/wintersport/ski-wm-in-saalbach-2025-linus-strasser-sichert-bronze-im-slalom-fuer-deutschland-a-b4aba630-1fe3-4879-9898-0cfe053b4992#ref=rss)
+### parteien
+
+* [https://www.spiegel.de/politik/bundestagswahl-2025-warum-diese-menschen-jetzt-in-parteien-eingetreten-sind](https://www.spiegel.de/politik/bundestagswahl-2025-warum-diese-menschen-jetzt-in-parteien-eingetreten-sind-a-50061b22-202d-40a4-af9e-a4747e040839#ref=rss)
+### tatort
+
+* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-berlin-vier-leben-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-berlin-vier-leben-im-schnellcheck-a-d78981c8-6b7b-46cc-91f2-73fc48939f71#ref=rss)
+### vergessen
+
+* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-berlin-vier-leben-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-berlin-vier-leben-im-schnellcheck-a-d78981c8-6b7b-46cc-91f2-73fc48939f71#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/ski-wm-in-saalbach-2025-linus-strasser-bewahrt-deutsches-team-mit-slalombronze-vor-debakel](https://www.spiegel.de/sport/wintersport/ski-wm-in-saalbach-2025-linus-strasser-bewahrt-deutsches-team-mit-slalombronze-vor-debakel-a-596cfea0-8385-4426-8568-db45756459b5#ref=rss)
+### bronze
+
+* [https://www.spiegel.de/sport/wintersport/ski-wm-in-saalbach-2025-linus-strasser-sichert-bronze-im-slalom-fuer-deutschland](https://www.spiegel.de/sport/wintersport/ski-wm-in-saalbach-2025-linus-strasser-sichert-bronze-im-slalom-fuer-deutschland-a-b4aba630-1fe3-4879-9898-0cfe053b4992#ref=rss)
+### slalom
+
+* [https://www.spiegel.de/sport/wintersport/ski-wm-in-saalbach-2025-linus-strasser-sichert-bronze-im-slalom-fuer-deutschland](https://www.spiegel.de/sport/wintersport/ski-wm-in-saalbach-2025-linus-strasser-sichert-bronze-im-slalom-fuer-deutschland-a-b4aba630-1fe3-4879-9898-0cfe053b4992#ref=rss)
+### münchner
+
+* [https://www.spiegel.de/politik/deutschland/kommentar-zur-muenchner-sicherheitskonferenz-es-war-einmal-eine-transatlantische-freundschaft](https://www.spiegel.de/politik/deutschland/kommentar-zur-muenchner-sicherheitskonferenz-es-war-einmal-eine-transatlantische-freundschaft-a-e439b162-3940-467c-a998-038ed40d6a23#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/us-friedensplan-fuer-die-ukraine-das-chaos-ist-das-neue-normal](https://www.spiegel.de/politik/deutschland/us-friedensplan-fuer-die-ukraine-das-chaos-ist-das-neue-normal-a-71b4a91a-e97a-461c-98dd-8fc2cf2051cf#ref=rss)
+### sicherheitskonferenz
+
+* [https://www.spiegel.de/politik/deutschland/kommentar-zur-muenchner-sicherheitskonferenz-es-war-einmal-eine-transatlantische-freundschaft](https://www.spiegel.de/politik/deutschland/kommentar-zur-muenchner-sicherheitskonferenz-es-war-einmal-eine-transatlantische-freundschaft-a-e439b162-3940-467c-a998-038ed40d6a23#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/us-friedensplan-fuer-die-ukraine-das-chaos-ist-das-neue-normal](https://www.spiegel.de/politik/deutschland/us-friedensplan-fuer-die-ukraine-das-chaos-ist-das-neue-normal-a-71b4a91a-e97a-461c-98dd-8fc2cf2051cf#ref=rss)
+### transatlantische
+
+* [https://www.spiegel.de/politik/deutschland/kommentar-zur-muenchner-sicherheitskonferenz-es-war-einmal-eine-transatlantische-freundschaft](https://www.spiegel.de/politik/deutschland/kommentar-zur-muenchner-sicherheitskonferenz-es-war-einmal-eine-transatlantische-freundschaft-a-e439b162-3940-467c-a998-038ed40d6a23#ref=rss)
+* [https://www.spiegel.de/ausland/europaeische-pressestimmen-zur-us-politik-bruch-mit-den-vereinigten-staaten](https://www.spiegel.de/ausland/europaeische-pressestimmen-zur-us-politik-bruch-mit-den-vereinigten-staaten-a-513f3953-fec5-4399-98b0-1fb0186bc8b4#ref=rss)
+### trump
+
+* [https://www.spiegel.de/politik/deutschland/kommentar-zur-muenchner-sicherheitskonferenz-es-war-einmal-eine-transatlantische-freundschaft](https://www.spiegel.de/politik/deutschland/kommentar-zur-muenchner-sicherheitskonferenz-es-war-einmal-eine-transatlantische-freundschaft-a-e439b162-3940-467c-a998-038ed40d6a23#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/us-friedensplan-fuer-die-ukraine-das-chaos-ist-das-neue-normal](https://www.spiegel.de/politik/deutschland/us-friedensplan-fuer-die-ukraine-das-chaos-ist-das-neue-normal-a-71b4a91a-e97a-461c-98dd-8fc2cf2051cf#ref=rss)
+### europäer
+
+* [https://www.spiegel.de/politik/deutschland/kommentar-zur-muenchner-sicherheitskonferenz-es-war-einmal-eine-transatlantische-freundschaft](https://www.spiegel.de/politik/deutschland/kommentar-zur-muenchner-sicherheitskonferenz-es-war-einmal-eine-transatlantische-freundschaft-a-e439b162-3940-467c-a998-038ed40d6a23#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/us-friedensplan-fuer-die-ukraine-das-chaos-ist-das-neue-normal](https://www.spiegel.de/politik/deutschland/us-friedensplan-fuer-die-ukraine-das-chaos-ist-das-neue-normal-a-71b4a91a-e97a-461c-98dd-8fc2cf2051cf#ref=rss)
+### demonstrieren
+
+* [https://www.spiegel.de/politik/deutschland/berlin-mainz-duesseldorf-zehntausende-menschen-demonstrieren-gegen-rechts](https://www.spiegel.de/politik/deutschland/berlin-mainz-duesseldorf-zehntausende-menschen-demonstrieren-gegen-rechts-a-e94fead3-ce48-4541-9cf3-947d345bef58#ref=rss)
+* [https://www.spiegel.de/ausland/israel-us-aussenminister-marco-rubio-brandmarkt-iran-als-bedrohung](https://www.spiegel.de/ausland/israel-us-aussenminister-marco-rubio-brandmarkt-iran-als-bedrohung-a-7c3fdc40-cc1e-420c-8a8a-0c8768adb4c0#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/politik/deutschland/berlin-mainz-duesseldorf-zehntausende-menschen-demonstrieren-gegen-rechts](https://www.spiegel.de/politik/deutschland/berlin-mainz-duesseldorf-zehntausende-menschen-demonstrieren-gegen-rechts-a-e94fead3-ce48-4541-9cf3-947d345bef58#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/ski-wm-in-saalbach-2025-linus-strasser-bewahrt-deutsches-team-mit-slalombronze-vor-debakel](https://www.spiegel.de/sport/wintersport/ski-wm-in-saalbach-2025-linus-strasser-bewahrt-deutsches-team-mit-slalombronze-vor-debakel-a-596cfea0-8385-4426-8568-db45756459b5#ref=rss)
+### tana
+
+* [https://www.spiegel.de/ausland/klimakrise-wie-extremwetter-am-tana-river-in-kenia-die-gewalt-anfacht](https://www.spiegel.de/ausland/klimakrise-wie-extremwetter-am-tana-river-in-kenia-die-gewalt-anfacht-a-78d51f4b-44fd-48b4-b27d-b43b3ad246c0#ref=rss)
+### river
+
+* [https://www.spiegel.de/ausland/klimakrise-wie-extremwetter-am-tana-river-in-kenia-die-gewalt-anfacht](https://www.spiegel.de/ausland/klimakrise-wie-extremwetter-am-tana-river-in-kenia-die-gewalt-anfacht-a-78d51f4b-44fd-48b4-b27d-b43b3ad246c0#ref=rss)
+### quadrat
+
+* [https://www.spiegel.de/karriere/raetsel-der-woche-wie-gross-ist-das-blaue-quadrat](https://www.spiegel.de/karriere/raetsel-der-woche-wie-gross-ist-das-blaue-quadrat-a-c0be3cc7-8a40-4c58-a85f-15d1f34645ce#ref=rss)
+### kreis
+
+* [https://www.spiegel.de/karriere/raetsel-der-woche-wie-gross-ist-das-blaue-quadrat](https://www.spiegel.de/karriere/raetsel-der-woche-wie-gross-ist-das-blaue-quadrat-a-c0be3cc7-8a40-4c58-a85f-15d1f34645ce#ref=rss)
+### amazon
+
+* [https://www.spiegel.de/deinspiegel/kinderbuecher-bei-amazon-ki-generierte-bestseller-mit-fragwuerdigen-covern](https://www.spiegel.de/deinspiegel/kinderbuecher-bei-amazon-ki-generierte-bestseller-mit-fragwuerdigen-covern-a-ee975223-7b85-46df-8ad6-710522e8a184#ref=rss)
+### bestseller
+
+* [https://www.spiegel.de/deinspiegel/kinderbuecher-bei-amazon-ki-generierte-bestseller-mit-fragwuerdigen-covern](https://www.spiegel.de/deinspiegel/kinderbuecher-bei-amazon-ki-generierte-bestseller-mit-fragwuerdigen-covern-a-ee975223-7b85-46df-8ad6-710522e8a184#ref=rss)
+### covern
+
+* [https://www.spiegel.de/deinspiegel/kinderbuecher-bei-amazon-ki-generierte-bestseller-mit-fragwuerdigen-covern](https://www.spiegel.de/deinspiegel/kinderbuecher-bei-amazon-ki-generierte-bestseller-mit-fragwuerdigen-covern-a-ee975223-7b85-46df-8ad6-710522e8a184#ref=rss)
+### pelz
+
+* [https://www.spiegel.de/stil/mode-warum-der-umstrittene-pelz-wieder-im-trend-ist](https://www.spiegel.de/stil/mode-warum-der-umstrittene-pelz-wieder-im-trend-ist-a-c6b8aafd-6edd-439c-b1a8-e3f8d211966b#ref=rss)
+### tiktok
+
+* [https://www.spiegel.de/stil/mode-warum-der-umstrittene-pelz-wieder-im-trend-ist](https://www.spiegel.de/stil/mode-warum-der-umstrittene-pelz-wieder-im-trend-ist-a-c6b8aafd-6edd-439c-b1a8-e3f8d211966b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-und-social-media-wie-wir-mit-unserer-empoerung-unfreiwillig-zu-afd-influencern-werden](https://www.spiegel.de/politik/deutschland/afd-und-social-media-wie-wir-mit-unserer-empoerung-unfreiwillig-zu-afd-influencern-werden-a-fa91f2fc-a41f-4639-aa85-64d75f77eb89#ref=rss)
+### afd
+
+* [https://www.spiegel.de/politik/deutschland/afd-und-social-media-wie-wir-mit-unserer-empoerung-unfreiwillig-zu-afd-influencern-werden](https://www.spiegel.de/politik/deutschland/afd-und-social-media-wie-wir-mit-unserer-empoerung-unfreiwillig-zu-afd-influencern-werden-a-fa91f2fc-a41f-4639-aa85-64d75f77eb89#ref=rss)
+### wir
+
+* [https://www.spiegel.de/politik/deutschland/afd-und-social-media-wie-wir-mit-unserer-empoerung-unfreiwillig-zu-afd-influencern-werden](https://www.spiegel.de/politik/deutschland/afd-und-social-media-wie-wir-mit-unserer-empoerung-unfreiwillig-zu-afd-influencern-werden-a-fa91f2fc-a41f-4639-aa85-64d75f77eb89#ref=rss)
+* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-wie-die-menschen-die-dramatische-zeit-erlebten-folge-4](https://www.spiegel.de/geschichte/zweiter-weltkrieg-wie-die-menschen-die-dramatische-zeit-erlebten-folge-4-a-611818c9-def0-4105-8e89-7402be85d337#ref=rss)
+### zweite
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-rettet-punkt-gegen-schlusslicht-jahn-regensburg-in-chaotischem-spiel](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-rettet-punkt-gegen-schlusslicht-jahn-regensburg-in-chaotischem-spiel-a-a0609250-3b2f-4eb5-bba3-9b0e27b4b1ff#ref=rss)
+* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-wie-die-menschen-die-dramatische-zeit-erlebten-folge-4](https://www.spiegel.de/geschichte/zweiter-weltkrieg-wie-die-menschen-die-dramatische-zeit-erlebten-folge-4-a-611818c9-def0-4105-8e89-7402be85d337#ref=rss)
+### hamburger
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-rettet-punkt-gegen-schlusslicht-jahn-regensburg-in-chaotischem-spiel](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-rettet-punkt-gegen-schlusslicht-jahn-regensburg-in-chaotischem-spiel-a-a0609250-3b2f-4eb5-bba3-9b0e27b4b1ff#ref=rss)
+### bewahrt
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-rettet-punkt-gegen-schlusslicht-jahn-regensburg-in-chaotischem-spiel](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-rettet-punkt-gegen-schlusslicht-jahn-regensburg-in-chaotischem-spiel-a-a0609250-3b2f-4eb5-bba3-9b0e27b4b1ff#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/ski-wm-in-saalbach-2025-linus-strasser-bewahrt-deutsches-team-mit-slalombronze-vor-debakel](https://www.spiegel.de/sport/wintersport/ski-wm-in-saalbach-2025-linus-strasser-bewahrt-deutsches-team-mit-slalombronze-vor-debakel-a-596cfea0-8385-4426-8568-db45756459b5#ref=rss)
+### zeichnen
+
+* [https://www.spiegel.de/ausland/wie-das-verbrechen-von-villach-oesterreich-veraenderrt-messerangriff-war-is-anschlag](https://www.spiegel.de/ausland/wie-das-verbrechen-von-villach-oesterreich-veraenderrt-messerangriff-war-is-anschlag-a-f6fdbeb6-f2f7-4ab4-ab36-ea41e9eb2cf5#ref=rss)
+* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-wie-die-menschen-die-dramatische-zeit-erlebten-folge-4](https://www.spiegel.de/geschichte/zweiter-weltkrieg-wie-die-menschen-die-dramatische-zeit-erlebten-folge-4-a-611818c9-def0-4105-8e89-7402be85d337#ref=rss)
+### gekommen
+
+* [https://www.spiegel.de/panorama/illegale-goldmine-stuerzt-ein-mehr-als-40-tote](https://www.spiegel.de/panorama/illegale-goldmine-stuerzt-ein-mehr-als-40-tote-a-b0701abb-d7f9-43c3-8097-bb2005b27668#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/herten-mann-schlaegt-offenbar-mit-axt-auf-kontrahenten-ein-und-fluechtet](https://www.spiegel.de/panorama/justiz/herten-mann-schlaegt-offenbar-mit-axt-auf-kontrahenten-ein-und-fluechtet-a-2e48a054-92a4-487d-ba45-70d6ffc692b2#ref=rss)
+### israel
+
+* [https://www.spiegel.de/ausland/israel-us-aussenminister-marco-rubio-brandmarkt-iran-als-bedrohung](https://www.spiegel.de/ausland/israel-us-aussenminister-marco-rubio-brandmarkt-iran-als-bedrohung-a-7c3fdc40-cc1e-420c-8a8a-0c8768adb4c0#ref=rss)
+### marco
+
+* [https://www.spiegel.de/ausland/israel-us-aussenminister-marco-rubio-brandmarkt-iran-als-bedrohung](https://www.spiegel.de/ausland/israel-us-aussenminister-marco-rubio-brandmarkt-iran-als-bedrohung-a-7c3fdc40-cc1e-420c-8a8a-0c8768adb4c0#ref=rss)
+### rubio
+
+* [https://www.spiegel.de/ausland/israel-us-aussenminister-marco-rubio-brandmarkt-iran-als-bedrohung](https://www.spiegel.de/ausland/israel-us-aussenminister-marco-rubio-brandmarkt-iran-als-bedrohung-a-7c3fdc40-cc1e-420c-8a8a-0c8768adb4c0#ref=rss)
+### iran
+
+* [https://www.spiegel.de/ausland/israel-us-aussenminister-marco-rubio-brandmarkt-iran-als-bedrohung](https://www.spiegel.de/ausland/israel-us-aussenminister-marco-rubio-brandmarkt-iran-als-bedrohung-a-7c3fdc40-cc1e-420c-8a8a-0c8768adb4c0#ref=rss)
+### herten
+
+* [https://www.spiegel.de/panorama/justiz/herten-mann-schlaegt-offenbar-mit-axt-auf-kontrahenten-ein-und-fluechtet](https://www.spiegel.de/panorama/justiz/herten-mann-schlaegt-offenbar-mit-axt-auf-kontrahenten-ein-und-fluechtet-a-2e48a054-92a4-487d-ba45-70d6ffc692b2#ref=rss)
+### axt
+
+* [https://www.spiegel.de/panorama/justiz/herten-mann-schlaegt-offenbar-mit-axt-auf-kontrahenten-ein-und-fluechtet](https://www.spiegel.de/panorama/justiz/herten-mann-schlaegt-offenbar-mit-axt-auf-kontrahenten-ein-und-fluechtet-a-2e48a054-92a4-487d-ba45-70d6ffc692b2#ref=rss)
+### maral
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-unterwegs-mit-volt-spitzenkandidatin-maral-koohestanian](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-unterwegs-mit-volt-spitzenkandidatin-maral-koohestanian-a-7e588e90-1a80-40ed-af1c-6b6e09b4075f#ref=rss)
+### koohestanian
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-unterwegs-mit-volt-spitzenkandidatin-maral-koohestanian](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-unterwegs-mit-volt-spitzenkandidatin-maral-koohestanian-a-7e588e90-1a80-40ed-af1c-6b6e09b4075f#ref=rss)
+### weltkrieg
+
+* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-wie-die-menschen-die-dramatische-zeit-erlebten-folge-4](https://www.spiegel.de/geschichte/zweiter-weltkrieg-wie-die-menschen-die-dramatische-zeit-erlebten-folge-4-a-611818c9-def0-4105-8e89-7402be85d337#ref=rss)
+### dramatische
+
+* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-wie-die-menschen-die-dramatische-zeit-erlebten-folge-4](https://www.spiegel.de/geschichte/zweiter-weltkrieg-wie-die-menschen-die-dramatische-zeit-erlebten-folge-4-a-611818c9-def0-4105-8e89-7402be85d337#ref=rss)
+### zeit
+
+* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-wie-die-menschen-die-dramatische-zeit-erlebten-folge-4](https://www.spiegel.de/geschichte/zweiter-weltkrieg-wie-die-menschen-die-dramatische-zeit-erlebten-folge-4-a-611818c9-def0-4105-8e89-7402be85d337#ref=rss)
+### erlebten
+
+* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-wie-die-menschen-die-dramatische-zeit-erlebten-folge-4](https://www.spiegel.de/geschichte/zweiter-weltkrieg-wie-die-menschen-die-dramatische-zeit-erlebten-folge-4-a-611818c9-def0-4105-8e89-7402be85d337#ref=rss)
+### folge
+
+* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-wie-die-menschen-die-dramatische-zeit-erlebten-folge-4](https://www.spiegel.de/geschichte/zweiter-weltkrieg-wie-die-menschen-die-dramatische-zeit-erlebten-folge-4-a-611818c9-def0-4105-8e89-7402be85d337#ref=rss)
 
