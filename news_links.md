@@ -4,362 +4,365 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### trump
-
-* [https://www.spiegel.de/kultur/tv/saturday-night-live-stars-feiern-50-jubilaeum-mit-cameos-und-humor](https://www.spiegel.de/kultur/tv/saturday-night-live-stars-feiern-50-jubilaeum-mit-cameos-und-humor-a-8477c838-a6c9-46d6-be1d-3dbbfc16d02a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/intel-broadcom-und-tsmc-pruefen-uebernahme-von-intel-geschaeftsbereichen](https://www.spiegel.de/wirtschaft/unternehmen/intel-broadcom-und-tsmc-pruefen-uebernahme-von-intel-geschaeftsbereichen-a-eeee6241-c2bb-4c13-adcf-438d95a4b902#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-vergleicht-sich-indirekt-mit-napoleon-nun-folgt-die-kritik](https://www.spiegel.de/ausland/donald-trump-vergleicht-sich-indirekt-mit-napoleon-nun-folgt-die-kritik-a-497fc55a-23e0-4386-8297-f79a83ee6328#ref=rss)
-* [https://www.spiegel.de/ausland/verfassungskrise-in-den-usa-trumps-umbau-der-demokratie-und-der-widerstand](https://www.spiegel.de/ausland/verfassungskrise-in-den-usa-trumps-umbau-der-demokratie-und-der-widerstand-a-4ce0cff1-b9c4-42f5-98b7-a9f388af7b24#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-benoetigt-erstmals-hilfe-des-supreme-courts-bei-einem-seiner-dekrete](https://www.spiegel.de/ausland/donald-trump-benoetigt-erstmals-hilfe-des-supreme-courts-bei-einem-seiner-dekrete-a-c80d6263-d281-4a54-b4da-012f299b87ef#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-alice-weidel-afd-wahlkampf-ukraine-russland-alexej-nawalny](https://www.spiegel.de/politik/deutschland/news-alice-weidel-afd-wahlkampf-ukraine-russland-alexej-nawalny-a-e780c0b7-733e-4da9-8a8d-6bde0f48050c#ref=rss)
-### donald
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/intel-broadcom-und-tsmc-pruefen-uebernahme-von-intel-geschaeftsbereichen](https://www.spiegel.de/wirtschaft/unternehmen/intel-broadcom-und-tsmc-pruefen-uebernahme-von-intel-geschaeftsbereichen-a-eeee6241-c2bb-4c13-adcf-438d95a4b902#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-vergleicht-sich-indirekt-mit-napoleon-nun-folgt-die-kritik](https://www.spiegel.de/ausland/donald-trump-vergleicht-sich-indirekt-mit-napoleon-nun-folgt-die-kritik-a-497fc55a-23e0-4386-8297-f79a83ee6328#ref=rss)
-* [https://www.spiegel.de/ausland/verfassungskrise-in-den-usa-trumps-umbau-der-demokratie-und-der-widerstand](https://www.spiegel.de/ausland/verfassungskrise-in-den-usa-trumps-umbau-der-demokratie-und-der-widerstand-a-4ce0cff1-b9c4-42f5-98b7-a9f388af7b24#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-benoetigt-erstmals-hilfe-des-supreme-courts-bei-einem-seiner-dekrete](https://www.spiegel.de/ausland/donald-trump-benoetigt-erstmals-hilfe-des-supreme-courts-bei-einem-seiner-dekrete-a-c80d6263-d281-4a54-b4da-012f299b87ef#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-alice-weidel-afd-wahlkampf-ukraine-russland-alexej-nawalny](https://www.spiegel.de/politik/deutschland/news-alice-weidel-afd-wahlkampf-ukraine-russland-alexej-nawalny-a-e780c0b7-733e-4da9-8a8d-6bde0f48050c#ref=rss)
-### scholz
-
-* [https://www.spiegel.de/politik/deutschland/tv-quadrell-bei-rtl-friedrich-merz-liegt-bei-zuschauern-vorn](https://www.spiegel.de/politik/deutschland/tv-quadrell-bei-rtl-friedrich-merz-liegt-bei-zuschauern-vorn-a-d8377e9d-cb30-4415-8464-5cd00c974c16#ref=rss)
-* [https://www.spiegel.de/panorama/christian-lindner-wuerde-olaf-scholz-nicht-mehr-zu-seiner-hochzeit-einladen](https://www.spiegel.de/panorama/christian-lindner-wuerde-olaf-scholz-nicht-mehr-zu-seiner-hochzeit-einladen-a-4291ea8b-e005-47a0-acae-4094a53d59e7#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-olaf-scholz-draengt-auf-europaeische-mitsprache-bei-friedensgespraechen](https://www.spiegel.de/ausland/ukraine-olaf-scholz-draengt-auf-europaeische-mitsprache-bei-friedensgespraechen-a-ffbb20c6-95f6-4375-a5e2-492ff23bd6a6#ref=rss)
-* [https://www.spiegel.de/kultur/tv/tv-kritik-zur-debatte-der-kanzleranwaerter-als-haette-olaf-scholz-vor-dem-spiegel-geuebt](https://www.spiegel.de/kultur/tv/tv-kritik-zur-debatte-der-kanzleranwaerter-als-haette-olaf-scholz-vor-dem-spiegel-geuebt-a-52f31dc4-fa4b-417e-8b47-fc8a6e8492d7#ref=rss)
-### olaf
-
-* [https://www.spiegel.de/panorama/christian-lindner-wuerde-olaf-scholz-nicht-mehr-zu-seiner-hochzeit-einladen](https://www.spiegel.de/panorama/christian-lindner-wuerde-olaf-scholz-nicht-mehr-zu-seiner-hochzeit-einladen-a-4291ea8b-e005-47a0-acae-4094a53d59e7#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-olaf-scholz-draengt-auf-europaeische-mitsprache-bei-friedensgespraechen](https://www.spiegel.de/ausland/ukraine-olaf-scholz-draengt-auf-europaeische-mitsprache-bei-friedensgespraechen-a-ffbb20c6-95f6-4375-a5e2-492ff23bd6a6#ref=rss)
-* [https://www.spiegel.de/kultur/tv/tv-kritik-zur-debatte-der-kanzleranwaerter-als-haette-olaf-scholz-vor-dem-spiegel-geuebt](https://www.spiegel.de/kultur/tv/tv-kritik-zur-debatte-der-kanzleranwaerter-als-haette-olaf-scholz-vor-dem-spiegel-geuebt-a-52f31dc4-fa4b-417e-8b47-fc8a6e8492d7#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/bundestagswahl-2025-offenbar-brandanschlag-auf-bus-von-spd-politikerin-nina-scheer](https://www.spiegel.de/panorama/bundestagswahl-2025-offenbar-brandanschlag-auf-bus-von-spd-politikerin-nina-scheer-a-d85521fb-db80-4305-9881-16b5f00d1d7d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/19-jaehrige-mit-messer-angegriffen-und-lebensgefaehrlich-verletzt](https://www.spiegel.de/panorama/justiz/19-jaehrige-mit-messer-angegriffen-und-lebensgefaehrlich-verletzt-a-bca08dae-c59a-4f9d-a5b0-7eac793fe462#ref=rss)
-* [https://www.spiegel.de/panorama/eichstetten-am-kaiserstuhl-nahe-freiburg-polizei-erschiesst-bewaffneten-mann](https://www.spiegel.de/panorama/eichstetten-am-kaiserstuhl-nahe-freiburg-polizei-erschiesst-bewaffneten-mann-a-815dcba6-ab09-4439-aee9-6eafd8332a17#ref=rss)
-### usa
-
-* [https://www.spiegel.de/panorama/leute/prinz-harry-richter-ordnet-offenlegung-seiner-visumsunterlagen-an](https://www.spiegel.de/panorama/leute/prinz-harry-richter-ordnet-offenlegung-seiner-visumsunterlagen-an-a-a3020168-2df5-40be-a275-930db93c0653#ref=rss)
-* [https://www.spiegel.de/ausland/verfassungskrise-in-den-usa-trumps-umbau-der-demokratie-und-der-widerstand](https://www.spiegel.de/ausland/verfassungskrise-in-den-usa-trumps-umbau-der-demokratie-und-der-widerstand-a-4ce0cff1-b9c4-42f5-98b7-a9f388af7b24#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-olaf-scholz-draengt-auf-europaeische-mitsprache-bei-friedensgespraechen](https://www.spiegel.de/ausland/ukraine-olaf-scholz-draengt-auf-europaeische-mitsprache-bei-friedensgespraechen-a-ffbb20c6-95f6-4375-a5e2-492ff23bd6a6#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/tv-quadrell-bei-rtl-friedrich-merz-liegt-bei-zuschauern-vorn](https://www.spiegel.de/politik/deutschland/tv-quadrell-bei-rtl-friedrich-merz-liegt-bei-zuschauern-vorn-a-d8377e9d-cb30-4415-8464-5cd00c974c16#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-friedrich-merz-stellt-koalition-mit-spd-oder-gruenen-in-aussicht](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-friedrich-merz-stellt-koalition-mit-spd-oder-gruenen-in-aussicht-a-56edc29e-58da-49dc-9702-1a59879c0dbc#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/panorama/bundestagswahl-2025-offenbar-brandanschlag-auf-bus-von-spd-politikerin-nina-scheer](https://www.spiegel.de/panorama/bundestagswahl-2025-offenbar-brandanschlag-auf-bus-von-spd-politikerin-nina-scheer-a-d85521fb-db80-4305-9881-16b5f00d1d7d#ref=rss)
-* [https://www.spiegel.de/panorama/christian-lindner-wuerde-olaf-scholz-nicht-mehr-zu-seiner-hochzeit-einladen](https://www.spiegel.de/panorama/christian-lindner-wuerde-olaf-scholz-nicht-mehr-zu-seiner-hochzeit-einladen-a-4291ea8b-e005-47a0-acae-4094a53d59e7#ref=rss)
-* [https://www.spiegel.de/panorama/eichstetten-am-kaiserstuhl-nahe-freiburg-polizei-erschiesst-bewaffneten-mann](https://www.spiegel.de/panorama/eichstetten-am-kaiserstuhl-nahe-freiburg-polizei-erschiesst-bewaffneten-mann-a-815dcba6-ab09-4439-aee9-6eafd8332a17#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/panorama/gesellschaft/polenmarkt-hohenwutzen-grenzgaenger-auf-schnaeppchenjagd](https://www.spiegel.de/panorama/gesellschaft/polenmarkt-hohenwutzen-grenzgaenger-auf-schnaeppchenjagd-a-fce9488b-7ebb-47bf-a701-b1c59c175f53#ref=rss)
-* [https://www.spiegel.de/panorama/christian-lindner-wuerde-olaf-scholz-nicht-mehr-zu-seiner-hochzeit-einladen](https://www.spiegel.de/panorama/christian-lindner-wuerde-olaf-scholz-nicht-mehr-zu-seiner-hochzeit-einladen-a-4291ea8b-e005-47a0-acae-4094a53d59e7#ref=rss)
-* [https://www.spiegel.de/kultur/tv/tv-kritik-zur-debatte-der-kanzleranwaerter-als-haette-olaf-scholz-vor-dem-spiegel-geuebt](https://www.spiegel.de/kultur/tv/tv-kritik-zur-debatte-der-kanzleranwaerter-als-haette-olaf-scholz-vor-dem-spiegel-geuebt-a-52f31dc4-fa4b-417e-8b47-fc8a6e8492d7#ref=rss)
-### arbeiten
-
-* [https://www.spiegel.de/karriere/mobiles-arbeiten-im-ausland-tipps-fuer-das-rechtssichere-arbeiten-unter-der-sonne](https://www.spiegel.de/karriere/mobiles-arbeiten-im-ausland-tipps-fuer-das-rechtssichere-arbeiten-unter-der-sonne-a-87215b3e-03eb-49fe-bbbf-e0ccb2934fad#ref=rss)
-* [https://www.spiegel.de/karriere/mobiles-arbeiten-aus-dem-ausland-mein-fazit-nach-einer-woche-in-portugal](https://www.spiegel.de/karriere/mobiles-arbeiten-aus-dem-ausland-mein-fazit-nach-einer-woche-in-portugal-a-12f0bd65-93cc-44fd-bf3d-ef466bc9eecc#ref=rss)
-### ausland
-
-* [https://www.spiegel.de/karriere/mobiles-arbeiten-im-ausland-tipps-fuer-das-rechtssichere-arbeiten-unter-der-sonne](https://www.spiegel.de/karriere/mobiles-arbeiten-im-ausland-tipps-fuer-das-rechtssichere-arbeiten-unter-der-sonne-a-87215b3e-03eb-49fe-bbbf-e0ccb2934fad#ref=rss)
-* [https://www.spiegel.de/karriere/mobiles-arbeiten-aus-dem-ausland-mein-fazit-nach-einer-woche-in-portugal](https://www.spiegel.de/karriere/mobiles-arbeiten-aus-dem-ausland-mein-fazit-nach-einer-woche-in-portugal-a-12f0bd65-93cc-44fd-bf3d-ef466bc9eecc#ref=rss)
 ### ukraine
 
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-treffen-von-russischer-und-us-delegation-in-saudi-arabien-geplant](https://www.spiegel.de/ausland/russland-ukraine-krieg-treffen-von-russischer-und-us-delegation-in-saudi-arabien-geplant-a-3a111661-5306-45d9-b0f2-b23d80f359ba#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-olaf-scholz-draengt-auf-europaeische-mitsprache-bei-friedensgespraechen](https://www.spiegel.de/ausland/ukraine-olaf-scholz-draengt-auf-europaeische-mitsprache-bei-friedensgespraechen-a-ffbb20c6-95f6-4375-a5e2-492ff23bd6a6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-alice-weidel-afd-wahlkampf-ukraine-russland-alexej-nawalny](https://www.spiegel.de/politik/deutschland/news-alice-weidel-afd-wahlkampf-ukraine-russland-alexej-nawalny-a-e780c0b7-733e-4da9-8a8d-6bde0f48050c#ref=rss)
-### ohne
+* [https://www.spiegel.de/politik/deutschland/news-des-tages](https://www.spiegel.de/politik/deutschland/news-des-tages-a-0d563b20-9ee8-4cc1-bce7-e9bc0751e758#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-abgeordnete-fordern-debatte-ueber-europaeische-friedenstruppen](https://www.spiegel.de/politik/deutschland/ukraine-krieg-abgeordnete-fordern-debatte-ueber-europaeische-friedenstruppen-a-017d4b7f-8f4e-4696-b5f1-7d0e10b418bb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-haelt-debatte-ueber-friedenstruppen-fuer-die-ukraine-fuer-verfrueht](https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-haelt-debatte-ueber-friedenstruppen-fuer-die-ukraine-fuer-verfrueht-a-1e1dc013-2a2a-418d-bd32-54d69593fae8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-das-ist-der-us-fragebogen-an-nato-verbuendete-zur-friedenssicherung](https://www.spiegel.de/politik/deutschland/ukraine-krieg-das-ist-der-us-fragebogen-an-nato-verbuendete-zur-friedenssicherung-a-a49d46e9-0bab-4ea0-9600-b6fbeac4390d#ref=rss)
+### ukrainekrieg
 
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-treffen-von-russischer-und-us-delegation-in-saudi-arabien-geplant](https://www.spiegel.de/ausland/russland-ukraine-krieg-treffen-von-russischer-und-us-delegation-in-saudi-arabien-geplant-a-3a111661-5306-45d9-b0f2-b23d80f359ba#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-friedrich-merz-stellt-koalition-mit-spd-oder-gruenen-in-aussicht](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-friedrich-merz-stellt-koalition-mit-spd-oder-gruenen-in-aussicht-a-56edc29e-58da-49dc-9702-1a59879c0dbc#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-olaf-scholz-draengt-auf-europaeische-mitsprache-bei-friedensgespraechen](https://www.spiegel.de/ausland/ukraine-olaf-scholz-draengt-auf-europaeische-mitsprache-bei-friedensgespraechen-a-ffbb20c6-95f6-4375-a5e2-492ff23bd6a6#ref=rss)
-### rtl
+* [https://www.spiegel.de/ausland/ukraine-krieg-einsatz-von-bodendrohnen-killer-und-lebensretter](https://www.spiegel.de/ausland/ukraine-krieg-einsatz-von-bodendrohnen-killer-und-lebensretter-a-01fe36c0-4e45-4072-ad27-50689f83fa59#ref=rss)
+* [https://www.spiegel.de/politik/ukraine-krieg-olaf-scholz-aeussert-sich-zu-moeglicher-friedenstruppe-im-livestream](https://www.spiegel.de/politik/ukraine-krieg-olaf-scholz-aeussert-sich-zu-moeglicher-friedenstruppe-im-livestream-a-8ea58487-7929-4ecf-a35f-4e0445d6df7f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-abgeordnete-fordern-debatte-ueber-europaeische-friedenstruppen](https://www.spiegel.de/politik/deutschland/ukraine-krieg-abgeordnete-fordern-debatte-ueber-europaeische-friedenstruppen-a-017d4b7f-8f4e-4696-b5f1-7d0e10b418bb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-das-ist-der-us-fragebogen-an-nato-verbuendete-zur-friedenssicherung](https://www.spiegel.de/politik/deutschland/ukraine-krieg-das-ist-der-us-fragebogen-an-nato-verbuendete-zur-friedenssicherung-a-a49d46e9-0bab-4ea0-9600-b6fbeac4390d#ref=rss)
+### deutsche
 
+* [https://www.spiegel.de/wirtschaft/wirtschaft-und-wahlkampf-das-wollen-die-parteien-fuer-deutschlands-industrie-und-den-wohlstand](https://www.spiegel.de/wirtschaft/wirtschaft-und-wahlkampf-das-wollen-die-parteien-fuer-deutschlands-industrie-und-den-wohlstand-a-28c62a97-9c71-4c70-ab6f-1662ef761ad8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages](https://www.spiegel.de/politik/deutschland/news-des-tages-a-0d563b20-9ee8-4cc1-bce7-e9bc0751e758#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-abgeordnete-fordern-debatte-ueber-europaeische-friedenstruppen](https://www.spiegel.de/politik/deutschland/ukraine-krieg-abgeordnete-fordern-debatte-ueber-europaeische-friedenstruppen-a-017d4b7f-8f4e-4696-b5f1-7d0e10b418bb#ref=rss)
+* [https://www.spiegel.de/sport/basketball/basketball-weltmeister-daniel-theis-wechselt-nach-fast-acht-nba-jahren-zur-as-monaco](https://www.spiegel.de/sport/basketball/basketball-weltmeister-daniel-theis-wechselt-nach-fast-acht-nba-jahren-zur-as-monaco-a-5d1332c8-5a9c-4fd7-9511-c4328917f760#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages](https://www.spiegel.de/politik/deutschland/news-des-tages-a-0d563b20-9ee8-4cc1-bce7-e9bc0751e758#ref=rss)
 * [https://www.spiegel.de/politik/deutschland/tv-quadrell-bei-rtl-friedrich-merz-liegt-bei-zuschauern-vorn](https://www.spiegel.de/politik/deutschland/tv-quadrell-bei-rtl-friedrich-merz-liegt-bei-zuschauern-vorn-a-d8377e9d-cb30-4415-8464-5cd00c974c16#ref=rss)
-* [https://www.spiegel.de/kultur/tv/tv-kritik-zur-debatte-der-kanzleranwaerter-als-haette-olaf-scholz-vor-dem-spiegel-geuebt](https://www.spiegel.de/kultur/tv/tv-kritik-zur-debatte-der-kanzleranwaerter-als-haette-olaf-scholz-vor-dem-spiegel-geuebt-a-52f31dc4-fa4b-417e-8b47-fc8a6e8492d7#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/gaza-warum-die-plaene-von-donald-trump-bei-juden-auf-widerspruch-stossen-muessen-meinung](https://www.spiegel.de/ausland/gaza-warum-die-plaene-von-donald-trump-bei-juden-auf-widerspruch-stossen-muessen-meinung-a-07da970f-1096-48c6-93cc-e0028e5944c1#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trumps-sparprogramm-hunderte-mitarbeiter-der-us-luftfahrtbehoerde-per-mail-entlassen](https://www.spiegel.de/ausland/donald-trumps-sparprogramm-hunderte-mitarbeiter-der-us-luftfahrtbehoerde-per-mail-entlassen-a-7b21fdc9-0d20-4d4b-a900-2eec970de599#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/ausland/pankaj-mishra-wie-indiens-starautor-ueber-deutschlands-haltung-zum-gaza-krieg-denkt](https://www.spiegel.de/ausland/pankaj-mishra-wie-indiens-starautor-ueber-deutschlands-haltung-zum-gaza-krieg-denkt-a-27b72903-b34a-4e44-9334-4ba487a43662#ref=rss)
+* [https://www.spiegel.de/panorama/lisa-poettinger-aktivistin-kaempft-vor-gericht-um-lehrerausbildung](https://www.spiegel.de/panorama/lisa-poettinger-aktivistin-kaempft-vor-gericht-um-lehrerausbildung-a-3828a564-8bf4-49dd-80d6-199d1337e469#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/michael-schumacher-familie-legt-im-erpressungsprozess-berufung-ein](https://www.spiegel.de/panorama/justiz/michael-schumacher-familie-legt-im-erpressungsprozess-berufung-ein-a-9e3954b0-c2af-41a9-9c2d-f97432d4613d#ref=rss)
+### einsatz
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-einsatz-von-bodendrohnen-killer-und-lebensretter](https://www.spiegel.de/ausland/ukraine-krieg-einsatz-von-bodendrohnen-killer-und-lebensretter-a-01fe36c0-4e45-4072-ad27-50689f83fa59#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-abgeordnete-fordern-debatte-ueber-europaeische-friedenstruppen](https://www.spiegel.de/politik/deutschland/ukraine-krieg-abgeordnete-fordern-debatte-ueber-europaeische-friedenstruppen-a-017d4b7f-8f4e-4696-b5f1-7d0e10b418bb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-haelt-debatte-ueber-friedenstruppen-fuer-die-ukraine-fuer-verfrueht](https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-haelt-debatte-ueber-friedenstruppen-fuer-die-ukraine-fuer-verfrueht-a-1e1dc013-2a2a-418d-bd32-54d69593fae8#ref=rss)
+### europäische
+
+* [https://www.spiegel.de/wirtschaft/europaeische-union-amundi-chefin-valerie-baudson-sieht-chancen-trotz-populismus](https://www.spiegel.de/wirtschaft/europaeische-union-amundi-chefin-valerie-baudson-sieht-chancen-trotz-populismus-a-ca09bd0a-c54a-4aef-b35d-b239cb0355a1#ref=rss)
+* [https://www.spiegel.de/politik/ukraine-krieg-olaf-scholz-aeussert-sich-zu-moeglicher-friedenstruppe-im-livestream](https://www.spiegel.de/politik/ukraine-krieg-olaf-scholz-aeussert-sich-zu-moeglicher-friedenstruppe-im-livestream-a-8ea58487-7929-4ecf-a35f-4e0445d6df7f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-abgeordnete-fordern-debatte-ueber-europaeische-friedenstruppen](https://www.spiegel.de/politik/deutschland/ukraine-krieg-abgeordnete-fordern-debatte-ueber-europaeische-friedenstruppen-a-017d4b7f-8f4e-4696-b5f1-7d0e10b418bb#ref=rss)
+### olaf
+
+* [https://www.spiegel.de/politik/ukraine-krieg-olaf-scholz-aeussert-sich-zu-moeglicher-friedenstruppe-im-livestream](https://www.spiegel.de/politik/ukraine-krieg-olaf-scholz-aeussert-sich-zu-moeglicher-friedenstruppe-im-livestream-a-8ea58487-7929-4ecf-a35f-4e0445d6df7f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-haelt-debatte-ueber-friedenstruppen-fuer-die-ukraine-fuer-verfrueht](https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-haelt-debatte-ueber-friedenstruppen-fuer-die-ukraine-fuer-verfrueht-a-1e1dc013-2a2a-418d-bd32-54d69593fae8#ref=rss)
+### scholz
+
+* [https://www.spiegel.de/politik/ukraine-krieg-olaf-scholz-aeussert-sich-zu-moeglicher-friedenstruppe-im-livestream](https://www.spiegel.de/politik/ukraine-krieg-olaf-scholz-aeussert-sich-zu-moeglicher-friedenstruppe-im-livestream-a-8ea58487-7929-4ecf-a35f-4e0445d6df7f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-haelt-debatte-ueber-friedenstruppen-fuer-die-ukraine-fuer-verfrueht](https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-haelt-debatte-ueber-friedenstruppen-fuer-die-ukraine-fuer-verfrueht-a-1e1dc013-2a2a-418d-bd32-54d69593fae8#ref=rss)
+### usa
+
+* [https://www.spiegel.de/politik/ukraine-krieg-olaf-scholz-aeussert-sich-zu-moeglicher-friedenstruppe-im-livestream](https://www.spiegel.de/politik/ukraine-krieg-olaf-scholz-aeussert-sich-zu-moeglicher-friedenstruppe-im-livestream-a-8ea58487-7929-4ecf-a35f-4e0445d6df7f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages](https://www.spiegel.de/politik/deutschland/news-des-tages-a-0d563b20-9ee8-4cc1-bce7-e9bc0751e758#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-das-ist-der-us-fragebogen-an-nato-verbuendete-zur-friedenssicherung](https://www.spiegel.de/politik/deutschland/ukraine-krieg-das-ist-der-us-fragebogen-an-nato-verbuendete-zur-friedenssicherung-a-a49d46e9-0bab-4ea0-9600-b6fbeac4390d#ref=rss)
 ### friedrich
 
+* [https://www.spiegel.de/politik/deutschland/news-des-tages](https://www.spiegel.de/politik/deutschland/news-des-tages-a-0d563b20-9ee8-4cc1-bce7-e9bc0751e758#ref=rss)
 * [https://www.spiegel.de/politik/deutschland/tv-quadrell-bei-rtl-friedrich-merz-liegt-bei-zuschauern-vorn](https://www.spiegel.de/politik/deutschland/tv-quadrell-bei-rtl-friedrich-merz-liegt-bei-zuschauern-vorn-a-d8377e9d-cb30-4415-8464-5cd00c974c16#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-friedrich-merz-stellt-koalition-mit-spd-oder-gruenen-in-aussicht](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-friedrich-merz-stellt-koalition-mit-spd-oder-gruenen-in-aussicht-a-56edc29e-58da-49dc-9702-1a59879c0dbc#ref=rss)
-### weidel
+### gaza
 
-* [https://www.spiegel.de/politik/deutschland/tv-quadrell-bei-rtl-friedrich-merz-liegt-bei-zuschauern-vorn](https://www.spiegel.de/politik/deutschland/tv-quadrell-bei-rtl-friedrich-merz-liegt-bei-zuschauern-vorn-a-d8377e9d-cb30-4415-8464-5cd00c974c16#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-alice-weidel-afd-wahlkampf-ukraine-russland-alexej-nawalny](https://www.spiegel.de/politik/deutschland/news-alice-weidel-afd-wahlkampf-ukraine-russland-alexej-nawalny-a-e780c0b7-733e-4da9-8a8d-6bde0f48050c#ref=rss)
-* [https://www.spiegel.de/kultur/tv/tv-kritik-zur-debatte-der-kanzleranwaerter-als-haette-olaf-scholz-vor-dem-spiegel-geuebt](https://www.spiegel.de/kultur/tv/tv-kritik-zur-debatte-der-kanzleranwaerter-als-haette-olaf-scholz-vor-dem-spiegel-geuebt-a-52f31dc4-fa4b-417e-8b47-fc8a6e8492d7#ref=rss)
-### napoleon
+* [https://www.spiegel.de/ausland/gaza-warum-die-plaene-von-donald-trump-bei-juden-auf-widerspruch-stossen-muessen-meinung](https://www.spiegel.de/ausland/gaza-warum-die-plaene-von-donald-trump-bei-juden-auf-widerspruch-stossen-muessen-meinung-a-07da970f-1096-48c6-93cc-e0028e5944c1#ref=rss)
+* [https://www.spiegel.de/ausland/pankaj-mishra-wie-indiens-starautor-ueber-deutschlands-haltung-zum-gaza-krieg-denkt](https://www.spiegel.de/ausland/pankaj-mishra-wie-indiens-starautor-ueber-deutschlands-haltung-zum-gaza-krieg-denkt-a-27b72903-b34a-4e44-9334-4ba487a43662#ref=rss)
+### trump
 
-* [https://www.spiegel.de/ausland/donald-trump-vergleicht-sich-indirekt-mit-napoleon-nun-folgt-die-kritik](https://www.spiegel.de/ausland/donald-trump-vergleicht-sich-indirekt-mit-napoleon-nun-folgt-die-kritik-a-497fc55a-23e0-4386-8297-f79a83ee6328#ref=rss)
-### mann
+* [https://www.spiegel.de/ausland/gaza-warum-die-plaene-von-donald-trump-bei-juden-auf-widerspruch-stossen-muessen-meinung](https://www.spiegel.de/ausland/gaza-warum-die-plaene-von-donald-trump-bei-juden-auf-widerspruch-stossen-muessen-meinung-a-07da970f-1096-48c6-93cc-e0028e5944c1#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trumps-sparprogramm-hunderte-mitarbeiter-der-us-luftfahrtbehoerde-per-mail-entlassen](https://www.spiegel.de/ausland/donald-trumps-sparprogramm-hunderte-mitarbeiter-der-us-luftfahrtbehoerde-per-mail-entlassen-a-7b21fdc9-0d20-4d4b-a900-2eec970de599#ref=rss)
+### friedenstruppen
 
-* [https://www.spiegel.de/panorama/hauseinsturz-in-baden-wuerttemberg-mann-von-truemmern-eingeschlossen-rettungsaktion-laeuft](https://www.spiegel.de/panorama/hauseinsturz-in-baden-wuerttemberg-mann-von-truemmern-eingeschlossen-rettungsaktion-laeuft-a-867366a5-a5c5-458b-821a-8c612a8b4d28#ref=rss)
-* [https://www.spiegel.de/panorama/eichstetten-am-kaiserstuhl-nahe-freiburg-polizei-erschiesst-bewaffneten-mann](https://www.spiegel.de/panorama/eichstetten-am-kaiserstuhl-nahe-freiburg-polizei-erschiesst-bewaffneten-mann-a-815dcba6-ab09-4439-aee9-6eafd8332a17#ref=rss)
-### afd
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-abgeordnete-fordern-debatte-ueber-europaeische-friedenstruppen](https://www.spiegel.de/politik/deutschland/ukraine-krieg-abgeordnete-fordern-debatte-ueber-europaeische-friedenstruppen-a-017d4b7f-8f4e-4696-b5f1-7d0e10b418bb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-haelt-debatte-ueber-friedenstruppen-fuer-die-ukraine-fuer-verfrueht](https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-haelt-debatte-ueber-friedenstruppen-fuer-die-ukraine-fuer-verfrueht-a-1e1dc013-2a2a-418d-bd32-54d69593fae8#ref=rss)
+### pickleball
 
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-friedrich-merz-stellt-koalition-mit-spd-oder-gruenen-in-aussicht](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-friedrich-merz-stellt-koalition-mit-spd-oder-gruenen-in-aussicht-a-56edc29e-58da-49dc-9702-1a59879c0dbc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-alice-weidel-afd-wahlkampf-ukraine-russland-alexej-nawalny](https://www.spiegel.de/politik/deutschland/news-alice-weidel-afd-wahlkampf-ukraine-russland-alexej-nawalny-a-e780c0b7-733e-4da9-8a8d-6bde0f48050c#ref=rss)
-### per
+* [https://www.spiegel.de/sport/tennis/pickleball-slam-steffi-graf-und-andre-agassi-gewinnen-eine-million-us-dollar](https://www.spiegel.de/sport/tennis/pickleball-slam-steffi-graf-und-andre-agassi-gewinnen-eine-million-us-dollar-a-bc038f3f-f30a-4f0b-9a98-fe8b432371ac#ref=rss)
+### bodendrohnen
 
-* [https://www.spiegel.de/ausland/donald-trump-benoetigt-erstmals-hilfe-des-supreme-courts-bei-einem-seiner-dekrete](https://www.spiegel.de/ausland/donald-trump-benoetigt-erstmals-hilfe-des-supreme-courts-bei-einem-seiner-dekrete-a-c80d6263-d281-4a54-b4da-012f299b87ef#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-olaf-scholz-draengt-auf-europaeische-mitsprache-bei-friedensgespraechen](https://www.spiegel.de/ausland/ukraine-olaf-scholz-draengt-auf-europaeische-mitsprache-bei-friedensgespraechen-a-ffbb20c6-95f6-4375-a5e2-492ff23bd6a6#ref=rss)
-* [https://www.spiegel.de/panorama/eichstetten-am-kaiserstuhl-nahe-freiburg-polizei-erschiesst-bewaffneten-mann](https://www.spiegel.de/panorama/eichstetten-am-kaiserstuhl-nahe-freiburg-polizei-erschiesst-bewaffneten-mann-a-815dcba6-ab09-4439-aee9-6eafd8332a17#ref=rss)
-### ich
+* [https://www.spiegel.de/ausland/ukraine-krieg-einsatz-von-bodendrohnen-killer-und-lebensretter](https://www.spiegel.de/ausland/ukraine-krieg-einsatz-von-bodendrohnen-killer-und-lebensretter-a-01fe36c0-4e45-4072-ad27-50689f83fa59#ref=rss)
+### legen
 
-* [https://www.spiegel.de/psychologie/leben-mit-adipositas-wie-yoga-mir-half-meinen-koerper-wieder-zu-schaetzen](https://www.spiegel.de/psychologie/leben-mit-adipositas-wie-yoga-mir-half-meinen-koerper-wieder-zu-schaetzen-a-bf1025f5-dec7-416b-bd5a-ac3a8e690ca5#ref=rss)
-* [https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-vier-leben-mit-corinna-harfouch](https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-vier-leben-mit-corinna-harfouch-a-104a77b2-d259-406b-ae18-812cf559b865#ref=rss)
-### hätte
+* [https://www.spiegel.de/ausland/ukraine-krieg-einsatz-von-bodendrohnen-killer-und-lebensretter](https://www.spiegel.de/ausland/ukraine-krieg-einsatz-von-bodendrohnen-killer-und-lebensretter-a-01fe36c0-4e45-4072-ad27-50689f83fa59#ref=rss)
+* [https://www.spiegel.de/wirtschaft/wirtschaft-und-wahlkampf-das-wollen-die-parteien-fuer-deutschlands-industrie-und-den-wohlstand](https://www.spiegel.de/wirtschaft/wirtschaft-und-wahlkampf-das-wollen-die-parteien-fuer-deutschlands-industrie-und-den-wohlstand-a-28c62a97-9c71-4c70-ab6f-1662ef761ad8#ref=rss)
+### voran
 
-* [https://www.spiegel.de/politik/deutschland/news-alice-weidel-afd-wahlkampf-ukraine-russland-alexej-nawalny](https://www.spiegel.de/politik/deutschland/news-alice-weidel-afd-wahlkampf-ukraine-russland-alexej-nawalny-a-e780c0b7-733e-4da9-8a8d-6bde0f48050c#ref=rss)
-* [https://www.spiegel.de/kultur/tv/tv-kritik-zur-debatte-der-kanzleranwaerter-als-haette-olaf-scholz-vor-dem-spiegel-geuebt](https://www.spiegel.de/kultur/tv/tv-kritik-zur-debatte-der-kanzleranwaerter-als-haette-olaf-scholz-vor-dem-spiegel-geuebt-a-52f31dc4-fa4b-417e-8b47-fc8a6e8492d7#ref=rss)
-### saturday
+* [https://www.spiegel.de/ausland/ukraine-krieg-einsatz-von-bodendrohnen-killer-und-lebensretter](https://www.spiegel.de/ausland/ukraine-krieg-einsatz-von-bodendrohnen-killer-und-lebensretter-a-01fe36c0-4e45-4072-ad27-50689f83fa59#ref=rss)
+* [https://www.spiegel.de/sport/tennis/pickleball-slam-steffi-graf-und-andre-agassi-gewinnen-eine-million-us-dollar](https://www.spiegel.de/sport/tennis/pickleball-slam-steffi-graf-und-andre-agassi-gewinnen-eine-million-us-dollar-a-bc038f3f-f30a-4f0b-9a98-fe8b432371ac#ref=rss)
+### valérie
 
-* [https://www.spiegel.de/kultur/tv/saturday-night-live-stars-feiern-50-jubilaeum-mit-cameos-und-humor](https://www.spiegel.de/kultur/tv/saturday-night-live-stars-feiern-50-jubilaeum-mit-cameos-und-humor-a-8477c838-a6c9-46d6-be1d-3dbbfc16d02a#ref=rss)
-### night
+* [https://www.spiegel.de/wirtschaft/europaeische-union-amundi-chefin-valerie-baudson-sieht-chancen-trotz-populismus](https://www.spiegel.de/wirtschaft/europaeische-union-amundi-chefin-valerie-baudson-sieht-chancen-trotz-populismus-a-ca09bd0a-c54a-4aef-b35d-b239cb0355a1#ref=rss)
+### baudson
 
-* [https://www.spiegel.de/kultur/tv/saturday-night-live-stars-feiern-50-jubilaeum-mit-cameos-und-humor](https://www.spiegel.de/kultur/tv/saturday-night-live-stars-feiern-50-jubilaeum-mit-cameos-und-humor-a-8477c838-a6c9-46d6-be1d-3dbbfc16d02a#ref=rss)
-### live
+* [https://www.spiegel.de/wirtschaft/europaeische-union-amundi-chefin-valerie-baudson-sieht-chancen-trotz-populismus](https://www.spiegel.de/wirtschaft/europaeische-union-amundi-chefin-valerie-baudson-sieht-chancen-trotz-populismus-a-ca09bd0a-c54a-4aef-b35d-b239cb0355a1#ref=rss)
+### populismus
 
-* [https://www.spiegel.de/kultur/tv/saturday-night-live-stars-feiern-50-jubilaeum-mit-cameos-und-humor](https://www.spiegel.de/kultur/tv/saturday-night-live-stars-feiern-50-jubilaeum-mit-cameos-und-humor-a-8477c838-a6c9-46d6-be1d-3dbbfc16d02a#ref=rss)
-### 50
+* [https://www.spiegel.de/wirtschaft/europaeische-union-amundi-chefin-valerie-baudson-sieht-chancen-trotz-populismus](https://www.spiegel.de/wirtschaft/europaeische-union-amundi-chefin-valerie-baudson-sieht-chancen-trotz-populismus-a-ca09bd0a-c54a-4aef-b35d-b239cb0355a1#ref=rss)
+### pariser
 
-* [https://www.spiegel.de/kultur/tv/saturday-night-live-stars-feiern-50-jubilaeum-mit-cameos-und-humor](https://www.spiegel.de/kultur/tv/saturday-night-live-stars-feiern-50-jubilaeum-mit-cameos-und-humor-a-8477c838-a6c9-46d6-be1d-3dbbfc16d02a#ref=rss)
-### jubiläum
-
-* [https://www.spiegel.de/kultur/tv/saturday-night-live-stars-feiern-50-jubilaeum-mit-cameos-und-humor](https://www.spiegel.de/kultur/tv/saturday-night-live-stars-feiern-50-jubilaeum-mit-cameos-und-humor-a-8477c838-a6c9-46d6-be1d-3dbbfc16d02a#ref=rss)
-### frau
-
-* [https://www.spiegel.de/kultur/tv/saturday-night-live-stars-feiern-50-jubilaeum-mit-cameos-und-humor](https://www.spiegel.de/kultur/tv/saturday-night-live-stars-feiern-50-jubilaeum-mit-cameos-und-humor-a-8477c838-a6c9-46d6-be1d-3dbbfc16d02a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/19-jaehrige-mit-messer-angegriffen-und-lebensgefaehrlich-verletzt](https://www.spiegel.de/panorama/justiz/19-jaehrige-mit-messer-angegriffen-und-lebensgefaehrlich-verletzt-a-bca08dae-c59a-4f9d-a5b0-7eac793fe462#ref=rss)
-### nina
-
-* [https://www.spiegel.de/panorama/bundestagswahl-2025-offenbar-brandanschlag-auf-bus-von-spd-politikerin-nina-scheer](https://www.spiegel.de/panorama/bundestagswahl-2025-offenbar-brandanschlag-auf-bus-von-spd-politikerin-nina-scheer-a-d85521fb-db80-4305-9881-16b5f00d1d7d#ref=rss)
-### scheer
-
-* [https://www.spiegel.de/panorama/bundestagswahl-2025-offenbar-brandanschlag-auf-bus-von-spd-politikerin-nina-scheer](https://www.spiegel.de/panorama/bundestagswahl-2025-offenbar-brandanschlag-auf-bus-von-spd-politikerin-nina-scheer-a-d85521fb-db80-4305-9881-16b5f00d1d7d#ref=rss)
-### nahe
-
-* [https://www.spiegel.de/panorama/gesellschaft/polenmarkt-hohenwutzen-grenzgaenger-auf-schnaeppchenjagd](https://www.spiegel.de/panorama/gesellschaft/polenmarkt-hohenwutzen-grenzgaenger-auf-schnaeppchenjagd-a-fce9488b-7ebb-47bf-a701-b1c59c175f53#ref=rss)
-* [https://www.spiegel.de/panorama/eichstetten-am-kaiserstuhl-nahe-freiburg-polizei-erschiesst-bewaffneten-mann](https://www.spiegel.de/panorama/eichstetten-am-kaiserstuhl-nahe-freiburg-polizei-erschiesst-bewaffneten-mann-a-815dcba6-ab09-4439-aee9-6eafd8332a17#ref=rss)
-### nachbarland
-
-* [https://www.spiegel.de/panorama/gesellschaft/polenmarkt-hohenwutzen-grenzgaenger-auf-schnaeppchenjagd](https://www.spiegel.de/panorama/gesellschaft/polenmarkt-hohenwutzen-grenzgaenger-auf-schnaeppchenjagd-a-fce9488b-7ebb-47bf-a701-b1c59c175f53#ref=rss)
-* [https://www.spiegel.de/ausland/bukavu-miliz-uebernimmt-kontrolle-ueber-provinzhauptstadt-der-demokratischen-republik-kongo](https://www.spiegel.de/ausland/bukavu-miliz-uebernimmt-kontrolle-ueber-provinzhauptstadt-der-demokratischen-republik-kongo-a-d3e4c552-d767-4eed-986e-80abff0ea5ba#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/panorama/gesellschaft/polenmarkt-hohenwutzen-grenzgaenger-auf-schnaeppchenjagd](https://www.spiegel.de/panorama/gesellschaft/polenmarkt-hohenwutzen-grenzgaenger-auf-schnaeppchenjagd-a-fce9488b-7ebb-47bf-a701-b1c59c175f53#ref=rss)
-* [https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-vier-leben-mit-corinna-harfouch](https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-vier-leben-mit-corinna-harfouch-a-104a77b2-d259-406b-ae18-812cf559b865#ref=rss)
-### prinz
-
-* [https://www.spiegel.de/panorama/leute/prinz-harry-richter-ordnet-offenlegung-seiner-visumsunterlagen-an](https://www.spiegel.de/panorama/leute/prinz-harry-richter-ordnet-offenlegung-seiner-visumsunterlagen-an-a-a3020168-2df5-40be-a275-930db93c0653#ref=rss)
-### harry
-
-* [https://www.spiegel.de/panorama/leute/prinz-harry-richter-ordnet-offenlegung-seiner-visumsunterlagen-an](https://www.spiegel.de/panorama/leute/prinz-harry-richter-ordnet-offenlegung-seiner-visumsunterlagen-an-a-a3020168-2df5-40be-a275-930db93c0653#ref=rss)
-### mobiles
-
-* [https://www.spiegel.de/karriere/mobiles-arbeiten-im-ausland-tipps-fuer-das-rechtssichere-arbeiten-unter-der-sonne](https://www.spiegel.de/karriere/mobiles-arbeiten-im-ausland-tipps-fuer-das-rechtssichere-arbeiten-unter-der-sonne-a-87215b3e-03eb-49fe-bbbf-e0ccb2934fad#ref=rss)
-* [https://www.spiegel.de/karriere/mobiles-arbeiten-aus-dem-ausland-mein-fazit-nach-einer-woche-in-portugal](https://www.spiegel.de/karriere/mobiles-arbeiten-aus-dem-ausland-mein-fazit-nach-einer-woche-in-portugal-a-12f0bd65-93cc-44fd-bf3d-ef466bc9eecc#ref=rss)
-### unter
-
-* [https://www.spiegel.de/karriere/mobiles-arbeiten-im-ausland-tipps-fuer-das-rechtssichere-arbeiten-unter-der-sonne](https://www.spiegel.de/karriere/mobiles-arbeiten-im-ausland-tipps-fuer-das-rechtssichere-arbeiten-unter-der-sonne-a-87215b3e-03eb-49fe-bbbf-e0ccb2934fad#ref=rss)
-* [https://www.spiegel.de/panorama/hauseinsturz-in-baden-wuerttemberg-mann-von-truemmern-eingeschlossen-rettungsaktion-laeuft](https://www.spiegel.de/panorama/hauseinsturz-in-baden-wuerttemberg-mann-von-truemmern-eingeschlossen-rettungsaktion-laeuft-a-867366a5-a5c5-458b-821a-8c612a8b4d28#ref=rss)
-### arbeit
-
-* [https://www.spiegel.de/karriere/mobiles-arbeiten-im-ausland-tipps-fuer-das-rechtssichere-arbeiten-unter-der-sonne](https://www.spiegel.de/karriere/mobiles-arbeiten-im-ausland-tipps-fuer-das-rechtssichere-arbeiten-unter-der-sonne-a-87215b3e-03eb-49fe-bbbf-e0ccb2934fad#ref=rss)
-* [https://www.spiegel.de/karriere/mobiles-arbeiten-aus-dem-ausland-mein-fazit-nach-einer-woche-in-portugal](https://www.spiegel.de/karriere/mobiles-arbeiten-aus-dem-ausland-mein-fazit-nach-einer-woche-in-portugal-a-12f0bd65-93cc-44fd-bf3d-ef466bc9eecc#ref=rss)
-### klingt
-
-* [https://www.spiegel.de/karriere/mobiles-arbeiten-im-ausland-tipps-fuer-das-rechtssichere-arbeiten-unter-der-sonne](https://www.spiegel.de/karriere/mobiles-arbeiten-im-ausland-tipps-fuer-das-rechtssichere-arbeiten-unter-der-sonne-a-87215b3e-03eb-49fe-bbbf-e0ccb2934fad#ref=rss)
-* [https://www.spiegel.de/tests/elektronik/bluetooth-plattenspieler-im-test-diese-scheiben-haben-den-funk](https://www.spiegel.de/tests/elektronik/bluetooth-plattenspieler-im-test-diese-scheiben-haben-den-funk-a-5ec017ac-938f-4b7e-8e93-7408569f6735#ref=rss)
-### lange
-
-* [https://www.spiegel.de/karriere/mobiles-arbeiten-im-ausland-tipps-fuer-das-rechtssichere-arbeiten-unter-der-sonne](https://www.spiegel.de/karriere/mobiles-arbeiten-im-ausland-tipps-fuer-das-rechtssichere-arbeiten-unter-der-sonne-a-87215b3e-03eb-49fe-bbbf-e0ccb2934fad#ref=rss)
-* [https://www.spiegel.de/ausland/verfassungskrise-in-den-usa-trumps-umbau-der-demokratie-und-der-widerstand](https://www.spiegel.de/ausland/verfassungskrise-in-den-usa-trumps-umbau-der-demokratie-und-der-widerstand-a-4ce0cff1-b9c4-42f5-98b7-a9f388af7b24#ref=rss)
-### test
-
-* [https://www.spiegel.de/tests/elektronik/bluetooth-plattenspieler-im-test-diese-scheiben-haben-den-funk](https://www.spiegel.de/tests/elektronik/bluetooth-plattenspieler-im-test-diese-scheiben-haben-den-funk-a-5ec017ac-938f-4b7e-8e93-7408569f6735#ref=rss)
-### nie
-
-* [https://www.spiegel.de/tests/elektronik/bluetooth-plattenspieler-im-test-diese-scheiben-haben-den-funk](https://www.spiegel.de/tests/elektronik/bluetooth-plattenspieler-im-test-diese-scheiben-haben-den-funk-a-5ec017ac-938f-4b7e-8e93-7408569f6735#ref=rss)
-* [https://www.spiegel.de/psychologie/leben-mit-adipositas-wie-yoga-mir-half-meinen-koerper-wieder-zu-schaetzen](https://www.spiegel.de/psychologie/leben-mit-adipositas-wie-yoga-mir-half-meinen-koerper-wieder-zu-schaetzen-a-bf1025f5-dec7-416b-bd5a-ac3a8e690ca5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/europaeische-union-amundi-chefin-valerie-baudson-sieht-chancen-trotz-populismus](https://www.spiegel.de/wirtschaft/europaeische-union-amundi-chefin-valerie-baudson-sieht-chancen-trotz-populismus-a-ca09bd0a-c54a-4aef-b35d-b239cb0355a1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-haelt-debatte-ueber-friedenstruppen-fuer-die-ukraine-fuer-verfrueht](https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-haelt-debatte-ueber-friedenstruppen-fuer-die-ukraine-fuer-verfrueht-a-1e1dc013-2a2a-418d-bd32-54d69593fae8#ref=rss)
 ### zeigt
 
-* [https://www.spiegel.de/tests/elektronik/bluetooth-plattenspieler-im-test-diese-scheiben-haben-den-funk](https://www.spiegel.de/tests/elektronik/bluetooth-plattenspieler-im-test-diese-scheiben-haben-den-funk-a-5ec017ac-938f-4b7e-8e93-7408569f6735#ref=rss)
+* [https://www.spiegel.de/wirtschaft/europaeische-union-amundi-chefin-valerie-baudson-sieht-chancen-trotz-populismus](https://www.spiegel.de/wirtschaft/europaeische-union-amundi-chefin-valerie-baudson-sieht-chancen-trotz-populismus-a-ca09bd0a-c54a-4aef-b35d-b239cb0355a1#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/mecklenburg-vorpommern-drei-messerangriffe-und-eine-abschiebung](https://www.spiegel.de/panorama/justiz/mecklenburg-vorpommern-drei-messerangriffe-und-eine-abschiebung-a-6c2e3a4e-a1c7-4660-b219-f824f9d1b18e#ref=rss)
+### drei
+
+* [https://www.spiegel.de/panorama/justiz/mecklenburg-vorpommern-drei-messerangriffe-und-eine-abschiebung](https://www.spiegel.de/panorama/justiz/mecklenburg-vorpommern-drei-messerangriffe-und-eine-abschiebung-a-6c2e3a4e-a1c7-4660-b219-f824f9d1b18e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/michael-schumacher-familie-legt-im-erpressungsprozess-berufung-ein](https://www.spiegel.de/panorama/justiz/michael-schumacher-familie-legt-im-erpressungsprozess-berufung-ein-a-9e3954b0-c2af-41a9-9c2d-f97432d4613d#ref=rss)
+### fall
+
+* [https://www.spiegel.de/panorama/justiz/mecklenburg-vorpommern-drei-messerangriffe-und-eine-abschiebung](https://www.spiegel.de/panorama/justiz/mecklenburg-vorpommern-drei-messerangriffe-und-eine-abschiebung-a-6c2e3a4e-a1c7-4660-b219-f824f9d1b18e#ref=rss)
+* [https://www.spiegel.de/netzwelt/kampf-gegen-falschzitate-im-netz-eine-zumutung-aber-fuer-wen](https://www.spiegel.de/netzwelt/kampf-gegen-falschzitate-im-netz-eine-zumutung-aber-fuer-wen-a-35580426-0d68-4755-8316-1317349736c5#ref=rss)
+### wirtschaft
+
+* [https://www.spiegel.de/wirtschaft/wirtschaft-und-wahlkampf-das-wollen-die-parteien-fuer-deutschlands-industrie-und-den-wohlstand](https://www.spiegel.de/wirtschaft/wirtschaft-und-wahlkampf-das-wollen-die-parteien-fuer-deutschlands-industrie-und-den-wohlstand-a-28c62a97-9c71-4c70-ab6f-1662ef761ad8#ref=rss)
+### wahlkampf
+
+* [https://www.spiegel.de/wirtschaft/wirtschaft-und-wahlkampf-das-wollen-die-parteien-fuer-deutschlands-industrie-und-den-wohlstand](https://www.spiegel.de/wirtschaft/wirtschaft-und-wahlkampf-das-wollen-die-parteien-fuer-deutschlands-industrie-und-den-wohlstand-a-28c62a97-9c71-4c70-ab6f-1662ef761ad8#ref=rss)
+### parteien
+
+* [https://www.spiegel.de/wirtschaft/wirtschaft-und-wahlkampf-das-wollen-die-parteien-fuer-deutschlands-industrie-und-den-wohlstand](https://www.spiegel.de/wirtschaft/wirtschaft-und-wahlkampf-das-wollen-die-parteien-fuer-deutschlands-industrie-und-den-wohlstand-a-28c62a97-9c71-4c70-ab6f-1662ef761ad8#ref=rss)
+### deutschlands
+
+* [https://www.spiegel.de/wirtschaft/wirtschaft-und-wahlkampf-das-wollen-die-parteien-fuer-deutschlands-industrie-und-den-wohlstand](https://www.spiegel.de/wirtschaft/wirtschaft-und-wahlkampf-das-wollen-die-parteien-fuer-deutschlands-industrie-und-den-wohlstand-a-28c62a97-9c71-4c70-ab6f-1662ef761ad8#ref=rss)
+* [https://www.spiegel.de/ausland/pankaj-mishra-wie-indiens-starautor-ueber-deutschlands-haltung-zum-gaza-krieg-denkt](https://www.spiegel.de/ausland/pankaj-mishra-wie-indiens-starautor-ueber-deutschlands-haltung-zum-gaza-krieg-denkt-a-27b72903-b34a-4e44-9334-4ba487a43662#ref=rss)
+### erklärt
+
+* [https://www.spiegel.de/wirtschaft/wirtschaft-und-wahlkampf-das-wollen-die-parteien-fuer-deutschlands-industrie-und-den-wohlstand](https://www.spiegel.de/wirtschaft/wirtschaft-und-wahlkampf-das-wollen-die-parteien-fuer-deutschlands-industrie-und-den-wohlstand-a-28c62a97-9c71-4c70-ab6f-1662ef761ad8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-abgeordnete-fordern-debatte-ueber-europaeische-friedenstruppen](https://www.spiegel.de/politik/deutschland/ukraine-krieg-abgeordnete-fordern-debatte-ueber-europaeische-friedenstruppen-a-017d4b7f-8f4e-4696-b5f1-7d0e10b418bb#ref=rss)
+### bringen
+
+* [https://www.spiegel.de/wirtschaft/wirtschaft-und-wahlkampf-das-wollen-die-parteien-fuer-deutschlands-industrie-und-den-wohlstand](https://www.spiegel.de/wirtschaft/wirtschaft-und-wahlkampf-das-wollen-die-parteien-fuer-deutschlands-industrie-und-den-wohlstand-a-28c62a97-9c71-4c70-ab6f-1662ef761ad8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/duisburg-vor-der-bundestagswahl-fuer-jedes-kreuzchen-ein-bierchen](https://www.spiegel.de/politik/deutschland/duisburg-vor-der-bundestagswahl-fuer-jedes-kreuzchen-ein-bierchen-a-fed16b01-44bc-4ab2-b832-87557c9f163c#ref=rss)
+### stefan
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-stefan-leitl-wird-neuer-trainer-von-hertha-bsc](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-stefan-leitl-wird-neuer-trainer-von-hertha-bsc-a-29af2903-e66e-4dc3-a3f0-3c0846bca092#ref=rss)
+### leitl
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-stefan-leitl-wird-neuer-trainer-von-hertha-bsc](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-stefan-leitl-wird-neuer-trainer-von-hertha-bsc-a-29af2903-e66e-4dc3-a3f0-3c0846bca092#ref=rss)
+### hertha
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-stefan-leitl-wird-neuer-trainer-von-hertha-bsc](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-stefan-leitl-wird-neuer-trainer-von-hertha-bsc-a-29af2903-e66e-4dc3-a3f0-3c0846bca092#ref=rss)
+### bsc
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-stefan-leitl-wird-neuer-trainer-von-hertha-bsc](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-stefan-leitl-wird-neuer-trainer-von-hertha-bsc-a-29af2903-e66e-4dc3-a3f0-3c0846bca092#ref=rss)
+### mehrere
+
+* [https://www.spiegel.de/politik/ukraine-krieg-olaf-scholz-aeussert-sich-zu-moeglicher-friedenstruppe-im-livestream](https://www.spiegel.de/politik/ukraine-krieg-olaf-scholz-aeussert-sich-zu-moeglicher-friedenstruppe-im-livestream-a-8ea58487-7929-4ecf-a35f-4e0445d6df7f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hamm-diebe-klauen-einkaeufe-und-lassen-sieben-packungen-joghurt-zurueck](https://www.spiegel.de/panorama/justiz/hamm-diebe-klauen-einkaeufe-und-lassen-sieben-packungen-joghurt-zurueck-a-3e5d05c9-7b35-46de-96c1-696770791f39#ref=rss)
+### live
+
+* [https://www.spiegel.de/politik/ukraine-krieg-olaf-scholz-aeussert-sich-zu-moeglicher-friedenstruppe-im-livestream](https://www.spiegel.de/politik/ukraine-krieg-olaf-scholz-aeussert-sich-zu-moeglicher-friedenstruppe-im-livestream-a-8ea58487-7929-4ecf-a35f-4e0445d6df7f#ref=rss)
+* [https://www.spiegel.de/kultur/tv/sabrina-carpenter-pedro-pascal-und-bad-bunny-snl-legt-viralen-domingo-sketch-neu-auf](https://www.spiegel.de/kultur/tv/sabrina-carpenter-pedro-pascal-und-bad-bunny-snl-legt-viralen-domingo-sketch-neu-auf-a-f494e1aa-16ae-4435-8883-f01be309635b#ref=rss)
+### renate
+
+* [https://www.spiegel.de/netzwelt/kampf-gegen-falschzitate-im-netz-eine-zumutung-aber-fuer-wen](https://www.spiegel.de/netzwelt/kampf-gegen-falschzitate-im-netz-eine-zumutung-aber-fuer-wen-a-35580426-0d68-4755-8316-1317349736c5#ref=rss)
+### künast
+
+* [https://www.spiegel.de/netzwelt/kampf-gegen-falschzitate-im-netz-eine-zumutung-aber-fuer-wen](https://www.spiegel.de/netzwelt/kampf-gegen-falschzitate-im-netz-eine-zumutung-aber-fuer-wen-a-35580426-0d68-4755-8316-1317349736c5#ref=rss)
+### bundesgerichtshof
+
+* [https://www.spiegel.de/netzwelt/kampf-gegen-falschzitate-im-netz-eine-zumutung-aber-fuer-wen](https://www.spiegel.de/netzwelt/kampf-gegen-falschzitate-im-netz-eine-zumutung-aber-fuer-wen-a-35580426-0d68-4755-8316-1317349736c5#ref=rss)
+### kämpft
+
+* [https://www.spiegel.de/netzwelt/kampf-gegen-falschzitate-im-netz-eine-zumutung-aber-fuer-wen](https://www.spiegel.de/netzwelt/kampf-gegen-falschzitate-im-netz-eine-zumutung-aber-fuer-wen-a-35580426-0d68-4755-8316-1317349736c5#ref=rss)
+* [https://www.spiegel.de/panorama/lisa-poettinger-aktivistin-kaempft-vor-gericht-um-lehrerausbildung](https://www.spiegel.de/panorama/lisa-poettinger-aktivistin-kaempft-vor-gericht-um-lehrerausbildung-a-3828a564-8bf4-49dd-80d6-199d1337e469#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/ausland/gaza-warum-die-plaene-von-donald-trump-bei-juden-auf-widerspruch-stossen-muessen-meinung](https://www.spiegel.de/ausland/gaza-warum-die-plaene-von-donald-trump-bei-juden-auf-widerspruch-stossen-muessen-meinung-a-07da970f-1096-48c6-93cc-e0028e5944c1#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/aegypten-forscher-entdecken-schaedel-eines-urzeitlichen-riesen-raubtiers](https://www.spiegel.de/wissenschaft/natur/aegypten-forscher-entdecken-schaedel-eines-urzeitlichen-riesen-raubtiers-a-ebb14c05-4242-4ec5-90d4-8bbccdcf2a7e#ref=rss)
+### pankaj
+
+* [https://www.spiegel.de/ausland/pankaj-mishra-wie-indiens-starautor-ueber-deutschlands-haltung-zum-gaza-krieg-denkt](https://www.spiegel.de/ausland/pankaj-mishra-wie-indiens-starautor-ueber-deutschlands-haltung-zum-gaza-krieg-denkt-a-27b72903-b34a-4e44-9334-4ba487a43662#ref=rss)
+### mishra
+
+* [https://www.spiegel.de/ausland/pankaj-mishra-wie-indiens-starautor-ueber-deutschlands-haltung-zum-gaza-krieg-denkt](https://www.spiegel.de/ausland/pankaj-mishra-wie-indiens-starautor-ueber-deutschlands-haltung-zum-gaza-krieg-denkt-a-27b72903-b34a-4e44-9334-4ba487a43662#ref=rss)
+### besonders
+
+* [https://www.spiegel.de/ausland/pankaj-mishra-wie-indiens-starautor-ueber-deutschlands-haltung-zum-gaza-krieg-denkt](https://www.spiegel.de/ausland/pankaj-mishra-wie-indiens-starautor-ueber-deutschlands-haltung-zum-gaza-krieg-denkt-a-27b72903-b34a-4e44-9334-4ba487a43662#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/aegypten-forscher-entdecken-schaedel-eines-urzeitlichen-riesen-raubtiers](https://www.spiegel.de/wissenschaft/natur/aegypten-forscher-entdecken-schaedel-eines-urzeitlichen-riesen-raubtiers-a-ebb14c05-4242-4ec5-90d4-8bbccdcf2a7e#ref=rss)
+### madison
+
+* [https://www.spiegel.de/kultur/mikey-madison-bestand-auf-poledance-szene-in-anora-um-ihre-muskeln-zu-zeigen](https://www.spiegel.de/kultur/mikey-madison-bestand-auf-poledance-szene-in-anora-um-ihre-muskeln-zu-zeigen-a-bba04a8e-0ca9-40d2-aaff-bc8e52b19222#ref=rss)
+### berlinale
+
+* [https://www.spiegel.de/kultur/kino/berlinale-2025-filme-ueber-familienhorror-das-ueberlebt-kein-hamster](https://www.spiegel.de/kultur/kino/berlinale-2025-filme-ueber-familienhorror-das-ueberlebt-kein-hamster-a-f9798e5e-5fef-4d7b-875e-ec544f28f934#ref=rss)
+### new
+
+* [https://www.spiegel.de/geschichte/wolkenkratzer-in-new-york-wie-ein-erbitterter-streit-fuer-manhattans-typische-silhouette-sorgte](https://www.spiegel.de/geschichte/wolkenkratzer-in-new-york-wie-ein-erbitterter-streit-fuer-manhattans-typische-silhouette-sorgte-a-bd49fcd8-d3f7-4ad8-99bb-60df63026715#ref=rss)
+### york
+
+* [https://www.spiegel.de/geschichte/wolkenkratzer-in-new-york-wie-ein-erbitterter-streit-fuer-manhattans-typische-silhouette-sorgte](https://www.spiegel.de/geschichte/wolkenkratzer-in-new-york-wie-ein-erbitterter-streit-fuer-manhattans-typische-silhouette-sorgte-a-bd49fcd8-d3f7-4ad8-99bb-60df63026715#ref=rss)
+### knapp
+
+* [https://www.spiegel.de/geschichte/wolkenkratzer-in-new-york-wie-ein-erbitterter-streit-fuer-manhattans-typische-silhouette-sorgte](https://www.spiegel.de/geschichte/wolkenkratzer-in-new-york-wie-ein-erbitterter-streit-fuer-manhattans-typische-silhouette-sorgte-a-bd49fcd8-d3f7-4ad8-99bb-60df63026715#ref=rss)
+* [https://www.spiegel.de/sport/basketball/basketball-weltmeister-daniel-theis-wechselt-nach-fast-acht-nba-jahren-zur-as-monaco](https://www.spiegel.de/sport/basketball/basketball-weltmeister-daniel-theis-wechselt-nach-fast-acht-nba-jahren-zur-as-monaco-a-5d1332c8-5a9c-4fd7-9511-c4328917f760#ref=rss)
+### lisa
+
+* [https://www.spiegel.de/panorama/lisa-poettinger-aktivistin-kaempft-vor-gericht-um-lehrerausbildung](https://www.spiegel.de/panorama/lisa-poettinger-aktivistin-kaempft-vor-gericht-um-lehrerausbildung-a-3828a564-8bf4-49dd-80d6-199d1337e469#ref=rss)
+### poettinger
+
+* [https://www.spiegel.de/panorama/lisa-poettinger-aktivistin-kaempft-vor-gericht-um-lehrerausbildung](https://www.spiegel.de/panorama/lisa-poettinger-aktivistin-kaempft-vor-gericht-um-lehrerausbildung-a-3828a564-8bf4-49dd-80d6-199d1337e469#ref=rss)
+### aktivistin
+
+* [https://www.spiegel.de/panorama/lisa-poettinger-aktivistin-kaempft-vor-gericht-um-lehrerausbildung](https://www.spiegel.de/panorama/lisa-poettinger-aktivistin-kaempft-vor-gericht-um-lehrerausbildung-a-3828a564-8bf4-49dd-80d6-199d1337e469#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/panorama/lisa-poettinger-aktivistin-kaempft-vor-gericht-um-lehrerausbildung](https://www.spiegel.de/panorama/lisa-poettinger-aktivistin-kaempft-vor-gericht-um-lehrerausbildung-a-3828a564-8bf4-49dd-80d6-199d1337e469#ref=rss)
+### sabrina
+
+* [https://www.spiegel.de/kultur/tv/sabrina-carpenter-pedro-pascal-und-bad-bunny-snl-legt-viralen-domingo-sketch-neu-auf](https://www.spiegel.de/kultur/tv/sabrina-carpenter-pedro-pascal-und-bad-bunny-snl-legt-viralen-domingo-sketch-neu-auf-a-f494e1aa-16ae-4435-8883-f01be309635b#ref=rss)
+### carpenter
+
+* [https://www.spiegel.de/kultur/tv/sabrina-carpenter-pedro-pascal-und-bad-bunny-snl-legt-viralen-domingo-sketch-neu-auf](https://www.spiegel.de/kultur/tv/sabrina-carpenter-pedro-pascal-und-bad-bunny-snl-legt-viralen-domingo-sketch-neu-auf-a-f494e1aa-16ae-4435-8883-f01be309635b#ref=rss)
+### pedro
+
+* [https://www.spiegel.de/kultur/tv/sabrina-carpenter-pedro-pascal-und-bad-bunny-snl-legt-viralen-domingo-sketch-neu-auf](https://www.spiegel.de/kultur/tv/sabrina-carpenter-pedro-pascal-und-bad-bunny-snl-legt-viralen-domingo-sketch-neu-auf-a-f494e1aa-16ae-4435-8883-f01be309635b#ref=rss)
+### pascal
+
+* [https://www.spiegel.de/kultur/tv/sabrina-carpenter-pedro-pascal-und-bad-bunny-snl-legt-viralen-domingo-sketch-neu-auf](https://www.spiegel.de/kultur/tv/sabrina-carpenter-pedro-pascal-und-bad-bunny-snl-legt-viralen-domingo-sketch-neu-auf-a-f494e1aa-16ae-4435-8883-f01be309635b#ref=rss)
+### bad
+
+* [https://www.spiegel.de/kultur/tv/sabrina-carpenter-pedro-pascal-und-bad-bunny-snl-legt-viralen-domingo-sketch-neu-auf](https://www.spiegel.de/kultur/tv/sabrina-carpenter-pedro-pascal-und-bad-bunny-snl-legt-viralen-domingo-sketch-neu-auf-a-f494e1aa-16ae-4435-8883-f01be309635b#ref=rss)
+### bunny
+
+* [https://www.spiegel.de/kultur/tv/sabrina-carpenter-pedro-pascal-und-bad-bunny-snl-legt-viralen-domingo-sketch-neu-auf](https://www.spiegel.de/kultur/tv/sabrina-carpenter-pedro-pascal-und-bad-bunny-snl-legt-viralen-domingo-sketch-neu-auf-a-f494e1aa-16ae-4435-8883-f01be309635b#ref=rss)
+### legt
+
+* [https://www.spiegel.de/kultur/tv/sabrina-carpenter-pedro-pascal-und-bad-bunny-snl-legt-viralen-domingo-sketch-neu-auf](https://www.spiegel.de/kultur/tv/sabrina-carpenter-pedro-pascal-und-bad-bunny-snl-legt-viralen-domingo-sketch-neu-auf-a-f494e1aa-16ae-4435-8883-f01be309635b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/michael-schumacher-familie-legt-im-erpressungsprozess-berufung-ein](https://www.spiegel.de/panorama/justiz/michael-schumacher-familie-legt-im-erpressungsprozess-berufung-ein-a-9e3954b0-c2af-41a9-9c2d-f97432d4613d#ref=rss)
+### viralen
+
+* [https://www.spiegel.de/kultur/tv/sabrina-carpenter-pedro-pascal-und-bad-bunny-snl-legt-viralen-domingo-sketch-neu-auf](https://www.spiegel.de/kultur/tv/sabrina-carpenter-pedro-pascal-und-bad-bunny-snl-legt-viralen-domingo-sketch-neu-auf-a-f494e1aa-16ae-4435-8883-f01be309635b#ref=rss)
+### domingosketch
+
+* [https://www.spiegel.de/kultur/tv/sabrina-carpenter-pedro-pascal-und-bad-bunny-snl-legt-viralen-domingo-sketch-neu-auf](https://www.spiegel.de/kultur/tv/sabrina-carpenter-pedro-pascal-und-bad-bunny-snl-legt-viralen-domingo-sketch-neu-auf-a-f494e1aa-16ae-4435-8883-f01be309635b#ref=rss)
+### senken
+
+* [https://www.spiegel.de/wissenschaft/natur/schottland-wie-woelfe-in-den-highlands-co-emissionen-senken-koennten](https://www.spiegel.de/wissenschaft/natur/schottland-wie-woelfe-in-den-highlands-co-emissionen-senken-koennten-a-db0526fa-3bd9-4202-9211-d2ce0c9d8717#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trumps-sparprogramm-hunderte-mitarbeiter-der-us-luftfahrtbehoerde-per-mail-entlassen](https://www.spiegel.de/ausland/donald-trumps-sparprogramm-hunderte-mitarbeiter-der-us-luftfahrtbehoerde-per-mail-entlassen-a-7b21fdc9-0d20-4d4b-a900-2eec970de599#ref=rss)
+### million
+
+* [https://www.spiegel.de/wissenschaft/natur/schottland-wie-woelfe-in-den-highlands-co-emissionen-senken-koennten](https://www.spiegel.de/wissenschaft/natur/schottland-wie-woelfe-in-den-highlands-co-emissionen-senken-koennten-a-db0526fa-3bd9-4202-9211-d2ce0c9d8717#ref=rss)
+* [https://www.spiegel.de/sport/tennis/pickleball-slam-steffi-graf-und-andre-agassi-gewinnen-eine-million-us-dollar](https://www.spiegel.de/sport/tennis/pickleball-slam-steffi-graf-und-andre-agassi-gewinnen-eine-million-us-dollar-a-bc038f3f-f30a-4f0b-9a98-fe8b432371ac#ref=rss)
+### robert
+
 * [https://www.spiegel.de/politik/deutschland/tv-quadrell-bei-rtl-friedrich-merz-liegt-bei-zuschauern-vorn](https://www.spiegel.de/politik/deutschland/tv-quadrell-bei-rtl-friedrich-merz-liegt-bei-zuschauern-vorn-a-d8377e9d-cb30-4415-8464-5cd00c974c16#ref=rss)
-### treffen
-
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-treffen-von-russischer-und-us-delegation-in-saudi-arabien-geplant](https://www.spiegel.de/ausland/russland-ukraine-krieg-treffen-von-russischer-und-us-delegation-in-saudi-arabien-geplant-a-3a111661-5306-45d9-b0f2-b23d80f359ba#ref=rss)
-### russischer
-
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-treffen-von-russischer-und-us-delegation-in-saudi-arabien-geplant](https://www.spiegel.de/ausland/russland-ukraine-krieg-treffen-von-russischer-und-us-delegation-in-saudi-arabien-geplant-a-3a111661-5306-45d9-b0f2-b23d80f359ba#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-alice-weidel-afd-wahlkampf-ukraine-russland-alexej-nawalny](https://www.spiegel.de/politik/deutschland/news-alice-weidel-afd-wahlkampf-ukraine-russland-alexej-nawalny-a-e780c0b7-733e-4da9-8a8d-6bde0f48050c#ref=rss)
-### kyjiw
-
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-treffen-von-russischer-und-us-delegation-in-saudi-arabien-geplant](https://www.spiegel.de/ausland/russland-ukraine-krieg-treffen-von-russischer-und-us-delegation-in-saudi-arabien-geplant-a-3a111661-5306-45d9-b0f2-b23d80f359ba#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-olaf-scholz-draengt-auf-europaeische-mitsprache-bei-friedensgespraechen](https://www.spiegel.de/ausland/ukraine-olaf-scholz-draengt-auf-europaeische-mitsprache-bei-friedensgespraechen-a-ffbb20c6-95f6-4375-a5e2-492ff23bd6a6#ref=rss)
-### intel
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/intel-broadcom-und-tsmc-pruefen-uebernahme-von-intel-geschaeftsbereichen](https://www.spiegel.de/wirtschaft/unternehmen/intel-broadcom-und-tsmc-pruefen-uebernahme-von-intel-geschaeftsbereichen-a-eeee6241-c2bb-4c13-adcf-438d95a4b902#ref=rss)
-### broadcom
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/intel-broadcom-und-tsmc-pruefen-uebernahme-von-intel-geschaeftsbereichen](https://www.spiegel.de/wirtschaft/unternehmen/intel-broadcom-und-tsmc-pruefen-uebernahme-von-intel-geschaeftsbereichen-a-eeee6241-c2bb-4c13-adcf-438d95a4b902#ref=rss)
-### tsmc
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/intel-broadcom-und-tsmc-pruefen-uebernahme-von-intel-geschaeftsbereichen](https://www.spiegel.de/wirtschaft/unternehmen/intel-broadcom-und-tsmc-pruefen-uebernahme-von-intel-geschaeftsbereichen-a-eeee6241-c2bb-4c13-adcf-438d95a4b902#ref=rss)
-### prüfen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/intel-broadcom-und-tsmc-pruefen-uebernahme-von-intel-geschaeftsbereichen](https://www.spiegel.de/wirtschaft/unternehmen/intel-broadcom-und-tsmc-pruefen-uebernahme-von-intel-geschaeftsbereichen-a-eeee6241-c2bb-4c13-adcf-438d95a4b902#ref=rss)
-### lingen
-
-* [https://www.spiegel.de/start/studieren-in-lingen-campus-wohnviertel-wg-zimmer-preise-die-besten-kneipen](https://www.spiegel.de/start/studieren-in-lingen-campus-wohnviertel-wg-zimmer-preise-die-besten-kneipen-a-5bf790bc-87e9-4223-a6fb-d671e9006eb4#ref=rss)
-### liegt
-
-* [https://www.spiegel.de/start/studieren-in-lingen-campus-wohnviertel-wg-zimmer-preise-die-besten-kneipen](https://www.spiegel.de/start/studieren-in-lingen-campus-wohnviertel-wg-zimmer-preise-die-besten-kneipen-a-5bf790bc-87e9-4223-a6fb-d671e9006eb4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/tv-quadrell-bei-rtl-friedrich-merz-liegt-bei-zuschauern-vorn](https://www.spiegel.de/politik/deutschland/tv-quadrell-bei-rtl-friedrich-merz-liegt-bei-zuschauern-vorn-a-d8377e9d-cb30-4415-8464-5cd00c974c16#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/start/studieren-in-lingen-campus-wohnviertel-wg-zimmer-preise-die-besten-kneipen](https://www.spiegel.de/start/studieren-in-lingen-campus-wohnviertel-wg-zimmer-preise-die-besten-kneipen-a-5bf790bc-87e9-4223-a6fb-d671e9006eb4#ref=rss)
-* [https://www.spiegel.de/sport/fussball/eintracht-frankfurt-fan-sturz-bei-sieg-gegen-kiel-sorgt-fuer-verletzte](https://www.spiegel.de/sport/fussball/eintracht-frankfurt-fan-sturz-bei-sieg-gegen-kiel-sorgt-fuer-verletzte-a-d3bc3c20-5774-4ce5-8dc9-240443ab8d29#ref=rss)
-### schwer
+### habeck
 
 * [https://www.spiegel.de/politik/deutschland/tv-quadrell-bei-rtl-friedrich-merz-liegt-bei-zuschauern-vorn](https://www.spiegel.de/politik/deutschland/tv-quadrell-bei-rtl-friedrich-merz-liegt-bei-zuschauern-vorn-a-d8377e9d-cb30-4415-8464-5cd00c974c16#ref=rss)
-* [https://www.spiegel.de/sport/fussball/eintracht-frankfurt-fan-sturz-bei-sieg-gegen-kiel-sorgt-fuer-verletzte](https://www.spiegel.de/sport/fussball/eintracht-frankfurt-fan-sturz-bei-sieg-gegen-kiel-sorgt-fuer-verletzte-a-d3bc3c20-5774-4ce5-8dc9-240443ab8d29#ref=rss)
-### nabil
+### unter
 
-* [https://www.spiegel.de/sport/fussball/fussball-nabil-bentaleb-feiert-comeback-mit-herzschrittmacher-und-tor](https://www.spiegel.de/sport/fussball/fussball-nabil-bentaleb-feiert-comeback-mit-herzschrittmacher-und-tor-a-89e90ea2-7098-4d82-b1f7-433dfd7bdc84#ref=rss)
-### bentaleb
+* [https://www.spiegel.de/politik/deutschland/tv-quadrell-bei-rtl-friedrich-merz-liegt-bei-zuschauern-vorn](https://www.spiegel.de/politik/deutschland/tv-quadrell-bei-rtl-friedrich-merz-liegt-bei-zuschauern-vorn-a-d8377e9d-cb30-4415-8464-5cd00c974c16#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trumps-sparprogramm-hunderte-mitarbeiter-der-us-luftfahrtbehoerde-per-mail-entlassen](https://www.spiegel.de/ausland/donald-trumps-sparprogramm-hunderte-mitarbeiter-der-us-luftfahrtbehoerde-per-mail-entlassen-a-7b21fdc9-0d20-4d4b-a900-2eec970de599#ref=rss)
+### bundestagswahl
 
-* [https://www.spiegel.de/sport/fussball/fussball-nabil-bentaleb-feiert-comeback-mit-herzschrittmacher-und-tor](https://www.spiegel.de/sport/fussball/fussball-nabil-bentaleb-feiert-comeback-mit-herzschrittmacher-und-tor-a-89e90ea2-7098-4d82-b1f7-433dfd7bdc84#ref=rss)
-### kritik
+* [https://www.spiegel.de/politik/deutschland/tv-quadrell-bei-rtl-friedrich-merz-liegt-bei-zuschauern-vorn](https://www.spiegel.de/politik/deutschland/tv-quadrell-bei-rtl-friedrich-merz-liegt-bei-zuschauern-vorn-a-d8377e9d-cb30-4415-8464-5cd00c974c16#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/duisburg-vor-der-bundestagswahl-fuer-jedes-kreuzchen-ein-bierchen](https://www.spiegel.de/politik/deutschland/duisburg-vor-der-bundestagswahl-fuer-jedes-kreuzchen-ein-bierchen-a-fed16b01-44bc-4ab2-b832-87557c9f163c#ref=rss)
+### julianne
 
-* [https://www.spiegel.de/ausland/donald-trump-vergleicht-sich-indirekt-mit-napoleon-nun-folgt-die-kritik](https://www.spiegel.de/ausland/donald-trump-vergleicht-sich-indirekt-mit-napoleon-nun-folgt-die-kritik-a-497fc55a-23e0-4386-8297-f79a83ee6328#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/andreas-scheuer-staatsanwaltschaft-prueft-ermittlungen-zu-wahlkampfspenden](https://www.spiegel.de/politik/deutschland/andreas-scheuer-staatsanwaltschaft-prueft-ermittlungen-zu-wahlkampfspenden-a-aa7f2536-adda-403d-af87-51022f9f7991#ref=rss)
-### uspräsident
+* [https://www.spiegel.de/kultur/julianne-moore-geschockt-weil-donald-trump-ihr-kinderbuch-aus-us-schulen-verbannt-hat](https://www.spiegel.de/kultur/julianne-moore-geschockt-weil-donald-trump-ihr-kinderbuch-aus-us-schulen-verbannt-hat-a-5aba5292-ec32-4ccf-80dd-09d89bef4770#ref=rss)
+### moore
 
-* [https://www.spiegel.de/ausland/donald-trump-vergleicht-sich-indirekt-mit-napoleon-nun-folgt-die-kritik](https://www.spiegel.de/ausland/donald-trump-vergleicht-sich-indirekt-mit-napoleon-nun-folgt-die-kritik-a-497fc55a-23e0-4386-8297-f79a83ee6328#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-benoetigt-erstmals-hilfe-des-supreme-courts-bei-einem-seiner-dekrete](https://www.spiegel.de/ausland/donald-trump-benoetigt-erstmals-hilfe-des-supreme-courts-bei-einem-seiner-dekrete-a-c80d6263-d281-4a54-b4da-012f299b87ef#ref=rss)
-### baut
+* [https://www.spiegel.de/kultur/julianne-moore-geschockt-weil-donald-trump-ihr-kinderbuch-aus-us-schulen-verbannt-hat](https://www.spiegel.de/kultur/julianne-moore-geschockt-weil-donald-trump-ihr-kinderbuch-aus-us-schulen-verbannt-hat-a-5aba5292-ec32-4ccf-80dd-09d89bef4770#ref=rss)
+### schauspielerin
 
-* [https://www.spiegel.de/ausland/verfassungskrise-in-den-usa-trumps-umbau-der-demokratie-und-der-widerstand](https://www.spiegel.de/ausland/verfassungskrise-in-den-usa-trumps-umbau-der-demokratie-und-der-widerstand-a-4ce0cff1-b9c4-42f5-98b7-a9f388af7b24#ref=rss)
-### staat
+* [https://www.spiegel.de/kultur/julianne-moore-geschockt-weil-donald-trump-ihr-kinderbuch-aus-us-schulen-verbannt-hat](https://www.spiegel.de/kultur/julianne-moore-geschockt-weil-donald-trump-ihr-kinderbuch-aus-us-schulen-verbannt-hat-a-5aba5292-ec32-4ccf-80dd-09d89bef4770#ref=rss)
+* [https://www.spiegel.de/kultur/tv/kim-sae-ron-suedkoreanischer-netflix-star-mit-24-jahren-gestorben](https://www.spiegel.de/kultur/tv/kim-sae-ron-suedkoreanischer-netflix-star-mit-24-jahren-gestorben-a-192925dc-cf7f-426b-9f5f-ba2708614da0#ref=rss)
+### abgeordnete
 
-* [https://www.spiegel.de/ausland/verfassungskrise-in-den-usa-trumps-umbau-der-demokratie-und-der-widerstand](https://www.spiegel.de/ausland/verfassungskrise-in-den-usa-trumps-umbau-der-demokratie-und-der-widerstand-a-4ce0cff1-b9c4-42f5-98b7-a9f388af7b24#ref=rss)
-### gusto
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-abgeordnete-fordern-debatte-ueber-europaeische-friedenstruppen](https://www.spiegel.de/politik/deutschland/ukraine-krieg-abgeordnete-fordern-debatte-ueber-europaeische-friedenstruppen-a-017d4b7f-8f4e-4696-b5f1-7d0e10b418bb#ref=rss)
+### fordern
 
-* [https://www.spiegel.de/ausland/verfassungskrise-in-den-usa-trumps-umbau-der-demokratie-und-der-widerstand](https://www.spiegel.de/ausland/verfassungskrise-in-den-usa-trumps-umbau-der-demokratie-und-der-widerstand-a-4ce0cff1-b9c4-42f5-98b7-a9f388af7b24#ref=rss)
-### jeder
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-abgeordnete-fordern-debatte-ueber-europaeische-friedenstruppen](https://www.spiegel.de/politik/deutschland/ukraine-krieg-abgeordnete-fordern-debatte-ueber-europaeische-friedenstruppen-a-017d4b7f-8f4e-4696-b5f1-7d0e10b418bb#ref=rss)
+### debatte
 
-* [https://www.spiegel.de/wirtschaft/neuseeland-missglueckte-werbekampagne-erntet-spott-und-haeme](https://www.spiegel.de/wirtschaft/neuseeland-missglueckte-werbekampagne-erntet-spott-und-haeme-a-6d89c42a-b638-4086-81ce-642b80b8c346#ref=rss)
-### regierung
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-abgeordnete-fordern-debatte-ueber-europaeische-friedenstruppen](https://www.spiegel.de/politik/deutschland/ukraine-krieg-abgeordnete-fordern-debatte-ueber-europaeische-friedenstruppen-a-017d4b7f-8f4e-4696-b5f1-7d0e10b418bb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-haelt-debatte-ueber-friedenstruppen-fuer-die-ukraine-fuer-verfrueht](https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-haelt-debatte-ueber-friedenstruppen-fuer-die-ukraine-fuer-verfrueht-a-1e1dc013-2a2a-418d-bd32-54d69593fae8#ref=rss)
+### entsenden
 
-* [https://www.spiegel.de/wirtschaft/neuseeland-missglueckte-werbekampagne-erntet-spott-und-haeme](https://www.spiegel.de/wirtschaft/neuseeland-missglueckte-werbekampagne-erntet-spott-und-haeme-a-6d89c42a-b638-4086-81ce-642b80b8c346#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-benoetigt-erstmals-hilfe-des-supreme-courts-bei-einem-seiner-dekrete](https://www.spiegel.de/ausland/donald-trump-benoetigt-erstmals-hilfe-des-supreme-courts-bei-einem-seiner-dekrete-a-c80d6263-d281-4a54-b4da-012f299b87ef#ref=rss)
-### badenwürttemberg
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-abgeordnete-fordern-debatte-ueber-europaeische-friedenstruppen](https://www.spiegel.de/politik/deutschland/ukraine-krieg-abgeordnete-fordern-debatte-ueber-europaeische-friedenstruppen-a-017d4b7f-8f4e-4696-b5f1-7d0e10b418bb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-haelt-debatte-ueber-friedenstruppen-fuer-die-ukraine-fuer-verfrueht](https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-haelt-debatte-ueber-friedenstruppen-fuer-die-ukraine-fuer-verfrueht-a-1e1dc013-2a2a-418d-bd32-54d69593fae8#ref=rss)
+### daniel
 
-* [https://www.spiegel.de/panorama/hauseinsturz-in-baden-wuerttemberg-mann-von-truemmern-eingeschlossen-rettungsaktion-laeuft](https://www.spiegel.de/panorama/hauseinsturz-in-baden-wuerttemberg-mann-von-truemmern-eingeschlossen-rettungsaktion-laeuft-a-867366a5-a5c5-458b-821a-8c612a8b4d28#ref=rss)
-* [https://www.spiegel.de/panorama/eichstetten-am-kaiserstuhl-nahe-freiburg-polizei-erschiesst-bewaffneten-mann](https://www.spiegel.de/panorama/eichstetten-am-kaiserstuhl-nahe-freiburg-polizei-erschiesst-bewaffneten-mann-a-815dcba6-ab09-4439-aee9-6eafd8332a17#ref=rss)
-### trümmern
+* [https://www.spiegel.de/sport/basketball/basketball-weltmeister-daniel-theis-wechselt-nach-fast-acht-nba-jahren-zur-as-monaco](https://www.spiegel.de/sport/basketball/basketball-weltmeister-daniel-theis-wechselt-nach-fast-acht-nba-jahren-zur-as-monaco-a-5d1332c8-5a9c-4fd7-9511-c4328917f760#ref=rss)
+### theis
 
-* [https://www.spiegel.de/panorama/hauseinsturz-in-baden-wuerttemberg-mann-von-truemmern-eingeschlossen-rettungsaktion-laeuft](https://www.spiegel.de/panorama/hauseinsturz-in-baden-wuerttemberg-mann-von-truemmern-eingeschlossen-rettungsaktion-laeuft-a-867366a5-a5c5-458b-821a-8c612a8b4d28#ref=rss)
-### eingeschlossen
+* [https://www.spiegel.de/sport/basketball/basketball-weltmeister-daniel-theis-wechselt-nach-fast-acht-nba-jahren-zur-as-monaco](https://www.spiegel.de/sport/basketball/basketball-weltmeister-daniel-theis-wechselt-nach-fast-acht-nba-jahren-zur-as-monaco-a-5d1332c8-5a9c-4fd7-9511-c4328917f760#ref=rss)
+### acht
 
-* [https://www.spiegel.de/panorama/hauseinsturz-in-baden-wuerttemberg-mann-von-truemmern-eingeschlossen-rettungsaktion-laeuft](https://www.spiegel.de/panorama/hauseinsturz-in-baden-wuerttemberg-mann-von-truemmern-eingeschlossen-rettungsaktion-laeuft-a-867366a5-a5c5-458b-821a-8c612a8b4d28#ref=rss)
-### kontrolle
+* [https://www.spiegel.de/sport/basketball/basketball-weltmeister-daniel-theis-wechselt-nach-fast-acht-nba-jahren-zur-as-monaco](https://www.spiegel.de/sport/basketball/basketball-weltmeister-daniel-theis-wechselt-nach-fast-acht-nba-jahren-zur-as-monaco-a-5d1332c8-5a9c-4fd7-9511-c4328917f760#ref=rss)
+### as
 
-* [https://www.spiegel.de/ausland/bukavu-miliz-uebernimmt-kontrolle-ueber-provinzhauptstadt-der-demokratischen-republik-kongo](https://www.spiegel.de/ausland/bukavu-miliz-uebernimmt-kontrolle-ueber-provinzhauptstadt-der-demokratischen-republik-kongo-a-d3e4c552-d767-4eed-986e-80abff0ea5ba#ref=rss)
-* [https://www.spiegel.de/psychologie/leben-mit-adipositas-wie-yoga-mir-half-meinen-koerper-wieder-zu-schaetzen](https://www.spiegel.de/psychologie/leben-mit-adipositas-wie-yoga-mir-half-meinen-koerper-wieder-zu-schaetzen-a-bf1025f5-dec7-416b-bd5a-ac3a8e690ca5#ref=rss)
-### hilfe
+* [https://www.spiegel.de/sport/basketball/basketball-weltmeister-daniel-theis-wechselt-nach-fast-acht-nba-jahren-zur-as-monaco](https://www.spiegel.de/sport/basketball/basketball-weltmeister-daniel-theis-wechselt-nach-fast-acht-nba-jahren-zur-as-monaco-a-5d1332c8-5a9c-4fd7-9511-c4328917f760#ref=rss)
+### monaco
 
-* [https://www.spiegel.de/ausland/bukavu-miliz-uebernimmt-kontrolle-ueber-provinzhauptstadt-der-demokratischen-republik-kongo](https://www.spiegel.de/ausland/bukavu-miliz-uebernimmt-kontrolle-ueber-provinzhauptstadt-der-demokratischen-republik-kongo-a-d3e4c552-d767-4eed-986e-80abff0ea5ba#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-benoetigt-erstmals-hilfe-des-supreme-courts-bei-einem-seiner-dekrete](https://www.spiegel.de/ausland/donald-trump-benoetigt-erstmals-hilfe-des-supreme-courts-bei-einem-seiner-dekrete-a-c80d6263-d281-4a54-b4da-012f299b87ef#ref=rss)
-### hodenhagen
+* [https://www.spiegel.de/sport/basketball/basketball-weltmeister-daniel-theis-wechselt-nach-fast-acht-nba-jahren-zur-as-monaco](https://www.spiegel.de/sport/basketball/basketball-weltmeister-daniel-theis-wechselt-nach-fast-acht-nba-jahren-zur-as-monaco-a-5d1332c8-5a9c-4fd7-9511-c4328917f760#ref=rss)
+### zahlreiche
 
-* [https://www.spiegel.de/panorama/justiz/19-jaehrige-mit-messer-angegriffen-und-lebensgefaehrlich-verletzt](https://www.spiegel.de/panorama/justiz/19-jaehrige-mit-messer-angegriffen-und-lebensgefaehrlich-verletzt-a-bca08dae-c59a-4f9d-a5b0-7eac793fe462#ref=rss)
-### angegriffen
+* [https://www.spiegel.de/sport/basketball/basketball-weltmeister-daniel-theis-wechselt-nach-fast-acht-nba-jahren-zur-as-monaco](https://www.spiegel.de/sport/basketball/basketball-weltmeister-daniel-theis-wechselt-nach-fast-acht-nba-jahren-zur-as-monaco-a-5d1332c8-5a9c-4fd7-9511-c4328917f760#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trumps-sparprogramm-hunderte-mitarbeiter-der-us-luftfahrtbehoerde-per-mail-entlassen](https://www.spiegel.de/ausland/donald-trumps-sparprogramm-hunderte-mitarbeiter-der-us-luftfahrtbehoerde-per-mail-entlassen-a-7b21fdc9-0d20-4d4b-a900-2eec970de599#ref=rss)
+### duisburg
 
-* [https://www.spiegel.de/panorama/justiz/19-jaehrige-mit-messer-angegriffen-und-lebensgefaehrlich-verletzt](https://www.spiegel.de/panorama/justiz/19-jaehrige-mit-messer-angegriffen-und-lebensgefaehrlich-verletzt-a-bca08dae-c59a-4f9d-a5b0-7eac793fe462#ref=rss)
-* [https://www.spiegel.de/panorama/eichstetten-am-kaiserstuhl-nahe-freiburg-polizei-erschiesst-bewaffneten-mann](https://www.spiegel.de/panorama/eichstetten-am-kaiserstuhl-nahe-freiburg-polizei-erschiesst-bewaffneten-mann-a-815dcba6-ab09-4439-aee9-6eafd8332a17#ref=rss)
-### eintracht
+* [https://www.spiegel.de/politik/deutschland/duisburg-vor-der-bundestagswahl-fuer-jedes-kreuzchen-ein-bierchen](https://www.spiegel.de/politik/deutschland/duisburg-vor-der-bundestagswahl-fuer-jedes-kreuzchen-ein-bierchen-a-fed16b01-44bc-4ab2-b832-87557c9f163c#ref=rss)
+### kim
 
-* [https://www.spiegel.de/sport/fussball/eintracht-frankfurt-fan-sturz-bei-sieg-gegen-kiel-sorgt-fuer-verletzte](https://www.spiegel.de/sport/fussball/eintracht-frankfurt-fan-sturz-bei-sieg-gegen-kiel-sorgt-fuer-verletzte-a-d3bc3c20-5774-4ce5-8dc9-240443ab8d29#ref=rss)
-### fan
+* [https://www.spiegel.de/kultur/tv/kim-sae-ron-suedkoreanischer-netflix-star-mit-24-jahren-gestorben](https://www.spiegel.de/kultur/tv/kim-sae-ron-suedkoreanischer-netflix-star-mit-24-jahren-gestorben-a-192925dc-cf7f-426b-9f5f-ba2708614da0#ref=rss)
+### saeron
 
-* [https://www.spiegel.de/sport/fussball/eintracht-frankfurt-fan-sturz-bei-sieg-gegen-kiel-sorgt-fuer-verletzte](https://www.spiegel.de/sport/fussball/eintracht-frankfurt-fan-sturz-bei-sieg-gegen-kiel-sorgt-fuer-verletzte-a-d3bc3c20-5774-4ce5-8dc9-240443ab8d29#ref=rss)
-### zwei
+* [https://www.spiegel.de/kultur/tv/kim-sae-ron-suedkoreanischer-netflix-star-mit-24-jahren-gestorben](https://www.spiegel.de/kultur/tv/kim-sae-ron-suedkoreanischer-netflix-star-mit-24-jahren-gestorben-a-192925dc-cf7f-426b-9f5f-ba2708614da0#ref=rss)
+### gestorben
 
-* [https://www.spiegel.de/sport/fussball/eintracht-frankfurt-fan-sturz-bei-sieg-gegen-kiel-sorgt-fuer-verletzte](https://www.spiegel.de/sport/fussball/eintracht-frankfurt-fan-sturz-bei-sieg-gegen-kiel-sorgt-fuer-verletzte-a-d3bc3c20-5774-4ce5-8dc9-240443ab8d29#ref=rss)
-### vier
+* [https://www.spiegel.de/kultur/tv/kim-sae-ron-suedkoreanischer-netflix-star-mit-24-jahren-gestorben](https://www.spiegel.de/kultur/tv/kim-sae-ron-suedkoreanischer-netflix-star-mit-24-jahren-gestorben-a-192925dc-cf7f-426b-9f5f-ba2708614da0#ref=rss)
+### slam
 
-* [https://www.spiegel.de/sport/fussball/eintracht-frankfurt-fan-sturz-bei-sieg-gegen-kiel-sorgt-fuer-verletzte](https://www.spiegel.de/sport/fussball/eintracht-frankfurt-fan-sturz-bei-sieg-gegen-kiel-sorgt-fuer-verletzte-a-d3bc3c20-5774-4ce5-8dc9-240443ab8d29#ref=rss)
-* [https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-vier-leben-mit-corinna-harfouch](https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-vier-leben-mit-corinna-harfouch-a-104a77b2-d259-406b-ae18-812cf559b865#ref=rss)
-### christian
+* [https://www.spiegel.de/sport/tennis/pickleball-slam-steffi-graf-und-andre-agassi-gewinnen-eine-million-us-dollar](https://www.spiegel.de/sport/tennis/pickleball-slam-steffi-graf-und-andre-agassi-gewinnen-eine-million-us-dollar-a-bc038f3f-f30a-4f0b-9a98-fe8b432371ac#ref=rss)
+### steffi
 
-* [https://www.spiegel.de/panorama/christian-lindner-wuerde-olaf-scholz-nicht-mehr-zu-seiner-hochzeit-einladen](https://www.spiegel.de/panorama/christian-lindner-wuerde-olaf-scholz-nicht-mehr-zu-seiner-hochzeit-einladen-a-4291ea8b-e005-47a0-acae-4094a53d59e7#ref=rss)
-### lindner
+* [https://www.spiegel.de/sport/tennis/pickleball-slam-steffi-graf-und-andre-agassi-gewinnen-eine-million-us-dollar](https://www.spiegel.de/sport/tennis/pickleball-slam-steffi-graf-und-andre-agassi-gewinnen-eine-million-us-dollar-a-bc038f3f-f30a-4f0b-9a98-fe8b432371ac#ref=rss)
+### graf
 
-* [https://www.spiegel.de/panorama/christian-lindner-wuerde-olaf-scholz-nicht-mehr-zu-seiner-hochzeit-einladen](https://www.spiegel.de/panorama/christian-lindner-wuerde-olaf-scholz-nicht-mehr-zu-seiner-hochzeit-einladen-a-4291ea8b-e005-47a0-acae-4094a53d59e7#ref=rss)
-### kanzler
+* [https://www.spiegel.de/sport/tennis/pickleball-slam-steffi-graf-und-andre-agassi-gewinnen-eine-million-us-dollar](https://www.spiegel.de/sport/tennis/pickleball-slam-steffi-graf-und-andre-agassi-gewinnen-eine-million-us-dollar-a-bc038f3f-f30a-4f0b-9a98-fe8b432371ac#ref=rss)
+### andre
 
-* [https://www.spiegel.de/panorama/christian-lindner-wuerde-olaf-scholz-nicht-mehr-zu-seiner-hochzeit-einladen](https://www.spiegel.de/panorama/christian-lindner-wuerde-olaf-scholz-nicht-mehr-zu-seiner-hochzeit-einladen-a-4291ea8b-e005-47a0-acae-4094a53d59e7#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-olaf-scholz-draengt-auf-europaeische-mitsprache-bei-friedensgespraechen](https://www.spiegel.de/ausland/ukraine-olaf-scholz-draengt-auf-europaeische-mitsprache-bei-friedensgespraechen-a-ffbb20c6-95f6-4375-a5e2-492ff23bd6a6#ref=rss)
-### russland
+* [https://www.spiegel.de/sport/tennis/pickleball-slam-steffi-graf-und-andre-agassi-gewinnen-eine-million-us-dollar](https://www.spiegel.de/sport/tennis/pickleball-slam-steffi-graf-und-andre-agassi-gewinnen-eine-million-us-dollar-a-bc038f3f-f30a-4f0b-9a98-fe8b432371ac#ref=rss)
+### agassi
 
-* [https://www.spiegel.de/ausland/ukraine-olaf-scholz-draengt-auf-europaeische-mitsprache-bei-friedensgespraechen](https://www.spiegel.de/ausland/ukraine-olaf-scholz-draengt-auf-europaeische-mitsprache-bei-friedensgespraechen-a-ffbb20c6-95f6-4375-a5e2-492ff23bd6a6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-alice-weidel-afd-wahlkampf-ukraine-russland-alexej-nawalny](https://www.spiegel.de/politik/deutschland/news-alice-weidel-afd-wahlkampf-ukraine-russland-alexej-nawalny-a-e780c0b7-733e-4da9-8a8d-6bde0f48050c#ref=rss)
-### uns
+* [https://www.spiegel.de/sport/tennis/pickleball-slam-steffi-graf-und-andre-agassi-gewinnen-eine-million-us-dollar](https://www.spiegel.de/sport/tennis/pickleball-slam-steffi-graf-und-andre-agassi-gewinnen-eine-million-us-dollar-a-bc038f3f-f30a-4f0b-9a98-fe8b432371ac#ref=rss)
+### hamm
 
-* [https://www.spiegel.de/ausland/ukraine-olaf-scholz-draengt-auf-europaeische-mitsprache-bei-friedensgespraechen](https://www.spiegel.de/ausland/ukraine-olaf-scholz-draengt-auf-europaeische-mitsprache-bei-friedensgespraechen-a-ffbb20c6-95f6-4375-a5e2-492ff23bd6a6#ref=rss)
-* [https://www.spiegel.de/karriere/mobiles-arbeiten-aus-dem-ausland-mein-fazit-nach-einer-woche-in-portugal](https://www.spiegel.de/karriere/mobiles-arbeiten-aus-dem-ausland-mein-fazit-nach-einer-woche-in-portugal-a-12f0bd65-93cc-44fd-bf3d-ef466bc9eecc#ref=rss)
-### deepseek
+* [https://www.spiegel.de/panorama/justiz/hamm-diebe-klauen-einkaeufe-und-lassen-sieben-packungen-joghurt-zurueck](https://www.spiegel.de/panorama/justiz/hamm-diebe-klauen-einkaeufe-und-lassen-sieben-packungen-joghurt-zurueck-a-3e5d05c9-7b35-46de-96c1-696770791f39#ref=rss)
+### packungen
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/deepseek-suedkorea-sperrt-chinesischen-chatbot-wegen-datenschutzbedenken](https://www.spiegel.de/netzwelt/netzpolitik/deepseek-suedkorea-sperrt-chinesischen-chatbot-wegen-datenschutzbedenken-a-09a11aa5-d61e-47ba-a95c-97c5798429f3#ref=rss)
-### chatbot
+* [https://www.spiegel.de/panorama/justiz/hamm-diebe-klauen-einkaeufe-und-lassen-sieben-packungen-joghurt-zurueck](https://www.spiegel.de/panorama/justiz/hamm-diebe-klauen-einkaeufe-und-lassen-sieben-packungen-joghurt-zurueck-a-3e5d05c9-7b35-46de-96c1-696770791f39#ref=rss)
+### joghurt
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/deepseek-suedkorea-sperrt-chinesischen-chatbot-wegen-datenschutzbedenken](https://www.spiegel.de/netzwelt/netzpolitik/deepseek-suedkorea-sperrt-chinesischen-chatbot-wegen-datenschutzbedenken-a-09a11aa5-d61e-47ba-a95c-97c5798429f3#ref=rss)
-### leben
+* [https://www.spiegel.de/panorama/justiz/hamm-diebe-klauen-einkaeufe-und-lassen-sieben-packungen-joghurt-zurueck](https://www.spiegel.de/panorama/justiz/hamm-diebe-klauen-einkaeufe-und-lassen-sieben-packungen-joghurt-zurueck-a-3e5d05c9-7b35-46de-96c1-696770791f39#ref=rss)
+### sparprogramm
 
-* [https://www.spiegel.de/psychologie/leben-mit-adipositas-wie-yoga-mir-half-meinen-koerper-wieder-zu-schaetzen](https://www.spiegel.de/psychologie/leben-mit-adipositas-wie-yoga-mir-half-meinen-koerper-wieder-zu-schaetzen-a-bf1025f5-dec7-416b-bd5a-ac3a8e690ca5#ref=rss)
-* [https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-vier-leben-mit-corinna-harfouch](https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-vier-leben-mit-corinna-harfouch-a-104a77b2-d259-406b-ae18-812cf559b865#ref=rss)
-### mir
+* [https://www.spiegel.de/ausland/donald-trumps-sparprogramm-hunderte-mitarbeiter-der-us-luftfahrtbehoerde-per-mail-entlassen](https://www.spiegel.de/ausland/donald-trumps-sparprogramm-hunderte-mitarbeiter-der-us-luftfahrtbehoerde-per-mail-entlassen-a-7b21fdc9-0d20-4d4b-a900-2eec970de599#ref=rss)
+### mitarbeiter
 
-* [https://www.spiegel.de/psychologie/leben-mit-adipositas-wie-yoga-mir-half-meinen-koerper-wieder-zu-schaetzen](https://www.spiegel.de/psychologie/leben-mit-adipositas-wie-yoga-mir-half-meinen-koerper-wieder-zu-schaetzen-a-bf1025f5-dec7-416b-bd5a-ac3a8e690ca5#ref=rss)
-### meinen
+* [https://www.spiegel.de/ausland/donald-trumps-sparprogramm-hunderte-mitarbeiter-der-us-luftfahrtbehoerde-per-mail-entlassen](https://www.spiegel.de/ausland/donald-trumps-sparprogramm-hunderte-mitarbeiter-der-us-luftfahrtbehoerde-per-mail-entlassen-a-7b21fdc9-0d20-4d4b-a900-2eec970de599#ref=rss)
+### michael
 
-* [https://www.spiegel.de/psychologie/leben-mit-adipositas-wie-yoga-mir-half-meinen-koerper-wieder-zu-schaetzen](https://www.spiegel.de/psychologie/leben-mit-adipositas-wie-yoga-mir-half-meinen-koerper-wieder-zu-schaetzen-a-bf1025f5-dec7-416b-bd5a-ac3a8e690ca5#ref=rss)
-### körper
+* [https://www.spiegel.de/panorama/justiz/michael-schumacher-familie-legt-im-erpressungsprozess-berufung-ein](https://www.spiegel.de/panorama/justiz/michael-schumacher-familie-legt-im-erpressungsprozess-berufung-ein-a-9e3954b0-c2af-41a9-9c2d-f97432d4613d#ref=rss)
+### schumacher
 
-* [https://www.spiegel.de/psychologie/leben-mit-adipositas-wie-yoga-mir-half-meinen-koerper-wieder-zu-schaetzen](https://www.spiegel.de/psychologie/leben-mit-adipositas-wie-yoga-mir-half-meinen-koerper-wieder-zu-schaetzen-a-bf1025f5-dec7-416b-bd5a-ac3a8e690ca5#ref=rss)
-### kam
+* [https://www.spiegel.de/panorama/justiz/michael-schumacher-familie-legt-im-erpressungsprozess-berufung-ein](https://www.spiegel.de/panorama/justiz/michael-schumacher-familie-legt-im-erpressungsprozess-berufung-ein-a-9e3954b0-c2af-41a9-9c2d-f97432d4613d#ref=rss)
+### familie
 
-* [https://www.spiegel.de/psychologie/leben-mit-adipositas-wie-yoga-mir-half-meinen-koerper-wieder-zu-schaetzen](https://www.spiegel.de/psychologie/leben-mit-adipositas-wie-yoga-mir-half-meinen-koerper-wieder-zu-schaetzen-a-bf1025f5-dec7-416b-bd5a-ac3a8e690ca5#ref=rss)
-* [https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-vier-leben-mit-corinna-harfouch](https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-vier-leben-mit-corinna-harfouch-a-104a77b2-d259-406b-ae18-812cf559b865#ref=rss)
-### andreas
+* [https://www.spiegel.de/panorama/justiz/michael-schumacher-familie-legt-im-erpressungsprozess-berufung-ein](https://www.spiegel.de/panorama/justiz/michael-schumacher-familie-legt-im-erpressungsprozess-berufung-ein-a-9e3954b0-c2af-41a9-9c2d-f97432d4613d#ref=rss)
+### berufung
 
-* [https://www.spiegel.de/politik/deutschland/andreas-scheuer-staatsanwaltschaft-prueft-ermittlungen-zu-wahlkampfspenden](https://www.spiegel.de/politik/deutschland/andreas-scheuer-staatsanwaltschaft-prueft-ermittlungen-zu-wahlkampfspenden-a-aa7f2536-adda-403d-af87-51022f9f7991#ref=rss)
-### scheuer
+* [https://www.spiegel.de/panorama/justiz/michael-schumacher-familie-legt-im-erpressungsprozess-berufung-ein](https://www.spiegel.de/panorama/justiz/michael-schumacher-familie-legt-im-erpressungsprozess-berufung-ein-a-9e3954b0-c2af-41a9-9c2d-f97432d4613d#ref=rss)
+### ägypten
 
-* [https://www.spiegel.de/politik/deutschland/andreas-scheuer-staatsanwaltschaft-prueft-ermittlungen-zu-wahlkampfspenden](https://www.spiegel.de/politik/deutschland/andreas-scheuer-staatsanwaltschaft-prueft-ermittlungen-zu-wahlkampfspenden-a-aa7f2536-adda-403d-af87-51022f9f7991#ref=rss)
-### staatsanwaltschaft
+* [https://www.spiegel.de/wissenschaft/natur/aegypten-forscher-entdecken-schaedel-eines-urzeitlichen-riesen-raubtiers](https://www.spiegel.de/wissenschaft/natur/aegypten-forscher-entdecken-schaedel-eines-urzeitlichen-riesen-raubtiers-a-ebb14c05-4242-4ec5-90d4-8bbccdcf2a7e#ref=rss)
+### schädel
 
-* [https://www.spiegel.de/politik/deutschland/andreas-scheuer-staatsanwaltschaft-prueft-ermittlungen-zu-wahlkampfspenden](https://www.spiegel.de/politik/deutschland/andreas-scheuer-staatsanwaltschaft-prueft-ermittlungen-zu-wahlkampfspenden-a-aa7f2536-adda-403d-af87-51022f9f7991#ref=rss)
-### wahlkampfspenden
+* [https://www.spiegel.de/wissenschaft/natur/aegypten-forscher-entdecken-schaedel-eines-urzeitlichen-riesen-raubtiers](https://www.spiegel.de/wissenschaft/natur/aegypten-forscher-entdecken-schaedel-eines-urzeitlichen-riesen-raubtiers-a-ebb14c05-4242-4ec5-90d4-8bbccdcf2a7e#ref=rss)
+### raubtiers
 
-* [https://www.spiegel.de/politik/deutschland/andreas-scheuer-staatsanwaltschaft-prueft-ermittlungen-zu-wahlkampfspenden](https://www.spiegel.de/politik/deutschland/andreas-scheuer-staatsanwaltschaft-prueft-ermittlungen-zu-wahlkampfspenden-a-aa7f2536-adda-403d-af87-51022f9f7991#ref=rss)
-### alice
-
-* [https://www.spiegel.de/politik/deutschland/news-alice-weidel-afd-wahlkampf-ukraine-russland-alexej-nawalny](https://www.spiegel.de/politik/deutschland/news-alice-weidel-afd-wahlkampf-ukraine-russland-alexej-nawalny-a-e780c0b7-733e-4da9-8a8d-6bde0f48050c#ref=rss)
-* [https://www.spiegel.de/kultur/tv/tv-kritik-zur-debatte-der-kanzleranwaerter-als-haette-olaf-scholz-vor-dem-spiegel-geuebt](https://www.spiegel.de/kultur/tv/tv-kritik-zur-debatte-der-kanzleranwaerter-als-haette-olaf-scholz-vor-dem-spiegel-geuebt-a-52f31dc4-fa4b-417e-8b47-fc8a6e8492d7#ref=rss)
-### alexej
-
-* [https://www.spiegel.de/politik/deutschland/news-alice-weidel-afd-wahlkampf-ukraine-russland-alexej-nawalny](https://www.spiegel.de/politik/deutschland/news-alice-weidel-afd-wahlkampf-ukraine-russland-alexej-nawalny-a-e780c0b7-733e-4da9-8a8d-6bde0f48050c#ref=rss)
-### nawalny
-
-* [https://www.spiegel.de/politik/deutschland/news-alice-weidel-afd-wahlkampf-ukraine-russland-alexej-nawalny](https://www.spiegel.de/politik/deutschland/news-alice-weidel-afd-wahlkampf-ukraine-russland-alexej-nawalny-a-e780c0b7-733e-4da9-8a8d-6bde0f48050c#ref=rss)
-### quadrell
-
-* [https://www.spiegel.de/kultur/tv/tv-kritik-zur-debatte-der-kanzleranwaerter-als-haette-olaf-scholz-vor-dem-spiegel-geuebt](https://www.spiegel.de/kultur/tv/tv-kritik-zur-debatte-der-kanzleranwaerter-als-haette-olaf-scholz-vor-dem-spiegel-geuebt-a-52f31dc4-fa4b-417e-8b47-fc8a6e8492d7#ref=rss)
-### arg
-
-* [https://www.spiegel.de/kultur/tv/tv-kritik-zur-debatte-der-kanzleranwaerter-als-haette-olaf-scholz-vor-dem-spiegel-geuebt](https://www.spiegel.de/kultur/tv/tv-kritik-zur-debatte-der-kanzleranwaerter-als-haette-olaf-scholz-vor-dem-spiegel-geuebt-a-52f31dc4-fa4b-417e-8b47-fc8a6e8492d7#ref=rss)
-* [https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-vier-leben-mit-corinna-harfouch](https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-vier-leben-mit-corinna-harfouch-a-104a77b2-d259-406b-ae18-812cf559b865#ref=rss)
-### kind
-
-* [https://www.spiegel.de/panorama/eichstetten-am-kaiserstuhl-nahe-freiburg-polizei-erschiesst-bewaffneten-mann](https://www.spiegel.de/panorama/eichstetten-am-kaiserstuhl-nahe-freiburg-polizei-erschiesst-bewaffneten-mann-a-815dcba6-ab09-4439-aee9-6eafd8332a17#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/aegypten-forscher-entdecken-schaedel-eines-urzeitlichen-riesen-raubtiers](https://www.spiegel.de/wissenschaft/natur/aegypten-forscher-entdecken-schaedel-eines-urzeitlichen-riesen-raubtiers-a-ebb14c05-4242-4ec5-90d4-8bbccdcf2a7e#ref=rss)
 
