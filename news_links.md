@@ -4,332 +4,342 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### hamas
-
-* [https://www.spiegel.de/politik/deutschland/hamas-terror-und-antisemitismus-die-wahrheit-die-in-deutschland-viel-zu-selten-geschrieben-wird-kommentar](https://www.spiegel.de/politik/deutschland/hamas-terror-und-antisemitismus-die-wahrheit-die-in-deutschland-viel-zu-selten-geschrieben-wird-kommentar-a-36b480f2-a71d-495c-81a6-180a6f51422b#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-uebergibt-vier-tote-geiseln-an-israel](https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-uebergibt-vier-tote-geiseln-an-israel-a-a96ac940-a824-4aa7-b5be-73c32818b5ff#ref=rss)
-* [https://www.spiegel.de/ausland/hamas-uebergibt-leichen-von-shiri-bibas-ariel-bibas-kfir-bibas-oded-lifshitz-ein-tag-der-niederlage](https://www.spiegel.de/ausland/hamas-uebergibt-leichen-von-shiri-bibas-ariel-bibas-kfir-bibas-oded-lifshitz-ein-tag-der-niederlage-a-29a9ed12-4ed3-45ca-92ae-b7122788f70f#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-uno-menschenrechtsbeauftragter-kritisiert-zurschaustellung-von-geiselleichen](https://www.spiegel.de/ausland/israel-gaza-krieg-uno-menschenrechtsbeauftragter-kritisiert-zurschaustellung-von-geiselleichen-a-4955e678-55f9-4e4c-89c4-d27baedfa0d6#ref=rss)
-### afd
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-stimmen-von-einwanderern-zur-aktuellen-debatte-ueber-innere-sicherheit](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-stimmen-von-einwanderern-zur-aktuellen-debatte-ueber-innere-sicherheit-a-3b3cefb1-2fa8-451f-9838-85e8abd3be9e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/tv-quadrell-bei-rtl-friedrich-merz-liegt-bei-zuschauern-vorn](https://www.spiegel.de/politik/deutschland/tv-quadrell-bei-rtl-friedrich-merz-liegt-bei-zuschauern-vorn-a-d8377e9d-cb30-4415-8464-5cd00c974c16#ref=rss)
-* [https://www.spiegel.de/kultur/jan-boehmermann-macht-den-anti-elon-musk](https://www.spiegel.de/kultur/jan-boehmermann-macht-den-anti-elon-musk-a-005a6e50-06b7-4ca7-8318-7ed7ca877f0f#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/tiktok-die-afd-profitiert-angeblich-am-meisten-von-fake-konten](https://www.spiegel.de/netzwelt/apps/tiktok-die-afd-profitiert-angeblich-am-meisten-von-fake-konten-a-7cae84d9-5fe1-4f77-baaa-866da1bd14c5#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-jan-boehmermann-erklaert-deutsche-politik-in-nyt-video-donald-trump-verbreitet-koenigsportrait-von-sich-auslandsdeutsche-koennen-nicht-mitwaehlen](https://www.spiegel.de/politik/deutschland/news-des-tages-jan-boehmermann-erklaert-deutsche-politik-in-nyt-video-donald-trump-verbreitet-koenigsportrait-von-sich-auslandsdeutsche-koennen-nicht-mitwaehlen-a-cae22971-9ae3-4f9f-9cbc-999a9c013050#ref=rss)
-* [https://www.spiegel.de/auto/deutsche-bahn-neue-funktechnik-soll-mobilfunkempfang-in-zuegen-verbessern](https://www.spiegel.de/auto/deutsche-bahn-neue-funktechnik-soll-mobilfunkempfang-in-zuegen-verbessern-a-717e0e64-0d03-4e7c-bb3c-504fa50d673e#ref=rss)
 ### bundestagswahl
 
-* [https://www.spiegel.de/politik/bundestagswahl-2025-das-kanzlerkandidaten-quiz-wer-hats-gesagt](https://www.spiegel.de/politik/bundestagswahl-2025-das-kanzlerkandidaten-quiz-wer-hats-gesagt-a-cd636d25-da03-4f2e-bc4e-ca06469fdd58#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-stimmen-von-einwanderern-zur-aktuellen-debatte-ueber-innere-sicherheit](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-stimmen-von-einwanderern-zur-aktuellen-debatte-ueber-innere-sicherheit-a-3b3cefb1-2fa8-451f-9838-85e8abd3be9e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland-braucht-einen-europaeischen-bundeskanzler](https://www.spiegel.de/politik/deutschland-braucht-einen-europaeischen-bundeskanzler-a-328121af-b479-472f-837d-48ecede5516f#ref=rss)
+* [https://www.spiegel.de/deinspiegel/karin-prien-cdu-im-kinder-interview-macht-den-mund-auf-wenn-ihr-unrecht-erlebt](https://www.spiegel.de/deinspiegel/karin-prien-cdu-im-kinder-interview-macht-den-mund-auf-wenn-ihr-unrecht-erlebt-a-ca55e865-de57-4426-b447-2dbbfd9c241b#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/bundestagswahl-russische-troll-gruppe-verbreitet-offenbar-fake-videos-zur-briefwahl](https://www.spiegel.de/netzwelt/web/bundestagswahl-russische-troll-gruppe-verbreitet-offenbar-fake-videos-zur-briefwahl-a-325b8c89-8dae-4adc-ada9-f8d9ab6dd9f2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-warum-millionen-deutsche-unentschlossen-sind](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-warum-millionen-deutsche-unentschlossen-sind-a-e4b4b8de-152f-4cb1-a112-4c66ce1255d9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-wer-ist-der-verschwiegene-milliardaer-hinter-der-verdaechtigen-millionen-spende](https://www.spiegel.de/politik/deutschland/afd-wer-ist-der-verschwiegene-milliardaer-hinter-der-verdaechtigen-millionen-spende-a-424da78a-95be-45de-8c21-4a2922305c51#ref=rss)
 * [https://www.spiegel.de/politik/deutschland/tv-quadrell-bei-rtl-friedrich-merz-liegt-bei-zuschauern-vorn](https://www.spiegel.de/politik/deutschland/tv-quadrell-bei-rtl-friedrich-merz-liegt-bei-zuschauern-vorn-a-d8377e9d-cb30-4415-8464-5cd00c974c16#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-warum-die-gruenen-jetzt-angst-vor-den-linken-haben](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-warum-die-gruenen-jetzt-angst-vor-den-linken-haben-a-e13b112a-0d3e-4e00-8b2e-d120722ff8a0#ref=rss)
-### jan
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-jan-boehmermann-erklaert-deutsche-politik-in-nyt-video-donald-trump-verbreitet-koenigsportrait-von-sich-auslandsdeutsche-koennen-nicht-mitwaehlen](https://www.spiegel.de/politik/deutschland/news-des-tages-jan-boehmermann-erklaert-deutsche-politik-in-nyt-video-donald-trump-verbreitet-koenigsportrait-von-sich-auslandsdeutsche-koennen-nicht-mitwaehlen-a-cae22971-9ae3-4f9f-9cbc-999a9c013050#ref=rss)
-* [https://www.spiegel.de/kultur/jan-boehmermann-macht-den-anti-elon-musk](https://www.spiegel.de/kultur/jan-boehmermann-macht-den-anti-elon-musk-a-005a6e50-06b7-4ca7-8318-7ed7ca877f0f#ref=rss)
-### böhmermann
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-jan-boehmermann-erklaert-deutsche-politik-in-nyt-video-donald-trump-verbreitet-koenigsportrait-von-sich-auslandsdeutsche-koennen-nicht-mitwaehlen](https://www.spiegel.de/politik/deutschland/news-des-tages-jan-boehmermann-erklaert-deutsche-politik-in-nyt-video-donald-trump-verbreitet-koenigsportrait-von-sich-auslandsdeutsche-koennen-nicht-mitwaehlen-a-cae22971-9ae3-4f9f-9cbc-999a9c013050#ref=rss)
-* [https://www.spiegel.de/kultur/jan-boehmermann-macht-den-anti-elon-musk](https://www.spiegel.de/kultur/jan-boehmermann-macht-den-anti-elon-musk-a-005a6e50-06b7-4ca7-8318-7ed7ca877f0f#ref=rss)
-### kunst
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/birkenstock-urteil-bei-dieser-sandale-denkt-man-immer-an-das-original](https://www.spiegel.de/wirtschaft/unternehmen/birkenstock-urteil-bei-dieser-sandale-denkt-man-immer-an-das-original-a-bcb06fac-b0e5-4789-9648-6f8008cadf27#ref=rss)
-* [https://www.spiegel.de/kultur/jan-boehmermann-macht-den-anti-elon-musk](https://www.spiegel.de/kultur/jan-boehmermann-macht-den-anti-elon-musk-a-005a6e50-06b7-4ca7-8318-7ed7ca877f0f#ref=rss)
-* [https://www.spiegel.de/stil/birkenstock-sandalen-bgh-entscheidet-am-ende-doch-nur-ein-schuh](https://www.spiegel.de/stil/birkenstock-sandalen-bgh-entscheidet-am-ende-doch-nur-ein-schuh-a-70bca41d-92be-48b7-b7cf-df59248b3bce#ref=rss)
-### drei
-
-* [https://www.spiegel.de/kultur/literatur/die-drei-abenteuer-nach-mehr-als-50-jahren-zu-ende-geschrieben](https://www.spiegel.de/kultur/literatur/die-drei-abenteuer-nach-mehr-als-50-jahren-zu-ende-geschrieben-a-f6a85101-38a3-46a0-88d1-557871439a95#ref=rss)
-* [https://www.spiegel.de/panorama/liam-payne-anklage-gegen-drei-von-fuenf-verdaechtige-fallengelassen](https://www.spiegel.de/panorama/liam-payne-anklage-gegen-drei-von-fuenf-verdaechtige-fallengelassen-a-8653580f-29a4-41df-841e-78d8f50c5e92#ref=rss)
-### 2025
-
-* [https://www.spiegel.de/politik/bundestagswahl-2025-das-kanzlerkandidaten-quiz-wer-hats-gesagt](https://www.spiegel.de/politik/bundestagswahl-2025-das-kanzlerkandidaten-quiz-wer-hats-gesagt-a-cd636d25-da03-4f2e-bc4e-ca06469fdd58#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-stimmen-von-einwanderern-zur-aktuellen-debatte-ueber-innere-sicherheit](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-stimmen-von-einwanderern-zur-aktuellen-debatte-ueber-innere-sicherheit-a-3b3cefb1-2fa8-451f-9838-85e8abd3be9e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-warum-die-gruenen-jetzt-angst-vor-den-linken-haben](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-warum-die-gruenen-jetzt-angst-vor-den-linken-haben-a-e13b112a-0d3e-4e00-8b2e-d120722ff8a0#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-stimmen-von-einwanderern-zur-aktuellen-debatte-ueber-innere-sicherheit](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-stimmen-von-einwanderern-zur-aktuellen-debatte-ueber-innere-sicherheit-a-3b3cefb1-2fa8-451f-9838-85e8abd3be9e#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-uebergibt-vier-tote-geiseln-an-israel](https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-uebergibt-vier-tote-geiseln-an-israel-a-a96ac940-a824-4aa7-b5be-73c32818b5ff#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-warum-die-gruenen-jetzt-angst-vor-den-linken-haben](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-warum-die-gruenen-jetzt-angst-vor-den-linken-haben-a-e13b112a-0d3e-4e00-8b2e-d120722ff8a0#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-stimmen-von-einwanderern-zur-aktuellen-debatte-ueber-innere-sicherheit](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-stimmen-von-einwanderern-zur-aktuellen-debatte-ueber-innere-sicherheit-a-3b3cefb1-2fa8-451f-9838-85e8abd3be9e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/hamas-terror-und-antisemitismus-die-wahrheit-die-in-deutschland-viel-zu-selten-geschrieben-wird-kommentar](https://www.spiegel.de/politik/deutschland/hamas-terror-und-antisemitismus-die-wahrheit-die-in-deutschland-viel-zu-selten-geschrieben-wird-kommentar-a-36b480f2-a71d-495c-81a6-180a6f51422b#ref=rss)
-### trump
+* [https://www.spiegel.de/panorama/falschgeld-in-deutschland-laut-deutscher-bundesbank-erneut-mehr-gefaelschte-geldscheine-im-umlauf](https://www.spiegel.de/panorama/falschgeld-in-deutschland-laut-deutscher-bundesbank-erneut-mehr-gefaelschte-geldscheine-im-umlauf-a-49ff07a7-0822-4d27-968a-b3a70d14c3d7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland-braucht-einen-europaeischen-bundeskanzler](https://www.spiegel.de/politik/deutschland-braucht-einen-europaeischen-bundeskanzler-a-328121af-b479-472f-837d-48ecede5516f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/russland-tausende-firmen-aus-deutschland-weiter-in-wladimir-putins-reich-aktiv](https://www.spiegel.de/wirtschaft/russland-tausende-firmen-aus-deutschland-weiter-in-wladimir-putins-reich-aktiv-a-0c1906f8-dc03-45a4-b9cc-661aa15e5d50#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/warnstreik-im-oeffentlichen-dienst-busse-und-bahnen-stehen-vielerorts-in-deutschland-still](https://www.spiegel.de/wirtschaft/unternehmen/warnstreik-im-oeffentlichen-dienst-busse-und-bahnen-stehen-vielerorts-in-deutschland-still-a-414c3500-90f4-4cc5-a601-eab5a304851c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-kann-die-bundeswehr-stemmen-was-auf-sie-zukommt](https://www.spiegel.de/politik/deutschland/ukraine-krieg-kann-die-bundeswehr-stemmen-was-auf-sie-zukommt-a-de531495-5489-40e2-8630-d440ad544fbd#ref=rss)
+* [https://www.spiegel.de/ausland/verhaeltnis-usa-deutschland-j-d-vance-verknuepft-us-schutz-mit-meinungsfreiheit](https://www.spiegel.de/ausland/verhaeltnis-usa-deutschland-j-d-vance-verknuepft-us-schutz-mit-meinungsfreiheit-a-8daf2bb8-b131-4b5c-a624-9b7e28037369#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/sport/eishockey/eishockey-duell-usa-gegen-kanada-eiskalter-krieg](https://www.spiegel.de/sport/eishockey/eishockey-duell-usa-gegen-kanada-eiskalter-krieg-a-19ec72f4-247e-4d8d-92de-d56de2cd2397#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-jan-boehmermann-erklaert-deutsche-politik-in-nyt-video-donald-trump-verbreitet-koenigsportrait-von-sich-auslandsdeutsche-koennen-nicht-mitwaehlen](https://www.spiegel.de/politik/deutschland/news-des-tages-jan-boehmermann-erklaert-deutsche-politik-in-nyt-video-donald-trump-verbreitet-koenigsportrait-von-sich-auslandsdeutsche-koennen-nicht-mitwaehlen-a-cae22971-9ae3-4f9f-9cbc-999a9c013050#ref=rss)
-### geschrieben
-
-* [https://www.spiegel.de/politik/deutschland/hamas-terror-und-antisemitismus-die-wahrheit-die-in-deutschland-viel-zu-selten-geschrieben-wird-kommentar](https://www.spiegel.de/politik/deutschland/hamas-terror-und-antisemitismus-die-wahrheit-die-in-deutschland-viel-zu-selten-geschrieben-wird-kommentar-a-36b480f2-a71d-495c-81a6-180a6f51422b#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/die-drei-abenteuer-nach-mehr-als-50-jahren-zu-ende-geschrieben](https://www.spiegel.de/kultur/literatur/die-drei-abenteuer-nach-mehr-als-50-jahren-zu-ende-geschrieben-a-f6a85101-38a3-46a0-88d1-557871439a95#ref=rss)
-### leichen
-
-* [https://www.spiegel.de/politik/deutschland/hamas-terror-und-antisemitismus-die-wahrheit-die-in-deutschland-viel-zu-selten-geschrieben-wird-kommentar](https://www.spiegel.de/politik/deutschland/hamas-terror-und-antisemitismus-die-wahrheit-die-in-deutschland-viel-zu-selten-geschrieben-wird-kommentar-a-36b480f2-a71d-495c-81a6-180a6f51422b#ref=rss)
-* [https://www.spiegel.de/ausland/hamas-uebergibt-leichen-von-shiri-bibas-ariel-bibas-kfir-bibas-oded-lifshitz-ein-tag-der-niederlage](https://www.spiegel.de/ausland/hamas-uebergibt-leichen-von-shiri-bibas-ariel-bibas-kfir-bibas-oded-lifshitz-ein-tag-der-niederlage-a-29a9ed12-4ed3-45ca-92ae-b7122788f70f#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-jan-boehmermann-erklaert-deutsche-politik-in-nyt-video-donald-trump-verbreitet-koenigsportrait-von-sich-auslandsdeutsche-koennen-nicht-mitwaehlen](https://www.spiegel.de/politik/deutschland/news-des-tages-jan-boehmermann-erklaert-deutsche-politik-in-nyt-video-donald-trump-verbreitet-koenigsportrait-von-sich-auslandsdeutsche-koennen-nicht-mitwaehlen-a-cae22971-9ae3-4f9f-9cbc-999a9c013050#ref=rss)
-* [https://www.spiegel.de/sport/letzter-auf-der-vendee-globe-natuerlich-spreche-ich-mit-meinem-boot](https://www.spiegel.de/sport/letzter-auf-der-vendee-globe-natuerlich-spreche-ich-mit-meinem-boot-a-81bbdd90-6d72-4620-9c30-24f75fad63c2#ref=rss)
-### politik
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-jan-boehmermann-erklaert-deutsche-politik-in-nyt-video-donald-trump-verbreitet-koenigsportrait-von-sich-auslandsdeutsche-koennen-nicht-mitwaehlen](https://www.spiegel.de/politik/deutschland/news-des-tages-jan-boehmermann-erklaert-deutsche-politik-in-nyt-video-donald-trump-verbreitet-koenigsportrait-von-sich-auslandsdeutsche-koennen-nicht-mitwaehlen-a-cae22971-9ae3-4f9f-9cbc-999a9c013050#ref=rss)
-* [https://www.spiegel.de/ausland/mitch-mcconnell-senator-tritt-2026-nicht-zur-wiederwahl-an](https://www.spiegel.de/ausland/mitch-mcconnell-senator-tritt-2026-nicht-zur-wiederwahl-an-a-b874da9f-abd2-46d1-9d37-f3a5ff6d49a8#ref=rss)
-### grünen
-
+* [https://www.spiegel.de/panorama/falschgeld-in-deutschland-laut-deutscher-bundesbank-erneut-mehr-gefaelschte-geldscheine-im-umlauf](https://www.spiegel.de/panorama/falschgeld-in-deutschland-laut-deutscher-bundesbank-erneut-mehr-gefaelschte-geldscheine-im-umlauf-a-49ff07a7-0822-4d27-968a-b3a70d14c3d7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland-braucht-einen-europaeischen-bundeskanzler](https://www.spiegel.de/politik/deutschland-braucht-einen-europaeischen-bundeskanzler-a-328121af-b479-472f-837d-48ecede5516f#ref=rss)
 * [https://www.spiegel.de/politik/deutschland/tv-quadrell-bei-rtl-friedrich-merz-liegt-bei-zuschauern-vorn](https://www.spiegel.de/politik/deutschland/tv-quadrell-bei-rtl-friedrich-merz-liegt-bei-zuschauern-vorn-a-d8377e9d-cb30-4415-8464-5cd00c974c16#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-warum-die-gruenen-jetzt-angst-vor-den-linken-haben](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-warum-die-gruenen-jetzt-angst-vor-den-linken-haben-a-e13b112a-0d3e-4e00-8b2e-d120722ff8a0#ref=rss)
-### übergibt
+### deutsche
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-uebergibt-vier-tote-geiseln-an-israel](https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-uebergibt-vier-tote-geiseln-an-israel-a-a96ac940-a824-4aa7-b5be-73c32818b5ff#ref=rss)
-* [https://www.spiegel.de/kultur/kino/james-bond-amazon-uebernimmt-die-kontrolle-ueber-007](https://www.spiegel.de/kultur/kino/james-bond-amazon-uebernimmt-die-kontrolle-ueber-007-a-f26bc806-5367-4f0e-a4c9-76bb98757d4b#ref=rss)
-* [https://www.spiegel.de/ausland/hamas-uebergibt-leichen-von-shiri-bibas-ariel-bibas-kfir-bibas-oded-lifshitz-ein-tag-der-niederlage](https://www.spiegel.de/ausland/hamas-uebergibt-leichen-von-shiri-bibas-ariel-bibas-kfir-bibas-oded-lifshitz-ein-tag-der-niederlage-a-29a9ed12-4ed3-45ca-92ae-b7122788f70f#ref=rss)
-### geiseln
+* [https://www.spiegel.de/auto/deutsche-bahn-will-zahl-der-bahnuebergaenge-wegen-unfallgefahr-weiter-reduzieren](https://www.spiegel.de/auto/deutsche-bahn-will-zahl-der-bahnuebergaenge-wegen-unfallgefahr-weiter-reduzieren-a-187c1e63-62c8-4e7c-b270-c03779e2d61c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/russland-tausende-firmen-aus-deutschland-weiter-in-wladimir-putins-reich-aktiv](https://www.spiegel.de/wirtschaft/russland-tausende-firmen-aus-deutschland-weiter-in-wladimir-putins-reich-aktiv-a-0c1906f8-dc03-45a4-b9cc-661aa15e5d50#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-warum-millionen-deutsche-unentschlossen-sind](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-warum-millionen-deutsche-unentschlossen-sind-a-e4b4b8de-152f-4cb1-a112-4c66ce1255d9#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-friedrich-merz-zeigt-sich-schockiert-ueber-aussagen-von-donald-trump](https://www.spiegel.de/ausland/ukraine-krieg-friedrich-merz-zeigt-sich-schockiert-ueber-aussagen-von-donald-trump-a-a51bb3aa-b234-45da-81bd-4e34020ad1bd#ref=rss)
+### merz
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-uebergibt-vier-tote-geiseln-an-israel](https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-uebergibt-vier-tote-geiseln-an-israel-a-a96ac940-a824-4aa7-b5be-73c32818b5ff#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-uno-menschenrechtsbeauftragter-kritisiert-zurschaustellung-von-geiselleichen](https://www.spiegel.de/ausland/israel-gaza-krieg-uno-menschenrechtsbeauftragter-kritisiert-zurschaustellung-von-geiselleichen-a-4955e678-55f9-4e4c-89c4-d27baedfa0d6#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/kultur/literatur/die-drei-abenteuer-nach-mehr-als-50-jahren-zu-ende-geschrieben](https://www.spiegel.de/kultur/literatur/die-drei-abenteuer-nach-mehr-als-50-jahren-zu-ende-geschrieben-a-f6a85101-38a3-46a0-88d1-557871439a95#ref=rss)
-* [https://www.spiegel.de/sport/tennis/tennis-venus-williams-gibt-comeback-mit-44-jahren](https://www.spiegel.de/sport/tennis/tennis-venus-williams-gibt-comeback-mit-44-jahren-a-3ebb2b44-9ba2-4af4-affa-5abf18488083#ref=rss)
-### bibas
-
-* [https://www.spiegel.de/ausland/hamas-uebergibt-leichen-von-shiri-bibas-ariel-bibas-kfir-bibas-oded-lifshitz-ein-tag-der-niederlage](https://www.spiegel.de/ausland/hamas-uebergibt-leichen-von-shiri-bibas-ariel-bibas-kfir-bibas-oded-lifshitz-ein-tag-der-niederlage-a-29a9ed12-4ed3-45ca-92ae-b7122788f70f#ref=rss)
-### tag
-
-* [https://www.spiegel.de/ausland/hamas-uebergibt-leichen-von-shiri-bibas-ariel-bibas-kfir-bibas-oded-lifshitz-ein-tag-der-niederlage](https://www.spiegel.de/ausland/hamas-uebergibt-leichen-von-shiri-bibas-ariel-bibas-kfir-bibas-oded-lifshitz-ein-tag-der-niederlage-a-29a9ed12-4ed3-45ca-92ae-b7122788f70f#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### scholz
-
-* [https://www.spiegel.de/politik/bundestagswahl-2025-das-kanzlerkandidaten-quiz-wer-hats-gesagt](https://www.spiegel.de/politik/bundestagswahl-2025-das-kanzlerkandidaten-quiz-wer-hats-gesagt-a-cd636d25-da03-4f2e-bc4e-ca06469fdd58#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-uno-menschenrechtsbeauftragter-kritisiert-zurschaustellung-von-geiselleichen](https://www.spiegel.de/ausland/israel-gaza-krieg-uno-menschenrechtsbeauftragter-kritisiert-zurschaustellung-von-geiselleichen-a-4955e678-55f9-4e4c-89c4-d27baedfa0d6#ref=rss)
-### testen
-
-* [https://www.spiegel.de/politik/bundestagswahl-2025-das-kanzlerkandidaten-quiz-wer-hats-gesagt](https://www.spiegel.de/politik/bundestagswahl-2025-das-kanzlerkandidaten-quiz-wer-hats-gesagt-a-cd636d25-da03-4f2e-bc4e-ca06469fdd58#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### stimmen
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-stimmen-von-einwanderern-zur-aktuellen-debatte-ueber-innere-sicherheit](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-stimmen-von-einwanderern-zur-aktuellen-debatte-ueber-innere-sicherheit-a-3b3cefb1-2fa8-451f-9838-85e8abd3be9e#ref=rss)
-### sechs
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-stimmen-von-einwanderern-zur-aktuellen-debatte-ueber-innere-sicherheit](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-stimmen-von-einwanderern-zur-aktuellen-debatte-ueber-innere-sicherheit-a-3b3cefb1-2fa8-451f-9838-85e8abd3be9e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/polizei-fuehrt-grossrazzia-in-sechs-bundeslaendern-durch-menschenhandel-zwangsprostitution-geldwaesche](https://www.spiegel.de/panorama/justiz/polizei-fuehrt-grossrazzia-in-sechs-bundeslaendern-durch-menschenhandel-zwangsprostitution-geldwaesche-a-c3454e3f-f263-4a1a-a4e0-416253d738d3#ref=rss)
-### eishockeyduell
-
-* [https://www.spiegel.de/sport/eishockey/eishockey-duell-usa-gegen-kanada-eiskalter-krieg](https://www.spiegel.de/sport/eishockey/eishockey-duell-usa-gegen-kanada-eiskalter-krieg-a-19ec72f4-247e-4d8d-92de-d56de2cd2397#ref=rss)
-### usa
-
-* [https://www.spiegel.de/sport/eishockey/eishockey-duell-usa-gegen-kanada-eiskalter-krieg](https://www.spiegel.de/sport/eishockey/eishockey-duell-usa-gegen-kanada-eiskalter-krieg-a-19ec72f4-247e-4d8d-92de-d56de2cd2397#ref=rss)
-### kanada
-
-* [https://www.spiegel.de/sport/eishockey/eishockey-duell-usa-gegen-kanada-eiskalter-krieg](https://www.spiegel.de/sport/eishockey/eishockey-duell-usa-gegen-kanada-eiskalter-krieg-a-19ec72f4-247e-4d8d-92de-d56de2cd2397#ref=rss)
-### lage
-
-* [https://www.spiegel.de/sport/eishockey/eishockey-duell-usa-gegen-kanada-eiskalter-krieg](https://www.spiegel.de/sport/eishockey/eishockey-duell-usa-gegen-kanada-eiskalter-krieg-a-19ec72f4-247e-4d8d-92de-d56de2cd2397#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-jan-boehmermann-erklaert-deutsche-politik-in-nyt-video-donald-trump-verbreitet-koenigsportrait-von-sich-auslandsdeutsche-koennen-nicht-mitwaehlen](https://www.spiegel.de/politik/deutschland/news-des-tages-jan-boehmermann-erklaert-deutsche-politik-in-nyt-video-donald-trump-verbreitet-koenigsportrait-von-sich-auslandsdeutsche-koennen-nicht-mitwaehlen-a-cae22971-9ae3-4f9f-9cbc-999a9c013050#ref=rss)
-### hagen
-
-* [https://www.spiegel.de/panorama/hagen-verletztes-hausschwein-von-feuerwehr-azubis-aus-bach-gerettet](https://www.spiegel.de/panorama/hagen-verletztes-hausschwein-von-feuerwehr-azubis-aus-bach-gerettet-a-e7f52d8c-a650-421b-8d83-e4cbcdda37ff#ref=rss)
-### gerettet
-
-* [https://www.spiegel.de/panorama/hagen-verletztes-hausschwein-von-feuerwehr-azubis-aus-bach-gerettet](https://www.spiegel.de/panorama/hagen-verletztes-hausschwein-von-feuerwehr-azubis-aus-bach-gerettet-a-e7f52d8c-a650-421b-8d83-e4cbcdda37ff#ref=rss)
-### magdeburgtodesfahrers
-
-* [https://www.spiegel.de/panorama/justiz/ex-arbeitgeber-des-magdeburg-todesfahrers-taleb-al-abdulmohsen-stellt-vorgesetzten-frei](https://www.spiegel.de/panorama/justiz/ex-arbeitgeber-des-magdeburg-todesfahrers-taleb-al-abdulmohsen-stellt-vorgesetzten-frei-a-679b073a-edc0-47c6-bb65-1b045708b185#ref=rss)
-### selten
-
-* [https://www.spiegel.de/politik/deutschland/hamas-terror-und-antisemitismus-die-wahrheit-die-in-deutschland-viel-zu-selten-geschrieben-wird-kommentar](https://www.spiegel.de/politik/deutschland/hamas-terror-und-antisemitismus-die-wahrheit-die-in-deutschland-viel-zu-selten-geschrieben-wird-kommentar-a-36b480f2-a71d-495c-81a6-180a6f51422b#ref=rss)
-### kommentar
-
-* [https://www.spiegel.de/politik/deutschland/hamas-terror-und-antisemitismus-die-wahrheit-die-in-deutschland-viel-zu-selten-geschrieben-wird-kommentar](https://www.spiegel.de/politik/deutschland/hamas-terror-und-antisemitismus-die-wahrheit-die-in-deutschland-viel-zu-selten-geschrieben-wird-kommentar-a-36b480f2-a71d-495c-81a6-180a6f51422b#ref=rss)
-* [https://www.spiegel.de/kultur/jan-boehmermann-macht-den-anti-elon-musk](https://www.spiegel.de/kultur/jan-boehmermann-macht-den-anti-elon-musk-a-005a6e50-06b7-4ca7-8318-7ed7ca877f0f#ref=rss)
-### terrororganisation
-
-* [https://www.spiegel.de/politik/deutschland/hamas-terror-und-antisemitismus-die-wahrheit-die-in-deutschland-viel-zu-selten-geschrieben-wird-kommentar](https://www.spiegel.de/politik/deutschland/hamas-terror-und-antisemitismus-die-wahrheit-die-in-deutschland-viel-zu-selten-geschrieben-wird-kommentar-a-36b480f2-a71d-495c-81a6-180a6f51422b#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-uno-menschenrechtsbeauftragter-kritisiert-zurschaustellung-von-geiselleichen](https://www.spiegel.de/ausland/israel-gaza-krieg-uno-menschenrechtsbeauftragter-kritisiert-zurschaustellung-von-geiselleichen-a-4955e678-55f9-4e4c-89c4-d27baedfa0d6#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-friedrich-merz-zeigt-sich-schockiert-ueber-aussagen-von-donald-trump](https://www.spiegel.de/ausland/ukraine-krieg-friedrich-merz-zeigt-sich-schockiert-ueber-aussagen-von-donald-trump-a-a51bb3aa-b234-45da-81bd-4e34020ad1bd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/tv-quadrell-bei-rtl-friedrich-merz-liegt-bei-zuschauern-vorn](https://www.spiegel.de/politik/deutschland/tv-quadrell-bei-rtl-friedrich-merz-liegt-bei-zuschauern-vorn-a-d8377e9d-cb30-4415-8464-5cd00c974c16#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-jan-boehmermann-erklaert-deutsche-politik-in-nyt-video-donald-trump-verbreitet-koenigsportrait-von-sich-auslandsdeutsche-koennen-nicht-mitwaehlen](https://www.spiegel.de/politik/deutschland/news-des-tages-jan-boehmermann-erklaert-deutsche-politik-in-nyt-video-donald-trump-verbreitet-koenigsportrait-von-sich-auslandsdeutsche-koennen-nicht-mitwaehlen-a-cae22971-9ae3-4f9f-9cbc-999a9c013050#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-spiegel-reporter-aus-kyjiw-ueber-donald-trumps-einfluss-auf-die-ukraine](https://www.spiegel.de/ausland/ukraine-krieg-spiegel-reporter-aus-kyjiw-ueber-donald-trumps-einfluss-auf-die-ukraine-a-816f008b-8752-42f7-af6a-15ac45be8989#ref=rss)
-### verbreitet
+* [https://www.spiegel.de/ausland/gaza-us-aussenminister-verteidigt-trumps-umsiedlungsplaene](https://www.spiegel.de/ausland/gaza-us-aussenminister-verteidigt-trumps-umsiedlungsplaene-a-e41c7af2-cf67-4247-853a-32990790505b#ref=rss)
+* [https://www.spiegel.de/sport/eishockey/eishockey-duell-usa-gegen-kanada-sportliche-pointe-nach-provokationen-von-donald-trump](https://www.spiegel.de/sport/eishockey/eishockey-duell-usa-gegen-kanada-sportliche-pointe-nach-provokationen-von-donald-trump-a-e5b1c157-e353-4fd6-8314-6056b4ee0173#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-friedrich-merz-zeigt-sich-schockiert-ueber-aussagen-von-donald-trump](https://www.spiegel.de/ausland/ukraine-krieg-friedrich-merz-zeigt-sich-schockiert-ueber-aussagen-von-donald-trump-a-a51bb3aa-b234-45da-81bd-4e34020ad1bd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-kann-die-bundeswehr-stemmen-was-auf-sie-zukommt](https://www.spiegel.de/politik/deutschland/ukraine-krieg-kann-die-bundeswehr-stemmen-was-auf-sie-zukommt-a-de531495-5489-40e2-8630-d440ad544fbd#ref=rss)
+### trump
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-jan-boehmermann-erklaert-deutsche-politik-in-nyt-video-donald-trump-verbreitet-koenigsportrait-von-sich-auslandsdeutsche-koennen-nicht-mitwaehlen](https://www.spiegel.de/politik/deutschland/news-des-tages-jan-boehmermann-erklaert-deutsche-politik-in-nyt-video-donald-trump-verbreitet-koenigsportrait-von-sich-auslandsdeutsche-koennen-nicht-mitwaehlen-a-cae22971-9ae3-4f9f-9cbc-999a9c013050#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-warum-die-gruenen-jetzt-angst-vor-den-linken-haben](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-warum-die-gruenen-jetzt-angst-vor-den-linken-haben-a-e13b112a-0d3e-4e00-8b2e-d120722ff8a0#ref=rss)
-### mitwählen
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-jan-boehmermann-erklaert-deutsche-politik-in-nyt-video-donald-trump-verbreitet-koenigsportrait-von-sich-auslandsdeutsche-koennen-nicht-mitwaehlen](https://www.spiegel.de/politik/deutschland/news-des-tages-jan-boehmermann-erklaert-deutsche-politik-in-nyt-video-donald-trump-verbreitet-koenigsportrait-von-sich-auslandsdeutsche-koennen-nicht-mitwaehlen-a-cae22971-9ae3-4f9f-9cbc-999a9c013050#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-jan-boehmermann-erklaert-deutsche-politik-in-nyt-video-donald-trump-verbreitet-koenigsportrait-von-sich-auslandsdeutsche-koennen-nicht-mitwaehlen](https://www.spiegel.de/politik/deutschland/news-des-tages-jan-boehmermann-erklaert-deutsche-politik-in-nyt-video-donald-trump-verbreitet-koenigsportrait-von-sich-auslandsdeutsche-koennen-nicht-mitwaehlen-a-cae22971-9ae3-4f9f-9cbc-999a9c013050#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-spiegel-reporter-aus-kyjiw-ueber-donald-trumps-einfluss-auf-die-ukraine](https://www.spiegel.de/ausland/ukraine-krieg-spiegel-reporter-aus-kyjiw-ueber-donald-trumps-einfluss-auf-die-ukraine-a-816f008b-8752-42f7-af6a-15ac45be8989#ref=rss)
-### new
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-jan-boehmermann-erklaert-deutsche-politik-in-nyt-video-donald-trump-verbreitet-koenigsportrait-von-sich-auslandsdeutsche-koennen-nicht-mitwaehlen](https://www.spiegel.de/politik/deutschland/news-des-tages-jan-boehmermann-erklaert-deutsche-politik-in-nyt-video-donald-trump-verbreitet-koenigsportrait-von-sich-auslandsdeutsche-koennen-nicht-mitwaehlen-a-cae22971-9ae3-4f9f-9cbc-999a9c013050#ref=rss)
-* [https://www.spiegel.de/kultur/jan-boehmermann-macht-den-anti-elon-musk](https://www.spiegel.de/kultur/jan-boehmermann-macht-den-anti-elon-musk-a-005a6e50-06b7-4ca7-8318-7ed7ca877f0f#ref=rss)
-### york
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-jan-boehmermann-erklaert-deutsche-politik-in-nyt-video-donald-trump-verbreitet-koenigsportrait-von-sich-auslandsdeutsche-koennen-nicht-mitwaehlen](https://www.spiegel.de/politik/deutschland/news-des-tages-jan-boehmermann-erklaert-deutsche-politik-in-nyt-video-donald-trump-verbreitet-koenigsportrait-von-sich-auslandsdeutsche-koennen-nicht-mitwaehlen-a-cae22971-9ae3-4f9f-9cbc-999a9c013050#ref=rss)
-* [https://www.spiegel.de/kultur/jan-boehmermann-macht-den-anti-elon-musk](https://www.spiegel.de/kultur/jan-boehmermann-macht-den-anti-elon-musk-a-005a6e50-06b7-4ca7-8318-7ed7ca877f0f#ref=rss)
-### mitch
-
-* [https://www.spiegel.de/ausland/mitch-mcconnell-senator-tritt-2026-nicht-zur-wiederwahl-an](https://www.spiegel.de/ausland/mitch-mcconnell-senator-tritt-2026-nicht-zur-wiederwahl-an-a-b874da9f-abd2-46d1-9d37-f3a5ff6d49a8#ref=rss)
-### mcconnell
-
-* [https://www.spiegel.de/ausland/mitch-mcconnell-senator-tritt-2026-nicht-zur-wiederwahl-an](https://www.spiegel.de/ausland/mitch-mcconnell-senator-tritt-2026-nicht-zur-wiederwahl-an-a-b874da9f-abd2-46d1-9d37-f3a5ff6d49a8#ref=rss)
-### tritt
-
-* [https://www.spiegel.de/ausland/mitch-mcconnell-senator-tritt-2026-nicht-zur-wiederwahl-an](https://www.spiegel.de/ausland/mitch-mcconnell-senator-tritt-2026-nicht-zur-wiederwahl-an-a-b874da9f-abd2-46d1-9d37-f3a5ff6d49a8#ref=rss)
-* [https://www.spiegel.de/sport/tennis/tennis-venus-williams-gibt-comeback-mit-44-jahren](https://www.spiegel.de/sport/tennis/tennis-venus-williams-gibt-comeback-mit-44-jahren-a-3ebb2b44-9ba2-4af4-affa-5abf18488083#ref=rss)
-### gefälschte
-
-* [https://www.spiegel.de/politik/deutschland/tv-quadrell-bei-rtl-friedrich-merz-liegt-bei-zuschauern-vorn](https://www.spiegel.de/politik/deutschland/tv-quadrell-bei-rtl-friedrich-merz-liegt-bei-zuschauern-vorn-a-d8377e9d-cb30-4415-8464-5cd00c974c16#ref=rss)
-### wahlwerbung
-
-* [https://www.spiegel.de/politik/deutschland/tv-quadrell-bei-rtl-friedrich-merz-liegt-bei-zuschauern-vorn](https://www.spiegel.de/politik/deutschland/tv-quadrell-bei-rtl-friedrich-merz-liegt-bei-zuschauern-vorn-a-d8377e9d-cb30-4415-8464-5cd00c974c16#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/tiktok-die-afd-profitiert-angeblich-am-meisten-von-fake-konten](https://www.spiegel.de/netzwelt/apps/tiktok-die-afd-profitiert-angeblich-am-meisten-von-fake-konten-a-7cae84d9-5fe1-4f77-baaa-866da1bd14c5#ref=rss)
-### original
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/birkenstock-urteil-bei-dieser-sandale-denkt-man-immer-an-das-original](https://www.spiegel.de/wirtschaft/unternehmen/birkenstock-urteil-bei-dieser-sandale-denkt-man-immer-an-das-original-a-bcb06fac-b0e5-4789-9648-6f8008cadf27#ref=rss)
-### birkenstocksandalen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/birkenstock-urteil-bei-dieser-sandale-denkt-man-immer-an-das-original](https://www.spiegel.de/wirtschaft/unternehmen/birkenstock-urteil-bei-dieser-sandale-denkt-man-immer-an-das-original-a-bcb06fac-b0e5-4789-9648-6f8008cadf27#ref=rss)
-* [https://www.spiegel.de/stil/birkenstock-sandalen-bgh-entscheidet-am-ende-doch-nur-ein-schuh](https://www.spiegel.de/stil/birkenstock-sandalen-bgh-entscheidet-am-ende-doch-nur-ein-schuh-a-70bca41d-92be-48b7-b7cf-df59248b3bce#ref=rss)
-### bundesgerichtshof
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/birkenstock-urteil-bei-dieser-sandale-denkt-man-immer-an-das-original](https://www.spiegel.de/wirtschaft/unternehmen/birkenstock-urteil-bei-dieser-sandale-denkt-man-immer-an-das-original-a-bcb06fac-b0e5-4789-9648-6f8008cadf27#ref=rss)
-* [https://www.spiegel.de/stil/birkenstock-sandalen-bgh-entscheidet-am-ende-doch-nur-ein-schuh](https://www.spiegel.de/stil/birkenstock-sandalen-bgh-entscheidet-am-ende-doch-nur-ein-schuh-a-70bca41d-92be-48b7-b7cf-df59248b3bce#ref=rss)
-### entschieden
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/birkenstock-urteil-bei-dieser-sandale-denkt-man-immer-an-das-original](https://www.spiegel.de/wirtschaft/unternehmen/birkenstock-urteil-bei-dieser-sandale-denkt-man-immer-an-das-original-a-bcb06fac-b0e5-4789-9648-6f8008cadf27#ref=rss)
-* [https://www.spiegel.de/stil/birkenstock-sandalen-bgh-entscheidet-am-ende-doch-nur-ein-schuh](https://www.spiegel.de/stil/birkenstock-sandalen-bgh-entscheidet-am-ende-doch-nur-ein-schuh-a-70bca41d-92be-48b7-b7cf-df59248b3bce#ref=rss)
-### israelgazakrieg
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-uebergibt-vier-tote-geiseln-an-israel](https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-uebergibt-vier-tote-geiseln-an-israel-a-a96ac940-a824-4aa7-b5be-73c32818b5ff#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-uno-menschenrechtsbeauftragter-kritisiert-zurschaustellung-von-geiselleichen](https://www.spiegel.de/ausland/israel-gaza-krieg-uno-menschenrechtsbeauftragter-kritisiert-zurschaustellung-von-geiselleichen-a-4955e678-55f9-4e4c-89c4-d27baedfa0d6#ref=rss)
-### vier
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-uebergibt-vier-tote-geiseln-an-israel](https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-uebergibt-vier-tote-geiseln-an-israel-a-a96ac940-a824-4aa7-b5be-73c32818b5ff#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-uebergibt-vier-tote-geiseln-an-israel](https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-uebergibt-vier-tote-geiseln-an-israel-a-a96ac940-a824-4aa7-b5be-73c32818b5ff#ref=rss)
-### ende
-
-* [https://www.spiegel.de/kultur/literatur/die-drei-abenteuer-nach-mehr-als-50-jahren-zu-ende-geschrieben](https://www.spiegel.de/kultur/literatur/die-drei-abenteuer-nach-mehr-als-50-jahren-zu-ende-geschrieben-a-f6a85101-38a3-46a0-88d1-557871439a95#ref=rss)
-* [https://www.spiegel.de/stil/birkenstock-sandalen-bgh-entscheidet-am-ende-doch-nur-ein-schuh](https://www.spiegel.de/stil/birkenstock-sandalen-bgh-entscheidet-am-ende-doch-nur-ein-schuh-a-70bca41d-92be-48b7-b7cf-df59248b3bce#ref=rss)
-### alten
-
-* [https://www.spiegel.de/kultur/literatur/die-drei-abenteuer-nach-mehr-als-50-jahren-zu-ende-geschrieben](https://www.spiegel.de/kultur/literatur/die-drei-abenteuer-nach-mehr-als-50-jahren-zu-ende-geschrieben-a-f6a85101-38a3-46a0-88d1-557871439a95#ref=rss)
-* [https://www.spiegel.de/auto/deutsche-bahn-neue-funktechnik-soll-mobilfunkempfang-in-zuegen-verbessern](https://www.spiegel.de/auto/deutsche-bahn-neue-funktechnik-soll-mobilfunkempfang-in-zuegen-verbessern-a-717e0e64-0d03-4e7c-bb3c-504fa50d673e#ref=rss)
-### james
-
-* [https://www.spiegel.de/kultur/kino/james-bond-amazon-uebernimmt-die-kontrolle-ueber-007](https://www.spiegel.de/kultur/kino/james-bond-amazon-uebernimmt-die-kontrolle-ueber-007-a-f26bc806-5367-4f0e-a4c9-76bb98757d4b#ref=rss)
-### bond
-
-* [https://www.spiegel.de/kultur/kino/james-bond-amazon-uebernimmt-die-kontrolle-ueber-007](https://www.spiegel.de/kultur/kino/james-bond-amazon-uebernimmt-die-kontrolle-ueber-007-a-f26bc806-5367-4f0e-a4c9-76bb98757d4b#ref=rss)
-### amazon
-
-* [https://www.spiegel.de/kultur/kino/james-bond-amazon-uebernimmt-die-kontrolle-ueber-007](https://www.spiegel.de/kultur/kino/james-bond-amazon-uebernimmt-die-kontrolle-ueber-007-a-f26bc806-5367-4f0e-a4c9-76bb98757d4b#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/kultur/kino/james-bond-amazon-uebernimmt-die-kontrolle-ueber-007](https://www.spiegel.de/kultur/kino/james-bond-amazon-uebernimmt-die-kontrolle-ueber-007-a-f26bc806-5367-4f0e-a4c9-76bb98757d4b#ref=rss)
-* [https://www.spiegel.de/netzwelt/myanmar-hunderte-arbeiter-aus-betrugszentren-nach-china-zurueckgebracht](https://www.spiegel.de/netzwelt/myanmar-hunderte-arbeiter-aus-betrugszentren-nach-china-zurueckgebracht-a-7a5771f2-a8af-4106-aec4-4667479af7b3#ref=rss)
-### bezos
-
-* [https://www.spiegel.de/kultur/kino/james-bond-amazon-uebernimmt-die-kontrolle-ueber-007](https://www.spiegel.de/kultur/kino/james-bond-amazon-uebernimmt-die-kontrolle-ueber-007-a-f26bc806-5367-4f0e-a4c9-76bb98757d4b#ref=rss)
-### myanmar
-
-* [https://www.spiegel.de/netzwelt/myanmar-hunderte-arbeiter-aus-betrugszentren-nach-china-zurueckgebracht](https://www.spiegel.de/netzwelt/myanmar-hunderte-arbeiter-aus-betrugszentren-nach-china-zurueckgebracht-a-7a5771f2-a8af-4106-aec4-4667479af7b3#ref=rss)
-### hunderte
-
-* [https://www.spiegel.de/netzwelt/myanmar-hunderte-arbeiter-aus-betrugszentren-nach-china-zurueckgebracht](https://www.spiegel.de/netzwelt/myanmar-hunderte-arbeiter-aus-betrugszentren-nach-china-zurueckgebracht-a-7a5771f2-a8af-4106-aec4-4667479af7b3#ref=rss)
-### arbeit
-
-* [https://www.spiegel.de/netzwelt/myanmar-hunderte-arbeiter-aus-betrugszentren-nach-china-zurueckgebracht](https://www.spiegel.de/netzwelt/myanmar-hunderte-arbeiter-aus-betrugszentren-nach-china-zurueckgebracht-a-7a5771f2-a8af-4106-aec4-4667479af7b3#ref=rss)
-* [https://www.spiegel.de/kultur/tv/the-diplomat-allison-janney-muss-beim-filmkuss-ihre-gefuehle-ueberwinden](https://www.spiegel.de/kultur/tv/the-diplomat-allison-janney-muss-beim-filmkuss-ihre-gefuehle-ueberwinden-a-88d89b62-3077-4a99-9d8e-79110376a15c#ref=rss)
-### hatten
-
-* [https://www.spiegel.de/netzwelt/myanmar-hunderte-arbeiter-aus-betrugszentren-nach-china-zurueckgebracht](https://www.spiegel.de/netzwelt/myanmar-hunderte-arbeiter-aus-betrugszentren-nach-china-zurueckgebracht-a-7a5771f2-a8af-4106-aec4-4667479af7b3#ref=rss)
-* [https://www.spiegel.de/auto/deutsche-bahn-neue-funktechnik-soll-mobilfunkempfang-in-zuegen-verbessern](https://www.spiegel.de/auto/deutsche-bahn-neue-funktechnik-soll-mobilfunkempfang-in-zuegen-verbessern-a-717e0e64-0d03-4e7c-bb3c-504fa50d673e#ref=rss)
-### liam
-
-* [https://www.spiegel.de/panorama/liam-payne-anklage-gegen-drei-von-fuenf-verdaechtige-fallengelassen](https://www.spiegel.de/panorama/liam-payne-anklage-gegen-drei-von-fuenf-verdaechtige-fallengelassen-a-8653580f-29a4-41df-841e-78d8f50c5e92#ref=rss)
-### payne
-
-* [https://www.spiegel.de/panorama/liam-payne-anklage-gegen-drei-von-fuenf-verdaechtige-fallengelassen](https://www.spiegel.de/panorama/liam-payne-anklage-gegen-drei-von-fuenf-verdaechtige-fallengelassen-a-8653580f-29a4-41df-841e-78d8f50c5e92#ref=rss)
-### venus
-
-* [https://www.spiegel.de/sport/tennis/tennis-venus-williams-gibt-comeback-mit-44-jahren](https://www.spiegel.de/sport/tennis/tennis-venus-williams-gibt-comeback-mit-44-jahren-a-3ebb2b44-9ba2-4af4-affa-5abf18488083#ref=rss)
-### williams
-
-* [https://www.spiegel.de/sport/tennis/tennis-venus-williams-gibt-comeback-mit-44-jahren](https://www.spiegel.de/sport/tennis/tennis-venus-williams-gibt-comeback-mit-44-jahren-a-3ebb2b44-9ba2-4af4-affa-5abf18488083#ref=rss)
-### 44
-
-* [https://www.spiegel.de/sport/tennis/tennis-venus-williams-gibt-comeback-mit-44-jahren](https://www.spiegel.de/sport/tennis/tennis-venus-williams-gibt-comeback-mit-44-jahren-a-3ebb2b44-9ba2-4af4-affa-5abf18488083#ref=rss)
-### tiktok
-
-* [https://www.spiegel.de/netzwelt/apps/tiktok-die-afd-profitiert-angeblich-am-meisten-von-fake-konten](https://www.spiegel.de/netzwelt/apps/tiktok-die-afd-profitiert-angeblich-am-meisten-von-fake-konten-a-7cae84d9-5fe1-4f77-baaa-866da1bd14c5#ref=rss)
-### falsche
-
-* [https://www.spiegel.de/netzwelt/apps/tiktok-die-afd-profitiert-angeblich-am-meisten-von-fake-konten](https://www.spiegel.de/netzwelt/apps/tiktok-die-afd-profitiert-angeblich-am-meisten-von-fake-konten-a-7cae84d9-5fe1-4f77-baaa-866da1bd14c5#ref=rss)
-### prosiebensat1
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/prosiebensat-1-tv-sender-plant-abbau-von-hunderten-stellen](https://www.spiegel.de/wirtschaft/unternehmen/prosiebensat-1-tv-sender-plant-abbau-von-hunderten-stellen-a-4db5e802-d1d7-4745-98eb-b166996c45ad#ref=rss)
-### stellen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/prosiebensat-1-tv-sender-plant-abbau-von-hunderten-stellen](https://www.spiegel.de/wirtschaft/unternehmen/prosiebensat-1-tv-sender-plant-abbau-von-hunderten-stellen-a-4db5e802-d1d7-4745-98eb-b166996c45ad#ref=rss)
-### baerbock
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-warum-die-gruenen-jetzt-angst-vor-den-linken-haben](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-warum-die-gruenen-jetzt-angst-vor-den-linken-haben-a-e13b112a-0d3e-4e00-8b2e-d120722ff8a0#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-uno-menschenrechtsbeauftragter-kritisiert-zurschaustellung-von-geiselleichen](https://www.spiegel.de/ausland/israel-gaza-krieg-uno-menschenrechtsbeauftragter-kritisiert-zurschaustellung-von-geiselleichen-a-4955e678-55f9-4e4c-89c4-d27baedfa0d6#ref=rss)
-### bahn
-
-* [https://www.spiegel.de/auto/deutsche-bahn-neue-funktechnik-soll-mobilfunkempfang-in-zuegen-verbessern](https://www.spiegel.de/auto/deutsche-bahn-neue-funktechnik-soll-mobilfunkempfang-in-zuegen-verbessern-a-717e0e64-0d03-4e7c-bb3c-504fa50d673e#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/justiz/polizei-fuehrt-grossrazzia-in-sechs-bundeslaendern-durch-menschenhandel-zwangsprostitution-geldwaesche](https://www.spiegel.de/panorama/justiz/polizei-fuehrt-grossrazzia-in-sechs-bundeslaendern-durch-menschenhandel-zwangsprostitution-geldwaesche-a-c3454e3f-f263-4a1a-a4e0-416253d738d3#ref=rss)
-### allison
-
-* [https://www.spiegel.de/kultur/tv/the-diplomat-allison-janney-muss-beim-filmkuss-ihre-gefuehle-ueberwinden](https://www.spiegel.de/kultur/tv/the-diplomat-allison-janney-muss-beim-filmkuss-ihre-gefuehle-ueberwinden-a-88d89b62-3077-4a99-9d8e-79110376a15c#ref=rss)
-### janney
-
-* [https://www.spiegel.de/kultur/tv/the-diplomat-allison-janney-muss-beim-filmkuss-ihre-gefuehle-ueberwinden](https://www.spiegel.de/kultur/tv/the-diplomat-allison-janney-muss-beim-filmkuss-ihre-gefuehle-ueberwinden-a-88d89b62-3077-4a99-9d8e-79110376a15c#ref=rss)
-### 7
-
-* [https://www.spiegel.de/ausland/hamas-uebergibt-leichen-von-shiri-bibas-ariel-bibas-kfir-bibas-oded-lifshitz-ein-tag-der-niederlage](https://www.spiegel.de/ausland/hamas-uebergibt-leichen-von-shiri-bibas-ariel-bibas-kfir-bibas-oded-lifshitz-ein-tag-der-niederlage-a-29a9ed12-4ed3-45ca-92ae-b7122788f70f#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### lewis
-
-* [https://www.spiegel.de/sport/formel-1-lewis-hamiltons-start-bei-ferrari-in-maranello-ein-anruf-beim-buergermeister](https://www.spiegel.de/sport/formel-1-lewis-hamiltons-start-bei-ferrari-in-maranello-ein-anruf-beim-buergermeister-a-8efd3365-bf09-4ac0-8c4f-88d791fb54df#ref=rss)
-### maranello
-
-* [https://www.spiegel.de/sport/formel-1-lewis-hamiltons-start-bei-ferrari-in-maranello-ein-anruf-beim-buergermeister](https://www.spiegel.de/sport/formel-1-lewis-hamiltons-start-bei-ferrari-in-maranello-ein-anruf-beim-buergermeister-a-8efd3365-bf09-4ac0-8c4f-88d791fb54df#ref=rss)
-### anruf
-
-* [https://www.spiegel.de/sport/formel-1-lewis-hamiltons-start-bei-ferrari-in-maranello-ein-anruf-beim-buergermeister](https://www.spiegel.de/sport/formel-1-lewis-hamiltons-start-bei-ferrari-in-maranello-ein-anruf-beim-buergermeister-a-8efd3365-bf09-4ac0-8c4f-88d791fb54df#ref=rss)
-### bürgermeister
-
-* [https://www.spiegel.de/sport/formel-1-lewis-hamiltons-start-bei-ferrari-in-maranello-ein-anruf-beim-buergermeister](https://www.spiegel.de/sport/formel-1-lewis-hamiltons-start-bei-ferrari-in-maranello-ein-anruf-beim-buergermeister-a-8efd3365-bf09-4ac0-8c4f-88d791fb54df#ref=rss)
-### letzter
-
-* [https://www.spiegel.de/sport/letzter-auf-der-vendee-globe-natuerlich-spreche-ich-mit-meinem-boot](https://www.spiegel.de/sport/letzter-auf-der-vendee-globe-natuerlich-spreche-ich-mit-meinem-boot-a-81bbdd90-6d72-4620-9c30-24f75fad63c2#ref=rss)
-### spiegelreporter
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-spiegel-reporter-aus-kyjiw-ueber-donald-trumps-einfluss-auf-die-ukraine](https://www.spiegel.de/ausland/ukraine-krieg-spiegel-reporter-aus-kyjiw-ueber-donald-trumps-einfluss-auf-die-ukraine-a-816f008b-8752-42f7-af6a-15ac45be8989#ref=rss)
-### kyjiw
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-spiegel-reporter-aus-kyjiw-ueber-donald-trumps-einfluss-auf-die-ukraine](https://www.spiegel.de/ausland/ukraine-krieg-spiegel-reporter-aus-kyjiw-ueber-donald-trumps-einfluss-auf-die-ukraine-a-816f008b-8752-42f7-af6a-15ac45be8989#ref=rss)
-### trumps
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-spiegel-reporter-aus-kyjiw-ueber-donald-trumps-einfluss-auf-die-ukraine](https://www.spiegel.de/ausland/ukraine-krieg-spiegel-reporter-aus-kyjiw-ueber-donald-trumps-einfluss-auf-die-ukraine-a-816f008b-8752-42f7-af6a-15ac45be8989#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-us-aussenminister-verteidigt-trumps-umsiedlungsplaene](https://www.spiegel.de/ausland/gaza-us-aussenminister-verteidigt-trumps-umsiedlungsplaene-a-e41c7af2-cf67-4247-853a-32990790505b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/russland-tausende-firmen-aus-deutschland-weiter-in-wladimir-putins-reich-aktiv](https://www.spiegel.de/wirtschaft/russland-tausende-firmen-aus-deutschland-weiter-in-wladimir-putins-reich-aktiv-a-0c1906f8-dc03-45a4-b9cc-661aa15e5d50#ref=rss)
+* [https://www.spiegel.de/sport/eishockey/eishockey-duell-usa-gegen-kanada-sportliche-pointe-nach-provokationen-von-donald-trump](https://www.spiegel.de/sport/eishockey/eishockey-duell-usa-gegen-kanada-sportliche-pointe-nach-provokationen-von-donald-trump-a-e5b1c157-e353-4fd6-8314-6056b4ee0173#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-friedrich-merz-zeigt-sich-schockiert-ueber-aussagen-von-donald-trump](https://www.spiegel.de/ausland/ukraine-krieg-friedrich-merz-zeigt-sich-schockiert-ueber-aussagen-von-donald-trump-a-a51bb3aa-b234-45da-81bd-4e34020ad1bd#ref=rss)
 ### ukraine
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-spiegel-reporter-aus-kyjiw-ueber-donald-trumps-einfluss-auf-die-ukraine](https://www.spiegel.de/ausland/ukraine-krieg-spiegel-reporter-aus-kyjiw-ueber-donald-trumps-einfluss-auf-die-ukraine-a-816f008b-8752-42f7-af6a-15ac45be8989#ref=rss)
-### fragen
+* [https://www.spiegel.de/wirtschaft/russland-tausende-firmen-aus-deutschland-weiter-in-wladimir-putins-reich-aktiv](https://www.spiegel.de/wirtschaft/russland-tausende-firmen-aus-deutschland-weiter-in-wladimir-putins-reich-aktiv-a-0c1906f8-dc03-45a4-b9cc-661aa15e5d50#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-friedrich-merz-zeigt-sich-schockiert-ueber-aussagen-von-donald-trump](https://www.spiegel.de/ausland/ukraine-krieg-friedrich-merz-zeigt-sich-schockiert-ueber-aussagen-von-donald-trump-a-a51bb3aa-b234-45da-81bd-4e34020ad1bd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-kann-die-bundeswehr-stemmen-was-auf-sie-zukommt](https://www.spiegel.de/politik/deutschland/ukraine-krieg-kann-die-bundeswehr-stemmen-was-auf-sie-zukommt-a-de531495-5489-40e2-8630-d440ad544fbd#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-und-us-sondergesandter-keith-kellogg-sprechen-nach-trump-kritik](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-und-us-sondergesandter-keith-kellogg-sprechen-nach-trump-kritik-a-e4b474e3-086b-4935-8a8c-179e4a662bbe#ref=rss)
+### trumps
 
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### zurschaustellung
+* [https://www.spiegel.de/ausland/gaza-us-aussenminister-verteidigt-trumps-umsiedlungsplaene](https://www.spiegel.de/ausland/gaza-us-aussenminister-verteidigt-trumps-umsiedlungsplaene-a-e41c7af2-cf67-4247-853a-32990790505b#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-friedrich-merz-zeigt-sich-schockiert-ueber-aussagen-von-donald-trump](https://www.spiegel.de/ausland/ukraine-krieg-friedrich-merz-zeigt-sich-schockiert-ueber-aussagen-von-donald-trump-a-a51bb3aa-b234-45da-81bd-4e34020ad1bd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-kann-die-bundeswehr-stemmen-was-auf-sie-zukommt](https://www.spiegel.de/politik/deutschland/ukraine-krieg-kann-die-bundeswehr-stemmen-was-auf-sie-zukommt-a-de531495-5489-40e2-8630-d440ad544fbd#ref=rss)
+### neue
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-uno-menschenrechtsbeauftragter-kritisiert-zurschaustellung-von-geiselleichen](https://www.spiegel.de/ausland/israel-gaza-krieg-uno-menschenrechtsbeauftragter-kritisiert-zurschaustellung-von-geiselleichen-a-4955e678-55f9-4e4c-89c4-d27baedfa0d6#ref=rss)
+* [https://www.spiegel.de/psychologie/coaching-neue-gewohnheiten-einfuehren-so-erkennen-sie-die-muster-hinter-ihren-gewohnheiten](https://www.spiegel.de/psychologie/coaching-neue-gewohnheiten-einfuehren-so-erkennen-sie-die-muster-hinter-ihren-gewohnheiten-a-73e59ba2-d860-40e8-a8d1-dc9cd4e7eb4b#ref=rss)
+* [https://www.spiegel.de/panorama/bundespolizei-hochschule-gewerkschaft-der-polizei-fordert-eingreifen-von-faeser-bei-umstrittenem-professor](https://www.spiegel.de/panorama/bundespolizei-hochschule-gewerkschaft-der-polizei-fordert-eingreifen-von-faeser-bei-umstrittenem-professor-a-5c0a6219-e926-41dc-bffd-305e23b00269#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-wer-ist-der-verschwiegene-milliardaer-hinter-der-verdaechtigen-millionen-spende](https://www.spiegel.de/politik/deutschland/afd-wer-ist-der-verschwiegene-milliardaer-hinter-der-verdaechtigen-millionen-spende-a-424da78a-95be-45de-8c21-4a2922305c51#ref=rss)
+### hinter
+
+* [https://www.spiegel.de/psychologie/coaching-neue-gewohnheiten-einfuehren-so-erkennen-sie-die-muster-hinter-ihren-gewohnheiten](https://www.spiegel.de/psychologie/coaching-neue-gewohnheiten-einfuehren-so-erkennen-sie-die-muster-hinter-ihren-gewohnheiten-a-73e59ba2-d860-40e8-a8d1-dc9cd4e7eb4b#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/bundestagswahl-russische-troll-gruppe-verbreitet-offenbar-fake-videos-zur-briefwahl](https://www.spiegel.de/netzwelt/web/bundestagswahl-russische-troll-gruppe-verbreitet-offenbar-fake-videos-zur-briefwahl-a-325b8c89-8dae-4adc-ada9-f8d9ab6dd9f2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-wer-ist-der-verschwiegene-milliardaer-hinter-der-verdaechtigen-millionen-spende](https://www.spiegel.de/politik/deutschland/afd-wer-ist-der-verschwiegene-milliardaer-hinter-der-verdaechtigen-millionen-spende-a-424da78a-95be-45de-8c21-4a2922305c51#ref=rss)
+### wir
+
+* [https://www.spiegel.de/psychologie/coaching-neue-gewohnheiten-einfuehren-so-erkennen-sie-die-muster-hinter-ihren-gewohnheiten](https://www.spiegel.de/psychologie/coaching-neue-gewohnheiten-einfuehren-so-erkennen-sie-die-muster-hinter-ihren-gewohnheiten-a-73e59ba2-d860-40e8-a8d1-dc9cd4e7eb4b#ref=rss)
+### behauptet
+
+* [https://www.spiegel.de/netzwelt/web/bundestagswahl-russische-troll-gruppe-verbreitet-offenbar-fake-videos-zur-briefwahl](https://www.spiegel.de/netzwelt/web/bundestagswahl-russische-troll-gruppe-verbreitet-offenbar-fake-videos-zur-briefwahl-a-325b8c89-8dae-4adc-ada9-f8d9ab6dd9f2#ref=rss)
+* [https://www.spiegel.de/ausland/china-kriegsschiffe-vor-australien-fluege-aendern-kurs](https://www.spiegel.de/ausland/china-kriegsschiffe-vor-australien-fluege-aendern-kurs-a-aa9df395-4a81-4ad5-9b1c-e7bf6c978c01#ref=rss)
+* [https://www.spiegel.de/ausland/verhaeltnis-usa-deutschland-j-d-vance-verknuepft-us-schutz-mit-meinungsfreiheit](https://www.spiegel.de/ausland/verhaeltnis-usa-deutschland-j-d-vance-verknuepft-us-schutz-mit-meinungsfreiheit-a-8daf2bb8-b131-4b5c-a624-9b7e28037369#ref=rss)
+### afd
+
+* [https://www.spiegel.de/netzwelt/web/bundestagswahl-russische-troll-gruppe-verbreitet-offenbar-fake-videos-zur-briefwahl](https://www.spiegel.de/netzwelt/web/bundestagswahl-russische-troll-gruppe-verbreitet-offenbar-fake-videos-zur-briefwahl-a-325b8c89-8dae-4adc-ada9-f8d9ab6dd9f2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-wer-ist-der-verschwiegene-milliardaer-hinter-der-verdaechtigen-millionen-spende](https://www.spiegel.de/politik/deutschland/afd-wer-ist-der-verschwiegene-milliardaer-hinter-der-verdaechtigen-millionen-spende-a-424da78a-95be-45de-8c21-4a2922305c51#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/ausland/ostsee-schweden-untersucht-moeglichen-schaden-an-unterseekabel](https://www.spiegel.de/ausland/ostsee-schweden-untersucht-moeglichen-schaden-an-unterseekabel-a-06fca5e3-9e2b-4191-8897-d2e3f0dd8003#ref=rss)
+* [https://www.spiegel.de/panorama/bundespolizei-hochschule-gewerkschaft-der-polizei-fordert-eingreifen-von-faeser-bei-umstrittenem-professor](https://www.spiegel.de/panorama/bundespolizei-hochschule-gewerkschaft-der-polizei-fordert-eingreifen-von-faeser-bei-umstrittenem-professor-a-5c0a6219-e926-41dc-bffd-305e23b00269#ref=rss)
+### gewerkschaft
+
+* [https://www.spiegel.de/panorama/bundespolizei-hochschule-gewerkschaft-der-polizei-fordert-eingreifen-von-faeser-bei-umstrittenem-professor](https://www.spiegel.de/panorama/bundespolizei-hochschule-gewerkschaft-der-polizei-fordert-eingreifen-von-faeser-bei-umstrittenem-professor-a-5c0a6219-e926-41dc-bffd-305e23b00269#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/warnstreik-im-oeffentlichen-dienst-busse-und-bahnen-stehen-vielerorts-in-deutschland-still](https://www.spiegel.de/wirtschaft/unternehmen/warnstreik-im-oeffentlichen-dienst-busse-und-bahnen-stehen-vielerorts-in-deutschland-still-a-414c3500-90f4-4cc5-a601-eab5a304851c#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-friedrich-merz-zeigt-sich-schockiert-ueber-aussagen-von-donald-trump](https://www.spiegel.de/ausland/ukraine-krieg-friedrich-merz-zeigt-sich-schockiert-ueber-aussagen-von-donald-trump-a-a51bb3aa-b234-45da-81bd-4e34020ad1bd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/tv-quadrell-bei-rtl-friedrich-merz-liegt-bei-zuschauern-vorn](https://www.spiegel.de/politik/deutschland/tv-quadrell-bei-rtl-friedrich-merz-liegt-bei-zuschauern-vorn-a-d8377e9d-cb30-4415-8464-5cd00c974c16#ref=rss)
+### öffentlichen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/warnstreik-im-oeffentlichen-dienst-busse-und-bahnen-stehen-vielerorts-in-deutschland-still](https://www.spiegel.de/wirtschaft/unternehmen/warnstreik-im-oeffentlichen-dienst-busse-und-bahnen-stehen-vielerorts-in-deutschland-still-a-414c3500-90f4-4cc5-a601-eab5a304851c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/warnstreik-im-oeffentlichen-dienst-hinterm-steuer-kann-ich-nicht-die-haushaltskrise-loesen](https://www.spiegel.de/wirtschaft/unternehmen/warnstreik-im-oeffentlichen-dienst-hinterm-steuer-kann-ich-nicht-die-haushaltskrise-loesen-a-7a405e7b-93ea-4fdb-b23a-792537bfe28d#ref=rss)
+### cage
+
+* [https://www.spiegel.de/panorama/leute/nicolas-cage-ex-partnerin-christina-fulton-verklagt-hollywoodstar-und-gemeinsamen-sohn](https://www.spiegel.de/panorama/leute/nicolas-cage-ex-partnerin-christina-fulton-verklagt-hollywoodstar-und-gemeinsamen-sohn-a-ff7fd988-094e-478e-83bb-fe167a4bad90#ref=rss)
+### laut
+
+* [https://www.spiegel.de/panorama/falschgeld-in-deutschland-laut-deutscher-bundesbank-erneut-mehr-gefaelschte-geldscheine-im-umlauf](https://www.spiegel.de/panorama/falschgeld-in-deutschland-laut-deutscher-bundesbank-erneut-mehr-gefaelschte-geldscheine-im-umlauf-a-49ff07a7-0822-4d27-968a-b3a70d14c3d7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/russland-tausende-firmen-aus-deutschland-weiter-in-wladimir-putins-reich-aktiv](https://www.spiegel.de/wirtschaft/russland-tausende-firmen-aus-deutschland-weiter-in-wladimir-putins-reich-aktiv-a-0c1906f8-dc03-45a4-b9cc-661aa15e5d50#ref=rss)
+### bundesbank
+
+* [https://www.spiegel.de/panorama/falschgeld-in-deutschland-laut-deutscher-bundesbank-erneut-mehr-gefaelschte-geldscheine-im-umlauf](https://www.spiegel.de/panorama/falschgeld-in-deutschland-laut-deutscher-bundesbank-erneut-mehr-gefaelschte-geldscheine-im-umlauf-a-49ff07a7-0822-4d27-968a-b3a70d14c3d7#ref=rss)
+### gefälschte
+
+* [https://www.spiegel.de/panorama/falschgeld-in-deutschland-laut-deutscher-bundesbank-erneut-mehr-gefaelschte-geldscheine-im-umlauf](https://www.spiegel.de/panorama/falschgeld-in-deutschland-laut-deutscher-bundesbank-erneut-mehr-gefaelschte-geldscheine-im-umlauf-a-49ff07a7-0822-4d27-968a-b3a70d14c3d7#ref=rss)
+### uspräsident
+
+* [https://www.spiegel.de/ausland/gaza-us-aussenminister-verteidigt-trumps-umsiedlungsplaene](https://www.spiegel.de/ausland/gaza-us-aussenminister-verteidigt-trumps-umsiedlungsplaene-a-e41c7af2-cf67-4247-853a-32990790505b#ref=rss)
+* [https://www.spiegel.de/sport/eishockey/eishockey-duell-usa-gegen-kanada-sportliche-pointe-nach-provokationen-von-donald-trump](https://www.spiegel.de/sport/eishockey/eishockey-duell-usa-gegen-kanada-sportliche-pointe-nach-provokationen-von-donald-trump-a-e5b1c157-e353-4fd6-8314-6056b4ee0173#ref=rss)
+### derzeit
+
+* [https://www.spiegel.de/ausland/gaza-us-aussenminister-verteidigt-trumps-umsiedlungsplaene](https://www.spiegel.de/ausland/gaza-us-aussenminister-verteidigt-trumps-umsiedlungsplaene-a-e41c7af2-cf67-4247-853a-32990790505b#ref=rss)
+* [https://www.spiegel.de/sport/alemannia-aachen-der-groesste-chaos-klub-deutschlands](https://www.spiegel.de/sport/alemannia-aachen-der-groesste-chaos-klub-deutschlands-a-219f8697-004b-420e-9e67-e821d3186e0d#ref=rss)
+### toter
+
+* [https://www.spiegel.de/panorama/nordsee-toter-buckelwal-auf-minsener-oog-gestrandet](https://www.spiegel.de/panorama/nordsee-toter-buckelwal-auf-minsener-oog-gestrandet-a-9299f6d6-c4d2-42be-8f0e-18080587382c#ref=rss)
+### buckelwal
+
+* [https://www.spiegel.de/panorama/nordsee-toter-buckelwal-auf-minsener-oog-gestrandet](https://www.spiegel.de/panorama/nordsee-toter-buckelwal-auf-minsener-oog-gestrandet-a-9299f6d6-c4d2-42be-8f0e-18080587382c#ref=rss)
+### minsener
+
+* [https://www.spiegel.de/panorama/nordsee-toter-buckelwal-auf-minsener-oog-gestrandet](https://www.spiegel.de/panorama/nordsee-toter-buckelwal-auf-minsener-oog-gestrandet-a-9299f6d6-c4d2-42be-8f0e-18080587382c#ref=rss)
+### oog
+
+* [https://www.spiegel.de/panorama/nordsee-toter-buckelwal-auf-minsener-oog-gestrandet](https://www.spiegel.de/panorama/nordsee-toter-buckelwal-auf-minsener-oog-gestrandet-a-9299f6d6-c4d2-42be-8f0e-18080587382c#ref=rss)
+### europäischen
+
+* [https://www.spiegel.de/politik/deutschland-braucht-einen-europaeischen-bundeskanzler](https://www.spiegel.de/politik/deutschland-braucht-einen-europaeischen-bundeskanzler-a-328121af-b479-472f-837d-48ecede5516f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-will-enger-mit-us-firma-anduril-kooperieren](https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-will-enger-mit-us-firma-anduril-kooperieren-a-85a91547-77e4-4060-b984-f078adab96a2#ref=rss)
+### nichts
+
+* [https://www.spiegel.de/politik/deutschland-braucht-einen-europaeischen-bundeskanzler](https://www.spiegel.de/politik/deutschland-braucht-einen-europaeischen-bundeskanzler-a-328121af-b479-472f-837d-48ecede5516f#ref=rss)
+* [https://www.spiegel.de/ausland/china-kriegsschiffe-vor-australien-fluege-aendern-kurs](https://www.spiegel.de/ausland/china-kriegsschiffe-vor-australien-fluege-aendern-kurs-a-aa9df395-4a81-4ad5-9b1c-e7bf6c978c01#ref=rss)
+### bundesrepublik
+
+* [https://www.spiegel.de/politik/deutschland-braucht-einen-europaeischen-bundeskanzler](https://www.spiegel.de/politik/deutschland-braucht-einen-europaeischen-bundeskanzler-a-328121af-b479-472f-837d-48ecede5516f#ref=rss)
+* [https://www.spiegel.de/ausland/verhaeltnis-usa-deutschland-j-d-vance-verknuepft-us-schutz-mit-meinungsfreiheit](https://www.spiegel.de/ausland/verhaeltnis-usa-deutschland-j-d-vance-verknuepft-us-schutz-mit-meinungsfreiheit-a-8daf2bb8-b131-4b5c-a624-9b7e28037369#ref=rss)
+### bahn
+
+* [https://www.spiegel.de/auto/deutsche-bahn-will-zahl-der-bahnuebergaenge-wegen-unfallgefahr-weiter-reduzieren](https://www.spiegel.de/auto/deutsche-bahn-will-zahl-der-bahnuebergaenge-wegen-unfallgefahr-weiter-reduzieren-a-187c1e63-62c8-4e7c-b270-c03779e2d61c#ref=rss)
+### bahnübergänge
+
+* [https://www.spiegel.de/auto/deutsche-bahn-will-zahl-der-bahnuebergaenge-wegen-unfallgefahr-weiter-reduzieren](https://www.spiegel.de/auto/deutsche-bahn-will-zahl-der-bahnuebergaenge-wegen-unfallgefahr-weiter-reduzieren-a-187c1e63-62c8-4e7c-b270-c03779e2d61c#ref=rss)
+### reduzieren
+
+* [https://www.spiegel.de/auto/deutsche-bahn-will-zahl-der-bahnuebergaenge-wegen-unfallgefahr-weiter-reduzieren](https://www.spiegel.de/auto/deutsche-bahn-will-zahl-der-bahnuebergaenge-wegen-unfallgefahr-weiter-reduzieren-a-187c1e63-62c8-4e7c-b270-c03779e2d61c#ref=rss)
+* [https://www.spiegel.de/ausland/verhaeltnis-usa-deutschland-j-d-vance-verknuepft-us-schutz-mit-meinungsfreiheit](https://www.spiegel.de/ausland/verhaeltnis-usa-deutschland-j-d-vance-verknuepft-us-schutz-mit-meinungsfreiheit-a-8daf2bb8-b131-4b5c-a624-9b7e28037369#ref=rss)
+### firmen
+
+* [https://www.spiegel.de/wirtschaft/russland-tausende-firmen-aus-deutschland-weiter-in-wladimir-putins-reich-aktiv](https://www.spiegel.de/wirtschaft/russland-tausende-firmen-aus-deutschland-weiter-in-wladimir-putins-reich-aktiv-a-0c1906f8-dc03-45a4-b9cc-661aa15e5d50#ref=rss)
+### drei
+
+* [https://www.spiegel.de/wirtschaft/russland-tausende-firmen-aus-deutschland-weiter-in-wladimir-putins-reich-aktiv](https://www.spiegel.de/wirtschaft/russland-tausende-firmen-aus-deutschland-weiter-in-wladimir-putins-reich-aktiv-a-0c1906f8-dc03-45a4-b9cc-661aa15e5d50#ref=rss)
+* [https://www.spiegel.de/ausland/china-kriegsschiffe-vor-australien-fluege-aendern-kurs](https://www.spiegel.de/ausland/china-kriegsschiffe-vor-australien-fluege-aendern-kurs-a-aa9df395-4a81-4ad5-9b1c-e7bf6c978c01#ref=rss)
+### usa
+
+* [https://www.spiegel.de/sport/eishockey/eishockey-duell-usa-gegen-kanada-sportliche-pointe-nach-provokationen-von-donald-trump](https://www.spiegel.de/sport/eishockey/eishockey-duell-usa-gegen-kanada-sportliche-pointe-nach-provokationen-von-donald-trump-a-e5b1c157-e353-4fd6-8314-6056b4ee0173#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-und-us-sondergesandter-keith-kellogg-sprechen-nach-trump-kritik](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-und-us-sondergesandter-keith-kellogg-sprechen-nach-trump-kritik-a-e4b474e3-086b-4935-8a8c-179e4a662bbe#ref=rss)
+### kanada
+
+* [https://www.spiegel.de/sport/eishockey/eishockey-duell-usa-gegen-kanada-sportliche-pointe-nach-provokationen-von-donald-trump](https://www.spiegel.de/sport/eishockey/eishockey-duell-usa-gegen-kanada-sportliche-pointe-nach-provokationen-von-donald-trump-a-e5b1c157-e353-4fd6-8314-6056b4ee0173#ref=rss)
+### karin
+
+* [https://www.spiegel.de/deinspiegel/karin-prien-cdu-im-kinder-interview-macht-den-mund-auf-wenn-ihr-unrecht-erlebt](https://www.spiegel.de/deinspiegel/karin-prien-cdu-im-kinder-interview-macht-den-mund-auf-wenn-ihr-unrecht-erlebt-a-ca55e865-de57-4426-b447-2dbbfd9c241b#ref=rss)
+### prien
+
+* [https://www.spiegel.de/deinspiegel/karin-prien-cdu-im-kinder-interview-macht-den-mund-auf-wenn-ihr-unrecht-erlebt](https://www.spiegel.de/deinspiegel/karin-prien-cdu-im-kinder-interview-macht-den-mund-auf-wenn-ihr-unrecht-erlebt-a-ca55e865-de57-4426-b447-2dbbfd9c241b#ref=rss)
+### macht
+
+* [https://www.spiegel.de/deinspiegel/karin-prien-cdu-im-kinder-interview-macht-den-mund-auf-wenn-ihr-unrecht-erlebt](https://www.spiegel.de/deinspiegel/karin-prien-cdu-im-kinder-interview-macht-den-mund-auf-wenn-ihr-unrecht-erlebt-a-ca55e865-de57-4426-b447-2dbbfd9c241b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/tv-quadrell-bei-rtl-friedrich-merz-liegt-bei-zuschauern-vorn](https://www.spiegel.de/politik/deutschland/tv-quadrell-bei-rtl-friedrich-merz-liegt-bei-zuschauern-vorn-a-d8377e9d-cb30-4415-8464-5cd00c974c16#ref=rss)
+### gewohnheiten
+
+* [https://www.spiegel.de/psychologie/coaching-neue-gewohnheiten-einfuehren-so-erkennen-sie-die-muster-hinter-ihren-gewohnheiten](https://www.spiegel.de/psychologie/coaching-neue-gewohnheiten-einfuehren-so-erkennen-sie-die-muster-hinter-ihren-gewohnheiten-a-73e59ba2-d860-40e8-a8d1-dc9cd4e7eb4b#ref=rss)
+### viele
+
+* [https://www.spiegel.de/psychologie/coaching-neue-gewohnheiten-einfuehren-so-erkennen-sie-die-muster-hinter-ihren-gewohnheiten](https://www.spiegel.de/psychologie/coaching-neue-gewohnheiten-einfuehren-so-erkennen-sie-die-muster-hinter-ihren-gewohnheiten-a-73e59ba2-d860-40e8-a8d1-dc9cd4e7eb4b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/warnstreik-im-oeffentlichen-dienst-busse-und-bahnen-stehen-vielerorts-in-deutschland-still](https://www.spiegel.de/wirtschaft/unternehmen/warnstreik-im-oeffentlichen-dienst-busse-und-bahnen-stehen-vielerorts-in-deutschland-still-a-414c3500-90f4-4cc5-a601-eab5a304851c#ref=rss)
+### ändern
+
+* [https://www.spiegel.de/psychologie/coaching-neue-gewohnheiten-einfuehren-so-erkennen-sie-die-muster-hinter-ihren-gewohnheiten](https://www.spiegel.de/psychologie/coaching-neue-gewohnheiten-einfuehren-so-erkennen-sie-die-muster-hinter-ihren-gewohnheiten-a-73e59ba2-d860-40e8-a8d1-dc9cd4e7eb4b#ref=rss)
+* [https://www.spiegel.de/ausland/china-kriegsschiffe-vor-australien-fluege-aendern-kurs](https://www.spiegel.de/ausland/china-kriegsschiffe-vor-australien-fluege-aendern-kurs-a-aa9df395-4a81-4ad5-9b1c-e7bf6c978c01#ref=rss)
+### anduril
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-will-enger-mit-us-firma-anduril-kooperieren](https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-will-enger-mit-us-firma-anduril-kooperieren-a-85a91547-77e4-4060-b984-f078adab96a2#ref=rss)
+### russische
+
+* [https://www.spiegel.de/netzwelt/web/bundestagswahl-russische-troll-gruppe-verbreitet-offenbar-fake-videos-zur-briefwahl](https://www.spiegel.de/netzwelt/web/bundestagswahl-russische-troll-gruppe-verbreitet-offenbar-fake-videos-zur-briefwahl-a-325b8c89-8dae-4adc-ada9-f8d9ab6dd9f2#ref=rss)
+### fakevideos
+
+* [https://www.spiegel.de/netzwelt/web/bundestagswahl-russische-troll-gruppe-verbreitet-offenbar-fake-videos-zur-briefwahl](https://www.spiegel.de/netzwelt/web/bundestagswahl-russische-troll-gruppe-verbreitet-offenbar-fake-videos-zur-briefwahl-a-325b8c89-8dae-4adc-ada9-f8d9ab6dd9f2#ref=rss)
+### briefwahl
+
+* [https://www.spiegel.de/netzwelt/web/bundestagswahl-russische-troll-gruppe-verbreitet-offenbar-fake-videos-zur-briefwahl](https://www.spiegel.de/netzwelt/web/bundestagswahl-russische-troll-gruppe-verbreitet-offenbar-fake-videos-zur-briefwahl-a-325b8c89-8dae-4adc-ada9-f8d9ab6dd9f2#ref=rss)
+### werde
+
+* [https://www.spiegel.de/netzwelt/web/bundestagswahl-russische-troll-gruppe-verbreitet-offenbar-fake-videos-zur-briefwahl](https://www.spiegel.de/netzwelt/web/bundestagswahl-russische-troll-gruppe-verbreitet-offenbar-fake-videos-zur-briefwahl-a-325b8c89-8dae-4adc-ada9-f8d9ab6dd9f2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/15-euro-mindestlohn-ifo-oekonom-clemens-fuest-warnt-wirtschaft-zu-schwach](https://www.spiegel.de/wirtschaft/soziales/15-euro-mindestlohn-ifo-oekonom-clemens-fuest-warnt-wirtschaft-zu-schwach-a-25cb7609-b93d-4827-9227-71afbd060892#ref=rss)
+### unterseekabel
+
+* [https://www.spiegel.de/ausland/ostsee-schweden-untersucht-moeglichen-schaden-an-unterseekabel](https://www.spiegel.de/ausland/ostsee-schweden-untersucht-moeglichen-schaden-an-unterseekabel-a-06fca5e3-9e2b-4191-8897-d2e3f0dd8003#ref=rss)
+### luis
+
+* [https://www.spiegel.de/sport/fussball/affaere-luis-rubiales-was-vom-kuss-uebrig-bleibt](https://www.spiegel.de/sport/fussball/affaere-luis-rubiales-was-vom-kuss-uebrig-bleibt-a-ce9d317f-fb6e-4170-b695-06302a3235e6#ref=rss)
+### rubiales
+
+* [https://www.spiegel.de/sport/fussball/affaere-luis-rubiales-was-vom-kuss-uebrig-bleibt](https://www.spiegel.de/sport/fussball/affaere-luis-rubiales-was-vom-kuss-uebrig-bleibt-a-ce9d317f-fb6e-4170-b695-06302a3235e6#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-warum-millionen-deutsche-unentschlossen-sind](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-warum-millionen-deutsche-unentschlossen-sind-a-e4b4b8de-152f-4cb1-a112-4c66ce1255d9#ref=rss)
+### faeser
+
+* [https://www.spiegel.de/panorama/bundespolizei-hochschule-gewerkschaft-der-polizei-fordert-eingreifen-von-faeser-bei-umstrittenem-professor](https://www.spiegel.de/panorama/bundespolizei-hochschule-gewerkschaft-der-polizei-fordert-eingreifen-von-faeser-bei-umstrittenem-professor-a-5c0a6219-e926-41dc-bffd-305e23b00269#ref=rss)
+### professor
+
+* [https://www.spiegel.de/panorama/bundespolizei-hochschule-gewerkschaft-der-polizei-fordert-eingreifen-von-faeser-bei-umstrittenem-professor](https://www.spiegel.de/panorama/bundespolizei-hochschule-gewerkschaft-der-polizei-fordert-eingreifen-von-faeser-bei-umstrittenem-professor-a-5c0a6219-e926-41dc-bffd-305e23b00269#ref=rss)
+### clemens
+
+* [https://www.spiegel.de/wirtschaft/soziales/15-euro-mindestlohn-ifo-oekonom-clemens-fuest-warnt-wirtschaft-zu-schwach](https://www.spiegel.de/wirtschaft/soziales/15-euro-mindestlohn-ifo-oekonom-clemens-fuest-warnt-wirtschaft-zu-schwach-a-25cb7609-b93d-4827-9227-71afbd060892#ref=rss)
+### fuest
+
+* [https://www.spiegel.de/wirtschaft/soziales/15-euro-mindestlohn-ifo-oekonom-clemens-fuest-warnt-wirtschaft-zu-schwach](https://www.spiegel.de/wirtschaft/soziales/15-euro-mindestlohn-ifo-oekonom-clemens-fuest-warnt-wirtschaft-zu-schwach-a-25cb7609-b93d-4827-9227-71afbd060892#ref=rss)
+### wirtschaft
+
+* [https://www.spiegel.de/wirtschaft/soziales/15-euro-mindestlohn-ifo-oekonom-clemens-fuest-warnt-wirtschaft-zu-schwach](https://www.spiegel.de/wirtschaft/soziales/15-euro-mindestlohn-ifo-oekonom-clemens-fuest-warnt-wirtschaft-zu-schwach-a-25cb7609-b93d-4827-9227-71afbd060892#ref=rss)
+### präsident
+
+* [https://www.spiegel.de/wirtschaft/soziales/15-euro-mindestlohn-ifo-oekonom-clemens-fuest-warnt-wirtschaft-zu-schwach](https://www.spiegel.de/wirtschaft/soziales/15-euro-mindestlohn-ifo-oekonom-clemens-fuest-warnt-wirtschaft-zu-schwach-a-25cb7609-b93d-4827-9227-71afbd060892#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-und-us-sondergesandter-keith-kellogg-sprechen-nach-trump-kritik](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-und-us-sondergesandter-keith-kellogg-sprechen-nach-trump-kritik-a-e4b474e3-086b-4935-8a8c-179e4a662bbe#ref=rss)
+### ukrainekrieg
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-friedrich-merz-zeigt-sich-schockiert-ueber-aussagen-von-donald-trump](https://www.spiegel.de/ausland/ukraine-krieg-friedrich-merz-zeigt-sich-schockiert-ueber-aussagen-von-donald-trump-a-a51bb3aa-b234-45da-81bd-4e34020ad1bd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-kann-die-bundeswehr-stemmen-was-auf-sie-zukommt](https://www.spiegel.de/politik/deutschland/ukraine-krieg-kann-die-bundeswehr-stemmen-was-auf-sie-zukommt-a-de531495-5489-40e2-8630-d440ad544fbd#ref=rss)
+### aussagen
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-friedrich-merz-zeigt-sich-schockiert-ueber-aussagen-von-donald-trump](https://www.spiegel.de/ausland/ukraine-krieg-friedrich-merz-zeigt-sich-schockiert-ueber-aussagen-von-donald-trump-a-a51bb3aa-b234-45da-81bd-4e34020ad1bd#ref=rss)
+### erschüttert
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-friedrich-merz-zeigt-sich-schockiert-ueber-aussagen-von-donald-trump](https://www.spiegel.de/ausland/ukraine-krieg-friedrich-merz-zeigt-sich-schockiert-ueber-aussagen-von-donald-trump-a-a51bb3aa-b234-45da-81bd-4e34020ad1bd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-wer-ist-der-verschwiegene-milliardaer-hinter-der-verdaechtigen-millionen-spende](https://www.spiegel.de/politik/deutschland/afd-wer-ist-der-verschwiegene-milliardaer-hinter-der-verdaechtigen-millionen-spende-a-424da78a-95be-45de-8c21-4a2922305c51#ref=rss)
+### tage
+
+* [https://www.spiegel.de/politik/deutschland/afd-wer-ist-der-verschwiegene-milliardaer-hinter-der-verdaechtigen-millionen-spende](https://www.spiegel.de/politik/deutschland/afd-wer-ist-der-verschwiegene-milliardaer-hinter-der-verdaechtigen-millionen-spende-a-424da78a-95be-45de-8c21-4a2922305c51#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/tv-quadrell-bei-rtl-friedrich-merz-liegt-bei-zuschauern-vorn](https://www.spiegel.de/politik/deutschland/tv-quadrell-bei-rtl-friedrich-merz-liegt-bei-zuschauern-vorn-a-d8377e9d-cb30-4415-8464-5cd00c974c16#ref=rss)
+### dienst
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/warnstreik-im-oeffentlichen-dienst-busse-und-bahnen-stehen-vielerorts-in-deutschland-still](https://www.spiegel.de/wirtschaft/unternehmen/warnstreik-im-oeffentlichen-dienst-busse-und-bahnen-stehen-vielerorts-in-deutschland-still-a-414c3500-90f4-4cc5-a601-eab5a304851c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/warnstreik-im-oeffentlichen-dienst-hinterm-steuer-kann-ich-nicht-die-haushaltskrise-loesen](https://www.spiegel.de/wirtschaft/unternehmen/warnstreik-im-oeffentlichen-dienst-hinterm-steuer-kann-ich-nicht-die-haushaltskrise-loesen-a-7a405e7b-93ea-4fdb-b23a-792537bfe28d#ref=rss)
+### still
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/warnstreik-im-oeffentlichen-dienst-busse-und-bahnen-stehen-vielerorts-in-deutschland-still](https://www.spiegel.de/wirtschaft/unternehmen/warnstreik-im-oeffentlichen-dienst-busse-und-bahnen-stehen-vielerorts-in-deutschland-still-a-414c3500-90f4-4cc5-a601-eab5a304851c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/warnstreik-im-oeffentlichen-dienst-hinterm-steuer-kann-ich-nicht-die-haushaltskrise-loesen](https://www.spiegel.de/wirtschaft/unternehmen/warnstreik-im-oeffentlichen-dienst-hinterm-steuer-kann-ich-nicht-die-haushaltskrise-loesen-a-7a405e7b-93ea-4fdb-b23a-792537bfe28d#ref=rss)
+### nahverkehr
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/warnstreik-im-oeffentlichen-dienst-busse-und-bahnen-stehen-vielerorts-in-deutschland-still](https://www.spiegel.de/wirtschaft/unternehmen/warnstreik-im-oeffentlichen-dienst-busse-und-bahnen-stehen-vielerorts-in-deutschland-still-a-414c3500-90f4-4cc5-a601-eab5a304851c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/warnstreik-im-oeffentlichen-dienst-hinterm-steuer-kann-ich-nicht-die-haushaltskrise-loesen](https://www.spiegel.de/wirtschaft/unternehmen/warnstreik-im-oeffentlichen-dienst-hinterm-steuer-kann-ich-nicht-die-haushaltskrise-loesen-a-7a405e7b-93ea-4fdb-b23a-792537bfe28d#ref=rss)
+### forderungen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/warnstreik-im-oeffentlichen-dienst-busse-und-bahnen-stehen-vielerorts-in-deutschland-still](https://www.spiegel.de/wirtschaft/unternehmen/warnstreik-im-oeffentlichen-dienst-busse-und-bahnen-stehen-vielerorts-in-deutschland-still-a-414c3500-90f4-4cc5-a601-eab5a304851c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/warnstreik-im-oeffentlichen-dienst-hinterm-steuer-kann-ich-nicht-die-haushaltskrise-loesen](https://www.spiegel.de/wirtschaft/unternehmen/warnstreik-im-oeffentlichen-dienst-hinterm-steuer-kann-ich-nicht-die-haushaltskrise-loesen-a-7a405e7b-93ea-4fdb-b23a-792537bfe28d#ref=rss)
+### frauen
+
+* [https://www.spiegel.de/politik/deutschland/tv-quadrell-bei-rtl-friedrich-merz-liegt-bei-zuschauern-vorn](https://www.spiegel.de/politik/deutschland/tv-quadrell-bei-rtl-friedrich-merz-liegt-bei-zuschauern-vorn-a-d8377e9d-cb30-4415-8464-5cd00c974c16#ref=rss)
+### männer
+
+* [https://www.spiegel.de/politik/deutschland/tv-quadrell-bei-rtl-friedrich-merz-liegt-bei-zuschauern-vorn](https://www.spiegel.de/politik/deutschland/tv-quadrell-bei-rtl-friedrich-merz-liegt-bei-zuschauern-vorn-a-d8377e9d-cb30-4415-8464-5cd00c974c16#ref=rss)
+### kabinett
+
+* [https://www.spiegel.de/politik/deutschland/tv-quadrell-bei-rtl-friedrich-merz-liegt-bei-zuschauern-vorn](https://www.spiegel.de/politik/deutschland/tv-quadrell-bei-rtl-friedrich-merz-liegt-bei-zuschauern-vorn-a-d8377e9d-cb30-4415-8464-5cd00c974c16#ref=rss)
+### australien
+
+* [https://www.spiegel.de/ausland/china-kriegsschiffe-vor-australien-fluege-aendern-kurs](https://www.spiegel.de/ausland/china-kriegsschiffe-vor-australien-fluege-aendern-kurs-a-aa9df395-4a81-4ad5-9b1c-e7bf6c978c01#ref=rss)
+### kriegsschiffe
+
+* [https://www.spiegel.de/ausland/china-kriegsschiffe-vor-australien-fluege-aendern-kurs](https://www.spiegel.de/ausland/china-kriegsschiffe-vor-australien-fluege-aendern-kurs-a-aa9df395-4a81-4ad5-9b1c-e7bf6c978c01#ref=rss)
+### china
+
+* [https://www.spiegel.de/ausland/china-kriegsschiffe-vor-australien-fluege-aendern-kurs](https://www.spiegel.de/ausland/china-kriegsschiffe-vor-australien-fluege-aendern-kurs-a-aa9df395-4a81-4ad5-9b1c-e7bf6c978c01#ref=rss)
+### küste
+
+* [https://www.spiegel.de/ausland/china-kriegsschiffe-vor-australien-fluege-aendern-kurs](https://www.spiegel.de/ausland/china-kriegsschiffe-vor-australien-fluege-aendern-kurs-a-aa9df395-4a81-4ad5-9b1c-e7bf6c978c01#ref=rss)
+### flüge
+
+* [https://www.spiegel.de/ausland/china-kriegsschiffe-vor-australien-fluege-aendern-kurs](https://www.spiegel.de/ausland/china-kriegsschiffe-vor-australien-fluege-aendern-kurs-a-aa9df395-4a81-4ad5-9b1c-e7bf6c978c01#ref=rss)
+### bundeswehr
+
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-kann-die-bundeswehr-stemmen-was-auf-sie-zukommt](https://www.spiegel.de/politik/deutschland/ukraine-krieg-kann-die-bundeswehr-stemmen-was-auf-sie-zukommt-a-de531495-5489-40e2-8630-d440ad544fbd#ref=rss)
+### vance
+
+* [https://www.spiegel.de/ausland/verhaeltnis-usa-deutschland-j-d-vance-verknuepft-us-schutz-mit-meinungsfreiheit](https://www.spiegel.de/ausland/verhaeltnis-usa-deutschland-j-d-vance-verknuepft-us-schutz-mit-meinungsfreiheit-a-8daf2bb8-b131-4b5c-a624-9b7e28037369#ref=rss)
+### meinungsfreiheit
+
+* [https://www.spiegel.de/ausland/verhaeltnis-usa-deutschland-j-d-vance-verknuepft-us-schutz-mit-meinungsfreiheit](https://www.spiegel.de/ausland/verhaeltnis-usa-deutschland-j-d-vance-verknuepft-us-schutz-mit-meinungsfreiheit-a-8daf2bb8-b131-4b5c-a624-9b7e28037369#ref=rss)
+### fc
+
+* [https://www.spiegel.de/sport/fussball/conference-league-1-fc-heidenheim-scheidet-gegen-fc-kopenhagen-aus](https://www.spiegel.de/sport/fussball/conference-league-1-fc-heidenheim-scheidet-gegen-fc-kopenhagen-aus-a-a07fbd5e-5870-4db4-bdfe-8f8a3f5a85cd#ref=rss)
+### heidenheim
+
+* [https://www.spiegel.de/sport/fussball/conference-league-1-fc-heidenheim-scheidet-gegen-fc-kopenhagen-aus](https://www.spiegel.de/sport/fussball/conference-league-1-fc-heidenheim-scheidet-gegen-fc-kopenhagen-aus-a-a07fbd5e-5870-4db4-bdfe-8f8a3f5a85cd#ref=rss)
+### kopenhagen
+
+* [https://www.spiegel.de/sport/fussball/conference-league-1-fc-heidenheim-scheidet-gegen-fc-kopenhagen-aus](https://www.spiegel.de/sport/fussball/conference-league-1-fc-heidenheim-scheidet-gegen-fc-kopenhagen-aus-a-a07fbd5e-5870-4db4-bdfe-8f8a3f5a85cd#ref=rss)
+### rente
+
+* [https://www.spiegel.de/wirtschaft/soziales/bund-finanziert-geringeren-anteil-der-rente-als-vor-20-jahren](https://www.spiegel.de/wirtschaft/soziales/bund-finanziert-geringeren-anteil-der-rente-als-vor-20-jahren-a-09d29ad9-dfe2-470b-b83e-0704965283fa#ref=rss)
+### nicolas
+
+* [https://www.spiegel.de/panorama/leute/nicolas-cage-ex-partnerin-christina-fulton-verklagt-hollywoodstar-und-gemeinsamen-sohn](https://www.spiegel.de/panorama/leute/nicolas-cage-ex-partnerin-christina-fulton-verklagt-hollywoodstar-und-gemeinsamen-sohn-a-ff7fd988-094e-478e-83bb-fe167a4bad90#ref=rss)
+### christina
+
+* [https://www.spiegel.de/panorama/leute/nicolas-cage-ex-partnerin-christina-fulton-verklagt-hollywoodstar-und-gemeinsamen-sohn](https://www.spiegel.de/panorama/leute/nicolas-cage-ex-partnerin-christina-fulton-verklagt-hollywoodstar-und-gemeinsamen-sohn-a-ff7fd988-094e-478e-83bb-fe167a4bad90#ref=rss)
+### fulton
+
+* [https://www.spiegel.de/panorama/leute/nicolas-cage-ex-partnerin-christina-fulton-verklagt-hollywoodstar-und-gemeinsamen-sohn](https://www.spiegel.de/panorama/leute/nicolas-cage-ex-partnerin-christina-fulton-verklagt-hollywoodstar-und-gemeinsamen-sohn-a-ff7fd988-094e-478e-83bb-fe167a4bad90#ref=rss)
+### verklagt
+
+* [https://www.spiegel.de/panorama/leute/nicolas-cage-ex-partnerin-christina-fulton-verklagt-hollywoodstar-und-gemeinsamen-sohn](https://www.spiegel.de/panorama/leute/nicolas-cage-ex-partnerin-christina-fulton-verklagt-hollywoodstar-und-gemeinsamen-sohn-a-ff7fd988-094e-478e-83bb-fe167a4bad90#ref=rss)
+### hollywoodstar
+
+* [https://www.spiegel.de/panorama/leute/nicolas-cage-ex-partnerin-christina-fulton-verklagt-hollywoodstar-und-gemeinsamen-sohn](https://www.spiegel.de/panorama/leute/nicolas-cage-ex-partnerin-christina-fulton-verklagt-hollywoodstar-und-gemeinsamen-sohn-a-ff7fd988-094e-478e-83bb-fe167a4bad90#ref=rss)
+### sohn
+
+* [https://www.spiegel.de/panorama/leute/nicolas-cage-ex-partnerin-christina-fulton-verklagt-hollywoodstar-und-gemeinsamen-sohn](https://www.spiegel.de/panorama/leute/nicolas-cage-ex-partnerin-christina-fulton-verklagt-hollywoodstar-und-gemeinsamen-sohn-a-ff7fd988-094e-478e-83bb-fe167a4bad90#ref=rss)
+### selenskyj
+
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-und-us-sondergesandter-keith-kellogg-sprechen-nach-trump-kritik](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-und-us-sondergesandter-keith-kellogg-sprechen-nach-trump-kritik-a-e4b474e3-086b-4935-8a8c-179e4a662bbe#ref=rss)
+### treffen
+
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-und-us-sondergesandter-keith-kellogg-sprechen-nach-trump-kritik](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-und-us-sondergesandter-keith-kellogg-sprechen-nach-trump-kritik-a-e4b474e3-086b-4935-8a8c-179e4a662bbe#ref=rss)
+### kellogg
+
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-und-us-sondergesandter-keith-kellogg-sprechen-nach-trump-kritik](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-und-us-sondergesandter-keith-kellogg-sprechen-nach-trump-kritik-a-e4b474e3-086b-4935-8a8c-179e4a662bbe#ref=rss)
+### aachen
+
+* [https://www.spiegel.de/sport/alemannia-aachen-der-groesste-chaos-klub-deutschlands](https://www.spiegel.de/sport/alemannia-aachen-der-groesste-chaos-klub-deutschlands-a-219f8697-004b-420e-9e67-e821d3186e0d#ref=rss)
+### vergesst
+
+* [https://www.spiegel.de/sport/alemannia-aachen-der-groesste-chaos-klub-deutschlands](https://www.spiegel.de/sport/alemannia-aachen-der-groesste-chaos-klub-deutschlands-a-219f8697-004b-420e-9e67-e821d3186e0d#ref=rss)
 
