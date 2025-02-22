@@ -4,307 +4,322 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### 2025
+### trump
 
-* [https://www.spiegel.de/panorama/bundestagswahl-2025-ich-habe-angst-das-ist-neu](https://www.spiegel.de/panorama/bundestagswahl-2025-ich-habe-angst-das-ist-neu-a-8f6fee64-4d0c-4057-a752-e1dd5e99b540#ref=rss)
-* [https://www.spiegel.de/panorama/bundestagswahl-2025-inzwischen-muss-man-sich-rechtfertigen-wenn-man-ein-herz-hat](https://www.spiegel.de/panorama/bundestagswahl-2025-inzwischen-muss-man-sich-rechtfertigen-wenn-man-ein-herz-hat-a-2a1885fe-8484-4d7b-9b98-d29833d68541#ref=rss)
-* [https://www.spiegel.de/panorama/tahsim-durgun-bundestagswahl-2025-meinen-fuellerfuehrerschein-behalte-ich](https://www.spiegel.de/panorama/tahsim-durgun-bundestagswahl-2025-meinen-fuellerfuehrerschein-behalte-ich-a-28b679e8-1501-4ce4-b973-a79824bd8c72#ref=rss)
-* [https://www.spiegel.de/panorama/bundestagswahl-2025-deutschland-zu-verlassen-waere-schlimm-aber-vielleicht-ist-es-das-beste-fuer-alle](https://www.spiegel.de/panorama/bundestagswahl-2025-deutschland-zu-verlassen-waere-schlimm-aber-vielleicht-ist-es-das-beste-fuer-alle-a-cd918e8b-2405-4190-9d85-9b77a395cf3a#ref=rss)
-* [https://www.spiegel.de/panorama/bundestagswahl-2025-wenn-hetze-alltag-wird-wird-gewalt-zur-konsequenz](https://www.spiegel.de/panorama/bundestagswahl-2025-wenn-hetze-alltag-wird-wird-gewalt-zur-konsequenz-a-8a95caa0-2cce-46de-8033-7979d60133bc#ref=rss)
-* [https://www.spiegel.de/panorama/duezen-tekkal-vor-der-bundestagswahl-2025-deutschland-2025-fuehlt-sich-kalt-an-fuer-mich](https://www.spiegel.de/panorama/duezen-tekkal-vor-der-bundestagswahl-2025-deutschland-2025-fuehlt-sich-kalt-an-fuer-mich-a-0cb2d29e-33b0-44f1-87ed-e8ebea4a02d2#ref=rss)
-* [https://www.spiegel.de/panorama/bundestagswahl-2025-ich-glaube-der-wollte-mich-ermorden](https://www.spiegel.de/panorama/bundestagswahl-2025-ich-glaube-der-wollte-mich-ermorden-a-835367df-490e-4152-a42d-867ebe9189e2#ref=rss)
-* [https://www.spiegel.de/panorama/bundestagswahl-2025-wir-werden-die-letzten-sein-die-gehen](https://www.spiegel.de/panorama/bundestagswahl-2025-wir-werden-die-letzten-sein-die-gehen-a-d17c7901-2a9f-4b5a-9a35-13fd208a42d9#ref=rss)
-* [https://www.spiegel.de/panorama/zischan-mehmood-bundestagswahl-2025-meine-groesste-sorge-dass-der-hass-die-kinder-trifft](https://www.spiegel.de/panorama/zischan-mehmood-bundestagswahl-2025-meine-groesste-sorge-dass-der-hass-die-kinder-trifft-a-f08a4254-96f7-4010-8915-e701c8612aa5#ref=rss)
-* [https://www.spiegel.de/panorama/bundestagswahl-2025-menschen-mit-migrationsgeschichte-ueber-rechtsruck-und-afd](https://www.spiegel.de/panorama/bundestagswahl-2025-menschen-mit-migrationsgeschichte-ueber-rechtsruck-und-afd-a-97d3e7bb-3495-41f0-b2eb-375bf0534678#ref=rss)
-* [https://www.spiegel.de/ausland/gisele-pelicot-zur-frau-des-jahres-2025-gekuert](https://www.spiegel.de/ausland/gisele-pelicot-zur-frau-des-jahres-2025-gekuert-a-97785db8-5857-48de-959f-4e3fe35cf1fe#ref=rss)
-### bundestagswahl
+* [https://www.spiegel.de/politik/fuehrung-thomas-de-maiziere-und-peter-modler-ueber-macht-und-fuehrungsstile](https://www.spiegel.de/politik/fuehrung-thomas-de-maiziere-und-peter-modler-ueber-macht-und-fuehrungsstile-a-f423ae05-d1b2-45de-b574-c974fe7b995b#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-der-ukraine-krieg-die-einfluesterer](https://www.spiegel.de/ausland/donald-trump-und-der-ukraine-krieg-die-einfluesterer-a-6ac42b37-49ef-43a4-ba75-308f91f9eda8#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-gegen-janet-mills-im-weissen-haus-wir-sehen-uns-vor-gericht](https://www.spiegel.de/ausland/donald-trump-gegen-janet-mills-im-weissen-haus-wir-sehen-uns-vor-gericht-a-89dd0cbb-bc30-4d90-aa47-ffc2a7356127#ref=rss)
+### donald
 
-* [https://www.spiegel.de/panorama/bundestagswahl-2025-ich-habe-angst-das-ist-neu](https://www.spiegel.de/panorama/bundestagswahl-2025-ich-habe-angst-das-ist-neu-a-8f6fee64-4d0c-4057-a752-e1dd5e99b540#ref=rss)
-* [https://www.spiegel.de/panorama/bundestagswahl-2025-inzwischen-muss-man-sich-rechtfertigen-wenn-man-ein-herz-hat](https://www.spiegel.de/panorama/bundestagswahl-2025-inzwischen-muss-man-sich-rechtfertigen-wenn-man-ein-herz-hat-a-2a1885fe-8484-4d7b-9b98-d29833d68541#ref=rss)
-* [https://www.spiegel.de/panorama/tahsim-durgun-bundestagswahl-2025-meinen-fuellerfuehrerschein-behalte-ich](https://www.spiegel.de/panorama/tahsim-durgun-bundestagswahl-2025-meinen-fuellerfuehrerschein-behalte-ich-a-28b679e8-1501-4ce4-b973-a79824bd8c72#ref=rss)
-* [https://www.spiegel.de/panorama/bundestagswahl-2025-deutschland-zu-verlassen-waere-schlimm-aber-vielleicht-ist-es-das-beste-fuer-alle](https://www.spiegel.de/panorama/bundestagswahl-2025-deutschland-zu-verlassen-waere-schlimm-aber-vielleicht-ist-es-das-beste-fuer-alle-a-cd918e8b-2405-4190-9d85-9b77a395cf3a#ref=rss)
-* [https://www.spiegel.de/panorama/bundestagswahl-2025-wenn-hetze-alltag-wird-wird-gewalt-zur-konsequenz](https://www.spiegel.de/panorama/bundestagswahl-2025-wenn-hetze-alltag-wird-wird-gewalt-zur-konsequenz-a-8a95caa0-2cce-46de-8033-7979d60133bc#ref=rss)
-* [https://www.spiegel.de/panorama/duezen-tekkal-vor-der-bundestagswahl-2025-deutschland-2025-fuehlt-sich-kalt-an-fuer-mich](https://www.spiegel.de/panorama/duezen-tekkal-vor-der-bundestagswahl-2025-deutschland-2025-fuehlt-sich-kalt-an-fuer-mich-a-0cb2d29e-33b0-44f1-87ed-e8ebea4a02d2#ref=rss)
-* [https://www.spiegel.de/panorama/bundestagswahl-2025-ich-glaube-der-wollte-mich-ermorden](https://www.spiegel.de/panorama/bundestagswahl-2025-ich-glaube-der-wollte-mich-ermorden-a-835367df-490e-4152-a42d-867ebe9189e2#ref=rss)
-* [https://www.spiegel.de/panorama/bundestagswahl-2025-wir-werden-die-letzten-sein-die-gehen](https://www.spiegel.de/panorama/bundestagswahl-2025-wir-werden-die-letzten-sein-die-gehen-a-d17c7901-2a9f-4b5a-9a35-13fd208a42d9#ref=rss)
-* [https://www.spiegel.de/panorama/zischan-mehmood-bundestagswahl-2025-meine-groesste-sorge-dass-der-hass-die-kinder-trifft](https://www.spiegel.de/panorama/zischan-mehmood-bundestagswahl-2025-meine-groesste-sorge-dass-der-hass-die-kinder-trifft-a-f08a4254-96f7-4010-8915-e701c8612aa5#ref=rss)
-* [https://www.spiegel.de/panorama/bundestagswahl-2025-menschen-mit-migrationsgeschichte-ueber-rechtsruck-und-afd](https://www.spiegel.de/panorama/bundestagswahl-2025-menschen-mit-migrationsgeschichte-ueber-rechtsruck-und-afd-a-97d3e7bb-3495-41f0-b2eb-375bf0534678#ref=rss)
-### deutschland
+* [https://www.spiegel.de/ausland/donald-trump-und-der-ukraine-krieg-die-einfluesterer](https://www.spiegel.de/ausland/donald-trump-und-der-ukraine-krieg-die-einfluesterer-a-6ac42b37-49ef-43a4-ba75-308f91f9eda8#ref=rss)
+* [https://www.spiegel.de/sport/mount-denali-in-alaska-donald-trumps-agenda-trifft-nordamerikas-hoechsten-berg-mit-voller-wucht](https://www.spiegel.de/sport/mount-denali-in-alaska-donald-trumps-agenda-trifft-nordamerikas-hoechsten-berg-mit-voller-wucht-a-fdf3ca5d-9ed3-4b9b-945f-a06b96844d9c#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-gegen-janet-mills-im-weissen-haus-wir-sehen-uns-vor-gericht](https://www.spiegel.de/ausland/donald-trump-gegen-janet-mills-im-weissen-haus-wir-sehen-uns-vor-gericht-a-89dd0cbb-bc30-4d90-aa47-ffc2a7356127#ref=rss)
+### palästinenser
 
-* [https://www.spiegel.de/politik/deutschland/drogenkonsum-in-deutschland-und-die-antworten-der-politk](https://www.spiegel.de/politik/deutschland/drogenkonsum-in-deutschland-und-die-antworten-der-politk-a-41647bab-fd3a-4372-b7eb-250a355ab52a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/wie-sie-jemanden-beleidigen-ohne-sich-strafbar-zu-machen](https://www.spiegel.de/panorama/justiz/wie-sie-jemanden-beleidigen-ohne-sich-strafbar-zu-machen-a-9e2f381f-bad0-4c3a-ae5d-0a60ec2013e5#ref=rss)
-* [https://www.spiegel.de/panorama/bundestagswahl-2025-ich-habe-angst-das-ist-neu](https://www.spiegel.de/panorama/bundestagswahl-2025-ich-habe-angst-das-ist-neu-a-8f6fee64-4d0c-4057-a752-e1dd5e99b540#ref=rss)
-* [https://www.spiegel.de/panorama/bundestagswahl-2025-deutschland-zu-verlassen-waere-schlimm-aber-vielleicht-ist-es-das-beste-fuer-alle](https://www.spiegel.de/panorama/bundestagswahl-2025-deutschland-zu-verlassen-waere-schlimm-aber-vielleicht-ist-es-das-beste-fuer-alle-a-cd918e8b-2405-4190-9d85-9b77a395cf3a#ref=rss)
-* [https://www.spiegel.de/panorama/duezen-tekkal-vor-der-bundestagswahl-2025-deutschland-2025-fuehlt-sich-kalt-an-fuer-mich](https://www.spiegel.de/panorama/duezen-tekkal-vor-der-bundestagswahl-2025-deutschland-2025-fuehlt-sich-kalt-an-fuer-mich-a-0cb2d29e-33b0-44f1-87ed-e8ebea4a02d2#ref=rss)
-### holocaustmahnmal
-
-* [https://www.spiegel.de/panorama/justiz/berlin-angriff-am-holocaustmahnmal-tatverdaechtiger-ist-19-jahre-alter-gefluechteter](https://www.spiegel.de/panorama/justiz/berlin-angriff-am-holocaustmahnmal-tatverdaechtiger-ist-19-jahre-alter-gefluechteter-a-5ac0f2d9-0985-4662-83cb-ae0772b60357#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-angriff-am-holocaustmahnmal-spanischer-tourist-schwer-verletzt](https://www.spiegel.de/panorama/justiz/berlin-angriff-am-holocaustmahnmal-spanischer-tourist-schwer-verletzt-a-93d5db66-2454-4edb-bf11-ad6169fab02f#ref=rss)
-### kelce
-
-* [https://www.spiegel.de/panorama/leute/taylor-swift-und-travis-kelce-jason-kelce-entdeckt-neue-seiten-an-seinem-bruder](https://www.spiegel.de/panorama/leute/taylor-swift-und-travis-kelce-jason-kelce-entdeckt-neue-seiten-an-seinem-bruder-a-dd065b89-a685-4fea-b630-c16afdc6bc6d#ref=rss)
-### euro
-
-* [https://www.spiegel.de/ausland/gebuehren-fuers-anwohnerparken-im-vergleich-10-20-euro-in-berlin-und-1309-euro-in-stockholm](https://www.spiegel.de/ausland/gebuehren-fuers-anwohnerparken-im-vergleich-10-20-euro-in-berlin-und-1309-euro-in-stockholm-a-f42ad05f-6a92-4e93-8dc4-6a5b7f8b0e60#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/oekonom-marcel-fratzscher-warum-er-immer-von-100-milliarden-euro-spricht-kolumne](https://www.spiegel.de/politik/deutschland/oekonom-marcel-fratzscher-warum-er-immer-von-100-milliarden-euro-spricht-kolumne-a-fbc71656-1fcd-4166-b1fe-7dbbd82460d8#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/usa-donald-trump-entlaesst-us-generalstabschef-charles-q-brown](https://www.spiegel.de/ausland/usa-donald-trump-entlaesst-us-generalstabschef-charles-q-brown-a-e8f0e0d0-5b23-4900-9bdc-8ed09ea4efce#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-usa-wollen-russland-in-uno-resolution-nicht-als-aggressor-bezeichnen](https://www.spiegel.de/ausland/ukraine-krieg-usa-wollen-russland-in-uno-resolution-nicht-als-aggressor-bezeichnen-a-875ff781-6fdc-44b5-8763-63a85d1d6dce#ref=rss)
+* [https://www.spiegel.de/ausland/israel-hamas-deal-freigelassene-palaestinenser-berichten-von-misshandlungen](https://www.spiegel.de/ausland/israel-hamas-deal-freigelassene-palaestinenser-berichten-von-misshandlungen-a-2e39e62f-aa7a-401b-bf27-cf2c729bbcf4#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gazastreifen-hamas-laesst-sechste-geisel-frei](https://www.spiegel.de/ausland/israel-gazastreifen-hamas-laesst-sechste-geisel-frei-a-d4d223ab-7aec-483f-a3a9-6a1d627692c3#ref=rss)
 ### hamas
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-uebergibt-weitere-geiseln](https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-uebergibt-weitere-geiseln-a-e173f28a-b716-44da-a042-698ed7e6a974#ref=rss)
-* [https://www.spiegel.de/ausland/shiri-bibas-israel-bestaetigt-uebergabe-des-leichnams-der-hamas-geisel](https://www.spiegel.de/ausland/shiri-bibas-israel-bestaetigt-uebergabe-des-leichnams-der-hamas-geisel-a-25a935a1-de37-4769-9fa6-ade08b6fd6ab#ref=rss)
-### berlin
+* [https://www.spiegel.de/ausland/israel-hamas-deal-freigelassene-palaestinenser-berichten-von-misshandlungen](https://www.spiegel.de/ausland/israel-hamas-deal-freigelassene-palaestinenser-berichten-von-misshandlungen-a-2e39e62f-aa7a-401b-bf27-cf2c729bbcf4#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gazastreifen-hamas-laesst-sechste-geisel-frei](https://www.spiegel.de/ausland/israel-gazastreifen-hamas-laesst-sechste-geisel-frei-a-d4d223ab-7aec-483f-a3a9-6a1d627692c3#ref=rss)
+### österreich
 
-* [https://www.spiegel.de/panorama/justiz/berlin-angriff-am-holocaustmahnmal-tatverdaechtiger-ist-19-jahre-alter-gefluechteter](https://www.spiegel.de/panorama/justiz/berlin-angriff-am-holocaustmahnmal-tatverdaechtiger-ist-19-jahre-alter-gefluechteter-a-5ac0f2d9-0985-4662-83cb-ae0772b60357#ref=rss)
-* [https://www.spiegel.de/ausland/gebuehren-fuers-anwohnerparken-im-vergleich-10-20-euro-in-berlin-und-1309-euro-in-stockholm](https://www.spiegel.de/ausland/gebuehren-fuers-anwohnerparken-im-vergleich-10-20-euro-in-berlin-und-1309-euro-in-stockholm-a-f42ad05f-6a92-4e93-8dc4-6a5b7f8b0e60#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-angriff-am-holocaustmahnmal-spanischer-tourist-schwer-verletzt](https://www.spiegel.de/panorama/justiz/berlin-angriff-am-holocaustmahnmal-spanischer-tourist-schwer-verletzt-a-93d5db66-2454-4edb-bf11-ad6169fab02f#ref=rss)
-### berliner
+* [https://www.spiegel.de/ausland/oesterreich-der-mysterioese-tod-des-spitzenbeamten-christian-pilnacek-podcast](https://www.spiegel.de/ausland/oesterreich-der-mysterioese-tod-des-spitzenbeamten-christian-pilnacek-podcast-a-5c6edc9a-deaf-4afa-b8dc-5eb63fdc6ebe#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-oevp-spoe-und-neos-wollen-regierung-bilden](https://www.spiegel.de/ausland/oesterreich-oevp-spoe-und-neos-wollen-regierung-bilden-a-40f70c96-9b6c-453a-b5e2-652502600965#ref=rss)
+### christian
 
-* [https://www.spiegel.de/panorama/justiz/berlin-angriff-am-holocaustmahnmal-tatverdaechtiger-ist-19-jahre-alter-gefluechteter](https://www.spiegel.de/panorama/justiz/berlin-angriff-am-holocaustmahnmal-tatverdaechtiger-ist-19-jahre-alter-gefluechteter-a-5ac0f2d9-0985-4662-83cb-ae0772b60357#ref=rss)
-* [https://www.spiegel.de/panorama/bundestagswahl-2025-inzwischen-muss-man-sich-rechtfertigen-wenn-man-ein-herz-hat](https://www.spiegel.de/panorama/bundestagswahl-2025-inzwischen-muss-man-sich-rechtfertigen-wenn-man-ein-herz-hat-a-2a1885fe-8484-4d7b-9b98-d29833d68541#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-angriff-am-holocaustmahnmal-spanischer-tourist-schwer-verletzt](https://www.spiegel.de/panorama/justiz/berlin-angriff-am-holocaustmahnmal-spanischer-tourist-schwer-verletzt-a-93d5db66-2454-4edb-bf11-ad6169fab02f#ref=rss)
-### schwer
-
-* [https://www.spiegel.de/panorama/justiz/berlin-angriff-am-holocaustmahnmal-tatverdaechtiger-ist-19-jahre-alter-gefluechteter](https://www.spiegel.de/panorama/justiz/berlin-angriff-am-holocaustmahnmal-tatverdaechtiger-ist-19-jahre-alter-gefluechteter-a-5ac0f2d9-0985-4662-83cb-ae0772b60357#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-angriff-am-holocaustmahnmal-spanischer-tourist-schwer-verletzt](https://www.spiegel.de/panorama/justiz/berlin-angriff-am-holocaustmahnmal-spanischer-tourist-schwer-verletzt-a-93d5db66-2454-4edb-bf11-ad6169fab02f#ref=rss)
-### verletzt
-
-* [https://www.spiegel.de/panorama/justiz/berlin-angriff-am-holocaustmahnmal-tatverdaechtiger-ist-19-jahre-alter-gefluechteter](https://www.spiegel.de/panorama/justiz/berlin-angriff-am-holocaustmahnmal-tatverdaechtiger-ist-19-jahre-alter-gefluechteter-a-5ac0f2d9-0985-4662-83cb-ae0772b60357#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-angriff-am-holocaustmahnmal-spanischer-tourist-schwer-verletzt](https://www.spiegel.de/panorama/justiz/berlin-angriff-am-holocaustmahnmal-spanischer-tourist-schwer-verletzt-a-93d5db66-2454-4edb-bf11-ad6169fab02f#ref=rss)
-### bruder
-
-* [https://www.spiegel.de/panorama/leute/taylor-swift-und-travis-kelce-jason-kelce-entdeckt-neue-seiten-an-seinem-bruder](https://www.spiegel.de/panorama/leute/taylor-swift-und-travis-kelce-jason-kelce-entdeckt-neue-seiten-an-seinem-bruder-a-dd065b89-a685-4fea-b630-c16afdc6bc6d#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/politik/deutschland/drogenkonsum-in-deutschland-und-die-antworten-der-politk](https://www.spiegel.de/politik/deutschland/drogenkonsum-in-deutschland-und-die-antworten-der-politk-a-41647bab-fd3a-4372-b7eb-250a355ab52a#ref=rss)
-* [https://www.spiegel.de/panorama/bundestagswahl-2025-inzwischen-muss-man-sich-rechtfertigen-wenn-man-ein-herz-hat](https://www.spiegel.de/panorama/bundestagswahl-2025-inzwischen-muss-man-sich-rechtfertigen-wenn-man-ein-herz-hat-a-2a1885fe-8484-4d7b-9b98-d29833d68541#ref=rss)
-* [https://www.spiegel.de/netzwelt/telekom-fuehrt-neuen-schutz-gegen-betruegerische-sms-ein](https://www.spiegel.de/netzwelt/telekom-fuehrt-neuen-schutz-gegen-betruegerische-sms-ein-a-6c3e87f3-d0da-4096-a201-9bd0ca7c3ec4#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/politik/deutschland/drogenkonsum-in-deutschland-und-die-antworten-der-politk](https://www.spiegel.de/politik/deutschland/drogenkonsum-in-deutschland-und-die-antworten-der-politk-a-41647bab-fd3a-4372-b7eb-250a355ab52a#ref=rss)
-* [https://www.spiegel.de/panorama/bundestagswahl-2025-menschen-mit-migrationsgeschichte-ueber-rechtsruck-und-afd](https://www.spiegel.de/panorama/bundestagswahl-2025-menschen-mit-migrationsgeschichte-ueber-rechtsruck-und-afd-a-97d3e7bb-3495-41f0-b2eb-375bf0534678#ref=rss)
-### sagen
-
-* [https://www.spiegel.de/panorama/justiz/wie-sie-jemanden-beleidigen-ohne-sich-strafbar-zu-machen](https://www.spiegel.de/panorama/justiz/wie-sie-jemanden-beleidigen-ohne-sich-strafbar-zu-machen-a-9e2f381f-bad0-4c3a-ae5d-0a60ec2013e5#ref=rss)
-* [https://www.spiegel.de/stil/karneval-kostuem-sagen-sie-uns-wie-sie-ticken-und-wir-sagen-ihnen-wie-sie-sich-verkleiden-sollten](https://www.spiegel.de/stil/karneval-kostuem-sagen-sie-uns-wie-sie-ticken-und-wir-sagen-ihnen-wie-sie-sich-verkleiden-sollten-a-692c7eee-0c11-4f4a-95d7-5a46a021b909#ref=rss)
-### ich
-
-* [https://www.spiegel.de/panorama/bundestagswahl-2025-ich-habe-angst-das-ist-neu](https://www.spiegel.de/panorama/bundestagswahl-2025-ich-habe-angst-das-ist-neu-a-8f6fee64-4d0c-4057-a752-e1dd5e99b540#ref=rss)
-* [https://www.spiegel.de/panorama/tahsim-durgun-bundestagswahl-2025-meinen-fuellerfuehrerschein-behalte-ich](https://www.spiegel.de/panorama/tahsim-durgun-bundestagswahl-2025-meinen-fuellerfuehrerschein-behalte-ich-a-28b679e8-1501-4ce4-b973-a79824bd8c72#ref=rss)
-* [https://www.spiegel.de/panorama/bundestagswahl-2025-ich-glaube-der-wollte-mich-ermorden](https://www.spiegel.de/panorama/bundestagswahl-2025-ich-glaube-der-wollte-mich-ermorden-a-835367df-490e-4152-a42d-867ebe9189e2#ref=rss)
-### gefühl
-
-* [https://www.spiegel.de/panorama/bundestagswahl-2025-inzwischen-muss-man-sich-rechtfertigen-wenn-man-ein-herz-hat](https://www.spiegel.de/panorama/bundestagswahl-2025-inzwischen-muss-man-sich-rechtfertigen-wenn-man-ein-herz-hat-a-2a1885fe-8484-4d7b-9b98-d29833d68541#ref=rss)
-* [https://www.spiegel.de/panorama/bundestagswahl-2025-wenn-hetze-alltag-wird-wird-gewalt-zur-konsequenz](https://www.spiegel.de/panorama/bundestagswahl-2025-wenn-hetze-alltag-wird-wird-gewalt-zur-konsequenz-a-8a95caa0-2cce-46de-8033-7979d60133bc#ref=rss)
-* [https://www.spiegel.de/panorama/duezen-tekkal-vor-der-bundestagswahl-2025-deutschland-2025-fuehlt-sich-kalt-an-fuer-mich](https://www.spiegel.de/panorama/duezen-tekkal-vor-der-bundestagswahl-2025-deutschland-2025-fuehlt-sich-kalt-an-fuer-mich-a-0cb2d29e-33b0-44f1-87ed-e8ebea4a02d2#ref=rss)
-### gehen
-
-* [https://www.spiegel.de/panorama/bundestagswahl-2025-deutschland-zu-verlassen-waere-schlimm-aber-vielleicht-ist-es-das-beste-fuer-alle](https://www.spiegel.de/panorama/bundestagswahl-2025-deutschland-zu-verlassen-waere-schlimm-aber-vielleicht-ist-es-das-beste-fuer-alle-a-cd918e8b-2405-4190-9d85-9b77a395cf3a#ref=rss)
-* [https://www.spiegel.de/panorama/bundestagswahl-2025-wir-werden-die-letzten-sein-die-gehen](https://www.spiegel.de/panorama/bundestagswahl-2025-wir-werden-die-letzten-sein-die-gehen-a-d17c7901-2a9f-4b5a-9a35-13fd208a42d9#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-usa-wollen-russland-in-uno-resolution-nicht-als-aggressor-bezeichnen](https://www.spiegel.de/ausland/ukraine-krieg-usa-wollen-russland-in-uno-resolution-nicht-als-aggressor-bezeichnen-a-875ff781-6fdc-44b5-8763-63a85d1d6dce#ref=rss)
-### wir
-
-* [https://www.spiegel.de/panorama/bundestagswahl-2025-wir-werden-die-letzten-sein-die-gehen](https://www.spiegel.de/panorama/bundestagswahl-2025-wir-werden-die-letzten-sein-die-gehen-a-d17c7901-2a9f-4b5a-9a35-13fd208a42d9#ref=rss)
-* [https://www.spiegel.de/stil/karneval-kostuem-sagen-sie-uns-wie-sie-ticken-und-wir-sagen-ihnen-wie-sie-sich-verkleiden-sollten](https://www.spiegel.de/stil/karneval-kostuem-sagen-sie-uns-wie-sie-ticken-und-wir-sagen-ihnen-wie-sie-sich-verkleiden-sollten-a-692c7eee-0c11-4f4a-95d7-5a46a021b909#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/ausland/gebuehren-fuers-anwohnerparken-im-vergleich-10-20-euro-in-berlin-und-1309-euro-in-stockholm](https://www.spiegel.de/ausland/gebuehren-fuers-anwohnerparken-im-vergleich-10-20-euro-in-berlin-und-1309-euro-in-stockholm-a-f42ad05f-6a92-4e93-8dc4-6a5b7f8b0e60#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-wie-die-briten-ihre-pub-manieren-retten](https://www.spiegel.de/ausland/grossbritannien-wie-die-briten-ihre-pub-manieren-retten-a-192e02fc-7afc-4b1d-9c05-2b95aba73a08#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/oekonom-marcel-fratzscher-warum-er-immer-von-100-milliarden-euro-spricht-kolumne](https://www.spiegel.de/politik/deutschland/oekonom-marcel-fratzscher-warum-er-immer-von-100-milliarden-euro-spricht-kolumne-a-fbc71656-1fcd-4166-b1fe-7dbbd82460d8#ref=rss)
-### übergibt
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-uebergibt-weitere-geiseln](https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-uebergibt-weitere-geiseln-a-e173f28a-b716-44da-a042-698ed7e6a974#ref=rss)
-### geiseln
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-uebergibt-weitere-geiseln](https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-uebergibt-weitere-geiseln-a-e173f28a-b716-44da-a042-698ed7e6a974#ref=rss)
-### gazastreifen
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-uebergibt-weitere-geiseln](https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-uebergibt-weitere-geiseln-a-e173f28a-b716-44da-a042-698ed7e6a974#ref=rss)
-* [https://www.spiegel.de/ausland/shiri-bibas-israel-bestaetigt-uebergabe-des-leichnams-der-hamas-geisel](https://www.spiegel.de/ausland/shiri-bibas-israel-bestaetigt-uebergabe-des-leichnams-der-hamas-geisel-a-25a935a1-de37-4769-9fa6-ade08b6fd6ab#ref=rss)
-### angriff
-
-* [https://www.spiegel.de/panorama/justiz/berlin-angriff-am-holocaustmahnmal-tatverdaechtiger-ist-19-jahre-alter-gefluechteter](https://www.spiegel.de/panorama/justiz/berlin-angriff-am-holocaustmahnmal-tatverdaechtiger-ist-19-jahre-alter-gefluechteter-a-5ac0f2d9-0985-4662-83cb-ae0772b60357#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-angriff-am-holocaustmahnmal-spanischer-tourist-schwer-verletzt](https://www.spiegel.de/panorama/justiz/berlin-angriff-am-holocaustmahnmal-spanischer-tourist-schwer-verletzt-a-93d5db66-2454-4edb-bf11-ad6169fab02f#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/justiz/berlin-angriff-am-holocaustmahnmal-tatverdaechtiger-ist-19-jahre-alter-gefluechteter](https://www.spiegel.de/panorama/justiz/berlin-angriff-am-holocaustmahnmal-tatverdaechtiger-ist-19-jahre-alter-gefluechteter-a-5ac0f2d9-0985-4662-83cb-ae0772b60357#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-angriff-am-holocaustmahnmal-spanischer-tourist-schwer-verletzt](https://www.spiegel.de/panorama/justiz/berlin-angriff-am-holocaustmahnmal-spanischer-tourist-schwer-verletzt-a-93d5db66-2454-4edb-bf11-ad6169fab02f#ref=rss)
-### spanier
-
-* [https://www.spiegel.de/panorama/justiz/berlin-angriff-am-holocaustmahnmal-tatverdaechtiger-ist-19-jahre-alter-gefluechteter](https://www.spiegel.de/panorama/justiz/berlin-angriff-am-holocaustmahnmal-tatverdaechtiger-ist-19-jahre-alter-gefluechteter-a-5ac0f2d9-0985-4662-83cb-ae0772b60357#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-angriff-am-holocaustmahnmal-spanischer-tourist-schwer-verletzt](https://www.spiegel.de/panorama/justiz/berlin-angriff-am-holocaustmahnmal-spanischer-tourist-schwer-verletzt-a-93d5db66-2454-4edb-bf11-ad6169fab02f#ref=rss)
-### spitzen
-
-* [https://www.spiegel.de/panorama/justiz/berlin-angriff-am-holocaustmahnmal-tatverdaechtiger-ist-19-jahre-alter-gefluechteter](https://www.spiegel.de/panorama/justiz/berlin-angriff-am-holocaustmahnmal-tatverdaechtiger-ist-19-jahre-alter-gefluechteter-a-5ac0f2d9-0985-4662-83cb-ae0772b60357#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-angriff-am-holocaustmahnmal-spanischer-tourist-schwer-verletzt](https://www.spiegel.de/panorama/justiz/berlin-angriff-am-holocaustmahnmal-spanischer-tourist-schwer-verletzt-a-93d5db66-2454-4edb-bf11-ad6169fab02f#ref=rss)
-### gegenstand
-
-* [https://www.spiegel.de/panorama/justiz/berlin-angriff-am-holocaustmahnmal-tatverdaechtiger-ist-19-jahre-alter-gefluechteter](https://www.spiegel.de/panorama/justiz/berlin-angriff-am-holocaustmahnmal-tatverdaechtiger-ist-19-jahre-alter-gefluechteter-a-5ac0f2d9-0985-4662-83cb-ae0772b60357#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-angriff-am-holocaustmahnmal-spanischer-tourist-schwer-verletzt](https://www.spiegel.de/panorama/justiz/berlin-angriff-am-holocaustmahnmal-spanischer-tourist-schwer-verletzt-a-93d5db66-2454-4edb-bf11-ad6169fab02f#ref=rss)
-### taylor
-
-* [https://www.spiegel.de/panorama/leute/taylor-swift-und-travis-kelce-jason-kelce-entdeckt-neue-seiten-an-seinem-bruder](https://www.spiegel.de/panorama/leute/taylor-swift-und-travis-kelce-jason-kelce-entdeckt-neue-seiten-an-seinem-bruder-a-dd065b89-a685-4fea-b630-c16afdc6bc6d#ref=rss)
-### swift
-
-* [https://www.spiegel.de/panorama/leute/taylor-swift-und-travis-kelce-jason-kelce-entdeckt-neue-seiten-an-seinem-bruder](https://www.spiegel.de/panorama/leute/taylor-swift-und-travis-kelce-jason-kelce-entdeckt-neue-seiten-an-seinem-bruder-a-dd065b89-a685-4fea-b630-c16afdc6bc6d#ref=rss)
-### travis
-
-* [https://www.spiegel.de/panorama/leute/taylor-swift-und-travis-kelce-jason-kelce-entdeckt-neue-seiten-an-seinem-bruder](https://www.spiegel.de/panorama/leute/taylor-swift-und-travis-kelce-jason-kelce-entdeckt-neue-seiten-an-seinem-bruder-a-dd065b89-a685-4fea-b630-c16afdc6bc6d#ref=rss)
-### jason
-
-* [https://www.spiegel.de/panorama/leute/taylor-swift-und-travis-kelce-jason-kelce-entdeckt-neue-seiten-an-seinem-bruder](https://www.spiegel.de/panorama/leute/taylor-swift-und-travis-kelce-jason-kelce-entdeckt-neue-seiten-an-seinem-bruder-a-dd065b89-a685-4fea-b630-c16afdc6bc6d#ref=rss)
-### neue
-
-* [https://www.spiegel.de/panorama/leute/taylor-swift-und-travis-kelce-jason-kelce-entdeckt-neue-seiten-an-seinem-bruder](https://www.spiegel.de/panorama/leute/taylor-swift-und-travis-kelce-jason-kelce-entdeckt-neue-seiten-an-seinem-bruder-a-dd065b89-a685-4fea-b630-c16afdc6bc6d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/elektroauto-neue-tarife-senken-kosten-fuer-das-laden-zu-hause-erheblich](https://www.spiegel.de/wirtschaft/elektroauto-neue-tarife-senken-kosten-fuer-das-laden-zu-hause-erheblich-a-c3946a08-8fa7-44b9-ad0b-1330e5f7cc44#ref=rss)
-### erlebt
-
-* [https://www.spiegel.de/panorama/leute/taylor-swift-und-travis-kelce-jason-kelce-entdeckt-neue-seiten-an-seinem-bruder](https://www.spiegel.de/panorama/leute/taylor-swift-und-travis-kelce-jason-kelce-entdeckt-neue-seiten-an-seinem-bruder-a-dd065b89-a685-4fea-b630-c16afdc6bc6d#ref=rss)
-* [https://www.spiegel.de/panorama/muenchner-sicherheitskonferenz-so-hat-kuechenchef-philipp-pfisterer-die-siko-im-hotel-bayerischer-hof-erlebt](https://www.spiegel.de/panorama/muenchner-sicherheitskonferenz-so-hat-kuechenchef-philipp-pfisterer-die-siko-im-hotel-bayerischer-hof-erlebt-a-a95e5e1c-d136-4323-9d59-3b831a761361#ref=rss)
-### anders
-
-* [https://www.spiegel.de/panorama/leute/taylor-swift-und-travis-kelce-jason-kelce-entdeckt-neue-seiten-an-seinem-bruder](https://www.spiegel.de/panorama/leute/taylor-swift-und-travis-kelce-jason-kelce-entdeckt-neue-seiten-an-seinem-bruder-a-dd065b89-a685-4fea-b630-c16afdc6bc6d#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-entlaesst-us-generalstabschef-charles-q-brown](https://www.spiegel.de/ausland/usa-donald-trump-entlaesst-us-generalstabschef-charles-q-brown-a-e8f0e0d0-5b23-4900-9bdc-8ed09ea4efce#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/politik/deutschland/drogenkonsum-in-deutschland-und-die-antworten-der-politk](https://www.spiegel.de/politik/deutschland/drogenkonsum-in-deutschland-und-die-antworten-der-politk-a-41647bab-fd3a-4372-b7eb-250a355ab52a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-angriff-am-holocaustmahnmal-spanischer-tourist-schwer-verletzt](https://www.spiegel.de/panorama/justiz/berlin-angriff-am-holocaustmahnmal-spanischer-tourist-schwer-verletzt-a-93d5db66-2454-4edb-bf11-ad6169fab02f#ref=rss)
-### lionel
-
-* [https://www.spiegel.de/sport/fussball/lionel-messi-bei-inter-miami-schiedsrichter-wird-bestraft-weil-er-den-superstar-nach-autogramm-fragte](https://www.spiegel.de/sport/fussball/lionel-messi-bei-inter-miami-schiedsrichter-wird-bestraft-weil-er-den-superstar-nach-autogramm-fragte-a-4cd17353-3c09-4d02-a500-815498d036cd#ref=rss)
-### messi
-
-* [https://www.spiegel.de/sport/fussball/lionel-messi-bei-inter-miami-schiedsrichter-wird-bestraft-weil-er-den-superstar-nach-autogramm-fragte](https://www.spiegel.de/sport/fussball/lionel-messi-bei-inter-miami-schiedsrichter-wird-bestraft-weil-er-den-superstar-nach-autogramm-fragte-a-4cd17353-3c09-4d02-a500-815498d036cd#ref=rss)
-### inter
-
-* [https://www.spiegel.de/sport/fussball/lionel-messi-bei-inter-miami-schiedsrichter-wird-bestraft-weil-er-den-superstar-nach-autogramm-fragte](https://www.spiegel.de/sport/fussball/lionel-messi-bei-inter-miami-schiedsrichter-wird-bestraft-weil-er-den-superstar-nach-autogramm-fragte-a-4cd17353-3c09-4d02-a500-815498d036cd#ref=rss)
-### bestraft
-
-* [https://www.spiegel.de/sport/fussball/lionel-messi-bei-inter-miami-schiedsrichter-wird-bestraft-weil-er-den-superstar-nach-autogramm-fragte](https://www.spiegel.de/sport/fussball/lionel-messi-bei-inter-miami-schiedsrichter-wird-bestraft-weil-er-den-superstar-nach-autogramm-fragte-a-4cd17353-3c09-4d02-a500-815498d036cd#ref=rss)
-### superstar
-
-* [https://www.spiegel.de/sport/fussball/lionel-messi-bei-inter-miami-schiedsrichter-wird-bestraft-weil-er-den-superstar-nach-autogramm-fragte](https://www.spiegel.de/sport/fussball/lionel-messi-bei-inter-miami-schiedsrichter-wird-bestraft-weil-er-den-superstar-nach-autogramm-fragte-a-4cd17353-3c09-4d02-a500-815498d036cd#ref=rss)
-### ortíz
-
-* [https://www.spiegel.de/sport/fussball/lionel-messi-bei-inter-miami-schiedsrichter-wird-bestraft-weil-er-den-superstar-nach-autogramm-fragte](https://www.spiegel.de/sport/fussball/lionel-messi-bei-inter-miami-schiedsrichter-wird-bestraft-weil-er-den-superstar-nach-autogramm-fragte-a-4cd17353-3c09-4d02-a500-815498d036cd#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/panorama/justiz/wie-sie-jemanden-beleidigen-ohne-sich-strafbar-zu-machen](https://www.spiegel.de/panorama/justiz/wie-sie-jemanden-beleidigen-ohne-sich-strafbar-zu-machen-a-9e2f381f-bad0-4c3a-ae5d-0a60ec2013e5#ref=rss)
-### tatsächlich
-
-* [https://www.spiegel.de/panorama/justiz/wie-sie-jemanden-beleidigen-ohne-sich-strafbar-zu-machen](https://www.spiegel.de/panorama/justiz/wie-sie-jemanden-beleidigen-ohne-sich-strafbar-zu-machen-a-9e2f381f-bad0-4c3a-ae5d-0a60ec2013e5#ref=rss)
-* [https://www.spiegel.de/ausland/shiri-bibas-israel-bestaetigt-uebergabe-des-leichnams-der-hamas-geisel](https://www.spiegel.de/ausland/shiri-bibas-israel-bestaetigt-uebergabe-des-leichnams-der-hamas-geisel-a-25a935a1-de37-4769-9fa6-ade08b6fd6ab#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-der-mysterioese-tod-des-spitzenbeamten-christian-pilnacek-podcast](https://www.spiegel.de/ausland/oesterreich-der-mysterioese-tod-des-spitzenbeamten-christian-pilnacek-podcast-a-5c6edc9a-deaf-4afa-b8dc-5eb63fdc6ebe#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/bundestagswahl-warum-waehlen-junge-menschen-afd](https://www.spiegel.de/panorama/gesellschaft/bundestagswahl-warum-waehlen-junge-menschen-afd-a-26b01f89-8b26-49c0-8bb6-346cb1d20730#ref=rss)
 ### zwei
 
-* [https://www.spiegel.de/panorama/leute/kai-diekmann-nennt-fruehere-bild-berichterstattung-bloedsinnige-kampagne](https://www.spiegel.de/panorama/leute/kai-diekmann-nennt-fruehere-bild-berichterstattung-bloedsinnige-kampagne-a-e51b0395-0ba1-4bc1-be16-fb3db56498b6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/elektroauto-neue-tarife-senken-kosten-fuer-das-laden-zu-hause-erheblich](https://www.spiegel.de/wirtschaft/elektroauto-neue-tarife-senken-kosten-fuer-das-laden-zu-hause-erheblich-a-c3946a08-8fa7-44b9-ad0b-1330e5f7cc44#ref=rss)
-### alexander
+* [https://www.spiegel.de/ausland/oesterreich-der-mysterioese-tod-des-spitzenbeamten-christian-pilnacek-podcast](https://www.spiegel.de/ausland/oesterreich-der-mysterioese-tod-des-spitzenbeamten-christian-pilnacek-podcast-a-5c6edc9a-deaf-4afa-b8dc-5eb63fdc6ebe#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/sprockhoevel-in-nordrhein-westfalen-zwei-einbrecher-in-bergwerk-verschollen](https://www.spiegel.de/panorama/justiz/sprockhoevel-in-nordrhein-westfalen-zwei-einbrecher-in-bergwerk-verschollen-a-7875779d-3575-461a-9881-7dc7527ac07f#ref=rss)
+### wir
 
-* [https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-versucht-drohne-abzuschiessen-und-scheitert-im-viertelfinale](https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-versucht-drohne-abzuschiessen-und-scheitert-im-viertelfinale-a-7464885c-a044-4b27-940b-fe0aed8c46a6#ref=rss)
-### zverev
+* [https://www.spiegel.de/ausland/oesterreich-der-mysterioese-tod-des-spitzenbeamten-christian-pilnacek-podcast](https://www.spiegel.de/ausland/oesterreich-der-mysterioese-tod-des-spitzenbeamten-christian-pilnacek-podcast-a-5c6edc9a-deaf-4afa-b8dc-5eb63fdc6ebe#ref=rss)
+* [https://www.spiegel.de/familie/familie-meine-toechter-werden-16-was-bedeutet-das-fuer-sie-und-fuer-mich](https://www.spiegel.de/familie/familie-meine-toechter-werden-16-was-bedeutet-das-fuer-sie-und-fuer-mich-a-490bc3ec-cfab-495c-b64d-4cd1ac35d204#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-gegen-janet-mills-im-weissen-haus-wir-sehen-uns-vor-gericht](https://www.spiegel.de/ausland/donald-trump-gegen-janet-mills-im-weissen-haus-wir-sehen-uns-vor-gericht-a-89dd0cbb-bc30-4d90-aa47-ffc2a7356127#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-versucht-drohne-abzuschiessen-und-scheitert-im-viertelfinale](https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-versucht-drohne-abzuschiessen-und-scheitert-im-viertelfinale-a-7464885c-a044-4b27-940b-fe0aed8c46a6#ref=rss)
-### angst
+* [https://www.spiegel.de/start/fotoprojekt-weisswasser-von-thea-tonnesvan-eine-stadt-die-man-verlaesst](https://www.spiegel.de/start/fotoprojekt-weisswasser-von-thea-tonnesvan-eine-stadt-die-man-verlaesst-a-dc438f8e-568d-4bc4-9c3a-590761afb64a#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/frankreich-ein-toter-und-mehrere-verletzte-nach-messerattacke-auf-markt-im-elsass](https://www.spiegel.de/panorama/justiz/frankreich-ein-toter-und-mehrere-verletzte-nach-messerattacke-auf-markt-im-elsass-a-923db107-ff49-4895-bbf8-daaaa218685c#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/bundestagswahl-warum-waehlen-junge-menschen-afd](https://www.spiegel.de/panorama/gesellschaft/bundestagswahl-warum-waehlen-junge-menschen-afd-a-26b01f89-8b26-49c0-8bb6-346cb1d20730#ref=rss)
+### mann
 
-* [https://www.spiegel.de/panorama/bundestagswahl-2025-ich-habe-angst-das-ist-neu](https://www.spiegel.de/panorama/bundestagswahl-2025-ich-habe-angst-das-ist-neu-a-8f6fee64-4d0c-4057-a752-e1dd5e99b540#ref=rss)
-* [https://www.spiegel.de/panorama/bundestagswahl-2025-wir-werden-die-letzten-sein-die-gehen](https://www.spiegel.de/panorama/bundestagswahl-2025-wir-werden-die-letzten-sein-die-gehen-a-d17c7901-2a9f-4b5a-9a35-13fd208a42d9#ref=rss)
-### student
+* [https://www.spiegel.de/panorama/justiz/frankreich-ein-toter-und-mehrere-verletzte-nach-messerattacke-auf-markt-im-elsass](https://www.spiegel.de/panorama/justiz/frankreich-ein-toter-und-mehrere-verletzte-nach-messerattacke-auf-markt-im-elsass-a-923db107-ff49-4895-bbf8-daaaa218685c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/tv-quadrell-bei-rtl-friedrich-merz-liegt-bei-zuschauern-vorn](https://www.spiegel.de/politik/deutschland/tv-quadrell-bei-rtl-friedrich-merz-liegt-bei-zuschauern-vorn-a-d8377e9d-cb30-4415-8464-5cd00c974c16#ref=rss)
+* [https://www.spiegel.de/geschichte/historie-der-scheidung-wie-wird-man-einen-mann-oder-eine-frau-los](https://www.spiegel.de/geschichte/historie-der-scheidung-wie-wird-man-einen-mann-oder-eine-frau-los-a-1f947b75-ab10-4fa2-b5b0-28fc52e1c83c#ref=rss)
+### vfl
 
-* [https://www.spiegel.de/panorama/bundestagswahl-2025-ich-habe-angst-das-ist-neu](https://www.spiegel.de/panorama/bundestagswahl-2025-ich-habe-angst-das-ist-neu-a-8f6fee64-4d0c-4057-a752-e1dd5e99b540#ref=rss)
-* [https://www.spiegel.de/panorama/bundestagswahl-2025-ich-glaube-der-wollte-mich-ermorden](https://www.spiegel.de/panorama/bundestagswahl-2025-ich-glaube-der-wollte-mich-ermorden-a-835367df-490e-4152-a42d-867ebe9189e2#ref=rss)
-### fühlt
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-bochum-darf-nach-punkt-beim-vfl-wolfsburg-auf-klassenerhalt-hoffen](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-bochum-darf-nach-punkt-beim-vfl-wolfsburg-auf-klassenerhalt-hoffen-a-a3587f0e-cf58-46da-8d18-0e490d55df00#ref=rss)
+### berichten
 
-* [https://www.spiegel.de/panorama/bundestagswahl-2025-ich-habe-angst-das-ist-neu](https://www.spiegel.de/panorama/bundestagswahl-2025-ich-habe-angst-das-ist-neu-a-8f6fee64-4d0c-4057-a752-e1dd5e99b540#ref=rss)
-* [https://www.spiegel.de/panorama/duezen-tekkal-vor-der-bundestagswahl-2025-deutschland-2025-fuehlt-sich-kalt-an-fuer-mich](https://www.spiegel.de/panorama/duezen-tekkal-vor-der-bundestagswahl-2025-deutschland-2025-fuehlt-sich-kalt-an-fuer-mich-a-0cb2d29e-33b0-44f1-87ed-e8ebea4a02d2#ref=rss)
-### rechtfertigen
+* [https://www.spiegel.de/ausland/israel-hamas-deal-freigelassene-palaestinenser-berichten-von-misshandlungen](https://www.spiegel.de/ausland/israel-hamas-deal-freigelassene-palaestinenser-berichten-von-misshandlungen-a-2e39e62f-aa7a-401b-bf27-cf2c729bbcf4#ref=rss)
+### mutter
 
-* [https://www.spiegel.de/panorama/bundestagswahl-2025-inzwischen-muss-man-sich-rechtfertigen-wenn-man-ein-herz-hat](https://www.spiegel.de/panorama/bundestagswahl-2025-inzwischen-muss-man-sich-rechtfertigen-wenn-man-ein-herz-hat-a-2a1885fe-8484-4d7b-9b98-d29833d68541#ref=rss)
-* [https://www.spiegel.de/panorama/duezen-tekkal-vor-der-bundestagswahl-2025-deutschland-2025-fuehlt-sich-kalt-an-fuer-mich](https://www.spiegel.de/panorama/duezen-tekkal-vor-der-bundestagswahl-2025-deutschland-2025-fuehlt-sich-kalt-an-fuer-mich-a-0cb2d29e-33b0-44f1-87ed-e8ebea4a02d2#ref=rss)
-### buchautor
+* [https://www.spiegel.de/ausland/israel-hamas-deal-freigelassene-palaestinenser-berichten-von-misshandlungen](https://www.spiegel.de/ausland/israel-hamas-deal-freigelassene-palaestinenser-berichten-von-misshandlungen-a-2e39e62f-aa7a-401b-bf27-cf2c729bbcf4#ref=rss)
+* [https://www.spiegel.de/panorama/leute/elon-musk-und-ashley-st-clair-rechte-influencerin-will-das-alleinige-sorgerecht-fuer-ihren-sohn](https://www.spiegel.de/panorama/leute/elon-musk-und-ashley-st-clair-rechte-influencerin-will-das-alleinige-sorgerecht-fuer-ihren-sohn-a-a8ee95ba-6a62-442a-b2dd-5f831e5d27b1#ref=rss)
+### israel
 
-* [https://www.spiegel.de/panorama/tahsim-durgun-bundestagswahl-2025-meinen-fuellerfuehrerschein-behalte-ich](https://www.spiegel.de/panorama/tahsim-durgun-bundestagswahl-2025-meinen-fuellerfuehrerschein-behalte-ich-a-28b679e8-1501-4ce4-b973-a79824bd8c72#ref=rss)
-* [https://www.spiegel.de/panorama/bundestagswahl-2025-wenn-hetze-alltag-wird-wird-gewalt-zur-konsequenz](https://www.spiegel.de/panorama/bundestagswahl-2025-wenn-hetze-alltag-wird-wird-gewalt-zur-konsequenz-a-8a95caa0-2cce-46de-8033-7979d60133bc#ref=rss)
-### nichts
+* [https://www.spiegel.de/ausland/israel-hamas-deal-freigelassene-palaestinenser-berichten-von-misshandlungen](https://www.spiegel.de/ausland/israel-hamas-deal-freigelassene-palaestinenser-berichten-von-misshandlungen-a-2e39e62f-aa7a-401b-bf27-cf2c729bbcf4#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gazastreifen-hamas-laesst-sechste-geisel-frei](https://www.spiegel.de/ausland/israel-gazastreifen-hamas-laesst-sechste-geisel-frei-a-d4d223ab-7aec-483f-a3a9-6a1d627692c3#ref=rss)
+### drei
 
-* [https://www.spiegel.de/panorama/tahsim-durgun-bundestagswahl-2025-meinen-fuellerfuehrerschein-behalte-ich](https://www.spiegel.de/panorama/tahsim-durgun-bundestagswahl-2025-meinen-fuellerfuehrerschein-behalte-ich-a-28b679e8-1501-4ce4-b973-a79824bd8c72#ref=rss)
-* [https://www.spiegel.de/panorama/bundestagswahl-2025-menschen-mit-migrationsgeschichte-ueber-rechtsruck-und-afd](https://www.spiegel.de/panorama/bundestagswahl-2025-menschen-mit-migrationsgeschichte-ueber-rechtsruck-und-afd-a-97d3e7bb-3495-41f0-b2eb-375bf0534678#ref=rss)
-### mich
+* [https://www.spiegel.de/ausland/israel-hamas-deal-freigelassene-palaestinenser-berichten-von-misshandlungen](https://www.spiegel.de/ausland/israel-hamas-deal-freigelassene-palaestinenser-berichten-von-misshandlungen-a-2e39e62f-aa7a-401b-bf27-cf2c729bbcf4#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-mikaela-shiffrin-bei-riesenslalom-comeback-noch-weit-von-alter-staerke-entfernt](https://www.spiegel.de/sport/wintersport/ski-alpin-mikaela-shiffrin-bei-riesenslalom-comeback-noch-weit-von-alter-staerke-entfernt-a-eec116fe-ee25-46d3-befe-080071f0c122#ref=rss)
+### pilnacek
 
-* [https://www.spiegel.de/panorama/duezen-tekkal-vor-der-bundestagswahl-2025-deutschland-2025-fuehlt-sich-kalt-an-fuer-mich](https://www.spiegel.de/panorama/duezen-tekkal-vor-der-bundestagswahl-2025-deutschland-2025-fuehlt-sich-kalt-an-fuer-mich-a-0cb2d29e-33b0-44f1-87ed-e8ebea4a02d2#ref=rss)
-* [https://www.spiegel.de/panorama/bundestagswahl-2025-ich-glaube-der-wollte-mich-ermorden](https://www.spiegel.de/panorama/bundestagswahl-2025-ich-glaube-der-wollte-mich-ermorden-a-835367df-490e-4152-a42d-867ebe9189e2#ref=rss)
-### migrationsgeschichte
+* [https://www.spiegel.de/ausland/oesterreich-der-mysterioese-tod-des-spitzenbeamten-christian-pilnacek-podcast](https://www.spiegel.de/ausland/oesterreich-der-mysterioese-tod-des-spitzenbeamten-christian-pilnacek-podcast-a-5c6edc9a-deaf-4afa-b8dc-5eb63fdc6ebe#ref=rss)
+### podcast
 
-* [https://www.spiegel.de/panorama/bundestagswahl-2025-menschen-mit-migrationsgeschichte-ueber-rechtsruck-und-afd](https://www.spiegel.de/panorama/bundestagswahl-2025-menschen-mit-migrationsgeschichte-ueber-rechtsruck-und-afd-a-97d3e7bb-3495-41f0-b2eb-375bf0534678#ref=rss)
-### rechtsruck
+* [https://www.spiegel.de/ausland/oesterreich-der-mysterioese-tod-des-spitzenbeamten-christian-pilnacek-podcast](https://www.spiegel.de/ausland/oesterreich-der-mysterioese-tod-des-spitzenbeamten-christian-pilnacek-podcast-a-5c6edc9a-deaf-4afa-b8dc-5eb63fdc6ebe#ref=rss)
+### weißwasser
 
-* [https://www.spiegel.de/panorama/bundestagswahl-2025-menschen-mit-migrationsgeschichte-ueber-rechtsruck-und-afd](https://www.spiegel.de/panorama/bundestagswahl-2025-menschen-mit-migrationsgeschichte-ueber-rechtsruck-und-afd-a-97d3e7bb-3495-41f0-b2eb-375bf0534678#ref=rss)
-### thema
+* [https://www.spiegel.de/start/fotoprojekt-weisswasser-von-thea-tonnesvan-eine-stadt-die-man-verlaesst](https://www.spiegel.de/start/fotoprojekt-weisswasser-von-thea-tonnesvan-eine-stadt-die-man-verlaesst-a-dc438f8e-568d-4bc4-9c3a-590761afb64a#ref=rss)
+### markt
 
-* [https://www.spiegel.de/panorama/bundestagswahl-2025-menschen-mit-migrationsgeschichte-ueber-rechtsruck-und-afd](https://www.spiegel.de/panorama/bundestagswahl-2025-menschen-mit-migrationsgeschichte-ueber-rechtsruck-und-afd-a-97d3e7bb-3495-41f0-b2eb-375bf0534678#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/oekonom-marcel-fratzscher-warum-er-immer-von-100-milliarden-euro-spricht-kolumne](https://www.spiegel.de/politik/deutschland/oekonom-marcel-fratzscher-warum-er-immer-von-100-milliarden-euro-spricht-kolumne-a-fbc71656-1fcd-4166-b1fe-7dbbd82460d8#ref=rss)
-### gebühren
+* [https://www.spiegel.de/panorama/justiz/frankreich-ein-toter-und-mehrere-verletzte-nach-messerattacke-auf-markt-im-elsass](https://www.spiegel.de/panorama/justiz/frankreich-ein-toter-und-mehrere-verletzte-nach-messerattacke-auf-markt-im-elsass-a-923db107-ff49-4895-bbf8-daaaa218685c#ref=rss)
+### los
 
-* [https://www.spiegel.de/ausland/gebuehren-fuers-anwohnerparken-im-vergleich-10-20-euro-in-berlin-und-1309-euro-in-stockholm](https://www.spiegel.de/ausland/gebuehren-fuers-anwohnerparken-im-vergleich-10-20-euro-in-berlin-und-1309-euro-in-stockholm-a-f42ad05f-6a92-4e93-8dc4-6a5b7f8b0e60#ref=rss)
-### anwohnerparken
+* [https://www.spiegel.de/panorama/justiz/frankreich-ein-toter-und-mehrere-verletzte-nach-messerattacke-auf-markt-im-elsass](https://www.spiegel.de/panorama/justiz/frankreich-ein-toter-und-mehrere-verletzte-nach-messerattacke-auf-markt-im-elsass-a-923db107-ff49-4895-bbf8-daaaa218685c#ref=rss)
+* [https://www.spiegel.de/geschichte/historie-der-scheidung-wie-wird-man-einen-mann-oder-eine-frau-los](https://www.spiegel.de/geschichte/historie-der-scheidung-wie-wird-man-einen-mann-oder-eine-frau-los-a-1f947b75-ab10-4fa2-b5b0-28fc52e1c83c#ref=rss)
+### verletzt
 
-* [https://www.spiegel.de/ausland/gebuehren-fuers-anwohnerparken-im-vergleich-10-20-euro-in-berlin-und-1309-euro-in-stockholm](https://www.spiegel.de/ausland/gebuehren-fuers-anwohnerparken-im-vergleich-10-20-euro-in-berlin-und-1309-euro-in-stockholm-a-f42ad05f-6a92-4e93-8dc4-6a5b7f8b0e60#ref=rss)
-### vergleich
+* [https://www.spiegel.de/panorama/justiz/frankreich-ein-toter-und-mehrere-verletzte-nach-messerattacke-auf-markt-im-elsass](https://www.spiegel.de/panorama/justiz/frankreich-ein-toter-und-mehrere-verletzte-nach-messerattacke-auf-markt-im-elsass-a-923db107-ff49-4895-bbf8-daaaa218685c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-was-ueber-den-angriff-am-holocaustmahnmal-bekannt-ist](https://www.spiegel.de/panorama/justiz/berlin-was-ueber-den-angriff-am-holocaustmahnmal-bekannt-ist-a-576e87b2-0e0b-421c-ac8a-653579983819#ref=rss)
+### ermittelt
 
-* [https://www.spiegel.de/ausland/gebuehren-fuers-anwohnerparken-im-vergleich-10-20-euro-in-berlin-und-1309-euro-in-stockholm](https://www.spiegel.de/ausland/gebuehren-fuers-anwohnerparken-im-vergleich-10-20-euro-in-berlin-und-1309-euro-in-stockholm-a-f42ad05f-6a92-4e93-8dc4-6a5b7f8b0e60#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/frankreich-ein-toter-und-mehrere-verletzte-nach-messerattacke-auf-markt-im-elsass](https://www.spiegel.de/panorama/justiz/frankreich-ein-toter-und-mehrere-verletzte-nach-messerattacke-auf-markt-im-elsass-a-923db107-ff49-4895-bbf8-daaaa218685c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-was-ueber-den-angriff-am-holocaustmahnmal-bekannt-ist](https://www.spiegel.de/panorama/justiz/berlin-was-ueber-den-angriff-am-holocaustmahnmal-bekannt-ist-a-576e87b2-0e0b-421c-ac8a-653579983819#ref=rss)
+### nicole
+
+* [https://www.spiegel.de/panorama/leute/nicole-kidman-arbeitete-in-acht-jahren-mit-19-regisseurinnen-zusammen](https://www.spiegel.de/panorama/leute/nicole-kidman-arbeitete-in-acht-jahren-mit-19-regisseurinnen-zusammen-a-b990c156-6659-4c9e-a0c3-7e17a513b31c#ref=rss)
+### kidman
+
+* [https://www.spiegel.de/panorama/leute/nicole-kidman-arbeitete-in-acht-jahren-mit-19-regisseurinnen-zusammen](https://www.spiegel.de/panorama/leute/nicole-kidman-arbeitete-in-acht-jahren-mit-19-regisseurinnen-zusammen-a-b990c156-6659-4c9e-a0c3-7e17a513b31c#ref=rss)
+### acht
+
+* [https://www.spiegel.de/panorama/leute/nicole-kidman-arbeitete-in-acht-jahren-mit-19-regisseurinnen-zusammen](https://www.spiegel.de/panorama/leute/nicole-kidman-arbeitete-in-acht-jahren-mit-19-regisseurinnen-zusammen-a-b990c156-6659-4c9e-a0c3-7e17a513b31c#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/bundestagswahl-warum-waehlen-junge-menschen-afd](https://www.spiegel.de/panorama/gesellschaft/bundestagswahl-warum-waehlen-junge-menschen-afd-a-26b01f89-8b26-49c0-8bb6-346cb1d20730#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/panorama/leute/nicole-kidman-arbeitete-in-acht-jahren-mit-19-regisseurinnen-zusammen](https://www.spiegel.de/panorama/leute/nicole-kidman-arbeitete-in-acht-jahren-mit-19-regisseurinnen-zusammen-a-b990c156-6659-4c9e-a0c3-7e17a513b31c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/syrer-in-deutschland-buergermeister-alshebl-ueber-die-migrationsdebatte-und-zukunftssorgen](https://www.spiegel.de/politik/deutschland/syrer-in-deutschland-buergermeister-alshebl-ueber-die-migrationsdebatte-und-zukunftssorgen-a-87bc604a-8587-4fea-9253-db8cbb8233eb#ref=rss)
+### regisseurinnen
+
+* [https://www.spiegel.de/panorama/leute/nicole-kidman-arbeitete-in-acht-jahren-mit-19-regisseurinnen-zusammen](https://www.spiegel.de/panorama/leute/nicole-kidman-arbeitete-in-acht-jahren-mit-19-regisseurinnen-zusammen-a-b990c156-6659-4c9e-a0c3-7e17a513b31c#ref=rss)
+### alle
+
+* [https://www.spiegel.de/panorama/leute/nicole-kidman-arbeitete-in-acht-jahren-mit-19-regisseurinnen-zusammen](https://www.spiegel.de/panorama/leute/nicole-kidman-arbeitete-in-acht-jahren-mit-19-regisseurinnen-zusammen-a-b990c156-6659-4c9e-a0c3-7e17a513b31c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/demokratische-kultur-warum-populaere-politik-nicht-mit-populismus-verwechselt-werden-darf](https://www.spiegel.de/politik/deutschland/demokratische-kultur-warum-populaere-politik-nicht-mit-populismus-verwechselt-werden-darf-a-772db28f-e6a6-438e-947e-dea682b58032#ref=rss)
+### monate
+
+* [https://www.spiegel.de/panorama/leute/nicole-kidman-arbeitete-in-acht-jahren-mit-19-regisseurinnen-zusammen](https://www.spiegel.de/panorama/leute/nicole-kidman-arbeitete-in-acht-jahren-mit-19-regisseurinnen-zusammen-a-b990c156-6659-4c9e-a0c3-7e17a513b31c#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-mikaela-shiffrin-bei-riesenslalom-comeback-noch-weit-von-alter-staerke-entfernt](https://www.spiegel.de/sport/wintersport/ski-alpin-mikaela-shiffrin-bei-riesenslalom-comeback-noch-weit-von-alter-staerke-entfernt-a-eec116fe-ee25-46d3-befe-080071f0c122#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/panorama/leute/nicole-kidman-arbeitete-in-acht-jahren-mit-19-regisseurinnen-zusammen](https://www.spiegel.de/panorama/leute/nicole-kidman-arbeitete-in-acht-jahren-mit-19-regisseurinnen-zusammen-a-b990c156-6659-4c9e-a0c3-7e17a513b31c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/demokratische-kultur-warum-populaere-politik-nicht-mit-populismus-verwechselt-werden-darf](https://www.spiegel.de/politik/deutschland/demokratische-kultur-warum-populaere-politik-nicht-mit-populismus-verwechselt-werden-darf-a-772db28f-e6a6-438e-947e-dea682b58032#ref=rss)
+### markus
+
+* [https://www.spiegel.de/politik/deutschland/tv-quadrell-bei-rtl-friedrich-merz-liegt-bei-zuschauern-vorn](https://www.spiegel.de/politik/deutschland/tv-quadrell-bei-rtl-friedrich-merz-liegt-bei-zuschauern-vorn-a-d8377e9d-cb30-4415-8464-5cd00c974c16#ref=rss)
+### söder
+
+* [https://www.spiegel.de/politik/deutschland/tv-quadrell-bei-rtl-friedrich-merz-liegt-bei-zuschauern-vorn](https://www.spiegel.de/politik/deutschland/tv-quadrell-bei-rtl-friedrich-merz-liegt-bei-zuschauern-vorn-a-d8377e9d-cb30-4415-8464-5cd00c974c16#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/politik/deutschland/tv-quadrell-bei-rtl-friedrich-merz-liegt-bei-zuschauern-vorn](https://www.spiegel.de/politik/deutschland/tv-quadrell-bei-rtl-friedrich-merz-liegt-bei-zuschauern-vorn-a-d8377e9d-cb30-4415-8464-5cd00c974c16#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/deutschland/tv-quadrell-bei-rtl-friedrich-merz-liegt-bei-zuschauern-vorn](https://www.spiegel.de/politik/deutschland/tv-quadrell-bei-rtl-friedrich-merz-liegt-bei-zuschauern-vorn-a-d8377e9d-cb30-4415-8464-5cd00c974c16#ref=rss)
+### ungewöhnlich
+
+* [https://www.spiegel.de/politik/deutschland/tv-quadrell-bei-rtl-friedrich-merz-liegt-bei-zuschauern-vorn](https://www.spiegel.de/politik/deutschland/tv-quadrell-bei-rtl-friedrich-merz-liegt-bei-zuschauern-vorn-a-d8377e9d-cb30-4415-8464-5cd00c974c16#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-gegen-janet-mills-im-weissen-haus-wir-sehen-uns-vor-gericht](https://www.spiegel.de/ausland/donald-trump-gegen-janet-mills-im-weissen-haus-wir-sehen-uns-vor-gericht-a-89dd0cbb-bc30-4d90-aa47-ffc2a7356127#ref=rss)
+### bundestagswahl
+
+* [https://www.spiegel.de/politik/deutschland/tv-quadrell-bei-rtl-friedrich-merz-liegt-bei-zuschauern-vorn](https://www.spiegel.de/politik/deutschland/tv-quadrell-bei-rtl-friedrich-merz-liegt-bei-zuschauern-vorn-a-d8377e9d-cb30-4415-8464-5cd00c974c16#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/bundestagswahl-warum-waehlen-junge-menschen-afd](https://www.spiegel.de/panorama/gesellschaft/bundestagswahl-warum-waehlen-junge-menschen-afd-a-26b01f89-8b26-49c0-8bb6-346cb1d20730#ref=rss)
+### sofia
+
+* [https://www.spiegel.de/ausland/sofia-bulgarische-nationalisten-protestieren-gewaltsam-gegen-beitritt-zur-eurozone](https://www.spiegel.de/ausland/sofia-bulgarische-nationalisten-protestieren-gewaltsam-gegen-beitritt-zur-eurozone-a-c6784836-af7c-4378-9182-39d41db7f9e2#ref=rss)
+### nationalisten
+
+* [https://www.spiegel.de/ausland/sofia-bulgarische-nationalisten-protestieren-gewaltsam-gegen-beitritt-zur-eurozone](https://www.spiegel.de/ausland/sofia-bulgarische-nationalisten-protestieren-gewaltsam-gegen-beitritt-zur-eurozone-a-c6784836-af7c-4378-9182-39d41db7f9e2#ref=rss)
+### bochum
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-bochum-darf-nach-punkt-beim-vfl-wolfsburg-auf-klassenerhalt-hoffen](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-bochum-darf-nach-punkt-beim-vfl-wolfsburg-auf-klassenerhalt-hoffen-a-a3587f0e-cf58-46da-8d18-0e490d55df00#ref=rss)
+### team
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-bochum-darf-nach-punkt-beim-vfl-wolfsburg-auf-klassenerhalt-hoffen](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-bochum-darf-nach-punkt-beim-vfl-wolfsburg-auf-klassenerhalt-hoffen-a-a3587f0e-cf58-46da-8d18-0e490d55df00#ref=rss)
+### thomas
+
+* [https://www.spiegel.de/politik/fuehrung-thomas-de-maiziere-und-peter-modler-ueber-macht-und-fuehrungsstile](https://www.spiegel.de/politik/fuehrung-thomas-de-maiziere-und-peter-modler-ueber-macht-und-fuehrungsstile-a-f423ae05-d1b2-45de-b574-c974fe7b995b#ref=rss)
+### de
+
+* [https://www.spiegel.de/politik/fuehrung-thomas-de-maiziere-und-peter-modler-ueber-macht-und-fuehrungsstile](https://www.spiegel.de/politik/fuehrung-thomas-de-maiziere-und-peter-modler-ueber-macht-und-fuehrungsstile-a-f423ae05-d1b2-45de-b574-c974fe7b995b#ref=rss)
+### maizière
+
+* [https://www.spiegel.de/politik/fuehrung-thomas-de-maiziere-und-peter-modler-ueber-macht-und-fuehrungsstile](https://www.spiegel.de/politik/fuehrung-thomas-de-maiziere-und-peter-modler-ueber-macht-und-fuehrungsstile-a-f423ae05-d1b2-45de-b574-c974fe7b995b#ref=rss)
+### peter
+
+* [https://www.spiegel.de/politik/fuehrung-thomas-de-maiziere-und-peter-modler-ueber-macht-und-fuehrungsstile](https://www.spiegel.de/politik/fuehrung-thomas-de-maiziere-und-peter-modler-ueber-macht-und-fuehrungsstile-a-f423ae05-d1b2-45de-b574-c974fe7b995b#ref=rss)
+### modler
+
+* [https://www.spiegel.de/politik/fuehrung-thomas-de-maiziere-und-peter-modler-ueber-macht-und-fuehrungsstile](https://www.spiegel.de/politik/fuehrung-thomas-de-maiziere-und-peter-modler-ueber-macht-und-fuehrungsstile-a-f423ae05-d1b2-45de-b574-c974fe7b995b#ref=rss)
 ### macht
 
-* [https://www.spiegel.de/ausland/gebuehren-fuers-anwohnerparken-im-vergleich-10-20-euro-in-berlin-und-1309-euro-in-stockholm](https://www.spiegel.de/ausland/gebuehren-fuers-anwohnerparken-im-vergleich-10-20-euro-in-berlin-und-1309-euro-in-stockholm-a-f42ad05f-6a92-4e93-8dc4-6a5b7f8b0e60#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-entlaesst-us-generalstabschef-charles-q-brown](https://www.spiegel.de/ausland/usa-donald-trump-entlaesst-us-generalstabschef-charles-q-brown-a-e8f0e0d0-5b23-4900-9bdc-8ed09ea4efce#ref=rss)
-### telekom
+* [https://www.spiegel.de/politik/fuehrung-thomas-de-maiziere-und-peter-modler-ueber-macht-und-fuehrungsstile](https://www.spiegel.de/politik/fuehrung-thomas-de-maiziere-und-peter-modler-ueber-macht-und-fuehrungsstile-a-f423ae05-d1b2-45de-b574-c974fe7b995b#ref=rss)
+### politiker
 
-* [https://www.spiegel.de/netzwelt/telekom-fuehrt-neuen-schutz-gegen-betruegerische-sms-ein](https://www.spiegel.de/netzwelt/telekom-fuehrt-neuen-schutz-gegen-betruegerische-sms-ein-a-6c3e87f3-d0da-4096-a201-9bd0ca7c3ec4#ref=rss)
+* [https://www.spiegel.de/politik/fuehrung-thomas-de-maiziere-und-peter-modler-ueber-macht-und-fuehrungsstile](https://www.spiegel.de/politik/fuehrung-thomas-de-maiziere-und-peter-modler-ueber-macht-und-fuehrungsstile-a-f423ae05-d1b2-45de-b574-c974fe7b995b#ref=rss)
+### einzug
+
+* [https://www.spiegel.de/politik/fuehrung-thomas-de-maiziere-und-peter-modler-ueber-macht-und-fuehrungsstile](https://www.spiegel.de/politik/fuehrung-thomas-de-maiziere-und-peter-modler-ueber-macht-und-fuehrungsstile-a-f423ae05-d1b2-45de-b574-c974fe7b995b#ref=rss)
+* [https://www.spiegel.de/kultur/kino/berlinale-2025-dokumentarfilme-zu-russland-hanau-und-nahost-kleine-und-grosse-gesten-des-widerstands](https://www.spiegel.de/kultur/kino/berlinale-2025-dokumentarfilme-zu-russland-hanau-und-nahost-kleine-und-grosse-gesten-des-widerstands-a-08ca8421-c791-4bf7-b05a-c2f7568a17f7#ref=rss)
+### waren
+
+* [https://www.spiegel.de/geschichte/historie-der-scheidung-wie-wird-man-einen-mann-oder-eine-frau-los](https://www.spiegel.de/geschichte/historie-der-scheidung-wie-wird-man-einen-mann-oder-eine-frau-los-a-1f947b75-ab10-4fa2-b5b0-28fc52e1c83c#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/biathlon-wm-deutsche-maennerstaffel-gewinnt-bronze-in-lenzerheide](https://www.spiegel.de/sport/wintersport/biathlon-wm-deutsche-maennerstaffel-gewinnt-bronze-in-lenzerheide-a-927fc7a7-13df-4b06-83a9-92a1995154f3#ref=rss)
+### gewinnen
+
+* [https://www.spiegel.de/ausland/donald-trump-und-der-ukraine-krieg-die-einfluesterer](https://www.spiegel.de/ausland/donald-trump-und-der-ukraine-krieg-die-einfluesterer-a-6ac42b37-49ef-43a4-ba75-308f91f9eda8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/demokratische-kultur-warum-populaere-politik-nicht-mit-populismus-verwechselt-werden-darf](https://www.spiegel.de/politik/deutschland/demokratische-kultur-warum-populaere-politik-nicht-mit-populismus-verwechselt-werden-darf-a-772db28f-e6a6-438e-947e-dea682b58032#ref=rss)
 ### briten
 
 * [https://www.spiegel.de/ausland/grossbritannien-wie-die-briten-ihre-pub-manieren-retten](https://www.spiegel.de/ausland/grossbritannien-wie-die-briten-ihre-pub-manieren-retten-a-192e02fc-7afc-4b1d-9c05-2b95aba73a08#ref=rss)
 ### retten
 
 * [https://www.spiegel.de/ausland/grossbritannien-wie-die-briten-ihre-pub-manieren-retten](https://www.spiegel.de/ausland/grossbritannien-wie-die-briten-ihre-pub-manieren-retten-a-192e02fc-7afc-4b1d-9c05-2b95aba73a08#ref=rss)
-### philipp
+### wo
 
-* [https://www.spiegel.de/panorama/muenchner-sicherheitskonferenz-so-hat-kuechenchef-philipp-pfisterer-die-siko-im-hotel-bayerischer-hof-erlebt](https://www.spiegel.de/panorama/muenchner-sicherheitskonferenz-so-hat-kuechenchef-philipp-pfisterer-die-siko-im-hotel-bayerischer-hof-erlebt-a-a95e5e1c-d136-4323-9d59-3b831a761361#ref=rss)
-### pfisterer
+* [https://www.spiegel.de/ausland/grossbritannien-wie-die-briten-ihre-pub-manieren-retten](https://www.spiegel.de/ausland/grossbritannien-wie-die-briten-ihre-pub-manieren-retten-a-192e02fc-7afc-4b1d-9c05-2b95aba73a08#ref=rss)
+* [https://www.spiegel.de/wissenschaft/katzen-an-die-leine-der-trend-zum-gesicherten-freigang](https://www.spiegel.de/wissenschaft/katzen-an-die-leine-der-trend-zum-gesicherten-freigang-a-f21c4d31-c2c2-4d6d-a282-d60e5a7d2240#ref=rss)
+### mount
 
-* [https://www.spiegel.de/panorama/muenchner-sicherheitskonferenz-so-hat-kuechenchef-philipp-pfisterer-die-siko-im-hotel-bayerischer-hof-erlebt](https://www.spiegel.de/panorama/muenchner-sicherheitskonferenz-so-hat-kuechenchef-philipp-pfisterer-die-siko-im-hotel-bayerischer-hof-erlebt-a-a95e5e1c-d136-4323-9d59-3b831a761361#ref=rss)
-### heraus
+* [https://www.spiegel.de/sport/mount-denali-in-alaska-donald-trumps-agenda-trifft-nordamerikas-hoechsten-berg-mit-voller-wucht](https://www.spiegel.de/sport/mount-denali-in-alaska-donald-trumps-agenda-trifft-nordamerikas-hoechsten-berg-mit-voller-wucht-a-fdf3ca5d-9ed3-4b9b-945f-a06b96844d9c#ref=rss)
+### denali
 
-* [https://www.spiegel.de/panorama/muenchner-sicherheitskonferenz-so-hat-kuechenchef-philipp-pfisterer-die-siko-im-hotel-bayerischer-hof-erlebt](https://www.spiegel.de/panorama/muenchner-sicherheitskonferenz-so-hat-kuechenchef-philipp-pfisterer-die-siko-im-hotel-bayerischer-hof-erlebt-a-a95e5e1c-d136-4323-9d59-3b831a761361#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/oekonom-marcel-fratzscher-warum-er-immer-von-100-milliarden-euro-spricht-kolumne](https://www.spiegel.de/politik/deutschland/oekonom-marcel-fratzscher-warum-er-immer-von-100-milliarden-euro-spricht-kolumne-a-fbc71656-1fcd-4166-b1fe-7dbbd82460d8#ref=rss)
-### 100
+* [https://www.spiegel.de/sport/mount-denali-in-alaska-donald-trumps-agenda-trifft-nordamerikas-hoechsten-berg-mit-voller-wucht](https://www.spiegel.de/sport/mount-denali-in-alaska-donald-trumps-agenda-trifft-nordamerikas-hoechsten-berg-mit-voller-wucht-a-fdf3ca5d-9ed3-4b9b-945f-a06b96844d9c#ref=rss)
+### alaska
 
-* [https://www.spiegel.de/politik/deutschland/oekonom-marcel-fratzscher-warum-er-immer-von-100-milliarden-euro-spricht-kolumne](https://www.spiegel.de/politik/deutschland/oekonom-marcel-fratzscher-warum-er-immer-von-100-milliarden-euro-spricht-kolumne-a-fbc71656-1fcd-4166-b1fe-7dbbd82460d8#ref=rss)
-### milliarden
+* [https://www.spiegel.de/sport/mount-denali-in-alaska-donald-trumps-agenda-trifft-nordamerikas-hoechsten-berg-mit-voller-wucht](https://www.spiegel.de/sport/mount-denali-in-alaska-donald-trumps-agenda-trifft-nordamerikas-hoechsten-berg-mit-voller-wucht-a-fdf3ca5d-9ed3-4b9b-945f-a06b96844d9c#ref=rss)
+### berg
 
-* [https://www.spiegel.de/politik/deutschland/oekonom-marcel-fratzscher-warum-er-immer-von-100-milliarden-euro-spricht-kolumne](https://www.spiegel.de/politik/deutschland/oekonom-marcel-fratzscher-warum-er-immer-von-100-milliarden-euro-spricht-kolumne-a-fbc71656-1fcd-4166-b1fe-7dbbd82460d8#ref=rss)
-### geld
+* [https://www.spiegel.de/sport/mount-denali-in-alaska-donald-trumps-agenda-trifft-nordamerikas-hoechsten-berg-mit-voller-wucht](https://www.spiegel.de/sport/mount-denali-in-alaska-donald-trumps-agenda-trifft-nordamerikas-hoechsten-berg-mit-voller-wucht-a-fdf3ca5d-9ed3-4b9b-945f-a06b96844d9c#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/politik/deutschland/oekonom-marcel-fratzscher-warum-er-immer-von-100-milliarden-euro-spricht-kolumne](https://www.spiegel.de/politik/deutschland/oekonom-marcel-fratzscher-warum-er-immer-von-100-milliarden-euro-spricht-kolumne-a-fbc71656-1fcd-4166-b1fe-7dbbd82460d8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/elektroauto-neue-tarife-senken-kosten-fuer-das-laden-zu-hause-erheblich](https://www.spiegel.de/wirtschaft/elektroauto-neue-tarife-senken-kosten-fuer-das-laden-zu-hause-erheblich-a-c3946a08-8fa7-44b9-ad0b-1330e5f7cc44#ref=rss)
-### laden
+* [https://www.spiegel.de/sport/wintersport/biathlon-wm-deutsche-maennerstaffel-gewinnt-bronze-in-lenzerheide](https://www.spiegel.de/sport/wintersport/biathlon-wm-deutsche-maennerstaffel-gewinnt-bronze-in-lenzerheide-a-927fc7a7-13df-4b06-83a9-92a1995154f3#ref=rss)
+### frauen
 
-* [https://www.spiegel.de/wirtschaft/elektroauto-neue-tarife-senken-kosten-fuer-das-laden-zu-hause-erheblich](https://www.spiegel.de/wirtschaft/elektroauto-neue-tarife-senken-kosten-fuer-das-laden-zu-hause-erheblich-a-c3946a08-8fa7-44b9-ad0b-1330e5f7cc44#ref=rss)
-### donald
+* [https://www.spiegel.de/sport/wintersport/biathlon-wm-deutsche-maennerstaffel-gewinnt-bronze-in-lenzerheide](https://www.spiegel.de/sport/wintersport/biathlon-wm-deutsche-maennerstaffel-gewinnt-bronze-in-lenzerheide-a-927fc7a7-13df-4b06-83a9-92a1995154f3#ref=rss)
+* [https://www.spiegel.de/panorama/leute/karoline-herfurth-ich-habe-meinen-po-im-spiegel-angeguckt-und-geweint-vor-verzweiflung](https://www.spiegel.de/panorama/leute/karoline-herfurth-ich-habe-meinen-po-im-spiegel-angeguckt-und-geweint-vor-verzweiflung-a-7d480332-e133-43a2-8df6-7d76efd9bfeb#ref=rss)
+### mikaela
 
-* [https://www.spiegel.de/ausland/usa-donald-trump-entlaesst-us-generalstabschef-charles-q-brown](https://www.spiegel.de/ausland/usa-donald-trump-entlaesst-us-generalstabschef-charles-q-brown-a-e8f0e0d0-5b23-4900-9bdc-8ed09ea4efce#ref=rss)
-### trump
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-mikaela-shiffrin-bei-riesenslalom-comeback-noch-weit-von-alter-staerke-entfernt](https://www.spiegel.de/sport/wintersport/ski-alpin-mikaela-shiffrin-bei-riesenslalom-comeback-noch-weit-von-alter-staerke-entfernt-a-eec116fe-ee25-46d3-befe-080071f0c122#ref=rss)
+### shiffrin
 
-* [https://www.spiegel.de/ausland/usa-donald-trump-entlaesst-us-generalstabschef-charles-q-brown](https://www.spiegel.de/ausland/usa-donald-trump-entlaesst-us-generalstabschef-charles-q-brown-a-e8f0e0d0-5b23-4900-9bdc-8ed09ea4efce#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-mikaela-shiffrin-bei-riesenslalom-comeback-noch-weit-von-alter-staerke-entfernt](https://www.spiegel.de/sport/wintersport/ski-alpin-mikaela-shiffrin-bei-riesenslalom-comeback-noch-weit-von-alter-staerke-entfernt-a-eec116fe-ee25-46d3-befe-080071f0c122#ref=rss)
+### populäre
+
+* [https://www.spiegel.de/politik/deutschland/demokratische-kultur-warum-populaere-politik-nicht-mit-populismus-verwechselt-werden-darf](https://www.spiegel.de/politik/deutschland/demokratische-kultur-warum-populaere-politik-nicht-mit-populismus-verwechselt-werden-darf-a-772db28f-e6a6-438e-947e-dea682b58032#ref=rss)
+### politik
+
+* [https://www.spiegel.de/politik/deutschland/demokratische-kultur-warum-populaere-politik-nicht-mit-populismus-verwechselt-werden-darf](https://www.spiegel.de/politik/deutschland/demokratische-kultur-warum-populaere-politik-nicht-mit-populismus-verwechselt-werden-darf-a-772db28f-e6a6-438e-947e-dea682b58032#ref=rss)
+### populismus
+
+* [https://www.spiegel.de/politik/deutschland/demokratische-kultur-warum-populaere-politik-nicht-mit-populismus-verwechselt-werden-darf](https://www.spiegel.de/politik/deutschland/demokratische-kultur-warum-populaere-politik-nicht-mit-populismus-verwechselt-werden-darf-a-772db28f-e6a6-438e-947e-dea682b58032#ref=rss)
+### syrer
+
+* [https://www.spiegel.de/politik/deutschland/syrer-in-deutschland-buergermeister-alshebl-ueber-die-migrationsdebatte-und-zukunftssorgen](https://www.spiegel.de/politik/deutschland/syrer-in-deutschland-buergermeister-alshebl-ueber-die-migrationsdebatte-und-zukunftssorgen-a-87bc604a-8587-4fea-9253-db8cbb8233eb#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-was-ueber-den-angriff-am-holocaustmahnmal-bekannt-ist](https://www.spiegel.de/panorama/justiz/berlin-was-ueber-den-angriff-am-holocaustmahnmal-bekannt-ist-a-576e87b2-0e0b-421c-ac8a-653579983819#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/politik/deutschland/syrer-in-deutschland-buergermeister-alshebl-ueber-die-migrationsdebatte-und-zukunftssorgen](https://www.spiegel.de/politik/deutschland/syrer-in-deutschland-buergermeister-alshebl-ueber-die-migrationsdebatte-und-zukunftssorgen-a-87bc604a-8587-4fea-9253-db8cbb8233eb#ref=rss)
+### bürgermeister
+
+* [https://www.spiegel.de/politik/deutschland/syrer-in-deutschland-buergermeister-alshebl-ueber-die-migrationsdebatte-und-zukunftssorgen](https://www.spiegel.de/politik/deutschland/syrer-in-deutschland-buergermeister-alshebl-ueber-die-migrationsdebatte-und-zukunftssorgen-a-87bc604a-8587-4fea-9253-db8cbb8233eb#ref=rss)
+### alshebl
+
+* [https://www.spiegel.de/politik/deutschland/syrer-in-deutschland-buergermeister-alshebl-ueber-die-migrationsdebatte-und-zukunftssorgen](https://www.spiegel.de/politik/deutschland/syrer-in-deutschland-buergermeister-alshebl-ueber-die-migrationsdebatte-und-zukunftssorgen-a-87bc604a-8587-4fea-9253-db8cbb8233eb#ref=rss)
+### gut
+
+* [https://www.spiegel.de/politik/deutschland/syrer-in-deutschland-buergermeister-alshebl-ueber-die-migrationsdebatte-und-zukunftssorgen](https://www.spiegel.de/politik/deutschland/syrer-in-deutschland-buergermeister-alshebl-ueber-die-migrationsdebatte-und-zukunftssorgen-a-87bc604a-8587-4fea-9253-db8cbb8233eb#ref=rss)
+### samstag
+
+* [https://www.spiegel.de/panorama/justiz/sprockhoevel-in-nordrhein-westfalen-zwei-einbrecher-in-bergwerk-verschollen](https://www.spiegel.de/panorama/justiz/sprockhoevel-in-nordrhein-westfalen-zwei-einbrecher-in-bergwerk-verschollen-a-7875779d-3575-461a-9881-7dc7527ac07f#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gazastreifen-hamas-laesst-sechste-geisel-frei](https://www.spiegel.de/ausland/israel-gazastreifen-hamas-laesst-sechste-geisel-frei-a-d4d223ab-7aec-483f-a3a9-6a1d627692c3#ref=rss)
+### männer
+
+* [https://www.spiegel.de/panorama/justiz/sprockhoevel-in-nordrhein-westfalen-zwei-einbrecher-in-bergwerk-verschollen](https://www.spiegel.de/panorama/justiz/sprockhoevel-in-nordrhein-westfalen-zwei-einbrecher-in-bergwerk-verschollen-a-7875779d-3575-461a-9881-7dc7527ac07f#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gazastreifen-hamas-laesst-sechste-geisel-frei](https://www.spiegel.de/ausland/israel-gazastreifen-hamas-laesst-sechste-geisel-frei-a-d4d223ab-7aec-483f-a3a9-6a1d627692c3#ref=rss)
+### karoline
+
+* [https://www.spiegel.de/panorama/leute/karoline-herfurth-ich-habe-meinen-po-im-spiegel-angeguckt-und-geweint-vor-verzweiflung](https://www.spiegel.de/panorama/leute/karoline-herfurth-ich-habe-meinen-po-im-spiegel-angeguckt-und-geweint-vor-verzweiflung-a-7d480332-e133-43a2-8df6-7d76efd9bfeb#ref=rss)
+### herfurth
+
+* [https://www.spiegel.de/panorama/leute/karoline-herfurth-ich-habe-meinen-po-im-spiegel-angeguckt-und-geweint-vor-verzweiflung](https://www.spiegel.de/panorama/leute/karoline-herfurth-ich-habe-meinen-po-im-spiegel-angeguckt-und-geweint-vor-verzweiflung-a-7d480332-e133-43a2-8df6-7d76efd9bfeb#ref=rss)
+### holocaustmahnmal
+
+* [https://www.spiegel.de/panorama/justiz/berlin-was-ueber-den-angriff-am-holocaustmahnmal-bekannt-ist](https://www.spiegel.de/panorama/justiz/berlin-was-ueber-den-angriff-am-holocaustmahnmal-bekannt-ist-a-576e87b2-0e0b-421c-ac8a-653579983819#ref=rss)
+### övp
+
+* [https://www.spiegel.de/ausland/oesterreich-oevp-spoe-und-neos-wollen-regierung-bilden](https://www.spiegel.de/ausland/oesterreich-oevp-spoe-und-neos-wollen-regierung-bilden-a-40f70c96-9b6c-453a-b5e2-652502600965#ref=rss)
+### spö
+
+* [https://www.spiegel.de/ausland/oesterreich-oevp-spoe-und-neos-wollen-regierung-bilden](https://www.spiegel.de/ausland/oesterreich-oevp-spoe-und-neos-wollen-regierung-bilden-a-40f70c96-9b6c-453a-b5e2-652502600965#ref=rss)
+### neos
+
+* [https://www.spiegel.de/ausland/oesterreich-oevp-spoe-und-neos-wollen-regierung-bilden](https://www.spiegel.de/ausland/oesterreich-oevp-spoe-und-neos-wollen-regierung-bilden-a-40f70c96-9b6c-453a-b5e2-652502600965#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/ausland/oesterreich-oevp-spoe-und-neos-wollen-regierung-bilden](https://www.spiegel.de/ausland/oesterreich-oevp-spoe-und-neos-wollen-regierung-bilden-a-40f70c96-9b6c-453a-b5e2-652502600965#ref=rss)
+### bilden
+
+* [https://www.spiegel.de/ausland/oesterreich-oevp-spoe-und-neos-wollen-regierung-bilden](https://www.spiegel.de/ausland/oesterreich-oevp-spoe-und-neos-wollen-regierung-bilden-a-40f70c96-9b6c-453a-b5e2-652502600965#ref=rss)
+### berlinale
+
+* [https://www.spiegel.de/kultur/kino/berlinale-2025-dokumentarfilme-zu-russland-hanau-und-nahost-kleine-und-grosse-gesten-des-widerstands](https://www.spiegel.de/kultur/kino/berlinale-2025-dokumentarfilme-zu-russland-hanau-und-nahost-kleine-und-grosse-gesten-des-widerstands-a-08ca8421-c791-4bf7-b05a-c2f7568a17f7#ref=rss)
 ### russland
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-usa-wollen-russland-in-uno-resolution-nicht-als-aggressor-bezeichnen](https://www.spiegel.de/ausland/ukraine-krieg-usa-wollen-russland-in-uno-resolution-nicht-als-aggressor-bezeichnen-a-875ff781-6fdc-44b5-8763-63a85d1d6dce#ref=rss)
-### shiri
+* [https://www.spiegel.de/kultur/kino/berlinale-2025-dokumentarfilme-zu-russland-hanau-und-nahost-kleine-und-grosse-gesten-des-widerstands](https://www.spiegel.de/kultur/kino/berlinale-2025-dokumentarfilme-zu-russland-hanau-und-nahost-kleine-und-grosse-gesten-des-widerstands-a-08ca8421-c791-4bf7-b05a-c2f7568a17f7#ref=rss)
+### junge
 
-* [https://www.spiegel.de/ausland/shiri-bibas-israel-bestaetigt-uebergabe-des-leichnams-der-hamas-geisel](https://www.spiegel.de/ausland/shiri-bibas-israel-bestaetigt-uebergabe-des-leichnams-der-hamas-geisel-a-25a935a1-de37-4769-9fa6-ade08b6fd6ab#ref=rss)
-### bibas
+* [https://www.spiegel.de/panorama/gesellschaft/bundestagswahl-warum-waehlen-junge-menschen-afd](https://www.spiegel.de/panorama/gesellschaft/bundestagswahl-warum-waehlen-junge-menschen-afd-a-26b01f89-8b26-49c0-8bb6-346cb1d20730#ref=rss)
+* [https://www.spiegel.de/familie/familie-meine-toechter-werden-16-was-bedeutet-das-fuer-sie-und-fuer-mich](https://www.spiegel.de/familie/familie-meine-toechter-werden-16-was-bedeutet-das-fuer-sie-und-fuer-mich-a-490bc3ec-cfab-495c-b64d-4cd1ac35d204#ref=rss)
+### gesehen
 
-* [https://www.spiegel.de/ausland/shiri-bibas-israel-bestaetigt-uebergabe-des-leichnams-der-hamas-geisel](https://www.spiegel.de/ausland/shiri-bibas-israel-bestaetigt-uebergabe-des-leichnams-der-hamas-geisel-a-25a935a1-de37-4769-9fa6-ade08b6fd6ab#ref=rss)
-### bestätigt
+* [https://www.spiegel.de/panorama/gesellschaft/bundestagswahl-warum-waehlen-junge-menschen-afd](https://www.spiegel.de/panorama/gesellschaft/bundestagswahl-warum-waehlen-junge-menschen-afd-a-26b01f89-8b26-49c0-8bb6-346cb1d20730#ref=rss)
+* [https://www.spiegel.de/panorama/leute/elon-musk-und-ashley-st-clair-rechte-influencerin-will-das-alleinige-sorgerecht-fuer-ihren-sohn](https://www.spiegel.de/panorama/leute/elon-musk-und-ashley-st-clair-rechte-influencerin-will-das-alleinige-sorgerecht-fuer-ihren-sohn-a-a8ee95ba-6a62-442a-b2dd-5f831e5d27b1#ref=rss)
+### weißen
 
-* [https://www.spiegel.de/ausland/shiri-bibas-israel-bestaetigt-uebergabe-des-leichnams-der-hamas-geisel](https://www.spiegel.de/ausland/shiri-bibas-israel-bestaetigt-uebergabe-des-leichnams-der-hamas-geisel-a-25a935a1-de37-4769-9fa6-ade08b6fd6ab#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-gegen-janet-mills-im-weissen-haus-wir-sehen-uns-vor-gericht](https://www.spiegel.de/ausland/donald-trump-gegen-janet-mills-im-weissen-haus-wir-sehen-uns-vor-gericht-a-89dd0cbb-bc30-4d90-aa47-ffc2a7356127#ref=rss)
+### haus
+
+* [https://www.spiegel.de/ausland/donald-trump-gegen-janet-mills-im-weissen-haus-wir-sehen-uns-vor-gericht](https://www.spiegel.de/ausland/donald-trump-gegen-janet-mills-im-weissen-haus-wir-sehen-uns-vor-gericht-a-89dd0cbb-bc30-4d90-aa47-ffc2a7356127#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/ausland/donald-trump-gegen-janet-mills-im-weissen-haus-wir-sehen-uns-vor-gericht](https://www.spiegel.de/ausland/donald-trump-gegen-janet-mills-im-weissen-haus-wir-sehen-uns-vor-gericht-a-89dd0cbb-bc30-4d90-aa47-ffc2a7356127#ref=rss)
+* [https://www.spiegel.de/panorama/leute/elon-musk-und-ashley-st-clair-rechte-influencerin-will-das-alleinige-sorgerecht-fuer-ihren-sohn](https://www.spiegel.de/panorama/leute/elon-musk-und-ashley-st-clair-rechte-influencerin-will-das-alleinige-sorgerecht-fuer-ihren-sohn-a-a8ee95ba-6a62-442a-b2dd-5f831e5d27b1#ref=rss)
+### musk
+
+* [https://www.spiegel.de/panorama/leute/elon-musk-und-ashley-st-clair-rechte-influencerin-will-das-alleinige-sorgerecht-fuer-ihren-sohn](https://www.spiegel.de/panorama/leute/elon-musk-und-ashley-st-clair-rechte-influencerin-will-das-alleinige-sorgerecht-fuer-ihren-sohn-a-a8ee95ba-6a62-442a-b2dd-5f831e5d27b1#ref=rss)
+### ashley
+
+* [https://www.spiegel.de/panorama/leute/elon-musk-und-ashley-st-clair-rechte-influencerin-will-das-alleinige-sorgerecht-fuer-ihren-sohn](https://www.spiegel.de/panorama/leute/elon-musk-und-ashley-st-clair-rechte-influencerin-will-das-alleinige-sorgerecht-fuer-ihren-sohn-a-a8ee95ba-6a62-442a-b2dd-5f831e5d27b1#ref=rss)
+### st
+
+* [https://www.spiegel.de/panorama/leute/elon-musk-und-ashley-st-clair-rechte-influencerin-will-das-alleinige-sorgerecht-fuer-ihren-sohn](https://www.spiegel.de/panorama/leute/elon-musk-und-ashley-st-clair-rechte-influencerin-will-das-alleinige-sorgerecht-fuer-ihren-sohn-a-a8ee95ba-6a62-442a-b2dd-5f831e5d27b1#ref=rss)
+### clair
+
+* [https://www.spiegel.de/panorama/leute/elon-musk-und-ashley-st-clair-rechte-influencerin-will-das-alleinige-sorgerecht-fuer-ihren-sohn](https://www.spiegel.de/panorama/leute/elon-musk-und-ashley-st-clair-rechte-influencerin-will-das-alleinige-sorgerecht-fuer-ihren-sohn-a-a8ee95ba-6a62-442a-b2dd-5f831e5d27b1#ref=rss)
+### alleinige
+
+* [https://www.spiegel.de/panorama/leute/elon-musk-und-ashley-st-clair-rechte-influencerin-will-das-alleinige-sorgerecht-fuer-ihren-sohn](https://www.spiegel.de/panorama/leute/elon-musk-und-ashley-st-clair-rechte-influencerin-will-das-alleinige-sorgerecht-fuer-ihren-sohn-a-a8ee95ba-6a62-442a-b2dd-5f831e5d27b1#ref=rss)
+### sorgerecht
+
+* [https://www.spiegel.de/panorama/leute/elon-musk-und-ashley-st-clair-rechte-influencerin-will-das-alleinige-sorgerecht-fuer-ihren-sohn](https://www.spiegel.de/panorama/leute/elon-musk-und-ashley-st-clair-rechte-influencerin-will-das-alleinige-sorgerecht-fuer-ihren-sohn-a-a8ee95ba-6a62-442a-b2dd-5f831e5d27b1#ref=rss)
+### sohn
+
+* [https://www.spiegel.de/panorama/leute/elon-musk-und-ashley-st-clair-rechte-influencerin-will-das-alleinige-sorgerecht-fuer-ihren-sohn](https://www.spiegel.de/panorama/leute/elon-musk-und-ashley-st-clair-rechte-influencerin-will-das-alleinige-sorgerecht-fuer-ihren-sohn-a-a8ee95ba-6a62-442a-b2dd-5f831e5d27b1#ref=rss)
 
