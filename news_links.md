@@ -4,359 +4,410 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### trump
-
-* [https://www.spiegel.de/ausland/donald-trump-us-praesident-postet-bizarres-ki-video](https://www.spiegel.de/ausland/donald-trump-us-praesident-postet-bizarres-ki-video-a-a41af3a6-518f-4845-80c7-dcbaf3a4b6e9#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/iphone-diktierfunktion-machte-aus-rassist-das-wort-trump](https://www.spiegel.de/netzwelt/gadgets/iphone-diktierfunktion-machte-aus-rassist-das-wort-trump-a-34d43505-131f-4b74-9bf8-97a3b520a8f9#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-donald-trump-will-die-palaestinenser-in-die-nachbarlaender-umsiedeln-wie-lebt-es-sich-fuer-sie-in-aegypten](https://www.spiegel.de/ausland/gaza-donald-trump-will-die-palaestinenser-in-die-nachbarlaender-umsiedeln-wie-lebt-es-sich-fuer-sie-in-aegypten-a-e52de1bc-9469-4b46-836d-c81ebdd42f55#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/panorama/justiz/neumark-im-vogtland-vater-soll-eigene-kinder-getoetet-haben](https://www.spiegel.de/panorama/justiz/neumark-im-vogtland-vater-soll-eigene-kinder-getoetet-haben-a-120324c9-c208-4558-9aeb-d3113dd12840#ref=rss)
-* [https://www.spiegel.de/panorama/leute/auch-ashley-st-clair-wirft-elon-musk-vor-ein-schlechter-vater-zu-sein](https://www.spiegel.de/panorama/leute/auch-ashley-st-clair-wirft-elon-musk-vor-ein-schlechter-vater-zu-sein-a-5f39d6f5-0281-4c03-92d7-874cd6a44a01#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/die-haelfte-der-schueler-in-baden-wuerttemberg-darf-aufs-gymnasium](https://www.spiegel.de/panorama/bildung/die-haelfte-der-schueler-in-baden-wuerttemberg-darf-aufs-gymnasium-a-a51a49a4-179a-4365-b9f0-fcef80c11cab#ref=rss)
-* [https://www.spiegel.de/panorama/leute/paris-hilton-feiert-geburtstag-ueberraschend-brav-fuer-ein-ehemaliges-it-girl](https://www.spiegel.de/panorama/leute/paris-hilton-feiert-geburtstag-ueberraschend-brav-fuer-ein-ehemaliges-it-girl-a-5714161f-0dae-4d5d-89f0-635daa2ed96f#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/justiz/neumark-im-vogtland-vater-soll-eigene-kinder-getoetet-haben](https://www.spiegel.de/panorama/justiz/neumark-im-vogtland-vater-soll-eigene-kinder-getoetet-haben-a-120324c9-c208-4558-9aeb-d3113dd12840#ref=rss)
-* [https://www.spiegel.de/sport/boxen-chris-eubank-jr-attackiert-conor-benn-mit-einem-ei](https://www.spiegel.de/sport/boxen-chris-eubank-jr-attackiert-conor-benn-mit-einem-ei-a-215843d0-dd28-4ba1-925d-d92252b5071b#ref=rss)
-* [https://www.spiegel.de/panorama/leute/paris-hilton-feiert-geburtstag-ueberraschend-brav-fuer-ein-ehemaliges-it-girl](https://www.spiegel.de/panorama/leute/paris-hilton-feiert-geburtstag-ueberraschend-brav-fuer-ein-ehemaliges-it-girl-a-5714161f-0dae-4d5d-89f0-635daa2ed96f#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-donald-trump-will-die-palaestinenser-in-die-nachbarlaender-umsiedeln-wie-lebt-es-sich-fuer-sie-in-aegypten](https://www.spiegel.de/ausland/gaza-donald-trump-will-die-palaestinenser-in-die-nachbarlaender-umsiedeln-wie-lebt-es-sich-fuer-sie-in-aegypten-a-e52de1bc-9469-4b46-836d-c81ebdd42f55#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/panorama/bildung/die-haelfte-der-schueler-in-baden-wuerttemberg-darf-aufs-gymnasium](https://www.spiegel.de/panorama/bildung/die-haelfte-der-schueler-in-baden-wuerttemberg-darf-aufs-gymnasium-a-a51a49a4-179a-4365-b9f0-fcef80c11cab#ref=rss)
-* [https://www.spiegel.de/ausland/sudan-militaerflugzeug-stuerzt-nahe-khartum-ab-mindestens-46-tote](https://www.spiegel.de/ausland/sudan-militaerflugzeug-stuerzt-nahe-khartum-ab-mindestens-46-tote-a-94068666-1392-4835-9334-e403ca1301ad#ref=rss)
-* [https://www.spiegel.de/panorama/thailand-mindestens-18-tote-bei-reisebus-unfall](https://www.spiegel.de/panorama/thailand-mindestens-18-tote-bei-reisebus-unfall-a-cf2cf64d-54df-4a41-956e-1a430b44b2b1#ref=rss)
-* [https://www.spiegel.de/ausland/israel-attackiert-ziele-suedlich-von-damaskus-syrien-fordert-truppenabzug](https://www.spiegel.de/ausland/israel-attackiert-ziele-suedlich-von-damaskus-syrien-fordert-truppenabzug-a-1a977ea5-60c6-4e3f-8622-8611f86cfc66#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-donald-trump-will-die-palaestinenser-in-die-nachbarlaender-umsiedeln-wie-lebt-es-sich-fuer-sie-in-aegypten](https://www.spiegel.de/ausland/gaza-donald-trump-will-die-palaestinenser-in-die-nachbarlaender-umsiedeln-wie-lebt-es-sich-fuer-sie-in-aegypten-a-e52de1bc-9469-4b46-836d-c81ebdd42f55#ref=rss)
-### afd
-
-* [https://www.spiegel.de/politik/deutschland/die-demokratie-ist-in-akuter-gefahr-doch-die-cdu-spielt-der-afd-in-die-haende](https://www.spiegel.de/politik/deutschland/die-demokratie-ist-in-akuter-gefahr-doch-die-cdu-spielt-der-afd-in-die-haende-a-b5f6de74-a4dd-4837-87e0-babe6da523b1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-lars-klingbeil-soll-rolf-muetzenich-als-spd-fraktionschef-nachfolgen](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-lars-klingbeil-soll-rolf-muetzenich-als-spd-fraktionschef-nachfolgen-a-5c534d57-8b9a-4c03-ac51-ad0ed0f46e49#ref=rss)
-* [https://www.spiegel.de/panorama/gelsenkirchen-der-afd-erfolg-beendet-die-tradition-der-roten-bastion](https://www.spiegel.de/panorama/gelsenkirchen-der-afd-erfolg-beendet-die-tradition-der-roten-bastion-a-96a98e55-831b-4ad1-b364-24c8a7b5484a#ref=rss)
 ### unter
 
-* [https://www.spiegel.de/panorama/bildung/bildung-zahl-der-abiturienten-sinkt-zum-dritten-mal-in-folge](https://www.spiegel.de/panorama/bildung/bildung-zahl-der-abiturienten-sinkt-zum-dritten-mal-in-folge-a-6127f50e-99a3-4eae-ad10-3b38887ece85#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/daad-stellt-13-programme-ein-2500-stipendien-sollen-wegfallen](https://www.spiegel.de/panorama/bildung/daad-stellt-13-programme-ein-2500-stipendien-sollen-wegfallen-a-4d637ead-a05f-498a-ba9f-91970fd7c619#ref=rss)
-* [https://www.spiegel.de/ausland/sudan-militaerflugzeug-stuerzt-nahe-khartum-ab-mindestens-46-tote](https://www.spiegel.de/ausland/sudan-militaerflugzeug-stuerzt-nahe-khartum-ab-mindestens-46-tote-a-94068666-1392-4835-9334-e403ca1301ad#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kaufverhalten-deutsche-achten-beim-wein-staerker-auf-den-preis](https://www.spiegel.de/wirtschaft/kaufverhalten-deutsche-achten-beim-wein-staerker-auf-den-preis-a-ce754ee1-c557-4d32-af58-ac202ee077fa#ref=rss)
-### drei
+* [https://www.spiegel.de/politik/deutschland/cdu-unter-friedrich-merz-warum-sie-hier-als-unglaubwuerdig-gilt](https://www.spiegel.de/politik/deutschland/cdu-unter-friedrich-merz-warum-sie-hier-als-unglaubwuerdig-gilt-a-8527edcf-a993-4187-9211-7d03631a2cd6#ref=rss)
+* [https://www.spiegel.de/ausland/washington-post-meinungschef-david-shipley-verlaesst-zeitung-nach-neuausrichtung-durch-jeff-bezos](https://www.spiegel.de/ausland/washington-post-meinungschef-david-shipley-verlaesst-zeitung-nach-neuausrichtung-durch-jeff-bezos-a-8a174865-4a45-4e79-aca4-1c803708a062#ref=rss)
+* [https://www.spiegel.de/ausland/israel-familienvater-haelt-emotionale-ansprache-bei-beisetzung-der-bibas-familie](https://www.spiegel.de/ausland/israel-familienvater-haelt-emotionale-ansprache-bei-beisetzung-der-bibas-familie-a-05a595fb-e8d3-4797-9e5f-ac355d3e6336#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/lidl-edeka-penny-und-co-butter-preis-sinkt-flaechendeckend-unter-zwei-euro-marke](https://www.spiegel.de/wirtschaft/service/lidl-edeka-penny-und-co-butter-preis-sinkt-flaechendeckend-unter-zwei-euro-marke-a-f11c4520-ed3c-47d4-82ce-e923182dd7ec#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/minister-unter-friedrich-merz-diese-spd-cdu-und-csu-politiker-koennten-posten-uebernehmen](https://www.spiegel.de/politik/deutschland/minister-unter-friedrich-merz-diese-spd-cdu-und-csu-politiker-koennten-posten-uebernehmen-a-cf52090a-4a76-4ad1-9a79-63bf58688c14#ref=rss)
+### friedrich
 
-* [https://www.spiegel.de/ausland/israel-tausende-nehmen-an-trauerzug-fuer-familie-bibas-teil](https://www.spiegel.de/ausland/israel-tausende-nehmen-an-trauerzug-fuer-familie-bibas-teil-a-00d30c06-a6b0-43a9-b1b1-0ae44958b4b8#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/neumark-im-vogtland-vater-soll-eigene-kinder-getoetet-haben](https://www.spiegel.de/panorama/justiz/neumark-im-vogtland-vater-soll-eigene-kinder-getoetet-haben-a-120324c9-c208-4558-9aeb-d3113dd12840#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-basketballer-luka-doncic-fuehrt-die-los-angeles-lakers-zum-sieg-gegen-ex-klub-dallas-mavericks](https://www.spiegel.de/sport/basketball/nba-basketballer-luka-doncic-fuehrt-die-los-angeles-lakers-zum-sieg-gegen-ex-klub-dallas-mavericks-a-bfde287f-832f-4f3d-973c-432e3adcb425#ref=rss)
-* [https://www.spiegel.de/sport/fussball/frauen-nationalmannschaft-bundestrainer-christian-wueck-und-die-probleme-in-der-defensive](https://www.spiegel.de/sport/fussball/frauen-nationalmannschaft-bundestrainer-christian-wueck-und-die-probleme-in-der-defensive-a-d11a8397-00c8-4b8f-a083-84f3ad7bc1ab#ref=rss)
-### vater
+* [https://www.spiegel.de/politik/deutschland/cdu-unter-friedrich-merz-warum-sie-hier-als-unglaubwuerdig-gilt](https://www.spiegel.de/politik/deutschland/cdu-unter-friedrich-merz-warum-sie-hier-als-unglaubwuerdig-gilt-a-8527edcf-a993-4187-9211-7d03631a2cd6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wen-holt-friedrich-merz-in-sein-kabinett-wo-fahndet-das-bsw-nach-stimmen](https://www.spiegel.de/politik/deutschland/news-des-tages-wen-holt-friedrich-merz-in-sein-kabinett-wo-fahndet-das-bsw-nach-stimmen-a-6f3bc012-5a9d-40e1-ba84-77e3da76aebc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-lars-klingbeil-soll-rolf-muetzenich-als-spd-fraktionschef-nachfolgen](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-lars-klingbeil-soll-rolf-muetzenich-als-spd-fraktionschef-nachfolgen-a-5c534d57-8b9a-4c03-ac51-ad0ed0f46e49#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/minister-unter-friedrich-merz-diese-spd-cdu-und-csu-politiker-koennten-posten-uebernehmen](https://www.spiegel.de/politik/deutschland/minister-unter-friedrich-merz-diese-spd-cdu-und-csu-politiker-koennten-posten-uebernehmen-a-cf52090a-4a76-4ad1-9a79-63bf58688c14#ref=rss)
+### merz
 
-* [https://www.spiegel.de/panorama/justiz/neumark-im-vogtland-vater-soll-eigene-kinder-getoetet-haben](https://www.spiegel.de/panorama/justiz/neumark-im-vogtland-vater-soll-eigene-kinder-getoetet-haben-a-120324c9-c208-4558-9aeb-d3113dd12840#ref=rss)
-* [https://www.spiegel.de/panorama/leute/auch-ashley-st-clair-wirft-elon-musk-vor-ein-schlechter-vater-zu-sein](https://www.spiegel.de/panorama/leute/auch-ashley-st-clair-wirft-elon-musk-vor-ein-schlechter-vater-zu-sein-a-5f39d6f5-0281-4c03-92d7-874cd6a44a01#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-unter-friedrich-merz-warum-sie-hier-als-unglaubwuerdig-gilt](https://www.spiegel.de/politik/deutschland/cdu-unter-friedrich-merz-warum-sie-hier-als-unglaubwuerdig-gilt-a-8527edcf-a993-4187-9211-7d03631a2cd6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wen-holt-friedrich-merz-in-sein-kabinett-wo-fahndet-das-bsw-nach-stimmen](https://www.spiegel.de/politik/deutschland/news-des-tages-wen-holt-friedrich-merz-in-sein-kabinett-wo-fahndet-das-bsw-nach-stimmen-a-6f3bc012-5a9d-40e1-ba84-77e3da76aebc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-lars-klingbeil-soll-rolf-muetzenich-als-spd-fraktionschef-nachfolgen](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-lars-klingbeil-soll-rolf-muetzenich-als-spd-fraktionschef-nachfolgen-a-5c534d57-8b9a-4c03-ac51-ad0ed0f46e49#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/minister-unter-friedrich-merz-diese-spd-cdu-und-csu-politiker-koennten-posten-uebernehmen](https://www.spiegel.de/politik/deutschland/minister-unter-friedrich-merz-diese-spd-cdu-und-csu-politiker-koennten-posten-uebernehmen-a-cf52090a-4a76-4ad1-9a79-63bf58688c14#ref=rss)
+### trump
+
+* [https://www.spiegel.de/kultur/donald-trump-und-das-gaza-ki-video-33-sekunden-horror](https://www.spiegel.de/kultur/donald-trump-und-das-gaza-ki-video-33-sekunden-horror-a-7669e5d5-73a4-4444-8904-afde043ff1cc#ref=rss)
+* [https://www.spiegel.de/kultur/musik/kennedy-center-kuenstlerinnen-sagen-auftritte-aus-protest-gegen-trump-ab](https://www.spiegel.de/kultur/musik/kennedy-center-kuenstlerinnen-sagen-auftritte-aus-protest-gegen-trump-ab-a-8d5fe2c3-9f8b-4103-ae65-1a504f2a2174#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-droht-medien-und-autoren-bei-verwendung-anonymer-quellen](https://www.spiegel.de/ausland/donald-trump-droht-medien-und-autoren-bei-verwendung-anonymer-quellen-a-8bd03a22-5c08-495c-b0ec-74b43ca78746#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/trump-draengt-apple-zur-aufgabe-seines-diversitaetsprogramms](https://www.spiegel.de/netzwelt/netzpolitik/trump-draengt-apple-zur-aufgabe-seines-diversitaetsprogramms-a-e047eeda-d904-4175-ae6f-d7233b9841e1#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/ausland/donald-trump-us-praesident-postet-bizarres-ki-video](https://www.spiegel.de/ausland/donald-trump-us-praesident-postet-bizarres-ki-video-a-a41af3a6-518f-4845-80c7-dcbaf3a4b6e9#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-donald-trump-will-die-palaestinenser-in-die-nachbarlaender-umsiedeln-wie-lebt-es-sich-fuer-sie-in-aegypten](https://www.spiegel.de/ausland/gaza-donald-trump-will-die-palaestinenser-in-die-nachbarlaender-umsiedeln-wie-lebt-es-sich-fuer-sie-in-aegypten-a-e52de1bc-9469-4b46-836d-c81ebdd42f55#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/wirtschaft/realloehne-steigen-2024-um-3-1-prozent-so-stark-wie-seit-16-jahren-nicht](https://www.spiegel.de/wirtschaft/realloehne-steigen-2024-um-3-1-prozent-so-stark-wie-seit-16-jahren-nicht-a-58bdea3e-2b5c-4ae3-9fa0-c5011be3c09d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/neumark-im-vogtland-vater-soll-eigene-kinder-getoetet-haben](https://www.spiegel.de/panorama/justiz/neumark-im-vogtland-vater-soll-eigene-kinder-getoetet-haben-a-120324c9-c208-4558-9aeb-d3113dd12840#ref=rss)
-* [https://www.spiegel.de/wirtschaft/e-on-will-43-milliarden-euro-in-netzausbau-investieren](https://www.spiegel.de/wirtschaft/e-on-will-43-milliarden-euro-in-netzausbau-investieren-a-61125dc7-be72-44c4-a879-c56b2aa66816#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/bildung/bildung-zahl-der-abiturienten-sinkt-zum-dritten-mal-in-folge](https://www.spiegel.de/panorama/bildung/bildung-zahl-der-abiturienten-sinkt-zum-dritten-mal-in-folge-a-6127f50e-99a3-4eae-ad10-3b38887ece85#ref=rss)
-* [https://www.spiegel.de/ausland/israel-tausende-nehmen-an-trauerzug-fuer-familie-bibas-teil](https://www.spiegel.de/ausland/israel-tausende-nehmen-an-trauerzug-fuer-familie-bibas-teil-a-00d30c06-a6b0-43a9-b1b1-0ae44958b4b8#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-donald-trump-will-die-palaestinenser-in-die-nachbarlaender-umsiedeln-wie-lebt-es-sich-fuer-sie-in-aegypten](https://www.spiegel.de/ausland/gaza-donald-trump-will-die-palaestinenser-in-die-nachbarlaender-umsiedeln-wie-lebt-es-sich-fuer-sie-in-aegypten-a-e52de1bc-9469-4b46-836d-c81ebdd42f55#ref=rss)
-### anderem
-
-* [https://www.spiegel.de/panorama/bildung/bildung-zahl-der-abiturienten-sinkt-zum-dritten-mal-in-folge](https://www.spiegel.de/panorama/bildung/bildung-zahl-der-abiturienten-sinkt-zum-dritten-mal-in-folge-a-6127f50e-99a3-4eae-ad10-3b38887ece85#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/daad-stellt-13-programme-ein-2500-stipendien-sollen-wegfallen](https://www.spiegel.de/panorama/bildung/daad-stellt-13-programme-ein-2500-stipendien-sollen-wegfallen-a-4d637ead-a05f-498a-ba9f-91970fd7c619#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kaufverhalten-deutsche-achten-beim-wein-staerker-auf-den-preis](https://www.spiegel.de/wirtschaft/kaufverhalten-deutsche-achten-beim-wein-staerker-auf-den-preis-a-ce754ee1-c557-4d32-af58-ac202ee077fa#ref=rss)
-### spd
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-lars-klingbeil-soll-rolf-muetzenich-als-spd-fraktionschef-nachfolgen](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-lars-klingbeil-soll-rolf-muetzenich-als-spd-fraktionschef-nachfolgen-a-5c534d57-8b9a-4c03-ac51-ad0ed0f46e49#ref=rss)
-* [https://www.spiegel.de/panorama/gelsenkirchen-der-afd-erfolg-beendet-die-tradition-der-roten-bastion](https://www.spiegel.de/panorama/gelsenkirchen-der-afd-erfolg-beendet-die-tradition-der-roten-bastion-a-96a98e55-831b-4ad1-b364-24c8a7b5484a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/grosse-koalition-so-koennte-die-wirtschaftspolitik-von-union-und-spd-aussehen](https://www.spiegel.de/wirtschaft/soziales/grosse-koalition-so-koennte-die-wirtschaftspolitik-von-union-und-spd-aussehen-a-5ebf253c-c7d9-4116-9989-8f5c1b846e16#ref=rss)
+* [https://www.spiegel.de/kultur/donald-trump-und-das-gaza-ki-video-33-sekunden-horror](https://www.spiegel.de/kultur/donald-trump-und-das-gaza-ki-video-33-sekunden-horror-a-7669e5d5-73a4-4444-8904-afde043ff1cc#ref=rss)
+* [https://www.spiegel.de/kultur/musik/kennedy-center-kuenstlerinnen-sagen-auftritte-aus-protest-gegen-trump-ab](https://www.spiegel.de/kultur/musik/kennedy-center-kuenstlerinnen-sagen-auftritte-aus-protest-gegen-trump-ab-a-8d5fe2c3-9f8b-4103-ae65-1a504f2a2174#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-droht-medien-und-autoren-bei-verwendung-anonymer-quellen](https://www.spiegel.de/ausland/donald-trump-droht-medien-und-autoren-bei-verwendung-anonymer-quellen-a-8bd03a22-5c08-495c-b0ec-74b43ca78746#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/trump-draengt-apple-zur-aufgabe-seines-diversitaetsprogramms](https://www.spiegel.de/netzwelt/netzpolitik/trump-draengt-apple-zur-aufgabe-seines-diversitaetsprogramms-a-e047eeda-d904-4175-ae6f-d7233b9841e1#ref=rss)
 ### israel
 
-* [https://www.spiegel.de/ausland/israel-tausende-nehmen-an-trauerzug-fuer-familie-bibas-teil](https://www.spiegel.de/ausland/israel-tausende-nehmen-an-trauerzug-fuer-familie-bibas-teil-a-00d30c06-a6b0-43a9-b1b1-0ae44958b4b8#ref=rss)
-* [https://www.spiegel.de/ausland/israel-attackiert-ziele-suedlich-von-damaskus-syrien-fordert-truppenabzug](https://www.spiegel.de/ausland/israel-attackiert-ziele-suedlich-von-damaskus-syrien-fordert-truppenabzug-a-1a977ea5-60c6-4e3f-8622-8611f86cfc66#ref=rss)
-### geld
+* [https://www.spiegel.de/ausland/israel-familienvater-haelt-emotionale-ansprache-bei-beisetzung-der-bibas-familie](https://www.spiegel.de/ausland/israel-familienvater-haelt-emotionale-ansprache-bei-beisetzung-der-bibas-familie-a-05a595fb-e8d3-4797-9e5f-ac355d3e6336#ref=rss)
+* [https://www.spiegel.de/ausland/israel-und-hamas-verstaendigen-sich-offenbar-ueber-rueckgabe-von-vier-toten-geiseln](https://www.spiegel.de/ausland/israel-und-hamas-verstaendigen-sich-offenbar-ueber-rueckgabe-von-vier-toten-geiseln-a-c33b6059-0389-4bff-8e1a-44c70751646b#ref=rss)
+* [https://www.spiegel.de/ausland/israel-yarden-bibas-haelt-emotionale-grabrede-auf-shiri-ariel-und-kfir](https://www.spiegel.de/ausland/israel-yarden-bibas-haelt-emotionale-grabrede-auf-shiri-ariel-und-kfir-a-b775b6bf-c022-4dc1-9338-6e8d59755992#ref=rss)
+### afd
 
-* [https://www.spiegel.de/panorama/bildung/daad-stellt-13-programme-ein-2500-stipendien-sollen-wegfallen](https://www.spiegel.de/panorama/bildung/daad-stellt-13-programme-ein-2500-stipendien-sollen-wegfallen-a-4d637ead-a05f-498a-ba9f-91970fd7c619#ref=rss)
-* [https://www.spiegel.de/wirtschaft/e-on-will-43-milliarden-euro-in-netzausbau-investieren](https://www.spiegel.de/wirtschaft/e-on-will-43-milliarden-euro-in-netzausbau-investieren-a-61125dc7-be72-44c4-a879-c56b2aa66816#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/grosse-koalition-so-koennte-die-wirtschaftspolitik-von-union-und-spd-aussehen](https://www.spiegel.de/wirtschaft/soziales/grosse-koalition-so-koennte-die-wirtschaftspolitik-von-union-und-spd-aussehen-a-5ebf253c-c7d9-4116-9989-8f5c1b846e16#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/panorama/bildung/daad-stellt-13-programme-ein-2500-stipendien-sollen-wegfallen](https://www.spiegel.de/panorama/bildung/daad-stellt-13-programme-ein-2500-stipendien-sollen-wegfallen-a-4d637ead-a05f-498a-ba9f-91970fd7c619#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutsche-luxuswagen-in-russland-trotz-sanktionen-g-klasse-fuer-die-kreml-elite](https://www.spiegel.de/wirtschaft/deutsche-luxuswagen-in-russland-trotz-sanktionen-g-klasse-fuer-die-kreml-elite-a-3b531f08-b41c-4f76-bc5c-41615da4903f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kaufverhalten-deutsche-achten-beim-wein-staerker-auf-den-preis](https://www.spiegel.de/wirtschaft/kaufverhalten-deutsche-achten-beim-wein-staerker-auf-den-preis-a-ce754ee1-c557-4d32-af58-ac202ee077fa#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/justiz/neumark-im-vogtland-vater-soll-eigene-kinder-getoetet-haben](https://www.spiegel.de/panorama/justiz/neumark-im-vogtland-vater-soll-eigene-kinder-getoetet-haben-a-120324c9-c208-4558-9aeb-d3113dd12840#ref=rss)
-* [https://www.spiegel.de/panorama/thailand-mindestens-18-tote-bei-reisebus-unfall](https://www.spiegel.de/panorama/thailand-mindestens-18-tote-bei-reisebus-unfall-a-cf2cf64d-54df-4a41-956e-1a430b44b2b1#ref=rss)
-### attackiert
-
-* [https://www.spiegel.de/sport/boxen-chris-eubank-jr-attackiert-conor-benn-mit-einem-ei](https://www.spiegel.de/sport/boxen-chris-eubank-jr-attackiert-conor-benn-mit-einem-ei-a-215843d0-dd28-4ba1-925d-d92252b5071b#ref=rss)
-* [https://www.spiegel.de/ausland/israel-attackiert-ziele-suedlich-von-damaskus-syrien-fordert-truppenabzug](https://www.spiegel.de/ausland/israel-attackiert-ziele-suedlich-von-damaskus-syrien-fordert-truppenabzug-a-1a977ea5-60c6-4e3f-8622-8611f86cfc66#ref=rss)
-### nahe
-
-* [https://www.spiegel.de/ausland/sudan-militaerflugzeug-stuerzt-nahe-khartum-ab-mindestens-46-tote](https://www.spiegel.de/ausland/sudan-militaerflugzeug-stuerzt-nahe-khartum-ab-mindestens-46-tote-a-94068666-1392-4835-9334-e403ca1301ad#ref=rss)
-* [https://www.spiegel.de/ausland/israel-attackiert-ziele-suedlich-von-damaskus-syrien-fordert-truppenabzug](https://www.spiegel.de/ausland/israel-attackiert-ziele-suedlich-von-damaskus-syrien-fordert-truppenabzug-a-1a977ea5-60c6-4e3f-8622-8611f86cfc66#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/grosse-koalition-so-koennte-die-wirtschaftspolitik-von-union-und-spd-aussehen](https://www.spiegel.de/wirtschaft/soziales/grosse-koalition-so-koennte-die-wirtschaftspolitik-von-union-und-spd-aussehen-a-5ebf253c-c7d9-4116-9989-8f5c1b846e16#ref=rss)
-### tote
-
-* [https://www.spiegel.de/ausland/sudan-militaerflugzeug-stuerzt-nahe-khartum-ab-mindestens-46-tote](https://www.spiegel.de/ausland/sudan-militaerflugzeug-stuerzt-nahe-khartum-ab-mindestens-46-tote-a-94068666-1392-4835-9334-e403ca1301ad#ref=rss)
-* [https://www.spiegel.de/panorama/thailand-mindestens-18-tote-bei-reisebus-unfall](https://www.spiegel.de/panorama/thailand-mindestens-18-tote-bei-reisebus-unfall-a-cf2cf64d-54df-4a41-956e-1a430b44b2b1#ref=rss)
-* [https://www.spiegel.de/ausland/israel-attackiert-ziele-suedlich-von-damaskus-syrien-fordert-truppenabzug](https://www.spiegel.de/ausland/israel-attackiert-ziele-suedlich-von-damaskus-syrien-fordert-truppenabzug-a-1a977ea5-60c6-4e3f-8622-8611f86cfc66#ref=rss)
-### a9
-
-* [https://www.spiegel.de/panorama/justiz/a9-in-bayern-raser-nach-toedlichem-unfall-erneut-verurteilt](https://www.spiegel.de/panorama/justiz/a9-in-bayern-raser-nach-toedlichem-unfall-erneut-verurteilt-a-fae7b19d-34c7-42e2-a585-0c03947e9aca#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/panorama/justiz/a9-in-bayern-raser-nach-toedlichem-unfall-erneut-verurteilt](https://www.spiegel.de/panorama/justiz/a9-in-bayern-raser-nach-toedlichem-unfall-erneut-verurteilt-a-fae7b19d-34c7-42e2-a585-0c03947e9aca#ref=rss)
-### raser
-
-* [https://www.spiegel.de/panorama/justiz/a9-in-bayern-raser-nach-toedlichem-unfall-erneut-verurteilt](https://www.spiegel.de/panorama/justiz/a9-in-bayern-raser-nach-toedlichem-unfall-erneut-verurteilt-a-fae7b19d-34c7-42e2-a585-0c03947e9aca#ref=rss)
-### unfall
-
-* [https://www.spiegel.de/panorama/justiz/a9-in-bayern-raser-nach-toedlichem-unfall-erneut-verurteilt](https://www.spiegel.de/panorama/justiz/a9-in-bayern-raser-nach-toedlichem-unfall-erneut-verurteilt-a-fae7b19d-34c7-42e2-a585-0c03947e9aca#ref=rss)
-### verurteilt
-
-* [https://www.spiegel.de/panorama/justiz/a9-in-bayern-raser-nach-toedlichem-unfall-erneut-verurteilt](https://www.spiegel.de/panorama/justiz/a9-in-bayern-raser-nach-toedlichem-unfall-erneut-verurteilt-a-fae7b19d-34c7-42e2-a585-0c03947e9aca#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/ausland/donald-trump-us-praesident-postet-bizarres-ki-video](https://www.spiegel.de/ausland/donald-trump-us-praesident-postet-bizarres-ki-video-a-a41af3a6-518f-4845-80c7-dcbaf3a4b6e9#ref=rss)
-### gazastreifen
-
-* [https://www.spiegel.de/ausland/donald-trump-us-praesident-postet-bizarres-ki-video](https://www.spiegel.de/ausland/donald-trump-us-praesident-postet-bizarres-ki-video-a-a41af3a6-518f-4845-80c7-dcbaf3a4b6e9#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-donald-trump-will-die-palaestinenser-in-die-nachbarlaender-umsiedeln-wie-lebt-es-sich-fuer-sie-in-aegypten](https://www.spiegel.de/ausland/gaza-donald-trump-will-die-palaestinenser-in-die-nachbarlaender-umsiedeln-wie-lebt-es-sich-fuer-sie-in-aegypten-a-e52de1bc-9469-4b46-836d-c81ebdd42f55#ref=rss)
-### 2024
-
-* [https://www.spiegel.de/wirtschaft/realloehne-steigen-2024-um-3-1-prozent-so-stark-wie-seit-16-jahren-nicht](https://www.spiegel.de/wirtschaft/realloehne-steigen-2024-um-3-1-prozent-so-stark-wie-seit-16-jahren-nicht-a-58bdea3e-2b5c-4ae3-9fa0-c5011be3c09d#ref=rss)
-### prozent
-
-* [https://www.spiegel.de/wirtschaft/realloehne-steigen-2024-um-3-1-prozent-so-stark-wie-seit-16-jahren-nicht](https://www.spiegel.de/wirtschaft/realloehne-steigen-2024-um-3-1-prozent-so-stark-wie-seit-16-jahren-nicht-a-58bdea3e-2b5c-4ae3-9fa0-c5011be3c09d#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/die-haelfte-der-schueler-in-baden-wuerttemberg-darf-aufs-gymnasium](https://www.spiegel.de/panorama/bildung/die-haelfte-der-schueler-in-baden-wuerttemberg-darf-aufs-gymnasium-a-a51a49a4-179a-4365-b9f0-fcef80c11cab#ref=rss)
-### besonders
-
-* [https://www.spiegel.de/wirtschaft/realloehne-steigen-2024-um-3-1-prozent-so-stark-wie-seit-16-jahren-nicht](https://www.spiegel.de/wirtschaft/realloehne-steigen-2024-um-3-1-prozent-so-stark-wie-seit-16-jahren-nicht-a-58bdea3e-2b5c-4ae3-9fa0-c5011be3c09d#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/die-haelfte-der-schueler-in-baden-wuerttemberg-darf-aufs-gymnasium](https://www.spiegel.de/panorama/bildung/die-haelfte-der-schueler-in-baden-wuerttemberg-darf-aufs-gymnasium-a-a51a49a4-179a-4365-b9f0-fcef80c11cab#ref=rss)
-### dritten
-
-* [https://www.spiegel.de/panorama/bildung/bildung-zahl-der-abiturienten-sinkt-zum-dritten-mal-in-folge](https://www.spiegel.de/panorama/bildung/bildung-zahl-der-abiturienten-sinkt-zum-dritten-mal-in-folge-a-6127f50e-99a3-4eae-ad10-3b38887ece85#ref=rss)
-### folge
-
-* [https://www.spiegel.de/panorama/bildung/bildung-zahl-der-abiturienten-sinkt-zum-dritten-mal-in-folge](https://www.spiegel.de/panorama/bildung/bildung-zahl-der-abiturienten-sinkt-zum-dritten-mal-in-folge-a-6127f50e-99a3-4eae-ad10-3b38887ece85#ref=rss)
-### weniger
-
-* [https://www.spiegel.de/panorama/bildung/bildung-zahl-der-abiturienten-sinkt-zum-dritten-mal-in-folge](https://www.spiegel.de/panorama/bildung/bildung-zahl-der-abiturienten-sinkt-zum-dritten-mal-in-folge-a-6127f50e-99a3-4eae-ad10-3b38887ece85#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/daad-stellt-13-programme-ein-2500-stipendien-sollen-wegfallen](https://www.spiegel.de/panorama/bildung/daad-stellt-13-programme-ein-2500-stipendien-sollen-wegfallen-a-4d637ead-a05f-498a-ba9f-91970fd7c619#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/panorama/bildung/bildung-zahl-der-abiturienten-sinkt-zum-dritten-mal-in-folge](https://www.spiegel.de/panorama/bildung/bildung-zahl-der-abiturienten-sinkt-zum-dritten-mal-in-folge-a-6127f50e-99a3-4eae-ad10-3b38887ece85#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/daad-stellt-13-programme-ein-2500-stipendien-sollen-wegfallen](https://www.spiegel.de/panorama/bildung/daad-stellt-13-programme-ein-2500-stipendien-sollen-wegfallen-a-4d637ead-a05f-498a-ba9f-91970fd7c619#ref=rss)
-### 2025
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-lars-klingbeil-soll-rolf-muetzenich-als-spd-fraktionschef-nachfolgen](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-lars-klingbeil-soll-rolf-muetzenich-als-spd-fraktionschef-nachfolgen-a-5c534d57-8b9a-4c03-ac51-ad0ed0f46e49#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/nordische-ski-wm-2025-in-trondheim-zeitplan-ergebnisse-rekorde](https://www.spiegel.de/sport/wintersport/nordische-ski-wm-2025-in-trondheim-zeitplan-ergebnisse-rekorde-a-c73f5616-6897-4cc2-93e4-c2e9a1fd9554#ref=rss)
-### lars
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-lars-klingbeil-soll-rolf-muetzenich-als-spd-fraktionschef-nachfolgen](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-lars-klingbeil-soll-rolf-muetzenich-als-spd-fraktionschef-nachfolgen-a-5c534d57-8b9a-4c03-ac51-ad0ed0f46e49#ref=rss)
-### klingbeil
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-lars-klingbeil-soll-rolf-muetzenich-als-spd-fraktionschef-nachfolgen](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-lars-klingbeil-soll-rolf-muetzenich-als-spd-fraktionschef-nachfolgen-a-5c534d57-8b9a-4c03-ac51-ad0ed0f46e49#ref=rss)
-### alle
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-lars-klingbeil-soll-rolf-muetzenich-als-spd-fraktionschef-nachfolgen](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-lars-klingbeil-soll-rolf-muetzenich-als-spd-fraktionschef-nachfolgen-a-5c534d57-8b9a-4c03-ac51-ad0ed0f46e49#ref=rss)
-* [https://www.spiegel.de/ausland/israel-tausende-nehmen-an-trauerzug-fuer-familie-bibas-teil](https://www.spiegel.de/ausland/israel-tausende-nehmen-an-trauerzug-fuer-familie-bibas-teil-a-00d30c06-a6b0-43a9-b1b1-0ae44958b4b8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/hanna-veiler-praesidentin-der-juedischen-studierendenunion-will-als-reaktion-auf-afd-ergebnis-deutschland-verlassen](https://www.spiegel.de/politik/deutschland/hanna-veiler-praesidentin-der-juedischen-studierendenunion-will-als-reaktion-auf-afd-ergebnis-deutschland-verlassen-a-86edad01-b305-43d7-9d89-4a191ae16f18#ref=rss)
+* [https://www.spiegel.de/politik/spd-abgeordneter-aus-bochum-wie-serdar-yueksel-die-afd-bekaempfen-will](https://www.spiegel.de/politik/spd-abgeordneter-aus-bochum-wie-serdar-yueksel-die-afd-bekaempfen-will-a-98f4848b-a9a2-45b0-9aa2-69094fd0b842#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wen-holt-friedrich-merz-in-sein-kabinett-wo-fahndet-das-bsw-nach-stimmen](https://www.spiegel.de/politik/deutschland/news-des-tages-wen-holt-friedrich-merz-in-sein-kabinett-wo-fahndet-das-bsw-nach-stimmen-a-6f3bc012-5a9d-40e1-ba84-77e3da76aebc#ref=rss)
 ### bibas
 
-* [https://www.spiegel.de/ausland/israel-tausende-nehmen-an-trauerzug-fuer-familie-bibas-teil](https://www.spiegel.de/ausland/israel-tausende-nehmen-an-trauerzug-fuer-familie-bibas-teil-a-00d30c06-a6b0-43a9-b1b1-0ae44958b4b8#ref=rss)
-### angaben
+* [https://www.spiegel.de/ausland/israel-familienvater-haelt-emotionale-ansprache-bei-beisetzung-der-bibas-familie](https://www.spiegel.de/ausland/israel-familienvater-haelt-emotionale-ansprache-bei-beisetzung-der-bibas-familie-a-05a595fb-e8d3-4797-9e5f-ac355d3e6336#ref=rss)
+* [https://www.spiegel.de/ausland/israel-yarden-bibas-haelt-emotionale-grabrede-auf-shiri-ariel-und-kfir](https://www.spiegel.de/ausland/israel-yarden-bibas-haelt-emotionale-grabrede-auf-shiri-ariel-und-kfir-a-b775b6bf-c022-4dc1-9338-6e8d59755992#ref=rss)
+### selbst
 
-* [https://www.spiegel.de/ausland/israel-tausende-nehmen-an-trauerzug-fuer-familie-bibas-teil](https://www.spiegel.de/ausland/israel-tausende-nehmen-an-trauerzug-fuer-familie-bibas-teil-a-00d30c06-a6b0-43a9-b1b1-0ae44958b4b8#ref=rss)
-* [https://www.spiegel.de/panorama/thailand-mindestens-18-tote-bei-reisebus-unfall](https://www.spiegel.de/panorama/thailand-mindestens-18-tote-bei-reisebus-unfall-a-cf2cf64d-54df-4a41-956e-1a430b44b2b1#ref=rss)
-### viele
+* [https://www.spiegel.de/panorama/leute/monica-lewinsky-bill-clinton-haette-nach-affaere-als-praesident-zuruecktreten-sollen](https://www.spiegel.de/panorama/leute/monica-lewinsky-bill-clinton-haette-nach-affaere-als-praesident-zuruecktreten-sollen-a-31be29b8-cbf2-44a3-bcbf-74e7d5de6831#ref=rss)
+* [https://www.spiegel.de/ausland/bosnien-serben-fuehrer-milorad-dodik-wegen-amtsmissbrauchs-verurteilt](https://www.spiegel.de/ausland/bosnien-serben-fuehrer-milorad-dodik-wegen-amtsmissbrauchs-verurteilt-a-a14867b7-b83b-4682-958b-d4f6cf36226d#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/letzte-generation-raphael-thelen-im-interview-ueber-neuen-namen-und-neue-strategie](https://www.spiegel.de/panorama/gesellschaft/letzte-generation-raphael-thelen-im-interview-ueber-neuen-namen-und-neue-strategie-a-4147da8b-d85e-4854-89db-d17f8c6a5ecd#ref=rss)
+* [https://www.spiegel.de/ausland/israel-yarden-bibas-haelt-emotionale-grabrede-auf-shiri-ariel-und-kfir](https://www.spiegel.de/ausland/israel-yarden-bibas-haelt-emotionale-grabrede-auf-shiri-ariel-und-kfir-a-b775b6bf-c022-4dc1-9338-6e8d59755992#ref=rss)
+### unternehmen
 
-* [https://www.spiegel.de/ausland/israel-tausende-nehmen-an-trauerzug-fuer-familie-bibas-teil](https://www.spiegel.de/ausland/israel-tausende-nehmen-an-trauerzug-fuer-familie-bibas-teil-a-00d30c06-a6b0-43a9-b1b1-0ae44958b4b8#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/die-haelfte-der-schueler-in-baden-wuerttemberg-darf-aufs-gymnasium](https://www.spiegel.de/panorama/bildung/die-haelfte-der-schueler-in-baden-wuerttemberg-darf-aufs-gymnasium-a-a51a49a4-179a-4365-b9f0-fcef80c11cab#ref=rss)
-### rote
+* [https://www.spiegel.de/wirtschaft/lieferkette-der-sinnlose-kulturkampf](https://www.spiegel.de/wirtschaft/lieferkette-der-sinnlose-kulturkampf-a-457bd42a-ee3d-48c7-9ee9-a04b3dd48c3f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/gigafactory-in-gruenheide-erneut-brandanschlaege-aus-protest-gegen-teslafabrik-linksextremes-bekennerschreiben](https://www.spiegel.de/panorama/justiz/gigafactory-in-gruenheide-erneut-brandanschlaege-aus-protest-gegen-teslafabrik-linksextremes-bekennerschreiben-a-8491a6e5-fbd3-401d-81eb-055b6d8bb183#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/trump-draengt-apple-zur-aufgabe-seines-diversitaetsprogramms](https://www.spiegel.de/netzwelt/netzpolitik/trump-draengt-apple-zur-aufgabe-seines-diversitaetsprogramms-a-e047eeda-d904-4175-ae6f-d7233b9841e1#ref=rss)
+### wohl
 
-* [https://www.spiegel.de/ausland/israel-tausende-nehmen-an-trauerzug-fuer-familie-bibas-teil](https://www.spiegel.de/ausland/israel-tausende-nehmen-an-trauerzug-fuer-familie-bibas-teil-a-00d30c06-a6b0-43a9-b1b1-0ae44958b4b8#ref=rss)
-* [https://www.spiegel.de/panorama/gelsenkirchen-der-afd-erfolg-beendet-die-tradition-der-roten-bastion](https://www.spiegel.de/panorama/gelsenkirchen-der-afd-erfolg-beendet-die-tradition-der-roten-bastion-a-96a98e55-831b-4ad1-b364-24c8a7b5484a#ref=rss)
-### toten
+* [https://www.spiegel.de/politik/deutschland/cdu-unter-friedrich-merz-warum-sie-hier-als-unglaubwuerdig-gilt](https://www.spiegel.de/politik/deutschland/cdu-unter-friedrich-merz-warum-sie-hier-als-unglaubwuerdig-gilt-a-8527edcf-a993-4187-9211-7d03631a2cd6#ref=rss)
+* [https://www.spiegel.de/ausland/bosnien-serben-fuehrer-milorad-dodik-wegen-amtsmissbrauchs-verurteilt](https://www.spiegel.de/ausland/bosnien-serben-fuehrer-milorad-dodik-wegen-amtsmissbrauchs-verurteilt-a-a14867b7-b83b-4682-958b-d4f6cf36226d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-lars-klingbeil-soll-rolf-muetzenich-als-spd-fraktionschef-nachfolgen](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-lars-klingbeil-soll-rolf-muetzenich-als-spd-fraktionschef-nachfolgen-a-5c534d57-8b9a-4c03-ac51-ad0ed0f46e49#ref=rss)
+### macht
 
-* [https://www.spiegel.de/panorama/justiz/neumark-im-vogtland-vater-soll-eigene-kinder-getoetet-haben](https://www.spiegel.de/panorama/justiz/neumark-im-vogtland-vater-soll-eigene-kinder-getoetet-haben-a-120324c9-c208-4558-9aeb-d3113dd12840#ref=rss)
-* [https://www.spiegel.de/panorama/thailand-mindestens-18-tote-bei-reisebus-unfall](https://www.spiegel.de/panorama/thailand-mindestens-18-tote-bei-reisebus-unfall-a-cf2cf64d-54df-4a41-956e-1a430b44b2b1#ref=rss)
-### ashley
+* [https://www.spiegel.de/kultur/donald-trump-und-das-gaza-ki-video-33-sekunden-horror](https://www.spiegel.de/kultur/donald-trump-und-das-gaza-ki-video-33-sekunden-horror-a-7669e5d5-73a4-4444-8904-afde043ff1cc#ref=rss)
+* [https://www.spiegel.de/kultur/musik/kennedy-center-kuenstlerinnen-sagen-auftritte-aus-protest-gegen-trump-ab](https://www.spiegel.de/kultur/musik/kennedy-center-kuenstlerinnen-sagen-auftritte-aus-protest-gegen-trump-ab-a-8d5fe2c3-9f8b-4103-ae65-1a504f2a2174#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-lars-klingbeil-soll-rolf-muetzenich-als-spd-fraktionschef-nachfolgen](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-lars-klingbeil-soll-rolf-muetzenich-als-spd-fraktionschef-nachfolgen-a-5c534d57-8b9a-4c03-ac51-ad0ed0f46e49#ref=rss)
+### bezos
 
-* [https://www.spiegel.de/panorama/leute/auch-ashley-st-clair-wirft-elon-musk-vor-ein-schlechter-vater-zu-sein](https://www.spiegel.de/panorama/leute/auch-ashley-st-clair-wirft-elon-musk-vor-ein-schlechter-vater-zu-sein-a-5f39d6f5-0281-4c03-92d7-874cd6a44a01#ref=rss)
-### st
+* [https://www.spiegel.de/ausland/washington-post-meinungschef-david-shipley-verlaesst-zeitung-nach-neuausrichtung-durch-jeff-bezos](https://www.spiegel.de/ausland/washington-post-meinungschef-david-shipley-verlaesst-zeitung-nach-neuausrichtung-durch-jeff-bezos-a-8a174865-4a45-4e79-aca4-1c803708a062#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/panorama/leute/auch-ashley-st-clair-wirft-elon-musk-vor-ein-schlechter-vater-zu-sein](https://www.spiegel.de/panorama/leute/auch-ashley-st-clair-wirft-elon-musk-vor-ein-schlechter-vater-zu-sein-a-5f39d6f5-0281-4c03-92d7-874cd6a44a01#ref=rss)
-### clair
+* [https://www.spiegel.de/politik/deutschland/hanna-veiler-praesidentin-der-juedischen-studierendenunion-will-als-reaktion-auf-afd-ergebnis-deutschland-verlassen](https://www.spiegel.de/politik/deutschland/hanna-veiler-praesidentin-der-juedischen-studierendenunion-will-als-reaktion-auf-afd-ergebnis-deutschland-verlassen-a-86edad01-b305-43d7-9d89-4a191ae16f18#ref=rss)
+### sagt
 
-* [https://www.spiegel.de/panorama/leute/auch-ashley-st-clair-wirft-elon-musk-vor-ein-schlechter-vater-zu-sein](https://www.spiegel.de/panorama/leute/auch-ashley-st-clair-wirft-elon-musk-vor-ein-schlechter-vater-zu-sein-a-5f39d6f5-0281-4c03-92d7-874cd6a44a01#ref=rss)
-### elon
+* [https://www.spiegel.de/politik/deutschland/hanna-veiler-praesidentin-der-juedischen-studierendenunion-will-als-reaktion-auf-afd-ergebnis-deutschland-verlassen](https://www.spiegel.de/politik/deutschland/hanna-veiler-praesidentin-der-juedischen-studierendenunion-will-als-reaktion-auf-afd-ergebnis-deutschland-verlassen-a-86edad01-b305-43d7-9d89-4a191ae16f18#ref=rss)
+* [https://www.spiegel.de/panorama/leute/monica-lewinsky-bill-clinton-haette-nach-affaere-als-praesident-zuruecktreten-sollen](https://www.spiegel.de/panorama/leute/monica-lewinsky-bill-clinton-haette-nach-affaere-als-praesident-zuruecktreten-sollen-a-31be29b8-cbf2-44a3-bcbf-74e7d5de6831#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/letzte-generation-raphael-thelen-im-interview-ueber-neuen-namen-und-neue-strategie](https://www.spiegel.de/panorama/gesellschaft/letzte-generation-raphael-thelen-im-interview-ueber-neuen-namen-und-neue-strategie-a-4147da8b-d85e-4854-89db-d17f8c6a5ecd#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/panorama/leute/auch-ashley-st-clair-wirft-elon-musk-vor-ein-schlechter-vater-zu-sein](https://www.spiegel.de/panorama/leute/auch-ashley-st-clair-wirft-elon-musk-vor-ein-schlechter-vater-zu-sein-a-5f39d6f5-0281-4c03-92d7-874cd6a44a01#ref=rss)
-### musk
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wen-holt-friedrich-merz-in-sein-kabinett-wo-fahndet-das-bsw-nach-stimmen](https://www.spiegel.de/politik/deutschland/news-des-tages-wen-holt-friedrich-merz-in-sein-kabinett-wo-fahndet-das-bsw-nach-stimmen-a-6f3bc012-5a9d-40e1-ba84-77e3da76aebc#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/letzte-generation-raphael-thelen-im-interview-ueber-neuen-namen-und-neue-strategie](https://www.spiegel.de/panorama/gesellschaft/letzte-generation-raphael-thelen-im-interview-ueber-neuen-namen-und-neue-strategie-a-4147da8b-d85e-4854-89db-d17f8c6a5ecd#ref=rss)
+### grabrede
 
-* [https://www.spiegel.de/panorama/leute/auch-ashley-st-clair-wirft-elon-musk-vor-ein-schlechter-vater-zu-sein](https://www.spiegel.de/panorama/leute/auch-ashley-st-clair-wirft-elon-musk-vor-ein-schlechter-vater-zu-sein-a-5f39d6f5-0281-4c03-92d7-874cd6a44a01#ref=rss)
-### wir
+* [https://www.spiegel.de/ausland/israel-familienvater-haelt-emotionale-ansprache-bei-beisetzung-der-bibas-familie](https://www.spiegel.de/ausland/israel-familienvater-haelt-emotionale-ansprache-bei-beisetzung-der-bibas-familie-a-05a595fb-e8d3-4797-9e5f-ac355d3e6336#ref=rss)
+* [https://www.spiegel.de/ausland/israel-yarden-bibas-haelt-emotionale-grabrede-auf-shiri-ariel-und-kfir](https://www.spiegel.de/ausland/israel-yarden-bibas-haelt-emotionale-grabrede-auf-shiri-ariel-und-kfir-a-b775b6bf-c022-4dc1-9338-6e8d59755992#ref=rss)
+### yarden
 
-* [https://www.spiegel.de/panorama/leute/auch-ashley-st-clair-wirft-elon-musk-vor-ein-schlechter-vater-zu-sein](https://www.spiegel.de/panorama/leute/auch-ashley-st-clair-wirft-elon-musk-vor-ein-schlechter-vater-zu-sein-a-5f39d6f5-0281-4c03-92d7-874cd6a44a01#ref=rss)
-* [https://www.spiegel.de/geschichte/like-a-complete-unknown-was-ist-historisch-richtig-am-dylan-film-und-was-nicht](https://www.spiegel.de/geschichte/like-a-complete-unknown-was-ist-historisch-richtig-am-dylan-film-und-was-nicht-a-a456c802-6f40-46aa-ae26-22f62c8bcca1#ref=rss)
-### duisburg
+* [https://www.spiegel.de/ausland/israel-familienvater-haelt-emotionale-ansprache-bei-beisetzung-der-bibas-familie](https://www.spiegel.de/ausland/israel-familienvater-haelt-emotionale-ansprache-bei-beisetzung-der-bibas-familie-a-05a595fb-e8d3-4797-9e5f-ac355d3e6336#ref=rss)
+* [https://www.spiegel.de/ausland/israel-yarden-bibas-haelt-emotionale-grabrede-auf-shiri-ariel-und-kfir](https://www.spiegel.de/ausland/israel-yarden-bibas-haelt-emotionale-grabrede-auf-shiri-ariel-und-kfir-a-b775b6bf-c022-4dc1-9338-6e8d59755992#ref=rss)
+### clinton
 
-* [https://www.spiegel.de/panorama/weisser-riese-in-duisburg-grosskontrolle-deckt-dutzende-faelle-von-sozialbetrug-auf](https://www.spiegel.de/panorama/weisser-riese-in-duisburg-grosskontrolle-deckt-dutzende-faelle-von-sozialbetrug-auf-a-8c1de229-701a-4c05-9131-fdd74adaab9a#ref=rss)
-### sozialbetrug
+* [https://www.spiegel.de/panorama/leute/monica-lewinsky-bill-clinton-haette-nach-affaere-als-praesident-zuruecktreten-sollen](https://www.spiegel.de/panorama/leute/monica-lewinsky-bill-clinton-haette-nach-affaere-als-praesident-zuruecktreten-sollen-a-31be29b8-cbf2-44a3-bcbf-74e7d5de6831#ref=rss)
+### weit
 
-* [https://www.spiegel.de/panorama/weisser-riese-in-duisburg-grosskontrolle-deckt-dutzende-faelle-von-sozialbetrug-auf](https://www.spiegel.de/panorama/weisser-riese-in-duisburg-grosskontrolle-deckt-dutzende-faelle-von-sozialbetrug-auf-a-8c1de229-701a-4c05-9131-fdd74adaab9a#ref=rss)
-### gelsenkirchen
+* [https://www.spiegel.de/wirtschaft/lieferkette-der-sinnlose-kulturkampf](https://www.spiegel.de/wirtschaft/lieferkette-der-sinnlose-kulturkampf-a-457bd42a-ee3d-48c7-9ee9-a04b3dd48c3f#ref=rss)
+### cdu
 
-* [https://www.spiegel.de/panorama/gelsenkirchen-der-afd-erfolg-beendet-die-tradition-der-roten-bastion](https://www.spiegel.de/panorama/gelsenkirchen-der-afd-erfolg-beendet-die-tradition-der-roten-bastion-a-96a98e55-831b-4ad1-b364-24c8a7b5484a#ref=rss)
-### bastion
+* [https://www.spiegel.de/politik/deutschland/cdu-unter-friedrich-merz-warum-sie-hier-als-unglaubwuerdig-gilt](https://www.spiegel.de/politik/deutschland/cdu-unter-friedrich-merz-warum-sie-hier-als-unglaubwuerdig-gilt-a-8527edcf-a993-4187-9211-7d03631a2cd6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/minister-unter-friedrich-merz-diese-spd-cdu-und-csu-politiker-koennten-posten-uebernehmen](https://www.spiegel.de/politik/deutschland/minister-unter-friedrich-merz-diese-spd-cdu-und-csu-politiker-koennten-posten-uebernehmen-a-cf52090a-4a76-4ad1-9a79-63bf58688c14#ref=rss)
+### unglaubwürdig
 
-* [https://www.spiegel.de/panorama/gelsenkirchen-der-afd-erfolg-beendet-die-tradition-der-roten-bastion](https://www.spiegel.de/panorama/gelsenkirchen-der-afd-erfolg-beendet-die-tradition-der-roten-bastion-a-96a98e55-831b-4ad1-b364-24c8a7b5484a#ref=rss)
-### fc
+* [https://www.spiegel.de/politik/deutschland/cdu-unter-friedrich-merz-warum-sie-hier-als-unglaubwuerdig-gilt](https://www.spiegel.de/politik/deutschland/cdu-unter-friedrich-merz-warum-sie-hier-als-unglaubwuerdig-gilt-a-8527edcf-a993-4187-9211-7d03631a2cd6#ref=rss)
+### gilt
 
-* [https://www.spiegel.de/sport/fussball/copa-del-rey-fc-barcelona-und-atletico-madrid-trennen-sich-spektakulaer-4-4](https://www.spiegel.de/sport/fussball/copa-del-rey-fc-barcelona-und-atletico-madrid-trennen-sich-spektakulaer-4-4-a-8af65e10-eade-4b7a-8d39-daf376ac21ea#ref=rss)
-### barcelona
+* [https://www.spiegel.de/politik/deutschland/cdu-unter-friedrich-merz-warum-sie-hier-als-unglaubwuerdig-gilt](https://www.spiegel.de/politik/deutschland/cdu-unter-friedrich-merz-warum-sie-hier-als-unglaubwuerdig-gilt-a-8527edcf-a993-4187-9211-7d03631a2cd6#ref=rss)
+### nächste
 
-* [https://www.spiegel.de/sport/fussball/copa-del-rey-fc-barcelona-und-atletico-madrid-trennen-sich-spektakulaer-4-4](https://www.spiegel.de/sport/fussball/copa-del-rey-fc-barcelona-und-atletico-madrid-trennen-sich-spektakulaer-4-4-a-8af65e10-eade-4b7a-8d39-daf376ac21ea#ref=rss)
-### atlético
+* [https://www.spiegel.de/politik/deutschland/cdu-unter-friedrich-merz-warum-sie-hier-als-unglaubwuerdig-gilt](https://www.spiegel.de/politik/deutschland/cdu-unter-friedrich-merz-warum-sie-hier-als-unglaubwuerdig-gilt-a-8527edcf-a993-4187-9211-7d03631a2cd6#ref=rss)
+* [https://www.spiegel.de/ausland/israel-und-hamas-verstaendigen-sich-offenbar-ueber-rueckgabe-von-vier-toten-geiseln](https://www.spiegel.de/ausland/israel-und-hamas-verstaendigen-sich-offenbar-ueber-rueckgabe-von-vier-toten-geiseln-a-c33b6059-0389-4bff-8e1a-44c70751646b#ref=rss)
+### kanzler
 
-* [https://www.spiegel.de/sport/fussball/copa-del-rey-fc-barcelona-und-atletico-madrid-trennen-sich-spektakulaer-4-4](https://www.spiegel.de/sport/fussball/copa-del-rey-fc-barcelona-und-atletico-madrid-trennen-sich-spektakulaer-4-4-a-8af65e10-eade-4b7a-8d39-daf376ac21ea#ref=rss)
-### madrid
+* [https://www.spiegel.de/politik/deutschland/cdu-unter-friedrich-merz-warum-sie-hier-als-unglaubwuerdig-gilt](https://www.spiegel.de/politik/deutschland/cdu-unter-friedrich-merz-warum-sie-hier-als-unglaubwuerdig-gilt-a-8527edcf-a993-4187-9211-7d03631a2cd6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-lars-klingbeil-soll-rolf-muetzenich-als-spd-fraktionschef-nachfolgen](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-lars-klingbeil-soll-rolf-muetzenich-als-spd-fraktionschef-nachfolgen-a-5c534d57-8b9a-4c03-ac51-ad0ed0f46e49#ref=rss)
+### neue
 
-* [https://www.spiegel.de/sport/fussball/copa-del-rey-fc-barcelona-und-atletico-madrid-trennen-sich-spektakulaer-4-4](https://www.spiegel.de/sport/fussball/copa-del-rey-fc-barcelona-und-atletico-madrid-trennen-sich-spektakulaer-4-4-a-8af65e10-eade-4b7a-8d39-daf376ac21ea#ref=rss)
-### achten
+* [https://www.spiegel.de/netzwelt/gadgets/amazon-stellt-neue-alexa-vor](https://www.spiegel.de/netzwelt/gadgets/amazon-stellt-neue-alexa-vor-a-425ed980-e9f4-47fc-b52a-f298151da622#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/letzte-generation-raphael-thelen-im-interview-ueber-neuen-namen-und-neue-strategie](https://www.spiegel.de/panorama/gesellschaft/letzte-generation-raphael-thelen-im-interview-ueber-neuen-namen-und-neue-strategie-a-4147da8b-d85e-4854-89db-d17f8c6a5ecd#ref=rss)
+### alexa
 
-* [https://www.spiegel.de/sport/fussball/copa-del-rey-fc-barcelona-und-atletico-madrid-trennen-sich-spektakulaer-4-4](https://www.spiegel.de/sport/fussball/copa-del-rey-fc-barcelona-und-atletico-madrid-trennen-sich-spektakulaer-4-4-a-8af65e10-eade-4b7a-8d39-daf376ac21ea#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kaufverhalten-deutsche-achten-beim-wein-staerker-auf-den-preis](https://www.spiegel.de/wirtschaft/kaufverhalten-deutsche-achten-beim-wein-staerker-auf-den-preis-a-ce754ee1-c557-4d32-af58-ac202ee077fa#ref=rss)
-### iphone
+* [https://www.spiegel.de/netzwelt/gadgets/amazon-stellt-neue-alexa-vor](https://www.spiegel.de/netzwelt/gadgets/amazon-stellt-neue-alexa-vor-a-425ed980-e9f4-47fc-b52a-f298151da622#ref=rss)
+### protest
 
-* [https://www.spiegel.de/netzwelt/gadgets/iphone-diktierfunktion-machte-aus-rassist-das-wort-trump](https://www.spiegel.de/netzwelt/gadgets/iphone-diktierfunktion-machte-aus-rassist-das-wort-trump-a-34d43505-131f-4b74-9bf8-97a3b520a8f9#ref=rss)
-### diktierfunktion
+* [https://www.spiegel.de/panorama/justiz/gigafactory-in-gruenheide-erneut-brandanschlaege-aus-protest-gegen-teslafabrik-linksextremes-bekennerschreiben](https://www.spiegel.de/panorama/justiz/gigafactory-in-gruenheide-erneut-brandanschlaege-aus-protest-gegen-teslafabrik-linksextremes-bekennerschreiben-a-8491a6e5-fbd3-401d-81eb-055b6d8bb183#ref=rss)
+* [https://www.spiegel.de/kultur/musik/kennedy-center-kuenstlerinnen-sagen-auftritte-aus-protest-gegen-trump-ab](https://www.spiegel.de/kultur/musik/kennedy-center-kuenstlerinnen-sagen-auftritte-aus-protest-gegen-trump-ab-a-8d5fe2c3-9f8b-4103-ae65-1a504f2a2174#ref=rss)
+### brände
 
-* [https://www.spiegel.de/netzwelt/gadgets/iphone-diktierfunktion-machte-aus-rassist-das-wort-trump](https://www.spiegel.de/netzwelt/gadgets/iphone-diktierfunktion-machte-aus-rassist-das-wort-trump-a-34d43505-131f-4b74-9bf8-97a3b520a8f9#ref=rss)
-### rassist
+* [https://www.spiegel.de/panorama/justiz/gigafactory-in-gruenheide-erneut-brandanschlaege-aus-protest-gegen-teslafabrik-linksextremes-bekennerschreiben](https://www.spiegel.de/panorama/justiz/gigafactory-in-gruenheide-erneut-brandanschlaege-aus-protest-gegen-teslafabrik-linksextremes-bekennerschreiben-a-8491a6e5-fbd3-401d-81eb-055b6d8bb183#ref=rss)
+* [https://www.spiegel.de/wirtschaft/munich-re-erzielt-rekordgewinn-und-zahlt-rekorddividende](https://www.spiegel.de/wirtschaft/munich-re-erzielt-rekordgewinn-und-zahlt-rekorddividende-a-7ea6afa7-4cf3-46d3-a79a-4d6c23976c5a#ref=rss)
+### kennedy
 
-* [https://www.spiegel.de/netzwelt/gadgets/iphone-diktierfunktion-machte-aus-rassist-das-wort-trump](https://www.spiegel.de/netzwelt/gadgets/iphone-diktierfunktion-machte-aus-rassist-das-wort-trump-a-34d43505-131f-4b74-9bf8-97a3b520a8f9#ref=rss)
-### gymnasium
+* [https://www.spiegel.de/kultur/musik/kennedy-center-kuenstlerinnen-sagen-auftritte-aus-protest-gegen-trump-ab](https://www.spiegel.de/kultur/musik/kennedy-center-kuenstlerinnen-sagen-auftritte-aus-protest-gegen-trump-ab-a-8d5fe2c3-9f8b-4103-ae65-1a504f2a2174#ref=rss)
+### center
 
-* [https://www.spiegel.de/panorama/bildung/die-haelfte-der-schueler-in-baden-wuerttemberg-darf-aufs-gymnasium](https://www.spiegel.de/panorama/bildung/die-haelfte-der-schueler-in-baden-wuerttemberg-darf-aufs-gymnasium-a-a51a49a4-179a-4365-b9f0-fcef80c11cab#ref=rss)
-### chris
-
-* [https://www.spiegel.de/sport/boxen-chris-eubank-jr-attackiert-conor-benn-mit-einem-ei](https://www.spiegel.de/sport/boxen-chris-eubank-jr-attackiert-conor-benn-mit-einem-ei-a-215843d0-dd28-4ba1-925d-d92252b5071b#ref=rss)
-### eubank
-
-* [https://www.spiegel.de/sport/boxen-chris-eubank-jr-attackiert-conor-benn-mit-einem-ei](https://www.spiegel.de/sport/boxen-chris-eubank-jr-attackiert-conor-benn-mit-einem-ei-a-215843d0-dd28-4ba1-925d-d92252b5071b#ref=rss)
-### jr
-
-* [https://www.spiegel.de/sport/boxen-chris-eubank-jr-attackiert-conor-benn-mit-einem-ei](https://www.spiegel.de/sport/boxen-chris-eubank-jr-attackiert-conor-benn-mit-einem-ei-a-215843d0-dd28-4ba1-925d-d92252b5071b#ref=rss)
-### ei
-
-* [https://www.spiegel.de/sport/boxen-chris-eubank-jr-attackiert-conor-benn-mit-einem-ei](https://www.spiegel.de/sport/boxen-chris-eubank-jr-attackiert-conor-benn-mit-einem-ei-a-215843d0-dd28-4ba1-925d-d92252b5071b#ref=rss)
-### sudan
-
-* [https://www.spiegel.de/ausland/sudan-militaerflugzeug-stuerzt-nahe-khartum-ab-mindestens-46-tote](https://www.spiegel.de/ausland/sudan-militaerflugzeug-stuerzt-nahe-khartum-ab-mindestens-46-tote-a-94068666-1392-4835-9334-e403ca1301ad#ref=rss)
-### khartum
-
-* [https://www.spiegel.de/ausland/sudan-militaerflugzeug-stuerzt-nahe-khartum-ab-mindestens-46-tote](https://www.spiegel.de/ausland/sudan-militaerflugzeug-stuerzt-nahe-khartum-ab-mindestens-46-tote-a-94068666-1392-4835-9334-e403ca1301ad#ref=rss)
-### mindestens
-
-* [https://www.spiegel.de/ausland/sudan-militaerflugzeug-stuerzt-nahe-khartum-ab-mindestens-46-tote](https://www.spiegel.de/ausland/sudan-militaerflugzeug-stuerzt-nahe-khartum-ab-mindestens-46-tote-a-94068666-1392-4835-9334-e403ca1301ad#ref=rss)
-* [https://www.spiegel.de/panorama/thailand-mindestens-18-tote-bei-reisebus-unfall](https://www.spiegel.de/panorama/thailand-mindestens-18-tote-bei-reisebus-unfall-a-cf2cf64d-54df-4a41-956e-1a430b44b2b1#ref=rss)
-### hauptstadt
-
-* [https://www.spiegel.de/ausland/sudan-militaerflugzeug-stuerzt-nahe-khartum-ab-mindestens-46-tote](https://www.spiegel.de/ausland/sudan-militaerflugzeug-stuerzt-nahe-khartum-ab-mindestens-46-tote-a-94068666-1392-4835-9334-e403ca1301ad#ref=rss)
-* [https://www.spiegel.de/ausland/israel-attackiert-ziele-suedlich-von-damaskus-syrien-fordert-truppenabzug](https://www.spiegel.de/ausland/israel-attackiert-ziele-suedlich-von-damaskus-syrien-fordert-truppenabzug-a-1a977ea5-60c6-4e3f-8622-8611f86cfc66#ref=rss)
-### arbeitsplätze
-
-* [https://www.spiegel.de/wirtschaft/ifo-unternehmen-wollen-weiter-arbeitsplaetze-abbauen](https://www.spiegel.de/wirtschaft/ifo-unternehmen-wollen-weiter-arbeitsplaetze-abbauen-a-f5011e7a-3991-4ead-a0dd-c6cd39447b0a#ref=rss)
-### wirtschaft
-
-* [https://www.spiegel.de/wirtschaft/ifo-unternehmen-wollen-weiter-arbeitsplaetze-abbauen](https://www.spiegel.de/wirtschaft/ifo-unternehmen-wollen-weiter-arbeitsplaetze-abbauen-a-f5011e7a-3991-4ead-a0dd-c6cd39447b0a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/grosse-koalition-so-koennte-die-wirtschaftspolitik-von-union-und-spd-aussehen](https://www.spiegel.de/wirtschaft/soziales/grosse-koalition-so-koennte-die-wirtschaftspolitik-von-union-und-spd-aussehen-a-5ebf253c-c7d9-4116-9989-8f5c1b846e16#ref=rss)
+* [https://www.spiegel.de/kultur/musik/kennedy-center-kuenstlerinnen-sagen-auftritte-aus-protest-gegen-trump-ab](https://www.spiegel.de/kultur/musik/kennedy-center-kuenstlerinnen-sagen-auftritte-aus-protest-gegen-trump-ab-a-8d5fe2c3-9f8b-4103-ae65-1a504f2a2174#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/wirtschaft/ifo-unternehmen-wollen-weiter-arbeitsplaetze-abbauen](https://www.spiegel.de/wirtschaft/ifo-unternehmen-wollen-weiter-arbeitsplaetze-abbauen-a-f5011e7a-3991-4ead-a0dd-c6cd39447b0a#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-donald-trump-will-die-palaestinenser-in-die-nachbarlaender-umsiedeln-wie-lebt-es-sich-fuer-sie-in-aegypten](https://www.spiegel.de/ausland/gaza-donald-trump-will-die-palaestinenser-in-die-nachbarlaender-umsiedeln-wie-lebt-es-sich-fuer-sie-in-aegypten-a-e52de1bc-9469-4b46-836d-c81ebdd42f55#ref=rss)
-### 18
+* [https://www.spiegel.de/kultur/musik/kennedy-center-kuenstlerinnen-sagen-auftritte-aus-protest-gegen-trump-ab](https://www.spiegel.de/kultur/musik/kennedy-center-kuenstlerinnen-sagen-auftritte-aus-protest-gegen-trump-ab-a-8d5fe2c3-9f8b-4103-ae65-1a504f2a2174#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-stromausfall-in-bahrain-sorgt-fuer-zwangspause](https://www.spiegel.de/sport/formel1/formel-1-stromausfall-in-bahrain-sorgt-fuer-zwangspause-a-4e17cc30-071b-4755-8d0d-53813db099ee#ref=rss)
+### washington
 
-* [https://www.spiegel.de/panorama/thailand-mindestens-18-tote-bei-reisebus-unfall](https://www.spiegel.de/panorama/thailand-mindestens-18-tote-bei-reisebus-unfall-a-cf2cf64d-54df-4a41-956e-1a430b44b2b1#ref=rss)
-* [https://www.spiegel.de/sport/fussball/frauen-nationalmannschaft-bundestrainer-christian-wueck-und-die-probleme-in-der-defensive](https://www.spiegel.de/sport/fussball/frauen-nationalmannschaft-bundestrainer-christian-wueck-und-die-probleme-in-der-defensive-a-d11a8397-00c8-4b8f-a083-84f3ad7bc1ab#ref=rss)
-### luka
+* [https://www.spiegel.de/ausland/washington-post-meinungschef-david-shipley-verlaesst-zeitung-nach-neuausrichtung-durch-jeff-bezos](https://www.spiegel.de/ausland/washington-post-meinungschef-david-shipley-verlaesst-zeitung-nach-neuausrichtung-durch-jeff-bezos-a-8a174865-4a45-4e79-aca4-1c803708a062#ref=rss)
+### post
 
-* [https://www.spiegel.de/sport/basketball/nba-basketballer-luka-doncic-fuehrt-die-los-angeles-lakers-zum-sieg-gegen-ex-klub-dallas-mavericks](https://www.spiegel.de/sport/basketball/nba-basketballer-luka-doncic-fuehrt-die-los-angeles-lakers-zum-sieg-gegen-ex-klub-dallas-mavericks-a-bfde287f-832f-4f3d-973c-432e3adcb425#ref=rss)
-### führt
+* [https://www.spiegel.de/ausland/washington-post-meinungschef-david-shipley-verlaesst-zeitung-nach-neuausrichtung-durch-jeff-bezos](https://www.spiegel.de/ausland/washington-post-meinungschef-david-shipley-verlaesst-zeitung-nach-neuausrichtung-durch-jeff-bezos-a-8a174865-4a45-4e79-aca4-1c803708a062#ref=rss)
+### david
 
-* [https://www.spiegel.de/sport/basketball/nba-basketballer-luka-doncic-fuehrt-die-los-angeles-lakers-zum-sieg-gegen-ex-klub-dallas-mavericks](https://www.spiegel.de/sport/basketball/nba-basketballer-luka-doncic-fuehrt-die-los-angeles-lakers-zum-sieg-gegen-ex-klub-dallas-mavericks-a-bfde287f-832f-4f3d-973c-432e3adcb425#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutsche-luxuswagen-in-russland-trotz-sanktionen-g-klasse-fuer-die-kreml-elite](https://www.spiegel.de/wirtschaft/deutsche-luxuswagen-in-russland-trotz-sanktionen-g-klasse-fuer-die-kreml-elite-a-3b531f08-b41c-4f76-bc5c-41615da4903f#ref=rss)
-### los
+* [https://www.spiegel.de/ausland/washington-post-meinungschef-david-shipley-verlaesst-zeitung-nach-neuausrichtung-durch-jeff-bezos](https://www.spiegel.de/ausland/washington-post-meinungschef-david-shipley-verlaesst-zeitung-nach-neuausrichtung-durch-jeff-bezos-a-8a174865-4a45-4e79-aca4-1c803708a062#ref=rss)
+### shipley
 
-* [https://www.spiegel.de/sport/basketball/nba-basketballer-luka-doncic-fuehrt-die-los-angeles-lakers-zum-sieg-gegen-ex-klub-dallas-mavericks](https://www.spiegel.de/sport/basketball/nba-basketballer-luka-doncic-fuehrt-die-los-angeles-lakers-zum-sieg-gegen-ex-klub-dallas-mavericks-a-bfde287f-832f-4f3d-973c-432e3adcb425#ref=rss)
-### angeles
+* [https://www.spiegel.de/ausland/washington-post-meinungschef-david-shipley-verlaesst-zeitung-nach-neuausrichtung-durch-jeff-bezos](https://www.spiegel.de/ausland/washington-post-meinungschef-david-shipley-verlaesst-zeitung-nach-neuausrichtung-durch-jeff-bezos-a-8a174865-4a45-4e79-aca4-1c803708a062#ref=rss)
+### neuausrichtung
 
-* [https://www.spiegel.de/sport/basketball/nba-basketballer-luka-doncic-fuehrt-die-los-angeles-lakers-zum-sieg-gegen-ex-klub-dallas-mavericks](https://www.spiegel.de/sport/basketball/nba-basketballer-luka-doncic-fuehrt-die-los-angeles-lakers-zum-sieg-gegen-ex-klub-dallas-mavericks-a-bfde287f-832f-4f3d-973c-432e3adcb425#ref=rss)
-### exklub
+* [https://www.spiegel.de/ausland/washington-post-meinungschef-david-shipley-verlaesst-zeitung-nach-neuausrichtung-durch-jeff-bezos](https://www.spiegel.de/ausland/washington-post-meinungschef-david-shipley-verlaesst-zeitung-nach-neuausrichtung-durch-jeff-bezos-a-8a174865-4a45-4e79-aca4-1c803708a062#ref=rss)
+### jeff
 
-* [https://www.spiegel.de/sport/basketball/nba-basketballer-luka-doncic-fuehrt-die-los-angeles-lakers-zum-sieg-gegen-ex-klub-dallas-mavericks](https://www.spiegel.de/sport/basketball/nba-basketballer-luka-doncic-fuehrt-die-los-angeles-lakers-zum-sieg-gegen-ex-klub-dallas-mavericks-a-bfde287f-832f-4f3d-973c-432e3adcb425#ref=rss)
-### dallas
+* [https://www.spiegel.de/ausland/washington-post-meinungschef-david-shipley-verlaesst-zeitung-nach-neuausrichtung-durch-jeff-bezos](https://www.spiegel.de/ausland/washington-post-meinungschef-david-shipley-verlaesst-zeitung-nach-neuausrichtung-durch-jeff-bezos-a-8a174865-4a45-4e79-aca4-1c803708a062#ref=rss)
+### angekündigt
 
-* [https://www.spiegel.de/sport/basketball/nba-basketballer-luka-doncic-fuehrt-die-los-angeles-lakers-zum-sieg-gegen-ex-klub-dallas-mavericks](https://www.spiegel.de/sport/basketball/nba-basketballer-luka-doncic-fuehrt-die-los-angeles-lakers-zum-sieg-gegen-ex-klub-dallas-mavericks-a-bfde287f-832f-4f3d-973c-432e3adcb425#ref=rss)
-### trondheim
+* [https://www.spiegel.de/ausland/washington-post-meinungschef-david-shipley-verlaesst-zeitung-nach-neuausrichtung-durch-jeff-bezos](https://www.spiegel.de/ausland/washington-post-meinungschef-david-shipley-verlaesst-zeitung-nach-neuausrichtung-durch-jeff-bezos-a-8a174865-4a45-4e79-aca4-1c803708a062#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/lidl-edeka-penny-und-co-butter-preis-sinkt-flaechendeckend-unter-zwei-euro-marke](https://www.spiegel.de/wirtschaft/service/lidl-edeka-penny-und-co-butter-preis-sinkt-flaechendeckend-unter-zwei-euro-marke-a-f11c4520-ed3c-47d4-82ce-e923182dd7ec#ref=rss)
+### vergewaltigungsprozess
 
-* [https://www.spiegel.de/sport/wintersport/nordische-ski-wm-2025-in-trondheim-zeitplan-ergebnisse-rekorde](https://www.spiegel.de/sport/wintersport/nordische-ski-wm-2025-in-trondheim-zeitplan-ergebnisse-rekorde-a-c73f5616-6897-4cc2-93e4-c2e9a1fd9554#ref=rss)
-### alles
+* [https://www.spiegel.de/ausland/vergewaltigungsprozess-in-frankreich-299-opfer-hunderte-seiten-penible-dokumentation](https://www.spiegel.de/ausland/vergewaltigungsprozess-in-frankreich-299-opfer-hunderte-seiten-penible-dokumentation-a-98024f93-07c6-4d59-a840-5bdbb804804e#ref=rss)
+### frankreich
 
-* [https://www.spiegel.de/sport/wintersport/nordische-ski-wm-2025-in-trondheim-zeitplan-ergebnisse-rekorde](https://www.spiegel.de/sport/wintersport/nordische-ski-wm-2025-in-trondheim-zeitplan-ergebnisse-rekorde-a-c73f5616-6897-4cc2-93e4-c2e9a1fd9554#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kaufverhalten-deutsche-achten-beim-wein-staerker-auf-den-preis](https://www.spiegel.de/wirtschaft/kaufverhalten-deutsche-achten-beim-wein-staerker-auf-den-preis-a-ce754ee1-c557-4d32-af58-ac202ee077fa#ref=rss)
-### energiewende
+* [https://www.spiegel.de/ausland/vergewaltigungsprozess-in-frankreich-299-opfer-hunderte-seiten-penible-dokumentation](https://www.spiegel.de/ausland/vergewaltigungsprozess-in-frankreich-299-opfer-hunderte-seiten-penible-dokumentation-a-98024f93-07c6-4d59-a840-5bdbb804804e#ref=rss)
+### 299
 
-* [https://www.spiegel.de/wirtschaft/e-on-will-43-milliarden-euro-in-netzausbau-investieren](https://www.spiegel.de/wirtschaft/e-on-will-43-milliarden-euro-in-netzausbau-investieren-a-61125dc7-be72-44c4-a879-c56b2aa66816#ref=rss)
-### eon
+* [https://www.spiegel.de/ausland/vergewaltigungsprozess-in-frankreich-299-opfer-hunderte-seiten-penible-dokumentation](https://www.spiegel.de/ausland/vergewaltigungsprozess-in-frankreich-299-opfer-hunderte-seiten-penible-dokumentation-a-98024f93-07c6-4d59-a840-5bdbb804804e#ref=rss)
+### opfer
 
-* [https://www.spiegel.de/wirtschaft/e-on-will-43-milliarden-euro-in-netzausbau-investieren](https://www.spiegel.de/wirtschaft/e-on-will-43-milliarden-euro-in-netzausbau-investieren-a-61125dc7-be72-44c4-a879-c56b2aa66816#ref=rss)
-### russland
+* [https://www.spiegel.de/ausland/vergewaltigungsprozess-in-frankreich-299-opfer-hunderte-seiten-penible-dokumentation](https://www.spiegel.de/ausland/vergewaltigungsprozess-in-frankreich-299-opfer-hunderte-seiten-penible-dokumentation-a-98024f93-07c6-4d59-a840-5bdbb804804e#ref=rss)
+### neuer
 
-* [https://www.spiegel.de/wirtschaft/deutsche-luxuswagen-in-russland-trotz-sanktionen-g-klasse-fuer-die-kreml-elite](https://www.spiegel.de/wirtschaft/deutsche-luxuswagen-in-russland-trotz-sanktionen-g-klasse-fuer-die-kreml-elite-a-3b531f08-b41c-4f76-bc5c-41615da4903f#ref=rss)
-### sanktionen
+* [https://www.spiegel.de/ausland/vergewaltigungsprozess-in-frankreich-299-opfer-hunderte-seiten-penible-dokumentation](https://www.spiegel.de/ausland/vergewaltigungsprozess-in-frankreich-299-opfer-hunderte-seiten-penible-dokumentation-a-98024f93-07c6-4d59-a840-5bdbb804804e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/minister-unter-friedrich-merz-diese-spd-cdu-und-csu-politiker-koennten-posten-uebernehmen](https://www.spiegel.de/politik/deutschland/minister-unter-friedrich-merz-diese-spd-cdu-und-csu-politiker-koennten-posten-uebernehmen-a-cf52090a-4a76-4ad1-9a79-63bf58688c14#ref=rss)
+### diesem
 
-* [https://www.spiegel.de/wirtschaft/deutsche-luxuswagen-in-russland-trotz-sanktionen-g-klasse-fuer-die-kreml-elite](https://www.spiegel.de/wirtschaft/deutsche-luxuswagen-in-russland-trotz-sanktionen-g-klasse-fuer-die-kreml-elite-a-3b531f08-b41c-4f76-bc5c-41615da4903f#ref=rss)
-### paris
+* [https://www.spiegel.de/ausland/vergewaltigungsprozess-in-frankreich-299-opfer-hunderte-seiten-penible-dokumentation](https://www.spiegel.de/ausland/vergewaltigungsprozess-in-frankreich-299-opfer-hunderte-seiten-penible-dokumentation-a-98024f93-07c6-4d59-a840-5bdbb804804e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/klimawandel-studie-widerspricht-kollaps-des-golfstroms-im-21-jahrhundert](https://www.spiegel.de/wissenschaft/natur/klimawandel-studie-widerspricht-kollaps-des-golfstroms-im-21-jahrhundert-a-51a181db-733b-4bfa-940a-65203a9111ad#ref=rss)
+### hanna
 
-* [https://www.spiegel.de/panorama/leute/paris-hilton-feiert-geburtstag-ueberraschend-brav-fuer-ein-ehemaliges-it-girl](https://www.spiegel.de/panorama/leute/paris-hilton-feiert-geburtstag-ueberraschend-brav-fuer-ein-ehemaliges-it-girl-a-5714161f-0dae-4d5d-89f0-635daa2ed96f#ref=rss)
-### hilton
+* [https://www.spiegel.de/politik/deutschland/hanna-veiler-praesidentin-der-juedischen-studierendenunion-will-als-reaktion-auf-afd-ergebnis-deutschland-verlassen](https://www.spiegel.de/politik/deutschland/hanna-veiler-praesidentin-der-juedischen-studierendenunion-will-als-reaktion-auf-afd-ergebnis-deutschland-verlassen-a-86edad01-b305-43d7-9d89-4a191ae16f18#ref=rss)
+### veiler
 
-* [https://www.spiegel.de/panorama/leute/paris-hilton-feiert-geburtstag-ueberraschend-brav-fuer-ein-ehemaliges-it-girl](https://www.spiegel.de/panorama/leute/paris-hilton-feiert-geburtstag-ueberraschend-brav-fuer-ein-ehemaliges-it-girl-a-5714161f-0dae-4d5d-89f0-635daa2ed96f#ref=rss)
-### syrien
+* [https://www.spiegel.de/politik/deutschland/hanna-veiler-praesidentin-der-juedischen-studierendenunion-will-als-reaktion-auf-afd-ergebnis-deutschland-verlassen](https://www.spiegel.de/politik/deutschland/hanna-veiler-praesidentin-der-juedischen-studierendenunion-will-als-reaktion-auf-afd-ergebnis-deutschland-verlassen-a-86edad01-b305-43d7-9d89-4a191ae16f18#ref=rss)
+### präsidentin
 
-* [https://www.spiegel.de/ausland/israel-attackiert-ziele-suedlich-von-damaskus-syrien-fordert-truppenabzug](https://www.spiegel.de/ausland/israel-attackiert-ziele-suedlich-von-damaskus-syrien-fordert-truppenabzug-a-1a977ea5-60c6-4e3f-8622-8611f86cfc66#ref=rss)
-### christian
+* [https://www.spiegel.de/politik/deutschland/hanna-veiler-praesidentin-der-juedischen-studierendenunion-will-als-reaktion-auf-afd-ergebnis-deutschland-verlassen](https://www.spiegel.de/politik/deutschland/hanna-veiler-praesidentin-der-juedischen-studierendenunion-will-als-reaktion-auf-afd-ergebnis-deutschland-verlassen-a-86edad01-b305-43d7-9d89-4a191ae16f18#ref=rss)
+### jüdischen
 
-* [https://www.spiegel.de/sport/fussball/frauen-nationalmannschaft-bundestrainer-christian-wueck-und-die-probleme-in-der-defensive](https://www.spiegel.de/sport/fussball/frauen-nationalmannschaft-bundestrainer-christian-wueck-und-die-probleme-in-der-defensive-a-d11a8397-00c8-4b8f-a083-84f3ad7bc1ab#ref=rss)
-### wück
+* [https://www.spiegel.de/politik/deutschland/hanna-veiler-praesidentin-der-juedischen-studierendenunion-will-als-reaktion-auf-afd-ergebnis-deutschland-verlassen](https://www.spiegel.de/politik/deutschland/hanna-veiler-praesidentin-der-juedischen-studierendenunion-will-als-reaktion-auf-afd-ergebnis-deutschland-verlassen-a-86edad01-b305-43d7-9d89-4a191ae16f18#ref=rss)
+### studierendenunion
 
-* [https://www.spiegel.de/sport/fussball/frauen-nationalmannschaft-bundestrainer-christian-wueck-und-die-probleme-in-der-defensive](https://www.spiegel.de/sport/fussball/frauen-nationalmannschaft-bundestrainer-christian-wueck-und-die-probleme-in-der-defensive-a-d11a8397-00c8-4b8f-a083-84f3ad7bc1ab#ref=rss)
-### defensive
+* [https://www.spiegel.de/politik/deutschland/hanna-veiler-praesidentin-der-juedischen-studierendenunion-will-als-reaktion-auf-afd-ergebnis-deutschland-verlassen](https://www.spiegel.de/politik/deutschland/hanna-veiler-praesidentin-der-juedischen-studierendenunion-will-als-reaktion-auf-afd-ergebnis-deutschland-verlassen-a-86edad01-b305-43d7-9d89-4a191ae16f18#ref=rss)
+### droht
 
-* [https://www.spiegel.de/sport/fussball/frauen-nationalmannschaft-bundestrainer-christian-wueck-und-die-probleme-in-der-defensive](https://www.spiegel.de/sport/fussball/frauen-nationalmannschaft-bundestrainer-christian-wueck-und-die-probleme-in-der-defensive-a-d11a8397-00c8-4b8f-a083-84f3ad7bc1ab#ref=rss)
-### wein
+* [https://www.spiegel.de/ausland/donald-trump-droht-medien-und-autoren-bei-verwendung-anonymer-quellen](https://www.spiegel.de/ausland/donald-trump-droht-medien-und-autoren-bei-verwendung-anonymer-quellen-a-8bd03a22-5c08-495c-b0ec-74b43ca78746#ref=rss)
+### serdar
 
-* [https://www.spiegel.de/wirtschaft/kaufverhalten-deutsche-achten-beim-wein-staerker-auf-den-preis](https://www.spiegel.de/wirtschaft/kaufverhalten-deutsche-achten-beim-wein-staerker-auf-den-preis-a-ce754ee1-c557-4d32-af58-ac202ee077fa#ref=rss)
-### stärker
+* [https://www.spiegel.de/politik/spd-abgeordneter-aus-bochum-wie-serdar-yueksel-die-afd-bekaempfen-will](https://www.spiegel.de/politik/spd-abgeordneter-aus-bochum-wie-serdar-yueksel-die-afd-bekaempfen-will-a-98f4848b-a9a2-45b0-9aa2-69094fd0b842#ref=rss)
+### yüksel
 
-* [https://www.spiegel.de/wirtschaft/kaufverhalten-deutsche-achten-beim-wein-staerker-auf-den-preis](https://www.spiegel.de/wirtschaft/kaufverhalten-deutsche-achten-beim-wein-staerker-auf-den-preis-a-ce754ee1-c557-4d32-af58-ac202ee077fa#ref=rss)
-### preis
+* [https://www.spiegel.de/politik/spd-abgeordneter-aus-bochum-wie-serdar-yueksel-die-afd-bekaempfen-will](https://www.spiegel.de/politik/spd-abgeordneter-aus-bochum-wie-serdar-yueksel-die-afd-bekaempfen-will-a-98f4848b-a9a2-45b0-9aa2-69094fd0b842#ref=rss)
+### aufgabe
 
-* [https://www.spiegel.de/wirtschaft/kaufverhalten-deutsche-achten-beim-wein-staerker-auf-den-preis](https://www.spiegel.de/wirtschaft/kaufverhalten-deutsche-achten-beim-wein-staerker-auf-den-preis-a-ce754ee1-c557-4d32-af58-ac202ee077fa#ref=rss)
-### like
+* [https://www.spiegel.de/politik/spd-abgeordneter-aus-bochum-wie-serdar-yueksel-die-afd-bekaempfen-will](https://www.spiegel.de/politik/spd-abgeordneter-aus-bochum-wie-serdar-yueksel-die-afd-bekaempfen-will-a-98f4848b-a9a2-45b0-9aa2-69094fd0b842#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/trump-draengt-apple-zur-aufgabe-seines-diversitaetsprogramms](https://www.spiegel.de/netzwelt/netzpolitik/trump-draengt-apple-zur-aufgabe-seines-diversitaetsprogramms-a-e047eeda-d904-4175-ae6f-d7233b9841e1#ref=rss)
+### news
 
-* [https://www.spiegel.de/geschichte/like-a-complete-unknown-was-ist-historisch-richtig-am-dylan-film-und-was-nicht](https://www.spiegel.de/geschichte/like-a-complete-unknown-was-ist-historisch-richtig-am-dylan-film-und-was-nicht-a-a456c802-6f40-46aa-ae26-22f62c8bcca1#ref=rss)
-### complete
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wen-holt-friedrich-merz-in-sein-kabinett-wo-fahndet-das-bsw-nach-stimmen](https://www.spiegel.de/politik/deutschland/news-des-tages-wen-holt-friedrich-merz-in-sein-kabinett-wo-fahndet-das-bsw-nach-stimmen-a-6f3bc012-5a9d-40e1-ba84-77e3da76aebc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-lars-klingbeil-soll-rolf-muetzenich-als-spd-fraktionschef-nachfolgen](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-lars-klingbeil-soll-rolf-muetzenich-als-spd-fraktionschef-nachfolgen-a-5c534d57-8b9a-4c03-ac51-ad0ed0f46e49#ref=rss)
+### kabinett
 
-* [https://www.spiegel.de/geschichte/like-a-complete-unknown-was-ist-historisch-richtig-am-dylan-film-und-was-nicht](https://www.spiegel.de/geschichte/like-a-complete-unknown-was-ist-historisch-richtig-am-dylan-film-und-was-nicht-a-a456c802-6f40-46aa-ae26-22f62c8bcca1#ref=rss)
-### unknown
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wen-holt-friedrich-merz-in-sein-kabinett-wo-fahndet-das-bsw-nach-stimmen](https://www.spiegel.de/politik/deutschland/news-des-tages-wen-holt-friedrich-merz-in-sein-kabinett-wo-fahndet-das-bsw-nach-stimmen-a-6f3bc012-5a9d-40e1-ba84-77e3da76aebc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/minister-unter-friedrich-merz-diese-spd-cdu-und-csu-politiker-koennten-posten-uebernehmen](https://www.spiegel.de/politik/deutschland/minister-unter-friedrich-merz-diese-spd-cdu-und-csu-politiker-koennten-posten-uebernehmen-a-cf52090a-4a76-4ad1-9a79-63bf58688c14#ref=rss)
+### wo
 
-* [https://www.spiegel.de/geschichte/like-a-complete-unknown-was-ist-historisch-richtig-am-dylan-film-und-was-nicht](https://www.spiegel.de/geschichte/like-a-complete-unknown-was-ist-historisch-richtig-am-dylan-film-und-was-nicht-a-a456c802-6f40-46aa-ae26-22f62c8bcca1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wen-holt-friedrich-merz-in-sein-kabinett-wo-fahndet-das-bsw-nach-stimmen](https://www.spiegel.de/politik/deutschland/news-des-tages-wen-holt-friedrich-merz-in-sein-kabinett-wo-fahndet-das-bsw-nach-stimmen-a-6f3bc012-5a9d-40e1-ba84-77e3da76aebc#ref=rss)
+### fahndet
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wen-holt-friedrich-merz-in-sein-kabinett-wo-fahndet-das-bsw-nach-stimmen](https://www.spiegel.de/politik/deutschland/news-des-tages-wen-holt-friedrich-merz-in-sein-kabinett-wo-fahndet-das-bsw-nach-stimmen-a-6f3bc012-5a9d-40e1-ba84-77e3da76aebc#ref=rss)
+### bsw
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wen-holt-friedrich-merz-in-sein-kabinett-wo-fahndet-das-bsw-nach-stimmen](https://www.spiegel.de/politik/deutschland/news-des-tages-wen-holt-friedrich-merz-in-sein-kabinett-wo-fahndet-das-bsw-nach-stimmen-a-6f3bc012-5a9d-40e1-ba84-77e3da76aebc#ref=rss)
+### stimmen
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wen-holt-friedrich-merz-in-sein-kabinett-wo-fahndet-das-bsw-nach-stimmen](https://www.spiegel.de/politik/deutschland/news-des-tages-wen-holt-friedrich-merz-in-sein-kabinett-wo-fahndet-das-bsw-nach-stimmen-a-6f3bc012-5a9d-40e1-ba84-77e3da76aebc#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wen-holt-friedrich-merz-in-sein-kabinett-wo-fahndet-das-bsw-nach-stimmen](https://www.spiegel.de/politik/deutschland/news-des-tages-wen-holt-friedrich-merz-in-sein-kabinett-wo-fahndet-das-bsw-nach-stimmen-a-6f3bc012-5a9d-40e1-ba84-77e3da76aebc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/minister-unter-friedrich-merz-diese-spd-cdu-und-csu-politiker-koennten-posten-uebernehmen](https://www.spiegel.de/politik/deutschland/minister-unter-friedrich-merz-diese-spd-cdu-und-csu-politiker-koennten-posten-uebernehmen-a-cf52090a-4a76-4ad1-9a79-63bf58688c14#ref=rss)
+### han
+
+* [https://www.spiegel.de/sport/tischtennisspielerin-han-ying-feierte-bei-dem-turnier-top-16-ein-ueberragendes-comeback-nach-zwei-achillessehnenrissen](https://www.spiegel.de/sport/tischtennisspielerin-han-ying-feierte-bei-dem-turnier-top-16-ein-ueberragendes-comeback-nach-zwei-achillessehnenrissen-a-6cc32045-e1e7-4f52-a86b-2317ddcffb1e#ref=rss)
+### ying
+
+* [https://www.spiegel.de/sport/tischtennisspielerin-han-ying-feierte-bei-dem-turnier-top-16-ein-ueberragendes-comeback-nach-zwei-achillessehnenrissen](https://www.spiegel.de/sport/tischtennisspielerin-han-ying-feierte-bei-dem-turnier-top-16-ein-ueberragendes-comeback-nach-zwei-achillessehnenrissen-a-6cc32045-e1e7-4f52-a86b-2317ddcffb1e#ref=rss)
+### feierte
+
+* [https://www.spiegel.de/sport/tischtennisspielerin-han-ying-feierte-bei-dem-turnier-top-16-ein-ueberragendes-comeback-nach-zwei-achillessehnenrissen](https://www.spiegel.de/sport/tischtennisspielerin-han-ying-feierte-bei-dem-turnier-top-16-ein-ueberragendes-comeback-nach-zwei-achillessehnenrissen-a-6cc32045-e1e7-4f52-a86b-2317ddcffb1e#ref=rss)
+### comeback
+
+* [https://www.spiegel.de/sport/tischtennisspielerin-han-ying-feierte-bei-dem-turnier-top-16-ein-ueberragendes-comeback-nach-zwei-achillessehnenrissen](https://www.spiegel.de/sport/tischtennisspielerin-han-ying-feierte-bei-dem-turnier-top-16-ein-ueberragendes-comeback-nach-zwei-achillessehnenrissen-a-6cc32045-e1e7-4f52-a86b-2317ddcffb1e#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/sport/tischtennisspielerin-han-ying-feierte-bei-dem-turnier-top-16-ein-ueberragendes-comeback-nach-zwei-achillessehnenrissen](https://www.spiegel.de/sport/tischtennisspielerin-han-ying-feierte-bei-dem-turnier-top-16-ein-ueberragendes-comeback-nach-zwei-achillessehnenrissen-a-6cc32045-e1e7-4f52-a86b-2317ddcffb1e#ref=rss)
+### dennoch
+
+* [https://www.spiegel.de/sport/tischtennisspielerin-han-ying-feierte-bei-dem-turnier-top-16-ein-ueberragendes-comeback-nach-zwei-achillessehnenrissen](https://www.spiegel.de/sport/tischtennisspielerin-han-ying-feierte-bei-dem-turnier-top-16-ein-ueberragendes-comeback-nach-zwei-achillessehnenrissen-a-6cc32045-e1e7-4f52-a86b-2317ddcffb1e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/klimawandel-studie-widerspricht-kollaps-des-golfstroms-im-21-jahrhundert](https://www.spiegel.de/wissenschaft/natur/klimawandel-studie-widerspricht-kollaps-des-golfstroms-im-21-jahrhundert-a-51a181db-733b-4bfa-940a-65203a9111ad#ref=rss)
+### jahrhundert
+
+* [https://www.spiegel.de/wissenschaft/natur/klimawandel-studie-widerspricht-kollaps-des-golfstroms-im-21-jahrhundert](https://www.spiegel.de/wissenschaft/natur/klimawandel-studie-widerspricht-kollaps-des-golfstroms-im-21-jahrhundert-a-51a181db-733b-4bfa-940a-65203a9111ad#ref=rss)
+### sorgt
+
+* [https://www.spiegel.de/wissenschaft/natur/klimawandel-studie-widerspricht-kollaps-des-golfstroms-im-21-jahrhundert](https://www.spiegel.de/wissenschaft/natur/klimawandel-studie-widerspricht-kollaps-des-golfstroms-im-21-jahrhundert-a-51a181db-733b-4bfa-940a-65203a9111ad#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-stromausfall-in-bahrain-sorgt-fuer-zwangspause](https://www.spiegel.de/sport/formel1/formel-1-stromausfall-in-bahrain-sorgt-fuer-zwangspause-a-4e17cc30-071b-4755-8d0d-53813db099ee#ref=rss)
+### emotionale
+
+* [https://www.spiegel.de/ausland/israel-familienvater-haelt-emotionale-ansprache-bei-beisetzung-der-bibas-familie](https://www.spiegel.de/ausland/israel-familienvater-haelt-emotionale-ansprache-bei-beisetzung-der-bibas-familie-a-05a595fb-e8d3-4797-9e5f-ac355d3e6336#ref=rss)
+* [https://www.spiegel.de/ausland/israel-yarden-bibas-haelt-emotionale-grabrede-auf-shiri-ariel-und-kfir](https://www.spiegel.de/ausland/israel-yarden-bibas-haelt-emotionale-grabrede-auf-shiri-ariel-und-kfir-a-b775b6bf-c022-4dc1-9338-6e8d59755992#ref=rss)
+### erst
+
+* [https://www.spiegel.de/ausland/israel-familienvater-haelt-emotionale-ansprache-bei-beisetzung-der-bibas-familie](https://www.spiegel.de/ausland/israel-familienvater-haelt-emotionale-ansprache-bei-beisetzung-der-bibas-familie-a-05a595fb-e8d3-4797-9e5f-ac355d3e6336#ref=rss)
+* [https://www.spiegel.de/ausland/israel-yarden-bibas-haelt-emotionale-grabrede-auf-shiri-ariel-und-kfir](https://www.spiegel.de/ausland/israel-yarden-bibas-haelt-emotionale-grabrede-auf-shiri-ariel-und-kfir-a-b775b6bf-c022-4dc1-9338-6e8d59755992#ref=rss)
+### gemeinsamen
+
+* [https://www.spiegel.de/ausland/israel-familienvater-haelt-emotionale-ansprache-bei-beisetzung-der-bibas-familie](https://www.spiegel.de/ausland/israel-familienvater-haelt-emotionale-ansprache-bei-beisetzung-der-bibas-familie-a-05a595fb-e8d3-4797-9e5f-ac355d3e6336#ref=rss)
+* [https://www.spiegel.de/ausland/israel-yarden-bibas-haelt-emotionale-grabrede-auf-shiri-ariel-und-kfir](https://www.spiegel.de/ausland/israel-yarden-bibas-haelt-emotionale-grabrede-auf-shiri-ariel-und-kfir-a-b775b6bf-c022-4dc1-9338-6e8d59755992#ref=rss)
+### beerdigt
+
+* [https://www.spiegel.de/ausland/israel-familienvater-haelt-emotionale-ansprache-bei-beisetzung-der-bibas-familie](https://www.spiegel.de/ausland/israel-familienvater-haelt-emotionale-ansprache-bei-beisetzung-der-bibas-familie-a-05a595fb-e8d3-4797-9e5f-ac355d3e6336#ref=rss)
+* [https://www.spiegel.de/ausland/israel-yarden-bibas-haelt-emotionale-grabrede-auf-shiri-ariel-und-kfir](https://www.spiegel.de/ausland/israel-yarden-bibas-haelt-emotionale-grabrede-auf-shiri-ariel-und-kfir-a-b775b6bf-c022-4dc1-9338-6e8d59755992#ref=rss)
+### monica
+
+* [https://www.spiegel.de/panorama/leute/monica-lewinsky-bill-clinton-haette-nach-affaere-als-praesident-zuruecktreten-sollen](https://www.spiegel.de/panorama/leute/monica-lewinsky-bill-clinton-haette-nach-affaere-als-praesident-zuruecktreten-sollen-a-31be29b8-cbf2-44a3-bcbf-74e7d5de6831#ref=rss)
+### lewinsky
+
+* [https://www.spiegel.de/panorama/leute/monica-lewinsky-bill-clinton-haette-nach-affaere-als-praesident-zuruecktreten-sollen](https://www.spiegel.de/panorama/leute/monica-lewinsky-bill-clinton-haette-nach-affaere-als-praesident-zuruecktreten-sollen-a-31be29b8-cbf2-44a3-bcbf-74e7d5de6831#ref=rss)
+### bill
+
+* [https://www.spiegel.de/panorama/leute/monica-lewinsky-bill-clinton-haette-nach-affaere-als-praesident-zuruecktreten-sollen](https://www.spiegel.de/panorama/leute/monica-lewinsky-bill-clinton-haette-nach-affaere-als-praesident-zuruecktreten-sollen-a-31be29b8-cbf2-44a3-bcbf-74e7d5de6831#ref=rss)
+### affäre
+
+* [https://www.spiegel.de/panorama/leute/monica-lewinsky-bill-clinton-haette-nach-affaere-als-praesident-zuruecktreten-sollen](https://www.spiegel.de/panorama/leute/monica-lewinsky-bill-clinton-haette-nach-affaere-als-praesident-zuruecktreten-sollen-a-31be29b8-cbf2-44a3-bcbf-74e7d5de6831#ref=rss)
+### präsident
+
+* [https://www.spiegel.de/panorama/leute/monica-lewinsky-bill-clinton-haette-nach-affaere-als-praesident-zuruecktreten-sollen](https://www.spiegel.de/panorama/leute/monica-lewinsky-bill-clinton-haette-nach-affaere-als-praesident-zuruecktreten-sollen-a-31be29b8-cbf2-44a3-bcbf-74e7d5de6831#ref=rss)
+* [https://www.spiegel.de/ausland/bosnien-serben-fuehrer-milorad-dodik-wegen-amtsmissbrauchs-verurteilt](https://www.spiegel.de/ausland/bosnien-serben-fuehrer-milorad-dodik-wegen-amtsmissbrauchs-verurteilt-a-a14867b7-b83b-4682-958b-d4f6cf36226d#ref=rss)
+### uspräsident
+
+* [https://www.spiegel.de/panorama/leute/monica-lewinsky-bill-clinton-haette-nach-affaere-als-praesident-zuruecktreten-sollen](https://www.spiegel.de/panorama/leute/monica-lewinsky-bill-clinton-haette-nach-affaere-als-praesident-zuruecktreten-sollen-a-31be29b8-cbf2-44a3-bcbf-74e7d5de6831#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/trump-draengt-apple-zur-aufgabe-seines-diversitaetsprogramms](https://www.spiegel.de/netzwelt/netzpolitik/trump-draengt-apple-zur-aufgabe-seines-diversitaetsprogramms-a-e047eeda-d904-4175-ae6f-d7233b9841e1#ref=rss)
+### star
+
+* [https://www.spiegel.de/kultur/kino/star-trek-drehbuchautor-roberto-orci-ist-mit-51-jahren-gestorben](https://www.spiegel.de/kultur/kino/star-trek-drehbuchautor-roberto-orci-ist-mit-51-jahren-gestorben-a-2437deba-67b3-4db6-8ba7-dee2092b0e72#ref=rss)
+### roberto
+
+* [https://www.spiegel.de/kultur/kino/star-trek-drehbuchautor-roberto-orci-ist-mit-51-jahren-gestorben](https://www.spiegel.de/kultur/kino/star-trek-drehbuchautor-roberto-orci-ist-mit-51-jahren-gestorben-a-2437deba-67b3-4db6-8ba7-dee2092b0e72#ref=rss)
+### orci
+
+* [https://www.spiegel.de/kultur/kino/star-trek-drehbuchautor-roberto-orci-ist-mit-51-jahren-gestorben](https://www.spiegel.de/kultur/kino/star-trek-drehbuchautor-roberto-orci-ist-mit-51-jahren-gestorben-a-2437deba-67b3-4db6-8ba7-dee2092b0e72#ref=rss)
+### gestorben
+
+* [https://www.spiegel.de/kultur/kino/star-trek-drehbuchautor-roberto-orci-ist-mit-51-jahren-gestorben](https://www.spiegel.de/kultur/kino/star-trek-drehbuchautor-roberto-orci-ist-mit-51-jahren-gestorben-a-2437deba-67b3-4db6-8ba7-dee2092b0e72#ref=rss)
+### hamas
+
+* [https://www.spiegel.de/ausland/israel-und-hamas-verstaendigen-sich-offenbar-ueber-rueckgabe-von-vier-toten-geiseln](https://www.spiegel.de/ausland/israel-und-hamas-verstaendigen-sich-offenbar-ueber-rueckgabe-von-vier-toten-geiseln-a-c33b6059-0389-4bff-8e1a-44c70751646b#ref=rss)
+### verständigen
+
+* [https://www.spiegel.de/ausland/israel-und-hamas-verstaendigen-sich-offenbar-ueber-rueckgabe-von-vier-toten-geiseln](https://www.spiegel.de/ausland/israel-und-hamas-verstaendigen-sich-offenbar-ueber-rueckgabe-von-vier-toten-geiseln-a-c33b6059-0389-4bff-8e1a-44c70751646b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/minister-unter-friedrich-merz-diese-spd-cdu-und-csu-politiker-koennten-posten-uebernehmen](https://www.spiegel.de/politik/deutschland/minister-unter-friedrich-merz-diese-spd-cdu-und-csu-politiker-koennten-posten-uebernehmen-a-cf52090a-4a76-4ad1-9a79-63bf58688c14#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/ausland/israel-und-hamas-verstaendigen-sich-offenbar-ueber-rueckgabe-von-vier-toten-geiseln](https://www.spiegel.de/ausland/israel-und-hamas-verstaendigen-sich-offenbar-ueber-rueckgabe-von-vier-toten-geiseln-a-c33b6059-0389-4bff-8e1a-44c70751646b#ref=rss)
+### geiseln
+
+* [https://www.spiegel.de/ausland/israel-und-hamas-verstaendigen-sich-offenbar-ueber-rueckgabe-von-vier-toten-geiseln](https://www.spiegel.de/ausland/israel-und-hamas-verstaendigen-sich-offenbar-ueber-rueckgabe-von-vier-toten-geiseln-a-c33b6059-0389-4bff-8e1a-44c70751646b#ref=rss)
+### milorad
+
+* [https://www.spiegel.de/ausland/bosnien-serben-fuehrer-milorad-dodik-wegen-amtsmissbrauchs-verurteilt](https://www.spiegel.de/ausland/bosnien-serben-fuehrer-milorad-dodik-wegen-amtsmissbrauchs-verurteilt-a-a14867b7-b83b-4682-958b-d4f6cf36226d#ref=rss)
+### dodik
+
+* [https://www.spiegel.de/ausland/bosnien-serben-fuehrer-milorad-dodik-wegen-amtsmissbrauchs-verurteilt](https://www.spiegel.de/ausland/bosnien-serben-fuehrer-milorad-dodik-wegen-amtsmissbrauchs-verurteilt-a-a14867b7-b83b-4682-958b-d4f6cf36226d#ref=rss)
+### verurteilt
+
+* [https://www.spiegel.de/ausland/bosnien-serben-fuehrer-milorad-dodik-wegen-amtsmissbrauchs-verurteilt](https://www.spiegel.de/ausland/bosnien-serben-fuehrer-milorad-dodik-wegen-amtsmissbrauchs-verurteilt-a-a14867b7-b83b-4682-958b-d4f6cf36226d#ref=rss)
+### ostsee
+
+* [https://www.spiegel.de/panorama/ostsee-tierschuetzer-retten-buckelwal-aus-fischernetz](https://www.spiegel.de/panorama/ostsee-tierschuetzer-retten-buckelwal-aus-fischernetz-a-1496241a-5605-4244-87a0-5a5900dd20de#ref=rss)
+### buckelwal
+
+* [https://www.spiegel.de/panorama/ostsee-tierschuetzer-retten-buckelwal-aus-fischernetz](https://www.spiegel.de/panorama/ostsee-tierschuetzer-retten-buckelwal-aus-fischernetz-a-1496241a-5605-4244-87a0-5a5900dd20de#ref=rss)
+### fischernetz
+
+* [https://www.spiegel.de/panorama/ostsee-tierschuetzer-retten-buckelwal-aus-fischernetz](https://www.spiegel.de/panorama/ostsee-tierschuetzer-retten-buckelwal-aus-fischernetz-a-1496241a-5605-4244-87a0-5a5900dd20de#ref=rss)
+### etwas
+
+* [https://www.spiegel.de/panorama/ostsee-tierschuetzer-retten-buckelwal-aus-fischernetz](https://www.spiegel.de/panorama/ostsee-tierschuetzer-retten-buckelwal-aus-fischernetz-a-1496241a-5605-4244-87a0-5a5900dd20de#ref=rss)
+* [https://www.spiegel.de/wirtschaft/munich-re-erzielt-rekordgewinn-und-zahlt-rekorddividende](https://www.spiegel.de/wirtschaft/munich-re-erzielt-rekordgewinn-und-zahlt-rekorddividende-a-7ea6afa7-4cf3-46d3-a79a-4d6c23976c5a#ref=rss)
+### bundestagswahl
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-lars-klingbeil-soll-rolf-muetzenich-als-spd-fraktionschef-nachfolgen](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-lars-klingbeil-soll-rolf-muetzenich-als-spd-fraktionschef-nachfolgen-a-5c534d57-8b9a-4c03-ac51-ad0ed0f46e49#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-sind-bsw-stimmen-systematisch-verloren-gegangen](https://www.spiegel.de/politik/deutschland/bundestagswahl-sind-bsw-stimmen-systematisch-verloren-gegangen-a-23f97370-b65a-41e7-a064-340c510e9fc3#ref=rss)
+### emmanuel
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-lars-klingbeil-soll-rolf-muetzenich-als-spd-fraktionschef-nachfolgen](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-lars-klingbeil-soll-rolf-muetzenich-als-spd-fraktionschef-nachfolgen-a-5c534d57-8b9a-4c03-ac51-ad0ed0f46e49#ref=rss)
+### macron
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-lars-klingbeil-soll-rolf-muetzenich-als-spd-fraktionschef-nachfolgen](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-lars-klingbeil-soll-rolf-muetzenich-als-spd-fraktionschef-nachfolgen-a-5c534d57-8b9a-4c03-ac51-ad0ed0f46e49#ref=rss)
+### stromausfall
+
+* [https://www.spiegel.de/sport/formel1/formel-1-stromausfall-in-bahrain-sorgt-fuer-zwangspause](https://www.spiegel.de/sport/formel1/formel-1-stromausfall-in-bahrain-sorgt-fuer-zwangspause-a-4e17cc30-071b-4755-8d0d-53813db099ee#ref=rss)
+### bahrain
+
+* [https://www.spiegel.de/sport/formel1/formel-1-stromausfall-in-bahrain-sorgt-fuer-zwangspause](https://www.spiegel.de/sport/formel1/formel-1-stromausfall-in-bahrain-sorgt-fuer-zwangspause-a-4e17cc30-071b-4755-8d0d-53813db099ee#ref=rss)
+### aktionäre
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/trump-draengt-apple-zur-aufgabe-seines-diversitaetsprogramms](https://www.spiegel.de/netzwelt/netzpolitik/trump-draengt-apple-zur-aufgabe-seines-diversitaetsprogramms-a-e047eeda-d904-4175-ae6f-d7233b9841e1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bp-kurswechsel-beim-oel-multi-investitionen-in-erneuerbare-werden-zurueckgefahren](https://www.spiegel.de/wirtschaft/bp-kurswechsel-beim-oel-multi-investitionen-in-erneuerbare-werden-zurueckgefahren-a-aa78873f-00f0-4c48-980d-a83ece11bc0a#ref=rss)
+### spd
+
+* [https://www.spiegel.de/politik/deutschland/minister-unter-friedrich-merz-diese-spd-cdu-und-csu-politiker-koennten-posten-uebernehmen](https://www.spiegel.de/politik/deutschland/minister-unter-friedrich-merz-diese-spd-cdu-und-csu-politiker-koennten-posten-uebernehmen-a-cf52090a-4a76-4ad1-9a79-63bf58688c14#ref=rss)
+### letzte
+
+* [https://www.spiegel.de/panorama/gesellschaft/letzte-generation-raphael-thelen-im-interview-ueber-neuen-namen-und-neue-strategie](https://www.spiegel.de/panorama/gesellschaft/letzte-generation-raphael-thelen-im-interview-ueber-neuen-namen-und-neue-strategie-a-4147da8b-d85e-4854-89db-d17f8c6a5ecd#ref=rss)
+### generation
+
+* [https://www.spiegel.de/panorama/gesellschaft/letzte-generation-raphael-thelen-im-interview-ueber-neuen-namen-und-neue-strategie](https://www.spiegel.de/panorama/gesellschaft/letzte-generation-raphael-thelen-im-interview-ueber-neuen-namen-und-neue-strategie-a-4147da8b-d85e-4854-89db-d17f8c6a5ecd#ref=rss)
+### raphael
+
+* [https://www.spiegel.de/panorama/gesellschaft/letzte-generation-raphael-thelen-im-interview-ueber-neuen-namen-und-neue-strategie](https://www.spiegel.de/panorama/gesellschaft/letzte-generation-raphael-thelen-im-interview-ueber-neuen-namen-und-neue-strategie-a-4147da8b-d85e-4854-89db-d17f8c6a5ecd#ref=rss)
+### thelen
+
+* [https://www.spiegel.de/panorama/gesellschaft/letzte-generation-raphael-thelen-im-interview-ueber-neuen-namen-und-neue-strategie](https://www.spiegel.de/panorama/gesellschaft/letzte-generation-raphael-thelen-im-interview-ueber-neuen-namen-und-neue-strategie-a-4147da8b-d85e-4854-89db-d17f8c6a5ecd#ref=rss)
+### namen
+
+* [https://www.spiegel.de/panorama/gesellschaft/letzte-generation-raphael-thelen-im-interview-ueber-neuen-namen-und-neue-strategie](https://www.spiegel.de/panorama/gesellschaft/letzte-generation-raphael-thelen-im-interview-ueber-neuen-namen-und-neue-strategie-a-4147da8b-d85e-4854-89db-d17f8c6a5ecd#ref=rss)
+### bp
+
+* [https://www.spiegel.de/wirtschaft/bp-kurswechsel-beim-oel-multi-investitionen-in-erneuerbare-werden-zurueckgefahren](https://www.spiegel.de/wirtschaft/bp-kurswechsel-beim-oel-multi-investitionen-in-erneuerbare-werden-zurueckgefahren-a-aa78873f-00f0-4c48-980d-a83ece11bc0a#ref=rss)
+### investitionen
+
+* [https://www.spiegel.de/wirtschaft/bp-kurswechsel-beim-oel-multi-investitionen-in-erneuerbare-werden-zurueckgefahren](https://www.spiegel.de/wirtschaft/bp-kurswechsel-beim-oel-multi-investitionen-in-erneuerbare-werden-zurueckgefahren-a-aa78873f-00f0-4c48-980d-a83ece11bc0a#ref=rss)
+### erneuerbare
+
+* [https://www.spiegel.de/wirtschaft/bp-kurswechsel-beim-oel-multi-investitionen-in-erneuerbare-werden-zurueckgefahren](https://www.spiegel.de/wirtschaft/bp-kurswechsel-beim-oel-multi-investitionen-in-erneuerbare-werden-zurueckgefahren-a-aa78873f-00f0-4c48-980d-a83ece11bc0a#ref=rss)
+### munich
+
+* [https://www.spiegel.de/wirtschaft/munich-re-erzielt-rekordgewinn-und-zahlt-rekorddividende](https://www.spiegel.de/wirtschaft/munich-re-erzielt-rekordgewinn-und-zahlt-rekorddividende-a-7ea6afa7-4cf3-46d3-a79a-4d6c23976c5a#ref=rss)
+### re
+
+* [https://www.spiegel.de/wirtschaft/munich-re-erzielt-rekordgewinn-und-zahlt-rekorddividende](https://www.spiegel.de/wirtschaft/munich-re-erzielt-rekordgewinn-und-zahlt-rekorddividende-a-7ea6afa7-4cf3-46d3-a79a-4d6c23976c5a#ref=rss)
+### shiri
+
+* [https://www.spiegel.de/ausland/israel-yarden-bibas-haelt-emotionale-grabrede-auf-shiri-ariel-und-kfir](https://www.spiegel.de/ausland/israel-yarden-bibas-haelt-emotionale-grabrede-auf-shiri-ariel-und-kfir-a-b775b6bf-c022-4dc1-9338-6e8d59755992#ref=rss)
+### ariel
+
+* [https://www.spiegel.de/ausland/israel-yarden-bibas-haelt-emotionale-grabrede-auf-shiri-ariel-und-kfir](https://www.spiegel.de/ausland/israel-yarden-bibas-haelt-emotionale-grabrede-auf-shiri-ariel-und-kfir-a-b775b6bf-c022-4dc1-9338-6e8d59755992#ref=rss)
+### kfir
+
+* [https://www.spiegel.de/ausland/israel-yarden-bibas-haelt-emotionale-grabrede-auf-shiri-ariel-und-kfir](https://www.spiegel.de/ausland/israel-yarden-bibas-haelt-emotionale-grabrede-auf-shiri-ariel-und-kfir-a-b775b6bf-c022-4dc1-9338-6e8d59755992#ref=rss)
+### wagenknecht
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-sind-bsw-stimmen-systematisch-verloren-gegangen](https://www.spiegel.de/politik/deutschland/bundestagswahl-sind-bsw-stimmen-systematisch-verloren-gegangen-a-23f97370-b65a-41e7-a064-340c510e9fc3#ref=rss)
 
