@@ -4,362 +4,368 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### selenskyj
-
-* [https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-internationale-medien-besorgt-ueber-eskalation](https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-internationale-medien-besorgt-ueber-eskalation-a-7f571ac1-806b-48e0-9460-70d8414f0c05#ref=rss)
-* [https://www.spiegel.de/ausland/was-der-streit-zwischen-wolodymyr-selenskyj-und-donald-trump-fuer-europa-bedeutet](https://www.spiegel.de/ausland/was-der-streit-zwischen-wolodymyr-selenskyj-und-donald-trump-fuer-europa-bedeutet-a-5d885b6e-4e45-46b3-9c47-0bc1ede535db#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-wolodymyr-selenskyj-fuenf-hitzige-minuten-im-oval-office](https://www.spiegel.de/ausland/donald-trump-und-wolodymyr-selenskyj-fuenf-hitzige-minuten-im-oval-office-a-a958e87d-bdda-491e-a13c-ce4a89c36faf#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-donald-trump-lehnt-sofortige-gespraeche-mit-wolodymyr-selenskyj-ab](https://www.spiegel.de/ausland/ukraine-donald-trump-lehnt-sofortige-gespraeche-mit-wolodymyr-selenskyj-ab-a-e58a3f68-9280-4b4c-9555-d1a35ee21768#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-im-camp-der-schurkenstaaten](https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-im-camp-der-schurkenstaaten-a-a7e89cd8-3754-45dd-b946-108f76a941f6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-wolodymyr-selenskyj-oscar-kandidat-konklave-wahl-hamburg](https://www.spiegel.de/politik/deutschland/news-donald-trump-wolodymyr-selenskyj-oscar-kandidat-konklave-wahl-hamburg-a-71264e50-41dd-408f-8602-60bfbd483369#ref=rss)
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-donald-trump-ukraine-praesident-bricht-treffen-im-weissen-haus-ab](https://www.spiegel.de/ausland/wolodymyr-selenskyj-donald-trump-ukraine-praesident-bricht-treffen-im-weissen-haus-ab-a-f5363463-7aa6-4716-947e-0d74a0524f2b#ref=rss)
-* [https://www.spiegel.de/ausland/liveblog-wolodymyr-selenskyj-verlaesst-weisses-haus-gespraeche-mit-donald-trump-abgebrochen](https://www.spiegel.de/ausland/liveblog-wolodymyr-selenskyj-verlaesst-weisses-haus-gespraeche-mit-donald-trump-abgebrochen-a-656d319f-446b-432a-a147-b6796e59c1fb#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-wolodymyr-selenskyj-diplomatischer-abgrund-im-oval-office](https://www.spiegel.de/ausland/donald-trump-und-wolodymyr-selenskyj-diplomatischer-abgrund-im-oval-office-a-ff915fbb-9768-4a85-b9c2-dec9de3e5008#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-donald-trump-dominiert-gespraech-mit-wolodymyr-selenskyj](https://www.spiegel.de/ausland/ukraine-donald-trump-dominiert-gespraech-mit-wolodymyr-selenskyj-a-92ffb38d-5bb6-4fd1-bc68-7981eb8199df#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-internationale-medien-besorgt-ueber-eskalation](https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-internationale-medien-besorgt-ueber-eskalation-a-7f571ac1-806b-48e0-9460-70d8414f0c05#ref=rss)
-* [https://www.spiegel.de/ausland/was-der-streit-zwischen-wolodymyr-selenskyj-und-donald-trump-fuer-europa-bedeutet](https://www.spiegel.de/ausland/was-der-streit-zwischen-wolodymyr-selenskyj-und-donald-trump-fuer-europa-bedeutet-a-5d885b6e-4e45-46b3-9c47-0bc1ede535db#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-wolodymyr-selenskyj-fuenf-hitzige-minuten-im-oval-office](https://www.spiegel.de/ausland/donald-trump-und-wolodymyr-selenskyj-fuenf-hitzige-minuten-im-oval-office-a-a958e87d-bdda-491e-a13c-ce4a89c36faf#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-donald-trump-lehnt-sofortige-gespraeche-mit-wolodymyr-selenskyj-ab](https://www.spiegel.de/ausland/ukraine-donald-trump-lehnt-sofortige-gespraeche-mit-wolodymyr-selenskyj-ab-a-e58a3f68-9280-4b4c-9555-d1a35ee21768#ref=rss)
-* [https://www.spiegel.de/politik/donald-trump-und-bundestagswahl-wie-man-im-krisenmodus-ruhig-bleibt](https://www.spiegel.de/politik/donald-trump-und-bundestagswahl-wie-man-im-krisenmodus-ruhig-bleibt-a-02b15f49-aac9-4c98-b258-838e4e101058#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-im-camp-der-schurkenstaaten](https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-im-camp-der-schurkenstaaten-a-a7e89cd8-3754-45dd-b946-108f76a941f6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-wolodymyr-selenskyj-oscar-kandidat-konklave-wahl-hamburg](https://www.spiegel.de/politik/deutschland/news-donald-trump-wolodymyr-selenskyj-oscar-kandidat-konklave-wahl-hamburg-a-71264e50-41dd-408f-8602-60bfbd483369#ref=rss)
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-donald-trump-ukraine-praesident-bricht-treffen-im-weissen-haus-ab](https://www.spiegel.de/ausland/wolodymyr-selenskyj-donald-trump-ukraine-praesident-bricht-treffen-im-weissen-haus-ab-a-f5363463-7aa6-4716-947e-0d74a0524f2b#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-wolodymyr-selenskyj-diplomatischer-abgrund-im-oval-office](https://www.spiegel.de/ausland/donald-trump-und-wolodymyr-selenskyj-diplomatischer-abgrund-im-oval-office-a-ff915fbb-9768-4a85-b9c2-dec9de3e5008#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-donald-trump-dominiert-gespraech-mit-wolodymyr-selenskyj](https://www.spiegel.de/ausland/ukraine-donald-trump-dominiert-gespraech-mit-wolodymyr-selenskyj-a-92ffb38d-5bb6-4fd1-bc68-7981eb8199df#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-internationale-medien-besorgt-ueber-eskalation](https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-internationale-medien-besorgt-ueber-eskalation-a-7f571ac1-806b-48e0-9460-70d8414f0c05#ref=rss)
-* [https://www.spiegel.de/ausland/was-der-streit-zwischen-wolodymyr-selenskyj-und-donald-trump-fuer-europa-bedeutet](https://www.spiegel.de/ausland/was-der-streit-zwischen-wolodymyr-selenskyj-und-donald-trump-fuer-europa-bedeutet-a-5d885b6e-4e45-46b3-9c47-0bc1ede535db#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-wolodymyr-selenskyj-fuenf-hitzige-minuten-im-oval-office](https://www.spiegel.de/ausland/donald-trump-und-wolodymyr-selenskyj-fuenf-hitzige-minuten-im-oval-office-a-a958e87d-bdda-491e-a13c-ce4a89c36faf#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-donald-trump-lehnt-sofortige-gespraeche-mit-wolodymyr-selenskyj-ab](https://www.spiegel.de/ausland/ukraine-donald-trump-lehnt-sofortige-gespraeche-mit-wolodymyr-selenskyj-ab-a-e58a3f68-9280-4b4c-9555-d1a35ee21768#ref=rss)
-* [https://www.spiegel.de/politik/donald-trump-und-bundestagswahl-wie-man-im-krisenmodus-ruhig-bleibt](https://www.spiegel.de/politik/donald-trump-und-bundestagswahl-wie-man-im-krisenmodus-ruhig-bleibt-a-02b15f49-aac9-4c98-b258-838e4e101058#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-im-camp-der-schurkenstaaten](https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-im-camp-der-schurkenstaaten-a-a7e89cd8-3754-45dd-b946-108f76a941f6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-wolodymyr-selenskyj-oscar-kandidat-konklave-wahl-hamburg](https://www.spiegel.de/politik/deutschland/news-donald-trump-wolodymyr-selenskyj-oscar-kandidat-konklave-wahl-hamburg-a-71264e50-41dd-408f-8602-60bfbd483369#ref=rss)
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-donald-trump-ukraine-praesident-bricht-treffen-im-weissen-haus-ab](https://www.spiegel.de/ausland/wolodymyr-selenskyj-donald-trump-ukraine-praesident-bricht-treffen-im-weissen-haus-ab-a-f5363463-7aa6-4716-947e-0d74a0524f2b#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-wolodymyr-selenskyj-diplomatischer-abgrund-im-oval-office](https://www.spiegel.de/ausland/donald-trump-und-wolodymyr-selenskyj-diplomatischer-abgrund-im-oval-office-a-ff915fbb-9768-4a85-b9c2-dec9de3e5008#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-donald-trump-dominiert-gespraech-mit-wolodymyr-selenskyj](https://www.spiegel.de/ausland/ukraine-donald-trump-dominiert-gespraech-mit-wolodymyr-selenskyj-a-92ffb38d-5bb6-4fd1-bc68-7981eb8199df#ref=rss)
-### wolodymyr
-
-* [https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-internationale-medien-besorgt-ueber-eskalation](https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-internationale-medien-besorgt-ueber-eskalation-a-7f571ac1-806b-48e0-9460-70d8414f0c05#ref=rss)
-* [https://www.spiegel.de/ausland/was-der-streit-zwischen-wolodymyr-selenskyj-und-donald-trump-fuer-europa-bedeutet](https://www.spiegel.de/ausland/was-der-streit-zwischen-wolodymyr-selenskyj-und-donald-trump-fuer-europa-bedeutet-a-5d885b6e-4e45-46b3-9c47-0bc1ede535db#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-wolodymyr-selenskyj-fuenf-hitzige-minuten-im-oval-office](https://www.spiegel.de/ausland/donald-trump-und-wolodymyr-selenskyj-fuenf-hitzige-minuten-im-oval-office-a-a958e87d-bdda-491e-a13c-ce4a89c36faf#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-donald-trump-lehnt-sofortige-gespraeche-mit-wolodymyr-selenskyj-ab](https://www.spiegel.de/ausland/ukraine-donald-trump-lehnt-sofortige-gespraeche-mit-wolodymyr-selenskyj-ab-a-e58a3f68-9280-4b4c-9555-d1a35ee21768#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-im-camp-der-schurkenstaaten](https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-im-camp-der-schurkenstaaten-a-a7e89cd8-3754-45dd-b946-108f76a941f6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-wolodymyr-selenskyj-oscar-kandidat-konklave-wahl-hamburg](https://www.spiegel.de/politik/deutschland/news-donald-trump-wolodymyr-selenskyj-oscar-kandidat-konklave-wahl-hamburg-a-71264e50-41dd-408f-8602-60bfbd483369#ref=rss)
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-donald-trump-ukraine-praesident-bricht-treffen-im-weissen-haus-ab](https://www.spiegel.de/ausland/wolodymyr-selenskyj-donald-trump-ukraine-praesident-bricht-treffen-im-weissen-haus-ab-a-f5363463-7aa6-4716-947e-0d74a0524f2b#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-wolodymyr-selenskyj-diplomatischer-abgrund-im-oval-office](https://www.spiegel.de/ausland/donald-trump-und-wolodymyr-selenskyj-diplomatischer-abgrund-im-oval-office-a-ff915fbb-9768-4a85-b9c2-dec9de3e5008#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-donald-trump-dominiert-gespraech-mit-wolodymyr-selenskyj](https://www.spiegel.de/ausland/ukraine-donald-trump-dominiert-gespraech-mit-wolodymyr-selenskyj-a-92ffb38d-5bb6-4fd1-bc68-7981eb8199df#ref=rss)
 ### ukraine
 
-* [https://www.spiegel.de/ausland/was-der-streit-zwischen-wolodymyr-selenskyj-und-donald-trump-fuer-europa-bedeutet](https://www.spiegel.de/ausland/was-der-streit-zwischen-wolodymyr-selenskyj-und-donald-trump-fuer-europa-bedeutet-a-5d885b6e-4e45-46b3-9c47-0bc1ede535db#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-die-croissant-partnerschaft-zwischen-paris-und-kyjiw](https://www.spiegel.de/ausland/ukraine-die-croissant-partnerschaft-zwischen-paris-und-kyjiw-a-bd35452a-318a-4ab1-a4ae-4e7509c45a47#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-donald-trump-lehnt-sofortige-gespraeche-mit-wolodymyr-selenskyj-ab](https://www.spiegel.de/ausland/ukraine-donald-trump-lehnt-sofortige-gespraeche-mit-wolodymyr-selenskyj-ab-a-e58a3f68-9280-4b4c-9555-d1a35ee21768#ref=rss)
+* [https://www.spiegel.de/ausland/diese-waffen-braucht-die-ukraine-von-den-usa](https://www.spiegel.de/ausland/diese-waffen-braucht-die-ukraine-von-den-usa-a-f1f43d18-d4cd-4a39-ba5a-9db10814c990#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/linke-nennt-russland-aggressor-will-der-ukraine-aber-keine-waffen-liefern](https://www.spiegel.de/politik/deutschland/linke-nennt-russland-aggressor-will-der-ukraine-aber-keine-waffen-liefern-a-6dee6127-0d7d-4c71-b777-cdecae6de3ed#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-ungewisse-zukunft-nach-eklat-im-weissen-haus](https://www.spiegel.de/ausland/ukraine-ungewisse-zukunft-nach-eklat-im-weissen-haus-a-3c84ef41-c1d1-47e5-9a9b-d0c55d2d79d5#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/wirtschaft/strassenverkehr-wer-hat-die-besten-autobahnen-bundeslaender-im-vergleich](https://www.spiegel.de/wirtschaft/strassenverkehr-wer-hat-die-besten-autobahnen-bundeslaender-im-vergleich-a-da8d743b-f287-4881-a3a8-9d37ff0fec42#ref=rss)
+* [https://www.spiegel.de/reise/europa/skitourenparks-in-deutschland-und-oesterreich-wo-freerider-ueben](https://www.spiegel.de/reise/europa/skitourenparks-in-deutschland-und-oesterreich-wo-freerider-ueben-a-c0755bcb-8dfb-4760-ae8c-d73a5eff85c5#ref=rss)
+* [https://www.spiegel.de/geschichte/verhaeltnis-zwischen-deutschland-und-israel-fuer-mich-war-immer-klar-im-zweifelsfall-fuer-israel](https://www.spiegel.de/geschichte/verhaeltnis-zwischen-deutschland-und-israel-fuer-mich-war-immer-klar-im-zweifelsfall-fuer-israel-a-38bd46fc-da5b-4c84-b147-9dced2488bec#ref=rss)
+* [https://www.spiegel.de/politik/weisses-haus-das-sagt-aussenministerin-annalena-baerbock-nach-eklat-livestream](https://www.spiegel.de/politik/weisses-haus-das-sagt-aussenministerin-annalena-baerbock-nach-eklat-livestream-a-3a916922-9c26-44e9-95d7-bc25b5d54088#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/fachkraeftemangel-wie-ein-junger-vietnamese-in-thueringen-eine-neue-heimat-findet](https://www.spiegel.de/panorama/gesellschaft/fachkraeftemangel-wie-ein-junger-vietnamese-in-thueringen-eine-neue-heimat-findet-a-7c754e47-0d5b-43b5-a6be-ba2d10b7f4c6#ref=rss)
+### trump
+
+* [https://www.spiegel.de/politik/deutschland/linke-nennt-russland-aggressor-will-der-ukraine-aber-keine-waffen-liefern](https://www.spiegel.de/politik/deutschland/linke-nennt-russland-aggressor-will-der-ukraine-aber-keine-waffen-liefern-a-6dee6127-0d7d-4c71-b777-cdecae6de3ed#ref=rss)
 * [https://www.spiegel.de/ausland/liveblog-wolodymyr-selenskyj-verlaesst-weisses-haus-gespraeche-mit-donald-trump-abgebrochen](https://www.spiegel.de/ausland/liveblog-wolodymyr-selenskyj-verlaesst-weisses-haus-gespraeche-mit-donald-trump-abgebrochen-a-656d319f-446b-432a-a147-b6796e59c1fb#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-wolodymyr-selenskyj-diplomatischer-abgrund-im-oval-office](https://www.spiegel.de/ausland/donald-trump-und-wolodymyr-selenskyj-diplomatischer-abgrund-im-oval-office-a-ff915fbb-9768-4a85-b9c2-dec9de3e5008#ref=rss)
-### weißen
-
-* [https://www.spiegel.de/ausland/ukraine-donald-trump-lehnt-sofortige-gespraeche-mit-wolodymyr-selenskyj-ab](https://www.spiegel.de/ausland/ukraine-donald-trump-lehnt-sofortige-gespraeche-mit-wolodymyr-selenskyj-ab-a-e58a3f68-9280-4b4c-9555-d1a35ee21768#ref=rss)
-* [https://www.spiegel.de/politik/donald-trump-und-bundestagswahl-wie-man-im-krisenmodus-ruhig-bleibt](https://www.spiegel.de/politik/donald-trump-und-bundestagswahl-wie-man-im-krisenmodus-ruhig-bleibt-a-02b15f49-aac9-4c98-b258-838e4e101058#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-wolodymyr-selenskyj-oscar-kandidat-konklave-wahl-hamburg](https://www.spiegel.de/politik/deutschland/news-donald-trump-wolodymyr-selenskyj-oscar-kandidat-konklave-wahl-hamburg-a-71264e50-41dd-408f-8602-60bfbd483369#ref=rss)
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-donald-trump-ukraine-praesident-bricht-treffen-im-weissen-haus-ab](https://www.spiegel.de/ausland/wolodymyr-selenskyj-donald-trump-ukraine-praesident-bricht-treffen-im-weissen-haus-ab-a-f5363463-7aa6-4716-947e-0d74a0524f2b#ref=rss)
-* [https://www.spiegel.de/ausland/liveblog-wolodymyr-selenskyj-verlaesst-weisses-haus-gespraeche-mit-donald-trump-abgebrochen](https://www.spiegel.de/ausland/liveblog-wolodymyr-selenskyj-verlaesst-weisses-haus-gespraeche-mit-donald-trump-abgebrochen-a-656d319f-446b-432a-a147-b6796e59c1fb#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-wolodymyr-selenskyj-diplomatischer-abgrund-im-oval-office](https://www.spiegel.de/ausland/donald-trump-und-wolodymyr-selenskyj-diplomatischer-abgrund-im-oval-office-a-ff915fbb-9768-4a85-b9c2-dec9de3e5008#ref=rss)
-### haus
-
-* [https://www.spiegel.de/ausland/ukraine-donald-trump-lehnt-sofortige-gespraeche-mit-wolodymyr-selenskyj-ab](https://www.spiegel.de/ausland/ukraine-donald-trump-lehnt-sofortige-gespraeche-mit-wolodymyr-selenskyj-ab-a-e58a3f68-9280-4b4c-9555-d1a35ee21768#ref=rss)
-* [https://www.spiegel.de/politik/donald-trump-und-bundestagswahl-wie-man-im-krisenmodus-ruhig-bleibt](https://www.spiegel.de/politik/donald-trump-und-bundestagswahl-wie-man-im-krisenmodus-ruhig-bleibt-a-02b15f49-aac9-4c98-b258-838e4e101058#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-wolodymyr-selenskyj-oscar-kandidat-konklave-wahl-hamburg](https://www.spiegel.de/politik/deutschland/news-donald-trump-wolodymyr-selenskyj-oscar-kandidat-konklave-wahl-hamburg-a-71264e50-41dd-408f-8602-60bfbd483369#ref=rss)
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-donald-trump-ukraine-praesident-bricht-treffen-im-weissen-haus-ab](https://www.spiegel.de/ausland/wolodymyr-selenskyj-donald-trump-ukraine-praesident-bricht-treffen-im-weissen-haus-ab-a-f5363463-7aa6-4716-947e-0d74a0524f2b#ref=rss)
-* [https://www.spiegel.de/ausland/liveblog-wolodymyr-selenskyj-verlaesst-weisses-haus-gespraeche-mit-donald-trump-abgebrochen](https://www.spiegel.de/ausland/liveblog-wolodymyr-selenskyj-verlaesst-weisses-haus-gespraeche-mit-donald-trump-abgebrochen-a-656d319f-446b-432a-a147-b6796e59c1fb#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-wolodymyr-selenskyj-diplomatischer-abgrund-im-oval-office](https://www.spiegel.de/ausland/donald-trump-und-wolodymyr-selenskyj-diplomatischer-abgrund-im-oval-office-a-ff915fbb-9768-4a85-b9c2-dec9de3e5008#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/sport/bundesjugendspiele-ioc-chef-thomas-bach-kritisiert-reform-als-elend-pur](https://www.spiegel.de/sport/bundesjugendspiele-ioc-chef-thomas-bach-kritisiert-reform-als-elend-pur-a-e32c0c8e-2370-46ee-9e36-5afd523de3d3#ref=rss)
-* [https://www.spiegel.de/panorama/japan-groesster-waldbrand-seit-mehr-als-drei-jahrzehnten-in-praefektur-iwate](https://www.spiegel.de/panorama/japan-groesster-waldbrand-seit-mehr-als-drei-jahrzehnten-in-praefektur-iwate-a-bb0b1f2d-26ee-4e2a-a9a8-e79a3597efbe#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-im-camp-der-schurkenstaaten](https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-im-camp-der-schurkenstaaten-a-a7e89cd8-3754-45dd-b946-108f76a941f6#ref=rss)
-### treffen
-
-* [https://www.spiegel.de/ausland/donald-trump-und-wolodymyr-selenskyj-fuenf-hitzige-minuten-im-oval-office](https://www.spiegel.de/ausland/donald-trump-und-wolodymyr-selenskyj-fuenf-hitzige-minuten-im-oval-office-a-a958e87d-bdda-491e-a13c-ce4a89c36faf#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-donald-trump-lehnt-sofortige-gespraeche-mit-wolodymyr-selenskyj-ab](https://www.spiegel.de/ausland/ukraine-donald-trump-lehnt-sofortige-gespraeche-mit-wolodymyr-selenskyj-ab-a-e58a3f68-9280-4b4c-9555-d1a35ee21768#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-wolodymyr-selenskyj-oscar-kandidat-konklave-wahl-hamburg](https://www.spiegel.de/politik/deutschland/news-donald-trump-wolodymyr-selenskyj-oscar-kandidat-konklave-wahl-hamburg-a-71264e50-41dd-408f-8602-60bfbd483369#ref=rss)
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-donald-trump-ukraine-praesident-bricht-treffen-im-weissen-haus-ab](https://www.spiegel.de/ausland/wolodymyr-selenskyj-donald-trump-ukraine-praesident-bricht-treffen-im-weissen-haus-ab-a-f5363463-7aa6-4716-947e-0d74a0524f2b#ref=rss)
-### spd
-
-* [https://www.spiegel.de/politik/deutschland/markus-soeder-csu-chef-sieht-spd-als-partner-fuer-wandel](https://www.spiegel.de/politik/deutschland/markus-soeder-csu-chef-sieht-spd-als-partner-fuer-wandel-a-9131d7b7-74f4-4dfd-9797-cc956794897f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-in-hamburg-das-erfolgsrezept-des-unscheinbaren-herrn-tschentscher](https://www.spiegel.de/politik/deutschland/spd-in-hamburg-das-erfolgsrezept-des-unscheinbaren-herrn-tschentscher-a-be634734-e644-4d4b-ac14-a8d92b4111d3#ref=rss)
-* [https://www.spiegel.de/ausland/liveblog-wolodymyr-selenskyj-verlaesst-weisses-haus-gespraeche-mit-donald-trump-abgebrochen](https://www.spiegel.de/ausland/liveblog-wolodymyr-selenskyj-verlaesst-weisses-haus-gespraeche-mit-donald-trump-abgebrochen-a-656d319f-446b-432a-a147-b6796e59c1fb#ref=rss)
-### streit
-
-* [https://www.spiegel.de/ausland/was-der-streit-zwischen-wolodymyr-selenskyj-und-donald-trump-fuer-europa-bedeutet](https://www.spiegel.de/ausland/was-der-streit-zwischen-wolodymyr-selenskyj-und-donald-trump-fuer-europa-bedeutet-a-5d885b6e-4e45-46b3-9c47-0bc1ede535db#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-wolodymyr-selenskyj-fuenf-hitzige-minuten-im-oval-office](https://www.spiegel.de/ausland/donald-trump-und-wolodymyr-selenskyj-fuenf-hitzige-minuten-im-oval-office-a-a958e87d-bdda-491e-a13c-ce4a89c36faf#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-donald-trump-lehnt-sofortige-gespraeche-mit-wolodymyr-selenskyj-ab](https://www.spiegel.de/ausland/ukraine-donald-trump-lehnt-sofortige-gespraeche-mit-wolodymyr-selenskyj-ab-a-e58a3f68-9280-4b4c-9555-d1a35ee21768#ref=rss)
-* [https://www.spiegel.de/ausland/liveblog-wolodymyr-selenskyj-verlaesst-weisses-haus-gespraeche-mit-donald-trump-abgebrochen](https://www.spiegel.de/ausland/liveblog-wolodymyr-selenskyj-verlaesst-weisses-haus-gespraeche-mit-donald-trump-abgebrochen-a-656d319f-446b-432a-a147-b6796e59c1fb#ref=rss)
-### fordert
-
-* [https://www.spiegel.de/sport/bundesjugendspiele-ioc-chef-thomas-bach-kritisiert-reform-als-elend-pur](https://www.spiegel.de/sport/bundesjugendspiele-ioc-chef-thomas-bach-kritisiert-reform-als-elend-pur-a-e32c0c8e-2370-46ee-9e36-5afd523de3d3#ref=rss)
-* [https://www.spiegel.de/politik/fdp-nach-der-bundestagswahl-parteijugend-fordert-erneuerung-der-fuehrung](https://www.spiegel.de/politik/fdp-nach-der-bundestagswahl-parteijugend-fordert-erneuerung-der-fuehrung-a-692173fa-6cfe-4a6c-87be-7749bee0c7b4#ref=rss)
-* [https://www.spiegel.de/ausland/liveblog-wolodymyr-selenskyj-verlaesst-weisses-haus-gespraeche-mit-donald-trump-abgebrochen](https://www.spiegel.de/ausland/liveblog-wolodymyr-selenskyj-verlaesst-weisses-haus-gespraeche-mit-donald-trump-abgebrochen-a-656d319f-446b-432a-a147-b6796e59c1fb#ref=rss)
-### fdp
-
-* [https://www.spiegel.de/politik/fdp-nach-der-bundestagswahl-parteijugend-fordert-erneuerung-der-fuehrung](https://www.spiegel.de/politik/fdp-nach-der-bundestagswahl-parteijugend-fordert-erneuerung-der-fuehrung-a-692173fa-6cfe-4a6c-87be-7749bee0c7b4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/fdp-in-der-krise-traenen-und-weisswein](https://www.spiegel.de/politik/deutschland/fdp-in-der-krise-traenen-und-weisswein-a-0aeae370-1850-4eaf-805a-0172a597abeb#ref=rss)
-### hamburg
-
-* [https://www.spiegel.de/politik/deutschland/spd-in-hamburg-das-erfolgsrezept-des-unscheinbaren-herrn-tschentscher](https://www.spiegel.de/politik/deutschland/spd-in-hamburg-das-erfolgsrezept-des-unscheinbaren-herrn-tschentscher-a-be634734-e644-4d4b-ac14-a8d92b4111d3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-wolodymyr-selenskyj-oscar-kandidat-konklave-wahl-hamburg](https://www.spiegel.de/politik/deutschland/news-donald-trump-wolodymyr-selenskyj-oscar-kandidat-konklave-wahl-hamburg-a-71264e50-41dd-408f-8602-60bfbd483369#ref=rss)
+* [https://www.spiegel.de/politik/weisses-haus-das-sagt-aussenministerin-annalena-baerbock-nach-eklat-livestream](https://www.spiegel.de/politik/weisses-haus-das-sagt-aussenministerin-annalena-baerbock-nach-eklat-livestream-a-3a916922-9c26-44e9-95d7-bc25b5d54088#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-hat-jetzt-keine-zeit-mehr-zu-verlieren](https://www.spiegel.de/politik/deutschland/friedrich-merz-hat-jetzt-keine-zeit-mehr-zu-verlieren-a-00886b2f-c62c-4be6-b05a-7aace0681383#ref=rss)
 ### eklat
 
-* [https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-im-camp-der-schurkenstaaten](https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-im-camp-der-schurkenstaaten-a-a7e89cd8-3754-45dd-b946-108f76a941f6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-wolodymyr-selenskyj-oscar-kandidat-konklave-wahl-hamburg](https://www.spiegel.de/politik/deutschland/news-donald-trump-wolodymyr-selenskyj-oscar-kandidat-konklave-wahl-hamburg-a-71264e50-41dd-408f-8602-60bfbd483369#ref=rss)
+* [https://www.spiegel.de/ausland/diese-waffen-braucht-die-ukraine-von-den-usa](https://www.spiegel.de/ausland/diese-waffen-braucht-die-ukraine-von-den-usa-a-f1f43d18-d4cd-4a39-ba5a-9db10814c990#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-ungewisse-zukunft-nach-eklat-im-weissen-haus](https://www.spiegel.de/ausland/ukraine-ungewisse-zukunft-nach-eklat-im-weissen-haus-a-3c84ef41-c1d1-47e5-9a9b-d0c55d2d79d5#ref=rss)
+* [https://www.spiegel.de/politik/weisses-haus-das-sagt-aussenministerin-annalena-baerbock-nach-eklat-livestream](https://www.spiegel.de/politik/weisses-haus-das-sagt-aussenministerin-annalena-baerbock-nach-eklat-livestream-a-3a916922-9c26-44e9-95d7-bc25b5d54088#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-hat-jetzt-keine-zeit-mehr-zu-verlieren](https://www.spiegel.de/politik/deutschland/friedrich-merz-hat-jetzt-keine-zeit-mehr-zu-verlieren-a-00886b2f-c62c-4be6-b05a-7aace0681383#ref=rss)
+### haus
+
+* [https://www.spiegel.de/ausland/diese-waffen-braucht-die-ukraine-von-den-usa](https://www.spiegel.de/ausland/diese-waffen-braucht-die-ukraine-von-den-usa-a-f1f43d18-d4cd-4a39-ba5a-9db10814c990#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-ungewisse-zukunft-nach-eklat-im-weissen-haus](https://www.spiegel.de/ausland/ukraine-ungewisse-zukunft-nach-eklat-im-weissen-haus-a-3c84ef41-c1d1-47e5-9a9b-d0c55d2d79d5#ref=rss)
 * [https://www.spiegel.de/ausland/liveblog-wolodymyr-selenskyj-verlaesst-weisses-haus-gespraeche-mit-donald-trump-abgebrochen](https://www.spiegel.de/ausland/liveblog-wolodymyr-selenskyj-verlaesst-weisses-haus-gespraeche-mit-donald-trump-abgebrochen-a-656d319f-446b-432a-a147-b6796e59c1fb#ref=rss)
-### medien
+* [https://www.spiegel.de/politik/weisses-haus-das-sagt-aussenministerin-annalena-baerbock-nach-eklat-livestream](https://www.spiegel.de/politik/weisses-haus-das-sagt-aussenministerin-annalena-baerbock-nach-eklat-livestream-a-3a916922-9c26-44e9-95d7-bc25b5d54088#ref=rss)
+### eltern
 
-* [https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-internationale-medien-besorgt-ueber-eskalation](https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-internationale-medien-besorgt-ueber-eskalation-a-7f571ac1-806b-48e0-9460-70d8414f0c05#ref=rss)
-* [https://www.spiegel.de/ausland/pkk-verkuendet-sofortige-waffenruhe-mit-der-tuerkei](https://www.spiegel.de/ausland/pkk-verkuendet-sofortige-waffenruhe-mit-der-tuerkei-a-fdb4c31d-b535-407f-90ee-8235d3ecb878#ref=rss)
-### eskalation
+* [https://www.spiegel.de/familie/cycle-breaking-wie-sich-eltern-aus-schaedlichen-erziehungsmustern-befreien-podcast-mit-leandra-vogt](https://www.spiegel.de/familie/cycle-breaking-wie-sich-eltern-aus-schaedlichen-erziehungsmustern-befreien-podcast-mit-leandra-vogt-a-787b9890-15ea-4b99-bc4e-399a910d98ef#ref=rss)
+* [https://www.spiegel.de/familie/eltern-und-philosophie-der-taegliche-zwang-im-familienalltag](https://www.spiegel.de/familie/eltern-und-philosophie-der-taegliche-zwang-im-familienalltag-a-11be5663-893c-4793-8c79-2de9fd5082fd#ref=rss)
+### finden
 
-* [https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-internationale-medien-besorgt-ueber-eskalation](https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-internationale-medien-besorgt-ueber-eskalation-a-7f571ac1-806b-48e0-9460-70d8414f0c05#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-wolodymyr-selenskyj-fuenf-hitzige-minuten-im-oval-office](https://www.spiegel.de/ausland/donald-trump-und-wolodymyr-selenskyj-fuenf-hitzige-minuten-im-oval-office-a-a958e87d-bdda-491e-a13c-ce4a89c36faf#ref=rss)
-### folgen
+* [https://www.spiegel.de/wissenschaft/technik/leichenspuerhunde-ein-belgier-will-hunde-anleiten-skelette-von-mordopfern-zu-finden](https://www.spiegel.de/wissenschaft/technik/leichenspuerhunde-ein-belgier-will-hunde-anleiten-skelette-von-mordopfern-zu-finden-a-af9e32b7-5d17-4180-8878-1e02b7363546#ref=rss)
+* [https://www.spiegel.de/kultur/kino/oscars-2025-nominierungen-alle-nominierten-der-academy-awards-in-der-uebersicht](https://www.spiegel.de/kultur/kino/oscars-2025-nominierungen-alle-nominierten-der-academy-awards-in-der-uebersicht-a-3987f1a4-0495-4f2c-9b19-c9dfd03a2920#ref=rss)
+### weißen
 
-* [https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-internationale-medien-besorgt-ueber-eskalation](https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-internationale-medien-besorgt-ueber-eskalation-a-7f571ac1-806b-48e0-9460-70d8414f0c05#ref=rss)
-* [https://www.spiegel.de/ausland/was-der-streit-zwischen-wolodymyr-selenskyj-und-donald-trump-fuer-europa-bedeutet](https://www.spiegel.de/ausland/was-der-streit-zwischen-wolodymyr-selenskyj-und-donald-trump-fuer-europa-bedeutet-a-5d885b6e-4e45-46b3-9c47-0bc1ede535db#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-wolodymyr-selenskyj-diplomatischer-abgrund-im-oval-office](https://www.spiegel.de/ausland/donald-trump-und-wolodymyr-selenskyj-diplomatischer-abgrund-im-oval-office-a-ff915fbb-9768-4a85-b9c2-dec9de3e5008#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/sport/fussball/max-eberl-und-der-fc-bayern-muenchen-das-zweite-jahr-ist-immer-das-schwerste](https://www.spiegel.de/sport/fussball/max-eberl-und-der-fc-bayern-muenchen-das-zweite-jahr-ist-immer-das-schwerste-a-a2391b76-1ee7-4ce7-8d38-2363d4c0de71#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-dreht-rueckstand-beim-vfb-stuttgart-leon-goretzka-sagt-sein-fuehrungstor-voraus](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-dreht-rueckstand-beim-vfb-stuttgart-leon-goretzka-sagt-sein-fuehrungstor-voraus-a-a929471b-db96-46ca-a055-ea1f2b0e2b71#ref=rss)
-### bundestagswahl
-
-* [https://www.spiegel.de/politik/fdp-nach-der-bundestagswahl-parteijugend-fordert-erneuerung-der-fuehrung](https://www.spiegel.de/politik/fdp-nach-der-bundestagswahl-parteijugend-fordert-erneuerung-der-fuehrung-a-692173fa-6cfe-4a6c-87be-7749bee0c7b4#ref=rss)
-* [https://www.spiegel.de/politik/donald-trump-und-bundestagswahl-wie-man-im-krisenmodus-ruhig-bleibt](https://www.spiegel.de/politik/donald-trump-und-bundestagswahl-wie-man-im-krisenmodus-ruhig-bleibt-a-02b15f49-aac9-4c98-b258-838e4e101058#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-in-hamburg-das-erfolgsrezept-des-unscheinbaren-herrn-tschentscher](https://www.spiegel.de/politik/deutschland/spd-in-hamburg-das-erfolgsrezept-des-unscheinbaren-herrn-tschentscher-a-be634734-e644-4d4b-ac14-a8d92b4111d3#ref=rss)
-### drei
-
-* [https://www.spiegel.de/panorama/japan-groesster-waldbrand-seit-mehr-als-drei-jahrzehnten-in-praefektur-iwate](https://www.spiegel.de/panorama/japan-groesster-waldbrand-seit-mehr-als-drei-jahrzehnten-in-praefektur-iwate-a-bb0b1f2d-26ee-4e2a-a9a8-e79a3597efbe#ref=rss)
-* [https://www.spiegel.de/ausland/franzoesisches-ueberseegebiet-zyklon-garance-wuetet-auf-la-reunion-mindestens-drei-tote](https://www.spiegel.de/ausland/franzoesisches-ueberseegebiet-zyklon-garance-wuetet-auf-la-reunion-mindestens-drei-tote-a-3c214cdd-87b9-47c9-9337-df1854e61f29#ref=rss)
-### sofortige
-
-* [https://www.spiegel.de/ausland/pkk-verkuendet-sofortige-waffenruhe-mit-der-tuerkei](https://www.spiegel.de/ausland/pkk-verkuendet-sofortige-waffenruhe-mit-der-tuerkei-a-fdb4c31d-b535-407f-90ee-8235d3ecb878#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-donald-trump-lehnt-sofortige-gespraeche-mit-wolodymyr-selenskyj-ab](https://www.spiegel.de/ausland/ukraine-donald-trump-lehnt-sofortige-gespraeche-mit-wolodymyr-selenskyj-ab-a-e58a3f68-9280-4b4c-9555-d1a35ee21768#ref=rss)
-### partei
-
-* [https://www.spiegel.de/ausland/pkk-verkuendet-sofortige-waffenruhe-mit-der-tuerkei](https://www.spiegel.de/ausland/pkk-verkuendet-sofortige-waffenruhe-mit-der-tuerkei-a-fdb4c31d-b535-407f-90ee-8235d3ecb878#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bsw-krise-kann-katja-wolf-die-partei-von-sahra-wagenknecht-retten](https://www.spiegel.de/politik/deutschland/bsw-krise-kann-katja-wolf-die-partei-von-sahra-wagenknecht-retten-a-91ef5e3c-1733-4494-949c-1e2f36f4d197#ref=rss)
-### markus
-
-* [https://www.spiegel.de/politik/deutschland/markus-soeder-csu-chef-sieht-spd-als-partner-fuer-wandel](https://www.spiegel.de/politik/deutschland/markus-soeder-csu-chef-sieht-spd-als-partner-fuer-wandel-a-9131d7b7-74f4-4dfd-9797-cc956794897f#ref=rss)
-### söder
-
-* [https://www.spiegel.de/politik/deutschland/markus-soeder-csu-chef-sieht-spd-als-partner-fuer-wandel](https://www.spiegel.de/politik/deutschland/markus-soeder-csu-chef-sieht-spd-als-partner-fuer-wandel-a-9131d7b7-74f4-4dfd-9797-cc956794897f#ref=rss)
-### csuchef
-
-* [https://www.spiegel.de/politik/deutschland/markus-soeder-csu-chef-sieht-spd-als-partner-fuer-wandel](https://www.spiegel.de/politik/deutschland/markus-soeder-csu-chef-sieht-spd-als-partner-fuer-wandel-a-9131d7b7-74f4-4dfd-9797-cc956794897f#ref=rss)
-### sieht
-
-* [https://www.spiegel.de/politik/deutschland/markus-soeder-csu-chef-sieht-spd-als-partner-fuer-wandel](https://www.spiegel.de/politik/deutschland/markus-soeder-csu-chef-sieht-spd-als-partner-fuer-wandel-a-9131d7b7-74f4-4dfd-9797-cc956794897f#ref=rss)
+* [https://www.spiegel.de/ausland/diese-waffen-braucht-die-ukraine-von-den-usa](https://www.spiegel.de/ausland/diese-waffen-braucht-die-ukraine-von-den-usa-a-f1f43d18-d4cd-4a39-ba5a-9db10814c990#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-ungewisse-zukunft-nach-eklat-im-weissen-haus](https://www.spiegel.de/ausland/ukraine-ungewisse-zukunft-nach-eklat-im-weissen-haus-a-3c84ef41-c1d1-47e5-9a9b-d0c55d2d79d5#ref=rss)
 * [https://www.spiegel.de/ausland/liveblog-wolodymyr-selenskyj-verlaesst-weisses-haus-gespraeche-mit-donald-trump-abgebrochen](https://www.spiegel.de/ausland/liveblog-wolodymyr-selenskyj-verlaesst-weisses-haus-gespraeche-mit-donald-trump-abgebrochen-a-656d319f-446b-432a-a147-b6796e59c1fb#ref=rss)
-### ersten
+### pilz
 
-* [https://www.spiegel.de/politik/deutschland/markus-soeder-csu-chef-sieht-spd-als-partner-fuer-wandel](https://www.spiegel.de/politik/deutschland/markus-soeder-csu-chef-sieht-spd-als-partner-fuer-wandel-a-9131d7b7-74f4-4dfd-9797-cc956794897f#ref=rss)
-* [https://www.spiegel.de/sport/stabhochsprung-armand-duplantis-verbessert-weltrekord-auf-6-27-meter](https://www.spiegel.de/sport/stabhochsprung-armand-duplantis-verbessert-weltrekord-auf-6-27-meter-a-be894abc-e478-4f2d-976e-1e4626a6dc5e#ref=rss)
-### sondierungen
+* [https://www.spiegel.de/ausland/oesterreich-peter-pilz-in-der-causa-pilnacek-vor-gericht-podcast](https://www.spiegel.de/ausland/oesterreich-peter-pilz-in-der-causa-pilnacek-vor-gericht-podcast-a-09eac3f2-a25f-46bf-a8ad-e6edd64cf2db#ref=rss)
+### oscars
 
-* [https://www.spiegel.de/politik/deutschland/markus-soeder-csu-chef-sieht-spd-als-partner-fuer-wandel](https://www.spiegel.de/politik/deutschland/markus-soeder-csu-chef-sieht-spd-als-partner-fuer-wandel-a-9131d7b7-74f4-4dfd-9797-cc956794897f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-wolodymyr-selenskyj-oscar-kandidat-konklave-wahl-hamburg](https://www.spiegel.de/politik/deutschland/news-donald-trump-wolodymyr-selenskyj-oscar-kandidat-konklave-wahl-hamburg-a-71264e50-41dd-408f-8602-60bfbd483369#ref=rss)
-### internationale
+* [https://www.spiegel.de/kultur/kino/oscars-2025-die-legende-vom-liberalen-hollywood](https://www.spiegel.de/kultur/kino/oscars-2025-die-legende-vom-liberalen-hollywood-a-42291b21-e18a-463a-a6f9-fc61ac4aa37e#ref=rss)
+* [https://www.spiegel.de/kultur/kino/oscars-2025-nominierungen-alle-nominierten-der-academy-awards-in-der-uebersicht](https://www.spiegel.de/kultur/kino/oscars-2025-nominierungen-alle-nominierten-der-academy-awards-in-der-uebersicht-a-3987f1a4-0495-4f2c-9b19-c9dfd03a2920#ref=rss)
+### 2025
 
-* [https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-internationale-medien-besorgt-ueber-eskalation](https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-internationale-medien-besorgt-ueber-eskalation-a-7f571ac1-806b-48e0-9460-70d8414f0c05#ref=rss)
-### uspräsident
+* [https://www.spiegel.de/kultur/kino/oscars-2025-die-legende-vom-liberalen-hollywood](https://www.spiegel.de/kultur/kino/oscars-2025-die-legende-vom-liberalen-hollywood-a-42291b21-e18a-463a-a6f9-fc61ac4aa37e#ref=rss)
+* [https://www.spiegel.de/kultur/kino/oscars-2025-nominierungen-alle-nominierten-der-academy-awards-in-der-uebersicht](https://www.spiegel.de/kultur/kino/oscars-2025-nominierungen-alle-nominierten-der-academy-awards-in-der-uebersicht-a-3987f1a4-0495-4f2c-9b19-c9dfd03a2920#ref=rss)
+* [https://www.spiegel.de/kultur/kino/oscar-2025-im-datencheck-werden-filme-laenger-und-schauspielerinnen-juenger](https://www.spiegel.de/kultur/kino/oscar-2025-im-datencheck-werden-filme-laenger-und-schauspielerinnen-juenger-a-c68756ae-5413-41fa-92f0-c8e0e30571b0#ref=rss)
+### fragen
 
-* [https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-internationale-medien-besorgt-ueber-eskalation](https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-internationale-medien-besorgt-ueber-eskalation-a-7f571ac1-806b-48e0-9460-70d8414f0c05#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-wolodymyr-selenskyj-diplomatischer-abgrund-im-oval-office](https://www.spiegel.de/ausland/donald-trump-und-wolodymyr-selenskyj-diplomatischer-abgrund-im-oval-office-a-ff915fbb-9768-4a85-b9c2-dec9de3e5008#ref=rss)
-### ukrainischen
-
-* [https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-internationale-medien-besorgt-ueber-eskalation](https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-internationale-medien-besorgt-ueber-eskalation-a-7f571ac1-806b-48e0-9460-70d8414f0c05#ref=rss)
-* [https://www.spiegel.de/ausland/was-der-streit-zwischen-wolodymyr-selenskyj-und-donald-trump-fuer-europa-bedeutet](https://www.spiegel.de/ausland/was-der-streit-zwischen-wolodymyr-selenskyj-und-donald-trump-fuer-europa-bedeutet-a-5d885b6e-4e45-46b3-9c47-0bc1ede535db#ref=rss)
-### europa
-
-* [https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-internationale-medien-besorgt-ueber-eskalation](https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-internationale-medien-besorgt-ueber-eskalation-a-7f571ac1-806b-48e0-9460-70d8414f0c05#ref=rss)
-* [https://www.spiegel.de/ausland/was-der-streit-zwischen-wolodymyr-selenskyj-und-donald-trump-fuer-europa-bedeutet](https://www.spiegel.de/ausland/was-der-streit-zwischen-wolodymyr-selenskyj-und-donald-trump-fuer-europa-bedeutet-a-5d885b6e-4e45-46b3-9c47-0bc1ede535db#ref=rss)
-### führen
-
-* [https://www.spiegel.de/ausland/was-der-streit-zwischen-wolodymyr-selenskyj-und-donald-trump-fuer-europa-bedeutet](https://www.spiegel.de/ausland/was-der-streit-zwischen-wolodymyr-selenskyj-und-donald-trump-fuer-europa-bedeutet-a-5d885b6e-4e45-46b3-9c47-0bc1ede535db#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/ransomware-gruppe-black-basta-wie-ein-mutmasslicher-erpresser-aus-russland-der-justiz-entkam](https://www.spiegel.de/netzwelt/web/ransomware-gruppe-black-basta-wie-ein-mutmasslicher-erpresser-aus-russland-der-justiz-entkam-a-df47e7f1-69de-4d60-bc34-af22e6e8fc05#ref=rss)
-### max
-
-* [https://www.spiegel.de/sport/fussball/max-eberl-und-der-fc-bayern-muenchen-das-zweite-jahr-ist-immer-das-schwerste](https://www.spiegel.de/sport/fussball/max-eberl-und-der-fc-bayern-muenchen-das-zweite-jahr-ist-immer-das-schwerste-a-a2391b76-1ee7-4ce7-8d38-2363d4c0de71#ref=rss)
-### eberl
-
-* [https://www.spiegel.de/sport/fussball/max-eberl-und-der-fc-bayern-muenchen-das-zweite-jahr-ist-immer-das-schwerste](https://www.spiegel.de/sport/fussball/max-eberl-und-der-fc-bayern-muenchen-das-zweite-jahr-ist-immer-das-schwerste-a-a2391b76-1ee7-4ce7-8d38-2363d4c0de71#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/max-eberl-und-der-fc-bayern-muenchen-das-zweite-jahr-ist-immer-das-schwerste](https://www.spiegel.de/sport/fussball/max-eberl-und-der-fc-bayern-muenchen-das-zweite-jahr-ist-immer-das-schwerste-a-a2391b76-1ee7-4ce7-8d38-2363d4c0de71#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-dreht-rueckstand-beim-vfb-stuttgart-leon-goretzka-sagt-sein-fuehrungstor-voraus](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-dreht-rueckstand-beim-vfb-stuttgart-leon-goretzka-sagt-sein-fuehrungstor-voraus-a-a929471b-db96-46ca-a055-ea1f2b0e2b71#ref=rss)
-### münchen
-
-* [https://www.spiegel.de/sport/fussball/max-eberl-und-der-fc-bayern-muenchen-das-zweite-jahr-ist-immer-das-schwerste](https://www.spiegel.de/sport/fussball/max-eberl-und-der-fc-bayern-muenchen-das-zweite-jahr-ist-immer-das-schwerste-a-a2391b76-1ee7-4ce7-8d38-2363d4c0de71#ref=rss)
-### lage
-
-* [https://www.spiegel.de/sport/fussball/max-eberl-und-der-fc-bayern-muenchen-das-zweite-jahr-ist-immer-das-schwerste](https://www.spiegel.de/sport/fussball/max-eberl-und-der-fc-bayern-muenchen-das-zweite-jahr-ist-immer-das-schwerste-a-a2391b76-1ee7-4ce7-8d38-2363d4c0de71#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-wolodymyr-selenskyj-oscar-kandidat-konklave-wahl-hamburg](https://www.spiegel.de/politik/deutschland/news-donald-trump-wolodymyr-selenskyj-oscar-kandidat-konklave-wahl-hamburg-a-71264e50-41dd-408f-8602-60bfbd483369#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/sport/fussball/max-eberl-und-der-fc-bayern-muenchen-das-zweite-jahr-ist-immer-das-schwerste](https://www.spiegel.de/sport/fussball/max-eberl-und-der-fc-bayern-muenchen-das-zweite-jahr-ist-immer-das-schwerste-a-a2391b76-1ee7-4ce7-8d38-2363d4c0de71#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-im-camp-der-schurkenstaaten](https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-im-camp-der-schurkenstaaten-a-a7e89cd8-3754-45dd-b946-108f76a941f6#ref=rss)
-### black
-
-* [https://www.spiegel.de/netzwelt/web/ransomware-gruppe-black-basta-wie-ein-mutmasslicher-erpresser-aus-russland-der-justiz-entkam](https://www.spiegel.de/netzwelt/web/ransomware-gruppe-black-basta-wie-ein-mutmasslicher-erpresser-aus-russland-der-justiz-entkam-a-df47e7f1-69de-4d60-bc34-af22e6e8fc05#ref=rss)
-### basta
-
-* [https://www.spiegel.de/netzwelt/web/ransomware-gruppe-black-basta-wie-ein-mutmasslicher-erpresser-aus-russland-der-justiz-entkam](https://www.spiegel.de/netzwelt/web/ransomware-gruppe-black-basta-wie-ein-mutmasslicher-erpresser-aus-russland-der-justiz-entkam-a-df47e7f1-69de-4d60-bc34-af22e6e8fc05#ref=rss)
-### erpresser
-
-* [https://www.spiegel.de/netzwelt/web/ransomware-gruppe-black-basta-wie-ein-mutmasslicher-erpresser-aus-russland-der-justiz-entkam](https://www.spiegel.de/netzwelt/web/ransomware-gruppe-black-basta-wie-ein-mutmasslicher-erpresser-aus-russland-der-justiz-entkam-a-df47e7f1-69de-4d60-bc34-af22e6e8fc05#ref=rss)
-### gesetz
-
-* [https://www.spiegel.de/netzwelt/web/ransomware-gruppe-black-basta-wie-ein-mutmasslicher-erpresser-aus-russland-der-justiz-entkam](https://www.spiegel.de/netzwelt/web/ransomware-gruppe-black-basta-wie-ein-mutmasslicher-erpresser-aus-russland-der-justiz-entkam-a-df47e7f1-69de-4d60-bc34-af22e6e8fc05#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-im-camp-der-schurkenstaaten](https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-im-camp-der-schurkenstaaten-a-a7e89cd8-3754-45dd-b946-108f76a941f6#ref=rss)
-### bundesjugendspiele
-
-* [https://www.spiegel.de/sport/bundesjugendspiele-ioc-chef-thomas-bach-kritisiert-reform-als-elend-pur](https://www.spiegel.de/sport/bundesjugendspiele-ioc-chef-thomas-bach-kritisiert-reform-als-elend-pur-a-e32c0c8e-2370-46ee-9e36-5afd523de3d3#ref=rss)
-### thomas
-
-* [https://www.spiegel.de/sport/bundesjugendspiele-ioc-chef-thomas-bach-kritisiert-reform-als-elend-pur](https://www.spiegel.de/sport/bundesjugendspiele-ioc-chef-thomas-bach-kritisiert-reform-als-elend-pur-a-e32c0c8e-2370-46ee-9e36-5afd523de3d3#ref=rss)
-### bach
-
-* [https://www.spiegel.de/sport/bundesjugendspiele-ioc-chef-thomas-bach-kritisiert-reform-als-elend-pur](https://www.spiegel.de/sport/bundesjugendspiele-ioc-chef-thomas-bach-kritisiert-reform-als-elend-pur-a-e32c0c8e-2370-46ee-9e36-5afd523de3d3#ref=rss)
-### reform
-
-* [https://www.spiegel.de/sport/bundesjugendspiele-ioc-chef-thomas-bach-kritisiert-reform-als-elend-pur](https://www.spiegel.de/sport/bundesjugendspiele-ioc-chef-thomas-bach-kritisiert-reform-als-elend-pur-a-e32c0c8e-2370-46ee-9e36-5afd523de3d3#ref=rss)
-### parteijugend
-
-* [https://www.spiegel.de/politik/fdp-nach-der-bundestagswahl-parteijugend-fordert-erneuerung-der-fuehrung](https://www.spiegel.de/politik/fdp-nach-der-bundestagswahl-parteijugend-fordert-erneuerung-der-fuehrung-a-692173fa-6cfe-4a6c-87be-7749bee0c7b4#ref=rss)
-### lindner
-
-* [https://www.spiegel.de/politik/fdp-nach-der-bundestagswahl-parteijugend-fordert-erneuerung-der-fuehrung](https://www.spiegel.de/politik/fdp-nach-der-bundestagswahl-parteijugend-fordert-erneuerung-der-fuehrung-a-692173fa-6cfe-4a6c-87be-7749bee0c7b4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/fdp-in-der-krise-traenen-und-weisswein](https://www.spiegel.de/politik/deutschland/fdp-in-der-krise-traenen-und-weisswein-a-0aeae370-1850-4eaf-805a-0172a597abeb#ref=rss)
-### iwate
-
-* [https://www.spiegel.de/panorama/japan-groesster-waldbrand-seit-mehr-als-drei-jahrzehnten-in-praefektur-iwate](https://www.spiegel.de/panorama/japan-groesster-waldbrand-seit-mehr-als-drei-jahrzehnten-in-praefektur-iwate-a-bb0b1f2d-26ee-4e2a-a9a8-e79a3597efbe#ref=rss)
-### unklar
-
-* [https://www.spiegel.de/politik/deutschland/fdp-in-der-krise-traenen-und-weisswein](https://www.spiegel.de/politik/deutschland/fdp-in-der-krise-traenen-und-weisswein-a-0aeae370-1850-4eaf-805a-0172a597abeb#ref=rss)
-* [https://www.spiegel.de/panorama/leute/elon-musk-ist-schon-wieder-vater-geworden](https://www.spiegel.de/panorama/leute/elon-musk-ist-schon-wieder-vater-geworden-a-35f023b6-8e52-4b9a-a843-9c003cfaf97e#ref=rss)
-### gespräch
-
-* [https://www.spiegel.de/ausland/donald-trump-und-wolodymyr-selenskyj-fuenf-hitzige-minuten-im-oval-office](https://www.spiegel.de/ausland/donald-trump-und-wolodymyr-selenskyj-fuenf-hitzige-minuten-im-oval-office-a-a958e87d-bdda-491e-a13c-ce4a89c36faf#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-donald-trump-dominiert-gespraech-mit-wolodymyr-selenskyj](https://www.spiegel.de/ausland/ukraine-donald-trump-dominiert-gespraech-mit-wolodymyr-selenskyj-a-92ffb38d-5bb6-4fd1-bc68-7981eb8199df#ref=rss)
-### pkk
-
-* [https://www.spiegel.de/ausland/pkk-verkuendet-sofortige-waffenruhe-mit-der-tuerkei](https://www.spiegel.de/ausland/pkk-verkuendet-sofortige-waffenruhe-mit-der-tuerkei-a-fdb4c31d-b535-407f-90ee-8235d3ecb878#ref=rss)
-### kurdische
-
-* [https://www.spiegel.de/ausland/pkk-verkuendet-sofortige-waffenruhe-mit-der-tuerkei](https://www.spiegel.de/ausland/pkk-verkuendet-sofortige-waffenruhe-mit-der-tuerkei-a-fdb4c31d-b535-407f-90ee-8235d3ecb878#ref=rss)
-### mann
-
-* [https://www.spiegel.de/ausland/ukraine-donald-trump-lehnt-sofortige-gespraeche-mit-wolodymyr-selenskyj-ab](https://www.spiegel.de/ausland/ukraine-donald-trump-lehnt-sofortige-gespraeche-mit-wolodymyr-selenskyj-ab-a-e58a3f68-9280-4b4c-9555-d1a35ee21768#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-in-hamburg-das-erfolgsrezept-des-unscheinbaren-herrn-tschentscher](https://www.spiegel.de/politik/deutschland/spd-in-hamburg-das-erfolgsrezept-des-unscheinbaren-herrn-tschentscher-a-be634734-e644-4d4b-ac14-a8d92b4111d3#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/ausland/ukraine-donald-trump-lehnt-sofortige-gespraeche-mit-wolodymyr-selenskyj-ab](https://www.spiegel.de/ausland/ukraine-donald-trump-lehnt-sofortige-gespraeche-mit-wolodymyr-selenskyj-ab-a-e58a3f68-9280-4b4c-9555-d1a35ee21768#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-dreht-rueckstand-beim-vfb-stuttgart-leon-goretzka-sagt-sein-fuehrungstor-voraus](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-dreht-rueckstand-beim-vfb-stuttgart-leon-goretzka-sagt-sein-fuehrungstor-voraus-a-a929471b-db96-46ca-a055-ea1f2b0e2b71#ref=rss)
-### bleibt
-
-* [https://www.spiegel.de/politik/donald-trump-und-bundestagswahl-wie-man-im-krisenmodus-ruhig-bleibt](https://www.spiegel.de/politik/donald-trump-und-bundestagswahl-wie-man-im-krisenmodus-ruhig-bleibt-a-02b15f49-aac9-4c98-b258-838e4e101058#ref=rss)
-* [https://www.spiegel.de/panorama/leute/elon-musk-ist-schon-wieder-vater-geworden](https://www.spiegel.de/panorama/leute/elon-musk-ist-schon-wieder-vater-geworden-a-35f023b6-8e52-4b9a-a843-9c003cfaf97e#ref=rss)
-### welt
-
-* [https://www.spiegel.de/politik/donald-trump-und-bundestagswahl-wie-man-im-krisenmodus-ruhig-bleibt](https://www.spiegel.de/politik/donald-trump-und-bundestagswahl-wie-man-im-krisenmodus-ruhig-bleibt-a-02b15f49-aac9-4c98-b258-838e4e101058#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-im-camp-der-schurkenstaaten](https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-im-camp-der-schurkenstaaten-a-a7e89cd8-3754-45dd-b946-108f76a941f6#ref=rss)
-### katja
-
-* [https://www.spiegel.de/politik/deutschland/bsw-krise-kann-katja-wolf-die-partei-von-sahra-wagenknecht-retten](https://www.spiegel.de/politik/deutschland/bsw-krise-kann-katja-wolf-die-partei-von-sahra-wagenknecht-retten-a-91ef5e3c-1733-4494-949c-1e2f36f4d197#ref=rss)
-### wolf
-
-* [https://www.spiegel.de/politik/deutschland/bsw-krise-kann-katja-wolf-die-partei-von-sahra-wagenknecht-retten](https://www.spiegel.de/politik/deutschland/bsw-krise-kann-katja-wolf-die-partei-von-sahra-wagenknecht-retten-a-91ef5e3c-1733-4494-949c-1e2f36f4d197#ref=rss)
-### sahra
-
-* [https://www.spiegel.de/politik/deutschland/bsw-krise-kann-katja-wolf-die-partei-von-sahra-wagenknecht-retten](https://www.spiegel.de/politik/deutschland/bsw-krise-kann-katja-wolf-die-partei-von-sahra-wagenknecht-retten-a-91ef5e3c-1733-4494-949c-1e2f36f4d197#ref=rss)
-### retten
-
-* [https://www.spiegel.de/politik/deutschland/bsw-krise-kann-katja-wolf-die-partei-von-sahra-wagenknecht-retten](https://www.spiegel.de/politik/deutschland/bsw-krise-kann-katja-wolf-die-partei-von-sahra-wagenknecht-retten-a-91ef5e3c-1733-4494-949c-1e2f36f4d197#ref=rss)
-### afd
-
-* [https://www.spiegel.de/politik/deutschland/umgang-mit-der-afd-die-brandmauer-loest-keine-probleme](https://www.spiegel.de/politik/deutschland/umgang-mit-der-afd-die-brandmauer-loest-keine-probleme-a-722607cb-64a7-44aa-92cf-7eb88a075fb8#ref=rss)
-### leben
-
-* [https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-im-camp-der-schurkenstaaten](https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-im-camp-der-schurkenstaaten-a-a7e89cd8-3754-45dd-b946-108f76a941f6#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-wolodymyr-selenskyj-diplomatischer-abgrund-im-oval-office](https://www.spiegel.de/ausland/donald-trump-und-wolodymyr-selenskyj-diplomatischer-abgrund-im-oval-office-a-ff915fbb-9768-4a85-b9c2-dec9de3e5008#ref=rss)
-### tod
-
-* [https://www.spiegel.de/familie/tod-der-mutter-fotoprojekt-von-toechtern-ueber-verlust](https://www.spiegel.de/familie/tod-der-mutter-fotoprojekt-von-toechtern-ueber-verlust-a-1740241c-71c0-43ab-a31e-c2267d676909#ref=rss)
-* [https://www.spiegel.de/panorama/gene-hackman-herzschrittmacher-gibt-hinweis-auf-zeitpunkt-des-todes](https://www.spiegel.de/panorama/gene-hackman-herzschrittmacher-gibt-hinweis-auf-zeitpunkt-des-todes-a-8f974422-258c-48ec-b53e-3e1e246e4037#ref=rss)
+* [https://www.spiegel.de/kultur/kino/oscars-2025-die-legende-vom-liberalen-hollywood](https://www.spiegel.de/kultur/kino/oscars-2025-die-legende-vom-liberalen-hollywood-a-42291b21-e18a-463a-a6f9-fc61ac4aa37e#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
 ### neue
 
-* [https://www.spiegel.de/kultur/tv/netflix-disney-amazon-prime-neue-serien-und-filme-im-maerz-2025-was-sich-jetzt-lohnt](https://www.spiegel.de/kultur/tv/netflix-disney-amazon-prime-neue-serien-und-filme-im-maerz-2025-was-sich-jetzt-lohnt-a-0f20d6cb-231a-4cdf-b45e-c53269d12b09#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/linke-nennt-russland-aggressor-will-der-ukraine-aber-keine-waffen-liefern](https://www.spiegel.de/politik/deutschland/linke-nennt-russland-aggressor-will-der-ukraine-aber-keine-waffen-liefern-a-6dee6127-0d7d-4c71-b777-cdecae6de3ed#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/fachkraeftemangel-wie-ein-junger-vietnamese-in-thueringen-eine-neue-heimat-findet](https://www.spiegel.de/panorama/gesellschaft/fachkraeftemangel-wie-ein-junger-vietnamese-in-thueringen-eine-neue-heimat-findet-a-7c754e47-0d5b-43b5-a6be-ba2d10b7f4c6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-hat-jetzt-keine-zeit-mehr-zu-verlieren](https://www.spiegel.de/politik/deutschland/friedrich-merz-hat-jetzt-keine-zeit-mehr-zu-verlieren-a-00886b2f-c62c-4be6-b05a-7aace0681383#ref=rss)
+### bleibt
+
+* [https://www.spiegel.de/politik/deutschland/linke-nennt-russland-aggressor-will-der-ukraine-aber-keine-waffen-liefern](https://www.spiegel.de/politik/deutschland/linke-nennt-russland-aggressor-will-der-ukraine-aber-keine-waffen-liefern-a-6dee6127-0d7d-4c71-b777-cdecae6de3ed#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gruene-und-die-gleichberechtigung-wo-bleibt-die-maennerquote](https://www.spiegel.de/politik/deutschland/gruene-und-die-gleichberechtigung-wo-bleibt-die-maennerquote-a-c8a50c54-325f-4353-bcdc-8712ab4971fb#ref=rss)
+* [https://www.spiegel.de/start/berufseinstieg-oekonom-weber-bleibt-trotz-krisen-zuversichtlich](https://www.spiegel.de/start/berufseinstieg-oekonom-weber-bleibt-trotz-krisen-zuversichtlich-a-9ae19cd4-d8c7-4ee2-a417-cdcc10e3b541#ref=rss)
+### alle
+
+* [https://www.spiegel.de/kultur/kino/oscars-2025-nominierungen-alle-nominierten-der-academy-awards-in-der-uebersicht](https://www.spiegel.de/kultur/kino/oscars-2025-nominierungen-alle-nominierten-der-academy-awards-in-der-uebersicht-a-3987f1a4-0495-4f2c-9b19-c9dfd03a2920#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/warnstreik-bei-der-post-viele-briefe-und-pakete-bleiben-liegen](https://www.spiegel.de/wirtschaft/service/warnstreik-bei-der-post-viele-briefe-und-pakete-bleiben-liegen-a-f9f3e16c-ce97-4790-831e-9dac3223410e#ref=rss)
+### academy
+
+* [https://www.spiegel.de/kultur/kino/oscars-2025-nominierungen-alle-nominierten-der-academy-awards-in-der-uebersicht](https://www.spiegel.de/kultur/kino/oscars-2025-nominierungen-alle-nominierten-der-academy-awards-in-der-uebersicht-a-3987f1a4-0495-4f2c-9b19-c9dfd03a2920#ref=rss)
+* [https://www.spiegel.de/kultur/kino/oscar-2025-im-datencheck-werden-filme-laenger-und-schauspielerinnen-juenger](https://www.spiegel.de/kultur/kino/oscar-2025-im-datencheck-werden-filme-laenger-und-schauspielerinnen-juenger-a-c68756ae-5413-41fa-92f0-c8e0e30571b0#ref=rss)
+### selenskyj
+
 * [https://www.spiegel.de/ausland/liveblog-wolodymyr-selenskyj-verlaesst-weisses-haus-gespraeche-mit-donald-trump-abgebrochen](https://www.spiegel.de/ausland/liveblog-wolodymyr-selenskyj-verlaesst-weisses-haus-gespraeche-mit-donald-trump-abgebrochen-a-656d319f-446b-432a-a147-b6796e59c1fb#ref=rss)
-### konklave
+* [https://www.spiegel.de/politik/weisses-haus-das-sagt-aussenministerin-annalena-baerbock-nach-eklat-livestream](https://www.spiegel.de/politik/weisses-haus-das-sagt-aussenministerin-annalena-baerbock-nach-eklat-livestream-a-3a916922-9c26-44e9-95d7-bc25b5d54088#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-hat-jetzt-keine-zeit-mehr-zu-verlieren](https://www.spiegel.de/politik/deutschland/friedrich-merz-hat-jetzt-keine-zeit-mehr-zu-verlieren-a-00886b2f-c62c-4be6-b05a-7aace0681383#ref=rss)
+### filme
 
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-wolodymyr-selenskyj-oscar-kandidat-konklave-wahl-hamburg](https://www.spiegel.de/politik/deutschland/news-donald-trump-wolodymyr-selenskyj-oscar-kandidat-konklave-wahl-hamburg-a-71264e50-41dd-408f-8602-60bfbd483369#ref=rss)
-### elon
+* [https://www.spiegel.de/kultur/kino/oscar-2025-im-datencheck-werden-filme-laenger-und-schauspielerinnen-juenger](https://www.spiegel.de/kultur/kino/oscar-2025-im-datencheck-werden-filme-laenger-und-schauspielerinnen-juenger-a-c68756ae-5413-41fa-92f0-c8e0e30571b0#ref=rss)
+### karius
 
-* [https://www.spiegel.de/panorama/leute/elon-musk-ist-schon-wieder-vater-geworden](https://www.spiegel.de/panorama/leute/elon-musk-ist-schon-wieder-vater-geworden-a-35f023b6-8e52-4b9a-a843-9c003cfaf97e#ref=rss)
-### musk
+* [https://www.spiegel.de/sport/fussball/loris-karius-bei-schalke-04-mein-loewe-mein-baer-mein-karius](https://www.spiegel.de/sport/fussball/loris-karius-bei-schalke-04-mein-loewe-mein-baer-mein-karius-a-d42f37c1-4522-4c3b-b4ae-fd65fda2e300#ref=rss)
+### mein
 
-* [https://www.spiegel.de/panorama/leute/elon-musk-ist-schon-wieder-vater-geworden](https://www.spiegel.de/panorama/leute/elon-musk-ist-schon-wieder-vater-geworden-a-35f023b6-8e52-4b9a-a843-9c003cfaf97e#ref=rss)
-### robert
+* [https://www.spiegel.de/sport/fussball/loris-karius-bei-schalke-04-mein-loewe-mein-baer-mein-karius](https://www.spiegel.de/sport/fussball/loris-karius-bei-schalke-04-mein-loewe-mein-baer-mein-karius-a-d42f37c1-4522-4c3b-b4ae-fd65fda2e300#ref=rss)
+### belgier
+
+* [https://www.spiegel.de/wissenschaft/technik/leichenspuerhunde-ein-belgier-will-hunde-anleiten-skelette-von-mordopfern-zu-finden](https://www.spiegel.de/wissenschaft/technik/leichenspuerhunde-ein-belgier-will-hunde-anleiten-skelette-von-mordopfern-zu-finden-a-af9e32b7-5d17-4180-8878-1e02b7363546#ref=rss)
+### skelette
+
+* [https://www.spiegel.de/wissenschaft/technik/leichenspuerhunde-ein-belgier-will-hunde-anleiten-skelette-von-mordopfern-zu-finden](https://www.spiegel.de/wissenschaft/technik/leichenspuerhunde-ein-belgier-will-hunde-anleiten-skelette-von-mordopfern-zu-finden-a-af9e32b7-5d17-4180-8878-1e02b7363546#ref=rss)
+### mordopfern
+
+* [https://www.spiegel.de/wissenschaft/technik/leichenspuerhunde-ein-belgier-will-hunde-anleiten-skelette-von-mordopfern-zu-finden](https://www.spiegel.de/wissenschaft/technik/leichenspuerhunde-ein-belgier-will-hunde-anleiten-skelette-von-mordopfern-zu-finden-a-af9e32b7-5d17-4180-8878-1e02b7363546#ref=rss)
+### junger
+
+* [https://www.spiegel.de/wissenschaft/technik/leichenspuerhunde-ein-belgier-will-hunde-anleiten-skelette-von-mordopfern-zu-finden](https://www.spiegel.de/wissenschaft/technik/leichenspuerhunde-ein-belgier-will-hunde-anleiten-skelette-von-mordopfern-zu-finden-a-af9e32b7-5d17-4180-8878-1e02b7363546#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/fachkraeftemangel-wie-ein-junger-vietnamese-in-thueringen-eine-neue-heimat-findet](https://www.spiegel.de/panorama/gesellschaft/fachkraeftemangel-wie-ein-junger-vietnamese-in-thueringen-eine-neue-heimat-findet-a-7c754e47-0d5b-43b5-a6be-ba2d10b7f4c6#ref=rss)
+### waffen
+
+* [https://www.spiegel.de/ausland/diese-waffen-braucht-die-ukraine-von-den-usa](https://www.spiegel.de/ausland/diese-waffen-braucht-die-ukraine-von-den-usa-a-f1f43d18-d4cd-4a39-ba5a-9db10814c990#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/linke-nennt-russland-aggressor-will-der-ukraine-aber-keine-waffen-liefern](https://www.spiegel.de/politik/deutschland/linke-nennt-russland-aggressor-will-der-ukraine-aber-keine-waffen-liefern-a-6dee6127-0d7d-4c71-b777-cdecae6de3ed#ref=rss)
+### braucht
+
+* [https://www.spiegel.de/ausland/diese-waffen-braucht-die-ukraine-von-den-usa](https://www.spiegel.de/ausland/diese-waffen-braucht-die-ukraine-von-den-usa-a-f1f43d18-d4cd-4a39-ba5a-9db10814c990#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/fachkraeftemangel-wie-ein-junger-vietnamese-in-thueringen-eine-neue-heimat-findet](https://www.spiegel.de/panorama/gesellschaft/fachkraeftemangel-wie-ein-junger-vietnamese-in-thueringen-eine-neue-heimat-findet-a-7c754e47-0d5b-43b5-a6be-ba2d10b7f4c6#ref=rss)
+### usa
+
+* [https://www.spiegel.de/ausland/diese-waffen-braucht-die-ukraine-von-den-usa](https://www.spiegel.de/ausland/diese-waffen-braucht-die-ukraine-von-den-usa-a-f1f43d18-d4cd-4a39-ba5a-9db10814c990#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/linke-nennt-russland-aggressor-will-der-ukraine-aber-keine-waffen-liefern](https://www.spiegel.de/politik/deutschland/linke-nennt-russland-aggressor-will-der-ukraine-aber-keine-waffen-liefern-a-6dee6127-0d7d-4c71-b777-cdecae6de3ed#ref=rss)
+### österreich
+
+* [https://www.spiegel.de/ausland/oesterreich-peter-pilz-in-der-causa-pilnacek-vor-gericht-podcast](https://www.spiegel.de/ausland/oesterreich-peter-pilz-in-der-causa-pilnacek-vor-gericht-podcast-a-09eac3f2-a25f-46bf-a8ad-e6edd64cf2db#ref=rss)
+* [https://www.spiegel.de/reise/europa/skitourenparks-in-deutschland-und-oesterreich-wo-freerider-ueben](https://www.spiegel.de/reise/europa/skitourenparks-in-deutschland-und-oesterreich-wo-freerider-ueben-a-c0755bcb-8dfb-4760-ae8c-d73a5eff85c5#ref=rss)
+### peter
+
+* [https://www.spiegel.de/ausland/oesterreich-peter-pilz-in-der-causa-pilnacek-vor-gericht-podcast](https://www.spiegel.de/ausland/oesterreich-peter-pilz-in-der-causa-pilnacek-vor-gericht-podcast-a-09eac3f2-a25f-46bf-a8ad-e6edd64cf2db#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/ausland/oesterreich-peter-pilz-in-der-causa-pilnacek-vor-gericht-podcast](https://www.spiegel.de/ausland/oesterreich-peter-pilz-in-der-causa-pilnacek-vor-gericht-podcast-a-09eac3f2-a25f-46bf-a8ad-e6edd64cf2db#ref=rss)
+### podcast
+
+* [https://www.spiegel.de/ausland/oesterreich-peter-pilz-in-der-causa-pilnacek-vor-gericht-podcast](https://www.spiegel.de/ausland/oesterreich-peter-pilz-in-der-causa-pilnacek-vor-gericht-podcast-a-09eac3f2-a25f-46bf-a8ad-e6edd64cf2db#ref=rss)
+* [https://www.spiegel.de/familie/cycle-breaking-wie-sich-eltern-aus-schaedlichen-erziehungsmustern-befreien-podcast-mit-leandra-vogt](https://www.spiegel.de/familie/cycle-breaking-wie-sich-eltern-aus-schaedlichen-erziehungsmustern-befreien-podcast-mit-leandra-vogt-a-787b9890-15ea-4b99-bc4e-399a910d98ef#ref=rss)
+### selbst
+
+* [https://www.spiegel.de/ausland/oesterreich-peter-pilz-in-der-causa-pilnacek-vor-gericht-podcast](https://www.spiegel.de/ausland/oesterreich-peter-pilz-in-der-causa-pilnacek-vor-gericht-podcast-a-09eac3f2-a25f-46bf-a8ad-e6edd64cf2db#ref=rss)
+* [https://www.spiegel.de/sport/fussball/jose-mourinho-verklagt-galatasaray-istanbul](https://www.spiegel.de/sport/fussball/jose-mourinho-verklagt-galatasaray-istanbul-a-73b047c2-167b-4545-8ce7-8c66d6669f12#ref=rss)
+### hollywood
+
+* [https://www.spiegel.de/kultur/kino/oscars-2025-die-legende-vom-liberalen-hollywood](https://www.spiegel.de/kultur/kino/oscars-2025-die-legende-vom-liberalen-hollywood-a-42291b21-e18a-463a-a6f9-fc61ac4aa37e#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/kultur/kino/oscars-2025-die-legende-vom-liberalen-hollywood](https://www.spiegel.de/kultur/kino/oscars-2025-die-legende-vom-liberalen-hollywood-a-42291b21-e18a-463a-a6f9-fc61ac4aa37e#ref=rss)
+* [https://www.spiegel.de/familie/cycle-breaking-wie-sich-eltern-aus-schaedlichen-erziehungsmustern-befreien-podcast-mit-leandra-vogt](https://www.spiegel.de/familie/cycle-breaking-wie-sich-eltern-aus-schaedlichen-erziehungsmustern-befreien-podcast-mit-leandra-vogt-a-787b9890-15ea-4b99-bc4e-399a910d98ef#ref=rss)
+### wolfsburg
+
+* [https://www.spiegel.de/sport/fussball/bundesliga-werder-bremen-verliert-knapp-gegen-vfl-wolfsburg-borussia-dortmund-schlaegt-den-fc-st-pauli](https://www.spiegel.de/sport/fussball/bundesliga-werder-bremen-verliert-knapp-gegen-vfl-wolfsburg-borussia-dortmund-schlaegt-den-fc-st-pauli-a-59b00252-342b-4bb8-b0a9-0df5683af589#ref=rss)
+### dortmund
+
+* [https://www.spiegel.de/sport/fussball/bundesliga-werder-bremen-verliert-knapp-gegen-vfl-wolfsburg-borussia-dortmund-schlaegt-den-fc-st-pauli](https://www.spiegel.de/sport/fussball/bundesliga-werder-bremen-verliert-knapp-gegen-vfl-wolfsburg-borussia-dortmund-schlaegt-den-fc-st-pauli-a-59b00252-342b-4bb8-b0a9-0df5683af589#ref=rss)
+### mainzer
+
+* [https://www.spiegel.de/sport/fussball/bundesliga-werder-bremen-verliert-knapp-gegen-vfl-wolfsburg-borussia-dortmund-schlaegt-den-fc-st-pauli](https://www.spiegel.de/sport/fussball/bundesliga-werder-bremen-verliert-knapp-gegen-vfl-wolfsburg-borussia-dortmund-schlaegt-den-fc-st-pauli-a-59b00252-342b-4bb8-b0a9-0df5683af589#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fa-cup-jean-philippe-mateta-von-crystal-palace-nach-brutalem-foul-im-krankenhaus](https://www.spiegel.de/sport/fussball/fa-cup-jean-philippe-mateta-von-crystal-palace-nach-brutalem-foul-im-krankenhaus-a-0a33f6ee-c7ad-4a04-a7bf-d86db16ea482#ref=rss)
+### besten
+
+* [https://www.spiegel.de/wirtschaft/strassenverkehr-wer-hat-die-besten-autobahnen-bundeslaender-im-vergleich](https://www.spiegel.de/wirtschaft/strassenverkehr-wer-hat-die-besten-autobahnen-bundeslaender-im-vergleich-a-da8d743b-f287-4881-a3a8-9d37ff0fec42#ref=rss)
+### autobahnen
+
+* [https://www.spiegel.de/wirtschaft/strassenverkehr-wer-hat-die-besten-autobahnen-bundeslaender-im-vergleich](https://www.spiegel.de/wirtschaft/strassenverkehr-wer-hat-die-besten-autobahnen-bundeslaender-im-vergleich-a-da8d743b-f287-4881-a3a8-9d37ff0fec42#ref=rss)
+### skitourenparks
+
+* [https://www.spiegel.de/reise/europa/skitourenparks-in-deutschland-und-oesterreich-wo-freerider-ueben](https://www.spiegel.de/reise/europa/skitourenparks-in-deutschland-und-oesterreich-wo-freerider-ueben-a-c0755bcb-8dfb-4760-ae8c-d73a5eff85c5#ref=rss)
+### wo
+
+* [https://www.spiegel.de/reise/europa/skitourenparks-in-deutschland-und-oesterreich-wo-freerider-ueben](https://www.spiegel.de/reise/europa/skitourenparks-in-deutschland-und-oesterreich-wo-freerider-ueben-a-c0755bcb-8dfb-4760-ae8c-d73a5eff85c5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gruene-und-die-gleichberechtigung-wo-bleibt-die-maennerquote](https://www.spiegel.de/politik/deutschland/gruene-und-die-gleichberechtigung-wo-bleibt-die-maennerquote-a-c8a50c54-325f-4353-bcdc-8712ab4971fb#ref=rss)
+### überblick
+
+* [https://www.spiegel.de/reise/europa/skitourenparks-in-deutschland-und-oesterreich-wo-freerider-ueben](https://www.spiegel.de/reise/europa/skitourenparks-in-deutschland-und-oesterreich-wo-freerider-ueben-a-c0755bcb-8dfb-4760-ae8c-d73a5eff85c5#ref=rss)
+* [https://www.spiegel.de/kultur/kino/oscars-2025-nominierungen-alle-nominierten-der-academy-awards-in-der-uebersicht](https://www.spiegel.de/kultur/kino/oscars-2025-nominierungen-alle-nominierten-der-academy-awards-in-der-uebersicht-a-3987f1a4-0495-4f2c-9b19-c9dfd03a2920#ref=rss)
+### linke
+
+* [https://www.spiegel.de/politik/deutschland/linke-nennt-russland-aggressor-will-der-ukraine-aber-keine-waffen-liefern](https://www.spiegel.de/politik/deutschland/linke-nennt-russland-aggressor-will-der-ukraine-aber-keine-waffen-liefern-a-6dee6127-0d7d-4c71-b777-cdecae6de3ed#ref=rss)
+### leandra
+
+* [https://www.spiegel.de/familie/cycle-breaking-wie-sich-eltern-aus-schaedlichen-erziehungsmustern-befreien-podcast-mit-leandra-vogt](https://www.spiegel.de/familie/cycle-breaking-wie-sich-eltern-aus-schaedlichen-erziehungsmustern-befreien-podcast-mit-leandra-vogt-a-787b9890-15ea-4b99-bc4e-399a910d98ef#ref=rss)
+### vogt
+
+* [https://www.spiegel.de/familie/cycle-breaking-wie-sich-eltern-aus-schaedlichen-erziehungsmustern-befreien-podcast-mit-leandra-vogt](https://www.spiegel.de/familie/cycle-breaking-wie-sich-eltern-aus-schaedlichen-erziehungsmustern-befreien-podcast-mit-leandra-vogt-a-787b9890-15ea-4b99-bc4e-399a910d98ef#ref=rss)
+### viele
+
+* [https://www.spiegel.de/familie/cycle-breaking-wie-sich-eltern-aus-schaedlichen-erziehungsmustern-befreien-podcast-mit-leandra-vogt](https://www.spiegel.de/familie/cycle-breaking-wie-sich-eltern-aus-schaedlichen-erziehungsmustern-befreien-podcast-mit-leandra-vogt-a-787b9890-15ea-4b99-bc4e-399a910d98ef#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/warnstreik-bei-der-post-viele-briefe-und-pakete-bleiben-liegen](https://www.spiegel.de/wirtschaft/service/warnstreik-bei-der-post-viele-briefe-und-pakete-bleiben-liegen-a-f9f3e16c-ce97-4790-831e-9dac3223410e#ref=rss)
+### weniger
+
+* [https://www.spiegel.de/familie/cycle-breaking-wie-sich-eltern-aus-schaedlichen-erziehungsmustern-befreien-podcast-mit-leandra-vogt](https://www.spiegel.de/familie/cycle-breaking-wie-sich-eltern-aus-schaedlichen-erziehungsmustern-befreien-podcast-mit-leandra-vogt-a-787b9890-15ea-4b99-bc4e-399a910d98ef#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/sky-setzt-pay-tv-kunden-mit-guenstigen-altvertraegen-unter-druck](https://www.spiegel.de/netzwelt/web/sky-setzt-pay-tv-kunden-mit-guenstigen-altvertraegen-unter-druck-a-0d51ab3a-d38d-4ba3-ae7f-b49059bc9e4e#ref=rss)
+### nominierten
+
+* [https://www.spiegel.de/kultur/kino/oscars-2025-nominierungen-alle-nominierten-der-academy-awards-in-der-uebersicht](https://www.spiegel.de/kultur/kino/oscars-2025-nominierungen-alle-nominierten-der-academy-awards-in-der-uebersicht-a-3987f1a4-0495-4f2c-9b19-c9dfd03a2920#ref=rss)
+* [https://www.spiegel.de/kultur/kino/oscar-2025-im-datencheck-werden-filme-laenger-und-schauspielerinnen-juenger](https://www.spiegel.de/kultur/kino/oscar-2025-im-datencheck-werden-filme-laenger-und-schauspielerinnen-juenger-a-c68756ae-5413-41fa-92f0-c8e0e30571b0#ref=rss)
+### awards
+
+* [https://www.spiegel.de/kultur/kino/oscars-2025-nominierungen-alle-nominierten-der-academy-awards-in-der-uebersicht](https://www.spiegel.de/kultur/kino/oscars-2025-nominierungen-alle-nominierten-der-academy-awards-in-der-uebersicht-a-3987f1a4-0495-4f2c-9b19-c9dfd03a2920#ref=rss)
+* [https://www.spiegel.de/kultur/kino/oscar-2025-im-datencheck-werden-filme-laenger-und-schauspielerinnen-juenger](https://www.spiegel.de/kultur/kino/oscar-2025-im-datencheck-werden-filme-laenger-und-schauspielerinnen-juenger-a-c68756ae-5413-41fa-92f0-c8e0e30571b0#ref=rss)
+### neben
+
+* [https://www.spiegel.de/kultur/kino/oscars-2025-nominierungen-alle-nominierten-der-academy-awards-in-der-uebersicht](https://www.spiegel.de/kultur/kino/oscars-2025-nominierungen-alle-nominierten-der-academy-awards-in-der-uebersicht-a-3987f1a4-0495-4f2c-9b19-c9dfd03a2920#ref=rss)
+### stellen
+
+* [https://www.spiegel.de/ausland/ukraine-ungewisse-zukunft-nach-eklat-im-weissen-haus](https://www.spiegel.de/ausland/ukraine-ungewisse-zukunft-nach-eklat-im-weissen-haus-a-3c84ef41-c1d1-47e5-9a9b-d0c55d2d79d5#ref=rss)
+* [https://www.spiegel.de/geschichte/verhaeltnis-zwischen-deutschland-und-israel-fuer-mich-war-immer-klar-im-zweifelsfall-fuer-israel](https://www.spiegel.de/geschichte/verhaeltnis-zwischen-deutschland-und-israel-fuer-mich-war-immer-klar-im-zweifelsfall-fuer-israel-a-38bd46fc-da5b-4c84-b147-9dced2488bec#ref=rss)
+### präsidenten
+
+* [https://www.spiegel.de/ausland/ukraine-ungewisse-zukunft-nach-eklat-im-weissen-haus](https://www.spiegel.de/ausland/ukraine-ungewisse-zukunft-nach-eklat-im-weissen-haus-a-3c84ef41-c1d1-47e5-9a9b-d0c55d2d79d5#ref=rss)
+* [https://www.spiegel.de/ausland/liveblog-wolodymyr-selenskyj-verlaesst-weisses-haus-gespraeche-mit-donald-trump-abgebrochen](https://www.spiegel.de/ausland/liveblog-wolodymyr-selenskyj-verlaesst-weisses-haus-gespraeche-mit-donald-trump-abgebrochen-a-656d319f-446b-432a-a147-b6796e59c1fb#ref=rss)
+### luise
+
+* [https://www.spiegel.de/geschichte/verhaeltnis-zwischen-deutschland-und-israel-fuer-mich-war-immer-klar-im-zweifelsfall-fuer-israel](https://www.spiegel.de/geschichte/verhaeltnis-zwischen-deutschland-und-israel-fuer-mich-war-immer-klar-im-zweifelsfall-fuer-israel-a-38bd46fc-da5b-4c84-b147-9dced2488bec#ref=rss)
+### amtsberg
+
+* [https://www.spiegel.de/geschichte/verhaeltnis-zwischen-deutschland-und-israel-fuer-mich-war-immer-klar-im-zweifelsfall-fuer-israel](https://www.spiegel.de/geschichte/verhaeltnis-zwischen-deutschland-und-israel-fuer-mich-war-immer-klar-im-zweifelsfall-fuer-israel-a-38bd46fc-da5b-4c84-b147-9dced2488bec#ref=rss)
+### grünen
+
+* [https://www.spiegel.de/geschichte/verhaeltnis-zwischen-deutschland-und-israel-fuer-mich-war-immer-klar-im-zweifelsfall-fuer-israel](https://www.spiegel.de/geschichte/verhaeltnis-zwischen-deutschland-und-israel-fuer-mich-war-immer-klar-im-zweifelsfall-fuer-israel-a-38bd46fc-da5b-4c84-b147-9dced2488bec#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gruene-und-die-gleichberechtigung-wo-bleibt-die-maennerquote](https://www.spiegel.de/politik/deutschland/gruene-und-die-gleichberechtigung-wo-bleibt-die-maennerquote-a-c8a50c54-325f-4353-bcdc-8712ab4971fb#ref=rss)
+### michael
+
+* [https://www.spiegel.de/geschichte/verhaeltnis-zwischen-deutschland-und-israel-fuer-mich-war-immer-klar-im-zweifelsfall-fuer-israel](https://www.spiegel.de/geschichte/verhaeltnis-zwischen-deutschland-und-israel-fuer-mich-war-immer-klar-im-zweifelsfall-fuer-israel-a-38bd46fc-da5b-4c84-b147-9dced2488bec#ref=rss)
+### roth
+
+* [https://www.spiegel.de/geschichte/verhaeltnis-zwischen-deutschland-und-israel-fuer-mich-war-immer-klar-im-zweifelsfall-fuer-israel](https://www.spiegel.de/geschichte/verhaeltnis-zwischen-deutschland-und-israel-fuer-mich-war-immer-klar-im-zweifelsfall-fuer-israel-a-38bd46fc-da5b-4c84-b147-9dced2488bec#ref=rss)
+### spd
+
+* [https://www.spiegel.de/geschichte/verhaeltnis-zwischen-deutschland-und-israel-fuer-mich-war-immer-klar-im-zweifelsfall-fuer-israel](https://www.spiegel.de/geschichte/verhaeltnis-zwischen-deutschland-und-israel-fuer-mich-war-immer-klar-im-zweifelsfall-fuer-israel-a-38bd46fc-da5b-4c84-b147-9dced2488bec#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-hat-jetzt-keine-zeit-mehr-zu-verlieren](https://www.spiegel.de/politik/deutschland/friedrich-merz-hat-jetzt-keine-zeit-mehr-zu-verlieren-a-00886b2f-c62c-4be6-b05a-7aace0681383#ref=rss)
+### reagieren
+
+* [https://www.spiegel.de/geschichte/verhaeltnis-zwischen-deutschland-und-israel-fuer-mich-war-immer-klar-im-zweifelsfall-fuer-israel](https://www.spiegel.de/geschichte/verhaeltnis-zwischen-deutschland-und-israel-fuer-mich-war-immer-klar-im-zweifelsfall-fuer-israel-a-38bd46fc-da5b-4c84-b147-9dced2488bec#ref=rss)
+* [https://www.spiegel.de/politik/weisses-haus-das-sagt-aussenministerin-annalena-baerbock-nach-eklat-livestream](https://www.spiegel.de/politik/weisses-haus-das-sagt-aussenministerin-annalena-baerbock-nach-eklat-livestream-a-3a916922-9c26-44e9-95d7-bc25b5d54088#ref=rss)
+### treffen
 
 * [https://www.spiegel.de/ausland/liveblog-wolodymyr-selenskyj-verlaesst-weisses-haus-gespraeche-mit-donald-trump-abgebrochen](https://www.spiegel.de/ausland/liveblog-wolodymyr-selenskyj-verlaesst-weisses-haus-gespraeche-mit-donald-trump-abgebrochen-a-656d319f-446b-432a-a147-b6796e59c1fb#ref=rss)
-### habeck
+* [https://www.spiegel.de/politik/weisses-haus-das-sagt-aussenministerin-annalena-baerbock-nach-eklat-livestream](https://www.spiegel.de/politik/weisses-haus-das-sagt-aussenministerin-annalena-baerbock-nach-eklat-livestream-a-3a916922-9c26-44e9-95d7-bc25b5d54088#ref=rss)
+### donald
 
 * [https://www.spiegel.de/ausland/liveblog-wolodymyr-selenskyj-verlaesst-weisses-haus-gespraeche-mit-donald-trump-abgebrochen](https://www.spiegel.de/ausland/liveblog-wolodymyr-selenskyj-verlaesst-weisses-haus-gespraeche-mit-donald-trump-abgebrochen-a-656d319f-446b-432a-a147-b6796e59c1fb#ref=rss)
-### versucht
+* [https://www.spiegel.de/politik/weisses-haus-das-sagt-aussenministerin-annalena-baerbock-nach-eklat-livestream](https://www.spiegel.de/politik/weisses-haus-das-sagt-aussenministerin-annalena-baerbock-nach-eklat-livestream-a-3a916922-9c26-44e9-95d7-bc25b5d54088#ref=rss)
+### friedrich
 
 * [https://www.spiegel.de/ausland/liveblog-wolodymyr-selenskyj-verlaesst-weisses-haus-gespraeche-mit-donald-trump-abgebrochen](https://www.spiegel.de/ausland/liveblog-wolodymyr-selenskyj-verlaesst-weisses-haus-gespraeche-mit-donald-trump-abgebrochen-a-656d319f-446b-432a-a147-b6796e59c1fb#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-donald-trump-dominiert-gespraech-mit-wolodymyr-selenskyj](https://www.spiegel.de/ausland/ukraine-donald-trump-dominiert-gespraech-mit-wolodymyr-selenskyj-a-92ffb38d-5bb6-4fd1-bc68-7981eb8199df#ref=rss)
-### gene
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-hat-jetzt-keine-zeit-mehr-zu-verlieren](https://www.spiegel.de/politik/deutschland/friedrich-merz-hat-jetzt-keine-zeit-mehr-zu-verlieren-a-00886b2f-c62c-4be6-b05a-7aace0681383#ref=rss)
+### merz
 
-* [https://www.spiegel.de/panorama/gene-hackman-herzschrittmacher-gibt-hinweis-auf-zeitpunkt-des-todes](https://www.spiegel.de/panorama/gene-hackman-herzschrittmacher-gibt-hinweis-auf-zeitpunkt-des-todes-a-8f974422-258c-48ec-b53e-3e1e246e4037#ref=rss)
-### hackman
+* [https://www.spiegel.de/ausland/liveblog-wolodymyr-selenskyj-verlaesst-weisses-haus-gespraeche-mit-donald-trump-abgebrochen](https://www.spiegel.de/ausland/liveblog-wolodymyr-selenskyj-verlaesst-weisses-haus-gespraeche-mit-donald-trump-abgebrochen-a-656d319f-446b-432a-a147-b6796e59c1fb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-hat-jetzt-keine-zeit-mehr-zu-verlieren](https://www.spiegel.de/politik/deutschland/friedrich-merz-hat-jetzt-keine-zeit-mehr-zu-verlieren-a-00886b2f-c62c-4be6-b05a-7aace0681383#ref=rss)
+### außenministerin
 
-* [https://www.spiegel.de/panorama/gene-hackman-herzschrittmacher-gibt-hinweis-auf-zeitpunkt-des-todes](https://www.spiegel.de/panorama/gene-hackman-herzschrittmacher-gibt-hinweis-auf-zeitpunkt-des-todes-a-8f974422-258c-48ec-b53e-3e1e246e4037#ref=rss)
-### stabhochsprung
+* [https://www.spiegel.de/politik/weisses-haus-das-sagt-aussenministerin-annalena-baerbock-nach-eklat-livestream](https://www.spiegel.de/politik/weisses-haus-das-sagt-aussenministerin-annalena-baerbock-nach-eklat-livestream-a-3a916922-9c26-44e9-95d7-bc25b5d54088#ref=rss)
+### annalena
 
-* [https://www.spiegel.de/sport/stabhochsprung-armand-duplantis-verbessert-weltrekord-auf-6-27-meter](https://www.spiegel.de/sport/stabhochsprung-armand-duplantis-verbessert-weltrekord-auf-6-27-meter-a-be894abc-e478-4f2d-976e-1e4626a6dc5e#ref=rss)
-### armand
+* [https://www.spiegel.de/politik/weisses-haus-das-sagt-aussenministerin-annalena-baerbock-nach-eklat-livestream](https://www.spiegel.de/politik/weisses-haus-das-sagt-aussenministerin-annalena-baerbock-nach-eklat-livestream-a-3a916922-9c26-44e9-95d7-bc25b5d54088#ref=rss)
+### baerbock
 
-* [https://www.spiegel.de/sport/stabhochsprung-armand-duplantis-verbessert-weltrekord-auf-6-27-meter](https://www.spiegel.de/sport/stabhochsprung-armand-duplantis-verbessert-weltrekord-auf-6-27-meter-a-be894abc-e478-4f2d-976e-1e4626a6dc5e#ref=rss)
-### duplantis
+* [https://www.spiegel.de/politik/weisses-haus-das-sagt-aussenministerin-annalena-baerbock-nach-eklat-livestream](https://www.spiegel.de/politik/weisses-haus-das-sagt-aussenministerin-annalena-baerbock-nach-eklat-livestream-a-3a916922-9c26-44e9-95d7-bc25b5d54088#ref=rss)
+### gleichberechtigung
 
-* [https://www.spiegel.de/sport/stabhochsprung-armand-duplantis-verbessert-weltrekord-auf-6-27-meter](https://www.spiegel.de/sport/stabhochsprung-armand-duplantis-verbessert-weltrekord-auf-6-27-meter-a-be894abc-e478-4f2d-976e-1e4626a6dc5e#ref=rss)
-### vfb
+* [https://www.spiegel.de/politik/deutschland/gruene-und-die-gleichberechtigung-wo-bleibt-die-maennerquote](https://www.spiegel.de/politik/deutschland/gruene-und-die-gleichberechtigung-wo-bleibt-die-maennerquote-a-c8a50c54-325f-4353-bcdc-8712ab4971fb#ref=rss)
+### frauen
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-dreht-rueckstand-beim-vfb-stuttgart-leon-goretzka-sagt-sein-fuehrungstor-voraus](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-dreht-rueckstand-beim-vfb-stuttgart-leon-goretzka-sagt-sein-fuehrungstor-voraus-a-a929471b-db96-46ca-a055-ea1f2b0e2b71#ref=rss)
-### stuttgart
+* [https://www.spiegel.de/politik/deutschland/gruene-und-die-gleichberechtigung-wo-bleibt-die-maennerquote](https://www.spiegel.de/politik/deutschland/gruene-und-die-gleichberechtigung-wo-bleibt-die-maennerquote-a-c8a50c54-325f-4353-bcdc-8712ab4971fb#ref=rss)
+* [https://www.spiegel.de/panorama/karneval-frauenjagd-an-fastnacht-sexismus-oder-brauchtum](https://www.spiegel.de/panorama/karneval-frauenjagd-an-fastnacht-sexismus-oder-brauchtum-a-1a28bed9-24a6-407c-924c-195aaeb1969f#ref=rss)
+### grün
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-dreht-rueckstand-beim-vfb-stuttgart-leon-goretzka-sagt-sein-fuehrungstor-voraus](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-dreht-rueckstand-beim-vfb-stuttgart-leon-goretzka-sagt-sein-fuehrungstor-voraus-a-a929471b-db96-46ca-a055-ea1f2b0e2b71#ref=rss)
-### leon
+* [https://www.spiegel.de/kultur/kino/gruen-ist-die-heide-monika-lundi-ist-tot](https://www.spiegel.de/kultur/kino/gruen-ist-die-heide-monika-lundi-ist-tot-a-d025029a-12c3-47c9-8ca6-e8c915c54b29#ref=rss)
+### heide
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-dreht-rueckstand-beim-vfb-stuttgart-leon-goretzka-sagt-sein-fuehrungstor-voraus](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-dreht-rueckstand-beim-vfb-stuttgart-leon-goretzka-sagt-sein-fuehrungstor-voraus-a-a929471b-db96-46ca-a055-ea1f2b0e2b71#ref=rss)
-### goretzka
+* [https://www.spiegel.de/kultur/kino/gruen-ist-die-heide-monika-lundi-ist-tot](https://www.spiegel.de/kultur/kino/gruen-ist-die-heide-monika-lundi-ist-tot-a-d025029a-12c3-47c9-8ca6-e8c915c54b29#ref=rss)
+### monika
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-dreht-rueckstand-beim-vfb-stuttgart-leon-goretzka-sagt-sein-fuehrungstor-voraus](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-dreht-rueckstand-beim-vfb-stuttgart-leon-goretzka-sagt-sein-fuehrungstor-voraus-a-a929471b-db96-46ca-a055-ea1f2b0e2b71#ref=rss)
-### ich
+* [https://www.spiegel.de/kultur/kino/gruen-ist-die-heide-monika-lundi-ist-tot](https://www.spiegel.de/kultur/kino/gruen-ist-die-heide-monika-lundi-ist-tot-a-d025029a-12c3-47c9-8ca6-e8c915c54b29#ref=rss)
+### lundi
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-dreht-rueckstand-beim-vfb-stuttgart-leon-goretzka-sagt-sein-fuehrungstor-voraus](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-dreht-rueckstand-beim-vfb-stuttgart-leon-goretzka-sagt-sein-fuehrungstor-voraus-a-a929471b-db96-46ca-a055-ea1f2b0e2b71#ref=rss)
-### la
+* [https://www.spiegel.de/kultur/kino/gruen-ist-die-heide-monika-lundi-ist-tot](https://www.spiegel.de/kultur/kino/gruen-ist-die-heide-monika-lundi-ist-tot-a-d025029a-12c3-47c9-8ca6-e8c915c54b29#ref=rss)
+### jeanphilippe
 
-* [https://www.spiegel.de/ausland/franzoesisches-ueberseegebiet-zyklon-garance-wuetet-auf-la-reunion-mindestens-drei-tote](https://www.spiegel.de/ausland/franzoesisches-ueberseegebiet-zyklon-garance-wuetet-auf-la-reunion-mindestens-drei-tote-a-3c214cdd-87b9-47c9-9337-df1854e61f29#ref=rss)
-### réunion
+* [https://www.spiegel.de/sport/fussball/fa-cup-jean-philippe-mateta-von-crystal-palace-nach-brutalem-foul-im-krankenhaus](https://www.spiegel.de/sport/fussball/fa-cup-jean-philippe-mateta-von-crystal-palace-nach-brutalem-foul-im-krankenhaus-a-0a33f6ee-c7ad-4a04-a7bf-d86db16ea482#ref=rss)
+### mateta
 
-* [https://www.spiegel.de/ausland/franzoesisches-ueberseegebiet-zyklon-garance-wuetet-auf-la-reunion-mindestens-drei-tote](https://www.spiegel.de/ausland/franzoesisches-ueberseegebiet-zyklon-garance-wuetet-auf-la-reunion-mindestens-drei-tote-a-3c214cdd-87b9-47c9-9337-df1854e61f29#ref=rss)
-### insel
+* [https://www.spiegel.de/sport/fussball/fa-cup-jean-philippe-mateta-von-crystal-palace-nach-brutalem-foul-im-krankenhaus](https://www.spiegel.de/sport/fussball/fa-cup-jean-philippe-mateta-von-crystal-palace-nach-brutalem-foul-im-krankenhaus-a-0a33f6ee-c7ad-4a04-a7bf-d86db16ea482#ref=rss)
+### krankenhaus
 
-* [https://www.spiegel.de/ausland/franzoesisches-ueberseegebiet-zyklon-garance-wuetet-auf-la-reunion-mindestens-drei-tote](https://www.spiegel.de/ausland/franzoesisches-ueberseegebiet-zyklon-garance-wuetet-auf-la-reunion-mindestens-drei-tote-a-3c214cdd-87b9-47c9-9337-df1854e61f29#ref=rss)
-### mindestens
+* [https://www.spiegel.de/sport/fussball/fa-cup-jean-philippe-mateta-von-crystal-palace-nach-brutalem-foul-im-krankenhaus](https://www.spiegel.de/sport/fussball/fa-cup-jean-philippe-mateta-von-crystal-palace-nach-brutalem-foul-im-krankenhaus-a-0a33f6ee-c7ad-4a04-a7bf-d86db16ea482#ref=rss)
+### sky
 
-* [https://www.spiegel.de/ausland/franzoesisches-ueberseegebiet-zyklon-garance-wuetet-auf-la-reunion-mindestens-drei-tote](https://www.spiegel.de/ausland/franzoesisches-ueberseegebiet-zyklon-garance-wuetet-auf-la-reunion-mindestens-drei-tote-a-3c214cdd-87b9-47c9-9337-df1854e61f29#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/sky-setzt-pay-tv-kunden-mit-guenstigen-altvertraegen-unter-druck](https://www.spiegel.de/netzwelt/web/sky-setzt-pay-tv-kunden-mit-guenstigen-altvertraegen-unter-druck-a-0d51ab3a-d38d-4ba3-ae7f-b49059bc9e4e#ref=rss)
+### unter
+
+* [https://www.spiegel.de/netzwelt/web/sky-setzt-pay-tv-kunden-mit-guenstigen-altvertraegen-unter-druck](https://www.spiegel.de/netzwelt/web/sky-setzt-pay-tv-kunden-mit-guenstigen-altvertraegen-unter-druck-a-0d51ab3a-d38d-4ba3-ae7f-b49059bc9e4e#ref=rss)
+* [https://www.spiegel.de/start/berufseinstieg-oekonom-weber-bleibt-trotz-krisen-zuversichtlich](https://www.spiegel.de/start/berufseinstieg-oekonom-weber-bleibt-trotz-krisen-zuversichtlich-a-9ae19cd4-d8c7-4ee2-a417-cdcc10e3b541#ref=rss)
+### kunden
+
+* [https://www.spiegel.de/netzwelt/web/sky-setzt-pay-tv-kunden-mit-guenstigen-altvertraegen-unter-druck](https://www.spiegel.de/netzwelt/web/sky-setzt-pay-tv-kunden-mit-guenstigen-altvertraegen-unter-druck-a-0d51ab3a-d38d-4ba3-ae7f-b49059bc9e4e#ref=rss)
+### unternehmen
+
+* [https://www.spiegel.de/netzwelt/web/sky-setzt-pay-tv-kunden-mit-guenstigen-altvertraegen-unter-druck](https://www.spiegel.de/netzwelt/web/sky-setzt-pay-tv-kunden-mit-guenstigen-altvertraegen-unter-druck-a-0d51ab3a-d38d-4ba3-ae7f-b49059bc9e4e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/warnstreik-bei-der-post-viele-briefe-und-pakete-bleiben-liegen](https://www.spiegel.de/wirtschaft/service/warnstreik-bei-der-post-viele-briefe-und-pakete-bleiben-liegen-a-f9f3e16c-ce97-4790-831e-9dac3223410e#ref=rss)
+### datencheck
+
+* [https://www.spiegel.de/kultur/kino/oscar-2025-im-datencheck-werden-filme-laenger-und-schauspielerinnen-juenger](https://www.spiegel.de/kultur/kino/oscar-2025-im-datencheck-werden-filme-laenger-und-schauspielerinnen-juenger-a-c68756ae-5413-41fa-92f0-c8e0e30571b0#ref=rss)
+### länger
+
+* [https://www.spiegel.de/kultur/kino/oscar-2025-im-datencheck-werden-filme-laenger-und-schauspielerinnen-juenger](https://www.spiegel.de/kultur/kino/oscar-2025-im-datencheck-werden-filme-laenger-und-schauspielerinnen-juenger-a-c68756ae-5413-41fa-92f0-c8e0e30571b0#ref=rss)
+### schauspielerinnen
+
+* [https://www.spiegel.de/kultur/kino/oscar-2025-im-datencheck-werden-filme-laenger-und-schauspielerinnen-juenger](https://www.spiegel.de/kultur/kino/oscar-2025-im-datencheck-werden-filme-laenger-und-schauspielerinnen-juenger-a-c68756ae-5413-41fa-92f0-c8e0e30571b0#ref=rss)
+### jünger
+
+* [https://www.spiegel.de/kultur/kino/oscar-2025-im-datencheck-werden-filme-laenger-und-schauspielerinnen-juenger](https://www.spiegel.de/kultur/kino/oscar-2025-im-datencheck-werden-filme-laenger-und-schauspielerinnen-juenger-a-c68756ae-5413-41fa-92f0-c8e0e30571b0#ref=rss)
+### hyundai
+
+* [https://www.spiegel.de/auto/fahrberichte/hyundai-inster-im-test-flexibles-stadtauto-mit-ueberraschenden-details](https://www.spiegel.de/auto/fahrberichte/hyundai-inster-im-test-flexibles-stadtauto-mit-ueberraschenden-details-a-1cb4edf2-ce4f-4f69-8069-10b30007d8c0#ref=rss)
+### inster
+
+* [https://www.spiegel.de/auto/fahrberichte/hyundai-inster-im-test-flexibles-stadtauto-mit-ueberraschenden-details](https://www.spiegel.de/auto/fahrberichte/hyundai-inster-im-test-flexibles-stadtauto-mit-ueberraschenden-details-a-1cb4edf2-ce4f-4f69-8069-10b30007d8c0#ref=rss)
+### details
+
+* [https://www.spiegel.de/auto/fahrberichte/hyundai-inster-im-test-flexibles-stadtauto-mit-ueberraschenden-details](https://www.spiegel.de/auto/fahrberichte/hyundai-inster-im-test-flexibles-stadtauto-mit-ueberraschenden-details-a-1cb4edf2-ce4f-4f69-8069-10b30007d8c0#ref=rss)
+### tag
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### emma
+
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-gelingt-ihr-erster-weltcup-sieg-und-ist-sehr-ueberrascht](https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-gelingt-ihr-erster-weltcup-sieg-und-ist-sehr-ueberrascht-a-2c142075-52b8-4580-9bfb-fa50a0223fb5#ref=rss)
+### aicher
+
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-gelingt-ihr-erster-weltcup-sieg-und-ist-sehr-ueberrascht](https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-gelingt-ihr-erster-weltcup-sieg-und-ist-sehr-ueberrascht-a-2c142075-52b8-4580-9bfb-fa50a0223fb5#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-gelingt-ihr-erster-weltcup-sieg-und-ist-sehr-ueberrascht](https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-gelingt-ihr-erster-weltcup-sieg-und-ist-sehr-ueberrascht-a-2c142075-52b8-4580-9bfb-fa50a0223fb5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-hat-jetzt-keine-zeit-mehr-zu-verlieren](https://www.spiegel.de/politik/deutschland/friedrich-merz-hat-jetzt-keine-zeit-mehr-zu-verlieren-a-00886b2f-c62c-4be6-b05a-7aace0681383#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-hat-jetzt-keine-zeit-mehr-zu-verlieren](https://www.spiegel.de/politik/deutschland/friedrich-merz-hat-jetzt-keine-zeit-mehr-zu-verlieren-a-00886b2f-c62c-4be6-b05a-7aace0681383#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/warnstreik-bei-der-post-viele-briefe-und-pakete-bleiben-liegen](https://www.spiegel.de/wirtschaft/service/warnstreik-bei-der-post-viele-briefe-und-pakete-bleiben-liegen-a-f9f3e16c-ce97-4790-831e-9dac3223410e#ref=rss)
+### post
+
+* [https://www.spiegel.de/wirtschaft/service/warnstreik-bei-der-post-viele-briefe-und-pakete-bleiben-liegen](https://www.spiegel.de/wirtschaft/service/warnstreik-bei-der-post-viele-briefe-und-pakete-bleiben-liegen-a-f9f3e16c-ce97-4790-831e-9dac3223410e#ref=rss)
+### istanbul
+
+* [https://www.spiegel.de/sport/fussball/jose-mourinho-verklagt-galatasaray-istanbul](https://www.spiegel.de/sport/fussball/jose-mourinho-verklagt-galatasaray-istanbul-a-73b047c2-167b-4545-8ce7-8c66d6669f12#ref=rss)
+### josé
+
+* [https://www.spiegel.de/sport/fussball/jose-mourinho-verklagt-galatasaray-istanbul](https://www.spiegel.de/sport/fussball/jose-mourinho-verklagt-galatasaray-istanbul-a-73b047c2-167b-4545-8ce7-8c66d6669f12#ref=rss)
+### mourinho
+
+* [https://www.spiegel.de/sport/fussball/jose-mourinho-verklagt-galatasaray-istanbul](https://www.spiegel.de/sport/fussball/jose-mourinho-verklagt-galatasaray-istanbul-a-73b047c2-167b-4545-8ce7-8c66d6669f12#ref=rss)
+### ökonom
+
+* [https://www.spiegel.de/start/berufseinstieg-oekonom-weber-bleibt-trotz-krisen-zuversichtlich](https://www.spiegel.de/start/berufseinstieg-oekonom-weber-bleibt-trotz-krisen-zuversichtlich-a-9ae19cd4-d8c7-4ee2-a417-cdcc10e3b541#ref=rss)
+### weber
+
+* [https://www.spiegel.de/start/berufseinstieg-oekonom-weber-bleibt-trotz-krisen-zuversichtlich](https://www.spiegel.de/start/berufseinstieg-oekonom-weber-bleibt-trotz-krisen-zuversichtlich-a-9ae19cd4-d8c7-4ee2-a417-cdcc10e3b541#ref=rss)
+### zuversichtlich
+
+* [https://www.spiegel.de/start/berufseinstieg-oekonom-weber-bleibt-trotz-krisen-zuversichtlich](https://www.spiegel.de/start/berufseinstieg-oekonom-weber-bleibt-trotz-krisen-zuversichtlich-a-9ae19cd4-d8c7-4ee2-a417-cdcc10e3b541#ref=rss)
+### junge
+
+* [https://www.spiegel.de/start/berufseinstieg-oekonom-weber-bleibt-trotz-krisen-zuversichtlich](https://www.spiegel.de/start/berufseinstieg-oekonom-weber-bleibt-trotz-krisen-zuversichtlich-a-9ae19cd4-d8c7-4ee2-a417-cdcc10e3b541#ref=rss)
+* [https://www.spiegel.de/panorama/karneval-frauenjagd-an-fastnacht-sexismus-oder-brauchtum](https://www.spiegel.de/panorama/karneval-frauenjagd-an-fastnacht-sexismus-oder-brauchtum-a-1a28bed9-24a6-407c-924c-195aaeb1969f#ref=rss)
+### fastnacht
+
+* [https://www.spiegel.de/panorama/karneval-frauenjagd-an-fastnacht-sexismus-oder-brauchtum](https://www.spiegel.de/panorama/karneval-frauenjagd-an-fastnacht-sexismus-oder-brauchtum-a-1a28bed9-24a6-407c-924c-195aaeb1969f#ref=rss)
+### loris
+
+* [https://www.spiegel.de/sport/fussball/loris-karius-bei-schalke-04-mein-loewe-mein-baer-mein-karius](https://www.spiegel.de/sport/fussball/loris-karius-bei-schalke-04-mein-loewe-mein-baer-mein-karius-a-d42f37c1-4522-4c3b-b4ae-fd65fda2e300#ref=rss)
 
