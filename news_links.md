@@ -4,344 +4,339 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### hamburg
+### donald
 
-* [https://www.spiegel.de/politik/deutschland/hamburg-wahl-2025-im-live-blog-hoehere-wahlbeteiligung-zeichnet-sich-ab](https://www.spiegel.de/politik/deutschland/hamburg-wahl-2025-im-live-blog-hoehere-wahlbeteiligung-zeichnet-sich-ab-a-4d4c2179-41cd-4a79-b422-f245dfe73aca#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wahlergebnisse-buegerschaftswahl-hamburg-2025-so-hat-hamburg-gewaehlt](https://www.spiegel.de/politik/deutschland/wahlergebnisse-buegerschaftswahl-hamburg-2025-so-hat-hamburg-gewaehlt-a-afb767f0-995c-4269-b406-12286f4ab748#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/buergerschaftswahl-in-hamburg-2025-spd-trotz-verlusten-klar-staerkste-kraft-cdu-schliesst-zu-gruenen-auf](https://www.spiegel.de/politik/deutschland/buergerschaftswahl-in-hamburg-2025-spd-trotz-verlusten-klar-staerkste-kraft-cdu-schliesst-zu-gruenen-auf-a-297911d3-253c-4909-8f48-b944d0bdc6dd#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-holstein-kiel-verlaesst-nach-sieg-gegen-union-berlin-den-letzten-platz](https://www.spiegel.de/sport/fussball/bundesliga-holstein-kiel-verlaesst-nach-sieg-gegen-union-berlin-den-letzten-platz-a-e0a658a9-3dea-4682-b324-082874cfde40#ref=rss)
-* [https://www.spiegel.de/panorama/karneval-wozu-braucht-berlin-ein-prinzenpaar-herr-und-frau-buettner](https://www.spiegel.de/panorama/karneval-wozu-braucht-berlin-ein-prinzenpaar-herr-und-frau-buettner-a-8bcf7bb1-6e94-4495-a8c1-0d74ca8a53a0#ref=rss)
-### 2025
-
-* [https://www.spiegel.de/politik/deutschland/hamburg-wahl-2025-im-live-blog-hoehere-wahlbeteiligung-zeichnet-sich-ab](https://www.spiegel.de/politik/deutschland/hamburg-wahl-2025-im-live-blog-hoehere-wahlbeteiligung-zeichnet-sich-ab-a-4d4c2179-41cd-4a79-b422-f245dfe73aca#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wahlergebnisse-buegerschaftswahl-hamburg-2025-so-hat-hamburg-gewaehlt](https://www.spiegel.de/politik/deutschland/wahlergebnisse-buegerschaftswahl-hamburg-2025-so-hat-hamburg-gewaehlt-a-afb767f0-995c-4269-b406-12286f4ab748#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/buergerschaftswahl-in-hamburg-2025-spd-trotz-verlusten-klar-staerkste-kraft-cdu-schliesst-zu-gruenen-auf](https://www.spiegel.de/politik/deutschland/buergerschaftswahl-in-hamburg-2025-spd-trotz-verlusten-klar-staerkste-kraft-cdu-schliesst-zu-gruenen-auf-a-297911d3-253c-4909-8f48-b944d0bdc6dd#ref=rss)
-* [https://www.spiegel.de/kultur/kino/oscars-2025-wer-wird-gewinnen-und-wer-geht-leer-aus](https://www.spiegel.de/kultur/kino/oscars-2025-wer-wird-gewinnen-und-wer-geht-leer-aus-a-6cea1384-a32f-4a6b-8f96-1def7194033e#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/ukraine-croissants-aus-lwiw-erobern-cannes](https://www.spiegel.de/ausland/ukraine-croissants-aus-lwiw-erobern-cannes-a-f02252d6-7fcd-43fa-9fa6-f1fce5607bcf#ref=rss)
-* [https://www.spiegel.de/politik/europa-treffen-zur-ukraine-olaf-scholz-aeussert-sich-im-livestream](https://www.spiegel.de/politik/europa-treffen-zur-ukraine-olaf-scholz-aeussert-sich-im-livestream-a-282384bf-d900-4000-b723-09700ab34b0a#ref=rss)
-### nie
-
-* [https://www.spiegel.de/ausland/donald-trump-sein-schlimmster-gegner](https://www.spiegel.de/ausland/donald-trump-sein-schlimmster-gegner-a-60b572c7-82b5-4d7a-bee0-b39dcec1bc00#ref=rss)
-* [https://www.spiegel.de/ausland/oesterreich-dreier-koalition-aus-oevp-spoe-und-neos-steht-fest](https://www.spiegel.de/ausland/oesterreich-dreier-koalition-aus-oevp-spoe-und-neos-steht-fest-a-c7795c16-7efe-4001-8723-175f9fa25c89#ref=rss)
-* [https://www.spiegel.de/kultur/veronica-ferres-warum-die-schauspielerin-nie-tatort-kommissarin-wurde](https://www.spiegel.de/kultur/veronica-ferres-warum-die-schauspielerin-nie-tatort-kommissarin-wurde-a-b2420b1c-a40e-464b-a3cf-19b035204a82#ref=rss)
-### ich
-
-* [https://www.spiegel.de/panorama/schicksalswahl-im-alltag-ich-bin-der-beikoch-des-weltuntergangs](https://www.spiegel.de/panorama/schicksalswahl-im-alltag-ich-bin-der-beikoch-des-weltuntergangs-a-cf78d8bb-f122-4014-8632-24271be00f8f#ref=rss)
-* [https://www.spiegel.de/start/heimweh-wie-oft-sollte-man-sich-im-studium-bei-den-eltern-melden](https://www.spiegel.de/start/heimweh-wie-oft-sollte-man-sich-im-studium-bei-den-eltern-melden-a-74759ee6-1bac-4cfe-8724-fa72164a7add#ref=rss)
-### spd
-
-* [https://www.spiegel.de/politik/deutschland/hamburg-wahl-2025-im-live-blog-hoehere-wahlbeteiligung-zeichnet-sich-ab](https://www.spiegel.de/politik/deutschland/hamburg-wahl-2025-im-live-blog-hoehere-wahlbeteiligung-zeichnet-sich-ab-a-4d4c2179-41cd-4a79-b422-f245dfe73aca#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/buergerschaftswahl-in-hamburg-2025-spd-trotz-verlusten-klar-staerkste-kraft-cdu-schliesst-zu-gruenen-auf](https://www.spiegel.de/politik/deutschland/buergerschaftswahl-in-hamburg-2025-spd-trotz-verlusten-klar-staerkste-kraft-cdu-schliesst-zu-gruenen-auf-a-297911d3-253c-4909-8f48-b944d0bdc6dd#ref=rss)
-### bürgerschaftswahl
-
-* [https://www.spiegel.de/politik/deutschland/hamburg-wahl-2025-im-live-blog-hoehere-wahlbeteiligung-zeichnet-sich-ab](https://www.spiegel.de/politik/deutschland/hamburg-wahl-2025-im-live-blog-hoehere-wahlbeteiligung-zeichnet-sich-ab-a-4d4c2179-41cd-4a79-b422-f245dfe73aca#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/buergerschaftswahl-in-hamburg-2025-spd-trotz-verlusten-klar-staerkste-kraft-cdu-schliesst-zu-gruenen-auf](https://www.spiegel.de/politik/deutschland/buergerschaftswahl-in-hamburg-2025-spd-trotz-verlusten-klar-staerkste-kraft-cdu-schliesst-zu-gruenen-auf-a-297911d3-253c-4909-8f48-b944d0bdc6dd#ref=rss)
-### prognosen
-
-* [https://www.spiegel.de/politik/deutschland/hamburg-wahl-2025-im-live-blog-hoehere-wahlbeteiligung-zeichnet-sich-ab](https://www.spiegel.de/politik/deutschland/hamburg-wahl-2025-im-live-blog-hoehere-wahlbeteiligung-zeichnet-sich-ab-a-4d4c2179-41cd-4a79-b422-f245dfe73aca#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/buergerschaftswahl-in-hamburg-2025-spd-trotz-verlusten-klar-staerkste-kraft-cdu-schliesst-zu-gruenen-auf](https://www.spiegel.de/politik/deutschland/buergerschaftswahl-in-hamburg-2025-spd-trotz-verlusten-klar-staerkste-kraft-cdu-schliesst-zu-gruenen-auf-a-297911d3-253c-4909-8f48-b944d0bdc6dd#ref=rss)
-* [https://www.spiegel.de/kultur/kino/oscars-2025-wer-wird-gewinnen-und-wer-geht-leer-aus](https://www.spiegel.de/kultur/kino/oscars-2025-wer-wird-gewinnen-und-wer-geht-leer-aus-a-6cea1384-a32f-4a6b-8f96-1def7194033e#ref=rss)
-### cdu
-
-* [https://www.spiegel.de/politik/deutschland/hamburg-wahl-2025-im-live-blog-hoehere-wahlbeteiligung-zeichnet-sich-ab](https://www.spiegel.de/politik/deutschland/hamburg-wahl-2025-im-live-blog-hoehere-wahlbeteiligung-zeichnet-sich-ab-a-4d4c2179-41cd-4a79-b422-f245dfe73aca#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/buergerschaftswahl-in-hamburg-2025-spd-trotz-verlusten-klar-staerkste-kraft-cdu-schliesst-zu-gruenen-auf](https://www.spiegel.de/politik/deutschland/buergerschaftswahl-in-hamburg-2025-spd-trotz-verlusten-klar-staerkste-kraft-cdu-schliesst-zu-gruenen-auf-a-297911d3-253c-4909-8f48-b944d0bdc6dd#ref=rss)
-### neue
-
-* [https://www.spiegel.de/politik/deutschland/wahlergebnisse-buegerschaftswahl-hamburg-2025-so-hat-hamburg-gewaehlt](https://www.spiegel.de/politik/deutschland/wahlergebnisse-buegerschaftswahl-hamburg-2025-so-hat-hamburg-gewaehlt-a-afb767f0-995c-4269-b406-12286f4ab748#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-sein-schlimmster-gegner](https://www.spiegel.de/ausland/donald-trump-sein-schlimmster-gegner-a-60b572c7-82b5-4d7a-bee0-b39dcec1bc00#ref=rss)
-* [https://www.spiegel.de/ausland/oesterreich-dreier-koalition-aus-oevp-spoe-und-neos-steht-fest](https://www.spiegel.de/ausland/oesterreich-dreier-koalition-aus-oevp-spoe-und-neos-steht-fest-a-c7795c16-7efe-4001-8723-175f9fa25c89#ref=rss)
-### hamburger
-
-* [https://www.spiegel.de/politik/deutschland/buergerschaftswahl-in-hamburg-2025-spd-trotz-verlusten-klar-staerkste-kraft-cdu-schliesst-zu-gruenen-auf](https://www.spiegel.de/politik/deutschland/buergerschaftswahl-in-hamburg-2025-spd-trotz-verlusten-klar-staerkste-kraft-cdu-schliesst-zu-gruenen-auf-a-297911d3-253c-4909-8f48-b944d0bdc6dd#ref=rss)
-* [https://www.spiegel.de/sport/fussball/zweite-fussball-bundesliga-sc-paderborn-besiegt-hamburger-sv-hertha-bsc-geht-bei-der-sv-elversberg-unter](https://www.spiegel.de/sport/fussball/zweite-fussball-bundesliga-sc-paderborn-besiegt-hamburger-sv-hertha-bsc-geht-bei-der-sv-elversberg-unter-a-fc4f9313-e7c9-4178-bfc5-0041c119f224#ref=rss)
-### viele
-
-* [https://www.spiegel.de/panorama/toedliche-unfaelle-schwerverletzte-schwarzes-wochenende-auf-deutschlands-strassen](https://www.spiegel.de/panorama/toedliche-unfaelle-schwerverletzte-schwarzes-wochenende-auf-deutschlands-strassen-a-038b421c-3968-476d-b42e-49ac6ec16fd3#ref=rss)
-* [https://www.spiegel.de/karriere/raetsel-der-woche-vier-auf-einen-streich](https://www.spiegel.de/karriere/raetsel-der-woche-vier-auf-einen-streich-a-5fa65b33-d46b-40b5-beaf-d48a53bcef2c#ref=rss)
-* [https://www.spiegel.de/partnerschaft/revenge-dating-sonja-broening-ueber-rache-und-eifersucht-nach-einer-trennung](https://www.spiegel.de/partnerschaft/revenge-dating-sonja-broening-ueber-rache-und-eifersucht-nach-einer-trennung-a-03b4635f-eb0c-4ed2-8d80-9f43fce08dfc#ref=rss)
-### andreas
-
-* [https://www.spiegel.de/sport/wintersport/skispringen-andreas-wellinger-holt-wm-silber-in-trondheim](https://www.spiegel.de/sport/wintersport/skispringen-andreas-wellinger-holt-wm-silber-in-trondheim-a-c1967ae2-dc71-47b3-8793-7beeea727994#ref=rss)
-### wellinger
-
-* [https://www.spiegel.de/sport/wintersport/skispringen-andreas-wellinger-holt-wm-silber-in-trondheim](https://www.spiegel.de/sport/wintersport/skispringen-andreas-wellinger-holt-wm-silber-in-trondheim-a-c1967ae2-dc71-47b3-8793-7beeea727994#ref=rss)
-### holt
-
-* [https://www.spiegel.de/sport/wintersport/skispringen-andreas-wellinger-holt-wm-silber-in-trondheim](https://www.spiegel.de/sport/wintersport/skispringen-andreas-wellinger-holt-wm-silber-in-trondheim-a-c1967ae2-dc71-47b3-8793-7beeea727994#ref=rss)
-* [https://www.spiegel.de/kultur/tv/mike-myers-holt-die-kettensaege-raus-und-zerlegt-musk-und-trump](https://www.spiegel.de/kultur/tv/mike-myers-holt-die-kettensaege-raus-und-zerlegt-musk-und-trump-a-1ebfcc6a-c320-49a5-9542-ec4262073461#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/sport/wintersport/skispringen-andreas-wellinger-holt-wm-silber-in-trondheim](https://www.spiegel.de/sport/wintersport/skispringen-andreas-wellinger-holt-wm-silber-in-trondheim-a-c1967ae2-dc71-47b3-8793-7beeea727994#ref=rss)
-* [https://www.spiegel.de/kultur/veronica-ferres-warum-die-schauspielerin-nie-tatort-kommissarin-wurde](https://www.spiegel.de/kultur/veronica-ferres-warum-die-schauspielerin-nie-tatort-kommissarin-wurde-a-b2420b1c-a40e-464b-a3cf-19b035204a82#ref=rss)
-### knapp
-
-* [https://www.spiegel.de/sport/wintersport/skispringen-andreas-wellinger-holt-wm-silber-in-trondheim](https://www.spiegel.de/sport/wintersport/skispringen-andreas-wellinger-holt-wm-silber-in-trondheim-a-c1967ae2-dc71-47b3-8793-7beeea727994#ref=rss)
-* [https://www.spiegel.de/sport/fussball/zweite-fussball-bundesliga-sc-paderborn-besiegt-hamburger-sv-hertha-bsc-geht-bei-der-sv-elversberg-unter](https://www.spiegel.de/sport/fussball/zweite-fussball-bundesliga-sc-paderborn-besiegt-hamburger-sv-hertha-bsc-geht-bei-der-sv-elversberg-unter-a-fc4f9313-e7c9-4178-bfc5-0041c119f224#ref=rss)
-### no
-
-* [https://www.spiegel.de/ausland/oscar-kandidat-no-other-land-natuerlich-kann-man-hier-nicht-leben](https://www.spiegel.de/ausland/oscar-kandidat-no-other-land-natuerlich-kann-man-hier-nicht-leben-a-b9ee2fc7-799b-42fe-a38f-c5422f7cca81#ref=rss)
-### other
-
-* [https://www.spiegel.de/ausland/oscar-kandidat-no-other-land-natuerlich-kann-man-hier-nicht-leben](https://www.spiegel.de/ausland/oscar-kandidat-no-other-land-natuerlich-kann-man-hier-nicht-leben-a-b9ee2fc7-799b-42fe-a38f-c5422f7cca81#ref=rss)
-### land
-
-* [https://www.spiegel.de/ausland/oscar-kandidat-no-other-land-natuerlich-kann-man-hier-nicht-leben](https://www.spiegel.de/ausland/oscar-kandidat-no-other-land-natuerlich-kann-man-hier-nicht-leben-a-b9ee2fc7-799b-42fe-a38f-c5422f7cca81#ref=rss)
-### gewinnen
-
-* [https://www.spiegel.de/ausland/oscar-kandidat-no-other-land-natuerlich-kann-man-hier-nicht-leben](https://www.spiegel.de/ausland/oscar-kandidat-no-other-land-natuerlich-kann-man-hier-nicht-leben-a-b9ee2fc7-799b-42fe-a38f-c5422f7cca81#ref=rss)
-* [https://www.spiegel.de/kultur/kino/oscars-2025-wer-wird-gewinnen-und-wer-geht-leer-aus](https://www.spiegel.de/kultur/kino/oscars-2025-wer-wird-gewinnen-und-wer-geht-leer-aus-a-6cea1384-a32f-4a6b-8f96-1def7194033e#ref=rss)
-### grüne
-
-* [https://www.spiegel.de/politik/deutschland/hamburg-wahl-2025-im-live-blog-hoehere-wahlbeteiligung-zeichnet-sich-ab](https://www.spiegel.de/politik/deutschland/hamburg-wahl-2025-im-live-blog-hoehere-wahlbeteiligung-zeichnet-sich-ab-a-4d4c2179-41cd-4a79-b422-f245dfe73aca#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/buergerschaftswahl-in-hamburg-2025-spd-trotz-verlusten-klar-staerkste-kraft-cdu-schliesst-zu-gruenen-auf](https://www.spiegel.de/politik/deutschland/buergerschaftswahl-in-hamburg-2025-spd-trotz-verlusten-klar-staerkste-kraft-cdu-schliesst-zu-gruenen-auf-a-297911d3-253c-4909-8f48-b944d0bdc6dd#ref=rss)
-### verlieren
-
-* [https://www.spiegel.de/politik/deutschland/hamburg-wahl-2025-im-live-blog-hoehere-wahlbeteiligung-zeichnet-sich-ab](https://www.spiegel.de/politik/deutschland/hamburg-wahl-2025-im-live-blog-hoehere-wahlbeteiligung-zeichnet-sich-ab-a-4d4c2179-41cd-4a79-b422-f245dfe73aca#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/buergerschaftswahl-in-hamburg-2025-spd-trotz-verlusten-klar-staerkste-kraft-cdu-schliesst-zu-gruenen-auf](https://www.spiegel.de/politik/deutschland/buergerschaftswahl-in-hamburg-2025-spd-trotz-verlusten-klar-staerkste-kraft-cdu-schliesst-zu-gruenen-auf-a-297911d3-253c-4909-8f48-b944d0bdc6dd#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/politik/deutschland/hamburg-wahl-2025-im-live-blog-hoehere-wahlbeteiligung-zeichnet-sich-ab](https://www.spiegel.de/politik/deutschland/hamburg-wahl-2025-im-live-blog-hoehere-wahlbeteiligung-zeichnet-sich-ab-a-4d4c2179-41cd-4a79-b422-f245dfe73aca#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/buergerschaftswahl-in-hamburg-2025-spd-trotz-verlusten-klar-staerkste-kraft-cdu-schliesst-zu-gruenen-auf](https://www.spiegel.de/politik/deutschland/buergerschaftswahl-in-hamburg-2025-spd-trotz-verlusten-klar-staerkste-kraft-cdu-schliesst-zu-gruenen-auf-a-297911d3-253c-4909-8f48-b944d0bdc6dd#ref=rss)
-### zufolge
-
-* [https://www.spiegel.de/politik/deutschland/hamburg-wahl-2025-im-live-blog-hoehere-wahlbeteiligung-zeichnet-sich-ab](https://www.spiegel.de/politik/deutschland/hamburg-wahl-2025-im-live-blog-hoehere-wahlbeteiligung-zeichnet-sich-ab-a-4d4c2179-41cd-4a79-b422-f245dfe73aca#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/buergerschaftswahl-in-hamburg-2025-spd-trotz-verlusten-klar-staerkste-kraft-cdu-schliesst-zu-gruenen-auf](https://www.spiegel.de/politik/deutschland/buergerschaftswahl-in-hamburg-2025-spd-trotz-verlusten-klar-staerkste-kraft-cdu-schliesst-zu-gruenen-auf-a-297911d3-253c-4909-8f48-b944d0bdc6dd#ref=rss)
-### stimmenanteile
-
-* [https://www.spiegel.de/politik/deutschland/hamburg-wahl-2025-im-live-blog-hoehere-wahlbeteiligung-zeichnet-sich-ab](https://www.spiegel.de/politik/deutschland/hamburg-wahl-2025-im-live-blog-hoehere-wahlbeteiligung-zeichnet-sich-ab-a-4d4c2179-41cd-4a79-b422-f245dfe73aca#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/buergerschaftswahl-in-hamburg-2025-spd-trotz-verlusten-klar-staerkste-kraft-cdu-schliesst-zu-gruenen-auf](https://www.spiegel.de/politik/deutschland/buergerschaftswahl-in-hamburg-2025-spd-trotz-verlusten-klar-staerkste-kraft-cdu-schliesst-zu-gruenen-auf-a-297911d3-253c-4909-8f48-b944d0bdc6dd#ref=rss)
-### koalition
-
-* [https://www.spiegel.de/politik/deutschland/hamburg-wahl-2025-im-live-blog-hoehere-wahlbeteiligung-zeichnet-sich-ab](https://www.spiegel.de/politik/deutschland/hamburg-wahl-2025-im-live-blog-hoehere-wahlbeteiligung-zeichnet-sich-ab-a-4d4c2179-41cd-4a79-b422-f245dfe73aca#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/buergerschaftswahl-in-hamburg-2025-spd-trotz-verlusten-klar-staerkste-kraft-cdu-schliesst-zu-gruenen-auf](https://www.spiegel.de/politik/deutschland/buergerschaftswahl-in-hamburg-2025-spd-trotz-verlusten-klar-staerkste-kraft-cdu-schliesst-zu-gruenen-auf-a-297911d3-253c-4909-8f48-b944d0bdc6dd#ref=rss)
-### wohl
-
-* [https://www.spiegel.de/politik/deutschland/hamburg-wahl-2025-im-live-blog-hoehere-wahlbeteiligung-zeichnet-sich-ab](https://www.spiegel.de/politik/deutschland/hamburg-wahl-2025-im-live-blog-hoehere-wahlbeteiligung-zeichnet-sich-ab-a-4d4c2179-41cd-4a79-b422-f245dfe73aca#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/buergerschaftswahl-in-hamburg-2025-spd-trotz-verlusten-klar-staerkste-kraft-cdu-schliesst-zu-gruenen-auf](https://www.spiegel.de/politik/deutschland/buergerschaftswahl-in-hamburg-2025-spd-trotz-verlusten-klar-staerkste-kraft-cdu-schliesst-zu-gruenen-auf-a-297911d3-253c-4909-8f48-b944d0bdc6dd#ref=rss)
-### fortsetzen
-
-* [https://www.spiegel.de/politik/deutschland/hamburg-wahl-2025-im-live-blog-hoehere-wahlbeteiligung-zeichnet-sich-ab](https://www.spiegel.de/politik/deutschland/hamburg-wahl-2025-im-live-blog-hoehere-wahlbeteiligung-zeichnet-sich-ab-a-4d4c2179-41cd-4a79-b422-f245dfe73aca#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/buergerschaftswahl-in-hamburg-2025-spd-trotz-verlusten-klar-staerkste-kraft-cdu-schliesst-zu-gruenen-auf](https://www.spiegel.de/politik/deutschland/buergerschaftswahl-in-hamburg-2025-spd-trotz-verlusten-klar-staerkste-kraft-cdu-schliesst-zu-gruenen-auf-a-297911d3-253c-4909-8f48-b944d0bdc6dd#ref=rss)
-### steigert
-
-* [https://www.spiegel.de/politik/deutschland/hamburg-wahl-2025-im-live-blog-hoehere-wahlbeteiligung-zeichnet-sich-ab](https://www.spiegel.de/politik/deutschland/hamburg-wahl-2025-im-live-blog-hoehere-wahlbeteiligung-zeichnet-sich-ab-a-4d4c2179-41cd-4a79-b422-f245dfe73aca#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/buergerschaftswahl-in-hamburg-2025-spd-trotz-verlusten-klar-staerkste-kraft-cdu-schliesst-zu-gruenen-auf](https://www.spiegel.de/politik/deutschland/buergerschaftswahl-in-hamburg-2025-spd-trotz-verlusten-klar-staerkste-kraft-cdu-schliesst-zu-gruenen-auf-a-297911d3-253c-4909-8f48-b944d0bdc6dd#ref=rss)
-### deutlich
-
-* [https://www.spiegel.de/politik/deutschland/hamburg-wahl-2025-im-live-blog-hoehere-wahlbeteiligung-zeichnet-sich-ab](https://www.spiegel.de/politik/deutschland/hamburg-wahl-2025-im-live-blog-hoehere-wahlbeteiligung-zeichnet-sich-ab-a-4d4c2179-41cd-4a79-b422-f245dfe73aca#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/buergerschaftswahl-in-hamburg-2025-spd-trotz-verlusten-klar-staerkste-kraft-cdu-schliesst-zu-gruenen-auf](https://www.spiegel.de/politik/deutschland/buergerschaftswahl-in-hamburg-2025-spd-trotz-verlusten-klar-staerkste-kraft-cdu-schliesst-zu-gruenen-auf-a-297911d3-253c-4909-8f48-b944d0bdc6dd#ref=rss)
-### lwiw
-
-* [https://www.spiegel.de/ausland/ukraine-croissants-aus-lwiw-erobern-cannes](https://www.spiegel.de/ausland/ukraine-croissants-aus-lwiw-erobern-cannes-a-f02252d6-7fcd-43fa-9fa6-f1fce5607bcf#ref=rss)
-### cannes
-
-* [https://www.spiegel.de/ausland/ukraine-croissants-aus-lwiw-erobern-cannes](https://www.spiegel.de/ausland/ukraine-croissants-aus-lwiw-erobern-cannes-a-f02252d6-7fcd-43fa-9fa6-f1fce5607bcf#ref=rss)
-### olaf
-
-* [https://www.spiegel.de/politik/europa-treffen-zur-ukraine-olaf-scholz-aeussert-sich-im-livestream](https://www.spiegel.de/politik/europa-treffen-zur-ukraine-olaf-scholz-aeussert-sich-im-livestream-a-282384bf-d900-4000-b723-09700ab34b0a#ref=rss)
-* [https://www.spiegel.de/panorama/karneval-wozu-braucht-berlin-ein-prinzenpaar-herr-und-frau-buettner](https://www.spiegel.de/panorama/karneval-wozu-braucht-berlin-ein-prinzenpaar-herr-und-frau-buettner-a-8bcf7bb1-6e94-4495-a8c1-0d74ca8a53a0#ref=rss)
-### scholz
-
-* [https://www.spiegel.de/politik/europa-treffen-zur-ukraine-olaf-scholz-aeussert-sich-im-livestream](https://www.spiegel.de/politik/europa-treffen-zur-ukraine-olaf-scholz-aeussert-sich-im-livestream-a-282384bf-d900-4000-b723-09700ab34b0a#ref=rss)
-* [https://www.spiegel.de/panorama/karneval-wozu-braucht-berlin-ein-prinzenpaar-herr-und-frau-buettner](https://www.spiegel.de/panorama/karneval-wozu-braucht-berlin-ein-prinzenpaar-herr-und-frau-buettner-a-8bcf7bb1-6e94-4495-a8c1-0d74ca8a53a0#ref=rss)
-### braucht
-
-* [https://www.spiegel.de/politik/europa-treffen-zur-ukraine-olaf-scholz-aeussert-sich-im-livestream](https://www.spiegel.de/politik/europa-treffen-zur-ukraine-olaf-scholz-aeussert-sich-im-livestream-a-282384bf-d900-4000-b723-09700ab34b0a#ref=rss)
-* [https://www.spiegel.de/panorama/karneval-wozu-braucht-berlin-ein-prinzenpaar-herr-und-frau-buettner](https://www.spiegel.de/panorama/karneval-wozu-braucht-berlin-ein-prinzenpaar-herr-und-frau-buettner-a-8bcf7bb1-6e94-4495-a8c1-0d74ca8a53a0#ref=rss)
-### eklat
-
-* [https://www.spiegel.de/politik/europa-treffen-zur-ukraine-olaf-scholz-aeussert-sich-im-livestream](https://www.spiegel.de/politik/europa-treffen-zur-ukraine-olaf-scholz-aeussert-sich-im-livestream-a-282384bf-d900-4000-b723-09700ab34b0a#ref=rss)
-* [https://www.spiegel.de/kultur/tv/mike-myers-holt-die-kettensaege-raus-und-zerlegt-musk-und-trump](https://www.spiegel.de/kultur/tv/mike-myers-holt-die-kettensaege-raus-und-zerlegt-musk-und-trump-a-1ebfcc6a-c320-49a5-9542-ec4262073461#ref=rss)
-### weißen
-
-* [https://www.spiegel.de/politik/europa-treffen-zur-ukraine-olaf-scholz-aeussert-sich-im-livestream](https://www.spiegel.de/politik/europa-treffen-zur-ukraine-olaf-scholz-aeussert-sich-im-livestream-a-282384bf-d900-4000-b723-09700ab34b0a#ref=rss)
-* [https://www.spiegel.de/kultur/tv/mike-myers-holt-die-kettensaege-raus-und-zerlegt-musk-und-trump](https://www.spiegel.de/kultur/tv/mike-myers-holt-die-kettensaege-raus-und-zerlegt-musk-und-trump-a-1ebfcc6a-c320-49a5-9542-ec4262073461#ref=rss)
-### haus
-
-* [https://www.spiegel.de/politik/europa-treffen-zur-ukraine-olaf-scholz-aeussert-sich-im-livestream](https://www.spiegel.de/politik/europa-treffen-zur-ukraine-olaf-scholz-aeussert-sich-im-livestream-a-282384bf-d900-4000-b723-09700ab34b0a#ref=rss)
-* [https://www.spiegel.de/kultur/tv/mike-myers-holt-die-kettensaege-raus-und-zerlegt-musk-und-trump](https://www.spiegel.de/kultur/tv/mike-myers-holt-die-kettensaege-raus-und-zerlegt-musk-und-trump-a-1ebfcc6a-c320-49a5-9542-ec4262073461#ref=rss)
-### bundesliga
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-holstein-kiel-verlaesst-nach-sieg-gegen-union-berlin-den-letzten-platz](https://www.spiegel.de/sport/fussball/bundesliga-holstein-kiel-verlaesst-nach-sieg-gegen-union-berlin-den-letzten-platz-a-e0a658a9-3dea-4682-b324-082874cfde40#ref=rss)
-* [https://www.spiegel.de/sport/fussball/zweite-fussball-bundesliga-sc-paderborn-besiegt-hamburger-sv-hertha-bsc-geht-bei-der-sv-elversberg-unter](https://www.spiegel.de/sport/fussball/zweite-fussball-bundesliga-sc-paderborn-besiegt-hamburger-sv-hertha-bsc-geht-bei-der-sv-elversberg-unter-a-fc4f9313-e7c9-4178-bfc5-0041c119f224#ref=rss)
-### holstein
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-holstein-kiel-verlaesst-nach-sieg-gegen-union-berlin-den-letzten-platz](https://www.spiegel.de/sport/fussball/bundesliga-holstein-kiel-verlaesst-nach-sieg-gegen-union-berlin-den-letzten-platz-a-e0a658a9-3dea-4682-b324-082874cfde40#ref=rss)
-### kiel
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-holstein-kiel-verlaesst-nach-sieg-gegen-union-berlin-den-letzten-platz](https://www.spiegel.de/sport/fussball/bundesliga-holstein-kiel-verlaesst-nach-sieg-gegen-union-berlin-den-letzten-platz-a-e0a658a9-3dea-4682-b324-082874cfde40#ref=rss)
-### sieg
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-holstein-kiel-verlaesst-nach-sieg-gegen-union-berlin-den-letzten-platz](https://www.spiegel.de/sport/fussball/bundesliga-holstein-kiel-verlaesst-nach-sieg-gegen-union-berlin-den-letzten-platz-a-e0a658a9-3dea-4682-b324-082874cfde40#ref=rss)
-### union
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-holstein-kiel-verlaesst-nach-sieg-gegen-union-berlin-den-letzten-platz](https://www.spiegel.de/sport/fussball/bundesliga-holstein-kiel-verlaesst-nach-sieg-gegen-union-berlin-den-letzten-platz-a-e0a658a9-3dea-4682-b324-082874cfde40#ref=rss)
-### letzten
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-holstein-kiel-verlaesst-nach-sieg-gegen-union-berlin-den-letzten-platz](https://www.spiegel.de/sport/fussball/bundesliga-holstein-kiel-verlaesst-nach-sieg-gegen-union-berlin-den-letzten-platz-a-e0a658a9-3dea-4682-b324-082874cfde40#ref=rss)
-* [https://www.spiegel.de/panorama/schicksalswahl-im-alltag-ich-bin-der-beikoch-des-weltuntergangs](https://www.spiegel.de/panorama/schicksalswahl-im-alltag-ich-bin-der-beikoch-des-weltuntergangs-a-cf78d8bb-f122-4014-8632-24271be00f8f#ref=rss)
-### geraten
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-holstein-kiel-verlaesst-nach-sieg-gegen-union-berlin-den-letzten-platz](https://www.spiegel.de/sport/fussball/bundesliga-holstein-kiel-verlaesst-nach-sieg-gegen-union-berlin-den-letzten-platz-a-e0a658a9-3dea-4682-b324-082874cfde40#ref=rss)
-* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-muenchen-charlie-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-muenchen-charlie-im-schnellcheck-a-89fff808-7851-4d91-88f3-b8f5a16b2080#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/donald-trump-sicherheitsexperte-carlo-masala-sieht-us-praesidenten-auf-dem-weg-ins-team-putin](https://www.spiegel.de/politik/deutschland/donald-trump-sicherheitsexperte-carlo-masala-sieht-us-praesidenten-auf-dem-weg-ins-team-putin-a-9bad4499-660a-4169-b2f7-1ba81534a137#ref=rss)
+* [https://www.spiegel.de/wirtschaft/boerse-warum-donald-trumps-zweite-amtszeit-die-finanzmaerkte-enttaeuscht](https://www.spiegel.de/wirtschaft/boerse-warum-donald-trumps-zweite-amtszeit-die-finanzmaerkte-enttaeuscht-a-3eac6ec6-8b34-4060-9134-428df541f225#ref=rss)
+* [https://www.spiegel.de/kultur/musik/neil-young-will-tournee-start-in-die-ukraine-verlegen](https://www.spiegel.de/kultur/musik/neil-young-will-tournee-start-in-die-ukraine-verlegen-a-4e46c847-1d61-4804-a44b-826b7e35b026#ref=rss)
+* [https://www.spiegel.de/panorama/leute/oscar-verleihung-moderator-conan-obrien-und-die-maechtigen-russen](https://www.spiegel.de/panorama/leute/oscar-verleihung-moderator-conan-obrien-und-die-maechtigen-russen-a-99e3ba5a-7975-4297-bac4-ae6d2b2a3c23#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-james-lankford-republikanischer-senator-zeigt-verstaendnis-fuer-wolodymyr-selenskyj](https://www.spiegel.de/ausland/ukraine-james-lankford-republikanischer-senator-zeigt-verstaendnis-fuer-wolodymyr-selenskyj-a-520afde0-e519-488d-ac40-1c7e244c1b4c#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/ausland/donald-trump-sein-schlimmster-gegner](https://www.spiegel.de/ausland/donald-trump-sein-schlimmster-gegner-a-60b572c7-82b5-4d7a-bee0-b39dcec1bc00#ref=rss)
-* [https://www.spiegel.de/kultur/tv/mike-myers-holt-die-kettensaege-raus-und-zerlegt-musk-und-trump](https://www.spiegel.de/kultur/tv/mike-myers-holt-die-kettensaege-raus-und-zerlegt-musk-und-trump-a-1ebfcc6a-c320-49a5-9542-ec4262073461#ref=rss)
-### unfälle
+* [https://www.spiegel.de/politik/deutschland/donald-trump-sicherheitsexperte-carlo-masala-sieht-us-praesidenten-auf-dem-weg-ins-team-putin](https://www.spiegel.de/politik/deutschland/donald-trump-sicherheitsexperte-carlo-masala-sieht-us-praesidenten-auf-dem-weg-ins-team-putin-a-9bad4499-660a-4169-b2f7-1ba81534a137#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/die-linke-und-sicherheitspolitik-warum-tax-the-rich-rufe-putin-orban-und-trump-nicht-interessieren-werden](https://www.spiegel.de/politik/deutschland/die-linke-und-sicherheitspolitik-warum-tax-the-rich-rufe-putin-orban-und-trump-nicht-interessieren-werden-a-3e4a0cf3-04b8-4804-ae32-124e9fdde412#ref=rss)
+* [https://www.spiegel.de/wirtschaft/boerse-warum-donald-trumps-zweite-amtszeit-die-finanzmaerkte-enttaeuscht](https://www.spiegel.de/wirtschaft/boerse-warum-donald-trumps-zweite-amtszeit-die-finanzmaerkte-enttaeuscht-a-3eac6ec6-8b34-4060-9134-428df541f225#ref=rss)
+* [https://www.spiegel.de/kultur/musik/neil-young-will-tournee-start-in-die-ukraine-verlegen](https://www.spiegel.de/kultur/musik/neil-young-will-tournee-start-in-die-ukraine-verlegen-a-4e46c847-1d61-4804-a44b-826b7e35b026#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-james-lankford-republikanischer-senator-zeigt-verstaendnis-fuer-wolodymyr-selenskyj](https://www.spiegel.de/ausland/ukraine-james-lankford-republikanischer-senator-zeigt-verstaendnis-fuer-wolodymyr-selenskyj-a-520afde0-e519-488d-ac40-1c7e244c1b4c#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/panorama/toedliche-unfaelle-schwerverletzte-schwarzes-wochenende-auf-deutschlands-strassen](https://www.spiegel.de/panorama/toedliche-unfaelle-schwerverletzte-schwarzes-wochenende-auf-deutschlands-strassen-a-038b421c-3968-476d-b42e-49ac6ec16fd3#ref=rss)
-### sonntag
+* [https://www.spiegel.de/panorama/japan-tausende-menschen-sollen-waldbrandgebiet-verlassen](https://www.spiegel.de/panorama/japan-tausende-menschen-sollen-waldbrandgebiet-verlassen-a-77b9ae3d-e91e-47a8-82d7-f35b4eb407cb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/audi-will-bis-zu-1-5-milliarden-euro-beim-personal-sparen](https://www.spiegel.de/wirtschaft/unternehmen/audi-will-bis-zu-1-5-milliarden-euro-beim-personal-sparen-a-6667ea7c-839c-47e1-9a7d-7bfec7c39d0b#ref=rss)
+* [https://www.spiegel.de/netzwelt/faxgeraete-in-deutschland-warum-die-deutschen-das-faxen-nicht-lassen-wollen](https://www.spiegel.de/netzwelt/faxgeraete-in-deutschland-warum-die-deutschen-das-faxen-nicht-lassen-wollen-a-86b899c9-4edf-4270-8c42-e37d5f9ba807#ref=rss)
+* [https://www.spiegel.de/sport/harry-styles-laeuft-tokio-marathon-unter-dreieinhalb-stunden](https://www.spiegel.de/sport/harry-styles-laeuft-tokio-marathon-unter-dreieinhalb-stunden-a-24aeaee8-7970-492c-8bb5-692ec393bb9a#ref=rss)
+### läuft
 
-* [https://www.spiegel.de/panorama/toedliche-unfaelle-schwerverletzte-schwarzes-wochenende-auf-deutschlands-strassen](https://www.spiegel.de/panorama/toedliche-unfaelle-schwerverletzte-schwarzes-wochenende-auf-deutschlands-strassen-a-038b421c-3968-476d-b42e-49ac6ec16fd3#ref=rss)
-* [https://www.spiegel.de/panorama/schicksalswahl-im-alltag-ich-bin-der-beikoch-des-weltuntergangs](https://www.spiegel.de/panorama/schicksalswahl-im-alltag-ich-bin-der-beikoch-des-weltuntergangs-a-cf78d8bb-f122-4014-8632-24271be00f8f#ref=rss)
-### saturday
+* [https://www.spiegel.de/wirtschaft/unternehmen/audi-will-bis-zu-1-5-milliarden-euro-beim-personal-sparen](https://www.spiegel.de/wirtschaft/unternehmen/audi-will-bis-zu-1-5-milliarden-euro-beim-personal-sparen-a-6667ea7c-839c-47e1-9a7d-7bfec7c39d0b#ref=rss)
+* [https://www.spiegel.de/sport/harry-styles-laeuft-tokio-marathon-unter-dreieinhalb-stunden](https://www.spiegel.de/sport/harry-styles-laeuft-tokio-marathon-unter-dreieinhalb-stunden-a-24aeaee8-7970-492c-8bb5-692ec393bb9a#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/ukraine-fluechtlinge-in-deutschland-studie-belegt-hohen-anteil-an-rueckkehr-unwilligen](https://www.spiegel.de/panorama/gesellschaft/ukraine-fluechtlinge-in-deutschland-studie-belegt-hohen-anteil-an-rueckkehr-unwilligen-a-02cc67b5-1419-4fc6-b8ce-4eae0960a597#ref=rss)
+* [https://www.spiegel.de/wirtschaft/boerse-warum-donald-trumps-zweite-amtszeit-die-finanzmaerkte-enttaeuscht](https://www.spiegel.de/wirtschaft/boerse-warum-donald-trumps-zweite-amtszeit-die-finanzmaerkte-enttaeuscht-a-3eac6ec6-8b34-4060-9134-428df541f225#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/kultur/tv/mike-myers-holt-die-kettensaege-raus-und-zerlegt-musk-und-trump](https://www.spiegel.de/kultur/tv/mike-myers-holt-die-kettensaege-raus-und-zerlegt-musk-und-trump-a-1ebfcc6a-c320-49a5-9542-ec4262073461#ref=rss)
-### night
+* [https://www.spiegel.de/netzwelt/faxgeraete-in-deutschland-warum-die-deutschen-das-faxen-nicht-lassen-wollen](https://www.spiegel.de/netzwelt/faxgeraete-in-deutschland-warum-die-deutschen-das-faxen-nicht-lassen-wollen-a-86b899c9-4edf-4270-8c42-e37d5f9ba807#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/ukraine-fluechtlinge-in-deutschland-studie-belegt-hohen-anteil-an-rueckkehr-unwilligen](https://www.spiegel.de/panorama/gesellschaft/ukraine-fluechtlinge-in-deutschland-studie-belegt-hohen-anteil-an-rueckkehr-unwilligen-a-02cc67b5-1419-4fc6-b8ce-4eae0960a597#ref=rss)
+### spd
 
-* [https://www.spiegel.de/kultur/tv/mike-myers-holt-die-kettensaege-raus-und-zerlegt-musk-und-trump](https://www.spiegel.de/kultur/tv/mike-myers-holt-die-kettensaege-raus-und-zerlegt-musk-und-trump-a-1ebfcc6a-c320-49a5-9542-ec4262073461#ref=rss)
-### live
+* [https://www.spiegel.de/politik/deutschland/buergerschaftswahl-hamburg-wo-spd-und-gruene-stimmen-verloren-und-trotzdem-gewannen](https://www.spiegel.de/politik/deutschland/buergerschaftswahl-hamburg-wo-spd-und-gruene-stimmen-verloren-und-trotzdem-gewannen-a-19ab97b1-9601-499c-bb51-0438351dc0b4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/hamburg-wahl-2025-cdu-mobilisiert-erfolgreich-nichtwaehler](https://www.spiegel.de/politik/deutschland/hamburg-wahl-2025-cdu-mobilisiert-erfolgreich-nichtwaehler-a-e715e786-46a4-47bd-be40-51e5c4c1adbd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/pressestimmen-zur-buergerschaftswahl-was-die-csu-in-bayern-ist-ist-die-spd-in-hamburg](https://www.spiegel.de/politik/deutschland/pressestimmen-zur-buergerschaftswahl-was-die-csu-in-bayern-ist-ist-die-spd-in-hamburg-a-5c2268fc-5782-4069-9985-b7097f9a42bf#ref=rss)
+### mann
 
-* [https://www.spiegel.de/kultur/tv/mike-myers-holt-die-kettensaege-raus-und-zerlegt-musk-und-trump](https://www.spiegel.de/kultur/tv/mike-myers-holt-die-kettensaege-raus-und-zerlegt-musk-und-trump-a-1ebfcc6a-c320-49a5-9542-ec4262073461#ref=rss)
-### mike
-
-* [https://www.spiegel.de/kultur/tv/mike-myers-holt-die-kettensaege-raus-und-zerlegt-musk-und-trump](https://www.spiegel.de/kultur/tv/mike-myers-holt-die-kettensaege-raus-und-zerlegt-musk-und-trump-a-1ebfcc6a-c320-49a5-9542-ec4262073461#ref=rss)
-### myers
-
-* [https://www.spiegel.de/kultur/tv/mike-myers-holt-die-kettensaege-raus-und-zerlegt-musk-und-trump](https://www.spiegel.de/kultur/tv/mike-myers-holt-die-kettensaege-raus-und-zerlegt-musk-und-trump-a-1ebfcc6a-c320-49a5-9542-ec4262073461#ref=rss)
-### landes
-
-* [https://www.spiegel.de/panorama/schicksalswahl-im-alltag-ich-bin-der-beikoch-des-weltuntergangs](https://www.spiegel.de/panorama/schicksalswahl-im-alltag-ich-bin-der-beikoch-des-weltuntergangs-a-cf78d8bb-f122-4014-8632-24271be00f8f#ref=rss)
-* [https://www.spiegel.de/kultur/veronica-ferres-warum-die-schauspielerin-nie-tatort-kommissarin-wurde](https://www.spiegel.de/kultur/veronica-ferres-warum-die-schauspielerin-nie-tatort-kommissarin-wurde-a-b2420b1c-a40e-464b-a3cf-19b035204a82#ref=rss)
-### vier
-
-* [https://www.spiegel.de/karriere/raetsel-der-woche-vier-auf-einen-streich](https://www.spiegel.de/karriere/raetsel-der-woche-vier-auf-einen-streich-a-5fa65b33-d46b-40b5-beaf-d48a53bcef2c#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### tag
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### sieben
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-* [https://www.spiegel.de/ausland/iran-parlament-entlaesst-wirtschaftsminister-hemmati-nach-sieben-monaten](https://www.spiegel.de/ausland/iran-parlament-entlaesst-wirtschaftsminister-hemmati-nach-sieben-monaten-a-e944510d-e8bb-425c-9943-1038e9b56cf3#ref=rss)
-### wichtigsten
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-* [https://www.spiegel.de/kultur/veronica-ferres-warum-die-schauspielerin-nie-tatort-kommissarin-wurde](https://www.spiegel.de/kultur/veronica-ferres-warum-die-schauspielerin-nie-tatort-kommissarin-wurde-a-b2420b1c-a40e-464b-a3cf-19b035204a82#ref=rss)
-### wirtschaftsminister
-
-* [https://www.spiegel.de/ausland/iran-parlament-entlaesst-wirtschaftsminister-hemmati-nach-sieben-monaten](https://www.spiegel.de/ausland/iran-parlament-entlaesst-wirtschaftsminister-hemmati-nach-sieben-monaten-a-e944510d-e8bb-425c-9943-1038e9b56cf3#ref=rss)
-### hemmati
-
-* [https://www.spiegel.de/ausland/iran-parlament-entlaesst-wirtschaftsminister-hemmati-nach-sieben-monaten](https://www.spiegel.de/ausland/iran-parlament-entlaesst-wirtschaftsminister-hemmati-nach-sieben-monaten-a-e944510d-e8bb-425c-9943-1038e9b56cf3#ref=rss)
-### ärzte
-
-* [https://www.spiegel.de/wissenschaft/parkinson-wie-aerzte-mit-neuen-gehirnchips-in-geistige-prozesse-eingreifen](https://www.spiegel.de/wissenschaft/parkinson-wie-aerzte-mit-neuen-gehirnchips-in-geistige-prozesse-eingreifen-a-62de97ca-4c2f-4368-8f1b-53eceb874067#ref=rss)
-### geistige
-
-* [https://www.spiegel.de/wissenschaft/parkinson-wie-aerzte-mit-neuen-gehirnchips-in-geistige-prozesse-eingreifen](https://www.spiegel.de/wissenschaft/parkinson-wie-aerzte-mit-neuen-gehirnchips-in-geistige-prozesse-eingreifen-a-62de97ca-4c2f-4368-8f1b-53eceb874067#ref=rss)
-### prozesse
-
-* [https://www.spiegel.de/wissenschaft/parkinson-wie-aerzte-mit-neuen-gehirnchips-in-geistige-prozesse-eingreifen](https://www.spiegel.de/wissenschaft/parkinson-wie-aerzte-mit-neuen-gehirnchips-in-geistige-prozesse-eingreifen-a-62de97ca-4c2f-4368-8f1b-53eceb874067#ref=rss)
-### revenge
-
-* [https://www.spiegel.de/partnerschaft/revenge-dating-sonja-broening-ueber-rache-und-eifersucht-nach-einer-trennung](https://www.spiegel.de/partnerschaft/revenge-dating-sonja-broening-ueber-rache-und-eifersucht-nach-einer-trennung-a-03b4635f-eb0c-4ed2-8d80-9f43fce08dfc#ref=rss)
-### dating
-
-* [https://www.spiegel.de/partnerschaft/revenge-dating-sonja-broening-ueber-rache-und-eifersucht-nach-einer-trennung](https://www.spiegel.de/partnerschaft/revenge-dating-sonja-broening-ueber-rache-und-eifersucht-nach-einer-trennung-a-03b4635f-eb0c-4ed2-8d80-9f43fce08dfc#ref=rss)
-### sonja
-
-* [https://www.spiegel.de/partnerschaft/revenge-dating-sonja-broening-ueber-rache-und-eifersucht-nach-einer-trennung](https://www.spiegel.de/partnerschaft/revenge-dating-sonja-broening-ueber-rache-und-eifersucht-nach-einer-trennung-a-03b4635f-eb0c-4ed2-8d80-9f43fce08dfc#ref=rss)
-### bröning
-
-* [https://www.spiegel.de/partnerschaft/revenge-dating-sonja-broening-ueber-rache-und-eifersucht-nach-einer-trennung](https://www.spiegel.de/partnerschaft/revenge-dating-sonja-broening-ueber-rache-und-eifersucht-nach-einer-trennung-a-03b4635f-eb0c-4ed2-8d80-9f43fce08dfc#ref=rss)
-### rache
-
-* [https://www.spiegel.de/partnerschaft/revenge-dating-sonja-broening-ueber-rache-und-eifersucht-nach-einer-trennung](https://www.spiegel.de/partnerschaft/revenge-dating-sonja-broening-ueber-rache-und-eifersucht-nach-einer-trennung-a-03b4635f-eb0c-4ed2-8d80-9f43fce08dfc#ref=rss)
-### paderborn
-
-* [https://www.spiegel.de/sport/fussball/zweite-fussball-bundesliga-sc-paderborn-besiegt-hamburger-sv-hertha-bsc-geht-bei-der-sv-elversberg-unter](https://www.spiegel.de/sport/fussball/zweite-fussball-bundesliga-sc-paderborn-besiegt-hamburger-sv-hertha-bsc-geht-bei-der-sv-elversberg-unter-a-fc4f9313-e7c9-4178-bfc5-0041c119f224#ref=rss)
-### sv
-
-* [https://www.spiegel.de/sport/fussball/zweite-fussball-bundesliga-sc-paderborn-besiegt-hamburger-sv-hertha-bsc-geht-bei-der-sv-elversberg-unter](https://www.spiegel.de/sport/fussball/zweite-fussball-bundesliga-sc-paderborn-besiegt-hamburger-sv-hertha-bsc-geht-bei-der-sv-elversberg-unter-a-fc4f9313-e7c9-4178-bfc5-0041c119f224#ref=rss)
-### hertha
-
-* [https://www.spiegel.de/sport/fussball/zweite-fussball-bundesliga-sc-paderborn-besiegt-hamburger-sv-hertha-bsc-geht-bei-der-sv-elversberg-unter](https://www.spiegel.de/sport/fussball/zweite-fussball-bundesliga-sc-paderborn-besiegt-hamburger-sv-hertha-bsc-geht-bei-der-sv-elversberg-unter-a-fc4f9313-e7c9-4178-bfc5-0041c119f224#ref=rss)
-### bsc
-
-* [https://www.spiegel.de/sport/fussball/zweite-fussball-bundesliga-sc-paderborn-besiegt-hamburger-sv-hertha-bsc-geht-bei-der-sv-elversberg-unter](https://www.spiegel.de/sport/fussball/zweite-fussball-bundesliga-sc-paderborn-besiegt-hamburger-sv-hertha-bsc-geht-bei-der-sv-elversberg-unter-a-fc4f9313-e7c9-4178-bfc5-0041c119f224#ref=rss)
-### österreich
-
-* [https://www.spiegel.de/ausland/oesterreich-dreier-koalition-aus-oevp-spoe-und-neos-steht-fest](https://www.spiegel.de/ausland/oesterreich-dreier-koalition-aus-oevp-spoe-und-neos-steht-fest-a-c7795c16-7efe-4001-8723-175f9fa25c89#ref=rss)
-### dreierkoalition
-
-* [https://www.spiegel.de/ausland/oesterreich-dreier-koalition-aus-oevp-spoe-und-neos-steht-fest](https://www.spiegel.de/ausland/oesterreich-dreier-koalition-aus-oevp-spoe-und-neos-steht-fest-a-c7795c16-7efe-4001-8723-175f9fa25c89#ref=rss)
-### övp
-
-* [https://www.spiegel.de/ausland/oesterreich-dreier-koalition-aus-oevp-spoe-und-neos-steht-fest](https://www.spiegel.de/ausland/oesterreich-dreier-koalition-aus-oevp-spoe-und-neos-steht-fest-a-c7795c16-7efe-4001-8723-175f9fa25c89#ref=rss)
-### spö
-
-* [https://www.spiegel.de/ausland/oesterreich-dreier-koalition-aus-oevp-spoe-und-neos-steht-fest](https://www.spiegel.de/ausland/oesterreich-dreier-koalition-aus-oevp-spoe-und-neos-steht-fest-a-c7795c16-7efe-4001-8723-175f9fa25c89#ref=rss)
-### neos
-
-* [https://www.spiegel.de/ausland/oesterreich-dreier-koalition-aus-oevp-spoe-und-neos-steht-fest](https://www.spiegel.de/ausland/oesterreich-dreier-koalition-aus-oevp-spoe-und-neos-steht-fest-a-c7795c16-7efe-4001-8723-175f9fa25c89#ref=rss)
-### lange
-
-* [https://www.spiegel.de/ausland/oesterreich-dreier-koalition-aus-oevp-spoe-und-neos-steht-fest](https://www.spiegel.de/ausland/oesterreich-dreier-koalition-aus-oevp-spoe-und-neos-steht-fest-a-c7795c16-7efe-4001-8723-175f9fa25c89#ref=rss)
-* [https://www.spiegel.de/kultur/kino/oscars-2025-wer-wird-gewinnen-und-wer-geht-leer-aus](https://www.spiegel.de/kultur/kino/oscars-2025-wer-wird-gewinnen-und-wer-geht-leer-aus-a-6cea1384-a32f-4a6b-8f96-1def7194033e#ref=rss)
-### macron
-
-* [https://www.spiegel.de/ausland/macron-moechte-ueber-europaeischen-atomschutzschild-sprechen](https://www.spiegel.de/ausland/macron-moechte-ueber-europaeischen-atomschutzschild-sprechen-a-a14ce80f-8f0d-48f5-8b25-c7525f72f197#ref=rss)
-### veronica
-
-* [https://www.spiegel.de/kultur/veronica-ferres-warum-die-schauspielerin-nie-tatort-kommissarin-wurde](https://www.spiegel.de/kultur/veronica-ferres-warum-die-schauspielerin-nie-tatort-kommissarin-wurde-a-b2420b1c-a40e-464b-a3cf-19b035204a82#ref=rss)
-### ferres
-
-* [https://www.spiegel.de/kultur/veronica-ferres-warum-die-schauspielerin-nie-tatort-kommissarin-wurde](https://www.spiegel.de/kultur/veronica-ferres-warum-die-schauspielerin-nie-tatort-kommissarin-wurde-a-b2420b1c-a40e-464b-a3cf-19b035204a82#ref=rss)
-### eltern
-
-* [https://www.spiegel.de/start/heimweh-wie-oft-sollte-man-sich-im-studium-bei-den-eltern-melden](https://www.spiegel.de/start/heimweh-wie-oft-sollte-man-sich-im-studium-bei-den-eltern-melden-a-74759ee6-1bac-4cfe-8724-fa72164a7add#ref=rss)
-### mein
-
-* [https://www.spiegel.de/start/heimweh-wie-oft-sollte-man-sich-im-studium-bei-den-eltern-melden](https://www.spiegel.de/start/heimweh-wie-oft-sollte-man-sich-im-studium-bei-den-eltern-melden-a-74759ee6-1bac-4cfe-8724-fa72164a7add#ref=rss)
-### dagestan
-
-* [https://www.spiegel.de/ausland/internes-kreml-dokument-putins-angst-vor-dagestan](https://www.spiegel.de/ausland/internes-kreml-dokument-putins-angst-vor-dagestan-a-26847612-47d0-4897-9514-e9cfad22f608#ref=rss)
+* [https://www.spiegel.de/panorama/stukenbrock-mann-leiht-sich-ferrari-und-faehrt-ihn-zu-schrott](https://www.spiegel.de/panorama/stukenbrock-mann-leiht-sich-ferrari-und-faehrt-ihn-zu-schrott-a-9a875b31-70de-4942-88fb-9f4007c289cc#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/israel-mindestens-ein-toter-und-vier-verletzte-bei-attacke-in-haifa](https://www.spiegel.de/panorama/justiz/israel-mindestens-ein-toter-und-vier-verletzte-bei-attacke-in-haifa-a-b2f68091-bafe-438f-9d28-ec90b1883de1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/boerse-warum-donald-trumps-zweite-amtszeit-die-finanzmaerkte-enttaeuscht](https://www.spiegel.de/wirtschaft/boerse-warum-donald-trumps-zweite-amtszeit-die-finanzmaerkte-enttaeuscht-a-3eac6ec6-8b34-4060-9134-428df541f225#ref=rss)
 ### oscars
 
-* [https://www.spiegel.de/kultur/kino/oscars-2025-wer-wird-gewinnen-und-wer-geht-leer-aus](https://www.spiegel.de/kultur/kino/oscars-2025-wer-wird-gewinnen-und-wer-geht-leer-aus-a-6cea1384-a32f-4a6b-8f96-1def7194033e#ref=rss)
-### karneval
+* [https://www.spiegel.de/panorama/leute/oscars-2025-daryl-hannah-zeigt-solidaritaet-mit-der-ukraine](https://www.spiegel.de/panorama/leute/oscars-2025-daryl-hannah-zeigt-solidaritaet-mit-der-ukraine-a-ee1a2522-9b71-4b8b-83c5-b3bce28e1bc1#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/oscars-2025-ein-film-triumphiert-und-eine-dankesrede-sorgt-fuer-aufsehen](https://www.spiegel.de/panorama/gesellschaft/oscars-2025-ein-film-triumphiert-und-eine-dankesrede-sorgt-fuer-aufsehen-a-c2a378f1-9078-4a2a-926d-7035279da98d#ref=rss)
+* [https://www.spiegel.de/panorama/leute/oscar-verleihung-moderator-conan-obrien-und-die-maechtigen-russen](https://www.spiegel.de/panorama/leute/oscar-verleihung-moderator-conan-obrien-und-die-maechtigen-russen-a-99e3ba5a-7975-4297-bac4-ae6d2b2a3c23#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/panorama/karneval-wozu-braucht-berlin-ein-prinzenpaar-herr-und-frau-buettner](https://www.spiegel.de/panorama/karneval-wozu-braucht-berlin-ein-prinzenpaar-herr-und-frau-buettner-a-8bcf7bb1-6e94-4495-a8c1-0d74ca8a53a0#ref=rss)
-### prinzenpaar
+* [https://www.spiegel.de/panorama/japan-tausende-menschen-sollen-waldbrandgebiet-verlassen](https://www.spiegel.de/panorama/japan-tausende-menschen-sollen-waldbrandgebiet-verlassen-a-77b9ae3d-e91e-47a8-82d7-f35b4eb407cb#ref=rss)
+* [https://www.spiegel.de/politik/bernhard-vogel-ist-tot-der-rekord-regierungschef-nachruf](https://www.spiegel.de/politik/bernhard-vogel-ist-tot-der-rekord-regierungschef-nachruf-a-8098a3d3-5b3a-471d-868b-0351ffe12975#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/kuenstliche-intelligenz-mensch-maschinen-sollen-den-alltag-erleichtern](https://www.spiegel.de/wirtschaft/unternehmen/kuenstliche-intelligenz-mensch-maschinen-sollen-den-alltag-erleichtern-a-d87a43cb-0c93-4cb0-b404-6a2761997f91#ref=rss)
+### mindestens
 
-* [https://www.spiegel.de/panorama/karneval-wozu-braucht-berlin-ein-prinzenpaar-herr-und-frau-buettner](https://www.spiegel.de/panorama/karneval-wozu-braucht-berlin-ein-prinzenpaar-herr-und-frau-buettner-a-8bcf7bb1-6e94-4495-a8c1-0d74ca8a53a0#ref=rss)
-### papst
+* [https://www.spiegel.de/panorama/japan-tausende-menschen-sollen-waldbrandgebiet-verlassen](https://www.spiegel.de/panorama/japan-tausende-menschen-sollen-waldbrandgebiet-verlassen-a-77b9ae3d-e91e-47a8-82d7-f35b4eb407cb#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/israel-mindestens-ein-toter-und-vier-verletzte-bei-attacke-in-haifa](https://www.spiegel.de/panorama/justiz/israel-mindestens-ein-toter-und-vier-verletzte-bei-attacke-in-haifa-a-b2f68091-bafe-438f-9d28-ec90b1883de1#ref=rss)
+### leben
 
-* [https://www.spiegel.de/panorama/leute/papst-franziskus-mahnt-aus-krankenhaus-zu-frieden](https://www.spiegel.de/panorama/leute/papst-franziskus-mahnt-aus-krankenhaus-zu-frieden-a-f710ad71-8d1e-463b-837a-44e2565f5067#ref=rss)
-### franziskus
+* [https://www.spiegel.de/panorama/japan-tausende-menschen-sollen-waldbrandgebiet-verlassen](https://www.spiegel.de/panorama/japan-tausende-menschen-sollen-waldbrandgebiet-verlassen-a-77b9ae3d-e91e-47a8-82d7-f35b4eb407cb#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/ukraine-fluechtlinge-in-deutschland-studie-belegt-hohen-anteil-an-rueckkehr-unwilligen](https://www.spiegel.de/panorama/gesellschaft/ukraine-fluechtlinge-in-deutschland-studie-belegt-hohen-anteil-an-rueckkehr-unwilligen-a-02cc67b5-1419-4fc6-b8ce-4eae0960a597#ref=rss)
+* [https://www.spiegel.de/sport/golf/golf-ex-gangmitglied-ryan-peake-gewinnt-die-new-zealand-open](https://www.spiegel.de/sport/golf/golf-ex-gangmitglied-ryan-peake-gewinnt-die-new-zealand-open-a-b8df723c-57fc-4802-9d01-a8a160846c77#ref=rss)
+### putin
 
-* [https://www.spiegel.de/panorama/leute/papst-franziskus-mahnt-aus-krankenhaus-zu-frieden](https://www.spiegel.de/panorama/leute/papst-franziskus-mahnt-aus-krankenhaus-zu-frieden-a-f710ad71-8d1e-463b-837a-44e2565f5067#ref=rss)
-### joachim
+* [https://www.spiegel.de/politik/deutschland/donald-trump-sicherheitsexperte-carlo-masala-sieht-us-praesidenten-auf-dem-weg-ins-team-putin](https://www.spiegel.de/politik/deutschland/donald-trump-sicherheitsexperte-carlo-masala-sieht-us-praesidenten-auf-dem-weg-ins-team-putin-a-9bad4499-660a-4169-b2f7-1ba81534a137#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/die-linke-und-sicherheitspolitik-warum-tax-the-rich-rufe-putin-orban-und-trump-nicht-interessieren-werden](https://www.spiegel.de/politik/deutschland/die-linke-und-sicherheitspolitik-warum-tax-the-rich-rufe-putin-orban-und-trump-nicht-interessieren-werden-a-3e4a0cf3-04b8-4804-ae32-124e9fdde412#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-james-lankford-republikanischer-senator-zeigt-verstaendnis-fuer-wolodymyr-selenskyj](https://www.spiegel.de/ausland/ukraine-james-lankford-republikanischer-senator-zeigt-verstaendnis-fuer-wolodymyr-selenskyj-a-520afde0-e519-488d-ac40-1c7e244c1b4c#ref=rss)
+### usa
 
-* [https://www.spiegel.de/kultur/wiener-burgtheater-joachim-meyerhoff-in-der-fall-mcneal-ueber-ki-und-taeuschung](https://www.spiegel.de/kultur/wiener-burgtheater-joachim-meyerhoff-in-der-fall-mcneal-ueber-ki-und-taeuschung-a-63ca16fb-c776-4be9-9ffe-145e17c4ef2b#ref=rss)
-### meyerhoff
+* [https://www.spiegel.de/netzwelt/gadgets/mobile-world-congress-telekom-will-handy-startbildschirm-durch-ki-revolutionieren](https://www.spiegel.de/netzwelt/gadgets/mobile-world-congress-telekom-will-handy-startbildschirm-durch-ki-revolutionieren-a-6abf9d1c-570a-4925-93e5-c3418dcef204#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-handelsminister-howard-lutnick-will-staatsausgaben-vom-bip-abziehen](https://www.spiegel.de/wirtschaft/usa-handelsminister-howard-lutnick-will-staatsausgaben-vom-bip-abziehen-a-56f129d3-e939-44dc-8bb7-aa1c8a193375#ref=rss)
+* [https://www.spiegel.de/panorama/leute/oscars-2025-daryl-hannah-zeigt-solidaritaet-mit-der-ukraine](https://www.spiegel.de/panorama/leute/oscars-2025-daryl-hannah-zeigt-solidaritaet-mit-der-ukraine-a-ee1a2522-9b71-4b8b-83c5-b3bce28e1bc1#ref=rss)
+### bürgerschaftswahl
 
-* [https://www.spiegel.de/kultur/wiener-burgtheater-joachim-meyerhoff-in-der-fall-mcneal-ueber-ki-und-taeuschung](https://www.spiegel.de/kultur/wiener-burgtheater-joachim-meyerhoff-in-der-fall-mcneal-ueber-ki-und-taeuschung-a-63ca16fb-c776-4be9-9ffe-145e17c4ef2b#ref=rss)
-### fall
+* [https://www.spiegel.de/politik/deutschland/buergerschaftswahl-hamburg-wo-spd-und-gruene-stimmen-verloren-und-trotzdem-gewannen](https://www.spiegel.de/politik/deutschland/buergerschaftswahl-hamburg-wo-spd-und-gruene-stimmen-verloren-und-trotzdem-gewannen-a-19ab97b1-9601-499c-bb51-0438351dc0b4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/pressestimmen-zur-buergerschaftswahl-was-die-csu-in-bayern-ist-ist-die-spd-in-hamburg](https://www.spiegel.de/politik/deutschland/pressestimmen-zur-buergerschaftswahl-was-die-csu-in-bayern-ist-ist-die-spd-in-hamburg-a-5c2268fc-5782-4069-9985-b7097f9a42bf#ref=rss)
+### cdu
 
-* [https://www.spiegel.de/kultur/wiener-burgtheater-joachim-meyerhoff-in-der-fall-mcneal-ueber-ki-und-taeuschung](https://www.spiegel.de/kultur/wiener-burgtheater-joachim-meyerhoff-in-der-fall-mcneal-ueber-ki-und-taeuschung-a-63ca16fb-c776-4be9-9ffe-145e17c4ef2b#ref=rss)
-### mcneal
+* [https://www.spiegel.de/politik/deutschland/buergerschaftswahl-hamburg-wo-spd-und-gruene-stimmen-verloren-und-trotzdem-gewannen](https://www.spiegel.de/politik/deutschland/buergerschaftswahl-hamburg-wo-spd-und-gruene-stimmen-verloren-und-trotzdem-gewannen-a-19ab97b1-9601-499c-bb51-0438351dc0b4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/hamburg-wahl-2025-cdu-mobilisiert-erfolgreich-nichtwaehler](https://www.spiegel.de/politik/deutschland/hamburg-wahl-2025-cdu-mobilisiert-erfolgreich-nichtwaehler-a-e715e786-46a4-47bd-be40-51e5c4c1adbd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bernhard-vogel-ist-tot-thueringens-ex-ministerpraesident-im-alter-von-92-gestorben](https://www.spiegel.de/politik/deutschland/bernhard-vogel-ist-tot-thueringens-ex-ministerpraesident-im-alter-von-92-gestorben-a-24050f58-2792-4eec-ba23-cf36e2d79f4c#ref=rss)
+### bund
 
-* [https://www.spiegel.de/kultur/wiener-burgtheater-joachim-meyerhoff-in-der-fall-mcneal-ueber-ki-und-taeuschung](https://www.spiegel.de/kultur/wiener-burgtheater-joachim-meyerhoff-in-der-fall-mcneal-ueber-ki-und-taeuschung-a-63ca16fb-c776-4be9-9ffe-145e17c4ef2b#ref=rss)
-### ki
+* [https://www.spiegel.de/wirtschaft/ver-di-will-donnerstag-in-krankenhaeusern-und-pflegeheimen-streiken](https://www.spiegel.de/wirtschaft/ver-di-will-donnerstag-in-krankenhaeusern-und-pflegeheimen-streiken-a-c2565a8b-7e69-4070-838c-a4f41d44f6c6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/pressestimmen-zur-buergerschaftswahl-was-die-csu-in-bayern-ist-ist-die-spd-in-hamburg](https://www.spiegel.de/politik/deutschland/pressestimmen-zur-buergerschaftswahl-was-die-csu-in-bayern-ist-ist-die-spd-in-hamburg-a-5c2268fc-5782-4069-9985-b7097f9a42bf#ref=rss)
+### bernhard
 
-* [https://www.spiegel.de/kultur/wiener-burgtheater-joachim-meyerhoff-in-der-fall-mcneal-ueber-ki-und-taeuschung](https://www.spiegel.de/kultur/wiener-burgtheater-joachim-meyerhoff-in-der-fall-mcneal-ueber-ki-und-taeuschung-a-63ca16fb-c776-4be9-9ffe-145e17c4ef2b#ref=rss)
+* [https://www.spiegel.de/politik/bernhard-vogel-ist-tot-der-rekord-regierungschef-nachruf](https://www.spiegel.de/politik/bernhard-vogel-ist-tot-der-rekord-regierungschef-nachruf-a-8098a3d3-5b3a-471d-868b-0351ffe12975#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bernhard-vogel-ist-tot-thueringens-ex-ministerpraesident-im-alter-von-92-gestorben](https://www.spiegel.de/politik/deutschland/bernhard-vogel-ist-tot-thueringens-ex-ministerpraesident-im-alter-von-92-gestorben-a-24050f58-2792-4eec-ba23-cf36e2d79f4c#ref=rss)
+### vogel
+
+* [https://www.spiegel.de/politik/bernhard-vogel-ist-tot-der-rekord-regierungschef-nachruf](https://www.spiegel.de/politik/bernhard-vogel-ist-tot-der-rekord-regierungschef-nachruf-a-8098a3d3-5b3a-471d-868b-0351ffe12975#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bernhard-vogel-ist-tot-thueringens-ex-ministerpraesident-im-alter-von-92-gestorben](https://www.spiegel.de/politik/deutschland/bernhard-vogel-ist-tot-thueringens-ex-ministerpraesident-im-alter-von-92-gestorben-a-24050f58-2792-4eec-ba23-cf36e2d79f4c#ref=rss)
+### tot
+
+* [https://www.spiegel.de/politik/bernhard-vogel-ist-tot-der-rekord-regierungschef-nachruf](https://www.spiegel.de/politik/bernhard-vogel-ist-tot-der-rekord-regierungschef-nachruf-a-8098a3d3-5b3a-471d-868b-0351ffe12975#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/israel-mindestens-ein-toter-und-vier-verletzte-bei-attacke-in-haifa](https://www.spiegel.de/panorama/justiz/israel-mindestens-ein-toter-und-vier-verletzte-bei-attacke-in-haifa-a-b2f68091-bafe-438f-9d28-ec90b1883de1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bernhard-vogel-ist-tot-thueringens-ex-ministerpraesident-im-alter-von-92-gestorben](https://www.spiegel.de/politik/deutschland/bernhard-vogel-ist-tot-thueringens-ex-ministerpraesident-im-alter-von-92-gestorben-a-24050f58-2792-4eec-ba23-cf36e2d79f4c#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/politik/bernhard-vogel-ist-tot-der-rekord-regierungschef-nachruf](https://www.spiegel.de/politik/bernhard-vogel-ist-tot-der-rekord-regierungschef-nachruf-a-8098a3d3-5b3a-471d-868b-0351ffe12975#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bernhard-vogel-ist-tot-thueringens-ex-ministerpraesident-im-alter-von-92-gestorben](https://www.spiegel.de/politik/deutschland/bernhard-vogel-ist-tot-thueringens-ex-ministerpraesident-im-alter-von-92-gestorben-a-24050f58-2792-4eec-ba23-cf36e2d79f4c#ref=rss)
+* [https://www.spiegel.de/sport/golf/golf-ex-gangmitglied-ryan-peake-gewinnt-die-new-zealand-open](https://www.spiegel.de/sport/golf/golf-ex-gangmitglied-ryan-peake-gewinnt-die-new-zealand-open-a-b8df723c-57fc-4802-9d01-a8a160846c77#ref=rss)
+### 2025
+
+* [https://www.spiegel.de/politik/deutschland/hamburg-wahl-2025-cdu-mobilisiert-erfolgreich-nichtwaehler](https://www.spiegel.de/politik/deutschland/hamburg-wahl-2025-cdu-mobilisiert-erfolgreich-nichtwaehler-a-e715e786-46a4-47bd-be40-51e5c4c1adbd#ref=rss)
+* [https://www.spiegel.de/panorama/leute/oscars-2025-daryl-hannah-zeigt-solidaritaet-mit-der-ukraine](https://www.spiegel.de/panorama/leute/oscars-2025-daryl-hannah-zeigt-solidaritaet-mit-der-ukraine-a-ee1a2522-9b71-4b8b-83c5-b3bce28e1bc1#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/oscars-2025-ein-film-triumphiert-und-eine-dankesrede-sorgt-fuer-aufsehen](https://www.spiegel.de/panorama/gesellschaft/oscars-2025-ein-film-triumphiert-und-eine-dankesrede-sorgt-fuer-aufsehen-a-c2a378f1-9078-4a2a-926d-7035279da98d#ref=rss)
+### linke
+
+* [https://www.spiegel.de/politik/deutschland/die-linke-und-sicherheitspolitik-warum-tax-the-rich-rufe-putin-orban-und-trump-nicht-interessieren-werden](https://www.spiegel.de/politik/deutschland/die-linke-und-sicherheitspolitik-warum-tax-the-rich-rufe-putin-orban-und-trump-nicht-interessieren-werden-a-3e4a0cf3-04b8-4804-ae32-124e9fdde412#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/panorama/leute/oscars-2025-daryl-hannah-zeigt-solidaritaet-mit-der-ukraine](https://www.spiegel.de/panorama/leute/oscars-2025-daryl-hannah-zeigt-solidaritaet-mit-der-ukraine-a-ee1a2522-9b71-4b8b-83c5-b3bce28e1bc1#ref=rss)
+* [https://www.spiegel.de/kultur/musik/neil-young-will-tournee-start-in-die-ukraine-verlegen](https://www.spiegel.de/kultur/musik/neil-young-will-tournee-start-in-die-ukraine-verlegen-a-4e46c847-1d61-4804-a44b-826b7e35b026#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-james-lankford-republikanischer-senator-zeigt-verstaendnis-fuer-wolodymyr-selenskyj](https://www.spiegel.de/ausland/ukraine-james-lankford-republikanischer-senator-zeigt-verstaendnis-fuer-wolodymyr-selenskyj-a-520afde0-e519-488d-ac40-1c7e244c1b4c#ref=rss)
+### japan
+
+* [https://www.spiegel.de/panorama/japan-tausende-menschen-sollen-waldbrandgebiet-verlassen](https://www.spiegel.de/panorama/japan-tausende-menschen-sollen-waldbrandgebiet-verlassen-a-77b9ae3d-e91e-47a8-82d7-f35b4eb407cb#ref=rss)
+### rund
+
+* [https://www.spiegel.de/panorama/japan-tausende-menschen-sollen-waldbrandgebiet-verlassen](https://www.spiegel.de/panorama/japan-tausende-menschen-sollen-waldbrandgebiet-verlassen-a-77b9ae3d-e91e-47a8-82d7-f35b4eb407cb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/audi-will-bis-zu-1-5-milliarden-euro-beim-personal-sparen](https://www.spiegel.de/wirtschaft/unternehmen/audi-will-bis-zu-1-5-milliarden-euro-beim-personal-sparen-a-6667ea7c-839c-47e1-9a7d-7bfec7c39d0b#ref=rss)
+### drei
+
+* [https://www.spiegel.de/panorama/japan-tausende-menschen-sollen-waldbrandgebiet-verlassen](https://www.spiegel.de/panorama/japan-tausende-menschen-sollen-waldbrandgebiet-verlassen-a-77b9ae3d-e91e-47a8-82d7-f35b4eb407cb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/hamburg-wahl-2025-cdu-mobilisiert-erfolgreich-nichtwaehler](https://www.spiegel.de/politik/deutschland/hamburg-wahl-2025-cdu-mobilisiert-erfolgreich-nichtwaehler-a-e715e786-46a4-47bd-be40-51e5c4c1adbd#ref=rss)
+### gaza
+
+* [https://www.spiegel.de/kultur/gaza-how-to-survive-a-war-zone-bbc-gibt-fehler-bei-doku-film-zu](https://www.spiegel.de/kultur/gaza-how-to-survive-a-war-zone-bbc-gibt-fehler-bei-doku-film-zu-a-409080a0-1d23-4cd4-ad23-b5a8286ca981#ref=rss)
+### bbc
+
+* [https://www.spiegel.de/kultur/gaza-how-to-survive-a-war-zone-bbc-gibt-fehler-bei-doku-film-zu](https://www.spiegel.de/kultur/gaza-how-to-survive-a-war-zone-bbc-gibt-fehler-bei-doku-film-zu-a-409080a0-1d23-4cd4-ad23-b5a8286ca981#ref=rss)
+### fehler
+
+* [https://www.spiegel.de/kultur/gaza-how-to-survive-a-war-zone-bbc-gibt-fehler-bei-doku-film-zu](https://www.spiegel.de/kultur/gaza-how-to-survive-a-war-zone-bbc-gibt-fehler-bei-doku-film-zu-a-409080a0-1d23-4cd4-ad23-b5a8286ca981#ref=rss)
+### audi
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/audi-will-bis-zu-1-5-milliarden-euro-beim-personal-sparen](https://www.spiegel.de/wirtschaft/unternehmen/audi-will-bis-zu-1-5-milliarden-euro-beim-personal-sparen-a-6667ea7c-839c-47e1-9a7d-7bfec7c39d0b#ref=rss)
+### carlo
+
+* [https://www.spiegel.de/politik/deutschland/donald-trump-sicherheitsexperte-carlo-masala-sieht-us-praesidenten-auf-dem-weg-ins-team-putin](https://www.spiegel.de/politik/deutschland/donald-trump-sicherheitsexperte-carlo-masala-sieht-us-praesidenten-auf-dem-weg-ins-team-putin-a-9bad4499-660a-4169-b2f7-1ba81534a137#ref=rss)
+### masala
+
+* [https://www.spiegel.de/politik/deutschland/donald-trump-sicherheitsexperte-carlo-masala-sieht-us-praesidenten-auf-dem-weg-ins-team-putin](https://www.spiegel.de/politik/deutschland/donald-trump-sicherheitsexperte-carlo-masala-sieht-us-praesidenten-auf-dem-weg-ins-team-putin-a-9bad4499-660a-4169-b2f7-1ba81534a137#ref=rss)
+### könne
+
+* [https://www.spiegel.de/politik/deutschland/donald-trump-sicherheitsexperte-carlo-masala-sieht-us-praesidenten-auf-dem-weg-ins-team-putin](https://www.spiegel.de/politik/deutschland/donald-trump-sicherheitsexperte-carlo-masala-sieht-us-praesidenten-auf-dem-weg-ins-team-putin-a-9bad4499-660a-4169-b2f7-1ba81534a137#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/pressestimmen-zur-buergerschaftswahl-was-die-csu-in-bayern-ist-ist-die-spd-in-hamburg](https://www.spiegel.de/politik/deutschland/pressestimmen-zur-buergerschaftswahl-was-die-csu-in-bayern-ist-ist-die-spd-in-hamburg-a-5c2268fc-5782-4069-9985-b7097f9a42bf#ref=rss)
+### verliert
+
+* [https://www.spiegel.de/netzwelt/faxgeraete-in-deutschland-warum-die-deutschen-das-faxen-nicht-lassen-wollen](https://www.spiegel.de/netzwelt/faxgeraete-in-deutschland-warum-die-deutschen-das-faxen-nicht-lassen-wollen-a-86b899c9-4edf-4270-8c42-e37d5f9ba807#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/hamburg-wahl-2025-cdu-mobilisiert-erfolgreich-nichtwaehler](https://www.spiegel.de/politik/deutschland/hamburg-wahl-2025-cdu-mobilisiert-erfolgreich-nichtwaehler-a-e715e786-46a4-47bd-be40-51e5c4c1adbd#ref=rss)
+### nachruf
+
+* [https://www.spiegel.de/netzwelt/faxgeraete-in-deutschland-warum-die-deutschen-das-faxen-nicht-lassen-wollen](https://www.spiegel.de/netzwelt/faxgeraete-in-deutschland-warum-die-deutschen-das-faxen-nicht-lassen-wollen-a-86b899c9-4edf-4270-8c42-e37d5f9ba807#ref=rss)
+* [https://www.spiegel.de/politik/bernhard-vogel-ist-tot-der-rekord-regierungschef-nachruf](https://www.spiegel.de/politik/bernhard-vogel-ist-tot-der-rekord-regierungschef-nachruf-a-8098a3d3-5b3a-471d-868b-0351ffe12975#ref=rss)
+### viele
+
+* [https://www.spiegel.de/netzwelt/faxgeraete-in-deutschland-warum-die-deutschen-das-faxen-nicht-lassen-wollen](https://www.spiegel.de/netzwelt/faxgeraete-in-deutschland-warum-die-deutschen-das-faxen-nicht-lassen-wollen-a-86b899c9-4edf-4270-8c42-e37d5f9ba807#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/pressestimmen-zur-buergerschaftswahl-was-die-csu-in-bayern-ist-ist-die-spd-in-hamburg](https://www.spiegel.de/politik/deutschland/pressestimmen-zur-buergerschaftswahl-was-die-csu-in-bayern-ist-ist-die-spd-in-hamburg-a-5c2268fc-5782-4069-9985-b7097f9a42bf#ref=rss)
+### telekom
+
+* [https://www.spiegel.de/netzwelt/gadgets/mobile-world-congress-telekom-will-handy-startbildschirm-durch-ki-revolutionieren](https://www.spiegel.de/netzwelt/gadgets/mobile-world-congress-telekom-will-handy-startbildschirm-durch-ki-revolutionieren-a-6abf9d1c-570a-4925-93e5-c3418dcef204#ref=rss)
+### punkten
+
+* [https://www.spiegel.de/netzwelt/gadgets/mobile-world-congress-telekom-will-handy-startbildschirm-durch-ki-revolutionieren](https://www.spiegel.de/netzwelt/gadgets/mobile-world-congress-telekom-will-handy-startbildschirm-durch-ki-revolutionieren-a-6abf9d1c-570a-4925-93e5-c3418dcef204#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/buergerschaftswahl-hamburg-wo-spd-und-gruene-stimmen-verloren-und-trotzdem-gewannen](https://www.spiegel.de/politik/deutschland/buergerschaftswahl-hamburg-wo-spd-und-gruene-stimmen-verloren-und-trotzdem-gewannen-a-19ab97b1-9601-499c-bb51-0438351dc0b4#ref=rss)
+### hamburg
+
+* [https://www.spiegel.de/politik/deutschland/buergerschaftswahl-hamburg-wo-spd-und-gruene-stimmen-verloren-und-trotzdem-gewannen](https://www.spiegel.de/politik/deutschland/buergerschaftswahl-hamburg-wo-spd-und-gruene-stimmen-verloren-und-trotzdem-gewannen-a-19ab97b1-9601-499c-bb51-0438351dc0b4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/pressestimmen-zur-buergerschaftswahl-was-die-csu-in-bayern-ist-ist-die-spd-in-hamburg](https://www.spiegel.de/politik/deutschland/pressestimmen-zur-buergerschaftswahl-was-die-csu-in-bayern-ist-ist-die-spd-in-hamburg-a-5c2268fc-5782-4069-9985-b7097f9a42bf#ref=rss)
+### wo
+
+* [https://www.spiegel.de/politik/deutschland/buergerschaftswahl-hamburg-wo-spd-und-gruene-stimmen-verloren-und-trotzdem-gewannen](https://www.spiegel.de/politik/deutschland/buergerschaftswahl-hamburg-wo-spd-und-gruene-stimmen-verloren-und-trotzdem-gewannen-a-19ab97b1-9601-499c-bb51-0438351dc0b4#ref=rss)
+### verloren
+
+* [https://www.spiegel.de/politik/deutschland/buergerschaftswahl-hamburg-wo-spd-und-gruene-stimmen-verloren-und-trotzdem-gewannen](https://www.spiegel.de/politik/deutschland/buergerschaftswahl-hamburg-wo-spd-und-gruene-stimmen-verloren-und-trotzdem-gewannen-a-19ab97b1-9601-499c-bb51-0438351dc0b4#ref=rss)
+* [https://www.spiegel.de/panorama/stukenbrock-mann-leiht-sich-ferrari-und-faehrt-ihn-zu-schrott](https://www.spiegel.de/panorama/stukenbrock-mann-leiht-sich-ferrari-und-faehrt-ihn-zu-schrott-a-9a875b31-70de-4942-88fb-9f4007c289cc#ref=rss)
+### koalition
+
+* [https://www.spiegel.de/politik/deutschland/buergerschaftswahl-hamburg-wo-spd-und-gruene-stimmen-verloren-und-trotzdem-gewannen](https://www.spiegel.de/politik/deutschland/buergerschaftswahl-hamburg-wo-spd-und-gruene-stimmen-verloren-und-trotzdem-gewannen-a-19ab97b1-9601-499c-bb51-0438351dc0b4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/pressestimmen-zur-buergerschaftswahl-was-die-csu-in-bayern-ist-ist-die-spd-in-hamburg](https://www.spiegel.de/politik/deutschland/pressestimmen-zur-buergerschaftswahl-was-die-csu-in-bayern-ist-ist-die-spd-in-hamburg-a-5c2268fc-5782-4069-9985-b7097f9a42bf#ref=rss)
+### verdi
+
+* [https://www.spiegel.de/wirtschaft/ver-di-will-donnerstag-in-krankenhaeusern-und-pflegeheimen-streiken](https://www.spiegel.de/wirtschaft/ver-di-will-donnerstag-in-krankenhaeusern-und-pflegeheimen-streiken-a-c2565a8b-7e69-4070-838c-a4f41d44f6c6#ref=rss)
+### donnerstag
+
+* [https://www.spiegel.de/wirtschaft/ver-di-will-donnerstag-in-krankenhaeusern-und-pflegeheimen-streiken](https://www.spiegel.de/wirtschaft/ver-di-will-donnerstag-in-krankenhaeusern-und-pflegeheimen-streiken-a-c2565a8b-7e69-4070-838c-a4f41d44f6c6#ref=rss)
+### darauf
+
+* [https://www.spiegel.de/panorama/stukenbrock-mann-leiht-sich-ferrari-und-faehrt-ihn-zu-schrott](https://www.spiegel.de/panorama/stukenbrock-mann-leiht-sich-ferrari-und-faehrt-ihn-zu-schrott-a-9a875b31-70de-4942-88fb-9f4007c289cc#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/kuenstliche-intelligenz-mensch-maschinen-sollen-den-alltag-erleichtern](https://www.spiegel.de/wirtschaft/unternehmen/kuenstliche-intelligenz-mensch-maschinen-sollen-den-alltag-erleichtern-a-d87a43cb-0c93-4cb0-b404-6a2761997f91#ref=rss)
+### mohammad
+
+* [https://www.spiegel.de/ausland/mohammad-javad-zarif-irans-vizepraesident-tritt-zurueck](https://www.spiegel.de/ausland/mohammad-javad-zarif-irans-vizepraesident-tritt-zurueck-a-99cc2fc5-142f-435e-9268-f1d7c141b42a#ref=rss)
+### javad
+
+* [https://www.spiegel.de/ausland/mohammad-javad-zarif-irans-vizepraesident-tritt-zurueck](https://www.spiegel.de/ausland/mohammad-javad-zarif-irans-vizepraesident-tritt-zurueck-a-99cc2fc5-142f-435e-9268-f1d7c141b42a#ref=rss)
+### zarif
+
+* [https://www.spiegel.de/ausland/mohammad-javad-zarif-irans-vizepraesident-tritt-zurueck](https://www.spiegel.de/ausland/mohammad-javad-zarif-irans-vizepraesident-tritt-zurueck-a-99cc2fc5-142f-435e-9268-f1d7c141b42a#ref=rss)
+### vizepräsident
+
+* [https://www.spiegel.de/ausland/mohammad-javad-zarif-irans-vizepraesident-tritt-zurueck](https://www.spiegel.de/ausland/mohammad-javad-zarif-irans-vizepraesident-tritt-zurueck-a-99cc2fc5-142f-435e-9268-f1d7c141b42a#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/ausland/mohammad-javad-zarif-irans-vizepraesident-tritt-zurueck](https://www.spiegel.de/ausland/mohammad-javad-zarif-irans-vizepraesident-tritt-zurueck-a-99cc2fc5-142f-435e-9268-f1d7c141b42a#ref=rss)
+* [https://www.spiegel.de/panorama/leute/oscars-2025-daryl-hannah-zeigt-solidaritaet-mit-der-ukraine](https://www.spiegel.de/panorama/leute/oscars-2025-daryl-hannah-zeigt-solidaritaet-mit-der-ukraine-a-ee1a2522-9b71-4b8b-83c5-b3bce28e1bc1#ref=rss)
+### harry
+
+* [https://www.spiegel.de/sport/harry-styles-laeuft-tokio-marathon-unter-dreieinhalb-stunden](https://www.spiegel.de/sport/harry-styles-laeuft-tokio-marathon-unter-dreieinhalb-stunden-a-24aeaee8-7970-492c-8bb5-692ec393bb9a#ref=rss)
+### styles
+
+* [https://www.spiegel.de/sport/harry-styles-laeuft-tokio-marathon-unter-dreieinhalb-stunden](https://www.spiegel.de/sport/harry-styles-laeuft-tokio-marathon-unter-dreieinhalb-stunden-a-24aeaee8-7970-492c-8bb5-692ec393bb9a#ref=rss)
+### unter
+
+* [https://www.spiegel.de/sport/harry-styles-laeuft-tokio-marathon-unter-dreieinhalb-stunden](https://www.spiegel.de/sport/harry-styles-laeuft-tokio-marathon-unter-dreieinhalb-stunden-a-24aeaee8-7970-492c-8bb5-692ec393bb9a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-handelsminister-howard-lutnick-will-staatsausgaben-vom-bip-abziehen](https://www.spiegel.de/wirtschaft/usa-handelsminister-howard-lutnick-will-staatsausgaben-vom-bip-abziehen-a-56f129d3-e939-44dc-8bb7-aa1c8a193375#ref=rss)
+### lang
+
+* [https://www.spiegel.de/politik/bernhard-vogel-ist-tot-der-rekord-regierungschef-nachruf](https://www.spiegel.de/politik/bernhard-vogel-ist-tot-der-rekord-regierungschef-nachruf-a-8098a3d3-5b3a-471d-868b-0351ffe12975#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bernhard-vogel-ist-tot-thueringens-ex-ministerpraesident-im-alter-von-92-gestorben](https://www.spiegel.de/politik/deutschland/bernhard-vogel-ist-tot-thueringens-ex-ministerpraesident-im-alter-von-92-gestorben-a-24050f58-2792-4eec-ba23-cf36e2d79f4c#ref=rss)
+### rheinlandpfalz
+
+* [https://www.spiegel.de/politik/bernhard-vogel-ist-tot-der-rekord-regierungschef-nachruf](https://www.spiegel.de/politik/bernhard-vogel-ist-tot-der-rekord-regierungschef-nachruf-a-8098a3d3-5b3a-471d-868b-0351ffe12975#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bernhard-vogel-ist-tot-thueringens-ex-ministerpraesident-im-alter-von-92-gestorben](https://www.spiegel.de/politik/deutschland/bernhard-vogel-ist-tot-thueringens-ex-ministerpraesident-im-alter-von-92-gestorben-a-24050f58-2792-4eec-ba23-cf36e2d79f4c#ref=rss)
+### thüringen
+
+* [https://www.spiegel.de/politik/bernhard-vogel-ist-tot-der-rekord-regierungschef-nachruf](https://www.spiegel.de/politik/bernhard-vogel-ist-tot-der-rekord-regierungschef-nachruf-a-8098a3d3-5b3a-471d-868b-0351ffe12975#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bernhard-vogel-ist-tot-thueringens-ex-ministerpraesident-im-alter-von-92-gestorben](https://www.spiegel.de/politik/deutschland/bernhard-vogel-ist-tot-thueringens-ex-ministerpraesident-im-alter-von-92-gestorben-a-24050f58-2792-4eec-ba23-cf36e2d79f4c#ref=rss)
+### motel
+
+* [https://www.spiegel.de/wirtschaft/motel-one-finanzinvestor-uebernimmt-mehrheit-an-hotelkette](https://www.spiegel.de/wirtschaft/motel-one-finanzinvestor-uebernimmt-mehrheit-an-hotelkette-a-2e483985-0a7b-4da6-9b66-652f2720d4e7#ref=rss)
+### one
+
+* [https://www.spiegel.de/wirtschaft/motel-one-finanzinvestor-uebernimmt-mehrheit-an-hotelkette](https://www.spiegel.de/wirtschaft/motel-one-finanzinvestor-uebernimmt-mehrheit-an-hotelkette-a-2e483985-0a7b-4da6-9b66-652f2720d4e7#ref=rss)
+### hotelkette
+
+* [https://www.spiegel.de/wirtschaft/motel-one-finanzinvestor-uebernimmt-mehrheit-an-hotelkette](https://www.spiegel.de/wirtschaft/motel-one-finanzinvestor-uebernimmt-mehrheit-an-hotelkette-a-2e483985-0a7b-4da6-9b66-652f2720d4e7#ref=rss)
+### hamburgwahl
+
+* [https://www.spiegel.de/politik/deutschland/hamburg-wahl-2025-cdu-mobilisiert-erfolgreich-nichtwaehler](https://www.spiegel.de/politik/deutschland/hamburg-wahl-2025-cdu-mobilisiert-erfolgreich-nichtwaehler-a-e715e786-46a4-47bd-be40-51e5c4c1adbd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/pressestimmen-zur-buergerschaftswahl-was-die-csu-in-bayern-ist-ist-die-spd-in-hamburg](https://www.spiegel.de/politik/deutschland/pressestimmen-zur-buergerschaftswahl-was-die-csu-in-bayern-ist-ist-die-spd-in-hamburg-a-5c2268fc-5782-4069-9985-b7097f9a42bf#ref=rss)
+### arbeit
+
+* [https://www.spiegel.de/panorama/gesellschaft/ukraine-fluechtlinge-in-deutschland-studie-belegt-hohen-anteil-an-rueckkehr-unwilligen](https://www.spiegel.de/panorama/gesellschaft/ukraine-fluechtlinge-in-deutschland-studie-belegt-hohen-anteil-an-rueckkehr-unwilligen-a-02cc67b5-1419-4fc6-b8ce-4eae0960a597#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/pressestimmen-zur-buergerschaftswahl-was-die-csu-in-bayern-ist-ist-die-spd-in-hamburg](https://www.spiegel.de/politik/deutschland/pressestimmen-zur-buergerschaftswahl-was-die-csu-in-bayern-ist-ist-die-spd-in-hamburg-a-5c2268fc-5782-4069-9985-b7097f9a42bf#ref=rss)
+### politik
+
+* [https://www.spiegel.de/politik/deutschland/die-linke-und-sicherheitspolitik-warum-tax-the-rich-rufe-putin-orban-und-trump-nicht-interessieren-werden](https://www.spiegel.de/politik/deutschland/die-linke-und-sicherheitspolitik-warum-tax-the-rich-rufe-putin-orban-und-trump-nicht-interessieren-werden-a-3e4a0cf3-04b8-4804-ae32-124e9fdde412#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-handelsminister-howard-lutnick-will-staatsausgaben-vom-bip-abziehen](https://www.spiegel.de/wirtschaft/usa-handelsminister-howard-lutnick-will-staatsausgaben-vom-bip-abziehen-a-56f129d3-e939-44dc-8bb7-aa1c8a193375#ref=rss)
+### welt
+
+* [https://www.spiegel.de/politik/deutschland/die-linke-und-sicherheitspolitik-warum-tax-the-rich-rufe-putin-orban-und-trump-nicht-interessieren-werden](https://www.spiegel.de/politik/deutschland/die-linke-und-sicherheitspolitik-warum-tax-the-rich-rufe-putin-orban-und-trump-nicht-interessieren-werden-a-3e4a0cf3-04b8-4804-ae32-124e9fdde412#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/oscars-2025-ein-film-triumphiert-und-eine-dankesrede-sorgt-fuer-aufsehen](https://www.spiegel.de/panorama/gesellschaft/oscars-2025-ein-film-triumphiert-und-eine-dankesrede-sorgt-fuer-aufsehen-a-c2a378f1-9078-4a2a-926d-7035279da98d#ref=rss)
+### haifa
+
+* [https://www.spiegel.de/panorama/justiz/israel-mindestens-ein-toter-und-vier-verletzte-bei-attacke-in-haifa](https://www.spiegel.de/panorama/justiz/israel-mindestens-ein-toter-und-vier-verletzte-bei-attacke-in-haifa-a-b2f68091-bafe-438f-9d28-ec90b1883de1#ref=rss)
+### stadt
+
+* [https://www.spiegel.de/panorama/justiz/israel-mindestens-ein-toter-und-vier-verletzte-bei-attacke-in-haifa](https://www.spiegel.de/panorama/justiz/israel-mindestens-ein-toter-und-vier-verletzte-bei-attacke-in-haifa-a-b2f68091-bafe-438f-9d28-ec90b1883de1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/pressestimmen-zur-buergerschaftswahl-was-die-csu-in-bayern-ist-ist-die-spd-in-hamburg](https://www.spiegel.de/politik/deutschland/pressestimmen-zur-buergerschaftswahl-was-die-csu-in-bayern-ist-ist-die-spd-in-hamburg-a-5c2268fc-5782-4069-9985-b7097f9a42bf#ref=rss)
+### handelsminister
+
+* [https://www.spiegel.de/wirtschaft/usa-handelsminister-howard-lutnick-will-staatsausgaben-vom-bip-abziehen](https://www.spiegel.de/wirtschaft/usa-handelsminister-howard-lutnick-will-staatsausgaben-vom-bip-abziehen-a-56f129d3-e939-44dc-8bb7-aa1c8a193375#ref=rss)
+### lutnick
+
+* [https://www.spiegel.de/wirtschaft/usa-handelsminister-howard-lutnick-will-staatsausgaben-vom-bip-abziehen](https://www.spiegel.de/wirtschaft/usa-handelsminister-howard-lutnick-will-staatsausgaben-vom-bip-abziehen-a-56f129d3-e939-44dc-8bb7-aa1c8a193375#ref=rss)
+### hannah
+
+* [https://www.spiegel.de/panorama/leute/oscars-2025-daryl-hannah-zeigt-solidaritaet-mit-der-ukraine](https://www.spiegel.de/panorama/leute/oscars-2025-daryl-hannah-zeigt-solidaritaet-mit-der-ukraine-a-ee1a2522-9b71-4b8b-83c5-b3bce28e1bc1#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/panorama/leute/oscars-2025-daryl-hannah-zeigt-solidaritaet-mit-der-ukraine](https://www.spiegel.de/panorama/leute/oscars-2025-daryl-hannah-zeigt-solidaritaet-mit-der-ukraine-a-ee1a2522-9b71-4b8b-83c5-b3bce28e1bc1#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-james-lankford-republikanischer-senator-zeigt-verstaendnis-fuer-wolodymyr-selenskyj](https://www.spiegel.de/ausland/ukraine-james-lankford-republikanischer-senator-zeigt-verstaendnis-fuer-wolodymyr-selenskyj-a-520afde0-e519-488d-ac40-1c7e244c1b4c#ref=rss)
+### badenwürttemberg
+
+* [https://www.spiegel.de/panorama/bildung/baden-wuerttemberg-extremisten-wollen-kinder-und-jugendliche-koedern](https://www.spiegel.de/panorama/bildung/baden-wuerttemberg-extremisten-wollen-kinder-und-jugendliche-koedern-a-4daf2804-ad93-4c1f-8e2e-1ed4c8fb661a#ref=rss)
+### kinder
+
+* [https://www.spiegel.de/panorama/bildung/baden-wuerttemberg-extremisten-wollen-kinder-und-jugendliche-koedern](https://www.spiegel.de/panorama/bildung/baden-wuerttemberg-extremisten-wollen-kinder-und-jugendliche-koedern-a-4daf2804-ad93-4c1f-8e2e-1ed4c8fb661a#ref=rss)
+### jugendliche
+
+* [https://www.spiegel.de/panorama/bildung/baden-wuerttemberg-extremisten-wollen-kinder-und-jugendliche-koedern](https://www.spiegel.de/panorama/bildung/baden-wuerttemberg-extremisten-wollen-kinder-und-jugendliche-koedern-a-4daf2804-ad93-4c1f-8e2e-1ed4c8fb661a#ref=rss)
+### börse
+
+* [https://www.spiegel.de/wirtschaft/boerse-warum-donald-trumps-zweite-amtszeit-die-finanzmaerkte-enttaeuscht](https://www.spiegel.de/wirtschaft/boerse-warum-donald-trumps-zweite-amtszeit-die-finanzmaerkte-enttaeuscht-a-3eac6ec6-8b34-4060-9134-428df541f225#ref=rss)
+### trumps
+
+* [https://www.spiegel.de/wirtschaft/boerse-warum-donald-trumps-zweite-amtszeit-die-finanzmaerkte-enttaeuscht](https://www.spiegel.de/wirtschaft/boerse-warum-donald-trumps-zweite-amtszeit-die-finanzmaerkte-enttaeuscht-a-3eac6ec6-8b34-4060-9134-428df541f225#ref=rss)
+* [https://www.spiegel.de/panorama/leute/oscar-verleihung-moderator-conan-obrien-und-die-maechtigen-russen](https://www.spiegel.de/panorama/leute/oscar-verleihung-moderator-conan-obrien-und-die-maechtigen-russen-a-99e3ba5a-7975-4297-bac4-ae6d2b2a3c23#ref=rss)
+### zweite
+
+* [https://www.spiegel.de/wirtschaft/boerse-warum-donald-trumps-zweite-amtszeit-die-finanzmaerkte-enttaeuscht](https://www.spiegel.de/wirtschaft/boerse-warum-donald-trumps-zweite-amtszeit-die-finanzmaerkte-enttaeuscht-a-3eac6ec6-8b34-4060-9134-428df541f225#ref=rss)
+### neil
+
+* [https://www.spiegel.de/kultur/musik/neil-young-will-tournee-start-in-die-ukraine-verlegen](https://www.spiegel.de/kultur/musik/neil-young-will-tournee-start-in-die-ukraine-verlegen-a-4e46c847-1d61-4804-a44b-826b7e35b026#ref=rss)
+### young
+
+* [https://www.spiegel.de/kultur/musik/neil-young-will-tournee-start-in-die-ukraine-verlegen](https://www.spiegel.de/kultur/musik/neil-young-will-tournee-start-in-die-ukraine-verlegen-a-4e46c847-1d61-4804-a44b-826b7e35b026#ref=rss)
+### film
+
+* [https://www.spiegel.de/panorama/gesellschaft/oscars-2025-ein-film-triumphiert-und-eine-dankesrede-sorgt-fuer-aufsehen](https://www.spiegel.de/panorama/gesellschaft/oscars-2025-ein-film-triumphiert-und-eine-dankesrede-sorgt-fuer-aufsehen-a-c2a378f1-9078-4a2a-926d-7035279da98d#ref=rss)
+### dankesrede
+
+* [https://www.spiegel.de/panorama/gesellschaft/oscars-2025-ein-film-triumphiert-und-eine-dankesrede-sorgt-fuer-aufsehen](https://www.spiegel.de/panorama/gesellschaft/oscars-2025-ein-film-triumphiert-und-eine-dankesrede-sorgt-fuer-aufsehen-a-c2a378f1-9078-4a2a-926d-7035279da98d#ref=rss)
+### moderator
+
+* [https://www.spiegel.de/panorama/leute/oscar-verleihung-moderator-conan-obrien-und-die-maechtigen-russen](https://www.spiegel.de/panorama/leute/oscar-verleihung-moderator-conan-obrien-und-die-maechtigen-russen-a-99e3ba5a-7975-4297-bac4-ae6d2b2a3c23#ref=rss)
+### conan
+
+* [https://www.spiegel.de/panorama/leute/oscar-verleihung-moderator-conan-obrien-und-die-maechtigen-russen](https://www.spiegel.de/panorama/leute/oscar-verleihung-moderator-conan-obrien-und-die-maechtigen-russen-a-99e3ba5a-7975-4297-bac4-ae6d2b2a3c23#ref=rss)
+### gestorben
+
+* [https://www.spiegel.de/politik/deutschland/bernhard-vogel-ist-tot-thueringens-ex-ministerpraesident-im-alter-von-92-gestorben](https://www.spiegel.de/politik/deutschland/bernhard-vogel-ist-tot-thueringens-ex-ministerpraesident-im-alter-von-92-gestorben-a-24050f58-2792-4eec-ba23-cf36e2d79f4c#ref=rss)
+### saß
+
+* [https://www.spiegel.de/politik/deutschland/bernhard-vogel-ist-tot-thueringens-ex-ministerpraesident-im-alter-von-92-gestorben](https://www.spiegel.de/politik/deutschland/bernhard-vogel-ist-tot-thueringens-ex-ministerpraesident-im-alter-von-92-gestorben-a-24050f58-2792-4eec-ba23-cf36e2d79f4c#ref=rss)
+* [https://www.spiegel.de/sport/golf/golf-ex-gangmitglied-ryan-peake-gewinnt-die-new-zealand-open](https://www.spiegel.de/sport/golf/golf-ex-gangmitglied-ryan-peake-gewinnt-die-new-zealand-open-a-b8df723c-57fc-4802-9d01-a8a160846c77#ref=rss)
+### senator
+
+* [https://www.spiegel.de/ausland/ukraine-james-lankford-republikanischer-senator-zeigt-verstaendnis-fuer-wolodymyr-selenskyj](https://www.spiegel.de/ausland/ukraine-james-lankford-republikanischer-senator-zeigt-verstaendnis-fuer-wolodymyr-selenskyj-a-520afde0-e519-488d-ac40-1c7e244c1b4c#ref=rss)
+### selenskyj
+
+* [https://www.spiegel.de/ausland/ukraine-james-lankford-republikanischer-senator-zeigt-verstaendnis-fuer-wolodymyr-selenskyj](https://www.spiegel.de/ausland/ukraine-james-lankford-republikanischer-senator-zeigt-verstaendnis-fuer-wolodymyr-selenskyj-a-520afde0-e519-488d-ac40-1c7e244c1b4c#ref=rss)
+### intelligenz
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/kuenstliche-intelligenz-mensch-maschinen-sollen-den-alltag-erleichtern](https://www.spiegel.de/wirtschaft/unternehmen/kuenstliche-intelligenz-mensch-maschinen-sollen-den-alltag-erleichtern-a-d87a43cb-0c93-4cb0-b404-6a2761997f91#ref=rss)
+### ryan
+
+* [https://www.spiegel.de/sport/golf/golf-ex-gangmitglied-ryan-peake-gewinnt-die-new-zealand-open](https://www.spiegel.de/sport/golf/golf-ex-gangmitglied-ryan-peake-gewinnt-die-new-zealand-open-a-b8df723c-57fc-4802-9d01-a8a160846c77#ref=rss)
+### peake
+
+* [https://www.spiegel.de/sport/golf/golf-ex-gangmitglied-ryan-peake-gewinnt-die-new-zealand-open](https://www.spiegel.de/sport/golf/golf-ex-gangmitglied-ryan-peake-gewinnt-die-new-zealand-open-a-b8df723c-57fc-4802-9d01-a8a160846c77#ref=rss)
+### open
+
+* [https://www.spiegel.de/sport/golf/golf-ex-gangmitglied-ryan-peake-gewinnt-die-new-zealand-open](https://www.spiegel.de/sport/golf/golf-ex-gangmitglied-ryan-peake-gewinnt-die-new-zealand-open-a-b8df723c-57fc-4802-9d01-a8a160846c77#ref=rss)
 
