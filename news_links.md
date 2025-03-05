@@ -6,408 +6,363 @@ tags: __no_header__
 
 ### trump
 
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-bedauern-ueber-zerwuerfnis-mit-donald-trump](https://www.spiegel.de/ausland/wolodymyr-selenskyj-bedauern-ueber-zerwuerfnis-mit-donald-trump-a-c24d0d14-8687-4cad-aa74-a9afbd118d98#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-mutmassliche-amokfahrt-in-mannheim-donald-trump-unwetter-in-spanien](https://www.spiegel.de/politik/deutschland/news-des-tages-mutmassliche-amokfahrt-in-mannheim-donald-trump-unwetter-in-spanien-a-11e95e9e-b692-47c5-9ddd-602a77e4fcf3#ref=rss)
-* [https://www.spiegel.de/kultur/donald-trump-napoleon-bonaparte-wendet-sich-in-satirischem-brief-an-den-us-praesidenten](https://www.spiegel.de/kultur/donald-trump-napoleon-bonaparte-wendet-sich-in-satirischem-brief-an-den-us-praesidenten-a-72fd4a69-ffea-4f6c-b576-e1669c4d8ccb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-kanada-china-und-mexiko-reagieren-auf-us-handelszoelle](https://www.spiegel.de/wirtschaft/donald-trump-kanada-china-und-mexiko-reagieren-auf-us-handelszoelle-a-c1ce4bc0-3220-4ad1-ac5f-c9601a5b1490#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-der-zollstreit-siegen-lernen-heisst-jetzt-von-china-lernen](https://www.spiegel.de/wirtschaft/donald-trump-und-der-zollstreit-siegen-lernen-heisst-jetzt-von-china-lernen-a-e298dd89-ce70-4c33-b5f7-d3714a5366b0#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-arabische-staaten-diskutieren-aegyptischen-plan-fuer-gazastreifen](https://www.spiegel.de/ausland/israel-gaza-krieg-arabische-staaten-diskutieren-aegyptischen-plan-fuer-gazastreifen-a-67b18133-00aa-4e0f-b52e-5024cb93efea#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/usa-donald-trump-plant-drastischen-stellenabbau-bei-steuerbehoerde](https://www.spiegel.de/wirtschaft/unternehmen/usa-donald-trump-plant-drastischen-stellenabbau-bei-steuerbehoerde-a-f694086c-59af-466c-b5d2-5ef80a8b1531#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-seine-state-of-the-union-rede-heute-ein-koenig](https://www.spiegel.de/ausland/donald-trump-und-seine-state-of-the-union-rede-heute-ein-koenig-a-7f77cdf9-d124-4ce6-afca-f966a3df1ad2#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-bei-state-of-the-union-wir-fangen-gerade-erst-an](https://www.spiegel.de/ausland/donald-trump-bei-state-of-the-union-wir-fangen-gerade-erst-an-a-b3777ffa-94fe-4ec2-b24f-5f87a20b9b42#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-protest-waehrend-rede-im-kongress-fotos](https://www.spiegel.de/ausland/donald-trump-protest-waehrend-rede-im-kongress-fotos-a-8d753399-7f36-4698-80b6-332cb95f31f0#ref=rss)
+* [https://www.spiegel.de/ausland/anschlag-am-flughafen-kabul-donald-trump-verkuendet-festnahme-von-drahtzieher](https://www.spiegel.de/ausland/anschlag-am-flughafen-kabul-donald-trump-verkuendet-festnahme-von-drahtzieher-a-0fdd9d0d-86ac-4a53-bf81-d2df02321720#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-us-demokratin-elissa-slotkin-haelt-gegenrede](https://www.spiegel.de/ausland/donald-trump-us-demokratin-elissa-slotkin-haelt-gegenrede-a-466962b9-c1ae-4255-9ab9-6ac175bc4c95#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/vergeltungszoelle-wirtschaftsweise-monika-schnitzer-fuer-harte-antwort-auf-donald-trump](https://www.spiegel.de/wirtschaft/unternehmen/vergeltungszoelle-wirtschaftsweise-monika-schnitzer-fuer-harte-antwort-auf-donald-trump-a-ff345adc-cbfc-436d-bb2b-da9947770069#ref=rss)
+* [https://www.spiegel.de/ausland/china-vs-taiwan-taipeh-blickt-beklommen-auf-trumps-anti-ukraine-zeitenwende](https://www.spiegel.de/ausland/china-vs-taiwan-taipeh-blickt-beklommen-auf-trumps-anti-ukraine-zeitenwende-a-d245e81b-de52-4db0-84fa-50af5c7d7bdf#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-usa-rede-friedrich-merz-spd-cdu-csu-schulden](https://www.spiegel.de/politik/deutschland/news-donald-trump-usa-rede-friedrich-merz-spd-cdu-csu-schulden-a-52ba7b38-0268-4851-9e4e-269d75da850f#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-bedauern-ueber-zerwuerfnis-mit-donald-trump](https://www.spiegel.de/ausland/wolodymyr-selenskyj-bedauern-ueber-zerwuerfnis-mit-donald-trump-a-c24d0d14-8687-4cad-aa74-a9afbd118d98#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-mutmassliche-amokfahrt-in-mannheim-donald-trump-unwetter-in-spanien](https://www.spiegel.de/politik/deutschland/news-des-tages-mutmassliche-amokfahrt-in-mannheim-donald-trump-unwetter-in-spanien-a-11e95e9e-b692-47c5-9ddd-602a77e4fcf3#ref=rss)
-* [https://www.spiegel.de/kultur/donald-trump-napoleon-bonaparte-wendet-sich-in-satirischem-brief-an-den-us-praesidenten](https://www.spiegel.de/kultur/donald-trump-napoleon-bonaparte-wendet-sich-in-satirischem-brief-an-den-us-praesidenten-a-72fd4a69-ffea-4f6c-b576-e1669c4d8ccb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-kanada-china-und-mexiko-reagieren-auf-us-handelszoelle](https://www.spiegel.de/wirtschaft/donald-trump-kanada-china-und-mexiko-reagieren-auf-us-handelszoelle-a-c1ce4bc0-3220-4ad1-ac5f-c9601a5b1490#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-der-zollstreit-siegen-lernen-heisst-jetzt-von-china-lernen](https://www.spiegel.de/wirtschaft/donald-trump-und-der-zollstreit-siegen-lernen-heisst-jetzt-von-china-lernen-a-e298dd89-ce70-4c33-b5f7-d3714a5366b0#ref=rss)
-### influencer
-
-* [https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten](https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten-a-5b6107ec-c0de-44a5-b3ce-f86d45c42076#ref=rss)
-* [https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten](https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten-a-9eb5c890-b805-4b96-9c9e-ea8801319b3e#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/tiktok-hype-um-teure-erdbeere-schmeckt-wie-eine-erdbeere](https://www.spiegel.de/netzwelt/web/tiktok-hype-um-teure-erdbeere-schmeckt-wie-eine-erdbeere-a-7b8bba1f-aa66-4ecd-acf4-2d786455bdfc#ref=rss)
-### unwetter
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-mutmassliche-amokfahrt-in-mannheim-donald-trump-unwetter-in-spanien](https://www.spiegel.de/politik/deutschland/news-des-tages-mutmassliche-amokfahrt-in-mannheim-donald-trump-unwetter-in-spanien-a-11e95e9e-b692-47c5-9ddd-602a77e4fcf3#ref=rss)
-* [https://www.spiegel.de/ausland/schwere-unwetter-auf-gran-canaria-da-ist-ein-auto-im-meer](https://www.spiegel.de/ausland/schwere-unwetter-auf-gran-canaria-da-ist-ein-auto-im-meer-a-d3f5743a-0c28-4ed5-b6a0-6776f2cbc03b#ref=rss)
-* [https://www.spiegel.de/panorama/spanien-hoechste-unwetterwarnstufe-in-mehreren-regionen](https://www.spiegel.de/panorama/spanien-hoechste-unwetterwarnstufe-in-mehreren-regionen-a-1727bcf6-d5bd-4ecd-a381-d36e9365d834#ref=rss)
-### viele
-
-* [https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten](https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten-a-5b6107ec-c0de-44a5-b3ce-f86d45c42076#ref=rss)
-* [https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten](https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten-a-9eb5c890-b805-4b96-9c9e-ea8801319b3e#ref=rss)
-* [https://www.spiegel.de/auto/deutschlandticket-gilt-bald-nicht-mehr-in-ic-und-ice-zuegen-in-berlin-und-brandenburg](https://www.spiegel.de/auto/deutschlandticket-gilt-bald-nicht-mehr-in-ic-und-ice-zuegen-in-berlin-und-brandenburg-a-e03f82b3-87b5-4497-bfba-5803f1207f28#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-arabische-staaten-diskutieren-aegyptischen-plan-fuer-gazastreifen](https://www.spiegel.de/ausland/israel-gaza-krieg-arabische-staaten-diskutieren-aegyptischen-plan-fuer-gazastreifen-a-67b18133-00aa-4e0f-b52e-5024cb93efea#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/usa-donald-trump-plant-drastischen-stellenabbau-bei-steuerbehoerde](https://www.spiegel.de/wirtschaft/unternehmen/usa-donald-trump-plant-drastischen-stellenabbau-bei-steuerbehoerde-a-f694086c-59af-466c-b5d2-5ef80a8b1531#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-seine-state-of-the-union-rede-heute-ein-koenig](https://www.spiegel.de/ausland/donald-trump-und-seine-state-of-the-union-rede-heute-ein-koenig-a-7f77cdf9-d124-4ce6-afca-f966a3df1ad2#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-bei-state-of-the-union-wir-fangen-gerade-erst-an](https://www.spiegel.de/ausland/donald-trump-bei-state-of-the-union-wir-fangen-gerade-erst-an-a-b3777ffa-94fe-4ec2-b24f-5f87a20b9b42#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-protest-waehrend-rede-im-kongress-fotos](https://www.spiegel.de/ausland/donald-trump-protest-waehrend-rede-im-kongress-fotos-a-8d753399-7f36-4698-80b6-332cb95f31f0#ref=rss)
+* [https://www.spiegel.de/ausland/anschlag-am-flughafen-kabul-donald-trump-verkuendet-festnahme-von-drahtzieher](https://www.spiegel.de/ausland/anschlag-am-flughafen-kabul-donald-trump-verkuendet-festnahme-von-drahtzieher-a-0fdd9d0d-86ac-4a53-bf81-d2df02321720#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-us-demokratin-elissa-slotkin-haelt-gegenrede](https://www.spiegel.de/ausland/donald-trump-us-demokratin-elissa-slotkin-haelt-gegenrede-a-466962b9-c1ae-4255-9ab9-6ac175bc4c95#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/vergeltungszoelle-wirtschaftsweise-monika-schnitzer-fuer-harte-antwort-auf-donald-trump](https://www.spiegel.de/wirtschaft/unternehmen/vergeltungszoelle-wirtschaftsweise-monika-schnitzer-fuer-harte-antwort-auf-donald-trump-a-ff345adc-cbfc-436d-bb2b-da9947770069#ref=rss)
+* [https://www.spiegel.de/ausland/china-vs-taiwan-taipeh-blickt-beklommen-auf-trumps-anti-ukraine-zeitenwende](https://www.spiegel.de/ausland/china-vs-taiwan-taipeh-blickt-beklommen-auf-trumps-anti-ukraine-zeitenwende-a-d245e81b-de52-4db0-84fa-50af5c7d7bdf#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-usa-rede-friedrich-merz-spd-cdu-csu-schulden](https://www.spiegel.de/politik/deutschland/news-donald-trump-usa-rede-friedrich-merz-spd-cdu-csu-schulden-a-52ba7b38-0268-4851-9e4e-269d75da850f#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten](https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten-a-5b6107ec-c0de-44a5-b3ce-f86d45c42076#ref=rss)
-* [https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten](https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten-a-9eb5c890-b805-4b96-9c9e-ea8801319b3e#ref=rss)
-* [https://www.spiegel.de/auto/deutschlandticket-gilt-bald-nicht-mehr-in-ic-und-ice-zuegen-in-berlin-und-brandenburg](https://www.spiegel.de/auto/deutschlandticket-gilt-bald-nicht-mehr-in-ic-und-ice-zuegen-in-berlin-und-brandenburg-a-e03f82b3-87b5-4497-bfba-5803f1207f28#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mannheim-ermittler-pruefen-zettel-aus-auto-des-todesfahrers](https://www.spiegel.de/panorama/justiz/mannheim-ermittler-pruefen-zettel-aus-auto-des-todesfahrers-a-f1837151-ab67-4eba-b2b4-5bc58f081c3f#ref=rss)
-### mannheim
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-mutmassliche-amokfahrt-in-mannheim-donald-trump-unwetter-in-spanien](https://www.spiegel.de/politik/deutschland/news-des-tages-mutmassliche-amokfahrt-in-mannheim-donald-trump-unwetter-in-spanien-a-11e95e9e-b692-47c5-9ddd-602a77e4fcf3#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mannheim-ermittler-pruefen-zettel-aus-auto-des-todesfahrers](https://www.spiegel.de/panorama/justiz/mannheim-ermittler-pruefen-zettel-aus-auto-des-todesfahrers-a-f1837151-ab67-4eba-b2b4-5bc58f081c3f#ref=rss)
-### spanien
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-mutmassliche-amokfahrt-in-mannheim-donald-trump-unwetter-in-spanien](https://www.spiegel.de/politik/deutschland/news-des-tages-mutmassliche-amokfahrt-in-mannheim-donald-trump-unwetter-in-spanien-a-11e95e9e-b692-47c5-9ddd-602a77e4fcf3#ref=rss)
-* [https://www.spiegel.de/panorama/spanien-hoechste-unwetterwarnstufe-in-mehreren-regionen](https://www.spiegel.de/panorama/spanien-hoechste-unwetterwarnstufe-in-mehreren-regionen-a-1727bcf6-d5bd-4ecd-a381-d36e9365d834#ref=rss)
-### auto
-
-* [https://www.spiegel.de/auto/fahrkultur/tesla-praesentiert-neues-model-y-an-diesem-auto-haengen-teslas-hoffnungen](https://www.spiegel.de/auto/fahrkultur/tesla-praesentiert-neues-model-y-an-diesem-auto-haengen-teslas-hoffnungen-a-abaea1cd-bf93-49d9-91dd-972cb43767aa#ref=rss)
-* [https://www.spiegel.de/ausland/schwere-unwetter-auf-gran-canaria-da-ist-ein-auto-im-meer](https://www.spiegel.de/ausland/schwere-unwetter-auf-gran-canaria-da-ist-ein-auto-im-meer-a-d3f5743a-0c28-4ed5-b6a0-6776f2cbc03b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mannheim-ermittler-pruefen-zettel-aus-auto-des-todesfahrers](https://www.spiegel.de/panorama/justiz/mannheim-ermittler-pruefen-zettel-aus-auto-des-todesfahrers-a-f1837151-ab67-4eba-b2b4-5bc58f081c3f#ref=rss)
-### magnus
-
-* [https://www.spiegel.de/sport/schach-magnus-carlsen-verkauft-jeansgate-hose-fuer-36-100-us-dollar](https://www.spiegel.de/sport/schach-magnus-carlsen-verkauft-jeansgate-hose-fuer-36-100-us-dollar-a-c62bf02e-89b7-4a91-9683-eb9bba139e87#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/nordische-ski-wm-jarl-magnus-riiber-attackiert-den-deutschen-skiverband](https://www.spiegel.de/sport/wintersport/nordische-ski-wm-jarl-magnus-riiber-attackiert-den-deutschen-skiverband-a-29b2ecb8-8e6f-4287-adfe-4f34c0003401#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/verhandlungen-zwischen-israel-und-hamas-die-vorbereitungen-fuer-die-naechsten-kaempfe-laufen-schon](https://www.spiegel.de/ausland/verhandlungen-zwischen-israel-und-hamas-die-vorbereitungen-fuer-die-naechsten-kaempfe-laufen-schon-a-379a69ac-e955-4234-a892-39fb722d16f2#ref=rss)
-### hamas
-
-* [https://www.spiegel.de/ausland/verhandlungen-zwischen-israel-und-hamas-die-vorbereitungen-fuer-die-naechsten-kaempfe-laufen-schon](https://www.spiegel.de/ausland/verhandlungen-zwischen-israel-und-hamas-die-vorbereitungen-fuer-die-naechsten-kaempfe-laufen-schon-a-379a69ac-e955-4234-a892-39fb722d16f2#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-arabische-staaten-diskutieren-aegyptischen-plan-fuer-gazastreifen](https://www.spiegel.de/ausland/israel-gaza-krieg-arabische-staaten-diskutieren-aegyptischen-plan-fuer-gazastreifen-a-67b18133-00aa-4e0f-b52e-5024cb93efea#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/sport/ski-alpin-emma-aicher-triumphiert-im-weltcup-zukunftshoffnung-des-dsv](https://www.spiegel.de/sport/ski-alpin-emma-aicher-triumphiert-im-weltcup-zukunftshoffnung-des-dsv-a-19d405ab-7f2a-4335-9a22-5ae2493963d4#ref=rss)
-* [https://www.spiegel.de/auto/deutschlandticket-gilt-bald-nicht-mehr-in-ic-und-ice-zuegen-in-berlin-und-brandenburg](https://www.spiegel.de/auto/deutschlandticket-gilt-bald-nicht-mehr-in-ic-und-ice-zuegen-in-berlin-und-brandenburg-a-e03f82b3-87b5-4497-bfba-5803f1207f28#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutsche-post-fuenf-prozent-gehaltserhoehung-fuer-170-000-angestellte](https://www.spiegel.de/wirtschaft/deutsche-post-fuenf-prozent-gehaltserhoehung-fuer-170-000-angestellte-a-c328945b-7800-4408-9ce5-ab18b9cd002e#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-bedauern-ueber-zerwuerfnis-mit-donald-trump](https://www.spiegel.de/ausland/wolodymyr-selenskyj-bedauern-ueber-zerwuerfnis-mit-donald-trump-a-c24d0d14-8687-4cad-aa74-a9afbd118d98#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-mutmassliche-amokfahrt-in-mannheim-donald-trump-unwetter-in-spanien](https://www.spiegel.de/politik/deutschland/news-des-tages-mutmassliche-amokfahrt-in-mannheim-donald-trump-unwetter-in-spanien-a-11e95e9e-b692-47c5-9ddd-602a77e4fcf3#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-die-abkehr-der-usa-von-seinen-verbuendeten](https://www.spiegel.de/ausland/ukraine-die-abkehr-der-usa-von-seinen-verbuendeten-a-f844f82a-fb0b-47cc-b4e4-18011df2a385#ref=rss)
-### elon
-
-* [https://www.spiegel.de/auto/fahrkultur/tesla-praesentiert-neues-model-y-an-diesem-auto-haengen-teslas-hoffnungen](https://www.spiegel.de/auto/fahrkultur/tesla-praesentiert-neues-model-y-an-diesem-auto-haengen-teslas-hoffnungen-a-abaea1cd-bf93-49d9-91dd-972cb43767aa#ref=rss)
-* [https://www.spiegel.de/wissenschaft/grossbritannien-elon-musk-bleibt-weiter-mitglied-der-royal-society](https://www.spiegel.de/wissenschaft/grossbritannien-elon-musk-bleibt-weiter-mitglied-der-royal-society-a-eaa947da-6388-4f21-9451-ed5d33a07b2f#ref=rss)
-### staaten
-
-* [https://www.spiegel.de/ausland/ukraine-die-abkehr-der-usa-von-seinen-verbuendeten](https://www.spiegel.de/ausland/ukraine-die-abkehr-der-usa-von-seinen-verbuendeten-a-f844f82a-fb0b-47cc-b4e4-18011df2a385#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-arabische-staaten-diskutieren-aegyptischen-plan-fuer-gazastreifen](https://www.spiegel.de/ausland/israel-gaza-krieg-arabische-staaten-diskutieren-aegyptischen-plan-fuer-gazastreifen-a-67b18133-00aa-4e0f-b52e-5024cb93efea#ref=rss)
-### prozent
-
-* [https://www.spiegel.de/wirtschaft/deutsche-post-fuenf-prozent-gehaltserhoehung-fuer-170-000-angestellte](https://www.spiegel.de/wirtschaft/deutsche-post-fuenf-prozent-gehaltserhoehung-fuer-170-000-angestellte-a-c328945b-7800-4408-9ce5-ab18b9cd002e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/hamburg-wahl-es-schadet-der-afd-wenn-migration-nur-eine-untergeordnete-rolle-spielt](https://www.spiegel.de/politik/deutschland/hamburg-wahl-es-schadet-der-afd-wenn-migration-nur-eine-untergeordnete-rolle-spielt-a-129e1395-a687-4840-833f-643fad52ee2e#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/wirtschaft/deutsche-post-fuenf-prozent-gehaltserhoehung-fuer-170-000-angestellte](https://www.spiegel.de/wirtschaft/deutsche-post-fuenf-prozent-gehaltserhoehung-fuer-170-000-angestellte-a-c328945b-7800-4408-9ce5-ab18b9cd002e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/muenchen-zwei-festnahmen-nach-serie-von-brandanschlaegen-auf-infrastruktur](https://www.spiegel.de/panorama/justiz/muenchen-zwei-festnahmen-nach-serie-von-brandanschlaegen-auf-infrastruktur-a-97f5409b-b12b-4098-95ab-f4b6e1e3f605#ref=rss)
-### china
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-kanada-china-und-mexiko-reagieren-auf-us-handelszoelle](https://www.spiegel.de/wirtschaft/donald-trump-kanada-china-und-mexiko-reagieren-auf-us-handelszoelle-a-c1ce4bc0-3220-4ad1-ac5f-c9601a5b1490#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-der-zollstreit-siegen-lernen-heisst-jetzt-von-china-lernen](https://www.spiegel.de/wirtschaft/donald-trump-und-der-zollstreit-siegen-lernen-heisst-jetzt-von-china-lernen-a-e298dd89-ce70-4c33-b5f7-d3714a5366b0#ref=rss)
-### gazastreifen
-
-* [https://www.spiegel.de/ausland/verhandlungen-zwischen-israel-und-hamas-die-vorbereitungen-fuer-die-naechsten-kaempfe-laufen-schon](https://www.spiegel.de/ausland/verhandlungen-zwischen-israel-und-hamas-die-vorbereitungen-fuer-die-naechsten-kaempfe-laufen-schon-a-379a69ac-e955-4234-a892-39fb722d16f2#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-arabische-staaten-diskutieren-aegyptischen-plan-fuer-gazastreifen](https://www.spiegel.de/ausland/israel-gaza-krieg-arabische-staaten-diskutieren-aegyptischen-plan-fuer-gazastreifen-a-67b18133-00aa-4e0f-b52e-5024cb93efea#ref=rss)
-### emma
-
-* [https://www.spiegel.de/sport/ski-alpin-emma-aicher-triumphiert-im-weltcup-zukunftshoffnung-des-dsv](https://www.spiegel.de/sport/ski-alpin-emma-aicher-triumphiert-im-weltcup-zukunftshoffnung-des-dsv-a-19d405ab-7f2a-4335-9a22-5ae2493963d4#ref=rss)
-### aicher
-
-* [https://www.spiegel.de/sport/ski-alpin-emma-aicher-triumphiert-im-weltcup-zukunftshoffnung-des-dsv](https://www.spiegel.de/sport/ski-alpin-emma-aicher-triumphiert-im-weltcup-zukunftshoffnung-des-dsv-a-19d405ab-7f2a-4335-9a22-5ae2493963d4#ref=rss)
-### dsv
-
-* [https://www.spiegel.de/sport/ski-alpin-emma-aicher-triumphiert-im-weltcup-zukunftshoffnung-des-dsv](https://www.spiegel.de/sport/ski-alpin-emma-aicher-triumphiert-im-weltcup-zukunftshoffnung-des-dsv-a-19d405ab-7f2a-4335-9a22-5ae2493963d4#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/nordische-ski-wm-jarl-magnus-riiber-attackiert-den-deutschen-skiverband](https://www.spiegel.de/sport/wintersport/nordische-ski-wm-jarl-magnus-riiber-attackiert-den-deutschen-skiverband-a-29b2ecb8-8e6f-4287-adfe-4f34c0003401#ref=rss)
-### gilt
-
-* [https://www.spiegel.de/sport/ski-alpin-emma-aicher-triumphiert-im-weltcup-zukunftshoffnung-des-dsv](https://www.spiegel.de/sport/ski-alpin-emma-aicher-triumphiert-im-weltcup-zukunftshoffnung-des-dsv-a-19d405ab-7f2a-4335-9a22-5ae2493963d4#ref=rss)
-* [https://www.spiegel.de/auto/deutschlandticket-gilt-bald-nicht-mehr-in-ic-und-ice-zuegen-in-berlin-und-brandenburg](https://www.spiegel.de/auto/deutschlandticket-gilt-bald-nicht-mehr-in-ic-und-ice-zuegen-in-berlin-und-brandenburg-a-e03f82b3-87b5-4497-bfba-5803f1207f28#ref=rss)
-### wolodymyr
-
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-bedauern-ueber-zerwuerfnis-mit-donald-trump](https://www.spiegel.de/ausland/wolodymyr-selenskyj-bedauern-ueber-zerwuerfnis-mit-donald-trump-a-c24d0d14-8687-4cad-aa74-a9afbd118d98#ref=rss)
-### selenskyj
-
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-bedauern-ueber-zerwuerfnis-mit-donald-trump](https://www.spiegel.de/ausland/wolodymyr-selenskyj-bedauern-ueber-zerwuerfnis-mit-donald-trump-a-c24d0d14-8687-4cad-aa74-a9afbd118d98#ref=rss)
-### bedauern
-
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-bedauern-ueber-zerwuerfnis-mit-donald-trump](https://www.spiegel.de/ausland/wolodymyr-selenskyj-bedauern-ueber-zerwuerfnis-mit-donald-trump-a-c24d0d14-8687-4cad-aa74-a9afbd118d98#ref=rss)
-### zerwürfnis
-
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-bedauern-ueber-zerwuerfnis-mit-donald-trump](https://www.spiegel.de/ausland/wolodymyr-selenskyj-bedauern-ueber-zerwuerfnis-mit-donald-trump-a-c24d0d14-8687-4cad-aa74-a9afbd118d98#ref=rss)
-### eklat
-
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-bedauern-ueber-zerwuerfnis-mit-donald-trump](https://www.spiegel.de/ausland/wolodymyr-selenskyj-bedauern-ueber-zerwuerfnis-mit-donald-trump-a-c24d0d14-8687-4cad-aa74-a9afbd118d98#ref=rss)
-* [https://www.spiegel.de/sport/schach-magnus-carlsen-verkauft-jeansgate-hose-fuer-36-100-us-dollar](https://www.spiegel.de/sport/schach-magnus-carlsen-verkauft-jeansgate-hose-fuer-36-100-us-dollar-a-c62bf02e-89b7-4a91-9683-eb9bba139e87#ref=rss)
-### mental
-
-* [https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten](https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten-a-5b6107ec-c0de-44a5-b3ce-f86d45c42076#ref=rss)
-* [https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten](https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten-a-9eb5c890-b805-4b96-9c9e-ea8801319b3e#ref=rss)
-### health
-
-* [https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten](https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten-a-5b6107ec-c0de-44a5-b3ce-f86d45c42076#ref=rss)
-* [https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten](https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten-a-9eb5c890-b805-4b96-9c9e-ea8801319b3e#ref=rss)
-### selbstdiagnose
-
-* [https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten](https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten-a-5b6107ec-c0de-44a5-b3ce-f86d45c42076#ref=rss)
-* [https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten](https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten-a-9eb5c890-b805-4b96-9c9e-ea8801319b3e#ref=rss)
-### verleiten
-
-* [https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten](https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten-a-5b6107ec-c0de-44a5-b3ce-f86d45c42076#ref=rss)
-* [https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten](https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten-a-9eb5c890-b805-4b96-9c9e-ea8801319b3e#ref=rss)
-### junge
-
-* [https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten](https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten-a-5b6107ec-c0de-44a5-b3ce-f86d45c42076#ref=rss)
-* [https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten](https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten-a-9eb5c890-b805-4b96-9c9e-ea8801319b3e#ref=rss)
-### sorgen
-
-* [https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten](https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten-a-5b6107ec-c0de-44a5-b3ce-f86d45c42076#ref=rss)
-* [https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten](https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten-a-9eb5c890-b805-4b96-9c9e-ea8801319b3e#ref=rss)
-### mentale
-
-* [https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten](https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten-a-5b6107ec-c0de-44a5-b3ce-f86d45c42076#ref=rss)
-* [https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten](https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten-a-9eb5c890-b805-4b96-9c9e-ea8801319b3e#ref=rss)
-### gesundheit
-
-* [https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten](https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten-a-5b6107ec-c0de-44a5-b3ce-f86d45c42076#ref=rss)
-* [https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten](https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten-a-9eb5c890-b805-4b96-9c9e-ea8801319b3e#ref=rss)
-### netz
-
-* [https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten](https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten-a-5b6107ec-c0de-44a5-b3ce-f86d45c42076#ref=rss)
-* [https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten](https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten-a-9eb5c890-b805-4b96-9c9e-ea8801319b3e#ref=rss)
-### stoßen
-
-* [https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten](https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten-a-5b6107ec-c0de-44a5-b3ce-f86d45c42076#ref=rss)
-* [https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten](https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten-a-9eb5c890-b805-4b96-9c9e-ea8801319b3e#ref=rss)
-### ratschläge
-
-* [https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten](https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten-a-5b6107ec-c0de-44a5-b3ce-f86d45c42076#ref=rss)
-* [https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten](https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten-a-9eb5c890-b805-4b96-9c9e-ea8801319b3e#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten](https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten-a-5b6107ec-c0de-44a5-b3ce-f86d45c42076#ref=rss)
-* [https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten](https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten-a-9eb5c890-b805-4b96-9c9e-ea8801319b3e#ref=rss)
-### fachkompetenz
-
-* [https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten](https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten-a-5b6107ec-c0de-44a5-b3ce-f86d45c42076#ref=rss)
-* [https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten](https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten-a-9eb5c890-b805-4b96-9c9e-ea8801319b3e#ref=rss)
-### erteilen
-
-* [https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten](https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten-a-5b6107ec-c0de-44a5-b3ce-f86d45c42076#ref=rss)
-* [https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten](https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten-a-9eb5c890-b805-4b96-9c9e-ea8801319b3e#ref=rss)
-### spiegelredakteur
-
-* [https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten](https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten-a-5b6107ec-c0de-44a5-b3ce-f86d45c42076#ref=rss)
-* [https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten](https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten-a-9eb5c890-b805-4b96-9c9e-ea8801319b3e#ref=rss)
-### tobias
-
-* [https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten](https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten-a-5b6107ec-c0de-44a5-b3ce-f86d45c42076#ref=rss)
-* [https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten](https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten-a-9eb5c890-b805-4b96-9c9e-ea8801319b3e#ref=rss)
-### becker
-
-* [https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten](https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten-a-5b6107ec-c0de-44a5-b3ce-f86d45c42076#ref=rss)
-* [https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten](https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten-a-9eb5c890-b805-4b96-9c9e-ea8801319b3e#ref=rss)
-### berichtet
-
-* [https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten](https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten-a-5b6107ec-c0de-44a5-b3ce-f86d45c42076#ref=rss)
-* [https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten](https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten-a-9eb5c890-b805-4b96-9c9e-ea8801319b3e#ref=rss)
-### fragwürdigen
-
-* [https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten](https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten-a-5b6107ec-c0de-44a5-b3ce-f86d45c42076#ref=rss)
-* [https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten](https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten-a-9eb5c890-b805-4b96-9c9e-ea8801319b3e#ref=rss)
-### trend
-
-* [https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten](https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten-a-5b6107ec-c0de-44a5-b3ce-f86d45c42076#ref=rss)
-* [https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten](https://www.spiegel.de/kultur/mental-health-wenn-influencer-zur-selbstdiagnose-verleiten-a-9eb5c890-b805-4b96-9c9e-ea8801319b3e#ref=rss)
-### manche
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-mutmassliche-amokfahrt-in-mannheim-donald-trump-unwetter-in-spanien](https://www.spiegel.de/politik/deutschland/news-des-tages-mutmassliche-amokfahrt-in-mannheim-donald-trump-unwetter-in-spanien-a-11e95e9e-b692-47c5-9ddd-602a77e4fcf3#ref=rss)
-* [https://www.spiegel.de/geschichte/die-bismarck-dynastie-vom-polit-olymp-in-die-klatschpresse](https://www.spiegel.de/geschichte/die-bismarck-dynastie-vom-polit-olymp-in-die-klatschpresse-a-80978813-eb04-49b3-81d6-7434bd87ee4c#ref=rss)
-### politiker
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-mutmassliche-amokfahrt-in-mannheim-donald-trump-unwetter-in-spanien](https://www.spiegel.de/politik/deutschland/news-des-tages-mutmassliche-amokfahrt-in-mannheim-donald-trump-unwetter-in-spanien-a-11e95e9e-b692-47c5-9ddd-602a77e4fcf3#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-oppositioneller-buergermeister-alaattin-koeseler-in-istanbul-verhaftet](https://www.spiegel.de/ausland/tuerkei-oppositioneller-buergermeister-alaattin-koeseler-in-istanbul-verhaftet-a-7cc1de99-46bb-4de2-b789-d8e07423a25c#ref=rss)
-### bleibt
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-mutmassliche-amokfahrt-in-mannheim-donald-trump-unwetter-in-spanien](https://www.spiegel.de/politik/deutschland/news-des-tages-mutmassliche-amokfahrt-in-mannheim-donald-trump-unwetter-in-spanien-a-11e95e9e-b692-47c5-9ddd-602a77e4fcf3#ref=rss)
-* [https://www.spiegel.de/wissenschaft/grossbritannien-elon-musk-bleibt-weiter-mitglied-der-royal-society](https://www.spiegel.de/wissenschaft/grossbritannien-elon-musk-bleibt-weiter-mitglied-der-royal-society-a-eaa947da-6388-4f21-9451-ed5d33a07b2f#ref=rss)
-### wüten
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-mutmassliche-amokfahrt-in-mannheim-donald-trump-unwetter-in-spanien](https://www.spiegel.de/politik/deutschland/news-des-tages-mutmassliche-amokfahrt-in-mannheim-donald-trump-unwetter-in-spanien-a-11e95e9e-b692-47c5-9ddd-602a77e4fcf3#ref=rss)
-* [https://www.spiegel.de/panorama/spanien-hoechste-unwetterwarnstufe-in-mehreren-regionen](https://www.spiegel.de/panorama/spanien-hoechste-unwetterwarnstufe-in-mehreren-regionen-a-1727bcf6-d5bd-4ecd-a381-d36e9365d834#ref=rss)
-### tesla
-
-* [https://www.spiegel.de/auto/fahrkultur/tesla-praesentiert-neues-model-y-an-diesem-auto-haengen-teslas-hoffnungen](https://www.spiegel.de/auto/fahrkultur/tesla-praesentiert-neues-model-y-an-diesem-auto-haengen-teslas-hoffnungen-a-abaea1cd-bf93-49d9-91dd-972cb43767aa#ref=rss)
-### model
-
-* [https://www.spiegel.de/auto/fahrkultur/tesla-praesentiert-neues-model-y-an-diesem-auto-haengen-teslas-hoffnungen](https://www.spiegel.de/auto/fahrkultur/tesla-praesentiert-neues-model-y-an-diesem-auto-haengen-teslas-hoffnungen-a-abaea1cd-bf93-49d9-91dd-972cb43767aa#ref=rss)
-### y
-
-* [https://www.spiegel.de/auto/fahrkultur/tesla-praesentiert-neues-model-y-an-diesem-auto-haengen-teslas-hoffnungen](https://www.spiegel.de/auto/fahrkultur/tesla-praesentiert-neues-model-y-an-diesem-auto-haengen-teslas-hoffnungen-a-abaea1cd-bf93-49d9-91dd-972cb43767aa#ref=rss)
-### musk
-
-* [https://www.spiegel.de/wissenschaft/grossbritannien-elon-musk-bleibt-weiter-mitglied-der-royal-society](https://www.spiegel.de/wissenschaft/grossbritannien-elon-musk-bleibt-weiter-mitglied-der-royal-society-a-eaa947da-6388-4f21-9451-ed5d33a07b2f#ref=rss)
-### royal
-
-* [https://www.spiegel.de/wissenschaft/grossbritannien-elon-musk-bleibt-weiter-mitglied-der-royal-society](https://www.spiegel.de/wissenschaft/grossbritannien-elon-musk-bleibt-weiter-mitglied-der-royal-society-a-eaa947da-6388-4f21-9451-ed5d33a07b2f#ref=rss)
-### society
-
-* [https://www.spiegel.de/wissenschaft/grossbritannien-elon-musk-bleibt-weiter-mitglied-der-royal-society](https://www.spiegel.de/wissenschaft/grossbritannien-elon-musk-bleibt-weiter-mitglied-der-royal-society-a-eaa947da-6388-4f21-9451-ed5d33a07b2f#ref=rss)
-### rund
-
-* [https://www.spiegel.de/wissenschaft/grossbritannien-elon-musk-bleibt-weiter-mitglied-der-royal-society](https://www.spiegel.de/wissenschaft/grossbritannien-elon-musk-bleibt-weiter-mitglied-der-royal-society-a-eaa947da-6388-4f21-9451-ed5d33a07b2f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutsche-post-fuenf-prozent-gehaltserhoehung-fuer-170-000-angestellte](https://www.spiegel.de/wirtschaft/deutsche-post-fuenf-prozent-gehaltserhoehung-fuer-170-000-angestellte-a-c328945b-7800-4408-9ce5-ab18b9cd002e#ref=rss)
+* [https://www.spiegel.de/sport/fussball/juergen-klopp-erhaelt-fair-play-preis-fuer-seinen-abschied-beim-fc-liverpool](https://www.spiegel.de/sport/fussball/juergen-klopp-erhaelt-fair-play-preis-fuer-seinen-abschied-beim-fc-liverpool-a-eff8069b-ed9d-4c9c-9c1b-fba569b70032#ref=rss)
+* [https://www.spiegel.de/start/guenstiges-rezept-asiatische-reisbowl-mit-spiegelei-fuer-nur-2-euro](https://www.spiegel.de/start/guenstiges-rezept-asiatische-reisbowl-mit-spiegelei-fuer-nur-2-euro-a-de94c5ff-e1ef-4e28-a758-910ae03757d8#ref=rss)
+* [https://www.spiegel.de/kultur/liu-jiakun-architekt-mit-pritzker-preis-geehrt](https://www.spiegel.de/kultur/liu-jiakun-architekt-mit-pritzker-preis-geehrt-a-577b8286-c8c9-4b22-9734-faf0aa482e52#ref=rss)
+* [https://www.spiegel.de/ausland/anschlag-am-flughafen-kabul-donald-trump-verkuendet-festnahme-von-drahtzieher](https://www.spiegel.de/ausland/anschlag-am-flughafen-kabul-donald-trump-verkuendet-festnahme-von-drahtzieher-a-0fdd9d0d-86ac-4a53-bf81-d2df02321720#ref=rss)
 ### usa
 
-* [https://www.spiegel.de/ausland/ukraine-die-abkehr-der-usa-von-seinen-verbuendeten](https://www.spiegel.de/ausland/ukraine-die-abkehr-der-usa-von-seinen-verbuendeten-a-f844f82a-fb0b-47cc-b4e4-18011df2a385#ref=rss)
-### verbündeten
+* [https://www.spiegel.de/wirtschaft/unternehmen/usa-donald-trump-plant-drastischen-stellenabbau-bei-steuerbehoerde](https://www.spiegel.de/wirtschaft/unternehmen/usa-donald-trump-plant-drastischen-stellenabbau-bei-steuerbehoerde-a-f694086c-59af-466c-b5d2-5ef80a8b1531#ref=rss)
+* [https://www.spiegel.de/wirtschaft/chinas-wirtschaft-soll-trotz-handelskrieg-rund-fuenf-prozent-wachsen](https://www.spiegel.de/wirtschaft/chinas-wirtschaft-soll-trotz-handelskrieg-rund-fuenf-prozent-wachsen-a-340354ec-bf06-4ef5-8a08-92eba042b7f9#ref=rss)
+* [https://www.spiegel.de/ausland/usa-setzen-huthi-miliz-wieder-auf-die-liste-auslaendischer-terrororganisationen](https://www.spiegel.de/ausland/usa-setzen-huthi-miliz-wieder-auf-die-liste-auslaendischer-terrororganisationen-a-abbae587-4183-4859-962a-7655d450872f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-usa-rede-friedrich-merz-spd-cdu-csu-schulden](https://www.spiegel.de/politik/deutschland/news-donald-trump-usa-rede-friedrich-merz-spd-cdu-csu-schulden-a-52ba7b38-0268-4851-9e4e-269d75da850f#ref=rss)
+### china
 
-* [https://www.spiegel.de/ausland/ukraine-die-abkehr-der-usa-von-seinen-verbuendeten](https://www.spiegel.de/ausland/ukraine-die-abkehr-der-usa-von-seinen-verbuendeten-a-f844f82a-fb0b-47cc-b4e4-18011df2a385#ref=rss)
-### erklärt
+* [https://www.spiegel.de/auto/tesla-verkaufszahlen-brechen-auch-in-china-ein](https://www.spiegel.de/auto/tesla-verkaufszahlen-brechen-auch-in-china-ein-a-05377530-b92e-4e89-a1c6-717aef239ec0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/vergeltungszoelle-wirtschaftsweise-monika-schnitzer-fuer-harte-antwort-auf-donald-trump](https://www.spiegel.de/wirtschaft/unternehmen/vergeltungszoelle-wirtschaftsweise-monika-schnitzer-fuer-harte-antwort-auf-donald-trump-a-ff345adc-cbfc-436d-bb2b-da9947770069#ref=rss)
+* [https://www.spiegel.de/ausland/china-vs-taiwan-taipeh-blickt-beklommen-auf-trumps-anti-ukraine-zeitenwende](https://www.spiegel.de/ausland/china-vs-taiwan-taipeh-blickt-beklommen-auf-trumps-anti-ukraine-zeitenwende-a-d245e81b-de52-4db0-84fa-50af5c7d7bdf#ref=rss)
+### viele
 
-* [https://www.spiegel.de/ausland/ukraine-die-abkehr-der-usa-von-seinen-verbuendeten](https://www.spiegel.de/ausland/ukraine-die-abkehr-der-usa-von-seinen-verbuendeten-a-f844f82a-fb0b-47cc-b4e4-18011df2a385#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/hamburg-wahl-es-schadet-der-afd-wenn-migration-nur-eine-untergeordnete-rolle-spielt](https://www.spiegel.de/politik/deutschland/hamburg-wahl-es-schadet-der-afd-wenn-migration-nur-eine-untergeordnete-rolle-spielt-a-129e1395-a687-4840-833f-643fad52ee2e#ref=rss)
-### kaiserslautern
+* [https://www.spiegel.de/auto/tesla-verkaufszahlen-brechen-auch-in-china-ein](https://www.spiegel.de/auto/tesla-verkaufszahlen-brechen-auch-in-china-ein-a-05377530-b92e-4e89-a1c6-717aef239ec0#ref=rss)
+* [https://www.spiegel.de/kultur/liu-jiakun-architekt-mit-pritzker-preis-geehrt](https://www.spiegel.de/kultur/liu-jiakun-architekt-mit-pritzker-preis-geehrt-a-577b8286-c8c9-4b22-9734-faf0aa482e52#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-protest-waehrend-rede-im-kongress-fotos](https://www.spiegel.de/ausland/donald-trump-protest-waehrend-rede-im-kongress-fotos-a-8d753399-7f36-4698-80b6-332cb95f31f0#ref=rss)
+* [https://www.spiegel.de/ausland/anschlag-am-flughafen-kabul-donald-trump-verkuendet-festnahme-von-drahtzieher](https://www.spiegel.de/ausland/anschlag-am-flughafen-kabul-donald-trump-verkuendet-festnahme-von-drahtzieher-a-0fdd9d0d-86ac-4a53-bf81-d2df02321720#ref=rss)
+### 2024
 
-* [https://www.spiegel.de/panorama/kaiserslautern-polizei-ueberfuehrt-butterdiebe-im-supermarkt](https://www.spiegel.de/panorama/kaiserslautern-polizei-ueberfuehrt-butterdiebe-im-supermarkt-a-9f3b7fc4-1ed7-49cc-b935-f0a1cc2792a3#ref=rss)
-### polizei
+* [https://www.spiegel.de/auto/tesla-verkaufszahlen-brechen-auch-in-china-ein](https://www.spiegel.de/auto/tesla-verkaufszahlen-brechen-auch-in-china-ein-a-05377530-b92e-4e89-a1c6-717aef239ec0#ref=rss)
+* [https://www.spiegel.de/ausland/afrika-sahelzone-verzeichnet-2024-die-meisten-terrorismusopfer-weltweit](https://www.spiegel.de/ausland/afrika-sahelzone-verzeichnet-2024-die-meisten-terrorismusopfer-weltweit-a-bd875464-8e6e-45f6-bbca-6a87a32f6070#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/zahl-der-asylklagen-an-deutschen-gerichten-steigt-deutlich](https://www.spiegel.de/panorama/justiz/zahl-der-asylklagen-an-deutschen-gerichten-steigt-deutlich-a-65001138-be5d-42eb-8ac9-ca8cf51af32c#ref=rss)
+### rede
 
-* [https://www.spiegel.de/panorama/kaiserslautern-polizei-ueberfuehrt-butterdiebe-im-supermarkt](https://www.spiegel.de/panorama/kaiserslautern-polizei-ueberfuehrt-butterdiebe-im-supermarkt-a-9f3b7fc4-1ed7-49cc-b935-f0a1cc2792a3#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mannheim-ermittler-pruefen-zettel-aus-auto-des-todesfahrers](https://www.spiegel.de/panorama/justiz/mannheim-ermittler-pruefen-zettel-aus-auto-des-todesfahrers-a-f1837151-ab67-4eba-b2b4-5bc58f081c3f#ref=rss)
-### gut
+* [https://www.spiegel.de/ausland/donald-trump-bei-state-of-the-union-wir-fangen-gerade-erst-an](https://www.spiegel.de/ausland/donald-trump-bei-state-of-the-union-wir-fangen-gerade-erst-an-a-b3777ffa-94fe-4ec2-b24f-5f87a20b9b42#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-protest-waehrend-rede-im-kongress-fotos](https://www.spiegel.de/ausland/donald-trump-protest-waehrend-rede-im-kongress-fotos-a-8d753399-7f36-4698-80b6-332cb95f31f0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-usa-rede-friedrich-merz-spd-cdu-csu-schulden](https://www.spiegel.de/politik/deutschland/news-donald-trump-usa-rede-friedrich-merz-spd-cdu-csu-schulden-a-52ba7b38-0268-4851-9e4e-269d75da850f#ref=rss)
+### robert
 
-* [https://www.spiegel.de/panorama/kaiserslautern-polizei-ueberfuehrt-butterdiebe-im-supermarkt](https://www.spiegel.de/panorama/kaiserslautern-polizei-ueberfuehrt-butterdiebe-im-supermarkt-a-9f3b7fc4-1ed7-49cc-b935-f0a1cc2792a3#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/tiktok-hype-um-teure-erdbeere-schmeckt-wie-eine-erdbeere](https://www.spiegel.de/netzwelt/web/tiktok-hype-um-teure-erdbeere-schmeckt-wie-eine-erdbeere-a-7b8bba1f-aa66-4ecd-acf4-2d786455bdfc#ref=rss)
-### napoleon
+* [https://www.spiegel.de/kultur/kino/robert-pattinson-schauspieler-will-kein-fucking-old-batman-sein](https://www.spiegel.de/kultur/kino/robert-pattinson-schauspieler-will-kein-fucking-old-batman-sein-a-7ac78118-f601-4fc8-8415-1a8e112bf7f6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-verzichtet-auf-gruenen-fraktionsvorsitz-aus-privaten-gruenden](https://www.spiegel.de/politik/deutschland/annalena-baerbock-verzichtet-auf-gruenen-fraktionsvorsitz-aus-privaten-gruenden-a-9f49a9a3-2892-46e6-a2d1-62eceeec667a#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/kultur/donald-trump-napoleon-bonaparte-wendet-sich-in-satirischem-brief-an-den-us-praesidenten](https://www.spiegel.de/kultur/donald-trump-napoleon-bonaparte-wendet-sich-in-satirischem-brief-an-den-us-praesidenten-a-72fd4a69-ffea-4f6c-b576-e1669c4d8ccb#ref=rss)
-### bonaparte
+* [https://www.spiegel.de/sport/tennis/tennis-emma-raducanu-spricht-ueber-aufwuehlenden-stalking-fall](https://www.spiegel.de/sport/tennis/tennis-emma-raducanu-spricht-ueber-aufwuehlenden-stalking-fall-a-77b48609-3b1e-4d94-b51e-876f6dab9888#ref=rss)
+* [https://www.spiegel.de/sport/basketball/basketball-lebron-james-uebertrifft-als-erster-nba-spieler-die-50-000-punkte-marke](https://www.spiegel.de/sport/basketball/basketball-lebron-james-uebertrifft-als-erster-nba-spieler-die-50-000-punkte-marke-a-13f624c0-dcfa-4efc-aef8-5db81f91424c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-usa-rede-friedrich-merz-spd-cdu-csu-schulden](https://www.spiegel.de/politik/deutschland/news-donald-trump-usa-rede-friedrich-merz-spd-cdu-csu-schulden-a-52ba7b38-0268-4851-9e4e-269d75da850f#ref=rss)
+### state
 
-* [https://www.spiegel.de/kultur/donald-trump-napoleon-bonaparte-wendet-sich-in-satirischem-brief-an-den-us-praesidenten](https://www.spiegel.de/kultur/donald-trump-napoleon-bonaparte-wendet-sich-in-satirischem-brief-an-den-us-praesidenten-a-72fd4a69-ffea-4f6c-b576-e1669c4d8ccb#ref=rss)
-### brief
+* [https://www.spiegel.de/ausland/donald-trump-und-seine-state-of-the-union-rede-heute-ein-koenig](https://www.spiegel.de/ausland/donald-trump-und-seine-state-of-the-union-rede-heute-ein-koenig-a-7f77cdf9-d124-4ce6-afca-f966a3df1ad2#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-bei-state-of-the-union-wir-fangen-gerade-erst-an](https://www.spiegel.de/ausland/donald-trump-bei-state-of-the-union-wir-fangen-gerade-erst-an-a-b3777ffa-94fe-4ec2-b24f-5f87a20b9b42#ref=rss)
+### of
 
-* [https://www.spiegel.de/kultur/donald-trump-napoleon-bonaparte-wendet-sich-in-satirischem-brief-an-den-us-praesidenten](https://www.spiegel.de/kultur/donald-trump-napoleon-bonaparte-wendet-sich-in-satirischem-brief-an-den-us-praesidenten-a-72fd4a69-ffea-4f6c-b576-e1669c4d8ccb#ref=rss)
-### uspräsidenten
+* [https://www.spiegel.de/ausland/donald-trump-und-seine-state-of-the-union-rede-heute-ein-koenig](https://www.spiegel.de/ausland/donald-trump-und-seine-state-of-the-union-rede-heute-ein-koenig-a-7f77cdf9-d124-4ce6-afca-f966a3df1ad2#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-bei-state-of-the-union-wir-fangen-gerade-erst-an](https://www.spiegel.de/ausland/donald-trump-bei-state-of-the-union-wir-fangen-gerade-erst-an-a-b3777ffa-94fe-4ec2-b24f-5f87a20b9b42#ref=rss)
+### the
 
-* [https://www.spiegel.de/kultur/donald-trump-napoleon-bonaparte-wendet-sich-in-satirischem-brief-an-den-us-praesidenten](https://www.spiegel.de/kultur/donald-trump-napoleon-bonaparte-wendet-sich-in-satirischem-brief-an-den-us-praesidenten-a-72fd4a69-ffea-4f6c-b576-e1669c4d8ccb#ref=rss)
-### macht
+* [https://www.spiegel.de/ausland/donald-trump-und-seine-state-of-the-union-rede-heute-ein-koenig](https://www.spiegel.de/ausland/donald-trump-und-seine-state-of-the-union-rede-heute-ein-koenig-a-7f77cdf9-d124-4ce6-afca-f966a3df1ad2#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-bei-state-of-the-union-wir-fangen-gerade-erst-an](https://www.spiegel.de/ausland/donald-trump-bei-state-of-the-union-wir-fangen-gerade-erst-an-a-b3777ffa-94fe-4ec2-b24f-5f87a20b9b42#ref=rss)
+### fast
 
-* [https://www.spiegel.de/kultur/donald-trump-napoleon-bonaparte-wendet-sich-in-satirischem-brief-an-den-us-praesidenten](https://www.spiegel.de/kultur/donald-trump-napoleon-bonaparte-wendet-sich-in-satirischem-brief-an-den-us-praesidenten-a-72fd4a69-ffea-4f6c-b576-e1669c4d8ccb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/schuldenbremse-wie-die-bundesbank-sie-reformieren-wuerde](https://www.spiegel.de/wirtschaft/soziales/schuldenbremse-wie-die-bundesbank-sie-reformieren-wuerde-a-7e1c5735-75a3-407a-bb16-96acd8849a04#ref=rss)
-### gran
-
-* [https://www.spiegel.de/ausland/schwere-unwetter-auf-gran-canaria-da-ist-ein-auto-im-meer](https://www.spiegel.de/ausland/schwere-unwetter-auf-gran-canaria-da-ist-ein-auto-im-meer-a-d3f5743a-0c28-4ed5-b6a0-6776f2cbc03b#ref=rss)
-### canaria
-
-* [https://www.spiegel.de/ausland/schwere-unwetter-auf-gran-canaria-da-ist-ein-auto-im-meer](https://www.spiegel.de/ausland/schwere-unwetter-auf-gran-canaria-da-ist-ein-auto-im-meer-a-d3f5743a-0c28-4ed5-b6a0-6776f2cbc03b#ref=rss)
-### regen
-
-* [https://www.spiegel.de/ausland/schwere-unwetter-auf-gran-canaria-da-ist-ein-auto-im-meer](https://www.spiegel.de/ausland/schwere-unwetter-auf-gran-canaria-da-ist-ein-auto-im-meer-a-d3f5743a-0c28-4ed5-b6a0-6776f2cbc03b#ref=rss)
-* [https://www.spiegel.de/panorama/spanien-hoechste-unwetterwarnstufe-in-mehreren-regionen](https://www.spiegel.de/panorama/spanien-hoechste-unwetterwarnstufe-in-mehreren-regionen-a-1727bcf6-d5bd-4ecd-a381-d36e9365d834#ref=rss)
-### deutschlandticket
-
-* [https://www.spiegel.de/auto/deutschlandticket-gilt-bald-nicht-mehr-in-ic-und-ice-zuegen-in-berlin-und-brandenburg](https://www.spiegel.de/auto/deutschlandticket-gilt-bald-nicht-mehr-in-ic-und-ice-zuegen-in-berlin-und-brandenburg-a-e03f82b3-87b5-4497-bfba-5803f1207f28#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/berlin-strengere-regeln-fuer-gymnasium-kaum-schueler-bestehen-probeunterricht](https://www.spiegel.de/panorama/bildung/berlin-strengere-regeln-fuer-gymnasium-kaum-schueler-bestehen-probeunterricht-a-5ec777a6-5e11-43dd-aaa0-4e15f0b90e0b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/zahl-der-asylklagen-an-deutschen-gerichten-steigt-deutlich](https://www.spiegel.de/panorama/justiz/zahl-der-asylklagen-an-deutschen-gerichten-steigt-deutlich-a-65001138-be5d-42eb-8ac9-ca8cf51af32c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-usa-rede-friedrich-merz-spd-cdu-csu-schulden](https://www.spiegel.de/politik/deutschland/news-donald-trump-usa-rede-friedrich-merz-spd-cdu-csu-schulden-a-52ba7b38-0268-4851-9e4e-269d75da850f#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/auto/deutschlandticket-gilt-bald-nicht-mehr-in-ic-und-ice-zuegen-in-berlin-und-brandenburg](https://www.spiegel.de/auto/deutschlandticket-gilt-bald-nicht-mehr-in-ic-und-ice-zuegen-in-berlin-und-brandenburg-a-e03f82b3-87b5-4497-bfba-5803f1207f28#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutsche-post-fuenf-prozent-gehaltserhoehung-fuer-170-000-angestellte](https://www.spiegel.de/wirtschaft/deutsche-post-fuenf-prozent-gehaltserhoehung-fuer-170-000-angestellte-a-c328945b-7800-4408-9ce5-ab18b9cd002e#ref=rss)
-### berlin
+* [https://www.spiegel.de/ausland/afrika-sahelzone-verzeichnet-2024-die-meisten-terrorismusopfer-weltweit](https://www.spiegel.de/ausland/afrika-sahelzone-verzeichnet-2024-die-meisten-terrorismusopfer-weltweit-a-bd875464-8e6e-45f6-bbca-6a87a32f6070#ref=rss)
+* [https://www.spiegel.de/ausland/usa-setzen-huthi-miliz-wieder-auf-die-liste-auslaendischer-terrororganisationen](https://www.spiegel.de/ausland/usa-setzen-huthi-miliz-wieder-auf-die-liste-auslaendischer-terrororganisationen-a-abbae587-4183-4859-962a-7655d450872f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/zahl-der-asylklagen-an-deutschen-gerichten-steigt-deutlich](https://www.spiegel.de/panorama/justiz/zahl-der-asylklagen-an-deutschen-gerichten-steigt-deutlich-a-65001138-be5d-42eb-8ac9-ca8cf51af32c#ref=rss)
+### union
 
-* [https://www.spiegel.de/auto/deutschlandticket-gilt-bald-nicht-mehr-in-ic-und-ice-zuegen-in-berlin-und-brandenburg](https://www.spiegel.de/auto/deutschlandticket-gilt-bald-nicht-mehr-in-ic-und-ice-zuegen-in-berlin-und-brandenburg-a-e03f82b3-87b5-4497-bfba-5803f1207f28#ref=rss)
-### schuldenbremse
+* [https://www.spiegel.de/ausland/donald-trump-bei-state-of-the-union-wir-fangen-gerade-erst-an](https://www.spiegel.de/ausland/donald-trump-bei-state-of-the-union-wir-fangen-gerade-erst-an-a-b3777ffa-94fe-4ec2-b24f-5f87a20b9b42#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/winfried-kretschmann-will-ruestungsindustrie-in-baden-wuerttemberg-ausbauen-war-noch-nie-pazifist](https://www.spiegel.de/wirtschaft/unternehmen/winfried-kretschmann-will-ruestungsindustrie-in-baden-wuerttemberg-ausbauen-war-noch-nie-pazifist-a-4023229d-d3f1-4ff9-a209-a1b6fca7fe62#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-usa-rede-friedrich-merz-spd-cdu-csu-schulden](https://www.spiegel.de/politik/deutschland/news-donald-trump-usa-rede-friedrich-merz-spd-cdu-csu-schulden-a-52ba7b38-0268-4851-9e4e-269d75da850f#ref=rss)
+### kongress
 
-* [https://www.spiegel.de/wirtschaft/soziales/schuldenbremse-wie-die-bundesbank-sie-reformieren-wuerde](https://www.spiegel.de/wirtschaft/soziales/schuldenbremse-wie-die-bundesbank-sie-reformieren-wuerde-a-7e1c5735-75a3-407a-bb16-96acd8849a04#ref=rss)
-### bundesbank
+* [https://www.spiegel.de/ausland/donald-trump-bei-state-of-the-union-wir-fangen-gerade-erst-an](https://www.spiegel.de/ausland/donald-trump-bei-state-of-the-union-wir-fangen-gerade-erst-an-a-b3777ffa-94fe-4ec2-b24f-5f87a20b9b42#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-protest-waehrend-rede-im-kongress-fotos](https://www.spiegel.de/ausland/donald-trump-protest-waehrend-rede-im-kongress-fotos-a-8d753399-7f36-4698-80b6-332cb95f31f0#ref=rss)
+### elon
 
-* [https://www.spiegel.de/wirtschaft/soziales/schuldenbremse-wie-die-bundesbank-sie-reformieren-wuerde](https://www.spiegel.de/wirtschaft/soziales/schuldenbremse-wie-die-bundesbank-sie-reformieren-wuerde-a-7e1c5735-75a3-407a-bb16-96acd8849a04#ref=rss)
-### friedrich
+* [https://www.spiegel.de/wirtschaft/soziales/reformen-die-deutsche-verwaltung-braucht-nicht-elon-musk-sondern-ein-anderes-vorbild](https://www.spiegel.de/wirtschaft/soziales/reformen-die-deutsche-verwaltung-braucht-nicht-elon-musk-sondern-ein-anderes-vorbild-a-fcd17ba1-47ca-421d-911d-85dd034487f6#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-us-demokratin-elissa-slotkin-haelt-gegenrede](https://www.spiegel.de/ausland/donald-trump-us-demokratin-elissa-slotkin-haelt-gegenrede-a-466962b9-c1ae-4255-9ab9-6ac175bc4c95#ref=rss)
+### musk
 
-* [https://www.spiegel.de/wirtschaft/soziales/schuldenbremse-wie-die-bundesbank-sie-reformieren-wuerde](https://www.spiegel.de/wirtschaft/soziales/schuldenbremse-wie-die-bundesbank-sie-reformieren-wuerde-a-7e1c5735-75a3-407a-bb16-96acd8849a04#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ringt-um-sondervermoegen-gruene-fuehlen-sich-nicht-ausreichend-eingebunden](https://www.spiegel.de/politik/deutschland/friedrich-merz-ringt-um-sondervermoegen-gruene-fuehlen-sich-nicht-ausreichend-eingebunden-a-444499d9-af4e-4742-9c95-3311da6cf54a#ref=rss)
-### merz
+* [https://www.spiegel.de/wirtschaft/soziales/reformen-die-deutsche-verwaltung-braucht-nicht-elon-musk-sondern-ein-anderes-vorbild](https://www.spiegel.de/wirtschaft/soziales/reformen-die-deutsche-verwaltung-braucht-nicht-elon-musk-sondern-ein-anderes-vorbild-a-fcd17ba1-47ca-421d-911d-85dd034487f6#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-us-demokratin-elissa-slotkin-haelt-gegenrede](https://www.spiegel.de/ausland/donald-trump-us-demokratin-elissa-slotkin-haelt-gegenrede-a-466962b9-c1ae-4255-9ab9-6ac175bc4c95#ref=rss)
+### spd
 
-* [https://www.spiegel.de/wirtschaft/soziales/schuldenbremse-wie-die-bundesbank-sie-reformieren-wuerde](https://www.spiegel.de/wirtschaft/soziales/schuldenbremse-wie-die-bundesbank-sie-reformieren-wuerde-a-7e1c5735-75a3-407a-bb16-96acd8849a04#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ringt-um-sondervermoegen-gruene-fuehlen-sich-nicht-ausreichend-eingebunden](https://www.spiegel.de/politik/deutschland/friedrich-merz-ringt-um-sondervermoegen-gruene-fuehlen-sich-nicht-ausreichend-eingebunden-a-444499d9-af4e-4742-9c95-3311da6cf54a#ref=rss)
-### mehrere
+* [https://www.spiegel.de/wirtschaft/unternehmen/winfried-kretschmann-will-ruestungsindustrie-in-baden-wuerttemberg-ausbauen-war-noch-nie-pazifist](https://www.spiegel.de/wirtschaft/unternehmen/winfried-kretschmann-will-ruestungsindustrie-in-baden-wuerttemberg-ausbauen-war-noch-nie-pazifist-a-4023229d-d3f1-4ff9-a209-a1b6fca7fe62#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-usa-rede-friedrich-merz-spd-cdu-csu-schulden](https://www.spiegel.de/politik/deutschland/news-donald-trump-usa-rede-friedrich-merz-spd-cdu-csu-schulden-a-52ba7b38-0268-4851-9e4e-269d75da850f#ref=rss)
+### spiegel
 
-* [https://www.spiegel.de/geschichte/die-bismarck-dynastie-vom-polit-olymp-in-die-klatschpresse](https://www.spiegel.de/geschichte/die-bismarck-dynastie-vom-polit-olymp-in-die-klatschpresse-a-80978813-eb04-49b3-81d6-7434bd87ee4c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mannheim-ermittler-pruefen-zettel-aus-auto-des-todesfahrers](https://www.spiegel.de/panorama/justiz/mannheim-ermittler-pruefen-zettel-aus-auto-des-todesfahrers-a-f1837151-ab67-4eba-b2b4-5bc58f081c3f#ref=rss)
-### udo
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-verzichtet-auf-gruenen-fraktionsvorsitz-aus-privaten-gruenden](https://www.spiegel.de/politik/deutschland/annalena-baerbock-verzichtet-auf-gruenen-fraktionsvorsitz-aus-privaten-gruenden-a-9f49a9a3-2892-46e6-a2d1-62eceeec667a#ref=rss)
+### fragen
 
-* [https://www.spiegel.de/kultur/musik/udo-lindenberg-feiert-wahlsieg-von-peter-tschentscher-in-hamburg](https://www.spiegel.de/kultur/musik/udo-lindenberg-feiert-wahlsieg-von-peter-tschentscher-in-hamburg-a-c5f7b0ff-e710-4c4e-8d64-1d9166c56f96#ref=rss)
-### lindenberg
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### tag
 
-* [https://www.spiegel.de/kultur/musik/udo-lindenberg-feiert-wahlsieg-von-peter-tschentscher-in-hamburg](https://www.spiegel.de/kultur/musik/udo-lindenberg-feiert-wahlsieg-von-peter-tschentscher-in-hamburg-a-c5f7b0ff-e710-4c4e-8d64-1d9166c56f96#ref=rss)
-### peter
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### jürgen
 
-* [https://www.spiegel.de/kultur/musik/udo-lindenberg-feiert-wahlsieg-von-peter-tschentscher-in-hamburg](https://www.spiegel.de/kultur/musik/udo-lindenberg-feiert-wahlsieg-von-peter-tschentscher-in-hamburg-a-c5f7b0ff-e710-4c4e-8d64-1d9166c56f96#ref=rss)
-### tschentscher
+* [https://www.spiegel.de/sport/fussball/juergen-klopp-erhaelt-fair-play-preis-fuer-seinen-abschied-beim-fc-liverpool](https://www.spiegel.de/sport/fussball/juergen-klopp-erhaelt-fair-play-preis-fuer-seinen-abschied-beim-fc-liverpool-a-eff8069b-ed9d-4c9c-9c1b-fba569b70032#ref=rss)
+### klopp
 
-* [https://www.spiegel.de/kultur/musik/udo-lindenberg-feiert-wahlsieg-von-peter-tschentscher-in-hamburg](https://www.spiegel.de/kultur/musik/udo-lindenberg-feiert-wahlsieg-von-peter-tschentscher-in-hamburg-a-c5f7b0ff-e710-4c4e-8d64-1d9166c56f96#ref=rss)
-### hamburg
+* [https://www.spiegel.de/sport/fussball/juergen-klopp-erhaelt-fair-play-preis-fuer-seinen-abschied-beim-fc-liverpool](https://www.spiegel.de/sport/fussball/juergen-klopp-erhaelt-fair-play-preis-fuer-seinen-abschied-beim-fc-liverpool-a-eff8069b-ed9d-4c9c-9c1b-fba569b70032#ref=rss)
+### fairplaypreis
 
-* [https://www.spiegel.de/kultur/musik/udo-lindenberg-feiert-wahlsieg-von-peter-tschentscher-in-hamburg](https://www.spiegel.de/kultur/musik/udo-lindenberg-feiert-wahlsieg-von-peter-tschentscher-in-hamburg-a-c5f7b0ff-e710-4c4e-8d64-1d9166c56f96#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/hamburg-wahl-es-schadet-der-afd-wenn-migration-nur-eine-untergeordnete-rolle-spielt](https://www.spiegel.de/politik/deutschland/hamburg-wahl-es-schadet-der-afd-wenn-migration-nur-eine-untergeordnete-rolle-spielt-a-129e1395-a687-4840-833f-643fad52ee2e#ref=rss)
-### post
+* [https://www.spiegel.de/sport/fussball/juergen-klopp-erhaelt-fair-play-preis-fuer-seinen-abschied-beim-fc-liverpool](https://www.spiegel.de/sport/fussball/juergen-klopp-erhaelt-fair-play-preis-fuer-seinen-abschied-beim-fc-liverpool-a-eff8069b-ed9d-4c9c-9c1b-fba569b70032#ref=rss)
+### fc
 
-* [https://www.spiegel.de/wirtschaft/deutsche-post-fuenf-prozent-gehaltserhoehung-fuer-170-000-angestellte](https://www.spiegel.de/wirtschaft/deutsche-post-fuenf-prozent-gehaltserhoehung-fuer-170-000-angestellte-a-c328945b-7800-4408-9ce5-ab18b9cd002e#ref=rss)
-### 170000
+* [https://www.spiegel.de/sport/fussball/juergen-klopp-erhaelt-fair-play-preis-fuer-seinen-abschied-beim-fc-liverpool](https://www.spiegel.de/sport/fussball/juergen-klopp-erhaelt-fair-play-preis-fuer-seinen-abschied-beim-fc-liverpool-a-eff8069b-ed9d-4c9c-9c1b-fba569b70032#ref=rss)
+### liverpool
 
-* [https://www.spiegel.de/wirtschaft/deutsche-post-fuenf-prozent-gehaltserhoehung-fuer-170-000-angestellte](https://www.spiegel.de/wirtschaft/deutsche-post-fuenf-prozent-gehaltserhoehung-fuer-170-000-angestellte-a-c328945b-7800-4408-9ce5-ab18b9cd002e#ref=rss)
-### angestellte
-
-* [https://www.spiegel.de/wirtschaft/deutsche-post-fuenf-prozent-gehaltserhoehung-fuer-170-000-angestellte](https://www.spiegel.de/wirtschaft/deutsche-post-fuenf-prozent-gehaltserhoehung-fuer-170-000-angestellte-a-c328945b-7800-4408-9ce5-ab18b9cd002e#ref=rss)
+* [https://www.spiegel.de/sport/fussball/juergen-klopp-erhaelt-fair-play-preis-fuer-seinen-abschied-beim-fc-liverpool](https://www.spiegel.de/sport/fussball/juergen-klopp-erhaelt-fair-play-preis-fuer-seinen-abschied-beim-fc-liverpool-a-eff8069b-ed9d-4c9c-9c1b-fba569b70032#ref=rss)
 ### deutschen
 
-* [https://www.spiegel.de/wirtschaft/deutsche-post-fuenf-prozent-gehaltserhoehung-fuer-170-000-angestellte](https://www.spiegel.de/wirtschaft/deutsche-post-fuenf-prozent-gehaltserhoehung-fuer-170-000-angestellte-a-c328945b-7800-4408-9ce5-ab18b9cd002e#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/nordische-ski-wm-jarl-magnus-riiber-attackiert-den-deutschen-skiverband](https://www.spiegel.de/sport/wintersport/nordische-ski-wm-jarl-magnus-riiber-attackiert-den-deutschen-skiverband-a-29b2ecb8-8e6f-4287-adfe-4f34c0003401#ref=rss)
-### carlsen
+* [https://www.spiegel.de/sport/fussball/juergen-klopp-erhaelt-fair-play-preis-fuer-seinen-abschied-beim-fc-liverpool](https://www.spiegel.de/sport/fussball/juergen-klopp-erhaelt-fair-play-preis-fuer-seinen-abschied-beim-fc-liverpool-a-eff8069b-ed9d-4c9c-9c1b-fba569b70032#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/zahl-der-asylklagen-an-deutschen-gerichten-steigt-deutlich](https://www.spiegel.de/panorama/justiz/zahl-der-asylklagen-an-deutschen-gerichten-steigt-deutlich-a-65001138-be5d-42eb-8ac9-ca8cf51af32c#ref=rss)
+### jury
 
-* [https://www.spiegel.de/sport/schach-magnus-carlsen-verkauft-jeansgate-hose-fuer-36-100-us-dollar](https://www.spiegel.de/sport/schach-magnus-carlsen-verkauft-jeansgate-hose-fuer-36-100-us-dollar-a-c62bf02e-89b7-4a91-9683-eb9bba139e87#ref=rss)
-### geld
+* [https://www.spiegel.de/sport/fussball/juergen-klopp-erhaelt-fair-play-preis-fuer-seinen-abschied-beim-fc-liverpool](https://www.spiegel.de/sport/fussball/juergen-klopp-erhaelt-fair-play-preis-fuer-seinen-abschied-beim-fc-liverpool-a-eff8069b-ed9d-4c9c-9c1b-fba569b70032#ref=rss)
+* [https://www.spiegel.de/kultur/liu-jiakun-architekt-mit-pritzker-preis-geehrt](https://www.spiegel.de/kultur/liu-jiakun-architekt-mit-pritzker-preis-geehrt-a-577b8286-c8c9-4b22-9734-faf0aa482e52#ref=rss)
+### pattinson
 
-* [https://www.spiegel.de/sport/schach-magnus-carlsen-verkauft-jeansgate-hose-fuer-36-100-us-dollar](https://www.spiegel.de/sport/schach-magnus-carlsen-verkauft-jeansgate-hose-fuer-36-100-us-dollar-a-c62bf02e-89b7-4a91-9683-eb9bba139e87#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ringt-um-sondervermoegen-gruene-fuehlen-sich-nicht-ausreichend-eingebunden](https://www.spiegel.de/politik/deutschland/friedrich-merz-ringt-um-sondervermoegen-gruene-fuehlen-sich-nicht-ausreichend-eingebunden-a-444499d9-af4e-4742-9c95-3311da6cf54a#ref=rss)
-### türkei
+* [https://www.spiegel.de/kultur/kino/robert-pattinson-schauspieler-will-kein-fucking-old-batman-sein](https://www.spiegel.de/kultur/kino/robert-pattinson-schauspieler-will-kein-fucking-old-batman-sein-a-7ac78118-f601-4fc8-8415-1a8e112bf7f6#ref=rss)
+### batman
 
-* [https://www.spiegel.de/ausland/tuerkei-oppositioneller-buergermeister-alaattin-koeseler-in-istanbul-verhaftet](https://www.spiegel.de/ausland/tuerkei-oppositioneller-buergermeister-alaattin-koeseler-in-istanbul-verhaftet-a-7cc1de99-46bb-4de2-b789-d8e07423a25c#ref=rss)
-### oppositioneller
+* [https://www.spiegel.de/kultur/kino/robert-pattinson-schauspieler-will-kein-fucking-old-batman-sein](https://www.spiegel.de/kultur/kino/robert-pattinson-schauspieler-will-kein-fucking-old-batman-sein-a-7ac78118-f601-4fc8-8415-1a8e112bf7f6#ref=rss)
+### brother
 
-* [https://www.spiegel.de/ausland/tuerkei-oppositioneller-buergermeister-alaattin-koeseler-in-istanbul-verhaftet](https://www.spiegel.de/ausland/tuerkei-oppositioneller-buergermeister-alaattin-koeseler-in-istanbul-verhaftet-a-7cc1de99-46bb-4de2-b789-d8e07423a25c#ref=rss)
-### köseler
+* [https://www.spiegel.de/netzwelt/gadgets/druckerhersteller-brother-sabotiert-nutzer-von-drittanbieter-patronen](https://www.spiegel.de/netzwelt/gadgets/druckerhersteller-brother-sabotiert-nutzer-von-drittanbieter-patronen-a-eb3887fd-1d49-4dc2-9881-dbdbc7c1f494#ref=rss)
+### trumpregierung
 
-* [https://www.spiegel.de/ausland/tuerkei-oppositioneller-buergermeister-alaattin-koeseler-in-istanbul-verhaftet](https://www.spiegel.de/ausland/tuerkei-oppositioneller-buergermeister-alaattin-koeseler-in-istanbul-verhaftet-a-7cc1de99-46bb-4de2-b789-d8e07423a25c#ref=rss)
-### partei
+* [https://www.spiegel.de/wirtschaft/unternehmen/usa-donald-trump-plant-drastischen-stellenabbau-bei-steuerbehoerde](https://www.spiegel.de/wirtschaft/unternehmen/usa-donald-trump-plant-drastischen-stellenabbau-bei-steuerbehoerde-a-f694086c-59af-466c-b5d2-5ef80a8b1531#ref=rss)
+* [https://www.spiegel.de/ausland/usa-setzen-huthi-miliz-wieder-auf-die-liste-auslaendischer-terrororganisationen](https://www.spiegel.de/ausland/usa-setzen-huthi-miliz-wieder-auf-die-liste-auslaendischer-terrororganisationen-a-abbae587-4183-4859-962a-7655d450872f#ref=rss)
+### laut
 
-* [https://www.spiegel.de/ausland/tuerkei-oppositioneller-buergermeister-alaattin-koeseler-in-istanbul-verhaftet](https://www.spiegel.de/ausland/tuerkei-oppositioneller-buergermeister-alaattin-koeseler-in-istanbul-verhaftet-a-7cc1de99-46bb-4de2-b789-d8e07423a25c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/hamburg-wahl-es-schadet-der-afd-wenn-migration-nur-eine-untergeordnete-rolle-spielt](https://www.spiegel.de/politik/deutschland/hamburg-wahl-es-schadet-der-afd-wenn-migration-nur-eine-untergeordnete-rolle-spielt-a-129e1395-a687-4840-833f-643fad52ee2e#ref=rss)
-### kanada
+* [https://www.spiegel.de/wirtschaft/unternehmen/usa-donald-trump-plant-drastischen-stellenabbau-bei-steuerbehoerde](https://www.spiegel.de/wirtschaft/unternehmen/usa-donald-trump-plant-drastischen-stellenabbau-bei-steuerbehoerde-a-f694086c-59af-466c-b5d2-5ef80a8b1531#ref=rss)
+* [https://www.spiegel.de/ausland/anschlag-am-flughafen-kabul-donald-trump-verkuendet-festnahme-von-drahtzieher](https://www.spiegel.de/ausland/anschlag-am-flughafen-kabul-donald-trump-verkuendet-festnahme-von-drahtzieher-a-0fdd9d0d-86ac-4a53-bf81-d2df02321720#ref=rss)
+### kettensäge
 
-* [https://www.spiegel.de/wirtschaft/donald-trump-kanada-china-und-mexiko-reagieren-auf-us-handelszoelle](https://www.spiegel.de/wirtschaft/donald-trump-kanada-china-und-mexiko-reagieren-auf-us-handelszoelle-a-c1ce4bc0-3220-4ad1-ac5f-c9601a5b1490#ref=rss)
-### mexiko
+* [https://www.spiegel.de/wirtschaft/unternehmen/usa-donald-trump-plant-drastischen-stellenabbau-bei-steuerbehoerde](https://www.spiegel.de/wirtschaft/unternehmen/usa-donald-trump-plant-drastischen-stellenabbau-bei-steuerbehoerde-a-f694086c-59af-466c-b5d2-5ef80a8b1531#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/reformen-die-deutsche-verwaltung-braucht-nicht-elon-musk-sondern-ein-anderes-vorbild](https://www.spiegel.de/wirtschaft/soziales/reformen-die-deutsche-verwaltung-braucht-nicht-elon-musk-sondern-ein-anderes-vorbild-a-fcd17ba1-47ca-421d-911d-85dd034487f6#ref=rss)
+### emma
 
-* [https://www.spiegel.de/wirtschaft/donald-trump-kanada-china-und-mexiko-reagieren-auf-us-handelszoelle](https://www.spiegel.de/wirtschaft/donald-trump-kanada-china-und-mexiko-reagieren-auf-us-handelszoelle-a-c1ce4bc0-3220-4ad1-ac5f-c9601a5b1490#ref=rss)
-### reagieren
+* [https://www.spiegel.de/sport/tennis/tennis-emma-raducanu-spricht-ueber-aufwuehlenden-stalking-fall](https://www.spiegel.de/sport/tennis/tennis-emma-raducanu-spricht-ueber-aufwuehlenden-stalking-fall-a-77b48609-3b1e-4d94-b51e-876f6dab9888#ref=rss)
+### raducanu
 
-* [https://www.spiegel.de/wirtschaft/donald-trump-kanada-china-und-mexiko-reagieren-auf-us-handelszoelle](https://www.spiegel.de/wirtschaft/donald-trump-kanada-china-und-mexiko-reagieren-auf-us-handelszoelle-a-c1ce4bc0-3220-4ad1-ac5f-c9601a5b1490#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-der-zollstreit-siegen-lernen-heisst-jetzt-von-china-lernen](https://www.spiegel.de/wirtschaft/donald-trump-und-der-zollstreit-siegen-lernen-heisst-jetzt-von-china-lernen-a-e298dd89-ce70-4c33-b5f7-d3714a5366b0#ref=rss)
-### sondervermögen
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ringt-um-sondervermoegen-gruene-fuehlen-sich-nicht-ausreichend-eingebunden](https://www.spiegel.de/politik/deutschland/friedrich-merz-ringt-um-sondervermoegen-gruene-fuehlen-sich-nicht-ausreichend-eingebunden-a-444499d9-af4e-4742-9c95-3311da6cf54a#ref=rss)
-### münchen
-
-* [https://www.spiegel.de/panorama/justiz/muenchen-zwei-festnahmen-nach-serie-von-brandanschlaegen-auf-infrastruktur](https://www.spiegel.de/panorama/justiz/muenchen-zwei-festnahmen-nach-serie-von-brandanschlaegen-auf-infrastruktur-a-97f5409b-b12b-4098-95ab-f4b6e1e3f605#ref=rss)
-### ermittler
-
-* [https://www.spiegel.de/panorama/justiz/muenchen-zwei-festnahmen-nach-serie-von-brandanschlaegen-auf-infrastruktur](https://www.spiegel.de/panorama/justiz/muenchen-zwei-festnahmen-nach-serie-von-brandanschlaegen-auf-infrastruktur-a-97f5409b-b12b-4098-95ab-f4b6e1e3f605#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mannheim-ermittler-pruefen-zettel-aus-auto-des-todesfahrers](https://www.spiegel.de/panorama/justiz/mannheim-ermittler-pruefen-zettel-aus-auto-des-todesfahrers-a-f1837151-ab67-4eba-b2b4-5bc58f081c3f#ref=rss)
+* [https://www.spiegel.de/sport/tennis/tennis-emma-raducanu-spricht-ueber-aufwuehlenden-stalking-fall](https://www.spiegel.de/sport/tennis/tennis-emma-raducanu-spricht-ueber-aufwuehlenden-stalking-fall-a-77b48609-3b1e-4d94-b51e-876f6dab9888#ref=rss)
 ### mann
 
-* [https://www.spiegel.de/panorama/spanien-hoechste-unwetterwarnstufe-in-mehreren-regionen](https://www.spiegel.de/panorama/spanien-hoechste-unwetterwarnstufe-in-mehreren-regionen-a-1727bcf6-d5bd-4ecd-a381-d36e9365d834#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mannheim-ermittler-pruefen-zettel-aus-auto-des-todesfahrers](https://www.spiegel.de/panorama/justiz/mannheim-ermittler-pruefen-zettel-aus-auto-des-todesfahrers-a-f1837151-ab67-4eba-b2b4-5bc58f081c3f#ref=rss)
-### lernen
+* [https://www.spiegel.de/sport/tennis/tennis-emma-raducanu-spricht-ueber-aufwuehlenden-stalking-fall](https://www.spiegel.de/sport/tennis/tennis-emma-raducanu-spricht-ueber-aufwuehlenden-stalking-fall-a-77b48609-3b1e-4d94-b51e-876f6dab9888#ref=rss)
+* [https://www.spiegel.de/kultur/liu-jiakun-architekt-mit-pritzker-preis-geehrt](https://www.spiegel.de/kultur/liu-jiakun-architekt-mit-pritzker-preis-geehrt-a-577b8286-c8c9-4b22-9734-faf0aa482e52#ref=rss)
+### pilot
 
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-der-zollstreit-siegen-lernen-heisst-jetzt-von-china-lernen](https://www.spiegel.de/wirtschaft/donald-trump-und-der-zollstreit-siegen-lernen-heisst-jetzt-von-china-lernen-a-e298dd89-ce70-4c33-b5f7-d3714a5366b0#ref=rss)
-### erdbeere
+* [https://www.spiegel.de/panorama/plettenberg-kleinflugzeug-stuerzt-in-garten-pilot-tot](https://www.spiegel.de/panorama/plettenberg-kleinflugzeug-stuerzt-in-garten-pilot-tot-a-bb2a3ca0-da85-44c7-be21-d79c09909db8#ref=rss)
+### unionrede
 
-* [https://www.spiegel.de/netzwelt/web/tiktok-hype-um-teure-erdbeere-schmeckt-wie-eine-erdbeere](https://www.spiegel.de/netzwelt/web/tiktok-hype-um-teure-erdbeere-schmeckt-wie-eine-erdbeere-a-7b8bba1f-aa66-4ecd-acf4-2d786455bdfc#ref=rss)
-### jarl
+* [https://www.spiegel.de/ausland/donald-trump-und-seine-state-of-the-union-rede-heute-ein-koenig](https://www.spiegel.de/ausland/donald-trump-und-seine-state-of-the-union-rede-heute-ein-koenig-a-7f77cdf9-d124-4ce6-afca-f966a3df1ad2#ref=rss)
+### außer
 
-* [https://www.spiegel.de/sport/wintersport/nordische-ski-wm-jarl-magnus-riiber-attackiert-den-deutschen-skiverband](https://www.spiegel.de/sport/wintersport/nordische-ski-wm-jarl-magnus-riiber-attackiert-den-deutschen-skiverband-a-29b2ecb8-8e6f-4287-adfe-4f34c0003401#ref=rss)
-### riiber
+* [https://www.spiegel.de/ausland/donald-trump-und-seine-state-of-the-union-rede-heute-ein-koenig](https://www.spiegel.de/ausland/donald-trump-und-seine-state-of-the-union-rede-heute-ein-koenig-a-7f77cdf9-d124-4ce6-afca-f966a3df1ad2#ref=rss)
+### präsident
 
-* [https://www.spiegel.de/sport/wintersport/nordische-ski-wm-jarl-magnus-riiber-attackiert-den-deutschen-skiverband](https://www.spiegel.de/sport/wintersport/nordische-ski-wm-jarl-magnus-riiber-attackiert-den-deutschen-skiverband-a-29b2ecb8-8e6f-4287-adfe-4f34c0003401#ref=rss)
-### afd
+* [https://www.spiegel.de/ausland/donald-trump-und-seine-state-of-the-union-rede-heute-ein-koenig](https://www.spiegel.de/ausland/donald-trump-und-seine-state-of-the-union-rede-heute-ein-koenig-a-7f77cdf9-d124-4ce6-afca-f966a3df1ad2#ref=rss)
+* [https://www.spiegel.de/ausland/anschlag-am-flughafen-kabul-donald-trump-verkuendet-festnahme-von-drahtzieher](https://www.spiegel.de/ausland/anschlag-am-flughafen-kabul-donald-trump-verkuendet-festnahme-von-drahtzieher-a-0fdd9d0d-86ac-4a53-bf81-d2df02321720#ref=rss)
+### tesla
 
-* [https://www.spiegel.de/politik/deutschland/hamburg-wahl-es-schadet-der-afd-wenn-migration-nur-eine-untergeordnete-rolle-spielt](https://www.spiegel.de/politik/deutschland/hamburg-wahl-es-schadet-der-afd-wenn-migration-nur-eine-untergeordnete-rolle-spielt-a-129e1395-a687-4840-833f-643fad52ee2e#ref=rss)
+* [https://www.spiegel.de/auto/tesla-verkaufszahlen-brechen-auch-in-china-ein](https://www.spiegel.de/auto/tesla-verkaufszahlen-brechen-auch-in-china-ein-a-05377530-b92e-4e89-a1c6-717aef239ec0#ref=rss)
+### kunden
+
+* [https://www.spiegel.de/auto/tesla-verkaufszahlen-brechen-auch-in-china-ein](https://www.spiegel.de/auto/tesla-verkaufszahlen-brechen-auch-in-china-ein-a-05377530-b92e-4e89-a1c6-717aef239ec0#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/organisierte-kriminalitaet-wie-anlagebetrueger-deutsche-rentner-abzocken](https://www.spiegel.de/panorama/justiz/organisierte-kriminalitaet-wie-anlagebetrueger-deutsche-rentner-abzocken-a-91317f75-e767-470d-b47b-a51c1408febb#ref=rss)
+### februar
+
+* [https://www.spiegel.de/auto/tesla-verkaufszahlen-brechen-auch-in-china-ein](https://www.spiegel.de/auto/tesla-verkaufszahlen-brechen-auch-in-china-ein-a-05377530-b92e-4e89-a1c6-717aef239ec0#ref=rss)
+### verkauft
+
+* [https://www.spiegel.de/auto/tesla-verkaufszahlen-brechen-auch-in-china-ein](https://www.spiegel.de/auto/tesla-verkaufszahlen-brechen-auch-in-china-ein-a-05377530-b92e-4e89-a1c6-717aef239ec0#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/organisierte-kriminalitaet-wie-anlagebetrueger-deutsche-rentner-abzocken](https://www.spiegel.de/panorama/justiz/organisierte-kriminalitaet-wie-anlagebetrueger-deutsche-rentner-abzocken-a-91317f75-e767-470d-b47b-a51c1408febb#ref=rss)
+### joko
+
+* [https://www.spiegel.de/kultur/tv/joko-und-klaas-verlaengern-exklusiv-vertrag-mit-prosieben](https://www.spiegel.de/kultur/tv/joko-und-klaas-verlaengern-exklusiv-vertrag-mit-prosieben-a-463950a9-df74-4db4-b2c7-62f0e81a8ec3#ref=rss)
+### klaas
+
+* [https://www.spiegel.de/kultur/tv/joko-und-klaas-verlaengern-exklusiv-vertrag-mit-prosieben](https://www.spiegel.de/kultur/tv/joko-und-klaas-verlaengern-exklusiv-vertrag-mit-prosieben-a-463950a9-df74-4db4-b2c7-62f0e81a8ec3#ref=rss)
+### prosieben
+
+* [https://www.spiegel.de/kultur/tv/joko-und-klaas-verlaengern-exklusiv-vertrag-mit-prosieben](https://www.spiegel.de/kultur/tv/joko-und-klaas-verlaengern-exklusiv-vertrag-mit-prosieben-a-463950a9-df74-4db4-b2c7-62f0e81a8ec3#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/panorama/bildung/berlin-strengere-regeln-fuer-gymnasium-kaum-schueler-bestehen-probeunterricht](https://www.spiegel.de/panorama/bildung/berlin-strengere-regeln-fuer-gymnasium-kaum-schueler-bestehen-probeunterricht-a-5ec777a6-5e11-43dd-aaa0-4e15f0b90e0b#ref=rss)
+### gymnasium
+
+* [https://www.spiegel.de/panorama/bildung/berlin-strengere-regeln-fuer-gymnasium-kaum-schueler-bestehen-probeunterricht](https://www.spiegel.de/panorama/bildung/berlin-strengere-regeln-fuer-gymnasium-kaum-schueler-bestehen-probeunterricht-a-5ec777a6-5e11-43dd-aaa0-4e15f0b90e0b#ref=rss)
+### bestehen
+
+* [https://www.spiegel.de/panorama/bildung/berlin-strengere-regeln-fuer-gymnasium-kaum-schueler-bestehen-probeunterricht](https://www.spiegel.de/panorama/bildung/berlin-strengere-regeln-fuer-gymnasium-kaum-schueler-bestehen-probeunterricht-a-5ec777a6-5e11-43dd-aaa0-4e15f0b90e0b#ref=rss)
+### probeunterricht
+
+* [https://www.spiegel.de/panorama/bildung/berlin-strengere-regeln-fuer-gymnasium-kaum-schueler-bestehen-probeunterricht](https://www.spiegel.de/panorama/bildung/berlin-strengere-regeln-fuer-gymnasium-kaum-schueler-bestehen-probeunterricht-a-5ec777a6-5e11-43dd-aaa0-4e15f0b90e0b#ref=rss)
+### alle
+
+* [https://www.spiegel.de/panorama/bildung/berlin-strengere-regeln-fuer-gymnasium-kaum-schueler-bestehen-probeunterricht](https://www.spiegel.de/panorama/bildung/berlin-strengere-regeln-fuer-gymnasium-kaum-schueler-bestehen-probeunterricht-a-5ec777a6-5e11-43dd-aaa0-4e15f0b90e0b#ref=rss)
+### euro
+
+* [https://www.spiegel.de/start/guenstiges-rezept-asiatische-reisbowl-mit-spiegelei-fuer-nur-2-euro](https://www.spiegel.de/start/guenstiges-rezept-asiatische-reisbowl-mit-spiegelei-fuer-nur-2-euro-a-de94c5ff-e1ef-4e28-a758-910ae03757d8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/winfried-kretschmann-will-ruestungsindustrie-in-baden-wuerttemberg-ausbauen-war-noch-nie-pazifist](https://www.spiegel.de/wirtschaft/unternehmen/winfried-kretschmann-will-ruestungsindustrie-in-baden-wuerttemberg-ausbauen-war-noch-nie-pazifist-a-4023229d-d3f1-4ff9-a209-a1b6fca7fe62#ref=rss)
+### anderen
+
+* [https://www.spiegel.de/start/guenstiges-rezept-asiatische-reisbowl-mit-spiegelei-fuer-nur-2-euro](https://www.spiegel.de/start/guenstiges-rezept-asiatische-reisbowl-mit-spiegelei-fuer-nur-2-euro-a-de94c5ff-e1ef-4e28-a758-910ae03757d8#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-protest-waehrend-rede-im-kongress-fotos](https://www.spiegel.de/ausland/donald-trump-protest-waehrend-rede-im-kongress-fotos-a-8d753399-7f36-4698-80b6-332cb95f31f0#ref=rss)
+### leben
+
+* [https://www.spiegel.de/start/guenstiges-rezept-asiatische-reisbowl-mit-spiegelei-fuer-nur-2-euro](https://www.spiegel.de/start/guenstiges-rezept-asiatische-reisbowl-mit-spiegelei-fuer-nur-2-euro-a-de94c5ff-e1ef-4e28-a758-910ae03757d8#ref=rss)
+* [https://www.spiegel.de/ausland/anschlag-am-flughafen-kabul-donald-trump-verkuendet-festnahme-von-drahtzieher](https://www.spiegel.de/ausland/anschlag-am-flughafen-kabul-donald-trump-verkuendet-festnahme-von-drahtzieher-a-0fdd9d0d-86ac-4a53-bf81-d2df02321720#ref=rss)
+### liu
+
+* [https://www.spiegel.de/kultur/liu-jiakun-architekt-mit-pritzker-preis-geehrt](https://www.spiegel.de/kultur/liu-jiakun-architekt-mit-pritzker-preis-geehrt-a-577b8286-c8c9-4b22-9734-faf0aa482e52#ref=rss)
+### jiakun
+
+* [https://www.spiegel.de/kultur/liu-jiakun-architekt-mit-pritzker-preis-geehrt](https://www.spiegel.de/kultur/liu-jiakun-architekt-mit-pritzker-preis-geehrt-a-577b8286-c8c9-4b22-9734-faf0aa482e52#ref=rss)
+### pritzkerpreis
+
+* [https://www.spiegel.de/kultur/liu-jiakun-architekt-mit-pritzker-preis-geehrt](https://www.spiegel.de/kultur/liu-jiakun-architekt-mit-pritzker-preis-geehrt-a-577b8286-c8c9-4b22-9734-faf0aa482e52#ref=rss)
+### probleme
+
+* [https://www.spiegel.de/kultur/liu-jiakun-architekt-mit-pritzker-preis-geehrt](https://www.spiegel.de/kultur/liu-jiakun-architekt-mit-pritzker-preis-geehrt-a-577b8286-c8c9-4b22-9734-faf0aa482e52#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-us-demokratin-elissa-slotkin-haelt-gegenrede](https://www.spiegel.de/ausland/donald-trump-us-demokratin-elissa-slotkin-haelt-gegenrede-a-466962b9-c1ae-4255-9ab9-6ac175bc4c95#ref=rss)
+### sahelzone
+
+* [https://www.spiegel.de/ausland/afrika-sahelzone-verzeichnet-2024-die-meisten-terrorismusopfer-weltweit](https://www.spiegel.de/ausland/afrika-sahelzone-verzeichnet-2024-die-meisten-terrorismusopfer-weltweit-a-bd875464-8e6e-45f6-bbca-6a87a32f6070#ref=rss)
+### opfer
+
+* [https://www.spiegel.de/ausland/afrika-sahelzone-verzeichnet-2024-die-meisten-terrorismusopfer-weltweit](https://www.spiegel.de/ausland/afrika-sahelzone-verzeichnet-2024-die-meisten-terrorismusopfer-weltweit-a-bd875464-8e6e-45f6-bbca-6a87a32f6070#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/organisierte-kriminalitaet-wie-anlagebetrueger-deutsche-rentner-abzocken](https://www.spiegel.de/panorama/justiz/organisierte-kriminalitaet-wie-anlagebetrueger-deutsche-rentner-abzocken-a-91317f75-e767-470d-b47b-a51c1408febb#ref=rss)
+### welt
+
+* [https://www.spiegel.de/ausland/afrika-sahelzone-verzeichnet-2024-die-meisten-terrorismusopfer-weltweit](https://www.spiegel.de/ausland/afrika-sahelzone-verzeichnet-2024-die-meisten-terrorismusopfer-weltweit-a-bd875464-8e6e-45f6-bbca-6a87a32f6070#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/vergeltungszoelle-wirtschaftsweise-monika-schnitzer-fuer-harte-antwort-auf-donald-trump](https://www.spiegel.de/wirtschaft/unternehmen/vergeltungszoelle-wirtschaftsweise-monika-schnitzer-fuer-harte-antwort-auf-donald-trump-a-ff345adc-cbfc-436d-bb2b-da9947770069#ref=rss)
+### demokraten
+
+* [https://www.spiegel.de/ausland/donald-trump-bei-state-of-the-union-wir-fangen-gerade-erst-an](https://www.spiegel.de/ausland/donald-trump-bei-state-of-the-union-wir-fangen-gerade-erst-an-a-b3777ffa-94fe-4ec2-b24f-5f87a20b9b42#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-protest-waehrend-rede-im-kongress-fotos](https://www.spiegel.de/ausland/donald-trump-protest-waehrend-rede-im-kongress-fotos-a-8d753399-7f36-4698-80b6-332cb95f31f0#ref=rss)
+### verkündet
+
+* [https://www.spiegel.de/ausland/donald-trump-bei-state-of-the-union-wir-fangen-gerade-erst-an](https://www.spiegel.de/ausland/donald-trump-bei-state-of-the-union-wir-fangen-gerade-erst-an-a-b3777ffa-94fe-4ec2-b24f-5f87a20b9b42#ref=rss)
+* [https://www.spiegel.de/ausland/anschlag-am-flughafen-kabul-donald-trump-verkuendet-festnahme-von-drahtzieher](https://www.spiegel.de/ausland/anschlag-am-flughafen-kabul-donald-trump-verkuendet-festnahme-von-drahtzieher-a-0fdd9d0d-86ac-4a53-bf81-d2df02321720#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/wirtschaft/soziales/reformen-die-deutsche-verwaltung-braucht-nicht-elon-musk-sondern-ein-anderes-vorbild](https://www.spiegel.de/wirtschaft/soziales/reformen-die-deutsche-verwaltung-braucht-nicht-elon-musk-sondern-ein-anderes-vorbild-a-fcd17ba1-47ca-421d-911d-85dd034487f6#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/organisierte-kriminalitaet-wie-anlagebetrueger-deutsche-rentner-abzocken](https://www.spiegel.de/panorama/justiz/organisierte-kriminalitaet-wie-anlagebetrueger-deutsche-rentner-abzocken-a-91317f75-e767-470d-b47b-a51c1408febb#ref=rss)
+### behörden
+
+* [https://www.spiegel.de/wirtschaft/soziales/reformen-die-deutsche-verwaltung-braucht-nicht-elon-musk-sondern-ein-anderes-vorbild](https://www.spiegel.de/wirtschaft/soziales/reformen-die-deutsche-verwaltung-braucht-nicht-elon-musk-sondern-ein-anderes-vorbild-a-fcd17ba1-47ca-421d-911d-85dd034487f6#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/organisierte-kriminalitaet-wie-anlagebetrueger-deutsche-rentner-abzocken](https://www.spiegel.de/panorama/justiz/organisierte-kriminalitaet-wie-anlagebetrueger-deutsche-rentner-abzocken-a-91317f75-e767-470d-b47b-a51c1408febb#ref=rss)
+### winfried
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/winfried-kretschmann-will-ruestungsindustrie-in-baden-wuerttemberg-ausbauen-war-noch-nie-pazifist](https://www.spiegel.de/wirtschaft/unternehmen/winfried-kretschmann-will-ruestungsindustrie-in-baden-wuerttemberg-ausbauen-war-noch-nie-pazifist-a-4023229d-d3f1-4ff9-a209-a1b6fca7fe62#ref=rss)
+### kretschmann
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/winfried-kretschmann-will-ruestungsindustrie-in-baden-wuerttemberg-ausbauen-war-noch-nie-pazifist](https://www.spiegel.de/wirtschaft/unternehmen/winfried-kretschmann-will-ruestungsindustrie-in-baden-wuerttemberg-ausbauen-war-noch-nie-pazifist-a-4023229d-d3f1-4ff9-a209-a1b6fca7fe62#ref=rss)
+### rüstungsindustrie
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/winfried-kretschmann-will-ruestungsindustrie-in-baden-wuerttemberg-ausbauen-war-noch-nie-pazifist](https://www.spiegel.de/wirtschaft/unternehmen/winfried-kretschmann-will-ruestungsindustrie-in-baden-wuerttemberg-ausbauen-war-noch-nie-pazifist-a-4023229d-d3f1-4ff9-a209-a1b6fca7fe62#ref=rss)
+### nie
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/winfried-kretschmann-will-ruestungsindustrie-in-baden-wuerttemberg-ausbauen-war-noch-nie-pazifist](https://www.spiegel.de/wirtschaft/unternehmen/winfried-kretschmann-will-ruestungsindustrie-in-baden-wuerttemberg-ausbauen-war-noch-nie-pazifist-a-4023229d-d3f1-4ff9-a209-a1b6fca7fe62#ref=rss)
+### pazifist
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/winfried-kretschmann-will-ruestungsindustrie-in-baden-wuerttemberg-ausbauen-war-noch-nie-pazifist](https://www.spiegel.de/wirtschaft/unternehmen/winfried-kretschmann-will-ruestungsindustrie-in-baden-wuerttemberg-ausbauen-war-noch-nie-pazifist-a-4023229d-d3f1-4ff9-a209-a1b6fca7fe62#ref=rss)
+### kritik
+
+* [https://www.spiegel.de/ausland/donald-trump-protest-waehrend-rede-im-kongress-fotos](https://www.spiegel.de/ausland/donald-trump-protest-waehrend-rede-im-kongress-fotos-a-8d753399-7f36-4698-80b6-332cb95f31f0#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-us-demokratin-elissa-slotkin-haelt-gegenrede](https://www.spiegel.de/ausland/donald-trump-us-demokratin-elissa-slotkin-haelt-gegenrede-a-466962b9-c1ae-4255-9ab9-6ac175bc4c95#ref=rss)
+### annalena
+
+* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-verzichtet-auf-gruenen-fraktionsvorsitz-aus-privaten-gruenden](https://www.spiegel.de/politik/deutschland/annalena-baerbock-verzichtet-auf-gruenen-fraktionsvorsitz-aus-privaten-gruenden-a-9f49a9a3-2892-46e6-a2d1-62eceeec667a#ref=rss)
+### baerbock
+
+* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-verzichtet-auf-gruenen-fraktionsvorsitz-aus-privaten-gruenden](https://www.spiegel.de/politik/deutschland/annalena-baerbock-verzichtet-auf-gruenen-fraktionsvorsitz-aus-privaten-gruenden-a-9f49a9a3-2892-46e6-a2d1-62eceeec667a#ref=rss)
+### mark
+
+* [https://www.spiegel.de/kultur/mark-hoppus-banksy-gemaelde-von-blink-182-star-fuer-4-3-millionen-pfund-versteigert](https://www.spiegel.de/kultur/mark-hoppus-banksy-gemaelde-von-blink-182-star-fuer-4-3-millionen-pfund-versteigert-a-7450c422-1a2a-4d40-9243-4769302562a9#ref=rss)
+### hoppus
+
+* [https://www.spiegel.de/kultur/mark-hoppus-banksy-gemaelde-von-blink-182-star-fuer-4-3-millionen-pfund-versteigert](https://www.spiegel.de/kultur/mark-hoppus-banksy-gemaelde-von-blink-182-star-fuer-4-3-millionen-pfund-versteigert-a-7450c422-1a2a-4d40-9243-4769302562a9#ref=rss)
+### banksygemälde
+
+* [https://www.spiegel.de/kultur/mark-hoppus-banksy-gemaelde-von-blink-182-star-fuer-4-3-millionen-pfund-versteigert](https://www.spiegel.de/kultur/mark-hoppus-banksy-gemaelde-von-blink-182-star-fuer-4-3-millionen-pfund-versteigert-a-7450c422-1a2a-4d40-9243-4769302562a9#ref=rss)
+### anschlag
+
+* [https://www.spiegel.de/ausland/anschlag-am-flughafen-kabul-donald-trump-verkuendet-festnahme-von-drahtzieher](https://www.spiegel.de/ausland/anschlag-am-flughafen-kabul-donald-trump-verkuendet-festnahme-von-drahtzieher-a-0fdd9d0d-86ac-4a53-bf81-d2df02321720#ref=rss)
+### flughafen
+
+* [https://www.spiegel.de/ausland/anschlag-am-flughafen-kabul-donald-trump-verkuendet-festnahme-von-drahtzieher](https://www.spiegel.de/ausland/anschlag-am-flughafen-kabul-donald-trump-verkuendet-festnahme-von-drahtzieher-a-0fdd9d0d-86ac-4a53-bf81-d2df02321720#ref=rss)
+### kabul
+
+* [https://www.spiegel.de/ausland/anschlag-am-flughafen-kabul-donald-trump-verkuendet-festnahme-von-drahtzieher](https://www.spiegel.de/ausland/anschlag-am-flughafen-kabul-donald-trump-verkuendet-festnahme-von-drahtzieher-a-0fdd9d0d-86ac-4a53-bf81-d2df02321720#ref=rss)
+### chinas
+
+* [https://www.spiegel.de/wirtschaft/chinas-wirtschaft-soll-trotz-handelskrieg-rund-fuenf-prozent-wachsen](https://www.spiegel.de/wirtschaft/chinas-wirtschaft-soll-trotz-handelskrieg-rund-fuenf-prozent-wachsen-a-340354ec-bf06-4ef5-8a08-92eba042b7f9#ref=rss)
+### wirtschaft
+
+* [https://www.spiegel.de/wirtschaft/chinas-wirtschaft-soll-trotz-handelskrieg-rund-fuenf-prozent-wachsen](https://www.spiegel.de/wirtschaft/chinas-wirtschaft-soll-trotz-handelskrieg-rund-fuenf-prozent-wachsen-a-340354ec-bf06-4ef5-8a08-92eba042b7f9#ref=rss)
+### huthis
+
+* [https://www.spiegel.de/ausland/usa-setzen-huthi-miliz-wieder-auf-die-liste-auslaendischer-terrororganisationen](https://www.spiegel.de/ausland/usa-setzen-huthi-miliz-wieder-auf-die-liste-auslaendischer-terrororganisationen-a-abbae587-4183-4859-962a-7655d450872f#ref=rss)
+### lebron
+
+* [https://www.spiegel.de/sport/basketball/basketball-lebron-james-uebertrifft-als-erster-nba-spieler-die-50-000-punkte-marke](https://www.spiegel.de/sport/basketball/basketball-lebron-james-uebertrifft-als-erster-nba-spieler-die-50-000-punkte-marke-a-13f624c0-dcfa-4efc-aef8-5db81f91424c#ref=rss)
+### james
+
+* [https://www.spiegel.de/sport/basketball/basketball-lebron-james-uebertrifft-als-erster-nba-spieler-die-50-000-punkte-marke](https://www.spiegel.de/sport/basketball/basketball-lebron-james-uebertrifft-als-erster-nba-spieler-die-50-000-punkte-marke-a-13f624c0-dcfa-4efc-aef8-5db81f91424c#ref=rss)
+### usdemokratin
+
+* [https://www.spiegel.de/ausland/donald-trump-us-demokratin-elissa-slotkin-haelt-gegenrede](https://www.spiegel.de/ausland/donald-trump-us-demokratin-elissa-slotkin-haelt-gegenrede-a-466962b9-c1ae-4255-9ab9-6ac175bc4c95#ref=rss)
+### elissa
+
+* [https://www.spiegel.de/ausland/donald-trump-us-demokratin-elissa-slotkin-haelt-gegenrede](https://www.spiegel.de/ausland/donald-trump-us-demokratin-elissa-slotkin-haelt-gegenrede-a-466962b9-c1ae-4255-9ab9-6ac175bc4c95#ref=rss)
+### slotkin
+
+* [https://www.spiegel.de/ausland/donald-trump-us-demokratin-elissa-slotkin-haelt-gegenrede](https://www.spiegel.de/ausland/donald-trump-us-demokratin-elissa-slotkin-haelt-gegenrede-a-466962b9-c1ae-4255-9ab9-6ac175bc4c95#ref=rss)
+### gegenrede
+
+* [https://www.spiegel.de/ausland/donald-trump-us-demokratin-elissa-slotkin-haelt-gegenrede](https://www.spiegel.de/ausland/donald-trump-us-demokratin-elissa-slotkin-haelt-gegenrede-a-466962b9-c1ae-4255-9ab9-6ac175bc4c95#ref=rss)
+### präsidenten
+
+* [https://www.spiegel.de/ausland/donald-trump-us-demokratin-elissa-slotkin-haelt-gegenrede](https://www.spiegel.de/ausland/donald-trump-us-demokratin-elissa-slotkin-haelt-gegenrede-a-466962b9-c1ae-4255-9ab9-6ac175bc4c95#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-usa-rede-friedrich-merz-spd-cdu-csu-schulden](https://www.spiegel.de/politik/deutschland/news-donald-trump-usa-rede-friedrich-merz-spd-cdu-csu-schulden-a-52ba7b38-0268-4851-9e4e-269d75da850f#ref=rss)
+### schnitzer
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/vergeltungszoelle-wirtschaftsweise-monika-schnitzer-fuer-harte-antwort-auf-donald-trump](https://www.spiegel.de/wirtschaft/unternehmen/vergeltungszoelle-wirtschaftsweise-monika-schnitzer-fuer-harte-antwort-auf-donald-trump-a-ff345adc-cbfc-436d-bb2b-da9947770069#ref=rss)
+### taiwan
+
+* [https://www.spiegel.de/ausland/china-vs-taiwan-taipeh-blickt-beklommen-auf-trumps-anti-ukraine-zeitenwende](https://www.spiegel.de/ausland/china-vs-taiwan-taipeh-blickt-beklommen-auf-trumps-anti-ukraine-zeitenwende-a-d245e81b-de52-4db0-84fa-50af5c7d7bdf#ref=rss)
+### taipeh
+
+* [https://www.spiegel.de/ausland/china-vs-taiwan-taipeh-blickt-beklommen-auf-trumps-anti-ukraine-zeitenwende](https://www.spiegel.de/ausland/china-vs-taiwan-taipeh-blickt-beklommen-auf-trumps-anti-ukraine-zeitenwende-a-d245e81b-de52-4db0-84fa-50af5c7d7bdf#ref=rss)
+### selenskyj
+
+* [https://www.spiegel.de/ausland/china-vs-taiwan-taipeh-blickt-beklommen-auf-trumps-anti-ukraine-zeitenwende](https://www.spiegel.de/ausland/china-vs-taiwan-taipeh-blickt-beklommen-auf-trumps-anti-ukraine-zeitenwende-a-d245e81b-de52-4db0-84fa-50af5c7d7bdf#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-usa-rede-friedrich-merz-spd-cdu-csu-schulden](https://www.spiegel.de/politik/deutschland/news-donald-trump-usa-rede-friedrich-merz-spd-cdu-csu-schulden-a-52ba7b38-0268-4851-9e4e-269d75da850f#ref=rss)
 
