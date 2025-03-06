@@ -4,293 +4,355 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### bayern
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-beim-jubeln-verletzt-torhueter-manuel-neuer-faellt-mit-muskelfaserriss-aus](https://www.spiegel.de/sport/fussball/fc-bayern-beim-jubeln-verletzt-torhueter-manuel-neuer-faellt-mit-muskelfaserriss-aus-a-1ab8acae-6ba5-4880-8ce0-88dd0c3a8f67#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-kompanys-3-0-sieg-gegen-bleverkusen-mit-symbolkraft](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-kompanys-3-0-sieg-gegen-bleverkusen-mit-symbolkraft-a-fb7d4cf4-529d-49f4-966f-31d387f55556#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-trotz-3-0-sieg-gegen-leverkusen-unruhe-im-klub](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-trotz-3-0-sieg-gegen-leverkusen-unruhe-im-klub-a-57633df1-8957-465e-980c-bceffb9b94d0#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-beim-jubeln-verletzt-torhueter-manuel-neuer-faellt-mit-muskelfaserriss-aus](https://www.spiegel.de/sport/fussball/fc-bayern-beim-jubeln-verletzt-torhueter-manuel-neuer-faellt-mit-muskelfaserriss-aus-a-1ab8acae-6ba5-4880-8ce0-88dd0c3a8f67#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-kompanys-3-0-sieg-gegen-bleverkusen-mit-symbolkraft](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-kompanys-3-0-sieg-gegen-bleverkusen-mit-symbolkraft-a-fb7d4cf4-529d-49f4-966f-31d387f55556#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-trotz-3-0-sieg-gegen-leverkusen-unruhe-im-klub](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-trotz-3-0-sieg-gegen-leverkusen-unruhe-im-klub-a-57633df1-8957-465e-980c-bceffb9b94d0#ref=rss)
-### 2025
-
-* [https://www.spiegel.de/sport/wintersport/bob-und-skeleton-wm-2025-zeitplan-ergebnisse-favoriten](https://www.spiegel.de/sport/wintersport/bob-und-skeleton-wm-2025-zeitplan-ergebnisse-favoriten-a-c51ee0ef-ffdf-4927-869d-f95f5cdb4773#ref=rss)
-* [https://www.spiegel.de/kultur/tv/grimme-preis-2025-herrhausen-und-die-zweiflers-ausgezeichnet](https://www.spiegel.de/kultur/tv/grimme-preis-2025-herrhausen-und-die-zweiflers-ausgezeichnet-a-02daf6ba-b3ff-4a81-b277-85d575daa1c8#ref=rss)
-* [https://www.spiegel.de/panorama/brasilien-karneval-in-rio-de-janeiro-beija-flor-gewinnt-wettstreit-der-sambaschulen](https://www.spiegel.de/panorama/brasilien-karneval-in-rio-de-janeiro-beija-flor-gewinnt-wettstreit-der-sambaschulen-a-1a303dc2-ba4f-4bf0-9092-4202d3177bc5#ref=rss)
-### einige
-
-* [https://www.spiegel.de/kultur/body-positivity-lizzo-selena-gomez-hollywood-auf-diaet](https://www.spiegel.de/kultur/body-positivity-lizzo-selena-gomez-hollywood-auf-diaet-a-b38b1c32-86be-45d4-a679-483eafd23c5e#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/hacking-for-hire-system-usa-klagen-zwoelf-mutmassliche-chinesische-hacker-an](https://www.spiegel.de/netzwelt/web/hacking-for-hire-system-usa-klagen-zwoelf-mutmassliche-chinesische-hacker-an-a-873ccbc1-eb16-4dcc-9773-344dd373a038#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-beim-jubeln-verletzt-torhueter-manuel-neuer-faellt-mit-muskelfaserriss-aus](https://www.spiegel.de/sport/fussball/fc-bayern-beim-jubeln-verletzt-torhueter-manuel-neuer-faellt-mit-muskelfaserriss-aus-a-1ab8acae-6ba5-4880-8ce0-88dd0c3a8f67#ref=rss)
-* [https://www.spiegel.de/start/hochschulen-geschlechterunterschiede-bei-studiengaengen-was-frauen-und-maenner-studieren](https://www.spiegel.de/start/hochschulen-geschlechterunterschiede-bei-studiengaengen-was-frauen-und-maenner-studieren-a-e85dd162-1f1a-48f2-a9f8-03b00cf8b138#ref=rss)
-### usa
-
-* [https://www.spiegel.de/wissenschaft/technik/usa-stellen-weltweite-ueberwachung-der-luftqualitaet-ein](https://www.spiegel.de/wissenschaft/technik/usa-stellen-weltweite-ueberwachung-der-luftqualitaet-ein-a-9bc7d120-21d3-4f35-9a9b-e6208ab7e23b#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/hacking-for-hire-system-usa-klagen-zwoelf-mutmassliche-chinesische-hacker-an](https://www.spiegel.de/netzwelt/web/hacking-for-hire-system-usa-klagen-zwoelf-mutmassliche-chinesische-hacker-an-a-873ccbc1-eb16-4dcc-9773-344dd373a038#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-frankreich-will-geheimdienstinformationen-mit-kyjiw-teilen](https://www.spiegel.de/ausland/ukraine-krieg-frankreich-will-geheimdienstinformationen-mit-kyjiw-teilen-a-ac5aef86-1f0e-4bf9-ac13-da919eadb6e8#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/wirtschaft/soziales/gender-pay-gap-frauen-holen-bei-loehnen-leicht-auf](https://www.spiegel.de/wirtschaft/soziales/gender-pay-gap-frauen-holen-bei-loehnen-leicht-auf-a-198d5c89-e590-4d11-90cb-a7e5e737d858#ref=rss)
-* [https://www.spiegel.de/start/hochschulen-geschlechterunterschiede-bei-studiengaengen-was-frauen-und-maenner-studieren](https://www.spiegel.de/start/hochschulen-geschlechterunterschiede-bei-studiengaengen-was-frauen-und-maenner-studieren-a-e85dd162-1f1a-48f2-a9f8-03b00cf8b138#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/wissenschaft/technik/usa-stellen-weltweite-ueberwachung-der-luftqualitaet-ein](https://www.spiegel.de/wissenschaft/technik/usa-stellen-weltweite-ueberwachung-der-luftqualitaet-ein-a-9bc7d120-21d3-4f35-9a9b-e6208ab7e23b#ref=rss)
-* [https://www.spiegel.de/kultur/hamburger-oper-man-muss-die-bombe-im-salon-platzieren](https://www.spiegel.de/kultur/hamburger-oper-man-muss-die-bombe-im-salon-platzieren-a-076c1044-b777-4b5c-a80d-fdd47e8e4281#ref=rss)
-* [https://www.spiegel.de/ausland/trump-vertraute-sollen-mit-politischen-gegnern-von-selenskyj-gesprochen-haben](https://www.spiegel.de/ausland/trump-vertraute-sollen-mit-politischen-gegnern-von-selenskyj-gesprochen-haben-a-94585c7c-51ea-422d-9c08-df593c982fa4#ref=rss)
-### neuer
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-beim-jubeln-verletzt-torhueter-manuel-neuer-faellt-mit-muskelfaserriss-aus](https://www.spiegel.de/sport/fussball/fc-bayern-beim-jubeln-verletzt-torhueter-manuel-neuer-faellt-mit-muskelfaserriss-aus-a-1ab8acae-6ba5-4880-8ce0-88dd0c3a8f67#ref=rss)
-* [https://www.spiegel.de/kultur/hamburger-oper-man-muss-die-bombe-im-salon-platzieren](https://www.spiegel.de/kultur/hamburger-oper-man-muss-die-bombe-im-salon-platzieren-a-076c1044-b777-4b5c-a80d-fdd47e8e4281#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-vier-tote-nach-russischem-raketentreffer-auf-ukrainisches-hotel](https://www.spiegel.de/ausland/russland-ukraine-krieg-vier-tote-nach-russischem-raketentreffer-auf-ukrainisches-hotel-a-2521447b-5e3f-4bed-9a50-4d881004a2a7#ref=rss)
-* [https://www.spiegel.de/ausland/suedkorea-kampfpilot-wirft-versehentlich-bomben-bei-uebungsmanoever-ab](https://www.spiegel.de/ausland/suedkorea-kampfpilot-wirft-versehentlich-bomben-bei-uebungsmanoever-ab-a-62b13cbb-285d-4184-9270-f63af59dd8eb#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mannheim-autoattacke-mit-zwei-toten-was-trieb-den-mutmasslichen-amokfahrer-an](https://www.spiegel.de/panorama/justiz/mannheim-autoattacke-mit-zwei-toten-was-trieb-den-mutmasslichen-amokfahrer-an-a-c70670e0-4c86-4a31-8d78-27b46096b52a#ref=rss)
-### münchen
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-kompanys-3-0-sieg-gegen-bleverkusen-mit-symbolkraft](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-kompanys-3-0-sieg-gegen-bleverkusen-mit-symbolkraft-a-fb7d4cf4-529d-49f4-966f-31d387f55556#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/migration-nach-deutschland-wir-muessen-mehr-moeglichkeiten-der-integration-schaffen](https://www.spiegel.de/panorama/justiz/migration-nach-deutschland-wir-muessen-mehr-moeglichkeiten-der-integration-schaffen-a-8d145de6-2440-4a03-a6f2-c3ab61fcf330#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-trotz-3-0-sieg-gegen-leverkusen-unruhe-im-klub](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-trotz-3-0-sieg-gegen-leverkusen-unruhe-im-klub-a-57633df1-8957-465e-980c-bceffb9b94d0#ref=rss)
-### leverkusen
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-kompanys-3-0-sieg-gegen-bleverkusen-mit-symbolkraft](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-kompanys-3-0-sieg-gegen-bleverkusen-mit-symbolkraft-a-fb7d4cf4-529d-49f4-966f-31d387f55556#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-trotz-3-0-sieg-gegen-leverkusen-unruhe-im-klub](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-trotz-3-0-sieg-gegen-leverkusen-unruhe-im-klub-a-57633df1-8957-465e-980c-bceffb9b94d0#ref=rss)
-### bob
-
-* [https://www.spiegel.de/sport/wintersport/bob-und-skeleton-wm-2025-zeitplan-ergebnisse-favoriten](https://www.spiegel.de/sport/wintersport/bob-und-skeleton-wm-2025-zeitplan-ergebnisse-favoriten-a-c51ee0ef-ffdf-4927-869d-f95f5cdb4773#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/sport/wintersport/bob-und-skeleton-wm-2025-zeitplan-ergebnisse-favoriten](https://www.spiegel.de/sport/wintersport/bob-und-skeleton-wm-2025-zeitplan-ergebnisse-favoriten-a-c51ee0ef-ffdf-4927-869d-f95f5cdb4773#ref=rss)
-* [https://www.spiegel.de/panorama/leute/lady-gaga-laesst-sich-von-ihrem-verlobten-inspirieren](https://www.spiegel.de/panorama/leute/lady-gaga-laesst-sich-von-ihrem-verlobten-inspirieren-a-0addb748-3b6e-43f6-b714-246c0f97ff9e#ref=rss)
-### body
-
-* [https://www.spiegel.de/kultur/body-positivity-lizzo-selena-gomez-hollywood-auf-diaet](https://www.spiegel.de/kultur/body-positivity-lizzo-selena-gomez-hollywood-auf-diaet-a-b38b1c32-86be-45d4-a679-483eafd23c5e#ref=rss)
-### positivity
-
-* [https://www.spiegel.de/kultur/body-positivity-lizzo-selena-gomez-hollywood-auf-diaet](https://www.spiegel.de/kultur/body-positivity-lizzo-selena-gomez-hollywood-auf-diaet-a-b38b1c32-86be-45d4-a679-483eafd23c5e#ref=rss)
-### lizzo
-
-* [https://www.spiegel.de/kultur/body-positivity-lizzo-selena-gomez-hollywood-auf-diaet](https://www.spiegel.de/kultur/body-positivity-lizzo-selena-gomez-hollywood-auf-diaet-a-b38b1c32-86be-45d4-a679-483eafd23c5e#ref=rss)
-### selena
-
-* [https://www.spiegel.de/kultur/body-positivity-lizzo-selena-gomez-hollywood-auf-diaet](https://www.spiegel.de/kultur/body-positivity-lizzo-selena-gomez-hollywood-auf-diaet-a-b38b1c32-86be-45d4-a679-483eafd23c5e#ref=rss)
-### gomez
-
-* [https://www.spiegel.de/kultur/body-positivity-lizzo-selena-gomez-hollywood-auf-diaet](https://www.spiegel.de/kultur/body-positivity-lizzo-selena-gomez-hollywood-auf-diaet-a-b38b1c32-86be-45d4-a679-483eafd23c5e#ref=rss)
-### schrumpft
-
-* [https://www.spiegel.de/wissenschaft/natur/klimawandel-globales-meereis-schrumpft-auf-auf-historisches-minimum](https://www.spiegel.de/wissenschaft/natur/klimawandel-globales-meereis-schrumpft-auf-auf-historisches-minimum-a-c7b80935-0f03-45f7-9931-bd34b6a55b55#ref=rss)
-### luftqualität
-
-* [https://www.spiegel.de/wissenschaft/technik/usa-stellen-weltweite-ueberwachung-der-luftqualitaet-ein](https://www.spiegel.de/wissenschaft/technik/usa-stellen-weltweite-ueberwachung-der-luftqualitaet-ein-a-9bc7d120-21d3-4f35-9a9b-e6208ab7e23b#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-kanada-verbannt-us-whiskey-als-reaktion-auf-handelszoelle](https://www.spiegel.de/ausland/donald-trump-kanada-verbannt-us-whiskey-als-reaktion-auf-handelszoelle-a-9849aadd-7f9d-4388-810c-1ba2a370bbcd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/europaeische-zentralbank-ezb-alles-dreht-sich-um-trump-nur-sagt-es-keiner](https://www.spiegel.de/wirtschaft/europaeische-zentralbank-ezb-alles-dreht-sich-um-trump-nur-sagt-es-keiner-a-dea0aaad-f8a4-4bb1-b96a-09e1c3fed611#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-setzt-nahezu-alle-strafzoelle-gegen-mexiko-aus](https://www.spiegel.de/wirtschaft/donald-trump-setzt-nahezu-alle-strafzoelle-gegen-mexiko-aus-a-c1dfa917-a386-45a2-8852-7f89fe63dc5a#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-die-transatlantischen-beziehungen-bye-bye-america](https://www.spiegel.de/ausland/donald-trump-und-die-transatlantischen-beziehungen-bye-bye-america-a-65cbacdd-6bce-4858-8c8f-1915400a60a2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-usa-donald-trump-christian-lindner-nsu-beate-zschaepe](https://www.spiegel.de/politik/deutschland/news-des-tages-usa-donald-trump-christian-lindner-nsu-beate-zschaepe-a-266c83a5-3ac4-40d0-8c60-5ee6e96563da#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/wissenschaft/technik/usa-stellen-weltweite-ueberwachung-der-luftqualitaet-ein](https://www.spiegel.de/wissenschaft/technik/usa-stellen-weltweite-ueberwachung-der-luftqualitaet-ein-a-9bc7d120-21d3-4f35-9a9b-e6208ab7e23b#ref=rss)
-* [https://www.spiegel.de/kultur/hamburger-oper-man-muss-die-bombe-im-salon-platzieren](https://www.spiegel.de/kultur/hamburger-oper-man-muss-die-bombe-im-salon-platzieren-a-076c1044-b777-4b5c-a80d-fdd47e8e4281#ref=rss)
-### daten
+* [https://www.spiegel.de/ausland/donald-trump-kanada-verbannt-us-whiskey-als-reaktion-auf-handelszoelle](https://www.spiegel.de/ausland/donald-trump-kanada-verbannt-us-whiskey-als-reaktion-auf-handelszoelle-a-9849aadd-7f9d-4388-810c-1ba2a370bbcd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/europaeische-zentralbank-ezb-alles-dreht-sich-um-trump-nur-sagt-es-keiner](https://www.spiegel.de/wirtschaft/europaeische-zentralbank-ezb-alles-dreht-sich-um-trump-nur-sagt-es-keiner-a-dea0aaad-f8a4-4bb1-b96a-09e1c3fed611#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-setzt-nahezu-alle-strafzoelle-gegen-mexiko-aus](https://www.spiegel.de/wirtschaft/donald-trump-setzt-nahezu-alle-strafzoelle-gegen-mexiko-aus-a-c1dfa917-a386-45a2-8852-7f89fe63dc5a#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-die-transatlantischen-beziehungen-bye-bye-america](https://www.spiegel.de/ausland/donald-trump-und-die-transatlantischen-beziehungen-bye-bye-america-a-65cbacdd-6bce-4858-8c8f-1915400a60a2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-usa-donald-trump-christian-lindner-nsu-beate-zschaepe](https://www.spiegel.de/politik/deutschland/news-des-tages-usa-donald-trump-christian-lindner-nsu-beate-zschaepe-a-266c83a5-3ac4-40d0-8c60-5ee6e96563da#ref=rss)
+### merz
 
-* [https://www.spiegel.de/wissenschaft/technik/usa-stellen-weltweite-ueberwachung-der-luftqualitaet-ein](https://www.spiegel.de/wissenschaft/technik/usa-stellen-weltweite-ueberwachung-der-luftqualitaet-ein-a-9bc7d120-21d3-4f35-9a9b-e6208ab7e23b#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-frankreich-will-geheimdienstinformationen-mit-kyjiw-teilen](https://www.spiegel.de/ausland/ukraine-krieg-frankreich-will-geheimdienstinformationen-mit-kyjiw-teilen-a-ac5aef86-1f0e-4bf9-ac13-da919eadb6e8#ref=rss)
-### mehr
+* [https://www.spiegel.de/politik/deutschland/sondervermoegen-schuldenbremse-noch-abgeordnete-der-gruenen-machen-druck-auf-friedrich-merz](https://www.spiegel.de/politik/deutschland/sondervermoegen-schuldenbremse-noch-abgeordnete-der-gruenen-machen-druck-auf-friedrich-merz-a-c74a3cdd-8317-4cb8-94b8-b18e1fd7e806#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur-podcast](https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur-podcast-a-8eef2c30-bfd1-46e1-a0b7-ca0cfcc298b7#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur](https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur-a-08dba5f5-121b-4b95-8c47-4a6687411460#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/jetzt-ist-merz-doch-noch-auf-soeders-bayern-angewiesen](https://www.spiegel.de/politik/deutschland/jetzt-ist-merz-doch-noch-auf-soeders-bayern-angewiesen-a-c98f881d-b562-4d08-9c24-ccb85a0aeee6#ref=rss)
+### usa
 
-* [https://www.spiegel.de/wissenschaft/technik/usa-stellen-weltweite-ueberwachung-der-luftqualitaet-ein](https://www.spiegel.de/wissenschaft/technik/usa-stellen-weltweite-ueberwachung-der-luftqualitaet-ein-a-9bc7d120-21d3-4f35-9a9b-e6208ab7e23b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/migration-nach-deutschland-wir-muessen-mehr-moeglichkeiten-der-integration-schaffen](https://www.spiegel.de/panorama/justiz/migration-nach-deutschland-wir-muessen-mehr-moeglichkeiten-der-integration-schaffen-a-8d145de6-2440-4a03-a6f2-c3ab61fcf330#ref=rss)
-### zwölf
+* [https://www.spiegel.de/ausland/donald-trump-kanada-verbannt-us-whiskey-als-reaktion-auf-handelszoelle](https://www.spiegel.de/ausland/donald-trump-kanada-verbannt-us-whiskey-als-reaktion-auf-handelszoelle-a-9849aadd-7f9d-4388-810c-1ba2a370bbcd#ref=rss)
+* [https://www.spiegel.de/politik/deutschlandtrend-der-ard-nur-16-prozent-der-deutschen-halten-usa-noch-fuer-vertrauenswuerdigen-partner](https://www.spiegel.de/politik/deutschlandtrend-der-ard-nur-16-prozent-der-deutschen-halten-usa-noch-fuer-vertrauenswuerdigen-partner-a-1377f682-cd5f-4582-b411-7853570245e6#ref=rss)
+* [https://www.spiegel.de/psychologie/psychologe-ueber-bruch-der-usa-mit-europa-wenn-amerika-sich-abwendet-wird-das-in-ganz-vielen-bereichen-spuerbar-sein](https://www.spiegel.de/psychologie/psychologe-ueber-bruch-der-usa-mit-europa-wenn-amerika-sich-abwendet-wird-das-in-ganz-vielen-bereichen-spuerbar-sein-a-7bef3923-4665-43c4-a4a3-20ec4d0f91b0#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-die-transatlantischen-beziehungen-bye-bye-america](https://www.spiegel.de/ausland/donald-trump-und-die-transatlantischen-beziehungen-bye-bye-america-a-65cbacdd-6bce-4858-8c8f-1915400a60a2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-usa-donald-trump-christian-lindner-nsu-beate-zschaepe](https://www.spiegel.de/politik/deutschland/news-des-tages-usa-donald-trump-christian-lindner-nsu-beate-zschaepe-a-266c83a5-3ac4-40d0-8c60-5ee6e96563da#ref=rss)
+### verteidigung
 
-* [https://www.spiegel.de/netzwelt/web/hacking-for-hire-system-usa-klagen-zwoelf-mutmassliche-chinesische-hacker-an](https://www.spiegel.de/netzwelt/web/hacking-for-hire-system-usa-klagen-zwoelf-mutmassliche-chinesische-hacker-an-a-873ccbc1-eb16-4dcc-9773-344dd373a038#ref=rss)
-### mutmaßliche
+* [https://www.spiegel.de/politik/deutschland/sondervermoegen-schuldenbremse-noch-abgeordnete-der-gruenen-machen-druck-auf-friedrich-merz](https://www.spiegel.de/politik/deutschland/sondervermoegen-schuldenbremse-noch-abgeordnete-der-gruenen-machen-druck-auf-friedrich-merz-a-c74a3cdd-8317-4cb8-94b8-b18e1fd7e806#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur-podcast](https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur-podcast-a-8eef2c30-bfd1-46e1-a0b7-ca0cfcc298b7#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur](https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur-a-08dba5f5-121b-4b95-8c47-4a6687411460#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/us-geheimdienstinformationen-warum-zieldaten-fuer-raketenwerfer-fuer-die-ukraine-so-wichtig-sind](https://www.spiegel.de/wissenschaft/technik/us-geheimdienstinformationen-warum-zieldaten-fuer-raketenwerfer-fuer-die-ukraine-so-wichtig-sind-a-fe18ef39-8273-4ad6-8156-91f1f80a7b52#ref=rss)
+### friedrich
 
-* [https://www.spiegel.de/netzwelt/web/hacking-for-hire-system-usa-klagen-zwoelf-mutmassliche-chinesische-hacker-an](https://www.spiegel.de/netzwelt/web/hacking-for-hire-system-usa-klagen-zwoelf-mutmassliche-chinesische-hacker-an-a-873ccbc1-eb16-4dcc-9773-344dd373a038#ref=rss)
-### chinesische
+* [https://www.spiegel.de/politik/deutschland/sondervermoegen-schuldenbremse-noch-abgeordnete-der-gruenen-machen-druck-auf-friedrich-merz](https://www.spiegel.de/politik/deutschland/sondervermoegen-schuldenbremse-noch-abgeordnete-der-gruenen-machen-druck-auf-friedrich-merz-a-c74a3cdd-8317-4cb8-94b8-b18e1fd7e806#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur-podcast](https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur-podcast-a-8eef2c30-bfd1-46e1-a0b7-ca0cfcc298b7#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur](https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur-a-08dba5f5-121b-4b95-8c47-4a6687411460#ref=rss)
+### infrastruktur
 
-* [https://www.spiegel.de/netzwelt/web/hacking-for-hire-system-usa-klagen-zwoelf-mutmassliche-chinesische-hacker-an](https://www.spiegel.de/netzwelt/web/hacking-for-hire-system-usa-klagen-zwoelf-mutmassliche-chinesische-hacker-an-a-873ccbc1-eb16-4dcc-9773-344dd373a038#ref=rss)
-### zahlen
+* [https://www.spiegel.de/politik/deutschland/sondervermoegen-schuldenbremse-noch-abgeordnete-der-gruenen-machen-druck-auf-friedrich-merz](https://www.spiegel.de/politik/deutschland/sondervermoegen-schuldenbremse-noch-abgeordnete-der-gruenen-machen-druck-auf-friedrich-merz-a-c74a3cdd-8317-4cb8-94b8-b18e1fd7e806#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur-podcast](https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur-podcast-a-8eef2c30-bfd1-46e1-a0b7-ca0cfcc298b7#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur](https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur-a-08dba5f5-121b-4b95-8c47-4a6687411460#ref=rss)
+### schulden
 
-* [https://www.spiegel.de/wirtschaft/service/benzin-und-diesel-kartellamt-prueft-kungel-hinweise-bei-spritpreisen](https://www.spiegel.de/wirtschaft/service/benzin-und-diesel-kartellamt-prueft-kungel-hinweise-bei-spritpreisen-a-51bd077f-95f8-4c60-a4fc-e71ca8bca6f0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-erleidet-gewinneinbruch](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-erleidet-gewinneinbruch-a-0dbde545-a94d-40a4-b191-3b715455899a#ref=rss)
-### verletzt
+* [https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur-podcast](https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur-podcast-a-8eef2c30-bfd1-46e1-a0b7-ca0cfcc298b7#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur](https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur-a-08dba5f5-121b-4b95-8c47-4a6687411460#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/jetzt-ist-merz-doch-noch-auf-soeders-bayern-angewiesen](https://www.spiegel.de/politik/deutschland/jetzt-ist-merz-doch-noch-auf-soeders-bayern-angewiesen-a-c98f881d-b562-4d08-9c24-ccb85a0aeee6#ref=rss)
+* [https://www.spiegel.de/kultur/kino/michael-sheen-schauspieler-tilgt-schulden-von-900-menschen](https://www.spiegel.de/kultur/kino/michael-sheen-schauspieler-tilgt-schulden-von-900-menschen-a-a1d7330b-3d1f-43ea-aba0-d957b89f5170#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-beim-jubeln-verletzt-torhueter-manuel-neuer-faellt-mit-muskelfaserriss-aus](https://www.spiegel.de/sport/fussball/fc-bayern-beim-jubeln-verletzt-torhueter-manuel-neuer-faellt-mit-muskelfaserriss-aus-a-1ab8acae-6ba5-4880-8ce0-88dd0c3a8f67#ref=rss)
-* [https://www.spiegel.de/ausland/suedkorea-kampfpilot-wirft-versehentlich-bomben-bei-uebungsmanoever-ab](https://www.spiegel.de/ausland/suedkorea-kampfpilot-wirft-versehentlich-bomben-bei-uebungsmanoever-ab-a-62b13cbb-285d-4184-9270-f63af59dd8eb#ref=rss)
-### manuel
+* [https://www.spiegel.de/ausland/donald-trump-kanada-verbannt-us-whiskey-als-reaktion-auf-handelszoelle](https://www.spiegel.de/ausland/donald-trump-kanada-verbannt-us-whiskey-als-reaktion-auf-handelszoelle-a-9849aadd-7f9d-4388-810c-1ba2a370bbcd#ref=rss)
+* [https://www.spiegel.de/kultur/kino/michael-sheen-schauspieler-tilgt-schulden-von-900-menschen](https://www.spiegel.de/kultur/kino/michael-sheen-schauspieler-tilgt-schulden-von-900-menschen-a-a1d7330b-3d1f-43ea-aba0-d957b89f5170#ref=rss)
+* [https://www.spiegel.de/kultur/kino/misericordia-film-kritik-wir-sehnen-uns-so-sehr-nach-liebe](https://www.spiegel.de/kultur/kino/misericordia-film-kritik-wir-sehnen-uns-so-sehr-nach-liebe-a-2f58f37e-ecc5-4e40-9f9d-36ef424254e7#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-beim-jubeln-verletzt-torhueter-manuel-neuer-faellt-mit-muskelfaserriss-aus](https://www.spiegel.de/sport/fussball/fc-bayern-beim-jubeln-verletzt-torhueter-manuel-neuer-faellt-mit-muskelfaserriss-aus-a-1ab8acae-6ba5-4880-8ce0-88dd0c3a8f67#ref=rss)
-### hamburgharburg
+* [https://www.spiegel.de/politik/deutschlandtrend-der-ard-nur-16-prozent-der-deutschen-halten-usa-noch-fuer-vertrauenswuerdigen-partner](https://www.spiegel.de/politik/deutschlandtrend-der-ard-nur-16-prozent-der-deutschen-halten-usa-noch-fuer-vertrauenswuerdigen-partner-a-1377f682-cd5f-4582-b411-7853570245e6#ref=rss)
+* [https://www.spiegel.de/psychologie/psychologe-ueber-bruch-der-usa-mit-europa-wenn-amerika-sich-abwendet-wird-das-in-ganz-vielen-bereichen-spuerbar-sein](https://www.spiegel.de/psychologie/psychologe-ueber-bruch-der-usa-mit-europa-wenn-amerika-sich-abwendet-wird-das-in-ganz-vielen-bereichen-spuerbar-sein-a-7bef3923-4665-43c4-a4a3-20ec4d0f91b0#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/us-geheimdienstinformationen-warum-zieldaten-fuer-raketenwerfer-fuer-die-ukraine-so-wichtig-sind](https://www.spiegel.de/wissenschaft/technik/us-geheimdienstinformationen-warum-zieldaten-fuer-raketenwerfer-fuer-die-ukraine-so-wichtig-sind-a-fe18ef39-8273-4ad6-8156-91f1f80a7b52#ref=rss)
+* [https://www.spiegel.de/politik/sanktionen-iran-will-eingefrorenes-milliarden-vermoegen-abziehen](https://www.spiegel.de/politik/sanktionen-iran-will-eingefrorenes-milliarden-vermoegen-abziehen-a-2dfda0b1-b620-4629-ab29-6c09bd28fa7e#ref=rss)
+### spd
 
-* [https://www.spiegel.de/panorama/bahnhof-hamburg-harburg-betrunkener-mit-4-69-promille-von-gleis-gerettet](https://www.spiegel.de/panorama/bahnhof-hamburg-harburg-betrunkener-mit-4-69-promille-von-gleis-gerettet-a-469a9e3e-0b83-485d-bda9-c04f59683a85#ref=rss)
-### grimmepreis
+* [https://www.spiegel.de/politik/deutschland/buergerschaftswahlen-hamburg-spd-und-gruene-nehmen-sondierungsgespraeche-auf](https://www.spiegel.de/politik/deutschland/buergerschaftswahlen-hamburg-spd-und-gruene-nehmen-sondierungsgespraeche-auf-a-cb538c5e-bcb8-4da7-898d-753903adbfaa#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur-podcast](https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur-podcast-a-8eef2c30-bfd1-46e1-a0b7-ca0cfcc298b7#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur](https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur-a-08dba5f5-121b-4b95-8c47-4a6687411460#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/jetzt-ist-merz-doch-noch-auf-soeders-bayern-angewiesen](https://www.spiegel.de/politik/deutschland/jetzt-ist-merz-doch-noch-auf-soeders-bayern-angewiesen-a-c98f881d-b562-4d08-9c24-ccb85a0aeee6#ref=rss)
+### mexiko
 
-* [https://www.spiegel.de/kultur/tv/grimme-preis-2025-herrhausen-und-die-zweiflers-ausgezeichnet](https://www.spiegel.de/kultur/tv/grimme-preis-2025-herrhausen-und-die-zweiflers-ausgezeichnet-a-02daf6ba-b3ff-4a81-b277-85d575daa1c8#ref=rss)
-### lady
+* [https://www.spiegel.de/wirtschaft/donald-trump-setzt-nahezu-alle-strafzoelle-gegen-mexiko-aus](https://www.spiegel.de/wirtschaft/donald-trump-setzt-nahezu-alle-strafzoelle-gegen-mexiko-aus-a-c1dfa917-a386-45a2-8852-7f89fe63dc5a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/mexiko-lizbeth-ovalle-trifft-in-shrimp-manier-traumtor-sorgt-fuer-rufe-nach-marta-award-der-fifa](https://www.spiegel.de/sport/fussball/mexiko-lizbeth-ovalle-trifft-in-shrimp-manier-traumtor-sorgt-fuer-rufe-nach-marta-award-der-fifa-a-9267ac93-2148-45e8-85f9-411fb13700ff#ref=rss)
+### russland
 
-* [https://www.spiegel.de/panorama/leute/lady-gaga-laesst-sich-von-ihrem-verlobten-inspirieren](https://www.spiegel.de/panorama/leute/lady-gaga-laesst-sich-von-ihrem-verlobten-inspirieren-a-0addb748-3b6e-43f6-b714-246c0f97ff9e#ref=rss)
-### gaga
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-begruesst-marco-rubios-formulierung-vom-stellvertreterkrieg](https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-begruesst-marco-rubios-formulierung-vom-stellvertreterkrieg-a-418db733-5aaa-4ed2-bbb1-28085eec2b5c#ref=rss)
+* [https://www.spiegel.de/politik/die-putin-freunde-von-der-afd-natuerlich-ist-russland-keine-diktatur-spiegel-tv](https://www.spiegel.de/politik/die-putin-freunde-von-der-afd-natuerlich-ist-russland-keine-diktatur-spiegel-tv-a-fba642ce-067d-42a1-ac05-f8cdd07e1b19#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/nordkorea-satellitenfoto-zeigt-kim-jong-uns-fruehwarn-flugzeug](https://www.spiegel.de/wissenschaft/technik/nordkorea-satellitenfoto-zeigt-kim-jong-uns-fruehwarn-flugzeug-a-ea2cf059-6067-4de0-a164-95fdbc0a8d28#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/us-geheimdienstinformationen-warum-zieldaten-fuer-raketenwerfer-fuer-die-ukraine-so-wichtig-sind](https://www.spiegel.de/wissenschaft/technik/us-geheimdienstinformationen-warum-zieldaten-fuer-raketenwerfer-fuer-die-ukraine-so-wichtig-sind-a-fe18ef39-8273-4ad6-8156-91f1f80a7b52#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/panorama/leute/lady-gaga-laesst-sich-von-ihrem-verlobten-inspirieren](https://www.spiegel.de/panorama/leute/lady-gaga-laesst-sich-von-ihrem-verlobten-inspirieren-a-0addb748-3b6e-43f6-b714-246c0f97ff9e#ref=rss)
-### neues
+* [https://www.spiegel.de/kultur/kino/michael-sheen-schauspieler-tilgt-schulden-von-900-menschen](https://www.spiegel.de/kultur/kino/michael-sheen-schauspieler-tilgt-schulden-von-900-menschen-a-a1d7330b-3d1f-43ea-aba0-d957b89f5170#ref=rss)
+* [https://www.spiegel.de/politik/die-putin-freunde-von-der-afd-natuerlich-ist-russland-keine-diktatur-spiegel-tv](https://www.spiegel.de/politik/die-putin-freunde-von-der-afd-natuerlich-ist-russland-keine-diktatur-spiegel-tv-a-fba642ce-067d-42a1-ac05-f8cdd07e1b19#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-usa-donald-trump-christian-lindner-nsu-beate-zschaepe](https://www.spiegel.de/politik/deutschland/news-des-tages-usa-donald-trump-christian-lindner-nsu-beate-zschaepe-a-266c83a5-3ac4-40d0-8c60-5ee6e96563da#ref=rss)
+* [https://www.spiegel.de/kultur/kino/misericordia-film-kritik-wir-sehnen-uns-so-sehr-nach-liebe](https://www.spiegel.de/kultur/kino/misericordia-film-kritik-wir-sehnen-uns-so-sehr-nach-liebe-a-2f58f37e-ecc5-4e40-9f9d-36ef424254e7#ref=rss)
+### beate
 
-* [https://www.spiegel.de/panorama/leute/lady-gaga-laesst-sich-von-ihrem-verlobten-inspirieren](https://www.spiegel.de/panorama/leute/lady-gaga-laesst-sich-von-ihrem-verlobten-inspirieren-a-0addb748-3b6e-43f6-b714-246c0f97ff9e#ref=rss)
-* [https://www.spiegel.de/kultur/hamburger-oper-man-muss-die-bombe-im-salon-platzieren](https://www.spiegel.de/kultur/hamburger-oper-man-muss-die-bombe-im-salon-platzieren-a-076c1044-b777-4b5c-a80d-fdd47e8e4281#ref=rss)
-### lied
+* [https://www.spiegel.de/panorama/justiz/beate-zschaepe-was-die-nsu-terroristin-ueber-14-jahre-im-untergrund-erzaehlt](https://www.spiegel.de/panorama/justiz/beate-zschaepe-was-die-nsu-terroristin-ueber-14-jahre-im-untergrund-erzaehlt-a-baf2de70-54bb-402b-bf8a-7200c3ed660b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-usa-donald-trump-christian-lindner-nsu-beate-zschaepe](https://www.spiegel.de/politik/deutschland/news-des-tages-usa-donald-trump-christian-lindner-nsu-beate-zschaepe-a-266c83a5-3ac4-40d0-8c60-5ee6e96563da#ref=rss)
+### zschäpe
 
-* [https://www.spiegel.de/panorama/leute/lady-gaga-laesst-sich-von-ihrem-verlobten-inspirieren](https://www.spiegel.de/panorama/leute/lady-gaga-laesst-sich-von-ihrem-verlobten-inspirieren-a-0addb748-3b6e-43f6-b714-246c0f97ff9e#ref=rss)
-* [https://www.spiegel.de/ausland/iran-regimekritischer-saenger-mehdi-yarrahi-nach-lied-ueber-kopftuchpflicht-ausgepeitscht](https://www.spiegel.de/ausland/iran-regimekritischer-saenger-mehdi-yarrahi-nach-lied-ueber-kopftuchpflicht-ausgepeitscht-a-9641c706-e62b-4264-848f-d72f4d044fc0#ref=rss)
-### vier
+* [https://www.spiegel.de/panorama/justiz/beate-zschaepe-was-die-nsu-terroristin-ueber-14-jahre-im-untergrund-erzaehlt](https://www.spiegel.de/panorama/justiz/beate-zschaepe-was-die-nsu-terroristin-ueber-14-jahre-im-untergrund-erzaehlt-a-baf2de70-54bb-402b-bf8a-7200c3ed660b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-usa-donald-trump-christian-lindner-nsu-beate-zschaepe](https://www.spiegel.de/politik/deutschland/news-des-tages-usa-donald-trump-christian-lindner-nsu-beate-zschaepe-a-266c83a5-3ac4-40d0-8c60-5ee6e96563da#ref=rss)
+### nsu
 
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-vier-tote-nach-russischem-raketentreffer-auf-ukrainisches-hotel](https://www.spiegel.de/ausland/russland-ukraine-krieg-vier-tote-nach-russischem-raketentreffer-auf-ukrainisches-hotel-a-2521447b-5e3f-4bed-9a50-4d881004a2a7#ref=rss)
-### hotel
+* [https://www.spiegel.de/panorama/justiz/beate-zschaepe-was-die-nsu-terroristin-ueber-14-jahre-im-untergrund-erzaehlt](https://www.spiegel.de/panorama/justiz/beate-zschaepe-was-die-nsu-terroristin-ueber-14-jahre-im-untergrund-erzaehlt-a-baf2de70-54bb-402b-bf8a-7200c3ed660b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-usa-donald-trump-christian-lindner-nsu-beate-zschaepe](https://www.spiegel.de/politik/deutschland/news-des-tages-usa-donald-trump-christian-lindner-nsu-beate-zschaepe-a-266c83a5-3ac4-40d0-8c60-5ee6e96563da#ref=rss)
+### kanada
 
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-vier-tote-nach-russischem-raketentreffer-auf-ukrainisches-hotel](https://www.spiegel.de/ausland/russland-ukraine-krieg-vier-tote-nach-russischem-raketentreffer-auf-ukrainisches-hotel-a-2521447b-5e3f-4bed-9a50-4d881004a2a7#ref=rss)
-### ukraine
+* [https://www.spiegel.de/ausland/donald-trump-kanada-verbannt-us-whiskey-als-reaktion-auf-handelszoelle](https://www.spiegel.de/ausland/donald-trump-kanada-verbannt-us-whiskey-als-reaktion-auf-handelszoelle-a-9849aadd-7f9d-4388-810c-1ba2a370bbcd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-setzt-nahezu-alle-strafzoelle-gegen-mexiko-aus](https://www.spiegel.de/wirtschaft/donald-trump-setzt-nahezu-alle-strafzoelle-gegen-mexiko-aus-a-c1dfa917-a386-45a2-8852-7f89fe63dc5a#ref=rss)
+### grünen
 
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-vier-tote-nach-russischem-raketentreffer-auf-ukrainisches-hotel](https://www.spiegel.de/ausland/russland-ukraine-krieg-vier-tote-nach-russischem-raketentreffer-auf-ukrainisches-hotel-a-2521447b-5e3f-4bed-9a50-4d881004a2a7#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-frankreich-will-geheimdienstinformationen-mit-kyjiw-teilen](https://www.spiegel.de/ausland/ukraine-krieg-frankreich-will-geheimdienstinformationen-mit-kyjiw-teilen-a-ac5aef86-1f0e-4bf9-ac13-da919eadb6e8#ref=rss)
-### 30sieg
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-kompanys-3-0-sieg-gegen-bleverkusen-mit-symbolkraft](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-kompanys-3-0-sieg-gegen-bleverkusen-mit-symbolkraft-a-fb7d4cf4-529d-49f4-966f-31d387f55556#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-trotz-3-0-sieg-gegen-leverkusen-unruhe-im-klub](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-trotz-3-0-sieg-gegen-leverkusen-unruhe-im-klub-a-57633df1-8957-465e-980c-bceffb9b94d0#ref=rss)
-### symbolkraft
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-kompanys-3-0-sieg-gegen-bleverkusen-mit-symbolkraft](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-kompanys-3-0-sieg-gegen-bleverkusen-mit-symbolkraft-a-fb7d4cf4-529d-49f4-966f-31d387f55556#ref=rss)
-### daran
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-kompanys-3-0-sieg-gegen-bleverkusen-mit-symbolkraft](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-kompanys-3-0-sieg-gegen-bleverkusen-mit-symbolkraft-a-fb7d4cf4-529d-49f4-966f-31d387f55556#ref=rss)
-* [https://www.spiegel.de/wirtschaft/infrastrukturluecke-bund-laendern-und-kommunen-fehlt-knapp-eine-billion-euro](https://www.spiegel.de/wirtschaft/infrastrukturluecke-bund-laendern-und-kommunen-fehlt-knapp-eine-billion-euro-a-11c08a3d-744d-44d3-8307-f1a6b061ec16#ref=rss)
-### berufseinstieg
-
-* [https://www.spiegel.de/start/berufseinstieg-als-sachbearbeiterin-seefracht-man-muss-fuer-diesen-job-sicher-in-geografie-sein](https://www.spiegel.de/start/berufseinstieg-als-sachbearbeiterin-seefracht-man-muss-fuer-diesen-job-sicher-in-geografie-sein-a-e5163a18-ac9e-4e3a-ab72-bb6286706989#ref=rss)
-* [https://www.spiegel.de/start/startklar-newsletter-hat-sich-der-wind-am-arbeitsmarkt-gedreht](https://www.spiegel.de/start/startklar-newsletter-hat-sich-der-wind-am-arbeitsmarkt-gedreht-a-b83bd8c2-ded0-44f7-93ab-dc71ac448704#ref=rss)
-### kommunen
-
-* [https://www.spiegel.de/wirtschaft/infrastrukturluecke-bund-laendern-und-kommunen-fehlt-knapp-eine-billion-euro](https://www.spiegel.de/wirtschaft/infrastrukturluecke-bund-laendern-und-kommunen-fehlt-knapp-eine-billion-euro-a-11c08a3d-744d-44d3-8307-f1a6b061ec16#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wirtschaft/infrastrukturluecke-bund-laendern-und-kommunen-fehlt-knapp-eine-billion-euro](https://www.spiegel.de/wirtschaft/infrastrukturluecke-bund-laendern-und-kommunen-fehlt-knapp-eine-billion-euro-a-11c08a3d-744d-44d3-8307-f1a6b061ec16#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/migration-nach-deutschland-wir-muessen-mehr-moeglichkeiten-der-integration-schaffen](https://www.spiegel.de/panorama/justiz/migration-nach-deutschland-wir-muessen-mehr-moeglichkeiten-der-integration-schaffen-a-8d145de6-2440-4a03-a6f2-c3ab61fcf330#ref=rss)
-### neue
-
-* [https://www.spiegel.de/wirtschaft/infrastrukturluecke-bund-laendern-und-kommunen-fehlt-knapp-eine-billion-euro](https://www.spiegel.de/wirtschaft/infrastrukturluecke-bund-laendern-und-kommunen-fehlt-knapp-eine-billion-euro-a-11c08a3d-744d-44d3-8307-f1a6b061ec16#ref=rss)
-* [https://www.spiegel.de/start/hochschulen-geschlechterunterschiede-bei-studiengaengen-was-frauen-und-maenner-studieren](https://www.spiegel.de/start/hochschulen-geschlechterunterschiede-bei-studiengaengen-was-frauen-und-maenner-studieren-a-e85dd162-1f1a-48f2-a9f8-03b00cf8b138#ref=rss)
-### analyse
-
-* [https://www.spiegel.de/wirtschaft/infrastrukturluecke-bund-laendern-und-kommunen-fehlt-knapp-eine-billion-euro](https://www.spiegel.de/wirtschaft/infrastrukturluecke-bund-laendern-und-kommunen-fehlt-knapp-eine-billion-euro-a-11c08a3d-744d-44d3-8307-f1a6b061ec16#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/superreiche-sind-meist-maennlich](https://www.spiegel.de/wirtschaft/unternehmen/superreiche-sind-meist-maennlich-a-7a584483-ec52-4341-a38c-48f9acd870a8#ref=rss)
-### herrscht
-
-* [https://www.spiegel.de/wirtschaft/infrastrukturluecke-bund-laendern-und-kommunen-fehlt-knapp-eine-billion-euro](https://www.spiegel.de/wirtschaft/infrastrukturluecke-bund-laendern-und-kommunen-fehlt-knapp-eine-billion-euro-a-11c08a3d-744d-44d3-8307-f1a6b061ec16#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-trotz-3-0-sieg-gegen-leverkusen-unruhe-im-klub](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-trotz-3-0-sieg-gegen-leverkusen-unruhe-im-klub-a-57633df1-8957-465e-980c-bceffb9b94d0#ref=rss)
-### konzert
-
-* [https://www.spiegel.de/kultur/musik/pitbull-warum-grade-jeder-der-nicht-beim-konzert-ist-fomo-hat](https://www.spiegel.de/kultur/musik/pitbull-warum-grade-jeder-der-nicht-beim-konzert-ist-fomo-hat-a-131b9f1c-f82c-4d50-9863-cba747cbd414#ref=rss)
-### sehen
-
-* [https://www.spiegel.de/kultur/musik/pitbull-warum-grade-jeder-der-nicht-beim-konzert-ist-fomo-hat](https://www.spiegel.de/kultur/musik/pitbull-warum-grade-jeder-der-nicht-beim-konzert-ist-fomo-hat-a-131b9f1c-f82c-4d50-9863-cba747cbd414#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/superreiche-sind-meist-maennlich](https://www.spiegel.de/wirtschaft/unternehmen/superreiche-sind-meist-maennlich-a-7a584483-ec52-4341-a38c-48f9acd870a8#ref=rss)
-### frankreich
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-frankreich-will-geheimdienstinformationen-mit-kyjiw-teilen](https://www.spiegel.de/ausland/ukraine-krieg-frankreich-will-geheimdienstinformationen-mit-kyjiw-teilen-a-ac5aef86-1f0e-4bf9-ac13-da919eadb6e8#ref=rss)
-### geheimdienstinformationen
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-frankreich-will-geheimdienstinformationen-mit-kyjiw-teilen](https://www.spiegel.de/ausland/ukraine-krieg-frankreich-will-geheimdienstinformationen-mit-kyjiw-teilen-a-ac5aef86-1f0e-4bf9-ac13-da919eadb6e8#ref=rss)
-### kyjiw
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-frankreich-will-geheimdienstinformationen-mit-kyjiw-teilen](https://www.spiegel.de/ausland/ukraine-krieg-frankreich-will-geheimdienstinformationen-mit-kyjiw-teilen-a-ac5aef86-1f0e-4bf9-ac13-da919eadb6e8#ref=rss)
-* [https://www.spiegel.de/ausland/trump-vertraute-sollen-mit-politischen-gegnern-von-selenskyj-gesprochen-haben](https://www.spiegel.de/ausland/trump-vertraute-sollen-mit-politischen-gegnern-von-selenskyj-gesprochen-haben-a-94585c7c-51ea-422d-9c08-df593c982fa4#ref=rss)
-### ukrainischen
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-frankreich-will-geheimdienstinformationen-mit-kyjiw-teilen](https://www.spiegel.de/ausland/ukraine-krieg-frankreich-will-geheimdienstinformationen-mit-kyjiw-teilen-a-ac5aef86-1f0e-4bf9-ac13-da919eadb6e8#ref=rss)
-* [https://www.spiegel.de/ausland/trump-vertraute-sollen-mit-politischen-gegnern-von-selenskyj-gesprochen-haben](https://www.spiegel.de/ausland/trump-vertraute-sollen-mit-politischen-gegnern-von-selenskyj-gesprochen-haben-a-94585c7c-51ea-422d-9c08-df593c982fa4#ref=rss)
-### schaffen
-
-* [https://www.spiegel.de/panorama/justiz/migration-nach-deutschland-wir-muessen-mehr-moeglichkeiten-der-integration-schaffen](https://www.spiegel.de/panorama/justiz/migration-nach-deutschland-wir-muessen-mehr-moeglichkeiten-der-integration-schaffen-a-8d145de6-2440-4a03-a6f2-c3ab61fcf330#ref=rss)
-### iran
-
-* [https://www.spiegel.de/ausland/iran-regimekritischer-saenger-mehdi-yarrahi-nach-lied-ueber-kopftuchpflicht-ausgepeitscht](https://www.spiegel.de/ausland/iran-regimekritischer-saenger-mehdi-yarrahi-nach-lied-ueber-kopftuchpflicht-ausgepeitscht-a-9641c706-e62b-4264-848f-d72f4d044fc0#ref=rss)
-### mehdi
-
-* [https://www.spiegel.de/ausland/iran-regimekritischer-saenger-mehdi-yarrahi-nach-lied-ueber-kopftuchpflicht-ausgepeitscht](https://www.spiegel.de/ausland/iran-regimekritischer-saenger-mehdi-yarrahi-nach-lied-ueber-kopftuchpflicht-ausgepeitscht-a-9641c706-e62b-4264-848f-d72f4d044fc0#ref=rss)
-### yarrahi
-
-* [https://www.spiegel.de/ausland/iran-regimekritischer-saenger-mehdi-yarrahi-nach-lied-ueber-kopftuchpflicht-ausgepeitscht](https://www.spiegel.de/ausland/iran-regimekritischer-saenger-mehdi-yarrahi-nach-lied-ueber-kopftuchpflicht-ausgepeitscht-a-9641c706-e62b-4264-848f-d72f4d044fc0#ref=rss)
-### kopftuchpflicht
-
-* [https://www.spiegel.de/ausland/iran-regimekritischer-saenger-mehdi-yarrahi-nach-lied-ueber-kopftuchpflicht-ausgepeitscht](https://www.spiegel.de/ausland/iran-regimekritischer-saenger-mehdi-yarrahi-nach-lied-ueber-kopftuchpflicht-ausgepeitscht-a-9641c706-e62b-4264-848f-d72f4d044fc0#ref=rss)
-### roy
-
-* [https://www.spiegel.de/kultur/musik/roy-ayers-everybody-loves-the-sunshine-saenger-ist-tot](https://www.spiegel.de/kultur/musik/roy-ayers-everybody-loves-the-sunshine-saenger-ist-tot-a-0b3ea5af-88aa-4203-803c-98cf9e3f380b#ref=rss)
-### ayers
-
-* [https://www.spiegel.de/kultur/musik/roy-ayers-everybody-loves-the-sunshine-saenger-ist-tot](https://www.spiegel.de/kultur/musik/roy-ayers-everybody-loves-the-sunshine-saenger-ist-tot-a-0b3ea5af-88aa-4203-803c-98cf9e3f380b#ref=rss)
-### everybody
-
-* [https://www.spiegel.de/kultur/musik/roy-ayers-everybody-loves-the-sunshine-saenger-ist-tot](https://www.spiegel.de/kultur/musik/roy-ayers-everybody-loves-the-sunshine-saenger-ist-tot-a-0b3ea5af-88aa-4203-803c-98cf9e3f380b#ref=rss)
-### loves
-
-* [https://www.spiegel.de/kultur/musik/roy-ayers-everybody-loves-the-sunshine-saenger-ist-tot](https://www.spiegel.de/kultur/musik/roy-ayers-everybody-loves-the-sunshine-saenger-ist-tot-a-0b3ea5af-88aa-4203-803c-98cf9e3f380b#ref=rss)
-### the
-
-* [https://www.spiegel.de/kultur/musik/roy-ayers-everybody-loves-the-sunshine-saenger-ist-tot](https://www.spiegel.de/kultur/musik/roy-ayers-everybody-loves-the-sunshine-saenger-ist-tot-a-0b3ea5af-88aa-4203-803c-98cf9e3f380b#ref=rss)
-### bomben
-
-* [https://www.spiegel.de/ausland/suedkorea-kampfpilot-wirft-versehentlich-bomben-bei-uebungsmanoever-ab](https://www.spiegel.de/ausland/suedkorea-kampfpilot-wirft-versehentlich-bomben-bei-uebungsmanoever-ab-a-62b13cbb-285d-4184-9270-f63af59dd8eb#ref=rss)
-### vergangenheit
-
-* [https://www.spiegel.de/ausland/suedkorea-kampfpilot-wirft-versehentlich-bomben-bei-uebungsmanoever-ab](https://www.spiegel.de/ausland/suedkorea-kampfpilot-wirft-versehentlich-bomben-bei-uebungsmanoever-ab-a-62b13cbb-285d-4184-9270-f63af59dd8eb#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mannheim-autoattacke-mit-zwei-toten-was-trieb-den-mutmasslichen-amokfahrer-an](https://www.spiegel.de/panorama/justiz/mannheim-autoattacke-mit-zwei-toten-was-trieb-den-mutmasslichen-amokfahrer-an-a-c70670e0-4c86-4a31-8d78-27b46096b52a#ref=rss)
-### hochschulen
-
-* [https://www.spiegel.de/start/hochschulen-geschlechterunterschiede-bei-studiengaengen-was-frauen-und-maenner-studieren](https://www.spiegel.de/start/hochschulen-geschlechterunterschiede-bei-studiengaengen-was-frauen-und-maenner-studieren-a-e85dd162-1f1a-48f2-a9f8-03b00cf8b138#ref=rss)
-### männer
-
-* [https://www.spiegel.de/start/hochschulen-geschlechterunterschiede-bei-studiengaengen-was-frauen-und-maenner-studieren](https://www.spiegel.de/start/hochschulen-geschlechterunterschiede-bei-studiengaengen-was-frauen-und-maenner-studieren-a-e85dd162-1f1a-48f2-a9f8-03b00cf8b138#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/superreiche-sind-meist-maennlich](https://www.spiegel.de/wirtschaft/unternehmen/superreiche-sind-meist-maennlich-a-7a584483-ec52-4341-a38c-48f9acd870a8#ref=rss)
-### studieren
-
-* [https://www.spiegel.de/start/hochschulen-geschlechterunterschiede-bei-studiengaengen-was-frauen-und-maenner-studieren](https://www.spiegel.de/start/hochschulen-geschlechterunterschiede-bei-studiengaengen-was-frauen-und-maenner-studieren-a-e85dd162-1f1a-48f2-a9f8-03b00cf8b138#ref=rss)
-* [https://www.spiegel.de/start/startklar-newsletter-hat-sich-der-wind-am-arbeitsmarkt-gedreht](https://www.spiegel.de/start/startklar-newsletter-hat-sich-der-wind-am-arbeitsmarkt-gedreht-a-b83bd8c2-ded0-44f7-93ab-dc71ac448704#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sondervermoegen-schuldenbremse-noch-abgeordnete-der-gruenen-machen-druck-auf-friedrich-merz](https://www.spiegel.de/politik/deutschland/sondervermoegen-schuldenbremse-noch-abgeordnete-der-gruenen-machen-druck-auf-friedrich-merz-a-c74a3cdd-8317-4cb8-94b8-b18e1fd7e806#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/buergerschaftswahlen-hamburg-spd-und-gruene-nehmen-sondierungsgespraeche-auf](https://www.spiegel.de/politik/deutschland/buergerschaftswahlen-hamburg-spd-und-gruene-nehmen-sondierungsgespraeche-auf-a-cb538c5e-bcb8-4da7-898d-753903adbfaa#ref=rss)
 ### deutschen
 
-* [https://www.spiegel.de/start/hochschulen-geschlechterunterschiede-bei-studiengaengen-was-frauen-und-maenner-studieren](https://www.spiegel.de/start/hochschulen-geschlechterunterschiede-bei-studiengaengen-was-frauen-und-maenner-studieren-a-e85dd162-1f1a-48f2-a9f8-03b00cf8b138#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-trotz-3-0-sieg-gegen-leverkusen-unruhe-im-klub](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-trotz-3-0-sieg-gegen-leverkusen-unruhe-im-klub-a-57633df1-8957-465e-980c-bceffb9b94d0#ref=rss)
-### männlich
+* [https://www.spiegel.de/politik/deutschlandtrend-der-ard-nur-16-prozent-der-deutschen-halten-usa-noch-fuer-vertrauenswuerdigen-partner](https://www.spiegel.de/politik/deutschlandtrend-der-ard-nur-16-prozent-der-deutschen-halten-usa-noch-fuer-vertrauenswuerdigen-partner-a-1377f682-cd5f-4582-b411-7853570245e6#ref=rss)
+* [https://www.spiegel.de/psychologie/psychologe-ueber-bruch-der-usa-mit-europa-wenn-amerika-sich-abwendet-wird-das-in-ganz-vielen-bereichen-spuerbar-sein](https://www.spiegel.de/psychologie/psychologe-ueber-bruch-der-usa-mit-europa-wenn-amerika-sich-abwendet-wird-das-in-ganz-vielen-bereichen-spuerbar-sein-a-7bef3923-4665-43c4-a4a3-20ec4d0f91b0#ref=rss)
+* [https://www.spiegel.de/politik/sanktionen-iran-will-eingefrorenes-milliarden-vermoegen-abziehen](https://www.spiegel.de/politik/sanktionen-iran-will-eingefrorenes-milliarden-vermoegen-abziehen-a-2dfda0b1-b620-4629-ab29-6c09bd28fa7e#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/start/hochschulen-geschlechterunterschiede-bei-studiengaengen-was-frauen-und-maenner-studieren](https://www.spiegel.de/start/hochschulen-geschlechterunterschiede-bei-studiengaengen-was-frauen-und-maenner-studieren-a-e85dd162-1f1a-48f2-a9f8-03b00cf8b138#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/superreiche-sind-meist-maennlich](https://www.spiegel.de/wirtschaft/unternehmen/superreiche-sind-meist-maennlich-a-7a584483-ec52-4341-a38c-48f9acd870a8#ref=rss)
-### zeigt
+* [https://www.spiegel.de/politik/deutschlandtrend-der-ard-nur-16-prozent-der-deutschen-halten-usa-noch-fuer-vertrauenswuerdigen-partner](https://www.spiegel.de/politik/deutschlandtrend-der-ard-nur-16-prozent-der-deutschen-halten-usa-noch-fuer-vertrauenswuerdigen-partner-a-1377f682-cd5f-4582-b411-7853570245e6#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/deutschland-lithiumreserven-koennten-den-heimischen-bedarf-decken](https://www.spiegel.de/wissenschaft/natur/deutschland-lithiumreserven-koennten-den-heimischen-bedarf-decken-a-e3629788-f5c3-419d-9b99-e748e5aea8b0#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/start/hochschulen-geschlechterunterschiede-bei-studiengaengen-was-frauen-und-maenner-studieren](https://www.spiegel.de/start/hochschulen-geschlechterunterschiede-bei-studiengaengen-was-frauen-und-maenner-studieren-a-e85dd162-1f1a-48f2-a9f8-03b00cf8b138#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/superreiche-sind-meist-maennlich](https://www.spiegel.de/wirtschaft/unternehmen/superreiche-sind-meist-maennlich-a-7a584483-ec52-4341-a38c-48f9acd870a8#ref=rss)
-### trieb
+* [https://www.spiegel.de/politik/deutschlandtrend-der-ard-nur-16-prozent-der-deutschen-halten-usa-noch-fuer-vertrauenswuerdigen-partner](https://www.spiegel.de/politik/deutschlandtrend-der-ard-nur-16-prozent-der-deutschen-halten-usa-noch-fuer-vertrauenswuerdigen-partner-a-1377f682-cd5f-4582-b411-7853570245e6#ref=rss)
+* [https://www.spiegel.de/psychologie/psychologe-ueber-bruch-der-usa-mit-europa-wenn-amerika-sich-abwendet-wird-das-in-ganz-vielen-bereichen-spuerbar-sein](https://www.spiegel.de/psychologie/psychologe-ueber-bruch-der-usa-mit-europa-wenn-amerika-sich-abwendet-wird-das-in-ganz-vielen-bereichen-spuerbar-sein-a-7bef3923-4665-43c4-a4a3-20ec4d0f91b0#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/deutschland-lithiumreserven-koennten-den-heimischen-bedarf-decken](https://www.spiegel.de/wissenschaft/natur/deutschland-lithiumreserven-koennten-den-heimischen-bedarf-decken-a-e3629788-f5c3-419d-9b99-e748e5aea8b0#ref=rss)
+### union
 
-* [https://www.spiegel.de/panorama/justiz/mannheim-autoattacke-mit-zwei-toten-was-trieb-den-mutmasslichen-amokfahrer-an](https://www.spiegel.de/panorama/justiz/mannheim-autoattacke-mit-zwei-toten-was-trieb-den-mutmasslichen-amokfahrer-an-a-c70670e0-4c86-4a31-8d78-27b46096b52a#ref=rss)
-### haus
+* [https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur-podcast](https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur-podcast-a-8eef2c30-bfd1-46e1-a0b7-ca0cfcc298b7#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur](https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur-a-08dba5f5-121b-4b95-8c47-4a6687411460#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/jetzt-ist-merz-doch-noch-auf-soeders-bayern-angewiesen](https://www.spiegel.de/politik/deutschland/jetzt-ist-merz-doch-noch-auf-soeders-bayern-angewiesen-a-c98f881d-b562-4d08-9c24-ccb85a0aeee6#ref=rss)
+### christian
 
-* [https://www.spiegel.de/kultur/hamburger-oper-man-muss-die-bombe-im-salon-platzieren](https://www.spiegel.de/kultur/hamburger-oper-man-muss-die-bombe-im-salon-platzieren-a-076c1044-b777-4b5c-a80d-fdd47e8e4281#ref=rss)
-* [https://www.spiegel.de/ausland/trump-vertraute-sollen-mit-politischen-gegnern-von-selenskyj-gesprochen-haben](https://www.spiegel.de/ausland/trump-vertraute-sollen-mit-politischen-gegnern-von-selenskyj-gesprochen-haben-a-94585c7c-51ea-422d-9c08-df593c982fa4#ref=rss)
-### selenskyj
+* [https://www.spiegel.de/sport/fussball/kaiserslautern-kenner-christian-baron-es-gibt-in-der-stadt-keine-institution-die-so-viel-integrationskraft-entwickeln-kann-wie-der-fck](https://www.spiegel.de/sport/fussball/kaiserslautern-kenner-christian-baron-es-gibt-in-der-stadt-keine-institution-die-so-viel-integrationskraft-entwickeln-kann-wie-der-fck-a-aea1b7fc-8ec8-4bfc-bfc8-79b21a0d9f95#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-usa-donald-trump-christian-lindner-nsu-beate-zschaepe](https://www.spiegel.de/politik/deutschland/news-des-tages-usa-donald-trump-christian-lindner-nsu-beate-zschaepe-a-266c83a5-3ac4-40d0-8c60-5ee6e96563da#ref=rss)
+### tochter
 
-* [https://www.spiegel.de/ausland/trump-vertraute-sollen-mit-politischen-gegnern-von-selenskyj-gesprochen-haben](https://www.spiegel.de/ausland/trump-vertraute-sollen-mit-politischen-gegnern-von-selenskyj-gesprochen-haben-a-94585c7c-51ea-422d-9c08-df593c982fa4#ref=rss)
-### lufthansa
+* [https://www.spiegel.de/panorama/justiz/tochter-von-gisele-pelicot-verklagt-ihren-vater-wegen-vergewaltigung](https://www.spiegel.de/panorama/justiz/tochter-von-gisele-pelicot-verklagt-ihren-vater-wegen-vergewaltigung-a-f4aed815-cf58-469b-b8bd-bfe4a92081a7#ref=rss)
+* [https://www.spiegel.de/politik/sanktionen-iran-will-eingefrorenes-milliarden-vermoegen-abziehen](https://www.spiegel.de/politik/sanktionen-iran-will-eingefrorenes-milliarden-vermoegen-abziehen-a-2dfda0b1-b620-4629-ab29-6c09bd28fa7e#ref=rss)
+### trifft
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-erleidet-gewinneinbruch](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-erleidet-gewinneinbruch-a-0dbde545-a94d-40a4-b191-3b715455899a#ref=rss)
-### rio
+* [https://www.spiegel.de/wirtschaft/soziales/rente-plus-von-3-74-prozent-die-womoeglich-letzte-gute-nachricht-fuer-rentnerinnen-und-rentner](https://www.spiegel.de/wirtschaft/soziales/rente-plus-von-3-74-prozent-die-womoeglich-letzte-gute-nachricht-fuer-rentnerinnen-und-rentner-a-b3a50d85-e9ed-4efb-a5be-2790dd932456#ref=rss)
+* [https://www.spiegel.de/sport/fussball/mexiko-lizbeth-ovalle-trifft-in-shrimp-manier-traumtor-sorgt-fuer-rufe-nach-marta-award-der-fifa](https://www.spiegel.de/sport/fussball/mexiko-lizbeth-ovalle-trifft-in-shrimp-manier-traumtor-sorgt-fuer-rufe-nach-marta-award-der-fifa-a-9267ac93-2148-45e8-85f9-411fb13700ff#ref=rss)
+### jahre
 
-* [https://www.spiegel.de/panorama/brasilien-karneval-in-rio-de-janeiro-beija-flor-gewinnt-wettstreit-der-sambaschulen](https://www.spiegel.de/panorama/brasilien-karneval-in-rio-de-janeiro-beija-flor-gewinnt-wettstreit-der-sambaschulen-a-1a303dc2-ba4f-4bf0-9092-4202d3177bc5#ref=rss)
-### de
+* [https://www.spiegel.de/panorama/justiz/beate-zschaepe-was-die-nsu-terroristin-ueber-14-jahre-im-untergrund-erzaehlt](https://www.spiegel.de/panorama/justiz/beate-zschaepe-was-die-nsu-terroristin-ueber-14-jahre-im-untergrund-erzaehlt-a-baf2de70-54bb-402b-bf8a-7200c3ed660b#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-die-transatlantischen-beziehungen-bye-bye-america](https://www.spiegel.de/ausland/donald-trump-und-die-transatlantischen-beziehungen-bye-bye-america-a-65cbacdd-6bce-4858-8c8f-1915400a60a2#ref=rss)
+### lang
 
-* [https://www.spiegel.de/panorama/brasilien-karneval-in-rio-de-janeiro-beija-flor-gewinnt-wettstreit-der-sambaschulen](https://www.spiegel.de/panorama/brasilien-karneval-in-rio-de-janeiro-beija-flor-gewinnt-wettstreit-der-sambaschulen-a-1a303dc2-ba4f-4bf0-9092-4202d3177bc5#ref=rss)
-### janeiro
+* [https://www.spiegel.de/panorama/justiz/beate-zschaepe-was-die-nsu-terroristin-ueber-14-jahre-im-untergrund-erzaehlt](https://www.spiegel.de/panorama/justiz/beate-zschaepe-was-die-nsu-terroristin-ueber-14-jahre-im-untergrund-erzaehlt-a-baf2de70-54bb-402b-bf8a-7200c3ed660b#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-die-transatlantischen-beziehungen-bye-bye-america](https://www.spiegel.de/ausland/donald-trump-und-die-transatlantischen-beziehungen-bye-bye-america-a-65cbacdd-6bce-4858-8c8f-1915400a60a2#ref=rss)
+### alltag
 
-* [https://www.spiegel.de/panorama/brasilien-karneval-in-rio-de-janeiro-beija-flor-gewinnt-wettstreit-der-sambaschulen](https://www.spiegel.de/panorama/brasilien-karneval-in-rio-de-janeiro-beija-flor-gewinnt-wettstreit-der-sambaschulen-a-1a303dc2-ba4f-4bf0-9092-4202d3177bc5#ref=rss)
-### beijaflor
+* [https://www.spiegel.de/panorama/justiz/beate-zschaepe-was-die-nsu-terroristin-ueber-14-jahre-im-untergrund-erzaehlt](https://www.spiegel.de/panorama/justiz/beate-zschaepe-was-die-nsu-terroristin-ueber-14-jahre-im-untergrund-erzaehlt-a-baf2de70-54bb-402b-bf8a-7200c3ed660b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-usa-donald-trump-christian-lindner-nsu-beate-zschaepe](https://www.spiegel.de/politik/deutschland/news-des-tages-usa-donald-trump-christian-lindner-nsu-beate-zschaepe-a-266c83a5-3ac4-40d0-8c60-5ee6e96563da#ref=rss)
+### spiegel
 
-* [https://www.spiegel.de/panorama/brasilien-karneval-in-rio-de-janeiro-beija-flor-gewinnt-wettstreit-der-sambaschulen](https://www.spiegel.de/panorama/brasilien-karneval-in-rio-de-janeiro-beija-flor-gewinnt-wettstreit-der-sambaschulen-a-1a303dc2-ba4f-4bf0-9092-4202d3177bc5#ref=rss)
-### unruhe
+* [https://www.spiegel.de/panorama/justiz/beate-zschaepe-was-die-nsu-terroristin-ueber-14-jahre-im-untergrund-erzaehlt](https://www.spiegel.de/panorama/justiz/beate-zschaepe-was-die-nsu-terroristin-ueber-14-jahre-im-untergrund-erzaehlt-a-baf2de70-54bb-402b-bf8a-7200c3ed660b#ref=rss)
+* [https://www.spiegel.de/politik/die-putin-freunde-von-der-afd-natuerlich-ist-russland-keine-diktatur-spiegel-tv](https://www.spiegel.de/politik/die-putin-freunde-von-der-afd-natuerlich-ist-russland-keine-diktatur-spiegel-tv-a-fba642ce-067d-42a1-ac05-f8cdd07e1b19#ref=rss)
+### sorgt
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-trotz-3-0-sieg-gegen-leverkusen-unruhe-im-klub](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-trotz-3-0-sieg-gegen-leverkusen-unruhe-im-klub-a-57633df1-8957-465e-980c-bceffb9b94d0#ref=rss)
-### klub
+* [https://www.spiegel.de/ausland/donald-trump-kanada-verbannt-us-whiskey-als-reaktion-auf-handelszoelle](https://www.spiegel.de/ausland/donald-trump-kanada-verbannt-us-whiskey-als-reaktion-auf-handelszoelle-a-9849aadd-7f9d-4388-810c-1ba2a370bbcd#ref=rss)
+* [https://www.spiegel.de/sport/fussball/mexiko-lizbeth-ovalle-trifft-in-shrimp-manier-traumtor-sorgt-fuer-rufe-nach-marta-award-der-fifa](https://www.spiegel.de/sport/fussball/mexiko-lizbeth-ovalle-trifft-in-shrimp-manier-traumtor-sorgt-fuer-rufe-nach-marta-award-der-fifa-a-9267ac93-2148-45e8-85f9-411fb13700ff#ref=rss)
+### kanzler
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-trotz-3-0-sieg-gegen-leverkusen-unruhe-im-klub](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-trotz-3-0-sieg-gegen-leverkusen-unruhe-im-klub-a-57633df1-8957-465e-980c-bceffb9b94d0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sondervermoegen-schuldenbremse-noch-abgeordnete-der-gruenen-machen-druck-auf-friedrich-merz](https://www.spiegel.de/politik/deutschland/sondervermoegen-schuldenbremse-noch-abgeordnete-der-gruenen-machen-druck-auf-friedrich-merz-a-c74a3cdd-8317-4cb8-94b8-b18e1fd7e806#ref=rss)
+* [https://www.spiegel.de/wirtschaft/europaeische-zentralbank-ezb-alles-dreht-sich-um-trump-nur-sagt-es-keiner](https://www.spiegel.de/wirtschaft/europaeische-zentralbank-ezb-alles-dreht-sich-um-trump-nur-sagt-es-keiner-a-dea0aaad-f8a4-4bb1-b96a-09e1c3fed611#ref=rss)
+### bundestag
+
+* [https://www.spiegel.de/politik/deutschland/sondervermoegen-schuldenbremse-noch-abgeordnete-der-gruenen-machen-druck-auf-friedrich-merz](https://www.spiegel.de/politik/deutschland/sondervermoegen-schuldenbremse-noch-abgeordnete-der-gruenen-machen-druck-auf-friedrich-merz-a-c74a3cdd-8317-4cb8-94b8-b18e1fd7e806#ref=rss)
+* [https://www.spiegel.de/politik/die-putin-freunde-von-der-afd-natuerlich-ist-russland-keine-diktatur-spiegel-tv](https://www.spiegel.de/politik/die-putin-freunde-von-der-afd-natuerlich-ist-russland-keine-diktatur-spiegel-tv-a-fba642ce-067d-42a1-ac05-f8cdd07e1b19#ref=rss)
+### prozent
+
+* [https://www.spiegel.de/politik/deutschlandtrend-der-ard-nur-16-prozent-der-deutschen-halten-usa-noch-fuer-vertrauenswuerdigen-partner](https://www.spiegel.de/politik/deutschlandtrend-der-ard-nur-16-prozent-der-deutschen-halten-usa-noch-fuer-vertrauenswuerdigen-partner-a-1377f682-cd5f-4582-b411-7853570245e6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/rente-plus-von-3-74-prozent-die-womoeglich-letzte-gute-nachricht-fuer-rentnerinnen-und-rentner](https://www.spiegel.de/wirtschaft/soziales/rente-plus-von-3-74-prozent-die-womoeglich-letzte-gute-nachricht-fuer-rentnerinnen-und-rentner-a-b3a50d85-e9ed-4efb-a5be-2790dd932456#ref=rss)
+### halten
+
+* [https://www.spiegel.de/politik/deutschlandtrend-der-ard-nur-16-prozent-der-deutschen-halten-usa-noch-fuer-vertrauenswuerdigen-partner](https://www.spiegel.de/politik/deutschlandtrend-der-ard-nur-16-prozent-der-deutschen-halten-usa-noch-fuer-vertrauenswuerdigen-partner-a-1377f682-cd5f-4582-b411-7853570245e6#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/us-geheimdienstinformationen-warum-zieldaten-fuer-raketenwerfer-fuer-die-ukraine-so-wichtig-sind](https://www.spiegel.de/wissenschaft/technik/us-geheimdienstinformationen-warum-zieldaten-fuer-raketenwerfer-fuer-die-ukraine-so-wichtig-sind-a-fe18ef39-8273-4ad6-8156-91f1f80a7b52#ref=rss)
+### verbündete
+
+* [https://www.spiegel.de/politik/deutschlandtrend-der-ard-nur-16-prozent-der-deutschen-halten-usa-noch-fuer-vertrauenswuerdigen-partner](https://www.spiegel.de/politik/deutschlandtrend-der-ard-nur-16-prozent-der-deutschen-halten-usa-noch-fuer-vertrauenswuerdigen-partner-a-1377f682-cd5f-4582-b411-7853570245e6#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-die-transatlantischen-beziehungen-bye-bye-america](https://www.spiegel.de/ausland/donald-trump-und-die-transatlantischen-beziehungen-bye-bye-america-a-65cbacdd-6bce-4858-8c8f-1915400a60a2#ref=rss)
+### europas
+
+* [https://www.spiegel.de/politik/deutschlandtrend-der-ard-nur-16-prozent-der-deutschen-halten-usa-noch-fuer-vertrauenswuerdigen-partner](https://www.spiegel.de/politik/deutschlandtrend-der-ard-nur-16-prozent-der-deutschen-halten-usa-noch-fuer-vertrauenswuerdigen-partner-a-1377f682-cd5f-4582-b411-7853570245e6#ref=rss)
+* [https://www.spiegel.de/psychologie/psychologe-ueber-bruch-der-usa-mit-europa-wenn-amerika-sich-abwendet-wird-das-in-ganz-vielen-bereichen-spuerbar-sein](https://www.spiegel.de/psychologie/psychologe-ueber-bruch-der-usa-mit-europa-wenn-amerika-sich-abwendet-wird-das-in-ganz-vielen-bereichen-spuerbar-sein-a-7bef3923-4665-43c4-a4a3-20ec4d0f91b0#ref=rss)
+### mehrheit
+
+* [https://www.spiegel.de/politik/deutschlandtrend-der-ard-nur-16-prozent-der-deutschen-halten-usa-noch-fuer-vertrauenswuerdigen-partner](https://www.spiegel.de/politik/deutschlandtrend-der-ard-nur-16-prozent-der-deutschen-halten-usa-noch-fuer-vertrauenswuerdigen-partner-a-1377f682-cd5f-4582-b411-7853570245e6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/jetzt-ist-merz-doch-noch-auf-soeders-bayern-angewiesen](https://www.spiegel.de/politik/deutschland/jetzt-ist-merz-doch-noch-auf-soeders-bayern-angewiesen-a-c98f881d-b562-4d08-9c24-ccb85a0aeee6#ref=rss)
+### gute
+
+* [https://www.spiegel.de/politik/deutschlandtrend-der-ard-nur-16-prozent-der-deutschen-halten-usa-noch-fuer-vertrauenswuerdigen-partner](https://www.spiegel.de/politik/deutschlandtrend-der-ard-nur-16-prozent-der-deutschen-halten-usa-noch-fuer-vertrauenswuerdigen-partner-a-1377f682-cd5f-4582-b411-7853570245e6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/rente-plus-von-3-74-prozent-die-womoeglich-letzte-gute-nachricht-fuer-rentnerinnen-und-rentner](https://www.spiegel.de/wirtschaft/soziales/rente-plus-von-3-74-prozent-die-womoeglich-letzte-gute-nachricht-fuer-rentnerinnen-und-rentner-a-b3a50d85-e9ed-4efb-a5be-2790dd932456#ref=rss)
+### hamburg
+
+* [https://www.spiegel.de/politik/deutschland/buergerschaftswahlen-hamburg-spd-und-gruene-nehmen-sondierungsgespraeche-auf](https://www.spiegel.de/politik/deutschland/buergerschaftswahlen-hamburg-spd-und-gruene-nehmen-sondierungsgespraeche-auf-a-cb538c5e-bcb8-4da7-898d-753903adbfaa#ref=rss)
+### heikler
+
+* [https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur-podcast](https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur-podcast-a-8eef2c30-bfd1-46e1-a0b7-ca0cfcc298b7#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur](https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur-a-08dba5f5-121b-4b95-8c47-4a6687411460#ref=rss)
+### plan
+
+* [https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur-podcast](https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur-podcast-a-8eef2c30-bfd1-46e1-a0b7-ca0cfcc298b7#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur](https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur-a-08dba5f5-121b-4b95-8c47-4a6687411460#ref=rss)
+### investitionen
+
+* [https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur-podcast](https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur-podcast-a-8eef2c30-bfd1-46e1-a0b7-ca0cfcc298b7#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur](https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur-a-08dba5f5-121b-4b95-8c47-4a6687411460#ref=rss)
+### pump
+
+* [https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur-podcast](https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur-podcast-a-8eef2c30-bfd1-46e1-a0b7-ca0cfcc298b7#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur](https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur-a-08dba5f5-121b-4b95-8c47-4a6687411460#ref=rss)
+### finanzieren
+
+* [https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur-podcast](https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur-podcast-a-8eef2c30-bfd1-46e1-a0b7-ca0cfcc298b7#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur](https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur-a-08dba5f5-121b-4b95-8c47-4a6687411460#ref=rss)
+### zentrale
+
+* [https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur-podcast](https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur-podcast-a-8eef2c30-bfd1-46e1-a0b7-ca0cfcc298b7#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur](https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur-a-08dba5f5-121b-4b95-8c47-4a6687411460#ref=rss)
+### wahlkampfbotschaften
+
+* [https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur-podcast](https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur-podcast-a-8eef2c30-bfd1-46e1-a0b7-ca0cfcc298b7#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur](https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur-a-08dba5f5-121b-4b95-8c47-4a6687411460#ref=rss)
+### spiegelredakteur
+
+* [https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur-podcast](https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur-podcast-a-8eef2c30-bfd1-46e1-a0b7-ca0cfcc298b7#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur](https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur-a-08dba5f5-121b-4b95-8c47-4a6687411460#ref=rss)
+### paulanton
+
+* [https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur-podcast](https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur-podcast-a-8eef2c30-bfd1-46e1-a0b7-ca0cfcc298b7#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur](https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur-a-08dba5f5-121b-4b95-8c47-4a6687411460#ref=rss)
+### krüger
+
+* [https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur-podcast](https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur-podcast-a-8eef2c30-bfd1-46e1-a0b7-ca0cfcc298b7#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur](https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur-a-08dba5f5-121b-4b95-8c47-4a6687411460#ref=rss)
+### erklärt
+
+* [https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur-podcast](https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur-podcast-a-8eef2c30-bfd1-46e1-a0b7-ca0cfcc298b7#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur](https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur-a-08dba5f5-121b-4b95-8c47-4a6687411460#ref=rss)
+### bevorsteht
+
+* [https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur-podcast](https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur-podcast-a-8eef2c30-bfd1-46e1-a0b7-ca0cfcc298b7#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur](https://www.spiegel.de/politik/friedrich-merz-und-die-schulden-heikler-plan-fuer-verteidigung-und-infrastruktur-a-08dba5f5-121b-4b95-8c47-4a6687411460#ref=rss)
+### dortmund
+
+* [https://www.spiegel.de/panorama/justiz/dortmund-mann-sticht-fahrkartenverkaeufer-nach-mutmasslichen-streit-um-busticket-nieder](https://www.spiegel.de/panorama/justiz/dortmund-mann-sticht-fahrkartenverkaeufer-nach-mutmasslichen-streit-um-busticket-nieder-a-80c0b9c0-c471-424b-9005-0e016ddb8bd4#ref=rss)
+### streit
+
+* [https://www.spiegel.de/panorama/justiz/dortmund-mann-sticht-fahrkartenverkaeufer-nach-mutmasslichen-streit-um-busticket-nieder](https://www.spiegel.de/panorama/justiz/dortmund-mann-sticht-fahrkartenverkaeufer-nach-mutmasslichen-streit-um-busticket-nieder-a-80c0b9c0-c471-424b-9005-0e016ddb8bd4#ref=rss)
+### bruch
+
+* [https://www.spiegel.de/deinspiegel/filmrequisiten-mit-spezialeffekt-tut-das-nicht-weh](https://www.spiegel.de/deinspiegel/filmrequisiten-mit-spezialeffekt-tut-das-nicht-weh-a-261d2a24-49fe-49b5-957a-6a1e1b2e523a#ref=rss)
+* [https://www.spiegel.de/psychologie/psychologe-ueber-bruch-der-usa-mit-europa-wenn-amerika-sich-abwendet-wird-das-in-ganz-vielen-bereichen-spuerbar-sein](https://www.spiegel.de/psychologie/psychologe-ueber-bruch-der-usa-mit-europa-wenn-amerika-sich-abwendet-wird-das-in-ganz-vielen-bereichen-spuerbar-sein-a-7bef3923-4665-43c4-a4a3-20ec4d0f91b0#ref=rss)
+### angewiesen
+
+* [https://www.spiegel.de/politik/deutschland/jetzt-ist-merz-doch-noch-auf-soeders-bayern-angewiesen](https://www.spiegel.de/politik/deutschland/jetzt-ist-merz-doch-noch-auf-soeders-bayern-angewiesen-a-c98f881d-b562-4d08-9c24-ccb85a0aeee6#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/us-geheimdienstinformationen-warum-zieldaten-fuer-raketenwerfer-fuer-die-ukraine-so-wichtig-sind](https://www.spiegel.de/wissenschaft/technik/us-geheimdienstinformationen-warum-zieldaten-fuer-raketenwerfer-fuer-die-ukraine-so-wichtig-sind-a-fe18ef39-8273-4ad6-8156-91f1f80a7b52#ref=rss)
+### europäische
+
+* [https://www.spiegel.de/wirtschaft/europaeische-zentralbank-ezb-alles-dreht-sich-um-trump-nur-sagt-es-keiner](https://www.spiegel.de/wirtschaft/europaeische-zentralbank-ezb-alles-dreht-sich-um-trump-nur-sagt-es-keiner-a-dea0aaad-f8a4-4bb1-b96a-09e1c3fed611#ref=rss)
+### zentralbank
+
+* [https://www.spiegel.de/wirtschaft/europaeische-zentralbank-ezb-alles-dreht-sich-um-trump-nur-sagt-es-keiner](https://www.spiegel.de/wirtschaft/europaeische-zentralbank-ezb-alles-dreht-sich-um-trump-nur-sagt-es-keiner-a-dea0aaad-f8a4-4bb1-b96a-09e1c3fed611#ref=rss)
+### weiß
+
+* [https://www.spiegel.de/wirtschaft/europaeische-zentralbank-ezb-alles-dreht-sich-um-trump-nur-sagt-es-keiner](https://www.spiegel.de/wirtschaft/europaeische-zentralbank-ezb-alles-dreht-sich-um-trump-nur-sagt-es-keiner-a-dea0aaad-f8a4-4bb1-b96a-09e1c3fed611#ref=rss)
+* [https://www.spiegel.de/kultur/kino/michael-sheen-schauspieler-tilgt-schulden-von-900-menschen](https://www.spiegel.de/kultur/kino/michael-sheen-schauspieler-tilgt-schulden-von-900-menschen-a-a1d7330b-3d1f-43ea-aba0-d957b89f5170#ref=rss)
+### psychologe
+
+* [https://www.spiegel.de/psychologie/psychologe-ueber-bruch-der-usa-mit-europa-wenn-amerika-sich-abwendet-wird-das-in-ganz-vielen-bereichen-spuerbar-sein](https://www.spiegel.de/psychologie/psychologe-ueber-bruch-der-usa-mit-europa-wenn-amerika-sich-abwendet-wird-das-in-ganz-vielen-bereichen-spuerbar-sein-a-7bef3923-4665-43c4-a4a3-20ec4d0f91b0#ref=rss)
+### europa
+
+* [https://www.spiegel.de/psychologie/psychologe-ueber-bruch-der-usa-mit-europa-wenn-amerika-sich-abwendet-wird-das-in-ganz-vielen-bereichen-spuerbar-sein](https://www.spiegel.de/psychologie/psychologe-ueber-bruch-der-usa-mit-europa-wenn-amerika-sich-abwendet-wird-das-in-ganz-vielen-bereichen-spuerbar-sein-a-7bef3923-4665-43c4-a4a3-20ec4d0f91b0#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-die-transatlantischen-beziehungen-bye-bye-america](https://www.spiegel.de/ausland/donald-trump-und-die-transatlantischen-beziehungen-bye-bye-america-a-65cbacdd-6bce-4858-8c8f-1915400a60a2#ref=rss)
+### macht
+
+* [https://www.spiegel.de/psychologie/psychologe-ueber-bruch-der-usa-mit-europa-wenn-amerika-sich-abwendet-wird-das-in-ganz-vielen-bereichen-spuerbar-sein](https://www.spiegel.de/psychologie/psychologe-ueber-bruch-der-usa-mit-europa-wenn-amerika-sich-abwendet-wird-das-in-ganz-vielen-bereichen-spuerbar-sein-a-7bef3923-4665-43c4-a4a3-20ec4d0f91b0#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-die-transatlantischen-beziehungen-bye-bye-america](https://www.spiegel.de/ausland/donald-trump-und-die-transatlantischen-beziehungen-bye-bye-america-a-65cbacdd-6bce-4858-8c8f-1915400a60a2#ref=rss)
+### strafzölle
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-setzt-nahezu-alle-strafzoelle-gegen-mexiko-aus](https://www.spiegel.de/wirtschaft/donald-trump-setzt-nahezu-alle-strafzoelle-gegen-mexiko-aus-a-c1dfa917-a386-45a2-8852-7f89fe63dc5a#ref=rss)
+### fußballstar
+
+* [https://www.spiegel.de/sport/fussball/fussballstar-neymar-kehrt-in-brasiliens-nationalteam-zurueck](https://www.spiegel.de/sport/fussball/fussballstar-neymar-kehrt-in-brasiliens-nationalteam-zurueck-a-0bc3f723-061d-40b5-83f0-42d9c9729123#ref=rss)
+### neymar
+
+* [https://www.spiegel.de/sport/fussball/fussballstar-neymar-kehrt-in-brasiliens-nationalteam-zurueck](https://www.spiegel.de/sport/fussball/fussballstar-neymar-kehrt-in-brasiliens-nationalteam-zurueck-a-0bc3f723-061d-40b5-83f0-42d9c9729123#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/sport/fussball/fussballstar-neymar-kehrt-in-brasiliens-nationalteam-zurueck](https://www.spiegel.de/sport/fussball/fussballstar-neymar-kehrt-in-brasiliens-nationalteam-zurueck-a-0bc3f723-061d-40b5-83f0-42d9c9729123#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/us-geheimdienstinformationen-warum-zieldaten-fuer-raketenwerfer-fuer-die-ukraine-so-wichtig-sind](https://www.spiegel.de/wissenschaft/technik/us-geheimdienstinformationen-warum-zieldaten-fuer-raketenwerfer-fuer-die-ukraine-so-wichtig-sind-a-fe18ef39-8273-4ad6-8156-91f1f80a7b52#ref=rss)
+### kreml
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-begruesst-marco-rubios-formulierung-vom-stellvertreterkrieg](https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-begruesst-marco-rubios-formulierung-vom-stellvertreterkrieg-a-418db733-5aaa-4ed2-bbb1-28085eec2b5c#ref=rss)
+* [https://www.spiegel.de/politik/die-putin-freunde-von-der-afd-natuerlich-ist-russland-keine-diktatur-spiegel-tv](https://www.spiegel.de/politik/die-putin-freunde-von-der-afd-natuerlich-ist-russland-keine-diktatur-spiegel-tv-a-fba642ce-067d-42a1-ac05-f8cdd07e1b19#ref=rss)
+### michael
+
+* [https://www.spiegel.de/kultur/kino/michael-sheen-schauspieler-tilgt-schulden-von-900-menschen](https://www.spiegel.de/kultur/kino/michael-sheen-schauspieler-tilgt-schulden-von-900-menschen-a-a1d7330b-3d1f-43ea-aba0-d957b89f5170#ref=rss)
+### sheen
+
+* [https://www.spiegel.de/kultur/kino/michael-sheen-schauspieler-tilgt-schulden-von-900-menschen](https://www.spiegel.de/kultur/kino/michael-sheen-schauspieler-tilgt-schulden-von-900-menschen-a-a1d7330b-3d1f-43ea-aba0-d957b89f5170#ref=rss)
+### schauspieler
+
+* [https://www.spiegel.de/kultur/kino/michael-sheen-schauspieler-tilgt-schulden-von-900-menschen](https://www.spiegel.de/kultur/kino/michael-sheen-schauspieler-tilgt-schulden-von-900-menschen-a-a1d7330b-3d1f-43ea-aba0-d957b89f5170#ref=rss)
+### afd
+
+* [https://www.spiegel.de/politik/die-putin-freunde-von-der-afd-natuerlich-ist-russland-keine-diktatur-spiegel-tv](https://www.spiegel.de/politik/die-putin-freunde-von-der-afd-natuerlich-ist-russland-keine-diktatur-spiegel-tv-a-fba642ce-067d-42a1-ac05-f8cdd07e1b19#ref=rss)
+* [https://www.spiegel.de/sport/fussball/kaiserslautern-kenner-christian-baron-es-gibt-in-der-stadt-keine-institution-die-so-viel-integrationskraft-entwickeln-kann-wie-der-fck](https://www.spiegel.de/sport/fussball/kaiserslautern-kenner-christian-baron-es-gibt-in-der-stadt-keine-institution-die-so-viel-integrationskraft-entwickeln-kann-wie-der-fck-a-aea1b7fc-8ec8-4bfc-bfc8-79b21a0d9f95#ref=rss)
+### nordkorea
+
+* [https://www.spiegel.de/wissenschaft/technik/nordkorea-satellitenfoto-zeigt-kim-jong-uns-fruehwarn-flugzeug](https://www.spiegel.de/wissenschaft/technik/nordkorea-satellitenfoto-zeigt-kim-jong-uns-fruehwarn-flugzeug-a-ea2cf059-6067-4de0-a164-95fdbc0a8d28#ref=rss)
+### uns
+
+* [https://www.spiegel.de/wissenschaft/technik/nordkorea-satellitenfoto-zeigt-kim-jong-uns-fruehwarn-flugzeug](https://www.spiegel.de/wissenschaft/technik/nordkorea-satellitenfoto-zeigt-kim-jong-uns-fruehwarn-flugzeug-a-ea2cf059-6067-4de0-a164-95fdbc0a8d28#ref=rss)
+* [https://www.spiegel.de/kultur/kino/misericordia-film-kritik-wir-sehnen-uns-so-sehr-nach-liebe](https://www.spiegel.de/kultur/kino/misericordia-film-kritik-wir-sehnen-uns-so-sehr-nach-liebe-a-2f58f37e-ecc5-4e40-9f9d-36ef424254e7#ref=rss)
+### baron
+
+* [https://www.spiegel.de/sport/fussball/kaiserslautern-kenner-christian-baron-es-gibt-in-der-stadt-keine-institution-die-so-viel-integrationskraft-entwickeln-kann-wie-der-fck](https://www.spiegel.de/sport/fussball/kaiserslautern-kenner-christian-baron-es-gibt-in-der-stadt-keine-institution-die-so-viel-integrationskraft-entwickeln-kann-wie-der-fck-a-aea1b7fc-8ec8-4bfc-bfc8-79b21a0d9f95#ref=rss)
+### integrationskraft
+
+* [https://www.spiegel.de/sport/fussball/kaiserslautern-kenner-christian-baron-es-gibt-in-der-stadt-keine-institution-die-so-viel-integrationskraft-entwickeln-kann-wie-der-fck](https://www.spiegel.de/sport/fussball/kaiserslautern-kenner-christian-baron-es-gibt-in-der-stadt-keine-institution-die-so-viel-integrationskraft-entwickeln-kann-wie-der-fck-a-aea1b7fc-8ec8-4bfc-bfc8-79b21a0d9f95#ref=rss)
+### fck
+
+* [https://www.spiegel.de/sport/fussball/kaiserslautern-kenner-christian-baron-es-gibt-in-der-stadt-keine-institution-die-so-viel-integrationskraft-entwickeln-kann-wie-der-fck](https://www.spiegel.de/sport/fussball/kaiserslautern-kenner-christian-baron-es-gibt-in-der-stadt-keine-institution-die-so-viel-integrationskraft-entwickeln-kann-wie-der-fck-a-aea1b7fc-8ec8-4bfc-bfc8-79b21a0d9f95#ref=rss)
+### kronprinzessin
+
+* [https://www.spiegel.de/panorama/leute/norwegen-kronprinzessin-mette-marits-lungenkrankheit-verschlimmert-sich](https://www.spiegel.de/panorama/leute/norwegen-kronprinzessin-mette-marits-lungenkrankheit-verschlimmert-sich-a-81af5b24-03e9-47a2-bf0e-7126b48ec632#ref=rss)
+### verschlimmert
+
+* [https://www.spiegel.de/panorama/leute/norwegen-kronprinzessin-mette-marits-lungenkrankheit-verschlimmert-sich](https://www.spiegel.de/panorama/leute/norwegen-kronprinzessin-mette-marits-lungenkrankheit-verschlimmert-sich-a-81af5b24-03e9-47a2-bf0e-7126b48ec632#ref=rss)
+### gisèle
+
+* [https://www.spiegel.de/panorama/justiz/tochter-von-gisele-pelicot-verklagt-ihren-vater-wegen-vergewaltigung](https://www.spiegel.de/panorama/justiz/tochter-von-gisele-pelicot-verklagt-ihren-vater-wegen-vergewaltigung-a-f4aed815-cf58-469b-b8bd-bfe4a92081a7#ref=rss)
+### pelicot
+
+* [https://www.spiegel.de/panorama/justiz/tochter-von-gisele-pelicot-verklagt-ihren-vater-wegen-vergewaltigung](https://www.spiegel.de/panorama/justiz/tochter-von-gisele-pelicot-verklagt-ihren-vater-wegen-vergewaltigung-a-f4aed815-cf58-469b-b8bd-bfe4a92081a7#ref=rss)
+### vater
+
+* [https://www.spiegel.de/panorama/justiz/tochter-von-gisele-pelicot-verklagt-ihren-vater-wegen-vergewaltigung](https://www.spiegel.de/panorama/justiz/tochter-von-gisele-pelicot-verklagt-ihren-vater-wegen-vergewaltigung-a-f4aed815-cf58-469b-b8bd-bfe4a92081a7#ref=rss)
+### womöglich
+
+* [https://www.spiegel.de/wirtschaft/soziales/rente-plus-von-3-74-prozent-die-womoeglich-letzte-gute-nachricht-fuer-rentnerinnen-und-rentner](https://www.spiegel.de/wirtschaft/soziales/rente-plus-von-3-74-prozent-die-womoeglich-letzte-gute-nachricht-fuer-rentnerinnen-und-rentner-a-b3a50d85-e9ed-4efb-a5be-2790dd932456#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/deutschland-lithiumreserven-koennten-den-heimischen-bedarf-decken](https://www.spiegel.de/wissenschaft/natur/deutschland-lithiumreserven-koennten-den-heimischen-bedarf-decken-a-e3629788-f5c3-419d-9b99-e748e5aea8b0#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/wissenschaft/technik/us-geheimdienstinformationen-warum-zieldaten-fuer-raketenwerfer-fuer-die-ukraine-so-wichtig-sind](https://www.spiegel.de/wissenschaft/technik/us-geheimdienstinformationen-warum-zieldaten-fuer-raketenwerfer-fuer-die-ukraine-so-wichtig-sind-a-fe18ef39-8273-4ad6-8156-91f1f80a7b52#ref=rss)
+### misericordia
+
+* [https://www.spiegel.de/kultur/kino/misericordia-film-kritik-wir-sehnen-uns-so-sehr-nach-liebe](https://www.spiegel.de/kultur/kino/misericordia-film-kritik-wir-sehnen-uns-so-sehr-nach-liebe-a-2f58f37e-ecc5-4e40-9f9d-36ef424254e7#ref=rss)
+### eingefrorenes
+
+* [https://www.spiegel.de/politik/sanktionen-iran-will-eingefrorenes-milliarden-vermoegen-abziehen](https://www.spiegel.de/politik/sanktionen-iran-will-eingefrorenes-milliarden-vermoegen-abziehen-a-2dfda0b1-b620-4629-ab29-6c09bd28fa7e#ref=rss)
+### lizbeth
+
+* [https://www.spiegel.de/sport/fussball/mexiko-lizbeth-ovalle-trifft-in-shrimp-manier-traumtor-sorgt-fuer-rufe-nach-marta-award-der-fifa](https://www.spiegel.de/sport/fussball/mexiko-lizbeth-ovalle-trifft-in-shrimp-manier-traumtor-sorgt-fuer-rufe-nach-marta-award-der-fifa-a-9267ac93-2148-45e8-85f9-411fb13700ff#ref=rss)
+### ovalle
+
+* [https://www.spiegel.de/sport/fussball/mexiko-lizbeth-ovalle-trifft-in-shrimp-manier-traumtor-sorgt-fuer-rufe-nach-marta-award-der-fifa](https://www.spiegel.de/sport/fussball/mexiko-lizbeth-ovalle-trifft-in-shrimp-manier-traumtor-sorgt-fuer-rufe-nach-marta-award-der-fifa-a-9267ac93-2148-45e8-85f9-411fb13700ff#ref=rss)
 
