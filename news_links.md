@@ -4,331 +4,412 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### frauen
+### spd
 
-* [https://www.spiegel.de/sport/fussball/dfb-pokal-der-frauen-hamburger-sv-und-werder-bremen-sorgen-im-volksparkstadion-fuer-rekordkulisse](https://www.spiegel.de/sport/fussball/dfb-pokal-der-frauen-hamburger-sv-und-werder-bremen-sorgen-im-volksparkstadion-fuer-rekordkulisse-a-75cd1706-d805-4437-93d6-8803335dd20d#ref=rss)
-* [https://www.spiegel.de/karriere/gender-pay-gap-und-equal-pay-day-in-welchen-berufen-frauen-mehr-verdienen-als-maenner](https://www.spiegel.de/karriere/gender-pay-gap-und-equal-pay-day-in-welchen-berufen-frauen-mehr-verdienen-als-maenner-a-c890ea7b-d809-4f2c-84bb-bc07a99252ed#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/afghanistan-unesco-fordert-zugang-zu-bildung-fuer-frauen](https://www.spiegel.de/panorama/bildung/afghanistan-unesco-fordert-zugang-zu-bildung-fuer-frauen-a-e63452f9-a93b-457c-9694-3be35fac3944#ref=rss)
-### markus
+* [https://www.spiegel.de/panorama/bildung/bildung-was-das-sondervermoegen-fuer-kitas-schulen-und-unis-bringen-koennte](https://www.spiegel.de/panorama/bildung/bildung-was-das-sondervermoegen-fuer-kitas-schulen-und-unis-bringen-koennte-a-54b90755-4238-4ce4-9b00-59aa8569932d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sondervermoegen-und-schuldenbremse-afd-will-sitzungen-des-alten-bundestags-gerichtlich-stoppen](https://www.spiegel.de/politik/deutschland/sondervermoegen-und-schuldenbremse-afd-will-sitzungen-des-alten-bundestags-gerichtlich-stoppen-a-48dc8ca8-3065-4e0b-8c85-1b173e48f57a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-was-queere-menschen-zu-erwarten-haben](https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-was-queere-menschen-zu-erwarten-haben-a-8edae4b6-9ed7-419f-941b-04323ed6020a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trumps-krypto-plaene-friedrich-merz-3d-konflikt](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trumps-krypto-plaene-friedrich-merz-3d-konflikt-a-a0d9bf93-c3fe-4425-ac45-c7899048a7c9#ref=rss)
+* [https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch](https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-a-138b6ef9-19aa-4827-bef5-c9ce6d3465ea#ref=rss)
+* [https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-podcast](https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-podcast-a-9dfa24d8-fd73-47f4-b76d-882c1467ba55#ref=rss)
+### union
 
-* [https://www.spiegel.de/politik/deutschland/regierungsbildung-spd-chefin-saskia-esken-stichelt-gegen-aufgemuskelte-sondierer](https://www.spiegel.de/politik/deutschland/regierungsbildung-spd-chefin-saskia-esken-stichelt-gegen-aufgemuskelte-sondierer-a-2e03a84c-8925-429c-b56f-feb5a026272d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/daniel-guenther-empfiehlt-markus-soeder-beleidigungsfasten-mit-blick-auf-die-gruenen](https://www.spiegel.de/politik/deutschland/daniel-guenther-empfiehlt-markus-soeder-beleidigungsfasten-mit-blick-auf-die-gruenen-a-e1a9bc36-4d20-462e-af64-7431fae5a9b4#ref=rss)
-* [https://www.spiegel.de/kultur/alice-weidel-zu-gast-bei-markus-lanz-niemand-luegt-und-wasser-ist-trocken](https://www.spiegel.de/kultur/alice-weidel-zu-gast-bei-markus-lanz-niemand-luegt-und-wasser-ist-trocken-a-d84ad0e0-1b4e-45f0-98c2-b935cc457fc2#ref=rss)
-### unter
+* [https://www.spiegel.de/panorama/bildung/bildung-was-das-sondervermoegen-fuer-kitas-schulen-und-unis-bringen-koennte](https://www.spiegel.de/panorama/bildung/bildung-was-das-sondervermoegen-fuer-kitas-schulen-und-unis-bringen-koennte-a-54b90755-4238-4ce4-9b00-59aa8569932d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sondervermoegen-und-schuldenbremse-afd-will-sitzungen-des-alten-bundestags-gerichtlich-stoppen](https://www.spiegel.de/politik/deutschland/sondervermoegen-und-schuldenbremse-afd-will-sitzungen-des-alten-bundestags-gerichtlich-stoppen-a-48dc8ca8-3065-4e0b-8c85-1b173e48f57a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-was-queere-menschen-zu-erwarten-haben](https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-was-queere-menschen-zu-erwarten-haben-a-8edae4b6-9ed7-419f-941b-04323ed6020a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-der-cdu-chef-und-die-schwierigen-verhandlungen-auf-dem-weg-zur-regierung](https://www.spiegel.de/politik/deutschland/friedrich-merz-der-cdu-chef-und-die-schwierigen-verhandlungen-auf-dem-weg-zur-regierung-a-28f8998f-6051-4049-af31-c28b53e0a1c7#ref=rss)
+* [https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch](https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-a-138b6ef9-19aa-4827-bef5-c9ce6d3465ea#ref=rss)
+* [https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-podcast](https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-podcast-a-9dfa24d8-fd73-47f4-b76d-882c1467ba55#ref=rss)
+### verurteilt
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-dreht-der-cdu-chef-annalena-baerbocks-feministische-aussenpolitik-zurueck](https://www.spiegel.de/politik/deutschland/friedrich-merz-dreht-der-cdu-chef-annalena-baerbocks-feministische-aussenpolitik-zurueck-a-79cc7258-9301-4a5a-a26f-9ace52878c5a#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-stephen-curry-von-den-golden-state-warriors-wirft-spektakulaeren-dreier](https://www.spiegel.de/sport/basketball/nba-stephen-curry-von-den-golden-state-warriors-wirft-spektakulaeren-dreier-a-194c1ed0-fdd6-44e1-80e1-4a5342b7749e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/grevesmuehlen-anklage-gegen-drei-jungen-nach-vorfall-um-ghanaische-familie](https://www.spiegel.de/panorama/justiz/grevesmuehlen-anklage-gegen-drei-jungen-nach-vorfall-um-ghanaische-familie-a-5efa0cad-668c-41a6-b34c-4546877347cf#ref=rss)
-### europa
+* [https://www.spiegel.de/panorama/justiz/spiegel-tv-kein-gestaendnis-keine-tatwaffe-keine-zeugen-der-eiskeller-mord-von-aschau](https://www.spiegel.de/panorama/justiz/spiegel-tv-kein-gestaendnis-keine-tatwaffe-keine-zeugen-der-eiskeller-mord-von-aschau-a-d3f6100c-bd8c-4c00-9073-2cb76e9f9316#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/osnabrueck-jugendliche-misshandelt-und-in-fluss-geworfen-lange-haftstrafen-verhaengt](https://www.spiegel.de/panorama/justiz/osnabrueck-jugendliche-misshandelt-und-in-fluss-geworfen-lange-haftstrafen-verhaengt-a-8c0d1abf-5a0a-4d01-8864-bec7c5ee891f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-klimaaktivistin-nach-farbattacke-aufs-brandenburger-tor-zu-bewaehrungsstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/berlin-klimaaktivistin-nach-farbattacke-aufs-brandenburger-tor-zu-bewaehrungsstrafe-verurteilt-a-f4112573-4df1-49bc-9dfc-e02340f6fca4#ref=rss)
+* [https://www.spiegel.de/panorama/jan-marsalek-gericht-verurteilt-agentenring-um-den-ex-wirecard-vorstand](https://www.spiegel.de/panorama/jan-marsalek-gericht-verurteilt-agentenring-um-den-ex-wirecard-vorstand-a-3a34abe8-3f11-4361-a40c-8a939daf1154#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/murnau-russe-wegen-mordes-an-ukrainischen-soldaten-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/murnau-russe-wegen-mordes-an-ukrainischen-soldaten-zu-lebenslanger-haft-verurteilt-a-b9aceaf2-1320-424e-b040-732d604f91a6#ref=rss)
+### friedrich
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-experten-analysieren-auswirkungen-auf-geheimdienstallianz-five-eyes](https://www.spiegel.de/ausland/ukraine-krieg-experten-analysieren-auswirkungen-auf-geheimdienstallianz-five-eyes-a-8ef327f7-83c7-4908-9fff-dacac0d91b58#ref=rss)
-* [https://www.spiegel.de/wirtschaft/nio-chinesischer-e-auto-hersteller-im-visier-der-datenschuetzer](https://www.spiegel.de/wirtschaft/nio-chinesischer-e-auto-hersteller-im-visier-der-datenschuetzer-a-2ceb3670-78b0-4f4a-a97a-5ce2ed4debf9#ref=rss)
-* [https://www.spiegel.de/wissenschaft/ariane-6-bringt-europaeischen-spionagesatelliten-cso-3-in-all](https://www.spiegel.de/wissenschaft/ariane-6-bringt-europaeischen-spionagesatelliten-cso-3-in-all-a-e272968c-20b1-43db-8f94-1711294694f2#ref=rss)
-### findet
-
-* [https://www.spiegel.de/sport/fussball/dfb-pokal-der-frauen-hamburger-sv-und-werder-bremen-sorgen-im-volksparkstadion-fuer-rekordkulisse](https://www.spiegel.de/sport/fussball/dfb-pokal-der-frauen-hamburger-sv-und-werder-bremen-sorgen-im-volksparkstadion-fuer-rekordkulisse-a-75cd1706-d805-4437-93d6-8803335dd20d#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/england-schule-verbannt-alle-spiegel-aus-toilettenraeumen](https://www.spiegel.de/panorama/bildung/england-schule-verbannt-alle-spiegel-aus-toilettenraeumen-a-4d1ca8c3-004f-4d54-9582-98a35ef4a2c2#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/sport/fussball/dfb-pokal-der-frauen-hamburger-sv-und-werder-bremen-sorgen-im-volksparkstadion-fuer-rekordkulisse](https://www.spiegel.de/sport/fussball/dfb-pokal-der-frauen-hamburger-sv-und-werder-bremen-sorgen-im-volksparkstadion-fuer-rekordkulisse-a-75cd1706-d805-4437-93d6-8803335dd20d#ref=rss)
-* [https://www.spiegel.de/gesundheit/pflegenotstand-schwester-rabiata-metin-dogru-schildert-die-realitaet-in-deutschen-krankenhaeusern](https://www.spiegel.de/gesundheit/pflegenotstand-schwester-rabiata-metin-dogru-schildert-die-realitaet-in-deutschen-krankenhaeusern-a-070a626d-7748-4017-aa17-b3ac7bc5839b#ref=rss)
-* [https://www.spiegel.de/panorama/australien-stromausfaelle-und-evakuierungen-wegen-zyklon-alfred](https://www.spiegel.de/panorama/australien-stromausfaelle-und-evakuierungen-wegen-zyklon-alfred-a-02ceb6bc-2969-43af-9813-852405e28b43#ref=rss)
-### spacex
-
-* [https://www.spiegel.de/wissenschaft/weltall/spacex-starship-von-elon-musk-explodiert-ueber-den-bahamas](https://www.spiegel.de/wissenschaft/weltall/spacex-starship-von-elon-musk-explodiert-ueber-den-bahamas-a-a77c7771-11d7-4753-b8b7-6b35eef0b677#ref=rss)
-* [https://www.spiegel.de/wissenschaft/ariane-6-bringt-europaeischen-spionagesatelliten-cso-3-in-all](https://www.spiegel.de/wissenschaft/ariane-6-bringt-europaeischen-spionagesatelliten-cso-3-in-all-a-e272968c-20b1-43db-8f94-1711294694f2#ref=rss)
-### söder
-
-* [https://www.spiegel.de/politik/deutschland/regierungsbildung-spd-chefin-saskia-esken-stichelt-gegen-aufgemuskelte-sondierer](https://www.spiegel.de/politik/deutschland/regierungsbildung-spd-chefin-saskia-esken-stichelt-gegen-aufgemuskelte-sondierer-a-2e03a84c-8925-429c-b56f-feb5a026272d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/daniel-guenther-empfiehlt-markus-soeder-beleidigungsfasten-mit-blick-auf-die-gruenen](https://www.spiegel.de/politik/deutschland/daniel-guenther-empfiehlt-markus-soeder-beleidigungsfasten-mit-blick-auf-die-gruenen-a-e1a9bc36-4d20-462e-af64-7431fae5a9b4#ref=rss)
-### wir
-
-* [https://www.spiegel.de/reise/urlaub-fruehling-auf-mallorca-die-besten-ferienhaeuser-finden](https://www.spiegel.de/reise/urlaub-fruehling-auf-mallorca-die-besten-ferienhaeuser-finden-a-401f60a7-4407-4470-96cb-4ce461dd5c8e#ref=rss)
-* [https://www.spiegel.de/psychologie/coaching-neue-gewohnheiten-einfuehren-so-erkennen-sie-ihre-trigger](https://www.spiegel.de/psychologie/coaching-neue-gewohnheiten-einfuehren-so-erkennen-sie-ihre-trigger-a-920ff0d8-d9a3-45aa-8c10-7bc098a20b08#ref=rss)
-### alle
-
-* [https://www.spiegel.de/panorama/bildung/england-schule-verbannt-alle-spiegel-aus-toilettenraeumen](https://www.spiegel.de/panorama/bildung/england-schule-verbannt-alle-spiegel-aus-toilettenraeumen-a-4d1ca8c3-004f-4d54-9582-98a35ef4a2c2#ref=rss)
-* [https://www.spiegel.de/kultur/gleichberechtigung-und-frauentag-das-ist-kein-schoenwetter-thema](https://www.spiegel.de/kultur/gleichberechtigung-und-frauentag-das-ist-kein-schoenwetter-thema-a-a5fa79e5-304d-4cde-8555-934eef563927#ref=rss)
-### pay
-
-* [https://www.spiegel.de/karriere/gender-pay-gap-und-equal-pay-day-in-welchen-berufen-frauen-mehr-verdienen-als-maenner](https://www.spiegel.de/karriere/gender-pay-gap-und-equal-pay-day-in-welchen-berufen-frauen-mehr-verdienen-als-maenner-a-c890ea7b-d809-4f2c-84bb-bc07a99252ed#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trumps-krypto-plaene-friedrich-merz-3d-konflikt](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trumps-krypto-plaene-friedrich-merz-3d-konflikt-a-a0d9bf93-c3fe-4425-ac45-c7899048a7c9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-der-cdu-chef-und-die-schwierigen-verhandlungen-auf-dem-weg-zur-regierung](https://www.spiegel.de/politik/deutschland/friedrich-merz-der-cdu-chef-und-die-schwierigen-verhandlungen-auf-dem-weg-zur-regierung-a-28f8998f-6051-4049-af31-c28b53e0a1c7#ref=rss)
+* [https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch](https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-a-138b6ef9-19aa-4827-bef5-c9ce6d3465ea#ref=rss)
+* [https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-podcast](https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-podcast-a-9dfa24d8-fd73-47f4-b76d-882c1467ba55#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/kultur/gleichberechtigung-und-frauentag-das-ist-kein-schoenwetter-thema](https://www.spiegel.de/kultur/gleichberechtigung-und-frauentag-das-ist-kein-schoenwetter-thema-a-a5fa79e5-304d-4cde-8555-934eef563927#ref=rss)
-* [https://www.spiegel.de/wirtschaft/trump-ordnet-krypto-reserve-an-und-enttaeuscht-die-branche](https://www.spiegel.de/wirtschaft/trump-ordnet-krypto-reserve-an-und-enttaeuscht-die-branche-a-b6d7a658-9197-4dc0-91c8-b19d46621e4f#ref=rss)
-### trump
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trumps-krypto-plaene-friedrich-merz-3d-konflikt](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trumps-krypto-plaene-friedrich-merz-3d-konflikt-a-a0d9bf93-c3fe-4425-ac45-c7899048a7c9#ref=rss)
+* [https://www.spiegel.de/ausland/kreml-propaganda-und-donald-trump-der-nette-us-praesident](https://www.spiegel.de/ausland/kreml-propaganda-und-donald-trump-der-nette-us-praesident-a-301977e2-3fc6-4073-ac89-76d3a07f0422#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/donald-trump-ueberblick-ueber-die-auswirkungen-der-strafzoelle](https://www.spiegel.de/wirtschaft/service/donald-trump-ueberblick-ueber-die-auswirkungen-der-strafzoelle-a-94c94704-8d86-4f41-a82b-98810c2ec6a5#ref=rss)
+### merz
 
-* [https://www.spiegel.de/kultur/gleichberechtigung-und-frauentag-das-ist-kein-schoenwetter-thema](https://www.spiegel.de/kultur/gleichberechtigung-und-frauentag-das-ist-kein-schoenwetter-thema-a-a5fa79e5-304d-4cde-8555-934eef563927#ref=rss)
-* [https://www.spiegel.de/wirtschaft/trump-ordnet-krypto-reserve-an-und-enttaeuscht-die-branche](https://www.spiegel.de/wirtschaft/trump-ordnet-krypto-reserve-an-und-enttaeuscht-die-branche-a-b6d7a658-9197-4dc0-91c8-b19d46621e4f#ref=rss)
-### eintracht
-
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-fans-von-eintracht-braunschweig-boykottieren-spiel-bei-hannover-96](https://www.spiegel.de/sport/fussball/2-bundesliga-fans-von-eintracht-braunschweig-boykottieren-spiel-bei-hannover-96-a-fd9004b5-ba02-44ee-a695-0d0523fc34e7#ref=rss)
-### braunschweig
-
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-fans-von-eintracht-braunschweig-boykottieren-spiel-bei-hannover-96](https://www.spiegel.de/sport/fussball/2-bundesliga-fans-von-eintracht-braunschweig-boykottieren-spiel-bei-hannover-96-a-fd9004b5-ba02-44ee-a695-0d0523fc34e7#ref=rss)
-### spiel
-
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-fans-von-eintracht-braunschweig-boykottieren-spiel-bei-hannover-96](https://www.spiegel.de/sport/fussball/2-bundesliga-fans-von-eintracht-braunschweig-boykottieren-spiel-bei-hannover-96-a-fd9004b5-ba02-44ee-a695-0d0523fc34e7#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-stephen-curry-von-den-golden-state-warriors-wirft-spektakulaeren-dreier](https://www.spiegel.de/sport/basketball/nba-stephen-curry-von-den-golden-state-warriors-wirft-spektakulaeren-dreier-a-194c1ed0-fdd6-44e1-80e1-4a5342b7749e#ref=rss)
-### hannover
-
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-fans-von-eintracht-braunschweig-boykottieren-spiel-bei-hannover-96](https://www.spiegel.de/sport/fussball/2-bundesliga-fans-von-eintracht-braunschweig-boykottieren-spiel-bei-hannover-96-a-fd9004b5-ba02-44ee-a695-0d0523fc34e7#ref=rss)
-### 96
-
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-fans-von-eintracht-braunschweig-boykottieren-spiel-bei-hannover-96](https://www.spiegel.de/sport/fussball/2-bundesliga-fans-von-eintracht-braunschweig-boykottieren-spiel-bei-hannover-96-a-fd9004b5-ba02-44ee-a695-0d0523fc34e7#ref=rss)
-### deshalb
-
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-fans-von-eintracht-braunschweig-boykottieren-spiel-bei-hannover-96](https://www.spiegel.de/sport/fussball/2-bundesliga-fans-von-eintracht-braunschweig-boykottieren-spiel-bei-hannover-96-a-fd9004b5-ba02-44ee-a695-0d0523fc34e7#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/england-schule-verbannt-alle-spiegel-aus-toilettenraeumen](https://www.spiegel.de/panorama/bildung/england-schule-verbannt-alle-spiegel-aus-toilettenraeumen-a-4d1ca8c3-004f-4d54-9582-98a35ef4a2c2#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-fans-von-eintracht-braunschweig-boykottieren-spiel-bei-hannover-96](https://www.spiegel.de/sport/fussball/2-bundesliga-fans-von-eintracht-braunschweig-boykottieren-spiel-bei-hannover-96-a-fd9004b5-ba02-44ee-a695-0d0523fc34e7#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/schoeneberg-in-sachsen-anhalt-mann-bei-polizeieinsatz-erschossen](https://www.spiegel.de/panorama/justiz/schoeneberg-in-sachsen-anhalt-mann-bei-polizeieinsatz-erschossen-a-4ca4be1c-55b9-4e38-b015-1e54e213c365#ref=rss)
-### athena
-
-* [https://www.spiegel.de/wissenschaft/weltall/mondsonde-athena-ist-wahrscheinlich-umgekippt](https://www.spiegel.de/wissenschaft/weltall/mondsonde-athena-ist-wahrscheinlich-umgekippt-a-ba6821cb-c30c-4a25-bb22-56de94bc21a5#ref=rss)
-### wahrscheinlich
-
-* [https://www.spiegel.de/wissenschaft/weltall/mondsonde-athena-ist-wahrscheinlich-umgekippt](https://www.spiegel.de/wissenschaft/weltall/mondsonde-athena-ist-wahrscheinlich-umgekippt-a-ba6821cb-c30c-4a25-bb22-56de94bc21a5#ref=rss)
-### umgekippt
-
-* [https://www.spiegel.de/wissenschaft/weltall/mondsonde-athena-ist-wahrscheinlich-umgekippt](https://www.spiegel.de/wissenschaft/weltall/mondsonde-athena-ist-wahrscheinlich-umgekippt-a-ba6821cb-c30c-4a25-bb22-56de94bc21a5#ref=rss)
-### album
-
-* [https://www.spiegel.de/kultur/musik/lady-gaga-und-ihr-album-mayhem-die-groesste-formwandlerin-des-pop-feiert-das-chaos](https://www.spiegel.de/kultur/musik/lady-gaga-und-ihr-album-mayhem-die-groesste-formwandlerin-des-pop-feiert-das-chaos-a-022bc224-cfc1-42b2-874e-db1c1aa2d074#ref=rss)
-### mayhem
-
-* [https://www.spiegel.de/kultur/musik/lady-gaga-und-ihr-album-mayhem-die-groesste-formwandlerin-des-pop-feiert-das-chaos](https://www.spiegel.de/kultur/musik/lady-gaga-und-ihr-album-mayhem-die-groesste-formwandlerin-des-pop-feiert-das-chaos-a-022bc224-cfc1-42b2-874e-db1c1aa2d074#ref=rss)
-### größte
-
-* [https://www.spiegel.de/kultur/musik/lady-gaga-und-ihr-album-mayhem-die-groesste-formwandlerin-des-pop-feiert-das-chaos](https://www.spiegel.de/kultur/musik/lady-gaga-und-ihr-album-mayhem-die-groesste-formwandlerin-des-pop-feiert-das-chaos-a-022bc224-cfc1-42b2-874e-db1c1aa2d074#ref=rss)
-### formwandlerin
-
-* [https://www.spiegel.de/kultur/musik/lady-gaga-und-ihr-album-mayhem-die-groesste-formwandlerin-des-pop-feiert-das-chaos](https://www.spiegel.de/kultur/musik/lady-gaga-und-ihr-album-mayhem-die-groesste-formwandlerin-des-pop-feiert-das-chaos-a-022bc224-cfc1-42b2-874e-db1c1aa2d074#ref=rss)
-### pop
-
-* [https://www.spiegel.de/kultur/musik/lady-gaga-und-ihr-album-mayhem-die-groesste-formwandlerin-des-pop-feiert-das-chaos](https://www.spiegel.de/kultur/musik/lady-gaga-und-ihr-album-mayhem-die-groesste-formwandlerin-des-pop-feiert-das-chaos-a-022bc224-cfc1-42b2-874e-db1c1aa2d074#ref=rss)
-### neues
-
-* [https://www.spiegel.de/kultur/musik/lady-gaga-und-ihr-album-mayhem-die-groesste-formwandlerin-des-pop-feiert-das-chaos](https://www.spiegel.de/kultur/musik/lady-gaga-und-ihr-album-mayhem-die-groesste-formwandlerin-des-pop-feiert-das-chaos-a-022bc224-cfc1-42b2-874e-db1c1aa2d074#ref=rss)
-* [https://www.spiegel.de/psychologie/coaching-neue-gewohnheiten-einfuehren-so-erkennen-sie-ihre-trigger](https://www.spiegel.de/psychologie/coaching-neue-gewohnheiten-einfuehren-so-erkennen-sie-ihre-trigger-a-920ff0d8-d9a3-45aa-8c10-7bc098a20b08#ref=rss)
-### feministische
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-dreht-der-cdu-chef-annalena-baerbocks-feministische-aussenpolitik-zurueck](https://www.spiegel.de/politik/deutschland/friedrich-merz-dreht-der-cdu-chef-annalena-baerbocks-feministische-aussenpolitik-zurueck-a-79cc7258-9301-4a5a-a26f-9ace52878c5a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/regierungsbildung-spd-chefin-saskia-esken-stichelt-gegen-aufgemuskelte-sondierer](https://www.spiegel.de/politik/deutschland/regierungsbildung-spd-chefin-saskia-esken-stichelt-gegen-aufgemuskelte-sondierer-a-2e03a84c-8925-429c-b56f-feb5a026272d#ref=rss)
-### experten
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-experten-analysieren-auswirkungen-auf-geheimdienstallianz-five-eyes](https://www.spiegel.de/ausland/ukraine-krieg-experten-analysieren-auswirkungen-auf-geheimdienstallianz-five-eyes-a-8ef327f7-83c7-4908-9fff-dacac0d91b58#ref=rss)
-### five
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-experten-analysieren-auswirkungen-auf-geheimdienstallianz-five-eyes](https://www.spiegel.de/ausland/ukraine-krieg-experten-analysieren-auswirkungen-auf-geheimdienstallianz-five-eyes-a-8ef327f7-83c7-4908-9fff-dacac0d91b58#ref=rss)
-### eyes
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-experten-analysieren-auswirkungen-auf-geheimdienstallianz-five-eyes](https://www.spiegel.de/ausland/ukraine-krieg-experten-analysieren-auswirkungen-auf-geheimdienstallianz-five-eyes-a-8ef327f7-83c7-4908-9fff-dacac0d91b58#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-experten-analysieren-auswirkungen-auf-geheimdienstallianz-five-eyes](https://www.spiegel.de/ausland/ukraine-krieg-experten-analysieren-auswirkungen-auf-geheimdienstallianz-five-eyes-a-8ef327f7-83c7-4908-9fff-dacac0d91b58#ref=rss)
-* [https://www.spiegel.de/karriere/gender-pay-gap-und-equal-pay-day-in-welchen-berufen-frauen-mehr-verdienen-als-maenner](https://www.spiegel.de/karriere/gender-pay-gap-und-equal-pay-day-in-welchen-berufen-frauen-mehr-verdienen-als-maenner-a-c890ea7b-d809-4f2c-84bb-bc07a99252ed#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-experten-analysieren-auswirkungen-auf-geheimdienstallianz-five-eyes](https://www.spiegel.de/ausland/ukraine-krieg-experten-analysieren-auswirkungen-auf-geheimdienstallianz-five-eyes-a-8ef327f7-83c7-4908-9fff-dacac0d91b58#ref=rss)
-* [https://www.spiegel.de/auto/berlin-und-hamburg-weniger-autos-gemeldet-gegen-den-trend](https://www.spiegel.de/auto/berlin-und-hamburg-weniger-autos-gemeldet-gegen-den-trend-a-9ad900c7-29f4-4dd8-963d-aed5acddd9ea#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-experten-analysieren-auswirkungen-auf-geheimdienstallianz-five-eyes](https://www.spiegel.de/ausland/ukraine-krieg-experten-analysieren-auswirkungen-auf-geheimdienstallianz-five-eyes-a-8ef327f7-83c7-4908-9fff-dacac0d91b58#ref=rss)
-* [https://www.spiegel.de/kultur/alice-weidel-zu-gast-bei-markus-lanz-niemand-luegt-und-wasser-ist-trocken](https://www.spiegel.de/kultur/alice-weidel-zu-gast-bei-markus-lanz-niemand-luegt-und-wasser-ist-trocken-a-d84ad0e0-1b4e-45f0-98c2-b935cc457fc2#ref=rss)
-### million
-
-* [https://www.spiegel.de/netzwelt/web/microsoft-eine-million-computer-durch-illegale-streaming-werbung-infiziert](https://www.spiegel.de/netzwelt/web/microsoft-eine-million-computer-durch-illegale-streaming-werbung-infiziert-a-41b2ce3a-f6fc-49ee-b7e6-be582605ac5b#ref=rss)
-### computer
-
-* [https://www.spiegel.de/netzwelt/web/microsoft-eine-million-computer-durch-illegale-streaming-werbung-infiziert](https://www.spiegel.de/netzwelt/web/microsoft-eine-million-computer-durch-illegale-streaming-werbung-infiziert-a-41b2ce3a-f6fc-49ee-b7e6-be582605ac5b#ref=rss)
-### dfbpokal
-
-* [https://www.spiegel.de/sport/fussball/dfb-pokal-der-frauen-hamburger-sv-und-werder-bremen-sorgen-im-volksparkstadion-fuer-rekordkulisse](https://www.spiegel.de/sport/fussball/dfb-pokal-der-frauen-hamburger-sv-und-werder-bremen-sorgen-im-volksparkstadion-fuer-rekordkulisse-a-75cd1706-d805-4437-93d6-8803335dd20d#ref=rss)
-### volksparkstadion
-
-* [https://www.spiegel.de/sport/fussball/dfb-pokal-der-frauen-hamburger-sv-und-werder-bremen-sorgen-im-volksparkstadion-fuer-rekordkulisse](https://www.spiegel.de/sport/fussball/dfb-pokal-der-frauen-hamburger-sv-und-werder-bremen-sorgen-im-volksparkstadion-fuer-rekordkulisse-a-75cd1706-d805-4437-93d6-8803335dd20d#ref=rss)
-### sehen
-
-* [https://www.spiegel.de/sport/fussball/dfb-pokal-der-frauen-hamburger-sv-und-werder-bremen-sorgen-im-volksparkstadion-fuer-rekordkulisse](https://www.spiegel.de/sport/fussball/dfb-pokal-der-frauen-hamburger-sv-und-werder-bremen-sorgen-im-volksparkstadion-fuer-rekordkulisse-a-75cd1706-d805-4437-93d6-8803335dd20d#ref=rss)
-* [https://www.spiegel.de/gesundheit/pflegenotstand-schwester-rabiata-metin-dogru-schildert-die-realitaet-in-deutschen-krankenhaeusern](https://www.spiegel.de/gesundheit/pflegenotstand-schwester-rabiata-metin-dogru-schildert-die-realitaet-in-deutschen-krankenhaeusern-a-070a626d-7748-4017-aa17-b3ac7bc5839b#ref=rss)
-### starship
-
-* [https://www.spiegel.de/wissenschaft/weltall/spacex-starship-von-elon-musk-explodiert-ueber-den-bahamas](https://www.spiegel.de/wissenschaft/weltall/spacex-starship-von-elon-musk-explodiert-ueber-den-bahamas-a-a77c7771-11d7-4753-b8b7-6b35eef0b677#ref=rss)
-### elon
-
-* [https://www.spiegel.de/wissenschaft/weltall/spacex-starship-von-elon-musk-explodiert-ueber-den-bahamas](https://www.spiegel.de/wissenschaft/weltall/spacex-starship-von-elon-musk-explodiert-ueber-den-bahamas-a-a77c7771-11d7-4753-b8b7-6b35eef0b677#ref=rss)
-### teile
-
-* [https://www.spiegel.de/wissenschaft/weltall/spacex-starship-von-elon-musk-explodiert-ueber-den-bahamas](https://www.spiegel.de/wissenschaft/weltall/spacex-starship-von-elon-musk-explodiert-ueber-den-bahamas-a-a77c7771-11d7-4753-b8b7-6b35eef0b677#ref=rss)
-* [https://www.spiegel.de/panorama/australien-stromausfaelle-und-evakuierungen-wegen-zyklon-alfred](https://www.spiegel.de/panorama/australien-stromausfaelle-und-evakuierungen-wegen-zyklon-alfred-a-02ceb6bc-2969-43af-9813-852405e28b43#ref=rss)
-### sachsenanhalt
-
-* [https://www.spiegel.de/panorama/justiz/schoeneberg-in-sachsen-anhalt-mann-bei-polizeieinsatz-erschossen](https://www.spiegel.de/panorama/justiz/schoeneberg-in-sachsen-anhalt-mann-bei-polizeieinsatz-erschossen-a-4ca4be1c-55b9-4e38-b015-1e54e213c365#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/justiz/schoeneberg-in-sachsen-anhalt-mann-bei-polizeieinsatz-erschossen](https://www.spiegel.de/panorama/justiz/schoeneberg-in-sachsen-anhalt-mann-bei-polizeieinsatz-erschossen-a-4ca4be1c-55b9-4e38-b015-1e54e213c365#ref=rss)
-### spdchefin
-
-* [https://www.spiegel.de/politik/deutschland/regierungsbildung-spd-chefin-saskia-esken-stichelt-gegen-aufgemuskelte-sondierer](https://www.spiegel.de/politik/deutschland/regierungsbildung-spd-chefin-saskia-esken-stichelt-gegen-aufgemuskelte-sondierer-a-2e03a84c-8925-429c-b56f-feb5a026272d#ref=rss)
-### saskia
-
-* [https://www.spiegel.de/politik/deutschland/regierungsbildung-spd-chefin-saskia-esken-stichelt-gegen-aufgemuskelte-sondierer](https://www.spiegel.de/politik/deutschland/regierungsbildung-spd-chefin-saskia-esken-stichelt-gegen-aufgemuskelte-sondierer-a-2e03a84c-8925-429c-b56f-feb5a026272d#ref=rss)
-### esken
-
-* [https://www.spiegel.de/politik/deutschland/regierungsbildung-spd-chefin-saskia-esken-stichelt-gegen-aufgemuskelte-sondierer](https://www.spiegel.de/politik/deutschland/regierungsbildung-spd-chefin-saskia-esken-stichelt-gegen-aufgemuskelte-sondierer-a-2e03a84c-8925-429c-b56f-feb5a026272d#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/politik/deutschland/regierungsbildung-spd-chefin-saskia-esken-stichelt-gegen-aufgemuskelte-sondierer](https://www.spiegel.de/politik/deutschland/regierungsbildung-spd-chefin-saskia-esken-stichelt-gegen-aufgemuskelte-sondierer-a-2e03a84c-8925-429c-b56f-feb5a026272d#ref=rss)
-* [https://www.spiegel.de/kultur/bayerischen-staatsgemaeldesammlungen-interne-kritik-am-umgang-mit-ns-raubkunst](https://www.spiegel.de/kultur/bayerischen-staatsgemaeldesammlungen-interne-kritik-am-umgang-mit-ns-raubkunst-a-6890f62e-bafa-4def-afb9-ecbe599971f3#ref=rss)
-### frühling
-
-* [https://www.spiegel.de/reise/urlaub-fruehling-auf-mallorca-die-besten-ferienhaeuser-finden](https://www.spiegel.de/reise/urlaub-fruehling-auf-mallorca-die-besten-ferienhaeuser-finden-a-401f60a7-4407-4470-96cb-4ce461dd5c8e#ref=rss)
-### mallorca
-
-* [https://www.spiegel.de/reise/urlaub-fruehling-auf-mallorca-die-besten-ferienhaeuser-finden](https://www.spiegel.de/reise/urlaub-fruehling-auf-mallorca-die-besten-ferienhaeuser-finden-a-401f60a7-4407-4470-96cb-4ce461dd5c8e#ref=rss)
-### ich
-
-* [https://www.spiegel.de/reise/urlaub-fruehling-auf-mallorca-die-besten-ferienhaeuser-finden](https://www.spiegel.de/reise/urlaub-fruehling-auf-mallorca-die-besten-ferienhaeuser-finden-a-401f60a7-4407-4470-96cb-4ce461dd5c8e#ref=rss)
-### weniger
-
-* [https://www.spiegel.de/auto/berlin-und-hamburg-weniger-autos-gemeldet-gegen-den-trend](https://www.spiegel.de/auto/berlin-und-hamburg-weniger-autos-gemeldet-gegen-den-trend-a-9ad900c7-29f4-4dd8-963d-aed5acddd9ea#ref=rss)
-* [https://www.spiegel.de/karriere/gender-pay-gap-und-equal-pay-day-in-welchen-berufen-frauen-mehr-verdienen-als-maenner](https://www.spiegel.de/karriere/gender-pay-gap-und-equal-pay-day-in-welchen-berufen-frauen-mehr-verdienen-als-maenner-a-c890ea7b-d809-4f2c-84bb-bc07a99252ed#ref=rss)
-### autos
-
-* [https://www.spiegel.de/auto/berlin-und-hamburg-weniger-autos-gemeldet-gegen-den-trend](https://www.spiegel.de/auto/berlin-und-hamburg-weniger-autos-gemeldet-gegen-den-trend-a-9ad900c7-29f4-4dd8-963d-aed5acddd9ea#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/auto/berlin-und-hamburg-weniger-autos-gemeldet-gegen-den-trend](https://www.spiegel.de/auto/berlin-und-hamburg-weniger-autos-gemeldet-gegen-den-trend-a-9ad900c7-29f4-4dd8-963d-aed5acddd9ea#ref=rss)
-* [https://www.spiegel.de/kultur/gleichberechtigung-und-frauentag-das-ist-kein-schoenwetter-thema](https://www.spiegel.de/kultur/gleichberechtigung-und-frauentag-das-ist-kein-schoenwetter-thema-a-a5fa79e5-304d-4cde-8555-934eef563927#ref=rss)
-### neue
-
-* [https://www.spiegel.de/psychologie/coaching-neue-gewohnheiten-einfuehren-so-erkennen-sie-ihre-trigger](https://www.spiegel.de/psychologie/coaching-neue-gewohnheiten-einfuehren-so-erkennen-sie-ihre-trigger-a-920ff0d8-d9a3-45aa-8c10-7bc098a20b08#ref=rss)
-* [https://www.spiegel.de/wirtschaft/warnstreik-von-ver-di-flughafen-frankfurt-im-fokus-der-neuen-streikwelle](https://www.spiegel.de/wirtschaft/warnstreik-von-ver-di-flughafen-frankfurt-im-fokus-der-neuen-streikwelle-a-b604b717-39ec-4626-9681-61e8f9fc637e#ref=rss)
-### gewohnheiten
-
-* [https://www.spiegel.de/psychologie/coaching-neue-gewohnheiten-einfuehren-so-erkennen-sie-ihre-trigger](https://www.spiegel.de/psychologie/coaching-neue-gewohnheiten-einfuehren-so-erkennen-sie-ihre-trigger-a-920ff0d8-d9a3-45aa-8c10-7bc098a20b08#ref=rss)
-### erkennen
-
-* [https://www.spiegel.de/psychologie/coaching-neue-gewohnheiten-einfuehren-so-erkennen-sie-ihre-trigger](https://www.spiegel.de/psychologie/coaching-neue-gewohnheiten-einfuehren-so-erkennen-sie-ihre-trigger-a-920ff0d8-d9a3-45aa-8c10-7bc098a20b08#ref=rss)
-* [https://www.spiegel.de/kultur/gleichberechtigung-und-frauentag-das-ist-kein-schoenwetter-thema](https://www.spiegel.de/kultur/gleichberechtigung-und-frauentag-das-ist-kein-schoenwetter-thema-a-a5fa79e5-304d-4cde-8555-934eef563927#ref=rss)
-### trigger
-
-* [https://www.spiegel.de/psychologie/coaching-neue-gewohnheiten-einfuehren-so-erkennen-sie-ihre-trigger](https://www.spiegel.de/psychologie/coaching-neue-gewohnheiten-einfuehren-so-erkennen-sie-ihre-trigger-a-920ff0d8-d9a3-45aa-8c10-7bc098a20b08#ref=rss)
-### bleiben
-
-* [https://www.spiegel.de/wirtschaft/grossbritannien-das-london-eye-wird-25](https://www.spiegel.de/wirtschaft/grossbritannien-das-london-eye-wird-25-a-28263401-7199-4226-9daa-48842f833442#ref=rss)
-* [https://www.spiegel.de/kultur/gleichberechtigung-und-frauentag-das-ist-kein-schoenwetter-thema](https://www.spiegel.de/kultur/gleichberechtigung-und-frauentag-das-ist-kein-schoenwetter-thema-a-a5fa79e5-304d-4cde-8555-934eef563927#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/wirtschaft/grossbritannien-das-london-eye-wird-25](https://www.spiegel.de/wirtschaft/grossbritannien-das-london-eye-wird-25-a-28263401-7199-4226-9daa-48842f833442#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/afghanistan-unesco-fordert-zugang-zu-bildung-fuer-frauen](https://www.spiegel.de/panorama/bildung/afghanistan-unesco-fordert-zugang-zu-bildung-fuer-frauen-a-e63452f9-a93b-457c-9694-3be35fac3944#ref=rss)
-### schwester
-
-* [https://www.spiegel.de/gesundheit/pflegenotstand-schwester-rabiata-metin-dogru-schildert-die-realitaet-in-deutschen-krankenhaeusern](https://www.spiegel.de/gesundheit/pflegenotstand-schwester-rabiata-metin-dogru-schildert-die-realitaet-in-deutschen-krankenhaeusern-a-070a626d-7748-4017-aa17-b3ac7bc5839b#ref=rss)
-### rabiata
-
-* [https://www.spiegel.de/gesundheit/pflegenotstand-schwester-rabiata-metin-dogru-schildert-die-realitaet-in-deutschen-krankenhaeusern](https://www.spiegel.de/gesundheit/pflegenotstand-schwester-rabiata-metin-dogru-schildert-die-realitaet-in-deutschen-krankenhaeusern-a-070a626d-7748-4017-aa17-b3ac7bc5839b#ref=rss)
-### metin
-
-* [https://www.spiegel.de/gesundheit/pflegenotstand-schwester-rabiata-metin-dogru-schildert-die-realitaet-in-deutschen-krankenhaeusern](https://www.spiegel.de/gesundheit/pflegenotstand-schwester-rabiata-metin-dogru-schildert-die-realitaet-in-deutschen-krankenhaeusern-a-070a626d-7748-4017-aa17-b3ac7bc5839b#ref=rss)
-### dogru
-
-* [https://www.spiegel.de/gesundheit/pflegenotstand-schwester-rabiata-metin-dogru-schildert-die-realitaet-in-deutschen-krankenhaeusern](https://www.spiegel.de/gesundheit/pflegenotstand-schwester-rabiata-metin-dogru-schildert-die-realitaet-in-deutschen-krankenhaeusern-a-070a626d-7748-4017-aa17-b3ac7bc5839b#ref=rss)
-### nba
-
-* [https://www.spiegel.de/sport/basketball/nba-stephen-curry-von-den-golden-state-warriors-wirft-spektakulaeren-dreier](https://www.spiegel.de/sport/basketball/nba-stephen-curry-von-den-golden-state-warriors-wirft-spektakulaeren-dreier-a-194c1ed0-fdd6-44e1-80e1-4a5342b7749e#ref=rss)
-### stephen
-
-* [https://www.spiegel.de/sport/basketball/nba-stephen-curry-von-den-golden-state-warriors-wirft-spektakulaeren-dreier](https://www.spiegel.de/sport/basketball/nba-stephen-curry-von-den-golden-state-warriors-wirft-spektakulaeren-dreier-a-194c1ed0-fdd6-44e1-80e1-4a5342b7749e#ref=rss)
-### curry
-
-* [https://www.spiegel.de/sport/basketball/nba-stephen-curry-von-den-golden-state-warriors-wirft-spektakulaeren-dreier](https://www.spiegel.de/sport/basketball/nba-stephen-curry-von-den-golden-state-warriors-wirft-spektakulaeren-dreier-a-194c1ed0-fdd6-44e1-80e1-4a5342b7749e#ref=rss)
-### wirft
-
-* [https://www.spiegel.de/sport/basketball/nba-stephen-curry-von-den-golden-state-warriors-wirft-spektakulaeren-dreier](https://www.spiegel.de/sport/basketball/nba-stephen-curry-von-den-golden-state-warriors-wirft-spektakulaeren-dreier-a-194c1ed0-fdd6-44e1-80e1-4a5342b7749e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/grevesmuehlen-anklage-gegen-drei-jungen-nach-vorfall-um-ghanaische-familie](https://www.spiegel.de/panorama/justiz/grevesmuehlen-anklage-gegen-drei-jungen-nach-vorfall-um-ghanaische-familie-a-5efa0cad-668c-41a6-b34c-4546877347cf#ref=rss)
-### verbannt
-
-* [https://www.spiegel.de/panorama/bildung/england-schule-verbannt-alle-spiegel-aus-toilettenraeumen](https://www.spiegel.de/panorama/bildung/england-schule-verbannt-alle-spiegel-aus-toilettenraeumen-a-4d1ca8c3-004f-4d54-9582-98a35ef4a2c2#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/afghanistan-unesco-fordert-zugang-zu-bildung-fuer-frauen](https://www.spiegel.de/panorama/bildung/afghanistan-unesco-fordert-zugang-zu-bildung-fuer-frauen-a-e63452f9-a93b-457c-9694-3be35fac3944#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trumps-krypto-plaene-friedrich-merz-3d-konflikt](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trumps-krypto-plaene-friedrich-merz-3d-konflikt-a-a0d9bf93-c3fe-4425-ac45-c7899048a7c9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-der-cdu-chef-und-die-schwierigen-verhandlungen-auf-dem-weg-zur-regierung](https://www.spiegel.de/politik/deutschland/friedrich-merz-der-cdu-chef-und-die-schwierigen-verhandlungen-auf-dem-weg-zur-regierung-a-28f8998f-6051-4049-af31-c28b53e0a1c7#ref=rss)
+* [https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch](https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-a-138b6ef9-19aa-4827-bef5-c9ce6d3465ea#ref=rss)
+* [https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-podcast](https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-podcast-a-9dfa24d8-fd73-47f4-b76d-882c1467ba55#ref=rss)
 ### spiegel
 
-* [https://www.spiegel.de/panorama/bildung/england-schule-verbannt-alle-spiegel-aus-toilettenraeumen](https://www.spiegel.de/panorama/bildung/england-schule-verbannt-alle-spiegel-aus-toilettenraeumen-a-4d1ca8c3-004f-4d54-9582-98a35ef4a2c2#ref=rss)
-### zeit
+* [https://www.spiegel.de/panorama/justiz/spiegel-tv-kein-gestaendnis-keine-tatwaffe-keine-zeugen-der-eiskeller-mord-von-aschau](https://www.spiegel.de/panorama/justiz/spiegel-tv-kein-gestaendnis-keine-tatwaffe-keine-zeugen-der-eiskeller-mord-von-aschau-a-d3f6100c-bd8c-4c00-9073-2cb76e9f9316#ref=rss)
+* [https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch](https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-a-138b6ef9-19aa-4827-bef5-c9ce6d3465ea#ref=rss)
+* [https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-podcast](https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-podcast-a-9dfa24d8-fd73-47f4-b76d-882c1467ba55#ref=rss)
+* [https://www.spiegel.de/panorama/jan-marsalek-gericht-verurteilt-agentenring-um-den-ex-wirecard-vorstand](https://www.spiegel.de/panorama/jan-marsalek-gericht-verurteilt-agentenring-um-den-ex-wirecard-vorstand-a-3a34abe8-3f11-4361-a40c-8a939daf1154#ref=rss)
+### sondervermögen
 
-* [https://www.spiegel.de/panorama/bildung/england-schule-verbannt-alle-spiegel-aus-toilettenraeumen](https://www.spiegel.de/panorama/bildung/england-schule-verbannt-alle-spiegel-aus-toilettenraeumen-a-4d1ca8c3-004f-4d54-9582-98a35ef4a2c2#ref=rss)
-* [https://www.spiegel.de/kultur/gleichberechtigung-und-frauentag-das-ist-kein-schoenwetter-thema](https://www.spiegel.de/kultur/gleichberechtigung-und-frauentag-das-ist-kein-schoenwetter-thema-a-a5fa79e5-304d-4cde-8555-934eef563927#ref=rss)
-### grevesmühlen
+* [https://www.spiegel.de/panorama/bildung/bildung-was-das-sondervermoegen-fuer-kitas-schulen-und-unis-bringen-koennte](https://www.spiegel.de/panorama/bildung/bildung-was-das-sondervermoegen-fuer-kitas-schulen-und-unis-bringen-koennte-a-54b90755-4238-4ce4-9b00-59aa8569932d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sondervermoegen-und-schuldenbremse-afd-will-sitzungen-des-alten-bundestags-gerichtlich-stoppen](https://www.spiegel.de/politik/deutschland/sondervermoegen-und-schuldenbremse-afd-will-sitzungen-des-alten-bundestags-gerichtlich-stoppen-a-48dc8ca8-3065-4e0b-8c85-1b173e48f57a#ref=rss)
+### team
 
-* [https://www.spiegel.de/panorama/justiz/grevesmuehlen-anklage-gegen-drei-jungen-nach-vorfall-um-ghanaische-familie](https://www.spiegel.de/panorama/justiz/grevesmuehlen-anklage-gegen-drei-jungen-nach-vorfall-um-ghanaische-familie-a-5efa0cad-668c-41a6-b34c-4546877347cf#ref=rss)
-### verdi
+* [https://www.spiegel.de/sport/formel1/formel-1-cadillac-einstieg-als-elftes-team-ab-2026-ist-offiziell](https://www.spiegel.de/sport/formel1/formel-1-cadillac-einstieg-als-elftes-team-ab-2026-ist-offiziell-a-d35340f1-4a3f-4839-995c-0c6d15a12bdc#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/nordische-ski-wm-deutsche-staffel-gewinnt-gold-in-der-nordischen-kombination](https://www.spiegel.de/sport/wintersport/nordische-ski-wm-deutsche-staffel-gewinnt-gold-in-der-nordischen-kombination-a-9beb854f-4016-4a1a-ac5d-b6b2eeb25477#ref=rss)
+### cdu/csu
 
-* [https://www.spiegel.de/wirtschaft/warnstreik-von-ver-di-flughafen-frankfurt-im-fokus-der-neuen-streikwelle](https://www.spiegel.de/wirtschaft/warnstreik-von-ver-di-flughafen-frankfurt-im-fokus-der-neuen-streikwelle-a-b604b717-39ec-4626-9681-61e8f9fc637e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-was-queere-menschen-zu-erwarten-haben](https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-was-queere-menschen-zu-erwarten-haben-a-8edae4b6-9ed7-419f-941b-04323ed6020a#ref=rss)
+* [https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch](https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-a-138b6ef9-19aa-4827-bef5-c9ce6d3465ea#ref=rss)
+* [https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-podcast](https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-podcast-a-9dfa24d8-fd73-47f4-b76d-882c1467ba55#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/justiz/bahretal-zoll-findet-13-000-tafeln-dubai-schokolade-bei-mann-aus-schweden](https://www.spiegel.de/panorama/justiz/bahretal-zoll-findet-13-000-tafeln-dubai-schokolade-bei-mann-aus-schweden-a-07053d8b-a4e0-4470-a4e5-597409f02488#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-russland-krieg-polen-plant-militaertraining-fuer-alle-erwachsenen-maenner](https://www.spiegel.de/ausland/ukraine-russland-krieg-polen-plant-militaertraining-fuer-alle-erwachsenen-maenner-a-48aca647-f492-4fe9-be55-e6dd76f7c8df#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/murnau-russe-wegen-mordes-an-ukrainischen-soldaten-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/murnau-russe-wegen-mordes-an-ukrainischen-soldaten-zu-lebenslanger-haft-verurteilt-a-b9aceaf2-1320-424e-b040-732d604f91a6#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/russland-vs-frankreich-napoleon-hitler-und-die-atombombe](https://www.spiegel.de/ausland/russland-vs-frankreich-napoleon-hitler-und-die-atombombe-a-b9e4544c-fe28-40d2-9bb2-ca635dd42983#ref=rss)
+* [https://www.spiegel.de/ausland/kreml-propaganda-und-donald-trump-der-nette-us-praesident](https://www.spiegel.de/ausland/kreml-propaganda-und-donald-trump-der-nette-us-praesident-a-301977e2-3fc6-4073-ac89-76d3a07f0422#ref=rss)
+* [https://www.spiegel.de/panorama/jan-marsalek-gericht-verurteilt-agentenring-um-den-ex-wirecard-vorstand](https://www.spiegel.de/panorama/jan-marsalek-gericht-verurteilt-agentenring-um-den-ex-wirecard-vorstand-a-3a34abe8-3f11-4361-a40c-8a939daf1154#ref=rss)
+### trump
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trumps-krypto-plaene-friedrich-merz-3d-konflikt](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trumps-krypto-plaene-friedrich-merz-3d-konflikt-a-a0d9bf93-c3fe-4425-ac45-c7899048a7c9#ref=rss)
+* [https://www.spiegel.de/ausland/kreml-propaganda-und-donald-trump-der-nette-us-praesident](https://www.spiegel.de/ausland/kreml-propaganda-und-donald-trump-der-nette-us-praesident-a-301977e2-3fc6-4073-ac89-76d3a07f0422#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/donald-trump-ueberblick-ueber-die-auswirkungen-der-strafzoelle](https://www.spiegel.de/wirtschaft/service/donald-trump-ueberblick-ueber-die-auswirkungen-der-strafzoelle-a-94c94704-8d86-4f41-a82b-98810c2ec6a5#ref=rss)
+### zamir
+
+* [https://www.spiegel.de/ausland/israel-armeechef-eyal-zamir-er-koennte-den-krieg-zurueck-nach-gaza-bringen](https://www.spiegel.de/ausland/israel-armeechef-eyal-zamir-er-koennte-den-krieg-zurueck-nach-gaza-bringen-a-b045be5c-b8da-4629-83b0-f84f0ae9ad15#ref=rss)
+### bild
+
+* [https://www.spiegel.de/ausland/kreml-propaganda-und-donald-trump-der-nette-us-praesident](https://www.spiegel.de/ausland/kreml-propaganda-und-donald-trump-der-nette-us-praesident-a-301977e2-3fc6-4073-ac89-76d3a07f0422#ref=rss)
+* [https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch](https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-a-138b6ef9-19aa-4827-bef5-c9ce6d3465ea#ref=rss)
+* [https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-podcast](https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-podcast-a-9dfa24d8-fd73-47f4-b76d-882c1467ba55#ref=rss)
+### männer
+
+* [https://www.spiegel.de/ausland/ukraine-russland-krieg-polen-plant-militaertraining-fuer-alle-erwachsenen-maenner](https://www.spiegel.de/ausland/ukraine-russland-krieg-polen-plant-militaertraining-fuer-alle-erwachsenen-maenner-a-48aca647-f492-4fe9-be55-e6dd76f7c8df#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/osnabrueck-jugendliche-misshandelt-und-in-fluss-geworfen-lange-haftstrafen-verhaengt](https://www.spiegel.de/panorama/justiz/osnabrueck-jugendliche-misshandelt-und-in-fluss-geworfen-lange-haftstrafen-verhaengt-a-8c0d1abf-5a0a-4d01-8864-bec7c5ee891f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/murnau-russe-wegen-mordes-an-ukrainischen-soldaten-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/murnau-russe-wegen-mordes-an-ukrainischen-soldaten-zu-lebenslanger-haft-verurteilt-a-b9aceaf2-1320-424e-b040-732d604f91a6#ref=rss)
+### london
+
+* [https://www.spiegel.de/panorama/jan-marsalek-gericht-verurteilt-agentenring-um-den-ex-wirecard-vorstand](https://www.spiegel.de/panorama/jan-marsalek-gericht-verurteilt-agentenring-um-den-ex-wirecard-vorstand-a-3a34abe8-3f11-4361-a40c-8a939daf1154#ref=rss)
+* [https://www.spiegel.de/kultur/cate-blanchett-als-theaterstar-in-london-entertainment-mit-moralbeilage](https://www.spiegel.de/kultur/cate-blanchett-als-theaterstar-in-london-entertainment-mit-moralbeilage-a-960baa8c-f86e-442f-966c-56992d4d639f#ref=rss)
+### nordische
+
+* [https://www.spiegel.de/sport/wintersport/nordische-ski-wm-skispringerin-selina-freitag-gewinnt-silber-von-der-grossschanze-wettkampf-abgebrochen](https://www.spiegel.de/sport/wintersport/nordische-ski-wm-skispringerin-selina-freitag-gewinnt-silber-von-der-grossschanze-wettkampf-abgebrochen-a-eaa2c961-e701-4bfe-a041-2c9a161fae24#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/nordische-ski-wm-deutsche-staffel-gewinnt-gold-in-der-nordischen-kombination](https://www.spiegel.de/sport/wintersport/nordische-ski-wm-deutsche-staffel-gewinnt-gold-in-der-nordischen-kombination-a-9beb854f-4016-4a1a-ac5d-b6b2eeb25477#ref=rss)
+### skiwm
+
+* [https://www.spiegel.de/sport/wintersport/nordische-ski-wm-skispringerin-selina-freitag-gewinnt-silber-von-der-grossschanze-wettkampf-abgebrochen](https://www.spiegel.de/sport/wintersport/nordische-ski-wm-skispringerin-selina-freitag-gewinnt-silber-von-der-grossschanze-wettkampf-abgebrochen-a-eaa2c961-e701-4bfe-a041-2c9a161fae24#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/nordische-ski-wm-deutsche-staffel-gewinnt-gold-in-der-nordischen-kombination](https://www.spiegel.de/sport/wintersport/nordische-ski-wm-deutsche-staffel-gewinnt-gold-in-der-nordischen-kombination-a-9beb854f-4016-4a1a-ac5d-b6b2eeb25477#ref=rss)
+### selina
+
+* [https://www.spiegel.de/sport/wintersport/nordische-ski-wm-skispringerin-selina-freitag-gewinnt-silber-von-der-grossschanze-wettkampf-abgebrochen](https://www.spiegel.de/sport/wintersport/nordische-ski-wm-skispringerin-selina-freitag-gewinnt-silber-von-der-grossschanze-wettkampf-abgebrochen-a-eaa2c961-e701-4bfe-a041-2c9a161fae24#ref=rss)
+### freitag
+
+* [https://www.spiegel.de/sport/wintersport/nordische-ski-wm-skispringerin-selina-freitag-gewinnt-silber-von-der-grossschanze-wettkampf-abgebrochen](https://www.spiegel.de/sport/wintersport/nordische-ski-wm-skispringerin-selina-freitag-gewinnt-silber-von-der-grossschanze-wettkampf-abgebrochen-a-eaa2c961-e701-4bfe-a041-2c9a161fae24#ref=rss)
+### gewinnt
+
+* [https://www.spiegel.de/sport/wintersport/nordische-ski-wm-skispringerin-selina-freitag-gewinnt-silber-von-der-grossschanze-wettkampf-abgebrochen](https://www.spiegel.de/sport/wintersport/nordische-ski-wm-skispringerin-selina-freitag-gewinnt-silber-von-der-grossschanze-wettkampf-abgebrochen-a-eaa2c961-e701-4bfe-a041-2c9a161fae24#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/nordische-ski-wm-deutsche-staffel-gewinnt-gold-in-der-nordischen-kombination](https://www.spiegel.de/sport/wintersport/nordische-ski-wm-deutsche-staffel-gewinnt-gold-in-der-nordischen-kombination-a-9beb854f-4016-4a1a-ac5d-b6b2eeb25477#ref=rss)
+### silber
+
+* [https://www.spiegel.de/sport/wintersport/nordische-ski-wm-skispringerin-selina-freitag-gewinnt-silber-von-der-grossschanze-wettkampf-abgebrochen](https://www.spiegel.de/sport/wintersport/nordische-ski-wm-skispringerin-selina-freitag-gewinnt-silber-von-der-grossschanze-wettkampf-abgebrochen-a-eaa2c961-e701-4bfe-a041-2c9a161fae24#ref=rss)
+### großschanze
+
+* [https://www.spiegel.de/sport/wintersport/nordische-ski-wm-skispringerin-selina-freitag-gewinnt-silber-von-der-grossschanze-wettkampf-abgebrochen](https://www.spiegel.de/sport/wintersport/nordische-ski-wm-skispringerin-selina-freitag-gewinnt-silber-von-der-grossschanze-wettkampf-abgebrochen-a-eaa2c961-e701-4bfe-a041-2c9a161fae24#ref=rss)
+### lange
+
+* [https://www.spiegel.de/sport/wintersport/nordische-ski-wm-skispringerin-selina-freitag-gewinnt-silber-von-der-grossschanze-wettkampf-abgebrochen](https://www.spiegel.de/sport/wintersport/nordische-ski-wm-skispringerin-selina-freitag-gewinnt-silber-von-der-grossschanze-wettkampf-abgebrochen-a-eaa2c961-e701-4bfe-a041-2c9a161fae24#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/osnabrueck-jugendliche-misshandelt-und-in-fluss-geworfen-lange-haftstrafen-verhaengt](https://www.spiegel.de/panorama/justiz/osnabrueck-jugendliche-misshandelt-und-in-fluss-geworfen-lange-haftstrafen-verhaengt-a-8c0d1abf-5a0a-4d01-8864-bec7c5ee891f#ref=rss)
+### bringen
+
+* [https://www.spiegel.de/panorama/bildung/bildung-was-das-sondervermoegen-fuer-kitas-schulen-und-unis-bringen-koennte](https://www.spiegel.de/panorama/bildung/bildung-was-das-sondervermoegen-fuer-kitas-schulen-und-unis-bringen-koennte-a-54b90755-4238-4ce4-9b00-59aa8569932d#ref=rss)
+* [https://www.spiegel.de/ausland/israel-armeechef-eyal-zamir-er-koennte-den-krieg-zurueck-nach-gaza-bringen](https://www.spiegel.de/ausland/israel-armeechef-eyal-zamir-er-koennte-den-krieg-zurueck-nach-gaza-bringen-a-b045be5c-b8da-4629-83b0-f84f0ae9ad15#ref=rss)
+### macht
+
+* [https://www.spiegel.de/panorama/bildung/bildung-was-das-sondervermoegen-fuer-kitas-schulen-und-unis-bringen-koennte](https://www.spiegel.de/panorama/bildung/bildung-was-das-sondervermoegen-fuer-kitas-schulen-und-unis-bringen-koennte-a-54b90755-4238-4ce4-9b00-59aa8569932d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/murnau-russe-wegen-mordes-an-ukrainischen-soldaten-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/murnau-russe-wegen-mordes-an-ukrainischen-soldaten-zu-lebenslanger-haft-verurteilt-a-b9aceaf2-1320-424e-b040-732d604f91a6#ref=rss)
+### arbeitszeitvolumen
+
+* [https://www.spiegel.de/wirtschaft/arbeitszeitvolumen-in-deutschland-wurde-2024-weniger-gearbeitet](https://www.spiegel.de/wirtschaft/arbeitszeitvolumen-in-deutschland-wurde-2024-weniger-gearbeitet-a-de52180e-4bf9-4557-a282-b2aafa7d0867#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/wirtschaft/arbeitszeitvolumen-in-deutschland-wurde-2024-weniger-gearbeitet](https://www.spiegel.de/wirtschaft/arbeitszeitvolumen-in-deutschland-wurde-2024-weniger-gearbeitet-a-de52180e-4bf9-4557-a282-b2aafa7d0867#ref=rss)
+### erstmals
+
+* [https://www.spiegel.de/wirtschaft/arbeitszeitvolumen-in-deutschland-wurde-2024-weniger-gearbeitet](https://www.spiegel.de/wirtschaft/arbeitszeitvolumen-in-deutschland-wurde-2024-weniger-gearbeitet-a-de52180e-4bf9-4557-a282-b2aafa7d0867#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-cadillac-einstieg-als-elftes-team-ab-2026-ist-offiziell](https://www.spiegel.de/sport/formel1/formel-1-cadillac-einstieg-als-elftes-team-ab-2026-ist-offiziell-a-d35340f1-4a3f-4839-995c-0c6d15a12bdc#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/wirtschaft/arbeitszeitvolumen-in-deutschland-wurde-2024-weniger-gearbeitet](https://www.spiegel.de/wirtschaft/arbeitszeitvolumen-in-deutschland-wurde-2024-weniger-gearbeitet-a-de52180e-4bf9-4557-a282-b2aafa7d0867#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-was-queere-menschen-zu-erwarten-haben](https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-was-queere-menschen-zu-erwarten-haben-a-8edae4b6-9ed7-419f-941b-04323ed6020a#ref=rss)
+### andere
+
+* [https://www.spiegel.de/wirtschaft/arbeitszeitvolumen-in-deutschland-wurde-2024-weniger-gearbeitet](https://www.spiegel.de/wirtschaft/arbeitszeitvolumen-in-deutschland-wurde-2024-weniger-gearbeitet-a-de52180e-4bf9-4557-a282-b2aafa7d0867#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-was-queere-menschen-zu-erwarten-haben](https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-was-queere-menschen-zu-erwarten-haben-a-8edae4b6-9ed7-419f-941b-04323ed6020a#ref=rss)
+### formel
+
+* [https://www.spiegel.de/sport/formel1/formel-1-cadillac-einstieg-als-elftes-team-ab-2026-ist-offiziell](https://www.spiegel.de/sport/formel1/formel-1-cadillac-einstieg-als-elftes-team-ab-2026-ist-offiziell-a-d35340f1-4a3f-4839-995c-0c6d15a12bdc#ref=rss)
+### 1
+
+* [https://www.spiegel.de/sport/formel1/formel-1-cadillac-einstieg-als-elftes-team-ab-2026-ist-offiziell](https://www.spiegel.de/sport/formel1/formel-1-cadillac-einstieg-als-elftes-team-ab-2026-ist-offiziell-a-d35340f1-4a3f-4839-995c-0c6d15a12bdc#ref=rss)
+### elftes
+
+* [https://www.spiegel.de/sport/formel1/formel-1-cadillac-einstieg-als-elftes-team-ab-2026-ist-offiziell](https://www.spiegel.de/sport/formel1/formel-1-cadillac-einstieg-als-elftes-team-ab-2026-ist-offiziell-a-d35340f1-4a3f-4839-995c-0c6d15a12bdc#ref=rss)
+### 2026
+
+* [https://www.spiegel.de/sport/formel1/formel-1-cadillac-einstieg-als-elftes-team-ab-2026-ist-offiziell](https://www.spiegel.de/sport/formel1/formel-1-cadillac-einstieg-als-elftes-team-ab-2026-ist-offiziell-a-d35340f1-4a3f-4839-995c-0c6d15a12bdc#ref=rss)
+### offiziell
+
+* [https://www.spiegel.de/sport/formel1/formel-1-cadillac-einstieg-als-elftes-team-ab-2026-ist-offiziell](https://www.spiegel.de/sport/formel1/formel-1-cadillac-einstieg-als-elftes-team-ab-2026-ist-offiziell-a-d35340f1-4a3f-4839-995c-0c6d15a12bdc#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/sport/formel1/formel-1-cadillac-einstieg-als-elftes-team-ab-2026-ist-offiziell](https://www.spiegel.de/sport/formel1/formel-1-cadillac-einstieg-als-elftes-team-ab-2026-ist-offiziell-a-d35340f1-4a3f-4839-995c-0c6d15a12bdc#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/spiegel-tv-kein-gestaendnis-keine-tatwaffe-keine-zeugen-der-eiskeller-mord-von-aschau](https://www.spiegel.de/panorama/justiz/spiegel-tv-kein-gestaendnis-keine-tatwaffe-keine-zeugen-der-eiskeller-mord-von-aschau-a-d3f6100c-bd8c-4c00-9073-2cb76e9f9316#ref=rss)
+### 22
+
+* [https://www.spiegel.de/sport/formel1/formel-1-cadillac-einstieg-als-elftes-team-ab-2026-ist-offiziell](https://www.spiegel.de/sport/formel1/formel-1-cadillac-einstieg-als-elftes-team-ab-2026-ist-offiziell-a-d35340f1-4a3f-4839-995c-0c6d15a12bdc#ref=rss)
+* [https://www.spiegel.de/panorama/probeunterricht-in-berlin-elternverband-fordert-aufarbeitung-der-desastroesen-durchfallquote](https://www.spiegel.de/panorama/probeunterricht-in-berlin-elternverband-fordert-aufarbeitung-der-desastroesen-durchfallquote-a-3a4c2b1e-7815-4a9a-b4a5-aee7cde5c4b1#ref=rss)
+### mordes
+
+* [https://www.spiegel.de/panorama/justiz/spiegel-tv-kein-gestaendnis-keine-tatwaffe-keine-zeugen-der-eiskeller-mord-von-aschau](https://www.spiegel.de/panorama/justiz/spiegel-tv-kein-gestaendnis-keine-tatwaffe-keine-zeugen-der-eiskeller-mord-von-aschau-a-d3f6100c-bd8c-4c00-9073-2cb76e9f9316#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/murnau-russe-wegen-mordes-an-ukrainischen-soldaten-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/murnau-russe-wegen-mordes-an-ukrainischen-soldaten-zu-lebenslanger-haft-verurteilt-a-b9aceaf2-1320-424e-b040-732d604f91a6#ref=rss)
+### frau
+
+* [https://www.spiegel.de/panorama/justiz/spiegel-tv-kein-gestaendnis-keine-tatwaffe-keine-zeugen-der-eiskeller-mord-von-aschau](https://www.spiegel.de/panorama/justiz/spiegel-tv-kein-gestaendnis-keine-tatwaffe-keine-zeugen-der-eiskeller-mord-von-aschau-a-d3f6100c-bd8c-4c00-9073-2cb76e9f9316#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/osnabrueck-jugendliche-misshandelt-und-in-fluss-geworfen-lange-haftstrafen-verhaengt](https://www.spiegel.de/panorama/justiz/osnabrueck-jugendliche-misshandelt-und-in-fluss-geworfen-lange-haftstrafen-verhaengt-a-8c0d1abf-5a0a-4d01-8864-bec7c5ee891f#ref=rss)
+### haft
+
+* [https://www.spiegel.de/panorama/justiz/spiegel-tv-kein-gestaendnis-keine-tatwaffe-keine-zeugen-der-eiskeller-mord-von-aschau](https://www.spiegel.de/panorama/justiz/spiegel-tv-kein-gestaendnis-keine-tatwaffe-keine-zeugen-der-eiskeller-mord-von-aschau-a-d3f6100c-bd8c-4c00-9073-2cb76e9f9316#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/murnau-russe-wegen-mordes-an-ukrainischen-soldaten-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/murnau-russe-wegen-mordes-an-ukrainischen-soldaten-zu-lebenslanger-haft-verurteilt-a-b9aceaf2-1320-424e-b040-732d604f91a6#ref=rss)
+### ohne
+
+* [https://www.spiegel.de/panorama/justiz/spiegel-tv-kein-gestaendnis-keine-tatwaffe-keine-zeugen-der-eiskeller-mord-von-aschau](https://www.spiegel.de/panorama/justiz/spiegel-tv-kein-gestaendnis-keine-tatwaffe-keine-zeugen-der-eiskeller-mord-von-aschau-a-d3f6100c-bd8c-4c00-9073-2cb76e9f9316#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trumps-krypto-plaene-friedrich-merz-3d-konflikt](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trumps-krypto-plaene-friedrich-merz-3d-konflikt-a-a0d9bf93-c3fe-4425-ac45-c7899048a7c9#ref=rss)
+### tat
+
+* [https://www.spiegel.de/panorama/justiz/spiegel-tv-kein-gestaendnis-keine-tatwaffe-keine-zeugen-der-eiskeller-mord-von-aschau](https://www.spiegel.de/panorama/justiz/spiegel-tv-kein-gestaendnis-keine-tatwaffe-keine-zeugen-der-eiskeller-mord-von-aschau-a-d3f6100c-bd8c-4c00-9073-2cb76e9f9316#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/murnau-russe-wegen-mordes-an-ukrainischen-soldaten-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/murnau-russe-wegen-mordes-an-ukrainischen-soldaten-zu-lebenslanger-haft-verurteilt-a-b9aceaf2-1320-424e-b040-732d604f91a6#ref=rss)
+### afd
+
+* [https://www.spiegel.de/politik/deutschland/sondervermoegen-und-schuldenbremse-afd-will-sitzungen-des-alten-bundestags-gerichtlich-stoppen](https://www.spiegel.de/politik/deutschland/sondervermoegen-und-schuldenbremse-afd-will-sitzungen-des-alten-bundestags-gerichtlich-stoppen-a-48dc8ca8-3065-4e0b-8c85-1b173e48f57a#ref=rss)
+### alten
+
+* [https://www.spiegel.de/politik/deutschland/sondervermoegen-und-schuldenbremse-afd-will-sitzungen-des-alten-bundestags-gerichtlich-stoppen](https://www.spiegel.de/politik/deutschland/sondervermoegen-und-schuldenbremse-afd-will-sitzungen-des-alten-bundestags-gerichtlich-stoppen-a-48dc8ca8-3065-4e0b-8c85-1b173e48f57a#ref=rss)
+### dim
+
+* [https://www.spiegel.de/kultur/sternekoch-max-strohe-ueber-chinatowns-dumplings-dim-sum-sojasauce](https://www.spiegel.de/kultur/sternekoch-max-strohe-ueber-chinatowns-dumplings-dim-sum-sojasauce-a-b81d0112-2362-4e57-9add-b200573eab93#ref=rss)
+### sum
+
+* [https://www.spiegel.de/kultur/sternekoch-max-strohe-ueber-chinatowns-dumplings-dim-sum-sojasauce](https://www.spiegel.de/kultur/sternekoch-max-strohe-ueber-chinatowns-dumplings-dim-sum-sojasauce-a-b81d0112-2362-4e57-9add-b200573eab93#ref=rss)
+### ich
+
+* [https://www.spiegel.de/kultur/sternekoch-max-strohe-ueber-chinatowns-dumplings-dim-sum-sojasauce](https://www.spiegel.de/kultur/sternekoch-max-strohe-ueber-chinatowns-dumplings-dim-sum-sojasauce-a-b81d0112-2362-4e57-9add-b200573eab93#ref=rss)
+* [https://www.spiegel.de/sport/american-football/adam-pacman-jones-ex-nfl-star-will-dopingkontrolleure-getaeuscht-haben-um-marihuana-zu-rauchen](https://www.spiegel.de/sport/american-football/adam-pacman-jones-ex-nfl-star-will-dopingkontrolleure-getaeuscht-haben-um-marihuana-zu-rauchen-a-c82efb89-cddd-47d1-b2b7-a6b3ddaad2c6#ref=rss)
+### tafeln
+
+* [https://www.spiegel.de/panorama/justiz/bahretal-zoll-findet-13-000-tafeln-dubai-schokolade-bei-mann-aus-schweden](https://www.spiegel.de/panorama/justiz/bahretal-zoll-findet-13-000-tafeln-dubai-schokolade-bei-mann-aus-schweden-a-07053d8b-a4e0-4470-a4e5-597409f02488#ref=rss)
+### dubaischokolade
+
+* [https://www.spiegel.de/panorama/justiz/bahretal-zoll-findet-13-000-tafeln-dubai-schokolade-bei-mann-aus-schweden](https://www.spiegel.de/panorama/justiz/bahretal-zoll-findet-13-000-tafeln-dubai-schokolade-bei-mann-aus-schweden-a-07053d8b-a4e0-4470-a4e5-597409f02488#ref=rss)
+### adam
+
+* [https://www.spiegel.de/sport/american-football/adam-pacman-jones-ex-nfl-star-will-dopingkontrolleure-getaeuscht-haben-um-marihuana-zu-rauchen](https://www.spiegel.de/sport/american-football/adam-pacman-jones-ex-nfl-star-will-dopingkontrolleure-getaeuscht-haben-um-marihuana-zu-rauchen-a-c82efb89-cddd-47d1-b2b7-a6b3ddaad2c6#ref=rss)
+### jones
+
+* [https://www.spiegel.de/sport/american-football/adam-pacman-jones-ex-nfl-star-will-dopingkontrolleure-getaeuscht-haben-um-marihuana-zu-rauchen](https://www.spiegel.de/sport/american-football/adam-pacman-jones-ex-nfl-star-will-dopingkontrolleure-getaeuscht-haben-um-marihuana-zu-rauchen-a-c82efb89-cddd-47d1-b2b7-a6b3ddaad2c6#ref=rss)
+### probeunterricht
+
+* [https://www.spiegel.de/panorama/probeunterricht-in-berlin-elternverband-fordert-aufarbeitung-der-desastroesen-durchfallquote](https://www.spiegel.de/panorama/probeunterricht-in-berlin-elternverband-fordert-aufarbeitung-der-desastroesen-durchfallquote-a-3a4c2b1e-7815-4a9a-b4a5-aee7cde5c4b1#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/panorama/probeunterricht-in-berlin-elternverband-fordert-aufarbeitung-der-desastroesen-durchfallquote](https://www.spiegel.de/panorama/probeunterricht-in-berlin-elternverband-fordert-aufarbeitung-der-desastroesen-durchfallquote-a-3a4c2b1e-7815-4a9a-b4a5-aee7cde5c4b1#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-klimaaktivistin-nach-farbattacke-aufs-brandenburger-tor-zu-bewaehrungsstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/berlin-klimaaktivistin-nach-farbattacke-aufs-brandenburger-tor-zu-bewaehrungsstrafe-verurteilt-a-f4112573-4df1-49bc-9dfc-e02340f6fca4#ref=rss)
+### berliner
+
+* [https://www.spiegel.de/panorama/probeunterricht-in-berlin-elternverband-fordert-aufarbeitung-der-desastroesen-durchfallquote](https://www.spiegel.de/panorama/probeunterricht-in-berlin-elternverband-fordert-aufarbeitung-der-desastroesen-durchfallquote-a-3a4c2b1e-7815-4a9a-b4a5-aee7cde5c4b1#ref=rss)
+* [https://www.spiegel.de/kultur/cate-blanchett-als-theaterstar-in-london-entertainment-mit-moralbeilage](https://www.spiegel.de/kultur/cate-blanchett-als-theaterstar-in-london-entertainment-mit-moralbeilage-a-960baa8c-f86e-442f-966c-56992d4d639f#ref=rss)
+### trumps
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trumps-krypto-plaene-friedrich-merz-3d-konflikt](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trumps-krypto-plaene-friedrich-merz-3d-konflikt-a-a0d9bf93-c3fe-4425-ac45-c7899048a7c9#ref=rss)
+* [https://www.spiegel.de/ausland/kreml-propaganda-und-donald-trump-der-nette-us-praesident](https://www.spiegel.de/ausland/kreml-propaganda-und-donald-trump-der-nette-us-praesident-a-301977e2-3fc6-4073-ac89-76d3a07f0422#ref=rss)
 ### montag
 
-* [https://www.spiegel.de/wirtschaft/warnstreik-von-ver-di-flughafen-frankfurt-im-fokus-der-neuen-streikwelle](https://www.spiegel.de/wirtschaft/warnstreik-von-ver-di-flughafen-frankfurt-im-fokus-der-neuen-streikwelle-a-b604b717-39ec-4626-9681-61e8f9fc637e#ref=rss)
-### elf
+* [https://www.spiegel.de/wirtschaft/streik-an-flughaefen-verband-adv-rechnet-am-montag-mit-3400-ausfallenden-fluegen](https://www.spiegel.de/wirtschaft/streik-an-flughaefen-verband-adv-rechnet-am-montag-mit-3400-ausfallenden-fluegen-a-7e748a2a-1f89-48ac-9d7d-08290da9ea09#ref=rss)
+### 3400
 
-* [https://www.spiegel.de/wirtschaft/warnstreik-von-ver-di-flughafen-frankfurt-im-fokus-der-neuen-streikwelle](https://www.spiegel.de/wirtschaft/warnstreik-von-ver-di-flughafen-frankfurt-im-fokus-der-neuen-streikwelle-a-b604b717-39ec-4626-9681-61e8f9fc637e#ref=rss)
-### flughäfen
+* [https://www.spiegel.de/wirtschaft/streik-an-flughaefen-verband-adv-rechnet-am-montag-mit-3400-ausfallenden-fluegen](https://www.spiegel.de/wirtschaft/streik-an-flughaefen-verband-adv-rechnet-am-montag-mit-3400-ausfallenden-fluegen-a-7e748a2a-1f89-48ac-9d7d-08290da9ea09#ref=rss)
+### wohl
 
-* [https://www.spiegel.de/wirtschaft/warnstreik-von-ver-di-flughafen-frankfurt-im-fokus-der-neuen-streikwelle](https://www.spiegel.de/wirtschaft/warnstreik-von-ver-di-flughafen-frankfurt-im-fokus-der-neuen-streikwelle-a-b604b717-39ec-4626-9681-61e8f9fc637e#ref=rss)
-### mitarbeiter
+* [https://www.spiegel.de/wirtschaft/streik-an-flughaefen-verband-adv-rechnet-am-montag-mit-3400-ausfallenden-fluegen](https://www.spiegel.de/wirtschaft/streik-an-flughaefen-verband-adv-rechnet-am-montag-mit-3400-ausfallenden-fluegen-a-7e748a2a-1f89-48ac-9d7d-08290da9ea09#ref=rss)
+* [https://www.spiegel.de/panorama/jan-marsalek-gericht-verurteilt-agentenring-um-den-ex-wirecard-vorstand](https://www.spiegel.de/panorama/jan-marsalek-gericht-verurteilt-agentenring-um-den-ex-wirecard-vorstand-a-3a34abe8-3f11-4361-a40c-8a939daf1154#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/kultur/bayerischen-staatsgemaeldesammlungen-interne-kritik-am-umgang-mit-ns-raubkunst](https://www.spiegel.de/kultur/bayerischen-staatsgemaeldesammlungen-interne-kritik-am-umgang-mit-ns-raubkunst-a-6890f62e-bafa-4def-afb9-ecbe599971f3#ref=rss)
-### equal
+* [https://www.spiegel.de/wirtschaft/streik-an-flughaefen-verband-adv-rechnet-am-montag-mit-3400-ausfallenden-fluegen](https://www.spiegel.de/wirtschaft/streik-an-flughaefen-verband-adv-rechnet-am-montag-mit-3400-ausfallenden-fluegen-a-7e748a2a-1f89-48ac-9d7d-08290da9ea09#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-der-cdu-chef-und-die-schwierigen-verhandlungen-auf-dem-weg-zur-regierung](https://www.spiegel.de/politik/deutschland/friedrich-merz-der-cdu-chef-und-die-schwierigen-verhandlungen-auf-dem-weg-zur-regierung-a-28f8998f-6051-4049-af31-c28b53e0a1c7#ref=rss)
+### chef
 
-* [https://www.spiegel.de/karriere/gender-pay-gap-und-equal-pay-day-in-welchen-berufen-frauen-mehr-verdienen-als-maenner](https://www.spiegel.de/karriere/gender-pay-gap-und-equal-pay-day-in-welchen-berufen-frauen-mehr-verdienen-als-maenner-a-c890ea7b-d809-4f2c-84bb-bc07a99252ed#ref=rss)
-### day
+* [https://www.spiegel.de/wirtschaft/streik-an-flughaefen-verband-adv-rechnet-am-montag-mit-3400-ausfallenden-fluegen](https://www.spiegel.de/wirtschaft/streik-an-flughaefen-verband-adv-rechnet-am-montag-mit-3400-ausfallenden-fluegen-a-7e748a2a-1f89-48ac-9d7d-08290da9ea09#ref=rss)
+* [https://www.spiegel.de/kultur/cate-blanchett-als-theaterstar-in-london-entertainment-mit-moralbeilage](https://www.spiegel.de/kultur/cate-blanchett-als-theaterstar-in-london-entertainment-mit-moralbeilage-a-960baa8c-f86e-442f-966c-56992d4d639f#ref=rss)
+### weg
 
-* [https://www.spiegel.de/karriere/gender-pay-gap-und-equal-pay-day-in-welchen-berufen-frauen-mehr-verdienen-als-maenner](https://www.spiegel.de/karriere/gender-pay-gap-und-equal-pay-day-in-welchen-berufen-frauen-mehr-verdienen-als-maenner-a-c890ea7b-d809-4f2c-84bb-bc07a99252ed#ref=rss)
-### fred
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-der-cdu-chef-und-die-schwierigen-verhandlungen-auf-dem-weg-zur-regierung](https://www.spiegel.de/politik/deutschland/friedrich-merz-der-cdu-chef-und-die-schwierigen-verhandlungen-auf-dem-weg-zur-regierung-a-28f8998f-6051-4049-af31-c28b53e0a1c7#ref=rss)
+### eyal
 
-* [https://www.spiegel.de/sport/tennis/nachruf-auf-fred-stolle-der-weisse-sport-und-sein-gentleman](https://www.spiegel.de/sport/tennis/nachruf-auf-fred-stolle-der-weisse-sport-und-sein-gentleman-a-80555a93-95fa-40c3-914f-ad3a376e4a69#ref=rss)
-### stolle
+* [https://www.spiegel.de/ausland/israel-armeechef-eyal-zamir-er-koennte-den-krieg-zurueck-nach-gaza-bringen](https://www.spiegel.de/ausland/israel-armeechef-eyal-zamir-er-koennte-den-krieg-zurueck-nach-gaza-bringen-a-b045be5c-b8da-4629-83b0-f84f0ae9ad15#ref=rss)
+### krieg
 
-* [https://www.spiegel.de/sport/tennis/nachruf-auf-fred-stolle-der-weisse-sport-und-sein-gentleman](https://www.spiegel.de/sport/tennis/nachruf-auf-fred-stolle-der-weisse-sport-und-sein-gentleman-a-80555a93-95fa-40c3-914f-ad3a376e4a69#ref=rss)
-### zeiten
+* [https://www.spiegel.de/ausland/israel-armeechef-eyal-zamir-er-koennte-den-krieg-zurueck-nach-gaza-bringen](https://www.spiegel.de/ausland/israel-armeechef-eyal-zamir-er-koennte-den-krieg-zurueck-nach-gaza-bringen-a-b045be5c-b8da-4629-83b0-f84f0ae9ad15#ref=rss)
+### gaza
 
-* [https://www.spiegel.de/sport/tennis/nachruf-auf-fred-stolle-der-weisse-sport-und-sein-gentleman](https://www.spiegel.de/sport/tennis/nachruf-auf-fred-stolle-der-weisse-sport-und-sein-gentleman-a-80555a93-95fa-40c3-914f-ad3a376e4a69#ref=rss)
-* [https://www.spiegel.de/kultur/gleichberechtigung-und-frauentag-das-ist-kein-schoenwetter-thema](https://www.spiegel.de/kultur/gleichberechtigung-und-frauentag-das-ist-kein-schoenwetter-thema-a-a5fa79e5-304d-4cde-8555-934eef563927#ref=rss)
-### unesco
+* [https://www.spiegel.de/ausland/israel-armeechef-eyal-zamir-er-koennte-den-krieg-zurueck-nach-gaza-bringen](https://www.spiegel.de/ausland/israel-armeechef-eyal-zamir-er-koennte-den-krieg-zurueck-nach-gaza-bringen-a-b045be5c-b8da-4629-83b0-f84f0ae9ad15#ref=rss)
+### uspräsident
 
-* [https://www.spiegel.de/panorama/bildung/afghanistan-unesco-fordert-zugang-zu-bildung-fuer-frauen](https://www.spiegel.de/panorama/bildung/afghanistan-unesco-fordert-zugang-zu-bildung-fuer-frauen-a-e63452f9-a93b-457c-9694-3be35fac3944#ref=rss)
-### bildung
+* [https://www.spiegel.de/ausland/kreml-propaganda-und-donald-trump-der-nette-us-praesident](https://www.spiegel.de/ausland/kreml-propaganda-und-donald-trump-der-nette-us-praesident-a-301977e2-3fc6-4073-ac89-76d3a07f0422#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/donald-trump-ueberblick-ueber-die-auswirkungen-der-strafzoelle](https://www.spiegel.de/wirtschaft/service/donald-trump-ueberblick-ueber-die-auswirkungen-der-strafzoelle-a-94c94704-8d86-4f41-a82b-98810c2ec6a5#ref=rss)
+### gut
 
-* [https://www.spiegel.de/panorama/bildung/afghanistan-unesco-fordert-zugang-zu-bildung-fuer-frauen](https://www.spiegel.de/panorama/bildung/afghanistan-unesco-fordert-zugang-zu-bildung-fuer-frauen-a-e63452f9-a93b-457c-9694-3be35fac3944#ref=rss)
-* [https://www.spiegel.de/wirtschaft/trump-ordnet-krypto-reserve-an-und-enttaeuscht-die-branche](https://www.spiegel.de/wirtschaft/trump-ordnet-krypto-reserve-an-und-enttaeuscht-die-branche-a-b6d7a658-9197-4dc0-91c8-b19d46621e4f#ref=rss)
-### afghanistan
+* [https://www.spiegel.de/ausland/kreml-propaganda-und-donald-trump-der-nette-us-praesident](https://www.spiegel.de/ausland/kreml-propaganda-und-donald-trump-der-nette-us-praesident-a-301977e2-3fc6-4073-ac89-76d3a07f0422#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/bayer-aktionaere-sollen-kapitalerhoehung-fuer-glyphosat-klagen-zustimmen](https://www.spiegel.de/wirtschaft/unternehmen/bayer-aktionaere-sollen-kapitalerhoehung-fuer-glyphosat-klagen-zustimmen-a-7a34f1b3-5b98-47d0-8b20-cdf63dc7595a#ref=rss)
+### angekündigt
 
-* [https://www.spiegel.de/panorama/bildung/afghanistan-unesco-fordert-zugang-zu-bildung-fuer-frauen](https://www.spiegel.de/panorama/bildung/afghanistan-unesco-fordert-zugang-zu-bildung-fuer-frauen-a-e63452f9-a93b-457c-9694-3be35fac3944#ref=rss)
-### cdu
+* [https://www.spiegel.de/ausland/ukraine-russland-krieg-polen-plant-militaertraining-fuer-alle-erwachsenen-maenner](https://www.spiegel.de/ausland/ukraine-russland-krieg-polen-plant-militaertraining-fuer-alle-erwachsenen-maenner-a-48aca647-f492-4fe9-be55-e6dd76f7c8df#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/donald-trump-ueberblick-ueber-die-auswirkungen-der-strafzoelle](https://www.spiegel.de/wirtschaft/service/donald-trump-ueberblick-ueber-die-auswirkungen-der-strafzoelle-a-94c94704-8d86-4f41-a82b-98810c2ec6a5#ref=rss)
+### mond
 
-* [https://www.spiegel.de/politik/deutschland/daniel-guenther-empfiehlt-markus-soeder-beleidigungsfasten-mit-blick-auf-die-gruenen](https://www.spiegel.de/politik/deutschland/daniel-guenther-empfiehlt-markus-soeder-beleidigungsfasten-mit-blick-auf-die-gruenen-a-e1a9bc36-4d20-462e-af64-7431fae5a9b4#ref=rss)
-### günther
+* [https://www.spiegel.de/wissenschaft/weltall/mond-us-sonde-athena-umgekippt-mission-beendet](https://www.spiegel.de/wissenschaft/weltall/mond-us-sonde-athena-umgekippt-mission-beendet-a-b6de924c-4d6a-48bb-beb7-e94ab15ddf72#ref=rss)
+### ussonde
 
-* [https://www.spiegel.de/politik/deutschland/daniel-guenther-empfiehlt-markus-soeder-beleidigungsfasten-mit-blick-auf-die-gruenen](https://www.spiegel.de/politik/deutschland/daniel-guenther-empfiehlt-markus-soeder-beleidigungsfasten-mit-blick-auf-die-gruenen-a-e1a9bc36-4d20-462e-af64-7431fae5a9b4#ref=rss)
-### ariane
+* [https://www.spiegel.de/wissenschaft/weltall/mond-us-sonde-athena-umgekippt-mission-beendet](https://www.spiegel.de/wissenschaft/weltall/mond-us-sonde-athena-umgekippt-mission-beendet-a-b6de924c-4d6a-48bb-beb7-e94ab15ddf72#ref=rss)
+### athena
 
-* [https://www.spiegel.de/wissenschaft/ariane-6-bringt-europaeischen-spionagesatelliten-cso-3-in-all](https://www.spiegel.de/wissenschaft/ariane-6-bringt-europaeischen-spionagesatelliten-cso-3-in-all-a-e272968c-20b1-43db-8f94-1711294694f2#ref=rss)
-### spionagesatelliten
+* [https://www.spiegel.de/wissenschaft/weltall/mond-us-sonde-athena-umgekippt-mission-beendet](https://www.spiegel.de/wissenschaft/weltall/mond-us-sonde-athena-umgekippt-mission-beendet-a-b6de924c-4d6a-48bb-beb7-e94ab15ddf72#ref=rss)
+### jugendliche
 
-* [https://www.spiegel.de/wissenschaft/ariane-6-bringt-europaeischen-spionagesatelliten-cso-3-in-all](https://www.spiegel.de/wissenschaft/ariane-6-bringt-europaeischen-spionagesatelliten-cso-3-in-all-a-e272968c-20b1-43db-8f94-1711294694f2#ref=rss)
-### all
+* [https://www.spiegel.de/panorama/justiz/osnabrueck-jugendliche-misshandelt-und-in-fluss-geworfen-lange-haftstrafen-verhaengt](https://www.spiegel.de/panorama/justiz/osnabrueck-jugendliche-misshandelt-und-in-fluss-geworfen-lange-haftstrafen-verhaengt-a-8c0d1abf-5a0a-4d01-8864-bec7c5ee891f#ref=rss)
+### fluss
 
-* [https://www.spiegel.de/wissenschaft/ariane-6-bringt-europaeischen-spionagesatelliten-cso-3-in-all](https://www.spiegel.de/wissenschaft/ariane-6-bringt-europaeischen-spionagesatelliten-cso-3-in-all-a-e272968c-20b1-43db-8f94-1711294694f2#ref=rss)
-### alice
+* [https://www.spiegel.de/panorama/justiz/osnabrueck-jugendliche-misshandelt-und-in-fluss-geworfen-lange-haftstrafen-verhaengt](https://www.spiegel.de/panorama/justiz/osnabrueck-jugendliche-misshandelt-und-in-fluss-geworfen-lange-haftstrafen-verhaengt-a-8c0d1abf-5a0a-4d01-8864-bec7c5ee891f#ref=rss)
+### klimaaktivistin
 
-* [https://www.spiegel.de/kultur/alice-weidel-zu-gast-bei-markus-lanz-niemand-luegt-und-wasser-ist-trocken](https://www.spiegel.de/kultur/alice-weidel-zu-gast-bei-markus-lanz-niemand-luegt-und-wasser-ist-trocken-a-d84ad0e0-1b4e-45f0-98c2-b935cc457fc2#ref=rss)
-### weidel
+* [https://www.spiegel.de/panorama/justiz/berlin-klimaaktivistin-nach-farbattacke-aufs-brandenburger-tor-zu-bewaehrungsstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/berlin-klimaaktivistin-nach-farbattacke-aufs-brandenburger-tor-zu-bewaehrungsstrafe-verurteilt-a-f4112573-4df1-49bc-9dfc-e02340f6fca4#ref=rss)
+### brandenburger
 
-* [https://www.spiegel.de/kultur/alice-weidel-zu-gast-bei-markus-lanz-niemand-luegt-und-wasser-ist-trocken](https://www.spiegel.de/kultur/alice-weidel-zu-gast-bei-markus-lanz-niemand-luegt-und-wasser-ist-trocken-a-d84ad0e0-1b4e-45f0-98c2-b935cc457fc2#ref=rss)
-### lanz
+* [https://www.spiegel.de/panorama/justiz/berlin-klimaaktivistin-nach-farbattacke-aufs-brandenburger-tor-zu-bewaehrungsstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/berlin-klimaaktivistin-nach-farbattacke-aufs-brandenburger-tor-zu-bewaehrungsstrafe-verurteilt-a-f4112573-4df1-49bc-9dfc-e02340f6fca4#ref=rss)
+### tor
 
-* [https://www.spiegel.de/kultur/alice-weidel-zu-gast-bei-markus-lanz-niemand-luegt-und-wasser-ist-trocken](https://www.spiegel.de/kultur/alice-weidel-zu-gast-bei-markus-lanz-niemand-luegt-und-wasser-ist-trocken-a-d84ad0e0-1b4e-45f0-98c2-b935cc457fc2#ref=rss)
-### branche
+* [https://www.spiegel.de/panorama/justiz/berlin-klimaaktivistin-nach-farbattacke-aufs-brandenburger-tor-zu-bewaehrungsstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/berlin-klimaaktivistin-nach-farbattacke-aufs-brandenburger-tor-zu-bewaehrungsstrafe-verurteilt-a-f4112573-4df1-49bc-9dfc-e02340f6fca4#ref=rss)
+### gericht
 
-* [https://www.spiegel.de/wirtschaft/trump-ordnet-krypto-reserve-an-und-enttaeuscht-die-branche](https://www.spiegel.de/wirtschaft/trump-ordnet-krypto-reserve-an-und-enttaeuscht-die-branche-a-b6d7a658-9197-4dc0-91c8-b19d46621e4f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-klimaaktivistin-nach-farbattacke-aufs-brandenburger-tor-zu-bewaehrungsstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/berlin-klimaaktivistin-nach-farbattacke-aufs-brandenburger-tor-zu-bewaehrungsstrafe-verurteilt-a-f4112573-4df1-49bc-9dfc-e02340f6fca4#ref=rss)
+* [https://www.spiegel.de/panorama/jan-marsalek-gericht-verurteilt-agentenring-um-den-ex-wirecard-vorstand](https://www.spiegel.de/panorama/jan-marsalek-gericht-verurteilt-agentenring-um-den-ex-wirecard-vorstand-a-3a34abe8-3f11-4361-a40c-8a939daf1154#ref=rss)
+### weltfrauentag
+
+* [https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch](https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-a-138b6ef9-19aa-4827-bef5-c9ce6d3465ea#ref=rss)
+* [https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-podcast](https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-podcast-a-9dfa24d8-fd73-47f4-b76d-882c1467ba55#ref=rss)
+### zeichen
+
+* [https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch](https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-a-138b6ef9-19aa-4827-bef5-c9ce6d3465ea#ref=rss)
+* [https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-podcast](https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-podcast-a-9dfa24d8-fd73-47f4-b76d-882c1467ba55#ref=rss)
+### platz
+
+* [https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch](https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-a-138b6ef9-19aa-4827-bef5-c9ce6d3465ea#ref=rss)
+* [https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-podcast](https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-podcast-a-9dfa24d8-fd73-47f4-b76d-882c1467ba55#ref=rss)
+### herrentisch
+
+* [https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch](https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-a-138b6ef9-19aa-4827-bef5-c9ce6d3465ea#ref=rss)
+* [https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-podcast](https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-podcast-a-9dfa24d8-fd73-47f4-b76d-882c1467ba55#ref=rss)
+### vermittelt
+
+* [https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch](https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-a-138b6ef9-19aa-4827-bef5-c9ce6d3465ea#ref=rss)
+* [https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-podcast](https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-podcast-a-9dfa24d8-fd73-47f4-b76d-882c1467ba55#ref=rss)
+### männlich
+
+* [https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch](https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-a-138b6ef9-19aa-4827-bef5-c9ce6d3465ea#ref=rss)
+* [https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-podcast](https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-podcast-a-9dfa24d8-fd73-47f4-b76d-882c1467ba55#ref=rss)
+### dominierter
+
+* [https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch](https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-a-138b6ef9-19aa-4827-bef5-c9ce6d3465ea#ref=rss)
+* [https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-podcast](https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-podcast-a-9dfa24d8-fd73-47f4-b76d-882c1467ba55#ref=rss)
+### politik
+
+* [https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch](https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-a-138b6ef9-19aa-4827-bef5-c9ce6d3465ea#ref=rss)
+* [https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-podcast](https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-podcast-a-9dfa24d8-fd73-47f4-b76d-882c1467ba55#ref=rss)
+### frauen
+
+* [https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch](https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-a-138b6ef9-19aa-4827-bef5-c9ce6d3465ea#ref=rss)
+* [https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-podcast](https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-podcast-a-9dfa24d8-fd73-47f4-b76d-882c1467ba55#ref=rss)
+### unterrepräsentiert
+
+* [https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch](https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-a-138b6ef9-19aa-4827-bef5-c9ce6d3465ea#ref=rss)
+* [https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-podcast](https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-podcast-a-9dfa24d8-fd73-47f4-b76d-882c1467ba55#ref=rss)
+### verkörpert
+
+* [https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch](https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-a-138b6ef9-19aa-4827-bef5-c9ce6d3465ea#ref=rss)
+* [https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-podcast](https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-podcast-a-9dfa24d8-fd73-47f4-b76d-882c1467ba55#ref=rss)
+### kanzler
+
+* [https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch](https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-a-138b6ef9-19aa-4827-bef5-c9ce6d3465ea#ref=rss)
+* [https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-podcast](https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-podcast-a-9dfa24d8-fd73-47f4-b76d-882c1467ba55#ref=rss)
+### analyse
+
+* [https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch](https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-a-138b6ef9-19aa-4827-bef5-c9ce6d3465ea#ref=rss)
+* [https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-podcast](https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-podcast-a-9dfa24d8-fd73-47f4-b76d-882c1467ba55#ref=rss)
+### melanie
+
+* [https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch](https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-a-138b6ef9-19aa-4827-bef5-c9ce6d3465ea#ref=rss)
+* [https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-podcast](https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-podcast-a-9dfa24d8-fd73-47f4-b76d-882c1467ba55#ref=rss)
+### amann
+
+* [https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch](https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-a-138b6ef9-19aa-4827-bef5-c9ce6d3465ea#ref=rss)
+* [https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-podcast](https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-podcast-a-9dfa24d8-fd73-47f4-b76d-882c1467ba55#ref=rss)
+### stellvertretende
+
+* [https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch](https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-a-138b6ef9-19aa-4827-bef5-c9ce6d3465ea#ref=rss)
+* [https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-podcast](https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-podcast-a-9dfa24d8-fd73-47f4-b76d-882c1467ba55#ref=rss)
+### chefredakteurin
+
+* [https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch](https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-a-138b6ef9-19aa-4827-bef5-c9ce6d3465ea#ref=rss)
+* [https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-podcast](https://www.spiegel.de/politik/weltfrauentag-im-zeichen-von-cdu-csu-und-spd-ist-noch-platz-am-herrentisch-podcast-a-9dfa24d8-fd73-47f4-b76d-882c1467ba55#ref=rss)
+### marsalek
+
+* [https://www.spiegel.de/panorama/jan-marsalek-gericht-verurteilt-agentenring-um-den-ex-wirecard-vorstand](https://www.spiegel.de/panorama/jan-marsalek-gericht-verurteilt-agentenring-um-den-ex-wirecard-vorstand-a-3a34abe8-3f11-4361-a40c-8a939daf1154#ref=rss)
+### exwirecardvorstand
+
+* [https://www.spiegel.de/panorama/jan-marsalek-gericht-verurteilt-agentenring-um-den-ex-wirecard-vorstand](https://www.spiegel.de/panorama/jan-marsalek-gericht-verurteilt-agentenring-um-den-ex-wirecard-vorstand-a-3a34abe8-3f11-4361-a40c-8a939daf1154#ref=rss)
+### bayer
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bayer-aktionaere-sollen-kapitalerhoehung-fuer-glyphosat-klagen-zustimmen](https://www.spiegel.de/wirtschaft/unternehmen/bayer-aktionaere-sollen-kapitalerhoehung-fuer-glyphosat-klagen-zustimmen-a-7a34f1b3-5b98-47d0-8b20-cdf63dc7595a#ref=rss)
+### cate
+
+* [https://www.spiegel.de/kultur/cate-blanchett-als-theaterstar-in-london-entertainment-mit-moralbeilage](https://www.spiegel.de/kultur/cate-blanchett-als-theaterstar-in-london-entertainment-mit-moralbeilage-a-960baa8c-f86e-442f-966c-56992d4d639f#ref=rss)
+### blanchett
+
+* [https://www.spiegel.de/kultur/cate-blanchett-als-theaterstar-in-london-entertainment-mit-moralbeilage](https://www.spiegel.de/kultur/cate-blanchett-als-theaterstar-in-london-entertainment-mit-moralbeilage-a-960baa8c-f86e-442f-966c-56992d4d639f#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/sport/wintersport/nordische-ski-wm-deutsche-staffel-gewinnt-gold-in-der-nordischen-kombination](https://www.spiegel.de/sport/wintersport/nordische-ski-wm-deutsche-staffel-gewinnt-gold-in-der-nordischen-kombination-a-9beb854f-4016-4a1a-ac5d-b6b2eeb25477#ref=rss)
+### staffel
+
+* [https://www.spiegel.de/sport/wintersport/nordische-ski-wm-deutsche-staffel-gewinnt-gold-in-der-nordischen-kombination](https://www.spiegel.de/sport/wintersport/nordische-ski-wm-deutsche-staffel-gewinnt-gold-in-der-nordischen-kombination-a-9beb854f-4016-4a1a-ac5d-b6b2eeb25477#ref=rss)
+### russe
+
+* [https://www.spiegel.de/panorama/justiz/murnau-russe-wegen-mordes-an-ukrainischen-soldaten-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/murnau-russe-wegen-mordes-an-ukrainischen-soldaten-zu-lebenslanger-haft-verurteilt-a-b9aceaf2-1320-424e-b040-732d604f91a6#ref=rss)
+### ukrainischen
+
+* [https://www.spiegel.de/panorama/justiz/murnau-russe-wegen-mordes-an-ukrainischen-soldaten-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/murnau-russe-wegen-mordes-an-ukrainischen-soldaten-zu-lebenslanger-haft-verurteilt-a-b9aceaf2-1320-424e-b040-732d604f91a6#ref=rss)
+### soldaten
+
+* [https://www.spiegel.de/panorama/justiz/murnau-russe-wegen-mordes-an-ukrainischen-soldaten-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/murnau-russe-wegen-mordes-an-ukrainischen-soldaten-zu-lebenslanger-haft-verurteilt-a-b9aceaf2-1320-424e-b040-732d604f91a6#ref=rss)
+### überblick
+
+* [https://www.spiegel.de/wirtschaft/service/donald-trump-ueberblick-ueber-die-auswirkungen-der-strafzoelle](https://www.spiegel.de/wirtschaft/service/donald-trump-ueberblick-ueber-die-auswirkungen-der-strafzoelle-a-94c94704-8d86-4f41-a82b-98810c2ec6a5#ref=rss)
+### auswirkungen
+
+* [https://www.spiegel.de/wirtschaft/service/donald-trump-ueberblick-ueber-die-auswirkungen-der-strafzoelle](https://www.spiegel.de/wirtschaft/service/donald-trump-ueberblick-ueber-die-auswirkungen-der-strafzoelle-a-94c94704-8d86-4f41-a82b-98810c2ec6a5#ref=rss)
+### strafzölle
+
+* [https://www.spiegel.de/wirtschaft/service/donald-trump-ueberblick-ueber-die-auswirkungen-der-strafzoelle](https://www.spiegel.de/wirtschaft/service/donald-trump-ueberblick-ueber-die-auswirkungen-der-strafzoelle-a-94c94704-8d86-4f41-a82b-98810c2ec6a5#ref=rss)
 
