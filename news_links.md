@@ -4,378 +4,420 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### spd
-
-* [https://www.spiegel.de/politik/deutschland/wo-die-spd-sich-durchgesetzt-hat-und-wo-die-union](https://www.spiegel.de/politik/deutschland/wo-die-spd-sich-durchgesetzt-hat-und-wo-die-union-a-aa25528e-a27e-4784-bd4b-166ad3c998c7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-wirtschaftsfluegel-und-spd-linke-loben-sondierungspapier](https://www.spiegel.de/politik/deutschland/cdu-wirtschaftsfluegel-und-spd-linke-loben-sondierungspapier-a-220b6656-01f3-4bf6-bbe8-2aa7f296a988#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sondierungen-worauf-sich-union-und-spd-geeinigt-haben](https://www.spiegel.de/politik/deutschland/sondierungen-worauf-sich-union-und-spd-geeinigt-haben-a-20f548b0-be4a-4051-9888-554640034ecd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-fahrplan-fuer-schwarz-rot-so-geht-es-jetzt-weiter](https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-fahrplan-fuer-schwarz-rot-so-geht-es-jetzt-weiter-a-5f446633-bbfb-4a40-bdab-4456fe4b8b72#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-wollen-in-koalitionsverhandlungen-einsteigen](https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-wollen-in-koalitionsverhandlungen-einsteigen-a-d8d6693c-ad7e-401e-9319-39d74d534cd0#ref=rss)
 ### union
 
-* [https://www.spiegel.de/politik/deutschland/wo-die-spd-sich-durchgesetzt-hat-und-wo-die-union](https://www.spiegel.de/politik/deutschland/wo-die-spd-sich-durchgesetzt-hat-und-wo-die-union-a-aa25528e-a27e-4784-bd4b-166ad3c998c7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-wirtschaftsfluegel-und-spd-linke-loben-sondierungspapier](https://www.spiegel.de/politik/deutschland/cdu-wirtschaftsfluegel-und-spd-linke-loben-sondierungspapier-a-220b6656-01f3-4bf6-bbe8-2aa7f296a988#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sondierungen-worauf-sich-union-und-spd-geeinigt-haben](https://www.spiegel.de/politik/deutschland/sondierungen-worauf-sich-union-und-spd-geeinigt-haben-a-20f548b0-be4a-4051-9888-554640034ecd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-fahrplan-fuer-schwarz-rot-so-geht-es-jetzt-weiter](https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-fahrplan-fuer-schwarz-rot-so-geht-es-jetzt-weiter-a-5f446633-bbfb-4a40-bdab-4456fe4b8b72#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-wollen-in-koalitionsverhandlungen-einsteigen](https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-wollen-in-koalitionsverhandlungen-einsteigen-a-d8d6693c-ad7e-401e-9319-39d74d534cd0#ref=rss)
-### welt
+* [https://www.spiegel.de/politik/horst-seehofer-wirft-union-wegen-neuer-schulden-wortbruch-vor](https://www.spiegel.de/politik/horst-seehofer-wirft-union-wegen-neuer-schulden-wortbruch-vor-a-9082ef77-2182-47c0-902c-6566b04a768e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/union-spd-und-die-sondierungsergebnisse-oekonomen-sehen-teure-wahlgeschenke-und-oekologischen-skandal](https://www.spiegel.de/wirtschaft/soziales/union-spd-und-die-sondierungsergebnisse-oekonomen-sehen-teure-wahlgeschenke-und-oekologischen-skandal-a-14b627f8-a4e5-4640-87fc-059ad888ad05#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sondierungen-von-cdu-csu-und-spd-no-groko](https://www.spiegel.de/politik/deutschland/sondierungen-von-cdu-csu-und-spd-no-groko-a-7077dcca-4b8b-449e-a5fe-896114bbc822#ref=rss)
+### fc
 
-* [https://www.spiegel.de/kultur/geigerin-maria-duenas-tanz-den-paganini](https://www.spiegel.de/kultur/geigerin-maria-duenas-tanz-den-paganini-a-42a45b0a-da01-463b-9aa0-49833b86ab20#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-nach-dem-sturz-von-baschar-al-assad-caesars-beweise-aus-den-todesgefaengnissen](https://www.spiegel.de/ausland/syrien-nach-dem-sturz-von-baschar-al-assad-caesars-beweise-aus-den-todesgefaengnissen-a-692e68e3-2a4f-4027-8267-1bd7b02c6a62#ref=rss)
-* [https://www.spiegel.de/reise/housesitting-drei-housesitterinnen-berichten-von-ihren-erfahrungen](https://www.spiegel.de/reise/housesitting-drei-housesitterinnen-berichten-von-ihren-erfahrungen-a-87e243f1-18cf-4b54-b5b4-c9ff1045db45#ref=rss)
-* [https://www.spiegel.de/sport/vendee-globe-weltumsegler-denis-van-weynbergh-ist-im-ziel-einen-tag-zu-spaet](https://www.spiegel.de/sport/vendee-globe-weltumsegler-denis-van-weynbergh-ist-im-ziel-einen-tag-zu-spaet-a-fae9d48d-b95f-4bb5-8e81-caa35bf64ebd#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/internationaler-frauentag-so-wird-auf-der-ganzen-welt-fuer-mehr-gleichberechtigung-demonstriert](https://www.spiegel.de/panorama/gesellschaft/internationaler-frauentag-so-wird-auf-der-ganzen-welt-fuer-mehr-gleichberechtigung-demonstriert-a-b019eb8e-d181-4dbe-aa87-ec6be7c8444e#ref=rss)
-### donald
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-joao-palhinha-und-sein-besonderes-problem](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-joao-palhinha-und-sein-besonderes-problem-a-a14b3d17-909b-48fd-8aea-237a63c313f8#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-bundesliga-hamburger-sv-schlaegt-fortuna-duesseldorf-17-saisontor-fuer-davie-selke](https://www.spiegel.de/sport/fussball/2-bundesliga-hamburger-sv-schlaegt-fortuna-duesseldorf-17-saisontor-fuer-davie-selke-a-8b76daf3-6b89-486f-81a9-34255d2ba5dd#ref=rss)
+* [https://www.spiegel.de/sport/fussball/spanien-fc-barcelona-sagt-nach-tod-des-teamarztes-liga-spiel-ab](https://www.spiegel.de/sport/fussball/spanien-fc-barcelona-sagt-nach-tod-des-teamarztes-liga-spiel-ab-a-192b3fe6-fac5-4cf2-9627-1baab2215f1c#ref=rss)
+### syrien
 
-* [https://www.spiegel.de/ausland/ukraine-es-wird-dann-unwahrscheinlich-dass-das-land-noch-einen-kriegswinter-uebersteht](https://www.spiegel.de/ausland/ukraine-es-wird-dann-unwahrscheinlich-dass-das-land-noch-einen-kriegswinter-uebersteht-a-1e33a3d7-fa0f-4ca7-8176-68f765669e70#ref=rss)
-* [https://www.spiegel.de/ausland/schottland-propalaestinensische-aktivisten-beschaedigen-donald-trumps-golfklub](https://www.spiegel.de/ausland/schottland-propalaestinensische-aktivisten-beschaedigen-donald-trumps-golfklub-a-627090b2-effd-442d-92f4-420b0094991b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-seine-zoelle-die-eu-muss-einen-grossen-handelskrieg-unbedingt-vermeiden](https://www.spiegel.de/wirtschaft/donald-trump-und-seine-zoelle-die-eu-muss-einen-grossen-handelskrieg-unbedingt-vermeiden-a-ee745192-7e4a-4ca1-8fa3-3adeea08bd9c#ref=rss)
-### skiwm
+* [https://www.spiegel.de/ausland/syrien-ehemalige-assad-anhaenger-liefern-sich-gefechte-mit-sunnitischen-kaempfern-ein-neuer-buergerkrieg-droht](https://www.spiegel.de/ausland/syrien-ehemalige-assad-anhaenger-liefern-sich-gefechte-mit-sunnitischen-kaempfern-ein-neuer-buergerkrieg-droht-a-e9dc7370-85f8-4e22-98ad-598b63a36795#ref=rss)
+* [https://www.spiegel.de/ausland/aktivisten-werfen-regierungstruppen-in-syrien-toetung-von-hunderten-zivilisten-vor](https://www.spiegel.de/ausland/aktivisten-werfen-regierungstruppen-in-syrien-toetung-von-hunderten-zivilisten-vor-a-4e030fe5-d2c7-443c-a459-81d50343cd31#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/sport/wintersport/nordische-ski-wm-in-trondheim-skispringen-endet-im-chaos-norweger-disqualifiziert](https://www.spiegel.de/sport/wintersport/nordische-ski-wm-in-trondheim-skispringen-endet-im-chaos-norweger-disqualifiziert-a-2c15160e-b8f9-406f-9078-0c3a26461415#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/vinzenz-geiger-kombinierer-geiger-holt-bronze-bei-nordischer-ski-wm-in-trondheim](https://www.spiegel.de/sport/wintersport/vinzenz-geiger-kombinierer-geiger-holt-bronze-bei-nordischer-ski-wm-in-trondheim-a-345a6a25-9846-4ea9-a0c7-ec89f31823b7#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/johannes-klaebo-langlaufstar-feiert-historischen-triumph-bei-nordischer-ski-wm](https://www.spiegel.de/sport/wintersport/johannes-klaebo-langlaufstar-feiert-historischen-triumph-bei-nordischer-ski-wm-a-48d08cd7-9fdf-4181-92d2-f7658fc58806#ref=rss)
-### drei
+* [https://www.spiegel.de/wirtschaft/deutsche-post-anzahl-der-beschwerden-zu-briefen-und-paketen-steigt-auf-hoechstwert](https://www.spiegel.de/wirtschaft/deutsche-post-anzahl-der-beschwerden-zu-briefen-und-paketen-steigt-auf-hoechstwert-a-cf5b027f-2aea-4676-afdc-100b58f8efdf#ref=rss)
+* [https://www.spiegel.de/kultur/jennifer-coolidge-hat-bereits-mit-12-jahren-bier-gekauft](https://www.spiegel.de/kultur/jennifer-coolidge-hat-bereits-mit-12-jahren-bier-gekauft-a-6a8f2461-b012-4699-97fd-ee0fdee87326#ref=rss)
+* [https://www.spiegel.de/geschichte/die-letzten-wochen-des-zweiten-weltkriegs-folge-7-die-bombardierung-tokios-und-der-krieg-im-pazifik](https://www.spiegel.de/geschichte/die-letzten-wochen-des-zweiten-weltkriegs-folge-7-die-bombardierung-tokios-und-der-krieg-im-pazifik-a-7b57a157-f465-49aa-b64f-24ce783c2c0a#ref=rss)
+### spd
 
-* [https://www.spiegel.de/panorama/gesellschaft/trennungskinder-drei-erwachsene-berichten-wie-der-krieg-im-elternhaus-sie-praegte](https://www.spiegel.de/panorama/gesellschaft/trennungskinder-drei-erwachsene-berichten-wie-der-krieg-im-elternhaus-sie-praegte-a-421dfa36-725f-4b44-b7b5-2493f47e83d8#ref=rss)
-* [https://www.spiegel.de/reise/housesitting-drei-housesitterinnen-berichten-von-ihren-erfahrungen](https://www.spiegel.de/reise/housesitting-drei-housesitterinnen-berichten-von-ihren-erfahrungen-a-87e243f1-18cf-4b54-b5b4-c9ff1045db45#ref=rss)
-### mehr
+* [https://www.spiegel.de/wirtschaft/soziales/union-spd-und-die-sondierungsergebnisse-oekonomen-sehen-teure-wahlgeschenke-und-oekologischen-skandal](https://www.spiegel.de/wirtschaft/soziales/union-spd-und-die-sondierungsergebnisse-oekonomen-sehen-teure-wahlgeschenke-und-oekologischen-skandal-a-14b627f8-a4e5-4640-87fc-059ad888ad05#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sondierungen-von-cdu-csu-und-spd-no-groko](https://www.spiegel.de/politik/deutschland/sondierungen-von-cdu-csu-und-spd-no-groko-a-7077dcca-4b8b-449e-a5fe-896114bbc822#ref=rss)
+### ehemalige
 
-* [https://www.spiegel.de/panorama/gesellschaft/trennungskinder-drei-erwachsene-berichten-wie-der-krieg-im-elternhaus-sie-praegte](https://www.spiegel.de/panorama/gesellschaft/trennungskinder-drei-erwachsene-berichten-wie-der-krieg-im-elternhaus-sie-praegte-a-421dfa36-725f-4b44-b7b5-2493f47e83d8#ref=rss)
-* [https://www.spiegel.de/familie/familiengeschichte-dankbar-dass-mein-grossvater-den-rechtsruck-nicht-sah](https://www.spiegel.de/familie/familiengeschichte-dankbar-dass-mein-grossvater-den-rechtsruck-nicht-sah-a-f81b34a7-b054-4386-85ce-5ce82037b661#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-nach-dem-sturz-von-baschar-al-assad-caesars-beweise-aus-den-todesgefaengnissen](https://www.spiegel.de/ausland/syrien-nach-dem-sturz-von-baschar-al-assad-caesars-beweise-aus-den-todesgefaengnissen-a-692e68e3-2a4f-4027-8267-1bd7b02c6a62#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/internationaler-frauentag-so-wird-auf-der-ganzen-welt-fuer-mehr-gleichberechtigung-demonstriert](https://www.spiegel.de/panorama/gesellschaft/internationaler-frauentag-so-wird-auf-der-ganzen-welt-fuer-mehr-gleichberechtigung-demonstriert-a-b019eb8e-d181-4dbe-aa87-ec6be7c8444e#ref=rss)
-### zwei
+* [https://www.spiegel.de/ausland/syrien-ehemalige-assad-anhaenger-liefern-sich-gefechte-mit-sunnitischen-kaempfern-ein-neuer-buergerkrieg-droht](https://www.spiegel.de/ausland/syrien-ehemalige-assad-anhaenger-liefern-sich-gefechte-mit-sunnitischen-kaempfern-ein-neuer-buergerkrieg-droht-a-e9dc7370-85f8-4e22-98ad-598b63a36795#ref=rss)
+* [https://www.spiegel.de/politik/horst-seehofer-wirft-union-wegen-neuer-schulden-wortbruch-vor](https://www.spiegel.de/politik/horst-seehofer-wirft-union-wegen-neuer-schulden-wortbruch-vor-a-9082ef77-2182-47c0-902c-6566b04a768e#ref=rss)
+### neuer
 
-* [https://www.spiegel.de/ausland/syrien-nach-dem-sturz-von-baschar-al-assad-caesars-beweise-aus-den-todesgefaengnissen](https://www.spiegel.de/ausland/syrien-nach-dem-sturz-von-baschar-al-assad-caesars-beweise-aus-den-todesgefaengnissen-a-692e68e3-2a4f-4027-8267-1bd7b02c6a62#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/schweizer-polizei-rettet-zwei-in-schlieren-entfuehrte-bolonka-hunde](https://www.spiegel.de/panorama/justiz/schweizer-polizei-rettet-zwei-in-schlieren-entfuehrte-bolonka-hunde-a-37d29b05-4965-4cab-a332-cc463ec1c532#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/colonia-dignidad-die-muehsame-aufarbeitung-der-verbrechen](https://www.spiegel.de/politik/deutschland/colonia-dignidad-die-muehsame-aufarbeitung-der-verbrechen-a-27e6060e-9b44-4da2-b55d-7e924b451f43#ref=rss)
-### neue
+* [https://www.spiegel.de/ausland/syrien-ehemalige-assad-anhaenger-liefern-sich-gefechte-mit-sunnitischen-kaempfern-ein-neuer-buergerkrieg-droht](https://www.spiegel.de/ausland/syrien-ehemalige-assad-anhaenger-liefern-sich-gefechte-mit-sunnitischen-kaempfern-ein-neuer-buergerkrieg-droht-a-e9dc7370-85f8-4e22-98ad-598b63a36795#ref=rss)
+* [https://www.spiegel.de/politik/horst-seehofer-wirft-union-wegen-neuer-schulden-wortbruch-vor](https://www.spiegel.de/politik/horst-seehofer-wirft-union-wegen-neuer-schulden-wortbruch-vor-a-9082ef77-2182-47c0-902c-6566b04a768e#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/politik/deutschland/sondierungen-worauf-sich-union-und-spd-geeinigt-haben](https://www.spiegel.de/politik/deutschland/sondierungen-worauf-sich-union-und-spd-geeinigt-haben-a-20f548b0-be4a-4051-9888-554640034ecd#ref=rss)
-* [https://www.spiegel.de/ausland/oesterreich-was-das-neue-dreierbuendnis-plant-podcast](https://www.spiegel.de/ausland/oesterreich-was-das-neue-dreierbuendnis-plant-podcast-a-04983c0d-6251-4eeb-b893-fbb62729b719#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-seine-zoelle-die-eu-muss-einen-grossen-handelskrieg-unbedingt-vermeiden](https://www.spiegel.de/wirtschaft/donald-trump-und-seine-zoelle-die-eu-muss-einen-grossen-handelskrieg-unbedingt-vermeiden-a-ee745192-7e4a-4ca1-8fa3-3adeea08bd9c#ref=rss)
-### ukraine
+* [https://www.spiegel.de/wirtschaft/deutsche-post-anzahl-der-beschwerden-zu-briefen-und-paketen-steigt-auf-hoechstwert](https://www.spiegel.de/wirtschaft/deutsche-post-anzahl-der-beschwerden-zu-briefen-und-paketen-steigt-auf-hoechstwert-a-cf5b027f-2aea-4676-afdc-100b58f8efdf#ref=rss)
+* [https://www.spiegel.de/auto/deutsche-bahn-zahlte-2024-fahrgaesten-197-millionen-euro-wegen-verspaetungen](https://www.spiegel.de/auto/deutsche-bahn-zahlte-2024-fahrgaesten-197-millionen-euro-wegen-verspaetungen-a-c96b154a-29dc-4307-bbdf-17e85e2e36ab#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sondierungen-von-cdu-csu-und-spd-no-groko](https://www.spiegel.de/politik/deutschland/sondierungen-von-cdu-csu-und-spd-no-groko-a-7077dcca-4b8b-449e-a5fe-896114bbc822#ref=rss)
+### post
 
-* [https://www.spiegel.de/ausland/ukraine-es-wird-dann-unwahrscheinlich-dass-das-land-noch-einen-kriegswinter-uebersteht](https://www.spiegel.de/ausland/ukraine-es-wird-dann-unwahrscheinlich-dass-das-land-noch-einen-kriegswinter-uebersteht-a-1e33a3d7-fa0f-4ca7-8176-68f765669e70#ref=rss)
-* [https://www.spiegel.de/ausland/selenskyj-fordert-haertere-sanktionen-gegen-russland](https://www.spiegel.de/ausland/selenskyj-fordert-haertere-sanktionen-gegen-russland-a-6ae89fc0-2789-433f-9c64-b36b8488809c#ref=rss)
-### trump
+* [https://www.spiegel.de/wirtschaft/deutsche-post-anzahl-der-beschwerden-zu-briefen-und-paketen-steigt-auf-hoechstwert](https://www.spiegel.de/wirtschaft/deutsche-post-anzahl-der-beschwerden-zu-briefen-und-paketen-steigt-auf-hoechstwert-a-cf5b027f-2aea-4676-afdc-100b58f8efdf#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/hass-auf-elon-musk-tesla-gegner-in-den-usa-greifen-mit-gewehren-und-molotowcocktails-an](https://www.spiegel.de/wirtschaft/unternehmen/hass-auf-elon-musk-tesla-gegner-in-den-usa-greifen-mit-gewehren-und-molotowcocktails-an-a-0e5d76e1-1bdb-43d3-a0d5-9d519f2ed2b1#ref=rss)
+* [https://www.spiegel.de/ausland/iran-regierung-will-keinen-brief-von-donald-trump-erhalten-haben](https://www.spiegel.de/ausland/iran-regierung-will-keinen-brief-von-donald-trump-erhalten-haben-a-82a4567e-6bd9-4c98-9983-4ce8c70cf121#ref=rss)
+### 2024
 
-* [https://www.spiegel.de/ausland/ukraine-es-wird-dann-unwahrscheinlich-dass-das-land-noch-einen-kriegswinter-uebersteht](https://www.spiegel.de/ausland/ukraine-es-wird-dann-unwahrscheinlich-dass-das-land-noch-einen-kriegswinter-uebersteht-a-1e33a3d7-fa0f-4ca7-8176-68f765669e70#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-seine-zoelle-die-eu-muss-einen-grossen-handelskrieg-unbedingt-vermeiden](https://www.spiegel.de/wirtschaft/donald-trump-und-seine-zoelle-die-eu-muss-einen-grossen-handelskrieg-unbedingt-vermeiden-a-ee745192-7e4a-4ca1-8fa3-3adeea08bd9c#ref=rss)
-* [https://www.spiegel.de/ausland/london-mann-klettert-auf-big-ben-mit-pro-palaestina-aktion](https://www.spiegel.de/ausland/london-mann-klettert-auf-big-ben-mit-pro-palaestina-aktion-a-edfe9b96-4b1a-4206-8168-c74a694eb0ae#ref=rss)
-### trondheim
-
-* [https://www.spiegel.de/sport/wintersport/nordische-ski-wm-in-trondheim-skispringen-endet-im-chaos-norweger-disqualifiziert](https://www.spiegel.de/sport/wintersport/nordische-ski-wm-in-trondheim-skispringen-endet-im-chaos-norweger-disqualifiziert-a-2c15160e-b8f9-406f-9078-0c3a26461415#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/vinzenz-geiger-kombinierer-geiger-holt-bronze-bei-nordischer-ski-wm-in-trondheim](https://www.spiegel.de/sport/wintersport/vinzenz-geiger-kombinierer-geiger-holt-bronze-bei-nordischer-ski-wm-in-trondheim-a-345a6a25-9846-4ea9-a0c7-ec89f31823b7#ref=rss)
-### sondierungspapier
-
-* [https://www.spiegel.de/politik/deutschland/cdu-wirtschaftsfluegel-und-spd-linke-loben-sondierungspapier](https://www.spiegel.de/politik/deutschland/cdu-wirtschaftsfluegel-und-spd-linke-loben-sondierungspapier-a-220b6656-01f3-4bf6-bbe8-2aa7f296a988#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sondierungen-worauf-sich-union-und-spd-geeinigt-haben](https://www.spiegel.de/politik/deutschland/sondierungen-worauf-sich-union-und-spd-geeinigt-haben-a-20f548b0-be4a-4051-9888-554640034ecd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-fahrplan-fuer-schwarz-rot-so-geht-es-jetzt-weiter](https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-fahrplan-fuer-schwarz-rot-so-geht-es-jetzt-weiter-a-5f446633-bbfb-4a40-bdab-4456fe4b8b72#ref=rss)
-### pläne
-
-* [https://www.spiegel.de/politik/deutschland/cdu-wirtschaftsfluegel-und-spd-linke-loben-sondierungspapier](https://www.spiegel.de/politik/deutschland/cdu-wirtschaftsfluegel-und-spd-linke-loben-sondierungspapier-a-220b6656-01f3-4bf6-bbe8-2aa7f296a988#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sondierungen-worauf-sich-union-und-spd-geeinigt-haben](https://www.spiegel.de/politik/deutschland/sondierungen-worauf-sich-union-und-spd-geeinigt-haben-a-20f548b0-be4a-4051-9888-554640034ecd#ref=rss)
-* [https://www.spiegel.de/ausland/schottland-propalaestinensische-aktivisten-beschaedigen-donald-trumps-golfklub](https://www.spiegel.de/ausland/schottland-propalaestinensische-aktivisten-beschaedigen-donald-trumps-golfklub-a-627090b2-effd-442d-92f4-420b0094991b#ref=rss)
-### weg
-
-* [https://www.spiegel.de/kultur/geigerin-maria-duenas-tanz-den-paganini](https://www.spiegel.de/kultur/geigerin-maria-duenas-tanz-den-paganini-a-42a45b0a-da01-463b-9aa0-49833b86ab20#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-wollen-in-koalitionsverhandlungen-einsteigen](https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-wollen-in-koalitionsverhandlungen-einsteigen-a-d8d6693c-ad7e-401e-9319-39d74d534cd0#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-berlin-london-paris-und-rom-begruessen-arabischen-gazaplan](https://www.spiegel.de/ausland/israel-gaza-krieg-berlin-london-paris-und-rom-begruessen-arabischen-gazaplan-a-d541fd02-603d-4eb9-ba0d-109b579d8020#ref=rss)
-### schottland
-
-* [https://www.spiegel.de/ausland/schottland-propalaestinensische-aktivisten-beschaedigen-donald-trumps-golfklub](https://www.spiegel.de/ausland/schottland-propalaestinensische-aktivisten-beschaedigen-donald-trumps-golfklub-a-627090b2-effd-442d-92f4-420b0094991b#ref=rss)
-* [https://www.spiegel.de/ausland/london-mann-klettert-auf-big-ben-mit-pro-palaestina-aktion](https://www.spiegel.de/ausland/london-mann-klettert-auf-big-ben-mit-pro-palaestina-aktion-a-edfe9b96-4b1a-4206-8168-c74a694eb0ae#ref=rss)
-### geiger
-
-* [https://www.spiegel.de/sport/wintersport/vinzenz-geiger-kombinierer-geiger-holt-bronze-bei-nordischer-ski-wm-in-trondheim](https://www.spiegel.de/sport/wintersport/vinzenz-geiger-kombinierer-geiger-holt-bronze-bei-nordischer-ski-wm-in-trondheim-a-345a6a25-9846-4ea9-a0c7-ec89f31823b7#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/panorama/gesellschaft/internationaler-frauentag-so-wird-auf-der-ganzen-welt-fuer-mehr-gleichberechtigung-demonstriert](https://www.spiegel.de/panorama/gesellschaft/internationaler-frauentag-so-wird-auf-der-ganzen-welt-fuer-mehr-gleichberechtigung-demonstriert-a-b019eb8e-d181-4dbe-aa87-ec6be7c8444e#ref=rss)
-* [https://www.spiegel.de/familie/mental-load-und-emotional-load-viele-frauen-haben-nicht-gelernt-gesunde-grenzen-zu-setzen](https://www.spiegel.de/familie/mental-load-und-emotional-load-viele-frauen-haben-nicht-gelernt-gesunde-grenzen-zu-setzen-a-39422d02-d7d1-481c-9cb8-52fd75bf8c66#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/justiz/schweizer-polizei-rettet-zwei-in-schlieren-entfuehrte-bolonka-hunde](https://www.spiegel.de/panorama/justiz/schweizer-polizei-rettet-zwei-in-schlieren-entfuehrte-bolonka-hunde-a-37d29b05-4965-4cab-a332-cc463ec1c532#ref=rss)
-* [https://www.spiegel.de/ausland/london-mann-klettert-auf-big-ben-mit-pro-palaestina-aktion](https://www.spiegel.de/ausland/london-mann-klettert-auf-big-ben-mit-pro-palaestina-aktion-a-edfe9b96-4b1a-4206-8168-c74a694eb0ae#ref=rss)
-### load
-
-* [https://www.spiegel.de/familie/mental-load-und-emotional-load-viele-frauen-haben-nicht-gelernt-gesunde-grenzen-zu-setzen](https://www.spiegel.de/familie/mental-load-und-emotional-load-viele-frauen-haben-nicht-gelernt-gesunde-grenzen-zu-setzen-a-39422d02-d7d1-481c-9cb8-52fd75bf8c66#ref=rss)
-### big
-
-* [https://www.spiegel.de/sport/eishockey/eishockey-duesseldorfs-abstieg-wie-geht-es-weiter-fuer-die-deg](https://www.spiegel.de/sport/eishockey/eishockey-duesseldorfs-abstieg-wie-geht-es-weiter-fuer-die-deg-a-f8e1232f-752f-46a6-8798-dc4f81fbed5b#ref=rss)
-* [https://www.spiegel.de/ausland/london-mann-klettert-auf-big-ben-mit-pro-palaestina-aktion](https://www.spiegel.de/ausland/london-mann-klettert-auf-big-ben-mit-pro-palaestina-aktion-a-edfe9b96-4b1a-4206-8168-c74a694eb0ae#ref=rss)
-### london
-
-* [https://www.spiegel.de/ausland/london-mann-klettert-auf-big-ben-mit-pro-palaestina-aktion](https://www.spiegel.de/ausland/london-mann-klettert-auf-big-ben-mit-pro-palaestina-aktion-a-edfe9b96-4b1a-4206-8168-c74a694eb0ae#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-berlin-london-paris-und-rom-begruessen-arabischen-gazaplan](https://www.spiegel.de/ausland/israel-gaza-krieg-berlin-london-paris-und-rom-begruessen-arabischen-gazaplan-a-d541fd02-603d-4eb9-ba0d-109b579d8020#ref=rss)
-### land
-
-* [https://www.spiegel.de/ausland/ukraine-es-wird-dann-unwahrscheinlich-dass-das-land-noch-einen-kriegswinter-uebersteht](https://www.spiegel.de/ausland/ukraine-es-wird-dann-unwahrscheinlich-dass-das-land-noch-einen-kriegswinter-uebersteht-a-1e33a3d7-fa0f-4ca7-8176-68f765669e70#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-wirtschaftsfluegel-und-spd-linke-loben-sondierungspapier](https://www.spiegel.de/politik/deutschland/cdu-wirtschaftsfluegel-und-spd-linke-loben-sondierungspapier-a-220b6656-01f3-4bf6-bbe8-2aa7f296a988#ref=rss)
-### könne
-
-* [https://www.spiegel.de/ausland/ukraine-es-wird-dann-unwahrscheinlich-dass-das-land-noch-einen-kriegswinter-uebersteht](https://www.spiegel.de/ausland/ukraine-es-wird-dann-unwahrscheinlich-dass-das-land-noch-einen-kriegswinter-uebersteht-a-1e33a3d7-fa0f-4ca7-8176-68f765669e70#ref=rss)
-* [https://www.spiegel.de/panorama/waldbraende-in-deutschland-gefahr-steigt-an-diesem-wochenende](https://www.spiegel.de/panorama/waldbraende-in-deutschland-gefahr-steigt-an-diesem-wochenende-a-9ec56b1f-5ea4-486e-b016-7bf4e2592fbc#ref=rss)
-### norweger
-
-* [https://www.spiegel.de/sport/wintersport/nordische-ski-wm-in-trondheim-skispringen-endet-im-chaos-norweger-disqualifiziert](https://www.spiegel.de/sport/wintersport/nordische-ski-wm-in-trondheim-skispringen-endet-im-chaos-norweger-disqualifiziert-a-2c15160e-b8f9-406f-9078-0c3a26461415#ref=rss)
-### fußballbundesliga
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayern-muenchen-bayer-leverkusen-und-borussia-dortmund-verlieren-allesamt-am-25-spieltag](https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayern-muenchen-bayer-leverkusen-und-borussia-dortmund-verlieren-allesamt-am-25-spieltag-a-abbc38ee-6ec0-4604-8e23-d0a6033e276c#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-schlaegt-hertha-bsc-1-fc-koeln-gewinnt-beim-ssv-ulm](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-schlaegt-hertha-bsc-1-fc-koeln-gewinnt-beim-ssv-ulm-a-121d365f-6d03-4735-bec9-944bbda5192e#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayern-muenchen-bayer-leverkusen-und-borussia-dortmund-verlieren-allesamt-am-25-spieltag](https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayern-muenchen-bayer-leverkusen-und-borussia-dortmund-verlieren-allesamt-am-25-spieltag-a-abbc38ee-6ec0-4604-8e23-d0a6033e276c#ref=rss)
-### leverkusen
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayern-muenchen-bayer-leverkusen-und-borussia-dortmund-verlieren-allesamt-am-25-spieltag](https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayern-muenchen-bayer-leverkusen-und-borussia-dortmund-verlieren-allesamt-am-25-spieltag-a-abbc38ee-6ec0-4604-8e23-d0a6033e276c#ref=rss)
-### borussia
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayern-muenchen-bayer-leverkusen-und-borussia-dortmund-verlieren-allesamt-am-25-spieltag](https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayern-muenchen-bayer-leverkusen-und-borussia-dortmund-verlieren-allesamt-am-25-spieltag-a-abbc38ee-6ec0-4604-8e23-d0a6033e276c#ref=rss)
-### dortmund
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayern-muenchen-bayer-leverkusen-und-borussia-dortmund-verlieren-allesamt-am-25-spieltag](https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayern-muenchen-bayer-leverkusen-und-borussia-dortmund-verlieren-allesamt-am-25-spieltag-a-abbc38ee-6ec0-4604-8e23-d0a6033e276c#ref=rss)
-### wo
-
-* [https://www.spiegel.de/politik/deutschland/wo-die-spd-sich-durchgesetzt-hat-und-wo-die-union](https://www.spiegel.de/politik/deutschland/wo-die-spd-sich-durchgesetzt-hat-und-wo-die-union-a-aa25528e-a27e-4784-bd4b-166ad3c998c7#ref=rss)
-### koalitionsverhandlungen
-
-* [https://www.spiegel.de/politik/deutschland/wo-die-spd-sich-durchgesetzt-hat-und-wo-die-union](https://www.spiegel.de/politik/deutschland/wo-die-spd-sich-durchgesetzt-hat-und-wo-die-union-a-aa25528e-a27e-4784-bd4b-166ad3c998c7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-wollen-in-koalitionsverhandlungen-einsteigen](https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-wollen-in-koalitionsverhandlungen-einsteigen-a-d8d6693c-ad7e-401e-9319-39d74d534cd0#ref=rss)
-### einsteigen
-
-* [https://www.spiegel.de/politik/deutschland/wo-die-spd-sich-durchgesetzt-hat-und-wo-die-union](https://www.spiegel.de/politik/deutschland/wo-die-spd-sich-durchgesetzt-hat-und-wo-die-union-a-aa25528e-a27e-4784-bd4b-166ad3c998c7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-wollen-in-koalitionsverhandlungen-einsteigen](https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-wollen-in-koalitionsverhandlungen-einsteigen-a-d8d6693c-ad7e-401e-9319-39d74d534cd0#ref=rss)
-### arbeit
-
-* [https://www.spiegel.de/politik/deutschland/wo-die-spd-sich-durchgesetzt-hat-und-wo-die-union](https://www.spiegel.de/politik/deutschland/wo-die-spd-sich-durchgesetzt-hat-und-wo-die-union-a-aa25528e-a27e-4784-bd4b-166ad3c998c7#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-nach-dem-sturz-von-baschar-al-assad-caesars-beweise-aus-den-todesgefaengnissen](https://www.spiegel.de/ausland/syrien-nach-dem-sturz-von-baschar-al-assad-caesars-beweise-aus-den-todesgefaengnissen-a-692e68e3-2a4f-4027-8267-1bd7b02c6a62#ref=rss)
-### trennungskinder
-
-* [https://www.spiegel.de/panorama/gesellschaft/trennungskinder-drei-erwachsene-berichten-wie-der-krieg-im-elternhaus-sie-praegte](https://www.spiegel.de/panorama/gesellschaft/trennungskinder-drei-erwachsene-berichten-wie-der-krieg-im-elternhaus-sie-praegte-a-421dfa36-725f-4b44-b7b5-2493f47e83d8#ref=rss)
-### erwachsene
-
-* [https://www.spiegel.de/panorama/gesellschaft/trennungskinder-drei-erwachsene-berichten-wie-der-krieg-im-elternhaus-sie-praegte](https://www.spiegel.de/panorama/gesellschaft/trennungskinder-drei-erwachsene-berichten-wie-der-krieg-im-elternhaus-sie-praegte-a-421dfa36-725f-4b44-b7b5-2493f47e83d8#ref=rss)
-### berichten
-
-* [https://www.spiegel.de/panorama/gesellschaft/trennungskinder-drei-erwachsene-berichten-wie-der-krieg-im-elternhaus-sie-praegte](https://www.spiegel.de/panorama/gesellschaft/trennungskinder-drei-erwachsene-berichten-wie-der-krieg-im-elternhaus-sie-praegte-a-421dfa36-725f-4b44-b7b5-2493f47e83d8#ref=rss)
-* [https://www.spiegel.de/reise/housesitting-drei-housesitterinnen-berichten-von-ihren-erfahrungen](https://www.spiegel.de/reise/housesitting-drei-housesitterinnen-berichten-von-ihren-erfahrungen-a-87e243f1-18cf-4b54-b5b4-c9ff1045db45#ref=rss)
-### krieg
-
-* [https://www.spiegel.de/panorama/gesellschaft/trennungskinder-drei-erwachsene-berichten-wie-der-krieg-im-elternhaus-sie-praegte](https://www.spiegel.de/panorama/gesellschaft/trennungskinder-drei-erwachsene-berichten-wie-der-krieg-im-elternhaus-sie-praegte-a-421dfa36-725f-4b44-b7b5-2493f47e83d8#ref=rss)
-### elternhaus
-
-* [https://www.spiegel.de/panorama/gesellschaft/trennungskinder-drei-erwachsene-berichten-wie-der-krieg-im-elternhaus-sie-praegte](https://www.spiegel.de/panorama/gesellschaft/trennungskinder-drei-erwachsene-berichten-wie-der-krieg-im-elternhaus-sie-praegte-a-421dfa36-725f-4b44-b7b5-2493f47e83d8#ref=rss)
-### prägte
-
-* [https://www.spiegel.de/panorama/gesellschaft/trennungskinder-drei-erwachsene-berichten-wie-der-krieg-im-elternhaus-sie-praegte](https://www.spiegel.de/panorama/gesellschaft/trennungskinder-drei-erwachsene-berichten-wie-der-krieg-im-elternhaus-sie-praegte-a-421dfa36-725f-4b44-b7b5-2493f47e83d8#ref=rss)
-### sprechen
-
-* [https://www.spiegel.de/panorama/gesellschaft/trennungskinder-drei-erwachsene-berichten-wie-der-krieg-im-elternhaus-sie-praegte](https://www.spiegel.de/panorama/gesellschaft/trennungskinder-drei-erwachsene-berichten-wie-der-krieg-im-elternhaus-sie-praegte-a-421dfa36-725f-4b44-b7b5-2493f47e83d8#ref=rss)
-* [https://www.spiegel.de/reise/housesitting-drei-housesitterinnen-berichten-von-ihren-erfahrungen](https://www.spiegel.de/reise/housesitting-drei-housesitterinnen-berichten-von-ihren-erfahrungen-a-87e243f1-18cf-4b54-b5b4-c9ff1045db45#ref=rss)
-### geeinigt
-
-* [https://www.spiegel.de/politik/deutschland/cdu-wirtschaftsfluegel-und-spd-linke-loben-sondierungspapier](https://www.spiegel.de/politik/deutschland/cdu-wirtschaftsfluegel-und-spd-linke-loben-sondierungspapier-a-220b6656-01f3-4bf6-bbe8-2aa7f296a988#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sondierungen-worauf-sich-union-und-spd-geeinigt-haben](https://www.spiegel.de/politik/deutschland/sondierungen-worauf-sich-union-und-spd-geeinigt-haben-a-20f548b0-be4a-4051-9888-554640034ecd#ref=rss)
-### wichtige
-
-* [https://www.spiegel.de/politik/deutschland/cdu-wirtschaftsfluegel-und-spd-linke-loben-sondierungspapier](https://www.spiegel.de/politik/deutschland/cdu-wirtschaftsfluegel-und-spd-linke-loben-sondierungspapier-a-220b6656-01f3-4bf6-bbe8-2aa7f296a988#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-wollen-in-koalitionsverhandlungen-einsteigen](https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-wollen-in-koalitionsverhandlungen-einsteigen-a-d8d6693c-ad7e-401e-9319-39d74d534cd0#ref=rss)
-### großvater
-
-* [https://www.spiegel.de/familie/familiengeschichte-dankbar-dass-mein-grossvater-den-rechtsruck-nicht-sah](https://www.spiegel.de/familie/familiengeschichte-dankbar-dass-mein-grossvater-den-rechtsruck-nicht-sah-a-f81b34a7-b054-4386-85ce-5ce82037b661#ref=rss)
-### ich
-
-* [https://www.spiegel.de/familie/familiengeschichte-dankbar-dass-mein-grossvater-den-rechtsruck-nicht-sah](https://www.spiegel.de/familie/familiengeschichte-dankbar-dass-mein-grossvater-den-rechtsruck-nicht-sah-a-f81b34a7-b054-4386-85ce-5ce82037b661#ref=rss)
-### geigerin
-
-* [https://www.spiegel.de/kultur/geigerin-maria-duenas-tanz-den-paganini](https://www.spiegel.de/kultur/geigerin-maria-duenas-tanz-den-paganini-a-42a45b0a-da01-463b-9aa0-49833b86ab20#ref=rss)
-### beweise
-
-* [https://www.spiegel.de/ausland/syrien-nach-dem-sturz-von-baschar-al-assad-caesars-beweise-aus-den-todesgefaengnissen](https://www.spiegel.de/ausland/syrien-nach-dem-sturz-von-baschar-al-assad-caesars-beweise-aus-den-todesgefaengnissen-a-692e68e3-2a4f-4027-8267-1bd7b02c6a62#ref=rss)
-### wichtigsten
-
-* [https://www.spiegel.de/ausland/syrien-nach-dem-sturz-von-baschar-al-assad-caesars-beweise-aus-den-todesgefaengnissen](https://www.spiegel.de/ausland/syrien-nach-dem-sturz-von-baschar-al-assad-caesars-beweise-aus-den-todesgefaengnissen-a-692e68e3-2a4f-4027-8267-1bd7b02c6a62#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sondierungen-worauf-sich-union-und-spd-geeinigt-haben](https://www.spiegel.de/politik/deutschland/sondierungen-worauf-sich-union-und-spd-geeinigt-haben-a-20f548b0-be4a-4051-9888-554640034ecd#ref=rss)
-### sondierungen
-
-* [https://www.spiegel.de/politik/deutschland/sondierungen-worauf-sich-union-und-spd-geeinigt-haben](https://www.spiegel.de/politik/deutschland/sondierungen-worauf-sich-union-und-spd-geeinigt-haben-a-20f548b0-be4a-4051-9888-554640034ecd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-wollen-in-koalitionsverhandlungen-einsteigen](https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-wollen-in-koalitionsverhandlungen-einsteigen-a-d8d6693c-ad7e-401e-9319-39d74d534cd0#ref=rss)
-### worauf
-
-* [https://www.spiegel.de/politik/deutschland/sondierungen-worauf-sich-union-und-spd-geeinigt-haben](https://www.spiegel.de/politik/deutschland/sondierungen-worauf-sich-union-und-spd-geeinigt-haben-a-20f548b0-be4a-4051-9888-554640034ecd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-fahrplan-fuer-schwarz-rot-so-geht-es-jetzt-weiter](https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-fahrplan-fuer-schwarz-rot-so-geht-es-jetzt-weiter-a-5f446633-bbfb-4a40-bdab-4456fe4b8b72#ref=rss)
-### erste
-
-* [https://www.spiegel.de/politik/deutschland/sondierungen-worauf-sich-union-und-spd-geeinigt-haben](https://www.spiegel.de/politik/deutschland/sondierungen-worauf-sich-union-und-spd-geeinigt-haben-a-20f548b0-be4a-4051-9888-554640034ecd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-wollen-in-koalitionsverhandlungen-einsteigen](https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-wollen-in-koalitionsverhandlungen-einsteigen-a-d8d6693c-ad7e-401e-9319-39d74d534cd0#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/politik/deutschland/sondierungen-worauf-sich-union-und-spd-geeinigt-haben](https://www.spiegel.de/politik/deutschland/sondierungen-worauf-sich-union-und-spd-geeinigt-haben-a-20f548b0-be4a-4051-9888-554640034ecd#ref=rss)
-* [https://www.spiegel.de/ausland/oesterreich-was-das-neue-dreierbuendnis-plant-podcast](https://www.spiegel.de/ausland/oesterreich-was-das-neue-dreierbuendnis-plant-podcast-a-04983c0d-6251-4eeb-b893-fbb62729b719#ref=rss)
-### schwarzroten
-
-* [https://www.spiegel.de/politik/deutschland/sondierungen-worauf-sich-union-und-spd-geeinigt-haben](https://www.spiegel.de/politik/deutschland/sondierungen-worauf-sich-union-und-spd-geeinigt-haben-a-20f548b0-be4a-4051-9888-554640034ecd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-wollen-in-koalitionsverhandlungen-einsteigen](https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-wollen-in-koalitionsverhandlungen-einsteigen-a-d8d6693c-ad7e-401e-9319-39d74d534cd0#ref=rss)
-### überblick
-
-* [https://www.spiegel.de/politik/deutschland/sondierungen-worauf-sich-union-und-spd-geeinigt-haben](https://www.spiegel.de/politik/deutschland/sondierungen-worauf-sich-union-und-spd-geeinigt-haben-a-20f548b0-be4a-4051-9888-554640034ecd#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/internationaler-frauentag-so-wird-auf-der-ganzen-welt-fuer-mehr-gleichberechtigung-demonstriert](https://www.spiegel.de/panorama/gesellschaft/internationaler-frauentag-so-wird-auf-der-ganzen-welt-fuer-mehr-gleichberechtigung-demonstriert-a-b019eb8e-d181-4dbe-aa87-ec6be7c8444e#ref=rss)
-### propalästinensische
-
-* [https://www.spiegel.de/ausland/schottland-propalaestinensische-aktivisten-beschaedigen-donald-trumps-golfklub](https://www.spiegel.de/ausland/schottland-propalaestinensische-aktivisten-beschaedigen-donald-trumps-golfklub-a-627090b2-effd-442d-92f4-420b0094991b#ref=rss)
-### aktivisten
-
-* [https://www.spiegel.de/ausland/schottland-propalaestinensische-aktivisten-beschaedigen-donald-trumps-golfklub](https://www.spiegel.de/ausland/schottland-propalaestinensische-aktivisten-beschaedigen-donald-trumps-golfklub-a-627090b2-effd-442d-92f4-420b0094991b#ref=rss)
-### trumps
-
-* [https://www.spiegel.de/ausland/schottland-propalaestinensische-aktivisten-beschaedigen-donald-trumps-golfklub](https://www.spiegel.de/ausland/schottland-propalaestinensische-aktivisten-beschaedigen-donald-trumps-golfklub-a-627090b2-effd-442d-92f4-420b0094991b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-post-anzahl-der-beschwerden-zu-briefen-und-paketen-steigt-auf-hoechstwert](https://www.spiegel.de/wirtschaft/deutsche-post-anzahl-der-beschwerden-zu-briefen-und-paketen-steigt-auf-hoechstwert-a-cf5b027f-2aea-4676-afdc-100b58f8efdf#ref=rss)
+* [https://www.spiegel.de/auto/deutsche-bahn-zahlte-2024-fahrgaesten-197-millionen-euro-wegen-verspaetungen](https://www.spiegel.de/auto/deutsche-bahn-zahlte-2024-fahrgaesten-197-millionen-euro-wegen-verspaetungen-a-c96b154a-29dc-4307-bbdf-17e85e2e36ab#ref=rss)
 ### waren
 
-* [https://www.spiegel.de/ausland/schottland-propalaestinensische-aktivisten-beschaedigen-donald-trumps-golfklub](https://www.spiegel.de/ausland/schottland-propalaestinensische-aktivisten-beschaedigen-donald-trumps-golfklub-a-627090b2-effd-442d-92f4-420b0094991b#ref=rss)
-* [https://www.spiegel.de/sport/eishockey/eishockey-duesseldorfs-abstieg-wie-geht-es-weiter-fuer-die-deg](https://www.spiegel.de/sport/eishockey/eishockey-duesseldorfs-abstieg-wie-geht-es-weiter-fuer-die-deg-a-f8e1232f-752f-46a6-8798-dc4f81fbed5b#ref=rss)
-### liegt
+* [https://www.spiegel.de/wirtschaft/deutsche-post-anzahl-der-beschwerden-zu-briefen-und-paketen-steigt-auf-hoechstwert](https://www.spiegel.de/wirtschaft/deutsche-post-anzahl-der-beschwerden-zu-briefen-und-paketen-steigt-auf-hoechstwert-a-cf5b027f-2aea-4676-afdc-100b58f8efdf#ref=rss)
+* [https://www.spiegel.de/panorama/leute/chuck-norris-wird-85-die-besten-sprueche](https://www.spiegel.de/panorama/leute/chuck-norris-wird-85-die-besten-sprueche-a-3bb6574d-06b1-4298-9a5f-de451a706ab0#ref=rss)
+* [https://www.spiegel.de/sport/fussball/spanien-fc-barcelona-sagt-nach-tod-des-teamarztes-liga-spiel-ab](https://www.spiegel.de/sport/fussball/spanien-fc-barcelona-sagt-nach-tod-des-teamarztes-liga-spiel-ab-a-192b3fe6-fac5-4cf2-9627-1baab2215f1c#ref=rss)
+### kam
 
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-fahrplan-fuer-schwarz-rot-so-geht-es-jetzt-weiter](https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-fahrplan-fuer-schwarz-rot-so-geht-es-jetzt-weiter-a-5f446633-bbfb-4a40-bdab-4456fe4b8b72#ref=rss)
-* [https://www.spiegel.de/familie/mental-load-und-emotional-load-viele-frauen-haben-nicht-gelernt-gesunde-grenzen-zu-setzen](https://www.spiegel.de/familie/mental-load-und-emotional-load-viele-frauen-haben-nicht-gelernt-gesunde-grenzen-zu-setzen-a-39422d02-d7d1-481c-9cb8-52fd75bf8c66#ref=rss)
-### bundesregierung
+* [https://www.spiegel.de/wirtschaft/unternehmen/hass-auf-elon-musk-tesla-gegner-in-den-usa-greifen-mit-gewehren-und-molotowcocktails-an](https://www.spiegel.de/wirtschaft/unternehmen/hass-auf-elon-musk-tesla-gegner-in-den-usa-greifen-mit-gewehren-und-molotowcocktails-an-a-0e5d76e1-1bdb-43d3-a0d5-9d519f2ed2b1#ref=rss)
+* [https://www.spiegel.de/panorama/leute/chuck-norris-wird-85-die-besten-sprueche](https://www.spiegel.de/panorama/leute/chuck-norris-wird-85-die-besten-sprueche-a-3bb6574d-06b1-4298-9a5f-de451a706ab0#ref=rss)
+* [https://www.spiegel.de/sport/fussball/spanien-fc-barcelona-sagt-nach-tod-des-teamarztes-liga-spiel-ab](https://www.spiegel.de/sport/fussball/spanien-fc-barcelona-sagt-nach-tod-des-teamarztes-liga-spiel-ab-a-192b3fe6-fac5-4cf2-9627-1baab2215f1c#ref=rss)
+### gut
 
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-fahrplan-fuer-schwarz-rot-so-geht-es-jetzt-weiter](https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-fahrplan-fuer-schwarz-rot-so-geht-es-jetzt-weiter-a-5f446633-bbfb-4a40-bdab-4456fe4b8b72#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-wollen-in-koalitionsverhandlungen-einsteigen](https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-wollen-in-koalitionsverhandlungen-einsteigen-a-d8d6693c-ad7e-401e-9319-39d74d534cd0#ref=rss)
-### österreich
+* [https://www.spiegel.de/panorama/leute/chuck-norris-wird-85-die-besten-sprueche](https://www.spiegel.de/panorama/leute/chuck-norris-wird-85-die-besten-sprueche-a-3bb6574d-06b1-4298-9a5f-de451a706ab0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sondierungen-von-cdu-csu-und-spd-no-groko](https://www.spiegel.de/politik/deutschland/sondierungen-von-cdu-csu-und-spd-no-groko-a-7077dcca-4b8b-449e-a5fe-896114bbc822#ref=rss)
+* [https://www.spiegel.de/sport/fussball/bundesliga-sc-freiburg-mit-remis-gegen-rb-leipzig-noah-atubolu-stellt-rekord-auf](https://www.spiegel.de/sport/fussball/bundesliga-sc-freiburg-mit-remis-gegen-rb-leipzig-noah-atubolu-stellt-rekord-auf-a-84c261c3-90b2-4f9c-951c-78bdc4e14076#ref=rss)
+### sonntag
 
-* [https://www.spiegel.de/ausland/oesterreich-was-das-neue-dreierbuendnis-plant-podcast](https://www.spiegel.de/ausland/oesterreich-was-das-neue-dreierbuendnis-plant-podcast-a-04983c0d-6251-4eeb-b893-fbb62729b719#ref=rss)
-### herausforderungen
+* [https://www.spiegel.de/politik/horst-seehofer-wirft-union-wegen-neuer-schulden-wortbruch-vor](https://www.spiegel.de/politik/horst-seehofer-wirft-union-wegen-neuer-schulden-wortbruch-vor-a-9082ef77-2182-47c0-902c-6566b04a768e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-ist-ein-pharao-unserer-zeit](https://www.spiegel.de/politik/deutschland/news-donald-trump-ist-ein-pharao-unserer-zeit-a-9a7a99e6-1309-4cbb-93de-afb6ef3e6b50#ref=rss)
+* [https://www.spiegel.de/auto/deutsche-bahn-zahlte-2024-fahrgaesten-197-millionen-euro-wegen-verspaetungen](https://www.spiegel.de/auto/deutsche-bahn-zahlte-2024-fahrgaesten-197-millionen-euro-wegen-verspaetungen-a-c96b154a-29dc-4307-bbdf-17e85e2e36ab#ref=rss)
+### verdi
 
-* [https://www.spiegel.de/ausland/oesterreich-was-das-neue-dreierbuendnis-plant-podcast](https://www.spiegel.de/ausland/oesterreich-was-das-neue-dreierbuendnis-plant-podcast-a-04983c0d-6251-4eeb-b893-fbb62729b719#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-wollen-in-koalitionsverhandlungen-einsteigen](https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-wollen-in-koalitionsverhandlungen-einsteigen-a-d8d6693c-ad7e-401e-9319-39d74d534cd0#ref=rss)
-### housesitting
+* [https://www.spiegel.de/wirtschaft/flughafen-hamburg-ver-di-zieht-streik-unangekuendigt-vor-airport-helmut-schmidt-lahmgelegt](https://www.spiegel.de/wirtschaft/flughafen-hamburg-ver-di-zieht-streik-unangekuendigt-vor-airport-helmut-schmidt-lahmgelegt-a-3fb713c5-8d54-4f6a-96da-97d3d5e0d533#ref=rss)
+* [https://www.spiegel.de/reise/warnstreiks-an-flughaefen-was-reisende-jetzt-wissen-muessen](https://www.spiegel.de/reise/warnstreiks-an-flughaefen-was-reisende-jetzt-wissen-muessen-a-dd0764b7-f122-4ccc-a733-3198eb0df62f#ref=rss)
+### reisende
 
-* [https://www.spiegel.de/reise/housesitting-drei-housesitterinnen-berichten-von-ihren-erfahrungen](https://www.spiegel.de/reise/housesitting-drei-housesitterinnen-berichten-von-ihren-erfahrungen-a-87e243f1-18cf-4b54-b5b4-c9ff1045db45#ref=rss)
-### ganzen
+* [https://www.spiegel.de/wirtschaft/flughafen-hamburg-ver-di-zieht-streik-unangekuendigt-vor-airport-helmut-schmidt-lahmgelegt](https://www.spiegel.de/wirtschaft/flughafen-hamburg-ver-di-zieht-streik-unangekuendigt-vor-airport-helmut-schmidt-lahmgelegt-a-3fb713c5-8d54-4f6a-96da-97d3d5e0d533#ref=rss)
+* [https://www.spiegel.de/reise/warnstreiks-an-flughaefen-was-reisende-jetzt-wissen-muessen](https://www.spiegel.de/reise/warnstreiks-an-flughaefen-was-reisende-jetzt-wissen-muessen-a-dd0764b7-f122-4ccc-a733-3198eb0df62f#ref=rss)
+### mütter
 
-* [https://www.spiegel.de/reise/housesitting-drei-housesitterinnen-berichten-von-ihren-erfahrungen](https://www.spiegel.de/reise/housesitting-drei-housesitterinnen-berichten-von-ihren-erfahrungen-a-87e243f1-18cf-4b54-b5b4-c9ff1045db45#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/internationaler-frauentag-so-wird-auf-der-ganzen-welt-fuer-mehr-gleichberechtigung-demonstriert](https://www.spiegel.de/panorama/gesellschaft/internationaler-frauentag-so-wird-auf-der-ganzen-welt-fuer-mehr-gleichberechtigung-demonstriert-a-b019eb8e-d181-4dbe-aa87-ec6be7c8444e#ref=rss)
-### voyager
+* [https://www.spiegel.de/psychologie/psychische-probleme-bei-kindern-und-jugendlichen-wann-muss-mein-kind-zum-therapeuten](https://www.spiegel.de/psychologie/psychische-probleme-bei-kindern-und-jugendlichen-wann-muss-mein-kind-zum-therapeuten-a-6bad3c9b-71af-4dd0-8e99-376c62b722ba#ref=rss)
+* [https://www.spiegel.de/ausland/putins-partei-verschenkt-fleischwolf-geraete-an-muetter-von-gefallenen-soldaten](https://www.spiegel.de/ausland/putins-partei-verschenkt-fleischwolf-geraete-an-muetter-von-gefallenen-soldaten-a-d709b2c5-632d-4331-8335-2d6d52feecfa#ref=rss)
+### donald
 
-* [https://www.spiegel.de/wissenschaft/technik/nasa-schaltet-voyager-instrumente-ab-um-strom-zu-sparen](https://www.spiegel.de/wissenschaft/technik/nasa-schaltet-voyager-instrumente-ab-um-strom-zu-sparen-a-ec17fa38-ac6c-47e0-81de-cef2f8e6d56f#ref=rss)
-### 1
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-ist-ein-pharao-unserer-zeit](https://www.spiegel.de/politik/deutschland/news-donald-trump-ist-ein-pharao-unserer-zeit-a-9a7a99e6-1309-4cbb-93de-afb6ef3e6b50#ref=rss)
+* [https://www.spiegel.de/ausland/iran-regierung-will-keinen-brief-von-donald-trump-erhalten-haben](https://www.spiegel.de/ausland/iran-regierung-will-keinen-brief-von-donald-trump-erhalten-haben-a-82a4567e-6bd9-4c98-9983-4ce8c70cf121#ref=rss)
+### trump
 
-* [https://www.spiegel.de/wissenschaft/technik/nasa-schaltet-voyager-instrumente-ab-um-strom-zu-sparen](https://www.spiegel.de/wissenschaft/technik/nasa-schaltet-voyager-instrumente-ab-um-strom-zu-sparen-a-ec17fa38-ac6c-47e0-81de-cef2f8e6d56f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-schlaegt-hertha-bsc-1-fc-koeln-gewinnt-beim-ssv-ulm](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-schlaegt-hertha-bsc-1-fc-koeln-gewinnt-beim-ssv-ulm-a-121d365f-6d03-4735-bec9-944bbda5192e#ref=rss)
-### 2
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-ist-ein-pharao-unserer-zeit](https://www.spiegel.de/politik/deutschland/news-donald-trump-ist-ein-pharao-unserer-zeit-a-9a7a99e6-1309-4cbb-93de-afb6ef3e6b50#ref=rss)
+* [https://www.spiegel.de/ausland/iran-regierung-will-keinen-brief-von-donald-trump-erhalten-haben](https://www.spiegel.de/ausland/iran-regierung-will-keinen-brief-von-donald-trump-erhalten-haben-a-82a4567e-6bd9-4c98-9983-4ce8c70cf121#ref=rss)
+### bahn
 
-* [https://www.spiegel.de/wissenschaft/technik/nasa-schaltet-voyager-instrumente-ab-um-strom-zu-sparen](https://www.spiegel.de/wissenschaft/technik/nasa-schaltet-voyager-instrumente-ab-um-strom-zu-sparen-a-ec17fa38-ac6c-47e0-81de-cef2f8e6d56f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-schlaegt-hertha-bsc-1-fc-koeln-gewinnt-beim-ssv-ulm](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-schlaegt-hertha-bsc-1-fc-koeln-gewinnt-beim-ssv-ulm-a-121d365f-6d03-4735-bec9-944bbda5192e#ref=rss)
-### kilometer
+* [https://www.spiegel.de/auto/deutsche-bahn-zahlte-2024-fahrgaesten-197-millionen-euro-wegen-verspaetungen](https://www.spiegel.de/auto/deutsche-bahn-zahlte-2024-fahrgaesten-197-millionen-euro-wegen-verspaetungen-a-c96b154a-29dc-4307-bbdf-17e85e2e36ab#ref=rss)
+### bayern
 
-* [https://www.spiegel.de/wissenschaft/technik/nasa-schaltet-voyager-instrumente-ab-um-strom-zu-sparen](https://www.spiegel.de/wissenschaft/technik/nasa-schaltet-voyager-instrumente-ab-um-strom-zu-sparen-a-ec17fa38-ac6c-47e0-81de-cef2f8e6d56f#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/johannes-klaebo-langlaufstar-feiert-historischen-triumph-bei-nordischer-ski-wm](https://www.spiegel.de/sport/wintersport/johannes-klaebo-langlaufstar-feiert-historischen-triumph-bei-nordischer-ski-wm-a-48d08cd7-9fdf-4181-92d2-f7658fc58806#ref=rss)
-### vendée
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-joao-palhinha-und-sein-besonderes-problem](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-joao-palhinha-und-sein-besonderes-problem-a-a14b3d17-909b-48fd-8aea-237a63c313f8#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-bundesliga-hamburger-sv-schlaegt-fortuna-duesseldorf-17-saisontor-fuer-davie-selke](https://www.spiegel.de/sport/fussball/2-bundesliga-hamburger-sv-schlaegt-fortuna-duesseldorf-17-saisontor-fuer-davie-selke-a-8b76daf3-6b89-486f-81a9-34255d2ba5dd#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/sport/vendee-globe-weltumsegler-denis-van-weynbergh-ist-im-ziel-einen-tag-zu-spaet](https://www.spiegel.de/sport/vendee-globe-weltumsegler-denis-van-weynbergh-ist-im-ziel-einen-tag-zu-spaet-a-fae9d48d-b95f-4bb5-8e81-caa35bf64ebd#ref=rss)
-### globe
+* [https://www.spiegel.de/politik/deutschland/parteien-wachstum-die-mitgliedschaft-wird-wie-das-abo-im-fitnessstudio](https://www.spiegel.de/politik/deutschland/parteien-wachstum-die-mitgliedschaft-wird-wie-das-abo-im-fitnessstudio-a-8cee7806-7a43-481b-8a38-b9b874f6b2f7#ref=rss)
+* [https://www.spiegel.de/geschichte/die-letzten-wochen-des-zweiten-weltkriegs-folge-7-die-bombardierung-tokios-und-der-krieg-im-pazifik](https://www.spiegel.de/geschichte/die-letzten-wochen-des-zweiten-weltkriegs-folge-7-die-bombardierung-tokios-und-der-krieg-im-pazifik-a-7b57a157-f465-49aa-b64f-24ce783c2c0a#ref=rss)
+* [https://www.spiegel.de/ausland/aktivisten-werfen-regierungstruppen-in-syrien-toetung-von-hunderten-zivilisten-vor](https://www.spiegel.de/ausland/aktivisten-werfen-regierungstruppen-in-syrien-toetung-von-hunderten-zivilisten-vor-a-4e030fe5-d2c7-443c-a459-81d50343cd31#ref=rss)
+### denn
 
-* [https://www.spiegel.de/sport/vendee-globe-weltumsegler-denis-van-weynbergh-ist-im-ziel-einen-tag-zu-spaet](https://www.spiegel.de/sport/vendee-globe-weltumsegler-denis-van-weynbergh-ist-im-ziel-einen-tag-zu-spaet-a-fae9d48d-b95f-4bb5-8e81-caa35bf64ebd#ref=rss)
-### denis
+* [https://www.spiegel.de/auto/fahrkultur/camping-im-offroad-fahrzeug-bloss-weg-hier](https://www.spiegel.de/auto/fahrkultur/camping-im-offroad-fahrzeug-bloss-weg-hier-a-3cb9cf58-8204-4246-b15c-8c834120890c#ref=rss)
+* [https://www.spiegel.de/kultur/animationsfilm-flow-die-glueckskatze](https://www.spiegel.de/kultur/animationsfilm-flow-die-glueckskatze-a-5f8b0dc3-2240-45d7-957e-99e13ce4cfea#ref=rss)
+* [https://www.spiegel.de/sport/fussball/bundesliga-sc-freiburg-mit-remis-gegen-rb-leipzig-noah-atubolu-stellt-rekord-auf](https://www.spiegel.de/sport/fussball/bundesliga-sc-freiburg-mit-remis-gegen-rb-leipzig-noah-atubolu-stellt-rekord-auf-a-84c261c3-90b2-4f9c-951c-78bdc4e14076#ref=rss)
+### macht
 
-* [https://www.spiegel.de/sport/vendee-globe-weltumsegler-denis-van-weynbergh-ist-im-ziel-einen-tag-zu-spaet](https://www.spiegel.de/sport/vendee-globe-weltumsegler-denis-van-weynbergh-ist-im-ziel-einen-tag-zu-spaet-a-fae9d48d-b95f-4bb5-8e81-caa35bf64ebd#ref=rss)
-### van
+* [https://www.spiegel.de/kultur/animationsfilm-flow-die-glueckskatze](https://www.spiegel.de/kultur/animationsfilm-flow-die-glueckskatze-a-5f8b0dc3-2240-45d7-957e-99e13ce4cfea#ref=rss)
+* [https://www.spiegel.de/geschichte/frauen-und-macht-in-der-steinzeit-legende-vom-friedvollen-matriarchat](https://www.spiegel.de/geschichte/frauen-und-macht-in-der-steinzeit-legende-vom-friedvollen-matriarchat-a-663e0601-c885-48bf-868d-8dc14eb1be97#ref=rss)
+### unter
 
-* [https://www.spiegel.de/sport/vendee-globe-weltumsegler-denis-van-weynbergh-ist-im-ziel-einen-tag-zu-spaet](https://www.spiegel.de/sport/vendee-globe-weltumsegler-denis-van-weynbergh-ist-im-ziel-einen-tag-zu-spaet-a-fae9d48d-b95f-4bb5-8e81-caa35bf64ebd#ref=rss)
-### weynbergh
+* [https://www.spiegel.de/sport/wintersport/nordische-ski-wm-norwegen-unter-manipulationsverdacht-bei-skisprung-wettbewerben](https://www.spiegel.de/sport/wintersport/nordische-ski-wm-norwegen-unter-manipulationsverdacht-bei-skisprung-wettbewerben-a-8f7e237f-187e-42e7-8db6-93f4a567f661#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/steuererklaerung-und-homeoffice-wie-setze-ich-mein-privathandy-von-der-steuer-ab](https://www.spiegel.de/netzwelt/gadgets/steuererklaerung-und-homeoffice-wie-setze-ich-mein-privathandy-von-der-steuer-ab-a-be5c8899-e4d3-4f4e-9da8-68cd4c6f5de3#ref=rss)
+### assadanhänger
 
-* [https://www.spiegel.de/sport/vendee-globe-weltumsegler-denis-van-weynbergh-ist-im-ziel-einen-tag-zu-spaet](https://www.spiegel.de/sport/vendee-globe-weltumsegler-denis-van-weynbergh-ist-im-ziel-einen-tag-zu-spaet-a-fae9d48d-b95f-4bb5-8e81-caa35bf64ebd#ref=rss)
-### ziel
+* [https://www.spiegel.de/ausland/syrien-ehemalige-assad-anhaenger-liefern-sich-gefechte-mit-sunnitischen-kaempfern-ein-neuer-buergerkrieg-droht](https://www.spiegel.de/ausland/syrien-ehemalige-assad-anhaenger-liefern-sich-gefechte-mit-sunnitischen-kaempfern-ein-neuer-buergerkrieg-droht-a-e9dc7370-85f8-4e22-98ad-598b63a36795#ref=rss)
+### liefern
 
-* [https://www.spiegel.de/sport/vendee-globe-weltumsegler-denis-van-weynbergh-ist-im-ziel-einen-tag-zu-spaet](https://www.spiegel.de/sport/vendee-globe-weltumsegler-denis-van-weynbergh-ist-im-ziel-einen-tag-zu-spaet-a-fae9d48d-b95f-4bb5-8e81-caa35bf64ebd#ref=rss)
-* [https://www.spiegel.de/ausland/london-mann-klettert-auf-big-ben-mit-pro-palaestina-aktion](https://www.spiegel.de/ausland/london-mann-klettert-auf-big-ben-mit-pro-palaestina-aktion-a-edfe9b96-4b1a-4206-8168-c74a694eb0ae#ref=rss)
-### tag
+* [https://www.spiegel.de/ausland/syrien-ehemalige-assad-anhaenger-liefern-sich-gefechte-mit-sunnitischen-kaempfern-ein-neuer-buergerkrieg-droht](https://www.spiegel.de/ausland/syrien-ehemalige-assad-anhaenger-liefern-sich-gefechte-mit-sunnitischen-kaempfern-ein-neuer-buergerkrieg-droht-a-e9dc7370-85f8-4e22-98ad-598b63a36795#ref=rss)
+### gefechte
 
-* [https://www.spiegel.de/sport/vendee-globe-weltumsegler-denis-van-weynbergh-ist-im-ziel-einen-tag-zu-spaet](https://www.spiegel.de/sport/vendee-globe-weltumsegler-denis-van-weynbergh-ist-im-ziel-einen-tag-zu-spaet-a-fae9d48d-b95f-4bb5-8e81-caa35bf64ebd#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/vinzenz-geiger-kombinierer-geiger-holt-bronze-bei-nordischer-ski-wm-in-trondheim](https://www.spiegel.de/sport/wintersport/vinzenz-geiger-kombinierer-geiger-holt-bronze-bei-nordischer-ski-wm-in-trondheim-a-345a6a25-9846-4ea9-a0c7-ec89f31823b7#ref=rss)
-### vinzenz
+* [https://www.spiegel.de/ausland/syrien-ehemalige-assad-anhaenger-liefern-sich-gefechte-mit-sunnitischen-kaempfern-ein-neuer-buergerkrieg-droht](https://www.spiegel.de/ausland/syrien-ehemalige-assad-anhaenger-liefern-sich-gefechte-mit-sunnitischen-kaempfern-ein-neuer-buergerkrieg-droht-a-e9dc7370-85f8-4e22-98ad-598b63a36795#ref=rss)
+### sunnitischen
 
-* [https://www.spiegel.de/sport/wintersport/vinzenz-geiger-kombinierer-geiger-holt-bronze-bei-nordischer-ski-wm-in-trondheim](https://www.spiegel.de/sport/wintersport/vinzenz-geiger-kombinierer-geiger-holt-bronze-bei-nordischer-ski-wm-in-trondheim-a-345a6a25-9846-4ea9-a0c7-ec89f31823b7#ref=rss)
-### bronze
+* [https://www.spiegel.de/ausland/syrien-ehemalige-assad-anhaenger-liefern-sich-gefechte-mit-sunnitischen-kaempfern-ein-neuer-buergerkrieg-droht](https://www.spiegel.de/ausland/syrien-ehemalige-assad-anhaenger-liefern-sich-gefechte-mit-sunnitischen-kaempfern-ein-neuer-buergerkrieg-droht-a-e9dc7370-85f8-4e22-98ad-598b63a36795#ref=rss)
+### kämpfern
 
-* [https://www.spiegel.de/sport/wintersport/vinzenz-geiger-kombinierer-geiger-holt-bronze-bei-nordischer-ski-wm-in-trondheim](https://www.spiegel.de/sport/wintersport/vinzenz-geiger-kombinierer-geiger-holt-bronze-bei-nordischer-ski-wm-in-trondheim-a-345a6a25-9846-4ea9-a0c7-ec89f31823b7#ref=rss)
-### nordischer
+* [https://www.spiegel.de/ausland/syrien-ehemalige-assad-anhaenger-liefern-sich-gefechte-mit-sunnitischen-kaempfern-ein-neuer-buergerkrieg-droht](https://www.spiegel.de/ausland/syrien-ehemalige-assad-anhaenger-liefern-sich-gefechte-mit-sunnitischen-kaempfern-ein-neuer-buergerkrieg-droht-a-e9dc7370-85f8-4e22-98ad-598b63a36795#ref=rss)
+### bürgerkrieg
 
-* [https://www.spiegel.de/sport/wintersport/vinzenz-geiger-kombinierer-geiger-holt-bronze-bei-nordischer-ski-wm-in-trondheim](https://www.spiegel.de/sport/wintersport/vinzenz-geiger-kombinierer-geiger-holt-bronze-bei-nordischer-ski-wm-in-trondheim-a-345a6a25-9846-4ea9-a0c7-ec89f31823b7#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/johannes-klaebo-langlaufstar-feiert-historischen-triumph-bei-nordischer-ski-wm](https://www.spiegel.de/sport/wintersport/johannes-klaebo-langlaufstar-feiert-historischen-triumph-bei-nordischer-ski-wm-a-48d08cd7-9fdf-4181-92d2-f7658fc58806#ref=rss)
-### gold
+* [https://www.spiegel.de/ausland/syrien-ehemalige-assad-anhaenger-liefern-sich-gefechte-mit-sunnitischen-kaempfern-ein-neuer-buergerkrieg-droht](https://www.spiegel.de/ausland/syrien-ehemalige-assad-anhaenger-liefern-sich-gefechte-mit-sunnitischen-kaempfern-ein-neuer-buergerkrieg-droht-a-e9dc7370-85f8-4e22-98ad-598b63a36795#ref=rss)
+### droht
 
-* [https://www.spiegel.de/sport/wintersport/vinzenz-geiger-kombinierer-geiger-holt-bronze-bei-nordischer-ski-wm-in-trondheim](https://www.spiegel.de/sport/wintersport/vinzenz-geiger-kombinierer-geiger-holt-bronze-bei-nordischer-ski-wm-in-trondheim-a-345a6a25-9846-4ea9-a0c7-ec89f31823b7#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/johannes-klaebo-langlaufstar-feiert-historischen-triumph-bei-nordischer-ski-wm](https://www.spiegel.de/sport/wintersport/johannes-klaebo-langlaufstar-feiert-historischen-triumph-bei-nordischer-ski-wm-a-48d08cd7-9fdf-4181-92d2-f7658fc58806#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-ehemalige-assad-anhaenger-liefern-sich-gefechte-mit-sunnitischen-kaempfern-ein-neuer-buergerkrieg-droht](https://www.spiegel.de/ausland/syrien-ehemalige-assad-anhaenger-liefern-sich-gefechte-mit-sunnitischen-kaempfern-ein-neuer-buergerkrieg-droht-a-e9dc7370-85f8-4e22-98ad-598b63a36795#ref=rss)
+### zivilisten
+
+* [https://www.spiegel.de/ausland/syrien-ehemalige-assad-anhaenger-liefern-sich-gefechte-mit-sunnitischen-kaempfern-ein-neuer-buergerkrieg-droht](https://www.spiegel.de/ausland/syrien-ehemalige-assad-anhaenger-liefern-sich-gefechte-mit-sunnitischen-kaempfern-ein-neuer-buergerkrieg-droht-a-e9dc7370-85f8-4e22-98ad-598b63a36795#ref=rss)
+* [https://www.spiegel.de/ausland/aktivisten-werfen-regierungstruppen-in-syrien-toetung-von-hunderten-zivilisten-vor](https://www.spiegel.de/ausland/aktivisten-werfen-regierungstruppen-in-syrien-toetung-von-hunderten-zivilisten-vor-a-4e030fe5-d2c7-443c-a459-81d50343cd31#ref=rss)
+### berichten
+
+* [https://www.spiegel.de/ausland/syrien-ehemalige-assad-anhaenger-liefern-sich-gefechte-mit-sunnitischen-kaempfern-ein-neuer-buergerkrieg-droht](https://www.spiegel.de/ausland/syrien-ehemalige-assad-anhaenger-liefern-sich-gefechte-mit-sunnitischen-kaempfern-ein-neuer-buergerkrieg-droht-a-e9dc7370-85f8-4e22-98ad-598b63a36795#ref=rss)
+* [https://www.spiegel.de/ausland/aktivisten-werfen-regierungstruppen-in-syrien-toetung-von-hunderten-zivilisten-vor](https://www.spiegel.de/ausland/aktivisten-werfen-regierungstruppen-in-syrien-toetung-von-hunderten-zivilisten-vor-a-4e030fe5-d2c7-443c-a459-81d50343cd31#ref=rss)
+### viele
+
+* [https://www.spiegel.de/wirtschaft/deutsche-post-anzahl-der-beschwerden-zu-briefen-und-paketen-steigt-auf-hoechstwert](https://www.spiegel.de/wirtschaft/deutsche-post-anzahl-der-beschwerden-zu-briefen-und-paketen-steigt-auf-hoechstwert-a-cf5b027f-2aea-4676-afdc-100b58f8efdf#ref=rss)
+* [https://www.spiegel.de/wirtschaft/flughafen-hamburg-ver-di-zieht-streik-unangekuendigt-vor-airport-helmut-schmidt-lahmgelegt](https://www.spiegel.de/wirtschaft/flughafen-hamburg-ver-di-zieht-streik-unangekuendigt-vor-airport-helmut-schmidt-lahmgelegt-a-3fb713c5-8d54-4f6a-96da-97d3d5e0d533#ref=rss)
+### nie
+
+* [https://www.spiegel.de/wirtschaft/deutsche-post-anzahl-der-beschwerden-zu-briefen-und-paketen-steigt-auf-hoechstwert](https://www.spiegel.de/wirtschaft/deutsche-post-anzahl-der-beschwerden-zu-briefen-und-paketen-steigt-auf-hoechstwert-a-cf5b027f-2aea-4676-afdc-100b58f8efdf#ref=rss)
+* [https://www.spiegel.de/panorama/leute/chuck-norris-wird-85-die-besten-sprueche](https://www.spiegel.de/panorama/leute/chuck-norris-wird-85-die-besten-sprueche-a-3bb6574d-06b1-4298-9a5f-de451a706ab0#ref=rss)
+### elon
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/hass-auf-elon-musk-tesla-gegner-in-den-usa-greifen-mit-gewehren-und-molotowcocktails-an](https://www.spiegel.de/wirtschaft/unternehmen/hass-auf-elon-musk-tesla-gegner-in-den-usa-greifen-mit-gewehren-und-molotowcocktails-an-a-0e5d76e1-1bdb-43d3-a0d5-9d519f2ed2b1#ref=rss)
+### musk
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/hass-auf-elon-musk-tesla-gegner-in-den-usa-greifen-mit-gewehren-und-molotowcocktails-an](https://www.spiegel.de/wirtschaft/unternehmen/hass-auf-elon-musk-tesla-gegner-in-den-usa-greifen-mit-gewehren-und-molotowcocktails-an-a-0e5d76e1-1bdb-43d3-a0d5-9d519f2ed2b1#ref=rss)
+### usa
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/hass-auf-elon-musk-tesla-gegner-in-den-usa-greifen-mit-gewehren-und-molotowcocktails-an](https://www.spiegel.de/wirtschaft/unternehmen/hass-auf-elon-musk-tesla-gegner-in-den-usa-greifen-mit-gewehren-und-molotowcocktails-an-a-0e5d76e1-1bdb-43d3-a0d5-9d519f2ed2b1#ref=rss)
+### unternehmen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/hass-auf-elon-musk-tesla-gegner-in-den-usa-greifen-mit-gewehren-und-molotowcocktails-an](https://www.spiegel.de/wirtschaft/unternehmen/hass-auf-elon-musk-tesla-gegner-in-den-usa-greifen-mit-gewehren-und-molotowcocktails-an-a-0e5d76e1-1bdb-43d3-a0d5-9d519f2ed2b1#ref=rss)
+* [https://www.spiegel.de/auto/deutsche-bahn-zahlte-2024-fahrgaesten-197-millionen-euro-wegen-verspaetungen](https://www.spiegel.de/auto/deutsche-bahn-zahlte-2024-fahrgaesten-197-millionen-euro-wegen-verspaetungen-a-c96b154a-29dc-4307-bbdf-17e85e2e36ab#ref=rss)
+### laut
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/hass-auf-elon-musk-tesla-gegner-in-den-usa-greifen-mit-gewehren-und-molotowcocktails-an](https://www.spiegel.de/wirtschaft/unternehmen/hass-auf-elon-musk-tesla-gegner-in-den-usa-greifen-mit-gewehren-und-molotowcocktails-an-a-0e5d76e1-1bdb-43d3-a0d5-9d519f2ed2b1#ref=rss)
+* [https://www.spiegel.de/auto/deutsche-bahn-zahlte-2024-fahrgaesten-197-millionen-euro-wegen-verspaetungen](https://www.spiegel.de/auto/deutsche-bahn-zahlte-2024-fahrgaesten-197-millionen-euro-wegen-verspaetungen-a-c96b154a-29dc-4307-bbdf-17e85e2e36ab#ref=rss)
+### washington
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/hass-auf-elon-musk-tesla-gegner-in-den-usa-greifen-mit-gewehren-und-molotowcocktails-an](https://www.spiegel.de/wirtschaft/unternehmen/hass-auf-elon-musk-tesla-gegner-in-den-usa-greifen-mit-gewehren-und-molotowcocktails-an-a-0e5d76e1-1bdb-43d3-a0d5-9d519f2ed2b1#ref=rss)
+* [https://www.spiegel.de/ausland/iran-regierung-will-keinen-brief-von-donald-trump-erhalten-haben](https://www.spiegel.de/ausland/iran-regierung-will-keinen-brief-von-donald-trump-erhalten-haben-a-82a4567e-6bd9-4c98-9983-4ce8c70cf121#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/hass-auf-elon-musk-tesla-gegner-in-den-usa-greifen-mit-gewehren-und-molotowcocktails-an](https://www.spiegel.de/wirtschaft/unternehmen/hass-auf-elon-musk-tesla-gegner-in-den-usa-greifen-mit-gewehren-und-molotowcocktails-an-a-0e5d76e1-1bdb-43d3-a0d5-9d519f2ed2b1#ref=rss)
+* [https://www.spiegel.de/ausland/aktivisten-werfen-regierungstruppen-in-syrien-toetung-von-hunderten-zivilisten-vor](https://www.spiegel.de/ausland/aktivisten-werfen-regierungstruppen-in-syrien-toetung-von-hunderten-zivilisten-vor-a-4e030fe5-d2c7-443c-a459-81d50343cd31#ref=rss)
+### fußballbundesliga
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-florian-wirtz-verletzt-leverkusen-bangt-um-nationalspieler](https://www.spiegel.de/sport/fussball/fussball-bundesliga-florian-wirtz-verletzt-leverkusen-bangt-um-nationalspieler-a-f6262754-b236-495c-a132-795867eedabf#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-bundesliga-hamburger-sv-schlaegt-fortuna-duesseldorf-17-saisontor-fuer-davie-selke](https://www.spiegel.de/sport/fussball/2-bundesliga-hamburger-sv-schlaegt-fortuna-duesseldorf-17-saisontor-fuer-davie-selke-a-8b76daf3-6b89-486f-81a9-34255d2ba5dd#ref=rss)
+### florian
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-florian-wirtz-verletzt-leverkusen-bangt-um-nationalspieler](https://www.spiegel.de/sport/fussball/fussball-bundesliga-florian-wirtz-verletzt-leverkusen-bangt-um-nationalspieler-a-f6262754-b236-495c-a132-795867eedabf#ref=rss)
+### wirtz
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-florian-wirtz-verletzt-leverkusen-bangt-um-nationalspieler](https://www.spiegel.de/sport/fussball/fussball-bundesliga-florian-wirtz-verletzt-leverkusen-bangt-um-nationalspieler-a-f6262754-b236-495c-a132-795867eedabf#ref=rss)
+### leverkusen
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-florian-wirtz-verletzt-leverkusen-bangt-um-nationalspieler](https://www.spiegel.de/sport/fussball/fussball-bundesliga-florian-wirtz-verletzt-leverkusen-bangt-um-nationalspieler-a-f6262754-b236-495c-a132-795867eedabf#ref=rss)
+### nationalspieler
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-florian-wirtz-verletzt-leverkusen-bangt-um-nationalspieler](https://www.spiegel.de/sport/fussball/fussball-bundesliga-florian-wirtz-verletzt-leverkusen-bangt-um-nationalspieler-a-f6262754-b236-495c-a132-795867eedabf#ref=rss)
+### chuck
+
+* [https://www.spiegel.de/panorama/leute/chuck-norris-wird-85-die-besten-sprueche](https://www.spiegel.de/panorama/leute/chuck-norris-wird-85-die-besten-sprueche-a-3bb6574d-06b1-4298-9a5f-de451a706ab0#ref=rss)
+### norris
+
+* [https://www.spiegel.de/panorama/leute/chuck-norris-wird-85-die-besten-sprueche](https://www.spiegel.de/panorama/leute/chuck-norris-wird-85-die-besten-sprueche-a-3bb6574d-06b1-4298-9a5f-de451a706ab0#ref=rss)
+### sprüche
+
+* [https://www.spiegel.de/panorama/leute/chuck-norris-wird-85-die-besten-sprueche](https://www.spiegel.de/panorama/leute/chuck-norris-wird-85-die-besten-sprueche-a-3bb6574d-06b1-4298-9a5f-de451a706ab0#ref=rss)
+### erst
+
+* [https://www.spiegel.de/panorama/leute/chuck-norris-wird-85-die-besten-sprueche](https://www.spiegel.de/panorama/leute/chuck-norris-wird-85-die-besten-sprueche-a-3bb6574d-06b1-4298-9a5f-de451a706ab0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/union-spd-und-die-sondierungsergebnisse-oekonomen-sehen-teure-wahlgeschenke-und-oekologischen-skandal](https://www.spiegel.de/wirtschaft/soziales/union-spd-und-die-sondierungsergebnisse-oekonomen-sehen-teure-wahlgeschenke-und-oekologischen-skandal-a-14b627f8-a4e5-4640-87fc-059ad888ad05#ref=rss)
+### horst
+
+* [https://www.spiegel.de/politik/horst-seehofer-wirft-union-wegen-neuer-schulden-wortbruch-vor](https://www.spiegel.de/politik/horst-seehofer-wirft-union-wegen-neuer-schulden-wortbruch-vor-a-9082ef77-2182-47c0-902c-6566b04a768e#ref=rss)
+### seehofer
+
+* [https://www.spiegel.de/politik/horst-seehofer-wirft-union-wegen-neuer-schulden-wortbruch-vor](https://www.spiegel.de/politik/horst-seehofer-wirft-union-wegen-neuer-schulden-wortbruch-vor-a-9082ef77-2182-47c0-902c-6566b04a768e#ref=rss)
+### bild
+
+* [https://www.spiegel.de/politik/horst-seehofer-wirft-union-wegen-neuer-schulden-wortbruch-vor](https://www.spiegel.de/politik/horst-seehofer-wirft-union-wegen-neuer-schulden-wortbruch-vor-a-9082ef77-2182-47c0-902c-6566b04a768e#ref=rss)
+* [https://www.spiegel.de/auto/deutsche-bahn-zahlte-2024-fahrgaesten-197-millionen-euro-wegen-verspaetungen](https://www.spiegel.de/auto/deutsche-bahn-zahlte-2024-fahrgaesten-197-millionen-euro-wegen-verspaetungen-a-c96b154a-29dc-4307-bbdf-17e85e2e36ab#ref=rss)
+### jennifer
+
+* [https://www.spiegel.de/kultur/jennifer-coolidge-hat-bereits-mit-12-jahren-bier-gekauft](https://www.spiegel.de/kultur/jennifer-coolidge-hat-bereits-mit-12-jahren-bier-gekauft-a-6a8f2461-b012-4699-97fd-ee0fdee87326#ref=rss)
+### coolidge
+
+* [https://www.spiegel.de/kultur/jennifer-coolidge-hat-bereits-mit-12-jahren-bier-gekauft](https://www.spiegel.de/kultur/jennifer-coolidge-hat-bereits-mit-12-jahren-bier-gekauft-a-6a8f2461-b012-4699-97fd-ee0fdee87326#ref=rss)
+### 12
+
+* [https://www.spiegel.de/kultur/jennifer-coolidge-hat-bereits-mit-12-jahren-bier-gekauft](https://www.spiegel.de/kultur/jennifer-coolidge-hat-bereits-mit-12-jahren-bier-gekauft-a-6a8f2461-b012-4699-97fd-ee0fdee87326#ref=rss)
+### ökonomen
+
+* [https://www.spiegel.de/wirtschaft/soziales/union-spd-und-die-sondierungsergebnisse-oekonomen-sehen-teure-wahlgeschenke-und-oekologischen-skandal](https://www.spiegel.de/wirtschaft/soziales/union-spd-und-die-sondierungsergebnisse-oekonomen-sehen-teure-wahlgeschenke-und-oekologischen-skandal-a-14b627f8-a4e5-4640-87fc-059ad888ad05#ref=rss)
+### hamburg
+
+* [https://www.spiegel.de/wirtschaft/flughafen-hamburg-ver-di-zieht-streik-unangekuendigt-vor-airport-helmut-schmidt-lahmgelegt](https://www.spiegel.de/wirtschaft/flughafen-hamburg-ver-di-zieht-streik-unangekuendigt-vor-airport-helmut-schmidt-lahmgelegt-a-3fb713c5-8d54-4f6a-96da-97d3d5e0d533#ref=rss)
+### aufgerufen
+
+* [https://www.spiegel.de/wirtschaft/flughafen-hamburg-ver-di-zieht-streik-unangekuendigt-vor-airport-helmut-schmidt-lahmgelegt](https://www.spiegel.de/wirtschaft/flughafen-hamburg-ver-di-zieht-streik-unangekuendigt-vor-airport-helmut-schmidt-lahmgelegt-a-3fb713c5-8d54-4f6a-96da-97d3d5e0d533#ref=rss)
+* [https://www.spiegel.de/reise/warnstreiks-an-flughaefen-was-reisende-jetzt-wissen-muessen](https://www.spiegel.de/reise/warnstreiks-an-flughaefen-was-reisende-jetzt-wissen-muessen-a-dd0764b7-f122-4ccc-a733-3198eb0df62f#ref=rss)
+### wann
+
+* [https://www.spiegel.de/psychologie/psychische-probleme-bei-kindern-und-jugendlichen-wann-muss-mein-kind-zum-therapeuten](https://www.spiegel.de/psychologie/psychische-probleme-bei-kindern-und-jugendlichen-wann-muss-mein-kind-zum-therapeuten-a-6bad3c9b-71af-4dd0-8e99-376c62b722ba#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/parteien-wachstum-die-mitgliedschaft-wird-wie-das-abo-im-fitnessstudio](https://www.spiegel.de/politik/deutschland/parteien-wachstum-die-mitgliedschaft-wird-wie-das-abo-im-fitnessstudio-a-8cee7806-7a43-481b-8a38-b9b874f6b2f7#ref=rss)
+### mein
+
+* [https://www.spiegel.de/psychologie/psychische-probleme-bei-kindern-und-jugendlichen-wann-muss-mein-kind-zum-therapeuten](https://www.spiegel.de/psychologie/psychische-probleme-bei-kindern-und-jugendlichen-wann-muss-mein-kind-zum-therapeuten-a-6bad3c9b-71af-4dd0-8e99-376c62b722ba#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/steuererklaerung-und-homeoffice-wie-setze-ich-mein-privathandy-von-der-steuer-ab](https://www.spiegel.de/netzwelt/gadgets/steuererklaerung-und-homeoffice-wie-setze-ich-mein-privathandy-von-der-steuer-ab-a-be5c8899-e4d3-4f4e-9da8-68cd4c6f5de3#ref=rss)
+### wissen
+
+* [https://www.spiegel.de/psychologie/psychische-probleme-bei-kindern-und-jugendlichen-wann-muss-mein-kind-zum-therapeuten](https://www.spiegel.de/psychologie/psychische-probleme-bei-kindern-und-jugendlichen-wann-muss-mein-kind-zum-therapeuten-a-6bad3c9b-71af-4dd0-8e99-376c62b722ba#ref=rss)
+* [https://www.spiegel.de/reise/warnstreiks-an-flughaefen-was-reisende-jetzt-wissen-muessen](https://www.spiegel.de/reise/warnstreiks-an-flughaefen-was-reisende-jetzt-wissen-muessen-a-dd0764b7-f122-4ccc-a733-3198eb0df62f#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/psychologie/psychische-probleme-bei-kindern-und-jugendlichen-wann-muss-mein-kind-zum-therapeuten](https://www.spiegel.de/psychologie/psychische-probleme-bei-kindern-und-jugendlichen-wann-muss-mein-kind-zum-therapeuten-a-6bad3c9b-71af-4dd0-8e99-376c62b722ba#ref=rss)
+* [https://www.spiegel.de/sport/fussball/spanien-fc-barcelona-sagt-nach-tod-des-teamarztes-liga-spiel-ab](https://www.spiegel.de/sport/fussball/spanien-fc-barcelona-sagt-nach-tod-des-teamarztes-liga-spiel-ab-a-192b3fe6-fac5-4cf2-9627-1baab2215f1c#ref=rss)
+### new
+
+* [https://www.spiegel.de/panorama/new-york-schwere-buschbraende-gouverneurin-ruft-notstand-aus](https://www.spiegel.de/panorama/new-york-schwere-buschbraende-gouverneurin-ruft-notstand-aus-a-35284702-1691-48f5-95ef-a02ff739de0d#ref=rss)
+### york
+
+* [https://www.spiegel.de/panorama/new-york-schwere-buschbraende-gouverneurin-ruft-notstand-aus](https://www.spiegel.de/panorama/new-york-schwere-buschbraende-gouverneurin-ruft-notstand-aus-a-35284702-1691-48f5-95ef-a02ff739de0d#ref=rss)
+### buschbrände
+
+* [https://www.spiegel.de/panorama/new-york-schwere-buschbraende-gouverneurin-ruft-notstand-aus](https://www.spiegel.de/panorama/new-york-schwere-buschbraende-gouverneurin-ruft-notstand-aus-a-35284702-1691-48f5-95ef-a02ff739de0d#ref=rss)
+### zeit
+
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-ist-ein-pharao-unserer-zeit](https://www.spiegel.de/politik/deutschland/news-donald-trump-ist-ein-pharao-unserer-zeit-a-9a7a99e6-1309-4cbb-93de-afb6ef3e6b50#ref=rss)
+* [https://www.spiegel.de/geschichte/die-letzten-wochen-des-zweiten-weltkriegs-folge-7-die-bombardierung-tokios-und-der-krieg-im-pazifik](https://www.spiegel.de/geschichte/die-letzten-wochen-des-zweiten-weltkriegs-folge-7-die-bombardierung-tokios-und-der-krieg-im-pazifik-a-7b57a157-f465-49aa-b64f-24ce783c2c0a#ref=rss)
+### zahlte
+
+* [https://www.spiegel.de/auto/deutsche-bahn-zahlte-2024-fahrgaesten-197-millionen-euro-wegen-verspaetungen](https://www.spiegel.de/auto/deutsche-bahn-zahlte-2024-fahrgaesten-197-millionen-euro-wegen-verspaetungen-a-c96b154a-29dc-4307-bbdf-17e85e2e36ab#ref=rss)
+### fahrgästen
+
+* [https://www.spiegel.de/auto/deutsche-bahn-zahlte-2024-fahrgaesten-197-millionen-euro-wegen-verspaetungen](https://www.spiegel.de/auto/deutsche-bahn-zahlte-2024-fahrgaesten-197-millionen-euro-wegen-verspaetungen-a-c96b154a-29dc-4307-bbdf-17e85e2e36ab#ref=rss)
 ### deutschen
 
-* [https://www.spiegel.de/sport/wintersport/vinzenz-geiger-kombinierer-geiger-holt-bronze-bei-nordischer-ski-wm-in-trondheim](https://www.spiegel.de/sport/wintersport/vinzenz-geiger-kombinierer-geiger-holt-bronze-bei-nordischer-ski-wm-in-trondheim-a-345a6a25-9846-4ea9-a0c7-ec89f31823b7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/colonia-dignidad-die-muehsame-aufarbeitung-der-verbrechen](https://www.spiegel.de/politik/deutschland/colonia-dignidad-die-muehsame-aufarbeitung-der-verbrechen-a-27e6060e-9b44-4da2-b55d-7e924b451f43#ref=rss)
-### schalke
+* [https://www.spiegel.de/auto/deutsche-bahn-zahlte-2024-fahrgaesten-197-millionen-euro-wegen-verspaetungen](https://www.spiegel.de/auto/deutsche-bahn-zahlte-2024-fahrgaesten-197-millionen-euro-wegen-verspaetungen-a-c96b154a-29dc-4307-bbdf-17e85e2e36ab#ref=rss)
+* [https://www.spiegel.de/reise/warnstreiks-an-flughaefen-was-reisende-jetzt-wissen-muessen](https://www.spiegel.de/reise/warnstreiks-an-flughaefen-was-reisende-jetzt-wissen-muessen-a-dd0764b7-f122-4ccc-a733-3198eb0df62f#ref=rss)
+### münchen
 
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-schlaegt-hertha-bsc-1-fc-koeln-gewinnt-beim-ssv-ulm](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-schlaegt-hertha-bsc-1-fc-koeln-gewinnt-beim-ssv-ulm-a-121d365f-6d03-4735-bec9-944bbda5192e#ref=rss)
-### 04
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-joao-palhinha-und-sein-besonderes-problem](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-joao-palhinha-und-sein-besonderes-problem-a-a14b3d17-909b-48fd-8aea-237a63c313f8#ref=rss)
+### joão
 
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-schlaegt-hertha-bsc-1-fc-koeln-gewinnt-beim-ssv-ulm](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-schlaegt-hertha-bsc-1-fc-koeln-gewinnt-beim-ssv-ulm-a-121d365f-6d03-4735-bec9-944bbda5192e#ref=rss)
-### hertha
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-joao-palhinha-und-sein-besonderes-problem](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-joao-palhinha-und-sein-besonderes-problem-a-a14b3d17-909b-48fd-8aea-237a63c313f8#ref=rss)
+### palhinha
 
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-schlaegt-hertha-bsc-1-fc-koeln-gewinnt-beim-ssv-ulm](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-schlaegt-hertha-bsc-1-fc-koeln-gewinnt-beim-ssv-ulm-a-121d365f-6d03-4735-bec9-944bbda5192e#ref=rss)
-### bsc
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-joao-palhinha-und-sein-besonderes-problem](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-joao-palhinha-und-sein-besonderes-problem-a-a14b3d17-909b-48fd-8aea-237a63c313f8#ref=rss)
+### besonderes
 
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-schlaegt-hertha-bsc-1-fc-koeln-gewinnt-beim-ssv-ulm](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-schlaegt-hertha-bsc-1-fc-koeln-gewinnt-beim-ssv-ulm-a-121d365f-6d03-4735-bec9-944bbda5192e#ref=rss)
-### kulisse
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-joao-palhinha-und-sein-besonderes-problem](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-joao-palhinha-und-sein-besonderes-problem-a-a14b3d17-909b-48fd-8aea-237a63c313f8#ref=rss)
+* [https://www.spiegel.de/auto/fahrkultur/camping-im-offroad-fahrzeug-bloss-weg-hier](https://www.spiegel.de/auto/fahrkultur/camping-im-offroad-fahrzeug-bloss-weg-hier-a-3cb9cf58-8204-4246-b15c-8c834120890c#ref=rss)
+### flughäfen
 
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-schlaegt-hertha-bsc-1-fc-koeln-gewinnt-beim-ssv-ulm](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-schlaegt-hertha-bsc-1-fc-koeln-gewinnt-beim-ssv-ulm-a-121d365f-6d03-4735-bec9-944bbda5192e#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/johannes-klaebo-langlaufstar-feiert-historischen-triumph-bei-nordischer-ski-wm](https://www.spiegel.de/sport/wintersport/johannes-klaebo-langlaufstar-feiert-historischen-triumph-bei-nordischer-ski-wm-a-48d08cd7-9fdf-4181-92d2-f7658fc58806#ref=rss)
-### frauentag
+* [https://www.spiegel.de/reise/warnstreiks-an-flughaefen-was-reisende-jetzt-wissen-muessen](https://www.spiegel.de/reise/warnstreiks-an-flughaefen-was-reisende-jetzt-wissen-muessen-a-dd0764b7-f122-4ccc-a733-3198eb0df62f#ref=rss)
+### parteien
 
-* [https://www.spiegel.de/panorama/gesellschaft/internationaler-frauentag-so-wird-auf-der-ganzen-welt-fuer-mehr-gleichberechtigung-demonstriert](https://www.spiegel.de/panorama/gesellschaft/internationaler-frauentag-so-wird-auf-der-ganzen-welt-fuer-mehr-gleichberechtigung-demonstriert-a-b019eb8e-d181-4dbe-aa87-ec6be7c8444e#ref=rss)
-### selenskyj
+* [https://www.spiegel.de/politik/deutschland/parteien-wachstum-die-mitgliedschaft-wird-wie-das-abo-im-fitnessstudio](https://www.spiegel.de/politik/deutschland/parteien-wachstum-die-mitgliedschaft-wird-wie-das-abo-im-fitnessstudio-a-8cee7806-7a43-481b-8a38-b9b874f6b2f7#ref=rss)
+### erklärt
 
-* [https://www.spiegel.de/ausland/selenskyj-fordert-haertere-sanktionen-gegen-russland](https://www.spiegel.de/ausland/selenskyj-fordert-haertere-sanktionen-gegen-russland-a-6ae89fc0-2789-433f-9c64-b36b8488809c#ref=rss)
-### russland
+* [https://www.spiegel.de/politik/deutschland/parteien-wachstum-die-mitgliedschaft-wird-wie-das-abo-im-fitnessstudio](https://www.spiegel.de/politik/deutschland/parteien-wachstum-die-mitgliedschaft-wird-wie-das-abo-im-fitnessstudio-a-8cee7806-7a43-481b-8a38-b9b874f6b2f7#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/steuererklaerung-und-homeoffice-wie-setze-ich-mein-privathandy-von-der-steuer-ab](https://www.spiegel.de/netzwelt/gadgets/steuererklaerung-und-homeoffice-wie-setze-ich-mein-privathandy-von-der-steuer-ab-a-be5c8899-e4d3-4f4e-9da8-68cd4c6f5de3#ref=rss)
+### steuer
 
-* [https://www.spiegel.de/ausland/selenskyj-fordert-haertere-sanktionen-gegen-russland](https://www.spiegel.de/ausland/selenskyj-fordert-haertere-sanktionen-gegen-russland-a-6ae89fc0-2789-433f-9c64-b36b8488809c#ref=rss)
-### johannes
+* [https://www.spiegel.de/netzwelt/gadgets/steuererklaerung-und-homeoffice-wie-setze-ich-mein-privathandy-von-der-steuer-ab](https://www.spiegel.de/netzwelt/gadgets/steuererklaerung-und-homeoffice-wie-setze-ich-mein-privathandy-von-der-steuer-ab-a-be5c8899-e4d3-4f4e-9da8-68cd4c6f5de3#ref=rss)
+### eigene
 
-* [https://www.spiegel.de/sport/wintersport/johannes-klaebo-langlaufstar-feiert-historischen-triumph-bei-nordischer-ski-wm](https://www.spiegel.de/sport/wintersport/johannes-klaebo-langlaufstar-feiert-historischen-triumph-bei-nordischer-ski-wm-a-48d08cd7-9fdf-4181-92d2-f7658fc58806#ref=rss)
-### klæbo
+* [https://www.spiegel.de/netzwelt/gadgets/steuererklaerung-und-homeoffice-wie-setze-ich-mein-privathandy-von-der-steuer-ab](https://www.spiegel.de/netzwelt/gadgets/steuererklaerung-und-homeoffice-wie-setze-ich-mein-privathandy-von-der-steuer-ab-a-be5c8899-e4d3-4f4e-9da8-68cd4c6f5de3#ref=rss)
+* [https://www.spiegel.de/ausland/putins-partei-verschenkt-fleischwolf-geraete-an-muetter-von-gefallenen-soldaten](https://www.spiegel.de/ausland/putins-partei-verschenkt-fleischwolf-geraete-an-muetter-von-gefallenen-soldaten-a-d709b2c5-632d-4331-8335-2d6d52feecfa#ref=rss)
+### folge
 
-* [https://www.spiegel.de/sport/wintersport/johannes-klaebo-langlaufstar-feiert-historischen-triumph-bei-nordischer-ski-wm](https://www.spiegel.de/sport/wintersport/johannes-klaebo-langlaufstar-feiert-historischen-triumph-bei-nordischer-ski-wm-a-48d08cd7-9fdf-4181-92d2-f7658fc58806#ref=rss)
-### schweizer
+* [https://www.spiegel.de/geschichte/die-letzten-wochen-des-zweiten-weltkriegs-folge-7-die-bombardierung-tokios-und-der-krieg-im-pazifik](https://www.spiegel.de/geschichte/die-letzten-wochen-des-zweiten-weltkriegs-folge-7-die-bombardierung-tokios-und-der-krieg-im-pazifik-a-7b57a157-f465-49aa-b64f-24ce783c2c0a#ref=rss)
+### 7
 
-* [https://www.spiegel.de/panorama/justiz/schweizer-polizei-rettet-zwei-in-schlieren-entfuehrte-bolonka-hunde](https://www.spiegel.de/panorama/justiz/schweizer-polizei-rettet-zwei-in-schlieren-entfuehrte-bolonka-hunde-a-37d29b05-4965-4cab-a332-cc463ec1c532#ref=rss)
-### schlieren
+* [https://www.spiegel.de/geschichte/die-letzten-wochen-des-zweiten-weltkriegs-folge-7-die-bombardierung-tokios-und-der-krieg-im-pazifik](https://www.spiegel.de/geschichte/die-letzten-wochen-des-zweiten-weltkriegs-folge-7-die-bombardierung-tokios-und-der-krieg-im-pazifik-a-7b57a157-f465-49aa-b64f-24ce783c2c0a#ref=rss)
+### bombardierung
 
-* [https://www.spiegel.de/panorama/justiz/schweizer-polizei-rettet-zwei-in-schlieren-entfuehrte-bolonka-hunde](https://www.spiegel.de/panorama/justiz/schweizer-polizei-rettet-zwei-in-schlieren-entfuehrte-bolonka-hunde-a-37d29b05-4965-4cab-a332-cc463ec1c532#ref=rss)
-### bolonkahunde
+* [https://www.spiegel.de/geschichte/die-letzten-wochen-des-zweiten-weltkriegs-folge-7-die-bombardierung-tokios-und-der-krieg-im-pazifik](https://www.spiegel.de/geschichte/die-letzten-wochen-des-zweiten-weltkriegs-folge-7-die-bombardierung-tokios-und-der-krieg-im-pazifik-a-7b57a157-f465-49aa-b64f-24ce783c2c0a#ref=rss)
+### tokios
 
-* [https://www.spiegel.de/panorama/justiz/schweizer-polizei-rettet-zwei-in-schlieren-entfuehrte-bolonka-hunde](https://www.spiegel.de/panorama/justiz/schweizer-polizei-rettet-zwei-in-schlieren-entfuehrte-bolonka-hunde-a-37d29b05-4965-4cab-a332-cc463ec1c532#ref=rss)
-### deutschland
+* [https://www.spiegel.de/geschichte/die-letzten-wochen-des-zweiten-weltkriegs-folge-7-die-bombardierung-tokios-und-der-krieg-im-pazifik](https://www.spiegel.de/geschichte/die-letzten-wochen-des-zweiten-weltkriegs-folge-7-die-bombardierung-tokios-und-der-krieg-im-pazifik-a-7b57a157-f465-49aa-b64f-24ce783c2c0a#ref=rss)
+### krieg
 
-* [https://www.spiegel.de/panorama/waldbraende-in-deutschland-gefahr-steigt-an-diesem-wochenende](https://www.spiegel.de/panorama/waldbraende-in-deutschland-gefahr-steigt-an-diesem-wochenende-a-9ec56b1f-5ea4-486e-b016-7bf4e2592fbc#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-berlin-london-paris-und-rom-begruessen-arabischen-gazaplan](https://www.spiegel.de/ausland/israel-gaza-krieg-berlin-london-paris-und-rom-begruessen-arabischen-gazaplan-a-d541fd02-603d-4eb9-ba0d-109b579d8020#ref=rss)
-### emotional
+* [https://www.spiegel.de/geschichte/die-letzten-wochen-des-zweiten-weltkriegs-folge-7-die-bombardierung-tokios-und-der-krieg-im-pazifik](https://www.spiegel.de/geschichte/die-letzten-wochen-des-zweiten-weltkriegs-folge-7-die-bombardierung-tokios-und-der-krieg-im-pazifik-a-7b57a157-f465-49aa-b64f-24ce783c2c0a#ref=rss)
+### pazifik
 
-* [https://www.spiegel.de/familie/mental-load-und-emotional-load-viele-frauen-haben-nicht-gelernt-gesunde-grenzen-zu-setzen](https://www.spiegel.de/familie/mental-load-und-emotional-load-viele-frauen-haben-nicht-gelernt-gesunde-grenzen-zu-setzen-a-39422d02-d7d1-481c-9cb8-52fd75bf8c66#ref=rss)
-### eishockey
+* [https://www.spiegel.de/geschichte/die-letzten-wochen-des-zweiten-weltkriegs-folge-7-die-bombardierung-tokios-und-der-krieg-im-pazifik](https://www.spiegel.de/geschichte/die-letzten-wochen-des-zweiten-weltkriegs-folge-7-die-bombardierung-tokios-und-der-krieg-im-pazifik-a-7b57a157-f465-49aa-b64f-24ce783c2c0a#ref=rss)
+### tagen
 
-* [https://www.spiegel.de/sport/eishockey/eishockey-duesseldorfs-abstieg-wie-geht-es-weiter-fuer-die-deg](https://www.spiegel.de/sport/eishockey/eishockey-duesseldorfs-abstieg-wie-geht-es-weiter-fuer-die-deg-a-f8e1232f-752f-46a6-8798-dc4f81fbed5b#ref=rss)
-### deg
+* [https://www.spiegel.de/geschichte/die-letzten-wochen-des-zweiten-weltkriegs-folge-7-die-bombardierung-tokios-und-der-krieg-im-pazifik](https://www.spiegel.de/geschichte/die-letzten-wochen-des-zweiten-weltkriegs-folge-7-die-bombardierung-tokios-und-der-krieg-im-pazifik-a-7b57a157-f465-49aa-b64f-24ce783c2c0a#ref=rss)
+* [https://www.spiegel.de/ausland/aktivisten-werfen-regierungstruppen-in-syrien-toetung-von-hunderten-zivilisten-vor](https://www.spiegel.de/ausland/aktivisten-werfen-regierungstruppen-in-syrien-toetung-von-hunderten-zivilisten-vor-a-4e030fe5-d2c7-443c-a459-81d50343cd31#ref=rss)
+### 2
 
-* [https://www.spiegel.de/sport/eishockey/eishockey-duesseldorfs-abstieg-wie-geht-es-weiter-fuer-die-deg](https://www.spiegel.de/sport/eishockey/eishockey-duesseldorfs-abstieg-wie-geht-es-weiter-fuer-die-deg-a-f8e1232f-752f-46a6-8798-dc4f81fbed5b#ref=rss)
-### ben
+* [https://www.spiegel.de/sport/fussball/2-bundesliga-hamburger-sv-schlaegt-fortuna-duesseldorf-17-saisontor-fuer-davie-selke](https://www.spiegel.de/sport/fussball/2-bundesliga-hamburger-sv-schlaegt-fortuna-duesseldorf-17-saisontor-fuer-davie-selke-a-8b76daf3-6b89-486f-81a9-34255d2ba5dd#ref=rss)
+* [https://www.spiegel.de/kultur/animationsfilm-flow-die-glueckskatze](https://www.spiegel.de/kultur/animationsfilm-flow-die-glueckskatze-a-5f8b0dc3-2240-45d7-957e-99e13ce4cfea#ref=rss)
+### bundesliga
 
-* [https://www.spiegel.de/ausland/london-mann-klettert-auf-big-ben-mit-pro-palaestina-aktion](https://www.spiegel.de/ausland/london-mann-klettert-auf-big-ben-mit-pro-palaestina-aktion-a-edfe9b96-4b1a-4206-8168-c74a694eb0ae#ref=rss)
-### arabischen
+* [https://www.spiegel.de/sport/fussball/2-bundesliga-hamburger-sv-schlaegt-fortuna-duesseldorf-17-saisontor-fuer-davie-selke](https://www.spiegel.de/sport/fussball/2-bundesliga-hamburger-sv-schlaegt-fortuna-duesseldorf-17-saisontor-fuer-davie-selke-a-8b76daf3-6b89-486f-81a9-34255d2ba5dd#ref=rss)
+* [https://www.spiegel.de/sport/fussball/bundesliga-sc-freiburg-mit-remis-gegen-rb-leipzig-noah-atubolu-stellt-rekord-auf](https://www.spiegel.de/sport/fussball/bundesliga-sc-freiburg-mit-remis-gegen-rb-leipzig-noah-atubolu-stellt-rekord-auf-a-84c261c3-90b2-4f9c-951c-78bdc4e14076#ref=rss)
+### hamburger
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-berlin-london-paris-und-rom-begruessen-arabischen-gazaplan](https://www.spiegel.de/ausland/israel-gaza-krieg-berlin-london-paris-und-rom-begruessen-arabischen-gazaplan-a-d541fd02-603d-4eb9-ba0d-109b579d8020#ref=rss)
-### colonia
+* [https://www.spiegel.de/sport/fussball/2-bundesliga-hamburger-sv-schlaegt-fortuna-duesseldorf-17-saisontor-fuer-davie-selke](https://www.spiegel.de/sport/fussball/2-bundesliga-hamburger-sv-schlaegt-fortuna-duesseldorf-17-saisontor-fuer-davie-selke-a-8b76daf3-6b89-486f-81a9-34255d2ba5dd#ref=rss)
+### sv
 
-* [https://www.spiegel.de/politik/deutschland/colonia-dignidad-die-muehsame-aufarbeitung-der-verbrechen](https://www.spiegel.de/politik/deutschland/colonia-dignidad-die-muehsame-aufarbeitung-der-verbrechen-a-27e6060e-9b44-4da2-b55d-7e924b451f43#ref=rss)
-### dignidad
+* [https://www.spiegel.de/sport/fussball/2-bundesliga-hamburger-sv-schlaegt-fortuna-duesseldorf-17-saisontor-fuer-davie-selke](https://www.spiegel.de/sport/fussball/2-bundesliga-hamburger-sv-schlaegt-fortuna-duesseldorf-17-saisontor-fuer-davie-selke-a-8b76daf3-6b89-486f-81a9-34255d2ba5dd#ref=rss)
+### düsseldorf
 
-* [https://www.spiegel.de/politik/deutschland/colonia-dignidad-die-muehsame-aufarbeitung-der-verbrechen](https://www.spiegel.de/politik/deutschland/colonia-dignidad-die-muehsame-aufarbeitung-der-verbrechen-a-27e6060e-9b44-4da2-b55d-7e924b451f43#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-bundesliga-hamburger-sv-schlaegt-fortuna-duesseldorf-17-saisontor-fuer-davie-selke](https://www.spiegel.de/sport/fussball/2-bundesliga-hamburger-sv-schlaegt-fortuna-duesseldorf-17-saisontor-fuer-davie-selke-a-8b76daf3-6b89-486f-81a9-34255d2ba5dd#ref=rss)
+### 17
+
+* [https://www.spiegel.de/sport/fussball/2-bundesliga-hamburger-sv-schlaegt-fortuna-duesseldorf-17-saisontor-fuer-davie-selke](https://www.spiegel.de/sport/fussball/2-bundesliga-hamburger-sv-schlaegt-fortuna-duesseldorf-17-saisontor-fuer-davie-selke-a-8b76daf3-6b89-486f-81a9-34255d2ba5dd#ref=rss)
+### saisontor
+
+* [https://www.spiegel.de/sport/fussball/2-bundesliga-hamburger-sv-schlaegt-fortuna-duesseldorf-17-saisontor-fuer-davie-selke](https://www.spiegel.de/sport/fussball/2-bundesliga-hamburger-sv-schlaegt-fortuna-duesseldorf-17-saisontor-fuer-davie-selke-a-8b76daf3-6b89-486f-81a9-34255d2ba5dd#ref=rss)
+### davie
+
+* [https://www.spiegel.de/sport/fussball/2-bundesliga-hamburger-sv-schlaegt-fortuna-duesseldorf-17-saisontor-fuer-davie-selke](https://www.spiegel.de/sport/fussball/2-bundesliga-hamburger-sv-schlaegt-fortuna-duesseldorf-17-saisontor-fuer-davie-selke-a-8b76daf3-6b89-486f-81a9-34255d2ba5dd#ref=rss)
+### selke
+
+* [https://www.spiegel.de/sport/fussball/2-bundesliga-hamburger-sv-schlaegt-fortuna-duesseldorf-17-saisontor-fuer-davie-selke](https://www.spiegel.de/sport/fussball/2-bundesliga-hamburger-sv-schlaegt-fortuna-duesseldorf-17-saisontor-fuer-davie-selke-a-8b76daf3-6b89-486f-81a9-34255d2ba5dd#ref=rss)
+### etwas
+
+* [https://www.spiegel.de/sport/fussball/2-bundesliga-hamburger-sv-schlaegt-fortuna-duesseldorf-17-saisontor-fuer-davie-selke](https://www.spiegel.de/sport/fussball/2-bundesliga-hamburger-sv-schlaegt-fortuna-duesseldorf-17-saisontor-fuer-davie-selke-a-8b76daf3-6b89-486f-81a9-34255d2ba5dd#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/juristin-ueber-femizide-in-unserem-juristischen-system-stimmt-etwas-nicht](https://www.spiegel.de/panorama/justiz/juristin-ueber-femizide-in-unserem-juristischen-system-stimmt-etwas-nicht-a-de2309f1-4817-4e86-a0ac-e68063ac668f#ref=rss)
+### spanien
+
+* [https://www.spiegel.de/sport/fussball/spanien-fc-barcelona-sagt-nach-tod-des-teamarztes-liga-spiel-ab](https://www.spiegel.de/sport/fussball/spanien-fc-barcelona-sagt-nach-tod-des-teamarztes-liga-spiel-ab-a-192b3fe6-fac5-4cf2-9627-1baab2215f1c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/juristin-ueber-femizide-in-unserem-juristischen-system-stimmt-etwas-nicht](https://www.spiegel.de/panorama/justiz/juristin-ueber-femizide-in-unserem-juristischen-system-stimmt-etwas-nicht-a-de2309f1-4817-4e86-a0ac-e68063ac668f#ref=rss)
+### barcelona
+
+* [https://www.spiegel.de/sport/fussball/spanien-fc-barcelona-sagt-nach-tod-des-teamarztes-liga-spiel-ab](https://www.spiegel.de/sport/fussball/spanien-fc-barcelona-sagt-nach-tod-des-teamarztes-liga-spiel-ab-a-192b3fe6-fac5-4cf2-9627-1baab2215f1c#ref=rss)
+### tod
+
+* [https://www.spiegel.de/sport/fussball/spanien-fc-barcelona-sagt-nach-tod-des-teamarztes-liga-spiel-ab](https://www.spiegel.de/sport/fussball/spanien-fc-barcelona-sagt-nach-tod-des-teamarztes-liga-spiel-ab-a-192b3fe6-fac5-4cf2-9627-1baab2215f1c#ref=rss)
+* [https://www.spiegel.de/ausland/putins-partei-verschenkt-fleischwolf-geraete-an-muetter-von-gefallenen-soldaten](https://www.spiegel.de/ausland/putins-partei-verschenkt-fleischwolf-geraete-an-muetter-von-gefallenen-soldaten-a-d709b2c5-632d-4331-8335-2d6d52feecfa#ref=rss)
+### ligaspiel
+
+* [https://www.spiegel.de/sport/fussball/spanien-fc-barcelona-sagt-nach-tod-des-teamarztes-liga-spiel-ab](https://www.spiegel.de/sport/fussball/spanien-fc-barcelona-sagt-nach-tod-des-teamarztes-liga-spiel-ab-a-192b3fe6-fac5-4cf2-9627-1baab2215f1c#ref=rss)
+### aktivisten
+
+* [https://www.spiegel.de/ausland/aktivisten-werfen-regierungstruppen-in-syrien-toetung-von-hunderten-zivilisten-vor](https://www.spiegel.de/ausland/aktivisten-werfen-regierungstruppen-in-syrien-toetung-von-hunderten-zivilisten-vor-a-4e030fe5-d2c7-443c-a459-81d50343cd31#ref=rss)
+### werfen
+
+* [https://www.spiegel.de/ausland/aktivisten-werfen-regierungstruppen-in-syrien-toetung-von-hunderten-zivilisten-vor](https://www.spiegel.de/ausland/aktivisten-werfen-regierungstruppen-in-syrien-toetung-von-hunderten-zivilisten-vor-a-4e030fe5-d2c7-443c-a459-81d50343cd31#ref=rss)
+### tötung
+
+* [https://www.spiegel.de/ausland/aktivisten-werfen-regierungstruppen-in-syrien-toetung-von-hunderten-zivilisten-vor](https://www.spiegel.de/ausland/aktivisten-werfen-regierungstruppen-in-syrien-toetung-von-hunderten-zivilisten-vor-a-4e030fe5-d2c7-443c-a459-81d50343cd31#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/juristin-ueber-femizide-in-unserem-juristischen-system-stimmt-etwas-nicht](https://www.spiegel.de/panorama/justiz/juristin-ueber-femizide-in-unserem-juristischen-system-stimmt-etwas-nicht-a-de2309f1-4817-4e86-a0ac-e68063ac668f#ref=rss)
+### großen
+
+* [https://www.spiegel.de/politik/deutschland/sondierungen-von-cdu-csu-und-spd-no-groko](https://www.spiegel.de/politik/deutschland/sondierungen-von-cdu-csu-und-spd-no-groko-a-7077dcca-4b8b-449e-a5fe-896114bbc822#ref=rss)
+* [https://www.spiegel.de/geschichte/frauen-und-macht-in-der-steinzeit-legende-vom-friedvollen-matriarchat](https://www.spiegel.de/geschichte/frauen-und-macht-in-der-steinzeit-legende-vom-friedvollen-matriarchat-a-663e0601-c885-48bf-868d-8dc14eb1be97#ref=rss)
+### flow
+
+* [https://www.spiegel.de/kultur/animationsfilm-flow-die-glueckskatze](https://www.spiegel.de/kultur/animationsfilm-flow-die-glueckskatze-a-5f8b0dc3-2240-45d7-957e-99e13ce4cfea#ref=rss)
+### animationsfilm
+
+* [https://www.spiegel.de/kultur/animationsfilm-flow-die-glueckskatze](https://www.spiegel.de/kultur/animationsfilm-flow-die-glueckskatze-a-5f8b0dc3-2240-45d7-957e-99e13ce4cfea#ref=rss)
+### glücklich
+
+* [https://www.spiegel.de/kultur/animationsfilm-flow-die-glueckskatze](https://www.spiegel.de/kultur/animationsfilm-flow-die-glueckskatze-a-5f8b0dc3-2240-45d7-957e-99e13ce4cfea#ref=rss)
+### freiburg
+
+* [https://www.spiegel.de/sport/fussball/bundesliga-sc-freiburg-mit-remis-gegen-rb-leipzig-noah-atubolu-stellt-rekord-auf](https://www.spiegel.de/sport/fussball/bundesliga-sc-freiburg-mit-remis-gegen-rb-leipzig-noah-atubolu-stellt-rekord-auf-a-84c261c3-90b2-4f9c-951c-78bdc4e14076#ref=rss)
+### leipzig
+
+* [https://www.spiegel.de/sport/fussball/bundesliga-sc-freiburg-mit-remis-gegen-rb-leipzig-noah-atubolu-stellt-rekord-auf](https://www.spiegel.de/sport/fussball/bundesliga-sc-freiburg-mit-remis-gegen-rb-leipzig-noah-atubolu-stellt-rekord-auf-a-84c261c3-90b2-4f9c-951c-78bdc4e14076#ref=rss)
+### gefallener
+
+* [https://www.spiegel.de/ausland/putins-partei-verschenkt-fleischwolf-geraete-an-muetter-von-gefallenen-soldaten](https://www.spiegel.de/ausland/putins-partei-verschenkt-fleischwolf-geraete-an-muetter-von-gefallenen-soldaten-a-d709b2c5-632d-4331-8335-2d6d52feecfa#ref=rss)
+### soldaten
+
+* [https://www.spiegel.de/ausland/putins-partei-verschenkt-fleischwolf-geraete-an-muetter-von-gefallenen-soldaten](https://www.spiegel.de/ausland/putins-partei-verschenkt-fleischwolf-geraete-an-muetter-von-gefallenen-soldaten-a-d709b2c5-632d-4331-8335-2d6d52feecfa#ref=rss)
+### juristin
+
+* [https://www.spiegel.de/panorama/justiz/juristin-ueber-femizide-in-unserem-juristischen-system-stimmt-etwas-nicht](https://www.spiegel.de/panorama/justiz/juristin-ueber-femizide-in-unserem-juristischen-system-stimmt-etwas-nicht-a-de2309f1-4817-4e86-a0ac-e68063ac668f#ref=rss)
+### frauen
+
+* [https://www.spiegel.de/panorama/justiz/juristin-ueber-femizide-in-unserem-juristischen-system-stimmt-etwas-nicht](https://www.spiegel.de/panorama/justiz/juristin-ueber-femizide-in-unserem-juristischen-system-stimmt-etwas-nicht-a-de2309f1-4817-4e86-a0ac-e68063ac668f#ref=rss)
+* [https://www.spiegel.de/geschichte/frauen-und-macht-in-der-steinzeit-legende-vom-friedvollen-matriarchat](https://www.spiegel.de/geschichte/frauen-und-macht-in-der-steinzeit-legende-vom-friedvollen-matriarchat-a-663e0601-c885-48bf-868d-8dc14eb1be97#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/ausland/iran-regierung-will-keinen-brief-von-donald-trump-erhalten-haben](https://www.spiegel.de/ausland/iran-regierung-will-keinen-brief-von-donald-trump-erhalten-haben-a-82a4567e-6bd9-4c98-9983-4ce8c70cf121#ref=rss)
+### brief
+
+* [https://www.spiegel.de/ausland/iran-regierung-will-keinen-brief-von-donald-trump-erhalten-haben](https://www.spiegel.de/ausland/iran-regierung-will-keinen-brief-von-donald-trump-erhalten-haben-a-82a4567e-6bd9-4c98-9983-4ce8c70cf121#ref=rss)
 
