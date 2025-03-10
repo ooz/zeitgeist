@@ -4,310 +4,347 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### usa
-
-* [https://www.spiegel.de/ausland/usa-donald-trump-schliesst-rezession-wegen-zoellen-nicht-aus](https://www.spiegel.de/ausland/usa-donald-trump-schliesst-rezession-wegen-zoellen-nicht-aus-a-6a8912a3-468a-43ed-b513-ca1100afc3c7#ref=rss)
-* [https://www.spiegel.de/sport/tennis/tennis-ugo-humbert-klagt-ueber-plastik-salate-in-den-usa](https://www.spiegel.de/sport/tennis/tennis-ugo-humbert-klagt-ueber-plastik-salate-in-den-usa-a-1fa72e4c-3429-4740-8659-6c931c9da851#ref=rss)
-* [https://www.spiegel.de/ausland/nordkorea-suedkorea-meldet-raketenabschuesse-aus-nordkorea-waehrend-manoever-mit-usa](https://www.spiegel.de/ausland/nordkorea-suedkorea-meldet-raketenabschuesse-aus-nordkorea-waehrend-manoever-mit-usa-a-c4812e9d-bca2-4252-af61-a9fd22697cc9#ref=rss)
-* [https://www.spiegel.de/ausland/kanada-und-die-usa-kanadas-neuer-ministerpraesident-ein-land-dem-wir-nicht-mehr-vertrauen-koennen](https://www.spiegel.de/ausland/kanada-und-die-usa-kanadas-neuer-ministerpraesident-ein-land-dem-wir-nicht-mehr-vertrauen-koennen-a-05359fea-d8d1-4806-b87d-e1a94a1894dc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-flughafen-streik-donald-trump-usa-buergergeld-reform](https://www.spiegel.de/politik/deutschland/news-flughafen-streik-donald-trump-usa-buergergeld-reform-a-7e451087-2a17-45c6-9663-2b947694dd68#ref=rss)
-### unter
-
-* [https://www.spiegel.de/panorama/justiz/spanien-cold-case-um-miguel-morales-molina-durch-flutkatastrophe-geloest](https://www.spiegel.de/panorama/justiz/spanien-cold-case-um-miguel-morales-molina-durch-flutkatastrophe-geloest-a-bb7f81d5-1fd5-4a5d-ad27-99076f641e45#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-so-haben-menschen-mit-migrationshintergrund-gewaehlt](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-so-haben-menschen-mit-migrationshintergrund-gewaehlt-a-4c4a8bc1-afc3-443c-b3c0-66ca74186a61#ref=rss)
-* [https://www.spiegel.de/ausland/golf-von-oman-iran-russland-und-china-planen-gemeinsames-marinemanoever](https://www.spiegel.de/ausland/golf-von-oman-iran-russland-und-china-planen-gemeinsames-marinemanoever-a-78453f48-63cb-4255-b4d1-ba4a46e62a00#ref=rss)
-* [https://www.spiegel.de/panorama/anna-possi-italiens-aelteste-barista-was-nonna-anna-zur-glaubensfrage-unter-kaffee-trinkern-sagt](https://www.spiegel.de/panorama/anna-possi-italiens-aelteste-barista-was-nonna-anna-zur-glaubensfrage-unter-kaffee-trinkern-sagt-a-c4db8a95-f272-4909-823c-0f800c5bcf0f#ref=rss)
-### claudia
-
-* [https://www.spiegel.de/sport/claudia-pechstein-eisschnelllauf-olympiasiegerin-beendet-ihre-karriere-mit-53-jahren](https://www.spiegel.de/sport/claudia-pechstein-eisschnelllauf-olympiasiegerin-beendet-ihre-karriere-mit-53-jahren-a-933bed09-a498-4e94-bd8b-bd4488c9a25b#ref=rss)
-* [https://www.spiegel.de/ausland/mexiko-zehntausende-feiern-aussetzung-der-us-strafzoelle-mit-praesidentin-claudia-sheinbaum](https://www.spiegel.de/ausland/mexiko-zehntausende-feiern-aussetzung-der-us-strafzoelle-mit-praesidentin-claudia-sheinbaum-a-7883c48d-8033-42e0-9093-118685d2ec2e#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/usa-donald-trump-schliesst-rezession-wegen-zoellen-nicht-aus](https://www.spiegel.de/ausland/usa-donald-trump-schliesst-rezession-wegen-zoellen-nicht-aus-a-6a8912a3-468a-43ed-b513-ca1100afc3c7#ref=rss)
-* [https://www.spiegel.de/ausland/kanada-und-die-usa-kanadas-neuer-ministerpraesident-ein-land-dem-wir-nicht-mehr-vertrauen-koennen](https://www.spiegel.de/ausland/kanada-und-die-usa-kanadas-neuer-ministerpraesident-ein-land-dem-wir-nicht-mehr-vertrauen-koennen-a-05359fea-d8d1-4806-b87d-e1a94a1894dc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-flughafen-streik-donald-trump-usa-buergergeld-reform](https://www.spiegel.de/politik/deutschland/news-flughafen-streik-donald-trump-usa-buergergeld-reform-a-7e451087-2a17-45c6-9663-2b947694dd68#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/usa-donald-trump-schliesst-rezession-wegen-zoellen-nicht-aus](https://www.spiegel.de/ausland/usa-donald-trump-schliesst-rezession-wegen-zoellen-nicht-aus-a-6a8912a3-468a-43ed-b513-ca1100afc3c7#ref=rss)
-* [https://www.spiegel.de/ausland/kanada-und-die-usa-kanadas-neuer-ministerpraesident-ein-land-dem-wir-nicht-mehr-vertrauen-koennen](https://www.spiegel.de/ausland/kanada-und-die-usa-kanadas-neuer-ministerpraesident-ein-land-dem-wir-nicht-mehr-vertrauen-koennen-a-05359fea-d8d1-4806-b87d-e1a94a1894dc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-flughafen-streik-donald-trump-usa-buergergeld-reform](https://www.spiegel.de/politik/deutschland/news-flughafen-streik-donald-trump-usa-buergergeld-reform-a-7e451087-2a17-45c6-9663-2b947694dd68#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/panorama/justiz/spanien-cold-case-um-miguel-morales-molina-durch-flutkatastrophe-geloest](https://www.spiegel.de/panorama/justiz/spanien-cold-case-um-miguel-morales-molina-durch-flutkatastrophe-geloest-a-bb7f81d5-1fd5-4a5d-ad27-99076f641e45#ref=rss)
-* [https://www.spiegel.de/sport/claudia-pechstein-eisschnelllauf-olympiasiegerin-beendet-ihre-karriere-mit-53-jahren](https://www.spiegel.de/sport/claudia-pechstein-eisschnelllauf-olympiasiegerin-beendet-ihre-karriere-mit-53-jahren-a-933bed09-a498-4e94-bd8b-bd4488c9a25b#ref=rss)
-* [https://www.spiegel.de/sport/serie-a-juve-mit-hoechster-niederlage-seit-57-jahren](https://www.spiegel.de/sport/serie-a-juve-mit-hoechster-niederlage-seit-57-jahren-a-eae7e686-ed4c-467b-bfaf-326031961405#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/panorama/justiz/spanien-cold-case-um-miguel-morales-molina-durch-flutkatastrophe-geloest](https://www.spiegel.de/panorama/justiz/spanien-cold-case-um-miguel-morales-molina-durch-flutkatastrophe-geloest-a-bb7f81d5-1fd5-4a5d-ad27-99076f641e45#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-mensch-stirbt-beim-entleeren-eines-muellcontainers](https://www.spiegel.de/panorama/berlin-mensch-stirbt-beim-entleeren-eines-muellcontainers-a-15dba07f-8d5d-4ddd-99dd-bae5263f6b9b#ref=rss)
-* [https://www.spiegel.de/ausland/nordkorea-suedkorea-meldet-raketenabschuesse-aus-nordkorea-waehrend-manoever-mit-usa](https://www.spiegel.de/ausland/nordkorea-suedkorea-meldet-raketenabschuesse-aus-nordkorea-waehrend-manoever-mit-usa-a-c4812e9d-bca2-4252-af61-a9fd22697cc9#ref=rss)
-### leben
-
-* [https://www.spiegel.de/panorama/justiz/spanien-cold-case-um-miguel-morales-molina-durch-flutkatastrophe-geloest](https://www.spiegel.de/panorama/justiz/spanien-cold-case-um-miguel-morales-molina-durch-flutkatastrophe-geloest-a-bb7f81d5-1fd5-4a5d-ad27-99076f641e45#ref=rss)
-* [https://www.spiegel.de/panorama/leute/cate-blanchett-will-sich-irgendwann-einen-richtigen-job-suchen](https://www.spiegel.de/panorama/leute/cate-blanchett-will-sich-irgendwann-einen-richtigen-job-suchen-a-8f9ce67e-d7ba-4790-9bb3-e3e3540d7610#ref=rss)
-* [https://www.spiegel.de/ausland/kanada-und-die-usa-kanadas-neuer-ministerpraesident-ein-land-dem-wir-nicht-mehr-vertrauen-koennen](https://www.spiegel.de/ausland/kanada-und-die-usa-kanadas-neuer-ministerpraesident-ein-land-dem-wir-nicht-mehr-vertrauen-koennen-a-05359fea-d8d1-4806-b87d-e1a94a1894dc#ref=rss)
-### einmal
-
-* [https://www.spiegel.de/wirtschaft/ver-di-will-druck-mit-weiteren-warnstreiks-verstaerken](https://www.spiegel.de/wirtschaft/ver-di-will-druck-mit-weiteren-warnstreiks-verstaerken-a-4f97f14c-33fc-45dd-9086-d6aa03e13f3e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/vw-mitarbeiter-duerfen-mit-praemien-in-voller-hoehe-rechnen](https://www.spiegel.de/wirtschaft/vw-mitarbeiter-duerfen-mit-praemien-in-voller-hoehe-rechnen-a-51abf27a-b728-4a48-8cc1-7c4c04c2ffd4#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-es-wird-kuehler-und-regnerischer](https://www.spiegel.de/panorama/wetter-in-deutschland-es-wird-kuehler-und-regnerischer-a-760003f8-2629-4f9a-bcd8-0f061fb2f9fd#ref=rss)
 ### spd
 
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-so-haben-menschen-mit-migrationshintergrund-gewaehlt](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-so-haben-menschen-mit-migrationshintergrund-gewaehlt-a-4c4a8bc1-afc3-443c-b3c0-66ca74186a61#ref=rss)
-* [https://www.spiegel.de/wirtschaft/cdu-csu-und-spd-mit-schulden-allein-kommt-deutschland-nicht-aus-der-krise-kommentar](https://www.spiegel.de/wirtschaft/cdu-csu-und-spd-mit-schulden-allein-kommt-deutschland-nicht-aus-der-krise-kommentar-a-57b45957-faa8-423a-8b06-d1deeebf41d3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-flughafen-streik-donald-trump-usa-buergergeld-reform](https://www.spiegel.de/politik/deutschland/news-flughafen-streik-donald-trump-usa-buergergeld-reform-a-7e451087-2a17-45c6-9663-2b947694dd68#ref=rss)
-### anderen
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-schuldenplaene-von-cdu-und-spd-betrug-beim-skispringen-stellenabbau-bei-biontech](https://www.spiegel.de/politik/deutschland/news-des-tages-schuldenplaene-von-cdu-und-spd-betrug-beim-skispringen-stellenabbau-bei-biontech-a-c6e64632-8c6c-49a0-8bad-0b3661233767#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-und-spd-friedrich-merz-enthuellt-details-zu-arbeitsgruppen-bei-koalitionsgespraechen](https://www.spiegel.de/politik/deutschland/cdu-und-spd-friedrich-merz-enthuellt-details-zu-arbeitsgruppen-bei-koalitionsgespraechen-a-34a6aa6f-9661-4776-b2a0-630a309b4df4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sondervermoegen-schuldenbremse-von-union-und-spd-so-geht-der-gruene-schulden-poker](https://www.spiegel.de/politik/deutschland/sondervermoegen-schuldenbremse-von-union-und-spd-so-geht-der-gruene-schulden-poker-a-f2517f4b-aca1-4b89-846b-f55849e1f8a6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sondervermoegen-und-schuldenbremse-die-linke-klagt-gegen-einberufung-des-alten-bundestags](https://www.spiegel.de/politik/deutschland/sondervermoegen-und-schuldenbremse-die-linke-klagt-gegen-einberufung-des-alten-bundestags-a-aed5171b-4c9d-44ec-b8bb-2a8b5ad92b4a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sondervermoegen-die-gruene-lehnen-finanzpaket-ab-lars-klingbeil-bleibt-optimistisch](https://www.spiegel.de/politik/deutschland/sondervermoegen-die-gruene-lehnen-finanzpaket-ab-lars-klingbeil-bleibt-optimistisch-a-5972371e-da92-429d-8eb9-e04e19a67218#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-wirft-union-und-spd-bei-sondierungen-klientelpolitik-vor](https://www.spiegel.de/politik/deutschland/robert-habeck-wirft-union-und-spd-bei-sondierungen-klientelpolitik-vor-a-2f2cbecb-329c-4692-b490-082700a72a64#ref=rss)
+### union
 
-* [https://www.spiegel.de/sport/nordische-ski-wm-pressestimmen-zum-skisprung-skandal](https://www.spiegel.de/sport/nordische-ski-wm-pressestimmen-zum-skisprung-skandal-a-76101635-139e-4b5a-836c-cae3a6e8a865#ref=rss)
-* [https://www.spiegel.de/panorama/leute/cate-blanchett-will-sich-irgendwann-einen-richtigen-job-suchen](https://www.spiegel.de/panorama/leute/cate-blanchett-will-sich-irgendwann-einen-richtigen-job-suchen-a-8f9ce67e-d7ba-4790-9bb3-e3e3540d7610#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-schuldenplaene-von-cdu-und-spd-betrug-beim-skispringen-stellenabbau-bei-biontech](https://www.spiegel.de/politik/deutschland/news-des-tages-schuldenplaene-von-cdu-und-spd-betrug-beim-skispringen-stellenabbau-bei-biontech-a-c6e64632-8c6c-49a0-8bad-0b3661233767#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-und-spd-friedrich-merz-enthuellt-details-zu-arbeitsgruppen-bei-koalitionsgespraechen](https://www.spiegel.de/politik/deutschland/cdu-und-spd-friedrich-merz-enthuellt-details-zu-arbeitsgruppen-bei-koalitionsgespraechen-a-34a6aa6f-9661-4776-b2a0-630a309b4df4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sondervermoegen-schuldenbremse-von-union-und-spd-so-geht-der-gruene-schulden-poker](https://www.spiegel.de/politik/deutschland/sondervermoegen-schuldenbremse-von-union-und-spd-so-geht-der-gruene-schulden-poker-a-f2517f4b-aca1-4b89-846b-f55849e1f8a6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sondervermoegen-und-schuldenbremse-die-linke-klagt-gegen-einberufung-des-alten-bundestags](https://www.spiegel.de/politik/deutschland/sondervermoegen-und-schuldenbremse-die-linke-klagt-gegen-einberufung-des-alten-bundestags-a-aed5171b-4c9d-44ec-b8bb-2a8b5ad92b4a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sondervermoegen-die-gruene-lehnen-finanzpaket-ab-lars-klingbeil-bleibt-optimistisch](https://www.spiegel.de/politik/deutschland/sondervermoegen-die-gruene-lehnen-finanzpaket-ab-lars-klingbeil-bleibt-optimistisch-a-5972371e-da92-429d-8eb9-e04e19a67218#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-wirft-union-und-spd-bei-sondierungen-klientelpolitik-vor](https://www.spiegel.de/politik/deutschland/robert-habeck-wirft-union-und-spd-bei-sondierungen-klientelpolitik-vor-a-2f2cbecb-329c-4692-b490-082700a72a64#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/panorama/frankreich-gesetzesinitiative-zur-lockerung-von-kneipenvorschriften](https://www.spiegel.de/panorama/frankreich-gesetzesinitiative-zur-lockerung-von-kneipenvorschriften-a-a316034a-ca98-424b-8078-863e2825d44f#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-umweltministerin-agnes-pannier-runacher-stellt-massnahmen-gegen-klimawandel-vor](https://www.spiegel.de/ausland/frankreich-umweltministerin-agnes-pannier-runacher-stellt-massnahmen-gegen-klimawandel-vor-a-a8ba2799-534f-4780-8488-4a8f6b80d68d#ref=rss)
+* [https://www.spiegel.de/auto/indien-delhi-sperrt-tankstellen-fuer-alte-benzin-und-dieselautos](https://www.spiegel.de/auto/indien-delhi-sperrt-tankstellen-fuer-alte-benzin-und-dieselautos-a-f9ab38ca-5045-4c01-a4a3-1c22d8c1a9d0#ref=rss)
+* [https://www.spiegel.de/panorama/grossbritannien-tanker-und-frachtschiff-in-der-nordsee-kollidiert](https://www.spiegel.de/panorama/grossbritannien-tanker-und-frachtschiff-in-der-nordsee-kollidiert-a-a0976216-81f0-44c6-a2dc-1c83a2e3787a#ref=rss)
+### frauen
+
+* [https://www.spiegel.de/panorama/gesellschaft/gewalt-gegen-frauen-ludwigsburg-startet-als-erste-deutsche-stadt-gedenktag-fuer-opfer](https://www.spiegel.de/panorama/gesellschaft/gewalt-gegen-frauen-ludwigsburg-startet-als-erste-deutsche-stadt-gedenktag-fuer-opfer-a-2f47f6a9-521b-4c11-b6ac-8164ae924287#ref=rss)
+* [https://www.spiegel.de/ausland/chinas-volkskongress-die-13-taiwan-abgeordneten-die-in-taiwan-niemand-kennt](https://www.spiegel.de/ausland/chinas-volkskongress-die-13-taiwan-abgeordneten-die-in-taiwan-niemand-kennt-a-990d0b59-4a8e-440e-98c0-f2233b564721#ref=rss)
+* [https://www.spiegel.de/kultur/k-i-z-konzert-in-hamburg-nur-fuer-frauen-bei-jeder-erwaehnung-des-wortes-maenner-wird-gebuht](https://www.spiegel.de/kultur/k-i-z-konzert-in-hamburg-nur-fuer-frauen-bei-jeder-erwaehnung-des-wortes-maenner-wird-gebuht-a-e1df47c1-f24f-48b5-b86c-b1bf7866fd98#ref=rss)
+### kinder
+
+* [https://www.spiegel.de/panorama/leute/sarah-connor-spricht-ueber-beziehungen-ist-die-ehe-noch-zeitgemaess](https://www.spiegel.de/panorama/leute/sarah-connor-spricht-ueber-beziehungen-ist-die-ehe-noch-zeitgemaess-a-3a59ea9c-3c57-45cc-bc97-9928e24179c9#ref=rss)
+* [https://www.spiegel.de/panorama/quedlinburg-kinder-malen-offenbar-hakenkreuz-in-kirche-und-bewerfen-zeugen-mit-pflastersteinen](https://www.spiegel.de/panorama/quedlinburg-kinder-malen-offenbar-hakenkreuz-in-kirche-und-bewerfen-zeugen-mit-pflastersteinen-a-3459e0eb-73e0-4f5b-a9fe-88cb41e1eda9#ref=rss)
+* [https://www.spiegel.de/gesundheit/schwangerschaft/psychische-gesundheit-interview-mit-kinderaerztin-desiree-ratay](https://www.spiegel.de/gesundheit/schwangerschaft/psychische-gesundheit-interview-mit-kinderaerztin-desiree-ratay-a-af55afb7-8fe5-43f9-a8e9-1917aeb1e66e#ref=rss)
+### kirche
+
+* [https://www.spiegel.de/panorama/gesellschaft/georg-baetzing-katholische-kirche-will-sich-weiter-in-politik-einmischen](https://www.spiegel.de/panorama/gesellschaft/georg-baetzing-katholische-kirche-will-sich-weiter-in-politik-einmischen-a-57925b7f-384b-4375-b4ba-69c5733ae9ec#ref=rss)
+* [https://www.spiegel.de/panorama/quedlinburg-kinder-malen-offenbar-hakenkreuz-in-kirche-und-bewerfen-zeugen-mit-pflastersteinen](https://www.spiegel.de/panorama/quedlinburg-kinder-malen-offenbar-hakenkreuz-in-kirche-und-bewerfen-zeugen-mit-pflastersteinen-a-3459e0eb-73e0-4f5b-a9fe-88cb41e1eda9#ref=rss)
+### merz
+
+* [https://www.spiegel.de/kultur/friedrich-merz-und-die-voicemail-der-letzte-mensch-der-nach-dem-piepton-spricht](https://www.spiegel.de/kultur/friedrich-merz-und-die-voicemail-der-letzte-mensch-der-nach-dem-piepton-spricht-a-749b8bd5-59c2-4d44-96ea-60adf579d7ad#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-und-spd-friedrich-merz-enthuellt-details-zu-arbeitsgruppen-bei-koalitionsgespraechen](https://www.spiegel.de/politik/deutschland/cdu-und-spd-friedrich-merz-enthuellt-details-zu-arbeitsgruppen-bei-koalitionsgespraechen-a-34a6aa6f-9661-4776-b2a0-630a309b4df4#ref=rss)
+### cdu
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-schuldenplaene-von-cdu-und-spd-betrug-beim-skispringen-stellenabbau-bei-biontech](https://www.spiegel.de/politik/deutschland/news-des-tages-schuldenplaene-von-cdu-und-spd-betrug-beim-skispringen-stellenabbau-bei-biontech-a-c6e64632-8c6c-49a0-8bad-0b3661233767#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-und-spd-friedrich-merz-enthuellt-details-zu-arbeitsgruppen-bei-koalitionsgespraechen](https://www.spiegel.de/politik/deutschland/cdu-und-spd-friedrich-merz-enthuellt-details-zu-arbeitsgruppen-bei-koalitionsgespraechen-a-34a6aa6f-9661-4776-b2a0-630a309b4df4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-wirft-union-und-spd-bei-sondierungen-klientelpolitik-vor](https://www.spiegel.de/politik/deutschland/robert-habeck-wirft-union-und-spd-bei-sondierungen-klientelpolitik-vor-a-2f2cbecb-329c-4692-b490-082700a72a64#ref=rss)
+### grüne
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-schuldenplaene-von-cdu-und-spd-betrug-beim-skispringen-stellenabbau-bei-biontech](https://www.spiegel.de/politik/deutschland/news-des-tages-schuldenplaene-von-cdu-und-spd-betrug-beim-skispringen-stellenabbau-bei-biontech-a-c6e64632-8c6c-49a0-8bad-0b3661233767#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sondervermoegen-schuldenbremse-von-union-und-spd-so-geht-der-gruene-schulden-poker](https://www.spiegel.de/politik/deutschland/sondervermoegen-schuldenbremse-von-union-und-spd-so-geht-der-gruene-schulden-poker-a-f2517f4b-aca1-4b89-846b-f55849e1f8a6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sondervermoegen-die-gruene-lehnen-finanzpaket-ab-lars-klingbeil-bleibt-optimistisch](https://www.spiegel.de/politik/deutschland/sondervermoegen-die-gruene-lehnen-finanzpaket-ab-lars-klingbeil-bleibt-optimistisch-a-5972371e-da92-429d-8eb9-e04e19a67218#ref=rss)
+### sperren
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-schuldenplaene-von-cdu-und-spd-betrug-beim-skispringen-stellenabbau-bei-biontech](https://www.spiegel.de/politik/deutschland/news-des-tages-schuldenplaene-von-cdu-und-spd-betrug-beim-skispringen-stellenabbau-bei-biontech-a-c6e64632-8c6c-49a0-8bad-0b3661233767#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sondervermoegen-schuldenbremse-von-union-und-spd-so-geht-der-gruene-schulden-poker](https://www.spiegel.de/politik/deutschland/sondervermoegen-schuldenbremse-von-union-und-spd-so-geht-der-gruene-schulden-poker-a-f2517f4b-aca1-4b89-846b-f55849e1f8a6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sondervermoegen-die-gruene-lehnen-finanzpaket-ab-lars-klingbeil-bleibt-optimistisch](https://www.spiegel.de/politik/deutschland/sondervermoegen-die-gruene-lehnen-finanzpaket-ab-lars-klingbeil-bleibt-optimistisch-a-5972371e-da92-429d-8eb9-e04e19a67218#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/kultur/friedrich-merz-und-die-voicemail-der-letzte-mensch-der-nach-dem-piepton-spricht](https://www.spiegel.de/kultur/friedrich-merz-und-die-voicemail-der-letzte-mensch-der-nach-dem-piepton-spricht-a-749b8bd5-59c2-4d44-96ea-60adf579d7ad#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-und-spd-friedrich-merz-enthuellt-details-zu-arbeitsgruppen-bei-koalitionsgespraechen](https://www.spiegel.de/politik/deutschland/cdu-und-spd-friedrich-merz-enthuellt-details-zu-arbeitsgruppen-bei-koalitionsgespraechen-a-34a6aa6f-9661-4776-b2a0-630a309b4df4#ref=rss)
+### alten
+
+* [https://www.spiegel.de/ausland/groenland-vor-den-wahlen-entscheidung-zwischen-usa-und-daenemark](https://www.spiegel.de/ausland/groenland-vor-den-wahlen-entscheidung-zwischen-usa-und-daenemark-a-e7e5912c-ab53-4c51-9b59-79c09a3863f2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sondervermoegen-und-schuldenbremse-die-linke-klagt-gegen-einberufung-des-alten-bundestags](https://www.spiegel.de/politik/deutschland/sondervermoegen-und-schuldenbremse-die-linke-klagt-gegen-einberufung-des-alten-bundestags-a-aed5171b-4c9d-44ec-b8bb-2a8b5ad92b4a#ref=rss)
+* [https://www.spiegel.de/auto/indien-delhi-sperrt-tankstellen-fuer-alte-benzin-und-dieselautos](https://www.spiegel.de/auto/indien-delhi-sperrt-tankstellen-fuer-alte-benzin-und-dieselautos-a-f9ab38ca-5045-4c01-a4a3-1c22d8c1a9d0#ref=rss)
+### niemand
+
+* [https://www.spiegel.de/ausland/chinas-volkskongress-die-13-taiwan-abgeordneten-die-in-taiwan-niemand-kennt](https://www.spiegel.de/ausland/chinas-volkskongress-die-13-taiwan-abgeordneten-die-in-taiwan-niemand-kennt-a-990d0b59-4a8e-440e-98c0-f2233b564721#ref=rss)
+* [https://www.spiegel.de/panorama/mannheim-regionalbahn-verliert-tuer-waehrend-der-fahrt-nach-heidelberg](https://www.spiegel.de/panorama/mannheim-regionalbahn-verliert-tuer-waehrend-der-fahrt-nach-heidelberg-a-c26eb876-7310-473f-967f-7be554daae3c#ref=rss)
+### männer
+
+* [https://www.spiegel.de/ausland/chinas-volkskongress-die-13-taiwan-abgeordneten-die-in-taiwan-niemand-kennt](https://www.spiegel.de/ausland/chinas-volkskongress-die-13-taiwan-abgeordneten-die-in-taiwan-niemand-kennt-a-990d0b59-4a8e-440e-98c0-f2233b564721#ref=rss)
+* [https://www.spiegel.de/kultur/k-i-z-konzert-in-hamburg-nur-fuer-frauen-bei-jeder-erwaehnung-des-wortes-maenner-wird-gebuht](https://www.spiegel.de/kultur/k-i-z-konzert-in-hamburg-nur-fuer-frauen-bei-jeder-erwaehnung-des-wortes-maenner-wird-gebuht-a-e1df47c1-f24f-48b5-b86c-b1bf7866fd98#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-mann-liefert-sich-autorennen-die-zweijaehrige-tochter-sitzt-im-fussraum](https://www.spiegel.de/panorama/justiz/berlin-mann-liefert-sich-autorennen-die-zweijaehrige-tochter-sitzt-im-fussraum-a-d9d9194e-cf76-48a9-8b0c-2c4930adb092#ref=rss)
+### sport
+
+* [https://www.spiegel.de/sport/wintersport/claudia-pechstein-verkuendet-karriereende-champagner-und-giftpfeile-nach-15-jahren-krieg](https://www.spiegel.de/sport/wintersport/claudia-pechstein-verkuendet-karriereende-champagner-und-giftpfeile-nach-15-jahren-krieg-a-8f7a37ee-9769-4bf8-8b5f-8c2b8efdc50c#ref=rss)
+* [https://www.spiegel.de/sport/betrug-und-manipulation-im-sport-trickserei-bei-schlaegern-degen-und-boxhandschuhen](https://www.spiegel.de/sport/betrug-und-manipulation-im-sport-trickserei-bei-schlaegern-degen-und-boxhandschuhen-a-975aaeba-ac3b-4223-a95f-8396024562fa#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/kultur/k-i-z-konzert-in-hamburg-nur-fuer-frauen-bei-jeder-erwaehnung-des-wortes-maenner-wird-gebuht](https://www.spiegel.de/kultur/k-i-z-konzert-in-hamburg-nur-fuer-frauen-bei-jeder-erwaehnung-des-wortes-maenner-wird-gebuht-a-e1df47c1-f24f-48b5-b86c-b1bf7866fd98#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-j-d-vances-cousin-nate-vance-kritisiert-ukrainepolitik-der-usa-scharf](https://www.spiegel.de/ausland/ukraine-j-d-vances-cousin-nate-vance-kritisiert-ukrainepolitik-der-usa-scharf-a-e020d880-3e98-4a61-9c3f-4492b451c4e0#ref=rss)
+* [https://www.spiegel.de/auto/indien-delhi-sperrt-tankstellen-fuer-alte-benzin-und-dieselautos](https://www.spiegel.de/auto/indien-delhi-sperrt-tankstellen-fuer-alte-benzin-und-dieselautos-a-f9ab38ca-5045-4c01-a4a3-1c22d8c1a9d0#ref=rss)
+### grünen
+
+* [https://www.spiegel.de/politik/deutschland/sondervermoegen-schuldenbremse-von-union-und-spd-so-geht-der-gruene-schulden-poker](https://www.spiegel.de/politik/deutschland/sondervermoegen-schuldenbremse-von-union-und-spd-so-geht-der-gruene-schulden-poker-a-f2517f4b-aca1-4b89-846b-f55849e1f8a6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sondervermoegen-die-gruene-lehnen-finanzpaket-ab-lars-klingbeil-bleibt-optimistisch](https://www.spiegel.de/politik/deutschland/sondervermoegen-die-gruene-lehnen-finanzpaket-ab-lars-klingbeil-bleibt-optimistisch-a-5972371e-da92-429d-8eb9-e04e19a67218#ref=rss)
+### finanzpaket
+
+* [https://www.spiegel.de/politik/deutschland/sondervermoegen-und-schuldenbremse-die-linke-klagt-gegen-einberufung-des-alten-bundestags](https://www.spiegel.de/politik/deutschland/sondervermoegen-und-schuldenbremse-die-linke-klagt-gegen-einberufung-des-alten-bundestags-a-aed5171b-4c9d-44ec-b8bb-2a8b5ad92b4a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sondervermoegen-die-gruene-lehnen-finanzpaket-ab-lars-klingbeil-bleibt-optimistisch](https://www.spiegel.de/politik/deutschland/sondervermoegen-die-gruene-lehnen-finanzpaket-ab-lars-klingbeil-bleibt-optimistisch-a-5972371e-da92-429d-8eb9-e04e19a67218#ref=rss)
+### frankreich
+
+* [https://www.spiegel.de/panorama/frankreich-gesetzesinitiative-zur-lockerung-von-kneipenvorschriften](https://www.spiegel.de/panorama/frankreich-gesetzesinitiative-zur-lockerung-von-kneipenvorschriften-a-a316034a-ca98-424b-8078-863e2825d44f#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-umweltministerin-agnes-pannier-runacher-stellt-massnahmen-gegen-klimawandel-vor](https://www.spiegel.de/ausland/frankreich-umweltministerin-agnes-pannier-runacher-stellt-massnahmen-gegen-klimawandel-vor-a-a8ba2799-534f-4780-8488-4a8f6b80d68d#ref=rss)
+### französische
+
+* [https://www.spiegel.de/panorama/frankreich-gesetzesinitiative-zur-lockerung-von-kneipenvorschriften](https://www.spiegel.de/panorama/frankreich-gesetzesinitiative-zur-lockerung-von-kneipenvorschriften-a-a316034a-ca98-424b-8078-863e2825d44f#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-umweltministerin-agnes-pannier-runacher-stellt-massnahmen-gegen-klimawandel-vor](https://www.spiegel.de/ausland/frankreich-umweltministerin-agnes-pannier-runacher-stellt-massnahmen-gegen-klimawandel-vor-a-a8ba2799-534f-4780-8488-4a8f6b80d68d#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/panorama/frankreich-gesetzesinitiative-zur-lockerung-von-kneipenvorschriften](https://www.spiegel.de/panorama/frankreich-gesetzesinitiative-zur-lockerung-von-kneipenvorschriften-a-a316034a-ca98-424b-8078-863e2825d44f#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/georg-baetzing-katholische-kirche-will-sich-weiter-in-politik-einmischen](https://www.spiegel.de/panorama/gesellschaft/georg-baetzing-katholische-kirche-will-sich-weiter-in-politik-einmischen-a-57925b7f-384b-4375-b4ba-69c5733ae9ec#ref=rss)
+### jacht
+
+* [https://www.spiegel.de/panorama/jacht-christina-o-von-aristoteles-onassis-die-bekannte-luxusjacht-steht-zum-verkauf](https://www.spiegel.de/panorama/jacht-christina-o-von-aristoteles-onassis-die-bekannte-luxusjacht-steht-zum-verkauf-a-8f410b90-72ea-4eca-930e-7a0b40300cdf#ref=rss)
+### christina
+
+* [https://www.spiegel.de/panorama/jacht-christina-o-von-aristoteles-onassis-die-bekannte-luxusjacht-steht-zum-verkauf](https://www.spiegel.de/panorama/jacht-christina-o-von-aristoteles-onassis-die-bekannte-luxusjacht-steht-zum-verkauf-a-8f410b90-72ea-4eca-930e-7a0b40300cdf#ref=rss)
+### o
+
+* [https://www.spiegel.de/panorama/jacht-christina-o-von-aristoteles-onassis-die-bekannte-luxusjacht-steht-zum-verkauf](https://www.spiegel.de/panorama/jacht-christina-o-von-aristoteles-onassis-die-bekannte-luxusjacht-steht-zum-verkauf-a-8f410b90-72ea-4eca-930e-7a0b40300cdf#ref=rss)
+### verkauf
+
+* [https://www.spiegel.de/panorama/jacht-christina-o-von-aristoteles-onassis-die-bekannte-luxusjacht-steht-zum-verkauf](https://www.spiegel.de/panorama/jacht-christina-o-von-aristoteles-onassis-die-bekannte-luxusjacht-steht-zum-verkauf-a-8f410b90-72ea-4eca-930e-7a0b40300cdf#ref=rss)
+### betrug
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-schuldenplaene-von-cdu-und-spd-betrug-beim-skispringen-stellenabbau-bei-biontech](https://www.spiegel.de/politik/deutschland/news-des-tages-schuldenplaene-von-cdu-und-spd-betrug-beim-skispringen-stellenabbau-bei-biontech-a-c6e64632-8c6c-49a0-8bad-0b3661233767#ref=rss)
+* [https://www.spiegel.de/sport/betrug-und-manipulation-im-sport-trickserei-bei-schlaegern-degen-und-boxhandschuhen](https://www.spiegel.de/sport/betrug-und-manipulation-im-sport-trickserei-bei-schlaegern-degen-und-boxhandschuhen-a-975aaeba-ac3b-4223-a95f-8396024562fa#ref=rss)
+### biontech
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-schuldenplaene-von-cdu-und-spd-betrug-beim-skispringen-stellenabbau-bei-biontech](https://www.spiegel.de/politik/deutschland/news-des-tages-schuldenplaene-von-cdu-und-spd-betrug-beim-skispringen-stellenabbau-bei-biontech-a-c6e64632-8c6c-49a0-8bad-0b3661233767#ref=rss)
+### bringt
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-schuldenplaene-von-cdu-und-spd-betrug-beim-skispringen-stellenabbau-bei-biontech](https://www.spiegel.de/politik/deutschland/news-des-tages-schuldenplaene-von-cdu-und-spd-betrug-beim-skispringen-stellenabbau-bei-biontech-a-c6e64632-8c6c-49a0-8bad-0b3661233767#ref=rss)
+* [https://www.spiegel.de/ausland/groenland-vor-den-wahlen-entscheidung-zwischen-usa-und-daenemark](https://www.spiegel.de/ausland/groenland-vor-den-wahlen-entscheidung-zwischen-usa-und-daenemark-a-e7e5912c-ab53-4c51-9b59-79c09a3863f2#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-schuldenplaene-von-cdu-und-spd-betrug-beim-skispringen-stellenabbau-bei-biontech](https://www.spiegel.de/politik/deutschland/news-des-tages-schuldenplaene-von-cdu-und-spd-betrug-beim-skispringen-stellenabbau-bei-biontech-a-c6e64632-8c6c-49a0-8bad-0b3661233767#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/gewalt-gegen-frauen-ludwigsburg-startet-als-erste-deutsche-stadt-gedenktag-fuer-opfer](https://www.spiegel.de/panorama/gesellschaft/gewalt-gegen-frauen-ludwigsburg-startet-als-erste-deutsche-stadt-gedenktag-fuer-opfer-a-2f47f6a9-521b-4c11-b6ac-8164ae924287#ref=rss)
+### donald
+
+* [https://www.spiegel.de/geschichte/herfried-muenkler-wie-donald-trump-amerikas-macht-ruiniert-und-die-welt-ins-chaos-stuerzt](https://www.spiegel.de/geschichte/herfried-muenkler-wie-donald-trump-amerikas-macht-ruiniert-und-die-welt-ins-chaos-stuerzt-a-e7264441-8eb1-45e2-9f57-23918a47921b#ref=rss)
+### welt
+
+* [https://www.spiegel.de/geschichte/herfried-muenkler-wie-donald-trump-amerikas-macht-ruiniert-und-die-welt-ins-chaos-stuerzt](https://www.spiegel.de/geschichte/herfried-muenkler-wie-donald-trump-amerikas-macht-ruiniert-und-die-welt-ins-chaos-stuerzt-a-e7264441-8eb1-45e2-9f57-23918a47921b#ref=rss)
+### georg
+
+* [https://www.spiegel.de/panorama/gesellschaft/georg-baetzing-katholische-kirche-will-sich-weiter-in-politik-einmischen](https://www.spiegel.de/panorama/gesellschaft/georg-baetzing-katholische-kirche-will-sich-weiter-in-politik-einmischen-a-57925b7f-384b-4375-b4ba-69c5733ae9ec#ref=rss)
+### bätzing
+
+* [https://www.spiegel.de/panorama/gesellschaft/georg-baetzing-katholische-kirche-will-sich-weiter-in-politik-einmischen](https://www.spiegel.de/panorama/gesellschaft/georg-baetzing-katholische-kirche-will-sich-weiter-in-politik-einmischen-a-57925b7f-384b-4375-b4ba-69c5733ae9ec#ref=rss)
+### andere
+
+* [https://www.spiegel.de/panorama/gesellschaft/georg-baetzing-katholische-kirche-will-sich-weiter-in-politik-einmischen](https://www.spiegel.de/panorama/gesellschaft/georg-baetzing-katholische-kirche-will-sich-weiter-in-politik-einmischen-a-57925b7f-384b-4375-b4ba-69c5733ae9ec#ref=rss)
+* [https://www.spiegel.de/karriere/karriere-ich-schaeme-mich-fuer-meinen-langweiligen-lebenslauf](https://www.spiegel.de/karriere/karriere-ich-schaeme-mich-fuer-meinen-langweiligen-lebenslauf-a-9d3b4196-cd7d-4d9b-92c7-5ca9cf95f2e5#ref=rss)
+### umweltministerin
+
+* [https://www.spiegel.de/ausland/frankreich-umweltministerin-agnes-pannier-runacher-stellt-massnahmen-gegen-klimawandel-vor](https://www.spiegel.de/ausland/frankreich-umweltministerin-agnes-pannier-runacher-stellt-massnahmen-gegen-klimawandel-vor-a-a8ba2799-534f-4780-8488-4a8f6b80d68d#ref=rss)
+### maßnahmen
+
+* [https://www.spiegel.de/ausland/frankreich-umweltministerin-agnes-pannier-runacher-stellt-massnahmen-gegen-klimawandel-vor](https://www.spiegel.de/ausland/frankreich-umweltministerin-agnes-pannier-runacher-stellt-massnahmen-gegen-klimawandel-vor-a-a8ba2799-534f-4780-8488-4a8f6b80d68d#ref=rss)
+### etwa
+
+* [https://www.spiegel.de/ausland/frankreich-umweltministerin-agnes-pannier-runacher-stellt-massnahmen-gegen-klimawandel-vor](https://www.spiegel.de/ausland/frankreich-umweltministerin-agnes-pannier-runacher-stellt-massnahmen-gegen-klimawandel-vor-a-a8ba2799-534f-4780-8488-4a8f6b80d68d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/volkswagen-currywurst-von-vw-erreicht-neuen-verkaufsrekord](https://www.spiegel.de/wirtschaft/volkswagen-currywurst-von-vw-erreicht-neuen-verkaufsrekord-a-61aaaab5-72b6-41ca-be80-1749a57e1f39#ref=rss)
+### ganz
+
+* [https://www.spiegel.de/kultur/friedrich-merz-und-die-voicemail-der-letzte-mensch-der-nach-dem-piepton-spricht](https://www.spiegel.de/kultur/friedrich-merz-und-die-voicemail-der-letzte-mensch-der-nach-dem-piepton-spricht-a-749b8bd5-59c2-4d44-96ea-60adf579d7ad#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/wirtschaft/cdu-csu-und-spd-mit-schulden-allein-kommt-deutschland-nicht-aus-der-krise-kommentar](https://www.spiegel.de/wirtschaft/cdu-csu-und-spd-mit-schulden-allein-kommt-deutschland-nicht-aus-der-krise-kommentar-a-57b45957-faa8-423a-8b06-d1deeebf41d3#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-es-wird-kuehler-und-regnerischer](https://www.spiegel.de/panorama/wetter-in-deutschland-es-wird-kuehler-und-regnerischer-a-760003f8-2629-4f9a-bcd8-0f061fb2f9fd#ref=rss)
-* [https://www.spiegel.de/start/mieten-in-uni-staedten-in-deutschland-grossstaedte-werden-zur-no-rent-area-fuer-studierende](https://www.spiegel.de/start/mieten-in-uni-staedten-in-deutschland-grossstaedte-werden-zur-no-rent-area-fuer-studierende-a-8d25b315-97ca-43d7-86e1-b42c6760f807#ref=rss)
-### krise
+* [https://www.spiegel.de/kultur/friedrich-merz-und-die-voicemail-der-letzte-mensch-der-nach-dem-piepton-spricht](https://www.spiegel.de/kultur/friedrich-merz-und-die-voicemail-der-letzte-mensch-der-nach-dem-piepton-spricht-a-749b8bd5-59c2-4d44-96ea-60adf579d7ad#ref=rss)
+### nein
 
-* [https://www.spiegel.de/wirtschaft/cdu-csu-und-spd-mit-schulden-allein-kommt-deutschland-nicht-aus-der-krise-kommentar](https://www.spiegel.de/wirtschaft/cdu-csu-und-spd-mit-schulden-allein-kommt-deutschland-nicht-aus-der-krise-kommentar-a-57b45957-faa8-423a-8b06-d1deeebf41d3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/vw-mitarbeiter-duerfen-mit-praemien-in-voller-hoehe-rechnen](https://www.spiegel.de/wirtschaft/vw-mitarbeiter-duerfen-mit-praemien-in-voller-hoehe-rechnen-a-51abf27a-b728-4a48-8cc1-7c4c04c2ffd4#ref=rss)
-* [https://www.spiegel.de/sport/serie-a-juve-mit-hoechster-niederlage-seit-57-jahren](https://www.spiegel.de/sport/serie-a-juve-mit-hoechster-niederlage-seit-57-jahren-a-eae7e686-ed4c-467b-bfaf-326031961405#ref=rss)
-### nordkorea
+* [https://www.spiegel.de/kultur/friedrich-merz-und-die-voicemail-der-letzte-mensch-der-nach-dem-piepton-spricht](https://www.spiegel.de/kultur/friedrich-merz-und-die-voicemail-der-letzte-mensch-der-nach-dem-piepton-spricht-a-749b8bd5-59c2-4d44-96ea-60adf579d7ad#ref=rss)
+* [https://www.spiegel.de/wirtschaft/volkswagen-currywurst-von-vw-erreicht-neuen-verkaufsrekord](https://www.spiegel.de/wirtschaft/volkswagen-currywurst-von-vw-erreicht-neuen-verkaufsrekord-a-61aaaab5-72b6-41ca-be80-1749a57e1f39#ref=rss)
+### grönland
 
-* [https://www.spiegel.de/ausland/nordkorea-suedkorea-meldet-raketenabschuesse-aus-nordkorea-waehrend-manoever-mit-usa](https://www.spiegel.de/ausland/nordkorea-suedkorea-meldet-raketenabschuesse-aus-nordkorea-waehrend-manoever-mit-usa-a-c4812e9d-bca2-4252-af61-a9fd22697cc9#ref=rss)
-### manöver
+* [https://www.spiegel.de/ausland/groenland-vor-den-wahlen-entscheidung-zwischen-usa-und-daenemark](https://www.spiegel.de/ausland/groenland-vor-den-wahlen-entscheidung-zwischen-usa-und-daenemark-a-e7e5912c-ab53-4c51-9b59-79c09a3863f2#ref=rss)
+### usa
 
-* [https://www.spiegel.de/ausland/nordkorea-suedkorea-meldet-raketenabschuesse-aus-nordkorea-waehrend-manoever-mit-usa](https://www.spiegel.de/ausland/nordkorea-suedkorea-meldet-raketenabschuesse-aus-nordkorea-waehrend-manoever-mit-usa-a-c4812e9d-bca2-4252-af61-a9fd22697cc9#ref=rss)
-* [https://www.spiegel.de/ausland/golf-von-oman-iran-russland-und-china-planen-gemeinsames-marinemanoever](https://www.spiegel.de/ausland/golf-von-oman-iran-russland-und-china-planen-gemeinsames-marinemanoever-a-78453f48-63cb-4255-b4d1-ba4a46e62a00#ref=rss)
-### anna
+* [https://www.spiegel.de/ausland/groenland-vor-den-wahlen-entscheidung-zwischen-usa-und-daenemark](https://www.spiegel.de/ausland/groenland-vor-den-wahlen-entscheidung-zwischen-usa-und-daenemark-a-e7e5912c-ab53-4c51-9b59-79c09a3863f2#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-j-d-vances-cousin-nate-vance-kritisiert-ukrainepolitik-der-usa-scharf](https://www.spiegel.de/ausland/ukraine-j-d-vances-cousin-nate-vance-kritisiert-ukrainepolitik-der-usa-scharf-a-e020d880-3e98-4a61-9c3f-4492b451c4e0#ref=rss)
+### dänemark
 
-* [https://www.spiegel.de/panorama/anna-possi-italiens-aelteste-barista-was-nonna-anna-zur-glaubensfrage-unter-kaffee-trinkern-sagt](https://www.spiegel.de/panorama/anna-possi-italiens-aelteste-barista-was-nonna-anna-zur-glaubensfrage-unter-kaffee-trinkern-sagt-a-c4db8a95-f272-4909-823c-0f800c5bcf0f#ref=rss)
-### betroffene
-
-* [https://www.spiegel.de/karriere/psychische-belastungen-betroffene-berichten-ueber-hilfe-bei-panikattacken-im-job](https://www.spiegel.de/karriere/psychische-belastungen-betroffene-berichten-ueber-hilfe-bei-panikattacken-im-job-a-a65bc258-49e0-4548-8de7-5157eb05757f#ref=rss)
-### rihanna
-
-* [https://www.spiegel.de/panorama/leute/rihanna-veroeffentlicht-fotos-mit-neugeborenen-soehnen](https://www.spiegel.de/panorama/leute/rihanna-veroeffentlicht-fotos-mit-neugeborenen-soehnen-a-6e14f2d7-6e02-40f1-a8ec-83bd61b0a64a#ref=rss)
-### ich
-
-* [https://www.spiegel.de/panorama/leute/rihanna-veroeffentlicht-fotos-mit-neugeborenen-soehnen](https://www.spiegel.de/panorama/leute/rihanna-veroeffentlicht-fotos-mit-neugeborenen-soehnen-a-6e14f2d7-6e02-40f1-a8ec-83bd61b0a64a#ref=rss)
-* [https://www.spiegel.de/karriere/karriere-ich-schaeme-mich-fuer-meinen-langweiligen-lebenslauf](https://www.spiegel.de/karriere/karriere-ich-schaeme-mich-fuer-meinen-langweiligen-lebenslauf-a-9d3b4196-cd7d-4d9b-92c7-5ca9cf95f2e5#ref=rss)
-### je
-
-* [https://www.spiegel.de/panorama/leute/rihanna-veroeffentlicht-fotos-mit-neugeborenen-soehnen](https://www.spiegel.de/panorama/leute/rihanna-veroeffentlicht-fotos-mit-neugeborenen-soehnen-a-6e14f2d7-6e02-40f1-a8ec-83bd61b0a64a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-so-haben-menschen-mit-migrationshintergrund-gewaehlt](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-so-haben-menschen-mit-migrationshintergrund-gewaehlt-a-4c4a8bc1-afc3-443c-b3c0-66ca74186a61#ref=rss)
-### miguel
-
-* [https://www.spiegel.de/panorama/justiz/spanien-cold-case-um-miguel-morales-molina-durch-flutkatastrophe-geloest](https://www.spiegel.de/panorama/justiz/spanien-cold-case-um-miguel-morales-molina-durch-flutkatastrophe-geloest-a-bb7f81d5-1fd5-4a5d-ad27-99076f641e45#ref=rss)
-### morales
-
-* [https://www.spiegel.de/panorama/justiz/spanien-cold-case-um-miguel-morales-molina-durch-flutkatastrophe-geloest](https://www.spiegel.de/panorama/justiz/spanien-cold-case-um-miguel-morales-molina-durch-flutkatastrophe-geloest-a-bb7f81d5-1fd5-4a5d-ad27-99076f641e45#ref=rss)
-### molina
-
-* [https://www.spiegel.de/panorama/justiz/spanien-cold-case-um-miguel-morales-molina-durch-flutkatastrophe-geloest](https://www.spiegel.de/panorama/justiz/spanien-cold-case-um-miguel-morales-molina-durch-flutkatastrophe-geloest-a-bb7f81d5-1fd5-4a5d-ad27-99076f641e45#ref=rss)
-### tot
-
-* [https://www.spiegel.de/panorama/justiz/spanien-cold-case-um-miguel-morales-molina-durch-flutkatastrophe-geloest](https://www.spiegel.de/panorama/justiz/spanien-cold-case-um-miguel-morales-molina-durch-flutkatastrophe-geloest-a-bb7f81d5-1fd5-4a5d-ad27-99076f641e45#ref=rss)
-* [https://www.spiegel.de/kultur/hans-peter-korff-ist-tot](https://www.spiegel.de/kultur/hans-peter-korff-ist-tot-a-ec096781-5e8d-4b29-b9ec-0bee320f4c9c#ref=rss)
-### pechstein
-
-* [https://www.spiegel.de/sport/claudia-pechstein-eisschnelllauf-olympiasiegerin-beendet-ihre-karriere-mit-53-jahren](https://www.spiegel.de/sport/claudia-pechstein-eisschnelllauf-olympiasiegerin-beendet-ihre-karriere-mit-53-jahren-a-933bed09-a498-4e94-bd8b-bd4488c9a25b#ref=rss)
+* [https://www.spiegel.de/ausland/groenland-vor-den-wahlen-entscheidung-zwischen-usa-und-daenemark](https://www.spiegel.de/ausland/groenland-vor-den-wahlen-entscheidung-zwischen-usa-und-daenemark-a-e7e5912c-ab53-4c51-9b59-79c09a3863f2#ref=rss)
 ### karriere
 
-* [https://www.spiegel.de/sport/claudia-pechstein-eisschnelllauf-olympiasiegerin-beendet-ihre-karriere-mit-53-jahren](https://www.spiegel.de/sport/claudia-pechstein-eisschnelllauf-olympiasiegerin-beendet-ihre-karriere-mit-53-jahren-a-933bed09-a498-4e94-bd8b-bd4488c9a25b#ref=rss)
 * [https://www.spiegel.de/karriere/karriere-ich-schaeme-mich-fuer-meinen-langweiligen-lebenslauf](https://www.spiegel.de/karriere/karriere-ich-schaeme-mich-fuer-meinen-langweiligen-lebenslauf-a-9d3b4196-cd7d-4d9b-92c7-5ca9cf95f2e5#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### tag
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### präsidentin
-
-* [https://www.spiegel.de/ausland/mexiko-zehntausende-feiern-aussetzung-der-us-strafzoelle-mit-praesidentin-claudia-sheinbaum](https://www.spiegel.de/ausland/mexiko-zehntausende-feiern-aussetzung-der-us-strafzoelle-mit-praesidentin-claudia-sheinbaum-a-7883c48d-8033-42e0-9093-118685d2ec2e#ref=rss)
-### sheinbaum
-
-* [https://www.spiegel.de/ausland/mexiko-zehntausende-feiern-aussetzung-der-us-strafzoelle-mit-praesidentin-claudia-sheinbaum](https://www.spiegel.de/ausland/mexiko-zehntausende-feiern-aussetzung-der-us-strafzoelle-mit-praesidentin-claudia-sheinbaum-a-7883c48d-8033-42e0-9093-118685d2ec2e#ref=rss)
-### verdi
-
-* [https://www.spiegel.de/wirtschaft/ver-di-will-druck-mit-weiteren-warnstreiks-verstaerken](https://www.spiegel.de/wirtschaft/ver-di-will-druck-mit-weiteren-warnstreiks-verstaerken-a-4f97f14c-33fc-45dd-9086-d6aa03e13f3e#ref=rss)
-### nächsten
-
-* [https://www.spiegel.de/wirtschaft/ver-di-will-druck-mit-weiteren-warnstreiks-verstaerken](https://www.spiegel.de/wirtschaft/ver-di-will-druck-mit-weiteren-warnstreiks-verstaerken-a-4f97f14c-33fc-45dd-9086-d6aa03e13f3e#ref=rss)
-### tagen
-
-* [https://www.spiegel.de/wirtschaft/ver-di-will-druck-mit-weiteren-warnstreiks-verstaerken](https://www.spiegel.de/wirtschaft/ver-di-will-druck-mit-weiteren-warnstreiks-verstaerken-a-4f97f14c-33fc-45dd-9086-d6aa03e13f3e#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-es-wird-kuehler-und-regnerischer](https://www.spiegel.de/panorama/wetter-in-deutschland-es-wird-kuehler-und-regnerischer-a-760003f8-2629-4f9a-bcd8-0f061fb2f9fd#ref=rss)
-### lüneburg
-
-* [https://www.spiegel.de/panorama/justiz/lueneburg-krimineller-zuwanderer-nach-guinea-bissau-abgeschoben](https://www.spiegel.de/panorama/justiz/lueneburg-krimineller-zuwanderer-nach-guinea-bissau-abgeschoben-a-c1812f6f-e083-4c39-ae3d-a1ad05c6f3f4#ref=rss)
-### zuwanderer
-
-* [https://www.spiegel.de/panorama/justiz/lueneburg-krimineller-zuwanderer-nach-guinea-bissau-abgeschoben](https://www.spiegel.de/panorama/justiz/lueneburg-krimineller-zuwanderer-nach-guinea-bissau-abgeschoben-a-c1812f6f-e083-4c39-ae3d-a1ad05c6f3f4#ref=rss)
-### abgeschoben
-
-* [https://www.spiegel.de/panorama/justiz/lueneburg-krimineller-zuwanderer-nach-guinea-bissau-abgeschoben](https://www.spiegel.de/panorama/justiz/lueneburg-krimineller-zuwanderer-nach-guinea-bissau-abgeschoben-a-c1812f6f-e083-4c39-ae3d-a1ad05c6f3f4#ref=rss)
-### eddie
-
-* [https://www.spiegel.de/kultur/literatur/neues-von-eddie-flynn-und-hanna-duncker-drei-neue-thriller-im-check](https://www.spiegel.de/kultur/literatur/neues-von-eddie-flynn-und-hanna-duncker-drei-neue-thriller-im-check-a-d0253753-88e1-4035-ae45-3e35078c4e81#ref=rss)
-### flynn
-
-* [https://www.spiegel.de/kultur/literatur/neues-von-eddie-flynn-und-hanna-duncker-drei-neue-thriller-im-check](https://www.spiegel.de/kultur/literatur/neues-von-eddie-flynn-und-hanna-duncker-drei-neue-thriller-im-check-a-d0253753-88e1-4035-ae45-3e35078c4e81#ref=rss)
-### hanna
-
-* [https://www.spiegel.de/kultur/literatur/neues-von-eddie-flynn-und-hanna-duncker-drei-neue-thriller-im-check](https://www.spiegel.de/kultur/literatur/neues-von-eddie-flynn-und-hanna-duncker-drei-neue-thriller-im-check-a-d0253753-88e1-4035-ae45-3e35078c4e81#ref=rss)
-### duncker
-
-* [https://www.spiegel.de/kultur/literatur/neues-von-eddie-flynn-und-hanna-duncker-drei-neue-thriller-im-check](https://www.spiegel.de/kultur/literatur/neues-von-eddie-flynn-und-hanna-duncker-drei-neue-thriller-im-check-a-d0253753-88e1-4035-ae45-3e35078c4e81#ref=rss)
-### neue
-
-* [https://www.spiegel.de/kultur/literatur/neues-von-eddie-flynn-und-hanna-duncker-drei-neue-thriller-im-check](https://www.spiegel.de/kultur/literatur/neues-von-eddie-flynn-und-hanna-duncker-drei-neue-thriller-im-check-a-d0253753-88e1-4035-ae45-3e35078c4e81#ref=rss)
-### stiftung
-
-* [https://www.spiegel.de/tests/haushalt/stiftung-warentest-das-sind-die-besten-wasserkocher-2025](https://www.spiegel.de/tests/haushalt/stiftung-warentest-das-sind-die-besten-wasserkocher-2025-a-41520d37-86e9-4d0a-a3ce-cbadc295732f#ref=rss)
-### warentest
-
-* [https://www.spiegel.de/tests/haushalt/stiftung-warentest-das-sind-die-besten-wasserkocher-2025](https://www.spiegel.de/tests/haushalt/stiftung-warentest-das-sind-die-besten-wasserkocher-2025-a-41520d37-86e9-4d0a-a3ce-cbadc295732f#ref=rss)
-### wasserkocher
-
-* [https://www.spiegel.de/tests/haushalt/stiftung-warentest-das-sind-die-besten-wasserkocher-2025](https://www.spiegel.de/tests/haushalt/stiftung-warentest-das-sind-die-besten-wasserkocher-2025-a-41520d37-86e9-4d0a-a3ce-cbadc295732f#ref=rss)
-### 2025
-
-* [https://www.spiegel.de/tests/haushalt/stiftung-warentest-das-sind-die-besten-wasserkocher-2025](https://www.spiegel.de/tests/haushalt/stiftung-warentest-das-sind-die-besten-wasserkocher-2025-a-41520d37-86e9-4d0a-a3ce-cbadc295732f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-so-haben-menschen-mit-migrationshintergrund-gewaehlt](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-so-haben-menschen-mit-migrationshintergrund-gewaehlt-a-4c4a8bc1-afc3-443c-b3c0-66ca74186a61#ref=rss)
-### allerdings
-
-* [https://www.spiegel.de/tests/haushalt/stiftung-warentest-das-sind-die-besten-wasserkocher-2025](https://www.spiegel.de/tests/haushalt/stiftung-warentest-das-sind-die-besten-wasserkocher-2025-a-41520d37-86e9-4d0a-a3ce-cbadc295732f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/vw-mitarbeiter-duerfen-mit-praemien-in-voller-hoehe-rechnen](https://www.spiegel.de/wirtschaft/vw-mitarbeiter-duerfen-mit-praemien-in-voller-hoehe-rechnen-a-51abf27a-b728-4a48-8cc1-7c4c04c2ffd4#ref=rss)
-### bekommen
-
-* [https://www.spiegel.de/tests/haushalt/stiftung-warentest-das-sind-die-besten-wasserkocher-2025](https://www.spiegel.de/tests/haushalt/stiftung-warentest-das-sind-die-besten-wasserkocher-2025-a-41520d37-86e9-4d0a-a3ce-cbadc295732f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/vw-mitarbeiter-duerfen-mit-praemien-in-voller-hoehe-rechnen](https://www.spiegel.de/wirtschaft/vw-mitarbeiter-duerfen-mit-praemien-in-voller-hoehe-rechnen-a-51abf27a-b728-4a48-8cc1-7c4c04c2ffd4#ref=rss)
-### richtigen
-
-* [https://www.spiegel.de/tests/haushalt/stiftung-warentest-das-sind-die-besten-wasserkocher-2025](https://www.spiegel.de/tests/haushalt/stiftung-warentest-das-sind-die-besten-wasserkocher-2025-a-41520d37-86e9-4d0a-a3ce-cbadc295732f#ref=rss)
-* [https://www.spiegel.de/panorama/leute/cate-blanchett-will-sich-irgendwann-einen-richtigen-job-suchen](https://www.spiegel.de/panorama/leute/cate-blanchett-will-sich-irgendwann-einen-richtigen-job-suchen-a-8f9ce67e-d7ba-4790-9bb3-e3e3540d7610#ref=rss)
-### bundestagswahl
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-so-haben-menschen-mit-migrationshintergrund-gewaehlt](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-so-haben-menschen-mit-migrationshintergrund-gewaehlt-a-4c4a8bc1-afc3-443c-b3c0-66ca74186a61#ref=rss)
-### hoch
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-so-haben-menschen-mit-migrationshintergrund-gewaehlt](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-so-haben-menschen-mit-migrationshintergrund-gewaehlt-a-4c4a8bc1-afc3-443c-b3c0-66ca74186a61#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-es-wird-kuehler-und-regnerischer](https://www.spiegel.de/panorama/wetter-in-deutschland-es-wird-kuehler-und-regnerischer-a-760003f8-2629-4f9a-bcd8-0f061fb2f9fd#ref=rss)
-### besonders
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-so-haben-menschen-mit-migrationshintergrund-gewaehlt](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-so-haben-menschen-mit-migrationshintergrund-gewaehlt-a-4c4a8bc1-afc3-443c-b3c0-66ca74186a61#ref=rss)
-* [https://www.spiegel.de/start/mieten-in-uni-staedten-in-deutschland-grossstaedte-werden-zur-no-rent-area-fuer-studierende](https://www.spiegel.de/start/mieten-in-uni-staedten-in-deutschland-grossstaedte-werden-zur-no-rent-area-fuer-studierende-a-8d25b315-97ca-43d7-86e1-b42c6760f807#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/panorama/berlin-mensch-stirbt-beim-entleeren-eines-muellcontainers](https://www.spiegel.de/panorama/berlin-mensch-stirbt-beim-entleeren-eines-muellcontainers-a-15dba07f-8d5d-4ddd-99dd-bae5263f6b9b#ref=rss)
-### skispringen
-
-* [https://www.spiegel.de/sport/nordische-ski-wm-pressestimmen-zum-skisprung-skandal](https://www.spiegel.de/sport/nordische-ski-wm-pressestimmen-zum-skisprung-skandal-a-76101635-139e-4b5a-836c-cae3a6e8a865#ref=rss)
-* [https://www.spiegel.de/sport/skispringen-norwegische-athleten-aeussern-sich-zu-manipulationsvorwuerfen](https://www.spiegel.de/sport/skispringen-norwegische-athleten-aeussern-sich-zu-manipulationsvorwuerfen-a-5ed047d3-e616-43cc-b2e3-5f74ddd2bdce#ref=rss)
-### norwegischen
-
-* [https://www.spiegel.de/sport/nordische-ski-wm-pressestimmen-zum-skisprung-skandal](https://www.spiegel.de/sport/nordische-ski-wm-pressestimmen-zum-skisprung-skandal-a-76101635-139e-4b5a-836c-cae3a6e8a865#ref=rss)
-* [https://www.spiegel.de/sport/skispringen-norwegische-athleten-aeussern-sich-zu-manipulationsvorwuerfen](https://www.spiegel.de/sport/skispringen-norwegische-athleten-aeussern-sich-zu-manipulationsvorwuerfen-a-5ed047d3-e616-43cc-b2e3-5f74ddd2bdce#ref=rss)
-### skandal
-
-* [https://www.spiegel.de/sport/nordische-ski-wm-pressestimmen-zum-skisprung-skandal](https://www.spiegel.de/sport/nordische-ski-wm-pressestimmen-zum-skisprung-skandal-a-76101635-139e-4b5a-836c-cae3a6e8a865#ref=rss)
-* [https://www.spiegel.de/sport/skispringen-norwegische-athleten-aeussern-sich-zu-manipulationsvorwuerfen](https://www.spiegel.de/sport/skispringen-norwegische-athleten-aeussern-sich-zu-manipulationsvorwuerfen-a-5ed047d3-e616-43cc-b2e3-5f74ddd2bdce#ref=rss)
-### große
-
-* [https://www.spiegel.de/wirtschaft/cdu-csu-und-spd-mit-schulden-allein-kommt-deutschland-nicht-aus-der-krise-kommentar](https://www.spiegel.de/wirtschaft/cdu-csu-und-spd-mit-schulden-allein-kommt-deutschland-nicht-aus-der-krise-kommentar-a-57b45957-faa8-423a-8b06-d1deeebf41d3#ref=rss)
-* [https://www.spiegel.de/karriere/karriere-ich-schaeme-mich-fuer-meinen-langweiligen-lebenslauf](https://www.spiegel.de/karriere/karriere-ich-schaeme-mich-fuer-meinen-langweiligen-lebenslauf-a-9d3b4196-cd7d-4d9b-92c7-5ca9cf95f2e5#ref=rss)
-### hans
-
-* [https://www.spiegel.de/kultur/hans-peter-korff-ist-tot](https://www.spiegel.de/kultur/hans-peter-korff-ist-tot-a-ec096781-5e8d-4b29-b9ec-0bee320f4c9c#ref=rss)
-### peter
-
-* [https://www.spiegel.de/kultur/hans-peter-korff-ist-tot](https://www.spiegel.de/kultur/hans-peter-korff-ist-tot-a-ec096781-5e8d-4b29-b9ec-0bee320f4c9c#ref=rss)
-### korff
-
-* [https://www.spiegel.de/kultur/hans-peter-korff-ist-tot](https://www.spiegel.de/kultur/hans-peter-korff-ist-tot-a-ec096781-5e8d-4b29-b9ec-0bee320f4c9c#ref=rss)
-### onkel
-
-* [https://www.spiegel.de/kultur/hans-peter-korff-ist-tot](https://www.spiegel.de/kultur/hans-peter-korff-ist-tot-a-ec096781-5e8d-4b29-b9ec-0bee320f4c9c#ref=rss)
+* [https://www.spiegel.de/panorama/leute/sarah-connor-spricht-ueber-beziehungen-ist-die-ehe-noch-zeitgemaess](https://www.spiegel.de/panorama/leute/sarah-connor-spricht-ueber-beziehungen-ist-die-ehe-noch-zeitgemaess-a-3a59ea9c-3c57-45cc-bc97-9928e24179c9#ref=rss)
 ### selbst
 
-* [https://www.spiegel.de/ausland/usa-donald-trump-schliesst-rezession-wegen-zoellen-nicht-aus](https://www.spiegel.de/ausland/usa-donald-trump-schliesst-rezession-wegen-zoellen-nicht-aus-a-6a8912a3-468a-43ed-b513-ca1100afc3c7#ref=rss)
 * [https://www.spiegel.de/karriere/karriere-ich-schaeme-mich-fuer-meinen-langweiligen-lebenslauf](https://www.spiegel.de/karriere/karriere-ich-schaeme-mich-fuer-meinen-langweiligen-lebenslauf-a-9d3b4196-cd7d-4d9b-92c7-5ca9cf95f2e5#ref=rss)
-### cate
+* [https://www.spiegel.de/panorama/leute/sarah-connor-spricht-ueber-beziehungen-ist-die-ehe-noch-zeitgemaess](https://www.spiegel.de/panorama/leute/sarah-connor-spricht-ueber-beziehungen-ist-die-ehe-noch-zeitgemaess-a-3a59ea9c-3c57-45cc-bc97-9928e24179c9#ref=rss)
+### gewalt
 
-* [https://www.spiegel.de/panorama/leute/cate-blanchett-will-sich-irgendwann-einen-richtigen-job-suchen](https://www.spiegel.de/panorama/leute/cate-blanchett-will-sich-irgendwann-einen-richtigen-job-suchen-a-8f9ce67e-d7ba-4790-9bb3-e3e3540d7610#ref=rss)
-### blanchett
+* [https://www.spiegel.de/panorama/gesellschaft/gewalt-gegen-frauen-ludwigsburg-startet-als-erste-deutsche-stadt-gedenktag-fuer-opfer](https://www.spiegel.de/panorama/gesellschaft/gewalt-gegen-frauen-ludwigsburg-startet-als-erste-deutsche-stadt-gedenktag-fuer-opfer-a-2f47f6a9-521b-4c11-b6ac-8164ae924287#ref=rss)
+### ludwigsburg
 
-* [https://www.spiegel.de/panorama/leute/cate-blanchett-will-sich-irgendwann-einen-richtigen-job-suchen](https://www.spiegel.de/panorama/leute/cate-blanchett-will-sich-irgendwann-einen-richtigen-job-suchen-a-8f9ce67e-d7ba-4790-9bb3-e3e3540d7610#ref=rss)
-### job
+* [https://www.spiegel.de/panorama/gesellschaft/gewalt-gegen-frauen-ludwigsburg-startet-als-erste-deutsche-stadt-gedenktag-fuer-opfer](https://www.spiegel.de/panorama/gesellschaft/gewalt-gegen-frauen-ludwigsburg-startet-als-erste-deutsche-stadt-gedenktag-fuer-opfer-a-2f47f6a9-521b-4c11-b6ac-8164ae924287#ref=rss)
+### stadt
 
-* [https://www.spiegel.de/panorama/leute/cate-blanchett-will-sich-irgendwann-einen-richtigen-job-suchen](https://www.spiegel.de/panorama/leute/cate-blanchett-will-sich-irgendwann-einen-richtigen-job-suchen-a-8f9ce67e-d7ba-4790-9bb3-e3e3540d7610#ref=rss)
-* [https://www.spiegel.de/karriere/psychische-belastungen-betroffene-berichten-ueber-hilfe-bei-panikattacken-im-job](https://www.spiegel.de/karriere/psychische-belastungen-betroffene-berichten-ueber-hilfe-bei-panikattacken-im-job-a-a65bc258-49e0-4548-8de7-5157eb05757f#ref=rss)
-### land
+* [https://www.spiegel.de/panorama/gesellschaft/gewalt-gegen-frauen-ludwigsburg-startet-als-erste-deutsche-stadt-gedenktag-fuer-opfer](https://www.spiegel.de/panorama/gesellschaft/gewalt-gegen-frauen-ludwigsburg-startet-als-erste-deutsche-stadt-gedenktag-fuer-opfer-a-2f47f6a9-521b-4c11-b6ac-8164ae924287#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-mann-liefert-sich-autorennen-die-zweijaehrige-tochter-sitzt-im-fussraum](https://www.spiegel.de/panorama/justiz/berlin-mann-liefert-sich-autorennen-die-zweijaehrige-tochter-sitzt-im-fussraum-a-d9d9194e-cf76-48a9-8b0c-2c4930adb092#ref=rss)
+### gedenktag
 
-* [https://www.spiegel.de/panorama/leute/cate-blanchett-will-sich-irgendwann-einen-richtigen-job-suchen](https://www.spiegel.de/panorama/leute/cate-blanchett-will-sich-irgendwann-einen-richtigen-job-suchen-a-8f9ce67e-d7ba-4790-9bb3-e3e3540d7610#ref=rss)
-* [https://www.spiegel.de/ausland/kanada-und-die-usa-kanadas-neuer-ministerpraesident-ein-land-dem-wir-nicht-mehr-vertrauen-koennen](https://www.spiegel.de/ausland/kanada-und-die-usa-kanadas-neuer-ministerpraesident-ein-land-dem-wir-nicht-mehr-vertrauen-koennen-a-05359fea-d8d1-4806-b87d-e1a94a1894dc#ref=rss)
-### ugo
+* [https://www.spiegel.de/panorama/gesellschaft/gewalt-gegen-frauen-ludwigsburg-startet-als-erste-deutsche-stadt-gedenktag-fuer-opfer](https://www.spiegel.de/panorama/gesellschaft/gewalt-gegen-frauen-ludwigsburg-startet-als-erste-deutsche-stadt-gedenktag-fuer-opfer-a-2f47f6a9-521b-4c11-b6ac-8164ae924287#ref=rss)
+### sarah
 
-* [https://www.spiegel.de/sport/tennis/tennis-ugo-humbert-klagt-ueber-plastik-salate-in-den-usa](https://www.spiegel.de/sport/tennis/tennis-ugo-humbert-klagt-ueber-plastik-salate-in-den-usa-a-1fa72e4c-3429-4740-8659-6c931c9da851#ref=rss)
-### humbert
+* [https://www.spiegel.de/panorama/leute/sarah-connor-spricht-ueber-beziehungen-ist-die-ehe-noch-zeitgemaess](https://www.spiegel.de/panorama/leute/sarah-connor-spricht-ueber-beziehungen-ist-die-ehe-noch-zeitgemaess-a-3a59ea9c-3c57-45cc-bc97-9928e24179c9#ref=rss)
+### connor
 
-* [https://www.spiegel.de/sport/tennis/tennis-ugo-humbert-klagt-ueber-plastik-salate-in-den-usa](https://www.spiegel.de/sport/tennis/tennis-ugo-humbert-klagt-ueber-plastik-salate-in-den-usa-a-1fa72e4c-3429-4740-8659-6c931c9da851#ref=rss)
-### klagt
+* [https://www.spiegel.de/panorama/leute/sarah-connor-spricht-ueber-beziehungen-ist-die-ehe-noch-zeitgemaess](https://www.spiegel.de/panorama/leute/sarah-connor-spricht-ueber-beziehungen-ist-die-ehe-noch-zeitgemaess-a-3a59ea9c-3c57-45cc-bc97-9928e24179c9#ref=rss)
+### sagt
 
-* [https://www.spiegel.de/sport/tennis/tennis-ugo-humbert-klagt-ueber-plastik-salate-in-den-usa](https://www.spiegel.de/sport/tennis/tennis-ugo-humbert-klagt-ueber-plastik-salate-in-den-usa-a-1fa72e4c-3429-4740-8659-6c931c9da851#ref=rss)
-### prämien
+* [https://www.spiegel.de/panorama/leute/sarah-connor-spricht-ueber-beziehungen-ist-die-ehe-noch-zeitgemaess](https://www.spiegel.de/panorama/leute/sarah-connor-spricht-ueber-beziehungen-ist-die-ehe-noch-zeitgemaess-a-3a59ea9c-3c57-45cc-bc97-9928e24179c9#ref=rss)
+* [https://www.spiegel.de/gesundheit/schwangerschaft/psychische-gesundheit-interview-mit-kinderaerztin-desiree-ratay](https://www.spiegel.de/gesundheit/schwangerschaft/psychische-gesundheit-interview-mit-kinderaerztin-desiree-ratay-a-af55afb7-8fe5-43f9-a8e9-1917aeb1e66e#ref=rss)
+### details
 
-* [https://www.spiegel.de/wirtschaft/vw-mitarbeiter-duerfen-mit-praemien-in-voller-hoehe-rechnen](https://www.spiegel.de/wirtschaft/vw-mitarbeiter-duerfen-mit-praemien-in-voller-hoehe-rechnen-a-51abf27a-b728-4a48-8cc1-7c4c04c2ffd4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-und-spd-friedrich-merz-enthuellt-details-zu-arbeitsgruppen-bei-koalitionsgespraechen](https://www.spiegel.de/politik/deutschland/cdu-und-spd-friedrich-merz-enthuellt-details-zu-arbeitsgruppen-bei-koalitionsgespraechen-a-34a6aa6f-9661-4776-b2a0-630a309b4df4#ref=rss)
+### arbeitsgruppen
+
+* [https://www.spiegel.de/politik/deutschland/cdu-und-spd-friedrich-merz-enthuellt-details-zu-arbeitsgruppen-bei-koalitionsgespraechen](https://www.spiegel.de/politik/deutschland/cdu-und-spd-friedrich-merz-enthuellt-details-zu-arbeitsgruppen-bei-koalitionsgespraechen-a-34a6aa6f-9661-4776-b2a0-630a309b4df4#ref=rss)
+### koalitionsgesprächen
+
+* [https://www.spiegel.de/politik/deutschland/cdu-und-spd-friedrich-merz-enthuellt-details-zu-arbeitsgruppen-bei-koalitionsgespraechen](https://www.spiegel.de/politik/deutschland/cdu-und-spd-friedrich-merz-enthuellt-details-zu-arbeitsgruppen-bei-koalitionsgespraechen-a-34a6aa6f-9661-4776-b2a0-630a309b4df4#ref=rss)
+### chinas
+
+* [https://www.spiegel.de/ausland/chinas-volkskongress-die-13-taiwan-abgeordneten-die-in-taiwan-niemand-kennt](https://www.spiegel.de/ausland/chinas-volkskongress-die-13-taiwan-abgeordneten-die-in-taiwan-niemand-kennt-a-990d0b59-4a8e-440e-98c0-f2233b564721#ref=rss)
+### taiwan
+
+* [https://www.spiegel.de/ausland/chinas-volkskongress-die-13-taiwan-abgeordneten-die-in-taiwan-niemand-kennt](https://www.spiegel.de/ausland/chinas-volkskongress-die-13-taiwan-abgeordneten-die-in-taiwan-niemand-kennt-a-990d0b59-4a8e-440e-98c0-f2233b564721#ref=rss)
+### claudia
+
+* [https://www.spiegel.de/sport/wintersport/claudia-pechstein-verkuendet-karriereende-champagner-und-giftpfeile-nach-15-jahren-krieg](https://www.spiegel.de/sport/wintersport/claudia-pechstein-verkuendet-karriereende-champagner-und-giftpfeile-nach-15-jahren-krieg-a-8f7a37ee-9769-4bf8-8b5f-8c2b8efdc50c#ref=rss)
+### pechstein
+
+* [https://www.spiegel.de/sport/wintersport/claudia-pechstein-verkuendet-karriereende-champagner-und-giftpfeile-nach-15-jahren-krieg](https://www.spiegel.de/sport/wintersport/claudia-pechstein-verkuendet-karriereende-champagner-und-giftpfeile-nach-15-jahren-krieg-a-8f7a37ee-9769-4bf8-8b5f-8c2b8efdc50c#ref=rss)
+### 15
+
+* [https://www.spiegel.de/sport/wintersport/claudia-pechstein-verkuendet-karriereende-champagner-und-giftpfeile-nach-15-jahren-krieg](https://www.spiegel.de/sport/wintersport/claudia-pechstein-verkuendet-karriereende-champagner-und-giftpfeile-nach-15-jahren-krieg-a-8f7a37ee-9769-4bf8-8b5f-8c2b8efdc50c#ref=rss)
+* [https://www.spiegel.de/auto/indien-delhi-sperrt-tankstellen-fuer-alte-benzin-und-dieselautos](https://www.spiegel.de/auto/indien-delhi-sperrt-tankstellen-fuer-alte-benzin-und-dieselautos-a-f9ab38ca-5045-4c01-a4a3-1c22d8c1a9d0#ref=rss)
+### braucht
+
+* [https://www.spiegel.de/politik/deutschland/sondervermoegen-schuldenbremse-von-union-und-spd-so-geht-der-gruene-schulden-poker](https://www.spiegel.de/politik/deutschland/sondervermoegen-schuldenbremse-von-union-und-spd-so-geht-der-gruene-schulden-poker-a-f2517f4b-aca1-4b89-846b-f55849e1f8a6#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/panorama/quedlinburg-kinder-malen-offenbar-hakenkreuz-in-kirche-und-bewerfen-zeugen-mit-pflastersteinen](https://www.spiegel.de/panorama/quedlinburg-kinder-malen-offenbar-hakenkreuz-in-kirche-und-bewerfen-zeugen-mit-pflastersteinen-a-3459e0eb-73e0-4f5b-a9fe-88cb41e1eda9#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-mann-liefert-sich-autorennen-die-zweijaehrige-tochter-sitzt-im-fussraum](https://www.spiegel.de/panorama/justiz/berlin-mann-liefert-sich-autorennen-die-zweijaehrige-tochter-sitzt-im-fussraum-a-d9d9194e-cf76-48a9-8b0c-2c4930adb092#ref=rss)
+### hakenkreuz
+
+* [https://www.spiegel.de/panorama/quedlinburg-kinder-malen-offenbar-hakenkreuz-in-kirche-und-bewerfen-zeugen-mit-pflastersteinen](https://www.spiegel.de/panorama/quedlinburg-kinder-malen-offenbar-hakenkreuz-in-kirche-und-bewerfen-zeugen-mit-pflastersteinen-a-3459e0eb-73e0-4f5b-a9fe-88cb41e1eda9#ref=rss)
+### drei
+
+* [https://www.spiegel.de/panorama/quedlinburg-kinder-malen-offenbar-hakenkreuz-in-kirche-und-bewerfen-zeugen-mit-pflastersteinen](https://www.spiegel.de/panorama/quedlinburg-kinder-malen-offenbar-hakenkreuz-in-kirche-und-bewerfen-zeugen-mit-pflastersteinen-a-3459e0eb-73e0-4f5b-a9fe-88cb41e1eda9#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-j-d-vances-cousin-nate-vance-kritisiert-ukrainepolitik-der-usa-scharf](https://www.spiegel.de/ausland/ukraine-j-d-vances-cousin-nate-vance-kritisiert-ukrainepolitik-der-usa-scharf-a-e020d880-3e98-4a61-9c3f-4492b451c4e0#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/quedlinburg-kinder-malen-offenbar-hakenkreuz-in-kirche-und-bewerfen-zeugen-mit-pflastersteinen](https://www.spiegel.de/panorama/quedlinburg-kinder-malen-offenbar-hakenkreuz-in-kirche-und-bewerfen-zeugen-mit-pflastersteinen-a-3459e0eb-73e0-4f5b-a9fe-88cb41e1eda9#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-mann-liefert-sich-autorennen-die-zweijaehrige-tochter-sitzt-im-fussraum](https://www.spiegel.de/panorama/justiz/berlin-mann-liefert-sich-autorennen-die-zweijaehrige-tochter-sitzt-im-fussraum-a-d9d9194e-cf76-48a9-8b0c-2c4930adb092#ref=rss)
+### matthew
+
+* [https://www.spiegel.de/kultur/matthew-mcconaughey-findet-seine-true-detective-staffel-am-besten](https://www.spiegel.de/kultur/matthew-mcconaughey-findet-seine-true-detective-staffel-am-besten-a-d836bd2c-7c4c-4b8e-b9fd-a8bdc710a41f#ref=rss)
+### mcconaughey
+
+* [https://www.spiegel.de/kultur/matthew-mcconaughey-findet-seine-true-detective-staffel-am-besten](https://www.spiegel.de/kultur/matthew-mcconaughey-findet-seine-true-detective-staffel-am-besten-a-d836bd2c-7c4c-4b8e-b9fd-a8bdc710a41f#ref=rss)
+### true
+
+* [https://www.spiegel.de/kultur/matthew-mcconaughey-findet-seine-true-detective-staffel-am-besten](https://www.spiegel.de/kultur/matthew-mcconaughey-findet-seine-true-detective-staffel-am-besten-a-d836bd2c-7c4c-4b8e-b9fd-a8bdc710a41f#ref=rss)
+### detectivestaffel
+
+* [https://www.spiegel.de/kultur/matthew-mcconaughey-findet-seine-true-detective-staffel-am-besten](https://www.spiegel.de/kultur/matthew-mcconaughey-findet-seine-true-detective-staffel-am-besten-a-d836bd2c-7c4c-4b8e-b9fd-a8bdc710a41f#ref=rss)
+### psychische
+
+* [https://www.spiegel.de/gesundheit/schwangerschaft/psychische-gesundheit-interview-mit-kinderaerztin-desiree-ratay](https://www.spiegel.de/gesundheit/schwangerschaft/psychische-gesundheit-interview-mit-kinderaerztin-desiree-ratay-a-af55afb7-8fe5-43f9-a8e9-1917aeb1e66e#ref=rss)
+### gesundheit
+
+* [https://www.spiegel.de/gesundheit/schwangerschaft/psychische-gesundheit-interview-mit-kinderaerztin-desiree-ratay](https://www.spiegel.de/gesundheit/schwangerschaft/psychische-gesundheit-interview-mit-kinderaerztin-desiree-ratay-a-af55afb7-8fe5-43f9-a8e9-1917aeb1e66e#ref=rss)
+### kinderärztin
+
+* [https://www.spiegel.de/gesundheit/schwangerschaft/psychische-gesundheit-interview-mit-kinderaerztin-desiree-ratay](https://www.spiegel.de/gesundheit/schwangerschaft/psychische-gesundheit-interview-mit-kinderaerztin-desiree-ratay-a-af55afb7-8fe5-43f9-a8e9-1917aeb1e66e#ref=rss)
+### désirée
+
+* [https://www.spiegel.de/gesundheit/schwangerschaft/psychische-gesundheit-interview-mit-kinderaerztin-desiree-ratay](https://www.spiegel.de/gesundheit/schwangerschaft/psychische-gesundheit-interview-mit-kinderaerztin-desiree-ratay-a-af55afb7-8fe5-43f9-a8e9-1917aeb1e66e#ref=rss)
+### ratay
+
+* [https://www.spiegel.de/gesundheit/schwangerschaft/psychische-gesundheit-interview-mit-kinderaerztin-desiree-ratay](https://www.spiegel.de/gesundheit/schwangerschaft/psychische-gesundheit-interview-mit-kinderaerztin-desiree-ratay-a-af55afb7-8fe5-43f9-a8e9-1917aeb1e66e#ref=rss)
+### familie
+
+* [https://www.spiegel.de/gesundheit/schwangerschaft/psychische-gesundheit-interview-mit-kinderaerztin-desiree-ratay](https://www.spiegel.de/gesundheit/schwangerschaft/psychische-gesundheit-interview-mit-kinderaerztin-desiree-ratay-a-af55afb7-8fe5-43f9-a8e9-1917aeb1e66e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-mann-liefert-sich-autorennen-die-zweijaehrige-tochter-sitzt-im-fussraum](https://www.spiegel.de/panorama/justiz/berlin-mann-liefert-sich-autorennen-die-zweijaehrige-tochter-sitzt-im-fussraum-a-d9d9194e-cf76-48a9-8b0c-2c4930adb092#ref=rss)
 ### sondervermögen
 
-* [https://www.spiegel.de/wirtschaft/soziales/sondervermoegen-kommunen-wie-oberhausen-hoffen-auf-investitionen-in-infrastruktur](https://www.spiegel.de/wirtschaft/soziales/sondervermoegen-kommunen-wie-oberhausen-hoffen-auf-investitionen-in-infrastruktur-a-0f6db3a3-57ac-47a7-a6bc-04ff38914c70#ref=rss)
-### oberhausen
+* [https://www.spiegel.de/politik/deutschland/sondervermoegen-und-schuldenbremse-die-linke-klagt-gegen-einberufung-des-alten-bundestags](https://www.spiegel.de/politik/deutschland/sondervermoegen-und-schuldenbremse-die-linke-klagt-gegen-einberufung-des-alten-bundestags-a-aed5171b-4c9d-44ec-b8bb-2a8b5ad92b4a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sondervermoegen-die-gruene-lehnen-finanzpaket-ab-lars-klingbeil-bleibt-optimistisch](https://www.spiegel.de/politik/deutschland/sondervermoegen-die-gruene-lehnen-finanzpaket-ab-lars-klingbeil-bleibt-optimistisch-a-5972371e-da92-429d-8eb9-e04e19a67218#ref=rss)
+### linke
 
-* [https://www.spiegel.de/wirtschaft/soziales/sondervermoegen-kommunen-wie-oberhausen-hoffen-auf-investitionen-in-infrastruktur](https://www.spiegel.de/wirtschaft/soziales/sondervermoegen-kommunen-wie-oberhausen-hoffen-auf-investitionen-in-infrastruktur-a-0f6db3a3-57ac-47a7-a6bc-04ff38914c70#ref=rss)
-### investitionen
+* [https://www.spiegel.de/politik/deutschland/sondervermoegen-und-schuldenbremse-die-linke-klagt-gegen-einberufung-des-alten-bundestags](https://www.spiegel.de/politik/deutschland/sondervermoegen-und-schuldenbremse-die-linke-klagt-gegen-einberufung-des-alten-bundestags-a-aed5171b-4c9d-44ec-b8bb-2a8b5ad92b4a#ref=rss)
+### bundestags
 
-* [https://www.spiegel.de/wirtschaft/soziales/sondervermoegen-kommunen-wie-oberhausen-hoffen-auf-investitionen-in-infrastruktur](https://www.spiegel.de/wirtschaft/soziales/sondervermoegen-kommunen-wie-oberhausen-hoffen-auf-investitionen-in-infrastruktur-a-0f6db3a3-57ac-47a7-a6bc-04ff38914c70#ref=rss)
-### gemeinsames
+* [https://www.spiegel.de/politik/deutschland/sondervermoegen-und-schuldenbremse-die-linke-klagt-gegen-einberufung-des-alten-bundestags](https://www.spiegel.de/politik/deutschland/sondervermoegen-und-schuldenbremse-die-linke-klagt-gegen-einberufung-des-alten-bundestags-a-aed5171b-4c9d-44ec-b8bb-2a8b5ad92b4a#ref=rss)
+### nate
 
-* [https://www.spiegel.de/ausland/nordkorea-suedkorea-meldet-raketenabschuesse-aus-nordkorea-waehrend-manoever-mit-usa](https://www.spiegel.de/ausland/nordkorea-suedkorea-meldet-raketenabschuesse-aus-nordkorea-waehrend-manoever-mit-usa-a-c4812e9d-bca2-4252-af61-a9fd22697cc9#ref=rss)
-* [https://www.spiegel.de/ausland/golf-von-oman-iran-russland-und-china-planen-gemeinsames-marinemanoever](https://www.spiegel.de/ausland/golf-von-oman-iran-russland-und-china-planen-gemeinsames-marinemanoever-a-78453f48-63cb-4255-b4d1-ba4a46e62a00#ref=rss)
-### athleten
+* [https://www.spiegel.de/ausland/ukraine-j-d-vances-cousin-nate-vance-kritisiert-ukrainepolitik-der-usa-scharf](https://www.spiegel.de/ausland/ukraine-j-d-vances-cousin-nate-vance-kritisiert-ukrainepolitik-der-usa-scharf-a-e020d880-3e98-4a61-9c3f-4492b451c4e0#ref=rss)
+### vance
 
-* [https://www.spiegel.de/sport/skispringen-norwegische-athleten-aeussern-sich-zu-manipulationsvorwuerfen](https://www.spiegel.de/sport/skispringen-norwegische-athleten-aeussern-sich-zu-manipulationsvorwuerfen-a-5ed047d3-e616-43cc-b2e3-5f74ddd2bdce#ref=rss)
-### großstädte
+* [https://www.spiegel.de/ausland/ukraine-j-d-vances-cousin-nate-vance-kritisiert-ukrainepolitik-der-usa-scharf](https://www.spiegel.de/ausland/ukraine-j-d-vances-cousin-nate-vance-kritisiert-ukrainepolitik-der-usa-scharf-a-e020d880-3e98-4a61-9c3f-4492b451c4e0#ref=rss)
+### mannheim
 
-* [https://www.spiegel.de/start/mieten-in-uni-staedten-in-deutschland-grossstaedte-werden-zur-no-rent-area-fuer-studierende](https://www.spiegel.de/start/mieten-in-uni-staedten-in-deutschland-grossstaedte-werden-zur-no-rent-area-fuer-studierende-a-8d25b315-97ca-43d7-86e1-b42c6760f807#ref=rss)
-### norentarea
+* [https://www.spiegel.de/panorama/mannheim-regionalbahn-verliert-tuer-waehrend-der-fahrt-nach-heidelberg](https://www.spiegel.de/panorama/mannheim-regionalbahn-verliert-tuer-waehrend-der-fahrt-nach-heidelberg-a-c26eb876-7310-473f-967f-7be554daae3c#ref=rss)
+### tür
 
-* [https://www.spiegel.de/start/mieten-in-uni-staedten-in-deutschland-grossstaedte-werden-zur-no-rent-area-fuer-studierende](https://www.spiegel.de/start/mieten-in-uni-staedten-in-deutschland-grossstaedte-werden-zur-no-rent-area-fuer-studierende-a-8d25b315-97ca-43d7-86e1-b42c6760f807#ref=rss)
-### iran
+* [https://www.spiegel.de/panorama/mannheim-regionalbahn-verliert-tuer-waehrend-der-fahrt-nach-heidelberg](https://www.spiegel.de/panorama/mannheim-regionalbahn-verliert-tuer-waehrend-der-fahrt-nach-heidelberg-a-c26eb876-7310-473f-967f-7be554daae3c#ref=rss)
+### heidelberg
 
-* [https://www.spiegel.de/ausland/golf-von-oman-iran-russland-und-china-planen-gemeinsames-marinemanoever](https://www.spiegel.de/ausland/golf-von-oman-iran-russland-und-china-planen-gemeinsames-marinemanoever-a-78453f48-63cb-4255-b4d1-ba4a46e62a00#ref=rss)
-### russland
+* [https://www.spiegel.de/panorama/mannheim-regionalbahn-verliert-tuer-waehrend-der-fahrt-nach-heidelberg](https://www.spiegel.de/panorama/mannheim-regionalbahn-verliert-tuer-waehrend-der-fahrt-nach-heidelberg-a-c26eb876-7310-473f-967f-7be554daae3c#ref=rss)
+### einmal
 
-* [https://www.spiegel.de/ausland/golf-von-oman-iran-russland-und-china-planen-gemeinsames-marinemanoever](https://www.spiegel.de/ausland/golf-von-oman-iran-russland-und-china-planen-gemeinsames-marinemanoever-a-78453f48-63cb-4255-b4d1-ba4a46e62a00#ref=rss)
-### china
+* [https://www.spiegel.de/panorama/mannheim-regionalbahn-verliert-tuer-waehrend-der-fahrt-nach-heidelberg](https://www.spiegel.de/panorama/mannheim-regionalbahn-verliert-tuer-waehrend-der-fahrt-nach-heidelberg-a-c26eb876-7310-473f-967f-7be554daae3c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-mann-liefert-sich-autorennen-die-zweijaehrige-tochter-sitzt-im-fussraum](https://www.spiegel.de/panorama/justiz/berlin-mann-liefert-sich-autorennen-die-zweijaehrige-tochter-sitzt-im-fussraum-a-d9d9194e-cf76-48a9-8b0c-2c4930adb092#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/ausland/golf-von-oman-iran-russland-und-china-planen-gemeinsames-marinemanoever](https://www.spiegel.de/ausland/golf-von-oman-iran-russland-und-china-planen-gemeinsames-marinemanoever-a-78453f48-63cb-4255-b4d1-ba4a46e62a00#ref=rss)
-### kanadas
-
-* [https://www.spiegel.de/ausland/kanada-und-die-usa-kanadas-neuer-ministerpraesident-ein-land-dem-wir-nicht-mehr-vertrauen-koennen](https://www.spiegel.de/ausland/kanada-und-die-usa-kanadas-neuer-ministerpraesident-ein-land-dem-wir-nicht-mehr-vertrauen-koennen-a-05359fea-d8d1-4806-b87d-e1a94a1894dc#ref=rss)
-### possi
-
-* [https://www.spiegel.de/panorama/anna-possi-italiens-aelteste-barista-was-nonna-anna-zur-glaubensfrage-unter-kaffee-trinkern-sagt](https://www.spiegel.de/panorama/anna-possi-italiens-aelteste-barista-was-nonna-anna-zur-glaubensfrage-unter-kaffee-trinkern-sagt-a-c4db8a95-f272-4909-823c-0f800c5bcf0f#ref=rss)
-### italiens
-
-* [https://www.spiegel.de/panorama/anna-possi-italiens-aelteste-barista-was-nonna-anna-zur-glaubensfrage-unter-kaffee-trinkern-sagt](https://www.spiegel.de/panorama/anna-possi-italiens-aelteste-barista-was-nonna-anna-zur-glaubensfrage-unter-kaffee-trinkern-sagt-a-c4db8a95-f272-4909-823c-0f800c5bcf0f#ref=rss)
-### älteste
-
-* [https://www.spiegel.de/panorama/anna-possi-italiens-aelteste-barista-was-nonna-anna-zur-glaubensfrage-unter-kaffee-trinkern-sagt](https://www.spiegel.de/panorama/anna-possi-italiens-aelteste-barista-was-nonna-anna-zur-glaubensfrage-unter-kaffee-trinkern-sagt-a-c4db8a95-f272-4909-823c-0f800c5bcf0f#ref=rss)
-### barista
-
-* [https://www.spiegel.de/panorama/anna-possi-italiens-aelteste-barista-was-nonna-anna-zur-glaubensfrage-unter-kaffee-trinkern-sagt](https://www.spiegel.de/panorama/anna-possi-italiens-aelteste-barista-was-nonna-anna-zur-glaubensfrage-unter-kaffee-trinkern-sagt-a-c4db8a95-f272-4909-823c-0f800c5bcf0f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-mann-liefert-sich-autorennen-die-zweijaehrige-tochter-sitzt-im-fussraum](https://www.spiegel.de/panorama/justiz/berlin-mann-liefert-sich-autorennen-die-zweijaehrige-tochter-sitzt-im-fussraum-a-d9d9194e-cf76-48a9-8b0c-2c4930adb092#ref=rss)
 ### zwei
 
-* [https://www.spiegel.de/panorama/anna-possi-italiens-aelteste-barista-was-nonna-anna-zur-glaubensfrage-unter-kaffee-trinkern-sagt](https://www.spiegel.de/panorama/anna-possi-italiens-aelteste-barista-was-nonna-anna-zur-glaubensfrage-unter-kaffee-trinkern-sagt-a-c4db8a95-f272-4909-823c-0f800c5bcf0f#ref=rss)
-* [https://www.spiegel.de/karriere/psychische-belastungen-betroffene-berichten-ueber-hilfe-bei-panikattacken-im-job](https://www.spiegel.de/karriere/psychische-belastungen-betroffene-berichten-ueber-hilfe-bei-panikattacken-im-job-a-a65bc258-49e0-4548-8de7-5157eb05757f#ref=rss)
-### panikattacken
+* [https://www.spiegel.de/panorama/justiz/berlin-mann-liefert-sich-autorennen-die-zweijaehrige-tochter-sitzt-im-fussraum](https://www.spiegel.de/panorama/justiz/berlin-mann-liefert-sich-autorennen-die-zweijaehrige-tochter-sitzt-im-fussraum-a-d9d9194e-cf76-48a9-8b0c-2c4930adb092#ref=rss)
+* [https://www.spiegel.de/panorama/grossbritannien-tanker-und-frachtschiff-in-der-nordsee-kollidiert](https://www.spiegel.de/panorama/grossbritannien-tanker-und-frachtschiff-in-der-nordsee-kollidiert-a-a0976216-81f0-44c6-a2dc-1c83a2e3787a#ref=rss)
+### lars
 
-* [https://www.spiegel.de/karriere/psychische-belastungen-betroffene-berichten-ueber-hilfe-bei-panikattacken-im-job](https://www.spiegel.de/karriere/psychische-belastungen-betroffene-berichten-ueber-hilfe-bei-panikattacken-im-job-a-a65bc258-49e0-4548-8de7-5157eb05757f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sondervermoegen-die-gruene-lehnen-finanzpaket-ab-lars-klingbeil-bleibt-optimistisch](https://www.spiegel.de/politik/deutschland/sondervermoegen-die-gruene-lehnen-finanzpaket-ab-lars-klingbeil-bleibt-optimistisch-a-5972371e-da92-429d-8eb9-e04e19a67218#ref=rss)
+### klingbeil
+
+* [https://www.spiegel.de/politik/deutschland/sondervermoegen-die-gruene-lehnen-finanzpaket-ab-lars-klingbeil-bleibt-optimistisch](https://www.spiegel.de/politik/deutschland/sondervermoegen-die-gruene-lehnen-finanzpaket-ab-lars-klingbeil-bleibt-optimistisch-a-5972371e-da92-429d-8eb9-e04e19a67218#ref=rss)
+### volkswagen
+
+* [https://www.spiegel.de/wirtschaft/volkswagen-currywurst-von-vw-erreicht-neuen-verkaufsrekord](https://www.spiegel.de/wirtschaft/volkswagen-currywurst-von-vw-erreicht-neuen-verkaufsrekord-a-61aaaab5-72b6-41ca-be80-1749a57e1f39#ref=rss)
+### currywurst
+
+* [https://www.spiegel.de/wirtschaft/volkswagen-currywurst-von-vw-erreicht-neuen-verkaufsrekord](https://www.spiegel.de/wirtschaft/volkswagen-currywurst-von-vw-erreicht-neuen-verkaufsrekord-a-61aaaab5-72b6-41ca-be80-1749a57e1f39#ref=rss)
+### rekord
+
+* [https://www.spiegel.de/wirtschaft/volkswagen-currywurst-von-vw-erreicht-neuen-verkaufsrekord](https://www.spiegel.de/wirtschaft/volkswagen-currywurst-von-vw-erreicht-neuen-verkaufsrekord-a-61aaaab5-72b6-41ca-be80-1749a57e1f39#ref=rss)
+### delhi
+
+* [https://www.spiegel.de/auto/indien-delhi-sperrt-tankstellen-fuer-alte-benzin-und-dieselautos](https://www.spiegel.de/auto/indien-delhi-sperrt-tankstellen-fuer-alte-benzin-und-dieselautos-a-f9ab38ca-5045-4c01-a4a3-1c22d8c1a9d0#ref=rss)
+### tanker
+
+* [https://www.spiegel.de/panorama/grossbritannien-tanker-und-frachtschiff-in-der-nordsee-kollidiert](https://www.spiegel.de/panorama/grossbritannien-tanker-und-frachtschiff-in-der-nordsee-kollidiert-a-a0976216-81f0-44c6-a2dc-1c83a2e3787a#ref=rss)
+### robert
+
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-wirft-union-und-spd-bei-sondierungen-klientelpolitik-vor](https://www.spiegel.de/politik/deutschland/robert-habeck-wirft-union-und-spd-bei-sondierungen-klientelpolitik-vor-a-2f2cbecb-329c-4692-b490-082700a72a64#ref=rss)
+### habeck
+
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-wirft-union-und-spd-bei-sondierungen-klientelpolitik-vor](https://www.spiegel.de/politik/deutschland/robert-habeck-wirft-union-und-spd-bei-sondierungen-klientelpolitik-vor-a-2f2cbecb-329c-4692-b490-082700a72a64#ref=rss)
 
