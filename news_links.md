@@ -4,251 +4,328 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### ukraine
+### sondervermögen
 
-* [https://www.spiegel.de/ausland/ukraine-moegliche-waffenruhe-wir-leiden-waehrend-dieser-gespraeche](https://www.spiegel.de/ausland/ukraine-moegliche-waffenruhe-wir-leiden-waehrend-dieser-gespraeche-a-3d46d331-29cc-434c-a083-d927f20e2b7b#ref=rss)
-* [https://www.spiegel.de/ausland/medienberichte-russland-flagge-ueber-stadtzentrum-von-sudscha](https://www.spiegel.de/ausland/medienberichte-russland-flagge-ueber-stadtzentrum-von-sudscha-a-49e7e3e1-4af4-488e-b1d8-95f85113ef04#ref=rss)
-### usa
+* [https://www.spiegel.de/politik/ministerpraesidentenkonferenz-laender-fordern-zustimmung-der-gruenen-zu-sondervermoegen](https://www.spiegel.de/politik/ministerpraesidentenkonferenz-laender-fordern-zustimmung-der-gruenen-zu-sondervermoegen-a-1482676b-031d-4a44-bf34-eac8d237e94f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/wirtschaftsweise-zum-regierungskurs-monika-schnitzer-ueber-deutschlands-weg-aus-der-krise](https://www.spiegel.de/wirtschaft/soziales/wirtschaftsweise-zum-regierungskurs-monika-schnitzer-ueber-deutschlands-weg-aus-der-krise-a-993e0b8c-3ccf-4ef3-a895-5620c00dd236#ref=rss)
+### donald
 
-* [https://www.spiegel.de/ausland/ukraine-moegliche-waffenruhe-wir-leiden-waehrend-dieser-gespraeche](https://www.spiegel.de/ausland/ukraine-moegliche-waffenruhe-wir-leiden-waehrend-dieser-gespraeche-a-3d46d331-29cc-434c-a083-d927f20e2b7b#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-nach-einigung-in-dschidda-tote-und-verletzte-nach-russischen-angriffen](https://www.spiegel.de/ausland/ukraine-krieg-nach-einigung-in-dschidda-tote-und-verletzte-nach-russischen-angriffen-a-3e02d5dc-b510-420d-8198-525188c7854c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/f-35-koennten-die-usa-den-luftwaffen-kampfjet-aus-der-ferne-stilllegen](https://www.spiegel.de/wissenschaft/technik/f-35-koennten-die-usa-den-luftwaffen-kampfjet-aus-der-ferne-stilllegen-a-925ceef0-7793-46ca-a227-19a4a59bbe0c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/northvolt-stellt-insolvenzantrag-in-schweden](https://www.spiegel.de/wirtschaft/northvolt-stellt-insolvenzantrag-in-schweden-a-e5457762-a7a4-48b4-8c10-e829dadf6d68#ref=rss)
-### bayern
+* [https://www.spiegel.de/kultur/donald-trump-und-tesla-wimpelhandel-vom-weissen-haus](https://www.spiegel.de/kultur/donald-trump-und-tesla-wimpelhandel-vom-weissen-haus-a-f68318bd-984e-4bcf-82dc-94818df68ef4#ref=rss)
+* [https://www.spiegel.de/ausland/steve-witkoff-der-mann-der-fuer-donald-trump-mit-wladimir-putin-verhandelt](https://www.spiegel.de/ausland/steve-witkoff-der-mann-der-fuer-donald-trump-mit-wladimir-putin-verhandelt-a-6fa519c0-cb05-4c9a-ae79-6d26cc974a2e#ref=rss)
+### trump
 
-* [https://www.spiegel.de/sport/fussball/champions-league-bayer-leverkusen-vs-fc-bayern-sind-die-bayern-wirklich-reif-fuer-den-titel](https://www.spiegel.de/sport/fussball/champions-league-bayer-leverkusen-vs-fc-bayern-sind-die-bayern-wirklich-reif-fuer-den-titel-a-1d8971bd-85fd-42d3-98a5-f7a69394d534#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/bayern-prueft-deutsch-kenntnisse-bei-kindern](https://www.spiegel.de/panorama/bildung/bayern-prueft-deutsch-kenntnisse-bei-kindern-a-eccf27f5-996c-4aed-8d11-a902f92e9b7f#ref=rss)
-### fc
+* [https://www.spiegel.de/kultur/donald-trump-und-tesla-wimpelhandel-vom-weissen-haus](https://www.spiegel.de/kultur/donald-trump-und-tesla-wimpelhandel-vom-weissen-haus-a-f68318bd-984e-4bcf-82dc-94818df68ef4#ref=rss)
+* [https://www.spiegel.de/ausland/steve-witkoff-der-mann-der-fuer-donald-trump-mit-wladimir-putin-verhandelt](https://www.spiegel.de/ausland/steve-witkoff-der-mann-der-fuer-donald-trump-mit-wladimir-putin-verhandelt-a-6fa519c0-cb05-4c9a-ae79-6d26cc974a2e#ref=rss)
+### putin
 
-* [https://www.spiegel.de/politik/deutschland/afd-ausschluss-beim-fc-bundestag-die-frage-ist-ob-du-mit-nazis-nackt-unter-der-dusche-stehen-willst](https://www.spiegel.de/politik/deutschland/afd-ausschluss-beim-fc-bundestag-die-frage-ist-ob-du-mit-nazis-nackt-unter-der-dusche-stehen-willst-a-b062c536-e31f-43dd-8789-534879130cf8#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-bayer-leverkusen-vs-fc-bayern-sind-die-bayern-wirklich-reif-fuer-den-titel](https://www.spiegel.de/sport/fussball/champions-league-bayer-leverkusen-vs-fc-bayern-sind-die-bayern-wirklich-reif-fuer-den-titel-a-1d8971bd-85fd-42d3-98a5-f7a69394d534#ref=rss)
-### willis
+* [https://www.spiegel.de/ausland/steve-witkoff-der-mann-der-fuer-donald-trump-mit-wladimir-putin-verhandelt](https://www.spiegel.de/ausland/steve-witkoff-der-mann-der-fuer-donald-trump-mit-wladimir-putin-verhandelt-a-6fa519c0-cb05-4c9a-ae79-6d26cc974a2e#ref=rss)
+* [https://www.spiegel.de/kultur/musik/wladimir-putin-pet-shop-boy-neil-tennant-nennt-ihn-ein-krebsgeschwuer](https://www.spiegel.de/kultur/musik/wladimir-putin-pet-shop-boy-neil-tennant-nennt-ihn-ein-krebsgeschwuer-a-690efda6-be69-4e14-9d2d-271684c69659#ref=rss)
+### regierung
 
-* [https://www.spiegel.de/panorama/leute/bruce-willis-emma-heming-willis-fordert-unterstuetzung-fuer-pflegende-angehoerige](https://www.spiegel.de/panorama/leute/bruce-willis-emma-heming-willis-fordert-unterstuetzung-fuer-pflegende-angehoerige-a-285a0873-397d-4f95-8718-1e6271e76843#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/berlin-schoeneberg-mann-mit-palaestina-schal-von-68-jaehrigem-geschlagen](https://www.spiegel.de/panorama/berlin-schoeneberg-mann-mit-palaestina-schal-von-68-jaehrigem-geschlagen-a-5174de0c-9a81-4077-86d5-879600536ff5#ref=rss)
-* [https://www.spiegel.de/panorama/leute/bruce-willis-emma-heming-willis-fordert-unterstuetzung-fuer-pflegende-angehoerige](https://www.spiegel.de/panorama/leute/bruce-willis-emma-heming-willis-fordert-unterstuetzung-fuer-pflegende-angehoerige-a-285a0873-397d-4f95-8718-1e6271e76843#ref=rss)
+* [https://www.spiegel.de/ausland/georgien-ex-praesident-micheil-saakaschwili-zu-weiterer-haftstrafe-verurteilt](https://www.spiegel.de/ausland/georgien-ex-praesident-micheil-saakaschwili-zu-weiterer-haftstrafe-verurteilt-a-0435f6f3-1309-47c6-89f1-8e4459a77e83#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-und-csu-regierung-weist-vorwuerfe-gegen-gemeinnuetzige-organisationen-zurueck](https://www.spiegel.de/politik/deutschland/cdu-und-csu-regierung-weist-vorwuerfe-gegen-gemeinnuetzige-organisationen-zurueck-a-3de3eddd-b741-4444-b2dd-ea49c1c2c30a#ref=rss)
+* [https://www.spiegel.de/ausland/ungarn-orban-regierung-will-doppelstaatlern-ungarischen-pass-entziehen-koennen](https://www.spiegel.de/ausland/ungarn-orban-regierung-will-doppelstaatlern-ungarischen-pass-entziehen-koennen-a-ba272ef4-6e10-49c0-a289-ca02767d4e2b#ref=rss)
+* [https://www.spiegel.de/ausland/groenland-donald-trump-freunde-legen-bei-wahl-zu-regieren-werden-andere](https://www.spiegel.de/ausland/groenland-donald-trump-freunde-legen-bei-wahl-zu-regieren-werden-andere-a-cfb2972d-a872-472f-b6f6-539a24750302#ref=rss)
 ### unter
 
-* [https://www.spiegel.de/politik/deutschland/afd-ausschluss-beim-fc-bundestag-die-frage-ist-ob-du-mit-nazis-nackt-unter-der-dusche-stehen-willst](https://www.spiegel.de/politik/deutschland/afd-ausschluss-beim-fc-bundestag-die-frage-ist-ob-du-mit-nazis-nackt-unter-der-dusche-stehen-willst-a-b062c536-e31f-43dd-8789-534879130cf8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/porsche-gewinn-bricht-um-30-prozent-ein](https://www.spiegel.de/wirtschaft/unternehmen/porsche-gewinn-bricht-um-30-prozent-ein-a-286d8ad3-f489-4651-8dab-4ef6ce5f6fab#ref=rss)
-### neue
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gaspreise-der-coronabericht-des-bnd-und-die-f-35-tarnkappenjets](https://www.spiegel.de/politik/deutschland/news-des-tages-gaspreise-der-coronabericht-des-bnd-und-die-f-35-tarnkappenjets-a-6750b3a2-f474-4780-b44e-de25c24e282d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/generationengerechtigkeit-warum-junge-menschen-jetzt-auf-die-strasse-gehen-sollten](https://www.spiegel.de/wirtschaft/soziales/generationengerechtigkeit-warum-junge-menschen-jetzt-auf-die-strasse-gehen-sollten-a-c25873a6-0478-459d-9bb2-9ed2e3b24d48#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/skandal-bei-nordischer-ski-wm-weltmeister-marius-lindvik-und-weitere-norweger-vorlaeufig-suspendiert](https://www.spiegel.de/sport/wintersport/skandal-bei-nordischer-ski-wm-weltmeister-marius-lindvik-und-weitere-norweger-vorlaeufig-suspendiert-a-54e5275d-15ed-400e-8b4c-03046974909d#ref=rss)
+* [https://www.spiegel.de/geschichte/lebensborn-heime-im-nationalsozialismus-himmlers-kinderwunsch](https://www.spiegel.de/geschichte/lebensborn-heime-im-nationalsozialismus-himmlers-kinderwunsch-a-e5888320-e559-4c87-93eb-6ad2da641129#ref=rss)
+### 21
 
-* [https://www.spiegel.de/wirtschaft/grosse-mehrheit-der-oekonomen-fuer-neue-ruestungsschulden](https://www.spiegel.de/wirtschaft/grosse-mehrheit-der-oekonomen-fuer-neue-ruestungsschulden-a-3a309876-1b65-44d2-b273-ccc58e988cfe#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/geburtsraten-an-den-grundschulen-ist-bald-mehr-platz-im-klassenzimmer](https://www.spiegel.de/panorama/bildung/geburtsraten-an-den-grundschulen-ist-bald-mehr-platz-im-klassenzimmer-a-1e7e2952-8689-4bf5-9906-8a84f02c3dcc#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/industriestandort-chemiebranche-kritisiert-stand-der-koalitionsverhandlungen](https://www.spiegel.de/wirtschaft/unternehmen/industriestandort-chemiebranche-kritisiert-stand-der-koalitionsverhandlungen-a-b7cca4ff-5809-4c33-969a-93a2827aad89#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/f-35-koennten-die-usa-den-luftwaffen-kampfjet-aus-der-ferne-stilllegen](https://www.spiegel.de/wissenschaft/technik/f-35-koennten-die-usa-den-luftwaffen-kampfjet-aus-der-ferne-stilllegen-a-925ceef0-7793-46ca-a227-19a4a59bbe0c#ref=rss)
-### viele
-
-* [https://www.spiegel.de/netzwelt/web/kabel-tv-vodafone-geht-angeblich-verstaerkt-gegen-schwarzseher-vor](https://www.spiegel.de/netzwelt/web/kabel-tv-vodafone-geht-angeblich-verstaerkt-gegen-schwarzseher-vor-a-924c001b-fbf4-4aaa-a0a4-c3ebd9df6313#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/geburtsraten-an-den-grundschulen-ist-bald-mehr-platz-im-klassenzimmer](https://www.spiegel.de/panorama/bildung/geburtsraten-an-den-grundschulen-ist-bald-mehr-platz-im-klassenzimmer-a-1e7e2952-8689-4bf5-9906-8a84f02c3dcc#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/bayern-prueft-deutsch-kenntnisse-bei-kindern](https://www.spiegel.de/panorama/bildung/bayern-prueft-deutsch-kenntnisse-bei-kindern-a-eccf27f5-996c-4aed-8d11-a902f92e9b7f#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/start/lernen-wie-man-mit-und-ohne-ki-gut-durch-die-pruefungsphase-kommt](https://www.spiegel.de/start/lernen-wie-man-mit-und-ohne-ki-gut-durch-die-pruefungsphase-kommt-a-88372613-b167-4b59-b88b-3788b96bef55#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/kabel-tv-vodafone-geht-angeblich-verstaerkt-gegen-schwarzseher-vor](https://www.spiegel.de/netzwelt/web/kabel-tv-vodafone-geht-angeblich-verstaerkt-gegen-schwarzseher-vor-a-924c001b-fbf4-4aaa-a0a4-c3ebd9df6313#ref=rss)
-### gut
-
-* [https://www.spiegel.de/start/lernen-wie-man-mit-und-ohne-ki-gut-durch-die-pruefungsphase-kommt](https://www.spiegel.de/start/lernen-wie-man-mit-und-ohne-ki-gut-durch-die-pruefungsphase-kommt-a-88372613-b167-4b59-b88b-3788b96bef55#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/bayern-prueft-deutsch-kenntnisse-bei-kindern](https://www.spiegel.de/panorama/bildung/bayern-prueft-deutsch-kenntnisse-bei-kindern-a-eccf27f5-996c-4aed-8d11-a902f92e9b7f#ref=rss)
-### berlinschöneberg
-
-* [https://www.spiegel.de/panorama/berlin-schoeneberg-mann-mit-palaestina-schal-von-68-jaehrigem-geschlagen](https://www.spiegel.de/panorama/berlin-schoeneberg-mann-mit-palaestina-schal-von-68-jaehrigem-geschlagen-a-5174de0c-9a81-4077-86d5-879600536ff5#ref=rss)
-### waffenruhe
-
-* [https://www.spiegel.de/ausland/ukraine-moegliche-waffenruhe-wir-leiden-waehrend-dieser-gespraeche](https://www.spiegel.de/ausland/ukraine-moegliche-waffenruhe-wir-leiden-waehrend-dieser-gespraeche-a-3d46d331-29cc-434c-a083-d927f20e2b7b#ref=rss)
-### gute
-
-* [https://www.spiegel.de/ausland/ukraine-moegliche-waffenruhe-wir-leiden-waehrend-dieser-gespraeche](https://www.spiegel.de/ausland/ukraine-moegliche-waffenruhe-wir-leiden-waehrend-dieser-gespraeche-a-3d46d331-29cc-434c-a083-d927f20e2b7b#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/geburtsraten-an-den-grundschulen-ist-bald-mehr-platz-im-klassenzimmer](https://www.spiegel.de/panorama/bildung/geburtsraten-an-den-grundschulen-ist-bald-mehr-platz-im-klassenzimmer-a-1e7e2952-8689-4bf5-9906-8a84f02c3dcc#ref=rss)
-### vorschlag
-
-* [https://www.spiegel.de/ausland/ukraine-moegliche-waffenruhe-wir-leiden-waehrend-dieser-gespraeche](https://www.spiegel.de/ausland/ukraine-moegliche-waffenruhe-wir-leiden-waehrend-dieser-gespraeche-a-3d46d331-29cc-434c-a083-d927f20e2b7b#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-nach-einigung-in-dschidda-tote-und-verletzte-nach-russischen-angriffen](https://www.spiegel.de/ausland/ukraine-krieg-nach-einigung-in-dschidda-tote-und-verletzte-nach-russischen-angriffen-a-3e02d5dc-b510-420d-8198-525188c7854c#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/ukraine-moegliche-waffenruhe-wir-leiden-waehrend-dieser-gespraeche](https://www.spiegel.de/ausland/ukraine-moegliche-waffenruhe-wir-leiden-waehrend-dieser-gespraeche-a-3d46d331-29cc-434c-a083-d927f20e2b7b#ref=rss)
-* [https://www.spiegel.de/ausland/pakistan-155-geiseln-aus-gekapertem-zug-befreit](https://www.spiegel.de/ausland/pakistan-155-geiseln-aus-gekapertem-zug-befreit-a-fb207411-9cd1-45a8-b01c-f9684ada6eb6#ref=rss)
-### einigung
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-nach-einigung-in-dschidda-tote-und-verletzte-nach-russischen-angriffen](https://www.spiegel.de/ausland/ukraine-krieg-nach-einigung-in-dschidda-tote-und-verletzte-nach-russischen-angriffen-a-3e02d5dc-b510-420d-8198-525188c7854c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/stephan-weil-spd-ministerpraesident-ueber-die-verhandlungen-mit-union-und-gruenen](https://www.spiegel.de/politik/deutschland/stephan-weil-spd-ministerpraesident-ueber-die-verhandlungen-mit-union-und-gruenen-a-7678a740-1b5a-4126-baa2-518fe1af1e2b#ref=rss)
-### russischen
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-nach-einigung-in-dschidda-tote-und-verletzte-nach-russischen-angriffen](https://www.spiegel.de/ausland/ukraine-krieg-nach-einigung-in-dschidda-tote-und-verletzte-nach-russischen-angriffen-a-3e02d5dc-b510-420d-8198-525188c7854c#ref=rss)
-* [https://www.spiegel.de/ausland/medienberichte-russland-flagge-ueber-stadtzentrum-von-sudscha](https://www.spiegel.de/ausland/medienberichte-russland-flagge-ueber-stadtzentrum-von-sudscha-a-49e7e3e1-4af4-488e-b1d8-95f85113ef04#ref=rss)
-### china
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-nach-einigung-in-dschidda-tote-und-verletzte-nach-russischen-angriffen](https://www.spiegel.de/ausland/ukraine-krieg-nach-einigung-in-dschidda-tote-und-verletzte-nach-russischen-angriffen-a-3e02d5dc-b510-420d-8198-525188c7854c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/porsche-gewinn-bricht-um-30-prozent-ein](https://www.spiegel.de/wirtschaft/unternehmen/porsche-gewinn-bricht-um-30-prozent-ein-a-286d8ad3-f489-4651-8dab-4ef6ce5f6fab#ref=rss)
-### sieht
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-nach-einigung-in-dschidda-tote-und-verletzte-nach-russischen-angriffen](https://www.spiegel.de/ausland/ukraine-krieg-nach-einigung-in-dschidda-tote-und-verletzte-nach-russischen-angriffen-a-3e02d5dc-b510-420d-8198-525188c7854c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/industriestandort-chemiebranche-kritisiert-stand-der-koalitionsverhandlungen](https://www.spiegel.de/wirtschaft/unternehmen/industriestandort-chemiebranche-kritisiert-stand-der-koalitionsverhandlungen-a-b7cca4ff-5809-4c33-969a-93a2827aad89#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-erzielt-rekordgewinn](https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-erzielt-rekordgewinn-a-ed0091d2-86d7-43df-88ad-cdad4410ff56#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/bayern-prueft-deutsch-kenntnisse-bei-kindern](https://www.spiegel.de/panorama/bildung/bayern-prueft-deutsch-kenntnisse-bei-kindern-a-eccf27f5-996c-4aed-8d11-a902f92e9b7f#ref=rss)
-### sudscha
-
-* [https://www.spiegel.de/ausland/medienberichte-russland-flagge-ueber-stadtzentrum-von-sudscha](https://www.spiegel.de/ausland/medienberichte-russland-flagge-ueber-stadtzentrum-von-sudscha-a-49e7e3e1-4af4-488e-b1d8-95f85113ef04#ref=rss)
-### scarlett
-
-* [https://www.spiegel.de/kultur/kino/scarlett-johansson-kehrt-nicht-als-black-widow-zurueck](https://www.spiegel.de/kultur/kino/scarlett-johansson-kehrt-nicht-als-black-widow-zurueck-a-61897fa2-7127-4f9d-8150-6edb06f77d72#ref=rss)
-### johansson
-
-* [https://www.spiegel.de/kultur/kino/scarlett-johansson-kehrt-nicht-als-black-widow-zurueck](https://www.spiegel.de/kultur/kino/scarlett-johansson-kehrt-nicht-als-black-widow-zurueck-a-61897fa2-7127-4f9d-8150-6edb06f77d72#ref=rss)
-### drauf
-
-* [https://www.spiegel.de/kultur/kino/scarlett-johansson-kehrt-nicht-als-black-widow-zurueck](https://www.spiegel.de/kultur/kino/scarlett-johansson-kehrt-nicht-als-black-widow-zurueck-a-61897fa2-7127-4f9d-8150-6edb06f77d72#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/geburtsraten-an-den-grundschulen-ist-bald-mehr-platz-im-klassenzimmer](https://www.spiegel.de/panorama/bildung/geburtsraten-an-den-grundschulen-ist-bald-mehr-platz-im-klassenzimmer-a-1e7e2952-8689-4bf5-9906-8a84f02c3dcc#ref=rss)
-### stephan
-
-* [https://www.spiegel.de/politik/deutschland/stephan-weil-spd-ministerpraesident-ueber-die-verhandlungen-mit-union-und-gruenen](https://www.spiegel.de/politik/deutschland/stephan-weil-spd-ministerpraesident-ueber-die-verhandlungen-mit-union-und-gruenen-a-7678a740-1b5a-4126-baa2-518fe1af1e2b#ref=rss)
+* [https://www.spiegel.de/ausland/pakistan-geiselnahme-in-zug-endet-alle-angreifer-getoetet](https://www.spiegel.de/ausland/pakistan-geiselnahme-in-zug-endet-alle-angreifer-getoetet-a-ff6152bc-5f14-4cd1-be71-8581d50ada92#ref=rss)
+* [https://www.spiegel.de/panorama/russland-sanktionen-46-jaehrige-exportierte-luxusautos-im-wert-von-21-millionen-euro](https://www.spiegel.de/panorama/russland-sanktionen-46-jaehrige-exportierte-luxusautos-im-wert-von-21-millionen-euro-a-b0ca7ae5-4bc7-4e9d-a524-da339a16917a#ref=rss)
 ### grünen
 
-* [https://www.spiegel.de/politik/deutschland/stephan-weil-spd-ministerpraesident-ueber-die-verhandlungen-mit-union-und-gruenen](https://www.spiegel.de/politik/deutschland/stephan-weil-spd-ministerpraesident-ueber-die-verhandlungen-mit-union-und-gruenen-a-7678a740-1b5a-4126-baa2-518fe1af1e2b#ref=rss)
-### nordsee
+* [https://www.spiegel.de/politik/ministerpraesidentenkonferenz-laender-fordern-zustimmung-der-gruenen-zu-sondervermoegen](https://www.spiegel.de/politik/ministerpraesidentenkonferenz-laender-fordern-zustimmung-der-gruenen-zu-sondervermoegen-a-1482676b-031d-4a44-bf34-eac8d237e94f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/generationengerechtigkeit-warum-junge-menschen-jetzt-auf-die-strasse-gehen-sollten](https://www.spiegel.de/wirtschaft/soziales/generationengerechtigkeit-warum-junge-menschen-jetzt-auf-die-strasse-gehen-sollten-a-c25873a6-0478-459d-9bb2-9ed2e3b24d48#ref=rss)
+### wladimir
 
-* [https://www.spiegel.de/panorama/schiffsunglueck-in-der-nordsee-russischer-kapitaen-wegen-verdachts-auf-fahrlaessige-toetung-festgenommen](https://www.spiegel.de/panorama/schiffsunglueck-in-der-nordsee-russischer-kapitaen-wegen-verdachts-auf-fahrlaessige-toetung-festgenommen-a-6c3b2441-a8c3-4b40-9113-9f29e54f6ed8#ref=rss)
-### kapitän
+* [https://www.spiegel.de/ausland/steve-witkoff-der-mann-der-fuer-donald-trump-mit-wladimir-putin-verhandelt](https://www.spiegel.de/ausland/steve-witkoff-der-mann-der-fuer-donald-trump-mit-wladimir-putin-verhandelt-a-6fa519c0-cb05-4c9a-ae79-6d26cc974a2e#ref=rss)
+* [https://www.spiegel.de/kultur/musik/wladimir-putin-pet-shop-boy-neil-tennant-nennt-ihn-ein-krebsgeschwuer](https://www.spiegel.de/kultur/musik/wladimir-putin-pet-shop-boy-neil-tennant-nennt-ihn-ein-krebsgeschwuer-a-690efda6-be69-4e14-9d2d-271684c69659#ref=rss)
+### usa
 
-* [https://www.spiegel.de/panorama/schiffsunglueck-in-der-nordsee-russischer-kapitaen-wegen-verdachts-auf-fahrlaessige-toetung-festgenommen](https://www.spiegel.de/panorama/schiffsunglueck-in-der-nordsee-russischer-kapitaen-wegen-verdachts-auf-fahrlaessige-toetung-festgenommen-a-6c3b2441-a8c3-4b40-9113-9f29e54f6ed8#ref=rss)
-### 35
+* [https://www.spiegel.de/ausland/steve-witkoff-der-mann-der-fuer-donald-trump-mit-wladimir-putin-verhandelt](https://www.spiegel.de/ausland/steve-witkoff-der-mann-der-fuer-donald-trump-mit-wladimir-putin-verhandelt-a-6fa519c0-cb05-4c9a-ae79-6d26cc974a2e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/konjunktur-us-inflation-schwaecht-sich-ueberraschend-stark-ab](https://www.spiegel.de/wirtschaft/konjunktur-us-inflation-schwaecht-sich-ueberraschend-stark-ab-a-df9227b5-d2ad-4625-8dc3-3979f346c4cd#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-erwartet-us-rueckendeckung-bei-russischer-ablehnung-der-waffenruhe](https://www.spiegel.de/ausland/ukraine-erwartet-us-rueckendeckung-bei-russischer-ablehnung-der-waffenruhe-a-0ed3849f-38e2-4282-b71c-6e24ba804a99#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/panorama/schiffsunglueck-in-der-nordsee-russischer-kapitaen-wegen-verdachts-auf-fahrlaessige-toetung-festgenommen](https://www.spiegel.de/panorama/schiffsunglueck-in-der-nordsee-russischer-kapitaen-wegen-verdachts-auf-fahrlaessige-toetung-festgenommen-a-6c3b2441-a8c3-4b40-9113-9f29e54f6ed8#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/f-35-koennten-die-usa-den-luftwaffen-kampfjet-aus-der-ferne-stilllegen](https://www.spiegel.de/wissenschaft/technik/f-35-koennten-die-usa-den-luftwaffen-kampfjet-aus-der-ferne-stilllegen-a-925ceef0-7793-46ca-a227-19a4a59bbe0c#ref=rss)
-### millionen
+* [https://www.spiegel.de/ausland/steve-witkoff-der-mann-der-fuer-donald-trump-mit-wladimir-putin-verhandelt](https://www.spiegel.de/ausland/steve-witkoff-der-mann-der-fuer-donald-trump-mit-wladimir-putin-verhandelt-a-6fa519c0-cb05-4c9a-ae79-6d26cc974a2e#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-erwartet-us-rueckendeckung-bei-russischer-ablehnung-der-waffenruhe](https://www.spiegel.de/ausland/ukraine-erwartet-us-rueckendeckung-bei-russischer-ablehnung-der-waffenruhe-a-0ed3849f-38e2-4282-b71c-6e24ba804a99#ref=rss)
+* [https://www.spiegel.de/panorama/russland-sanktionen-46-jaehrige-exportierte-luxusautos-im-wert-von-21-millionen-euro](https://www.spiegel.de/panorama/russland-sanktionen-46-jaehrige-exportierte-luxusautos-im-wert-von-21-millionen-euro-a-b0ca7ae5-4bc7-4e9d-a524-da339a16917a#ref=rss)
+### waffenruhe
 
-* [https://www.spiegel.de/panorama/schiffsunglueck-in-der-nordsee-russischer-kapitaen-wegen-verdachts-auf-fahrlaessige-toetung-festgenommen](https://www.spiegel.de/panorama/schiffsunglueck-in-der-nordsee-russischer-kapitaen-wegen-verdachts-auf-fahrlaessige-toetung-festgenommen-a-6c3b2441-a8c3-4b40-9113-9f29e54f6ed8#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/kabel-tv-vodafone-geht-angeblich-verstaerkt-gegen-schwarzseher-vor](https://www.spiegel.de/netzwelt/web/kabel-tv-vodafone-geht-angeblich-verstaerkt-gegen-schwarzseher-vor-a-924c001b-fbf4-4aaa-a0a4-c3ebd9df6313#ref=rss)
-### bundestag
+* [https://www.spiegel.de/ausland/steve-witkoff-der-mann-der-fuer-donald-trump-mit-wladimir-putin-verhandelt](https://www.spiegel.de/ausland/steve-witkoff-der-mann-der-fuer-donald-trump-mit-wladimir-putin-verhandelt-a-6fa519c0-cb05-4c9a-ae79-6d26cc974a2e#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-erwartet-us-rueckendeckung-bei-russischer-ablehnung-der-waffenruhe](https://www.spiegel.de/ausland/ukraine-erwartet-us-rueckendeckung-bei-russischer-ablehnung-der-waffenruhe-a-0ed3849f-38e2-4282-b71c-6e24ba804a99#ref=rss)
+### erwartet
 
-* [https://www.spiegel.de/politik/deutschland/afd-ausschluss-beim-fc-bundestag-die-frage-ist-ob-du-mit-nazis-nackt-unter-der-dusche-stehen-willst](https://www.spiegel.de/politik/deutschland/afd-ausschluss-beim-fc-bundestag-die-frage-ist-ob-du-mit-nazis-nackt-unter-der-dusche-stehen-willst-a-b062c536-e31f-43dd-8789-534879130cf8#ref=rss)
-### frage
+* [https://www.spiegel.de/wirtschaft/konjunktur-us-inflation-schwaecht-sich-ueberraschend-stark-ab](https://www.spiegel.de/wirtschaft/konjunktur-us-inflation-schwaecht-sich-ueberraschend-stark-ab-a-df9227b5-d2ad-4625-8dc3-3979f346c4cd#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-erwartet-us-rueckendeckung-bei-russischer-ablehnung-der-waffenruhe](https://www.spiegel.de/ausland/ukraine-erwartet-us-rueckendeckung-bei-russischer-ablehnung-der-waffenruhe-a-0ed3849f-38e2-4282-b71c-6e24ba804a99#ref=rss)
+### russland
 
-* [https://www.spiegel.de/politik/deutschland/afd-ausschluss-beim-fc-bundestag-die-frage-ist-ob-du-mit-nazis-nackt-unter-der-dusche-stehen-willst](https://www.spiegel.de/politik/deutschland/afd-ausschluss-beim-fc-bundestag-die-frage-ist-ob-du-mit-nazis-nackt-unter-der-dusche-stehen-willst-a-b062c536-e31f-43dd-8789-534879130cf8#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-bayer-leverkusen-vs-fc-bayern-sind-die-bayern-wirklich-reif-fuer-den-titel](https://www.spiegel.de/sport/fussball/champions-league-bayer-leverkusen-vs-fc-bayern-sind-die-bayern-wirklich-reif-fuer-den-titel-a-1d8971bd-85fd-42d3-98a5-f7a69394d534#ref=rss)
-### ökonomen
+* [https://www.spiegel.de/ausland/ukraine-erwartet-us-rueckendeckung-bei-russischer-ablehnung-der-waffenruhe](https://www.spiegel.de/ausland/ukraine-erwartet-us-rueckendeckung-bei-russischer-ablehnung-der-waffenruhe-a-0ed3849f-38e2-4282-b71c-6e24ba804a99#ref=rss)
+* [https://www.spiegel.de/panorama/russland-sanktionen-46-jaehrige-exportierte-luxusautos-im-wert-von-21-millionen-euro](https://www.spiegel.de/panorama/russland-sanktionen-46-jaehrige-exportierte-luxusautos-im-wert-von-21-millionen-euro-a-b0ca7ae5-4bc7-4e9d-a524-da339a16917a#ref=rss)
+### go
 
-* [https://www.spiegel.de/wirtschaft/grosse-mehrheit-der-oekonomen-fuer-neue-ruestungsschulden](https://www.spiegel.de/wirtschaft/grosse-mehrheit-der-oekonomen-fuer-neue-ruestungsschulden-a-3a309876-1b65-44d2-b273-ccc58e988cfe#ref=rss)
-### schulden
-
-* [https://www.spiegel.de/wirtschaft/grosse-mehrheit-der-oekonomen-fuer-neue-ruestungsschulden](https://www.spiegel.de/wirtschaft/grosse-mehrheit-der-oekonomen-fuer-neue-ruestungsschulden-a-3a309876-1b65-44d2-b273-ccc58e988cfe#ref=rss)
-### deutschlands
-
-* [https://www.spiegel.de/wirtschaft/grosse-mehrheit-der-oekonomen-fuer-neue-ruestungsschulden](https://www.spiegel.de/wirtschaft/grosse-mehrheit-der-oekonomen-fuer-neue-ruestungsschulden-a-3a309876-1b65-44d2-b273-ccc58e988cfe#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-bayer-leverkusen-vs-fc-bayern-sind-die-bayern-wirklich-reif-fuer-den-titel](https://www.spiegel.de/sport/fussball/champions-league-bayer-leverkusen-vs-fc-bayern-sind-die-bayern-wirklich-reif-fuer-den-titel-a-1d8971bd-85fd-42d3-98a5-f7a69394d534#ref=rss)
-### verwalten
-
-* [https://www.spiegel.de/start/fuehrungskraefte-verwalten-oft-nur-muss-das-die-einzige-form-von-karriere-sein](https://www.spiegel.de/start/fuehrungskraefte-verwalten-oft-nur-muss-das-die-einzige-form-von-karriere-sein-a-637a43e8-36b5-415a-bdbb-b9c1438af580#ref=rss)
-### oft
-
-* [https://www.spiegel.de/start/fuehrungskraefte-verwalten-oft-nur-muss-das-die-einzige-form-von-karriere-sein](https://www.spiegel.de/start/fuehrungskraefte-verwalten-oft-nur-muss-das-die-einzige-form-von-karriere-sein-a-637a43e8-36b5-415a-bdbb-b9c1438af580#ref=rss)
-### wirklich
-
-* [https://www.spiegel.de/start/fuehrungskraefte-verwalten-oft-nur-muss-das-die-einzige-form-von-karriere-sein](https://www.spiegel.de/start/fuehrungskraefte-verwalten-oft-nur-muss-das-die-einzige-form-von-karriere-sein-a-637a43e8-36b5-415a-bdbb-b9c1438af580#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-bayer-leverkusen-vs-fc-bayern-sind-die-bayern-wirklich-reif-fuer-den-titel](https://www.spiegel.de/sport/fussball/champions-league-bayer-leverkusen-vs-fc-bayern-sind-die-bayern-wirklich-reif-fuer-den-titel-a-1d8971bd-85fd-42d3-98a5-f7a69394d534#ref=rss)
-### parlament
-
-* [https://www.spiegel.de/ausland/niederlande-parlament-lehnt-eu-verteidigungsplan-ab](https://www.spiegel.de/ausland/niederlande-parlament-lehnt-eu-verteidigungsplan-ab-a-33061967-1139-40c8-a3c8-ce687f241310#ref=rss)
-### arbeitgeber
-
-* [https://www.spiegel.de/wirtschaft/oeffentlicher-dienst-die-masslosigkeit-der-ver-di-bosse](https://www.spiegel.de/wirtschaft/oeffentlicher-dienst-die-masslosigkeit-der-ver-di-bosse-a-ffeeb237-ab69-4fda-9893-cd4db3a25118#ref=rss)
-* [https://www.spiegel.de/karriere/betriebsbedingte-kuendigung-was-arbeitnehmer-wissen-muessen](https://www.spiegel.de/karriere/betriebsbedingte-kuendigung-was-arbeitnehmer-wissen-muessen-a-1a4a27eb-c3a6-4b50-8435-12ce7f30facb#ref=rss)
-### diesem
-
-* [https://www.spiegel.de/wirtschaft/oeffentlicher-dienst-die-masslosigkeit-der-ver-di-bosse](https://www.spiegel.de/wirtschaft/oeffentlicher-dienst-die-masslosigkeit-der-ver-di-bosse-a-ffeeb237-ab69-4fda-9893-cd4db3a25118#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/bayern-prueft-deutsch-kenntnisse-bei-kindern](https://www.spiegel.de/panorama/bildung/bayern-prueft-deutsch-kenntnisse-bei-kindern-a-eccf27f5-996c-4aed-8d11-a902f92e9b7f#ref=rss)
-### fall
-
-* [https://www.spiegel.de/wirtschaft/oeffentlicher-dienst-die-masslosigkeit-der-ver-di-bosse](https://www.spiegel.de/wirtschaft/oeffentlicher-dienst-die-masslosigkeit-der-ver-di-bosse-a-ffeeb237-ab69-4fda-9893-cd4db3a25118#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/f-35-koennten-die-usa-den-luftwaffen-kampfjet-aus-der-ferne-stilllegen](https://www.spiegel.de/wissenschaft/technik/f-35-koennten-die-usa-den-luftwaffen-kampfjet-aus-der-ferne-stilllegen-a-925ceef0-7793-46ca-a227-19a4a59bbe0c#ref=rss)
-### weit
-
-* [https://www.spiegel.de/wirtschaft/oeffentlicher-dienst-die-masslosigkeit-der-ver-di-bosse](https://www.spiegel.de/wirtschaft/oeffentlicher-dienst-die-masslosigkeit-der-ver-di-bosse-a-ffeeb237-ab69-4fda-9893-cd4db3a25118#ref=rss)
-* [https://www.spiegel.de/karriere/betriebsbedingte-kuendigung-was-arbeitnehmer-wissen-muessen](https://www.spiegel.de/karriere/betriebsbedingte-kuendigung-was-arbeitnehmer-wissen-muessen-a-1a4a27eb-c3a6-4b50-8435-12ce7f30facb#ref=rss)
-### vodafone
-
-* [https://www.spiegel.de/netzwelt/web/kabel-tv-vodafone-geht-angeblich-verstaerkt-gegen-schwarzseher-vor](https://www.spiegel.de/netzwelt/web/kabel-tv-vodafone-geht-angeblich-verstaerkt-gegen-schwarzseher-vor-a-924c001b-fbf4-4aaa-a0a4-c3ebd9df6313#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/netzwelt/web/kabel-tv-vodafone-geht-angeblich-verstaerkt-gegen-schwarzseher-vor](https://www.spiegel.de/netzwelt/web/kabel-tv-vodafone-geht-angeblich-verstaerkt-gegen-schwarzseher-vor-a-924c001b-fbf4-4aaa-a0a4-c3ebd9df6313#ref=rss)
-* [https://www.spiegel.de/wirtschaft/northvolt-stellt-insolvenzantrag-in-schweden](https://www.spiegel.de/wirtschaft/northvolt-stellt-insolvenzantrag-in-schweden-a-e5457762-a7a4-48b4-8c10-e829dadf6d68#ref=rss)
-### bruce
-
-* [https://www.spiegel.de/panorama/leute/bruce-willis-emma-heming-willis-fordert-unterstuetzung-fuer-pflegende-angehoerige](https://www.spiegel.de/panorama/leute/bruce-willis-emma-heming-willis-fordert-unterstuetzung-fuer-pflegende-angehoerige-a-285a0873-397d-4f95-8718-1e6271e76843#ref=rss)
-### emma
-
-* [https://www.spiegel.de/panorama/leute/bruce-willis-emma-heming-willis-fordert-unterstuetzung-fuer-pflegende-angehoerige](https://www.spiegel.de/panorama/leute/bruce-willis-emma-heming-willis-fordert-unterstuetzung-fuer-pflegende-angehoerige-a-285a0873-397d-4f95-8718-1e6271e76843#ref=rss)
-### heming
-
-* [https://www.spiegel.de/panorama/leute/bruce-willis-emma-heming-willis-fordert-unterstuetzung-fuer-pflegende-angehoerige](https://www.spiegel.de/panorama/leute/bruce-willis-emma-heming-willis-fordert-unterstuetzung-fuer-pflegende-angehoerige-a-285a0873-397d-4f95-8718-1e6271e76843#ref=rss)
-### münchen
-
-* [https://www.spiegel.de/panorama/justiz/polizei-durchsucht-auslaenderbehoerde-in-muenchen-mehrere-festnahmen](https://www.spiegel.de/panorama/justiz/polizei-durchsucht-auslaenderbehoerde-in-muenchen-mehrere-festnahmen-a-5648259b-5b1e-47f5-b2ee-542d14005b9d#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/justiz/polizei-durchsucht-auslaenderbehoerde-in-muenchen-mehrere-festnahmen](https://www.spiegel.de/panorama/justiz/polizei-durchsucht-auslaenderbehoerde-in-muenchen-mehrere-festnahmen-a-5648259b-5b1e-47f5-b2ee-542d14005b9d#ref=rss)
-### durchsucht
-
-* [https://www.spiegel.de/panorama/justiz/polizei-durchsucht-auslaenderbehoerde-in-muenchen-mehrere-festnahmen](https://www.spiegel.de/panorama/justiz/polizei-durchsucht-auslaenderbehoerde-in-muenchen-mehrere-festnahmen-a-5648259b-5b1e-47f5-b2ee-542d14005b9d#ref=rss)
-### ausländerbehörde
-
-* [https://www.spiegel.de/panorama/justiz/polizei-durchsucht-auslaenderbehoerde-in-muenchen-mehrere-festnahmen](https://www.spiegel.de/panorama/justiz/polizei-durchsucht-auslaenderbehoerde-in-muenchen-mehrere-festnahmen-a-5648259b-5b1e-47f5-b2ee-542d14005b9d#ref=rss)
-### f35
-
-* [https://www.spiegel.de/wissenschaft/technik/f-35-koennten-die-usa-den-luftwaffen-kampfjet-aus-der-ferne-stilllegen](https://www.spiegel.de/wissenschaft/technik/f-35-koennten-die-usa-den-luftwaffen-kampfjet-aus-der-ferne-stilllegen-a-925ceef0-7793-46ca-a227-19a4a59bbe0c#ref=rss)
-### leverkusen
-
-* [https://www.spiegel.de/sport/fussball/champions-league-bayer-leverkusen-vs-fc-bayern-sind-die-bayern-wirklich-reif-fuer-den-titel](https://www.spiegel.de/sport/fussball/champions-league-bayer-leverkusen-vs-fc-bayern-sind-die-bayern-wirklich-reif-fuer-den-titel-a-1d8971bd-85fd-42d3-98a5-f7a69394d534#ref=rss)
-### bald
-
-* [https://www.spiegel.de/panorama/bildung/geburtsraten-an-den-grundschulen-ist-bald-mehr-platz-im-klassenzimmer](https://www.spiegel.de/panorama/bildung/geburtsraten-an-den-grundschulen-ist-bald-mehr-platz-im-klassenzimmer-a-1e7e2952-8689-4bf5-9906-8a84f02c3dcc#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/panorama/bildung/geburtsraten-an-den-grundschulen-ist-bald-mehr-platz-im-klassenzimmer](https://www.spiegel.de/panorama/bildung/geburtsraten-an-den-grundschulen-ist-bald-mehr-platz-im-klassenzimmer-a-1e7e2952-8689-4bf5-9906-8a84f02c3dcc#ref=rss)
-* [https://www.spiegel.de/ausland/pakistan-155-geiseln-aus-gekapertem-zug-befreit](https://www.spiegel.de/ausland/pakistan-155-geiseln-aus-gekapertem-zug-befreit-a-fb207411-9cd1-45a8-b01c-f9684ada6eb6#ref=rss)
-### abschiebungen
-
-* [https://www.spiegel.de/ausland/eu-schlaegt-haertere-regelungen-fuer-abschiebungen-vor](https://www.spiegel.de/ausland/eu-schlaegt-haertere-regelungen-fuer-abschiebungen-vor-a-ac8bdeea-95f3-4ba0-961d-b4ded9b8cf41#ref=rss)
-### northvolt
-
-* [https://www.spiegel.de/wirtschaft/northvolt-stellt-insolvenzantrag-in-schweden](https://www.spiegel.de/wirtschaft/northvolt-stellt-insolvenzantrag-in-schweden-a-e5457762-a7a4-48b4-8c10-e829dadf6d68#ref=rss)
-### batteriehersteller
-
-* [https://www.spiegel.de/wirtschaft/northvolt-stellt-insolvenzantrag-in-schweden](https://www.spiegel.de/wirtschaft/northvolt-stellt-insolvenzantrag-in-schweden-a-e5457762-a7a4-48b4-8c10-e829dadf6d68#ref=rss)
-### frau
-
-* [https://www.spiegel.de/panorama/frankreich-frau-bringt-kind-in-fernzug-zur-welt](https://www.spiegel.de/panorama/frankreich-frau-bringt-kind-in-fernzug-zur-welt-a-8f48eb23-ed9c-4fac-be72-c0a3c8d174f4#ref=rss)
-### welt
-
-* [https://www.spiegel.de/panorama/frankreich-frau-bringt-kind-in-fernzug-zur-welt](https://www.spiegel.de/panorama/frankreich-frau-bringt-kind-in-fernzug-zur-welt-a-8f48eb23-ed9c-4fac-be72-c0a3c8d174f4#ref=rss)
-### porsche
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/porsche-gewinn-bricht-um-30-prozent-ein](https://www.spiegel.de/wirtschaft/unternehmen/porsche-gewinn-bricht-um-30-prozent-ein-a-286d8ad3-f489-4651-8dab-4ef6ce5f6fab#ref=rss)
-### geiseln
-
-* [https://www.spiegel.de/ausland/pakistan-155-geiseln-aus-gekapertem-zug-befreit](https://www.spiegel.de/ausland/pakistan-155-geiseln-aus-gekapertem-zug-befreit-a-fb207411-9cd1-45a8-b01c-f9684ada6eb6#ref=rss)
+* [https://www.spiegel.de/kultur/musik/wladimir-putin-pet-shop-boy-neil-tennant-nennt-ihn-ein-krebsgeschwuer](https://www.spiegel.de/kultur/musik/wladimir-putin-pet-shop-boy-neil-tennant-nennt-ihn-ein-krebsgeschwuer-a-690efda6-be69-4e14-9d2d-271684c69659#ref=rss)
+* [https://www.spiegel.de/netzwelt/games/niantics-neuer-milliardendeal-pokemon-go-jetzt-mit-saudi-arabien-verbindet](https://www.spiegel.de/netzwelt/games/niantics-neuer-milliardendeal-pokemon-go-jetzt-mit-saudi-arabien-verbindet-a-00982950-8f9a-4ff4-8f3a-adc76f1c1e21#ref=rss)
 ### zug
 
-* [https://www.spiegel.de/ausland/pakistan-155-geiseln-aus-gekapertem-zug-befreit](https://www.spiegel.de/ausland/pakistan-155-geiseln-aus-gekapertem-zug-befreit-a-fb207411-9cd1-45a8-b01c-f9684ada6eb6#ref=rss)
-### belutschistan
+* [https://www.spiegel.de/ausland/pakistan-geiselnahme-in-zug-endet-alle-angreifer-getoetet](https://www.spiegel.de/ausland/pakistan-geiselnahme-in-zug-endet-alle-angreifer-getoetet-a-ff6152bc-5f14-4cd1-be71-8581d50ada92#ref=rss)
+### getötet
 
-* [https://www.spiegel.de/ausland/pakistan-155-geiseln-aus-gekapertem-zug-befreit](https://www.spiegel.de/ausland/pakistan-155-geiseln-aus-gekapertem-zug-befreit-a-fb207411-9cd1-45a8-b01c-f9684ada6eb6#ref=rss)
-### mein
+* [https://www.spiegel.de/ausland/pakistan-geiselnahme-in-zug-endet-alle-angreifer-getoetet](https://www.spiegel.de/ausland/pakistan-geiselnahme-in-zug-endet-alle-angreifer-getoetet-a-ff6152bc-5f14-4cd1-be71-8581d50ada92#ref=rss)
+### stunden
 
-* [https://www.spiegel.de/reise/europa/mein-schiff-relax-vor-der-taufe-ein-kleines-bisschen-glamour-und-nix-neues-im-tank](https://www.spiegel.de/reise/europa/mein-schiff-relax-vor-der-taufe-ein-kleines-bisschen-glamour-und-nix-neues-im-tank-a-ddcc6853-40fe-45c7-bf19-4ef0748add00#ref=rss)
-### schiff
+* [https://www.spiegel.de/ausland/pakistan-geiselnahme-in-zug-endet-alle-angreifer-getoetet](https://www.spiegel.de/ausland/pakistan-geiselnahme-in-zug-endet-alle-angreifer-getoetet-a-ff6152bc-5f14-4cd1-be71-8581d50ada92#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/herz-aus-titan-mann-ueberlebt-100-tage](https://www.spiegel.de/wissenschaft/mensch/herz-aus-titan-mann-ueberlebt-100-tage-a-3d9547f8-e2e0-4fbb-8894-045fc621e69a#ref=rss)
+### mehrere
 
-* [https://www.spiegel.de/reise/europa/mein-schiff-relax-vor-der-taufe-ein-kleines-bisschen-glamour-und-nix-neues-im-tank](https://www.spiegel.de/reise/europa/mein-schiff-relax-vor-der-taufe-ein-kleines-bisschen-glamour-und-nix-neues-im-tank-a-ddcc6853-40fe-45c7-bf19-4ef0748add00#ref=rss)
-### relax
+* [https://www.spiegel.de/politik/ministerpraesidentenkonferenz-laender-fordern-zustimmung-der-gruenen-zu-sondervermoegen](https://www.spiegel.de/politik/ministerpraesidentenkonferenz-laender-fordern-zustimmung-der-gruenen-zu-sondervermoegen-a-1482676b-031d-4a44-bf34-eac8d237e94f#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/skandal-bei-nordischer-ski-wm-weltmeister-marius-lindvik-und-weitere-norweger-vorlaeufig-suspendiert](https://www.spiegel.de/sport/wintersport/skandal-bei-nordischer-ski-wm-weltmeister-marius-lindvik-und-weitere-norweger-vorlaeufig-suspendiert-a-54e5275d-15ed-400e-8b4c-03046974909d#ref=rss)
+### tesla
 
-* [https://www.spiegel.de/reise/europa/mein-schiff-relax-vor-der-taufe-ein-kleines-bisschen-glamour-und-nix-neues-im-tank](https://www.spiegel.de/reise/europa/mein-schiff-relax-vor-der-taufe-ein-kleines-bisschen-glamour-und-nix-neues-im-tank-a-ddcc6853-40fe-45c7-bf19-4ef0748add00#ref=rss)
-### betriebsbedingte
+* [https://www.spiegel.de/kultur/donald-trump-und-tesla-wimpelhandel-vom-weissen-haus](https://www.spiegel.de/kultur/donald-trump-und-tesla-wimpelhandel-vom-weissen-haus-a-f68318bd-984e-4bcf-82dc-94818df68ef4#ref=rss)
+### klar
 
-* [https://www.spiegel.de/karriere/betriebsbedingte-kuendigung-was-arbeitnehmer-wissen-muessen](https://www.spiegel.de/karriere/betriebsbedingte-kuendigung-was-arbeitnehmer-wissen-muessen-a-1a4a27eb-c3a6-4b50-8435-12ce7f30facb#ref=rss)
+* [https://www.spiegel.de/kultur/donald-trump-und-tesla-wimpelhandel-vom-weissen-haus](https://www.spiegel.de/kultur/donald-trump-und-tesla-wimpelhandel-vom-weissen-haus-a-f68318bd-984e-4bcf-82dc-94818df68ef4#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/saturn-128-neue-monde-gefunden](https://www.spiegel.de/wissenschaft/weltall/saturn-128-neue-monde-gefunden-a-d3429706-df48-4be2-9cba-58899056c65b#ref=rss)
+### keinen
+
+* [https://www.spiegel.de/kultur/donald-trump-und-tesla-wimpelhandel-vom-weissen-haus](https://www.spiegel.de/kultur/donald-trump-und-tesla-wimpelhandel-vom-weissen-haus-a-f68318bd-984e-4bcf-82dc-94818df68ef4#ref=rss)
+* [https://www.spiegel.de/geschichte/lebensborn-heime-im-nationalsozialismus-himmlers-kinderwunsch](https://www.spiegel.de/geschichte/lebensborn-heime-im-nationalsozialismus-himmlers-kinderwunsch-a-e5888320-e559-4c87-93eb-6ad2da641129#ref=rss)
+### saturn
+
+* [https://www.spiegel.de/wissenschaft/weltall/saturn-128-neue-monde-gefunden](https://www.spiegel.de/wissenschaft/weltall/saturn-128-neue-monde-gefunden-a-d3429706-df48-4be2-9cba-58899056c65b#ref=rss)
+### monde
+
+* [https://www.spiegel.de/wissenschaft/weltall/saturn-128-neue-monde-gefunden](https://www.spiegel.de/wissenschaft/weltall/saturn-128-neue-monde-gefunden-a-d3429706-df48-4be2-9cba-58899056c65b#ref=rss)
+### gefunden
+
+* [https://www.spiegel.de/wissenschaft/weltall/saturn-128-neue-monde-gefunden](https://www.spiegel.de/wissenschaft/weltall/saturn-128-neue-monde-gefunden-a-d3429706-df48-4be2-9cba-58899056c65b#ref=rss)
+### manchester
+
+* [https://www.spiegel.de/kultur/stadion-plaene-von-manchester-united-architektur-im-fantasy-stil](https://www.spiegel.de/kultur/stadion-plaene-von-manchester-united-architektur-im-fantasy-stil-a-ccf50c96-17f3-4852-896a-642ffdf80c43#ref=rss)
+### guten
+
+* [https://www.spiegel.de/kultur/stadion-plaene-von-manchester-united-architektur-im-fantasy-stil](https://www.spiegel.de/kultur/stadion-plaene-von-manchester-united-architektur-im-fantasy-stil-a-ccf50c96-17f3-4852-896a-642ffdf80c43#ref=rss)
+* [https://www.spiegel.de/geschichte/lebensborn-heime-im-nationalsozialismus-himmlers-kinderwunsch](https://www.spiegel.de/geschichte/lebensborn-heime-im-nationalsozialismus-himmlers-kinderwunsch-a-e5888320-e559-4c87-93eb-6ad2da641129#ref=rss)
+### steve
+
+* [https://www.spiegel.de/ausland/steve-witkoff-der-mann-der-fuer-donald-trump-mit-wladimir-putin-verhandelt](https://www.spiegel.de/ausland/steve-witkoff-der-mann-der-fuer-donald-trump-mit-wladimir-putin-verhandelt-a-6fa519c0-cb05-4c9a-ae79-6d26cc974a2e#ref=rss)
+### witkoff
+
+* [https://www.spiegel.de/ausland/steve-witkoff-der-mann-der-fuer-donald-trump-mit-wladimir-putin-verhandelt](https://www.spiegel.de/ausland/steve-witkoff-der-mann-der-fuer-donald-trump-mit-wladimir-putin-verhandelt-a-6fa519c0-cb05-4c9a-ae79-6d26cc974a2e#ref=rss)
+### mann
+
+* [https://www.spiegel.de/ausland/steve-witkoff-der-mann-der-fuer-donald-trump-mit-wladimir-putin-verhandelt](https://www.spiegel.de/ausland/steve-witkoff-der-mann-der-fuer-donald-trump-mit-wladimir-putin-verhandelt-a-6fa519c0-cb05-4c9a-ae79-6d26cc974a2e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/herz-aus-titan-mann-ueberlebt-100-tage](https://www.spiegel.de/wissenschaft/mensch/herz-aus-titan-mann-ueberlebt-100-tage-a-3d9547f8-e2e0-4fbb-8894-045fc621e69a#ref=rss)
+### rbb
+
+* [https://www.spiegel.de/politik/deutschland/rbb-haelt-bericht-zum-fall-stefan-gelbhaar-vorerst-zurueck](https://www.spiegel.de/politik/deutschland/rbb-haelt-bericht-zum-fall-stefan-gelbhaar-vorerst-zurueck-a-94953404-34a0-4ae1-be81-9e0928b629e5#ref=rss)
+### fall
+
+* [https://www.spiegel.de/politik/deutschland/rbb-haelt-bericht-zum-fall-stefan-gelbhaar-vorerst-zurueck](https://www.spiegel.de/politik/deutschland/rbb-haelt-bericht-zum-fall-stefan-gelbhaar-vorerst-zurueck-a-94953404-34a0-4ae1-be81-9e0928b629e5#ref=rss)
+### gelbhaar
+
+* [https://www.spiegel.de/politik/deutschland/rbb-haelt-bericht-zum-fall-stefan-gelbhaar-vorerst-zurueck](https://www.spiegel.de/politik/deutschland/rbb-haelt-bericht-zum-fall-stefan-gelbhaar-vorerst-zurueck-a-94953404-34a0-4ae1-be81-9e0928b629e5#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/politik/deutschland/rbb-haelt-bericht-zum-fall-stefan-gelbhaar-vorerst-zurueck](https://www.spiegel.de/politik/deutschland/rbb-haelt-bericht-zum-fall-stefan-gelbhaar-vorerst-zurueck-a-94953404-34a0-4ae1-be81-9e0928b629e5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-und-csu-regierung-weist-vorwuerfe-gegen-gemeinnuetzige-organisationen-zurueck](https://www.spiegel.de/politik/deutschland/cdu-und-csu-regierung-weist-vorwuerfe-gegen-gemeinnuetzige-organisationen-zurueck-a-3de3eddd-b741-4444-b2dd-ea49c1c2c30a#ref=rss)
+### micheil
+
+* [https://www.spiegel.de/ausland/georgien-ex-praesident-micheil-saakaschwili-zu-weiterer-haftstrafe-verurteilt](https://www.spiegel.de/ausland/georgien-ex-praesident-micheil-saakaschwili-zu-weiterer-haftstrafe-verurteilt-a-0435f6f3-1309-47c6-89f1-8e4459a77e83#ref=rss)
+### saakaschwili
+
+* [https://www.spiegel.de/ausland/georgien-ex-praesident-micheil-saakaschwili-zu-weiterer-haftstrafe-verurteilt](https://www.spiegel.de/ausland/georgien-ex-praesident-micheil-saakaschwili-zu-weiterer-haftstrafe-verurteilt-a-0435f6f3-1309-47c6-89f1-8e4459a77e83#ref=rss)
+### verurteilt
+
+* [https://www.spiegel.de/ausland/georgien-ex-praesident-micheil-saakaschwili-zu-weiterer-haftstrafe-verurteilt](https://www.spiegel.de/ausland/georgien-ex-praesident-micheil-saakaschwili-zu-weiterer-haftstrafe-verurteilt-a-0435f6f3-1309-47c6-89f1-8e4459a77e83#ref=rss)
+### gehen
+
+* [https://www.spiegel.de/ausland/georgien-ex-praesident-micheil-saakaschwili-zu-weiterer-haftstrafe-verurteilt](https://www.spiegel.de/ausland/georgien-ex-praesident-micheil-saakaschwili-zu-weiterer-haftstrafe-verurteilt-a-0435f6f3-1309-47c6-89f1-8e4459a77e83#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/generationengerechtigkeit-warum-junge-menschen-jetzt-auf-die-strasse-gehen-sollten](https://www.spiegel.de/wirtschaft/soziales/generationengerechtigkeit-warum-junge-menschen-jetzt-auf-die-strasse-gehen-sollten-a-c25873a6-0478-459d-9bb2-9ed2e3b24d48#ref=rss)
+### deutschlands
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gaspreise-der-coronabericht-des-bnd-und-die-f-35-tarnkappenjets](https://www.spiegel.de/politik/deutschland/news-des-tages-gaspreise-der-coronabericht-des-bnd-und-die-f-35-tarnkappenjets-a-6750b3a2-f474-4780-b44e-de25c24e282d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/wirtschaftsweise-zum-regierungskurs-monika-schnitzer-ueber-deutschlands-weg-aus-der-krise](https://www.spiegel.de/wirtschaft/soziales/wirtschaftsweise-zum-regierungskurs-monika-schnitzer-ueber-deutschlands-weg-aus-der-krise-a-993e0b8c-3ccf-4ef3-a895-5620c00dd236#ref=rss)
+### halten
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gaspreise-der-coronabericht-des-bnd-und-die-f-35-tarnkappenjets](https://www.spiegel.de/politik/deutschland/news-des-tages-gaspreise-der-coronabericht-des-bnd-und-die-f-35-tarnkappenjets-a-6750b3a2-f474-4780-b44e-de25c24e282d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/konjunktur-us-inflation-schwaecht-sich-ueberraschend-stark-ab](https://www.spiegel.de/wirtschaft/konjunktur-us-inflation-schwaecht-sich-ueberraschend-stark-ab-a-df9227b5-d2ad-4625-8dc3-3979f346c4cd#ref=rss)
+### straße
+
+* [https://www.spiegel.de/wirtschaft/soziales/generationengerechtigkeit-warum-junge-menschen-jetzt-auf-die-strasse-gehen-sollten](https://www.spiegel.de/wirtschaft/soziales/generationengerechtigkeit-warum-junge-menschen-jetzt-auf-die-strasse-gehen-sollten-a-c25873a6-0478-459d-9bb2-9ed2e3b24d48#ref=rss)
+* [https://www.spiegel.de/wissenschaft/brasilien-strasse-wird-durch-den-regenwald-gebaut-fuer-die-klimakonferenz](https://www.spiegel.de/wissenschaft/brasilien-strasse-wird-durch-den-regenwald-gebaut-fuer-die-klimakonferenz-a-a228d60f-faaa-4de6-b3ce-a3a621bc6bf5#ref=rss)
+### sollten
+
+* [https://www.spiegel.de/wirtschaft/soziales/generationengerechtigkeit-warum-junge-menschen-jetzt-auf-die-strasse-gehen-sollten](https://www.spiegel.de/wirtschaft/soziales/generationengerechtigkeit-warum-junge-menschen-jetzt-auf-die-strasse-gehen-sollten-a-c25873a6-0478-459d-9bb2-9ed2e3b24d48#ref=rss)
+### spd
+
+* [https://www.spiegel.de/wirtschaft/soziales/generationengerechtigkeit-warum-junge-menschen-jetzt-auf-die-strasse-gehen-sollten](https://www.spiegel.de/wirtschaft/soziales/generationengerechtigkeit-warum-junge-menschen-jetzt-auf-die-strasse-gehen-sollten-a-c25873a6-0478-459d-9bb2-9ed2e3b24d48#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/konflikt-ueber-moegliche-bundesratsabstimmung-in-brandenburg](https://www.spiegel.de/politik/deutschland/konflikt-ueber-moegliche-bundesratsabstimmung-in-brandenburg-a-eeccbde3-a4ae-408d-81ec-d19901ddde1b#ref=rss)
+### vorwürfe
+
+* [https://www.spiegel.de/politik/deutschland/cdu-und-csu-regierung-weist-vorwuerfe-gegen-gemeinnuetzige-organisationen-zurueck](https://www.spiegel.de/politik/deutschland/cdu-und-csu-regierung-weist-vorwuerfe-gegen-gemeinnuetzige-organisationen-zurueck-a-3de3eddd-b741-4444-b2dd-ea49c1c2c30a#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/skandal-bei-nordischer-ski-wm-weltmeister-marius-lindvik-und-weitere-norweger-vorlaeufig-suspendiert](https://www.spiegel.de/sport/wintersport/skandal-bei-nordischer-ski-wm-weltmeister-marius-lindvik-und-weitere-norweger-vorlaeufig-suspendiert-a-54e5275d-15ed-400e-8b4c-03046974909d#ref=rss)
+### reagiert
+
+* [https://www.spiegel.de/politik/deutschland/cdu-und-csu-regierung-weist-vorwuerfe-gegen-gemeinnuetzige-organisationen-zurueck](https://www.spiegel.de/politik/deutschland/cdu-und-csu-regierung-weist-vorwuerfe-gegen-gemeinnuetzige-organisationen-zurueck-a-3de3eddd-b741-4444-b2dd-ea49c1c2c30a#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-erwartet-us-rueckendeckung-bei-russischer-ablehnung-der-waffenruhe](https://www.spiegel.de/ausland/ukraine-erwartet-us-rueckendeckung-bei-russischer-ablehnung-der-waffenruhe-a-0ed3849f-38e2-4282-b71c-6e24ba804a99#ref=rss)
+### ungarn
+
+* [https://www.spiegel.de/ausland/ungarn-orban-regierung-will-doppelstaatlern-ungarischen-pass-entziehen-koennen](https://www.spiegel.de/ausland/ungarn-orban-regierung-will-doppelstaatlern-ungarischen-pass-entziehen-koennen-a-ba272ef4-6e10-49c0-a289-ca02767d4e2b#ref=rss)
+### halle
+
+* [https://www.spiegel.de/panorama/halle-berry-schauspielerin-will-ihre-menopause-feiern](https://www.spiegel.de/panorama/halle-berry-schauspielerin-will-ihre-menopause-feiern-a-c7eb679b-f478-4fc1-849f-17eda9786bc0#ref=rss)
+### berry
+
+* [https://www.spiegel.de/panorama/halle-berry-schauspielerin-will-ihre-menopause-feiern](https://www.spiegel.de/panorama/halle-berry-schauspielerin-will-ihre-menopause-feiern-a-c7eb679b-f478-4fc1-849f-17eda9786bc0#ref=rss)
+### schauspielerin
+
+* [https://www.spiegel.de/panorama/halle-berry-schauspielerin-will-ihre-menopause-feiern](https://www.spiegel.de/panorama/halle-berry-schauspielerin-will-ihre-menopause-feiern-a-c7eb679b-f478-4fc1-849f-17eda9786bc0#ref=rss)
+### stark
+
+* [https://www.spiegel.de/wirtschaft/konjunktur-us-inflation-schwaecht-sich-ueberraschend-stark-ab](https://www.spiegel.de/wirtschaft/konjunktur-us-inflation-schwaecht-sich-ueberraschend-stark-ab-a-df9227b5-d2ad-4625-8dc3-3979f346c4cd#ref=rss)
+### dürfte
+
+* [https://www.spiegel.de/wirtschaft/konjunktur-us-inflation-schwaecht-sich-ueberraschend-stark-ab](https://www.spiegel.de/wirtschaft/konjunktur-us-inflation-schwaecht-sich-ueberraschend-stark-ab-a-df9227b5-d2ad-4625-8dc3-3979f346c4cd#ref=rss)
+### oma
+
+* [https://www.spiegel.de/panorama/leute/oma-lotti-pfleger-rashid-hamid-moechte-die-beerdigung-seiner-freundin-organisieren](https://www.spiegel.de/panorama/leute/oma-lotti-pfleger-rashid-hamid-moechte-die-beerdigung-seiner-freundin-organisieren-a-01b2b812-9e08-4e9f-8f9c-3b9efc6828b7#ref=rss)
+### lotti
+
+* [https://www.spiegel.de/panorama/leute/oma-lotti-pfleger-rashid-hamid-moechte-die-beerdigung-seiner-freundin-organisieren](https://www.spiegel.de/panorama/leute/oma-lotti-pfleger-rashid-hamid-moechte-die-beerdigung-seiner-freundin-organisieren-a-01b2b812-9e08-4e9f-8f9c-3b9efc6828b7#ref=rss)
+### pfleger
+
+* [https://www.spiegel.de/panorama/leute/oma-lotti-pfleger-rashid-hamid-moechte-die-beerdigung-seiner-freundin-organisieren](https://www.spiegel.de/panorama/leute/oma-lotti-pfleger-rashid-hamid-moechte-die-beerdigung-seiner-freundin-organisieren-a-01b2b812-9e08-4e9f-8f9c-3b9efc6828b7#ref=rss)
+### rashid
+
+* [https://www.spiegel.de/panorama/leute/oma-lotti-pfleger-rashid-hamid-moechte-die-beerdigung-seiner-freundin-organisieren](https://www.spiegel.de/panorama/leute/oma-lotti-pfleger-rashid-hamid-moechte-die-beerdigung-seiner-freundin-organisieren-a-01b2b812-9e08-4e9f-8f9c-3b9efc6828b7#ref=rss)
+### hamid
+
+* [https://www.spiegel.de/panorama/leute/oma-lotti-pfleger-rashid-hamid-moechte-die-beerdigung-seiner-freundin-organisieren](https://www.spiegel.de/panorama/leute/oma-lotti-pfleger-rashid-hamid-moechte-die-beerdigung-seiner-freundin-organisieren-a-01b2b812-9e08-4e9f-8f9c-3b9efc6828b7#ref=rss)
+### möchte
+
+* [https://www.spiegel.de/panorama/leute/oma-lotti-pfleger-rashid-hamid-moechte-die-beerdigung-seiner-freundin-organisieren](https://www.spiegel.de/panorama/leute/oma-lotti-pfleger-rashid-hamid-moechte-die-beerdigung-seiner-freundin-organisieren-a-01b2b812-9e08-4e9f-8f9c-3b9efc6828b7#ref=rss)
+### beerdigung
+
+* [https://www.spiegel.de/panorama/leute/oma-lotti-pfleger-rashid-hamid-moechte-die-beerdigung-seiner-freundin-organisieren](https://www.spiegel.de/panorama/leute/oma-lotti-pfleger-rashid-hamid-moechte-die-beerdigung-seiner-freundin-organisieren-a-01b2b812-9e08-4e9f-8f9c-3b9efc6828b7#ref=rss)
+### monika
+
+* [https://www.spiegel.de/wirtschaft/soziales/wirtschaftsweise-zum-regierungskurs-monika-schnitzer-ueber-deutschlands-weg-aus-der-krise](https://www.spiegel.de/wirtschaft/soziales/wirtschaftsweise-zum-regierungskurs-monika-schnitzer-ueber-deutschlands-weg-aus-der-krise-a-993e0b8c-3ccf-4ef3-a895-5620c00dd236#ref=rss)
+### schnitzer
+
+* [https://www.spiegel.de/wirtschaft/soziales/wirtschaftsweise-zum-regierungskurs-monika-schnitzer-ueber-deutschlands-weg-aus-der-krise](https://www.spiegel.de/wirtschaft/soziales/wirtschaftsweise-zum-regierungskurs-monika-schnitzer-ueber-deutschlands-weg-aus-der-krise-a-993e0b8c-3ccf-4ef3-a895-5620c00dd236#ref=rss)
+### krise
+
+* [https://www.spiegel.de/wirtschaft/soziales/wirtschaftsweise-zum-regierungskurs-monika-schnitzer-ueber-deutschlands-weg-aus-der-krise](https://www.spiegel.de/wirtschaft/soziales/wirtschaftsweise-zum-regierungskurs-monika-schnitzer-ueber-deutschlands-weg-aus-der-krise-a-993e0b8c-3ccf-4ef3-a895-5620c00dd236#ref=rss)
+### anderen
+
+* [https://www.spiegel.de/wirtschaft/soziales/wirtschaftsweise-zum-regierungskurs-monika-schnitzer-ueber-deutschlands-weg-aus-der-krise](https://www.spiegel.de/wirtschaft/soziales/wirtschaftsweise-zum-regierungskurs-monika-schnitzer-ueber-deutschlands-weg-aus-der-krise-a-993e0b8c-3ccf-4ef3-a895-5620c00dd236#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/geld-warum-die-bundesbank-ein-und-zwei-cent-muenzen-ueberfluessig-machen-will-und-was-das-bringen-wuerde](https://www.spiegel.de/wirtschaft/service/geld-warum-die-bundesbank-ein-und-zwei-cent-muenzen-ueberfluessig-machen-will-und-was-das-bringen-wuerde-a-c93628f9-6896-4479-a3df-2970cbb41531#ref=rss)
+### kyjiw
+
+* [https://www.spiegel.de/ausland/ukraine-erwartet-us-rueckendeckung-bei-russischer-ablehnung-der-waffenruhe](https://www.spiegel.de/ausland/ukraine-erwartet-us-rueckendeckung-bei-russischer-ablehnung-der-waffenruhe-a-0ed3849f-38e2-4282-b71c-6e24ba804a99#ref=rss)
+### moskau
+
+* [https://www.spiegel.de/ausland/ukraine-erwartet-us-rueckendeckung-bei-russischer-ablehnung-der-waffenruhe](https://www.spiegel.de/ausland/ukraine-erwartet-us-rueckendeckung-bei-russischer-ablehnung-der-waffenruhe-a-0ed3849f-38e2-4282-b71c-6e24ba804a99#ref=rss)
+* [https://www.spiegel.de/kultur/musik/wladimir-putin-pet-shop-boy-neil-tennant-nennt-ihn-ein-krebsgeschwuer](https://www.spiegel.de/kultur/musik/wladimir-putin-pet-shop-boy-neil-tennant-nennt-ihn-ein-krebsgeschwuer-a-690efda6-be69-4e14-9d2d-271684c69659#ref=rss)
+### verhalten
+
+* [https://www.spiegel.de/ausland/ukraine-erwartet-us-rueckendeckung-bei-russischer-ablehnung-der-waffenruhe](https://www.spiegel.de/ausland/ukraine-erwartet-us-rueckendeckung-bei-russischer-ablehnung-der-waffenruhe-a-0ed3849f-38e2-4282-b71c-6e24ba804a99#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/konflikt-ueber-moegliche-bundesratsabstimmung-in-brandenburg](https://www.spiegel.de/politik/deutschland/konflikt-ueber-moegliche-bundesratsabstimmung-in-brandenburg-a-eeccbde3-a4ae-408d-81ec-d19901ddde1b#ref=rss)
+### vorschlag
+
+* [https://www.spiegel.de/ausland/ukraine-erwartet-us-rueckendeckung-bei-russischer-ablehnung-der-waffenruhe](https://www.spiegel.de/ausland/ukraine-erwartet-us-rueckendeckung-bei-russischer-ablehnung-der-waffenruhe-a-0ed3849f-38e2-4282-b71c-6e24ba804a99#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/geld-warum-die-bundesbank-ein-und-zwei-cent-muenzen-ueberfluessig-machen-will-und-was-das-bringen-wuerde](https://www.spiegel.de/wirtschaft/service/geld-warum-die-bundesbank-ein-und-zwei-cent-muenzen-ueberfluessig-machen-will-und-was-das-bringen-wuerde-a-c93628f9-6896-4479-a3df-2970cbb41531#ref=rss)
+### sollte
+
+* [https://www.spiegel.de/ausland/ukraine-erwartet-us-rueckendeckung-bei-russischer-ablehnung-der-waffenruhe](https://www.spiegel.de/ausland/ukraine-erwartet-us-rueckendeckung-bei-russischer-ablehnung-der-waffenruhe-a-0ed3849f-38e2-4282-b71c-6e24ba804a99#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/christian-hirte-cdu-politiker-beschaeftigte-russen-mit-fsb-kontakten](https://www.spiegel.de/politik/deutschland/christian-hirte-cdu-politiker-beschaeftigte-russen-mit-fsb-kontakten-a-b91748ad-c893-453e-8bc8-a157c02cc9cf#ref=rss)
+### australien
+
+* [https://www.spiegel.de/wissenschaft/mensch/herz-aus-titan-mann-ueberlebt-100-tage](https://www.spiegel.de/wissenschaft/mensch/herz-aus-titan-mann-ueberlebt-100-tage-a-3d9547f8-e2e0-4fbb-8894-045fc621e69a#ref=rss)
+### neil
+
+* [https://www.spiegel.de/kultur/musik/wladimir-putin-pet-shop-boy-neil-tennant-nennt-ihn-ein-krebsgeschwuer](https://www.spiegel.de/kultur/musik/wladimir-putin-pet-shop-boy-neil-tennant-nennt-ihn-ein-krebsgeschwuer-a-690efda6-be69-4e14-9d2d-271684c69659#ref=rss)
+### tennant
+
+* [https://www.spiegel.de/kultur/musik/wladimir-putin-pet-shop-boy-neil-tennant-nennt-ihn-ein-krebsgeschwuer](https://www.spiegel.de/kultur/musik/wladimir-putin-pet-shop-boy-neil-tennant-nennt-ihn-ein-krebsgeschwuer-a-690efda6-be69-4e14-9d2d-271684c69659#ref=rss)
+### nennt
+
+* [https://www.spiegel.de/kultur/musik/wladimir-putin-pet-shop-boy-neil-tennant-nennt-ihn-ein-krebsgeschwuer](https://www.spiegel.de/kultur/musik/wladimir-putin-pet-shop-boy-neil-tennant-nennt-ihn-ein-krebsgeschwuer-a-690efda6-be69-4e14-9d2d-271684c69659#ref=rss)
+### marius
+
+* [https://www.spiegel.de/sport/wintersport/skandal-bei-nordischer-ski-wm-weltmeister-marius-lindvik-und-weitere-norweger-vorlaeufig-suspendiert](https://www.spiegel.de/sport/wintersport/skandal-bei-nordischer-ski-wm-weltmeister-marius-lindvik-und-weitere-norweger-vorlaeufig-suspendiert-a-54e5275d-15ed-400e-8b4c-03046974909d#ref=rss)
+### lindvik
+
+* [https://www.spiegel.de/sport/wintersport/skandal-bei-nordischer-ski-wm-weltmeister-marius-lindvik-und-weitere-norweger-vorlaeufig-suspendiert](https://www.spiegel.de/sport/wintersport/skandal-bei-nordischer-ski-wm-weltmeister-marius-lindvik-und-weitere-norweger-vorlaeufig-suspendiert-a-54e5275d-15ed-400e-8b4c-03046974909d#ref=rss)
+### suspendiert
+
+* [https://www.spiegel.de/sport/wintersport/skandal-bei-nordischer-ski-wm-weltmeister-marius-lindvik-und-weitere-norweger-vorlaeufig-suspendiert](https://www.spiegel.de/sport/wintersport/skandal-bei-nordischer-ski-wm-weltmeister-marius-lindvik-und-weitere-norweger-vorlaeufig-suspendiert-a-54e5275d-15ed-400e-8b4c-03046974909d#ref=rss)
+### norwegische
+
+* [https://www.spiegel.de/sport/wintersport/skandal-bei-nordischer-ski-wm-weltmeister-marius-lindvik-und-weitere-norweger-vorlaeufig-suspendiert](https://www.spiegel.de/sport/wintersport/skandal-bei-nordischer-ski-wm-weltmeister-marius-lindvik-und-weitere-norweger-vorlaeufig-suspendiert-a-54e5275d-15ed-400e-8b4c-03046974909d#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/anzugskandal-norwegische-ex-skispringer-raeumen-betrug-ein-und-attackieren-den-weltverband-fis](https://www.spiegel.de/sport/wintersport/anzugskandal-norwegische-ex-skispringer-raeumen-betrug-ein-und-attackieren-den-weltverband-fis-a-c0531e7d-b662-4790-8039-7f3a273dfa98#ref=rss)
+### weltverband
+
+* [https://www.spiegel.de/sport/wintersport/skandal-bei-nordischer-ski-wm-weltmeister-marius-lindvik-und-weitere-norweger-vorlaeufig-suspendiert](https://www.spiegel.de/sport/wintersport/skandal-bei-nordischer-ski-wm-weltmeister-marius-lindvik-und-weitere-norweger-vorlaeufig-suspendiert-a-54e5275d-15ed-400e-8b4c-03046974909d#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/anzugskandal-norwegische-ex-skispringer-raeumen-betrug-ein-und-attackieren-den-weltverband-fis](https://www.spiegel.de/sport/wintersport/anzugskandal-norwegische-ex-skispringer-raeumen-betrug-ein-und-attackieren-den-weltverband-fis-a-c0531e7d-b662-4790-8039-7f3a273dfa98#ref=rss)
+### pokémon
+
+* [https://www.spiegel.de/netzwelt/games/niantics-neuer-milliardendeal-pokemon-go-jetzt-mit-saudi-arabien-verbindet](https://www.spiegel.de/netzwelt/games/niantics-neuer-milliardendeal-pokemon-go-jetzt-mit-saudi-arabien-verbindet-a-00982950-8f9a-4ff4-8f3a-adc76f1c1e21#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### tag
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### christian
+
+* [https://www.spiegel.de/politik/deutschland/christian-hirte-cdu-politiker-beschaeftigte-russen-mit-fsb-kontakten](https://www.spiegel.de/politik/deutschland/christian-hirte-cdu-politiker-beschaeftigte-russen-mit-fsb-kontakten-a-b91748ad-c893-453e-8bc8-a157c02cc9cf#ref=rss)
+### hirte
+
+* [https://www.spiegel.de/politik/deutschland/christian-hirte-cdu-politiker-beschaeftigte-russen-mit-fsb-kontakten](https://www.spiegel.de/politik/deutschland/christian-hirte-cdu-politiker-beschaeftigte-russen-mit-fsb-kontakten-a-b91748ad-c893-453e-8bc8-a157c02cc9cf#ref=rss)
+### k
+
+* [https://www.spiegel.de/politik/deutschland/christian-hirte-cdu-politiker-beschaeftigte-russen-mit-fsb-kontakten](https://www.spiegel.de/politik/deutschland/christian-hirte-cdu-politiker-beschaeftigte-russen-mit-fsb-kontakten-a-b91748ad-c893-453e-8bc8-a157c02cc9cf#ref=rss)
+### russischen
+
+* [https://www.spiegel.de/politik/deutschland/christian-hirte-cdu-politiker-beschaeftigte-russen-mit-fsb-kontakten](https://www.spiegel.de/politik/deutschland/christian-hirte-cdu-politiker-beschaeftigte-russen-mit-fsb-kontakten-a-b91748ad-c893-453e-8bc8-a157c02cc9cf#ref=rss)
+### brandenburg
+
+* [https://www.spiegel.de/politik/deutschland/konflikt-ueber-moegliche-bundesratsabstimmung-in-brandenburg](https://www.spiegel.de/politik/deutschland/konflikt-ueber-moegliche-bundesratsabstimmung-in-brandenburg-a-eeccbde3-a4ae-408d-81ec-d19901ddde1b#ref=rss)
+### grönland
+
+* [https://www.spiegel.de/ausland/groenland-donald-trump-freunde-legen-bei-wahl-zu-regieren-werden-andere](https://www.spiegel.de/ausland/groenland-donald-trump-freunde-legen-bei-wahl-zu-regieren-werden-andere-a-cfb2972d-a872-472f-b6f6-539a24750302#ref=rss)
+### wahl
+
+* [https://www.spiegel.de/ausland/groenland-donald-trump-freunde-legen-bei-wahl-zu-regieren-werden-andere](https://www.spiegel.de/ausland/groenland-donald-trump-freunde-legen-bei-wahl-zu-regieren-werden-andere-a-cfb2972d-a872-472f-b6f6-539a24750302#ref=rss)
+### regieren
+
+* [https://www.spiegel.de/ausland/groenland-donald-trump-freunde-legen-bei-wahl-zu-regieren-werden-andere](https://www.spiegel.de/ausland/groenland-donald-trump-freunde-legen-bei-wahl-zu-regieren-werden-andere-a-cfb2972d-a872-472f-b6f6-539a24750302#ref=rss)
+### andere
+
+* [https://www.spiegel.de/ausland/groenland-donald-trump-freunde-legen-bei-wahl-zu-regieren-werden-andere](https://www.spiegel.de/ausland/groenland-donald-trump-freunde-legen-bei-wahl-zu-regieren-werden-andere-a-cfb2972d-a872-472f-b6f6-539a24750302#ref=rss)
+### wert
+
+* [https://www.spiegel.de/panorama/russland-sanktionen-46-jaehrige-exportierte-luxusautos-im-wert-von-21-millionen-euro](https://www.spiegel.de/panorama/russland-sanktionen-46-jaehrige-exportierte-luxusautos-im-wert-von-21-millionen-euro-a-b0ca7ae5-4bc7-4e9d-a524-da339a16917a#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/panorama/russland-sanktionen-46-jaehrige-exportierte-luxusautos-im-wert-von-21-millionen-euro](https://www.spiegel.de/panorama/russland-sanktionen-46-jaehrige-exportierte-luxusautos-im-wert-von-21-millionen-euro-a-b0ca7ae5-4bc7-4e9d-a524-da339a16917a#ref=rss)
+### euro
+
+* [https://www.spiegel.de/panorama/russland-sanktionen-46-jaehrige-exportierte-luxusautos-im-wert-von-21-millionen-euro](https://www.spiegel.de/panorama/russland-sanktionen-46-jaehrige-exportierte-luxusautos-im-wert-von-21-millionen-euro-a-b0ca7ae5-4bc7-4e9d-a524-da339a16917a#ref=rss)
+### bundesbank
+
+* [https://www.spiegel.de/wirtschaft/service/geld-warum-die-bundesbank-ein-und-zwei-cent-muenzen-ueberfluessig-machen-will-und-was-das-bringen-wuerde](https://www.spiegel.de/wirtschaft/service/geld-warum-die-bundesbank-ein-und-zwei-cent-muenzen-ueberfluessig-machen-will-und-was-das-bringen-wuerde-a-c93628f9-6896-4479-a3df-2970cbb41531#ref=rss)
+### zweicentmünzen
+
+* [https://www.spiegel.de/wirtschaft/service/geld-warum-die-bundesbank-ein-und-zwei-cent-muenzen-ueberfluessig-machen-will-und-was-das-bringen-wuerde](https://www.spiegel.de/wirtschaft/service/geld-warum-die-bundesbank-ein-und-zwei-cent-muenzen-ueberfluessig-machen-will-und-was-das-bringen-wuerde-a-c93628f9-6896-4479-a3df-2970cbb41531#ref=rss)
+### fis
+
+* [https://www.spiegel.de/sport/wintersport/anzugskandal-norwegische-ex-skispringer-raeumen-betrug-ein-und-attackieren-den-weltverband-fis](https://www.spiegel.de/sport/wintersport/anzugskandal-norwegische-ex-skispringer-raeumen-betrug-ein-und-attackieren-den-weltverband-fis-a-c0531e7d-b662-4790-8039-7f3a273dfa98#ref=rss)
 
