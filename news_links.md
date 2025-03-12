@@ -4,313 +4,251 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### trump
-
-* [https://www.spiegel.de/kultur/donald-trump-und-die-us-medien-wie-der-mainstream-sich-radikalisiert](https://www.spiegel.de/kultur/donald-trump-und-die-us-medien-wie-der-mainstream-sich-radikalisiert-a-f1d156aa-afff-4cc0-98b6-7f1fa2c37cde#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-rumaenien-im-zangengriff-kanada-wehrt-sich-gegen-trump-deutsche-justiz-am-limit](https://www.spiegel.de/politik/deutschland/news-des-tages-rumaenien-im-zangengriff-kanada-wehrt-sich-gegen-trump-deutsche-justiz-am-limit-a-a4059712-ea8e-4efb-b747-c113e8b823a3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-diese-tech-bosse-jubelten-beim-amtsantritt-jetzt-sind-sie-viele-milliarden-dollar-aermer](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-diese-tech-bosse-jubelten-beim-amtsantritt-jetzt-sind-sie-viele-milliarden-dollar-aermer-a-b2d292b2-689c-42ae-baff-7787316edc08#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-donald-trump-will-wolodymyr-selenskyj-ersetzen-aber-wie-und-mit-wem](https://www.spiegel.de/ausland/ukraine-donald-trump-will-wolodymyr-selenskyj-ersetzen-aber-wie-und-mit-wem-a-448cc0eb-8023-4af5-9038-eb0f006920b6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/usa-die-boerse-zittert-donald-trump-twittert-gegen-rezessionsangst](https://www.spiegel.de/wirtschaft/usa-die-boerse-zittert-donald-trump-twittert-gegen-rezessionsangst-a-ef2d28fd-4bca-4125-b001-2efb5ade3438#ref=rss)
-### donald
-
-* [https://www.spiegel.de/kultur/donald-trump-und-die-us-medien-wie-der-mainstream-sich-radikalisiert](https://www.spiegel.de/kultur/donald-trump-und-die-us-medien-wie-der-mainstream-sich-radikalisiert-a-f1d156aa-afff-4cc0-98b6-7f1fa2c37cde#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-diese-tech-bosse-jubelten-beim-amtsantritt-jetzt-sind-sie-viele-milliarden-dollar-aermer](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-diese-tech-bosse-jubelten-beim-amtsantritt-jetzt-sind-sie-viele-milliarden-dollar-aermer-a-b2d292b2-689c-42ae-baff-7787316edc08#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-donald-trump-will-wolodymyr-selenskyj-ersetzen-aber-wie-und-mit-wem](https://www.spiegel.de/ausland/ukraine-donald-trump-will-wolodymyr-selenskyj-ersetzen-aber-wie-und-mit-wem-a-448cc0eb-8023-4af5-9038-eb0f006920b6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/usa-die-boerse-zittert-donald-trump-twittert-gegen-rezessionsangst](https://www.spiegel.de/wirtschaft/usa-die-boerse-zittert-donald-trump-twittert-gegen-rezessionsangst-a-ef2d28fd-4bca-4125-b001-2efb5ade3438#ref=rss)
-### christian
-
-* [https://www.spiegel.de/politik/deutschland/fdp-vorsitz-jetzt-lautet-das-duell-christian-duerr-vs-henning-hoene](https://www.spiegel.de/politik/deutschland/fdp-vorsitz-jetzt-lautet-das-duell-christian-duerr-vs-henning-hoene-a-39944644-4777-418b-a772-e4844960c50d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/christian-drosten-wuerde-nicht-noch-einmal-so-in-der-oeffentlichkeit-stehen-wollen](https://www.spiegel.de/wissenschaft/christian-drosten-wuerde-nicht-noch-einmal-so-in-der-oeffentlichkeit-stehen-wollen-a-c5830d65-55f5-4109-98dc-f03c238d48f5#ref=rss)
-### usa
-
-* [https://www.spiegel.de/kultur/donald-trump-und-die-us-medien-wie-der-mainstream-sich-radikalisiert](https://www.spiegel.de/kultur/donald-trump-und-die-us-medien-wie-der-mainstream-sich-radikalisiert-a-f1d156aa-afff-4cc0-98b6-7f1fa2c37cde#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-diese-tech-bosse-jubelten-beim-amtsantritt-jetzt-sind-sie-viele-milliarden-dollar-aermer](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-diese-tech-bosse-jubelten-beim-amtsantritt-jetzt-sind-sie-viele-milliarden-dollar-aermer-a-b2d292b2-689c-42ae-baff-7787316edc08#ref=rss)
-* [https://www.spiegel.de/wirtschaft/usa-die-boerse-zittert-donald-trump-twittert-gegen-rezessionsangst](https://www.spiegel.de/wirtschaft/usa-die-boerse-zittert-donald-trump-twittert-gegen-rezessionsangst-a-ef2d28fd-4bca-4125-b001-2efb5ade3438#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-rumaenien-im-zangengriff-kanada-wehrt-sich-gegen-trump-deutsche-justiz-am-limit](https://www.spiegel.de/politik/deutschland/news-des-tages-rumaenien-im-zangengriff-kanada-wehrt-sich-gegen-trump-deutsche-justiz-am-limit-a-a4059712-ea8e-4efb-b747-c113e8b823a3#ref=rss)
-* [https://www.spiegel.de/ausland/oesterreich-wie-die-neue-regierung-ohne-fpoe-nach-rechts-rueckt](https://www.spiegel.de/ausland/oesterreich-wie-die-neue-regierung-ohne-fpoe-nach-rechts-rueckt-a-3c877409-0975-490d-a783-b6932166e0f5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/fc-bundestag-gericht-hebt-ausschluss-von-afd-politikern-auf](https://www.spiegel.de/politik/deutschland/fc-bundestag-gericht-hebt-ausschluss-von-afd-politikern-auf-a-7d5c29d6-b808-4c82-8eb0-430240743e24#ref=rss)
-### bundestag
-
-* [https://www.spiegel.de/politik/deutschland/fdp-vorsitz-jetzt-lautet-das-duell-christian-duerr-vs-henning-hoene](https://www.spiegel.de/politik/deutschland/fdp-vorsitz-jetzt-lautet-das-duell-christian-duerr-vs-henning-hoene-a-39944644-4777-418b-a772-e4844960c50d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/fc-bundestag-gericht-hebt-ausschluss-von-afd-politikern-auf](https://www.spiegel.de/politik/deutschland/fc-bundestag-gericht-hebt-ausschluss-von-afd-politikern-auf-a-7d5c29d6-b808-4c82-8eb0-430240743e24#ref=rss)
 ### ukraine
 
-* [https://www.spiegel.de/ausland/kursk-offensive-russische-soldaten-scheitern-beim-pipeline-angriff-auf-die-ukraine](https://www.spiegel.de/ausland/kursk-offensive-russische-soldaten-scheitern-beim-pipeline-angriff-auf-die-ukraine-a-4b864736-e8d5-4531-9339-abc964d23ab5#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-donald-trump-will-wolodymyr-selenskyj-ersetzen-aber-wie-und-mit-wem](https://www.spiegel.de/ausland/ukraine-donald-trump-will-wolodymyr-selenskyj-ersetzen-aber-wie-und-mit-wem-a-448cc0eb-8023-4af5-9038-eb0f006920b6#ref=rss)
-### angriff
-
-* [https://www.spiegel.de/ausland/kursk-offensive-russische-soldaten-scheitern-beim-pipeline-angriff-auf-die-ukraine](https://www.spiegel.de/ausland/kursk-offensive-russische-soldaten-scheitern-beim-pipeline-angriff-auf-die-ukraine-a-4b864736-e8d5-4531-9339-abc964d23ab5#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/stahnsdorf-brandenburg-angriff-auf-fluechtlingsunterkunft-und-bewohner](https://www.spiegel.de/panorama/justiz/stahnsdorf-brandenburg-angriff-auf-fluechtlingsunterkunft-und-bewohner-a-0cbdc2dc-0184-44c9-a3b2-9351c69a0045#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-anklage-gegen-mutmasslichen-neonazi-wegen-angriff-auf-antifa-anhaenger](https://www.spiegel.de/panorama/justiz/berlin-anklage-gegen-mutmasslichen-neonazi-wegen-angriff-auf-antifa-anhaenger-a-131d7be7-2daf-4ccd-bf25-9457aa87c765#ref=rss)
-### diesen
-
-* [https://www.spiegel.de/wirtschaft/milliardengrab-sondervermoegen-friedrich-merz-und-die-kapitulation-vor-der-merkelpolitik](https://www.spiegel.de/wirtschaft/milliardengrab-sondervermoegen-friedrich-merz-und-die-kapitulation-vor-der-merkelpolitik-a-16617388-f946-4ba5-9d60-d4b65c3c12bc#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/cold-cases-wie-spektakulaere-vermisstenfaelle-aufgeloest-werden-konnten](https://www.spiegel.de/panorama/justiz/cold-cases-wie-spektakulaere-vermisstenfaelle-aufgeloest-werden-konnten-a-70ac6e2d-0e50-4155-948b-e199f30e88b1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/fc-bundestag-gericht-hebt-ausschluss-von-afd-politikern-auf](https://www.spiegel.de/politik/deutschland/fc-bundestag-gericht-hebt-ausschluss-von-afd-politikern-auf-a-7d5c29d6-b808-4c82-8eb0-430240743e24#ref=rss)
-### börse
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-diese-tech-bosse-jubelten-beim-amtsantritt-jetzt-sind-sie-viele-milliarden-dollar-aermer](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-diese-tech-bosse-jubelten-beim-amtsantritt-jetzt-sind-sie-viele-milliarden-dollar-aermer-a-b2d292b2-689c-42ae-baff-7787316edc08#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/varta-batteriehersteller-enteignet-kleinanleger-und-verliert-boersennotierung](https://www.spiegel.de/wirtschaft/unternehmen/varta-batteriehersteller-enteignet-kleinanleger-und-verliert-boersennotierung-a-07034c19-8c76-4dd0-b0b7-05591655250e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/usa-die-boerse-zittert-donald-trump-twittert-gegen-rezessionsangst](https://www.spiegel.de/wirtschaft/usa-die-boerse-zittert-donald-trump-twittert-gegen-rezessionsangst-a-ef2d28fd-4bca-4125-b001-2efb5ade3438#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/politik/deutschland/fc-bundestag-gericht-hebt-ausschluss-von-afd-politikern-auf](https://www.spiegel.de/politik/deutschland/fc-bundestag-gericht-hebt-ausschluss-von-afd-politikern-auf-a-7d5c29d6-b808-4c82-8eb0-430240743e24#ref=rss)
-* [https://www.spiegel.de/ausland/schweden-geheimdokumente-in-hotel-vergessen-ex-sicherheitsberater-angeklagt](https://www.spiegel.de/ausland/schweden-geheimdokumente-in-hotel-vergessen-ex-sicherheitsberater-angeklagt-a-a572a622-8e40-4b60-9fc2-6cf87979c64f#ref=rss)
-### union
-
-* [https://www.spiegel.de/politik/deutschland/sondierung-zwischen-union-und-spd-warum-boris-pistorius-die-union-angreift](https://www.spiegel.de/politik/deutschland/sondierung-zwischen-union-und-spd-warum-boris-pistorius-die-union-angreift-a-d26503ff-8a54-4696-9419-a20b350361c0#ref=rss)
-### sahra
-
-* [https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-wo-ist-sahra-w](https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-wo-ist-sahra-w-a-8eb375b5-bcf6-4d3c-9ffc-8afd34abc115#ref=rss)
-### volkswagen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-wie-schlecht-geht-es-dem-autokonzern](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-wie-schlecht-geht-es-dem-autokonzern-a-ef23954f-61bf-4054-8495-d189e9d189db#ref=rss)
-### schlecht
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-wie-schlecht-geht-es-dem-autokonzern](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-wie-schlecht-geht-es-dem-autokonzern-a-ef23954f-61bf-4054-8495-d189e9d189db#ref=rss)
-### wirklich
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-wie-schlecht-geht-es-dem-autokonzern](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-wie-schlecht-geht-es-dem-autokonzern-a-ef23954f-61bf-4054-8495-d189e9d189db#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sondierung-zwischen-union-und-spd-warum-boris-pistorius-die-union-angreift](https://www.spiegel.de/politik/deutschland/sondierung-zwischen-union-und-spd-warum-boris-pistorius-die-union-angreift-a-d26503ff-8a54-4696-9419-a20b350361c0#ref=rss)
-### diego
-
-* [https://www.spiegel.de/sport/fussball/argentinien-diego-maradona-und-der-prozess-um-seinen-tod-was-geschah-im-theater-des-schreckens](https://www.spiegel.de/sport/fussball/argentinien-diego-maradona-und-der-prozess-um-seinen-tod-was-geschah-im-theater-des-schreckens-a-0fffe5d6-cdc2-4d25-96c9-ab03afac76fe#ref=rss)
-### maradona
-
-* [https://www.spiegel.de/sport/fussball/argentinien-diego-maradona-und-der-prozess-um-seinen-tod-was-geschah-im-theater-des-schreckens](https://www.spiegel.de/sport/fussball/argentinien-diego-maradona-und-der-prozess-um-seinen-tod-was-geschah-im-theater-des-schreckens-a-0fffe5d6-cdc2-4d25-96c9-ab03afac76fe#ref=rss)
-### klären
-
-* [https://www.spiegel.de/sport/fussball/argentinien-diego-maradona-und-der-prozess-um-seinen-tod-was-geschah-im-theater-des-schreckens](https://www.spiegel.de/sport/fussball/argentinien-diego-maradona-und-der-prozess-um-seinen-tod-was-geschah-im-theater-des-schreckens-a-0fffe5d6-cdc2-4d25-96c9-ab03afac76fe#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/cold-cases-wie-spektakulaere-vermisstenfaelle-aufgeloest-werden-konnten](https://www.spiegel.de/panorama/justiz/cold-cases-wie-spektakulaere-vermisstenfaelle-aufgeloest-werden-konnten-a-70ac6e2d-0e50-4155-948b-e199f30e88b1#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/sport/fussball/argentinien-diego-maradona-und-der-prozess-um-seinen-tod-was-geschah-im-theater-des-schreckens](https://www.spiegel.de/sport/fussball/argentinien-diego-maradona-und-der-prozess-um-seinen-tod-was-geschah-im-theater-des-schreckens-a-0fffe5d6-cdc2-4d25-96c9-ab03afac76fe#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/cold-cases-wie-spektakulaere-vermisstenfaelle-aufgeloest-werden-konnten](https://www.spiegel.de/panorama/justiz/cold-cases-wie-spektakulaere-vermisstenfaelle-aufgeloest-werden-konnten-a-70ac6e2d-0e50-4155-948b-e199f30e88b1#ref=rss)
-### news
-
-* [https://www.spiegel.de/kultur/donald-trump-und-die-us-medien-wie-der-mainstream-sich-radikalisiert](https://www.spiegel.de/kultur/donald-trump-und-die-us-medien-wie-der-mainstream-sich-radikalisiert-a-f1d156aa-afff-4cc0-98b6-7f1fa2c37cde#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-rumaenien-im-zangengriff-kanada-wehrt-sich-gegen-trump-deutsche-justiz-am-limit](https://www.spiegel.de/politik/deutschland/news-des-tages-rumaenien-im-zangengriff-kanada-wehrt-sich-gegen-trump-deutsche-justiz-am-limit-a-a4059712-ea8e-4efb-b747-c113e8b823a3#ref=rss)
-### podcasts
-
-* [https://www.spiegel.de/kultur/donald-trump-und-die-us-medien-wie-der-mainstream-sich-radikalisiert](https://www.spiegel.de/kultur/donald-trump-und-die-us-medien-wie-der-mainstream-sich-radikalisiert-a-f1d156aa-afff-4cc0-98b6-7f1fa2c37cde#ref=rss)
-* [https://www.spiegel.de/wissenschaft/christian-drosten-wuerde-nicht-noch-einmal-so-in-der-oeffentlichkeit-stehen-wollen](https://www.spiegel.de/wissenschaft/christian-drosten-wuerde-nicht-noch-einmal-so-in-der-oeffentlichkeit-stehen-wollen-a-c5830d65-55f5-4109-98dc-f03c238d48f5#ref=rss)
-### läuft
-
-* [https://www.spiegel.de/kultur/donald-trump-und-die-us-medien-wie-der-mainstream-sich-radikalisiert](https://www.spiegel.de/kultur/donald-trump-und-die-us-medien-wie-der-mainstream-sich-radikalisiert-a-f1d156aa-afff-4cc0-98b6-7f1fa2c37cde#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/schiffsunglueck-in-der-nordsee-wie-gefaehrlich-ist-kerosin-im-meer](https://www.spiegel.de/wissenschaft/natur/schiffsunglueck-in-der-nordsee-wie-gefaehrlich-ist-kerosin-im-meer-a-16e7bd1e-b28c-471c-9adb-8ba17bc46a85#ref=rss)
-### rumänien
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-rumaenien-im-zangengriff-kanada-wehrt-sich-gegen-trump-deutsche-justiz-am-limit](https://www.spiegel.de/politik/deutschland/news-des-tages-rumaenien-im-zangengriff-kanada-wehrt-sich-gegen-trump-deutsche-justiz-am-limit-a-a4059712-ea8e-4efb-b747-c113e8b823a3#ref=rss)
-### kanada
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-rumaenien-im-zangengriff-kanada-wehrt-sich-gegen-trump-deutsche-justiz-am-limit](https://www.spiegel.de/politik/deutschland/news-des-tages-rumaenien-im-zangengriff-kanada-wehrt-sich-gegen-trump-deutsche-justiz-am-limit-a-a4059712-ea8e-4efb-b747-c113e8b823a3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/usa-die-boerse-zittert-donald-trump-twittert-gegen-rezessionsangst](https://www.spiegel.de/wirtschaft/usa-die-boerse-zittert-donald-trump-twittert-gegen-rezessionsangst-a-ef2d28fd-4bca-4125-b001-2efb5ade3438#ref=rss)
-### trumps
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-rumaenien-im-zangengriff-kanada-wehrt-sich-gegen-trump-deutsche-justiz-am-limit](https://www.spiegel.de/politik/deutschland/news-des-tages-rumaenien-im-zangengriff-kanada-wehrt-sich-gegen-trump-deutsche-justiz-am-limit-a-a4059712-ea8e-4efb-b747-c113e8b823a3#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-donald-trump-will-wolodymyr-selenskyj-ersetzen-aber-wie-und-mit-wem](https://www.spiegel.de/ausland/ukraine-donald-trump-will-wolodymyr-selenskyj-ersetzen-aber-wie-und-mit-wem-a-448cc0eb-8023-4af5-9038-eb0f006920b6#ref=rss)
-### expräsident
-
-* [https://www.spiegel.de/ausland/philippinen-ex-praesident-rodrigo-duterte-verhaftung-an-terminal-3](https://www.spiegel.de/ausland/philippinen-ex-praesident-rodrigo-duterte-verhaftung-an-terminal-3-a-0876e85d-961f-4689-b3c2-3c1138212859#ref=rss)
-### duterte
-
-* [https://www.spiegel.de/ausland/philippinen-ex-praesident-rodrigo-duterte-verhaftung-an-terminal-3](https://www.spiegel.de/ausland/philippinen-ex-praesident-rodrigo-duterte-verhaftung-an-terminal-3-a-0876e85d-961f-4689-b3c2-3c1138212859#ref=rss)
-### krieg
-
-* [https://www.spiegel.de/ausland/philippinen-ex-praesident-rodrigo-duterte-verhaftung-an-terminal-3](https://www.spiegel.de/ausland/philippinen-ex-praesident-rodrigo-duterte-verhaftung-an-terminal-3-a-0876e85d-961f-4689-b3c2-3c1138212859#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-in-osteuropa-polen-will-ab-2027-jaehrlich-100-000-freiwillige-an-der-waffe-ausbilden](https://www.spiegel.de/ausland/krieg-in-osteuropa-polen-will-ab-2027-jaehrlich-100-000-freiwillige-an-der-waffe-ausbilden-a-f1a8a869-7625-420a-8bc3-0022d9ab9310#ref=rss)
-### kerosin
-
-* [https://www.spiegel.de/wissenschaft/natur/schiffsunglueck-in-der-nordsee-wie-gefaehrlich-ist-kerosin-im-meer](https://www.spiegel.de/wissenschaft/natur/schiffsunglueck-in-der-nordsee-wie-gefaehrlich-ist-kerosin-im-meer-a-16e7bd1e-b28c-471c-9adb-8ba17bc46a85#ref=rss)
-### zusammenstoß
-
-* [https://www.spiegel.de/wissenschaft/natur/schiffsunglueck-in-der-nordsee-wie-gefaehrlich-ist-kerosin-im-meer](https://www.spiegel.de/wissenschaft/natur/schiffsunglueck-in-der-nordsee-wie-gefaehrlich-ist-kerosin-im-meer-a-16e7bd1e-b28c-471c-9adb-8ba17bc46a85#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/grossbritannien-festnahme-nach-toedlicher-schiffskollision-vor-britischer-kueste](https://www.spiegel.de/panorama/justiz/grossbritannien-festnahme-nach-toedlicher-schiffskollision-vor-britischer-kueste-a-ea0d9140-bce5-4a6c-ad48-9b29a99d7361#ref=rss)
-### zweier
-
-* [https://www.spiegel.de/wissenschaft/natur/schiffsunglueck-in-der-nordsee-wie-gefaehrlich-ist-kerosin-im-meer](https://www.spiegel.de/wissenschaft/natur/schiffsunglueck-in-der-nordsee-wie-gefaehrlich-ist-kerosin-im-meer-a-16e7bd1e-b28c-471c-9adb-8ba17bc46a85#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/grossbritannien-festnahme-nach-toedlicher-schiffskollision-vor-britischer-kueste](https://www.spiegel.de/panorama/justiz/grossbritannien-festnahme-nach-toedlicher-schiffskollision-vor-britischer-kueste-a-ea0d9140-bce5-4a6c-ad48-9b29a99d7361#ref=rss)
-### schiffe
-
-* [https://www.spiegel.de/wissenschaft/natur/schiffsunglueck-in-der-nordsee-wie-gefaehrlich-ist-kerosin-im-meer](https://www.spiegel.de/wissenschaft/natur/schiffsunglueck-in-der-nordsee-wie-gefaehrlich-ist-kerosin-im-meer-a-16e7bd1e-b28c-471c-9adb-8ba17bc46a85#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/grossbritannien-festnahme-nach-toedlicher-schiffskollision-vor-britischer-kueste](https://www.spiegel.de/panorama/justiz/grossbritannien-festnahme-nach-toedlicher-schiffskollision-vor-britischer-kueste-a-ea0d9140-bce5-4a6c-ad48-9b29a99d7361#ref=rss)
-### britischen
-
-* [https://www.spiegel.de/wissenschaft/natur/schiffsunglueck-in-der-nordsee-wie-gefaehrlich-ist-kerosin-im-meer](https://www.spiegel.de/wissenschaft/natur/schiffsunglueck-in-der-nordsee-wie-gefaehrlich-ist-kerosin-im-meer-a-16e7bd1e-b28c-471c-9adb-8ba17bc46a85#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/grossbritannien-festnahme-nach-toedlicher-schiffskollision-vor-britischer-kueste](https://www.spiegel.de/panorama/justiz/grossbritannien-festnahme-nach-toedlicher-schiffskollision-vor-britischer-kueste-a-ea0d9140-bce5-4a6c-ad48-9b29a99d7361#ref=rss)
-### brand
-
-* [https://www.spiegel.de/wissenschaft/natur/schiffsunglueck-in-der-nordsee-wie-gefaehrlich-ist-kerosin-im-meer](https://www.spiegel.de/wissenschaft/natur/schiffsunglueck-in-der-nordsee-wie-gefaehrlich-ist-kerosin-im-meer-a-16e7bd1e-b28c-471c-9adb-8ba17bc46a85#ref=rss)
-* [https://www.spiegel.de/panorama/karlsruhe-strassenbahn-und-tanklaster-kollidieren-fahrer-schwer-verletzt](https://www.spiegel.de/panorama/karlsruhe-strassenbahn-und-tanklaster-kollidieren-fahrer-schwer-verletzt-a-62d0758a-9ec2-43ce-9265-939a36597693#ref=rss)
-### einmal
-
-* [https://www.spiegel.de/politik/deutschland/fdp-vorsitz-jetzt-lautet-das-duell-christian-duerr-vs-henning-hoene](https://www.spiegel.de/politik/deutschland/fdp-vorsitz-jetzt-lautet-das-duell-christian-duerr-vs-henning-hoene-a-39944644-4777-418b-a772-e4844960c50d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/christian-drosten-wuerde-nicht-noch-einmal-so-in-der-oeffentlichkeit-stehen-wollen](https://www.spiegel.de/wissenschaft/christian-drosten-wuerde-nicht-noch-einmal-so-in-der-oeffentlichkeit-stehen-wollen-a-c5830d65-55f5-4109-98dc-f03c238d48f5#ref=rss)
-### sondervermögen
-
-* [https://www.spiegel.de/politik/deutschland/fdp-vorsitz-jetzt-lautet-das-duell-christian-duerr-vs-henning-hoene](https://www.spiegel.de/politik/deutschland/fdp-vorsitz-jetzt-lautet-das-duell-christian-duerr-vs-henning-hoene-a-39944644-4777-418b-a772-e4844960c50d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/milliardengrab-sondervermoegen-friedrich-merz-und-die-kapitulation-vor-der-merkelpolitik](https://www.spiegel.de/wirtschaft/milliardengrab-sondervermoegen-friedrich-merz-und-die-kapitulation-vor-der-merkelpolitik-a-16617388-f946-4ba5-9d60-d4b65c3c12bc#ref=rss)
-### partei
-
-* [https://www.spiegel.de/politik/deutschland/fdp-vorsitz-jetzt-lautet-das-duell-christian-duerr-vs-henning-hoene](https://www.spiegel.de/politik/deutschland/fdp-vorsitz-jetzt-lautet-das-duell-christian-duerr-vs-henning-hoene-a-39944644-4777-418b-a772-e4844960c50d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-wo-ist-sahra-w](https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-wo-ist-sahra-w-a-8eb375b5-bcf6-4d3c-9ffc-8afd34abc115#ref=rss)
-### nachfolger
-
-* [https://www.spiegel.de/politik/deutschland/fdp-vorsitz-jetzt-lautet-das-duell-christian-duerr-vs-henning-hoene](https://www.spiegel.de/politik/deutschland/fdp-vorsitz-jetzt-lautet-das-duell-christian-duerr-vs-henning-hoene-a-39944644-4777-418b-a772-e4844960c50d#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-donald-trump-will-wolodymyr-selenskyj-ersetzen-aber-wie-und-mit-wem](https://www.spiegel.de/ausland/ukraine-donald-trump-will-wolodymyr-selenskyj-ersetzen-aber-wie-und-mit-wem-a-448cc0eb-8023-4af5-9038-eb0f006920b6#ref=rss)
-### könig
-
-* [https://www.spiegel.de/kultur/playlist-von-koenig-charles-pop-royale-mit-luecken](https://www.spiegel.de/kultur/playlist-von-koenig-charles-pop-royale-mit-luecken-a-1fc7b9c3-9804-4a2f-b9f5-fdd4b3cf110a#ref=rss)
-### charles
-
-* [https://www.spiegel.de/kultur/playlist-von-koenig-charles-pop-royale-mit-luecken](https://www.spiegel.de/kultur/playlist-von-koenig-charles-pop-royale-mit-luecken-a-1fc7b9c3-9804-4a2f-b9f5-fdd4b3cf110a#ref=rss)
-### neue
-
-* [https://www.spiegel.de/ausland/oesterreich-wie-die-neue-regierung-ohne-fpoe-nach-rechts-rueckt](https://www.spiegel.de/ausland/oesterreich-wie-die-neue-regierung-ohne-fpoe-nach-rechts-rueckt-a-3c877409-0975-490d-a783-b6932166e0f5#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/ausland/oesterreich-wie-die-neue-regierung-ohne-fpoe-nach-rechts-rueckt](https://www.spiegel.de/ausland/oesterreich-wie-die-neue-regierung-ohne-fpoe-nach-rechts-rueckt-a-3c877409-0975-490d-a783-b6932166e0f5#ref=rss)
-* [https://www.spiegel.de/ausland/schweden-geheimdokumente-in-hotel-vergessen-ex-sicherheitsberater-angeklagt](https://www.spiegel.de/ausland/schweden-geheimdokumente-in-hotel-vergessen-ex-sicherheitsberater-angeklagt-a-a572a622-8e40-4b60-9fc2-6cf87979c64f#ref=rss)
-### rechts
-
-* [https://www.spiegel.de/ausland/oesterreich-wie-die-neue-regierung-ohne-fpoe-nach-rechts-rueckt](https://www.spiegel.de/ausland/oesterreich-wie-die-neue-regierung-ohne-fpoe-nach-rechts-rueckt-a-3c877409-0975-490d-a783-b6932166e0f5#ref=rss)
-### rückt
-
-* [https://www.spiegel.de/ausland/oesterreich-wie-die-neue-regierung-ohne-fpoe-nach-rechts-rueckt](https://www.spiegel.de/ausland/oesterreich-wie-die-neue-regierung-ohne-fpoe-nach-rechts-rueckt-a-3c877409-0975-490d-a783-b6932166e0f5#ref=rss)
-### russische
-
-* [https://www.spiegel.de/ausland/kursk-offensive-russische-soldaten-scheitern-beim-pipeline-angriff-auf-die-ukraine](https://www.spiegel.de/ausland/kursk-offensive-russische-soldaten-scheitern-beim-pipeline-angriff-auf-die-ukraine-a-4b864736-e8d5-4531-9339-abc964d23ab5#ref=rss)
-### soldaten
-
-* [https://www.spiegel.de/ausland/kursk-offensive-russische-soldaten-scheitern-beim-pipeline-angriff-auf-die-ukraine](https://www.spiegel.de/ausland/kursk-offensive-russische-soldaten-scheitern-beim-pipeline-angriff-auf-die-ukraine-a-4b864736-e8d5-4531-9339-abc964d23ab5#ref=rss)
-### europa
-
-* [https://www.spiegel.de/ausland/kursk-offensive-russische-soldaten-scheitern-beim-pipeline-angriff-auf-die-ukraine](https://www.spiegel.de/ausland/kursk-offensive-russische-soldaten-scheitern-beim-pipeline-angriff-auf-die-ukraine-a-4b864736-e8d5-4531-9339-abc964d23ab5#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-in-osteuropa-polen-will-ab-2027-jaehrlich-100-000-freiwillige-an-der-waffe-ausbilden](https://www.spiegel.de/ausland/krieg-in-osteuropa-polen-will-ab-2027-jaehrlich-100-000-freiwillige-an-der-waffe-ausbilden-a-f1a8a869-7625-420a-8bc3-0022d9ab9310#ref=rss)
-### siegen
-
-* [https://www.spiegel.de/panorama/justiz/siegen-stiefvater-wegen-missbrauchs-der-elfjaehrigen-stieftochter-verurteilt](https://www.spiegel.de/panorama/justiz/siegen-stiefvater-wegen-missbrauchs-der-elfjaehrigen-stieftochter-verurteilt-a-6d28fd5a-adb2-4eb0-b3ce-ad37147b2993#ref=rss)
-### stiefvater
-
-* [https://www.spiegel.de/panorama/justiz/siegen-stiefvater-wegen-missbrauchs-der-elfjaehrigen-stieftochter-verurteilt](https://www.spiegel.de/panorama/justiz/siegen-stiefvater-wegen-missbrauchs-der-elfjaehrigen-stieftochter-verurteilt-a-6d28fd5a-adb2-4eb0-b3ce-ad37147b2993#ref=rss)
-### verurteilt
-
-* [https://www.spiegel.de/panorama/justiz/siegen-stiefvater-wegen-missbrauchs-der-elfjaehrigen-stieftochter-verurteilt](https://www.spiegel.de/panorama/justiz/siegen-stiefvater-wegen-missbrauchs-der-elfjaehrigen-stieftochter-verurteilt-a-6d28fd5a-adb2-4eb0-b3ce-ad37147b2993#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/wirtschaft/milliardengrab-sondervermoegen-friedrich-merz-und-die-kapitulation-vor-der-merkelpolitik](https://www.spiegel.de/wirtschaft/milliardengrab-sondervermoegen-friedrich-merz-und-die-kapitulation-vor-der-merkelpolitik-a-16617388-f946-4ba5-9d60-d4b65c3c12bc#ref=rss)
-### merz
-
-* [https://www.spiegel.de/wirtschaft/milliardengrab-sondervermoegen-friedrich-merz-und-die-kapitulation-vor-der-merkelpolitik](https://www.spiegel.de/wirtschaft/milliardengrab-sondervermoegen-friedrich-merz-und-die-kapitulation-vor-der-merkelpolitik-a-16617388-f946-4ba5-9d60-d4b65c3c12bc#ref=rss)
-### setzt
-
-* [https://www.spiegel.de/wirtschaft/milliardengrab-sondervermoegen-friedrich-merz-und-die-kapitulation-vor-der-merkelpolitik](https://www.spiegel.de/wirtschaft/milliardengrab-sondervermoegen-friedrich-merz-und-die-kapitulation-vor-der-merkelpolitik-a-16617388-f946-4ba5-9d60-d4b65c3c12bc#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-donald-trump-will-wolodymyr-selenskyj-ersetzen-aber-wie-und-mit-wem](https://www.spiegel.de/ausland/ukraine-donald-trump-will-wolodymyr-selenskyj-ersetzen-aber-wie-und-mit-wem-a-448cc0eb-8023-4af5-9038-eb0f006920b6#ref=rss)
-### cdu
-
-* [https://www.spiegel.de/wirtschaft/milliardengrab-sondervermoegen-friedrich-merz-und-die-kapitulation-vor-der-merkelpolitik](https://www.spiegel.de/wirtschaft/milliardengrab-sondervermoegen-friedrich-merz-und-die-kapitulation-vor-der-merkelpolitik-a-16617388-f946-4ba5-9d60-d4b65c3c12bc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sondierung-zwischen-union-und-spd-warum-boris-pistorius-die-union-angreift](https://www.spiegel.de/politik/deutschland/sondierung-zwischen-union-und-spd-warum-boris-pistorius-die-union-angreift-a-d26503ff-8a54-4696-9419-a20b350361c0#ref=rss)
-### küste
-
-* [https://www.spiegel.de/panorama/justiz/grossbritannien-festnahme-nach-toedlicher-schiffskollision-vor-britischer-kueste](https://www.spiegel.de/panorama/justiz/grossbritannien-festnahme-nach-toedlicher-schiffskollision-vor-britischer-kueste-a-ea0d9140-bce5-4a6c-ad48-9b29a99d7361#ref=rss)
-### milliarden
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-diese-tech-bosse-jubelten-beim-amtsantritt-jetzt-sind-sie-viele-milliarden-dollar-aermer](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-diese-tech-bosse-jubelten-beim-amtsantritt-jetzt-sind-sie-viele-milliarden-dollar-aermer-a-b2d292b2-689c-42ae-baff-7787316edc08#ref=rss)
-* [https://www.spiegel.de/wirtschaft/russland-staatsdefizit-zu-jahresbeginn-mehr-als-verdoppelt](https://www.spiegel.de/wirtschaft/russland-staatsdefizit-zu-jahresbeginn-mehr-als-verdoppelt-a-aae82762-d836-4d8d-9a4d-30ffeba5ecb6#ref=rss)
-### ließ
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-diese-tech-bosse-jubelten-beim-amtsantritt-jetzt-sind-sie-viele-milliarden-dollar-aermer](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-diese-tech-bosse-jubelten-beim-amtsantritt-jetzt-sind-sie-viele-milliarden-dollar-aermer-a-b2d292b2-689c-42ae-baff-7787316edc08#ref=rss)
-* [https://www.spiegel.de/ausland/schweden-geheimdokumente-in-hotel-vergessen-ex-sicherheitsberater-angeklagt](https://www.spiegel.de/ausland/schweden-geheimdokumente-in-hotel-vergessen-ex-sicherheitsberater-angeklagt-a-a572a622-8e40-4b60-9fc2-6cf87979c64f#ref=rss)
-### polen
-
-* [https://www.spiegel.de/ausland/krieg-in-osteuropa-polen-will-ab-2027-jaehrlich-100-000-freiwillige-an-der-waffe-ausbilden](https://www.spiegel.de/ausland/krieg-in-osteuropa-polen-will-ab-2027-jaehrlich-100-000-freiwillige-an-der-waffe-ausbilden-a-f1a8a869-7625-420a-8bc3-0022d9ab9310#ref=rss)
-### freiwillige
-
-* [https://www.spiegel.de/ausland/krieg-in-osteuropa-polen-will-ab-2027-jaehrlich-100-000-freiwillige-an-der-waffe-ausbilden](https://www.spiegel.de/ausland/krieg-in-osteuropa-polen-will-ab-2027-jaehrlich-100-000-freiwillige-an-der-waffe-ausbilden-a-f1a8a869-7625-420a-8bc3-0022d9ab9310#ref=rss)
-### schweiz
-
-* [https://www.spiegel.de/wirtschaft/containerschifffahrt-schweiz-ueberholt-deutschland-bei-containerflotten](https://www.spiegel.de/wirtschaft/containerschifffahrt-schweiz-ueberholt-deutschland-bei-containerflotten-a-d0103de7-a954-4550-b17f-cf39f5f53836#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wirtschaft/containerschifffahrt-schweiz-ueberholt-deutschland-bei-containerflotten](https://www.spiegel.de/wirtschaft/containerschifffahrt-schweiz-ueberholt-deutschland-bei-containerflotten-a-d0103de7-a954-4550-b17f-cf39f5f53836#ref=rss)
-### drei
-
-* [https://www.spiegel.de/wirtschaft/containerschifffahrt-schweiz-ueberholt-deutschland-bei-containerflotten](https://www.spiegel.de/wirtschaft/containerschifffahrt-schweiz-ueberholt-deutschland-bei-containerflotten-a-d0103de7-a954-4550-b17f-cf39f5f53836#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/stahnsdorf-brandenburg-angriff-auf-fluechtlingsunterkunft-und-bewohner](https://www.spiegel.de/panorama/justiz/stahnsdorf-brandenburg-angriff-auf-fluechtlingsunterkunft-und-bewohner-a-0cbdc2dc-0184-44c9-a3b2-9351c69a0045#ref=rss)
-### varta
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/varta-batteriehersteller-enteignet-kleinanleger-und-verliert-boersennotierung](https://www.spiegel.de/wirtschaft/unternehmen/varta-batteriehersteller-enteignet-kleinanleger-und-verliert-boersennotierung-a-07034c19-8c76-4dd0-b0b7-05591655250e#ref=rss)
-### batteriehersteller
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/varta-batteriehersteller-enteignet-kleinanleger-und-verliert-boersennotierung](https://www.spiegel.de/wirtschaft/unternehmen/varta-batteriehersteller-enteignet-kleinanleger-und-verliert-boersennotierung-a-07034c19-8c76-4dd0-b0b7-05591655250e#ref=rss)
-### karlsruhe
-
-* [https://www.spiegel.de/panorama/karlsruhe-strassenbahn-und-tanklaster-kollidieren-fahrer-schwer-verletzt](https://www.spiegel.de/panorama/karlsruhe-strassenbahn-und-tanklaster-kollidieren-fahrer-schwer-verletzt-a-62d0758a-9ec2-43ce-9265-939a36597693#ref=rss)
-### straßenbahn
-
-* [https://www.spiegel.de/panorama/karlsruhe-strassenbahn-und-tanklaster-kollidieren-fahrer-schwer-verletzt](https://www.spiegel.de/panorama/karlsruhe-strassenbahn-und-tanklaster-kollidieren-fahrer-schwer-verletzt-a-62d0758a-9ec2-43ce-9265-939a36597693#ref=rss)
-### verletzt
-
-* [https://www.spiegel.de/panorama/karlsruhe-strassenbahn-und-tanklaster-kollidieren-fahrer-schwer-verletzt](https://www.spiegel.de/panorama/karlsruhe-strassenbahn-und-tanklaster-kollidieren-fahrer-schwer-verletzt-a-62d0758a-9ec2-43ce-9265-939a36597693#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wirtschaft/russland-staatsdefizit-zu-jahresbeginn-mehr-als-verdoppelt](https://www.spiegel.de/wirtschaft/russland-staatsdefizit-zu-jahresbeginn-mehr-als-verdoppelt-a-aae82762-d836-4d8d-9a4d-30ffeba5ecb6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/fc-bundestag-gericht-hebt-ausschluss-von-afd-politikern-auf](https://www.spiegel.de/politik/deutschland/fc-bundestag-gericht-hebt-ausschluss-von-afd-politikern-auf-a-7d5c29d6-b808-4c82-8eb0-430240743e24#ref=rss)
-### cold
-
-* [https://www.spiegel.de/panorama/justiz/cold-cases-wie-spektakulaere-vermisstenfaelle-aufgeloest-werden-konnten](https://www.spiegel.de/panorama/justiz/cold-cases-wie-spektakulaere-vermisstenfaelle-aufgeloest-werden-konnten-a-70ac6e2d-0e50-4155-948b-e199f30e88b1#ref=rss)
-### cases
-
-* [https://www.spiegel.de/panorama/justiz/cold-cases-wie-spektakulaere-vermisstenfaelle-aufgeloest-werden-konnten](https://www.spiegel.de/panorama/justiz/cold-cases-wie-spektakulaere-vermisstenfaelle-aufgeloest-werden-konnten-a-70ac6e2d-0e50-4155-948b-e199f30e88b1#ref=rss)
-### vermisstenfälle
-
-* [https://www.spiegel.de/panorama/justiz/cold-cases-wie-spektakulaere-vermisstenfaelle-aufgeloest-werden-konnten](https://www.spiegel.de/panorama/justiz/cold-cases-wie-spektakulaere-vermisstenfaelle-aufgeloest-werden-konnten-a-70ac6e2d-0e50-4155-948b-e199f30e88b1#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-moegliche-waffenruhe-wir-leiden-waehrend-dieser-gespraeche](https://www.spiegel.de/ausland/ukraine-moegliche-waffenruhe-wir-leiden-waehrend-dieser-gespraeche-a-3d46d331-29cc-434c-a083-d927f20e2b7b#ref=rss)
+* [https://www.spiegel.de/ausland/medienberichte-russland-flagge-ueber-stadtzentrum-von-sudscha](https://www.spiegel.de/ausland/medienberichte-russland-flagge-ueber-stadtzentrum-von-sudscha-a-49e7e3e1-4af4-488e-b1d8-95f85113ef04#ref=rss)
+### usa
+
+* [https://www.spiegel.de/ausland/ukraine-moegliche-waffenruhe-wir-leiden-waehrend-dieser-gespraeche](https://www.spiegel.de/ausland/ukraine-moegliche-waffenruhe-wir-leiden-waehrend-dieser-gespraeche-a-3d46d331-29cc-434c-a083-d927f20e2b7b#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-nach-einigung-in-dschidda-tote-und-verletzte-nach-russischen-angriffen](https://www.spiegel.de/ausland/ukraine-krieg-nach-einigung-in-dschidda-tote-und-verletzte-nach-russischen-angriffen-a-3e02d5dc-b510-420d-8198-525188c7854c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/f-35-koennten-die-usa-den-luftwaffen-kampfjet-aus-der-ferne-stilllegen](https://www.spiegel.de/wissenschaft/technik/f-35-koennten-die-usa-den-luftwaffen-kampfjet-aus-der-ferne-stilllegen-a-925ceef0-7793-46ca-a227-19a4a59bbe0c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/northvolt-stellt-insolvenzantrag-in-schweden](https://www.spiegel.de/wirtschaft/northvolt-stellt-insolvenzantrag-in-schweden-a-e5457762-a7a4-48b4-8c10-e829dadf6d68#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/sport/fussball/champions-league-bayer-leverkusen-vs-fc-bayern-sind-die-bayern-wirklich-reif-fuer-den-titel](https://www.spiegel.de/sport/fussball/champions-league-bayer-leverkusen-vs-fc-bayern-sind-die-bayern-wirklich-reif-fuer-den-titel-a-1d8971bd-85fd-42d3-98a5-f7a69394d534#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/bayern-prueft-deutsch-kenntnisse-bei-kindern](https://www.spiegel.de/panorama/bildung/bayern-prueft-deutsch-kenntnisse-bei-kindern-a-eccf27f5-996c-4aed-8d11-a902f92e9b7f#ref=rss)
 ### fc
 
-* [https://www.spiegel.de/politik/deutschland/fc-bundestag-gericht-hebt-ausschluss-von-afd-politikern-auf](https://www.spiegel.de/politik/deutschland/fc-bundestag-gericht-hebt-ausschluss-von-afd-politikern-auf-a-7d5c29d6-b808-4c82-8eb0-430240743e24#ref=rss)
-### elon
+* [https://www.spiegel.de/politik/deutschland/afd-ausschluss-beim-fc-bundestag-die-frage-ist-ob-du-mit-nazis-nackt-unter-der-dusche-stehen-willst](https://www.spiegel.de/politik/deutschland/afd-ausschluss-beim-fc-bundestag-die-frage-ist-ob-du-mit-nazis-nackt-unter-der-dusche-stehen-willst-a-b062c536-e31f-43dd-8789-534879130cf8#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-bayer-leverkusen-vs-fc-bayern-sind-die-bayern-wirklich-reif-fuer-den-titel](https://www.spiegel.de/sport/fussball/champions-league-bayer-leverkusen-vs-fc-bayern-sind-die-bayern-wirklich-reif-fuer-den-titel-a-1d8971bd-85fd-42d3-98a5-f7a69394d534#ref=rss)
+### willis
 
-* [https://www.spiegel.de/ausland/elon-musk-und-doge-gremium-muss-interne-dokumente-offenlegen](https://www.spiegel.de/ausland/elon-musk-und-doge-gremium-muss-interne-dokumente-offenlegen-a-9a84bf60-eb9d-4e34-ae07-ef3013857197#ref=rss)
-### drosten
+* [https://www.spiegel.de/panorama/leute/bruce-willis-emma-heming-willis-fordert-unterstuetzung-fuer-pflegende-angehoerige](https://www.spiegel.de/panorama/leute/bruce-willis-emma-heming-willis-fordert-unterstuetzung-fuer-pflegende-angehoerige-a-285a0873-397d-4f95-8718-1e6271e76843#ref=rss)
+### mann
 
-* [https://www.spiegel.de/wissenschaft/christian-drosten-wuerde-nicht-noch-einmal-so-in-der-oeffentlichkeit-stehen-wollen](https://www.spiegel.de/wissenschaft/christian-drosten-wuerde-nicht-noch-einmal-so-in-der-oeffentlichkeit-stehen-wollen-a-c5830d65-55f5-4109-98dc-f03c238d48f5#ref=rss)
-### würde
+* [https://www.spiegel.de/panorama/berlin-schoeneberg-mann-mit-palaestina-schal-von-68-jaehrigem-geschlagen](https://www.spiegel.de/panorama/berlin-schoeneberg-mann-mit-palaestina-schal-von-68-jaehrigem-geschlagen-a-5174de0c-9a81-4077-86d5-879600536ff5#ref=rss)
+* [https://www.spiegel.de/panorama/leute/bruce-willis-emma-heming-willis-fordert-unterstuetzung-fuer-pflegende-angehoerige](https://www.spiegel.de/panorama/leute/bruce-willis-emma-heming-willis-fordert-unterstuetzung-fuer-pflegende-angehoerige-a-285a0873-397d-4f95-8718-1e6271e76843#ref=rss)
+### unter
 
-* [https://www.spiegel.de/wissenschaft/christian-drosten-wuerde-nicht-noch-einmal-so-in-der-oeffentlichkeit-stehen-wollen](https://www.spiegel.de/wissenschaft/christian-drosten-wuerde-nicht-noch-einmal-so-in-der-oeffentlichkeit-stehen-wollen-a-c5830d65-55f5-4109-98dc-f03c238d48f5#ref=rss)
-### öffentlichkeit
+* [https://www.spiegel.de/politik/deutschland/afd-ausschluss-beim-fc-bundestag-die-frage-ist-ob-du-mit-nazis-nackt-unter-der-dusche-stehen-willst](https://www.spiegel.de/politik/deutschland/afd-ausschluss-beim-fc-bundestag-die-frage-ist-ob-du-mit-nazis-nackt-unter-der-dusche-stehen-willst-a-b062c536-e31f-43dd-8789-534879130cf8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/porsche-gewinn-bricht-um-30-prozent-ein](https://www.spiegel.de/wirtschaft/unternehmen/porsche-gewinn-bricht-um-30-prozent-ein-a-286d8ad3-f489-4651-8dab-4ef6ce5f6fab#ref=rss)
+### neue
 
-* [https://www.spiegel.de/wissenschaft/christian-drosten-wuerde-nicht-noch-einmal-so-in-der-oeffentlichkeit-stehen-wollen](https://www.spiegel.de/wissenschaft/christian-drosten-wuerde-nicht-noch-einmal-so-in-der-oeffentlichkeit-stehen-wollen-a-c5830d65-55f5-4109-98dc-f03c238d48f5#ref=rss)
-### stehen
+* [https://www.spiegel.de/wirtschaft/grosse-mehrheit-der-oekonomen-fuer-neue-ruestungsschulden](https://www.spiegel.de/wirtschaft/grosse-mehrheit-der-oekonomen-fuer-neue-ruestungsschulden-a-3a309876-1b65-44d2-b273-ccc58e988cfe#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/geburtsraten-an-den-grundschulen-ist-bald-mehr-platz-im-klassenzimmer](https://www.spiegel.de/panorama/bildung/geburtsraten-an-den-grundschulen-ist-bald-mehr-platz-im-klassenzimmer-a-1e7e2952-8689-4bf5-9906-8a84f02c3dcc#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/wissenschaft/christian-drosten-wuerde-nicht-noch-einmal-so-in-der-oeffentlichkeit-stehen-wollen](https://www.spiegel.de/wissenschaft/christian-drosten-wuerde-nicht-noch-einmal-so-in-der-oeffentlichkeit-stehen-wollen-a-c5830d65-55f5-4109-98dc-f03c238d48f5#ref=rss)
-### spd
+* [https://www.spiegel.de/wirtschaft/unternehmen/industriestandort-chemiebranche-kritisiert-stand-der-koalitionsverhandlungen](https://www.spiegel.de/wirtschaft/unternehmen/industriestandort-chemiebranche-kritisiert-stand-der-koalitionsverhandlungen-a-b7cca4ff-5809-4c33-969a-93a2827aad89#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/f-35-koennten-die-usa-den-luftwaffen-kampfjet-aus-der-ferne-stilllegen](https://www.spiegel.de/wissenschaft/technik/f-35-koennten-die-usa-den-luftwaffen-kampfjet-aus-der-ferne-stilllegen-a-925ceef0-7793-46ca-a227-19a4a59bbe0c#ref=rss)
+### viele
 
-* [https://www.spiegel.de/politik/deutschland/sondierung-zwischen-union-und-spd-warum-boris-pistorius-die-union-angreift](https://www.spiegel.de/politik/deutschland/sondierung-zwischen-union-und-spd-warum-boris-pistorius-die-union-angreift-a-d26503ff-8a54-4696-9419-a20b350361c0#ref=rss)
-### boris
+* [https://www.spiegel.de/netzwelt/web/kabel-tv-vodafone-geht-angeblich-verstaerkt-gegen-schwarzseher-vor](https://www.spiegel.de/netzwelt/web/kabel-tv-vodafone-geht-angeblich-verstaerkt-gegen-schwarzseher-vor-a-924c001b-fbf4-4aaa-a0a4-c3ebd9df6313#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/geburtsraten-an-den-grundschulen-ist-bald-mehr-platz-im-klassenzimmer](https://www.spiegel.de/panorama/bildung/geburtsraten-an-den-grundschulen-ist-bald-mehr-platz-im-klassenzimmer-a-1e7e2952-8689-4bf5-9906-8a84f02c3dcc#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/bayern-prueft-deutsch-kenntnisse-bei-kindern](https://www.spiegel.de/panorama/bildung/bayern-prueft-deutsch-kenntnisse-bei-kindern-a-eccf27f5-996c-4aed-8d11-a902f92e9b7f#ref=rss)
+### ohne
 
-* [https://www.spiegel.de/politik/deutschland/sondierung-zwischen-union-und-spd-warum-boris-pistorius-die-union-angreift](https://www.spiegel.de/politik/deutschland/sondierung-zwischen-union-und-spd-warum-boris-pistorius-die-union-angreift-a-d26503ff-8a54-4696-9419-a20b350361c0#ref=rss)
-### pistorius
+* [https://www.spiegel.de/start/lernen-wie-man-mit-und-ohne-ki-gut-durch-die-pruefungsphase-kommt](https://www.spiegel.de/start/lernen-wie-man-mit-und-ohne-ki-gut-durch-die-pruefungsphase-kommt-a-88372613-b167-4b59-b88b-3788b96bef55#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/kabel-tv-vodafone-geht-angeblich-verstaerkt-gegen-schwarzseher-vor](https://www.spiegel.de/netzwelt/web/kabel-tv-vodafone-geht-angeblich-verstaerkt-gegen-schwarzseher-vor-a-924c001b-fbf4-4aaa-a0a4-c3ebd9df6313#ref=rss)
+### gut
 
-* [https://www.spiegel.de/politik/deutschland/sondierung-zwischen-union-und-spd-warum-boris-pistorius-die-union-angreift](https://www.spiegel.de/politik/deutschland/sondierung-zwischen-union-und-spd-warum-boris-pistorius-die-union-angreift-a-d26503ff-8a54-4696-9419-a20b350361c0#ref=rss)
-### stahnsdorf
+* [https://www.spiegel.de/start/lernen-wie-man-mit-und-ohne-ki-gut-durch-die-pruefungsphase-kommt](https://www.spiegel.de/start/lernen-wie-man-mit-und-ohne-ki-gut-durch-die-pruefungsphase-kommt-a-88372613-b167-4b59-b88b-3788b96bef55#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/bayern-prueft-deutsch-kenntnisse-bei-kindern](https://www.spiegel.de/panorama/bildung/bayern-prueft-deutsch-kenntnisse-bei-kindern-a-eccf27f5-996c-4aed-8d11-a902f92e9b7f#ref=rss)
+### berlinschöneberg
 
-* [https://www.spiegel.de/panorama/justiz/stahnsdorf-brandenburg-angriff-auf-fluechtlingsunterkunft-und-bewohner](https://www.spiegel.de/panorama/justiz/stahnsdorf-brandenburg-angriff-auf-fluechtlingsunterkunft-und-bewohner-a-0cbdc2dc-0184-44c9-a3b2-9351c69a0045#ref=rss)
-### flüchtlingsunterkunft
+* [https://www.spiegel.de/panorama/berlin-schoeneberg-mann-mit-palaestina-schal-von-68-jaehrigem-geschlagen](https://www.spiegel.de/panorama/berlin-schoeneberg-mann-mit-palaestina-schal-von-68-jaehrigem-geschlagen-a-5174de0c-9a81-4077-86d5-879600536ff5#ref=rss)
+### waffenruhe
 
-* [https://www.spiegel.de/panorama/justiz/stahnsdorf-brandenburg-angriff-auf-fluechtlingsunterkunft-und-bewohner](https://www.spiegel.de/panorama/justiz/stahnsdorf-brandenburg-angriff-auf-fluechtlingsunterkunft-und-bewohner-a-0cbdc2dc-0184-44c9-a3b2-9351c69a0045#ref=rss)
-### bewohner
+* [https://www.spiegel.de/ausland/ukraine-moegliche-waffenruhe-wir-leiden-waehrend-dieser-gespraeche](https://www.spiegel.de/ausland/ukraine-moegliche-waffenruhe-wir-leiden-waehrend-dieser-gespraeche-a-3d46d331-29cc-434c-a083-d927f20e2b7b#ref=rss)
+### gute
 
-* [https://www.spiegel.de/panorama/justiz/stahnsdorf-brandenburg-angriff-auf-fluechtlingsunterkunft-und-bewohner](https://www.spiegel.de/panorama/justiz/stahnsdorf-brandenburg-angriff-auf-fluechtlingsunterkunft-und-bewohner-a-0cbdc2dc-0184-44c9-a3b2-9351c69a0045#ref=rss)
-### berlin
+* [https://www.spiegel.de/ausland/ukraine-moegliche-waffenruhe-wir-leiden-waehrend-dieser-gespraeche](https://www.spiegel.de/ausland/ukraine-moegliche-waffenruhe-wir-leiden-waehrend-dieser-gespraeche-a-3d46d331-29cc-434c-a083-d927f20e2b7b#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/geburtsraten-an-den-grundschulen-ist-bald-mehr-platz-im-klassenzimmer](https://www.spiegel.de/panorama/bildung/geburtsraten-an-den-grundschulen-ist-bald-mehr-platz-im-klassenzimmer-a-1e7e2952-8689-4bf5-9906-8a84f02c3dcc#ref=rss)
+### vorschlag
 
-* [https://www.spiegel.de/panorama/justiz/stahnsdorf-brandenburg-angriff-auf-fluechtlingsunterkunft-und-bewohner](https://www.spiegel.de/panorama/justiz/stahnsdorf-brandenburg-angriff-auf-fluechtlingsunterkunft-und-bewohner-a-0cbdc2dc-0184-44c9-a3b2-9351c69a0045#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-anklage-gegen-mutmasslichen-neonazi-wegen-angriff-auf-antifa-anhaenger](https://www.spiegel.de/panorama/justiz/berlin-anklage-gegen-mutmasslichen-neonazi-wegen-angriff-auf-antifa-anhaenger-a-131d7be7-2daf-4ccd-bf25-9457aa87c765#ref=rss)
-### angegriffen
+* [https://www.spiegel.de/ausland/ukraine-moegliche-waffenruhe-wir-leiden-waehrend-dieser-gespraeche](https://www.spiegel.de/ausland/ukraine-moegliche-waffenruhe-wir-leiden-waehrend-dieser-gespraeche-a-3d46d331-29cc-434c-a083-d927f20e2b7b#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-nach-einigung-in-dschidda-tote-und-verletzte-nach-russischen-angriffen](https://www.spiegel.de/ausland/ukraine-krieg-nach-einigung-in-dschidda-tote-und-verletzte-nach-russischen-angriffen-a-3e02d5dc-b510-420d-8198-525188c7854c#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/panorama/justiz/stahnsdorf-brandenburg-angriff-auf-fluechtlingsunterkunft-und-bewohner](https://www.spiegel.de/panorama/justiz/stahnsdorf-brandenburg-angriff-auf-fluechtlingsunterkunft-und-bewohner-a-0cbdc2dc-0184-44c9-a3b2-9351c69a0045#ref=rss)
-### exsicherheitsberater
+* [https://www.spiegel.de/ausland/ukraine-moegliche-waffenruhe-wir-leiden-waehrend-dieser-gespraeche](https://www.spiegel.de/ausland/ukraine-moegliche-waffenruhe-wir-leiden-waehrend-dieser-gespraeche-a-3d46d331-29cc-434c-a083-d927f20e2b7b#ref=rss)
+* [https://www.spiegel.de/ausland/pakistan-155-geiseln-aus-gekapertem-zug-befreit](https://www.spiegel.de/ausland/pakistan-155-geiseln-aus-gekapertem-zug-befreit-a-fb207411-9cd1-45a8-b01c-f9684ada6eb6#ref=rss)
+### einigung
 
-* [https://www.spiegel.de/ausland/schweden-geheimdokumente-in-hotel-vergessen-ex-sicherheitsberater-angeklagt](https://www.spiegel.de/ausland/schweden-geheimdokumente-in-hotel-vergessen-ex-sicherheitsberater-angeklagt-a-a572a622-8e40-4b60-9fc2-6cf87979c64f#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-nach-einigung-in-dschidda-tote-und-verletzte-nach-russischen-angriffen](https://www.spiegel.de/ausland/ukraine-krieg-nach-einigung-in-dschidda-tote-und-verletzte-nach-russischen-angriffen-a-3e02d5dc-b510-420d-8198-525188c7854c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/stephan-weil-spd-ministerpraesident-ueber-die-verhandlungen-mit-union-und-gruenen](https://www.spiegel.de/politik/deutschland/stephan-weil-spd-ministerpraesident-ueber-die-verhandlungen-mit-union-und-gruenen-a-7678a740-1b5a-4126-baa2-518fe1af1e2b#ref=rss)
+### russischen
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-nach-einigung-in-dschidda-tote-und-verletzte-nach-russischen-angriffen](https://www.spiegel.de/ausland/ukraine-krieg-nach-einigung-in-dschidda-tote-und-verletzte-nach-russischen-angriffen-a-3e02d5dc-b510-420d-8198-525188c7854c#ref=rss)
+* [https://www.spiegel.de/ausland/medienberichte-russland-flagge-ueber-stadtzentrum-von-sudscha](https://www.spiegel.de/ausland/medienberichte-russland-flagge-ueber-stadtzentrum-von-sudscha-a-49e7e3e1-4af4-488e-b1d8-95f85113ef04#ref=rss)
+### china
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-nach-einigung-in-dschidda-tote-und-verletzte-nach-russischen-angriffen](https://www.spiegel.de/ausland/ukraine-krieg-nach-einigung-in-dschidda-tote-und-verletzte-nach-russischen-angriffen-a-3e02d5dc-b510-420d-8198-525188c7854c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/porsche-gewinn-bricht-um-30-prozent-ein](https://www.spiegel.de/wirtschaft/unternehmen/porsche-gewinn-bricht-um-30-prozent-ein-a-286d8ad3-f489-4651-8dab-4ef6ce5f6fab#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-nach-einigung-in-dschidda-tote-und-verletzte-nach-russischen-angriffen](https://www.spiegel.de/ausland/ukraine-krieg-nach-einigung-in-dschidda-tote-und-verletzte-nach-russischen-angriffen-a-3e02d5dc-b510-420d-8198-525188c7854c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/industriestandort-chemiebranche-kritisiert-stand-der-koalitionsverhandlungen](https://www.spiegel.de/wirtschaft/unternehmen/industriestandort-chemiebranche-kritisiert-stand-der-koalitionsverhandlungen-a-b7cca4ff-5809-4c33-969a-93a2827aad89#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-erzielt-rekordgewinn](https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-erzielt-rekordgewinn-a-ed0091d2-86d7-43df-88ad-cdad4410ff56#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/bayern-prueft-deutsch-kenntnisse-bei-kindern](https://www.spiegel.de/panorama/bildung/bayern-prueft-deutsch-kenntnisse-bei-kindern-a-eccf27f5-996c-4aed-8d11-a902f92e9b7f#ref=rss)
+### sudscha
+
+* [https://www.spiegel.de/ausland/medienberichte-russland-flagge-ueber-stadtzentrum-von-sudscha](https://www.spiegel.de/ausland/medienberichte-russland-flagge-ueber-stadtzentrum-von-sudscha-a-49e7e3e1-4af4-488e-b1d8-95f85113ef04#ref=rss)
+### scarlett
+
+* [https://www.spiegel.de/kultur/kino/scarlett-johansson-kehrt-nicht-als-black-widow-zurueck](https://www.spiegel.de/kultur/kino/scarlett-johansson-kehrt-nicht-als-black-widow-zurueck-a-61897fa2-7127-4f9d-8150-6edb06f77d72#ref=rss)
+### johansson
+
+* [https://www.spiegel.de/kultur/kino/scarlett-johansson-kehrt-nicht-als-black-widow-zurueck](https://www.spiegel.de/kultur/kino/scarlett-johansson-kehrt-nicht-als-black-widow-zurueck-a-61897fa2-7127-4f9d-8150-6edb06f77d72#ref=rss)
+### drauf
+
+* [https://www.spiegel.de/kultur/kino/scarlett-johansson-kehrt-nicht-als-black-widow-zurueck](https://www.spiegel.de/kultur/kino/scarlett-johansson-kehrt-nicht-als-black-widow-zurueck-a-61897fa2-7127-4f9d-8150-6edb06f77d72#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/geburtsraten-an-den-grundschulen-ist-bald-mehr-platz-im-klassenzimmer](https://www.spiegel.de/panorama/bildung/geburtsraten-an-den-grundschulen-ist-bald-mehr-platz-im-klassenzimmer-a-1e7e2952-8689-4bf5-9906-8a84f02c3dcc#ref=rss)
+### stephan
+
+* [https://www.spiegel.de/politik/deutschland/stephan-weil-spd-ministerpraesident-ueber-die-verhandlungen-mit-union-und-gruenen](https://www.spiegel.de/politik/deutschland/stephan-weil-spd-ministerpraesident-ueber-die-verhandlungen-mit-union-und-gruenen-a-7678a740-1b5a-4126-baa2-518fe1af1e2b#ref=rss)
+### grünen
+
+* [https://www.spiegel.de/politik/deutschland/stephan-weil-spd-ministerpraesident-ueber-die-verhandlungen-mit-union-und-gruenen](https://www.spiegel.de/politik/deutschland/stephan-weil-spd-ministerpraesident-ueber-die-verhandlungen-mit-union-und-gruenen-a-7678a740-1b5a-4126-baa2-518fe1af1e2b#ref=rss)
+### nordsee
+
+* [https://www.spiegel.de/panorama/schiffsunglueck-in-der-nordsee-russischer-kapitaen-wegen-verdachts-auf-fahrlaessige-toetung-festgenommen](https://www.spiegel.de/panorama/schiffsunglueck-in-der-nordsee-russischer-kapitaen-wegen-verdachts-auf-fahrlaessige-toetung-festgenommen-a-6c3b2441-a8c3-4b40-9113-9f29e54f6ed8#ref=rss)
+### kapitän
+
+* [https://www.spiegel.de/panorama/schiffsunglueck-in-der-nordsee-russischer-kapitaen-wegen-verdachts-auf-fahrlaessige-toetung-festgenommen](https://www.spiegel.de/panorama/schiffsunglueck-in-der-nordsee-russischer-kapitaen-wegen-verdachts-auf-fahrlaessige-toetung-festgenommen-a-6c3b2441-a8c3-4b40-9113-9f29e54f6ed8#ref=rss)
+### 35
+
+* [https://www.spiegel.de/panorama/schiffsunglueck-in-der-nordsee-russischer-kapitaen-wegen-verdachts-auf-fahrlaessige-toetung-festgenommen](https://www.spiegel.de/panorama/schiffsunglueck-in-der-nordsee-russischer-kapitaen-wegen-verdachts-auf-fahrlaessige-toetung-festgenommen-a-6c3b2441-a8c3-4b40-9113-9f29e54f6ed8#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/f-35-koennten-die-usa-den-luftwaffen-kampfjet-aus-der-ferne-stilllegen](https://www.spiegel.de/wissenschaft/technik/f-35-koennten-die-usa-den-luftwaffen-kampfjet-aus-der-ferne-stilllegen-a-925ceef0-7793-46ca-a227-19a4a59bbe0c#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/panorama/schiffsunglueck-in-der-nordsee-russischer-kapitaen-wegen-verdachts-auf-fahrlaessige-toetung-festgenommen](https://www.spiegel.de/panorama/schiffsunglueck-in-der-nordsee-russischer-kapitaen-wegen-verdachts-auf-fahrlaessige-toetung-festgenommen-a-6c3b2441-a8c3-4b40-9113-9f29e54f6ed8#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/kabel-tv-vodafone-geht-angeblich-verstaerkt-gegen-schwarzseher-vor](https://www.spiegel.de/netzwelt/web/kabel-tv-vodafone-geht-angeblich-verstaerkt-gegen-schwarzseher-vor-a-924c001b-fbf4-4aaa-a0a4-c3ebd9df6313#ref=rss)
+### bundestag
+
+* [https://www.spiegel.de/politik/deutschland/afd-ausschluss-beim-fc-bundestag-die-frage-ist-ob-du-mit-nazis-nackt-unter-der-dusche-stehen-willst](https://www.spiegel.de/politik/deutschland/afd-ausschluss-beim-fc-bundestag-die-frage-ist-ob-du-mit-nazis-nackt-unter-der-dusche-stehen-willst-a-b062c536-e31f-43dd-8789-534879130cf8#ref=rss)
+### frage
+
+* [https://www.spiegel.de/politik/deutschland/afd-ausschluss-beim-fc-bundestag-die-frage-ist-ob-du-mit-nazis-nackt-unter-der-dusche-stehen-willst](https://www.spiegel.de/politik/deutschland/afd-ausschluss-beim-fc-bundestag-die-frage-ist-ob-du-mit-nazis-nackt-unter-der-dusche-stehen-willst-a-b062c536-e31f-43dd-8789-534879130cf8#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-bayer-leverkusen-vs-fc-bayern-sind-die-bayern-wirklich-reif-fuer-den-titel](https://www.spiegel.de/sport/fussball/champions-league-bayer-leverkusen-vs-fc-bayern-sind-die-bayern-wirklich-reif-fuer-den-titel-a-1d8971bd-85fd-42d3-98a5-f7a69394d534#ref=rss)
+### ökonomen
+
+* [https://www.spiegel.de/wirtschaft/grosse-mehrheit-der-oekonomen-fuer-neue-ruestungsschulden](https://www.spiegel.de/wirtschaft/grosse-mehrheit-der-oekonomen-fuer-neue-ruestungsschulden-a-3a309876-1b65-44d2-b273-ccc58e988cfe#ref=rss)
+### schulden
+
+* [https://www.spiegel.de/wirtschaft/grosse-mehrheit-der-oekonomen-fuer-neue-ruestungsschulden](https://www.spiegel.de/wirtschaft/grosse-mehrheit-der-oekonomen-fuer-neue-ruestungsschulden-a-3a309876-1b65-44d2-b273-ccc58e988cfe#ref=rss)
+### deutschlands
+
+* [https://www.spiegel.de/wirtschaft/grosse-mehrheit-der-oekonomen-fuer-neue-ruestungsschulden](https://www.spiegel.de/wirtschaft/grosse-mehrheit-der-oekonomen-fuer-neue-ruestungsschulden-a-3a309876-1b65-44d2-b273-ccc58e988cfe#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-bayer-leverkusen-vs-fc-bayern-sind-die-bayern-wirklich-reif-fuer-den-titel](https://www.spiegel.de/sport/fussball/champions-league-bayer-leverkusen-vs-fc-bayern-sind-die-bayern-wirklich-reif-fuer-den-titel-a-1d8971bd-85fd-42d3-98a5-f7a69394d534#ref=rss)
+### verwalten
+
+* [https://www.spiegel.de/start/fuehrungskraefte-verwalten-oft-nur-muss-das-die-einzige-form-von-karriere-sein](https://www.spiegel.de/start/fuehrungskraefte-verwalten-oft-nur-muss-das-die-einzige-form-von-karriere-sein-a-637a43e8-36b5-415a-bdbb-b9c1438af580#ref=rss)
+### oft
+
+* [https://www.spiegel.de/start/fuehrungskraefte-verwalten-oft-nur-muss-das-die-einzige-form-von-karriere-sein](https://www.spiegel.de/start/fuehrungskraefte-verwalten-oft-nur-muss-das-die-einzige-form-von-karriere-sein-a-637a43e8-36b5-415a-bdbb-b9c1438af580#ref=rss)
+### wirklich
+
+* [https://www.spiegel.de/start/fuehrungskraefte-verwalten-oft-nur-muss-das-die-einzige-form-von-karriere-sein](https://www.spiegel.de/start/fuehrungskraefte-verwalten-oft-nur-muss-das-die-einzige-form-von-karriere-sein-a-637a43e8-36b5-415a-bdbb-b9c1438af580#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-bayer-leverkusen-vs-fc-bayern-sind-die-bayern-wirklich-reif-fuer-den-titel](https://www.spiegel.de/sport/fussball/champions-league-bayer-leverkusen-vs-fc-bayern-sind-die-bayern-wirklich-reif-fuer-den-titel-a-1d8971bd-85fd-42d3-98a5-f7a69394d534#ref=rss)
+### parlament
+
+* [https://www.spiegel.de/ausland/niederlande-parlament-lehnt-eu-verteidigungsplan-ab](https://www.spiegel.de/ausland/niederlande-parlament-lehnt-eu-verteidigungsplan-ab-a-33061967-1139-40c8-a3c8-ce687f241310#ref=rss)
+### arbeitgeber
+
+* [https://www.spiegel.de/wirtschaft/oeffentlicher-dienst-die-masslosigkeit-der-ver-di-bosse](https://www.spiegel.de/wirtschaft/oeffentlicher-dienst-die-masslosigkeit-der-ver-di-bosse-a-ffeeb237-ab69-4fda-9893-cd4db3a25118#ref=rss)
+* [https://www.spiegel.de/karriere/betriebsbedingte-kuendigung-was-arbeitnehmer-wissen-muessen](https://www.spiegel.de/karriere/betriebsbedingte-kuendigung-was-arbeitnehmer-wissen-muessen-a-1a4a27eb-c3a6-4b50-8435-12ce7f30facb#ref=rss)
+### diesem
+
+* [https://www.spiegel.de/wirtschaft/oeffentlicher-dienst-die-masslosigkeit-der-ver-di-bosse](https://www.spiegel.de/wirtschaft/oeffentlicher-dienst-die-masslosigkeit-der-ver-di-bosse-a-ffeeb237-ab69-4fda-9893-cd4db3a25118#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/bayern-prueft-deutsch-kenntnisse-bei-kindern](https://www.spiegel.de/panorama/bildung/bayern-prueft-deutsch-kenntnisse-bei-kindern-a-eccf27f5-996c-4aed-8d11-a902f92e9b7f#ref=rss)
+### fall
+
+* [https://www.spiegel.de/wirtschaft/oeffentlicher-dienst-die-masslosigkeit-der-ver-di-bosse](https://www.spiegel.de/wirtschaft/oeffentlicher-dienst-die-masslosigkeit-der-ver-di-bosse-a-ffeeb237-ab69-4fda-9893-cd4db3a25118#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/f-35-koennten-die-usa-den-luftwaffen-kampfjet-aus-der-ferne-stilllegen](https://www.spiegel.de/wissenschaft/technik/f-35-koennten-die-usa-den-luftwaffen-kampfjet-aus-der-ferne-stilllegen-a-925ceef0-7793-46ca-a227-19a4a59bbe0c#ref=rss)
+### weit
+
+* [https://www.spiegel.de/wirtschaft/oeffentlicher-dienst-die-masslosigkeit-der-ver-di-bosse](https://www.spiegel.de/wirtschaft/oeffentlicher-dienst-die-masslosigkeit-der-ver-di-bosse-a-ffeeb237-ab69-4fda-9893-cd4db3a25118#ref=rss)
+* [https://www.spiegel.de/karriere/betriebsbedingte-kuendigung-was-arbeitnehmer-wissen-muessen](https://www.spiegel.de/karriere/betriebsbedingte-kuendigung-was-arbeitnehmer-wissen-muessen-a-1a4a27eb-c3a6-4b50-8435-12ce7f30facb#ref=rss)
+### vodafone
+
+* [https://www.spiegel.de/netzwelt/web/kabel-tv-vodafone-geht-angeblich-verstaerkt-gegen-schwarzseher-vor](https://www.spiegel.de/netzwelt/web/kabel-tv-vodafone-geht-angeblich-verstaerkt-gegen-schwarzseher-vor-a-924c001b-fbf4-4aaa-a0a4-c3ebd9df6313#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/netzwelt/web/kabel-tv-vodafone-geht-angeblich-verstaerkt-gegen-schwarzseher-vor](https://www.spiegel.de/netzwelt/web/kabel-tv-vodafone-geht-angeblich-verstaerkt-gegen-schwarzseher-vor-a-924c001b-fbf4-4aaa-a0a4-c3ebd9df6313#ref=rss)
+* [https://www.spiegel.de/wirtschaft/northvolt-stellt-insolvenzantrag-in-schweden](https://www.spiegel.de/wirtschaft/northvolt-stellt-insolvenzantrag-in-schweden-a-e5457762-a7a4-48b4-8c10-e829dadf6d68#ref=rss)
+### bruce
+
+* [https://www.spiegel.de/panorama/leute/bruce-willis-emma-heming-willis-fordert-unterstuetzung-fuer-pflegende-angehoerige](https://www.spiegel.de/panorama/leute/bruce-willis-emma-heming-willis-fordert-unterstuetzung-fuer-pflegende-angehoerige-a-285a0873-397d-4f95-8718-1e6271e76843#ref=rss)
+### emma
+
+* [https://www.spiegel.de/panorama/leute/bruce-willis-emma-heming-willis-fordert-unterstuetzung-fuer-pflegende-angehoerige](https://www.spiegel.de/panorama/leute/bruce-willis-emma-heming-willis-fordert-unterstuetzung-fuer-pflegende-angehoerige-a-285a0873-397d-4f95-8718-1e6271e76843#ref=rss)
+### heming
+
+* [https://www.spiegel.de/panorama/leute/bruce-willis-emma-heming-willis-fordert-unterstuetzung-fuer-pflegende-angehoerige](https://www.spiegel.de/panorama/leute/bruce-willis-emma-heming-willis-fordert-unterstuetzung-fuer-pflegende-angehoerige-a-285a0873-397d-4f95-8718-1e6271e76843#ref=rss)
+### münchen
+
+* [https://www.spiegel.de/panorama/justiz/polizei-durchsucht-auslaenderbehoerde-in-muenchen-mehrere-festnahmen](https://www.spiegel.de/panorama/justiz/polizei-durchsucht-auslaenderbehoerde-in-muenchen-mehrere-festnahmen-a-5648259b-5b1e-47f5-b2ee-542d14005b9d#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/justiz/polizei-durchsucht-auslaenderbehoerde-in-muenchen-mehrere-festnahmen](https://www.spiegel.de/panorama/justiz/polizei-durchsucht-auslaenderbehoerde-in-muenchen-mehrere-festnahmen-a-5648259b-5b1e-47f5-b2ee-542d14005b9d#ref=rss)
+### durchsucht
+
+* [https://www.spiegel.de/panorama/justiz/polizei-durchsucht-auslaenderbehoerde-in-muenchen-mehrere-festnahmen](https://www.spiegel.de/panorama/justiz/polizei-durchsucht-auslaenderbehoerde-in-muenchen-mehrere-festnahmen-a-5648259b-5b1e-47f5-b2ee-542d14005b9d#ref=rss)
+### ausländerbehörde
+
+* [https://www.spiegel.de/panorama/justiz/polizei-durchsucht-auslaenderbehoerde-in-muenchen-mehrere-festnahmen](https://www.spiegel.de/panorama/justiz/polizei-durchsucht-auslaenderbehoerde-in-muenchen-mehrere-festnahmen-a-5648259b-5b1e-47f5-b2ee-542d14005b9d#ref=rss)
+### f35
+
+* [https://www.spiegel.de/wissenschaft/technik/f-35-koennten-die-usa-den-luftwaffen-kampfjet-aus-der-ferne-stilllegen](https://www.spiegel.de/wissenschaft/technik/f-35-koennten-die-usa-den-luftwaffen-kampfjet-aus-der-ferne-stilllegen-a-925ceef0-7793-46ca-a227-19a4a59bbe0c#ref=rss)
+### leverkusen
+
+* [https://www.spiegel.de/sport/fussball/champions-league-bayer-leverkusen-vs-fc-bayern-sind-die-bayern-wirklich-reif-fuer-den-titel](https://www.spiegel.de/sport/fussball/champions-league-bayer-leverkusen-vs-fc-bayern-sind-die-bayern-wirklich-reif-fuer-den-titel-a-1d8971bd-85fd-42d3-98a5-f7a69394d534#ref=rss)
+### bald
+
+* [https://www.spiegel.de/panorama/bildung/geburtsraten-an-den-grundschulen-ist-bald-mehr-platz-im-klassenzimmer](https://www.spiegel.de/panorama/bildung/geburtsraten-an-den-grundschulen-ist-bald-mehr-platz-im-klassenzimmer-a-1e7e2952-8689-4bf5-9906-8a84f02c3dcc#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/panorama/bildung/geburtsraten-an-den-grundschulen-ist-bald-mehr-platz-im-klassenzimmer](https://www.spiegel.de/panorama/bildung/geburtsraten-an-den-grundschulen-ist-bald-mehr-platz-im-klassenzimmer-a-1e7e2952-8689-4bf5-9906-8a84f02c3dcc#ref=rss)
+* [https://www.spiegel.de/ausland/pakistan-155-geiseln-aus-gekapertem-zug-befreit](https://www.spiegel.de/ausland/pakistan-155-geiseln-aus-gekapertem-zug-befreit-a-fb207411-9cd1-45a8-b01c-f9684ada6eb6#ref=rss)
+### abschiebungen
+
+* [https://www.spiegel.de/ausland/eu-schlaegt-haertere-regelungen-fuer-abschiebungen-vor](https://www.spiegel.de/ausland/eu-schlaegt-haertere-regelungen-fuer-abschiebungen-vor-a-ac8bdeea-95f3-4ba0-961d-b4ded9b8cf41#ref=rss)
+### northvolt
+
+* [https://www.spiegel.de/wirtschaft/northvolt-stellt-insolvenzantrag-in-schweden](https://www.spiegel.de/wirtschaft/northvolt-stellt-insolvenzantrag-in-schweden-a-e5457762-a7a4-48b4-8c10-e829dadf6d68#ref=rss)
+### batteriehersteller
+
+* [https://www.spiegel.de/wirtschaft/northvolt-stellt-insolvenzantrag-in-schweden](https://www.spiegel.de/wirtschaft/northvolt-stellt-insolvenzantrag-in-schweden-a-e5457762-a7a4-48b4-8c10-e829dadf6d68#ref=rss)
+### frau
+
+* [https://www.spiegel.de/panorama/frankreich-frau-bringt-kind-in-fernzug-zur-welt](https://www.spiegel.de/panorama/frankreich-frau-bringt-kind-in-fernzug-zur-welt-a-8f48eb23-ed9c-4fac-be72-c0a3c8d174f4#ref=rss)
+### welt
+
+* [https://www.spiegel.de/panorama/frankreich-frau-bringt-kind-in-fernzug-zur-welt](https://www.spiegel.de/panorama/frankreich-frau-bringt-kind-in-fernzug-zur-welt-a-8f48eb23-ed9c-4fac-be72-c0a3c8d174f4#ref=rss)
+### porsche
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/porsche-gewinn-bricht-um-30-prozent-ein](https://www.spiegel.de/wirtschaft/unternehmen/porsche-gewinn-bricht-um-30-prozent-ein-a-286d8ad3-f489-4651-8dab-4ef6ce5f6fab#ref=rss)
+### geiseln
+
+* [https://www.spiegel.de/ausland/pakistan-155-geiseln-aus-gekapertem-zug-befreit](https://www.spiegel.de/ausland/pakistan-155-geiseln-aus-gekapertem-zug-befreit-a-fb207411-9cd1-45a8-b01c-f9684ada6eb6#ref=rss)
+### zug
+
+* [https://www.spiegel.de/ausland/pakistan-155-geiseln-aus-gekapertem-zug-befreit](https://www.spiegel.de/ausland/pakistan-155-geiseln-aus-gekapertem-zug-befreit-a-fb207411-9cd1-45a8-b01c-f9684ada6eb6#ref=rss)
+### belutschistan
+
+* [https://www.spiegel.de/ausland/pakistan-155-geiseln-aus-gekapertem-zug-befreit](https://www.spiegel.de/ausland/pakistan-155-geiseln-aus-gekapertem-zug-befreit-a-fb207411-9cd1-45a8-b01c-f9684ada6eb6#ref=rss)
+### mein
+
+* [https://www.spiegel.de/reise/europa/mein-schiff-relax-vor-der-taufe-ein-kleines-bisschen-glamour-und-nix-neues-im-tank](https://www.spiegel.de/reise/europa/mein-schiff-relax-vor-der-taufe-ein-kleines-bisschen-glamour-und-nix-neues-im-tank-a-ddcc6853-40fe-45c7-bf19-4ef0748add00#ref=rss)
+### schiff
+
+* [https://www.spiegel.de/reise/europa/mein-schiff-relax-vor-der-taufe-ein-kleines-bisschen-glamour-und-nix-neues-im-tank](https://www.spiegel.de/reise/europa/mein-schiff-relax-vor-der-taufe-ein-kleines-bisschen-glamour-und-nix-neues-im-tank-a-ddcc6853-40fe-45c7-bf19-4ef0748add00#ref=rss)
+### relax
+
+* [https://www.spiegel.de/reise/europa/mein-schiff-relax-vor-der-taufe-ein-kleines-bisschen-glamour-und-nix-neues-im-tank](https://www.spiegel.de/reise/europa/mein-schiff-relax-vor-der-taufe-ein-kleines-bisschen-glamour-und-nix-neues-im-tank-a-ddcc6853-40fe-45c7-bf19-4ef0748add00#ref=rss)
+### betriebsbedingte
+
+* [https://www.spiegel.de/karriere/betriebsbedingte-kuendigung-was-arbeitnehmer-wissen-muessen](https://www.spiegel.de/karriere/betriebsbedingte-kuendigung-was-arbeitnehmer-wissen-muessen-a-1a4a27eb-c3a6-4b50-8435-12ce7f30facb#ref=rss)
 
