@@ -4,378 +4,424 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### trump
+### spd
 
-* [https://www.spiegel.de/wirtschaft/gold-rallye-unsicherheit-durch-us-zollpolitik-treibt-goldpreis-auf-3000-dollar](https://www.spiegel.de/wirtschaft/gold-rallye-unsicherheit-durch-us-zollpolitik-treibt-goldpreis-auf-3000-dollar-a-fec8e554-196e-455f-9c7b-1f25c198ab8e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/christine-lagarde-ezb-praesidentin-sieht-globalen-handelskrieg-als-gefahr-fuer-die-usa](https://www.spiegel.de/wirtschaft/christine-lagarde-ezb-praesidentin-sieht-globalen-handelskrieg-als-gefahr-fuer-die-usa-a-816b5333-3f66-4f11-8d86-ffdacda9e767#ref=rss)
-* [https://www.spiegel.de/ausland/trump-und-israel-pruefen-umsiedlung-von-palaestinensern-nach-somalia](https://www.spiegel.de/ausland/trump-und-israel-pruefen-umsiedlung-von-palaestinensern-nach-somalia-a-8d191e0f-cc9e-4bcf-be8b-ca9d11f8b4e6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/joschka-fischer-glaubt-dass-donald-trump-scheitert](https://www.spiegel.de/politik/deutschland/joschka-fischer-glaubt-dass-donald-trump-scheitert-a-fec43d8c-571e-48f2-b447-20ee79ce6776#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/autobranche-in-der-krise-bmw-gewinn-bricht-um-37-prozent-ein](https://www.spiegel.de/wirtschaft/unternehmen/autobranche-in-der-krise-bmw-gewinn-bricht-um-37-prozent-ein-a-24ef3094-ad4d-4a83-9845-3f3ba001af80#ref=rss)
-* [https://www.spiegel.de/panorama/leute/j-d-vance-bei-besuch-von-konzert-im-kennedy-center-ausgebuht](https://www.spiegel.de/panorama/leute/j-d-vance-bei-besuch-von-konzert-im-kennedy-center-ausgebuht-a-b0a8cad4-79f4-48db-a5f6-7aaa21188319#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-laesst-pentagon-plaene-zur-rueckgewinnung-des-panamakanals-vorbereiten](https://www.spiegel.de/ausland/donald-trump-laesst-pentagon-plaene-zur-rueckgewinnung-des-panamakanals-vorbereiten-a-aff74b00-da13-46f1-a7e2-2036922c499f#ref=rss)
-### donald
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-geldanlage-gold-erben-neue-schulden](https://www.spiegel.de/politik/deutschland/news-des-tages-geldanlage-gold-erben-neue-schulden-a-e15eb0de-8171-4f3f-b55c-0f6118b30120#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/schwarz-rot-gruene-einigung-kompromiss-in-letzter-minute](https://www.spiegel.de/politik/deutschland/schwarz-rot-gruene-einigung-kompromiss-in-letzter-minute-a-3c4ced33-38c4-42ca-903a-1655338e4409#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/einigung-zwischen-union-spd-und-gruenen-das-ist-ein-historisches-signal](https://www.spiegel.de/politik/deutschland/einigung-zwischen-union-spd-und-gruenen-das-ist-ein-historisches-signal-a-8a1f646a-02ab-4af8-8cfc-94cb81512f40#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestag-einigung-von-spd-union-und-gruenen-zu-schuldenbremse-so-fallen-die-reaktionen-aus](https://www.spiegel.de/politik/deutschland/bundestag-einigung-von-spd-union-und-gruenen-zu-schuldenbremse-so-fallen-die-reaktionen-aus-a-71560d04-d12d-4419-80fa-0de628694105#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/schwarz-rote-finanzplaene-spd-kommentiert-einigung-im-schuldenpaket](https://www.spiegel.de/politik/deutschland/schwarz-rote-finanzplaene-spd-kommentiert-einigung-im-schuldenpaket-a-ac381ca7-3736-4e26-a7c2-267b423f917b#ref=rss)
+### union
 
-* [https://www.spiegel.de/wirtschaft/gold-rallye-unsicherheit-durch-us-zollpolitik-treibt-goldpreis-auf-3000-dollar](https://www.spiegel.de/wirtschaft/gold-rallye-unsicherheit-durch-us-zollpolitik-treibt-goldpreis-auf-3000-dollar-a-fec8e554-196e-455f-9c7b-1f25c198ab8e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/christine-lagarde-ezb-praesidentin-sieht-globalen-handelskrieg-als-gefahr-fuer-die-usa](https://www.spiegel.de/wirtschaft/christine-lagarde-ezb-praesidentin-sieht-globalen-handelskrieg-als-gefahr-fuer-die-usa-a-816b5333-3f66-4f11-8d86-ffdacda9e767#ref=rss)
-* [https://www.spiegel.de/ausland/trump-und-israel-pruefen-umsiedlung-von-palaestinensern-nach-somalia](https://www.spiegel.de/ausland/trump-und-israel-pruefen-umsiedlung-von-palaestinensern-nach-somalia-a-8d191e0f-cc9e-4bcf-be8b-ca9d11f8b4e6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/joschka-fischer-glaubt-dass-donald-trump-scheitert](https://www.spiegel.de/politik/deutschland/joschka-fischer-glaubt-dass-donald-trump-scheitert-a-fec43d8c-571e-48f2-b447-20ee79ce6776#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/autobranche-in-der-krise-bmw-gewinn-bricht-um-37-prozent-ein](https://www.spiegel.de/wirtschaft/unternehmen/autobranche-in-der-krise-bmw-gewinn-bricht-um-37-prozent-ein-a-24ef3094-ad4d-4a83-9845-3f3ba001af80#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-laesst-pentagon-plaene-zur-rueckgewinnung-des-panamakanals-vorbereiten](https://www.spiegel.de/ausland/donald-trump-laesst-pentagon-plaene-zur-rueckgewinnung-des-panamakanals-vorbereiten-a-aff74b00-da13-46f1-a7e2-2036922c499f#ref=rss)
-### laut
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-geldanlage-gold-erben-neue-schulden](https://www.spiegel.de/politik/deutschland/news-des-tages-geldanlage-gold-erben-neue-schulden-a-e15eb0de-8171-4f3f-b55c-0f6118b30120#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/schwarz-rot-gruene-einigung-kompromiss-in-letzter-minute](https://www.spiegel.de/politik/deutschland/schwarz-rot-gruene-einigung-kompromiss-in-letzter-minute-a-3c4ced33-38c4-42ca-903a-1655338e4409#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/einigung-zwischen-union-spd-und-gruenen-das-ist-ein-historisches-signal](https://www.spiegel.de/politik/deutschland/einigung-zwischen-union-spd-und-gruenen-das-ist-ein-historisches-signal-a-8a1f646a-02ab-4af8-8cfc-94cb81512f40#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestag-einigung-von-spd-union-und-gruenen-zu-schuldenbremse-so-fallen-die-reaktionen-aus](https://www.spiegel.de/politik/deutschland/bundestag-einigung-von-spd-union-und-gruenen-zu-schuldenbremse-so-fallen-die-reaktionen-aus-a-71560d04-d12d-4419-80fa-0de628694105#ref=rss)
+### einigung
 
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-bsw-verfehlt-laut-endgueltigem-ergebnis-fuenfprozenthuerde](https://www.spiegel.de/politik/deutschland/bundestagswahl-bsw-verfehlt-laut-endgueltigem-ergebnis-fuenfprozenthuerde-a-2548ec7f-370e-40cc-bada-8f969cabe0b9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/christine-lagarde-ezb-praesidentin-sieht-globalen-handelskrieg-als-gefahr-fuer-die-usa](https://www.spiegel.de/wirtschaft/christine-lagarde-ezb-praesidentin-sieht-globalen-handelskrieg-als-gefahr-fuer-die-usa-a-816b5333-3f66-4f11-8d86-ffdacda9e767#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/ukraine-krieg-die-toxischen-langzeitfolgen-des-kachowka-dammbruchs](https://www.spiegel.de/wissenschaft/natur/ukraine-krieg-die-toxischen-langzeitfolgen-des-kachowka-dammbruchs-a-ef3d143a-8706-4ab4-93c5-8209b26c9160#ref=rss)
-* [https://www.spiegel.de/wissenschaft/ukraine-zerstoerung-des-kachowka-staudamms-legte-laut-studie-giftige-schwermetalle-frei](https://www.spiegel.de/wissenschaft/ukraine-zerstoerung-des-kachowka-staudamms-legte-laut-studie-giftige-schwermetalle-frei-a-28c9a0ab-33b1-4849-b757-d6466436f361#ref=rss)
-### europa
+* [https://www.spiegel.de/politik/deutschland/schwarz-rot-gruene-einigung-kompromiss-in-letzter-minute](https://www.spiegel.de/politik/deutschland/schwarz-rot-gruene-einigung-kompromiss-in-letzter-minute-a-3c4ced33-38c4-42ca-903a-1655338e4409#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/einigung-zwischen-union-spd-und-gruenen-das-ist-ein-historisches-signal](https://www.spiegel.de/politik/deutschland/einigung-zwischen-union-spd-und-gruenen-das-ist-ein-historisches-signal-a-8a1f646a-02ab-4af8-8cfc-94cb81512f40#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestag-einigung-von-spd-union-und-gruenen-zu-schuldenbremse-so-fallen-die-reaktionen-aus](https://www.spiegel.de/politik/deutschland/bundestag-einigung-von-spd-union-und-gruenen-zu-schuldenbremse-so-fallen-die-reaktionen-aus-a-71560d04-d12d-4419-80fa-0de628694105#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/einigung-auf-grundgesetzaenderung-regieren-fuer-anfaenger-kommentar](https://www.spiegel.de/politik/deutschland/einigung-auf-grundgesetzaenderung-regieren-fuer-anfaenger-kommentar-a-26bb2c37-ae42-4ea8-b072-7206db16f5de#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/schwarz-rote-finanzplaene-spd-kommentiert-einigung-im-schuldenpaket](https://www.spiegel.de/politik/deutschland/schwarz-rote-finanzplaene-spd-kommentiert-einigung-im-schuldenpaket-a-ac381ca7-3736-4e26-a7c2-267b423f917b#ref=rss)
+### grünen
 
-* [https://www.spiegel.de/wirtschaft/christine-lagarde-ezb-praesidentin-sieht-globalen-handelskrieg-als-gefahr-fuer-die-usa](https://www.spiegel.de/wirtschaft/christine-lagarde-ezb-praesidentin-sieht-globalen-handelskrieg-als-gefahr-fuer-die-usa-a-816b5333-3f66-4f11-8d86-ffdacda9e767#ref=rss)
-* [https://www.spiegel.de/ausland/schriftsteller-steffen-kopetzky-europa-muss-wieder-eine-grossmacht-werden](https://www.spiegel.de/ausland/schriftsteller-steffen-kopetzky-europa-muss-wieder-eine-grossmacht-werden-a-74c3d008-3ec2-413a-be9c-3f8a593bdc86#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/joschka-fischer-glaubt-dass-donald-trump-scheitert](https://www.spiegel.de/politik/deutschland/joschka-fischer-glaubt-dass-donald-trump-scheitert-a-fec43d8c-571e-48f2-b447-20ee79ce6776#ref=rss)
-* [https://www.spiegel.de/sport/fussball/europa-league-trainer-von-as-rom-macht-mats-hummels-keine-vorwuerfe-nach-platzverweis](https://www.spiegel.de/sport/fussball/europa-league-trainer-von-as-rom-macht-mats-hummels-keine-vorwuerfe-nach-platzverweis-a-e2967827-4de1-4b8e-a1c1-464ee41722f2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-geldanlage-gold-erben-neue-schulden](https://www.spiegel.de/politik/deutschland/news-des-tages-geldanlage-gold-erben-neue-schulden-a-e15eb0de-8171-4f3f-b55c-0f6118b30120#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/einigung-zwischen-union-spd-und-gruenen-das-ist-ein-historisches-signal](https://www.spiegel.de/politik/deutschland/einigung-zwischen-union-spd-und-gruenen-das-ist-ein-historisches-signal-a-8a1f646a-02ab-4af8-8cfc-94cb81512f40#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestag-einigung-von-spd-union-und-gruenen-zu-schuldenbremse-so-fallen-die-reaktionen-aus](https://www.spiegel.de/politik/deutschland/bundestag-einigung-von-spd-union-und-gruenen-zu-schuldenbremse-so-fallen-die-reaktionen-aus-a-71560d04-d12d-4419-80fa-0de628694105#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/einigung-auf-grundgesetzaenderung-regieren-fuer-anfaenger-kommentar](https://www.spiegel.de/politik/deutschland/einigung-auf-grundgesetzaenderung-regieren-fuer-anfaenger-kommentar-a-26bb2c37-ae42-4ea8-b072-7206db16f5de#ref=rss)
 ### deutschen
 
-* [https://www.spiegel.de/panorama/kreta-bergsteiger-finden-leiche-von-20-jaehrigem-deutschen](https://www.spiegel.de/panorama/kreta-bergsteiger-finden-leiche-von-20-jaehrigem-deutschen-a-24be9fee-1ba9-4519-94bd-f6099e6326ab#ref=rss)
-* [https://www.spiegel.de/ausland/schriftsteller-steffen-kopetzky-europa-muss-wieder-eine-grossmacht-werden](https://www.spiegel.de/ausland/schriftsteller-steffen-kopetzky-europa-muss-wieder-eine-grossmacht-werden-a-74c3d008-3ec2-413a-be9c-3f8a593bdc86#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/skandal-im-skispringen-dsv-trainer-stefan-horngacher-hat-nichts-zu-verbergen](https://www.spiegel.de/sport/wintersport/skandal-im-skispringen-dsv-trainer-stefan-horngacher-hat-nichts-zu-verbergen-a-a3e5148e-eb8d-4eb1-8eec-ee3988218cb1#ref=rss)
-* [https://www.spiegel.de/sport/fussball/europa-league-trainer-von-as-rom-macht-mats-hummels-keine-vorwuerfe-nach-platzverweis](https://www.spiegel.de/sport/fussball/europa-league-trainer-von-as-rom-macht-mats-hummels-keine-vorwuerfe-nach-platzverweis-a-e2967827-4de1-4b8e-a1c1-464ee41722f2#ref=rss)
-### sieht
+* [https://www.spiegel.de/wissenschaft/lothar-wieler-haelt-labor-ursprung-von-sars-cov-2-fuer-die-wahrscheinlichere-these](https://www.spiegel.de/wissenschaft/lothar-wieler-haelt-labor-ursprung-von-sars-cov-2-fuer-die-wahrscheinlichere-these-a-1e2bcf76-2bfa-4fb4-b3bb-a9a0ed6ac606#ref=rss)
+* [https://www.spiegel.de/kultur/musik/lady-gaga-ist-nach-14-jahren-wieder-die-nr-1-in-den-deutschen-charts](https://www.spiegel.de/kultur/musik/lady-gaga-ist-nach-14-jahren-wieder-die-nr-1-in-den-deutschen-charts-a-2f3a9c55-0636-42a8-8767-86033a22057c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/klimakrise-peruanischer-bauer-verklagt-deutschen-energiekonzern-auf-entschaedigung](https://www.spiegel.de/wissenschaft/mensch/klimakrise-peruanischer-bauer-verklagt-deutschen-energiekonzern-auf-entschaedigung-a-f43b59b2-3575-483a-9544-17bedb17d0a3#ref=rss)
+### bundestag
 
-* [https://www.spiegel.de/wirtschaft/christine-lagarde-ezb-praesidentin-sieht-globalen-handelskrieg-als-gefahr-fuer-die-usa](https://www.spiegel.de/wirtschaft/christine-lagarde-ezb-praesidentin-sieht-globalen-handelskrieg-als-gefahr-fuer-die-usa-a-816b5333-3f66-4f11-8d86-ffdacda9e767#ref=rss)
-* [https://www.spiegel.de/ausland/schriftsteller-steffen-kopetzky-europa-muss-wieder-eine-grossmacht-werden](https://www.spiegel.de/ausland/schriftsteller-steffen-kopetzky-europa-muss-wieder-eine-grossmacht-werden-a-74c3d008-3ec2-413a-be9c-3f8a593bdc86#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-saison-2025-teams-fahrer-und-rennkalender](https://www.spiegel.de/sport/formel1/formel-1-saison-2025-teams-fahrer-und-rennkalender-a-1e49b6bd-d862-498e-9b6d-716bbfa00330#ref=rss)
-### parlament
+* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-weist-eilantrag-gegen-einberufung-des-alten-bundestages-zurueck](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-weist-eilantrag-gegen-einberufung-des-alten-bundestages-zurueck-a-f3d075db-5da7-4ca9-a9d1-7af050d9ae7f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bsw-aus-im-bundestag-knapp-daneben-ist-auch-vorbei](https://www.spiegel.de/politik/deutschland/bsw-aus-im-bundestag-knapp-daneben-ist-auch-vorbei-a-9f0b07d9-273a-45d8-898e-d33f55484395#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestag-einigung-von-spd-union-und-gruenen-zu-schuldenbremse-so-fallen-die-reaktionen-aus](https://www.spiegel.de/politik/deutschland/bundestag-einigung-von-spd-union-und-gruenen-zu-schuldenbremse-so-fallen-die-reaktionen-aus-a-71560d04-d12d-4419-80fa-0de628694105#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/einigung-auf-grundgesetzaenderung-regieren-fuer-anfaenger-kommentar](https://www.spiegel.de/politik/deutschland/einigung-auf-grundgesetzaenderung-regieren-fuer-anfaenger-kommentar-a-26bb2c37-ae42-4ea8-b072-7206db16f5de#ref=rss)
+### kinder
 
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-bsw-verfehlt-laut-endgueltigem-ergebnis-fuenfprozenthuerde](https://www.spiegel.de/politik/deutschland/bundestagswahl-bsw-verfehlt-laut-endgueltigem-ergebnis-fuenfprozenthuerde-a-2548ec7f-370e-40cc-bada-8f969cabe0b9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bnd-bericht-zu-corona-ursprung-parlament-fordert-regierung-auf-untersuchung-oeffentlich-zu-machen](https://www.spiegel.de/politik/deutschland/bnd-bericht-zu-corona-ursprung-parlament-fordert-regierung-auf-untersuchung-oeffentlich-zu-machen-a-45a9f4da-cf72-47e7-807e-2af0905fd3fd#ref=rss)
-### offenbar
+* [https://www.spiegel.de/panorama/bildung/corona-schliessung-von-schulen-und-kitas-in-der-pandemie-kinder-und-jugendliche-zuletzt](https://www.spiegel.de/panorama/bildung/corona-schliessung-von-schulen-und-kitas-in-der-pandemie-kinder-und-jugendliche-zuletzt-a-f5d88a38-0f76-44bc-90d3-da8519536be3#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/schliessung-von-schulen-und-kitas-in-der-corona-pandemie-kinder-und-jugendliche-zuletzt](https://www.spiegel.de/panorama/bildung/schliessung-von-schulen-und-kitas-in-der-corona-pandemie-kinder-und-jugendliche-zuletzt-a-0f6f9b92-2322-40b5-9f3f-2ab9f9c0f608#ref=rss)
+* [https://www.spiegel.de/panorama/leute/prinz-william-ist-bei-spielen-seines-lieblingsteams-aston-villa-aberglaeubisch](https://www.spiegel.de/panorama/leute/prinz-william-ist-bei-spielen-seines-lieblingsteams-aston-villa-aberglaeubisch-a-3f6c57e5-7da0-4d52-9c6f-e219d83d9971#ref=rss)
+### einige
 
-* [https://www.spiegel.de/ausland/nairobi-brite-bei-autounfall-getoetet-autofahrer-aus-praesidentenkonvoi-begeht-offenbar-fahrerflucht](https://www.spiegel.de/ausland/nairobi-brite-bei-autounfall-getoetet-autofahrer-aus-praesidentenkonvoi-begeht-offenbar-fahrerflucht-a-e9e55107-9f9e-4954-9ff7-45f6bb88310f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/usa-frau-aus-connecticut-soll-ihren-stiefsohn-20-jahre-eingesperrt-haben](https://www.spiegel.de/panorama/justiz/usa-frau-aus-connecticut-soll-ihren-stiefsohn-20-jahre-eingesperrt-haben-a-c9428f1e-d0ce-483e-aa6e-91e9cc963637#ref=rss)
-### regierung
+* [https://www.spiegel.de/kultur/kino/ayo-edebiri-spricht-ueber-todesdrohungen-nach-repost-von-elon-musk](https://www.spiegel.de/kultur/kino/ayo-edebiri-spricht-ueber-todesdrohungen-nach-repost-von-elon-musk-a-4a932e28-9611-42d1-b308-96b4a780ead1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/schwarz-rot-gruene-einigung-kompromiss-in-letzter-minute](https://www.spiegel.de/politik/deutschland/schwarz-rot-gruene-einigung-kompromiss-in-letzter-minute-a-3c4ced33-38c4-42ca-903a-1655338e4409#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestag-einigung-von-spd-union-und-gruenen-zu-schuldenbremse-so-fallen-die-reaktionen-aus](https://www.spiegel.de/politik/deutschland/bundestag-einigung-von-spd-union-und-gruenen-zu-schuldenbremse-so-fallen-die-reaktionen-aus-a-71560d04-d12d-4419-80fa-0de628694105#ref=rss)
+* [https://www.spiegel.de/auto/x-games-extremsportveranstalter-schliesst-e-motorraeder-aus](https://www.spiegel.de/auto/x-games-extremsportveranstalter-schliesst-e-motorraeder-aus-a-c17a8be0-c28d-41d4-bc1c-f0c9c7fadb81#ref=rss)
+### schulen
 
-* [https://www.spiegel.de/ausland/nairobi-brite-bei-autounfall-getoetet-autofahrer-aus-praesidentenkonvoi-begeht-offenbar-fahrerflucht](https://www.spiegel.de/ausland/nairobi-brite-bei-autounfall-getoetet-autofahrer-aus-praesidentenkonvoi-begeht-offenbar-fahrerflucht-a-e9e55107-9f9e-4954-9ff7-45f6bb88310f#ref=rss)
-* [https://www.spiegel.de/ausland/trump-und-israel-pruefen-umsiedlung-von-palaestinensern-nach-somalia](https://www.spiegel.de/ausland/trump-und-israel-pruefen-umsiedlung-von-palaestinensern-nach-somalia-a-8d191e0f-cc9e-4bcf-be8b-ca9d11f8b4e6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bnd-bericht-zu-corona-ursprung-parlament-fordert-regierung-auf-untersuchung-oeffentlich-zu-machen](https://www.spiegel.de/politik/deutschland/bnd-bericht-zu-corona-ursprung-parlament-fordert-regierung-auf-untersuchung-oeffentlich-zu-machen-a-45a9f4da-cf72-47e7-807e-2af0905fd3fd#ref=rss)
-### mehr
+* [https://www.spiegel.de/panorama/bildung/corona-schliessung-von-schulen-und-kitas-in-der-pandemie-kinder-und-jugendliche-zuletzt](https://www.spiegel.de/panorama/bildung/corona-schliessung-von-schulen-und-kitas-in-der-pandemie-kinder-und-jugendliche-zuletzt-a-f5d88a38-0f76-44bc-90d3-da8519536be3#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/schliessung-von-schulen-und-kitas-in-der-corona-pandemie-kinder-und-jugendliche-zuletzt](https://www.spiegel.de/panorama/bildung/schliessung-von-schulen-und-kitas-in-der-corona-pandemie-kinder-und-jugendliche-zuletzt-a-0f6f9b92-2322-40b5-9f3f-2ab9f9c0f608#ref=rss)
+### kitas
 
-* [https://www.spiegel.de/wirtschaft/gold-rallye-unsicherheit-durch-us-zollpolitik-treibt-goldpreis-auf-3000-dollar](https://www.spiegel.de/wirtschaft/gold-rallye-unsicherheit-durch-us-zollpolitik-treibt-goldpreis-auf-3000-dollar-a-fec8e554-196e-455f-9c7b-1f25c198ab8e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/klimapolitik-deutsche-klimaziele-2030-gefaehrdet-trotz-emissionsrueckgang](https://www.spiegel.de/wissenschaft/klimapolitik-deutsche-klimaziele-2030-gefaehrdet-trotz-emissionsrueckgang-a-da3922e0-dfc3-426d-92ce-c3f94249ada4#ref=rss)
-* [https://www.spiegel.de/panorama/australien-entruestung-ueber-wombat-video-sogar-von-anthony-albanese-us-influencerin-sam-jones-verlaesst-das-land](https://www.spiegel.de/panorama/australien-entruestung-ueber-wombat-video-sogar-von-anthony-albanese-us-influencerin-sam-jones-verlaesst-das-land-a-31363072-2b58-4c71-8992-f1ca0e3227cf#ref=rss)
-### uspräsident
+* [https://www.spiegel.de/panorama/bildung/corona-schliessung-von-schulen-und-kitas-in-der-pandemie-kinder-und-jugendliche-zuletzt](https://www.spiegel.de/panorama/bildung/corona-schliessung-von-schulen-und-kitas-in-der-pandemie-kinder-und-jugendliche-zuletzt-a-f5d88a38-0f76-44bc-90d3-da8519536be3#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/schliessung-von-schulen-und-kitas-in-der-corona-pandemie-kinder-und-jugendliche-zuletzt](https://www.spiegel.de/panorama/bildung/schliessung-von-schulen-und-kitas-in-der-corona-pandemie-kinder-und-jugendliche-zuletzt-a-0f6f9b92-2322-40b5-9f3f-2ab9f9c0f608#ref=rss)
+### jugendliche
 
-* [https://www.spiegel.de/wirtschaft/gold-rallye-unsicherheit-durch-us-zollpolitik-treibt-goldpreis-auf-3000-dollar](https://www.spiegel.de/wirtschaft/gold-rallye-unsicherheit-durch-us-zollpolitik-treibt-goldpreis-auf-3000-dollar-a-fec8e554-196e-455f-9c7b-1f25c198ab8e#ref=rss)
-* [https://www.spiegel.de/ausland/trump-und-israel-pruefen-umsiedlung-von-palaestinensern-nach-somalia](https://www.spiegel.de/ausland/trump-und-israel-pruefen-umsiedlung-von-palaestinensern-nach-somalia-a-8d191e0f-cc9e-4bcf-be8b-ca9d11f8b4e6#ref=rss)
-* [https://www.spiegel.de/panorama/leute/j-d-vance-bei-besuch-von-konzert-im-kennedy-center-ausgebuht](https://www.spiegel.de/panorama/leute/j-d-vance-bei-besuch-von-konzert-im-kennedy-center-ausgebuht-a-b0a8cad4-79f4-48db-a5f6-7aaa21188319#ref=rss)
-### usa
+* [https://www.spiegel.de/panorama/bildung/corona-schliessung-von-schulen-und-kitas-in-der-pandemie-kinder-und-jugendliche-zuletzt](https://www.spiegel.de/panorama/bildung/corona-schliessung-von-schulen-und-kitas-in-der-pandemie-kinder-und-jugendliche-zuletzt-a-f5d88a38-0f76-44bc-90d3-da8519536be3#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/schliessung-von-schulen-und-kitas-in-der-corona-pandemie-kinder-und-jugendliche-zuletzt](https://www.spiegel.de/panorama/bildung/schliessung-von-schulen-und-kitas-in-der-corona-pandemie-kinder-und-jugendliche-zuletzt-a-0f6f9b92-2322-40b5-9f3f-2ab9f9c0f608#ref=rss)
+### putin
 
-* [https://www.spiegel.de/wirtschaft/christine-lagarde-ezb-praesidentin-sieht-globalen-handelskrieg-als-gefahr-fuer-die-usa](https://www.spiegel.de/wirtschaft/christine-lagarde-ezb-praesidentin-sieht-globalen-handelskrieg-als-gefahr-fuer-die-usa-a-816b5333-3f66-4f11-8d86-ffdacda9e767#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/usa-frau-aus-connecticut-soll-ihren-stiefsohn-20-jahre-eingesperrt-haben](https://www.spiegel.de/panorama/justiz/usa-frau-aus-connecticut-soll-ihren-stiefsohn-20-jahre-eingesperrt-haben-a-c9428f1e-d0ce-483e-aa6e-91e9cc963637#ref=rss)
-### tag
+* [https://www.spiegel.de/ausland/verhandlungen-ueber-waffenruhe-russlands-verzoegerungstaktik-ukraines-skepsis](https://www.spiegel.de/ausland/verhandlungen-ueber-waffenruhe-russlands-verzoegerungstaktik-ukraines-skepsis-a-3507d2d4-6bc7-43e6-8d94-b59377cc406f#ref=rss)
+* [https://www.spiegel.de/ausland/ukrainekrieg-donald-trump-bittet-wladimir-putin-um-milde-fuer-ukrainische-soldaten](https://www.spiegel.de/ausland/ukrainekrieg-donald-trump-bittet-wladimir-putin-um-milde-fuer-ukrainische-soldaten-a-4c694fbf-6f93-4b03-a4fe-f0373991ccb8#ref=rss)
+### fünf
 
-* [https://www.spiegel.de/panorama/australien-entruestung-ueber-wombat-video-sogar-von-anthony-albanese-us-influencerin-sam-jones-verlaesst-das-land](https://www.spiegel.de/panorama/australien-entruestung-ueber-wombat-video-sogar-von-anthony-albanese-us-influencerin-sam-jones-verlaesst-das-land-a-31363072-2b58-4c71-8992-f1ca0e3227cf#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### prozent
+* [https://www.spiegel.de/politik/deutschland/schwarz-rot-gruene-einigung-kompromiss-in-letzter-minute](https://www.spiegel.de/politik/deutschland/schwarz-rot-gruene-einigung-kompromiss-in-letzter-minute-a-3c4ced33-38c4-42ca-903a-1655338e4409#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/corona-schliessung-von-schulen-und-kitas-in-der-pandemie-kinder-und-jugendliche-zuletzt](https://www.spiegel.de/panorama/bildung/corona-schliessung-von-schulen-und-kitas-in-der-pandemie-kinder-und-jugendliche-zuletzt-a-f5d88a38-0f76-44bc-90d3-da8519536be3#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/schliessung-von-schulen-und-kitas-in-der-corona-pandemie-kinder-und-jugendliche-zuletzt](https://www.spiegel.de/panorama/bildung/schliessung-von-schulen-und-kitas-in-der-corona-pandemie-kinder-und-jugendliche-zuletzt-a-0f6f9b92-2322-40b5-9f3f-2ab9f9c0f608#ref=rss)
+### schuldenbremse
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-unicredit-darf-aktienanteil-auf-29-9-prozent-erhoehen](https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-unicredit-darf-aktienanteil-auf-29-9-prozent-erhoehen-a-8cd3eb1c-8f18-4ed7-8594-1f26d1370741#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/autobranche-in-der-krise-bmw-gewinn-bricht-um-37-prozent-ein](https://www.spiegel.de/wirtschaft/unternehmen/autobranche-in-der-krise-bmw-gewinn-bricht-um-37-prozent-ein-a-24ef3094-ad4d-4a83-9845-3f3ba001af80#ref=rss)
-### bundestagswahl
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-bsw-verfehlt-laut-endgueltigem-ergebnis-fuenfprozenthuerde](https://www.spiegel.de/politik/deutschland/bundestagswahl-bsw-verfehlt-laut-endgueltigem-ergebnis-fuenfprozenthuerde-a-2548ec7f-370e-40cc-bada-8f969cabe0b9#ref=rss)
-### bsw
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-bsw-verfehlt-laut-endgueltigem-ergebnis-fuenfprozenthuerde](https://www.spiegel.de/politik/deutschland/bundestagswahl-bsw-verfehlt-laut-endgueltigem-ergebnis-fuenfprozenthuerde-a-2548ec7f-370e-40cc-bada-8f969cabe0b9#ref=rss)
-### grüne
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-bsw-verfehlt-laut-endgueltigem-ergebnis-fuenfprozenthuerde](https://www.spiegel.de/politik/deutschland/bundestagswahl-bsw-verfehlt-laut-endgueltigem-ergebnis-fuenfprozenthuerde-a-2548ec7f-370e-40cc-bada-8f969cabe0b9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/joschka-fischer-glaubt-dass-donald-trump-scheitert](https://www.spiegel.de/politik/deutschland/joschka-fischer-glaubt-dass-donald-trump-scheitert-a-fec43d8c-571e-48f2-b447-20ee79ce6776#ref=rss)
-### bauarbeiten
-
-* [https://www.spiegel.de/auto/bauarbeiten-auf-autobahnen-a40-und-a1-am-wochenende-voll-gesperrt](https://www.spiegel.de/auto/bauarbeiten-auf-autobahnen-a40-und-a1-am-wochenende-voll-gesperrt-a-d352150c-58c0-4e75-9ec7-8ce94d612797#ref=rss)
-### autobahnen
-
-* [https://www.spiegel.de/auto/bauarbeiten-auf-autobahnen-a40-und-a1-am-wochenende-voll-gesperrt](https://www.spiegel.de/auto/bauarbeiten-auf-autobahnen-a40-und-a1-am-wochenende-voll-gesperrt-a-d352150c-58c0-4e75-9ec7-8ce94d612797#ref=rss)
-### a40
-
-* [https://www.spiegel.de/auto/bauarbeiten-auf-autobahnen-a40-und-a1-am-wochenende-voll-gesperrt](https://www.spiegel.de/auto/bauarbeiten-auf-autobahnen-a40-und-a1-am-wochenende-voll-gesperrt-a-d352150c-58c0-4e75-9ec7-8ce94d612797#ref=rss)
-### a1
-
-* [https://www.spiegel.de/auto/bauarbeiten-auf-autobahnen-a40-und-a1-am-wochenende-voll-gesperrt](https://www.spiegel.de/auto/bauarbeiten-auf-autobahnen-a40-und-a1-am-wochenende-voll-gesperrt-a-d352150c-58c0-4e75-9ec7-8ce94d612797#ref=rss)
-### wochenende
-
-* [https://www.spiegel.de/auto/bauarbeiten-auf-autobahnen-a40-und-a1-am-wochenende-voll-gesperrt](https://www.spiegel.de/auto/bauarbeiten-auf-autobahnen-a40-und-a1-am-wochenende-voll-gesperrt-a-d352150c-58c0-4e75-9ec7-8ce94d612797#ref=rss)
-### gesperrt
-
-* [https://www.spiegel.de/auto/bauarbeiten-auf-autobahnen-a40-und-a1-am-wochenende-voll-gesperrt](https://www.spiegel.de/auto/bauarbeiten-auf-autobahnen-a40-und-a1-am-wochenende-voll-gesperrt-a-d352150c-58c0-4e75-9ec7-8ce94d612797#ref=rss)
-### radiohead
-
-* [https://www.spiegel.de/kultur/musik/radiohead-gruenden-gmbh-und-schueren-damit-hoffnungen](https://www.spiegel.de/kultur/musik/radiohead-gruenden-gmbh-und-schueren-damit-hoffnungen-a-7c2d978a-74c6-41ca-a77c-91eb8b1d7030#ref=rss)
-### china
-
-* [https://www.spiegel.de/panorama/justiz/china-nackter-po-auf-chinesischer-mauer-touristenpaar-zwei-wochen-festgehalten](https://www.spiegel.de/panorama/justiz/china-nackter-po-auf-chinesischer-mauer-touristenpaar-zwei-wochen-festgehalten-a-663fc2f3-8d76-49a2-89c4-8c85d12bae7b#ref=rss)
-### mauer
-
-* [https://www.spiegel.de/panorama/justiz/china-nackter-po-auf-chinesischer-mauer-touristenpaar-zwei-wochen-festgehalten](https://www.spiegel.de/panorama/justiz/china-nackter-po-auf-chinesischer-mauer-touristenpaar-zwei-wochen-festgehalten-a-663fc2f3-8d76-49a2-89c4-8c85d12bae7b#ref=rss)
-### dennoch
-
-* [https://www.spiegel.de/panorama/justiz/china-nackter-po-auf-chinesischer-mauer-touristenpaar-zwei-wochen-festgehalten](https://www.spiegel.de/panorama/justiz/china-nackter-po-auf-chinesischer-mauer-touristenpaar-zwei-wochen-festgehalten-a-663fc2f3-8d76-49a2-89c4-8c85d12bae7b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/joschka-fischer-glaubt-dass-donald-trump-scheitert](https://www.spiegel.de/politik/deutschland/joschka-fischer-glaubt-dass-donald-trump-scheitert-a-fec43d8c-571e-48f2-b447-20ee79ce6776#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/schwarz-rot-gruene-einigung-kompromiss-in-letzter-minute](https://www.spiegel.de/politik/deutschland/schwarz-rot-gruene-einigung-kompromiss-in-letzter-minute-a-3c4ced33-38c4-42ca-903a-1655338e4409#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestag-einigung-von-spd-union-und-gruenen-zu-schuldenbremse-so-fallen-die-reaktionen-aus](https://www.spiegel.de/politik/deutschland/bundestag-einigung-von-spd-union-und-gruenen-zu-schuldenbremse-so-fallen-die-reaktionen-aus-a-71560d04-d12d-4419-80fa-0de628694105#ref=rss)
 ### chinesischen
 
-* [https://www.spiegel.de/panorama/justiz/china-nackter-po-auf-chinesischer-mauer-touristenpaar-zwei-wochen-festgehalten](https://www.spiegel.de/panorama/justiz/china-nackter-po-auf-chinesischer-mauer-touristenpaar-zwei-wochen-festgehalten-a-663fc2f3-8d76-49a2-89c4-8c85d12bae7b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bnd-bericht-zu-corona-ursprung-parlament-fordert-regierung-auf-untersuchung-oeffentlich-zu-machen](https://www.spiegel.de/politik/deutschland/bnd-bericht-zu-corona-ursprung-parlament-fordert-regierung-auf-untersuchung-oeffentlich-zu-machen-a-45a9f4da-cf72-47e7-807e-2af0905fd3fd#ref=rss)
-### frau
+* [https://www.spiegel.de/panorama/touristen-fails-geklauter-wombat-ohne-hose-auf-chinesischer-mauer-oder-umsonst-nach-bali](https://www.spiegel.de/panorama/touristen-fails-geklauter-wombat-ohne-hose-auf-chinesischer-mauer-oder-umsonst-nach-bali-a-c128c809-2a59-4cf7-a598-33914bad00b8#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/huawei-lobbyisten-wegen-bestechungsvorwuerfen-vorlaeufig-aus-dem-eu-parlament-verbannt](https://www.spiegel.de/netzwelt/netzpolitik/huawei-lobbyisten-wegen-bestechungsvorwuerfen-vorlaeufig-aus-dem-eu-parlament-verbannt-a-6045e05a-b122-4f4d-be73-9e5173e1537d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/lothar-wieler-haelt-labor-ursprung-von-sars-cov-2-fuer-die-wahrscheinlichere-these](https://www.spiegel.de/wissenschaft/lothar-wieler-haelt-labor-ursprung-von-sars-cov-2-fuer-die-wahrscheinlichere-these-a-1e2bcf76-2bfa-4fb4-b3bb-a9a0ed6ac606#ref=rss)
+### schuldenpaket
 
-* [https://www.spiegel.de/panorama/justiz/china-nackter-po-auf-chinesischer-mauer-touristenpaar-zwei-wochen-festgehalten](https://www.spiegel.de/panorama/justiz/china-nackter-po-auf-chinesischer-mauer-touristenpaar-zwei-wochen-festgehalten-a-663fc2f3-8d76-49a2-89c4-8c85d12bae7b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/usa-frau-aus-connecticut-soll-ihren-stiefsohn-20-jahre-eingesperrt-haben](https://www.spiegel.de/panorama/justiz/usa-frau-aus-connecticut-soll-ihren-stiefsohn-20-jahre-eingesperrt-haben-a-c9428f1e-d0ce-483e-aa6e-91e9cc963637#ref=rss)
-### nairobi
+* [https://www.spiegel.de/politik/deutschland/bayern-landraete-unterstuetzen-schuldenpaket-gegen-aiwangers-kurs](https://www.spiegel.de/politik/deutschland/bayern-landraete-unterstuetzen-schuldenpaket-gegen-aiwangers-kurs-a-24912bbb-795f-4010-b3bb-d6ab3fa30a2d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/schwarz-rote-finanzplaene-spd-kommentiert-einigung-im-schuldenpaket](https://www.spiegel.de/politik/deutschland/schwarz-rote-finanzplaene-spd-kommentiert-einigung-im-schuldenpaket-a-ac381ca7-3736-4e26-a7c2-267b423f917b#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/ausland/nairobi-brite-bei-autounfall-getoetet-autofahrer-aus-praesidentenkonvoi-begeht-offenbar-fahrerflucht](https://www.spiegel.de/ausland/nairobi-brite-bei-autounfall-getoetet-autofahrer-aus-praesidentenkonvoi-begeht-offenbar-fahrerflucht-a-e9e55107-9f9e-4954-9ff7-45f6bb88310f#ref=rss)
-### brite
+* [https://www.spiegel.de/kultur/musik/lady-gaga-ist-nach-14-jahren-wieder-die-nr-1-in-den-deutschen-charts](https://www.spiegel.de/kultur/musik/lady-gaga-ist-nach-14-jahren-wieder-die-nr-1-in-den-deutschen-charts-a-2f3a9c55-0636-42a8-8767-86033a22057c#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/corona-schliessung-von-schulen-und-kitas-in-der-pandemie-kinder-und-jugendliche-zuletzt](https://www.spiegel.de/panorama/bildung/corona-schliessung-von-schulen-und-kitas-in-der-pandemie-kinder-und-jugendliche-zuletzt-a-f5d88a38-0f76-44bc-90d3-da8519536be3#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/schliessung-von-schulen-und-kitas-in-der-corona-pandemie-kinder-und-jugendliche-zuletzt](https://www.spiegel.de/panorama/bildung/schliessung-von-schulen-und-kitas-in-der-corona-pandemie-kinder-und-jugendliche-zuletzt-a-0f6f9b92-2322-40b5-9f3f-2ab9f9c0f608#ref=rss)
+### usa
 
-* [https://www.spiegel.de/ausland/nairobi-brite-bei-autounfall-getoetet-autofahrer-aus-praesidentenkonvoi-begeht-offenbar-fahrerflucht](https://www.spiegel.de/ausland/nairobi-brite-bei-autounfall-getoetet-autofahrer-aus-praesidentenkonvoi-begeht-offenbar-fahrerflucht-a-e9e55107-9f9e-4954-9ff7-45f6bb88310f#ref=rss)
-### fahrer
+* [https://www.spiegel.de/wirtschaft/inflation-usa-bitten-daenemark-um-eier-zur-preisstabilisierung](https://www.spiegel.de/wirtschaft/inflation-usa-bitten-daenemark-um-eier-zur-preisstabilisierung-a-1f1cdb33-4716-4f17-863d-34c4d7b9e98b#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-europaminister-benjamin-haddad-ueber-verteidigung-und-atomschutz-fuer-deutschland](https://www.spiegel.de/ausland/frankreich-europaminister-benjamin-haddad-ueber-verteidigung-und-atomschutz-fuer-deutschland-a-9dd74c29-101b-4773-94b3-a088230686dc#ref=rss)
+### wohl
 
-* [https://www.spiegel.de/ausland/nairobi-brite-bei-autounfall-getoetet-autofahrer-aus-praesidentenkonvoi-begeht-offenbar-fahrerflucht](https://www.spiegel.de/ausland/nairobi-brite-bei-autounfall-getoetet-autofahrer-aus-praesidentenkonvoi-begeht-offenbar-fahrerflucht-a-e9e55107-9f9e-4954-9ff7-45f6bb88310f#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-saison-2025-teams-fahrer-und-rennkalender](https://www.spiegel.de/sport/formel1/formel-1-saison-2025-teams-fahrer-und-rennkalender-a-1e49b6bd-d862-498e-9b6d-716bbfa00330#ref=rss)
-### unsicherheit
+* [https://www.spiegel.de/politik/deutschland/einigung-auf-grundgesetzaenderung-regieren-fuer-anfaenger-kommentar](https://www.spiegel.de/politik/deutschland/einigung-auf-grundgesetzaenderung-regieren-fuer-anfaenger-kommentar-a-26bb2c37-ae42-4ea8-b072-7206db16f5de#ref=rss)
+* [https://www.spiegel.de/auto/x-games-extremsportveranstalter-schliesst-e-motorraeder-aus](https://www.spiegel.de/auto/x-games-extremsportveranstalter-schliesst-e-motorraeder-aus-a-c17a8be0-c28d-41d4-bc1c-f0c9c7fadb81#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/celle-freispruch-fuer-39-jaehrige-in-reichsbuergerprozess-gefordert](https://www.spiegel.de/panorama/justiz/celle-freispruch-fuer-39-jaehrige-in-reichsbuergerprozess-gefordert-a-ba6c624b-721a-4102-bb4c-1614395e2437#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/wirtschaft/gold-rallye-unsicherheit-durch-us-zollpolitik-treibt-goldpreis-auf-3000-dollar](https://www.spiegel.de/wirtschaft/gold-rallye-unsicherheit-durch-us-zollpolitik-treibt-goldpreis-auf-3000-dollar-a-fec8e554-196e-455f-9c7b-1f25c198ab8e#ref=rss)
-### 3000
+* [https://www.spiegel.de/ausland/frankreich-europaminister-benjamin-haddad-ueber-verteidigung-und-atomschutz-fuer-deutschland](https://www.spiegel.de/ausland/frankreich-europaminister-benjamin-haddad-ueber-verteidigung-und-atomschutz-fuer-deutschland-a-9dd74c29-101b-4773-94b3-a088230686dc#ref=rss)
+* [https://www.spiegel.de/panorama/bamf-affaere-ex-chefin-der-bremer-asylbehoerde-soll-pension-verlieren](https://www.spiegel.de/panorama/bamf-affaere-ex-chefin-der-bremer-asylbehoerde-soll-pension-verlieren-a-21ffce30-1682-4f62-ae4f-70c2e93212ee#ref=rss)
+### verhandlungen
 
-* [https://www.spiegel.de/wirtschaft/gold-rallye-unsicherheit-durch-us-zollpolitik-treibt-goldpreis-auf-3000-dollar](https://www.spiegel.de/wirtschaft/gold-rallye-unsicherheit-durch-us-zollpolitik-treibt-goldpreis-auf-3000-dollar-a-fec8e554-196e-455f-9c7b-1f25c198ab8e#ref=rss)
-### dollar
-
-* [https://www.spiegel.de/wirtschaft/gold-rallye-unsicherheit-durch-us-zollpolitik-treibt-goldpreis-auf-3000-dollar](https://www.spiegel.de/wirtschaft/gold-rallye-unsicherheit-durch-us-zollpolitik-treibt-goldpreis-auf-3000-dollar-a-fec8e554-196e-455f-9c7b-1f25c198ab8e#ref=rss)
-### bgh
-
-* [https://www.spiegel.de/panorama/justiz/bgh-familie-sollte-haus-in-rangsdorf-wegen-eines-behoerdenfehlers-abreissen-fall-muss-neu-verhandelt-werden](https://www.spiegel.de/panorama/justiz/bgh-familie-sollte-haus-in-rangsdorf-wegen-eines-behoerdenfehlers-abreissen-fall-muss-neu-verhandelt-werden-a-946a492a-6337-4d3e-9a4b-9647018f6cf3#ref=rss)
-### familie
-
-* [https://www.spiegel.de/panorama/justiz/bgh-familie-sollte-haus-in-rangsdorf-wegen-eines-behoerdenfehlers-abreissen-fall-muss-neu-verhandelt-werden](https://www.spiegel.de/panorama/justiz/bgh-familie-sollte-haus-in-rangsdorf-wegen-eines-behoerdenfehlers-abreissen-fall-muss-neu-verhandelt-werden-a-946a492a-6337-4d3e-9a4b-9647018f6cf3#ref=rss)
-### sollte
-
-* [https://www.spiegel.de/panorama/justiz/bgh-familie-sollte-haus-in-rangsdorf-wegen-eines-behoerdenfehlers-abreissen-fall-muss-neu-verhandelt-werden](https://www.spiegel.de/panorama/justiz/bgh-familie-sollte-haus-in-rangsdorf-wegen-eines-behoerdenfehlers-abreissen-fall-muss-neu-verhandelt-werden-a-946a492a-6337-4d3e-9a4b-9647018f6cf3#ref=rss)
-### haus
-
-* [https://www.spiegel.de/panorama/justiz/bgh-familie-sollte-haus-in-rangsdorf-wegen-eines-behoerdenfehlers-abreissen-fall-muss-neu-verhandelt-werden](https://www.spiegel.de/panorama/justiz/bgh-familie-sollte-haus-in-rangsdorf-wegen-eines-behoerdenfehlers-abreissen-fall-muss-neu-verhandelt-werden-a-946a492a-6337-4d3e-9a4b-9647018f6cf3#ref=rss)
-### behördenfehlers
-
-* [https://www.spiegel.de/panorama/justiz/bgh-familie-sollte-haus-in-rangsdorf-wegen-eines-behoerdenfehlers-abreissen-fall-muss-neu-verhandelt-werden](https://www.spiegel.de/panorama/justiz/bgh-familie-sollte-haus-in-rangsdorf-wegen-eines-behoerdenfehlers-abreissen-fall-muss-neu-verhandelt-werden-a-946a492a-6337-4d3e-9a4b-9647018f6cf3#ref=rss)
-### abreißen
-
-* [https://www.spiegel.de/panorama/justiz/bgh-familie-sollte-haus-in-rangsdorf-wegen-eines-behoerdenfehlers-abreissen-fall-muss-neu-verhandelt-werden](https://www.spiegel.de/panorama/justiz/bgh-familie-sollte-haus-in-rangsdorf-wegen-eines-behoerdenfehlers-abreissen-fall-muss-neu-verhandelt-werden-a-946a492a-6337-4d3e-9a4b-9647018f6cf3#ref=rss)
-### eigene
-
-* [https://www.spiegel.de/panorama/justiz/bgh-familie-sollte-haus-in-rangsdorf-wegen-eines-behoerdenfehlers-abreissen-fall-muss-neu-verhandelt-werden](https://www.spiegel.de/panorama/justiz/bgh-familie-sollte-haus-in-rangsdorf-wegen-eines-behoerdenfehlers-abreissen-fall-muss-neu-verhandelt-werden-a-946a492a-6337-4d3e-9a4b-9647018f6cf3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-der-union-wachsen-die-zweifel-an-ihm](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-der-union-wachsen-die-zweifel-an-ihm-a-180c5819-56ae-4ea1-9987-562a03a469fb#ref=rss)
-### christine
-
-* [https://www.spiegel.de/wirtschaft/christine-lagarde-ezb-praesidentin-sieht-globalen-handelskrieg-als-gefahr-fuer-die-usa](https://www.spiegel.de/wirtschaft/christine-lagarde-ezb-praesidentin-sieht-globalen-handelskrieg-als-gefahr-fuer-die-usa-a-816b5333-3f66-4f11-8d86-ffdacda9e767#ref=rss)
-### lagarde
-
-* [https://www.spiegel.de/wirtschaft/christine-lagarde-ezb-praesidentin-sieht-globalen-handelskrieg-als-gefahr-fuer-die-usa](https://www.spiegel.de/wirtschaft/christine-lagarde-ezb-praesidentin-sieht-globalen-handelskrieg-als-gefahr-fuer-die-usa-a-816b5333-3f66-4f11-8d86-ffdacda9e767#ref=rss)
-### ezbpräsidentin
-
-* [https://www.spiegel.de/wirtschaft/christine-lagarde-ezb-praesidentin-sieht-globalen-handelskrieg-als-gefahr-fuer-die-usa](https://www.spiegel.de/wirtschaft/christine-lagarde-ezb-praesidentin-sieht-globalen-handelskrieg-als-gefahr-fuer-die-usa-a-816b5333-3f66-4f11-8d86-ffdacda9e767#ref=rss)
-### gefahr
-
-* [https://www.spiegel.de/wirtschaft/christine-lagarde-ezb-praesidentin-sieht-globalen-handelskrieg-als-gefahr-fuer-die-usa](https://www.spiegel.de/wirtschaft/christine-lagarde-ezb-praesidentin-sieht-globalen-handelskrieg-als-gefahr-fuer-die-usa-a-816b5333-3f66-4f11-8d86-ffdacda9e767#ref=rss)
-* [https://www.spiegel.de/wissenschaft/klimapolitik-deutsche-klimaziele-2030-gefaehrdet-trotz-emissionsrueckgang](https://www.spiegel.de/wissenschaft/klimapolitik-deutsche-klimaziele-2030-gefaehrdet-trotz-emissionsrueckgang-a-da3922e0-dfc3-426d-92ce-c3f94249ada4#ref=rss)
-### hart
-
-* [https://www.spiegel.de/wirtschaft/christine-lagarde-ezb-praesidentin-sieht-globalen-handelskrieg-als-gefahr-fuer-die-usa](https://www.spiegel.de/wirtschaft/christine-lagarde-ezb-praesidentin-sieht-globalen-handelskrieg-als-gefahr-fuer-die-usa-a-816b5333-3f66-4f11-8d86-ffdacda9e767#ref=rss)
-* [https://www.spiegel.de/sport/fussball/europa-league-trainer-von-as-rom-macht-mats-hummels-keine-vorwuerfe-nach-platzverweis](https://www.spiegel.de/sport/fussball/europa-league-trainer-von-as-rom-macht-mats-hummels-keine-vorwuerfe-nach-platzverweis-a-e2967827-4de1-4b8e-a1c1-464ee41722f2#ref=rss)
-### giftige
-
-* [https://www.spiegel.de/wissenschaft/natur/ukraine-krieg-die-toxischen-langzeitfolgen-des-kachowka-dammbruchs](https://www.spiegel.de/wissenschaft/natur/ukraine-krieg-die-toxischen-langzeitfolgen-des-kachowka-dammbruchs-a-ef3d143a-8706-4ab4-93c5-8209b26c9160#ref=rss)
-* [https://www.spiegel.de/wissenschaft/ukraine-zerstoerung-des-kachowka-staudamms-legte-laut-studie-giftige-schwermetalle-frei](https://www.spiegel.de/wissenschaft/ukraine-zerstoerung-des-kachowka-staudamms-legte-laut-studie-giftige-schwermetalle-frei-a-28c9a0ab-33b1-4849-b757-d6466436f361#ref=rss)
-### macht
-
-* [https://www.spiegel.de/wissenschaft/natur/ukraine-krieg-die-toxischen-langzeitfolgen-des-kachowka-dammbruchs](https://www.spiegel.de/wissenschaft/natur/ukraine-krieg-die-toxischen-langzeitfolgen-des-kachowka-dammbruchs-a-ef3d143a-8706-4ab4-93c5-8209b26c9160#ref=rss)
-* [https://www.spiegel.de/sport/fussball/europa-league-trainer-von-as-rom-macht-mats-hummels-keine-vorwuerfe-nach-platzverweis](https://www.spiegel.de/sport/fussball/europa-league-trainer-von-as-rom-macht-mats-hummels-keine-vorwuerfe-nach-platzverweis-a-e2967827-4de1-4b8e-a1c1-464ee41722f2#ref=rss)
-### kreta
-
-* [https://www.spiegel.de/panorama/kreta-bergsteiger-finden-leiche-von-20-jaehrigem-deutschen](https://www.spiegel.de/panorama/kreta-bergsteiger-finden-leiche-von-20-jaehrigem-deutschen-a-24be9fee-1ba9-4519-94bd-f6099e6326ab#ref=rss)
-### bergsteiger
-
-* [https://www.spiegel.de/panorama/kreta-bergsteiger-finden-leiche-von-20-jaehrigem-deutschen](https://www.spiegel.de/panorama/kreta-bergsteiger-finden-leiche-von-20-jaehrigem-deutschen-a-24be9fee-1ba9-4519-94bd-f6099e6326ab#ref=rss)
-### leiche
-
-* [https://www.spiegel.de/panorama/kreta-bergsteiger-finden-leiche-von-20-jaehrigem-deutschen](https://www.spiegel.de/panorama/kreta-bergsteiger-finden-leiche-von-20-jaehrigem-deutschen-a-24be9fee-1ba9-4519-94bd-f6099e6326ab#ref=rss)
-### schriftsteller
-
-* [https://www.spiegel.de/ausland/schriftsteller-steffen-kopetzky-europa-muss-wieder-eine-grossmacht-werden](https://www.spiegel.de/ausland/schriftsteller-steffen-kopetzky-europa-muss-wieder-eine-grossmacht-werden-a-74c3d008-3ec2-413a-be9c-3f8a593bdc86#ref=rss)
-### steffen
-
-* [https://www.spiegel.de/ausland/schriftsteller-steffen-kopetzky-europa-muss-wieder-eine-grossmacht-werden](https://www.spiegel.de/ausland/schriftsteller-steffen-kopetzky-europa-muss-wieder-eine-grossmacht-werden-a-74c3d008-3ec2-413a-be9c-3f8a593bdc86#ref=rss)
-### kopetzky
-
-* [https://www.spiegel.de/ausland/schriftsteller-steffen-kopetzky-europa-muss-wieder-eine-grossmacht-werden](https://www.spiegel.de/ausland/schriftsteller-steffen-kopetzky-europa-muss-wieder-eine-grossmacht-werden-a-74c3d008-3ec2-413a-be9c-3f8a593bdc86#ref=rss)
-### großmacht
-
-* [https://www.spiegel.de/ausland/schriftsteller-steffen-kopetzky-europa-muss-wieder-eine-grossmacht-werden](https://www.spiegel.de/ausland/schriftsteller-steffen-kopetzky-europa-muss-wieder-eine-grossmacht-werden-a-74c3d008-3ec2-413a-be9c-3f8a593bdc86#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/israel-radikale-siedler-zuenden-haeuser-in-palaestinensischem-dorf-an](https://www.spiegel.de/ausland/israel-radikale-siedler-zuenden-haeuser-in-palaestinensischem-dorf-an-a-17d2f381-0a3a-43dd-8bff-deecb80052d3#ref=rss)
-* [https://www.spiegel.de/ausland/trump-und-israel-pruefen-umsiedlung-von-palaestinensern-nach-somalia](https://www.spiegel.de/ausland/trump-und-israel-pruefen-umsiedlung-von-palaestinensern-nach-somalia-a-8d191e0f-cc9e-4bcf-be8b-ca9d11f8b4e6#ref=rss)
-### siedler
-
-* [https://www.spiegel.de/ausland/israel-radikale-siedler-zuenden-haeuser-in-palaestinensischem-dorf-an](https://www.spiegel.de/ausland/israel-radikale-siedler-zuenden-haeuser-in-palaestinensischem-dorf-an-a-17d2f381-0a3a-43dd-8bff-deecb80052d3#ref=rss)
-### häuser
-
-* [https://www.spiegel.de/ausland/israel-radikale-siedler-zuenden-haeuser-in-palaestinensischem-dorf-an](https://www.spiegel.de/ausland/israel-radikale-siedler-zuenden-haeuser-in-palaestinensischem-dorf-an-a-17d2f381-0a3a-43dd-8bff-deecb80052d3#ref=rss)
-### connecticut
-
-* [https://www.spiegel.de/panorama/justiz/usa-frau-aus-connecticut-soll-ihren-stiefsohn-20-jahre-eingesperrt-haben](https://www.spiegel.de/panorama/justiz/usa-frau-aus-connecticut-soll-ihren-stiefsohn-20-jahre-eingesperrt-haben-a-c9428f1e-d0ce-483e-aa6e-91e9cc963637#ref=rss)
-### sieben
-
-* [https://www.spiegel.de/panorama/justiz/usa-frau-aus-connecticut-soll-ihren-stiefsohn-20-jahre-eingesperrt-haben](https://www.spiegel.de/panorama/justiz/usa-frau-aus-connecticut-soll-ihren-stiefsohn-20-jahre-eingesperrt-haben-a-c9428f1e-d0ce-483e-aa6e-91e9cc963637#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### legte
-
-* [https://www.spiegel.de/panorama/justiz/usa-frau-aus-connecticut-soll-ihren-stiefsohn-20-jahre-eingesperrt-haben](https://www.spiegel.de/panorama/justiz/usa-frau-aus-connecticut-soll-ihren-stiefsohn-20-jahre-eingesperrt-haben-a-c9428f1e-d0ce-483e-aa6e-91e9cc963637#ref=rss)
-* [https://www.spiegel.de/wissenschaft/ukraine-zerstoerung-des-kachowka-staudamms-legte-laut-studie-giftige-schwermetalle-frei](https://www.spiegel.de/wissenschaft/ukraine-zerstoerung-des-kachowka-staudamms-legte-laut-studie-giftige-schwermetalle-frei-a-28c9a0ab-33b1-4849-b757-d6466436f361#ref=rss)
+* [https://www.spiegel.de/ausland/verhandlungen-ueber-waffenruhe-russlands-verzoegerungstaktik-ukraines-skepsis](https://www.spiegel.de/ausland/verhandlungen-ueber-waffenruhe-russlands-verzoegerungstaktik-ukraines-skepsis-a-3507d2d4-6bc7-43e6-8d94-b59377cc406f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/schwarz-rote-finanzplaene-spd-kommentiert-einigung-im-schuldenpaket](https://www.spiegel.de/politik/deutschland/schwarz-rote-finanzplaene-spd-kommentiert-einigung-im-schuldenpaket-a-ac381ca7-3736-4e26-a7c2-267b423f917b#ref=rss)
 ### ukraine
 
-* [https://www.spiegel.de/wissenschaft/ukraine-zerstoerung-des-kachowka-staudamms-legte-laut-studie-giftige-schwermetalle-frei](https://www.spiegel.de/wissenschaft/ukraine-zerstoerung-des-kachowka-staudamms-legte-laut-studie-giftige-schwermetalle-frei-a-28c9a0ab-33b1-4849-b757-d6466436f361#ref=rss)
-### studie
+* [https://www.spiegel.de/ausland/verhandlungen-ueber-waffenruhe-russlands-verzoegerungstaktik-ukraines-skepsis](https://www.spiegel.de/ausland/verhandlungen-ueber-waffenruhe-russlands-verzoegerungstaktik-ukraines-skepsis-a-3507d2d4-6bc7-43e6-8d94-b59377cc406f#ref=rss)
+* [https://www.spiegel.de/ausland/ukrainekrieg-donald-trump-bittet-wladimir-putin-um-milde-fuer-ukrainische-soldaten](https://www.spiegel.de/ausland/ukrainekrieg-donald-trump-bittet-wladimir-putin-um-milde-fuer-ukrainische-soldaten-a-4c694fbf-6f93-4b03-a4fe-f0373991ccb8#ref=rss)
+### allerdings
 
-* [https://www.spiegel.de/wissenschaft/ukraine-zerstoerung-des-kachowka-staudamms-legte-laut-studie-giftige-schwermetalle-frei](https://www.spiegel.de/wissenschaft/ukraine-zerstoerung-des-kachowka-staudamms-legte-laut-studie-giftige-schwermetalle-frei-a-28c9a0ab-33b1-4849-b757-d6466436f361#ref=rss)
-### neue
+* [https://www.spiegel.de/ausland/verhandlungen-ueber-waffenruhe-russlands-verzoegerungstaktik-ukraines-skepsis](https://www.spiegel.de/ausland/verhandlungen-ueber-waffenruhe-russlands-verzoegerungstaktik-ukraines-skepsis-a-3507d2d4-6bc7-43e6-8d94-b59377cc406f#ref=rss)
+* [https://www.spiegel.de/ausland/ukrainekrieg-donald-trump-bittet-wladimir-putin-um-milde-fuer-ukrainische-soldaten](https://www.spiegel.de/ausland/ukrainekrieg-donald-trump-bittet-wladimir-putin-um-milde-fuer-ukrainische-soldaten-a-4c694fbf-6f93-4b03-a4fe-f0373991ccb8#ref=rss)
+### ganz
 
-* [https://www.spiegel.de/psychologie/neue-routinen-statt-prokrastination-wie-sie-endlich-anfangen-drei-uebungen](https://www.spiegel.de/psychologie/neue-routinen-statt-prokrastination-wie-sie-endlich-anfangen-drei-uebungen-a-56844f1a-290e-431d-bb61-ae602c6eb333#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-laesst-pentagon-plaene-zur-rueckgewinnung-des-panamakanals-vorbereiten](https://www.spiegel.de/ausland/donald-trump-laesst-pentagon-plaene-zur-rueckgewinnung-des-panamakanals-vorbereiten-a-aff74b00-da13-46f1-a7e2-2036922c499f#ref=rss)
-### drei
+* [https://www.spiegel.de/ausland/verhandlungen-ueber-waffenruhe-russlands-verzoegerungstaktik-ukraines-skepsis](https://www.spiegel.de/ausland/verhandlungen-ueber-waffenruhe-russlands-verzoegerungstaktik-ukraines-skepsis-a-3507d2d4-6bc7-43e6-8d94-b59377cc406f#ref=rss)
+* [https://www.spiegel.de/kultur/musik/lady-gaga-ist-nach-14-jahren-wieder-die-nr-1-in-den-deutschen-charts](https://www.spiegel.de/kultur/musik/lady-gaga-ist-nach-14-jahren-wieder-die-nr-1-in-den-deutschen-charts-a-2f3a9c55-0636-42a8-8767-86033a22057c#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/psychologie/neue-routinen-statt-prokrastination-wie-sie-endlich-anfangen-drei-uebungen](https://www.spiegel.de/psychologie/neue-routinen-statt-prokrastination-wie-sie-endlich-anfangen-drei-uebungen-a-56844f1a-290e-431d-bb61-ae602c6eb333#ref=rss)
-### übungen
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-geldanlage-gold-erben-neue-schulden](https://www.spiegel.de/politik/deutschland/news-des-tages-geldanlage-gold-erben-neue-schulden-a-e15eb0de-8171-4f3f-b55c-0f6118b30120#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-lebenslange-haft-fuer-ex-paar-nach-versuchtem-raubmord-an-80-jaehrigem](https://www.spiegel.de/panorama/justiz/berlin-lebenslange-haft-fuer-ex-paar-nach-versuchtem-raubmord-an-80-jaehrigem-a-48199cd2-f846-4d9f-8ec4-86d2209b45a3#ref=rss)
+### einigen
 
-* [https://www.spiegel.de/psychologie/neue-routinen-statt-prokrastination-wie-sie-endlich-anfangen-drei-uebungen](https://www.spiegel.de/psychologie/neue-routinen-statt-prokrastination-wie-sie-endlich-anfangen-drei-uebungen-a-56844f1a-290e-431d-bb61-ae602c6eb333#ref=rss)
-### etwas
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-geldanlage-gold-erben-neue-schulden](https://www.spiegel.de/politik/deutschland/news-des-tages-geldanlage-gold-erben-neue-schulden-a-e15eb0de-8171-4f3f-b55c-0f6118b30120#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestag-einigung-von-spd-union-und-gruenen-zu-schuldenbremse-so-fallen-die-reaktionen-aus](https://www.spiegel.de/politik/deutschland/bundestag-einigung-von-spd-union-und-gruenen-zu-schuldenbremse-so-fallen-die-reaktionen-aus-a-71560d04-d12d-4419-80fa-0de628694105#ref=rss)
+### ayo
 
-* [https://www.spiegel.de/psychologie/neue-routinen-statt-prokrastination-wie-sie-endlich-anfangen-drei-uebungen](https://www.spiegel.de/psychologie/neue-routinen-statt-prokrastination-wie-sie-endlich-anfangen-drei-uebungen-a-56844f1a-290e-431d-bb61-ae602c6eb333#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/skandal-im-skispringen-dsv-trainer-stefan-horngacher-hat-nichts-zu-verbergen](https://www.spiegel.de/sport/wintersport/skandal-im-skispringen-dsv-trainer-stefan-horngacher-hat-nichts-zu-verbergen-a-a3e5148e-eb8d-4eb1-8eec-ee3988218cb1#ref=rss)
-### pläne
+* [https://www.spiegel.de/kultur/kino/ayo-edebiri-spricht-ueber-todesdrohungen-nach-repost-von-elon-musk](https://www.spiegel.de/kultur/kino/ayo-edebiri-spricht-ueber-todesdrohungen-nach-repost-von-elon-musk-a-4a932e28-9611-42d1-b308-96b4a780ead1#ref=rss)
+### edebiri
 
-* [https://www.spiegel.de/psychologie/neue-routinen-statt-prokrastination-wie-sie-endlich-anfangen-drei-uebungen](https://www.spiegel.de/psychologie/neue-routinen-statt-prokrastination-wie-sie-endlich-anfangen-drei-uebungen-a-56844f1a-290e-431d-bb61-ae602c6eb333#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-laesst-pentagon-plaene-zur-rueckgewinnung-des-panamakanals-vorbereiten](https://www.spiegel.de/ausland/donald-trump-laesst-pentagon-plaene-zur-rueckgewinnung-des-panamakanals-vorbereiten-a-aff74b00-da13-46f1-a7e2-2036922c499f#ref=rss)
+* [https://www.spiegel.de/kultur/kino/ayo-edebiri-spricht-ueber-todesdrohungen-nach-repost-von-elon-musk](https://www.spiegel.de/kultur/kino/ayo-edebiri-spricht-ueber-todesdrohungen-nach-repost-von-elon-musk-a-4a932e28-9611-42d1-b308-96b4a780ead1#ref=rss)
+### todesdrohungen
+
+* [https://www.spiegel.de/kultur/kino/ayo-edebiri-spricht-ueber-todesdrohungen-nach-repost-von-elon-musk](https://www.spiegel.de/kultur/kino/ayo-edebiri-spricht-ueber-todesdrohungen-nach-repost-von-elon-musk-a-4a932e28-9611-42d1-b308-96b4a780ead1#ref=rss)
+### elon
+
+* [https://www.spiegel.de/kultur/kino/ayo-edebiri-spricht-ueber-todesdrohungen-nach-repost-von-elon-musk](https://www.spiegel.de/kultur/kino/ayo-edebiri-spricht-ueber-todesdrohungen-nach-repost-von-elon-musk-a-4a932e28-9611-42d1-b308-96b4a780ead1#ref=rss)
+### musk
+
+* [https://www.spiegel.de/kultur/kino/ayo-edebiri-spricht-ueber-todesdrohungen-nach-repost-von-elon-musk](https://www.spiegel.de/kultur/kino/ayo-edebiri-spricht-ueber-todesdrohungen-nach-repost-von-elon-musk-a-4a932e28-9611-42d1-b308-96b4a780ead1#ref=rss)
+### grüne
+
+* [https://www.spiegel.de/politik/deutschland/schwarz-rot-gruene-einigung-kompromiss-in-letzter-minute](https://www.spiegel.de/politik/deutschland/schwarz-rot-gruene-einigung-kompromiss-in-letzter-minute-a-3c4ced33-38c4-42ca-903a-1655338e4409#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestag-einigung-von-spd-union-und-gruenen-zu-schuldenbremse-so-fallen-die-reaktionen-aus](https://www.spiegel.de/politik/deutschland/bundestag-einigung-von-spd-union-und-gruenen-zu-schuldenbremse-so-fallen-die-reaktionen-aus-a-71560d04-d12d-4419-80fa-0de628694105#ref=rss)
+### reform
+
+* [https://www.spiegel.de/politik/deutschland/schwarz-rot-gruene-einigung-kompromiss-in-letzter-minute](https://www.spiegel.de/politik/deutschland/schwarz-rot-gruene-einigung-kompromiss-in-letzter-minute-a-3c4ced33-38c4-42ca-903a-1655338e4409#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestag-einigung-von-spd-union-und-gruenen-zu-schuldenbremse-so-fallen-die-reaktionen-aus](https://www.spiegel.de/politik/deutschland/bundestag-einigung-von-spd-union-und-gruenen-zu-schuldenbremse-so-fallen-die-reaktionen-aus-a-71560d04-d12d-4419-80fa-0de628694105#ref=rss)
+### sondervermögen
+
+* [https://www.spiegel.de/politik/deutschland/schwarz-rot-gruene-einigung-kompromiss-in-letzter-minute](https://www.spiegel.de/politik/deutschland/schwarz-rot-gruene-einigung-kompromiss-in-letzter-minute-a-3c4ced33-38c4-42ca-903a-1655338e4409#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestag-einigung-von-spd-union-und-gruenen-zu-schuldenbremse-so-fallen-die-reaktionen-aus](https://www.spiegel.de/politik/deutschland/bundestag-einigung-von-spd-union-und-gruenen-zu-schuldenbremse-so-fallen-die-reaktionen-aus-a-71560d04-d12d-4419-80fa-0de628694105#ref=rss)
+### ohne
+
+* [https://www.spiegel.de/panorama/touristen-fails-geklauter-wombat-ohne-hose-auf-chinesischer-mauer-oder-umsonst-nach-bali](https://www.spiegel.de/panorama/touristen-fails-geklauter-wombat-ohne-hose-auf-chinesischer-mauer-oder-umsonst-nach-bali-a-c128c809-2a59-4cf7-a598-33914bad00b8#ref=rss)
+### hose
+
+* [https://www.spiegel.de/panorama/touristen-fails-geklauter-wombat-ohne-hose-auf-chinesischer-mauer-oder-umsonst-nach-bali](https://www.spiegel.de/panorama/touristen-fails-geklauter-wombat-ohne-hose-auf-chinesischer-mauer-oder-umsonst-nach-bali-a-c128c809-2a59-4cf7-a598-33914bad00b8#ref=rss)
+### mauer
+
+* [https://www.spiegel.de/panorama/touristen-fails-geklauter-wombat-ohne-hose-auf-chinesischer-mauer-oder-umsonst-nach-bali](https://www.spiegel.de/panorama/touristen-fails-geklauter-wombat-ohne-hose-auf-chinesischer-mauer-oder-umsonst-nach-bali-a-c128c809-2a59-4cf7-a598-33914bad00b8#ref=rss)
+### stellen
+
+* [https://www.spiegel.de/panorama/touristen-fails-geklauter-wombat-ohne-hose-auf-chinesischer-mauer-oder-umsonst-nach-bali](https://www.spiegel.de/panorama/touristen-fails-geklauter-wombat-ohne-hose-auf-chinesischer-mauer-oder-umsonst-nach-bali-a-c128c809-2a59-4cf7-a598-33914bad00b8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bayern-landraete-unterstuetzen-schuldenpaket-gegen-aiwangers-kurs](https://www.spiegel.de/politik/deutschland/bayern-landraete-unterstuetzen-schuldenpaket-gegen-aiwangers-kurs-a-24912bbb-795f-4010-b3bb-d6ab3fa30a2d#ref=rss)
+### gelbhaar
+
+* [https://www.spiegel.de/kultur/rbb-ruecktritte-nach-der-causa-gelbhaar-eine-bombe-mit-spaetzuender](https://www.spiegel.de/kultur/rbb-ruecktritte-nach-der-causa-gelbhaar-eine-bombe-mit-spaetzuender-a-31e1dcf6-9277-4da3-9ba2-2254b6fda26a#ref=rss)
+### gehen
+
+* [https://www.spiegel.de/kultur/rbb-ruecktritte-nach-der-causa-gelbhaar-eine-bombe-mit-spaetzuender](https://www.spiegel.de/kultur/rbb-ruecktritte-nach-der-causa-gelbhaar-eine-bombe-mit-spaetzuender-a-31e1dcf6-9277-4da3-9ba2-2254b6fda26a#ref=rss)
+* [https://www.spiegel.de/ausland/demian-hanul-antirussischer-aktivist-in-odessa-erschossen](https://www.spiegel.de/ausland/demian-hanul-antirussischer-aktivist-in-odessa-erschossen-a-64b3c885-e5d8-4747-8d5b-8fa10a295b4a#ref=rss)
+### sarscov2
+
+* [https://www.spiegel.de/wissenschaft/lothar-wieler-haelt-labor-ursprung-von-sars-cov-2-fuer-die-wahrscheinlichere-these](https://www.spiegel.de/wissenschaft/lothar-wieler-haelt-labor-ursprung-von-sars-cov-2-fuer-die-wahrscheinlichere-these-a-1e2bcf76-2bfa-4fb4-b3bb-a9a0ed6ac606#ref=rss)
+### chef
+
+* [https://www.spiegel.de/wissenschaft/lothar-wieler-haelt-labor-ursprung-von-sars-cov-2-fuer-die-wahrscheinlichere-these](https://www.spiegel.de/wissenschaft/lothar-wieler-haelt-labor-ursprung-von-sars-cov-2-fuer-die-wahrscheinlichere-these-a-1e2bcf76-2bfa-4fb4-b3bb-a9a0ed6ac606#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/spanien-tonnenweise-cannabis-geschmuggelt-chef-von-drogenbande-gefasst](https://www.spiegel.de/panorama/justiz/spanien-tonnenweise-cannabis-geschmuggelt-chef-von-drogenbande-gefasst-a-5b4cfad0-5ffe-4514-918f-c9225246541e#ref=rss)
+### geäußert
+
+* [https://www.spiegel.de/wissenschaft/lothar-wieler-haelt-labor-ursprung-von-sars-cov-2-fuer-die-wahrscheinlichere-these](https://www.spiegel.de/wissenschaft/lothar-wieler-haelt-labor-ursprung-von-sars-cov-2-fuer-die-wahrscheinlichere-these-a-1e2bcf76-2bfa-4fb4-b3bb-a9a0ed6ac606#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/schwarz-rote-finanzplaene-spd-kommentiert-einigung-im-schuldenpaket](https://www.spiegel.de/politik/deutschland/schwarz-rote-finanzplaene-spd-kommentiert-einigung-im-schuldenpaket-a-ac381ca7-3736-4e26-a7c2-267b423f917b#ref=rss)
+### ted
+
+* [https://www.spiegel.de/kultur/tv/apple-tv-ted-lasso-bekommt-vierte-staffel](https://www.spiegel.de/kultur/tv/apple-tv-ted-lasso-bekommt-vierte-staffel-a-abf8fcd9-8ee5-4274-a463-e52ffbaba7e0#ref=rss)
+### lasso
+
+* [https://www.spiegel.de/kultur/tv/apple-tv-ted-lasso-bekommt-vierte-staffel](https://www.spiegel.de/kultur/tv/apple-tv-ted-lasso-bekommt-vierte-staffel-a-abf8fcd9-8ee5-4274-a463-e52ffbaba7e0#ref=rss)
+### vierte
+
+* [https://www.spiegel.de/kultur/tv/apple-tv-ted-lasso-bekommt-vierte-staffel](https://www.spiegel.de/kultur/tv/apple-tv-ted-lasso-bekommt-vierte-staffel-a-abf8fcd9-8ee5-4274-a463-e52ffbaba7e0#ref=rss)
+### staffel
+
+* [https://www.spiegel.de/kultur/tv/apple-tv-ted-lasso-bekommt-vierte-staffel](https://www.spiegel.de/kultur/tv/apple-tv-ted-lasso-bekommt-vierte-staffel-a-abf8fcd9-8ee5-4274-a463-e52ffbaba7e0#ref=rss)
+### nachricht
+
+* [https://www.spiegel.de/kultur/tv/apple-tv-ted-lasso-bekommt-vierte-staffel](https://www.spiegel.de/kultur/tv/apple-tv-ted-lasso-bekommt-vierte-staffel-a-abf8fcd9-8ee5-4274-a463-e52ffbaba7e0#ref=rss)
+* [https://www.spiegel.de/ausland/ukrainekrieg-donald-trump-bittet-wladimir-putin-um-milde-fuer-ukrainische-soldaten](https://www.spiegel.de/ausland/ukrainekrieg-donald-trump-bittet-wladimir-putin-um-milde-fuer-ukrainische-soldaten-a-4c694fbf-6f93-4b03-a4fe-f0373991ccb8#ref=rss)
+### spanien
+
+* [https://www.spiegel.de/panorama/justiz/spanien-tonnenweise-cannabis-geschmuggelt-chef-von-drogenbande-gefasst](https://www.spiegel.de/panorama/justiz/spanien-tonnenweise-cannabis-geschmuggelt-chef-von-drogenbande-gefasst-a-5b4cfad0-5ffe-4514-918f-c9225246541e#ref=rss)
+### kopf
+
+* [https://www.spiegel.de/panorama/justiz/spanien-tonnenweise-cannabis-geschmuggelt-chef-von-drogenbande-gefasst](https://www.spiegel.de/panorama/justiz/spanien-tonnenweise-cannabis-geschmuggelt-chef-von-drogenbande-gefasst-a-5b4cfad0-5ffe-4514-918f-c9225246541e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-lebenslange-haft-fuer-ex-paar-nach-versuchtem-raubmord-an-80-jaehrigem](https://www.spiegel.de/panorama/justiz/berlin-lebenslange-haft-fuer-ex-paar-nach-versuchtem-raubmord-an-80-jaehrigem-a-48199cd2-f846-4d9f-8ec4-86d2209b45a3#ref=rss)
+### gruppe
+
+* [https://www.spiegel.de/panorama/justiz/spanien-tonnenweise-cannabis-geschmuggelt-chef-von-drogenbande-gefasst](https://www.spiegel.de/panorama/justiz/spanien-tonnenweise-cannabis-geschmuggelt-chef-von-drogenbande-gefasst-a-5b4cfad0-5ffe-4514-918f-c9225246541e#ref=rss)
+* [https://www.spiegel.de/ausland/demian-hanul-antirussischer-aktivist-in-odessa-erschossen](https://www.spiegel.de/ausland/demian-hanul-antirussischer-aktivist-in-odessa-erschossen-a-64b3c885-e5d8-4747-8d5b-8fa10a295b4a#ref=rss)
+### landräte
+
+* [https://www.spiegel.de/politik/deutschland/bayern-landraete-unterstuetzen-schuldenpaket-gegen-aiwangers-kurs](https://www.spiegel.de/politik/deutschland/bayern-landraete-unterstuetzen-schuldenpaket-gegen-aiwangers-kurs-a-24912bbb-795f-4010-b3bb-d6ab3fa30a2d#ref=rss)
+### vorhaben
+
+* [https://www.spiegel.de/politik/deutschland/bayern-landraete-unterstuetzen-schuldenpaket-gegen-aiwangers-kurs](https://www.spiegel.de/politik/deutschland/bayern-landraete-unterstuetzen-schuldenpaket-gegen-aiwangers-kurs-a-24912bbb-795f-4010-b3bb-d6ab3fa30a2d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-weist-eilantrag-gegen-einberufung-des-alten-bundestages-zurueck](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-weist-eilantrag-gegen-einberufung-des-alten-bundestages-zurueck-a-f3d075db-5da7-4ca9-a9d1-7af050d9ae7f#ref=rss)
+### partei
+
+* [https://www.spiegel.de/politik/deutschland/einigung-zwischen-union-spd-und-gruenen-das-ist-ein-historisches-signal](https://www.spiegel.de/politik/deutschland/einigung-zwischen-union-spd-und-gruenen-das-ist-ein-historisches-signal-a-8a1f646a-02ab-4af8-8cfc-94cb81512f40#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bsw-aus-im-bundestag-knapp-daneben-ist-auch-vorbei](https://www.spiegel.de/politik/deutschland/bsw-aus-im-bundestag-knapp-daneben-ist-auch-vorbei-a-9f0b07d9-273a-45d8-898e-d33f55484395#ref=rss)
+### lady
+
+* [https://www.spiegel.de/kultur/musik/lady-gaga-ist-nach-14-jahren-wieder-die-nr-1-in-den-deutschen-charts](https://www.spiegel.de/kultur/musik/lady-gaga-ist-nach-14-jahren-wieder-die-nr-1-in-den-deutschen-charts-a-2f3a9c55-0636-42a8-8767-86033a22057c#ref=rss)
+### gaga
+
+* [https://www.spiegel.de/kultur/musik/lady-gaga-ist-nach-14-jahren-wieder-die-nr-1-in-den-deutschen-charts](https://www.spiegel.de/kultur/musik/lady-gaga-ist-nach-14-jahren-wieder-die-nr-1-in-den-deutschen-charts-a-2f3a9c55-0636-42a8-8767-86033a22057c#ref=rss)
+### charts
+
+* [https://www.spiegel.de/kultur/musik/lady-gaga-ist-nach-14-jahren-wieder-die-nr-1-in-den-deutschen-charts](https://www.spiegel.de/kultur/musik/lady-gaga-ist-nach-14-jahren-wieder-die-nr-1-in-den-deutschen-charts-a-2f3a9c55-0636-42a8-8767-86033a22057c#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/kultur/musik/lady-gaga-ist-nach-14-jahren-wieder-die-nr-1-in-den-deutschen-charts](https://www.spiegel.de/kultur/musik/lady-gaga-ist-nach-14-jahren-wieder-die-nr-1-in-den-deutschen-charts-a-2f3a9c55-0636-42a8-8767-86033a22057c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-weist-eilantrag-gegen-einberufung-des-alten-bundestages-zurueck](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-weist-eilantrag-gegen-einberufung-des-alten-bundestages-zurueck-a-f3d075db-5da7-4ca9-a9d1-7af050d9ae7f#ref=rss)
+### bundesverfassungsgericht
+
+* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-weist-eilantrag-gegen-einberufung-des-alten-bundestages-zurueck](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-weist-eilantrag-gegen-einberufung-des-alten-bundestages-zurueck-a-f3d075db-5da7-4ca9-a9d1-7af050d9ae7f#ref=rss)
+### geplanten
+
+* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-weist-eilantrag-gegen-einberufung-des-alten-bundestages-zurueck](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-weist-eilantrag-gegen-einberufung-des-alten-bundestages-zurueck-a-f3d075db-5da7-4ca9-a9d1-7af050d9ae7f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/celle-freispruch-fuer-39-jaehrige-in-reichsbuergerprozess-gefordert](https://www.spiegel.de/panorama/justiz/celle-freispruch-fuer-39-jaehrige-in-reichsbuergerprozess-gefordert-a-ba6c624b-721a-4102-bb4c-1614395e2437#ref=rss)
+### afd
+
+* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-weist-eilantrag-gegen-einberufung-des-alten-bundestages-zurueck](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-weist-eilantrag-gegen-einberufung-des-alten-bundestages-zurueck-a-f3d075db-5da7-4ca9-a9d1-7af050d9ae7f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestag-einigung-von-spd-union-und-gruenen-zu-schuldenbremse-so-fallen-die-reaktionen-aus](https://www.spiegel.de/politik/deutschland/bundestag-einigung-von-spd-union-und-gruenen-zu-schuldenbremse-so-fallen-die-reaktionen-aus-a-71560d04-d12d-4419-80fa-0de628694105#ref=rss)
+### linke
+
+* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-weist-eilantrag-gegen-einberufung-des-alten-bundestages-zurueck](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-weist-eilantrag-gegen-einberufung-des-alten-bundestages-zurueck-a-f3d075db-5da7-4ca9-a9d1-7af050d9ae7f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestag-einigung-von-spd-union-und-gruenen-zu-schuldenbremse-so-fallen-die-reaktionen-aus](https://www.spiegel.de/politik/deutschland/bundestag-einigung-von-spd-union-und-gruenen-zu-schuldenbremse-so-fallen-die-reaktionen-aus-a-71560d04-d12d-4419-80fa-0de628694105#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/ukrainekrieg-donald-trump-bittet-wladimir-putin-um-milde-fuer-ukrainische-soldaten](https://www.spiegel.de/ausland/ukrainekrieg-donald-trump-bittet-wladimir-putin-um-milde-fuer-ukrainische-soldaten-a-4c694fbf-6f93-4b03-a4fe-f0373991ccb8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/inflation-usa-bitten-daenemark-um-eier-zur-preisstabilisierung](https://www.spiegel.de/wirtschaft/inflation-usa-bitten-daenemark-um-eier-zur-preisstabilisierung-a-1f1cdb33-4716-4f17-863d-34c4d7b9e98b#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/ukrainekrieg-donald-trump-bittet-wladimir-putin-um-milde-fuer-ukrainische-soldaten](https://www.spiegel.de/ausland/ukrainekrieg-donald-trump-bittet-wladimir-putin-um-milde-fuer-ukrainische-soldaten-a-4c694fbf-6f93-4b03-a4fe-f0373991ccb8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/inflation-usa-bitten-daenemark-um-eier-zur-preisstabilisierung](https://www.spiegel.de/wirtschaft/inflation-usa-bitten-daenemark-um-eier-zur-preisstabilisierung-a-1f1cdb33-4716-4f17-863d-34c4d7b9e98b#ref=rss)
+### ukrainische
+
+* [https://www.spiegel.de/ausland/ukrainekrieg-donald-trump-bittet-wladimir-putin-um-milde-fuer-ukrainische-soldaten](https://www.spiegel.de/ausland/ukrainekrieg-donald-trump-bittet-wladimir-putin-um-milde-fuer-ukrainische-soldaten-a-4c694fbf-6f93-4b03-a4fe-f0373991ccb8#ref=rss)
+### soldaten
+
+* [https://www.spiegel.de/ausland/ukrainekrieg-donald-trump-bittet-wladimir-putin-um-milde-fuer-ukrainische-soldaten](https://www.spiegel.de/ausland/ukrainekrieg-donald-trump-bittet-wladimir-putin-um-milde-fuer-ukrainische-soldaten-a-4c694fbf-6f93-4b03-a4fe-f0373991ccb8#ref=rss)
+### verklagt
+
+* [https://www.spiegel.de/wissenschaft/mensch/klimakrise-peruanischer-bauer-verklagt-deutschen-energiekonzern-auf-entschaedigung](https://www.spiegel.de/wissenschaft/mensch/klimakrise-peruanischer-bauer-verklagt-deutschen-energiekonzern-auf-entschaedigung-a-f43b59b2-3575-483a-9544-17bedb17d0a3#ref=rss)
+### energiekonzern
+
+* [https://www.spiegel.de/wissenschaft/mensch/klimakrise-peruanischer-bauer-verklagt-deutschen-energiekonzern-auf-entschaedigung](https://www.spiegel.de/wissenschaft/mensch/klimakrise-peruanischer-bauer-verklagt-deutschen-energiekonzern-auf-entschaedigung-a-f43b59b2-3575-483a-9544-17bedb17d0a3#ref=rss)
+### mann
+
+* [https://www.spiegel.de/wissenschaft/mensch/klimakrise-peruanischer-bauer-verklagt-deutschen-energiekonzern-auf-entschaedigung](https://www.spiegel.de/wissenschaft/mensch/klimakrise-peruanischer-bauer-verklagt-deutschen-energiekonzern-auf-entschaedigung-a-f43b59b2-3575-483a-9544-17bedb17d0a3#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-lebenslange-haft-fuer-ex-paar-nach-versuchtem-raubmord-an-80-jaehrigem](https://www.spiegel.de/panorama/justiz/berlin-lebenslange-haft-fuer-ex-paar-nach-versuchtem-raubmord-an-80-jaehrigem-a-48199cd2-f846-4d9f-8ec4-86d2209b45a3#ref=rss)
+### schließung
+
+* [https://www.spiegel.de/panorama/bildung/corona-schliessung-von-schulen-und-kitas-in-der-pandemie-kinder-und-jugendliche-zuletzt](https://www.spiegel.de/panorama/bildung/corona-schliessung-von-schulen-und-kitas-in-der-pandemie-kinder-und-jugendliche-zuletzt-a-f5d88a38-0f76-44bc-90d3-da8519536be3#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/schliessung-von-schulen-und-kitas-in-der-corona-pandemie-kinder-und-jugendliche-zuletzt](https://www.spiegel.de/panorama/bildung/schliessung-von-schulen-und-kitas-in-der-corona-pandemie-kinder-und-jugendliche-zuletzt-a-0f6f9b92-2322-40b5-9f3f-2ab9f9c0f608#ref=rss)
+### zuletzt
+
+* [https://www.spiegel.de/panorama/bildung/corona-schliessung-von-schulen-und-kitas-in-der-pandemie-kinder-und-jugendliche-zuletzt](https://www.spiegel.de/panorama/bildung/corona-schliessung-von-schulen-und-kitas-in-der-pandemie-kinder-und-jugendliche-zuletzt-a-f5d88a38-0f76-44bc-90d3-da8519536be3#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/schliessung-von-schulen-und-kitas-in-der-corona-pandemie-kinder-und-jugendliche-zuletzt](https://www.spiegel.de/panorama/bildung/schliessung-von-schulen-und-kitas-in-der-corona-pandemie-kinder-und-jugendliche-zuletzt-a-0f6f9b92-2322-40b5-9f3f-2ab9f9c0f608#ref=rss)
+### mussten
+
+* [https://www.spiegel.de/panorama/bildung/corona-schliessung-von-schulen-und-kitas-in-der-pandemie-kinder-und-jugendliche-zuletzt](https://www.spiegel.de/panorama/bildung/corona-schliessung-von-schulen-und-kitas-in-der-pandemie-kinder-und-jugendliche-zuletzt-a-f5d88a38-0f76-44bc-90d3-da8519536be3#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/schliessung-von-schulen-und-kitas-in-der-corona-pandemie-kinder-und-jugendliche-zuletzt](https://www.spiegel.de/panorama/bildung/schliessung-von-schulen-und-kitas-in-der-corona-pandemie-kinder-und-jugendliche-zuletzt-a-0f6f9b92-2322-40b5-9f3f-2ab9f9c0f608#ref=rss)
+### bundesweit
+
+* [https://www.spiegel.de/panorama/bildung/corona-schliessung-von-schulen-und-kitas-in-der-pandemie-kinder-und-jugendliche-zuletzt](https://www.spiegel.de/panorama/bildung/corona-schliessung-von-schulen-und-kitas-in-der-pandemie-kinder-und-jugendliche-zuletzt-a-f5d88a38-0f76-44bc-90d3-da8519536be3#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/schliessung-von-schulen-und-kitas-in-der-corona-pandemie-kinder-und-jugendliche-zuletzt](https://www.spiegel.de/panorama/bildung/schliessung-von-schulen-und-kitas-in-der-corona-pandemie-kinder-und-jugendliche-zuletzt-a-0f6f9b92-2322-40b5-9f3f-2ab9f9c0f608#ref=rss)
+### schließen
+
+* [https://www.spiegel.de/panorama/bildung/corona-schliessung-von-schulen-und-kitas-in-der-pandemie-kinder-und-jugendliche-zuletzt](https://www.spiegel.de/panorama/bildung/corona-schliessung-von-schulen-und-kitas-in-der-pandemie-kinder-und-jugendliche-zuletzt-a-f5d88a38-0f76-44bc-90d3-da8519536be3#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/schliessung-von-schulen-und-kitas-in-der-corona-pandemie-kinder-und-jugendliche-zuletzt](https://www.spiegel.de/panorama/bildung/schliessung-von-schulen-und-kitas-in-der-corona-pandemie-kinder-und-jugendliche-zuletzt-a-0f6f9b92-2322-40b5-9f3f-2ab9f9c0f608#ref=rss)
+### anfangs
+
+* [https://www.spiegel.de/panorama/bildung/corona-schliessung-von-schulen-und-kitas-in-der-pandemie-kinder-und-jugendliche-zuletzt](https://www.spiegel.de/panorama/bildung/corona-schliessung-von-schulen-und-kitas-in-der-pandemie-kinder-und-jugendliche-zuletzt-a-f5d88a38-0f76-44bc-90d3-da8519536be3#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/schliessung-von-schulen-und-kitas-in-der-corona-pandemie-kinder-und-jugendliche-zuletzt](https://www.spiegel.de/panorama/bildung/schliessung-von-schulen-und-kitas-in-der-corona-pandemie-kinder-und-jugendliche-zuletzt-a-0f6f9b92-2322-40b5-9f3f-2ab9f9c0f608#ref=rss)
+### galt
+
+* [https://www.spiegel.de/panorama/bildung/corona-schliessung-von-schulen-und-kitas-in-der-pandemie-kinder-und-jugendliche-zuletzt](https://www.spiegel.de/panorama/bildung/corona-schliessung-von-schulen-und-kitas-in-der-pandemie-kinder-und-jugendliche-zuletzt-a-f5d88a38-0f76-44bc-90d3-da8519536be3#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/schliessung-von-schulen-und-kitas-in-der-corona-pandemie-kinder-und-jugendliche-zuletzt](https://www.spiegel.de/panorama/bildung/schliessung-von-schulen-und-kitas-in-der-corona-pandemie-kinder-und-jugendliche-zuletzt-a-0f6f9b92-2322-40b5-9f3f-2ab9f9c0f608#ref=rss)
+### höchste
+
+* [https://www.spiegel.de/panorama/bildung/corona-schliessung-von-schulen-und-kitas-in-der-pandemie-kinder-und-jugendliche-zuletzt](https://www.spiegel.de/panorama/bildung/corona-schliessung-von-schulen-und-kitas-in-der-pandemie-kinder-und-jugendliche-zuletzt-a-f5d88a38-0f76-44bc-90d3-da8519536be3#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/schliessung-von-schulen-und-kitas-in-der-corona-pandemie-kinder-und-jugendliche-zuletzt](https://www.spiegel.de/panorama/bildung/schliessung-von-schulen-und-kitas-in-der-corona-pandemie-kinder-und-jugendliche-zuletzt-a-0f6f9b92-2322-40b5-9f3f-2ab9f9c0f608#ref=rss)
+### vorsicht
+
+* [https://www.spiegel.de/panorama/bildung/corona-schliessung-von-schulen-und-kitas-in-der-pandemie-kinder-und-jugendliche-zuletzt](https://www.spiegel.de/panorama/bildung/corona-schliessung-von-schulen-und-kitas-in-der-pandemie-kinder-und-jugendliche-zuletzt-a-f5d88a38-0f76-44bc-90d3-da8519536be3#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/schliessung-von-schulen-und-kitas-in-der-corona-pandemie-kinder-und-jugendliche-zuletzt](https://www.spiegel.de/panorama/bildung/schliessung-von-schulen-und-kitas-in-der-corona-pandemie-kinder-und-jugendliche-zuletzt-a-0f6f9b92-2322-40b5-9f3f-2ab9f9c0f608#ref=rss)
+### alle
+
+* [https://www.spiegel.de/panorama/bildung/corona-schliessung-von-schulen-und-kitas-in-der-pandemie-kinder-und-jugendliche-zuletzt](https://www.spiegel.de/panorama/bildung/corona-schliessung-von-schulen-und-kitas-in-der-pandemie-kinder-und-jugendliche-zuletzt-a-f5d88a38-0f76-44bc-90d3-da8519536be3#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/schliessung-von-schulen-und-kitas-in-der-corona-pandemie-kinder-und-jugendliche-zuletzt](https://www.spiegel.de/panorama/bildung/schliessung-von-schulen-und-kitas-in-der-corona-pandemie-kinder-und-jugendliche-zuletzt-a-0f6f9b92-2322-40b5-9f3f-2ab9f9c0f608#ref=rss)
+### systematisch
+
+* [https://www.spiegel.de/panorama/bildung/corona-schliessung-von-schulen-und-kitas-in-der-pandemie-kinder-und-jugendliche-zuletzt](https://www.spiegel.de/panorama/bildung/corona-schliessung-von-schulen-und-kitas-in-der-pandemie-kinder-und-jugendliche-zuletzt-a-f5d88a38-0f76-44bc-90d3-da8519536be3#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/schliessung-von-schulen-und-kitas-in-der-corona-pandemie-kinder-und-jugendliche-zuletzt](https://www.spiegel.de/panorama/bildung/schliessung-von-schulen-und-kitas-in-der-corona-pandemie-kinder-und-jugendliche-zuletzt-a-0f6f9b92-2322-40b5-9f3f-2ab9f9c0f608#ref=rss)
+### benachteiligt
+
+* [https://www.spiegel.de/panorama/bildung/corona-schliessung-von-schulen-und-kitas-in-der-pandemie-kinder-und-jugendliche-zuletzt](https://www.spiegel.de/panorama/bildung/corona-schliessung-von-schulen-und-kitas-in-der-pandemie-kinder-und-jugendliche-zuletzt-a-f5d88a38-0f76-44bc-90d3-da8519536be3#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/schliessung-von-schulen-und-kitas-in-der-corona-pandemie-kinder-und-jugendliche-zuletzt](https://www.spiegel.de/panorama/bildung/schliessung-von-schulen-und-kitas-in-der-corona-pandemie-kinder-und-jugendliche-zuletzt-a-0f6f9b92-2322-40b5-9f3f-2ab9f9c0f608#ref=rss)
+### spiegelredakteurin
+
+* [https://www.spiegel.de/panorama/bildung/corona-schliessung-von-schulen-und-kitas-in-der-pandemie-kinder-und-jugendliche-zuletzt](https://www.spiegel.de/panorama/bildung/corona-schliessung-von-schulen-und-kitas-in-der-pandemie-kinder-und-jugendliche-zuletzt-a-f5d88a38-0f76-44bc-90d3-da8519536be3#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/schliessung-von-schulen-und-kitas-in-der-corona-pandemie-kinder-und-jugendliche-zuletzt](https://www.spiegel.de/panorama/bildung/schliessung-von-schulen-und-kitas-in-der-corona-pandemie-kinder-und-jugendliche-zuletzt-a-0f6f9b92-2322-40b5-9f3f-2ab9f9c0f608#ref=rss)
+### silke
+
+* [https://www.spiegel.de/panorama/bildung/corona-schliessung-von-schulen-und-kitas-in-der-pandemie-kinder-und-jugendliche-zuletzt](https://www.spiegel.de/panorama/bildung/corona-schliessung-von-schulen-und-kitas-in-der-pandemie-kinder-und-jugendliche-zuletzt-a-f5d88a38-0f76-44bc-90d3-da8519536be3#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/schliessung-von-schulen-und-kitas-in-der-corona-pandemie-kinder-und-jugendliche-zuletzt](https://www.spiegel.de/panorama/bildung/schliessung-von-schulen-und-kitas-in-der-corona-pandemie-kinder-und-jugendliche-zuletzt-a-0f6f9b92-2322-40b5-9f3f-2ab9f9c0f608#ref=rss)
+### fokken
+
+* [https://www.spiegel.de/panorama/bildung/corona-schliessung-von-schulen-und-kitas-in-der-pandemie-kinder-und-jugendliche-zuletzt](https://www.spiegel.de/panorama/bildung/corona-schliessung-von-schulen-und-kitas-in-der-pandemie-kinder-und-jugendliche-zuletzt-a-f5d88a38-0f76-44bc-90d3-da8519536be3#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/schliessung-von-schulen-und-kitas-in-der-corona-pandemie-kinder-und-jugendliche-zuletzt](https://www.spiegel.de/panorama/bildung/schliessung-von-schulen-und-kitas-in-der-corona-pandemie-kinder-und-jugendliche-zuletzt-a-0f6f9b92-2322-40b5-9f3f-2ab9f9c0f608#ref=rss)
+### analysiert
+
+* [https://www.spiegel.de/panorama/bildung/corona-schliessung-von-schulen-und-kitas-in-der-pandemie-kinder-und-jugendliche-zuletzt](https://www.spiegel.de/panorama/bildung/corona-schliessung-von-schulen-und-kitas-in-der-pandemie-kinder-und-jugendliche-zuletzt-a-f5d88a38-0f76-44bc-90d3-da8519536be3#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/schliessung-von-schulen-und-kitas-in-der-corona-pandemie-kinder-und-jugendliche-zuletzt](https://www.spiegel.de/panorama/bildung/schliessung-von-schulen-und-kitas-in-der-corona-pandemie-kinder-und-jugendliche-zuletzt-a-0f6f9b92-2322-40b5-9f3f-2ab9f9c0f608#ref=rss)
+### folgen
+
+* [https://www.spiegel.de/panorama/bildung/corona-schliessung-von-schulen-und-kitas-in-der-pandemie-kinder-und-jugendliche-zuletzt](https://www.spiegel.de/panorama/bildung/corona-schliessung-von-schulen-und-kitas-in-der-pandemie-kinder-und-jugendliche-zuletzt-a-f5d88a38-0f76-44bc-90d3-da8519536be3#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/schliessung-von-schulen-und-kitas-in-der-corona-pandemie-kinder-und-jugendliche-zuletzt](https://www.spiegel.de/panorama/bildung/schliessung-von-schulen-und-kitas-in-der-corona-pandemie-kinder-und-jugendliche-zuletzt-a-0f6f9b92-2322-40b5-9f3f-2ab9f9c0f608#ref=rss)
+### frau
+
+* [https://www.spiegel.de/panorama/justiz/berlin-lebenslange-haft-fuer-ex-paar-nach-versuchtem-raubmord-an-80-jaehrigem](https://www.spiegel.de/panorama/justiz/berlin-lebenslange-haft-fuer-ex-paar-nach-versuchtem-raubmord-an-80-jaehrigem-a-48199cd2-f846-4d9f-8ec4-86d2209b45a3#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/celle-freispruch-fuer-39-jaehrige-in-reichsbuergerprozess-gefordert](https://www.spiegel.de/panorama/justiz/celle-freispruch-fuer-39-jaehrige-in-reichsbuergerprozess-gefordert-a-ba6c624b-721a-4102-bb4c-1614395e2437#ref=rss)
+### eier
+
+* [https://www.spiegel.de/wirtschaft/inflation-usa-bitten-daenemark-um-eier-zur-preisstabilisierung](https://www.spiegel.de/wirtschaft/inflation-usa-bitten-daenemark-um-eier-zur-preisstabilisierung-a-1f1cdb33-4716-4f17-863d-34c4d7b9e98b#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/wirtschaft/inflation-usa-bitten-daenemark-um-eier-zur-preisstabilisierung](https://www.spiegel.de/wirtschaft/inflation-usa-bitten-daenemark-um-eier-zur-preisstabilisierung-a-1f1cdb33-4716-4f17-863d-34c4d7b9e98b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/celle-freispruch-fuer-39-jaehrige-in-reichsbuergerprozess-gefordert](https://www.spiegel.de/panorama/justiz/celle-freispruch-fuer-39-jaehrige-in-reichsbuergerprozess-gefordert-a-ba6c624b-721a-4102-bb4c-1614395e2437#ref=rss)
 ### friedrich
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-der-union-wachsen-die-zweifel-an-ihm](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-der-union-wachsen-die-zweifel-an-ihm-a-180c5819-56ae-4ea1-9987-562a03a469fb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/einigung-auf-grundgesetzaenderung-regieren-fuer-anfaenger-kommentar](https://www.spiegel.de/politik/deutschland/einigung-auf-grundgesetzaenderung-regieren-fuer-anfaenger-kommentar-a-26bb2c37-ae42-4ea8-b072-7206db16f5de#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/schwarz-rote-finanzplaene-spd-kommentiert-einigung-im-schuldenpaket](https://www.spiegel.de/politik/deutschland/schwarz-rote-finanzplaene-spd-kommentiert-einigung-im-schuldenpaket-a-ac381ca7-3736-4e26-a7c2-267b423f917b#ref=rss)
 ### merz
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-der-union-wachsen-die-zweifel-an-ihm](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-der-union-wachsen-die-zweifel-an-ihm-a-180c5819-56ae-4ea1-9987-562a03a469fb#ref=rss)
-### zweifel
+* [https://www.spiegel.de/politik/deutschland/einigung-auf-grundgesetzaenderung-regieren-fuer-anfaenger-kommentar](https://www.spiegel.de/politik/deutschland/einigung-auf-grundgesetzaenderung-regieren-fuer-anfaenger-kommentar-a-26bb2c37-ae42-4ea8-b072-7206db16f5de#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/schwarz-rote-finanzplaene-spd-kommentiert-einigung-im-schuldenpaket](https://www.spiegel.de/politik/deutschland/schwarz-rote-finanzplaene-spd-kommentiert-einigung-im-schuldenpaket-a-ac381ca7-3736-4e26-a7c2-267b423f917b#ref=rss)
+### europaminister
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-der-union-wachsen-die-zweifel-an-ihm](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-der-union-wachsen-die-zweifel-an-ihm-a-180c5819-56ae-4ea1-9987-562a03a469fb#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-laesst-pentagon-plaene-zur-rueckgewinnung-des-panamakanals-vorbereiten](https://www.spiegel.de/ausland/donald-trump-laesst-pentagon-plaene-zur-rueckgewinnung-des-panamakanals-vorbereiten-a-aff74b00-da13-46f1-a7e2-2036922c499f#ref=rss)
-### deutsche
+* [https://www.spiegel.de/ausland/frankreich-europaminister-benjamin-haddad-ueber-verteidigung-und-atomschutz-fuer-deutschland](https://www.spiegel.de/ausland/frankreich-europaminister-benjamin-haddad-ueber-verteidigung-und-atomschutz-fuer-deutschland-a-9dd74c29-101b-4773-94b3-a088230686dc#ref=rss)
+### benjamin
 
-* [https://www.spiegel.de/wissenschaft/klimapolitik-deutsche-klimaziele-2030-gefaehrdet-trotz-emissionsrueckgang](https://www.spiegel.de/wissenschaft/klimapolitik-deutsche-klimaziele-2030-gefaehrdet-trotz-emissionsrueckgang-a-da3922e0-dfc3-426d-92ce-c3f94249ada4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bnd-bericht-zu-corona-ursprung-parlament-fordert-regierung-auf-untersuchung-oeffentlich-zu-machen](https://www.spiegel.de/politik/deutschland/bnd-bericht-zu-corona-ursprung-parlament-fordert-regierung-auf-untersuchung-oeffentlich-zu-machen-a-45a9f4da-cf72-47e7-807e-2af0905fd3fd#ref=rss)
-### klimaziele
+* [https://www.spiegel.de/ausland/frankreich-europaminister-benjamin-haddad-ueber-verteidigung-und-atomschutz-fuer-deutschland](https://www.spiegel.de/ausland/frankreich-europaminister-benjamin-haddad-ueber-verteidigung-und-atomschutz-fuer-deutschland-a-9dd74c29-101b-4773-94b3-a088230686dc#ref=rss)
+### haddad
 
-* [https://www.spiegel.de/wissenschaft/klimapolitik-deutsche-klimaziele-2030-gefaehrdet-trotz-emissionsrueckgang](https://www.spiegel.de/wissenschaft/klimapolitik-deutsche-klimaziele-2030-gefaehrdet-trotz-emissionsrueckgang-a-da3922e0-dfc3-426d-92ce-c3f94249ada4#ref=rss)
-### 2030
+* [https://www.spiegel.de/ausland/frankreich-europaminister-benjamin-haddad-ueber-verteidigung-und-atomschutz-fuer-deutschland](https://www.spiegel.de/ausland/frankreich-europaminister-benjamin-haddad-ueber-verteidigung-und-atomschutz-fuer-deutschland-a-9dd74c29-101b-4773-94b3-a088230686dc#ref=rss)
+### atomschutz
 
-* [https://www.spiegel.de/wissenschaft/klimapolitik-deutsche-klimaziele-2030-gefaehrdet-trotz-emissionsrueckgang](https://www.spiegel.de/wissenschaft/klimapolitik-deutsche-klimaziele-2030-gefaehrdet-trotz-emissionsrueckgang-a-da3922e0-dfc3-426d-92ce-c3f94249ada4#ref=rss)
-### vergangenen
+* [https://www.spiegel.de/ausland/frankreich-europaminister-benjamin-haddad-ueber-verteidigung-und-atomschutz-fuer-deutschland](https://www.spiegel.de/ausland/frankreich-europaminister-benjamin-haddad-ueber-verteidigung-und-atomschutz-fuer-deutschland-a-9dd74c29-101b-4773-94b3-a088230686dc#ref=rss)
+### xgames
 
-* [https://www.spiegel.de/wissenschaft/klimapolitik-deutsche-klimaziele-2030-gefaehrdet-trotz-emissionsrueckgang](https://www.spiegel.de/wissenschaft/klimapolitik-deutsche-klimaziele-2030-gefaehrdet-trotz-emissionsrueckgang-a-da3922e0-dfc3-426d-92ce-c3f94249ada4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/autobranche-in-der-krise-bmw-gewinn-bricht-um-37-prozent-ein](https://www.spiegel.de/wirtschaft/unternehmen/autobranche-in-der-krise-bmw-gewinn-bricht-um-37-prozent-ein-a-24ef3094-ad4d-4a83-9845-3f3ba001af80#ref=rss)
-### jahr
+* [https://www.spiegel.de/auto/x-games-extremsportveranstalter-schliesst-e-motorraeder-aus](https://www.spiegel.de/auto/x-games-extremsportveranstalter-schliesst-e-motorraeder-aus-a-c17a8be0-c28d-41d4-bc1c-f0c9c7fadb81#ref=rss)
+### prinz
 
-* [https://www.spiegel.de/wissenschaft/klimapolitik-deutsche-klimaziele-2030-gefaehrdet-trotz-emissionsrueckgang](https://www.spiegel.de/wissenschaft/klimapolitik-deutsche-klimaziele-2030-gefaehrdet-trotz-emissionsrueckgang-a-da3922e0-dfc3-426d-92ce-c3f94249ada4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/autobranche-in-der-krise-bmw-gewinn-bricht-um-37-prozent-ein](https://www.spiegel.de/wirtschaft/unternehmen/autobranche-in-der-krise-bmw-gewinn-bricht-um-37-prozent-ein-a-24ef3094-ad4d-4a83-9845-3f3ba001af80#ref=rss)
-### somalia
+* [https://www.spiegel.de/panorama/leute/prinz-william-ist-bei-spielen-seines-lieblingsteams-aston-villa-aberglaeubisch](https://www.spiegel.de/panorama/leute/prinz-william-ist-bei-spielen-seines-lieblingsteams-aston-villa-aberglaeubisch-a-3f6c57e5-7da0-4d52-9c6f-e219d83d9971#ref=rss)
+### william
 
-* [https://www.spiegel.de/ausland/trump-und-israel-pruefen-umsiedlung-von-palaestinensern-nach-somalia](https://www.spiegel.de/ausland/trump-und-israel-pruefen-umsiedlung-von-palaestinensern-nach-somalia-a-8d191e0f-cc9e-4bcf-be8b-ca9d11f8b4e6#ref=rss)
-### dessen
+* [https://www.spiegel.de/panorama/leute/prinz-william-ist-bei-spielen-seines-lieblingsteams-aston-villa-aberglaeubisch](https://www.spiegel.de/panorama/leute/prinz-william-ist-bei-spielen-seines-lieblingsteams-aston-villa-aberglaeubisch-a-3f6c57e5-7da0-4d52-9c6f-e219d83d9971#ref=rss)
+### spielen
 
-* [https://www.spiegel.de/ausland/trump-und-israel-pruefen-umsiedlung-von-palaestinensern-nach-somalia](https://www.spiegel.de/ausland/trump-und-israel-pruefen-umsiedlung-von-palaestinensern-nach-somalia-a-8d191e0f-cc9e-4bcf-be8b-ca9d11f8b4e6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/joschka-fischer-glaubt-dass-donald-trump-scheitert](https://www.spiegel.de/politik/deutschland/joschka-fischer-glaubt-dass-donald-trump-scheitert-a-fec43d8c-571e-48f2-b447-20ee79ce6776#ref=rss)
-### rennkalender
+* [https://www.spiegel.de/panorama/leute/prinz-william-ist-bei-spielen-seines-lieblingsteams-aston-villa-aberglaeubisch](https://www.spiegel.de/panorama/leute/prinz-william-ist-bei-spielen-seines-lieblingsteams-aston-villa-aberglaeubisch-a-3f6c57e5-7da0-4d52-9c6f-e219d83d9971#ref=rss)
+### seines
 
-* [https://www.spiegel.de/sport/formel1/formel-1-saison-2025-teams-fahrer-und-rennkalender](https://www.spiegel.de/sport/formel1/formel-1-saison-2025-teams-fahrer-und-rennkalender-a-1e49b6bd-d862-498e-9b6d-716bbfa00330#ref=rss)
-### team
+* [https://www.spiegel.de/panorama/leute/prinz-william-ist-bei-spielen-seines-lieblingsteams-aston-villa-aberglaeubisch](https://www.spiegel.de/panorama/leute/prinz-william-ist-bei-spielen-seines-lieblingsteams-aston-villa-aberglaeubisch-a-3f6c57e5-7da0-4d52-9c6f-e219d83d9971#ref=rss)
+### aston
 
-* [https://www.spiegel.de/sport/formel1/formel-1-saison-2025-teams-fahrer-und-rennkalender](https://www.spiegel.de/sport/formel1/formel-1-saison-2025-teams-fahrer-und-rennkalender-a-1e49b6bd-d862-498e-9b6d-716bbfa00330#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/skandal-im-skispringen-dsv-trainer-stefan-horngacher-hat-nichts-zu-verbergen](https://www.spiegel.de/sport/wintersport/skandal-im-skispringen-dsv-trainer-stefan-horngacher-hat-nichts-zu-verbergen-a-a3e5148e-eb8d-4eb1-8eec-ee3988218cb1#ref=rss)
-### australien
+* [https://www.spiegel.de/panorama/leute/prinz-william-ist-bei-spielen-seines-lieblingsteams-aston-villa-aberglaeubisch](https://www.spiegel.de/panorama/leute/prinz-william-ist-bei-spielen-seines-lieblingsteams-aston-villa-aberglaeubisch-a-3f6c57e5-7da0-4d52-9c6f-e219d83d9971#ref=rss)
+### villa
 
-* [https://www.spiegel.de/panorama/australien-entruestung-ueber-wombat-video-sogar-von-anthony-albanese-us-influencerin-sam-jones-verlaesst-das-land](https://www.spiegel.de/panorama/australien-entruestung-ueber-wombat-video-sogar-von-anthony-albanese-us-influencerin-sam-jones-verlaesst-das-land-a-31363072-2b58-4c71-8992-f1ca0e3227cf#ref=rss)
-### sam
+* [https://www.spiegel.de/panorama/leute/prinz-william-ist-bei-spielen-seines-lieblingsteams-aston-villa-aberglaeubisch](https://www.spiegel.de/panorama/leute/prinz-william-ist-bei-spielen-seines-lieblingsteams-aston-villa-aberglaeubisch-a-3f6c57e5-7da0-4d52-9c6f-e219d83d9971#ref=rss)
+### bremer
 
-* [https://www.spiegel.de/panorama/australien-entruestung-ueber-wombat-video-sogar-von-anthony-albanese-us-influencerin-sam-jones-verlaesst-das-land](https://www.spiegel.de/panorama/australien-entruestung-ueber-wombat-video-sogar-von-anthony-albanese-us-influencerin-sam-jones-verlaesst-das-land-a-31363072-2b58-4c71-8992-f1ca0e3227cf#ref=rss)
-### jones
+* [https://www.spiegel.de/panorama/bamf-affaere-ex-chefin-der-bremer-asylbehoerde-soll-pension-verlieren](https://www.spiegel.de/panorama/bamf-affaere-ex-chefin-der-bremer-asylbehoerde-soll-pension-verlieren-a-21ffce30-1682-4f62-ae4f-70c2e93212ee#ref=rss)
+### asylbehörde
 
-* [https://www.spiegel.de/panorama/australien-entruestung-ueber-wombat-video-sogar-von-anthony-albanese-us-influencerin-sam-jones-verlaesst-das-land](https://www.spiegel.de/panorama/australien-entruestung-ueber-wombat-video-sogar-von-anthony-albanese-us-influencerin-sam-jones-verlaesst-das-land-a-31363072-2b58-4c71-8992-f1ca0e3227cf#ref=rss)
-### commerzbank
+* [https://www.spiegel.de/panorama/bamf-affaere-ex-chefin-der-bremer-asylbehoerde-soll-pension-verlieren](https://www.spiegel.de/panorama/bamf-affaere-ex-chefin-der-bremer-asylbehoerde-soll-pension-verlieren-a-21ffce30-1682-4f62-ae4f-70c2e93212ee#ref=rss)
+### verlieren
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-unicredit-darf-aktienanteil-auf-29-9-prozent-erhoehen](https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-unicredit-darf-aktienanteil-auf-29-9-prozent-erhoehen-a-8cd3eb1c-8f18-4ed7-8594-1f26d1370741#ref=rss)
-### unicredit
+* [https://www.spiegel.de/panorama/bamf-affaere-ex-chefin-der-bremer-asylbehoerde-soll-pension-verlieren](https://www.spiegel.de/panorama/bamf-affaere-ex-chefin-der-bremer-asylbehoerde-soll-pension-verlieren-a-21ffce30-1682-4f62-ae4f-70c2e93212ee#ref=rss)
+### celle
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-unicredit-darf-aktienanteil-auf-29-9-prozent-erhoehen](https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-unicredit-darf-aktienanteil-auf-29-9-prozent-erhoehen-a-8cd3eb1c-8f18-4ed7-8594-1f26d1370741#ref=rss)
-### aktienanteil
+* [https://www.spiegel.de/panorama/justiz/celle-freispruch-fuer-39-jaehrige-in-reichsbuergerprozess-gefordert](https://www.spiegel.de/panorama/justiz/celle-freispruch-fuer-39-jaehrige-in-reichsbuergerprozess-gefordert-a-ba6c624b-721a-4102-bb4c-1614395e2437#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-unicredit-darf-aktienanteil-auf-29-9-prozent-erhoehen](https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-unicredit-darf-aktienanteil-auf-29-9-prozent-erhoehen-a-8cd3eb1c-8f18-4ed7-8594-1f26d1370741#ref=rss)
-### 299
+* [https://www.spiegel.de/panorama/justiz/celle-freispruch-fuer-39-jaehrige-in-reichsbuergerprozess-gefordert](https://www.spiegel.de/panorama/justiz/celle-freispruch-fuer-39-jaehrige-in-reichsbuergerprozess-gefordert-a-ba6c624b-721a-4102-bb4c-1614395e2437#ref=rss)
+* [https://www.spiegel.de/ausland/demian-hanul-antirussischer-aktivist-in-odessa-erschossen](https://www.spiegel.de/ausland/demian-hanul-antirussischer-aktivist-in-odessa-erschossen-a-64b3c885-e5d8-4747-8d5b-8fa10a295b4a#ref=rss)
+### demian
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-unicredit-darf-aktienanteil-auf-29-9-prozent-erhoehen](https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-unicredit-darf-aktienanteil-auf-29-9-prozent-erhoehen-a-8cd3eb1c-8f18-4ed7-8594-1f26d1370741#ref=rss)
-### fragen
+* [https://www.spiegel.de/ausland/demian-hanul-antirussischer-aktivist-in-odessa-erschossen](https://www.spiegel.de/ausland/demian-hanul-antirussischer-aktivist-in-odessa-erschossen-a-64b3c885-e5d8-4747-8d5b-8fa10a295b4a#ref=rss)
+### hanul
 
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### joschka
+* [https://www.spiegel.de/ausland/demian-hanul-antirussischer-aktivist-in-odessa-erschossen](https://www.spiegel.de/ausland/demian-hanul-antirussischer-aktivist-in-odessa-erschossen-a-64b3c885-e5d8-4747-8d5b-8fa10a295b4a#ref=rss)
+### aktivist
 
-* [https://www.spiegel.de/politik/deutschland/joschka-fischer-glaubt-dass-donald-trump-scheitert](https://www.spiegel.de/politik/deutschland/joschka-fischer-glaubt-dass-donald-trump-scheitert-a-fec43d8c-571e-48f2-b447-20ee79ce6776#ref=rss)
-### fischer
+* [https://www.spiegel.de/ausland/demian-hanul-antirussischer-aktivist-in-odessa-erschossen](https://www.spiegel.de/ausland/demian-hanul-antirussischer-aktivist-in-odessa-erschossen-a-64b3c885-e5d8-4747-8d5b-8fa10a295b4a#ref=rss)
+### odessa
 
-* [https://www.spiegel.de/politik/deutschland/joschka-fischer-glaubt-dass-donald-trump-scheitert](https://www.spiegel.de/politik/deutschland/joschka-fischer-glaubt-dass-donald-trump-scheitert-a-fec43d8c-571e-48f2-b447-20ee79ce6776#ref=rss)
-### glaubt
-
-* [https://www.spiegel.de/politik/deutschland/joschka-fischer-glaubt-dass-donald-trump-scheitert](https://www.spiegel.de/politik/deutschland/joschka-fischer-glaubt-dass-donald-trump-scheitert-a-fec43d8c-571e-48f2-b447-20ee79ce6776#ref=rss)
-### autobranche
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/autobranche-in-der-krise-bmw-gewinn-bricht-um-37-prozent-ein](https://www.spiegel.de/wirtschaft/unternehmen/autobranche-in-der-krise-bmw-gewinn-bricht-um-37-prozent-ein-a-24ef3094-ad4d-4a83-9845-3f3ba001af80#ref=rss)
-### konzert
-
-* [https://www.spiegel.de/panorama/leute/j-d-vance-bei-besuch-von-konzert-im-kennedy-center-ausgebuht](https://www.spiegel.de/panorama/leute/j-d-vance-bei-besuch-von-konzert-im-kennedy-center-ausgebuht-a-b0a8cad4-79f4-48db-a5f6-7aaa21188319#ref=rss)
-### kennedy
-
-* [https://www.spiegel.de/panorama/leute/j-d-vance-bei-besuch-von-konzert-im-kennedy-center-ausgebuht](https://www.spiegel.de/panorama/leute/j-d-vance-bei-besuch-von-konzert-im-kennedy-center-ausgebuht-a-b0a8cad4-79f4-48db-a5f6-7aaa21188319#ref=rss)
-### center
-
-* [https://www.spiegel.de/panorama/leute/j-d-vance-bei-besuch-von-konzert-im-kennedy-center-ausgebuht](https://www.spiegel.de/panorama/leute/j-d-vance-bei-besuch-von-konzert-im-kennedy-center-ausgebuht-a-b0a8cad4-79f4-48db-a5f6-7aaa21188319#ref=rss)
-### kontrolle
-
-* [https://www.spiegel.de/panorama/leute/j-d-vance-bei-besuch-von-konzert-im-kennedy-center-ausgebuht](https://www.spiegel.de/panorama/leute/j-d-vance-bei-besuch-von-konzert-im-kennedy-center-ausgebuht-a-b0a8cad4-79f4-48db-a5f6-7aaa21188319#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-laesst-pentagon-plaene-zur-rueckgewinnung-des-panamakanals-vorbereiten](https://www.spiegel.de/ausland/donald-trump-laesst-pentagon-plaene-zur-rueckgewinnung-des-panamakanals-vorbereiten-a-aff74b00-da13-46f1-a7e2-2036922c499f#ref=rss)
-### fordert
-
-* [https://www.spiegel.de/politik/deutschland/bnd-bericht-zu-corona-ursprung-parlament-fordert-regierung-auf-untersuchung-oeffentlich-zu-machen](https://www.spiegel.de/politik/deutschland/bnd-bericht-zu-corona-ursprung-parlament-fordert-regierung-auf-untersuchung-oeffentlich-zu-machen-a-45a9f4da-cf72-47e7-807e-2af0905fd3fd#ref=rss)
-### stefan
-
-* [https://www.spiegel.de/sport/wintersport/skandal-im-skispringen-dsv-trainer-stefan-horngacher-hat-nichts-zu-verbergen](https://www.spiegel.de/sport/wintersport/skandal-im-skispringen-dsv-trainer-stefan-horngacher-hat-nichts-zu-verbergen-a-a3e5148e-eb8d-4eb1-8eec-ee3988218cb1#ref=rss)
-### horngacher
-
-* [https://www.spiegel.de/sport/wintersport/skandal-im-skispringen-dsv-trainer-stefan-horngacher-hat-nichts-zu-verbergen](https://www.spiegel.de/sport/wintersport/skandal-im-skispringen-dsv-trainer-stefan-horngacher-hat-nichts-zu-verbergen-a-a3e5148e-eb8d-4eb1-8eec-ee3988218cb1#ref=rss)
-### league
-
-* [https://www.spiegel.de/sport/fussball/europa-league-trainer-von-as-rom-macht-mats-hummels-keine-vorwuerfe-nach-platzverweis](https://www.spiegel.de/sport/fussball/europa-league-trainer-von-as-rom-macht-mats-hummels-keine-vorwuerfe-nach-platzverweis-a-e2967827-4de1-4b8e-a1c1-464ee41722f2#ref=rss)
-### trainer
-
-* [https://www.spiegel.de/sport/fussball/europa-league-trainer-von-as-rom-macht-mats-hummels-keine-vorwuerfe-nach-platzverweis](https://www.spiegel.de/sport/fussball/europa-league-trainer-von-as-rom-macht-mats-hummels-keine-vorwuerfe-nach-platzverweis-a-e2967827-4de1-4b8e-a1c1-464ee41722f2#ref=rss)
-### as
-
-* [https://www.spiegel.de/sport/fussball/europa-league-trainer-von-as-rom-macht-mats-hummels-keine-vorwuerfe-nach-platzverweis](https://www.spiegel.de/sport/fussball/europa-league-trainer-von-as-rom-macht-mats-hummels-keine-vorwuerfe-nach-platzverweis-a-e2967827-4de1-4b8e-a1c1-464ee41722f2#ref=rss)
-### rom
-
-* [https://www.spiegel.de/sport/fussball/europa-league-trainer-von-as-rom-macht-mats-hummels-keine-vorwuerfe-nach-platzverweis](https://www.spiegel.de/sport/fussball/europa-league-trainer-von-as-rom-macht-mats-hummels-keine-vorwuerfe-nach-platzverweis-a-e2967827-4de1-4b8e-a1c1-464ee41722f2#ref=rss)
-### mats
-
-* [https://www.spiegel.de/sport/fussball/europa-league-trainer-von-as-rom-macht-mats-hummels-keine-vorwuerfe-nach-platzverweis](https://www.spiegel.de/sport/fussball/europa-league-trainer-von-as-rom-macht-mats-hummels-keine-vorwuerfe-nach-platzverweis-a-e2967827-4de1-4b8e-a1c1-464ee41722f2#ref=rss)
-### hummels
-
-* [https://www.spiegel.de/sport/fussball/europa-league-trainer-von-as-rom-macht-mats-hummels-keine-vorwuerfe-nach-platzverweis](https://www.spiegel.de/sport/fussball/europa-league-trainer-von-as-rom-macht-mats-hummels-keine-vorwuerfe-nach-platzverweis-a-e2967827-4de1-4b8e-a1c1-464ee41722f2#ref=rss)
+* [https://www.spiegel.de/ausland/demian-hanul-antirussischer-aktivist-in-odessa-erschossen](https://www.spiegel.de/ausland/demian-hanul-antirussischer-aktivist-in-odessa-erschossen-a-64b3c885-e5d8-4747-8d5b-8fa10a295b4a#ref=rss)
 
