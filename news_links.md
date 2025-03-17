@@ -4,332 +4,321 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/merz-und-sein-sondervermoegen-im-wuergegriff-von-aiwanger-und-wagenknecht](https://www.spiegel.de/politik/deutschland/merz-und-sein-sondervermoegen-im-wuergegriff-von-aiwanger-und-wagenknecht-a-b990969e-0fa9-4065-ba1b-aa4318f93025#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-chef-und-die-klima-milliarden-friedrich-merz-will-sicher-nicht-ein-gruener-werden](https://www.spiegel.de/politik/deutschland/cdu-chef-und-die-klima-milliarden-friedrich-merz-will-sicher-nicht-ein-gruener-werden-a-af8e22ed-e1a7-4cbf-900d-84daab47b225#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-erwartet-ja-aus-bayern-zur-grundgesetzaenderung](https://www.spiegel.de/politik/deutschland/friedrich-merz-erwartet-ja-aus-bayern-zur-grundgesetzaenderung-a-d8ba324a-89f8-4b2c-b278-d0d1fb790458#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/merz-bereut-mailbox-nachricht-bei-hasselmann](https://www.spiegel.de/politik/deutschland/merz-bereut-mailbox-nachricht-bei-hasselmann-a-720b0191-204d-4e2c-be0a-c1a07537feaa#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/cdu-chef-und-die-klima-milliarden-friedrich-merz-will-sicher-nicht-ein-gruener-werden](https://www.spiegel.de/politik/deutschland/cdu-chef-und-die-klima-milliarden-friedrich-merz-will-sicher-nicht-ein-gruener-werden-a-af8e22ed-e1a7-4cbf-900d-84daab47b225#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-erwartet-ja-aus-bayern-zur-grundgesetzaenderung](https://www.spiegel.de/politik/deutschland/friedrich-merz-erwartet-ja-aus-bayern-zur-grundgesetzaenderung-a-d8ba324a-89f8-4b2c-b278-d0d1fb790458#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/bob-koenig-francesco-friedrich-und-die-deutsche-dominanz](https://www.spiegel.de/sport/wintersport/bob-koenig-francesco-friedrich-und-die-deutsche-dominanz-a-e5428817-8aba-4f2e-8413-ed74aa7395e7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/merz-bereut-mailbox-nachricht-bei-hasselmann](https://www.spiegel.de/politik/deutschland/merz-bereut-mailbox-nachricht-bei-hasselmann-a-720b0191-204d-4e2c-be0a-c1a07537feaa#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/panorama/migration-experte-daniel-thym-fordert-haerteren-kurs-in-der-asylpolitik](https://www.spiegel.de/panorama/migration-experte-daniel-thym-fordert-haerteren-kurs-in-der-asylpolitik-a-48d16b94-e53e-4046-a38e-19559cbcac8c#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-der-frauen-nachruf-auf-die-deutsche-fussballikone-doris-fitschen-die-anfuehrerin](https://www.spiegel.de/sport/fussball/fussball-der-frauen-nachruf-auf-die-deutsche-fussballikone-doris-fitschen-die-anfuehrerin-a-b3776cc2-abec-4a53-9297-2a02d4d2ed49#ref=rss)
-* [https://www.spiegel.de/ausland/usa-abschiebungen-deutscher-familienvater-in-gewahrsam](https://www.spiegel.de/ausland/usa-abschiebungen-deutscher-familienvater-in-gewahrsam-a-7e1ae68c-c4c5-4d3d-8e15-e1daad7addd1#ref=rss)
-* [https://www.spiegel.de/kultur/musik/festivals-2025-hurricane-juicy-beats-und-co-das-sind-die-besten-events-in-deutschland](https://www.spiegel.de/kultur/musik/festivals-2025-hurricane-juicy-beats-und-co-das-sind-die-besten-events-in-deutschland-a-8f32a751-87e7-4f3f-aaf5-9987a894990d#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/bob-koenig-francesco-friedrich-und-die-deutsche-dominanz](https://www.spiegel.de/sport/wintersport/bob-koenig-francesco-friedrich-und-die-deutsche-dominanz-a-e5428817-8aba-4f2e-8413-ed74aa7395e7#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/panorama/migration-experte-daniel-thym-fordert-haerteren-kurs-in-der-asylpolitik](https://www.spiegel.de/panorama/migration-experte-daniel-thym-fordert-haerteren-kurs-in-der-asylpolitik-a-48d16b94-e53e-4046-a38e-19559cbcac8c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/infrastrukturpaket-gemeinden-bemaengeln-zu-geringen-anteil-fuer-kommunen](https://www.spiegel.de/politik/deutschland/infrastrukturpaket-gemeinden-bemaengeln-zu-geringen-anteil-fuer-kommunen-a-0f6e1b87-5d12-4612-8c0f-eb4ff810e4cf#ref=rss)
-* [https://www.spiegel.de/ausland/binnenfluechtlinge-in-syrien-sehnsucht-nach-einem-zuhause-das-es-nicht-mehr-gibt](https://www.spiegel.de/ausland/binnenfluechtlinge-in-syrien-sehnsucht-nach-einem-zuhause-das-es-nicht-mehr-gibt-a-eee5c160-c812-4157-9a07-d08eae53b35f#ref=rss)
-* [https://www.spiegel.de/panorama/mehr-als-40-tornados-hinterlassen-zerstoerung-und-todesopfer](https://www.spiegel.de/panorama/mehr-als-40-tornados-hinterlassen-zerstoerung-und-todesopfer-a-816b2032-1c84-4ff6-974c-1cae8a8045a9#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/ausland/usa-kuendigen-baldiges-gespraech-zwischen-putin-und-trump-an](https://www.spiegel.de/ausland/usa-kuendigen-baldiges-gespraech-zwischen-putin-und-trump-an-a-7431c737-64c7-40c5-8fe8-f8bcc21e1097#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-finnlands-praesident-fordert-maximalen-druck-auf-russland](https://www.spiegel.de/ausland/ukraine-krieg-finnlands-praesident-fordert-maximalen-druck-auf-russland-a-6dd5f6b6-89d2-4969-a15d-4357152af043#ref=rss)
-### fußball
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-bochum-gegen-eintracht-frankfurt-wegen-bannern-verspaetet-angepfiffen](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-bochum-gegen-eintracht-frankfurt-wegen-bannern-verspaetet-angepfiffen-a-17b72bff-e55a-447b-abdf-6c20f3bc4b09#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-der-frauen-nachruf-auf-die-deutsche-fussballikone-doris-fitschen-die-anfuehrerin](https://www.spiegel.de/sport/fussball/fussball-der-frauen-nachruf-auf-die-deutsche-fussballikone-doris-fitschen-die-anfuehrerin-a-b3776cc2-abec-4a53-9297-2a02d4d2ed49#ref=rss)
-### fordert
-
-* [https://www.spiegel.de/panorama/migration-experte-daniel-thym-fordert-haerteren-kurs-in-der-asylpolitik](https://www.spiegel.de/panorama/migration-experte-daniel-thym-fordert-haerteren-kurs-in-der-asylpolitik-a-48d16b94-e53e-4046-a38e-19559cbcac8c#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-finnlands-praesident-fordert-maximalen-druck-auf-russland](https://www.spiegel.de/ausland/ukraine-krieg-finnlands-praesident-fordert-maximalen-druck-auf-russland-a-6dd5f6b6-89d2-4969-a15d-4357152af043#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/usa-kuendigen-baldiges-gespraech-zwischen-putin-und-trump-an](https://www.spiegel.de/ausland/usa-kuendigen-baldiges-gespraech-zwischen-putin-und-trump-an-a-7431c737-64c7-40c5-8fe8-f8bcc21e1097#ref=rss)
-* [https://www.spiegel.de/panorama/mehr-als-40-tornados-hinterlassen-zerstoerung-und-todesopfer](https://www.spiegel.de/panorama/mehr-als-40-tornados-hinterlassen-zerstoerung-und-todesopfer-a-816b2032-1c84-4ff6-974c-1cae8a8045a9#ref=rss)
-* [https://www.spiegel.de/ausland/usa-abschiebungen-deutscher-familienvater-in-gewahrsam](https://www.spiegel.de/ausland/usa-abschiebungen-deutscher-familienvater-in-gewahrsam-a-7e1ae68c-c4c5-4d3d-8e15-e1daad7addd1#ref=rss)
-### putin
-
-* [https://www.spiegel.de/ausland/usa-kuendigen-baldiges-gespraech-zwischen-putin-und-trump-an](https://www.spiegel.de/ausland/usa-kuendigen-baldiges-gespraech-zwischen-putin-und-trump-an-a-7431c737-64c7-40c5-8fe8-f8bcc21e1097#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-finnlands-praesident-fordert-maximalen-druck-auf-russland](https://www.spiegel.de/ausland/ukraine-krieg-finnlands-praesident-fordert-maximalen-druck-auf-russland-a-6dd5f6b6-89d2-4969-a15d-4357152af043#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/usa-kuendigen-baldiges-gespraech-zwischen-putin-und-trump-an](https://www.spiegel.de/ausland/usa-kuendigen-baldiges-gespraech-zwischen-putin-und-trump-an-a-7431c737-64c7-40c5-8fe8-f8bcc21e1097#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-finnlands-praesident-fordert-maximalen-druck-auf-russland](https://www.spiegel.de/ausland/ukraine-krieg-finnlands-praesident-fordert-maximalen-druck-auf-russland-a-6dd5f6b6-89d2-4969-a15d-4357152af043#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-draengt-ukrainische-truppen-in-kursk-zurueck](https://www.spiegel.de/ausland/ukraine-krieg-russland-draengt-ukrainische-truppen-in-kursk-zurueck-a-17ec3a28-f2ea-4d00-bb4c-347de7889b48#ref=rss)
-### spd
-
-* [https://www.spiegel.de/politik/deutschland/infrastrukturpaket-gemeinden-bemaengeln-zu-geringen-anteil-fuer-kommunen](https://www.spiegel.de/politik/deutschland/infrastrukturpaket-gemeinden-bemaengeln-zu-geringen-anteil-fuer-kommunen-a-0f6e1b87-5d12-4612-8c0f-eb4ff810e4cf#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/merz-und-sein-sondervermoegen-im-wuergegriff-von-aiwanger-und-wagenknecht](https://www.spiegel.de/politik/deutschland/merz-und-sein-sondervermoegen-im-wuergegriff-von-aiwanger-und-wagenknecht-a-b990969e-0fa9-4065-ba1b-aa4318f93025#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/thueringen-bsw-politiker-steffen-quasebarth-tritt-in-afd-podcast-auf](https://www.spiegel.de/politik/deutschland/thueringen-bsw-politiker-steffen-quasebarth-tritt-in-afd-podcast-auf-a-f50300fd-0618-4483-912e-c637b2a3feb6#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/sport/fussball/fussball-der-frauen-nachruf-auf-die-deutsche-fussballikone-doris-fitschen-die-anfuehrerin](https://www.spiegel.de/sport/fussball/fussball-der-frauen-nachruf-auf-die-deutsche-fussballikone-doris-fitschen-die-anfuehrerin-a-b3776cc2-abec-4a53-9297-2a02d4d2ed49#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/bob-koenig-francesco-friedrich-und-die-deutsche-dominanz](https://www.spiegel.de/sport/wintersport/bob-koenig-francesco-friedrich-und-die-deutsche-dominanz-a-e5428817-8aba-4f2e-8413-ed74aa7395e7#ref=rss)
 ### offenbar
 
-* [https://www.spiegel.de/kultur/ex-partnerin-von-elon-musk-musikerin-grimes-schreibt-verzweifelten-post-ueber-die-situation-ihrer-kinder](https://www.spiegel.de/kultur/ex-partnerin-von-elon-musk-musikerin-grimes-schreibt-verzweifelten-post-ueber-die-situation-ihrer-kinder-a-f9f19633-3774-4a5b-852a-b93761aab4c6#ref=rss)
-* [https://www.spiegel.de/familie/coronavirus-whatsapp-chats-offenbar-glaubt-man-dass-die-lage-in-einem-monat-nicht-besser-wird](https://www.spiegel.de/familie/coronavirus-whatsapp-chats-offenbar-glaubt-man-dass-die-lage-in-einem-monat-nicht-besser-wird-a-961f0a0d-e23b-4587-ab18-edd34fc3599a#ref=rss)
-* [https://www.spiegel.de/panorama/peruanischer-fischer-nach-94-tagen-auf-hoher-see-gerettet](https://www.spiegel.de/panorama/peruanischer-fischer-nach-94-tagen-auf-hoher-see-gerettet-a-dacd0988-1085-4cad-8f8b-2281fc08684c#ref=rss)
-### russland
+* [https://www.spiegel.de/sport/american-football/nfl-footballstar-jamarr-chase-erhaelt-offenbar-einen-rekordvertrag](https://www.spiegel.de/sport/american-football/nfl-footballstar-jamarr-chase-erhaelt-offenbar-einen-rekordvertrag-a-60ede3e8-ec83-4e54-be52-a75bb5d07fc6#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/discobrand-in-nordmazedonien-praesidentin-fordert-gerechtigkeit-und-bestrafung](https://www.spiegel.de/panorama/justiz/discobrand-in-nordmazedonien-praesidentin-fordert-gerechtigkeit-und-bestrafung-a-5cbe14be-e84e-45f2-9aeb-341c7e65d9f9#ref=rss)
+* [https://www.spiegel.de/ausland/eu-staaten-beraten-ueber-weitere-ukrainehilfen](https://www.spiegel.de/ausland/eu-staaten-beraten-ueber-weitere-ukrainehilfen-a-07300652-1cdc-4952-a58a-b46cd92e56ba#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-kuendigt-erneutes-gespraech-mit-wladimir-putin-am-dienstag-an](https://www.spiegel.de/ausland/donald-trump-kuendigt-erneutes-gespraech-mit-wladimir-putin-am-dienstag-an-a-59a42bca-75f5-44f3-a588-ceebae38382e#ref=rss)
+### donald
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-finnlands-praesident-fordert-maximalen-druck-auf-russland](https://www.spiegel.de/ausland/ukraine-krieg-finnlands-praesident-fordert-maximalen-druck-auf-russland-a-6dd5f6b6-89d2-4969-a15d-4357152af043#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-draengt-ukrainische-truppen-in-kursk-zurueck](https://www.spiegel.de/ausland/ukraine-krieg-russland-draengt-ukrainische-truppen-in-kursk-zurueck-a-17ec3a28-f2ea-4d00-bb4c-347de7889b48#ref=rss)
-### frau
-
-* [https://www.spiegel.de/panorama/justiz/gera-frau-angezuendet-taeter-flieht](https://www.spiegel.de/panorama/justiz/gera-frau-angezuendet-taeter-flieht-a-5705b6e8-f808-4910-a2a7-fa35ab49d1c1#ref=rss)
-### fahrer
-
-* [https://www.spiegel.de/panorama/fahrer-unter-drogen-will-blaue-ampel-gesehen-haben](https://www.spiegel.de/panorama/fahrer-unter-drogen-will-blaue-ampel-gesehen-haben-a-988862aa-c8f8-4abe-b9cf-4c4c5ac8a451#ref=rss)
-### ampel
-
-* [https://www.spiegel.de/panorama/fahrer-unter-drogen-will-blaue-ampel-gesehen-haben](https://www.spiegel.de/panorama/fahrer-unter-drogen-will-blaue-ampel-gesehen-haben-a-988862aa-c8f8-4abe-b9cf-4c4c5ac8a451#ref=rss)
-### experte
-
-* [https://www.spiegel.de/panorama/migration-experte-daniel-thym-fordert-haerteren-kurs-in-der-asylpolitik](https://www.spiegel.de/panorama/migration-experte-daniel-thym-fordert-haerteren-kurs-in-der-asylpolitik-a-48d16b94-e53e-4046-a38e-19559cbcac8c#ref=rss)
-### daniel
-
-* [https://www.spiegel.de/panorama/migration-experte-daniel-thym-fordert-haerteren-kurs-in-der-asylpolitik](https://www.spiegel.de/panorama/migration-experte-daniel-thym-fordert-haerteren-kurs-in-der-asylpolitik-a-48d16b94-e53e-4046-a38e-19559cbcac8c#ref=rss)
-### thym
-
-* [https://www.spiegel.de/panorama/migration-experte-daniel-thym-fordert-haerteren-kurs-in-der-asylpolitik](https://www.spiegel.de/panorama/migration-experte-daniel-thym-fordert-haerteren-kurs-in-der-asylpolitik-a-48d16b94-e53e-4046-a38e-19559cbcac8c#ref=rss)
-### kurs
-
-* [https://www.spiegel.de/panorama/migration-experte-daniel-thym-fordert-haerteren-kurs-in-der-asylpolitik](https://www.spiegel.de/panorama/migration-experte-daniel-thym-fordert-haerteren-kurs-in-der-asylpolitik-a-48d16b94-e53e-4046-a38e-19559cbcac8c#ref=rss)
-* [https://www.spiegel.de/panorama/peruanischer-fischer-nach-94-tagen-auf-hoher-see-gerettet](https://www.spiegel.de/panorama/peruanischer-fischer-nach-94-tagen-auf-hoher-see-gerettet-a-dacd0988-1085-4cad-8f8b-2281fc08684c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/konjunktur-oecd-senkt-wachstumsprognose-fuer-deutschland-erneut](https://www.spiegel.de/wirtschaft/konjunktur-oecd-senkt-wachstumsprognose-fuer-deutschland-erneut-a-95336f87-941b-4fd2-8346-5edf009042fb#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-kuendigt-erneutes-gespraech-mit-wladimir-putin-am-dienstag-an](https://www.spiegel.de/ausland/donald-trump-kuendigt-erneutes-gespraech-mit-wladimir-putin-am-dienstag-an-a-59a42bca-75f5-44f3-a588-ceebae38382e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-bundestag-christian-duerr-fdp](https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-bundestag-christian-duerr-fdp-a-ddbc2f79-a18c-4546-8ee5-3fe3d2c72820#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/ausland/usa-kuendigen-baldiges-gespraech-zwischen-putin-und-trump-an](https://www.spiegel.de/ausland/usa-kuendigen-baldiges-gespraech-zwischen-putin-und-trump-an-a-7431c737-64c7-40c5-8fe8-f8bcc21e1097#ref=rss)
-### bald
+* [https://www.spiegel.de/wirtschaft/konjunktur-oecd-senkt-wachstumsprognose-fuer-deutschland-erneut](https://www.spiegel.de/wirtschaft/konjunktur-oecd-senkt-wachstumsprognose-fuer-deutschland-erneut-a-95336f87-941b-4fd2-8346-5edf009042fb#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-kuendigt-erneutes-gespraech-mit-wladimir-putin-am-dienstag-an](https://www.spiegel.de/ausland/donald-trump-kuendigt-erneutes-gespraech-mit-wladimir-putin-am-dienstag-an-a-59a42bca-75f5-44f3-a588-ceebae38382e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-bundestag-christian-duerr-fdp](https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-bundestag-christian-duerr-fdp-a-ddbc2f79-a18c-4546-8ee5-3fe3d2c72820#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/ausland/usa-kuendigen-baldiges-gespraech-zwischen-putin-und-trump-an](https://www.spiegel.de/ausland/usa-kuendigen-baldiges-gespraech-zwischen-putin-und-trump-an-a-7431c737-64c7-40c5-8fe8-f8bcc21e1097#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/infrastrukturpaket-gemeinden-bemaengeln-zu-geringen-anteil-fuer-kommunen](https://www.spiegel.de/politik/deutschland/infrastrukturpaket-gemeinden-bemaengeln-zu-geringen-anteil-fuer-kommunen-a-0f6e1b87-5d12-4612-8c0f-eb4ff810e4cf#ref=rss)
-### russischen
-
-* [https://www.spiegel.de/ausland/usa-kuendigen-baldiges-gespraech-zwischen-putin-und-trump-an](https://www.spiegel.de/ausland/usa-kuendigen-baldiges-gespraech-zwischen-putin-und-trump-an-a-7431c737-64c7-40c5-8fe8-f8bcc21e1097#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-draengt-ukrainische-truppen-in-kursk-zurueck](https://www.spiegel.de/ausland/ukraine-krieg-russland-draengt-ukrainische-truppen-in-kursk-zurueck-a-17ec3a28-f2ea-4d00-bb4c-347de7889b48#ref=rss)
-### bochum
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-bochum-gegen-eintracht-frankfurt-wegen-bannern-verspaetet-angepfiffen](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-bochum-gegen-eintracht-frankfurt-wegen-bannern-verspaetet-angepfiffen-a-17b72bff-e55a-447b-abdf-6c20f3bc4b09#ref=rss)
-### angepfiffen
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-bochum-gegen-eintracht-frankfurt-wegen-bannern-verspaetet-angepfiffen](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-bochum-gegen-eintracht-frankfurt-wegen-bannern-verspaetet-angepfiffen-a-17b72bff-e55a-447b-abdf-6c20f3bc4b09#ref=rss)
-### lang
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-bochum-gegen-eintracht-frankfurt-wegen-bannern-verspaetet-angepfiffen](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-bochum-gegen-eintracht-frankfurt-wegen-bannern-verspaetet-angepfiffen-a-17b72bff-e55a-447b-abdf-6c20f3bc4b09#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-der-frauen-nachruf-auf-die-deutsche-fussballikone-doris-fitschen-die-anfuehrerin](https://www.spiegel.de/sport/fussball/fussball-der-frauen-nachruf-auf-die-deutsche-fussballikone-doris-fitschen-die-anfuehrerin-a-b3776cc2-abec-4a53-9297-2a02d4d2ed49#ref=rss)
-### christian
-
-* [https://www.spiegel.de/politik/christian-duerr-will-neuer-fdp-chef-werden](https://www.spiegel.de/politik/christian-duerr-will-neuer-fdp-chef-werden-a-ef824014-26f5-49fb-8214-65068e265c27#ref=rss)
-### neuer
-
-* [https://www.spiegel.de/politik/christian-duerr-will-neuer-fdp-chef-werden](https://www.spiegel.de/politik/christian-duerr-will-neuer-fdp-chef-werden-a-ef824014-26f5-49fb-8214-65068e265c27#ref=rss)
-### gemeinden
-
-* [https://www.spiegel.de/politik/deutschland/infrastrukturpaket-gemeinden-bemaengeln-zu-geringen-anteil-fuer-kommunen](https://www.spiegel.de/politik/deutschland/infrastrukturpaket-gemeinden-bemaengeln-zu-geringen-anteil-fuer-kommunen-a-0f6e1b87-5d12-4612-8c0f-eb4ff810e4cf#ref=rss)
-### anteil
-
-* [https://www.spiegel.de/politik/deutschland/infrastrukturpaket-gemeinden-bemaengeln-zu-geringen-anteil-fuer-kommunen](https://www.spiegel.de/politik/deutschland/infrastrukturpaket-gemeinden-bemaengeln-zu-geringen-anteil-fuer-kommunen-a-0f6e1b87-5d12-4612-8c0f-eb4ff810e4cf#ref=rss)
-### union
-
-* [https://www.spiegel.de/politik/deutschland/infrastrukturpaket-gemeinden-bemaengeln-zu-geringen-anteil-fuer-kommunen](https://www.spiegel.de/politik/deutschland/infrastrukturpaket-gemeinden-bemaengeln-zu-geringen-anteil-fuer-kommunen-a-0f6e1b87-5d12-4612-8c0f-eb4ff810e4cf#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/merz-und-sein-sondervermoegen-im-wuergegriff-von-aiwanger-und-wagenknecht](https://www.spiegel.de/politik/deutschland/merz-und-sein-sondervermoegen-im-wuergegriff-von-aiwanger-und-wagenknecht-a-b990969e-0fa9-4065-ba1b-aa4318f93025#ref=rss)
-### grünen
-
-* [https://www.spiegel.de/politik/deutschland/infrastrukturpaket-gemeinden-bemaengeln-zu-geringen-anteil-fuer-kommunen](https://www.spiegel.de/politik/deutschland/infrastrukturpaket-gemeinden-bemaengeln-zu-geringen-anteil-fuer-kommunen-a-0f6e1b87-5d12-4612-8c0f-eb4ff810e4cf#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/merz-bereut-mailbox-nachricht-bei-hasselmann](https://www.spiegel.de/politik/deutschland/merz-bereut-mailbox-nachricht-bei-hasselmann-a-720b0191-204d-4e2c-be0a-c1a07537feaa#ref=rss)
-### infrastruktur
-
-* [https://www.spiegel.de/politik/deutschland/infrastrukturpaket-gemeinden-bemaengeln-zu-geringen-anteil-fuer-kommunen](https://www.spiegel.de/politik/deutschland/infrastrukturpaket-gemeinden-bemaengeln-zu-geringen-anteil-fuer-kommunen-a-0f6e1b87-5d12-4612-8c0f-eb4ff810e4cf#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/merz-und-sein-sondervermoegen-im-wuergegriff-von-aiwanger-und-wagenknecht](https://www.spiegel.de/politik/deutschland/merz-und-sein-sondervermoegen-im-wuergegriff-von-aiwanger-und-wagenknecht-a-b990969e-0fa9-4065-ba1b-aa4318f93025#ref=rss)
-### florian
-
-* [https://www.spiegel.de/sport/radsport-florian-lipowitz-zweiter-bei-paris-nizza](https://www.spiegel.de/sport/radsport-florian-lipowitz-zweiter-bei-paris-nizza-a-f820f50e-3033-41bb-a917-75b85e1809ea#ref=rss)
-### lipowitz
-
-* [https://www.spiegel.de/sport/radsport-florian-lipowitz-zweiter-bei-paris-nizza](https://www.spiegel.de/sport/radsport-florian-lipowitz-zweiter-bei-paris-nizza-a-f820f50e-3033-41bb-a917-75b85e1809ea#ref=rss)
-### parisnizza
-
-* [https://www.spiegel.de/sport/radsport-florian-lipowitz-zweiter-bei-paris-nizza](https://www.spiegel.de/sport/radsport-florian-lipowitz-zweiter-bei-paris-nizza-a-f820f50e-3033-41bb-a917-75b85e1809ea#ref=rss)
-### fehlt
-
-* [https://www.spiegel.de/karriere/raetsel-der-woche-welche-ziffer-fehlt](https://www.spiegel.de/karriere/raetsel-der-woche-welche-ziffer-fehlt-a-ffeedec4-b3bb-4eb3-985b-fa5147b6acfe#ref=rss)
-### ziffern
-
-* [https://www.spiegel.de/karriere/raetsel-der-woche-welche-ziffer-fehlt](https://www.spiegel.de/karriere/raetsel-der-woche-welche-ziffer-fehlt-a-ffeedec4-b3bb-4eb3-985b-fa5147b6acfe#ref=rss)
-### lewis
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-australien-kimi-antonelli-wird-vierter-lewis-hamilton-im-ferrari-zehnter](https://www.spiegel.de/sport/formel1/formel-1-in-australien-kimi-antonelli-wird-vierter-lewis-hamilton-im-ferrari-zehnter-a-d8faf5b9-812d-4244-a878-7bea989fa287#ref=rss)
-### hamilton
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-australien-kimi-antonelli-wird-vierter-lewis-hamilton-im-ferrari-zehnter](https://www.spiegel.de/sport/formel1/formel-1-in-australien-kimi-antonelli-wird-vierter-lewis-hamilton-im-ferrari-zehnter-a-d8faf5b9-812d-4244-a878-7bea989fa287#ref=rss)
-### ferrari
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-australien-kimi-antonelli-wird-vierter-lewis-hamilton-im-ferrari-zehnter](https://www.spiegel.de/sport/formel1/formel-1-in-australien-kimi-antonelli-wird-vierter-lewis-hamilton-im-ferrari-zehnter-a-d8faf5b9-812d-4244-a878-7bea989fa287#ref=rss)
-### regen
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-australien-kimi-antonelli-wird-vierter-lewis-hamilton-im-ferrari-zehnter](https://www.spiegel.de/sport/formel1/formel-1-in-australien-kimi-antonelli-wird-vierter-lewis-hamilton-im-ferrari-zehnter-a-d8faf5b9-812d-4244-a878-7bea989fa287#ref=rss)
-* [https://www.spiegel.de/panorama/ueberschwemmungen-in-italien-schwere-schaeden-nach-unwettern-in-italien](https://www.spiegel.de/panorama/ueberschwemmungen-in-italien-schwere-schaeden-nach-unwettern-in-italien-a-f01ed566-ca44-4b2c-819b-2393c33c0595#ref=rss)
-### schuldenpaket
-
-* [https://www.spiegel.de/politik/deutschland/merz-und-sein-sondervermoegen-im-wuergegriff-von-aiwanger-und-wagenknecht](https://www.spiegel.de/politik/deutschland/merz-und-sein-sondervermoegen-im-wuergegriff-von-aiwanger-und-wagenknecht-a-b990969e-0fa9-4065-ba1b-aa4318f93025#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/merz-bereut-mailbox-nachricht-bei-hasselmann](https://www.spiegel.de/politik/deutschland/merz-bereut-mailbox-nachricht-bei-hasselmann-a-720b0191-204d-4e2c-be0a-c1a07537feaa#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/ausland/binnenfluechtlinge-in-syrien-sehnsucht-nach-einem-zuhause-das-es-nicht-mehr-gibt](https://www.spiegel.de/ausland/binnenfluechtlinge-in-syrien-sehnsucht-nach-einem-zuhause-das-es-nicht-mehr-gibt-a-eee5c160-c812-4157-9a07-d08eae53b35f#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-draengt-ukrainische-truppen-in-kursk-zurueck](https://www.spiegel.de/ausland/ukraine-krieg-russland-draengt-ukrainische-truppen-in-kursk-zurueck-a-17ec3a28-f2ea-4d00-bb4c-347de7889b48#ref=rss)
-### tornados
-
-* [https://www.spiegel.de/panorama/mehr-als-40-tornados-hinterlassen-zerstoerung-und-todesopfer](https://www.spiegel.de/panorama/mehr-als-40-tornados-hinterlassen-zerstoerung-und-todesopfer-a-816b2032-1c84-4ff6-974c-1cae8a8045a9#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/mehr-als-40-tornados-hinterlassen-zerstoerung-und-todesopfer](https://www.spiegel.de/panorama/mehr-als-40-tornados-hinterlassen-zerstoerung-und-todesopfer-a-816b2032-1c84-4ff6-974c-1cae8a8045a9#ref=rss)
-* [https://www.spiegel.de/familie/coronavirus-whatsapp-chats-offenbar-glaubt-man-dass-die-lage-in-einem-monat-nicht-besser-wird](https://www.spiegel.de/familie/coronavirus-whatsapp-chats-offenbar-glaubt-man-dass-die-lage-in-einem-monat-nicht-besser-wird-a-961f0a0d-e23b-4587-ab18-edd34fc3599a#ref=rss)
-### überschwemmungen
-
-* [https://www.spiegel.de/panorama/ueberschwemmungen-in-italien-schwere-schaeden-nach-unwettern-in-italien](https://www.spiegel.de/panorama/ueberschwemmungen-in-italien-schwere-schaeden-nach-unwettern-in-italien-a-f01ed566-ca44-4b2c-819b-2393c33c0595#ref=rss)
-### italien
-
-* [https://www.spiegel.de/panorama/ueberschwemmungen-in-italien-schwere-schaeden-nach-unwettern-in-italien](https://www.spiegel.de/panorama/ueberschwemmungen-in-italien-schwere-schaeden-nach-unwettern-in-italien-a-f01ed566-ca44-4b2c-819b-2393c33c0595#ref=rss)
-### monat
-
-* [https://www.spiegel.de/panorama/ueberschwemmungen-in-italien-schwere-schaeden-nach-unwettern-in-italien](https://www.spiegel.de/panorama/ueberschwemmungen-in-italien-schwere-schaeden-nach-unwettern-in-italien-a-f01ed566-ca44-4b2c-819b-2393c33c0595#ref=rss)
-* [https://www.spiegel.de/familie/coronavirus-whatsapp-chats-offenbar-glaubt-man-dass-die-lage-in-einem-monat-nicht-besser-wird](https://www.spiegel.de/familie/coronavirus-whatsapp-chats-offenbar-glaubt-man-dass-die-lage-in-einem-monat-nicht-besser-wird-a-961f0a0d-e23b-4587-ab18-edd34fc3599a#ref=rss)
-### borowski
-
-* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-kiel-borowski-und-das-haupt-der-medusa-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-kiel-borowski-und-das-haupt-der-medusa-im-schnellcheck-a-a290acb8-da1a-4789-b08b-4e42343a4361#ref=rss)
-### cduchef
-
-* [https://www.spiegel.de/politik/deutschland/cdu-chef-und-die-klima-milliarden-friedrich-merz-will-sicher-nicht-ein-gruener-werden](https://www.spiegel.de/politik/deutschland/cdu-chef-und-die-klima-milliarden-friedrich-merz-will-sicher-nicht-ein-gruener-werden-a-af8e22ed-e1a7-4cbf-900d-84daab47b225#ref=rss)
-### geplanten
-
-* [https://www.spiegel.de/politik/deutschland/cdu-chef-und-die-klima-milliarden-friedrich-merz-will-sicher-nicht-ein-gruener-werden](https://www.spiegel.de/politik/deutschland/cdu-chef-und-die-klima-milliarden-friedrich-merz-will-sicher-nicht-ein-gruener-werden-a-af8e22ed-e1a7-4cbf-900d-84daab47b225#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-erwartet-ja-aus-bayern-zur-grundgesetzaenderung](https://www.spiegel.de/politik/deutschland/friedrich-merz-erwartet-ja-aus-bayern-zur-grundgesetzaenderung-a-d8ba324a-89f8-4b2c-b278-d0d1fb790458#ref=rss)
-### politik
-
-* [https://www.spiegel.de/politik/deutschland/cdu-chef-und-die-klima-milliarden-friedrich-merz-will-sicher-nicht-ein-gruener-werden](https://www.spiegel.de/politik/deutschland/cdu-chef-und-die-klima-milliarden-friedrich-merz-will-sicher-nicht-ein-gruener-werden-a-af8e22ed-e1a7-4cbf-900d-84daab47b225#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/thueringen-bsw-politiker-steffen-quasebarth-tritt-in-afd-podcast-auf](https://www.spiegel.de/politik/deutschland/thueringen-bsw-politiker-steffen-quasebarth-tritt-in-afd-podcast-auf-a-f50300fd-0618-4483-912e-c637b2a3feb6#ref=rss)
-### doris
-
-* [https://www.spiegel.de/sport/fussball/fussball-der-frauen-nachruf-auf-die-deutsche-fussballikone-doris-fitschen-die-anfuehrerin](https://www.spiegel.de/sport/fussball/fussball-der-frauen-nachruf-auf-die-deutsche-fussballikone-doris-fitschen-die-anfuehrerin-a-b3776cc2-abec-4a53-9297-2a02d4d2ed49#ref=rss)
-### fitschen
-
-* [https://www.spiegel.de/sport/fussball/fussball-der-frauen-nachruf-auf-die-deutsche-fussballikone-doris-fitschen-die-anfuehrerin](https://www.spiegel.de/sport/fussball/fussball-der-frauen-nachruf-auf-die-deutsche-fussballikone-doris-fitschen-die-anfuehrerin-a-b3776cc2-abec-4a53-9297-2a02d4d2ed49#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/sport/fussball/fussball-der-frauen-nachruf-auf-die-deutsche-fussballikone-doris-fitschen-die-anfuehrerin](https://www.spiegel.de/sport/fussball/fussball-der-frauen-nachruf-auf-die-deutsche-fussballikone-doris-fitschen-die-anfuehrerin-a-b3776cc2-abec-4a53-9297-2a02d4d2ed49#ref=rss)
-* [https://www.spiegel.de/familie/coronavirus-whatsapp-chats-offenbar-glaubt-man-dass-die-lage-in-einem-monat-nicht-besser-wird](https://www.spiegel.de/familie/coronavirus-whatsapp-chats-offenbar-glaubt-man-dass-die-lage-in-einem-monat-nicht-besser-wird-a-961f0a0d-e23b-4587-ab18-edd34fc3599a#ref=rss)
-### ja
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-erwartet-ja-aus-bayern-zur-grundgesetzaenderung](https://www.spiegel.de/politik/deutschland/friedrich-merz-erwartet-ja-aus-bayern-zur-grundgesetzaenderung-a-d8ba324a-89f8-4b2c-b278-d0d1fb790458#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-erwartet-ja-aus-bayern-zur-grundgesetzaenderung](https://www.spiegel.de/politik/deutschland/friedrich-merz-erwartet-ja-aus-bayern-zur-grundgesetzaenderung-a-d8ba324a-89f8-4b2c-b278-d0d1fb790458#ref=rss)
-### familienvater
-
-* [https://www.spiegel.de/ausland/usa-abschiebungen-deutscher-familienvater-in-gewahrsam](https://www.spiegel.de/ausland/usa-abschiebungen-deutscher-familienvater-in-gewahrsam-a-7e1ae68c-c4c5-4d3d-8e15-e1daad7addd1#ref=rss)
-### gewahrsam
-
-* [https://www.spiegel.de/ausland/usa-abschiebungen-deutscher-familienvater-in-gewahrsam](https://www.spiegel.de/ausland/usa-abschiebungen-deutscher-familienvater-in-gewahrsam-a-7e1ae68c-c4c5-4d3d-8e15-e1daad7addd1#ref=rss)
-### vergangenen
-
-* [https://www.spiegel.de/ausland/usa-abschiebungen-deutscher-familienvater-in-gewahrsam](https://www.spiegel.de/ausland/usa-abschiebungen-deutscher-familienvater-in-gewahrsam-a-7e1ae68c-c4c5-4d3d-8e15-e1daad7addd1#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-draengt-ukrainische-truppen-in-kursk-zurueck](https://www.spiegel.de/ausland/ukraine-krieg-russland-draengt-ukrainische-truppen-in-kursk-zurueck-a-17ec3a28-f2ea-4d00-bb4c-347de7889b48#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/ausland/usa-abschiebungen-deutscher-familienvater-in-gewahrsam](https://www.spiegel.de/ausland/usa-abschiebungen-deutscher-familienvater-in-gewahrsam-a-7e1ae68c-c4c5-4d3d-8e15-e1daad7addd1#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/bob-koenig-francesco-friedrich-und-die-deutsche-dominanz](https://www.spiegel.de/sport/wintersport/bob-koenig-francesco-friedrich-und-die-deutsche-dominanz-a-e5428817-8aba-4f2e-8413-ed74aa7395e7#ref=rss)
-### expartnerin
-
-* [https://www.spiegel.de/kultur/ex-partnerin-von-elon-musk-musikerin-grimes-schreibt-verzweifelten-post-ueber-die-situation-ihrer-kinder](https://www.spiegel.de/kultur/ex-partnerin-von-elon-musk-musikerin-grimes-schreibt-verzweifelten-post-ueber-die-situation-ihrer-kinder-a-f9f19633-3774-4a5b-852a-b93761aab4c6#ref=rss)
-### elon
-
-* [https://www.spiegel.de/kultur/ex-partnerin-von-elon-musk-musikerin-grimes-schreibt-verzweifelten-post-ueber-die-situation-ihrer-kinder](https://www.spiegel.de/kultur/ex-partnerin-von-elon-musk-musikerin-grimes-schreibt-verzweifelten-post-ueber-die-situation-ihrer-kinder-a-f9f19633-3774-4a5b-852a-b93761aab4c6#ref=rss)
-### musk
-
-* [https://www.spiegel.de/kultur/ex-partnerin-von-elon-musk-musikerin-grimes-schreibt-verzweifelten-post-ueber-die-situation-ihrer-kinder](https://www.spiegel.de/kultur/ex-partnerin-von-elon-musk-musikerin-grimes-schreibt-verzweifelten-post-ueber-die-situation-ihrer-kinder-a-f9f19633-3774-4a5b-852a-b93761aab4c6#ref=rss)
-### musikerin
-
-* [https://www.spiegel.de/kultur/ex-partnerin-von-elon-musk-musikerin-grimes-schreibt-verzweifelten-post-ueber-die-situation-ihrer-kinder](https://www.spiegel.de/kultur/ex-partnerin-von-elon-musk-musikerin-grimes-schreibt-verzweifelten-post-ueber-die-situation-ihrer-kinder-a-f9f19633-3774-4a5b-852a-b93761aab4c6#ref=rss)
-### grimes
-
-* [https://www.spiegel.de/kultur/ex-partnerin-von-elon-musk-musikerin-grimes-schreibt-verzweifelten-post-ueber-die-situation-ihrer-kinder](https://www.spiegel.de/kultur/ex-partnerin-von-elon-musk-musikerin-grimes-schreibt-verzweifelten-post-ueber-die-situation-ihrer-kinder-a-f9f19633-3774-4a5b-852a-b93761aab4c6#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/kultur/ex-partnerin-von-elon-musk-musikerin-grimes-schreibt-verzweifelten-post-ueber-die-situation-ihrer-kinder](https://www.spiegel.de/kultur/ex-partnerin-von-elon-musk-musikerin-grimes-schreibt-verzweifelten-post-ueber-die-situation-ihrer-kinder-a-f9f19633-3774-4a5b-852a-b93761aab4c6#ref=rss)
-### darauf
-
-* [https://www.spiegel.de/kultur/ex-partnerin-von-elon-musk-musikerin-grimes-schreibt-verzweifelten-post-ueber-die-situation-ihrer-kinder](https://www.spiegel.de/kultur/ex-partnerin-von-elon-musk-musikerin-grimes-schreibt-verzweifelten-post-ueber-die-situation-ihrer-kinder-a-f9f19633-3774-4a5b-852a-b93761aab4c6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/merz-bereut-mailbox-nachricht-bei-hasselmann](https://www.spiegel.de/politik/deutschland/merz-bereut-mailbox-nachricht-bei-hasselmann-a-720b0191-204d-4e2c-be0a-c1a07537feaa#ref=rss)
-### ukrainekrieg
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-finnlands-praesident-fordert-maximalen-druck-auf-russland](https://www.spiegel.de/ausland/ukraine-krieg-finnlands-praesident-fordert-maximalen-druck-auf-russland-a-6dd5f6b6-89d2-4969-a15d-4357152af043#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-draengt-ukrainische-truppen-in-kursk-zurueck](https://www.spiegel.de/ausland/ukraine-krieg-russland-draengt-ukrainische-truppen-in-kursk-zurueck-a-17ec3a28-f2ea-4d00-bb4c-347de7889b48#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-finnlands-praesident-fordert-maximalen-druck-auf-russland](https://www.spiegel.de/ausland/ukraine-krieg-finnlands-praesident-fordert-maximalen-druck-auf-russland-a-6dd5f6b6-89d2-4969-a15d-4357152af043#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/merz-bereut-mailbox-nachricht-bei-hasselmann](https://www.spiegel.de/politik/deutschland/merz-bereut-mailbox-nachricht-bei-hasselmann-a-720b0191-204d-4e2c-be0a-c1a07537feaa#ref=rss)
-### ukrainische
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-finnlands-praesident-fordert-maximalen-druck-auf-russland](https://www.spiegel.de/ausland/ukraine-krieg-finnlands-praesident-fordert-maximalen-druck-auf-russland-a-6dd5f6b6-89d2-4969-a15d-4357152af043#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-draengt-ukrainische-truppen-in-kursk-zurueck](https://www.spiegel.de/ausland/ukraine-krieg-russland-draengt-ukrainische-truppen-in-kursk-zurueck-a-17ec3a28-f2ea-4d00-bb4c-347de7889b48#ref=rss)
-### coronavirus
-
-* [https://www.spiegel.de/familie/coronavirus-whatsapp-chats-offenbar-glaubt-man-dass-die-lage-in-einem-monat-nicht-besser-wird](https://www.spiegel.de/familie/coronavirus-whatsapp-chats-offenbar-glaubt-man-dass-die-lage-in-einem-monat-nicht-besser-wird-a-961f0a0d-e23b-4587-ab18-edd34fc3599a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/coronavirus-kassenaerzte-fordern-aufarbeitung-der-pandemiepolitik](https://www.spiegel.de/politik/deutschland/coronavirus-kassenaerzte-fordern-aufarbeitung-der-pandemiepolitik-a-c9c4fb5c-b228-4f08-b0e1-293dd4176ab8#ref=rss)
-### whatsappchats
-
-* [https://www.spiegel.de/familie/coronavirus-whatsapp-chats-offenbar-glaubt-man-dass-die-lage-in-einem-monat-nicht-besser-wird](https://www.spiegel.de/familie/coronavirus-whatsapp-chats-offenbar-glaubt-man-dass-die-lage-in-einem-monat-nicht-besser-wird-a-961f0a0d-e23b-4587-ab18-edd34fc3599a#ref=rss)
-### besser
-
-* [https://www.spiegel.de/familie/coronavirus-whatsapp-chats-offenbar-glaubt-man-dass-die-lage-in-einem-monat-nicht-besser-wird](https://www.spiegel.de/familie/coronavirus-whatsapp-chats-offenbar-glaubt-man-dass-die-lage-in-einem-monat-nicht-besser-wird-a-961f0a0d-e23b-4587-ab18-edd34fc3599a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/coronavirus-kassenaerzte-fordern-aufarbeitung-der-pandemiepolitik](https://www.spiegel.de/politik/deutschland/coronavirus-kassenaerzte-fordern-aufarbeitung-der-pandemiepolitik-a-c9c4fb5c-b228-4f08-b0e1-293dd4176ab8#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/familie/coronavirus-whatsapp-chats-offenbar-glaubt-man-dass-die-lage-in-einem-monat-nicht-besser-wird](https://www.spiegel.de/familie/coronavirus-whatsapp-chats-offenbar-glaubt-man-dass-die-lage-in-einem-monat-nicht-besser-wird-a-961f0a0d-e23b-4587-ab18-edd34fc3599a#ref=rss)
-* [https://www.spiegel.de/kultur/musik/festivals-2025-hurricane-juicy-beats-und-co-das-sind-die-besten-events-in-deutschland](https://www.spiegel.de/kultur/musik/festivals-2025-hurricane-juicy-beats-und-co-das-sind-die-besten-events-in-deutschland-a-8f32a751-87e7-4f3f-aaf5-9987a894990d#ref=rss)
+* [https://www.spiegel.de/sport/american-football/nfl-footballstar-jamarr-chase-erhaelt-offenbar-einen-rekordvertrag](https://www.spiegel.de/sport/american-football/nfl-footballstar-jamarr-chase-erhaelt-offenbar-einen-rekordvertrag-a-60ede3e8-ec83-4e54-be52-a75bb5d07fc6#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/elon-musk-und-doge-wueten-in-us-behoerden-operation-kettensaege](https://www.spiegel.de/netzwelt/web/elon-musk-und-doge-wueten-in-us-behoerden-operation-kettensaege-a-74870d8d-d96f-4bbe-9f1d-ee240be66946#ref=rss)
+* [https://www.spiegel.de/wirtschaft/us-handelskammer-sieht-wegen-zollkonflikt-billionengeschaeft-mit-eu-gefaehrdet](https://www.spiegel.de/wirtschaft/us-handelskammer-sieht-wegen-zollkonflikt-billionengeschaeft-mit-eu-gefaehrdet-a-642ea949-3dfb-4008-82aa-2115a1943003#ref=rss)
+* [https://www.spiegel.de/wirtschaft/hohe-mieten-in-grossstaedten-verschaerfen-fachkraeftemangel](https://www.spiegel.de/wirtschaft/hohe-mieten-in-grossstaedten-verschaerfen-fachkraeftemangel-a-f0bc0691-38de-457c-bb60-1fca97ee2ac4#ref=rss)
 ### gera
 
-* [https://www.spiegel.de/panorama/justiz/gera-frau-angezuendet-taeter-flieht](https://www.spiegel.de/panorama/justiz/gera-frau-angezuendet-taeter-flieht-a-5705b6e8-f808-4910-a2a7-fa35ab49d1c1#ref=rss)
-### täter
+* [https://www.spiegel.de/panorama/justiz/gera-frau-in-strassenbahn-angezuendet-tatverdaechtiger-festgenommen](https://www.spiegel.de/panorama/justiz/gera-frau-in-strassenbahn-angezuendet-tatverdaechtiger-festgenommen-a-5954021b-e226-4646-ad29-e7a87ff43b01#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/gera-frau-in-strassenbahn-angezuendet-polizei-fahndet-nach-ehemann](https://www.spiegel.de/panorama/justiz/gera-frau-in-strassenbahn-angezuendet-polizei-fahndet-nach-ehemann-a-5f0088bc-9a6f-454c-b325-0995ef546450#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/panorama/justiz/gera-frau-angezuendet-taeter-flieht](https://www.spiegel.de/panorama/justiz/gera-frau-angezuendet-taeter-flieht-a-5705b6e8-f808-4910-a2a7-fa35ab49d1c1#ref=rss)
-### kursk
+* [https://www.spiegel.de/ausland/eu-staaten-beraten-ueber-weitere-ukrainehilfen](https://www.spiegel.de/ausland/eu-staaten-beraten-ueber-weitere-ukrainehilfen-a-07300652-1cdc-4952-a58a-b46cd92e56ba#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-kuendigt-erneutes-gespraech-mit-wladimir-putin-am-dienstag-an](https://www.spiegel.de/ausland/donald-trump-kuendigt-erneutes-gespraech-mit-wladimir-putin-am-dienstag-an-a-59a42bca-75f5-44f3-a588-ceebae38382e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-bundestag-christian-duerr-fdp](https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-bundestag-christian-duerr-fdp-a-ddbc2f79-a18c-4546-8ee5-3fe3d2c72820#ref=rss)
+### ich
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-draengt-ukrainische-truppen-in-kursk-zurueck](https://www.spiegel.de/ausland/ukraine-krieg-russland-draengt-ukrainische-truppen-in-kursk-zurueck-a-17ec3a28-f2ea-4d00-bb4c-347de7889b48#ref=rss)
-### francesco
+* [https://www.spiegel.de/psychologie/leben-mit-adipositas-wie-scham-mich-klein-hielt-und-wut-mich-befreit](https://www.spiegel.de/psychologie/leben-mit-adipositas-wie-scham-mich-klein-hielt-und-wut-mich-befreit-a-1fe3290a-0ea6-4d37-abbf-59a55e1d2740#ref=rss)
+* [https://www.spiegel.de/karriere/bewerbung-wie-reagiere-ich-auf-ein-unerwartetes-jobangebot-tipps-vom-karrierecoach](https://www.spiegel.de/karriere/bewerbung-wie-reagiere-ich-auf-ein-unerwartetes-jobangebot-tipps-vom-karrierecoach-a-0537b3ac-095b-45f1-a381-ac658c85731e#ref=rss)
+### brand
 
-* [https://www.spiegel.de/sport/wintersport/bob-koenig-francesco-friedrich-und-die-deutsche-dominanz](https://www.spiegel.de/sport/wintersport/bob-koenig-francesco-friedrich-und-die-deutsche-dominanz-a-e5428817-8aba-4f2e-8413-ed74aa7395e7#ref=rss)
-### fordern
+* [https://www.spiegel.de/panorama/freizeit-land-geiselwind-in-bayern-feuer-zerstoert-gebaeude](https://www.spiegel.de/panorama/freizeit-land-geiselwind-in-bayern-feuer-zerstoert-gebaeude-a-f02f42cf-c4c1-46fb-957d-f3b11de228a8#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/gera-frau-in-strassenbahn-angezuendet-tatverdaechtiger-festgenommen](https://www.spiegel.de/panorama/justiz/gera-frau-in-strassenbahn-angezuendet-tatverdaechtiger-festgenommen-a-5954021b-e226-4646-ad29-e7a87ff43b01#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/discobrand-in-nordmazedonien-praesidentin-fordert-gerechtigkeit-und-bestrafung](https://www.spiegel.de/panorama/justiz/discobrand-in-nordmazedonien-praesidentin-fordert-gerechtigkeit-und-bestrafung-a-5cbe14be-e84e-45f2-9aeb-341c7e65d9f9#ref=rss)
+### nordmazedonien
 
-* [https://www.spiegel.de/politik/deutschland/coronavirus-kassenaerzte-fordern-aufarbeitung-der-pandemiepolitik](https://www.spiegel.de/politik/deutschland/coronavirus-kassenaerzte-fordern-aufarbeitung-der-pandemiepolitik-a-c9c4fb5c-b228-4f08-b0e1-293dd4176ab8#ref=rss)
-### steffen
+* [https://www.spiegel.de/sport/fussball/diskobrand-in-nordmazedonien-fussballprofi-andrej-lazarov-stirbt-bei-rettungsversuch](https://www.spiegel.de/sport/fussball/diskobrand-in-nordmazedonien-fussballprofi-andrej-lazarov-stirbt-bei-rettungsversuch-a-3db29ef3-e2c1-418d-9e9e-4578c0ee357c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/discobrand-in-nordmazedonien-praesidentin-fordert-gerechtigkeit-und-bestrafung](https://www.spiegel.de/panorama/justiz/discobrand-in-nordmazedonien-praesidentin-fordert-gerechtigkeit-und-bestrafung-a-5cbe14be-e84e-45f2-9aeb-341c7e65d9f9#ref=rss)
+### leben
 
-* [https://www.spiegel.de/politik/deutschland/thueringen-bsw-politiker-steffen-quasebarth-tritt-in-afd-podcast-auf](https://www.spiegel.de/politik/deutschland/thueringen-bsw-politiker-steffen-quasebarth-tritt-in-afd-podcast-auf-a-f50300fd-0618-4483-912e-c637b2a3feb6#ref=rss)
-### quasebarth
+* [https://www.spiegel.de/sport/fussball/diskobrand-in-nordmazedonien-fussballprofi-andrej-lazarov-stirbt-bei-rettungsversuch](https://www.spiegel.de/sport/fussball/diskobrand-in-nordmazedonien-fussballprofi-andrej-lazarov-stirbt-bei-rettungsversuch-a-3db29ef3-e2c1-418d-9e9e-4578c0ee357c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-praeventionsprogramm-gegen-gewalt-an-berliner-schulen-erste-stunde-messerkunde](https://www.spiegel.de/panorama/justiz/berlin-praeventionsprogramm-gegen-gewalt-an-berliner-schulen-erste-stunde-messerkunde-a-58ad5603-aa25-4b9c-82bd-ba40b8b4f7e7#ref=rss)
+* [https://www.spiegel.de/psychologie/leben-mit-adipositas-wie-scham-mich-klein-hielt-und-wut-mich-befreit](https://www.spiegel.de/psychologie/leben-mit-adipositas-wie-scham-mich-klein-hielt-und-wut-mich-befreit-a-1fe3290a-0ea6-4d37-abbf-59a55e1d2740#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/politik/deutschland/thueringen-bsw-politiker-steffen-quasebarth-tritt-in-afd-podcast-auf](https://www.spiegel.de/politik/deutschland/thueringen-bsw-politiker-steffen-quasebarth-tritt-in-afd-podcast-auf-a-f50300fd-0618-4483-912e-c637b2a3feb6#ref=rss)
-### afdpodcast
+* [https://www.spiegel.de/kultur/literatur/peter-bichsel-ist-tot-schweizer-schriftsteller-mit-89-jahren-gestorben](https://www.spiegel.de/kultur/literatur/peter-bichsel-ist-tot-schweizer-schriftsteller-mit-89-jahren-gestorben-a-4d6fc125-b0c6-4ddb-973f-7628ea3a30a8#ref=rss)
+* [https://www.spiegel.de/sport/olympia/ioc-waehlt-nachfolger-von-thomas-bach-das-kann-das-muss-der-sport-heute-noch-sein](https://www.spiegel.de/sport/olympia/ioc-waehlt-nachfolger-von-thomas-bach-das-kann-das-muss-der-sport-heute-noch-sein-a-18ee0854-155f-414d-9763-b249fa6e4b95#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/politik/deutschland/thueringen-bsw-politiker-steffen-quasebarth-tritt-in-afd-podcast-auf](https://www.spiegel.de/politik/deutschland/thueringen-bsw-politiker-steffen-quasebarth-tritt-in-afd-podcast-auf-a-f50300fd-0618-4483-912e-c637b2a3feb6#ref=rss)
-### wetter
+* [https://www.spiegel.de/wirtschaft/konjunktur-oecd-senkt-wachstumsprognose-fuer-deutschland-erneut](https://www.spiegel.de/wirtschaft/konjunktur-oecd-senkt-wachstumsprognose-fuer-deutschland-erneut-a-95336f87-941b-4fd2-8346-5edf009042fb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-aussenministerin-sagt-300-millionen-euro-zusaetzliche-syrien-hilfen-zu](https://www.spiegel.de/politik/deutschland/annalena-baerbock-aussenministerin-sagt-300-millionen-euro-zusaetzliche-syrien-hilfen-zu-a-bdb01a7d-6982-46ea-bebc-10b94ca88894#ref=rss)
+### neue
 
-* [https://www.spiegel.de/wissenschaft/natur/wetter-in-griechenland-von-31-grad-zu-schnee-extreme-temperaturschwankungen](https://www.spiegel.de/wissenschaft/natur/wetter-in-griechenland-von-31-grad-zu-schnee-extreme-temperaturschwankungen-a-648c4489-03db-47a5-a2c1-d801e8395dff#ref=rss)
-* [https://www.spiegel.de/panorama/peruanischer-fischer-nach-94-tagen-auf-hoher-see-gerettet](https://www.spiegel.de/panorama/peruanischer-fischer-nach-94-tagen-auf-hoher-see-gerettet-a-dacd0988-1085-4cad-8f8b-2281fc08684c#ref=rss)
-### griechenland
+* [https://www.spiegel.de/wirtschaft/konjunktur-oecd-senkt-wachstumsprognose-fuer-deutschland-erneut](https://www.spiegel.de/wirtschaft/konjunktur-oecd-senkt-wachstumsprognose-fuer-deutschland-erneut-a-95336f87-941b-4fd2-8346-5edf009042fb#ref=rss)
+* [https://www.spiegel.de/ausland/eu-staaten-beraten-ueber-weitere-ukrainehilfen](https://www.spiegel.de/ausland/eu-staaten-beraten-ueber-weitere-ukrainehilfen-a-07300652-1cdc-4952-a58a-b46cd92e56ba#ref=rss)
+* [https://www.spiegel.de/karriere/arbeit-und-selbstbild-warum-der-job-unser-selbstverstaendnis-praegt](https://www.spiegel.de/karriere/arbeit-und-selbstbild-warum-der-job-unser-selbstverstaendnis-praegt-a-b91d4ce7-894c-4786-849e-565e2c5e70a5#ref=rss)
+### gericht
 
-* [https://www.spiegel.de/wissenschaft/natur/wetter-in-griechenland-von-31-grad-zu-schnee-extreme-temperaturschwankungen](https://www.spiegel.de/wissenschaft/natur/wetter-in-griechenland-von-31-grad-zu-schnee-extreme-temperaturschwankungen-a-648c4489-03db-47a5-a2c1-d801e8395dff#ref=rss)
-### schnee
-
-* [https://www.spiegel.de/wissenschaft/natur/wetter-in-griechenland-von-31-grad-zu-schnee-extreme-temperaturschwankungen](https://www.spiegel.de/wissenschaft/natur/wetter-in-griechenland-von-31-grad-zu-schnee-extreme-temperaturschwankungen-a-648c4489-03db-47a5-a2c1-d801e8395dff#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/stuttgart-gericht-schlaegt-einstellung-des-verfahrens-gegen-querdenker-michael-ballweg-vor](https://www.spiegel.de/panorama/justiz/stuttgart-gericht-schlaegt-einstellung-des-verfahrens-gegen-querdenker-michael-ballweg-vor-a-f85028a8-7efc-40df-9440-7e6d9252d9e7#ref=rss)
 ### polizei
 
-* [https://www.spiegel.de/panorama/fahrer-unter-drogen-will-blaue-ampel-gesehen-haben](https://www.spiegel.de/panorama/fahrer-unter-drogen-will-blaue-ampel-gesehen-haben-a-988862aa-c8f8-4abe-b9cf-4c4c5ac8a451#ref=rss)
-### fischer
+* [https://www.spiegel.de/panorama/justiz/berlin-praeventionsprogramm-gegen-gewalt-an-berliner-schulen-erste-stunde-messerkunde](https://www.spiegel.de/panorama/justiz/berlin-praeventionsprogramm-gegen-gewalt-an-berliner-schulen-erste-stunde-messerkunde-a-58ad5603-aa25-4b9c-82bd-ba40b8b4f7e7#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/gera-frau-in-strassenbahn-angezuendet-tatverdaechtiger-festgenommen](https://www.spiegel.de/panorama/justiz/gera-frau-in-strassenbahn-angezuendet-tatverdaechtiger-festgenommen-a-5954021b-e226-4646-ad29-e7a87ff43b01#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/gera-frau-in-strassenbahn-angezuendet-polizei-fahndet-nach-ehemann](https://www.spiegel.de/panorama/justiz/gera-frau-in-strassenbahn-angezuendet-polizei-fahndet-nach-ehemann-a-5f0088bc-9a6f-454c-b325-0995ef546450#ref=rss)
+### laut
 
-* [https://www.spiegel.de/panorama/peruanischer-fischer-nach-94-tagen-auf-hoher-see-gerettet](https://www.spiegel.de/panorama/peruanischer-fischer-nach-94-tagen-auf-hoher-see-gerettet-a-dacd0988-1085-4cad-8f8b-2281fc08684c#ref=rss)
-### hoher
+* [https://www.spiegel.de/netzwelt/netzpolitik/pawel-durow-telegram-gruender-hat-frankreich-laut-medienbericht-verlassen](https://www.spiegel.de/netzwelt/netzpolitik/pawel-durow-telegram-gruender-hat-frankreich-laut-medienbericht-verlassen-a-c113cffc-9db9-4843-b5a4-ee1ac9e62adf#ref=rss)
+* [https://www.spiegel.de/wirtschaft/verwaltungsaufwand-fuer-buergergeld-extrem-hoch](https://www.spiegel.de/wirtschaft/verwaltungsaufwand-fuer-buergergeld-extrem-hoch-a-5aeb4e99-fad3-4c7e-81d1-2bb7ab4de1df#ref=rss)
+### bach
 
-* [https://www.spiegel.de/panorama/peruanischer-fischer-nach-94-tagen-auf-hoher-see-gerettet](https://www.spiegel.de/panorama/peruanischer-fischer-nach-94-tagen-auf-hoher-see-gerettet-a-dacd0988-1085-4cad-8f8b-2281fc08684c#ref=rss)
-### see
+* [https://www.spiegel.de/sport/olympia/ioc-waehlt-nachfolger-von-thomas-bach-das-kann-das-muss-der-sport-heute-noch-sein](https://www.spiegel.de/sport/olympia/ioc-waehlt-nachfolger-von-thomas-bach-das-kann-das-muss-der-sport-heute-noch-sein-a-18ee0854-155f-414d-9763-b249fa6e4b95#ref=rss)
+### frau
 
-* [https://www.spiegel.de/panorama/peruanischer-fischer-nach-94-tagen-auf-hoher-see-gerettet](https://www.spiegel.de/panorama/peruanischer-fischer-nach-94-tagen-auf-hoher-see-gerettet-a-dacd0988-1085-4cad-8f8b-2281fc08684c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/gera-frau-in-strassenbahn-angezuendet-tatverdaechtiger-festgenommen](https://www.spiegel.de/panorama/justiz/gera-frau-in-strassenbahn-angezuendet-tatverdaechtiger-festgenommen-a-5954021b-e226-4646-ad29-e7a87ff43b01#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/gera-frau-in-strassenbahn-angezuendet-polizei-fahndet-nach-ehemann](https://www.spiegel.de/panorama/justiz/gera-frau-in-strassenbahn-angezuendet-polizei-fahndet-nach-ehemann-a-5f0088bc-9a6f-454c-b325-0995ef546450#ref=rss)
+### angezündet
+
+* [https://www.spiegel.de/panorama/justiz/gera-frau-in-strassenbahn-angezuendet-tatverdaechtiger-festgenommen](https://www.spiegel.de/panorama/justiz/gera-frau-in-strassenbahn-angezuendet-tatverdaechtiger-festgenommen-a-5954021b-e226-4646-ad29-e7a87ff43b01#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/gera-frau-in-strassenbahn-angezuendet-polizei-fahndet-nach-ehemann](https://www.spiegel.de/panorama/justiz/gera-frau-in-strassenbahn-angezuendet-polizei-fahndet-nach-ehemann-a-5f0088bc-9a6f-454c-b325-0995ef546450#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/justiz/gera-frau-in-strassenbahn-angezuendet-tatverdaechtiger-festgenommen](https://www.spiegel.de/panorama/justiz/gera-frau-in-strassenbahn-angezuendet-tatverdaechtiger-festgenommen-a-5954021b-e226-4646-ad29-e7a87ff43b01#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/gera-frau-in-strassenbahn-angezuendet-polizei-fahndet-nach-ehemann](https://www.spiegel.de/panorama/justiz/gera-frau-in-strassenbahn-angezuendet-polizei-fahndet-nach-ehemann-a-5f0088bc-9a6f-454c-b325-0995ef546450#ref=rss)
+* [https://www.spiegel.de/psychologie/leben-mit-adipositas-wie-scham-mich-klein-hielt-und-wut-mich-befreit](https://www.spiegel.de/psychologie/leben-mit-adipositas-wie-scham-mich-klein-hielt-und-wut-mich-befreit-a-1fe3290a-0ea6-4d37-abbf-59a55e1d2740#ref=rss)
+### wladimir
+
+* [https://www.spiegel.de/ausland/donald-trump-kuendigt-erneutes-gespraech-mit-wladimir-putin-am-dienstag-an](https://www.spiegel.de/ausland/donald-trump-kuendigt-erneutes-gespraech-mit-wladimir-putin-am-dienstag-an-a-59a42bca-75f5-44f3-a588-ceebae38382e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-bundestag-christian-duerr-fdp](https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-bundestag-christian-duerr-fdp-a-ddbc2f79-a18c-4546-8ee5-3fe3d2c72820#ref=rss)
+### putin
+
+* [https://www.spiegel.de/ausland/donald-trump-kuendigt-erneutes-gespraech-mit-wladimir-putin-am-dienstag-an](https://www.spiegel.de/ausland/donald-trump-kuendigt-erneutes-gespraech-mit-wladimir-putin-am-dienstag-an-a-59a42bca-75f5-44f3-a588-ceebae38382e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-bundestag-christian-duerr-fdp](https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-bundestag-christian-duerr-fdp-a-ddbc2f79-a18c-4546-8ee5-3fe3d2c72820#ref=rss)
+### flammen
+
+* [https://www.spiegel.de/panorama/freizeit-land-geiselwind-in-bayern-feuer-zerstoert-gebaeude](https://www.spiegel.de/panorama/freizeit-land-geiselwind-in-bayern-feuer-zerstoert-gebaeude-a-f02f42cf-c4c1-46fb-957d-f3b11de228a8#ref=rss)
+* [https://www.spiegel.de/sport/fussball/diskobrand-in-nordmazedonien-fussballprofi-andrej-lazarov-stirbt-bei-rettungsversuch](https://www.spiegel.de/sport/fussball/diskobrand-in-nordmazedonien-fussballprofi-andrej-lazarov-stirbt-bei-rettungsversuch-a-3db29ef3-e2c1-418d-9e9e-4578c0ee357c#ref=rss)
+### hoch
+
+* [https://www.spiegel.de/panorama/freizeit-land-geiselwind-in-bayern-feuer-zerstoert-gebaeude](https://www.spiegel.de/panorama/freizeit-land-geiselwind-in-bayern-feuer-zerstoert-gebaeude-a-f02f42cf-c4c1-46fb-957d-f3b11de228a8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/verwaltungsaufwand-fuer-buergergeld-extrem-hoch](https://www.spiegel.de/wirtschaft/verwaltungsaufwand-fuer-buergergeld-extrem-hoch-a-5aeb4e99-fad3-4c7e-81d1-2bb7ab4de1df#ref=rss)
+### andrej
+
+* [https://www.spiegel.de/sport/fussball/diskobrand-in-nordmazedonien-fussballprofi-andrej-lazarov-stirbt-bei-rettungsversuch](https://www.spiegel.de/sport/fussball/diskobrand-in-nordmazedonien-fussballprofi-andrej-lazarov-stirbt-bei-rettungsversuch-a-3db29ef3-e2c1-418d-9e9e-4578c0ee357c#ref=rss)
+### lazarov
+
+* [https://www.spiegel.de/sport/fussball/diskobrand-in-nordmazedonien-fussballprofi-andrej-lazarov-stirbt-bei-rettungsversuch](https://www.spiegel.de/sport/fussball/diskobrand-in-nordmazedonien-fussballprofi-andrej-lazarov-stirbt-bei-rettungsversuch-a-3db29ef3-e2c1-418d-9e9e-4578c0ee357c#ref=rss)
+### dutzende
+
+* [https://www.spiegel.de/sport/fussball/diskobrand-in-nordmazedonien-fussballprofi-andrej-lazarov-stirbt-bei-rettungsversuch](https://www.spiegel.de/sport/fussball/diskobrand-in-nordmazedonien-fussballprofi-andrej-lazarov-stirbt-bei-rettungsversuch-a-3db29ef3-e2c1-418d-9e9e-4578c0ee357c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/discobrand-in-nordmazedonien-praesidentin-fordert-gerechtigkeit-und-bestrafung](https://www.spiegel.de/panorama/justiz/discobrand-in-nordmazedonien-praesidentin-fordert-gerechtigkeit-und-bestrafung-a-5cbe14be-e84e-45f2-9aeb-341c7e65d9f9#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/sport/fussball/diskobrand-in-nordmazedonien-fussballprofi-andrej-lazarov-stirbt-bei-rettungsversuch](https://www.spiegel.de/sport/fussball/diskobrand-in-nordmazedonien-fussballprofi-andrej-lazarov-stirbt-bei-rettungsversuch-a-3db29ef3-e2c1-418d-9e9e-4578c0ee357c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/discobrand-in-nordmazedonien-praesidentin-fordert-gerechtigkeit-und-bestrafung](https://www.spiegel.de/panorama/justiz/discobrand-in-nordmazedonien-praesidentin-fordert-gerechtigkeit-und-bestrafung-a-5cbe14be-e84e-45f2-9aeb-341c7e65d9f9#ref=rss)
+### opfern
+
+* [https://www.spiegel.de/sport/fussball/diskobrand-in-nordmazedonien-fussballprofi-andrej-lazarov-stirbt-bei-rettungsversuch](https://www.spiegel.de/sport/fussball/diskobrand-in-nordmazedonien-fussballprofi-andrej-lazarov-stirbt-bei-rettungsversuch-a-3db29ef3-e2c1-418d-9e9e-4578c0ee357c#ref=rss)
+### gehört
+
+* [https://www.spiegel.de/sport/fussball/diskobrand-in-nordmazedonien-fussballprofi-andrej-lazarov-stirbt-bei-rettungsversuch](https://www.spiegel.de/sport/fussball/diskobrand-in-nordmazedonien-fussballprofi-andrej-lazarov-stirbt-bei-rettungsversuch-a-3db29ef3-e2c1-418d-9e9e-4578c0ee357c#ref=rss)
+* [https://www.spiegel.de/karriere/arbeit-und-selbstbild-warum-der-job-unser-selbstverstaendnis-praegt](https://www.spiegel.de/karriere/arbeit-und-selbstbild-warum-der-job-unser-selbstverstaendnis-praegt-a-b91d4ce7-894c-4786-849e-565e2c5e70a5#ref=rss)
+### zufolge
+
+* [https://www.spiegel.de/sport/fussball/diskobrand-in-nordmazedonien-fussballprofi-andrej-lazarov-stirbt-bei-rettungsversuch](https://www.spiegel.de/sport/fussball/diskobrand-in-nordmazedonien-fussballprofi-andrej-lazarov-stirbt-bei-rettungsversuch-a-3db29ef3-e2c1-418d-9e9e-4578c0ee357c#ref=rss)
+* [https://www.spiegel.de/sport/american-football/nfl-footballstar-jamarr-chase-erhaelt-offenbar-einen-rekordvertrag](https://www.spiegel.de/sport/american-football/nfl-footballstar-jamarr-chase-erhaelt-offenbar-einen-rekordvertrag-a-60ede3e8-ec83-4e54-be52-a75bb5d07fc6#ref=rss)
+### warnt
+
+* [https://www.spiegel.de/wirtschaft/volkswagen-krise-moodys-warnt-vor-erhoehtem-kreditrisiko](https://www.spiegel.de/wirtschaft/volkswagen-krise-moodys-warnt-vor-erhoehtem-kreditrisiko-a-2caa3b62-8a81-448e-9eb6-8703eb3e6c1b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/us-handelskammer-sieht-wegen-zollkonflikt-billionengeschaeft-mit-eu-gefaehrdet](https://www.spiegel.de/wirtschaft/us-handelskammer-sieht-wegen-zollkonflikt-billionengeschaeft-mit-eu-gefaehrdet-a-642ea949-3dfb-4008-82aa-2115a1943003#ref=rss)
+### krise
+
+* [https://www.spiegel.de/wirtschaft/volkswagen-krise-moodys-warnt-vor-erhoehtem-kreditrisiko](https://www.spiegel.de/wirtschaft/volkswagen-krise-moodys-warnt-vor-erhoehtem-kreditrisiko-a-2caa3b62-8a81-448e-9eb6-8703eb3e6c1b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/hohe-mieten-in-grossstaedten-verschaerfen-fachkraeftemangel](https://www.spiegel.de/wirtschaft/hohe-mieten-in-grossstaedten-verschaerfen-fachkraeftemangel-a-f0bc0691-38de-457c-bb60-1fca97ee2ac4#ref=rss)
+### peter
+
+* [https://www.spiegel.de/kultur/literatur/peter-bichsel-ist-tot-schweizer-schriftsteller-mit-89-jahren-gestorben](https://www.spiegel.de/kultur/literatur/peter-bichsel-ist-tot-schweizer-schriftsteller-mit-89-jahren-gestorben-a-4d6fc125-b0c6-4ddb-973f-7628ea3a30a8#ref=rss)
+### bichsel
+
+* [https://www.spiegel.de/kultur/literatur/peter-bichsel-ist-tot-schweizer-schriftsteller-mit-89-jahren-gestorben](https://www.spiegel.de/kultur/literatur/peter-bichsel-ist-tot-schweizer-schriftsteller-mit-89-jahren-gestorben-a-4d6fc125-b0c6-4ddb-973f-7628ea3a30a8#ref=rss)
+### schweizer
+
+* [https://www.spiegel.de/kultur/literatur/peter-bichsel-ist-tot-schweizer-schriftsteller-mit-89-jahren-gestorben](https://www.spiegel.de/kultur/literatur/peter-bichsel-ist-tot-schweizer-schriftsteller-mit-89-jahren-gestorben-a-4d6fc125-b0c6-4ddb-973f-7628ea3a30a8#ref=rss)
+### 89
+
+* [https://www.spiegel.de/kultur/literatur/peter-bichsel-ist-tot-schweizer-schriftsteller-mit-89-jahren-gestorben](https://www.spiegel.de/kultur/literatur/peter-bichsel-ist-tot-schweizer-schriftsteller-mit-89-jahren-gestorben-a-4d6fc125-b0c6-4ddb-973f-7628ea3a30a8#ref=rss)
+### gestorben
+
+* [https://www.spiegel.de/kultur/literatur/peter-bichsel-ist-tot-schweizer-schriftsteller-mit-89-jahren-gestorben](https://www.spiegel.de/kultur/literatur/peter-bichsel-ist-tot-schweizer-schriftsteller-mit-89-jahren-gestorben-a-4d6fc125-b0c6-4ddb-973f-7628ea3a30a8#ref=rss)
+### oecd
+
+* [https://www.spiegel.de/wirtschaft/konjunktur-oecd-senkt-wachstumsprognose-fuer-deutschland-erneut](https://www.spiegel.de/wirtschaft/konjunktur-oecd-senkt-wachstumsprognose-fuer-deutschland-erneut-a-95336f87-941b-4fd2-8346-5edf009042fb#ref=rss)
+### uspräsident
+
+* [https://www.spiegel.de/wirtschaft/konjunktur-oecd-senkt-wachstumsprognose-fuer-deutschland-erneut](https://www.spiegel.de/wirtschaft/konjunktur-oecd-senkt-wachstumsprognose-fuer-deutschland-erneut-a-95336f87-941b-4fd2-8346-5edf009042fb#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-kuendigt-erneutes-gespraech-mit-wladimir-putin-am-dienstag-an](https://www.spiegel.de/ausland/donald-trump-kuendigt-erneutes-gespraech-mit-wladimir-putin-am-dienstag-an-a-59a42bca-75f5-44f3-a588-ceebae38382e#ref=rss)
+### erste
+
+* [https://www.spiegel.de/geschichte/fruehe-boulevardzeitungen-wie-ein-spion-die-klatschpresse-erfand](https://www.spiegel.de/geschichte/fruehe-boulevardzeitungen-wie-ein-spion-die-klatschpresse-erfand-a-660e6fcd-f242-4aa1-a9f2-a1c2a392c3f7#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-praeventionsprogramm-gegen-gewalt-an-berliner-schulen-erste-stunde-messerkunde](https://www.spiegel.de/panorama/justiz/berlin-praeventionsprogramm-gegen-gewalt-an-berliner-schulen-erste-stunde-messerkunde-a-58ad5603-aa25-4b9c-82bd-ba40b8b4f7e7#ref=rss)
+### politik
+
+* [https://www.spiegel.de/geschichte/fruehe-boulevardzeitungen-wie-ein-spion-die-klatschpresse-erfand](https://www.spiegel.de/geschichte/fruehe-boulevardzeitungen-wie-ein-spion-die-klatschpresse-erfand-a-660e6fcd-f242-4aa1-a9f2-a1c2a392c3f7#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/discobrand-in-nordmazedonien-praesidentin-fordert-gerechtigkeit-und-bestrafung](https://www.spiegel.de/panorama/justiz/discobrand-in-nordmazedonien-praesidentin-fordert-gerechtigkeit-und-bestrafung-a-5cbe14be-e84e-45f2-9aeb-341c7e65d9f9#ref=rss)
+### chase
+
+* [https://www.spiegel.de/sport/american-football/nfl-footballstar-jamarr-chase-erhaelt-offenbar-einen-rekordvertrag](https://www.spiegel.de/sport/american-football/nfl-footballstar-jamarr-chase-erhaelt-offenbar-einen-rekordvertrag-a-60ede3e8-ec83-4e54-be52-a75bb5d07fc6#ref=rss)
+### besten
+
+* [https://www.spiegel.de/sport/american-football/nfl-footballstar-jamarr-chase-erhaelt-offenbar-einen-rekordvertrag](https://www.spiegel.de/sport/american-football/nfl-footballstar-jamarr-chase-erhaelt-offenbar-einen-rekordvertrag-a-60ede3e8-ec83-4e54-be52-a75bb5d07fc6#ref=rss)
+* [https://www.spiegel.de/karriere/bewerbung-wie-reagiere-ich-auf-ein-unerwartetes-jobangebot-tipps-vom-karrierecoach](https://www.spiegel.de/karriere/bewerbung-wie-reagiere-ich-auf-ein-unerwartetes-jobangebot-tipps-vom-karrierecoach-a-0537b3ac-095b-45f1-a381-ac658c85731e#ref=rss)
+### je
+
+* [https://www.spiegel.de/sport/american-football/nfl-footballstar-jamarr-chase-erhaelt-offenbar-einen-rekordvertrag](https://www.spiegel.de/sport/american-football/nfl-footballstar-jamarr-chase-erhaelt-offenbar-einen-rekordvertrag-a-60ede3e8-ec83-4e54-be52-a75bb5d07fc6#ref=rss)
+* [https://www.spiegel.de/karriere/arbeit-und-selbstbild-warum-der-job-unser-selbstverstaendnis-praegt](https://www.spiegel.de/karriere/arbeit-und-selbstbild-warum-der-job-unser-selbstverstaendnis-praegt-a-b91d4ce7-894c-4786-849e-565e2c5e70a5#ref=rss)
+### michael
+
+* [https://www.spiegel.de/panorama/justiz/stuttgart-gericht-schlaegt-einstellung-des-verfahrens-gegen-querdenker-michael-ballweg-vor](https://www.spiegel.de/panorama/justiz/stuttgart-gericht-schlaegt-einstellung-des-verfahrens-gegen-querdenker-michael-ballweg-vor-a-f85028a8-7efc-40df-9440-7e6d9252d9e7#ref=rss)
+### ballweg
+
+* [https://www.spiegel.de/panorama/justiz/stuttgart-gericht-schlaegt-einstellung-des-verfahrens-gegen-querdenker-michael-ballweg-vor](https://www.spiegel.de/panorama/justiz/stuttgart-gericht-schlaegt-einstellung-des-verfahrens-gegen-querdenker-michael-ballweg-vor-a-f85028a8-7efc-40df-9440-7e6d9252d9e7#ref=rss)
+### elon
+
+* [https://www.spiegel.de/netzwelt/web/elon-musk-und-doge-wueten-in-us-behoerden-operation-kettensaege](https://www.spiegel.de/netzwelt/web/elon-musk-und-doge-wueten-in-us-behoerden-operation-kettensaege-a-74870d8d-d96f-4bbe-9f1d-ee240be66946#ref=rss)
+### musk
+
+* [https://www.spiegel.de/netzwelt/web/elon-musk-und-doge-wueten-in-us-behoerden-operation-kettensaege](https://www.spiegel.de/netzwelt/web/elon-musk-und-doge-wueten-in-us-behoerden-operation-kettensaege-a-74870d8d-d96f-4bbe-9f1d-ee240be66946#ref=rss)
+### annalena
+
+* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-aussenministerin-sagt-300-millionen-euro-zusaetzliche-syrien-hilfen-zu](https://www.spiegel.de/politik/deutschland/annalena-baerbock-aussenministerin-sagt-300-millionen-euro-zusaetzliche-syrien-hilfen-zu-a-bdb01a7d-6982-46ea-bebc-10b94ca88894#ref=rss)
+### baerbock
+
+* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-aussenministerin-sagt-300-millionen-euro-zusaetzliche-syrien-hilfen-zu](https://www.spiegel.de/politik/deutschland/annalena-baerbock-aussenministerin-sagt-300-millionen-euro-zusaetzliche-syrien-hilfen-zu-a-bdb01a7d-6982-46ea-bebc-10b94ca88894#ref=rss)
+### außenministerin
+
+* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-aussenministerin-sagt-300-millionen-euro-zusaetzliche-syrien-hilfen-zu](https://www.spiegel.de/politik/deutschland/annalena-baerbock-aussenministerin-sagt-300-millionen-euro-zusaetzliche-syrien-hilfen-zu-a-bdb01a7d-6982-46ea-bebc-10b94ca88894#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-aussenministerin-sagt-300-millionen-euro-zusaetzliche-syrien-hilfen-zu](https://www.spiegel.de/politik/deutschland/annalena-baerbock-aussenministerin-sagt-300-millionen-euro-zusaetzliche-syrien-hilfen-zu-a-bdb01a7d-6982-46ea-bebc-10b94ca88894#ref=rss)
+* [https://www.spiegel.de/wirtschaft/2-5-millionen-beschaeftigte-von-kita-bis-muellabfuhr-betroffen-verhandlungen-zwischen-verdi-und-arbeitgebern-gehen-weiter](https://www.spiegel.de/wirtschaft/2-5-millionen-beschaeftigte-von-kita-bis-muellabfuhr-betroffen-verhandlungen-zwischen-verdi-und-arbeitgebern-gehen-weiter-a-eb908ed8-681b-413f-9473-f8e006126acc#ref=rss)
+### euro
+
+* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-aussenministerin-sagt-300-millionen-euro-zusaetzliche-syrien-hilfen-zu](https://www.spiegel.de/politik/deutschland/annalena-baerbock-aussenministerin-sagt-300-millionen-euro-zusaetzliche-syrien-hilfen-zu-a-bdb01a7d-6982-46ea-bebc-10b94ca88894#ref=rss)
+* [https://www.spiegel.de/ausland/eu-staaten-beraten-ueber-weitere-ukrainehilfen](https://www.spiegel.de/ausland/eu-staaten-beraten-ueber-weitere-ukrainehilfen-a-07300652-1cdc-4952-a58a-b46cd92e56ba#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/panorama/justiz/berlin-praeventionsprogramm-gegen-gewalt-an-berliner-schulen-erste-stunde-messerkunde](https://www.spiegel.de/panorama/justiz/berlin-praeventionsprogramm-gegen-gewalt-an-berliner-schulen-erste-stunde-messerkunde-a-58ad5603-aa25-4b9c-82bd-ba40b8b4f7e7#ref=rss)
+### schulen
+
+* [https://www.spiegel.de/panorama/justiz/berlin-praeventionsprogramm-gegen-gewalt-an-berliner-schulen-erste-stunde-messerkunde](https://www.spiegel.de/panorama/justiz/berlin-praeventionsprogramm-gegen-gewalt-an-berliner-schulen-erste-stunde-messerkunde-a-58ad5603-aa25-4b9c-82bd-ba40b8b4f7e7#ref=rss)
+### filmpreis
+
+* [https://www.spiegel.de/kultur/tv/deutscher-filmpreis-zehn-nominierungen-fuer-september-5](https://www.spiegel.de/kultur/tv/deutscher-filmpreis-zehn-nominierungen-fuer-september-5-a-6051be2d-0565-4c41-8983-80b51fe506d1#ref=rss)
+### september
+
+* [https://www.spiegel.de/kultur/tv/deutscher-filmpreis-zehn-nominierungen-fuer-september-5](https://www.spiegel.de/kultur/tv/deutscher-filmpreis-zehn-nominierungen-fuer-september-5-a-6051be2d-0565-4c41-8983-80b51fe506d1#ref=rss)
+### 5
+
+* [https://www.spiegel.de/kultur/tv/deutscher-filmpreis-zehn-nominierungen-fuer-september-5](https://www.spiegel.de/kultur/tv/deutscher-filmpreis-zehn-nominierungen-fuer-september-5-a-6051be2d-0565-4c41-8983-80b51fe506d1#ref=rss)
+### pawel
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/pawel-durow-telegram-gruender-hat-frankreich-laut-medienbericht-verlassen](https://www.spiegel.de/netzwelt/netzpolitik/pawel-durow-telegram-gruender-hat-frankreich-laut-medienbericht-verlassen-a-c113cffc-9db9-4843-b5a4-ee1ac9e62adf#ref=rss)
+### durow
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/pawel-durow-telegram-gruender-hat-frankreich-laut-medienbericht-verlassen](https://www.spiegel.de/netzwelt/netzpolitik/pawel-durow-telegram-gruender-hat-frankreich-laut-medienbericht-verlassen-a-c113cffc-9db9-4843-b5a4-ee1ac9e62adf#ref=rss)
+### frankreich
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/pawel-durow-telegram-gruender-hat-frankreich-laut-medienbericht-verlassen](https://www.spiegel.de/netzwelt/netzpolitik/pawel-durow-telegram-gruender-hat-frankreich-laut-medienbericht-verlassen-a-c113cffc-9db9-4843-b5a4-ee1ac9e62adf#ref=rss)
+### wochen
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/pawel-durow-telegram-gruender-hat-frankreich-laut-medienbericht-verlassen](https://www.spiegel.de/netzwelt/netzpolitik/pawel-durow-telegram-gruender-hat-frankreich-laut-medienbericht-verlassen-a-c113cffc-9db9-4843-b5a4-ee1ac9e62adf#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-kuendigt-erneutes-gespraech-mit-wladimir-putin-am-dienstag-an](https://www.spiegel.de/ausland/donald-trump-kuendigt-erneutes-gespraech-mit-wladimir-putin-am-dienstag-an-a-59a42bca-75f5-44f3-a588-ceebae38382e#ref=rss)
+### thomas
+
+* [https://www.spiegel.de/sport/olympia/ioc-waehlt-nachfolger-von-thomas-bach-das-kann-das-muss-der-sport-heute-noch-sein](https://www.spiegel.de/sport/olympia/ioc-waehlt-nachfolger-von-thomas-bach-das-kann-das-muss-der-sport-heute-noch-sein-a-18ee0854-155f-414d-9763-b249fa6e4b95#ref=rss)
+### ushandelskammer
+
+* [https://www.spiegel.de/wirtschaft/us-handelskammer-sieht-wegen-zollkonflikt-billionengeschaeft-mit-eu-gefaehrdet](https://www.spiegel.de/wirtschaft/us-handelskammer-sieht-wegen-zollkonflikt-billionengeschaeft-mit-eu-gefaehrdet-a-642ea949-3dfb-4008-82aa-2115a1943003#ref=rss)
+### eu
+
+* [https://www.spiegel.de/wirtschaft/us-handelskammer-sieht-wegen-zollkonflikt-billionengeschaeft-mit-eu-gefaehrdet](https://www.spiegel.de/wirtschaft/us-handelskammer-sieht-wegen-zollkonflikt-billionengeschaeft-mit-eu-gefaehrdet-a-642ea949-3dfb-4008-82aa-2115a1943003#ref=rss)
+### folgen
+
+* [https://www.spiegel.de/wirtschaft/us-handelskammer-sieht-wegen-zollkonflikt-billionengeschaeft-mit-eu-gefaehrdet](https://www.spiegel.de/wirtschaft/us-handelskammer-sieht-wegen-zollkonflikt-billionengeschaeft-mit-eu-gefaehrdet-a-642ea949-3dfb-4008-82aa-2115a1943003#ref=rss)
+* [https://www.spiegel.de/wirtschaft/hohe-mieten-in-grossstaedten-verschaerfen-fachkraeftemangel](https://www.spiegel.de/wirtschaft/hohe-mieten-in-grossstaedten-verschaerfen-fachkraeftemangel-a-f0bc0691-38de-457c-bb60-1fca97ee2ac4#ref=rss)
+### bürgergeld
+
+* [https://www.spiegel.de/wirtschaft/verwaltungsaufwand-fuer-buergergeld-extrem-hoch](https://www.spiegel.de/wirtschaft/verwaltungsaufwand-fuer-buergergeld-extrem-hoch-a-5aeb4e99-fad3-4c7e-81d1-2bb7ab4de1df#ref=rss)
+### freie
+
+* [https://www.spiegel.de/politik/deutschland/fabian-mehring-freie-waehler-minister-gibt-sich-vor-bayerischem-krisentreffen-versoehnlich](https://www.spiegel.de/politik/deutschland/fabian-mehring-freie-waehler-minister-gibt-sich-vor-bayerischem-krisentreffen-versoehnlich-a-3f24c348-8fd9-434d-baa7-e325a914b8e9#ref=rss)
+### wähler
+
+* [https://www.spiegel.de/politik/deutschland/fabian-mehring-freie-waehler-minister-gibt-sich-vor-bayerischem-krisentreffen-versoehnlich](https://www.spiegel.de/politik/deutschland/fabian-mehring-freie-waehler-minister-gibt-sich-vor-bayerischem-krisentreffen-versoehnlich-a-3f24c348-8fd9-434d-baa7-e325a914b8e9#ref=rss)
+### bundesrat
+
+* [https://www.spiegel.de/politik/deutschland/fabian-mehring-freie-waehler-minister-gibt-sich-vor-bayerischem-krisentreffen-versoehnlich](https://www.spiegel.de/politik/deutschland/fabian-mehring-freie-waehler-minister-gibt-sich-vor-bayerischem-krisentreffen-versoehnlich-a-3f24c348-8fd9-434d-baa7-e325a914b8e9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-bundestag-christian-duerr-fdp](https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-bundestag-christian-duerr-fdp-a-ddbc2f79-a18c-4546-8ee5-3fe3d2c72820#ref=rss)
+### kennen
+
+* [https://www.spiegel.de/politik/deutschland/fabian-mehring-freie-waehler-minister-gibt-sich-vor-bayerischem-krisentreffen-versoehnlich](https://www.spiegel.de/politik/deutschland/fabian-mehring-freie-waehler-minister-gibt-sich-vor-bayerischem-krisentreffen-versoehnlich-a-3f24c348-8fd9-434d-baa7-e325a914b8e9#ref=rss)
+* [https://www.spiegel.de/karriere/arbeit-und-selbstbild-warum-der-job-unser-selbstverstaendnis-praegt](https://www.spiegel.de/karriere/arbeit-und-selbstbild-warum-der-job-unser-selbstverstaendnis-praegt-a-b91d4ce7-894c-4786-849e-565e2c5e70a5#ref=rss)
+### straßenbahn
+
+* [https://www.spiegel.de/panorama/justiz/gera-frau-in-strassenbahn-angezuendet-polizei-fahndet-nach-ehemann](https://www.spiegel.de/panorama/justiz/gera-frau-in-strassenbahn-angezuendet-polizei-fahndet-nach-ehemann-a-5f0088bc-9a6f-454c-b325-0995ef546450#ref=rss)
+### foto
+
+* [https://www.spiegel.de/panorama/justiz/gera-frau-in-strassenbahn-angezuendet-polizei-fahndet-nach-ehemann](https://www.spiegel.de/panorama/justiz/gera-frau-in-strassenbahn-angezuendet-polizei-fahndet-nach-ehemann-a-5f0088bc-9a6f-454c-b325-0995ef546450#ref=rss)
+* [https://www.spiegel.de/psychologie/leben-mit-adipositas-wie-scham-mich-klein-hielt-und-wut-mich-befreit](https://www.spiegel.de/psychologie/leben-mit-adipositas-wie-scham-mich-klein-hielt-und-wut-mich-befreit-a-1fe3290a-0ea6-4d37-abbf-59a55e1d2740#ref=rss)
+### borowski
+
+* [https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-borowski-und-das-haupt-der-medusa-mit-axel-milberg](https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-borowski-und-das-haupt-der-medusa-mit-axel-milberg-a-9bede312-619a-435b-835e-185bdc6b6f89#ref=rss)
+### axel
+
+* [https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-borowski-und-das-haupt-der-medusa-mit-axel-milberg](https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-borowski-und-das-haupt-der-medusa-mit-axel-milberg-a-9bede312-619a-435b-835e-185bdc6b6f89#ref=rss)
+### milberg
+
+* [https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-borowski-und-das-haupt-der-medusa-mit-axel-milberg](https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-borowski-und-das-haupt-der-medusa-mit-axel-milberg-a-9bede312-619a-435b-835e-185bdc6b6f89#ref=rss)
+### verdi
+
+* [https://www.spiegel.de/wirtschaft/2-5-millionen-beschaeftigte-von-kita-bis-muellabfuhr-betroffen-verhandlungen-zwischen-verdi-und-arbeitgebern-gehen-weiter](https://www.spiegel.de/wirtschaft/2-5-millionen-beschaeftigte-von-kita-bis-muellabfuhr-betroffen-verhandlungen-zwischen-verdi-und-arbeitgebern-gehen-weiter-a-eb908ed8-681b-413f-9473-f8e006126acc#ref=rss)
+### mieten
+
+* [https://www.spiegel.de/wirtschaft/hohe-mieten-in-grossstaedten-verschaerfen-fachkraeftemangel](https://www.spiegel.de/wirtschaft/hohe-mieten-in-grossstaedten-verschaerfen-fachkraeftemangel-a-f0bc0691-38de-457c-bb60-1fca97ee2ac4#ref=rss)
+### gespräch
+
+* [https://www.spiegel.de/ausland/eu-staaten-beraten-ueber-weitere-ukrainehilfen](https://www.spiegel.de/ausland/eu-staaten-beraten-ueber-weitere-ukrainehilfen-a-07300652-1cdc-4952-a58a-b46cd92e56ba#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-kuendigt-erneutes-gespraech-mit-wladimir-putin-am-dienstag-an](https://www.spiegel.de/ausland/donald-trump-kuendigt-erneutes-gespraech-mit-wladimir-putin-am-dienstag-an-a-59a42bca-75f5-44f3-a588-ceebae38382e#ref=rss)
+### mich
+
+* [https://www.spiegel.de/psychologie/leben-mit-adipositas-wie-scham-mich-klein-hielt-und-wut-mich-befreit](https://www.spiegel.de/psychologie/leben-mit-adipositas-wie-scham-mich-klein-hielt-und-wut-mich-befreit-a-1fe3290a-0ea6-4d37-abbf-59a55e1d2740#ref=rss)
+### methylenblau
+
+* [https://www.spiegel.de/gesundheit/methylenblau-warum-ein-chemischer-farbstoff-als-wundermittel-beworben-wird](https://www.spiegel.de/gesundheit/methylenblau-warum-ein-chemischer-farbstoff-als-wundermittel-beworben-wird-a-ef245731-97f9-4f8c-885f-4d72e258a805#ref=rss)
+### farbstoff
+
+* [https://www.spiegel.de/gesundheit/methylenblau-warum-ein-chemischer-farbstoff-als-wundermittel-beworben-wird](https://www.spiegel.de/gesundheit/methylenblau-warum-ein-chemischer-farbstoff-als-wundermittel-beworben-wird-a-ef245731-97f9-4f8c-885f-4d72e258a805#ref=rss)
+### beworben
+
+* [https://www.spiegel.de/gesundheit/methylenblau-warum-ein-chemischer-farbstoff-als-wundermittel-beworben-wird](https://www.spiegel.de/gesundheit/methylenblau-warum-ein-chemischer-farbstoff-als-wundermittel-beworben-wird-a-ef245731-97f9-4f8c-885f-4d72e258a805#ref=rss)
+### bundestag
+
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-bundestag-christian-duerr-fdp](https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-bundestag-christian-duerr-fdp-a-ddbc2f79-a18c-4546-8ee5-3fe3d2c72820#ref=rss)
+### fdp
+
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-bundestag-christian-duerr-fdp](https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-bundestag-christian-duerr-fdp-a-ddbc2f79-a18c-4546-8ee5-3fe3d2c72820#ref=rss)
+### arbeit
+
+* [https://www.spiegel.de/karriere/arbeit-und-selbstbild-warum-der-job-unser-selbstverstaendnis-praegt](https://www.spiegel.de/karriere/arbeit-und-selbstbild-warum-der-job-unser-selbstverstaendnis-praegt-a-b91d4ce7-894c-4786-849e-565e2c5e70a5#ref=rss)
+### wir
+
+* [https://www.spiegel.de/karriere/arbeit-und-selbstbild-warum-der-job-unser-selbstverstaendnis-praegt](https://www.spiegel.de/karriere/arbeit-und-selbstbild-warum-der-job-unser-selbstverstaendnis-praegt-a-b91d4ce7-894c-4786-849e-565e2c5e70a5#ref=rss)
 
