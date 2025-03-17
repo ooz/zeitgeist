@@ -4,321 +4,361 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### offenbar
-
-* [https://www.spiegel.de/sport/american-football/nfl-footballstar-jamarr-chase-erhaelt-offenbar-einen-rekordvertrag](https://www.spiegel.de/sport/american-football/nfl-footballstar-jamarr-chase-erhaelt-offenbar-einen-rekordvertrag-a-60ede3e8-ec83-4e54-be52-a75bb5d07fc6#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/discobrand-in-nordmazedonien-praesidentin-fordert-gerechtigkeit-und-bestrafung](https://www.spiegel.de/panorama/justiz/discobrand-in-nordmazedonien-praesidentin-fordert-gerechtigkeit-und-bestrafung-a-5cbe14be-e84e-45f2-9aeb-341c7e65d9f9#ref=rss)
-* [https://www.spiegel.de/ausland/eu-staaten-beraten-ueber-weitere-ukrainehilfen](https://www.spiegel.de/ausland/eu-staaten-beraten-ueber-weitere-ukrainehilfen-a-07300652-1cdc-4952-a58a-b46cd92e56ba#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-kuendigt-erneutes-gespraech-mit-wladimir-putin-am-dienstag-an](https://www.spiegel.de/ausland/donald-trump-kuendigt-erneutes-gespraech-mit-wladimir-putin-am-dienstag-an-a-59a42bca-75f5-44f3-a588-ceebae38382e#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/wirtschaft/konjunktur-oecd-senkt-wachstumsprognose-fuer-deutschland-erneut](https://www.spiegel.de/wirtschaft/konjunktur-oecd-senkt-wachstumsprognose-fuer-deutschland-erneut-a-95336f87-941b-4fd2-8346-5edf009042fb#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-kuendigt-erneutes-gespraech-mit-wladimir-putin-am-dienstag-an](https://www.spiegel.de/ausland/donald-trump-kuendigt-erneutes-gespraech-mit-wladimir-putin-am-dienstag-an-a-59a42bca-75f5-44f3-a588-ceebae38382e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-bundestag-christian-duerr-fdp](https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-bundestag-christian-duerr-fdp-a-ddbc2f79-a18c-4546-8ee5-3fe3d2c72820#ref=rss)
+* [https://www.spiegel.de/ausland/who-chef-tedros-adhanom-ghebreyesus-warnt-vor-millionen-toten-durch-kuerzungen-der-regierung-von-donald-trump](https://www.spiegel.de/ausland/who-chef-tedros-adhanom-ghebreyesus-warnt-vor-millionen-toten-durch-kuerzungen-der-regierung-von-donald-trump-a-18be5114-7fee-4cbe-962c-16d205e016ba#ref=rss)
+* [https://www.spiegel.de/ausland/usa-donald-trump-ignoriert-gericht-und-schiebt-venezolaner-ab](https://www.spiegel.de/ausland/usa-donald-trump-ignoriert-gericht-und-schiebt-venezolaner-ab-a-7825f45c-8b26-4607-a15c-3e8f9427d422#ref=rss)
+* [https://www.spiegel.de/ausland/europa-und-donald-trump-fuer-china-sortieren-sich-die-karten-perfekt-sagt-sinologin-janka-oertel](https://www.spiegel.de/ausland/europa-und-donald-trump-fuer-china-sortieren-sich-die-karten-perfekt-sagt-sinologin-janka-oertel-a-83a5dc30-b845-4f13-8f23-7a2f5469fa16#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/wirtschaft/konjunktur-oecd-senkt-wachstumsprognose-fuer-deutschland-erneut](https://www.spiegel.de/wirtschaft/konjunktur-oecd-senkt-wachstumsprognose-fuer-deutschland-erneut-a-95336f87-941b-4fd2-8346-5edf009042fb#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-kuendigt-erneutes-gespraech-mit-wladimir-putin-am-dienstag-an](https://www.spiegel.de/ausland/donald-trump-kuendigt-erneutes-gespraech-mit-wladimir-putin-am-dienstag-an-a-59a42bca-75f5-44f3-a588-ceebae38382e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-bundestag-christian-duerr-fdp](https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-bundestag-christian-duerr-fdp-a-ddbc2f79-a18c-4546-8ee5-3fe3d2c72820#ref=rss)
-### mehr
+* [https://www.spiegel.de/ausland/who-chef-tedros-adhanom-ghebreyesus-warnt-vor-millionen-toten-durch-kuerzungen-der-regierung-von-donald-trump](https://www.spiegel.de/ausland/who-chef-tedros-adhanom-ghebreyesus-warnt-vor-millionen-toten-durch-kuerzungen-der-regierung-von-donald-trump-a-18be5114-7fee-4cbe-962c-16d205e016ba#ref=rss)
+* [https://www.spiegel.de/ausland/usa-donald-trump-ignoriert-gericht-und-schiebt-venezolaner-ab](https://www.spiegel.de/ausland/usa-donald-trump-ignoriert-gericht-und-schiebt-venezolaner-ab-a-7825f45c-8b26-4607-a15c-3e8f9427d422#ref=rss)
+* [https://www.spiegel.de/ausland/europa-und-donald-trump-fuer-china-sortieren-sich-die-karten-perfekt-sagt-sinologin-janka-oertel](https://www.spiegel.de/ausland/europa-und-donald-trump-fuer-china-sortieren-sich-die-karten-perfekt-sagt-sinologin-janka-oertel-a-83a5dc30-b845-4f13-8f23-7a2f5469fa16#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/sport/american-football/nfl-footballstar-jamarr-chase-erhaelt-offenbar-einen-rekordvertrag](https://www.spiegel.de/sport/american-football/nfl-footballstar-jamarr-chase-erhaelt-offenbar-einen-rekordvertrag-a-60ede3e8-ec83-4e54-be52-a75bb5d07fc6#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/elon-musk-und-doge-wueten-in-us-behoerden-operation-kettensaege](https://www.spiegel.de/netzwelt/web/elon-musk-und-doge-wueten-in-us-behoerden-operation-kettensaege-a-74870d8d-d96f-4bbe-9f1d-ee240be66946#ref=rss)
-* [https://www.spiegel.de/wirtschaft/us-handelskammer-sieht-wegen-zollkonflikt-billionengeschaeft-mit-eu-gefaehrdet](https://www.spiegel.de/wirtschaft/us-handelskammer-sieht-wegen-zollkonflikt-billionengeschaeft-mit-eu-gefaehrdet-a-642ea949-3dfb-4008-82aa-2115a1943003#ref=rss)
-* [https://www.spiegel.de/wirtschaft/hohe-mieten-in-grossstaedten-verschaerfen-fachkraeftemangel](https://www.spiegel.de/wirtschaft/hohe-mieten-in-grossstaedten-verschaerfen-fachkraeftemangel-a-f0bc0691-38de-457c-bb60-1fca97ee2ac4#ref=rss)
-### gera
+* [https://www.spiegel.de/kultur/gntm-stefan-raab-teddy-teclebrhan-drei-shows-zwei-blamagen](https://www.spiegel.de/kultur/gntm-stefan-raab-teddy-teclebrhan-drei-shows-zwei-blamagen-a-384f816a-6ef3-47e5-9dd9-781f12f5298a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/julia-kloeckner-unionsfraktion-nominiert-kloeckner-als-bundestagspraesidentin](https://www.spiegel.de/politik/deutschland/julia-kloeckner-unionsfraktion-nominiert-kloeckner-als-bundestagspraesidentin-a-dd964053-3a79-4381-a6cc-706038ed94b0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-baerbel-bas-lehnt-vorstoss-zur-raschen-einberufung-des-neuen-bundestags-ab](https://www.spiegel.de/politik/deutschland/afd-baerbel-bas-lehnt-vorstoss-zur-raschen-einberufung-des-neuen-bundestags-ab-a-1294caeb-f63c-4d75-b8ea-f641d4b4d579#ref=rss)
+### anna
 
-* [https://www.spiegel.de/panorama/justiz/gera-frau-in-strassenbahn-angezuendet-tatverdaechtiger-festgenommen](https://www.spiegel.de/panorama/justiz/gera-frau-in-strassenbahn-angezuendet-tatverdaechtiger-festgenommen-a-5954021b-e226-4646-ad29-e7a87ff43b01#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/gera-frau-in-strassenbahn-angezuendet-polizei-fahndet-nach-ehemann](https://www.spiegel.de/panorama/justiz/gera-frau-in-strassenbahn-angezuendet-polizei-fahndet-nach-ehemann-a-5f0088bc-9a6f-454c-b325-0995ef546450#ref=rss)
-### ukraine
+* [https://www.spiegel.de/kultur/musik/zum-tod-von-anna-r-rosenstolz-es-bleiben-waerme-und-weisheit](https://www.spiegel.de/kultur/musik/zum-tod-von-anna-r-rosenstolz-es-bleiben-waerme-und-weisheit-a-46485a8d-69ae-4ff5-8f49-7b1c6ae232f4#ref=rss)
+* [https://www.spiegel.de/kultur/musik/anna-r-saengerin-der-band-rosenstolz-unerwartet-gestorben](https://www.spiegel.de/kultur/musik/anna-r-saengerin-der-band-rosenstolz-unerwartet-gestorben-a-029f4992-fa53-4cf8-82e2-66701c4c14f7#ref=rss)
+### r
 
-* [https://www.spiegel.de/ausland/eu-staaten-beraten-ueber-weitere-ukrainehilfen](https://www.spiegel.de/ausland/eu-staaten-beraten-ueber-weitere-ukrainehilfen-a-07300652-1cdc-4952-a58a-b46cd92e56ba#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-kuendigt-erneutes-gespraech-mit-wladimir-putin-am-dienstag-an](https://www.spiegel.de/ausland/donald-trump-kuendigt-erneutes-gespraech-mit-wladimir-putin-am-dienstag-an-a-59a42bca-75f5-44f3-a588-ceebae38382e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-bundestag-christian-duerr-fdp](https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-bundestag-christian-duerr-fdp-a-ddbc2f79-a18c-4546-8ee5-3fe3d2c72820#ref=rss)
-### ich
+* [https://www.spiegel.de/kultur/musik/zum-tod-von-anna-r-rosenstolz-es-bleiben-waerme-und-weisheit](https://www.spiegel.de/kultur/musik/zum-tod-von-anna-r-rosenstolz-es-bleiben-waerme-und-weisheit-a-46485a8d-69ae-4ff5-8f49-7b1c6ae232f4#ref=rss)
+* [https://www.spiegel.de/kultur/musik/anna-r-saengerin-der-band-rosenstolz-unerwartet-gestorben](https://www.spiegel.de/kultur/musik/anna-r-saengerin-der-band-rosenstolz-unerwartet-gestorben-a-029f4992-fa53-4cf8-82e2-66701c4c14f7#ref=rss)
+### gout
 
-* [https://www.spiegel.de/psychologie/leben-mit-adipositas-wie-scham-mich-klein-hielt-und-wut-mich-befreit](https://www.spiegel.de/psychologie/leben-mit-adipositas-wie-scham-mich-klein-hielt-und-wut-mich-befreit-a-1fe3290a-0ea6-4d37-abbf-59a55e1d2740#ref=rss)
-* [https://www.spiegel.de/karriere/bewerbung-wie-reagiere-ich-auf-ein-unerwartetes-jobangebot-tipps-vom-karrierecoach](https://www.spiegel.de/karriere/bewerbung-wie-reagiere-ich-auf-ein-unerwartetes-jobangebot-tipps-vom-karrierecoach-a-0537b3ac-095b-45f1-a381-ac658c85731e#ref=rss)
-### brand
+* [https://www.spiegel.de/sport/leichtathletik-der-17-jaehrige-gout-gout-laeuft-weltjahresbestzeit-ueber-200-meter](https://www.spiegel.de/sport/leichtathletik-der-17-jaehrige-gout-gout-laeuft-weltjahresbestzeit-ueber-200-meter-a-7f5f0a71-ba2b-4989-96d2-09da9f50affd#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/panorama/freizeit-land-geiselwind-in-bayern-feuer-zerstoert-gebaeude](https://www.spiegel.de/panorama/freizeit-land-geiselwind-in-bayern-feuer-zerstoert-gebaeude-a-f02f42cf-c4c1-46fb-957d-f3b11de228a8#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/gera-frau-in-strassenbahn-angezuendet-tatverdaechtiger-festgenommen](https://www.spiegel.de/panorama/justiz/gera-frau-in-strassenbahn-angezuendet-tatverdaechtiger-festgenommen-a-5954021b-e226-4646-ad29-e7a87ff43b01#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/discobrand-in-nordmazedonien-praesidentin-fordert-gerechtigkeit-und-bestrafung](https://www.spiegel.de/panorama/justiz/discobrand-in-nordmazedonien-praesidentin-fordert-gerechtigkeit-und-bestrafung-a-5cbe14be-e84e-45f2-9aeb-341c7e65d9f9#ref=rss)
-### nordmazedonien
+* [https://www.spiegel.de/panorama/presena-gletscher-in-trient-deutscher-aus-oberbayern-stirbt-bei-lawinenunglueck-in-italien](https://www.spiegel.de/panorama/presena-gletscher-in-trient-deutscher-aus-oberbayern-stirbt-bei-lawinenunglueck-in-italien-a-be9cf808-ac3d-4232-8eb0-8762e3b693f2#ref=rss)
+* [https://www.spiegel.de/kultur/gntm-stefan-raab-teddy-teclebrhan-drei-shows-zwei-blamagen](https://www.spiegel.de/kultur/gntm-stefan-raab-teddy-teclebrhan-drei-shows-zwei-blamagen-a-384f816a-6ef3-47e5-9dd9-781f12f5298a#ref=rss)
+* [https://www.spiegel.de/panorama/bailleul-sire-berthoult-militaerfahrzeug-kollidiert-mit-zug-zwei-tote](https://www.spiegel.de/panorama/bailleul-sire-berthoult-militaerfahrzeug-kollidiert-mit-zug-zwei-tote-a-12d70b5d-275f-4f12-921b-37f9e74840e7#ref=rss)
+### regierung
 
-* [https://www.spiegel.de/sport/fussball/diskobrand-in-nordmazedonien-fussballprofi-andrej-lazarov-stirbt-bei-rettungsversuch](https://www.spiegel.de/sport/fussball/diskobrand-in-nordmazedonien-fussballprofi-andrej-lazarov-stirbt-bei-rettungsversuch-a-3db29ef3-e2c1-418d-9e9e-4578c0ee357c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/discobrand-in-nordmazedonien-praesidentin-fordert-gerechtigkeit-und-bestrafung](https://www.spiegel.de/panorama/justiz/discobrand-in-nordmazedonien-praesidentin-fordert-gerechtigkeit-und-bestrafung-a-5cbe14be-e84e-45f2-9aeb-341c7e65d9f9#ref=rss)
-### leben
+* [https://www.spiegel.de/ausland/who-chef-tedros-adhanom-ghebreyesus-warnt-vor-millionen-toten-durch-kuerzungen-der-regierung-von-donald-trump](https://www.spiegel.de/ausland/who-chef-tedros-adhanom-ghebreyesus-warnt-vor-millionen-toten-durch-kuerzungen-der-regierung-von-donald-trump-a-18be5114-7fee-4cbe-962c-16d205e016ba#ref=rss)
+* [https://www.spiegel.de/ausland/ungarn-anhaenger-von-viktor-orban-planen-verbot-von-pride-paraden](https://www.spiegel.de/ausland/ungarn-anhaenger-von-viktor-orban-planen-verbot-von-pride-paraden-a-0de0bc25-5a86-4157-ac2e-7328b15fdfb6#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/serbien-was-ist-die-schallwaffe-und-wie-funktioniert-sie](https://www.spiegel.de/wissenschaft/technik/serbien-was-ist-die-schallwaffe-und-wie-funktioniert-sie-a-487a3410-abac-44ce-a3eb-0102b213a491#ref=rss)
+### usa
 
-* [https://www.spiegel.de/sport/fussball/diskobrand-in-nordmazedonien-fussballprofi-andrej-lazarov-stirbt-bei-rettungsversuch](https://www.spiegel.de/sport/fussball/diskobrand-in-nordmazedonien-fussballprofi-andrej-lazarov-stirbt-bei-rettungsversuch-a-3db29ef3-e2c1-418d-9e9e-4578c0ee357c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-praeventionsprogramm-gegen-gewalt-an-berliner-schulen-erste-stunde-messerkunde](https://www.spiegel.de/panorama/justiz/berlin-praeventionsprogramm-gegen-gewalt-an-berliner-schulen-erste-stunde-messerkunde-a-58ad5603-aa25-4b9c-82bd-ba40b8b4f7e7#ref=rss)
-* [https://www.spiegel.de/psychologie/leben-mit-adipositas-wie-scham-mich-klein-hielt-und-wut-mich-befreit](https://www.spiegel.de/psychologie/leben-mit-adipositas-wie-scham-mich-klein-hielt-und-wut-mich-befreit-a-1fe3290a-0ea6-4d37-abbf-59a55e1d2740#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/kultur/literatur/peter-bichsel-ist-tot-schweizer-schriftsteller-mit-89-jahren-gestorben](https://www.spiegel.de/kultur/literatur/peter-bichsel-ist-tot-schweizer-schriftsteller-mit-89-jahren-gestorben-a-4d6fc125-b0c6-4ddb-973f-7628ea3a30a8#ref=rss)
-* [https://www.spiegel.de/sport/olympia/ioc-waehlt-nachfolger-von-thomas-bach-das-kann-das-muss-der-sport-heute-noch-sein](https://www.spiegel.de/sport/olympia/ioc-waehlt-nachfolger-von-thomas-bach-das-kann-das-muss-der-sport-heute-noch-sein-a-18ee0854-155f-414d-9763-b249fa6e4b95#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wirtschaft/konjunktur-oecd-senkt-wachstumsprognose-fuer-deutschland-erneut](https://www.spiegel.de/wirtschaft/konjunktur-oecd-senkt-wachstumsprognose-fuer-deutschland-erneut-a-95336f87-941b-4fd2-8346-5edf009042fb#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-aussenministerin-sagt-300-millionen-euro-zusaetzliche-syrien-hilfen-zu](https://www.spiegel.de/politik/deutschland/annalena-baerbock-aussenministerin-sagt-300-millionen-euro-zusaetzliche-syrien-hilfen-zu-a-bdb01a7d-6982-46ea-bebc-10b94ca88894#ref=rss)
-### neue
-
-* [https://www.spiegel.de/wirtschaft/konjunktur-oecd-senkt-wachstumsprognose-fuer-deutschland-erneut](https://www.spiegel.de/wirtschaft/konjunktur-oecd-senkt-wachstumsprognose-fuer-deutschland-erneut-a-95336f87-941b-4fd2-8346-5edf009042fb#ref=rss)
-* [https://www.spiegel.de/ausland/eu-staaten-beraten-ueber-weitere-ukrainehilfen](https://www.spiegel.de/ausland/eu-staaten-beraten-ueber-weitere-ukrainehilfen-a-07300652-1cdc-4952-a58a-b46cd92e56ba#ref=rss)
-* [https://www.spiegel.de/karriere/arbeit-und-selbstbild-warum-der-job-unser-selbstverstaendnis-praegt](https://www.spiegel.de/karriere/arbeit-und-selbstbild-warum-der-job-unser-selbstverstaendnis-praegt-a-b91d4ce7-894c-4786-849e-565e2c5e70a5#ref=rss)
+* [https://www.spiegel.de/ausland/usa-donald-trump-ignoriert-gericht-und-schiebt-venezolaner-ab](https://www.spiegel.de/ausland/usa-donald-trump-ignoriert-gericht-und-schiebt-venezolaner-ab-a-7825f45c-8b26-4607-a15c-3e8f9427d422#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/usa-forever-21-meldet-zum-zweiten-mal-insolvenz-an](https://www.spiegel.de/wirtschaft/unternehmen/usa-forever-21-meldet-zum-zweiten-mal-insolvenz-an-a-be770f42-14de-41d6-a421-660a1d98c33e#ref=rss)
 ### gericht
 
-* [https://www.spiegel.de/panorama/justiz/stuttgart-gericht-schlaegt-einstellung-des-verfahrens-gegen-querdenker-michael-ballweg-vor](https://www.spiegel.de/panorama/justiz/stuttgart-gericht-schlaegt-einstellung-des-verfahrens-gegen-querdenker-michael-ballweg-vor-a-f85028a8-7efc-40df-9440-7e6d9252d9e7#ref=rss)
-### polizei
+* [https://www.spiegel.de/ausland/usa-donald-trump-ignoriert-gericht-und-schiebt-venezolaner-ab](https://www.spiegel.de/ausland/usa-donald-trump-ignoriert-gericht-und-schiebt-venezolaner-ab-a-7825f45c-8b26-4607-a15c-3e8f9427d422#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/peter-krauth-und-thomas-walterfreiheit-nach-drei-jahrzehnten-auf-der-flucht](https://www.spiegel.de/panorama/justiz/peter-krauth-und-thomas-walterfreiheit-nach-drei-jahrzehnten-auf-der-flucht-a-f90646a4-9e97-4d18-b96e-da5972e49bc8#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/osnabrueck-frau-gibt-sich-als-aerztin-aus-gericht-ordnet-unterbringung-in-psychiatrie-an](https://www.spiegel.de/panorama/justiz/osnabrueck-frau-gibt-sich-als-aerztin-aus-gericht-ordnet-unterbringung-in-psychiatrie-an-a-44404972-7bc3-4701-b8bd-f8199dc5253f#ref=rss)
+### /
 
-* [https://www.spiegel.de/panorama/justiz/berlin-praeventionsprogramm-gegen-gewalt-an-berliner-schulen-erste-stunde-messerkunde](https://www.spiegel.de/panorama/justiz/berlin-praeventionsprogramm-gegen-gewalt-an-berliner-schulen-erste-stunde-messerkunde-a-58ad5603-aa25-4b9c-82bd-ba40b8b4f7e7#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/gera-frau-in-strassenbahn-angezuendet-tatverdaechtiger-festgenommen](https://www.spiegel.de/panorama/justiz/gera-frau-in-strassenbahn-angezuendet-tatverdaechtiger-festgenommen-a-5954021b-e226-4646-ad29-e7a87ff43b01#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/gera-frau-in-strassenbahn-angezuendet-polizei-fahndet-nach-ehemann](https://www.spiegel.de/panorama/justiz/gera-frau-in-strassenbahn-angezuendet-polizei-fahndet-nach-ehemann-a-5f0088bc-9a6f-454c-b325-0995ef546450#ref=rss)
-### laut
+* [https://www.spiegel.de/kultur/gntm-stefan-raab-teddy-teclebrhan-drei-shows-zwei-blamagen](https://www.spiegel.de/kultur/gntm-stefan-raab-teddy-teclebrhan-drei-shows-zwei-blamagen-a-384f816a-6ef3-47e5-9dd9-781f12f5298a#ref=rss)
+* [https://www.spiegel.de/kultur/musik/zum-tod-von-anna-r-rosenstolz-es-bleiben-waerme-und-weisheit](https://www.spiegel.de/kultur/musik/zum-tod-von-anna-r-rosenstolz-es-bleiben-waerme-und-weisheit-a-46485a8d-69ae-4ff5-8f49-7b1c6ae232f4#ref=rss)
+### klöckner
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/pawel-durow-telegram-gruender-hat-frankreich-laut-medienbericht-verlassen](https://www.spiegel.de/netzwelt/netzpolitik/pawel-durow-telegram-gruender-hat-frankreich-laut-medienbericht-verlassen-a-c113cffc-9db9-4843-b5a4-ee1ac9e62adf#ref=rss)
-* [https://www.spiegel.de/wirtschaft/verwaltungsaufwand-fuer-buergergeld-extrem-hoch](https://www.spiegel.de/wirtschaft/verwaltungsaufwand-fuer-buergergeld-extrem-hoch-a-5aeb4e99-fad3-4c7e-81d1-2bb7ab4de1df#ref=rss)
-### bach
+* [https://www.spiegel.de/politik/deutschland/julia-kloeckner-unionsfraktion-nominiert-kloeckner-als-bundestagspraesidentin](https://www.spiegel.de/politik/deutschland/julia-kloeckner-unionsfraktion-nominiert-kloeckner-als-bundestagspraesidentin-a-dd964053-3a79-4381-a6cc-706038ed94b0#ref=rss)
+### bundestags
 
-* [https://www.spiegel.de/sport/olympia/ioc-waehlt-nachfolger-von-thomas-bach-das-kann-das-muss-der-sport-heute-noch-sein](https://www.spiegel.de/sport/olympia/ioc-waehlt-nachfolger-von-thomas-bach-das-kann-das-muss-der-sport-heute-noch-sein-a-18ee0854-155f-414d-9763-b249fa6e4b95#ref=rss)
-### frau
+* [https://www.spiegel.de/politik/deutschland/julia-kloeckner-unionsfraktion-nominiert-kloeckner-als-bundestagspraesidentin](https://www.spiegel.de/politik/deutschland/julia-kloeckner-unionsfraktion-nominiert-kloeckner-als-bundestagspraesidentin-a-dd964053-3a79-4381-a6cc-706038ed94b0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-baerbel-bas-lehnt-vorstoss-zur-raschen-einberufung-des-neuen-bundestags-ab](https://www.spiegel.de/politik/deutschland/afd-baerbel-bas-lehnt-vorstoss-zur-raschen-einberufung-des-neuen-bundestags-ab-a-1294caeb-f63c-4d75-b8ea-f641d4b4d579#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/panorama/justiz/gera-frau-in-strassenbahn-angezuendet-tatverdaechtiger-festgenommen](https://www.spiegel.de/panorama/justiz/gera-frau-in-strassenbahn-angezuendet-tatverdaechtiger-festgenommen-a-5954021b-e226-4646-ad29-e7a87ff43b01#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/gera-frau-in-strassenbahn-angezuendet-polizei-fahndet-nach-ehemann](https://www.spiegel.de/panorama/justiz/gera-frau-in-strassenbahn-angezuendet-polizei-fahndet-nach-ehemann-a-5f0088bc-9a6f-454c-b325-0995ef546450#ref=rss)
-### angezündet
+* [https://www.spiegel.de/wirtschaft/unternehmen/audi-7500-stellen-in-deutschland-werden-abgebaut](https://www.spiegel.de/wirtschaft/unternehmen/audi-7500-stellen-in-deutschland-werden-abgebaut-a-db755a00-8eb9-4a5a-bed8-f4103e805d89#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-kanadas-premier-mark-carney-in-europa-syrien-hilfen-aus-deutschland-einberufung-neuer-bundestag](https://www.spiegel.de/politik/deutschland/news-des-tages-kanadas-premier-mark-carney-in-europa-syrien-hilfen-aus-deutschland-einberufung-neuer-bundestag-a-e6cfa441-6045-471e-b309-3c0fd147fda7#ref=rss)
+### europa
 
-* [https://www.spiegel.de/panorama/justiz/gera-frau-in-strassenbahn-angezuendet-tatverdaechtiger-festgenommen](https://www.spiegel.de/panorama/justiz/gera-frau-in-strassenbahn-angezuendet-tatverdaechtiger-festgenommen-a-5954021b-e226-4646-ad29-e7a87ff43b01#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/gera-frau-in-strassenbahn-angezuendet-polizei-fahndet-nach-ehemann](https://www.spiegel.de/panorama/justiz/gera-frau-in-strassenbahn-angezuendet-polizei-fahndet-nach-ehemann-a-5f0088bc-9a6f-454c-b325-0995ef546450#ref=rss)
-### mann
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-kanadas-premier-mark-carney-in-europa-syrien-hilfen-aus-deutschland-einberufung-neuer-bundestag](https://www.spiegel.de/politik/deutschland/news-des-tages-kanadas-premier-mark-carney-in-europa-syrien-hilfen-aus-deutschland-einberufung-neuer-bundestag-a-e6cfa441-6045-471e-b309-3c0fd147fda7#ref=rss)
+* [https://www.spiegel.de/ausland/europa-und-donald-trump-fuer-china-sortieren-sich-die-karten-perfekt-sagt-sinologin-janka-oertel](https://www.spiegel.de/ausland/europa-und-donald-trump-fuer-china-sortieren-sich-die-karten-perfekt-sagt-sinologin-janka-oertel-a-83a5dc30-b845-4f13-8f23-7a2f5469fa16#ref=rss)
+### neue
 
-* [https://www.spiegel.de/panorama/justiz/gera-frau-in-strassenbahn-angezuendet-tatverdaechtiger-festgenommen](https://www.spiegel.de/panorama/justiz/gera-frau-in-strassenbahn-angezuendet-tatverdaechtiger-festgenommen-a-5954021b-e226-4646-ad29-e7a87ff43b01#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/gera-frau-in-strassenbahn-angezuendet-polizei-fahndet-nach-ehemann](https://www.spiegel.de/panorama/justiz/gera-frau-in-strassenbahn-angezuendet-polizei-fahndet-nach-ehemann-a-5f0088bc-9a6f-454c-b325-0995ef546450#ref=rss)
-* [https://www.spiegel.de/psychologie/leben-mit-adipositas-wie-scham-mich-klein-hielt-und-wut-mich-befreit](https://www.spiegel.de/psychologie/leben-mit-adipositas-wie-scham-mich-klein-hielt-und-wut-mich-befreit-a-1fe3290a-0ea6-4d37-abbf-59a55e1d2740#ref=rss)
-### wladimir
-
-* [https://www.spiegel.de/ausland/donald-trump-kuendigt-erneutes-gespraech-mit-wladimir-putin-am-dienstag-an](https://www.spiegel.de/ausland/donald-trump-kuendigt-erneutes-gespraech-mit-wladimir-putin-am-dienstag-an-a-59a42bca-75f5-44f3-a588-ceebae38382e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-bundestag-christian-duerr-fdp](https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-bundestag-christian-duerr-fdp-a-ddbc2f79-a18c-4546-8ee5-3fe3d2c72820#ref=rss)
-### putin
-
-* [https://www.spiegel.de/ausland/donald-trump-kuendigt-erneutes-gespraech-mit-wladimir-putin-am-dienstag-an](https://www.spiegel.de/ausland/donald-trump-kuendigt-erneutes-gespraech-mit-wladimir-putin-am-dienstag-an-a-59a42bca-75f5-44f3-a588-ceebae38382e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-bundestag-christian-duerr-fdp](https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-bundestag-christian-duerr-fdp-a-ddbc2f79-a18c-4546-8ee5-3fe3d2c72820#ref=rss)
-### flammen
-
-* [https://www.spiegel.de/panorama/freizeit-land-geiselwind-in-bayern-feuer-zerstoert-gebaeude](https://www.spiegel.de/panorama/freizeit-land-geiselwind-in-bayern-feuer-zerstoert-gebaeude-a-f02f42cf-c4c1-46fb-957d-f3b11de228a8#ref=rss)
-* [https://www.spiegel.de/sport/fussball/diskobrand-in-nordmazedonien-fussballprofi-andrej-lazarov-stirbt-bei-rettungsversuch](https://www.spiegel.de/sport/fussball/diskobrand-in-nordmazedonien-fussballprofi-andrej-lazarov-stirbt-bei-rettungsversuch-a-3db29ef3-e2c1-418d-9e9e-4578c0ee357c#ref=rss)
-### hoch
-
-* [https://www.spiegel.de/panorama/freizeit-land-geiselwind-in-bayern-feuer-zerstoert-gebaeude](https://www.spiegel.de/panorama/freizeit-land-geiselwind-in-bayern-feuer-zerstoert-gebaeude-a-f02f42cf-c4c1-46fb-957d-f3b11de228a8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/verwaltungsaufwand-fuer-buergergeld-extrem-hoch](https://www.spiegel.de/wirtschaft/verwaltungsaufwand-fuer-buergergeld-extrem-hoch-a-5aeb4e99-fad3-4c7e-81d1-2bb7ab4de1df#ref=rss)
-### andrej
-
-* [https://www.spiegel.de/sport/fussball/diskobrand-in-nordmazedonien-fussballprofi-andrej-lazarov-stirbt-bei-rettungsversuch](https://www.spiegel.de/sport/fussball/diskobrand-in-nordmazedonien-fussballprofi-andrej-lazarov-stirbt-bei-rettungsversuch-a-3db29ef3-e2c1-418d-9e9e-4578c0ee357c#ref=rss)
-### lazarov
-
-* [https://www.spiegel.de/sport/fussball/diskobrand-in-nordmazedonien-fussballprofi-andrej-lazarov-stirbt-bei-rettungsversuch](https://www.spiegel.de/sport/fussball/diskobrand-in-nordmazedonien-fussballprofi-andrej-lazarov-stirbt-bei-rettungsversuch-a-3db29ef3-e2c1-418d-9e9e-4578c0ee357c#ref=rss)
-### dutzende
-
-* [https://www.spiegel.de/sport/fussball/diskobrand-in-nordmazedonien-fussballprofi-andrej-lazarov-stirbt-bei-rettungsversuch](https://www.spiegel.de/sport/fussball/diskobrand-in-nordmazedonien-fussballprofi-andrej-lazarov-stirbt-bei-rettungsversuch-a-3db29ef3-e2c1-418d-9e9e-4578c0ee357c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/discobrand-in-nordmazedonien-praesidentin-fordert-gerechtigkeit-und-bestrafung](https://www.spiegel.de/panorama/justiz/discobrand-in-nordmazedonien-praesidentin-fordert-gerechtigkeit-und-bestrafung-a-5cbe14be-e84e-45f2-9aeb-341c7e65d9f9#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/sport/fussball/diskobrand-in-nordmazedonien-fussballprofi-andrej-lazarov-stirbt-bei-rettungsversuch](https://www.spiegel.de/sport/fussball/diskobrand-in-nordmazedonien-fussballprofi-andrej-lazarov-stirbt-bei-rettungsversuch-a-3db29ef3-e2c1-418d-9e9e-4578c0ee357c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/discobrand-in-nordmazedonien-praesidentin-fordert-gerechtigkeit-und-bestrafung](https://www.spiegel.de/panorama/justiz/discobrand-in-nordmazedonien-praesidentin-fordert-gerechtigkeit-und-bestrafung-a-5cbe14be-e84e-45f2-9aeb-341c7e65d9f9#ref=rss)
-### opfern
-
-* [https://www.spiegel.de/sport/fussball/diskobrand-in-nordmazedonien-fussballprofi-andrej-lazarov-stirbt-bei-rettungsversuch](https://www.spiegel.de/sport/fussball/diskobrand-in-nordmazedonien-fussballprofi-andrej-lazarov-stirbt-bei-rettungsversuch-a-3db29ef3-e2c1-418d-9e9e-4578c0ee357c#ref=rss)
-### gehört
-
-* [https://www.spiegel.de/sport/fussball/diskobrand-in-nordmazedonien-fussballprofi-andrej-lazarov-stirbt-bei-rettungsversuch](https://www.spiegel.de/sport/fussball/diskobrand-in-nordmazedonien-fussballprofi-andrej-lazarov-stirbt-bei-rettungsversuch-a-3db29ef3-e2c1-418d-9e9e-4578c0ee357c#ref=rss)
-* [https://www.spiegel.de/karriere/arbeit-und-selbstbild-warum-der-job-unser-selbstverstaendnis-praegt](https://www.spiegel.de/karriere/arbeit-und-selbstbild-warum-der-job-unser-selbstverstaendnis-praegt-a-b91d4ce7-894c-4786-849e-565e2c5e70a5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-kanadas-premier-mark-carney-in-europa-syrien-hilfen-aus-deutschland-einberufung-neuer-bundestag](https://www.spiegel.de/politik/deutschland/news-des-tages-kanadas-premier-mark-carney-in-europa-syrien-hilfen-aus-deutschland-einberufung-neuer-bundestag-a-e6cfa441-6045-471e-b309-3c0fd147fda7#ref=rss)
+* [https://www.spiegel.de/politik/finanzpolitik-schwarz-rot-plant-neue-spielraeume-durch-schuldenbremse-reform](https://www.spiegel.de/politik/finanzpolitik-schwarz-rot-plant-neue-spielraeume-durch-schuldenbremse-reform-a-48b6c7cc-dbb9-450d-b223-f7f8cebcaa99#ref=rss)
 ### zufolge
 
-* [https://www.spiegel.de/sport/fussball/diskobrand-in-nordmazedonien-fussballprofi-andrej-lazarov-stirbt-bei-rettungsversuch](https://www.spiegel.de/sport/fussball/diskobrand-in-nordmazedonien-fussballprofi-andrej-lazarov-stirbt-bei-rettungsversuch-a-3db29ef3-e2c1-418d-9e9e-4578c0ee357c#ref=rss)
-* [https://www.spiegel.de/sport/american-football/nfl-footballstar-jamarr-chase-erhaelt-offenbar-einen-rekordvertrag](https://www.spiegel.de/sport/american-football/nfl-footballstar-jamarr-chase-erhaelt-offenbar-einen-rekordvertrag-a-60ede3e8-ec83-4e54-be52-a75bb5d07fc6#ref=rss)
-### warnt
-
-* [https://www.spiegel.de/wirtschaft/volkswagen-krise-moodys-warnt-vor-erhoehtem-kreditrisiko](https://www.spiegel.de/wirtschaft/volkswagen-krise-moodys-warnt-vor-erhoehtem-kreditrisiko-a-2caa3b62-8a81-448e-9eb6-8703eb3e6c1b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/us-handelskammer-sieht-wegen-zollkonflikt-billionengeschaeft-mit-eu-gefaehrdet](https://www.spiegel.de/wirtschaft/us-handelskammer-sieht-wegen-zollkonflikt-billionengeschaeft-mit-eu-gefaehrdet-a-642ea949-3dfb-4008-82aa-2115a1943003#ref=rss)
-### krise
-
-* [https://www.spiegel.de/wirtschaft/volkswagen-krise-moodys-warnt-vor-erhoehtem-kreditrisiko](https://www.spiegel.de/wirtschaft/volkswagen-krise-moodys-warnt-vor-erhoehtem-kreditrisiko-a-2caa3b62-8a81-448e-9eb6-8703eb3e6c1b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/hohe-mieten-in-grossstaedten-verschaerfen-fachkraeftemangel](https://www.spiegel.de/wirtschaft/hohe-mieten-in-grossstaedten-verschaerfen-fachkraeftemangel-a-f0bc0691-38de-457c-bb60-1fca97ee2ac4#ref=rss)
-### peter
-
-* [https://www.spiegel.de/kultur/literatur/peter-bichsel-ist-tot-schweizer-schriftsteller-mit-89-jahren-gestorben](https://www.spiegel.de/kultur/literatur/peter-bichsel-ist-tot-schweizer-schriftsteller-mit-89-jahren-gestorben-a-4d6fc125-b0c6-4ddb-973f-7628ea3a30a8#ref=rss)
-### bichsel
-
-* [https://www.spiegel.de/kultur/literatur/peter-bichsel-ist-tot-schweizer-schriftsteller-mit-89-jahren-gestorben](https://www.spiegel.de/kultur/literatur/peter-bichsel-ist-tot-schweizer-schriftsteller-mit-89-jahren-gestorben-a-4d6fc125-b0c6-4ddb-973f-7628ea3a30a8#ref=rss)
-### schweizer
-
-* [https://www.spiegel.de/kultur/literatur/peter-bichsel-ist-tot-schweizer-schriftsteller-mit-89-jahren-gestorben](https://www.spiegel.de/kultur/literatur/peter-bichsel-ist-tot-schweizer-schriftsteller-mit-89-jahren-gestorben-a-4d6fc125-b0c6-4ddb-973f-7628ea3a30a8#ref=rss)
-### 89
-
-* [https://www.spiegel.de/kultur/literatur/peter-bichsel-ist-tot-schweizer-schriftsteller-mit-89-jahren-gestorben](https://www.spiegel.de/kultur/literatur/peter-bichsel-ist-tot-schweizer-schriftsteller-mit-89-jahren-gestorben-a-4d6fc125-b0c6-4ddb-973f-7628ea3a30a8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/usa-forever-21-meldet-zum-zweiten-mal-insolvenz-an](https://www.spiegel.de/wirtschaft/unternehmen/usa-forever-21-meldet-zum-zweiten-mal-insolvenz-an-a-be770f42-14de-41d6-a421-660a1d98c33e#ref=rss)
+* [https://www.spiegel.de/panorama/bailleul-sire-berthoult-militaerfahrzeug-kollidiert-mit-zug-zwei-tote](https://www.spiegel.de/panorama/bailleul-sire-berthoult-militaerfahrzeug-kollidiert-mit-zug-zwei-tote-a-12d70b5d-275f-4f12-921b-37f9e74840e7#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-polizei-erschiesst-mutmasslichen-messerangreifer-in-herne](https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-polizei-erschiesst-mutmasslichen-messerangreifer-in-herne-a-8249b036-319b-4dff-bcce-199a561819d2#ref=rss)
 ### gestorben
 
-* [https://www.spiegel.de/kultur/literatur/peter-bichsel-ist-tot-schweizer-schriftsteller-mit-89-jahren-gestorben](https://www.spiegel.de/kultur/literatur/peter-bichsel-ist-tot-schweizer-schriftsteller-mit-89-jahren-gestorben-a-4d6fc125-b0c6-4ddb-973f-7628ea3a30a8#ref=rss)
-### oecd
+* [https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-polizei-erschiesst-mutmasslichen-messerangreifer-in-herne](https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-polizei-erschiesst-mutmasslichen-messerangreifer-in-herne-a-8249b036-319b-4dff-bcce-199a561819d2#ref=rss)
+* [https://www.spiegel.de/kultur/musik/anna-r-saengerin-der-band-rosenstolz-unerwartet-gestorben](https://www.spiegel.de/kultur/musik/anna-r-saengerin-der-band-rosenstolz-unerwartet-gestorben-a-029f4992-fa53-4cf8-82e2-66701c4c14f7#ref=rss)
+### csu
 
-* [https://www.spiegel.de/wirtschaft/konjunktur-oecd-senkt-wachstumsprognose-fuer-deutschland-erneut](https://www.spiegel.de/wirtschaft/konjunktur-oecd-senkt-wachstumsprognose-fuer-deutschland-erneut-a-95336f87-941b-4fd2-8346-5edf009042fb#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/wirtschaft/konjunktur-oecd-senkt-wachstumsprognose-fuer-deutschland-erneut](https://www.spiegel.de/wirtschaft/konjunktur-oecd-senkt-wachstumsprognose-fuer-deutschland-erneut-a-95336f87-941b-4fd2-8346-5edf009042fb#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-kuendigt-erneutes-gespraech-mit-wladimir-putin-am-dienstag-an](https://www.spiegel.de/ausland/donald-trump-kuendigt-erneutes-gespraech-mit-wladimir-putin-am-dienstag-an-a-59a42bca-75f5-44f3-a588-ceebae38382e#ref=rss)
-### erste
-
-* [https://www.spiegel.de/geschichte/fruehe-boulevardzeitungen-wie-ein-spion-die-klatschpresse-erfand](https://www.spiegel.de/geschichte/fruehe-boulevardzeitungen-wie-ein-spion-die-klatschpresse-erfand-a-660e6fcd-f242-4aa1-a9f2-a1c2a392c3f7#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-praeventionsprogramm-gegen-gewalt-an-berliner-schulen-erste-stunde-messerkunde](https://www.spiegel.de/panorama/justiz/berlin-praeventionsprogramm-gegen-gewalt-an-berliner-schulen-erste-stunde-messerkunde-a-58ad5603-aa25-4b9c-82bd-ba40b8b4f7e7#ref=rss)
-### politik
-
-* [https://www.spiegel.de/geschichte/fruehe-boulevardzeitungen-wie-ein-spion-die-klatschpresse-erfand](https://www.spiegel.de/geschichte/fruehe-boulevardzeitungen-wie-ein-spion-die-klatschpresse-erfand-a-660e6fcd-f242-4aa1-a9f2-a1c2a392c3f7#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/discobrand-in-nordmazedonien-praesidentin-fordert-gerechtigkeit-und-bestrafung](https://www.spiegel.de/panorama/justiz/discobrand-in-nordmazedonien-praesidentin-fordert-gerechtigkeit-und-bestrafung-a-5cbe14be-e84e-45f2-9aeb-341c7e65d9f9#ref=rss)
-### chase
-
-* [https://www.spiegel.de/sport/american-football/nfl-footballstar-jamarr-chase-erhaelt-offenbar-einen-rekordvertrag](https://www.spiegel.de/sport/american-football/nfl-footballstar-jamarr-chase-erhaelt-offenbar-einen-rekordvertrag-a-60ede3e8-ec83-4e54-be52-a75bb5d07fc6#ref=rss)
-### besten
-
-* [https://www.spiegel.de/sport/american-football/nfl-footballstar-jamarr-chase-erhaelt-offenbar-einen-rekordvertrag](https://www.spiegel.de/sport/american-football/nfl-footballstar-jamarr-chase-erhaelt-offenbar-einen-rekordvertrag-a-60ede3e8-ec83-4e54-be52-a75bb5d07fc6#ref=rss)
-* [https://www.spiegel.de/karriere/bewerbung-wie-reagiere-ich-auf-ein-unerwartetes-jobangebot-tipps-vom-karrierecoach](https://www.spiegel.de/karriere/bewerbung-wie-reagiere-ich-auf-ein-unerwartetes-jobangebot-tipps-vom-karrierecoach-a-0537b3ac-095b-45f1-a381-ac658c85731e#ref=rss)
-### je
-
-* [https://www.spiegel.de/sport/american-football/nfl-footballstar-jamarr-chase-erhaelt-offenbar-einen-rekordvertrag](https://www.spiegel.de/sport/american-football/nfl-footballstar-jamarr-chase-erhaelt-offenbar-einen-rekordvertrag-a-60ede3e8-ec83-4e54-be52-a75bb5d07fc6#ref=rss)
-* [https://www.spiegel.de/karriere/arbeit-und-selbstbild-warum-der-job-unser-selbstverstaendnis-praegt](https://www.spiegel.de/karriere/arbeit-und-selbstbild-warum-der-job-unser-selbstverstaendnis-praegt-a-b91d4ce7-894c-4786-849e-565e2c5e70a5#ref=rss)
-### michael
-
-* [https://www.spiegel.de/panorama/justiz/stuttgart-gericht-schlaegt-einstellung-des-verfahrens-gegen-querdenker-michael-ballweg-vor](https://www.spiegel.de/panorama/justiz/stuttgart-gericht-schlaegt-einstellung-des-verfahrens-gegen-querdenker-michael-ballweg-vor-a-f85028a8-7efc-40df-9440-7e6d9252d9e7#ref=rss)
-### ballweg
-
-* [https://www.spiegel.de/panorama/justiz/stuttgart-gericht-schlaegt-einstellung-des-verfahrens-gegen-querdenker-michael-ballweg-vor](https://www.spiegel.de/panorama/justiz/stuttgart-gericht-schlaegt-einstellung-des-verfahrens-gegen-querdenker-michael-ballweg-vor-a-f85028a8-7efc-40df-9440-7e6d9252d9e7#ref=rss)
-### elon
-
-* [https://www.spiegel.de/netzwelt/web/elon-musk-und-doge-wueten-in-us-behoerden-operation-kettensaege](https://www.spiegel.de/netzwelt/web/elon-musk-und-doge-wueten-in-us-behoerden-operation-kettensaege-a-74870d8d-d96f-4bbe-9f1d-ee240be66946#ref=rss)
-### musk
-
-* [https://www.spiegel.de/netzwelt/web/elon-musk-und-doge-wueten-in-us-behoerden-operation-kettensaege](https://www.spiegel.de/netzwelt/web/elon-musk-und-doge-wueten-in-us-behoerden-operation-kettensaege-a-74870d8d-d96f-4bbe-9f1d-ee240be66946#ref=rss)
-### annalena
-
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-aussenministerin-sagt-300-millionen-euro-zusaetzliche-syrien-hilfen-zu](https://www.spiegel.de/politik/deutschland/annalena-baerbock-aussenministerin-sagt-300-millionen-euro-zusaetzliche-syrien-hilfen-zu-a-bdb01a7d-6982-46ea-bebc-10b94ca88894#ref=rss)
-### baerbock
-
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-aussenministerin-sagt-300-millionen-euro-zusaetzliche-syrien-hilfen-zu](https://www.spiegel.de/politik/deutschland/annalena-baerbock-aussenministerin-sagt-300-millionen-euro-zusaetzliche-syrien-hilfen-zu-a-bdb01a7d-6982-46ea-bebc-10b94ca88894#ref=rss)
-### außenministerin
-
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-aussenministerin-sagt-300-millionen-euro-zusaetzliche-syrien-hilfen-zu](https://www.spiegel.de/politik/deutschland/annalena-baerbock-aussenministerin-sagt-300-millionen-euro-zusaetzliche-syrien-hilfen-zu-a-bdb01a7d-6982-46ea-bebc-10b94ca88894#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-aussenministerin-sagt-300-millionen-euro-zusaetzliche-syrien-hilfen-zu](https://www.spiegel.de/politik/deutschland/annalena-baerbock-aussenministerin-sagt-300-millionen-euro-zusaetzliche-syrien-hilfen-zu-a-bdb01a7d-6982-46ea-bebc-10b94ca88894#ref=rss)
-* [https://www.spiegel.de/wirtschaft/2-5-millionen-beschaeftigte-von-kita-bis-muellabfuhr-betroffen-verhandlungen-zwischen-verdi-und-arbeitgebern-gehen-weiter](https://www.spiegel.de/wirtschaft/2-5-millionen-beschaeftigte-von-kita-bis-muellabfuhr-betroffen-verhandlungen-zwischen-verdi-und-arbeitgebern-gehen-weiter-a-eb908ed8-681b-413f-9473-f8e006126acc#ref=rss)
-### euro
-
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-aussenministerin-sagt-300-millionen-euro-zusaetzliche-syrien-hilfen-zu](https://www.spiegel.de/politik/deutschland/annalena-baerbock-aussenministerin-sagt-300-millionen-euro-zusaetzliche-syrien-hilfen-zu-a-bdb01a7d-6982-46ea-bebc-10b94ca88894#ref=rss)
-* [https://www.spiegel.de/ausland/eu-staaten-beraten-ueber-weitere-ukrainehilfen](https://www.spiegel.de/ausland/eu-staaten-beraten-ueber-weitere-ukrainehilfen-a-07300652-1cdc-4952-a58a-b46cd92e56ba#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/panorama/justiz/berlin-praeventionsprogramm-gegen-gewalt-an-berliner-schulen-erste-stunde-messerkunde](https://www.spiegel.de/panorama/justiz/berlin-praeventionsprogramm-gegen-gewalt-an-berliner-schulen-erste-stunde-messerkunde-a-58ad5603-aa25-4b9c-82bd-ba40b8b4f7e7#ref=rss)
-### schulen
-
-* [https://www.spiegel.de/panorama/justiz/berlin-praeventionsprogramm-gegen-gewalt-an-berliner-schulen-erste-stunde-messerkunde](https://www.spiegel.de/panorama/justiz/berlin-praeventionsprogramm-gegen-gewalt-an-berliner-schulen-erste-stunde-messerkunde-a-58ad5603-aa25-4b9c-82bd-ba40b8b4f7e7#ref=rss)
-### filmpreis
-
-* [https://www.spiegel.de/kultur/tv/deutscher-filmpreis-zehn-nominierungen-fuer-september-5](https://www.spiegel.de/kultur/tv/deutscher-filmpreis-zehn-nominierungen-fuer-september-5-a-6051be2d-0565-4c41-8983-80b51fe506d1#ref=rss)
-### september
-
-* [https://www.spiegel.de/kultur/tv/deutscher-filmpreis-zehn-nominierungen-fuer-september-5](https://www.spiegel.de/kultur/tv/deutscher-filmpreis-zehn-nominierungen-fuer-september-5-a-6051be2d-0565-4c41-8983-80b51fe506d1#ref=rss)
-### 5
-
-* [https://www.spiegel.de/kultur/tv/deutscher-filmpreis-zehn-nominierungen-fuer-september-5](https://www.spiegel.de/kultur/tv/deutscher-filmpreis-zehn-nominierungen-fuer-september-5-a-6051be2d-0565-4c41-8983-80b51fe506d1#ref=rss)
-### pawel
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/pawel-durow-telegram-gruender-hat-frankreich-laut-medienbericht-verlassen](https://www.spiegel.de/netzwelt/netzpolitik/pawel-durow-telegram-gruender-hat-frankreich-laut-medienbericht-verlassen-a-c113cffc-9db9-4843-b5a4-ee1ac9e62adf#ref=rss)
-### durow
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/pawel-durow-telegram-gruender-hat-frankreich-laut-medienbericht-verlassen](https://www.spiegel.de/netzwelt/netzpolitik/pawel-durow-telegram-gruender-hat-frankreich-laut-medienbericht-verlassen-a-c113cffc-9db9-4843-b5a4-ee1ac9e62adf#ref=rss)
-### frankreich
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/pawel-durow-telegram-gruender-hat-frankreich-laut-medienbericht-verlassen](https://www.spiegel.de/netzwelt/netzpolitik/pawel-durow-telegram-gruender-hat-frankreich-laut-medienbericht-verlassen-a-c113cffc-9db9-4843-b5a4-ee1ac9e62adf#ref=rss)
-### wochen
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/pawel-durow-telegram-gruender-hat-frankreich-laut-medienbericht-verlassen](https://www.spiegel.de/netzwelt/netzpolitik/pawel-durow-telegram-gruender-hat-frankreich-laut-medienbericht-verlassen-a-c113cffc-9db9-4843-b5a4-ee1ac9e62adf#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-kuendigt-erneutes-gespraech-mit-wladimir-putin-am-dienstag-an](https://www.spiegel.de/ausland/donald-trump-kuendigt-erneutes-gespraech-mit-wladimir-putin-am-dienstag-an-a-59a42bca-75f5-44f3-a588-ceebae38382e#ref=rss)
-### thomas
-
-* [https://www.spiegel.de/sport/olympia/ioc-waehlt-nachfolger-von-thomas-bach-das-kann-das-muss-der-sport-heute-noch-sein](https://www.spiegel.de/sport/olympia/ioc-waehlt-nachfolger-von-thomas-bach-das-kann-das-muss-der-sport-heute-noch-sein-a-18ee0854-155f-414d-9763-b249fa6e4b95#ref=rss)
-### ushandelskammer
-
-* [https://www.spiegel.de/wirtschaft/us-handelskammer-sieht-wegen-zollkonflikt-billionengeschaeft-mit-eu-gefaehrdet](https://www.spiegel.de/wirtschaft/us-handelskammer-sieht-wegen-zollkonflikt-billionengeschaeft-mit-eu-gefaehrdet-a-642ea949-3dfb-4008-82aa-2115a1943003#ref=rss)
-### eu
-
-* [https://www.spiegel.de/wirtschaft/us-handelskammer-sieht-wegen-zollkonflikt-billionengeschaeft-mit-eu-gefaehrdet](https://www.spiegel.de/wirtschaft/us-handelskammer-sieht-wegen-zollkonflikt-billionengeschaeft-mit-eu-gefaehrdet-a-642ea949-3dfb-4008-82aa-2115a1943003#ref=rss)
-### folgen
-
-* [https://www.spiegel.de/wirtschaft/us-handelskammer-sieht-wegen-zollkonflikt-billionengeschaeft-mit-eu-gefaehrdet](https://www.spiegel.de/wirtschaft/us-handelskammer-sieht-wegen-zollkonflikt-billionengeschaeft-mit-eu-gefaehrdet-a-642ea949-3dfb-4008-82aa-2115a1943003#ref=rss)
-* [https://www.spiegel.de/wirtschaft/hohe-mieten-in-grossstaedten-verschaerfen-fachkraeftemangel](https://www.spiegel.de/wirtschaft/hohe-mieten-in-grossstaedten-verschaerfen-fachkraeftemangel-a-f0bc0691-38de-457c-bb60-1fca97ee2ac4#ref=rss)
-### bürgergeld
-
-* [https://www.spiegel.de/wirtschaft/verwaltungsaufwand-fuer-buergergeld-extrem-hoch](https://www.spiegel.de/wirtschaft/verwaltungsaufwand-fuer-buergergeld-extrem-hoch-a-5aeb4e99-fad3-4c7e-81d1-2bb7ab4de1df#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/csu-und-freie-waehler-einig-bayern-will-im-bundesrat-fuer-schuldenpaket-stimmen](https://www.spiegel.de/politik/deutschland/csu-und-freie-waehler-einig-bayern-will-im-bundesrat-fuer-schuldenpaket-stimmen-a-880c0e76-a42b-459c-97fa-ac5bfec34dce#ref=rss)
 ### freie
 
-* [https://www.spiegel.de/politik/deutschland/fabian-mehring-freie-waehler-minister-gibt-sich-vor-bayerischem-krisentreffen-versoehnlich](https://www.spiegel.de/politik/deutschland/fabian-mehring-freie-waehler-minister-gibt-sich-vor-bayerischem-krisentreffen-versoehnlich-a-3f24c348-8fd9-434d-baa7-e325a914b8e9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/csu-und-freie-waehler-einig-bayern-will-im-bundesrat-fuer-schuldenpaket-stimmen](https://www.spiegel.de/politik/deutschland/csu-und-freie-waehler-einig-bayern-will-im-bundesrat-fuer-schuldenpaket-stimmen-a-880c0e76-a42b-459c-97fa-ac5bfec34dce#ref=rss)
 ### wähler
 
-* [https://www.spiegel.de/politik/deutschland/fabian-mehring-freie-waehler-minister-gibt-sich-vor-bayerischem-krisentreffen-versoehnlich](https://www.spiegel.de/politik/deutschland/fabian-mehring-freie-waehler-minister-gibt-sich-vor-bayerischem-krisentreffen-versoehnlich-a-3f24c348-8fd9-434d-baa7-e325a914b8e9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/csu-und-freie-waehler-einig-bayern-will-im-bundesrat-fuer-schuldenpaket-stimmen](https://www.spiegel.de/politik/deutschland/csu-und-freie-waehler-einig-bayern-will-im-bundesrat-fuer-schuldenpaket-stimmen-a-880c0e76-a42b-459c-97fa-ac5bfec34dce#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/politik/deutschland/csu-und-freie-waehler-einig-bayern-will-im-bundesrat-fuer-schuldenpaket-stimmen](https://www.spiegel.de/politik/deutschland/csu-und-freie-waehler-einig-bayern-will-im-bundesrat-fuer-schuldenpaket-stimmen-a-880c0e76-a42b-459c-97fa-ac5bfec34dce#ref=rss)
 ### bundesrat
 
-* [https://www.spiegel.de/politik/deutschland/fabian-mehring-freie-waehler-minister-gibt-sich-vor-bayerischem-krisentreffen-versoehnlich](https://www.spiegel.de/politik/deutschland/fabian-mehring-freie-waehler-minister-gibt-sich-vor-bayerischem-krisentreffen-versoehnlich-a-3f24c348-8fd9-434d-baa7-e325a914b8e9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-bundestag-christian-duerr-fdp](https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-bundestag-christian-duerr-fdp-a-ddbc2f79-a18c-4546-8ee5-3fe3d2c72820#ref=rss)
-### kennen
+* [https://www.spiegel.de/politik/deutschland/csu-und-freie-waehler-einig-bayern-will-im-bundesrat-fuer-schuldenpaket-stimmen](https://www.spiegel.de/politik/deutschland/csu-und-freie-waehler-einig-bayern-will-im-bundesrat-fuer-schuldenpaket-stimmen-a-880c0e76-a42b-459c-97fa-ac5bfec34dce#ref=rss)
+### schuldenpaket
 
-* [https://www.spiegel.de/politik/deutschland/fabian-mehring-freie-waehler-minister-gibt-sich-vor-bayerischem-krisentreffen-versoehnlich](https://www.spiegel.de/politik/deutschland/fabian-mehring-freie-waehler-minister-gibt-sich-vor-bayerischem-krisentreffen-versoehnlich-a-3f24c348-8fd9-434d-baa7-e325a914b8e9#ref=rss)
-* [https://www.spiegel.de/karriere/arbeit-und-selbstbild-warum-der-job-unser-selbstverstaendnis-praegt](https://www.spiegel.de/karriere/arbeit-und-selbstbild-warum-der-job-unser-selbstverstaendnis-praegt-a-b91d4ce7-894c-4786-849e-565e2c5e70a5#ref=rss)
-### straßenbahn
+* [https://www.spiegel.de/politik/deutschland/csu-und-freie-waehler-einig-bayern-will-im-bundesrat-fuer-schuldenpaket-stimmen](https://www.spiegel.de/politik/deutschland/csu-und-freie-waehler-einig-bayern-will-im-bundesrat-fuer-schuldenpaket-stimmen-a-880c0e76-a42b-459c-97fa-ac5bfec34dce#ref=rss)
+### spd
 
-* [https://www.spiegel.de/panorama/justiz/gera-frau-in-strassenbahn-angezuendet-polizei-fahndet-nach-ehemann](https://www.spiegel.de/panorama/justiz/gera-frau-in-strassenbahn-angezuendet-polizei-fahndet-nach-ehemann-a-5f0088bc-9a6f-454c-b325-0995ef546450#ref=rss)
-### foto
+* [https://www.spiegel.de/politik/deutschland/csu-und-freie-waehler-einig-bayern-will-im-bundesrat-fuer-schuldenpaket-stimmen](https://www.spiegel.de/politik/deutschland/csu-und-freie-waehler-einig-bayern-will-im-bundesrat-fuer-schuldenpaket-stimmen-a-880c0e76-a42b-459c-97fa-ac5bfec34dce#ref=rss)
+* [https://www.spiegel.de/politik/finanzpolitik-schwarz-rot-plant-neue-spielraeume-durch-schuldenbremse-reform](https://www.spiegel.de/politik/finanzpolitik-schwarz-rot-plant-neue-spielraeume-durch-schuldenbremse-reform-a-48b6c7cc-dbb9-450d-b223-f7f8cebcaa99#ref=rss)
+### oberbayern
 
-* [https://www.spiegel.de/panorama/justiz/gera-frau-in-strassenbahn-angezuendet-polizei-fahndet-nach-ehemann](https://www.spiegel.de/panorama/justiz/gera-frau-in-strassenbahn-angezuendet-polizei-fahndet-nach-ehemann-a-5f0088bc-9a6f-454c-b325-0995ef546450#ref=rss)
-* [https://www.spiegel.de/psychologie/leben-mit-adipositas-wie-scham-mich-klein-hielt-und-wut-mich-befreit](https://www.spiegel.de/psychologie/leben-mit-adipositas-wie-scham-mich-klein-hielt-und-wut-mich-befreit-a-1fe3290a-0ea6-4d37-abbf-59a55e1d2740#ref=rss)
-### borowski
+* [https://www.spiegel.de/panorama/presena-gletscher-in-trient-deutscher-aus-oberbayern-stirbt-bei-lawinenunglueck-in-italien](https://www.spiegel.de/panorama/presena-gletscher-in-trient-deutscher-aus-oberbayern-stirbt-bei-lawinenunglueck-in-italien-a-be9cf808-ac3d-4232-8eb0-8762e3b693f2#ref=rss)
+### mann
 
-* [https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-borowski-und-das-haupt-der-medusa-mit-axel-milberg](https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-borowski-und-das-haupt-der-medusa-mit-axel-milberg-a-9bede312-619a-435b-835e-185bdc6b6f89#ref=rss)
-### axel
+* [https://www.spiegel.de/panorama/presena-gletscher-in-trient-deutscher-aus-oberbayern-stirbt-bei-lawinenunglueck-in-italien](https://www.spiegel.de/panorama/presena-gletscher-in-trient-deutscher-aus-oberbayern-stirbt-bei-lawinenunglueck-in-italien-a-be9cf808-ac3d-4232-8eb0-8762e3b693f2#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-polizei-erschiesst-mutmasslichen-messerangreifer-in-herne](https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-polizei-erschiesst-mutmasslichen-messerangreifer-in-herne-a-8249b036-319b-4dff-bcce-199a561819d2#ref=rss)
+### warnt
 
-* [https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-borowski-und-das-haupt-der-medusa-mit-axel-milberg](https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-borowski-und-das-haupt-der-medusa-mit-axel-milberg-a-9bede312-619a-435b-835e-185bdc6b6f89#ref=rss)
-### milberg
+* [https://www.spiegel.de/ausland/who-chef-tedros-adhanom-ghebreyesus-warnt-vor-millionen-toten-durch-kuerzungen-der-regierung-von-donald-trump](https://www.spiegel.de/ausland/who-chef-tedros-adhanom-ghebreyesus-warnt-vor-millionen-toten-durch-kuerzungen-der-regierung-von-donald-trump-a-18be5114-7fee-4cbe-962c-16d205e016ba#ref=rss)
+* [https://www.spiegel.de/ausland/europa-und-donald-trump-fuer-china-sortieren-sich-die-karten-perfekt-sagt-sinologin-janka-oertel](https://www.spiegel.de/ausland/europa-und-donald-trump-fuer-china-sortieren-sich-die-karten-perfekt-sagt-sinologin-janka-oertel-a-83a5dc30-b845-4f13-8f23-7a2f5469fa16#ref=rss)
+### millionen
 
-* [https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-borowski-und-das-haupt-der-medusa-mit-axel-milberg](https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-borowski-und-das-haupt-der-medusa-mit-axel-milberg-a-9bede312-619a-435b-835e-185bdc6b6f89#ref=rss)
-### verdi
+* [https://www.spiegel.de/ausland/who-chef-tedros-adhanom-ghebreyesus-warnt-vor-millionen-toten-durch-kuerzungen-der-regierung-von-donald-trump](https://www.spiegel.de/ausland/who-chef-tedros-adhanom-ghebreyesus-warnt-vor-millionen-toten-durch-kuerzungen-der-regierung-von-donald-trump-a-18be5114-7fee-4cbe-962c-16d205e016ba#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-kanadas-premier-mark-carney-in-europa-syrien-hilfen-aus-deutschland-einberufung-neuer-bundestag](https://www.spiegel.de/politik/deutschland/news-des-tages-kanadas-premier-mark-carney-in-europa-syrien-hilfen-aus-deutschland-einberufung-neuer-bundestag-a-e6cfa441-6045-471e-b309-3c0fd147fda7#ref=rss)
+### kürzungen
 
-* [https://www.spiegel.de/wirtschaft/2-5-millionen-beschaeftigte-von-kita-bis-muellabfuhr-betroffen-verhandlungen-zwischen-verdi-und-arbeitgebern-gehen-weiter](https://www.spiegel.de/wirtschaft/2-5-millionen-beschaeftigte-von-kita-bis-muellabfuhr-betroffen-verhandlungen-zwischen-verdi-und-arbeitgebern-gehen-weiter-a-eb908ed8-681b-413f-9473-f8e006126acc#ref=rss)
-### mieten
+* [https://www.spiegel.de/ausland/who-chef-tedros-adhanom-ghebreyesus-warnt-vor-millionen-toten-durch-kuerzungen-der-regierung-von-donald-trump](https://www.spiegel.de/ausland/who-chef-tedros-adhanom-ghebreyesus-warnt-vor-millionen-toten-durch-kuerzungen-der-regierung-von-donald-trump-a-18be5114-7fee-4cbe-962c-16d205e016ba#ref=rss)
+### jahre
 
-* [https://www.spiegel.de/wirtschaft/hohe-mieten-in-grossstaedten-verschaerfen-fachkraeftemangel](https://www.spiegel.de/wirtschaft/hohe-mieten-in-grossstaedten-verschaerfen-fachkraeftemangel-a-f0bc0691-38de-457c-bb60-1fca97ee2ac4#ref=rss)
-### gespräch
+* [https://www.spiegel.de/ausland/who-chef-tedros-adhanom-ghebreyesus-warnt-vor-millionen-toten-durch-kuerzungen-der-regierung-von-donald-trump](https://www.spiegel.de/ausland/who-chef-tedros-adhanom-ghebreyesus-warnt-vor-millionen-toten-durch-kuerzungen-der-regierung-von-donald-trump-a-18be5114-7fee-4cbe-962c-16d205e016ba#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/peter-krauth-und-thomas-walterfreiheit-nach-drei-jahrzehnten-auf-der-flucht](https://www.spiegel.de/panorama/justiz/peter-krauth-und-thomas-walterfreiheit-nach-drei-jahrzehnten-auf-der-flucht-a-f90646a4-9e97-4d18-b96e-da5972e49bc8#ref=rss)
+### venezolaner
 
-* [https://www.spiegel.de/ausland/eu-staaten-beraten-ueber-weitere-ukrainehilfen](https://www.spiegel.de/ausland/eu-staaten-beraten-ueber-weitere-ukrainehilfen-a-07300652-1cdc-4952-a58a-b46cd92e56ba#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-kuendigt-erneutes-gespraech-mit-wladimir-putin-am-dienstag-an](https://www.spiegel.de/ausland/donald-trump-kuendigt-erneutes-gespraech-mit-wladimir-putin-am-dienstag-an-a-59a42bca-75f5-44f3-a588-ceebae38382e#ref=rss)
-### mich
+* [https://www.spiegel.de/ausland/usa-donald-trump-ignoriert-gericht-und-schiebt-venezolaner-ab](https://www.spiegel.de/ausland/usa-donald-trump-ignoriert-gericht-und-schiebt-venezolaner-ab-a-7825f45c-8b26-4607-a15c-3e8f9427d422#ref=rss)
+### stefan
 
-* [https://www.spiegel.de/psychologie/leben-mit-adipositas-wie-scham-mich-klein-hielt-und-wut-mich-befreit](https://www.spiegel.de/psychologie/leben-mit-adipositas-wie-scham-mich-klein-hielt-und-wut-mich-befreit-a-1fe3290a-0ea6-4d37-abbf-59a55e1d2740#ref=rss)
-### methylenblau
+* [https://www.spiegel.de/kultur/gntm-stefan-raab-teddy-teclebrhan-drei-shows-zwei-blamagen](https://www.spiegel.de/kultur/gntm-stefan-raab-teddy-teclebrhan-drei-shows-zwei-blamagen-a-384f816a-6ef3-47e5-9dd9-781f12f5298a#ref=rss)
+### raab
 
-* [https://www.spiegel.de/gesundheit/methylenblau-warum-ein-chemischer-farbstoff-als-wundermittel-beworben-wird](https://www.spiegel.de/gesundheit/methylenblau-warum-ein-chemischer-farbstoff-als-wundermittel-beworben-wird-a-ef245731-97f9-4f8c-885f-4d72e258a805#ref=rss)
-### farbstoff
+* [https://www.spiegel.de/kultur/gntm-stefan-raab-teddy-teclebrhan-drei-shows-zwei-blamagen](https://www.spiegel.de/kultur/gntm-stefan-raab-teddy-teclebrhan-drei-shows-zwei-blamagen-a-384f816a-6ef3-47e5-9dd9-781f12f5298a#ref=rss)
+### teddy
 
-* [https://www.spiegel.de/gesundheit/methylenblau-warum-ein-chemischer-farbstoff-als-wundermittel-beworben-wird](https://www.spiegel.de/gesundheit/methylenblau-warum-ein-chemischer-farbstoff-als-wundermittel-beworben-wird-a-ef245731-97f9-4f8c-885f-4d72e258a805#ref=rss)
-### beworben
+* [https://www.spiegel.de/kultur/gntm-stefan-raab-teddy-teclebrhan-drei-shows-zwei-blamagen](https://www.spiegel.de/kultur/gntm-stefan-raab-teddy-teclebrhan-drei-shows-zwei-blamagen-a-384f816a-6ef3-47e5-9dd9-781f12f5298a#ref=rss)
+### teclebrhan
 
-* [https://www.spiegel.de/gesundheit/methylenblau-warum-ein-chemischer-farbstoff-als-wundermittel-beworben-wird](https://www.spiegel.de/gesundheit/methylenblau-warum-ein-chemischer-farbstoff-als-wundermittel-beworben-wird-a-ef245731-97f9-4f8c-885f-4d72e258a805#ref=rss)
+* [https://www.spiegel.de/kultur/gntm-stefan-raab-teddy-teclebrhan-drei-shows-zwei-blamagen](https://www.spiegel.de/kultur/gntm-stefan-raab-teddy-teclebrhan-drei-shows-zwei-blamagen-a-384f816a-6ef3-47e5-9dd9-781f12f5298a#ref=rss)
+### drei
+
+* [https://www.spiegel.de/kultur/gntm-stefan-raab-teddy-teclebrhan-drei-shows-zwei-blamagen](https://www.spiegel.de/kultur/gntm-stefan-raab-teddy-teclebrhan-drei-shows-zwei-blamagen-a-384f816a-6ef3-47e5-9dd9-781f12f5298a#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/peter-krauth-und-thomas-walterfreiheit-nach-drei-jahrzehnten-auf-der-flucht](https://www.spiegel.de/panorama/justiz/peter-krauth-und-thomas-walterfreiheit-nach-drei-jahrzehnten-auf-der-flucht-a-f90646a4-9e97-4d18-b96e-da5972e49bc8#ref=rss)
+### versuchen
+
+* [https://www.spiegel.de/kultur/gntm-stefan-raab-teddy-teclebrhan-drei-shows-zwei-blamagen](https://www.spiegel.de/kultur/gntm-stefan-raab-teddy-teclebrhan-drei-shows-zwei-blamagen-a-384f816a-6ef3-47e5-9dd9-781f12f5298a#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-das-gegenmittel-fuer-russlands-gefaehrlichste-waffe](https://www.spiegel.de/ausland/krieg-in-der-ukraine-das-gegenmittel-fuer-russlands-gefaehrlichste-waffe-a-a268a74c-eebf-4afc-84e4-7e395336c9dc#ref=rss)
+### peter
+
+* [https://www.spiegel.de/panorama/justiz/peter-krauth-und-thomas-walterfreiheit-nach-drei-jahrzehnten-auf-der-flucht](https://www.spiegel.de/panorama/justiz/peter-krauth-und-thomas-walterfreiheit-nach-drei-jahrzehnten-auf-der-flucht-a-f90646a4-9e97-4d18-b96e-da5972e49bc8#ref=rss)
+### krauth
+
+* [https://www.spiegel.de/panorama/justiz/peter-krauth-und-thomas-walterfreiheit-nach-drei-jahrzehnten-auf-der-flucht](https://www.spiegel.de/panorama/justiz/peter-krauth-und-thomas-walterfreiheit-nach-drei-jahrzehnten-auf-der-flucht-a-f90646a4-9e97-4d18-b96e-da5972e49bc8#ref=rss)
+### thomas
+
+* [https://www.spiegel.de/panorama/justiz/peter-krauth-und-thomas-walterfreiheit-nach-drei-jahrzehnten-auf-der-flucht](https://www.spiegel.de/panorama/justiz/peter-krauth-und-thomas-walterfreiheit-nach-drei-jahrzehnten-auf-der-flucht-a-f90646a4-9e97-4d18-b96e-da5972e49bc8#ref=rss)
+### operierte
+
+* [https://www.spiegel.de/panorama/justiz/augenarzt-operierte-trotz-parkinson-berufsverbot-und-bewaehrungsstrafe](https://www.spiegel.de/panorama/justiz/augenarzt-operierte-trotz-parkinson-berufsverbot-und-bewaehrungsstrafe-a-ba830570-517b-4996-ab3b-3d006ee6e41f#ref=rss)
+### auge
+
+* [https://www.spiegel.de/panorama/justiz/augenarzt-operierte-trotz-parkinson-berufsverbot-und-bewaehrungsstrafe](https://www.spiegel.de/panorama/justiz/augenarzt-operierte-trotz-parkinson-berufsverbot-und-bewaehrungsstrafe-a-ba830570-517b-4996-ab3b-3d006ee6e41f#ref=rss)
+* [https://www.spiegel.de/ausland/ungarn-anhaenger-von-viktor-orban-planen-verbot-von-pride-paraden](https://www.spiegel.de/ausland/ungarn-anhaenger-von-viktor-orban-planen-verbot-von-pride-paraden-a-0de0bc25-5a86-4157-ac2e-7328b15fdfb6#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/panorama/justiz/augenarzt-operierte-trotz-parkinson-berufsverbot-und-bewaehrungsstrafe](https://www.spiegel.de/panorama/justiz/augenarzt-operierte-trotz-parkinson-berufsverbot-und-bewaehrungsstrafe-a-ba830570-517b-4996-ab3b-3d006ee6e41f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/osnabrueck-frau-gibt-sich-als-aerztin-aus-gericht-ordnet-unterbringung-in-psychiatrie-an](https://www.spiegel.de/panorama/justiz/osnabrueck-frau-gibt-sich-als-aerztin-aus-gericht-ordnet-unterbringung-in-psychiatrie-an-a-44404972-7bc3-4701-b8bd-f8199dc5253f#ref=rss)
+### rosenstolz
+
+* [https://www.spiegel.de/kultur/musik/zum-tod-von-anna-r-rosenstolz-es-bleiben-waerme-und-weisheit](https://www.spiegel.de/kultur/musik/zum-tod-von-anna-r-rosenstolz-es-bleiben-waerme-und-weisheit-a-46485a8d-69ae-4ff5-8f49-7b1c6ae232f4#ref=rss)
+### bleiben
+
+* [https://www.spiegel.de/kultur/musik/zum-tod-von-anna-r-rosenstolz-es-bleiben-waerme-und-weisheit](https://www.spiegel.de/kultur/musik/zum-tod-von-anna-r-rosenstolz-es-bleiben-waerme-und-weisheit-a-46485a8d-69ae-4ff5-8f49-7b1c6ae232f4#ref=rss)
+* [https://www.spiegel.de/kultur/musik/anna-r-saengerin-der-band-rosenstolz-unerwartet-gestorben](https://www.spiegel.de/kultur/musik/anna-r-saengerin-der-band-rosenstolz-unerwartet-gestorben-a-029f4992-fa53-4cf8-82e2-66701c4c14f7#ref=rss)
+### alles
+
+* [https://www.spiegel.de/kultur/musik/zum-tod-von-anna-r-rosenstolz-es-bleiben-waerme-und-weisheit](https://www.spiegel.de/kultur/musik/zum-tod-von-anna-r-rosenstolz-es-bleiben-waerme-und-weisheit-a-46485a8d-69ae-4ff5-8f49-7b1c6ae232f4#ref=rss)
+* [https://www.spiegel.de/kultur/musik/anna-r-saengerin-der-band-rosenstolz-unerwartet-gestorben](https://www.spiegel.de/kultur/musik/anna-r-saengerin-der-band-rosenstolz-unerwartet-gestorben-a-029f4992-fa53-4cf8-82e2-66701c4c14f7#ref=rss)
+### berliner
+
+* [https://www.spiegel.de/kultur/berliner-ensemble-geschaeftsfuehrer-legt-nach-machtmissbrauchsvorwuerfen-amt-nieder](https://www.spiegel.de/kultur/berliner-ensemble-geschaeftsfuehrer-legt-nach-machtmissbrauchsvorwuerfen-amt-nieder-a-2e19622c-a529-4da7-926c-96b03bcdcfc3#ref=rss)
+### ensemble
+
+* [https://www.spiegel.de/kultur/berliner-ensemble-geschaeftsfuehrer-legt-nach-machtmissbrauchsvorwuerfen-amt-nieder](https://www.spiegel.de/kultur/berliner-ensemble-geschaeftsfuehrer-legt-nach-machtmissbrauchsvorwuerfen-amt-nieder-a-2e19622c-a529-4da7-926c-96b03bcdcfc3#ref=rss)
+### geschäftsführer
+
+* [https://www.spiegel.de/kultur/berliner-ensemble-geschaeftsfuehrer-legt-nach-machtmissbrauchsvorwuerfen-amt-nieder](https://www.spiegel.de/kultur/berliner-ensemble-geschaeftsfuehrer-legt-nach-machtmissbrauchsvorwuerfen-amt-nieder-a-2e19622c-a529-4da7-926c-96b03bcdcfc3#ref=rss)
+### julia
+
+* [https://www.spiegel.de/politik/deutschland/julia-kloeckner-unionsfraktion-nominiert-kloeckner-als-bundestagspraesidentin](https://www.spiegel.de/politik/deutschland/julia-kloeckner-unionsfraktion-nominiert-kloeckner-als-bundestagspraesidentin-a-dd964053-3a79-4381-a6cc-706038ed94b0#ref=rss)
+### unionsfraktion
+
+* [https://www.spiegel.de/politik/deutschland/julia-kloeckner-unionsfraktion-nominiert-kloeckner-als-bundestagspraesidentin](https://www.spiegel.de/politik/deutschland/julia-kloeckner-unionsfraktion-nominiert-kloeckner-als-bundestagspraesidentin-a-dd964053-3a79-4381-a6cc-706038ed94b0#ref=rss)
+### bundestagspräsidentin
+
+* [https://www.spiegel.de/politik/deutschland/julia-kloeckner-unionsfraktion-nominiert-kloeckner-als-bundestagspraesidentin](https://www.spiegel.de/politik/deutschland/julia-kloeckner-unionsfraktion-nominiert-kloeckner-als-bundestagspraesidentin-a-dd964053-3a79-4381-a6cc-706038ed94b0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-baerbel-bas-lehnt-vorstoss-zur-raschen-einberufung-des-neuen-bundestags-ab](https://www.spiegel.de/politik/deutschland/afd-baerbel-bas-lehnt-vorstoss-zur-raschen-einberufung-des-neuen-bundestags-ab-a-1294caeb-f63c-4d75-b8ea-f641d4b4d579#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/politik/deutschland/julia-kloeckner-unionsfraktion-nominiert-kloeckner-als-bundestagspraesidentin](https://www.spiegel.de/politik/deutschland/julia-kloeckner-unionsfraktion-nominiert-kloeckner-als-bundestagspraesidentin-a-dd964053-3a79-4381-a6cc-706038ed94b0#ref=rss)
+* [https://www.spiegel.de/ausland/europa-und-donald-trump-fuer-china-sortieren-sich-die-karten-perfekt-sagt-sinologin-janka-oertel](https://www.spiegel.de/ausland/europa-und-donald-trump-fuer-china-sortieren-sich-die-karten-perfekt-sagt-sinologin-janka-oertel-a-83a5dc30-b845-4f13-8f23-7a2f5469fa16#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/deutschland/julia-kloeckner-unionsfraktion-nominiert-kloeckner-als-bundestagspraesidentin](https://www.spiegel.de/politik/deutschland/julia-kloeckner-unionsfraktion-nominiert-kloeckner-als-bundestagspraesidentin-a-dd964053-3a79-4381-a6cc-706038ed94b0#ref=rss)
+* [https://www.spiegel.de/ausland/europa-und-donald-trump-fuer-china-sortieren-sich-die-karten-perfekt-sagt-sinologin-janka-oertel](https://www.spiegel.de/ausland/europa-und-donald-trump-fuer-china-sortieren-sich-die-karten-perfekt-sagt-sinologin-janka-oertel-a-83a5dc30-b845-4f13-8f23-7a2f5469fa16#ref=rss)
+### audi
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/audi-7500-stellen-in-deutschland-werden-abgebaut](https://www.spiegel.de/wirtschaft/unternehmen/audi-7500-stellen-in-deutschland-werden-abgebaut-a-db755a00-8eb9-4a5a-bed8-f4103e805d89#ref=rss)
+### stellen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/audi-7500-stellen-in-deutschland-werden-abgebaut](https://www.spiegel.de/wirtschaft/unternehmen/audi-7500-stellen-in-deutschland-werden-abgebaut-a-db755a00-8eb9-4a5a-bed8-f4103e805d89#ref=rss)
+### geplante
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/audi-7500-stellen-in-deutschland-werden-abgebaut](https://www.spiegel.de/wirtschaft/unternehmen/audi-7500-stellen-in-deutschland-werden-abgebaut-a-db755a00-8eb9-4a5a-bed8-f4103e805d89#ref=rss)
+* [https://www.spiegel.de/politik/finanzpolitik-schwarz-rot-plant-neue-spielraeume-durch-schuldenbremse-reform](https://www.spiegel.de/politik/finanzpolitik-schwarz-rot-plant-neue-spielraeume-durch-schuldenbremse-reform-a-48b6c7cc-dbb9-450d-b223-f7f8cebcaa99#ref=rss)
+### libanon
+
+* [https://www.spiegel.de/ausland/libanon-praesident-mobilisiert-armee-wegen-kaempfen-an-syrischer-grenze](https://www.spiegel.de/ausland/libanon-praesident-mobilisiert-armee-wegen-kaempfen-an-syrischer-grenze-a-20e2f0aa-08b7-4930-8092-d172a74606bc#ref=rss)
+### präsident
+
+* [https://www.spiegel.de/ausland/libanon-praesident-mobilisiert-armee-wegen-kaempfen-an-syrischer-grenze](https://www.spiegel.de/ausland/libanon-praesident-mobilisiert-armee-wegen-kaempfen-an-syrischer-grenze-a-20e2f0aa-08b7-4930-8092-d172a74606bc#ref=rss)
+### armee
+
+* [https://www.spiegel.de/ausland/libanon-praesident-mobilisiert-armee-wegen-kaempfen-an-syrischer-grenze](https://www.spiegel.de/ausland/libanon-praesident-mobilisiert-armee-wegen-kaempfen-an-syrischer-grenze-a-20e2f0aa-08b7-4930-8092-d172a74606bc#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/ausland/libanon-praesident-mobilisiert-armee-wegen-kaempfen-an-syrischer-grenze](https://www.spiegel.de/ausland/libanon-praesident-mobilisiert-armee-wegen-kaempfen-an-syrischer-grenze-a-20e2f0aa-08b7-4930-8092-d172a74606bc#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-das-gegenmittel-fuer-russlands-gefaehrlichste-waffe](https://www.spiegel.de/ausland/krieg-in-der-ukraine-das-gegenmittel-fuer-russlands-gefaehrlichste-waffe-a-a268a74c-eebf-4afc-84e4-7e395336c9dc#ref=rss)
+### syrien
+
+* [https://www.spiegel.de/ausland/libanon-praesident-mobilisiert-armee-wegen-kaempfen-an-syrischer-grenze](https://www.spiegel.de/ausland/libanon-praesident-mobilisiert-armee-wegen-kaempfen-an-syrischer-grenze-a-20e2f0aa-08b7-4930-8092-d172a74606bc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-kanadas-premier-mark-carney-in-europa-syrien-hilfen-aus-deutschland-einberufung-neuer-bundestag](https://www.spiegel.de/politik/deutschland/news-des-tages-kanadas-premier-mark-carney-in-europa-syrien-hilfen-aus-deutschland-einberufung-neuer-bundestag-a-e6cfa441-6045-471e-b309-3c0fd147fda7#ref=rss)
+### premier
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-kanadas-premier-mark-carney-in-europa-syrien-hilfen-aus-deutschland-einberufung-neuer-bundestag](https://www.spiegel.de/politik/deutschland/news-des-tages-kanadas-premier-mark-carney-in-europa-syrien-hilfen-aus-deutschland-einberufung-neuer-bundestag-a-e6cfa441-6045-471e-b309-3c0fd147fda7#ref=rss)
+### mark
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-kanadas-premier-mark-carney-in-europa-syrien-hilfen-aus-deutschland-einberufung-neuer-bundestag](https://www.spiegel.de/politik/deutschland/news-des-tages-kanadas-premier-mark-carney-in-europa-syrien-hilfen-aus-deutschland-einberufung-neuer-bundestag-a-e6cfa441-6045-471e-b309-3c0fd147fda7#ref=rss)
+### carney
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-kanadas-premier-mark-carney-in-europa-syrien-hilfen-aus-deutschland-einberufung-neuer-bundestag](https://www.spiegel.de/politik/deutschland/news-des-tages-kanadas-premier-mark-carney-in-europa-syrien-hilfen-aus-deutschland-einberufung-neuer-bundestag-a-e6cfa441-6045-471e-b309-3c0fd147fda7#ref=rss)
+### einberufung
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-kanadas-premier-mark-carney-in-europa-syrien-hilfen-aus-deutschland-einberufung-neuer-bundestag](https://www.spiegel.de/politik/deutschland/news-des-tages-kanadas-premier-mark-carney-in-europa-syrien-hilfen-aus-deutschland-einberufung-neuer-bundestag-a-e6cfa441-6045-471e-b309-3c0fd147fda7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-baerbel-bas-lehnt-vorstoss-zur-raschen-einberufung-des-neuen-bundestags-ab](https://www.spiegel.de/politik/deutschland/afd-baerbel-bas-lehnt-vorstoss-zur-raschen-einberufung-des-neuen-bundestags-ab-a-1294caeb-f63c-4d75-b8ea-f641d4b4d579#ref=rss)
 ### bundestag
 
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-bundestag-christian-duerr-fdp](https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-bundestag-christian-duerr-fdp-a-ddbc2f79-a18c-4546-8ee5-3fe3d2c72820#ref=rss)
-### fdp
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-kanadas-premier-mark-carney-in-europa-syrien-hilfen-aus-deutschland-einberufung-neuer-bundestag](https://www.spiegel.de/politik/deutschland/news-des-tages-kanadas-premier-mark-carney-in-europa-syrien-hilfen-aus-deutschland-einberufung-neuer-bundestag-a-e6cfa441-6045-471e-b309-3c0fd147fda7#ref=rss)
+### erst
 
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-bundestag-christian-duerr-fdp](https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-bundestag-christian-duerr-fdp-a-ddbc2f79-a18c-4546-8ee5-3fe3d2c72820#ref=rss)
-### arbeit
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-kanadas-premier-mark-carney-in-europa-syrien-hilfen-aus-deutschland-einberufung-neuer-bundestag](https://www.spiegel.de/politik/deutschland/news-des-tages-kanadas-premier-mark-carney-in-europa-syrien-hilfen-aus-deutschland-einberufung-neuer-bundestag-a-e6cfa441-6045-471e-b309-3c0fd147fda7#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-polizei-erschiesst-mutmasslichen-messerangreifer-in-herne](https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-polizei-erschiesst-mutmasslichen-messerangreifer-in-herne-a-8249b036-319b-4dff-bcce-199a561819d2#ref=rss)
+### nordsee
 
-* [https://www.spiegel.de/karriere/arbeit-und-selbstbild-warum-der-job-unser-selbstverstaendnis-praegt](https://www.spiegel.de/karriere/arbeit-und-selbstbild-warum-der-job-unser-selbstverstaendnis-praegt-a-b91d4ce7-894c-4786-849e-565e2c5e70a5#ref=rss)
-### wir
+* [https://www.spiegel.de/panorama/nordsee-plastikteilchen-im-wasser-und-an-land-nach-schiffskollision](https://www.spiegel.de/panorama/nordsee-plastikteilchen-im-wasser-und-an-land-nach-schiffskollision-a-3b3542e2-5540-4094-87ae-b50d1a77d609#ref=rss)
+### forever
 
-* [https://www.spiegel.de/karriere/arbeit-und-selbstbild-warum-der-job-unser-selbstverstaendnis-praegt](https://www.spiegel.de/karriere/arbeit-und-selbstbild-warum-der-job-unser-selbstverstaendnis-praegt-a-b91d4ce7-894c-4786-849e-565e2c5e70a5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/usa-forever-21-meldet-zum-zweiten-mal-insolvenz-an](https://www.spiegel.de/wirtschaft/unternehmen/usa-forever-21-meldet-zum-zweiten-mal-insolvenz-an-a-be770f42-14de-41d6-a421-660a1d98c33e#ref=rss)
+### 21
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/usa-forever-21-meldet-zum-zweiten-mal-insolvenz-an](https://www.spiegel.de/wirtschaft/unternehmen/usa-forever-21-meldet-zum-zweiten-mal-insolvenz-an-a-be770f42-14de-41d6-a421-660a1d98c33e#ref=rss)
+### meldet
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/usa-forever-21-meldet-zum-zweiten-mal-insolvenz-an](https://www.spiegel.de/wirtschaft/unternehmen/usa-forever-21-meldet-zum-zweiten-mal-insolvenz-an-a-be770f42-14de-41d6-a421-660a1d98c33e#ref=rss)
+### insolvenz
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/usa-forever-21-meldet-zum-zweiten-mal-insolvenz-an](https://www.spiegel.de/wirtschaft/unternehmen/usa-forever-21-meldet-zum-zweiten-mal-insolvenz-an-a-be770f42-14de-41d6-a421-660a1d98c33e#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/usa-forever-21-meldet-zum-zweiten-mal-insolvenz-an](https://www.spiegel.de/wirtschaft/unternehmen/usa-forever-21-meldet-zum-zweiten-mal-insolvenz-an-a-be770f42-14de-41d6-a421-660a1d98c33e#ref=rss)
+* [https://www.spiegel.de/politik/finanzpolitik-schwarz-rot-plant-neue-spielraeume-durch-schuldenbremse-reform](https://www.spiegel.de/politik/finanzpolitik-schwarz-rot-plant-neue-spielraeume-durch-schuldenbremse-reform-a-48b6c7cc-dbb9-450d-b223-f7f8cebcaa99#ref=rss)
+### bulgarien
+
+* [https://www.spiegel.de/sport/fussball/bulgarien-arda-kardschali-haelt-schweigeminute-fuer-ex-spieler-petko-gantschew-ab-dabei-ist-der-gar-nicht-tot](https://www.spiegel.de/sport/fussball/bulgarien-arda-kardschali-haelt-schweigeminute-fuer-ex-spieler-petko-gantschew-ab-dabei-ist-der-gar-nicht-tot-a-0efcd01e-4435-4ab5-bd1f-2042c49a4573#ref=rss)
+### exspieler
+
+* [https://www.spiegel.de/sport/fussball/bulgarien-arda-kardschali-haelt-schweigeminute-fuer-ex-spieler-petko-gantschew-ab-dabei-ist-der-gar-nicht-tot](https://www.spiegel.de/sport/fussball/bulgarien-arda-kardschali-haelt-schweigeminute-fuer-ex-spieler-petko-gantschew-ab-dabei-ist-der-gar-nicht-tot-a-0efcd01e-4435-4ab5-bd1f-2042c49a4573#ref=rss)
+### kollidiert
+
+* [https://www.spiegel.de/panorama/bailleul-sire-berthoult-militaerfahrzeug-kollidiert-mit-zug-zwei-tote](https://www.spiegel.de/panorama/bailleul-sire-berthoult-militaerfahrzeug-kollidiert-mit-zug-zwei-tote-a-12d70b5d-275f-4f12-921b-37f9e74840e7#ref=rss)
+### zug
+
+* [https://www.spiegel.de/panorama/bailleul-sire-berthoult-militaerfahrzeug-kollidiert-mit-zug-zwei-tote](https://www.spiegel.de/panorama/bailleul-sire-berthoult-militaerfahrzeug-kollidiert-mit-zug-zwei-tote-a-12d70b5d-275f-4f12-921b-37f9e74840e7#ref=rss)
+### planen
+
+* [https://www.spiegel.de/ausland/ungarn-anhaenger-von-viktor-orban-planen-verbot-von-pride-paraden](https://www.spiegel.de/ausland/ungarn-anhaenger-von-viktor-orban-planen-verbot-von-pride-paraden-a-0de0bc25-5a86-4157-ac2e-7328b15fdfb6#ref=rss)
+* [https://www.spiegel.de/politik/finanzpolitik-schwarz-rot-plant-neue-spielraeume-durch-schuldenbremse-reform](https://www.spiegel.de/politik/finanzpolitik-schwarz-rot-plant-neue-spielraeume-durch-schuldenbremse-reform-a-48b6c7cc-dbb9-450d-b223-f7f8cebcaa99#ref=rss)
+### ursula
+
+* [https://www.spiegel.de/politik/deutschland/ursula-von-der-leyen-macht-frueheren-spitzengruenen-zu-ihrem-top-berater](https://www.spiegel.de/politik/deutschland/ursula-von-der-leyen-macht-frueheren-spitzengruenen-zu-ihrem-top-berater-a-9fce4b55-ef51-4d89-bb44-fd4acaad1fd3#ref=rss)
+### leyen
+
+* [https://www.spiegel.de/politik/deutschland/ursula-von-der-leyen-macht-frueheren-spitzengruenen-zu-ihrem-top-berater](https://www.spiegel.de/politik/deutschland/ursula-von-der-leyen-macht-frueheren-spitzengruenen-zu-ihrem-top-berater-a-9fce4b55-ef51-4d89-bb44-fd4acaad1fd3#ref=rss)
+### macht
+
+* [https://www.spiegel.de/politik/deutschland/ursula-von-der-leyen-macht-frueheren-spitzengruenen-zu-ihrem-top-berater](https://www.spiegel.de/politik/deutschland/ursula-von-der-leyen-macht-frueheren-spitzengruenen-zu-ihrem-top-berater-a-9fce4b55-ef51-4d89-bb44-fd4acaad1fd3#ref=rss)
+* [https://www.spiegel.de/politik/finanzpolitik-schwarz-rot-plant-neue-spielraeume-durch-schuldenbremse-reform](https://www.spiegel.de/politik/finanzpolitik-schwarz-rot-plant-neue-spielraeume-durch-schuldenbremse-reform-a-48b6c7cc-dbb9-450d-b223-f7f8cebcaa99#ref=rss)
+### china
+
+* [https://www.spiegel.de/ausland/europa-und-donald-trump-fuer-china-sortieren-sich-die-karten-perfekt-sagt-sinologin-janka-oertel](https://www.spiegel.de/ausland/europa-und-donald-trump-fuer-china-sortieren-sich-die-karten-perfekt-sagt-sinologin-janka-oertel-a-83a5dc30-b845-4f13-8f23-7a2f5469fa16#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/ausland/europa-und-donald-trump-fuer-china-sortieren-sich-die-karten-perfekt-sagt-sinologin-janka-oertel](https://www.spiegel.de/ausland/europa-und-donald-trump-fuer-china-sortieren-sich-die-karten-perfekt-sagt-sinologin-janka-oertel-a-83a5dc30-b845-4f13-8f23-7a2f5469fa16#ref=rss)
+### sinologin
+
+* [https://www.spiegel.de/ausland/europa-und-donald-trump-fuer-china-sortieren-sich-die-karten-perfekt-sagt-sinologin-janka-oertel](https://www.spiegel.de/ausland/europa-und-donald-trump-fuer-china-sortieren-sich-die-karten-perfekt-sagt-sinologin-janka-oertel-a-83a5dc30-b845-4f13-8f23-7a2f5469fa16#ref=rss)
+### janka
+
+* [https://www.spiegel.de/ausland/europa-und-donald-trump-fuer-china-sortieren-sich-die-karten-perfekt-sagt-sinologin-janka-oertel](https://www.spiegel.de/ausland/europa-und-donald-trump-fuer-china-sortieren-sich-die-karten-perfekt-sagt-sinologin-janka-oertel-a-83a5dc30-b845-4f13-8f23-7a2f5469fa16#ref=rss)
+### oertel
+
+* [https://www.spiegel.de/ausland/europa-und-donald-trump-fuer-china-sortieren-sich-die-karten-perfekt-sagt-sinologin-janka-oertel](https://www.spiegel.de/ausland/europa-und-donald-trump-fuer-china-sortieren-sich-die-karten-perfekt-sagt-sinologin-janka-oertel-a-83a5dc30-b845-4f13-8f23-7a2f5469fa16#ref=rss)
+### serbien
+
+* [https://www.spiegel.de/wissenschaft/technik/serbien-was-ist-die-schallwaffe-und-wie-funktioniert-sie](https://www.spiegel.de/wissenschaft/technik/serbien-was-ist-die-schallwaffe-und-wie-funktioniert-sie-a-487a3410-abac-44ce-a3eb-0102b213a491#ref=rss)
+### schallwaffe
+
+* [https://www.spiegel.de/wissenschaft/technik/serbien-was-ist-die-schallwaffe-und-wie-funktioniert-sie](https://www.spiegel.de/wissenschaft/technik/serbien-was-ist-die-schallwaffe-und-wie-funktioniert-sie-a-487a3410-abac-44ce-a3eb-0102b213a491#ref=rss)
+### bekannt
+
+* [https://www.spiegel.de/wissenschaft/technik/serbien-was-ist-die-schallwaffe-und-wie-funktioniert-sie](https://www.spiegel.de/wissenschaft/technik/serbien-was-ist-die-schallwaffe-und-wie-funktioniert-sie-a-487a3410-abac-44ce-a3eb-0102b213a491#ref=rss)
+* [https://www.spiegel.de/kultur/musik/anna-r-saengerin-der-band-rosenstolz-unerwartet-gestorben](https://www.spiegel.de/kultur/musik/anna-r-saengerin-der-band-rosenstolz-unerwartet-gestorben-a-029f4992-fa53-4cf8-82e2-66701c4c14f7#ref=rss)
+### oscars
+
+* [https://www.spiegel.de/kultur/kino/conan-obrien-komiker-moderiert-auch-2026-die-oscars](https://www.spiegel.de/kultur/kino/conan-obrien-komiker-moderiert-auch-2026-die-oscars-a-3c22b331-c161-4f92-a101-9a3d581ecfd7#ref=rss)
+### conan
+
+* [https://www.spiegel.de/kultur/kino/conan-obrien-komiker-moderiert-auch-2026-die-oscars](https://www.spiegel.de/kultur/kino/conan-obrien-komiker-moderiert-auch-2026-die-oscars-a-3c22b331-c161-4f92-a101-9a3d581ecfd7#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/kultur/kino/conan-obrien-komiker-moderiert-auch-2026-die-oscars](https://www.spiegel.de/kultur/kino/conan-obrien-komiker-moderiert-auch-2026-die-oscars-a-3c22b331-c161-4f92-a101-9a3d581ecfd7#ref=rss)
+* [https://www.spiegel.de/politik/finanzpolitik-schwarz-rot-plant-neue-spielraeume-durch-schuldenbremse-reform](https://www.spiegel.de/politik/finanzpolitik-schwarz-rot-plant-neue-spielraeume-durch-schuldenbremse-reform-a-48b6c7cc-dbb9-450d-b223-f7f8cebcaa99#ref=rss)
+### stehen
+
+* [https://www.spiegel.de/kultur/kino/conan-obrien-komiker-moderiert-auch-2026-die-oscars](https://www.spiegel.de/kultur/kino/conan-obrien-komiker-moderiert-auch-2026-die-oscars-a-3c22b331-c161-4f92-a101-9a3d581ecfd7#ref=rss)
+* [https://www.spiegel.de/politik/finanzpolitik-schwarz-rot-plant-neue-spielraeume-durch-schuldenbremse-reform](https://www.spiegel.de/politik/finanzpolitik-schwarz-rot-plant-neue-spielraeume-durch-schuldenbremse-reform-a-48b6c7cc-dbb9-450d-b223-f7f8cebcaa99#ref=rss)
+### herne
+
+* [https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-polizei-erschiesst-mutmasslichen-messerangreifer-in-herne](https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-polizei-erschiesst-mutmasslichen-messerangreifer-in-herne-a-8249b036-319b-4dff-bcce-199a561819d2#ref=rss)
+### afd
+
+* [https://www.spiegel.de/politik/deutschland/afd-baerbel-bas-lehnt-vorstoss-zur-raschen-einberufung-des-neuen-bundestags-ab](https://www.spiegel.de/politik/deutschland/afd-baerbel-bas-lehnt-vorstoss-zur-raschen-einberufung-des-neuen-bundestags-ab-a-1294caeb-f63c-4d75-b8ea-f641d4b4d579#ref=rss)
+### bärbel
+
+* [https://www.spiegel.de/politik/deutschland/afd-baerbel-bas-lehnt-vorstoss-zur-raschen-einberufung-des-neuen-bundestags-ab](https://www.spiegel.de/politik/deutschland/afd-baerbel-bas-lehnt-vorstoss-zur-raschen-einberufung-des-neuen-bundestags-ab-a-1294caeb-f63c-4d75-b8ea-f641d4b4d579#ref=rss)
+### bas
+
+* [https://www.spiegel.de/politik/deutschland/afd-baerbel-bas-lehnt-vorstoss-zur-raschen-einberufung-des-neuen-bundestags-ab](https://www.spiegel.de/politik/deutschland/afd-baerbel-bas-lehnt-vorstoss-zur-raschen-einberufung-des-neuen-bundestags-ab-a-1294caeb-f63c-4d75-b8ea-f641d4b4d579#ref=rss)
+### microsoft
+
+* [https://www.spiegel.de/netzwelt/apps/windows-update-microsoft-deinstalliert-aus-versehen-copilot-app](https://www.spiegel.de/netzwelt/apps/windows-update-microsoft-deinstalliert-aus-versehen-copilot-app-a-8e4b931e-aa4b-4969-9a56-acc102c95314#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-das-gegenmittel-fuer-russlands-gefaehrlichste-waffe](https://www.spiegel.de/ausland/krieg-in-der-ukraine-das-gegenmittel-fuer-russlands-gefaehrlichste-waffe-a-a268a74c-eebf-4afc-84e4-7e395336c9dc#ref=rss)
+### frau
+
+* [https://www.spiegel.de/panorama/justiz/osnabrueck-frau-gibt-sich-als-aerztin-aus-gericht-ordnet-unterbringung-in-psychiatrie-an](https://www.spiegel.de/panorama/justiz/osnabrueck-frau-gibt-sich-als-aerztin-aus-gericht-ordnet-unterbringung-in-psychiatrie-an-a-44404972-7bc3-4701-b8bd-f8199dc5253f#ref=rss)
+### psychiatrie
+
+* [https://www.spiegel.de/panorama/justiz/osnabrueck-frau-gibt-sich-als-aerztin-aus-gericht-ordnet-unterbringung-in-psychiatrie-an](https://www.spiegel.de/panorama/justiz/osnabrueck-frau-gibt-sich-als-aerztin-aus-gericht-ordnet-unterbringung-in-psychiatrie-an-a-44404972-7bc3-4701-b8bd-f8199dc5253f#ref=rss)
 
