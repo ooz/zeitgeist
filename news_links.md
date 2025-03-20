@@ -4,319 +4,356 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### annalena
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-einreisebestimmung-annalena-baerbock-zur-uno-ekrem-imamoglu-verhaftet](https://www.spiegel.de/politik/deutschland/news-des-tages-us-einreisebestimmung-annalena-baerbock-zur-uno-ekrem-imamoglu-verhaftet-a-432c0786-0fb1-4b5e-8e0d-25fafc5f2216#ref=rss)
-* [https://www.spiegel.de/politik/annalena-baerbock-gruenen-politikerin-verteidigt-geplanten-wechsel-zur-uno-in-new-york](https://www.spiegel.de/politik/annalena-baerbock-gruenen-politikerin-verteidigt-geplanten-wechsel-zur-uno-in-new-york-a-414ac2c1-f963-4545-94b9-aee2d3fcc3c7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-die-welt-braucht-mehr-weiblichen-egoismus](https://www.spiegel.de/politik/deutschland/annalena-baerbock-die-welt-braucht-mehr-weiblichen-egoismus-a-c8fe3422-abc2-4302-9707-10a1ccf80426#ref=rss)
-### baerbock
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-einreisebestimmung-annalena-baerbock-zur-uno-ekrem-imamoglu-verhaftet](https://www.spiegel.de/politik/deutschland/news-des-tages-us-einreisebestimmung-annalena-baerbock-zur-uno-ekrem-imamoglu-verhaftet-a-432c0786-0fb1-4b5e-8e0d-25fafc5f2216#ref=rss)
-* [https://www.spiegel.de/politik/annalena-baerbock-gruenen-politikerin-verteidigt-geplanten-wechsel-zur-uno-in-new-york](https://www.spiegel.de/politik/annalena-baerbock-gruenen-politikerin-verteidigt-geplanten-wechsel-zur-uno-in-new-york-a-414ac2c1-f963-4545-94b9-aee2d3fcc3c7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-die-welt-braucht-mehr-weiblichen-egoismus](https://www.spiegel.de/politik/deutschland/annalena-baerbock-die-welt-braucht-mehr-weiblichen-egoismus-a-c8fe3422-abc2-4302-9707-10a1ccf80426#ref=rss)
-### i̇mamoğlu
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-einreisebestimmung-annalena-baerbock-zur-uno-ekrem-imamoglu-verhaftet](https://www.spiegel.de/politik/deutschland/news-des-tages-us-einreisebestimmung-annalena-baerbock-zur-uno-ekrem-imamoglu-verhaftet-a-432c0786-0fb1-4b5e-8e0d-25fafc5f2216#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-festnahme-des-erdogan-rivalen-ekrem-imamoglu-putsch-von-oben](https://www.spiegel.de/ausland/tuerkei-festnahme-des-erdogan-rivalen-ekrem-imamoglu-putsch-von-oben-a-53798a4a-8254-4495-a7e3-68851382e018#ref=rss)
-### trump
-
-* [https://www.spiegel.de/kultur/trump-und-die-abschiebungen-faschistoides-daumenkino](https://www.spiegel.de/kultur/trump-und-die-abschiebungen-faschistoides-daumenkino-a-9d93d9a3-042f-4e5a-a0ce-3146a1a8c280#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-schickt-venezolaner-nach-el-salvador-abgeschoben-in-den-gefuerchtetsten-knast-lateinamerikas](https://www.spiegel.de/ausland/donald-trump-schickt-venezolaner-nach-el-salvador-abgeschoben-in-den-gefuerchtetsten-knast-lateinamerikas-a-f97c6430-7712-48c7-b03a-ca614909ab51#ref=rss)
-* [https://www.spiegel.de/ausland/trump-sparplaene-was-das-aus-von-voice-of-america-und-radio-free-europe-bedeuten-wuerde](https://www.spiegel.de/ausland/trump-sparplaene-was-das-aus-von-voice-of-america-und-radio-free-europe-bedeuten-wuerde-a-3a287a45-9b0f-495d-8dac-6a4972512e07#ref=rss)
-### euro
-
-* [https://www.spiegel.de/panorama/justiz/essen-hochschulmitarbeiterin-der-universitaet-duisburg-essen-wegen-erkaufter-noten-vor-gericht](https://www.spiegel.de/panorama/justiz/essen-hochschulmitarbeiterin-der-universitaet-duisburg-essen-wegen-erkaufter-noten-vor-gericht-a-27fefd74-3232-438e-acec-590074535e95#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/stuttgart-unbekannte-betrueger-ergaunern-160-000-bargeld-von-rentner](https://www.spiegel.de/panorama/justiz/stuttgart-unbekannte-betrueger-ergaunern-160-000-bargeld-von-rentner-a-c8136361-574d-45fd-989f-bfaab4806c9a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/ex-fussballprofi-kevin-kuranyi-ueberrascht-einbrecher-in-seinem-haus](https://www.spiegel.de/sport/fussball/ex-fussballprofi-kevin-kuranyi-ueberrascht-einbrecher-in-seinem-haus-a-9105dc69-0ce6-4419-8b5b-916997285ad4#ref=rss)
-### neue
-
-* [https://www.spiegel.de/ausland/gaza-krieg-israel-startet-neue-bodenoffensive-im-nezarim-korridor](https://www.spiegel.de/ausland/gaza-krieg-israel-startet-neue-bodenoffensive-im-nezarim-korridor-a-92f24f5a-8404-4cf8-9d44-4e19b8fac5e3#ref=rss)
-* [https://www.spiegel.de/ausland/israel-tausende-protestieren-in-jerusalem-gegen-netanyahu-politik](https://www.spiegel.de/ausland/israel-tausende-protestieren-in-jerusalem-gegen-netanyahu-politik-a-70b5b5ff-c1e7-4856-b233-d19c618d28d9#ref=rss)
-* [https://www.spiegel.de/kultur/neue-documenta-chefin-naomi-beckwith-queen-of-kassel](https://www.spiegel.de/kultur/neue-documenta-chefin-naomi-beckwith-queen-of-kassel-a-e533f7e4-5a62-4450-a1b6-acadfeb02552#ref=rss)
-### ekrem
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-einreisebestimmung-annalena-baerbock-zur-uno-ekrem-imamoglu-verhaftet](https://www.spiegel.de/politik/deutschland/news-des-tages-us-einreisebestimmung-annalena-baerbock-zur-uno-ekrem-imamoglu-verhaftet-a-432c0786-0fb1-4b5e-8e0d-25fafc5f2216#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-festnahme-des-erdogan-rivalen-ekrem-imamoglu-putsch-von-oben](https://www.spiegel.de/ausland/tuerkei-festnahme-des-erdogan-rivalen-ekrem-imamoglu-putsch-von-oben-a-53798a4a-8254-4495-a7e3-68851382e018#ref=rss)
 ### deutsche
 
-* [https://www.spiegel.de/wirtschaft/service/deutsche-bank-kuendigt-abbau-von-fast-2000-stellen-an](https://www.spiegel.de/wirtschaft/service/deutsche-bank-kuendigt-abbau-von-fast-2000-stellen-an-a-2ac9fd37-0eda-44fa-a95f-3d55236b129f#ref=rss)
-* [https://www.spiegel.de/politik/annalena-baerbock-gruenen-politikerin-verteidigt-geplanten-wechsel-zur-uno-in-new-york](https://www.spiegel.de/politik/annalena-baerbock-gruenen-politikerin-verteidigt-geplanten-wechsel-zur-uno-in-new-york-a-414ac2c1-f963-4545-94b9-aee2d3fcc3c7#ref=rss)
-### haus
+* [https://www.spiegel.de/wirtschaft/deutsche-winzer-erzeugen-deutlich-weniger-wein](https://www.spiegel.de/wirtschaft/deutsche-winzer-erzeugen-deutlich-weniger-wein-a-3f68b2f7-4ed1-49e5-b542-70a7fa70fbba#ref=rss)
+* [https://www.spiegel.de/wirtschaft/autobranche-deutsche-hersteller-exportieren-wieder-mehr-autos](https://www.spiegel.de/wirtschaft/autobranche-deutsche-hersteller-exportieren-wieder-mehr-autos-a-b71e9b9b-dd4a-4e6e-ac30-abeeec37acee#ref=rss)
+* [https://www.spiegel.de/sport/olympia/ioc-kim-bui-ueber-ihre-rolle-bei-der-wahl-des-neuen-praesidenten](https://www.spiegel.de/sport/olympia/ioc-kim-bui-ueber-ihre-rolle-bei-der-wahl-des-neuen-praesidenten-a-31004c42-2356-481a-97db-ff61cb45dab8#ref=rss)
+* [https://www.spiegel.de/politik/syrien-aussenmininsterin-annalena-baerbock-eroeffnet-deutsche-botschaft-erneut](https://www.spiegel.de/politik/syrien-aussenmininsterin-annalena-baerbock-eroeffnet-deutsche-botschaft-erneut-a-4bbb014d-7b17-4fcb-9ea9-fa405c0af854#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-umwelttechnik-start-ups-bei-investoren-begehrt](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-umwelttechnik-start-ups-bei-investoren-begehrt-a-a80d0520-ac63-4e8d-a953-a4033da71195#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/medikamenten-missbrauch-wie-deutsche-behoerden-in-der-opioid-kontrolle-versagen](https://www.spiegel.de/panorama/gesellschaft/medikamenten-missbrauch-wie-deutsche-behoerden-in-der-opioid-kontrolle-versagen-a-b4ef9e90-5d8c-44bb-9170-3c8d519ed432#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/kultur/trump-und-die-abschiebungen-faschistoides-daumenkino](https://www.spiegel.de/kultur/trump-und-die-abschiebungen-faschistoides-daumenkino-a-9d93d9a3-042f-4e5a-a0ce-3146a1a8c280#ref=rss)
-* [https://www.spiegel.de/sport/fussball/ex-fussballprofi-kevin-kuranyi-ueberrascht-einbrecher-in-seinem-haus](https://www.spiegel.de/sport/fussball/ex-fussballprofi-kevin-kuranyi-ueberrascht-einbrecher-in-seinem-haus-a-9105dc69-0ce6-4419-8b5b-916997285ad4#ref=rss)
-### donald
+* [https://www.spiegel.de/netzwelt/apps/meta-ki-chatbot-startet-in-deutschland-auf-instagram-facebook-und-whatsapp](https://www.spiegel.de/netzwelt/apps/meta-ki-chatbot-startet-in-deutschland-auf-instagram-facebook-und-whatsapp-a-00ef085b-86a0-488b-9e82-cf9396058653#ref=rss)
+* [https://www.spiegel.de/karriere/mittagspause-in-deutschland-darf-ich-mittags-machen-was-ich-moechte](https://www.spiegel.de/karriere/mittagspause-in-deutschland-darf-ich-mittags-machen-was-ich-moechte-a-1d96db1a-258e-435b-bd6d-a51476cc837f#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/nationaler-diskriminierungs-und-rassismusmonitor-rassismus-erfahrungen-im-alltag-weit-verbreitet](https://www.spiegel.de/panorama/gesellschaft/nationaler-diskriminierungs-und-rassismusmonitor-rassismus-erfahrungen-im-alltag-weit-verbreitet-a-65e1f5d6-5e38-418d-a90f-e81d830637f3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/stromkosten-bdi-fordert-guenstigere-planung-der-energiewende-in-deutschland](https://www.spiegel.de/wirtschaft/stromkosten-bdi-fordert-guenstigere-planung-der-energiewende-in-deutschland-a-3ec125cd-ea67-4b5a-a7b8-d39ec4b37a94#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-umwelttechnik-start-ups-bei-investoren-begehrt](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-umwelttechnik-start-ups-bei-investoren-begehrt-a-a80d0520-ac63-4e8d-a953-a4033da71195#ref=rss)
+* [https://www.spiegel.de/sport/olympia/ioc-wahl-zum-neuen-praesidenten-die-wichtigsten-fragen-und-antworten](https://www.spiegel.de/sport/olympia/ioc-wahl-zum-neuen-praesidenten-die-wichtigsten-fragen-und-antworten-a-393f7e3f-68b0-403b-a2dd-7e47cdf38e8c#ref=rss)
+### neue
 
-* [https://www.spiegel.de/ausland/donald-trump-schickt-venezolaner-nach-el-salvador-abgeschoben-in-den-gefuerchtetsten-knast-lateinamerikas](https://www.spiegel.de/ausland/donald-trump-schickt-venezolaner-nach-el-salvador-abgeschoben-in-den-gefuerchtetsten-knast-lateinamerikas-a-f97c6430-7712-48c7-b03a-ca614909ab51#ref=rss)
-* [https://www.spiegel.de/ausland/trump-sparplaene-was-das-aus-von-voice-of-america-und-radio-free-europe-bedeuten-wuerde](https://www.spiegel.de/ausland/trump-sparplaene-was-das-aus-von-voice-of-america-und-radio-free-europe-bedeuten-wuerde-a-3a287a45-9b0f-495d-8dac-6a4972512e07#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-israel-fliegt-neue-angriffe-auf-hamas-offenbar-viele-tote-in-gaza](https://www.spiegel.de/ausland/israel-gaza-krieg-israel-fliegt-neue-angriffe-auf-hamas-offenbar-viele-tote-in-gaza-a-f8a9239e-72b3-4499-8e3b-eb8854fc2bb0#ref=rss)
+* [https://www.spiegel.de/kultur/kino/disney-realverfilmung-schneewittchen-trifft-auf-aktivisten-statt-prinzen](https://www.spiegel.de/kultur/kino/disney-realverfilmung-schneewittchen-trifft-auf-aktivisten-statt-prinzen-a-34e52eed-108a-4f45-a885-037b77cb1d0a#ref=rss)
+* [https://www.spiegel.de/sport/olympia/ioc-kim-bui-ueber-ihre-rolle-bei-der-wahl-des-neuen-praesidenten](https://www.spiegel.de/sport/olympia/ioc-kim-bui-ueber-ihre-rolle-bei-der-wahl-des-neuen-praesidenten-a-31004c42-2356-481a-97db-ff61cb45dab8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/rwe-kuerzt-investitionen-um-zehn-milliarden-euro](https://www.spiegel.de/wirtschaft/unternehmen/rwe-kuerzt-investitionen-um-zehn-milliarden-euro-a-88009312-ffdd-418e-892e-fec02888f4cb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/stromkosten-bdi-fordert-guenstigere-planung-der-energiewende-in-deutschland](https://www.spiegel.de/wirtschaft/stromkosten-bdi-fordert-guenstigere-planung-der-energiewende-in-deutschland-a-3ec125cd-ea67-4b5a-a7b8-d39ec4b37a94#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/zf-autozulieferer-meldet-milliardenverlust](https://www.spiegel.de/wirtschaft/unternehmen/zf-autozulieferer-meldet-milliardenverlust-a-b713d4aa-2551-4e9a-918f-cdfdcb1f88be#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-winzer-erzeugen-deutlich-weniger-wein](https://www.spiegel.de/wirtschaft/deutsche-winzer-erzeugen-deutlich-weniger-wein-a-3f68b2f7-4ed1-49e5-b542-70a7fa70fbba#ref=rss)
+* [https://www.spiegel.de/wirtschaft/autobranche-deutsche-hersteller-exportieren-wieder-mehr-autos](https://www.spiegel.de/wirtschaft/autobranche-deutsche-hersteller-exportieren-wieder-mehr-autos-a-b71e9b9b-dd4a-4e6e-ac30-abeeec37acee#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-eddie-jordan-ist-tot](https://www.spiegel.de/sport/formel1/formel-1-eddie-jordan-ist-tot-a-f6e1fb4e-cece-4142-87e3-39d7a082d05a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/rwe-kuerzt-investitionen-um-zehn-milliarden-euro](https://www.spiegel.de/wirtschaft/unternehmen/rwe-kuerzt-investitionen-um-zehn-milliarden-euro-a-88009312-ffdd-418e-892e-fec02888f4cb#ref=rss)
+### ich
+
+* [https://www.spiegel.de/karriere/mittagspause-in-deutschland-darf-ich-mittags-machen-was-ich-moechte](https://www.spiegel.de/karriere/mittagspause-in-deutschland-darf-ich-mittags-machen-was-ich-moechte-a-1d96db1a-258e-435b-bd6d-a51476cc837f#ref=rss)
+### weniger
+
+* [https://www.spiegel.de/wirtschaft/deutsche-winzer-erzeugen-deutlich-weniger-wein](https://www.spiegel.de/wirtschaft/deutsche-winzer-erzeugen-deutlich-weniger-wein-a-3f68b2f7-4ed1-49e5-b542-70a7fa70fbba#ref=rss)
+* [https://www.spiegel.de/wirtschaft/autobranche-deutsche-hersteller-exportieren-wieder-mehr-autos](https://www.spiegel.de/wirtschaft/autobranche-deutsche-hersteller-exportieren-wieder-mehr-autos-a-b71e9b9b-dd4a-4e6e-ac30-abeeec37acee#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/rwe-kuerzt-investitionen-um-zehn-milliarden-euro](https://www.spiegel.de/wirtschaft/unternehmen/rwe-kuerzt-investitionen-um-zehn-milliarden-euro-a-88009312-ffdd-418e-892e-fec02888f4cb#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/sport/olympia/ioc-wahl-zum-neuen-praesidenten-die-wichtigsten-fragen-und-antworten](https://www.spiegel.de/sport/olympia/ioc-wahl-zum-neuen-praesidenten-die-wichtigsten-fragen-und-antworten-a-393f7e3f-68b0-403b-a2dd-7e47cdf38e8c#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/ausland/donald-trump-schickt-venezolaner-nach-el-salvador-abgeschoben-in-den-gefuerchtetsten-knast-lateinamerikas](https://www.spiegel.de/ausland/donald-trump-schickt-venezolaner-nach-el-salvador-abgeschoben-in-den-gefuerchtetsten-knast-lateinamerikas-a-f97c6430-7712-48c7-b03a-ca614909ab51#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-die-welt-braucht-mehr-weiblichen-egoismus](https://www.spiegel.de/politik/deutschland/annalena-baerbock-die-welt-braucht-mehr-weiblichen-egoismus-a-c8fe3422-abc2-4302-9707-10a1ccf80426#ref=rss)
-### gericht
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-israel-fliegt-neue-angriffe-auf-hamas-offenbar-viele-tote-in-gaza](https://www.spiegel.de/ausland/israel-gaza-krieg-israel-fliegt-neue-angriffe-auf-hamas-offenbar-viele-tote-in-gaza-a-f8a9239e-72b3-4499-8e3b-eb8854fc2bb0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/autobranche-deutsche-hersteller-exportieren-wieder-mehr-autos](https://www.spiegel.de/wirtschaft/autobranche-deutsche-hersteller-exportieren-wieder-mehr-autos-a-b71e9b9b-dd4a-4e6e-ac30-abeeec37acee#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/panorama/justiz/essen-hochschulmitarbeiterin-der-universitaet-duisburg-essen-wegen-erkaufter-noten-vor-gericht](https://www.spiegel.de/panorama/justiz/essen-hochschulmitarbeiterin-der-universitaet-duisburg-essen-wegen-erkaufter-noten-vor-gericht-a-27fefd74-3232-438e-acec-590074535e95#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-gericht-ordnet-einziehung-von-58-clanimmobilien-an](https://www.spiegel.de/panorama/justiz/berlin-gericht-ordnet-einziehung-von-58-clanimmobilien-an-a-adb611d1-e1b5-49a6-a6ef-749c9ca7cf52#ref=rss)
-### eigentlich
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-israel-fliegt-neue-angriffe-auf-hamas-offenbar-viele-tote-in-gaza](https://www.spiegel.de/ausland/israel-gaza-krieg-israel-fliegt-neue-angriffe-auf-hamas-offenbar-viele-tote-in-gaza-a-f8a9239e-72b3-4499-8e3b-eb8854fc2bb0#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/nationaler-diskriminierungs-und-rassismusmonitor-rassismus-erfahrungen-im-alltag-weit-verbreitet](https://www.spiegel.de/panorama/gesellschaft/nationaler-diskriminierungs-und-rassismusmonitor-rassismus-erfahrungen-im-alltag-weit-verbreitet-a-65e1f5d6-5e38-418d-a90f-e81d830637f3#ref=rss)
+* [https://www.spiegel.de/ausland/tuerkei-baufirma-ekrem-imamoglu-beschlagnahmt](https://www.spiegel.de/ausland/tuerkei-baufirma-ekrem-imamoglu-beschlagnahmt-a-6e5bf72d-8a57-4c74-acf7-cc77493c76a9#ref=rss)
+### gestorben
 
-* [https://www.spiegel.de/wissenschaft/natur/london-zoo-rettet-darwins-froesche-per-schiff-und-flieger](https://www.spiegel.de/wissenschaft/natur/london-zoo-rettet-darwins-froesche-per-schiff-und-flieger-a-6be212ae-6ee4-4eee-9ca7-07940e47a58b#ref=rss)
-* [https://www.spiegel.de/panorama/iss-astronauten-butch-wilmore-und-suni-williams-nach-286-tagen-im-all-von-delfinen-begruesst](https://www.spiegel.de/panorama/iss-astronauten-butch-wilmore-und-suni-williams-nach-286-tagen-im-all-von-delfinen-begruesst-a-72ded527-edad-403b-8c28-819d04653507#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/stuttgart-unbekannte-betrueger-ergaunern-160-000-bargeld-von-rentner](https://www.spiegel.de/panorama/justiz/stuttgart-unbekannte-betrueger-ergaunern-160-000-bargeld-von-rentner-a-c8136361-574d-45fd-989f-bfaab4806c9a#ref=rss)
-### israel
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-israel-fliegt-neue-angriffe-auf-hamas-offenbar-viele-tote-in-gaza](https://www.spiegel.de/ausland/israel-gaza-krieg-israel-fliegt-neue-angriffe-auf-hamas-offenbar-viele-tote-in-gaza-a-f8a9239e-72b3-4499-8e3b-eb8854fc2bb0#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-eddie-jordan-ist-tot](https://www.spiegel.de/sport/formel1/formel-1-eddie-jordan-ist-tot-a-f6e1fb4e-cece-4142-87e3-39d7a082d05a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-chinesischer-nachwuchsfussballer-guo-jiaxuan-stirbt-nach-verletzung-im-training](https://www.spiegel.de/sport/fussball/fussball-chinesischer-nachwuchsfussballer-guo-jiaxuan-stirbt-nach-verletzung-im-training-a-74dde799-a798-40f7-8aac-7e2d4df8667f#ref=rss)
+### schneewittchen
 
-* [https://www.spiegel.de/ausland/gaza-krieg-israel-startet-neue-bodenoffensive-im-nezarim-korridor](https://www.spiegel.de/ausland/gaza-krieg-israel-startet-neue-bodenoffensive-im-nezarim-korridor-a-92f24f5a-8404-4cf8-9d44-4e19b8fac5e3#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-uno-mitarbeiter-bei-angriff-auf-unops-mission-getoetet](https://www.spiegel.de/ausland/israel-gaza-krieg-uno-mitarbeiter-bei-angriff-auf-unops-mission-getoetet-a-1712ce2d-205e-44cd-acfd-d910195046f3#ref=rss)
-* [https://www.spiegel.de/ausland/israel-tausende-protestieren-in-jerusalem-gegen-netanyahu-politik](https://www.spiegel.de/ausland/israel-tausende-protestieren-in-jerusalem-gegen-netanyahu-politik-a-70b5b5ff-c1e7-4856-b233-d19c618d28d9#ref=rss)
-### gazastreifen
+* [https://www.spiegel.de/kultur/kino/disney-realverfilmung-schneewittchen-trifft-auf-aktivisten-statt-prinzen](https://www.spiegel.de/kultur/kino/disney-realverfilmung-schneewittchen-trifft-auf-aktivisten-statt-prinzen-a-34e52eed-108a-4f45-a885-037b77cb1d0a#ref=rss)
+* [https://www.spiegel.de/kultur/kino/rachel-zegler-us-schauspielerin-sollte-beweisen-dass-sie-latina-ist](https://www.spiegel.de/kultur/kino/rachel-zegler-us-schauspielerin-sollte-beweisen-dass-sie-latina-ist-a-cdab4483-f499-4af5-8dd9-314899feb773#ref=rss)
+### china
 
-* [https://www.spiegel.de/ausland/gaza-krieg-israel-startet-neue-bodenoffensive-im-nezarim-korridor](https://www.spiegel.de/ausland/gaza-krieg-israel-startet-neue-bodenoffensive-im-nezarim-korridor-a-92f24f5a-8404-4cf8-9d44-4e19b8fac5e3#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-uno-mitarbeiter-bei-angriff-auf-unops-mission-getoetet](https://www.spiegel.de/ausland/israel-gaza-krieg-uno-mitarbeiter-bei-angriff-auf-unops-mission-getoetet-a-1712ce2d-205e-44cd-acfd-d910195046f3#ref=rss)
-* [https://www.spiegel.de/ausland/israel-tausende-protestieren-in-jerusalem-gegen-netanyahu-politik](https://www.spiegel.de/ausland/israel-tausende-protestieren-in-jerusalem-gegen-netanyahu-politik-a-70b5b5ff-c1e7-4856-b233-d19c618d28d9#ref=rss)
-### erstmals
+* [https://www.spiegel.de/ausland/china-richtet-vier-kanadier-hin-aussenministerin-melanie-joly-uebt-scharfe-kritik](https://www.spiegel.de/ausland/china-richtet-vier-kanadier-hin-aussenministerin-melanie-joly-uebt-scharfe-kritik-a-269438c3-1e66-445f-bc2e-46ea6e6f9f4d#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/politik/deutschland/kooperationen-mit-der-afd-die-brandmauer-steht-aber-nur-zu-81-prozent](https://www.spiegel.de/politik/deutschland/kooperationen-mit-der-afd-die-brandmauer-steht-aber-nur-zu-81-prozent-a-5ee47436-f045-45e5-bc92-67094c614e30#ref=rss)
-* [https://www.spiegel.de/politik/annalena-baerbock-gruenen-politikerin-verteidigt-geplanten-wechsel-zur-uno-in-new-york](https://www.spiegel.de/politik/annalena-baerbock-gruenen-politikerin-verteidigt-geplanten-wechsel-zur-uno-in-new-york-a-414ac2c1-f963-4545-94b9-aee2d3fcc3c7#ref=rss)
-* [https://www.spiegel.de/kultur/neue-documenta-chefin-naomi-beckwith-queen-of-kassel](https://www.spiegel.de/kultur/neue-documenta-chefin-naomi-beckwith-queen-of-kassel-a-e533f7e4-5a62-4450-a1b6-acadfeb02552#ref=rss)
-### wohl
+* [https://www.spiegel.de/ausland/china-richtet-vier-kanadier-hin-aussenministerin-melanie-joly-uebt-scharfe-kritik](https://www.spiegel.de/ausland/china-richtet-vier-kanadier-hin-aussenministerin-melanie-joly-uebt-scharfe-kritik-a-269438c3-1e66-445f-bc2e-46ea6e6f9f4d#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-eddie-jordan-ist-tot](https://www.spiegel.de/sport/formel1/formel-1-eddie-jordan-ist-tot-a-f6e1fb4e-cece-4142-87e3-39d7a082d05a#ref=rss)
+* [https://www.spiegel.de/sport/olympia/ioc-wahl-zum-neuen-praesidenten-die-wichtigsten-fragen-und-antworten](https://www.spiegel.de/sport/olympia/ioc-wahl-zum-neuen-praesidenten-die-wichtigsten-fragen-und-antworten-a-393f7e3f-68b0-403b-a2dd-7e47cdf38e8c#ref=rss)
+### meta
 
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-die-welt-braucht-mehr-weiblichen-egoismus](https://www.spiegel.de/politik/deutschland/annalena-baerbock-die-welt-braucht-mehr-weiblichen-egoismus-a-c8fe3422-abc2-4302-9707-10a1ccf80426#ref=rss)
-* [https://www.spiegel.de/ausland/trump-sparplaene-was-das-aus-von-voice-of-america-und-radio-free-europe-bedeuten-wuerde](https://www.spiegel.de/ausland/trump-sparplaene-was-das-aus-von-voice-of-america-und-radio-free-europe-bedeuten-wuerde-a-3a287a45-9b0f-495d-8dac-6a4972512e07#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-festnahme-des-erdogan-rivalen-ekrem-imamoglu-putsch-von-oben](https://www.spiegel.de/ausland/tuerkei-festnahme-des-erdogan-rivalen-ekrem-imamoglu-putsch-von-oben-a-53798a4a-8254-4495-a7e3-68851382e018#ref=rss)
-### uno
+* [https://www.spiegel.de/netzwelt/apps/meta-ki-chatbot-startet-in-deutschland-auf-instagram-facebook-und-whatsapp](https://www.spiegel.de/netzwelt/apps/meta-ki-chatbot-startet-in-deutschland-auf-instagram-facebook-und-whatsapp-a-00ef085b-86a0-488b-9e82-cf9396058653#ref=rss)
+### medien
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-einreisebestimmung-annalena-baerbock-zur-uno-ekrem-imamoglu-verhaftet](https://www.spiegel.de/politik/deutschland/news-des-tages-us-einreisebestimmung-annalena-baerbock-zur-uno-ekrem-imamoglu-verhaftet-a-432c0786-0fb1-4b5e-8e0d-25fafc5f2216#ref=rss)
-* [https://www.spiegel.de/politik/annalena-baerbock-gruenen-politikerin-verteidigt-geplanten-wechsel-zur-uno-in-new-york](https://www.spiegel.de/politik/annalena-baerbock-gruenen-politikerin-verteidigt-geplanten-wechsel-zur-uno-in-new-york-a-414ac2c1-f963-4545-94b9-aee2d3fcc3c7#ref=rss)
-### festnahme
+* [https://www.spiegel.de/ausland/taiwan-konflikt-bilder-von-moeglichen-chinesischen-landungsschiffen-in-sozialen-medien](https://www.spiegel.de/ausland/taiwan-konflikt-bilder-von-moeglichen-chinesischen-landungsschiffen-in-sozialen-medien-a-524bb58c-f41d-40a8-b859-91ee700d8b66#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-meldet-bislang-groessten-drohnenangriff-im-sueden](https://www.spiegel.de/ausland/ukraine-krieg-russland-meldet-bislang-groessten-drohnenangriff-im-sueden-a-7431bb13-f739-442d-b259-559712471c91#ref=rss)
+### gut
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-einreisebestimmung-annalena-baerbock-zur-uno-ekrem-imamoglu-verhaftet](https://www.spiegel.de/politik/deutschland/news-des-tages-us-einreisebestimmung-annalena-baerbock-zur-uno-ekrem-imamoglu-verhaftet-a-432c0786-0fb1-4b5e-8e0d-25fafc5f2216#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-festnahme-des-erdogan-rivalen-ekrem-imamoglu-putsch-von-oben](https://www.spiegel.de/ausland/tuerkei-festnahme-des-erdogan-rivalen-ekrem-imamoglu-putsch-von-oben-a-53798a4a-8254-4495-a7e3-68851382e018#ref=rss)
-### usa
+* [https://www.spiegel.de/netzwelt/apps/populaere-tiktok-videos-zu-adhs-enthalten-oft-fehlinformationen](https://www.spiegel.de/netzwelt/apps/populaere-tiktok-videos-zu-adhs-enthalten-oft-fehlinformationen-a-f4014449-50a0-4334-9a65-46752d988e5b#ref=rss)
+* [https://www.spiegel.de/auto/kindersitze-fuers-fahrrad-stiftung-warentest-bewertet-acht-modelle-mit-gut](https://www.spiegel.de/auto/kindersitze-fuers-fahrrad-stiftung-warentest-bewertet-acht-modelle-mit-gut-a-7af3a7a8-8a90-4a07-be19-120e34386dc5#ref=rss)
+### wahl
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-einreisebestimmung-annalena-baerbock-zur-uno-ekrem-imamoglu-verhaftet](https://www.spiegel.de/politik/deutschland/news-des-tages-us-einreisebestimmung-annalena-baerbock-zur-uno-ekrem-imamoglu-verhaftet-a-432c0786-0fb1-4b5e-8e0d-25fafc5f2216#ref=rss)
-* [https://www.spiegel.de/ausland/trump-sparplaene-was-das-aus-von-voice-of-america-und-radio-free-europe-bedeuten-wuerde](https://www.spiegel.de/ausland/trump-sparplaene-was-das-aus-von-voice-of-america-und-radio-free-europe-bedeuten-wuerde-a-3a287a45-9b0f-495d-8dac-6a4972512e07#ref=rss)
-### bank
+* [https://www.spiegel.de/sport/olympia/ioc-kim-bui-ueber-ihre-rolle-bei-der-wahl-des-neuen-praesidenten](https://www.spiegel.de/sport/olympia/ioc-kim-bui-ueber-ihre-rolle-bei-der-wahl-des-neuen-praesidenten-a-31004c42-2356-481a-97db-ff61cb45dab8#ref=rss)
+* [https://www.spiegel.de/sport/olympia/ioc-wahl-zum-neuen-praesidenten-die-wichtigsten-fragen-und-antworten](https://www.spiegel.de/sport/olympia/ioc-wahl-zum-neuen-praesidenten-die-wichtigsten-fragen-und-antworten-a-393f7e3f-68b0-403b-a2dd-7e47cdf38e8c#ref=rss)
+### erdoğan
 
-* [https://www.spiegel.de/wirtschaft/service/deutsche-bank-kuendigt-abbau-von-fast-2000-stellen-an](https://www.spiegel.de/wirtschaft/service/deutsche-bank-kuendigt-abbau-von-fast-2000-stellen-an-a-2ac9fd37-0eda-44fa-a95f-3d55236b129f#ref=rss)
-### fast
+* [https://www.spiegel.de/ausland/tuerkei-baufirma-ekrem-imamoglu-beschlagnahmt](https://www.spiegel.de/ausland/tuerkei-baufirma-ekrem-imamoglu-beschlagnahmt-a-6e5bf72d-8a57-4c74-acf7-cc77493c76a9#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-recep-tayyip-erdogan-wladimir-putin-das-zeitalter-der-straflosigkeit](https://www.spiegel.de/ausland/donald-trump-recep-tayyip-erdogan-wladimir-putin-das-zeitalter-der-straflosigkeit-a-d0331ffe-f3e9-4483-80e8-bab3cbf0b9db#ref=rss)
+### wichtigsten
 
-* [https://www.spiegel.de/wirtschaft/service/deutsche-bank-kuendigt-abbau-von-fast-2000-stellen-an](https://www.spiegel.de/wirtschaft/service/deutsche-bank-kuendigt-abbau-von-fast-2000-stellen-an-a-2ac9fd37-0eda-44fa-a95f-3d55236b129f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/essen-hochschulmitarbeiterin-der-universitaet-duisburg-essen-wegen-erkaufter-noten-vor-gericht](https://www.spiegel.de/panorama/justiz/essen-hochschulmitarbeiterin-der-universitaet-duisburg-essen-wegen-erkaufter-noten-vor-gericht-a-27fefd74-3232-438e-acec-590074535e95#ref=rss)
-### stellen
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/sport/olympia/ioc-wahl-zum-neuen-praesidenten-die-wichtigsten-fragen-und-antworten](https://www.spiegel.de/sport/olympia/ioc-wahl-zum-neuen-praesidenten-die-wichtigsten-fragen-und-antworten-a-393f7e3f-68b0-403b-a2dd-7e47cdf38e8c#ref=rss)
+### hamas
 
-* [https://www.spiegel.de/wirtschaft/service/deutsche-bank-kuendigt-abbau-von-fast-2000-stellen-an](https://www.spiegel.de/wirtschaft/service/deutsche-bank-kuendigt-abbau-von-fast-2000-stellen-an-a-2ac9fd37-0eda-44fa-a95f-3d55236b129f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/paragraf-218-spd-frauen-knuepfen-zustimmung-zu-koalition-an-reform-von-abtreibungsrecht](https://www.spiegel.de/politik/deutschland/paragraf-218-spd-frauen-knuepfen-zustimmung-zu-koalition-an-reform-von-abtreibungsrecht-a-4600bce0-e608-47b0-b04f-31291db297af#ref=rss)
-### vergangenen
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-israel-fliegt-neue-angriffe-auf-hamas-offenbar-viele-tote-in-gaza](https://www.spiegel.de/ausland/israel-gaza-krieg-israel-fliegt-neue-angriffe-auf-hamas-offenbar-viele-tote-in-gaza-a-f8a9239e-72b3-4499-8e3b-eb8854fc2bb0#ref=rss)
+### viele
 
-* [https://www.spiegel.de/wirtschaft/service/deutsche-bank-kuendigt-abbau-von-fast-2000-stellen-an](https://www.spiegel.de/wirtschaft/service/deutsche-bank-kuendigt-abbau-von-fast-2000-stellen-an-a-2ac9fd37-0eda-44fa-a95f-3d55236b129f#ref=rss)
-* [https://www.spiegel.de/panorama/abifeiern-die-kuriosesten-vorfaelle-striptease-popo-kopien-schein-enfuehrung](https://www.spiegel.de/panorama/abifeiern-die-kuriosesten-vorfaelle-striptease-popo-kopien-schein-enfuehrung-a-670f7c0c-cb83-490c-9e5a-f7e870a2ec43#ref=rss)
-### abschiebungen
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-israel-fliegt-neue-angriffe-auf-hamas-offenbar-viele-tote-in-gaza](https://www.spiegel.de/ausland/israel-gaza-krieg-israel-fliegt-neue-angriffe-auf-hamas-offenbar-viele-tote-in-gaza-a-f8a9239e-72b3-4499-8e3b-eb8854fc2bb0#ref=rss)
+* [https://www.spiegel.de/auto/kindersitze-fuers-fahrrad-stiftung-warentest-bewertet-acht-modelle-mit-gut](https://www.spiegel.de/auto/kindersitze-fuers-fahrrad-stiftung-warentest-bewertet-acht-modelle-mit-gut-a-7af3a7a8-8a90-4a07-be19-120e34386dc5#ref=rss)
+### aktivisten
 
-* [https://www.spiegel.de/kultur/trump-und-die-abschiebungen-faschistoides-daumenkino](https://www.spiegel.de/kultur/trump-und-die-abschiebungen-faschistoides-daumenkino-a-9d93d9a3-042f-4e5a-a0ce-3146a1a8c280#ref=rss)
-### politik
+* [https://www.spiegel.de/kultur/kino/disney-realverfilmung-schneewittchen-trifft-auf-aktivisten-statt-prinzen](https://www.spiegel.de/kultur/kino/disney-realverfilmung-schneewittchen-trifft-auf-aktivisten-statt-prinzen-a-34e52eed-108a-4f45-a885-037b77cb1d0a#ref=rss)
+### statt
 
-* [https://www.spiegel.de/kultur/trump-und-die-abschiebungen-faschistoides-daumenkino](https://www.spiegel.de/kultur/trump-und-die-abschiebungen-faschistoides-daumenkino-a-9d93d9a3-042f-4e5a-a0ce-3146a1a8c280#ref=rss)
-* [https://www.spiegel.de/ausland/israel-tausende-protestieren-in-jerusalem-gegen-netanyahu-politik](https://www.spiegel.de/ausland/israel-tausende-protestieren-in-jerusalem-gegen-netanyahu-politik-a-70b5b5ff-c1e7-4856-b233-d19c618d28d9#ref=rss)
-### venezolaner
+* [https://www.spiegel.de/kultur/kino/disney-realverfilmung-schneewittchen-trifft-auf-aktivisten-statt-prinzen](https://www.spiegel.de/kultur/kino/disney-realverfilmung-schneewittchen-trifft-auf-aktivisten-statt-prinzen-a-34e52eed-108a-4f45-a885-037b77cb1d0a#ref=rss)
+### prinzen
 
-* [https://www.spiegel.de/ausland/donald-trump-schickt-venezolaner-nach-el-salvador-abgeschoben-in-den-gefuerchtetsten-knast-lateinamerikas](https://www.spiegel.de/ausland/donald-trump-schickt-venezolaner-nach-el-salvador-abgeschoben-in-den-gefuerchtetsten-knast-lateinamerikas-a-f97c6430-7712-48c7-b03a-ca614909ab51#ref=rss)
-### el
+* [https://www.spiegel.de/kultur/kino/disney-realverfilmung-schneewittchen-trifft-auf-aktivisten-statt-prinzen](https://www.spiegel.de/kultur/kino/disney-realverfilmung-schneewittchen-trifft-auf-aktivisten-statt-prinzen-a-34e52eed-108a-4f45-a885-037b77cb1d0a#ref=rss)
+### ohne
 
-* [https://www.spiegel.de/ausland/donald-trump-schickt-venezolaner-nach-el-salvador-abgeschoben-in-den-gefuerchtetsten-knast-lateinamerikas](https://www.spiegel.de/ausland/donald-trump-schickt-venezolaner-nach-el-salvador-abgeschoben-in-den-gefuerchtetsten-knast-lateinamerikas-a-f97c6430-7712-48c7-b03a-ca614909ab51#ref=rss)
-### salvador
+* [https://www.spiegel.de/kultur/kino/disney-realverfilmung-schneewittchen-trifft-auf-aktivisten-statt-prinzen](https://www.spiegel.de/kultur/kino/disney-realverfilmung-schneewittchen-trifft-auf-aktivisten-statt-prinzen-a-34e52eed-108a-4f45-a885-037b77cb1d0a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/stromkosten-bdi-fordert-guenstigere-planung-der-energiewende-in-deutschland](https://www.spiegel.de/wirtschaft/stromkosten-bdi-fordert-guenstigere-planung-der-energiewende-in-deutschland-a-3ec125cd-ea67-4b5a-a7b8-d39ec4b37a94#ref=rss)
+### deshalb
 
-* [https://www.spiegel.de/ausland/donald-trump-schickt-venezolaner-nach-el-salvador-abgeschoben-in-den-gefuerchtetsten-knast-lateinamerikas](https://www.spiegel.de/ausland/donald-trump-schickt-venezolaner-nach-el-salvador-abgeschoben-in-den-gefuerchtetsten-knast-lateinamerikas-a-f97c6430-7712-48c7-b03a-ca614909ab51#ref=rss)
-### universität
+* [https://www.spiegel.de/kultur/kino/disney-realverfilmung-schneewittchen-trifft-auf-aktivisten-statt-prinzen](https://www.spiegel.de/kultur/kino/disney-realverfilmung-schneewittchen-trifft-auf-aktivisten-statt-prinzen-a-34e52eed-108a-4f45-a885-037b77cb1d0a#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/medikamenten-missbrauch-wie-deutsche-behoerden-in-der-opioid-kontrolle-versagen](https://www.spiegel.de/panorama/gesellschaft/medikamenten-missbrauch-wie-deutsche-behoerden-in-der-opioid-kontrolle-versagen-a-b4ef9e90-5d8c-44bb-9170-3c8d519ed432#ref=rss)
+### vier
 
-* [https://www.spiegel.de/panorama/justiz/essen-hochschulmitarbeiterin-der-universitaet-duisburg-essen-wegen-erkaufter-noten-vor-gericht](https://www.spiegel.de/panorama/justiz/essen-hochschulmitarbeiterin-der-universitaet-duisburg-essen-wegen-erkaufter-noten-vor-gericht-a-27fefd74-3232-438e-acec-590074535e95#ref=rss)
-### duisburgessen
+* [https://www.spiegel.de/ausland/china-richtet-vier-kanadier-hin-aussenministerin-melanie-joly-uebt-scharfe-kritik](https://www.spiegel.de/ausland/china-richtet-vier-kanadier-hin-aussenministerin-melanie-joly-uebt-scharfe-kritik-a-269438c3-1e66-445f-bc2e-46ea6e6f9f4d#ref=rss)
+### kanadier
 
-* [https://www.spiegel.de/panorama/justiz/essen-hochschulmitarbeiterin-der-universitaet-duisburg-essen-wegen-erkaufter-noten-vor-gericht](https://www.spiegel.de/panorama/justiz/essen-hochschulmitarbeiterin-der-universitaet-duisburg-essen-wegen-erkaufter-noten-vor-gericht-a-27fefd74-3232-438e-acec-590074535e95#ref=rss)
-### noten
+* [https://www.spiegel.de/ausland/china-richtet-vier-kanadier-hin-aussenministerin-melanie-joly-uebt-scharfe-kritik](https://www.spiegel.de/ausland/china-richtet-vier-kanadier-hin-aussenministerin-melanie-joly-uebt-scharfe-kritik-a-269438c3-1e66-445f-bc2e-46ea6e6f9f4d#ref=rss)
+### kritik
 
-* [https://www.spiegel.de/panorama/justiz/essen-hochschulmitarbeiterin-der-universitaet-duisburg-essen-wegen-erkaufter-noten-vor-gericht](https://www.spiegel.de/panorama/justiz/essen-hochschulmitarbeiterin-der-universitaet-duisburg-essen-wegen-erkaufter-noten-vor-gericht-a-27fefd74-3232-438e-acec-590074535e95#ref=rss)
+* [https://www.spiegel.de/ausland/china-richtet-vier-kanadier-hin-aussenministerin-melanie-joly-uebt-scharfe-kritik](https://www.spiegel.de/ausland/china-richtet-vier-kanadier-hin-aussenministerin-melanie-joly-uebt-scharfe-kritik-a-269438c3-1e66-445f-bc2e-46ea6e6f9f4d#ref=rss)
+### verweis
+
+* [https://www.spiegel.de/ausland/china-richtet-vier-kanadier-hin-aussenministerin-melanie-joly-uebt-scharfe-kritik](https://www.spiegel.de/ausland/china-richtet-vier-kanadier-hin-aussenministerin-melanie-joly-uebt-scharfe-kritik-a-269438c3-1e66-445f-bc2e-46ea6e6f9f4d#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/meta-ki-chatbot-startet-in-deutschland-auf-instagram-facebook-und-whatsapp](https://www.spiegel.de/netzwelt/apps/meta-ki-chatbot-startet-in-deutschland-auf-instagram-facebook-und-whatsapp-a-00ef085b-86a0-488b-9e82-cf9396058653#ref=rss)
+### instagram
+
+* [https://www.spiegel.de/netzwelt/apps/meta-ki-chatbot-startet-in-deutschland-auf-instagram-facebook-und-whatsapp](https://www.spiegel.de/netzwelt/apps/meta-ki-chatbot-startet-in-deutschland-auf-instagram-facebook-und-whatsapp-a-00ef085b-86a0-488b-9e82-cf9396058653#ref=rss)
+### facebook
+
+* [https://www.spiegel.de/netzwelt/apps/meta-ki-chatbot-startet-in-deutschland-auf-instagram-facebook-und-whatsapp](https://www.spiegel.de/netzwelt/apps/meta-ki-chatbot-startet-in-deutschland-auf-instagram-facebook-und-whatsapp-a-00ef085b-86a0-488b-9e82-cf9396058653#ref=rss)
+### whatsapp
+
+* [https://www.spiegel.de/netzwelt/apps/meta-ki-chatbot-startet-in-deutschland-auf-instagram-facebook-und-whatsapp](https://www.spiegel.de/netzwelt/apps/meta-ki-chatbot-startet-in-deutschland-auf-instagram-facebook-und-whatsapp-a-00ef085b-86a0-488b-9e82-cf9396058653#ref=rss)
+### bisher
+
+* [https://www.spiegel.de/netzwelt/apps/meta-ki-chatbot-startet-in-deutschland-auf-instagram-facebook-und-whatsapp](https://www.spiegel.de/netzwelt/apps/meta-ki-chatbot-startet-in-deutschland-auf-instagram-facebook-und-whatsapp-a-00ef085b-86a0-488b-9e82-cf9396058653#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-meldet-bislang-groessten-drohnenangriff-im-sueden](https://www.spiegel.de/ausland/ukraine-krieg-russland-meldet-bislang-groessten-drohnenangriff-im-sueden-a-7431bb13-f739-442d-b259-559712471c91#ref=rss)
+### mittags
+
+* [https://www.spiegel.de/karriere/mittagspause-in-deutschland-darf-ich-mittags-machen-was-ich-moechte](https://www.spiegel.de/karriere/mittagspause-in-deutschland-darf-ich-mittags-machen-was-ich-moechte-a-1d96db1a-258e-435b-bd6d-a51476cc837f#ref=rss)
+### möchte
+
+* [https://www.spiegel.de/karriere/mittagspause-in-deutschland-darf-ich-mittags-machen-was-ich-moechte](https://www.spiegel.de/karriere/mittagspause-in-deutschland-darf-ich-mittags-machen-was-ich-moechte-a-1d96db1a-258e-435b-bd6d-a51476cc837f#ref=rss)
+### dagegen
+
+* [https://www.spiegel.de/karriere/mittagspause-in-deutschland-darf-ich-mittags-machen-was-ich-moechte](https://www.spiegel.de/karriere/mittagspause-in-deutschland-darf-ich-mittags-machen-was-ich-moechte-a-1d96db1a-258e-435b-bd6d-a51476cc837f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/verfassungsschutz-darf-suedwest-afd-weiter-als-verdachtsfall-beobachten](https://www.spiegel.de/politik/deutschland/verfassungsschutz-darf-suedwest-afd-weiter-als-verdachtsfall-beobachten-a-b4be4fb0-3517-41ea-bc2e-b6afba6a2519#ref=rss)
+### zf
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/zf-autozulieferer-meldet-milliardenverlust](https://www.spiegel.de/wirtschaft/unternehmen/zf-autozulieferer-meldet-milliardenverlust-a-b713d4aa-2551-4e9a-918f-cdfdcb1f88be#ref=rss)
+### meldet
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/zf-autozulieferer-meldet-milliardenverlust](https://www.spiegel.de/wirtschaft/unternehmen/zf-autozulieferer-meldet-milliardenverlust-a-b713d4aa-2551-4e9a-918f-cdfdcb1f88be#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-meldet-bislang-groessten-drohnenangriff-im-sueden](https://www.spiegel.de/ausland/ukraine-krieg-russland-meldet-bislang-groessten-drohnenangriff-im-sueden-a-7431bb13-f739-442d-b259-559712471c91#ref=rss)
+### autoindustrie
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/zf-autozulieferer-meldet-milliardenverlust](https://www.spiegel.de/wirtschaft/unternehmen/zf-autozulieferer-meldet-milliardenverlust-a-b713d4aa-2551-4e9a-918f-cdfdcb1f88be#ref=rss)
+* [https://www.spiegel.de/wirtschaft/autobranche-deutsche-hersteller-exportieren-wieder-mehr-autos](https://www.spiegel.de/wirtschaft/autobranche-deutsche-hersteller-exportieren-wieder-mehr-autos-a-b71e9b9b-dd4a-4e6e-ac30-abeeec37acee#ref=rss)
+### 2024
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/zf-autozulieferer-meldet-milliardenverlust](https://www.spiegel.de/wirtschaft/unternehmen/zf-autozulieferer-meldet-milliardenverlust-a-b713d4aa-2551-4e9a-918f-cdfdcb1f88be#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-winzer-erzeugen-deutlich-weniger-wein](https://www.spiegel.de/wirtschaft/deutsche-winzer-erzeugen-deutlich-weniger-wein-a-3f68b2f7-4ed1-49e5-b542-70a7fa70fbba#ref=rss)
+### erwartet
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/zf-autozulieferer-meldet-milliardenverlust](https://www.spiegel.de/wirtschaft/unternehmen/zf-autozulieferer-meldet-milliardenverlust-a-b713d4aa-2551-4e9a-918f-cdfdcb1f88be#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/rwe-kuerzt-investitionen-um-zehn-milliarden-euro](https://www.spiegel.de/wirtschaft/unternehmen/rwe-kuerzt-investitionen-um-zehn-milliarden-euro-a-88009312-ffdd-418e-892e-fec02888f4cb#ref=rss)
+### sozialen
+
+* [https://www.spiegel.de/ausland/taiwan-konflikt-bilder-von-moeglichen-chinesischen-landungsschiffen-in-sozialen-medien](https://www.spiegel.de/ausland/taiwan-konflikt-bilder-von-moeglichen-chinesischen-landungsschiffen-in-sozialen-medien-a-524bb58c-f41d-40a8-b859-91ee700d8b66#ref=rss)
+### winzer
+
+* [https://www.spiegel.de/wirtschaft/deutsche-winzer-erzeugen-deutlich-weniger-wein](https://www.spiegel.de/wirtschaft/deutsche-winzer-erzeugen-deutlich-weniger-wein-a-3f68b2f7-4ed1-49e5-b542-70a7fa70fbba#ref=rss)
+### deutlich
+
+* [https://www.spiegel.de/wirtschaft/deutsche-winzer-erzeugen-deutlich-weniger-wein](https://www.spiegel.de/wirtschaft/deutsche-winzer-erzeugen-deutlich-weniger-wein-a-3f68b2f7-4ed1-49e5-b542-70a7fa70fbba#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/rwe-kuerzt-investitionen-um-zehn-milliarden-euro](https://www.spiegel.de/wirtschaft/unternehmen/rwe-kuerzt-investitionen-um-zehn-milliarden-euro-a-88009312-ffdd-418e-892e-fec02888f4cb#ref=rss)
+### wein
+
+* [https://www.spiegel.de/wirtschaft/deutsche-winzer-erzeugen-deutlich-weniger-wein](https://www.spiegel.de/wirtschaft/deutsche-winzer-erzeugen-deutlich-weniger-wein-a-3f68b2f7-4ed1-49e5-b542-70a7fa70fbba#ref=rss)
+### zehn
+
+* [https://www.spiegel.de/wirtschaft/deutsche-winzer-erzeugen-deutlich-weniger-wein](https://www.spiegel.de/wirtschaft/deutsche-winzer-erzeugen-deutlich-weniger-wein-a-3f68b2f7-4ed1-49e5-b542-70a7fa70fbba#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/rwe-kuerzt-investitionen-um-zehn-milliarden-euro](https://www.spiegel.de/wirtschaft/unternehmen/rwe-kuerzt-investitionen-um-zehn-milliarden-euro-a-88009312-ffdd-418e-892e-fec02888f4cb#ref=rss)
+### rachel
+
+* [https://www.spiegel.de/kultur/kino/rachel-zegler-us-schauspielerin-sollte-beweisen-dass-sie-latina-ist](https://www.spiegel.de/kultur/kino/rachel-zegler-us-schauspielerin-sollte-beweisen-dass-sie-latina-ist-a-cdab4483-f499-4af5-8dd9-314899feb773#ref=rss)
+### zegler
+
+* [https://www.spiegel.de/kultur/kino/rachel-zegler-us-schauspielerin-sollte-beweisen-dass-sie-latina-ist](https://www.spiegel.de/kultur/kino/rachel-zegler-us-schauspielerin-sollte-beweisen-dass-sie-latina-ist-a-cdab4483-f499-4af5-8dd9-314899feb773#ref=rss)
+### sollte
+
+* [https://www.spiegel.de/kultur/kino/rachel-zegler-us-schauspielerin-sollte-beweisen-dass-sie-latina-ist](https://www.spiegel.de/kultur/kino/rachel-zegler-us-schauspielerin-sollte-beweisen-dass-sie-latina-ist-a-cdab4483-f499-4af5-8dd9-314899feb773#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/medikamenten-missbrauch-wie-deutsche-behoerden-in-der-opioid-kontrolle-versagen](https://www.spiegel.de/panorama/gesellschaft/medikamenten-missbrauch-wie-deutsche-behoerden-in-der-opioid-kontrolle-versagen-a-b4ef9e90-5d8c-44bb-9170-3c8d519ed432#ref=rss)
+### latina
+
+* [https://www.spiegel.de/kultur/kino/rachel-zegler-us-schauspielerin-sollte-beweisen-dass-sie-latina-ist](https://www.spiegel.de/kultur/kino/rachel-zegler-us-schauspielerin-sollte-beweisen-dass-sie-latina-ist-a-cdab4483-f499-4af5-8dd9-314899feb773#ref=rss)
+### wissen
+
+* [https://www.spiegel.de/kultur/kino/rachel-zegler-us-schauspielerin-sollte-beweisen-dass-sie-latina-ist](https://www.spiegel.de/kultur/kino/rachel-zegler-us-schauspielerin-sollte-beweisen-dass-sie-latina-ist-a-cdab4483-f499-4af5-8dd9-314899feb773#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### tiktokvideos
+
+* [https://www.spiegel.de/netzwelt/apps/populaere-tiktok-videos-zu-adhs-enthalten-oft-fehlinformationen](https://www.spiegel.de/netzwelt/apps/populaere-tiktok-videos-zu-adhs-enthalten-oft-fehlinformationen-a-f4014449-50a0-4334-9a65-46752d988e5b#ref=rss)
+### adhs
+
+* [https://www.spiegel.de/netzwelt/apps/populaere-tiktok-videos-zu-adhs-enthalten-oft-fehlinformationen](https://www.spiegel.de/netzwelt/apps/populaere-tiktok-videos-zu-adhs-enthalten-oft-fehlinformationen-a-f4014449-50a0-4334-9a65-46752d988e5b#ref=rss)
+### jugendliche
+
+* [https://www.spiegel.de/netzwelt/apps/populaere-tiktok-videos-zu-adhs-enthalten-oft-fehlinformationen](https://www.spiegel.de/netzwelt/apps/populaere-tiktok-videos-zu-adhs-enthalten-oft-fehlinformationen-a-f4014449-50a0-4334-9a65-46752d988e5b#ref=rss)
+* [https://www.spiegel.de/familie/drogensuechtige-jugendliche-warum-eine-mutter-ihren-sohn-verlor-und-jetzt-gesetze-aendern-will](https://www.spiegel.de/familie/drogensuechtige-jugendliche-warum-eine-mutter-ihren-sohn-verlor-und-jetzt-gesetze-aendern-will-a-1ed50ef1-669b-4a5d-a6ec-b72f14a4619e#ref=rss)
 ### geld
 
-* [https://www.spiegel.de/panorama/justiz/essen-hochschulmitarbeiterin-der-universitaet-duisburg-essen-wegen-erkaufter-noten-vor-gericht](https://www.spiegel.de/panorama/justiz/essen-hochschulmitarbeiterin-der-universitaet-duisburg-essen-wegen-erkaufter-noten-vor-gericht-a-27fefd74-3232-438e-acec-590074535e95#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-arbeitnehmerfluegel-warnt-vor-abschaffung-von-feiertagen](https://www.spiegel.de/politik/deutschland/cdu-arbeitnehmerfluegel-warnt-vor-abschaffung-von-feiertagen-a-dbeffa37-3b75-433e-950c-680ada209fba#ref=rss)
-### unter
+* [https://www.spiegel.de/wirtschaft/autobranche-deutsche-hersteller-exportieren-wieder-mehr-autos](https://www.spiegel.de/wirtschaft/autobranche-deutsche-hersteller-exportieren-wieder-mehr-autos-a-b71e9b9b-dd4a-4e6e-ac30-abeeec37acee#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/rwe-kuerzt-investitionen-um-zehn-milliarden-euro](https://www.spiegel.de/wirtschaft/unternehmen/rwe-kuerzt-investitionen-um-zehn-milliarden-euro-a-88009312-ffdd-418e-892e-fec02888f4cb#ref=rss)
+### vergangenen
 
-* [https://www.spiegel.de/panorama/justiz/essen-hochschulmitarbeiterin-der-universitaet-duisburg-essen-wegen-erkaufter-noten-vor-gericht](https://www.spiegel.de/panorama/justiz/essen-hochschulmitarbeiterin-der-universitaet-duisburg-essen-wegen-erkaufter-noten-vor-gericht-a-27fefd74-3232-438e-acec-590074535e95#ref=rss)
-* [https://www.spiegel.de/kultur/neue-documenta-chefin-naomi-beckwith-queen-of-kassel](https://www.spiegel.de/kultur/neue-documenta-chefin-naomi-beckwith-queen-of-kassel-a-e533f7e4-5a62-4450-a1b6-acadfeb02552#ref=rss)
-### vorfälle
+* [https://www.spiegel.de/wirtschaft/autobranche-deutsche-hersteller-exportieren-wieder-mehr-autos](https://www.spiegel.de/wirtschaft/autobranche-deutsche-hersteller-exportieren-wieder-mehr-autos-a-b71e9b9b-dd4a-4e6e-ac30-abeeec37acee#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-eddie-jordan-ist-tot](https://www.spiegel.de/sport/formel1/formel-1-eddie-jordan-ist-tot-a-f6e1fb4e-cece-4142-87e3-39d7a082d05a#ref=rss)
+### usa
 
-* [https://www.spiegel.de/panorama/abifeiern-die-kuriosesten-vorfaelle-striptease-popo-kopien-schein-enfuehrung](https://www.spiegel.de/panorama/abifeiern-die-kuriosesten-vorfaelle-striptease-popo-kopien-schein-enfuehrung-a-670f7c0c-cb83-490c-9e5a-f7e870a2ec43#ref=rss)
-### oft
+* [https://www.spiegel.de/wirtschaft/autobranche-deutsche-hersteller-exportieren-wieder-mehr-autos](https://www.spiegel.de/wirtschaft/autobranche-deutsche-hersteller-exportieren-wieder-mehr-autos-a-b71e9b9b-dd4a-4e6e-ac30-abeeec37acee#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-recep-tayyip-erdogan-wladimir-putin-das-zeitalter-der-straflosigkeit](https://www.spiegel.de/ausland/donald-trump-recep-tayyip-erdogan-wladimir-putin-das-zeitalter-der-straflosigkeit-a-d0331ffe-f3e9-4483-80e8-bab3cbf0b9db#ref=rss)
+### wichtigste
 
-* [https://www.spiegel.de/panorama/abifeiern-die-kuriosesten-vorfaelle-striptease-popo-kopien-schein-enfuehrung](https://www.spiegel.de/panorama/abifeiern-die-kuriosesten-vorfaelle-striptease-popo-kopien-schein-enfuehrung-a-670f7c0c-cb83-490c-9e5a-f7e870a2ec43#ref=rss)
-* [https://www.spiegel.de/wirtschaft/stiftung-warentest-guenstige-vollwaschmittel-von-dm-und-lidl-sind-besser-als-teurere-marken](https://www.spiegel.de/wirtschaft/stiftung-warentest-guenstige-vollwaschmittel-von-dm-und-lidl-sind-besser-als-teurere-marken-a-d38e8afd-ee3c-414f-a953-d560586bf81c#ref=rss)
-### gwyneth
+* [https://www.spiegel.de/wirtschaft/autobranche-deutsche-hersteller-exportieren-wieder-mehr-autos](https://www.spiegel.de/wirtschaft/autobranche-deutsche-hersteller-exportieren-wieder-mehr-autos-a-b71e9b9b-dd4a-4e6e-ac30-abeeec37acee#ref=rss)
+* [https://www.spiegel.de/sport/olympia/ioc-wahl-zum-neuen-praesidenten-die-wichtigsten-fragen-und-antworten](https://www.spiegel.de/sport/olympia/ioc-wahl-zum-neuen-praesidenten-die-wichtigsten-fragen-und-antworten-a-393f7e3f-68b0-403b-a2dd-7e47cdf38e8c#ref=rss)
+### südwestafd
 
-* [https://www.spiegel.de/kultur/kino/gwyneth-paltrow-spricht-ueber-sexszenen-mit-timothee-chalamet](https://www.spiegel.de/kultur/kino/gwyneth-paltrow-spricht-ueber-sexszenen-mit-timothee-chalamet-a-72a566b7-dffd-44a5-a415-4bcdffef4e3e#ref=rss)
-### paltrow
+* [https://www.spiegel.de/politik/deutschland/verfassungsschutz-darf-suedwest-afd-weiter-als-verdachtsfall-beobachten](https://www.spiegel.de/politik/deutschland/verfassungsschutz-darf-suedwest-afd-weiter-als-verdachtsfall-beobachten-a-b4be4fb0-3517-41ea-bc2e-b6afba6a2519#ref=rss)
+### berichten
 
-* [https://www.spiegel.de/kultur/kino/gwyneth-paltrow-spricht-ueber-sexszenen-mit-timothee-chalamet](https://www.spiegel.de/kultur/kino/gwyneth-paltrow-spricht-ueber-sexszenen-mit-timothee-chalamet-a-72a566b7-dffd-44a5-a415-4bcdffef4e3e#ref=rss)
-### timothée
+* [https://www.spiegel.de/panorama/gesellschaft/nationaler-diskriminierungs-und-rassismusmonitor-rassismus-erfahrungen-im-alltag-weit-verbreitet](https://www.spiegel.de/panorama/gesellschaft/nationaler-diskriminierungs-und-rassismusmonitor-rassismus-erfahrungen-im-alltag-weit-verbreitet-a-65e1f5d6-5e38-418d-a90f-e81d830637f3#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-meldet-bislang-groessten-drohnenangriff-im-sueden](https://www.spiegel.de/ausland/ukraine-krieg-russland-meldet-bislang-groessten-drohnenangriff-im-sueden-a-7431bb13-f739-442d-b259-559712471c91#ref=rss)
+### wohl
 
-* [https://www.spiegel.de/kultur/kino/gwyneth-paltrow-spricht-ueber-sexszenen-mit-timothee-chalamet](https://www.spiegel.de/kultur/kino/gwyneth-paltrow-spricht-ueber-sexszenen-mit-timothee-chalamet-a-72a566b7-dffd-44a5-a415-4bcdffef4e3e#ref=rss)
-### chalamet
+* [https://www.spiegel.de/panorama/gesellschaft/nationaler-diskriminierungs-und-rassismusmonitor-rassismus-erfahrungen-im-alltag-weit-verbreitet](https://www.spiegel.de/panorama/gesellschaft/nationaler-diskriminierungs-und-rassismusmonitor-rassismus-erfahrungen-im-alltag-weit-verbreitet-a-65e1f5d6-5e38-418d-a90f-e81d830637f3#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/medikamenten-missbrauch-wie-deutsche-behoerden-in-der-opioid-kontrolle-versagen](https://www.spiegel.de/panorama/gesellschaft/medikamenten-missbrauch-wie-deutsche-behoerden-in-der-opioid-kontrolle-versagen-a-b4ef9e90-5d8c-44bb-9170-3c8d519ed432#ref=rss)
+### carlos
 
-* [https://www.spiegel.de/kultur/kino/gwyneth-paltrow-spricht-ueber-sexszenen-mit-timothee-chalamet](https://www.spiegel.de/kultur/kino/gwyneth-paltrow-spricht-ueber-sexszenen-mit-timothee-chalamet-a-72a566b7-dffd-44a5-a415-4bcdffef4e3e#ref=rss)
-### zeit
+* [https://www.spiegel.de/sport/tennis/tennis-carlos-alcaraz-stellt-sich-gegen-klagen-von-spielervertretung-ptpa](https://www.spiegel.de/sport/tennis/tennis-carlos-alcaraz-stellt-sich-gegen-klagen-von-spielervertretung-ptpa-a-5f7214aa-c6cb-4108-988d-64b61a3dec4c#ref=rss)
+### alcaraz
 
-* [https://www.spiegel.de/kultur/kino/gwyneth-paltrow-spricht-ueber-sexszenen-mit-timothee-chalamet](https://www.spiegel.de/kultur/kino/gwyneth-paltrow-spricht-ueber-sexszenen-mit-timothee-chalamet-a-72a566b7-dffd-44a5-a415-4bcdffef4e3e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-die-welt-braucht-mehr-weiblichen-egoismus](https://www.spiegel.de/politik/deutschland/annalena-baerbock-die-welt-braucht-mehr-weiblichen-egoismus-a-c8fe3422-abc2-4302-9707-10a1ccf80426#ref=rss)
-### zoo
+* [https://www.spiegel.de/sport/tennis/tennis-carlos-alcaraz-stellt-sich-gegen-klagen-von-spielervertretung-ptpa](https://www.spiegel.de/sport/tennis/tennis-carlos-alcaraz-stellt-sich-gegen-klagen-von-spielervertretung-ptpa-a-5f7214aa-c6cb-4108-988d-64b61a3dec4c#ref=rss)
+### ptpa
 
-* [https://www.spiegel.de/wissenschaft/natur/london-zoo-rettet-darwins-froesche-per-schiff-und-flieger](https://www.spiegel.de/wissenschaft/natur/london-zoo-rettet-darwins-froesche-per-schiff-und-flieger-a-6be212ae-6ee4-4eee-9ca7-07940e47a58b#ref=rss)
-### nezarimkorridor
+* [https://www.spiegel.de/sport/tennis/tennis-carlos-alcaraz-stellt-sich-gegen-klagen-von-spielervertretung-ptpa](https://www.spiegel.de/sport/tennis/tennis-carlos-alcaraz-stellt-sich-gegen-klagen-von-spielervertretung-ptpa-a-5f7214aa-c6cb-4108-988d-64b61a3dec4c#ref=rss)
+### eddie
 
-* [https://www.spiegel.de/ausland/gaza-krieg-israel-startet-neue-bodenoffensive-im-nezarim-korridor](https://www.spiegel.de/ausland/gaza-krieg-israel-startet-neue-bodenoffensive-im-nezarim-korridor-a-92f24f5a-8404-4cf8-9d44-4e19b8fac5e3#ref=rss)
-### militär
+* [https://www.spiegel.de/sport/formel1/formel-1-eddie-jordan-ist-tot](https://www.spiegel.de/sport/formel1/formel-1-eddie-jordan-ist-tot-a-f6e1fb4e-cece-4142-87e3-39d7a082d05a#ref=rss)
+### jordan
 
-* [https://www.spiegel.de/ausland/gaza-krieg-israel-startet-neue-bodenoffensive-im-nezarim-korridor](https://www.spiegel.de/ausland/gaza-krieg-israel-startet-neue-bodenoffensive-im-nezarim-korridor-a-92f24f5a-8404-4cf8-9d44-4e19b8fac5e3#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-uno-mitarbeiter-bei-angriff-auf-unops-mission-getoetet](https://www.spiegel.de/ausland/israel-gaza-krieg-uno-mitarbeiter-bei-angriff-auf-unops-mission-getoetet-a-1712ce2d-205e-44cd-acfd-d910195046f3#ref=rss)
-### afd
+* [https://www.spiegel.de/sport/formel1/formel-1-eddie-jordan-ist-tot](https://www.spiegel.de/sport/formel1/formel-1-eddie-jordan-ist-tot-a-f6e1fb4e-cece-4142-87e3-39d7a082d05a#ref=rss)
+### ioc
 
-* [https://www.spiegel.de/politik/deutschland/kooperationen-mit-der-afd-die-brandmauer-steht-aber-nur-zu-81-prozent](https://www.spiegel.de/politik/deutschland/kooperationen-mit-der-afd-die-brandmauer-steht-aber-nur-zu-81-prozent-a-5ee47436-f045-45e5-bc92-67094c614e30#ref=rss)
-### überraschend
+* [https://www.spiegel.de/sport/olympia/ioc-kim-bui-ueber-ihre-rolle-bei-der-wahl-des-neuen-praesidenten](https://www.spiegel.de/sport/olympia/ioc-kim-bui-ueber-ihre-rolle-bei-der-wahl-des-neuen-praesidenten-a-31004c42-2356-481a-97db-ff61cb45dab8#ref=rss)
+* [https://www.spiegel.de/sport/olympia/ioc-wahl-zum-neuen-praesidenten-die-wichtigsten-fragen-und-antworten](https://www.spiegel.de/sport/olympia/ioc-wahl-zum-neuen-praesidenten-die-wichtigsten-fragen-und-antworten-a-393f7e3f-68b0-403b-a2dd-7e47cdf38e8c#ref=rss)
+### kim
 
-* [https://www.spiegel.de/politik/deutschland/kooperationen-mit-der-afd-die-brandmauer-steht-aber-nur-zu-81-prozent](https://www.spiegel.de/politik/deutschland/kooperationen-mit-der-afd-die-brandmauer-steht-aber-nur-zu-81-prozent-a-5ee47436-f045-45e5-bc92-67094c614e30#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-festnahme-des-erdogan-rivalen-ekrem-imamoglu-putsch-von-oben](https://www.spiegel.de/ausland/tuerkei-festnahme-des-erdogan-rivalen-ekrem-imamoglu-putsch-von-oben-a-53798a4a-8254-4495-a7e3-68851382e018#ref=rss)
-### butch
+* [https://www.spiegel.de/sport/olympia/ioc-kim-bui-ueber-ihre-rolle-bei-der-wahl-des-neuen-praesidenten](https://www.spiegel.de/sport/olympia/ioc-kim-bui-ueber-ihre-rolle-bei-der-wahl-des-neuen-praesidenten-a-31004c42-2356-481a-97db-ff61cb45dab8#ref=rss)
+### bui
 
-* [https://www.spiegel.de/panorama/iss-astronauten-butch-wilmore-und-suni-williams-nach-286-tagen-im-all-von-delfinen-begruesst](https://www.spiegel.de/panorama/iss-astronauten-butch-wilmore-und-suni-williams-nach-286-tagen-im-all-von-delfinen-begruesst-a-72ded527-edad-403b-8c28-819d04653507#ref=rss)
-### wilmore
+* [https://www.spiegel.de/sport/olympia/ioc-kim-bui-ueber-ihre-rolle-bei-der-wahl-des-neuen-praesidenten](https://www.spiegel.de/sport/olympia/ioc-kim-bui-ueber-ihre-rolle-bei-der-wahl-des-neuen-praesidenten-a-31004c42-2356-481a-97db-ff61cb45dab8#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/panorama/iss-astronauten-butch-wilmore-und-suni-williams-nach-286-tagen-im-all-von-delfinen-begruesst](https://www.spiegel.de/panorama/iss-astronauten-butch-wilmore-und-suni-williams-nach-286-tagen-im-all-von-delfinen-begruesst-a-72ded527-edad-403b-8c28-819d04653507#ref=rss)
-### suni
+* [https://www.spiegel.de/sport/olympia/ioc-kim-bui-ueber-ihre-rolle-bei-der-wahl-des-neuen-praesidenten](https://www.spiegel.de/sport/olympia/ioc-kim-bui-ueber-ihre-rolle-bei-der-wahl-des-neuen-praesidenten-a-31004c42-2356-481a-97db-ff61cb45dab8#ref=rss)
+* [https://www.spiegel.de/sport/olympia/ioc-wahl-zum-neuen-praesidenten-die-wichtigsten-fragen-und-antworten](https://www.spiegel.de/sport/olympia/ioc-wahl-zum-neuen-praesidenten-die-wichtigsten-fragen-und-antworten-a-393f7e3f-68b0-403b-a2dd-7e47cdf38e8c#ref=rss)
+### präsidenten
 
-* [https://www.spiegel.de/panorama/iss-astronauten-butch-wilmore-und-suni-williams-nach-286-tagen-im-all-von-delfinen-begruesst](https://www.spiegel.de/panorama/iss-astronauten-butch-wilmore-und-suni-williams-nach-286-tagen-im-all-von-delfinen-begruesst-a-72ded527-edad-403b-8c28-819d04653507#ref=rss)
-### williams
+* [https://www.spiegel.de/sport/olympia/ioc-kim-bui-ueber-ihre-rolle-bei-der-wahl-des-neuen-praesidenten](https://www.spiegel.de/sport/olympia/ioc-kim-bui-ueber-ihre-rolle-bei-der-wahl-des-neuen-praesidenten-a-31004c42-2356-481a-97db-ff61cb45dab8#ref=rss)
+* [https://www.spiegel.de/sport/olympia/ioc-wahl-zum-neuen-praesidenten-die-wichtigsten-fragen-und-antworten](https://www.spiegel.de/sport/olympia/ioc-wahl-zum-neuen-praesidenten-die-wichtigsten-fragen-und-antworten-a-393f7e3f-68b0-403b-a2dd-7e47cdf38e8c#ref=rss)
+### thomas
 
-* [https://www.spiegel.de/panorama/iss-astronauten-butch-wilmore-und-suni-williams-nach-286-tagen-im-all-von-delfinen-begruesst](https://www.spiegel.de/panorama/iss-astronauten-butch-wilmore-und-suni-williams-nach-286-tagen-im-all-von-delfinen-begruesst-a-72ded527-edad-403b-8c28-819d04653507#ref=rss)
-### tagen
+* [https://www.spiegel.de/sport/olympia/ioc-kim-bui-ueber-ihre-rolle-bei-der-wahl-des-neuen-praesidenten](https://www.spiegel.de/sport/olympia/ioc-kim-bui-ueber-ihre-rolle-bei-der-wahl-des-neuen-praesidenten-a-31004c42-2356-481a-97db-ff61cb45dab8#ref=rss)
+* [https://www.spiegel.de/sport/olympia/ioc-wahl-zum-neuen-praesidenten-die-wichtigsten-fragen-und-antworten](https://www.spiegel.de/sport/olympia/ioc-wahl-zum-neuen-praesidenten-die-wichtigsten-fragen-und-antworten-a-393f7e3f-68b0-403b-a2dd-7e47cdf38e8c#ref=rss)
+### bach
 
-* [https://www.spiegel.de/panorama/iss-astronauten-butch-wilmore-und-suni-williams-nach-286-tagen-im-all-von-delfinen-begruesst](https://www.spiegel.de/panorama/iss-astronauten-butch-wilmore-und-suni-williams-nach-286-tagen-im-all-von-delfinen-begruesst-a-72ded527-edad-403b-8c28-819d04653507#ref=rss)
-### all
+* [https://www.spiegel.de/sport/olympia/ioc-kim-bui-ueber-ihre-rolle-bei-der-wahl-des-neuen-praesidenten](https://www.spiegel.de/sport/olympia/ioc-kim-bui-ueber-ihre-rolle-bei-der-wahl-des-neuen-praesidenten-a-31004c42-2356-481a-97db-ff61cb45dab8#ref=rss)
+* [https://www.spiegel.de/sport/olympia/ioc-wahl-zum-neuen-praesidenten-die-wichtigsten-fragen-und-antworten](https://www.spiegel.de/sport/olympia/ioc-wahl-zum-neuen-praesidenten-die-wichtigsten-fragen-und-antworten-a-393f7e3f-68b0-403b-a2dd-7e47cdf38e8c#ref=rss)
+### türkei
 
-* [https://www.spiegel.de/panorama/iss-astronauten-butch-wilmore-und-suni-williams-nach-286-tagen-im-all-von-delfinen-begruesst](https://www.spiegel.de/panorama/iss-astronauten-butch-wilmore-und-suni-williams-nach-286-tagen-im-all-von-delfinen-begruesst-a-72ded527-edad-403b-8c28-819d04653507#ref=rss)
-### scheidende
+* [https://www.spiegel.de/ausland/tuerkei-baufirma-ekrem-imamoglu-beschlagnahmt](https://www.spiegel.de/ausland/tuerkei-baufirma-ekrem-imamoglu-beschlagnahmt-a-6e5bf72d-8a57-4c74-acf7-cc77493c76a9#ref=rss)
+### ekrem
 
-* [https://www.spiegel.de/politik/annalena-baerbock-gruenen-politikerin-verteidigt-geplanten-wechsel-zur-uno-in-new-york](https://www.spiegel.de/politik/annalena-baerbock-gruenen-politikerin-verteidigt-geplanten-wechsel-zur-uno-in-new-york-a-414ac2c1-f963-4545-94b9-aee2d3fcc3c7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-die-welt-braucht-mehr-weiblichen-egoismus](https://www.spiegel.de/politik/deutschland/annalena-baerbock-die-welt-braucht-mehr-weiblichen-egoismus-a-c8fe3422-abc2-4302-9707-10a1ccf80426#ref=rss)
-### außenministerin
+* [https://www.spiegel.de/ausland/tuerkei-baufirma-ekrem-imamoglu-beschlagnahmt](https://www.spiegel.de/ausland/tuerkei-baufirma-ekrem-imamoglu-beschlagnahmt-a-6e5bf72d-8a57-4c74-acf7-cc77493c76a9#ref=rss)
+### donald
 
-* [https://www.spiegel.de/politik/annalena-baerbock-gruenen-politikerin-verteidigt-geplanten-wechsel-zur-uno-in-new-york](https://www.spiegel.de/politik/annalena-baerbock-gruenen-politikerin-verteidigt-geplanten-wechsel-zur-uno-in-new-york-a-414ac2c1-f963-4545-94b9-aee2d3fcc3c7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-die-welt-braucht-mehr-weiblichen-egoismus](https://www.spiegel.de/politik/deutschland/annalena-baerbock-die-welt-braucht-mehr-weiblichen-egoismus-a-c8fe3422-abc2-4302-9707-10a1ccf80426#ref=rss)
-### selbst
+* [https://www.spiegel.de/ausland/donald-trump-recep-tayyip-erdogan-wladimir-putin-das-zeitalter-der-straflosigkeit](https://www.spiegel.de/ausland/donald-trump-recep-tayyip-erdogan-wladimir-putin-das-zeitalter-der-straflosigkeit-a-d0331ffe-f3e9-4483-80e8-bab3cbf0b9db#ref=rss)
+### trump
 
-* [https://www.spiegel.de/politik/annalena-baerbock-gruenen-politikerin-verteidigt-geplanten-wechsel-zur-uno-in-new-york](https://www.spiegel.de/politik/annalena-baerbock-gruenen-politikerin-verteidigt-geplanten-wechsel-zur-uno-in-new-york-a-414ac2c1-f963-4545-94b9-aee2d3fcc3c7#ref=rss)
-* [https://www.spiegel.de/sport/fussball/ex-fussballprofi-kevin-kuranyi-ueberrascht-einbrecher-in-seinem-haus](https://www.spiegel.de/sport/fussball/ex-fussballprofi-kevin-kuranyi-ueberrascht-einbrecher-in-seinem-haus-a-9105dc69-0ce6-4419-8b5b-916997285ad4#ref=rss)
-### of
+* [https://www.spiegel.de/ausland/donald-trump-recep-tayyip-erdogan-wladimir-putin-das-zeitalter-der-straflosigkeit](https://www.spiegel.de/ausland/donald-trump-recep-tayyip-erdogan-wladimir-putin-das-zeitalter-der-straflosigkeit-a-d0331ffe-f3e9-4483-80e8-bab3cbf0b9db#ref=rss)
+### botschaft
 
-* [https://www.spiegel.de/ausland/trump-sparplaene-was-das-aus-von-voice-of-america-und-radio-free-europe-bedeuten-wuerde](https://www.spiegel.de/ausland/trump-sparplaene-was-das-aus-von-voice-of-america-und-radio-free-europe-bedeuten-wuerde-a-3a287a45-9b0f-495d-8dac-6a4972512e07#ref=rss)
-* [https://www.spiegel.de/kultur/neue-documenta-chefin-naomi-beckwith-queen-of-kassel](https://www.spiegel.de/kultur/neue-documenta-chefin-naomi-beckwith-queen-of-kassel-a-e533f7e4-5a62-4450-a1b6-acadfeb02552#ref=rss)
-### berlin
+* [https://www.spiegel.de/politik/syrien-aussenmininsterin-annalena-baerbock-eroeffnet-deutsche-botschaft-erneut](https://www.spiegel.de/politik/syrien-aussenmininsterin-annalena-baerbock-eroeffnet-deutsche-botschaft-erneut-a-4bbb014d-7b17-4fcb-9ea9-fa405c0af854#ref=rss)
+### rwe
 
-* [https://www.spiegel.de/wissenschaft/medizin/berlin-charite-forscher-weisen-hohe-wirksamkeit-von-mpox-impfung-nach](https://www.spiegel.de/wissenschaft/medizin/berlin-charite-forscher-weisen-hohe-wirksamkeit-von-mpox-impfung-nach-a-d4bbca8c-90c2-4b6a-bb2b-94bdbf7a393d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-gericht-ordnet-einziehung-von-58-clanimmobilien-an](https://www.spiegel.de/panorama/justiz/berlin-gericht-ordnet-einziehung-von-58-clanimmobilien-an-a-adb611d1-e1b5-49a6-a6ef-749c9ca7cf52#ref=rss)
-### cduarbeitnehmerflügel
+* [https://www.spiegel.de/wirtschaft/unternehmen/rwe-kuerzt-investitionen-um-zehn-milliarden-euro](https://www.spiegel.de/wirtschaft/unternehmen/rwe-kuerzt-investitionen-um-zehn-milliarden-euro-a-88009312-ffdd-418e-892e-fec02888f4cb#ref=rss)
+### dennoch
 
-* [https://www.spiegel.de/politik/deutschland/cdu-arbeitnehmerfluegel-warnt-vor-abschaffung-von-feiertagen](https://www.spiegel.de/politik/deutschland/cdu-arbeitnehmerfluegel-warnt-vor-abschaffung-von-feiertagen-a-dbeffa37-3b75-433e-950c-680ada209fba#ref=rss)
-### unbekannte
+* [https://www.spiegel.de/wirtschaft/unternehmen/rwe-kuerzt-investitionen-um-zehn-milliarden-euro](https://www.spiegel.de/wirtschaft/unternehmen/rwe-kuerzt-investitionen-um-zehn-milliarden-euro-a-88009312-ffdd-418e-892e-fec02888f4cb#ref=rss)
+* [https://www.spiegel.de/auto/kindersitze-fuers-fahrrad-stiftung-warentest-bewertet-acht-modelle-mit-gut](https://www.spiegel.de/auto/kindersitze-fuers-fahrrad-stiftung-warentest-bewertet-acht-modelle-mit-gut-a-7af3a7a8-8a90-4a07-be19-120e34386dc5#ref=rss)
+### sohn
 
-* [https://www.spiegel.de/panorama/justiz/stuttgart-unbekannte-betrueger-ergaunern-160-000-bargeld-von-rentner](https://www.spiegel.de/panorama/justiz/stuttgart-unbekannte-betrueger-ergaunern-160-000-bargeld-von-rentner-a-c8136361-574d-45fd-989f-bfaab4806c9a#ref=rss)
-### 160000
+* [https://www.spiegel.de/familie/drogensuechtige-jugendliche-warum-eine-mutter-ihren-sohn-verlor-und-jetzt-gesetze-aendern-will](https://www.spiegel.de/familie/drogensuechtige-jugendliche-warum-eine-mutter-ihren-sohn-verlor-und-jetzt-gesetze-aendern-will-a-1ed50ef1-669b-4a5d-a6ec-b72f14a4619e#ref=rss)
+### politik
 
-* [https://www.spiegel.de/panorama/justiz/stuttgart-unbekannte-betrueger-ergaunern-160-000-bargeld-von-rentner](https://www.spiegel.de/panorama/justiz/stuttgart-unbekannte-betrueger-ergaunern-160-000-bargeld-von-rentner-a-c8136361-574d-45fd-989f-bfaab4806c9a#ref=rss)
-### bargeld
+* [https://www.spiegel.de/familie/drogensuechtige-jugendliche-warum-eine-mutter-ihren-sohn-verlor-und-jetzt-gesetze-aendern-will](https://www.spiegel.de/familie/drogensuechtige-jugendliche-warum-eine-mutter-ihren-sohn-verlor-und-jetzt-gesetze-aendern-will-a-1ed50ef1-669b-4a5d-a6ec-b72f14a4619e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-umwelttechnik-start-ups-bei-investoren-begehrt](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-umwelttechnik-start-ups-bei-investoren-begehrt-a-a80d0520-ac63-4e8d-a953-a4033da71195#ref=rss)
+### behörden
 
-* [https://www.spiegel.de/panorama/justiz/stuttgart-unbekannte-betrueger-ergaunern-160-000-bargeld-von-rentner](https://www.spiegel.de/panorama/justiz/stuttgart-unbekannte-betrueger-ergaunern-160-000-bargeld-von-rentner-a-c8136361-574d-45fd-989f-bfaab4806c9a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/ex-fussballprofi-kevin-kuranyi-ueberrascht-einbrecher-in-seinem-haus](https://www.spiegel.de/sport/fussball/ex-fussballprofi-kevin-kuranyi-ueberrascht-einbrecher-in-seinem-haus-a-9105dc69-0ce6-4419-8b5b-916997285ad4#ref=rss)
-### köln
+* [https://www.spiegel.de/familie/drogensuechtige-jugendliche-warum-eine-mutter-ihren-sohn-verlor-und-jetzt-gesetze-aendern-will](https://www.spiegel.de/familie/drogensuechtige-jugendliche-warum-eine-mutter-ihren-sohn-verlor-und-jetzt-gesetze-aendern-will-a-1ed50ef1-669b-4a5d-a6ec-b72f14a4619e#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/medikamenten-missbrauch-wie-deutsche-behoerden-in-der-opioid-kontrolle-versagen](https://www.spiegel.de/panorama/gesellschaft/medikamenten-missbrauch-wie-deutsche-behoerden-in-der-opioid-kontrolle-versagen-a-b4ef9e90-5d8c-44bb-9170-3c8d519ed432#ref=rss)
+### bdi
 
-* [https://www.spiegel.de/netzwelt/gadgets/entfuehrter-kater-dank-tiktok-wiedergefunden](https://www.spiegel.de/netzwelt/gadgets/entfuehrter-kater-dank-tiktok-wiedergefunden-a-34c1791c-a80c-4c7b-bfe1-1e3393ee0f33#ref=rss)
-### kater
+* [https://www.spiegel.de/wirtschaft/stromkosten-bdi-fordert-guenstigere-planung-der-energiewende-in-deutschland](https://www.spiegel.de/wirtschaft/stromkosten-bdi-fordert-guenstigere-planung-der-energiewende-in-deutschland-a-3ec125cd-ea67-4b5a-a7b8-d39ec4b37a94#ref=rss)
+### fordert
 
-* [https://www.spiegel.de/netzwelt/gadgets/entfuehrter-kater-dank-tiktok-wiedergefunden](https://www.spiegel.de/netzwelt/gadgets/entfuehrter-kater-dank-tiktok-wiedergefunden-a-34c1791c-a80c-4c7b-bfe1-1e3393ee0f33#ref=rss)
-### mats
+* [https://www.spiegel.de/wirtschaft/stromkosten-bdi-fordert-guenstigere-planung-der-energiewende-in-deutschland](https://www.spiegel.de/wirtschaft/stromkosten-bdi-fordert-guenstigere-planung-der-energiewende-in-deutschland-a-3ec125cd-ea67-4b5a-a7b8-d39ec4b37a94#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-chinesischer-nachwuchsfussballer-guo-jiaxuan-stirbt-nach-verletzung-im-training](https://www.spiegel.de/sport/fussball/fussball-chinesischer-nachwuchsfussballer-guo-jiaxuan-stirbt-nach-verletzung-im-training-a-74dde799-a798-40f7-8aac-7e2d4df8667f#ref=rss)
+### guo
 
-* [https://www.spiegel.de/sport/fussball/europa-league-mats-hummels-spricht-ueber-den-groessten-fehler-seiner-karriere](https://www.spiegel.de/sport/fussball/europa-league-mats-hummels-spricht-ueber-den-groessten-fehler-seiner-karriere-a-396e2b22-5df9-4760-9a19-cf9832c548f3#ref=rss)
-### hummels
+* [https://www.spiegel.de/sport/fussball/fussball-chinesischer-nachwuchsfussballer-guo-jiaxuan-stirbt-nach-verletzung-im-training](https://www.spiegel.de/sport/fussball/fussball-chinesischer-nachwuchsfussballer-guo-jiaxuan-stirbt-nach-verletzung-im-training-a-74dde799-a798-40f7-8aac-7e2d4df8667f#ref=rss)
+### jiaxuan
 
-* [https://www.spiegel.de/sport/fussball/europa-league-mats-hummels-spricht-ueber-den-groessten-fehler-seiner-karriere](https://www.spiegel.de/sport/fussball/europa-league-mats-hummels-spricht-ueber-den-groessten-fehler-seiner-karriere-a-396e2b22-5df9-4760-9a19-cf9832c548f3#ref=rss)
-### rote
+* [https://www.spiegel.de/sport/fussball/fussball-chinesischer-nachwuchsfussballer-guo-jiaxuan-stirbt-nach-verletzung-im-training](https://www.spiegel.de/sport/fussball/fussball-chinesischer-nachwuchsfussballer-guo-jiaxuan-stirbt-nach-verletzung-im-training-a-74dde799-a798-40f7-8aac-7e2d4df8667f#ref=rss)
+### größten
 
-* [https://www.spiegel.de/sport/fussball/europa-league-mats-hummels-spricht-ueber-den-groessten-fehler-seiner-karriere](https://www.spiegel.de/sport/fussball/europa-league-mats-hummels-spricht-ueber-den-groessten-fehler-seiner-karriere-a-396e2b22-5df9-4760-9a19-cf9832c548f3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/paragraf-218-spd-frauen-knuepfen-zustimmung-zu-koalition-an-reform-von-abtreibungsrecht](https://www.spiegel.de/politik/deutschland/paragraf-218-spd-frauen-knuepfen-zustimmung-zu-koalition-an-reform-von-abtreibungsrecht-a-4600bce0-e608-47b0-b04f-31291db297af#ref=rss)
-### stiftung
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-meldet-bislang-groessten-drohnenangriff-im-sueden](https://www.spiegel.de/ausland/ukraine-krieg-russland-meldet-bislang-groessten-drohnenangriff-im-sueden-a-7431bb13-f739-442d-b259-559712471c91#ref=rss)
+### drohnenangriff
 
-* [https://www.spiegel.de/wirtschaft/stiftung-warentest-guenstige-vollwaschmittel-von-dm-und-lidl-sind-besser-als-teurere-marken](https://www.spiegel.de/wirtschaft/stiftung-warentest-guenstige-vollwaschmittel-von-dm-und-lidl-sind-besser-als-teurere-marken-a-d38e8afd-ee3c-414f-a953-d560586bf81c#ref=rss)
-### warentest
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-meldet-bislang-groessten-drohnenangriff-im-sueden](https://www.spiegel.de/ausland/ukraine-krieg-russland-meldet-bislang-groessten-drohnenangriff-im-sueden-a-7431bb13-f739-442d-b259-559712471c91#ref=rss)
+### süden
 
-* [https://www.spiegel.de/wirtschaft/stiftung-warentest-guenstige-vollwaschmittel-von-dm-und-lidl-sind-besser-als-teurere-marken](https://www.spiegel.de/wirtschaft/stiftung-warentest-guenstige-vollwaschmittel-von-dm-und-lidl-sind-besser-als-teurere-marken-a-d38e8afd-ee3c-414f-a953-d560586bf81c#ref=rss)
-### günstige
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-meldet-bislang-groessten-drohnenangriff-im-sueden](https://www.spiegel.de/ausland/ukraine-krieg-russland-meldet-bislang-groessten-drohnenangriff-im-sueden-a-7431bb13-f739-442d-b259-559712471c91#ref=rss)
+### russische
 
-* [https://www.spiegel.de/wirtschaft/stiftung-warentest-guenstige-vollwaschmittel-von-dm-und-lidl-sind-besser-als-teurere-marken](https://www.spiegel.de/wirtschaft/stiftung-warentest-guenstige-vollwaschmittel-von-dm-und-lidl-sind-besser-als-teurere-marken-a-d38e8afd-ee3c-414f-a953-d560586bf81c#ref=rss)
-### besser
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-meldet-bislang-groessten-drohnenangriff-im-sueden](https://www.spiegel.de/ausland/ukraine-krieg-russland-meldet-bislang-groessten-drohnenangriff-im-sueden-a-7431bb13-f739-442d-b259-559712471c91#ref=rss)
+### tag
 
-* [https://www.spiegel.de/wirtschaft/stiftung-warentest-guenstige-vollwaschmittel-von-dm-und-lidl-sind-besser-als-teurere-marken](https://www.spiegel.de/wirtschaft/stiftung-warentest-guenstige-vollwaschmittel-von-dm-und-lidl-sind-besser-als-teurere-marken-a-d38e8afd-ee3c-414f-a953-d560586bf81c#ref=rss)
-### zwei
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### kindersitze
 
-* [https://www.spiegel.de/wirtschaft/stiftung-warentest-guenstige-vollwaschmittel-von-dm-und-lidl-sind-besser-als-teurere-marken](https://www.spiegel.de/wirtschaft/stiftung-warentest-guenstige-vollwaschmittel-von-dm-und-lidl-sind-besser-als-teurere-marken-a-d38e8afd-ee3c-414f-a953-d560586bf81c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-gericht-ordnet-einziehung-von-58-clanimmobilien-an](https://www.spiegel.de/panorama/justiz/berlin-gericht-ordnet-einziehung-von-58-clanimmobilien-an-a-adb611d1-e1b5-49a6-a6ef-749c9ca7cf52#ref=rss)
-### kevin
+* [https://www.spiegel.de/auto/kindersitze-fuers-fahrrad-stiftung-warentest-bewertet-acht-modelle-mit-gut](https://www.spiegel.de/auto/kindersitze-fuers-fahrrad-stiftung-warentest-bewertet-acht-modelle-mit-gut-a-7af3a7a8-8a90-4a07-be19-120e34386dc5#ref=rss)
+### fahrrad
 
-* [https://www.spiegel.de/sport/fussball/ex-fussballprofi-kevin-kuranyi-ueberrascht-einbrecher-in-seinem-haus](https://www.spiegel.de/sport/fussball/ex-fussballprofi-kevin-kuranyi-ueberrascht-einbrecher-in-seinem-haus-a-9105dc69-0ce6-4419-8b5b-916997285ad4#ref=rss)
-### kurányi
+* [https://www.spiegel.de/auto/kindersitze-fuers-fahrrad-stiftung-warentest-bewertet-acht-modelle-mit-gut](https://www.spiegel.de/auto/kindersitze-fuers-fahrrad-stiftung-warentest-bewertet-acht-modelle-mit-gut-a-7af3a7a8-8a90-4a07-be19-120e34386dc5#ref=rss)
+### antworten
 
-* [https://www.spiegel.de/sport/fussball/ex-fussballprofi-kevin-kuranyi-ueberrascht-einbrecher-in-seinem-haus](https://www.spiegel.de/sport/fussball/ex-fussballprofi-kevin-kuranyi-ueberrascht-einbrecher-in-seinem-haus-a-9105dc69-0ce6-4419-8b5b-916997285ad4#ref=rss)
-### 150000
-
-* [https://www.spiegel.de/sport/fussball/ex-fussballprofi-kevin-kuranyi-ueberrascht-einbrecher-in-seinem-haus](https://www.spiegel.de/sport/fussball/ex-fussballprofi-kevin-kuranyi-ueberrascht-einbrecher-in-seinem-haus-a-9105dc69-0ce6-4419-8b5b-916997285ad4#ref=rss)
-### 218
-
-* [https://www.spiegel.de/politik/deutschland/paragraf-218-spd-frauen-knuepfen-zustimmung-zu-koalition-an-reform-von-abtreibungsrecht](https://www.spiegel.de/politik/deutschland/paragraf-218-spd-frauen-knuepfen-zustimmung-zu-koalition-an-reform-von-abtreibungsrecht-a-4600bce0-e608-47b0-b04f-31291db297af#ref=rss)
-### spdfrauen
-
-* [https://www.spiegel.de/politik/deutschland/paragraf-218-spd-frauen-knuepfen-zustimmung-zu-koalition-an-reform-von-abtreibungsrecht](https://www.spiegel.de/politik/deutschland/paragraf-218-spd-frauen-knuepfen-zustimmung-zu-koalition-an-reform-von-abtreibungsrecht-a-4600bce0-e608-47b0-b04f-31291db297af#ref=rss)
-### zustimmung
-
-* [https://www.spiegel.de/politik/deutschland/paragraf-218-spd-frauen-knuepfen-zustimmung-zu-koalition-an-reform-von-abtreibungsrecht](https://www.spiegel.de/politik/deutschland/paragraf-218-spd-frauen-knuepfen-zustimmung-zu-koalition-an-reform-von-abtreibungsrecht-a-4600bce0-e608-47b0-b04f-31291db297af#ref=rss)
-### koalition
-
-* [https://www.spiegel.de/politik/deutschland/paragraf-218-spd-frauen-knuepfen-zustimmung-zu-koalition-an-reform-von-abtreibungsrecht](https://www.spiegel.de/politik/deutschland/paragraf-218-spd-frauen-knuepfen-zustimmung-zu-koalition-an-reform-von-abtreibungsrecht-a-4600bce0-e608-47b0-b04f-31291db297af#ref=rss)
-### tausende
-
-* [https://www.spiegel.de/ausland/israel-tausende-protestieren-in-jerusalem-gegen-netanyahu-politik](https://www.spiegel.de/ausland/israel-tausende-protestieren-in-jerusalem-gegen-netanyahu-politik-a-70b5b5ff-c1e7-4856-b233-d19c618d28d9#ref=rss)
-### jerusalem
-
-* [https://www.spiegel.de/ausland/israel-tausende-protestieren-in-jerusalem-gegen-netanyahu-politik](https://www.spiegel.de/ausland/israel-tausende-protestieren-in-jerusalem-gegen-netanyahu-politik-a-70b5b5ff-c1e7-4856-b233-d19c618d28d9#ref=rss)
-### anna
-
-* [https://www.spiegel.de/kultur/musik/rosenstolz-saengerin-anna-r-polizei-stellt-ermittlungen-zum-tod-von-anna-r-ein](https://www.spiegel.de/kultur/musik/rosenstolz-saengerin-anna-r-polizei-stellt-ermittlungen-zum-tod-von-anna-r-ein-a-739e55eb-2053-4f42-a841-5bda6c6f0549#ref=rss)
-### r
-
-* [https://www.spiegel.de/kultur/musik/rosenstolz-saengerin-anna-r-polizei-stellt-ermittlungen-zum-tod-von-anna-r-ein](https://www.spiegel.de/kultur/musik/rosenstolz-saengerin-anna-r-polizei-stellt-ermittlungen-zum-tod-von-anna-r-ein-a-739e55eb-2053-4f42-a841-5bda6c6f0549#ref=rss)
-### tod
-
-* [https://www.spiegel.de/kultur/musik/rosenstolz-saengerin-anna-r-polizei-stellt-ermittlungen-zum-tod-von-anna-r-ein](https://www.spiegel.de/kultur/musik/rosenstolz-saengerin-anna-r-polizei-stellt-ermittlungen-zum-tod-von-anna-r-ein-a-739e55eb-2053-4f42-a841-5bda6c6f0549#ref=rss)
-### rosenstolzsängerin
-
-* [https://www.spiegel.de/kultur/musik/rosenstolz-saengerin-anna-r-polizei-stellt-ermittlungen-zum-tod-von-anna-r-ein](https://www.spiegel.de/kultur/musik/rosenstolz-saengerin-anna-r-polizei-stellt-ermittlungen-zum-tod-von-anna-r-ein-a-739e55eb-2053-4f42-a841-5bda6c6f0549#ref=rss)
-### documentachefin
-
-* [https://www.spiegel.de/kultur/neue-documenta-chefin-naomi-beckwith-queen-of-kassel](https://www.spiegel.de/kultur/neue-documenta-chefin-naomi-beckwith-queen-of-kassel-a-e533f7e4-5a62-4450-a1b6-acadfeb02552#ref=rss)
-### naomi
-
-* [https://www.spiegel.de/kultur/neue-documenta-chefin-naomi-beckwith-queen-of-kassel](https://www.spiegel.de/kultur/neue-documenta-chefin-naomi-beckwith-queen-of-kassel-a-e533f7e4-5a62-4450-a1b6-acadfeb02552#ref=rss)
-### beckwith
-
-* [https://www.spiegel.de/kultur/neue-documenta-chefin-naomi-beckwith-queen-of-kassel](https://www.spiegel.de/kultur/neue-documenta-chefin-naomi-beckwith-queen-of-kassel-a-e533f7e4-5a62-4450-a1b6-acadfeb02552#ref=rss)
-### berliner
-
-* [https://www.spiegel.de/panorama/justiz/berlin-gericht-ordnet-einziehung-von-58-clanimmobilien-an](https://www.spiegel.de/panorama/justiz/berlin-gericht-ordnet-einziehung-von-58-clanimmobilien-an-a-adb611d1-e1b5-49a6-a6ef-749c9ca7cf52#ref=rss)
-### fahrlehrer
-
-* [https://www.spiegel.de/panorama/justiz/ravensburg-fahrlehrer-soll-schuelerinnen-im-wald-vergewaltigt-haben](https://www.spiegel.de/panorama/justiz/ravensburg-fahrlehrer-soll-schuelerinnen-im-wald-vergewaltigt-haben-a-46286b08-e35c-4eef-91c2-ae26d98f610c#ref=rss)
+* [https://www.spiegel.de/sport/olympia/ioc-wahl-zum-neuen-praesidenten-die-wichtigsten-fragen-und-antworten](https://www.spiegel.de/sport/olympia/ioc-wahl-zum-neuen-praesidenten-die-wichtigsten-fragen-und-antworten-a-393f7e3f-68b0-403b-a2dd-7e47cdf38e8c#ref=rss)
 
