@@ -4,356 +4,367 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### deutschland
+### türkei
 
-* [https://www.spiegel.de/politik/deutschland/cdu-und-schuldenpaket-umfrage-sieht-friedrich-merz-unter-taeuschungsverdacht](https://www.spiegel.de/politik/deutschland/cdu-und-schuldenpaket-umfrage-sieht-friedrich-merz-unter-taeuschungsverdacht-a-59c6f97a-02be-4462-9162-92235adc195e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/eier-krise-erreicht-deutschland-gefluegellobby-warnt-vor-vorratskaeufen](https://www.spiegel.de/wirtschaft/eier-krise-erreicht-deutschland-gefluegellobby-warnt-vor-vorratskaeufen-a-8fdf71a7-d7cb-42af-9ed0-6e3d1e1e830c#ref=rss)
-* [https://www.spiegel.de/panorama/ex-bundeswehrsoldat-ben-r-nach-deutschland-ausgeliefert](https://www.spiegel.de/panorama/ex-bundeswehrsoldat-ben-r-nach-deutschland-ausgeliefert-a-6e9a6bd9-fa06-40dd-9f08-7d72d2531f58#ref=rss)
-* [https://www.spiegel.de/sport/fussball/nations-league-deutschland-besiegt-italien-im-viertelfinal-hinspiel-2-1-pressestimmen](https://www.spiegel.de/sport/fussball/nations-league-deutschland-besiegt-italien-im-viertelfinal-hinspiel-2-1-pressestimmen-a-25101ccf-313f-4378-a07c-aab9e88f8e34#ref=rss)
-* [https://www.spiegel.de/sport/fussball/nations-league-italien-vs-deutschland-das-geheimnis-hinter-der-kitschigen-geschichte-von-leon-goretzka](https://www.spiegel.de/sport/fussball/nations-league-italien-vs-deutschland-das-geheimnis-hinter-der-kitschigen-geschichte-von-leon-goretzka-a-44d84abc-c1e6-4d7d-b8dc-2725638298e9#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bundespolizei-erwischt-42-jaehrigen-mit-15-gestohlenen-klarinetten-auf-autobahn](https://www.spiegel.de/panorama/justiz/bundespolizei-erwischt-42-jaehrigen-mit-15-gestohlenen-klarinetten-auf-autobahn-a-6fad7515-0719-4891-83f3-e51461a734ca#ref=rss)
-### ich
+* [https://www.spiegel.de/ausland/syrien-tuerkei-bekaempft-kurden-trotz-friedensabkommen-die-regierung-ist-ungeduldig](https://www.spiegel.de/ausland/syrien-tuerkei-bekaempft-kurden-trotz-friedensabkommen-die-regierung-ist-ungeduldig-a-04ef2ca3-b493-4fc6-bb5f-de5274f796e8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-annalena-baerbocks-neuer-job-massendemonstrationen-in-der-tuerkei-bundeswehr-steht-vor-milliarden-ausgaben](https://www.spiegel.de/politik/deutschland/news-des-tages-annalena-baerbocks-neuer-job-massendemonstrationen-in-der-tuerkei-bundeswehr-steht-vor-milliarden-ausgaben-a-f82e6ed1-ea45-49f0-9471-03f5b62c38d5#ref=rss)
+* [https://www.spiegel.de/ausland/tuerkei-recep-tayyip-erdogan-diskreditiert-demonstrationen-als-strassenterror](https://www.spiegel.de/ausland/tuerkei-recep-tayyip-erdogan-diskreditiert-demonstrationen-als-strassenterror-a-3195c9c6-6d05-487e-b01e-9b3dbc55edf5#ref=rss)
+### heathrow
 
-* [https://www.spiegel.de/familie/lesen-und-vorlesen-warum-moegen-meine-kinder-keine-buecher-kolumne](https://www.spiegel.de/familie/lesen-und-vorlesen-warum-moegen-meine-kinder-keine-buecher-kolumne-a-b37a76ef-bf2d-4012-b599-05040360cfcf#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-in-china-lewis-hamilton-rast-auf-sprint-pole-max-verstappen-zweiter](https://www.spiegel.de/sport/formel1/formel-1-in-china-lewis-hamilton-rast-auf-sprint-pole-max-verstappen-zweiter-a-d16b49cc-79c9-4c72-842c-75e580a27abc#ref=rss)
-### laut
-
-* [https://www.spiegel.de/politik/deutschland/cdu-und-schuldenpaket-umfrage-sieht-friedrich-merz-unter-taeuschungsverdacht](https://www.spiegel.de/politik/deutschland/cdu-und-schuldenpaket-umfrage-sieht-friedrich-merz-unter-taeuschungsverdacht-a-59c6f97a-02be-4462-9162-92235adc195e#ref=rss)
-* [https://www.spiegel.de/auto/autoersatzteile-schonen-die-umwelt-wenn-gebrauchte-eingebaut-werden](https://www.spiegel.de/auto/autoersatzteile-schonen-die-umwelt-wenn-gebrauchte-eingebaut-werden-a-ba0bb6e4-f059-4357-87fe-c60484957e15#ref=rss)
-* [https://www.spiegel.de/ausland/elon-musk-soll-laut-bericht-an-pentagon-treffen-zu-potenziellem-krieg-mit-china-teilnehmen](https://www.spiegel.de/ausland/elon-musk-soll-laut-bericht-an-pentagon-treffen-zu-potenziellem-krieg-mit-china-teilnehmen-a-31a48800-fc0b-484b-ba81-bf22db24917e#ref=rss)
-### nations
-
-* [https://www.spiegel.de/sport/fussball/nations-league-deutschland-besiegt-italien-im-viertelfinal-hinspiel-2-1-pressestimmen](https://www.spiegel.de/sport/fussball/nations-league-deutschland-besiegt-italien-im-viertelfinal-hinspiel-2-1-pressestimmen-a-25101ccf-313f-4378-a07c-aab9e88f8e34#ref=rss)
-* [https://www.spiegel.de/sport/fussball/nations-league-italien-vs-deutschland-das-geheimnis-hinter-der-kitschigen-geschichte-von-leon-goretzka](https://www.spiegel.de/sport/fussball/nations-league-italien-vs-deutschland-das-geheimnis-hinter-der-kitschigen-geschichte-von-leon-goretzka-a-44d84abc-c1e6-4d7d-b8dc-2725638298e9#ref=rss)
-### league
-
-* [https://www.spiegel.de/sport/fussball/nations-league-deutschland-besiegt-italien-im-viertelfinal-hinspiel-2-1-pressestimmen](https://www.spiegel.de/sport/fussball/nations-league-deutschland-besiegt-italien-im-viertelfinal-hinspiel-2-1-pressestimmen-a-25101ccf-313f-4378-a07c-aab9e88f8e34#ref=rss)
-* [https://www.spiegel.de/sport/fussball/nations-league-italien-vs-deutschland-das-geheimnis-hinter-der-kitschigen-geschichte-von-leon-goretzka](https://www.spiegel.de/sport/fussball/nations-league-italien-vs-deutschland-das-geheimnis-hinter-der-kitschigen-geschichte-von-leon-goretzka-a-44d84abc-c1e6-4d7d-b8dc-2725638298e9#ref=rss)
-### italien
-
-* [https://www.spiegel.de/sport/fussball/nations-league-deutschland-besiegt-italien-im-viertelfinal-hinspiel-2-1-pressestimmen](https://www.spiegel.de/sport/fussball/nations-league-deutschland-besiegt-italien-im-viertelfinal-hinspiel-2-1-pressestimmen-a-25101ccf-313f-4378-a07c-aab9e88f8e34#ref=rss)
-* [https://www.spiegel.de/sport/fussball/nations-league-italien-vs-deutschland-das-geheimnis-hinter-der-kitschigen-geschichte-von-leon-goretzka](https://www.spiegel.de/sport/fussball/nations-league-italien-vs-deutschland-das-geheimnis-hinter-der-kitschigen-geschichte-von-leon-goretzka-a-44d84abc-c1e6-4d7d-b8dc-2725638298e9#ref=rss)
-### elon
-
-* [https://www.spiegel.de/ausland/elon-musk-soll-laut-bericht-an-pentagon-treffen-zu-potenziellem-krieg-mit-china-teilnehmen](https://www.spiegel.de/ausland/elon-musk-soll-laut-bericht-an-pentagon-treffen-zu-potenziellem-krieg-mit-china-teilnehmen-a-31a48800-fc0b-484b-ba81-bf22db24917e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/tesla-fahrer-suchen-verstaerkt-nach-alternativen-protest-gegen-elon-musk-in-den-usa](https://www.spiegel.de/wirtschaft/tesla-fahrer-suchen-verstaerkt-nach-alternativen-protest-gegen-elon-musk-in-den-usa-a-08be9b4e-89f0-4254-a942-20daf4487fe0#ref=rss)
-### musk
-
-* [https://www.spiegel.de/ausland/elon-musk-soll-laut-bericht-an-pentagon-treffen-zu-potenziellem-krieg-mit-china-teilnehmen](https://www.spiegel.de/ausland/elon-musk-soll-laut-bericht-an-pentagon-treffen-zu-potenziellem-krieg-mit-china-teilnehmen-a-31a48800-fc0b-484b-ba81-bf22db24917e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/tesla-fahrer-suchen-verstaerkt-nach-alternativen-protest-gegen-elon-musk-in-den-usa](https://www.spiegel.de/wirtschaft/tesla-fahrer-suchen-verstaerkt-nach-alternativen-protest-gegen-elon-musk-in-den-usa-a-08be9b4e-89f0-4254-a942-20daf4487fe0#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-soll-ukrainische-jugendliche-fuer-sabotageakte-rekrutiert-haben](https://www.spiegel.de/ausland/ukraine-krieg-russland-soll-ukrainische-jugendliche-fuer-sabotageakte-rekrutiert-haben-a-c687c7a7-a5f1-46b8-97bb-7e2d55e91c90#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-wladimir-putin-setzt-angriffe-trotz-anstehender-gespraeche-fort](https://www.spiegel.de/ausland/russland-ukraine-krieg-wladimir-putin-setzt-angriffe-trotz-anstehender-gespraeche-fort-a-03d44dd8-33e1-4668-bbe3-65da8673fae0#ref=rss)
-### feuer
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-soll-ukrainische-jugendliche-fuer-sabotageakte-rekrutiert-haben](https://www.spiegel.de/ausland/ukraine-krieg-russland-soll-ukrainische-jugendliche-fuer-sabotageakte-rekrutiert-haben-a-c687c7a7-a5f1-46b8-97bb-7e2d55e91c90#ref=rss)
-* [https://www.spiegel.de/panorama/london-heathrow-ein-stromausfall-nach-einem-feuer-legt-den-flughafen-lahm](https://www.spiegel.de/panorama/london-heathrow-ein-stromausfall-nach-einem-feuer-legt-den-flughafen-lahm-a-dbd0a704-9020-4783-b8d3-6c5384d9d992#ref=rss)
-### krieg
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-soll-ukrainische-jugendliche-fuer-sabotageakte-rekrutiert-haben](https://www.spiegel.de/ausland/ukraine-krieg-russland-soll-ukrainische-jugendliche-fuer-sabotageakte-rekrutiert-haben-a-c687c7a7-a5f1-46b8-97bb-7e2d55e91c90#ref=rss)
-* [https://www.spiegel.de/ausland/sudan-rsf-miliz-auf-dem-rueckzug-armee-erobert-hauptquartier-in-khartum](https://www.spiegel.de/ausland/sudan-rsf-miliz-auf-dem-rueckzug-armee-erobert-hauptquartier-in-khartum-a-418ea6d0-f0a6-470f-995a-273e11d32385#ref=rss)
-* [https://www.spiegel.de/ausland/elon-musk-soll-laut-bericht-an-pentagon-treffen-zu-potenziellem-krieg-mit-china-teilnehmen](https://www.spiegel.de/ausland/elon-musk-soll-laut-bericht-an-pentagon-treffen-zu-potenziellem-krieg-mit-china-teilnehmen-a-31a48800-fc0b-484b-ba81-bf22db24917e#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/politik/deutschland/cdu-und-schuldenpaket-umfrage-sieht-friedrich-merz-unter-taeuschungsverdacht](https://www.spiegel.de/politik/deutschland/cdu-und-schuldenpaket-umfrage-sieht-friedrich-merz-unter-taeuschungsverdacht-a-59c6f97a-02be-4462-9162-92235adc195e#ref=rss)
-* [https://www.spiegel.de/auto/a49-bei-schwalmstadt-in-hessen-neues-autobahn-stueck-fuer-den-verkehr-freigegeben](https://www.spiegel.de/auto/a49-bei-schwalmstadt-in-hessen-neues-autobahn-stueck-fuer-den-verkehr-freigegeben-a-d6be2680-ad04-4f9d-955e-2fc92e6487c8#ref=rss)
-* [https://www.spiegel.de/ausland/tunesien-praesident-kais-saied-ernennt-sarra-saafrani-zur-regierungschefin](https://www.spiegel.de/ausland/tunesien-praesident-kais-saied-ernennt-sarra-saafrani-zur-regierungschefin-a-b48c1c68-608e-437f-bde7-9f4d0db3780d#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wirtschaft/us-grenzer-beschlagnahmen-zurzeit-mehr-gefluegelprodukte-als-fentanyl](https://www.spiegel.de/wirtschaft/us-grenzer-beschlagnahmen-zurzeit-mehr-gefluegelprodukte-als-fentanyl-a-4d29f179-6f81-4c97-af84-b54f513da5c4#ref=rss)
-* [https://www.spiegel.de/panorama/london-heathrow-ein-stromausfall-nach-einem-feuer-legt-den-flughafen-lahm](https://www.spiegel.de/panorama/london-heathrow-ein-stromausfall-nach-einem-feuer-legt-den-flughafen-lahm-a-dbd0a704-9020-4783-b8d3-6c5384d9d992#ref=rss)
-### usa
-
-* [https://www.spiegel.de/wirtschaft/us-grenzer-beschlagnahmen-zurzeit-mehr-gefluegelprodukte-als-fentanyl](https://www.spiegel.de/wirtschaft/us-grenzer-beschlagnahmen-zurzeit-mehr-gefluegelprodukte-als-fentanyl-a-4d29f179-6f81-4c97-af84-b54f513da5c4#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-wladimir-putin-setzt-angriffe-trotz-anstehender-gespraeche-fort](https://www.spiegel.de/ausland/russland-ukraine-krieg-wladimir-putin-setzt-angriffe-trotz-anstehender-gespraeche-fort-a-03d44dd8-33e1-4668-bbe3-65da8673fae0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/tesla-fahrer-suchen-verstaerkt-nach-alternativen-protest-gegen-elon-musk-in-den-usa](https://www.spiegel.de/wirtschaft/tesla-fahrer-suchen-verstaerkt-nach-alternativen-protest-gegen-elon-musk-in-den-usa-a-08be9b4e-89f0-4254-a942-20daf4487fe0#ref=rss)
-### gelbhaar
-
-* [https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-wie-die-gruenen-bei-der-aufklaerung-des-falls-versagen](https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-wie-die-gruenen-bei-der-aufklaerung-des-falls-versagen-a-99db8021-0764-4070-bb9d-f55384fb6bd9#ref=rss)
-### china
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-china-lewis-hamilton-rast-auf-sprint-pole-max-verstappen-zweiter](https://www.spiegel.de/sport/formel1/formel-1-in-china-lewis-hamilton-rast-auf-sprint-pole-max-verstappen-zweiter-a-d16b49cc-79c9-4c72-842c-75e580a27abc#ref=rss)
-* [https://www.spiegel.de/ausland/elon-musk-soll-laut-bericht-an-pentagon-treffen-zu-potenziellem-krieg-mit-china-teilnehmen](https://www.spiegel.de/ausland/elon-musk-soll-laut-bericht-an-pentagon-treffen-zu-potenziellem-krieg-mit-china-teilnehmen-a-31a48800-fc0b-484b-ba81-bf22db24917e#ref=rss)
-### lang
-
-* [https://www.spiegel.de/panorama/london-heathrow-ein-stromausfall-nach-einem-feuer-legt-den-flughafen-lahm](https://www.spiegel.de/panorama/london-heathrow-ein-stromausfall-nach-einem-feuer-legt-den-flughafen-lahm-a-dbd0a704-9020-4783-b8d3-6c5384d9d992#ref=rss)
-* [https://www.spiegel.de/panorama/ex-bundeswehrsoldat-ben-r-nach-deutschland-ausgeliefert](https://www.spiegel.de/panorama/ex-bundeswehrsoldat-ben-r-nach-deutschland-ausgeliefert-a-6e9a6bd9-fa06-40dd-9f08-7d72d2531f58#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/panorama/ex-bundeswehrsoldat-ben-r-nach-deutschland-ausgeliefert](https://www.spiegel.de/panorama/ex-bundeswehrsoldat-ben-r-nach-deutschland-ausgeliefert-a-6e9a6bd9-fa06-40dd-9f08-7d72d2531f58#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-wladimir-putin-setzt-angriffe-trotz-anstehender-gespraeche-fort](https://www.spiegel.de/ausland/russland-ukraine-krieg-wladimir-putin-setzt-angriffe-trotz-anstehender-gespraeche-fort-a-03d44dd8-33e1-4668-bbe3-65da8673fae0#ref=rss)
-### viertelfinalhinspiel
-
-* [https://www.spiegel.de/sport/fussball/nations-league-deutschland-besiegt-italien-im-viertelfinal-hinspiel-2-1-pressestimmen](https://www.spiegel.de/sport/fussball/nations-league-deutschland-besiegt-italien-im-viertelfinal-hinspiel-2-1-pressestimmen-a-25101ccf-313f-4378-a07c-aab9e88f8e34#ref=rss)
-* [https://www.spiegel.de/sport/fussball/nations-league-italien-vs-deutschland-das-geheimnis-hinter-der-kitschigen-geschichte-von-leon-goretzka](https://www.spiegel.de/sport/fussball/nations-league-italien-vs-deutschland-das-geheimnis-hinter-der-kitschigen-geschichte-von-leon-goretzka-a-44d84abc-c1e6-4d7d-b8dc-2725638298e9#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/elon-musk-soll-laut-bericht-an-pentagon-treffen-zu-potenziellem-krieg-mit-china-teilnehmen](https://www.spiegel.de/ausland/elon-musk-soll-laut-bericht-an-pentagon-treffen-zu-potenziellem-krieg-mit-china-teilnehmen-a-31a48800-fc0b-484b-ba81-bf22db24917e#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-konfrontation-mit-der-us-justiz-eskaliert](https://www.spiegel.de/ausland/donald-trump-konfrontation-mit-der-us-justiz-eskaliert-a-d869ac28-d642-45aa-9955-bd43fe833340#ref=rss)
-### energiewende
-
-* [https://www.spiegel.de/wirtschaft/energiewende-oekostromanbieter-warnen-vor-rueckschritten-bei-der-energiewende](https://www.spiegel.de/wirtschaft/energiewende-oekostromanbieter-warnen-vor-rueckschritten-bei-der-energiewende-a-5433d4b5-9a8f-4b27-8cac-009ce81afe4a#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/vier-wanderer-auf-den-philippinen-vermisst-zwei-gerettet](https://www.spiegel.de/panorama/vier-wanderer-auf-den-philippinen-vermisst-zwei-gerettet-a-07f51ce1-795f-4b19-b750-bb8aa5735c7d#ref=rss)
-* [https://www.spiegel.de/ausland/tunesien-praesident-kais-saied-ernennt-sarra-saafrani-zur-regierungschefin](https://www.spiegel.de/ausland/tunesien-praesident-kais-saied-ernennt-sarra-saafrani-zur-regierungschefin-a-b48c1c68-608e-437f-bde7-9f4d0db3780d#ref=rss)
-### jugendliche
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-soll-ukrainische-jugendliche-fuer-sabotageakte-rekrutiert-haben](https://www.spiegel.de/ausland/ukraine-krieg-russland-soll-ukrainische-jugendliche-fuer-sabotageakte-rekrutiert-haben-a-c687c7a7-a5f1-46b8-97bb-7e2d55e91c90#ref=rss)
-### schuldenpaket
-
-* [https://www.spiegel.de/politik/deutschland/cdu-und-schuldenpaket-umfrage-sieht-friedrich-merz-unter-taeuschungsverdacht](https://www.spiegel.de/politik/deutschland/cdu-und-schuldenpaket-umfrage-sieht-friedrich-merz-unter-taeuschungsverdacht-a-59c6f97a-02be-4462-9162-92235adc195e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/peter-bofinger-ueber-grundgesetzaenderung-das-schuldenpaket-ist-ein-historischer-gluecksfall](https://www.spiegel.de/wirtschaft/peter-bofinger-ueber-grundgesetzaenderung-das-schuldenpaket-ist-ein-historischer-gluecksfall-a-6b9c6d4d-1731-4adf-81d0-1fb785feff81#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/cdu-und-schuldenpaket-umfrage-sieht-friedrich-merz-unter-taeuschungsverdacht](https://www.spiegel.de/politik/deutschland/cdu-und-schuldenpaket-umfrage-sieht-friedrich-merz-unter-taeuschungsverdacht-a-59c6f97a-02be-4462-9162-92235adc195e#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/cdu-und-schuldenpaket-umfrage-sieht-friedrich-merz-unter-taeuschungsverdacht](https://www.spiegel.de/politik/deutschland/cdu-und-schuldenpaket-umfrage-sieht-friedrich-merz-unter-taeuschungsverdacht-a-59c6f97a-02be-4462-9162-92235adc195e#ref=rss)
-### schulden
-
-* [https://www.spiegel.de/politik/deutschland/cdu-und-schuldenpaket-umfrage-sieht-friedrich-merz-unter-taeuschungsverdacht](https://www.spiegel.de/politik/deutschland/cdu-und-schuldenpaket-umfrage-sieht-friedrich-merz-unter-taeuschungsverdacht-a-59c6f97a-02be-4462-9162-92235adc195e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundesrat-stimmt-lockerung-der-schuldenbremse-zu](https://www.spiegel.de/politik/deutschland/bundesrat-stimmt-lockerung-der-schuldenbremse-zu-a-7a340204-82d0-4242-b22c-580b8ad5b6e2#ref=rss)
-### suchen
-
-* [https://www.spiegel.de/wirtschaft/us-grenzer-beschlagnahmen-zurzeit-mehr-gefluegelprodukte-als-fentanyl](https://www.spiegel.de/wirtschaft/us-grenzer-beschlagnahmen-zurzeit-mehr-gefluegelprodukte-als-fentanyl-a-4d29f179-6f81-4c97-af84-b54f513da5c4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/tesla-fahrer-suchen-verstaerkt-nach-alternativen-protest-gegen-elon-musk-in-den-usa](https://www.spiegel.de/wirtschaft/tesla-fahrer-suchen-verstaerkt-nach-alternativen-protest-gegen-elon-musk-in-den-usa-a-08be9b4e-89f0-4254-a942-20daf4487fe0#ref=rss)
-### lesen
-
-* [https://www.spiegel.de/familie/lesen-und-vorlesen-warum-moegen-meine-kinder-keine-buecher-kolumne](https://www.spiegel.de/familie/lesen-und-vorlesen-warum-moegen-meine-kinder-keine-buecher-kolumne-a-b37a76ef-bf2d-4012-b599-05040360cfcf#ref=rss)
-### bücher
-
-* [https://www.spiegel.de/familie/lesen-und-vorlesen-warum-moegen-meine-kinder-keine-buecher-kolumne](https://www.spiegel.de/familie/lesen-und-vorlesen-warum-moegen-meine-kinder-keine-buecher-kolumne-a-b37a76ef-bf2d-4012-b599-05040360cfcf#ref=rss)
-### kind
-
-* [https://www.spiegel.de/familie/lesen-und-vorlesen-warum-moegen-meine-kinder-keine-buecher-kolumne](https://www.spiegel.de/familie/lesen-und-vorlesen-warum-moegen-meine-kinder-keine-buecher-kolumne-a-b37a76ef-bf2d-4012-b599-05040360cfcf#ref=rss)
-* [https://www.spiegel.de/panorama/auftritt-in-podcast-not-gonna-lie-michelle-obama-sehnte-sich-nach-auszug-aus-dem-weissen-haus](https://www.spiegel.de/panorama/auftritt-in-podcast-not-gonna-lie-michelle-obama-sehnte-sich-nach-auszug-aus-dem-weissen-haus-a-b051f2fc-b6ad-4e09-b0c6-3eb3e97dd4ed#ref=rss)
-### peter
-
-* [https://www.spiegel.de/wirtschaft/peter-bofinger-ueber-grundgesetzaenderung-das-schuldenpaket-ist-ein-historischer-gluecksfall](https://www.spiegel.de/wirtschaft/peter-bofinger-ueber-grundgesetzaenderung-das-schuldenpaket-ist-ein-historischer-gluecksfall-a-6b9c6d4d-1731-4adf-81d0-1fb785feff81#ref=rss)
-### bofinger
-
-* [https://www.spiegel.de/wirtschaft/peter-bofinger-ueber-grundgesetzaenderung-das-schuldenpaket-ist-ein-historischer-gluecksfall](https://www.spiegel.de/wirtschaft/peter-bofinger-ueber-grundgesetzaenderung-das-schuldenpaket-ist-ein-historischer-gluecksfall-a-6b9c6d4d-1731-4adf-81d0-1fb785feff81#ref=rss)
-### deutschlands
-
-* [https://www.spiegel.de/wirtschaft/peter-bofinger-ueber-grundgesetzaenderung-das-schuldenpaket-ist-ein-historischer-gluecksfall](https://www.spiegel.de/wirtschaft/peter-bofinger-ueber-grundgesetzaenderung-das-schuldenpaket-ist-ein-historischer-gluecksfall-a-6b9c6d4d-1731-4adf-81d0-1fb785feff81#ref=rss)
-* [https://www.spiegel.de/auto/a49-bei-schwalmstadt-in-hessen-neues-autobahn-stueck-fuer-den-verkehr-freigegeben](https://www.spiegel.de/auto/a49-bei-schwalmstadt-in-hessen-neues-autobahn-stueck-fuer-den-verkehr-freigegeben-a-d6be2680-ad04-4f9d-955e-2fc92e6487c8#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/wirtschaft/peter-bofinger-ueber-grundgesetzaenderung-das-schuldenpaket-ist-ein-historischer-gluecksfall](https://www.spiegel.de/wirtschaft/peter-bofinger-ueber-grundgesetzaenderung-das-schuldenpaket-ist-ein-historischer-gluecksfall-a-6b9c6d4d-1731-4adf-81d0-1fb785feff81#ref=rss)
-* [https://www.spiegel.de/wirtschaft/eier-krise-erreicht-deutschland-gefluegellobby-warnt-vor-vorratskaeufen](https://www.spiegel.de/wirtschaft/eier-krise-erreicht-deutschland-gefluegellobby-warnt-vor-vorratskaeufen-a-8fdf71a7-d7cb-42af-9ed0-6e3d1e1e830c#ref=rss)
-### wirtschaft
-
-* [https://www.spiegel.de/wirtschaft/peter-bofinger-ueber-grundgesetzaenderung-das-schuldenpaket-ist-ein-historischer-gluecksfall](https://www.spiegel.de/wirtschaft/peter-bofinger-ueber-grundgesetzaenderung-das-schuldenpaket-ist-ein-historischer-gluecksfall-a-6b9c6d4d-1731-4adf-81d0-1fb785feff81#ref=rss)
-* [https://www.spiegel.de/wirtschaft/energiewende-oekostromanbieter-warnen-vor-rueckschritten-bei-der-energiewende](https://www.spiegel.de/wirtschaft/energiewende-oekostromanbieter-warnen-vor-rueckschritten-bei-der-energiewende-a-5433d4b5-9a8f-4b27-8cac-009ce81afe4a#ref=rss)
-### stefan
-
-* [https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-wie-die-gruenen-bei-der-aufklaerung-des-falls-versagen](https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-wie-die-gruenen-bei-der-aufklaerung-des-falls-versagen-a-99db8021-0764-4070-bb9d-f55384fb6bd9#ref=rss)
-### umgang
-
-* [https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-wie-die-gruenen-bei-der-aufklaerung-des-falls-versagen](https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-wie-die-gruenen-bei-der-aufklaerung-des-falls-versagen-a-99db8021-0764-4070-bb9d-f55384fb6bd9#ref=rss)
-* [https://www.spiegel.de/ausland/elon-musk-soll-laut-bericht-an-pentagon-treffen-zu-potenziellem-krieg-mit-china-teilnehmen](https://www.spiegel.de/ausland/elon-musk-soll-laut-bericht-an-pentagon-treffen-zu-potenziellem-krieg-mit-china-teilnehmen-a-31a48800-fc0b-484b-ba81-bf22db24917e#ref=rss)
-### viele
-
-* [https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-wie-die-gruenen-bei-der-aufklaerung-des-falls-versagen](https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-wie-die-gruenen-bei-der-aufklaerung-des-falls-versagen-a-99db8021-0764-4070-bb9d-f55384fb6bd9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/tesla-fahrer-suchen-verstaerkt-nach-alternativen-protest-gegen-elon-musk-in-den-usa](https://www.spiegel.de/wirtschaft/tesla-fahrer-suchen-verstaerkt-nach-alternativen-protest-gegen-elon-musk-in-den-usa-a-08be9b4e-89f0-4254-a942-20daf4487fe0#ref=rss)
-### mehrere
-
-* [https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-wie-die-gruenen-bei-der-aufklaerung-des-falls-versagen](https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-wie-die-gruenen-bei-der-aufklaerung-des-falls-versagen-a-99db8021-0764-4070-bb9d-f55384fb6bd9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundesrat-stimmt-lockerung-der-schuldenbremse-zu](https://www.spiegel.de/politik/deutschland/bundesrat-stimmt-lockerung-der-schuldenbremse-zu-a-7a340204-82d0-4242-b22c-580b8ad5b6e2#ref=rss)
-### vorwürfe
-
-* [https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-wie-die-gruenen-bei-der-aufklaerung-des-falls-versagen](https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-wie-die-gruenen-bei-der-aufklaerung-des-falls-versagen-a-99db8021-0764-4070-bb9d-f55384fb6bd9#ref=rss)
-* [https://www.spiegel.de/panorama/ex-bundeswehrsoldat-ben-r-nach-deutschland-ausgeliefert](https://www.spiegel.de/panorama/ex-bundeswehrsoldat-ben-r-nach-deutschland-ausgeliefert-a-6e9a6bd9-fa06-40dd-9f08-7d72d2531f58#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-wie-die-gruenen-bei-der-aufklaerung-des-falls-versagen](https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-wie-die-gruenen-bei-der-aufklaerung-des-falls-versagen-a-99db8021-0764-4070-bb9d-f55384fb6bd9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/tesla-fahrer-suchen-verstaerkt-nach-alternativen-protest-gegen-elon-musk-in-den-usa](https://www.spiegel.de/wirtschaft/tesla-fahrer-suchen-verstaerkt-nach-alternativen-protest-gegen-elon-musk-in-den-usa-a-08be9b4e-89f0-4254-a942-20daf4487fe0#ref=rss)
+* [https://www.spiegel.de/ausland/london-heathrow-uebergangsloesung-nach-stromausfall-erste-fluege-sollen-starten](https://www.spiegel.de/ausland/london-heathrow-uebergangsloesung-nach-stromausfall-erste-fluege-sollen-starten-a-184ea3ff-3dd6-43b0-865f-f1602ed39f16#ref=rss)
+* [https://www.spiegel.de/ausland/flughafen-london-heathrow-antiterroreinheit-ermittelt-wegen-stromausfall](https://www.spiegel.de/ausland/flughafen-london-heathrow-antiterroreinheit-ermittelt-wegen-stromausfall-a-93aa1e20-bcf4-4026-a88a-74ddc72c1a77#ref=rss)
 ### regierung
 
-* [https://www.spiegel.de/politik/deutschland/bundesrat-stimmt-lockerung-der-schuldenbremse-zu](https://www.spiegel.de/politik/deutschland/bundesrat-stimmt-lockerung-der-schuldenbremse-zu-a-7a340204-82d0-4242-b22c-580b8ad5b6e2#ref=rss)
-* [https://www.spiegel.de/ausland/sudan-rsf-miliz-auf-dem-rueckzug-armee-erobert-hauptquartier-in-khartum](https://www.spiegel.de/ausland/sudan-rsf-miliz-auf-dem-rueckzug-armee-erobert-hauptquartier-in-khartum-a-418ea6d0-f0a6-470f-995a-273e11d32385#ref=rss)
-### eierkrise
+* [https://www.spiegel.de/ausland/israel-wie-benjamin-netanyahu-israels-demokratie-gefaehrdet](https://www.spiegel.de/ausland/israel-wie-benjamin-netanyahu-israels-demokratie-gefaehrdet-a-a0370dce-6f1f-45c5-9bad-e9a39393294c#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-tuerkei-bekaempft-kurden-trotz-friedensabkommen-die-regierung-ist-ungeduldig](https://www.spiegel.de/ausland/syrien-tuerkei-bekaempft-kurden-trotz-friedensabkommen-die-regierung-ist-ungeduldig-a-04ef2ca3-b493-4fc6-bb5f-de5274f796e8#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klimamilliarden-fuer-die-neue-bundesregierung-was-kann-man-damit-erreichen](https://www.spiegel.de/wissenschaft/klimamilliarden-fuer-die-neue-bundesregierung-was-kann-man-damit-erreichen-a-f92e94d8-f4d6-49c1-9eef-afc7248eb77b#ref=rss)
+### usa
 
-* [https://www.spiegel.de/wirtschaft/eier-krise-erreicht-deutschland-gefluegellobby-warnt-vor-vorratskaeufen](https://www.spiegel.de/wirtschaft/eier-krise-erreicht-deutschland-gefluegellobby-warnt-vor-vorratskaeufen-a-8fdf71a7-d7cb-42af-9ed0-6e3d1e1e830c#ref=rss)
-### erreicht
+* [https://www.spiegel.de/panorama/leute/usa-blake-lively-kontert-verleumdungsklage-von-justin-baldoni](https://www.spiegel.de/panorama/leute/usa-blake-lively-kontert-verleumdungsklage-von-justin-baldoni-a-72aa2156-cf8e-4900-961b-d455927b2e5e#ref=rss)
+* [https://www.spiegel.de/ausland/usa-elon-musk-droht-informanten-der-new-york-times](https://www.spiegel.de/ausland/usa-elon-musk-droht-informanten-der-new-york-times-a-81d0db88-fec5-4646-9d88-e67794d515e5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/verteidigungspolitik-deutschlands-schulden-durch-aufruestung-geringer-als-in-frankreich](https://www.spiegel.de/wirtschaft/verteidigungspolitik-deutschlands-schulden-durch-aufruestung-geringer-als-in-frankreich-a-dd72855c-f157-4119-b2ea-1a160f638b6e#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-us-gericht-verhindert-abschiebung-von-wissenschaftler-wegen-hamas-vorwurf](https://www.spiegel.de/ausland/israel-gaza-krieg-us-gericht-verhindert-abschiebung-von-wissenschaftler-wegen-hamas-vorwurf-a-a9948ec4-057f-44cb-83f3-003b48d1a4d8#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/wirtschaft/eier-krise-erreicht-deutschland-gefluegellobby-warnt-vor-vorratskaeufen](https://www.spiegel.de/wirtschaft/eier-krise-erreicht-deutschland-gefluegellobby-warnt-vor-vorratskaeufen-a-8fdf71a7-d7cb-42af-9ed0-6e3d1e1e830c#ref=rss)
-### wenig
+* [https://www.spiegel.de/panorama/justiz/bielefeld-mann-attackiert-zwei-menschen-mit-messer](https://www.spiegel.de/panorama/justiz/bielefeld-mann-attackiert-zwei-menschen-mit-messer-a-97f693b4-c66e-4586-b3ef-cb6b14a3e5f2#ref=rss)
+* [https://www.spiegel.de/ausland/tuerkei-recep-tayyip-erdogan-diskreditiert-demonstrationen-als-strassenterror](https://www.spiegel.de/ausland/tuerkei-recep-tayyip-erdogan-diskreditiert-demonstrationen-als-strassenterror-a-3195c9c6-6d05-487e-b01e-9b3dbc55edf5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-milliarden-fuer-panzer-und-drohnen-wie-die-truppe-nun-aufruesten-will](https://www.spiegel.de/politik/deutschland/bundeswehr-milliarden-fuer-panzer-und-drohnen-wie-die-truppe-nun-aufruesten-will-a-b0d4ffc6-bda9-4fd1-9fed-506108922469#ref=rss)
+### drei
 
-* [https://www.spiegel.de/wirtschaft/eier-krise-erreicht-deutschland-gefluegellobby-warnt-vor-vorratskaeufen](https://www.spiegel.de/wirtschaft/eier-krise-erreicht-deutschland-gefluegellobby-warnt-vor-vorratskaeufen-a-8fdf71a7-d7cb-42af-9ed0-6e3d1e1e830c#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-in-china-lewis-hamilton-rast-auf-sprint-pole-max-verstappen-zweiter](https://www.spiegel.de/sport/formel1/formel-1-in-china-lewis-hamilton-rast-auf-sprint-pole-max-verstappen-zweiter-a-d16b49cc-79c9-4c72-842c-75e580a27abc#ref=rss)
-### alternative
+* [https://www.spiegel.de/panorama/justiz/duesseldorf-drei-jugendliche-nach-islamistischen-anschlagsplaenen-zu-drei-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/duesseldorf-drei-jugendliche-nach-islamistischen-anschlagsplaenen-zu-drei-jahren-haft-verurteilt-a-4b6a52ac-da8e-46df-a6ac-71b15bda1e5e#ref=rss)
+### london
 
-* [https://www.spiegel.de/wirtschaft/service/etf-diese-etfs-taugen-als-alternative-zum-tagesgeld](https://www.spiegel.de/wirtschaft/service/etf-diese-etfs-taugen-als-alternative-zum-tagesgeld-a-fbc48f5e-e83a-4f56-a1e8-4a99851a3a6f#ref=rss)
-### tagesgeld
-
-* [https://www.spiegel.de/wirtschaft/service/etf-diese-etfs-taugen-als-alternative-zum-tagesgeld](https://www.spiegel.de/wirtschaft/service/etf-diese-etfs-taugen-als-alternative-zum-tagesgeld-a-fbc48f5e-e83a-4f56-a1e8-4a99851a3a6f#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/wirtschaft/service/etf-diese-etfs-taugen-als-alternative-zum-tagesgeld](https://www.spiegel.de/wirtschaft/service/etf-diese-etfs-taugen-als-alternative-zum-tagesgeld-a-fbc48f5e-e83a-4f56-a1e8-4a99851a3a6f#ref=rss)
-* [https://www.spiegel.de/ausland/tunesien-praesident-kais-saied-ernennt-sarra-saafrani-zur-regierungschefin](https://www.spiegel.de/ausland/tunesien-praesident-kais-saied-ernennt-sarra-saafrani-zur-regierungschefin-a-b48c1c68-608e-437f-bde7-9f4d0db3780d#ref=rss)
-### sollten
-
-* [https://www.spiegel.de/wirtschaft/service/etf-diese-etfs-taugen-als-alternative-zum-tagesgeld](https://www.spiegel.de/wirtschaft/service/etf-diese-etfs-taugen-als-alternative-zum-tagesgeld-a-fbc48f5e-e83a-4f56-a1e8-4a99851a3a6f#ref=rss)
-* [https://www.spiegel.de/ausland/neapel-wie-die-vele-di-scampia-zur-bausuende-und-mafia-ikone-wurde](https://www.spiegel.de/ausland/neapel-wie-die-vele-di-scampia-zur-bausuende-und-mafia-ikone-wurde-a-75eb0456-eea2-4389-929a-86830933af27#ref=rss)
-### gebrauchte
-
-* [https://www.spiegel.de/auto/autoersatzteile-schonen-die-umwelt-wenn-gebrauchte-eingebaut-werden](https://www.spiegel.de/auto/autoersatzteile-schonen-die-umwelt-wenn-gebrauchte-eingebaut-werden-a-ba0bb6e4-f059-4357-87fe-c60484957e15#ref=rss)
-### sudan
-
-* [https://www.spiegel.de/ausland/sudan-rsf-miliz-auf-dem-rueckzug-armee-erobert-hauptquartier-in-khartum](https://www.spiegel.de/ausland/sudan-rsf-miliz-auf-dem-rueckzug-armee-erobert-hauptquartier-in-khartum-a-418ea6d0-f0a6-470f-995a-273e11d32385#ref=rss)
-### rsfmiliz
-
-* [https://www.spiegel.de/ausland/sudan-rsf-miliz-auf-dem-rueckzug-armee-erobert-hauptquartier-in-khartum](https://www.spiegel.de/ausland/sudan-rsf-miliz-auf-dem-rueckzug-armee-erobert-hauptquartier-in-khartum-a-418ea6d0-f0a6-470f-995a-273e11d32385#ref=rss)
-### rückzug
-
-* [https://www.spiegel.de/ausland/sudan-rsf-miliz-auf-dem-rueckzug-armee-erobert-hauptquartier-in-khartum](https://www.spiegel.de/ausland/sudan-rsf-miliz-auf-dem-rueckzug-armee-erobert-hauptquartier-in-khartum-a-418ea6d0-f0a6-470f-995a-273e11d32385#ref=rss)
-### lewis
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-china-lewis-hamilton-rast-auf-sprint-pole-max-verstappen-zweiter](https://www.spiegel.de/sport/formel1/formel-1-in-china-lewis-hamilton-rast-auf-sprint-pole-max-verstappen-zweiter-a-d16b49cc-79c9-4c72-842c-75e580a27abc#ref=rss)
-### hamilton
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-china-lewis-hamilton-rast-auf-sprint-pole-max-verstappen-zweiter](https://www.spiegel.de/sport/formel1/formel-1-in-china-lewis-hamilton-rast-auf-sprint-pole-max-verstappen-zweiter-a-d16b49cc-79c9-4c72-842c-75e580a27abc#ref=rss)
-### max
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-china-lewis-hamilton-rast-auf-sprint-pole-max-verstappen-zweiter](https://www.spiegel.de/sport/formel1/formel-1-in-china-lewis-hamilton-rast-auf-sprint-pole-max-verstappen-zweiter-a-d16b49cc-79c9-4c72-842c-75e580a27abc#ref=rss)
-### verstappen
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-china-lewis-hamilton-rast-auf-sprint-pole-max-verstappen-zweiter](https://www.spiegel.de/sport/formel1/formel-1-in-china-lewis-hamilton-rast-auf-sprint-pole-max-verstappen-zweiter-a-d16b49cc-79c9-4c72-842c-75e580a27abc#ref=rss)
-### a49
-
-* [https://www.spiegel.de/auto/a49-bei-schwalmstadt-in-hessen-neues-autobahn-stueck-fuer-den-verkehr-freigegeben](https://www.spiegel.de/auto/a49-bei-schwalmstadt-in-hessen-neues-autobahn-stueck-fuer-den-verkehr-freigegeben-a-d6be2680-ad04-4f9d-955e-2fc92e6487c8#ref=rss)
-### hessen
-
-* [https://www.spiegel.de/auto/a49-bei-schwalmstadt-in-hessen-neues-autobahn-stueck-fuer-den-verkehr-freigegeben](https://www.spiegel.de/auto/a49-bei-schwalmstadt-in-hessen-neues-autobahn-stueck-fuer-den-verkehr-freigegeben-a-d6be2680-ad04-4f9d-955e-2fc92e6487c8#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/handy-verbot-an-schulen-lasst-den-schuelern-ihre-smartphones](https://www.spiegel.de/panorama/bildung/handy-verbot-an-schulen-lasst-den-schuelern-ihre-smartphones-a-1cc52b43-66c1-4127-b0be-0f914ea39165#ref=rss)
-### vier
-
-* [https://www.spiegel.de/auto/a49-bei-schwalmstadt-in-hessen-neues-autobahn-stueck-fuer-den-verkehr-freigegeben](https://www.spiegel.de/auto/a49-bei-schwalmstadt-in-hessen-neues-autobahn-stueck-fuer-den-verkehr-freigegeben-a-d6be2680-ad04-4f9d-955e-2fc92e6487c8#ref=rss)
-* [https://www.spiegel.de/panorama/vier-wanderer-auf-den-philippinen-vermisst-zwei-gerettet](https://www.spiegel.de/panorama/vier-wanderer-auf-den-philippinen-vermisst-zwei-gerettet-a-07f51ce1-795f-4b19-b750-bb8aa5735c7d#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/auto/a49-bei-schwalmstadt-in-hessen-neues-autobahn-stueck-fuer-den-verkehr-freigegeben](https://www.spiegel.de/auto/a49-bei-schwalmstadt-in-hessen-neues-autobahn-stueck-fuer-den-verkehr-freigegeben-a-d6be2680-ad04-4f9d-955e-2fc92e6487c8#ref=rss)
-* [https://www.spiegel.de/ausland/tunesien-praesident-kais-saied-ernennt-sarra-saafrani-zur-regierungschefin](https://www.spiegel.de/ausland/tunesien-praesident-kais-saied-ernennt-sarra-saafrani-zur-regierungschefin-a-b48c1c68-608e-437f-bde7-9f4d0db3780d#ref=rss)
-### herrscht
-
-* [https://www.spiegel.de/auto/a49-bei-schwalmstadt-in-hessen-neues-autobahn-stueck-fuer-den-verkehr-freigegeben](https://www.spiegel.de/auto/a49-bei-schwalmstadt-in-hessen-neues-autobahn-stueck-fuer-den-verkehr-freigegeben-a-d6be2680-ad04-4f9d-955e-2fc92e6487c8#ref=rss)
-* [https://www.spiegel.de/sport/fussball/nations-league-deutschland-besiegt-italien-im-viertelfinal-hinspiel-2-1-pressestimmen](https://www.spiegel.de/sport/fussball/nations-league-deutschland-besiegt-italien-im-viertelfinal-hinspiel-2-1-pressestimmen-a-25101ccf-313f-4378-a07c-aab9e88f8e34#ref=rss)
+* [https://www.spiegel.de/ausland/london-heathrow-uebergangsloesung-nach-stromausfall-erste-fluege-sollen-starten](https://www.spiegel.de/ausland/london-heathrow-uebergangsloesung-nach-stromausfall-erste-fluege-sollen-starten-a-184ea3ff-3dd6-43b0-865f-f1602ed39f16#ref=rss)
+* [https://www.spiegel.de/ausland/flughafen-london-heathrow-antiterroreinheit-ermittelt-wegen-stromausfall](https://www.spiegel.de/ausland/flughafen-london-heathrow-antiterroreinheit-ermittelt-wegen-stromausfall-a-93aa1e20-bcf4-4026-a88a-74ddc72c1a77#ref=rss)
 ### stromausfall
 
-* [https://www.spiegel.de/panorama/london-heathrow-ein-stromausfall-nach-einem-feuer-legt-den-flughafen-lahm](https://www.spiegel.de/panorama/london-heathrow-ein-stromausfall-nach-einem-feuer-legt-den-flughafen-lahm-a-dbd0a704-9020-4783-b8d3-6c5384d9d992#ref=rss)
-### grund
+* [https://www.spiegel.de/ausland/london-heathrow-uebergangsloesung-nach-stromausfall-erste-fluege-sollen-starten](https://www.spiegel.de/ausland/london-heathrow-uebergangsloesung-nach-stromausfall-erste-fluege-sollen-starten-a-184ea3ff-3dd6-43b0-865f-f1602ed39f16#ref=rss)
+* [https://www.spiegel.de/ausland/flughafen-london-heathrow-antiterroreinheit-ermittelt-wegen-stromausfall](https://www.spiegel.de/ausland/flughafen-london-heathrow-antiterroreinheit-ermittelt-wegen-stromausfall-a-93aa1e20-bcf4-4026-a88a-74ddc72c1a77#ref=rss)
+### netanyahu
 
-* [https://www.spiegel.de/panorama/london-heathrow-ein-stromausfall-nach-einem-feuer-legt-den-flughafen-lahm](https://www.spiegel.de/panorama/london-heathrow-ein-stromausfall-nach-einem-feuer-legt-den-flughafen-lahm-a-dbd0a704-9020-4783-b8d3-6c5384d9d992#ref=rss)
-* [https://www.spiegel.de/panorama/auftritt-in-podcast-not-gonna-lie-michelle-obama-sehnte-sich-nach-auszug-aus-dem-weissen-haus](https://www.spiegel.de/panorama/auftritt-in-podcast-not-gonna-lie-michelle-obama-sehnte-sich-nach-auszug-aus-dem-weissen-haus-a-b051f2fc-b6ad-4e09-b0c6-3eb3e97dd4ed#ref=rss)
-### ben
+* [https://www.spiegel.de/ausland/israel-wie-benjamin-netanyahu-israels-demokratie-gefaehrdet](https://www.spiegel.de/ausland/israel-wie-benjamin-netanyahu-israels-demokratie-gefaehrdet-a-a0370dce-6f1f-45c5-9bad-e9a39393294c#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gericht-stoppt-vorerst-entlassung-von-geheimdienstchef-ronen-bar](https://www.spiegel.de/ausland/israel-gericht-stoppt-vorerst-entlassung-von-geheimdienstchef-ronen-bar-a-f246614d-0eff-46a4-ae9d-e8486d40a9ac#ref=rss)
+### schritt
 
-* [https://www.spiegel.de/panorama/ex-bundeswehrsoldat-ben-r-nach-deutschland-ausgeliefert](https://www.spiegel.de/panorama/ex-bundeswehrsoldat-ben-r-nach-deutschland-ausgeliefert-a-6e9a6bd9-fa06-40dd-9f08-7d72d2531f58#ref=rss)
-### r
+* [https://www.spiegel.de/ausland/israel-wie-benjamin-netanyahu-israels-demokratie-gefaehrdet](https://www.spiegel.de/ausland/israel-wie-benjamin-netanyahu-israels-demokratie-gefaehrdet-a-a0370dce-6f1f-45c5-9bad-e9a39393294c#ref=rss)
+* [https://www.spiegel.de/auto/von-norddeich-nach-norderney-reederei-nimmt-erste-elektrische-faehre-in-betrieb](https://www.spiegel.de/auto/von-norddeich-nach-norderney-reederei-nimmt-erste-elektrische-faehre-in-betrieb-a-aa3d8da6-961d-4c9e-836c-8f35a76144b2#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gericht-stoppt-vorerst-entlassung-von-geheimdienstchef-ronen-bar](https://www.spiegel.de/ausland/israel-gericht-stoppt-vorerst-entlassung-von-geheimdienstchef-ronen-bar-a-f246614d-0eff-46a4-ae9d-e8486d40a9ac#ref=rss)
+### bundeswehr
 
-* [https://www.spiegel.de/panorama/ex-bundeswehrsoldat-ben-r-nach-deutschland-ausgeliefert](https://www.spiegel.de/panorama/ex-bundeswehrsoldat-ben-r-nach-deutschland-ausgeliefert-a-6e9a6bd9-fa06-40dd-9f08-7d72d2531f58#ref=rss)
-### ausgeliefert
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-annalena-baerbocks-neuer-job-massendemonstrationen-in-der-tuerkei-bundeswehr-steht-vor-milliarden-ausgaben](https://www.spiegel.de/politik/deutschland/news-des-tages-annalena-baerbocks-neuer-job-massendemonstrationen-in-der-tuerkei-bundeswehr-steht-vor-milliarden-ausgaben-a-f82e6ed1-ea45-49f0-9471-03f5b62c38d5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-milliarden-fuer-panzer-und-drohnen-wie-die-truppe-nun-aufruesten-will](https://www.spiegel.de/politik/deutschland/bundeswehr-milliarden-fuer-panzer-und-drohnen-wie-die-truppe-nun-aufruesten-will-a-b0d4ffc6-bda9-4fd1-9fed-506108922469#ref=rss)
+### mann
 
-* [https://www.spiegel.de/panorama/ex-bundeswehrsoldat-ben-r-nach-deutschland-ausgeliefert](https://www.spiegel.de/panorama/ex-bundeswehrsoldat-ben-r-nach-deutschland-ausgeliefert-a-6e9a6bd9-fa06-40dd-9f08-7d72d2531f58#ref=rss)
-### deutschen
+* [https://www.spiegel.de/panorama/justiz/bielefeld-mann-attackiert-zwei-menschen-mit-messer](https://www.spiegel.de/panorama/justiz/bielefeld-mann-attackiert-zwei-menschen-mit-messer-a-97f693b4-c66e-4586-b3ef-cb6b14a3e5f2#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/kassel-mann-erstochen-polizei-nimmt-zwei-tatverdaechtige-fest](https://www.spiegel.de/panorama/justiz/kassel-mann-erstochen-polizei-nimmt-zwei-tatverdaechtige-fest-a-3ff578cb-4825-4a3a-8f9c-08ca214bb86b#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/panorama/ex-bundeswehrsoldat-ben-r-nach-deutschland-ausgeliefert](https://www.spiegel.de/panorama/ex-bundeswehrsoldat-ben-r-nach-deutschland-ausgeliefert-a-6e9a6bd9-fa06-40dd-9f08-7d72d2531f58#ref=rss)
-* [https://www.spiegel.de/panorama/vier-wanderer-auf-den-philippinen-vermisst-zwei-gerettet](https://www.spiegel.de/panorama/vier-wanderer-auf-den-philippinen-vermisst-zwei-gerettet-a-07f51ce1-795f-4b19-b750-bb8aa5735c7d#ref=rss)
-### podcast
+* [https://www.spiegel.de/panorama/justiz/bielefeld-mann-attackiert-zwei-menschen-mit-messer](https://www.spiegel.de/panorama/justiz/bielefeld-mann-attackiert-zwei-menschen-mit-messer-a-97f693b4-c66e-4586-b3ef-cb6b14a3e5f2#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/kassel-mann-erstochen-polizei-nimmt-zwei-tatverdaechtige-fest](https://www.spiegel.de/panorama/justiz/kassel-mann-erstochen-polizei-nimmt-zwei-tatverdaechtige-fest-a-3ff578cb-4825-4a3a-8f9c-08ca214bb86b#ref=rss)
+### straße
 
-* [https://www.spiegel.de/panorama/auftritt-in-podcast-not-gonna-lie-michelle-obama-sehnte-sich-nach-auszug-aus-dem-weissen-haus](https://www.spiegel.de/panorama/auftritt-in-podcast-not-gonna-lie-michelle-obama-sehnte-sich-nach-auszug-aus-dem-weissen-haus-a-b051f2fc-b6ad-4e09-b0c6-3eb3e97dd4ed#ref=rss)
-### michelle
+* [https://www.spiegel.de/panorama/justiz/bielefeld-mann-attackiert-zwei-menschen-mit-messer](https://www.spiegel.de/panorama/justiz/bielefeld-mann-attackiert-zwei-menschen-mit-messer-a-97f693b4-c66e-4586-b3ef-cb6b14a3e5f2#ref=rss)
+* [https://www.spiegel.de/ausland/tuerkei-recep-tayyip-erdogan-diskreditiert-demonstrationen-als-strassenterror](https://www.spiegel.de/ausland/tuerkei-recep-tayyip-erdogan-diskreditiert-demonstrationen-als-strassenterror-a-3195c9c6-6d05-487e-b01e-9b3dbc55edf5#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/kassel-mann-erstochen-polizei-nimmt-zwei-tatverdaechtige-fest](https://www.spiegel.de/panorama/justiz/kassel-mann-erstochen-polizei-nimmt-zwei-tatverdaechtige-fest-a-3ff578cb-4825-4a3a-8f9c-08ca214bb86b#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/panorama/auftritt-in-podcast-not-gonna-lie-michelle-obama-sehnte-sich-nach-auszug-aus-dem-weissen-haus](https://www.spiegel.de/panorama/auftritt-in-podcast-not-gonna-lie-michelle-obama-sehnte-sich-nach-auszug-aus-dem-weissen-haus-a-b051f2fc-b6ad-4e09-b0c6-3eb3e97dd4ed#ref=rss)
-### obama
+* [https://www.spiegel.de/panorama/justiz/bielefeld-mann-attackiert-zwei-menschen-mit-messer](https://www.spiegel.de/panorama/justiz/bielefeld-mann-attackiert-zwei-menschen-mit-messer-a-97f693b4-c66e-4586-b3ef-cb6b14a3e5f2#ref=rss)
+* [https://www.spiegel.de/ausland/flughafen-london-heathrow-antiterroreinheit-ermittelt-wegen-stromausfall](https://www.spiegel.de/ausland/flughafen-london-heathrow-antiterroreinheit-ermittelt-wegen-stromausfall-a-93aa1e20-bcf4-4026-a88a-74ddc72c1a77#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/kassel-mann-erstochen-polizei-nimmt-zwei-tatverdaechtige-fest](https://www.spiegel.de/panorama/justiz/kassel-mann-erstochen-polizei-nimmt-zwei-tatverdaechtige-fest-a-3ff578cb-4825-4a3a-8f9c-08ca214bb86b#ref=rss)
+### festgenommen
 
-* [https://www.spiegel.de/panorama/auftritt-in-podcast-not-gonna-lie-michelle-obama-sehnte-sich-nach-auszug-aus-dem-weissen-haus](https://www.spiegel.de/panorama/auftritt-in-podcast-not-gonna-lie-michelle-obama-sehnte-sich-nach-auszug-aus-dem-weissen-haus-a-b051f2fc-b6ad-4e09-b0c6-3eb3e97dd4ed#ref=rss)
-### haus
+* [https://www.spiegel.de/panorama/justiz/bielefeld-mann-attackiert-zwei-menschen-mit-messer](https://www.spiegel.de/panorama/justiz/bielefeld-mann-attackiert-zwei-menschen-mit-messer-a-97f693b4-c66e-4586-b3ef-cb6b14a3e5f2#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-us-gericht-verhindert-abschiebung-von-wissenschaftler-wegen-hamas-vorwurf](https://www.spiegel.de/ausland/israel-gaza-krieg-us-gericht-verhindert-abschiebung-von-wissenschaftler-wegen-hamas-vorwurf-a-a9948ec4-057f-44cb-83f3-003b48d1a4d8#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/kassel-mann-erstochen-polizei-nimmt-zwei-tatverdaechtige-fest](https://www.spiegel.de/panorama/justiz/kassel-mann-erstochen-polizei-nimmt-zwei-tatverdaechtige-fest-a-3ff578cb-4825-4a3a-8f9c-08ca214bb86b#ref=rss)
+### investitionspaket
 
-* [https://www.spiegel.de/panorama/auftritt-in-podcast-not-gonna-lie-michelle-obama-sehnte-sich-nach-auszug-aus-dem-weissen-haus](https://www.spiegel.de/panorama/auftritt-in-podcast-not-gonna-lie-michelle-obama-sehnte-sich-nach-auszug-aus-dem-weissen-haus-a-b051f2fc-b6ad-4e09-b0c6-3eb3e97dd4ed#ref=rss)
-* [https://www.spiegel.de/ausland/elon-musk-soll-laut-bericht-an-pentagon-treffen-zu-potenziellem-krieg-mit-china-teilnehmen](https://www.spiegel.de/ausland/elon-musk-soll-laut-bericht-an-pentagon-treffen-zu-potenziellem-krieg-mit-china-teilnehmen-a-31a48800-fc0b-484b-ba81-bf22db24917e#ref=rss)
-### besiegt
+* [https://www.spiegel.de/wissenschaft/natur/investitionspaket-was-bringt-das-neue-klima-geld](https://www.spiegel.de/wissenschaft/natur/investitionspaket-was-bringt-das-neue-klima-geld-a-ccd7eae5-ca60-4e4a-aef0-93b59d0c581a#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klimamilliarden-fuer-die-neue-bundesregierung-was-kann-man-damit-erreichen](https://www.spiegel.de/wissenschaft/klimamilliarden-fuer-die-neue-bundesregierung-was-kann-man-damit-erreichen-a-f92e94d8-f4d6-49c1-9eef-afc7248eb77b#ref=rss)
+### milliarden
 
-* [https://www.spiegel.de/sport/fussball/nations-league-deutschland-besiegt-italien-im-viertelfinal-hinspiel-2-1-pressestimmen](https://www.spiegel.de/sport/fussball/nations-league-deutschland-besiegt-italien-im-viertelfinal-hinspiel-2-1-pressestimmen-a-25101ccf-313f-4378-a07c-aab9e88f8e34#ref=rss)
-* [https://www.spiegel.de/ausland/neapel-wie-die-vele-di-scampia-zur-bausuende-und-mafia-ikone-wurde](https://www.spiegel.de/ausland/neapel-wie-die-vele-di-scampia-zur-bausuende-und-mafia-ikone-wurde-a-75eb0456-eea2-4389-929a-86830933af27#ref=rss)
-### pressestimmen
+* [https://www.spiegel.de/wissenschaft/natur/investitionspaket-was-bringt-das-neue-klima-geld](https://www.spiegel.de/wissenschaft/natur/investitionspaket-was-bringt-das-neue-klima-geld-a-ccd7eae5-ca60-4e4a-aef0-93b59d0c581a#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klimamilliarden-fuer-die-neue-bundesregierung-was-kann-man-damit-erreichen](https://www.spiegel.de/wissenschaft/klimamilliarden-fuer-die-neue-bundesregierung-was-kann-man-damit-erreichen-a-f92e94d8-f4d6-49c1-9eef-afc7248eb77b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-milliarden-fuer-panzer-und-drohnen-wie-die-truppe-nun-aufruesten-will](https://www.spiegel.de/politik/deutschland/bundeswehr-milliarden-fuer-panzer-und-drohnen-wie-die-truppe-nun-aufruesten-will-a-b0d4ffc6-bda9-4fd1-9fed-506108922469#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/sport/fussball/nations-league-deutschland-besiegt-italien-im-viertelfinal-hinspiel-2-1-pressestimmen](https://www.spiegel.de/sport/fussball/nations-league-deutschland-besiegt-italien-im-viertelfinal-hinspiel-2-1-pressestimmen-a-25101ccf-313f-4378-a07c-aab9e88f8e34#ref=rss)
-### teilnehmen
+* [https://www.spiegel.de/wissenschaft/natur/investitionspaket-was-bringt-das-neue-klima-geld](https://www.spiegel.de/wissenschaft/natur/investitionspaket-was-bringt-das-neue-klima-geld-a-ccd7eae5-ca60-4e4a-aef0-93b59d0c581a#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klimamilliarden-fuer-die-neue-bundesregierung-was-kann-man-damit-erreichen](https://www.spiegel.de/wissenschaft/klimamilliarden-fuer-die-neue-bundesregierung-was-kann-man-damit-erreichen-a-f92e94d8-f4d6-49c1-9eef-afc7248eb77b#ref=rss)
+* [https://www.spiegel.de/kultur/musik/die-heiterkeit-selena-gomez-greentea-peng-lonnie-holley-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/die-heiterkeit-selena-gomez-greentea-peng-lonnie-holley-abgehoert-album-der-woche-a-ce055297-3096-4ce6-b2bf-e628f691b91d#ref=rss)
+### spd
 
-* [https://www.spiegel.de/ausland/elon-musk-soll-laut-bericht-an-pentagon-treffen-zu-potenziellem-krieg-mit-china-teilnehmen](https://www.spiegel.de/ausland/elon-musk-soll-laut-bericht-an-pentagon-treffen-zu-potenziellem-krieg-mit-china-teilnehmen-a-31a48800-fc0b-484b-ba81-bf22db24917e#ref=rss)
-### trump
+* [https://www.spiegel.de/politik/koalitionsarbeitsgruppe-zu-finanzen-keine-einigung-bei-steuern-und-haushalt-jetzt-muessen-die-chefs-entscheiden](https://www.spiegel.de/politik/koalitionsarbeitsgruppe-zu-finanzen-keine-einigung-bei-steuern-und-haushalt-jetzt-muessen-die-chefs-entscheiden-a-5cb65334-0a9a-4aac-b873-800da0f7f002#ref=rss)
+### ich
 
-* [https://www.spiegel.de/ausland/elon-musk-soll-laut-bericht-an-pentagon-treffen-zu-potenziellem-krieg-mit-china-teilnehmen](https://www.spiegel.de/ausland/elon-musk-soll-laut-bericht-an-pentagon-treffen-zu-potenziellem-krieg-mit-china-teilnehmen-a-31a48800-fc0b-484b-ba81-bf22db24917e#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-konfrontation-mit-der-us-justiz-eskaliert](https://www.spiegel.de/ausland/donald-trump-konfrontation-mit-der-us-justiz-eskaliert-a-d869ac28-d642-45aa-9955-bd43fe833340#ref=rss)
-### handyverbot
+* [https://www.spiegel.de/kultur/asia-supermaerkte-man-kauft-sich-auch-ein-bisschen-sorglosigkeit-und-einen-happen-ignoranz](https://www.spiegel.de/kultur/asia-supermaerkte-man-kauft-sich-auch-ein-bisschen-sorglosigkeit-und-einen-happen-ignoranz-a-64b62f8a-2fd2-4812-8e0c-86dec2bcf04c#ref=rss)
+### düsseldorf
 
-* [https://www.spiegel.de/panorama/bildung/handy-verbot-an-schulen-lasst-den-schuelern-ihre-smartphones](https://www.spiegel.de/panorama/bildung/handy-verbot-an-schulen-lasst-den-schuelern-ihre-smartphones-a-1cc52b43-66c1-4127-b0be-0f914ea39165#ref=rss)
-### schulen
+* [https://www.spiegel.de/panorama/justiz/duesseldorf-drei-jugendliche-nach-islamistischen-anschlagsplaenen-zu-drei-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/duesseldorf-drei-jugendliche-nach-islamistischen-anschlagsplaenen-zu-drei-jahren-haft-verurteilt-a-4b6a52ac-da8e-46df-a6ac-71b15bda1e5e#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/panorama/bildung/handy-verbot-an-schulen-lasst-den-schuelern-ihre-smartphones](https://www.spiegel.de/panorama/bildung/handy-verbot-an-schulen-lasst-den-schuelern-ihre-smartphones-a-1cc52b43-66c1-4127-b0be-0f914ea39165#ref=rss)
-### geschichte
+* [https://www.spiegel.de/panorama/justiz/duesseldorf-drei-jugendliche-nach-islamistischen-anschlagsplaenen-zu-drei-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/duesseldorf-drei-jugendliche-nach-islamistischen-anschlagsplaenen-zu-drei-jahren-haft-verurteilt-a-4b6a52ac-da8e-46df-a6ac-71b15bda1e5e#ref=rss)
+### verurteilt
 
-* [https://www.spiegel.de/sport/fussball/nations-league-italien-vs-deutschland-das-geheimnis-hinter-der-kitschigen-geschichte-von-leon-goretzka](https://www.spiegel.de/sport/fussball/nations-league-italien-vs-deutschland-das-geheimnis-hinter-der-kitschigen-geschichte-von-leon-goretzka-a-44d84abc-c1e6-4d7d-b8dc-2725638298e9#ref=rss)
-* [https://www.spiegel.de/ausland/neapel-wie-die-vele-di-scampia-zur-bausuende-und-mafia-ikone-wurde](https://www.spiegel.de/ausland/neapel-wie-die-vele-di-scampia-zur-bausuende-und-mafia-ikone-wurde-a-75eb0456-eea2-4389-929a-86830933af27#ref=rss)
-### leon
+* [https://www.spiegel.de/panorama/justiz/duesseldorf-drei-jugendliche-nach-islamistischen-anschlagsplaenen-zu-drei-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/duesseldorf-drei-jugendliche-nach-islamistischen-anschlagsplaenen-zu-drei-jahren-haft-verurteilt-a-4b6a52ac-da8e-46df-a6ac-71b15bda1e5e#ref=rss)
+### alter
 
-* [https://www.spiegel.de/sport/fussball/nations-league-italien-vs-deutschland-das-geheimnis-hinter-der-kitschigen-geschichte-von-leon-goretzka](https://www.spiegel.de/sport/fussball/nations-league-italien-vs-deutschland-das-geheimnis-hinter-der-kitschigen-geschichte-von-leon-goretzka-a-44d84abc-c1e6-4d7d-b8dc-2725638298e9#ref=rss)
-### goretzka
+* [https://www.spiegel.de/panorama/justiz/duesseldorf-drei-jugendliche-nach-islamistischen-anschlagsplaenen-zu-drei-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/duesseldorf-drei-jugendliche-nach-islamistischen-anschlagsplaenen-zu-drei-jahren-haft-verurteilt-a-4b6a52ac-da8e-46df-a6ac-71b15bda1e5e#ref=rss)
+* [https://www.spiegel.de/karriere/altersvorsorge-im-gefaengnis-keine-rentenpunkte-fuer-haeftlinge-durch-haftarbeit](https://www.spiegel.de/karriere/altersvorsorge-im-gefaengnis-keine-rentenpunkte-fuer-haeftlinge-durch-haftarbeit-a-4ae9c70b-cfe7-4edd-9848-d90ce5ab5a82#ref=rss)
+### quiz
 
-* [https://www.spiegel.de/sport/fussball/nations-league-italien-vs-deutschland-das-geheimnis-hinter-der-kitschigen-geschichte-von-leon-goretzka](https://www.spiegel.de/sport/fussball/nations-league-italien-vs-deutschland-das-geheimnis-hinter-der-kitschigen-geschichte-von-leon-goretzka-a-44d84abc-c1e6-4d7d-b8dc-2725638298e9#ref=rss)
-### erwischt
+* [https://www.spiegel.de/panorama/gesellschaft/quiz-wie-gut-kennen-sie-sich-mit-feiertagen-aus](https://www.spiegel.de/panorama/gesellschaft/quiz-wie-gut-kennen-sie-sich-mit-feiertagen-aus-a-91fde1b1-8545-4c2c-a705-e872903c2d06#ref=rss)
+### gut
 
-* [https://www.spiegel.de/panorama/justiz/bundespolizei-erwischt-42-jaehrigen-mit-15-gestohlenen-klarinetten-auf-autobahn](https://www.spiegel.de/panorama/justiz/bundespolizei-erwischt-42-jaehrigen-mit-15-gestohlenen-klarinetten-auf-autobahn-a-6fad7515-0719-4891-83f3-e51461a734ca#ref=rss)
-### putin
+* [https://www.spiegel.de/panorama/gesellschaft/quiz-wie-gut-kennen-sie-sich-mit-feiertagen-aus](https://www.spiegel.de/panorama/gesellschaft/quiz-wie-gut-kennen-sie-sich-mit-feiertagen-aus-a-91fde1b1-8545-4c2c-a705-e872903c2d06#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-annalena-baerbocks-neuer-job-massendemonstrationen-in-der-tuerkei-bundeswehr-steht-vor-milliarden-ausgaben](https://www.spiegel.de/politik/deutschland/news-des-tages-annalena-baerbocks-neuer-job-massendemonstrationen-in-der-tuerkei-bundeswehr-steht-vor-milliarden-ausgaben-a-f82e6ed1-ea45-49f0-9471-03f5b62c38d5#ref=rss)
+### 1
 
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-wladimir-putin-setzt-angriffe-trotz-anstehender-gespraeche-fort](https://www.spiegel.de/ausland/russland-ukraine-krieg-wladimir-putin-setzt-angriffe-trotz-anstehender-gespraeche-fort-a-03d44dd8-33e1-4668-bbe3-65da8673fae0#ref=rss)
-### setzt
+* [https://www.spiegel.de/panorama/gesellschaft/quiz-wie-gut-kennen-sie-sich-mit-feiertagen-aus](https://www.spiegel.de/panorama/gesellschaft/quiz-wie-gut-kennen-sie-sich-mit-feiertagen-aus-a-91fde1b1-8545-4c2c-a705-e872903c2d06#ref=rss)
+* [https://www.spiegel.de/stil/dfb-trikot-bei-nations-league-spiel-italien-gegen-deutschland-aber-der-adler-1](https://www.spiegel.de/stil/dfb-trikot-bei-nations-league-spiel-italien-gegen-deutschland-aber-der-adler-1-a-581e8362-566b-4e76-b6a3-1e6c8a50bb63#ref=rss)
+### erste
 
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-wladimir-putin-setzt-angriffe-trotz-anstehender-gespraeche-fort](https://www.spiegel.de/ausland/russland-ukraine-krieg-wladimir-putin-setzt-angriffe-trotz-anstehender-gespraeche-fort-a-03d44dd8-33e1-4668-bbe3-65da8673fae0#ref=rss)
-### fort
+* [https://www.spiegel.de/ausland/london-heathrow-uebergangsloesung-nach-stromausfall-erste-fluege-sollen-starten](https://www.spiegel.de/ausland/london-heathrow-uebergangsloesung-nach-stromausfall-erste-fluege-sollen-starten-a-184ea3ff-3dd6-43b0-865f-f1602ed39f16#ref=rss)
+* [https://www.spiegel.de/auto/von-norddeich-nach-norderney-reederei-nimmt-erste-elektrische-faehre-in-betrieb](https://www.spiegel.de/auto/von-norddeich-nach-norderney-reederei-nimmt-erste-elektrische-faehre-in-betrieb-a-aa3d8da6-961d-4c9e-836c-8f35a76144b2#ref=rss)
+### flughafen
 
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-wladimir-putin-setzt-angriffe-trotz-anstehender-gespraeche-fort](https://www.spiegel.de/ausland/russland-ukraine-krieg-wladimir-putin-setzt-angriffe-trotz-anstehender-gespraeche-fort-a-03d44dd8-33e1-4668-bbe3-65da8673fae0#ref=rss)
-### attacken
+* [https://www.spiegel.de/ausland/london-heathrow-uebergangsloesung-nach-stromausfall-erste-fluege-sollen-starten](https://www.spiegel.de/ausland/london-heathrow-uebergangsloesung-nach-stromausfall-erste-fluege-sollen-starten-a-184ea3ff-3dd6-43b0-865f-f1602ed39f16#ref=rss)
+* [https://www.spiegel.de/ausland/flughafen-london-heathrow-antiterroreinheit-ermittelt-wegen-stromausfall](https://www.spiegel.de/ausland/flughafen-london-heathrow-antiterroreinheit-ermittelt-wegen-stromausfall-a-93aa1e20-bcf4-4026-a88a-74ddc72c1a77#ref=rss)
+### israel
 
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-wladimir-putin-setzt-angriffe-trotz-anstehender-gespraeche-fort](https://www.spiegel.de/ausland/russland-ukraine-krieg-wladimir-putin-setzt-angriffe-trotz-anstehender-gespraeche-fort-a-03d44dd8-33e1-4668-bbe3-65da8673fae0#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-konfrontation-mit-der-us-justiz-eskaliert](https://www.spiegel.de/ausland/donald-trump-konfrontation-mit-der-us-justiz-eskaliert-a-d869ac28-d642-45aa-9955-bd43fe833340#ref=rss)
-### philippinen
+* [https://www.spiegel.de/ausland/israel-wie-benjamin-netanyahu-israels-demokratie-gefaehrdet](https://www.spiegel.de/ausland/israel-wie-benjamin-netanyahu-israels-demokratie-gefaehrdet-a-a0370dce-6f1f-45c5-9bad-e9a39393294c#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gericht-stoppt-vorerst-entlassung-von-geheimdienstchef-ronen-bar](https://www.spiegel.de/ausland/israel-gericht-stoppt-vorerst-entlassung-von-geheimdienstchef-ronen-bar-a-f246614d-0eff-46a4-ae9d-e8486d40a9ac#ref=rss)
+### benjamin
 
-* [https://www.spiegel.de/panorama/vier-wanderer-auf-den-philippinen-vermisst-zwei-gerettet](https://www.spiegel.de/panorama/vier-wanderer-auf-den-philippinen-vermisst-zwei-gerettet-a-07f51ce1-795f-4b19-b750-bb8aa5735c7d#ref=rss)
-### roll
+* [https://www.spiegel.de/ausland/israel-wie-benjamin-netanyahu-israels-demokratie-gefaehrdet](https://www.spiegel.de/ausland/israel-wie-benjamin-netanyahu-israels-demokratie-gefaehrdet-a-a0370dce-6f1f-45c5-9bad-e9a39393294c#ref=rss)
+### israels
 
-* [https://www.spiegel.de/panorama/piloten-verwechseln-roll-mit-starbahn-lotse-stoppt-startfreigabe](https://www.spiegel.de/panorama/piloten-verwechseln-roll-mit-starbahn-lotse-stoppt-startfreigabe-a-cd9718e0-75bc-4279-ae49-bba4988164a8#ref=rss)
-### startbahn
+* [https://www.spiegel.de/ausland/israel-wie-benjamin-netanyahu-israels-demokratie-gefaehrdet](https://www.spiegel.de/ausland/israel-wie-benjamin-netanyahu-israels-demokratie-gefaehrdet-a-a0370dce-6f1f-45c5-9bad-e9a39393294c#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gericht-stoppt-vorerst-entlassung-von-geheimdienstchef-ronen-bar](https://www.spiegel.de/ausland/israel-gericht-stoppt-vorerst-entlassung-von-geheimdienstchef-ronen-bar-a-f246614d-0eff-46a4-ae9d-e8486d40a9ac#ref=rss)
+### geheimdienstchef
 
-* [https://www.spiegel.de/panorama/piloten-verwechseln-roll-mit-starbahn-lotse-stoppt-startfreigabe](https://www.spiegel.de/panorama/piloten-verwechseln-roll-mit-starbahn-lotse-stoppt-startfreigabe-a-cd9718e0-75bc-4279-ae49-bba4988164a8#ref=rss)
-### startfreigabe
+* [https://www.spiegel.de/ausland/israel-wie-benjamin-netanyahu-israels-demokratie-gefaehrdet](https://www.spiegel.de/ausland/israel-wie-benjamin-netanyahu-israels-demokratie-gefaehrdet-a-a0370dce-6f1f-45c5-9bad-e9a39393294c#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gericht-stoppt-vorerst-entlassung-von-geheimdienstchef-ronen-bar](https://www.spiegel.de/ausland/israel-gericht-stoppt-vorerst-entlassung-von-geheimdienstchef-ronen-bar-a-f246614d-0eff-46a4-ae9d-e8486d40a9ac#ref=rss)
+### ronen
 
-* [https://www.spiegel.de/panorama/piloten-verwechseln-roll-mit-starbahn-lotse-stoppt-startfreigabe](https://www.spiegel.de/panorama/piloten-verwechseln-roll-mit-starbahn-lotse-stoppt-startfreigabe-a-cd9718e0-75bc-4279-ae49-bba4988164a8#ref=rss)
-### konfrontation
+* [https://www.spiegel.de/ausland/israel-wie-benjamin-netanyahu-israels-demokratie-gefaehrdet](https://www.spiegel.de/ausland/israel-wie-benjamin-netanyahu-israels-demokratie-gefaehrdet-a-a0370dce-6f1f-45c5-9bad-e9a39393294c#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gericht-stoppt-vorerst-entlassung-von-geheimdienstchef-ronen-bar](https://www.spiegel.de/ausland/israel-gericht-stoppt-vorerst-entlassung-von-geheimdienstchef-ronen-bar-a-f246614d-0eff-46a4-ae9d-e8486d40a9ac#ref=rss)
+### bar
 
-* [https://www.spiegel.de/ausland/donald-trump-konfrontation-mit-der-us-justiz-eskaliert](https://www.spiegel.de/ausland/donald-trump-konfrontation-mit-der-us-justiz-eskaliert-a-d869ac28-d642-45aa-9955-bd43fe833340#ref=rss)
-### eskaliert
+* [https://www.spiegel.de/ausland/israel-wie-benjamin-netanyahu-israels-demokratie-gefaehrdet](https://www.spiegel.de/ausland/israel-wie-benjamin-netanyahu-israels-demokratie-gefaehrdet-a-a0370dce-6f1f-45c5-9bad-e9a39393294c#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gericht-stoppt-vorerst-entlassung-von-geheimdienstchef-ronen-bar](https://www.spiegel.de/ausland/israel-gericht-stoppt-vorerst-entlassung-von-geheimdienstchef-ronen-bar-a-f246614d-0eff-46a4-ae9d-e8486d40a9ac#ref=rss)
+### entlassen
 
-* [https://www.spiegel.de/ausland/donald-trump-konfrontation-mit-der-us-justiz-eskaliert](https://www.spiegel.de/ausland/donald-trump-konfrontation-mit-der-us-justiz-eskaliert-a-d869ac28-d642-45aa-9955-bd43fe833340#ref=rss)
-### präsident
+* [https://www.spiegel.de/ausland/israel-wie-benjamin-netanyahu-israels-demokratie-gefaehrdet](https://www.spiegel.de/ausland/israel-wie-benjamin-netanyahu-israels-demokratie-gefaehrdet-a-a0370dce-6f1f-45c5-9bad-e9a39393294c#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gericht-stoppt-vorerst-entlassung-von-geheimdienstchef-ronen-bar](https://www.spiegel.de/ausland/israel-gericht-stoppt-vorerst-entlassung-von-geheimdienstchef-ronen-bar-a-f246614d-0eff-46a4-ae9d-e8486d40a9ac#ref=rss)
+### syrien
 
-* [https://www.spiegel.de/ausland/tunesien-praesident-kais-saied-ernennt-sarra-saafrani-zur-regierungschefin](https://www.spiegel.de/ausland/tunesien-praesident-kais-saied-ernennt-sarra-saafrani-zur-regierungschefin-a-b48c1c68-608e-437f-bde7-9f4d0db3780d#ref=rss)
-### saied
+* [https://www.spiegel.de/ausland/syrien-tuerkei-bekaempft-kurden-trotz-friedensabkommen-die-regierung-ist-ungeduldig](https://www.spiegel.de/ausland/syrien-tuerkei-bekaempft-kurden-trotz-friedensabkommen-die-regierung-ist-ungeduldig-a-04ef2ca3-b493-4fc6-bb5f-de5274f796e8#ref=rss)
+### friedensabkommen
 
-* [https://www.spiegel.de/ausland/tunesien-praesident-kais-saied-ernennt-sarra-saafrani-zur-regierungschefin](https://www.spiegel.de/ausland/tunesien-praesident-kais-saied-ernennt-sarra-saafrani-zur-regierungschefin-a-b48c1c68-608e-437f-bde7-9f4d0db3780d#ref=rss)
-### sarra
+* [https://www.spiegel.de/ausland/syrien-tuerkei-bekaempft-kurden-trotz-friedensabkommen-die-regierung-ist-ungeduldig](https://www.spiegel.de/ausland/syrien-tuerkei-bekaempft-kurden-trotz-friedensabkommen-die-regierung-ist-ungeduldig-a-04ef2ca3-b493-4fc6-bb5f-de5274f796e8#ref=rss)
+### blake
 
-* [https://www.spiegel.de/ausland/tunesien-praesident-kais-saied-ernennt-sarra-saafrani-zur-regierungschefin](https://www.spiegel.de/ausland/tunesien-praesident-kais-saied-ernennt-sarra-saafrani-zur-regierungschefin-a-b48c1c68-608e-437f-bde7-9f4d0db3780d#ref=rss)
-### saafrani
+* [https://www.spiegel.de/panorama/leute/usa-blake-lively-kontert-verleumdungsklage-von-justin-baldoni](https://www.spiegel.de/panorama/leute/usa-blake-lively-kontert-verleumdungsklage-von-justin-baldoni-a-72aa2156-cf8e-4900-961b-d455927b2e5e#ref=rss)
+### lively
 
-* [https://www.spiegel.de/ausland/tunesien-praesident-kais-saied-ernennt-sarra-saafrani-zur-regierungschefin](https://www.spiegel.de/ausland/tunesien-praesident-kais-saied-ernennt-sarra-saafrani-zur-regierungschefin-a-b48c1c68-608e-437f-bde7-9f4d0db3780d#ref=rss)
-### teslafahrer
+* [https://www.spiegel.de/panorama/leute/usa-blake-lively-kontert-verleumdungsklage-von-justin-baldoni](https://www.spiegel.de/panorama/leute/usa-blake-lively-kontert-verleumdungsklage-von-justin-baldoni-a-72aa2156-cf8e-4900-961b-d455927b2e5e#ref=rss)
+### justin
 
-* [https://www.spiegel.de/wirtschaft/tesla-fahrer-suchen-verstaerkt-nach-alternativen-protest-gegen-elon-musk-in-den-usa](https://www.spiegel.de/wirtschaft/tesla-fahrer-suchen-verstaerkt-nach-alternativen-protest-gegen-elon-musk-in-den-usa-a-08be9b4e-89f0-4254-a942-20daf4487fe0#ref=rss)
+* [https://www.spiegel.de/panorama/leute/usa-blake-lively-kontert-verleumdungsklage-von-justin-baldoni](https://www.spiegel.de/panorama/leute/usa-blake-lively-kontert-verleumdungsklage-von-justin-baldoni-a-72aa2156-cf8e-4900-961b-d455927b2e5e#ref=rss)
+### baldoni
+
+* [https://www.spiegel.de/panorama/leute/usa-blake-lively-kontert-verleumdungsklage-von-justin-baldoni](https://www.spiegel.de/panorama/leute/usa-blake-lively-kontert-verleumdungsklage-von-justin-baldoni-a-72aa2156-cf8e-4900-961b-d455927b2e5e#ref=rss)
+### annalena
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-annalena-baerbocks-neuer-job-massendemonstrationen-in-der-tuerkei-bundeswehr-steht-vor-milliarden-ausgaben](https://www.spiegel.de/politik/deutschland/news-des-tages-annalena-baerbocks-neuer-job-massendemonstrationen-in-der-tuerkei-bundeswehr-steht-vor-milliarden-ausgaben-a-f82e6ed1-ea45-49f0-9471-03f5b62c38d5#ref=rss)
+### baerbock
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-annalena-baerbocks-neuer-job-massendemonstrationen-in-der-tuerkei-bundeswehr-steht-vor-milliarden-ausgaben](https://www.spiegel.de/politik/deutschland/news-des-tages-annalena-baerbocks-neuer-job-massendemonstrationen-in-der-tuerkei-bundeswehr-steht-vor-milliarden-ausgaben-a-f82e6ed1-ea45-49f0-9471-03f5b62c38d5#ref=rss)
+### massendemos
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-annalena-baerbocks-neuer-job-massendemonstrationen-in-der-tuerkei-bundeswehr-steht-vor-milliarden-ausgaben](https://www.spiegel.de/politik/deutschland/news-des-tages-annalena-baerbocks-neuer-job-massendemonstrationen-in-der-tuerkei-bundeswehr-steht-vor-milliarden-ausgaben-a-f82e6ed1-ea45-49f0-9471-03f5b62c38d5#ref=rss)
+### geld
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-annalena-baerbocks-neuer-job-massendemonstrationen-in-der-tuerkei-bundeswehr-steht-vor-milliarden-ausgaben](https://www.spiegel.de/politik/deutschland/news-des-tages-annalena-baerbocks-neuer-job-massendemonstrationen-in-der-tuerkei-bundeswehr-steht-vor-milliarden-ausgaben-a-f82e6ed1-ea45-49f0-9471-03f5b62c38d5#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/investitionspaket-was-bringt-das-neue-klima-geld](https://www.spiegel.de/wissenschaft/natur/investitionspaket-was-bringt-das-neue-klima-geld-a-ccd7eae5-ca60-4e4a-aef0-93b59d0c581a#ref=rss)
+### bielefeld
+
+* [https://www.spiegel.de/panorama/justiz/bielefeld-mann-attackiert-zwei-menschen-mit-messer](https://www.spiegel.de/panorama/justiz/bielefeld-mann-attackiert-zwei-menschen-mit-messer-a-97f693b4-c66e-4586-b3ef-cb6b14a3e5f2#ref=rss)
+### messer
+
+* [https://www.spiegel.de/panorama/justiz/bielefeld-mann-attackiert-zwei-menschen-mit-messer](https://www.spiegel.de/panorama/justiz/bielefeld-mann-attackiert-zwei-menschen-mit-messer-a-97f693b4-c66e-4586-b3ef-cb6b14a3e5f2#ref=rss)
+### nimmt
+
+* [https://www.spiegel.de/auto/von-norddeich-nach-norderney-reederei-nimmt-erste-elektrische-faehre-in-betrieb](https://www.spiegel.de/auto/von-norddeich-nach-norderney-reederei-nimmt-erste-elektrische-faehre-in-betrieb-a-aa3d8da6-961d-4c9e-836c-8f35a76144b2#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/kassel-mann-erstochen-polizei-nimmt-zwei-tatverdaechtige-fest](https://www.spiegel.de/panorama/justiz/kassel-mann-erstochen-polizei-nimmt-zwei-tatverdaechtige-fest-a-3ff578cb-4825-4a3a-8f9c-08ca214bb86b#ref=rss)
+### klubwm
+
+* [https://www.spiegel.de/sport/fussball/klub-wm-fifa-schliesst-club-leon-aus-selber-eigentuemer-wie-pachuca](https://www.spiegel.de/sport/fussball/klub-wm-fifa-schliesst-club-leon-aus-selber-eigentuemer-wie-pachuca-a-b23ce1b7-7b81-4d59-9755-b2993cba6cd1#ref=rss)
+### fifa
+
+* [https://www.spiegel.de/sport/fussball/klub-wm-fifa-schliesst-club-leon-aus-selber-eigentuemer-wie-pachuca](https://www.spiegel.de/sport/fussball/klub-wm-fifa-schliesst-club-leon-aus-selber-eigentuemer-wie-pachuca-a-b23ce1b7-7b81-4d59-9755-b2993cba6cd1#ref=rss)
+### club
+
+* [https://www.spiegel.de/sport/fussball/klub-wm-fifa-schliesst-club-leon-aus-selber-eigentuemer-wie-pachuca](https://www.spiegel.de/sport/fussball/klub-wm-fifa-schliesst-club-leon-aus-selber-eigentuemer-wie-pachuca-a-b23ce1b7-7b81-4d59-9755-b2993cba6cd1#ref=rss)
+### león
+
+* [https://www.spiegel.de/sport/fussball/klub-wm-fifa-schliesst-club-leon-aus-selber-eigentuemer-wie-pachuca](https://www.spiegel.de/sport/fussball/klub-wm-fifa-schliesst-club-leon-aus-selber-eigentuemer-wie-pachuca-a-b23ce1b7-7b81-4d59-9755-b2993cba6cd1#ref=rss)
+### gisèle
+
+* [https://www.spiegel.de/kultur/gisele-pelicot-memoiren-eine-hymne-auf-das-leben-erscheinen-2026](https://www.spiegel.de/kultur/gisele-pelicot-memoiren-eine-hymne-auf-das-leben-erscheinen-2026-a-a2d2f6a5-a706-4495-b663-2214b7f9132c#ref=rss)
+### pelicot
+
+* [https://www.spiegel.de/kultur/gisele-pelicot-memoiren-eine-hymne-auf-das-leben-erscheinen-2026](https://www.spiegel.de/kultur/gisele-pelicot-memoiren-eine-hymne-auf-das-leben-erscheinen-2026-a-a2d2f6a5-a706-4495-b663-2214b7f9132c#ref=rss)
+### elon
+
+* [https://www.spiegel.de/ausland/usa-elon-musk-droht-informanten-der-new-york-times](https://www.spiegel.de/ausland/usa-elon-musk-droht-informanten-der-new-york-times-a-81d0db88-fec5-4646-9d88-e67794d515e5#ref=rss)
+### musk
+
+* [https://www.spiegel.de/ausland/usa-elon-musk-droht-informanten-der-new-york-times](https://www.spiegel.de/ausland/usa-elon-musk-droht-informanten-der-new-york-times-a-81d0db88-fec5-4646-9d88-e67794d515e5#ref=rss)
+### droht
+
+* [https://www.spiegel.de/ausland/usa-elon-musk-droht-informanten-der-new-york-times](https://www.spiegel.de/ausland/usa-elon-musk-droht-informanten-der-new-york-times-a-81d0db88-fec5-4646-9d88-e67794d515e5#ref=rss)
+* [https://www.spiegel.de/ausland/tuerkei-recep-tayyip-erdogan-diskreditiert-demonstrationen-als-strassenterror](https://www.spiegel.de/ausland/tuerkei-recep-tayyip-erdogan-diskreditiert-demonstrationen-als-strassenterror-a-3195c9c6-6d05-487e-b01e-9b3dbc55edf5#ref=rss)
+### deutschlands
+
+* [https://www.spiegel.de/wirtschaft/verteidigungspolitik-deutschlands-schulden-durch-aufruestung-geringer-als-in-frankreich](https://www.spiegel.de/wirtschaft/verteidigungspolitik-deutschlands-schulden-durch-aufruestung-geringer-als-in-frankreich-a-dd72855c-f157-4119-b2ea-1a160f638b6e#ref=rss)
+* [https://www.spiegel.de/kultur/tv/fussball-nationalmannschaft-kika-zeigt-partie-der-dfb-frauen-mit-kindern-als-kommentatoren-und-experten](https://www.spiegel.de/kultur/tv/fussball-nationalmannschaft-kika-zeigt-partie-der-dfb-frauen-mit-kindern-als-kommentatoren-und-experten-a-d3725eb8-9cd8-4ab5-a2bb-6a14090f2984#ref=rss)
+### frankreich
+
+* [https://www.spiegel.de/wirtschaft/verteidigungspolitik-deutschlands-schulden-durch-aufruestung-geringer-als-in-frankreich](https://www.spiegel.de/wirtschaft/verteidigungspolitik-deutschlands-schulden-durch-aufruestung-geringer-als-in-frankreich-a-dd72855c-f157-4119-b2ea-1a160f638b6e#ref=rss)
+### zeit
+
+* [https://www.spiegel.de/wirtschaft/verteidigungspolitik-deutschlands-schulden-durch-aufruestung-geringer-als-in-frankreich](https://www.spiegel.de/wirtschaft/verteidigungspolitik-deutschlands-schulden-durch-aufruestung-geringer-als-in-frankreich-a-dd72855c-f157-4119-b2ea-1a160f638b6e#ref=rss)
+* [https://www.spiegel.de/karriere/altersvorsorge-im-gefaengnis-keine-rentenpunkte-fuer-haeftlinge-durch-haftarbeit](https://www.spiegel.de/karriere/altersvorsorge-im-gefaengnis-keine-rentenpunkte-fuer-haeftlinge-durch-haftarbeit-a-4ae9c70b-cfe7-4edd-9848-d90ce5ab5a82#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/wirtschaft/verteidigungspolitik-deutschlands-schulden-durch-aufruestung-geringer-als-in-frankreich](https://www.spiegel.de/wirtschaft/verteidigungspolitik-deutschlands-schulden-durch-aufruestung-geringer-als-in-frankreich-a-dd72855c-f157-4119-b2ea-1a160f638b6e#ref=rss)
+* [https://www.spiegel.de/stil/dfb-trikot-bei-nations-league-spiel-italien-gegen-deutschland-aber-der-adler-1](https://www.spiegel.de/stil/dfb-trikot-bei-nations-league-spiel-italien-gegen-deutschland-aber-der-adler-1-a-581e8362-566b-4e76-b6a3-1e6c8a50bb63#ref=rss)
+### neue
+
+* [https://www.spiegel.de/wissenschaft/natur/investitionspaket-was-bringt-das-neue-klima-geld](https://www.spiegel.de/wissenschaft/natur/investitionspaket-was-bringt-das-neue-klima-geld-a-ccd7eae5-ca60-4e4a-aef0-93b59d0c581a#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klimamilliarden-fuer-die-neue-bundesregierung-was-kann-man-damit-erreichen](https://www.spiegel.de/wissenschaft/klimamilliarden-fuer-die-neue-bundesregierung-was-kann-man-damit-erreichen-a-f92e94d8-f4d6-49c1-9eef-afc7248eb77b#ref=rss)
+### 100
+
+* [https://www.spiegel.de/wissenschaft/natur/investitionspaket-was-bringt-das-neue-klima-geld](https://www.spiegel.de/wissenschaft/natur/investitionspaket-was-bringt-das-neue-klima-geld-a-ccd7eae5-ca60-4e4a-aef0-93b59d0c581a#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klimamilliarden-fuer-die-neue-bundesregierung-was-kann-man-damit-erreichen](https://www.spiegel.de/wissenschaft/klimamilliarden-fuer-die-neue-bundesregierung-was-kann-man-damit-erreichen-a-f92e94d8-f4d6-49c1-9eef-afc7248eb77b#ref=rss)
+### euro
+
+* [https://www.spiegel.de/wissenschaft/natur/investitionspaket-was-bringt-das-neue-klima-geld](https://www.spiegel.de/wissenschaft/natur/investitionspaket-was-bringt-das-neue-klima-geld-a-ccd7eae5-ca60-4e4a-aef0-93b59d0c581a#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klimamilliarden-fuer-die-neue-bundesregierung-was-kann-man-damit-erreichen](https://www.spiegel.de/wissenschaft/klimamilliarden-fuer-die-neue-bundesregierung-was-kann-man-damit-erreichen-a-f92e94d8-f4d6-49c1-9eef-afc7248eb77b#ref=rss)
+### klimaschutz
+
+* [https://www.spiegel.de/wissenschaft/natur/investitionspaket-was-bringt-das-neue-klima-geld](https://www.spiegel.de/wissenschaft/natur/investitionspaket-was-bringt-das-neue-klima-geld-a-ccd7eae5-ca60-4e4a-aef0-93b59d0c581a#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klimamilliarden-fuer-die-neue-bundesregierung-was-kann-man-damit-erreichen](https://www.spiegel.de/wissenschaft/klimamilliarden-fuer-die-neue-bundesregierung-was-kann-man-damit-erreichen-a-f92e94d8-f4d6-49c1-9eef-afc7248eb77b#ref=rss)
+### reserviert
+
+* [https://www.spiegel.de/wissenschaft/natur/investitionspaket-was-bringt-das-neue-klima-geld](https://www.spiegel.de/wissenschaft/natur/investitionspaket-was-bringt-das-neue-klima-geld-a-ccd7eae5-ca60-4e4a-aef0-93b59d0c581a#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klimamilliarden-fuer-die-neue-bundesregierung-was-kann-man-damit-erreichen](https://www.spiegel.de/wissenschaft/klimamilliarden-fuer-die-neue-bundesregierung-was-kann-man-damit-erreichen-a-f92e94d8-f4d6-49c1-9eef-afc7248eb77b#ref=rss)
+### sollte
+
+* [https://www.spiegel.de/wissenschaft/natur/investitionspaket-was-bringt-das-neue-klima-geld](https://www.spiegel.de/wissenschaft/natur/investitionspaket-was-bringt-das-neue-klima-geld-a-ccd7eae5-ca60-4e4a-aef0-93b59d0c581a#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klimamilliarden-fuer-die-neue-bundesregierung-was-kann-man-damit-erreichen](https://www.spiegel.de/wissenschaft/klimamilliarden-fuer-die-neue-bundesregierung-was-kann-man-damit-erreichen-a-f92e94d8-f4d6-49c1-9eef-afc7248eb77b#ref=rss)
+### besten
+
+* [https://www.spiegel.de/wissenschaft/natur/investitionspaket-was-bringt-das-neue-klima-geld](https://www.spiegel.de/wissenschaft/natur/investitionspaket-was-bringt-das-neue-klima-geld-a-ccd7eae5-ca60-4e4a-aef0-93b59d0c581a#ref=rss)
+* [https://www.spiegel.de/kultur/tv/fussball-nationalmannschaft-kika-zeigt-partie-der-dfb-frauen-mit-kindern-als-kommentatoren-und-experten](https://www.spiegel.de/kultur/tv/fussball-nationalmannschaft-kika-zeigt-partie-der-dfb-frauen-mit-kindern-als-kommentatoren-und-experten-a-d3725eb8-9cd8-4ab5-a2bb-6a14090f2984#ref=rss)
+### verhindert
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-us-gericht-verhindert-abschiebung-von-wissenschaftler-wegen-hamas-vorwurf](https://www.spiegel.de/ausland/israel-gaza-krieg-us-gericht-verhindert-abschiebung-von-wissenschaftler-wegen-hamas-vorwurf-a-a9948ec4-057f-44cb-83f3-003b48d1a4d8#ref=rss)
+### abschiebung
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-us-gericht-verhindert-abschiebung-von-wissenschaftler-wegen-hamas-vorwurf](https://www.spiegel.de/ausland/israel-gaza-krieg-us-gericht-verhindert-abschiebung-von-wissenschaftler-wegen-hamas-vorwurf-a-a9948ec4-057f-44cb-83f3-003b48d1a4d8#ref=rss)
+### forscher
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-us-gericht-verhindert-abschiebung-von-wissenschaftler-wegen-hamas-vorwurf](https://www.spiegel.de/ausland/israel-gaza-krieg-us-gericht-verhindert-abschiebung-von-wissenschaftler-wegen-hamas-vorwurf-a-a9948ec4-057f-44cb-83f3-003b48d1a4d8#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/berghain-die-wissenschaft-weiss-jetzt-warum-nicht-jeder-reinkommt](https://www.spiegel.de/wissenschaft/mensch/berghain-die-wissenschaft-weiss-jetzt-warum-nicht-jeder-reinkommt-a-4aa19e43-3e1a-4b02-b585-211caccc1aaf#ref=rss)
+### vorerst
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-us-gericht-verhindert-abschiebung-von-wissenschaftler-wegen-hamas-vorwurf](https://www.spiegel.de/ausland/israel-gaza-krieg-us-gericht-verhindert-abschiebung-von-wissenschaftler-wegen-hamas-vorwurf-a-a9948ec4-057f-44cb-83f3-003b48d1a4d8#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gericht-stoppt-vorerst-entlassung-von-geheimdienstchef-ronen-bar](https://www.spiegel.de/ausland/israel-gericht-stoppt-vorerst-entlassung-von-geheimdienstchef-ronen-bar-a-f246614d-0eff-46a4-ae9d-e8486d40a9ac#ref=rss)
+### aimee
+
+* [https://www.spiegel.de/kultur/aimee-lou-wood-schauspielerin-setzt-auf-natuerliche-zaehne-statt-hollywood-veneers](https://www.spiegel.de/kultur/aimee-lou-wood-schauspielerin-setzt-auf-natuerliche-zaehne-statt-hollywood-veneers-a-5020c1e6-eda2-4327-ac9e-860600b82ae2#ref=rss)
+### lou
+
+* [https://www.spiegel.de/kultur/aimee-lou-wood-schauspielerin-setzt-auf-natuerliche-zaehne-statt-hollywood-veneers](https://www.spiegel.de/kultur/aimee-lou-wood-schauspielerin-setzt-auf-natuerliche-zaehne-statt-hollywood-veneers-a-5020c1e6-eda2-4327-ac9e-860600b82ae2#ref=rss)
+### wood
+
+* [https://www.spiegel.de/kultur/aimee-lou-wood-schauspielerin-setzt-auf-natuerliche-zaehne-statt-hollywood-veneers](https://www.spiegel.de/kultur/aimee-lou-wood-schauspielerin-setzt-auf-natuerliche-zaehne-statt-hollywood-veneers-a-5020c1e6-eda2-4327-ac9e-860600b82ae2#ref=rss)
+### schauspielerin
+
+* [https://www.spiegel.de/kultur/aimee-lou-wood-schauspielerin-setzt-auf-natuerliche-zaehne-statt-hollywood-veneers](https://www.spiegel.de/kultur/aimee-lou-wood-schauspielerin-setzt-auf-natuerliche-zaehne-statt-hollywood-veneers-a-5020c1e6-eda2-4327-ac9e-860600b82ae2#ref=rss)
+### zähne
+
+* [https://www.spiegel.de/kultur/aimee-lou-wood-schauspielerin-setzt-auf-natuerliche-zaehne-statt-hollywood-veneers](https://www.spiegel.de/kultur/aimee-lou-wood-schauspielerin-setzt-auf-natuerliche-zaehne-statt-hollywood-veneers-a-5020c1e6-eda2-4327-ac9e-860600b82ae2#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/kultur/aimee-lou-wood-schauspielerin-setzt-auf-natuerliche-zaehne-statt-hollywood-veneers](https://www.spiegel.de/kultur/aimee-lou-wood-schauspielerin-setzt-auf-natuerliche-zaehne-statt-hollywood-veneers-a-5020c1e6-eda2-4327-ac9e-860600b82ae2#ref=rss)
+* [https://www.spiegel.de/kultur/tv/fussball-nationalmannschaft-kika-zeigt-partie-der-dfb-frauen-mit-kindern-als-kommentatoren-und-experten](https://www.spiegel.de/kultur/tv/fussball-nationalmannschaft-kika-zeigt-partie-der-dfb-frauen-mit-kindern-als-kommentatoren-und-experten-a-d3725eb8-9cd8-4ab5-a2bb-6a14090f2984#ref=rss)
+### bleibt
+
+* [https://www.spiegel.de/wissenschaft/mensch/berghain-die-wissenschaft-weiss-jetzt-warum-nicht-jeder-reinkommt](https://www.spiegel.de/wissenschaft/mensch/berghain-die-wissenschaft-weiss-jetzt-warum-nicht-jeder-reinkommt-a-4aa19e43-3e1a-4b02-b585-211caccc1aaf#ref=rss)
+* [https://www.spiegel.de/ausland/flughafen-london-heathrow-antiterroreinheit-ermittelt-wegen-stromausfall](https://www.spiegel.de/ausland/flughafen-london-heathrow-antiterroreinheit-ermittelt-wegen-stromausfall-a-93aa1e20-bcf4-4026-a88a-74ddc72c1a77#ref=rss)
+### bernie
+
+* [https://www.spiegel.de/ausland/anti-trump-kampagne-bernie-sanders-und-alexandra-ocasio-cortez-mobilisieren-in-arizona](https://www.spiegel.de/ausland/anti-trump-kampagne-bernie-sanders-und-alexandra-ocasio-cortez-mobilisieren-in-arizona-a-9646cad6-b833-4f72-aa0c-26ad490f636e#ref=rss)
+### sanders
+
+* [https://www.spiegel.de/ausland/anti-trump-kampagne-bernie-sanders-und-alexandra-ocasio-cortez-mobilisieren-in-arizona](https://www.spiegel.de/ausland/anti-trump-kampagne-bernie-sanders-und-alexandra-ocasio-cortez-mobilisieren-in-arizona-a-9646cad6-b833-4f72-aa0c-26ad490f636e#ref=rss)
+### ocasiocortez
+
+* [https://www.spiegel.de/ausland/anti-trump-kampagne-bernie-sanders-und-alexandra-ocasio-cortez-mobilisieren-in-arizona](https://www.spiegel.de/ausland/anti-trump-kampagne-bernie-sanders-und-alexandra-ocasio-cortez-mobilisieren-in-arizona-a-9646cad6-b833-4f72-aa0c-26ad490f636e#ref=rss)
+### fehlt
+
+* [https://www.spiegel.de/ausland/anti-trump-kampagne-bernie-sanders-und-alexandra-ocasio-cortez-mobilisieren-in-arizona](https://www.spiegel.de/ausland/anti-trump-kampagne-bernie-sanders-und-alexandra-ocasio-cortez-mobilisieren-in-arizona-a-9646cad6-b833-4f72-aa0c-26ad490f636e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-milliarden-fuer-panzer-und-drohnen-wie-die-truppe-nun-aufruesten-will](https://www.spiegel.de/politik/deutschland/bundeswehr-milliarden-fuer-panzer-und-drohnen-wie-die-truppe-nun-aufruesten-will-a-b0d4ffc6-bda9-4fd1-9fed-506108922469#ref=rss)
+### erdoğan
+
+* [https://www.spiegel.de/ausland/tuerkei-recep-tayyip-erdogan-diskreditiert-demonstrationen-als-strassenterror](https://www.spiegel.de/ausland/tuerkei-recep-tayyip-erdogan-diskreditiert-demonstrationen-als-strassenterror-a-3195c9c6-6d05-487e-b01e-9b3dbc55edf5#ref=rss)
 ### protest
 
-* [https://www.spiegel.de/wirtschaft/tesla-fahrer-suchen-verstaerkt-nach-alternativen-protest-gegen-elon-musk-in-den-usa](https://www.spiegel.de/wirtschaft/tesla-fahrer-suchen-verstaerkt-nach-alternativen-protest-gegen-elon-musk-in-den-usa-a-08be9b4e-89f0-4254-a942-20daf4487fe0#ref=rss)
+* [https://www.spiegel.de/ausland/tuerkei-recep-tayyip-erdogan-diskreditiert-demonstrationen-als-strassenterror](https://www.spiegel.de/ausland/tuerkei-recep-tayyip-erdogan-diskreditiert-demonstrationen-als-strassenterror-a-3195c9c6-6d05-487e-b01e-9b3dbc55edf5#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gericht-stoppt-vorerst-entlassung-von-geheimdienstchef-ronen-bar](https://www.spiegel.de/ausland/israel-gericht-stoppt-vorerst-entlassung-von-geheimdienstchef-ronen-bar-a-f246614d-0eff-46a4-ae9d-e8486d40a9ac#ref=rss)
+### union
+
+* [https://www.spiegel.de/politik/koalitionsarbeitsgruppe-zu-finanzen-keine-einigung-bei-steuern-und-haushalt-jetzt-muessen-die-chefs-entscheiden](https://www.spiegel.de/politik/koalitionsarbeitsgruppe-zu-finanzen-keine-einigung-bei-steuern-und-haushalt-jetzt-muessen-die-chefs-entscheiden-a-5cb65334-0a9a-4aac-b873-800da0f7f002#ref=rss)
+### kika
+
+* [https://www.spiegel.de/kultur/tv/fussball-nationalmannschaft-kika-zeigt-partie-der-dfb-frauen-mit-kindern-als-kommentatoren-und-experten](https://www.spiegel.de/kultur/tv/fussball-nationalmannschaft-kika-zeigt-partie-der-dfb-frauen-mit-kindern-als-kommentatoren-und-experten-a-d3725eb8-9cd8-4ab5-a2bb-6a14090f2984#ref=rss)
+### gefängnis
+
+* [https://www.spiegel.de/karriere/altersvorsorge-im-gefaengnis-keine-rentenpunkte-fuer-haeftlinge-durch-haftarbeit](https://www.spiegel.de/karriere/altersvorsorge-im-gefaengnis-keine-rentenpunkte-fuer-haeftlinge-durch-haftarbeit-a-4ae9c70b-cfe7-4edd-9848-d90ce5ab5a82#ref=rss)
+### häftlinge
+
+* [https://www.spiegel.de/karriere/altersvorsorge-im-gefaengnis-keine-rentenpunkte-fuer-haeftlinge-durch-haftarbeit](https://www.spiegel.de/karriere/altersvorsorge-im-gefaengnis-keine-rentenpunkte-fuer-haeftlinge-durch-haftarbeit-a-4ae9c70b-cfe7-4edd-9848-d90ce5ab5a82#ref=rss)
+### heiterkeit
+
+* [https://www.spiegel.de/kultur/musik/die-heiterkeit-selena-gomez-greentea-peng-lonnie-holley-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/die-heiterkeit-selena-gomez-greentea-peng-lonnie-holley-abgehoert-album-der-woche-a-ce055297-3096-4ce6-b2bf-e628f691b91d#ref=rss)
+### selena
+
+* [https://www.spiegel.de/kultur/musik/die-heiterkeit-selena-gomez-greentea-peng-lonnie-holley-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/die-heiterkeit-selena-gomez-greentea-peng-lonnie-holley-abgehoert-album-der-woche-a-ce055297-3096-4ce6-b2bf-e628f691b91d#ref=rss)
+### gomez
+
+* [https://www.spiegel.de/kultur/musik/die-heiterkeit-selena-gomez-greentea-peng-lonnie-holley-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/die-heiterkeit-selena-gomez-greentea-peng-lonnie-holley-abgehoert-album-der-woche-a-ce055297-3096-4ce6-b2bf-e628f691b91d#ref=rss)
+### album
+
+* [https://www.spiegel.de/kultur/musik/die-heiterkeit-selena-gomez-greentea-peng-lonnie-holley-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/die-heiterkeit-selena-gomez-greentea-peng-lonnie-holley-abgehoert-album-der-woche-a-ce055297-3096-4ce6-b2bf-e628f691b91d#ref=rss)
+### drohnen
+
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-milliarden-fuer-panzer-und-drohnen-wie-die-truppe-nun-aufruesten-will](https://www.spiegel.de/politik/deutschland/bundeswehr-milliarden-fuer-panzer-und-drohnen-wie-die-truppe-nun-aufruesten-will-a-b0d4ffc6-bda9-4fd1-9fed-506108922469#ref=rss)
+### truppe
+
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-milliarden-fuer-panzer-und-drohnen-wie-die-truppe-nun-aufruesten-will](https://www.spiegel.de/politik/deutschland/bundeswehr-milliarden-fuer-panzer-und-drohnen-wie-die-truppe-nun-aufruesten-will-a-b0d4ffc6-bda9-4fd1-9fed-506108922469#ref=rss)
+### land
+
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-milliarden-fuer-panzer-und-drohnen-wie-die-truppe-nun-aufruesten-will](https://www.spiegel.de/politik/deutschland/bundeswehr-milliarden-fuer-panzer-und-drohnen-wie-die-truppe-nun-aufruesten-will-a-b0d4ffc6-bda9-4fd1-9fed-506108922469#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gericht-stoppt-vorerst-entlassung-von-geheimdienstchef-ronen-bar](https://www.spiegel.de/ausland/israel-gericht-stoppt-vorerst-entlassung-von-geheimdienstchef-ronen-bar-a-f246614d-0eff-46a4-ae9d-e8486d40a9ac#ref=rss)
+### kassel
+
+* [https://www.spiegel.de/panorama/justiz/kassel-mann-erstochen-polizei-nimmt-zwei-tatverdaechtige-fest](https://www.spiegel.de/panorama/justiz/kassel-mann-erstochen-polizei-nimmt-zwei-tatverdaechtige-fest-a-3ff578cb-4825-4a3a-8f9c-08ca214bb86b#ref=rss)
+### erstochen
+
+* [https://www.spiegel.de/panorama/justiz/kassel-mann-erstochen-polizei-nimmt-zwei-tatverdaechtige-fest](https://www.spiegel.de/panorama/justiz/kassel-mann-erstochen-polizei-nimmt-zwei-tatverdaechtige-fest-a-3ff578cb-4825-4a3a-8f9c-08ca214bb86b#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/ausland/israel-gericht-stoppt-vorerst-entlassung-von-geheimdienstchef-ronen-bar](https://www.spiegel.de/ausland/israel-gericht-stoppt-vorerst-entlassung-von-geheimdienstchef-ronen-bar-a-f246614d-0eff-46a4-ae9d-e8486d40a9ac#ref=rss)
 
