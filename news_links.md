@@ -4,332 +4,315 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### trump
+### jahr
 
-* [https://www.spiegel.de/ausland/kanada-premier-mark-carney-kuendigt-neuwahlen-fuer-ende-april-an](https://www.spiegel.de/ausland/kanada-premier-mark-carney-kuendigt-neuwahlen-fuer-ende-april-an-a-492b0a11-20f8-4500-9da8-b484d28210fa#ref=rss)
-* [https://www.spiegel.de/ausland/atomprogramm-iran-stellt-bedingungen-fuer-verhandlungen-mit-den-usa](https://www.spiegel.de/ausland/atomprogramm-iran-stellt-bedingungen-fuer-verhandlungen-mit-den-usa-a-2ade3006-a395-4abd-a6ee-03cf35814b30#ref=rss)
-* [https://www.spiegel.de/ausland/us-vizepraesident-j-d-vance-usha-vance-reist-offenbar-nach-groenland](https://www.spiegel.de/ausland/us-vizepraesident-j-d-vance-usha-vance-reist-offenbar-nach-groenland-a-c409cff9-f8df-4a19-ac11-edecc776e7b4#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/google-maps-golf-von-wetzlar-deutsche-trollen-techkonzern-in-trump-manier](https://www.spiegel.de/netzwelt/web/google-maps-golf-von-wetzlar-deutsche-trollen-techkonzern-in-trump-manier-a-c00db668-62db-4d19-bd12-bc1bfbe68c08#ref=rss)
-* [https://www.spiegel.de/ausland/bernie-sanders-und-alexandria-ocasio-cortez-ungleiches-paar-auf-anti-trump-mission](https://www.spiegel.de/ausland/bernie-sanders-und-alexandria-ocasio-cortez-ungleiches-paar-auf-anti-trump-mission-a-90c85bd0-ff1b-4cde-906c-6846ad537ebd#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-unterstuetzung-keir-starmer-stimmt-usa-bei-verteidigungsfragen-zu](https://www.spiegel.de/ausland/ukraine-unterstuetzung-keir-starmer-stimmt-usa-bei-verteidigungsfragen-zu-a-3b28508b-f15d-45bb-8bbe-2f92bcd41400#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/ausland/atomprogramm-iran-stellt-bedingungen-fuer-verhandlungen-mit-den-usa](https://www.spiegel.de/ausland/atomprogramm-iran-stellt-bedingungen-fuer-verhandlungen-mit-den-usa-a-2ade3006-a395-4abd-a6ee-03cf35814b30#ref=rss)
-* [https://www.spiegel.de/netzwelt/elon-musk-plattform-x-blockiert-offenbar-regierungskritische-seiten-in-der-tuerkei](https://www.spiegel.de/netzwelt/elon-musk-plattform-x-blockiert-offenbar-regierungskritische-seiten-in-der-tuerkei-a-d76de90e-3db4-4bfa-949e-b81993d9cbda#ref=rss)
-* [https://www.spiegel.de/ausland/us-vizepraesident-j-d-vance-usha-vance-reist-offenbar-nach-groenland](https://www.spiegel.de/ausland/us-vizepraesident-j-d-vance-usha-vance-reist-offenbar-nach-groenland-a-c409cff9-f8df-4a19-ac11-edecc776e7b4#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/orlando-frau-ertraenkt-offenbar-hund-in-toilette-weil-sie-nicht-mit-ihm-fliegen-durfte](https://www.spiegel.de/panorama/justiz/orlando-frau-ertraenkt-offenbar-hund-in-toilette-weil-sie-nicht-mit-ihm-fliegen-durfte-a-23485d8d-b9cb-4034-9552-28a98785ef4a#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-mehr-als-50-000-tote-in-gaza-seit-beginn-der-kampfhandlungen](https://www.spiegel.de/ausland/israel-gaza-krieg-mehr-als-50-000-tote-in-gaza-seit-beginn-der-kampfhandlungen-a-415cddf1-e05f-4c3b-8977-1bf4e396fc65#ref=rss)
-* [https://www.spiegel.de/panorama/milliarden-fuer-die-infrastruktur-mehr-aerzte-busse-gastwirtschaften-mehr-milliarden-fuer-die-provinz](https://www.spiegel.de/panorama/milliarden-fuer-die-infrastruktur-mehr-aerzte-busse-gastwirtschaften-mehr-milliarden-fuer-die-provinz-a-f5c77d9f-3fbf-4cf6-b320-a005db82795d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/nato-ruestungsfirma-schlaegt-drohnenwall-an-der-ostflanke-vor](https://www.spiegel.de/wissenschaft/technik/nato-ruestungsfirma-schlaegt-drohnenwall-an-der-ostflanke-vor-a-f7b67aac-b475-422d-a5b4-22f8c400fc73#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/kanada-premier-mark-carney-kuendigt-neuwahlen-fuer-ende-april-an](https://www.spiegel.de/ausland/kanada-premier-mark-carney-kuendigt-neuwahlen-fuer-ende-april-an-a-492b0a11-20f8-4500-9da8-b484d28210fa#ref=rss)
-* [https://www.spiegel.de/ausland/atomprogramm-iran-stellt-bedingungen-fuer-verhandlungen-mit-den-usa](https://www.spiegel.de/ausland/atomprogramm-iran-stellt-bedingungen-fuer-verhandlungen-mit-den-usa-a-2ade3006-a395-4abd-a6ee-03cf35814b30#ref=rss)
-* [https://www.spiegel.de/ausland/us-vizepraesident-j-d-vance-usha-vance-reist-offenbar-nach-groenland](https://www.spiegel.de/ausland/us-vizepraesident-j-d-vance-usha-vance-reist-offenbar-nach-groenland-a-c409cff9-f8df-4a19-ac11-edecc776e7b4#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/google-maps-golf-von-wetzlar-deutsche-trollen-techkonzern-in-trump-manier](https://www.spiegel.de/netzwelt/web/google-maps-golf-von-wetzlar-deutsche-trollen-techkonzern-in-trump-manier-a-c00db668-62db-4d19-bd12-bc1bfbe68c08#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/atomprogramm-iran-stellt-bedingungen-fuer-verhandlungen-mit-den-usa](https://www.spiegel.de/ausland/atomprogramm-iran-stellt-bedingungen-fuer-verhandlungen-mit-den-usa-a-2ade3006-a395-4abd-a6ee-03cf35814b30#ref=rss)
-* [https://www.spiegel.de/ausland/usa-top-juristin-und-ehemalige-staatsanwaeltin-jessica-aber-ist-tot](https://www.spiegel.de/ausland/usa-top-juristin-und-ehemalige-staatsanwaeltin-jessica-aber-ist-tot-a-7b7cd5d5-f698-4a46-af39-747f1df2951a#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-unterstuetzung-keir-starmer-stimmt-usa-bei-verteidigungsfragen-zu](https://www.spiegel.de/ausland/ukraine-unterstuetzung-keir-starmer-stimmt-usa-bei-verteidigungsfragen-zu-a-3b28508b-f15d-45bb-8bbe-2f92bcd41400#ref=rss)
-### türkei
-
-* [https://www.spiegel.de/netzwelt/elon-musk-plattform-x-blockiert-offenbar-regierungskritische-seiten-in-der-tuerkei](https://www.spiegel.de/netzwelt/elon-musk-plattform-x-blockiert-offenbar-regierungskritische-seiten-in-der-tuerkei-a-d76de90e-3db4-4bfa-949e-b81993d9cbda#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-ekrem-imamoglu-als-buergermeister-von-istanbul-abgesetzt](https://www.spiegel.de/ausland/tuerkei-ekrem-imamoglu-als-buergermeister-von-istanbul-abgesetzt-a-a697e4ff-4e40-4a54-adeb-7d84fa94a355#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/netzwelt/elon-musk-plattform-x-blockiert-offenbar-regierungskritische-seiten-in-der-tuerkei](https://www.spiegel.de/netzwelt/elon-musk-plattform-x-blockiert-offenbar-regierungskritische-seiten-in-der-tuerkei-a-d76de90e-3db4-4bfa-949e-b81993d9cbda#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/germanwings-absturz-2015-die-graeber-schreien-noch-wie-am-ersten-tag](https://www.spiegel.de/panorama/justiz/germanwings-absturz-2015-die-graeber-schreien-noch-wie-am-ersten-tag-a-0c214508-8594-4166-9578-c035f9fbdd75#ref=rss)
-* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-1945-das-ns-propagandainstrument-vom-werwolf](https://www.spiegel.de/geschichte/zweiter-weltkrieg-1945-das-ns-propagandainstrument-vom-werwolf-a-5076f28a-3683-413c-af38-b2f5755838d7#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-mehr-als-50-000-tote-in-gaza-seit-beginn-der-kampfhandlungen](https://www.spiegel.de/ausland/israel-gaza-krieg-mehr-als-50-000-tote-in-gaza-seit-beginn-der-kampfhandlungen-a-415cddf1-e05f-4c3b-8977-1bf4e396fc65#ref=rss)
+* [https://www.spiegel.de/wissenschaft/great-barrier-reef-und-ningaloo-reef-australiens-korallenriffe-zeitgleich-von-bleiche-betroffen](https://www.spiegel.de/wissenschaft/great-barrier-reef-und-ningaloo-reef-australiens-korallenriffe-zeitgleich-von-bleiche-betroffen-a-e2d814b2-1d36-45c4-9c9a-81c1c61a15ad#ref=rss)
+* [https://www.spiegel.de/ausland/easter-egg-roll-2025-weisses-haus-sucht-sponsoren-fuer-osterveranstaltung](https://www.spiegel.de/ausland/easter-egg-roll-2025-weisses-haus-sucht-sponsoren-fuer-osterveranstaltung-a-c1c042f2-2dba-439c-bf61-cf9d03d90983#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bertelsmann-rtl-verkauft-gruner-jahr-magazine-an-funke-mediengruppe](https://www.spiegel.de/wirtschaft/bertelsmann-rtl-verkauft-gruner-jahr-magazine-an-funke-mediengruppe-a-2b5a5e2f-ceb3-4a81-9395-ca55eac56812#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elterngeld-zahl-der-bezieher-sinkt-drittes-jahr-in-folge](https://www.spiegel.de/wirtschaft/elterngeld-zahl-der-bezieher-sinkt-drittes-jahr-in-folge-a-bdff81d2-46e9-4f5a-8d41-7caa6e1d9ca4#ref=rss)
 ### zahl
 
-* [https://www.spiegel.de/karriere/sechsstellige-zahl-gesucht-raetsel-der-woche](https://www.spiegel.de/karriere/sechsstellige-zahl-gesucht-raetsel-der-woche-a-ee1fdb5b-4890-4fd5-b1b2-c661bc087311#ref=rss)
-### ende
+* [https://www.spiegel.de/wirtschaft/elterngeld-zahl-der-bezieher-sinkt-drittes-jahr-in-folge](https://www.spiegel.de/wirtschaft/elterngeld-zahl-der-bezieher-sinkt-drittes-jahr-in-folge-a-bdff81d2-46e9-4f5a-8d41-7caa6e1d9ca4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bundestag-in-neuer-legislaturperiode-nur-wenige-unternehmer-vertreten](https://www.spiegel.de/wirtschaft/bundestag-in-neuer-legislaturperiode-nur-wenige-unternehmer-vertreten-a-e5535972-da02-456f-827d-5506d7c9f089#ref=rss)
+### reef
 
-* [https://www.spiegel.de/ausland/kanada-premier-mark-carney-kuendigt-neuwahlen-fuer-ende-april-an](https://www.spiegel.de/ausland/kanada-premier-mark-carney-kuendigt-neuwahlen-fuer-ende-april-an-a-492b0a11-20f8-4500-9da8-b484d28210fa#ref=rss)
-* [https://www.spiegel.de/sport/fussball/dfb-pokal-der-frauen-werder-bremen-erreicht-pokalfinale-vor-rekordkulisse-in-hamburg](https://www.spiegel.de/sport/fussball/dfb-pokal-der-frauen-werder-bremen-erreicht-pokalfinale-vor-rekordkulisse-in-hamburg-a-eaf9c31b-5b2e-4a78-b6c4-2636abea4ace#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/niedersachsen-verfolgungsjagd-auf-der-autobahn-polizei-stoppt-wohnmobil-mit-reifenschuss](https://www.spiegel.de/panorama/justiz/niedersachsen-verfolgungsjagd-auf-der-autobahn-polizei-stoppt-wohnmobil-mit-reifenschuss-a-aa9912fd-60d4-48a2-b0d3-2fdb9aa49bbb#ref=rss)
-### woche
+* [https://www.spiegel.de/wissenschaft/great-barrier-reef-und-ningaloo-reef-australiens-korallenriffe-zeitgleich-von-bleiche-betroffen](https://www.spiegel.de/wissenschaft/great-barrier-reef-und-ningaloo-reef-australiens-korallenriffe-zeitgleich-von-bleiche-betroffen-a-e2d814b2-1d36-45c4-9c9a-81c1c61a15ad#ref=rss)
+### i̇mamoğlu
 
-* [https://www.spiegel.de/ausland/kanada-premier-mark-carney-kuendigt-neuwahlen-fuer-ende-april-an](https://www.spiegel.de/ausland/kanada-premier-mark-carney-kuendigt-neuwahlen-fuer-ende-april-an-a-492b0a11-20f8-4500-9da8-b484d28210fa#ref=rss)
-* [https://www.spiegel.de/kultur/rosenstolz-gedenken-an-saengerin-anna-r-in-berlin-die-lebensretterin](https://www.spiegel.de/kultur/rosenstolz-gedenken-an-saengerin-anna-r-in-berlin-die-lebensretterin-a-bc4f5b57-426a-4ad1-92b2-6959fbed7b3f#ref=rss)
-* [https://www.spiegel.de/karriere/sechsstellige-zahl-gesucht-raetsel-der-woche](https://www.spiegel.de/karriere/sechsstellige-zahl-gesucht-raetsel-der-woche-a-ee1fdb5b-4890-4fd5-b1b2-c661bc087311#ref=rss)
-### trumps
+* [https://www.spiegel.de/politik/deutschland/tuerkei-spd-fordert-freilassung-von-ekrem-imamoglu](https://www.spiegel.de/politik/deutschland/tuerkei-spd-fordert-freilassung-von-ekrem-imamoglu-a-274f0b9c-3f81-47c8-a9b9-6153632e5d8f#ref=rss)
+* [https://www.spiegel.de/ausland/tuerkei-chp-waehlt-ekrem-imamoglu-trotz-haft-zum-praesidentschaftskandidaten](https://www.spiegel.de/ausland/tuerkei-chp-waehlt-ekrem-imamoglu-trotz-haft-zum-praesidentschaftskandidaten-a-a936abd9-27f4-4a52-93cb-105d2636b996#ref=rss)
+### trump
 
-* [https://www.spiegel.de/ausland/wladimir-putin-will-nach-ansicht-des-us-sondergesandten-steve-witkoff-nicht-ganz-europa-einnehmen](https://www.spiegel.de/ausland/wladimir-putin-will-nach-ansicht-des-us-sondergesandten-steve-witkoff-nicht-ganz-europa-einnehmen-a-37b725a5-a7a2-4fa2-949a-6c6a08390ad7#ref=rss)
-* [https://www.spiegel.de/ausland/us-vizepraesident-j-d-vance-usha-vance-reist-offenbar-nach-groenland](https://www.spiegel.de/ausland/us-vizepraesident-j-d-vance-usha-vance-reist-offenbar-nach-groenland-a-c409cff9-f8df-4a19-ac11-edecc776e7b4#ref=rss)
-### zuvor
+* [https://www.spiegel.de/ausland/easter-egg-roll-2025-weisses-haus-sucht-sponsoren-fuer-osterveranstaltung](https://www.spiegel.de/ausland/easter-egg-roll-2025-weisses-haus-sucht-sponsoren-fuer-osterveranstaltung-a-c1c042f2-2dba-439c-bf61-cf9d03d90983#ref=rss)
+* [https://www.spiegel.de/kultur/tv/conan-obrien-teilt-bei-dankesrede-gegen-tyrannen-aus](https://www.spiegel.de/kultur/tv/conan-obrien-teilt-bei-dankesrede-gegen-tyrannen-aus-a-0422a5b7-3af7-44e1-9dba-87b25c00584a#ref=rss)
+* [https://www.spiegel.de/panorama/leute/tiger-woods-bestaetigt-beziehung-mit-ex-frau-von-donald-trump-jr](https://www.spiegel.de/panorama/leute/tiger-woods-bestaetigt-beziehung-mit-ex-frau-von-donald-trump-jr-a-3d6517a1-890f-47ff-8e26-06b0311ad5cf#ref=rss)
+### israel
 
-* [https://www.spiegel.de/ausland/wladimir-putin-will-nach-ansicht-des-us-sondergesandten-steve-witkoff-nicht-ganz-europa-einnehmen](https://www.spiegel.de/ausland/wladimir-putin-will-nach-ansicht-des-us-sondergesandten-steve-witkoff-nicht-ganz-europa-einnehmen-a-37b725a5-a7a2-4fa2-949a-6c6a08390ad7#ref=rss)
-* [https://www.spiegel.de/ausland/atomprogramm-iran-stellt-bedingungen-fuer-verhandlungen-mit-den-usa](https://www.spiegel.de/ausland/atomprogramm-iran-stellt-bedingungen-fuer-verhandlungen-mit-den-usa-a-2ade3006-a395-4abd-a6ee-03cf35814b30#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/orlando-frau-ertraenkt-offenbar-hund-in-toilette-weil-sie-nicht-mit-ihm-fliegen-durfte](https://www.spiegel.de/panorama/justiz/orlando-frau-ertraenkt-offenbar-hund-in-toilette-weil-sie-nicht-mit-ihm-fliegen-durfte-a-23485d8d-b9cb-4034-9552-28a98785ef4a#ref=rss)
-### d
+* [https://www.spiegel.de/ausland/nahostkonflikt-israel-erkennt-13-siedlungen-im-westjordanland-an](https://www.spiegel.de/ausland/nahostkonflikt-israel-erkennt-13-siedlungen-im-westjordanland-an-a-597cd5d3-429e-484f-bd25-d6f510f8e22f#ref=rss)
+* [https://www.spiegel.de/ausland/israel-schafft-offenbar-behoerde-zur-freiwilligen-ausreise-aus-dem-gazastreifen](https://www.spiegel.de/ausland/israel-schafft-offenbar-behoerde-zur-freiwilligen-ausreise-aus-dem-gazastreifen-a-0f3dc8f7-b24d-434c-8b57-9a4aecd489b8#ref=rss)
+### usa
 
-* [https://www.spiegel.de/ausland/us-vizepraesident-j-d-vance-usha-vance-reist-offenbar-nach-groenland](https://www.spiegel.de/ausland/us-vizepraesident-j-d-vance-usha-vance-reist-offenbar-nach-groenland-a-c409cff9-f8df-4a19-ac11-edecc776e7b4#ref=rss)
-* [https://www.spiegel.de/karriere/sechsstellige-zahl-gesucht-raetsel-der-woche](https://www.spiegel.de/karriere/sechsstellige-zahl-gesucht-raetsel-der-woche-a-ee1fdb5b-4890-4fd5-b1b2-c661bc087311#ref=rss)
-### vance
+* [https://www.spiegel.de/wissenschaft/tuberkulose-who-warnt-vor-kollaps-im-kampf-gegen-die-krankheit](https://www.spiegel.de/wissenschaft/tuberkulose-who-warnt-vor-kollaps-im-kampf-gegen-die-krankheit-a-8f901453-acf5-4043-bc41-051de4f229dc#ref=rss)
+* [https://www.spiegel.de/ausland/ukrainekrieg-usa-und-russland-verhandeln-in-saudi-arabien](https://www.spiegel.de/ausland/ukrainekrieg-usa-und-russland-verhandeln-in-saudi-arabien-a-a292275d-ef13-4287-9b06-db47691da36e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/china-empfaengt-handelsdelegation-und-hofiert-us-konzerne-apple-und-co](https://www.spiegel.de/wirtschaft/china-empfaengt-handelsdelegation-und-hofiert-us-konzerne-apple-und-co-a-6d1d5a07-9e67-4830-bd8d-7b9b5f435e81#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/ausland/us-vizepraesident-j-d-vance-usha-vance-reist-offenbar-nach-groenland](https://www.spiegel.de/ausland/us-vizepraesident-j-d-vance-usha-vance-reist-offenbar-nach-groenland-a-c409cff9-f8df-4a19-ac11-edecc776e7b4#ref=rss)
-### jahren
+* [https://www.spiegel.de/sport/fussball/fussball-deutschland-ueberzeugt-in-der-nations-league-eine-halbzeit-lang-beim-3-3-gegen-italien](https://www.spiegel.de/sport/fussball/fussball-deutschland-ueberzeugt-in-der-nations-league-eine-halbzeit-lang-beim-3-3-gegen-italien-a-3adf006f-4849-40cc-bfe0-ade69cd68d7c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/pressestimmen-aus-italien-zum-nations-league-spiel-in-deutschland-von-den-deutschen-weggefegt](https://www.spiegel.de/sport/fussball/pressestimmen-aus-italien-zum-nations-league-spiel-in-deutschland-von-den-deutschen-weggefegt-a-67c1ff21-1932-4380-9f2c-8c430da41cd7#ref=rss)
+* [https://www.spiegel.de/auto/fahrradfahren-in-deutschland-auf-den-radwegen-wird-es-eng](https://www.spiegel.de/auto/fahrradfahren-in-deutschland-auf-den-radwegen-wird-es-eng-a-37dc84c3-f683-443f-ace4-ed6f1e1fca4a#ref=rss)
+### italien
 
-* [https://www.spiegel.de/ausland/usa-top-juristin-und-ehemalige-staatsanwaeltin-jessica-aber-ist-tot](https://www.spiegel.de/ausland/usa-top-juristin-und-ehemalige-staatsanwaeltin-jessica-aber-ist-tot-a-7b7cd5d5-f698-4a46-af39-747f1df2951a#ref=rss)
-* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-1945-das-ns-propagandainstrument-vom-werwolf](https://www.spiegel.de/geschichte/zweiter-weltkrieg-1945-das-ns-propagandainstrument-vom-werwolf-a-5076f28a-3683-413c-af38-b2f5755838d7#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-ekrem-imamoglu-als-buergermeister-von-istanbul-abgesetzt](https://www.spiegel.de/ausland/tuerkei-ekrem-imamoglu-als-buergermeister-von-istanbul-abgesetzt-a-a697e4ff-4e40-4a54-adeb-7d84fa94a355#ref=rss)
-### milliarden
+* [https://www.spiegel.de/sport/fussball/fussball-deutschland-ueberzeugt-in-der-nations-league-eine-halbzeit-lang-beim-3-3-gegen-italien](https://www.spiegel.de/sport/fussball/fussball-deutschland-ueberzeugt-in-der-nations-league-eine-halbzeit-lang-beim-3-3-gegen-italien-a-3adf006f-4849-40cc-bfe0-ade69cd68d7c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/pressestimmen-aus-italien-zum-nations-league-spiel-in-deutschland-von-den-deutschen-weggefegt](https://www.spiegel.de/sport/fussball/pressestimmen-aus-italien-zum-nations-league-spiel-in-deutschland-von-den-deutschen-weggefegt-a-67c1ff21-1932-4380-9f2c-8c430da41cd7#ref=rss)
+### friedrich
 
-* [https://www.spiegel.de/panorama/milliarden-fuer-die-infrastruktur-mehr-aerzte-busse-gastwirtschaften-mehr-milliarden-fuer-die-provinz](https://www.spiegel.de/panorama/milliarden-fuer-die-infrastruktur-mehr-aerzte-busse-gastwirtschaften-mehr-milliarden-fuer-die-provinz-a-f5c77d9f-3fbf-4cf6-b320-a005db82795d#ref=rss)
-### premier
-
-* [https://www.spiegel.de/ausland/kanada-premier-mark-carney-kuendigt-neuwahlen-fuer-ende-april-an](https://www.spiegel.de/ausland/kanada-premier-mark-carney-kuendigt-neuwahlen-fuer-ende-april-an-a-492b0a11-20f8-4500-9da8-b484d28210fa#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-unterstuetzung-keir-starmer-stimmt-usa-bei-verteidigungsfragen-zu](https://www.spiegel.de/ausland/ukraine-unterstuetzung-keir-starmer-stimmt-usa-bei-verteidigungsfragen-zu-a-3b28508b-f15d-45bb-8bbe-2f92bcd41400#ref=rss)
-### mark
-
-* [https://www.spiegel.de/ausland/kanada-premier-mark-carney-kuendigt-neuwahlen-fuer-ende-april-an](https://www.spiegel.de/ausland/kanada-premier-mark-carney-kuendigt-neuwahlen-fuer-ende-april-an-a-492b0a11-20f8-4500-9da8-b484d28210fa#ref=rss)
-### carney
-
-* [https://www.spiegel.de/ausland/kanada-premier-mark-carney-kuendigt-neuwahlen-fuer-ende-april-an](https://www.spiegel.de/ausland/kanada-premier-mark-carney-kuendigt-neuwahlen-fuer-ende-april-an-a-492b0a11-20f8-4500-9da8-b484d28210fa#ref=rss)
-### neuwahlen
-
-* [https://www.spiegel.de/ausland/kanada-premier-mark-carney-kuendigt-neuwahlen-fuer-ende-april-an](https://www.spiegel.de/ausland/kanada-premier-mark-carney-kuendigt-neuwahlen-fuer-ende-april-an-a-492b0a11-20f8-4500-9da8-b484d28210fa#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/sport/fussball/dfb-pokal-der-frauen-werder-bremen-erreicht-pokalfinale-vor-rekordkulisse-in-hamburg](https://www.spiegel.de/sport/fussball/dfb-pokal-der-frauen-werder-bremen-erreicht-pokalfinale-vor-rekordkulisse-in-hamburg-a-eaf9c31b-5b2e-4a78-b6c4-2636abea4ace#ref=rss)
-### bremen
-
-* [https://www.spiegel.de/sport/fussball/dfb-pokal-der-frauen-werder-bremen-erreicht-pokalfinale-vor-rekordkulisse-in-hamburg](https://www.spiegel.de/sport/fussball/dfb-pokal-der-frauen-werder-bremen-erreicht-pokalfinale-vor-rekordkulisse-in-hamburg-a-eaf9c31b-5b2e-4a78-b6c4-2636abea4ace#ref=rss)
-### hamburg
-
-* [https://www.spiegel.de/sport/fussball/dfb-pokal-der-frauen-werder-bremen-erreicht-pokalfinale-vor-rekordkulisse-in-hamburg](https://www.spiegel.de/sport/fussball/dfb-pokal-der-frauen-werder-bremen-erreicht-pokalfinale-vor-rekordkulisse-in-hamburg-a-eaf9c31b-5b2e-4a78-b6c4-2636abea4ace#ref=rss)
-### rosenstolz
-
-* [https://www.spiegel.de/kultur/rosenstolz-gedenken-an-saengerin-anna-r-in-berlin-die-lebensretterin](https://www.spiegel.de/kultur/rosenstolz-gedenken-an-saengerin-anna-r-in-berlin-die-lebensretterin-a-bc4f5b57-426a-4ad1-92b2-6959fbed7b3f#ref=rss)
-### sängerin
-
-* [https://www.spiegel.de/kultur/rosenstolz-gedenken-an-saengerin-anna-r-in-berlin-die-lebensretterin](https://www.spiegel.de/kultur/rosenstolz-gedenken-an-saengerin-anna-r-in-berlin-die-lebensretterin-a-bc4f5b57-426a-4ad1-92b2-6959fbed7b3f#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/kultur/rosenstolz-gedenken-an-saengerin-anna-r-in-berlin-die-lebensretterin](https://www.spiegel.de/kultur/rosenstolz-gedenken-an-saengerin-anna-r-in-berlin-die-lebensretterin-a-bc4f5b57-426a-4ad1-92b2-6959fbed7b3f#ref=rss)
-### gestorben
-
-* [https://www.spiegel.de/kultur/rosenstolz-gedenken-an-saengerin-anna-r-in-berlin-die-lebensretterin](https://www.spiegel.de/kultur/rosenstolz-gedenken-an-saengerin-anna-r-in-berlin-die-lebensretterin-a-bc4f5b57-426a-4ad1-92b2-6959fbed7b3f#ref=rss)
-* [https://www.spiegel.de/ausland/usa-top-juristin-und-ehemalige-staatsanwaeltin-jessica-aber-ist-tot](https://www.spiegel.de/ausland/usa-top-juristin-und-ehemalige-staatsanwaeltin-jessica-aber-ist-tot-a-7b7cd5d5-f698-4a46-af39-747f1df2951a#ref=rss)
-### zusammen
-
-* [https://www.spiegel.de/kultur/rosenstolz-gedenken-an-saengerin-anna-r-in-berlin-die-lebensretterin](https://www.spiegel.de/kultur/rosenstolz-gedenken-an-saengerin-anna-r-in-berlin-die-lebensretterin-a-bc4f5b57-426a-4ad1-92b2-6959fbed7b3f#ref=rss)
-* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-dem-schwarzwald-die-grosse-angst-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-dem-schwarzwald-die-grosse-angst-im-schnellcheck-a-a91ffed4-8db6-46a5-a3e9-dac60a62f779#ref=rss)
-### druck
-
-* [https://www.spiegel.de/politik/deutschland/spd-und-cdu-csu-druck-auf-friedrich-merz-und-lars-klingbeil-bei-koalitionsverhandlungen](https://www.spiegel.de/politik/deutschland/spd-und-cdu-csu-druck-auf-friedrich-merz-und-lars-klingbeil-bei-koalitionsverhandlungen-a-ce987fa5-249c-4612-84db-a01fbc5cf5d7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/friedrich-merz-braucht-fuer-die-wirtschaftswende-nicht-nur-milliarden-sondern-menschen](https://www.spiegel.de/wirtschaft/soziales/friedrich-merz-braucht-fuer-die-wirtschaftswende-nicht-nur-milliarden-sondern-menschen-a-5a954a88-36a3-44c8-b9bd-6f0467ee4e33#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-wuenscht-sich-neuen-namen-fuer-kuenftige-koalition-statt-groko](https://www.spiegel.de/politik/deutschland/friedrich-merz-wuenscht-sich-neuen-namen-fuer-kuenftige-koalition-statt-groko-a-3299e258-e1b8-4f18-9776-af3cf76995ed#ref=rss)
 ### merz
 
-* [https://www.spiegel.de/politik/deutschland/spd-und-cdu-csu-druck-auf-friedrich-merz-und-lars-klingbeil-bei-koalitionsverhandlungen](https://www.spiegel.de/politik/deutschland/spd-und-cdu-csu-druck-auf-friedrich-merz-und-lars-klingbeil-bei-koalitionsverhandlungen-a-ce987fa5-249c-4612-84db-a01fbc5cf5d7#ref=rss)
-### klingbeil
+* [https://www.spiegel.de/wirtschaft/soziales/friedrich-merz-braucht-fuer-die-wirtschaftswende-nicht-nur-milliarden-sondern-menschen](https://www.spiegel.de/wirtschaft/soziales/friedrich-merz-braucht-fuer-die-wirtschaftswende-nicht-nur-milliarden-sondern-menschen-a-5a954a88-36a3-44c8-b9bd-6f0467ee4e33#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-wuenscht-sich-neuen-namen-fuer-kuenftige-koalition-statt-groko](https://www.spiegel.de/politik/deutschland/friedrich-merz-wuenscht-sich-neuen-namen-fuer-kuenftige-koalition-statt-groko-a-3299e258-e1b8-4f18-9776-af3cf76995ed#ref=rss)
+### drei
 
-* [https://www.spiegel.de/politik/deutschland/spd-und-cdu-csu-druck-auf-friedrich-merz-und-lars-klingbeil-bei-koalitionsverhandlungen](https://www.spiegel.de/politik/deutschland/spd-und-cdu-csu-druck-auf-friedrich-merz-und-lars-klingbeil-bei-koalitionsverhandlungen-a-ce987fa5-249c-4612-84db-a01fbc5cf5d7#ref=rss)
-### einige
+* [https://www.spiegel.de/wirtschaft/tarifstreit-im-oeffentlichen-dienst-jetzt-sind-die-schlichter-dran](https://www.spiegel.de/wirtschaft/tarifstreit-im-oeffentlichen-dienst-jetzt-sind-die-schlichter-dran-a-8410f8c8-6220-4818-b157-d0ed4e8abb27#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bertelsmann-rtl-verkauft-gruner-jahr-magazine-an-funke-mediengruppe](https://www.spiegel.de/wirtschaft/bertelsmann-rtl-verkauft-gruner-jahr-magazine-an-funke-mediengruppe-a-2b5a5e2f-ceb3-4a81-9395-ca55eac56812#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elterngeld-zahl-der-bezieher-sinkt-drittes-jahr-in-folge](https://www.spiegel.de/wirtschaft/elterngeld-zahl-der-bezieher-sinkt-drittes-jahr-in-folge-a-bdff81d2-46e9-4f5a-8d41-7caa6e1d9ca4#ref=rss)
+### türkei
 
-* [https://www.spiegel.de/politik/deutschland/spd-und-cdu-csu-druck-auf-friedrich-merz-und-lars-klingbeil-bei-koalitionsverhandlungen](https://www.spiegel.de/politik/deutschland/spd-und-cdu-csu-druck-auf-friedrich-merz-und-lars-klingbeil-bei-koalitionsverhandlungen-a-ce987fa5-249c-4612-84db-a01fbc5cf5d7#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/niedersachsen-verfolgungsjagd-auf-der-autobahn-polizei-stoppt-wohnmobil-mit-reifenschuss](https://www.spiegel.de/panorama/justiz/niedersachsen-verfolgungsjagd-auf-der-autobahn-polizei-stoppt-wohnmobil-mit-reifenschuss-a-aa9912fd-60d4-48a2-b0d3-2fdb9aa49bbb#ref=rss)
-### steve
+* [https://www.spiegel.de/politik/deutschland/tuerkei-spd-fordert-freilassung-von-ekrem-imamoglu](https://www.spiegel.de/politik/deutschland/tuerkei-spd-fordert-freilassung-von-ekrem-imamoglu-a-274f0b9c-3f81-47c8-a9b9-6153632e5d8f#ref=rss)
+* [https://www.spiegel.de/ausland/tuerkei-chp-waehlt-ekrem-imamoglu-trotz-haft-zum-praesidentschaftskandidaten](https://www.spiegel.de/ausland/tuerkei-chp-waehlt-ekrem-imamoglu-trotz-haft-zum-praesidentschaftskandidaten-a-a936abd9-27f4-4a52-93cb-105d2636b996#ref=rss)
+### spd
 
-* [https://www.spiegel.de/ausland/wladimir-putin-will-nach-ansicht-des-us-sondergesandten-steve-witkoff-nicht-ganz-europa-einnehmen](https://www.spiegel.de/ausland/wladimir-putin-will-nach-ansicht-des-us-sondergesandten-steve-witkoff-nicht-ganz-europa-einnehmen-a-37b725a5-a7a2-4fa2-949a-6c6a08390ad7#ref=rss)
-### witkoff
-
-* [https://www.spiegel.de/ausland/wladimir-putin-will-nach-ansicht-des-us-sondergesandten-steve-witkoff-nicht-ganz-europa-einnehmen](https://www.spiegel.de/ausland/wladimir-putin-will-nach-ansicht-des-us-sondergesandten-steve-witkoff-nicht-ganz-europa-einnehmen-a-37b725a5-a7a2-4fa2-949a-6c6a08390ad7#ref=rss)
-### profi
-
-* [https://www.spiegel.de/panorama/ostern-richtig-eierfaerben-tipps-vom-profi](https://www.spiegel.de/panorama/ostern-richtig-eierfaerben-tipps-vom-profi-a-8eb9bdbc-9e45-4b0b-b35d-c4efff6341d9#ref=rss)
-* [https://www.spiegel.de/sport/handball/handball-betrug-oder-versehen-luebeck-erzielt-mit-acht-feldspielern-tor-zum-unentschieden](https://www.spiegel.de/sport/handball/handball-betrug-oder-versehen-luebeck-erzielt-mit-acht-feldspielern-tor-zum-unentschieden-a-1ee6ae68-db0f-4147-a698-bef3cbc7f472#ref=rss)
-### vinted
-
-* [https://www.spiegel.de/stil/vinted-jetzt-auch-international-stoebern-in-franzoesischen-kleiderschraenken](https://www.spiegel.de/stil/vinted-jetzt-auch-international-stoebern-in-franzoesischen-kleiderschraenken-a-83794641-4a3f-4c56-8722-4c28623796cd#ref=rss)
-### atomprogramm
-
-* [https://www.spiegel.de/ausland/atomprogramm-iran-stellt-bedingungen-fuer-verhandlungen-mit-den-usa](https://www.spiegel.de/ausland/atomprogramm-iran-stellt-bedingungen-fuer-verhandlungen-mit-den-usa-a-2ade3006-a395-4abd-a6ee-03cf35814b30#ref=rss)
-### iran
-
-* [https://www.spiegel.de/ausland/atomprogramm-iran-stellt-bedingungen-fuer-verhandlungen-mit-den-usa](https://www.spiegel.de/ausland/atomprogramm-iran-stellt-bedingungen-fuer-verhandlungen-mit-den-usa-a-2ade3006-a395-4abd-a6ee-03cf35814b30#ref=rss)
-### land
-
-* [https://www.spiegel.de/ausland/atomprogramm-iran-stellt-bedingungen-fuer-verhandlungen-mit-den-usa](https://www.spiegel.de/ausland/atomprogramm-iran-stellt-bedingungen-fuer-verhandlungen-mit-den-usa-a-2ade3006-a395-4abd-a6ee-03cf35814b30#ref=rss)
-* [https://www.spiegel.de/ausland/bernie-sanders-und-alexandria-ocasio-cortez-ungleiches-paar-auf-anti-trump-mission](https://www.spiegel.de/ausland/bernie-sanders-und-alexandria-ocasio-cortez-ungleiches-paar-auf-anti-trump-mission-a-90c85bd0-ff1b-4cde-906c-6846ad537ebd#ref=rss)
-### straße
-
-* [https://www.spiegel.de/netzwelt/elon-musk-plattform-x-blockiert-offenbar-regierungskritische-seiten-in-der-tuerkei](https://www.spiegel.de/netzwelt/elon-musk-plattform-x-blockiert-offenbar-regierungskritische-seiten-in-der-tuerkei-a-d76de90e-3db4-4bfa-949e-b81993d9cbda#ref=rss)
-* [https://www.spiegel.de/ausland/bernie-sanders-und-alexandria-ocasio-cortez-ungleiches-paar-auf-anti-trump-mission](https://www.spiegel.de/ausland/bernie-sanders-und-alexandria-ocasio-cortez-ungleiches-paar-auf-anti-trump-mission-a-90c85bd0-ff1b-4cde-906c-6846ad537ebd#ref=rss)
-### festnahme
-
-* [https://www.spiegel.de/netzwelt/elon-musk-plattform-x-blockiert-offenbar-regierungskritische-seiten-in-der-tuerkei](https://www.spiegel.de/netzwelt/elon-musk-plattform-x-blockiert-offenbar-regierungskritische-seiten-in-der-tuerkei-a-d76de90e-3db4-4bfa-949e-b81993d9cbda#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-ekrem-imamoglu-als-buergermeister-von-istanbul-abgesetzt](https://www.spiegel.de/ausland/tuerkei-ekrem-imamoglu-als-buergermeister-von-istanbul-abgesetzt-a-a697e4ff-4e40-4a54-adeb-7d84fa94a355#ref=rss)
-### laut
-
-* [https://www.spiegel.de/netzwelt/elon-musk-plattform-x-blockiert-offenbar-regierungskritische-seiten-in-der-tuerkei](https://www.spiegel.de/netzwelt/elon-musk-plattform-x-blockiert-offenbar-regierungskritische-seiten-in-der-tuerkei-a-d76de90e-3db4-4bfa-949e-b81993d9cbda#ref=rss)
-* [https://www.spiegel.de/ausland/us-vizepraesident-j-d-vance-usha-vance-reist-offenbar-nach-groenland](https://www.spiegel.de/ausland/us-vizepraesident-j-d-vance-usha-vance-reist-offenbar-nach-groenland-a-c409cff9-f8df-4a19-ac11-edecc776e7b4#ref=rss)
-### berichten
-
-* [https://www.spiegel.de/netzwelt/elon-musk-plattform-x-blockiert-offenbar-regierungskritische-seiten-in-der-tuerkei](https://www.spiegel.de/netzwelt/elon-musk-plattform-x-blockiert-offenbar-regierungskritische-seiten-in-der-tuerkei-a-d76de90e-3db4-4bfa-949e-b81993d9cbda#ref=rss)
-* [https://www.spiegel.de/ausland/us-vizepraesident-j-d-vance-usha-vance-reist-offenbar-nach-groenland](https://www.spiegel.de/ausland/us-vizepraesident-j-d-vance-usha-vance-reist-offenbar-nach-groenland-a-c409cff9-f8df-4a19-ac11-edecc776e7b4#ref=rss)
-### j
-
-* [https://www.spiegel.de/ausland/us-vizepraesident-j-d-vance-usha-vance-reist-offenbar-nach-groenland](https://www.spiegel.de/ausland/us-vizepraesident-j-d-vance-usha-vance-reist-offenbar-nach-groenland-a-c409cff9-f8df-4a19-ac11-edecc776e7b4#ref=rss)
-### reist
-
-* [https://www.spiegel.de/ausland/us-vizepraesident-j-d-vance-usha-vance-reist-offenbar-nach-groenland](https://www.spiegel.de/ausland/us-vizepraesident-j-d-vance-usha-vance-reist-offenbar-nach-groenland-a-c409cff9-f8df-4a19-ac11-edecc776e7b4#ref=rss)
-### grönland
-
-* [https://www.spiegel.de/ausland/us-vizepraesident-j-d-vance-usha-vance-reist-offenbar-nach-groenland](https://www.spiegel.de/ausland/us-vizepraesident-j-d-vance-usha-vance-reist-offenbar-nach-groenland-a-c409cff9-f8df-4a19-ac11-edecc776e7b4#ref=rss)
-### bald
-
-* [https://www.spiegel.de/ausland/us-vizepraesident-j-d-vance-usha-vance-reist-offenbar-nach-groenland](https://www.spiegel.de/ausland/us-vizepraesident-j-d-vance-usha-vance-reist-offenbar-nach-groenland-a-c409cff9-f8df-4a19-ac11-edecc776e7b4#ref=rss)
-* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-dem-schwarzwald-die-grosse-angst-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-dem-schwarzwald-die-grosse-angst-im-schnellcheck-a-a91ffed4-8db6-46a5-a3e9-dac60a62f779#ref=rss)
-### frau
-
-* [https://www.spiegel.de/ausland/us-vizepraesident-j-d-vance-usha-vance-reist-offenbar-nach-groenland](https://www.spiegel.de/ausland/us-vizepraesident-j-d-vance-usha-vance-reist-offenbar-nach-groenland-a-c409cff9-f8df-4a19-ac11-edecc776e7b4#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/orlando-frau-ertraenkt-offenbar-hund-in-toilette-weil-sie-nicht-mit-ihm-fliegen-durfte](https://www.spiegel.de/panorama/justiz/orlando-frau-ertraenkt-offenbar-hund-in-toilette-weil-sie-nicht-mit-ihm-fliegen-durfte-a-23485d8d-b9cb-4034-9552-28a98785ef4a#ref=rss)
-### 2015
-
-* [https://www.spiegel.de/panorama/justiz/germanwings-absturz-2015-die-graeber-schreien-noch-wie-am-ersten-tag](https://www.spiegel.de/panorama/justiz/germanwings-absturz-2015-die-graeber-schreien-noch-wie-am-ersten-tag-a-0c214508-8594-4166-9578-c035f9fbdd75#ref=rss)
-### darin
-
-* [https://www.spiegel.de/ausland/netanyahu-will-die-wichtigste-waechterin-der-rechtsstaatlichkeit-loswerden](https://www.spiegel.de/ausland/netanyahu-will-die-wichtigste-waechterin-der-rechtsstaatlichkeit-loswerden-a-9481dee3-6943-4917-a93f-f2c797b2b6c6#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/uni-mainz-raetselhafte-roehrchen-forschende-entdecken-unbekannte-lebensform-in-der-wueste](https://www.spiegel.de/wissenschaft/natur/uni-mainz-raetselhafte-roehrchen-forschende-entdecken-unbekannte-lebensform-in-der-wueste-a-111e60f0-32bb-4ec1-8ca3-b30af68b5132#ref=rss)
-### staatsanwältin
-
-* [https://www.spiegel.de/ausland/usa-top-juristin-und-ehemalige-staatsanwaeltin-jessica-aber-ist-tot](https://www.spiegel.de/ausland/usa-top-juristin-und-ehemalige-staatsanwaeltin-jessica-aber-ist-tot-a-7b7cd5d5-f698-4a46-af39-747f1df2951a#ref=rss)
-### jessica
-
-* [https://www.spiegel.de/ausland/usa-top-juristin-und-ehemalige-staatsanwaeltin-jessica-aber-ist-tot](https://www.spiegel.de/ausland/usa-top-juristin-und-ehemalige-staatsanwaeltin-jessica-aber-ist-tot-a-7b7cd5d5-f698-4a46-af39-747f1df2951a#ref=rss)
-### sechsstellige
-
-* [https://www.spiegel.de/karriere/sechsstellige-zahl-gesucht-raetsel-der-woche](https://www.spiegel.de/karriere/sechsstellige-zahl-gesucht-raetsel-der-woche-a-ee1fdb5b-4890-4fd5-b1b2-c661bc087311#ref=rss)
-### ziffern
-
-* [https://www.spiegel.de/karriere/sechsstellige-zahl-gesucht-raetsel-der-woche](https://www.spiegel.de/karriere/sechsstellige-zahl-gesucht-raetsel-der-woche-a-ee1fdb5b-4890-4fd5-b1b2-c661bc087311#ref=rss)
-### schwarzwald
-
-* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-dem-schwarzwald-die-grosse-angst-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-dem-schwarzwald-die-grosse-angst-im-schnellcheck-a-a91ffed4-8db6-46a5-a3e9-dac60a62f779#ref=rss)
-### angst
-
-* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-dem-schwarzwald-die-grosse-angst-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-dem-schwarzwald-die-grosse-angst-im-schnellcheck-a-a91ffed4-8db6-46a5-a3e9-dac60a62f779#ref=rss)
-* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-1945-das-ns-propagandainstrument-vom-werwolf](https://www.spiegel.de/geschichte/zweiter-weltkrieg-1945-das-ns-propagandainstrument-vom-werwolf-a-5076f28a-3683-413c-af38-b2f5755838d7#ref=rss)
-### weltkrieg
-
-* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-1945-das-ns-propagandainstrument-vom-werwolf](https://www.spiegel.de/geschichte/zweiter-weltkrieg-1945-das-ns-propagandainstrument-vom-werwolf-a-5076f28a-3683-413c-af38-b2f5755838d7#ref=rss)
-### werwolf
-
-* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-1945-das-ns-propagandainstrument-vom-werwolf](https://www.spiegel.de/geschichte/zweiter-weltkrieg-1945-das-ns-propagandainstrument-vom-werwolf-a-5076f28a-3683-413c-af38-b2f5755838d7#ref=rss)
-### wir
-
-* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-1945-das-ns-propagandainstrument-vom-werwolf](https://www.spiegel.de/geschichte/zweiter-weltkrieg-1945-das-ns-propagandainstrument-vom-werwolf-a-5076f28a-3683-413c-af38-b2f5755838d7#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/google-maps-golf-von-wetzlar-deutsche-trollen-techkonzern-in-trump-manier](https://www.spiegel.de/netzwelt/web/google-maps-golf-von-wetzlar-deutsche-trollen-techkonzern-in-trump-manier-a-c00db668-62db-4d19-bd12-bc1bfbe68c08#ref=rss)
-### lübeck
-
-* [https://www.spiegel.de/sport/handball/handball-betrug-oder-versehen-luebeck-erzielt-mit-acht-feldspielern-tor-zum-unentschieden](https://www.spiegel.de/sport/handball/handball-betrug-oder-versehen-luebeck-erzielt-mit-acht-feldspielern-tor-zum-unentschieden-a-1ee6ae68-db0f-4147-a698-bef3cbc7f472#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/tuerkei-spd-fordert-freilassung-von-ekrem-imamoglu](https://www.spiegel.de/politik/deutschland/tuerkei-spd-fordert-freilassung-von-ekrem-imamoglu-a-274f0b9c-3f81-47c8-a9b9-6153632e5d8f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-wuenscht-sich-neuen-namen-fuer-kuenftige-koalition-statt-groko](https://www.spiegel.de/politik/deutschland/friedrich-merz-wuenscht-sich-neuen-namen-fuer-kuenftige-koalition-statt-groko-a-3299e258-e1b8-4f18-9776-af3cf76995ed#ref=rss)
 ### ekrem
 
-* [https://www.spiegel.de/ausland/tuerkei-ekrem-imamoglu-als-buergermeister-von-istanbul-abgesetzt](https://www.spiegel.de/ausland/tuerkei-ekrem-imamoglu-als-buergermeister-von-istanbul-abgesetzt-a-a697e4ff-4e40-4a54-adeb-7d84fa94a355#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/tuerkei-spd-fordert-freilassung-von-ekrem-imamoglu](https://www.spiegel.de/politik/deutschland/tuerkei-spd-fordert-freilassung-von-ekrem-imamoglu-a-274f0b9c-3f81-47c8-a9b9-6153632e5d8f#ref=rss)
+* [https://www.spiegel.de/ausland/tuerkei-chp-waehlt-ekrem-imamoglu-trotz-haft-zum-praesidentschaftskandidaten](https://www.spiegel.de/ausland/tuerkei-chp-waehlt-ekrem-imamoglu-trotz-haft-zum-praesidentschaftskandidaten-a-a936abd9-27f4-4a52-93cb-105d2636b996#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/wirtschaft/sap-ist-jetzt-europas-wertvollster-konzern](https://www.spiegel.de/wirtschaft/sap-ist-jetzt-europas-wertvollster-konzern-a-0d46788b-6169-4327-8b95-5289ef82521e#ref=rss)
+* [https://www.spiegel.de/ausland/dalai-lama-geistliches-oberhaupt-der-tibeter-regelt-seine-wiedergeburt-wenn-ich-nicht-mehr-bin](https://www.spiegel.de/ausland/dalai-lama-geistliches-oberhaupt-der-tibeter-regelt-seine-wiedergeburt-wenn-ich-nicht-mehr-bin-a-c01a490f-1e76-42ce-9e91-0e18ff0cbeb8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-wuenscht-sich-neuen-namen-fuer-kuenftige-koalition-statt-groko](https://www.spiegel.de/politik/deutschland/friedrich-merz-wuenscht-sich-neuen-namen-fuer-kuenftige-koalition-statt-groko-a-3299e258-e1b8-4f18-9776-af3cf76995ed#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/easter-egg-roll-2025-weisses-haus-sucht-sponsoren-fuer-osterveranstaltung](https://www.spiegel.de/ausland/easter-egg-roll-2025-weisses-haus-sucht-sponsoren-fuer-osterveranstaltung-a-c1c042f2-2dba-439c-bf61-cf9d03d90983#ref=rss)
+* [https://www.spiegel.de/kultur/tv/conan-obrien-teilt-bei-dankesrede-gegen-tyrannen-aus](https://www.spiegel.de/kultur/tv/conan-obrien-teilt-bei-dankesrede-gegen-tyrannen-aus-a-0422a5b7-3af7-44e1-9dba-87b25c00584a#ref=rss)
+* [https://www.spiegel.de/panorama/leute/tiger-woods-bestaetigt-beziehung-mit-ex-frau-von-donald-trump-jr](https://www.spiegel.de/panorama/leute/tiger-woods-bestaetigt-beziehung-mit-ex-frau-von-donald-trump-jr-a-3d6517a1-890f-47ff-8e26-06b0311ad5cf#ref=rss)
+### treffen
+
+* [https://www.spiegel.de/ausland/easter-egg-roll-2025-weisses-haus-sucht-sponsoren-fuer-osterveranstaltung](https://www.spiegel.de/ausland/easter-egg-roll-2025-weisses-haus-sucht-sponsoren-fuer-osterveranstaltung-a-c1c042f2-2dba-439c-bf61-cf9d03d90983#ref=rss)
+* [https://www.spiegel.de/ausland/ukrainekrieg-usa-und-russland-verhandeln-in-saudi-arabien](https://www.spiegel.de/ausland/ukrainekrieg-usa-und-russland-verhandeln-in-saudi-arabien-a-a292275d-ef13-4287-9b06-db47691da36e#ref=rss)
+### kennt
+
+* [https://www.spiegel.de/politik/deutschland/katja-wolf-vom-bsw-wer-sahra-wagenknecht-kennt-weiss-wie-gross-ihre-sorge-vor-fehlern-ist](https://www.spiegel.de/politik/deutschland/katja-wolf-vom-bsw-wer-sahra-wagenknecht-kennt-weiss-wie-gross-ihre-sorge-vor-fehlern-ist-a-861ec769-916d-4ca1-b420-ff3e843eb3f2#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/esa-schaltet-gaia-ab-die-wichtige-raumsonde-die-keiner-kennt](https://www.spiegel.de/wissenschaft/weltall/esa-schaltet-gaia-ab-die-wichtige-raumsonde-die-keiner-kennt-a-b3e5a179-d789-4740-8870-7da53066a60b#ref=rss)
+### bundestag
+
+* [https://www.spiegel.de/politik/deutschland/katja-wolf-vom-bsw-wer-sahra-wagenknecht-kennt-weiss-wie-gross-ihre-sorge-vor-fehlern-ist](https://www.spiegel.de/politik/deutschland/katja-wolf-vom-bsw-wer-sahra-wagenknecht-kennt-weiss-wie-gross-ihre-sorge-vor-fehlern-ist-a-861ec769-916d-4ca1-b420-ff3e843eb3f2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bundestag-in-neuer-legislaturperiode-nur-wenige-unternehmer-vertreten](https://www.spiegel.de/wirtschaft/bundestag-in-neuer-legislaturperiode-nur-wenige-unternehmer-vertreten-a-e5535972-da02-456f-827d-5506d7c9f089#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/ausland/dalai-lama-geistliches-oberhaupt-der-tibeter-regelt-seine-wiedergeburt-wenn-ich-nicht-mehr-bin](https://www.spiegel.de/ausland/dalai-lama-geistliches-oberhaupt-der-tibeter-regelt-seine-wiedergeburt-wenn-ich-nicht-mehr-bin-a-c01a490f-1e76-42ce-9e91-0e18ff0cbeb8#ref=rss)
+* [https://www.spiegel.de/ausland/israel-schafft-offenbar-behoerde-zur-freiwilligen-ausreise-aus-dem-gazastreifen](https://www.spiegel.de/ausland/israel-schafft-offenbar-behoerde-zur-freiwilligen-ausreise-aus-dem-gazastreifen-a-0f3dc8f7-b24d-434c-8b57-9a4aecd489b8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-wuenscht-sich-neuen-namen-fuer-kuenftige-koalition-statt-groko](https://www.spiegel.de/politik/deutschland/friedrich-merz-wuenscht-sich-neuen-namen-fuer-kuenftige-koalition-statt-groko-a-3299e258-e1b8-4f18-9776-af3cf76995ed#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/wirtschaft/soziales/friedrich-merz-braucht-fuer-die-wirtschaftswende-nicht-nur-milliarden-sondern-menschen](https://www.spiegel.de/wirtschaft/soziales/friedrich-merz-braucht-fuer-die-wirtschaftswende-nicht-nur-milliarden-sondern-menschen-a-5a954a88-36a3-44c8-b9bd-6f0467ee4e33#ref=rss)
+* [https://www.spiegel.de/geschichte/bekannte-marken-im-nationalsozialismus-was-boss-oder-jaegermeister-mit-hitler-zu-tun-hatten](https://www.spiegel.de/geschichte/bekannte-marken-im-nationalsozialismus-was-boss-oder-jaegermeister-mit-hitler-zu-tun-hatten-a-4985aa0e-6915-471c-a2fa-70492534aebc#ref=rss)
+* [https://www.spiegel.de/wirtschaft/china-empfaengt-handelsdelegation-und-hofiert-us-konzerne-apple-und-co](https://www.spiegel.de/wirtschaft/china-empfaengt-handelsdelegation-und-hofiert-us-konzerne-apple-und-co-a-6d1d5a07-9e67-4830-bd8d-7b9b5f435e81#ref=rss)
+### öffentlichen
+
+* [https://www.spiegel.de/wirtschaft/tarifstreit-im-oeffentlichen-dienst-jetzt-sind-die-schlichter-dran](https://www.spiegel.de/wirtschaft/tarifstreit-im-oeffentlichen-dienst-jetzt-sind-die-schlichter-dran-a-8410f8c8-6220-4818-b157-d0ed4e8abb27#ref=rss)
+### dienst
+
+* [https://www.spiegel.de/wirtschaft/tarifstreit-im-oeffentlichen-dienst-jetzt-sind-die-schlichter-dran](https://www.spiegel.de/wirtschaft/tarifstreit-im-oeffentlichen-dienst-jetzt-sind-die-schlichter-dran-a-8410f8c8-6220-4818-b157-d0ed4e8abb27#ref=rss)
+### unter
+
+* [https://www.spiegel.de/wirtschaft/tarifstreit-im-oeffentlichen-dienst-jetzt-sind-die-schlichter-dran](https://www.spiegel.de/wirtschaft/tarifstreit-im-oeffentlichen-dienst-jetzt-sind-die-schlichter-dran-a-8410f8c8-6220-4818-b157-d0ed4e8abb27#ref=rss)
+* [https://www.spiegel.de/kultur/tv/conan-obrien-teilt-bei-dankesrede-gegen-tyrannen-aus](https://www.spiegel.de/kultur/tv/conan-obrien-teilt-bei-dankesrede-gegen-tyrannen-aus-a-0422a5b7-3af7-44e1-9dba-87b25c00584a#ref=rss)
+### great
+
+* [https://www.spiegel.de/wissenschaft/great-barrier-reef-und-ningaloo-reef-australiens-korallenriffe-zeitgleich-von-bleiche-betroffen](https://www.spiegel.de/wissenschaft/great-barrier-reef-und-ningaloo-reef-australiens-korallenriffe-zeitgleich-von-bleiche-betroffen-a-e2d814b2-1d36-45c4-9c9a-81c1c61a15ad#ref=rss)
+### barrier
+
+* [https://www.spiegel.de/wissenschaft/great-barrier-reef-und-ningaloo-reef-australiens-korallenriffe-zeitgleich-von-bleiche-betroffen](https://www.spiegel.de/wissenschaft/great-barrier-reef-und-ningaloo-reef-australiens-korallenriffe-zeitgleich-von-bleiche-betroffen-a-e2d814b2-1d36-45c4-9c9a-81c1c61a15ad#ref=rss)
+### ningaloo
+
+* [https://www.spiegel.de/wissenschaft/great-barrier-reef-und-ningaloo-reef-australiens-korallenriffe-zeitgleich-von-bleiche-betroffen](https://www.spiegel.de/wissenschaft/great-barrier-reef-und-ningaloo-reef-australiens-korallenriffe-zeitgleich-von-bleiche-betroffen-a-e2d814b2-1d36-45c4-9c9a-81c1c61a15ad#ref=rss)
+### betroffen
+
+* [https://www.spiegel.de/wissenschaft/great-barrier-reef-und-ningaloo-reef-australiens-korallenriffe-zeitgleich-von-bleiche-betroffen](https://www.spiegel.de/wissenschaft/great-barrier-reef-und-ningaloo-reef-australiens-korallenriffe-zeitgleich-von-bleiche-betroffen-a-e2d814b2-1d36-45c4-9c9a-81c1c61a15ad#ref=rss)
+### vergangenen
+
+* [https://www.spiegel.de/wissenschaft/great-barrier-reef-und-ningaloo-reef-australiens-korallenriffe-zeitgleich-von-bleiche-betroffen](https://www.spiegel.de/wissenschaft/great-barrier-reef-und-ningaloo-reef-australiens-korallenriffe-zeitgleich-von-bleiche-betroffen-a-e2d814b2-1d36-45c4-9c9a-81c1c61a15ad#ref=rss)
+* [https://www.spiegel.de/wissenschaft/tuberkulose-who-warnt-vor-kollaps-im-kampf-gegen-die-krankheit](https://www.spiegel.de/wissenschaft/tuberkulose-who-warnt-vor-kollaps-im-kampf-gegen-die-krankheit-a-8f901453-acf5-4043-bc41-051de4f229dc#ref=rss)
+### findet
+
+* [https://www.spiegel.de/wissenschaft/great-barrier-reef-und-ningaloo-reef-australiens-korallenriffe-zeitgleich-von-bleiche-betroffen](https://www.spiegel.de/wissenschaft/great-barrier-reef-und-ningaloo-reef-australiens-korallenriffe-zeitgleich-von-bleiche-betroffen-a-e2d814b2-1d36-45c4-9c9a-81c1c61a15ad#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-wuenscht-sich-neuen-namen-fuer-kuenftige-koalition-statt-groko](https://www.spiegel.de/politik/deutschland/friedrich-merz-wuenscht-sich-neuen-namen-fuer-kuenftige-koalition-statt-groko-a-3299e258-e1b8-4f18-9776-af3cf76995ed#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/politik/deutschland/tuerkei-spd-fordert-freilassung-von-ekrem-imamoglu](https://www.spiegel.de/politik/deutschland/tuerkei-spd-fordert-freilassung-von-ekrem-imamoglu-a-274f0b9c-3f81-47c8-a9b9-6153632e5d8f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-wuenscht-sich-neuen-namen-fuer-kuenftige-koalition-statt-groko](https://www.spiegel.de/politik/deutschland/friedrich-merz-wuenscht-sich-neuen-namen-fuer-kuenftige-koalition-statt-groko-a-3299e258-e1b8-4f18-9776-af3cf76995ed#ref=rss)
+### sap
+
+* [https://www.spiegel.de/wirtschaft/sap-ist-jetzt-europas-wertvollster-konzern](https://www.spiegel.de/wirtschaft/sap-ist-jetzt-europas-wertvollster-konzern-a-0d46788b-6169-4327-8b95-5289ef82521e#ref=rss)
+### rolle
+
+* [https://www.spiegel.de/wirtschaft/sap-ist-jetzt-europas-wertvollster-konzern](https://www.spiegel.de/wirtschaft/sap-ist-jetzt-europas-wertvollster-konzern-a-0d46788b-6169-4327-8b95-5289ef82521e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/katja-wolf-vom-bsw-wer-sahra-wagenknecht-kennt-weiss-wie-gross-ihre-sorge-vor-fehlern-ist](https://www.spiegel.de/politik/deutschland/katja-wolf-vom-bsw-wer-sahra-wagenknecht-kennt-weiss-wie-gross-ihre-sorge-vor-fehlern-ist-a-861ec769-916d-4ca1-b420-ff3e843eb3f2#ref=rss)
+### haus
+
+* [https://www.spiegel.de/ausland/easter-egg-roll-2025-weisses-haus-sucht-sponsoren-fuer-osterveranstaltung](https://www.spiegel.de/ausland/easter-egg-roll-2025-weisses-haus-sucht-sponsoren-fuer-osterveranstaltung-a-c1c042f2-2dba-439c-bf61-cf9d03d90983#ref=rss)
+### conan
+
+* [https://www.spiegel.de/kultur/tv/conan-obrien-teilt-bei-dankesrede-gegen-tyrannen-aus](https://www.spiegel.de/kultur/tv/conan-obrien-teilt-bei-dankesrede-gegen-tyrannen-aus-a-0422a5b7-3af7-44e1-9dba-87b25c00584a#ref=rss)
+### o’brien
+
+* [https://www.spiegel.de/kultur/tv/conan-obrien-teilt-bei-dankesrede-gegen-tyrannen-aus](https://www.spiegel.de/kultur/tv/conan-obrien-teilt-bei-dankesrede-gegen-tyrannen-aus-a-0422a5b7-3af7-44e1-9dba-87b25c00584a#ref=rss)
+### rede
+
+* [https://www.spiegel.de/kultur/tv/conan-obrien-teilt-bei-dankesrede-gegen-tyrannen-aus](https://www.spiegel.de/kultur/tv/conan-obrien-teilt-bei-dankesrede-gegen-tyrannen-aus-a-0422a5b7-3af7-44e1-9dba-87b25c00584a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-wuenscht-sich-neuen-namen-fuer-kuenftige-koalition-statt-groko](https://www.spiegel.de/politik/deutschland/friedrich-merz-wuenscht-sich-neuen-namen-fuer-kuenftige-koalition-statt-groko-a-3299e258-e1b8-4f18-9776-af3cf76995ed#ref=rss)
+### katja
+
+* [https://www.spiegel.de/politik/deutschland/katja-wolf-vom-bsw-wer-sahra-wagenknecht-kennt-weiss-wie-gross-ihre-sorge-vor-fehlern-ist](https://www.spiegel.de/politik/deutschland/katja-wolf-vom-bsw-wer-sahra-wagenknecht-kennt-weiss-wie-gross-ihre-sorge-vor-fehlern-ist-a-861ec769-916d-4ca1-b420-ff3e843eb3f2#ref=rss)
+### wolf
+
+* [https://www.spiegel.de/politik/deutschland/katja-wolf-vom-bsw-wer-sahra-wagenknecht-kennt-weiss-wie-gross-ihre-sorge-vor-fehlern-ist](https://www.spiegel.de/politik/deutschland/katja-wolf-vom-bsw-wer-sahra-wagenknecht-kennt-weiss-wie-gross-ihre-sorge-vor-fehlern-ist-a-861ec769-916d-4ca1-b420-ff3e843eb3f2#ref=rss)
+### bsw
+
+* [https://www.spiegel.de/politik/deutschland/katja-wolf-vom-bsw-wer-sahra-wagenknecht-kennt-weiss-wie-gross-ihre-sorge-vor-fehlern-ist](https://www.spiegel.de/politik/deutschland/katja-wolf-vom-bsw-wer-sahra-wagenknecht-kennt-weiss-wie-gross-ihre-sorge-vor-fehlern-ist-a-861ec769-916d-4ca1-b420-ff3e843eb3f2#ref=rss)
+### künftige
+
+* [https://www.spiegel.de/politik/deutschland/katja-wolf-vom-bsw-wer-sahra-wagenknecht-kennt-weiss-wie-gross-ihre-sorge-vor-fehlern-ist](https://www.spiegel.de/politik/deutschland/katja-wolf-vom-bsw-wer-sahra-wagenknecht-kennt-weiss-wie-gross-ihre-sorge-vor-fehlern-ist-a-861ec769-916d-4ca1-b420-ff3e843eb3f2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-wuenscht-sich-neuen-namen-fuer-kuenftige-koalition-statt-groko](https://www.spiegel.de/politik/deutschland/friedrich-merz-wuenscht-sich-neuen-namen-fuer-kuenftige-koalition-statt-groko-a-3299e258-e1b8-4f18-9776-af3cf76995ed#ref=rss)
+### rtl
+
+* [https://www.spiegel.de/wirtschaft/bertelsmann-rtl-verkauft-gruner-jahr-magazine-an-funke-mediengruppe](https://www.spiegel.de/wirtschaft/bertelsmann-rtl-verkauft-gruner-jahr-magazine-an-funke-mediengruppe-a-2b5a5e2f-ceb3-4a81-9395-ca55eac56812#ref=rss)
+### gruner
+
+* [https://www.spiegel.de/wirtschaft/bertelsmann-rtl-verkauft-gruner-jahr-magazine-an-funke-mediengruppe](https://www.spiegel.de/wirtschaft/bertelsmann-rtl-verkauft-gruner-jahr-magazine-an-funke-mediengruppe-a-2b5a5e2f-ceb3-4a81-9395-ca55eac56812#ref=rss)
+### +
+
+* [https://www.spiegel.de/wirtschaft/bertelsmann-rtl-verkauft-gruner-jahr-magazine-an-funke-mediengruppe](https://www.spiegel.de/wirtschaft/bertelsmann-rtl-verkauft-gruner-jahr-magazine-an-funke-mediengruppe-a-2b5a5e2f-ceb3-4a81-9395-ca55eac56812#ref=rss)
+### gemeinsam
+
+* [https://www.spiegel.de/wirtschaft/bertelsmann-rtl-verkauft-gruner-jahr-magazine-an-funke-mediengruppe](https://www.spiegel.de/wirtschaft/bertelsmann-rtl-verkauft-gruner-jahr-magazine-an-funke-mediengruppe-a-2b5a5e2f-ceb3-4a81-9395-ca55eac56812#ref=rss)
+* [https://www.spiegel.de/panorama/leute/tiger-woods-bestaetigt-beziehung-mit-ex-frau-von-donald-trump-jr](https://www.spiegel.de/panorama/leute/tiger-woods-bestaetigt-beziehung-mit-ex-frau-von-donald-trump-jr-a-3d6517a1-890f-47ff-8e26-06b0311ad5cf#ref=rss)
+### letzten
+
+* [https://www.spiegel.de/wirtschaft/bertelsmann-rtl-verkauft-gruner-jahr-magazine-an-funke-mediengruppe](https://www.spiegel.de/wirtschaft/bertelsmann-rtl-verkauft-gruner-jahr-magazine-an-funke-mediengruppe-a-2b5a5e2f-ceb3-4a81-9395-ca55eac56812#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elterngeld-zahl-der-bezieher-sinkt-drittes-jahr-in-folge](https://www.spiegel.de/wirtschaft/elterngeld-zahl-der-bezieher-sinkt-drittes-jahr-in-folge-a-bdff81d2-46e9-4f5a-8d41-7caa6e1d9ca4#ref=rss)
+### oberhaupt
+
+* [https://www.spiegel.de/ausland/dalai-lama-geistliches-oberhaupt-der-tibeter-regelt-seine-wiedergeburt-wenn-ich-nicht-mehr-bin](https://www.spiegel.de/ausland/dalai-lama-geistliches-oberhaupt-der-tibeter-regelt-seine-wiedergeburt-wenn-ich-nicht-mehr-bin-a-c01a490f-1e76-42ce-9e91-0e18ff0cbeb8#ref=rss)
+### tibeter
+
+* [https://www.spiegel.de/ausland/dalai-lama-geistliches-oberhaupt-der-tibeter-regelt-seine-wiedergeburt-wenn-ich-nicht-mehr-bin](https://www.spiegel.de/ausland/dalai-lama-geistliches-oberhaupt-der-tibeter-regelt-seine-wiedergeburt-wenn-ich-nicht-mehr-bin-a-c01a490f-1e76-42ce-9e91-0e18ff0cbeb8#ref=rss)
+### wiedergeburt
+
+* [https://www.spiegel.de/ausland/dalai-lama-geistliches-oberhaupt-der-tibeter-regelt-seine-wiedergeburt-wenn-ich-nicht-mehr-bin](https://www.spiegel.de/ausland/dalai-lama-geistliches-oberhaupt-der-tibeter-regelt-seine-wiedergeburt-wenn-ich-nicht-mehr-bin-a-c01a490f-1e76-42ce-9e91-0e18ff0cbeb8#ref=rss)
+### china
+
+* [https://www.spiegel.de/ausland/dalai-lama-geistliches-oberhaupt-der-tibeter-regelt-seine-wiedergeburt-wenn-ich-nicht-mehr-bin](https://www.spiegel.de/ausland/dalai-lama-geistliches-oberhaupt-der-tibeter-regelt-seine-wiedergeburt-wenn-ich-nicht-mehr-bin-a-c01a490f-1e76-42ce-9e91-0e18ff0cbeb8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/china-empfaengt-handelsdelegation-und-hofiert-us-konzerne-apple-und-co](https://www.spiegel.de/wirtschaft/china-empfaengt-handelsdelegation-und-hofiert-us-konzerne-apple-und-co-a-6d1d5a07-9e67-4830-bd8d-7b9b5f435e81#ref=rss)
+### siedlungen
+
+* [https://www.spiegel.de/ausland/nahostkonflikt-israel-erkennt-13-siedlungen-im-westjordanland-an](https://www.spiegel.de/ausland/nahostkonflikt-israel-erkennt-13-siedlungen-im-westjordanland-an-a-597cd5d3-429e-484f-bd25-d6f510f8e22f#ref=rss)
+### westjordanland
+
+* [https://www.spiegel.de/ausland/nahostkonflikt-israel-erkennt-13-siedlungen-im-westjordanland-an](https://www.spiegel.de/ausland/nahostkonflikt-israel-erkennt-13-siedlungen-im-westjordanland-an-a-597cd5d3-429e-484f-bd25-d6f510f8e22f#ref=rss)
+### who
+
+* [https://www.spiegel.de/wissenschaft/tuberkulose-who-warnt-vor-kollaps-im-kampf-gegen-die-krankheit](https://www.spiegel.de/wissenschaft/tuberkulose-who-warnt-vor-kollaps-im-kampf-gegen-die-krankheit-a-8f901453-acf5-4043-bc41-051de4f229dc#ref=rss)
+### warnt
+
+* [https://www.spiegel.de/wissenschaft/tuberkulose-who-warnt-vor-kollaps-im-kampf-gegen-die-krankheit](https://www.spiegel.de/wissenschaft/tuberkulose-who-warnt-vor-kollaps-im-kampf-gegen-die-krankheit-a-8f901453-acf5-4043-bc41-051de4f229dc#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/wissenschaft/tuberkulose-who-warnt-vor-kollaps-im-kampf-gegen-die-krankheit](https://www.spiegel.de/wissenschaft/tuberkulose-who-warnt-vor-kollaps-im-kampf-gegen-die-krankheit-a-8f901453-acf5-4043-bc41-051de4f229dc#ref=rss)
+* [https://www.spiegel.de/ausland/tuerkei-chp-waehlt-ekrem-imamoglu-trotz-haft-zum-praesidentschaftskandidaten](https://www.spiegel.de/ausland/tuerkei-chp-waehlt-ekrem-imamoglu-trotz-haft-zum-praesidentschaftskandidaten-a-a936abd9-27f4-4a52-93cb-105d2636b996#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/wissenschaft/tuberkulose-who-warnt-vor-kollaps-im-kampf-gegen-die-krankheit](https://www.spiegel.de/wissenschaft/tuberkulose-who-warnt-vor-kollaps-im-kampf-gegen-die-krankheit-a-8f901453-acf5-4043-bc41-051de4f229dc#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elterngeld-zahl-der-bezieher-sinkt-drittes-jahr-in-folge](https://www.spiegel.de/wirtschaft/elterngeld-zahl-der-bezieher-sinkt-drittes-jahr-in-folge-a-bdff81d2-46e9-4f5a-8d41-7caa6e1d9ca4#ref=rss)
+### spiel
+
+* [https://www.spiegel.de/wissenschaft/tuberkulose-who-warnt-vor-kollaps-im-kampf-gegen-die-krankheit](https://www.spiegel.de/wissenschaft/tuberkulose-who-warnt-vor-kollaps-im-kampf-gegen-die-krankheit-a-8f901453-acf5-4043-bc41-051de4f229dc#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-deutschland-ueberzeugt-in-der-nations-league-eine-halbzeit-lang-beim-3-3-gegen-italien](https://www.spiegel.de/sport/fussball/fussball-deutschland-ueberzeugt-in-der-nations-league-eine-halbzeit-lang-beim-3-3-gegen-italien-a-3adf006f-4849-40cc-bfe0-ade69cd68d7c#ref=rss)
+### nations
+
+* [https://www.spiegel.de/sport/fussball/fussball-deutschland-ueberzeugt-in-der-nations-league-eine-halbzeit-lang-beim-3-3-gegen-italien](https://www.spiegel.de/sport/fussball/fussball-deutschland-ueberzeugt-in-der-nations-league-eine-halbzeit-lang-beim-3-3-gegen-italien-a-3adf006f-4849-40cc-bfe0-ade69cd68d7c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/pressestimmen-aus-italien-zum-nations-league-spiel-in-deutschland-von-den-deutschen-weggefegt](https://www.spiegel.de/sport/fussball/pressestimmen-aus-italien-zum-nations-league-spiel-in-deutschland-von-den-deutschen-weggefegt-a-67c1ff21-1932-4380-9f2c-8c430da41cd7#ref=rss)
+### league
+
+* [https://www.spiegel.de/sport/fussball/fussball-deutschland-ueberzeugt-in-der-nations-league-eine-halbzeit-lang-beim-3-3-gegen-italien](https://www.spiegel.de/sport/fussball/fussball-deutschland-ueberzeugt-in-der-nations-league-eine-halbzeit-lang-beim-3-3-gegen-italien-a-3adf006f-4849-40cc-bfe0-ade69cd68d7c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/pressestimmen-aus-italien-zum-nations-league-spiel-in-deutschland-von-den-deutschen-weggefegt](https://www.spiegel.de/sport/fussball/pressestimmen-aus-italien-zum-nations-league-spiel-in-deutschland-von-den-deutschen-weggefegt-a-67c1ff21-1932-4380-9f2c-8c430da41cd7#ref=rss)
+### lang
+
+* [https://www.spiegel.de/sport/fussball/fussball-deutschland-ueberzeugt-in-der-nations-league-eine-halbzeit-lang-beim-3-3-gegen-italien](https://www.spiegel.de/sport/fussball/fussball-deutschland-ueberzeugt-in-der-nations-league-eine-halbzeit-lang-beim-3-3-gegen-italien-a-3adf006f-4849-40cc-bfe0-ade69cd68d7c#ref=rss)
+### 33
+
+* [https://www.spiegel.de/sport/fussball/fussball-deutschland-ueberzeugt-in-der-nations-league-eine-halbzeit-lang-beim-3-3-gegen-italien](https://www.spiegel.de/sport/fussball/fussball-deutschland-ueberzeugt-in-der-nations-league-eine-halbzeit-lang-beim-3-3-gegen-italien-a-3adf006f-4849-40cc-bfe0-ade69cd68d7c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/pressestimmen-aus-italien-zum-nations-league-spiel-in-deutschland-von-den-deutschen-weggefegt](https://www.spiegel.de/sport/fussball/pressestimmen-aus-italien-zum-nations-league-spiel-in-deutschland-von-den-deutschen-weggefegt-a-67c1ff21-1932-4380-9f2c-8c430da41cd7#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/sport/fussball/fussball-deutschland-ueberzeugt-in-der-nations-league-eine-halbzeit-lang-beim-3-3-gegen-italien](https://www.spiegel.de/sport/fussball/fussball-deutschland-ueberzeugt-in-der-nations-league-eine-halbzeit-lang-beim-3-3-gegen-italien-a-3adf006f-4849-40cc-bfe0-ade69cd68d7c#ref=rss)
+* [https://www.spiegel.de/geschichte/bekannte-marken-im-nationalsozialismus-was-boss-oder-jaegermeister-mit-hitler-zu-tun-hatten](https://www.spiegel.de/geschichte/bekannte-marken-im-nationalsozialismus-was-boss-oder-jaegermeister-mit-hitler-zu-tun-hatten-a-4985aa0e-6915-471c-a2fa-70492534aebc#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/wirtschaft/soziales/friedrich-merz-braucht-fuer-die-wirtschaftswende-nicht-nur-milliarden-sondern-menschen](https://www.spiegel.de/wirtschaft/soziales/friedrich-merz-braucht-fuer-die-wirtschaftswende-nicht-nur-milliarden-sondern-menschen-a-5a954a88-36a3-44c8-b9bd-6f0467ee4e33#ref=rss)
+* [https://www.spiegel.de/ausland/tuerkei-chp-waehlt-ekrem-imamoglu-trotz-haft-zum-praesidentschaftskandidaten](https://www.spiegel.de/ausland/tuerkei-chp-waehlt-ekrem-imamoglu-trotz-haft-zum-praesidentschaftskandidaten-a-a936abd9-27f4-4a52-93cb-105d2636b996#ref=rss)
+### elterngeld
+
+* [https://www.spiegel.de/wirtschaft/elterngeld-zahl-der-bezieher-sinkt-drittes-jahr-in-folge](https://www.spiegel.de/wirtschaft/elterngeld-zahl-der-bezieher-sinkt-drittes-jahr-in-folge-a-bdff81d2-46e9-4f5a-8d41-7caa6e1d9ca4#ref=rss)
+### alle
+
+* [https://www.spiegel.de/geschichte/bekannte-marken-im-nationalsozialismus-was-boss-oder-jaegermeister-mit-hitler-zu-tun-hatten](https://www.spiegel.de/geschichte/bekannte-marken-im-nationalsozialismus-was-boss-oder-jaegermeister-mit-hitler-zu-tun-hatten-a-4985aa0e-6915-471c-a2fa-70492534aebc#ref=rss)
+* [https://www.spiegel.de/auto/fahrradfahren-in-deutschland-auf-den-radwegen-wird-es-eng](https://www.spiegel.de/auto/fahrradfahren-in-deutschland-auf-den-radwegen-wird-es-eng-a-37dc84c3-f683-443f-ace4-ed6f1e1fca4a#ref=rss)
+### fürth
+
+* [https://www.spiegel.de/panorama/justiz/mutmasslicher-schuetze-von-fuerth-stellt-sich-behoerden](https://www.spiegel.de/panorama/justiz/mutmasslicher-schuetze-von-fuerth-stellt-sich-behoerden-a-2abad1f3-5584-426c-852a-a04f280077c8#ref=rss)
+### verfassungsgericht
+
+* [https://www.spiegel.de/ausland/suedkorea-verfassungsgericht-setzt-vizepraesident-han-duck-soo-wieder-ein](https://www.spiegel.de/ausland/suedkorea-verfassungsgericht-setzt-vizepraesident-han-duck-soo-wieder-ein-a-42a60bf4-0404-4298-b5f6-4a4afdb90d68#ref=rss)
+### han
+
+* [https://www.spiegel.de/ausland/suedkorea-verfassungsgericht-setzt-vizepraesident-han-duck-soo-wieder-ein](https://www.spiegel.de/ausland/suedkorea-verfassungsgericht-setzt-vizepraesident-han-duck-soo-wieder-ein-a-42a60bf4-0404-4298-b5f6-4a4afdb90d68#ref=rss)
+### gaia
+
+* [https://www.spiegel.de/wissenschaft/weltall/esa-schaltet-gaia-ab-die-wichtige-raumsonde-die-keiner-kennt](https://www.spiegel.de/wissenschaft/weltall/esa-schaltet-gaia-ab-die-wichtige-raumsonde-die-keiner-kennt-a-b3e5a179-d789-4740-8870-7da53066a60b#ref=rss)
+### raumsonde
+
+* [https://www.spiegel.de/wissenschaft/weltall/esa-schaltet-gaia-ab-die-wichtige-raumsonde-die-keiner-kennt](https://www.spiegel.de/wissenschaft/weltall/esa-schaltet-gaia-ab-die-wichtige-raumsonde-die-keiner-kennt-a-b3e5a179-d789-4740-8870-7da53066a60b#ref=rss)
+### andere
+
+* [https://www.spiegel.de/auto/fahrradfahren-in-deutschland-auf-den-radwegen-wird-es-eng](https://www.spiegel.de/auto/fahrradfahren-in-deutschland-auf-den-radwegen-wird-es-eng-a-37dc84c3-f683-443f-ace4-ed6f1e1fca4a#ref=rss)
+* [https://www.spiegel.de/panorama/sylt-wal-spezialist-loest-fleischreste-vom-unterkiefer](https://www.spiegel.de/panorama/sylt-wal-spezialist-loest-fleischreste-vom-unterkiefer-a-7f025790-0872-424b-b704-9f6c47ad32e2#ref=rss)
 ### zeigen
 
-* [https://www.spiegel.de/ausland/tuerkei-ekrem-imamoglu-als-buergermeister-von-istanbul-abgesetzt](https://www.spiegel.de/ausland/tuerkei-ekrem-imamoglu-als-buergermeister-von-istanbul-abgesetzt-a-a697e4ff-4e40-4a54-adeb-7d84fa94a355#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-mehr-als-50-000-tote-in-gaza-seit-beginn-der-kampfhandlungen](https://www.spiegel.de/ausland/israel-gaza-krieg-mehr-als-50-000-tote-in-gaza-seit-beginn-der-kampfhandlungen-a-415cddf1-e05f-4c3b-8977-1bf4e396fc65#ref=rss)
-### 50000
+* [https://www.spiegel.de/auto/fahrradfahren-in-deutschland-auf-den-radwegen-wird-es-eng](https://www.spiegel.de/auto/fahrradfahren-in-deutschland-auf-den-radwegen-wird-es-eng-a-37dc84c3-f683-443f-ace4-ed6f1e1fca4a#ref=rss)
+* [https://www.spiegel.de/panorama/leute/tiger-woods-bestaetigt-beziehung-mit-ex-frau-von-donald-trump-jr](https://www.spiegel.de/panorama/leute/tiger-woods-bestaetigt-beziehung-mit-ex-frau-von-donald-trump-jr-a-3d6517a1-890f-47ff-8e26-06b0311ad5cf#ref=rss)
+### tiger
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-mehr-als-50-000-tote-in-gaza-seit-beginn-der-kampfhandlungen](https://www.spiegel.de/ausland/israel-gaza-krieg-mehr-als-50-000-tote-in-gaza-seit-beginn-der-kampfhandlungen-a-415cddf1-e05f-4c3b-8977-1bf4e396fc65#ref=rss)
-### gaza
+* [https://www.spiegel.de/panorama/leute/tiger-woods-bestaetigt-beziehung-mit-ex-frau-von-donald-trump-jr](https://www.spiegel.de/panorama/leute/tiger-woods-bestaetigt-beziehung-mit-ex-frau-von-donald-trump-jr-a-3d6517a1-890f-47ff-8e26-06b0311ad5cf#ref=rss)
+### woods
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-mehr-als-50-000-tote-in-gaza-seit-beginn-der-kampfhandlungen](https://www.spiegel.de/ausland/israel-gaza-krieg-mehr-als-50-000-tote-in-gaza-seit-beginn-der-kampfhandlungen-a-415cddf1-e05f-4c3b-8977-1bf4e396fc65#ref=rss)
+* [https://www.spiegel.de/panorama/leute/tiger-woods-bestaetigt-beziehung-mit-ex-frau-von-donald-trump-jr](https://www.spiegel.de/panorama/leute/tiger-woods-bestaetigt-beziehung-mit-ex-frau-von-donald-trump-jr-a-3d6517a1-890f-47ff-8e26-06b0311ad5cf#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/ausland/israel-schafft-offenbar-behoerde-zur-freiwilligen-ausreise-aus-dem-gazastreifen](https://www.spiegel.de/ausland/israel-schafft-offenbar-behoerde-zur-freiwilligen-ausreise-aus-dem-gazastreifen-a-0f3dc8f7-b24d-434c-8b57-9a4aecd489b8#ref=rss)
+### ausreise
+
+* [https://www.spiegel.de/ausland/israel-schafft-offenbar-behoerde-zur-freiwilligen-ausreise-aus-dem-gazastreifen](https://www.spiegel.de/ausland/israel-schafft-offenbar-behoerde-zur-freiwilligen-ausreise-aus-dem-gazastreifen-a-0f3dc8f7-b24d-434c-8b57-9a4aecd489b8#ref=rss)
+### gazastreifen
+
+* [https://www.spiegel.de/ausland/israel-schafft-offenbar-behoerde-zur-freiwilligen-ausreise-aus-dem-gazastreifen](https://www.spiegel.de/ausland/israel-schafft-offenbar-behoerde-zur-freiwilligen-ausreise-aus-dem-gazastreifen-a-0f3dc8f7-b24d-434c-8b57-9a4aecd489b8#ref=rss)
+### schuldenbremse
+
+* [https://www.spiegel.de/wirtschaft/schuldenbremse-daniel-guenther-cdu-plaediert-fuer-kooperation-mit-der-linken](https://www.spiegel.de/wirtschaft/schuldenbremse-daniel-guenther-cdu-plaediert-fuer-kooperation-mit-der-linken-a-c0e861c6-b3da-451b-8dac-18a4e6bfc1f7#ref=rss)
+### günther
+
+* [https://www.spiegel.de/wirtschaft/schuldenbremse-daniel-guenther-cdu-plaediert-fuer-kooperation-mit-der-linken](https://www.spiegel.de/wirtschaft/schuldenbremse-daniel-guenther-cdu-plaediert-fuer-kooperation-mit-der-linken-a-c0e861c6-b3da-451b-8dac-18a4e6bfc1f7#ref=rss)
+### cdu
+
+* [https://www.spiegel.de/wirtschaft/schuldenbremse-daniel-guenther-cdu-plaediert-fuer-kooperation-mit-der-linken](https://www.spiegel.de/wirtschaft/schuldenbremse-daniel-guenther-cdu-plaediert-fuer-kooperation-mit-der-linken-a-c0e861c6-b3da-451b-8dac-18a4e6bfc1f7#ref=rss)
+### namen
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-wuenscht-sich-neuen-namen-fuer-kuenftige-koalition-statt-groko](https://www.spiegel.de/politik/deutschland/friedrich-merz-wuenscht-sich-neuen-namen-fuer-kuenftige-koalition-statt-groko-a-3299e258-e1b8-4f18-9776-af3cf76995ed#ref=rss)
+### koalition
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-wuenscht-sich-neuen-namen-fuer-kuenftige-koalition-statt-groko](https://www.spiegel.de/politik/deutschland/friedrich-merz-wuenscht-sich-neuen-namen-fuer-kuenftige-koalition-statt-groko-a-3299e258-e1b8-4f18-9776-af3cf76995ed#ref=rss)
 ### neue
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-mehr-als-50-000-tote-in-gaza-seit-beginn-der-kampfhandlungen](https://www.spiegel.de/ausland/israel-gaza-krieg-mehr-als-50-000-tote-in-gaza-seit-beginn-der-kampfhandlungen-a-415cddf1-e05f-4c3b-8977-1bf4e396fc65#ref=rss)
-* [https://www.spiegel.de/politik/bundestagswahl-neues-wahlrecht-hat-cdu-kaum-benachteiligt](https://www.spiegel.de/politik/bundestagswahl-neues-wahlrecht-hat-cdu-kaum-benachteiligt-a-a2f3ec9a-e523-4700-af05-445ff09b2a39#ref=rss)
-### franziska
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-wuenscht-sich-neuen-namen-fuer-kuenftige-koalition-statt-groko](https://www.spiegel.de/politik/deutschland/friedrich-merz-wuenscht-sich-neuen-namen-fuer-kuenftige-koalition-statt-groko-a-3299e258-e1b8-4f18-9776-af3cf76995ed#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bundestag-in-neuer-legislaturperiode-nur-wenige-unternehmer-vertreten](https://www.spiegel.de/wirtschaft/bundestag-in-neuer-legislaturperiode-nur-wenige-unternehmer-vertreten-a-e5535972-da02-456f-827d-5506d7c9f089#ref=rss)
+### unternehmer
 
-* [https://www.spiegel.de/sport/wintersport/biathlon-franziska-preuss-gewinnt-erstmals-gesamtweltcup-lou-jeanmonnot-stuerzt](https://www.spiegel.de/sport/wintersport/biathlon-franziska-preuss-gewinnt-erstmals-gesamtweltcup-lou-jeanmonnot-stuerzt-a-8e02d728-aec5-45dc-a658-95ec41138ebd#ref=rss)
-### preuß
+* [https://www.spiegel.de/wirtschaft/bundestag-in-neuer-legislaturperiode-nur-wenige-unternehmer-vertreten](https://www.spiegel.de/wirtschaft/bundestag-in-neuer-legislaturperiode-nur-wenige-unternehmer-vertreten-a-e5535972-da02-456f-827d-5506d7c9f089#ref=rss)
+### chp
 
-* [https://www.spiegel.de/sport/wintersport/biathlon-franziska-preuss-gewinnt-erstmals-gesamtweltcup-lou-jeanmonnot-stuerzt](https://www.spiegel.de/sport/wintersport/biathlon-franziska-preuss-gewinnt-erstmals-gesamtweltcup-lou-jeanmonnot-stuerzt-a-8e02d728-aec5-45dc-a658-95ec41138ebd#ref=rss)
-### lou
-
-* [https://www.spiegel.de/sport/wintersport/biathlon-franziska-preuss-gewinnt-erstmals-gesamtweltcup-lou-jeanmonnot-stuerzt](https://www.spiegel.de/sport/wintersport/biathlon-franziska-preuss-gewinnt-erstmals-gesamtweltcup-lou-jeanmonnot-stuerzt-a-8e02d728-aec5-45dc-a658-95ec41138ebd#ref=rss)
-### jeanmonnot
-
-* [https://www.spiegel.de/sport/wintersport/biathlon-franziska-preuss-gewinnt-erstmals-gesamtweltcup-lou-jeanmonnot-stuerzt](https://www.spiegel.de/sport/wintersport/biathlon-franziska-preuss-gewinnt-erstmals-gesamtweltcup-lou-jeanmonnot-stuerzt-a-8e02d728-aec5-45dc-a658-95ec41138ebd#ref=rss)
-### orlando
-
-* [https://www.spiegel.de/panorama/justiz/orlando-frau-ertraenkt-offenbar-hund-in-toilette-weil-sie-nicht-mit-ihm-fliegen-durfte](https://www.spiegel.de/panorama/justiz/orlando-frau-ertraenkt-offenbar-hund-in-toilette-weil-sie-nicht-mit-ihm-fliegen-durfte-a-23485d8d-b9cb-4034-9552-28a98785ef4a#ref=rss)
-### uni
-
-* [https://www.spiegel.de/wissenschaft/natur/uni-mainz-raetselhafte-roehrchen-forschende-entdecken-unbekannte-lebensform-in-der-wueste](https://www.spiegel.de/wissenschaft/natur/uni-mainz-raetselhafte-roehrchen-forschende-entdecken-unbekannte-lebensform-in-der-wueste-a-111e60f0-32bb-4ec1-8ca3-b30af68b5132#ref=rss)
-### mainz
-
-* [https://www.spiegel.de/wissenschaft/natur/uni-mainz-raetselhafte-roehrchen-forschende-entdecken-unbekannte-lebensform-in-der-wueste](https://www.spiegel.de/wissenschaft/natur/uni-mainz-raetselhafte-roehrchen-forschende-entdecken-unbekannte-lebensform-in-der-wueste-a-111e60f0-32bb-4ec1-8ca3-b30af68b5132#ref=rss)
-### unbekannte
-
-* [https://www.spiegel.de/wissenschaft/natur/uni-mainz-raetselhafte-roehrchen-forschende-entdecken-unbekannte-lebensform-in-der-wueste](https://www.spiegel.de/wissenschaft/natur/uni-mainz-raetselhafte-roehrchen-forschende-entdecken-unbekannte-lebensform-in-der-wueste-a-111e60f0-32bb-4ec1-8ca3-b30af68b5132#ref=rss)
-### bundestagswahl
-
-* [https://www.spiegel.de/politik/bundestagswahl-neues-wahlrecht-hat-cdu-kaum-benachteiligt](https://www.spiegel.de/politik/bundestagswahl-neues-wahlrecht-hat-cdu-kaum-benachteiligt-a-a2f3ec9a-e523-4700-af05-445ff09b2a39#ref=rss)
-### wahlrecht
-
-* [https://www.spiegel.de/politik/bundestagswahl-neues-wahlrecht-hat-cdu-kaum-benachteiligt](https://www.spiegel.de/politik/bundestagswahl-neues-wahlrecht-hat-cdu-kaum-benachteiligt-a-a2f3ec9a-e523-4700-af05-445ff09b2a39#ref=rss)
-### google
-
-* [https://www.spiegel.de/netzwelt/web/google-maps-golf-von-wetzlar-deutsche-trollen-techkonzern-in-trump-manier](https://www.spiegel.de/netzwelt/web/google-maps-golf-von-wetzlar-deutsche-trollen-techkonzern-in-trump-manier-a-c00db668-62db-4d19-bd12-bc1bfbe68c08#ref=rss)
-### maps
-
-* [https://www.spiegel.de/netzwelt/web/google-maps-golf-von-wetzlar-deutsche-trollen-techkonzern-in-trump-manier](https://www.spiegel.de/netzwelt/web/google-maps-golf-von-wetzlar-deutsche-trollen-techkonzern-in-trump-manier-a-c00db668-62db-4d19-bd12-bc1bfbe68c08#ref=rss)
-### golf
-
-* [https://www.spiegel.de/netzwelt/web/google-maps-golf-von-wetzlar-deutsche-trollen-techkonzern-in-trump-manier](https://www.spiegel.de/netzwelt/web/google-maps-golf-von-wetzlar-deutsche-trollen-techkonzern-in-trump-manier-a-c00db668-62db-4d19-bd12-bc1bfbe68c08#ref=rss)
-### paar
-
-* [https://www.spiegel.de/panorama/milliarden-fuer-die-infrastruktur-mehr-aerzte-busse-gastwirtschaften-mehr-milliarden-fuer-die-provinz](https://www.spiegel.de/panorama/milliarden-fuer-die-infrastruktur-mehr-aerzte-busse-gastwirtschaften-mehr-milliarden-fuer-die-provinz-a-f5c77d9f-3fbf-4cf6-b320-a005db82795d#ref=rss)
-* [https://www.spiegel.de/ausland/bernie-sanders-und-alexandria-ocasio-cortez-ungleiches-paar-auf-anti-trump-mission](https://www.spiegel.de/ausland/bernie-sanders-und-alexandria-ocasio-cortez-ungleiches-paar-auf-anti-trump-mission-a-90c85bd0-ff1b-4cde-906c-6846ad537ebd#ref=rss)
-### formel
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-china-ferrari-fahrer-lewis-hamilton-und-charles-leclerc-nachtraeglich-disqualifiziert](https://www.spiegel.de/sport/formel1/formel-1-in-china-ferrari-fahrer-lewis-hamilton-und-charles-leclerc-nachtraeglich-disqualifiziert-a-be5a61a9-c044-4216-83c2-dbe22f2499e7#ref=rss)
-### 1
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-china-ferrari-fahrer-lewis-hamilton-und-charles-leclerc-nachtraeglich-disqualifiziert](https://www.spiegel.de/sport/formel1/formel-1-in-china-ferrari-fahrer-lewis-hamilton-und-charles-leclerc-nachtraeglich-disqualifiziert-a-be5a61a9-c044-4216-83c2-dbe22f2499e7#ref=rss)
-### lewis
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-china-ferrari-fahrer-lewis-hamilton-und-charles-leclerc-nachtraeglich-disqualifiziert](https://www.spiegel.de/sport/formel1/formel-1-in-china-ferrari-fahrer-lewis-hamilton-und-charles-leclerc-nachtraeglich-disqualifiziert-a-be5a61a9-c044-4216-83c2-dbe22f2499e7#ref=rss)
-### hamilton
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-china-ferrari-fahrer-lewis-hamilton-und-charles-leclerc-nachtraeglich-disqualifiziert](https://www.spiegel.de/sport/formel1/formel-1-in-china-ferrari-fahrer-lewis-hamilton-und-charles-leclerc-nachtraeglich-disqualifiziert-a-be5a61a9-c044-4216-83c2-dbe22f2499e7#ref=rss)
-### charles
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-china-ferrari-fahrer-lewis-hamilton-und-charles-leclerc-nachtraeglich-disqualifiziert](https://www.spiegel.de/sport/formel1/formel-1-in-china-ferrari-fahrer-lewis-hamilton-und-charles-leclerc-nachtraeglich-disqualifiziert-a-be5a61a9-c044-4216-83c2-dbe22f2499e7#ref=rss)
-### leclerc
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-china-ferrari-fahrer-lewis-hamilton-und-charles-leclerc-nachtraeglich-disqualifiziert](https://www.spiegel.de/sport/formel1/formel-1-in-china-ferrari-fahrer-lewis-hamilton-und-charles-leclerc-nachtraeglich-disqualifiziert-a-be5a61a9-c044-4216-83c2-dbe22f2499e7#ref=rss)
-### bernie
-
-* [https://www.spiegel.de/ausland/bernie-sanders-und-alexandria-ocasio-cortez-ungleiches-paar-auf-anti-trump-mission](https://www.spiegel.de/ausland/bernie-sanders-und-alexandria-ocasio-cortez-ungleiches-paar-auf-anti-trump-mission-a-90c85bd0-ff1b-4cde-906c-6846ad537ebd#ref=rss)
-### sanders
-
-* [https://www.spiegel.de/ausland/bernie-sanders-und-alexandria-ocasio-cortez-ungleiches-paar-auf-anti-trump-mission](https://www.spiegel.de/ausland/bernie-sanders-und-alexandria-ocasio-cortez-ungleiches-paar-auf-anti-trump-mission-a-90c85bd0-ff1b-4cde-906c-6846ad537ebd#ref=rss)
-### alexandria
-
-* [https://www.spiegel.de/ausland/bernie-sanders-und-alexandria-ocasio-cortez-ungleiches-paar-auf-anti-trump-mission](https://www.spiegel.de/ausland/bernie-sanders-und-alexandria-ocasio-cortez-ungleiches-paar-auf-anti-trump-mission-a-90c85bd0-ff1b-4cde-906c-6846ad537ebd#ref=rss)
-### ocasiocortez
-
-* [https://www.spiegel.de/ausland/bernie-sanders-und-alexandria-ocasio-cortez-ungleiches-paar-auf-anti-trump-mission](https://www.spiegel.de/ausland/bernie-sanders-und-alexandria-ocasio-cortez-ungleiches-paar-auf-anti-trump-mission-a-90c85bd0-ff1b-4cde-906c-6846ad537ebd#ref=rss)
-### keir
-
-* [https://www.spiegel.de/ausland/ukraine-unterstuetzung-keir-starmer-stimmt-usa-bei-verteidigungsfragen-zu](https://www.spiegel.de/ausland/ukraine-unterstuetzung-keir-starmer-stimmt-usa-bei-verteidigungsfragen-zu-a-3b28508b-f15d-45bb-8bbe-2f92bcd41400#ref=rss)
-### starmer
-
-* [https://www.spiegel.de/ausland/ukraine-unterstuetzung-keir-starmer-stimmt-usa-bei-verteidigungsfragen-zu](https://www.spiegel.de/ausland/ukraine-unterstuetzung-keir-starmer-stimmt-usa-bei-verteidigungsfragen-zu-a-3b28508b-f15d-45bb-8bbe-2f92bcd41400#ref=rss)
-### verteidigung
-
-* [https://www.spiegel.de/ausland/ukraine-unterstuetzung-keir-starmer-stimmt-usa-bei-verteidigungsfragen-zu](https://www.spiegel.de/ausland/ukraine-unterstuetzung-keir-starmer-stimmt-usa-bei-verteidigungsfragen-zu-a-3b28508b-f15d-45bb-8bbe-2f92bcd41400#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/nato-ruestungsfirma-schlaegt-drohnenwall-an-der-ostflanke-vor](https://www.spiegel.de/wissenschaft/technik/nato-ruestungsfirma-schlaegt-drohnenwall-an-der-ostflanke-vor-a-f7b67aac-b475-422d-a5b4-22f8c400fc73#ref=rss)
-### sollten
-
-* [https://www.spiegel.de/ausland/ukraine-unterstuetzung-keir-starmer-stimmt-usa-bei-verteidigungsfragen-zu](https://www.spiegel.de/ausland/ukraine-unterstuetzung-keir-starmer-stimmt-usa-bei-verteidigungsfragen-zu-a-3b28508b-f15d-45bb-8bbe-2f92bcd41400#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/nato-ruestungsfirma-schlaegt-drohnenwall-an-der-ostflanke-vor](https://www.spiegel.de/wissenschaft/technik/nato-ruestungsfirma-schlaegt-drohnenwall-an-der-ostflanke-vor-a-f7b67aac-b475-422d-a5b4-22f8c400fc73#ref=rss)
+* [https://www.spiegel.de/ausland/tuerkei-chp-waehlt-ekrem-imamoglu-trotz-haft-zum-praesidentschaftskandidaten](https://www.spiegel.de/ausland/tuerkei-chp-waehlt-ekrem-imamoglu-trotz-haft-zum-praesidentschaftskandidaten-a-a936abd9-27f4-4a52-93cb-105d2636b996#ref=rss)
 
