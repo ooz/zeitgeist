@@ -4,356 +4,390 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### neues
+### berlin
 
-* [https://www.spiegel.de/netzwelt/web/google-neues-feature-uebersicht-mit-ki-wird-fuer-alle-ausgerollt](https://www.spiegel.de/netzwelt/web/google-neues-feature-uebersicht-mit-ki-wird-fuer-alle-ausgerollt-a-ade81f52-1a41-4e1f-83e1-1007e4b6238b#ref=rss)
-* [https://www.spiegel.de/panorama/leute/jennifer-lopez-hat-nach-scheidung-von-ben-affleck-offenbar-ein-neues-zuhause-gefunden](https://www.spiegel.de/panorama/leute/jennifer-lopez-hat-nach-scheidung-von-ben-affleck-offenbar-ein-neues-zuhause-gefunden-a-3f9e0715-e141-4d69-8d3b-3e64d4670823#ref=rss)
-### spd
+* [https://www.spiegel.de/panorama/berlin-warum-buergerinnen-und-buerger-im-humboldt-forum-wiegenlieder-singen](https://www.spiegel.de/panorama/berlin-warum-buergerinnen-und-buerger-im-humboldt-forum-wiegenlieder-singen-a-d524b1c6-7f59-4831-8dfa-ec377c157caa#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/berlin-schulen-schneiden-nur-mittelmaessig-bei-sauberkeit-ab](https://www.spiegel.de/panorama/bildung/berlin-schulen-schneiden-nur-mittelmaessig-bei-sauberkeit-ab-a-70ff4790-30a5-4cb2-9a38-0e587190f05b#ref=rss)
+* [https://www.spiegel.de/kultur/musik/lady-gaga-mayhem-welttournee-mit-zwei-konzerten-in-berlin](https://www.spiegel.de/kultur/musik/lady-gaga-mayhem-welttournee-mit-zwei-konzerten-in-berlin-a-fb473f6b-9d13-4ad7-bde8-6ab10eefa5b1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/friedrich-merz-cdu-macht-in-der-wirtschaftspolitik-einen-grossen-fehler-kolumne](https://www.spiegel.de/wirtschaft/unternehmen/friedrich-merz-cdu-macht-in-der-wirtschaftspolitik-einen-grossen-fehler-kolumne-a-a731f0e2-4879-408b-a2c7-0d565db916e4#ref=rss)
+### koalitionsverhandlungen
 
-* [https://www.spiegel.de/wirtschaft/deutsche-post-und-telekom-bund-der-steuerzahler-bringt-verkauf-von-bundesbeteiligungen-ins-spiel](https://www.spiegel.de/wirtschaft/deutsche-post-und-telekom-bund-der-steuerzahler-bringt-verkauf-von-bundesbeteiligungen-ins-spiel-a-5d1c8e61-fe49-4ba0-a955-10e3864296d3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-union-und-spd-wollen-reform-aber-keine-zerschlagung](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-union-und-spd-wollen-reform-aber-keine-zerschlagung-a-c7f0f335-5e11-449c-9dd1-370260f77d95#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-anke-rehlinger-bekraeftigt-absage-fuer-spd-vorsitz](https://www.spiegel.de/politik/deutschland/spd-anke-rehlinger-bekraeftigt-absage-fuer-spd-vorsitz-a-9f22c5f9-1c59-4256-b64c-07dedb50b6c5#ref=rss)
-### ki
-
-* [https://www.spiegel.de/netzwelt/web/google-neues-feature-uebersicht-mit-ki-wird-fuer-alle-ausgerollt](https://www.spiegel.de/netzwelt/web/google-neues-feature-uebersicht-mit-ki-wird-fuer-alle-ausgerollt-a-ade81f52-1a41-4e1f-83e1-1007e4b6238b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/kampf-gegen-faelschungen-amazon-zieht-15-millionen-produkte-aus-dem-verkehr](https://www.spiegel.de/wirtschaft/unternehmen/kampf-gegen-faelschungen-amazon-zieht-15-millionen-produkte-aus-dem-verkehr-a-66efc7c8-5e99-472e-b86d-72da25c83641#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/netzwelt/web/google-neues-feature-uebersicht-mit-ki-wird-fuer-alle-ausgerollt](https://www.spiegel.de/netzwelt/web/google-neues-feature-uebersicht-mit-ki-wird-fuer-alle-ausgerollt-a-ade81f52-1a41-4e1f-83e1-1007e4b6238b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/was-die-streichung-eines-feiertages-bringen-koennte](https://www.spiegel.de/wirtschaft/service/was-die-streichung-eines-feiertages-bringen-koennte-a-80233131-f787-4a62-8648-5d1a721aa1bf#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/die-gruenen-auf-ins-abklingbecken-deutschland-braucht-eine-starke-opposition](https://www.spiegel.de/politik/deutschland/die-gruenen-auf-ins-abklingbecken-deutschland-braucht-eine-starke-opposition-a-0eda3d6c-f64c-48a6-9d13-1b5004f8b20f#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/panorama/leute/prinz-harry-tritt-als-schirmherr-von-aidswaisen-hilfe-sentebale-zurueck](https://www.spiegel.de/panorama/leute/prinz-harry-tritt-als-schirmherr-von-aidswaisen-hilfe-sentebale-zurueck-a-6551acb0-0ea6-48e5-b9b4-162f9e3b3cda#ref=rss)
-* [https://www.spiegel.de/kultur/tv/late-night-berlin-klaas-heufer-umlauf-beendet-prosieben-show](https://www.spiegel.de/kultur/tv/late-night-berlin-klaas-heufer-umlauf-beendet-prosieben-show-a-44385874-cf61-42de-9505-c5d1acf4005f#ref=rss)
-* [https://www.spiegel.de/karriere/gehalt-als-bankerin-kreditanalystin-ueber-ihr-gehalt-von-90-000-euro-brutto-im-jahr](https://www.spiegel.de/karriere/gehalt-als-bankerin-kreditanalystin-ueber-ihr-gehalt-von-90-000-euro-brutto-im-jahr-a-7abf54cb-30f5-4fb2-bc4a-8a86219a07c8#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/kultur/tv/late-night-berlin-klaas-heufer-umlauf-beendet-prosieben-show](https://www.spiegel.de/kultur/tv/late-night-berlin-klaas-heufer-umlauf-beendet-prosieben-show-a-44385874-cf61-42de-9505-c5d1acf4005f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/joschka-fischer-ex-aussenminister-sieht-usa-nicht-mehr-als-vollwertige-demokratie](https://www.spiegel.de/politik/deutschland/joschka-fischer-ex-aussenminister-sieht-usa-nicht-mehr-als-vollwertige-demokratie-a-d7d7ad91-cbb2-4298-8fb7-6ebdac3b908a#ref=rss)
-### felßner
-
-* [https://www.spiegel.de/politik/deutschland/guenther-felssner-tierschutzaktivisten-von-animal-rebellion-verteidigen-protestaktion](https://www.spiegel.de/politik/deutschland/guenther-felssner-tierschutzaktivisten-von-animal-rebellion-verteidigen-protestaktion-a-dafd8a68-8cd1-4ae1-b6e0-a4762c5b7c89#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/politik/deutschland/cdu-in-kuehlungsborn-frust-ueber-bundespartei-zahlreiche-mitglieder-treten-offenbar-aus-cdu-stadtverband-aus](https://www.spiegel.de/politik/deutschland/cdu-in-kuehlungsborn-frust-ueber-bundespartei-zahlreiche-mitglieder-treten-offenbar-aus-cdu-stadtverband-aus-a-5aa7168e-7313-4e9b-96a6-8d7a132127fd#ref=rss)
-* [https://www.spiegel.de/panorama/leute/jennifer-lopez-hat-nach-scheidung-von-ben-affleck-offenbar-ein-neues-zuhause-gefunden](https://www.spiegel.de/panorama/leute/jennifer-lopez-hat-nach-scheidung-von-ben-affleck-offenbar-ein-neues-zuhause-gefunden-a-3f9e0715-e141-4d69-8d3b-3e64d4670823#ref=rss)
-* [https://www.spiegel.de/ausland/hunderte-palaestinenser-protestieren-im-gazastreifen-gegen-hamas](https://www.spiegel.de/ausland/hunderte-palaestinenser-protestieren-im-gazastreifen-gegen-hamas-a-4ef55b52-ea1b-4a64-9dd2-19adb200ef4b#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/wirtschaft/deutsche-post-und-telekom-bund-der-steuerzahler-bringt-verkauf-von-bundesbeteiligungen-ins-spiel](https://www.spiegel.de/wirtschaft/deutsche-post-und-telekom-bund-der-steuerzahler-bringt-verkauf-von-bundesbeteiligungen-ins-spiel-a-5d1c8e61-fe49-4ba0-a955-10e3864296d3#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/razzia-gegen-eritreische-regierungsgegner-durchsuchungen-in-sechs-bundeslaendern](https://www.spiegel.de/panorama/justiz/razzia-gegen-eritreische-regierungsgegner-durchsuchungen-in-sechs-bundeslaendern-a-732b1b34-da1f-44a3-94da-2bdd9d75e99a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-union-und-spd-wollen-reform-aber-keine-zerschlagung](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-union-und-spd-wollen-reform-aber-keine-zerschlagung-a-c7f0f335-5e11-449c-9dd1-370260f77d95#ref=rss)
-### verkauf
-
-* [https://www.spiegel.de/wirtschaft/deutsche-post-und-telekom-bund-der-steuerzahler-bringt-verkauf-von-bundesbeteiligungen-ins-spiel](https://www.spiegel.de/wirtschaft/deutsche-post-und-telekom-bund-der-steuerzahler-bringt-verkauf-von-bundesbeteiligungen-ins-spiel-a-5d1c8e61-fe49-4ba0-a955-10e3864296d3#ref=rss)
-* [https://www.spiegel.de/panorama/leute/jennifer-lopez-hat-nach-scheidung-von-ben-affleck-offenbar-ein-neues-zuhause-gefunden](https://www.spiegel.de/panorama/leute/jennifer-lopez-hat-nach-scheidung-von-ben-affleck-offenbar-ein-neues-zuhause-gefunden-a-3f9e0715-e141-4d69-8d3b-3e64d4670823#ref=rss)
-### union
-
-* [https://www.spiegel.de/wirtschaft/deutsche-post-und-telekom-bund-der-steuerzahler-bringt-verkauf-von-bundesbeteiligungen-ins-spiel](https://www.spiegel.de/wirtschaft/deutsche-post-und-telekom-bund-der-steuerzahler-bringt-verkauf-von-bundesbeteiligungen-ins-spiel-a-5d1c8e61-fe49-4ba0-a955-10e3864296d3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-union-und-spd-wollen-reform-aber-keine-zerschlagung](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-union-und-spd-wollen-reform-aber-keine-zerschlagung-a-c7f0f335-5e11-449c-9dd1-370260f77d95#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/panorama/leute/jennifer-lopez-hat-nach-scheidung-von-ben-affleck-offenbar-ein-neues-zuhause-gefunden](https://www.spiegel.de/panorama/leute/jennifer-lopez-hat-nach-scheidung-von-ben-affleck-offenbar-ein-neues-zuhause-gefunden-a-3f9e0715-e141-4d69-8d3b-3e64d4670823#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/kampf-gegen-faelschungen-amazon-zieht-15-millionen-produkte-aus-dem-verkehr](https://www.spiegel.de/wirtschaft/unternehmen/kampf-gegen-faelschungen-amazon-zieht-15-millionen-produkte-aus-dem-verkehr-a-66efc7c8-5e99-472e-b86d-72da25c83641#ref=rss)
-* [https://www.spiegel.de/karriere/gehalt-als-bankerin-kreditanalystin-ueber-ihr-gehalt-von-90-000-euro-brutto-im-jahr](https://www.spiegel.de/karriere/gehalt-als-bankerin-kreditanalystin-ueber-ihr-gehalt-von-90-000-euro-brutto-im-jahr-a-7abf54cb-30f5-4fb2-bc4a-8a86219a07c8#ref=rss)
-### usa
-
-* [https://www.spiegel.de/panorama/usa-kleinflugzeug-stuerzt-auf-zugefrorenen-see-vater-und-zwei-kinder-nach-zwoelf-stunden-gerettet](https://www.spiegel.de/panorama/usa-kleinflugzeug-stuerzt-auf-zugefrorenen-see-vater-und-zwei-kinder-nach-zwoelf-stunden-gerettet-a-2d6e6043-43a1-47ad-b788-a4b23e556c64#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/joschka-fischer-ex-aussenminister-sieht-usa-nicht-mehr-als-vollwertige-demokratie](https://www.spiegel.de/politik/deutschland/joschka-fischer-ex-aussenminister-sieht-usa-nicht-mehr-als-vollwertige-demokratie-a-d7d7ad91-cbb2-4298-8fb7-6ebdac3b908a#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/usa-kleinflugzeug-stuerzt-auf-zugefrorenen-see-vater-und-zwei-kinder-nach-zwoelf-stunden-gerettet](https://www.spiegel.de/panorama/usa-kleinflugzeug-stuerzt-auf-zugefrorenen-see-vater-und-zwei-kinder-nach-zwoelf-stunden-gerettet-a-2d6e6043-43a1-47ad-b788-a4b23e556c64#ref=rss)
-* [https://www.spiegel.de/kultur/gerard-depardieu-vor-gericht-frankreichs-nationalheld-taumelt](https://www.spiegel.de/kultur/gerard-depardieu-vor-gericht-frankreichs-nationalheld-taumelt-a-9f0e46df-fa7b-4460-8b98-40248e51f0f5#ref=rss)
-### depardieu
-
-* [https://www.spiegel.de/kultur/gerard-depardieu-vor-gericht-frankreichs-nationalheld-taumelt](https://www.spiegel.de/kultur/gerard-depardieu-vor-gericht-frankreichs-nationalheld-taumelt-a-9f0e46df-fa7b-4460-8b98-40248e51f0f5#ref=rss)
+* [https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle](https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle-a-22ecf8d5-1a19-4a80-9db4-5c106bac3792#ref=rss)
+* [https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle-podcast](https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle-podcast-a-7a1c23c5-9abd-44cf-a21a-292c83702ee8#ref=rss)
 ### gericht
 
-* [https://www.spiegel.de/kultur/gerard-depardieu-vor-gericht-frankreichs-nationalheld-taumelt](https://www.spiegel.de/kultur/gerard-depardieu-vor-gericht-frankreichs-nationalheld-taumelt-a-9f0e46df-fa7b-4460-8b98-40248e51f0f5#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/diego-maradona-ex-leibwaechter-bei-prozess-wegen-meineids-festgenommen](https://www.spiegel.de/panorama/justiz/diego-maradona-ex-leibwaechter-bei-prozess-wegen-meineids-festgenommen-a-d47fd64c-2577-4395-8d61-b9d91f975917#ref=rss)
-### donald
+* [https://www.spiegel.de/ausland/brasilien-ex-praesident-jair-bolsonaro-muss-sich-vor-gericht-verantworten](https://www.spiegel.de/ausland/brasilien-ex-praesident-jair-bolsonaro-muss-sich-vor-gericht-verantworten-a-366082dc-618e-4fb8-9ebc-6dc5376b27a0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/adidas-gericht-untersagt-nach-klage-der-deutschen-umwelthilfe-werbung-mit-klimazielen](https://www.spiegel.de/wirtschaft/unternehmen/adidas-gericht-untersagt-nach-klage-der-deutschen-umwelthilfe-werbung-mit-klimazielen-a-bdbf5a92-8421-422c-8e96-1e02cbc6f67a#ref=rss)
+### neue
 
-* [https://www.spiegel.de/politik/deutschland/joschka-fischer-ex-aussenminister-sieht-usa-nicht-mehr-als-vollwertige-demokratie](https://www.spiegel.de/politik/deutschland/joschka-fischer-ex-aussenminister-sieht-usa-nicht-mehr-als-vollwertige-demokratie-a-d7d7ad91-cbb2-4298-8fb7-6ebdac3b908a#ref=rss)
-* [https://www.spiegel.de/ausland/usa-skandal-um-sicherheitsleak-trump-lehnt-konsequenzen-ab](https://www.spiegel.de/ausland/usa-skandal-um-sicherheitsleak-trump-lehnt-konsequenzen-ab-a-afe69f47-0067-4728-a54b-e27bf847ed63#ref=rss)
-### trump
+* [https://www.spiegel.de/gesundheit/diagnose/darmkrebs-warum-immer-weniger-menschen-in-deutschland-daran-sterben](https://www.spiegel.de/gesundheit/diagnose/darmkrebs-warum-immer-weniger-menschen-in-deutschland-daran-sterben-a-51ebc9ef-76e6-4742-ad75-dff41909919d#ref=rss)
+* [https://www.spiegel.de/kultur/tv/apple-tv-serie-the-studio-mit-seth-rogen-lachen-mit-schmerzen](https://www.spiegel.de/kultur/tv/apple-tv-serie-the-studio-mit-seth-rogen-lachen-mit-schmerzen-a-de287f36-04dd-4a0e-9bb1-9bb21a139642#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/aldi-talk-unlimited-das-taugen-aldis-neue-quasi-flatrates-wirklich](https://www.spiegel.de/netzwelt/apps/aldi-talk-unlimited-das-taugen-aldis-neue-quasi-flatrates-wirklich-a-755ab879-f48f-4faa-9641-00ffcca36f54#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-csu-spd-auf-diese-ergebnisse-haben-sich-die-schwarz-roten-unterhaendler-verstaendigt](https://www.spiegel.de/politik/deutschland/cdu-csu-spd-auf-diese-ergebnisse-haben-sich-die-schwarz-roten-unterhaendler-verstaendigt-a-845262a3-1b5f-46f9-b91f-df22603744e9#ref=rss)
+### spielt
 
-* [https://www.spiegel.de/politik/deutschland/joschka-fischer-ex-aussenminister-sieht-usa-nicht-mehr-als-vollwertige-demokratie](https://www.spiegel.de/politik/deutschland/joschka-fischer-ex-aussenminister-sieht-usa-nicht-mehr-als-vollwertige-demokratie-a-d7d7ad91-cbb2-4298-8fb7-6ebdac3b908a#ref=rss)
-* [https://www.spiegel.de/ausland/usa-skandal-um-sicherheitsleak-trump-lehnt-konsequenzen-ab](https://www.spiegel.de/ausland/usa-skandal-um-sicherheitsleak-trump-lehnt-konsequenzen-ab-a-afe69f47-0067-4728-a54b-e27bf847ed63#ref=rss)
-### google
-
-* [https://www.spiegel.de/netzwelt/web/google-neues-feature-uebersicht-mit-ki-wird-fuer-alle-ausgerollt](https://www.spiegel.de/netzwelt/web/google-neues-feature-uebersicht-mit-ki-wird-fuer-alle-ausgerollt-a-ade81f52-1a41-4e1f-83e1-1007e4b6238b#ref=rss)
-### feature
-
-* [https://www.spiegel.de/netzwelt/web/google-neues-feature-uebersicht-mit-ki-wird-fuer-alle-ausgerollt](https://www.spiegel.de/netzwelt/web/google-neues-feature-uebersicht-mit-ki-wird-fuer-alle-ausgerollt-a-ade81f52-1a41-4e1f-83e1-1007e4b6238b#ref=rss)
-### übersicht
-
-* [https://www.spiegel.de/netzwelt/web/google-neues-feature-uebersicht-mit-ki-wird-fuer-alle-ausgerollt](https://www.spiegel.de/netzwelt/web/google-neues-feature-uebersicht-mit-ki-wird-fuer-alle-ausgerollt-a-ade81f52-1a41-4e1f-83e1-1007e4b6238b#ref=rss)
-### prinz
-
-* [https://www.spiegel.de/panorama/leute/prinz-harry-tritt-als-schirmherr-von-aidswaisen-hilfe-sentebale-zurueck](https://www.spiegel.de/panorama/leute/prinz-harry-tritt-als-schirmherr-von-aidswaisen-hilfe-sentebale-zurueck-a-6551acb0-0ea6-48e5-b9b4-162f9e3b3cda#ref=rss)
-### harry
-
-* [https://www.spiegel.de/panorama/leute/prinz-harry-tritt-als-schirmherr-von-aidswaisen-hilfe-sentebale-zurueck](https://www.spiegel.de/panorama/leute/prinz-harry-tritt-als-schirmherr-von-aidswaisen-hilfe-sentebale-zurueck-a-6551acb0-0ea6-48e5-b9b4-162f9e3b3cda#ref=rss)
-### aidswaisenhilfe
-
-* [https://www.spiegel.de/panorama/leute/prinz-harry-tritt-als-schirmherr-von-aidswaisen-hilfe-sentebale-zurueck](https://www.spiegel.de/panorama/leute/prinz-harry-tritt-als-schirmherr-von-aidswaisen-hilfe-sentebale-zurueck-a-6551acb0-0ea6-48e5-b9b4-162f9e3b3cda#ref=rss)
-### sentebale
-
-* [https://www.spiegel.de/panorama/leute/prinz-harry-tritt-als-schirmherr-von-aidswaisen-hilfe-sentebale-zurueck](https://www.spiegel.de/panorama/leute/prinz-harry-tritt-als-schirmherr-von-aidswaisen-hilfe-sentebale-zurueck-a-6551acb0-0ea6-48e5-b9b4-162f9e3b3cda#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/panorama/leute/prinz-harry-tritt-als-schirmherr-von-aidswaisen-hilfe-sentebale-zurueck](https://www.spiegel.de/panorama/leute/prinz-harry-tritt-als-schirmherr-von-aidswaisen-hilfe-sentebale-zurueck-a-6551acb0-0ea6-48e5-b9b4-162f9e3b3cda#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/guenther-felssner-tierschutzaktivisten-von-animal-rebellion-verteidigen-protestaktion](https://www.spiegel.de/politik/deutschland/guenther-felssner-tierschutzaktivisten-von-animal-rebellion-verteidigen-protestaktion-a-dafd8a68-8cd1-4ae1-b6e0-a4762c5b7c89#ref=rss)
-### 20
-
-* [https://www.spiegel.de/panorama/leute/prinz-harry-tritt-als-schirmherr-von-aidswaisen-hilfe-sentebale-zurueck](https://www.spiegel.de/panorama/leute/prinz-harry-tritt-als-schirmherr-von-aidswaisen-hilfe-sentebale-zurueck-a-6551acb0-0ea6-48e5-b9b4-162f9e3b3cda#ref=rss)
-* [https://www.spiegel.de/panorama/suedkorea-mindestens-20-menschen-sterben-bei-waldbraenden](https://www.spiegel.de/panorama/suedkorea-mindestens-20-menschen-sterben-bei-waldbraenden-a-0b3e53e3-6b8e-417c-a90a-744e27dcb4ad#ref=rss)
-### personellen
-
-* [https://www.spiegel.de/panorama/leute/prinz-harry-tritt-als-schirmherr-von-aidswaisen-hilfe-sentebale-zurueck](https://www.spiegel.de/panorama/leute/prinz-harry-tritt-als-schirmherr-von-aidswaisen-hilfe-sentebale-zurueck-a-6551acb0-0ea6-48e5-b9b4-162f9e3b3cda#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-union-und-spd-wollen-reform-aber-keine-zerschlagung](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-union-und-spd-wollen-reform-aber-keine-zerschlagung-a-c7f0f335-5e11-449c-9dd1-370260f77d95#ref=rss)
-### konsequenzen
-
-* [https://www.spiegel.de/panorama/leute/prinz-harry-tritt-als-schirmherr-von-aidswaisen-hilfe-sentebale-zurueck](https://www.spiegel.de/panorama/leute/prinz-harry-tritt-als-schirmherr-von-aidswaisen-hilfe-sentebale-zurueck-a-6551acb0-0ea6-48e5-b9b4-162f9e3b3cda#ref=rss)
-* [https://www.spiegel.de/ausland/usa-skandal-um-sicherheitsleak-trump-lehnt-konsequenzen-ab](https://www.spiegel.de/ausland/usa-skandal-um-sicherheitsleak-trump-lehnt-konsequenzen-ab-a-afe69f47-0067-4728-a54b-e27bf847ed63#ref=rss)
-### kampf
-
-* [https://www.spiegel.de/wirtschaft/service/was-die-streichung-eines-feiertages-bringen-koennte](https://www.spiegel.de/wirtschaft/service/was-die-streichung-eines-feiertages-bringen-koennte-a-80233131-f787-4a62-8648-5d1a721aa1bf#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/kampf-gegen-faelschungen-amazon-zieht-15-millionen-produkte-aus-dem-verkehr](https://www.spiegel.de/wirtschaft/unternehmen/kampf-gegen-faelschungen-amazon-zieht-15-millionen-produkte-aus-dem-verkehr-a-66efc7c8-5e99-472e-b86d-72da25c83641#ref=rss)
-### feiertag
-
-* [https://www.spiegel.de/wirtschaft/service/was-die-streichung-eines-feiertages-bringen-koennte](https://www.spiegel.de/wirtschaft/service/was-die-streichung-eines-feiertages-bringen-koennte-a-80233131-f787-4a62-8648-5d1a721aa1bf#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutsche-post-und-telekom-bund-der-steuerzahler-bringt-verkauf-von-bundesbeteiligungen-ins-spiel](https://www.spiegel.de/wirtschaft/deutsche-post-und-telekom-bund-der-steuerzahler-bringt-verkauf-von-bundesbeteiligungen-ins-spiel-a-5d1c8e61-fe49-4ba0-a955-10e3864296d3#ref=rss)
-### streichen
-
-* [https://www.spiegel.de/wirtschaft/service/was-die-streichung-eines-feiertages-bringen-koennte](https://www.spiegel.de/wirtschaft/service/was-die-streichung-eines-feiertages-bringen-koennte-a-80233131-f787-4a62-8648-5d1a721aa1bf#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutsche-post-und-telekom-bund-der-steuerzahler-bringt-verkauf-von-bundesbeteiligungen-ins-spiel](https://www.spiegel.de/wirtschaft/deutsche-post-und-telekom-bund-der-steuerzahler-bringt-verkauf-von-bundesbeteiligungen-ins-spiel-a-5d1c8e61-fe49-4ba0-a955-10e3864296d3#ref=rss)
-### klaas
-
-* [https://www.spiegel.de/kultur/tv/late-night-berlin-klaas-heufer-umlauf-beendet-prosieben-show](https://www.spiegel.de/kultur/tv/late-night-berlin-klaas-heufer-umlauf-beendet-prosieben-show-a-44385874-cf61-42de-9505-c5d1acf4005f#ref=rss)
-### heuferumlauf
-
-* [https://www.spiegel.de/kultur/tv/late-night-berlin-klaas-heufer-umlauf-beendet-prosieben-show](https://www.spiegel.de/kultur/tv/late-night-berlin-klaas-heufer-umlauf-beendet-prosieben-show-a-44385874-cf61-42de-9505-c5d1acf4005f#ref=rss)
-### fanden
-
-* [https://www.spiegel.de/wissenschaft/videokonferenzen-mangelhafte-mikrofone-beeinflussen-die-wahrnehmung](https://www.spiegel.de/wissenschaft/videokonferenzen-mangelhafte-mikrofone-beeinflussen-die-wahrnehmung-a-c7daf898-3fcd-4a73-9a36-78e0f9982b72#ref=rss)
-* [https://www.spiegel.de/geschichte/ehegattenmorde-im-17-jahrhundert-die-giftmischerinnen-von-rom](https://www.spiegel.de/geschichte/ehegattenmorde-im-17-jahrhundert-die-giftmischerinnen-von-rom-a-a8a77bf0-74cc-47b5-9491-58cc7a88c609#ref=rss)
-### eigenen
-
-* [https://www.spiegel.de/wissenschaft/videokonferenzen-mangelhafte-mikrofone-beeinflussen-die-wahrnehmung](https://www.spiegel.de/wissenschaft/videokonferenzen-mangelhafte-mikrofone-beeinflussen-die-wahrnehmung-a-c7daf898-3fcd-4a73-9a36-78e0f9982b72#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/kampf-gegen-faelschungen-amazon-zieht-15-millionen-produkte-aus-dem-verkehr](https://www.spiegel.de/wirtschaft/unternehmen/kampf-gegen-faelschungen-amazon-zieht-15-millionen-produkte-aus-dem-verkehr-a-66efc7c8-5e99-472e-b86d-72da25c83641#ref=rss)
-### günther
-
-* [https://www.spiegel.de/politik/deutschland/guenther-felssner-tierschutzaktivisten-von-animal-rebellion-verteidigen-protestaktion](https://www.spiegel.de/politik/deutschland/guenther-felssner-tierschutzaktivisten-von-animal-rebellion-verteidigen-protestaktion-a-dafd8a68-8cd1-4ae1-b6e0-a4762c5b7c89#ref=rss)
-### verteidigen
-
-* [https://www.spiegel.de/politik/deutschland/guenther-felssner-tierschutzaktivisten-von-animal-rebellion-verteidigen-protestaktion](https://www.spiegel.de/politik/deutschland/guenther-felssner-tierschutzaktivisten-von-animal-rebellion-verteidigen-protestaktion-a-dafd8a68-8cd1-4ae1-b6e0-a4762c5b7c89#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/die-gruenen-auf-ins-abklingbecken-deutschland-braucht-eine-starke-opposition](https://www.spiegel.de/politik/deutschland/die-gruenen-auf-ins-abklingbecken-deutschland-braucht-eine-starke-opposition-a-0eda3d6c-f64c-48a6-9d13-1b5004f8b20f#ref=rss)
-### protestaktion
-
-* [https://www.spiegel.de/politik/deutschland/guenther-felssner-tierschutzaktivisten-von-animal-rebellion-verteidigen-protestaktion](https://www.spiegel.de/politik/deutschland/guenther-felssner-tierschutzaktivisten-von-animal-rebellion-verteidigen-protestaktion-a-dafd8a68-8cd1-4ae1-b6e0-a4762c5b7c89#ref=rss)
-### zog
-
-* [https://www.spiegel.de/politik/deutschland/guenther-felssner-tierschutzaktivisten-von-animal-rebellion-verteidigen-protestaktion](https://www.spiegel.de/politik/deutschland/guenther-felssner-tierschutzaktivisten-von-animal-rebellion-verteidigen-protestaktion-a-dafd8a68-8cd1-4ae1-b6e0-a4762c5b7c89#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-alphonso-davies-erleidet-kreuzbandriss-auch-dayot-upamecano-faellt-aus](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-alphonso-davies-erleidet-kreuzbandriss-auch-dayot-upamecano-faellt-aus-a-a83f49c3-7e5e-4393-978b-36aa0beca535#ref=rss)
-### hinter
-
-* [https://www.spiegel.de/politik/deutschland/guenther-felssner-tierschutzaktivisten-von-animal-rebellion-verteidigen-protestaktion](https://www.spiegel.de/politik/deutschland/guenther-felssner-tierschutzaktivisten-von-animal-rebellion-verteidigen-protestaktion-a-dafd8a68-8cd1-4ae1-b6e0-a4762c5b7c89#ref=rss)
-* [https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-in-der-brutstaette-der-barbarei](https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-in-der-brutstaette-der-barbarei-a-ada2146c-a097-479a-aee2-254d9f805c1b#ref=rss)
-### adolescence
-
-* [https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-in-der-brutstaette-der-barbarei](https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-in-der-brutstaette-der-barbarei-a-ada2146c-a097-479a-aee2-254d9f805c1b#ref=rss)
-### macht
-
-* [https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-in-der-brutstaette-der-barbarei](https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-in-der-brutstaette-der-barbarei-a-ada2146c-a097-479a-aee2-254d9f805c1b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/kampf-gegen-faelschungen-amazon-zieht-15-millionen-produkte-aus-dem-verkehr](https://www.spiegel.de/wirtschaft/unternehmen/kampf-gegen-faelschungen-amazon-zieht-15-millionen-produkte-aus-dem-verkehr-a-66efc7c8-5e99-472e-b86d-72da25c83641#ref=rss)
-### mörderischen
-
-* [https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-in-der-brutstaette-der-barbarei](https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-in-der-brutstaette-der-barbarei-a-ada2146c-a097-479a-aee2-254d9f805c1b#ref=rss)
-* [https://www.spiegel.de/geschichte/ehegattenmorde-im-17-jahrhundert-die-giftmischerinnen-von-rom](https://www.spiegel.de/geschichte/ehegattenmorde-im-17-jahrhundert-die-giftmischerinnen-von-rom-a-a8a77bf0-74cc-47b5-9491-58cc7a88c609#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-alphonso-davies-erleidet-kreuzbandriss-auch-dayot-upamecano-faellt-aus](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-alphonso-davies-erleidet-kreuzbandriss-auch-dayot-upamecano-faellt-aus-a-a83f49c3-7e5e-4393-978b-36aa0beca535#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-alphonso-davies-erleidet-kreuzbandriss-auch-dayot-upamecano-faellt-aus](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-alphonso-davies-erleidet-kreuzbandriss-auch-dayot-upamecano-faellt-aus-a-a83f49c3-7e5e-4393-978b-36aa0beca535#ref=rss)
-### münchen
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-alphonso-davies-erleidet-kreuzbandriss-auch-dayot-upamecano-faellt-aus](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-alphonso-davies-erleidet-kreuzbandriss-auch-dayot-upamecano-faellt-aus-a-a83f49c3-7e5e-4393-978b-36aa0beca535#ref=rss)
-### alphonso
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-alphonso-davies-erleidet-kreuzbandriss-auch-dayot-upamecano-faellt-aus](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-alphonso-davies-erleidet-kreuzbandriss-auch-dayot-upamecano-faellt-aus-a-a83f49c3-7e5e-4393-978b-36aa0beca535#ref=rss)
-### davies
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-alphonso-davies-erleidet-kreuzbandriss-auch-dayot-upamecano-faellt-aus](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-alphonso-davies-erleidet-kreuzbandriss-auch-dayot-upamecano-faellt-aus-a-a83f49c3-7e5e-4393-978b-36aa0beca535#ref=rss)
-### dayot
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-alphonso-davies-erleidet-kreuzbandriss-auch-dayot-upamecano-faellt-aus](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-alphonso-davies-erleidet-kreuzbandriss-auch-dayot-upamecano-faellt-aus-a-a83f49c3-7e5e-4393-978b-36aa0beca535#ref=rss)
-### upamecano
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-alphonso-davies-erleidet-kreuzbandriss-auch-dayot-upamecano-faellt-aus](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-alphonso-davies-erleidet-kreuzbandriss-auch-dayot-upamecano-faellt-aus-a-a83f49c3-7e5e-4393-978b-36aa0beca535#ref=rss)
-### spiel
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-alphonso-davies-erleidet-kreuzbandriss-auch-dayot-upamecano-faellt-aus](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-alphonso-davies-erleidet-kreuzbandriss-auch-dayot-upamecano-faellt-aus-a-a83f49c3-7e5e-4393-978b-36aa0beca535#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutsche-post-und-telekom-bund-der-steuerzahler-bringt-verkauf-von-bundesbeteiligungen-ins-spiel](https://www.spiegel.de/wirtschaft/deutsche-post-und-telekom-bund-der-steuerzahler-bringt-verkauf-von-bundesbeteiligungen-ins-spiel-a-5d1c8e61-fe49-4ba0-a955-10e3864296d3#ref=rss)
-### rom
-
-* [https://www.spiegel.de/geschichte/ehegattenmorde-im-17-jahrhundert-die-giftmischerinnen-von-rom](https://www.spiegel.de/geschichte/ehegattenmorde-im-17-jahrhundert-die-giftmischerinnen-von-rom-a-a8a77bf0-74cc-47b5-9491-58cc7a88c609#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/geschichte/ehegattenmorde-im-17-jahrhundert-die-giftmischerinnen-von-rom](https://www.spiegel.de/geschichte/ehegattenmorde-im-17-jahrhundert-die-giftmischerinnen-von-rom-a-a8a77bf0-74cc-47b5-9491-58cc7a88c609#ref=rss)
-* [https://www.spiegel.de/kultur/gerard-depardieu-vor-gericht-frankreichs-nationalheld-taumelt](https://www.spiegel.de/kultur/gerard-depardieu-vor-gericht-frankreichs-nationalheld-taumelt-a-9f0e46df-fa7b-4460-8b98-40248e51f0f5#ref=rss)
-### hilfe
-
-* [https://www.spiegel.de/geschichte/ehegattenmorde-im-17-jahrhundert-die-giftmischerinnen-von-rom](https://www.spiegel.de/geschichte/ehegattenmorde-im-17-jahrhundert-die-giftmischerinnen-von-rom-a-a8a77bf0-74cc-47b5-9491-58cc7a88c609#ref=rss)
-* [https://www.spiegel.de/panorama/usa-kleinflugzeug-stuerzt-auf-zugefrorenen-see-vater-und-zwei-kinder-nach-zwoelf-stunden-gerettet](https://www.spiegel.de/panorama/usa-kleinflugzeug-stuerzt-auf-zugefrorenen-see-vater-und-zwei-kinder-nach-zwoelf-stunden-gerettet-a-2d6e6043-43a1-47ad-b788-a4b23e556c64#ref=rss)
-### grünen
-
-* [https://www.spiegel.de/politik/deutschland/die-gruenen-auf-ins-abklingbecken-deutschland-braucht-eine-starke-opposition](https://www.spiegel.de/politik/deutschland/die-gruenen-auf-ins-abklingbecken-deutschland-braucht-eine-starke-opposition-a-0eda3d6c-f64c-48a6-9d13-1b5004f8b20f#ref=rss)
-### rolle
-
-* [https://www.spiegel.de/politik/deutschland/die-gruenen-auf-ins-abklingbecken-deutschland-braucht-eine-starke-opposition](https://www.spiegel.de/politik/deutschland/die-gruenen-auf-ins-abklingbecken-deutschland-braucht-eine-starke-opposition-a-0eda3d6c-f64c-48a6-9d13-1b5004f8b20f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/kampf-gegen-faelschungen-amazon-zieht-15-millionen-produkte-aus-dem-verkehr](https://www.spiegel.de/wirtschaft/unternehmen/kampf-gegen-faelschungen-amazon-zieht-15-millionen-produkte-aus-dem-verkehr-a-66efc7c8-5e99-472e-b86d-72da25c83641#ref=rss)
-### demokratie
-
-* [https://www.spiegel.de/politik/deutschland/die-gruenen-auf-ins-abklingbecken-deutschland-braucht-eine-starke-opposition](https://www.spiegel.de/politik/deutschland/die-gruenen-auf-ins-abklingbecken-deutschland-braucht-eine-starke-opposition-a-0eda3d6c-f64c-48a6-9d13-1b5004f8b20f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/joschka-fischer-ex-aussenminister-sieht-usa-nicht-mehr-als-vollwertige-demokratie](https://www.spiegel.de/politik/deutschland/joschka-fischer-ex-aussenminister-sieht-usa-nicht-mehr-als-vollwertige-demokratie-a-d7d7ad91-cbb2-4298-8fb7-6ebdac3b908a#ref=rss)
-### bundesland
-
-* [https://www.spiegel.de/panorama/justiz/dresden-mutmasslicher-rechtsextremist-wegen-wahlfaelschung-angeklagt](https://www.spiegel.de/panorama/justiz/dresden-mutmasslicher-rechtsextremist-wegen-wahlfaelschung-angeklagt-a-2a0ca2e1-398c-4b56-8147-a7dd594c76ea#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-anke-rehlinger-bekraeftigt-absage-fuer-spd-vorsitz](https://www.spiegel.de/politik/deutschland/spd-anke-rehlinger-bekraeftigt-absage-fuer-spd-vorsitz-a-9f22c5f9-1c59-4256-b64c-07dedb50b6c5#ref=rss)
-### bundesverfassungsgericht
-
-* [https://www.spiegel.de/wirtschaft/soziales/bundesverfassungsgericht-weist-klage-gegen-solidaritaetszuschlag-ab](https://www.spiegel.de/wirtschaft/soziales/bundesverfassungsgericht-weist-klage-gegen-solidaritaetszuschlag-ab-a-5760d8d6-9290-4ef7-9dfd-da56a93f66ef#ref=rss)
-### klage
-
-* [https://www.spiegel.de/wirtschaft/soziales/bundesverfassungsgericht-weist-klage-gegen-solidaritaetszuschlag-ab](https://www.spiegel.de/wirtschaft/soziales/bundesverfassungsgericht-weist-klage-gegen-solidaritaetszuschlag-ab-a-5760d8d6-9290-4ef7-9dfd-da56a93f66ef#ref=rss)
-### solidaritätszuschlag
-
-* [https://www.spiegel.de/wirtschaft/soziales/bundesverfassungsgericht-weist-klage-gegen-solidaritaetszuschlag-ab](https://www.spiegel.de/wirtschaft/soziales/bundesverfassungsgericht-weist-klage-gegen-solidaritaetszuschlag-ab-a-5760d8d6-9290-4ef7-9dfd-da56a93f66ef#ref=rss)
-### sechs
-
-* [https://www.spiegel.de/wirtschaft/soziales/bundesverfassungsgericht-weist-klage-gegen-solidaritaetszuschlag-ab](https://www.spiegel.de/wirtschaft/soziales/bundesverfassungsgericht-weist-klage-gegen-solidaritaetszuschlag-ab-a-5760d8d6-9290-4ef7-9dfd-da56a93f66ef#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/razzia-gegen-eritreische-regierungsgegner-durchsuchungen-in-sechs-bundeslaendern](https://www.spiegel.de/panorama/justiz/razzia-gegen-eritreische-regierungsgegner-durchsuchungen-in-sechs-bundeslaendern-a-732b1b34-da1f-44a3-94da-2bdd9d75e99a#ref=rss)
-### frust
-
-* [https://www.spiegel.de/politik/deutschland/cdu-in-kuehlungsborn-frust-ueber-bundespartei-zahlreiche-mitglieder-treten-offenbar-aus-cdu-stadtverband-aus](https://www.spiegel.de/politik/deutschland/cdu-in-kuehlungsborn-frust-ueber-bundespartei-zahlreiche-mitglieder-treten-offenbar-aus-cdu-stadtverband-aus-a-5aa7168e-7313-4e9b-96a6-8d7a132127fd#ref=rss)
-### post
-
-* [https://www.spiegel.de/wirtschaft/deutsche-post-und-telekom-bund-der-steuerzahler-bringt-verkauf-von-bundesbeteiligungen-ins-spiel](https://www.spiegel.de/wirtschaft/deutsche-post-und-telekom-bund-der-steuerzahler-bringt-verkauf-von-bundesbeteiligungen-ins-spiel-a-5d1c8e61-fe49-4ba0-a955-10e3864296d3#ref=rss)
-### telekom
-
-* [https://www.spiegel.de/wirtschaft/deutsche-post-und-telekom-bund-der-steuerzahler-bringt-verkauf-von-bundesbeteiligungen-ins-spiel](https://www.spiegel.de/wirtschaft/deutsche-post-und-telekom-bund-der-steuerzahler-bringt-verkauf-von-bundesbeteiligungen-ins-spiel-a-5d1c8e61-fe49-4ba0-a955-10e3864296d3#ref=rss)
-### eritreische
-
-* [https://www.spiegel.de/panorama/justiz/razzia-gegen-eritreische-regierungsgegner-durchsuchungen-in-sechs-bundeslaendern](https://www.spiegel.de/panorama/justiz/razzia-gegen-eritreische-regierungsgegner-durchsuchungen-in-sechs-bundeslaendern-a-732b1b34-da1f-44a3-94da-2bdd9d75e99a#ref=rss)
-### regierungsgegner
-
-* [https://www.spiegel.de/panorama/justiz/razzia-gegen-eritreische-regierungsgegner-durchsuchungen-in-sechs-bundeslaendern](https://www.spiegel.de/panorama/justiz/razzia-gegen-eritreische-regierungsgegner-durchsuchungen-in-sechs-bundeslaendern-a-732b1b34-da1f-44a3-94da-2bdd9d75e99a#ref=rss)
-### gehen
-
-* [https://www.spiegel.de/panorama/justiz/razzia-gegen-eritreische-regierungsgegner-durchsuchungen-in-sechs-bundeslaendern](https://www.spiegel.de/panorama/justiz/razzia-gegen-eritreische-regierungsgegner-durchsuchungen-in-sechs-bundeslaendern-a-732b1b34-da1f-44a3-94da-2bdd9d75e99a#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-erneut-massenproteste-gegen-recep-tayyip-erdogan-grossdemo-fuer-samstag-angekuendigt](https://www.spiegel.de/ausland/tuerkei-erneut-massenproteste-gegen-recep-tayyip-erdogan-grossdemo-fuer-samstag-angekuendigt-a-58bd6d0d-d0bd-4aaa-b3c2-a2b96602dc00#ref=rss)
-### lüneburg
-
-* [https://www.spiegel.de/panorama/justiz/lueneburg-straftaeter-aus-guinea-bissau-so-gelang-die-abschiebung-von-sadjo-s-f](https://www.spiegel.de/panorama/justiz/lueneburg-straftaeter-aus-guinea-bissau-so-gelang-die-abschiebung-von-sadjo-s-f-a-df20f766-4fba-4e12-ae77-d9bce0747ad7#ref=rss)
-### gelang
-
-* [https://www.spiegel.de/panorama/justiz/lueneburg-straftaeter-aus-guinea-bissau-so-gelang-die-abschiebung-von-sadjo-s-f](https://www.spiegel.de/panorama/justiz/lueneburg-straftaeter-aus-guinea-bissau-so-gelang-die-abschiebung-von-sadjo-s-f-a-df20f766-4fba-4e12-ae77-d9bce0747ad7#ref=rss)
-### jennifer
-
-* [https://www.spiegel.de/panorama/leute/jennifer-lopez-hat-nach-scheidung-von-ben-affleck-offenbar-ein-neues-zuhause-gefunden](https://www.spiegel.de/panorama/leute/jennifer-lopez-hat-nach-scheidung-von-ben-affleck-offenbar-ein-neues-zuhause-gefunden-a-3f9e0715-e141-4d69-8d3b-3e64d4670823#ref=rss)
-### lopez
-
-* [https://www.spiegel.de/panorama/leute/jennifer-lopez-hat-nach-scheidung-von-ben-affleck-offenbar-ein-neues-zuhause-gefunden](https://www.spiegel.de/panorama/leute/jennifer-lopez-hat-nach-scheidung-von-ben-affleck-offenbar-ein-neues-zuhause-gefunden-a-3f9e0715-e141-4d69-8d3b-3e64d4670823#ref=rss)
-### scheidung
-
-* [https://www.spiegel.de/panorama/leute/jennifer-lopez-hat-nach-scheidung-von-ben-affleck-offenbar-ein-neues-zuhause-gefunden](https://www.spiegel.de/panorama/leute/jennifer-lopez-hat-nach-scheidung-von-ben-affleck-offenbar-ein-neues-zuhause-gefunden-a-3f9e0715-e141-4d69-8d3b-3e64d4670823#ref=rss)
-### ben
-
-* [https://www.spiegel.de/panorama/leute/jennifer-lopez-hat-nach-scheidung-von-ben-affleck-offenbar-ein-neues-zuhause-gefunden](https://www.spiegel.de/panorama/leute/jennifer-lopez-hat-nach-scheidung-von-ben-affleck-offenbar-ein-neues-zuhause-gefunden-a-3f9e0715-e141-4d69-8d3b-3e64d4670823#ref=rss)
-### affleck
-
-* [https://www.spiegel.de/panorama/leute/jennifer-lopez-hat-nach-scheidung-von-ben-affleck-offenbar-ein-neues-zuhause-gefunden](https://www.spiegel.de/panorama/leute/jennifer-lopez-hat-nach-scheidung-von-ben-affleck-offenbar-ein-neues-zuhause-gefunden-a-3f9e0715-e141-4d69-8d3b-3e64d4670823#ref=rss)
-### schauspieler
-
-* [https://www.spiegel.de/panorama/leute/jennifer-lopez-hat-nach-scheidung-von-ben-affleck-offenbar-ein-neues-zuhause-gefunden](https://www.spiegel.de/panorama/leute/jennifer-lopez-hat-nach-scheidung-von-ben-affleck-offenbar-ein-neues-zuhause-gefunden-a-3f9e0715-e141-4d69-8d3b-3e64d4670823#ref=rss)
-* [https://www.spiegel.de/kultur/gerard-depardieu-vor-gericht-frankreichs-nationalheld-taumelt](https://www.spiegel.de/kultur/gerard-depardieu-vor-gericht-frankreichs-nationalheld-taumelt-a-9f0e46df-fa7b-4460-8b98-40248e51f0f5#ref=rss)
+* [https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle](https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle-a-22ecf8d5-1a19-4a80-9db4-5c106bac3792#ref=rss)
+* [https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle-podcast](https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle-podcast-a-7a1c23c5-9abd-44cf-a21a-292c83702ee8#ref=rss)
+* [https://www.spiegel.de/kultur/tv/apple-tv-serie-the-studio-mit-seth-rogen-lachen-mit-schmerzen](https://www.spiegel.de/kultur/tv/apple-tv-serie-the-studio-mit-seth-rogen-lachen-mit-schmerzen-a-de287f36-04dd-4a0e-9bb1-9bb21a139642#ref=rss)
 ### türkei
 
-* [https://www.spiegel.de/ausland/tuerkei-erneut-massenproteste-gegen-recep-tayyip-erdogan-grossdemo-fuer-samstag-angekuendigt](https://www.spiegel.de/ausland/tuerkei-erneut-massenproteste-gegen-recep-tayyip-erdogan-grossdemo-fuer-samstag-angekuendigt-a-58bd6d0d-d0bd-4aaa-b3c2-a2b96602dc00#ref=rss)
-### tausende
+* [https://www.spiegel.de/ausland/tuerkei-nuri-aslan-wird-interims-ob-von-istanbul](https://www.spiegel.de/ausland/tuerkei-nuri-aslan-wird-interims-ob-von-istanbul-a-61dc4377-cedb-4ac5-9132-ebe9968c6080#ref=rss)
+* [https://www.spiegel.de/ausland/griechenland-kadetten-verunglimpfen-bei-parade-die-tuerkei-ankara-fordert-klarstellung](https://www.spiegel.de/ausland/griechenland-kadetten-verunglimpfen-bei-parade-die-tuerkei-ankara-fordert-klarstellung-a-d9283055-b206-45f7-9638-9e56778725fc#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/ausland/tuerkei-erneut-massenproteste-gegen-recep-tayyip-erdogan-grossdemo-fuer-samstag-angekuendigt](https://www.spiegel.de/ausland/tuerkei-erneut-massenproteste-gegen-recep-tayyip-erdogan-grossdemo-fuer-samstag-angekuendigt-a-58bd6d0d-d0bd-4aaa-b3c2-a2b96602dc00#ref=rss)
-* [https://www.spiegel.de/panorama/suedkorea-mindestens-20-menschen-sterben-bei-waldbraenden](https://www.spiegel.de/panorama/suedkorea-mindestens-20-menschen-sterben-bei-waldbraenden-a-0b3e53e3-6b8e-417c-a90a-744e27dcb4ad#ref=rss)
-### südkorea
+* [https://www.spiegel.de/gesundheit/diagnose/darmkrebs-warum-immer-weniger-menschen-in-deutschland-daran-sterben](https://www.spiegel.de/gesundheit/diagnose/darmkrebs-warum-immer-weniger-menschen-in-deutschland-daran-sterben-a-51ebc9ef-76e6-4742-ad75-dff41909919d#ref=rss)
+* [https://www.spiegel.de/kultur/musik/lady-gaga-mayhem-welttournee-mit-zwei-konzerten-in-berlin](https://www.spiegel.de/kultur/musik/lady-gaga-mayhem-welttournee-mit-zwei-konzerten-in-berlin-a-fb473f6b-9d13-4ad7-bde8-6ab10eefa5b1#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/panorama/suedkorea-mindestens-20-menschen-sterben-bei-waldbraenden](https://www.spiegel.de/panorama/suedkorea-mindestens-20-menschen-sterben-bei-waldbraenden-a-0b3e53e3-6b8e-417c-a90a-744e27dcb4ad#ref=rss)
-### dennoch
+* [https://www.spiegel.de/gesundheit/diagnose/darmkrebs-warum-immer-weniger-menschen-in-deutschland-daran-sterben](https://www.spiegel.de/gesundheit/diagnose/darmkrebs-warum-immer-weniger-menschen-in-deutschland-daran-sterben-a-51ebc9ef-76e6-4742-ad75-dff41909919d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/nasa-loescht-comics-ueber-astronautin-callie](https://www.spiegel.de/wissenschaft/weltall/nasa-loescht-comics-ueber-astronautin-callie-a-426385c0-d645-4a26-a6bf-e5f74e98dfab#ref=rss)
+* [https://www.spiegel.de/kultur/musik/lady-gaga-mayhem-welttournee-mit-zwei-konzerten-in-berlin](https://www.spiegel.de/kultur/musik/lady-gaga-mayhem-welttournee-mit-zwei-konzerten-in-berlin-a-fb473f6b-9d13-4ad7-bde8-6ab10eefa5b1#ref=rss)
+### wo
 
-* [https://www.spiegel.de/panorama/suedkorea-mindestens-20-menschen-sterben-bei-waldbraenden](https://www.spiegel.de/panorama/suedkorea-mindestens-20-menschen-sterben-bei-waldbraenden-a-0b3e53e3-6b8e-417c-a90a-744e27dcb4ad#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-anke-rehlinger-bekraeftigt-absage-fuer-spd-vorsitz](https://www.spiegel.de/politik/deutschland/spd-anke-rehlinger-bekraeftigt-absage-fuer-spd-vorsitz-a-9f22c5f9-1c59-4256-b64c-07dedb50b6c5#ref=rss)
-### amazon
+* [https://www.spiegel.de/gesundheit/diagnose/darmkrebs-warum-immer-weniger-menschen-in-deutschland-daran-sterben](https://www.spiegel.de/gesundheit/diagnose/darmkrebs-warum-immer-weniger-menschen-in-deutschland-daran-sterben-a-51ebc9ef-76e6-4742-ad75-dff41909919d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/immobilienpreise-wo-sie-am-staerksten-gesunken-sind-und-wo-es-schon-wieder-aufwaertsgeht](https://www.spiegel.de/wirtschaft/service/immobilienpreise-wo-sie-am-staerksten-gesunken-sind-und-wo-es-schon-wieder-aufwaertsgeht-a-74926a19-dba8-43ba-a95b-c91b4e9cbac0#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/kampf-gegen-faelschungen-amazon-zieht-15-millionen-produkte-aus-dem-verkehr](https://www.spiegel.de/wirtschaft/unternehmen/kampf-gegen-faelschungen-amazon-zieht-15-millionen-produkte-aus-dem-verkehr-a-66efc7c8-5e99-472e-b86d-72da25c83641#ref=rss)
-### 15
+* [https://www.spiegel.de/wissenschaft/weltall/nasa-loescht-comics-ueber-astronautin-callie](https://www.spiegel.de/wissenschaft/weltall/nasa-loescht-comics-ueber-astronautin-callie-a-426385c0-d645-4a26-a6bf-e5f74e98dfab#ref=rss)
+* [https://www.spiegel.de/kultur/angriff-auf-hamdan-ballal-yuval-abraham-kritisiert-oscar-academy](https://www.spiegel.de/kultur/angriff-auf-hamdan-ballal-yuval-abraham-kritisiert-oscar-academy-a-7d34b697-d5d0-4402-bb11-67d8e8e97717#ref=rss)
+* [https://www.spiegel.de/ausland/litauen-vier-us-soldaten-nach-uebung-an-grenze-zu-belarus-vermisst](https://www.spiegel.de/ausland/litauen-vier-us-soldaten-nach-uebung-an-grenze-zu-belarus-vermisst-a-a8e0c956-17ff-4fdb-92f2-05407ab8ee6a#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/kampf-gegen-faelschungen-amazon-zieht-15-millionen-produkte-aus-dem-verkehr](https://www.spiegel.de/wirtschaft/unternehmen/kampf-gegen-faelschungen-amazon-zieht-15-millionen-produkte-aus-dem-verkehr-a-66efc7c8-5e99-472e-b86d-72da25c83641#ref=rss)
-### millionen
+* [https://www.spiegel.de/netzwelt/apps/aldi-talk-unlimited-das-taugen-aldis-neue-quasi-flatrates-wirklich](https://www.spiegel.de/netzwelt/apps/aldi-talk-unlimited-das-taugen-aldis-neue-quasi-flatrates-wirklich-a-755ab879-f48f-4faa-9641-00ffcca36f54#ref=rss)
+* [https://www.spiegel.de/kultur/musik/lady-gaga-mayhem-welttournee-mit-zwei-konzerten-in-berlin](https://www.spiegel.de/kultur/musik/lady-gaga-mayhem-welttournee-mit-zwei-konzerten-in-berlin-a-fb473f6b-9d13-4ad7-bde8-6ab10eefa5b1#ref=rss)
+* [https://www.spiegel.de/kultur/kino/mond-regisseurin-kurdwin-ayub-hackbeil-gegen-das-klischee](https://www.spiegel.de/kultur/kino/mond-regisseurin-kurdwin-ayub-hackbeil-gegen-das-klischee-a-127a947f-82f3-4d42-83e2-3bdb0caf5cb1#ref=rss)
+### cdu
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/kampf-gegen-faelschungen-amazon-zieht-15-millionen-produkte-aus-dem-verkehr](https://www.spiegel.de/wirtschaft/unternehmen/kampf-gegen-faelschungen-amazon-zieht-15-millionen-produkte-aus-dem-verkehr-a-66efc7c8-5e99-472e-b86d-72da25c83641#ref=rss)
-### gazastreifen
+* [https://www.spiegel.de/politik/deutschland/cdu-csu-spd-auf-diese-ergebnisse-haben-sich-die-schwarz-roten-unterhaendler-verstaendigt](https://www.spiegel.de/politik/deutschland/cdu-csu-spd-auf-diese-ergebnisse-haben-sich-die-schwarz-roten-unterhaendler-verstaendigt-a-845262a3-1b5f-46f9-b91f-df22603744e9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/friedrich-merz-cdu-macht-in-der-wirtschaftspolitik-einen-grossen-fehler-kolumne](https://www.spiegel.de/wirtschaft/unternehmen/friedrich-merz-cdu-macht-in-der-wirtschaftspolitik-einen-grossen-fehler-kolumne-a-a731f0e2-4879-408b-a2c7-0d565db916e4#ref=rss)
+### unternehmen
 
-* [https://www.spiegel.de/ausland/hunderte-palaestinenser-protestieren-im-gazastreifen-gegen-hamas](https://www.spiegel.de/ausland/hunderte-palaestinenser-protestieren-im-gazastreifen-gegen-hamas-a-4ef55b52-ea1b-4a64-9dd2-19adb200ef4b#ref=rss)
-### hamas
+* [https://www.spiegel.de/wirtschaft/unternehmen/friedrich-merz-cdu-macht-in-der-wirtschaftspolitik-einen-grossen-fehler-kolumne](https://www.spiegel.de/wirtschaft/unternehmen/friedrich-merz-cdu-macht-in-der-wirtschaftspolitik-einen-grossen-fehler-kolumne-a-a731f0e2-4879-408b-a2c7-0d565db916e4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/adidas-gericht-untersagt-nach-klage-der-deutschen-umwelthilfe-werbung-mit-klimazielen](https://www.spiegel.de/wirtschaft/unternehmen/adidas-gericht-untersagt-nach-klage-der-deutschen-umwelthilfe-werbung-mit-klimazielen-a-bdbf5a92-8421-422c-8e96-1e02cbc6f67a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/audi-siemens-co-dax-konzerne-bauen-erstmals-seit-jahren-jobs-ab](https://www.spiegel.de/wirtschaft/unternehmen/audi-siemens-co-dax-konzerne-bauen-erstmals-seit-jahren-jobs-ab-a-b2635781-e4ca-4b07-a1ea-fc37be7ceeea#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/ausland/hunderte-palaestinenser-protestieren-im-gazastreifen-gegen-hamas](https://www.spiegel.de/ausland/hunderte-palaestinenser-protestieren-im-gazastreifen-gegen-hamas-a-4ef55b52-ea1b-4a64-9dd2-19adb200ef4b#ref=rss)
-### kinder
+* [https://www.spiegel.de/wirtschaft/service/immobilienpreise-wo-sie-am-staerksten-gesunken-sind-und-wo-es-schon-wieder-aufwaertsgeht](https://www.spiegel.de/wirtschaft/service/immobilienpreise-wo-sie-am-staerksten-gesunken-sind-und-wo-es-schon-wieder-aufwaertsgeht-a-74926a19-dba8-43ba-a95b-c91b4e9cbac0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/audi-siemens-co-dax-konzerne-bauen-erstmals-seit-jahren-jobs-ab](https://www.spiegel.de/wirtschaft/unternehmen/audi-siemens-co-dax-konzerne-bauen-erstmals-seit-jahren-jobs-ab-a-b2635781-e4ca-4b07-a1ea-fc37be7ceeea#ref=rss)
+### schwangerschaftsabbrüche
 
-* [https://www.spiegel.de/panorama/usa-kleinflugzeug-stuerzt-auf-zugefrorenen-see-vater-und-zwei-kinder-nach-zwoelf-stunden-gerettet](https://www.spiegel.de/panorama/usa-kleinflugzeug-stuerzt-auf-zugefrorenen-see-vater-und-zwei-kinder-nach-zwoelf-stunden-gerettet-a-2d6e6043-43a1-47ad-b788-a4b23e556c64#ref=rss)
-### gérard
+* [https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle](https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle-a-22ecf8d5-1a19-4a80-9db4-5c106bac3792#ref=rss)
+* [https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle-podcast](https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle-podcast-a-7a1c23c5-9abd-44cf-a21a-292c83702ee8#ref=rss)
+### darum
 
-* [https://www.spiegel.de/kultur/gerard-depardieu-vor-gericht-frankreichs-nationalheld-taumelt](https://www.spiegel.de/kultur/gerard-depardieu-vor-gericht-frankreichs-nationalheld-taumelt-a-9f0e46df-fa7b-4460-8b98-40248e51f0f5#ref=rss)
-### sieht
+* [https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle](https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle-a-22ecf8d5-1a19-4a80-9db4-5c106bac3792#ref=rss)
+* [https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle-podcast](https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle-podcast-a-7a1c23c5-9abd-44cf-a21a-292c83702ee8#ref=rss)
+### abtreibungsgesetz
 
-* [https://www.spiegel.de/kultur/gerard-depardieu-vor-gericht-frankreichs-nationalheld-taumelt](https://www.spiegel.de/kultur/gerard-depardieu-vor-gericht-frankreichs-nationalheld-taumelt-a-9f0e46df-fa7b-4460-8b98-40248e51f0f5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/joschka-fischer-ex-aussenminister-sieht-usa-nicht-mehr-als-vollwertige-demokratie](https://www.spiegel.de/politik/deutschland/joschka-fischer-ex-aussenminister-sieht-usa-nicht-mehr-als-vollwertige-demokratie-a-d7d7ad91-cbb2-4298-8fb7-6ebdac3b908a#ref=rss)
-### bahn
+* [https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle](https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle-a-22ecf8d5-1a19-4a80-9db4-5c106bac3792#ref=rss)
+* [https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle-podcast](https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle-podcast-a-7a1c23c5-9abd-44cf-a21a-292c83702ee8#ref=rss)
+### rolle
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-union-und-spd-wollen-reform-aber-keine-zerschlagung](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-union-und-spd-wollen-reform-aber-keine-zerschlagung-a-c7f0f335-5e11-449c-9dd1-370260f77d95#ref=rss)
-### zerschlagung
+* [https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle](https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle-a-22ecf8d5-1a19-4a80-9db4-5c106bac3792#ref=rss)
+* [https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle-podcast](https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle-podcast-a-7a1c23c5-9abd-44cf-a21a-292c83702ee8#ref=rss)
+### fordern
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-union-und-spd-wollen-reform-aber-keine-zerschlagung](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-union-und-spd-wollen-reform-aber-keine-zerschlagung-a-c7f0f335-5e11-449c-9dd1-370260f77d95#ref=rss)
-### joschka
+* [https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle](https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle-a-22ecf8d5-1a19-4a80-9db4-5c106bac3792#ref=rss)
+* [https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle-podcast](https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle-podcast-a-7a1c23c5-9abd-44cf-a21a-292c83702ee8#ref=rss)
+### spdpolitikerinnen
 
-* [https://www.spiegel.de/politik/deutschland/joschka-fischer-ex-aussenminister-sieht-usa-nicht-mehr-als-vollwertige-demokratie](https://www.spiegel.de/politik/deutschland/joschka-fischer-ex-aussenminister-sieht-usa-nicht-mehr-als-vollwertige-demokratie-a-d7d7ad91-cbb2-4298-8fb7-6ebdac3b908a#ref=rss)
-### fischer
+* [https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle](https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle-a-22ecf8d5-1a19-4a80-9db4-5c106bac3792#ref=rss)
+* [https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle-podcast](https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle-podcast-a-7a1c23c5-9abd-44cf-a21a-292c83702ee8#ref=rss)
+### reform
 
-* [https://www.spiegel.de/politik/deutschland/joschka-fischer-ex-aussenminister-sieht-usa-nicht-mehr-als-vollwertige-demokratie](https://www.spiegel.de/politik/deutschland/joschka-fischer-ex-aussenminister-sieht-usa-nicht-mehr-als-vollwertige-demokratie-a-d7d7ad91-cbb2-4298-8fb7-6ebdac3b908a#ref=rss)
-### frühere
+* [https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle](https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle-a-22ecf8d5-1a19-4a80-9db4-5c106bac3792#ref=rss)
+* [https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle-podcast](https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle-podcast-a-7a1c23c5-9abd-44cf-a21a-292c83702ee8#ref=rss)
+### abtreibungsparagraf
 
-* [https://www.spiegel.de/politik/deutschland/joschka-fischer-ex-aussenminister-sieht-usa-nicht-mehr-als-vollwertige-demokratie](https://www.spiegel.de/politik/deutschland/joschka-fischer-ex-aussenminister-sieht-usa-nicht-mehr-als-vollwertige-demokratie-a-d7d7ad91-cbb2-4298-8fb7-6ebdac3b908a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/diego-maradona-ex-leibwaechter-bei-prozess-wegen-meineids-festgenommen](https://www.spiegel.de/panorama/justiz/diego-maradona-ex-leibwaechter-bei-prozess-wegen-meineids-festgenommen-a-d47fd64c-2577-4395-8d61-b9d91f975917#ref=rss)
-### diego
+* [https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle](https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle-a-22ecf8d5-1a19-4a80-9db4-5c106bac3792#ref=rss)
+* [https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle-podcast](https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle-podcast-a-7a1c23c5-9abd-44cf-a21a-292c83702ee8#ref=rss)
+### spiegelreporterin
 
-* [https://www.spiegel.de/panorama/justiz/diego-maradona-ex-leibwaechter-bei-prozess-wegen-meineids-festgenommen](https://www.spiegel.de/panorama/justiz/diego-maradona-ex-leibwaechter-bei-prozess-wegen-meineids-festgenommen-a-d47fd64c-2577-4395-8d61-b9d91f975917#ref=rss)
-### maradona
+* [https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle](https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle-a-22ecf8d5-1a19-4a80-9db4-5c106bac3792#ref=rss)
+* [https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle-podcast](https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle-podcast-a-7a1c23c5-9abd-44cf-a21a-292c83702ee8#ref=rss)
+### juliane
 
-* [https://www.spiegel.de/panorama/justiz/diego-maradona-ex-leibwaechter-bei-prozess-wegen-meineids-festgenommen](https://www.spiegel.de/panorama/justiz/diego-maradona-ex-leibwaechter-bei-prozess-wegen-meineids-festgenommen-a-d47fd64c-2577-4395-8d61-b9d91f975917#ref=rss)
+* [https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle](https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle-a-22ecf8d5-1a19-4a80-9db4-5c106bac3792#ref=rss)
+* [https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle-podcast](https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle-podcast-a-7a1c23c5-9abd-44cf-a21a-292c83702ee8#ref=rss)
+### löffler
+
+* [https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle](https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle-a-22ecf8d5-1a19-4a80-9db4-5c106bac3792#ref=rss)
+* [https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle-podcast](https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle-podcast-a-7a1c23c5-9abd-44cf-a21a-292c83702ee8#ref=rss)
+### erklärt
+
+* [https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle](https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle-a-22ecf8d5-1a19-4a80-9db4-5c106bac3792#ref=rss)
+* [https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle-podcast](https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle-podcast-a-7a1c23c5-9abd-44cf-a21a-292c83702ee8#ref=rss)
+### betroffene
+
+* [https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle](https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle-a-22ecf8d5-1a19-4a80-9db4-5c106bac3792#ref=rss)
+* [https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle-podcast](https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle-podcast-a-7a1c23c5-9abd-44cf-a21a-292c83702ee8#ref=rss)
+### ärzteschaft
+
+* [https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle](https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle-a-22ecf8d5-1a19-4a80-9db4-5c106bac3792#ref=rss)
+* [https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle-podcast](https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle-podcast-a-7a1c23c5-9abd-44cf-a21a-292c83702ee8#ref=rss)
+### verändern
+
+* [https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle](https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle-a-22ecf8d5-1a19-4a80-9db4-5c106bac3792#ref=rss)
+* [https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle-podcast](https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle-podcast-a-7a1c23c5-9abd-44cf-a21a-292c83702ee8#ref=rss)
+### papayas
+
+* [https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle](https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle-a-22ecf8d5-1a19-4a80-9db4-5c106bac3792#ref=rss)
+* [https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle-podcast](https://www.spiegel.de/panorama/koalitionsverhandlungen-und-schwangerschaftsabbrueche-darum-spielt-das-abtreibungsgesetz-jetzt-eine-rolle-podcast-a-7a1c23c5-9abd-44cf-a21a-292c83702ee8#ref=rss)
+### jair
+
+* [https://www.spiegel.de/ausland/brasilien-ex-praesident-jair-bolsonaro-muss-sich-vor-gericht-verantworten](https://www.spiegel.de/ausland/brasilien-ex-praesident-jair-bolsonaro-muss-sich-vor-gericht-verantworten-a-366082dc-618e-4fb8-9ebc-6dc5376b27a0#ref=rss)
+### bolsonaro
+
+* [https://www.spiegel.de/ausland/brasilien-ex-praesident-jair-bolsonaro-muss-sich-vor-gericht-verantworten](https://www.spiegel.de/ausland/brasilien-ex-praesident-jair-bolsonaro-muss-sich-vor-gericht-verantworten-a-366082dc-618e-4fb8-9ebc-6dc5376b27a0#ref=rss)
 ### prozess
 
-* [https://www.spiegel.de/panorama/justiz/diego-maradona-ex-leibwaechter-bei-prozess-wegen-meineids-festgenommen](https://www.spiegel.de/panorama/justiz/diego-maradona-ex-leibwaechter-bei-prozess-wegen-meineids-festgenommen-a-d47fd64c-2577-4395-8d61-b9d91f975917#ref=rss)
-### anke
+* [https://www.spiegel.de/ausland/brasilien-ex-praesident-jair-bolsonaro-muss-sich-vor-gericht-verantworten](https://www.spiegel.de/ausland/brasilien-ex-praesident-jair-bolsonaro-muss-sich-vor-gericht-verantworten-a-366082dc-618e-4fb8-9ebc-6dc5376b27a0#ref=rss)
+* [https://www.spiegel.de/sport/jakob-ingebrigtsen-in-norwegen-laeuft-der-prozess-gegen-den-vater-des-leichtathletik-stars](https://www.spiegel.de/sport/jakob-ingebrigtsen-in-norwegen-laeuft-der-prozess-gegen-den-vater-des-leichtathletik-stars-a-7e2a461f-356c-41b4-80ec-008eec5c21c6#ref=rss)
+### jahre
 
-* [https://www.spiegel.de/politik/deutschland/spd-anke-rehlinger-bekraeftigt-absage-fuer-spd-vorsitz](https://www.spiegel.de/politik/deutschland/spd-anke-rehlinger-bekraeftigt-absage-fuer-spd-vorsitz-a-9f22c5f9-1c59-4256-b64c-07dedb50b6c5#ref=rss)
-### rehlinger
+* [https://www.spiegel.de/ausland/brasilien-ex-praesident-jair-bolsonaro-muss-sich-vor-gericht-verantworten](https://www.spiegel.de/ausland/brasilien-ex-praesident-jair-bolsonaro-muss-sich-vor-gericht-verantworten-a-366082dc-618e-4fb8-9ebc-6dc5376b27a0#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/schinderhannes-skelett-des-legendaeren-raeubers-identifiziert](https://www.spiegel.de/wissenschaft/mensch/schinderhannes-skelett-des-legendaeren-raeubers-identifiziert-a-c6c29a64-fb95-4fe8-ab7a-b50480417a86#ref=rss)
+### humboldt
 
-* [https://www.spiegel.de/politik/deutschland/spd-anke-rehlinger-bekraeftigt-absage-fuer-spd-vorsitz](https://www.spiegel.de/politik/deutschland/spd-anke-rehlinger-bekraeftigt-absage-fuer-spd-vorsitz-a-9f22c5f9-1c59-4256-b64c-07dedb50b6c5#ref=rss)
-### gehalt
+* [https://www.spiegel.de/panorama/berlin-warum-buergerinnen-und-buerger-im-humboldt-forum-wiegenlieder-singen](https://www.spiegel.de/panorama/berlin-warum-buergerinnen-und-buerger-im-humboldt-forum-wiegenlieder-singen-a-d524b1c6-7f59-4831-8dfa-ec377c157caa#ref=rss)
+### forum
 
-* [https://www.spiegel.de/karriere/gehalt-als-bankerin-kreditanalystin-ueber-ihr-gehalt-von-90-000-euro-brutto-im-jahr](https://www.spiegel.de/karriere/gehalt-als-bankerin-kreditanalystin-ueber-ihr-gehalt-von-90-000-euro-brutto-im-jahr-a-7abf54cb-30f5-4fb2-bc4a-8a86219a07c8#ref=rss)
-### bankerin
+* [https://www.spiegel.de/panorama/berlin-warum-buergerinnen-und-buerger-im-humboldt-forum-wiegenlieder-singen](https://www.spiegel.de/panorama/berlin-warum-buergerinnen-und-buerger-im-humboldt-forum-wiegenlieder-singen-a-d524b1c6-7f59-4831-8dfa-ec377c157caa#ref=rss)
+### singen
 
-* [https://www.spiegel.de/karriere/gehalt-als-bankerin-kreditanalystin-ueber-ihr-gehalt-von-90-000-euro-brutto-im-jahr](https://www.spiegel.de/karriere/gehalt-als-bankerin-kreditanalystin-ueber-ihr-gehalt-von-90-000-euro-brutto-im-jahr-a-7abf54cb-30f5-4fb2-bc4a-8a86219a07c8#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-warum-buergerinnen-und-buerger-im-humboldt-forum-wiegenlieder-singen](https://www.spiegel.de/panorama/berlin-warum-buergerinnen-und-buerger-im-humboldt-forum-wiegenlieder-singen-a-d524b1c6-7f59-4831-8dfa-ec377c157caa#ref=rss)
+### kritisiert
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/schleswig-holstein-ex-landeswirtschaftsminister-kritisiert-regierung-fuer-northvolt-foerderung](https://www.spiegel.de/wirtschaft/unternehmen/schleswig-holstein-ex-landeswirtschaftsminister-kritisiert-regierung-fuer-northvolt-foerderung-a-039664a2-c3b7-444c-adf7-1f49bfb19f94#ref=rss)
+* [https://www.spiegel.de/kultur/angriff-auf-hamdan-ballal-yuval-abraham-kritisiert-oscar-academy](https://www.spiegel.de/kultur/angriff-auf-hamdan-ballal-yuval-abraham-kritisiert-oscar-academy-a-7d34b697-d5d0-4402-bb11-67d8e8e97717#ref=rss)
+### gescheitert
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/schleswig-holstein-ex-landeswirtschaftsminister-kritisiert-regierung-fuer-northvolt-foerderung](https://www.spiegel.de/wirtschaft/unternehmen/schleswig-holstein-ex-landeswirtschaftsminister-kritisiert-regierung-fuer-northvolt-foerderung-a-039664a2-c3b7-444c-adf7-1f49bfb19f94#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-sind-die-verhandlungen-in-riad-gescheitert](https://www.spiegel.de/ausland/ukraine-krieg-sind-die-verhandlungen-in-riad-gescheitert-a-8a342332-5c21-48e8-84b3-8e5beeeb5fac#ref=rss)
+### schinderhannes
+
+* [https://www.spiegel.de/wissenschaft/mensch/schinderhannes-skelett-des-legendaeren-raeubers-identifiziert](https://www.spiegel.de/wissenschaft/mensch/schinderhannes-skelett-des-legendaeren-raeubers-identifiziert-a-c6c29a64-fb95-4fe8-ab7a-b50480417a86#ref=rss)
+### skelett
+
+* [https://www.spiegel.de/wissenschaft/mensch/schinderhannes-skelett-des-legendaeren-raeubers-identifiziert](https://www.spiegel.de/wissenschaft/mensch/schinderhannes-skelett-des-legendaeren-raeubers-identifiziert-a-c6c29a64-fb95-4fe8-ab7a-b50480417a86#ref=rss)
+### identifiziert
+
+* [https://www.spiegel.de/wissenschaft/mensch/schinderhannes-skelett-des-legendaeren-raeubers-identifiziert](https://www.spiegel.de/wissenschaft/mensch/schinderhannes-skelett-des-legendaeren-raeubers-identifiziert-a-c6c29a64-fb95-4fe8-ab7a-b50480417a86#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/wissenschaft/mensch/schinderhannes-skelett-des-legendaeren-raeubers-identifiziert](https://www.spiegel.de/wissenschaft/mensch/schinderhannes-skelett-des-legendaeren-raeubers-identifiziert-a-c6c29a64-fb95-4fe8-ab7a-b50480417a86#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/friedrich-merz-cdu-macht-in-der-wirtschaftspolitik-einen-grossen-fehler-kolumne](https://www.spiegel.de/wirtschaft/unternehmen/friedrich-merz-cdu-macht-in-der-wirtschaftspolitik-einen-grossen-fehler-kolumne-a-a731f0e2-4879-408b-a2c7-0d565db916e4#ref=rss)
+### istanbul
+
+* [https://www.spiegel.de/ausland/tuerkei-nuri-aslan-wird-interims-ob-von-istanbul](https://www.spiegel.de/ausland/tuerkei-nuri-aslan-wird-interims-ob-von-istanbul-a-61dc4377-cedb-4ac5-9132-ebe9968c6080#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/ausland/tuerkei-nuri-aslan-wird-interims-ob-von-istanbul](https://www.spiegel.de/ausland/tuerkei-nuri-aslan-wird-interims-ob-von-istanbul-a-61dc4377-cedb-4ac5-9132-ebe9968c6080#ref=rss)
+* [https://www.spiegel.de/gesundheit/diagnose/darmkrebs-warum-immer-weniger-menschen-in-deutschland-daran-sterben](https://www.spiegel.de/gesundheit/diagnose/darmkrebs-warum-immer-weniger-menschen-in-deutschland-daran-sterben-a-51ebc9ef-76e6-4742-ad75-dff41909919d#ref=rss)
+### zahl
+
+* [https://www.spiegel.de/gesundheit/diagnose/darmkrebs-warum-immer-weniger-menschen-in-deutschland-daran-sterben](https://www.spiegel.de/gesundheit/diagnose/darmkrebs-warum-immer-weniger-menschen-in-deutschland-daran-sterben-a-51ebc9ef-76e6-4742-ad75-dff41909919d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/audi-siemens-co-dax-konzerne-bauen-erstmals-seit-jahren-jobs-ab](https://www.spiegel.de/wirtschaft/unternehmen/audi-siemens-co-dax-konzerne-bauen-erstmals-seit-jahren-jobs-ab-a-b2635781-e4ca-4b07-a1ea-fc37be7ceeea#ref=rss)
+### deutlich
+
+* [https://www.spiegel.de/gesundheit/diagnose/darmkrebs-warum-immer-weniger-menschen-in-deutschland-daran-sterben](https://www.spiegel.de/gesundheit/diagnose/darmkrebs-warum-immer-weniger-menschen-in-deutschland-daran-sterben-a-51ebc9ef-76e6-4742-ad75-dff41909919d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/immobilienpreise-wo-sie-am-staerksten-gesunken-sind-und-wo-es-schon-wieder-aufwaertsgeht](https://www.spiegel.de/wirtschaft/service/immobilienpreise-wo-sie-am-staerksten-gesunken-sind-und-wo-es-schon-wieder-aufwaertsgeht-a-74926a19-dba8-43ba-a95b-c91b4e9cbac0#ref=rss)
+### gesunken
+
+* [https://www.spiegel.de/gesundheit/diagnose/darmkrebs-warum-immer-weniger-menschen-in-deutschland-daran-sterben](https://www.spiegel.de/gesundheit/diagnose/darmkrebs-warum-immer-weniger-menschen-in-deutschland-daran-sterben-a-51ebc9ef-76e6-4742-ad75-dff41909919d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/immobilienpreise-wo-sie-am-staerksten-gesunken-sind-und-wo-es-schon-wieder-aufwaertsgeht](https://www.spiegel.de/wirtschaft/service/immobilienpreise-wo-sie-am-staerksten-gesunken-sind-und-wo-es-schon-wieder-aufwaertsgeht-a-74926a19-dba8-43ba-a95b-c91b4e9cbac0#ref=rss)
+### liegt
+
+* [https://www.spiegel.de/gesundheit/diagnose/darmkrebs-warum-immer-weniger-menschen-in-deutschland-daran-sterben](https://www.spiegel.de/gesundheit/diagnose/darmkrebs-warum-immer-weniger-menschen-in-deutschland-daran-sterben-a-51ebc9ef-76e6-4742-ad75-dff41909919d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/audi-siemens-co-dax-konzerne-bauen-erstmals-seit-jahren-jobs-ab](https://www.spiegel.de/wirtschaft/unternehmen/audi-siemens-co-dax-konzerne-bauen-erstmals-seit-jahren-jobs-ab-a-b2635781-e4ca-4b07-a1ea-fc37be7ceeea#ref=rss)
+### frauen
+
+* [https://www.spiegel.de/gesundheit/diagnose/darmkrebs-warum-immer-weniger-menschen-in-deutschland-daran-sterben](https://www.spiegel.de/gesundheit/diagnose/darmkrebs-warum-immer-weniger-menschen-in-deutschland-daran-sterben-a-51ebc9ef-76e6-4742-ad75-dff41909919d#ref=rss)
+* [https://www.spiegel.de/kultur/kino/mond-regisseurin-kurdwin-ayub-hackbeil-gegen-das-klischee](https://www.spiegel.de/kultur/kino/mond-regisseurin-kurdwin-ayub-hackbeil-gegen-das-klischee-a-127a947f-82f3-4d42-83e2-3bdb0caf5cb1#ref=rss)
+### serie
+
+* [https://www.spiegel.de/kultur/tv/apple-tv-serie-the-studio-mit-seth-rogen-lachen-mit-schmerzen](https://www.spiegel.de/kultur/tv/apple-tv-serie-the-studio-mit-seth-rogen-lachen-mit-schmerzen-a-de287f36-04dd-4a0e-9bb1-9bb21a139642#ref=rss)
+### the
+
+* [https://www.spiegel.de/kultur/tv/apple-tv-serie-the-studio-mit-seth-rogen-lachen-mit-schmerzen](https://www.spiegel.de/kultur/tv/apple-tv-serie-the-studio-mit-seth-rogen-lachen-mit-schmerzen-a-de287f36-04dd-4a0e-9bb1-9bb21a139642#ref=rss)
+### studio
+
+* [https://www.spiegel.de/kultur/tv/apple-tv-serie-the-studio-mit-seth-rogen-lachen-mit-schmerzen](https://www.spiegel.de/kultur/tv/apple-tv-serie-the-studio-mit-seth-rogen-lachen-mit-schmerzen-a-de287f36-04dd-4a0e-9bb1-9bb21a139642#ref=rss)
+### seth
+
+* [https://www.spiegel.de/kultur/tv/apple-tv-serie-the-studio-mit-seth-rogen-lachen-mit-schmerzen](https://www.spiegel.de/kultur/tv/apple-tv-serie-the-studio-mit-seth-rogen-lachen-mit-schmerzen-a-de287f36-04dd-4a0e-9bb1-9bb21a139642#ref=rss)
+### co
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-was-steht-in-den-chatverlaeufen-von-hegseth-und-co](https://www.spiegel.de/politik/deutschland/news-des-tages-was-steht-in-den-chatverlaeufen-von-hegseth-und-co-a-dd5f47c6-0e0c-4cb9-9a00-a2de8816c775#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/audi-siemens-co-dax-konzerne-bauen-erstmals-seit-jahren-jobs-ab](https://www.spiegel.de/wirtschaft/unternehmen/audi-siemens-co-dax-konzerne-bauen-erstmals-seit-jahren-jobs-ab-a-b2635781-e4ca-4b07-a1ea-fc37be7ceeea#ref=rss)
+### sauberkeit
+
+* [https://www.spiegel.de/panorama/bildung/berlin-schulen-schneiden-nur-mittelmaessig-bei-sauberkeit-ab](https://www.spiegel.de/panorama/bildung/berlin-schulen-schneiden-nur-mittelmaessig-bei-sauberkeit-ab-a-70ff4790-30a5-4cb2-9a38-0e587190f05b#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/panorama/bildung/berlin-schulen-schneiden-nur-mittelmaessig-bei-sauberkeit-ab](https://www.spiegel.de/panorama/bildung/berlin-schulen-schneiden-nur-mittelmaessig-bei-sauberkeit-ab-a-70ff4790-30a5-4cb2-9a38-0e587190f05b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/audi-siemens-co-dax-konzerne-bauen-erstmals-seit-jahren-jobs-ab](https://www.spiegel.de/wirtschaft/unternehmen/audi-siemens-co-dax-konzerne-bauen-erstmals-seit-jahren-jobs-ab-a-b2635781-e4ca-4b07-a1ea-fc37be7ceeea#ref=rss)
+### ronnie
+
+* [https://www.spiegel.de/kultur/kino/zendaya-soll-ronnie-spector-in-biopic-von-barry-jenkins-spielen](https://www.spiegel.de/kultur/kino/zendaya-soll-ronnie-spector-in-biopic-von-barry-jenkins-spielen-a-b8086d38-8f59-4f34-8e13-dc022a65e296#ref=rss)
+### barry
+
+* [https://www.spiegel.de/kultur/kino/zendaya-soll-ronnie-spector-in-biopic-von-barry-jenkins-spielen](https://www.spiegel.de/kultur/kino/zendaya-soll-ronnie-spector-in-biopic-von-barry-jenkins-spielen-a-b8086d38-8f59-4f34-8e13-dc022a65e296#ref=rss)
+### jenkins
+
+* [https://www.spiegel.de/kultur/kino/zendaya-soll-ronnie-spector-in-biopic-von-barry-jenkins-spielen](https://www.spiegel.de/kultur/kino/zendaya-soll-ronnie-spector-in-biopic-von-barry-jenkins-spielen-a-b8086d38-8f59-4f34-8e13-dc022a65e296#ref=rss)
+### spielen
+
+* [https://www.spiegel.de/kultur/kino/zendaya-soll-ronnie-spector-in-biopic-von-barry-jenkins-spielen](https://www.spiegel.de/kultur/kino/zendaya-soll-ronnie-spector-in-biopic-von-barry-jenkins-spielen-a-b8086d38-8f59-4f34-8e13-dc022a65e296#ref=rss)
+* [https://www.spiegel.de/kultur/kino/mond-regisseurin-kurdwin-ayub-hackbeil-gegen-das-klischee](https://www.spiegel.de/kultur/kino/mond-regisseurin-kurdwin-ayub-hackbeil-gegen-das-klischee-a-127a947f-82f3-4d42-83e2-3bdb0caf5cb1#ref=rss)
+### nasa
+
+* [https://www.spiegel.de/wissenschaft/weltall/nasa-loescht-comics-ueber-astronautin-callie](https://www.spiegel.de/wissenschaft/weltall/nasa-loescht-comics-ueber-astronautin-callie-a-426385c0-d645-4a26-a6bf-e5f74e98dfab#ref=rss)
+### comics
+
+* [https://www.spiegel.de/wissenschaft/weltall/nasa-loescht-comics-ueber-astronautin-callie](https://www.spiegel.de/wissenschaft/weltall/nasa-loescht-comics-ueber-astronautin-callie-a-426385c0-d645-4a26-a6bf-e5f74e98dfab#ref=rss)
+### callie
+
+* [https://www.spiegel.de/wissenschaft/weltall/nasa-loescht-comics-ueber-astronautin-callie](https://www.spiegel.de/wissenschaft/weltall/nasa-loescht-comics-ueber-astronautin-callie-a-426385c0-d645-4a26-a6bf-e5f74e98dfab#ref=rss)
+### aldi
+
+* [https://www.spiegel.de/netzwelt/apps/aldi-talk-unlimited-das-taugen-aldis-neue-quasi-flatrates-wirklich](https://www.spiegel.de/netzwelt/apps/aldi-talk-unlimited-das-taugen-aldis-neue-quasi-flatrates-wirklich-a-755ab879-f48f-4faa-9641-00ffcca36f54#ref=rss)
+### talk
+
+* [https://www.spiegel.de/netzwelt/apps/aldi-talk-unlimited-das-taugen-aldis-neue-quasi-flatrates-wirklich](https://www.spiegel.de/netzwelt/apps/aldi-talk-unlimited-das-taugen-aldis-neue-quasi-flatrates-wirklich-a-755ab879-f48f-4faa-9641-00ffcca36f54#ref=rss)
+### yuval
+
+* [https://www.spiegel.de/kultur/angriff-auf-hamdan-ballal-yuval-abraham-kritisiert-oscar-academy](https://www.spiegel.de/kultur/angriff-auf-hamdan-ballal-yuval-abraham-kritisiert-oscar-academy-a-7d34b697-d5d0-4402-bb11-67d8e8e97717#ref=rss)
+### abraham
+
+* [https://www.spiegel.de/kultur/angriff-auf-hamdan-ballal-yuval-abraham-kritisiert-oscar-academy](https://www.spiegel.de/kultur/angriff-auf-hamdan-ballal-yuval-abraham-kritisiert-oscar-academy-a-7d34b697-d5d0-4402-bb11-67d8e8e97717#ref=rss)
+### hamdan
+
+* [https://www.spiegel.de/kultur/angriff-auf-hamdan-ballal-yuval-abraham-kritisiert-oscar-academy](https://www.spiegel.de/kultur/angriff-auf-hamdan-ballal-yuval-abraham-kritisiert-oscar-academy-a-7d34b697-d5d0-4402-bb11-67d8e8e97717#ref=rss)
+### ballal
+
+* [https://www.spiegel.de/kultur/angriff-auf-hamdan-ballal-yuval-abraham-kritisiert-oscar-academy](https://www.spiegel.de/kultur/angriff-auf-hamdan-ballal-yuval-abraham-kritisiert-oscar-academy-a-7d34b697-d5d0-4402-bb11-67d8e8e97717#ref=rss)
+### drei
+
+* [https://www.spiegel.de/kultur/angriff-auf-hamdan-ballal-yuval-abraham-kritisiert-oscar-academy](https://www.spiegel.de/kultur/angriff-auf-hamdan-ballal-yuval-abraham-kritisiert-oscar-academy-a-7d34b697-d5d0-4402-bb11-67d8e8e97717#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/immobilienpreise-wo-sie-am-staerksten-gesunken-sind-und-wo-es-schon-wieder-aufwaertsgeht](https://www.spiegel.de/wirtschaft/service/immobilienpreise-wo-sie-am-staerksten-gesunken-sind-und-wo-es-schon-wieder-aufwaertsgeht-a-74926a19-dba8-43ba-a95b-c91b4e9cbac0#ref=rss)
+### riad
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-sind-die-verhandlungen-in-riad-gescheitert](https://www.spiegel.de/ausland/ukraine-krieg-sind-die-verhandlungen-in-riad-gescheitert-a-8a342332-5c21-48e8-84b3-8e5beeeb5fac#ref=rss)
+### stellt
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-sind-die-verhandlungen-in-riad-gescheitert](https://www.spiegel.de/ausland/ukraine-krieg-sind-die-verhandlungen-in-riad-gescheitert-a-8a342332-5c21-48e8-84b3-8e5beeeb5fac#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/jerome-boateng-staatsanwaltschaft-stellt-verfahren-gegen-fussballer-ein](https://www.spiegel.de/panorama/justiz/jerome-boateng-staatsanwaltschaft-stellt-verfahren-gegen-fussballer-ein-a-4e73c77a-defd-4f18-b4ec-66d268c0f3a8#ref=rss)
+### litauen
+
+* [https://www.spiegel.de/ausland/litauen-vier-us-soldaten-nach-uebung-an-grenze-zu-belarus-vermisst](https://www.spiegel.de/ausland/litauen-vier-us-soldaten-nach-uebung-an-grenze-zu-belarus-vermisst-a-a8e0c956-17ff-4fdb-92f2-05407ab8ee6a#ref=rss)
+### vier
+
+* [https://www.spiegel.de/ausland/litauen-vier-us-soldaten-nach-uebung-an-grenze-zu-belarus-vermisst](https://www.spiegel.de/ausland/litauen-vier-us-soldaten-nach-uebung-an-grenze-zu-belarus-vermisst-a-a8e0c956-17ff-4fdb-92f2-05407ab8ee6a#ref=rss)
+### übung
+
+* [https://www.spiegel.de/ausland/litauen-vier-us-soldaten-nach-uebung-an-grenze-zu-belarus-vermisst](https://www.spiegel.de/ausland/litauen-vier-us-soldaten-nach-uebung-an-grenze-zu-belarus-vermisst-a-a8e0c956-17ff-4fdb-92f2-05407ab8ee6a#ref=rss)
+### grenze
+
+* [https://www.spiegel.de/ausland/litauen-vier-us-soldaten-nach-uebung-an-grenze-zu-belarus-vermisst](https://www.spiegel.de/ausland/litauen-vier-us-soldaten-nach-uebung-an-grenze-zu-belarus-vermisst-a-a8e0c956-17ff-4fdb-92f2-05407ab8ee6a#ref=rss)
+### csu
+
+* [https://www.spiegel.de/politik/deutschland/cdu-csu-spd-auf-diese-ergebnisse-haben-sich-die-schwarz-roten-unterhaendler-verstaendigt](https://www.spiegel.de/politik/deutschland/cdu-csu-spd-auf-diese-ergebnisse-haben-sich-die-schwarz-roten-unterhaendler-verstaendigt-a-845262a3-1b5f-46f9-b91f-df22603744e9#ref=rss)
+### spd
+
+* [https://www.spiegel.de/politik/deutschland/cdu-csu-spd-auf-diese-ergebnisse-haben-sich-die-schwarz-roten-unterhaendler-verstaendigt](https://www.spiegel.de/politik/deutschland/cdu-csu-spd-auf-diese-ergebnisse-haben-sich-die-schwarz-roten-unterhaendler-verstaendigt-a-845262a3-1b5f-46f9-b91f-df22603744e9#ref=rss)
+### lady
+
+* [https://www.spiegel.de/kultur/musik/lady-gaga-mayhem-welttournee-mit-zwei-konzerten-in-berlin](https://www.spiegel.de/kultur/musik/lady-gaga-mayhem-welttournee-mit-zwei-konzerten-in-berlin-a-fb473f6b-9d13-4ad7-bde8-6ab10eefa5b1#ref=rss)
+### gaga
+
+* [https://www.spiegel.de/kultur/musik/lady-gaga-mayhem-welttournee-mit-zwei-konzerten-in-berlin](https://www.spiegel.de/kultur/musik/lady-gaga-mayhem-welttournee-mit-zwei-konzerten-in-berlin-a-fb473f6b-9d13-4ad7-bde8-6ab10eefa5b1#ref=rss)
+### macht
+
+* [https://www.spiegel.de/kultur/musik/lady-gaga-mayhem-welttournee-mit-zwei-konzerten-in-berlin](https://www.spiegel.de/kultur/musik/lady-gaga-mayhem-welttournee-mit-zwei-konzerten-in-berlin-a-fb473f6b-9d13-4ad7-bde8-6ab10eefa5b1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/friedrich-merz-cdu-macht-in-der-wirtschaftspolitik-einen-grossen-fehler-kolumne](https://www.spiegel.de/wirtschaft/unternehmen/friedrich-merz-cdu-macht-in-der-wirtschaftspolitik-einen-grossen-fehler-kolumne-a-a731f0e2-4879-408b-a2c7-0d565db916e4#ref=rss)
+### kasia
+
+* [https://www.spiegel.de/panorama/justiz/jerome-boateng-staatsanwaltschaft-stellt-verfahren-gegen-fussballer-ein](https://www.spiegel.de/panorama/justiz/jerome-boateng-staatsanwaltschaft-stellt-verfahren-gegen-fussballer-ein-a-4e73c77a-defd-4f18-b4ec-66d268c0f3a8#ref=rss)
+### lenhardt
+
+* [https://www.spiegel.de/panorama/justiz/jerome-boateng-staatsanwaltschaft-stellt-verfahren-gegen-fussballer-ein](https://www.spiegel.de/panorama/justiz/jerome-boateng-staatsanwaltschaft-stellt-verfahren-gegen-fussballer-ein-a-4e73c77a-defd-4f18-b4ec-66d268c0f3a8#ref=rss)
+### staatsanwaltschaft
+
+* [https://www.spiegel.de/panorama/justiz/jerome-boateng-staatsanwaltschaft-stellt-verfahren-gegen-fussballer-ein](https://www.spiegel.de/panorama/justiz/jerome-boateng-staatsanwaltschaft-stellt-verfahren-gegen-fussballer-ein-a-4e73c77a-defd-4f18-b4ec-66d268c0f3a8#ref=rss)
+### jérôme
+
+* [https://www.spiegel.de/panorama/justiz/jerome-boateng-staatsanwaltschaft-stellt-verfahren-gegen-fussballer-ein](https://www.spiegel.de/panorama/justiz/jerome-boateng-staatsanwaltschaft-stellt-verfahren-gegen-fussballer-ein-a-4e73c77a-defd-4f18-b4ec-66d268c0f3a8#ref=rss)
+### boateng
+
+* [https://www.spiegel.de/panorama/justiz/jerome-boateng-staatsanwaltschaft-stellt-verfahren-gegen-fussballer-ein](https://www.spiegel.de/panorama/justiz/jerome-boateng-staatsanwaltschaft-stellt-verfahren-gegen-fussballer-ein-a-4e73c77a-defd-4f18-b4ec-66d268c0f3a8#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/friedrich-merz-cdu-macht-in-der-wirtschaftspolitik-einen-grossen-fehler-kolumne](https://www.spiegel.de/wirtschaft/unternehmen/friedrich-merz-cdu-macht-in-der-wirtschaftspolitik-einen-grossen-fehler-kolumne-a-a731f0e2-4879-408b-a2c7-0d565db916e4#ref=rss)
+### merz
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/friedrich-merz-cdu-macht-in-der-wirtschaftspolitik-einen-grossen-fehler-kolumne](https://www.spiegel.de/wirtschaft/unternehmen/friedrich-merz-cdu-macht-in-der-wirtschaftspolitik-einen-grossen-fehler-kolumne-a-a731f0e2-4879-408b-a2c7-0d565db916e4#ref=rss)
+### preise
+
+* [https://www.spiegel.de/wirtschaft/service/immobilienpreise-wo-sie-am-staerksten-gesunken-sind-und-wo-es-schon-wieder-aufwaertsgeht](https://www.spiegel.de/wirtschaft/service/immobilienpreise-wo-sie-am-staerksten-gesunken-sind-und-wo-es-schon-wieder-aufwaertsgeht-a-74926a19-dba8-43ba-a95b-c91b4e9cbac0#ref=rss)
+### vielen
+
+* [https://www.spiegel.de/wirtschaft/service/immobilienpreise-wo-sie-am-staerksten-gesunken-sind-und-wo-es-schon-wieder-aufwaertsgeht](https://www.spiegel.de/wirtschaft/service/immobilienpreise-wo-sie-am-staerksten-gesunken-sind-und-wo-es-schon-wieder-aufwaertsgeht-a-74926a19-dba8-43ba-a95b-c91b4e9cbac0#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/paare-brechen-oft-schon-ein-bis-zwei-jahre-vor-der-trennung-miteinander](https://www.spiegel.de/wissenschaft/mensch/paare-brechen-oft-schon-ein-bis-zwei-jahre-vor-der-trennung-miteinander-a-b3e2988a-6fb0-4755-8133-5b5a30b01058#ref=rss)
+### beziehungen
+
+* [https://www.spiegel.de/wissenschaft/mensch/paare-brechen-oft-schon-ein-bis-zwei-jahre-vor-der-trennung-miteinander](https://www.spiegel.de/wissenschaft/mensch/paare-brechen-oft-schon-ein-bis-zwei-jahre-vor-der-trennung-miteinander-a-b3e2988a-6fb0-4755-8133-5b5a30b01058#ref=rss)
+### spät
+
+* [https://www.spiegel.de/wissenschaft/mensch/paare-brechen-oft-schon-ein-bis-zwei-jahre-vor-der-trennung-miteinander](https://www.spiegel.de/wissenschaft/mensch/paare-brechen-oft-schon-ein-bis-zwei-jahre-vor-der-trennung-miteinander-a-b3e2988a-6fb0-4755-8133-5b5a30b01058#ref=rss)
+### gehen
+
+* [https://www.spiegel.de/wissenschaft/mensch/paare-brechen-oft-schon-ein-bis-zwei-jahre-vor-der-trennung-miteinander](https://www.spiegel.de/wissenschaft/mensch/paare-brechen-oft-schon-ein-bis-zwei-jahre-vor-der-trennung-miteinander-a-b3e2988a-6fb0-4755-8133-5b5a30b01058#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundesinnenministerin-nancy-faeser-besucht-jordanien-gespraeche-ueber-flucht-migration-und-sicherheit](https://www.spiegel.de/politik/deutschland/bundesinnenministerin-nancy-faeser-besucht-jordanien-gespraeche-ueber-flucht-migration-und-sicherheit-a-7a0a1dc4-490c-4f04-ad80-5c92e784e5a0#ref=rss)
+### führt
+
+* [https://www.spiegel.de/ausland/griechenland-kadetten-verunglimpfen-bei-parade-die-tuerkei-ankara-fordert-klarstellung](https://www.spiegel.de/ausland/griechenland-kadetten-verunglimpfen-bei-parade-die-tuerkei-ankara-fordert-klarstellung-a-d9283055-b206-45f7-9638-9e56778725fc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundesinnenministerin-nancy-faeser-besucht-jordanien-gespraeche-ueber-flucht-migration-und-sicherheit](https://www.spiegel.de/politik/deutschland/bundesinnenministerin-nancy-faeser-besucht-jordanien-gespraeche-ueber-flucht-migration-und-sicherheit-a-7a0a1dc4-490c-4f04-ad80-5c92e784e5a0#ref=rss)
+### nancy
+
+* [https://www.spiegel.de/politik/deutschland/bundesinnenministerin-nancy-faeser-besucht-jordanien-gespraeche-ueber-flucht-migration-und-sicherheit](https://www.spiegel.de/politik/deutschland/bundesinnenministerin-nancy-faeser-besucht-jordanien-gespraeche-ueber-flucht-migration-und-sicherheit-a-7a0a1dc4-490c-4f04-ad80-5c92e784e5a0#ref=rss)
+### faeser
+
+* [https://www.spiegel.de/politik/deutschland/bundesinnenministerin-nancy-faeser-besucht-jordanien-gespraeche-ueber-flucht-migration-und-sicherheit](https://www.spiegel.de/politik/deutschland/bundesinnenministerin-nancy-faeser-besucht-jordanien-gespraeche-ueber-flucht-migration-und-sicherheit-a-7a0a1dc4-490c-4f04-ad80-5c92e784e5a0#ref=rss)
+### jordanien
+
+* [https://www.spiegel.de/politik/deutschland/bundesinnenministerin-nancy-faeser-besucht-jordanien-gespraeche-ueber-flucht-migration-und-sicherheit](https://www.spiegel.de/politik/deutschland/bundesinnenministerin-nancy-faeser-besucht-jordanien-gespraeche-ueber-flucht-migration-und-sicherheit-a-7a0a1dc4-490c-4f04-ad80-5c92e784e5a0#ref=rss)
+### kurdwin
+
+* [https://www.spiegel.de/kultur/kino/mond-regisseurin-kurdwin-ayub-hackbeil-gegen-das-klischee](https://www.spiegel.de/kultur/kino/mond-regisseurin-kurdwin-ayub-hackbeil-gegen-das-klischee-a-127a947f-82f3-4d42-83e2-3bdb0caf5cb1#ref=rss)
+### ayub
+
+* [https://www.spiegel.de/kultur/kino/mond-regisseurin-kurdwin-ayub-hackbeil-gegen-das-klischee](https://www.spiegel.de/kultur/kino/mond-regisseurin-kurdwin-ayub-hackbeil-gegen-das-klischee-a-127a947f-82f3-4d42-83e2-3bdb0caf5cb1#ref=rss)
+### jakob
+
+* [https://www.spiegel.de/sport/jakob-ingebrigtsen-in-norwegen-laeuft-der-prozess-gegen-den-vater-des-leichtathletik-stars](https://www.spiegel.de/sport/jakob-ingebrigtsen-in-norwegen-laeuft-der-prozess-gegen-den-vater-des-leichtathletik-stars-a-7e2a461f-356c-41b4-80ec-008eec5c21c6#ref=rss)
+### ingebrigtsen
+
+* [https://www.spiegel.de/sport/jakob-ingebrigtsen-in-norwegen-laeuft-der-prozess-gegen-den-vater-des-leichtathletik-stars](https://www.spiegel.de/sport/jakob-ingebrigtsen-in-norwegen-laeuft-der-prozess-gegen-den-vater-des-leichtathletik-stars-a-7e2a461f-356c-41b4-80ec-008eec5c21c6#ref=rss)
+### geschwister
+
+* [https://www.spiegel.de/sport/jakob-ingebrigtsen-in-norwegen-laeuft-der-prozess-gegen-den-vater-des-leichtathletik-stars](https://www.spiegel.de/sport/jakob-ingebrigtsen-in-norwegen-laeuft-der-prozess-gegen-den-vater-des-leichtathletik-stars-a-7e2a461f-356c-41b4-80ec-008eec5c21c6#ref=rss)
+### vater
+
+* [https://www.spiegel.de/sport/jakob-ingebrigtsen-in-norwegen-laeuft-der-prozess-gegen-den-vater-des-leichtathletik-stars](https://www.spiegel.de/sport/jakob-ingebrigtsen-in-norwegen-laeuft-der-prozess-gegen-den-vater-des-leichtathletik-stars-a-7e2a461f-356c-41b4-80ec-008eec5c21c6#ref=rss)
+### adidas
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/adidas-gericht-untersagt-nach-klage-der-deutschen-umwelthilfe-werbung-mit-klimazielen](https://www.spiegel.de/wirtschaft/unternehmen/adidas-gericht-untersagt-nach-klage-der-deutschen-umwelthilfe-werbung-mit-klimazielen-a-bdbf5a92-8421-422c-8e96-1e02cbc6f67a#ref=rss)
+### umwelthilfe
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/adidas-gericht-untersagt-nach-klage-der-deutschen-umwelthilfe-werbung-mit-klimazielen](https://www.spiegel.de/wirtschaft/unternehmen/adidas-gericht-untersagt-nach-klage-der-deutschen-umwelthilfe-werbung-mit-klimazielen-a-bdbf5a92-8421-422c-8e96-1e02cbc6f67a#ref=rss)
+### erstmals
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/audi-siemens-co-dax-konzerne-bauen-erstmals-seit-jahren-jobs-ab](https://www.spiegel.de/wirtschaft/unternehmen/audi-siemens-co-dax-konzerne-bauen-erstmals-seit-jahren-jobs-ab-a-b2635781-e4ca-4b07-a1ea-fc37be7ceeea#ref=rss)
+### jobs
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/audi-siemens-co-dax-konzerne-bauen-erstmals-seit-jahren-jobs-ab](https://www.spiegel.de/wirtschaft/unternehmen/audi-siemens-co-dax-konzerne-bauen-erstmals-seit-jahren-jobs-ab-a-b2635781-e4ca-4b07-a1ea-fc37be7ceeea#ref=rss)
+### aktuelle
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/audi-siemens-co-dax-konzerne-bauen-erstmals-seit-jahren-jobs-ab](https://www.spiegel.de/wirtschaft/unternehmen/audi-siemens-co-dax-konzerne-bauen-erstmals-seit-jahren-jobs-ab-a-b2635781-e4ca-4b07-a1ea-fc37be7ceeea#ref=rss)
 
