@@ -4,335 +4,341 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### trump
+### thailand
 
-* [https://www.spiegel.de/wirtschaft/handelskonflikt-mit-den-usa-europas-prinzipien-im-kampf-gegen-strafzoelle](https://www.spiegel.de/wirtschaft/handelskonflikt-mit-den-usa-europas-prinzipien-im-kampf-gegen-strafzoelle-a-1d83c0fb-57c5-405b-be35-a37069375d5f#ref=rss)
-* [https://www.spiegel.de/politik/ukraine-unterstuetzerkonferenz-in-paris-emmanuel-macron-warnt-donald-trump-vor-zoellen](https://www.spiegel.de/politik/ukraine-unterstuetzerkonferenz-in-paris-emmanuel-macron-warnt-donald-trump-vor-zoellen-a-05eb2637-588b-493a-a70d-e81ba2b587f2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-autozoelle-gletscherschmelze](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-autozoelle-gletscherschmelze-a-471b2e23-bf46-4d69-81f4-89a1deaebd75#ref=rss)
-* [https://www.spiegel.de/ausland/klimakonferenz-cop30-in-brasilien-die-engagierten-laender-muessen-einander-beistehen](https://www.spiegel.de/ausland/klimakonferenz-cop30-in-brasilien-die-engagierten-laender-muessen-einander-beistehen-a-e3eb38d1-2f2b-45c0-9c5f-7e9d9df572d4#ref=rss)
-* [https://www.spiegel.de/kultur/donald-trump-kunsthistorikerin-analysiert-goldene-dekorationen-im-oval-office](https://www.spiegel.de/kultur/donald-trump-kunsthistorikerin-analysiert-goldene-dekorationen-im-oval-office-a-aae86711-365b-42e3-b47d-51c0e63816a9#ref=rss)
-* [https://www.spiegel.de/wissenschaft/amerikas-universitaeten-brauchen-mut-zum-widerstand](https://www.spiegel.de/wissenschaft/amerikas-universitaeten-brauchen-mut-zum-widerstand-a-e889046f-e82b-4c75-b9ab-654cc229e08b#ref=rss)
-### donald
+* [https://www.spiegel.de/ausland/thailand-und-myanmar-das-ist-ueber-das-erdbeben-in-suedostasien-bekannt](https://www.spiegel.de/ausland/thailand-und-myanmar-das-ist-ueber-das-erdbeben-in-suedostasien-bekannt-a-0c7a533b-69d2-4c97-bf80-c7c8a651fecf#ref=rss)
+* [https://www.spiegel.de/panorama/bangkok-thailand-amateurvideos-zeigen-folgen-von-schwerem-erdbeben](https://www.spiegel.de/panorama/bangkok-thailand-amateurvideos-zeigen-folgen-von-schwerem-erdbeben-a-fae9e420-6da6-49f1-a754-1b9618b1ce93#ref=rss)
+* [https://www.spiegel.de/ausland/thailand-und-myanmar-bilder-nach-dem-erdbeben](https://www.spiegel.de/ausland/thailand-und-myanmar-bilder-nach-dem-erdbeben-a-a6d921c8-45c7-4990-8901-c7bb8f56d8e9#ref=rss)
+* [https://www.spiegel.de/panorama/thailand-starkes-erdbeben-in-thailand-und-myanmar](https://www.spiegel.de/panorama/thailand-starkes-erdbeben-in-thailand-und-myanmar-a-cad7a350-7883-4c68-881d-c598e31f214d#ref=rss)
+### erdbeben
 
-* [https://www.spiegel.de/politik/ukraine-unterstuetzerkonferenz-in-paris-emmanuel-macron-warnt-donald-trump-vor-zoellen](https://www.spiegel.de/politik/ukraine-unterstuetzerkonferenz-in-paris-emmanuel-macron-warnt-donald-trump-vor-zoellen-a-05eb2637-588b-493a-a70d-e81ba2b587f2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-autozoelle-gletscherschmelze](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-autozoelle-gletscherschmelze-a-471b2e23-bf46-4d69-81f4-89a1deaebd75#ref=rss)
-* [https://www.spiegel.de/kultur/donald-trump-kunsthistorikerin-analysiert-goldene-dekorationen-im-oval-office](https://www.spiegel.de/kultur/donald-trump-kunsthistorikerin-analysiert-goldene-dekorationen-im-oval-office-a-aae86711-365b-42e3-b47d-51c0e63816a9#ref=rss)
-* [https://www.spiegel.de/wissenschaft/amerikas-universitaeten-brauchen-mut-zum-widerstand](https://www.spiegel.de/wissenschaft/amerikas-universitaeten-brauchen-mut-zum-widerstand-a-e889046f-e82b-4c75-b9ab-654cc229e08b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trumps-zoll-ankuendigung-die-zoelle-gefaehrden-arbeitsplaetze-wohlstand-und-wachstumsaussichten](https://www.spiegel.de/wirtschaft/donald-trumps-zoll-ankuendigung-die-zoelle-gefaehrden-arbeitsplaetze-wohlstand-und-wachstumsaussichten-a-0749316f-a412-4caf-b1d7-71e6e338ed00#ref=rss)
-### usa
+* [https://www.spiegel.de/ausland/thailand-und-myanmar-das-ist-ueber-das-erdbeben-in-suedostasien-bekannt](https://www.spiegel.de/ausland/thailand-und-myanmar-das-ist-ueber-das-erdbeben-in-suedostasien-bekannt-a-0c7a533b-69d2-4c97-bf80-c7c8a651fecf#ref=rss)
+* [https://www.spiegel.de/panorama/bangkok-thailand-amateurvideos-zeigen-folgen-von-schwerem-erdbeben](https://www.spiegel.de/panorama/bangkok-thailand-amateurvideos-zeigen-folgen-von-schwerem-erdbeben-a-fae9e420-6da6-49f1-a754-1b9618b1ce93#ref=rss)
+* [https://www.spiegel.de/ausland/thailand-und-myanmar-bilder-nach-dem-erdbeben](https://www.spiegel.de/ausland/thailand-und-myanmar-bilder-nach-dem-erdbeben-a-a6d921c8-45c7-4990-8901-c7bb8f56d8e9#ref=rss)
+* [https://www.spiegel.de/panorama/thailand-starkes-erdbeben-in-thailand-und-myanmar](https://www.spiegel.de/panorama/thailand-starkes-erdbeben-in-thailand-und-myanmar-a-cad7a350-7883-4c68-881d-c598e31f214d#ref=rss)
+### myanmar
 
-* [https://www.spiegel.de/wirtschaft/handelskonflikt-mit-den-usa-europas-prinzipien-im-kampf-gegen-strafzoelle](https://www.spiegel.de/wirtschaft/handelskonflikt-mit-den-usa-europas-prinzipien-im-kampf-gegen-strafzoelle-a-1d83c0fb-57c5-405b-be35-a37069375d5f#ref=rss)
-* [https://www.spiegel.de/ausland/klimakonferenz-cop30-in-brasilien-die-engagierten-laender-muessen-einander-beistehen](https://www.spiegel.de/ausland/klimakonferenz-cop30-in-brasilien-die-engagierten-laender-muessen-einander-beistehen-a-e3eb38d1-2f2b-45c0-9c5f-7e9d9df572d4#ref=rss)
-* [https://www.spiegel.de/wissenschaft/amerikas-universitaeten-brauchen-mut-zum-widerstand](https://www.spiegel.de/wissenschaft/amerikas-universitaeten-brauchen-mut-zum-widerstand-a-e889046f-e82b-4c75-b9ab-654cc229e08b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/usa-florida-sucht-arbeitskraefte-jetzt-sollen-14-jaehrige-einspringen](https://www.spiegel.de/wirtschaft/usa-florida-sucht-arbeitskraefte-jetzt-sollen-14-jaehrige-einspringen-a-7054cf0e-847a-4901-a759-dc2dfec13a05#ref=rss)
-### woche
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-russische-tv-reporterin-laut-sender-durch-landmine-getoetet](https://www.spiegel.de/ausland/ukraine-krieg-russische-tv-reporterin-laut-sender-durch-landmine-getoetet-a-82adb089-82b5-4780-9ca1-7fa0308137c7#ref=rss)
-* [https://www.spiegel.de/panorama/suedkorea-27-tote-durch-historische-waldbraende-ortschaften-und-tempel-zerstoert](https://www.spiegel.de/panorama/suedkorea-27-tote-durch-historische-waldbraende-ortschaften-und-tempel-zerstoert-a-1d45e15a-f836-443f-80c4-fa4f7a3b7dfa#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/tiktok-shop-startet-montag-in-deutschland](https://www.spiegel.de/netzwelt/apps/tiktok-shop-startet-montag-in-deutschland-a-63ed3504-fd13-4eb6-b3a5-d397c69c4d51#ref=rss)
-* [https://www.spiegel.de/ausland/serbien-warum-jede-woche-tausende-gegen-praesident-aleksandar-vucic-auf-die-strasse-gehen](https://www.spiegel.de/ausland/serbien-warum-jede-woche-tausende-gegen-praesident-aleksandar-vucic-auf-die-strasse-gehen-a-a0d140ad-9595-4c18-b597-fba7b9c42e76#ref=rss)
+* [https://www.spiegel.de/ausland/thailand-und-myanmar-das-ist-ueber-das-erdbeben-in-suedostasien-bekannt](https://www.spiegel.de/ausland/thailand-und-myanmar-das-ist-ueber-das-erdbeben-in-suedostasien-bekannt-a-0c7a533b-69d2-4c97-bf80-c7c8a651fecf#ref=rss)
+* [https://www.spiegel.de/ausland/thailand-und-myanmar-bilder-nach-dem-erdbeben](https://www.spiegel.de/ausland/thailand-und-myanmar-bilder-nach-dem-erdbeben-a-a6d921c8-45c7-4990-8901-c7bb8f56d8e9#ref=rss)
+* [https://www.spiegel.de/panorama/thailand-starkes-erdbeben-in-thailand-und-myanmar](https://www.spiegel.de/panorama/thailand-starkes-erdbeben-in-thailand-und-myanmar-a-cad7a350-7883-4c68-881d-c598e31f214d#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/ausland/bomben-und-minen-wie-der-klimawandel-das-erbe-von-kriegen-reaktiviert](https://www.spiegel.de/ausland/bomben-und-minen-wie-der-klimawandel-das-erbe-von-kriegen-reaktiviert-a-bc6edf08-5638-4485-b4cf-2b2f6d0be27e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutschland-menschen-essen-mehr-fleisch-pro-kopf-konsum-steigt](https://www.spiegel.de/wirtschaft/deutschland-menschen-essen-mehr-fleisch-pro-kopf-konsum-steigt-a-c5c314a7-56ac-47cd-ba71-4767eb5b1ca0#ref=rss)
-* [https://www.spiegel.de/panorama/suedkorea-27-tote-durch-historische-waldbraende-ortschaften-und-tempel-zerstoert](https://www.spiegel.de/panorama/suedkorea-27-tote-durch-historische-waldbraende-ortschaften-und-tempel-zerstoert-a-1d45e15a-f836-443f-80c4-fa4f7a3b7dfa#ref=rss)
-* [https://www.spiegel.de/ausland/serbien-warum-jede-woche-tausende-gegen-praesident-aleksandar-vucic-auf-die-strasse-gehen](https://www.spiegel.de/ausland/serbien-warum-jede-woche-tausende-gegen-praesident-aleksandar-vucic-auf-die-strasse-gehen-a-a0d140ad-9595-4c18-b597-fba7b9c42e76#ref=rss)
-### sarkozy
+* [https://www.spiegel.de/netzwelt/apps/marc-zuckerberg-kuendigt-neues-altes-facebook-erlebnis-an](https://www.spiegel.de/netzwelt/apps/marc-zuckerberg-kuendigt-neues-altes-facebook-erlebnis-an-a-88fd350b-bb9d-4f6c-9bcb-afd19a6a09c8#ref=rss)
+* [https://www.spiegel.de/ausland/thailand-und-myanmar-das-ist-ueber-das-erdbeben-in-suedostasien-bekannt](https://www.spiegel.de/ausland/thailand-und-myanmar-das-ist-ueber-das-erdbeben-in-suedostasien-bekannt-a-0c7a533b-69d2-4c97-bf80-c7c8a651fecf#ref=rss)
+* [https://www.spiegel.de/panorama/bangkok-thailand-amateurvideos-zeigen-folgen-von-schwerem-erdbeben](https://www.spiegel.de/panorama/bangkok-thailand-amateurvideos-zeigen-folgen-von-schwerem-erdbeben-a-fae9e420-6da6-49f1-a754-1b9618b1ce93#ref=rss)
+* [https://www.spiegel.de/ausland/thailand-und-myanmar-bilder-nach-dem-erdbeben](https://www.spiegel.de/ausland/thailand-und-myanmar-bilder-nach-dem-erdbeben-a-a6d921c8-45c7-4990-8901-c7bb8f56d8e9#ref=rss)
+### bangkok
 
-* [https://www.spiegel.de/ausland/frankreich-anklage-fordert-sieben-jahre-haft-fuer-nicolas-sarkozy-in-libyen-affaere](https://www.spiegel.de/ausland/frankreich-anklage-fordert-sieben-jahre-haft-fuer-nicolas-sarkozy-in-libyen-affaere-a-b85f2c17-8f77-463f-8252-396a929096ea#ref=rss)
-### paris
+* [https://www.spiegel.de/panorama/bangkok-thailand-amateurvideos-zeigen-folgen-von-schwerem-erdbeben](https://www.spiegel.de/panorama/bangkok-thailand-amateurvideos-zeigen-folgen-von-schwerem-erdbeben-a-fae9e420-6da6-49f1-a754-1b9618b1ce93#ref=rss)
+* [https://www.spiegel.de/ausland/thailand-und-myanmar-bilder-nach-dem-erdbeben](https://www.spiegel.de/ausland/thailand-und-myanmar-bilder-nach-dem-erdbeben-a-a6d921c8-45c7-4990-8901-c7bb8f56d8e9#ref=rss)
+* [https://www.spiegel.de/panorama/thailand-starkes-erdbeben-in-thailand-und-myanmar](https://www.spiegel.de/panorama/thailand-starkes-erdbeben-in-thailand-und-myanmar-a-cad7a350-7883-4c68-881d-c598e31f214d#ref=rss)
+### fc
 
-* [https://www.spiegel.de/politik/ukraine-unterstuetzerkonferenz-in-paris-emmanuel-macron-warnt-donald-trump-vor-zoellen](https://www.spiegel.de/politik/ukraine-unterstuetzerkonferenz-in-paris-emmanuel-macron-warnt-donald-trump-vor-zoellen-a-05eb2637-588b-493a-a70d-e81ba2b587f2#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-gipfel-uneinigkeit-ueber-entsendung-europaeischer-friedenstruppen](https://www.spiegel.de/ausland/ukraine-gipfel-uneinigkeit-ueber-entsendung-europaeischer-friedenstruppen-a-4a3dac67-9141-473a-a4f3-9b1f43801696#ref=rss)
-### mehr
+* [https://www.spiegel.de/sport/fussball/alphonso-davies-fc-bayern-muenchen-droht-kanadas-verband-mit-juristischen-schritten](https://www.spiegel.de/sport/fussball/alphonso-davies-fc-bayern-muenchen-droht-kanadas-verband-mit-juristischen-schritten-a-b9ee06be-45f9-40c0-8d28-2f61d74d4e1a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/womens-champions-league-vfl-wolfsburg-geht-beim-fc-barcelona-1-6-unter](https://www.spiegel.de/sport/fussball/womens-champions-league-vfl-wolfsburg-geht-beim-fc-barcelona-1-6-unter-a-acf9791b-8bd6-4fa9-bf32-653b63c70a4e#ref=rss)
+### erde
 
-* [https://www.spiegel.de/politik/ukraine-unterstuetzerkonferenz-in-paris-emmanuel-macron-warnt-donald-trump-vor-zoellen](https://www.spiegel.de/politik/ukraine-unterstuetzerkonferenz-in-paris-emmanuel-macron-warnt-donald-trump-vor-zoellen-a-05eb2637-588b-493a-a70d-e81ba2b587f2#ref=rss)
-* [https://www.spiegel.de/panorama/australien-dackel-ueberlebt-mehr-als-ein-jahr-auf-einer-insel](https://www.spiegel.de/panorama/australien-dackel-ueberlebt-mehr-als-ein-jahr-auf-einer-insel-a-b2b8affd-2062-4fb7-86be-e3035478faae#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutschland-menschen-essen-mehr-fleisch-pro-kopf-konsum-steigt](https://www.spiegel.de/wirtschaft/deutschland-menschen-essen-mehr-fleisch-pro-kopf-konsum-steigt-a-c5c314a7-56ac-47cd-ba71-4767eb5b1ca0#ref=rss)
-### russische
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-russische-tv-reporterin-laut-sender-durch-landmine-getoetet](https://www.spiegel.de/ausland/ukraine-krieg-russische-tv-reporterin-laut-sender-durch-landmine-getoetet-a-82adb089-82b5-4780-9ca1-7fa0308137c7#ref=rss)
-### fünf
-
-* [https://www.spiegel.de/panorama/ben-affleck-schauspieler-haette-alkoholentzug-lieber-geheim-gehalten](https://www.spiegel.de/panorama/ben-affleck-schauspieler-haette-alkoholentzug-lieber-geheim-gehalten-a-88f0be66-5ea3-4e55-9c27-1f7554225e40#ref=rss)
-* [https://www.spiegel.de/ausland/amsterdam-fuenf-verletzte-bei-messerattacke](https://www.spiegel.de/ausland/amsterdam-fuenf-verletzte-bei-messerattacke-a-ddf32acd-a7db-4474-bd73-1db20eb1a961#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/ausland/amsterdam-fuenf-verletzte-bei-messerattacke](https://www.spiegel.de/ausland/amsterdam-fuenf-verletzte-bei-messerattacke-a-ddf32acd-a7db-4474-bd73-1db20eb1a961#ref=rss)
-* [https://www.spiegel.de/ausland/groenland-groenlaender-lehnen-treffen-mit-usha-vance-ab](https://www.spiegel.de/ausland/groenland-groenlaender-lehnen-treffen-mit-usha-vance-ab-a-17f881e1-f0cf-49fb-b51c-6e150340eaa2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/usa-florida-sucht-arbeitskraefte-jetzt-sollen-14-jaehrige-einspringen](https://www.spiegel.de/wirtschaft/usa-florida-sucht-arbeitskraefte-jetzt-sollen-14-jaehrige-einspringen-a-7054cf0e-847a-4901-a759-dc2dfec13a05#ref=rss)
-### trumps
-
-* [https://www.spiegel.de/kultur/donald-trump-kunsthistorikerin-analysiert-goldene-dekorationen-im-oval-office](https://www.spiegel.de/kultur/donald-trump-kunsthistorikerin-analysiert-goldene-dekorationen-im-oval-office-a-aae86711-365b-42e3-b47d-51c0e63816a9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trumps-zoll-ankuendigung-die-zoelle-gefaehrden-arbeitsplaetze-wohlstand-und-wachstumsaussichten](https://www.spiegel.de/wirtschaft/donald-trumps-zoll-ankuendigung-die-zoelle-gefaehrden-arbeitsplaetze-wohlstand-und-wachstumsaussichten-a-0749316f-a412-4caf-b1d7-71e6e338ed00#ref=rss)
-### frankreich
-
-* [https://www.spiegel.de/ausland/frankreich-anklage-fordert-sieben-jahre-haft-fuer-nicolas-sarkozy-in-libyen-affaere](https://www.spiegel.de/ausland/frankreich-anklage-fordert-sieben-jahre-haft-fuer-nicolas-sarkozy-in-libyen-affaere-a-b85f2c17-8f77-463f-8252-396a929096ea#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-gipfel-uneinigkeit-ueber-entsendung-europaeischer-friedenstruppen](https://www.spiegel.de/ausland/ukraine-gipfel-uneinigkeit-ueber-entsendung-europaeischer-friedenstruppen-a-4a3dac67-9141-473a-a4f3-9b1f43801696#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/ausland/frankreich-anklage-fordert-sieben-jahre-haft-fuer-nicolas-sarkozy-in-libyen-affaere](https://www.spiegel.de/ausland/frankreich-anklage-fordert-sieben-jahre-haft-fuer-nicolas-sarkozy-in-libyen-affaere-a-b85f2c17-8f77-463f-8252-396a929096ea#ref=rss)
-* [https://www.spiegel.de/panorama/ben-affleck-schauspieler-haette-alkoholentzug-lieber-geheim-gehalten](https://www.spiegel.de/panorama/ben-affleck-schauspieler-haette-alkoholentzug-lieber-geheim-gehalten-a-88f0be66-5ea3-4e55-9c27-1f7554225e40#ref=rss)
-### nicolas
-
-* [https://www.spiegel.de/ausland/frankreich-anklage-fordert-sieben-jahre-haft-fuer-nicolas-sarkozy-in-libyen-affaere](https://www.spiegel.de/ausland/frankreich-anklage-fordert-sieben-jahre-haft-fuer-nicolas-sarkozy-in-libyen-affaere-a-b85f2c17-8f77-463f-8252-396a929096ea#ref=rss)
-### prinzipien
-
-* [https://www.spiegel.de/wirtschaft/handelskonflikt-mit-den-usa-europas-prinzipien-im-kampf-gegen-strafzoelle](https://www.spiegel.de/wirtschaft/handelskonflikt-mit-den-usa-europas-prinzipien-im-kampf-gegen-strafzoelle-a-1d83c0fb-57c5-405b-be35-a37069375d5f#ref=rss)
-### strafzölle
-
-* [https://www.spiegel.de/wirtschaft/handelskonflikt-mit-den-usa-europas-prinzipien-im-kampf-gegen-strafzoelle](https://www.spiegel.de/wirtschaft/handelskonflikt-mit-den-usa-europas-prinzipien-im-kampf-gegen-strafzoelle-a-1d83c0fb-57c5-405b-be35-a37069375d5f#ref=rss)
-### bundestag
-
-* [https://www.spiegel.de/politik/deutschland/abschied-der-fdp-aus-dem-bundestag-alles-muss-raus](https://www.spiegel.de/politik/deutschland/abschied-der-fdp-aus-dem-bundestag-alles-muss-raus-a-064a422f-e0bf-4bb4-b8c4-c01920e0dfd1#ref=rss)
-### emmanuel
-
-* [https://www.spiegel.de/politik/ukraine-unterstuetzerkonferenz-in-paris-emmanuel-macron-warnt-donald-trump-vor-zoellen](https://www.spiegel.de/politik/ukraine-unterstuetzerkonferenz-in-paris-emmanuel-macron-warnt-donald-trump-vor-zoellen-a-05eb2637-588b-493a-a70d-e81ba2b587f2#ref=rss)
-### macron
-
-* [https://www.spiegel.de/politik/ukraine-unterstuetzerkonferenz-in-paris-emmanuel-macron-warnt-donald-trump-vor-zoellen](https://www.spiegel.de/politik/ukraine-unterstuetzerkonferenz-in-paris-emmanuel-macron-warnt-donald-trump-vor-zoellen-a-05eb2637-588b-493a-a70d-e81ba2b587f2#ref=rss)
-### warnt
-
-* [https://www.spiegel.de/politik/ukraine-unterstuetzerkonferenz-in-paris-emmanuel-macron-warnt-donald-trump-vor-zoellen](https://www.spiegel.de/politik/ukraine-unterstuetzerkonferenz-in-paris-emmanuel-macron-warnt-donald-trump-vor-zoellen-a-05eb2637-588b-493a-a70d-e81ba2b587f2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trumps-zoll-ankuendigung-die-zoelle-gefaehrden-arbeitsplaetze-wohlstand-und-wachstumsaussichten](https://www.spiegel.de/wirtschaft/donald-trumps-zoll-ankuendigung-die-zoelle-gefaehrden-arbeitsplaetze-wohlstand-und-wachstumsaussichten-a-0749316f-a412-4caf-b1d7-71e6e338ed00#ref=rss)
-### länder
-
-* [https://www.spiegel.de/politik/ukraine-unterstuetzerkonferenz-in-paris-emmanuel-macron-warnt-donald-trump-vor-zoellen](https://www.spiegel.de/politik/ukraine-unterstuetzerkonferenz-in-paris-emmanuel-macron-warnt-donald-trump-vor-zoellen-a-05eb2637-588b-493a-a70d-e81ba2b587f2#ref=rss)
-* [https://www.spiegel.de/ausland/klimakonferenz-cop30-in-brasilien-die-engagierten-laender-muessen-einander-beistehen](https://www.spiegel.de/ausland/klimakonferenz-cop30-in-brasilien-die-engagierten-laender-muessen-einander-beistehen-a-e3eb38d1-2f2b-45c0-9c5f-7e9d9df572d4#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/politik/ukraine-unterstuetzerkonferenz-in-paris-emmanuel-macron-warnt-donald-trump-vor-zoellen](https://www.spiegel.de/politik/ukraine-unterstuetzerkonferenz-in-paris-emmanuel-macron-warnt-donald-trump-vor-zoellen-a-05eb2637-588b-493a-a70d-e81ba2b587f2#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-russische-tv-reporterin-laut-sender-durch-landmine-getoetet](https://www.spiegel.de/ausland/ukraine-krieg-russische-tv-reporterin-laut-sender-durch-landmine-getoetet-a-82adb089-82b5-4780-9ca1-7fa0308137c7#ref=rss)
-### treffen
-
-* [https://www.spiegel.de/politik/ukraine-unterstuetzerkonferenz-in-paris-emmanuel-macron-warnt-donald-trump-vor-zoellen](https://www.spiegel.de/politik/ukraine-unterstuetzerkonferenz-in-paris-emmanuel-macron-warnt-donald-trump-vor-zoellen-a-05eb2637-588b-493a-a70d-e81ba2b587f2#ref=rss)
-* [https://www.spiegel.de/ausland/groenland-groenlaender-lehnen-treffen-mit-usha-vance-ab](https://www.spiegel.de/ausland/groenland-groenlaender-lehnen-treffen-mit-usha-vance-ab-a-17f881e1-f0cf-49fb-b51c-6e150340eaa2#ref=rss)
-### klare
-
-* [https://www.spiegel.de/politik/ukraine-unterstuetzerkonferenz-in-paris-emmanuel-macron-warnt-donald-trump-vor-zoellen](https://www.spiegel.de/politik/ukraine-unterstuetzerkonferenz-in-paris-emmanuel-macron-warnt-donald-trump-vor-zoellen-a-05eb2637-588b-493a-a70d-e81ba2b587f2#ref=rss)
-* [https://www.spiegel.de/panorama/was-tuerken-in-hamburg-altona-ueber-erdogan-denken-supermann-oder-diktator](https://www.spiegel.de/panorama/was-tuerken-in-hamburg-altona-ueber-erdogan-denken-supermann-oder-diktator-a-8b2881d6-5708-47c2-b0b7-ebcc6edd5011#ref=rss)
-### laut
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-russische-tv-reporterin-laut-sender-durch-landmine-getoetet](https://www.spiegel.de/ausland/ukraine-krieg-russische-tv-reporterin-laut-sender-durch-landmine-getoetet-a-82adb089-82b5-4780-9ca1-7fa0308137c7#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/mittelalter-frauen-spielten-relevante-rolle-als-schreiberinnen](https://www.spiegel.de/wissenschaft/mensch/mittelalter-frauen-spielten-relevante-rolle-als-schreiberinnen-a-f5fff176-fcb3-4180-91b3-287c47c9ba12#ref=rss)
-### getötet
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-russische-tv-reporterin-laut-sender-durch-landmine-getoetet](https://www.spiegel.de/ausland/ukraine-krieg-russische-tv-reporterin-laut-sender-durch-landmine-getoetet-a-82adb089-82b5-4780-9ca1-7fa0308137c7#ref=rss)
-### verletzt
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-russische-tv-reporterin-laut-sender-durch-landmine-getoetet](https://www.spiegel.de/ausland/ukraine-krieg-russische-tv-reporterin-laut-sender-durch-landmine-getoetet-a-82adb089-82b5-4780-9ca1-7fa0308137c7#ref=rss)
-* [https://www.spiegel.de/ausland/amsterdam-fuenf-verletzte-bei-messerattacke](https://www.spiegel.de/ausland/amsterdam-fuenf-verletzte-bei-messerattacke-a-ddf32acd-a7db-4474-bd73-1db20eb1a961#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/wissenschaft/mensch/mittelalter-frauen-spielten-relevante-rolle-als-schreiberinnen](https://www.spiegel.de/wissenschaft/mensch/mittelalter-frauen-spielten-relevante-rolle-als-schreiberinnen-a-f5fff176-fcb3-4180-91b3-287c47c9ba12#ref=rss)
-### relevante
-
-* [https://www.spiegel.de/wissenschaft/mensch/mittelalter-frauen-spielten-relevante-rolle-als-schreiberinnen](https://www.spiegel.de/wissenschaft/mensch/mittelalter-frauen-spielten-relevante-rolle-als-schreiberinnen-a-f5fff176-fcb3-4180-91b3-287c47c9ba12#ref=rss)
-### rolle
-
-* [https://www.spiegel.de/wissenschaft/mensch/mittelalter-frauen-spielten-relevante-rolle-als-schreiberinnen](https://www.spiegel.de/wissenschaft/mensch/mittelalter-frauen-spielten-relevante-rolle-als-schreiberinnen-a-f5fff176-fcb3-4180-91b3-287c47c9ba12#ref=rss)
-### wissen
-
-* [https://www.spiegel.de/wissenschaft/mensch/mittelalter-frauen-spielten-relevante-rolle-als-schreiberinnen](https://www.spiegel.de/wissenschaft/mensch/mittelalter-frauen-spielten-relevante-rolle-als-schreiberinnen-a-f5fff176-fcb3-4180-91b3-287c47c9ba12#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/mobilfunk-verbraucherzentrale-nrw-mahnt-unlimited-tarife-von-1-1-ab](https://www.spiegel.de/netzwelt/netzpolitik/mobilfunk-verbraucherzentrale-nrw-mahnt-unlimited-tarife-von-1-1-ab-a-2572bcde-1530-4277-8cee-5b482ad12d9d#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/wissenschaft/mensch/mittelalter-frauen-spielten-relevante-rolle-als-schreiberinnen](https://www.spiegel.de/wissenschaft/mensch/mittelalter-frauen-spielten-relevante-rolle-als-schreiberinnen-a-f5fff176-fcb3-4180-91b3-287c47c9ba12#ref=rss)
-* [https://www.spiegel.de/ausland/klimakonferenz-cop30-in-brasilien-die-engagierten-laender-muessen-einander-beistehen](https://www.spiegel.de/ausland/klimakonferenz-cop30-in-brasilien-die-engagierten-laender-muessen-einander-beistehen-a-e3eb38d1-2f2b-45c0-9c5f-7e9d9df572d4#ref=rss)
-### bomben
-
-* [https://www.spiegel.de/ausland/bomben-und-minen-wie-der-klimawandel-das-erbe-von-kriegen-reaktiviert](https://www.spiegel.de/ausland/bomben-und-minen-wie-der-klimawandel-das-erbe-von-kriegen-reaktiviert-a-bc6edf08-5638-4485-b4cf-2b2f6d0be27e#ref=rss)
-### minen
-
-* [https://www.spiegel.de/ausland/bomben-und-minen-wie-der-klimawandel-das-erbe-von-kriegen-reaktiviert](https://www.spiegel.de/ausland/bomben-und-minen-wie-der-klimawandel-das-erbe-von-kriegen-reaktiviert-a-bc6edf08-5638-4485-b4cf-2b2f6d0be27e#ref=rss)
-### klimawandel
-
-* [https://www.spiegel.de/ausland/bomben-und-minen-wie-der-klimawandel-das-erbe-von-kriegen-reaktiviert](https://www.spiegel.de/ausland/bomben-und-minen-wie-der-klimawandel-das-erbe-von-kriegen-reaktiviert-a-bc6edf08-5638-4485-b4cf-2b2f6d0be27e#ref=rss)
-### ben
-
-* [https://www.spiegel.de/panorama/ben-affleck-schauspieler-haette-alkoholentzug-lieber-geheim-gehalten](https://www.spiegel.de/panorama/ben-affleck-schauspieler-haette-alkoholentzug-lieber-geheim-gehalten-a-88f0be66-5ea3-4e55-9c27-1f7554225e40#ref=rss)
-### affleck
-
-* [https://www.spiegel.de/panorama/ben-affleck-schauspieler-haette-alkoholentzug-lieber-geheim-gehalten](https://www.spiegel.de/panorama/ben-affleck-schauspieler-haette-alkoholentzug-lieber-geheim-gehalten-a-88f0be66-5ea3-4e55-9c27-1f7554225e40#ref=rss)
-### hätte
-
-* [https://www.spiegel.de/panorama/ben-affleck-schauspieler-haette-alkoholentzug-lieber-geheim-gehalten](https://www.spiegel.de/panorama/ben-affleck-schauspieler-haette-alkoholentzug-lieber-geheim-gehalten-a-88f0be66-5ea3-4e55-9c27-1f7554225e40#ref=rss)
-### lange
-
-* [https://www.spiegel.de/panorama/ben-affleck-schauspieler-haette-alkoholentzug-lieber-geheim-gehalten](https://www.spiegel.de/panorama/ben-affleck-schauspieler-haette-alkoholentzug-lieber-geheim-gehalten-a-88f0be66-5ea3-4e55-9c27-1f7554225e40#ref=rss)
-* [https://www.spiegel.de/panorama/australien-dackel-ueberlebt-mehr-als-ein-jahr-auf-einer-insel](https://www.spiegel.de/panorama/australien-dackel-ueberlebt-mehr-als-ein-jahr-auf-einer-insel-a-b2b8affd-2062-4fb7-86be-e3035478faae#ref=rss)
-### panzer
-
-* [https://www.spiegel.de/ausland/litauen-panzer-der-vermissten-us-soldaten-entdeckt-schicksal-ungewiss](https://www.spiegel.de/ausland/litauen-panzer-der-vermissten-us-soldaten-entdeckt-schicksal-ungewiss-a-0a1b0415-f196-441a-bf92-b4ae73fda111#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/ausland/litauen-panzer-der-vermissten-us-soldaten-entdeckt-schicksal-ungewiss](https://www.spiegel.de/ausland/litauen-panzer-der-vermissten-us-soldaten-entdeckt-schicksal-ungewiss-a-0a1b0415-f196-441a-bf92-b4ae73fda111#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-yuki-tsunoda-ersetzt-liam-lawson-als-teamkollege-von-max-verstappen-red-bull-verleiht-schleudersitze](https://www.spiegel.de/sport/formel1/formel-1-yuki-tsunoda-ersetzt-liam-lawson-als-teamkollege-von-max-verstappen-red-bull-verleiht-schleudersitze-a-084e78a4-9985-4da9-999d-2c4043093c09#ref=rss)
-### nahe
-
-* [https://www.spiegel.de/ausland/litauen-panzer-der-vermissten-us-soldaten-entdeckt-schicksal-ungewiss](https://www.spiegel.de/ausland/litauen-panzer-der-vermissten-us-soldaten-entdeckt-schicksal-ungewiss-a-0a1b0415-f196-441a-bf92-b4ae73fda111#ref=rss)
-* [https://www.spiegel.de/ausland/amsterdam-fuenf-verletzte-bei-messerattacke](https://www.spiegel.de/ausland/amsterdam-fuenf-verletzte-bei-messerattacke-a-ddf32acd-a7db-4474-bd73-1db20eb1a961#ref=rss)
-### grenze
-
-* [https://www.spiegel.de/ausland/litauen-panzer-der-vermissten-us-soldaten-entdeckt-schicksal-ungewiss](https://www.spiegel.de/ausland/litauen-panzer-der-vermissten-us-soldaten-entdeckt-schicksal-ungewiss-a-0a1b0415-f196-441a-bf92-b4ae73fda111#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/mobilfunk-verbraucherzentrale-nrw-mahnt-unlimited-tarife-von-1-1-ab](https://www.spiegel.de/netzwelt/netzpolitik/mobilfunk-verbraucherzentrale-nrw-mahnt-unlimited-tarife-von-1-1-ab-a-2572bcde-1530-4277-8cee-5b482ad12d9d#ref=rss)
-### leipziger
-
-* [https://www.spiegel.de/kultur/literatur/preis-der-leipziger-buchmesse-kristine-bilkau-gewinnt-belletristik-auszeichnung](https://www.spiegel.de/kultur/literatur/preis-der-leipziger-buchmesse-kristine-bilkau-gewinnt-belletristik-auszeichnung-a-2e42a9e3-6810-4a55-afd2-5fe9589eca77#ref=rss)
-### buchmesse
-
-* [https://www.spiegel.de/kultur/literatur/preis-der-leipziger-buchmesse-kristine-bilkau-gewinnt-belletristik-auszeichnung](https://www.spiegel.de/kultur/literatur/preis-der-leipziger-buchmesse-kristine-bilkau-gewinnt-belletristik-auszeichnung-a-2e42a9e3-6810-4a55-afd2-5fe9589eca77#ref=rss)
-### kristine
-
-* [https://www.spiegel.de/kultur/literatur/preis-der-leipziger-buchmesse-kristine-bilkau-gewinnt-belletristik-auszeichnung](https://www.spiegel.de/kultur/literatur/preis-der-leipziger-buchmesse-kristine-bilkau-gewinnt-belletristik-auszeichnung-a-2e42a9e3-6810-4a55-afd2-5fe9589eca77#ref=rss)
-### bilkau
-
-* [https://www.spiegel.de/kultur/literatur/preis-der-leipziger-buchmesse-kristine-bilkau-gewinnt-belletristik-auszeichnung](https://www.spiegel.de/kultur/literatur/preis-der-leipziger-buchmesse-kristine-bilkau-gewinnt-belletristik-auszeichnung-a-2e42a9e3-6810-4a55-afd2-5fe9589eca77#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/kultur/literatur/preis-der-leipziger-buchmesse-kristine-bilkau-gewinnt-belletristik-auszeichnung](https://www.spiegel.de/kultur/literatur/preis-der-leipziger-buchmesse-kristine-bilkau-gewinnt-belletristik-auszeichnung-a-2e42a9e3-6810-4a55-afd2-5fe9589eca77#ref=rss)
-* [https://www.spiegel.de/panorama/australien-dackel-ueberlebt-mehr-als-ein-jahr-auf-einer-insel](https://www.spiegel.de/panorama/australien-dackel-ueberlebt-mehr-als-ein-jahr-auf-einer-insel-a-b2b8affd-2062-4fb7-86be-e3035478faae#ref=rss)
-### valerie
-
-* [https://www.spiegel.de/panorama/australien-dackel-ueberlebt-mehr-als-ein-jahr-auf-einer-insel](https://www.spiegel.de/panorama/australien-dackel-ueberlebt-mehr-als-ein-jahr-auf-einer-insel-a-b2b8affd-2062-4fb7-86be-e3035478faae#ref=rss)
-### tot
-
-* [https://www.spiegel.de/panorama/australien-dackel-ueberlebt-mehr-als-ein-jahr-auf-einer-insel](https://www.spiegel.de/panorama/australien-dackel-ueberlebt-mehr-als-ein-jahr-auf-einer-insel-a-b2b8affd-2062-4fb7-86be-e3035478faae#ref=rss)
-* [https://www.spiegel.de/panorama/suedkorea-27-tote-durch-historische-waldbraende-ortschaften-und-tempel-zerstoert](https://www.spiegel.de/panorama/suedkorea-27-tote-durch-historische-waldbraende-ortschaften-und-tempel-zerstoert-a-1d45e15a-f836-443f-80c4-fa4f7a3b7dfa#ref=rss)
-### hamburgaltona
-
-* [https://www.spiegel.de/panorama/was-tuerken-in-hamburg-altona-ueber-erdogan-denken-supermann-oder-diktator](https://www.spiegel.de/panorama/was-tuerken-in-hamburg-altona-ueber-erdogan-denken-supermann-oder-diktator-a-8b2881d6-5708-47c2-b0b7-ebcc6edd5011#ref=rss)
-### erdoğan
-
-* [https://www.spiegel.de/panorama/was-tuerken-in-hamburg-altona-ueber-erdogan-denken-supermann-oder-diktator](https://www.spiegel.de/panorama/was-tuerken-in-hamburg-altona-ueber-erdogan-denken-supermann-oder-diktator-a-8b2881d6-5708-47c2-b0b7-ebcc6edd5011#ref=rss)
-### denken
-
-* [https://www.spiegel.de/panorama/was-tuerken-in-hamburg-altona-ueber-erdogan-denken-supermann-oder-diktator](https://www.spiegel.de/panorama/was-tuerken-in-hamburg-altona-ueber-erdogan-denken-supermann-oder-diktator-a-8b2881d6-5708-47c2-b0b7-ebcc6edd5011#ref=rss)
-* [https://www.spiegel.de/wissenschaft/amerikas-universitaeten-brauchen-mut-zum-widerstand](https://www.spiegel.de/wissenschaft/amerikas-universitaeten-brauchen-mut-zum-widerstand-a-e889046f-e82b-4c75-b9ab-654cc229e08b#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/sonnenfinsternis-am-samstag-sieht-die-sonne-etwas-angeknabbert-aus](https://www.spiegel.de/wissenschaft/natur/sonnenfinsternis-am-samstag-sieht-die-sonne-etwas-angeknabbert-aus-a-35e7933e-cd64-4a14-a50e-a3ce22207db6#ref=rss)
+* [https://www.spiegel.de/ausland/thailand-und-myanmar-das-ist-ueber-das-erdbeben-in-suedostasien-bekannt](https://www.spiegel.de/ausland/thailand-und-myanmar-das-ist-ueber-das-erdbeben-in-suedostasien-bekannt-a-0c7a533b-69d2-4c97-bf80-c7c8a651fecf#ref=rss)
+* [https://www.spiegel.de/panorama/thailand-starkes-erdbeben-in-thailand-und-myanmar](https://www.spiegel.de/panorama/thailand-starkes-erdbeben-in-thailand-und-myanmar-a-cad7a350-7883-4c68-881d-c598e31f214d#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/wirtschaft/deutschland-menschen-essen-mehr-fleisch-pro-kopf-konsum-steigt](https://www.spiegel.de/wirtschaft/deutschland-menschen-essen-mehr-fleisch-pro-kopf-konsum-steigt-a-c5c314a7-56ac-47cd-ba71-4767eb5b1ca0#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/tiktok-shop-startet-montag-in-deutschland](https://www.spiegel.de/netzwelt/apps/tiktok-shop-startet-montag-in-deutschland-a-63ed3504-fd13-4eb6-b3a5-d397c69c4d51#ref=rss)
-### fleisch
-
-* [https://www.spiegel.de/wirtschaft/deutschland-menschen-essen-mehr-fleisch-pro-kopf-konsum-steigt](https://www.spiegel.de/wirtschaft/deutschland-menschen-essen-mehr-fleisch-pro-kopf-konsum-steigt-a-c5c314a7-56ac-47cd-ba71-4767eb5b1ca0#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/wirtschaft/deutschland-menschen-essen-mehr-fleisch-pro-kopf-konsum-steigt](https://www.spiegel.de/wirtschaft/deutschland-menschen-essen-mehr-fleisch-pro-kopf-konsum-steigt-a-c5c314a7-56ac-47cd-ba71-4767eb5b1ca0#ref=rss)
-* [https://www.spiegel.de/ausland/klimakonferenz-cop30-in-brasilien-die-engagierten-laender-muessen-einander-beistehen](https://www.spiegel.de/ausland/klimakonferenz-cop30-in-brasilien-die-engagierten-laender-muessen-einander-beistehen-a-e3eb38d1-2f2b-45c0-9c5f-7e9d9df572d4#ref=rss)
-### 11
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/mobilfunk-verbraucherzentrale-nrw-mahnt-unlimited-tarife-von-1-1-ab](https://www.spiegel.de/netzwelt/netzpolitik/mobilfunk-verbraucherzentrale-nrw-mahnt-unlimited-tarife-von-1-1-ab-a-2572bcde-1530-4277-8cee-5b482ad12d9d#ref=rss)
-### autozölle
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-autozoelle-gletscherschmelze](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-autozoelle-gletscherschmelze-a-471b2e23-bf46-4d69-81f4-89a1deaebd75#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trumps-zoll-ankuendigung-die-zoelle-gefaehrden-arbeitsplaetze-wohlstand-und-wachstumsaussichten](https://www.spiegel.de/wirtschaft/donald-trumps-zoll-ankuendigung-die-zoelle-gefaehrden-arbeitsplaetze-wohlstand-und-wachstumsaussichten-a-0749316f-a412-4caf-b1d7-71e6e338ed00#ref=rss)
-### nächsten
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-autozoelle-gletscherschmelze](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-autozoelle-gletscherschmelze-a-471b2e23-bf46-4d69-81f4-89a1deaebd75#ref=rss)
-* [https://www.spiegel.de/kultur/kino/avengers-doomsday-25-superhelden-darsteller-verkuendet](https://www.spiegel.de/kultur/kino/avengers-doomsday-25-superhelden-darsteller-verkuendet-a-2697786e-bd06-4f0c-b77a-d2f4434f8956#ref=rss)
-### formel
-
-* [https://www.spiegel.de/sport/formel1/formel-1-yuki-tsunoda-ersetzt-liam-lawson-als-teamkollege-von-max-verstappen-red-bull-verleiht-schleudersitze](https://www.spiegel.de/sport/formel1/formel-1-yuki-tsunoda-ersetzt-liam-lawson-als-teamkollege-von-max-verstappen-red-bull-verleiht-schleudersitze-a-084e78a4-9985-4da9-999d-2c4043093c09#ref=rss)
-### 1
-
-* [https://www.spiegel.de/sport/formel1/formel-1-yuki-tsunoda-ersetzt-liam-lawson-als-teamkollege-von-max-verstappen-red-bull-verleiht-schleudersitze](https://www.spiegel.de/sport/formel1/formel-1-yuki-tsunoda-ersetzt-liam-lawson-als-teamkollege-von-max-verstappen-red-bull-verleiht-schleudersitze-a-084e78a4-9985-4da9-999d-2c4043093c09#ref=rss)
-### liam
-
-* [https://www.spiegel.de/sport/formel1/formel-1-yuki-tsunoda-ersetzt-liam-lawson-als-teamkollege-von-max-verstappen-red-bull-verleiht-schleudersitze](https://www.spiegel.de/sport/formel1/formel-1-yuki-tsunoda-ersetzt-liam-lawson-als-teamkollege-von-max-verstappen-red-bull-verleiht-schleudersitze-a-084e78a4-9985-4da9-999d-2c4043093c09#ref=rss)
-### lawson
-
-* [https://www.spiegel.de/sport/formel1/formel-1-yuki-tsunoda-ersetzt-liam-lawson-als-teamkollege-von-max-verstappen-red-bull-verleiht-schleudersitze](https://www.spiegel.de/sport/formel1/formel-1-yuki-tsunoda-ersetzt-liam-lawson-als-teamkollege-von-max-verstappen-red-bull-verleiht-schleudersitze-a-084e78a4-9985-4da9-999d-2c4043093c09#ref=rss)
-### max
-
-* [https://www.spiegel.de/sport/formel1/formel-1-yuki-tsunoda-ersetzt-liam-lawson-als-teamkollege-von-max-verstappen-red-bull-verleiht-schleudersitze](https://www.spiegel.de/sport/formel1/formel-1-yuki-tsunoda-ersetzt-liam-lawson-als-teamkollege-von-max-verstappen-red-bull-verleiht-schleudersitze-a-084e78a4-9985-4da9-999d-2c4043093c09#ref=rss)
-### verstappen
-
-* [https://www.spiegel.de/sport/formel1/formel-1-yuki-tsunoda-ersetzt-liam-lawson-als-teamkollege-von-max-verstappen-red-bull-verleiht-schleudersitze](https://www.spiegel.de/sport/formel1/formel-1-yuki-tsunoda-ersetzt-liam-lawson-als-teamkollege-von-max-verstappen-red-bull-verleiht-schleudersitze-a-084e78a4-9985-4da9-999d-2c4043093c09#ref=rss)
-### red
-
-* [https://www.spiegel.de/sport/formel1/formel-1-yuki-tsunoda-ersetzt-liam-lawson-als-teamkollege-von-max-verstappen-red-bull-verleiht-schleudersitze](https://www.spiegel.de/sport/formel1/formel-1-yuki-tsunoda-ersetzt-liam-lawson-als-teamkollege-von-max-verstappen-red-bull-verleiht-schleudersitze-a-084e78a4-9985-4da9-999d-2c4043093c09#ref=rss)
-### bull
-
-* [https://www.spiegel.de/sport/formel1/formel-1-yuki-tsunoda-ersetzt-liam-lawson-als-teamkollege-von-max-verstappen-red-bull-verleiht-schleudersitze](https://www.spiegel.de/sport/formel1/formel-1-yuki-tsunoda-ersetzt-liam-lawson-als-teamkollege-von-max-verstappen-red-bull-verleiht-schleudersitze-a-084e78a4-9985-4da9-999d-2c4043093c09#ref=rss)
-### klimakonferenz
-
-* [https://www.spiegel.de/ausland/klimakonferenz-cop30-in-brasilien-die-engagierten-laender-muessen-einander-beistehen](https://www.spiegel.de/ausland/klimakonferenz-cop30-in-brasilien-die-engagierten-laender-muessen-einander-beistehen-a-e3eb38d1-2f2b-45c0-9c5f-7e9d9df572d4#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/ausland/klimakonferenz-cop30-in-brasilien-die-engagierten-laender-muessen-einander-beistehen](https://www.spiegel.de/ausland/klimakonferenz-cop30-in-brasilien-die-engagierten-laender-muessen-einander-beistehen-a-e3eb38d1-2f2b-45c0-9c5f-7e9d9df572d4#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/amazon-marketplace-bgh-staerkt-datenschutz-bei-medikamentenverkauf-im-internet](https://www.spiegel.de/netzwelt/web/amazon-marketplace-bgh-staerkt-datenschutz-bei-medikamentenverkauf-im-internet-a-d74c3db0-1e7c-4fbe-90a7-1b6a6751de79#ref=rss)
-### amsterdam
-
-* [https://www.spiegel.de/ausland/amsterdam-fuenf-verletzte-bei-messerattacke](https://www.spiegel.de/ausland/amsterdam-fuenf-verletzte-bei-messerattacke-a-ddf32acd-a7db-4474-bd73-1db20eb1a961#ref=rss)
-### südkorea
-
-* [https://www.spiegel.de/panorama/suedkorea-27-tote-durch-historische-waldbraende-ortschaften-und-tempel-zerstoert](https://www.spiegel.de/panorama/suedkorea-27-tote-durch-historische-waldbraende-ortschaften-und-tempel-zerstoert-a-1d45e15a-f836-443f-80c4-fa4f7a3b7dfa#ref=rss)
-### 27
-
-* [https://www.spiegel.de/panorama/suedkorea-27-tote-durch-historische-waldbraende-ortschaften-und-tempel-zerstoert](https://www.spiegel.de/panorama/suedkorea-27-tote-durch-historische-waldbraende-ortschaften-und-tempel-zerstoert-a-1d45e15a-f836-443f-80c4-fa4f7a3b7dfa#ref=rss)
-### historische
-
-* [https://www.spiegel.de/panorama/suedkorea-27-tote-durch-historische-waldbraende-ortschaften-und-tempel-zerstoert](https://www.spiegel.de/panorama/suedkorea-27-tote-durch-historische-waldbraende-ortschaften-und-tempel-zerstoert-a-1d45e15a-f836-443f-80c4-fa4f7a3b7dfa#ref=rss)
-### waldbrände
-
-* [https://www.spiegel.de/panorama/suedkorea-27-tote-durch-historische-waldbraende-ortschaften-und-tempel-zerstoert](https://www.spiegel.de/panorama/suedkorea-27-tote-durch-historische-waldbraende-ortschaften-und-tempel-zerstoert-a-1d45e15a-f836-443f-80c4-fa4f7a3b7dfa#ref=rss)
-### tiktok
-
-* [https://www.spiegel.de/netzwelt/apps/tiktok-shop-startet-montag-in-deutschland](https://www.spiegel.de/netzwelt/apps/tiktok-shop-startet-montag-in-deutschland-a-63ed3504-fd13-4eb6-b3a5-d397c69c4d51#ref=rss)
-### verkaufen
-
-* [https://www.spiegel.de/netzwelt/apps/tiktok-shop-startet-montag-in-deutschland](https://www.spiegel.de/netzwelt/apps/tiktok-shop-startet-montag-in-deutschland-a-63ed3504-fd13-4eb6-b3a5-d397c69c4d51#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/amazon-marketplace-bgh-staerkt-datenschutz-bei-medikamentenverkauf-im-internet](https://www.spiegel.de/netzwelt/web/amazon-marketplace-bgh-staerkt-datenschutz-bei-medikamentenverkauf-im-internet-a-d74c3db0-1e7c-4fbe-90a7-1b6a6751de79#ref=rss)
-### ukrainegipfel
-
-* [https://www.spiegel.de/ausland/ukraine-gipfel-uneinigkeit-ueber-entsendung-europaeischer-friedenstruppen](https://www.spiegel.de/ausland/ukraine-gipfel-uneinigkeit-ueber-entsendung-europaeischer-friedenstruppen-a-4a3dac67-9141-473a-a4f3-9b1f43801696#ref=rss)
-### europäischer
-
-* [https://www.spiegel.de/ausland/ukraine-gipfel-uneinigkeit-ueber-entsendung-europaeischer-friedenstruppen](https://www.spiegel.de/ausland/ukraine-gipfel-uneinigkeit-ueber-entsendung-europaeischer-friedenstruppen-a-4a3dac67-9141-473a-a4f3-9b1f43801696#ref=rss)
-### friedenstruppen
-
-* [https://www.spiegel.de/ausland/ukraine-gipfel-uneinigkeit-ueber-entsendung-europaeischer-friedenstruppen](https://www.spiegel.de/ausland/ukraine-gipfel-uneinigkeit-ueber-entsendung-europaeischer-friedenstruppen-a-4a3dac67-9141-473a-a4f3-9b1f43801696#ref=rss)
-### kunsthistorikerin
-
-* [https://www.spiegel.de/kultur/donald-trump-kunsthistorikerin-analysiert-goldene-dekorationen-im-oval-office](https://www.spiegel.de/kultur/donald-trump-kunsthistorikerin-analysiert-goldene-dekorationen-im-oval-office-a-aae86711-365b-42e3-b47d-51c0e63816a9#ref=rss)
-### oval
-
-* [https://www.spiegel.de/kultur/donald-trump-kunsthistorikerin-analysiert-goldene-dekorationen-im-oval-office](https://www.spiegel.de/kultur/donald-trump-kunsthistorikerin-analysiert-goldene-dekorationen-im-oval-office-a-aae86711-365b-42e3-b47d-51c0e63816a9#ref=rss)
-### office
-
-* [https://www.spiegel.de/kultur/donald-trump-kunsthistorikerin-analysiert-goldene-dekorationen-im-oval-office](https://www.spiegel.de/kultur/donald-trump-kunsthistorikerin-analysiert-goldene-dekorationen-im-oval-office-a-aae86711-365b-42e3-b47d-51c0e63816a9#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/sonnenfinsternis-am-samstag-sieht-die-sonne-etwas-angeknabbert-aus](https://www.spiegel.de/wissenschaft/natur/sonnenfinsternis-am-samstag-sieht-die-sonne-etwas-angeknabbert-aus-a-35e7933e-cd64-4a14-a50e-a3ce22207db6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-zur-uno-christoph-heusgen-erneuert-kritik-deutschland-tut-sich-keinen-gefallen](https://www.spiegel.de/politik/deutschland/annalena-baerbock-zur-uno-christoph-heusgen-erneuert-kritik-deutschland-tut-sich-keinen-gefallen-a-8d7d4b32-bf27-4862-aca0-84dc9cd9ff22#ref=rss)
+* [https://www.spiegel.de/panorama/kriminalstatistik-fuer-2024-kinder-und-jugendliche-werden-immer-gewalttaetiger](https://www.spiegel.de/panorama/kriminalstatistik-fuer-2024-kinder-und-jugendliche-werden-immer-gewalttaetiger-a-179b914c-cb88-4fd2-b885-a1f22655cf67#ref=rss)
 ### unter
 
-* [https://www.spiegel.de/wissenschaft/amerikas-universitaeten-brauchen-mut-zum-widerstand](https://www.spiegel.de/wissenschaft/amerikas-universitaeten-brauchen-mut-zum-widerstand-a-e889046f-e82b-4c75-b9ab-654cc229e08b#ref=rss)
-### hochschulen
+* [https://www.spiegel.de/panorama/bangkok-thailand-amateurvideos-zeigen-folgen-von-schwerem-erdbeben](https://www.spiegel.de/panorama/bangkok-thailand-amateurvideos-zeigen-folgen-von-schwerem-erdbeben-a-fae9e420-6da6-49f1-a754-1b9618b1ce93#ref=rss)
+* [https://www.spiegel.de/kultur/ashton-hall-geht-viral-die-morgenroutine-ist-tot](https://www.spiegel.de/kultur/ashton-hall-geht-viral-die-morgenroutine-ist-tot-a-43470243-c1e2-4e8b-a9b5-741ba2f19133#ref=rss)
+* [https://www.spiegel.de/sport/fussball/womens-champions-league-vfl-wolfsburg-geht-beim-fc-barcelona-1-6-unter](https://www.spiegel.de/sport/fussball/womens-champions-league-vfl-wolfsburg-geht-beim-fc-barcelona-1-6-unter-a-acf9791b-8bd6-4fa9-bf32-653b63c70a4e#ref=rss)
+### usa
 
-* [https://www.spiegel.de/wissenschaft/amerikas-universitaeten-brauchen-mut-zum-widerstand](https://www.spiegel.de/wissenschaft/amerikas-universitaeten-brauchen-mut-zum-widerstand-a-e889046f-e82b-4c75-b9ab-654cc229e08b#ref=rss)
-### aleksandar
+* [https://www.spiegel.de/sport/fussball/alphonso-davies-fc-bayern-muenchen-droht-kanadas-verband-mit-juristischen-schritten](https://www.spiegel.de/sport/fussball/alphonso-davies-fc-bayern-muenchen-droht-kanadas-verband-mit-juristischen-schritten-a-b9ee06be-45f9-40c0-8d28-2f61d74d4e1a#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/eiskunstlauf-wm-minerva-hase-und-nikita-wolodin-knapp-an-wm-gold-vorbei](https://www.spiegel.de/sport/wintersport/eiskunstlauf-wm-minerva-hase-und-nikita-wolodin-knapp-an-wm-gold-vorbei-a-5a7d053b-3e17-42df-8d2c-9440739a7588#ref=rss)
+* [https://www.spiegel.de/wirtschaft/trumps-zollpolitik-deloitte-erwartet-einbruch-der-autoexporte](https://www.spiegel.de/wirtschaft/trumps-zollpolitik-deloitte-erwartet-einbruch-der-autoexporte-a-1a3adc06-5ba5-4293-b2ca-eac54d582960#ref=rss)
+### allem
 
-* [https://www.spiegel.de/ausland/serbien-warum-jede-woche-tausende-gegen-praesident-aleksandar-vucic-auf-die-strasse-gehen](https://www.spiegel.de/ausland/serbien-warum-jede-woche-tausende-gegen-praesident-aleksandar-vucic-auf-die-strasse-gehen-a-a0d140ad-9595-4c18-b597-fba7b9c42e76#ref=rss)
-### vučić
+* [https://www.spiegel.de/panorama/kriminalstatistik-fuer-2024-kinder-und-jugendliche-werden-immer-gewalttaetiger](https://www.spiegel.de/panorama/kriminalstatistik-fuer-2024-kinder-und-jugendliche-werden-immer-gewalttaetiger-a-179b914c-cb88-4fd2-b885-a1f22655cf67#ref=rss)
+* [https://www.spiegel.de/wirtschaft/trumps-zollpolitik-deloitte-erwartet-einbruch-der-autoexporte](https://www.spiegel.de/wirtschaft/trumps-zollpolitik-deloitte-erwartet-einbruch-der-autoexporte-a-1a3adc06-5ba5-4293-b2ca-eac54d582960#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-elysee-sondergipfel-fuer-frieden-und-sicherheit-in-paris](https://www.spiegel.de/ausland/russland-ukraine-krieg-elysee-sondergipfel-fuer-frieden-und-sicherheit-in-paris-a-06727a40-82a4-4bab-a0eb-3d4d6c3e5fd6#ref=rss)
+### ziel
 
-* [https://www.spiegel.de/ausland/serbien-warum-jede-woche-tausende-gegen-praesident-aleksandar-vucic-auf-die-strasse-gehen](https://www.spiegel.de/ausland/serbien-warum-jede-woche-tausende-gegen-praesident-aleksandar-vucic-auf-die-strasse-gehen-a-a0d140ad-9595-4c18-b597-fba7b9c42e76#ref=rss)
+* [https://www.spiegel.de/psychologie/coaching-neue-gewohnheiten-einfuehren-so-machen-sie-gute-plaene-und-setzen-sie-auch-wirklich-um](https://www.spiegel.de/psychologie/coaching-neue-gewohnheiten-einfuehren-so-machen-sie-gute-plaene-und-setzen-sie-auch-wirklich-um-a-6dd4b400-064d-46c3-bc17-9aaac04c65c9#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/eiskunstlauf-wm-minerva-hase-und-nikita-wolodin-knapp-an-wm-gold-vorbei](https://www.spiegel.de/sport/wintersport/eiskunstlauf-wm-minerva-hase-und-nikita-wolodin-knapp-an-wm-gold-vorbei-a-5a7d053b-3e17-42df-8d2c-9440739a7588#ref=rss)
+* [https://www.spiegel.de/ausland/nahostkonflikt-israel-droht-libanon-mit-vergeltung-nach-raketenangriff](https://www.spiegel.de/ausland/nahostkonflikt-israel-droht-libanon-mit-vergeltung-nach-raketenangriff-a-01bb7c0a-b3f6-4b95-b78d-c9713bb5c641#ref=rss)
+### knapp
+
+* [https://www.spiegel.de/sport/wintersport/eiskunstlauf-wm-minerva-hase-und-nikita-wolodin-knapp-an-wm-gold-vorbei](https://www.spiegel.de/sport/wintersport/eiskunstlauf-wm-minerva-hase-und-nikita-wolodin-knapp-an-wm-gold-vorbei-a-5a7d053b-3e17-42df-8d2c-9440739a7588#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-linus-strasser-vermeidet-kollision-mit-pistenarbeiter-nur-knapp](https://www.spiegel.de/sport/wintersport/ski-alpin-linus-strasser-vermeidet-kollision-mit-pistenarbeiter-nur-knapp-a-37eb2c20-78dc-4f40-a15a-bdf0e407c434#ref=rss)
+### grünen
+
+* [https://www.spiegel.de/wirtschaft/klimaschutz-eine-mehrheit-ist-fuer-mehr-klimaschutz-er-soll-aber-nichts-kosten](https://www.spiegel.de/wirtschaft/klimaschutz-eine-mehrheit-ist-fuer-mehr-klimaschutz-er-soll-aber-nichts-kosten-a-04f37836-5d73-4120-a1d5-f492d9fba240#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/horst-seehofer-csu-politiker-warnt-davor-die-gruenen-zu-diffamieren](https://www.spiegel.de/politik/deutschland/horst-seehofer-csu-politiker-warnt-davor-die-gruenen-zu-diffamieren-a-c324d50a-690c-49dd-90ca-82564e463822#ref=rss)
+### sonne
+
+* [https://www.spiegel.de/wissenschaft/natur/sonnenfinsternis-am-samstag-sieht-die-sonne-etwas-angeknabbert-aus](https://www.spiegel.de/wissenschaft/natur/sonnenfinsternis-am-samstag-sieht-die-sonne-etwas-angeknabbert-aus-a-35e7933e-cd64-4a14-a50e-a3ce22207db6#ref=rss)
+### angriff
+
+* [https://www.spiegel.de/start/mutmasslicher-rassismus-studierende-bestuerzt-nach-zweitem-angriff-auf-btu-studenten](https://www.spiegel.de/start/mutmasslicher-rassismus-studierende-bestuerzt-nach-zweitem-angriff-auf-btu-studenten-a-f838100c-a223-4d1e-8a43-50a42a2bded4#ref=rss)
+### vermutet
+
+* [https://www.spiegel.de/start/mutmasslicher-rassismus-studierende-bestuerzt-nach-zweitem-angriff-auf-btu-studenten](https://www.spiegel.de/start/mutmasslicher-rassismus-studierende-bestuerzt-nach-zweitem-angriff-auf-btu-studenten-a-f838100c-a223-4d1e-8a43-50a42a2bded4#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/dubai-onlyfans-model-marija-kowaltschuk-schwerverletzt-aufgefunden](https://www.spiegel.de/panorama/justiz/dubai-onlyfans-model-marija-kowaltschuk-schwerverletzt-aufgefunden-a-1fe9105f-1528-4e84-91f9-36db7226c7af#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/start/mutmasslicher-rassismus-studierende-bestuerzt-nach-zweitem-angriff-auf-btu-studenten](https://www.spiegel.de/start/mutmasslicher-rassismus-studierende-bestuerzt-nach-zweitem-angriff-auf-btu-studenten-a-f838100c-a223-4d1e-8a43-50a42a2bded4#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/novara-in-italien-breaking-bad-fan-wegen-illegaler-herstellung-von-drogen-angeklagt](https://www.spiegel.de/panorama/justiz/novara-in-italien-breaking-bad-fan-wegen-illegaler-herstellung-von-drogen-angeklagt-a-28cfc506-ba29-482c-bd0a-13761bc7c3f7#ref=rss)
+### binnen
+
+* [https://www.spiegel.de/start/mutmasslicher-rassismus-studierende-bestuerzt-nach-zweitem-angriff-auf-btu-studenten](https://www.spiegel.de/start/mutmasslicher-rassismus-studierende-bestuerzt-nach-zweitem-angriff-auf-btu-studenten-a-f838100c-a223-4d1e-8a43-50a42a2bded4#ref=rss)
+* [https://www.spiegel.de/sport/fussball/womens-champions-league-vfl-wolfsburg-geht-beim-fc-barcelona-1-6-unter](https://www.spiegel.de/sport/fussball/womens-champions-league-vfl-wolfsburg-geht-beim-fc-barcelona-1-6-unter-a-acf9791b-8bd6-4fa9-bf32-653b63c70a4e#ref=rss)
+### weniger
+
+* [https://www.spiegel.de/start/mutmasslicher-rassismus-studierende-bestuerzt-nach-zweitem-angriff-auf-btu-studenten](https://www.spiegel.de/start/mutmasslicher-rassismus-studierende-bestuerzt-nach-zweitem-angriff-auf-btu-studenten-a-f838100c-a223-4d1e-8a43-50a42a2bded4#ref=rss)
+* [https://www.spiegel.de/sport/fussball/womens-champions-league-vfl-wolfsburg-geht-beim-fc-barcelona-1-6-unter](https://www.spiegel.de/sport/fussball/womens-champions-league-vfl-wolfsburg-geht-beim-fc-barcelona-1-6-unter-a-acf9791b-8bd6-4fa9-bf32-653b63c70a4e#ref=rss)
+### problem
+
+* [https://www.spiegel.de/start/mutmasslicher-rassismus-studierende-bestuerzt-nach-zweitem-angriff-auf-btu-studenten](https://www.spiegel.de/start/mutmasslicher-rassismus-studierende-bestuerzt-nach-zweitem-angriff-auf-btu-studenten-a-f838100c-a223-4d1e-8a43-50a42a2bded4#ref=rss)
+* [https://www.spiegel.de/kultur/musik/selena-gomez-saengerin-spricht-ueber-unsicherheiten-durch-onlinekommentare](https://www.spiegel.de/kultur/musik/selena-gomez-saengerin-spricht-ueber-unsicherheiten-durch-onlinekommentare-a-9a293411-478c-4ec6-b846-b8dac317a0b3#ref=rss)
+### dubai
+
+* [https://www.spiegel.de/panorama/justiz/dubai-onlyfans-model-marija-kowaltschuk-schwerverletzt-aufgefunden](https://www.spiegel.de/panorama/justiz/dubai-onlyfans-model-marija-kowaltschuk-schwerverletzt-aufgefunden-a-1fe9105f-1528-4e84-91f9-36db7226c7af#ref=rss)
+### marija
+
+* [https://www.spiegel.de/panorama/justiz/dubai-onlyfans-model-marija-kowaltschuk-schwerverletzt-aufgefunden](https://www.spiegel.de/panorama/justiz/dubai-onlyfans-model-marija-kowaltschuk-schwerverletzt-aufgefunden-a-1fe9105f-1528-4e84-91f9-36db7226c7af#ref=rss)
+### kowaltschuk
+
+* [https://www.spiegel.de/panorama/justiz/dubai-onlyfans-model-marija-kowaltschuk-schwerverletzt-aufgefunden](https://www.spiegel.de/panorama/justiz/dubai-onlyfans-model-marija-kowaltschuk-schwerverletzt-aufgefunden-a-1fe9105f-1528-4e84-91f9-36db7226c7af#ref=rss)
+### schwerverletzt
+
+* [https://www.spiegel.de/panorama/justiz/dubai-onlyfans-model-marija-kowaltschuk-schwerverletzt-aufgefunden](https://www.spiegel.de/panorama/justiz/dubai-onlyfans-model-marija-kowaltschuk-schwerverletzt-aufgefunden-a-1fe9105f-1528-4e84-91f9-36db7226c7af#ref=rss)
+### aufgefunden
+
+* [https://www.spiegel.de/panorama/justiz/dubai-onlyfans-model-marija-kowaltschuk-schwerverletzt-aufgefunden](https://www.spiegel.de/panorama/justiz/dubai-onlyfans-model-marija-kowaltschuk-schwerverletzt-aufgefunden-a-1fe9105f-1528-4e84-91f9-36db7226c7af#ref=rss)
 ### grönland
 
-* [https://www.spiegel.de/ausland/groenland-groenlaender-lehnen-treffen-mit-usha-vance-ab](https://www.spiegel.de/ausland/groenland-groenlaender-lehnen-treffen-mit-usha-vance-ab-a-17f881e1-f0cf-49fb-b51c-6e150340eaa2#ref=rss)
-### vance
+* [https://www.spiegel.de/ausland/groenland-daenischer-politiker-fordert-konsequenzen-vor-vance-besuch](https://www.spiegel.de/ausland/groenland-daenischer-politiker-fordert-konsequenzen-vor-vance-besuch-a-07b1e5b4-9408-414e-859f-c1f37af1321b#ref=rss)
+### fordert
 
-* [https://www.spiegel.de/ausland/groenland-groenlaender-lehnen-treffen-mit-usha-vance-ab](https://www.spiegel.de/ausland/groenland-groenlaender-lehnen-treffen-mit-usha-vance-ab-a-17f881e1-f0cf-49fb-b51c-6e150340eaa2#ref=rss)
-### axt
+* [https://www.spiegel.de/ausland/groenland-daenischer-politiker-fordert-konsequenzen-vor-vance-besuch](https://www.spiegel.de/ausland/groenland-daenischer-politiker-fordert-konsequenzen-vor-vance-besuch-a-07b1e5b4-9408-414e-859f-c1f37af1321b#ref=rss)
+### konsequenzen
 
-* [https://www.spiegel.de/panorama/justiz/zwickau-familie-mit-axt-erschlagen-lebenslang-fuer-28-jaehrigen](https://www.spiegel.de/panorama/justiz/zwickau-familie-mit-axt-erschlagen-lebenslang-fuer-28-jaehrigen-a-73056b71-8218-453a-bdfa-cf1023ee38a5#ref=rss)
-### lebenslang
+* [https://www.spiegel.de/ausland/groenland-daenischer-politiker-fordert-konsequenzen-vor-vance-besuch](https://www.spiegel.de/ausland/groenland-daenischer-politiker-fordert-konsequenzen-vor-vance-besuch-a-07b1e5b4-9408-414e-859f-c1f37af1321b#ref=rss)
+### erwartet
 
-* [https://www.spiegel.de/panorama/justiz/zwickau-familie-mit-axt-erschlagen-lebenslang-fuer-28-jaehrigen](https://www.spiegel.de/panorama/justiz/zwickau-familie-mit-axt-erschlagen-lebenslang-fuer-28-jaehrigen-a-73056b71-8218-453a-bdfa-cf1023ee38a5#ref=rss)
-### florida
+* [https://www.spiegel.de/ausland/groenland-daenischer-politiker-fordert-konsequenzen-vor-vance-besuch](https://www.spiegel.de/ausland/groenland-daenischer-politiker-fordert-konsequenzen-vor-vance-besuch-a-07b1e5b4-9408-414e-859f-c1f37af1321b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/trumps-zollpolitik-deloitte-erwartet-einbruch-der-autoexporte](https://www.spiegel.de/wirtschaft/trumps-zollpolitik-deloitte-erwartet-einbruch-der-autoexporte-a-1a3adc06-5ba5-4293-b2ca-eac54d582960#ref=rss)
+### klar
 
-* [https://www.spiegel.de/wirtschaft/usa-florida-sucht-arbeitskraefte-jetzt-sollen-14-jaehrige-einspringen](https://www.spiegel.de/wirtschaft/usa-florida-sucht-arbeitskraefte-jetzt-sollen-14-jaehrige-einspringen-a-7054cf0e-847a-4901-a759-dc2dfec13a05#ref=rss)
-### amazon
+* [https://www.spiegel.de/ausland/groenland-daenischer-politiker-fordert-konsequenzen-vor-vance-besuch](https://www.spiegel.de/ausland/groenland-daenischer-politiker-fordert-konsequenzen-vor-vance-besuch-a-07b1e5b4-9408-414e-859f-c1f37af1321b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/klimaschutz-eine-mehrheit-ist-fuer-mehr-klimaschutz-er-soll-aber-nichts-kosten](https://www.spiegel.de/wirtschaft/klimaschutz-eine-mehrheit-ist-fuer-mehr-klimaschutz-er-soll-aber-nichts-kosten-a-04f37836-5d73-4120-a1d5-f492d9fba240#ref=rss)
+### 71jährige
 
-* [https://www.spiegel.de/netzwelt/web/amazon-marketplace-bgh-staerkt-datenschutz-bei-medikamentenverkauf-im-internet](https://www.spiegel.de/netzwelt/web/amazon-marketplace-bgh-staerkt-datenschutz-bei-medikamentenverkauf-im-internet-a-d74c3db0-1e7c-4fbe-90a7-1b6a6751de79#ref=rss)
-### marketplace
+* [https://www.spiegel.de/ausland/elon-musk-71-jaehrige-bei-anti-musk-demo-in-berkeley-mit-elektroschocker-attackiert](https://www.spiegel.de/ausland/elon-musk-71-jaehrige-bei-anti-musk-demo-in-berkeley-mit-elektroschocker-attackiert-a-bd46800c-e2ce-412c-be1f-e72d58a2da54#ref=rss)
+### elektroschocker
 
-* [https://www.spiegel.de/netzwelt/web/amazon-marketplace-bgh-staerkt-datenschutz-bei-medikamentenverkauf-im-internet](https://www.spiegel.de/netzwelt/web/amazon-marketplace-bgh-staerkt-datenschutz-bei-medikamentenverkauf-im-internet-a-d74c3db0-1e7c-4fbe-90a7-1b6a6751de79#ref=rss)
+* [https://www.spiegel.de/ausland/elon-musk-71-jaehrige-bei-anti-musk-demo-in-berkeley-mit-elektroschocker-attackiert](https://www.spiegel.de/ausland/elon-musk-71-jaehrige-bei-anti-musk-demo-in-berkeley-mit-elektroschocker-attackiert-a-bd46800c-e2ce-412c-be1f-e72d58a2da54#ref=rss)
+### facebook
+
+* [https://www.spiegel.de/netzwelt/apps/marc-zuckerberg-kuendigt-neues-altes-facebook-erlebnis-an](https://www.spiegel.de/netzwelt/apps/marc-zuckerberg-kuendigt-neues-altes-facebook-erlebnis-an-a-88fd350b-bb9d-4f6c-9bcb-afd19a6a09c8#ref=rss)
+### mehrere
+
+* [https://www.spiegel.de/netzwelt/apps/marc-zuckerberg-kuendigt-neues-altes-facebook-erlebnis-an](https://www.spiegel.de/netzwelt/apps/marc-zuckerberg-kuendigt-neues-altes-facebook-erlebnis-an-a-88fd350b-bb9d-4f6c-9bcb-afd19a6a09c8#ref=rss)
+* [https://www.spiegel.de/ausland/thailand-und-myanmar-bilder-nach-dem-erdbeben](https://www.spiegel.de/ausland/thailand-und-myanmar-bilder-nach-dem-erdbeben-a-a6d921c8-45c7-4990-8901-c7bb8f56d8e9#ref=rss)
+### kennt
+
+* [https://www.spiegel.de/netzwelt/apps/marc-zuckerberg-kuendigt-neues-altes-facebook-erlebnis-an](https://www.spiegel.de/netzwelt/apps/marc-zuckerberg-kuendigt-neues-altes-facebook-erlebnis-an-a-88fd350b-bb9d-4f6c-9bcb-afd19a6a09c8#ref=rss)
+* [https://www.spiegel.de/panorama/italien-buergermeister-schafft-kaffeeautomaten-ab](https://www.spiegel.de/panorama/italien-buergermeister-schafft-kaffeeautomaten-ab-a-6825897c-0e06-4e4c-a295-b6ce9204142e#ref=rss)
+### stehen
+
+* [https://www.spiegel.de/netzwelt/apps/marc-zuckerberg-kuendigt-neues-altes-facebook-erlebnis-an](https://www.spiegel.de/netzwelt/apps/marc-zuckerberg-kuendigt-neues-altes-facebook-erlebnis-an-a-88fd350b-bb9d-4f6c-9bcb-afd19a6a09c8#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-elysee-sondergipfel-fuer-frieden-und-sicherheit-in-paris](https://www.spiegel.de/ausland/russland-ukraine-krieg-elysee-sondergipfel-fuer-frieden-und-sicherheit-in-paris-a-06727a40-82a4-4bab-a0eb-3d4d6c3e5fd6#ref=rss)
+### ostsee
+
+* [https://www.spiegel.de/wissenschaft/natur/ostsee-forscher-aus-rostock-wecken-alge-nach-7000-jahren-dauerschlaf](https://www.spiegel.de/wissenschaft/natur/ostsee-forscher-aus-rostock-wecken-alge-nach-7000-jahren-dauerschlaf-a-5da80e5c-435a-489f-8c46-a059a42fedb7#ref=rss)
+### alge
+
+* [https://www.spiegel.de/wissenschaft/natur/ostsee-forscher-aus-rostock-wecken-alge-nach-7000-jahren-dauerschlaf](https://www.spiegel.de/wissenschaft/natur/ostsee-forscher-aus-rostock-wecken-alge-nach-7000-jahren-dauerschlaf-a-5da80e5c-435a-489f-8c46-a059a42fedb7#ref=rss)
+### tot
+
+* [https://www.spiegel.de/wissenschaft/natur/ostsee-forscher-aus-rostock-wecken-alge-nach-7000-jahren-dauerschlaf](https://www.spiegel.de/wissenschaft/natur/ostsee-forscher-aus-rostock-wecken-alge-nach-7000-jahren-dauerschlaf-a-5da80e5c-435a-489f-8c46-a059a42fedb7#ref=rss)
+* [https://www.spiegel.de/kultur/ashton-hall-geht-viral-die-morgenroutine-ist-tot](https://www.spiegel.de/kultur/ashton-hall-geht-viral-die-morgenroutine-ist-tot-a-43470243-c1e2-4e8b-a9b5-741ba2f19133#ref=rss)
+### südostasien
+
+* [https://www.spiegel.de/ausland/thailand-und-myanmar-das-ist-ueber-das-erdbeben-in-suedostasien-bekannt](https://www.spiegel.de/ausland/thailand-und-myanmar-das-ist-ueber-das-erdbeben-in-suedostasien-bekannt-a-0c7a533b-69d2-4c97-bf80-c7c8a651fecf#ref=rss)
+### anderem
+
+* [https://www.spiegel.de/panorama/bangkok-thailand-amateurvideos-zeigen-folgen-von-schwerem-erdbeben](https://www.spiegel.de/panorama/bangkok-thailand-amateurvideos-zeigen-folgen-von-schwerem-erdbeben-a-fae9e420-6da6-49f1-a754-1b9618b1ce93#ref=rss)
+* [https://www.spiegel.de/kultur/ashton-hall-geht-viral-die-morgenroutine-ist-tot](https://www.spiegel.de/kultur/ashton-hall-geht-viral-die-morgenroutine-ist-tot-a-43470243-c1e2-4e8b-a9b5-741ba2f19133#ref=rss)
+### hauptstadt
+
+* [https://www.spiegel.de/panorama/bangkok-thailand-amateurvideos-zeigen-folgen-von-schwerem-erdbeben](https://www.spiegel.de/panorama/bangkok-thailand-amateurvideos-zeigen-folgen-von-schwerem-erdbeben-a-fae9e420-6da6-49f1-a754-1b9618b1ce93#ref=rss)
+* [https://www.spiegel.de/auto/berlin-nach-ringbahnbruecke-der-a100-auch-s-bahn-gesperrt](https://www.spiegel.de/auto/berlin-nach-ringbahnbruecke-der-a100-auch-s-bahn-gesperrt-a-ee086562-691a-40d0-98c3-ec2fb0676e29#ref=rss)
+### erschüttert
+
+* [https://www.spiegel.de/panorama/bangkok-thailand-amateurvideos-zeigen-folgen-von-schwerem-erdbeben](https://www.spiegel.de/panorama/bangkok-thailand-amateurvideos-zeigen-folgen-von-schwerem-erdbeben-a-fae9e420-6da6-49f1-a754-1b9618b1ce93#ref=rss)
+* [https://www.spiegel.de/ausland/thailand-und-myanmar-bilder-nach-dem-erdbeben](https://www.spiegel.de/ausland/thailand-und-myanmar-bilder-nach-dem-erdbeben-a-a6d921c8-45c7-4990-8901-c7bb8f56d8e9#ref=rss)
+### alphonso
+
+* [https://www.spiegel.de/sport/fussball/alphonso-davies-fc-bayern-muenchen-droht-kanadas-verband-mit-juristischen-schritten](https://www.spiegel.de/sport/fussball/alphonso-davies-fc-bayern-muenchen-droht-kanadas-verband-mit-juristischen-schritten-a-b9ee06be-45f9-40c0-8d28-2f61d74d4e1a#ref=rss)
+### davies
+
+* [https://www.spiegel.de/sport/fussball/alphonso-davies-fc-bayern-muenchen-droht-kanadas-verband-mit-juristischen-schritten](https://www.spiegel.de/sport/fussball/alphonso-davies-fc-bayern-muenchen-droht-kanadas-verband-mit-juristischen-schritten-a-b9ee06be-45f9-40c0-8d28-2f61d74d4e1a#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/sport/fussball/alphonso-davies-fc-bayern-muenchen-droht-kanadas-verband-mit-juristischen-schritten](https://www.spiegel.de/sport/fussball/alphonso-davies-fc-bayern-muenchen-droht-kanadas-verband-mit-juristischen-schritten-a-b9ee06be-45f9-40c0-8d28-2f61d74d4e1a#ref=rss)
+### münchen
+
+* [https://www.spiegel.de/sport/fussball/alphonso-davies-fc-bayern-muenchen-droht-kanadas-verband-mit-juristischen-schritten](https://www.spiegel.de/sport/fussball/alphonso-davies-fc-bayern-muenchen-droht-kanadas-verband-mit-juristischen-schritten-a-b9ee06be-45f9-40c0-8d28-2f61d74d4e1a#ref=rss)
+### droht
+
+* [https://www.spiegel.de/sport/fussball/alphonso-davies-fc-bayern-muenchen-droht-kanadas-verband-mit-juristischen-schritten](https://www.spiegel.de/sport/fussball/alphonso-davies-fc-bayern-muenchen-droht-kanadas-verband-mit-juristischen-schritten-a-b9ee06be-45f9-40c0-8d28-2f61d74d4e1a#ref=rss)
+* [https://www.spiegel.de/ausland/nahostkonflikt-israel-droht-libanon-mit-vergeltung-nach-raketenangriff](https://www.spiegel.de/ausland/nahostkonflikt-israel-droht-libanon-mit-vergeltung-nach-raketenangriff-a-01bb7c0a-b3f6-4b95-b78d-c9713bb5c641#ref=rss)
+### verband
+
+* [https://www.spiegel.de/sport/fussball/alphonso-davies-fc-bayern-muenchen-droht-kanadas-verband-mit-juristischen-schritten](https://www.spiegel.de/sport/fussball/alphonso-davies-fc-bayern-muenchen-droht-kanadas-verband-mit-juristischen-schritten-a-b9ee06be-45f9-40c0-8d28-2f61d74d4e1a#ref=rss)
+### italien
+
+* [https://www.spiegel.de/panorama/justiz/novara-in-italien-breaking-bad-fan-wegen-illegaler-herstellung-von-drogen-angeklagt](https://www.spiegel.de/panorama/justiz/novara-in-italien-breaking-bad-fan-wegen-illegaler-herstellung-von-drogen-angeklagt-a-28cfc506-ba29-482c-bd0a-13761bc7c3f7#ref=rss)
+* [https://www.spiegel.de/panorama/italien-buergermeister-schafft-kaffeeautomaten-ab](https://www.spiegel.de/panorama/italien-buergermeister-schafft-kaffeeautomaten-ab-a-6825897c-0e06-4e4c-a295-b6ce9204142e#ref=rss)
+### annalena
+
+* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-zur-uno-christoph-heusgen-erneuert-kritik-deutschland-tut-sich-keinen-gefallen](https://www.spiegel.de/politik/deutschland/annalena-baerbock-zur-uno-christoph-heusgen-erneuert-kritik-deutschland-tut-sich-keinen-gefallen-a-8d7d4b32-bf27-4862-aca0-84dc9cd9ff22#ref=rss)
+### baerbock
+
+* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-zur-uno-christoph-heusgen-erneuert-kritik-deutschland-tut-sich-keinen-gefallen](https://www.spiegel.de/politik/deutschland/annalena-baerbock-zur-uno-christoph-heusgen-erneuert-kritik-deutschland-tut-sich-keinen-gefallen-a-8d7d4b32-bf27-4862-aca0-84dc9cd9ff22#ref=rss)
+### uno
+
+* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-zur-uno-christoph-heusgen-erneuert-kritik-deutschland-tut-sich-keinen-gefallen](https://www.spiegel.de/politik/deutschland/annalena-baerbock-zur-uno-christoph-heusgen-erneuert-kritik-deutschland-tut-sich-keinen-gefallen-a-8d7d4b32-bf27-4862-aca0-84dc9cd9ff22#ref=rss)
+### christoph
+
+* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-zur-uno-christoph-heusgen-erneuert-kritik-deutschland-tut-sich-keinen-gefallen](https://www.spiegel.de/politik/deutschland/annalena-baerbock-zur-uno-christoph-heusgen-erneuert-kritik-deutschland-tut-sich-keinen-gefallen-a-8d7d4b32-bf27-4862-aca0-84dc9cd9ff22#ref=rss)
+### heusgen
+
+* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-zur-uno-christoph-heusgen-erneuert-kritik-deutschland-tut-sich-keinen-gefallen](https://www.spiegel.de/politik/deutschland/annalena-baerbock-zur-uno-christoph-heusgen-erneuert-kritik-deutschland-tut-sich-keinen-gefallen-a-8d7d4b32-bf27-4862-aca0-84dc9cd9ff22#ref=rss)
+### 2024
+
+* [https://www.spiegel.de/panorama/kriminalstatistik-fuer-2024-kinder-und-jugendliche-werden-immer-gewalttaetiger](https://www.spiegel.de/panorama/kriminalstatistik-fuer-2024-kinder-und-jugendliche-werden-immer-gewalttaetiger-a-179b914c-cb88-4fd2-b885-a1f22655cf67#ref=rss)
+### bürgermeister
+
+* [https://www.spiegel.de/panorama/italien-buergermeister-schafft-kaffeeautomaten-ab](https://www.spiegel.de/panorama/italien-buergermeister-schafft-kaffeeautomaten-ab-a-6825897c-0e06-4e4c-a295-b6ce9204142e#ref=rss)
+### idee
+
+* [https://www.spiegel.de/panorama/italien-buergermeister-schafft-kaffeeautomaten-ab](https://www.spiegel.de/panorama/italien-buergermeister-schafft-kaffeeautomaten-ab-a-6825897c-0e06-4e4c-a295-b6ce9204142e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/horst-seehofer-csu-politiker-warnt-davor-die-gruenen-zu-diffamieren](https://www.spiegel.de/politik/deutschland/horst-seehofer-csu-politiker-warnt-davor-die-gruenen-zu-diffamieren-a-c324d50a-690c-49dd-90ca-82564e463822#ref=rss)
+### neue
+
+* [https://www.spiegel.de/psychologie/coaching-neue-gewohnheiten-einfuehren-so-machen-sie-gute-plaene-und-setzen-sie-auch-wirklich-um](https://www.spiegel.de/psychologie/coaching-neue-gewohnheiten-einfuehren-so-machen-sie-gute-plaene-und-setzen-sie-auch-wirklich-um-a-6dd4b400-064d-46c3-bc17-9aaac04c65c9#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-elysee-sondergipfel-fuer-frieden-und-sicherheit-in-paris](https://www.spiegel.de/ausland/russland-ukraine-krieg-elysee-sondergipfel-fuer-frieden-und-sicherheit-in-paris-a-06727a40-82a4-4bab-a0eb-3d4d6c3e5fd6#ref=rss)
+### gute
+
+* [https://www.spiegel.de/psychologie/coaching-neue-gewohnheiten-einfuehren-so-machen-sie-gute-plaene-und-setzen-sie-auch-wirklich-um](https://www.spiegel.de/psychologie/coaching-neue-gewohnheiten-einfuehren-so-machen-sie-gute-plaene-und-setzen-sie-auch-wirklich-um-a-6dd4b400-064d-46c3-bc17-9aaac04c65c9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/horst-seehofer-csu-politiker-warnt-davor-die-gruenen-zu-diffamieren](https://www.spiegel.de/politik/deutschland/horst-seehofer-csu-politiker-warnt-davor-die-gruenen-zu-diffamieren-a-c324d50a-690c-49dd-90ca-82564e463822#ref=rss)
+### bilder
+
+* [https://www.spiegel.de/ausland/thailand-und-myanmar-bilder-nach-dem-erdbeben](https://www.spiegel.de/ausland/thailand-und-myanmar-bilder-nach-dem-erdbeben-a-a6d921c8-45c7-4990-8901-c7bb8f56d8e9#ref=rss)
+### starkes
+
+* [https://www.spiegel.de/ausland/thailand-und-myanmar-bilder-nach-dem-erdbeben](https://www.spiegel.de/ausland/thailand-und-myanmar-bilder-nach-dem-erdbeben-a-a6d921c8-45c7-4990-8901-c7bb8f56d8e9#ref=rss)
+* [https://www.spiegel.de/panorama/thailand-starkes-erdbeben-in-thailand-und-myanmar](https://www.spiegel.de/panorama/thailand-starkes-erdbeben-in-thailand-und-myanmar-a-cad7a350-7883-4c68-881d-c598e31f214d#ref=rss)
+### gerade
+
+* [https://www.spiegel.de/auto/berlin-nach-ringbahnbruecke-der-a100-auch-s-bahn-gesperrt](https://www.spiegel.de/auto/berlin-nach-ringbahnbruecke-der-a100-auch-s-bahn-gesperrt-a-ee086562-691a-40d0-98c3-ec2fb0676e29#ref=rss)
+* [https://www.spiegel.de/kultur/ashton-hall-geht-viral-die-morgenroutine-ist-tot](https://www.spiegel.de/kultur/ashton-hall-geht-viral-die-morgenroutine-ist-tot-a-43470243-c1e2-4e8b-a9b5-741ba2f19133#ref=rss)
+### schäden
+
+* [https://www.spiegel.de/auto/berlin-nach-ringbahnbruecke-der-a100-auch-s-bahn-gesperrt](https://www.spiegel.de/auto/berlin-nach-ringbahnbruecke-der-a100-auch-s-bahn-gesperrt-a-ee086562-691a-40d0-98c3-ec2fb0676e29#ref=rss)
+* [https://www.spiegel.de/panorama/thailand-starkes-erdbeben-in-thailand-und-myanmar](https://www.spiegel.de/panorama/thailand-starkes-erdbeben-in-thailand-und-myanmar-a-cad7a350-7883-4c68-881d-c598e31f214d#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/auto/berlin-nach-ringbahnbruecke-der-a100-auch-s-bahn-gesperrt](https://www.spiegel.de/auto/berlin-nach-ringbahnbruecke-der-a100-auch-s-bahn-gesperrt-a-ee086562-691a-40d0-98c3-ec2fb0676e29#ref=rss)
+* [https://www.spiegel.de/wirtschaft/klimaschutz-eine-mehrheit-ist-fuer-mehr-klimaschutz-er-soll-aber-nichts-kosten](https://www.spiegel.de/wirtschaft/klimaschutz-eine-mehrheit-ist-fuer-mehr-klimaschutz-er-soll-aber-nichts-kosten-a-04f37836-5d73-4120-a1d5-f492d9fba240#ref=rss)
+### selena
+
+* [https://www.spiegel.de/kultur/musik/selena-gomez-saengerin-spricht-ueber-unsicherheiten-durch-onlinekommentare](https://www.spiegel.de/kultur/musik/selena-gomez-saengerin-spricht-ueber-unsicherheiten-durch-onlinekommentare-a-9a293411-478c-4ec6-b846-b8dac317a0b3#ref=rss)
+### gomez
+
+* [https://www.spiegel.de/kultur/musik/selena-gomez-saengerin-spricht-ueber-unsicherheiten-durch-onlinekommentare](https://www.spiegel.de/kultur/musik/selena-gomez-saengerin-spricht-ueber-unsicherheiten-durch-onlinekommentare-a-9a293411-478c-4ec6-b846-b8dac317a0b3#ref=rss)
+### frauen
+
+* [https://www.spiegel.de/kultur/musik/selena-gomez-saengerin-spricht-ueber-unsicherheiten-durch-onlinekommentare](https://www.spiegel.de/kultur/musik/selena-gomez-saengerin-spricht-ueber-unsicherheiten-durch-onlinekommentare-a-9a293411-478c-4ec6-b846-b8dac317a0b3#ref=rss)
+* [https://www.spiegel.de/sport/fussball/womens-champions-league-vfl-wolfsburg-geht-beim-fc-barcelona-1-6-unter](https://www.spiegel.de/sport/fussball/womens-champions-league-vfl-wolfsburg-geht-beim-fc-barcelona-1-6-unter-a-acf9791b-8bd6-4fa9-bf32-653b63c70a4e#ref=rss)
+### eiskunstlaufwm
+
+* [https://www.spiegel.de/sport/wintersport/eiskunstlauf-wm-minerva-hase-und-nikita-wolodin-knapp-an-wm-gold-vorbei](https://www.spiegel.de/sport/wintersport/eiskunstlauf-wm-minerva-hase-und-nikita-wolodin-knapp-an-wm-gold-vorbei-a-5a7d053b-3e17-42df-8d2c-9440739a7588#ref=rss)
+### minerva
+
+* [https://www.spiegel.de/sport/wintersport/eiskunstlauf-wm-minerva-hase-und-nikita-wolodin-knapp-an-wm-gold-vorbei](https://www.spiegel.de/sport/wintersport/eiskunstlauf-wm-minerva-hase-und-nikita-wolodin-knapp-an-wm-gold-vorbei-a-5a7d053b-3e17-42df-8d2c-9440739a7588#ref=rss)
+### hase
+
+* [https://www.spiegel.de/sport/wintersport/eiskunstlauf-wm-minerva-hase-und-nikita-wolodin-knapp-an-wm-gold-vorbei](https://www.spiegel.de/sport/wintersport/eiskunstlauf-wm-minerva-hase-und-nikita-wolodin-knapp-an-wm-gold-vorbei-a-5a7d053b-3e17-42df-8d2c-9440739a7588#ref=rss)
+### nikita
+
+* [https://www.spiegel.de/sport/wintersport/eiskunstlauf-wm-minerva-hase-und-nikita-wolodin-knapp-an-wm-gold-vorbei](https://www.spiegel.de/sport/wintersport/eiskunstlauf-wm-minerva-hase-und-nikita-wolodin-knapp-an-wm-gold-vorbei-a-5a7d053b-3e17-42df-8d2c-9440739a7588#ref=rss)
+### wolodin
+
+* [https://www.spiegel.de/sport/wintersport/eiskunstlauf-wm-minerva-hase-und-nikita-wolodin-knapp-an-wm-gold-vorbei](https://www.spiegel.de/sport/wintersport/eiskunstlauf-wm-minerva-hase-und-nikita-wolodin-knapp-an-wm-gold-vorbei-a-5a7d053b-3e17-42df-8d2c-9440739a7588#ref=rss)
+### israel
+
+* [https://www.spiegel.de/ausland/nahostkonflikt-israel-droht-libanon-mit-vergeltung-nach-raketenangriff](https://www.spiegel.de/ausland/nahostkonflikt-israel-droht-libanon-mit-vergeltung-nach-raketenangriff-a-01bb7c0a-b3f6-4b95-b78d-c9713bb5c641#ref=rss)
+### vergeltung
+
+* [https://www.spiegel.de/ausland/nahostkonflikt-israel-droht-libanon-mit-vergeltung-nach-raketenangriff](https://www.spiegel.de/ausland/nahostkonflikt-israel-droht-libanon-mit-vergeltung-nach-raketenangriff-a-01bb7c0a-b3f6-4b95-b78d-c9713bb5c641#ref=rss)
+### viral
+
+* [https://www.spiegel.de/kultur/ashton-hall-geht-viral-die-morgenroutine-ist-tot](https://www.spiegel.de/kultur/ashton-hall-geht-viral-die-morgenroutine-ist-tot-a-43470243-c1e2-4e8b-a9b5-741ba2f19133#ref=rss)
+### desideriuserasmusstiftung
+
+* [https://www.spiegel.de/politik/deutschland/desiderius-erasmus-stiftung-wie-die-afd-um-millionen-fuer-ihre-parteinahe-stiftung-kaempft](https://www.spiegel.de/politik/deutschland/desiderius-erasmus-stiftung-wie-die-afd-um-millionen-fuer-ihre-parteinahe-stiftung-kaempft-a-14be8533-ffff-4c76-a5b5-5cbff989e562#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/politik/deutschland/desiderius-erasmus-stiftung-wie-die-afd-um-millionen-fuer-ihre-parteinahe-stiftung-kaempft](https://www.spiegel.de/politik/deutschland/desiderius-erasmus-stiftung-wie-die-afd-um-millionen-fuer-ihre-parteinahe-stiftung-kaempft-a-14be8533-ffff-4c76-a5b5-5cbff989e562#ref=rss)
+### parteinahe
+
+* [https://www.spiegel.de/politik/deutschland/desiderius-erasmus-stiftung-wie-die-afd-um-millionen-fuer-ihre-parteinahe-stiftung-kaempft](https://www.spiegel.de/politik/deutschland/desiderius-erasmus-stiftung-wie-die-afd-um-millionen-fuer-ihre-parteinahe-stiftung-kaempft-a-14be8533-ffff-4c76-a5b5-5cbff989e562#ref=rss)
+### deloitte
+
+* [https://www.spiegel.de/wirtschaft/trumps-zollpolitik-deloitte-erwartet-einbruch-der-autoexporte](https://www.spiegel.de/wirtschaft/trumps-zollpolitik-deloitte-erwartet-einbruch-der-autoexporte-a-1a3adc06-5ba5-4293-b2ca-eac54d582960#ref=rss)
+### élyséesondergipfel
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-elysee-sondergipfel-fuer-frieden-und-sicherheit-in-paris](https://www.spiegel.de/ausland/russland-ukraine-krieg-elysee-sondergipfel-fuer-frieden-und-sicherheit-in-paris-a-06727a40-82a4-4bab-a0eb-3d4d6c3e5fd6#ref=rss)
+### frieden
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-elysee-sondergipfel-fuer-frieden-und-sicherheit-in-paris](https://www.spiegel.de/ausland/russland-ukraine-krieg-elysee-sondergipfel-fuer-frieden-und-sicherheit-in-paris-a-06727a40-82a4-4bab-a0eb-3d4d6c3e5fd6#ref=rss)
+### sicherheit
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-elysee-sondergipfel-fuer-frieden-und-sicherheit-in-paris](https://www.spiegel.de/ausland/russland-ukraine-krieg-elysee-sondergipfel-fuer-frieden-und-sicherheit-in-paris-a-06727a40-82a4-4bab-a0eb-3d4d6c3e5fd6#ref=rss)
+### linus
+
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-linus-strasser-vermeidet-kollision-mit-pistenarbeiter-nur-knapp](https://www.spiegel.de/sport/wintersport/ski-alpin-linus-strasser-vermeidet-kollision-mit-pistenarbeiter-nur-knapp-a-37eb2c20-78dc-4f40-a15a-bdf0e407c434#ref=rss)
+### straßer
+
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-linus-strasser-vermeidet-kollision-mit-pistenarbeiter-nur-knapp](https://www.spiegel.de/sport/wintersport/ski-alpin-linus-strasser-vermeidet-kollision-mit-pistenarbeiter-nur-knapp-a-37eb2c20-78dc-4f40-a15a-bdf0e407c434#ref=rss)
+### champions
+
+* [https://www.spiegel.de/sport/fussball/womens-champions-league-vfl-wolfsburg-geht-beim-fc-barcelona-1-6-unter](https://www.spiegel.de/sport/fussball/womens-champions-league-vfl-wolfsburg-geht-beim-fc-barcelona-1-6-unter-a-acf9791b-8bd6-4fa9-bf32-653b63c70a4e#ref=rss)
+### league
+
+* [https://www.spiegel.de/sport/fussball/womens-champions-league-vfl-wolfsburg-geht-beim-fc-barcelona-1-6-unter](https://www.spiegel.de/sport/fussball/womens-champions-league-vfl-wolfsburg-geht-beim-fc-barcelona-1-6-unter-a-acf9791b-8bd6-4fa9-bf32-653b63c70a4e#ref=rss)
+### vfl
+
+* [https://www.spiegel.de/sport/fussball/womens-champions-league-vfl-wolfsburg-geht-beim-fc-barcelona-1-6-unter](https://www.spiegel.de/sport/fussball/womens-champions-league-vfl-wolfsburg-geht-beim-fc-barcelona-1-6-unter-a-acf9791b-8bd6-4fa9-bf32-653b63c70a4e#ref=rss)
+### wolfsburg
+
+* [https://www.spiegel.de/sport/fussball/womens-champions-league-vfl-wolfsburg-geht-beim-fc-barcelona-1-6-unter](https://www.spiegel.de/sport/fussball/womens-champions-league-vfl-wolfsburg-geht-beim-fc-barcelona-1-6-unter-a-acf9791b-8bd6-4fa9-bf32-653b63c70a4e#ref=rss)
+### barcelona
+
+* [https://www.spiegel.de/sport/fussball/womens-champions-league-vfl-wolfsburg-geht-beim-fc-barcelona-1-6-unter](https://www.spiegel.de/sport/fussball/womens-champions-league-vfl-wolfsburg-geht-beim-fc-barcelona-1-6-unter-a-acf9791b-8bd6-4fa9-bf32-653b63c70a4e#ref=rss)
+### klimaschutz
+
+* [https://www.spiegel.de/wirtschaft/klimaschutz-eine-mehrheit-ist-fuer-mehr-klimaschutz-er-soll-aber-nichts-kosten](https://www.spiegel.de/wirtschaft/klimaschutz-eine-mehrheit-ist-fuer-mehr-klimaschutz-er-soll-aber-nichts-kosten-a-04f37836-5d73-4120-a1d5-f492d9fba240#ref=rss)
+### mehrheit
+
+* [https://www.spiegel.de/wirtschaft/klimaschutz-eine-mehrheit-ist-fuer-mehr-klimaschutz-er-soll-aber-nichts-kosten](https://www.spiegel.de/wirtschaft/klimaschutz-eine-mehrheit-ist-fuer-mehr-klimaschutz-er-soll-aber-nichts-kosten-a-04f37836-5d73-4120-a1d5-f492d9fba240#ref=rss)
+### horst
+
+* [https://www.spiegel.de/politik/deutschland/horst-seehofer-csu-politiker-warnt-davor-die-gruenen-zu-diffamieren](https://www.spiegel.de/politik/deutschland/horst-seehofer-csu-politiker-warnt-davor-die-gruenen-zu-diffamieren-a-c324d50a-690c-49dd-90ca-82564e463822#ref=rss)
+### seehofer
+
+* [https://www.spiegel.de/politik/deutschland/horst-seehofer-csu-politiker-warnt-davor-die-gruenen-zu-diffamieren](https://www.spiegel.de/politik/deutschland/horst-seehofer-csu-politiker-warnt-davor-die-gruenen-zu-diffamieren-a-c324d50a-690c-49dd-90ca-82564e463822#ref=rss)
 
