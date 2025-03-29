@@ -4,336 +4,262 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### spd
+### mehr
 
-* [https://www.spiegel.de/politik/deutschland/koalition-cdu-csu-und-spd-verhandeln-einige-brocken-spitzengespraeche-gestartet](https://www.spiegel.de/politik/deutschland/koalition-cdu-csu-und-spd-verhandeln-einige-brocken-spitzengespraeche-gestartet-a-d3aa27de-3c80-416f-b5af-c80b0d1c3d59#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-trotz-wahl-debakel-im-aufwind-in-der-spd-sprechen-sie-vom-house-of-lars](https://www.spiegel.de/politik/deutschland/lars-klingbeil-trotz-wahl-debakel-im-aufwind-in-der-spd-sprechen-sie-vom-house-of-lars-a-788f6b79-169d-4862-b57a-dabc360797d9#ref=rss)
-* [https://www.spiegel.de/auto/tempolimit-auf-autobahnen-wie-wuerden-sie-entscheiden-bedienen-sie-den-spiegel-temp-o-mat](https://www.spiegel.de/auto/tempolimit-auf-autobahnen-wie-wuerden-sie-entscheiden-bedienen-sie-den-spiegel-temp-o-mat-a-63f0ee4b-e67b-4e49-8389-deb16bb582bf#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/koalitionsverhandlungen-das-sagen-merz-soeder-klingbeil-und-esken-livestream](https://www.spiegel.de/politik/deutschland/koalitionsverhandlungen-das-sagen-merz-soeder-klingbeil-und-esken-livestream-a-5d58ccfa-6aa2-4687-9c10-79389b2c9b6d#ref=rss)
-### lars
+* [https://www.spiegel.de/panorama/erdbeben-in-myanmar-mehr-als-90-menschen-unter-truemmern-in-mandalay-vermutet](https://www.spiegel.de/panorama/erdbeben-in-myanmar-mehr-als-90-menschen-unter-truemmern-in-mandalay-vermutet-a-23e68f79-150e-46d6-aec1-fde4f22b37b6#ref=rss)
+* [https://www.spiegel.de/kultur/tv/tagesschau-sollte-nicht-mehr-ueber-sportereignisse-ohne-bilder-berichten](https://www.spiegel.de/kultur/tv/tagesschau-sollte-nicht-mehr-ueber-sportereignisse-ohne-bilder-berichten-a-bbcb1a36-144f-4e54-9c22-98e8531c346a#ref=rss)
+* [https://www.spiegel.de/panorama/erdbeben-in-myanmar-militaerjunta-spricht-von-mehr-als-690-toten](https://www.spiegel.de/panorama/erdbeben-in-myanmar-militaerjunta-spricht-von-mehr-als-690-toten-a-bfc88498-b119-4e07-a0bd-94e3764c8dd6#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/elon-musk-ki-firma-xai-uebernimmt-x](https://www.spiegel.de/netzwelt/web/elon-musk-ki-firma-xai-uebernimmt-x-a-6ea8ca88-d5e6-4ce1-970f-66267edaaba8#ref=rss)
+### jd
 
-* [https://www.spiegel.de/politik/deutschland/koalition-cdu-csu-und-spd-verhandeln-einige-brocken-spitzengespraeche-gestartet](https://www.spiegel.de/politik/deutschland/koalition-cdu-csu-und-spd-verhandeln-einige-brocken-spitzengespraeche-gestartet-a-d3aa27de-3c80-416f-b5af-c80b0d1c3d59#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-trotz-wahl-debakel-im-aufwind-in-der-spd-sprechen-sie-vom-house-of-lars](https://www.spiegel.de/politik/deutschland/lars-klingbeil-trotz-wahl-debakel-im-aufwind-in-der-spd-sprechen-sie-vom-house-of-lars-a-788f6b79-169d-4862-b57a-dabc360797d9#ref=rss)
-### klingbeil
+* [https://www.spiegel.de/ausland/daenischer-aussenminister-verbittet-sich-ton-von-j-d-vance](https://www.spiegel.de/ausland/daenischer-aussenminister-verbittet-sich-ton-von-j-d-vance-a-b25160ae-a205-4ef9-962b-46c50b91504c#ref=rss)
+* [https://www.spiegel.de/ausland/j-d-vance-auf-groenland-drei-stunden-eiszeit](https://www.spiegel.de/ausland/j-d-vance-auf-groenland-drei-stunden-eiszeit-a-882c5ae7-b01e-4c0d-a704-03169082a1ff#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-spekulationen-ueber-den-kuenftigen-finanzminister-j-d-vance-in-groenland-erdbeben-in-myanmar](https://www.spiegel.de/politik/deutschland/news-spekulationen-ueber-den-kuenftigen-finanzminister-j-d-vance-in-groenland-erdbeben-in-myanmar-a-64d873e6-089c-4231-8dee-16ec460dbace#ref=rss)
+### vance
 
-* [https://www.spiegel.de/politik/deutschland/koalition-cdu-csu-und-spd-verhandeln-einige-brocken-spitzengespraeche-gestartet](https://www.spiegel.de/politik/deutschland/koalition-cdu-csu-und-spd-verhandeln-einige-brocken-spitzengespraeche-gestartet-a-d3aa27de-3c80-416f-b5af-c80b0d1c3d59#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-trotz-wahl-debakel-im-aufwind-in-der-spd-sprechen-sie-vom-house-of-lars](https://www.spiegel.de/politik/deutschland/lars-klingbeil-trotz-wahl-debakel-im-aufwind-in-der-spd-sprechen-sie-vom-house-of-lars-a-788f6b79-169d-4862-b57a-dabc360797d9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/koalitionsverhandlungen-das-sagen-merz-soeder-klingbeil-und-esken-livestream](https://www.spiegel.de/politik/deutschland/koalitionsverhandlungen-das-sagen-merz-soeder-klingbeil-und-esken-livestream-a-5d58ccfa-6aa2-4687-9c10-79389b2c9b6d#ref=rss)
-### jahre
+* [https://www.spiegel.de/ausland/daenischer-aussenminister-verbittet-sich-ton-von-j-d-vance](https://www.spiegel.de/ausland/daenischer-aussenminister-verbittet-sich-ton-von-j-d-vance-a-b25160ae-a205-4ef9-962b-46c50b91504c#ref=rss)
+* [https://www.spiegel.de/ausland/j-d-vance-auf-groenland-drei-stunden-eiszeit](https://www.spiegel.de/ausland/j-d-vance-auf-groenland-drei-stunden-eiszeit-a-882c5ae7-b01e-4c0d-a704-03169082a1ff#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-spekulationen-ueber-den-kuenftigen-finanzminister-j-d-vance-in-groenland-erdbeben-in-myanmar](https://www.spiegel.de/politik/deutschland/news-spekulationen-ueber-den-kuenftigen-finanzminister-j-d-vance-in-groenland-erdbeben-in-myanmar-a-64d873e6-089c-4231-8dee-16ec460dbace#ref=rss)
+### grönland
 
-* [https://www.spiegel.de/wissenschaft/natur/fossil-sue-weicher-kern-perfekt-erhalten-harte-schale-aufgeloest](https://www.spiegel.de/wissenschaft/natur/fossil-sue-weicher-kern-perfekt-erhalten-harte-schale-aufgeloest-a-b2c0f620-63ce-4d74-b869-c436fd221c99#ref=rss)
-* [https://www.spiegel.de/kultur/musik/will-smith-perfume-genius-masha-qrella-lucy-dacus-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/will-smith-perfume-genius-masha-qrella-lucy-dacus-abgehoert-album-der-woche-a-97f65b5c-3125-4bbf-b5b9-540339b1b777#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/ndr-harzer-kux-soll-neue-intendantin-werden](https://www.spiegel.de/wirtschaft/unternehmen/ndr-harzer-kux-soll-neue-intendantin-werden-a-37256358-8c94-4d1a-a9b8-7ae933470aa8#ref=rss)
-### viele
-
-* [https://www.spiegel.de/panorama/kleingarten-sharing-ich-mache-aus-zwei-notlagen-eine-win-win-situation](https://www.spiegel.de/panorama/kleingarten-sharing-ich-mache-aus-zwei-notlagen-eine-win-win-situation-a-10a66c27-73f3-42c3-afee-0f366cb60407#ref=rss)
-* [https://www.spiegel.de/panorama/polizei-ein-drittel-der-hamburger-polizisten-ist-offen-fuer-populistische-positionen](https://www.spiegel.de/panorama/polizei-ein-drittel-der-hamburger-polizisten-ist-offen-fuer-populistische-positionen-a-8fa8d5c2-5feb-4bf9-a5ac-a28cb78a8b1c#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/baden-wuerttemberg-viele-schulschwaenzer-in-berufsvorbereitenden-klassen](https://www.spiegel.de/panorama/bildung/baden-wuerttemberg-viele-schulschwaenzer-in-berufsvorbereitenden-klassen-a-4b20b0af-b4af-4012-adff-e226067958a6#ref=rss)
-### gut
-
-* [https://www.spiegel.de/panorama/kleingarten-sharing-ich-mache-aus-zwei-notlagen-eine-win-win-situation](https://www.spiegel.de/panorama/kleingarten-sharing-ich-mache-aus-zwei-notlagen-eine-win-win-situation-a-10a66c27-73f3-42c3-afee-0f366cb60407#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/baden-wuerttemberg-viele-schulschwaenzer-in-berufsvorbereitenden-klassen](https://www.spiegel.de/panorama/bildung/baden-wuerttemberg-viele-schulschwaenzer-in-berufsvorbereitenden-klassen-a-4b20b0af-b4af-4012-adff-e226067958a6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/ndr-harzer-kux-soll-neue-intendantin-werden](https://www.spiegel.de/wirtschaft/unternehmen/ndr-harzer-kux-soll-neue-intendantin-werden-a-37256358-8c94-4d1a-a9b8-7ae933470aa8#ref=rss)
+* [https://www.spiegel.de/ausland/daenischer-aussenminister-verbittet-sich-ton-von-j-d-vance](https://www.spiegel.de/ausland/daenischer-aussenminister-verbittet-sich-ton-von-j-d-vance-a-b25160ae-a205-4ef9-962b-46c50b91504c#ref=rss)
+* [https://www.spiegel.de/ausland/j-d-vance-auf-groenland-drei-stunden-eiszeit](https://www.spiegel.de/ausland/j-d-vance-auf-groenland-drei-stunden-eiszeit-a-882c5ae7-b01e-4c0d-a704-03169082a1ff#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-spekulationen-ueber-den-kuenftigen-finanzminister-j-d-vance-in-groenland-erdbeben-in-myanmar](https://www.spiegel.de/politik/deutschland/news-spekulationen-ueber-den-kuenftigen-finanzminister-j-d-vance-in-groenland-erdbeben-in-myanmar-a-64d873e6-089c-4231-8dee-16ec460dbace#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/auto/fahrkultur/top-gear-james-may-aeussert-sich-gegen-autos-in-london](https://www.spiegel.de/auto/fahrkultur/top-gear-james-may-aeussert-sich-gegen-autos-in-london-a-e9b5a580-3a7c-4e4c-94c0-bc6cbd252e46#ref=rss)
-* [https://www.spiegel.de/ausland/welternaehrungsprogramm-einnahmen-weggebrochen-organisation-schlaegt-alarm](https://www.spiegel.de/ausland/welternaehrungsprogramm-einnahmen-weggebrochen-organisation-schlaegt-alarm-a-085da7e3-5180-4eea-8bba-4ccccf079211#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/chatgpt-generiert-bilder-im-studio-ghibli-stil-was-daran-problematisch-ist](https://www.spiegel.de/netzwelt/web/chatgpt-generiert-bilder-im-studio-ghibli-stil-was-daran-problematisch-ist-a-90be3c7e-ce4f-43f1-96e5-06ba6009417b#ref=rss)
-### rechts
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-details-aus-dem-geleakten-us-chat-afd-nahe-stiftung-hofft-auf-foerderung-susan-kegeles-gegen-rechts](https://www.spiegel.de/politik/deutschland/news-des-tages-details-aus-dem-geleakten-us-chat-afd-nahe-stiftung-hofft-auf-foerderung-susan-kegeles-gegen-rechts-a-8b126e93-f220-49a4-b2ef-74720ea9bab3#ref=rss)
-* [https://www.spiegel.de/panorama/polizei-ein-drittel-der-hamburger-polizisten-ist-offen-fuer-populistische-positionen](https://www.spiegel.de/panorama/polizei-ein-drittel-der-hamburger-polizisten-ist-offen-fuer-populistische-positionen-a-8fa8d5c2-5feb-4bf9-a5ac-a28cb78a8b1c#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/panorama/polizei-ein-drittel-der-hamburger-polizisten-ist-offen-fuer-populistische-positionen](https://www.spiegel.de/panorama/polizei-ein-drittel-der-hamburger-polizisten-ist-offen-fuer-populistische-positionen-a-8fa8d5c2-5feb-4bf9-a5ac-a28cb78a8b1c#ref=rss)
-* [https://www.spiegel.de/panorama/weilburg-taucher-finden-keine-spur-vom-vermissten-sechsjaehrigen-pawlos](https://www.spiegel.de/panorama/weilburg-taucher-finden-keine-spur-vom-vermissten-sechsjaehrigen-pawlos-a-71779d7c-d746-47ce-beef-450d5486999a#ref=rss)
-* [https://www.spiegel.de/kultur/tv/tatort-aus-dortmund-abstellgleis-mit-joerg-hartmann](https://www.spiegel.de/kultur/tv/tatort-aus-dortmund-abstellgleis-mit-joerg-hartmann-a-30cc231f-96e4-4670-9262-2cbdd30172a9#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/welternaehrungsprogramm-einnahmen-weggebrochen-organisation-schlaegt-alarm](https://www.spiegel.de/ausland/welternaehrungsprogramm-einnahmen-weggebrochen-organisation-schlaegt-alarm-a-085da7e3-5180-4eea-8bba-4ccccf079211#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-eu-kommission-investiert-1-3-milliarden-euro-in-digitale-technologien](https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-eu-kommission-investiert-1-3-milliarden-euro-in-digitale-technologien-a-c19f5378-20fd-421e-b9bc-a479c52fcd1e#ref=rss)
-* [https://www.spiegel.de/ausland/usa-hillary-clinton-fassungslos-ueber-datenleck-der-trump-regierung](https://www.spiegel.de/ausland/usa-hillary-clinton-fassungslos-ueber-datenleck-der-trump-regierung-a-bb4b356e-0a00-4ec4-aa11-47d8ac6ecbaf#ref=rss)
-### laut
-
-* [https://www.spiegel.de/ausland/welternaehrungsprogramm-einnahmen-weggebrochen-organisation-schlaegt-alarm](https://www.spiegel.de/ausland/welternaehrungsprogramm-einnahmen-weggebrochen-organisation-schlaegt-alarm-a-085da7e3-5180-4eea-8bba-4ccccf079211#ref=rss)
-* [https://www.spiegel.de/ausland/thailand-und-myanmar-offenbar-hunderte-tote-und-verletzte-nach-erdbeben](https://www.spiegel.de/ausland/thailand-und-myanmar-offenbar-hunderte-tote-und-verletzte-nach-erdbeben-a-55ada379-e95b-4ee9-896b-38a61725c08b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-staatsanwaltschaft-karlsruhe-leitet-kein-ermittlungsverfahren-wegen-abschiebeticket-aktion-ein](https://www.spiegel.de/politik/deutschland/afd-staatsanwaltschaft-karlsruhe-leitet-kein-ermittlungsverfahren-wegen-abschiebeticket-aktion-ein-a-c353fe0d-e948-49a7-88a1-a9a90cf67df5#ref=rss)
-### sicherheit
-
-* [https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-eu-kommission-investiert-1-3-milliarden-euro-in-digitale-technologien](https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-eu-kommission-investiert-1-3-milliarden-euro-in-digitale-technologien-a-c19f5378-20fd-421e-b9bc-a479c52fcd1e#ref=rss)
-* [https://www.spiegel.de/sport/sicherheit-im-radsport-sind-gelbe-karten-das-mittel-um-stuerze-zu-verhindern](https://www.spiegel.de/sport/sicherheit-im-radsport-sind-gelbe-karten-das-mittel-um-stuerze-zu-verhindern-a-5451a579-56e9-4083-a883-5725e540b2f8#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-bei-der-richterwahl-muss-merz-die-linke-einbinden](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-bei-der-richterwahl-muss-merz-die-linke-einbinden-a-ff11caf1-ac67-4509-a4b2-8461be4a0484#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/koalitionsverhandlungen-das-sagen-merz-soeder-klingbeil-und-esken-livestream](https://www.spiegel.de/politik/deutschland/koalitionsverhandlungen-das-sagen-merz-soeder-klingbeil-und-esken-livestream-a-5d58ccfa-6aa2-4687-9c10-79389b2c9b6d#ref=rss)
-### dresden
-
-* [https://www.spiegel.de/deinspiegel/ballettausbildung-in-dresden-junge-taenzer-strebt-nach-nussknacker-rolle](https://www.spiegel.de/deinspiegel/ballettausbildung-in-dresden-junge-taenzer-strebt-nach-nussknacker-rolle-a-a57ce99b-728a-4bfa-a371-6f2debc5efef#ref=rss)
-### junge
-
-* [https://www.spiegel.de/deinspiegel/ballettausbildung-in-dresden-junge-taenzer-strebt-nach-nussknacker-rolle](https://www.spiegel.de/deinspiegel/ballettausbildung-in-dresden-junge-taenzer-strebt-nach-nussknacker-rolle-a-a57ce99b-728a-4bfa-a371-6f2debc5efef#ref=rss)
-### cdu
-
-* [https://www.spiegel.de/politik/deutschland/koalition-cdu-csu-und-spd-verhandeln-einige-brocken-spitzengespraeche-gestartet](https://www.spiegel.de/politik/deutschland/koalition-cdu-csu-und-spd-verhandeln-einige-brocken-spitzengespraeche-gestartet-a-d3aa27de-3c80-416f-b5af-c80b0d1c3d59#ref=rss)
-### csu
-
-* [https://www.spiegel.de/politik/deutschland/koalition-cdu-csu-und-spd-verhandeln-einige-brocken-spitzengespraeche-gestartet](https://www.spiegel.de/politik/deutschland/koalition-cdu-csu-und-spd-verhandeln-einige-brocken-spitzengespraeche-gestartet-a-d3aa27de-3c80-416f-b5af-c80b0d1c3d59#ref=rss)
-### arbeitsgruppen
-
-* [https://www.spiegel.de/politik/deutschland/koalition-cdu-csu-und-spd-verhandeln-einige-brocken-spitzengespraeche-gestartet](https://www.spiegel.de/politik/deutschland/koalition-cdu-csu-und-spd-verhandeln-einige-brocken-spitzengespraeche-gestartet-a-d3aa27de-3c80-416f-b5af-c80b0d1c3d59#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/koalitionsverhandlungen-das-sagen-merz-soeder-klingbeil-und-esken-livestream](https://www.spiegel.de/politik/deutschland/koalitionsverhandlungen-das-sagen-merz-soeder-klingbeil-und-esken-livestream-a-5d58ccfa-6aa2-4687-9c10-79389b2c9b6d#ref=rss)
-### christian
-
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-und-porsche-chef-oliver-blume-ministerium-muss-sms-herausgeben](https://www.spiegel.de/politik/deutschland/christian-lindner-und-porsche-chef-oliver-blume-ministerium-muss-sms-herausgeben-a-336b4eec-76e4-4ac6-9146-a50969c24137#ref=rss)
-### lindner
-
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-und-porsche-chef-oliver-blume-ministerium-muss-sms-herausgeben](https://www.spiegel.de/politik/deutschland/christian-lindner-und-porsche-chef-oliver-blume-ministerium-muss-sms-herausgeben-a-336b4eec-76e4-4ac6-9146-a50969c24137#ref=rss)
-### porschechef
-
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-und-porsche-chef-oliver-blume-ministerium-muss-sms-herausgeben](https://www.spiegel.de/politik/deutschland/christian-lindner-und-porsche-chef-oliver-blume-ministerium-muss-sms-herausgeben-a-336b4eec-76e4-4ac6-9146-a50969c24137#ref=rss)
-### oliver
-
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-und-porsche-chef-oliver-blume-ministerium-muss-sms-herausgeben](https://www.spiegel.de/politik/deutschland/christian-lindner-und-porsche-chef-oliver-blume-ministerium-muss-sms-herausgeben-a-336b4eec-76e4-4ac6-9146-a50969c24137#ref=rss)
-### blume
-
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-und-porsche-chef-oliver-blume-ministerium-muss-sms-herausgeben](https://www.spiegel.de/politik/deutschland/christian-lindner-und-porsche-chef-oliver-blume-ministerium-muss-sms-herausgeben-a-336b4eec-76e4-4ac6-9146-a50969c24137#ref=rss)
-### sms
-
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-und-porsche-chef-oliver-blume-ministerium-muss-sms-herausgeben](https://www.spiegel.de/politik/deutschland/christian-lindner-und-porsche-chef-oliver-blume-ministerium-muss-sms-herausgeben-a-336b4eec-76e4-4ac6-9146-a50969c24137#ref=rss)
-### einfluss
-
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-und-porsche-chef-oliver-blume-ministerium-muss-sms-herausgeben](https://www.spiegel.de/politik/deutschland/christian-lindner-und-porsche-chef-oliver-blume-ministerium-muss-sms-herausgeben-a-336b4eec-76e4-4ac6-9146-a50969c24137#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-bei-der-richterwahl-muss-merz-die-linke-einbinden](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-bei-der-richterwahl-muss-merz-die-linke-einbinden-a-ff11caf1-ac67-4509-a4b2-8461be4a0484#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/kleingarten-sharing-ich-mache-aus-zwei-notlagen-eine-win-win-situation](https://www.spiegel.de/panorama/kleingarten-sharing-ich-mache-aus-zwei-notlagen-eine-win-win-situation-a-10a66c27-73f3-42c3-afee-0f366cb60407#ref=rss)
-* [https://www.spiegel.de/wirtschaft/tarifstreit-im-oeffentlichen-dienst-schlichter-schlagen-lohnplus-in-zwei-etappen-vor](https://www.spiegel.de/wirtschaft/tarifstreit-im-oeffentlichen-dienst-schlichter-schlagen-lohnplus-in-zwei-etappen-vor-a-64cb376b-727a-4ca2-bb1d-7efdbe8ab835#ref=rss)
-### james
-
-* [https://www.spiegel.de/auto/fahrkultur/top-gear-james-may-aeussert-sich-gegen-autos-in-london](https://www.spiegel.de/auto/fahrkultur/top-gear-james-may-aeussert-sich-gegen-autos-in-london-a-e9b5a580-3a7c-4e4c-94c0-bc6cbd252e46#ref=rss)
-### may
-
-* [https://www.spiegel.de/auto/fahrkultur/top-gear-james-may-aeussert-sich-gegen-autos-in-london](https://www.spiegel.de/auto/fahrkultur/top-gear-james-may-aeussert-sich-gegen-autos-in-london-a-e9b5a580-3a7c-4e4c-94c0-bc6cbd252e46#ref=rss)
-### äußert
-
-* [https://www.spiegel.de/auto/fahrkultur/top-gear-james-may-aeussert-sich-gegen-autos-in-london](https://www.spiegel.de/auto/fahrkultur/top-gear-james-may-aeussert-sich-gegen-autos-in-london-a-e9b5a580-3a7c-4e4c-94c0-bc6cbd252e46#ref=rss)
-* [https://www.spiegel.de/ausland/usa-hillary-clinton-fassungslos-ueber-datenleck-der-trump-regierung](https://www.spiegel.de/ausland/usa-hillary-clinton-fassungslos-ueber-datenleck-der-trump-regierung-a-bb4b356e-0a00-4ec4-aa11-47d8ac6ecbaf#ref=rss)
-### afdnahe
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-details-aus-dem-geleakten-us-chat-afd-nahe-stiftung-hofft-auf-foerderung-susan-kegeles-gegen-rechts](https://www.spiegel.de/politik/deutschland/news-des-tages-details-aus-dem-geleakten-us-chat-afd-nahe-stiftung-hofft-auf-foerderung-susan-kegeles-gegen-rechts-a-8b126e93-f220-49a4-b2ef-74720ea9bab3#ref=rss)
-### stiftung
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-details-aus-dem-geleakten-us-chat-afd-nahe-stiftung-hofft-auf-foerderung-susan-kegeles-gegen-rechts](https://www.spiegel.de/politik/deutschland/news-des-tages-details-aus-dem-geleakten-us-chat-afd-nahe-stiftung-hofft-auf-foerderung-susan-kegeles-gegen-rechts-a-8b126e93-f220-49a4-b2ef-74720ea9bab3#ref=rss)
-### hofft
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-details-aus-dem-geleakten-us-chat-afd-nahe-stiftung-hofft-auf-foerderung-susan-kegeles-gegen-rechts](https://www.spiegel.de/politik/deutschland/news-des-tages-details-aus-dem-geleakten-us-chat-afd-nahe-stiftung-hofft-auf-foerderung-susan-kegeles-gegen-rechts-a-8b126e93-f220-49a4-b2ef-74720ea9bab3#ref=rss)
-### förderung
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-details-aus-dem-geleakten-us-chat-afd-nahe-stiftung-hofft-auf-foerderung-susan-kegeles-gegen-rechts](https://www.spiegel.de/politik/deutschland/news-des-tages-details-aus-dem-geleakten-us-chat-afd-nahe-stiftung-hofft-auf-foerderung-susan-kegeles-gegen-rechts-a-8b126e93-f220-49a4-b2ef-74720ea9bab3#ref=rss)
-### lage
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-details-aus-dem-geleakten-us-chat-afd-nahe-stiftung-hofft-auf-foerderung-susan-kegeles-gegen-rechts](https://www.spiegel.de/politik/deutschland/news-des-tages-details-aus-dem-geleakten-us-chat-afd-nahe-stiftung-hofft-auf-foerderung-susan-kegeles-gegen-rechts-a-8b126e93-f220-49a4-b2ef-74720ea9bab3#ref=rss)
-* [https://www.spiegel.de/ausland/thailand-und-myanmar-offenbar-hunderte-tote-und-verletzte-nach-erdbeben](https://www.spiegel.de/ausland/thailand-und-myanmar-offenbar-hunderte-tote-und-verletzte-nach-erdbeben-a-55ada379-e95b-4ee9-896b-38a61725c08b#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/polizei-ein-drittel-der-hamburger-polizisten-ist-offen-fuer-populistische-positionen](https://www.spiegel.de/panorama/polizei-ein-drittel-der-hamburger-polizisten-ist-offen-fuer-populistische-positionen-a-8fa8d5c2-5feb-4bf9-a5ac-a28cb78a8b1c#ref=rss)
-* [https://www.spiegel.de/panorama/weilburg-taucher-finden-keine-spur-vom-vermissten-sechsjaehrigen-pawlos](https://www.spiegel.de/panorama/weilburg-taucher-finden-keine-spur-vom-vermissten-sechsjaehrigen-pawlos-a-71779d7c-d746-47ce-beef-450d5486999a#ref=rss)
-### hamburger
-
-* [https://www.spiegel.de/panorama/polizei-ein-drittel-der-hamburger-polizisten-ist-offen-fuer-populistische-positionen](https://www.spiegel.de/panorama/polizei-ein-drittel-der-hamburger-polizisten-ist-offen-fuer-populistische-positionen-a-8fa8d5c2-5feb-4bf9-a5ac-a28cb78a8b1c#ref=rss)
-### polizisten
-
-* [https://www.spiegel.de/panorama/polizei-ein-drittel-der-hamburger-polizisten-ist-offen-fuer-populistische-positionen](https://www.spiegel.de/panorama/polizei-ein-drittel-der-hamburger-polizisten-ist-offen-fuer-populistische-positionen-a-8fa8d5c2-5feb-4bf9-a5ac-a28cb78a8b1c#ref=rss)
-### offen
-
-* [https://www.spiegel.de/panorama/polizei-ein-drittel-der-hamburger-polizisten-ist-offen-fuer-populistische-positionen](https://www.spiegel.de/panorama/polizei-ein-drittel-der-hamburger-polizisten-ist-offen-fuer-populistische-positionen-a-8fa8d5c2-5feb-4bf9-a5ac-a28cb78a8b1c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/koalitionsverhandlungen-das-sagen-merz-soeder-klingbeil-und-esken-livestream](https://www.spiegel.de/politik/deutschland/koalitionsverhandlungen-das-sagen-merz-soeder-klingbeil-und-esken-livestream-a-5d58ccfa-6aa2-4687-9c10-79389b2c9b6d#ref=rss)
-### außen
-
-* [https://www.spiegel.de/panorama/polizei-ein-drittel-der-hamburger-polizisten-ist-offen-fuer-populistische-positionen](https://www.spiegel.de/panorama/polizei-ein-drittel-der-hamburger-polizisten-ist-offen-fuer-populistische-positionen-a-8fa8d5c2-5feb-4bf9-a5ac-a28cb78a8b1c#ref=rss)
-* [https://www.spiegel.de/ausland/thailand-und-myanmar-offenbar-hunderte-tote-und-verletzte-nach-erdbeben](https://www.spiegel.de/ausland/thailand-und-myanmar-offenbar-hunderte-tote-und-verletzte-nach-erdbeben-a-55ada379-e95b-4ee9-896b-38a61725c08b#ref=rss)
-### clive
-
-* [https://www.spiegel.de/kultur/star-wars-sprecher-clive-revill-der-imperator-ist-tot-er-wurde-94](https://www.spiegel.de/kultur/star-wars-sprecher-clive-revill-der-imperator-ist-tot-er-wurde-94-a-549a35e3-a348-4cdb-aaa0-116af889dbfc#ref=rss)
-### revill
-
-* [https://www.spiegel.de/kultur/star-wars-sprecher-clive-revill-der-imperator-ist-tot-er-wurde-94](https://www.spiegel.de/kultur/star-wars-sprecher-clive-revill-der-imperator-ist-tot-er-wurde-94-a-549a35e3-a348-4cdb-aaa0-116af889dbfc#ref=rss)
-### imperator
-
-* [https://www.spiegel.de/kultur/star-wars-sprecher-clive-revill-der-imperator-ist-tot-er-wurde-94](https://www.spiegel.de/kultur/star-wars-sprecher-clive-revill-der-imperator-ist-tot-er-wurde-94-a-549a35e3-a348-4cdb-aaa0-116af889dbfc#ref=rss)
-### 94
-
-* [https://www.spiegel.de/kultur/star-wars-sprecher-clive-revill-der-imperator-ist-tot-er-wurde-94](https://www.spiegel.de/kultur/star-wars-sprecher-clive-revill-der-imperator-ist-tot-er-wurde-94-a-549a35e3-a348-4cdb-aaa0-116af889dbfc#ref=rss)
-### macht
-
-* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-trotz-wahl-debakel-im-aufwind-in-der-spd-sprechen-sie-vom-house-of-lars](https://www.spiegel.de/politik/deutschland/lars-klingbeil-trotz-wahl-debakel-im-aufwind-in-der-spd-sprechen-sie-vom-house-of-lars-a-788f6b79-169d-4862-b57a-dabc360797d9#ref=rss)
-* [https://www.spiegel.de/ausland/usa-hillary-clinton-fassungslos-ueber-datenleck-der-trump-regierung](https://www.spiegel.de/ausland/usa-hillary-clinton-fassungslos-ueber-datenleck-der-trump-regierung-a-bb4b356e-0a00-4ec4-aa11-47d8ac6ecbaf#ref=rss)
-### droht
-
-* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-trotz-wahl-debakel-im-aufwind-in-der-spd-sprechen-sie-vom-house-of-lars](https://www.spiegel.de/politik/deutschland/lars-klingbeil-trotz-wahl-debakel-im-aufwind-in-der-spd-sprechen-sie-vom-house-of-lars-a-788f6b79-169d-4862-b57a-dabc360797d9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-eu-kommission-investiert-1-3-milliarden-euro-in-digitale-technologien](https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-eu-kommission-investiert-1-3-milliarden-euro-in-digitale-technologien-a-c19f5378-20fd-421e-b9bc-a479c52fcd1e#ref=rss)
-### welternährungsprogramm
-
-* [https://www.spiegel.de/ausland/welternaehrungsprogramm-einnahmen-weggebrochen-organisation-schlaegt-alarm](https://www.spiegel.de/ausland/welternaehrungsprogramm-einnahmen-weggebrochen-organisation-schlaegt-alarm-a-085da7e3-5180-4eea-8bba-4ccccf079211#ref=rss)
-### organisation
-
-* [https://www.spiegel.de/ausland/welternaehrungsprogramm-einnahmen-weggebrochen-organisation-schlaegt-alarm](https://www.spiegel.de/ausland/welternaehrungsprogramm-einnahmen-weggebrochen-organisation-schlaegt-alarm-a-085da7e3-5180-4eea-8bba-4ccccf079211#ref=rss)
-### taucher
-
-* [https://www.spiegel.de/panorama/weilburg-taucher-finden-keine-spur-vom-vermissten-sechsjaehrigen-pawlos](https://www.spiegel.de/panorama/weilburg-taucher-finden-keine-spur-vom-vermissten-sechsjaehrigen-pawlos-a-71779d7c-d746-47ce-beef-450d5486999a#ref=rss)
-### finden
-
-* [https://www.spiegel.de/panorama/weilburg-taucher-finden-keine-spur-vom-vermissten-sechsjaehrigen-pawlos](https://www.spiegel.de/panorama/weilburg-taucher-finden-keine-spur-vom-vermissten-sechsjaehrigen-pawlos-a-71779d7c-d746-47ce-beef-450d5486999a#ref=rss)
-### sechsjährigen
-
-* [https://www.spiegel.de/panorama/weilburg-taucher-finden-keine-spur-vom-vermissten-sechsjaehrigen-pawlos](https://www.spiegel.de/panorama/weilburg-taucher-finden-keine-spur-vom-vermissten-sechsjaehrigen-pawlos-a-71779d7c-d746-47ce-beef-450d5486999a#ref=rss)
-### pawlos
-
-* [https://www.spiegel.de/panorama/weilburg-taucher-finden-keine-spur-vom-vermissten-sechsjaehrigen-pawlos](https://www.spiegel.de/panorama/weilburg-taucher-finden-keine-spur-vom-vermissten-sechsjaehrigen-pawlos-a-71779d7c-d746-47ce-beef-450d5486999a#ref=rss)
-### kiss
-
-* [https://www.spiegel.de/kultur/musik/kiss-kuendigt-erstes-konzert-nach-der-abschiedstour-vor-15-monaten-an](https://www.spiegel.de/kultur/musik/kiss-kuendigt-erstes-konzert-nach-der-abschiedstour-vor-15-monaten-an-a-0c4848e4-07be-4840-aba9-1be735826a38#ref=rss)
-### konzert
-
-* [https://www.spiegel.de/kultur/musik/kiss-kuendigt-erstes-konzert-nach-der-abschiedstour-vor-15-monaten-an](https://www.spiegel.de/kultur/musik/kiss-kuendigt-erstes-konzert-nach-der-abschiedstour-vor-15-monaten-an-a-0c4848e4-07be-4840-aba9-1be735826a38#ref=rss)
-### abschied
-
-* [https://www.spiegel.de/kultur/musik/kiss-kuendigt-erstes-konzert-nach-der-abschiedstour-vor-15-monaten-an](https://www.spiegel.de/kultur/musik/kiss-kuendigt-erstes-konzert-nach-der-abschiedstour-vor-15-monaten-an-a-0c4848e4-07be-4840-aba9-1be735826a38#ref=rss)
-### fossil
-
-* [https://www.spiegel.de/wissenschaft/natur/fossil-sue-weicher-kern-perfekt-erhalten-harte-schale-aufgeloest](https://www.spiegel.de/wissenschaft/natur/fossil-sue-weicher-kern-perfekt-erhalten-harte-schale-aufgeloest-a-b2c0f620-63ce-4d74-b869-c436fd221c99#ref=rss)
-### erhalten
-
-* [https://www.spiegel.de/wissenschaft/natur/fossil-sue-weicher-kern-perfekt-erhalten-harte-schale-aufgeloest](https://www.spiegel.de/wissenschaft/natur/fossil-sue-weicher-kern-perfekt-erhalten-harte-schale-aufgeloest-a-b2c0f620-63ce-4d74-b869-c436fd221c99#ref=rss)
-### smith
-
-* [https://www.spiegel.de/kultur/musik/will-smith-perfume-genius-masha-qrella-lucy-dacus-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/will-smith-perfume-genius-masha-qrella-lucy-dacus-abgehoert-album-der-woche-a-97f65b5c-3125-4bbf-b5b9-540339b1b777#ref=rss)
-### perfume
-
-* [https://www.spiegel.de/kultur/musik/will-smith-perfume-genius-masha-qrella-lucy-dacus-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/will-smith-perfume-genius-masha-qrella-lucy-dacus-abgehoert-album-der-woche-a-97f65b5c-3125-4bbf-b5b9-540339b1b777#ref=rss)
-### genius
-
-* [https://www.spiegel.de/kultur/musik/will-smith-perfume-genius-masha-qrella-lucy-dacus-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/will-smith-perfume-genius-masha-qrella-lucy-dacus-abgehoert-album-der-woche-a-97f65b5c-3125-4bbf-b5b9-540339b1b777#ref=rss)
-### album
-
-* [https://www.spiegel.de/kultur/musik/will-smith-perfume-genius-masha-qrella-lucy-dacus-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/will-smith-perfume-genius-masha-qrella-lucy-dacus-abgehoert-album-der-woche-a-97f65b5c-3125-4bbf-b5b9-540339b1b777#ref=rss)
-### eukommission
-
-* [https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-eu-kommission-investiert-1-3-milliarden-euro-in-digitale-technologien](https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-eu-kommission-investiert-1-3-milliarden-euro-in-digitale-technologien-a-c19f5378-20fd-421e-b9bc-a479c52fcd1e#ref=rss)
-### euro
-
-* [https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-eu-kommission-investiert-1-3-milliarden-euro-in-digitale-technologien](https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-eu-kommission-investiert-1-3-milliarden-euro-in-digitale-technologien-a-c19f5378-20fd-421e-b9bc-a479c52fcd1e#ref=rss)
-### technologien
-
-* [https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-eu-kommission-investiert-1-3-milliarden-euro-in-digitale-technologien](https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-eu-kommission-investiert-1-3-milliarden-euro-in-digitale-technologien-a-c19f5378-20fd-421e-b9bc-a479c52fcd1e#ref=rss)
-### italien
-
-* [https://www.spiegel.de/ausland/italien-giorgia-meloni-will-lager-in-albanien-jetzt-anders-nutzen](https://www.spiegel.de/ausland/italien-giorgia-meloni-will-lager-in-albanien-jetzt-anders-nutzen-a-56dbaf34-53f8-4a8f-a5a3-4d6b3360b887#ref=rss)
-### meloni
-
-* [https://www.spiegel.de/ausland/italien-giorgia-meloni-will-lager-in-albanien-jetzt-anders-nutzen](https://www.spiegel.de/ausland/italien-giorgia-meloni-will-lager-in-albanien-jetzt-anders-nutzen-a-56dbaf34-53f8-4a8f-a5a3-4d6b3360b887#ref=rss)
-### entscheiden
-
-* [https://www.spiegel.de/ausland/italien-giorgia-meloni-will-lager-in-albanien-jetzt-anders-nutzen](https://www.spiegel.de/ausland/italien-giorgia-meloni-will-lager-in-albanien-jetzt-anders-nutzen-a-56dbaf34-53f8-4a8f-a5a3-4d6b3360b887#ref=rss)
-* [https://www.spiegel.de/auto/tempolimit-auf-autobahnen-wie-wuerden-sie-entscheiden-bedienen-sie-den-spiegel-temp-o-mat](https://www.spiegel.de/auto/tempolimit-auf-autobahnen-wie-wuerden-sie-entscheiden-bedienen-sie-den-spiegel-temp-o-mat-a-63f0ee4b-e67b-4e49-8389-deb16bb582bf#ref=rss)
-### myanmar
-
-* [https://www.spiegel.de/ausland/thailand-und-myanmar-offenbar-hunderte-tote-und-verletzte-nach-erdbeben](https://www.spiegel.de/ausland/thailand-und-myanmar-offenbar-hunderte-tote-und-verletzte-nach-erdbeben-a-55ada379-e95b-4ee9-896b-38a61725c08b#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/ausland/thailand-und-myanmar-offenbar-hunderte-tote-und-verletzte-nach-erdbeben](https://www.spiegel.de/ausland/thailand-und-myanmar-offenbar-hunderte-tote-und-verletzte-nach-erdbeben-a-55ada379-e95b-4ee9-896b-38a61725c08b#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/baden-wuerttemberg-viele-schulschwaenzer-in-berufsvorbereitenden-klassen](https://www.spiegel.de/panorama/bildung/baden-wuerttemberg-viele-schulschwaenzer-in-berufsvorbereitenden-klassen-a-4b20b0af-b4af-4012-adff-e226067958a6#ref=rss)
-### tote
-
-* [https://www.spiegel.de/ausland/thailand-und-myanmar-offenbar-hunderte-tote-und-verletzte-nach-erdbeben](https://www.spiegel.de/ausland/thailand-und-myanmar-offenbar-hunderte-tote-und-verletzte-nach-erdbeben-a-55ada379-e95b-4ee9-896b-38a61725c08b#ref=rss)
-### verletzte
-
-* [https://www.spiegel.de/ausland/thailand-und-myanmar-offenbar-hunderte-tote-und-verletzte-nach-erdbeben](https://www.spiegel.de/ausland/thailand-und-myanmar-offenbar-hunderte-tote-und-verletzte-nach-erdbeben-a-55ada379-e95b-4ee9-896b-38a61725c08b#ref=rss)
-### schwer
-
-* [https://www.spiegel.de/ausland/thailand-und-myanmar-offenbar-hunderte-tote-und-verletzte-nach-erdbeben](https://www.spiegel.de/ausland/thailand-und-myanmar-offenbar-hunderte-tote-und-verletzte-nach-erdbeben-a-55ada379-e95b-4ee9-896b-38a61725c08b#ref=rss)
-### freie
-
-* [https://www.spiegel.de/auto/tempolimit-auf-autobahnen-wie-wuerden-sie-entscheiden-bedienen-sie-den-spiegel-temp-o-mat](https://www.spiegel.de/auto/tempolimit-auf-autobahnen-wie-wuerden-sie-entscheiden-bedienen-sie-den-spiegel-temp-o-mat-a-63f0ee4b-e67b-4e49-8389-deb16bb582bf#ref=rss)
-### union
-
-* [https://www.spiegel.de/auto/tempolimit-auf-autobahnen-wie-wuerden-sie-entscheiden-bedienen-sie-den-spiegel-temp-o-mat](https://www.spiegel.de/auto/tempolimit-auf-autobahnen-wie-wuerden-sie-entscheiden-bedienen-sie-den-spiegel-temp-o-mat-a-63f0ee4b-e67b-4e49-8389-deb16bb582bf#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/koalitionsverhandlungen-das-sagen-merz-soeder-klingbeil-und-esken-livestream](https://www.spiegel.de/politik/deutschland/koalitionsverhandlungen-das-sagen-merz-soeder-klingbeil-und-esken-livestream-a-5d58ccfa-6aa2-4687-9c10-79389b2c9b6d#ref=rss)
-### richterwahl
-
-* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-bei-der-richterwahl-muss-merz-die-linke-einbinden](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-bei-der-richterwahl-muss-merz-die-linke-einbinden-a-ff11caf1-ac67-4509-a4b2-8461be4a0484#ref=rss)
-### linke
-
-* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-bei-der-richterwahl-muss-merz-die-linke-einbinden](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-bei-der-richterwahl-muss-merz-die-linke-einbinden-a-ff11caf1-ac67-4509-a4b2-8461be4a0484#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-bei-der-richterwahl-muss-merz-die-linke-einbinden](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-bei-der-richterwahl-muss-merz-die-linke-einbinden-a-ff11caf1-ac67-4509-a4b2-8461be4a0484#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/chatgpt-generiert-bilder-im-studio-ghibli-stil-was-daran-problematisch-ist](https://www.spiegel.de/netzwelt/web/chatgpt-generiert-bilder-im-studio-ghibli-stil-was-daran-problematisch-ist-a-90be3c7e-ce4f-43f1-96e5-06ba6009417b#ref=rss)
-### radsport
-
-* [https://www.spiegel.de/sport/sicherheit-im-radsport-sind-gelbe-karten-das-mittel-um-stuerze-zu-verhindern](https://www.spiegel.de/sport/sicherheit-im-radsport-sind-gelbe-karten-das-mittel-um-stuerze-zu-verhindern-a-5451a579-56e9-4083-a883-5725e540b2f8#ref=rss)
-### staatsanwaltschaft
-
-* [https://www.spiegel.de/politik/deutschland/afd-staatsanwaltschaft-karlsruhe-leitet-kein-ermittlungsverfahren-wegen-abschiebeticket-aktion-ein](https://www.spiegel.de/politik/deutschland/afd-staatsanwaltschaft-karlsruhe-leitet-kein-ermittlungsverfahren-wegen-abschiebeticket-aktion-ein-a-c353fe0d-e948-49a7-88a1-a9a90cf67df5#ref=rss)
-### elon
-
-* [https://www.spiegel.de/wirtschaft/elon-musk-tesla-chef-zaehlt-17-jobs-aktionaere-sehen-naehe-zu-donald-trump-kritisch](https://www.spiegel.de/wirtschaft/elon-musk-tesla-chef-zaehlt-17-jobs-aktionaere-sehen-naehe-zu-donald-trump-kritisch-a-8202498e-f440-4f93-9c52-9dfea5b7f104#ref=rss)
-### musk
-
-* [https://www.spiegel.de/wirtschaft/elon-musk-tesla-chef-zaehlt-17-jobs-aktionaere-sehen-naehe-zu-donald-trump-kritisch](https://www.spiegel.de/wirtschaft/elon-musk-tesla-chef-zaehlt-17-jobs-aktionaere-sehen-naehe-zu-donald-trump-kritisch-a-8202498e-f440-4f93-9c52-9dfea5b7f104#ref=rss)
-### teslachef
-
-* [https://www.spiegel.de/wirtschaft/elon-musk-tesla-chef-zaehlt-17-jobs-aktionaere-sehen-naehe-zu-donald-trump-kritisch](https://www.spiegel.de/wirtschaft/elon-musk-tesla-chef-zaehlt-17-jobs-aktionaere-sehen-naehe-zu-donald-trump-kritisch-a-8202498e-f440-4f93-9c52-9dfea5b7f104#ref=rss)
-### 17
-
-* [https://www.spiegel.de/wirtschaft/elon-musk-tesla-chef-zaehlt-17-jobs-aktionaere-sehen-naehe-zu-donald-trump-kritisch](https://www.spiegel.de/wirtschaft/elon-musk-tesla-chef-zaehlt-17-jobs-aktionaere-sehen-naehe-zu-donald-trump-kritisch-a-8202498e-f440-4f93-9c52-9dfea5b7f104#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/ndr-harzer-kux-soll-neue-intendantin-werden](https://www.spiegel.de/wirtschaft/unternehmen/ndr-harzer-kux-soll-neue-intendantin-werden-a-37256358-8c94-4d1a-a9b8-7ae933470aa8#ref=rss)
-### aktionäre
-
-* [https://www.spiegel.de/wirtschaft/elon-musk-tesla-chef-zaehlt-17-jobs-aktionaere-sehen-naehe-zu-donald-trump-kritisch](https://www.spiegel.de/wirtschaft/elon-musk-tesla-chef-zaehlt-17-jobs-aktionaere-sehen-naehe-zu-donald-trump-kritisch-a-8202498e-f440-4f93-9c52-9dfea5b7f104#ref=rss)
-### donald
-
-* [https://www.spiegel.de/wirtschaft/elon-musk-tesla-chef-zaehlt-17-jobs-aktionaere-sehen-naehe-zu-donald-trump-kritisch](https://www.spiegel.de/wirtschaft/elon-musk-tesla-chef-zaehlt-17-jobs-aktionaere-sehen-naehe-zu-donald-trump-kritisch-a-8202498e-f440-4f93-9c52-9dfea5b7f104#ref=rss)
-* [https://www.spiegel.de/ausland/usa-hillary-clinton-fassungslos-ueber-datenleck-der-trump-regierung](https://www.spiegel.de/ausland/usa-hillary-clinton-fassungslos-ueber-datenleck-der-trump-regierung-a-bb4b356e-0a00-4ec4-aa11-47d8ac6ecbaf#ref=rss)
+* [https://www.spiegel.de/panorama/gefluegelzuechter-muss-30-000-tiere-toeten](https://www.spiegel.de/panorama/gefluegelzuechter-muss-30-000-tiere-toeten-a-af00f41f-af55-412a-83b2-2bde6856f02b#ref=rss)
+* [https://www.spiegel.de/panorama/erdbeben-in-myanmar-mehr-als-90-menschen-unter-truemmern-in-mandalay-vermutet](https://www.spiegel.de/panorama/erdbeben-in-myanmar-mehr-als-90-menschen-unter-truemmern-in-mandalay-vermutet-a-23e68f79-150e-46d6-aec1-fde4f22b37b6#ref=rss)
+* [https://www.spiegel.de/ausland/khalida-popal-sie-hatte-nur-einen-laptop-und-ein-telefon-und-rettete-damit-hunderte-menschen](https://www.spiegel.de/ausland/khalida-popal-sie-hatte-nur-einen-laptop-und-ein-telefon-und-rettete-damit-hunderte-menschen-a-f0bfd354-514b-43df-88b2-88127841beb5#ref=rss)
+* [https://www.spiegel.de/panorama/erdbeben-in-myanmar-militaerjunta-spricht-von-mehr-als-690-toten](https://www.spiegel.de/panorama/erdbeben-in-myanmar-militaerjunta-spricht-von-mehr-als-690-toten-a-bfc88498-b119-4e07-a0bd-94e3764c8dd6#ref=rss)
+### erdbeben
+
+* [https://www.spiegel.de/panorama/erdbeben-in-myanmar-mehr-als-90-menschen-unter-truemmern-in-mandalay-vermutet](https://www.spiegel.de/panorama/erdbeben-in-myanmar-mehr-als-90-menschen-unter-truemmern-in-mandalay-vermutet-a-23e68f79-150e-46d6-aec1-fde4f22b37b6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-spekulationen-ueber-den-kuenftigen-finanzminister-j-d-vance-in-groenland-erdbeben-in-myanmar](https://www.spiegel.de/politik/deutschland/news-spekulationen-ueber-den-kuenftigen-finanzminister-j-d-vance-in-groenland-erdbeben-in-myanmar-a-64d873e6-089c-4231-8dee-16ec460dbace#ref=rss)
+* [https://www.spiegel.de/panorama/erdbeben-in-myanmar-militaerjunta-spricht-von-mehr-als-690-toten](https://www.spiegel.de/panorama/erdbeben-in-myanmar-militaerjunta-spricht-von-mehr-als-690-toten-a-bfc88498-b119-4e07-a0bd-94e3764c8dd6#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/wirtschaft/elon-musk-tesla-chef-zaehlt-17-jobs-aktionaere-sehen-naehe-zu-donald-trump-kritisch](https://www.spiegel.de/wirtschaft/elon-musk-tesla-chef-zaehlt-17-jobs-aktionaere-sehen-naehe-zu-donald-trump-kritisch-a-8202498e-f440-4f93-9c52-9dfea5b7f104#ref=rss)
-* [https://www.spiegel.de/ausland/usa-hillary-clinton-fassungslos-ueber-datenleck-der-trump-regierung](https://www.spiegel.de/ausland/usa-hillary-clinton-fassungslos-ueber-datenleck-der-trump-regierung-a-bb4b356e-0a00-4ec4-aa11-47d8ac6ecbaf#ref=rss)
-### tarifstreit
+* [https://www.spiegel.de/wissenschaft/uebergangs-praesidentin-der-columbia-universitaet-tritt-ab](https://www.spiegel.de/wissenschaft/uebergangs-praesidentin-der-columbia-universitaet-tritt-ab-a-ac6bd36a-ec32-48b9-8f65-353a10aa14f2#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-schlaegt-versoehnliche-toene-gegenueber-kanada-an](https://www.spiegel.de/ausland/donald-trump-schlaegt-versoehnliche-toene-gegenueber-kanada-an-a-cadc3d14-5ef1-4ad1-b86d-d100db5737a7#ref=rss)
+### spd
 
-* [https://www.spiegel.de/wirtschaft/tarifstreit-im-oeffentlichen-dienst-schlichter-schlagen-lohnplus-in-zwei-etappen-vor](https://www.spiegel.de/wirtschaft/tarifstreit-im-oeffentlichen-dienst-schlichter-schlagen-lohnplus-in-zwei-etappen-vor-a-64cb376b-727a-4ca2-bb1d-7efdbe8ab835#ref=rss)
-### öffentlichen
+* [https://www.spiegel.de/politik/deutschland/cdu-csu-spd-finanzfragen-im-fokus-bei-koalitionsgespraechen](https://www.spiegel.de/politik/deutschland/cdu-csu-spd-finanzfragen-im-fokus-bei-koalitionsgespraechen-a-3f99d415-f5b6-4b8d-9eec-15303ae97669#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-spekulationen-ueber-den-kuenftigen-finanzminister-j-d-vance-in-groenland-erdbeben-in-myanmar](https://www.spiegel.de/politik/deutschland/news-spekulationen-ueber-den-kuenftigen-finanzminister-j-d-vance-in-groenland-erdbeben-in-myanmar-a-64d873e6-089c-4231-8dee-16ec460dbace#ref=rss)
+### verurteilt
 
-* [https://www.spiegel.de/wirtschaft/tarifstreit-im-oeffentlichen-dienst-schlichter-schlagen-lohnplus-in-zwei-etappen-vor](https://www.spiegel.de/wirtschaft/tarifstreit-im-oeffentlichen-dienst-schlichter-schlagen-lohnplus-in-zwei-etappen-vor-a-64cb376b-727a-4ca2-bb1d-7efdbe8ab835#ref=rss)
-### hillary
+* [https://www.spiegel.de/ausland/karl-heinz-grasser-zu-jung-zu-schoen-zu-reich-und-nun-verurteilt-podcast](https://www.spiegel.de/ausland/karl-heinz-grasser-zu-jung-zu-schoen-zu-reich-und-nun-verurteilt-podcast-a-825efb98-1c91-4ee4-8445-3442bf7c1a1c#ref=rss)
+* [https://www.spiegel.de/partnerschaft/teenagerschwangerschaft-die-blicke-wanderten-immer-zwischen-bauch-und-meinem-gesicht-hin-und-her](https://www.spiegel.de/partnerschaft/teenagerschwangerschaft-die-blicke-wanderten-immer-zwischen-bauch-und-meinem-gesicht-hin-und-her-a-a3c4c23d-140a-4788-9b16-6a8eb60be17b#ref=rss)
+### sebastian
 
-* [https://www.spiegel.de/ausland/usa-hillary-clinton-fassungslos-ueber-datenleck-der-trump-regierung](https://www.spiegel.de/ausland/usa-hillary-clinton-fassungslos-ueber-datenleck-der-trump-regierung-a-bb4b356e-0a00-4ec4-aa11-47d8ac6ecbaf#ref=rss)
-### clinton
+* [https://www.spiegel.de/ausland/karl-heinz-grasser-zu-jung-zu-schoen-zu-reich-und-nun-verurteilt-podcast](https://www.spiegel.de/ausland/karl-heinz-grasser-zu-jung-zu-schoen-zu-reich-und-nun-verurteilt-podcast-a-825efb98-1c91-4ee4-8445-3442bf7c1a1c#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/sebastian-fitzek-diese-buecher-haben-das-leben-des-autors-veraendert](https://www.spiegel.de/kultur/literatur/sebastian-fitzek-diese-buecher-haben-das-leben-des-autors-veraendert-a-f010d29d-bdfd-402e-a268-76c4999ca30a#ref=rss)
+### myanmar
 
-* [https://www.spiegel.de/ausland/usa-hillary-clinton-fassungslos-ueber-datenleck-der-trump-regierung](https://www.spiegel.de/ausland/usa-hillary-clinton-fassungslos-ueber-datenleck-der-trump-regierung-a-bb4b356e-0a00-4ec4-aa11-47d8ac6ecbaf#ref=rss)
-### fassungslos
+* [https://www.spiegel.de/panorama/erdbeben-in-myanmar-mehr-als-90-menschen-unter-truemmern-in-mandalay-vermutet](https://www.spiegel.de/panorama/erdbeben-in-myanmar-mehr-als-90-menschen-unter-truemmern-in-mandalay-vermutet-a-23e68f79-150e-46d6-aec1-fde4f22b37b6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-spekulationen-ueber-den-kuenftigen-finanzminister-j-d-vance-in-groenland-erdbeben-in-myanmar](https://www.spiegel.de/politik/deutschland/news-spekulationen-ueber-den-kuenftigen-finanzminister-j-d-vance-in-groenland-erdbeben-in-myanmar-a-64d873e6-089c-4231-8dee-16ec460dbace#ref=rss)
+* [https://www.spiegel.de/panorama/erdbeben-in-myanmar-militaerjunta-spricht-von-mehr-als-690-toten](https://www.spiegel.de/panorama/erdbeben-in-myanmar-militaerjunta-spricht-von-mehr-als-690-toten-a-bfc88498-b119-4e07-a0bd-94e3764c8dd6#ref=rss)
+### unter
 
-* [https://www.spiegel.de/ausland/usa-hillary-clinton-fassungslos-ueber-datenleck-der-trump-regierung](https://www.spiegel.de/ausland/usa-hillary-clinton-fassungslos-ueber-datenleck-der-trump-regierung-a-bb4b356e-0a00-4ec4-aa11-47d8ac6ecbaf#ref=rss)
-### badenwürttemberg
+* [https://www.spiegel.de/panorama/erdbeben-in-myanmar-mehr-als-90-menschen-unter-truemmern-in-mandalay-vermutet](https://www.spiegel.de/panorama/erdbeben-in-myanmar-mehr-als-90-menschen-unter-truemmern-in-mandalay-vermutet-a-23e68f79-150e-46d6-aec1-fde4f22b37b6#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/elon-musk-ki-firma-xai-uebernimmt-x](https://www.spiegel.de/netzwelt/web/elon-musk-ki-firma-xai-uebernimmt-x-a-6ea8ca88-d5e6-4ce1-970f-66267edaaba8#ref=rss)
+### leben
 
-* [https://www.spiegel.de/panorama/bildung/baden-wuerttemberg-viele-schulschwaenzer-in-berufsvorbereitenden-klassen](https://www.spiegel.de/panorama/bildung/baden-wuerttemberg-viele-schulschwaenzer-in-berufsvorbereitenden-klassen-a-4b20b0af-b4af-4012-adff-e226067958a6#ref=rss)
-### livestream
+* [https://www.spiegel.de/kultur/literatur/sebastian-fitzek-diese-buecher-haben-das-leben-des-autors-veraendert](https://www.spiegel.de/kultur/literatur/sebastian-fitzek-diese-buecher-haben-das-leben-des-autors-veraendert-a-f010d29d-bdfd-402e-a268-76c4999ca30a#ref=rss)
+* [https://www.spiegel.de/panorama/erdbeben-in-myanmar-militaerjunta-spricht-von-mehr-als-690-toten](https://www.spiegel.de/panorama/erdbeben-in-myanmar-militaerjunta-spricht-von-mehr-als-690-toten-a-bfc88498-b119-4e07-a0bd-94e3764c8dd6#ref=rss)
+* [https://www.spiegel.de/panorama/kuenstliche-intelligenz-sewell-14-verliebte-sich-in-ki-und-nahm-sich-das-leben](https://www.spiegel.de/panorama/kuenstliche-intelligenz-sewell-14-verliebte-sich-in-ki-und-nahm-sich-das-leben-a-08a6d6d8-ff04-46b0-bb6b-f67f1b07dbb6#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/politik/deutschland/koalitionsverhandlungen-das-sagen-merz-soeder-klingbeil-und-esken-livestream](https://www.spiegel.de/politik/deutschland/koalitionsverhandlungen-das-sagen-merz-soeder-klingbeil-und-esken-livestream-a-5d58ccfa-6aa2-4687-9c10-79389b2c9b6d#ref=rss)
-### ndr
+* [https://www.spiegel.de/panorama/leute/steffi-graf-und-andre-agassi-verraten-geheimnis-ihres-pickleball-erfolgs](https://www.spiegel.de/panorama/leute/steffi-graf-und-andre-agassi-verraten-geheimnis-ihres-pickleball-erfolgs-a-66a2f248-376f-4c95-b813-bfc19ebca3b3#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/wangerooge-nordseeinsel-sucht-neuen-buergermeister](https://www.spiegel.de/panorama/gesellschaft/wangerooge-nordseeinsel-sucht-neuen-buergermeister-a-943ccf32-edf0-4ce5-9e81-5fe173b9708d#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-schlaegt-versoehnliche-toene-gegenueber-kanada-an](https://www.spiegel.de/ausland/donald-trump-schlaegt-versoehnliche-toene-gegenueber-kanada-an-a-cadc3d14-5ef1-4ad1-b86d-d100db5737a7#ref=rss)
+### donald
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/ndr-harzer-kux-soll-neue-intendantin-werden](https://www.spiegel.de/wirtschaft/unternehmen/ndr-harzer-kux-soll-neue-intendantin-werden-a-37256358-8c94-4d1a-a9b8-7ae933470aa8#ref=rss)
-### harzerkux
+* [https://www.spiegel.de/wissenschaft/uebergangs-praesidentin-der-columbia-universitaet-tritt-ab](https://www.spiegel.de/wissenschaft/uebergangs-praesidentin-der-columbia-universitaet-tritt-ab-a-ac6bd36a-ec32-48b9-8f65-353a10aa14f2#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-schlaegt-versoehnliche-toene-gegenueber-kanada-an](https://www.spiegel.de/ausland/donald-trump-schlaegt-versoehnliche-toene-gegenueber-kanada-an-a-cadc3d14-5ef1-4ad1-b86d-d100db5737a7#ref=rss)
+### cdu
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/ndr-harzer-kux-soll-neue-intendantin-werden](https://www.spiegel.de/wirtschaft/unternehmen/ndr-harzer-kux-soll-neue-intendantin-werden-a-37256358-8c94-4d1a-a9b8-7ae933470aa8#ref=rss)
-### neue
+* [https://www.spiegel.de/politik/deutschland/cdu-csu-spd-finanzfragen-im-fokus-bei-koalitionsgespraechen](https://www.spiegel.de/politik/deutschland/cdu-csu-spd-finanzfragen-im-fokus-bei-koalitionsgespraechen-a-3f99d415-f5b6-4b8d-9eec-15303ae97669#ref=rss)
+### csu
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/ndr-harzer-kux-soll-neue-intendantin-werden](https://www.spiegel.de/wirtschaft/unternehmen/ndr-harzer-kux-soll-neue-intendantin-werden-a-37256358-8c94-4d1a-a9b8-7ae933470aa8#ref=rss)
-* [https://www.spiegel.de/kultur/tv/tatort-aus-dortmund-abstellgleis-mit-joerg-hartmann](https://www.spiegel.de/kultur/tv/tatort-aus-dortmund-abstellgleis-mit-joerg-hartmann-a-30cc231f-96e4-4670-9262-2cbdd30172a9#ref=rss)
-### intendantin
+* [https://www.spiegel.de/politik/deutschland/cdu-csu-spd-finanzfragen-im-fokus-bei-koalitionsgespraechen](https://www.spiegel.de/politik/deutschland/cdu-csu-spd-finanzfragen-im-fokus-bei-koalitionsgespraechen-a-3f99d415-f5b6-4b8d-9eec-15303ae97669#ref=rss)
+### fokus
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/ndr-harzer-kux-soll-neue-intendantin-werden](https://www.spiegel.de/wirtschaft/unternehmen/ndr-harzer-kux-soll-neue-intendantin-werden-a-37256358-8c94-4d1a-a9b8-7ae933470aa8#ref=rss)
-### tatort
+* [https://www.spiegel.de/politik/deutschland/cdu-csu-spd-finanzfragen-im-fokus-bei-koalitionsgespraechen](https://www.spiegel.de/politik/deutschland/cdu-csu-spd-finanzfragen-im-fokus-bei-koalitionsgespraechen-a-3f99d415-f5b6-4b8d-9eec-15303ae97669#ref=rss)
+### außenminister
 
-* [https://www.spiegel.de/kultur/tv/tatort-aus-dortmund-abstellgleis-mit-joerg-hartmann](https://www.spiegel.de/kultur/tv/tatort-aus-dortmund-abstellgleis-mit-joerg-hartmann-a-30cc231f-96e4-4670-9262-2cbdd30172a9#ref=rss)
+* [https://www.spiegel.de/ausland/daenischer-aussenminister-verbittet-sich-ton-von-j-d-vance](https://www.spiegel.de/ausland/daenischer-aussenminister-verbittet-sich-ton-von-j-d-vance-a-b25160ae-a205-4ef9-962b-46c50b91504c#ref=rss)
+### fall
+
+* [https://www.spiegel.de/panorama/gefluegelzuechter-muss-30-000-tiere-toeten](https://www.spiegel.de/panorama/gefluegelzuechter-muss-30-000-tiere-toeten-a-af00f41f-af55-412a-83b2-2bde6856f02b#ref=rss)
+* [https://www.spiegel.de/ausland/karl-heinz-grasser-zu-jung-zu-schoen-zu-reich-und-nun-verurteilt-podcast](https://www.spiegel.de/ausland/karl-heinz-grasser-zu-jung-zu-schoen-zu-reich-und-nun-verurteilt-podcast-a-825efb98-1c91-4ee4-8445-3442bf7c1a1c#ref=rss)
+### bestehen
+
+* [https://www.spiegel.de/panorama/gefluegelzuechter-muss-30-000-tiere-toeten](https://www.spiegel.de/panorama/gefluegelzuechter-muss-30-000-tiere-toeten-a-af00f41f-af55-412a-83b2-2bde6856f02b#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/waffen-kann-europa-militaerisch-gegen-russland-bestehen](https://www.spiegel.de/wissenschaft/technik/waffen-kann-europa-militaerisch-gegen-russland-bestehen-a-1ce6ebaf-7382-4f36-abdc-4c47461143e4#ref=rss)
+### irland
+
+* [https://www.spiegel.de/panorama/therapie-mit-tieren-alpakas-zum-kuscheln-im-pflegeheim-in-irland](https://www.spiegel.de/panorama/therapie-mit-tieren-alpakas-zum-kuscheln-im-pflegeheim-in-irland-a-61265185-071c-4cb0-9179-ac92e9311751#ref=rss)
+### karlheinz
+
+* [https://www.spiegel.de/ausland/karl-heinz-grasser-zu-jung-zu-schoen-zu-reich-und-nun-verurteilt-podcast](https://www.spiegel.de/ausland/karl-heinz-grasser-zu-jung-zu-schoen-zu-reich-und-nun-verurteilt-podcast-a-825efb98-1c91-4ee4-8445-3442bf7c1a1c#ref=rss)
+### grasser
+
+* [https://www.spiegel.de/ausland/karl-heinz-grasser-zu-jung-zu-schoen-zu-reich-und-nun-verurteilt-podcast](https://www.spiegel.de/ausland/karl-heinz-grasser-zu-jung-zu-schoen-zu-reich-und-nun-verurteilt-podcast-a-825efb98-1c91-4ee4-8445-3442bf7c1a1c#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/ausland/karl-heinz-grasser-zu-jung-zu-schoen-zu-reich-und-nun-verurteilt-podcast](https://www.spiegel.de/ausland/karl-heinz-grasser-zu-jung-zu-schoen-zu-reich-und-nun-verurteilt-podcast-a-825efb98-1c91-4ee4-8445-3442bf7c1a1c#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/krimi-tipp-super-cannes-von-j-g-ballard-ein-paradies-in-dem-der-wahnsinn-regiert](https://www.spiegel.de/kultur/literatur/krimi-tipp-super-cannes-von-j-g-ballard-ein-paradies-in-dem-der-wahnsinn-regiert-a-c926dac2-b2e7-4b7b-b08e-64beb302dd32#ref=rss)
+### 90
+
+* [https://www.spiegel.de/panorama/erdbeben-in-myanmar-mehr-als-90-menschen-unter-truemmern-in-mandalay-vermutet](https://www.spiegel.de/panorama/erdbeben-in-myanmar-mehr-als-90-menschen-unter-truemmern-in-mandalay-vermutet-a-23e68f79-150e-46d6-aec1-fde4f22b37b6#ref=rss)
+### trümmern
+
+* [https://www.spiegel.de/panorama/erdbeben-in-myanmar-mehr-als-90-menschen-unter-truemmern-in-mandalay-vermutet](https://www.spiegel.de/panorama/erdbeben-in-myanmar-mehr-als-90-menschen-unter-truemmern-in-mandalay-vermutet-a-23e68f79-150e-46d6-aec1-fde4f22b37b6#ref=rss)
+### mandalay
+
+* [https://www.spiegel.de/panorama/erdbeben-in-myanmar-mehr-als-90-menschen-unter-truemmern-in-mandalay-vermutet](https://www.spiegel.de/panorama/erdbeben-in-myanmar-mehr-als-90-menschen-unter-truemmern-in-mandalay-vermutet-a-23e68f79-150e-46d6-aec1-fde4f22b37b6#ref=rss)
+### vermutet
+
+* [https://www.spiegel.de/panorama/erdbeben-in-myanmar-mehr-als-90-menschen-unter-truemmern-in-mandalay-vermutet](https://www.spiegel.de/panorama/erdbeben-in-myanmar-mehr-als-90-menschen-unter-truemmern-in-mandalay-vermutet-a-23e68f79-150e-46d6-aec1-fde4f22b37b6#ref=rss)
+### deutlich
+
+* [https://www.spiegel.de/panorama/erdbeben-in-myanmar-mehr-als-90-menschen-unter-truemmern-in-mandalay-vermutet](https://www.spiegel.de/panorama/erdbeben-in-myanmar-mehr-als-90-menschen-unter-truemmern-in-mandalay-vermutet-a-23e68f79-150e-46d6-aec1-fde4f22b37b6#ref=rss)
+* [https://www.spiegel.de/panorama/erdbeben-in-myanmar-militaerjunta-spricht-von-mehr-als-690-toten](https://www.spiegel.de/panorama/erdbeben-in-myanmar-militaerjunta-spricht-von-mehr-als-690-toten-a-bfc88498-b119-4e07-a0bd-94e3764c8dd6#ref=rss)
+### düren
+
+* [https://www.spiegel.de/panorama/justiz/dueren-schlafender-autofahrer-wird-an-ampel-von-der-polizei-geweckt](https://www.spiegel.de/panorama/justiz/dueren-schlafender-autofahrer-wird-an-ampel-von-der-polizei-geweckt-a-9b77c6e4-8ea2-4da2-826f-1fb7ef0d9ed4#ref=rss)
+### autofahrer
+
+* [https://www.spiegel.de/panorama/justiz/dueren-schlafender-autofahrer-wird-an-ampel-von-der-polizei-geweckt](https://www.spiegel.de/panorama/justiz/dueren-schlafender-autofahrer-wird-an-ampel-von-der-polizei-geweckt-a-9b77c6e4-8ea2-4da2-826f-1fb7ef0d9ed4#ref=rss)
+### fitzek
+
+* [https://www.spiegel.de/kultur/literatur/sebastian-fitzek-diese-buecher-haben-das-leben-des-autors-veraendert](https://www.spiegel.de/kultur/literatur/sebastian-fitzek-diese-buecher-haben-das-leben-des-autors-veraendert-a-f010d29d-bdfd-402e-a268-76c4999ca30a#ref=rss)
+### verraten
+
+* [https://www.spiegel.de/kultur/literatur/sebastian-fitzek-diese-buecher-haben-das-leben-des-autors-veraendert](https://www.spiegel.de/kultur/literatur/sebastian-fitzek-diese-buecher-haben-das-leben-des-autors-veraendert-a-f010d29d-bdfd-402e-a268-76c4999ca30a#ref=rss)
+* [https://www.spiegel.de/panorama/leute/steffi-graf-und-andre-agassi-verraten-geheimnis-ihres-pickleball-erfolgs](https://www.spiegel.de/panorama/leute/steffi-graf-und-andre-agassi-verraten-geheimnis-ihres-pickleball-erfolgs-a-66a2f248-376f-4c95-b813-bfc19ebca3b3#ref=rss)
+### peter
+
+* [https://www.spiegel.de/ausland/peter-marks-us-impfstoffexperte-zum-ruecktritt-gedraengt](https://www.spiegel.de/ausland/peter-marks-us-impfstoffexperte-zum-ruecktritt-gedraengt-a-d0d75381-ac3d-4814-a6b1-9aa24000b456#ref=rss)
+### marks
+
+* [https://www.spiegel.de/ausland/peter-marks-us-impfstoffexperte-zum-ruecktritt-gedraengt](https://www.spiegel.de/ausland/peter-marks-us-impfstoffexperte-zum-ruecktritt-gedraengt-a-d0d75381-ac3d-4814-a6b1-9aa24000b456#ref=rss)
+### steffi
+
+* [https://www.spiegel.de/panorama/leute/steffi-graf-und-andre-agassi-verraten-geheimnis-ihres-pickleball-erfolgs](https://www.spiegel.de/panorama/leute/steffi-graf-und-andre-agassi-verraten-geheimnis-ihres-pickleball-erfolgs-a-66a2f248-376f-4c95-b813-bfc19ebca3b3#ref=rss)
+### graf
+
+* [https://www.spiegel.de/panorama/leute/steffi-graf-und-andre-agassi-verraten-geheimnis-ihres-pickleball-erfolgs](https://www.spiegel.de/panorama/leute/steffi-graf-und-andre-agassi-verraten-geheimnis-ihres-pickleball-erfolgs-a-66a2f248-376f-4c95-b813-bfc19ebca3b3#ref=rss)
+### andre
+
+* [https://www.spiegel.de/panorama/leute/steffi-graf-und-andre-agassi-verraten-geheimnis-ihres-pickleball-erfolgs](https://www.spiegel.de/panorama/leute/steffi-graf-und-andre-agassi-verraten-geheimnis-ihres-pickleball-erfolgs-a-66a2f248-376f-4c95-b813-bfc19ebca3b3#ref=rss)
+### agassi
+
+* [https://www.spiegel.de/panorama/leute/steffi-graf-und-andre-agassi-verraten-geheimnis-ihres-pickleball-erfolgs](https://www.spiegel.de/panorama/leute/steffi-graf-und-andre-agassi-verraten-geheimnis-ihres-pickleball-erfolgs-a-66a2f248-376f-4c95-b813-bfc19ebca3b3#ref=rss)
+### darja
+
+* [https://www.spiegel.de/sport/tennis/tennis-russische-spielerin-kassatkina-tritt-kuenftig-fuer-australien-an](https://www.spiegel.de/sport/tennis/tennis-russische-spielerin-kassatkina-tritt-kuenftig-fuer-australien-an-a-206a80b3-f690-4502-b98c-f81f8d346f95#ref=rss)
+### kassatkina
+
+* [https://www.spiegel.de/sport/tennis/tennis-russische-spielerin-kassatkina-tritt-kuenftig-fuer-australien-an](https://www.spiegel.de/sport/tennis/tennis-russische-spielerin-kassatkina-tritt-kuenftig-fuer-australien-an-a-206a80b3-f690-4502-b98c-f81f8d346f95#ref=rss)
+### tritt
+
+* [https://www.spiegel.de/sport/tennis/tennis-russische-spielerin-kassatkina-tritt-kuenftig-fuer-australien-an](https://www.spiegel.de/sport/tennis/tennis-russische-spielerin-kassatkina-tritt-kuenftig-fuer-australien-an-a-206a80b3-f690-4502-b98c-f81f8d346f95#ref=rss)
+* [https://www.spiegel.de/wissenschaft/uebergangs-praesidentin-der-columbia-universitaet-tritt-ab](https://www.spiegel.de/wissenschaft/uebergangs-praesidentin-der-columbia-universitaet-tritt-ab-a-ac6bd36a-ec32-48b9-8f65-353a10aa14f2#ref=rss)
+### künftig
+
+* [https://www.spiegel.de/sport/tennis/tennis-russische-spielerin-kassatkina-tritt-kuenftig-fuer-australien-an](https://www.spiegel.de/sport/tennis/tennis-russische-spielerin-kassatkina-tritt-kuenftig-fuer-australien-an-a-206a80b3-f690-4502-b98c-f81f8d346f95#ref=rss)
+### australien
+
+* [https://www.spiegel.de/sport/tennis/tennis-russische-spielerin-kassatkina-tritt-kuenftig-fuer-australien-an](https://www.spiegel.de/sport/tennis/tennis-russische-spielerin-kassatkina-tritt-kuenftig-fuer-australien-an-a-206a80b3-f690-4502-b98c-f81f8d346f95#ref=rss)
+### hunderte
+
+* [https://www.spiegel.de/ausland/khalida-popal-sie-hatte-nur-einen-laptop-und-ein-telefon-und-rettete-damit-hunderte-menschen](https://www.spiegel.de/ausland/khalida-popal-sie-hatte-nur-einen-laptop-und-ein-telefon-und-rettete-damit-hunderte-menschen-a-f0bfd354-514b-43df-88b2-88127841beb5#ref=rss)
+* [https://www.spiegel.de/kultur/oscars-2024-academy-entschuldigt-sich-bei-regisseur-hamdan-ballal](https://www.spiegel.de/kultur/oscars-2024-academy-entschuldigt-sich-bei-regisseur-hamdan-ballal-a-d5950326-21b2-4d88-9a87-10c0543b17db#ref=rss)
+### verden
+
+* [https://www.spiegel.de/panorama/verden-sieben-teslas-vollstaendig-ausgebrannt](https://www.spiegel.de/panorama/verden-sieben-teslas-vollstaendig-ausgebrannt-a-872cd283-f710-41b7-9d91-c773ab25d491#ref=rss)
+### sieben
+
+* [https://www.spiegel.de/panorama/verden-sieben-teslas-vollstaendig-ausgebrannt](https://www.spiegel.de/panorama/verden-sieben-teslas-vollstaendig-ausgebrannt-a-872cd283-f710-41b7-9d91-c773ab25d491#ref=rss)
+### teslas
+
+* [https://www.spiegel.de/panorama/verden-sieben-teslas-vollstaendig-ausgebrannt](https://www.spiegel.de/panorama/verden-sieben-teslas-vollstaendig-ausgebrannt-a-872cd283-f710-41b7-9d91-c773ab25d491#ref=rss)
+### wangerooge
+
+* [https://www.spiegel.de/panorama/gesellschaft/wangerooge-nordseeinsel-sucht-neuen-buergermeister](https://www.spiegel.de/panorama/gesellschaft/wangerooge-nordseeinsel-sucht-neuen-buergermeister-a-943ccf32-edf0-4ce5-9e81-5fe173b9708d#ref=rss)
+### bürgermeister
+
+* [https://www.spiegel.de/panorama/gesellschaft/wangerooge-nordseeinsel-sucht-neuen-buergermeister](https://www.spiegel.de/panorama/gesellschaft/wangerooge-nordseeinsel-sucht-neuen-buergermeister-a-943ccf32-edf0-4ce5-9e81-5fe173b9708d#ref=rss)
+### tijuana
+
+* [https://www.spiegel.de/ausland/fentanylkrise-in-mexiko-das-lebensretter-kommando-von-tijuana](https://www.spiegel.de/ausland/fentanylkrise-in-mexiko-das-lebensretter-kommando-von-tijuana-a-a15afb50-efd4-4f66-bad0-c1e4a9dcecd4#ref=rss)
+### ohne
+
+* [https://www.spiegel.de/kultur/tv/tagesschau-sollte-nicht-mehr-ueber-sportereignisse-ohne-bilder-berichten](https://www.spiegel.de/kultur/tv/tagesschau-sollte-nicht-mehr-ueber-sportereignisse-ohne-bilder-berichten-a-bbcb1a36-144f-4e54-9c22-98e8531c346a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-spekulationen-ueber-den-kuenftigen-finanzminister-j-d-vance-in-groenland-erdbeben-in-myanmar](https://www.spiegel.de/politik/deutschland/news-spekulationen-ueber-den-kuenftigen-finanzminister-j-d-vance-in-groenland-erdbeben-in-myanmar-a-64d873e6-089c-4231-8dee-16ec460dbace#ref=rss)
+### bilder
+
+* [https://www.spiegel.de/kultur/tv/tagesschau-sollte-nicht-mehr-ueber-sportereignisse-ohne-bilder-berichten](https://www.spiegel.de/kultur/tv/tagesschau-sollte-nicht-mehr-ueber-sportereignisse-ohne-bilder-berichten-a-bbcb1a36-144f-4e54-9c22-98e8531c346a#ref=rss)
+### regisseur
+
+* [https://www.spiegel.de/kultur/oscars-2024-academy-entschuldigt-sich-bei-regisseur-hamdan-ballal](https://www.spiegel.de/kultur/oscars-2024-academy-entschuldigt-sich-bei-regisseur-hamdan-ballal-a-d5950326-21b2-4d88-9a87-10c0543b17db#ref=rss)
+### ballal
+
+* [https://www.spiegel.de/kultur/oscars-2024-academy-entschuldigt-sich-bei-regisseur-hamdan-ballal](https://www.spiegel.de/kultur/oscars-2024-academy-entschuldigt-sich-bei-regisseur-hamdan-ballal-a-d5950326-21b2-4d88-9a87-10c0543b17db#ref=rss)
+### supercannes
+
+* [https://www.spiegel.de/kultur/literatur/krimi-tipp-super-cannes-von-j-g-ballard-ein-paradies-in-dem-der-wahnsinn-regiert](https://www.spiegel.de/kultur/literatur/krimi-tipp-super-cannes-von-j-g-ballard-ein-paradies-in-dem-der-wahnsinn-regiert-a-c926dac2-b2e7-4b7b-b08e-64beb302dd32#ref=rss)
+### jg
+
+* [https://www.spiegel.de/kultur/literatur/krimi-tipp-super-cannes-von-j-g-ballard-ein-paradies-in-dem-der-wahnsinn-regiert](https://www.spiegel.de/kultur/literatur/krimi-tipp-super-cannes-von-j-g-ballard-ein-paradies-in-dem-der-wahnsinn-regiert-a-c926dac2-b2e7-4b7b-b08e-64beb302dd32#ref=rss)
+### ballard
+
+* [https://www.spiegel.de/kultur/literatur/krimi-tipp-super-cannes-von-j-g-ballard-ein-paradies-in-dem-der-wahnsinn-regiert](https://www.spiegel.de/kultur/literatur/krimi-tipp-super-cannes-von-j-g-ballard-ein-paradies-in-dem-der-wahnsinn-regiert-a-c926dac2-b2e7-4b7b-b08e-64beb302dd32#ref=rss)
+### mini
+
+* [https://www.spiegel.de/auto/fahrberichte/mini-aceman-im-test-viel-show-und-raum-im-elektroformat](https://www.spiegel.de/auto/fahrberichte/mini-aceman-im-test-viel-show-und-raum-im-elektroformat-a-38b98a0b-645d-4086-af26-acfc7ac8630f#ref=rss)
+### aceman
+
+* [https://www.spiegel.de/auto/fahrberichte/mini-aceman-im-test-viel-show-und-raum-im-elektroformat](https://www.spiegel.de/auto/fahrberichte/mini-aceman-im-test-viel-show-und-raum-im-elektroformat-a-38b98a0b-645d-4086-af26-acfc7ac8630f#ref=rss)
+### show
+
+* [https://www.spiegel.de/auto/fahrberichte/mini-aceman-im-test-viel-show-und-raum-im-elektroformat](https://www.spiegel.de/auto/fahrberichte/mini-aceman-im-test-viel-show-und-raum-im-elektroformat-a-38b98a0b-645d-4086-af26-acfc7ac8630f#ref=rss)
+### myanmars
+
+* [https://www.spiegel.de/politik/deutschland/news-spekulationen-ueber-den-kuenftigen-finanzminister-j-d-vance-in-groenland-erdbeben-in-myanmar](https://www.spiegel.de/politik/deutschland/news-spekulationen-ueber-den-kuenftigen-finanzminister-j-d-vance-in-groenland-erdbeben-in-myanmar-a-64d873e6-089c-4231-8dee-16ec460dbace#ref=rss)
+* [https://www.spiegel.de/panorama/erdbeben-in-myanmar-militaerjunta-spricht-von-mehr-als-690-toten](https://www.spiegel.de/panorama/erdbeben-in-myanmar-militaerjunta-spricht-von-mehr-als-690-toten-a-bfc88498-b119-4e07-a0bd-94e3764c8dd6#ref=rss)
+### 14
+
+* [https://www.spiegel.de/panorama/kuenstliche-intelligenz-sewell-14-verliebte-sich-in-ki-und-nahm-sich-das-leben](https://www.spiegel.de/panorama/kuenstliche-intelligenz-sewell-14-verliebte-sich-in-ki-und-nahm-sich-das-leben-a-08a6d6d8-ff04-46b0-bb6b-f67f1b07dbb6#ref=rss)
+* [https://www.spiegel.de/sport/fussball/brasilien-nationaltrainer-dorival-junior-muss-gehen](https://www.spiegel.de/sport/fussball/brasilien-nationaltrainer-dorival-junior-muss-gehen-a-263b8860-2608-4969-a3f0-99c54bb50b54#ref=rss)
+### kanada
+
+* [https://www.spiegel.de/ausland/donald-trump-schlaegt-versoehnliche-toene-gegenueber-kanada-an](https://www.spiegel.de/ausland/donald-trump-schlaegt-versoehnliche-toene-gegenueber-kanada-an-a-cadc3d14-5ef1-4ad1-b86d-d100db5737a7#ref=rss)
+### trainer
+
+* [https://www.spiegel.de/sport/fussball/brasilien-nationaltrainer-dorival-junior-muss-gehen](https://www.spiegel.de/sport/fussball/brasilien-nationaltrainer-dorival-junior-muss-gehen-a-263b8860-2608-4969-a3f0-99c54bb50b54#ref=rss)
+### dorival
+
+* [https://www.spiegel.de/sport/fussball/brasilien-nationaltrainer-dorival-junior-muss-gehen](https://www.spiegel.de/sport/fussball/brasilien-nationaltrainer-dorival-junior-muss-gehen-a-263b8860-2608-4969-a3f0-99c54bb50b54#ref=rss)
+### júnior
+
+* [https://www.spiegel.de/sport/fussball/brasilien-nationaltrainer-dorival-junior-muss-gehen](https://www.spiegel.de/sport/fussball/brasilien-nationaltrainer-dorival-junior-muss-gehen-a-263b8860-2608-4969-a3f0-99c54bb50b54#ref=rss)
+### niederlage
+
+* [https://www.spiegel.de/sport/fussball/brasilien-nationaltrainer-dorival-junior-muss-gehen](https://www.spiegel.de/sport/fussball/brasilien-nationaltrainer-dorival-junior-muss-gehen-a-263b8860-2608-4969-a3f0-99c54bb50b54#ref=rss)
+### argentinien
+
+* [https://www.spiegel.de/sport/fussball/brasilien-nationaltrainer-dorival-junior-muss-gehen](https://www.spiegel.de/sport/fussball/brasilien-nationaltrainer-dorival-junior-muss-gehen-a-263b8860-2608-4969-a3f0-99c54bb50b54#ref=rss)
+### elon
+
+* [https://www.spiegel.de/netzwelt/web/elon-musk-ki-firma-xai-uebernimmt-x](https://www.spiegel.de/netzwelt/web/elon-musk-ki-firma-xai-uebernimmt-x-a-6ea8ca88-d5e6-4ce1-970f-66267edaaba8#ref=rss)
+### musk
+
+* [https://www.spiegel.de/netzwelt/web/elon-musk-ki-firma-xai-uebernimmt-x](https://www.spiegel.de/netzwelt/web/elon-musk-ki-firma-xai-uebernimmt-x-a-6ea8ca88-d5e6-4ce1-970f-66267edaaba8#ref=rss)
+### kifirma
+
+* [https://www.spiegel.de/netzwelt/web/elon-musk-ki-firma-xai-uebernimmt-x](https://www.spiegel.de/netzwelt/web/elon-musk-ki-firma-xai-uebernimmt-x-a-6ea8ca88-d5e6-4ce1-970f-66267edaaba8#ref=rss)
+### xai
+
+* [https://www.spiegel.de/netzwelt/web/elon-musk-ki-firma-xai-uebernimmt-x](https://www.spiegel.de/netzwelt/web/elon-musk-ki-firma-xai-uebernimmt-x-a-6ea8ca88-d5e6-4ce1-970f-66267edaaba8#ref=rss)
 
