@@ -4,429 +4,335 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### eu
-
-* [https://www.spiegel.de/netzwelt/gadgets/ios-18-4-ipados-18-4-visionos-2-4-macos-sequoia-15-4-apple-veroeffentlicht-ki-updates-fuer-iphones-ipads-macs](https://www.spiegel.de/netzwelt/gadgets/ios-18-4-ipados-18-4-visionos-2-4-macos-sequoia-15-4-apple-veroeffentlicht-ki-updates-fuer-iphones-ipads-macs-a-1eeed34a-2d1c-4882-ae82-ada72bfbef12#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/italien-mutmasslich-russische-drohne-ueberfliegt-forschungszentrum-der-eu-am-lago-maggiore](https://www.spiegel.de/wissenschaft/technik/italien-mutmasslich-russische-drohne-ueberfliegt-forschungszentrum-der-eu-am-lago-maggiore-a-b9b3bfe0-c8b3-4494-ab5b-ec8273921048#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/erdgas-die-eu-bekommt-druck-von-donald-trump-und-wladimir-putin](https://www.spiegel.de/wirtschaft/soziales/erdgas-die-eu-bekommt-druck-von-donald-trump-und-wladimir-putin-a-db3dab64-b057-4b9d-9080-9f26e1d34ba5#ref=rss)
-### myanmar
-
-* [https://www.spiegel.de/ausland/erdbeben-in-myanmar-satellitenbilder-aus-dem-sperrgebiet-zeigen-die-lage](https://www.spiegel.de/ausland/erdbeben-in-myanmar-satellitenbilder-aus-dem-sperrgebiet-zeigen-die-lage-a-f48cf834-1a62-4916-8be3-979ea1903f81#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-marine-le-pen-myanmar-union-und-spd-in-koalitionsverhandlungen](https://www.spiegel.de/politik/deutschland/news-des-tages-marine-le-pen-myanmar-union-und-spd-in-koalitionsverhandlungen-a-1bd71165-4135-4e02-aff5-00dd7378d1b6#ref=rss)
-### donald
-
-* [https://www.spiegel.de/panorama/paris-koelner-haengen-bilder-von-friedrich-merz-und-donald-trump-in-den-louvre](https://www.spiegel.de/panorama/paris-koelner-haengen-bilder-von-friedrich-merz-und-donald-trump-in-den-louvre-a-763f64d0-fde9-4ad1-a6f4-f9235898be41#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/erdgas-die-eu-bekommt-druck-von-donald-trump-und-wladimir-putin](https://www.spiegel.de/wirtschaft/soziales/erdgas-die-eu-bekommt-druck-von-donald-trump-und-wladimir-putin-a-db3dab64-b057-4b9d-9080-9f26e1d34ba5#ref=rss)
-### trump
-
-* [https://www.spiegel.de/panorama/paris-koelner-haengen-bilder-von-friedrich-merz-und-donald-trump-in-den-louvre](https://www.spiegel.de/panorama/paris-koelner-haengen-bilder-von-friedrich-merz-und-donald-trump-in-den-louvre-a-763f64d0-fde9-4ad1-a6f4-f9235898be41#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/erdgas-die-eu-bekommt-druck-von-donald-trump-und-wladimir-putin](https://www.spiegel.de/wirtschaft/soziales/erdgas-die-eu-bekommt-druck-von-donald-trump-und-wladimir-putin-a-db3dab64-b057-4b9d-9080-9f26e1d34ba5#ref=rss)
-### ledmasken
-
-* [https://www.spiegel.de/wissenschaft/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-podcast](https://www.spiegel.de/wissenschaft/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-podcast-a-14ee1779-d03a-44e0-86e0-3d89d3fbe0b1#ref=rss)
-* [https://www.spiegel.de/politik/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes](https://www.spiegel.de/politik/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-a-18d8996b-f49a-4e74-bd1f-c8e78158a325#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/panorama/justiz/stuttgart-mehr-als-fuenf-jahre-haft-fuer-is-mitglied-wegen-anschlagsplans](https://www.spiegel.de/panorama/justiz/stuttgart-mehr-als-fuenf-jahre-haft-fuer-is-mitglied-wegen-anschlagsplans-a-8ae89afc-e138-482f-9a01-03c511adb584#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/erdgas-die-eu-bekommt-druck-von-donald-trump-und-wladimir-putin](https://www.spiegel.de/wirtschaft/soziales/erdgas-die-eu-bekommt-druck-von-donald-trump-und-wladimir-putin-a-db3dab64-b057-4b9d-9080-9f26e1d34ba5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/fuer-die-arbeit-von-lobbyisten-im-bundestag-zahlten-unternehmen-2024-eine-milliarde-euro](https://www.spiegel.de/wirtschaft/fuer-die-arbeit-von-lobbyisten-im-bundestag-zahlten-unternehmen-2024-eine-milliarde-euro-a-f45f1729-a0bc-48b7-bed2-11d876da5833#ref=rss)
-### union
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-marine-le-pen-myanmar-union-und-spd-in-koalitionsverhandlungen](https://www.spiegel.de/politik/deutschland/news-des-tages-marine-le-pen-myanmar-union-und-spd-in-koalitionsverhandlungen-a-1bd71165-4135-4e02-aff5-00dd7378d1b6#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/italien-mutmasslich-russische-drohne-ueberfliegt-forschungszentrum-der-eu-am-lago-maggiore](https://www.spiegel.de/wissenschaft/technik/italien-mutmasslich-russische-drohne-ueberfliegt-forschungszentrum-der-eu-am-lago-maggiore-a-b9b3bfe0-c8b3-4494-ab5b-ec8273921048#ref=rss)
-* [https://www.spiegel.de/wirtschaft/strommarkt-union-und-spd-planen-einsatz-alter-kraftwerke-gegen-preisspitzen](https://www.spiegel.de/wirtschaft/strommarkt-union-und-spd-planen-einsatz-alter-kraftwerke-gegen-preisspitzen-a-6b5c9492-80a1-4205-b0c1-0c7d192dc7f7#ref=rss)
-### adolescence
-
-* [https://www.spiegel.de/kultur/tv/adolescence-film-soll-an-allen-weiterfuehrenden-schulen-in-grossbritannien-gezeigt-werden](https://www.spiegel.de/kultur/tv/adolescence-film-soll-an-allen-weiterfuehrenden-schulen-in-grossbritannien-gezeigt-werden-a-9795d98e-0b73-46ec-b8fc-e2610d119f7d#ref=rss)
-* [https://www.spiegel.de/kultur/tv/adolescence-bei-netflix-ablehnung-und-wut-im-netz-gegen-hit-serie](https://www.spiegel.de/kultur/tv/adolescence-bei-netflix-ablehnung-und-wut-im-netz-gegen-hit-serie-a-74f5ca06-451d-4e44-b398-a5b272a6c0f9#ref=rss)
-### 184
-
-* [https://www.spiegel.de/netzwelt/gadgets/ios-18-4-ipados-18-4-visionos-2-4-macos-sequoia-15-4-apple-veroeffentlicht-ki-updates-fuer-iphones-ipads-macs](https://www.spiegel.de/netzwelt/gadgets/ios-18-4-ipados-18-4-visionos-2-4-macos-sequoia-15-4-apple-veroeffentlicht-ki-updates-fuer-iphones-ipads-macs-a-1eeed34a-2d1c-4882-ae82-ada72bfbef12#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-so-eng-arbeiteten-amerikaner-und-ukrainer-zusammen](https://www.spiegel.de/ausland/ukraine-krieg-so-eng-arbeiteten-amerikaner-und-ukrainer-zusammen-a-0de7a99b-ed59-466e-9050-b528b0633843#ref=rss)
-* [https://www.spiegel.de/wirtschaft/fuer-die-arbeit-von-lobbyisten-im-bundestag-zahlten-unternehmen-2024-eine-milliarde-euro](https://www.spiegel.de/wirtschaft/fuer-die-arbeit-von-lobbyisten-im-bundestag-zahlten-unternehmen-2024-eine-milliarde-euro-a-f45f1729-a0bc-48b7-bed2-11d876da5833#ref=rss)
-* [https://www.spiegel.de/kultur/tv/adolescence-bei-netflix-ablehnung-und-wut-im-netz-gegen-hit-serie](https://www.spiegel.de/kultur/tv/adolescence-bei-netflix-ablehnung-und-wut-im-netz-gegen-hit-serie-a-74f5ca06-451d-4e44-b398-a5b272a6c0f9#ref=rss)
-### bilder
-
-* [https://www.spiegel.de/ausland/erdbeben-in-myanmar-satellitenbilder-aus-dem-sperrgebiet-zeigen-die-lage](https://www.spiegel.de/ausland/erdbeben-in-myanmar-satellitenbilder-aus-dem-sperrgebiet-zeigen-die-lage-a-f48cf834-1a62-4916-8be3-979ea1903f81#ref=rss)
-* [https://www.spiegel.de/panorama/paris-koelner-haengen-bilder-von-friedrich-merz-und-donald-trump-in-den-louvre](https://www.spiegel.de/panorama/paris-koelner-haengen-bilder-von-friedrich-merz-und-donald-trump-in-den-louvre-a-763f64d0-fde9-4ad1-a6f4-f9235898be41#ref=rss)
-### nennt
-
-* [https://www.spiegel.de/wissenschaft/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-podcast](https://www.spiegel.de/wissenschaft/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-podcast-a-14ee1779-d03a-44e0-86e0-3d89d3fbe0b1#ref=rss)
-* [https://www.spiegel.de/politik/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes](https://www.spiegel.de/politik/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-a-18d8996b-f49a-4e74-bd1f-c8e78158a325#ref=rss)
-* [https://www.spiegel.de/kultur/tv/adolescence-film-soll-an-allen-weiterfuehrenden-schulen-in-grossbritannien-gezeigt-werden](https://www.spiegel.de/kultur/tv/adolescence-film-soll-an-allen-weiterfuehrenden-schulen-in-grossbritannien-gezeigt-werden-a-9795d98e-0b73-46ec-b8fc-e2610d119f7d#ref=rss)
-### fünf
-
-* [https://www.spiegel.de/panorama/justiz/stuttgart-mehr-als-fuenf-jahre-haft-fuer-is-mitglied-wegen-anschlagsplans](https://www.spiegel.de/panorama/justiz/stuttgart-mehr-als-fuenf-jahre-haft-fuer-is-mitglied-wegen-anschlagsplans-a-8ae89afc-e138-482f-9a01-03c511adb584#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-marine-le-pen-myanmar-union-und-spd-in-koalitionsverhandlungen](https://www.spiegel.de/politik/deutschland/news-des-tages-marine-le-pen-myanmar-union-und-spd-in-koalitionsverhandlungen-a-1bd71165-4135-4e02-aff5-00dd7378d1b6#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/panorama/justiz/stuttgart-mehr-als-fuenf-jahre-haft-fuer-is-mitglied-wegen-anschlagsplans](https://www.spiegel.de/panorama/justiz/stuttgart-mehr-als-fuenf-jahre-haft-fuer-is-mitglied-wegen-anschlagsplans-a-8ae89afc-e138-482f-9a01-03c511adb584#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-marine-le-pen-myanmar-union-und-spd-in-koalitionsverhandlungen](https://www.spiegel.de/politik/deutschland/news-des-tages-marine-le-pen-myanmar-union-und-spd-in-koalitionsverhandlungen-a-1bd71165-4135-4e02-aff5-00dd7378d1b6#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/artus-legende-verstecktes-merlin-manuskript-in-altem-buch-entdeckt](https://www.spiegel.de/wissenschaft/mensch/artus-legende-verstecktes-merlin-manuskript-in-altem-buch-entdeckt-a-65718fbf-fdc5-448a-bc8b-0943a1abe0b5#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/panorama/justiz/stuttgart-mehr-als-fuenf-jahre-haft-fuer-is-mitglied-wegen-anschlagsplans](https://www.spiegel.de/panorama/justiz/stuttgart-mehr-als-fuenf-jahre-haft-fuer-is-mitglied-wegen-anschlagsplans-a-8ae89afc-e138-482f-9a01-03c511adb584#ref=rss)
-* [https://www.spiegel.de/panorama/von-sellafield-nach-niederaichbach-castor-transport-bringt-hoch-radioaktive-ladung-nach-deutschland](https://www.spiegel.de/panorama/von-sellafield-nach-niederaichbach-castor-transport-bringt-hoch-radioaktive-ladung-nach-deutschland-a-03542131-58e1-4f7f-bd12-295cb50c5967#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/erdgas-die-eu-bekommt-druck-von-donald-trump-und-wladimir-putin](https://www.spiegel.de/wirtschaft/soziales/erdgas-die-eu-bekommt-druck-von-donald-trump-und-wladimir-putin-a-db3dab64-b057-4b9d-9080-9f26e1d34ba5#ref=rss)
-### verurteilt
+* [https://www.spiegel.de/wissenschaft/weltall/rabea-rogge-erste-astronautin-aus-deutschland-warum-frauen-in-der-raumfahrt-unterrepraesentiert-sind](https://www.spiegel.de/wissenschaft/weltall/rabea-rogge-erste-astronautin-aus-deutschland-warum-frauen-in-der-raumfahrt-unterrepraesentiert-sind-a-d6594488-e08e-4591-bcb0-744f8f58d12e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/klimabericht-des-dwd-fuer-2024-so-hart-trifft-deutschland-die-klimakrise](https://www.spiegel.de/wissenschaft/natur/klimabericht-des-dwd-fuer-2024-so-hart-trifft-deutschland-die-klimakrise-a-f6d5759b-dddb-4b12-8085-ea2bbe831996#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/mafia-in-deutschland-festnahmen-bei-razzia-in-vier-bundeslaendern](https://www.spiegel.de/panorama/justiz/mafia-in-deutschland-festnahmen-bei-razzia-in-vier-bundeslaendern-a-91cbf9e2-780f-47ab-8e44-ccfb02460446#ref=rss)
+### donald
 
-* [https://www.spiegel.de/panorama/justiz/stuttgart-mehr-als-fuenf-jahre-haft-fuer-is-mitglied-wegen-anschlagsplans](https://www.spiegel.de/panorama/justiz/stuttgart-mehr-als-fuenf-jahre-haft-fuer-is-mitglied-wegen-anschlagsplans-a-8ae89afc-e138-482f-9a01-03c511adb584#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-marine-le-pen-myanmar-union-und-spd-in-koalitionsverhandlungen](https://www.spiegel.de/politik/deutschland/news-des-tages-marine-le-pen-myanmar-union-und-spd-in-koalitionsverhandlungen-a-1bd71165-4135-4e02-aff5-00dd7378d1b6#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hamburg-mann-stirbt-nach-sadomaso-session-geldstrafe-fuer-domina](https://www.spiegel.de/panorama/justiz/hamburg-mann-stirbt-nach-sadomaso-session-geldstrafe-fuer-domina-a-ca63ddad-72fc-4f41-aa36-7bbc58cb9000#ref=rss)
-### spd
+* [https://www.spiegel.de/wirtschaft/us-zoelle-ursula-von-der-leyen-kuendigt-europaeische-antwort-auf-donald-trumps-massnahmen-an](https://www.spiegel.de/wirtschaft/us-zoelle-ursula-von-der-leyen-kuendigt-europaeische-antwort-auf-donald-trumps-massnahmen-an-a-84034618-ab73-414d-af37-8e42c0a5cc45#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/angriffe-auf-wissenschaft-offener-brief-gegen-donald-trumps-sparpolitik-in-der-forschung](https://www.spiegel.de/wissenschaft/mensch/angriffe-auf-wissenschaft-offener-brief-gegen-donald-trumps-sparpolitik-in-der-forschung-a-3a90d14d-9bcf-401e-bf80-7924a2bdc0dc#ref=rss)
+### stephan
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-marine-le-pen-myanmar-union-und-spd-in-koalitionsverhandlungen](https://www.spiegel.de/politik/deutschland/news-des-tages-marine-le-pen-myanmar-union-und-spd-in-koalitionsverhandlungen-a-1bd71165-4135-4e02-aff5-00dd7378d1b6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/strommarkt-union-und-spd-planen-einsatz-alter-kraftwerke-gegen-preisspitzen](https://www.spiegel.de/wirtschaft/strommarkt-union-und-spd-planen-einsatz-alter-kraftwerke-gegen-preisspitzen-a-6b5c9492-80a1-4205-b0c1-0c7d192dc7f7#ref=rss)
-### schulen
-
-* [https://www.spiegel.de/ausland/belgien-landesweite-streiks-gegen-rentenkuerzungen](https://www.spiegel.de/ausland/belgien-landesweite-streiks-gegen-rentenkuerzungen-a-4aa4236c-061c-4de5-9c8a-c5939af12d35#ref=rss)
-* [https://www.spiegel.de/kultur/tv/adolescence-film-soll-an-allen-weiterfuehrenden-schulen-in-grossbritannien-gezeigt-werden](https://www.spiegel.de/kultur/tv/adolescence-film-soll-an-allen-weiterfuehrenden-schulen-in-grossbritannien-gezeigt-werden-a-9795d98e-0b73-46ec-b8fc-e2610d119f7d#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-und-thomas-mueller-das-aus-ist-noch-nicht-besiegelt](https://www.spiegel.de/sport/fussball/fc-bayern-und-thomas-mueller-das-aus-ist-noch-nicht-besiegelt-a-8e2e97ac-53a0-4908-8459-b668f8e04fa1#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-zusaetzliches-transferfenster-anfang-juni-wegen-klub-wm](https://www.spiegel.de/sport/fussball/fussball-bundesliga-zusaetzliches-transferfenster-anfang-juni-wegen-klub-wm-a-3eb0a98b-851b-467a-b5b5-57bbe023b640#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-und-thomas-mueller-das-aus-ist-noch-nicht-besiegelt](https://www.spiegel.de/sport/fussball/fc-bayern-und-thomas-mueller-das-aus-ist-noch-nicht-besiegelt-a-8e2e97ac-53a0-4908-8459-b668f8e04fa1#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-zusaetzliches-transferfenster-anfang-juni-wegen-klub-wm](https://www.spiegel.de/sport/fussball/fussball-bundesliga-zusaetzliches-transferfenster-anfang-juni-wegen-klub-wm-a-3eb0a98b-851b-467a-b5b5-57bbe023b640#ref=rss)
-### rom
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/rom-feuer-bei-tesla-haendler-zerstoert-mehrere-autos-musk-spricht-von-terrorismus](https://www.spiegel.de/wirtschaft/unternehmen/rom-feuer-bei-tesla-haendler-zerstoert-mehrere-autos-musk-spricht-von-terrorismus-a-e34564c3-6fc7-4e76-8791-72dde5687dc5#ref=rss)
-### feuer
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/rom-feuer-bei-tesla-haendler-zerstoert-mehrere-autos-musk-spricht-von-terrorismus](https://www.spiegel.de/wirtschaft/unternehmen/rom-feuer-bei-tesla-haendler-zerstoert-mehrere-autos-musk-spricht-von-terrorismus-a-e34564c3-6fc7-4e76-8791-72dde5687dc5#ref=rss)
-### teslahändler
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/rom-feuer-bei-tesla-haendler-zerstoert-mehrere-autos-musk-spricht-von-terrorismus](https://www.spiegel.de/wirtschaft/unternehmen/rom-feuer-bei-tesla-haendler-zerstoert-mehrere-autos-musk-spricht-von-terrorismus-a-e34564c3-6fc7-4e76-8791-72dde5687dc5#ref=rss)
-### autos
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/rom-feuer-bei-tesla-haendler-zerstoert-mehrere-autos-musk-spricht-von-terrorismus](https://www.spiegel.de/wirtschaft/unternehmen/rom-feuer-bei-tesla-haendler-zerstoert-mehrere-autos-musk-spricht-von-terrorismus-a-e34564c3-6fc7-4e76-8791-72dde5687dc5#ref=rss)
-### musk
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/rom-feuer-bei-tesla-haendler-zerstoert-mehrere-autos-musk-spricht-von-terrorismus](https://www.spiegel.de/wirtschaft/unternehmen/rom-feuer-bei-tesla-haendler-zerstoert-mehrere-autos-musk-spricht-von-terrorismus-a-e34564c3-6fc7-4e76-8791-72dde5687dc5#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/rom-feuer-bei-tesla-haendler-zerstoert-mehrere-autos-musk-spricht-von-terrorismus](https://www.spiegel.de/wirtschaft/unternehmen/rom-feuer-bei-tesla-haendler-zerstoert-mehrere-autos-musk-spricht-von-terrorismus-a-e34564c3-6fc7-4e76-8791-72dde5687dc5#ref=rss)
-* [https://www.spiegel.de/ausland/israel-ermittler-nehmen-offenbar-vertraute-von-benjamin-netanyahu-wegen-katargate-affaere-fest](https://www.spiegel.de/ausland/israel-ermittler-nehmen-offenbar-vertraute-von-benjamin-netanyahu-wegen-katargate-affaere-fest-a-27f364e5-e6ee-45f7-8da1-3f98ed1279a4#ref=rss)
-### ermittelt
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/rom-feuer-bei-tesla-haendler-zerstoert-mehrere-autos-musk-spricht-von-terrorismus](https://www.spiegel.de/wirtschaft/unternehmen/rom-feuer-bei-tesla-haendler-zerstoert-mehrere-autos-musk-spricht-von-terrorismus-a-e34564c3-6fc7-4e76-8791-72dde5687dc5#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/italien-mutmasslich-russische-drohne-ueberfliegt-forschungszentrum-der-eu-am-lago-maggiore](https://www.spiegel.de/wissenschaft/technik/italien-mutmasslich-russische-drohne-ueberfliegt-forschungszentrum-der-eu-am-lago-maggiore-a-b9b3bfe0-c8b3-4494-ab5b-ec8273921048#ref=rss)
-### ios
-
-* [https://www.spiegel.de/netzwelt/gadgets/ios-18-4-ipados-18-4-visionos-2-4-macos-sequoia-15-4-apple-veroeffentlicht-ki-updates-fuer-iphones-ipads-macs](https://www.spiegel.de/netzwelt/gadgets/ios-18-4-ipados-18-4-visionos-2-4-macos-sequoia-15-4-apple-veroeffentlicht-ki-updates-fuer-iphones-ipads-macs-a-1eeed34a-2d1c-4882-ae82-ada72bfbef12#ref=rss)
-### macos
-
-* [https://www.spiegel.de/netzwelt/gadgets/ios-18-4-ipados-18-4-visionos-2-4-macos-sequoia-15-4-apple-veroeffentlicht-ki-updates-fuer-iphones-ipads-macs](https://www.spiegel.de/netzwelt/gadgets/ios-18-4-ipados-18-4-visionos-2-4-macos-sequoia-15-4-apple-veroeffentlicht-ki-updates-fuer-iphones-ipads-macs-a-1eeed34a-2d1c-4882-ae82-ada72bfbef12#ref=rss)
-### 154
-
-* [https://www.spiegel.de/netzwelt/gadgets/ios-18-4-ipados-18-4-visionos-2-4-macos-sequoia-15-4-apple-veroeffentlicht-ki-updates-fuer-iphones-ipads-macs](https://www.spiegel.de/netzwelt/gadgets/ios-18-4-ipados-18-4-visionos-2-4-macos-sequoia-15-4-apple-veroeffentlicht-ki-updates-fuer-iphones-ipads-macs-a-1eeed34a-2d1c-4882-ae82-ada72bfbef12#ref=rss)
-### apple
-
-* [https://www.spiegel.de/netzwelt/gadgets/ios-18-4-ipados-18-4-visionos-2-4-macos-sequoia-15-4-apple-veroeffentlicht-ki-updates-fuer-iphones-ipads-macs](https://www.spiegel.de/netzwelt/gadgets/ios-18-4-ipados-18-4-visionos-2-4-macos-sequoia-15-4-apple-veroeffentlicht-ki-updates-fuer-iphones-ipads-macs-a-1eeed34a-2d1c-4882-ae82-ada72bfbef12#ref=rss)
-### montagabend
-
-* [https://www.spiegel.de/netzwelt/gadgets/ios-18-4-ipados-18-4-visionos-2-4-macos-sequoia-15-4-apple-veroeffentlicht-ki-updates-fuer-iphones-ipads-macs](https://www.spiegel.de/netzwelt/gadgets/ios-18-4-ipados-18-4-visionos-2-4-macos-sequoia-15-4-apple-veroeffentlicht-ki-updates-fuer-iphones-ipads-macs-a-1eeed34a-2d1c-4882-ae82-ada72bfbef12#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-marine-le-pen-myanmar-union-und-spd-in-koalitionsverhandlungen](https://www.spiegel.de/politik/deutschland/news-des-tages-marine-le-pen-myanmar-union-und-spd-in-koalitionsverhandlungen-a-1bd71165-4135-4e02-aff5-00dd7378d1b6#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/netzwelt/gadgets/ios-18-4-ipados-18-4-visionos-2-4-macos-sequoia-15-4-apple-veroeffentlicht-ki-updates-fuer-iphones-ipads-macs](https://www.spiegel.de/netzwelt/gadgets/ios-18-4-ipados-18-4-visionos-2-4-macos-sequoia-15-4-apple-veroeffentlicht-ki-updates-fuer-iphones-ipads-macs-a-1eeed34a-2d1c-4882-ae82-ada72bfbef12#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-zusaetzliches-transferfenster-anfang-juni-wegen-klub-wm](https://www.spiegel.de/sport/fussball/fussball-bundesliga-zusaetzliches-transferfenster-anfang-juni-wegen-klub-wm-a-3eb0a98b-851b-467a-b5b5-57bbe023b640#ref=rss)
-### lachs
-
-* [https://www.spiegel.de/ausland/norwegen-wie-der-hunger-auf-poke-bowls-und-sushi-wilden-lachs-in-den-fjorden-bedroht](https://www.spiegel.de/ausland/norwegen-wie-der-hunger-auf-poke-bowls-und-sushi-wilden-lachs-in-den-fjorden-bedroht-a-add52897-d8ef-4ce0-aee8-105e055b79ab#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/ausland/norwegen-wie-der-hunger-auf-poke-bowls-und-sushi-wilden-lachs-in-den-fjorden-bedroht](https://www.spiegel.de/ausland/norwegen-wie-der-hunger-auf-poke-bowls-und-sushi-wilden-lachs-in-den-fjorden-bedroht-a-add52897-d8ef-4ce0-aee8-105e055b79ab#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-zusaetzliches-transferfenster-anfang-juni-wegen-klub-wm](https://www.spiegel.de/sport/fussball/fussball-bundesliga-zusaetzliches-transferfenster-anfang-juni-wegen-klub-wm-a-3eb0a98b-851b-467a-b5b5-57bbe023b640#ref=rss)
-### recherche
-
-* [https://www.spiegel.de/ausland/norwegen-wie-der-hunger-auf-poke-bowls-und-sushi-wilden-lachs-in-den-fjorden-bedroht](https://www.spiegel.de/ausland/norwegen-wie-der-hunger-auf-poke-bowls-und-sushi-wilden-lachs-in-den-fjorden-bedroht-a-add52897-d8ef-4ce0-aee8-105e055b79ab#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-so-eng-arbeiteten-amerikaner-und-ukrainer-zusammen](https://www.spiegel.de/ausland/ukraine-krieg-so-eng-arbeiteten-amerikaner-und-ukrainer-zusammen-a-0de7a99b-ed59-466e-9050-b528b0633843#ref=rss)
-### bekannt
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-so-eng-arbeiteten-amerikaner-und-ukrainer-zusammen](https://www.spiegel.de/ausland/ukraine-krieg-so-eng-arbeiteten-amerikaner-und-ukrainer-zusammen-a-0de7a99b-ed59-466e-9050-b528b0633843#ref=rss)
-* [https://www.spiegel.de/panorama/albert-schweitzer-das-geheimnis-seiner-obstbaeume](https://www.spiegel.de/panorama/albert-schweitzer-das-geheimnis-seiner-obstbaeume-a-bcb0da65-1ba2-4354-be00-8405fb252086#ref=rss)
-### albert
-
-* [https://www.spiegel.de/panorama/albert-schweitzer-das-geheimnis-seiner-obstbaeume](https://www.spiegel.de/panorama/albert-schweitzer-das-geheimnis-seiner-obstbaeume-a-bcb0da65-1ba2-4354-be00-8405fb252086#ref=rss)
-### schweitzer
-
-* [https://www.spiegel.de/panorama/albert-schweitzer-das-geheimnis-seiner-obstbaeume](https://www.spiegel.de/panorama/albert-schweitzer-das-geheimnis-seiner-obstbaeume-a-bcb0da65-1ba2-4354-be00-8405fb252086#ref=rss)
-### erdbeben
-
-* [https://www.spiegel.de/ausland/erdbeben-in-myanmar-satellitenbilder-aus-dem-sperrgebiet-zeigen-die-lage](https://www.spiegel.de/ausland/erdbeben-in-myanmar-satellitenbilder-aus-dem-sperrgebiet-zeigen-die-lage-a-f48cf834-1a62-4916-8be3-979ea1903f81#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-marine-le-pen-myanmar-union-und-spd-in-koalitionsverhandlungen](https://www.spiegel.de/politik/deutschland/news-des-tages-marine-le-pen-myanmar-union-und-spd-in-koalitionsverhandlungen-a-1bd71165-4135-4e02-aff5-00dd7378d1b6#ref=rss)
-### lage
-
-* [https://www.spiegel.de/ausland/erdbeben-in-myanmar-satellitenbilder-aus-dem-sperrgebiet-zeigen-die-lage](https://www.spiegel.de/ausland/erdbeben-in-myanmar-satellitenbilder-aus-dem-sperrgebiet-zeigen-die-lage-a-f48cf834-1a62-4916-8be3-979ea1903f81#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-marine-le-pen-myanmar-union-und-spd-in-koalitionsverhandlungen](https://www.spiegel.de/politik/deutschland/news-des-tages-marine-le-pen-myanmar-union-und-spd-in-koalitionsverhandlungen-a-1bd71165-4135-4e02-aff5-00dd7378d1b6#ref=rss)
-### litauen
-
-* [https://www.spiegel.de/ausland/litauen-drei-tote-us-soldaten-nach-bergung-von-panzer-geborgen](https://www.spiegel.de/ausland/litauen-drei-tote-us-soldaten-nach-bergung-von-panzer-geborgen-a-902b40fd-c15b-4ed2-8d93-c4e14e55ce9f#ref=rss)
-### drei
-
-* [https://www.spiegel.de/ausland/litauen-drei-tote-us-soldaten-nach-bergung-von-panzer-geborgen](https://www.spiegel.de/ausland/litauen-drei-tote-us-soldaten-nach-bergung-von-panzer-geborgen-a-902b40fd-c15b-4ed2-8d93-c4e14e55ce9f#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-krieg-wie-sich-die-hamas-an-den-demonstrierenden-im-gazastreifen-raecht](https://www.spiegel.de/ausland/gaza-krieg-wie-sich-die-hamas-an-den-demonstrierenden-im-gazastreifen-raecht-a-cb8ee9cd-7994-4e19-81bc-ec14301871bb#ref=rss)
-### tote
-
-* [https://www.spiegel.de/ausland/litauen-drei-tote-us-soldaten-nach-bergung-von-panzer-geborgen](https://www.spiegel.de/ausland/litauen-drei-tote-us-soldaten-nach-bergung-von-panzer-geborgen-a-902b40fd-c15b-4ed2-8d93-c4e14e55ce9f#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-krieg-wie-sich-die-hamas-an-den-demonstrierenden-im-gazastreifen-raecht](https://www.spiegel.de/ausland/gaza-krieg-wie-sich-die-hamas-an-den-demonstrierenden-im-gazastreifen-raecht-a-cb8ee9cd-7994-4e19-81bc-ec14301871bb#ref=rss)
-### ussoldaten
-
-* [https://www.spiegel.de/ausland/litauen-drei-tote-us-soldaten-nach-bergung-von-panzer-geborgen](https://www.spiegel.de/ausland/litauen-drei-tote-us-soldaten-nach-bergung-von-panzer-geborgen-a-902b40fd-c15b-4ed2-8d93-c4e14e55ce9f#ref=rss)
-### panzer
-
-* [https://www.spiegel.de/ausland/litauen-drei-tote-us-soldaten-nach-bergung-von-panzer-geborgen](https://www.spiegel.de/ausland/litauen-drei-tote-us-soldaten-nach-bergung-von-panzer-geborgen-a-902b40fd-c15b-4ed2-8d93-c4e14e55ce9f#ref=rss)
-### geborgen
-
-* [https://www.spiegel.de/ausland/litauen-drei-tote-us-soldaten-nach-bergung-von-panzer-geborgen](https://www.spiegel.de/ausland/litauen-drei-tote-us-soldaten-nach-bergung-von-panzer-geborgen-a-902b40fd-c15b-4ed2-8d93-c4e14e55ce9f#ref=rss)
-### vier
-
-* [https://www.spiegel.de/ausland/litauen-drei-tote-us-soldaten-nach-bergung-von-panzer-geborgen](https://www.spiegel.de/ausland/litauen-drei-tote-us-soldaten-nach-bergung-von-panzer-geborgen-a-902b40fd-c15b-4ed2-8d93-c4e14e55ce9f#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/panorama/paris-koelner-haengen-bilder-von-friedrich-merz-und-donald-trump-in-den-louvre](https://www.spiegel.de/panorama/paris-koelner-haengen-bilder-von-friedrich-merz-und-donald-trump-in-den-louvre-a-763f64d0-fde9-4ad1-a6f4-f9235898be41#ref=rss)
-### merz
-
-* [https://www.spiegel.de/panorama/paris-koelner-haengen-bilder-von-friedrich-merz-und-donald-trump-in-den-louvre](https://www.spiegel.de/panorama/paris-koelner-haengen-bilder-von-friedrich-merz-und-donald-trump-in-den-louvre-a-763f64d0-fde9-4ad1-a6f4-f9235898be41#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/paris-koelner-haengen-bilder-von-friedrich-merz-und-donald-trump-in-den-louvre](https://www.spiegel.de/panorama/paris-koelner-haengen-bilder-von-friedrich-merz-und-donald-trump-in-den-louvre-a-763f64d0-fde9-4ad1-a6f4-f9235898be41#ref=rss)
-* [https://www.spiegel.de/ausland/israel-ermittler-nehmen-offenbar-vertraute-von-benjamin-netanyahu-wegen-katargate-affaere-fest](https://www.spiegel.de/ausland/israel-ermittler-nehmen-offenbar-vertraute-von-benjamin-netanyahu-wegen-katargate-affaere-fest-a-27f364e5-e6ee-45f7-8da1-3f98ed1279a4#ref=rss)
-### vorbei
-
-* [https://www.spiegel.de/panorama/paris-koelner-haengen-bilder-von-friedrich-merz-und-donald-trump-in-den-louvre](https://www.spiegel.de/panorama/paris-koelner-haengen-bilder-von-friedrich-merz-und-donald-trump-in-den-louvre-a-763f64d0-fde9-4ad1-a6f4-f9235898be41#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-krieg-wie-sich-die-hamas-an-den-demonstrierenden-im-gazastreifen-raecht](https://www.spiegel.de/ausland/gaza-krieg-wie-sich-die-hamas-an-den-demonstrierenden-im-gazastreifen-raecht-a-cb8ee9cd-7994-4e19-81bc-ec14301871bb#ref=rss)
-### hamas
-
-* [https://www.spiegel.de/ausland/gaza-krieg-wie-sich-die-hamas-an-den-demonstrierenden-im-gazastreifen-raecht](https://www.spiegel.de/ausland/gaza-krieg-wie-sich-die-hamas-an-den-demonstrierenden-im-gazastreifen-raecht-a-cb8ee9cd-7994-4e19-81bc-ec14301871bb#ref=rss)
-### gazastreifen
-
-* [https://www.spiegel.de/ausland/gaza-krieg-wie-sich-die-hamas-an-den-demonstrierenden-im-gazastreifen-raecht](https://www.spiegel.de/ausland/gaza-krieg-wie-sich-die-hamas-an-den-demonstrierenden-im-gazastreifen-raecht-a-cb8ee9cd-7994-4e19-81bc-ec14301871bb#ref=rss)
-### lang
-
-* [https://www.spiegel.de/ausland/gaza-krieg-wie-sich-die-hamas-an-den-demonstrierenden-im-gazastreifen-raecht](https://www.spiegel.de/ausland/gaza-krieg-wie-sich-die-hamas-an-den-demonstrierenden-im-gazastreifen-raecht-a-cb8ee9cd-7994-4e19-81bc-ec14301871bb#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-marine-le-pen-myanmar-union-und-spd-in-koalitionsverhandlungen](https://www.spiegel.de/politik/deutschland/news-des-tages-marine-le-pen-myanmar-union-und-spd-in-koalitionsverhandlungen-a-1bd71165-4135-4e02-aff5-00dd7378d1b6#ref=rss)
-### tausende
-
-* [https://www.spiegel.de/ausland/gaza-krieg-wie-sich-die-hamas-an-den-demonstrierenden-im-gazastreifen-raecht](https://www.spiegel.de/ausland/gaza-krieg-wie-sich-die-hamas-an-den-demonstrierenden-im-gazastreifen-raecht-a-cb8ee9cd-7994-4e19-81bc-ec14301871bb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/schweden-tausende-northvolt-mitarbeiter-verlieren-ihre-jobs](https://www.spiegel.de/wirtschaft/unternehmen/schweden-tausende-northvolt-mitarbeiter-verlieren-ihre-jobs-a-9bd1b369-ff46-408b-817b-cbc0f6df2f5c#ref=rss)
-### hautbehandlung
-
-* [https://www.spiegel.de/wissenschaft/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-podcast](https://www.spiegel.de/wissenschaft/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-podcast-a-14ee1779-d03a-44e0-86e0-3d89d3fbe0b1#ref=rss)
-* [https://www.spiegel.de/politik/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes](https://www.spiegel.de/politik/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-a-18d8996b-f49a-4e74-bd1f-c8e78158a325#ref=rss)
-### wahre
-
-* [https://www.spiegel.de/wissenschaft/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-podcast](https://www.spiegel.de/wissenschaft/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-podcast-a-14ee1779-d03a-44e0-86e0-3d89d3fbe0b1#ref=rss)
-* [https://www.spiegel.de/politik/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes](https://www.spiegel.de/politik/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-a-18d8996b-f49a-4e74-bd1f-c8e78158a325#ref=rss)
-### gesicht
-
-* [https://www.spiegel.de/wissenschaft/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-podcast](https://www.spiegel.de/wissenschaft/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-podcast-a-14ee1779-d03a-44e0-86e0-3d89d3fbe0b1#ref=rss)
-* [https://www.spiegel.de/politik/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes](https://www.spiegel.de/politik/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-a-18d8996b-f49a-4e74-bd1f-c8e78158a325#ref=rss)
-### skincarehypes
-
-* [https://www.spiegel.de/wissenschaft/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-podcast](https://www.spiegel.de/wissenschaft/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-podcast-a-14ee1779-d03a-44e0-86e0-3d89d3fbe0b1#ref=rss)
-* [https://www.spiegel.de/politik/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes](https://www.spiegel.de/politik/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-a-18d8996b-f49a-4e74-bd1f-c8e78158a325#ref=rss)
-### blau
-
-* [https://www.spiegel.de/wissenschaft/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-podcast](https://www.spiegel.de/wissenschaft/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-podcast-a-14ee1779-d03a-44e0-86e0-3d89d3fbe0b1#ref=rss)
-* [https://www.spiegel.de/politik/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes](https://www.spiegel.de/politik/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-a-18d8996b-f49a-4e74-bd1f-c8e78158a325#ref=rss)
-### pickel
-
-* [https://www.spiegel.de/wissenschaft/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-podcast](https://www.spiegel.de/wissenschaft/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-podcast-a-14ee1779-d03a-44e0-86e0-3d89d3fbe0b1#ref=rss)
-* [https://www.spiegel.de/politik/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes](https://www.spiegel.de/politik/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-a-18d8996b-f49a-4e74-bd1f-c8e78158a325#ref=rss)
-### gelb
-
-* [https://www.spiegel.de/wissenschaft/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-podcast](https://www.spiegel.de/wissenschaft/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-podcast-a-14ee1779-d03a-44e0-86e0-3d89d3fbe0b1#ref=rss)
-* [https://www.spiegel.de/politik/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes](https://www.spiegel.de/politik/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-a-18d8996b-f49a-4e74-bd1f-c8e78158a325#ref=rss)
-### rötungen
-
-* [https://www.spiegel.de/wissenschaft/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-podcast](https://www.spiegel.de/wissenschaft/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-podcast-a-14ee1779-d03a-44e0-86e0-3d89d3fbe0b1#ref=rss)
-* [https://www.spiegel.de/politik/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes](https://www.spiegel.de/politik/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-a-18d8996b-f49a-4e74-bd1f-c8e78158a325#ref=rss)
-### rot
-
-* [https://www.spiegel.de/wissenschaft/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-podcast](https://www.spiegel.de/wissenschaft/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-podcast-a-14ee1779-d03a-44e0-86e0-3d89d3fbe0b1#ref=rss)
-* [https://www.spiegel.de/politik/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes](https://www.spiegel.de/politik/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-a-18d8996b-f49a-4e74-bd1f-c8e78158a325#ref=rss)
-### falten
-
-* [https://www.spiegel.de/wissenschaft/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-podcast](https://www.spiegel.de/wissenschaft/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-podcast-a-14ee1779-d03a-44e0-86e0-3d89d3fbe0b1#ref=rss)
-* [https://www.spiegel.de/politik/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes](https://www.spiegel.de/politik/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-a-18d8996b-f49a-4e74-bd1f-c8e78158a325#ref=rss)
-### hersteller
-
-* [https://www.spiegel.de/wissenschaft/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-podcast](https://www.spiegel.de/wissenschaft/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-podcast-a-14ee1779-d03a-44e0-86e0-3d89d3fbe0b1#ref=rss)
-* [https://www.spiegel.de/politik/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes](https://www.spiegel.de/politik/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-a-18d8996b-f49a-4e74-bd1f-c8e78158a325#ref=rss)
-### influencer
-
-* [https://www.spiegel.de/wissenschaft/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-podcast](https://www.spiegel.de/wissenschaft/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-podcast-a-14ee1779-d03a-44e0-86e0-3d89d3fbe0b1#ref=rss)
-* [https://www.spiegel.de/politik/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes](https://www.spiegel.de/politik/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-a-18d8996b-f49a-4e74-bd1f-c8e78158a325#ref=rss)
-### preisen
-
-* [https://www.spiegel.de/wissenschaft/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-podcast](https://www.spiegel.de/wissenschaft/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-podcast-a-14ee1779-d03a-44e0-86e0-3d89d3fbe0b1#ref=rss)
-* [https://www.spiegel.de/politik/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes](https://www.spiegel.de/politik/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-a-18d8996b-f49a-4e74-bd1f-c8e78158a325#ref=rss)
-### vorzüge
-
-* [https://www.spiegel.de/wissenschaft/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-podcast](https://www.spiegel.de/wissenschaft/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-podcast-a-14ee1779-d03a-44e0-86e0-3d89d3fbe0b1#ref=rss)
-* [https://www.spiegel.de/politik/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes](https://www.spiegel.de/politik/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-a-18d8996b-f49a-4e74-bd1f-c8e78158a325#ref=rss)
-### wirken
-
-* [https://www.spiegel.de/wissenschaft/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-podcast](https://www.spiegel.de/wissenschaft/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-podcast-a-14ee1779-d03a-44e0-86e0-3d89d3fbe0b1#ref=rss)
-* [https://www.spiegel.de/politik/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes](https://www.spiegel.de/politik/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-a-18d8996b-f49a-4e74-bd1f-c8e78158a325#ref=rss)
-### wirklich
-
-* [https://www.spiegel.de/wissenschaft/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-podcast](https://www.spiegel.de/wissenschaft/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-podcast-a-14ee1779-d03a-44e0-86e0-3d89d3fbe0b1#ref=rss)
-* [https://www.spiegel.de/politik/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes](https://www.spiegel.de/politik/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-a-18d8996b-f49a-4e74-bd1f-c8e78158a325#ref=rss)
-### spiegelredakteurin
-
-* [https://www.spiegel.de/wissenschaft/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-podcast](https://www.spiegel.de/wissenschaft/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-podcast-a-14ee1779-d03a-44e0-86e0-3d89d3fbe0b1#ref=rss)
-* [https://www.spiegel.de/politik/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes](https://www.spiegel.de/politik/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-a-18d8996b-f49a-4e74-bd1f-c8e78158a325#ref=rss)
-### alina
-
-* [https://www.spiegel.de/wissenschaft/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-podcast](https://www.spiegel.de/wissenschaft/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-podcast-a-14ee1779-d03a-44e0-86e0-3d89d3fbe0b1#ref=rss)
-* [https://www.spiegel.de/politik/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes](https://www.spiegel.de/politik/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-a-18d8996b-f49a-4e74-bd1f-c8e78158a325#ref=rss)
-### schadwinkel
-
-* [https://www.spiegel.de/wissenschaft/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-podcast](https://www.spiegel.de/wissenschaft/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-podcast-a-14ee1779-d03a-44e0-86e0-3d89d3fbe0b1#ref=rss)
-* [https://www.spiegel.de/politik/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes](https://www.spiegel.de/politik/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-a-18d8996b-f49a-4e74-bd1f-c8e78158a325#ref=rss)
-### wissenschaftlichen
-
-* [https://www.spiegel.de/wissenschaft/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-podcast](https://www.spiegel.de/wissenschaft/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-podcast-a-14ee1779-d03a-44e0-86e0-3d89d3fbe0b1#ref=rss)
-* [https://www.spiegel.de/politik/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes](https://www.spiegel.de/politik/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-a-18d8996b-f49a-4e74-bd1f-c8e78158a325#ref=rss)
-### fakten
-
-* [https://www.spiegel.de/wissenschaft/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-podcast](https://www.spiegel.de/wissenschaft/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-podcast-a-14ee1779-d03a-44e0-86e0-3d89d3fbe0b1#ref=rss)
-* [https://www.spiegel.de/politik/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes](https://www.spiegel.de/politik/led-masken-zur-haut-behandlung-das-wahre-gesicht-des-skincare-hypes-a-18d8996b-f49a-4e74-bd1f-c8e78158a325#ref=rss)
-### stuttgart
-
-* [https://www.spiegel.de/panorama/justiz/stuttgart-mehr-als-fuenf-jahre-haft-fuer-is-mitglied-wegen-anschlagsplans](https://www.spiegel.de/panorama/justiz/stuttgart-mehr-als-fuenf-jahre-haft-fuer-is-mitglied-wegen-anschlagsplans-a-8ae89afc-e138-482f-9a01-03c511adb584#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/nachfolger-von-ministerpraesident-stephan-weil-in-niedersachsen-wer-ist-olaf-lies](https://www.spiegel.de/politik/deutschland/nachfolger-von-ministerpraesident-stephan-weil-in-niedersachsen-wer-ist-olaf-lies-a-2796dcda-8995-405e-bd48-eacfa0101890#ref=rss)
+* [https://www.spiegel.de/politik/niedersachsen-stephan-weil-gibt-amt-des-ministerpraesidenten-im-mai-ab](https://www.spiegel.de/politik/niedersachsen-stephan-weil-gibt-amt-des-ministerpraesidenten-im-mai-ab-a-2d6658eb-271a-4a69-9331-eace64b0ef72#ref=rss)
 ### mann
 
-* [https://www.spiegel.de/panorama/justiz/stuttgart-mehr-als-fuenf-jahre-haft-fuer-is-mitglied-wegen-anschlagsplans](https://www.spiegel.de/panorama/justiz/stuttgart-mehr-als-fuenf-jahre-haft-fuer-is-mitglied-wegen-anschlagsplans-a-8ae89afc-e138-482f-9a01-03c511adb584#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hamburg-mann-stirbt-nach-sadomaso-session-geldstrafe-fuer-domina](https://www.spiegel.de/panorama/justiz/hamburg-mann-stirbt-nach-sadomaso-session-geldstrafe-fuer-domina-a-ca63ddad-72fc-4f41-aa36-7bbc58cb9000#ref=rss)
-### vertraute
+* [https://www.spiegel.de/panorama/justiz/kehl-europabruecke-abgeschobener-spanier-will-mit-ausweis-seines-zwillings-einreisen](https://www.spiegel.de/panorama/justiz/kehl-europabruecke-abgeschobener-spanier-will-mit-ausweis-seines-zwillings-einreisen-a-f8884bc5-27cd-49ca-b667-407ab72232d5#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/uganda-schmuggel-seltener-galapagos-leguane-aus-ecuador-nimmt-zu](https://www.spiegel.de/wissenschaft/natur/uganda-schmuggel-seltener-galapagos-leguane-aus-ecuador-nimmt-zu-a-28a282fa-2b57-49ba-aab7-68ac373de35e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/nachfolger-von-ministerpraesident-stephan-weil-in-niedersachsen-wer-ist-olaf-lies](https://www.spiegel.de/politik/deutschland/nachfolger-von-ministerpraesident-stephan-weil-in-niedersachsen-wer-ist-olaf-lies-a-2796dcda-8995-405e-bd48-eacfa0101890#ref=rss)
+### erste
 
-* [https://www.spiegel.de/ausland/israel-ermittler-nehmen-offenbar-vertraute-von-benjamin-netanyahu-wegen-katargate-affaere-fest](https://www.spiegel.de/ausland/israel-ermittler-nehmen-offenbar-vertraute-von-benjamin-netanyahu-wegen-katargate-affaere-fest-a-27f364e5-e6ee-45f7-8da1-3f98ed1279a4#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/rabea-rogge-erste-astronautin-aus-deutschland-warum-frauen-in-der-raumfahrt-unterrepraesentiert-sind](https://www.spiegel.de/wissenschaft/weltall/rabea-rogge-erste-astronautin-aus-deutschland-warum-frauen-in-der-raumfahrt-unterrepraesentiert-sind-a-d6594488-e08e-4591-bcb0-744f8f58d12e#ref=rss)
+* [https://www.spiegel.de/auto/xiaomi-chinesisches-unternehmen-will-nach-toedlichem-unfall-nach-fahrassistent-alarm-mit-polizei-kooperieren](https://www.spiegel.de/auto/xiaomi-chinesisches-unternehmen-will-nach-toedlichem-unfall-nach-fahrassistent-alarm-mit-polizei-kooperieren-a-f07eba02-d60d-4557-b0a7-62bfe676992e#ref=rss)
+### frauen
+
+* [https://www.spiegel.de/wissenschaft/weltall/rabea-rogge-erste-astronautin-aus-deutschland-warum-frauen-in-der-raumfahrt-unterrepraesentiert-sind](https://www.spiegel.de/wissenschaft/weltall/rabea-rogge-erste-astronautin-aus-deutschland-warum-frauen-in-der-raumfahrt-unterrepraesentiert-sind-a-d6594488-e08e-4591-bcb0-744f8f58d12e#ref=rss)
+* [https://www.spiegel.de/auto/xiaomi-chinesisches-unternehmen-will-nach-toedlichem-unfall-nach-fahrassistent-alarm-mit-polizei-kooperieren](https://www.spiegel.de/auto/xiaomi-chinesisches-unternehmen-will-nach-toedlichem-unfall-nach-fahrassistent-alarm-mit-polizei-kooperieren-a-f07eba02-d60d-4557-b0a7-62bfe676992e#ref=rss)
+### trumps
+
+* [https://www.spiegel.de/wirtschaft/service/gold-zollpolitik-treibt-goldpreis-ueber-3100-dollar](https://www.spiegel.de/wirtschaft/service/gold-zollpolitik-treibt-goldpreis-ueber-3100-dollar-a-0f2006c5-caf5-4f97-9703-89a4b06836ae#ref=rss)
+* [https://www.spiegel.de/wirtschaft/us-zoelle-ursula-von-der-leyen-kuendigt-europaeische-antwort-auf-donald-trumps-massnahmen-an](https://www.spiegel.de/wirtschaft/us-zoelle-ursula-von-der-leyen-kuendigt-europaeische-antwort-auf-donald-trumps-massnahmen-an-a-84034618-ab73-414d-af37-8e42c0a5cc45#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/angriffe-auf-wissenschaft-offener-brief-gegen-donald-trumps-sparpolitik-in-der-forschung](https://www.spiegel.de/wissenschaft/mensch/angriffe-auf-wissenschaft-offener-brief-gegen-donald-trumps-sparpolitik-in-der-forschung-a-3a90d14d-9bcf-401e-bf80-7924a2bdc0dc#ref=rss)
+### 2024
+
+* [https://www.spiegel.de/wissenschaft/natur/klimabericht-des-dwd-fuer-2024-so-hart-trifft-deutschland-die-klimakrise](https://www.spiegel.de/wissenschaft/natur/klimabericht-des-dwd-fuer-2024-so-hart-trifft-deutschland-die-klimakrise-a-f6d5759b-dddb-4b12-8085-ea2bbe831996#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/kommunen-rekorddefizit-durch-hohe-sozialausgaben-gemeldet](https://www.spiegel.de/wirtschaft/unternehmen/kommunen-rekorddefizit-durch-hohe-sozialausgaben-gemeldet-a-1c5cc8ab-9b51-4fb1-875c-9f40d82c3934#ref=rss)
+### leben
+
+* [https://www.spiegel.de/wissenschaft/natur/klimabericht-des-dwd-fuer-2024-so-hart-trifft-deutschland-die-klimakrise](https://www.spiegel.de/wissenschaft/natur/klimabericht-des-dwd-fuer-2024-so-hart-trifft-deutschland-die-klimakrise-a-f6d5759b-dddb-4b12-8085-ea2bbe831996#ref=rss)
+* [https://www.spiegel.de/auto/xiaomi-chinesisches-unternehmen-will-nach-toedlichem-unfall-nach-fahrassistent-alarm-mit-polizei-kooperieren](https://www.spiegel.de/auto/xiaomi-chinesisches-unternehmen-will-nach-toedlichem-unfall-nach-fahrassistent-alarm-mit-polizei-kooperieren-a-f07eba02-d60d-4557-b0a7-62bfe676992e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/javier-milei-argentinien-meldet-starken-rueckgang-der-armut](https://www.spiegel.de/wirtschaft/soziales/javier-milei-argentinien-meldet-starken-rueckgang-der-armut-a-b5559923-a3a2-41f5-a174-7713c5ca4fd7#ref=rss)
+### trump
+
+* [https://www.spiegel.de/wirtschaft/us-zoelle-ursula-von-der-leyen-kuendigt-europaeische-antwort-auf-donald-trumps-massnahmen-an](https://www.spiegel.de/wirtschaft/us-zoelle-ursula-von-der-leyen-kuendigt-europaeische-antwort-auf-donald-trumps-massnahmen-an-a-84034618-ab73-414d-af37-8e42c0a5cc45#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/angriffe-auf-wissenschaft-offener-brief-gegen-donald-trumps-sparpolitik-in-der-forschung](https://www.spiegel.de/wissenschaft/mensch/angriffe-auf-wissenschaft-offener-brief-gegen-donald-trumps-sparpolitik-in-der-forschung-a-3a90d14d-9bcf-401e-bf80-7924a2bdc0dc#ref=rss)
+* [https://www.spiegel.de/ausland/israel-benjamin-netanyahu-entlaesst-neu-ernannten-geheimdienstchef-eli-sharvit](https://www.spiegel.de/ausland/israel-benjamin-netanyahu-entlaesst-neu-ernannten-geheimdienstchef-eli-sharvit-a-e008ee2f-8634-4c64-81ff-936a98274558#ref=rss)
+### nachfolger
+
+* [https://www.spiegel.de/politik/deutschland/nachfolger-von-ministerpraesident-stephan-weil-in-niedersachsen-wer-ist-olaf-lies](https://www.spiegel.de/politik/deutschland/nachfolger-von-ministerpraesident-stephan-weil-in-niedersachsen-wer-ist-olaf-lies-a-2796dcda-8995-405e-bd48-eacfa0101890#ref=rss)
+* [https://www.spiegel.de/politik/niedersachsen-stephan-weil-gibt-amt-des-ministerpraesidenten-im-mai-ab](https://www.spiegel.de/politik/niedersachsen-stephan-weil-gibt-amt-des-ministerpraesidenten-im-mai-ab-a-2d6658eb-271a-4a69-9331-eace64b0ef72#ref=rss)
+### niedersachsen
+
+* [https://www.spiegel.de/politik/deutschland/nachfolger-von-ministerpraesident-stephan-weil-in-niedersachsen-wer-ist-olaf-lies](https://www.spiegel.de/politik/deutschland/nachfolger-von-ministerpraesident-stephan-weil-in-niedersachsen-wer-ist-olaf-lies-a-2796dcda-8995-405e-bd48-eacfa0101890#ref=rss)
+* [https://www.spiegel.de/politik/niedersachsen-stephan-weil-gibt-amt-des-ministerpraesidenten-im-mai-ab](https://www.spiegel.de/politik/niedersachsen-stephan-weil-gibt-amt-des-ministerpraesidenten-im-mai-ab-a-2d6658eb-271a-4a69-9331-eace64b0ef72#ref=rss)
+### mai
+
+* [https://www.spiegel.de/politik/deutschland/nachfolger-von-ministerpraesident-stephan-weil-in-niedersachsen-wer-ist-olaf-lies](https://www.spiegel.de/politik/deutschland/nachfolger-von-ministerpraesident-stephan-weil-in-niedersachsen-wer-ist-olaf-lies-a-2796dcda-8995-405e-bd48-eacfa0101890#ref=rss)
+* [https://www.spiegel.de/politik/niedersachsen-stephan-weil-gibt-amt-des-ministerpraesidenten-im-mai-ab](https://www.spiegel.de/politik/niedersachsen-stephan-weil-gibt-amt-des-ministerpraesidenten-im-mai-ab-a-2d6658eb-271a-4a69-9331-eace64b0ef72#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/wissenschaft/mensch/angriffe-auf-wissenschaft-offener-brief-gegen-donald-trumps-sparpolitik-in-der-forschung](https://www.spiegel.de/wissenschaft/mensch/angriffe-auf-wissenschaft-offener-brief-gegen-donald-trumps-sparpolitik-in-der-forschung-a-3a90d14d-9bcf-401e-bf80-7924a2bdc0dc#ref=rss)
+* [https://www.spiegel.de/ausland/israel-benjamin-netanyahu-entlaesst-neu-ernannten-geheimdienstchef-eli-sharvit](https://www.spiegel.de/ausland/israel-benjamin-netanyahu-entlaesst-neu-ernannten-geheimdienstchef-eli-sharvit-a-e008ee2f-8634-4c64-81ff-936a98274558#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/javier-milei-argentinien-meldet-starken-rueckgang-der-armut](https://www.spiegel.de/wirtschaft/soziales/javier-milei-argentinien-meldet-starken-rueckgang-der-armut-a-b5559923-a3a2-41f5-a174-7713c5ca4fd7#ref=rss)
+### spanier
+
+* [https://www.spiegel.de/panorama/justiz/kehl-europabruecke-abgeschobener-spanier-will-mit-ausweis-seines-zwillings-einreisen](https://www.spiegel.de/panorama/justiz/kehl-europabruecke-abgeschobener-spanier-will-mit-ausweis-seines-zwillings-einreisen-a-f8884bc5-27cd-49ca-b667-407ab72232d5#ref=rss)
+### ausweis
+
+* [https://www.spiegel.de/panorama/justiz/kehl-europabruecke-abgeschobener-spanier-will-mit-ausweis-seines-zwillings-einreisen](https://www.spiegel.de/panorama/justiz/kehl-europabruecke-abgeschobener-spanier-will-mit-ausweis-seines-zwillings-einreisen-a-f8884bc5-27cd-49ca-b667-407ab72232d5#ref=rss)
+### straftaten
+
+* [https://www.spiegel.de/panorama/justiz/kehl-europabruecke-abgeschobener-spanier-will-mit-ausweis-seines-zwillings-einreisen](https://www.spiegel.de/panorama/justiz/kehl-europabruecke-abgeschobener-spanier-will-mit-ausweis-seines-zwillings-einreisen-a-f8884bc5-27cd-49ca-b667-407ab72232d5#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/mafia-in-deutschland-festnahmen-bei-razzia-in-vier-bundeslaendern](https://www.spiegel.de/panorama/justiz/mafia-in-deutschland-festnahmen-bei-razzia-in-vier-bundeslaendern-a-91cbf9e2-780f-47ab-8e44-ccfb02460446#ref=rss)
+### hessen
+
+* [https://www.spiegel.de/panorama/justiz/kehl-europabruecke-abgeschobener-spanier-will-mit-ausweis-seines-zwillings-einreisen](https://www.spiegel.de/panorama/justiz/kehl-europabruecke-abgeschobener-spanier-will-mit-ausweis-seines-zwillings-einreisen-a-f8884bc5-27cd-49ca-b667-407ab72232d5#ref=rss)
+* [https://www.spiegel.de/panorama/weilburg-vermisster-sechsjaehriger-in-hessen-auch-die-luftwaffe-sucht-jetzt-nach-pawlos](https://www.spiegel.de/panorama/weilburg-vermisster-sechsjaehriger-in-hessen-auch-die-luftwaffe-sucht-jetzt-nach-pawlos-a-3ba4a7f3-bd6f-432e-bd1e-c0408db801f8#ref=rss)
+### lava
+
+* [https://www.spiegel.de/wissenschaft/natur/island-vulkan-sundhnukscigar-ausgebrochen-lava-verschluckt-strassen-geothermalbad-blaue-lagune-evakuiert](https://www.spiegel.de/wissenschaft/natur/island-vulkan-sundhnukscigar-ausgebrochen-lava-verschluckt-strassen-geothermalbad-blaue-lagune-evakuiert-a-6157ed2e-7b1c-427a-9688-ecc5c59cdebc#ref=rss)
+### straßen
+
+* [https://www.spiegel.de/wissenschaft/natur/island-vulkan-sundhnukscigar-ausgebrochen-lava-verschluckt-strassen-geothermalbad-blaue-lagune-evakuiert](https://www.spiegel.de/wissenschaft/natur/island-vulkan-sundhnukscigar-ausgebrochen-lava-verschluckt-strassen-geothermalbad-blaue-lagune-evakuiert-a-6157ed2e-7b1c-427a-9688-ecc5c59cdebc#ref=rss)
+* [https://www.spiegel.de/panorama/australien-schwerste-flut-seit-50-jahren-ueberschwemmt-queensland](https://www.spiegel.de/panorama/australien-schwerste-flut-seit-50-jahren-ueberschwemmt-queensland-a-ea541c43-f262-4083-931f-2ed4c60e77a9#ref=rss)
+### arbeitslosenquote
+
+* [https://www.spiegel.de/wirtschaft/arbeitslosenquote-in-der-eurozone-faellt-auf-rekordtief](https://www.spiegel.de/wirtschaft/arbeitslosenquote-in-der-eurozone-faellt-auf-rekordtief-a-8db0fbb6-7a9b-4113-915d-79700788b55e#ref=rss)
+### eurozone
+
+* [https://www.spiegel.de/wirtschaft/arbeitslosenquote-in-der-eurozone-faellt-auf-rekordtief](https://www.spiegel.de/wirtschaft/arbeitslosenquote-in-der-eurozone-faellt-auf-rekordtief-a-8db0fbb6-7a9b-4113-915d-79700788b55e#ref=rss)
+### euro
+
+* [https://www.spiegel.de/wirtschaft/arbeitslosenquote-in-der-eurozone-faellt-auf-rekordtief](https://www.spiegel.de/wirtschaft/arbeitslosenquote-in-der-eurozone-faellt-auf-rekordtief-a-8db0fbb6-7a9b-4113-915d-79700788b55e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/kommunen-rekorddefizit-durch-hohe-sozialausgaben-gemeldet](https://www.spiegel.de/wirtschaft/unternehmen/kommunen-rekorddefizit-durch-hohe-sozialausgaben-gemeldet-a-1c5cc8ab-9b51-4fb1-875c-9f40d82c3934#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/panorama/a100-brueckensperrung-in-berlin-kein-chaos-was-ist-da-denn-los](https://www.spiegel.de/panorama/a100-brueckensperrung-in-berlin-kein-chaos-was-ist-da-denn-los-a-03bce3dc-3509-475e-84c5-ae129fc8ab36#ref=rss)
+### chaos
+
+* [https://www.spiegel.de/panorama/a100-brueckensperrung-in-berlin-kein-chaos-was-ist-da-denn-los](https://www.spiegel.de/panorama/a100-brueckensperrung-in-berlin-kein-chaos-was-ist-da-denn-los-a-03bce3dc-3509-475e-84c5-ae129fc8ab36#ref=rss)
+### denn
+
+* [https://www.spiegel.de/panorama/a100-brueckensperrung-in-berlin-kein-chaos-was-ist-da-denn-los](https://www.spiegel.de/panorama/a100-brueckensperrung-in-berlin-kein-chaos-was-ist-da-denn-los-a-03bce3dc-3509-475e-84c5-ae129fc8ab36#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/javier-milei-argentinien-meldet-starken-rueckgang-der-armut](https://www.spiegel.de/wirtschaft/soziales/javier-milei-argentinien-meldet-starken-rueckgang-der-armut-a-b5559923-a3a2-41f5-a174-7713c5ca4fd7#ref=rss)
+### unter
+
+* [https://www.spiegel.de/panorama/australien-schwerste-flut-seit-50-jahren-ueberschwemmt-queensland](https://www.spiegel.de/panorama/australien-schwerste-flut-seit-50-jahren-ueberschwemmt-queensland-a-ea541c43-f262-4083-931f-2ed4c60e77a9#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/angriffe-auf-wissenschaft-offener-brief-gegen-donald-trumps-sparpolitik-in-der-forschung](https://www.spiegel.de/wissenschaft/mensch/angriffe-auf-wissenschaft-offener-brief-gegen-donald-trumps-sparpolitik-in-der-forschung-a-3a90d14d-9bcf-401e-bf80-7924a2bdc0dc#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/panorama/australien-schwerste-flut-seit-50-jahren-ueberschwemmt-queensland](https://www.spiegel.de/panorama/australien-schwerste-flut-seit-50-jahren-ueberschwemmt-queensland-a-ea541c43-f262-4083-931f-2ed4c60e77a9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/gold-zollpolitik-treibt-goldpreis-ueber-3100-dollar](https://www.spiegel.de/wirtschaft/service/gold-zollpolitik-treibt-goldpreis-ueber-3100-dollar-a-0f2006c5-caf5-4f97-9703-89a4b06836ae#ref=rss)
+### rabea
+
+* [https://www.spiegel.de/wissenschaft/weltall/rabea-rogge-erste-astronautin-aus-deutschland-warum-frauen-in-der-raumfahrt-unterrepraesentiert-sind](https://www.spiegel.de/wissenschaft/weltall/rabea-rogge-erste-astronautin-aus-deutschland-warum-frauen-in-der-raumfahrt-unterrepraesentiert-sind-a-d6594488-e08e-4591-bcb0-744f8f58d12e#ref=rss)
+### rogge
+
+* [https://www.spiegel.de/wissenschaft/weltall/rabea-rogge-erste-astronautin-aus-deutschland-warum-frauen-in-der-raumfahrt-unterrepraesentiert-sind](https://www.spiegel.de/wissenschaft/weltall/rabea-rogge-erste-astronautin-aus-deutschland-warum-frauen-in-der-raumfahrt-unterrepraesentiert-sind-a-d6594488-e08e-4591-bcb0-744f8f58d12e#ref=rss)
+### astronautin
+
+* [https://www.spiegel.de/wissenschaft/weltall/rabea-rogge-erste-astronautin-aus-deutschland-warum-frauen-in-der-raumfahrt-unterrepraesentiert-sind](https://www.spiegel.de/wissenschaft/weltall/rabea-rogge-erste-astronautin-aus-deutschland-warum-frauen-in-der-raumfahrt-unterrepraesentiert-sind-a-d6594488-e08e-4591-bcb0-744f8f58d12e#ref=rss)
+### schwere
+
+* [https://www.spiegel.de/panorama/griechenland-schwere-ueberschwemmungen-auf-urlaubsinseln-mykonos-paros-und-chios](https://www.spiegel.de/panorama/griechenland-schwere-ueberschwemmungen-auf-urlaubsinseln-mykonos-paros-und-chios-a-27d6b1ad-8014-42ea-8cc1-4c6b548f7962#ref=rss)
+### verboten
+
+* [https://www.spiegel.de/panorama/griechenland-schwere-ueberschwemmungen-auf-urlaubsinseln-mykonos-paros-und-chios](https://www.spiegel.de/panorama/griechenland-schwere-ueberschwemmungen-auf-urlaubsinseln-mykonos-paros-und-chios-a-27d6b1ad-8014-42ea-8cc1-4c6b548f7962#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/uganda-schmuggel-seltener-galapagos-leguane-aus-ecuador-nimmt-zu](https://www.spiegel.de/wissenschaft/natur/uganda-schmuggel-seltener-galapagos-leguane-aus-ecuador-nimmt-zu-a-28a282fa-2b57-49ba-aab7-68ac373de35e#ref=rss)
+### gerd
+
+* [https://www.spiegel.de/geschichte/gerd-poppe-nachruf-auf-den-ddr-kritiker-und-buergerrechtler-popoffs-letzte-reise](https://www.spiegel.de/geschichte/gerd-poppe-nachruf-auf-den-ddr-kritiker-und-buergerrechtler-popoffs-letzte-reise-a-ace32447-2d40-4b00-a2fc-be012100a505#ref=rss)
+### poppe
+
+* [https://www.spiegel.de/geschichte/gerd-poppe-nachruf-auf-den-ddr-kritiker-und-buergerrechtler-popoffs-letzte-reise](https://www.spiegel.de/geschichte/gerd-poppe-nachruf-auf-den-ddr-kritiker-und-buergerrechtler-popoffs-letzte-reise-a-ace32447-2d40-4b00-a2fc-be012100a505#ref=rss)
+### bürgerrechtler
+
+* [https://www.spiegel.de/geschichte/gerd-poppe-nachruf-auf-den-ddr-kritiker-und-buergerrechtler-popoffs-letzte-reise](https://www.spiegel.de/geschichte/gerd-poppe-nachruf-auf-den-ddr-kritiker-und-buergerrechtler-popoffs-letzte-reise-a-ace32447-2d40-4b00-a2fc-be012100a505#ref=rss)
+### letzte
+
+* [https://www.spiegel.de/geschichte/gerd-poppe-nachruf-auf-den-ddr-kritiker-und-buergerrechtler-popoffs-letzte-reise](https://www.spiegel.de/geschichte/gerd-poppe-nachruf-auf-den-ddr-kritiker-und-buergerrechtler-popoffs-letzte-reise-a-ace32447-2d40-4b00-a2fc-be012100a505#ref=rss)
+### tod
+
+* [https://www.spiegel.de/geschichte/gerd-poppe-nachruf-auf-den-ddr-kritiker-und-buergerrechtler-popoffs-letzte-reise](https://www.spiegel.de/geschichte/gerd-poppe-nachruf-auf-den-ddr-kritiker-und-buergerrechtler-popoffs-letzte-reise-a-ace32447-2d40-4b00-a2fc-be012100a505#ref=rss)
+* [https://www.spiegel.de/sport/eiskunstlaufen-us-star-ilia-malinin-er-tanzt-auf-dem-eis-gegen-seine-trauer-an](https://www.spiegel.de/sport/eiskunstlaufen-us-star-ilia-malinin-er-tanzt-auf-dem-eis-gegen-seine-trauer-an-a-2a972f08-5f5d-405d-8c83-8cbb77ff6aa5#ref=rss)
+### unser
+
+* [https://www.spiegel.de/geschichte/gerd-poppe-nachruf-auf-den-ddr-kritiker-und-buergerrechtler-popoffs-letzte-reise](https://www.spiegel.de/geschichte/gerd-poppe-nachruf-auf-den-ddr-kritiker-und-buergerrechtler-popoffs-letzte-reise-a-ace32447-2d40-4b00-a2fc-be012100a505#ref=rss)
+* [https://www.spiegel.de/backstage/in-eigener-sache-neue-stimmen-fuer-vertonte-artikel](https://www.spiegel.de/backstage/in-eigener-sache-neue-stimmen-fuer-vertonte-artikel-a-f58db9db-e7fd-451f-990b-483f4b37b302#ref=rss)
+### uganda
+
+* [https://www.spiegel.de/wissenschaft/natur/uganda-schmuggel-seltener-galapagos-leguane-aus-ecuador-nimmt-zu](https://www.spiegel.de/wissenschaft/natur/uganda-schmuggel-seltener-galapagos-leguane-aus-ecuador-nimmt-zu-a-28a282fa-2b57-49ba-aab7-68ac373de35e#ref=rss)
+### heraus
+
+* [https://www.spiegel.de/wissenschaft/natur/uganda-schmuggel-seltener-galapagos-leguane-aus-ecuador-nimmt-zu](https://www.spiegel.de/wissenschaft/natur/uganda-schmuggel-seltener-galapagos-leguane-aus-ecuador-nimmt-zu-a-28a282fa-2b57-49ba-aab7-68ac373de35e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/schlafstoerungen-wie-sie-mit-verschwoerungsglauben-zusammenhaengen](https://www.spiegel.de/wissenschaft/mensch/schlafstoerungen-wie-sie-mit-verschwoerungsglauben-zusammenhaengen-a-6f829ea9-f687-41db-911e-075b8f13ddb0#ref=rss)
+### lehrkräfte
+
+* [https://www.spiegel.de/panorama/bildung/gewalt-von-minderjaehrigen-lehrkraefte-sollen-bodycams-bekommen](https://www.spiegel.de/panorama/bildung/gewalt-von-minderjaehrigen-lehrkraefte-sollen-bodycams-bekommen-a-54d5b461-ba99-4393-b0c7-99b48c63f17d#ref=rss)
+### besser
+
+* [https://www.spiegel.de/panorama/bildung/gewalt-von-minderjaehrigen-lehrkraefte-sollen-bodycams-bekommen](https://www.spiegel.de/panorama/bildung/gewalt-von-minderjaehrigen-lehrkraefte-sollen-bodycams-bekommen-a-54d5b461-ba99-4393-b0c7-99b48c63f17d#ref=rss)
+* [https://www.spiegel.de/backstage/in-eigener-sache-neue-stimmen-fuer-vertonte-artikel](https://www.spiegel.de/backstage/in-eigener-sache-neue-stimmen-fuer-vertonte-artikel-a-f58db9db-e7fd-451f-990b-483f4b37b302#ref=rss)
+### ermittler
+
+* [https://www.spiegel.de/panorama/justiz/dietenheim-ulm-dieselbe-bank-zweimal-ueberfallen-42-jaehriger-angeklagt](https://www.spiegel.de/panorama/justiz/dietenheim-ulm-dieselbe-bank-zweimal-ueberfallen-42-jaehriger-angeklagt-a-59e21343-aab5-4741-bd15-d9633220fafa#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/mafia-in-deutschland-festnahmen-bei-razzia-in-vier-bundeslaendern](https://www.spiegel.de/panorama/justiz/mafia-in-deutschland-festnahmen-bei-razzia-in-vier-bundeslaendern-a-91cbf9e2-780f-47ab-8e44-ccfb02460446#ref=rss)
+### zufolge
+
+* [https://www.spiegel.de/wissenschaft/mensch/schlafstoerungen-wie-sie-mit-verschwoerungsglauben-zusammenhaengen](https://www.spiegel.de/wissenschaft/mensch/schlafstoerungen-wie-sie-mit-verschwoerungsglauben-zusammenhaengen-a-6f829ea9-f687-41db-911e-075b8f13ddb0#ref=rss)
+* [https://www.spiegel.de/auto/xiaomi-chinesisches-unternehmen-will-nach-toedlichem-unfall-nach-fahrassistent-alarm-mit-polizei-kooperieren](https://www.spiegel.de/auto/xiaomi-chinesisches-unternehmen-will-nach-toedlichem-unfall-nach-fahrassistent-alarm-mit-polizei-kooperieren-a-f07eba02-d60d-4557-b0a7-62bfe676992e#ref=rss)
+### gold
+
+* [https://www.spiegel.de/wirtschaft/service/gold-zollpolitik-treibt-goldpreis-ueber-3100-dollar](https://www.spiegel.de/wirtschaft/service/gold-zollpolitik-treibt-goldpreis-ueber-3100-dollar-a-0f2006c5-caf5-4f97-9703-89a4b06836ae#ref=rss)
+### zollpolitik
+
+* [https://www.spiegel.de/wirtschaft/service/gold-zollpolitik-treibt-goldpreis-ueber-3100-dollar](https://www.spiegel.de/wirtschaft/service/gold-zollpolitik-treibt-goldpreis-ueber-3100-dollar-a-0f2006c5-caf5-4f97-9703-89a4b06836ae#ref=rss)
+### treibt
+
+* [https://www.spiegel.de/wirtschaft/service/gold-zollpolitik-treibt-goldpreis-ueber-3100-dollar](https://www.spiegel.de/wirtschaft/service/gold-zollpolitik-treibt-goldpreis-ueber-3100-dollar-a-0f2006c5-caf5-4f97-9703-89a4b06836ae#ref=rss)
+### 3100
+
+* [https://www.spiegel.de/wirtschaft/service/gold-zollpolitik-treibt-goldpreis-ueber-3100-dollar](https://www.spiegel.de/wirtschaft/service/gold-zollpolitik-treibt-goldpreis-ueber-3100-dollar-a-0f2006c5-caf5-4f97-9703-89a4b06836ae#ref=rss)
+### dollar
+
+* [https://www.spiegel.de/wirtschaft/service/gold-zollpolitik-treibt-goldpreis-ueber-3100-dollar](https://www.spiegel.de/wirtschaft/service/gold-zollpolitik-treibt-goldpreis-ueber-3100-dollar-a-0f2006c5-caf5-4f97-9703-89a4b06836ae#ref=rss)
+* [https://www.spiegel.de/netzwelt/openai-sammelt-40-milliarden-dollar-ein](https://www.spiegel.de/netzwelt/openai-sammelt-40-milliarden-dollar-ein-a-32f9af4e-bd06-4aca-af73-f4c297ea244e#ref=rss)
+### steigen
+
+* [https://www.spiegel.de/wirtschaft/service/gold-zollpolitik-treibt-goldpreis-ueber-3100-dollar](https://www.spiegel.de/wirtschaft/service/gold-zollpolitik-treibt-goldpreis-ueber-3100-dollar-a-0f2006c5-caf5-4f97-9703-89a4b06836ae#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/kommunen-rekorddefizit-durch-hohe-sozialausgaben-gemeldet](https://www.spiegel.de/wirtschaft/unternehmen/kommunen-rekorddefizit-durch-hohe-sozialausgaben-gemeldet-a-1c5cc8ab-9b51-4fb1-875c-9f40d82c3934#ref=rss)
+### klimabericht
+
+* [https://www.spiegel.de/wissenschaft/natur/klimabericht-des-dwd-fuer-2024-so-hart-trifft-deutschland-die-klimakrise](https://www.spiegel.de/wissenschaft/natur/klimabericht-des-dwd-fuer-2024-so-hart-trifft-deutschland-die-klimakrise-a-f6d5759b-dddb-4b12-8085-ea2bbe831996#ref=rss)
+### dwd
+
+* [https://www.spiegel.de/wissenschaft/natur/klimabericht-des-dwd-fuer-2024-so-hart-trifft-deutschland-die-klimakrise](https://www.spiegel.de/wissenschaft/natur/klimabericht-des-dwd-fuer-2024-so-hart-trifft-deutschland-die-klimakrise-a-f6d5759b-dddb-4b12-8085-ea2bbe831996#ref=rss)
+### neue
+
+* [https://www.spiegel.de/backstage/in-eigener-sache-neue-stimmen-fuer-vertonte-artikel](https://www.spiegel.de/backstage/in-eigener-sache-neue-stimmen-fuer-vertonte-artikel-a-f58db9db-e7fd-451f-990b-483f4b37b302#ref=rss)
+* [https://www.spiegel.de/netzwelt/openai-sammelt-40-milliarden-dollar-ein](https://www.spiegel.de/netzwelt/openai-sammelt-40-milliarden-dollar-ein-a-32f9af4e-bd06-4aca-af73-f4c297ea244e#ref=rss)
+### stimmen
+
+* [https://www.spiegel.de/backstage/in-eigener-sache-neue-stimmen-fuer-vertonte-artikel](https://www.spiegel.de/backstage/in-eigener-sache-neue-stimmen-fuer-vertonte-artikel-a-f58db9db-e7fd-451f-990b-483f4b37b302#ref=rss)
+### wir
+
+* [https://www.spiegel.de/backstage/in-eigener-sache-neue-stimmen-fuer-vertonte-artikel](https://www.spiegel.de/backstage/in-eigener-sache-neue-stimmen-fuer-vertonte-artikel-a-f58db9db-e7fd-451f-990b-483f4b37b302#ref=rss)
+* [https://www.spiegel.de/wirtschaft/us-zoelle-ursula-von-der-leyen-kuendigt-europaeische-antwort-auf-donald-trumps-massnahmen-an](https://www.spiegel.de/wirtschaft/us-zoelle-ursula-von-der-leyen-kuendigt-europaeische-antwort-auf-donald-trumps-massnahmen-an-a-84034618-ab73-414d-af37-8e42c0a5cc45#ref=rss)
+### neuer
+
+* [https://www.spiegel.de/backstage/in-eigener-sache-neue-stimmen-fuer-vertonte-artikel](https://www.spiegel.de/backstage/in-eigener-sache-neue-stimmen-fuer-vertonte-artikel-a-f58db9db-e7fd-451f-990b-483f4b37b302#ref=rss)
+* [https://www.spiegel.de/ausland/israel-benjamin-netanyahu-entlaesst-neu-ernannten-geheimdienstchef-eli-sharvit](https://www.spiegel.de/ausland/israel-benjamin-netanyahu-entlaesst-neu-ernannten-geheimdienstchef-eli-sharvit-a-e008ee2f-8634-4c64-81ff-936a98274558#ref=rss)
+### kommunen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/kommunen-rekorddefizit-durch-hohe-sozialausgaben-gemeldet](https://www.spiegel.de/wirtschaft/unternehmen/kommunen-rekorddefizit-durch-hohe-sozialausgaben-gemeldet-a-1c5cc8ab-9b51-4fb1-875c-9f40d82c3934#ref=rss)
+### milliarden
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/kommunen-rekorddefizit-durch-hohe-sozialausgaben-gemeldet](https://www.spiegel.de/wirtschaft/unternehmen/kommunen-rekorddefizit-durch-hohe-sozialausgaben-gemeldet-a-1c5cc8ab-9b51-4fb1-875c-9f40d82c3934#ref=rss)
+* [https://www.spiegel.de/netzwelt/openai-sammelt-40-milliarden-dollar-ein](https://www.spiegel.de/netzwelt/openai-sammelt-40-milliarden-dollar-ein-a-32f9af4e-bd06-4aca-af73-f4c297ea244e#ref=rss)
+### xiaomi
+
+* [https://www.spiegel.de/auto/xiaomi-chinesisches-unternehmen-will-nach-toedlichem-unfall-nach-fahrassistent-alarm-mit-polizei-kooperieren](https://www.spiegel.de/auto/xiaomi-chinesisches-unternehmen-will-nach-toedlichem-unfall-nach-fahrassistent-alarm-mit-polizei-kooperieren-a-f07eba02-d60d-4557-b0a7-62bfe676992e#ref=rss)
+### leyen
+
+* [https://www.spiegel.de/wirtschaft/us-zoelle-ursula-von-der-leyen-kuendigt-europaeische-antwort-auf-donald-trumps-massnahmen-an](https://www.spiegel.de/wirtschaft/us-zoelle-ursula-von-der-leyen-kuendigt-europaeische-antwort-auf-donald-trumps-massnahmen-an-a-84034618-ab73-414d-af37-8e42c0a5cc45#ref=rss)
+### kraft
+
+* [https://www.spiegel.de/wirtschaft/us-zoelle-ursula-von-der-leyen-kuendigt-europaeische-antwort-auf-donald-trumps-massnahmen-an](https://www.spiegel.de/wirtschaft/us-zoelle-ursula-von-der-leyen-kuendigt-europaeische-antwort-auf-donald-trumps-massnahmen-an-a-84034618-ab73-414d-af37-8e42c0a5cc45#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cannabis-koalitionsverhandlungen-gefaehrden-drogenpolitische-zeitenwende](https://www.spiegel.de/politik/deutschland/cannabis-koalitionsverhandlungen-gefaehrden-drogenpolitische-zeitenwende-a-a5c43ae1-47ae-4670-8f35-7cd9814e0505#ref=rss)
+### weilburg
+
+* [https://www.spiegel.de/panorama/weilburg-vermisster-sechsjaehriger-in-hessen-auch-die-luftwaffe-sucht-jetzt-nach-pawlos](https://www.spiegel.de/panorama/weilburg-vermisster-sechsjaehriger-in-hessen-auch-die-luftwaffe-sucht-jetzt-nach-pawlos-a-3ba4a7f3-bd6f-432e-bd1e-c0408db801f8#ref=rss)
+### pawlos
+
+* [https://www.spiegel.de/panorama/weilburg-vermisster-sechsjaehriger-in-hessen-auch-die-luftwaffe-sucht-jetzt-nach-pawlos](https://www.spiegel.de/panorama/weilburg-vermisster-sechsjaehriger-in-hessen-auch-die-luftwaffe-sucht-jetzt-nach-pawlos-a-3ba4a7f3-bd6f-432e-bd1e-c0408db801f8#ref=rss)
+### ministerpräsident
+
+* [https://www.spiegel.de/politik/deutschland/nachfolger-von-ministerpraesident-stephan-weil-in-niedersachsen-wer-ist-olaf-lies](https://www.spiegel.de/politik/deutschland/nachfolger-von-ministerpraesident-stephan-weil-in-niedersachsen-wer-ist-olaf-lies-a-2796dcda-8995-405e-bd48-eacfa0101890#ref=rss)
+### olaf
+
+* [https://www.spiegel.de/politik/deutschland/nachfolger-von-ministerpraesident-stephan-weil-in-niedersachsen-wer-ist-olaf-lies](https://www.spiegel.de/politik/deutschland/nachfolger-von-ministerpraesident-stephan-weil-in-niedersachsen-wer-ist-olaf-lies-a-2796dcda-8995-405e-bd48-eacfa0101890#ref=rss)
+### lies
+
+* [https://www.spiegel.de/politik/deutschland/nachfolger-von-ministerpraesident-stephan-weil-in-niedersachsen-wer-ist-olaf-lies](https://www.spiegel.de/politik/deutschland/nachfolger-von-ministerpraesident-stephan-weil-in-niedersachsen-wer-ist-olaf-lies-a-2796dcda-8995-405e-bd48-eacfa0101890#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/politik/deutschland/nachfolger-von-ministerpraesident-stephan-weil-in-niedersachsen-wer-ist-olaf-lies](https://www.spiegel.de/politik/deutschland/nachfolger-von-ministerpraesident-stephan-weil-in-niedersachsen-wer-ist-olaf-lies-a-2796dcda-8995-405e-bd48-eacfa0101890#ref=rss)
+* [https://www.spiegel.de/ausland/israel-benjamin-netanyahu-entlaesst-neu-ernannten-geheimdienstchef-eli-sharvit](https://www.spiegel.de/ausland/israel-benjamin-netanyahu-entlaesst-neu-ernannten-geheimdienstchef-eli-sharvit-a-e008ee2f-8634-4c64-81ff-936a98274558#ref=rss)
+### abgeben
+
+* [https://www.spiegel.de/politik/deutschland/nachfolger-von-ministerpraesident-stephan-weil-in-niedersachsen-wer-ist-olaf-lies](https://www.spiegel.de/politik/deutschland/nachfolger-von-ministerpraesident-stephan-weil-in-niedersachsen-wer-ist-olaf-lies-a-2796dcda-8995-405e-bd48-eacfa0101890#ref=rss)
+* [https://www.spiegel.de/politik/niedersachsen-stephan-weil-gibt-amt-des-ministerpraesidenten-im-mai-ab](https://www.spiegel.de/politik/niedersachsen-stephan-weil-gibt-amt-des-ministerpraesidenten-im-mai-ab-a-2d6658eb-271a-4a69-9331-eace64b0ef72#ref=rss)
+### wäre
+
+* [https://www.spiegel.de/politik/deutschland/nachfolger-von-ministerpraesident-stephan-weil-in-niedersachsen-wer-ist-olaf-lies](https://www.spiegel.de/politik/deutschland/nachfolger-von-ministerpraesident-stephan-weil-in-niedersachsen-wer-ist-olaf-lies-a-2796dcda-8995-405e-bd48-eacfa0101890#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cannabis-koalitionsverhandlungen-gefaehrden-drogenpolitische-zeitenwende](https://www.spiegel.de/politik/deutschland/cannabis-koalitionsverhandlungen-gefaehrden-drogenpolitische-zeitenwende-a-a5c43ae1-47ae-4670-8f35-7cd9814e0505#ref=rss)
+### brief
+
+* [https://www.spiegel.de/wissenschaft/mensch/angriffe-auf-wissenschaft-offener-brief-gegen-donald-trumps-sparpolitik-in-der-forschung](https://www.spiegel.de/wissenschaft/mensch/angriffe-auf-wissenschaft-offener-brief-gegen-donald-trumps-sparpolitik-in-der-forschung-a-3a90d14d-9bcf-401e-bf80-7924a2bdc0dc#ref=rss)
+### ilia
+
+* [https://www.spiegel.de/sport/eiskunstlaufen-us-star-ilia-malinin-er-tanzt-auf-dem-eis-gegen-seine-trauer-an](https://www.spiegel.de/sport/eiskunstlaufen-us-star-ilia-malinin-er-tanzt-auf-dem-eis-gegen-seine-trauer-an-a-2a972f08-5f5d-405d-8c83-8cbb77ff6aa5#ref=rss)
+### malinin
+
+* [https://www.spiegel.de/sport/eiskunstlaufen-us-star-ilia-malinin-er-tanzt-auf-dem-eis-gegen-seine-trauer-an](https://www.spiegel.de/sport/eiskunstlaufen-us-star-ilia-malinin-er-tanzt-auf-dem-eis-gegen-seine-trauer-an-a-2a972f08-5f5d-405d-8c83-8cbb77ff6aa5#ref=rss)
+### erst
+
+* [https://www.spiegel.de/sport/eiskunstlaufen-us-star-ilia-malinin-er-tanzt-auf-dem-eis-gegen-seine-trauer-an](https://www.spiegel.de/sport/eiskunstlaufen-us-star-ilia-malinin-er-tanzt-auf-dem-eis-gegen-seine-trauer-an-a-2a972f08-5f5d-405d-8c83-8cbb77ff6aa5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/immobilien-merz-schuldenpaket-verteuert-baufinanzierung-fuer-eigenheime](https://www.spiegel.de/wirtschaft/immobilien-merz-schuldenpaket-verteuert-baufinanzierung-fuer-eigenheime-a-e8e3ee95-f119-4738-b283-338233bf9663#ref=rss)
+### amt
+
+* [https://www.spiegel.de/politik/niedersachsen-stephan-weil-gibt-amt-des-ministerpraesidenten-im-mai-ab](https://www.spiegel.de/politik/niedersachsen-stephan-weil-gibt-amt-des-ministerpraesidenten-im-mai-ab-a-2d6658eb-271a-4a69-9331-eace64b0ef72#ref=rss)
+### ministerpräsidenten
+
+* [https://www.spiegel.de/politik/niedersachsen-stephan-weil-gibt-amt-des-ministerpraesidenten-im-mai-ab](https://www.spiegel.de/politik/niedersachsen-stephan-weil-gibt-amt-des-ministerpraesidenten-im-mai-ab-a-2d6658eb-271a-4a69-9331-eace64b0ef72#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/politik/niedersachsen-stephan-weil-gibt-amt-des-ministerpraesidenten-im-mai-ab](https://www.spiegel.de/politik/niedersachsen-stephan-weil-gibt-amt-des-ministerpraesidenten-im-mai-ab-a-2d6658eb-271a-4a69-9331-eace64b0ef72#ref=rss)
+* [https://www.spiegel.de/ausland/israel-benjamin-netanyahu-entlaesst-neu-ernannten-geheimdienstchef-eli-sharvit](https://www.spiegel.de/ausland/israel-benjamin-netanyahu-entlaesst-neu-ernannten-geheimdienstchef-eli-sharvit-a-e008ee2f-8634-4c64-81ff-936a98274558#ref=rss)
+### cannabis
+
+* [https://www.spiegel.de/politik/deutschland/cannabis-koalitionsverhandlungen-gefaehrden-drogenpolitische-zeitenwende](https://www.spiegel.de/politik/deutschland/cannabis-koalitionsverhandlungen-gefaehrden-drogenpolitische-zeitenwende-a-a5c43ae1-47ae-4670-8f35-7cd9814e0505#ref=rss)
+### koalitionsverhandlungen
+
+* [https://www.spiegel.de/politik/deutschland/cannabis-koalitionsverhandlungen-gefaehrden-drogenpolitische-zeitenwende](https://www.spiegel.de/politik/deutschland/cannabis-koalitionsverhandlungen-gefaehrden-drogenpolitische-zeitenwende-a-a5c43ae1-47ae-4670-8f35-7cd9814e0505#ref=rss)
+### drogenpolitische
+
+* [https://www.spiegel.de/politik/deutschland/cannabis-koalitionsverhandlungen-gefaehrden-drogenpolitische-zeitenwende](https://www.spiegel.de/politik/deutschland/cannabis-koalitionsverhandlungen-gefaehrden-drogenpolitische-zeitenwende-a-a5c43ae1-47ae-4670-8f35-7cd9814e0505#ref=rss)
+### zeitenwende
+
+* [https://www.spiegel.de/politik/deutschland/cannabis-koalitionsverhandlungen-gefaehrden-drogenpolitische-zeitenwende](https://www.spiegel.de/politik/deutschland/cannabis-koalitionsverhandlungen-gefaehrden-drogenpolitische-zeitenwende-a-a5c43ae1-47ae-4670-8f35-7cd9814e0505#ref=rss)
 ### netanyahu
 
-* [https://www.spiegel.de/ausland/israel-ermittler-nehmen-offenbar-vertraute-von-benjamin-netanyahu-wegen-katargate-affaere-fest](https://www.spiegel.de/ausland/israel-ermittler-nehmen-offenbar-vertraute-von-benjamin-netanyahu-wegen-katargate-affaere-fest-a-27f364e5-e6ee-45f7-8da1-3f98ed1279a4#ref=rss)
-### premier
+* [https://www.spiegel.de/ausland/israel-benjamin-netanyahu-entlaesst-neu-ernannten-geheimdienstchef-eli-sharvit](https://www.spiegel.de/ausland/israel-benjamin-netanyahu-entlaesst-neu-ernannten-geheimdienstchef-eli-sharvit-a-e008ee2f-8634-4c64-81ff-936a98274558#ref=rss)
+### eli
 
-* [https://www.spiegel.de/ausland/israel-ermittler-nehmen-offenbar-vertraute-von-benjamin-netanyahu-wegen-katargate-affaere-fest](https://www.spiegel.de/ausland/israel-ermittler-nehmen-offenbar-vertraute-von-benjamin-netanyahu-wegen-katargate-affaere-fest-a-27f364e5-e6ee-45f7-8da1-3f98ed1279a4#ref=rss)
-* [https://www.spiegel.de/kultur/tv/adolescence-film-soll-an-allen-weiterfuehrenden-schulen-in-grossbritannien-gezeigt-werden](https://www.spiegel.de/kultur/tv/adolescence-film-soll-an-allen-weiterfuehrenden-schulen-in-grossbritannien-gezeigt-werden-a-9795d98e-0b73-46ec-b8fc-e2610d119f7d#ref=rss)
-### castortransport
+* [https://www.spiegel.de/ausland/israel-benjamin-netanyahu-entlaesst-neu-ernannten-geheimdienstchef-eli-sharvit](https://www.spiegel.de/ausland/israel-benjamin-netanyahu-entlaesst-neu-ernannten-geheimdienstchef-eli-sharvit-a-e008ee2f-8634-4c64-81ff-936a98274558#ref=rss)
+### sharvit
 
-* [https://www.spiegel.de/panorama/von-sellafield-nach-niederaichbach-castor-transport-bringt-hoch-radioaktive-ladung-nach-deutschland](https://www.spiegel.de/panorama/von-sellafield-nach-niederaichbach-castor-transport-bringt-hoch-radioaktive-ladung-nach-deutschland-a-03542131-58e1-4f7f-bd12-295cb50c5967#ref=rss)
-### großbritannien
+* [https://www.spiegel.de/ausland/israel-benjamin-netanyahu-entlaesst-neu-ernannten-geheimdienstchef-eli-sharvit](https://www.spiegel.de/ausland/israel-benjamin-netanyahu-entlaesst-neu-ernannten-geheimdienstchef-eli-sharvit-a-e008ee2f-8634-4c64-81ff-936a98274558#ref=rss)
+### javier
 
-* [https://www.spiegel.de/panorama/von-sellafield-nach-niederaichbach-castor-transport-bringt-hoch-radioaktive-ladung-nach-deutschland](https://www.spiegel.de/panorama/von-sellafield-nach-niederaichbach-castor-transport-bringt-hoch-radioaktive-ladung-nach-deutschland-a-03542131-58e1-4f7f-bd12-295cb50c5967#ref=rss)
-* [https://www.spiegel.de/kultur/tv/adolescence-film-soll-an-allen-weiterfuehrenden-schulen-in-grossbritannien-gezeigt-werden](https://www.spiegel.de/kultur/tv/adolescence-film-soll-an-allen-weiterfuehrenden-schulen-in-grossbritannien-gezeigt-werden-a-9795d98e-0b73-46ec-b8fc-e2610d119f7d#ref=rss)
-### marine
+* [https://www.spiegel.de/wirtschaft/soziales/javier-milei-argentinien-meldet-starken-rueckgang-der-armut](https://www.spiegel.de/wirtschaft/soziales/javier-milei-argentinien-meldet-starken-rueckgang-der-armut-a-b5559923-a3a2-41f5-a174-7713c5ca4fd7#ref=rss)
+### milei
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-marine-le-pen-myanmar-union-und-spd-in-koalitionsverhandlungen](https://www.spiegel.de/politik/deutschland/news-des-tages-marine-le-pen-myanmar-union-und-spd-in-koalitionsverhandlungen-a-1bd71165-4135-4e02-aff5-00dd7378d1b6#ref=rss)
-### le
+* [https://www.spiegel.de/wirtschaft/soziales/javier-milei-argentinien-meldet-starken-rueckgang-der-armut](https://www.spiegel.de/wirtschaft/soziales/javier-milei-argentinien-meldet-starken-rueckgang-der-armut-a-b5559923-a3a2-41f5-a174-7713c5ca4fd7#ref=rss)
+### argentinien
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-marine-le-pen-myanmar-union-und-spd-in-koalitionsverhandlungen](https://www.spiegel.de/politik/deutschland/news-des-tages-marine-le-pen-myanmar-union-und-spd-in-koalitionsverhandlungen-a-1bd71165-4135-4e02-aff5-00dd7378d1b6#ref=rss)
-### pen
+* [https://www.spiegel.de/wirtschaft/soziales/javier-milei-argentinien-meldet-starken-rueckgang-der-armut](https://www.spiegel.de/wirtschaft/soziales/javier-milei-argentinien-meldet-starken-rueckgang-der-armut-a-b5559923-a3a2-41f5-a174-7713c5ca4fd7#ref=rss)
+### rückgang
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-marine-le-pen-myanmar-union-und-spd-in-koalitionsverhandlungen](https://www.spiegel.de/politik/deutschland/news-des-tages-marine-le-pen-myanmar-union-und-spd-in-koalitionsverhandlungen-a-1bd71165-4135-4e02-aff5-00dd7378d1b6#ref=rss)
-### belgien
+* [https://www.spiegel.de/wirtschaft/soziales/javier-milei-argentinien-meldet-starken-rueckgang-der-armut](https://www.spiegel.de/wirtschaft/soziales/javier-milei-argentinien-meldet-starken-rueckgang-der-armut-a-b5559923-a3a2-41f5-a174-7713c5ca4fd7#ref=rss)
+### mafia
 
-* [https://www.spiegel.de/ausland/belgien-landesweite-streiks-gegen-rentenkuerzungen](https://www.spiegel.de/ausland/belgien-landesweite-streiks-gegen-rentenkuerzungen-a-4aa4236c-061c-4de5-9c8a-c5939af12d35#ref=rss)
-### streiks
+* [https://www.spiegel.de/panorama/justiz/mafia-in-deutschland-festnahmen-bei-razzia-in-vier-bundeslaendern](https://www.spiegel.de/panorama/justiz/mafia-in-deutschland-festnahmen-bei-razzia-in-vier-bundeslaendern-a-91cbf9e2-780f-47ab-8e44-ccfb02460446#ref=rss)
+### razzia
 
-* [https://www.spiegel.de/ausland/belgien-landesweite-streiks-gegen-rentenkuerzungen](https://www.spiegel.de/ausland/belgien-landesweite-streiks-gegen-rentenkuerzungen-a-4aa4236c-061c-4de5-9c8a-c5939af12d35#ref=rss)
-### unternehmen
+* [https://www.spiegel.de/panorama/justiz/mafia-in-deutschland-festnahmen-bei-razzia-in-vier-bundeslaendern](https://www.spiegel.de/panorama/justiz/mafia-in-deutschland-festnahmen-bei-razzia-in-vier-bundeslaendern-a-91cbf9e2-780f-47ab-8e44-ccfb02460446#ref=rss)
+### bundesländern
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/schweden-tausende-northvolt-mitarbeiter-verlieren-ihre-jobs](https://www.spiegel.de/wirtschaft/unternehmen/schweden-tausende-northvolt-mitarbeiter-verlieren-ihre-jobs-a-9bd1b369-ff46-408b-817b-cbc0f6df2f5c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/fuer-die-arbeit-von-lobbyisten-im-bundestag-zahlten-unternehmen-2024-eine-milliarde-euro](https://www.spiegel.de/wirtschaft/fuer-die-arbeit-von-lobbyisten-im-bundestag-zahlten-unternehmen-2024-eine-milliarde-euro-a-f45f1729-a0bc-48b7-bed2-11d876da5833#ref=rss)
-### italien
+* [https://www.spiegel.de/panorama/justiz/mafia-in-deutschland-festnahmen-bei-razzia-in-vier-bundeslaendern](https://www.spiegel.de/panorama/justiz/mafia-in-deutschland-festnahmen-bei-razzia-in-vier-bundeslaendern-a-91cbf9e2-780f-47ab-8e44-ccfb02460446#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/wissenschaft/technik/italien-mutmasslich-russische-drohne-ueberfliegt-forschungszentrum-der-eu-am-lago-maggiore](https://www.spiegel.de/wissenschaft/technik/italien-mutmasslich-russische-drohne-ueberfliegt-forschungszentrum-der-eu-am-lago-maggiore-a-b9b3bfe0-c8b3-4494-ab5b-ec8273921048#ref=rss)
-### russland
+* [https://www.spiegel.de/ausland/ukraine-krieg-annalena-baerbock-zu-abschiedsbesuch-in-kyjiw-eingetroffen](https://www.spiegel.de/ausland/ukraine-krieg-annalena-baerbock-zu-abschiedsbesuch-in-kyjiw-eingetroffen-a-1184b19e-f18d-4956-b22d-f923fd5714ac#ref=rss)
+### annalena
 
-* [https://www.spiegel.de/wissenschaft/technik/italien-mutmasslich-russische-drohne-ueberfliegt-forschungszentrum-der-eu-am-lago-maggiore](https://www.spiegel.de/wissenschaft/technik/italien-mutmasslich-russische-drohne-ueberfliegt-forschungszentrum-der-eu-am-lago-maggiore-a-b9b3bfe0-c8b3-4494-ab5b-ec8273921048#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/erdgas-die-eu-bekommt-druck-von-donald-trump-und-wladimir-putin](https://www.spiegel.de/wirtschaft/soziales/erdgas-die-eu-bekommt-druck-von-donald-trump-und-wladimir-putin-a-db3dab64-b057-4b9d-9080-9f26e1d34ba5#ref=rss)
-### smith
+* [https://www.spiegel.de/ausland/ukraine-krieg-annalena-baerbock-zu-abschiedsbesuch-in-kyjiw-eingetroffen](https://www.spiegel.de/ausland/ukraine-krieg-annalena-baerbock-zu-abschiedsbesuch-in-kyjiw-eingetroffen-a-1184b19e-f18d-4956-b22d-f923fd5714ac#ref=rss)
+### baerbock
 
-* [https://www.spiegel.de/panorama/leute/will-smith-beim-schach-mit-diesem-trick-versucht-der-hollywoodstar-alexandra-botez-zu-ueberlisten](https://www.spiegel.de/panorama/leute/will-smith-beim-schach-mit-diesem-trick-versucht-der-hollywoodstar-alexandra-botez-zu-ueberlisten-a-ddb25ce1-3aca-4ef7-829f-17ed6ed393e3#ref=rss)
-### schach
+* [https://www.spiegel.de/ausland/ukraine-krieg-annalena-baerbock-zu-abschiedsbesuch-in-kyjiw-eingetroffen](https://www.spiegel.de/ausland/ukraine-krieg-annalena-baerbock-zu-abschiedsbesuch-in-kyjiw-eingetroffen-a-1184b19e-f18d-4956-b22d-f923fd5714ac#ref=rss)
+### kyjiw
 
-* [https://www.spiegel.de/panorama/leute/will-smith-beim-schach-mit-diesem-trick-versucht-der-hollywoodstar-alexandra-botez-zu-ueberlisten](https://www.spiegel.de/panorama/leute/will-smith-beim-schach-mit-diesem-trick-versucht-der-hollywoodstar-alexandra-botez-zu-ueberlisten-a-ddb25ce1-3aca-4ef7-829f-17ed6ed393e3#ref=rss)
-### diesem
-
-* [https://www.spiegel.de/panorama/leute/will-smith-beim-schach-mit-diesem-trick-versucht-der-hollywoodstar-alexandra-botez-zu-ueberlisten](https://www.spiegel.de/panorama/leute/will-smith-beim-schach-mit-diesem-trick-versucht-der-hollywoodstar-alexandra-botez-zu-ueberlisten-a-ddb25ce1-3aca-4ef7-829f-17ed6ed393e3#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-zusaetzliches-transferfenster-anfang-juni-wegen-klub-wm](https://www.spiegel.de/sport/fussball/fussball-bundesliga-zusaetzliches-transferfenster-anfang-juni-wegen-klub-wm-a-3eb0a98b-851b-467a-b5b5-57bbe023b640#ref=rss)
-### alexandra
-
-* [https://www.spiegel.de/panorama/leute/will-smith-beim-schach-mit-diesem-trick-versucht-der-hollywoodstar-alexandra-botez-zu-ueberlisten](https://www.spiegel.de/panorama/leute/will-smith-beim-schach-mit-diesem-trick-versucht-der-hollywoodstar-alexandra-botez-zu-ueberlisten-a-ddb25ce1-3aca-4ef7-829f-17ed6ed393e3#ref=rss)
-### botez
-
-* [https://www.spiegel.de/panorama/leute/will-smith-beim-schach-mit-diesem-trick-versucht-der-hollywoodstar-alexandra-botez-zu-ueberlisten](https://www.spiegel.de/panorama/leute/will-smith-beim-schach-mit-diesem-trick-versucht-der-hollywoodstar-alexandra-botez-zu-ueberlisten-a-ddb25ce1-3aca-4ef7-829f-17ed6ed393e3#ref=rss)
-### kraftwerke
-
-* [https://www.spiegel.de/wirtschaft/strommarkt-union-und-spd-planen-einsatz-alter-kraftwerke-gegen-preisspitzen](https://www.spiegel.de/wirtschaft/strommarkt-union-und-spd-planen-einsatz-alter-kraftwerke-gegen-preisspitzen-a-6b5c9492-80a1-4205-b0c1-0c7d192dc7f7#ref=rss)
-### netz
-
-* [https://www.spiegel.de/wirtschaft/strommarkt-union-und-spd-planen-einsatz-alter-kraftwerke-gegen-preisspitzen](https://www.spiegel.de/wirtschaft/strommarkt-union-und-spd-planen-einsatz-alter-kraftwerke-gegen-preisspitzen-a-6b5c9492-80a1-4205-b0c1-0c7d192dc7f7#ref=rss)
-* [https://www.spiegel.de/kultur/tv/adolescence-bei-netflix-ablehnung-und-wut-im-netz-gegen-hit-serie](https://www.spiegel.de/kultur/tv/adolescence-bei-netflix-ablehnung-und-wut-im-netz-gegen-hit-serie-a-74f5ca06-451d-4e44-b398-a5b272a6c0f9#ref=rss)
-### gehen
-
-* [https://www.spiegel.de/wirtschaft/strommarkt-union-und-spd-planen-einsatz-alter-kraftwerke-gegen-preisspitzen](https://www.spiegel.de/wirtschaft/strommarkt-union-und-spd-planen-einsatz-alter-kraftwerke-gegen-preisspitzen-a-6b5c9492-80a1-4205-b0c1-0c7d192dc7f7#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-und-thomas-mueller-das-aus-ist-noch-nicht-besiegelt](https://www.spiegel.de/sport/fussball/fc-bayern-und-thomas-mueller-das-aus-ist-noch-nicht-besiegelt-a-8e2e97ac-53a0-4908-8459-b668f8e04fa1#ref=rss)
-### arbeit
-
-* [https://www.spiegel.de/wirtschaft/fuer-die-arbeit-von-lobbyisten-im-bundestag-zahlten-unternehmen-2024-eine-milliarde-euro](https://www.spiegel.de/wirtschaft/fuer-die-arbeit-von-lobbyisten-im-bundestag-zahlten-unternehmen-2024-eine-milliarde-euro-a-f45f1729-a0bc-48b7-bed2-11d876da5833#ref=rss)
-### thomas
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-und-thomas-mueller-das-aus-ist-noch-nicht-besiegelt](https://www.spiegel.de/sport/fussball/fc-bayern-und-thomas-mueller-das-aus-ist-noch-nicht-besiegelt-a-8e2e97ac-53a0-4908-8459-b668f8e04fa1#ref=rss)
-### müller
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-und-thomas-mueller-das-aus-ist-noch-nicht-besiegelt](https://www.spiegel.de/sport/fussball/fc-bayern-und-thomas-mueller-das-aus-ist-noch-nicht-besiegelt-a-8e2e97ac-53a0-4908-8459-b668f8e04fa1#ref=rss)
-### besiegelt
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-und-thomas-mueller-das-aus-ist-noch-nicht-besiegelt](https://www.spiegel.de/sport/fussball/fc-bayern-und-thomas-mueller-das-aus-ist-noch-nicht-besiegelt-a-8e2e97ac-53a0-4908-8459-b668f8e04fa1#ref=rss)
-### entlassen
-
-* [https://www.spiegel.de/karriere/kuendigung-entlassen-mit-ue50-soll-ich-mich-selbststaendig-machen-chancen-und-risiken](https://www.spiegel.de/karriere/kuendigung-entlassen-mit-ue50-soll-ich-mich-selbststaendig-machen-chancen-und-risiken-a-d1b54534-2029-47f0-b7d1-569a87468868#ref=rss)
-### diesen
-
-* [https://www.spiegel.de/karriere/kuendigung-entlassen-mit-ue50-soll-ich-mich-selbststaendig-machen-chancen-und-risiken](https://www.spiegel.de/karriere/kuendigung-entlassen-mit-ue50-soll-ich-mich-selbststaendig-machen-chancen-und-risiken-a-d1b54534-2029-47f0-b7d1-569a87468868#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/artus-legende-verstecktes-merlin-manuskript-in-altem-buch-entdeckt](https://www.spiegel.de/wissenschaft/mensch/artus-legende-verstecktes-merlin-manuskript-in-altem-buch-entdeckt-a-65718fbf-fdc5-448a-bc8b-0943a1abe0b5#ref=rss)
-### preiserhöhungen
-
-* [https://www.spiegel.de/wirtschaft/service/versteckte-preiserhoehungen-welche-produkte-von-dr-oetker-teurer-geworden-sind](https://www.spiegel.de/wirtschaft/service/versteckte-preiserhoehungen-welche-produkte-von-dr-oetker-teurer-geworden-sind-a-7077cd8f-5c94-42ed-8718-b561c286c660#ref=rss)
-### dr
-
-* [https://www.spiegel.de/wirtschaft/service/versteckte-preiserhoehungen-welche-produkte-von-dr-oetker-teurer-geworden-sind](https://www.spiegel.de/wirtschaft/service/versteckte-preiserhoehungen-welche-produkte-von-dr-oetker-teurer-geworden-sind-a-7077cd8f-5c94-42ed-8718-b561c286c660#ref=rss)
-### oetker
-
-* [https://www.spiegel.de/wirtschaft/service/versteckte-preiserhoehungen-welche-produkte-von-dr-oetker-teurer-geworden-sind](https://www.spiegel.de/wirtschaft/service/versteckte-preiserhoehungen-welche-produkte-von-dr-oetker-teurer-geworden-sind-a-7077cd8f-5c94-42ed-8718-b561c286c660#ref=rss)
-### serie
-
-* [https://www.spiegel.de/wirtschaft/service/versteckte-preiserhoehungen-welche-produkte-von-dr-oetker-teurer-geworden-sind](https://www.spiegel.de/wirtschaft/service/versteckte-preiserhoehungen-welche-produkte-von-dr-oetker-teurer-geworden-sind-a-7077cd8f-5c94-42ed-8718-b561c286c660#ref=rss)
-* [https://www.spiegel.de/kultur/tv/adolescence-film-soll-an-allen-weiterfuehrenden-schulen-in-grossbritannien-gezeigt-werden](https://www.spiegel.de/kultur/tv/adolescence-film-soll-an-allen-weiterfuehrenden-schulen-in-grossbritannien-gezeigt-werden-a-9795d98e-0b73-46ec-b8fc-e2610d119f7d#ref=rss)
-### hamburg
-
-* [https://www.spiegel.de/panorama/justiz/hamburg-mann-stirbt-nach-sadomaso-session-geldstrafe-fuer-domina](https://www.spiegel.de/panorama/justiz/hamburg-mann-stirbt-nach-sadomaso-session-geldstrafe-fuer-domina-a-ca63ddad-72fc-4f41-aa36-7bbc58cb9000#ref=rss)
-### domina
-
-* [https://www.spiegel.de/panorama/justiz/hamburg-mann-stirbt-nach-sadomaso-session-geldstrafe-fuer-domina](https://www.spiegel.de/panorama/justiz/hamburg-mann-stirbt-nach-sadomaso-session-geldstrafe-fuer-domina-a-ca63ddad-72fc-4f41-aa36-7bbc58cb9000#ref=rss)
-### helfen
-
-* [https://www.spiegel.de/panorama/justiz/hamburg-mann-stirbt-nach-sadomaso-session-geldstrafe-fuer-domina](https://www.spiegel.de/panorama/justiz/hamburg-mann-stirbt-nach-sadomaso-session-geldstrafe-fuer-domina-a-ca63ddad-72fc-4f41-aa36-7bbc58cb9000#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-zusaetzliches-transferfenster-anfang-juni-wegen-klub-wm](https://www.spiegel.de/sport/fussball/fussball-bundesliga-zusaetzliches-transferfenster-anfang-juni-wegen-klub-wm-a-3eb0a98b-851b-467a-b5b5-57bbe023b640#ref=rss)
-### buch
-
-* [https://www.spiegel.de/wissenschaft/mensch/artus-legende-verstecktes-merlin-manuskript-in-altem-buch-entdeckt](https://www.spiegel.de/wissenschaft/mensch/artus-legende-verstecktes-merlin-manuskript-in-altem-buch-entdeckt-a-65718fbf-fdc5-448a-bc8b-0943a1abe0b5#ref=rss)
-### hitserie
-
-* [https://www.spiegel.de/kultur/tv/adolescence-bei-netflix-ablehnung-und-wut-im-netz-gegen-hit-serie](https://www.spiegel.de/kultur/tv/adolescence-bei-netflix-ablehnung-und-wut-im-netz-gegen-hit-serie-a-74f5ca06-451d-4e44-b398-a5b272a6c0f9#ref=rss)
-### juni
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-zusaetzliches-transferfenster-anfang-juni-wegen-klub-wm](https://www.spiegel.de/sport/fussball/fussball-bundesliga-zusaetzliches-transferfenster-anfang-juni-wegen-klub-wm-a-3eb0a98b-851b-467a-b5b5-57bbe023b640#ref=rss)
-### klubwm
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-zusaetzliches-transferfenster-anfang-juni-wegen-klub-wm](https://www.spiegel.de/sport/fussball/fussball-bundesliga-zusaetzliches-transferfenster-anfang-juni-wegen-klub-wm-a-3eb0a98b-851b-467a-b5b5-57bbe023b640#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-annalena-baerbock-zu-abschiedsbesuch-in-kyjiw-eingetroffen](https://www.spiegel.de/ausland/ukraine-krieg-annalena-baerbock-zu-abschiedsbesuch-in-kyjiw-eingetroffen-a-1184b19e-f18d-4956-b22d-f923fd5714ac#ref=rss)
 
