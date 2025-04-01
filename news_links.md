@@ -4,335 +4,432 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### deutschland
-
-* [https://www.spiegel.de/wissenschaft/weltall/rabea-rogge-erste-astronautin-aus-deutschland-warum-frauen-in-der-raumfahrt-unterrepraesentiert-sind](https://www.spiegel.de/wissenschaft/weltall/rabea-rogge-erste-astronautin-aus-deutschland-warum-frauen-in-der-raumfahrt-unterrepraesentiert-sind-a-d6594488-e08e-4591-bcb0-744f8f58d12e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/klimabericht-des-dwd-fuer-2024-so-hart-trifft-deutschland-die-klimakrise](https://www.spiegel.de/wissenschaft/natur/klimabericht-des-dwd-fuer-2024-so-hart-trifft-deutschland-die-klimakrise-a-f6d5759b-dddb-4b12-8085-ea2bbe831996#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mafia-in-deutschland-festnahmen-bei-razzia-in-vier-bundeslaendern](https://www.spiegel.de/panorama/justiz/mafia-in-deutschland-festnahmen-bei-razzia-in-vier-bundeslaendern-a-91cbf9e2-780f-47ab-8e44-ccfb02460446#ref=rss)
-### donald
-
-* [https://www.spiegel.de/wirtschaft/us-zoelle-ursula-von-der-leyen-kuendigt-europaeische-antwort-auf-donald-trumps-massnahmen-an](https://www.spiegel.de/wirtschaft/us-zoelle-ursula-von-der-leyen-kuendigt-europaeische-antwort-auf-donald-trumps-massnahmen-an-a-84034618-ab73-414d-af37-8e42c0a5cc45#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/angriffe-auf-wissenschaft-offener-brief-gegen-donald-trumps-sparpolitik-in-der-forschung](https://www.spiegel.de/wissenschaft/mensch/angriffe-auf-wissenschaft-offener-brief-gegen-donald-trumps-sparpolitik-in-der-forschung-a-3a90d14d-9bcf-401e-bf80-7924a2bdc0dc#ref=rss)
-### stephan
-
-* [https://www.spiegel.de/politik/deutschland/nachfolger-von-ministerpraesident-stephan-weil-in-niedersachsen-wer-ist-olaf-lies](https://www.spiegel.de/politik/deutschland/nachfolger-von-ministerpraesident-stephan-weil-in-niedersachsen-wer-ist-olaf-lies-a-2796dcda-8995-405e-bd48-eacfa0101890#ref=rss)
-* [https://www.spiegel.de/politik/niedersachsen-stephan-weil-gibt-amt-des-ministerpraesidenten-im-mai-ab](https://www.spiegel.de/politik/niedersachsen-stephan-weil-gibt-amt-des-ministerpraesidenten-im-mai-ab-a-2d6658eb-271a-4a69-9331-eace64b0ef72#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/justiz/kehl-europabruecke-abgeschobener-spanier-will-mit-ausweis-seines-zwillings-einreisen](https://www.spiegel.de/panorama/justiz/kehl-europabruecke-abgeschobener-spanier-will-mit-ausweis-seines-zwillings-einreisen-a-f8884bc5-27cd-49ca-b667-407ab72232d5#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/uganda-schmuggel-seltener-galapagos-leguane-aus-ecuador-nimmt-zu](https://www.spiegel.de/wissenschaft/natur/uganda-schmuggel-seltener-galapagos-leguane-aus-ecuador-nimmt-zu-a-28a282fa-2b57-49ba-aab7-68ac373de35e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nachfolger-von-ministerpraesident-stephan-weil-in-niedersachsen-wer-ist-olaf-lies](https://www.spiegel.de/politik/deutschland/nachfolger-von-ministerpraesident-stephan-weil-in-niedersachsen-wer-ist-olaf-lies-a-2796dcda-8995-405e-bd48-eacfa0101890#ref=rss)
-### erste
-
-* [https://www.spiegel.de/wissenschaft/weltall/rabea-rogge-erste-astronautin-aus-deutschland-warum-frauen-in-der-raumfahrt-unterrepraesentiert-sind](https://www.spiegel.de/wissenschaft/weltall/rabea-rogge-erste-astronautin-aus-deutschland-warum-frauen-in-der-raumfahrt-unterrepraesentiert-sind-a-d6594488-e08e-4591-bcb0-744f8f58d12e#ref=rss)
-* [https://www.spiegel.de/auto/xiaomi-chinesisches-unternehmen-will-nach-toedlichem-unfall-nach-fahrassistent-alarm-mit-polizei-kooperieren](https://www.spiegel.de/auto/xiaomi-chinesisches-unternehmen-will-nach-toedlichem-unfall-nach-fahrassistent-alarm-mit-polizei-kooperieren-a-f07eba02-d60d-4557-b0a7-62bfe676992e#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/wissenschaft/weltall/rabea-rogge-erste-astronautin-aus-deutschland-warum-frauen-in-der-raumfahrt-unterrepraesentiert-sind](https://www.spiegel.de/wissenschaft/weltall/rabea-rogge-erste-astronautin-aus-deutschland-warum-frauen-in-der-raumfahrt-unterrepraesentiert-sind-a-d6594488-e08e-4591-bcb0-744f8f58d12e#ref=rss)
-* [https://www.spiegel.de/auto/xiaomi-chinesisches-unternehmen-will-nach-toedlichem-unfall-nach-fahrassistent-alarm-mit-polizei-kooperieren](https://www.spiegel.de/auto/xiaomi-chinesisches-unternehmen-will-nach-toedlichem-unfall-nach-fahrassistent-alarm-mit-polizei-kooperieren-a-f07eba02-d60d-4557-b0a7-62bfe676992e#ref=rss)
-### trumps
-
-* [https://www.spiegel.de/wirtschaft/service/gold-zollpolitik-treibt-goldpreis-ueber-3100-dollar](https://www.spiegel.de/wirtschaft/service/gold-zollpolitik-treibt-goldpreis-ueber-3100-dollar-a-0f2006c5-caf5-4f97-9703-89a4b06836ae#ref=rss)
-* [https://www.spiegel.de/wirtschaft/us-zoelle-ursula-von-der-leyen-kuendigt-europaeische-antwort-auf-donald-trumps-massnahmen-an](https://www.spiegel.de/wirtschaft/us-zoelle-ursula-von-der-leyen-kuendigt-europaeische-antwort-auf-donald-trumps-massnahmen-an-a-84034618-ab73-414d-af37-8e42c0a5cc45#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/angriffe-auf-wissenschaft-offener-brief-gegen-donald-trumps-sparpolitik-in-der-forschung](https://www.spiegel.de/wissenschaft/mensch/angriffe-auf-wissenschaft-offener-brief-gegen-donald-trumps-sparpolitik-in-der-forschung-a-3a90d14d-9bcf-401e-bf80-7924a2bdc0dc#ref=rss)
-### 2024
-
-* [https://www.spiegel.de/wissenschaft/natur/klimabericht-des-dwd-fuer-2024-so-hart-trifft-deutschland-die-klimakrise](https://www.spiegel.de/wissenschaft/natur/klimabericht-des-dwd-fuer-2024-so-hart-trifft-deutschland-die-klimakrise-a-f6d5759b-dddb-4b12-8085-ea2bbe831996#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/kommunen-rekorddefizit-durch-hohe-sozialausgaben-gemeldet](https://www.spiegel.de/wirtschaft/unternehmen/kommunen-rekorddefizit-durch-hohe-sozialausgaben-gemeldet-a-1c5cc8ab-9b51-4fb1-875c-9f40d82c3934#ref=rss)
-### leben
-
-* [https://www.spiegel.de/wissenschaft/natur/klimabericht-des-dwd-fuer-2024-so-hart-trifft-deutschland-die-klimakrise](https://www.spiegel.de/wissenschaft/natur/klimabericht-des-dwd-fuer-2024-so-hart-trifft-deutschland-die-klimakrise-a-f6d5759b-dddb-4b12-8085-ea2bbe831996#ref=rss)
-* [https://www.spiegel.de/auto/xiaomi-chinesisches-unternehmen-will-nach-toedlichem-unfall-nach-fahrassistent-alarm-mit-polizei-kooperieren](https://www.spiegel.de/auto/xiaomi-chinesisches-unternehmen-will-nach-toedlichem-unfall-nach-fahrassistent-alarm-mit-polizei-kooperieren-a-f07eba02-d60d-4557-b0a7-62bfe676992e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/javier-milei-argentinien-meldet-starken-rueckgang-der-armut](https://www.spiegel.de/wirtschaft/soziales/javier-milei-argentinien-meldet-starken-rueckgang-der-armut-a-b5559923-a3a2-41f5-a174-7713c5ca4fd7#ref=rss)
-### trump
-
-* [https://www.spiegel.de/wirtschaft/us-zoelle-ursula-von-der-leyen-kuendigt-europaeische-antwort-auf-donald-trumps-massnahmen-an](https://www.spiegel.de/wirtschaft/us-zoelle-ursula-von-der-leyen-kuendigt-europaeische-antwort-auf-donald-trumps-massnahmen-an-a-84034618-ab73-414d-af37-8e42c0a5cc45#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/angriffe-auf-wissenschaft-offener-brief-gegen-donald-trumps-sparpolitik-in-der-forschung](https://www.spiegel.de/wissenschaft/mensch/angriffe-auf-wissenschaft-offener-brief-gegen-donald-trumps-sparpolitik-in-der-forschung-a-3a90d14d-9bcf-401e-bf80-7924a2bdc0dc#ref=rss)
-* [https://www.spiegel.de/ausland/israel-benjamin-netanyahu-entlaesst-neu-ernannten-geheimdienstchef-eli-sharvit](https://www.spiegel.de/ausland/israel-benjamin-netanyahu-entlaesst-neu-ernannten-geheimdienstchef-eli-sharvit-a-e008ee2f-8634-4c64-81ff-936a98274558#ref=rss)
-### nachfolger
-
-* [https://www.spiegel.de/politik/deutschland/nachfolger-von-ministerpraesident-stephan-weil-in-niedersachsen-wer-ist-olaf-lies](https://www.spiegel.de/politik/deutschland/nachfolger-von-ministerpraesident-stephan-weil-in-niedersachsen-wer-ist-olaf-lies-a-2796dcda-8995-405e-bd48-eacfa0101890#ref=rss)
-* [https://www.spiegel.de/politik/niedersachsen-stephan-weil-gibt-amt-des-ministerpraesidenten-im-mai-ab](https://www.spiegel.de/politik/niedersachsen-stephan-weil-gibt-amt-des-ministerpraesidenten-im-mai-ab-a-2d6658eb-271a-4a69-9331-eace64b0ef72#ref=rss)
-### niedersachsen
-
-* [https://www.spiegel.de/politik/deutschland/nachfolger-von-ministerpraesident-stephan-weil-in-niedersachsen-wer-ist-olaf-lies](https://www.spiegel.de/politik/deutschland/nachfolger-von-ministerpraesident-stephan-weil-in-niedersachsen-wer-ist-olaf-lies-a-2796dcda-8995-405e-bd48-eacfa0101890#ref=rss)
-* [https://www.spiegel.de/politik/niedersachsen-stephan-weil-gibt-amt-des-ministerpraesidenten-im-mai-ab](https://www.spiegel.de/politik/niedersachsen-stephan-weil-gibt-amt-des-ministerpraesidenten-im-mai-ab-a-2d6658eb-271a-4a69-9331-eace64b0ef72#ref=rss)
-### mai
-
-* [https://www.spiegel.de/politik/deutschland/nachfolger-von-ministerpraesident-stephan-weil-in-niedersachsen-wer-ist-olaf-lies](https://www.spiegel.de/politik/deutschland/nachfolger-von-ministerpraesident-stephan-weil-in-niedersachsen-wer-ist-olaf-lies-a-2796dcda-8995-405e-bd48-eacfa0101890#ref=rss)
-* [https://www.spiegel.de/politik/niedersachsen-stephan-weil-gibt-amt-des-ministerpraesidenten-im-mai-ab](https://www.spiegel.de/politik/niedersachsen-stephan-weil-gibt-amt-des-ministerpraesidenten-im-mai-ab-a-2d6658eb-271a-4a69-9331-eace64b0ef72#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/wissenschaft/mensch/angriffe-auf-wissenschaft-offener-brief-gegen-donald-trumps-sparpolitik-in-der-forschung](https://www.spiegel.de/wissenschaft/mensch/angriffe-auf-wissenschaft-offener-brief-gegen-donald-trumps-sparpolitik-in-der-forschung-a-3a90d14d-9bcf-401e-bf80-7924a2bdc0dc#ref=rss)
-* [https://www.spiegel.de/ausland/israel-benjamin-netanyahu-entlaesst-neu-ernannten-geheimdienstchef-eli-sharvit](https://www.spiegel.de/ausland/israel-benjamin-netanyahu-entlaesst-neu-ernannten-geheimdienstchef-eli-sharvit-a-e008ee2f-8634-4c64-81ff-936a98274558#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/javier-milei-argentinien-meldet-starken-rueckgang-der-armut](https://www.spiegel.de/wirtschaft/soziales/javier-milei-argentinien-meldet-starken-rueckgang-der-armut-a-b5559923-a3a2-41f5-a174-7713c5ca4fd7#ref=rss)
-### spanier
-
-* [https://www.spiegel.de/panorama/justiz/kehl-europabruecke-abgeschobener-spanier-will-mit-ausweis-seines-zwillings-einreisen](https://www.spiegel.de/panorama/justiz/kehl-europabruecke-abgeschobener-spanier-will-mit-ausweis-seines-zwillings-einreisen-a-f8884bc5-27cd-49ca-b667-407ab72232d5#ref=rss)
-### ausweis
-
-* [https://www.spiegel.de/panorama/justiz/kehl-europabruecke-abgeschobener-spanier-will-mit-ausweis-seines-zwillings-einreisen](https://www.spiegel.de/panorama/justiz/kehl-europabruecke-abgeschobener-spanier-will-mit-ausweis-seines-zwillings-einreisen-a-f8884bc5-27cd-49ca-b667-407ab72232d5#ref=rss)
-### straftaten
-
-* [https://www.spiegel.de/panorama/justiz/kehl-europabruecke-abgeschobener-spanier-will-mit-ausweis-seines-zwillings-einreisen](https://www.spiegel.de/panorama/justiz/kehl-europabruecke-abgeschobener-spanier-will-mit-ausweis-seines-zwillings-einreisen-a-f8884bc5-27cd-49ca-b667-407ab72232d5#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mafia-in-deutschland-festnahmen-bei-razzia-in-vier-bundeslaendern](https://www.spiegel.de/panorama/justiz/mafia-in-deutschland-festnahmen-bei-razzia-in-vier-bundeslaendern-a-91cbf9e2-780f-47ab-8e44-ccfb02460446#ref=rss)
-### hessen
-
-* [https://www.spiegel.de/panorama/justiz/kehl-europabruecke-abgeschobener-spanier-will-mit-ausweis-seines-zwillings-einreisen](https://www.spiegel.de/panorama/justiz/kehl-europabruecke-abgeschobener-spanier-will-mit-ausweis-seines-zwillings-einreisen-a-f8884bc5-27cd-49ca-b667-407ab72232d5#ref=rss)
-* [https://www.spiegel.de/panorama/weilburg-vermisster-sechsjaehriger-in-hessen-auch-die-luftwaffe-sucht-jetzt-nach-pawlos](https://www.spiegel.de/panorama/weilburg-vermisster-sechsjaehriger-in-hessen-auch-die-luftwaffe-sucht-jetzt-nach-pawlos-a-3ba4a7f3-bd6f-432e-bd1e-c0408db801f8#ref=rss)
-### lava
-
-* [https://www.spiegel.de/wissenschaft/natur/island-vulkan-sundhnukscigar-ausgebrochen-lava-verschluckt-strassen-geothermalbad-blaue-lagune-evakuiert](https://www.spiegel.de/wissenschaft/natur/island-vulkan-sundhnukscigar-ausgebrochen-lava-verschluckt-strassen-geothermalbad-blaue-lagune-evakuiert-a-6157ed2e-7b1c-427a-9688-ecc5c59cdebc#ref=rss)
-### straßen
-
-* [https://www.spiegel.de/wissenschaft/natur/island-vulkan-sundhnukscigar-ausgebrochen-lava-verschluckt-strassen-geothermalbad-blaue-lagune-evakuiert](https://www.spiegel.de/wissenschaft/natur/island-vulkan-sundhnukscigar-ausgebrochen-lava-verschluckt-strassen-geothermalbad-blaue-lagune-evakuiert-a-6157ed2e-7b1c-427a-9688-ecc5c59cdebc#ref=rss)
-* [https://www.spiegel.de/panorama/australien-schwerste-flut-seit-50-jahren-ueberschwemmt-queensland](https://www.spiegel.de/panorama/australien-schwerste-flut-seit-50-jahren-ueberschwemmt-queensland-a-ea541c43-f262-4083-931f-2ed4c60e77a9#ref=rss)
-### arbeitslosenquote
-
-* [https://www.spiegel.de/wirtschaft/arbeitslosenquote-in-der-eurozone-faellt-auf-rekordtief](https://www.spiegel.de/wirtschaft/arbeitslosenquote-in-der-eurozone-faellt-auf-rekordtief-a-8db0fbb6-7a9b-4113-915d-79700788b55e#ref=rss)
-### eurozone
-
-* [https://www.spiegel.de/wirtschaft/arbeitslosenquote-in-der-eurozone-faellt-auf-rekordtief](https://www.spiegel.de/wirtschaft/arbeitslosenquote-in-der-eurozone-faellt-auf-rekordtief-a-8db0fbb6-7a9b-4113-915d-79700788b55e#ref=rss)
-### euro
-
-* [https://www.spiegel.de/wirtschaft/arbeitslosenquote-in-der-eurozone-faellt-auf-rekordtief](https://www.spiegel.de/wirtschaft/arbeitslosenquote-in-der-eurozone-faellt-auf-rekordtief-a-8db0fbb6-7a9b-4113-915d-79700788b55e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/kommunen-rekorddefizit-durch-hohe-sozialausgaben-gemeldet](https://www.spiegel.de/wirtschaft/unternehmen/kommunen-rekorddefizit-durch-hohe-sozialausgaben-gemeldet-a-1c5cc8ab-9b51-4fb1-875c-9f40d82c3934#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/panorama/a100-brueckensperrung-in-berlin-kein-chaos-was-ist-da-denn-los](https://www.spiegel.de/panorama/a100-brueckensperrung-in-berlin-kein-chaos-was-ist-da-denn-los-a-03bce3dc-3509-475e-84c5-ae129fc8ab36#ref=rss)
-### chaos
-
-* [https://www.spiegel.de/panorama/a100-brueckensperrung-in-berlin-kein-chaos-was-ist-da-denn-los](https://www.spiegel.de/panorama/a100-brueckensperrung-in-berlin-kein-chaos-was-ist-da-denn-los-a-03bce3dc-3509-475e-84c5-ae129fc8ab36#ref=rss)
-### denn
-
-* [https://www.spiegel.de/panorama/a100-brueckensperrung-in-berlin-kein-chaos-was-ist-da-denn-los](https://www.spiegel.de/panorama/a100-brueckensperrung-in-berlin-kein-chaos-was-ist-da-denn-los-a-03bce3dc-3509-475e-84c5-ae129fc8ab36#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/javier-milei-argentinien-meldet-starken-rueckgang-der-armut](https://www.spiegel.de/wirtschaft/soziales/javier-milei-argentinien-meldet-starken-rueckgang-der-armut-a-b5559923-a3a2-41f5-a174-7713c5ca4fd7#ref=rss)
-### unter
-
-* [https://www.spiegel.de/panorama/australien-schwerste-flut-seit-50-jahren-ueberschwemmt-queensland](https://www.spiegel.de/panorama/australien-schwerste-flut-seit-50-jahren-ueberschwemmt-queensland-a-ea541c43-f262-4083-931f-2ed4c60e77a9#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/angriffe-auf-wissenschaft-offener-brief-gegen-donald-trumps-sparpolitik-in-der-forschung](https://www.spiegel.de/wissenschaft/mensch/angriffe-auf-wissenschaft-offener-brief-gegen-donald-trumps-sparpolitik-in-der-forschung-a-3a90d14d-9bcf-401e-bf80-7924a2bdc0dc#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/panorama/australien-schwerste-flut-seit-50-jahren-ueberschwemmt-queensland](https://www.spiegel.de/panorama/australien-schwerste-flut-seit-50-jahren-ueberschwemmt-queensland-a-ea541c43-f262-4083-931f-2ed4c60e77a9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/gold-zollpolitik-treibt-goldpreis-ueber-3100-dollar](https://www.spiegel.de/wirtschaft/service/gold-zollpolitik-treibt-goldpreis-ueber-3100-dollar-a-0f2006c5-caf5-4f97-9703-89a4b06836ae#ref=rss)
-### rabea
-
-* [https://www.spiegel.de/wissenschaft/weltall/rabea-rogge-erste-astronautin-aus-deutschland-warum-frauen-in-der-raumfahrt-unterrepraesentiert-sind](https://www.spiegel.de/wissenschaft/weltall/rabea-rogge-erste-astronautin-aus-deutschland-warum-frauen-in-der-raumfahrt-unterrepraesentiert-sind-a-d6594488-e08e-4591-bcb0-744f8f58d12e#ref=rss)
-### rogge
-
-* [https://www.spiegel.de/wissenschaft/weltall/rabea-rogge-erste-astronautin-aus-deutschland-warum-frauen-in-der-raumfahrt-unterrepraesentiert-sind](https://www.spiegel.de/wissenschaft/weltall/rabea-rogge-erste-astronautin-aus-deutschland-warum-frauen-in-der-raumfahrt-unterrepraesentiert-sind-a-d6594488-e08e-4591-bcb0-744f8f58d12e#ref=rss)
-### astronautin
-
-* [https://www.spiegel.de/wissenschaft/weltall/rabea-rogge-erste-astronautin-aus-deutschland-warum-frauen-in-der-raumfahrt-unterrepraesentiert-sind](https://www.spiegel.de/wissenschaft/weltall/rabea-rogge-erste-astronautin-aus-deutschland-warum-frauen-in-der-raumfahrt-unterrepraesentiert-sind-a-d6594488-e08e-4591-bcb0-744f8f58d12e#ref=rss)
-### schwere
-
-* [https://www.spiegel.de/panorama/griechenland-schwere-ueberschwemmungen-auf-urlaubsinseln-mykonos-paros-und-chios](https://www.spiegel.de/panorama/griechenland-schwere-ueberschwemmungen-auf-urlaubsinseln-mykonos-paros-und-chios-a-27d6b1ad-8014-42ea-8cc1-4c6b548f7962#ref=rss)
-### verboten
-
-* [https://www.spiegel.de/panorama/griechenland-schwere-ueberschwemmungen-auf-urlaubsinseln-mykonos-paros-und-chios](https://www.spiegel.de/panorama/griechenland-schwere-ueberschwemmungen-auf-urlaubsinseln-mykonos-paros-und-chios-a-27d6b1ad-8014-42ea-8cc1-4c6b548f7962#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/uganda-schmuggel-seltener-galapagos-leguane-aus-ecuador-nimmt-zu](https://www.spiegel.de/wissenschaft/natur/uganda-schmuggel-seltener-galapagos-leguane-aus-ecuador-nimmt-zu-a-28a282fa-2b57-49ba-aab7-68ac373de35e#ref=rss)
-### gerd
-
-* [https://www.spiegel.de/geschichte/gerd-poppe-nachruf-auf-den-ddr-kritiker-und-buergerrechtler-popoffs-letzte-reise](https://www.spiegel.de/geschichte/gerd-poppe-nachruf-auf-den-ddr-kritiker-und-buergerrechtler-popoffs-letzte-reise-a-ace32447-2d40-4b00-a2fc-be012100a505#ref=rss)
-### poppe
-
-* [https://www.spiegel.de/geschichte/gerd-poppe-nachruf-auf-den-ddr-kritiker-und-buergerrechtler-popoffs-letzte-reise](https://www.spiegel.de/geschichte/gerd-poppe-nachruf-auf-den-ddr-kritiker-und-buergerrechtler-popoffs-letzte-reise-a-ace32447-2d40-4b00-a2fc-be012100a505#ref=rss)
-### bürgerrechtler
-
-* [https://www.spiegel.de/geschichte/gerd-poppe-nachruf-auf-den-ddr-kritiker-und-buergerrechtler-popoffs-letzte-reise](https://www.spiegel.de/geschichte/gerd-poppe-nachruf-auf-den-ddr-kritiker-und-buergerrechtler-popoffs-letzte-reise-a-ace32447-2d40-4b00-a2fc-be012100a505#ref=rss)
-### letzte
-
-* [https://www.spiegel.de/geschichte/gerd-poppe-nachruf-auf-den-ddr-kritiker-und-buergerrechtler-popoffs-letzte-reise](https://www.spiegel.de/geschichte/gerd-poppe-nachruf-auf-den-ddr-kritiker-und-buergerrechtler-popoffs-letzte-reise-a-ace32447-2d40-4b00-a2fc-be012100a505#ref=rss)
-### tod
-
-* [https://www.spiegel.de/geschichte/gerd-poppe-nachruf-auf-den-ddr-kritiker-und-buergerrechtler-popoffs-letzte-reise](https://www.spiegel.de/geschichte/gerd-poppe-nachruf-auf-den-ddr-kritiker-und-buergerrechtler-popoffs-letzte-reise-a-ace32447-2d40-4b00-a2fc-be012100a505#ref=rss)
-* [https://www.spiegel.de/sport/eiskunstlaufen-us-star-ilia-malinin-er-tanzt-auf-dem-eis-gegen-seine-trauer-an](https://www.spiegel.de/sport/eiskunstlaufen-us-star-ilia-malinin-er-tanzt-auf-dem-eis-gegen-seine-trauer-an-a-2a972f08-5f5d-405d-8c83-8cbb77ff6aa5#ref=rss)
-### unser
-
-* [https://www.spiegel.de/geschichte/gerd-poppe-nachruf-auf-den-ddr-kritiker-und-buergerrechtler-popoffs-letzte-reise](https://www.spiegel.de/geschichte/gerd-poppe-nachruf-auf-den-ddr-kritiker-und-buergerrechtler-popoffs-letzte-reise-a-ace32447-2d40-4b00-a2fc-be012100a505#ref=rss)
-* [https://www.spiegel.de/backstage/in-eigener-sache-neue-stimmen-fuer-vertonte-artikel](https://www.spiegel.de/backstage/in-eigener-sache-neue-stimmen-fuer-vertonte-artikel-a-f58db9db-e7fd-451f-990b-483f4b37b302#ref=rss)
-### uganda
-
-* [https://www.spiegel.de/wissenschaft/natur/uganda-schmuggel-seltener-galapagos-leguane-aus-ecuador-nimmt-zu](https://www.spiegel.de/wissenschaft/natur/uganda-schmuggel-seltener-galapagos-leguane-aus-ecuador-nimmt-zu-a-28a282fa-2b57-49ba-aab7-68ac373de35e#ref=rss)
-### heraus
-
-* [https://www.spiegel.de/wissenschaft/natur/uganda-schmuggel-seltener-galapagos-leguane-aus-ecuador-nimmt-zu](https://www.spiegel.de/wissenschaft/natur/uganda-schmuggel-seltener-galapagos-leguane-aus-ecuador-nimmt-zu-a-28a282fa-2b57-49ba-aab7-68ac373de35e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/schlafstoerungen-wie-sie-mit-verschwoerungsglauben-zusammenhaengen](https://www.spiegel.de/wissenschaft/mensch/schlafstoerungen-wie-sie-mit-verschwoerungsglauben-zusammenhaengen-a-6f829ea9-f687-41db-911e-075b8f13ddb0#ref=rss)
-### lehrkräfte
-
-* [https://www.spiegel.de/panorama/bildung/gewalt-von-minderjaehrigen-lehrkraefte-sollen-bodycams-bekommen](https://www.spiegel.de/panorama/bildung/gewalt-von-minderjaehrigen-lehrkraefte-sollen-bodycams-bekommen-a-54d5b461-ba99-4393-b0c7-99b48c63f17d#ref=rss)
-### besser
-
-* [https://www.spiegel.de/panorama/bildung/gewalt-von-minderjaehrigen-lehrkraefte-sollen-bodycams-bekommen](https://www.spiegel.de/panorama/bildung/gewalt-von-minderjaehrigen-lehrkraefte-sollen-bodycams-bekommen-a-54d5b461-ba99-4393-b0c7-99b48c63f17d#ref=rss)
-* [https://www.spiegel.de/backstage/in-eigener-sache-neue-stimmen-fuer-vertonte-artikel](https://www.spiegel.de/backstage/in-eigener-sache-neue-stimmen-fuer-vertonte-artikel-a-f58db9db-e7fd-451f-990b-483f4b37b302#ref=rss)
-### ermittler
-
-* [https://www.spiegel.de/panorama/justiz/dietenheim-ulm-dieselbe-bank-zweimal-ueberfallen-42-jaehriger-angeklagt](https://www.spiegel.de/panorama/justiz/dietenheim-ulm-dieselbe-bank-zweimal-ueberfallen-42-jaehriger-angeklagt-a-59e21343-aab5-4741-bd15-d9633220fafa#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mafia-in-deutschland-festnahmen-bei-razzia-in-vier-bundeslaendern](https://www.spiegel.de/panorama/justiz/mafia-in-deutschland-festnahmen-bei-razzia-in-vier-bundeslaendern-a-91cbf9e2-780f-47ab-8e44-ccfb02460446#ref=rss)
-### zufolge
-
-* [https://www.spiegel.de/wissenschaft/mensch/schlafstoerungen-wie-sie-mit-verschwoerungsglauben-zusammenhaengen](https://www.spiegel.de/wissenschaft/mensch/schlafstoerungen-wie-sie-mit-verschwoerungsglauben-zusammenhaengen-a-6f829ea9-f687-41db-911e-075b8f13ddb0#ref=rss)
-* [https://www.spiegel.de/auto/xiaomi-chinesisches-unternehmen-will-nach-toedlichem-unfall-nach-fahrassistent-alarm-mit-polizei-kooperieren](https://www.spiegel.de/auto/xiaomi-chinesisches-unternehmen-will-nach-toedlichem-unfall-nach-fahrassistent-alarm-mit-polizei-kooperieren-a-f07eba02-d60d-4557-b0a7-62bfe676992e#ref=rss)
-### gold
-
-* [https://www.spiegel.de/wirtschaft/service/gold-zollpolitik-treibt-goldpreis-ueber-3100-dollar](https://www.spiegel.de/wirtschaft/service/gold-zollpolitik-treibt-goldpreis-ueber-3100-dollar-a-0f2006c5-caf5-4f97-9703-89a4b06836ae#ref=rss)
-### zollpolitik
-
-* [https://www.spiegel.de/wirtschaft/service/gold-zollpolitik-treibt-goldpreis-ueber-3100-dollar](https://www.spiegel.de/wirtschaft/service/gold-zollpolitik-treibt-goldpreis-ueber-3100-dollar-a-0f2006c5-caf5-4f97-9703-89a4b06836ae#ref=rss)
-### treibt
-
-* [https://www.spiegel.de/wirtschaft/service/gold-zollpolitik-treibt-goldpreis-ueber-3100-dollar](https://www.spiegel.de/wirtschaft/service/gold-zollpolitik-treibt-goldpreis-ueber-3100-dollar-a-0f2006c5-caf5-4f97-9703-89a4b06836ae#ref=rss)
-### 3100
-
-* [https://www.spiegel.de/wirtschaft/service/gold-zollpolitik-treibt-goldpreis-ueber-3100-dollar](https://www.spiegel.de/wirtschaft/service/gold-zollpolitik-treibt-goldpreis-ueber-3100-dollar-a-0f2006c5-caf5-4f97-9703-89a4b06836ae#ref=rss)
-### dollar
-
-* [https://www.spiegel.de/wirtschaft/service/gold-zollpolitik-treibt-goldpreis-ueber-3100-dollar](https://www.spiegel.de/wirtschaft/service/gold-zollpolitik-treibt-goldpreis-ueber-3100-dollar-a-0f2006c5-caf5-4f97-9703-89a4b06836ae#ref=rss)
-* [https://www.spiegel.de/netzwelt/openai-sammelt-40-milliarden-dollar-ein](https://www.spiegel.de/netzwelt/openai-sammelt-40-milliarden-dollar-ein-a-32f9af4e-bd06-4aca-af73-f4c297ea244e#ref=rss)
-### steigen
-
-* [https://www.spiegel.de/wirtschaft/service/gold-zollpolitik-treibt-goldpreis-ueber-3100-dollar](https://www.spiegel.de/wirtschaft/service/gold-zollpolitik-treibt-goldpreis-ueber-3100-dollar-a-0f2006c5-caf5-4f97-9703-89a4b06836ae#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/kommunen-rekorddefizit-durch-hohe-sozialausgaben-gemeldet](https://www.spiegel.de/wirtschaft/unternehmen/kommunen-rekorddefizit-durch-hohe-sozialausgaben-gemeldet-a-1c5cc8ab-9b51-4fb1-875c-9f40d82c3934#ref=rss)
-### klimabericht
-
-* [https://www.spiegel.de/wissenschaft/natur/klimabericht-des-dwd-fuer-2024-so-hart-trifft-deutschland-die-klimakrise](https://www.spiegel.de/wissenschaft/natur/klimabericht-des-dwd-fuer-2024-so-hart-trifft-deutschland-die-klimakrise-a-f6d5759b-dddb-4b12-8085-ea2bbe831996#ref=rss)
-### dwd
-
-* [https://www.spiegel.de/wissenschaft/natur/klimabericht-des-dwd-fuer-2024-so-hart-trifft-deutschland-die-klimakrise](https://www.spiegel.de/wissenschaft/natur/klimabericht-des-dwd-fuer-2024-so-hart-trifft-deutschland-die-klimakrise-a-f6d5759b-dddb-4b12-8085-ea2bbe831996#ref=rss)
 ### neue
 
-* [https://www.spiegel.de/backstage/in-eigener-sache-neue-stimmen-fuer-vertonte-artikel](https://www.spiegel.de/backstage/in-eigener-sache-neue-stimmen-fuer-vertonte-artikel-a-f58db9db-e7fd-451f-990b-483f4b37b302#ref=rss)
-* [https://www.spiegel.de/netzwelt/openai-sammelt-40-milliarden-dollar-ein](https://www.spiegel.de/netzwelt/openai-sammelt-40-milliarden-dollar-ein-a-32f9af4e-bd06-4aca-af73-f4c297ea244e#ref=rss)
-### stimmen
+* [https://www.spiegel.de/kultur/tv/netflix-amazon-prime-disney-neue-serien-und-filme-im-april-2025-was-sich-jetzt-lohnt](https://www.spiegel.de/kultur/tv/netflix-amazon-prime-disney-neue-serien-und-filme-im-april-2025-was-sich-jetzt-lohnt-a-f3104062-f147-4d25-b6e3-3c2d27d49bf3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon](https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-a-16e392a9-3b4a-4d48-ba3a-175d1b0d30d7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-podcast](https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-podcast-a-24fa5a74-c3cb-4a35-a0e8-713ff8536a7c#ref=rss)
+* [https://www.spiegel.de/ausland/korruptionsskandal-in-israel-wie-gefaehrlich-wird-katargate-fuer-benjamin-netanyahu](https://www.spiegel.de/ausland/korruptionsskandal-in-israel-wie-gefaehrlich-wird-katargate-fuer-benjamin-netanyahu-a-40cfd94a-51b1-45b8-92ba-59d88207913c#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/whatsapp-und-meta-ai-wo-kommt-der-kreis-her-und-taugt-das-feature-etwas](https://www.spiegel.de/netzwelt/apps/whatsapp-und-meta-ai-wo-kommt-der-kreis-her-und-taugt-das-feature-etwas-a-233d9e63-8df5-44ba-a256-d388ee4f6e98#ref=rss)
+### tiktok
 
-* [https://www.spiegel.de/backstage/in-eigener-sache-neue-stimmen-fuer-vertonte-artikel](https://www.spiegel.de/backstage/in-eigener-sache-neue-stimmen-fuer-vertonte-artikel-a-f58db9db-e7fd-451f-990b-483f4b37b302#ref=rss)
-### wir
+* [https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon](https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-a-16e392a9-3b4a-4d48-ba3a-175d1b0d30d7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-podcast](https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-podcast-a-24fa5a74-c3cb-4a35-a0e8-713ff8536a7c#ref=rss)
+* [https://www.spiegel.de/panorama/leute/hailey-bieber-entfolgt-justin-scheinbar-auf-instagram-und-tiktok-explodiert](https://www.spiegel.de/panorama/leute/hailey-bieber-entfolgt-justin-scheinbar-auf-instagram-und-tiktok-explodiert-a-f46e76e7-50bd-4626-83b7-d8a1dec5d1b8#ref=rss)
+### usa
 
-* [https://www.spiegel.de/backstage/in-eigener-sache-neue-stimmen-fuer-vertonte-artikel](https://www.spiegel.de/backstage/in-eigener-sache-neue-stimmen-fuer-vertonte-artikel-a-f58db9db-e7fd-451f-990b-483f4b37b302#ref=rss)
-* [https://www.spiegel.de/wirtschaft/us-zoelle-ursula-von-der-leyen-kuendigt-europaeische-antwort-auf-donald-trumps-massnahmen-an](https://www.spiegel.de/wirtschaft/us-zoelle-ursula-von-der-leyen-kuendigt-europaeische-antwort-auf-donald-trumps-massnahmen-an-a-84034618-ab73-414d-af37-8e42c0a5cc45#ref=rss)
-### neuer
+* [https://www.spiegel.de/ausland/abschiebung-aus-den-usa-mann-landet-wegen-verwaltungsfehlers-in-knast-in-el-salvador](https://www.spiegel.de/ausland/abschiebung-aus-den-usa-mann-landet-wegen-verwaltungsfehlers-in-knast-in-el-salvador-a-c7869290-f62f-45b0-91fb-9b2cea192c39#ref=rss)
+* [https://www.spiegel.de/ausland/usa-us-justizministerin-will-die-todesstrafe-fuer-luigi-mangione](https://www.spiegel.de/ausland/usa-us-justizministerin-will-die-todesstrafe-fuer-luigi-mangione-a-d0a5ad9a-44c3-4eef-9e24-3f9f053df200#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-mls-setzt-offenbar-lionel-messis-bodyguard-grenzen](https://www.spiegel.de/sport/fussball/fussball-mls-setzt-offenbar-lionel-messis-bodyguard-grenzen-a-6572b86d-8387-4da1-8f74-3f395baece9a#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/backstage/in-eigener-sache-neue-stimmen-fuer-vertonte-artikel](https://www.spiegel.de/backstage/in-eigener-sache-neue-stimmen-fuer-vertonte-artikel-a-f58db9db-e7fd-451f-990b-483f4b37b302#ref=rss)
-* [https://www.spiegel.de/ausland/israel-benjamin-netanyahu-entlaesst-neu-ernannten-geheimdienstchef-eli-sharvit](https://www.spiegel.de/ausland/israel-benjamin-netanyahu-entlaesst-neu-ernannten-geheimdienstchef-eli-sharvit-a-e008ee2f-8634-4c64-81ff-936a98274558#ref=rss)
-### kommunen
+* [https://www.spiegel.de/kultur/tv/netflix-hit-adolescence-hier-kann-selbst-die-kamera-nicht-wegschauen](https://www.spiegel.de/kultur/tv/netflix-hit-adolescence-hier-kann-selbst-die-kamera-nicht-wegschauen-a-0b069e99-924f-498f-92bb-9af7f07d943e#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-mls-setzt-offenbar-lionel-messis-bodyguard-grenzen](https://www.spiegel.de/sport/fussball/fussball-mls-setzt-offenbar-lionel-messis-bodyguard-grenzen-a-6572b86d-8387-4da1-8f74-3f395baece9a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gesetzliche-krankenkassen-noch-mehr-beitragserhoehungen](https://www.spiegel.de/wirtschaft/gesetzliche-krankenkassen-noch-mehr-beitragserhoehungen-a-b46f284d-edee-4d38-a22c-58f9ceffeccb#ref=rss)
+* [https://www.spiegel.de/panorama/klimawandel-indien-droht-ein-extrem-heisser-sommer-mal-wieder](https://www.spiegel.de/panorama/klimawandel-indien-droht-ein-extrem-heisser-sommer-mal-wieder-a-84f70a5b-b241-40a5-b310-2bda5674a093#ref=rss)
+### viele
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/kommunen-rekorddefizit-durch-hohe-sozialausgaben-gemeldet](https://www.spiegel.de/wirtschaft/unternehmen/kommunen-rekorddefizit-durch-hohe-sozialausgaben-gemeldet-a-1c5cc8ab-9b51-4fb1-875c-9f40d82c3934#ref=rss)
-### milliarden
+* [https://www.spiegel.de/wirtschaft/unternehmen/vw-bmw-renault-und-co-eu-verhaengt-458-millionen-strafe-gegen-autobauer](https://www.spiegel.de/wirtschaft/unternehmen/vw-bmw-renault-und-co-eu-verhaengt-458-millionen-strafe-gegen-autobauer-a-341dad0c-60ee-42cb-b14f-9051fbc7f934#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/landgericht-berlin-urteilt-gegen-vater-kein-recht-auf-familienstartzeit](https://www.spiegel.de/panorama/gesellschaft/landgericht-berlin-urteilt-gegen-vater-kein-recht-auf-familienstartzeit-a-615363a0-edd8-44e6-9325-5ea7b98d809a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gesetzliche-krankenkassen-noch-mehr-beitragserhoehungen](https://www.spiegel.de/wirtschaft/gesetzliche-krankenkassen-noch-mehr-beitragserhoehungen-a-b46f284d-edee-4d38-a22c-58f9ceffeccb#ref=rss)
+* [https://www.spiegel.de/panorama/klimawandel-indien-droht-ein-extrem-heisser-sommer-mal-wieder](https://www.spiegel.de/panorama/klimawandel-indien-droht-ein-extrem-heisser-sommer-mal-wieder-a-84f70a5b-b241-40a5-b310-2bda5674a093#ref=rss)
+### waren
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/kommunen-rekorddefizit-durch-hohe-sozialausgaben-gemeldet](https://www.spiegel.de/wirtschaft/unternehmen/kommunen-rekorddefizit-durch-hohe-sozialausgaben-gemeldet-a-1c5cc8ab-9b51-4fb1-875c-9f40d82c3934#ref=rss)
-* [https://www.spiegel.de/netzwelt/openai-sammelt-40-milliarden-dollar-ein](https://www.spiegel.de/netzwelt/openai-sammelt-40-milliarden-dollar-ein-a-32f9af4e-bd06-4aca-af73-f4c297ea244e#ref=rss)
-### xiaomi
+* [https://www.spiegel.de/wirtschaft/gesetzliche-krankenkassen-noch-mehr-beitragserhoehungen](https://www.spiegel.de/wirtschaft/gesetzliche-krankenkassen-noch-mehr-beitragserhoehungen-a-b46f284d-edee-4d38-a22c-58f9ceffeccb#ref=rss)
+* [https://www.spiegel.de/kultur/beatles-verfilmungen-mr-paul-mccartney-weisst-du-wie-ich-leide](https://www.spiegel.de/kultur/beatles-verfilmungen-mr-paul-mccartney-weisst-du-wie-ich-leide-a-3b6f7f7d-c8ca-4183-980d-c1d6022724b4#ref=rss)
+* [https://www.spiegel.de/panorama/guenther-felssner-veterinaeramt-stellt-maengel-im-stall-von-beinahe-landwirtschaftsminister-fest](https://www.spiegel.de/panorama/guenther-felssner-veterinaeramt-stellt-maengel-im-stall-von-beinahe-landwirtschaftsminister-fest-a-2e20013c-8cd2-482d-bc1c-81d98bd4c290#ref=rss)
+### sommer
 
-* [https://www.spiegel.de/auto/xiaomi-chinesisches-unternehmen-will-nach-toedlichem-unfall-nach-fahrassistent-alarm-mit-polizei-kooperieren](https://www.spiegel.de/auto/xiaomi-chinesisches-unternehmen-will-nach-toedlichem-unfall-nach-fahrassistent-alarm-mit-polizei-kooperieren-a-f07eba02-d60d-4557-b0a7-62bfe676992e#ref=rss)
-### leyen
+* [https://www.spiegel.de/panorama/klimawandel-indien-droht-ein-extrem-heisser-sommer-mal-wieder](https://www.spiegel.de/panorama/klimawandel-indien-droht-ein-extrem-heisser-sommer-mal-wieder-a-84f70a5b-b241-40a5-b310-2bda5674a093#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/hans-eckhard-sommer-spd-vertreter-kritisieren-bamf-praesidenten-scharf-gruene-und-linke-fordern-ruecktritt](https://www.spiegel.de/politik/deutschland/hans-eckhard-sommer-spd-vertreter-kritisieren-bamf-praesidenten-scharf-gruene-und-linke-fordern-ruecktritt-a-537c7a68-5150-4e71-b7b8-bf75243f99f3#ref=rss)
+### amazon
 
-* [https://www.spiegel.de/wirtschaft/us-zoelle-ursula-von-der-leyen-kuendigt-europaeische-antwort-auf-donald-trumps-massnahmen-an](https://www.spiegel.de/wirtschaft/us-zoelle-ursula-von-der-leyen-kuendigt-europaeische-antwort-auf-donald-trumps-massnahmen-an-a-84034618-ab73-414d-af37-8e42c0a5cc45#ref=rss)
-### kraft
+* [https://www.spiegel.de/kultur/tv/netflix-amazon-prime-disney-neue-serien-und-filme-im-april-2025-was-sich-jetzt-lohnt](https://www.spiegel.de/kultur/tv/netflix-amazon-prime-disney-neue-serien-und-filme-im-april-2025-was-sich-jetzt-lohnt-a-f3104062-f147-4d25-b6e3-3c2d27d49bf3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon](https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-a-16e392a9-3b4a-4d48-ba3a-175d1b0d30d7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-podcast](https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-podcast-a-24fa5a74-c3cb-4a35-a0e8-713ff8536a7c#ref=rss)
+### erste
 
-* [https://www.spiegel.de/wirtschaft/us-zoelle-ursula-von-der-leyen-kuendigt-europaeische-antwort-auf-donald-trumps-massnahmen-an](https://www.spiegel.de/wirtschaft/us-zoelle-ursula-von-der-leyen-kuendigt-europaeische-antwort-auf-donald-trumps-massnahmen-an-a-84034618-ab73-414d-af37-8e42c0a5cc45#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cannabis-koalitionsverhandlungen-gefaehrden-drogenpolitische-zeitenwende](https://www.spiegel.de/politik/deutschland/cannabis-koalitionsverhandlungen-gefaehrden-drogenpolitische-zeitenwende-a-a5c43ae1-47ae-4670-8f35-7cd9814e0505#ref=rss)
-### weilburg
+* [https://www.spiegel.de/kultur/tv/netflix-amazon-prime-disney-neue-serien-und-filme-im-april-2025-was-sich-jetzt-lohnt](https://www.spiegel.de/kultur/tv/netflix-amazon-prime-disney-neue-serien-und-filme-im-april-2025-was-sich-jetzt-lohnt-a-f3104062-f147-4d25-b6e3-3c2d27d49bf3#ref=rss)
+* [https://www.spiegel.de/sport/fussball/vfl-wolfsburg-trainer-tommy-stroot-tritt-ueberraschend-zurueck](https://www.spiegel.de/sport/fussball/vfl-wolfsburg-trainer-tommy-stroot-tritt-ueberraschend-zurueck-a-648328d0-1686-4d0e-ab67-e3aa817be709#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-raumfahrt-rabea-rogge-klimakrise-in-deutschland-tiere-an-der-russischen-front](https://www.spiegel.de/politik/deutschland/news-des-tages-raumfahrt-rabea-rogge-klimakrise-in-deutschland-tiere-an-der-russischen-front-a-5b9d11f9-8ec4-4bc8-967a-969014a26394#ref=rss)
+### deutscher
 
-* [https://www.spiegel.de/panorama/weilburg-vermisster-sechsjaehriger-in-hessen-auch-die-luftwaffe-sucht-jetzt-nach-pawlos](https://www.spiegel.de/panorama/weilburg-vermisster-sechsjaehriger-in-hessen-auch-die-luftwaffe-sucht-jetzt-nach-pawlos-a-3ba4a7f3-bd6f-432e-bd1e-c0408db801f8#ref=rss)
-### pawlos
+* [https://www.spiegel.de/kultur/tv/netflix-amazon-prime-disney-neue-serien-und-filme-im-april-2025-was-sich-jetzt-lohnt](https://www.spiegel.de/kultur/tv/netflix-amazon-prime-disney-neue-serien-und-filme-im-april-2025-was-sich-jetzt-lohnt-a-f3104062-f147-4d25-b6e3-3c2d27d49bf3#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/mafia-razzia-deutscher-polizist-festgenommen](https://www.spiegel.de/panorama/justiz/mafia-razzia-deutscher-polizist-festgenommen-a-f3e8777d-7a0a-4295-bee2-42620a239712#ref=rss)
+### steckt
 
-* [https://www.spiegel.de/panorama/weilburg-vermisster-sechsjaehriger-in-hessen-auch-die-luftwaffe-sucht-jetzt-nach-pawlos](https://www.spiegel.de/panorama/weilburg-vermisster-sechsjaehriger-in-hessen-auch-die-luftwaffe-sucht-jetzt-nach-pawlos-a-3ba4a7f3-bd6f-432e-bd1e-c0408db801f8#ref=rss)
-### ministerpräsident
+* [https://www.spiegel.de/ausland/trumps-amerika-steckt-system-hinter-dem-chaos-der-us-regierung-podcast](https://www.spiegel.de/ausland/trumps-amerika-steckt-system-hinter-dem-chaos-der-us-regierung-podcast-a-ec4fe55f-14f7-4cb9-95f7-afb859eb49df#ref=rss)
+* [https://www.spiegel.de/kultur/tv/netflix-hit-adolescence-hier-kann-selbst-die-kamera-nicht-wegschauen](https://www.spiegel.de/kultur/tv/netflix-hit-adolescence-hier-kann-selbst-die-kamera-nicht-wegschauen-a-0b069e99-924f-498f-92bb-9af7f07d943e#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/whatsapp-und-meta-ai-wo-kommt-der-kreis-her-und-taugt-das-feature-etwas](https://www.spiegel.de/netzwelt/apps/whatsapp-und-meta-ai-wo-kommt-der-kreis-her-und-taugt-das-feature-etwas-a-233d9e63-8df5-44ba-a256-d388ee4f6e98#ref=rss)
+### mann
 
-* [https://www.spiegel.de/politik/deutschland/nachfolger-von-ministerpraesident-stephan-weil-in-niedersachsen-wer-ist-olaf-lies](https://www.spiegel.de/politik/deutschland/nachfolger-von-ministerpraesident-stephan-weil-in-niedersachsen-wer-ist-olaf-lies-a-2796dcda-8995-405e-bd48-eacfa0101890#ref=rss)
-### olaf
+* [https://www.spiegel.de/ausland/abschiebung-aus-den-usa-mann-landet-wegen-verwaltungsfehlers-in-knast-in-el-salvador](https://www.spiegel.de/ausland/abschiebung-aus-den-usa-mann-landet-wegen-verwaltungsfehlers-in-knast-in-el-salvador-a-c7869290-f62f-45b0-91fb-9b2cea192c39#ref=rss)
+* [https://www.spiegel.de/panorama/leute/hailey-bieber-entfolgt-justin-scheinbar-auf-instagram-und-tiktok-explodiert](https://www.spiegel.de/panorama/leute/hailey-bieber-entfolgt-justin-scheinbar-auf-instagram-und-tiktok-explodiert-a-f46e76e7-50bd-4626-83b7-d8a1dec5d1b8#ref=rss)
+### fordern
 
-* [https://www.spiegel.de/politik/deutschland/nachfolger-von-ministerpraesident-stephan-weil-in-niedersachsen-wer-ist-olaf-lies](https://www.spiegel.de/politik/deutschland/nachfolger-von-ministerpraesident-stephan-weil-in-niedersachsen-wer-ist-olaf-lies-a-2796dcda-8995-405e-bd48-eacfa0101890#ref=rss)
-### lies
+* [https://www.spiegel.de/ausland/usa-us-justizministerin-will-die-todesstrafe-fuer-luigi-mangione](https://www.spiegel.de/ausland/usa-us-justizministerin-will-die-todesstrafe-fuer-luigi-mangione-a-d0a5ad9a-44c3-4eef-9e24-3f9f053df200#ref=rss)
+* [https://www.spiegel.de/panorama/klimawandel-indien-droht-ein-extrem-heisser-sommer-mal-wieder](https://www.spiegel.de/panorama/klimawandel-indien-droht-ein-extrem-heisser-sommer-mal-wieder-a-84f70a5b-b241-40a5-b310-2bda5674a093#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/hans-eckhard-sommer-spd-vertreter-kritisieren-bamf-praesidenten-scharf-gruene-und-linke-fordern-ruecktritt](https://www.spiegel.de/politik/deutschland/hans-eckhard-sommer-spd-vertreter-kritisieren-bamf-praesidenten-scharf-gruene-und-linke-fordern-ruecktritt-a-537c7a68-5150-4e71-b7b8-bf75243f99f3#ref=rss)
+### hailey
 
-* [https://www.spiegel.de/politik/deutschland/nachfolger-von-ministerpraesident-stephan-weil-in-niedersachsen-wer-ist-olaf-lies](https://www.spiegel.de/politik/deutschland/nachfolger-von-ministerpraesident-stephan-weil-in-niedersachsen-wer-ist-olaf-lies-a-2796dcda-8995-405e-bd48-eacfa0101890#ref=rss)
+* [https://www.spiegel.de/panorama/leute/hailey-bieber-entfolgt-justin-scheinbar-auf-instagram-und-tiktok-explodiert](https://www.spiegel.de/panorama/leute/hailey-bieber-entfolgt-justin-scheinbar-auf-instagram-und-tiktok-explodiert-a-f46e76e7-50bd-4626-83b7-d8a1dec5d1b8#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-raumfahrt-rabea-rogge-klimakrise-in-deutschland-tiere-an-der-russischen-front](https://www.spiegel.de/politik/deutschland/news-des-tages-raumfahrt-rabea-rogge-klimakrise-in-deutschland-tiere-an-der-russischen-front-a-5b9d11f9-8ec4-4bc8-967a-969014a26394#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/mafia-razzia-deutscher-polizist-festgenommen](https://www.spiegel.de/panorama/justiz/mafia-razzia-deutscher-polizist-festgenommen-a-f3e8777d-7a0a-4295-bee2-42620a239712#ref=rss)
+### frau
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-raumfahrt-rabea-rogge-klimakrise-in-deutschland-tiere-an-der-russischen-front](https://www.spiegel.de/politik/deutschland/news-des-tages-raumfahrt-rabea-rogge-klimakrise-in-deutschland-tiere-an-der-russischen-front-a-5b9d11f9-8ec4-4bc8-967a-969014a26394#ref=rss)
+* [https://www.spiegel.de/ausland/myanmar-rettungskraefte-bergen-frau-vier-tage-nach-erdbeben-lebend-aus-truemmern](https://www.spiegel.de/ausland/myanmar-rettungskraefte-bergen-frau-vier-tage-nach-erdbeben-lebend-aus-truemmern-a-a6e3e08a-a693-41e2-88ff-93369ab642a3#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/achim-bei-bremen-polizei-nimmt-nach-fund-von-totem-saeugling-frau-fest](https://www.spiegel.de/panorama/justiz/achim-bei-bremen-polizei-nimmt-nach-fund-von-totem-saeugling-frau-fest-a-7e24a7c7-ceea-47a9-956f-960977f205cc#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/wirtschaft/gesetzliche-krankenkassen-noch-mehr-beitragserhoehungen](https://www.spiegel.de/wirtschaft/gesetzliche-krankenkassen-noch-mehr-beitragserhoehungen-a-b46f284d-edee-4d38-a22c-58f9ceffeccb#ref=rss)
+* [https://www.spiegel.de/panorama/klimawandel-indien-droht-ein-extrem-heisser-sommer-mal-wieder](https://www.spiegel.de/panorama/klimawandel-indien-droht-ein-extrem-heisser-sommer-mal-wieder-a-84f70a5b-b241-40a5-b310-2bda5674a093#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/mafia-razzia-deutscher-polizist-festgenommen](https://www.spiegel.de/panorama/justiz/mafia-razzia-deutscher-polizist-festgenommen-a-f3e8777d-7a0a-4295-bee2-42620a239712#ref=rss)
+### machtdemonstration
+
+* [https://www.spiegel.de/ausland/taiwan-china-konflikt-chinas-militaeruebung-als-machtdemonstration-vor-taiwans-kueste](https://www.spiegel.de/ausland/taiwan-china-konflikt-chinas-militaeruebung-als-machtdemonstration-vor-taiwans-kueste-a-7aeec495-658d-4ffe-920f-4b8c20b6b7dc#ref=rss)
+### taiwans
+
+* [https://www.spiegel.de/ausland/taiwan-china-konflikt-chinas-militaeruebung-als-machtdemonstration-vor-taiwans-kueste](https://www.spiegel.de/ausland/taiwan-china-konflikt-chinas-militaeruebung-als-machtdemonstration-vor-taiwans-kueste-a-7aeec495-658d-4ffe-920f-4b8c20b6b7dc#ref=rss)
+### küste
+
+* [https://www.spiegel.de/ausland/taiwan-china-konflikt-chinas-militaeruebung-als-machtdemonstration-vor-taiwans-kueste](https://www.spiegel.de/ausland/taiwan-china-konflikt-chinas-militaeruebung-als-machtdemonstration-vor-taiwans-kueste-a-7aeec495-658d-4ffe-920f-4b8c20b6b7dc#ref=rss)
+### propagandavideo
+
+* [https://www.spiegel.de/ausland/taiwan-china-konflikt-chinas-militaeruebung-als-machtdemonstration-vor-taiwans-kueste](https://www.spiegel.de/ausland/taiwan-china-konflikt-chinas-militaeruebung-als-machtdemonstration-vor-taiwans-kueste-a-7aeec495-658d-4ffe-920f-4b8c20b6b7dc#ref=rss)
+* [https://www.spiegel.de/ausland/china-probt-schon-wieder-den-krieg-gegen-taiwan](https://www.spiegel.de/ausland/china-probt-schon-wieder-den-krieg-gegen-taiwan-a-0b306d4d-5639-49d0-a92f-a9210aaa43ff#ref=rss)
+### china
+
+* [https://www.spiegel.de/ausland/china-probt-schon-wieder-den-krieg-gegen-taiwan](https://www.spiegel.de/ausland/china-probt-schon-wieder-den-krieg-gegen-taiwan-a-0b306d4d-5639-49d0-a92f-a9210aaa43ff#ref=rss)
+### krieg
+
+* [https://www.spiegel.de/ausland/china-probt-schon-wieder-den-krieg-gegen-taiwan](https://www.spiegel.de/ausland/china-probt-schon-wieder-den-krieg-gegen-taiwan-a-0b306d4d-5639-49d0-a92f-a9210aaa43ff#ref=rss)
+* [https://www.spiegel.de/ausland/myanmar-rettungskraefte-bergen-frau-vier-tage-nach-erdbeben-lebend-aus-truemmern](https://www.spiegel.de/ausland/myanmar-rettungskraefte-bergen-frau-vier-tage-nach-erdbeben-lebend-aus-truemmern-a-a6e3e08a-a693-41e2-88ff-93369ab642a3#ref=rss)
+### taiwan
+
+* [https://www.spiegel.de/ausland/china-probt-schon-wieder-den-krieg-gegen-taiwan](https://www.spiegel.de/ausland/china-probt-schon-wieder-den-krieg-gegen-taiwan-a-0b306d4d-5639-49d0-a92f-a9210aaa43ff#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/ausland/china-probt-schon-wieder-den-krieg-gegen-taiwan](https://www.spiegel.de/ausland/china-probt-schon-wieder-den-krieg-gegen-taiwan-a-0b306d4d-5639-49d0-a92f-a9210aaa43ff#ref=rss)
+* [https://www.spiegel.de/panorama/klimawandel-indien-droht-ein-extrem-heisser-sommer-mal-wieder](https://www.spiegel.de/panorama/klimawandel-indien-droht-ein-extrem-heisser-sommer-mal-wieder-a-84f70a5b-b241-40a5-b310-2bda5674a093#ref=rss)
+### stellt
+
+* [https://www.spiegel.de/ausland/china-probt-schon-wieder-den-krieg-gegen-taiwan](https://www.spiegel.de/ausland/china-probt-schon-wieder-den-krieg-gegen-taiwan-a-0b306d4d-5639-49d0-a92f-a9210aaa43ff#ref=rss)
+* [https://www.spiegel.de/panorama/guenther-felssner-veterinaeramt-stellt-maengel-im-stall-von-beinahe-landwirtschaftsminister-fest](https://www.spiegel.de/panorama/guenther-felssner-veterinaeramt-stellt-maengel-im-stall-von-beinahe-landwirtschaftsminister-fest-a-2e20013c-8cd2-482d-bc1c-81d98bd4c290#ref=rss)
+### serien
+
+* [https://www.spiegel.de/kultur/tv/netflix-amazon-prime-disney-neue-serien-und-filme-im-april-2025-was-sich-jetzt-lohnt](https://www.spiegel.de/kultur/tv/netflix-amazon-prime-disney-neue-serien-und-filme-im-april-2025-was-sich-jetzt-lohnt-a-f3104062-f147-4d25-b6e3-3c2d27d49bf3#ref=rss)
+* [https://www.spiegel.de/kultur/tv/netflix-hit-adolescence-hier-kann-selbst-die-kamera-nicht-wegschauen](https://www.spiegel.de/kultur/tv/netflix-hit-adolescence-hier-kann-selbst-die-kamera-nicht-wegschauen-a-0b069e99-924f-498f-92bb-9af7f07d943e#ref=rss)
+### welt
+
+* [https://www.spiegel.de/kultur/tv/netflix-amazon-prime-disney-neue-serien-und-filme-im-april-2025-was-sich-jetzt-lohnt](https://www.spiegel.de/kultur/tv/netflix-amazon-prime-disney-neue-serien-und-filme-im-april-2025-was-sich-jetzt-lohnt-a-f3104062-f147-4d25-b6e3-3c2d27d49bf3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-raumfahrt-rabea-rogge-klimakrise-in-deutschland-tiere-an-der-russischen-front](https://www.spiegel.de/politik/deutschland/news-des-tages-raumfahrt-rabea-rogge-klimakrise-in-deutschland-tiere-an-der-russischen-front-a-5b9d11f9-8ec4-4bc8-967a-969014a26394#ref=rss)
+### litauen
+
+* [https://www.spiegel.de/ausland/us-armee-vierter-soldat-in-litauen-tot-aufgefunden](https://www.spiegel.de/ausland/us-armee-vierter-soldat-in-litauen-tot-aufgefunden-a-3fa001d4-3e35-4970-98a5-f10a8b835eb4#ref=rss)
+### vermissten
+
+* [https://www.spiegel.de/ausland/us-armee-vierter-soldat-in-litauen-tot-aufgefunden](https://www.spiegel.de/ausland/us-armee-vierter-soldat-in-litauen-tot-aufgefunden-a-3fa001d4-3e35-4970-98a5-f10a8b835eb4#ref=rss)
+* [https://www.spiegel.de/ausland/myanmar-rettungskraefte-bergen-frau-vier-tage-nach-erdbeben-lebend-aus-truemmern](https://www.spiegel.de/ausland/myanmar-rettungskraefte-bergen-frau-vier-tage-nach-erdbeben-lebend-aus-truemmern-a-a6e3e08a-a693-41e2-88ff-93369ab642a3#ref=rss)
+### rettungskräfte
+
+* [https://www.spiegel.de/ausland/us-armee-vierter-soldat-in-litauen-tot-aufgefunden](https://www.spiegel.de/ausland/us-armee-vierter-soldat-in-litauen-tot-aufgefunden-a-3fa001d4-3e35-4970-98a5-f10a8b835eb4#ref=rss)
+* [https://www.spiegel.de/ausland/myanmar-rettungskraefte-bergen-frau-vier-tage-nach-erdbeben-lebend-aus-truemmern](https://www.spiegel.de/ausland/myanmar-rettungskraefte-bergen-frau-vier-tage-nach-erdbeben-lebend-aus-truemmern-a-a6e3e08a-a693-41e2-88ff-93369ab642a3#ref=rss)
+### trumps
+
+* [https://www.spiegel.de/ausland/trumps-amerika-steckt-system-hinter-dem-chaos-der-us-regierung-podcast](https://www.spiegel.de/ausland/trumps-amerika-steckt-system-hinter-dem-chaos-der-us-regierung-podcast-a-ec4fe55f-14f7-4cb9-95f7-afb859eb49df#ref=rss)
+* [https://www.spiegel.de/ausland/usa-us-justizministerin-will-die-todesstrafe-fuer-luigi-mangione](https://www.spiegel.de/ausland/usa-us-justizministerin-will-die-todesstrafe-fuer-luigi-mangione-a-d0a5ad9a-44c3-4eef-9e24-3f9f053df200#ref=rss)
+### usregierung
+
+* [https://www.spiegel.de/ausland/trumps-amerika-steckt-system-hinter-dem-chaos-der-us-regierung-podcast](https://www.spiegel.de/ausland/trumps-amerika-steckt-system-hinter-dem-chaos-der-us-regierung-podcast-a-ec4fe55f-14f7-4cb9-95f7-afb859eb49df#ref=rss)
+* [https://www.spiegel.de/ausland/abschiebung-aus-den-usa-mann-landet-wegen-verwaltungsfehlers-in-knast-in-el-salvador](https://www.spiegel.de/ausland/abschiebung-aus-den-usa-mann-landet-wegen-verwaltungsfehlers-in-knast-in-el-salvador-a-c7869290-f62f-45b0-91fb-9b2cea192c39#ref=rss)
+### podcast
+
+* [https://www.spiegel.de/ausland/trumps-amerika-steckt-system-hinter-dem-chaos-der-us-regierung-podcast](https://www.spiegel.de/ausland/trumps-amerika-steckt-system-hinter-dem-chaos-der-us-regierung-podcast-a-ec4fe55f-14f7-4cb9-95f7-afb859eb49df#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-podcast](https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-podcast-a-24fa5a74-c3cb-4a35-a0e8-713ff8536a7c#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/trumps-amerika-steckt-system-hinter-dem-chaos-der-us-regierung-podcast](https://www.spiegel.de/ausland/trumps-amerika-steckt-system-hinter-dem-chaos-der-us-regierung-podcast-a-ec4fe55f-14f7-4cb9-95f7-afb859eb49df#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-enttaeuscht-diejenigen-die-auf-ihn-gesetzt-haben](https://www.spiegel.de/wirtschaft/donald-trump-enttaeuscht-diejenigen-die-auf-ihn-gesetzt-haben-a-a44c3e5b-7700-4593-a26d-9e421e8cc5e2#ref=rss)
+### vfl
+
+* [https://www.spiegel.de/sport/fussball/vfl-wolfsburg-trainer-tommy-stroot-tritt-ueberraschend-zurueck](https://www.spiegel.de/sport/fussball/vfl-wolfsburg-trainer-tommy-stroot-tritt-ueberraschend-zurueck-a-648328d0-1686-4d0e-ab67-e3aa817be709#ref=rss)
+### wolfsburg
+
+* [https://www.spiegel.de/sport/fussball/vfl-wolfsburg-trainer-tommy-stroot-tritt-ueberraschend-zurueck](https://www.spiegel.de/sport/fussball/vfl-wolfsburg-trainer-tommy-stroot-tritt-ueberraschend-zurueck-a-648328d0-1686-4d0e-ab67-e3aa817be709#ref=rss)
+### trainer
+
+* [https://www.spiegel.de/sport/fussball/vfl-wolfsburg-trainer-tommy-stroot-tritt-ueberraschend-zurueck](https://www.spiegel.de/sport/fussball/vfl-wolfsburg-trainer-tommy-stroot-tritt-ueberraschend-zurueck-a-648328d0-1686-4d0e-ab67-e3aa817be709#ref=rss)
+### tommy
+
+* [https://www.spiegel.de/sport/fussball/vfl-wolfsburg-trainer-tommy-stroot-tritt-ueberraschend-zurueck](https://www.spiegel.de/sport/fussball/vfl-wolfsburg-trainer-tommy-stroot-tritt-ueberraschend-zurueck-a-648328d0-1686-4d0e-ab67-e3aa817be709#ref=rss)
+### stroot
+
+* [https://www.spiegel.de/sport/fussball/vfl-wolfsburg-trainer-tommy-stroot-tritt-ueberraschend-zurueck](https://www.spiegel.de/sport/fussball/vfl-wolfsburg-trainer-tommy-stroot-tritt-ueberraschend-zurueck-a-648328d0-1686-4d0e-ab67-e3aa817be709#ref=rss)
+### tritt
+
+* [https://www.spiegel.de/sport/fussball/vfl-wolfsburg-trainer-tommy-stroot-tritt-ueberraschend-zurueck](https://www.spiegel.de/sport/fussball/vfl-wolfsburg-trainer-tommy-stroot-tritt-ueberraschend-zurueck-a-648328d0-1686-4d0e-ab67-e3aa817be709#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-enttaeuscht-diejenigen-die-auf-ihn-gesetzt-haben](https://www.spiegel.de/wirtschaft/donald-trump-enttaeuscht-diejenigen-die-auf-ihn-gesetzt-haben-a-a44c3e5b-7700-4593-a26d-9e421e8cc5e2#ref=rss)
 ### zurück
 
-* [https://www.spiegel.de/politik/deutschland/nachfolger-von-ministerpraesident-stephan-weil-in-niedersachsen-wer-ist-olaf-lies](https://www.spiegel.de/politik/deutschland/nachfolger-von-ministerpraesident-stephan-weil-in-niedersachsen-wer-ist-olaf-lies-a-2796dcda-8995-405e-bd48-eacfa0101890#ref=rss)
-* [https://www.spiegel.de/ausland/israel-benjamin-netanyahu-entlaesst-neu-ernannten-geheimdienstchef-eli-sharvit](https://www.spiegel.de/ausland/israel-benjamin-netanyahu-entlaesst-neu-ernannten-geheimdienstchef-eli-sharvit-a-e008ee2f-8634-4c64-81ff-936a98274558#ref=rss)
-### abgeben
+* [https://www.spiegel.de/sport/fussball/vfl-wolfsburg-trainer-tommy-stroot-tritt-ueberraschend-zurueck](https://www.spiegel.de/sport/fussball/vfl-wolfsburg-trainer-tommy-stroot-tritt-ueberraschend-zurueck-a-648328d0-1686-4d0e-ab67-e3aa817be709#ref=rss)
+* [https://www.spiegel.de/panorama/guenther-felssner-veterinaeramt-stellt-maengel-im-stall-von-beinahe-landwirtschaftsminister-fest](https://www.spiegel.de/panorama/guenther-felssner-veterinaeramt-stellt-maengel-im-stall-von-beinahe-landwirtschaftsminister-fest-a-2e20013c-8cd2-482d-bc1c-81d98bd4c290#ref=rss)
+### droht
 
-* [https://www.spiegel.de/politik/deutschland/nachfolger-von-ministerpraesident-stephan-weil-in-niedersachsen-wer-ist-olaf-lies](https://www.spiegel.de/politik/deutschland/nachfolger-von-ministerpraesident-stephan-weil-in-niedersachsen-wer-ist-olaf-lies-a-2796dcda-8995-405e-bd48-eacfa0101890#ref=rss)
-* [https://www.spiegel.de/politik/niedersachsen-stephan-weil-gibt-amt-des-ministerpraesidenten-im-mai-ab](https://www.spiegel.de/politik/niedersachsen-stephan-weil-gibt-amt-des-ministerpraesidenten-im-mai-ab-a-2d6658eb-271a-4a69-9331-eace64b0ef72#ref=rss)
-### wäre
+* [https://www.spiegel.de/sport/fussball/vfl-wolfsburg-trainer-tommy-stroot-tritt-ueberraschend-zurueck](https://www.spiegel.de/sport/fussball/vfl-wolfsburg-trainer-tommy-stroot-tritt-ueberraschend-zurueck-a-648328d0-1686-4d0e-ab67-e3aa817be709#ref=rss)
+* [https://www.spiegel.de/panorama/klimawandel-indien-droht-ein-extrem-heisser-sommer-mal-wieder](https://www.spiegel.de/panorama/klimawandel-indien-droht-ein-extrem-heisser-sommer-mal-wieder-a-84f70a5b-b241-40a5-b310-2bda5674a093#ref=rss)
+### zieht
 
-* [https://www.spiegel.de/politik/deutschland/nachfolger-von-ministerpraesident-stephan-weil-in-niedersachsen-wer-ist-olaf-lies](https://www.spiegel.de/politik/deutschland/nachfolger-von-ministerpraesident-stephan-weil-in-niedersachsen-wer-ist-olaf-lies-a-2796dcda-8995-405e-bd48-eacfa0101890#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cannabis-koalitionsverhandlungen-gefaehrden-drogenpolitische-zeitenwende](https://www.spiegel.de/politik/deutschland/cannabis-koalitionsverhandlungen-gefaehrden-drogenpolitische-zeitenwende-a-a5c43ae1-47ae-4670-8f35-7cd9814e0505#ref=rss)
-### brief
+* [https://www.spiegel.de/sport/fussball/vfl-wolfsburg-trainer-tommy-stroot-tritt-ueberraschend-zurueck](https://www.spiegel.de/sport/fussball/vfl-wolfsburg-trainer-tommy-stroot-tritt-ueberraschend-zurueck-a-648328d0-1686-4d0e-ab67-e3aa817be709#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/hans-eckhard-sommer-spd-vertreter-kritisieren-bamf-praesidenten-scharf-gruene-und-linke-fordern-ruecktritt](https://www.spiegel.de/politik/deutschland/hans-eckhard-sommer-spd-vertreter-kritisieren-bamf-praesidenten-scharf-gruene-und-linke-fordern-ruecktritt-a-537c7a68-5150-4e71-b7b8-bf75243f99f3#ref=rss)
+### konsequenzen
 
-* [https://www.spiegel.de/wissenschaft/mensch/angriffe-auf-wissenschaft-offener-brief-gegen-donald-trumps-sparpolitik-in-der-forschung](https://www.spiegel.de/wissenschaft/mensch/angriffe-auf-wissenschaft-offener-brief-gegen-donald-trumps-sparpolitik-in-der-forschung-a-3a90d14d-9bcf-401e-bf80-7924a2bdc0dc#ref=rss)
-### ilia
+* [https://www.spiegel.de/sport/fussball/vfl-wolfsburg-trainer-tommy-stroot-tritt-ueberraschend-zurueck](https://www.spiegel.de/sport/fussball/vfl-wolfsburg-trainer-tommy-stroot-tritt-ueberraschend-zurueck-a-648328d0-1686-4d0e-ab67-e3aa817be709#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/hans-eckhard-sommer-spd-vertreter-kritisieren-bamf-praesidenten-scharf-gruene-und-linke-fordern-ruecktritt](https://www.spiegel.de/politik/deutschland/hans-eckhard-sommer-spd-vertreter-kritisieren-bamf-praesidenten-scharf-gruene-und-linke-fordern-ruecktritt-a-537c7a68-5150-4e71-b7b8-bf75243f99f3#ref=rss)
+### zeigt
 
-* [https://www.spiegel.de/sport/eiskunstlaufen-us-star-ilia-malinin-er-tanzt-auf-dem-eis-gegen-seine-trauer-an](https://www.spiegel.de/sport/eiskunstlaufen-us-star-ilia-malinin-er-tanzt-auf-dem-eis-gegen-seine-trauer-an-a-2a972f08-5f5d-405d-8c83-8cbb77ff6aa5#ref=rss)
-### malinin
+* [https://www.spiegel.de/sport/fussball/vfl-wolfsburg-trainer-tommy-stroot-tritt-ueberraschend-zurueck](https://www.spiegel.de/sport/fussball/vfl-wolfsburg-trainer-tommy-stroot-tritt-ueberraschend-zurueck-a-648328d0-1686-4d0e-ab67-e3aa817be709#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/schwaben-plesiosaurus-fossil-offenbart-entwicklung-der-meeresreptilien](https://www.spiegel.de/wissenschaft/natur/schwaben-plesiosaurus-fossil-offenbart-entwicklung-der-meeresreptilien-a-81248302-b023-423d-a643-62a7e383922e#ref=rss)
+### abschiebung
 
-* [https://www.spiegel.de/sport/eiskunstlaufen-us-star-ilia-malinin-er-tanzt-auf-dem-eis-gegen-seine-trauer-an](https://www.spiegel.de/sport/eiskunstlaufen-us-star-ilia-malinin-er-tanzt-auf-dem-eis-gegen-seine-trauer-an-a-2a972f08-5f5d-405d-8c83-8cbb77ff6aa5#ref=rss)
-### erst
+* [https://www.spiegel.de/ausland/abschiebung-aus-den-usa-mann-landet-wegen-verwaltungsfehlers-in-knast-in-el-salvador](https://www.spiegel.de/ausland/abschiebung-aus-den-usa-mann-landet-wegen-verwaltungsfehlers-in-knast-in-el-salvador-a-c7869290-f62f-45b0-91fb-9b2cea192c39#ref=rss)
+### el
 
-* [https://www.spiegel.de/sport/eiskunstlaufen-us-star-ilia-malinin-er-tanzt-auf-dem-eis-gegen-seine-trauer-an](https://www.spiegel.de/sport/eiskunstlaufen-us-star-ilia-malinin-er-tanzt-auf-dem-eis-gegen-seine-trauer-an-a-2a972f08-5f5d-405d-8c83-8cbb77ff6aa5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/immobilien-merz-schuldenpaket-verteuert-baufinanzierung-fuer-eigenheime](https://www.spiegel.de/wirtschaft/immobilien-merz-schuldenpaket-verteuert-baufinanzierung-fuer-eigenheime-a-e8e3ee95-f119-4738-b283-338233bf9663#ref=rss)
-### amt
+* [https://www.spiegel.de/ausland/abschiebung-aus-den-usa-mann-landet-wegen-verwaltungsfehlers-in-knast-in-el-salvador](https://www.spiegel.de/ausland/abschiebung-aus-den-usa-mann-landet-wegen-verwaltungsfehlers-in-knast-in-el-salvador-a-c7869290-f62f-45b0-91fb-9b2cea192c39#ref=rss)
+### salvador
 
-* [https://www.spiegel.de/politik/niedersachsen-stephan-weil-gibt-amt-des-ministerpraesidenten-im-mai-ab](https://www.spiegel.de/politik/niedersachsen-stephan-weil-gibt-amt-des-ministerpraesidenten-im-mai-ab-a-2d6658eb-271a-4a69-9331-eace64b0ef72#ref=rss)
-### ministerpräsidenten
+* [https://www.spiegel.de/ausland/abschiebung-aus-den-usa-mann-landet-wegen-verwaltungsfehlers-in-knast-in-el-salvador](https://www.spiegel.de/ausland/abschiebung-aus-den-usa-mann-landet-wegen-verwaltungsfehlers-in-knast-in-el-salvador-a-c7869290-f62f-45b0-91fb-9b2cea192c39#ref=rss)
+### behörden
 
-* [https://www.spiegel.de/politik/niedersachsen-stephan-weil-gibt-amt-des-ministerpraesidenten-im-mai-ab](https://www.spiegel.de/politik/niedersachsen-stephan-weil-gibt-amt-des-ministerpraesidenten-im-mai-ab-a-2d6658eb-271a-4a69-9331-eace64b0ef72#ref=rss)
+* [https://www.spiegel.de/ausland/abschiebung-aus-den-usa-mann-landet-wegen-verwaltungsfehlers-in-knast-in-el-salvador](https://www.spiegel.de/ausland/abschiebung-aus-den-usa-mann-landet-wegen-verwaltungsfehlers-in-knast-in-el-salvador-a-c7869290-f62f-45b0-91fb-9b2cea192c39#ref=rss)
+* [https://www.spiegel.de/panorama/guenther-felssner-veterinaeramt-stellt-maengel-im-stall-von-beinahe-landwirtschaftsminister-fest](https://www.spiegel.de/panorama/guenther-felssner-veterinaeramt-stellt-maengel-im-stall-von-beinahe-landwirtschaftsminister-fest-a-2e20013c-8cd2-482d-bc1c-81d98bd4c290#ref=rss)
+### todesstrafe
+
+* [https://www.spiegel.de/ausland/usa-us-justizministerin-will-die-todesstrafe-fuer-luigi-mangione](https://www.spiegel.de/ausland/usa-us-justizministerin-will-die-todesstrafe-fuer-luigi-mangione-a-d0a5ad9a-44c3-4eef-9e24-3f9f053df200#ref=rss)
+### shop
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon](https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-a-16e392a9-3b4a-4d48-ba3a-175d1b0d30d7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-podcast](https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-podcast-a-24fa5a74-c3cb-4a35-a0e8-713ff8536a7c#ref=rss)
+### revolution
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon](https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-a-16e392a9-3b4a-4d48-ba3a-175d1b0d30d7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-podcast](https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-podcast-a-24fa5a74-c3cb-4a35-a0e8-713ff8536a7c#ref=rss)
+### social
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon](https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-a-16e392a9-3b4a-4d48-ba3a-175d1b0d30d7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-podcast](https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-podcast-a-24fa5a74-c3cb-4a35-a0e8-713ff8536a7c#ref=rss)
+### media
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon](https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-a-16e392a9-3b4a-4d48-ba3a-175d1b0d30d7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-podcast](https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-podcast-a-24fa5a74-c3cb-4a35-a0e8-713ff8536a7c#ref=rss)
+### konkurrenz
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon](https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-a-16e392a9-3b4a-4d48-ba3a-175d1b0d30d7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-podcast](https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-podcast-a-24fa5a74-c3cb-4a35-a0e8-713ff8536a7c#ref=rss)
+### nutzer
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon](https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-a-16e392a9-3b4a-4d48-ba3a-175d1b0d30d7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-podcast](https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-podcast-a-24fa5a74-c3cb-4a35-a0e8-713ff8536a7c#ref=rss)
+### direkt
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon](https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-a-16e392a9-3b4a-4d48-ba3a-175d1b0d30d7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-podcast](https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-podcast-a-24fa5a74-c3cb-4a35-a0e8-713ff8536a7c#ref=rss)
+### app
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon](https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-a-16e392a9-3b4a-4d48-ba3a-175d1b0d30d7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-podcast](https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-podcast-a-24fa5a74-c3cb-4a35-a0e8-713ff8536a7c#ref=rss)
+### shoppen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon](https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-a-16e392a9-3b4a-4d48-ba3a-175d1b0d30d7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-podcast](https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-podcast-a-24fa5a74-c3cb-4a35-a0e8-713ff8536a7c#ref=rss)
+### endloser
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon](https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-a-16e392a9-3b4a-4d48-ba3a-175d1b0d30d7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-podcast](https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-podcast-a-24fa5a74-c3cb-4a35-a0e8-713ff8536a7c#ref=rss)
+### konsum
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon](https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-a-16e392a9-3b4a-4d48-ba3a-175d1b0d30d7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-podcast](https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-podcast-a-24fa5a74-c3cb-4a35-a0e8-713ff8536a7c#ref=rss)
+### socialmediaplattform
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon](https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-a-16e392a9-3b4a-4d48-ba3a-175d1b0d30d7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-podcast](https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-podcast-a-24fa5a74-c3cb-4a35-a0e8-713ff8536a7c#ref=rss)
+### folge
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon](https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-a-16e392a9-3b4a-4d48-ba3a-175d1b0d30d7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-podcast](https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-podcast-a-24fa5a74-c3cb-4a35-a0e8-713ff8536a7c#ref=rss)
+### spiegelredakteurin
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon](https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-a-16e392a9-3b4a-4d48-ba3a-175d1b0d30d7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-podcast](https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-podcast-a-24fa5a74-c3cb-4a35-a0e8-713ff8536a7c#ref=rss)
+### katharina
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon](https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-a-16e392a9-3b4a-4d48-ba3a-175d1b0d30d7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-podcast](https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-podcast-a-24fa5a74-c3cb-4a35-a0e8-713ff8536a7c#ref=rss)
+### koerth
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon](https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-a-16e392a9-3b4a-4d48-ba3a-175d1b0d30d7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-podcast](https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-podcast-a-24fa5a74-c3cb-4a35-a0e8-713ff8536a7c#ref=rss)
+### funktion
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon](https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-a-16e392a9-3b4a-4d48-ba3a-175d1b0d30d7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-podcast](https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-podcast-a-24fa5a74-c3cb-4a35-a0e8-713ff8536a7c#ref=rss)
+### getestet
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon](https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-a-16e392a9-3b4a-4d48-ba3a-175d1b0d30d7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-podcast](https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-podcast-a-24fa5a74-c3cb-4a35-a0e8-713ff8536a7c#ref=rss)
+### schätzt
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon](https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-a-16e392a9-3b4a-4d48-ba3a-175d1b0d30d7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-podcast](https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-podcast-a-24fa5a74-c3cb-4a35-a0e8-713ff8536a7c#ref=rss)
+### risiken
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon](https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-a-16e392a9-3b4a-4d48-ba3a-175d1b0d30d7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-podcast](https://www.spiegel.de/wirtschaft/unternehmen/tiktok-shop-revolution-fuer-social-media-und-konkurrenz-fuer-amazon-podcast-a-24fa5a74-c3cb-4a35-a0e8-713ff8536a7c#ref=rss)
+### adolescence
+
+* [https://www.spiegel.de/kultur/tv/netflix-hit-adolescence-hier-kann-selbst-die-kamera-nicht-wegschauen](https://www.spiegel.de/kultur/tv/netflix-hit-adolescence-hier-kann-selbst-die-kamera-nicht-wegschauen-a-0b069e99-924f-498f-92bb-9af7f07d943e#ref=rss)
+### selbst
+
+* [https://www.spiegel.de/kultur/tv/netflix-hit-adolescence-hier-kann-selbst-die-kamera-nicht-wegschauen](https://www.spiegel.de/kultur/tv/netflix-hit-adolescence-hier-kann-selbst-die-kamera-nicht-wegschauen-a-0b069e99-924f-498f-92bb-9af7f07d943e#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-mls-setzt-offenbar-lionel-messis-bodyguard-grenzen](https://www.spiegel.de/sport/fussball/fussball-mls-setzt-offenbar-lionel-messis-bodyguard-grenzen-a-6572b86d-8387-4da1-8f74-3f395baece9a#ref=rss)
+### gleich
+
+* [https://www.spiegel.de/kultur/tv/netflix-hit-adolescence-hier-kann-selbst-die-kamera-nicht-wegschauen](https://www.spiegel.de/kultur/tv/netflix-hit-adolescence-hier-kann-selbst-die-kamera-nicht-wegschauen-a-0b069e99-924f-498f-92bb-9af7f07d943e#ref=rss)
+* [https://www.spiegel.de/kultur/beatles-verfilmungen-mr-paul-mccartney-weisst-du-wie-ich-leide](https://www.spiegel.de/kultur/beatles-verfilmungen-mr-paul-mccartney-weisst-du-wie-ich-leide-a-3b6f7f7d-c8ca-4183-980d-c1d6022724b4#ref=rss)
+### ganz
+
+* [https://www.spiegel.de/kultur/tv/netflix-hit-adolescence-hier-kann-selbst-die-kamera-nicht-wegschauen](https://www.spiegel.de/kultur/tv/netflix-hit-adolescence-hier-kann-selbst-die-kamera-nicht-wegschauen-a-0b069e99-924f-498f-92bb-9af7f07d943e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/vw-bmw-renault-und-co-eu-verhaengt-458-millionen-strafe-gegen-autobauer](https://www.spiegel.de/wirtschaft/unternehmen/vw-bmw-renault-und-co-eu-verhaengt-458-millionen-strafe-gegen-autobauer-a-341dad0c-60ee-42cb-b14f-9051fbc7f934#ref=rss)
+### dahinter
+
+* [https://www.spiegel.de/kultur/tv/netflix-hit-adolescence-hier-kann-selbst-die-kamera-nicht-wegschauen](https://www.spiegel.de/kultur/tv/netflix-hit-adolescence-hier-kann-selbst-die-kamera-nicht-wegschauen-a-0b069e99-924f-498f-92bb-9af7f07d943e#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/whatsapp-und-meta-ai-wo-kommt-der-kreis-her-und-taugt-das-feature-etwas](https://www.spiegel.de/netzwelt/apps/whatsapp-und-meta-ai-wo-kommt-der-kreis-her-und-taugt-das-feature-etwas-a-233d9e63-8df5-44ba-a256-d388ee4f6e98#ref=rss)
 ### offenbar
 
-* [https://www.spiegel.de/politik/niedersachsen-stephan-weil-gibt-amt-des-ministerpraesidenten-im-mai-ab](https://www.spiegel.de/politik/niedersachsen-stephan-weil-gibt-amt-des-ministerpraesidenten-im-mai-ab-a-2d6658eb-271a-4a69-9331-eace64b0ef72#ref=rss)
-* [https://www.spiegel.de/ausland/israel-benjamin-netanyahu-entlaesst-neu-ernannten-geheimdienstchef-eli-sharvit](https://www.spiegel.de/ausland/israel-benjamin-netanyahu-entlaesst-neu-ernannten-geheimdienstchef-eli-sharvit-a-e008ee2f-8634-4c64-81ff-936a98274558#ref=rss)
-### cannabis
+* [https://www.spiegel.de/wirtschaft/unternehmen/vw-bmw-renault-und-co-eu-verhaengt-458-millionen-strafe-gegen-autobauer](https://www.spiegel.de/wirtschaft/unternehmen/vw-bmw-renault-und-co-eu-verhaengt-458-millionen-strafe-gegen-autobauer-a-341dad0c-60ee-42cb-b14f-9051fbc7f934#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-mls-setzt-offenbar-lionel-messis-bodyguard-grenzen](https://www.spiegel.de/sport/fussball/fussball-mls-setzt-offenbar-lionel-messis-bodyguard-grenzen-a-6572b86d-8387-4da1-8f74-3f395baece9a#ref=rss)
+### wollten
 
-* [https://www.spiegel.de/politik/deutschland/cannabis-koalitionsverhandlungen-gefaehrden-drogenpolitische-zeitenwende](https://www.spiegel.de/politik/deutschland/cannabis-koalitionsverhandlungen-gefaehrden-drogenpolitische-zeitenwende-a-a5c43ae1-47ae-4670-8f35-7cd9814e0505#ref=rss)
-### koalitionsverhandlungen
+* [https://www.spiegel.de/wirtschaft/unternehmen/vw-bmw-renault-und-co-eu-verhaengt-458-millionen-strafe-gegen-autobauer](https://www.spiegel.de/wirtschaft/unternehmen/vw-bmw-renault-und-co-eu-verhaengt-458-millionen-strafe-gegen-autobauer-a-341dad0c-60ee-42cb-b14f-9051fbc7f934#ref=rss)
+* [https://www.spiegel.de/panorama/leute/hailey-bieber-entfolgt-justin-scheinbar-auf-instagram-und-tiktok-explodiert](https://www.spiegel.de/panorama/leute/hailey-bieber-entfolgt-justin-scheinbar-auf-instagram-und-tiktok-explodiert-a-f46e76e7-50bd-4626-83b7-d8a1dec5d1b8#ref=rss)
+### bieber
 
-* [https://www.spiegel.de/politik/deutschland/cannabis-koalitionsverhandlungen-gefaehrden-drogenpolitische-zeitenwende](https://www.spiegel.de/politik/deutschland/cannabis-koalitionsverhandlungen-gefaehrden-drogenpolitische-zeitenwende-a-a5c43ae1-47ae-4670-8f35-7cd9814e0505#ref=rss)
-### drogenpolitische
+* [https://www.spiegel.de/panorama/leute/hailey-bieber-entfolgt-justin-scheinbar-auf-instagram-und-tiktok-explodiert](https://www.spiegel.de/panorama/leute/hailey-bieber-entfolgt-justin-scheinbar-auf-instagram-und-tiktok-explodiert-a-f46e76e7-50bd-4626-83b7-d8a1dec5d1b8#ref=rss)
+### entfolgt
 
-* [https://www.spiegel.de/politik/deutschland/cannabis-koalitionsverhandlungen-gefaehrden-drogenpolitische-zeitenwende](https://www.spiegel.de/politik/deutschland/cannabis-koalitionsverhandlungen-gefaehrden-drogenpolitische-zeitenwende-a-a5c43ae1-47ae-4670-8f35-7cd9814e0505#ref=rss)
-### zeitenwende
+* [https://www.spiegel.de/panorama/leute/hailey-bieber-entfolgt-justin-scheinbar-auf-instagram-und-tiktok-explodiert](https://www.spiegel.de/panorama/leute/hailey-bieber-entfolgt-justin-scheinbar-auf-instagram-und-tiktok-explodiert-a-f46e76e7-50bd-4626-83b7-d8a1dec5d1b8#ref=rss)
+### justin
 
-* [https://www.spiegel.de/politik/deutschland/cannabis-koalitionsverhandlungen-gefaehrden-drogenpolitische-zeitenwende](https://www.spiegel.de/politik/deutschland/cannabis-koalitionsverhandlungen-gefaehrden-drogenpolitische-zeitenwende-a-a5c43ae1-47ae-4670-8f35-7cd9814e0505#ref=rss)
+* [https://www.spiegel.de/panorama/leute/hailey-bieber-entfolgt-justin-scheinbar-auf-instagram-und-tiktok-explodiert](https://www.spiegel.de/panorama/leute/hailey-bieber-entfolgt-justin-scheinbar-auf-instagram-und-tiktok-explodiert-a-f46e76e7-50bd-4626-83b7-d8a1dec5d1b8#ref=rss)
+### instagram
+
+* [https://www.spiegel.de/panorama/leute/hailey-bieber-entfolgt-justin-scheinbar-auf-instagram-und-tiktok-explodiert](https://www.spiegel.de/panorama/leute/hailey-bieber-entfolgt-justin-scheinbar-auf-instagram-und-tiktok-explodiert-a-f46e76e7-50bd-4626-83b7-d8a1dec5d1b8#ref=rss)
+### tage
+
+* [https://www.spiegel.de/panorama/gesellschaft/landgericht-berlin-urteilt-gegen-vater-kein-recht-auf-familienstartzeit](https://www.spiegel.de/panorama/gesellschaft/landgericht-berlin-urteilt-gegen-vater-kein-recht-auf-familienstartzeit-a-615363a0-edd8-44e6-9325-5ea7b98d809a#ref=rss)
+* [https://www.spiegel.de/ausland/myanmar-rettungskraefte-bergen-frau-vier-tage-nach-erdbeben-lebend-aus-truemmern](https://www.spiegel.de/ausland/myanmar-rettungskraefte-bergen-frau-vier-tage-nach-erdbeben-lebend-aus-truemmern-a-a6e3e08a-a693-41e2-88ff-93369ab642a3#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/panorama/gesellschaft/landgericht-berlin-urteilt-gegen-vater-kein-recht-auf-familienstartzeit](https://www.spiegel.de/panorama/gesellschaft/landgericht-berlin-urteilt-gegen-vater-kein-recht-auf-familienstartzeit-a-615363a0-edd8-44e6-9325-5ea7b98d809a#ref=rss)
+* [https://www.spiegel.de/ausland/korruptionsskandal-in-israel-wie-gefaehrlich-wird-katargate-fuer-benjamin-netanyahu](https://www.spiegel.de/ausland/korruptionsskandal-in-israel-wie-gefaehrlich-wird-katargate-fuer-benjamin-netanyahu-a-40cfd94a-51b1-45b8-92ba-59d88207913c#ref=rss)
+### gefährlich
+
+* [https://www.spiegel.de/ausland/korruptionsskandal-in-israel-wie-gefaehrlich-wird-katargate-fuer-benjamin-netanyahu](https://www.spiegel.de/ausland/korruptionsskandal-in-israel-wie-gefaehrlich-wird-katargate-fuer-benjamin-netanyahu-a-40cfd94a-51b1-45b8-92ba-59d88207913c#ref=rss)
+* [https://www.spiegel.de/panorama/klimawandel-indien-droht-ein-extrem-heisser-sommer-mal-wieder](https://www.spiegel.de/panorama/klimawandel-indien-droht-ein-extrem-heisser-sommer-mal-wieder-a-84f70a5b-b241-40a5-b310-2bda5674a093#ref=rss)
+### benjamin
+
+* [https://www.spiegel.de/ausland/korruptionsskandal-in-israel-wie-gefaehrlich-wird-katargate-fuer-benjamin-netanyahu](https://www.spiegel.de/ausland/korruptionsskandal-in-israel-wie-gefaehrlich-wird-katargate-fuer-benjamin-netanyahu-a-40cfd94a-51b1-45b8-92ba-59d88207913c#ref=rss)
 ### netanyahu
 
-* [https://www.spiegel.de/ausland/israel-benjamin-netanyahu-entlaesst-neu-ernannten-geheimdienstchef-eli-sharvit](https://www.spiegel.de/ausland/israel-benjamin-netanyahu-entlaesst-neu-ernannten-geheimdienstchef-eli-sharvit-a-e008ee2f-8634-4c64-81ff-936a98274558#ref=rss)
-### eli
+* [https://www.spiegel.de/ausland/korruptionsskandal-in-israel-wie-gefaehrlich-wird-katargate-fuer-benjamin-netanyahu](https://www.spiegel.de/ausland/korruptionsskandal-in-israel-wie-gefaehrlich-wird-katargate-fuer-benjamin-netanyahu-a-40cfd94a-51b1-45b8-92ba-59d88207913c#ref=rss)
+### rabea
 
-* [https://www.spiegel.de/ausland/israel-benjamin-netanyahu-entlaesst-neu-ernannten-geheimdienstchef-eli-sharvit](https://www.spiegel.de/ausland/israel-benjamin-netanyahu-entlaesst-neu-ernannten-geheimdienstchef-eli-sharvit-a-e008ee2f-8634-4c64-81ff-936a98274558#ref=rss)
-### sharvit
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-raumfahrt-rabea-rogge-klimakrise-in-deutschland-tiere-an-der-russischen-front](https://www.spiegel.de/politik/deutschland/news-des-tages-raumfahrt-rabea-rogge-klimakrise-in-deutschland-tiere-an-der-russischen-front-a-5b9d11f9-8ec4-4bc8-967a-969014a26394#ref=rss)
+### rogge
 
-* [https://www.spiegel.de/ausland/israel-benjamin-netanyahu-entlaesst-neu-ernannten-geheimdienstchef-eli-sharvit](https://www.spiegel.de/ausland/israel-benjamin-netanyahu-entlaesst-neu-ernannten-geheimdienstchef-eli-sharvit-a-e008ee2f-8634-4c64-81ff-936a98274558#ref=rss)
-### javier
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-raumfahrt-rabea-rogge-klimakrise-in-deutschland-tiere-an-der-russischen-front](https://www.spiegel.de/politik/deutschland/news-des-tages-raumfahrt-rabea-rogge-klimakrise-in-deutschland-tiere-an-der-russischen-front-a-5b9d11f9-8ec4-4bc8-967a-969014a26394#ref=rss)
+### setzt
 
-* [https://www.spiegel.de/wirtschaft/soziales/javier-milei-argentinien-meldet-starken-rueckgang-der-armut](https://www.spiegel.de/wirtschaft/soziales/javier-milei-argentinien-meldet-starken-rueckgang-der-armut-a-b5559923-a3a2-41f5-a174-7713c5ca4fd7#ref=rss)
-### milei
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-raumfahrt-rabea-rogge-klimakrise-in-deutschland-tiere-an-der-russischen-front](https://www.spiegel.de/politik/deutschland/news-des-tages-raumfahrt-rabea-rogge-klimakrise-in-deutschland-tiere-an-der-russischen-front-a-5b9d11f9-8ec4-4bc8-967a-969014a26394#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-mls-setzt-offenbar-lionel-messis-bodyguard-grenzen](https://www.spiegel.de/sport/fussball/fussball-mls-setzt-offenbar-lionel-messis-bodyguard-grenzen-a-6572b86d-8387-4da1-8f74-3f395baece9a#ref=rss)
+### lionel
 
-* [https://www.spiegel.de/wirtschaft/soziales/javier-milei-argentinien-meldet-starken-rueckgang-der-armut](https://www.spiegel.de/wirtschaft/soziales/javier-milei-argentinien-meldet-starken-rueckgang-der-armut-a-b5559923-a3a2-41f5-a174-7713c5ca4fd7#ref=rss)
-### argentinien
+* [https://www.spiegel.de/sport/fussball/fussball-mls-setzt-offenbar-lionel-messis-bodyguard-grenzen](https://www.spiegel.de/sport/fussball/fussball-mls-setzt-offenbar-lionel-messis-bodyguard-grenzen-a-6572b86d-8387-4da1-8f74-3f395baece9a#ref=rss)
+### messis
 
-* [https://www.spiegel.de/wirtschaft/soziales/javier-milei-argentinien-meldet-starken-rueckgang-der-armut](https://www.spiegel.de/wirtschaft/soziales/javier-milei-argentinien-meldet-starken-rueckgang-der-armut-a-b5559923-a3a2-41f5-a174-7713c5ca4fd7#ref=rss)
-### rückgang
+* [https://www.spiegel.de/sport/fussball/fussball-mls-setzt-offenbar-lionel-messis-bodyguard-grenzen](https://www.spiegel.de/sport/fussball/fussball-mls-setzt-offenbar-lionel-messis-bodyguard-grenzen-a-6572b86d-8387-4da1-8f74-3f395baece9a#ref=rss)
+### bodyguard
 
-* [https://www.spiegel.de/wirtschaft/soziales/javier-milei-argentinien-meldet-starken-rueckgang-der-armut](https://www.spiegel.de/wirtschaft/soziales/javier-milei-argentinien-meldet-starken-rueckgang-der-armut-a-b5559923-a3a2-41f5-a174-7713c5ca4fd7#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-mls-setzt-offenbar-lionel-messis-bodyguard-grenzen](https://www.spiegel.de/sport/fussball/fussball-mls-setzt-offenbar-lionel-messis-bodyguard-grenzen-a-6572b86d-8387-4da1-8f74-3f395baece9a#ref=rss)
+### geworden
+
+* [https://www.spiegel.de/sport/fussball/fussball-mls-setzt-offenbar-lionel-messis-bodyguard-grenzen](https://www.spiegel.de/sport/fussball/fussball-mls-setzt-offenbar-lionel-messis-bodyguard-grenzen-a-6572b86d-8387-4da1-8f74-3f395baece9a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gesetzliche-krankenkassen-noch-mehr-beitragserhoehungen](https://www.spiegel.de/wirtschaft/gesetzliche-krankenkassen-noch-mehr-beitragserhoehungen-a-b46f284d-edee-4d38-a22c-58f9ceffeccb#ref=rss)
+### stephan
+
+* [https://www.spiegel.de/politik/deutschland/stephan-weil-spricht-ueber-gruende-fuer-ruecktritt-als-ministerpraesident-niedersachsens](https://www.spiegel.de/politik/deutschland/stephan-weil-spricht-ueber-gruende-fuer-ruecktritt-als-ministerpraesident-niedersachsens-a-9e9ab2db-8b38-4850-9c7c-33f468ec3828#ref=rss)
+### rücktritt
+
+* [https://www.spiegel.de/politik/deutschland/stephan-weil-spricht-ueber-gruende-fuer-ruecktritt-als-ministerpraesident-niedersachsens](https://www.spiegel.de/politik/deutschland/stephan-weil-spricht-ueber-gruende-fuer-ruecktritt-als-ministerpraesident-niedersachsens-a-9e9ab2db-8b38-4850-9c7c-33f468ec3828#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/hans-eckhard-sommer-spd-vertreter-kritisieren-bamf-praesidenten-scharf-gruene-und-linke-fordern-ruecktritt](https://www.spiegel.de/politik/deutschland/hans-eckhard-sommer-spd-vertreter-kritisieren-bamf-praesidenten-scharf-gruene-und-linke-fordern-ruecktritt-a-537c7a68-5150-4e71-b7b8-bf75243f99f3#ref=rss)
+### ministerpräsident
+
+* [https://www.spiegel.de/politik/deutschland/stephan-weil-spricht-ueber-gruende-fuer-ruecktritt-als-ministerpraesident-niedersachsens](https://www.spiegel.de/politik/deutschland/stephan-weil-spricht-ueber-gruende-fuer-ruecktritt-als-ministerpraesident-niedersachsens-a-9e9ab2db-8b38-4850-9c7c-33f468ec3828#ref=rss)
+### niedersachsens
+
+* [https://www.spiegel.de/politik/deutschland/stephan-weil-spricht-ueber-gruende-fuer-ruecktritt-als-ministerpraesident-niedersachsens](https://www.spiegel.de/politik/deutschland/stephan-weil-spricht-ueber-gruende-fuer-ruecktritt-als-ministerpraesident-niedersachsens-a-9e9ab2db-8b38-4850-9c7c-33f468ec3828#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/politik/deutschland/stephan-weil-spricht-ueber-gruende-fuer-ruecktritt-als-ministerpraesident-niedersachsens](https://www.spiegel.de/politik/deutschland/stephan-weil-spricht-ueber-gruende-fuer-ruecktritt-als-ministerpraesident-niedersachsens-a-9e9ab2db-8b38-4850-9c7c-33f468ec3828#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/whatsapp-und-meta-ai-wo-kommt-der-kreis-her-und-taugt-das-feature-etwas](https://www.spiegel.de/netzwelt/apps/whatsapp-und-meta-ai-wo-kommt-der-kreis-her-und-taugt-das-feature-etwas-a-233d9e63-8df5-44ba-a256-d388ee4f6e98#ref=rss)
+### indien
+
+* [https://www.spiegel.de/panorama/klimawandel-indien-droht-ein-extrem-heisser-sommer-mal-wieder](https://www.spiegel.de/panorama/klimawandel-indien-droht-ein-extrem-heisser-sommer-mal-wieder-a-84f70a5b-b241-40a5-b310-2bda5674a093#ref=rss)
+### hanseckhard
+
+* [https://www.spiegel.de/politik/deutschland/hans-eckhard-sommer-spd-vertreter-kritisieren-bamf-praesidenten-scharf-gruene-und-linke-fordern-ruecktritt](https://www.spiegel.de/politik/deutschland/hans-eckhard-sommer-spd-vertreter-kritisieren-bamf-praesidenten-scharf-gruene-und-linke-fordern-ruecktritt-a-537c7a68-5150-4e71-b7b8-bf75243f99f3#ref=rss)
+### myanmar
+
+* [https://www.spiegel.de/ausland/myanmar-rettungskraefte-bergen-frau-vier-tage-nach-erdbeben-lebend-aus-truemmern](https://www.spiegel.de/ausland/myanmar-rettungskraefte-bergen-frau-vier-tage-nach-erdbeben-lebend-aus-truemmern-a-a6e3e08a-a693-41e2-88ff-93369ab642a3#ref=rss)
+### günther
+
+* [https://www.spiegel.de/panorama/guenther-felssner-veterinaeramt-stellt-maengel-im-stall-von-beinahe-landwirtschaftsminister-fest](https://www.spiegel.de/panorama/guenther-felssner-veterinaeramt-stellt-maengel-im-stall-von-beinahe-landwirtschaftsminister-fest-a-2e20013c-8cd2-482d-bc1c-81d98bd4c290#ref=rss)
+### felßner
+
+* [https://www.spiegel.de/panorama/guenther-felssner-veterinaeramt-stellt-maengel-im-stall-von-beinahe-landwirtschaftsminister-fest](https://www.spiegel.de/panorama/guenther-felssner-veterinaeramt-stellt-maengel-im-stall-von-beinahe-landwirtschaftsminister-fest-a-2e20013c-8cd2-482d-bc1c-81d98bd4c290#ref=rss)
+### fest
+
+* [https://www.spiegel.de/panorama/guenther-felssner-veterinaeramt-stellt-maengel-im-stall-von-beinahe-landwirtschaftsminister-fest](https://www.spiegel.de/panorama/guenther-felssner-veterinaeramt-stellt-maengel-im-stall-von-beinahe-landwirtschaftsminister-fest-a-2e20013c-8cd2-482d-bc1c-81d98bd4c290#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/achim-bei-bremen-polizei-nimmt-nach-fund-von-totem-saeugling-frau-fest](https://www.spiegel.de/panorama/justiz/achim-bei-bremen-polizei-nimmt-nach-fund-von-totem-saeugling-frau-fest-a-7e24a7c7-ceea-47a9-956f-960977f205cc#ref=rss)
+### polizist
+
+* [https://www.spiegel.de/panorama/justiz/mafia-razzia-deutscher-polizist-festgenommen](https://www.spiegel.de/panorama/justiz/mafia-razzia-deutscher-polizist-festgenommen-a-f3e8777d-7a0a-4295-bee2-42620a239712#ref=rss)
+### festgenommen
+
+* [https://www.spiegel.de/panorama/justiz/mafia-razzia-deutscher-polizist-festgenommen](https://www.spiegel.de/panorama/justiz/mafia-razzia-deutscher-polizist-festgenommen-a-f3e8777d-7a0a-4295-bee2-42620a239712#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/achim-bei-bremen-polizei-nimmt-nach-fund-von-totem-saeugling-frau-fest](https://www.spiegel.de/panorama/justiz/achim-bei-bremen-polizei-nimmt-nach-fund-von-totem-saeugling-frau-fest-a-7e24a7c7-ceea-47a9-956f-960977f205cc#ref=rss)
 ### mafia
 
-* [https://www.spiegel.de/panorama/justiz/mafia-in-deutschland-festnahmen-bei-razzia-in-vier-bundeslaendern](https://www.spiegel.de/panorama/justiz/mafia-in-deutschland-festnahmen-bei-razzia-in-vier-bundeslaendern-a-91cbf9e2-780f-47ab-8e44-ccfb02460446#ref=rss)
-### razzia
+* [https://www.spiegel.de/panorama/justiz/mafia-razzia-deutscher-polizist-festgenommen](https://www.spiegel.de/panorama/justiz/mafia-razzia-deutscher-polizist-festgenommen-a-f3e8777d-7a0a-4295-bee2-42620a239712#ref=rss)
+### achim
 
-* [https://www.spiegel.de/panorama/justiz/mafia-in-deutschland-festnahmen-bei-razzia-in-vier-bundeslaendern](https://www.spiegel.de/panorama/justiz/mafia-in-deutschland-festnahmen-bei-razzia-in-vier-bundeslaendern-a-91cbf9e2-780f-47ab-8e44-ccfb02460446#ref=rss)
-### bundesländern
+* [https://www.spiegel.de/panorama/justiz/achim-bei-bremen-polizei-nimmt-nach-fund-von-totem-saeugling-frau-fest](https://www.spiegel.de/panorama/justiz/achim-bei-bremen-polizei-nimmt-nach-fund-von-totem-saeugling-frau-fest-a-7e24a7c7-ceea-47a9-956f-960977f205cc#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/panorama/justiz/mafia-in-deutschland-festnahmen-bei-razzia-in-vier-bundeslaendern](https://www.spiegel.de/panorama/justiz/mafia-in-deutschland-festnahmen-bei-razzia-in-vier-bundeslaendern-a-91cbf9e2-780f-47ab-8e44-ccfb02460446#ref=rss)
-### ukraine
+* [https://www.spiegel.de/panorama/justiz/achim-bei-bremen-polizei-nimmt-nach-fund-von-totem-saeugling-frau-fest](https://www.spiegel.de/panorama/justiz/achim-bei-bremen-polizei-nimmt-nach-fund-von-totem-saeugling-frau-fest-a-7e24a7c7-ceea-47a9-956f-960977f205cc#ref=rss)
+### whatsapp
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-annalena-baerbock-zu-abschiedsbesuch-in-kyjiw-eingetroffen](https://www.spiegel.de/ausland/ukraine-krieg-annalena-baerbock-zu-abschiedsbesuch-in-kyjiw-eingetroffen-a-1184b19e-f18d-4956-b22d-f923fd5714ac#ref=rss)
-### annalena
+* [https://www.spiegel.de/netzwelt/apps/whatsapp-und-meta-ai-wo-kommt-der-kreis-her-und-taugt-das-feature-etwas](https://www.spiegel.de/netzwelt/apps/whatsapp-und-meta-ai-wo-kommt-der-kreis-her-und-taugt-das-feature-etwas-a-233d9e63-8df5-44ba-a256-d388ee4f6e98#ref=rss)
+### meta
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-annalena-baerbock-zu-abschiedsbesuch-in-kyjiw-eingetroffen](https://www.spiegel.de/ausland/ukraine-krieg-annalena-baerbock-zu-abschiedsbesuch-in-kyjiw-eingetroffen-a-1184b19e-f18d-4956-b22d-f923fd5714ac#ref=rss)
-### baerbock
+* [https://www.spiegel.de/netzwelt/apps/whatsapp-und-meta-ai-wo-kommt-der-kreis-her-und-taugt-das-feature-etwas](https://www.spiegel.de/netzwelt/apps/whatsapp-und-meta-ai-wo-kommt-der-kreis-her-und-taugt-das-feature-etwas-a-233d9e63-8df5-44ba-a256-d388ee4f6e98#ref=rss)
+### ai
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-annalena-baerbock-zu-abschiedsbesuch-in-kyjiw-eingetroffen](https://www.spiegel.de/ausland/ukraine-krieg-annalena-baerbock-zu-abschiedsbesuch-in-kyjiw-eingetroffen-a-1184b19e-f18d-4956-b22d-f923fd5714ac#ref=rss)
-### kyjiw
+* [https://www.spiegel.de/netzwelt/apps/whatsapp-und-meta-ai-wo-kommt-der-kreis-her-und-taugt-das-feature-etwas](https://www.spiegel.de/netzwelt/apps/whatsapp-und-meta-ai-wo-kommt-der-kreis-her-und-taugt-das-feature-etwas-a-233d9e63-8df5-44ba-a256-d388ee4f6e98#ref=rss)
+### kreis
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-annalena-baerbock-zu-abschiedsbesuch-in-kyjiw-eingetroffen](https://www.spiegel.de/ausland/ukraine-krieg-annalena-baerbock-zu-abschiedsbesuch-in-kyjiw-eingetroffen-a-1184b19e-f18d-4956-b22d-f923fd5714ac#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/whatsapp-und-meta-ai-wo-kommt-der-kreis-her-und-taugt-das-feature-etwas](https://www.spiegel.de/netzwelt/apps/whatsapp-und-meta-ai-wo-kommt-der-kreis-her-und-taugt-das-feature-etwas-a-233d9e63-8df5-44ba-a256-d388ee4f6e98#ref=rss)
 
