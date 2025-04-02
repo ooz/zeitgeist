@@ -6,309 +6,412 @@ tags: __no_header__
 
 ### donald
 
-* [https://www.spiegel.de/ausland/donald-trumps-freibrief-fuer-israel-fuer-eine-brandmauer-gegen-benjamin-netanyahu-gastbeitrag](https://www.spiegel.de/ausland/donald-trumps-freibrief-fuer-israel-fuer-eine-brandmauer-gegen-benjamin-netanyahu-gastbeitrag-a-d1316a37-a4d5-4092-8d4e-47bea340f655#ref=rss)
-* [https://www.spiegel.de/ausland/cory-booker-rekordrede-gegen-donald-trump-im-us-senat](https://www.spiegel.de/ausland/cory-booker-rekordrede-gegen-donald-trump-im-us-senat-a-7e231c3c-d075-4c3d-ae6b-1e38cb928f98#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-donald-trump-stellt-neue-forderungen-zu-ukrainischen-bodenschaetzen](https://www.spiegel.de/ausland/ukraine-donald-trump-stellt-neue-forderungen-zu-ukrainischen-bodenschaetzen-a-a3c1dd28-3d5e-4769-b44d-83beba39f004#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-am-liberation-day-usa-warum-seine-zoll-obsession-gefaehrlich-ist-auch-fuer-ihn](https://www.spiegel.de/ausland/donald-trump-am-liberation-day-usa-warum-seine-zoll-obsession-gefaehrlich-ist-auch-fuer-ihn-a-d7a7e1e0-7044-4b26-93a4-4c5e6dc1846e#ref=rss)
-### val
-
-* [https://www.spiegel.de/kultur/kino/val-kilmer-ein-eismann-der-von-innen-brannte-nachruf](https://www.spiegel.de/kultur/kino/val-kilmer-ein-eismann-der-von-innen-brannte-nachruf-a-9b5fe723-641c-48cf-a113-82c57abcfb21#ref=rss)
-* [https://www.spiegel.de/kultur/kino/val-kilmer-ist-tot-ehemalige-weggefaehrten-wuerdigen-den-schauspieler](https://www.spiegel.de/kultur/kino/val-kilmer-ist-tot-ehemalige-weggefaehrten-wuerdigen-den-schauspieler-a-078b478e-8bdb-49da-885b-6b4fa7af0a41#ref=rss)
-* [https://www.spiegel.de/kultur/kino/val-kilmer-das-leben-des-schauspielers-in-bildern](https://www.spiegel.de/kultur/kino/val-kilmer-das-leben-des-schauspielers-in-bildern-a-36fa5d47-676e-4ba6-a653-dc2af935f8c4#ref=rss)
-### kilmer
-
-* [https://www.spiegel.de/kultur/kino/val-kilmer-ein-eismann-der-von-innen-brannte-nachruf](https://www.spiegel.de/kultur/kino/val-kilmer-ein-eismann-der-von-innen-brannte-nachruf-a-9b5fe723-641c-48cf-a113-82c57abcfb21#ref=rss)
-* [https://www.spiegel.de/kultur/kino/val-kilmer-ist-tot-ehemalige-weggefaehrten-wuerdigen-den-schauspieler](https://www.spiegel.de/kultur/kino/val-kilmer-ist-tot-ehemalige-weggefaehrten-wuerdigen-den-schauspieler-a-078b478e-8bdb-49da-885b-6b4fa7af0a41#ref=rss)
-* [https://www.spiegel.de/kultur/kino/val-kilmer-das-leben-des-schauspielers-in-bildern](https://www.spiegel.de/kultur/kino/val-kilmer-das-leben-des-schauspielers-in-bildern-a-36fa5d47-676e-4ba6-a653-dc2af935f8c4#ref=rss)
-### neue
-
-* [https://www.spiegel.de/ausland/donald-trumps-freibrief-fuer-israel-fuer-eine-brandmauer-gegen-benjamin-netanyahu-gastbeitrag](https://www.spiegel.de/ausland/donald-trumps-freibrief-fuer-israel-fuer-eine-brandmauer-gegen-benjamin-netanyahu-gastbeitrag-a-d1316a37-a4d5-4092-8d4e-47bea340f655#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-donald-trump-stellt-neue-forderungen-zu-ukrainischen-bodenschaetzen](https://www.spiegel.de/ausland/ukraine-donald-trump-stellt-neue-forderungen-zu-ukrainischen-bodenschaetzen-a-a3c1dd28-3d5e-4769-b44d-83beba39f004#ref=rss)
-* [https://www.spiegel.de/ausland/uss-carl-vinson-usa-schicken-weiteren-flugzeugtraeger-in-den-nahen-osten](https://www.spiegel.de/ausland/uss-carl-vinson-usa-schicken-weiteren-flugzeugtraeger-in-den-nahen-osten-a-4e4602cc-35e2-48af-9873-1ae5854f38dd#ref=rss)
-* [https://www.spiegel.de/ausland/russland-wladimir-putin-beruft-160-000-neue-rekruten-ein](https://www.spiegel.de/ausland/russland-wladimir-putin-beruft-160-000-neue-rekruten-ein-a-da710555-b3e1-4da5-8b3c-06910bf59c1f#ref=rss)
+* [https://www.spiegel.de/ausland/usa-donald-trump-soll-vertrauten-rueckzug-von-elon-musk-angekuendigt-haben](https://www.spiegel.de/ausland/usa-donald-trump-soll-vertrauten-rueckzug-von-elon-musk-angekuendigt-haben-a-675851eb-49b9-482e-bfa8-41dd666fc675#ref=rss)
+* [https://www.spiegel.de/ausland/new-york-city-richter-weist-klage-gegen-buergermeister-eric-adams-ab](https://www.spiegel.de/ausland/new-york-city-richter-weist-klage-gegen-buergermeister-eric-adams-ab-a-1d88c598-a91e-4c26-972f-7fd4b9e9249a#ref=rss)
+* [https://www.spiegel.de/ausland/cory-booker-rekordrede-gegen-donald-trump-im-us-senat-25-stunden-am-rednerpult](https://www.spiegel.de/ausland/cory-booker-rekordrede-gegen-donald-trump-im-us-senat-25-stunden-am-rednerpult-a-3fc609a8-76df-424c-8afa-cc201171dc80#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-us-botschaft-befragt-auch-deutsche-firmen-zu-diversitaetsprogrammen](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-us-botschaft-befragt-auch-deutsche-firmen-zu-diversitaetsprogrammen-a-58856dca-1591-4462-8ffb-0fb8f91cca1a#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/ausland/cory-booker-rekordrede-gegen-donald-trump-im-us-senat](https://www.spiegel.de/ausland/cory-booker-rekordrede-gegen-donald-trump-im-us-senat-a-7e231c3c-d075-4c3d-ae6b-1e38cb928f98#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-donald-trump-stellt-neue-forderungen-zu-ukrainischen-bodenschaetzen](https://www.spiegel.de/ausland/ukraine-donald-trump-stellt-neue-forderungen-zu-ukrainischen-bodenschaetzen-a-a3c1dd28-3d5e-4769-b44d-83beba39f004#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-am-liberation-day-usa-warum-seine-zoll-obsession-gefaehrlich-ist-auch-fuer-ihn](https://www.spiegel.de/ausland/donald-trump-am-liberation-day-usa-warum-seine-zoll-obsession-gefaehrlich-ist-auch-fuer-ihn-a-d7a7e1e0-7044-4b26-93a4-4c5e6dc1846e#ref=rss)
-### carlo
+* [https://www.spiegel.de/ausland/usa-donald-trump-soll-vertrauten-rueckzug-von-elon-musk-angekuendigt-haben](https://www.spiegel.de/ausland/usa-donald-trump-soll-vertrauten-rueckzug-von-elon-musk-angekuendigt-haben-a-675851eb-49b9-482e-bfa8-41dd666fc675#ref=rss)
+* [https://www.spiegel.de/ausland/new-york-city-richter-weist-klage-gegen-buergermeister-eric-adams-ab](https://www.spiegel.de/ausland/new-york-city-richter-weist-klage-gegen-buergermeister-eric-adams-ab-a-1d88c598-a91e-4c26-972f-7fd4b9e9249a#ref=rss)
+* [https://www.spiegel.de/ausland/cory-booker-rekordrede-gegen-donald-trump-im-us-senat-25-stunden-am-rednerpult](https://www.spiegel.de/ausland/cory-booker-rekordrede-gegen-donald-trump-im-us-senat-25-stunden-am-rednerpult-a-3fc609a8-76df-424c-8afa-cc201171dc80#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-us-botschaft-befragt-auch-deutsche-firmen-zu-diversitaetsprogrammen](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-us-botschaft-befragt-auch-deutsche-firmen-zu-diversitaetsprogrammen-a-58856dca-1591-4462-8ffb-0fb8f91cca1a#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/sport/fussball/carlo-ancelotti-real-trainer-wegen-steuerhinterziehung-vor-gericht](https://www.spiegel.de/sport/fussball/carlo-ancelotti-real-trainer-wegen-steuerhinterziehung-vor-gericht-a-a6d4260e-21db-4465-97df-ae29030e2a46#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bushido-gewinnt-streit-um-schriftzug-carlo-cokxxx-nutten-gegen-fler](https://www.spiegel.de/panorama/justiz/bushido-gewinnt-streit-um-schriftzug-carlo-cokxxx-nutten-gegen-fler-a-a3e38a5b-7a96-4f28-ad8f-2061228931d5#ref=rss)
-### usa
+* [https://www.spiegel.de/panorama/berlin-silvester-randalierer-vor-gericht-der-mann-mit-der-rakete](https://www.spiegel.de/panorama/berlin-silvester-randalierer-vor-gericht-der-mann-mit-der-rakete-a-dbff1b30-d6eb-49e8-8066-94deef136ee5#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/berlin-viele-lehrkraefte-sind-laut-umfrage-frustriert-ueber-arbeitsbedingungen](https://www.spiegel.de/panorama/bildung/berlin-viele-lehrkraefte-sind-laut-umfrage-frustriert-ueber-arbeitsbedingungen-a-77e3b483-fe08-492a-aae1-80a61d100334#ref=rss)
+### mann
 
-* [https://www.spiegel.de/ausland/ukraine-donald-trump-stellt-neue-forderungen-zu-ukrainischen-bodenschaetzen](https://www.spiegel.de/ausland/ukraine-donald-trump-stellt-neue-forderungen-zu-ukrainischen-bodenschaetzen-a-a3c1dd28-3d5e-4769-b44d-83beba39f004#ref=rss)
-* [https://www.spiegel.de/ausland/uss-carl-vinson-usa-schicken-weiteren-flugzeugtraeger-in-den-nahen-osten](https://www.spiegel.de/ausland/uss-carl-vinson-usa-schicken-weiteren-flugzeugtraeger-in-den-nahen-osten-a-4e4602cc-35e2-48af-9873-1ae5854f38dd#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bmw-co-steigerten-verkaeufe-in-den-usa-kraeftig](https://www.spiegel.de/wirtschaft/bmw-co-steigerten-verkaeufe-in-den-usa-kraeftig-a-d0b714c7-3c7b-4a3a-8dc4-23802b7fe4de#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-am-liberation-day-usa-warum-seine-zoll-obsession-gefaehrlich-ist-auch-fuer-ihn](https://www.spiegel.de/ausland/donald-trump-am-liberation-day-usa-warum-seine-zoll-obsession-gefaehrlich-ist-auch-fuer-ihn-a-d7a7e1e0-7044-4b26-93a4-4c5e6dc1846e#ref=rss)
-### deutsche
+* [https://www.spiegel.de/panorama/berlin-silvester-randalierer-vor-gericht-der-mann-mit-der-rakete](https://www.spiegel.de/panorama/berlin-silvester-randalierer-vor-gericht-der-mann-mit-der-rakete-a-dbff1b30-d6eb-49e8-8066-94deef136ee5#ref=rss)
+* [https://www.spiegel.de/ausland/cory-booker-rekordrede-gegen-donald-trump-im-us-senat-25-stunden-am-rednerpult](https://www.spiegel.de/ausland/cory-booker-rekordrede-gegen-donald-trump-im-us-senat-25-stunden-am-rednerpult-a-3fc609a8-76df-424c-8afa-cc201171dc80#ref=rss)
+* [https://www.spiegel.de/sport/fussball/rb-leipzig-zsolt-loew-trainiert-den-verein-jetzt-auch-auf-betreiben-von-juergen-klopp](https://www.spiegel.de/sport/fussball/rb-leipzig-zsolt-loew-trainiert-den-verein-jetzt-auch-auf-betreiben-von-juergen-klopp-a-893a82a1-b180-4b30-9953-121feedb8e46#ref=rss)
+### marine
 
-* [https://www.spiegel.de/wirtschaft/bmw-co-steigerten-verkaeufe-in-den-usa-kraeftig](https://www.spiegel.de/wirtschaft/bmw-co-steigerten-verkaeufe-in-den-usa-kraeftig-a-d0b714c7-3c7b-4a3a-8dc4-23802b7fe4de#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-real-madrid-und-antonio-ruediger-ziehen-spektakulaer-ins-pokalfinale-ein](https://www.spiegel.de/sport/fussball/fussball-real-madrid-und-antonio-ruediger-ziehen-spektakulaer-ins-pokalfinale-ein-a-d9d482c2-75e5-4809-a99b-7061fadff32b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wirtschaftsflaute-deutsche-industrie-hat-flaechendeckend-arbeitsplaetze-abgebaut](https://www.spiegel.de/wirtschaft/wirtschaftsflaute-deutsche-industrie-hat-flaechendeckend-arbeitsplaetze-abgebaut-a-9380dfc4-f6da-4185-88eb-0fa405cdd6cd#ref=rss)
-### rechte
-
-* [https://www.spiegel.de/sport/fussball/frauenfussball-norwegen-staerkt-rechte-schwangerer-spielerinnen-mit-vertragsverlaengerung](https://www.spiegel.de/sport/fussball/frauenfussball-norwegen-staerkt-rechte-schwangerer-spielerinnen-mit-vertragsverlaengerung-a-e5214bed-3ec0-4f27-b81d-1610d442dd9d#ref=rss)
-* [https://www.spiegel.de/geschichte/active-clubs-wie-in-kampfsportgruppen-rechte-ideologien-verbreitet-werden](https://www.spiegel.de/geschichte/active-clubs-wie-in-kampfsportgruppen-rechte-ideologien-verbreitet-werden-a-357c63fc-830e-468a-aeba-a4c9b2bb6f5f#ref=rss)
-### möchte
-
-* [https://www.spiegel.de/sport/fussball/frauenfussball-norwegen-staerkt-rechte-schwangerer-spielerinnen-mit-vertragsverlaengerung](https://www.spiegel.de/sport/fussball/frauenfussball-norwegen-staerkt-rechte-schwangerer-spielerinnen-mit-vertragsverlaengerung-a-e5214bed-3ec0-4f27-b81d-1610d442dd9d#ref=rss)
-* [https://www.spiegel.de/start/guenstiges-rezept-fuer-bratlinge-mit-gerettetem-gemuese](https://www.spiegel.de/start/guenstiges-rezept-fuer-bratlinge-mit-gerettetem-gemuese-a-a6d0f125-b624-432c-8d1e-ba31d12d8d56#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-am-liberation-day-usa-warum-seine-zoll-obsession-gefaehrlich-ist-auch-fuer-ihn](https://www.spiegel.de/ausland/donald-trump-am-liberation-day-usa-warum-seine-zoll-obsession-gefaehrlich-ist-auch-fuer-ihn-a-d7a7e1e0-7044-4b26-93a4-4c5e6dc1846e#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/sport/fussball/frauenfussball-norwegen-staerkt-rechte-schwangerer-spielerinnen-mit-vertragsverlaengerung](https://www.spiegel.de/sport/fussball/frauenfussball-norwegen-staerkt-rechte-schwangerer-spielerinnen-mit-vertragsverlaengerung-a-e5214bed-3ec0-4f27-b81d-1610d442dd9d#ref=rss)
-* [https://www.spiegel.de/ausland/cory-booker-rekordrede-gegen-donald-trump-im-us-senat](https://www.spiegel.de/ausland/cory-booker-rekordrede-gegen-donald-trump-im-us-senat-a-7e231c3c-d075-4c3d-ae6b-1e38cb928f98#ref=rss)
-### wohl
-
-* [https://www.spiegel.de/politik/deutschland/spd-und-union-koalitionsverhandlungen-ziehen-sich-wohl-in-die-naechste-woche](https://www.spiegel.de/politik/deutschland/spd-und-union-koalitionsverhandlungen-ziehen-sich-wohl-in-die-naechste-woche-a-269f8855-83e2-462e-a04a-f6978236ba81#ref=rss)
-* [https://www.spiegel.de/sport/rhythmische-sportgymnastik-missbrauchsvorwuerfe-gegen-ex-junioren-nationaltrainerin](https://www.spiegel.de/sport/rhythmische-sportgymnastik-missbrauchsvorwuerfe-gegen-ex-junioren-nationaltrainerin-a-0ba42657-73be-453f-abe8-d71235dc486f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/dfb-pokal-arminia-bielefeld-drohen-rund-ums-finale-terminprobleme](https://www.spiegel.de/sport/fussball/dfb-pokal-arminia-bielefeld-drohen-rund-ums-finale-terminprobleme-a-a60f2057-0d5f-4e94-93f9-7d772b2fa044#ref=rss)
-### top
-
-* [https://www.spiegel.de/kultur/kino/val-kilmer-ein-eismann-der-von-innen-brannte-nachruf](https://www.spiegel.de/kultur/kino/val-kilmer-ein-eismann-der-von-innen-brannte-nachruf-a-9b5fe723-641c-48cf-a113-82c57abcfb21#ref=rss)
-* [https://www.spiegel.de/kultur/kino/val-kilmer-das-leben-des-schauspielers-in-bildern](https://www.spiegel.de/kultur/kino/val-kilmer-das-leben-des-schauspielers-in-bildern-a-36fa5d47-676e-4ba6-a653-dc2af935f8c4#ref=rss)
-### schauspieler
-
-* [https://www.spiegel.de/panorama/leute/paul-rudd-wurde-fuer-miley-cyrus-bei-snl-zum-fangirl](https://www.spiegel.de/panorama/leute/paul-rudd-wurde-fuer-miley-cyrus-bei-snl-zum-fangirl-a-9368807b-4e74-420c-9804-63ceeecd6ed7#ref=rss)
-* [https://www.spiegel.de/kultur/kino/val-kilmer-ist-tot-ehemalige-weggefaehrten-wuerdigen-den-schauspieler](https://www.spiegel.de/kultur/kino/val-kilmer-ist-tot-ehemalige-weggefaehrten-wuerdigen-den-schauspieler-a-078b478e-8bdb-49da-885b-6b4fa7af0a41#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/panorama/justiz/bushido-gewinnt-streit-um-schriftzug-carlo-cokxxx-nutten-gegen-fler](https://www.spiegel.de/panorama/justiz/bushido-gewinnt-streit-um-schriftzug-carlo-cokxxx-nutten-gegen-fler-a-a3e38a5b-7a96-4f28-ad8f-2061228931d5#ref=rss)
-* [https://www.spiegel.de/ausland/russland-wladimir-putin-beruft-160-000-neue-rekruten-ein](https://www.spiegel.de/ausland/russland-wladimir-putin-beruft-160-000-neue-rekruten-ein-a-da710555-b3e1-4da5-8b3c-06910bf59c1f#ref=rss)
-* [https://www.spiegel.de/kultur/kino/val-kilmer-das-leben-des-schauspielers-in-bildern](https://www.spiegel.de/kultur/kino/val-kilmer-das-leben-des-schauspielers-in-bildern-a-36fa5d47-676e-4ba6-a653-dc2af935f8c4#ref=rss)
-### bielefeld
-
-* [https://www.spiegel.de/sport/fussball/dfb-pokal-arminia-bielefeld-drohen-rund-ums-finale-terminprobleme](https://www.spiegel.de/sport/fussball/dfb-pokal-arminia-bielefeld-drohen-rund-ums-finale-terminprobleme-a-a60f2057-0d5f-4e94-93f9-7d772b2fa044#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### tag
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### trumps
-
-* [https://www.spiegel.de/ausland/donald-trumps-freibrief-fuer-israel-fuer-eine-brandmauer-gegen-benjamin-netanyahu-gastbeitrag](https://www.spiegel.de/ausland/donald-trumps-freibrief-fuer-israel-fuer-eine-brandmauer-gegen-benjamin-netanyahu-gastbeitrag-a-d1316a37-a4d5-4092-8d4e-47bea340f655#ref=rss)
-* [https://www.spiegel.de/ausland/cory-booker-rekordrede-gegen-donald-trump-im-us-senat](https://www.spiegel.de/ausland/cory-booker-rekordrede-gegen-donald-trump-im-us-senat-a-7e231c3c-d075-4c3d-ae6b-1e38cb928f98#ref=rss)
-### norwegen
-
-* [https://www.spiegel.de/sport/fussball/frauenfussball-norwegen-staerkt-rechte-schwangerer-spielerinnen-mit-vertragsverlaengerung](https://www.spiegel.de/sport/fussball/frauenfussball-norwegen-staerkt-rechte-schwangerer-spielerinnen-mit-vertragsverlaengerung-a-e5214bed-3ec0-4f27-b81d-1610d442dd9d#ref=rss)
-### spd
-
-* [https://www.spiegel.de/politik/deutschland/spd-und-union-koalitionsverhandlungen-ziehen-sich-wohl-in-die-naechste-woche](https://www.spiegel.de/politik/deutschland/spd-und-union-koalitionsverhandlungen-ziehen-sich-wohl-in-die-naechste-woche-a-269f8855-83e2-462e-a04a-f6978236ba81#ref=rss)
-### koalitionsverhandlungen
-
-* [https://www.spiegel.de/politik/deutschland/spd-und-union-koalitionsverhandlungen-ziehen-sich-wohl-in-die-naechste-woche](https://www.spiegel.de/politik/deutschland/spd-und-union-koalitionsverhandlungen-ziehen-sich-wohl-in-die-naechste-woche-a-269f8855-83e2-462e-a04a-f6978236ba81#ref=rss)
-### ziehen
-
-* [https://www.spiegel.de/politik/deutschland/spd-und-union-koalitionsverhandlungen-ziehen-sich-wohl-in-die-naechste-woche](https://www.spiegel.de/politik/deutschland/spd-und-union-koalitionsverhandlungen-ziehen-sich-wohl-in-die-naechste-woche-a-269f8855-83e2-462e-a04a-f6978236ba81#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-real-madrid-und-antonio-ruediger-ziehen-spektakulaer-ins-pokalfinale-ein](https://www.spiegel.de/sport/fussball/fussball-real-madrid-und-antonio-ruediger-ziehen-spektakulaer-ins-pokalfinale-ein-a-d9d482c2-75e5-4809-a99b-7061fadff32b#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/politik/deutschland/spd-und-union-koalitionsverhandlungen-ziehen-sich-wohl-in-die-naechste-woche](https://www.spiegel.de/politik/deutschland/spd-und-union-koalitionsverhandlungen-ziehen-sich-wohl-in-die-naechste-woche-a-269f8855-83e2-462e-a04a-f6978236ba81#ref=rss)
-* [https://www.spiegel.de/panorama/leute/meghan-trainor-spricht-ueber-ihr-gewicht-und-abnehmspritzen](https://www.spiegel.de/panorama/leute/meghan-trainor-spricht-ueber-ihr-gewicht-und-abnehmspritzen-a-8f8ce93a-4966-4251-83c2-e0562a3af88e#ref=rss)
-### derweil
-
-* [https://www.spiegel.de/politik/deutschland/spd-und-union-koalitionsverhandlungen-ziehen-sich-wohl-in-die-naechste-woche](https://www.spiegel.de/politik/deutschland/spd-und-union-koalitionsverhandlungen-ziehen-sich-wohl-in-die-naechste-woche-a-269f8855-83e2-462e-a04a-f6978236ba81#ref=rss)
-* [https://www.spiegel.de/ausland/uss-carl-vinson-usa-schicken-weiteren-flugzeugtraeger-in-den-nahen-osten](https://www.spiegel.de/ausland/uss-carl-vinson-usa-schicken-weiteren-flugzeugtraeger-in-den-nahen-osten-a-4e4602cc-35e2-48af-9873-1ae5854f38dd#ref=rss)
-### druck
-
-* [https://www.spiegel.de/politik/deutschland/spd-und-union-koalitionsverhandlungen-ziehen-sich-wohl-in-die-naechste-woche](https://www.spiegel.de/politik/deutschland/spd-und-union-koalitionsverhandlungen-ziehen-sich-wohl-in-die-naechste-woche-a-269f8855-83e2-462e-a04a-f6978236ba81#ref=rss)
-* [https://www.spiegel.de/kultur/philosoph-omri-boehm-darf-bei-buchenwald-gedenkfeier-nicht-sprechen](https://www.spiegel.de/kultur/philosoph-omri-boehm-darf-bei-buchenwald-gedenkfeier-nicht-sprechen-a-b764ce35-cfee-488c-a7b2-e478d23c3f21#ref=rss)
-### steffi
-
-* [https://www.spiegel.de/wirtschaft/soziales/umweltministerin-steffi-lemke-nennt-unions-vorschlag-zu-atom-comeback-realitaetsfern](https://www.spiegel.de/wirtschaft/soziales/umweltministerin-steffi-lemke-nennt-unions-vorschlag-zu-atom-comeback-realitaetsfern-a-1ae70a18-c8ea-4567-b355-2a7029726611#ref=rss)
-### lemke
-
-* [https://www.spiegel.de/wirtschaft/soziales/umweltministerin-steffi-lemke-nennt-unions-vorschlag-zu-atom-comeback-realitaetsfern](https://www.spiegel.de/wirtschaft/soziales/umweltministerin-steffi-lemke-nennt-unions-vorschlag-zu-atom-comeback-realitaetsfern-a-1ae70a18-c8ea-4567-b355-2a7029726611#ref=rss)
-### gewinnt
-
-* [https://www.spiegel.de/ausland/cory-booker-rekordrede-gegen-donald-trump-im-us-senat](https://www.spiegel.de/ausland/cory-booker-rekordrede-gegen-donald-trump-im-us-senat-a-7e231c3c-d075-4c3d-ae6b-1e38cb928f98#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bushido-gewinnt-streit-um-schriftzug-carlo-cokxxx-nutten-gegen-fler](https://www.spiegel.de/panorama/justiz/bushido-gewinnt-streit-um-schriftzug-carlo-cokxxx-nutten-gegen-fler-a-a3e38a5b-7a96-4f28-ad8f-2061228931d5#ref=rss)
-### gun
-
-* [https://www.spiegel.de/kultur/kino/val-kilmer-ein-eismann-der-von-innen-brannte-nachruf](https://www.spiegel.de/kultur/kino/val-kilmer-ein-eismann-der-von-innen-brannte-nachruf-a-9b5fe723-641c-48cf-a113-82c57abcfb21#ref=rss)
-* [https://www.spiegel.de/kultur/kino/val-kilmer-das-leben-des-schauspielers-in-bildern](https://www.spiegel.de/kultur/kino/val-kilmer-das-leben-des-schauspielers-in-bildern-a-36fa5d47-676e-4ba6-a653-dc2af935f8c4#ref=rss)
-### paul
-
-* [https://www.spiegel.de/panorama/leute/paul-rudd-wurde-fuer-miley-cyrus-bei-snl-zum-fangirl](https://www.spiegel.de/panorama/leute/paul-rudd-wurde-fuer-miley-cyrus-bei-snl-zum-fangirl-a-9368807b-4e74-420c-9804-63ceeecd6ed7#ref=rss)
-### rudd
-
-* [https://www.spiegel.de/panorama/leute/paul-rudd-wurde-fuer-miley-cyrus-bei-snl-zum-fangirl](https://www.spiegel.de/panorama/leute/paul-rudd-wurde-fuer-miley-cyrus-bei-snl-zum-fangirl-a-9368807b-4e74-420c-9804-63ceeecd6ed7#ref=rss)
-### leute
-
-* [https://www.spiegel.de/panorama/leute/paul-rudd-wurde-fuer-miley-cyrus-bei-snl-zum-fangirl](https://www.spiegel.de/panorama/leute/paul-rudd-wurde-fuer-miley-cyrus-bei-snl-zum-fangirl-a-9368807b-4e74-420c-9804-63ceeecd6ed7#ref=rss)
-* [https://www.spiegel.de/geschichte/active-clubs-wie-in-kampfsportgruppen-rechte-ideologien-verbreitet-werden](https://www.spiegel.de/geschichte/active-clubs-wie-in-kampfsportgruppen-rechte-ideologien-verbreitet-werden-a-357c63fc-830e-468a-aeba-a4c9b2bb6f5f#ref=rss)
-### ancelotti
-
-* [https://www.spiegel.de/sport/fussball/carlo-ancelotti-real-trainer-wegen-steuerhinterziehung-vor-gericht](https://www.spiegel.de/sport/fussball/carlo-ancelotti-real-trainer-wegen-steuerhinterziehung-vor-gericht-a-a6d4260e-21db-4465-97df-ae29030e2a46#ref=rss)
-### madrid
-
-* [https://www.spiegel.de/sport/fussball/carlo-ancelotti-real-trainer-wegen-steuerhinterziehung-vor-gericht](https://www.spiegel.de/sport/fussball/carlo-ancelotti-real-trainer-wegen-steuerhinterziehung-vor-gericht-a-a6d4260e-21db-4465-97df-ae29030e2a46#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-real-madrid-und-antonio-ruediger-ziehen-spektakulaer-ins-pokalfinale-ein](https://www.spiegel.de/sport/fussball/fussball-real-madrid-und-antonio-ruediger-ziehen-spektakulaer-ins-pokalfinale-ein-a-d9d482c2-75e5-4809-a99b-7061fadff32b#ref=rss)
-### fordert
-
-* [https://www.spiegel.de/sport/fussball/carlo-ancelotti-real-trainer-wegen-steuerhinterziehung-vor-gericht](https://www.spiegel.de/sport/fussball/carlo-ancelotti-real-trainer-wegen-steuerhinterziehung-vor-gericht-a-a6d4260e-21db-4465-97df-ae29030e2a46#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/dietmar-woidke-brandenburgs-landeschef-fordert-drei-ostdeutsche-minister-in-kuenftiger-bundesregierung](https://www.spiegel.de/politik/deutschland/dietmar-woidke-brandenburgs-landeschef-fordert-drei-ostdeutsche-minister-in-kuenftiger-bundesregierung-a-65e4ce11-be7e-4b8e-a6f3-4c0177249b8e#ref=rss)
-### bushido
-
-* [https://www.spiegel.de/panorama/justiz/bushido-gewinnt-streit-um-schriftzug-carlo-cokxxx-nutten-gegen-fler](https://www.spiegel.de/panorama/justiz/bushido-gewinnt-streit-um-schriftzug-carlo-cokxxx-nutten-gegen-fler-a-a3e38a5b-7a96-4f28-ad8f-2061228931d5#ref=rss)
-### cokxxx
-
-* [https://www.spiegel.de/panorama/justiz/bushido-gewinnt-streit-um-schriftzug-carlo-cokxxx-nutten-gegen-fler](https://www.spiegel.de/panorama/justiz/bushido-gewinnt-streit-um-schriftzug-carlo-cokxxx-nutten-gegen-fler-a-a3e38a5b-7a96-4f28-ad8f-2061228931d5#ref=rss)
-### nutten
-
-* [https://www.spiegel.de/panorama/justiz/bushido-gewinnt-streit-um-schriftzug-carlo-cokxxx-nutten-gegen-fler](https://www.spiegel.de/panorama/justiz/bushido-gewinnt-streit-um-schriftzug-carlo-cokxxx-nutten-gegen-fler-a-a3e38a5b-7a96-4f28-ad8f-2061228931d5#ref=rss)
-### fler
-
-* [https://www.spiegel.de/panorama/justiz/bushido-gewinnt-streit-um-schriftzug-carlo-cokxxx-nutten-gegen-fler](https://www.spiegel.de/panorama/justiz/bushido-gewinnt-streit-um-schriftzug-carlo-cokxxx-nutten-gegen-fler-a-a3e38a5b-7a96-4f28-ad8f-2061228931d5#ref=rss)
-### türkei
-
-* [https://www.spiegel.de/ausland/tuerkei-pikachu-als-symbolfigur-der-proteste-wer-ist-der-mann-im-pokemon-kostuem](https://www.spiegel.de/ausland/tuerkei-pikachu-als-symbolfigur-der-proteste-wer-ist-der-mann-im-pokemon-kostuem-a-fc1455fa-a468-4423-80a4-d8eae6abd409#ref=rss)
-### pikachu
-
-* [https://www.spiegel.de/ausland/tuerkei-pikachu-als-symbolfigur-der-proteste-wer-ist-der-mann-im-pokemon-kostuem](https://www.spiegel.de/ausland/tuerkei-pikachu-als-symbolfigur-der-proteste-wer-ist-der-mann-im-pokemon-kostuem-a-fc1455fa-a468-4423-80a4-d8eae6abd409#ref=rss)
-### rezept
-
-* [https://www.spiegel.de/start/guenstiges-rezept-fuer-bratlinge-mit-gerettetem-gemuese](https://www.spiegel.de/start/guenstiges-rezept-fuer-bratlinge-mit-gerettetem-gemuese-a-a6d0f125-b624-432c-8d1e-ba31d12d8d56#ref=rss)
-### leben
-
-* [https://www.spiegel.de/start/guenstiges-rezept-fuer-bratlinge-mit-gerettetem-gemuese](https://www.spiegel.de/start/guenstiges-rezept-fuer-bratlinge-mit-gerettetem-gemuese-a-a6d0f125-b624-432c-8d1e-ba31d12d8d56#ref=rss)
-* [https://www.spiegel.de/kultur/kino/val-kilmer-das-leben-des-schauspielers-in-bildern](https://www.spiegel.de/kultur/kino/val-kilmer-das-leben-des-schauspielers-in-bildern-a-36fa5d47-676e-4ba6-a653-dc2af935f8c4#ref=rss)
-### omri
-
-* [https://www.spiegel.de/kultur/philosoph-omri-boehm-darf-bei-buchenwald-gedenkfeier-nicht-sprechen](https://www.spiegel.de/kultur/philosoph-omri-boehm-darf-bei-buchenwald-gedenkfeier-nicht-sprechen-a-b764ce35-cfee-488c-a7b2-e478d23c3f21#ref=rss)
-### boehm
-
-* [https://www.spiegel.de/kultur/philosoph-omri-boehm-darf-bei-buchenwald-gedenkfeier-nicht-sprechen](https://www.spiegel.de/kultur/philosoph-omri-boehm-darf-bei-buchenwald-gedenkfeier-nicht-sprechen-a-b764ce35-cfee-488c-a7b2-e478d23c3f21#ref=rss)
+* [https://www.spiegel.de/ausland/marine-le-pen-das-urteil-das-frankreichs-politik-erschuettert](https://www.spiegel.de/ausland/marine-le-pen-das-urteil-das-frankreichs-politik-erschuettert-a-7051fa5c-46e4-4da7-8c76-3614b820692b#ref=rss)
+* [https://www.spiegel.de/ausland/urteil-gegen-marine-le-pen-moegliche-folgen-vor-der-praesidentschaftswahl-in-frankreich-podcast](https://www.spiegel.de/ausland/urteil-gegen-marine-le-pen-moegliche-folgen-vor-der-praesidentschaftswahl-in-frankreich-podcast-a-17d39556-e720-4416-b44d-56fe2d35ddfa#ref=rss)
 ### le
 
-* [https://www.spiegel.de/ausland/frankreich-warum-marine-le-pen-doch-zur-praesidentschaftswahl-antreten-koennte](https://www.spiegel.de/ausland/frankreich-warum-marine-le-pen-doch-zur-praesidentschaftswahl-antreten-koennte-a-6e384e53-90bb-4168-9937-e6516f315f22#ref=rss)
+* [https://www.spiegel.de/ausland/marine-le-pen-das-urteil-das-frankreichs-politik-erschuettert](https://www.spiegel.de/ausland/marine-le-pen-das-urteil-das-frankreichs-politik-erschuettert-a-7051fa5c-46e4-4da7-8c76-3614b820692b#ref=rss)
+* [https://www.spiegel.de/ausland/urteil-gegen-marine-le-pen-moegliche-folgen-vor-der-praesidentschaftswahl-in-frankreich-podcast](https://www.spiegel.de/ausland/urteil-gegen-marine-le-pen-moegliche-folgen-vor-der-praesidentschaftswahl-in-frankreich-podcast-a-17d39556-e720-4416-b44d-56fe2d35ddfa#ref=rss)
 ### pen
 
-* [https://www.spiegel.de/ausland/frankreich-warum-marine-le-pen-doch-zur-praesidentschaftswahl-antreten-koennte](https://www.spiegel.de/ausland/frankreich-warum-marine-le-pen-doch-zur-praesidentschaftswahl-antreten-koennte-a-6e384e53-90bb-4168-9937-e6516f315f22#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/ausland/frankreich-warum-marine-le-pen-doch-zur-praesidentschaftswahl-antreten-koennte](https://www.spiegel.de/ausland/frankreich-warum-marine-le-pen-doch-zur-praesidentschaftswahl-antreten-koennte-a-6e384e53-90bb-4168-9937-e6516f315f22#ref=rss)
-* [https://www.spiegel.de/ausland/russland-wladimir-putin-beruft-160-000-neue-rekruten-ein](https://www.spiegel.de/ausland/russland-wladimir-putin-beruft-160-000-neue-rekruten-ein-a-da710555-b3e1-4da5-8b3c-06910bf59c1f#ref=rss)
-### ehemalige
-
-* [https://www.spiegel.de/kultur/kino/val-kilmer-ist-tot-ehemalige-weggefaehrten-wuerdigen-den-schauspieler](https://www.spiegel.de/kultur/kino/val-kilmer-ist-tot-ehemalige-weggefaehrten-wuerdigen-den-schauspieler-a-078b478e-8bdb-49da-885b-6b4fa7af0a41#ref=rss)
-### weggefährten
-
-* [https://www.spiegel.de/kultur/kino/val-kilmer-ist-tot-ehemalige-weggefaehrten-wuerdigen-den-schauspieler](https://www.spiegel.de/kultur/kino/val-kilmer-ist-tot-ehemalige-weggefaehrten-wuerdigen-den-schauspieler-a-078b478e-8bdb-49da-885b-6b4fa7af0a41#ref=rss)
-### würdigen
-
-* [https://www.spiegel.de/kultur/kino/val-kilmer-ist-tot-ehemalige-weggefaehrten-wuerdigen-den-schauspieler](https://www.spiegel.de/kultur/kino/val-kilmer-ist-tot-ehemalige-weggefaehrten-wuerdigen-den-schauspieler-a-078b478e-8bdb-49da-885b-6b4fa7af0a41#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/ukraine-donald-trump-stellt-neue-forderungen-zu-ukrainischen-bodenschaetzen](https://www.spiegel.de/ausland/ukraine-donald-trump-stellt-neue-forderungen-zu-ukrainischen-bodenschaetzen-a-a3c1dd28-3d5e-4769-b44d-83beba39f004#ref=rss)
+* [https://www.spiegel.de/ausland/marine-le-pen-das-urteil-das-frankreichs-politik-erschuettert](https://www.spiegel.de/ausland/marine-le-pen-das-urteil-das-frankreichs-politik-erschuettert-a-7051fa5c-46e4-4da7-8c76-3614b820692b#ref=rss)
+* [https://www.spiegel.de/ausland/urteil-gegen-marine-le-pen-moegliche-folgen-vor-der-praesidentschaftswahl-in-frankreich-podcast](https://www.spiegel.de/ausland/urteil-gegen-marine-le-pen-moegliche-folgen-vor-der-praesidentschaftswahl-in-frankreich-podcast-a-17d39556-e720-4416-b44d-56fe2d35ddfa#ref=rss)
 ### offenbar
 
-* [https://www.spiegel.de/ausland/ukraine-donald-trump-stellt-neue-forderungen-zu-ukrainischen-bodenschaetzen](https://www.spiegel.de/ausland/ukraine-donald-trump-stellt-neue-forderungen-zu-ukrainischen-bodenschaetzen-a-a3c1dd28-3d5e-4769-b44d-83beba39f004#ref=rss)
-* [https://www.spiegel.de/ausland/mette-frederiksen-daenische-ministerpraesidentin-reist-nach-groenland](https://www.spiegel.de/ausland/mette-frederiksen-daenische-ministerpraesidentin-reist-nach-groenland-a-7ff66b15-8cbf-42f0-b1a2-fad6d3e5c8c6#ref=rss)
-### dietmar
+* [https://www.spiegel.de/wirtschaft/tiktok-amazon-zeigt-interesse-am-kauf-der-app-um-ein-verbot-zu-verhindern](https://www.spiegel.de/wirtschaft/tiktok-amazon-zeigt-interesse-am-kauf-der-app-um-ein-verbot-zu-verhindern-a-11668fce-1565-44f6-8c6c-7bb60d7c2094#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-silvester-randalierer-vor-gericht-der-mann-mit-der-rakete](https://www.spiegel.de/panorama/berlin-silvester-randalierer-vor-gericht-der-mann-mit-der-rakete-a-dbff1b30-d6eb-49e8-8066-94deef136ee5#ref=rss)
+* [https://www.spiegel.de/ausland/georgien-eu-aussenbeauftragte-kaja-kallas-kritisiert-agenten-gesetz-scharf](https://www.spiegel.de/ausland/georgien-eu-aussenbeauftragte-kaja-kallas-kritisiert-agenten-gesetz-scharf-a-a360f30b-ba86-414e-9fb7-0af2dab4b219#ref=rss)
+### stunden
 
-* [https://www.spiegel.de/politik/deutschland/dietmar-woidke-brandenburgs-landeschef-fordert-drei-ostdeutsche-minister-in-kuenftiger-bundesregierung](https://www.spiegel.de/politik/deutschland/dietmar-woidke-brandenburgs-landeschef-fordert-drei-ostdeutsche-minister-in-kuenftiger-bundesregierung-a-65e4ce11-be7e-4b8e-a6f3-4c0177249b8e#ref=rss)
-### woidke
+* [https://www.spiegel.de/panorama/bad-saeckingen-waldshut-handwerker-klaut-aus-versehen-vier-meter-langes-eingangstor](https://www.spiegel.de/panorama/bad-saeckingen-waldshut-handwerker-klaut-aus-versehen-vier-meter-langes-eingangstor-a-810a3b5b-493d-422a-b5e0-927d3197e473#ref=rss)
+* [https://www.spiegel.de/ausland/cory-booker-rekordrede-gegen-donald-trump-im-us-senat-25-stunden-am-rednerpult](https://www.spiegel.de/ausland/cory-booker-rekordrede-gegen-donald-trump-im-us-senat-25-stunden-am-rednerpult-a-3fc609a8-76df-424c-8afa-cc201171dc80#ref=rss)
+### präsidentschaftswahl
 
-* [https://www.spiegel.de/politik/deutschland/dietmar-woidke-brandenburgs-landeschef-fordert-drei-ostdeutsche-minister-in-kuenftiger-bundesregierung](https://www.spiegel.de/politik/deutschland/dietmar-woidke-brandenburgs-landeschef-fordert-drei-ostdeutsche-minister-in-kuenftiger-bundesregierung-a-65e4ce11-be7e-4b8e-a6f3-4c0177249b8e#ref=rss)
-### brandenburgs
+* [https://www.spiegel.de/ausland/marine-le-pen-das-urteil-das-frankreichs-politik-erschuettert](https://www.spiegel.de/ausland/marine-le-pen-das-urteil-das-frankreichs-politik-erschuettert-a-7051fa5c-46e4-4da7-8c76-3614b820692b#ref=rss)
+* [https://www.spiegel.de/ausland/urteil-gegen-marine-le-pen-moegliche-folgen-vor-der-praesidentschaftswahl-in-frankreich-podcast](https://www.spiegel.de/ausland/urteil-gegen-marine-le-pen-moegliche-folgen-vor-der-praesidentschaftswahl-in-frankreich-podcast-a-17d39556-e720-4416-b44d-56fe2d35ddfa#ref=rss)
+### frankreich
 
-* [https://www.spiegel.de/politik/deutschland/dietmar-woidke-brandenburgs-landeschef-fordert-drei-ostdeutsche-minister-in-kuenftiger-bundesregierung](https://www.spiegel.de/politik/deutschland/dietmar-woidke-brandenburgs-landeschef-fordert-drei-ostdeutsche-minister-in-kuenftiger-bundesregierung-a-65e4ce11-be7e-4b8e-a6f3-4c0177249b8e#ref=rss)
-### landeschef
+* [https://www.spiegel.de/ausland/marine-le-pen-das-urteil-das-frankreichs-politik-erschuettert](https://www.spiegel.de/ausland/marine-le-pen-das-urteil-das-frankreichs-politik-erschuettert-a-7051fa5c-46e4-4da7-8c76-3614b820692b#ref=rss)
+* [https://www.spiegel.de/ausland/urteil-gegen-marine-le-pen-moegliche-folgen-vor-der-praesidentschaftswahl-in-frankreich-podcast](https://www.spiegel.de/ausland/urteil-gegen-marine-le-pen-moegliche-folgen-vor-der-praesidentschaftswahl-in-frankreich-podcast-a-17d39556-e720-4416-b44d-56fe2d35ddfa#ref=rss)
+### berichtet
 
-* [https://www.spiegel.de/politik/deutschland/dietmar-woidke-brandenburgs-landeschef-fordert-drei-ostdeutsche-minister-in-kuenftiger-bundesregierung](https://www.spiegel.de/politik/deutschland/dietmar-woidke-brandenburgs-landeschef-fordert-drei-ostdeutsche-minister-in-kuenftiger-bundesregierung-a-65e4ce11-be7e-4b8e-a6f3-4c0177249b8e#ref=rss)
-### meghan
+* [https://www.spiegel.de/ausland/marine-le-pen-das-urteil-das-frankreichs-politik-erschuettert](https://www.spiegel.de/ausland/marine-le-pen-das-urteil-das-frankreichs-politik-erschuettert-a-7051fa5c-46e4-4da7-8c76-3614b820692b#ref=rss)
+* [https://www.spiegel.de/ausland/urteil-gegen-marine-le-pen-moegliche-folgen-vor-der-praesidentschaftswahl-in-frankreich-podcast](https://www.spiegel.de/ausland/urteil-gegen-marine-le-pen-moegliche-folgen-vor-der-praesidentschaftswahl-in-frankreich-podcast-a-17d39556-e720-4416-b44d-56fe2d35ddfa#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/desy-chefin-beate-heinemann-wir-verlieren-immer-noch-viele-talentierte-forscherinnen](https://www.spiegel.de/wissenschaft/mensch/desy-chefin-beate-heinemann-wir-verlieren-immer-noch-viele-talentierte-forscherinnen-a-bc28c14a-ef63-435a-8ccd-d5a3248b48dd#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/panorama/leute/meghan-trainor-spricht-ueber-ihr-gewicht-und-abnehmspritzen](https://www.spiegel.de/panorama/leute/meghan-trainor-spricht-ueber-ihr-gewicht-und-abnehmspritzen-a-8f8ce93a-4966-4251-83c2-e0562a3af88e#ref=rss)
-### trainor
+* [https://www.spiegel.de/wissenschaft/mensch/pompeji-archaeologen-entdecken-antike-grabskulpturen-in-nekropole-von-porta-sarno](https://www.spiegel.de/wissenschaft/mensch/pompeji-archaeologen-entdecken-antike-grabskulpturen-in-nekropole-von-porta-sarno-a-325eb4a5-d4af-4655-a73a-b2178c7584b0#ref=rss)
+* [https://www.spiegel.de/sport/turnen-vize-verbandspraesidentin-ulla-koch-tritt-zurueck](https://www.spiegel.de/sport/turnen-vize-verbandspraesidentin-ulla-koch-tritt-zurueck-a-d17b19a9-5b79-4962-b497-e570374609ba#ref=rss)
+* [https://www.spiegel.de/ausland/gazastreifen-grab-mit-15-getoeteten-sanitaetern-und-verscharrte-fahrzeuge-entdeckt](https://www.spiegel.de/ausland/gazastreifen-grab-mit-15-getoeteten-sanitaetern-und-verscharrte-fahrzeuge-entdeckt-a-e39c76fc-5100-4a4e-b7fe-9d7c8df43cd0#ref=rss)
+### 25
 
-* [https://www.spiegel.de/panorama/leute/meghan-trainor-spricht-ueber-ihr-gewicht-und-abnehmspritzen](https://www.spiegel.de/panorama/leute/meghan-trainor-spricht-ueber-ihr-gewicht-und-abnehmspritzen-a-8f8ce93a-4966-4251-83c2-e0562a3af88e#ref=rss)
-### abnehmspritzen
+* [https://www.spiegel.de/ausland/cory-booker-rekordrede-gegen-donald-trump-im-us-senat-25-stunden-am-rednerpult](https://www.spiegel.de/ausland/cory-booker-rekordrede-gegen-donald-trump-im-us-senat-25-stunden-am-rednerpult-a-3fc609a8-76df-424c-8afa-cc201171dc80#ref=rss)
+* [https://www.spiegel.de/sport/quiz-ist-das-ein-rapper-oder-ein-galopper](https://www.spiegel.de/sport/quiz-ist-das-ein-rapper-oder-ein-galopper-a-886cb2f0-7462-486b-96ab-c0fbbb86277a#ref=rss)
+### switch
 
-* [https://www.spiegel.de/panorama/leute/meghan-trainor-spricht-ueber-ihr-gewicht-und-abnehmspritzen](https://www.spiegel.de/panorama/leute/meghan-trainor-spricht-ueber-ihr-gewicht-und-abnehmspritzen-a-8f8ce93a-4966-4251-83c2-e0562a3af88e#ref=rss)
-### uss
+* [https://www.spiegel.de/netzwelt/games/switch-2-nintendo-gibt-release-datum-und-preis-bekannt](https://www.spiegel.de/netzwelt/games/switch-2-nintendo-gibt-release-datum-und-preis-bekannt-a-2f01921b-cd3b-4676-9339-a573539fada1#ref=rss)
+### tiktok
 
-* [https://www.spiegel.de/ausland/uss-carl-vinson-usa-schicken-weiteren-flugzeugtraeger-in-den-nahen-osten](https://www.spiegel.de/ausland/uss-carl-vinson-usa-schicken-weiteren-flugzeugtraeger-in-den-nahen-osten-a-4e4602cc-35e2-48af-9873-1ae5854f38dd#ref=rss)
-### carl
+* [https://www.spiegel.de/wirtschaft/tiktok-amazon-zeigt-interesse-am-kauf-der-app-um-ein-verbot-zu-verhindern](https://www.spiegel.de/wirtschaft/tiktok-amazon-zeigt-interesse-am-kauf-der-app-um-ein-verbot-zu-verhindern-a-11668fce-1565-44f6-8c6c-7bb60d7c2094#ref=rss)
+### amazon
 
-* [https://www.spiegel.de/ausland/uss-carl-vinson-usa-schicken-weiteren-flugzeugtraeger-in-den-nahen-osten](https://www.spiegel.de/ausland/uss-carl-vinson-usa-schicken-weiteren-flugzeugtraeger-in-den-nahen-osten-a-4e4602cc-35e2-48af-9873-1ae5854f38dd#ref=rss)
-### vinson
+* [https://www.spiegel.de/wirtschaft/tiktok-amazon-zeigt-interesse-am-kauf-der-app-um-ein-verbot-zu-verhindern](https://www.spiegel.de/wirtschaft/tiktok-amazon-zeigt-interesse-am-kauf-der-app-um-ein-verbot-zu-verhindern-a-11668fce-1565-44f6-8c6c-7bb60d7c2094#ref=rss)
+### zeigt
 
-* [https://www.spiegel.de/ausland/uss-carl-vinson-usa-schicken-weiteren-flugzeugtraeger-in-den-nahen-osten](https://www.spiegel.de/ausland/uss-carl-vinson-usa-schicken-weiteren-flugzeugtraeger-in-den-nahen-osten-a-4e4602cc-35e2-48af-9873-1ae5854f38dd#ref=rss)
-### nahen
+* [https://www.spiegel.de/wirtschaft/tiktok-amazon-zeigt-interesse-am-kauf-der-app-um-ein-verbot-zu-verhindern](https://www.spiegel.de/wirtschaft/tiktok-amazon-zeigt-interesse-am-kauf-der-app-um-ein-verbot-zu-verhindern-a-11668fce-1565-44f6-8c6c-7bb60d7c2094#ref=rss)
+### interesse
 
-* [https://www.spiegel.de/ausland/uss-carl-vinson-usa-schicken-weiteren-flugzeugtraeger-in-den-nahen-osten](https://www.spiegel.de/ausland/uss-carl-vinson-usa-schicken-weiteren-flugzeugtraeger-in-den-nahen-osten-a-4e4602cc-35e2-48af-9873-1ae5854f38dd#ref=rss)
-### osten
+* [https://www.spiegel.de/wirtschaft/tiktok-amazon-zeigt-interesse-am-kauf-der-app-um-ein-verbot-zu-verhindern](https://www.spiegel.de/wirtschaft/tiktok-amazon-zeigt-interesse-am-kauf-der-app-um-ein-verbot-zu-verhindern-a-11668fce-1565-44f6-8c6c-7bb60d7c2094#ref=rss)
+### app
 
-* [https://www.spiegel.de/ausland/uss-carl-vinson-usa-schicken-weiteren-flugzeugtraeger-in-den-nahen-osten](https://www.spiegel.de/ausland/uss-carl-vinson-usa-schicken-weiteren-flugzeugtraeger-in-den-nahen-osten-a-4e4602cc-35e2-48af-9873-1ae5854f38dd#ref=rss)
-### bringen
+* [https://www.spiegel.de/wirtschaft/tiktok-amazon-zeigt-interesse-am-kauf-der-app-um-ein-verbot-zu-verhindern](https://www.spiegel.de/wirtschaft/tiktok-amazon-zeigt-interesse-am-kauf-der-app-um-ein-verbot-zu-verhindern-a-11668fce-1565-44f6-8c6c-7bb60d7c2094#ref=rss)
+### verhindern
 
-* [https://www.spiegel.de/wirtschaft/bmw-co-steigerten-verkaeufe-in-den-usa-kraeftig](https://www.spiegel.de/wirtschaft/bmw-co-steigerten-verkaeufe-in-den-usa-kraeftig-a-d0b714c7-3c7b-4a3a-8dc4-23802b7fe4de#ref=rss)
-* [https://www.spiegel.de/geschichte/active-clubs-wie-in-kampfsportgruppen-rechte-ideologien-verbreitet-werden](https://www.spiegel.de/geschichte/active-clubs-wie-in-kampfsportgruppen-rechte-ideologien-verbreitet-werden-a-357c63fc-830e-468a-aeba-a4c9b2bb6f5f#ref=rss)
-### einmal
+* [https://www.spiegel.de/wirtschaft/tiktok-amazon-zeigt-interesse-am-kauf-der-app-um-ein-verbot-zu-verhindern](https://www.spiegel.de/wirtschaft/tiktok-amazon-zeigt-interesse-am-kauf-der-app-um-ein-verbot-zu-verhindern-a-11668fce-1565-44f6-8c6c-7bb60d7c2094#ref=rss)
+### usa
 
-* [https://www.spiegel.de/wirtschaft/bmw-co-steigerten-verkaeufe-in-den-usa-kraeftig](https://www.spiegel.de/wirtschaft/bmw-co-steigerten-verkaeufe-in-den-usa-kraeftig-a-d0b714c7-3c7b-4a3a-8dc4-23802b7fe4de#ref=rss)
-### richtig
+* [https://www.spiegel.de/wirtschaft/tiktok-amazon-zeigt-interesse-am-kauf-der-app-um-ein-verbot-zu-verhindern](https://www.spiegel.de/wirtschaft/tiktok-amazon-zeigt-interesse-am-kauf-der-app-um-ein-verbot-zu-verhindern-a-11668fce-1565-44f6-8c6c-7bb60d7c2094#ref=rss)
+* [https://www.spiegel.de/ausland/usa-donald-trump-soll-vertrauten-rueckzug-von-elon-musk-angekuendigt-haben](https://www.spiegel.de/ausland/usa-donald-trump-soll-vertrauten-rueckzug-von-elon-musk-angekuendigt-haben-a-675851eb-49b9-482e-bfa8-41dd666fc675#ref=rss)
+### gericht
 
-* [https://www.spiegel.de/wirtschaft/bmw-co-steigerten-verkaeufe-in-den-usa-kraeftig](https://www.spiegel.de/wirtschaft/bmw-co-steigerten-verkaeufe-in-den-usa-kraeftig-a-d0b714c7-3c7b-4a3a-8dc4-23802b7fe4de#ref=rss)
-* [https://www.spiegel.de/sport/fussball/dfb-pokal-arminia-bielefeld-drohen-rund-ums-finale-terminprobleme](https://www.spiegel.de/sport/fussball/dfb-pokal-arminia-bielefeld-drohen-rund-ums-finale-terminprobleme-a-a60f2057-0d5f-4e94-93f9-7d772b2fa044#ref=rss)
-### antonio
+* [https://www.spiegel.de/panorama/berlin-silvester-randalierer-vor-gericht-der-mann-mit-der-rakete](https://www.spiegel.de/panorama/berlin-silvester-randalierer-vor-gericht-der-mann-mit-der-rakete-a-dbff1b30-d6eb-49e8-8066-94deef136ee5#ref=rss)
+### rakete
 
-* [https://www.spiegel.de/sport/fussball/fussball-real-madrid-und-antonio-ruediger-ziehen-spektakulaer-ins-pokalfinale-ein](https://www.spiegel.de/sport/fussball/fussball-real-madrid-und-antonio-ruediger-ziehen-spektakulaer-ins-pokalfinale-ein-a-d9d482c2-75e5-4809-a99b-7061fadff32b#ref=rss)
-### rüdiger
+* [https://www.spiegel.de/panorama/berlin-silvester-randalierer-vor-gericht-der-mann-mit-der-rakete](https://www.spiegel.de/panorama/berlin-silvester-randalierer-vor-gericht-der-mann-mit-der-rakete-a-dbff1b30-d6eb-49e8-8066-94deef136ee5#ref=rss)
+### alexander
 
-* [https://www.spiegel.de/sport/fussball/fussball-real-madrid-und-antonio-ruediger-ziehen-spektakulaer-ins-pokalfinale-ein](https://www.spiegel.de/sport/fussball/fussball-real-madrid-und-antonio-ruediger-ziehen-spektakulaer-ins-pokalfinale-ein-a-d9d482c2-75e5-4809-a99b-7061fadff32b#ref=rss)
-### endspiel
+* [https://www.spiegel.de/geschichte/alexander-schalck-golodkowski-und-die-verschwundenen-ddr-milliarden-die-spur-des-geldes](https://www.spiegel.de/geschichte/alexander-schalck-golodkowski-und-die-verschwundenen-ddr-milliarden-die-spur-des-geldes-a-9a09ee43-0bed-4c57-86d9-a5e55dece0cb#ref=rss)
+### schalckgolodkowski
 
-* [https://www.spiegel.de/sport/fussball/fussball-real-madrid-und-antonio-ruediger-ziehen-spektakulaer-ins-pokalfinale-ein](https://www.spiegel.de/sport/fussball/fussball-real-madrid-und-antonio-ruediger-ziehen-spektakulaer-ins-pokalfinale-ein-a-d9d482c2-75e5-4809-a99b-7061fadff32b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/dfb-pokal-arminia-bielefeld-drohen-rund-ums-finale-terminprobleme](https://www.spiegel.de/sport/fussball/dfb-pokal-arminia-bielefeld-drohen-rund-ums-finale-terminprobleme-a-a60f2057-0d5f-4e94-93f9-7d772b2fa044#ref=rss)
-### russland
+* [https://www.spiegel.de/geschichte/alexander-schalck-golodkowski-und-die-verschwundenen-ddr-milliarden-die-spur-des-geldes](https://www.spiegel.de/geschichte/alexander-schalck-golodkowski-und-die-verschwundenen-ddr-milliarden-die-spur-des-geldes-a-9a09ee43-0bed-4c57-86d9-a5e55dece0cb#ref=rss)
+### stand
 
-* [https://www.spiegel.de/ausland/russland-wladimir-putin-beruft-160-000-neue-rekruten-ein](https://www.spiegel.de/ausland/russland-wladimir-putin-beruft-160-000-neue-rekruten-ein-a-da710555-b3e1-4da5-8b3c-06910bf59c1f#ref=rss)
-### rekruten
+* [https://www.spiegel.de/geschichte/alexander-schalck-golodkowski-und-die-verschwundenen-ddr-milliarden-die-spur-des-geldes](https://www.spiegel.de/geschichte/alexander-schalck-golodkowski-und-die-verschwundenen-ddr-milliarden-die-spur-des-geldes-a-9a09ee43-0bed-4c57-86d9-a5e55dece0cb#ref=rss)
+* [https://www.spiegel.de/ausland/cory-booker-rekordrede-gegen-donald-trump-im-us-senat-25-stunden-am-rednerpult](https://www.spiegel.de/ausland/cory-booker-rekordrede-gegen-donald-trump-im-us-senat-25-stunden-am-rednerpult-a-3fc609a8-76df-424c-8afa-cc201171dc80#ref=rss)
+### benjamin
 
-* [https://www.spiegel.de/ausland/russland-wladimir-putin-beruft-160-000-neue-rekruten-ein](https://www.spiegel.de/ausland/russland-wladimir-putin-beruft-160-000-neue-rekruten-ein-a-da710555-b3e1-4da5-8b3c-06910bf59c1f#ref=rss)
-### männer
+* [https://www.spiegel.de/ausland/benjamin-netanyahu-besuch-bei-viktor-orban-trotz-haftbefehl-die-illiberale-bromance](https://www.spiegel.de/ausland/benjamin-netanyahu-besuch-bei-viktor-orban-trotz-haftbefehl-die-illiberale-bromance-a-74e52257-80e6-490e-a86d-a3f15e3f361f#ref=rss)
+### netanyahu
 
-* [https://www.spiegel.de/ausland/russland-wladimir-putin-beruft-160-000-neue-rekruten-ein](https://www.spiegel.de/ausland/russland-wladimir-putin-beruft-160-000-neue-rekruten-ein-a-da710555-b3e1-4da5-8b3c-06910bf59c1f#ref=rss)
-* [https://www.spiegel.de/geschichte/active-clubs-wie-in-kampfsportgruppen-rechte-ideologien-verbreitet-werden](https://www.spiegel.de/geschichte/active-clubs-wie-in-kampfsportgruppen-rechte-ideologien-verbreitet-werden-a-357c63fc-830e-468a-aeba-a4c9b2bb6f5f#ref=rss)
-### zahl
+* [https://www.spiegel.de/ausland/benjamin-netanyahu-besuch-bei-viktor-orban-trotz-haftbefehl-die-illiberale-bromance](https://www.spiegel.de/ausland/benjamin-netanyahu-besuch-bei-viktor-orban-trotz-haftbefehl-die-illiberale-bromance-a-74e52257-80e6-490e-a86d-a3f15e3f361f#ref=rss)
+### viktor
 
-* [https://www.spiegel.de/ausland/russland-wladimir-putin-beruft-160-000-neue-rekruten-ein](https://www.spiegel.de/ausland/russland-wladimir-putin-beruft-160-000-neue-rekruten-ein-a-da710555-b3e1-4da5-8b3c-06910bf59c1f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wirtschaftsflaute-deutsche-industrie-hat-flaechendeckend-arbeitsplaetze-abgebaut](https://www.spiegel.de/wirtschaft/wirtschaftsflaute-deutsche-industrie-hat-flaechendeckend-arbeitsplaetze-abgebaut-a-9380dfc4-f6da-4185-88eb-0fa405cdd6cd#ref=rss)
-### mette
+* [https://www.spiegel.de/ausland/benjamin-netanyahu-besuch-bei-viktor-orban-trotz-haftbefehl-die-illiberale-bromance](https://www.spiegel.de/ausland/benjamin-netanyahu-besuch-bei-viktor-orban-trotz-haftbefehl-die-illiberale-bromance-a-74e52257-80e6-490e-a86d-a3f15e3f361f#ref=rss)
+### orbán
 
-* [https://www.spiegel.de/ausland/mette-frederiksen-daenische-ministerpraesidentin-reist-nach-groenland](https://www.spiegel.de/ausland/mette-frederiksen-daenische-ministerpraesidentin-reist-nach-groenland-a-7ff66b15-8cbf-42f0-b1a2-fad6d3e5c8c6#ref=rss)
-### frederiksen
+* [https://www.spiegel.de/ausland/benjamin-netanyahu-besuch-bei-viktor-orban-trotz-haftbefehl-die-illiberale-bromance](https://www.spiegel.de/ausland/benjamin-netanyahu-besuch-bei-viktor-orban-trotz-haftbefehl-die-illiberale-bromance-a-74e52257-80e6-490e-a86d-a3f15e3f361f#ref=rss)
+### ersten
 
-* [https://www.spiegel.de/ausland/mette-frederiksen-daenische-ministerpraesidentin-reist-nach-groenland](https://www.spiegel.de/ausland/mette-frederiksen-daenische-ministerpraesidentin-reist-nach-groenland-a-7ff66b15-8cbf-42f0-b1a2-fad6d3e5c8c6#ref=rss)
-### dänische
+* [https://www.spiegel.de/ausland/benjamin-netanyahu-besuch-bei-viktor-orban-trotz-haftbefehl-die-illiberale-bromance](https://www.spiegel.de/ausland/benjamin-netanyahu-besuch-bei-viktor-orban-trotz-haftbefehl-die-illiberale-bromance-a-74e52257-80e6-490e-a86d-a3f15e3f361f#ref=rss)
+* [https://www.spiegel.de/netzwelt/games/switch-2-nintendo-gibt-release-datum-und-preis-bekannt](https://www.spiegel.de/netzwelt/games/switch-2-nintendo-gibt-release-datum-und-preis-bekannt-a-2f01921b-cd3b-4676-9339-a573539fada1#ref=rss)
+### elon
 
-* [https://www.spiegel.de/ausland/mette-frederiksen-daenische-ministerpraesidentin-reist-nach-groenland](https://www.spiegel.de/ausland/mette-frederiksen-daenische-ministerpraesidentin-reist-nach-groenland-a-7ff66b15-8cbf-42f0-b1a2-fad6d3e5c8c6#ref=rss)
-### ministerpräsidentin
+* [https://www.spiegel.de/ausland/usa-donald-trump-soll-vertrauten-rueckzug-von-elon-musk-angekuendigt-haben](https://www.spiegel.de/ausland/usa-donald-trump-soll-vertrauten-rueckzug-von-elon-musk-angekuendigt-haben-a-675851eb-49b9-482e-bfa8-41dd666fc675#ref=rss)
+### musk
 
-* [https://www.spiegel.de/ausland/mette-frederiksen-daenische-ministerpraesidentin-reist-nach-groenland](https://www.spiegel.de/ausland/mette-frederiksen-daenische-ministerpraesidentin-reist-nach-groenland-a-7ff66b15-8cbf-42f0-b1a2-fad6d3e5c8c6#ref=rss)
-### grönland
+* [https://www.spiegel.de/ausland/usa-donald-trump-soll-vertrauten-rueckzug-von-elon-musk-angekuendigt-haben](https://www.spiegel.de/ausland/usa-donald-trump-soll-vertrauten-rueckzug-von-elon-musk-angekuendigt-haben-a-675851eb-49b9-482e-bfa8-41dd666fc675#ref=rss)
+### handwerker
 
-* [https://www.spiegel.de/ausland/mette-frederiksen-daenische-ministerpraesidentin-reist-nach-groenland](https://www.spiegel.de/ausland/mette-frederiksen-daenische-ministerpraesidentin-reist-nach-groenland-a-7ff66b15-8cbf-42f0-b1a2-fad6d3e5c8c6#ref=rss)
-### industrie
+* [https://www.spiegel.de/panorama/bad-saeckingen-waldshut-handwerker-klaut-aus-versehen-vier-meter-langes-eingangstor](https://www.spiegel.de/panorama/bad-saeckingen-waldshut-handwerker-klaut-aus-versehen-vier-meter-langes-eingangstor-a-810a3b5b-493d-422a-b5e0-927d3197e473#ref=rss)
+### vier
 
-* [https://www.spiegel.de/wirtschaft/wirtschaftsflaute-deutsche-industrie-hat-flaechendeckend-arbeitsplaetze-abgebaut](https://www.spiegel.de/wirtschaft/wirtschaftsflaute-deutsche-industrie-hat-flaechendeckend-arbeitsplaetze-abgebaut-a-9380dfc4-f6da-4185-88eb-0fa405cdd6cd#ref=rss)
-### liberation
+* [https://www.spiegel.de/panorama/bad-saeckingen-waldshut-handwerker-klaut-aus-versehen-vier-meter-langes-eingangstor](https://www.spiegel.de/panorama/bad-saeckingen-waldshut-handwerker-klaut-aus-versehen-vier-meter-langes-eingangstor-a-810a3b5b-493d-422a-b5e0-927d3197e473#ref=rss)
+### meter
 
-* [https://www.spiegel.de/ausland/donald-trump-am-liberation-day-usa-warum-seine-zoll-obsession-gefaehrlich-ist-auch-fuer-ihn](https://www.spiegel.de/ausland/donald-trump-am-liberation-day-usa-warum-seine-zoll-obsession-gefaehrlich-ist-auch-fuer-ihn-a-d7a7e1e0-7044-4b26-93a4-4c5e6dc1846e#ref=rss)
-### day
+* [https://www.spiegel.de/panorama/bad-saeckingen-waldshut-handwerker-klaut-aus-versehen-vier-meter-langes-eingangstor](https://www.spiegel.de/panorama/bad-saeckingen-waldshut-handwerker-klaut-aus-versehen-vier-meter-langes-eingangstor-a-810a3b5b-493d-422a-b5e0-927d3197e473#ref=rss)
+### eingangstor
 
-* [https://www.spiegel.de/ausland/donald-trump-am-liberation-day-usa-warum-seine-zoll-obsession-gefaehrlich-ist-auch-fuer-ihn](https://www.spiegel.de/ausland/donald-trump-am-liberation-day-usa-warum-seine-zoll-obsession-gefaehrlich-ist-auch-fuer-ihn-a-d7a7e1e0-7044-4b26-93a4-4c5e6dc1846e#ref=rss)
-### active
+* [https://www.spiegel.de/panorama/bad-saeckingen-waldshut-handwerker-klaut-aus-versehen-vier-meter-langes-eingangstor](https://www.spiegel.de/panorama/bad-saeckingen-waldshut-handwerker-klaut-aus-versehen-vier-meter-langes-eingangstor-a-810a3b5b-493d-422a-b5e0-927d3197e473#ref=rss)
+### bekommt
 
-* [https://www.spiegel.de/geschichte/active-clubs-wie-in-kampfsportgruppen-rechte-ideologien-verbreitet-werden](https://www.spiegel.de/geschichte/active-clubs-wie-in-kampfsportgruppen-rechte-ideologien-verbreitet-werden-a-357c63fc-830e-468a-aeba-a4c9b2bb6f5f#ref=rss)
-### clubs
+* [https://www.spiegel.de/panorama/bad-saeckingen-waldshut-handwerker-klaut-aus-versehen-vier-meter-langes-eingangstor](https://www.spiegel.de/panorama/bad-saeckingen-waldshut-handwerker-klaut-aus-versehen-vier-meter-langes-eingangstor-a-810a3b5b-493d-422a-b5e0-927d3197e473#ref=rss)
+* [https://www.spiegel.de/netzwelt/games/switch-2-nintendo-gibt-release-datum-und-preis-bekannt](https://www.spiegel.de/netzwelt/games/switch-2-nintendo-gibt-release-datum-und-preis-bekannt-a-2f01921b-cd3b-4676-9339-a573539fada1#ref=rss)
+### new
 
-* [https://www.spiegel.de/geschichte/active-clubs-wie-in-kampfsportgruppen-rechte-ideologien-verbreitet-werden](https://www.spiegel.de/geschichte/active-clubs-wie-in-kampfsportgruppen-rechte-ideologien-verbreitet-werden-a-357c63fc-830e-468a-aeba-a4c9b2bb6f5f#ref=rss)
-### arminia
+* [https://www.spiegel.de/ausland/new-york-city-richter-weist-klage-gegen-buergermeister-eric-adams-ab](https://www.spiegel.de/ausland/new-york-city-richter-weist-klage-gegen-buergermeister-eric-adams-ab-a-1d88c598-a91e-4c26-972f-7fd4b9e9249a#ref=rss)
+### klage
 
-* [https://www.spiegel.de/sport/fussball/dfb-pokal-arminia-bielefeld-drohen-rund-ums-finale-terminprobleme](https://www.spiegel.de/sport/fussball/dfb-pokal-arminia-bielefeld-drohen-rund-ums-finale-terminprobleme-a-a60f2057-0d5f-4e94-93f9-7d772b2fa044#ref=rss)
+* [https://www.spiegel.de/ausland/new-york-city-richter-weist-klage-gegen-buergermeister-eric-adams-ab](https://www.spiegel.de/ausland/new-york-city-richter-weist-klage-gegen-buergermeister-eric-adams-ab-a-1d88c598-a91e-4c26-972f-7fd4b9e9249a#ref=rss)
+### bürgermeister
+
+* [https://www.spiegel.de/ausland/new-york-city-richter-weist-klage-gegen-buergermeister-eric-adams-ab](https://www.spiegel.de/ausland/new-york-city-richter-weist-klage-gegen-buergermeister-eric-adams-ab-a-1d88c598-a91e-4c26-972f-7fd4b9e9249a#ref=rss)
+### eric
+
+* [https://www.spiegel.de/ausland/new-york-city-richter-weist-klage-gegen-buergermeister-eric-adams-ab](https://www.spiegel.de/ausland/new-york-city-richter-weist-klage-gegen-buergermeister-eric-adams-ab-a-1d88c598-a91e-4c26-972f-7fd4b9e9249a#ref=rss)
+### adams
+
+* [https://www.spiegel.de/ausland/new-york-city-richter-weist-klage-gegen-buergermeister-eric-adams-ab](https://www.spiegel.de/ausland/new-york-city-richter-weist-klage-gegen-buergermeister-eric-adams-ab-a-1d88c598-a91e-4c26-972f-7fd4b9e9249a#ref=rss)
+### urteil
+
+* [https://www.spiegel.de/ausland/marine-le-pen-das-urteil-das-frankreichs-politik-erschuettert](https://www.spiegel.de/ausland/marine-le-pen-das-urteil-das-frankreichs-politik-erschuettert-a-7051fa5c-46e4-4da7-8c76-3614b820692b#ref=rss)
+* [https://www.spiegel.de/ausland/urteil-gegen-marine-le-pen-moegliche-folgen-vor-der-praesidentschaftswahl-in-frankreich-podcast](https://www.spiegel.de/ausland/urteil-gegen-marine-le-pen-moegliche-folgen-vor-der-praesidentschaftswahl-in-frankreich-podcast-a-17d39556-e720-4416-b44d-56fe2d35ddfa#ref=rss)
+### politik
+
+* [https://www.spiegel.de/ausland/marine-le-pen-das-urteil-das-frankreichs-politik-erschuettert](https://www.spiegel.de/ausland/marine-le-pen-das-urteil-das-frankreichs-politik-erschuettert-a-7051fa5c-46e4-4da7-8c76-3614b820692b#ref=rss)
+* [https://www.spiegel.de/ausland/cory-booker-rekordrede-gegen-donald-trump-im-us-senat-25-stunden-am-rednerpult](https://www.spiegel.de/ausland/cory-booker-rekordrede-gegen-donald-trump-im-us-senat-25-stunden-am-rednerpult-a-3fc609a8-76df-424c-8afa-cc201171dc80#ref=rss)
+### erschüttert
+
+* [https://www.spiegel.de/ausland/marine-le-pen-das-urteil-das-frankreichs-politik-erschuettert](https://www.spiegel.de/ausland/marine-le-pen-das-urteil-das-frankreichs-politik-erschuettert-a-7051fa5c-46e4-4da7-8c76-3614b820692b#ref=rss)
+* [https://www.spiegel.de/kultur/kurzer-prozess-auf-bayerisch](https://www.spiegel.de/kultur/kurzer-prozess-auf-bayerisch-a-69954ea0-fe42-41b6-afa8-c1fb65416e6f#ref=rss)
+### verurteilung
+
+* [https://www.spiegel.de/ausland/marine-le-pen-das-urteil-das-frankreichs-politik-erschuettert](https://www.spiegel.de/ausland/marine-le-pen-das-urteil-das-frankreichs-politik-erschuettert-a-7051fa5c-46e4-4da7-8c76-3614b820692b#ref=rss)
+* [https://www.spiegel.de/ausland/urteil-gegen-marine-le-pen-moegliche-folgen-vor-der-praesidentschaftswahl-in-frankreich-podcast](https://www.spiegel.de/ausland/urteil-gegen-marine-le-pen-moegliche-folgen-vor-der-praesidentschaftswahl-in-frankreich-podcast-a-17d39556-e720-4416-b44d-56fe2d35ddfa#ref=rss)
+### hofft
+
+* [https://www.spiegel.de/ausland/marine-le-pen-das-urteil-das-frankreichs-politik-erschuettert](https://www.spiegel.de/ausland/marine-le-pen-das-urteil-das-frankreichs-politik-erschuettert-a-7051fa5c-46e4-4da7-8c76-3614b820692b#ref=rss)
+* [https://www.spiegel.de/ausland/urteil-gegen-marine-le-pen-moegliche-folgen-vor-der-praesidentschaftswahl-in-frankreich-podcast](https://www.spiegel.de/ausland/urteil-gegen-marine-le-pen-moegliche-folgen-vor-der-praesidentschaftswahl-in-frankreich-podcast-a-17d39556-e720-4416-b44d-56fe2d35ddfa#ref=rss)
+### chance
+
+* [https://www.spiegel.de/ausland/marine-le-pen-das-urteil-das-frankreichs-politik-erschuettert](https://www.spiegel.de/ausland/marine-le-pen-das-urteil-das-frankreichs-politik-erschuettert-a-7051fa5c-46e4-4da7-8c76-3614b820692b#ref=rss)
+* [https://www.spiegel.de/ausland/urteil-gegen-marine-le-pen-moegliche-folgen-vor-der-praesidentschaftswahl-in-frankreich-podcast](https://www.spiegel.de/ausland/urteil-gegen-marine-le-pen-moegliche-folgen-vor-der-praesidentschaftswahl-in-frankreich-podcast-a-17d39556-e720-4416-b44d-56fe2d35ddfa#ref=rss)
+### 2027
+
+* [https://www.spiegel.de/ausland/marine-le-pen-das-urteil-das-frankreichs-politik-erschuettert](https://www.spiegel.de/ausland/marine-le-pen-das-urteil-das-frankreichs-politik-erschuettert-a-7051fa5c-46e4-4da7-8c76-3614b820692b#ref=rss)
+* [https://www.spiegel.de/ausland/urteil-gegen-marine-le-pen-moegliche-folgen-vor-der-praesidentschaftswahl-in-frankreich-podcast](https://www.spiegel.de/ausland/urteil-gegen-marine-le-pen-moegliche-folgen-vor-der-praesidentschaftswahl-in-frankreich-podcast-a-17d39556-e720-4416-b44d-56fe2d35ddfa#ref=rss)
+### kampfansage
+
+* [https://www.spiegel.de/ausland/marine-le-pen-das-urteil-das-frankreichs-politik-erschuettert](https://www.spiegel.de/ausland/marine-le-pen-das-urteil-das-frankreichs-politik-erschuettert-a-7051fa5c-46e4-4da7-8c76-3614b820692b#ref=rss)
+* [https://www.spiegel.de/ausland/urteil-gegen-marine-le-pen-moegliche-folgen-vor-der-praesidentschaftswahl-in-frankreich-podcast](https://www.spiegel.de/ausland/urteil-gegen-marine-le-pen-moegliche-folgen-vor-der-praesidentschaftswahl-in-frankreich-podcast-a-17d39556-e720-4416-b44d-56fe2d35ddfa#ref=rss)
+### justiz
+
+* [https://www.spiegel.de/ausland/marine-le-pen-das-urteil-das-frankreichs-politik-erschuettert](https://www.spiegel.de/ausland/marine-le-pen-das-urteil-das-frankreichs-politik-erschuettert-a-7051fa5c-46e4-4da7-8c76-3614b820692b#ref=rss)
+* [https://www.spiegel.de/ausland/urteil-gegen-marine-le-pen-moegliche-folgen-vor-der-praesidentschaftswahl-in-frankreich-podcast](https://www.spiegel.de/ausland/urteil-gegen-marine-le-pen-moegliche-folgen-vor-der-praesidentschaftswahl-in-frankreich-podcast-a-17d39556-e720-4416-b44d-56fe2d35ddfa#ref=rss)
+### prägen
+
+* [https://www.spiegel.de/ausland/marine-le-pen-das-urteil-das-frankreichs-politik-erschuettert](https://www.spiegel.de/ausland/marine-le-pen-das-urteil-das-frankreichs-politik-erschuettert-a-7051fa5c-46e4-4da7-8c76-3614b820692b#ref=rss)
+* [https://www.spiegel.de/ausland/urteil-gegen-marine-le-pen-moegliche-folgen-vor-der-praesidentschaftswahl-in-frankreich-podcast](https://www.spiegel.de/ausland/urteil-gegen-marine-le-pen-moegliche-folgen-vor-der-praesidentschaftswahl-in-frankreich-podcast-a-17d39556-e720-4416-b44d-56fe2d35ddfa#ref=rss)
+### spiegelkorrespondentin
+
+* [https://www.spiegel.de/ausland/marine-le-pen-das-urteil-das-frankreichs-politik-erschuettert](https://www.spiegel.de/ausland/marine-le-pen-das-urteil-das-frankreichs-politik-erschuettert-a-7051fa5c-46e4-4da7-8c76-3614b820692b#ref=rss)
+* [https://www.spiegel.de/ausland/urteil-gegen-marine-le-pen-moegliche-folgen-vor-der-praesidentschaftswahl-in-frankreich-podcast](https://www.spiegel.de/ausland/urteil-gegen-marine-le-pen-moegliche-folgen-vor-der-praesidentschaftswahl-in-frankreich-podcast-a-17d39556-e720-4416-b44d-56fe2d35ddfa#ref=rss)
+### britta
+
+* [https://www.spiegel.de/ausland/marine-le-pen-das-urteil-das-frankreichs-politik-erschuettert](https://www.spiegel.de/ausland/marine-le-pen-das-urteil-das-frankreichs-politik-erschuettert-a-7051fa5c-46e4-4da7-8c76-3614b820692b#ref=rss)
+* [https://www.spiegel.de/ausland/urteil-gegen-marine-le-pen-moegliche-folgen-vor-der-praesidentschaftswahl-in-frankreich-podcast](https://www.spiegel.de/ausland/urteil-gegen-marine-le-pen-moegliche-folgen-vor-der-praesidentschaftswahl-in-frankreich-podcast-a-17d39556-e720-4416-b44d-56fe2d35ddfa#ref=rss)
+### sandberg
+
+* [https://www.spiegel.de/ausland/marine-le-pen-das-urteil-das-frankreichs-politik-erschuettert](https://www.spiegel.de/ausland/marine-le-pen-das-urteil-das-frankreichs-politik-erschuettert-a-7051fa5c-46e4-4da7-8c76-3614b820692b#ref=rss)
+* [https://www.spiegel.de/ausland/urteil-gegen-marine-le-pen-moegliche-folgen-vor-der-praesidentschaftswahl-in-frankreich-podcast](https://www.spiegel.de/ausland/urteil-gegen-marine-le-pen-moegliche-folgen-vor-der-praesidentschaftswahl-in-frankreich-podcast-a-17d39556-e720-4416-b44d-56fe2d35ddfa#ref=rss)
+### paris
+
+* [https://www.spiegel.de/ausland/marine-le-pen-das-urteil-das-frankreichs-politik-erschuettert](https://www.spiegel.de/ausland/marine-le-pen-das-urteil-das-frankreichs-politik-erschuettert-a-7051fa5c-46e4-4da7-8c76-3614b820692b#ref=rss)
+* [https://www.spiegel.de/ausland/urteil-gegen-marine-le-pen-moegliche-folgen-vor-der-praesidentschaftswahl-in-frankreich-podcast](https://www.spiegel.de/ausland/urteil-gegen-marine-le-pen-moegliche-folgen-vor-der-praesidentschaftswahl-in-frankreich-podcast-a-17d39556-e720-4416-b44d-56fe2d35ddfa#ref=rss)
+### folgen
+
+* [https://www.spiegel.de/ausland/urteil-gegen-marine-le-pen-moegliche-folgen-vor-der-praesidentschaftswahl-in-frankreich-podcast](https://www.spiegel.de/ausland/urteil-gegen-marine-le-pen-moegliche-folgen-vor-der-praesidentschaftswahl-in-frankreich-podcast-a-17d39556-e720-4416-b44d-56fe2d35ddfa#ref=rss)
+* [https://www.spiegel.de/ausland/chinas-militaermanoever-vor-taiwan-36-militaerflugzeuge-21-kriegsschiffe-ein-flugzeugtraeger](https://www.spiegel.de/ausland/chinas-militaermanoever-vor-taiwan-36-militaerflugzeuge-21-kriegsschiffe-ein-flugzeugtraeger-a-eb576bd7-37b4-4d50-a6bd-75340e0ff9c4#ref=rss)
+### pompeji
+
+* [https://www.spiegel.de/wissenschaft/mensch/pompeji-archaeologen-entdecken-antike-grabskulpturen-in-nekropole-von-porta-sarno](https://www.spiegel.de/wissenschaft/mensch/pompeji-archaeologen-entdecken-antike-grabskulpturen-in-nekropole-von-porta-sarno-a-325eb4a5-d4af-4655-a73a-b2178c7584b0#ref=rss)
+### archäologen
+
+* [https://www.spiegel.de/wissenschaft/mensch/pompeji-archaeologen-entdecken-antike-grabskulpturen-in-nekropole-von-porta-sarno](https://www.spiegel.de/wissenschaft/mensch/pompeji-archaeologen-entdecken-antike-grabskulpturen-in-nekropole-von-porta-sarno-a-325eb4a5-d4af-4655-a73a-b2178c7584b0#ref=rss)
+### frau
+
+* [https://www.spiegel.de/wissenschaft/mensch/pompeji-archaeologen-entdecken-antike-grabskulpturen-in-nekropole-von-porta-sarno](https://www.spiegel.de/wissenschaft/mensch/pompeji-archaeologen-entdecken-antike-grabskulpturen-in-nekropole-von-porta-sarno-a-325eb4a5-d4af-4655-a73a-b2178c7584b0#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/desy-chefin-beate-heinemann-wir-verlieren-immer-noch-viele-talentierte-forscherinnen](https://www.spiegel.de/wissenschaft/mensch/desy-chefin-beate-heinemann-wir-verlieren-immer-noch-viele-talentierte-forscherinnen-a-bc28c14a-ef63-435a-8ccd-d5a3248b48dd#ref=rss)
+### beate
+
+* [https://www.spiegel.de/wissenschaft/mensch/desy-chefin-beate-heinemann-wir-verlieren-immer-noch-viele-talentierte-forscherinnen](https://www.spiegel.de/wissenschaft/mensch/desy-chefin-beate-heinemann-wir-verlieren-immer-noch-viele-talentierte-forscherinnen-a-bc28c14a-ef63-435a-8ccd-d5a3248b48dd#ref=rss)
+### heinemann
+
+* [https://www.spiegel.de/wissenschaft/mensch/desy-chefin-beate-heinemann-wir-verlieren-immer-noch-viele-talentierte-forscherinnen](https://www.spiegel.de/wissenschaft/mensch/desy-chefin-beate-heinemann-wir-verlieren-immer-noch-viele-talentierte-forscherinnen-a-bc28c14a-ef63-435a-8ccd-d5a3248b48dd#ref=rss)
+### viele
+
+* [https://www.spiegel.de/wissenschaft/mensch/desy-chefin-beate-heinemann-wir-verlieren-immer-noch-viele-talentierte-forscherinnen](https://www.spiegel.de/wissenschaft/mensch/desy-chefin-beate-heinemann-wir-verlieren-immer-noch-viele-talentierte-forscherinnen-a-bc28c14a-ef63-435a-8ccd-d5a3248b48dd#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/berlin-viele-lehrkraefte-sind-laut-umfrage-frustriert-ueber-arbeitsbedingungen](https://www.spiegel.de/panorama/bildung/berlin-viele-lehrkraefte-sind-laut-umfrage-frustriert-ueber-arbeitsbedingungen-a-77e3b483-fe08-492a-aae1-80a61d100334#ref=rss)
+### überschwemmungen
+
+* [https://www.spiegel.de/ausland/griechenland-ueberschwemmungen-auf-paros-und-mykonos-urlaubsparadies-unter-wasser](https://www.spiegel.de/ausland/griechenland-ueberschwemmungen-auf-paros-und-mykonos-urlaubsparadies-unter-wasser-a-f9f7ed1a-910e-4f01-8790-3ff6fad1bb6b#ref=rss)
+### paros
+
+* [https://www.spiegel.de/ausland/griechenland-ueberschwemmungen-auf-paros-und-mykonos-urlaubsparadies-unter-wasser](https://www.spiegel.de/ausland/griechenland-ueberschwemmungen-auf-paros-und-mykonos-urlaubsparadies-unter-wasser-a-f9f7ed1a-910e-4f01-8790-3ff6fad1bb6b#ref=rss)
+### mykonos
+
+* [https://www.spiegel.de/ausland/griechenland-ueberschwemmungen-auf-paros-und-mykonos-urlaubsparadies-unter-wasser](https://www.spiegel.de/ausland/griechenland-ueberschwemmungen-auf-paros-und-mykonos-urlaubsparadies-unter-wasser-a-f9f7ed1a-910e-4f01-8790-3ff6fad1bb6b#ref=rss)
+### unter
+
+* [https://www.spiegel.de/ausland/griechenland-ueberschwemmungen-auf-paros-und-mykonos-urlaubsparadies-unter-wasser](https://www.spiegel.de/ausland/griechenland-ueberschwemmungen-auf-paros-und-mykonos-urlaubsparadies-unter-wasser-a-f9f7ed1a-910e-4f01-8790-3ff6fad1bb6b#ref=rss)
+* [https://www.spiegel.de/ausland/gazastreifen-grab-mit-15-getoeteten-sanitaetern-und-verscharrte-fahrzeuge-entdeckt](https://www.spiegel.de/ausland/gazastreifen-grab-mit-15-getoeteten-sanitaetern-und-verscharrte-fahrzeuge-entdeckt-a-e39c76fc-5100-4a4e-b7fe-9d7c8df43cd0#ref=rss)
+### val
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-val-kilmer-der-duestere-war-brillant-wie-schwierig](https://www.spiegel.de/politik/deutschland/news-des-tages-val-kilmer-der-duestere-war-brillant-wie-schwierig-a-0e5fe225-cc7d-4bf0-8b0d-af568e5d365d#ref=rss)
+### kilmer
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-val-kilmer-der-duestere-war-brillant-wie-schwierig](https://www.spiegel.de/politik/deutschland/news-des-tages-val-kilmer-der-duestere-war-brillant-wie-schwierig-a-0e5fe225-cc7d-4bf0-8b0d-af568e5d365d#ref=rss)
+### spielte
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-val-kilmer-der-duestere-war-brillant-wie-schwierig](https://www.spiegel.de/politik/deutschland/news-des-tages-val-kilmer-der-duestere-war-brillant-wie-schwierig-a-0e5fe225-cc7d-4bf0-8b0d-af568e5d365d#ref=rss)
+* [https://www.spiegel.de/kultur/kino/john-boyega-findet-star-wars-weiss-und-elitaer](https://www.spiegel.de/kultur/kino/john-boyega-findet-star-wars-weiss-und-elitaer-a-f6959d29-6a4b-4dda-939a-1b4a46377919#ref=rss)
+### bleibt
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-val-kilmer-der-duestere-war-brillant-wie-schwierig](https://www.spiegel.de/politik/deutschland/news-des-tages-val-kilmer-der-duestere-war-brillant-wie-schwierig-a-0e5fe225-cc7d-4bf0-8b0d-af568e5d365d#ref=rss)
+* [https://www.spiegel.de/kultur/mark-zuckerberg-ersteigert-jesse-eisenbergs-t-shirt-aus-the-social-network](https://www.spiegel.de/kultur/mark-zuckerberg-ersteigert-jesse-eisenbergs-t-shirt-aus-the-social-network-a-65ab84f1-5a02-4adf-ab3e-3aeb85a4bffa#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-val-kilmer-der-duestere-war-brillant-wie-schwierig](https://www.spiegel.de/politik/deutschland/news-des-tages-val-kilmer-der-duestere-war-brillant-wie-schwierig-a-0e5fe225-cc7d-4bf0-8b0d-af568e5d365d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-us-botschaft-befragt-auch-deutsche-firmen-zu-diversitaetsprogrammen](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-us-botschaft-befragt-auch-deutsche-firmen-zu-diversitaetsprogrammen-a-58856dca-1591-4462-8ffb-0fb8f91cca1a#ref=rss)
+### vorwürfe
+
+* [https://www.spiegel.de/kultur/kurzer-prozess-auf-bayerisch](https://www.spiegel.de/kultur/kurzer-prozess-auf-bayerisch-a-69954ea0-fe42-41b6-afa8-c1fb65416e6f#ref=rss)
+* [https://www.spiegel.de/ausland/gazastreifen-grab-mit-15-getoeteten-sanitaetern-und-verscharrte-fahrzeuge-entdeckt](https://www.spiegel.de/ausland/gazastreifen-grab-mit-15-getoeteten-sanitaetern-und-verscharrte-fahrzeuge-entdeckt-a-e39c76fc-5100-4a4e-b7fe-9d7c8df43cd0#ref=rss)
+### cory
+
+* [https://www.spiegel.de/ausland/cory-booker-rekordrede-gegen-donald-trump-im-us-senat-25-stunden-am-rednerpult](https://www.spiegel.de/ausland/cory-booker-rekordrede-gegen-donald-trump-im-us-senat-25-stunden-am-rednerpult-a-3fc609a8-76df-424c-8afa-cc201171dc80#ref=rss)
+### booker
+
+* [https://www.spiegel.de/ausland/cory-booker-rekordrede-gegen-donald-trump-im-us-senat-25-stunden-am-rednerpult](https://www.spiegel.de/ausland/cory-booker-rekordrede-gegen-donald-trump-im-us-senat-25-stunden-am-rednerpult-a-3fc609a8-76df-424c-8afa-cc201171dc80#ref=rss)
+### ussenat
+
+* [https://www.spiegel.de/ausland/cory-booker-rekordrede-gegen-donald-trump-im-us-senat-25-stunden-am-rednerpult](https://www.spiegel.de/ausland/cory-booker-rekordrede-gegen-donald-trump-im-us-senat-25-stunden-am-rednerpult-a-3fc609a8-76df-424c-8afa-cc201171dc80#ref=rss)
+### rednerpult
+
+* [https://www.spiegel.de/ausland/cory-booker-rekordrede-gegen-donald-trump-im-us-senat-25-stunden-am-rednerpult](https://www.spiegel.de/ausland/cory-booker-rekordrede-gegen-donald-trump-im-us-senat-25-stunden-am-rednerpult-a-3fc609a8-76df-424c-8afa-cc201171dc80#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/ausland/cory-booker-rekordrede-gegen-donald-trump-im-us-senat-25-stunden-am-rednerpult](https://www.spiegel.de/ausland/cory-booker-rekordrede-gegen-donald-trump-im-us-senat-25-stunden-am-rednerpult-a-3fc609a8-76df-424c-8afa-cc201171dc80#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/berlin-viele-lehrkraefte-sind-laut-umfrage-frustriert-ueber-arbeitsbedingungen](https://www.spiegel.de/panorama/bildung/berlin-viele-lehrkraefte-sind-laut-umfrage-frustriert-ueber-arbeitsbedingungen-a-77e3b483-fe08-492a-aae1-80a61d100334#ref=rss)
+### schluss
+
+* [https://www.spiegel.de/panorama/neuregelung-fuer-passfotos-das-aendert-sich-ab-mai](https://www.spiegel.de/panorama/neuregelung-fuer-passfotos-das-aendert-sich-ab-mai-a-b976a432-a769-4c01-9aba-b33220664ad1#ref=rss)
+* [https://www.spiegel.de/sport/turnen-vize-verbandspraesidentin-ulla-koch-tritt-zurueck](https://www.spiegel.de/sport/turnen-vize-verbandspraesidentin-ulla-koch-tritt-zurueck-a-d17b19a9-5b79-4962-b497-e570374609ba#ref=rss)
+### rb
+
+* [https://www.spiegel.de/sport/fussball/rb-leipzig-zsolt-loew-trainiert-den-verein-jetzt-auch-auf-betreiben-von-juergen-klopp](https://www.spiegel.de/sport/fussball/rb-leipzig-zsolt-loew-trainiert-den-verein-jetzt-auch-auf-betreiben-von-juergen-klopp-a-893a82a1-b180-4b30-9953-121feedb8e46#ref=rss)
+### leipzig
+
+* [https://www.spiegel.de/sport/fussball/rb-leipzig-zsolt-loew-trainiert-den-verein-jetzt-auch-auf-betreiben-von-juergen-klopp](https://www.spiegel.de/sport/fussball/rb-leipzig-zsolt-loew-trainiert-den-verein-jetzt-auch-auf-betreiben-von-juergen-klopp-a-893a82a1-b180-4b30-9953-121feedb8e46#ref=rss)
+### spiel
+
+* [https://www.spiegel.de/sport/fussball/rb-leipzig-zsolt-loew-trainiert-den-verein-jetzt-auch-auf-betreiben-von-juergen-klopp](https://www.spiegel.de/sport/fussball/rb-leipzig-zsolt-loew-trainiert-den-verein-jetzt-auch-auf-betreiben-von-juergen-klopp-a-893a82a1-b180-4b30-9953-121feedb8e46#ref=rss)
+* [https://www.spiegel.de/auto/fahrkultur/ursula-von-der-leyen-eu-kommission-erwaegt-entschaerfung-der-klimaregeln-fuer-autobauer](https://www.spiegel.de/auto/fahrkultur/ursula-von-der-leyen-eu-kommission-erwaegt-entschaerfung-der-klimaregeln-fuer-autobauer-a-9dffb442-756c-4305-a25c-ac6c0865fb78#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/sport/fussball/rb-leipzig-zsolt-loew-trainiert-den-verein-jetzt-auch-auf-betreiben-von-juergen-klopp](https://www.spiegel.de/sport/fussball/rb-leipzig-zsolt-loew-trainiert-den-verein-jetzt-auch-auf-betreiben-von-juergen-klopp-a-893a82a1-b180-4b30-9953-121feedb8e46#ref=rss)
+* [https://www.spiegel.de/kultur/kino/john-boyega-findet-star-wars-weiss-und-elitaer](https://www.spiegel.de/kultur/kino/john-boyega-findet-star-wars-weiss-und-elitaer-a-f6959d29-6a4b-4dda-939a-1b4a46377919#ref=rss)
+### georgien
+
+* [https://www.spiegel.de/ausland/georgien-eu-aussenbeauftragte-kaja-kallas-kritisiert-agenten-gesetz-scharf](https://www.spiegel.de/ausland/georgien-eu-aussenbeauftragte-kaja-kallas-kritisiert-agenten-gesetz-scharf-a-a360f30b-ba86-414e-9fb7-0af2dab4b219#ref=rss)
+### kritisiert
+
+* [https://www.spiegel.de/ausland/georgien-eu-aussenbeauftragte-kaja-kallas-kritisiert-agenten-gesetz-scharf](https://www.spiegel.de/ausland/georgien-eu-aussenbeauftragte-kaja-kallas-kritisiert-agenten-gesetz-scharf-a-a360f30b-ba86-414e-9fb7-0af2dab4b219#ref=rss)
+* [https://www.spiegel.de/kultur/kino/john-boyega-findet-star-wars-weiss-und-elitaer](https://www.spiegel.de/kultur/kino/john-boyega-findet-star-wars-weiss-und-elitaer-a-f6959d29-6a4b-4dda-939a-1b4a46377919#ref=rss)
+### scharf
+
+* [https://www.spiegel.de/ausland/georgien-eu-aussenbeauftragte-kaja-kallas-kritisiert-agenten-gesetz-scharf](https://www.spiegel.de/ausland/georgien-eu-aussenbeauftragte-kaja-kallas-kritisiert-agenten-gesetz-scharf-a-a360f30b-ba86-414e-9fb7-0af2dab4b219#ref=rss)
+### eu
+
+* [https://www.spiegel.de/ausland/georgien-eu-aussenbeauftragte-kaja-kallas-kritisiert-agenten-gesetz-scharf](https://www.spiegel.de/ausland/georgien-eu-aussenbeauftragte-kaja-kallas-kritisiert-agenten-gesetz-scharf-a-a360f30b-ba86-414e-9fb7-0af2dab4b219#ref=rss)
+* [https://www.spiegel.de/auto/fahrkultur/ursula-von-der-leyen-eu-kommission-erwaegt-entschaerfung-der-klimaregeln-fuer-autobauer](https://www.spiegel.de/auto/fahrkultur/ursula-von-der-leyen-eu-kommission-erwaegt-entschaerfung-der-klimaregeln-fuer-autobauer-a-9dffb442-756c-4305-a25c-ac6c0865fb78#ref=rss)
+### würde
+
+* [https://www.spiegel.de/panorama/bildung/berlin-viele-lehrkraefte-sind-laut-umfrage-frustriert-ueber-arbeitsbedingungen](https://www.spiegel.de/panorama/bildung/berlin-viele-lehrkraefte-sind-laut-umfrage-frustriert-ueber-arbeitsbedingungen-a-77e3b483-fe08-492a-aae1-80a61d100334#ref=rss)
+### 2
+
+* [https://www.spiegel.de/netzwelt/games/switch-2-nintendo-gibt-release-datum-und-preis-bekannt](https://www.spiegel.de/netzwelt/games/switch-2-nintendo-gibt-release-datum-und-preis-bekannt-a-2f01921b-cd3b-4676-9339-a573539fada1#ref=rss)
+### nintendo
+
+* [https://www.spiegel.de/netzwelt/games/switch-2-nintendo-gibt-release-datum-und-preis-bekannt](https://www.spiegel.de/netzwelt/games/switch-2-nintendo-gibt-release-datum-und-preis-bekannt-a-2f01921b-cd3b-4676-9339-a573539fada1#ref=rss)
+### bekannt
+
+* [https://www.spiegel.de/netzwelt/games/switch-2-nintendo-gibt-release-datum-und-preis-bekannt](https://www.spiegel.de/netzwelt/games/switch-2-nintendo-gibt-release-datum-und-preis-bekannt-a-2f01921b-cd3b-4676-9339-a573539fada1#ref=rss)
+### funktionen
+
+* [https://www.spiegel.de/netzwelt/games/switch-2-nintendo-gibt-release-datum-und-preis-bekannt](https://www.spiegel.de/netzwelt/games/switch-2-nintendo-gibt-release-datum-und-preis-bekannt-a-2f01921b-cd3b-4676-9339-a573539fada1#ref=rss)
+* [https://www.spiegel.de/sport/turnen-vize-verbandspraesidentin-ulla-koch-tritt-zurueck](https://www.spiegel.de/sport/turnen-vize-verbandspraesidentin-ulla-koch-tritt-zurueck-a-d17b19a9-5b79-4962-b497-e570374609ba#ref=rss)
+### stiftung
+
+* [https://www.spiegel.de/tests/haushalt/diese-geschirrspueler-empfiehlt-die-stiftung-warentest](https://www.spiegel.de/tests/haushalt/diese-geschirrspueler-empfiehlt-die-stiftung-warentest-a-dca7ef53-abc4-47a2-873a-32ecbecc4777#ref=rss)
+### warentest
+
+* [https://www.spiegel.de/tests/haushalt/diese-geschirrspueler-empfiehlt-die-stiftung-warentest](https://www.spiegel.de/tests/haushalt/diese-geschirrspueler-empfiehlt-die-stiftung-warentest-a-dca7ef53-abc4-47a2-873a-32ecbecc4777#ref=rss)
+### geräte
+
+* [https://www.spiegel.de/tests/haushalt/diese-geschirrspueler-empfiehlt-die-stiftung-warentest](https://www.spiegel.de/tests/haushalt/diese-geschirrspueler-empfiehlt-die-stiftung-warentest-a-dca7ef53-abc4-47a2-873a-32ecbecc4777#ref=rss)
+### ulla
+
+* [https://www.spiegel.de/sport/turnen-vize-verbandspraesidentin-ulla-koch-tritt-zurueck](https://www.spiegel.de/sport/turnen-vize-verbandspraesidentin-ulla-koch-tritt-zurueck-a-d17b19a9-5b79-4962-b497-e570374609ba#ref=rss)
+### koch
+
+* [https://www.spiegel.de/sport/turnen-vize-verbandspraesidentin-ulla-koch-tritt-zurueck](https://www.spiegel.de/sport/turnen-vize-verbandspraesidentin-ulla-koch-tritt-zurueck-a-d17b19a9-5b79-4962-b497-e570374609ba#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/sport/turnen-vize-verbandspraesidentin-ulla-koch-tritt-zurueck](https://www.spiegel.de/sport/turnen-vize-verbandspraesidentin-ulla-koch-tritt-zurueck-a-d17b19a9-5b79-4962-b497-e570374609ba#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/sport/turnen-vize-verbandspraesidentin-ulla-koch-tritt-zurueck](https://www.spiegel.de/sport/turnen-vize-verbandspraesidentin-ulla-koch-tritt-zurueck-a-d17b19a9-5b79-4962-b497-e570374609ba#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-us-botschaft-befragt-auch-deutsche-firmen-zu-diversitaetsprogrammen](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-us-botschaft-befragt-auch-deutsche-firmen-zu-diversitaetsprogrammen-a-58856dca-1591-4462-8ffb-0fb8f91cca1a#ref=rss)
+### tshirt
+
+* [https://www.spiegel.de/kultur/mark-zuckerberg-ersteigert-jesse-eisenbergs-t-shirt-aus-the-social-network](https://www.spiegel.de/kultur/mark-zuckerberg-ersteigert-jesse-eisenbergs-t-shirt-aus-the-social-network-a-65ab84f1-5a02-4adf-ab3e-3aeb85a4bffa#ref=rss)
+### chinas
+
+* [https://www.spiegel.de/ausland/chinas-militaermanoever-vor-taiwan-36-militaerflugzeuge-21-kriegsschiffe-ein-flugzeugtraeger](https://www.spiegel.de/ausland/chinas-militaermanoever-vor-taiwan-36-militaerflugzeuge-21-kriegsschiffe-ein-flugzeugtraeger-a-eb576bd7-37b4-4d50-a6bd-75340e0ff9c4#ref=rss)
+### militärmanöver
+
+* [https://www.spiegel.de/ausland/chinas-militaermanoever-vor-taiwan-36-militaerflugzeuge-21-kriegsschiffe-ein-flugzeugtraeger](https://www.spiegel.de/ausland/chinas-militaermanoever-vor-taiwan-36-militaerflugzeuge-21-kriegsschiffe-ein-flugzeugtraeger-a-eb576bd7-37b4-4d50-a6bd-75340e0ff9c4#ref=rss)
+### taiwan
+
+* [https://www.spiegel.de/ausland/chinas-militaermanoever-vor-taiwan-36-militaerflugzeuge-21-kriegsschiffe-ein-flugzeugtraeger](https://www.spiegel.de/ausland/chinas-militaermanoever-vor-taiwan-36-militaerflugzeuge-21-kriegsschiffe-ein-flugzeugtraeger-a-eb576bd7-37b4-4d50-a6bd-75340e0ff9c4#ref=rss)
+### 36
+
+* [https://www.spiegel.de/ausland/chinas-militaermanoever-vor-taiwan-36-militaerflugzeuge-21-kriegsschiffe-ein-flugzeugtraeger](https://www.spiegel.de/ausland/chinas-militaermanoever-vor-taiwan-36-militaerflugzeuge-21-kriegsschiffe-ein-flugzeugtraeger-a-eb576bd7-37b4-4d50-a6bd-75340e0ff9c4#ref=rss)
+### militärflugzeuge
+
+* [https://www.spiegel.de/ausland/chinas-militaermanoever-vor-taiwan-36-militaerflugzeuge-21-kriegsschiffe-ein-flugzeugtraeger](https://www.spiegel.de/ausland/chinas-militaermanoever-vor-taiwan-36-militaerflugzeuge-21-kriegsschiffe-ein-flugzeugtraeger-a-eb576bd7-37b4-4d50-a6bd-75340e0ff9c4#ref=rss)
+### 21
+
+* [https://www.spiegel.de/ausland/chinas-militaermanoever-vor-taiwan-36-militaerflugzeuge-21-kriegsschiffe-ein-flugzeugtraeger](https://www.spiegel.de/ausland/chinas-militaermanoever-vor-taiwan-36-militaerflugzeuge-21-kriegsschiffe-ein-flugzeugtraeger-a-eb576bd7-37b4-4d50-a6bd-75340e0ff9c4#ref=rss)
+### kriegsschiffe
+
+* [https://www.spiegel.de/ausland/chinas-militaermanoever-vor-taiwan-36-militaerflugzeuge-21-kriegsschiffe-ein-flugzeugtraeger](https://www.spiegel.de/ausland/chinas-militaermanoever-vor-taiwan-36-militaerflugzeuge-21-kriegsschiffe-ein-flugzeugtraeger-a-eb576bd7-37b4-4d50-a6bd-75340e0ff9c4#ref=rss)
+### flugzeugträger
+
+* [https://www.spiegel.de/ausland/chinas-militaermanoever-vor-taiwan-36-militaerflugzeuge-21-kriegsschiffe-ein-flugzeugtraeger](https://www.spiegel.de/ausland/chinas-militaermanoever-vor-taiwan-36-militaerflugzeuge-21-kriegsschiffe-ein-flugzeugtraeger-a-eb576bd7-37b4-4d50-a6bd-75340e0ff9c4#ref=rss)
+### leyen
+
+* [https://www.spiegel.de/auto/fahrkultur/ursula-von-der-leyen-eu-kommission-erwaegt-entschaerfung-der-klimaregeln-fuer-autobauer](https://www.spiegel.de/auto/fahrkultur/ursula-von-der-leyen-eu-kommission-erwaegt-entschaerfung-der-klimaregeln-fuer-autobauer-a-9dffb442-756c-4305-a25c-ac6c0865fb78#ref=rss)
+### firmen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-us-botschaft-befragt-auch-deutsche-firmen-zu-diversitaetsprogrammen](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-us-botschaft-befragt-auch-deutsche-firmen-zu-diversitaetsprogrammen-a-58856dca-1591-4462-8ffb-0fb8f91cca1a#ref=rss)
+### john
+
+* [https://www.spiegel.de/kultur/kino/john-boyega-findet-star-wars-weiss-und-elitaer](https://www.spiegel.de/kultur/kino/john-boyega-findet-star-wars-weiss-und-elitaer-a-f6959d29-6a4b-4dda-939a-1b4a46377919#ref=rss)
+### boyega
+
+* [https://www.spiegel.de/kultur/kino/john-boyega-findet-star-wars-weiss-und-elitaer](https://www.spiegel.de/kultur/kino/john-boyega-findet-star-wars-weiss-und-elitaer-a-f6959d29-6a4b-4dda-939a-1b4a46377919#ref=rss)
+### star
+
+* [https://www.spiegel.de/kultur/kino/john-boyega-findet-star-wars-weiss-und-elitaer](https://www.spiegel.de/kultur/kino/john-boyega-findet-star-wars-weiss-und-elitaer-a-f6959d29-6a4b-4dda-939a-1b4a46377919#ref=rss)
+### klöckner
+
+* [https://www.spiegel.de/politik/deutschland/julia-kloeckner-mahnt-wegen-palaestinensertuchs-zu-respekt-vor-regeln-des-parlaments](https://www.spiegel.de/politik/deutschland/julia-kloeckner-mahnt-wegen-palaestinensertuchs-zu-respekt-vor-regeln-des-parlaments-a-f36e7090-79d0-4f4d-aac4-49738b5ae56c#ref=rss)
+### rapper
+
+* [https://www.spiegel.de/sport/quiz-ist-das-ein-rapper-oder-ein-galopper](https://www.spiegel.de/sport/quiz-ist-das-ein-rapper-oder-ein-galopper-a-886cb2f0-7462-486b-96ab-c0fbbb86277a#ref=rss)
+### galopper
+
+* [https://www.spiegel.de/sport/quiz-ist-das-ein-rapper-oder-ein-galopper](https://www.spiegel.de/sport/quiz-ist-das-ein-rapper-oder-ein-galopper-a-886cb2f0-7462-486b-96ab-c0fbbb86277a#ref=rss)
 
