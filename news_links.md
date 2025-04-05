@@ -4,362 +4,337 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### donald
-
-* [https://www.spiegel.de/ausland/usa-erste-groessere-demos-gegen-donald-trump-geplant](https://www.spiegel.de/ausland/usa-erste-groessere-demos-gegen-donald-trump-geplant-a-e31083d1-ce0b-4aa6-8bbe-b0e655aea899#ref=rss)
-* [https://www.spiegel.de/wirtschaft/fed-chef-jerome-powell-erwartet-hoehere-inflation-und-langsameres-wachstum](https://www.spiegel.de/wirtschaft/fed-chef-jerome-powell-erwartet-hoehere-inflation-und-langsameres-wachstum-a-29abb2cf-bebc-40e3-9ae8-6330f8927a6b#ref=rss)
-* [https://www.spiegel.de/ausland/barack-obama-ruft-amerikaner-zu-mehr-widerstand-gegen-donald-trump-auf](https://www.spiegel.de/ausland/barack-obama-ruft-amerikaner-zu-mehr-widerstand-gegen-donald-trump-auf-a-5ddf7f3e-fed2-44bb-b8bb-b81bf0722fc7#ref=rss)
-* [https://www.spiegel.de/ausland/jemen-donald-trump-jagt-die-huthis-allein-die-munition-kostete-wohl-schon-200-millionen-dollar](https://www.spiegel.de/ausland/jemen-donald-trump-jagt-die-huthis-allein-die-munition-kostete-wohl-schon-200-millionen-dollar-a-c3d74668-5001-4c19-a6a8-7425d8cf68f2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/usa-deutlich-mehr-jobs-aber-arbeitslosigkeit-steigt-leicht-an](https://www.spiegel.de/wirtschaft/usa-deutlich-mehr-jobs-aber-arbeitslosigkeit-steigt-leicht-an-a-2683a49a-21c3-4b4e-93d8-e467884dafb7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/zoelle-von-donald-trump-aktienkurse-weltweit-rutschen-ab](https://www.spiegel.de/wirtschaft/zoelle-von-donald-trump-aktienkurse-weltweit-rutschen-ab-a-61618f34-011d-4716-a25a-ca22ed0f9dea#ref=rss)
-* [https://www.spiegel.de/wirtschaft/zoelle-von-donald-trump-kalifornien-bittet-weltweite-handelspartner-um-ausnahme](https://www.spiegel.de/wirtschaft/zoelle-von-donald-trump-kalifornien-bittet-weltweite-handelspartner-um-ausnahme-a-ee8b6a84-64f1-420e-a053-1719640745ef#ref=rss)
-* [https://www.spiegel.de/ausland/groenland-und-die-usa-das-kleine-daenemark-wehrt-sich-gegen-donald-trump](https://www.spiegel.de/ausland/groenland-und-die-usa-das-kleine-daenemark-wehrt-sich-gegen-donald-trump-a-b595865c-a5cf-41d3-84ae-e84af9e2e902#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/ausland/usa-erste-groessere-demos-gegen-donald-trump-geplant](https://www.spiegel.de/ausland/usa-erste-groessere-demos-gegen-donald-trump-geplant-a-e31083d1-ce0b-4aa6-8bbe-b0e655aea899#ref=rss)
-* [https://www.spiegel.de/ausland/barack-obama-ruft-amerikaner-zu-mehr-widerstand-gegen-donald-trump-auf](https://www.spiegel.de/ausland/barack-obama-ruft-amerikaner-zu-mehr-widerstand-gegen-donald-trump-auf-a-5ddf7f3e-fed2-44bb-b8bb-b81bf0722fc7#ref=rss)
-* [https://www.spiegel.de/ausland/jemen-donald-trump-jagt-die-huthis-allein-die-munition-kostete-wohl-schon-200-millionen-dollar](https://www.spiegel.de/ausland/jemen-donald-trump-jagt-die-huthis-allein-die-munition-kostete-wohl-schon-200-millionen-dollar-a-c3d74668-5001-4c19-a6a8-7425d8cf68f2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/usa-deutlich-mehr-jobs-aber-arbeitslosigkeit-steigt-leicht-an](https://www.spiegel.de/wirtschaft/usa-deutlich-mehr-jobs-aber-arbeitslosigkeit-steigt-leicht-an-a-2683a49a-21c3-4b4e-93d8-e467884dafb7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/zoelle-von-donald-trump-aktienkurse-weltweit-rutschen-ab](https://www.spiegel.de/wirtschaft/zoelle-von-donald-trump-aktienkurse-weltweit-rutschen-ab-a-61618f34-011d-4716-a25a-ca22ed0f9dea#ref=rss)
-* [https://www.spiegel.de/wirtschaft/zoelle-von-donald-trump-kalifornien-bittet-weltweite-handelspartner-um-ausnahme](https://www.spiegel.de/wirtschaft/zoelle-von-donald-trump-kalifornien-bittet-weltweite-handelspartner-um-ausnahme-a-ee8b6a84-64f1-420e-a053-1719640745ef#ref=rss)
-* [https://www.spiegel.de/ausland/groenland-und-die-usa-das-kleine-daenemark-wehrt-sich-gegen-donald-trump](https://www.spiegel.de/ausland/groenland-und-die-usa-das-kleine-daenemark-wehrt-sich-gegen-donald-trump-a-b595865c-a5cf-41d3-84ae-e84af9e2e902#ref=rss)
-### mats
-
-* [https://www.spiegel.de/sport/fussball/mats-hummels-beendet-karriere-der-modernste-profi-seiner-art](https://www.spiegel.de/sport/fussball/mats-hummels-beendet-karriere-der-modernste-profi-seiner-art-a-bbe6d5d8-d7af-4232-b949-61f07ac2f465#ref=rss)
-* [https://www.spiegel.de/sport/fussball/mats-hummels-seine-karriere-in-bildern](https://www.spiegel.de/sport/fussball/mats-hummels-seine-karriere-in-bildern-a-24c3e286-6937-47f3-a299-b41af96cb253#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-mats-hummels-kuendigt-karriereende-an](https://www.spiegel.de/sport/fussball/fussball-mats-hummels-kuendigt-karriereende-an-a-20a75e4b-d9ef-43ef-8954-9a53f0be7006#ref=rss)
-### hummels
-
-* [https://www.spiegel.de/sport/fussball/mats-hummels-beendet-karriere-der-modernste-profi-seiner-art](https://www.spiegel.de/sport/fussball/mats-hummels-beendet-karriere-der-modernste-profi-seiner-art-a-bbe6d5d8-d7af-4232-b949-61f07ac2f465#ref=rss)
-* [https://www.spiegel.de/sport/fussball/mats-hummels-seine-karriere-in-bildern](https://www.spiegel.de/sport/fussball/mats-hummels-seine-karriere-in-bildern-a-24c3e286-6937-47f3-a299-b41af96cb253#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-mats-hummels-kuendigt-karriereende-an](https://www.spiegel.de/sport/fussball/fussball-mats-hummels-kuendigt-karriereende-an-a-20a75e4b-d9ef-43ef-8954-9a53f0be7006#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/sport/fussball/mats-hummels-beendet-karriere-der-modernste-profi-seiner-art](https://www.spiegel.de/sport/fussball/mats-hummels-beendet-karriere-der-modernste-profi-seiner-art-a-bbe6d5d8-d7af-4232-b949-61f07ac2f465#ref=rss)
-* [https://www.spiegel.de/ausland/usa-erste-groessere-demos-gegen-donald-trump-geplant](https://www.spiegel.de/ausland/usa-erste-groessere-demos-gegen-donald-trump-geplant-a-e31083d1-ce0b-4aa6-8bbe-b0e655aea899#ref=rss)
-* [https://www.spiegel.de/ausland/barack-obama-ruft-amerikaner-zu-mehr-widerstand-gegen-donald-trump-auf](https://www.spiegel.de/ausland/barack-obama-ruft-amerikaner-zu-mehr-widerstand-gegen-donald-trump-auf-a-5ddf7f3e-fed2-44bb-b8bb-b81bf0722fc7#ref=rss)
-* [https://www.spiegel.de/ausland/jemen-donald-trump-jagt-die-huthis-allein-die-munition-kostete-wohl-schon-200-millionen-dollar](https://www.spiegel.de/ausland/jemen-donald-trump-jagt-die-huthis-allein-die-munition-kostete-wohl-schon-200-millionen-dollar-a-c3d74668-5001-4c19-a6a8-7425d8cf68f2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/etf-dax-und-msci-world-in-der-krise-sollten-anleger-jetzt-verkaufen](https://www.spiegel.de/wirtschaft/service/etf-dax-und-msci-world-in-der-krise-sollten-anleger-jetzt-verkaufen-a-442352b7-67bd-4768-ad67-0f74ba7cc298#ref=rss)
-* [https://www.spiegel.de/wirtschaft/usa-deutlich-mehr-jobs-aber-arbeitslosigkeit-steigt-leicht-an](https://www.spiegel.de/wirtschaft/usa-deutlich-mehr-jobs-aber-arbeitslosigkeit-steigt-leicht-an-a-2683a49a-21c3-4b4e-93d8-e467884dafb7#ref=rss)
+* [https://www.spiegel.de/ausland/diese-laender-beschenkten-donald-trump-er-sanktionierte-sie-trotzdem](https://www.spiegel.de/ausland/diese-laender-beschenkten-donald-trump-er-sanktionierte-sie-trotzdem-a-818c4b25-b360-46dd-924e-c72707a106c8#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/donald-trump-elon-musk-und-co-zehn-einfache-schritte-zu-mehr-unabhaengigkeit-von-us-technik](https://www.spiegel.de/netzwelt/netzpolitik/donald-trump-elon-musk-und-co-zehn-einfache-schritte-zu-mehr-unabhaengigkeit-von-us-technik-a-3a8a4780-8bf7-4f4b-9e7d-750ef440778e#ref=rss)
+* [https://www.spiegel.de/ausland/zoelle-von-donald-trump-sogar-in-der-republikanischen-partei-regt-sich-widerstand](https://www.spiegel.de/ausland/zoelle-von-donald-trump-sogar-in-der-republikanischen-partei-regt-sich-widerstand-a-5612b662-4d2a-4e55-9f0d-474b96378809#ref=rss)
 ### usa
 
-* [https://www.spiegel.de/ausland/usa-erste-groessere-demos-gegen-donald-trump-geplant](https://www.spiegel.de/ausland/usa-erste-groessere-demos-gegen-donald-trump-geplant-a-e31083d1-ce0b-4aa6-8bbe-b0e655aea899#ref=rss)
-* [https://www.spiegel.de/wirtschaft/fed-chef-jerome-powell-erwartet-hoehere-inflation-und-langsameres-wachstum](https://www.spiegel.de/wirtschaft/fed-chef-jerome-powell-erwartet-hoehere-inflation-und-langsameres-wachstum-a-29abb2cf-bebc-40e3-9ae8-6330f8927a6b#ref=rss)
-* [https://www.spiegel.de/ausland/jemen-donald-trump-jagt-die-huthis-allein-die-munition-kostete-wohl-schon-200-millionen-dollar](https://www.spiegel.de/ausland/jemen-donald-trump-jagt-die-huthis-allein-die-munition-kostete-wohl-schon-200-millionen-dollar-a-c3d74668-5001-4c19-a6a8-7425d8cf68f2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/usa-deutlich-mehr-jobs-aber-arbeitslosigkeit-steigt-leicht-an](https://www.spiegel.de/wirtschaft/usa-deutlich-mehr-jobs-aber-arbeitslosigkeit-steigt-leicht-an-a-2683a49a-21c3-4b4e-93d8-e467884dafb7#ref=rss)
-* [https://www.spiegel.de/ausland/groenland-und-die-usa-das-kleine-daenemark-wehrt-sich-gegen-donald-trump](https://www.spiegel.de/ausland/groenland-und-die-usa-das-kleine-daenemark-wehrt-sich-gegen-donald-trump-a-b595865c-a5cf-41d3-84ae-e84af9e2e902#ref=rss)
-### minecraft
+* [https://www.spiegel.de/ausland/zoelle-der-usa-ted-cruz-warnt-vor-politischem-blutbad-bei-naechsten-wahlen](https://www.spiegel.de/ausland/zoelle-der-usa-ted-cruz-warnt-vor-politischem-blutbad-bei-naechsten-wahlen-a-37a3f89e-6497-4473-9e1a-45b7cba6da06#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/donald-trump-elon-musk-und-co-zehn-einfache-schritte-zu-mehr-unabhaengigkeit-von-us-technik](https://www.spiegel.de/netzwelt/netzpolitik/donald-trump-elon-musk-und-co-zehn-einfache-schritte-zu-mehr-unabhaengigkeit-von-us-technik-a-3a8a4780-8bf7-4f4b-9e7d-750ef440778e#ref=rss)
+* [https://www.spiegel.de/ausland/usa-jede-fuenfte-entlassung-war-laut-donald-trumps-gesundheitsminister-rfk-jr-ein-fehler](https://www.spiegel.de/ausland/usa-jede-fuenfte-entlassung-war-laut-donald-trumps-gesundheitsminister-rfk-jr-ein-fehler-a-deab4f55-833f-43e0-8b38-4438c43bf248#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-t-mobile-streicht-offenbar-diversitaets-initiativen](https://www.spiegel.de/wirtschaft/usa-t-mobile-streicht-offenbar-diversitaets-initiativen-a-f59630b7-8481-4907-a755-5e333977d07f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/nintendo-switch-2-vorbestellungen-aus-den-usa-wegen-zoellen-gestoppt](https://www.spiegel.de/wirtschaft/unternehmen/nintendo-switch-2-vorbestellungen-aus-den-usa-wegen-zoellen-gestoppt-a-e0c94fab-a1d6-46d3-b909-7cf52e31716f#ref=rss)
+### donald
 
-* [https://www.spiegel.de/kultur/minecraft-a-minecraft-movie-als-blockbuster-im-kino](https://www.spiegel.de/kultur/minecraft-a-minecraft-movie-als-blockbuster-im-kino-a-5b4a5a51-d3f4-499d-96ca-1c9abb44abb2#ref=rss)
-### zeiten
-
-* [https://www.spiegel.de/kultur/minecraft-a-minecraft-movie-als-blockbuster-im-kino](https://www.spiegel.de/kultur/minecraft-a-minecraft-movie-als-blockbuster-im-kino-a-5b4a5a51-d3f4-499d-96ca-1c9abb44abb2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/fed-chef-jerome-powell-erwartet-hoehere-inflation-und-langsameres-wachstum](https://www.spiegel.de/wirtschaft/fed-chef-jerome-powell-erwartet-hoehere-inflation-und-langsameres-wachstum-a-29abb2cf-bebc-40e3-9ae8-6330f8927a6b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/usa-deutlich-mehr-jobs-aber-arbeitslosigkeit-steigt-leicht-an](https://www.spiegel.de/wirtschaft/usa-deutlich-mehr-jobs-aber-arbeitslosigkeit-steigt-leicht-an-a-2683a49a-21c3-4b4e-93d8-e467884dafb7#ref=rss)
-### trumps
-
-* [https://www.spiegel.de/wirtschaft/fed-chef-jerome-powell-erwartet-hoehere-inflation-und-langsameres-wachstum](https://www.spiegel.de/wirtschaft/fed-chef-jerome-powell-erwartet-hoehere-inflation-und-langsameres-wachstum-a-29abb2cf-bebc-40e3-9ae8-6330f8927a6b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/zoelle-von-donald-trump-kalifornien-bittet-weltweite-handelspartner-um-ausnahme](https://www.spiegel.de/wirtschaft/zoelle-von-donald-trump-kalifornien-bittet-weltweite-handelspartner-um-ausnahme-a-ee8b6a84-64f1-420e-a053-1719640745ef#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-jva-burg-femizide-trumps-handelskrieg](https://www.spiegel.de/politik/deutschland/news-des-tages-jva-burg-femizide-trumps-handelskrieg-a-9e540d97-1da6-4495-b7dd-e350a52a9870#ref=rss)
-### sommer
-
-* [https://www.spiegel.de/sport/fussball/mats-hummels-seine-karriere-in-bildern](https://www.spiegel.de/sport/fussball/mats-hummels-seine-karriere-in-bildern-a-24c3e286-6937-47f3-a299-b41af96cb253#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-mats-hummels-kuendigt-karriereende-an](https://www.spiegel.de/sport/fussball/fussball-mats-hummels-kuendigt-karriereende-an-a-20a75e4b-d9ef-43ef-8954-9a53f0be7006#ref=rss)
-### warnt
-
-* [https://www.spiegel.de/netzwelt/eta-abzocke-im-internet-polizei-warnt-vor-gefaelschten-visa-websites](https://www.spiegel.de/netzwelt/eta-abzocke-im-internet-polizei-warnt-vor-gefaelschten-visa-websites-a-d899aea1-c725-4b87-80f1-b1a896e23ee3#ref=rss)
-* [https://www.spiegel.de/ausland/erdbeben-in-myanmar-seuchen-befuerchtet-machthaber-geht-auf-reisen](https://www.spiegel.de/ausland/erdbeben-in-myanmar-seuchen-befuerchtet-machthaber-geht-auf-reisen-a-73c83fe2-9232-4d20-b1b8-69cbba933244#ref=rss)
-* [https://www.spiegel.de/panorama/fruehling-2025-in-deutschland-extrem-trocken-welche-folgen-das-hat](https://www.spiegel.de/panorama/fruehling-2025-in-deutschland-extrem-trocken-welche-folgen-das-hat-a-c5abaa20-deda-49d6-9bcf-13ebccd72aa2#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/netzwelt/eta-abzocke-im-internet-polizei-warnt-vor-gefaelschten-visa-websites](https://www.spiegel.de/netzwelt/eta-abzocke-im-internet-polizei-warnt-vor-gefaelschten-visa-websites-a-d899aea1-c725-4b87-80f1-b1a896e23ee3#ref=rss)
-* [https://www.spiegel.de/wissenschaft/rabea-rogge-erste-deutsche-frau-im-all-nach-raumflug-zurueck-auf-erde](https://www.spiegel.de/wissenschaft/rabea-rogge-erste-deutsche-frau-im-all-nach-raumflug-zurueck-auf-erde-a-92c41a70-78a7-422e-872c-4f0ff79def57#ref=rss)
-### woche
-
-* [https://www.spiegel.de/netzwelt/eta-abzocke-im-internet-polizei-warnt-vor-gefaelschten-visa-websites](https://www.spiegel.de/netzwelt/eta-abzocke-im-internet-polizei-warnt-vor-gefaelschten-visa-websites-a-d899aea1-c725-4b87-80f1-b1a896e23ee3#ref=rss)
-* [https://www.spiegel.de/kultur/musik/elton-john-brandi-carlile-black-country-new-road-destroyer-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/elton-john-brandi-carlile-black-country-new-road-destroyer-abgehoert-album-der-woche-a-0a061a6f-f976-4e05-a2c0-f034d9cf75f3#ref=rss)
-### handelsstreit
-
-* [https://www.spiegel.de/wirtschaft/usa-deutlich-mehr-jobs-aber-arbeitslosigkeit-steigt-leicht-an](https://www.spiegel.de/wirtschaft/usa-deutlich-mehr-jobs-aber-arbeitslosigkeit-steigt-leicht-an-a-2683a49a-21c3-4b4e-93d8-e467884dafb7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/zoelle-von-donald-trump-aktienkurse-weltweit-rutschen-ab](https://www.spiegel.de/wirtschaft/zoelle-von-donald-trump-aktienkurse-weltweit-rutschen-ab-a-61618f34-011d-4716-a25a-ca22ed0f9dea#ref=rss)
-* [https://www.spiegel.de/wirtschaft/zoelle-von-donald-trump-kalifornien-bittet-weltweite-handelspartner-um-ausnahme](https://www.spiegel.de/wirtschaft/zoelle-von-donald-trump-kalifornien-bittet-weltweite-handelspartner-um-ausnahme-a-ee8b6a84-64f1-420e-a053-1719640745ef#ref=rss)
-### karriere
-
-* [https://www.spiegel.de/sport/fussball/mats-hummels-beendet-karriere-der-modernste-profi-seiner-art](https://www.spiegel.de/sport/fussball/mats-hummels-beendet-karriere-der-modernste-profi-seiner-art-a-bbe6d5d8-d7af-4232-b949-61f07ac2f465#ref=rss)
-* [https://www.spiegel.de/sport/fussball/mats-hummels-seine-karriere-in-bildern](https://www.spiegel.de/sport/fussball/mats-hummels-seine-karriere-in-bildern-a-24c3e286-6937-47f3-a299-b41af96cb253#ref=rss)
-### weltmeister
-
-* [https://www.spiegel.de/sport/fussball/mats-hummels-beendet-karriere-der-modernste-profi-seiner-art](https://www.spiegel.de/sport/fussball/mats-hummels-beendet-karriere-der-modernste-profi-seiner-art-a-bbe6d5d8-d7af-4232-b949-61f07ac2f465#ref=rss)
-* [https://www.spiegel.de/sport/fussball/mats-hummels-seine-karriere-in-bildern](https://www.spiegel.de/sport/fussball/mats-hummels-seine-karriere-in-bildern-a-24c3e286-6937-47f3-a299-b41af96cb253#ref=rss)
-### krywyj
-
-* [https://www.spiegel.de/ausland/krywyj-rih-viele-tote-nach-raketenschlag-auf-heimatstadt-von-wolodymyr-selenskyj](https://www.spiegel.de/ausland/krywyj-rih-viele-tote-nach-raketenschlag-auf-heimatstadt-von-wolodymyr-selenskyj-a-54b409dd-513f-4326-9653-83a3bdfb331d#ref=rss)
-### rih
-
-* [https://www.spiegel.de/ausland/krywyj-rih-viele-tote-nach-raketenschlag-auf-heimatstadt-von-wolodymyr-selenskyj](https://www.spiegel.de/ausland/krywyj-rih-viele-tote-nach-raketenschlag-auf-heimatstadt-von-wolodymyr-selenskyj-a-54b409dd-513f-4326-9653-83a3bdfb331d#ref=rss)
-### heimatstadt
-
-* [https://www.spiegel.de/ausland/krywyj-rih-viele-tote-nach-raketenschlag-auf-heimatstadt-von-wolodymyr-selenskyj](https://www.spiegel.de/ausland/krywyj-rih-viele-tote-nach-raketenschlag-auf-heimatstadt-von-wolodymyr-selenskyj-a-54b409dd-513f-4326-9653-83a3bdfb331d#ref=rss)
-### wolodymyr
-
-* [https://www.spiegel.de/ausland/krywyj-rih-viele-tote-nach-raketenschlag-auf-heimatstadt-von-wolodymyr-selenskyj](https://www.spiegel.de/ausland/krywyj-rih-viele-tote-nach-raketenschlag-auf-heimatstadt-von-wolodymyr-selenskyj-a-54b409dd-513f-4326-9653-83a3bdfb331d#ref=rss)
-### selenskyj
-
-* [https://www.spiegel.de/ausland/krywyj-rih-viele-tote-nach-raketenschlag-auf-heimatstadt-von-wolodymyr-selenskyj](https://www.spiegel.de/ausland/krywyj-rih-viele-tote-nach-raketenschlag-auf-heimatstadt-von-wolodymyr-selenskyj-a-54b409dd-513f-4326-9653-83a3bdfb331d#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/krywyj-rih-viele-tote-nach-raketenschlag-auf-heimatstadt-von-wolodymyr-selenskyj](https://www.spiegel.de/ausland/krywyj-rih-viele-tote-nach-raketenschlag-auf-heimatstadt-von-wolodymyr-selenskyj-a-54b409dd-513f-4326-9653-83a3bdfb331d#ref=rss)
-### erste
-
-* [https://www.spiegel.de/ausland/usa-erste-groessere-demos-gegen-donald-trump-geplant](https://www.spiegel.de/ausland/usa-erste-groessere-demos-gegen-donald-trump-geplant-a-e31083d1-ce0b-4aa6-8bbe-b0e655aea899#ref=rss)
-* [https://www.spiegel.de/wissenschaft/rabea-rogge-erste-deutsche-frau-im-all-nach-raumflug-zurueck-auf-erde](https://www.spiegel.de/wissenschaft/rabea-rogge-erste-deutsche-frau-im-all-nach-raumflug-zurueck-auf-erde-a-92c41a70-78a7-422e-872c-4f0ff79def57#ref=rss)
-### lange
-
-* [https://www.spiegel.de/ausland/usa-erste-groessere-demos-gegen-donald-trump-geplant](https://www.spiegel.de/ausland/usa-erste-groessere-demos-gegen-donald-trump-geplant-a-e31083d1-ce0b-4aa6-8bbe-b0e655aea899#ref=rss)
-* [https://www.spiegel.de/kultur/musik/elton-john-brandi-carlile-black-country-new-road-destroyer-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/elton-john-brandi-carlile-black-country-new-road-destroyer-abgehoert-album-der-woche-a-0a061a6f-f976-4e05-a2c0-f034d9cf75f3#ref=rss)
-### widerstand
-
-* [https://www.spiegel.de/ausland/usa-erste-groessere-demos-gegen-donald-trump-geplant](https://www.spiegel.de/ausland/usa-erste-groessere-demos-gegen-donald-trump-geplant-a-e31083d1-ce0b-4aa6-8bbe-b0e655aea899#ref=rss)
-* [https://www.spiegel.de/ausland/barack-obama-ruft-amerikaner-zu-mehr-widerstand-gegen-donald-trump-auf](https://www.spiegel.de/ausland/barack-obama-ruft-amerikaner-zu-mehr-widerstand-gegen-donald-trump-auf-a-5ddf7f3e-fed2-44bb-b8bb-b81bf0722fc7#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/ausland/usa-erste-groessere-demos-gegen-donald-trump-geplant](https://www.spiegel.de/ausland/usa-erste-groessere-demos-gegen-donald-trump-geplant-a-e31083d1-ce0b-4aa6-8bbe-b0e655aea899#ref=rss)
-* [https://www.spiegel.de/ausland/groenland-und-die-usa-das-kleine-daenemark-wehrt-sich-gegen-donald-trump](https://www.spiegel.de/ausland/groenland-und-die-usa-das-kleine-daenemark-wehrt-sich-gegen-donald-trump-a-b595865c-a5cf-41d3-84ae-e84af9e2e902#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/ausland/usa-erste-groessere-demos-gegen-donald-trump-geplant](https://www.spiegel.de/ausland/usa-erste-groessere-demos-gegen-donald-trump-geplant-a-e31083d1-ce0b-4aa6-8bbe-b0e655aea899#ref=rss)
-* [https://www.spiegel.de/panorama/fruehling-2025-in-deutschland-extrem-trocken-welche-folgen-das-hat](https://www.spiegel.de/panorama/fruehling-2025-in-deutschland-extrem-trocken-welche-folgen-das-hat-a-c5abaa20-deda-49d6-9bcf-13ebccd72aa2#ref=rss)
-### movie
-
-* [https://www.spiegel.de/kultur/minecraft-a-minecraft-movie-als-blockbuster-im-kino](https://www.spiegel.de/kultur/minecraft-a-minecraft-movie-als-blockbuster-im-kino-a-5b4a5a51-d3f4-499d-96ca-1c9abb44abb2#ref=rss)
-### wohl
-
-* [https://www.spiegel.de/kultur/minecraft-a-minecraft-movie-als-blockbuster-im-kino](https://www.spiegel.de/kultur/minecraft-a-minecraft-movie-als-blockbuster-im-kino-a-5b4a5a51-d3f4-499d-96ca-1c9abb44abb2#ref=rss)
-* [https://www.spiegel.de/ausland/jemen-donald-trump-jagt-die-huthis-allein-die-munition-kostete-wohl-schon-200-millionen-dollar](https://www.spiegel.de/ausland/jemen-donald-trump-jagt-die-huthis-allein-die-munition-kostete-wohl-schon-200-millionen-dollar-a-c3d74668-5001-4c19-a6a8-7425d8cf68f2#ref=rss)
-### erwartet
-
-* [https://www.spiegel.de/wirtschaft/fed-chef-jerome-powell-erwartet-hoehere-inflation-und-langsameres-wachstum](https://www.spiegel.de/wirtschaft/fed-chef-jerome-powell-erwartet-hoehere-inflation-und-langsameres-wachstum-a-29abb2cf-bebc-40e3-9ae8-6330f8927a6b#ref=rss)
-* [https://www.spiegel.de/kultur/tv/ndr-sandra-harzer-kux-scheitert-bei-intendantenwahl](https://www.spiegel.de/kultur/tv/ndr-sandra-harzer-kux-scheitert-bei-intendantenwahl-a-75190d1d-79fa-449e-8c3b-64720c19e0c3#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/wirtschaft/fed-chef-jerome-powell-erwartet-hoehere-inflation-und-langsameres-wachstum](https://www.spiegel.de/wirtschaft/fed-chef-jerome-powell-erwartet-hoehere-inflation-und-langsameres-wachstum-a-29abb2cf-bebc-40e3-9ae8-6330f8927a6b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/zoelle-von-donald-trump-aktienkurse-weltweit-rutschen-ab](https://www.spiegel.de/wirtschaft/zoelle-von-donald-trump-aktienkurse-weltweit-rutschen-ab-a-61618f34-011d-4716-a25a-ca22ed0f9dea#ref=rss)
-### barack
-
-* [https://www.spiegel.de/ausland/barack-obama-ruft-amerikaner-zu-mehr-widerstand-gegen-donald-trump-auf](https://www.spiegel.de/ausland/barack-obama-ruft-amerikaner-zu-mehr-widerstand-gegen-donald-trump-auf-a-5ddf7f3e-fed2-44bb-b8bb-b81bf0722fc7#ref=rss)
-### obama
-
-* [https://www.spiegel.de/ausland/barack-obama-ruft-amerikaner-zu-mehr-widerstand-gegen-donald-trump-auf](https://www.spiegel.de/ausland/barack-obama-ruft-amerikaner-zu-mehr-widerstand-gegen-donald-trump-auf-a-5ddf7f3e-fed2-44bb-b8bb-b81bf0722fc7#ref=rss)
-### amerikaner
-
-* [https://www.spiegel.de/ausland/barack-obama-ruft-amerikaner-zu-mehr-widerstand-gegen-donald-trump-auf](https://www.spiegel.de/ausland/barack-obama-ruft-amerikaner-zu-mehr-widerstand-gegen-donald-trump-auf-a-5ddf7f3e-fed2-44bb-b8bb-b81bf0722fc7#ref=rss)
-### hamburg
-
-* [https://www.spiegel.de/panorama/hamburg-prozess-gegen-ex-bdk-chef-andre-schulz-hat-begonnen](https://www.spiegel.de/panorama/hamburg-prozess-gegen-ex-bdk-chef-andre-schulz-hat-begonnen-a-3b2a37e9-97cd-403d-bf14-193e0a20030f#ref=rss)
-### andré
-
-* [https://www.spiegel.de/panorama/hamburg-prozess-gegen-ex-bdk-chef-andre-schulz-hat-begonnen](https://www.spiegel.de/panorama/hamburg-prozess-gegen-ex-bdk-chef-andre-schulz-hat-begonnen-a-3b2a37e9-97cd-403d-bf14-193e0a20030f#ref=rss)
-### schulz
-
-* [https://www.spiegel.de/panorama/hamburg-prozess-gegen-ex-bdk-chef-andre-schulz-hat-begonnen](https://www.spiegel.de/panorama/hamburg-prozess-gegen-ex-bdk-chef-andre-schulz-hat-begonnen-a-3b2a37e9-97cd-403d-bf14-193e0a20030f#ref=rss)
-### besonders
-
-* [https://www.spiegel.de/panorama/hamburg-prozess-gegen-ex-bdk-chef-andre-schulz-hat-begonnen](https://www.spiegel.de/panorama/hamburg-prozess-gegen-ex-bdk-chef-andre-schulz-hat-begonnen-a-3b2a37e9-97cd-403d-bf14-193e0a20030f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/rabea-rogge-erste-deutsche-frau-im-all-nach-raumflug-zurueck-auf-erde](https://www.spiegel.de/wissenschaft/rabea-rogge-erste-deutsche-frau-im-all-nach-raumflug-zurueck-auf-erde-a-92c41a70-78a7-422e-872c-4f0ff79def57#ref=rss)
-### rabea
-
-* [https://www.spiegel.de/wissenschaft/rabea-rogge-erste-deutsche-frau-im-all-nach-raumflug-zurueck-auf-erde](https://www.spiegel.de/wissenschaft/rabea-rogge-erste-deutsche-frau-im-all-nach-raumflug-zurueck-auf-erde-a-92c41a70-78a7-422e-872c-4f0ff79def57#ref=rss)
-### rogge
-
-* [https://www.spiegel.de/wissenschaft/rabea-rogge-erste-deutsche-frau-im-all-nach-raumflug-zurueck-auf-erde](https://www.spiegel.de/wissenschaft/rabea-rogge-erste-deutsche-frau-im-all-nach-raumflug-zurueck-auf-erde-a-92c41a70-78a7-422e-872c-4f0ff79def57#ref=rss)
-### frau
-
-* [https://www.spiegel.de/wissenschaft/rabea-rogge-erste-deutsche-frau-im-all-nach-raumflug-zurueck-auf-erde](https://www.spiegel.de/wissenschaft/rabea-rogge-erste-deutsche-frau-im-all-nach-raumflug-zurueck-auf-erde-a-92c41a70-78a7-422e-872c-4f0ff79def57#ref=rss)
-### all
-
-* [https://www.spiegel.de/wissenschaft/rabea-rogge-erste-deutsche-frau-im-all-nach-raumflug-zurueck-auf-erde](https://www.spiegel.de/wissenschaft/rabea-rogge-erste-deutsche-frau-im-all-nach-raumflug-zurueck-auf-erde-a-92c41a70-78a7-422e-872c-4f0ff79def57#ref=rss)
-### jemen
-
-* [https://www.spiegel.de/ausland/jemen-donald-trump-jagt-die-huthis-allein-die-munition-kostete-wohl-schon-200-millionen-dollar](https://www.spiegel.de/ausland/jemen-donald-trump-jagt-die-huthis-allein-die-munition-kostete-wohl-schon-200-millionen-dollar-a-c3d74668-5001-4c19-a6a8-7425d8cf68f2#ref=rss)
-### huthis
-
-* [https://www.spiegel.de/ausland/jemen-donald-trump-jagt-die-huthis-allein-die-munition-kostete-wohl-schon-200-millionen-dollar](https://www.spiegel.de/ausland/jemen-donald-trump-jagt-die-huthis-allein-die-munition-kostete-wohl-schon-200-millionen-dollar-a-c3d74668-5001-4c19-a6a8-7425d8cf68f2#ref=rss)
-### dollar
-
-* [https://www.spiegel.de/ausland/jemen-donald-trump-jagt-die-huthis-allein-die-munition-kostete-wohl-schon-200-millionen-dollar](https://www.spiegel.de/ausland/jemen-donald-trump-jagt-die-huthis-allein-die-munition-kostete-wohl-schon-200-millionen-dollar-a-c3d74668-5001-4c19-a6a8-7425d8cf68f2#ref=rss)
-### bericht
-
-* [https://www.spiegel.de/ausland/jemen-donald-trump-jagt-die-huthis-allein-die-munition-kostete-wohl-schon-200-millionen-dollar](https://www.spiegel.de/ausland/jemen-donald-trump-jagt-die-huthis-allein-die-munition-kostete-wohl-schon-200-millionen-dollar-a-c3d74668-5001-4c19-a6a8-7425d8cf68f2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/zoelle-von-donald-trump-kalifornien-bittet-weltweite-handelspartner-um-ausnahme](https://www.spiegel.de/wirtschaft/zoelle-von-donald-trump-kalifornien-bittet-weltweite-handelspartner-um-ausnahme-a-ee8b6a84-64f1-420e-a053-1719640745ef#ref=rss)
-### dax
-
-* [https://www.spiegel.de/wirtschaft/service/etf-dax-und-msci-world-in-der-krise-sollten-anleger-jetzt-verkaufen](https://www.spiegel.de/wirtschaft/service/etf-dax-und-msci-world-in-der-krise-sollten-anleger-jetzt-verkaufen-a-442352b7-67bd-4768-ad67-0f74ba7cc298#ref=rss)
-### msciworld
-
-* [https://www.spiegel.de/wirtschaft/service/etf-dax-und-msci-world-in-der-krise-sollten-anleger-jetzt-verkaufen](https://www.spiegel.de/wirtschaft/service/etf-dax-und-msci-world-in-der-krise-sollten-anleger-jetzt-verkaufen-a-442352b7-67bd-4768-ad67-0f74ba7cc298#ref=rss)
-### anleger
-
-* [https://www.spiegel.de/wirtschaft/service/etf-dax-und-msci-world-in-der-krise-sollten-anleger-jetzt-verkaufen](https://www.spiegel.de/wirtschaft/service/etf-dax-und-msci-world-in-der-krise-sollten-anleger-jetzt-verkaufen-a-442352b7-67bd-4768-ad67-0f74ba7cc298#ref=rss)
-### kurse
-
-* [https://www.spiegel.de/wirtschaft/service/etf-dax-und-msci-world-in-der-krise-sollten-anleger-jetzt-verkaufen](https://www.spiegel.de/wirtschaft/service/etf-dax-und-msci-world-in-der-krise-sollten-anleger-jetzt-verkaufen-a-442352b7-67bd-4768-ad67-0f74ba7cc298#ref=rss)
-* [https://www.spiegel.de/wirtschaft/zoelle-von-donald-trump-aktienkurse-weltweit-rutschen-ab](https://www.spiegel.de/wirtschaft/zoelle-von-donald-trump-aktienkurse-weltweit-rutschen-ab-a-61618f34-011d-4716-a25a-ca22ed0f9dea#ref=rss)
-### köln
-
-* [https://www.spiegel.de/auto/koeln-beschliesst-u-bahn-tunnel-quer-durch-die-innenstadt](https://www.spiegel.de/auto/koeln-beschliesst-u-bahn-tunnel-quer-durch-die-innenstadt-a-ed651e3c-1fed-4042-8f8c-c66296a47700#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/auto/koeln-beschliesst-u-bahn-tunnel-quer-durch-die-innenstadt](https://www.spiegel.de/auto/koeln-beschliesst-u-bahn-tunnel-quer-durch-die-innenstadt-a-ed651e3c-1fed-4042-8f8c-c66296a47700#ref=rss)
-* [https://www.spiegel.de/kultur/musik/elton-john-brandi-carlile-black-country-new-road-destroyer-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/elton-john-brandi-carlile-black-country-new-road-destroyer-abgehoert-album-der-woche-a-0a061a6f-f976-4e05-a2c0-f034d9cf75f3#ref=rss)
-### video
-
-* [https://www.spiegel.de/sport/fussball/fussball-mats-hummels-kuendigt-karriereende-an](https://www.spiegel.de/sport/fussball/fussball-mats-hummels-kuendigt-karriereende-an-a-20a75e4b-d9ef-43ef-8954-9a53f0be7006#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/margot-friedlaender-mit-friedenspreis-geehrt-ihre-bewegenden-worte-im-video](https://www.spiegel.de/politik/deutschland/margot-friedlaender-mit-friedenspreis-geehrt-ihre-bewegenden-worte-im-video-a-300b47e0-585f-403c-b9fd-a9e8b522485b#ref=rss)
-### ende
-
-* [https://www.spiegel.de/sport/fussball/fussball-mats-hummels-kuendigt-karriereende-an](https://www.spiegel.de/sport/fussball/fussball-mats-hummels-kuendigt-karriereende-an-a-20a75e4b-d9ef-43ef-8954-9a53f0be7006#ref=rss)
-* [https://www.spiegel.de/wirtschaft/usa-deutlich-mehr-jobs-aber-arbeitslosigkeit-steigt-leicht-an](https://www.spiegel.de/wirtschaft/usa-deutlich-mehr-jobs-aber-arbeitslosigkeit-steigt-leicht-an-a-2683a49a-21c3-4b4e-93d8-e467884dafb7#ref=rss)
-### myanmar
-
-* [https://www.spiegel.de/ausland/erdbeben-in-myanmar-seuchen-befuerchtet-machthaber-geht-auf-reisen](https://www.spiegel.de/ausland/erdbeben-in-myanmar-seuchen-befuerchtet-machthaber-geht-auf-reisen-a-73c83fe2-9232-4d20-b1b8-69cbba933244#ref=rss)
-### steigt
-
-* [https://www.spiegel.de/ausland/erdbeben-in-myanmar-seuchen-befuerchtet-machthaber-geht-auf-reisen](https://www.spiegel.de/ausland/erdbeben-in-myanmar-seuchen-befuerchtet-machthaber-geht-auf-reisen-a-73c83fe2-9232-4d20-b1b8-69cbba933244#ref=rss)
-* [https://www.spiegel.de/wirtschaft/usa-deutlich-mehr-jobs-aber-arbeitslosigkeit-steigt-leicht-an](https://www.spiegel.de/wirtschaft/usa-deutlich-mehr-jobs-aber-arbeitslosigkeit-steigt-leicht-an-a-2683a49a-21c3-4b4e-93d8-e467884dafb7#ref=rss)
-### who
-
-* [https://www.spiegel.de/ausland/erdbeben-in-myanmar-seuchen-befuerchtet-machthaber-geht-auf-reisen](https://www.spiegel.de/ausland/erdbeben-in-myanmar-seuchen-befuerchtet-machthaber-geht-auf-reisen-a-73c83fe2-9232-4d20-b1b8-69cbba933244#ref=rss)
-* [https://www.spiegel.de/kultur/musik/elton-john-brandi-carlile-black-country-new-road-destroyer-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/elton-john-brandi-carlile-black-country-new-road-destroyer-abgehoert-album-der-woche-a-0a061a6f-f976-4e05-a2c0-f034d9cf75f3#ref=rss)
-### dennoch
-
-* [https://www.spiegel.de/ausland/erdbeben-in-myanmar-seuchen-befuerchtet-machthaber-geht-auf-reisen](https://www.spiegel.de/ausland/erdbeben-in-myanmar-seuchen-befuerchtet-machthaber-geht-auf-reisen-a-73c83fe2-9232-4d20-b1b8-69cbba933244#ref=rss)
-* [https://www.spiegel.de/wirtschaft/usa-deutlich-mehr-jobs-aber-arbeitslosigkeit-steigt-leicht-an](https://www.spiegel.de/wirtschaft/usa-deutlich-mehr-jobs-aber-arbeitslosigkeit-steigt-leicht-an-a-2683a49a-21c3-4b4e-93d8-e467884dafb7#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/ausland/erdbeben-in-myanmar-seuchen-befuerchtet-machthaber-geht-auf-reisen](https://www.spiegel.de/ausland/erdbeben-in-myanmar-seuchen-befuerchtet-machthaber-geht-auf-reisen-a-73c83fe2-9232-4d20-b1b8-69cbba933244#ref=rss)
-* [https://www.spiegel.de/panorama/leute/scarlett-johansson-stalker-nach-snl-bombendrohung-angeblich-festgenommen](https://www.spiegel.de/panorama/leute/scarlett-johansson-stalker-nach-snl-bombendrohung-angeblich-festgenommen-a-60eeb70a-1193-4aa0-aea7-60157c8dbbfc#ref=rss)
+* [https://www.spiegel.de/ausland/diese-laender-beschenkten-donald-trump-er-sanktionierte-sie-trotzdem](https://www.spiegel.de/ausland/diese-laender-beschenkten-donald-trump-er-sanktionierte-sie-trotzdem-a-818c4b25-b360-46dd-924e-c72707a106c8#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/donald-trump-elon-musk-und-co-zehn-einfache-schritte-zu-mehr-unabhaengigkeit-von-us-technik](https://www.spiegel.de/netzwelt/netzpolitik/donald-trump-elon-musk-und-co-zehn-einfache-schritte-zu-mehr-unabhaengigkeit-von-us-technik-a-3a8a4780-8bf7-4f4b-9e7d-750ef440778e#ref=rss)
+* [https://www.spiegel.de/ausland/usa-jede-fuenfte-entlassung-war-laut-donald-trumps-gesundheitsminister-rfk-jr-ein-fehler](https://www.spiegel.de/ausland/usa-jede-fuenfte-entlassung-war-laut-donald-trumps-gesundheitsminister-rfk-jr-ein-fehler-a-deab4f55-833f-43e0-8b38-4438c43bf248#ref=rss)
+* [https://www.spiegel.de/ausland/zoelle-von-donald-trump-sogar-in-der-republikanischen-partei-regt-sich-widerstand](https://www.spiegel.de/ausland/zoelle-von-donald-trump-sogar-in-der-republikanischen-partei-regt-sich-widerstand-a-5612b662-4d2a-4e55-9f0d-474b96378809#ref=rss)
 ### zölle
 
-* [https://www.spiegel.de/wirtschaft/zoelle-von-donald-trump-aktienkurse-weltweit-rutschen-ab](https://www.spiegel.de/wirtschaft/zoelle-von-donald-trump-aktienkurse-weltweit-rutschen-ab-a-61618f34-011d-4716-a25a-ca22ed0f9dea#ref=rss)
-* [https://www.spiegel.de/wirtschaft/zoelle-von-donald-trump-kalifornien-bittet-weltweite-handelspartner-um-ausnahme](https://www.spiegel.de/wirtschaft/zoelle-von-donald-trump-kalifornien-bittet-weltweite-handelspartner-um-ausnahme-a-ee8b6a84-64f1-420e-a053-1719640745ef#ref=rss)
-### weltweit
+* [https://www.spiegel.de/ausland/zoelle-der-usa-ted-cruz-warnt-vor-politischem-blutbad-bei-naechsten-wahlen](https://www.spiegel.de/ausland/zoelle-der-usa-ted-cruz-warnt-vor-politischem-blutbad-bei-naechsten-wahlen-a-37a3f89e-6497-4473-9e1a-45b7cba6da06#ref=rss)
+* [https://www.spiegel.de/ausland/diese-laender-beschenkten-donald-trump-er-sanktionierte-sie-trotzdem](https://www.spiegel.de/ausland/diese-laender-beschenkten-donald-trump-er-sanktionierte-sie-trotzdem-a-818c4b25-b360-46dd-924e-c72707a106c8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/nintendo-switch-2-vorbestellungen-aus-den-usa-wegen-zoellen-gestoppt](https://www.spiegel.de/wirtschaft/unternehmen/nintendo-switch-2-vorbestellungen-aus-den-usa-wegen-zoellen-gestoppt-a-e0c94fab-a1d6-46d3-b909-7cf52e31716f#ref=rss)
+* [https://www.spiegel.de/ausland/zoelle-von-donald-trump-sogar-in-der-republikanischen-partei-regt-sich-widerstand](https://www.spiegel.de/ausland/zoelle-von-donald-trump-sogar-in-der-republikanischen-partei-regt-sich-widerstand-a-5612b662-4d2a-4e55-9f0d-474b96378809#ref=rss)
+### bayern
 
-* [https://www.spiegel.de/wirtschaft/zoelle-von-donald-trump-aktienkurse-weltweit-rutschen-ab](https://www.spiegel.de/wirtschaft/zoelle-von-donald-trump-aktienkurse-weltweit-rutschen-ab-a-61618f34-011d-4716-a25a-ca22ed0f9dea#ref=rss)
-### allerdings
+* [https://www.spiegel.de/sport/fussball/fussball-thomas-mueller-und-fc-bayern-muenchen-trennen-sich-im-sommer](https://www.spiegel.de/sport/fussball/fussball-thomas-mueller-und-fc-bayern-muenchen-trennen-sich-im-sommer-a-5a58fd67-66c4-452e-8424-2b9335d40b73#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-jamal-musiala-verletzt-fc-bayern-muenchen-setzt-auf-teamgeist-gegen-inter-mailand](https://www.spiegel.de/sport/fussball/champions-league-jamal-musiala-verletzt-fc-bayern-muenchen-setzt-auf-teamgeist-gegen-inter-mailand-a-9bebf494-d809-40ed-879a-461529f2c59b#ref=rss)
+### wohl
 
-* [https://www.spiegel.de/wirtschaft/zoelle-von-donald-trump-aktienkurse-weltweit-rutschen-ab](https://www.spiegel.de/wirtschaft/zoelle-von-donald-trump-aktienkurse-weltweit-rutschen-ab-a-61618f34-011d-4716-a25a-ca22ed0f9dea#ref=rss)
-* [https://www.spiegel.de/kultur/meghan-markle-konfituere-ausverkauft-waren-es-fans-oder-hater-kolumne-von-anja-ruetzel](https://www.spiegel.de/kultur/meghan-markle-konfituere-ausverkauft-waren-es-fans-oder-hater-kolumne-von-anja-ruetzel-a-b181121f-dcdf-427c-a6ab-a9b1db2fe0f0#ref=rss)
-### frühling
+* [https://www.spiegel.de/politik/deutschland/informationsfreiheitsgesetz-diese-enthuellungen-hat-das-ifg-ermoeglicht](https://www.spiegel.de/politik/deutschland/informationsfreiheitsgesetz-diese-enthuellungen-hat-das-ifg-ermoeglicht-a-e33ab1cc-5055-440d-8f61-f1bc8424a722#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/massengrab-mit-roemischen-soldaten-schlacht-nahm-wohl-katastrophales-ende](https://www.spiegel.de/wissenschaft/mensch/massengrab-mit-roemischen-soldaten-schlacht-nahm-wohl-katastrophales-ende-a-f7646e15-fb57-48c6-92ee-c440064542fa#ref=rss)
+* [https://www.spiegel.de/ausland/usa-jede-fuenfte-entlassung-war-laut-donald-trumps-gesundheitsminister-rfk-jr-ein-fehler](https://www.spiegel.de/ausland/usa-jede-fuenfte-entlassung-war-laut-donald-trumps-gesundheitsminister-rfk-jr-ein-fehler-a-deab4f55-833f-43e0-8b38-4438c43bf248#ref=rss)
+### folgen
 
-* [https://www.spiegel.de/panorama/fruehling-2025-in-deutschland-extrem-trocken-welche-folgen-das-hat](https://www.spiegel.de/panorama/fruehling-2025-in-deutschland-extrem-trocken-welche-folgen-das-hat-a-c5abaa20-deda-49d6-9bcf-13ebccd72aa2#ref=rss)
-### blicken
+* [https://www.spiegel.de/ausland/zoelle-der-usa-ted-cruz-warnt-vor-politischem-blutbad-bei-naechsten-wahlen](https://www.spiegel.de/ausland/zoelle-der-usa-ted-cruz-warnt-vor-politischem-blutbad-bei-naechsten-wahlen-a-37a3f89e-6497-4473-9e1a-45b7cba6da06#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klimawandel-die-wolken-auf-erden-schwinde-krise-am-himmel](https://www.spiegel.de/wissenschaft/klimawandel-die-wolken-auf-erden-schwinde-krise-am-himmel-a-269d9a7a-4571-4e76-b1d9-80e9c56439a4#ref=rss)
+### womöglich
 
-* [https://www.spiegel.de/panorama/fruehling-2025-in-deutschland-extrem-trocken-welche-folgen-das-hat](https://www.spiegel.de/panorama/fruehling-2025-in-deutschland-extrem-trocken-welche-folgen-das-hat-a-c5abaa20-deda-49d6-9bcf-13ebccd72aa2#ref=rss)
-* [https://www.spiegel.de/ausland/yoon-suk-yeol-des-amtes-enthoben-ein-kleines-happy-end-in-suedkorea](https://www.spiegel.de/ausland/yoon-suk-yeol-des-amtes-enthoben-ein-kleines-happy-end-in-suedkorea-a-94e2ec19-1d6b-47a9-91c0-56e687c743d2#ref=rss)
-### real
+* [https://www.spiegel.de/ausland/zoelle-der-usa-ted-cruz-warnt-vor-politischem-blutbad-bei-naechsten-wahlen](https://www.spiegel.de/ausland/zoelle-der-usa-ted-cruz-warnt-vor-politischem-blutbad-bei-naechsten-wahlen-a-37a3f89e-6497-4473-9e1a-45b7cba6da06#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-t-mobile-streicht-offenbar-diversitaets-initiativen](https://www.spiegel.de/wirtschaft/usa-t-mobile-streicht-offenbar-diversitaets-initiativen-a-f59630b7-8481-4907-a755-5e333977d07f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/nintendo-switch-2-vorbestellungen-aus-den-usa-wegen-zoellen-gestoppt](https://www.spiegel.de/wirtschaft/unternehmen/nintendo-switch-2-vorbestellungen-aus-den-usa-wegen-zoellen-gestoppt-a-e0c94fab-a1d6-46d3-b909-7cf52e31716f#ref=rss)
+### fragen
 
-* [https://www.spiegel.de/sport/fussball/real-madrid-antonio-ruediger-fuer-kopf-ab-geste-bestraft](https://www.spiegel.de/sport/fussball/real-madrid-antonio-ruediger-fuer-kopf-ab-geste-bestraft-a-6ffdb01d-69cd-4674-a8d1-b14abb86cd97#ref=rss)
-* [https://www.spiegel.de/kultur/meghan-markle-konfituere-ausverkauft-waren-es-fans-oder-hater-kolumne-von-anja-ruetzel](https://www.spiegel.de/kultur/meghan-markle-konfituere-ausverkauft-waren-es-fans-oder-hater-kolumne-von-anja-ruetzel-a-b181121f-dcdf-427c-a6ab-a9b1db2fe0f0#ref=rss)
-### antonio
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/panorama/grosser-borstenwurm-lebte-jahrelang-versteckt-in-museum](https://www.spiegel.de/panorama/grosser-borstenwurm-lebte-jahrelang-versteckt-in-museum-a-63c42e8e-1042-4c8e-8f64-492559a3119d#ref=rss)
+### trumps
 
-* [https://www.spiegel.de/sport/fussball/real-madrid-antonio-ruediger-fuer-kopf-ab-geste-bestraft](https://www.spiegel.de/sport/fussball/real-madrid-antonio-ruediger-fuer-kopf-ab-geste-bestraft-a-6ffdb01d-69cd-4674-a8d1-b14abb86cd97#ref=rss)
-### rüdiger
+* [https://www.spiegel.de/ausland/usa-jede-fuenfte-entlassung-war-laut-donald-trumps-gesundheitsminister-rfk-jr-ein-fehler](https://www.spiegel.de/ausland/usa-jede-fuenfte-entlassung-war-laut-donald-trumps-gesundheitsminister-rfk-jr-ein-fehler-a-deab4f55-833f-43e0-8b38-4438c43bf248#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/nintendo-switch-2-vorbestellungen-aus-den-usa-wegen-zoellen-gestoppt](https://www.spiegel.de/wirtschaft/unternehmen/nintendo-switch-2-vorbestellungen-aus-den-usa-wegen-zoellen-gestoppt-a-e0c94fab-a1d6-46d3-b909-7cf52e31716f#ref=rss)
+### müller
 
-* [https://www.spiegel.de/sport/fussball/real-madrid-antonio-ruediger-fuer-kopf-ab-geste-bestraft](https://www.spiegel.de/sport/fussball/real-madrid-antonio-ruediger-fuer-kopf-ab-geste-bestraft-a-6ffdb01d-69cd-4674-a8d1-b14abb86cd97#ref=rss)
-### yoon
+* [https://www.spiegel.de/sport/fussball/fussball-thomas-mueller-und-fc-bayern-muenchen-trennen-sich-im-sommer](https://www.spiegel.de/sport/fussball/fussball-thomas-mueller-und-fc-bayern-muenchen-trennen-sich-im-sommer-a-5a58fd67-66c4-452e-8424-2b9335d40b73#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-jamal-musiala-verletzt-fc-bayern-muenchen-setzt-auf-teamgeist-gegen-inter-mailand](https://www.spiegel.de/sport/fussball/champions-league-jamal-musiala-verletzt-fc-bayern-muenchen-setzt-auf-teamgeist-gegen-inter-mailand-a-9bebf494-d809-40ed-879a-461529f2c59b#ref=rss)
+### fc
 
-* [https://www.spiegel.de/ausland/yoon-suk-yeol-des-amtes-enthoben-ein-kleines-happy-end-in-suedkorea](https://www.spiegel.de/ausland/yoon-suk-yeol-des-amtes-enthoben-ein-kleines-happy-end-in-suedkorea-a-94e2ec19-1d6b-47a9-91c0-56e687c743d2#ref=rss)
-### amtes
+* [https://www.spiegel.de/sport/fussball/fussball-thomas-mueller-und-fc-bayern-muenchen-trennen-sich-im-sommer](https://www.spiegel.de/sport/fussball/fussball-thomas-mueller-und-fc-bayern-muenchen-trennen-sich-im-sommer-a-5a58fd67-66c4-452e-8424-2b9335d40b73#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-jamal-musiala-verletzt-fc-bayern-muenchen-setzt-auf-teamgeist-gegen-inter-mailand](https://www.spiegel.de/sport/fussball/champions-league-jamal-musiala-verletzt-fc-bayern-muenchen-setzt-auf-teamgeist-gegen-inter-mailand-a-9bebf494-d809-40ed-879a-461529f2c59b#ref=rss)
+### warnen
 
-* [https://www.spiegel.de/ausland/yoon-suk-yeol-des-amtes-enthoben-ein-kleines-happy-end-in-suedkorea](https://www.spiegel.de/ausland/yoon-suk-yeol-des-amtes-enthoben-ein-kleines-happy-end-in-suedkorea-a-94e2ec19-1d6b-47a9-91c0-56e687c743d2#ref=rss)
-### enthoben
+* [https://www.spiegel.de/wissenschaft/klimawandel-die-wolken-auf-erden-schwinde-krise-am-himmel](https://www.spiegel.de/wissenschaft/klimawandel-die-wolken-auf-erden-schwinde-krise-am-himmel-a-269d9a7a-4571-4e76-b1d9-80e9c56439a4#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/mpox-experten-warnen-vor-ernster-bedrohung-durch-affenpocken](https://www.spiegel.de/wissenschaft/medizin/mpox-experten-warnen-vor-ernster-bedrohung-durch-affenpocken-a-a07f9daf-b95f-45af-bbac-d19bf4b65a49#ref=rss)
+### volk
 
-* [https://www.spiegel.de/ausland/yoon-suk-yeol-des-amtes-enthoben-ein-kleines-happy-end-in-suedkorea](https://www.spiegel.de/ausland/yoon-suk-yeol-des-amtes-enthoben-ein-kleines-happy-end-in-suedkorea-a-94e2ec19-1d6b-47a9-91c0-56e687c743d2#ref=rss)
-### südkorea
+* [https://www.spiegel.de/panorama/indien-us-tourist-ueberbringt-isoliertem-volk-coladose-festnahme](https://www.spiegel.de/panorama/indien-us-tourist-ueberbringt-isoliertem-volk-coladose-festnahme-a-feb4b9ce-c3a8-457c-8b50-ce25086fcf8d#ref=rss)
+### viele
 
-* [https://www.spiegel.de/ausland/yoon-suk-yeol-des-amtes-enthoben-ein-kleines-happy-end-in-suedkorea](https://www.spiegel.de/ausland/yoon-suk-yeol-des-amtes-enthoben-ein-kleines-happy-end-in-suedkorea-a-94e2ec19-1d6b-47a9-91c0-56e687c743d2#ref=rss)
-### sandra
+* [https://www.spiegel.de/politik/deutschland/informationsfreiheitsgesetz-diese-enthuellungen-hat-das-ifg-ermoeglicht](https://www.spiegel.de/politik/deutschland/informationsfreiheitsgesetz-diese-enthuellungen-hat-das-ifg-ermoeglicht-a-e33ab1cc-5055-440d-8f61-f1bc8424a722#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/donald-trump-elon-musk-und-co-zehn-einfache-schritte-zu-mehr-unabhaengigkeit-von-us-technik](https://www.spiegel.de/netzwelt/netzpolitik/donald-trump-elon-musk-und-co-zehn-einfache-schritte-zu-mehr-unabhaengigkeit-von-us-technik-a-3a8a4780-8bf7-4f4b-9e7d-750ef440778e#ref=rss)
+### außenminister
 
-* [https://www.spiegel.de/kultur/tv/ndr-sandra-harzer-kux-scheitert-bei-intendantenwahl](https://www.spiegel.de/kultur/tv/ndr-sandra-harzer-kux-scheitert-bei-intendantenwahl-a-75190d1d-79fa-449e-8c3b-64720c19e0c3#ref=rss)
-### harzerkux
+* [https://www.spiegel.de/ausland/victor-orban-estlands-aussenminister-tsahkna-bringt-entzug-des-stimmrechts-fuer-ungarns-ministerpraesidenten-ins-spiel](https://www.spiegel.de/ausland/victor-orban-estlands-aussenminister-tsahkna-bringt-entzug-des-stimmrechts-fuer-ungarns-ministerpraesidenten-ins-spiel-a-4de4c05c-eee7-426b-83fe-8ab776933b1f#ref=rss)
+### tsahkna
 
-* [https://www.spiegel.de/kultur/tv/ndr-sandra-harzer-kux-scheitert-bei-intendantenwahl](https://www.spiegel.de/kultur/tv/ndr-sandra-harzer-kux-scheitert-bei-intendantenwahl-a-75190d1d-79fa-449e-8c3b-64720c19e0c3#ref=rss)
-### kalifornien
+* [https://www.spiegel.de/ausland/victor-orban-estlands-aussenminister-tsahkna-bringt-entzug-des-stimmrechts-fuer-ungarns-ministerpraesidenten-ins-spiel](https://www.spiegel.de/ausland/victor-orban-estlands-aussenminister-tsahkna-bringt-entzug-des-stimmrechts-fuer-ungarns-ministerpraesidenten-ins-spiel-a-4de4c05c-eee7-426b-83fe-8ab776933b1f#ref=rss)
+### römischen
 
-* [https://www.spiegel.de/wirtschaft/zoelle-von-donald-trump-kalifornien-bittet-weltweite-handelspartner-um-ausnahme](https://www.spiegel.de/wirtschaft/zoelle-von-donald-trump-kalifornien-bittet-weltweite-handelspartner-um-ausnahme-a-ee8b6a84-64f1-420e-a053-1719640745ef#ref=rss)
-### handelspartner
+* [https://www.spiegel.de/wissenschaft/mensch/massengrab-mit-roemischen-soldaten-schlacht-nahm-wohl-katastrophales-ende](https://www.spiegel.de/wissenschaft/mensch/massengrab-mit-roemischen-soldaten-schlacht-nahm-wohl-katastrophales-ende-a-f7646e15-fb57-48c6-92ee-c440064542fa#ref=rss)
+### soldaten
 
-* [https://www.spiegel.de/wirtschaft/zoelle-von-donald-trump-kalifornien-bittet-weltweite-handelspartner-um-ausnahme](https://www.spiegel.de/wirtschaft/zoelle-von-donald-trump-kalifornien-bittet-weltweite-handelspartner-um-ausnahme-a-ee8b6a84-64f1-420e-a053-1719640745ef#ref=rss)
-### scarlett
+* [https://www.spiegel.de/wissenschaft/mensch/massengrab-mit-roemischen-soldaten-schlacht-nahm-wohl-katastrophales-ende](https://www.spiegel.de/wissenschaft/mensch/massengrab-mit-roemischen-soldaten-schlacht-nahm-wohl-katastrophales-ende-a-f7646e15-fb57-48c6-92ee-c440064542fa#ref=rss)
+### ende
 
-* [https://www.spiegel.de/panorama/leute/scarlett-johansson-stalker-nach-snl-bombendrohung-angeblich-festgenommen](https://www.spiegel.de/panorama/leute/scarlett-johansson-stalker-nach-snl-bombendrohung-angeblich-festgenommen-a-60eeb70a-1193-4aa0-aea7-60157c8dbbfc#ref=rss)
-### johansson
+* [https://www.spiegel.de/wissenschaft/mensch/massengrab-mit-roemischen-soldaten-schlacht-nahm-wohl-katastrophales-ende](https://www.spiegel.de/wissenschaft/mensch/massengrab-mit-roemischen-soldaten-schlacht-nahm-wohl-katastrophales-ende-a-f7646e15-fb57-48c6-92ee-c440064542fa#ref=rss)
+### ted
 
-* [https://www.spiegel.de/panorama/leute/scarlett-johansson-stalker-nach-snl-bombendrohung-angeblich-festgenommen](https://www.spiegel.de/panorama/leute/scarlett-johansson-stalker-nach-snl-bombendrohung-angeblich-festgenommen-a-60eeb70a-1193-4aa0-aea7-60157c8dbbfc#ref=rss)
-### festgenommen
+* [https://www.spiegel.de/ausland/zoelle-der-usa-ted-cruz-warnt-vor-politischem-blutbad-bei-naechsten-wahlen](https://www.spiegel.de/ausland/zoelle-der-usa-ted-cruz-warnt-vor-politischem-blutbad-bei-naechsten-wahlen-a-37a3f89e-6497-4473-9e1a-45b7cba6da06#ref=rss)
+### cruz
 
-* [https://www.spiegel.de/panorama/leute/scarlett-johansson-stalker-nach-snl-bombendrohung-angeblich-festgenommen](https://www.spiegel.de/panorama/leute/scarlett-johansson-stalker-nach-snl-bombendrohung-angeblich-festgenommen-a-60eeb70a-1193-4aa0-aea7-60157c8dbbfc#ref=rss)
-### meghan
+* [https://www.spiegel.de/ausland/zoelle-der-usa-ted-cruz-warnt-vor-politischem-blutbad-bei-naechsten-wahlen](https://www.spiegel.de/ausland/zoelle-der-usa-ted-cruz-warnt-vor-politischem-blutbad-bei-naechsten-wahlen-a-37a3f89e-6497-4473-9e1a-45b7cba6da06#ref=rss)
+### warnt
 
-* [https://www.spiegel.de/kultur/meghan-markle-konfituere-ausverkauft-waren-es-fans-oder-hater-kolumne-von-anja-ruetzel](https://www.spiegel.de/kultur/meghan-markle-konfituere-ausverkauft-waren-es-fans-oder-hater-kolumne-von-anja-ruetzel-a-b181121f-dcdf-427c-a6ab-a9b1db2fe0f0#ref=rss)
-### konfitüre
+* [https://www.spiegel.de/ausland/zoelle-der-usa-ted-cruz-warnt-vor-politischem-blutbad-bei-naechsten-wahlen](https://www.spiegel.de/ausland/zoelle-der-usa-ted-cruz-warnt-vor-politischem-blutbad-bei-naechsten-wahlen-a-37a3f89e-6497-4473-9e1a-45b7cba6da06#ref=rss)
+### erst
 
-* [https://www.spiegel.de/kultur/meghan-markle-konfituere-ausverkauft-waren-es-fans-oder-hater-kolumne-von-anja-ruetzel](https://www.spiegel.de/kultur/meghan-markle-konfituere-ausverkauft-waren-es-fans-oder-hater-kolumne-von-anja-ruetzel-a-b181121f-dcdf-427c-a6ab-a9b1db2fe0f0#ref=rss)
-### ausverkauft
+* [https://www.spiegel.de/ausland/zoelle-der-usa-ted-cruz-warnt-vor-politischem-blutbad-bei-naechsten-wahlen](https://www.spiegel.de/ausland/zoelle-der-usa-ted-cruz-warnt-vor-politischem-blutbad-bei-naechsten-wahlen-a-37a3f89e-6497-4473-9e1a-45b7cba6da06#ref=rss)
+* [https://www.spiegel.de/panorama/trockenheit-im-norden-nabu-ruft-in-schleswig-holstein-zum-wassersparen-auf](https://www.spiegel.de/panorama/trockenheit-im-norden-nabu-ruft-in-schleswig-holstein-zum-wassersparen-auf-a-355c4362-01b3-405e-a42a-b65da3f35724#ref=rss)
+### länder
 
-* [https://www.spiegel.de/kultur/meghan-markle-konfituere-ausverkauft-waren-es-fans-oder-hater-kolumne-von-anja-ruetzel](https://www.spiegel.de/kultur/meghan-markle-konfituere-ausverkauft-waren-es-fans-oder-hater-kolumne-von-anja-ruetzel-a-b181121f-dcdf-427c-a6ab-a9b1db2fe0f0#ref=rss)
-### fans
+* [https://www.spiegel.de/ausland/zoelle-der-usa-ted-cruz-warnt-vor-politischem-blutbad-bei-naechsten-wahlen](https://www.spiegel.de/ausland/zoelle-der-usa-ted-cruz-warnt-vor-politischem-blutbad-bei-naechsten-wahlen-a-37a3f89e-6497-4473-9e1a-45b7cba6da06#ref=rss)
+* [https://www.spiegel.de/ausland/diese-laender-beschenkten-donald-trump-er-sanktionierte-sie-trotzdem](https://www.spiegel.de/ausland/diese-laender-beschenkten-donald-trump-er-sanktionierte-sie-trotzdem-a-818c4b25-b360-46dd-924e-c72707a106c8#ref=rss)
+### zöllen
 
-* [https://www.spiegel.de/kultur/meghan-markle-konfituere-ausverkauft-waren-es-fans-oder-hater-kolumne-von-anja-ruetzel](https://www.spiegel.de/kultur/meghan-markle-konfituere-ausverkauft-waren-es-fans-oder-hater-kolumne-von-anja-ruetzel-a-b181121f-dcdf-427c-a6ab-a9b1db2fe0f0#ref=rss)
-### hater
+* [https://www.spiegel.de/ausland/diese-laender-beschenkten-donald-trump-er-sanktionierte-sie-trotzdem](https://www.spiegel.de/ausland/diese-laender-beschenkten-donald-trump-er-sanktionierte-sie-trotzdem-a-818c4b25-b360-46dd-924e-c72707a106c8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/nintendo-switch-2-vorbestellungen-aus-den-usa-wegen-zoellen-gestoppt](https://www.spiegel.de/wirtschaft/unternehmen/nintendo-switch-2-vorbestellungen-aus-den-usa-wegen-zoellen-gestoppt-a-e0c94fab-a1d6-46d3-b909-7cf52e31716f#ref=rss)
+### union
 
-* [https://www.spiegel.de/kultur/meghan-markle-konfituere-ausverkauft-waren-es-fans-oder-hater-kolumne-von-anja-ruetzel](https://www.spiegel.de/kultur/meghan-markle-konfituere-ausverkauft-waren-es-fans-oder-hater-kolumne-von-anja-ruetzel-a-b181121f-dcdf-427c-a6ab-a9b1db2fe0f0#ref=rss)
-### elton
+* [https://www.spiegel.de/wirtschaft/service/kartenzahlung-union-und-spd-wollen-pflicht-zur-elektronischen-bezahlmoeglichkeit](https://www.spiegel.de/wirtschaft/service/kartenzahlung-union-und-spd-wollen-pflicht-zur-elektronischen-bezahlmoeglichkeit-a-4c95ec2a-36ab-4f4d-8f44-ac978e7a0d59#ref=rss)
+* [https://www.spiegel.de/politik/alexander-dobrindt-csu-politiker-will-die-dicken-klopper-in-den-koalitionsverhandlungen-schnell-abraeumen](https://www.spiegel.de/politik/alexander-dobrindt-csu-politiker-will-die-dicken-klopper-in-den-koalitionsverhandlungen-schnell-abraeumen-a-8da5e968-c9b8-4458-b5c2-830f03a37796#ref=rss)
+### spd
 
-* [https://www.spiegel.de/kultur/musik/elton-john-brandi-carlile-black-country-new-road-destroyer-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/elton-john-brandi-carlile-black-country-new-road-destroyer-abgehoert-album-der-woche-a-0a061a6f-f976-4e05-a2c0-f034d9cf75f3#ref=rss)
-### john
+* [https://www.spiegel.de/wirtschaft/service/kartenzahlung-union-und-spd-wollen-pflicht-zur-elektronischen-bezahlmoeglichkeit](https://www.spiegel.de/wirtschaft/service/kartenzahlung-union-und-spd-wollen-pflicht-zur-elektronischen-bezahlmoeglichkeit-a-4c95ec2a-36ab-4f4d-8f44-ac978e7a0d59#ref=rss)
+* [https://www.spiegel.de/politik/alexander-dobrindt-csu-politiker-will-die-dicken-klopper-in-den-koalitionsverhandlungen-schnell-abraeumen](https://www.spiegel.de/politik/alexander-dobrindt-csu-politiker-will-die-dicken-klopper-in-den-koalitionsverhandlungen-schnell-abraeumen-a-8da5e968-c9b8-4458-b5c2-830f03a37796#ref=rss)
+### tag
 
-* [https://www.spiegel.de/kultur/musik/elton-john-brandi-carlile-black-country-new-road-destroyer-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/elton-john-brandi-carlile-black-country-new-road-destroyer-abgehoert-album-der-woche-a-0a061a6f-f976-4e05-a2c0-f034d9cf75f3#ref=rss)
-### brandi
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### jeden
 
-* [https://www.spiegel.de/kultur/musik/elton-john-brandi-carlile-black-country-new-road-destroyer-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/elton-john-brandi-carlile-black-country-new-road-destroyer-abgehoert-album-der-woche-a-0a061a6f-f976-4e05-a2c0-f034d9cf75f3#ref=rss)
-### carlile
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/donald-trump-elon-musk-und-co-zehn-einfache-schritte-zu-mehr-unabhaengigkeit-von-us-technik](https://www.spiegel.de/netzwelt/netzpolitik/donald-trump-elon-musk-und-co-zehn-einfache-schritte-zu-mehr-unabhaengigkeit-von-us-technik-a-3a8a4780-8bf7-4f4b-9e7d-750ef440778e#ref=rss)
+### tracy
 
-* [https://www.spiegel.de/kultur/musik/elton-john-brandi-carlile-black-country-new-road-destroyer-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/elton-john-brandi-carlile-black-country-new-road-destroyer-abgehoert-album-der-woche-a-0a061a6f-f976-4e05-a2c0-f034d9cf75f3#ref=rss)
-### black
+* [https://www.spiegel.de/kultur/musik/tracy-chapman-hat-noch-immer-die-gleichen-sorgen-wie-mit-16](https://www.spiegel.de/kultur/musik/tracy-chapman-hat-noch-immer-die-gleichen-sorgen-wie-mit-16-a-3718229a-53c3-4af0-b2a2-4942f8b5747c#ref=rss)
+### chapman
 
-* [https://www.spiegel.de/kultur/musik/elton-john-brandi-carlile-black-country-new-road-destroyer-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/elton-john-brandi-carlile-black-country-new-road-destroyer-abgehoert-album-der-woche-a-0a061a6f-f976-4e05-a2c0-f034d9cf75f3#ref=rss)
-### country
+* [https://www.spiegel.de/kultur/musik/tracy-chapman-hat-noch-immer-die-gleichen-sorgen-wie-mit-16](https://www.spiegel.de/kultur/musik/tracy-chapman-hat-noch-immer-die-gleichen-sorgen-wie-mit-16-a-3718229a-53c3-4af0-b2a2-4942f8b5747c#ref=rss)
+### schorsch
 
-* [https://www.spiegel.de/kultur/musik/elton-john-brandi-carlile-black-country-new-road-destroyer-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/elton-john-brandi-carlile-black-country-new-road-destroyer-abgehoert-album-der-woche-a-0a061a6f-f976-4e05-a2c0-f034d9cf75f3#ref=rss)
-### new
+* [https://www.spiegel.de/kultur/schorsch-kamerun-als-theatermacher-in-berlin-grosse-gewinne-schwere-verluste](https://www.spiegel.de/kultur/schorsch-kamerun-als-theatermacher-in-berlin-grosse-gewinne-schwere-verluste-a-5c51c5ab-a76b-42de-abb9-3a5126f2df70#ref=rss)
+### kamerun
 
-* [https://www.spiegel.de/kultur/musik/elton-john-brandi-carlile-black-country-new-road-destroyer-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/elton-john-brandi-carlile-black-country-new-road-destroyer-abgehoert-album-der-woche-a-0a061a6f-f976-4e05-a2c0-f034d9cf75f3#ref=rss)
-### road
+* [https://www.spiegel.de/kultur/schorsch-kamerun-als-theatermacher-in-berlin-grosse-gewinne-schwere-verluste](https://www.spiegel.de/kultur/schorsch-kamerun-als-theatermacher-in-berlin-grosse-gewinne-schwere-verluste-a-5c51c5ab-a76b-42de-abb9-3a5126f2df70#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/kultur/musik/elton-john-brandi-carlile-black-country-new-road-destroyer-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/elton-john-brandi-carlile-black-country-new-road-destroyer-abgehoert-album-der-woche-a-0a061a6f-f976-4e05-a2c0-f034d9cf75f3#ref=rss)
-### album
+* [https://www.spiegel.de/kultur/schorsch-kamerun-als-theatermacher-in-berlin-grosse-gewinne-schwere-verluste](https://www.spiegel.de/kultur/schorsch-kamerun-als-theatermacher-in-berlin-grosse-gewinne-schwere-verluste-a-5c51c5ab-a76b-42de-abb9-3a5126f2df70#ref=rss)
+### große
 
-* [https://www.spiegel.de/kultur/musik/elton-john-brandi-carlile-black-country-new-road-destroyer-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/elton-john-brandi-carlile-black-country-new-road-destroyer-abgehoert-album-der-woche-a-0a061a6f-f976-4e05-a2c0-f034d9cf75f3#ref=rss)
-### könig
+* [https://www.spiegel.de/kultur/schorsch-kamerun-als-theatermacher-in-berlin-grosse-gewinne-schwere-verluste](https://www.spiegel.de/kultur/schorsch-kamerun-als-theatermacher-in-berlin-grosse-gewinne-schwere-verluste-a-5c51c5ab-a76b-42de-abb9-3a5126f2df70#ref=rss)
+### gewinne
 
-* [https://www.spiegel.de/panorama/koenig-charles-iii-spielt-moehrenfloete-auf-schloss-windsor](https://www.spiegel.de/panorama/koenig-charles-iii-spielt-moehrenfloete-auf-schloss-windsor-a-c5c05e56-e51d-4677-91a1-9157b44642fd#ref=rss)
-### charles
+* [https://www.spiegel.de/kultur/schorsch-kamerun-als-theatermacher-in-berlin-grosse-gewinne-schwere-verluste](https://www.spiegel.de/kultur/schorsch-kamerun-als-theatermacher-in-berlin-grosse-gewinne-schwere-verluste-a-5c51c5ab-a76b-42de-abb9-3a5126f2df70#ref=rss)
+### schwere
 
-* [https://www.spiegel.de/panorama/koenig-charles-iii-spielt-moehrenfloete-auf-schloss-windsor](https://www.spiegel.de/panorama/koenig-charles-iii-spielt-moehrenfloete-auf-schloss-windsor-a-c5c05e56-e51d-4677-91a1-9157b44642fd#ref=rss)
-### schloss
+* [https://www.spiegel.de/kultur/schorsch-kamerun-als-theatermacher-in-berlin-grosse-gewinne-schwere-verluste](https://www.spiegel.de/kultur/schorsch-kamerun-als-theatermacher-in-berlin-grosse-gewinne-schwere-verluste-a-5c51c5ab-a76b-42de-abb9-3a5126f2df70#ref=rss)
+### verluste
 
-* [https://www.spiegel.de/panorama/koenig-charles-iii-spielt-moehrenfloete-auf-schloss-windsor](https://www.spiegel.de/panorama/koenig-charles-iii-spielt-moehrenfloete-auf-schloss-windsor-a-c5c05e56-e51d-4677-91a1-9157b44642fd#ref=rss)
-### windsor
+* [https://www.spiegel.de/kultur/schorsch-kamerun-als-theatermacher-in-berlin-grosse-gewinne-schwere-verluste](https://www.spiegel.de/kultur/schorsch-kamerun-als-theatermacher-in-berlin-grosse-gewinne-schwere-verluste-a-5c51c5ab-a76b-42de-abb9-3a5126f2df70#ref=rss)
+### zeigt
 
-* [https://www.spiegel.de/panorama/koenig-charles-iii-spielt-moehrenfloete-auf-schloss-windsor](https://www.spiegel.de/panorama/koenig-charles-iii-spielt-moehrenfloete-auf-schloss-windsor-a-c5c05e56-e51d-4677-91a1-9157b44642fd#ref=rss)
-### margot
+* [https://www.spiegel.de/kultur/schorsch-kamerun-als-theatermacher-in-berlin-grosse-gewinne-schwere-verluste](https://www.spiegel.de/kultur/schorsch-kamerun-als-theatermacher-in-berlin-grosse-gewinne-schwere-verluste-a-5c51c5ab-a76b-42de-abb9-3a5126f2df70#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-15-getoetete-sanitaeter-video-widerlegt-israels-darstellung](https://www.spiegel.de/ausland/gaza-15-getoetete-sanitaeter-video-widerlegt-israels-darstellung-a-4e5b9ef8-3584-4bb6-8a2b-8263df518bbd#ref=rss)
+### musk
 
-* [https://www.spiegel.de/politik/deutschland/margot-friedlaender-mit-friedenspreis-geehrt-ihre-bewegenden-worte-im-video](https://www.spiegel.de/politik/deutschland/margot-friedlaender-mit-friedenspreis-geehrt-ihre-bewegenden-worte-im-video-a-300b47e0-585f-403c-b9fd-a9e8b522485b#ref=rss)
-### friedländer
+* [https://www.spiegel.de/netzwelt/netzpolitik/donald-trump-elon-musk-und-co-zehn-einfache-schritte-zu-mehr-unabhaengigkeit-von-us-technik](https://www.spiegel.de/netzwelt/netzpolitik/donald-trump-elon-musk-und-co-zehn-einfache-schritte-zu-mehr-unabhaengigkeit-von-us-technik-a-3a8a4780-8bf7-4f4b-9e7d-750ef440778e#ref=rss)
+### zehn
 
-* [https://www.spiegel.de/politik/deutschland/margot-friedlaender-mit-friedenspreis-geehrt-ihre-bewegenden-worte-im-video](https://www.spiegel.de/politik/deutschland/margot-friedlaender-mit-friedenspreis-geehrt-ihre-bewegenden-worte-im-video-a-300b47e0-585f-403c-b9fd-a9e8b522485b#ref=rss)
-### grönland
+* [https://www.spiegel.de/netzwelt/netzpolitik/donald-trump-elon-musk-und-co-zehn-einfache-schritte-zu-mehr-unabhaengigkeit-von-us-technik](https://www.spiegel.de/netzwelt/netzpolitik/donald-trump-elon-musk-und-co-zehn-einfache-schritte-zu-mehr-unabhaengigkeit-von-us-technik-a-3a8a4780-8bf7-4f4b-9e7d-750ef440778e#ref=rss)
+### jede
 
-* [https://www.spiegel.de/ausland/groenland-und-die-usa-das-kleine-daenemark-wehrt-sich-gegen-donald-trump](https://www.spiegel.de/ausland/groenland-und-die-usa-das-kleine-daenemark-wehrt-sich-gegen-donald-trump-a-b595865c-a5cf-41d3-84ae-e84af9e2e902#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/donald-trump-elon-musk-und-co-zehn-einfache-schritte-zu-mehr-unabhaengigkeit-von-us-technik](https://www.spiegel.de/netzwelt/netzpolitik/donald-trump-elon-musk-und-co-zehn-einfache-schritte-zu-mehr-unabhaengigkeit-von-us-technik-a-3a8a4780-8bf7-4f4b-9e7d-750ef440778e#ref=rss)
+* [https://www.spiegel.de/ausland/usa-jede-fuenfte-entlassung-war-laut-donald-trumps-gesundheitsminister-rfk-jr-ein-fehler](https://www.spiegel.de/ausland/usa-jede-fuenfte-entlassung-war-laut-donald-trumps-gesundheitsminister-rfk-jr-ein-fehler-a-deab4f55-833f-43e0-8b38-4438c43bf248#ref=rss)
+### marine
+
+* [https://www.spiegel.de/ausland/marine-le-pen-wie-rechte-in-frankreich-jetzt-die-justiz-attackieren](https://www.spiegel.de/ausland/marine-le-pen-wie-rechte-in-frankreich-jetzt-die-justiz-attackieren-a-2a58427e-08d5-4adc-91d7-99c451667bb7#ref=rss)
+### le
+
+* [https://www.spiegel.de/ausland/marine-le-pen-wie-rechte-in-frankreich-jetzt-die-justiz-attackieren](https://www.spiegel.de/ausland/marine-le-pen-wie-rechte-in-frankreich-jetzt-die-justiz-attackieren-a-2a58427e-08d5-4adc-91d7-99c451667bb7#ref=rss)
+### pen
+
+* [https://www.spiegel.de/ausland/marine-le-pen-wie-rechte-in-frankreich-jetzt-die-justiz-attackieren](https://www.spiegel.de/ausland/marine-le-pen-wie-rechte-in-frankreich-jetzt-die-justiz-attackieren-a-2a58427e-08d5-4adc-91d7-99c451667bb7#ref=rss)
+### justiz
+
+* [https://www.spiegel.de/ausland/marine-le-pen-wie-rechte-in-frankreich-jetzt-die-justiz-attackieren](https://www.spiegel.de/ausland/marine-le-pen-wie-rechte-in-frankreich-jetzt-die-justiz-attackieren-a-2a58427e-08d5-4adc-91d7-99c451667bb7#ref=rss)
+### dobrindt
+
+* [https://www.spiegel.de/politik/alexander-dobrindt-csu-politiker-will-die-dicken-klopper-in-den-koalitionsverhandlungen-schnell-abraeumen](https://www.spiegel.de/politik/alexander-dobrindt-csu-politiker-will-die-dicken-klopper-in-den-koalitionsverhandlungen-schnell-abraeumen-a-8da5e968-c9b8-4458-b5c2-830f03a37796#ref=rss)
+### koalitionsverhandlungen
+
+* [https://www.spiegel.de/politik/alexander-dobrindt-csu-politiker-will-die-dicken-klopper-in-den-koalitionsverhandlungen-schnell-abraeumen](https://www.spiegel.de/politik/alexander-dobrindt-csu-politiker-will-die-dicken-klopper-in-den-koalitionsverhandlungen-schnell-abraeumen-a-8da5e968-c9b8-4458-b5c2-830f03a37796#ref=rss)
+### video
+
+* [https://www.spiegel.de/ausland/gaza-15-getoetete-sanitaeter-video-widerlegt-israels-darstellung](https://www.spiegel.de/ausland/gaza-15-getoetete-sanitaeter-video-widerlegt-israels-darstellung-a-4e5b9ef8-3584-4bb6-8a2b-8263df518bbd#ref=rss)
+### israels
+
+* [https://www.spiegel.de/ausland/gaza-15-getoetete-sanitaeter-video-widerlegt-israels-darstellung](https://www.spiegel.de/ausland/gaza-15-getoetete-sanitaeter-video-widerlegt-israels-darstellung-a-4e5b9ef8-3584-4bb6-8a2b-8263df518bbd#ref=rss)
+### ohne
+
+* [https://www.spiegel.de/ausland/gaza-15-getoetete-sanitaeter-video-widerlegt-israels-darstellung](https://www.spiegel.de/ausland/gaza-15-getoetete-sanitaeter-video-widerlegt-israels-darstellung-a-4e5b9ef8-3584-4bb6-8a2b-8263df518bbd#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-jamal-musiala-verletzt-fc-bayern-muenchen-setzt-auf-teamgeist-gegen-inter-mailand](https://www.spiegel.de/sport/fussball/champions-league-jamal-musiala-verletzt-fc-bayern-muenchen-setzt-auf-teamgeist-gegen-inter-mailand-a-9bebf494-d809-40ed-879a-461529f2c59b#ref=rss)
+### neue
+
+* [https://www.spiegel.de/panorama/grosser-borstenwurm-lebte-jahrelang-versteckt-in-museum](https://www.spiegel.de/panorama/grosser-borstenwurm-lebte-jahrelang-versteckt-in-museum-a-63c42e8e-1042-4c8e-8f64-492559a3119d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/nintendo-switch-2-vorbestellungen-aus-den-usa-wegen-zoellen-gestoppt](https://www.spiegel.de/wirtschaft/unternehmen/nintendo-switch-2-vorbestellungen-aus-den-usa-wegen-zoellen-gestoppt-a-e0c94fab-a1d6-46d3-b909-7cf52e31716f#ref=rss)
+### laut
+
+* [https://www.spiegel.de/ausland/usa-jede-fuenfte-entlassung-war-laut-donald-trumps-gesundheitsminister-rfk-jr-ein-fehler](https://www.spiegel.de/ausland/usa-jede-fuenfte-entlassung-war-laut-donald-trumps-gesundheitsminister-rfk-jr-ein-fehler-a-deab4f55-833f-43e0-8b38-4438c43bf248#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-t-mobile-streicht-offenbar-diversitaets-initiativen](https://www.spiegel.de/wirtschaft/usa-t-mobile-streicht-offenbar-diversitaets-initiativen-a-f59630b7-8481-4907-a755-5e333977d07f#ref=rss)
+### gesundheitsminister
+
+* [https://www.spiegel.de/ausland/usa-jede-fuenfte-entlassung-war-laut-donald-trumps-gesundheitsminister-rfk-jr-ein-fehler](https://www.spiegel.de/ausland/usa-jede-fuenfte-entlassung-war-laut-donald-trumps-gesundheitsminister-rfk-jr-ein-fehler-a-deab4f55-833f-43e0-8b38-4438c43bf248#ref=rss)
+### zusammen
+
+* [https://www.spiegel.de/ausland/usa-jede-fuenfte-entlassung-war-laut-donald-trumps-gesundheitsminister-rfk-jr-ein-fehler](https://www.spiegel.de/ausland/usa-jede-fuenfte-entlassung-war-laut-donald-trumps-gesundheitsminister-rfk-jr-ein-fehler-a-deab4f55-833f-43e0-8b38-4438c43bf248#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-sie-waren-feinde-jetzt-stehen-sie-in-damaskus-zusammen-am-tresen](https://www.spiegel.de/ausland/syrien-sie-waren-feinde-jetzt-stehen-sie-in-damaskus-zusammen-am-tresen-a-682db06f-0340-4491-b810-20ebaa2bb523#ref=rss)
+### streicht
+
+* [https://www.spiegel.de/ausland/usa-jede-fuenfte-entlassung-war-laut-donald-trumps-gesundheitsminister-rfk-jr-ein-fehler](https://www.spiegel.de/ausland/usa-jede-fuenfte-entlassung-war-laut-donald-trumps-gesundheitsminister-rfk-jr-ein-fehler-a-deab4f55-833f-43e0-8b38-4438c43bf248#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-t-mobile-streicht-offenbar-diversitaets-initiativen](https://www.spiegel.de/wirtschaft/usa-t-mobile-streicht-offenbar-diversitaets-initiativen-a-f59630b7-8481-4907-a755-5e333977d07f#ref=rss)
+### selbst
+
+* [https://www.spiegel.de/ausland/usa-jede-fuenfte-entlassung-war-laut-donald-trumps-gesundheitsminister-rfk-jr-ein-fehler](https://www.spiegel.de/ausland/usa-jede-fuenfte-entlassung-war-laut-donald-trumps-gesundheitsminister-rfk-jr-ein-fehler-a-deab4f55-833f-43e0-8b38-4438c43bf248#ref=rss)
+* [https://www.spiegel.de/ausland/zoelle-von-donald-trump-sogar-in-der-republikanischen-partei-regt-sich-widerstand](https://www.spiegel.de/ausland/zoelle-von-donald-trump-sogar-in-der-republikanischen-partei-regt-sich-widerstand-a-5612b662-4d2a-4e55-9f0d-474b96378809#ref=rss)
+### thomas
+
+* [https://www.spiegel.de/sport/fussball/fussball-thomas-mueller-und-fc-bayern-muenchen-trennen-sich-im-sommer](https://www.spiegel.de/sport/fussball/fussball-thomas-mueller-und-fc-bayern-muenchen-trennen-sich-im-sommer-a-5a58fd67-66c4-452e-8424-2b9335d40b73#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-jamal-musiala-verletzt-fc-bayern-muenchen-setzt-auf-teamgeist-gegen-inter-mailand](https://www.spiegel.de/sport/fussball/champions-league-jamal-musiala-verletzt-fc-bayern-muenchen-setzt-auf-teamgeist-gegen-inter-mailand-a-9bebf494-d809-40ed-879a-461529f2c59b#ref=rss)
+### münchen
+
+* [https://www.spiegel.de/sport/fussball/fussball-thomas-mueller-und-fc-bayern-muenchen-trennen-sich-im-sommer](https://www.spiegel.de/sport/fussball/fussball-thomas-mueller-und-fc-bayern-muenchen-trennen-sich-im-sommer-a-5a58fd67-66c4-452e-8424-2b9335d40b73#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-jamal-musiala-verletzt-fc-bayern-muenchen-setzt-auf-teamgeist-gegen-inter-mailand](https://www.spiegel.de/sport/fussball/champions-league-jamal-musiala-verletzt-fc-bayern-muenchen-setzt-auf-teamgeist-gegen-inter-mailand-a-9bebf494-d809-40ed-879a-461529f2c59b#ref=rss)
+### max
+
+* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-mit-pole-position-beim-grossen-preis-von-japan](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-mit-pole-position-beim-grossen-preis-von-japan-a-90a101e1-7101-49ad-b0fb-138239970522#ref=rss)
+### verstappen
+
+* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-mit-pole-position-beim-grossen-preis-von-japan](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-mit-pole-position-beim-grossen-preis-von-japan-a-90a101e1-7101-49ad-b0fb-138239970522#ref=rss)
+### großen
+
+* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-mit-pole-position-beim-grossen-preis-von-japan](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-mit-pole-position-beim-grossen-preis-von-japan-a-90a101e1-7101-49ad-b0fb-138239970522#ref=rss)
+### preis
+
+* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-mit-pole-position-beim-grossen-preis-von-japan](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-mit-pole-position-beim-grossen-preis-von-japan-a-90a101e1-7101-49ad-b0fb-138239970522#ref=rss)
+### japan
+
+* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-mit-pole-position-beim-grossen-preis-von-japan](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-mit-pole-position-beim-grossen-preis-von-japan-a-90a101e1-7101-49ad-b0fb-138239970522#ref=rss)
+### wolken
+
+* [https://www.spiegel.de/wissenschaft/klimawandel-die-wolken-auf-erden-schwinde-krise-am-himmel](https://www.spiegel.de/wissenschaft/klimawandel-die-wolken-auf-erden-schwinde-krise-am-himmel-a-269d9a7a-4571-4e76-b1d9-80e9c56439a4#ref=rss)
+### himmel
+
+* [https://www.spiegel.de/wissenschaft/klimawandel-die-wolken-auf-erden-schwinde-krise-am-himmel](https://www.spiegel.de/wissenschaft/klimawandel-die-wolken-auf-erden-schwinde-krise-am-himmel-a-269d9a7a-4571-4e76-b1d9-80e9c56439a4#ref=rss)
+### erde
+
+* [https://www.spiegel.de/wissenschaft/klimawandel-die-wolken-auf-erden-schwinde-krise-am-himmel](https://www.spiegel.de/wissenschaft/klimawandel-die-wolken-auf-erden-schwinde-krise-am-himmel-a-269d9a7a-4571-4e76-b1d9-80e9c56439a4#ref=rss)
+* [https://www.spiegel.de/panorama/trockenheit-im-norden-nabu-ruft-in-schleswig-holstein-zum-wassersparen-auf](https://www.spiegel.de/panorama/trockenheit-im-norden-nabu-ruft-in-schleswig-holstein-zum-wassersparen-auf-a-355c4362-01b3-405e-a42a-b65da3f35724#ref=rss)
+### verurteilt
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/chevron-us-gericht-verurteilt-konzern-zu-740-millionen-dollar-entschaedigung](https://www.spiegel.de/wirtschaft/unternehmen/chevron-us-gericht-verurteilt-konzern-zu-740-millionen-dollar-entschaedigung-a-bdd06124-3c8b-48a5-84c1-9b9bd9dcb794#ref=rss)
+### konzern
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/chevron-us-gericht-verurteilt-konzern-zu-740-millionen-dollar-entschaedigung](https://www.spiegel.de/wirtschaft/unternehmen/chevron-us-gericht-verurteilt-konzern-zu-740-millionen-dollar-entschaedigung-a-bdd06124-3c8b-48a5-84c1-9b9bd9dcb794#ref=rss)
+### dollar
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/chevron-us-gericht-verurteilt-konzern-zu-740-millionen-dollar-entschaedigung](https://www.spiegel.de/wirtschaft/unternehmen/chevron-us-gericht-verurteilt-konzern-zu-740-millionen-dollar-entschaedigung-a-bdd06124-3c8b-48a5-84c1-9b9bd9dcb794#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/nintendo-switch-2-vorbestellungen-aus-den-usa-wegen-zoellen-gestoppt](https://www.spiegel.de/wirtschaft/unternehmen/nintendo-switch-2-vorbestellungen-aus-den-usa-wegen-zoellen-gestoppt-a-e0c94fab-a1d6-46d3-b909-7cf52e31716f#ref=rss)
+### champions
+
+* [https://www.spiegel.de/sport/fussball/champions-league-jamal-musiala-verletzt-fc-bayern-muenchen-setzt-auf-teamgeist-gegen-inter-mailand](https://www.spiegel.de/sport/fussball/champions-league-jamal-musiala-verletzt-fc-bayern-muenchen-setzt-auf-teamgeist-gegen-inter-mailand-a-9bebf494-d809-40ed-879a-461529f2c59b#ref=rss)
+### league
+
+* [https://www.spiegel.de/sport/fussball/champions-league-jamal-musiala-verletzt-fc-bayern-muenchen-setzt-auf-teamgeist-gegen-inter-mailand](https://www.spiegel.de/sport/fussball/champions-league-jamal-musiala-verletzt-fc-bayern-muenchen-setzt-auf-teamgeist-gegen-inter-mailand-a-9bebf494-d809-40ed-879a-461529f2c59b#ref=rss)
+### jamal
+
+* [https://www.spiegel.de/sport/fussball/champions-league-jamal-musiala-verletzt-fc-bayern-muenchen-setzt-auf-teamgeist-gegen-inter-mailand](https://www.spiegel.de/sport/fussball/champions-league-jamal-musiala-verletzt-fc-bayern-muenchen-setzt-auf-teamgeist-gegen-inter-mailand-a-9bebf494-d809-40ed-879a-461529f2c59b#ref=rss)
+### musiala
+
+* [https://www.spiegel.de/sport/fussball/champions-league-jamal-musiala-verletzt-fc-bayern-muenchen-setzt-auf-teamgeist-gegen-inter-mailand](https://www.spiegel.de/sport/fussball/champions-league-jamal-musiala-verletzt-fc-bayern-muenchen-setzt-auf-teamgeist-gegen-inter-mailand-a-9bebf494-d809-40ed-879a-461529f2c59b#ref=rss)
+### setzt
+
+* [https://www.spiegel.de/sport/fussball/champions-league-jamal-musiala-verletzt-fc-bayern-muenchen-setzt-auf-teamgeist-gegen-inter-mailand](https://www.spiegel.de/sport/fussball/champions-league-jamal-musiala-verletzt-fc-bayern-muenchen-setzt-auf-teamgeist-gegen-inter-mailand-a-9bebf494-d809-40ed-879a-461529f2c59b#ref=rss)
+* [https://www.spiegel.de/ausland/zoelle-von-donald-trump-sogar-in-der-republikanischen-partei-regt-sich-widerstand](https://www.spiegel.de/ausland/zoelle-von-donald-trump-sogar-in-der-republikanischen-partei-regt-sich-widerstand-a-5612b662-4d2a-4e55-9f0d-474b96378809#ref=rss)
+### inter
+
+* [https://www.spiegel.de/sport/fussball/champions-league-jamal-musiala-verletzt-fc-bayern-muenchen-setzt-auf-teamgeist-gegen-inter-mailand](https://www.spiegel.de/sport/fussball/champions-league-jamal-musiala-verletzt-fc-bayern-muenchen-setzt-auf-teamgeist-gegen-inter-mailand-a-9bebf494-d809-40ed-879a-461529f2c59b#ref=rss)
+### mailand
+
+* [https://www.spiegel.de/sport/fussball/champions-league-jamal-musiala-verletzt-fc-bayern-muenchen-setzt-auf-teamgeist-gegen-inter-mailand](https://www.spiegel.de/sport/fussball/champions-league-jamal-musiala-verletzt-fc-bayern-muenchen-setzt-auf-teamgeist-gegen-inter-mailand-a-9bebf494-d809-40ed-879a-461529f2c59b#ref=rss)
+### unter
+
+* [https://www.spiegel.de/wirtschaft/usa-t-mobile-streicht-offenbar-diversitaets-initiativen](https://www.spiegel.de/wirtschaft/usa-t-mobile-streicht-offenbar-diversitaets-initiativen-a-f59630b7-8481-4907-a755-5e333977d07f#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-nationalspielerin-alara-sehitler-verzichtet-wegen-nazi-parolen-auf-nachnamen](https://www.spiegel.de/sport/fussball/dfb-nationalspielerin-alara-sehitler-verzichtet-wegen-nazi-parolen-auf-nachnamen-a-74874a95-c47b-4a29-8fda-66557bdd5338#ref=rss)
+### nationalspielerin
+
+* [https://www.spiegel.de/sport/fussball/dfb-nationalspielerin-alara-sehitler-verzichtet-wegen-nazi-parolen-auf-nachnamen](https://www.spiegel.de/sport/fussball/dfb-nationalspielerin-alara-sehitler-verzichtet-wegen-nazi-parolen-auf-nachnamen-a-74874a95-c47b-4a29-8fda-66557bdd5338#ref=rss)
+### alara
+
+* [https://www.spiegel.de/sport/fussball/dfb-nationalspielerin-alara-sehitler-verzichtet-wegen-nazi-parolen-auf-nachnamen](https://www.spiegel.de/sport/fussball/dfb-nationalspielerin-alara-sehitler-verzichtet-wegen-nazi-parolen-auf-nachnamen-a-74874a95-c47b-4a29-8fda-66557bdd5338#ref=rss)
+### şehitler
+
+* [https://www.spiegel.de/sport/fussball/dfb-nationalspielerin-alara-sehitler-verzichtet-wegen-nazi-parolen-auf-nachnamen](https://www.spiegel.de/sport/fussball/dfb-nationalspielerin-alara-sehitler-verzichtet-wegen-nazi-parolen-auf-nachnamen-a-74874a95-c47b-4a29-8fda-66557bdd5338#ref=rss)
+### etwas
+
+* [https://www.spiegel.de/tests/kueche/kochbuch-tipps-genussvolle-rezepte-fuer-die-fastenzeit](https://www.spiegel.de/tests/kueche/kochbuch-tipps-genussvolle-rezepte-fuer-die-fastenzeit-a-3258f50d-3a70-4d4a-b534-17839c52e66d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/luxusuhren-branche-made-in-china-als-konkurrenz-zu-swiss-made](https://www.spiegel.de/wirtschaft/unternehmen/luxusuhren-branche-made-in-china-als-konkurrenz-zu-swiss-made-a-e90b7fb1-2452-4bea-8f2c-576ef2d8170a#ref=rss)
+### aktuelle
+
+* [https://www.spiegel.de/tests/kueche/kochbuch-tipps-genussvolle-rezepte-fuer-die-fastenzeit](https://www.spiegel.de/tests/kueche/kochbuch-tipps-genussvolle-rezepte-fuer-die-fastenzeit-a-3258f50d-3a70-4d4a-b534-17839c52e66d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/mpox-experten-warnen-vor-ernster-bedrohung-durch-affenpocken](https://www.spiegel.de/wissenschaft/medizin/mpox-experten-warnen-vor-ernster-bedrohung-durch-affenpocken-a-a07f9daf-b95f-45af-bbac-d19bf4b65a49#ref=rss)
+### made
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/luxusuhren-branche-made-in-china-als-konkurrenz-zu-swiss-made](https://www.spiegel.de/wirtschaft/unternehmen/luxusuhren-branche-made-in-china-als-konkurrenz-zu-swiss-made-a-e90b7fb1-2452-4bea-8f2c-576ef2d8170a#ref=rss)
+### china
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/luxusuhren-branche-made-in-china-als-konkurrenz-zu-swiss-made](https://www.spiegel.de/wirtschaft/unternehmen/luxusuhren-branche-made-in-china-als-konkurrenz-zu-swiss-made-a-e90b7fb1-2452-4bea-8f2c-576ef2d8170a#ref=rss)
+### eigentlich
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/nintendo-switch-2-vorbestellungen-aus-den-usa-wegen-zoellen-gestoppt](https://www.spiegel.de/wirtschaft/unternehmen/nintendo-switch-2-vorbestellungen-aus-den-usa-wegen-zoellen-gestoppt-a-e0c94fab-a1d6-46d3-b909-7cf52e31716f#ref=rss)
+* [https://www.spiegel.de/panorama/trockenheit-im-norden-nabu-ruft-in-schleswig-holstein-zum-wassersparen-auf](https://www.spiegel.de/panorama/trockenheit-im-norden-nabu-ruft-in-schleswig-holstein-zum-wassersparen-auf-a-355c4362-01b3-405e-a42a-b65da3f35724#ref=rss)
+### sollte
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/nintendo-switch-2-vorbestellungen-aus-den-usa-wegen-zoellen-gestoppt](https://www.spiegel.de/wirtschaft/unternehmen/nintendo-switch-2-vorbestellungen-aus-den-usa-wegen-zoellen-gestoppt-a-e0c94fab-a1d6-46d3-b909-7cf52e31716f#ref=rss)
+* [https://www.spiegel.de/panorama/trockenheit-im-norden-nabu-ruft-in-schleswig-holstein-zum-wassersparen-auf](https://www.spiegel.de/panorama/trockenheit-im-norden-nabu-ruft-in-schleswig-holstein-zum-wassersparen-auf-a-355c4362-01b3-405e-a42a-b65da3f35724#ref=rss)
+### ruft
+
+* [https://www.spiegel.de/panorama/trockenheit-im-norden-nabu-ruft-in-schleswig-holstein-zum-wassersparen-auf](https://www.spiegel.de/panorama/trockenheit-im-norden-nabu-ruft-in-schleswig-holstein-zum-wassersparen-auf-a-355c4362-01b3-405e-a42a-b65da3f35724#ref=rss)
+### mpox
+
+* [https://www.spiegel.de/wissenschaft/medizin/mpox-experten-warnen-vor-ernster-bedrohung-durch-affenpocken](https://www.spiegel.de/wissenschaft/medizin/mpox-experten-warnen-vor-ernster-bedrohung-durch-affenpocken-a-a07f9daf-b95f-45af-bbac-d19bf4b65a49#ref=rss)
+### experten
+
+* [https://www.spiegel.de/wissenschaft/medizin/mpox-experten-warnen-vor-ernster-bedrohung-durch-affenpocken](https://www.spiegel.de/wissenschaft/medizin/mpox-experten-warnen-vor-ernster-bedrohung-durch-affenpocken-a-a07f9daf-b95f-45af-bbac-d19bf4b65a49#ref=rss)
+### bedrohung
+
+* [https://www.spiegel.de/wissenschaft/medizin/mpox-experten-warnen-vor-ernster-bedrohung-durch-affenpocken](https://www.spiegel.de/wissenschaft/medizin/mpox-experten-warnen-vor-ernster-bedrohung-durch-affenpocken-a-a07f9daf-b95f-45af-bbac-d19bf4b65a49#ref=rss)
+### partei
+
+* [https://www.spiegel.de/ausland/zoelle-von-donald-trump-sogar-in-der-republikanischen-partei-regt-sich-widerstand](https://www.spiegel.de/ausland/zoelle-von-donald-trump-sogar-in-der-republikanischen-partei-regt-sich-widerstand-a-5612b662-4d2a-4e55-9f0d-474b96378809#ref=rss)
+### regt
+
+* [https://www.spiegel.de/ausland/zoelle-von-donald-trump-sogar-in-der-republikanischen-partei-regt-sich-widerstand](https://www.spiegel.de/ausland/zoelle-von-donald-trump-sogar-in-der-republikanischen-partei-regt-sich-widerstand-a-5612b662-4d2a-4e55-9f0d-474b96378809#ref=rss)
+### widerstand
+
+* [https://www.spiegel.de/ausland/zoelle-von-donald-trump-sogar-in-der-republikanischen-partei-regt-sich-widerstand](https://www.spiegel.de/ausland/zoelle-von-donald-trump-sogar-in-der-republikanischen-partei-regt-sich-widerstand-a-5612b662-4d2a-4e55-9f0d-474b96378809#ref=rss)
 
