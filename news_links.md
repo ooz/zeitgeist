@@ -4,345 +4,348 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### fc
-
-* [https://www.spiegel.de/sport/fussball/premier-league-fc-liverpool-verliert-erstmals-seit-26-ligaspielen-city-enttaeuscht-im-manchester-derby](https://www.spiegel.de/sport/fussball/premier-league-fc-liverpool-verliert-erstmals-seit-26-ligaspielen-city-enttaeuscht-im-manchester-derby-a-5aa51b5a-e289-4aec-9952-c168ba59e6b2#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-st-pauli-rettet-gegen-borussia-moenchengladbach-verdientes-unentschieden](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-st-pauli-rettet-gegen-borussia-moenchengladbach-verdientes-unentschieden-a-5b368501-4c77-4224-b1be-ae83312e7e54#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-1-fc-magdeburg-stuerzt-1-fc-kaiserslautern-von-platz-drei](https://www.spiegel.de/sport/fussball/2-bundesliga-1-fc-magdeburg-stuerzt-1-fc-kaiserslautern-von-platz-drei-a-d973b6ae-a251-4336-8dec-692e47ec6277#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wirtschaft/zoelle-mehr-als-50-staaten-wollen-angeblich-mit-usa-verhandeln](https://www.spiegel.de/wirtschaft/zoelle-mehr-als-50-staaten-wollen-angeblich-mit-usa-verhandeln-a-f6edf4e1-43eb-4b26-9b17-707a843e3bbd#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-offenbar-noch-mehr-als-100-chemiewaffenlagerstaetten-aus-der-zeit-von-baschar-al-assad](https://www.spiegel.de/ausland/syrien-offenbar-noch-mehr-als-100-chemiewaffenlagerstaetten-aus-der-zeit-von-baschar-al-assad-a-75a39ef3-75b2-475c-9b2e-f613e6384cb5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-jugend-chef-der-jungen-union-droht-mit-nein-zum-koalitionsvertrag](https://www.spiegel.de/politik/deutschland/cdu-csu-jugend-chef-der-jungen-union-droht-mit-nein-zum-koalitionsvertrag-a-7cebbc3f-833d-4052-bb67-4b63ec9fff09#ref=rss)
-### partei
-
-* [https://www.spiegel.de/politik/deutschland/gruene-und-laenderrat-wohin-steuern-die-partei](https://www.spiegel.de/politik/deutschland/gruene-und-laenderrat-wohin-steuern-die-partei-a-922fb7b0-a3af-4b0c-b436-f69691e4cf3e#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-oezguer-oezel-als-chp-vorsitzender-bestaetigt](https://www.spiegel.de/ausland/tuerkei-oezguer-oezel-als-chp-vorsitzender-bestaetigt-a-b4efd5c1-d3e2-48e6-b37f-21655e667ece#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-jugend-chef-der-jungen-union-droht-mit-nein-zum-koalitionsvertrag](https://www.spiegel.de/politik/deutschland/cdu-csu-jugend-chef-der-jungen-union-droht-mit-nein-zum-koalitionsvertrag-a-7cebbc3f-833d-4052-bb67-4b63ec9fff09#ref=rss)
-### künftigen
-
-* [https://www.spiegel.de/politik/deutschland/gruene-und-laenderrat-wohin-steuern-die-partei](https://www.spiegel.de/politik/deutschland/gruene-und-laenderrat-wohin-steuern-die-partei-a-922fb7b0-a3af-4b0c-b436-f69691e4cf3e#ref=rss)
-* [https://www.spiegel.de/kultur/rita-suessmuth-cdu-politikerin-ueber-frauen-im-kuenftigen-kabinett-und-kollegen-friedrich-merz](https://www.spiegel.de/kultur/rita-suessmuth-cdu-politikerin-ueber-frauen-im-kuenftigen-kabinett-und-kollegen-friedrich-merz-a-f641c883-855f-4949-aa9b-453a3b02df68#ref=rss)
-### marine
-
-* [https://www.spiegel.de/ausland/grossbritannien-marine-entdeckt-mutmassliche-russland-spionagesensoren-am-meeresgrund](https://www.spiegel.de/ausland/grossbritannien-marine-entdeckt-mutmassliche-russland-spionagesensoren-am-meeresgrund-a-045b79d9-0f59-4a64-81f7-37396793cccd#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-marine-le-pen-vergleicht-sich-mit-martin-luther-king](https://www.spiegel.de/ausland/frankreich-marine-le-pen-vergleicht-sich-mit-martin-luther-king-a-efc4fb15-39c2-4733-a61d-ed8ba76d5631#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-a-3bcd4aa6-bc4e-4d60-a296-af555ad9684c#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/grossbritannien-marine-entdeckt-mutmassliche-russland-spionagesensoren-am-meeresgrund](https://www.spiegel.de/ausland/grossbritannien-marine-entdeckt-mutmassliche-russland-spionagesensoren-am-meeresgrund-a-045b79d9-0f59-4a64-81f7-37396793cccd#ref=rss)
-* [https://www.spiegel.de/wirtschaft/zoelle-mehr-als-50-staaten-wollen-angeblich-mit-usa-verhandeln](https://www.spiegel.de/wirtschaft/zoelle-mehr-als-50-staaten-wollen-angeblich-mit-usa-verhandeln-a-f6edf4e1-43eb-4b26-9b17-707a843e3bbd#ref=rss)
-* [https://www.spiegel.de/ausland/russland-angeklagter-us-buerger-joseph-tater-in-psychiatrie-zwangseingewiesen](https://www.spiegel.de/ausland/russland-angeklagter-us-buerger-joseph-tater-in-psychiatrie-zwangseingewiesen-a-483446ec-6a5e-4e49-9551-e6a749f1e7c3#ref=rss)
-### usa
-
-* [https://www.spiegel.de/wirtschaft/zoelle-mehr-als-50-staaten-wollen-angeblich-mit-usa-verhandeln](https://www.spiegel.de/wirtschaft/zoelle-mehr-als-50-staaten-wollen-angeblich-mit-usa-verhandeln-a-f6edf4e1-43eb-4b26-9b17-707a843e3bbd#ref=rss)
-* [https://www.spiegel.de/wissenschaft/breakthrough-prize-sieger-der-wissenschaftsauszeichnung-stehen-fest](https://www.spiegel.de/wissenschaft/breakthrough-prize-sieger-der-wissenschaftsauszeichnung-stehen-fest-a-850e6f5f-5615-4eaa-b17b-55e29ee6aa0e#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-a-3bcd4aa6-bc4e-4d60-a296-af555ad9684c#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/wirtschaft/zoelle-mehr-als-50-staaten-wollen-angeblich-mit-usa-verhandeln](https://www.spiegel.de/wirtschaft/zoelle-mehr-als-50-staaten-wollen-angeblich-mit-usa-verhandeln-a-f6edf4e1-43eb-4b26-9b17-707a843e3bbd#ref=rss)
-* [https://www.spiegel.de/ausland/iran-irrael-und-donald-trump-princeton-professor-warnt-vor-einem-weiteren-krieg-in-nahost](https://www.spiegel.de/ausland/iran-irrael-und-donald-trump-princeton-professor-warnt-vor-einem-weiteren-krieg-in-nahost-a-2c51a12f-9a5a-4bed-aa2b-018622635e5d#ref=rss)
+* [https://www.spiegel.de/geschichte/groenland-daenemark-und-die-usa-ex-minister-tom-hoyem-ueber-ambitionen-von-donald-trump](https://www.spiegel.de/geschichte/groenland-daenemark-und-die-usa-ex-minister-tom-hoyem-ueber-ambitionen-von-donald-trump-a-da2a6373-619e-4d7d-90c2-24d32cc43e3c#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/us-universitaeten-unter-donald-trump-nur-die-top-forschenden-zu-holen-reicht-nicht](https://www.spiegel.de/panorama/bildung/us-universitaeten-unter-donald-trump-nur-die-top-forschenden-zu-holen-reicht-nicht-a-af396e62-5848-4ebf-9a63-18b7ee83a3fe#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-und-die-zoll-politik-der-usa-boersen-in-asien-brechen-ein](https://www.spiegel.de/wirtschaft/donald-trump-und-die-zoll-politik-der-usa-boersen-in-asien-brechen-ein-a-589da8d4-86d5-4862-a8d4-eb3c44004a73#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/wirtschaft/zoelle-mehr-als-50-staaten-wollen-angeblich-mit-usa-verhandeln](https://www.spiegel.de/wirtschaft/zoelle-mehr-als-50-staaten-wollen-angeblich-mit-usa-verhandeln-a-f6edf4e1-43eb-4b26-9b17-707a843e3bbd#ref=rss)
-* [https://www.spiegel.de/ausland/iran-irrael-und-donald-trump-princeton-professor-warnt-vor-einem-weiteren-krieg-in-nahost](https://www.spiegel.de/ausland/iran-irrael-und-donald-trump-princeton-professor-warnt-vor-einem-weiteren-krieg-in-nahost-a-2c51a12f-9a5a-4bed-aa2b-018622635e5d#ref=rss)
-### druck
+* [https://www.spiegel.de/geschichte/groenland-daenemark-und-die-usa-ex-minister-tom-hoyem-ueber-ambitionen-von-donald-trump](https://www.spiegel.de/geschichte/groenland-daenemark-und-die-usa-ex-minister-tom-hoyem-ueber-ambitionen-von-donald-trump-a-da2a6373-619e-4d7d-90c2-24d32cc43e3c#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/us-universitaeten-unter-donald-trump-nur-die-top-forschenden-zu-holen-reicht-nicht](https://www.spiegel.de/panorama/bildung/us-universitaeten-unter-donald-trump-nur-die-top-forschenden-zu-holen-reicht-nicht-a-af396e62-5848-4ebf-9a63-18b7ee83a3fe#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-regierung-spd-cdu-csu-friedrich-merz-afd-umfragen-groenland-armin-laschet](https://www.spiegel.de/politik/deutschland/news-regierung-spd-cdu-csu-friedrich-merz-afd-umfragen-groenland-armin-laschet-a-6599200a-30b4-43ad-87c4-9ea4f6ed6714#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-und-die-zoll-politik-der-usa-boersen-in-asien-brechen-ein](https://www.spiegel.de/wirtschaft/donald-trump-und-die-zoll-politik-der-usa-boersen-in-asien-brechen-ein-a-589da8d4-86d5-4862-a8d4-eb3c44004a73#ref=rss)
+### usa
 
-* [https://www.spiegel.de/wirtschaft/zoelle-mehr-als-50-staaten-wollen-angeblich-mit-usa-verhandeln](https://www.spiegel.de/wirtschaft/zoelle-mehr-als-50-staaten-wollen-angeblich-mit-usa-verhandeln-a-f6edf4e1-43eb-4b26-9b17-707a843e3bbd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-jugend-chef-der-jungen-union-droht-mit-nein-zum-koalitionsvertrag](https://www.spiegel.de/politik/deutschland/cdu-csu-jugend-chef-der-jungen-union-droht-mit-nein-zum-koalitionsvertrag-a-7cebbc3f-833d-4052-bb67-4b63ec9fff09#ref=rss)
-* [https://www.spiegel.de/tests/elektronik/3d-drucker-im-test-elektrische-mini-manufakturen](https://www.spiegel.de/tests/elektronik/3d-drucker-im-test-elektrische-mini-manufakturen-a-6c538622-77d6-417e-adfa-d300442f556a#ref=rss)
-### befreiung
+* [https://www.spiegel.de/sport/fussball/thomas-mueller-und-bayern-muenchen-trennen-sich-das-sind-jetzt-die-optionen-fuer-mueller](https://www.spiegel.de/sport/fussball/thomas-mueller-und-bayern-muenchen-trennen-sich-das-sind-jetzt-die-optionen-fuer-mueller-a-ad6f3d59-9f1d-4a53-8dd9-ea9d476e82c1#ref=rss)
+* [https://www.spiegel.de/auto/handelsstreit-mit-den-usa-grossbritannien-schwaecht-co-regeln-fuer-autohersteller-ab](https://www.spiegel.de/auto/handelsstreit-mit-den-usa-grossbritannien-schwaecht-co-regeln-fuer-autohersteller-ab-a-6448e8bc-e4ff-4532-b855-f69f16ef9c79#ref=rss)
+* [https://www.spiegel.de/wirtschaft/boersen-erleiden-verluste-wie-seit-der-coronapandemie-nicht-mehr](https://www.spiegel.de/wirtschaft/boersen-erleiden-verluste-wie-seit-der-coronapandemie-nicht-mehr-a-ed306a02-7ab7-4ebd-91ca-fe0455da85e3#ref=rss)
+* [https://www.spiegel.de/geschichte/groenland-daenemark-und-die-usa-ex-minister-tom-hoyem-ueber-ambitionen-von-donald-trump](https://www.spiegel.de/geschichte/groenland-daenemark-und-die-usa-ex-minister-tom-hoyem-ueber-ambitionen-von-donald-trump-a-da2a6373-619e-4d7d-90c2-24d32cc43e3c#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/us-universitaeten-unter-donald-trump-nur-die-top-forschenden-zu-holen-reicht-nicht](https://www.spiegel.de/panorama/bildung/us-universitaeten-unter-donald-trump-nur-die-top-forschenden-zu-holen-reicht-nicht-a-af396e62-5848-4ebf-9a63-18b7ee83a3fe#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/kultur/gedenkfeier-fuer-buchenwald-befreiung-was-bedeutet-die-ausladung-von-philosoph-omri-boehm](https://www.spiegel.de/kultur/gedenkfeier-fuer-buchenwald-befreiung-was-bedeutet-die-ausladung-von-philosoph-omri-boehm-a-ef4210aa-e3cb-4104-b0a6-212183dde14c#ref=rss)
-* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-die-befreiung-von-buchenwald-hunderte-kamen-auf-uns-zu](https://www.spiegel.de/geschichte/zweiter-weltkrieg-die-befreiung-von-buchenwald-hunderte-kamen-auf-uns-zu-a-48a67294-0f83-42e4-a597-59c0298b8ac7#ref=rss)
-### buchenwald
+* [https://www.spiegel.de/wirtschaft/boersen-erleiden-verluste-wie-seit-der-coronapandemie-nicht-mehr](https://www.spiegel.de/wirtschaft/boersen-erleiden-verluste-wie-seit-der-coronapandemie-nicht-mehr-a-ed306a02-7ab7-4ebd-91ca-fe0455da85e3#ref=rss)
+* [https://www.spiegel.de/psychologie/einsamkeit-geh-an-dein-scheiss-telefon-warum-wir-weniger-nachrichten-schreiben-sollten](https://www.spiegel.de/psychologie/einsamkeit-geh-an-dein-scheiss-telefon-warum-wir-weniger-nachrichten-schreiben-sollten-a-543264f7-8b4d-4433-894c-7272add2204b#ref=rss)
+* [https://www.spiegel.de/auto/energiewende-iea-fordert-mehr-engagement-fuer-klimafreundlichen-strassenverkehr](https://www.spiegel.de/auto/energiewende-iea-fordert-mehr-engagement-fuer-klimafreundlichen-strassenverkehr-a-384c519b-a748-4e4b-9bcd-0c2bf25448ca#ref=rss)
+* [https://www.spiegel.de/tests/garten/elektro-rasenmaeher-2025-im-test-stiftung-warentest-nennt-die-besten](https://www.spiegel.de/tests/garten/elektro-rasenmaeher-2025-im-test-stiftung-warentest-nennt-die-besten-a-8a7520bb-f941-4273-9b58-53f42ad64fdc#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/kultur/gedenkfeier-fuer-buchenwald-befreiung-was-bedeutet-die-ausladung-von-philosoph-omri-boehm](https://www.spiegel.de/kultur/gedenkfeier-fuer-buchenwald-befreiung-was-bedeutet-die-ausladung-von-philosoph-omri-boehm-a-ef4210aa-e3cb-4104-b0a6-212183dde14c#ref=rss)
-* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-die-befreiung-von-buchenwald-hunderte-kamen-auf-uns-zu](https://www.spiegel.de/geschichte/zweiter-weltkrieg-die-befreiung-von-buchenwald-hunderte-kamen-auf-uns-zu-a-48a67294-0f83-42e4-a597-59c0298b8ac7#ref=rss)
-### marathon
-
-* [https://www.spiegel.de/ausland/nordkorea-laesst-westliche-sportler-fuer-marathon-einreisen-zum-ersten-mal-seit-sechs-jahren](https://www.spiegel.de/ausland/nordkorea-laesst-westliche-sportler-fuer-marathon-einreisen-zum-ersten-mal-seit-sechs-jahren-a-c1eff99f-4859-493b-87d4-17f7f188bedc#ref=rss)
-* [https://www.spiegel.de/karriere/raetsel-der-woche-wie-quert-man-eine-marathonstrecke](https://www.spiegel.de/karriere/raetsel-der-woche-wie-quert-man-eine-marathonstrecke-a-2aa291fa-5958-4592-8fd1-4e9c71bac63e#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-jugend-chef-der-jungen-union-droht-mit-nein-zum-koalitionsvertrag](https://www.spiegel.de/politik/deutschland/cdu-csu-jugend-chef-der-jungen-union-droht-mit-nein-zum-koalitionsvertrag-a-7cebbc3f-833d-4052-bb67-4b63ec9fff09#ref=rss)
-* [https://www.spiegel.de/kultur/rita-suessmuth-cdu-politikerin-ueber-frauen-im-kuenftigen-kabinett-und-kollegen-friedrich-merz](https://www.spiegel.de/kultur/rita-suessmuth-cdu-politikerin-ueber-frauen-im-kuenftigen-kabinett-und-kollegen-friedrich-merz-a-f641c883-855f-4949-aa9b-453a3b02df68#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-jugend-chef-der-jungen-union-droht-mit-nein-zum-koalitionsvertrag](https://www.spiegel.de/politik/deutschland/cdu-csu-jugend-chef-der-jungen-union-droht-mit-nein-zum-koalitionsvertrag-a-7cebbc3f-833d-4052-bb67-4b63ec9fff09#ref=rss)
-* [https://www.spiegel.de/kultur/rita-suessmuth-cdu-politikerin-ueber-frauen-im-kuenftigen-kabinett-und-kollegen-friedrich-merz](https://www.spiegel.de/kultur/rita-suessmuth-cdu-politikerin-ueber-frauen-im-kuenftigen-kabinett-und-kollegen-friedrich-merz-a-f641c883-855f-4949-aa9b-453a3b02df68#ref=rss)
-### woche
-
-* [https://www.spiegel.de/karriere/raetsel-der-woche-wie-quert-man-eine-marathonstrecke](https://www.spiegel.de/karriere/raetsel-der-woche-wie-quert-man-eine-marathonstrecke-a-2aa291fa-5958-4592-8fd1-4e9c71bac63e#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-a-3bcd4aa6-bc4e-4d60-a296-af555ad9684c#ref=rss)
-### new
-
-* [https://www.spiegel.de/politik/deutschland/gruene-und-laenderrat-wohin-steuern-die-partei](https://www.spiegel.de/politik/deutschland/gruene-und-laenderrat-wohin-steuern-die-partei-a-922fb7b0-a3af-4b0c-b436-f69691e4cf3e#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-offenbar-noch-mehr-als-100-chemiewaffenlagerstaetten-aus-der-zeit-von-baschar-al-assad](https://www.spiegel.de/ausland/syrien-offenbar-noch-mehr-als-100-chemiewaffenlagerstaetten-aus-der-zeit-von-baschar-al-assad-a-75a39ef3-75b2-475c-9b2e-f613e6384cb5#ref=rss)
-### york
-
-* [https://www.spiegel.de/politik/deutschland/gruene-und-laenderrat-wohin-steuern-die-partei](https://www.spiegel.de/politik/deutschland/gruene-und-laenderrat-wohin-steuern-die-partei-a-922fb7b0-a3af-4b0c-b436-f69691e4cf3e#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-offenbar-noch-mehr-als-100-chemiewaffenlagerstaetten-aus-der-zeit-von-baschar-al-assad](https://www.spiegel.de/ausland/syrien-offenbar-noch-mehr-als-100-chemiewaffenlagerstaetten-aus-der-zeit-von-baschar-al-assad-a-75a39ef3-75b2-475c-9b2e-f613e6384cb5#ref=rss)
-### krieg
-
-* [https://www.spiegel.de/ausland/grossbritannien-marine-entdeckt-mutmassliche-russland-spionagesensoren-am-meeresgrund](https://www.spiegel.de/ausland/grossbritannien-marine-entdeckt-mutmassliche-russland-spionagesensoren-am-meeresgrund-a-045b79d9-0f59-4a64-81f7-37396793cccd#ref=rss)
-* [https://www.spiegel.de/ausland/iran-irrael-und-donald-trump-princeton-professor-warnt-vor-einem-weiteren-krieg-in-nahost](https://www.spiegel.de/ausland/iran-irrael-und-donald-trump-princeton-professor-warnt-vor-einem-weiteren-krieg-in-nahost-a-2c51a12f-9a5a-4bed-aa2b-018622635e5d#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/ausland/grossbritannien-marine-entdeckt-mutmassliche-russland-spionagesensoren-am-meeresgrund](https://www.spiegel.de/ausland/grossbritannien-marine-entdeckt-mutmassliche-russland-spionagesensoren-am-meeresgrund-a-045b79d9-0f59-4a64-81f7-37396793cccd#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-offenbar-noch-mehr-als-100-chemiewaffenlagerstaetten-aus-der-zeit-von-baschar-al-assad](https://www.spiegel.de/ausland/syrien-offenbar-noch-mehr-als-100-chemiewaffenlagerstaetten-aus-der-zeit-von-baschar-al-assad-a-75a39ef3-75b2-475c-9b2e-f613e6384cb5#ref=rss)
-### vier
-
-* [https://www.spiegel.de/ausland/grossbritannien-marine-entdeckt-mutmassliche-russland-spionagesensoren-am-meeresgrund](https://www.spiegel.de/ausland/grossbritannien-marine-entdeckt-mutmassliche-russland-spionagesensoren-am-meeresgrund-a-045b79d9-0f59-4a64-81f7-37396793cccd#ref=rss)
-* [https://www.spiegel.de/sport/box-weltmeisterin-tina-rupprecht-sie-verschwindet-fast-hinter-all-den-wm-guerteln](https://www.spiegel.de/sport/box-weltmeisterin-tina-rupprecht-sie-verschwindet-fast-hinter-all-den-wm-guerteln-a-1080c668-7361-42a7-96fa-e2ce94eb8c27#ref=rss)
-### zölle
-
-* [https://www.spiegel.de/wirtschaft/zoelle-mehr-als-50-staaten-wollen-angeblich-mit-usa-verhandeln](https://www.spiegel.de/wirtschaft/zoelle-mehr-als-50-staaten-wollen-angeblich-mit-usa-verhandeln-a-f6edf4e1-43eb-4b26-9b17-707a843e3bbd#ref=rss)
-### unter
-
-* [https://www.spiegel.de/wirtschaft/zoelle-mehr-als-50-staaten-wollen-angeblich-mit-usa-verhandeln](https://www.spiegel.de/wirtschaft/zoelle-mehr-als-50-staaten-wollen-angeblich-mit-usa-verhandeln-a-f6edf4e1-43eb-4b26-9b17-707a843e3bbd#ref=rss)
-* [https://www.spiegel.de/sport/rugbyspiel-in-toulouse-fallschirmspringer-verfaengt-sich-im-stadiondach](https://www.spiegel.de/sport/rugbyspiel-in-toulouse-fallschirmspringer-verfaengt-sich-im-stadiondach-a-8b24bf1b-8b63-4346-8aa8-846b5752302e#ref=rss)
-### offensive
-
-* [https://www.spiegel.de/wirtschaft/zoelle-mehr-als-50-staaten-wollen-angeblich-mit-usa-verhandeln](https://www.spiegel.de/wirtschaft/zoelle-mehr-als-50-staaten-wollen-angeblich-mit-usa-verhandeln-a-f6edf4e1-43eb-4b26-9b17-707a843e3bbd#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-marine-le-pen-vergleicht-sich-mit-martin-luther-king](https://www.spiegel.de/ausland/frankreich-marine-le-pen-vergleicht-sich-mit-martin-luther-king-a-efc4fb15-39c2-4733-a61d-ed8ba76d5631#ref=rss)
-### liverpool
-
-* [https://www.spiegel.de/sport/fussball/premier-league-fc-liverpool-verliert-erstmals-seit-26-ligaspielen-city-enttaeuscht-im-manchester-derby](https://www.spiegel.de/sport/fussball/premier-league-fc-liverpool-verliert-erstmals-seit-26-ligaspielen-city-enttaeuscht-im-manchester-derby-a-5aa51b5a-e289-4aec-9952-c168ba59e6b2#ref=rss)
-### manchesterderby
-
-* [https://www.spiegel.de/sport/fussball/premier-league-fc-liverpool-verliert-erstmals-seit-26-ligaspielen-city-enttaeuscht-im-manchester-derby](https://www.spiegel.de/sport/fussball/premier-league-fc-liverpool-verliert-erstmals-seit-26-ligaspielen-city-enttaeuscht-im-manchester-derby-a-5aa51b5a-e289-4aec-9952-c168ba59e6b2#ref=rss)
-### zweite
-
-* [https://www.spiegel.de/sport/fussball/premier-league-fc-liverpool-verliert-erstmals-seit-26-ligaspielen-city-enttaeuscht-im-manchester-derby](https://www.spiegel.de/sport/fussball/premier-league-fc-liverpool-verliert-erstmals-seit-26-ligaspielen-city-enttaeuscht-im-manchester-derby-a-5aa51b5a-e289-4aec-9952-c168ba59e6b2#ref=rss)
-* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-die-befreiung-von-buchenwald-hunderte-kamen-auf-uns-zu](https://www.spiegel.de/geschichte/zweiter-weltkrieg-die-befreiung-von-buchenwald-hunderte-kamen-auf-uns-zu-a-48a67294-0f83-42e4-a597-59c0298b8ac7#ref=rss)
-### le
-
-* [https://www.spiegel.de/ausland/frankreich-marine-le-pen-vergleicht-sich-mit-martin-luther-king](https://www.spiegel.de/ausland/frankreich-marine-le-pen-vergleicht-sich-mit-martin-luther-king-a-efc4fb15-39c2-4733-a61d-ed8ba76d5631#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-a-3bcd4aa6-bc4e-4d60-a296-af555ad9684c#ref=rss)
-### pen
-
-* [https://www.spiegel.de/ausland/frankreich-marine-le-pen-vergleicht-sich-mit-martin-luther-king](https://www.spiegel.de/ausland/frankreich-marine-le-pen-vergleicht-sich-mit-martin-luther-king-a-efc4fb15-39c2-4733-a61d-ed8ba76d5631#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-a-3bcd4aa6-bc4e-4d60-a296-af555ad9684c#ref=rss)
-### toulouse
-
-* [https://www.spiegel.de/sport/rugbyspiel-in-toulouse-fallschirmspringer-verfaengt-sich-im-stadiondach](https://www.spiegel.de/sport/rugbyspiel-in-toulouse-fallschirmspringer-verfaengt-sich-im-stadiondach-a-8b24bf1b-8b63-4346-8aa8-846b5752302e#ref=rss)
-### fallschirmspringer
-
-* [https://www.spiegel.de/sport/rugbyspiel-in-toulouse-fallschirmspringer-verfaengt-sich-im-stadiondach](https://www.spiegel.de/sport/rugbyspiel-in-toulouse-fallschirmspringer-verfaengt-sich-im-stadiondach-a-8b24bf1b-8b63-4346-8aa8-846b5752302e#ref=rss)
-### stadiondach
-
-* [https://www.spiegel.de/sport/rugbyspiel-in-toulouse-fallschirmspringer-verfaengt-sich-im-stadiondach](https://www.spiegel.de/sport/rugbyspiel-in-toulouse-fallschirmspringer-verfaengt-sich-im-stadiondach-a-8b24bf1b-8b63-4346-8aa8-846b5752302e#ref=rss)
-### sollte
-
-* [https://www.spiegel.de/sport/rugbyspiel-in-toulouse-fallschirmspringer-verfaengt-sich-im-stadiondach](https://www.spiegel.de/sport/rugbyspiel-in-toulouse-fallschirmspringer-verfaengt-sich-im-stadiondach-a-8b24bf1b-8b63-4346-8aa8-846b5752302e#ref=rss)
-* [https://www.spiegel.de/ausland/iran-irrael-und-donald-trump-princeton-professor-warnt-vor-einem-weiteren-krieg-in-nahost](https://www.spiegel.de/ausland/iran-irrael-und-donald-trump-princeton-professor-warnt-vor-einem-weiteren-krieg-in-nahost-a-2c51a12f-9a5a-4bed-aa2b-018622635e5d#ref=rss)
-### gedenkfeier
-
-* [https://www.spiegel.de/kultur/gedenkfeier-fuer-buchenwald-befreiung-was-bedeutet-die-ausladung-von-philosoph-omri-boehm](https://www.spiegel.de/kultur/gedenkfeier-fuer-buchenwald-befreiung-was-bedeutet-die-ausladung-von-philosoph-omri-boehm-a-ef4210aa-e3cb-4104-b0a6-212183dde14c#ref=rss)
-### philosoph
-
-* [https://www.spiegel.de/kultur/gedenkfeier-fuer-buchenwald-befreiung-was-bedeutet-die-ausladung-von-philosoph-omri-boehm](https://www.spiegel.de/kultur/gedenkfeier-fuer-buchenwald-befreiung-was-bedeutet-die-ausladung-von-philosoph-omri-boehm-a-ef4210aa-e3cb-4104-b0a6-212183dde14c#ref=rss)
-### omri
-
-* [https://www.spiegel.de/kultur/gedenkfeier-fuer-buchenwald-befreiung-was-bedeutet-die-ausladung-von-philosoph-omri-boehm](https://www.spiegel.de/kultur/gedenkfeier-fuer-buchenwald-befreiung-was-bedeutet-die-ausladung-von-philosoph-omri-boehm-a-ef4210aa-e3cb-4104-b0a6-212183dde14c#ref=rss)
-### boehm
-
-* [https://www.spiegel.de/kultur/gedenkfeier-fuer-buchenwald-befreiung-was-bedeutet-die-ausladung-von-philosoph-omri-boehm](https://www.spiegel.de/kultur/gedenkfeier-fuer-buchenwald-befreiung-was-bedeutet-die-ausladung-von-philosoph-omri-boehm-a-ef4210aa-e3cb-4104-b0a6-212183dde14c#ref=rss)
-### 80
-
-* [https://www.spiegel.de/kultur/gedenkfeier-fuer-buchenwald-befreiung-was-bedeutet-die-ausladung-von-philosoph-omri-boehm](https://www.spiegel.de/kultur/gedenkfeier-fuer-buchenwald-befreiung-was-bedeutet-die-ausladung-von-philosoph-omri-boehm-a-ef4210aa-e3cb-4104-b0a6-212183dde14c#ref=rss)
-* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-die-befreiung-von-buchenwald-hunderte-kamen-auf-uns-zu](https://www.spiegel.de/geschichte/zweiter-weltkrieg-die-befreiung-von-buchenwald-hunderte-kamen-auf-uns-zu-a-48a67294-0f83-42e4-a597-59c0298b8ac7#ref=rss)
-### weiteren
-
-* [https://www.spiegel.de/kultur/gedenkfeier-fuer-buchenwald-befreiung-was-bedeutet-die-ausladung-von-philosoph-omri-boehm](https://www.spiegel.de/kultur/gedenkfeier-fuer-buchenwald-befreiung-was-bedeutet-die-ausladung-von-philosoph-omri-boehm-a-ef4210aa-e3cb-4104-b0a6-212183dde14c#ref=rss)
-* [https://www.spiegel.de/ausland/iran-irrael-und-donald-trump-princeton-professor-warnt-vor-einem-weiteren-krieg-in-nahost](https://www.spiegel.de/ausland/iran-irrael-und-donald-trump-princeton-professor-warnt-vor-einem-weiteren-krieg-in-nahost-a-2c51a12f-9a5a-4bed-aa2b-018622635e5d#ref=rss)
-### özgür
-
-* [https://www.spiegel.de/ausland/tuerkei-oezguer-oezel-als-chp-vorsitzender-bestaetigt](https://www.spiegel.de/ausland/tuerkei-oezguer-oezel-als-chp-vorsitzender-bestaetigt-a-b4efd5c1-d3e2-48e6-b37f-21655e667ece#ref=rss)
-### özel
-
-* [https://www.spiegel.de/ausland/tuerkei-oezguer-oezel-als-chp-vorsitzender-bestaetigt](https://www.spiegel.de/ausland/tuerkei-oezguer-oezel-als-chp-vorsitzender-bestaetigt-a-b4efd5c1-d3e2-48e6-b37f-21655e667ece#ref=rss)
-### haft
-
-* [https://www.spiegel.de/ausland/tuerkei-oezguer-oezel-als-chp-vorsitzender-bestaetigt](https://www.spiegel.de/ausland/tuerkei-oezguer-oezel-als-chp-vorsitzender-bestaetigt-a-b4efd5c1-d3e2-48e6-b37f-21655e667ece#ref=rss)
-* [https://www.spiegel.de/ausland/russland-angeklagter-us-buerger-joseph-tater-in-psychiatrie-zwangseingewiesen](https://www.spiegel.de/ausland/russland-angeklagter-us-buerger-joseph-tater-in-psychiatrie-zwangseingewiesen-a-483446ec-6a5e-4e49-9551-e6a749f1e7c3#ref=rss)
-### nordkorea
-
-* [https://www.spiegel.de/ausland/nordkorea-laesst-westliche-sportler-fuer-marathon-einreisen-zum-ersten-mal-seit-sechs-jahren](https://www.spiegel.de/ausland/nordkorea-laesst-westliche-sportler-fuer-marathon-einreisen-zum-ersten-mal-seit-sechs-jahren-a-c1eff99f-4859-493b-87d4-17f7f188bedc#ref=rss)
-### einreisen
-
-* [https://www.spiegel.de/ausland/nordkorea-laesst-westliche-sportler-fuer-marathon-einreisen-zum-ersten-mal-seit-sechs-jahren](https://www.spiegel.de/ausland/nordkorea-laesst-westliche-sportler-fuer-marathon-einreisen-zum-ersten-mal-seit-sechs-jahren-a-c1eff99f-4859-493b-87d4-17f7f188bedc#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/ausland/nordkorea-laesst-westliche-sportler-fuer-marathon-einreisen-zum-ersten-mal-seit-sechs-jahren](https://www.spiegel.de/ausland/nordkorea-laesst-westliche-sportler-fuer-marathon-einreisen-zum-ersten-mal-seit-sechs-jahren-a-c1eff99f-4859-493b-87d4-17f7f188bedc#ref=rss)
-* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-die-befreiung-von-buchenwald-hunderte-kamen-auf-uns-zu](https://www.spiegel.de/geschichte/zweiter-weltkrieg-die-befreiung-von-buchenwald-hunderte-kamen-auf-uns-zu-a-48a67294-0f83-42e4-a597-59c0298b8ac7#ref=rss)
-### südkorea
-
-* [https://www.spiegel.de/ausland/suedkorea-tausende-protestieren-gegen-amtsenthebung-von-praesident-yoon-suk-yeol](https://www.spiegel.de/ausland/suedkorea-tausende-protestieren-gegen-amtsenthebung-von-praesident-yoon-suk-yeol-a-8c4da437-27b2-4b4a-8d2c-d45e1f0919db#ref=rss)
-### tausende
-
-* [https://www.spiegel.de/ausland/suedkorea-tausende-protestieren-gegen-amtsenthebung-von-praesident-yoon-suk-yeol](https://www.spiegel.de/ausland/suedkorea-tausende-protestieren-gegen-amtsenthebung-von-praesident-yoon-suk-yeol-a-8c4da437-27b2-4b4a-8d2c-d45e1f0919db#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/ausland/suedkorea-tausende-protestieren-gegen-amtsenthebung-von-praesident-yoon-suk-yeol](https://www.spiegel.de/ausland/suedkorea-tausende-protestieren-gegen-amtsenthebung-von-praesident-yoon-suk-yeol-a-8c4da437-27b2-4b4a-8d2c-d45e1f0919db#ref=rss)
-### yoon
-
-* [https://www.spiegel.de/ausland/suedkorea-tausende-protestieren-gegen-amtsenthebung-von-praesident-yoon-suk-yeol](https://www.spiegel.de/ausland/suedkorea-tausende-protestieren-gegen-amtsenthebung-von-praesident-yoon-suk-yeol-a-8c4da437-27b2-4b4a-8d2c-d45e1f0919db#ref=rss)
-### tina
-
-* [https://www.spiegel.de/sport/box-weltmeisterin-tina-rupprecht-sie-verschwindet-fast-hinter-all-den-wm-guerteln](https://www.spiegel.de/sport/box-weltmeisterin-tina-rupprecht-sie-verschwindet-fast-hinter-all-den-wm-guerteln-a-1080c668-7361-42a7-96fa-e2ce94eb8c27#ref=rss)
-### rupprecht
-
-* [https://www.spiegel.de/sport/box-weltmeisterin-tina-rupprecht-sie-verschwindet-fast-hinter-all-den-wm-guerteln](https://www.spiegel.de/sport/box-weltmeisterin-tina-rupprecht-sie-verschwindet-fast-hinter-all-den-wm-guerteln-a-1080c668-7361-42a7-96fa-e2ce94eb8c27#ref=rss)
-### breakthrough
-
-* [https://www.spiegel.de/wissenschaft/breakthrough-prize-sieger-der-wissenschaftsauszeichnung-stehen-fest](https://www.spiegel.de/wissenschaft/breakthrough-prize-sieger-der-wissenschaftsauszeichnung-stehen-fest-a-850e6f5f-5615-4eaa-b17b-55e29ee6aa0e#ref=rss)
-### prize
-
-* [https://www.spiegel.de/wissenschaft/breakthrough-prize-sieger-der-wissenschaftsauszeichnung-stehen-fest](https://www.spiegel.de/wissenschaft/breakthrough-prize-sieger-der-wissenschaftsauszeichnung-stehen-fest-a-850e6f5f-5615-4eaa-b17b-55e29ee6aa0e#ref=rss)
-### stehen
-
-* [https://www.spiegel.de/wissenschaft/breakthrough-prize-sieger-der-wissenschaftsauszeichnung-stehen-fest](https://www.spiegel.de/wissenschaft/breakthrough-prize-sieger-der-wissenschaftsauszeichnung-stehen-fest-a-850e6f5f-5615-4eaa-b17b-55e29ee6aa0e#ref=rss)
-### fest
-
-* [https://www.spiegel.de/wissenschaft/breakthrough-prize-sieger-der-wissenschaftsauszeichnung-stehen-fest](https://www.spiegel.de/wissenschaft/breakthrough-prize-sieger-der-wissenschaftsauszeichnung-stehen-fest-a-850e6f5f-5615-4eaa-b17b-55e29ee6aa0e#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/wissenschaft/breakthrough-prize-sieger-der-wissenschaftsauszeichnung-stehen-fest](https://www.spiegel.de/wissenschaft/breakthrough-prize-sieger-der-wissenschaftsauszeichnung-stehen-fest-a-850e6f5f-5615-4eaa-b17b-55e29ee6aa0e#ref=rss)
-* [https://www.spiegel.de/kultur/christoph-hein-ueber-den-osten-von-der-ddr-wird-nichts-bleiben-sie-wird-vergessen-werden](https://www.spiegel.de/kultur/christoph-hein-ueber-den-osten-von-der-ddr-wird-nichts-bleiben-sie-wird-vergessen-werden-a-2358a728-5146-4e6c-8349-10a2c0b87522#ref=rss)
-### droht
-
-* [https://www.spiegel.de/ausland/iran-irrael-und-donald-trump-princeton-professor-warnt-vor-einem-weiteren-krieg-in-nahost](https://www.spiegel.de/ausland/iran-irrael-und-donald-trump-princeton-professor-warnt-vor-einem-weiteren-krieg-in-nahost-a-2c51a12f-9a5a-4bed-aa2b-018622635e5d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-jugend-chef-der-jungen-union-droht-mit-nein-zum-koalitionsvertrag](https://www.spiegel.de/politik/deutschland/cdu-csu-jugend-chef-der-jungen-union-droht-mit-nein-zum-koalitionsvertrag-a-7cebbc3f-833d-4052-bb67-4b63ec9fff09#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/iran-irrael-und-donald-trump-princeton-professor-warnt-vor-einem-weiteren-krieg-in-nahost](https://www.spiegel.de/ausland/iran-irrael-und-donald-trump-princeton-professor-warnt-vor-einem-weiteren-krieg-in-nahost-a-2c51a12f-9a5a-4bed-aa2b-018622635e5d#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-offenbar-noch-mehr-als-100-chemiewaffenlagerstaetten-aus-der-zeit-von-baschar-al-assad](https://www.spiegel.de/ausland/syrien-offenbar-noch-mehr-als-100-chemiewaffenlagerstaetten-aus-der-zeit-von-baschar-al-assad-a-75a39ef3-75b2-475c-9b2e-f613e6384cb5#ref=rss)
-### zeit
-
-* [https://www.spiegel.de/ausland/syrien-offenbar-noch-mehr-als-100-chemiewaffenlagerstaetten-aus-der-zeit-von-baschar-al-assad](https://www.spiegel.de/ausland/syrien-offenbar-noch-mehr-als-100-chemiewaffenlagerstaetten-aus-der-zeit-von-baschar-al-assad-a-75a39ef3-75b2-475c-9b2e-f613e6384cb5#ref=rss)
-* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-die-befreiung-von-buchenwald-hunderte-kamen-auf-uns-zu](https://www.spiegel.de/geschichte/zweiter-weltkrieg-die-befreiung-von-buchenwald-hunderte-kamen-auf-uns-zu-a-48a67294-0f83-42e4-a597-59c0298b8ac7#ref=rss)
-### chef
-
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-jugend-chef-der-jungen-union-droht-mit-nein-zum-koalitionsvertrag](https://www.spiegel.de/politik/deutschland/cdu-csu-jugend-chef-der-jungen-union-droht-mit-nein-zum-koalitionsvertrag-a-7cebbc3f-833d-4052-bb67-4b63ec9fff09#ref=rss)
-* [https://www.spiegel.de/kultur/christoph-hein-ueber-den-osten-von-der-ddr-wird-nichts-bleiben-sie-wird-vergessen-werden](https://www.spiegel.de/kultur/christoph-hein-ueber-den-osten-von-der-ddr-wird-nichts-bleiben-sie-wird-vergessen-werden-a-2358a728-5146-4e6c-8349-10a2c0b87522#ref=rss)
-### union
-
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-jugend-chef-der-jungen-union-droht-mit-nein-zum-koalitionsvertrag](https://www.spiegel.de/politik/deutschland/cdu-csu-jugend-chef-der-jungen-union-droht-mit-nein-zum-koalitionsvertrag-a-7cebbc3f-833d-4052-bb67-4b63ec9fff09#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-st-pauli-rettet-gegen-borussia-moenchengladbach-verdientes-unentschieden](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-st-pauli-rettet-gegen-borussia-moenchengladbach-verdientes-unentschieden-a-5b368501-4c77-4224-b1be-ae83312e7e54#ref=rss)
-### fordert
-
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-jugend-chef-der-jungen-union-droht-mit-nein-zum-koalitionsvertrag](https://www.spiegel.de/politik/deutschland/cdu-csu-jugend-chef-der-jungen-union-droht-mit-nein-zum-koalitionsvertrag-a-7cebbc3f-833d-4052-bb67-4b63ec9fff09#ref=rss)
-* [https://www.spiegel.de/kultur/rita-suessmuth-cdu-politikerin-ueber-frauen-im-kuenftigen-kabinett-und-kollegen-friedrich-merz](https://www.spiegel.de/kultur/rita-suessmuth-cdu-politikerin-ueber-frauen-im-kuenftigen-kabinett-und-kollegen-friedrich-merz-a-f641c883-855f-4949-aa9b-453a3b02df68#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/migration-fluechtlingszahlen-laut-bamf-zu-jahresbeginn-deutlich-gesunken](https://www.spiegel.de/politik/deutschland/migration-fluechtlingszahlen-laut-bamf-zu-jahresbeginn-deutlich-gesunken-a-427934e3-9caa-4cad-888d-f3d590f6cbad#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/us-universitaeten-unter-donald-trump-nur-die-top-forschenden-zu-holen-reicht-nicht](https://www.spiegel.de/panorama/bildung/us-universitaeten-unter-donald-trump-nur-die-top-forschenden-zu-holen-reicht-nicht-a-af396e62-5848-4ebf-9a63-18b7ee83a3fe#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sicherheit-in-deutschland-innenministerium-fuer-zivilschutz-uebungen-an-schulen](https://www.spiegel.de/politik/deutschland/sicherheit-in-deutschland-innenministerium-fuer-zivilschutz-uebungen-an-schulen-a-1680d64e-4a42-4e00-954b-0cb38e315a90#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/netzwelt/games/in-game-kaeufe-wer-sind-die-menschen-die-als-wale-40-000-euro-fuer-videospiel-extras-ausgeben](https://www.spiegel.de/netzwelt/games/in-game-kaeufe-wer-sind-die-menschen-die-als-wale-40-000-euro-fuer-videospiel-extras-ausgeben-a-66a1a267-aa09-4494-aeab-70883057a06f#ref=rss)
-* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-die-befreiung-von-buchenwald-hunderte-kamen-auf-uns-zu](https://www.spiegel.de/geschichte/zweiter-weltkrieg-die-befreiung-von-buchenwald-hunderte-kamen-auf-uns-zu-a-48a67294-0f83-42e4-a597-59c0298b8ac7#ref=rss)
-### st
+* [https://www.spiegel.de/politik/deutschland/migration-fluechtlingszahlen-laut-bamf-zu-jahresbeginn-deutlich-gesunken](https://www.spiegel.de/politik/deutschland/migration-fluechtlingszahlen-laut-bamf-zu-jahresbeginn-deutlich-gesunken-a-427934e3-9caa-4cad-888d-f3d590f6cbad#ref=rss)
+* [https://www.spiegel.de/panorama/demokratische-republik-kongo-mindestens-33-menschen-sterben-bei-ueberschwemmungen-in-kinshasa](https://www.spiegel.de/panorama/demokratische-republik-kongo-mindestens-33-menschen-sterben-bei-ueberschwemmungen-in-kinshasa-a-e816b45d-4d54-47ea-b065-662bee2cb6a0#ref=rss)
+* [https://www.spiegel.de/ausland/serbien-praesident-aleksandar-vucic-erteilt-mediziner-regierungsauftrag](https://www.spiegel.de/ausland/serbien-praesident-aleksandar-vucic-erteilt-mediziner-regierungsauftrag-a-5f4ddfb3-65dc-4cf6-8f39-f2ead88bc01f#ref=rss)
+### amadou
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-st-pauli-rettet-gegen-borussia-moenchengladbach-verdientes-unentschieden](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-st-pauli-rettet-gegen-borussia-moenchengladbach-verdientes-unentschieden-a-5b368501-4c77-4224-b1be-ae83312e7e54#ref=rss)
-### pauli
+* [https://www.spiegel.de/kultur/musik/amadou-mariam-musiker-amadou-bagayoko-stirbt-mit-70-jahren](https://www.spiegel.de/kultur/musik/amadou-mariam-musiker-amadou-bagayoko-stirbt-mit-70-jahren-a-c9a659db-bbfb-45cd-9f3c-a2f79f3d22a5#ref=rss)
+### weniger
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-st-pauli-rettet-gegen-borussia-moenchengladbach-verdientes-unentschieden](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-st-pauli-rettet-gegen-borussia-moenchengladbach-verdientes-unentschieden-a-5b368501-4c77-4224-b1be-ae83312e7e54#ref=rss)
-### borussia
+* [https://www.spiegel.de/politik/deutschland/migration-fluechtlingszahlen-laut-bamf-zu-jahresbeginn-deutlich-gesunken](https://www.spiegel.de/politik/deutschland/migration-fluechtlingszahlen-laut-bamf-zu-jahresbeginn-deutlich-gesunken-a-427934e3-9caa-4cad-888d-f3d590f6cbad#ref=rss)
+* [https://www.spiegel.de/psychologie/einsamkeit-geh-an-dein-scheiss-telefon-warum-wir-weniger-nachrichten-schreiben-sollten](https://www.spiegel.de/psychologie/einsamkeit-geh-an-dein-scheiss-telefon-warum-wir-weniger-nachrichten-schreiben-sollten-a-543264f7-8b4d-4433-894c-7272add2204b#ref=rss)
+* [https://www.spiegel.de/auto/energiewende-iea-fordert-mehr-engagement-fuer-klimafreundlichen-strassenverkehr](https://www.spiegel.de/auto/energiewende-iea-fordert-mehr-engagement-fuer-klimafreundlichen-strassenverkehr-a-384c519b-a748-4e4b-9bcd-0c2bf25448ca#ref=rss)
+### müller
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-st-pauli-rettet-gegen-borussia-moenchengladbach-verdientes-unentschieden](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-st-pauli-rettet-gegen-borussia-moenchengladbach-verdientes-unentschieden-a-5b368501-4c77-4224-b1be-ae83312e7e54#ref=rss)
-### mönchengladbach
+* [https://www.spiegel.de/sport/fussball/thomas-mueller-und-bayern-muenchen-trennen-sich-das-sind-jetzt-die-optionen-fuer-mueller](https://www.spiegel.de/sport/fussball/thomas-mueller-und-bayern-muenchen-trennen-sich-das-sind-jetzt-die-optionen-fuer-mueller-a-ad6f3d59-9f1d-4a53-8dd9-ea9d476e82c1#ref=rss)
+### gefunden
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-st-pauli-rettet-gegen-borussia-moenchengladbach-verdientes-unentschieden](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-st-pauli-rettet-gegen-borussia-moenchengladbach-verdientes-unentschieden-a-5b368501-4c77-4224-b1be-ae83312e7e54#ref=rss)
-### kurz
+* [https://www.spiegel.de/panorama/demokratische-republik-kongo-mindestens-33-menschen-sterben-bei-ueberschwemmungen-in-kinshasa](https://www.spiegel.de/panorama/demokratische-republik-kongo-mindestens-33-menschen-sterben-bei-ueberschwemmungen-in-kinshasa-a-e816b45d-4d54-47ea-b065-662bee2cb6a0#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/wuppertal-drei-maenner-tot-in-gartenlaube-gefunden-verdacht-auf-kohlenmonoxidvergiftung](https://www.spiegel.de/panorama/justiz/wuppertal-drei-maenner-tot-in-gartenlaube-gefunden-verdacht-auf-kohlenmonoxidvergiftung-a-d4a05203-db64-4b54-8cb5-8fb85f76f46c#ref=rss)
+### dax
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-st-pauli-rettet-gegen-borussia-moenchengladbach-verdientes-unentschieden](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-st-pauli-rettet-gegen-borussia-moenchengladbach-verdientes-unentschieden-a-5b368501-4c77-4224-b1be-ae83312e7e54#ref=rss)
-* [https://www.spiegel.de/ausland/russland-angeklagter-us-buerger-joseph-tater-in-psychiatrie-zwangseingewiesen](https://www.spiegel.de/ausland/russland-angeklagter-us-buerger-joseph-tater-in-psychiatrie-zwangseingewiesen-a-483446ec-6a5e-4e49-9551-e6a749f1e7c3#ref=rss)
-### bosnienherzegowina
+* [https://www.spiegel.de/wirtschaft/boersen-erleiden-verluste-wie-seit-der-coronapandemie-nicht-mehr](https://www.spiegel.de/wirtschaft/boersen-erleiden-verluste-wie-seit-der-coronapandemie-nicht-mehr-a-ed306a02-7ab7-4ebd-91ca-fe0455da85e3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/dax-verliert-zum-wochenauftakt-rund-10-prozent](https://www.spiegel.de/wirtschaft/dax-verliert-zum-wochenauftakt-rund-10-prozent-a-9de05c59-db93-4cda-af30-127f0c531053#ref=rss)
+### grönland
 
-* [https://www.spiegel.de/politik/deutschland/bosnien-herzegowina-anna-luehrmann-spricht-ueber-bedrohung-durch-nationalisten](https://www.spiegel.de/politik/deutschland/bosnien-herzegowina-anna-luehrmann-spricht-ueber-bedrohung-durch-nationalisten-a-ea483dfd-d108-476f-bc11-bf144cdf8cca#ref=rss)
-### anna
+* [https://www.spiegel.de/geschichte/groenland-daenemark-und-die-usa-ex-minister-tom-hoyem-ueber-ambitionen-von-donald-trump](https://www.spiegel.de/geschichte/groenland-daenemark-und-die-usa-ex-minister-tom-hoyem-ueber-ambitionen-von-donald-trump-a-da2a6373-619e-4d7d-90c2-24d32cc43e3c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-regierung-spd-cdu-csu-friedrich-merz-afd-umfragen-groenland-armin-laschet](https://www.spiegel.de/politik/deutschland/news-regierung-spd-cdu-csu-friedrich-merz-afd-umfragen-groenland-armin-laschet-a-6599200a-30b4-43ad-87c4-9ea4f6ed6714#ref=rss)
+### mutter
 
-* [https://www.spiegel.de/politik/deutschland/bosnien-herzegowina-anna-luehrmann-spricht-ueber-bedrohung-durch-nationalisten](https://www.spiegel.de/politik/deutschland/bosnien-herzegowina-anna-luehrmann-spricht-ueber-bedrohung-durch-nationalisten-a-ea483dfd-d108-476f-bc11-bf144cdf8cca#ref=rss)
-### lührmann
+* [https://www.spiegel.de/stil/s-magazin/leyla-piedayesh-wie-die-unternehmerin-nach-der-insolvenz-von-lala-berline-wieder-auf-die-beine-kam](https://www.spiegel.de/stil/s-magazin/leyla-piedayesh-wie-die-unternehmerin-nach-der-insolvenz-von-lala-berline-wieder-auf-die-beine-kam-a-aae99331-c11a-4958-9881-d99b3c32b8ff#ref=rss)
+* [https://www.spiegel.de/sport/fussball/premier-league-pep-guardiola-verurteilt-gesaenge-gegen-mutter-von-phil-foden-im-derby](https://www.spiegel.de/sport/fussball/premier-league-pep-guardiola-verurteilt-gesaenge-gegen-mutter-von-phil-foden-im-derby-a-83446149-c262-49f1-8329-296d57877be3#ref=rss)
+### drei
 
-* [https://www.spiegel.de/politik/deutschland/bosnien-herzegowina-anna-luehrmann-spricht-ueber-bedrohung-durch-nationalisten](https://www.spiegel.de/politik/deutschland/bosnien-herzegowina-anna-luehrmann-spricht-ueber-bedrohung-durch-nationalisten-a-ea483dfd-d108-476f-bc11-bf144cdf8cca#ref=rss)
-### nationalisten
+* [https://www.spiegel.de/panorama/justiz/wuppertal-drei-maenner-tot-in-gartenlaube-gefunden-verdacht-auf-kohlenmonoxidvergiftung](https://www.spiegel.de/panorama/justiz/wuppertal-drei-maenner-tot-in-gartenlaube-gefunden-verdacht-auf-kohlenmonoxidvergiftung-a-d4a05203-db64-4b54-8cb5-8fb85f76f46c#ref=rss)
+* [https://www.spiegel.de/auto/elektromobilitaet-ionity-chef-ueber-das-labyrinth-der-ladetarife-und-ein-neues-netz-gegen-tesla](https://www.spiegel.de/auto/elektromobilitaet-ionity-chef-ueber-das-labyrinth-der-ladetarife-und-ein-neues-netz-gegen-tesla-a-c9ff5fd8-a087-43a9-b5a5-4dc219cda09e#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/politik/deutschland/bosnien-herzegowina-anna-luehrmann-spricht-ueber-bedrohung-durch-nationalisten](https://www.spiegel.de/politik/deutschland/bosnien-herzegowina-anna-luehrmann-spricht-ueber-bedrohung-durch-nationalisten-a-ea483dfd-d108-476f-bc11-bf144cdf8cca#ref=rss)
-### tadej
+* [https://www.spiegel.de/sport/radsport-john-degenkolb-erleidet-knochenbrueche-bei-flandern-rundfahrt](https://www.spiegel.de/sport/radsport-john-degenkolb-erleidet-knochenbrueche-bei-flandern-rundfahrt-a-26928aef-159f-4a14-b17b-eaaf62d88134#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/nhl-rekord-fuer-alexander-owetschkin-putins-mann-in-der-nhl-ist-jetzt-der-groesste](https://www.spiegel.de/sport/wintersport/nhl-rekord-fuer-alexander-owetschkin-putins-mann-in-der-nhl-ist-jetzt-der-groesste-a-9a1be5f0-175d-419a-aaae-8728e9c4971c#ref=rss)
+* [https://www.spiegel.de/gesundheit/weltgesundheitstag-laut-who-ist-muettersterblichkeit-weltweit-noch-hoch-260-000-tote-pro-jahr](https://www.spiegel.de/gesundheit/weltgesundheitstag-laut-who-ist-muettersterblichkeit-weltweit-noch-hoch-260-000-tote-pro-jahr-a-7175b3e6-9364-4c1d-b0c7-99475f54aca6#ref=rss)
+### laut
 
-* [https://www.spiegel.de/sport/radsport-tadej-pogacar-triumphiert-bei-der-109-flandern-rundfahrt](https://www.spiegel.de/sport/radsport-tadej-pogacar-triumphiert-bei-der-109-flandern-rundfahrt-a-93b817d5-4c39-4b29-8e23-b375ee38b29a#ref=rss)
-### pogačar
+* [https://www.spiegel.de/politik/deutschland/migration-fluechtlingszahlen-laut-bamf-zu-jahresbeginn-deutlich-gesunken](https://www.spiegel.de/politik/deutschland/migration-fluechtlingszahlen-laut-bamf-zu-jahresbeginn-deutlich-gesunken-a-427934e3-9caa-4cad-888d-f3d590f6cbad#ref=rss)
+### bamf
 
-* [https://www.spiegel.de/sport/radsport-tadej-pogacar-triumphiert-bei-der-109-flandern-rundfahrt](https://www.spiegel.de/sport/radsport-tadej-pogacar-triumphiert-bei-der-109-flandern-rundfahrt-a-93b817d5-4c39-4b29-8e23-b375ee38b29a#ref=rss)
-### flandernrundfahrt
+* [https://www.spiegel.de/politik/deutschland/migration-fluechtlingszahlen-laut-bamf-zu-jahresbeginn-deutlich-gesunken](https://www.spiegel.de/politik/deutschland/migration-fluechtlingszahlen-laut-bamf-zu-jahresbeginn-deutlich-gesunken-a-427934e3-9caa-4cad-888d-f3d590f6cbad#ref=rss)
+### deutlich
 
-* [https://www.spiegel.de/sport/radsport-tadej-pogacar-triumphiert-bei-der-109-flandern-rundfahrt](https://www.spiegel.de/sport/radsport-tadej-pogacar-triumphiert-bei-der-109-flandern-rundfahrt-a-93b817d5-4c39-4b29-8e23-b375ee38b29a#ref=rss)
-### joseph
+* [https://www.spiegel.de/politik/deutschland/migration-fluechtlingszahlen-laut-bamf-zu-jahresbeginn-deutlich-gesunken](https://www.spiegel.de/politik/deutschland/migration-fluechtlingszahlen-laut-bamf-zu-jahresbeginn-deutlich-gesunken-a-427934e3-9caa-4cad-888d-f3d590f6cbad#ref=rss)
+* [https://www.spiegel.de/wirtschaft/dax-verliert-zum-wochenauftakt-rund-10-prozent](https://www.spiegel.de/wirtschaft/dax-verliert-zum-wochenauftakt-rund-10-prozent-a-9de05c59-db93-4cda-af30-127f0c531053#ref=rss)
+### zudem
 
-* [https://www.spiegel.de/ausland/russland-angeklagter-us-buerger-joseph-tater-in-psychiatrie-zwangseingewiesen](https://www.spiegel.de/ausland/russland-angeklagter-us-buerger-joseph-tater-in-psychiatrie-zwangseingewiesen-a-483446ec-6a5e-4e49-9551-e6a749f1e7c3#ref=rss)
-### tater
-
-* [https://www.spiegel.de/ausland/russland-angeklagter-us-buerger-joseph-tater-in-psychiatrie-zwangseingewiesen](https://www.spiegel.de/ausland/russland-angeklagter-us-buerger-joseph-tater-in-psychiatrie-zwangseingewiesen-a-483446ec-6a5e-4e49-9551-e6a749f1e7c3#ref=rss)
-### rita
-
-* [https://www.spiegel.de/kultur/rita-suessmuth-cdu-politikerin-ueber-frauen-im-kuenftigen-kabinett-und-kollegen-friedrich-merz](https://www.spiegel.de/kultur/rita-suessmuth-cdu-politikerin-ueber-frauen-im-kuenftigen-kabinett-und-kollegen-friedrich-merz-a-f641c883-855f-4949-aa9b-453a3b02df68#ref=rss)
-### süssmuth
-
-* [https://www.spiegel.de/kultur/rita-suessmuth-cdu-politikerin-ueber-frauen-im-kuenftigen-kabinett-und-kollegen-friedrich-merz](https://www.spiegel.de/kultur/rita-suessmuth-cdu-politikerin-ueber-frauen-im-kuenftigen-kabinett-und-kollegen-friedrich-merz-a-f641c883-855f-4949-aa9b-453a3b02df68#ref=rss)
-### cdupolitikerin
-
-* [https://www.spiegel.de/kultur/rita-suessmuth-cdu-politikerin-ueber-frauen-im-kuenftigen-kabinett-und-kollegen-friedrich-merz](https://www.spiegel.de/kultur/rita-suessmuth-cdu-politikerin-ueber-frauen-im-kuenftigen-kabinett-und-kollegen-friedrich-merz-a-f641c883-855f-4949-aa9b-453a3b02df68#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/kultur/rita-suessmuth-cdu-politikerin-ueber-frauen-im-kuenftigen-kabinett-und-kollegen-friedrich-merz](https://www.spiegel.de/kultur/rita-suessmuth-cdu-politikerin-ueber-frauen-im-kuenftigen-kabinett-und-kollegen-friedrich-merz-a-f641c883-855f-4949-aa9b-453a3b02df68#ref=rss)
-### 1
-
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-1-fc-magdeburg-stuerzt-1-fc-kaiserslautern-von-platz-drei](https://www.spiegel.de/sport/fussball/2-bundesliga-1-fc-magdeburg-stuerzt-1-fc-kaiserslautern-von-platz-drei-a-d973b6ae-a251-4336-8dec-692e47ec6277#ref=rss)
-### christoph
-
-* [https://www.spiegel.de/kultur/christoph-hein-ueber-den-osten-von-der-ddr-wird-nichts-bleiben-sie-wird-vergessen-werden](https://www.spiegel.de/kultur/christoph-hein-ueber-den-osten-von-der-ddr-wird-nichts-bleiben-sie-wird-vergessen-werden-a-2358a728-5146-4e6c-8349-10a2c0b87522#ref=rss)
-### hein
-
-* [https://www.spiegel.de/kultur/christoph-hein-ueber-den-osten-von-der-ddr-wird-nichts-bleiben-sie-wird-vergessen-werden](https://www.spiegel.de/kultur/christoph-hein-ueber-den-osten-von-der-ddr-wird-nichts-bleiben-sie-wird-vergessen-werden-a-2358a728-5146-4e6c-8349-10a2c0b87522#ref=rss)
-### ddr
-
-* [https://www.spiegel.de/kultur/christoph-hein-ueber-den-osten-von-der-ddr-wird-nichts-bleiben-sie-wird-vergessen-werden](https://www.spiegel.de/kultur/christoph-hein-ueber-den-osten-von-der-ddr-wird-nichts-bleiben-sie-wird-vergessen-werden-a-2358a728-5146-4e6c-8349-10a2c0b87522#ref=rss)
-### 3ddrucker
-
-* [https://www.spiegel.de/tests/elektronik/3d-drucker-im-test-elektrische-mini-manufakturen](https://www.spiegel.de/tests/elektronik/3d-drucker-im-test-elektrische-mini-manufakturen-a-6c538622-77d6-417e-adfa-d300442f556a#ref=rss)
-### test
-
-* [https://www.spiegel.de/tests/elektronik/3d-drucker-im-test-elektrische-mini-manufakturen](https://www.spiegel.de/tests/elektronik/3d-drucker-im-test-elektrische-mini-manufakturen-a-6c538622-77d6-417e-adfa-d300442f556a#ref=rss)
-### boerne
-
-* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-muenster-fiderallala-mit-boerne-und-thiel-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-muenster-fiderallala-mit-boerne-und-thiel-im-schnellcheck-a-22ac53d4-2412-4494-acbb-26817263e22d#ref=rss)
-### thiel
-
-* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-muenster-fiderallala-mit-boerne-und-thiel-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-muenster-fiderallala-mit-boerne-und-thiel-im-schnellcheck-a-22ac53d4-2412-4494-acbb-26817263e22d#ref=rss)
-### kriege
-
-* [https://www.spiegel.de/panorama/kriege-der-zukunft-das-ist-wie-star-wars-aber-es-passiert-wirklich-spiegel-tv](https://www.spiegel.de/panorama/kriege-der-zukunft-das-ist-wie-star-wars-aber-es-passiert-wirklich-spiegel-tv-a-6d522b9e-37ae-478e-a292-c384638164dc#ref=rss)
-### weltkrieg
-
-* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-die-befreiung-von-buchenwald-hunderte-kamen-auf-uns-zu](https://www.spiegel.de/geschichte/zweiter-weltkrieg-die-befreiung-von-buchenwald-hunderte-kamen-auf-uns-zu-a-48a67294-0f83-42e4-a597-59c0298b8ac7#ref=rss)
-### dienst
-
-* [https://www.spiegel.de/wirtschaft/oeffentlicher-dienst-was-die-tarif-einigung-bringt-und-warum-beide-seiten-unzufrieden-sind](https://www.spiegel.de/wirtschaft/oeffentlicher-dienst-was-die-tarif-einigung-bringt-und-warum-beide-seiten-unzufrieden-sind-a-11afe0d6-3fd2-4557-bb21-318958fb5dd4#ref=rss)
-### cartoons
-
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-a-3bcd4aa6-bc4e-4d60-a296-af555ad9684c#ref=rss)
-### chappatte
-
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-a-3bcd4aa6-bc4e-4d60-a296-af555ad9684c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/migration-fluechtlingszahlen-laut-bamf-zu-jahresbeginn-deutlich-gesunken](https://www.spiegel.de/politik/deutschland/migration-fluechtlingszahlen-laut-bamf-zu-jahresbeginn-deutlich-gesunken-a-427934e3-9caa-4cad-888d-f3d590f6cbad#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sicherheit-in-deutschland-innenministerium-fuer-zivilschutz-uebungen-an-schulen](https://www.spiegel.de/politik/deutschland/sicherheit-in-deutschland-innenministerium-fuer-zivilschutz-uebungen-an-schulen-a-1680d64e-4a42-4e00-954b-0cb38e315a90#ref=rss)
 ### thomas
 
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-a-3bcd4aa6-bc4e-4d60-a296-af555ad9684c#ref=rss)
-### plaßmann
+* [https://www.spiegel.de/sport/fussball/thomas-mueller-und-bayern-muenchen-trennen-sich-das-sind-jetzt-die-optionen-fuer-mueller](https://www.spiegel.de/sport/fussball/thomas-mueller-und-bayern-muenchen-trennen-sich-das-sind-jetzt-die-optionen-fuer-mueller-a-ad6f3d59-9f1d-4a53-8dd9-ea9d476e82c1#ref=rss)
+### bayern
 
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-a-3bcd4aa6-bc4e-4d60-a296-af555ad9684c#ref=rss)
-### klaus
+* [https://www.spiegel.de/sport/fussball/thomas-mueller-und-bayern-muenchen-trennen-sich-das-sind-jetzt-die-optionen-fuer-mueller](https://www.spiegel.de/sport/fussball/thomas-mueller-und-bayern-muenchen-trennen-sich-das-sind-jetzt-die-optionen-fuer-mueller-a-ad6f3d59-9f1d-4a53-8dd9-ea9d476e82c1#ref=rss)
+### trennen
 
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-a-3bcd4aa6-bc4e-4d60-a296-af555ad9684c#ref=rss)
-### stuttmann
+* [https://www.spiegel.de/sport/fussball/thomas-mueller-und-bayern-muenchen-trennen-sich-das-sind-jetzt-die-optionen-fuer-mueller](https://www.spiegel.de/sport/fussball/thomas-mueller-und-bayern-muenchen-trennen-sich-das-sind-jetzt-die-optionen-fuer-mueller-a-ad6f3d59-9f1d-4a53-8dd9-ea9d476e82c1#ref=rss)
+### optionen
 
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-a-3bcd4aa6-bc4e-4d60-a296-af555ad9684c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/thomas-mueller-und-bayern-muenchen-trennen-sich-das-sind-jetzt-die-optionen-fuer-mueller](https://www.spiegel.de/sport/fussball/thomas-mueller-und-bayern-muenchen-trennen-sich-das-sind-jetzt-die-optionen-fuer-mueller-a-ad6f3d59-9f1d-4a53-8dd9-ea9d476e82c1#ref=rss)
+### arbeit
+
+* [https://www.spiegel.de/karriere/arbeit-und-glueck-tipps-fuer-gutes-arbeiten-und-rechtzeitiges-abschalten](https://www.spiegel.de/karriere/arbeit-und-glueck-tipps-fuer-gutes-arbeiten-und-rechtzeitiges-abschalten-a-7a64f6f6-4249-4c35-a45b-0e68489ade33#ref=rss)
+### wir
+
+* [https://www.spiegel.de/karriere/arbeit-und-glueck-tipps-fuer-gutes-arbeiten-und-rechtzeitiges-abschalten](https://www.spiegel.de/karriere/arbeit-und-glueck-tipps-fuer-gutes-arbeiten-und-rechtzeitiges-abschalten-a-7a64f6f6-4249-4c35-a45b-0e68489ade33#ref=rss)
+* [https://www.spiegel.de/psychologie/einsamkeit-geh-an-dein-scheiss-telefon-warum-wir-weniger-nachrichten-schreiben-sollten](https://www.spiegel.de/psychologie/einsamkeit-geh-an-dein-scheiss-telefon-warum-wir-weniger-nachrichten-schreiben-sollten-a-543264f7-8b4d-4433-894c-7272add2204b#ref=rss)
+### republik
+
+* [https://www.spiegel.de/panorama/demokratische-republik-kongo-mindestens-33-menschen-sterben-bei-ueberschwemmungen-in-kinshasa](https://www.spiegel.de/panorama/demokratische-republik-kongo-mindestens-33-menschen-sterben-bei-ueberschwemmungen-in-kinshasa-a-e816b45d-4d54-47ea-b065-662bee2cb6a0#ref=rss)
+### kongo
+
+* [https://www.spiegel.de/panorama/demokratische-republik-kongo-mindestens-33-menschen-sterben-bei-ueberschwemmungen-in-kinshasa](https://www.spiegel.de/panorama/demokratische-republik-kongo-mindestens-33-menschen-sterben-bei-ueberschwemmungen-in-kinshasa-a-e816b45d-4d54-47ea-b065-662bee2cb6a0#ref=rss)
+### heftige
+
+* [https://www.spiegel.de/panorama/demokratische-republik-kongo-mindestens-33-menschen-sterben-bei-ueberschwemmungen-in-kinshasa](https://www.spiegel.de/panorama/demokratische-republik-kongo-mindestens-33-menschen-sterben-bei-ueberschwemmungen-in-kinshasa-a-e816b45d-4d54-47ea-b065-662bee2cb6a0#ref=rss)
+### alle
+
+* [https://www.spiegel.de/panorama/demokratische-republik-kongo-mindestens-33-menschen-sterben-bei-ueberschwemmungen-in-kinshasa](https://www.spiegel.de/panorama/demokratische-republik-kongo-mindestens-33-menschen-sterben-bei-ueberschwemmungen-in-kinshasa-a-e816b45d-4d54-47ea-b065-662bee2cb6a0#ref=rss)
+* [https://www.spiegel.de/gesundheit/weltgesundheitstag-laut-who-ist-muettersterblichkeit-weltweit-noch-hoch-260-000-tote-pro-jahr](https://www.spiegel.de/gesundheit/weltgesundheitstag-laut-who-ist-muettersterblichkeit-weltweit-noch-hoch-260-000-tote-pro-jahr-a-7175b3e6-9364-4c1d-b0c7-99475f54aca6#ref=rss)
+### großbritannien
+
+* [https://www.spiegel.de/auto/handelsstreit-mit-den-usa-grossbritannien-schwaecht-co-regeln-fuer-autohersteller-ab](https://www.spiegel.de/auto/handelsstreit-mit-den-usa-grossbritannien-schwaecht-co-regeln-fuer-autohersteller-ab-a-6448e8bc-e4ff-4532-b855-f69f16ef9c79#ref=rss)
+### eautos
+
+* [https://www.spiegel.de/auto/handelsstreit-mit-den-usa-grossbritannien-schwaecht-co-regeln-fuer-autohersteller-ab](https://www.spiegel.de/auto/handelsstreit-mit-den-usa-grossbritannien-schwaecht-co-regeln-fuer-autohersteller-ab-a-6448e8bc-e4ff-4532-b855-f69f16ef9c79#ref=rss)
+* [https://www.spiegel.de/auto/elektromobilitaet-ionity-chef-ueber-das-labyrinth-der-ladetarife-und-ein-neues-netz-gegen-tesla](https://www.spiegel.de/auto/elektromobilitaet-ionity-chef-ueber-das-labyrinth-der-ladetarife-und-ein-neues-netz-gegen-tesla-a-c9ff5fd8-a087-43a9-b5a5-4dc219cda09e#ref=rss)
+### uszölle
+
+* [https://www.spiegel.de/auto/handelsstreit-mit-den-usa-grossbritannien-schwaecht-co-regeln-fuer-autohersteller-ab](https://www.spiegel.de/auto/handelsstreit-mit-den-usa-grossbritannien-schwaecht-co-regeln-fuer-autohersteller-ab-a-6448e8bc-e4ff-4532-b855-f69f16ef9c79#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-und-die-zoll-politik-der-usa-boersen-in-asien-brechen-ein](https://www.spiegel.de/wirtschaft/donald-trump-und-die-zoll-politik-der-usa-boersen-in-asien-brechen-ein-a-589da8d4-86d5-4862-a8d4-eb3c44004a73#ref=rss)
+### bleiben
+
+* [https://www.spiegel.de/auto/handelsstreit-mit-den-usa-grossbritannien-schwaecht-co-regeln-fuer-autohersteller-ab](https://www.spiegel.de/auto/handelsstreit-mit-den-usa-grossbritannien-schwaecht-co-regeln-fuer-autohersteller-ab-a-6448e8bc-e4ff-4532-b855-f69f16ef9c79#ref=rss)
+* [https://www.spiegel.de/karriere/job-wechsel-oder-bleiben-selbsttest-fuer-unentschlossene](https://www.spiegel.de/karriere/job-wechsel-oder-bleiben-selbsttest-fuer-unentschlossene-a-9f2d2a4f-19a7-4ea2-81a2-36a39799eabf#ref=rss)
+### börsen
+
+* [https://www.spiegel.de/wirtschaft/boersen-erleiden-verluste-wie-seit-der-coronapandemie-nicht-mehr](https://www.spiegel.de/wirtschaft/boersen-erleiden-verluste-wie-seit-der-coronapandemie-nicht-mehr-a-ed306a02-7ab7-4ebd-91ca-fe0455da85e3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-und-die-zoll-politik-der-usa-boersen-in-asien-brechen-ein](https://www.spiegel.de/wirtschaft/donald-trump-und-die-zoll-politik-der-usa-boersen-in-asien-brechen-ein-a-589da8d4-86d5-4862-a8d4-eb3c44004a73#ref=rss)
+### neues
+
+* [https://www.spiegel.de/wirtschaft/boersen-erleiden-verluste-wie-seit-der-coronapandemie-nicht-mehr](https://www.spiegel.de/wirtschaft/boersen-erleiden-verluste-wie-seit-der-coronapandemie-nicht-mehr-a-ed306a02-7ab7-4ebd-91ca-fe0455da85e3#ref=rss)
+* [https://www.spiegel.de/auto/elektromobilitaet-ionity-chef-ueber-das-labyrinth-der-ladetarife-und-ein-neues-netz-gegen-tesla](https://www.spiegel.de/auto/elektromobilitaet-ionity-chef-ueber-das-labyrinth-der-ladetarife-und-ein-neues-netz-gegen-tesla-a-c9ff5fd8-a087-43a9-b5a5-4dc219cda09e#ref=rss)
+### tom
+
+* [https://www.spiegel.de/geschichte/groenland-daenemark-und-die-usa-ex-minister-tom-hoyem-ueber-ambitionen-von-donald-trump](https://www.spiegel.de/geschichte/groenland-daenemark-und-die-usa-ex-minister-tom-hoyem-ueber-ambitionen-von-donald-trump-a-da2a6373-619e-4d7d-90c2-24d32cc43e3c#ref=rss)
+### høyem
+
+* [https://www.spiegel.de/geschichte/groenland-daenemark-und-die-usa-ex-minister-tom-hoyem-ueber-ambitionen-von-donald-trump](https://www.spiegel.de/geschichte/groenland-daenemark-und-die-usa-ex-minister-tom-hoyem-ueber-ambitionen-von-donald-trump-a-da2a6373-619e-4d7d-90c2-24d32cc43e3c#ref=rss)
+### dänische
+
+* [https://www.spiegel.de/geschichte/groenland-daenemark-und-die-usa-ex-minister-tom-hoyem-ueber-ambitionen-von-donald-trump](https://www.spiegel.de/geschichte/groenland-daenemark-und-die-usa-ex-minister-tom-hoyem-ueber-ambitionen-von-donald-trump-a-da2a6373-619e-4d7d-90c2-24d32cc43e3c#ref=rss)
+### größte
+
+* [https://www.spiegel.de/geschichte/groenland-daenemark-und-die-usa-ex-minister-tom-hoyem-ueber-ambitionen-von-donald-trump](https://www.spiegel.de/geschichte/groenland-daenemark-und-die-usa-ex-minister-tom-hoyem-ueber-ambitionen-von-donald-trump-a-da2a6373-619e-4d7d-90c2-24d32cc43e3c#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/nhl-rekord-fuer-alexander-owetschkin-putins-mann-in-der-nhl-ist-jetzt-der-groesste](https://www.spiegel.de/sport/wintersport/nhl-rekord-fuer-alexander-owetschkin-putins-mann-in-der-nhl-ist-jetzt-der-groesste-a-9a1be5f0-175d-419a-aaae-8728e9c4971c#ref=rss)
+### mariam
+
+* [https://www.spiegel.de/kultur/musik/amadou-mariam-musiker-amadou-bagayoko-stirbt-mit-70-jahren](https://www.spiegel.de/kultur/musik/amadou-mariam-musiker-amadou-bagayoko-stirbt-mit-70-jahren-a-c9a659db-bbfb-45cd-9f3c-a2f79f3d22a5#ref=rss)
+### musiker
+
+* [https://www.spiegel.de/kultur/musik/amadou-mariam-musiker-amadou-bagayoko-stirbt-mit-70-jahren](https://www.spiegel.de/kultur/musik/amadou-mariam-musiker-amadou-bagayoko-stirbt-mit-70-jahren-a-c9a659db-bbfb-45cd-9f3c-a2f79f3d22a5#ref=rss)
+### bagayoko
+
+* [https://www.spiegel.de/kultur/musik/amadou-mariam-musiker-amadou-bagayoko-stirbt-mit-70-jahren](https://www.spiegel.de/kultur/musik/amadou-mariam-musiker-amadou-bagayoko-stirbt-mit-70-jahren-a-c9a659db-bbfb-45cd-9f3c-a2f79f3d22a5#ref=rss)
+### stirbt
+
+* [https://www.spiegel.de/kultur/musik/amadou-mariam-musiker-amadou-bagayoko-stirbt-mit-70-jahren](https://www.spiegel.de/kultur/musik/amadou-mariam-musiker-amadou-bagayoko-stirbt-mit-70-jahren-a-c9a659db-bbfb-45cd-9f3c-a2f79f3d22a5#ref=rss)
+* [https://www.spiegel.de/gesundheit/weltgesundheitstag-laut-who-ist-muettersterblichkeit-weltweit-noch-hoch-260-000-tote-pro-jahr](https://www.spiegel.de/gesundheit/weltgesundheitstag-laut-who-ist-muettersterblichkeit-weltweit-noch-hoch-260-000-tote-pro-jahr-a-7175b3e6-9364-4c1d-b0c7-99475f54aca6#ref=rss)
+### 70
+
+* [https://www.spiegel.de/kultur/musik/amadou-mariam-musiker-amadou-bagayoko-stirbt-mit-70-jahren](https://www.spiegel.de/kultur/musik/amadou-mariam-musiker-amadou-bagayoko-stirbt-mit-70-jahren-a-c9a659db-bbfb-45cd-9f3c-a2f79f3d22a5#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/kultur/musik/amadou-mariam-musiker-amadou-bagayoko-stirbt-mit-70-jahren](https://www.spiegel.de/kultur/musik/amadou-mariam-musiker-amadou-bagayoko-stirbt-mit-70-jahren-a-c9a659db-bbfb-45cd-9f3c-a2f79f3d22a5#ref=rss)
+### gestorben
+
+* [https://www.spiegel.de/kultur/musik/amadou-mariam-musiker-amadou-bagayoko-stirbt-mit-70-jahren](https://www.spiegel.de/kultur/musik/amadou-mariam-musiker-amadou-bagayoko-stirbt-mit-70-jahren-a-c9a659db-bbfb-45cd-9f3c-a2f79f3d22a5#ref=rss)
+* [https://www.spiegel.de/gesundheit/weltgesundheitstag-laut-who-ist-muettersterblichkeit-weltweit-noch-hoch-260-000-tote-pro-jahr](https://www.spiegel.de/gesundheit/weltgesundheitstag-laut-who-ist-muettersterblichkeit-weltweit-noch-hoch-260-000-tote-pro-jahr-a-7175b3e6-9364-4c1d-b0c7-99475f54aca6#ref=rss)
+### rami
+
+* [https://www.spiegel.de/panorama/leute/rami-malek-schauspieler-gab-sich-als-sein-eigener-agent-aus](https://www.spiegel.de/panorama/leute/rami-malek-schauspieler-gab-sich-als-sein-eigener-agent-aus-a-6b709cd5-54e6-408d-8b71-e83e1dda42f9#ref=rss)
+### malek
+
+* [https://www.spiegel.de/panorama/leute/rami-malek-schauspieler-gab-sich-als-sein-eigener-agent-aus](https://www.spiegel.de/panorama/leute/rami-malek-schauspieler-gab-sich-als-sein-eigener-agent-aus-a-6b709cd5-54e6-408d-8b71-e83e1dda42f9#ref=rss)
+### schauspieler
+
+* [https://www.spiegel.de/panorama/leute/rami-malek-schauspieler-gab-sich-als-sein-eigener-agent-aus](https://www.spiegel.de/panorama/leute/rami-malek-schauspieler-gab-sich-als-sein-eigener-agent-aus-a-6b709cd5-54e6-408d-8b71-e83e1dda42f9#ref=rss)
+### große
+
+* [https://www.spiegel.de/panorama/leute/rami-malek-schauspieler-gab-sich-als-sein-eigener-agent-aus](https://www.spiegel.de/panorama/leute/rami-malek-schauspieler-gab-sich-als-sein-eigener-agent-aus-a-6b709cd5-54e6-408d-8b71-e83e1dda42f9#ref=rss)
+* [https://www.spiegel.de/kultur/tv/dieter-hallervorden-bei-75-jahre-ard-die-grosse-jubilaeumsshow-rassismusvorwuerfe-wegen-sketch](https://www.spiegel.de/kultur/tv/dieter-hallervorden-bei-75-jahre-ard-die-grosse-jubilaeumsshow-rassismusvorwuerfe-wegen-sketch-a-e6814c80-f9b5-453e-b2f7-5f15a9847bf8#ref=rss)
+### 32jähriger
+
+* [https://www.spiegel.de/panorama/justiz/bremen-32-jaehriger-auf-offener-strasse-erschossen](https://www.spiegel.de/panorama/justiz/bremen-32-jaehriger-auf-offener-strasse-erschossen-a-e6f2a09c-2850-4f03-90bd-efd1d213db6f#ref=rss)
+### straße
+
+* [https://www.spiegel.de/panorama/justiz/bremen-32-jaehriger-auf-offener-strasse-erschossen](https://www.spiegel.de/panorama/justiz/bremen-32-jaehriger-auf-offener-strasse-erschossen-a-e6f2a09c-2850-4f03-90bd-efd1d213db6f#ref=rss)
+* [https://www.spiegel.de/auto/energiewende-iea-fordert-mehr-engagement-fuer-klimafreundlichen-strassenverkehr](https://www.spiegel.de/auto/energiewende-iea-fordert-mehr-engagement-fuer-klimafreundlichen-strassenverkehr-a-384c519b-a748-4e4b-9bcd-0c2bf25448ca#ref=rss)
+### tatort
+
+* [https://www.spiegel.de/panorama/justiz/bremen-32-jaehriger-auf-offener-strasse-erschossen](https://www.spiegel.de/panorama/justiz/bremen-32-jaehriger-auf-offener-strasse-erschossen-a-e6f2a09c-2850-4f03-90bd-efd1d213db6f#ref=rss)
+* [https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-fiderallala-mit-boerne-und-thiel](https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-fiderallala-mit-boerne-und-thiel-a-b9af46ce-bf84-4ad1-8c93-cbcc01f961d9#ref=rss)
+### leyla
+
+* [https://www.spiegel.de/stil/s-magazin/leyla-piedayesh-wie-die-unternehmerin-nach-der-insolvenz-von-lala-berline-wieder-auf-die-beine-kam](https://www.spiegel.de/stil/s-magazin/leyla-piedayesh-wie-die-unternehmerin-nach-der-insolvenz-von-lala-berline-wieder-auf-die-beine-kam-a-aae99331-c11a-4958-9881-d99b3c32b8ff#ref=rss)
+### piedayesh
+
+* [https://www.spiegel.de/stil/s-magazin/leyla-piedayesh-wie-die-unternehmerin-nach-der-insolvenz-von-lala-berline-wieder-auf-die-beine-kam](https://www.spiegel.de/stil/s-magazin/leyla-piedayesh-wie-die-unternehmerin-nach-der-insolvenz-von-lala-berline-wieder-auf-die-beine-kam-a-aae99331-c11a-4958-9881-d99b3c32b8ff#ref=rss)
+### insolvenz
+
+* [https://www.spiegel.de/stil/s-magazin/leyla-piedayesh-wie-die-unternehmerin-nach-der-insolvenz-von-lala-berline-wieder-auf-die-beine-kam](https://www.spiegel.de/stil/s-magazin/leyla-piedayesh-wie-die-unternehmerin-nach-der-insolvenz-von-lala-berline-wieder-auf-die-beine-kam-a-aae99331-c11a-4958-9881-d99b3c32b8ff#ref=rss)
+### lala
+
+* [https://www.spiegel.de/stil/s-magazin/leyla-piedayesh-wie-die-unternehmerin-nach-der-insolvenz-von-lala-berline-wieder-auf-die-beine-kam](https://www.spiegel.de/stil/s-magazin/leyla-piedayesh-wie-die-unternehmerin-nach-der-insolvenz-von-lala-berline-wieder-auf-die-beine-kam-a-aae99331-c11a-4958-9881-d99b3c32b8ff#ref=rss)
+### anja
+
+* [https://www.spiegel.de/panorama/gesellschaft/klima-shakira-anja-windl-deutsche-klima-aktivistin-soll-oesterreich-verlassen](https://www.spiegel.de/panorama/gesellschaft/klima-shakira-anja-windl-deutsche-klima-aktivistin-soll-oesterreich-verlassen-a-55e140d1-d555-4086-85fc-543b623268f5#ref=rss)
+### windl
+
+* [https://www.spiegel.de/panorama/gesellschaft/klima-shakira-anja-windl-deutsche-klima-aktivistin-soll-oesterreich-verlassen](https://www.spiegel.de/panorama/gesellschaft/klima-shakira-anja-windl-deutsche-klima-aktivistin-soll-oesterreich-verlassen-a-55e140d1-d555-4086-85fc-543b623268f5#ref=rss)
+### österreich
+
+* [https://www.spiegel.de/panorama/gesellschaft/klima-shakira-anja-windl-deutsche-klima-aktivistin-soll-oesterreich-verlassen](https://www.spiegel.de/panorama/gesellschaft/klima-shakira-anja-windl-deutsche-klima-aktivistin-soll-oesterreich-verlassen-a-55e140d1-d555-4086-85fc-543b623268f5#ref=rss)
+### erteilt
+
+* [https://www.spiegel.de/panorama/gesellschaft/klima-shakira-anja-windl-deutsche-klima-aktivistin-soll-oesterreich-verlassen](https://www.spiegel.de/panorama/gesellschaft/klima-shakira-anja-windl-deutsche-klima-aktivistin-soll-oesterreich-verlassen-a-55e140d1-d555-4086-85fc-543b623268f5#ref=rss)
+* [https://www.spiegel.de/ausland/serbien-praesident-aleksandar-vucic-erteilt-mediziner-regierungsauftrag](https://www.spiegel.de/ausland/serbien-praesident-aleksandar-vucic-erteilt-mediziner-regierungsauftrag-a-5f4ddfb3-65dc-4cf6-8f39-f2ead88bc01f#ref=rss)
+### sicherheit
+
+* [https://www.spiegel.de/panorama/gesellschaft/klima-shakira-anja-windl-deutsche-klima-aktivistin-soll-oesterreich-verlassen](https://www.spiegel.de/panorama/gesellschaft/klima-shakira-anja-windl-deutsche-klima-aktivistin-soll-oesterreich-verlassen-a-55e140d1-d555-4086-85fc-543b623268f5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sicherheit-in-deutschland-innenministerium-fuer-zivilschutz-uebungen-an-schulen](https://www.spiegel.de/politik/deutschland/sicherheit-in-deutschland-innenministerium-fuer-zivilschutz-uebungen-an-schulen-a-1680d64e-4a42-4e00-954b-0cb38e315a90#ref=rss)
+### börse
+
+* [https://www.spiegel.de/wirtschaft/dax-verliert-zum-wochenauftakt-rund-10-prozent](https://www.spiegel.de/wirtschaft/dax-verliert-zum-wochenauftakt-rund-10-prozent-a-9de05c59-db93-4cda-af30-127f0c531053#ref=rss)
+### asien
+
+* [https://www.spiegel.de/wirtschaft/dax-verliert-zum-wochenauftakt-rund-10-prozent](https://www.spiegel.de/wirtschaft/dax-verliert-zum-wochenauftakt-rund-10-prozent-a-9de05c59-db93-4cda-af30-127f0c531053#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-und-die-zoll-politik-der-usa-boersen-in-asien-brechen-ein](https://www.spiegel.de/wirtschaft/donald-trump-und-die-zoll-politik-der-usa-boersen-in-asien-brechen-ein-a-589da8d4-86d5-4862-a8d4-eb3c44004a73#ref=rss)
+### kurse
+
+* [https://www.spiegel.de/wirtschaft/dax-verliert-zum-wochenauftakt-rund-10-prozent](https://www.spiegel.de/wirtschaft/dax-verliert-zum-wochenauftakt-rund-10-prozent-a-9de05c59-db93-4cda-af30-127f0c531053#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-und-die-zoll-politik-der-usa-boersen-in-asien-brechen-ein](https://www.spiegel.de/wirtschaft/donald-trump-und-die-zoll-politik-der-usa-boersen-in-asien-brechen-ein-a-589da8d4-86d5-4862-a8d4-eb3c44004a73#ref=rss)
+### wuppertal
+
+* [https://www.spiegel.de/panorama/justiz/wuppertal-drei-maenner-tot-in-gartenlaube-gefunden-verdacht-auf-kohlenmonoxidvergiftung](https://www.spiegel.de/panorama/justiz/wuppertal-drei-maenner-tot-in-gartenlaube-gefunden-verdacht-auf-kohlenmonoxidvergiftung-a-d4a05203-db64-4b54-8cb5-8fb85f76f46c#ref=rss)
+### innenministerium
+
+* [https://www.spiegel.de/politik/deutschland/sicherheit-in-deutschland-innenministerium-fuer-zivilschutz-uebungen-an-schulen](https://www.spiegel.de/politik/deutschland/sicherheit-in-deutschland-innenministerium-fuer-zivilschutz-uebungen-an-schulen-a-1680d64e-4a42-4e00-954b-0cb38e315a90#ref=rss)
+### schulen
+
+* [https://www.spiegel.de/politik/deutschland/sicherheit-in-deutschland-innenministerium-fuer-zivilschutz-uebungen-an-schulen](https://www.spiegel.de/politik/deutschland/sicherheit-in-deutschland-innenministerium-fuer-zivilschutz-uebungen-an-schulen-a-1680d64e-4a42-4e00-954b-0cb38e315a90#ref=rss)
+### lage
+
+* [https://www.spiegel.de/politik/deutschland/sicherheit-in-deutschland-innenministerium-fuer-zivilschutz-uebungen-an-schulen](https://www.spiegel.de/politik/deutschland/sicherheit-in-deutschland-innenministerium-fuer-zivilschutz-uebungen-an-schulen-a-1680d64e-4a42-4e00-954b-0cb38e315a90#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-regierung-spd-cdu-csu-friedrich-merz-afd-umfragen-groenland-armin-laschet](https://www.spiegel.de/politik/deutschland/news-regierung-spd-cdu-csu-friedrich-merz-afd-umfragen-groenland-armin-laschet-a-6599200a-30b4-43ad-87c4-9ea4f6ed6714#ref=rss)
+### pep
+
+* [https://www.spiegel.de/sport/fussball/premier-league-pep-guardiola-verurteilt-gesaenge-gegen-mutter-von-phil-foden-im-derby](https://www.spiegel.de/sport/fussball/premier-league-pep-guardiola-verurteilt-gesaenge-gegen-mutter-von-phil-foden-im-derby-a-83446149-c262-49f1-8329-296d57877be3#ref=rss)
+### guardiola
+
+* [https://www.spiegel.de/sport/fussball/premier-league-pep-guardiola-verurteilt-gesaenge-gegen-mutter-von-phil-foden-im-derby](https://www.spiegel.de/sport/fussball/premier-league-pep-guardiola-verurteilt-gesaenge-gegen-mutter-von-phil-foden-im-derby-a-83446149-c262-49f1-8329-296d57877be3#ref=rss)
+### phil
+
+* [https://www.spiegel.de/sport/fussball/premier-league-pep-guardiola-verurteilt-gesaenge-gegen-mutter-von-phil-foden-im-derby](https://www.spiegel.de/sport/fussball/premier-league-pep-guardiola-verurteilt-gesaenge-gegen-mutter-von-phil-foden-im-derby-a-83446149-c262-49f1-8329-296d57877be3#ref=rss)
+### foden
+
+* [https://www.spiegel.de/sport/fussball/premier-league-pep-guardiola-verurteilt-gesaenge-gegen-mutter-von-phil-foden-im-derby](https://www.spiegel.de/sport/fussball/premier-league-pep-guardiola-verurteilt-gesaenge-gegen-mutter-von-phil-foden-im-derby-a-83446149-c262-49f1-8329-296d57877be3#ref=rss)
+### sollten
+
+* [https://www.spiegel.de/sport/fussball/premier-league-pep-guardiola-verurteilt-gesaenge-gegen-mutter-von-phil-foden-im-derby](https://www.spiegel.de/sport/fussball/premier-league-pep-guardiola-verurteilt-gesaenge-gegen-mutter-von-phil-foden-im-derby-a-83446149-c262-49f1-8329-296d57877be3#ref=rss)
+* [https://www.spiegel.de/psychologie/einsamkeit-geh-an-dein-scheiss-telefon-warum-wir-weniger-nachrichten-schreiben-sollten](https://www.spiegel.de/psychologie/einsamkeit-geh-an-dein-scheiss-telefon-warum-wir-weniger-nachrichten-schreiben-sollten-a-543264f7-8b4d-4433-894c-7272add2204b#ref=rss)
+### einsamkeit
+
+* [https://www.spiegel.de/psychologie/einsamkeit-geh-an-dein-scheiss-telefon-warum-wir-weniger-nachrichten-schreiben-sollten](https://www.spiegel.de/psychologie/einsamkeit-geh-an-dein-scheiss-telefon-warum-wir-weniger-nachrichten-schreiben-sollten-a-543264f7-8b4d-4433-894c-7272add2204b#ref=rss)
+### iea
+
+* [https://www.spiegel.de/auto/energiewende-iea-fordert-mehr-engagement-fuer-klimafreundlichen-strassenverkehr](https://www.spiegel.de/auto/energiewende-iea-fordert-mehr-engagement-fuer-klimafreundlichen-strassenverkehr-a-384c519b-a748-4e4b-9bcd-0c2bf25448ca#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/auto/energiewende-iea-fordert-mehr-engagement-fuer-klimafreundlichen-strassenverkehr](https://www.spiegel.de/auto/energiewende-iea-fordert-mehr-engagement-fuer-klimafreundlichen-strassenverkehr-a-384c519b-a748-4e4b-9bcd-0c2bf25448ca#ref=rss)
+### john
+
+* [https://www.spiegel.de/sport/radsport-john-degenkolb-erleidet-knochenbrueche-bei-flandern-rundfahrt](https://www.spiegel.de/sport/radsport-john-degenkolb-erleidet-knochenbrueche-bei-flandern-rundfahrt-a-26928aef-159f-4a14-b17b-eaaf62d88134#ref=rss)
+### degenkolb
+
+* [https://www.spiegel.de/sport/radsport-john-degenkolb-erleidet-knochenbrueche-bei-flandern-rundfahrt](https://www.spiegel.de/sport/radsport-john-degenkolb-erleidet-knochenbrueche-bei-flandern-rundfahrt-a-26928aef-159f-4a14-b17b-eaaf62d88134#ref=rss)
+### labyrinth
+
+* [https://www.spiegel.de/auto/elektromobilitaet-ionity-chef-ueber-das-labyrinth-der-ladetarife-und-ein-neues-netz-gegen-tesla](https://www.spiegel.de/auto/elektromobilitaet-ionity-chef-ueber-das-labyrinth-der-ladetarife-und-ein-neues-netz-gegen-tesla-a-c9ff5fd8-a087-43a9-b5a5-4dc219cda09e#ref=rss)
+### ladetarife
+
+* [https://www.spiegel.de/auto/elektromobilitaet-ionity-chef-ueber-das-labyrinth-der-ladetarife-und-ein-neues-netz-gegen-tesla](https://www.spiegel.de/auto/elektromobilitaet-ionity-chef-ueber-das-labyrinth-der-ladetarife-und-ein-neues-netz-gegen-tesla-a-c9ff5fd8-a087-43a9-b5a5-4dc219cda09e#ref=rss)
+### tesla
+
+* [https://www.spiegel.de/auto/elektromobilitaet-ionity-chef-ueber-das-labyrinth-der-ladetarife-und-ein-neues-netz-gegen-tesla](https://www.spiegel.de/auto/elektromobilitaet-ionity-chef-ueber-das-labyrinth-der-ladetarife-und-ein-neues-netz-gegen-tesla-a-c9ff5fd8-a087-43a9-b5a5-4dc219cda09e#ref=rss)
+### serbien
+
+* [https://www.spiegel.de/ausland/serbien-praesident-aleksandar-vucic-erteilt-mediziner-regierungsauftrag](https://www.spiegel.de/ausland/serbien-praesident-aleksandar-vucic-erteilt-mediziner-regierungsauftrag-a-5f4ddfb3-65dc-4cf6-8f39-f2ead88bc01f#ref=rss)
+### präsident
+
+* [https://www.spiegel.de/ausland/serbien-praesident-aleksandar-vucic-erteilt-mediziner-regierungsauftrag](https://www.spiegel.de/ausland/serbien-praesident-aleksandar-vucic-erteilt-mediziner-regierungsauftrag-a-5f4ddfb3-65dc-4cf6-8f39-f2ead88bc01f#ref=rss)
+### aleksandar
+
+* [https://www.spiegel.de/ausland/serbien-praesident-aleksandar-vucic-erteilt-mediziner-regierungsauftrag](https://www.spiegel.de/ausland/serbien-praesident-aleksandar-vucic-erteilt-mediziner-regierungsauftrag-a-5f4ddfb3-65dc-4cf6-8f39-f2ead88bc01f#ref=rss)
+### vučić
+
+* [https://www.spiegel.de/ausland/serbien-praesident-aleksandar-vucic-erteilt-mediziner-regierungsauftrag](https://www.spiegel.de/ausland/serbien-praesident-aleksandar-vucic-erteilt-mediziner-regierungsauftrag-a-5f4ddfb3-65dc-4cf6-8f39-f2ead88bc01f#ref=rss)
+### dieter
+
+* [https://www.spiegel.de/kultur/tv/dieter-hallervorden-bei-75-jahre-ard-die-grosse-jubilaeumsshow-rassismusvorwuerfe-wegen-sketch](https://www.spiegel.de/kultur/tv/dieter-hallervorden-bei-75-jahre-ard-die-grosse-jubilaeumsshow-rassismusvorwuerfe-wegen-sketch-a-e6814c80-f9b5-453e-b2f7-5f15a9847bf8#ref=rss)
+### hallervorden
+
+* [https://www.spiegel.de/kultur/tv/dieter-hallervorden-bei-75-jahre-ard-die-grosse-jubilaeumsshow-rassismusvorwuerfe-wegen-sketch](https://www.spiegel.de/kultur/tv/dieter-hallervorden-bei-75-jahre-ard-die-grosse-jubilaeumsshow-rassismusvorwuerfe-wegen-sketch-a-e6814c80-f9b5-453e-b2f7-5f15a9847bf8#ref=rss)
+### ard
+
+* [https://www.spiegel.de/kultur/tv/dieter-hallervorden-bei-75-jahre-ard-die-grosse-jubilaeumsshow-rassismusvorwuerfe-wegen-sketch](https://www.spiegel.de/kultur/tv/dieter-hallervorden-bei-75-jahre-ard-die-grosse-jubilaeumsshow-rassismusvorwuerfe-wegen-sketch-a-e6814c80-f9b5-453e-b2f7-5f15a9847bf8#ref=rss)
+### sketch
+
+* [https://www.spiegel.de/kultur/tv/dieter-hallervorden-bei-75-jahre-ard-die-grosse-jubilaeumsshow-rassismusvorwuerfe-wegen-sketch](https://www.spiegel.de/kultur/tv/dieter-hallervorden-bei-75-jahre-ard-die-grosse-jubilaeumsshow-rassismusvorwuerfe-wegen-sketch-a-e6814c80-f9b5-453e-b2f7-5f15a9847bf8#ref=rss)
+### kritisiert
+
+* [https://www.spiegel.de/kultur/tv/dieter-hallervorden-bei-75-jahre-ard-die-grosse-jubilaeumsshow-rassismusvorwuerfe-wegen-sketch](https://www.spiegel.de/kultur/tv/dieter-hallervorden-bei-75-jahre-ard-die-grosse-jubilaeumsshow-rassismusvorwuerfe-wegen-sketch-a-e6814c80-f9b5-453e-b2f7-5f15a9847bf8#ref=rss)
+* [https://www.spiegel.de/gesundheit/weltgesundheitstag-laut-who-ist-muettersterblichkeit-weltweit-noch-hoch-260-000-tote-pro-jahr](https://www.spiegel.de/gesundheit/weltgesundheitstag-laut-who-ist-muettersterblichkeit-weltweit-noch-hoch-260-000-tote-pro-jahr-a-7175b3e6-9364-4c1d-b0c7-99475f54aca6#ref=rss)
+### alexander
+
+* [https://www.spiegel.de/sport/wintersport/nhl-rekord-fuer-alexander-owetschkin-putins-mann-in-der-nhl-ist-jetzt-der-groesste](https://www.spiegel.de/sport/wintersport/nhl-rekord-fuer-alexander-owetschkin-putins-mann-in-der-nhl-ist-jetzt-der-groesste-a-9a1be5f0-175d-419a-aaae-8728e9c4971c#ref=rss)
+### owetschkin
+
+* [https://www.spiegel.de/sport/wintersport/nhl-rekord-fuer-alexander-owetschkin-putins-mann-in-der-nhl-ist-jetzt-der-groesste](https://www.spiegel.de/sport/wintersport/nhl-rekord-fuer-alexander-owetschkin-putins-mann-in-der-nhl-ist-jetzt-der-groesste-a-9a1be5f0-175d-419a-aaae-8728e9c4971c#ref=rss)
+### stiftung
+
+* [https://www.spiegel.de/tests/garten/elektro-rasenmaeher-2025-im-test-stiftung-warentest-nennt-die-besten](https://www.spiegel.de/tests/garten/elektro-rasenmaeher-2025-im-test-stiftung-warentest-nennt-die-besten-a-8a7520bb-f941-4273-9b58-53f42ad64fdc#ref=rss)
+### warentest
+
+* [https://www.spiegel.de/tests/garten/elektro-rasenmaeher-2025-im-test-stiftung-warentest-nennt-die-besten](https://www.spiegel.de/tests/garten/elektro-rasenmaeher-2025-im-test-stiftung-warentest-nennt-die-besten-a-8a7520bb-f941-4273-9b58-53f42ad64fdc#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/politik/deutschland/news-regierung-spd-cdu-csu-friedrich-merz-afd-umfragen-groenland-armin-laschet](https://www.spiegel.de/politik/deutschland/news-regierung-spd-cdu-csu-friedrich-merz-afd-umfragen-groenland-armin-laschet-a-6599200a-30b4-43ad-87c4-9ea4f6ed6714#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/deutschland/news-regierung-spd-cdu-csu-friedrich-merz-afd-umfragen-groenland-armin-laschet](https://www.spiegel.de/politik/deutschland/news-regierung-spd-cdu-csu-friedrich-merz-afd-umfragen-groenland-armin-laschet-a-6599200a-30b4-43ad-87c4-9ea4f6ed6714#ref=rss)
+### who
+
+* [https://www.spiegel.de/gesundheit/weltgesundheitstag-laut-who-ist-muettersterblichkeit-weltweit-noch-hoch-260-000-tote-pro-jahr](https://www.spiegel.de/gesundheit/weltgesundheitstag-laut-who-ist-muettersterblichkeit-weltweit-noch-hoch-260-000-tote-pro-jahr-a-7175b3e6-9364-4c1d-b0c7-99475f54aca6#ref=rss)
+### geburt
+
+* [https://www.spiegel.de/gesundheit/weltgesundheitstag-laut-who-ist-muettersterblichkeit-weltweit-noch-hoch-260-000-tote-pro-jahr](https://www.spiegel.de/gesundheit/weltgesundheitstag-laut-who-ist-muettersterblichkeit-weltweit-noch-hoch-260-000-tote-pro-jahr-a-7175b3e6-9364-4c1d-b0c7-99475f54aca6#ref=rss)
 
