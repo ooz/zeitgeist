@@ -4,348 +4,365 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### polizei
-
-* [https://www.spiegel.de/panorama/justiz/fuerth-toedliche-schuesse-bei-hochzeitsfeier-verdaechtiger-ausgeliefert](https://www.spiegel.de/panorama/justiz/fuerth-toedliche-schuesse-bei-hochzeitsfeier-verdaechtiger-ausgeliefert-a-e7e46395-4b26-43ad-9f57-3eeef5a32e76#ref=rss)
-* [https://www.spiegel.de/auto/blitzermarathon-am-mittwoch-kontrolliert-die-polizei-in-vielen-bundeslaendern-besonders-streng](https://www.spiegel.de/auto/blitzermarathon-am-mittwoch-kontrolliert-die-polizei-in-vielen-bundeslaendern-besonders-streng-a-e49711ec-74ec-4411-a7c7-a007e0b637bc#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/a6-in-kaiserslautern-radelnder-geisterfahrer-polizei-stoppt-essenslieferanten](https://www.spiegel.de/panorama/justiz/a6-in-kaiserslautern-radelnder-geisterfahrer-polizei-stoppt-essenslieferanten-a-2b8d4a46-e01d-46a9-b493-d2789b3dcbb1#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/wirtschaft/soziales/bedingungsloses-grundeinkommen-das-sind-die-ergebnisse-der-langzeitstudie](https://www.spiegel.de/wirtschaft/soziales/bedingungsloses-grundeinkommen-das-sind-die-ergebnisse-der-langzeitstudie-a-b7a2d281-4041-4706-8fdd-cb91f19bcc2a#ref=rss)
-* [https://www.spiegel.de/kultur/kino/marvin-levy-ist-tot-pr-mann-von-steven-spielberg-mit-oscar-ehrung-gestorben](https://www.spiegel.de/kultur/kino/marvin-levy-ist-tot-pr-mann-von-steven-spielberg-mit-oscar-ehrung-gestorben-a-1a6a5886-e080-49ac-91f1-129a545a1df2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/winfried-kretschmann-gruene-wir-muessen-mehr-arbeiten](https://www.spiegel.de/politik/deutschland/winfried-kretschmann-gruene-wir-muessen-mehr-arbeiten-a-2ee5d830-304c-4be0-861a-b0283724f7b3#ref=rss)
-* [https://www.spiegel.de/sport/baseball-octavio-dotel-stirbt-bei-disco-unglueck-in-der-dominikanischen-republik](https://www.spiegel.de/sport/baseball-octavio-dotel-stirbt-bei-disco-unglueck-in-der-dominikanischen-republik-a-b69f50d1-385f-4e7e-9a88-6a07b4bb5ba8#ref=rss)
-### union
-
-* [https://www.spiegel.de/politik/deutschland/union-und-spd-einigen-sich-auf-koalitionsvertrag](https://www.spiegel.de/politik/deutschland/union-und-spd-einigen-sich-auf-koalitionsvertrag-a-44afd212-1761-4ff9-9394-90ac67a9d239#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/union-und-spd-koalitionsgespraeche-sollen-am-nachmittag-abgeschlossen-werden](https://www.spiegel.de/politik/deutschland/union-und-spd-koalitionsgespraeche-sollen-am-nachmittag-abgeschlossen-werden-a-e68ef671-0a0a-4bd0-989e-524d3c9f5242#ref=rss)
-* [https://www.spiegel.de/wirtschaft/reform-der-altersvorsorge-warum-die-aktienrente-jetzt-wichtiger-denn-je-ist](https://www.spiegel.de/wirtschaft/reform-der-altersvorsorge-warum-die-aktienrente-jetzt-wichtiger-denn-je-ist-a-c1a468c0-5247-44c8-b74d-67b7f211475e#ref=rss)
 ### spd
 
+* [https://www.spiegel.de/politik/deutschland/der-koalitionsvertrag-steht-liebesheirat-und-duzmaennerfreundschaft](https://www.spiegel.de/politik/deutschland/der-koalitionsvertrag-steht-liebesheirat-und-duzmaennerfreundschaft-a-c9bd9fc0-8d30-4f5f-b2ff-04640bb3f8ab#ref=rss)
 * [https://www.spiegel.de/politik/deutschland/union-und-spd-einigen-sich-auf-koalitionsvertrag](https://www.spiegel.de/politik/deutschland/union-und-spd-einigen-sich-auf-koalitionsvertrag-a-44afd212-1761-4ff9-9394-90ac67a9d239#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/union-und-spd-koalitionsgespraeche-sollen-am-nachmittag-abgeschlossen-werden](https://www.spiegel.de/politik/deutschland/union-und-spd-koalitionsgespraeche-sollen-am-nachmittag-abgeschlossen-werden-a-e68ef671-0a0a-4bd0-989e-524d3c9f5242#ref=rss)
-* [https://www.spiegel.de/wirtschaft/reform-der-altersvorsorge-warum-die-aktienrente-jetzt-wichtiger-denn-je-ist](https://www.spiegel.de/wirtschaft/reform-der-altersvorsorge-warum-die-aktienrente-jetzt-wichtiger-denn-je-ist-a-c1a468c0-5247-44c8-b74d-67b7f211475e#ref=rss)
-### tag
+* [https://www.spiegel.de/wirtschaft/service/koalitionsvertrag-von-union-und-spd-welche-entlastungen-fuer-verbraucher](https://www.spiegel.de/wirtschaft/service/koalitionsvertrag-von-union-und-spd-welche-entlastungen-fuer-verbraucher-a-b61e9b2d-a399-4452-9788-5508296ed002#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-praesentieren-koalitionsvertrag-die-muss-ja-koalition](https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-praesentieren-koalitionsvertrag-die-muss-ja-koalition-a-4c969aa9-2ceb-435e-b818-d005efe75634#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/union-und-spd-einigen-sich-hier-koennen-sie-den-koalitionsvertrag-lesen](https://www.spiegel.de/politik/deutschland/union-und-spd-einigen-sich-hier-koennen-sie-den-koalitionsvertrag-lesen-a-597c6ce8-1e46-4a5b-9b27-a4e9a190e6d3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/union-und-spd-stellen-koalitionsvertrag-vor-germany-is-back-on-track](https://www.spiegel.de/politik/deutschland/union-und-spd-stellen-koalitionsvertrag-vor-germany-is-back-on-track-a-1df44cb2-aa03-45fe-a73f-59e70b1d21bc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-und-union-aktuelle-statements-zu-koalitionsverhandlungen-im-livestream](https://www.spiegel.de/politik/deutschland/spd-und-union-aktuelle-statements-zu-koalitionsverhandlungen-im-livestream-a-2337bc08-1a45-4ab3-b9af-44f42d893e0b#ref=rss)
+### koalitionsvertrag
 
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/winfried-kretschmann-gruene-wir-muessen-mehr-arbeiten](https://www.spiegel.de/politik/deutschland/winfried-kretschmann-gruene-wir-muessen-mehr-arbeiten-a-2ee5d830-304c-4be0-861a-b0283724f7b3#ref=rss)
-### menschen
+* [https://www.spiegel.de/politik/deutschland/der-koalitionsvertrag-steht-liebesheirat-und-duzmaennerfreundschaft](https://www.spiegel.de/politik/deutschland/der-koalitionsvertrag-steht-liebesheirat-und-duzmaennerfreundschaft-a-c9bd9fc0-8d30-4f5f-b2ff-04640bb3f8ab#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/das-buendnis-der-zaghaften](https://www.spiegel.de/politik/deutschland/das-buendnis-der-zaghaften-a-0cd5257f-bb70-4d49-aec3-b7a238d3a615#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/union-und-spd-einigen-sich-auf-koalitionsvertrag](https://www.spiegel.de/politik/deutschland/union-und-spd-einigen-sich-auf-koalitionsvertrag-a-44afd212-1761-4ff9-9394-90ac67a9d239#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/koalitionsvertrag-von-union-und-spd-welche-entlastungen-fuer-verbraucher](https://www.spiegel.de/wirtschaft/service/koalitionsvertrag-von-union-und-spd-welche-entlastungen-fuer-verbraucher-a-b61e9b2d-a399-4452-9788-5508296ed002#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-praesentieren-koalitionsvertrag-die-muss-ja-koalition](https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-praesentieren-koalitionsvertrag-die-muss-ja-koalition-a-4c969aa9-2ceb-435e-b818-d005efe75634#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/union-und-spd-einigen-sich-hier-koennen-sie-den-koalitionsvertrag-lesen](https://www.spiegel.de/politik/deutschland/union-und-spd-einigen-sich-hier-koennen-sie-den-koalitionsvertrag-lesen-a-597c6ce8-1e46-4a5b-9b27-a4e9a190e6d3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/union-und-spd-stellen-koalitionsvertrag-vor-germany-is-back-on-track](https://www.spiegel.de/politik/deutschland/union-und-spd-stellen-koalitionsvertrag-vor-germany-is-back-on-track-a-1df44cb2-aa03-45fe-a73f-59e70b1d21bc#ref=rss)
+### union
 
-* [https://www.spiegel.de/ausland/gaza-indonesien-will-1000-zivilisten-aufnehmen](https://www.spiegel.de/ausland/gaza-indonesien-will-1000-zivilisten-aufnehmen-a-4dc9bc00-89d7-4114-b272-6466dd5a19c9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/bedingungsloses-grundeinkommen-das-sind-die-ergebnisse-der-langzeitstudie](https://www.spiegel.de/wirtschaft/soziales/bedingungsloses-grundeinkommen-das-sind-die-ergebnisse-der-langzeitstudie-a-b7a2d281-4041-4706-8fdd-cb91f19bcc2a#ref=rss)
-* [https://www.spiegel.de/stil/mad-men-bis-the-white-lotus-wie-serien-modetrends-setzen](https://www.spiegel.de/stil/mad-men-bis-the-white-lotus-wie-serien-modetrends-setzen-a-69c55cd5-2bd0-49d6-99e0-06d290cd3eca#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wirtschaft/soziales/bedingungsloses-grundeinkommen-das-sind-die-ergebnisse-der-langzeitstudie](https://www.spiegel.de/wirtschaft/soziales/bedingungsloses-grundeinkommen-das-sind-die-ergebnisse-der-langzeitstudie-a-b7a2d281-4041-4706-8fdd-cb91f19bcc2a#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-peking-bestreitet-einsatz-vieler-chinesischer-soldaten](https://www.spiegel.de/ausland/ukraine-peking-bestreitet-einsatz-vieler-chinesischer-soldaten-a-997741e5-9d19-44ed-81a6-aea6a170b340#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/winfried-kretschmann-gruene-wir-muessen-mehr-arbeiten](https://www.spiegel.de/politik/deutschland/winfried-kretschmann-gruene-wir-muessen-mehr-arbeiten-a-2ee5d830-304c-4be0-861a-b0283724f7b3#ref=rss)
-### chinesische
-
-* [https://www.spiegel.de/ausland/ukraine-peking-bestreitet-einsatz-vieler-chinesischer-soldaten](https://www.spiegel.de/ausland/ukraine-peking-bestreitet-einsatz-vieler-chinesischer-soldaten-a-997741e5-9d19-44ed-81a6-aea6a170b340#ref=rss)
-* [https://www.spiegel.de/wirtschaft/temu-handelsverband-geht-beim-bundeskartellamt-gegen-chinesische-shopping-plattform-vor](https://www.spiegel.de/wirtschaft/temu-handelsverband-geht-beim-bundeskartellamt-gegen-chinesische-shopping-plattform-vor-a-eb10d5a0-ef5f-43e9-9688-87b354641944#ref=rss)
-### vorwürfe
-
-* [https://www.spiegel.de/ausland/ukraine-peking-bestreitet-einsatz-vieler-chinesischer-soldaten](https://www.spiegel.de/ausland/ukraine-peking-bestreitet-einsatz-vieler-chinesischer-soldaten-a-997741e5-9d19-44ed-81a6-aea6a170b340#ref=rss)
-* [https://www.spiegel.de/sport/fussball/diego-maradona-ex-frau-und-arzt-erheben-vorwuerfe-im-todesprozess](https://www.spiegel.de/sport/fussball/diego-maradona-ex-frau-und-arzt-erheben-vorwuerfe-im-todesprozess-a-aa0e78b0-18a7-4a7f-92c4-bd7a125c3f3e#ref=rss)
-### alt
-
-* [https://www.spiegel.de/kultur/kino/marvin-levy-ist-tot-pr-mann-von-steven-spielberg-mit-oscar-ehrung-gestorben](https://www.spiegel.de/kultur/kino/marvin-levy-ist-tot-pr-mann-von-steven-spielberg-mit-oscar-ehrung-gestorben-a-1a6a5886-e080-49ac-91f1-129a545a1df2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/winfried-kretschmann-gruene-wir-muessen-mehr-arbeiten](https://www.spiegel.de/politik/deutschland/winfried-kretschmann-gruene-wir-muessen-mehr-arbeiten-a-2ee5d830-304c-4be0-861a-b0283724f7b3#ref=rss)
-* [https://www.spiegel.de/sport/baseball-octavio-dotel-stirbt-bei-disco-unglueck-in-der-dominikanischen-republik](https://www.spiegel.de/sport/baseball-octavio-dotel-stirbt-bei-disco-unglueck-in-der-dominikanischen-republik-a-b69f50d1-385f-4e7e-9a88-6a07b4bb5ba8#ref=rss)
-### europa
-
-* [https://www.spiegel.de/wirtschaft/ruestung-manager-roberto-cingolani-ueber-verteidigung-wir-sollten-nicht-zulassen-dass-die-nato-zerfaellt](https://www.spiegel.de/wirtschaft/ruestung-manager-roberto-cingolani-ueber-verteidigung-wir-sollten-nicht-zulassen-dass-die-nato-zerfaellt-a-78c026e6-cd5c-4ec7-a331-96b09487de27#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/gaia-x-galileo-limux-warum-europa-meistens-an-der-digitalen-souveraenitaet-scheitert](https://www.spiegel.de/netzwelt/netzpolitik/gaia-x-galileo-limux-warum-europa-meistens-an-der-digitalen-souveraenitaet-scheitert-a-f7114aa7-8445-461d-b0ee-1598c312e0cd#ref=rss)
-### besonders
-
-* [https://www.spiegel.de/auto/blitzermarathon-am-mittwoch-kontrolliert-die-polizei-in-vielen-bundeslaendern-besonders-streng](https://www.spiegel.de/auto/blitzermarathon-am-mittwoch-kontrolliert-die-polizei-in-vielen-bundeslaendern-besonders-streng-a-e49711ec-74ec-4411-a7c7-a007e0b637bc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-ordnet-zusaetzliche-zoelle-auf-geringwertige-waren-aus-china-an](https://www.spiegel.de/wirtschaft/donald-trump-ordnet-zusaetzliche-zoelle-auf-geringwertige-waren-aus-china-an-a-a50ac47a-d42b-48e2-a617-0d3ea3143abf#ref=rss)
-### donald
-
-* [https://www.spiegel.de/wirtschaft/reform-der-altersvorsorge-warum-die-aktienrente-jetzt-wichtiger-denn-je-ist](https://www.spiegel.de/wirtschaft/reform-der-altersvorsorge-warum-die-aktienrente-jetzt-wichtiger-denn-je-ist-a-c1a468c0-5247-44c8-b74d-67b7f211475e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-ordnet-zusaetzliche-zoelle-auf-geringwertige-waren-aus-china-an](https://www.spiegel.de/wirtschaft/donald-trump-ordnet-zusaetzliche-zoelle-auf-geringwertige-waren-aus-china-an-a-a50ac47a-d42b-48e2-a617-0d3ea3143abf#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/der-koalitionsvertrag-steht-liebesheirat-und-duzmaennerfreundschaft](https://www.spiegel.de/politik/deutschland/der-koalitionsvertrag-steht-liebesheirat-und-duzmaennerfreundschaft-a-c9bd9fc0-8d30-4f5f-b2ff-04640bb3f8ab#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/union-und-spd-einigen-sich-auf-koalitionsvertrag](https://www.spiegel.de/politik/deutschland/union-und-spd-einigen-sich-auf-koalitionsvertrag-a-44afd212-1761-4ff9-9394-90ac67a9d239#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/koalitionsvertrag-von-union-und-spd-welche-entlastungen-fuer-verbraucher](https://www.spiegel.de/wirtschaft/service/koalitionsvertrag-von-union-und-spd-welche-entlastungen-fuer-verbraucher-a-b61e9b2d-a399-4452-9788-5508296ed002#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-praesentieren-koalitionsvertrag-die-muss-ja-koalition](https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-praesentieren-koalitionsvertrag-die-muss-ja-koalition-a-4c969aa9-2ceb-435e-b818-d005efe75634#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/union-und-spd-einigen-sich-hier-koennen-sie-den-koalitionsvertrag-lesen](https://www.spiegel.de/politik/deutschland/union-und-spd-einigen-sich-hier-koennen-sie-den-koalitionsvertrag-lesen-a-597c6ce8-1e46-4a5b-9b27-a4e9a190e6d3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/union-und-spd-stellen-koalitionsvertrag-vor-germany-is-back-on-track](https://www.spiegel.de/politik/deutschland/union-und-spd-stellen-koalitionsvertrag-vor-germany-is-back-on-track-a-1df44cb2-aa03-45fe-a73f-59e70b1d21bc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-und-union-aktuelle-statements-zu-koalitionsverhandlungen-im-livestream](https://www.spiegel.de/politik/deutschland/spd-und-union-aktuelle-statements-zu-koalitionsverhandlungen-im-livestream-a-2337bc08-1a45-4ab3-b9af-44f42d893e0b#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/wirtschaft/reform-der-altersvorsorge-warum-die-aktienrente-jetzt-wichtiger-denn-je-ist](https://www.spiegel.de/wirtschaft/reform-der-altersvorsorge-warum-die-aktienrente-jetzt-wichtiger-denn-je-ist-a-c1a468c0-5247-44c8-b74d-67b7f211475e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-ordnet-zusaetzliche-zoelle-auf-geringwertige-waren-aus-china-an](https://www.spiegel.de/wirtschaft/donald-trump-ordnet-zusaetzliche-zoelle-auf-geringwertige-waren-aus-china-an-a-a50ac47a-d42b-48e2-a617-0d3ea3143abf#ref=rss)
-### prozent
+* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-zoelle-news-heute-investoren-stossen-massenhaft-us-staatsanleihen-ab](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-zoelle-news-heute-investoren-stossen-massenhaft-us-staatsanleihen-ab-a-a4c8dcd6-a148-4968-99a8-b19b2285e2d7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-schwarz-rote-koalition-donald-trump-zoelle-china-touristen-in-den-usa](https://www.spiegel.de/politik/deutschland/news-des-tages-schwarz-rote-koalition-donald-trump-zoelle-china-touristen-in-den-usa-a-6cde5dc8-a99d-4d36-83bd-989346075667#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/union-und-spd-stellen-koalitionsvertrag-vor-germany-is-back-on-track](https://www.spiegel.de/politik/deutschland/union-und-spd-stellen-koalitionsvertrag-vor-germany-is-back-on-track-a-1df44cb2-aa03-45fe-a73f-59e70b1d21bc#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-seine-radikalen-einfluesterer-peter-navarro-und-laura-loomer](https://www.spiegel.de/ausland/donald-trump-seine-radikalen-einfluesterer-peter-navarro-und-laura-loomer-a-aafbac33-8adb-4a85-aa75-c56fe445ba34#ref=rss)
+### donald
 
-* [https://www.spiegel.de/wirtschaft/us-zoelle-dax-startet-mit-minus-von-2-5-prozent-in-den-handel](https://www.spiegel.de/wirtschaft/us-zoelle-dax-startet-mit-minus-von-2-5-prozent-in-den-handel-a-85410edd-a185-4720-93aa-dc24808acbee#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-ordnet-zusaetzliche-zoelle-auf-geringwertige-waren-aus-china-an](https://www.spiegel.de/wirtschaft/donald-trump-ordnet-zusaetzliche-zoelle-auf-geringwertige-waren-aus-china-an-a-a50ac47a-d42b-48e2-a617-0d3ea3143abf#ref=rss)
-### china
+* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-zoelle-news-heute-investoren-stossen-massenhaft-us-staatsanleihen-ab](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-zoelle-news-heute-investoren-stossen-massenhaft-us-staatsanleihen-ab-a-a4c8dcd6-a148-4968-99a8-b19b2285e2d7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-schwarz-rote-koalition-donald-trump-zoelle-china-touristen-in-den-usa](https://www.spiegel.de/politik/deutschland/news-des-tages-schwarz-rote-koalition-donald-trump-zoelle-china-touristen-in-den-usa-a-6cde5dc8-a99d-4d36-83bd-989346075667#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/union-und-spd-stellen-koalitionsvertrag-vor-germany-is-back-on-track](https://www.spiegel.de/politik/deutschland/union-und-spd-stellen-koalitionsvertrag-vor-germany-is-back-on-track-a-1df44cb2-aa03-45fe-a73f-59e70b1d21bc#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-seine-radikalen-einfluesterer-peter-navarro-und-laura-loomer](https://www.spiegel.de/ausland/donald-trump-seine-radikalen-einfluesterer-peter-navarro-und-laura-loomer-a-aafbac33-8adb-4a85-aa75-c56fe445ba34#ref=rss)
+### schwarzrote
 
-* [https://www.spiegel.de/wirtschaft/donald-trump-ordnet-zusaetzliche-zoelle-auf-geringwertige-waren-aus-china-an](https://www.spiegel.de/wirtschaft/donald-trump-ordnet-zusaetzliche-zoelle-auf-geringwertige-waren-aus-china-an-a-a50ac47a-d42b-48e2-a617-0d3ea3143abf#ref=rss)
-### fragen
+* [https://www.spiegel.de/politik/deutschland/der-koalitionsvertrag-steht-liebesheirat-und-duzmaennerfreundschaft](https://www.spiegel.de/politik/deutschland/der-koalitionsvertrag-steht-liebesheirat-und-duzmaennerfreundschaft-a-c9bd9fc0-8d30-4f5f-b2ff-04640bb3f8ab#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/das-buendnis-der-zaghaften](https://www.spiegel.de/politik/deutschland/das-buendnis-der-zaghaften-a-0cd5257f-bb70-4d49-aec3-b7a238d3a615#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-schwarz-rote-koalition-donald-trump-zoelle-china-touristen-in-den-usa](https://www.spiegel.de/politik/deutschland/news-des-tages-schwarz-rote-koalition-donald-trump-zoelle-china-touristen-in-den-usa-a-6cde5dc8-a99d-4d36-83bd-989346075667#ref=rss)
+### adolescence
 
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### 1000
+* [https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht-podcast](https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht-podcast-a-8870b321-ea8c-49d5-a7c1-d94e0b8fd28c#ref=rss)
+* [https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht](https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht-a-a0128f8d-1734-4fa3-9498-1d7960c1185c#ref=rss)
+### debatte
 
-* [https://www.spiegel.de/ausland/gaza-indonesien-will-1000-zivilisten-aufnehmen](https://www.spiegel.de/ausland/gaza-indonesien-will-1000-zivilisten-aufnehmen-a-4dc9bc00-89d7-4114-b272-6466dd5a19c9#ref=rss)
-### zivilisten
+* [https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht-podcast](https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht-podcast-a-8870b321-ea8c-49d5-a7c1-d94e0b8fd28c#ref=rss)
+* [https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht](https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht-a-a0128f8d-1734-4fa3-9498-1d7960c1185c#ref=rss)
+### incels
 
-* [https://www.spiegel.de/ausland/gaza-indonesien-will-1000-zivilisten-aufnehmen](https://www.spiegel.de/ausland/gaza-indonesien-will-1000-zivilisten-aufnehmen-a-4dc9bc00-89d7-4114-b272-6466dd5a19c9#ref=rss)
-### bedingungsloses
+* [https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht-podcast](https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht-podcast-a-8870b321-ea8c-49d5-a7c1-d94e0b8fd28c#ref=rss)
+* [https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht](https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht-a-a0128f8d-1734-4fa3-9498-1d7960c1185c#ref=rss)
+### manosphere
 
-* [https://www.spiegel.de/wirtschaft/soziales/bedingungsloses-grundeinkommen-das-sind-die-ergebnisse-der-langzeitstudie](https://www.spiegel.de/wirtschaft/soziales/bedingungsloses-grundeinkommen-das-sind-die-ergebnisse-der-langzeitstudie-a-b7a2d281-4041-4706-8fdd-cb91f19bcc2a#ref=rss)
-### grundeinkommen
+* [https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht-podcast](https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht-podcast-a-8870b321-ea8c-49d5-a7c1-d94e0b8fd28c#ref=rss)
+* [https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht](https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht-a-a0128f8d-1734-4fa3-9498-1d7960c1185c#ref=rss)
+### markus
 
-* [https://www.spiegel.de/wirtschaft/soziales/bedingungsloses-grundeinkommen-das-sind-die-ergebnisse-der-langzeitstudie](https://www.spiegel.de/wirtschaft/soziales/bedingungsloses-grundeinkommen-das-sind-die-ergebnisse-der-langzeitstudie-a-b7a2d281-4041-4706-8fdd-cb91f19bcc2a#ref=rss)
-### ergebnisse
+* [https://www.spiegel.de/politik/deutschland/der-koalitionsvertrag-steht-liebesheirat-und-duzmaennerfreundschaft](https://www.spiegel.de/politik/deutschland/der-koalitionsvertrag-steht-liebesheirat-und-duzmaennerfreundschaft-a-c9bd9fc0-8d30-4f5f-b2ff-04640bb3f8ab#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/politischer-auftritt-markus-soeder-irritiert-mit-gags-bei-koalitionsvertrag-praesentation](https://www.spiegel.de/politik/deutschland/politischer-auftritt-markus-soeder-irritiert-mit-gags-bei-koalitionsvertrag-praesentation-a-f720437a-1ff4-4946-941a-ca24da554690#ref=rss)
+### söder
 
-* [https://www.spiegel.de/wirtschaft/soziales/bedingungsloses-grundeinkommen-das-sind-die-ergebnisse-der-langzeitstudie](https://www.spiegel.de/wirtschaft/soziales/bedingungsloses-grundeinkommen-das-sind-die-ergebnisse-der-langzeitstudie-a-b7a2d281-4041-4706-8fdd-cb91f19bcc2a#ref=rss)
-### fc
+* [https://www.spiegel.de/politik/deutschland/der-koalitionsvertrag-steht-liebesheirat-und-duzmaennerfreundschaft](https://www.spiegel.de/politik/deutschland/der-koalitionsvertrag-steht-liebesheirat-und-duzmaennerfreundschaft-a-c9bd9fc0-8d30-4f5f-b2ff-04640bb3f8ab#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/politischer-auftritt-markus-soeder-irritiert-mit-gags-bei-koalitionsvertrag-praesentation](https://www.spiegel.de/politik/deutschland/politischer-auftritt-markus-soeder-irritiert-mit-gags-bei-koalitionsvertrag-praesentation-a-f720437a-1ff4-4946-941a-ca24da554690#ref=rss)
+### bekannt
 
-* [https://www.spiegel.de/sport/fussball/fc-barcelona-wie-heiko-westermann-marcus-sorg-und-toni-tapalovic-im-flick-team-landeten](https://www.spiegel.de/sport/fussball/fc-barcelona-wie-heiko-westermann-marcus-sorg-und-toni-tapalovic-im-flick-team-landeten-a-002109e6-d2f2-4c26-aaf4-204fda6979bc#ref=rss)
-### barcelona
+* [https://www.spiegel.de/panorama/mutmasslicher-dreifachmord-im-westerwald-was-ueber-den-tatverdaechtigen-bekannt-ist](https://www.spiegel.de/panorama/mutmasslicher-dreifachmord-im-westerwald-was-ueber-den-tatverdaechtigen-bekannt-ist-a-c49e28de-6634-467b-80d3-82005b813c13#ref=rss)
+* [https://www.spiegel.de/panorama/leute/christian-lindner-und-franca-lehfeldt-geben-geburt-ihrer-tochter-bekannt](https://www.spiegel.de/panorama/leute/christian-lindner-und-franca-lehfeldt-geben-geburt-ihrer-tochter-bekannt-a-5a073a40-6316-4252-8e83-ffdbaf851f42#ref=rss)
+### regierung
 
-* [https://www.spiegel.de/sport/fussball/fc-barcelona-wie-heiko-westermann-marcus-sorg-und-toni-tapalovic-im-flick-team-landeten](https://www.spiegel.de/sport/fussball/fc-barcelona-wie-heiko-westermann-marcus-sorg-und-toni-tapalovic-im-flick-team-landeten-a-002109e6-d2f2-4c26-aaf4-204fda6979bc#ref=rss)
-### heiko
-
-* [https://www.spiegel.de/sport/fussball/fc-barcelona-wie-heiko-westermann-marcus-sorg-und-toni-tapalovic-im-flick-team-landeten](https://www.spiegel.de/sport/fussball/fc-barcelona-wie-heiko-westermann-marcus-sorg-und-toni-tapalovic-im-flick-team-landeten-a-002109e6-d2f2-4c26-aaf4-204fda6979bc#ref=rss)
-### westermann
-
-* [https://www.spiegel.de/sport/fussball/fc-barcelona-wie-heiko-westermann-marcus-sorg-und-toni-tapalovic-im-flick-team-landeten](https://www.spiegel.de/sport/fussball/fc-barcelona-wie-heiko-westermann-marcus-sorg-und-toni-tapalovic-im-flick-team-landeten-a-002109e6-d2f2-4c26-aaf4-204fda6979bc#ref=rss)
-### marcus
-
-* [https://www.spiegel.de/sport/fussball/fc-barcelona-wie-heiko-westermann-marcus-sorg-und-toni-tapalovic-im-flick-team-landeten](https://www.spiegel.de/sport/fussball/fc-barcelona-wie-heiko-westermann-marcus-sorg-und-toni-tapalovic-im-flick-team-landeten-a-002109e6-d2f2-4c26-aaf4-204fda6979bc#ref=rss)
-### sorg
-
-* [https://www.spiegel.de/sport/fussball/fc-barcelona-wie-heiko-westermann-marcus-sorg-und-toni-tapalovic-im-flick-team-landeten](https://www.spiegel.de/sport/fussball/fc-barcelona-wie-heiko-westermann-marcus-sorg-und-toni-tapalovic-im-flick-team-landeten-a-002109e6-d2f2-4c26-aaf4-204fda6979bc#ref=rss)
-### toni
-
-* [https://www.spiegel.de/sport/fussball/fc-barcelona-wie-heiko-westermann-marcus-sorg-und-toni-tapalovic-im-flick-team-landeten](https://www.spiegel.de/sport/fussball/fc-barcelona-wie-heiko-westermann-marcus-sorg-und-toni-tapalovic-im-flick-team-landeten-a-002109e6-d2f2-4c26-aaf4-204fda6979bc#ref=rss)
-### tapalović
-
-* [https://www.spiegel.de/sport/fussball/fc-barcelona-wie-heiko-westermann-marcus-sorg-und-toni-tapalovic-im-flick-team-landeten](https://www.spiegel.de/sport/fussball/fc-barcelona-wie-heiko-westermann-marcus-sorg-und-toni-tapalovic-im-flick-team-landeten-a-002109e6-d2f2-4c26-aaf4-204fda6979bc#ref=rss)
-### setzt
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-kyjiw-setzt-auf-entlastungsangriffe-bei-belgorod-die-hintergruende](https://www.spiegel.de/ausland/ukraine-krieg-kyjiw-setzt-auf-entlastungsangriffe-bei-belgorod-die-hintergruende-a-d677a579-352b-4cae-b699-0d3de2f4d189#ref=rss)
-* [https://www.spiegel.de/wirtschaft/us-zoelle-dax-startet-mit-minus-von-2-5-prozent-in-den-handel](https://www.spiegel.de/wirtschaft/us-zoelle-dax-startet-mit-minus-von-2-5-prozent-in-den-handel-a-85410edd-a185-4720-93aa-dc24808acbee#ref=rss)
-### belgorod
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-kyjiw-setzt-auf-entlastungsangriffe-bei-belgorod-die-hintergruende](https://www.spiegel.de/ausland/ukraine-krieg-kyjiw-setzt-auf-entlastungsangriffe-bei-belgorod-die-hintergruende-a-d677a579-352b-4cae-b699-0d3de2f4d189#ref=rss)
-### nachmittag
-
+* [https://www.spiegel.de/politik/deutschland/das-buendnis-der-zaghaften](https://www.spiegel.de/politik/deutschland/das-buendnis-der-zaghaften-a-0cd5257f-bb70-4d49-aec3-b7a238d3a615#ref=rss)
 * [https://www.spiegel.de/politik/deutschland/union-und-spd-einigen-sich-auf-koalitionsvertrag](https://www.spiegel.de/politik/deutschland/union-und-spd-einigen-sich-auf-koalitionsvertrag-a-44afd212-1761-4ff9-9394-90ac67a9d239#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/union-und-spd-koalitionsgespraeche-sollen-am-nachmittag-abgeschlossen-werden](https://www.spiegel.de/politik/deutschland/union-und-spd-koalitionsgespraeche-sollen-am-nachmittag-abgeschlossen-werden-a-e68ef671-0a0a-4bd0-989e-524d3c9f5242#ref=rss)
-### entwicklungen
-
-* [https://www.spiegel.de/politik/deutschland/union-und-spd-einigen-sich-auf-koalitionsvertrag](https://www.spiegel.de/politik/deutschland/union-und-spd-einigen-sich-auf-koalitionsvertrag-a-44afd212-1761-4ff9-9394-90ac67a9d239#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-zoelle-news-heute-investoren-stossen-massenhaft-us-staatsanleihen-ab](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-zoelle-news-heute-investoren-stossen-massenhaft-us-staatsanleihen-ab-a-a4c8dcd6-a148-4968-99a8-b19b2285e2d7#ref=rss)
-### bundeskabinett
-
-* [https://www.spiegel.de/wirtschaft/soziales/politik-und-gleichberechtigung-forderung-nach-festen-quoten-im-bundeskabinett](https://www.spiegel.de/wirtschaft/soziales/politik-und-gleichberechtigung-forderung-nach-festen-quoten-im-bundeskabinett-a-7a77f160-80f8-4cab-8e05-bdd60e659134#ref=rss)
-### hochzeitsfeier
-
-* [https://www.spiegel.de/panorama/justiz/fuerth-toedliche-schuesse-bei-hochzeitsfeier-verdaechtiger-ausgeliefert](https://www.spiegel.de/panorama/justiz/fuerth-toedliche-schuesse-bei-hochzeitsfeier-verdaechtiger-ausgeliefert-a-e7e46395-4b26-43ad-9f57-3eeef5a32e76#ref=rss)
-### stellt
-
-* [https://www.spiegel.de/panorama/justiz/fuerth-toedliche-schuesse-bei-hochzeitsfeier-verdaechtiger-ausgeliefert](https://www.spiegel.de/panorama/justiz/fuerth-toedliche-schuesse-bei-hochzeitsfeier-verdaechtiger-ausgeliefert-a-e7e46395-4b26-43ad-9f57-3eeef5a32e76#ref=rss)
-* [https://www.spiegel.de/panorama/olivia-jones-drag-kuenstlerin-aus-hamburg-st-pauli-stellt-beinscheiben-aus](https://www.spiegel.de/panorama/olivia-jones-drag-kuenstlerin-aus-hamburg-st-pauli-stellt-beinscheiben-aus-a-8b290b32-103e-4dd8-b9de-9a299c847684#ref=rss)
-### alexander
-
-* [https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-nach-fruehem-aus-in-monaco-ratlos](https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-nach-fruehem-aus-in-monaco-ratlos-a-f743fa3d-9cd2-4ed2-a3d9-9e2ae069c758#ref=rss)
-### zverev
-
-* [https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-nach-fruehem-aus-in-monaco-ratlos](https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-nach-fruehem-aus-in-monaco-ratlos-a-f743fa3d-9cd2-4ed2-a3d9-9e2ae069c758#ref=rss)
-### monaco
-
-* [https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-nach-fruehem-aus-in-monaco-ratlos](https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-nach-fruehem-aus-in-monaco-ratlos-a-f743fa3d-9cd2-4ed2-a3d9-9e2ae069c758#ref=rss)
-### ratlos
-
-* [https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-nach-fruehem-aus-in-monaco-ratlos](https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-nach-fruehem-aus-in-monaco-ratlos-a-f743fa3d-9cd2-4ed2-a3d9-9e2ae069c758#ref=rss)
-### ölpreise
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-zoelle-news-heute-investoren-stossen-massenhaft-us-staatsanleihen-ab](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-zoelle-news-heute-investoren-stossen-massenhaft-us-staatsanleihen-ab-a-a4c8dcd6-a148-4968-99a8-b19b2285e2d7#ref=rss)
-### uszölle
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-zoelle-news-heute-investoren-stossen-massenhaft-us-staatsanleihen-ab](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-zoelle-news-heute-investoren-stossen-massenhaft-us-staatsanleihen-ab-a-a4c8dcd6-a148-4968-99a8-b19b2285e2d7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/us-zoelle-dax-startet-mit-minus-von-2-5-prozent-in-den-handel](https://www.spiegel.de/wirtschaft/us-zoelle-dax-startet-mit-minus-von-2-5-prozent-in-den-handel-a-85410edd-a185-4720-93aa-dc24808acbee#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/ukraine-peking-bestreitet-einsatz-vieler-chinesischer-soldaten](https://www.spiegel.de/ausland/ukraine-peking-bestreitet-einsatz-vieler-chinesischer-soldaten-a-997741e5-9d19-44ed-81a6-aea6a170b340#ref=rss)
-### peking
-
-* [https://www.spiegel.de/ausland/ukraine-peking-bestreitet-einsatz-vieler-chinesischer-soldaten](https://www.spiegel.de/ausland/ukraine-peking-bestreitet-einsatz-vieler-chinesischer-soldaten-a-997741e5-9d19-44ed-81a6-aea6a170b340#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/ausland/ukraine-peking-bestreitet-einsatz-vieler-chinesischer-soldaten](https://www.spiegel.de/ausland/ukraine-peking-bestreitet-einsatz-vieler-chinesischer-soldaten-a-997741e5-9d19-44ed-81a6-aea6a170b340#ref=rss)
-* [https://www.spiegel.de/auto/blitzermarathon-am-mittwoch-kontrolliert-die-polizei-in-vielen-bundeslaendern-besonders-streng](https://www.spiegel.de/auto/blitzermarathon-am-mittwoch-kontrolliert-die-polizei-in-vielen-bundeslaendern-besonders-streng-a-e49711ec-74ec-4411-a7c7-a007e0b637bc#ref=rss)
-### weit
-
-* [https://www.spiegel.de/ausland/ukraine-peking-bestreitet-einsatz-vieler-chinesischer-soldaten](https://www.spiegel.de/ausland/ukraine-peking-bestreitet-einsatz-vieler-chinesischer-soldaten-a-997741e5-9d19-44ed-81a6-aea6a170b340#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/gaia-x-galileo-limux-warum-europa-meistens-an-der-digitalen-souveraenitaet-scheitert](https://www.spiegel.de/netzwelt/netzpolitik/gaia-x-galileo-limux-warum-europa-meistens-an-der-digitalen-souveraenitaet-scheitert-a-f7114aa7-8445-461d-b0ee-1598c312e0cd#ref=rss)
-### völlig
-
-* [https://www.spiegel.de/ausland/ukraine-peking-bestreitet-einsatz-vieler-chinesischer-soldaten](https://www.spiegel.de/ausland/ukraine-peking-bestreitet-einsatz-vieler-chinesischer-soldaten-a-997741e5-9d19-44ed-81a6-aea6a170b340#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/winfried-kretschmann-gruene-wir-muessen-mehr-arbeiten](https://www.spiegel.de/politik/deutschland/winfried-kretschmann-gruene-wir-muessen-mehr-arbeiten-a-2ee5d830-304c-4be0-861a-b0283724f7b3#ref=rss)
-### marvin
-
-* [https://www.spiegel.de/kultur/kino/marvin-levy-ist-tot-pr-mann-von-steven-spielberg-mit-oscar-ehrung-gestorben](https://www.spiegel.de/kultur/kino/marvin-levy-ist-tot-pr-mann-von-steven-spielberg-mit-oscar-ehrung-gestorben-a-1a6a5886-e080-49ac-91f1-129a545a1df2#ref=rss)
-### levy
-
-* [https://www.spiegel.de/kultur/kino/marvin-levy-ist-tot-pr-mann-von-steven-spielberg-mit-oscar-ehrung-gestorben](https://www.spiegel.de/kultur/kino/marvin-levy-ist-tot-pr-mann-von-steven-spielberg-mit-oscar-ehrung-gestorben-a-1a6a5886-e080-49ac-91f1-129a545a1df2#ref=rss)
-### steven
-
-* [https://www.spiegel.de/kultur/kino/marvin-levy-ist-tot-pr-mann-von-steven-spielberg-mit-oscar-ehrung-gestorben](https://www.spiegel.de/kultur/kino/marvin-levy-ist-tot-pr-mann-von-steven-spielberg-mit-oscar-ehrung-gestorben-a-1a6a5886-e080-49ac-91f1-129a545a1df2#ref=rss)
-### gestorben
-
-* [https://www.spiegel.de/kultur/kino/marvin-levy-ist-tot-pr-mann-von-steven-spielberg-mit-oscar-ehrung-gestorben](https://www.spiegel.de/kultur/kino/marvin-levy-ist-tot-pr-mann-von-steven-spielberg-mit-oscar-ehrung-gestorben-a-1a6a5886-e080-49ac-91f1-129a545a1df2#ref=rss)
-### temu
-
-* [https://www.spiegel.de/wirtschaft/temu-handelsverband-geht-beim-bundeskartellamt-gegen-chinesische-shopping-plattform-vor](https://www.spiegel.de/wirtschaft/temu-handelsverband-geht-beim-bundeskartellamt-gegen-chinesische-shopping-plattform-vor-a-eb10d5a0-ef5f-43e9-9688-87b354641944#ref=rss)
-### handelsverband
-
-* [https://www.spiegel.de/wirtschaft/temu-handelsverband-geht-beim-bundeskartellamt-gegen-chinesische-shopping-plattform-vor](https://www.spiegel.de/wirtschaft/temu-handelsverband-geht-beim-bundeskartellamt-gegen-chinesische-shopping-plattform-vor-a-eb10d5a0-ef5f-43e9-9688-87b354641944#ref=rss)
-### shoppingplattform
-
-* [https://www.spiegel.de/wirtschaft/temu-handelsverband-geht-beim-bundeskartellamt-gegen-chinesische-shopping-plattform-vor](https://www.spiegel.de/wirtschaft/temu-handelsverband-geht-beim-bundeskartellamt-gegen-chinesische-shopping-plattform-vor-a-eb10d5a0-ef5f-43e9-9688-87b354641944#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/wirtschaft/temu-handelsverband-geht-beim-bundeskartellamt-gegen-chinesische-shopping-plattform-vor](https://www.spiegel.de/wirtschaft/temu-handelsverband-geht-beim-bundeskartellamt-gegen-chinesische-shopping-plattform-vor-a-eb10d5a0-ef5f-43e9-9688-87b354641944#ref=rss)
-* [https://www.spiegel.de/panorama/olivia-jones-drag-kuenstlerin-aus-hamburg-st-pauli-stellt-beinscheiben-aus](https://www.spiegel.de/panorama/olivia-jones-drag-kuenstlerin-aus-hamburg-st-pauli-stellt-beinscheiben-aus-a-8b290b32-103e-4dd8-b9de-9a299c847684#ref=rss)
-### griechenland
-
-* [https://www.spiegel.de/wirtschaft/griechenland-landesweiter-streik-legt-land-lahm](https://www.spiegel.de/wirtschaft/griechenland-landesweiter-streik-legt-land-lahm-a-7212b7a9-fcfb-43b9-a354-49ae9ed90a93#ref=rss)
-### streik
-
-* [https://www.spiegel.de/wirtschaft/griechenland-landesweiter-streik-legt-land-lahm](https://www.spiegel.de/wirtschaft/griechenland-landesweiter-streik-legt-land-lahm-a-7212b7a9-fcfb-43b9-a354-49ae9ed90a93#ref=rss)
-### weltweit
-
-* [https://www.spiegel.de/wirtschaft/allianz-versicherung-sieht-politische-unruhen-als-wachsendes-risiko-fuer-unternehmen](https://www.spiegel.de/wirtschaft/allianz-versicherung-sieht-politische-unruhen-als-wachsendes-risiko-fuer-unternehmen-a-af5ab8f3-5281-4efd-89c6-719f705577a1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/us-zoelle-dax-startet-mit-minus-von-2-5-prozent-in-den-handel](https://www.spiegel.de/wirtschaft/us-zoelle-dax-startet-mit-minus-von-2-5-prozent-in-den-handel-a-85410edd-a185-4720-93aa-dc24808acbee#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/wirtschaft/allianz-versicherung-sieht-politische-unruhen-als-wachsendes-risiko-fuer-unternehmen](https://www.spiegel.de/wirtschaft/allianz-versicherung-sieht-politische-unruhen-als-wachsendes-risiko-fuer-unternehmen-a-af5ab8f3-5281-4efd-89c6-719f705577a1#ref=rss)
-* [https://www.spiegel.de/panorama/olivia-jones-drag-kuenstlerin-aus-hamburg-st-pauli-stellt-beinscheiben-aus](https://www.spiegel.de/panorama/olivia-jones-drag-kuenstlerin-aus-hamburg-st-pauli-stellt-beinscheiben-aus-a-8b290b32-103e-4dd8-b9de-9a299c847684#ref=rss)
-### roberto
-
-* [https://www.spiegel.de/wirtschaft/ruestung-manager-roberto-cingolani-ueber-verteidigung-wir-sollten-nicht-zulassen-dass-die-nato-zerfaellt](https://www.spiegel.de/wirtschaft/ruestung-manager-roberto-cingolani-ueber-verteidigung-wir-sollten-nicht-zulassen-dass-die-nato-zerfaellt-a-78c026e6-cd5c-4ec7-a331-96b09487de27#ref=rss)
-### cingolani
-
-* [https://www.spiegel.de/wirtschaft/ruestung-manager-roberto-cingolani-ueber-verteidigung-wir-sollten-nicht-zulassen-dass-die-nato-zerfaellt](https://www.spiegel.de/wirtschaft/ruestung-manager-roberto-cingolani-ueber-verteidigung-wir-sollten-nicht-zulassen-dass-die-nato-zerfaellt-a-78c026e6-cd5c-4ec7-a331-96b09487de27#ref=rss)
-### wir
-
-* [https://www.spiegel.de/wirtschaft/ruestung-manager-roberto-cingolani-ueber-verteidigung-wir-sollten-nicht-zulassen-dass-die-nato-zerfaellt](https://www.spiegel.de/wirtschaft/ruestung-manager-roberto-cingolani-ueber-verteidigung-wir-sollten-nicht-zulassen-dass-die-nato-zerfaellt-a-78c026e6-cd5c-4ec7-a331-96b09487de27#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/winfried-kretschmann-gruene-wir-muessen-mehr-arbeiten](https://www.spiegel.de/politik/deutschland/winfried-kretschmann-gruene-wir-muessen-mehr-arbeiten-a-2ee5d830-304c-4be0-861a-b0283724f7b3#ref=rss)
-### sollten
-
-* [https://www.spiegel.de/wirtschaft/ruestung-manager-roberto-cingolani-ueber-verteidigung-wir-sollten-nicht-zulassen-dass-die-nato-zerfaellt](https://www.spiegel.de/wirtschaft/ruestung-manager-roberto-cingolani-ueber-verteidigung-wir-sollten-nicht-zulassen-dass-die-nato-zerfaellt-a-78c026e6-cd5c-4ec7-a331-96b09487de27#ref=rss)
-* [https://www.spiegel.de/wirtschaft/reform-der-altersvorsorge-warum-die-aktienrente-jetzt-wichtiger-denn-je-ist](https://www.spiegel.de/wirtschaft/reform-der-altersvorsorge-warum-die-aktienrente-jetzt-wichtiger-denn-je-ist-a-c1a468c0-5247-44c8-b74d-67b7f211475e#ref=rss)
-### tempo
-
-* [https://www.spiegel.de/wirtschaft/ruestung-manager-roberto-cingolani-ueber-verteidigung-wir-sollten-nicht-zulassen-dass-die-nato-zerfaellt](https://www.spiegel.de/wirtschaft/ruestung-manager-roberto-cingolani-ueber-verteidigung-wir-sollten-nicht-zulassen-dass-die-nato-zerfaellt-a-78c026e6-cd5c-4ec7-a331-96b09487de27#ref=rss)
-* [https://www.spiegel.de/auto/blitzermarathon-am-mittwoch-kontrolliert-die-polizei-in-vielen-bundeslaendern-besonders-streng](https://www.spiegel.de/auto/blitzermarathon-am-mittwoch-kontrolliert-die-polizei-in-vielen-bundeslaendern-besonders-streng-a-e49711ec-74ec-4411-a7c7-a007e0b637bc#ref=rss)
-### usa
-
-* [https://www.spiegel.de/wirtschaft/ruestung-manager-roberto-cingolani-ueber-verteidigung-wir-sollten-nicht-zulassen-dass-die-nato-zerfaellt](https://www.spiegel.de/wirtschaft/ruestung-manager-roberto-cingolani-ueber-verteidigung-wir-sollten-nicht-zulassen-dass-die-nato-zerfaellt-a-78c026e6-cd5c-4ec7-a331-96b09487de27#ref=rss)
-* [https://www.spiegel.de/panorama/leute/annalena-baerbock-toechter-sollen-feuer-und-flamme-fuer-umzug-nach-new-york-sein](https://www.spiegel.de/panorama/leute/annalena-baerbock-toechter-sollen-feuer-und-flamme-fuer-umzug-nach-new-york-sein-a-817689c9-bcdc-485d-bf5c-b194731110ad#ref=rss)
-### diego
-
-* [https://www.spiegel.de/sport/fussball/diego-maradona-ex-frau-und-arzt-erheben-vorwuerfe-im-todesprozess](https://www.spiegel.de/sport/fussball/diego-maradona-ex-frau-und-arzt-erheben-vorwuerfe-im-todesprozess-a-aa0e78b0-18a7-4a7f-92c4-bd7a125c3f3e#ref=rss)
-### maradona
-
-* [https://www.spiegel.de/sport/fussball/diego-maradona-ex-frau-und-arzt-erheben-vorwuerfe-im-todesprozess](https://www.spiegel.de/sport/fussball/diego-maradona-ex-frau-und-arzt-erheben-vorwuerfe-im-todesprozess-a-aa0e78b0-18a7-4a7f-92c4-bd7a125c3f3e#ref=rss)
-### exfrau
-
-* [https://www.spiegel.de/sport/fussball/diego-maradona-ex-frau-und-arzt-erheben-vorwuerfe-im-todesprozess](https://www.spiegel.de/sport/fussball/diego-maradona-ex-frau-und-arzt-erheben-vorwuerfe-im-todesprozess-a-aa0e78b0-18a7-4a7f-92c4-bd7a125c3f3e#ref=rss)
-### arzt
-
-* [https://www.spiegel.de/sport/fussball/diego-maradona-ex-frau-und-arzt-erheben-vorwuerfe-im-todesprozess](https://www.spiegel.de/sport/fussball/diego-maradona-ex-frau-und-arzt-erheben-vorwuerfe-im-todesprozess-a-aa0e78b0-18a7-4a7f-92c4-bd7a125c3f3e#ref=rss)
-### früherer
-
-* [https://www.spiegel.de/sport/fussball/diego-maradona-ex-frau-und-arzt-erheben-vorwuerfe-im-todesprozess](https://www.spiegel.de/sport/fussball/diego-maradona-ex-frau-und-arzt-erheben-vorwuerfe-im-todesprozess-a-aa0e78b0-18a7-4a7f-92c4-bd7a125c3f3e#ref=rss)
-* [https://www.spiegel.de/sport/baseball-octavio-dotel-stirbt-bei-disco-unglueck-in-der-dominikanischen-republik](https://www.spiegel.de/sport/baseball-octavio-dotel-stirbt-bei-disco-unglueck-in-der-dominikanischen-republik-a-b69f50d1-385f-4e7e-9a88-6a07b4bb5ba8#ref=rss)
-### rudi
-
-* [https://www.spiegel.de/sport/fussball/rudi-voeller-dfb-sportdirektor-verlaengert-vertrag-bis-2028](https://www.spiegel.de/sport/fussball/rudi-voeller-dfb-sportdirektor-verlaengert-vertrag-bis-2028-a-0f0f287b-0a24-4d2f-96de-783034fd576a#ref=rss)
-### völler
-
-* [https://www.spiegel.de/sport/fussball/rudi-voeller-dfb-sportdirektor-verlaengert-vertrag-bis-2028](https://www.spiegel.de/sport/fussball/rudi-voeller-dfb-sportdirektor-verlaengert-vertrag-bis-2028-a-0f0f287b-0a24-4d2f-96de-783034fd576a#ref=rss)
-### annalena
-
-* [https://www.spiegel.de/panorama/leute/annalena-baerbock-toechter-sollen-feuer-und-flamme-fuer-umzug-nach-new-york-sein](https://www.spiegel.de/panorama/leute/annalena-baerbock-toechter-sollen-feuer-und-flamme-fuer-umzug-nach-new-york-sein-a-817689c9-bcdc-485d-bf5c-b194731110ad#ref=rss)
-### baerbock
-
-* [https://www.spiegel.de/panorama/leute/annalena-baerbock-toechter-sollen-feuer-und-flamme-fuer-umzug-nach-new-york-sein](https://www.spiegel.de/panorama/leute/annalena-baerbock-toechter-sollen-feuer-und-flamme-fuer-umzug-nach-new-york-sein-a-817689c9-bcdc-485d-bf5c-b194731110ad#ref=rss)
-### töchter
-
-* [https://www.spiegel.de/panorama/leute/annalena-baerbock-toechter-sollen-feuer-und-flamme-fuer-umzug-nach-new-york-sein](https://www.spiegel.de/panorama/leute/annalena-baerbock-toechter-sollen-feuer-und-flamme-fuer-umzug-nach-new-york-sein-a-817689c9-bcdc-485d-bf5c-b194731110ad#ref=rss)
-### winfried
-
-* [https://www.spiegel.de/politik/deutschland/winfried-kretschmann-gruene-wir-muessen-mehr-arbeiten](https://www.spiegel.de/politik/deutschland/winfried-kretschmann-gruene-wir-muessen-mehr-arbeiten-a-2ee5d830-304c-4be0-861a-b0283724f7b3#ref=rss)
-### kretschmann
-
-* [https://www.spiegel.de/politik/deutschland/winfried-kretschmann-gruene-wir-muessen-mehr-arbeiten](https://www.spiegel.de/politik/deutschland/winfried-kretschmann-gruene-wir-muessen-mehr-arbeiten-a-2ee5d830-304c-4be0-861a-b0283724f7b3#ref=rss)
-### mittwoch
-
-* [https://www.spiegel.de/auto/blitzermarathon-am-mittwoch-kontrolliert-die-polizei-in-vielen-bundeslaendern-besonders-streng](https://www.spiegel.de/auto/blitzermarathon-am-mittwoch-kontrolliert-die-polizei-in-vielen-bundeslaendern-besonders-streng-a-e49711ec-74ec-4411-a7c7-a007e0b637bc#ref=rss)
-### streng
-
-* [https://www.spiegel.de/auto/blitzermarathon-am-mittwoch-kontrolliert-die-polizei-in-vielen-bundeslaendern-besonders-streng](https://www.spiegel.de/auto/blitzermarathon-am-mittwoch-kontrolliert-die-polizei-in-vielen-bundeslaendern-besonders-streng-a-e49711ec-74ec-4411-a7c7-a007e0b637bc#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/auto/blitzermarathon-am-mittwoch-kontrolliert-die-polizei-in-vielen-bundeslaendern-besonders-streng](https://www.spiegel.de/auto/blitzermarathon-am-mittwoch-kontrolliert-die-polizei-in-vielen-bundeslaendern-besonders-streng-a-e49711ec-74ec-4411-a7c7-a007e0b637bc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/us-zoelle-dax-startet-mit-minus-von-2-5-prozent-in-den-handel](https://www.spiegel.de/wirtschaft/us-zoelle-dax-startet-mit-minus-von-2-5-prozent-in-den-handel-a-85410edd-a185-4720-93aa-dc24808acbee#ref=rss)
-### zeigen
-
-* [https://www.spiegel.de/politik/deutschland/union-und-spd-koalitionsgespraeche-sollen-am-nachmittag-abgeschlossen-werden](https://www.spiegel.de/politik/deutschland/union-und-spd-koalitionsgespraeche-sollen-am-nachmittag-abgeschlossen-werden-a-e68ef671-0a0a-4bd0-989e-524d3c9f5242#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/gaia-x-galileo-limux-warum-europa-meistens-an-der-digitalen-souveraenitaet-scheitert](https://www.spiegel.de/netzwelt/netzpolitik/gaia-x-galileo-limux-warum-europa-meistens-an-der-digitalen-souveraenitaet-scheitert-a-f7114aa7-8445-461d-b0ee-1598c312e0cd#ref=rss)
-### olivia
-
-* [https://www.spiegel.de/panorama/olivia-jones-drag-kuenstlerin-aus-hamburg-st-pauli-stellt-beinscheiben-aus](https://www.spiegel.de/panorama/olivia-jones-drag-kuenstlerin-aus-hamburg-st-pauli-stellt-beinscheiben-aus-a-8b290b32-103e-4dd8-b9de-9a299c847684#ref=rss)
-### jones
-
-* [https://www.spiegel.de/panorama/olivia-jones-drag-kuenstlerin-aus-hamburg-st-pauli-stellt-beinscheiben-aus](https://www.spiegel.de/panorama/olivia-jones-drag-kuenstlerin-aus-hamburg-st-pauli-stellt-beinscheiben-aus-a-8b290b32-103e-4dd8-b9de-9a299c847684#ref=rss)
-### dragkünstlerin
-
-* [https://www.spiegel.de/panorama/olivia-jones-drag-kuenstlerin-aus-hamburg-st-pauli-stellt-beinscheiben-aus](https://www.spiegel.de/panorama/olivia-jones-drag-kuenstlerin-aus-hamburg-st-pauli-stellt-beinscheiben-aus-a-8b290b32-103e-4dd8-b9de-9a299c847684#ref=rss)
-### altersvorsorge
-
-* [https://www.spiegel.de/wirtschaft/reform-der-altersvorsorge-warum-die-aktienrente-jetzt-wichtiger-denn-je-ist](https://www.spiegel.de/wirtschaft/reform-der-altersvorsorge-warum-die-aktienrente-jetzt-wichtiger-denn-je-ist-a-c1a468c0-5247-44c8-b74d-67b7f211475e#ref=rss)
-### börsen
-
-* [https://www.spiegel.de/wirtschaft/reform-der-altersvorsorge-warum-die-aktienrente-jetzt-wichtiger-denn-je-ist](https://www.spiegel.de/wirtschaft/reform-der-altersvorsorge-warum-die-aktienrente-jetzt-wichtiger-denn-je-ist-a-c1a468c0-5247-44c8-b74d-67b7f211475e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/us-zoelle-dax-startet-mit-minus-von-2-5-prozent-in-den-handel](https://www.spiegel.de/wirtschaft/us-zoelle-dax-startet-mit-minus-von-2-5-prozent-in-den-handel-a-85410edd-a185-4720-93aa-dc24808acbee#ref=rss)
-### setzen
-
-* [https://www.spiegel.de/wirtschaft/reform-der-altersvorsorge-warum-die-aktienrente-jetzt-wichtiger-denn-je-ist](https://www.spiegel.de/wirtschaft/reform-der-altersvorsorge-warum-die-aktienrente-jetzt-wichtiger-denn-je-ist-a-c1a468c0-5247-44c8-b74d-67b7f211475e#ref=rss)
-* [https://www.spiegel.de/stil/mad-men-bis-the-white-lotus-wie-serien-modetrends-setzen](https://www.spiegel.de/stil/mad-men-bis-the-white-lotus-wie-serien-modetrends-setzen-a-69c55cd5-2bd0-49d6-99e0-06d290cd3eca#ref=rss)
-### serien
-
-* [https://www.spiegel.de/stil/mad-men-bis-the-white-lotus-wie-serien-modetrends-setzen](https://www.spiegel.de/stil/mad-men-bis-the-white-lotus-wie-serien-modetrends-setzen-a-69c55cd5-2bd0-49d6-99e0-06d290cd3eca#ref=rss)
-### dax
-
-* [https://www.spiegel.de/wirtschaft/us-zoelle-dax-startet-mit-minus-von-2-5-prozent-in-den-handel](https://www.spiegel.de/wirtschaft/us-zoelle-dax-startet-mit-minus-von-2-5-prozent-in-den-handel-a-85410edd-a185-4720-93aa-dc24808acbee#ref=rss)
-### 25
-
-* [https://www.spiegel.de/wirtschaft/us-zoelle-dax-startet-mit-minus-von-2-5-prozent-in-den-handel](https://www.spiegel.de/wirtschaft/us-zoelle-dax-startet-mit-minus-von-2-5-prozent-in-den-handel-a-85410edd-a185-4720-93aa-dc24808acbee#ref=rss)
-### unter
-
-* [https://www.spiegel.de/wirtschaft/us-zoelle-dax-startet-mit-minus-von-2-5-prozent-in-den-handel](https://www.spiegel.de/wirtschaft/us-zoelle-dax-startet-mit-minus-von-2-5-prozent-in-den-handel-a-85410edd-a185-4720-93aa-dc24808acbee#ref=rss)
-* [https://www.spiegel.de/sport/baseball-octavio-dotel-stirbt-bei-disco-unglueck-in-der-dominikanischen-republik](https://www.spiegel.de/sport/baseball-octavio-dotel-stirbt-bei-disco-unglueck-in-der-dominikanischen-republik-a-b69f50d1-385f-4e7e-9a88-6a07b4bb5ba8#ref=rss)
-### kaiserslautern
-
-* [https://www.spiegel.de/panorama/justiz/a6-in-kaiserslautern-radelnder-geisterfahrer-polizei-stoppt-essenslieferanten](https://www.spiegel.de/panorama/justiz/a6-in-kaiserslautern-radelnder-geisterfahrer-polizei-stoppt-essenslieferanten-a-2b8d4a46-e01d-46a9-b493-d2789b3dcbb1#ref=rss)
-### octavio
-
-* [https://www.spiegel.de/sport/baseball-octavio-dotel-stirbt-bei-disco-unglueck-in-der-dominikanischen-republik](https://www.spiegel.de/sport/baseball-octavio-dotel-stirbt-bei-disco-unglueck-in-der-dominikanischen-republik-a-b69f50d1-385f-4e7e-9a88-6a07b4bb5ba8#ref=rss)
-### dotel
-
-* [https://www.spiegel.de/sport/baseball-octavio-dotel-stirbt-bei-disco-unglueck-in-der-dominikanischen-republik](https://www.spiegel.de/sport/baseball-octavio-dotel-stirbt-bei-disco-unglueck-in-der-dominikanischen-republik-a-b69f50d1-385f-4e7e-9a88-6a07b4bb5ba8#ref=rss)
-### dominikanischen
-
-* [https://www.spiegel.de/sport/baseball-octavio-dotel-stirbt-bei-disco-unglueck-in-der-dominikanischen-republik](https://www.spiegel.de/sport/baseball-octavio-dotel-stirbt-bei-disco-unglueck-in-der-dominikanischen-republik-a-b69f50d1-385f-4e7e-9a88-6a07b4bb5ba8#ref=rss)
-### republik
-
-* [https://www.spiegel.de/sport/baseball-octavio-dotel-stirbt-bei-disco-unglueck-in-der-dominikanischen-republik](https://www.spiegel.de/sport/baseball-octavio-dotel-stirbt-bei-disco-unglueck-in-der-dominikanischen-republik-a-b69f50d1-385f-4e7e-9a88-6a07b4bb5ba8#ref=rss)
+* [https://www.spiegel.de/panorama/mordvorhersage-per-algorithmus-wie-die-britische-regierung-gewalttaten-verhindern-will](https://www.spiegel.de/panorama/mordvorhersage-per-algorithmus-wie-die-britische-regierung-gewalttaten-verhindern-will-a-b0517b59-c419-48a9-a019-8adef3681294#ref=rss)
 ### zölle
 
-* [https://www.spiegel.de/wirtschaft/donald-trump-ordnet-zusaetzliche-zoelle-auf-geringwertige-waren-aus-china-an](https://www.spiegel.de/wirtschaft/donald-trump-ordnet-zusaetzliche-zoelle-auf-geringwertige-waren-aus-china-an-a-a50ac47a-d42b-48e2-a617-0d3ea3143abf#ref=rss)
-### geringwertige
+* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-zoelle-news-heute-investoren-stossen-massenhaft-us-staatsanleihen-ab](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-zoelle-news-heute-investoren-stossen-massenhaft-us-staatsanleihen-ab-a-a4c8dcd6-a148-4968-99a8-b19b2285e2d7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-schwarz-rote-koalition-donald-trump-zoelle-china-touristen-in-den-usa](https://www.spiegel.de/politik/deutschland/news-des-tages-schwarz-rote-koalition-donald-trump-zoelle-china-touristen-in-den-usa-a-6cde5dc8-a99d-4d36-83bd-989346075667#ref=rss)
+### nachlesen
 
-* [https://www.spiegel.de/wirtschaft/donald-trump-ordnet-zusaetzliche-zoelle-auf-geringwertige-waren-aus-china-an](https://www.spiegel.de/wirtschaft/donald-trump-ordnet-zusaetzliche-zoelle-auf-geringwertige-waren-aus-china-an-a-a50ac47a-d42b-48e2-a617-0d3ea3143abf#ref=rss)
-### waren
+* [https://www.spiegel.de/politik/deutschland/union-und-spd-einigen-sich-auf-koalitionsvertrag](https://www.spiegel.de/politik/deutschland/union-und-spd-einigen-sich-auf-koalitionsvertrag-a-44afd212-1761-4ff9-9394-90ac67a9d239#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/union-und-spd-einigen-sich-hier-koennen-sie-den-koalitionsvertrag-lesen](https://www.spiegel.de/politik/deutschland/union-und-spd-einigen-sich-hier-koennen-sie-den-koalitionsvertrag-lesen-a-597c6ce8-1e46-4a5b-9b27-a4e9a190e6d3#ref=rss)
+### eigentlich
 
-* [https://www.spiegel.de/wirtschaft/donald-trump-ordnet-zusaetzliche-zoelle-auf-geringwertige-waren-aus-china-an](https://www.spiegel.de/wirtschaft/donald-trump-ordnet-zusaetzliche-zoelle-auf-geringwertige-waren-aus-china-an-a-a50ac47a-d42b-48e2-a617-0d3ea3143abf#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/union-und-spd-einigen-sich-hier-koennen-sie-den-koalitionsvertrag-lesen](https://www.spiegel.de/politik/deutschland/union-und-spd-einigen-sich-hier-koennen-sie-den-koalitionsvertrag-lesen-a-597c6ce8-1e46-4a5b-9b27-a4e9a190e6d3#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-declan-rice-vom-fc-arsenal-gegen-real-madrid-anatomie-eines-fussballwunders](https://www.spiegel.de/sport/fussball/champions-league-declan-rice-vom-fc-arsenal-gegen-real-madrid-anatomie-eines-fussballwunders-a-b122327b-b002-4ed3-8ff4-de3acfd49705#ref=rss)
+### wohl
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-sechsjaehrige-ghada-verliert-arm-nach-israelischem-angriff](https://www.spiegel.de/ausland/israel-gaza-krieg-sechsjaehrige-ghada-verliert-arm-nach-israelischem-angriff-a-e475f39d-c309-4745-802f-070d15b40860#ref=rss)
+* [https://www.spiegel.de/reise/so-schuetzen-sie-sich-vor-betrug-beim-ticketkauf](https://www.spiegel.de/reise/so-schuetzen-sie-sich-vor-betrug-beim-ticketkauf-a-2a550f64-0e5e-4cf9-97ab-1575435c6e32#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/malta-jaeger-und-sammler-reisten-schon-vor-8500-jahren-auf-die-insel](https://www.spiegel.de/wissenschaft/mensch/malta-jaeger-und-sammler-reisten-schon-vor-8500-jahren-auf-die-insel-a-1ac0bc13-4990-4d4f-ae49-1c9786f9d54b#ref=rss)
+### china
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-zoelle-news-heute-investoren-stossen-massenhaft-us-staatsanleihen-ab](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-zoelle-news-heute-investoren-stossen-massenhaft-us-staatsanleihen-ab-a-a4c8dcd6-a148-4968-99a8-b19b2285e2d7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-schwarz-rote-koalition-donald-trump-zoelle-china-touristen-in-den-usa](https://www.spiegel.de/politik/deutschland/news-des-tages-schwarz-rote-koalition-donald-trump-zoelle-china-touristen-in-den-usa-a-6cde5dc8-a99d-4d36-83bd-989346075667#ref=rss)
+### geben
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-zoelle-news-heute-investoren-stossen-massenhaft-us-staatsanleihen-ab](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-zoelle-news-heute-investoren-stossen-massenhaft-us-staatsanleihen-ab-a-a4c8dcd6-a148-4968-99a8-b19b2285e2d7#ref=rss)
+* [https://www.spiegel.de/panorama/leute/christian-lindner-und-franca-lehfeldt-geben-geburt-ihrer-tochter-bekannt](https://www.spiegel.de/panorama/leute/christian-lindner-und-franca-lehfeldt-geben-geburt-ihrer-tochter-bekannt-a-5a073a40-6316-4252-8e83-ffdbaf851f42#ref=rss)
+### barbie
+
+* [https://www.spiegel.de/panorama/leute/barbie-lebron-james-wird-erster-kenbassador](https://www.spiegel.de/panorama/leute/barbie-lebron-james-wird-erster-kenbassador-a-03b11746-6950-41d9-87a1-f2a19cbd762e#ref=rss)
+### lebron
+
+* [https://www.spiegel.de/panorama/leute/barbie-lebron-james-wird-erster-kenbassador](https://www.spiegel.de/panorama/leute/barbie-lebron-james-wird-erster-kenbassador-a-03b11746-6950-41d9-87a1-f2a19cbd762e#ref=rss)
+### james
+
+* [https://www.spiegel.de/panorama/leute/barbie-lebron-james-wird-erster-kenbassador](https://www.spiegel.de/panorama/leute/barbie-lebron-james-wird-erster-kenbassador-a-03b11746-6950-41d9-87a1-f2a19cbd762e#ref=rss)
+### erster
+
+* [https://www.spiegel.de/panorama/leute/barbie-lebron-james-wird-erster-kenbassador](https://www.spiegel.de/panorama/leute/barbie-lebron-james-wird-erster-kenbassador-a-03b11746-6950-41d9-87a1-f2a19cbd762e#ref=rss)
+### botschaft
+
+* [https://www.spiegel.de/panorama/leute/barbie-lebron-james-wird-erster-kenbassador](https://www.spiegel.de/panorama/leute/barbie-lebron-james-wird-erster-kenbassador-a-03b11746-6950-41d9-87a1-f2a19cbd762e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/union-und-spd-stellen-koalitionsvertrag-vor-germany-is-back-on-track](https://www.spiegel.de/politik/deutschland/union-und-spd-stellen-koalitionsvertrag-vor-germany-is-back-on-track-a-1df44cb2-aa03-45fe-a73f-59e70b1d21bc#ref=rss)
+### tages
+
+* [https://www.spiegel.de/politik/deutschland/union-und-spd-einigen-sich-auf-koalitionsvertrag](https://www.spiegel.de/politik/deutschland/union-und-spd-einigen-sich-auf-koalitionsvertrag-a-44afd212-1761-4ff9-9394-90ac67a9d239#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-schwarz-rote-koalition-donald-trump-zoelle-china-touristen-in-den-usa](https://www.spiegel.de/politik/deutschland/news-des-tages-schwarz-rote-koalition-donald-trump-zoelle-china-touristen-in-den-usa-a-6cde5dc8-a99d-4d36-83bd-989346075667#ref=rss)
+### siegfried
+
+* [https://www.spiegel.de/kultur/literatur/verleger-siegfried-unseld-war-mitglied-der-nsdap](https://www.spiegel.de/kultur/literatur/verleger-siegfried-unseld-war-mitglied-der-nsdap-a-d7063906-bb87-4769-971f-6c930534f72b#ref=rss)
+### unseld
+
+* [https://www.spiegel.de/kultur/literatur/verleger-siegfried-unseld-war-mitglied-der-nsdap](https://www.spiegel.de/kultur/literatur/verleger-siegfried-unseld-war-mitglied-der-nsdap-a-d7063906-bb87-4769-971f-6c930534f72b#ref=rss)
+### mitglied
+
+* [https://www.spiegel.de/kultur/literatur/verleger-siegfried-unseld-war-mitglied-der-nsdap](https://www.spiegel.de/kultur/literatur/verleger-siegfried-unseld-war-mitglied-der-nsdap-a-d7063906-bb87-4769-971f-6c930534f72b#ref=rss)
+### nsdap
+
+* [https://www.spiegel.de/kultur/literatur/verleger-siegfried-unseld-war-mitglied-der-nsdap](https://www.spiegel.de/kultur/literatur/verleger-siegfried-unseld-war-mitglied-der-nsdap-a-d7063906-bb87-4769-971f-6c930534f72b#ref=rss)
+### netflixserie
+
+* [https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht-podcast](https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht-podcast-a-8870b321-ea8c-49d5-a7c1-d94e0b8fd28c#ref=rss)
+* [https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht](https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht-a-a0128f8d-1734-4fa3-9498-1d7960c1185c#ref=rss)
+### entfacht
+
+* [https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht-podcast](https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht-podcast-a-8870b321-ea8c-49d5-a7c1-d94e0b8fd28c#ref=rss)
+* [https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht](https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht-a-a0128f8d-1734-4fa3-9498-1d7960c1185c#ref=rss)
+### erfolgsserie
+
+* [https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht-podcast](https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht-podcast-a-8870b321-ea8c-49d5-a7c1-d94e0b8fd28c#ref=rss)
+* [https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht](https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht-a-a0128f8d-1734-4fa3-9498-1d7960c1185c#ref=rss)
+### löst
+
+* [https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht-podcast](https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht-podcast-a-8870b321-ea8c-49d5-a7c1-d94e0b8fd28c#ref=rss)
+* [https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht](https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht-a-a0128f8d-1734-4fa3-9498-1d7960c1185c#ref=rss)
+### emojis
+
+* [https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht-podcast](https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht-podcast-a-8870b321-ea8c-49d5-a7c1-d94e0b8fd28c#ref=rss)
+* [https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht](https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht-a-a0128f8d-1734-4fa3-9498-1d7960c1185c#ref=rss)
+### arno
+
+* [https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht-podcast](https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht-podcast-a-8870b321-ea8c-49d5-a7c1-d94e0b8fd28c#ref=rss)
+* [https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht](https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht-a-a0128f8d-1734-4fa3-9498-1d7960c1185c#ref=rss)
+### frank
+
+* [https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht-podcast](https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht-podcast-a-8870b321-ea8c-49d5-a7c1-d94e0b8fd28c#ref=rss)
+* [https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht](https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht-a-a0128f8d-1734-4fa3-9498-1d7960c1185c#ref=rss)
+### spiegel
+
+* [https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht-podcast](https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht-podcast-a-8870b321-ea8c-49d5-a7c1-d94e0b8fd28c#ref=rss)
+* [https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht](https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht-a-a0128f8d-1734-4fa3-9498-1d7960c1185c#ref=rss)
+### recherchiert
+
+* [https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht-podcast](https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht-podcast-a-8870b321-ea8c-49d5-a7c1-d94e0b8fd28c#ref=rss)
+* [https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht](https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht-a-a0128f8d-1734-4fa3-9498-1d7960c1185c#ref=rss)
+### hinter
+
+* [https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht-podcast](https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht-podcast-a-8870b321-ea8c-49d5-a7c1-d94e0b8fd28c#ref=rss)
+* [https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht](https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht-a-a0128f8d-1734-4fa3-9498-1d7960c1185c#ref=rss)
+### begriffen
+
+* [https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht-podcast](https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht-podcast-a-8870b321-ea8c-49d5-a7c1-d94e0b8fd28c#ref=rss)
+* [https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht](https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht-a-a0128f8d-1734-4fa3-9498-1d7960c1185c#ref=rss)
+### steckt
+
+* [https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht-podcast](https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht-podcast-a-8870b321-ea8c-49d5-a7c1-d94e0b8fd28c#ref=rss)
+* [https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht](https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht-a-a0128f8d-1734-4fa3-9498-1d7960c1185c#ref=rss)
+### serie
+
+* [https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht-podcast](https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht-podcast-a-8870b321-ea8c-49d5-a7c1-d94e0b8fd28c#ref=rss)
+* [https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht](https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht-a-a0128f8d-1734-4fa3-9498-1d7960c1185c#ref=rss)
+### unterricht
+
+* [https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht-podcast](https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht-podcast-a-8870b321-ea8c-49d5-a7c1-d94e0b8fd28c#ref=rss)
+* [https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht](https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht-a-a0128f8d-1734-4fa3-9498-1d7960c1185c#ref=rss)
+### eignet
+
+* [https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht-podcast](https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht-podcast-a-8870b321-ea8c-49d5-a7c1-d94e0b8fd28c#ref=rss)
+* [https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht](https://www.spiegel.de/kultur/tv/netflix-serie-adolescence-debatte-ueber-incels-und-manosphere-entfacht-a-a0128f8d-1734-4fa3-9498-1d7960c1185c#ref=rss)
+### merz
+
+* [https://www.spiegel.de/wirtschaft/service/koalitionsvertrag-von-union-und-spd-welche-entlastungen-fuer-verbraucher](https://www.spiegel.de/wirtschaft/service/koalitionsvertrag-von-union-und-spd-welche-entlastungen-fuer-verbraucher-a-b61e9b2d-a399-4452-9788-5508296ed002#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/union-und-spd-stellen-koalitionsvertrag-vor-germany-is-back-on-track](https://www.spiegel.de/politik/deutschland/union-und-spd-stellen-koalitionsvertrag-vor-germany-is-back-on-track-a-1df44cb2-aa03-45fe-a73f-59e70b1d21bc#ref=rss)
+### gags
+
+* [https://www.spiegel.de/politik/deutschland/politischer-auftritt-markus-soeder-irritiert-mit-gags-bei-koalitionsvertrag-praesentation](https://www.spiegel.de/politik/deutschland/politischer-auftritt-markus-soeder-irritiert-mit-gags-bei-koalitionsvertrag-praesentation-a-f720437a-1ff4-4946-941a-ca24da554690#ref=rss)
+### allem
+
+* [https://www.spiegel.de/politik/deutschland/politischer-auftritt-markus-soeder-irritiert-mit-gags-bei-koalitionsvertrag-praesentation](https://www.spiegel.de/politik/deutschland/politischer-auftritt-markus-soeder-irritiert-mit-gags-bei-koalitionsvertrag-praesentation-a-f720437a-1ff4-4946-941a-ca24da554690#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/union-und-spd-einigen-sich-hier-koennen-sie-den-koalitionsvertrag-lesen](https://www.spiegel.de/politik/deutschland/union-und-spd-einigen-sich-hier-koennen-sie-den-koalitionsvertrag-lesen-a-597c6ce8-1e46-4a5b-9b27-a4e9a190e6d3#ref=rss)
+### mutter
+
+* [https://www.spiegel.de/ausland/israel-hamas-krieg-mutter-trauert-um-getoeteten-helfer-rifaat-radwan](https://www.spiegel.de/ausland/israel-hamas-krieg-mutter-trauert-um-getoeteten-helfer-rifaat-radwan-a-0b64c60f-0638-4c8f-8c04-a2b24305af42#ref=rss)
+### helfer
+
+* [https://www.spiegel.de/ausland/israel-hamas-krieg-mutter-trauert-um-getoeteten-helfer-rifaat-radwan](https://www.spiegel.de/ausland/israel-hamas-krieg-mutter-trauert-um-getoeteten-helfer-rifaat-radwan-a-0b64c60f-0638-4c8f-8c04-a2b24305af42#ref=rss)
+### rifaat
+
+* [https://www.spiegel.de/ausland/israel-hamas-krieg-mutter-trauert-um-getoeteten-helfer-rifaat-radwan](https://www.spiegel.de/ausland/israel-hamas-krieg-mutter-trauert-um-getoeteten-helfer-rifaat-radwan-a-0b64c60f-0638-4c8f-8c04-a2b24305af42#ref=rss)
+### radwan
+
+* [https://www.spiegel.de/ausland/israel-hamas-krieg-mutter-trauert-um-getoeteten-helfer-rifaat-radwan](https://www.spiegel.de/ausland/israel-hamas-krieg-mutter-trauert-um-getoeteten-helfer-rifaat-radwan-a-0b64c60f-0638-4c8f-8c04-a2b24305af42#ref=rss)
+### später
+
+* [https://www.spiegel.de/ausland/israel-hamas-krieg-mutter-trauert-um-getoeteten-helfer-rifaat-radwan](https://www.spiegel.de/ausland/israel-hamas-krieg-mutter-trauert-um-getoeteten-helfer-rifaat-radwan-a-0b64c60f-0638-4c8f-8c04-a2b24305af42#ref=rss)
+### algorithmus
+
+* [https://www.spiegel.de/panorama/mordvorhersage-per-algorithmus-wie-die-britische-regierung-gewalttaten-verhindern-will](https://www.spiegel.de/panorama/mordvorhersage-per-algorithmus-wie-die-britische-regierung-gewalttaten-verhindern-will-a-b0517b59-c419-48a9-a019-8adef3681294#ref=rss)
+### britische
+
+* [https://www.spiegel.de/panorama/mordvorhersage-per-algorithmus-wie-die-britische-regierung-gewalttaten-verhindern-will](https://www.spiegel.de/panorama/mordvorhersage-per-algorithmus-wie-die-britische-regierung-gewalttaten-verhindern-will-a-b0517b59-c419-48a9-a019-8adef3681294#ref=rss)
+### christian
+
+* [https://www.spiegel.de/panorama/leute/christian-lindner-und-franca-lehfeldt-geben-geburt-ihrer-tochter-bekannt](https://www.spiegel.de/panorama/leute/christian-lindner-und-franca-lehfeldt-geben-geburt-ihrer-tochter-bekannt-a-5a073a40-6316-4252-8e83-ffdbaf851f42#ref=rss)
+### lindner
+
+* [https://www.spiegel.de/panorama/leute/christian-lindner-und-franca-lehfeldt-geben-geburt-ihrer-tochter-bekannt](https://www.spiegel.de/panorama/leute/christian-lindner-und-franca-lehfeldt-geben-geburt-ihrer-tochter-bekannt-a-5a073a40-6316-4252-8e83-ffdbaf851f42#ref=rss)
+### franca
+
+* [https://www.spiegel.de/panorama/leute/christian-lindner-und-franca-lehfeldt-geben-geburt-ihrer-tochter-bekannt](https://www.spiegel.de/panorama/leute/christian-lindner-und-franca-lehfeldt-geben-geburt-ihrer-tochter-bekannt-a-5a073a40-6316-4252-8e83-ffdbaf851f42#ref=rss)
+### lehfeldt
+
+* [https://www.spiegel.de/panorama/leute/christian-lindner-und-franca-lehfeldt-geben-geburt-ihrer-tochter-bekannt](https://www.spiegel.de/panorama/leute/christian-lindner-und-franca-lehfeldt-geben-geburt-ihrer-tochter-bekannt-a-5a073a40-6316-4252-8e83-ffdbaf851f42#ref=rss)
+### geburt
+
+* [https://www.spiegel.de/panorama/leute/christian-lindner-und-franca-lehfeldt-geben-geburt-ihrer-tochter-bekannt](https://www.spiegel.de/panorama/leute/christian-lindner-und-franca-lehfeldt-geben-geburt-ihrer-tochter-bekannt-a-5a073a40-6316-4252-8e83-ffdbaf851f42#ref=rss)
+### cdu
+
+* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-praesentieren-koalitionsvertrag-die-muss-ja-koalition](https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-praesentieren-koalitionsvertrag-die-muss-ja-koalition-a-4c969aa9-2ceb-435e-b818-d005efe75634#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/union-und-spd-einigen-sich-hier-koennen-sie-den-koalitionsvertrag-lesen](https://www.spiegel.de/politik/deutschland/union-und-spd-einigen-sich-hier-koennen-sie-den-koalitionsvertrag-lesen-a-597c6ce8-1e46-4a5b-9b27-a4e9a190e6d3#ref=rss)
+### csu
+
+* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-praesentieren-koalitionsvertrag-die-muss-ja-koalition](https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-praesentieren-koalitionsvertrag-die-muss-ja-koalition-a-4c969aa9-2ceb-435e-b818-d005efe75634#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/union-und-spd-einigen-sich-hier-koennen-sie-den-koalitionsvertrag-lesen](https://www.spiegel.de/politik/deutschland/union-und-spd-einigen-sich-hier-koennen-sie-den-koalitionsvertrag-lesen-a-597c6ce8-1e46-4a5b-9b27-a4e9a190e6d3#ref=rss)
+### gary
+
+* [https://www.spiegel.de/panorama/leute/gary-oldman-hollywood-star-erklaert-alkoholsucht-mit-phasen-voller-einsamkeit](https://www.spiegel.de/panorama/leute/gary-oldman-hollywood-star-erklaert-alkoholsucht-mit-phasen-voller-einsamkeit-a-5a006958-c2c6-492d-8d16-76373745cfe5#ref=rss)
+### oldman
+
+* [https://www.spiegel.de/panorama/leute/gary-oldman-hollywood-star-erklaert-alkoholsucht-mit-phasen-voller-einsamkeit](https://www.spiegel.de/panorama/leute/gary-oldman-hollywood-star-erklaert-alkoholsucht-mit-phasen-voller-einsamkeit-a-5a006958-c2c6-492d-8d16-76373745cfe5#ref=rss)
+### erklärt
+
+* [https://www.spiegel.de/panorama/leute/gary-oldman-hollywood-star-erklaert-alkoholsucht-mit-phasen-voller-einsamkeit](https://www.spiegel.de/panorama/leute/gary-oldman-hollywood-star-erklaert-alkoholsucht-mit-phasen-voller-einsamkeit-a-5a006958-c2c6-492d-8d16-76373745cfe5#ref=rss)
+* [https://www.spiegel.de/reise/so-schuetzen-sie-sich-vor-betrug-beim-ticketkauf](https://www.spiegel.de/reise/so-schuetzen-sie-sich-vor-betrug-beim-ticketkauf-a-2a550f64-0e5e-4cf9-97ab-1575435c6e32#ref=rss)
+### alkoholsucht
+
+* [https://www.spiegel.de/panorama/leute/gary-oldman-hollywood-star-erklaert-alkoholsucht-mit-phasen-voller-einsamkeit](https://www.spiegel.de/panorama/leute/gary-oldman-hollywood-star-erklaert-alkoholsucht-mit-phasen-voller-einsamkeit-a-5a006958-c2c6-492d-8d16-76373745cfe5#ref=rss)
+### voller
+
+* [https://www.spiegel.de/panorama/leute/gary-oldman-hollywood-star-erklaert-alkoholsucht-mit-phasen-voller-einsamkeit](https://www.spiegel.de/panorama/leute/gary-oldman-hollywood-star-erklaert-alkoholsucht-mit-phasen-voller-einsamkeit-a-5a006958-c2c6-492d-8d16-76373745cfe5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-und-union-aktuelle-statements-zu-koalitionsverhandlungen-im-livestream](https://www.spiegel.de/politik/deutschland/spd-und-union-aktuelle-statements-zu-koalitionsverhandlungen-im-livestream-a-2337bc08-1a45-4ab3-b9af-44f42d893e0b#ref=rss)
+### geschlechterunterschiede
+
+* [https://www.spiegel.de/start/geschlechterunterschiede-bei-der-berufswahl-die-zukunft-der-arbeit-kennt-keine-klischees](https://www.spiegel.de/start/geschlechterunterschiede-bei-der-berufswahl-die-zukunft-der-arbeit-kennt-keine-klischees-a-6f534575-c9a6-49b3-8341-6977526694f6#ref=rss)
+### wir
+
+* [https://www.spiegel.de/start/geschlechterunterschiede-bei-der-berufswahl-die-zukunft-der-arbeit-kennt-keine-klischees](https://www.spiegel.de/start/geschlechterunterschiede-bei-der-berufswahl-die-zukunft-der-arbeit-kennt-keine-klischees-a-6f534575-c9a6-49b3-8341-6977526694f6#ref=rss)
+### silvester
+
+* [https://www.spiegel.de/panorama/justiz/silvester-in-berlin-arabischer-influencer-nach-raketenschuss-verurteilt](https://www.spiegel.de/panorama/justiz/silvester-in-berlin-arabischer-influencer-nach-raketenschuss-verurteilt-a-7f1f7465-9452-48e1-a2b5-4e8185023b4c#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/panorama/justiz/silvester-in-berlin-arabischer-influencer-nach-raketenschuss-verurteilt](https://www.spiegel.de/panorama/justiz/silvester-in-berlin-arabischer-influencer-nach-raketenschuss-verurteilt-a-7f1f7465-9452-48e1-a2b5-4e8185023b4c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/union-und-spd-stellen-koalitionsvertrag-vor-germany-is-back-on-track](https://www.spiegel.de/politik/deutschland/union-und-spd-stellen-koalitionsvertrag-vor-germany-is-back-on-track-a-1df44cb2-aa03-45fe-a73f-59e70b1d21bc#ref=rss)
+### influencer
+
+* [https://www.spiegel.de/panorama/justiz/silvester-in-berlin-arabischer-influencer-nach-raketenschuss-verurteilt](https://www.spiegel.de/panorama/justiz/silvester-in-berlin-arabischer-influencer-nach-raketenschuss-verurteilt-a-7f1f7465-9452-48e1-a2b5-4e8185023b4c#ref=rss)
+### verurteilt
+
+* [https://www.spiegel.de/panorama/justiz/silvester-in-berlin-arabischer-influencer-nach-raketenschuss-verurteilt](https://www.spiegel.de/panorama/justiz/silvester-in-berlin-arabischer-influencer-nach-raketenschuss-verurteilt-a-7f1f7465-9452-48e1-a2b5-4e8185023b4c#ref=rss)
+### sechsjährige
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-sechsjaehrige-ghada-verliert-arm-nach-israelischem-angriff](https://www.spiegel.de/ausland/israel-gaza-krieg-sechsjaehrige-ghada-verliert-arm-nach-israelischem-angriff-a-e475f39d-c309-4745-802f-070d15b40860#ref=rss)
+### ghada
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-sechsjaehrige-ghada-verliert-arm-nach-israelischem-angriff](https://www.spiegel.de/ausland/israel-gaza-krieg-sechsjaehrige-ghada-verliert-arm-nach-israelischem-angriff-a-e475f39d-c309-4745-802f-070d15b40860#ref=rss)
+### arm
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-sechsjaehrige-ghada-verliert-arm-nach-israelischem-angriff](https://www.spiegel.de/ausland/israel-gaza-krieg-sechsjaehrige-ghada-verliert-arm-nach-israelischem-angriff-a-e475f39d-c309-4745-802f-070d15b40860#ref=rss)
+### angriff
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-sechsjaehrige-ghada-verliert-arm-nach-israelischem-angriff](https://www.spiegel.de/ausland/israel-gaza-krieg-sechsjaehrige-ghada-verliert-arm-nach-israelischem-angriff-a-e475f39d-c309-4745-802f-070d15b40860#ref=rss)
+### anja
+
+* [https://www.spiegel.de/sport/anja-blacha-deutsche-alpinistin-ueberlebt-lawine-und-erreicht-annapurna-gipfel](https://www.spiegel.de/sport/anja-blacha-deutsche-alpinistin-ueberlebt-lawine-und-erreicht-annapurna-gipfel-a-79cb78a7-507d-4ddf-9981-0ab84f623685#ref=rss)
+### blacha
+
+* [https://www.spiegel.de/sport/anja-blacha-deutsche-alpinistin-ueberlebt-lawine-und-erreicht-annapurna-gipfel](https://www.spiegel.de/sport/anja-blacha-deutsche-alpinistin-ueberlebt-lawine-und-erreicht-annapurna-gipfel-a-79cb78a7-507d-4ddf-9981-0ab84f623685#ref=rss)
+### alpinistin
+
+* [https://www.spiegel.de/sport/anja-blacha-deutsche-alpinistin-ueberlebt-lawine-und-erreicht-annapurna-gipfel](https://www.spiegel.de/sport/anja-blacha-deutsche-alpinistin-ueberlebt-lawine-und-erreicht-annapurna-gipfel-a-79cb78a7-507d-4ddf-9981-0ab84f623685#ref=rss)
+### koalition
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-schwarz-rote-koalition-donald-trump-zoelle-china-touristen-in-den-usa](https://www.spiegel.de/politik/deutschland/news-des-tages-schwarz-rote-koalition-donald-trump-zoelle-china-touristen-in-den-usa-a-6cde5dc8-a99d-4d36-83bd-989346075667#ref=rss)
+### touristen
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-schwarz-rote-koalition-donald-trump-zoelle-china-touristen-in-den-usa](https://www.spiegel.de/politik/deutschland/news-des-tages-schwarz-rote-koalition-donald-trump-zoelle-china-touristen-in-den-usa-a-6cde5dc8-a99d-4d36-83bd-989346075667#ref=rss)
+### usa
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-schwarz-rote-koalition-donald-trump-zoelle-china-touristen-in-den-usa](https://www.spiegel.de/politik/deutschland/news-des-tages-schwarz-rote-koalition-donald-trump-zoelle-china-touristen-in-den-usa-a-6cde5dc8-a99d-4d36-83bd-989346075667#ref=rss)
+### declan
+
+* [https://www.spiegel.de/sport/fussball/champions-league-declan-rice-vom-fc-arsenal-gegen-real-madrid-anatomie-eines-fussballwunders](https://www.spiegel.de/sport/fussball/champions-league-declan-rice-vom-fc-arsenal-gegen-real-madrid-anatomie-eines-fussballwunders-a-b122327b-b002-4ed3-8ff4-de3acfd49705#ref=rss)
+### rice
+
+* [https://www.spiegel.de/sport/fussball/champions-league-declan-rice-vom-fc-arsenal-gegen-real-madrid-anatomie-eines-fussballwunders](https://www.spiegel.de/sport/fussball/champions-league-declan-rice-vom-fc-arsenal-gegen-real-madrid-anatomie-eines-fussballwunders-a-b122327b-b002-4ed3-8ff4-de3acfd49705#ref=rss)
+### real
+
+* [https://www.spiegel.de/sport/fussball/champions-league-declan-rice-vom-fc-arsenal-gegen-real-madrid-anatomie-eines-fussballwunders](https://www.spiegel.de/sport/fussball/champions-league-declan-rice-vom-fc-arsenal-gegen-real-madrid-anatomie-eines-fussballwunders-a-b122327b-b002-4ed3-8ff4-de3acfd49705#ref=rss)
+### madrid
+
+* [https://www.spiegel.de/sport/fussball/champions-league-declan-rice-vom-fc-arsenal-gegen-real-madrid-anatomie-eines-fussballwunders](https://www.spiegel.de/sport/fussball/champions-league-declan-rice-vom-fc-arsenal-gegen-real-madrid-anatomie-eines-fussballwunders-a-b122327b-b002-4ed3-8ff4-de3acfd49705#ref=rss)
+### gleich
+
+* [https://www.spiegel.de/sport/fussball/champions-league-declan-rice-vom-fc-arsenal-gegen-real-madrid-anatomie-eines-fussballwunders](https://www.spiegel.de/sport/fussball/champions-league-declan-rice-vom-fc-arsenal-gegen-real-madrid-anatomie-eines-fussballwunders-a-b122327b-b002-4ed3-8ff4-de3acfd49705#ref=rss)
+* [https://www.spiegel.de/kultur/tv/comedian-tony-hinchcliffe-auf-netflix-was-war-noch-gleich-cancel-culture](https://www.spiegel.de/kultur/tv/comedian-tony-hinchcliffe-auf-netflix-was-war-noch-gleich-cancel-culture-a-e0e3097a-55d9-4bc4-990d-3bb696080baa#ref=rss)
+### comedian
+
+* [https://www.spiegel.de/kultur/tv/comedian-tony-hinchcliffe-auf-netflix-was-war-noch-gleich-cancel-culture](https://www.spiegel.de/kultur/tv/comedian-tony-hinchcliffe-auf-netflix-was-war-noch-gleich-cancel-culture-a-e0e3097a-55d9-4bc4-990d-3bb696080baa#ref=rss)
+### tony
+
+* [https://www.spiegel.de/kultur/tv/comedian-tony-hinchcliffe-auf-netflix-was-war-noch-gleich-cancel-culture](https://www.spiegel.de/kultur/tv/comedian-tony-hinchcliffe-auf-netflix-was-war-noch-gleich-cancel-culture-a-e0e3097a-55d9-4bc4-990d-3bb696080baa#ref=rss)
+### malta
+
+* [https://www.spiegel.de/wissenschaft/mensch/malta-jaeger-und-sammler-reisten-schon-vor-8500-jahren-auf-die-insel](https://www.spiegel.de/wissenschaft/mensch/malta-jaeger-und-sammler-reisten-schon-vor-8500-jahren-auf-die-insel-a-1ac0bc13-4990-4d4f-ae49-1c9786f9d54b#ref=rss)
+### insel
+
+* [https://www.spiegel.de/wissenschaft/mensch/malta-jaeger-und-sammler-reisten-schon-vor-8500-jahren-auf-die-insel](https://www.spiegel.de/wissenschaft/mensch/malta-jaeger-und-sammler-reisten-schon-vor-8500-jahren-auf-die-insel-a-1ac0bc13-4990-4d4f-ae49-1c9786f9d54b#ref=rss)
+### peter
+
+* [https://www.spiegel.de/ausland/donald-trump-seine-radikalen-einfluesterer-peter-navarro-und-laura-loomer](https://www.spiegel.de/ausland/donald-trump-seine-radikalen-einfluesterer-peter-navarro-und-laura-loomer-a-aafbac33-8adb-4a85-aa75-c56fe445ba34#ref=rss)
+### navarro
+
+* [https://www.spiegel.de/ausland/donald-trump-seine-radikalen-einfluesterer-peter-navarro-und-laura-loomer](https://www.spiegel.de/ausland/donald-trump-seine-radikalen-einfluesterer-peter-navarro-und-laura-loomer-a-aafbac33-8adb-4a85-aa75-c56fe445ba34#ref=rss)
+### statements
+
+* [https://www.spiegel.de/politik/deutschland/spd-und-union-aktuelle-statements-zu-koalitionsverhandlungen-im-livestream](https://www.spiegel.de/politik/deutschland/spd-und-union-aktuelle-statements-zu-koalitionsverhandlungen-im-livestream-a-2337bc08-1a45-4ab3-b9af-44f42d893e0b#ref=rss)
+### koalitionsverhandlungen
+
+* [https://www.spiegel.de/politik/deutschland/spd-und-union-aktuelle-statements-zu-koalitionsverhandlungen-im-livestream](https://www.spiegel.de/politik/deutschland/spd-und-union-aktuelle-statements-zu-koalitionsverhandlungen-im-livestream-a-2337bc08-1a45-4ab3-b9af-44f42d893e0b#ref=rss)
+### robbie
+
+* [https://www.spiegel.de/kultur/musik/robbie-williams-behauptet-bei-ihm-sei-skorbut-diagnostiziert-worden](https://www.spiegel.de/kultur/musik/robbie-williams-behauptet-bei-ihm-sei-skorbut-diagnostiziert-worden-a-02c79cff-f35c-4909-8134-bba2303bba5f#ref=rss)
+### williams
+
+* [https://www.spiegel.de/kultur/musik/robbie-williams-behauptet-bei-ihm-sei-skorbut-diagnostiziert-worden](https://www.spiegel.de/kultur/musik/robbie-williams-behauptet-bei-ihm-sei-skorbut-diagnostiziert-worden-a-02c79cff-f35c-4909-8134-bba2303bba5f#ref=rss)
 
