@@ -6,336 +6,343 @@ tags: __no_header__
 
 ### trump
 
-* [https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-institute-senken-wachstumsprognose-auf-0-1-prozent](https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-institute-senken-wachstumsprognose-auf-0-1-prozent-a-f445d3ae-240c-491b-b188-29cdc1e7c66b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-warum-kaempft-der-us-praesident-gegen-duschkoepfe](https://www.spiegel.de/wirtschaft/donald-trump-warum-kaempft-der-us-praesident-gegen-duschkoepfe-a-16a08eda-03b9-4fa2-abf8-a95f21efad95#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-die-zoelle-der-traum-von-den-turnschuh-naehenden-amerikanern](https://www.spiegel.de/wirtschaft/donald-trump-und-die-zoelle-der-traum-von-den-turnschuh-naehenden-amerikanern-a-22779454-de22-4993-9aaa-39ecf820b924#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-die-zoelle-chinas-amazon-verkaeufer-ziehen-sich-aus-den-usa-zurueck](https://www.spiegel.de/wirtschaft/donald-trump-und-die-zoelle-chinas-amazon-verkaeufer-ziehen-sich-aus-den-usa-zurueck-a-721aff05-fc84-4d4a-bea2-d525e844494f#ref=rss)
+* [https://www.spiegel.de/panorama/strafzoelle-von-donald-trump-erzgebirge-leidet-unter-us-zoellen-auf-nussknacker](https://www.spiegel.de/panorama/strafzoelle-von-donald-trump-erzgebirge-leidet-unter-us-zoellen-auf-nussknacker-a-fbbda578-82f5-4119-b75e-088a78321c45#ref=rss)
+* [https://www.spiegel.de/ausland/nahostkonflikt-trump-droht-iran-mit-bombardierung-vor-allem-israel-will-den-moment-von-teherans-schwaeche-nutzen](https://www.spiegel.de/ausland/nahostkonflikt-trump-droht-iran-mit-bombardierung-vor-allem-israel-will-den-moment-von-teherans-schwaeche-nutzen-a-c995f832-6b2f-42a7-91a7-7210819721ef#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-der-termintrick-beim-arzt-donald-trump-digitalministerium](https://www.spiegel.de/politik/deutschland/news-des-tages-der-termintrick-beim-arzt-donald-trump-digitalministerium-a-90be384c-e5bc-4930-8a14-d0cc67a1ecd1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-und-die-zoelle-hat-der-us-praesident-die-maerkte-manipuliert](https://www.spiegel.de/wirtschaft/donald-trump-und-die-zoelle-hat-der-us-praesident-die-maerkte-manipuliert-a-59c0ea38-9bc0-4b6b-963c-ba52921008e5#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-laesst-zoelle-vorerst-pausieren-warum-ist-er-doch-noch-eingeknickt](https://www.spiegel.de/ausland/donald-trump-laesst-zoelle-vorerst-pausieren-warum-ist-er-doch-noch-eingeknickt-a-d7346bd5-d33a-43dd-bf1d-9501b4cbdb9a#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-institute-senken-wachstumsprognose-auf-0-1-prozent](https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-institute-senken-wachstumsprognose-auf-0-1-prozent-a-f445d3ae-240c-491b-b188-29cdc1e7c66b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-warum-kaempft-der-us-praesident-gegen-duschkoepfe](https://www.spiegel.de/wirtschaft/donald-trump-warum-kaempft-der-us-praesident-gegen-duschkoepfe-a-16a08eda-03b9-4fa2-abf8-a95f21efad95#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-die-zoelle-der-traum-von-den-turnschuh-naehenden-amerikanern](https://www.spiegel.de/wirtschaft/donald-trump-und-die-zoelle-der-traum-von-den-turnschuh-naehenden-amerikanern-a-22779454-de22-4993-9aaa-39ecf820b924#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-die-zoelle-chinas-amazon-verkaeufer-ziehen-sich-aus-den-usa-zurueck](https://www.spiegel.de/wirtschaft/donald-trump-und-die-zoelle-chinas-amazon-verkaeufer-ziehen-sich-aus-den-usa-zurueck-a-721aff05-fc84-4d4a-bea2-d525e844494f#ref=rss)
-### frau
-
-* [https://www.spiegel.de/panorama/justiz/jillian-lauren-frau-des-weezer-bassisten-scott-shriner-wegen-versuchten-mordes-festgenommen](https://www.spiegel.de/panorama/justiz/jillian-lauren-frau-des-weezer-bassisten-scott-shriner-wegen-versuchten-mordes-festgenommen-a-b52d79db-9da3-45d2-89e7-ffac1e56ed11#ref=rss)
-* [https://www.spiegel.de/panorama/leute/ed-sheeran-wollte-eine-bowlingbahn-im-garten-seine-frau-verhinderte-das](https://www.spiegel.de/panorama/leute/ed-sheeran-wollte-eine-bowlingbahn-im-garten-seine-frau-verhinderte-das-a-04753bb5-a3f1-4f66-a8d2-b5a2dddd8e2b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/leuven-darf-ein-vergewaltiger-gynaekologe-werden-ja-sagt-ein-gericht-in-belgien](https://www.spiegel.de/panorama/justiz/leuven-darf-ein-vergewaltiger-gynaekologe-werden-ja-sagt-ein-gericht-in-belgien-a-f5e9f567-36aa-42ee-829a-4c808d98be7d#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-die-zoelle-der-traum-von-den-turnschuh-naehenden-amerikanern](https://www.spiegel.de/wirtschaft/donald-trump-und-die-zoelle-der-traum-von-den-turnschuh-naehenden-amerikanern-a-22779454-de22-4993-9aaa-39ecf820b924#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-florian-wirtz-steht-bei-bayer-leverkusen-nach-wochenlanger-verletzungspause-vor-comeback](https://www.spiegel.de/sport/fussball/fussball-bundesliga-florian-wirtz-steht-bei-bayer-leverkusen-nach-wochenlanger-verletzungspause-vor-comeback-a-ad0b3c89-239a-47e2-af17-9c2e67175d0f#ref=rss)
-* [https://www.spiegel.de/netzwelt/prozess-gegen-chatgpt-entwickler-openai-reicht-gegenklage-gegen-elon-musk-ein](https://www.spiegel.de/netzwelt/prozess-gegen-chatgpt-entwickler-openai-reicht-gegenklage-gegen-elon-musk-ein-a-50d36fa8-8bf5-4eb0-b178-4a3ae0f6004f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-die-zoelle-chinas-amazon-verkaeufer-ziehen-sich-aus-den-usa-zurueck](https://www.spiegel.de/wirtschaft/donald-trump-und-die-zoelle-chinas-amazon-verkaeufer-ziehen-sich-aus-den-usa-zurueck-a-721aff05-fc84-4d4a-bea2-d525e844494f#ref=rss)
-* [https://www.spiegel.de/auto/los-angeles-leeres-robotaxi-blockiert-drive-thru](https://www.spiegel.de/auto/los-angeles-leeres-robotaxi-blockiert-drive-thru-a-e9431c34-fdf5-479a-98c2-05bbc35fa866#ref=rss)
-### koalitionsvertrag
-
-* [https://www.spiegel.de/start/ausbildung-zahl-der-neuen-azubis-wieder-zurueckgegangen](https://www.spiegel.de/start/ausbildung-zahl-der-neuen-azubis-wieder-zurueckgegangen-a-1f29e9ff-15be-4db8-8df5-cf257d0f8a48#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/koalitionsvertrag-von-cdu-csu-und-spd-jens-spahn-zweifelt-an-rascher-mindestlohnerhoehung](https://www.spiegel.de/politik/deutschland/koalitionsvertrag-von-cdu-csu-und-spd-jens-spahn-zweifelt-an-rascher-mindestlohnerhoehung-a-cd899242-a5d7-496e-aa46-5a42abfdbaef#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/koalitionsvertrag-was-union-und-spd-fuer-das-land-wollen-themen-und-begriffe-in-der-datenanalyse](https://www.spiegel.de/politik/deutschland/koalitionsvertrag-was-union-und-spd-fuer-das-land-wollen-themen-und-begriffe-in-der-datenanalyse-a-763b63e3-cff8-416e-8d8c-bbf0c037e6e8#ref=rss)
-### zölle
-
-* [https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-institute-senken-wachstumsprognose-auf-0-1-prozent](https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-institute-senken-wachstumsprognose-auf-0-1-prozent-a-f445d3ae-240c-491b-b188-29cdc1e7c66b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-die-zoelle-der-traum-von-den-turnschuh-naehenden-amerikanern](https://www.spiegel.de/wirtschaft/donald-trump-und-die-zoelle-der-traum-von-den-turnschuh-naehenden-amerikanern-a-22779454-de22-4993-9aaa-39ecf820b924#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-die-zoelle-chinas-amazon-verkaeufer-ziehen-sich-aus-den-usa-zurueck](https://www.spiegel.de/wirtschaft/donald-trump-und-die-zoelle-chinas-amazon-verkaeufer-ziehen-sich-aus-den-usa-zurueck-a-721aff05-fc84-4d4a-bea2-d525e844494f#ref=rss)
-### los
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-warum-kaempft-der-us-praesident-gegen-duschkoepfe](https://www.spiegel.de/wirtschaft/donald-trump-warum-kaempft-der-us-praesident-gegen-duschkoepfe-a-16a08eda-03b9-4fa2-abf8-a95f21efad95#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/jillian-lauren-frau-des-weezer-bassisten-scott-shriner-wegen-versuchten-mordes-festgenommen](https://www.spiegel.de/panorama/justiz/jillian-lauren-frau-des-weezer-bassisten-scott-shriner-wegen-versuchten-mordes-festgenommen-a-b52d79db-9da3-45d2-89e7-ffac1e56ed11#ref=rss)
-* [https://www.spiegel.de/auto/los-angeles-leeres-robotaxi-blockiert-drive-thru](https://www.spiegel.de/auto/los-angeles-leeres-robotaxi-blockiert-drive-thru-a-e9431c34-fdf5-479a-98c2-05bbc35fa866#ref=rss)
+* [https://www.spiegel.de/panorama/strafzoelle-von-donald-trump-erzgebirge-leidet-unter-us-zoellen-auf-nussknacker](https://www.spiegel.de/panorama/strafzoelle-von-donald-trump-erzgebirge-leidet-unter-us-zoellen-auf-nussknacker-a-fbbda578-82f5-4119-b75e-088a78321c45#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-der-termintrick-beim-arzt-donald-trump-digitalministerium](https://www.spiegel.de/politik/deutschland/news-des-tages-der-termintrick-beim-arzt-donald-trump-digitalministerium-a-90be384c-e5bc-4930-8a14-d0cc67a1ecd1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-und-die-zoelle-hat-der-us-praesident-die-maerkte-manipuliert](https://www.spiegel.de/wirtschaft/donald-trump-und-die-zoelle-hat-der-us-praesident-die-maerkte-manipuliert-a-59c0ea38-9bc0-4b6b-963c-ba52921008e5#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-laesst-zoelle-vorerst-pausieren-warum-ist-er-doch-noch-eingeknickt](https://www.spiegel.de/ausland/donald-trump-laesst-zoelle-vorerst-pausieren-warum-ist-er-doch-noch-eingeknickt-a-d7346bd5-d33a-43dd-bf1d-9501b4cbdb9a#ref=rss)
 ### spd
 
-* [https://www.spiegel.de/politik/schwarz-rote-koalition-so-blickt-die-internationale-presse-auf-die-einigung](https://www.spiegel.de/politik/schwarz-rote-koalition-so-blickt-die-internationale-presse-auf-die-einigung-a-83ef7d2f-d2f9-4a3d-b60e-7a98335c1a7a#ref=rss)
-* [https://www.spiegel.de/start/ausbildung-zahl-der-neuen-azubis-wieder-zurueckgegangen](https://www.spiegel.de/start/ausbildung-zahl-der-neuen-azubis-wieder-zurueckgegangen-a-1f29e9ff-15be-4db8-8df5-cf257d0f8a48#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/koalitionsvertrag-von-cdu-csu-und-spd-jens-spahn-zweifelt-an-rascher-mindestlohnerhoehung](https://www.spiegel.de/politik/deutschland/koalitionsvertrag-von-cdu-csu-und-spd-jens-spahn-zweifelt-an-rascher-mindestlohnerhoehung-a-cd899242-a5d7-496e-aa46-5a42abfdbaef#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/koalitionsvertrag-was-union-und-spd-fuer-das-land-wollen-themen-und-begriffe-in-der-datenanalyse](https://www.spiegel.de/politik/deutschland/koalitionsvertrag-was-union-und-spd-fuer-das-land-wollen-themen-und-begriffe-in-der-datenanalyse-a-763b63e3-cff8-416e-8d8c-bbf0c037e6e8#ref=rss)
-### menschen
+* [https://www.spiegel.de/politik/deutschland/cdu-csu-spd-der-koalitionsvertrag-in-der-videoanalyse](https://www.spiegel.de/politik/deutschland/cdu-csu-spd-der-koalitionsvertrag-in-der-videoanalyse-a-dbba0b87-1e54-4331-8ed3-de14a6a6cb64#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-koalitionsgespraeche-waeren-fast-am-thema-steuern-gescheitert](https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-koalitionsgespraeche-waeren-fast-am-thema-steuern-gescheitert-a-4c8d733a-fe3d-452a-920f-89feb129795f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/koalitionsvertrag-im-quiz-was-ist-neu-im-vertrag-zwischen-union-und-spd](https://www.spiegel.de/politik/deutschland/koalitionsvertrag-im-quiz-was-ist-neu-im-vertrag-zwischen-union-und-spd-a-e29255aa-804b-4028-af6f-e0ee2bb4524e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-csu-spd-werden-wollen-sollen-das-bedeutet-das-wording-im-koalitionsvertrag](https://www.spiegel.de/politik/deutschland/cdu-csu-spd-werden-wollen-sollen-das-bedeutet-das-wording-im-koalitionsvertrag-a-01f5413b-47c3-4468-8786-a7a8fdb4a1f5#ref=rss)
+### koalitionsvertrag
 
-* [https://www.spiegel.de/sport/wintersport/ice-aged-zeigt-eiskunstlauf-bei-aelteren-menschen-eingefrorene-traeume](https://www.spiegel.de/sport/wintersport/ice-aged-zeigt-eiskunstlauf-bei-aelteren-menschen-eingefrorene-traeume-a-0d4a4971-defe-4842-b014-bf42dbf84816#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/statistisches-bundesamt-2-8-millionen-menschen-in-deutschland-haben-noch-nie-das-internet-genutzt](https://www.spiegel.de/netzwelt/web/statistisches-bundesamt-2-8-millionen-menschen-in-deutschland-haben-noch-nie-das-internet-genutzt-a-c89b5ef7-440d-4981-84ef-3be6c48856fc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-csu-spd-der-koalitionsvertrag-in-der-videoanalyse](https://www.spiegel.de/politik/deutschland/cdu-csu-spd-der-koalitionsvertrag-in-der-videoanalyse-a-dbba0b87-1e54-4331-8ed3-de14a6a6cb64#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/koalitionsvertrag-im-quiz-was-ist-neu-im-vertrag-zwischen-union-und-spd](https://www.spiegel.de/politik/deutschland/koalitionsvertrag-im-quiz-was-ist-neu-im-vertrag-zwischen-union-und-spd-a-e29255aa-804b-4028-af6f-e0ee2bb4524e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-csu-spd-werden-wollen-sollen-das-bedeutet-das-wording-im-koalitionsvertrag](https://www.spiegel.de/politik/deutschland/cdu-csu-spd-werden-wollen-sollen-das-bedeutet-das-wording-im-koalitionsvertrag-a-01f5413b-47c3-4468-8786-a7a8fdb4a1f5#ref=rss)
+### zölle
+
+* [https://www.spiegel.de/panorama/strafzoelle-von-donald-trump-erzgebirge-leidet-unter-us-zoellen-auf-nussknacker](https://www.spiegel.de/panorama/strafzoelle-von-donald-trump-erzgebirge-leidet-unter-us-zoellen-auf-nussknacker-a-fbbda578-82f5-4119-b75e-088a78321c45#ref=rss)
+* [https://www.spiegel.de/ausland/usa-weisses-haus-bestaetigt-zoelle-fuer-china-von-145-prozent](https://www.spiegel.de/ausland/usa-weisses-haus-bestaetigt-zoelle-fuer-china-von-145-prozent-a-256b1da9-d7c8-4bb9-8498-9b5065fb254d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-und-die-zoelle-hat-der-us-praesident-die-maerkte-manipuliert](https://www.spiegel.de/wirtschaft/donald-trump-und-die-zoelle-hat-der-us-praesident-die-maerkte-manipuliert-a-59c0ea38-9bc0-4b6b-963c-ba52921008e5#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-laesst-zoelle-vorerst-pausieren-warum-ist-er-doch-noch-eingeknickt](https://www.spiegel.de/ausland/donald-trump-laesst-zoelle-vorerst-pausieren-warum-ist-er-doch-noch-eingeknickt-a-d7346bd5-d33a-43dd-bf1d-9501b4cbdb9a#ref=rss)
 ### prozent
 
-* [https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-institute-senken-wachstumsprognose-auf-0-1-prozent](https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-institute-senken-wachstumsprognose-auf-0-1-prozent-a-f445d3ae-240c-491b-b188-29cdc1e7c66b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/migration-illegale-einreisen-in-die-eu-deutlich-zurueckgegangen](https://www.spiegel.de/politik/deutschland/migration-illegale-einreisen-in-die-eu-deutlich-zurueckgegangen-a-6396c664-6944-41d6-92a9-71265a66c427#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/statistisches-bundesamt-2-8-millionen-menschen-in-deutschland-haben-noch-nie-das-internet-genutzt](https://www.spiegel.de/netzwelt/web/statistisches-bundesamt-2-8-millionen-menschen-in-deutschland-haben-noch-nie-das-internet-genutzt-a-c89b5ef7-440d-4981-84ef-3be6c48856fc#ref=rss)
-### bleibt
+* [https://www.spiegel.de/panorama/strafzoelle-von-donald-trump-erzgebirge-leidet-unter-us-zoellen-auf-nussknacker](https://www.spiegel.de/panorama/strafzoelle-von-donald-trump-erzgebirge-leidet-unter-us-zoellen-auf-nussknacker-a-fbbda578-82f5-4119-b75e-088a78321c45#ref=rss)
+* [https://www.spiegel.de/ausland/usa-weisses-haus-bestaetigt-zoelle-fuer-china-von-145-prozent](https://www.spiegel.de/ausland/usa-weisses-haus-bestaetigt-zoelle-fuer-china-von-145-prozent-a-256b1da9-d7c8-4bb9-8498-9b5065fb254d#ref=rss)
+### erklärt
 
-* [https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-institute-senken-wachstumsprognose-auf-0-1-prozent](https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-institute-senken-wachstumsprognose-auf-0-1-prozent-a-f445d3ae-240c-491b-b188-29cdc1e7c66b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-die-zoelle-der-traum-von-den-turnschuh-naehenden-amerikanern](https://www.spiegel.de/wirtschaft/donald-trump-und-die-zoelle-der-traum-von-den-turnschuh-naehenden-amerikanern-a-22779454-de22-4993-9aaa-39ecf820b924#ref=rss)
-* [https://www.spiegel.de/panorama/muenchen-kindergartenkind-bleibt-mit-hand-in-parkscheinautomat-stecken](https://www.spiegel.de/panorama/muenchen-kindergartenkind-bleibt-mit-hand-in-parkscheinautomat-stecken-a-8b5d7387-9c15-42ca-a581-cb4d8f244c85#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-warum-kaempft-der-us-praesident-gegen-duschkoepfe](https://www.spiegel.de/wirtschaft/donald-trump-warum-kaempft-der-us-praesident-gegen-duschkoepfe-a-16a08eda-03b9-4fa2-abf8-a95f21efad95#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-die-zoelle-der-traum-von-den-turnschuh-naehenden-amerikanern](https://www.spiegel.de/wirtschaft/donald-trump-und-die-zoelle-der-traum-von-den-turnschuh-naehenden-amerikanern-a-22779454-de22-4993-9aaa-39ecf820b924#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-die-zoelle-chinas-amazon-verkaeufer-ziehen-sich-aus-den-usa-zurueck](https://www.spiegel.de/wirtschaft/donald-trump-und-die-zoelle-chinas-amazon-verkaeufer-ziehen-sich-aus-den-usa-zurueck-a-721aff05-fc84-4d4a-bea2-d525e844494f#ref=rss)
-### angeles
-
-* [https://www.spiegel.de/panorama/justiz/jillian-lauren-frau-des-weezer-bassisten-scott-shriner-wegen-versuchten-mordes-festgenommen](https://www.spiegel.de/panorama/justiz/jillian-lauren-frau-des-weezer-bassisten-scott-shriner-wegen-versuchten-mordes-festgenommen-a-b52d79db-9da3-45d2-89e7-ffac1e56ed11#ref=rss)
-* [https://www.spiegel.de/auto/los-angeles-leeres-robotaxi-blockiert-drive-thru](https://www.spiegel.de/auto/los-angeles-leeres-robotaxi-blockiert-drive-thru-a-e9431c34-fdf5-479a-98c2-05bbc35fa866#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/usa-und-russland-einigen-sich-in-dubai-auf-gefangenenaustausch](https://www.spiegel.de/ausland/usa-und-russland-einigen-sich-in-dubai-auf-gefangenenaustausch-a-3f738de4-6a9f-4022-8ae8-7ad8db6e176c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-die-zoelle-der-traum-von-den-turnschuh-naehenden-amerikanern](https://www.spiegel.de/wirtschaft/donald-trump-und-die-zoelle-der-traum-von-den-turnschuh-naehenden-amerikanern-a-22779454-de22-4993-9aaa-39ecf820b924#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-die-zoelle-chinas-amazon-verkaeufer-ziehen-sich-aus-den-usa-zurueck](https://www.spiegel.de/wirtschaft/donald-trump-und-die-zoelle-chinas-amazon-verkaeufer-ziehen-sich-aus-den-usa-zurueck-a-721aff05-fc84-4d4a-bea2-d525e844494f#ref=rss)
-### frei
-
-* [https://www.spiegel.de/ausland/usa-und-russland-einigen-sich-in-dubai-auf-gefangenenaustausch](https://www.spiegel.de/ausland/usa-und-russland-einigen-sich-in-dubai-auf-gefangenenaustausch-a-3f738de4-6a9f-4022-8ae8-7ad8db6e176c#ref=rss)
-* [https://www.spiegel.de/politik/thorsten-frei-cdu-politiker-plant-abschiebefluege-nach-syrien-und-afghanistan](https://www.spiegel.de/politik/thorsten-frei-cdu-politiker-plant-abschiebefluege-nach-syrien-und-afghanistan-a-6325f2cc-0904-45bc-9670-adb0d61d5b3a#ref=rss)
-### union
-
-* [https://www.spiegel.de/politik/schwarz-rote-koalition-so-blickt-die-internationale-presse-auf-die-einigung](https://www.spiegel.de/politik/schwarz-rote-koalition-so-blickt-die-internationale-presse-auf-die-einigung-a-83ef7d2f-d2f9-4a3d-b60e-7a98335c1a7a#ref=rss)
-* [https://www.spiegel.de/start/ausbildung-zahl-der-neuen-azubis-wieder-zurueckgegangen](https://www.spiegel.de/start/ausbildung-zahl-der-neuen-azubis-wieder-zurueckgegangen-a-1f29e9ff-15be-4db8-8df5-cf257d0f8a48#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/koalitionsvertrag-was-union-und-spd-fuer-das-land-wollen-themen-und-begriffe-in-der-datenanalyse](https://www.spiegel.de/politik/deutschland/koalitionsvertrag-was-union-und-spd-fuer-das-land-wollen-themen-und-begriffe-in-der-datenanalyse-a-763b63e3-cff8-416e-8d8c-bbf0c037e6e8#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/start/ausbildung-zahl-der-neuen-azubis-wieder-zurueckgegangen](https://www.spiegel.de/start/ausbildung-zahl-der-neuen-azubis-wieder-zurueckgegangen-a-1f29e9ff-15be-4db8-8df5-cf257d0f8a48#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/antisemitismus-an-unis-ein-sechstel-der-studierenden-mit-antisemitischen-ansichten](https://www.spiegel.de/panorama/bildung/antisemitismus-an-unis-ein-sechstel-der-studierenden-mit-antisemitischen-ansichten-a-970534ce-2e9b-4a03-b4a4-18cb1c368abf#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/panorama/justiz/leuven-darf-ein-vergewaltiger-gynaekologe-werden-ja-sagt-ein-gericht-in-belgien](https://www.spiegel.de/panorama/justiz/leuven-darf-ein-vergewaltiger-gynaekologe-werden-ja-sagt-ein-gericht-in-belgien-a-f5e9f567-36aa-42ee-829a-4c808d98be7d#ref=rss)
-* [https://www.spiegel.de/kultur/kino/drehbuchautor-james-toback-zu-zahlung-von-milliardenbetrag-verurteilt](https://www.spiegel.de/kultur/kino/drehbuchautor-james-toback-zu-zahlung-von-milliardenbetrag-verurteilt-a-b70407f9-fdea-4f51-a87a-d741775ab7a5#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wirtschaft/soziales/patienten-verbringen-jaehrlich-hunderte-millionen-stunden-in-wartezimmern](https://www.spiegel.de/wirtschaft/soziales/patienten-verbringen-jaehrlich-hunderte-millionen-stunden-in-wartezimmern-a-a3badc73-2270-4947-872f-65b1fbb85229#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/statistisches-bundesamt-2-8-millionen-menschen-in-deutschland-haben-noch-nie-das-internet-genutzt](https://www.spiegel.de/netzwelt/web/statistisches-bundesamt-2-8-millionen-menschen-in-deutschland-haben-noch-nie-das-internet-genutzt-a-c89b5ef7-440d-4981-84ef-3be6c48856fc#ref=rss)
-### toback
-
-* [https://www.spiegel.de/kultur/kino/drehbuchautor-james-toback-zu-zahlung-von-milliardenbetrag-verurteilt](https://www.spiegel.de/kultur/kino/drehbuchautor-james-toback-zu-zahlung-von-milliardenbetrag-verurteilt-a-b70407f9-fdea-4f51-a87a-d741775ab7a5#ref=rss)
-### wohl
-
-* [https://www.spiegel.de/wirtschaft/wirtschaftsministerium-als-politischer-spielball-weg-mit-dem-klimaschutz](https://www.spiegel.de/wirtschaft/wirtschaftsministerium-als-politischer-spielball-weg-mit-dem-klimaschutz-a-2c3e7b0b-2705-4b80-a41c-93fec3481a23#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-warum-kaempft-der-us-praesident-gegen-duschkoepfe](https://www.spiegel.de/wirtschaft/donald-trump-warum-kaempft-der-us-praesident-gegen-duschkoepfe-a-16a08eda-03b9-4fa2-abf8-a95f21efad95#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-institute-senken-wachstumsprognose-auf-0-1-prozent](https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-institute-senken-wachstumsprognose-auf-0-1-prozent-a-f445d3ae-240c-491b-b188-29cdc1e7c66b#ref=rss)
-### wirtschaft
-
-* [https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-institute-senken-wachstumsprognose-auf-0-1-prozent](https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-institute-senken-wachstumsprognose-auf-0-1-prozent-a-f445d3ae-240c-491b-b188-29cdc1e7c66b#ref=rss)
-### jillian
-
-* [https://www.spiegel.de/panorama/justiz/jillian-lauren-frau-des-weezer-bassisten-scott-shriner-wegen-versuchten-mordes-festgenommen](https://www.spiegel.de/panorama/justiz/jillian-lauren-frau-des-weezer-bassisten-scott-shriner-wegen-versuchten-mordes-festgenommen-a-b52d79db-9da3-45d2-89e7-ffac1e56ed11#ref=rss)
-### lauren
-
-* [https://www.spiegel.de/panorama/justiz/jillian-lauren-frau-des-weezer-bassisten-scott-shriner-wegen-versuchten-mordes-festgenommen](https://www.spiegel.de/panorama/justiz/jillian-lauren-frau-des-weezer-bassisten-scott-shriner-wegen-versuchten-mordes-festgenommen-a-b52d79db-9da3-45d2-89e7-ffac1e56ed11#ref=rss)
-### weezerbassisten
-
-* [https://www.spiegel.de/panorama/justiz/jillian-lauren-frau-des-weezer-bassisten-scott-shriner-wegen-versuchten-mordes-festgenommen](https://www.spiegel.de/panorama/justiz/jillian-lauren-frau-des-weezer-bassisten-scott-shriner-wegen-versuchten-mordes-festgenommen-a-b52d79db-9da3-45d2-89e7-ffac1e56ed11#ref=rss)
-### scott
-
-* [https://www.spiegel.de/panorama/justiz/jillian-lauren-frau-des-weezer-bassisten-scott-shriner-wegen-versuchten-mordes-festgenommen](https://www.spiegel.de/panorama/justiz/jillian-lauren-frau-des-weezer-bassisten-scott-shriner-wegen-versuchten-mordes-festgenommen-a-b52d79db-9da3-45d2-89e7-ffac1e56ed11#ref=rss)
-### shriner
-
-* [https://www.spiegel.de/panorama/justiz/jillian-lauren-frau-des-weezer-bassisten-scott-shriner-wegen-versuchten-mordes-festgenommen](https://www.spiegel.de/panorama/justiz/jillian-lauren-frau-des-weezer-bassisten-scott-shriner-wegen-versuchten-mordes-festgenommen-a-b52d79db-9da3-45d2-89e7-ffac1e56ed11#ref=rss)
-### festgenommen
-
-* [https://www.spiegel.de/panorama/justiz/jillian-lauren-frau-des-weezer-bassisten-scott-shriner-wegen-versuchten-mordes-festgenommen](https://www.spiegel.de/panorama/justiz/jillian-lauren-frau-des-weezer-bassisten-scott-shriner-wegen-versuchten-mordes-festgenommen-a-b52d79db-9da3-45d2-89e7-ffac1e56ed11#ref=rss)
-### rheinfall
-
-* [https://www.spiegel.de/wissenschaft/rheinfall-moos-felsen-statt-tosende-fluten](https://www.spiegel.de/wissenschaft/rheinfall-moos-felsen-statt-tosende-fluten-a-4e8fa59b-b17c-42d8-b382-83133d4ef959#ref=rss)
-### pforzheim
-
-* [https://www.spiegel.de/panorama/justiz/pforzheim-21-jaehriger-nach-toedlichem-autorennen-zu-bewaehrungsstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/pforzheim-21-jaehriger-nach-toedlichem-autorennen-zu-bewaehrungsstrafe-verurteilt-a-424ee40a-28b3-4dd6-820d-a54f9bee779d#ref=rss)
-### verurteilt
-
-* [https://www.spiegel.de/panorama/justiz/pforzheim-21-jaehriger-nach-toedlichem-autorennen-zu-bewaehrungsstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/pforzheim-21-jaehriger-nach-toedlichem-autorennen-zu-bewaehrungsstrafe-verurteilt-a-424ee40a-28b3-4dd6-820d-a54f9bee779d#ref=rss)
-* [https://www.spiegel.de/kultur/kino/drehbuchautor-james-toback-zu-zahlung-von-milliardenbetrag-verurteilt](https://www.spiegel.de/kultur/kino/drehbuchautor-james-toback-zu-zahlung-von-milliardenbetrag-verurteilt-a-b70407f9-fdea-4f51-a87a-d741775ab7a5#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/justiz/pforzheim-21-jaehriger-nach-toedlichem-autorennen-zu-bewaehrungsstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/pforzheim-21-jaehriger-nach-toedlichem-autorennen-zu-bewaehrungsstrafe-verurteilt-a-424ee40a-28b3-4dd6-820d-a54f9bee779d#ref=rss)
-* [https://www.spiegel.de/panorama/leute/ed-sheeran-wollte-eine-bowlingbahn-im-garten-seine-frau-verhinderte-das](https://www.spiegel.de/panorama/leute/ed-sheeran-wollte-eine-bowlingbahn-im-garten-seine-frau-verhinderte-das-a-04753bb5-a3f1-4f66-a8d2-b5a2dddd8e2b#ref=rss)
-### zwölf
-
-* [https://www.spiegel.de/ausland/usa-und-russland-einigen-sich-in-dubai-auf-gefangenenaustausch](https://www.spiegel.de/ausland/usa-und-russland-einigen-sich-in-dubai-auf-gefangenenaustausch-a-3f738de4-6a9f-4022-8ae8-7ad8db6e176c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/moenchengladbach-zwoelf-festnahmen-bei-einsatz-gegen-falsche-wasserwerker](https://www.spiegel.de/panorama/justiz/moenchengladbach-zwoelf-festnahmen-bei-einsatz-gegen-falsche-wasserwerker-a-748427b0-7ff6-4baf-a6c4-fadcddfa3411#ref=rss)
-### land
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-die-zoelle-der-traum-von-den-turnschuh-naehenden-amerikanern](https://www.spiegel.de/wirtschaft/donald-trump-und-die-zoelle-der-traum-von-den-turnschuh-naehenden-amerikanern-a-22779454-de22-4993-9aaa-39ecf820b924#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/koalitionsvertrag-was-union-und-spd-fuer-das-land-wollen-themen-und-begriffe-in-der-datenanalyse](https://www.spiegel.de/politik/deutschland/koalitionsvertrag-was-union-und-spd-fuer-das-land-wollen-themen-und-begriffe-in-der-datenanalyse-a-763b63e3-cff8-416e-8d8c-bbf0c037e6e8#ref=rss)
-### thorsten
-
-* [https://www.spiegel.de/politik/thorsten-frei-cdu-politiker-plant-abschiebefluege-nach-syrien-und-afghanistan](https://www.spiegel.de/politik/thorsten-frei-cdu-politiker-plant-abschiebefluege-nach-syrien-und-afghanistan-a-6325f2cc-0904-45bc-9670-adb0d61d5b3a#ref=rss)
-### plant
-
-* [https://www.spiegel.de/politik/thorsten-frei-cdu-politiker-plant-abschiebefluege-nach-syrien-und-afghanistan](https://www.spiegel.de/politik/thorsten-frei-cdu-politiker-plant-abschiebefluege-nach-syrien-und-afghanistan-a-6325f2cc-0904-45bc-9670-adb0d61d5b3a#ref=rss)
-### abschiebeflüge
-
-* [https://www.spiegel.de/politik/thorsten-frei-cdu-politiker-plant-abschiebefluege-nach-syrien-und-afghanistan](https://www.spiegel.de/politik/thorsten-frei-cdu-politiker-plant-abschiebefluege-nach-syrien-und-afghanistan-a-6325f2cc-0904-45bc-9670-adb0d61d5b3a#ref=rss)
-### syrien
-
-* [https://www.spiegel.de/politik/thorsten-frei-cdu-politiker-plant-abschiebefluege-nach-syrien-und-afghanistan](https://www.spiegel.de/politik/thorsten-frei-cdu-politiker-plant-abschiebefluege-nach-syrien-und-afghanistan-a-6325f2cc-0904-45bc-9670-adb0d61d5b3a#ref=rss)
-### afghanistan
-
-* [https://www.spiegel.de/politik/thorsten-frei-cdu-politiker-plant-abschiebefluege-nach-syrien-und-afghanistan](https://www.spiegel.de/politik/thorsten-frei-cdu-politiker-plant-abschiebefluege-nach-syrien-und-afghanistan-a-6325f2cc-0904-45bc-9670-adb0d61d5b3a#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/politik/thorsten-frei-cdu-politiker-plant-abschiebefluege-nach-syrien-und-afghanistan](https://www.spiegel.de/politik/thorsten-frei-cdu-politiker-plant-abschiebefluege-nach-syrien-und-afghanistan-a-6325f2cc-0904-45bc-9670-adb0d61d5b3a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/leuven-darf-ein-vergewaltiger-gynaekologe-werden-ja-sagt-ein-gericht-in-belgien](https://www.spiegel.de/panorama/justiz/leuven-darf-ein-vergewaltiger-gynaekologe-werden-ja-sagt-ein-gericht-in-belgien-a-f5e9f567-36aa-42ee-829a-4c808d98be7d#ref=rss)
-### elbtower
-
-* [https://www.spiegel.de/wirtschaft/hamburg-elbtower-macht-s-bahnhof-kaputt](https://www.spiegel.de/wirtschaft/hamburg-elbtower-macht-s-bahnhof-kaputt-a-cb23ca51-dcac-44e7-ab99-e9d28f31614e#ref=rss)
-### macht
-
-* [https://www.spiegel.de/wirtschaft/hamburg-elbtower-macht-s-bahnhof-kaputt](https://www.spiegel.de/wirtschaft/hamburg-elbtower-macht-s-bahnhof-kaputt-a-cb23ca51-dcac-44e7-ab99-e9d28f31614e#ref=rss)
-* [https://www.spiegel.de/politik/richard-david-precht-ueber-aufruestung-kriegsgefahr-und-die-gruenen-spiegel-spitzengespraech](https://www.spiegel.de/politik/richard-david-precht-ueber-aufruestung-kriegsgefahr-und-die-gruenen-spiegel-spitzengespraech-a-52eca6ba-d324-441a-afae-3545f794dafc#ref=rss)
-### fußballbundesliga
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-florian-wirtz-steht-bei-bayer-leverkusen-nach-wochenlanger-verletzungspause-vor-comeback](https://www.spiegel.de/sport/fussball/fussball-bundesliga-florian-wirtz-steht-bei-bayer-leverkusen-nach-wochenlanger-verletzungspause-vor-comeback-a-ad0b3c89-239a-47e2-af17-9c2e67175d0f#ref=rss)
-### florian
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-florian-wirtz-steht-bei-bayer-leverkusen-nach-wochenlanger-verletzungspause-vor-comeback](https://www.spiegel.de/sport/fussball/fussball-bundesliga-florian-wirtz-steht-bei-bayer-leverkusen-nach-wochenlanger-verletzungspause-vor-comeback-a-ad0b3c89-239a-47e2-af17-9c2e67175d0f#ref=rss)
-### wirtz
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-florian-wirtz-steht-bei-bayer-leverkusen-nach-wochenlanger-verletzungspause-vor-comeback](https://www.spiegel.de/sport/fussball/fussball-bundesliga-florian-wirtz-steht-bei-bayer-leverkusen-nach-wochenlanger-verletzungspause-vor-comeback-a-ad0b3c89-239a-47e2-af17-9c2e67175d0f#ref=rss)
-### bayer
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-florian-wirtz-steht-bei-bayer-leverkusen-nach-wochenlanger-verletzungspause-vor-comeback](https://www.spiegel.de/sport/fussball/fussball-bundesliga-florian-wirtz-steht-bei-bayer-leverkusen-nach-wochenlanger-verletzungspause-vor-comeback-a-ad0b3c89-239a-47e2-af17-9c2e67175d0f#ref=rss)
-### leverkusen
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-florian-wirtz-steht-bei-bayer-leverkusen-nach-wochenlanger-verletzungspause-vor-comeback](https://www.spiegel.de/sport/fussball/fussball-bundesliga-florian-wirtz-steht-bei-bayer-leverkusen-nach-wochenlanger-verletzungspause-vor-comeback-a-ad0b3c89-239a-47e2-af17-9c2e67175d0f#ref=rss)
-### chatgptentwickler
-
-* [https://www.spiegel.de/netzwelt/prozess-gegen-chatgpt-entwickler-openai-reicht-gegenklage-gegen-elon-musk-ein](https://www.spiegel.de/netzwelt/prozess-gegen-chatgpt-entwickler-openai-reicht-gegenklage-gegen-elon-musk-ein-a-50d36fa8-8bf5-4eb0-b178-4a3ae0f6004f#ref=rss)
-### elon
-
-* [https://www.spiegel.de/netzwelt/prozess-gegen-chatgpt-entwickler-openai-reicht-gegenklage-gegen-elon-musk-ein](https://www.spiegel.de/netzwelt/prozess-gegen-chatgpt-entwickler-openai-reicht-gegenklage-gegen-elon-musk-ein-a-50d36fa8-8bf5-4eb0-b178-4a3ae0f6004f#ref=rss)
-### musk
-
-* [https://www.spiegel.de/netzwelt/prozess-gegen-chatgpt-entwickler-openai-reicht-gegenklage-gegen-elon-musk-ein](https://www.spiegel.de/netzwelt/prozess-gegen-chatgpt-entwickler-openai-reicht-gegenklage-gegen-elon-musk-ein-a-50d36fa8-8bf5-4eb0-b178-4a3ae0f6004f#ref=rss)
-### ed
-
-* [https://www.spiegel.de/panorama/leute/ed-sheeran-wollte-eine-bowlingbahn-im-garten-seine-frau-verhinderte-das](https://www.spiegel.de/panorama/leute/ed-sheeran-wollte-eine-bowlingbahn-im-garten-seine-frau-verhinderte-das-a-04753bb5-a3f1-4f66-a8d2-b5a2dddd8e2b#ref=rss)
-### bowlingbahn
-
-* [https://www.spiegel.de/panorama/leute/ed-sheeran-wollte-eine-bowlingbahn-im-garten-seine-frau-verhinderte-das](https://www.spiegel.de/panorama/leute/ed-sheeran-wollte-eine-bowlingbahn-im-garten-seine-frau-verhinderte-das-a-04753bb5-a3f1-4f66-a8d2-b5a2dddd8e2b#ref=rss)
-### garten
-
-* [https://www.spiegel.de/panorama/leute/ed-sheeran-wollte-eine-bowlingbahn-im-garten-seine-frau-verhinderte-das](https://www.spiegel.de/panorama/leute/ed-sheeran-wollte-eine-bowlingbahn-im-garten-seine-frau-verhinderte-das-a-04753bb5-a3f1-4f66-a8d2-b5a2dddd8e2b#ref=rss)
-### einigung
-
-* [https://www.spiegel.de/politik/schwarz-rote-koalition-so-blickt-die-internationale-presse-auf-die-einigung](https://www.spiegel.de/politik/schwarz-rote-koalition-so-blickt-die-internationale-presse-auf-die-einigung-a-83ef7d2f-d2f9-4a3d-b60e-7a98335c1a7a#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/sport/wintersport/ice-aged-zeigt-eiskunstlauf-bei-aelteren-menschen-eingefrorene-traeume](https://www.spiegel.de/sport/wintersport/ice-aged-zeigt-eiskunstlauf-bei-aelteren-menschen-eingefrorene-traeume-a-0d4a4971-defe-4842-b014-bf42dbf84816#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/koalitionsvertrag-von-cdu-csu-und-spd-jens-spahn-zweifelt-an-rascher-mindestlohnerhoehung](https://www.spiegel.de/politik/deutschland/koalitionsvertrag-von-cdu-csu-und-spd-jens-spahn-zweifelt-an-rascher-mindestlohnerhoehung-a-cd899242-a5d7-496e-aa46-5a42abfdbaef#ref=rss)
-### migration
-
-* [https://www.spiegel.de/politik/deutschland/migration-illegale-einreisen-in-die-eu-deutlich-zurueckgegangen](https://www.spiegel.de/politik/deutschland/migration-illegale-einreisen-in-die-eu-deutlich-zurueckgegangen-a-6396c664-6944-41d6-92a9-71265a66c427#ref=rss)
-### zurückgegangen
-
-* [https://www.spiegel.de/politik/deutschland/migration-illegale-einreisen-in-die-eu-deutlich-zurueckgegangen](https://www.spiegel.de/politik/deutschland/migration-illegale-einreisen-in-die-eu-deutlich-zurueckgegangen-a-6396c664-6944-41d6-92a9-71265a66c427#ref=rss)
-* [https://www.spiegel.de/start/ausbildung-zahl-der-neuen-azubis-wieder-zurueckgegangen](https://www.spiegel.de/start/ausbildung-zahl-der-neuen-azubis-wieder-zurueckgegangen-a-1f29e9ff-15be-4db8-8df5-cf257d0f8a48#ref=rss)
-### zahlen
-
-* [https://www.spiegel.de/politik/deutschland/migration-illegale-einreisen-in-die-eu-deutlich-zurueckgegangen](https://www.spiegel.de/politik/deutschland/migration-illegale-einreisen-in-die-eu-deutlich-zurueckgegangen-a-6396c664-6944-41d6-92a9-71265a66c427#ref=rss)
-* [https://www.spiegel.de/kultur/kino/drehbuchautor-james-toback-zu-zahlung-von-milliardenbetrag-verurteilt](https://www.spiegel.de/kultur/kino/drehbuchautor-james-toback-zu-zahlung-von-milliardenbetrag-verurteilt-a-b70407f9-fdea-4f51-a87a-d741775ab7a5#ref=rss)
+* [https://www.spiegel.de/panorama/fragen-an-einen-metzger-kuehe-haben-auch-magneten-und-coladosen-im-magen](https://www.spiegel.de/panorama/fragen-an-einen-metzger-kuehe-haben-auch-magneten-und-coladosen-im-magen-a-9c438239-9237-429c-b781-d81fbb2d1907#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot-podcast](https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot-podcast-a-c95a50ca-8223-481e-8f54-89cb9cad919e#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot](https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot-a-1e469d19-1be2-48bd-b202-068ab0cbac15#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-und-die-zoelle-hat-der-us-praesident-die-maerkte-manipuliert](https://www.spiegel.de/wirtschaft/donald-trump-und-die-zoelle-hat-der-us-praesident-die-maerkte-manipuliert-a-59c0ea38-9bc0-4b6b-963c-ba52921008e5#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/politik/deutschland/migration-illegale-einreisen-in-die-eu-deutlich-zurueckgegangen](https://www.spiegel.de/politik/deutschland/migration-illegale-einreisen-in-die-eu-deutlich-zurueckgegangen-a-6396c664-6944-41d6-92a9-71265a66c427#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/leuven-darf-ein-vergewaltiger-gynaekologe-werden-ja-sagt-ein-gericht-in-belgien](https://www.spiegel.de/panorama/justiz/leuven-darf-ein-vergewaltiger-gynaekologe-werden-ja-sagt-ein-gericht-in-belgien-a-f5e9f567-36aa-42ee-829a-4c808d98be7d#ref=rss)
-### könig
+* [https://www.spiegel.de/panorama/blitzermarathon-tausende-temposuender-erwischt](https://www.spiegel.de/panorama/blitzermarathon-tausende-temposuender-erwischt-a-c4c26776-e517-4dc7-bc62-5905b682adac#ref=rss)
+* [https://www.spiegel.de/panorama/oesterreich-85-deutsche-sterben-in-den-alpen-im-vergangenen-jahr](https://www.spiegel.de/panorama/oesterreich-85-deutsche-sterben-in-den-alpen-im-vergangenen-jahr-a-05ede42c-0e96-4a88-a921-54eee09a05b3#ref=rss)
+* [https://www.spiegel.de/sport/pferdesport-der-13-jahre-alte-celebre-dallen-der-am-ende-all-seiner-kraefte-war](https://www.spiegel.de/sport/pferdesport-der-13-jahre-alte-celebre-dallen-der-am-ende-all-seiner-kraefte-war-a-6741536f-be8c-4090-acdc-cf32c5c49298#ref=rss)
+* [https://www.spiegel.de/panorama/dominikanische-republik-opferzahl-nach-disco-unglueck-steigt-auf-218](https://www.spiegel.de/panorama/dominikanische-republik-opferzahl-nach-disco-unglueck-steigt-auf-218-a-272d0393-a66e-4f24-921b-0ea6a9da7e8d#ref=rss)
+### gaza
 
-* [https://www.spiegel.de/panorama/leute/koenig-charles-iii-und-camilla-tief-beruehrt-nach-audienz-bei-papst-franziskus](https://www.spiegel.de/panorama/leute/koenig-charles-iii-und-camilla-tief-beruehrt-nach-audienz-bei-papst-franziskus-a-b8d87891-b741-4841-ace0-0f0f1637b87f#ref=rss)
-### charles
+* [https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot-podcast](https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot-podcast-a-c95a50ca-8223-481e-8f54-89cb9cad919e#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot](https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot-a-1e469d19-1be2-48bd-b202-068ab0cbac15#ref=rss)
+### israels
 
-* [https://www.spiegel.de/panorama/leute/koenig-charles-iii-und-camilla-tief-beruehrt-nach-audienz-bei-papst-franziskus](https://www.spiegel.de/panorama/leute/koenig-charles-iii-und-camilla-tief-beruehrt-nach-audienz-bei-papst-franziskus-a-b8d87891-b741-4841-ace0-0f0f1637b87f#ref=rss)
-### iii
+* [https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot-podcast](https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot-podcast-a-c95a50ca-8223-481e-8f54-89cb9cad919e#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot](https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot-a-1e469d19-1be2-48bd-b202-068ab0cbac15#ref=rss)
+### militär
 
-* [https://www.spiegel.de/panorama/leute/koenig-charles-iii-und-camilla-tief-beruehrt-nach-audienz-bei-papst-franziskus](https://www.spiegel.de/panorama/leute/koenig-charles-iii-und-camilla-tief-beruehrt-nach-audienz-bei-papst-franziskus-a-b8d87891-b741-4841-ace0-0f0f1637b87f#ref=rss)
-### camilla
+* [https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot-podcast](https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot-podcast-a-c95a50ca-8223-481e-8f54-89cb9cad919e#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot](https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot-a-1e469d19-1be2-48bd-b202-068ab0cbac15#ref=rss)
+### unter
 
-* [https://www.spiegel.de/panorama/leute/koenig-charles-iii-und-camilla-tief-beruehrt-nach-audienz-bei-papst-franziskus](https://www.spiegel.de/panorama/leute/koenig-charles-iii-und-camilla-tief-beruehrt-nach-audienz-bei-papst-franziskus-a-b8d87891-b741-4841-ace0-0f0f1637b87f#ref=rss)
-### tief
+* [https://www.spiegel.de/panorama/strafzoelle-von-donald-trump-erzgebirge-leidet-unter-us-zoellen-auf-nussknacker](https://www.spiegel.de/panorama/strafzoelle-von-donald-trump-erzgebirge-leidet-unter-us-zoellen-auf-nussknacker-a-fbbda578-82f5-4119-b75e-088a78321c45#ref=rss)
+* [https://www.spiegel.de/panorama/leute/anjelica-huston-hatte-krebs-und-nimmt-das-leben-nun-weniger-ernst](https://www.spiegel.de/panorama/leute/anjelica-huston-hatte-krebs-und-nimmt-das-leben-nun-weniger-ernst-a-2f1f22e1-4362-4802-bb79-5d48ccaf795f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-csu-spd-werden-wollen-sollen-das-bedeutet-das-wording-im-koalitionsvertrag](https://www.spiegel.de/politik/deutschland/cdu-csu-spd-werden-wollen-sollen-das-bedeutet-das-wording-im-koalitionsvertrag-a-01f5413b-47c3-4468-8786-a7a8fdb4a1f5#ref=rss)
+### usa
 
-* [https://www.spiegel.de/panorama/leute/koenig-charles-iii-und-camilla-tief-beruehrt-nach-audienz-bei-papst-franziskus](https://www.spiegel.de/panorama/leute/koenig-charles-iii-und-camilla-tief-beruehrt-nach-audienz-bei-papst-franziskus-a-b8d87891-b741-4841-ace0-0f0f1637b87f#ref=rss)
-* [https://www.spiegel.de/panorama/muenchen-kindergartenkind-bleibt-mit-hand-in-parkscheinautomat-stecken](https://www.spiegel.de/panorama/muenchen-kindergartenkind-bleibt-mit-hand-in-parkscheinautomat-stecken-a-8b5d7387-9c15-42ca-a581-cb4d8f244c85#ref=rss)
-### papst
+* [https://www.spiegel.de/panorama/strafzoelle-von-donald-trump-erzgebirge-leidet-unter-us-zoellen-auf-nussknacker](https://www.spiegel.de/panorama/strafzoelle-von-donald-trump-erzgebirge-leidet-unter-us-zoellen-auf-nussknacker-a-fbbda578-82f5-4119-b75e-088a78321c45#ref=rss)
+* [https://www.spiegel.de/ausland/usa-weisses-haus-bestaetigt-zoelle-fuer-china-von-145-prozent](https://www.spiegel.de/ausland/usa-weisses-haus-bestaetigt-zoelle-fuer-china-von-145-prozent-a-256b1da9-d7c8-4bb9-8498-9b5065fb254d#ref=rss)
+### nutzen
 
-* [https://www.spiegel.de/panorama/leute/koenig-charles-iii-und-camilla-tief-beruehrt-nach-audienz-bei-papst-franziskus](https://www.spiegel.de/panorama/leute/koenig-charles-iii-und-camilla-tief-beruehrt-nach-audienz-bei-papst-franziskus-a-b8d87891-b741-4841-ace0-0f0f1637b87f#ref=rss)
-### franziskus
+* [https://www.spiegel.de/ausland/nahostkonflikt-trump-droht-iran-mit-bombardierung-vor-allem-israel-will-den-moment-von-teherans-schwaeche-nutzen](https://www.spiegel.de/ausland/nahostkonflikt-trump-droht-iran-mit-bombardierung-vor-allem-israel-will-den-moment-von-teherans-schwaeche-nutzen-a-c995f832-6b2f-42a7-91a7-7210819721ef#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/volkshochschule-und-mehrwertsteuer-steuerfreiheit-fuer-online-poker-nicht-fuer-vhs-kurse-gastbeitrag](https://www.spiegel.de/panorama/bildung/volkshochschule-und-mehrwertsteuer-steuerfreiheit-fuer-online-poker-nicht-fuer-vhs-kurse-gastbeitrag-a-a1f23359-8769-4924-880b-4b41b77f18c7#ref=rss)
+### österreich
 
-* [https://www.spiegel.de/panorama/leute/koenig-charles-iii-und-camilla-tief-beruehrt-nach-audienz-bei-papst-franziskus](https://www.spiegel.de/panorama/leute/koenig-charles-iii-und-camilla-tief-beruehrt-nach-audienz-bei-papst-franziskus-a-b8d87891-b741-4841-ace0-0f0f1637b87f#ref=rss)
-### laut
+* [https://www.spiegel.de/panorama/oesterreich-85-deutsche-sterben-in-den-alpen-im-vergangenen-jahr](https://www.spiegel.de/panorama/oesterreich-85-deutsche-sterben-in-den-alpen-im-vergangenen-jahr-a-05ede42c-0e96-4a88-a921-54eee09a05b3#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/klimawandel-gletscher-in-oesterreich-tauen-in-den-naechsten-jahrzehnten-weg](https://www.spiegel.de/wissenschaft/natur/klimawandel-gletscher-in-oesterreich-tauen-in-den-naechsten-jahrzehnten-weg-a-f0653090-3a29-480a-bacd-84c6d2b1d352#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/start/ausbildung-zahl-der-neuen-azubis-wieder-zurueckgegangen](https://www.spiegel.de/start/ausbildung-zahl-der-neuen-azubis-wieder-zurueckgegangen-a-1f29e9ff-15be-4db8-8df5-cf257d0f8a48#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/antisemitismus-an-unis-ein-sechstel-der-studierenden-mit-antisemitischen-ansichten](https://www.spiegel.de/panorama/bildung/antisemitismus-an-unis-ein-sechstel-der-studierenden-mit-antisemitischen-ansichten-a-970534ce-2e9b-4a03-b4a4-18cb1c368abf#ref=rss)
-### leuven
+* [https://www.spiegel.de/panorama/oesterreich-85-deutsche-sterben-in-den-alpen-im-vergangenen-jahr](https://www.spiegel.de/panorama/oesterreich-85-deutsche-sterben-in-den-alpen-im-vergangenen-jahr-a-05ede42c-0e96-4a88-a921-54eee09a05b3#ref=rss)
+* [https://www.spiegel.de/kultur/max-strohe-sternekoch-ueber-ein-essen-bei-jan-hartwig](https://www.spiegel.de/kultur/max-strohe-sternekoch-ueber-ein-essen-bei-jan-hartwig-a-5c7b93b7-c5e5-443b-9896-a0c46ace5ba5#ref=rss)
+### leben
 
-* [https://www.spiegel.de/panorama/justiz/leuven-darf-ein-vergewaltiger-gynaekologe-werden-ja-sagt-ein-gericht-in-belgien](https://www.spiegel.de/panorama/justiz/leuven-darf-ein-vergewaltiger-gynaekologe-werden-ja-sagt-ein-gericht-in-belgien-a-f5e9f567-36aa-42ee-829a-4c808d98be7d#ref=rss)
-### patienten
+* [https://www.spiegel.de/panorama/oesterreich-85-deutsche-sterben-in-den-alpen-im-vergangenen-jahr](https://www.spiegel.de/panorama/oesterreich-85-deutsche-sterben-in-den-alpen-im-vergangenen-jahr-a-05ede42c-0e96-4a88-a921-54eee09a05b3#ref=rss)
+* [https://www.spiegel.de/panorama/leute/anjelica-huston-hatte-krebs-und-nimmt-das-leben-nun-weniger-ernst](https://www.spiegel.de/panorama/leute/anjelica-huston-hatte-krebs-und-nimmt-das-leben-nun-weniger-ernst-a-2f1f22e1-4362-4802-bb79-5d48ccaf795f#ref=rss)
+### union
 
-* [https://www.spiegel.de/wirtschaft/soziales/patienten-verbringen-jaehrlich-hunderte-millionen-stunden-in-wartezimmern](https://www.spiegel.de/wirtschaft/soziales/patienten-verbringen-jaehrlich-hunderte-millionen-stunden-in-wartezimmern-a-a3badc73-2270-4947-872f-65b1fbb85229#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-csu-spd-der-koalitionsvertrag-in-der-videoanalyse](https://www.spiegel.de/politik/deutschland/cdu-csu-spd-der-koalitionsvertrag-in-der-videoanalyse-a-dbba0b87-1e54-4331-8ed3-de14a6a6cb64#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-koalitionsgespraeche-waeren-fast-am-thema-steuern-gescheitert](https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-koalitionsgespraeche-waeren-fast-am-thema-steuern-gescheitert-a-4c8d733a-fe3d-452a-920f-89feb129795f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/koalitionsvertrag-im-quiz-was-ist-neu-im-vertrag-zwischen-union-und-spd](https://www.spiegel.de/politik/deutschland/koalitionsvertrag-im-quiz-was-ist-neu-im-vertrag-zwischen-union-und-spd-a-e29255aa-804b-4028-af6f-e0ee2bb4524e#ref=rss)
+### erzgebirge
+
+* [https://www.spiegel.de/panorama/strafzoelle-von-donald-trump-erzgebirge-leidet-unter-us-zoellen-auf-nussknacker](https://www.spiegel.de/panorama/strafzoelle-von-donald-trump-erzgebirge-leidet-unter-us-zoellen-auf-nussknacker-a-fbbda578-82f5-4119-b75e-088a78321c45#ref=rss)
+### trumps
+
+* [https://www.spiegel.de/panorama/strafzoelle-von-donald-trump-erzgebirge-leidet-unter-us-zoellen-auf-nussknacker](https://www.spiegel.de/panorama/strafzoelle-von-donald-trump-erzgebirge-leidet-unter-us-zoellen-auf-nussknacker-a-fbbda578-82f5-4119-b75e-088a78321c45#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-der-termintrick-beim-arzt-donald-trump-digitalministerium](https://www.spiegel.de/politik/deutschland/news-des-tages-der-termintrick-beim-arzt-donald-trump-digitalministerium-a-90be384c-e5bc-4930-8a14-d0cc67a1ecd1#ref=rss)
+### großteil
+
+* [https://www.spiegel.de/panorama/strafzoelle-von-donald-trump-erzgebirge-leidet-unter-us-zoellen-auf-nussknacker](https://www.spiegel.de/panorama/strafzoelle-von-donald-trump-erzgebirge-leidet-unter-us-zoellen-auf-nussknacker-a-fbbda578-82f5-4119-b75e-088a78321c45#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/klimawandel-gletscher-in-oesterreich-tauen-in-den-naechsten-jahrzehnten-weg](https://www.spiegel.de/wissenschaft/natur/klimawandel-gletscher-in-oesterreich-tauen-in-den-naechsten-jahrzehnten-weg-a-f0653090-3a29-480a-bacd-84c6d2b1d352#ref=rss)
+### selbst
+
+* [https://www.spiegel.de/panorama/strafzoelle-von-donald-trump-erzgebirge-leidet-unter-us-zoellen-auf-nussknacker](https://www.spiegel.de/panorama/strafzoelle-von-donald-trump-erzgebirge-leidet-unter-us-zoellen-auf-nussknacker-a-fbbda578-82f5-4119-b75e-088a78321c45#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/klimawandel-gletscher-in-oesterreich-tauen-in-den-naechsten-jahrzehnten-weg](https://www.spiegel.de/wissenschaft/natur/klimawandel-gletscher-in-oesterreich-tauen-in-den-naechsten-jahrzehnten-weg-a-f0653090-3a29-480a-bacd-84c6d2b1d352#ref=rss)
+### droht
+
+* [https://www.spiegel.de/ausland/nahostkonflikt-trump-droht-iran-mit-bombardierung-vor-allem-israel-will-den-moment-von-teherans-schwaeche-nutzen](https://www.spiegel.de/ausland/nahostkonflikt-trump-droht-iran-mit-bombardierung-vor-allem-israel-will-den-moment-von-teherans-schwaeche-nutzen-a-c995f832-6b2f-42a7-91a7-7210819721ef#ref=rss)
+### bombardierung
+
+* [https://www.spiegel.de/ausland/nahostkonflikt-trump-droht-iran-mit-bombardierung-vor-allem-israel-will-den-moment-von-teherans-schwaeche-nutzen](https://www.spiegel.de/ausland/nahostkonflikt-trump-droht-iran-mit-bombardierung-vor-allem-israel-will-den-moment-von-teherans-schwaeche-nutzen-a-c995f832-6b2f-42a7-91a7-7210819721ef#ref=rss)
+### allem
+
+* [https://www.spiegel.de/ausland/nahostkonflikt-trump-droht-iran-mit-bombardierung-vor-allem-israel-will-den-moment-von-teherans-schwaeche-nutzen](https://www.spiegel.de/ausland/nahostkonflikt-trump-droht-iran-mit-bombardierung-vor-allem-israel-will-den-moment-von-teherans-schwaeche-nutzen-a-c995f832-6b2f-42a7-91a7-7210819721ef#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-der-termintrick-beim-arzt-donald-trump-digitalministerium](https://www.spiegel.de/politik/deutschland/news-des-tages-der-termintrick-beim-arzt-donald-trump-digitalministerium-a-90be384c-e5bc-4930-8a14-d0cc67a1ecd1#ref=rss)
+### israel
+
+* [https://www.spiegel.de/ausland/nahostkonflikt-trump-droht-iran-mit-bombardierung-vor-allem-israel-will-den-moment-von-teherans-schwaeche-nutzen](https://www.spiegel.de/ausland/nahostkonflikt-trump-droht-iran-mit-bombardierung-vor-allem-israel-will-den-moment-von-teherans-schwaeche-nutzen-a-c995f832-6b2f-42a7-91a7-7210819721ef#ref=rss)
+### moment
+
+* [https://www.spiegel.de/ausland/nahostkonflikt-trump-droht-iran-mit-bombardierung-vor-allem-israel-will-den-moment-von-teherans-schwaeche-nutzen](https://www.spiegel.de/ausland/nahostkonflikt-trump-droht-iran-mit-bombardierung-vor-allem-israel-will-den-moment-von-teherans-schwaeche-nutzen-a-c995f832-6b2f-42a7-91a7-7210819721ef#ref=rss)
+### schwäche
+
+* [https://www.spiegel.de/ausland/nahostkonflikt-trump-droht-iran-mit-bombardierung-vor-allem-israel-will-den-moment-von-teherans-schwaeche-nutzen](https://www.spiegel.de/ausland/nahostkonflikt-trump-droht-iran-mit-bombardierung-vor-allem-israel-will-den-moment-von-teherans-schwaeche-nutzen-a-c995f832-6b2f-42a7-91a7-7210819721ef#ref=rss)
+### dessen
+
+* [https://www.spiegel.de/ausland/nahostkonflikt-trump-droht-iran-mit-bombardierung-vor-allem-israel-will-den-moment-von-teherans-schwaeche-nutzen](https://www.spiegel.de/ausland/nahostkonflikt-trump-droht-iran-mit-bombardierung-vor-allem-israel-will-den-moment-von-teherans-schwaeche-nutzen-a-c995f832-6b2f-42a7-91a7-7210819721ef#ref=rss)
+* [https://www.spiegel.de/sport/fussball/kylian-mbappe-anwaelte-beschlagnahmen-55-millionen-euro-bei-psg](https://www.spiegel.de/sport/fussball/kylian-mbappe-anwaelte-beschlagnahmen-55-millionen-euro-bei-psg-a-b61a4a8f-060a-45db-82a0-35ea3ab8c6a6#ref=rss)
+### affen
+
+* [https://www.spiegel.de/panorama/justiz/missouri-frau-soll-pflegekind-gegen-affen-eingetauscht-haben](https://www.spiegel.de/panorama/justiz/missouri-frau-soll-pflegekind-gegen-affen-eingetauscht-haben-a-c5962741-a5df-40a7-9b7c-bf75d3461d8f#ref=rss)
+### eingetauscht
+
+* [https://www.spiegel.de/panorama/justiz/missouri-frau-soll-pflegekind-gegen-affen-eingetauscht-haben](https://www.spiegel.de/panorama/justiz/missouri-frau-soll-pflegekind-gegen-affen-eingetauscht-haben-a-c5962741-a5df-40a7-9b7c-bf75d3461d8f#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/panorama/justiz/missouri-frau-soll-pflegekind-gegen-affen-eingetauscht-haben](https://www.spiegel.de/panorama/justiz/missouri-frau-soll-pflegekind-gegen-affen-eingetauscht-haben-a-c5962741-a5df-40a7-9b7c-bf75d3461d8f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-altbundeskanzler-scheitert-mit-klage-gegen-verlust-seines-bueros](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-altbundeskanzler-scheitert-mit-klage-gegen-verlust-seines-bueros-a-3c13863e-d312-4820-b3ce-d8e33f4e994b#ref=rss)
+### großer
+
+* [https://www.spiegel.de/panorama/bildung/volkshochschule-und-mehrwertsteuer-steuerfreiheit-fuer-online-poker-nicht-fuer-vhs-kurse-gastbeitrag](https://www.spiegel.de/panorama/bildung/volkshochschule-und-mehrwertsteuer-steuerfreiheit-fuer-online-poker-nicht-fuer-vhs-kurse-gastbeitrag-a-a1f23359-8769-4924-880b-4b41b77f18c7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-csu-spd-werden-wollen-sollen-das-bedeutet-das-wording-im-koalitionsvertrag](https://www.spiegel.de/politik/deutschland/cdu-csu-spd-werden-wollen-sollen-das-bedeutet-das-wording-im-koalitionsvertrag-a-01f5413b-47c3-4468-8786-a7a8fdb4a1f5#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/panorama/fragen-an-einen-metzger-kuehe-haben-auch-magneten-und-coladosen-im-magen](https://www.spiegel.de/panorama/fragen-an-einen-metzger-kuehe-haben-auch-magneten-und-coladosen-im-magen-a-9c438239-9237-429c-b781-d81fbb2d1907#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-csu-spd-der-koalitionsvertrag-in-der-videoanalyse](https://www.spiegel.de/politik/deutschland/cdu-csu-spd-der-koalitionsvertrag-in-der-videoanalyse-a-dbba0b87-1e54-4331-8ed3-de14a6a6cb64#ref=rss)
+### metzger
+
+* [https://www.spiegel.de/panorama/fragen-an-einen-metzger-kuehe-haben-auch-magneten-und-coladosen-im-magen](https://www.spiegel.de/panorama/fragen-an-einen-metzger-kuehe-haben-auch-magneten-und-coladosen-im-magen-a-9c438239-9237-429c-b781-d81fbb2d1907#ref=rss)
+### magen
+
+* [https://www.spiegel.de/panorama/fragen-an-einen-metzger-kuehe-haben-auch-magneten-und-coladosen-im-magen](https://www.spiegel.de/panorama/fragen-an-einen-metzger-kuehe-haben-auch-magneten-und-coladosen-im-magen-a-9c438239-9237-429c-b781-d81fbb2d1907#ref=rss)
+### später
+
+* [https://www.spiegel.de/panorama/fragen-an-einen-metzger-kuehe-haben-auch-magneten-und-coladosen-im-magen](https://www.spiegel.de/panorama/fragen-an-einen-metzger-kuehe-haben-auch-magneten-und-coladosen-im-magen-a-9c438239-9237-429c-b781-d81fbb2d1907#ref=rss)
+* [https://www.spiegel.de/sport/pferdesport-der-13-jahre-alte-celebre-dallen-der-am-ende-all-seiner-kraefte-war](https://www.spiegel.de/sport/pferdesport-der-13-jahre-alte-celebre-dallen-der-am-ende-all-seiner-kraefte-war-a-6741536f-be8c-4090-acdc-cf32c5c49298#ref=rss)
+### drei
+
+* [https://www.spiegel.de/panorama/blitzermarathon-tausende-temposuender-erwischt](https://www.spiegel.de/panorama/blitzermarathon-tausende-temposuender-erwischt-a-c4c26776-e517-4dc7-bc62-5905b682adac#ref=rss)
+* [https://www.spiegel.de/sport/pferdesport-der-13-jahre-alte-celebre-dallen-der-am-ende-all-seiner-kraefte-war](https://www.spiegel.de/sport/pferdesport-der-13-jahre-alte-celebre-dallen-der-am-ende-all-seiner-kraefte-war-a-6741536f-be8c-4090-acdc-cf32c5c49298#ref=rss)
+### tage
+
+* [https://www.spiegel.de/panorama/blitzermarathon-tausende-temposuender-erwischt](https://www.spiegel.de/panorama/blitzermarathon-tausende-temposuender-erwischt-a-c4c26776-e517-4dc7-bc62-5905b682adac#ref=rss)
+* [https://www.spiegel.de/sport/pferdesport-der-13-jahre-alte-celebre-dallen-der-am-ende-all-seiner-kraefte-war](https://www.spiegel.de/sport/pferdesport-der-13-jahre-alte-celebre-dallen-der-am-ende-all-seiner-kraefte-war-a-6741536f-be8c-4090-acdc-cf32c5c49298#ref=rss)
+### mehrere
+
+* [https://www.spiegel.de/panorama/blitzermarathon-tausende-temposuender-erwischt](https://www.spiegel.de/panorama/blitzermarathon-tausende-temposuender-erwischt-a-c4c26776-e517-4dc7-bc62-5905b682adac#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-reinickendorf-neue-einzelheiten-zu-mord-auf-gehweg](https://www.spiegel.de/panorama/justiz/berlin-reinickendorf-neue-einzelheiten-zu-mord-auf-gehweg-a-ee3f7d18-e9cc-4464-b03b-042bce944fd9#ref=rss)
+### einige
+
+* [https://www.spiegel.de/panorama/oesterreich-85-deutsche-sterben-in-den-alpen-im-vergangenen-jahr](https://www.spiegel.de/panorama/oesterreich-85-deutsche-sterben-in-den-alpen-im-vergangenen-jahr-a-05ede42c-0e96-4a88-a921-54eee09a05b3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/koalitionsvertrag-im-quiz-was-ist-neu-im-vertrag-zwischen-union-und-spd](https://www.spiegel.de/politik/deutschland/koalitionsvertrag-im-quiz-was-ist-neu-im-vertrag-zwischen-union-und-spd-a-e29255aa-804b-4028-af6f-e0ee2bb4524e#ref=rss)
+### cdu
+
+* [https://www.spiegel.de/politik/deutschland/cdu-csu-spd-der-koalitionsvertrag-in-der-videoanalyse](https://www.spiegel.de/politik/deutschland/cdu-csu-spd-der-koalitionsvertrag-in-der-videoanalyse-a-dbba0b87-1e54-4331-8ed3-de14a6a6cb64#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-csu-spd-werden-wollen-sollen-das-bedeutet-das-wording-im-koalitionsvertrag](https://www.spiegel.de/politik/deutschland/cdu-csu-spd-werden-wollen-sollen-das-bedeutet-das-wording-im-koalitionsvertrag-a-01f5413b-47c3-4468-8786-a7a8fdb4a1f5#ref=rss)
+### csu
+
+* [https://www.spiegel.de/politik/deutschland/cdu-csu-spd-der-koalitionsvertrag-in-der-videoanalyse](https://www.spiegel.de/politik/deutschland/cdu-csu-spd-der-koalitionsvertrag-in-der-videoanalyse-a-dbba0b87-1e54-4331-8ed3-de14a6a6cb64#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-csu-spd-werden-wollen-sollen-das-bedeutet-das-wording-im-koalitionsvertrag](https://www.spiegel.de/politik/deutschland/cdu-csu-spd-werden-wollen-sollen-das-bedeutet-das-wording-im-koalitionsvertrag-a-01f5413b-47c3-4468-8786-a7a8fdb4a1f5#ref=rss)
+### offensive
+
+* [https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot-podcast](https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot-podcast-a-c95a50ca-8223-481e-8f54-89cb9cad919e#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot](https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot-a-1e469d19-1be2-48bd-b202-068ab0cbac15#ref=rss)
+### erklärungsnot
+
+* [https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot-podcast](https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot-podcast-a-c95a50ca-8223-481e-8f54-89cb9cad919e#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot](https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot-a-1e469d19-1be2-48bd-b202-068ab0cbac15#ref=rss)
+### waffenstillstand
+
+* [https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot-podcast](https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot-podcast-a-c95a50ca-8223-481e-8f54-89cb9cad919e#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot](https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot-a-1e469d19-1be2-48bd-b202-068ab0cbac15#ref=rss)
+### hamas
+
+* [https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot-podcast](https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot-podcast-a-c95a50ca-8223-481e-8f54-89cb9cad919e#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot](https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot-a-1e469d19-1be2-48bd-b202-068ab0cbac15#ref=rss)
+### geschichte
+
+* [https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot-podcast](https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot-podcast-a-c95a50ca-8223-481e-8f54-89cb9cad919e#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot](https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot-a-1e469d19-1be2-48bd-b202-068ab0cbac15#ref=rss)
+### rückt
+
+* [https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot-podcast](https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot-podcast-a-c95a50ca-8223-481e-8f54-89cb9cad919e#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot](https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot-a-1e469d19-1be2-48bd-b202-068ab0cbac15#ref=rss)
+### palästinensische
+
+* [https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot-podcast](https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot-podcast-a-c95a50ca-8223-481e-8f54-89cb9cad919e#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot](https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot-a-1e469d19-1be2-48bd-b202-068ab0cbac15#ref=rss)
+### retter
+
+* [https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot-podcast](https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot-podcast-a-c95a50ca-8223-481e-8f54-89cb9cad919e#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot](https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot-a-1e469d19-1be2-48bd-b202-068ab0cbac15#ref=rss)
+### zielscheibe
+
+* [https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot-podcast](https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot-podcast-a-c95a50ca-8223-481e-8f54-89cb9cad919e#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot](https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot-a-1e469d19-1be2-48bd-b202-068ab0cbac15#ref=rss)
+### spiegelredakteurin
+
+* [https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot-podcast](https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot-podcast-a-c95a50ca-8223-481e-8f54-89cb9cad919e#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot](https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot-a-1e469d19-1be2-48bd-b202-068ab0cbac15#ref=rss)
+### dunja
+
+* [https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot-podcast](https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot-podcast-a-c95a50ca-8223-481e-8f54-89cb9cad919e#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot](https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot-a-1e469d19-1be2-48bd-b202-068ab0cbac15#ref=rss)
+### ramadan
+
+* [https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot-podcast](https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot-podcast-a-c95a50ca-8223-481e-8f54-89cb9cad919e#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot](https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot-a-1e469d19-1be2-48bd-b202-068ab0cbac15#ref=rss)
+### krieg
+
+* [https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot-podcast](https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot-podcast-a-c95a50ca-8223-481e-8f54-89cb9cad919e#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot](https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot-a-1e469d19-1be2-48bd-b202-068ab0cbac15#ref=rss)
+### herrscht
+
+* [https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot-podcast](https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot-podcast-a-c95a50ca-8223-481e-8f54-89cb9cad919e#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot](https://www.spiegel.de/ausland/gaza-israels-militaer-in-der-offensive-und-in-erklaerungsnot-a-1e469d19-1be2-48bd-b202-068ab0cbac15#ref=rss)
+### norwegen
+
+* [https://www.spiegel.de/panorama/gesellschaft/norwegen-will-vergewaltigung-ueber-fehlende-zustimmung-definieren-nur-ja-heisst-ja](https://www.spiegel.de/panorama/gesellschaft/norwegen-will-vergewaltigung-ueber-fehlende-zustimmung-definieren-nur-ja-heisst-ja-a-04ea3d7e-c687-4b47-a65e-aa1103d23563#ref=rss)
+### vergewaltigung
+
+* [https://www.spiegel.de/panorama/gesellschaft/norwegen-will-vergewaltigung-ueber-fehlende-zustimmung-definieren-nur-ja-heisst-ja](https://www.spiegel.de/panorama/gesellschaft/norwegen-will-vergewaltigung-ueber-fehlende-zustimmung-definieren-nur-ja-heisst-ja-a-04ea3d7e-c687-4b47-a65e-aa1103d23563#ref=rss)
+### zustimmung
+
+* [https://www.spiegel.de/panorama/gesellschaft/norwegen-will-vergewaltigung-ueber-fehlende-zustimmung-definieren-nur-ja-heisst-ja](https://www.spiegel.de/panorama/gesellschaft/norwegen-will-vergewaltigung-ueber-fehlende-zustimmung-definieren-nur-ja-heisst-ja-a-04ea3d7e-c687-4b47-a65e-aa1103d23563#ref=rss)
+### ja
+
+* [https://www.spiegel.de/panorama/gesellschaft/norwegen-will-vergewaltigung-ueber-fehlende-zustimmung-definieren-nur-ja-heisst-ja](https://www.spiegel.de/panorama/gesellschaft/norwegen-will-vergewaltigung-ueber-fehlende-zustimmung-definieren-nur-ja-heisst-ja-a-04ea3d7e-c687-4b47-a65e-aa1103d23563#ref=rss)
+### land
+
+* [https://www.spiegel.de/panorama/gesellschaft/norwegen-will-vergewaltigung-ueber-fehlende-zustimmung-definieren-nur-ja-heisst-ja](https://www.spiegel.de/panorama/gesellschaft/norwegen-will-vergewaltigung-ueber-fehlende-zustimmung-definieren-nur-ja-heisst-ja-a-04ea3d7e-c687-4b47-a65e-aa1103d23563#ref=rss)
+* [https://www.spiegel.de/ausland/usa-weisses-haus-bestaetigt-zoelle-fuer-china-von-145-prozent](https://www.spiegel.de/ausland/usa-weisses-haus-bestaetigt-zoelle-fuer-china-von-145-prozent-a-256b1da9-d7c8-4bb9-8498-9b5065fb254d#ref=rss)
+### celebre
+
+* [https://www.spiegel.de/sport/pferdesport-der-13-jahre-alte-celebre-dallen-der-am-ende-all-seiner-kraefte-war](https://www.spiegel.de/sport/pferdesport-der-13-jahre-alte-celebre-dallen-der-am-ende-all-seiner-kraefte-war-a-6741536f-be8c-4090-acdc-cf32c5c49298#ref=rss)
+### china
+
+* [https://www.spiegel.de/ausland/usa-weisses-haus-bestaetigt-zoelle-fuer-china-von-145-prozent](https://www.spiegel.de/ausland/usa-weisses-haus-bestaetigt-zoelle-fuer-china-von-145-prozent-a-256b1da9-d7c8-4bb9-8498-9b5065fb254d#ref=rss)
+### 145
+
+* [https://www.spiegel.de/ausland/usa-weisses-haus-bestaetigt-zoelle-fuer-china-von-145-prozent](https://www.spiegel.de/ausland/usa-weisses-haus-bestaetigt-zoelle-fuer-china-von-145-prozent-a-256b1da9-d7c8-4bb9-8498-9b5065fb254d#ref=rss)
+### fast
+
+* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-koalitionsgespraeche-waeren-fast-am-thema-steuern-gescheitert](https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-koalitionsgespraeche-waeren-fast-am-thema-steuern-gescheitert-a-4c8d733a-fe3d-452a-920f-89feb129795f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/prada-uebernimmt-versace-fuer-fast-1-4-milliarden-dollar](https://www.spiegel.de/wirtschaft/unternehmen/prada-uebernimmt-versace-fuer-fast-1-4-milliarden-dollar-a-695799db-9618-42fd-ba5a-9a75cdf8ecbf#ref=rss)
+### vorerst
+
+* [https://www.spiegel.de/wirtschaft/berlin-ver-di-und-bvg-einigen-sich-auf-tarifabschluss](https://www.spiegel.de/wirtschaft/berlin-ver-di-und-bvg-einigen-sich-auf-tarifabschluss-a-9fa802f1-1599-429a-8064-94b1e7b989b7#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-laesst-zoelle-vorerst-pausieren-warum-ist-er-doch-noch-eingeknickt](https://www.spiegel.de/ausland/donald-trump-laesst-zoelle-vorerst-pausieren-warum-ist-er-doch-noch-eingeknickt-a-d7346bd5-d33a-43dd-bf1d-9501b4cbdb9a#ref=rss)
+### jan
+
+* [https://www.spiegel.de/kultur/max-strohe-sternekoch-ueber-ein-essen-bei-jan-hartwig](https://www.spiegel.de/kultur/max-strohe-sternekoch-ueber-ein-essen-bei-jan-hartwig-a-5c7b93b7-c5e5-443b-9896-a0c46ace5ba5#ref=rss)
+### hartwig
+
+* [https://www.spiegel.de/kultur/max-strohe-sternekoch-ueber-ein-essen-bei-jan-hartwig](https://www.spiegel.de/kultur/max-strohe-sternekoch-ueber-ein-essen-bei-jan-hartwig-a-5c7b93b7-c5e5-443b-9896-a0c46ace5ba5#ref=rss)
+### köche
+
+* [https://www.spiegel.de/kultur/max-strohe-sternekoch-ueber-ein-essen-bei-jan-hartwig](https://www.spiegel.de/kultur/max-strohe-sternekoch-ueber-ein-essen-bei-jan-hartwig-a-5c7b93b7-c5e5-443b-9896-a0c46ace5ba5#ref=rss)
+### digitalministerium
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-der-termintrick-beim-arzt-donald-trump-digitalministerium](https://www.spiegel.de/politik/deutschland/news-des-tages-der-termintrick-beim-arzt-donald-trump-digitalministerium-a-90be384c-e5bc-4930-8a14-d0cc67a1ecd1#ref=rss)
 ### millionen
 
-* [https://www.spiegel.de/wirtschaft/soziales/patienten-verbringen-jaehrlich-hunderte-millionen-stunden-in-wartezimmern](https://www.spiegel.de/wirtschaft/soziales/patienten-verbringen-jaehrlich-hunderte-millionen-stunden-in-wartezimmern-a-a3badc73-2270-4947-872f-65b1fbb85229#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/statistisches-bundesamt-2-8-millionen-menschen-in-deutschland-haben-noch-nie-das-internet-genutzt](https://www.spiegel.de/netzwelt/web/statistisches-bundesamt-2-8-millionen-menschen-in-deutschland-haben-noch-nie-das-internet-genutzt-a-c89b5ef7-440d-4981-84ef-3be6c48856fc#ref=rss)
-### zeigen
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-der-termintrick-beim-arzt-donald-trump-digitalministerium](https://www.spiegel.de/politik/deutschland/news-des-tages-der-termintrick-beim-arzt-donald-trump-digitalministerium-a-90be384c-e5bc-4930-8a14-d0cc67a1ecd1#ref=rss)
+* [https://www.spiegel.de/sport/fussball/kylian-mbappe-anwaelte-beschlagnahmen-55-millionen-euro-bei-psg](https://www.spiegel.de/sport/fussball/kylian-mbappe-anwaelte-beschlagnahmen-55-millionen-euro-bei-psg-a-b61a4a8f-060a-45db-82a0-35ea3ab8c6a6#ref=rss)
+### gletscher
 
-* [https://www.spiegel.de/wirtschaft/soziales/patienten-verbringen-jaehrlich-hunderte-millionen-stunden-in-wartezimmern](https://www.spiegel.de/wirtschaft/soziales/patienten-verbringen-jaehrlich-hunderte-millionen-stunden-in-wartezimmern-a-a3badc73-2270-4947-872f-65b1fbb85229#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/statistisches-bundesamt-2-8-millionen-menschen-in-deutschland-haben-noch-nie-das-internet-genutzt](https://www.spiegel.de/netzwelt/web/statistisches-bundesamt-2-8-millionen-menschen-in-deutschland-haben-noch-nie-das-internet-genutzt-a-c89b5ef7-440d-4981-84ef-3be6c48856fc#ref=rss)
-### robotaxi
+* [https://www.spiegel.de/wissenschaft/natur/klimawandel-gletscher-in-oesterreich-tauen-in-den-naechsten-jahrzehnten-weg](https://www.spiegel.de/wissenschaft/natur/klimawandel-gletscher-in-oesterreich-tauen-in-den-naechsten-jahrzehnten-weg-a-f0653090-3a29-480a-bacd-84c6d2b1d352#ref=rss)
+### eingehalten
 
-* [https://www.spiegel.de/auto/los-angeles-leeres-robotaxi-blockiert-drive-thru](https://www.spiegel.de/auto/los-angeles-leeres-robotaxi-blockiert-drive-thru-a-e9431c34-fdf5-479a-98c2-05bbc35fa866#ref=rss)
-### bundesamt
+* [https://www.spiegel.de/wissenschaft/natur/klimawandel-gletscher-in-oesterreich-tauen-in-den-naechsten-jahrzehnten-weg](https://www.spiegel.de/wissenschaft/natur/klimawandel-gletscher-in-oesterreich-tauen-in-den-naechsten-jahrzehnten-weg-a-f0653090-3a29-480a-bacd-84c6d2b1d352#ref=rss)
+* [https://www.spiegel.de/sport/fussball/kylian-mbappe-anwaelte-beschlagnahmen-55-millionen-euro-bei-psg](https://www.spiegel.de/sport/fussball/kylian-mbappe-anwaelte-beschlagnahmen-55-millionen-euro-bei-psg-a-b61a4a8f-060a-45db-82a0-35ea3ab8c6a6#ref=rss)
+### kylian
 
-* [https://www.spiegel.de/netzwelt/web/statistisches-bundesamt-2-8-millionen-menschen-in-deutschland-haben-noch-nie-das-internet-genutzt](https://www.spiegel.de/netzwelt/web/statistisches-bundesamt-2-8-millionen-menschen-in-deutschland-haben-noch-nie-das-internet-genutzt-a-c89b5ef7-440d-4981-84ef-3be6c48856fc#ref=rss)
-### nie
+* [https://www.spiegel.de/sport/fussball/kylian-mbappe-anwaelte-beschlagnahmen-55-millionen-euro-bei-psg](https://www.spiegel.de/sport/fussball/kylian-mbappe-anwaelte-beschlagnahmen-55-millionen-euro-bei-psg-a-b61a4a8f-060a-45db-82a0-35ea3ab8c6a6#ref=rss)
+### mbappé
 
-* [https://www.spiegel.de/netzwelt/web/statistisches-bundesamt-2-8-millionen-menschen-in-deutschland-haben-noch-nie-das-internet-genutzt](https://www.spiegel.de/netzwelt/web/statistisches-bundesamt-2-8-millionen-menschen-in-deutschland-haben-noch-nie-das-internet-genutzt-a-c89b5ef7-440d-4981-84ef-3be6c48856fc#ref=rss)
-### richard
+* [https://www.spiegel.de/sport/fussball/kylian-mbappe-anwaelte-beschlagnahmen-55-millionen-euro-bei-psg](https://www.spiegel.de/sport/fussball/kylian-mbappe-anwaelte-beschlagnahmen-55-millionen-euro-bei-psg-a-b61a4a8f-060a-45db-82a0-35ea3ab8c6a6#ref=rss)
+### anwälte
 
-* [https://www.spiegel.de/politik/richard-david-precht-ueber-aufruestung-kriegsgefahr-und-die-gruenen-spiegel-spitzengespraech](https://www.spiegel.de/politik/richard-david-precht-ueber-aufruestung-kriegsgefahr-und-die-gruenen-spiegel-spitzengespraech-a-52eca6ba-d324-441a-afae-3545f794dafc#ref=rss)
-### david
+* [https://www.spiegel.de/sport/fussball/kylian-mbappe-anwaelte-beschlagnahmen-55-millionen-euro-bei-psg](https://www.spiegel.de/sport/fussball/kylian-mbappe-anwaelte-beschlagnahmen-55-millionen-euro-bei-psg-a-b61a4a8f-060a-45db-82a0-35ea3ab8c6a6#ref=rss)
+### psg
 
-* [https://www.spiegel.de/politik/richard-david-precht-ueber-aufruestung-kriegsgefahr-und-die-gruenen-spiegel-spitzengespraech](https://www.spiegel.de/politik/richard-david-precht-ueber-aufruestung-kriegsgefahr-und-die-gruenen-spiegel-spitzengespraech-a-52eca6ba-d324-441a-afae-3545f794dafc#ref=rss)
-### precht
+* [https://www.spiegel.de/sport/fussball/kylian-mbappe-anwaelte-beschlagnahmen-55-millionen-euro-bei-psg](https://www.spiegel.de/sport/fussball/kylian-mbappe-anwaelte-beschlagnahmen-55-millionen-euro-bei-psg-a-b61a4a8f-060a-45db-82a0-35ea3ab8c6a6#ref=rss)
+### folgen
 
-* [https://www.spiegel.de/politik/richard-david-precht-ueber-aufruestung-kriegsgefahr-und-die-gruenen-spiegel-spitzengespraech](https://www.spiegel.de/politik/richard-david-precht-ueber-aufruestung-kriegsgefahr-und-die-gruenen-spiegel-spitzengespraech-a-52eca6ba-d324-441a-afae-3545f794dafc#ref=rss)
-### grünen
+* [https://www.spiegel.de/sport/fussball/kylian-mbappe-anwaelte-beschlagnahmen-55-millionen-euro-bei-psg](https://www.spiegel.de/sport/fussball/kylian-mbappe-anwaelte-beschlagnahmen-55-millionen-euro-bei-psg-a-b61a4a8f-060a-45db-82a0-35ea3ab8c6a6#ref=rss)
+* [https://www.spiegel.de/sport/rugby-star-sebastian-chabal-kann-sich-an-kein-spiel-seiner-karriere-erinnern](https://www.spiegel.de/sport/rugby-star-sebastian-chabal-kann-sich-an-kein-spiel-seiner-karriere-erinnern-a-56d65128-ad34-4163-b67b-2441ce041b6d#ref=rss)
+### neue
 
-* [https://www.spiegel.de/politik/richard-david-precht-ueber-aufruestung-kriegsgefahr-und-die-gruenen-spiegel-spitzengespraech](https://www.spiegel.de/politik/richard-david-precht-ueber-aufruestung-kriegsgefahr-und-die-gruenen-spiegel-spitzengespraech-a-52eca6ba-d324-441a-afae-3545f794dafc#ref=rss)
-### gerade
+* [https://www.spiegel.de/politik/deutschland/koalitionsvertrag-im-quiz-was-ist-neu-im-vertrag-zwischen-union-und-spd](https://www.spiegel.de/politik/deutschland/koalitionsvertrag-im-quiz-was-ist-neu-im-vertrag-zwischen-union-und-spd-a-e29255aa-804b-4028-af6f-e0ee2bb4524e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-reinickendorf-neue-einzelheiten-zu-mord-auf-gehweg](https://www.spiegel.de/panorama/justiz/berlin-reinickendorf-neue-einzelheiten-zu-mord-auf-gehweg-a-ee3f7d18-e9cc-4464-b03b-042bce944fd9#ref=rss)
+### stehen
 
-* [https://www.spiegel.de/politik/richard-david-precht-ueber-aufruestung-kriegsgefahr-und-die-gruenen-spiegel-spitzengespraech](https://www.spiegel.de/politik/richard-david-precht-ueber-aufruestung-kriegsgefahr-und-die-gruenen-spiegel-spitzengespraech-a-52eca6ba-d324-441a-afae-3545f794dafc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/koalitionsvertrag-von-cdu-csu-und-spd-jens-spahn-zweifelt-an-rascher-mindestlohnerhoehung](https://www.spiegel.de/politik/deutschland/koalitionsvertrag-von-cdu-csu-und-spd-jens-spahn-zweifelt-an-rascher-mindestlohnerhoehung-a-cd899242-a5d7-496e-aa46-5a42abfdbaef#ref=rss)
-### jens
+* [https://www.spiegel.de/politik/deutschland/koalitionsvertrag-im-quiz-was-ist-neu-im-vertrag-zwischen-union-und-spd](https://www.spiegel.de/politik/deutschland/koalitionsvertrag-im-quiz-was-ist-neu-im-vertrag-zwischen-union-und-spd-a-e29255aa-804b-4028-af6f-e0ee2bb4524e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-csu-spd-werden-wollen-sollen-das-bedeutet-das-wording-im-koalitionsvertrag](https://www.spiegel.de/politik/deutschland/cdu-csu-spd-werden-wollen-sollen-das-bedeutet-das-wording-im-koalitionsvertrag-a-01f5413b-47c3-4468-8786-a7a8fdb4a1f5#ref=rss)
+### anjelica
 
-* [https://www.spiegel.de/politik/deutschland/koalitionsvertrag-von-cdu-csu-und-spd-jens-spahn-zweifelt-an-rascher-mindestlohnerhoehung](https://www.spiegel.de/politik/deutschland/koalitionsvertrag-von-cdu-csu-und-spd-jens-spahn-zweifelt-an-rascher-mindestlohnerhoehung-a-cd899242-a5d7-496e-aa46-5a42abfdbaef#ref=rss)
-### spahn
+* [https://www.spiegel.de/panorama/leute/anjelica-huston-hatte-krebs-und-nimmt-das-leben-nun-weniger-ernst](https://www.spiegel.de/panorama/leute/anjelica-huston-hatte-krebs-und-nimmt-das-leben-nun-weniger-ernst-a-2f1f22e1-4362-4802-bb79-5d48ccaf795f#ref=rss)
+### huston
 
-* [https://www.spiegel.de/politik/deutschland/koalitionsvertrag-von-cdu-csu-und-spd-jens-spahn-zweifelt-an-rascher-mindestlohnerhoehung](https://www.spiegel.de/politik/deutschland/koalitionsvertrag-von-cdu-csu-und-spd-jens-spahn-zweifelt-an-rascher-mindestlohnerhoehung-a-cd899242-a5d7-496e-aa46-5a42abfdbaef#ref=rss)
-### mindestlohnerhöhung
+* [https://www.spiegel.de/panorama/leute/anjelica-huston-hatte-krebs-und-nimmt-das-leben-nun-weniger-ernst](https://www.spiegel.de/panorama/leute/anjelica-huston-hatte-krebs-und-nimmt-das-leben-nun-weniger-ernst-a-2f1f22e1-4362-4802-bb79-5d48ccaf795f#ref=rss)
+### berlinreinickendorf
 
-* [https://www.spiegel.de/politik/deutschland/koalitionsvertrag-von-cdu-csu-und-spd-jens-spahn-zweifelt-an-rascher-mindestlohnerhoehung](https://www.spiegel.de/politik/deutschland/koalitionsvertrag-von-cdu-csu-und-spd-jens-spahn-zweifelt-an-rascher-mindestlohnerhoehung-a-cd899242-a5d7-496e-aa46-5a42abfdbaef#ref=rss)
-### gehen
+* [https://www.spiegel.de/panorama/justiz/berlin-reinickendorf-neue-einzelheiten-zu-mord-auf-gehweg](https://www.spiegel.de/panorama/justiz/berlin-reinickendorf-neue-einzelheiten-zu-mord-auf-gehweg-a-ee3f7d18-e9cc-4464-b03b-042bce944fd9#ref=rss)
+### haddeby
 
-* [https://www.spiegel.de/politik/deutschland/koalitionsvertrag-von-cdu-csu-und-spd-jens-spahn-zweifelt-an-rascher-mindestlohnerhoehung](https://www.spiegel.de/politik/deutschland/koalitionsvertrag-von-cdu-csu-und-spd-jens-spahn-zweifelt-an-rascher-mindestlohnerhoehung-a-cd899242-a5d7-496e-aa46-5a42abfdbaef#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/moenchengladbach-zwoelf-festnahmen-bei-einsatz-gegen-falsche-wasserwerker](https://www.spiegel.de/panorama/justiz/moenchengladbach-zwoelf-festnahmen-bei-einsatz-gegen-falsche-wasserwerker-a-748427b0-7ff6-4baf-a6c4-fadcddfa3411#ref=rss)
-### übergriffe
+* [https://www.spiegel.de/auto/ampelmaennchen-der-anderen-art-wikinger-regeln-verkehr-in-haddeby](https://www.spiegel.de/auto/ampelmaennchen-der-anderen-art-wikinger-regeln-verkehr-in-haddeby-a-4da0ff8a-e5ba-4599-a8dd-968c521937d8#ref=rss)
+### prada
 
-* [https://www.spiegel.de/panorama/bildung/antisemitismus-an-unis-ein-sechstel-der-studierenden-mit-antisemitischen-ansichten](https://www.spiegel.de/panorama/bildung/antisemitismus-an-unis-ein-sechstel-der-studierenden-mit-antisemitischen-ansichten-a-970534ce-2e9b-4a03-b4a4-18cb1c368abf#ref=rss)
-* [https://www.spiegel.de/kultur/kino/drehbuchautor-james-toback-zu-zahlung-von-milliardenbetrag-verurteilt](https://www.spiegel.de/kultur/kino/drehbuchautor-james-toback-zu-zahlung-von-milliardenbetrag-verurteilt-a-b70407f9-fdea-4f51-a87a-d741775ab7a5#ref=rss)
-### themen
+* [https://www.spiegel.de/wirtschaft/unternehmen/prada-uebernimmt-versace-fuer-fast-1-4-milliarden-dollar](https://www.spiegel.de/wirtschaft/unternehmen/prada-uebernimmt-versace-fuer-fast-1-4-milliarden-dollar-a-695799db-9618-42fd-ba5a-9a75cdf8ecbf#ref=rss)
+### versace
 
-* [https://www.spiegel.de/politik/deutschland/koalitionsvertrag-was-union-und-spd-fuer-das-land-wollen-themen-und-begriffe-in-der-datenanalyse](https://www.spiegel.de/politik/deutschland/koalitionsvertrag-was-union-und-spd-fuer-das-land-wollen-themen-und-begriffe-in-der-datenanalyse-a-763b63e3-cff8-416e-8d8c-bbf0c037e6e8#ref=rss)
-### begriffe
+* [https://www.spiegel.de/wirtschaft/unternehmen/prada-uebernimmt-versace-fuer-fast-1-4-milliarden-dollar](https://www.spiegel.de/wirtschaft/unternehmen/prada-uebernimmt-versace-fuer-fast-1-4-milliarden-dollar-a-695799db-9618-42fd-ba5a-9a75cdf8ecbf#ref=rss)
+### chabal
 
-* [https://www.spiegel.de/politik/deutschland/koalitionsvertrag-was-union-und-spd-fuer-das-land-wollen-themen-und-begriffe-in-der-datenanalyse](https://www.spiegel.de/politik/deutschland/koalitionsvertrag-was-union-und-spd-fuer-das-land-wollen-themen-und-begriffe-in-der-datenanalyse-a-763b63e3-cff8-416e-8d8c-bbf0c037e6e8#ref=rss)
-### mönchengladbach
+* [https://www.spiegel.de/sport/rugby-star-sebastian-chabal-kann-sich-an-kein-spiel-seiner-karriere-erinnern](https://www.spiegel.de/sport/rugby-star-sebastian-chabal-kann-sich-an-kein-spiel-seiner-karriere-erinnern-a-56d65128-ad34-4163-b67b-2441ce041b6d#ref=rss)
+### gerhard
 
-* [https://www.spiegel.de/panorama/justiz/moenchengladbach-zwoelf-festnahmen-bei-einsatz-gegen-falsche-wasserwerker](https://www.spiegel.de/panorama/justiz/moenchengladbach-zwoelf-festnahmen-bei-einsatz-gegen-falsche-wasserwerker-a-748427b0-7ff6-4baf-a6c4-fadcddfa3411#ref=rss)
-### wasserwerker
+* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-altbundeskanzler-scheitert-mit-klage-gegen-verlust-seines-bueros](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-altbundeskanzler-scheitert-mit-klage-gegen-verlust-seines-bueros-a-3c13863e-d312-4820-b3ce-d8e33f4e994b#ref=rss)
+### schröder
 
-* [https://www.spiegel.de/panorama/justiz/moenchengladbach-zwoelf-festnahmen-bei-einsatz-gegen-falsche-wasserwerker](https://www.spiegel.de/panorama/justiz/moenchengladbach-zwoelf-festnahmen-bei-einsatz-gegen-falsche-wasserwerker-a-748427b0-7ff6-4baf-a6c4-fadcddfa3411#ref=rss)
-### münchen
-
-* [https://www.spiegel.de/panorama/muenchen-kindergartenkind-bleibt-mit-hand-in-parkscheinautomat-stecken](https://www.spiegel.de/panorama/muenchen-kindergartenkind-bleibt-mit-hand-in-parkscheinautomat-stecken-a-8b5d7387-9c15-42ca-a581-cb4d8f244c85#ref=rss)
-### hand
-
-* [https://www.spiegel.de/panorama/muenchen-kindergartenkind-bleibt-mit-hand-in-parkscheinautomat-stecken](https://www.spiegel.de/panorama/muenchen-kindergartenkind-bleibt-mit-hand-in-parkscheinautomat-stecken-a-8b5d7387-9c15-42ca-a581-cb4d8f244c85#ref=rss)
-### james
-
-* [https://www.spiegel.de/kultur/kino/drehbuchautor-james-toback-zu-zahlung-von-milliardenbetrag-verurteilt](https://www.spiegel.de/kultur/kino/drehbuchautor-james-toback-zu-zahlung-von-milliardenbetrag-verurteilt-a-b70407f9-fdea-4f51-a87a-d741775ab7a5#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/kultur/kino/drehbuchautor-james-toback-zu-zahlung-von-milliardenbetrag-verurteilt](https://www.spiegel.de/kultur/kino/drehbuchautor-james-toback-zu-zahlung-von-milliardenbetrag-verurteilt-a-b70407f9-fdea-4f51-a87a-d741775ab7a5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-altbundeskanzler-scheitert-mit-klage-gegen-verlust-seines-bueros](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-altbundeskanzler-scheitert-mit-klage-gegen-verlust-seines-bueros-a-3c13863e-d312-4820-b3ce-d8e33f4e994b#ref=rss)
 
