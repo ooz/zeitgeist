@@ -4,349 +4,306 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### krieg
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-podcast](https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-podcast-a-d796c339-0395-49ff-a1ef-cc1b428f4ad1#ref=rss)
-* [https://www.spiegel.de/politik/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge](https://www.spiegel.de/politik/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-a-fb115532-dd0c-4480-bc31-93f67d43f3ff#ref=rss)
-* [https://www.spiegel.de/ausland/wie-fuehrt-russland-krieg-podcast](https://www.spiegel.de/ausland/wie-fuehrt-russland-krieg-podcast-a-f13e0c4a-3a65-4071-a2e8-7b828e91f249#ref=rss)
-* [https://www.spiegel.de/kultur/tv/tatort-aus-wien-ueber-gourmet-restaurant-messer-mit-eisner-und-fellner](https://www.spiegel.de/kultur/tv/tatort-aus-wien-ueber-gourmet-restaurant-messer-mit-eisner-und-fellner-a-dfd81d78-8e0f-4869-b5eb-f9e46db77ed7#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/wie-fuehrt-russland-krieg-podcast](https://www.spiegel.de/ausland/wie-fuehrt-russland-krieg-podcast-a-f13e0c4a-3a65-4071-a2e8-7b828e91f249#ref=rss)
-* [https://www.spiegel.de/ausland/ukrainekrieg-us-gesandter-steve-witkoff-erneut-zu-gespraechen-mit-wladimir-putin-in-russland](https://www.spiegel.de/ausland/ukrainekrieg-us-gesandter-steve-witkoff-erneut-zu-gespraechen-mit-wladimir-putin-in-russland-a-774df14b-2eb4-4a3f-8863-1e07d34ddab1#ref=rss)
-### vier
-
-* [https://www.spiegel.de/panorama/justiz/duisburg-vier-tatverdaechtige-nach-drohmail-gegen-ermittelt](https://www.spiegel.de/panorama/justiz/duisburg-vier-tatverdaechtige-nach-drohmail-gegen-ermittelt-a-3c1ab91a-252b-425f-a5b1-9740af24eea1#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-propalaestinensischer-aktivist-muss-deutschland-vorerst-nicht-verlassen](https://www.spiegel.de/panorama/justiz/berlin-propalaestinensischer-aktivist-muss-deutschland-vorerst-nicht-verlassen-a-acf166cd-165b-48c7-8770-6d8fcde8a649#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bundeswehr-bewaehrungsstrafen-fuer-diebstahl-in-kasernen-verhaengt](https://www.spiegel.de/panorama/justiz/bundeswehr-bewaehrungsstrafen-fuer-diebstahl-in-kasernen-verhaengt-a-eda7da15-35fd-4c15-9d83-ce54e99195c9#ref=rss)
 ### usa
 
-* [https://www.spiegel.de/ausland/usa-parallelen-zwischen-donald-trump-und-liz-truss-an-den-finanzmaerkten](https://www.spiegel.de/ausland/usa-parallelen-zwischen-donald-trump-und-liz-truss-an-den-finanzmaerkten-a-d0b0e684-8961-401a-91aa-49fb49390d4b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/zoelle-in-den-usa-grossbank-jpmorgan-chase-erwartet-erhebliche-turbulenzen](https://www.spiegel.de/wirtschaft/unternehmen/zoelle-in-den-usa-grossbank-jpmorgan-chase-erwartet-erhebliche-turbulenzen-a-4632decc-edd8-423d-97ad-84917b2d7975#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-wehrdienst-organhandel-eu-gegen-usa](https://www.spiegel.de/politik/deutschland/news-des-tages-wehrdienst-organhandel-eu-gegen-usa-a-8b1f4cc5-60a1-4b28-ac46-35da5f6fbb37#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/go-european-gruenderin-laura-catz-mir-ging-es-nie-darum-die-usa-zu-boykottieren](https://www.spiegel.de/netzwelt/netzpolitik/go-european-gruenderin-laura-catz-mir-ging-es-nie-darum-die-usa-zu-boykottieren-a-5d574f5e-b52c-431d-9167-f7bc9d096a35#ref=rss)
-### roboter
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-podcast](https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-podcast-a-d796c339-0395-49ff-a1ef-cc1b428f4ad1#ref=rss)
-* [https://www.spiegel.de/politik/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge](https://www.spiegel.de/politik/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-a-fb115532-dd0c-4480-bc31-93f67d43f3ff#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/panorama/bildung/sicherheit-in-deutschland-so-koennte-zivilschutz-an-schulen-aussehen](https://www.spiegel.de/panorama/bildung/sicherheit-in-deutschland-so-koennte-zivilschutz-an-schulen-aussehen-a-896078b6-ea1a-4836-b0fe-eccf0f08ee1a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-propalaestinensischer-aktivist-muss-deutschland-vorerst-nicht-verlassen](https://www.spiegel.de/panorama/justiz/berlin-propalaestinensischer-aktivist-muss-deutschland-vorerst-nicht-verlassen-a-acf166cd-165b-48c7-8770-6d8fcde8a649#ref=rss)
-* [https://www.spiegel.de/wissenschaft/ameise-breitet-sich-in-deutschland-aus](https://www.spiegel.de/wissenschaft/ameise-breitet-sich-in-deutschland-aus-a-552940d7-8cb0-4143-8bcd-7659941ea1ab#ref=rss)
-### spiegel
-
-* [https://www.spiegel.de/panorama/bildung/sicherheit-in-deutschland-so-koennte-zivilschutz-an-schulen-aussehen](https://www.spiegel.de/panorama/bildung/sicherheit-in-deutschland-so-koennte-zivilschutz-an-schulen-aussehen-a-896078b6-ea1a-4836-b0fe-eccf0f08ee1a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/duisburg-vier-tatverdaechtige-nach-drohmail-gegen-ermittelt](https://www.spiegel.de/panorama/justiz/duisburg-vier-tatverdaechtige-nach-drohmail-gegen-ermittelt-a-3c1ab91a-252b-425f-a5b1-9740af24eea1#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/organhandel-in-kenia-einblicke-in-eine-spiegel-recherche-und-ein-brutales-system](https://www.spiegel.de/panorama/justiz/organhandel-in-kenia-einblicke-in-eine-spiegel-recherche-und-ein-brutales-system-a-a35e4d3c-5973-4bf2-8912-6edce05ff666#ref=rss)
-### elon
-
-* [https://www.spiegel.de/panorama/tesla-killer-elon-musk-wie-der-tech-milliardaer-seine-automarke-in-die-krise-stuerzt](https://www.spiegel.de/panorama/tesla-killer-elon-musk-wie-der-tech-milliardaer-seine-automarke-in-die-krise-stuerzt-a-302d1de8-bcca-4704-b5ec-34bd5d74fc46#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-podcast](https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-podcast-a-d796c339-0395-49ff-a1ef-cc1b428f4ad1#ref=rss)
-* [https://www.spiegel.de/politik/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge](https://www.spiegel.de/politik/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-a-fb115532-dd0c-4480-bc31-93f67d43f3ff#ref=rss)
-### musk
-
-* [https://www.spiegel.de/panorama/tesla-killer-elon-musk-wie-der-tech-milliardaer-seine-automarke-in-die-krise-stuerzt](https://www.spiegel.de/panorama/tesla-killer-elon-musk-wie-der-tech-milliardaer-seine-automarke-in-die-krise-stuerzt-a-302d1de8-bcca-4704-b5ec-34bd5d74fc46#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-podcast](https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-podcast-a-d796c339-0395-49ff-a1ef-cc1b428f4ad1#ref=rss)
-* [https://www.spiegel.de/politik/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge](https://www.spiegel.de/politik/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-a-fb115532-dd0c-4480-bc31-93f67d43f3ff#ref=rss)
-### erwartet
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/zoelle-in-den-usa-grossbank-jpmorgan-chase-erwartet-erhebliche-turbulenzen](https://www.spiegel.de/wirtschaft/unternehmen/zoelle-in-den-usa-grossbank-jpmorgan-chase-erwartet-erhebliche-turbulenzen-a-4632decc-edd8-423d-97ad-84917b2d7975#ref=rss)
-* [https://www.spiegel.de/ausland/ukrainekrieg-us-gesandter-steve-witkoff-erneut-zu-gespraechen-mit-wladimir-putin-in-russland](https://www.spiegel.de/ausland/ukrainekrieg-us-gesandter-steve-witkoff-erneut-zu-gespraechen-mit-wladimir-putin-in-russland-a-774df14b-2eb4-4a3f-8863-1e07d34ddab1#ref=rss)
-### verurteilt
-
-* [https://www.spiegel.de/panorama/justiz/bundeswehr-bewaehrungsstrafen-fuer-diebstahl-in-kasernen-verhaengt](https://www.spiegel.de/panorama/justiz/bundeswehr-bewaehrungsstrafen-fuer-diebstahl-in-kasernen-verhaengt-a-eda7da15-35fd-4c15-9d83-ce54e99195c9#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mainz-eltern-wegen-mordes-an-tochter-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/mainz-eltern-wegen-mordes-an-tochter-zu-lebenslanger-haft-verurteilt-a-b617db24-a3bb-47d5-880e-f42659100e3a#ref=rss)
-### system
-
-* [https://www.spiegel.de/auto/schifffahrt-imo-einigt-sich-auf-emissionshandel-fuer-co2](https://www.spiegel.de/auto/schifffahrt-imo-einigt-sich-auf-emissionshandel-fuer-co2-a-8351efaa-bf2f-473e-9d09-9ae394dbc28e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/organhandel-in-kenia-einblicke-in-eine-spiegel-recherche-und-ein-brutales-system](https://www.spiegel.de/panorama/justiz/organhandel-in-kenia-einblicke-in-eine-spiegel-recherche-und-ein-brutales-system-a-a35e4d3c-5973-4bf2-8912-6edce05ff666#ref=rss)
-### weit
-
-* [https://www.spiegel.de/auto/schifffahrt-imo-einigt-sich-auf-emissionshandel-fuer-co2](https://www.spiegel.de/auto/schifffahrt-imo-einigt-sich-auf-emissionshandel-fuer-co2-a-8351efaa-bf2f-473e-9d09-9ae394dbc28e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-podcast](https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-podcast-a-d796c339-0395-49ff-a1ef-cc1b428f4ad1#ref=rss)
-* [https://www.spiegel.de/politik/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge](https://www.spiegel.de/politik/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-a-fb115532-dd0c-4480-bc31-93f67d43f3ff#ref=rss)
-### schulen
-
-* [https://www.spiegel.de/panorama/bildung/sicherheit-in-deutschland-so-koennte-zivilschutz-an-schulen-aussehen](https://www.spiegel.de/panorama/bildung/sicherheit-in-deutschland-so-koennte-zivilschutz-an-schulen-aussehen-a-896078b6-ea1a-4836-b0fe-eccf0f08ee1a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/duisburg-vier-tatverdaechtige-nach-drohmail-gegen-ermittelt](https://www.spiegel.de/panorama/justiz/duisburg-vier-tatverdaechtige-nach-drohmail-gegen-ermittelt-a-3c1ab91a-252b-425f-a5b1-9740af24eea1#ref=rss)
-### viele
-
-* [https://www.spiegel.de/panorama/bildung/sicherheit-in-deutschland-so-koennte-zivilschutz-an-schulen-aussehen](https://www.spiegel.de/panorama/bildung/sicherheit-in-deutschland-so-koennte-zivilschutz-an-schulen-aussehen-a-896078b6-ea1a-4836-b0fe-eccf0f08ee1a#ref=rss)
-* [https://www.spiegel.de/ausland/bolivien-metzger-protestieren-mit-schweineohren-und-kuhhoernern-gegen-inflation](https://www.spiegel.de/ausland/bolivien-metzger-protestieren-mit-schweineohren-und-kuhhoernern-gegen-inflation-a-eacb2f9f-d2ba-4f94-855e-54e5d521ae6a#ref=rss)
-### new
-
-* [https://www.spiegel.de/panorama/new-york-verunglueckte-familie-wollte-geburtstag-eines-kindes-feiern](https://www.spiegel.de/panorama/new-york-verunglueckte-familie-wollte-geburtstag-eines-kindes-feiern-a-cfc12e98-654b-48a2-8670-b061065bddaf#ref=rss)
-### bauern
-
-* [https://www.spiegel.de/ausland/mexiko-praesidentin-claudia-sheinbaum-gibt-wasser-fuer-bauern-in-texas-frei](https://www.spiegel.de/ausland/mexiko-praesidentin-claudia-sheinbaum-gibt-wasser-fuer-bauern-in-texas-frei-a-75c23c6d-8afb-4e0b-9804-7bdcefc51eb2#ref=rss)
-### texas
-
-* [https://www.spiegel.de/ausland/mexiko-praesidentin-claudia-sheinbaum-gibt-wasser-fuer-bauern-in-texas-frei](https://www.spiegel.de/ausland/mexiko-praesidentin-claudia-sheinbaum-gibt-wasser-fuer-bauern-in-texas-frei-a-75c23c6d-8afb-4e0b-9804-7bdcefc51eb2#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/ausland/mexiko-praesidentin-claudia-sheinbaum-gibt-wasser-fuer-bauern-in-texas-frei](https://www.spiegel.de/ausland/mexiko-praesidentin-claudia-sheinbaum-gibt-wasser-fuer-bauern-in-texas-frei-a-75c23c6d-8afb-4e0b-9804-7bdcefc51eb2#ref=rss)
-* [https://www.spiegel.de/ausland/usa-parallelen-zwischen-donald-trump-und-liz-truss-an-den-finanzmaerkten](https://www.spiegel.de/ausland/usa-parallelen-zwischen-donald-trump-und-liz-truss-an-den-finanzmaerkten-a-d0b0e684-8961-401a-91aa-49fb49390d4b#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/mexiko-praesidentin-claudia-sheinbaum-gibt-wasser-fuer-bauern-in-texas-frei](https://www.spiegel.de/ausland/mexiko-praesidentin-claudia-sheinbaum-gibt-wasser-fuer-bauern-in-texas-frei-a-75c23c6d-8afb-4e0b-9804-7bdcefc51eb2#ref=rss)
-* [https://www.spiegel.de/ausland/usa-parallelen-zwischen-donald-trump-und-liz-truss-an-den-finanzmaerkten](https://www.spiegel.de/ausland/usa-parallelen-zwischen-donald-trump-und-liz-truss-an-den-finanzmaerkten-a-d0b0e684-8961-401a-91aa-49fb49390d4b#ref=rss)
-### berliner
-
-* [https://www.spiegel.de/panorama/justiz/berlin-propalaestinensischer-aktivist-muss-deutschland-vorerst-nicht-verlassen](https://www.spiegel.de/panorama/justiz/berlin-propalaestinensischer-aktivist-muss-deutschland-vorerst-nicht-verlassen-a-acf166cd-165b-48c7-8770-6d8fcde8a649#ref=rss)
-### bolivien
-
-* [https://www.spiegel.de/ausland/bolivien-metzger-protestieren-mit-schweineohren-und-kuhhoernern-gegen-inflation](https://www.spiegel.de/ausland/bolivien-metzger-protestieren-mit-schweineohren-und-kuhhoernern-gegen-inflation-a-eacb2f9f-d2ba-4f94-855e-54e5d521ae6a#ref=rss)
-### inflation
-
-* [https://www.spiegel.de/ausland/bolivien-metzger-protestieren-mit-schweineohren-und-kuhhoernern-gegen-inflation](https://www.spiegel.de/ausland/bolivien-metzger-protestieren-mit-schweineohren-und-kuhhoernern-gegen-inflation-a-eacb2f9f-d2ba-4f94-855e-54e5d521ae6a#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/bolivien-metzger-protestieren-mit-schweineohren-und-kuhhoernern-gegen-inflation](https://www.spiegel.de/ausland/bolivien-metzger-protestieren-mit-schweineohren-und-kuhhoernern-gegen-inflation-a-eacb2f9f-d2ba-4f94-855e-54e5d521ae6a#ref=rss)
-* [https://www.spiegel.de/ausland/wie-fuehrt-russland-krieg-podcast](https://www.spiegel.de/ausland/wie-fuehrt-russland-krieg-podcast-a-f13e0c4a-3a65-4071-a2e8-7b828e91f249#ref=rss)
-### bon
-
-* [https://www.spiegel.de/kultur/musik/bon-iver-tara-nome-doyle-sophia-blenda-aya-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/bon-iver-tara-nome-doyle-sophia-blenda-aya-abgehoert-album-der-woche-a-4a6f3a02-27a3-478a-9857-90124433406b#ref=rss)
-### iver
-
-* [https://www.spiegel.de/kultur/musik/bon-iver-tara-nome-doyle-sophia-blenda-aya-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/bon-iver-tara-nome-doyle-sophia-blenda-aya-abgehoert-album-der-woche-a-4a6f3a02-27a3-478a-9857-90124433406b#ref=rss)
-### tara
-
-* [https://www.spiegel.de/kultur/musik/bon-iver-tara-nome-doyle-sophia-blenda-aya-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/bon-iver-tara-nome-doyle-sophia-blenda-aya-abgehoert-album-der-woche-a-4a6f3a02-27a3-478a-9857-90124433406b#ref=rss)
-### nome
-
-* [https://www.spiegel.de/kultur/musik/bon-iver-tara-nome-doyle-sophia-blenda-aya-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/bon-iver-tara-nome-doyle-sophia-blenda-aya-abgehoert-album-der-woche-a-4a6f3a02-27a3-478a-9857-90124433406b#ref=rss)
-### doyle
-
-* [https://www.spiegel.de/kultur/musik/bon-iver-tara-nome-doyle-sophia-blenda-aya-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/bon-iver-tara-nome-doyle-sophia-blenda-aya-abgehoert-album-der-woche-a-4a6f3a02-27a3-478a-9857-90124433406b#ref=rss)
-### album
-
-* [https://www.spiegel.de/kultur/musik/bon-iver-tara-nome-doyle-sophia-blenda-aya-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/bon-iver-tara-nome-doyle-sophia-blenda-aya-abgehoert-album-der-woche-a-4a6f3a02-27a3-478a-9857-90124433406b#ref=rss)
-### neues
-
-* [https://www.spiegel.de/kultur/musik/bon-iver-tara-nome-doyle-sophia-blenda-aya-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/bon-iver-tara-nome-doyle-sophia-blenda-aya-abgehoert-album-der-woche-a-4a6f3a02-27a3-478a-9857-90124433406b#ref=rss)
-### parallelen
-
-* [https://www.spiegel.de/ausland/usa-parallelen-zwischen-donald-trump-und-liz-truss-an-den-finanzmaerkten](https://www.spiegel.de/ausland/usa-parallelen-zwischen-donald-trump-und-liz-truss-an-den-finanzmaerkten-a-d0b0e684-8961-401a-91aa-49fb49390d4b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/handelskrieg-taiwan-beginnt-zoll-verhandlungen-mit-usa](https://www.spiegel.de/wirtschaft/handelskrieg-taiwan-beginnt-zoll-verhandlungen-mit-usa-a-6b8b117c-c800-44fd-9223-0b583372028d#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/capybara-cafe-in-st-augustine-florida-kuscheln-mit-wasserschweinen](https://www.spiegel.de/panorama/gesellschaft/capybara-cafe-in-st-augustine-florida-kuscheln-mit-wasserschweinen-a-7a0e7f3b-7fde-4c12-bdcd-63e546a225de#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-steve-witkoff-handelskrieg-usa-vs-china-beginn-der-weidesaison](https://www.spiegel.de/politik/deutschland/news-steve-witkoff-handelskrieg-usa-vs-china-beginn-der-weidesaison-a-b3f0c6a8-a8b9-4fab-aa6e-b58137d0e528#ref=rss)
+* [https://www.spiegel.de/ausland/iran-usa-deuten-bereitschaft-zu-kompromiss-bei-gespraechen-mit-iran-an](https://www.spiegel.de/ausland/iran-usa-deuten-bereitschaft-zu-kompromiss-bei-gespraechen-mit-iran-an-a-3083b511-b9fe-4c00-b491-4c9ac80473ac#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/ausland/usa-parallelen-zwischen-donald-trump-und-liz-truss-an-den-finanzmaerkten](https://www.spiegel.de/ausland/usa-parallelen-zwischen-donald-trump-und-liz-truss-an-den-finanzmaerkten-a-d0b0e684-8961-401a-91aa-49fb49390d4b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/zoelle-in-den-usa-grossbank-jpmorgan-chase-erwartet-erhebliche-turbulenzen](https://www.spiegel.de/wirtschaft/unternehmen/zoelle-in-den-usa-grossbank-jpmorgan-chase-erwartet-erhebliche-turbulenzen-a-4632decc-edd8-423d-97ad-84917b2d7975#ref=rss)
-### zölle
+* [https://www.spiegel.de/ausland/donald-trump-weisses-haus-ersetzt-barack-obama-portraet-durch-bild-von-attentat](https://www.spiegel.de/ausland/donald-trump-weisses-haus-ersetzt-barack-obama-portraet-durch-bild-von-attentat-a-4ae34cc2-63cb-4c43-86c8-6085cb62e9ba#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-irrtuemlich-abgeschobener-familienvater-trotz-supreme-court-urteil-weiter-inhaftiert](https://www.spiegel.de/ausland/donald-trump-irrtuemlich-abgeschobener-familienvater-trotz-supreme-court-urteil-weiter-inhaftiert-a-75c3b7ef-a415-4466-a6d2-9162a96911d7#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-lobt-sich-fuer-ergebnisse-bei-kognitivem-test-bei-routine-gesundheitscheck](https://www.spiegel.de/ausland/donald-trump-lobt-sich-fuer-ergebnisse-bei-kognitivem-test-bei-routine-gesundheitscheck-a-647e0d46-9fe4-411a-b52b-4a115df19cd4#ref=rss)
+### trump
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/zoelle-in-den-usa-grossbank-jpmorgan-chase-erwartet-erhebliche-turbulenzen](https://www.spiegel.de/wirtschaft/unternehmen/zoelle-in-den-usa-grossbank-jpmorgan-chase-erwartet-erhebliche-turbulenzen-a-4632decc-edd8-423d-97ad-84917b2d7975#ref=rss)
-### großbank
+* [https://www.spiegel.de/ausland/donald-trump-weisses-haus-ersetzt-barack-obama-portraet-durch-bild-von-attentat](https://www.spiegel.de/ausland/donald-trump-weisses-haus-ersetzt-barack-obama-portraet-durch-bild-von-attentat-a-4ae34cc2-63cb-4c43-86c8-6085cb62e9ba#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-irrtuemlich-abgeschobener-familienvater-trotz-supreme-court-urteil-weiter-inhaftiert](https://www.spiegel.de/ausland/donald-trump-irrtuemlich-abgeschobener-familienvater-trotz-supreme-court-urteil-weiter-inhaftiert-a-75c3b7ef-a415-4466-a6d2-9162a96911d7#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-lobt-sich-fuer-ergebnisse-bei-kognitivem-test-bei-routine-gesundheitscheck](https://www.spiegel.de/ausland/donald-trump-lobt-sich-fuer-ergebnisse-bei-kognitivem-test-bei-routine-gesundheitscheck-a-647e0d46-9fe4-411a-b52b-4a115df19cd4#ref=rss)
+### darüber
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/zoelle-in-den-usa-grossbank-jpmorgan-chase-erwartet-erhebliche-turbulenzen](https://www.spiegel.de/wirtschaft/unternehmen/zoelle-in-den-usa-grossbank-jpmorgan-chase-erwartet-erhebliche-turbulenzen-a-4632decc-edd8-423d-97ad-84917b2d7975#ref=rss)
-### jpmorgan
+* [https://www.spiegel.de/panorama/leute/sarah-connor-verarbeitet-aerger-ueber-ficka-auf-neuem-album-freigeistin](https://www.spiegel.de/panorama/leute/sarah-connor-verarbeitet-aerger-ueber-ficka-auf-neuem-album-freigeistin-a-eda13974-ba6b-41d3-9896-580faa233119#ref=rss)
+* [https://www.spiegel.de/familie/familie-diskussionen-mit-den-kindern-zahlen-sich-irgendwann-aus](https://www.spiegel.de/familie/familie-diskussionen-mit-den-kindern-zahlen-sich-irgendwann-aus-a-b5a6d8ad-d7e9-44e7-abae-7689a2834525#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/koalitionsverhandlungen-am-schluss-streute-markus-soeder-noch-einmal-sand-ins-getriebe](https://www.spiegel.de/politik/deutschland/koalitionsverhandlungen-am-schluss-streute-markus-soeder-noch-einmal-sand-ins-getriebe-a-6967727d-69e3-4eca-9e29-abf91bfbacc3#ref=rss)
+### selbst
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/zoelle-in-den-usa-grossbank-jpmorgan-chase-erwartet-erhebliche-turbulenzen](https://www.spiegel.de/wirtschaft/unternehmen/zoelle-in-den-usa-grossbank-jpmorgan-chase-erwartet-erhebliche-turbulenzen-a-4632decc-edd8-423d-97ad-84917b2d7975#ref=rss)
-### chase
+* [https://www.spiegel.de/start/collegium-academicum-heidelberg-diese-studierenden-haben-sich-ihr-eigenes-wohnheim-gebaut](https://www.spiegel.de/start/collegium-academicum-heidelberg-diese-studierenden-haben-sich-ihr-eigenes-wohnheim-gebaut-a-cc938dbf-9b7b-4b02-ba57-1b9d6f26ae86#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-weisses-haus-ersetzt-barack-obama-portraet-durch-bild-von-attentat](https://www.spiegel.de/ausland/donald-trump-weisses-haus-ersetzt-barack-obama-portraet-durch-bild-von-attentat-a-4ae34cc2-63cb-4c43-86c8-6085cb62e9ba#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-lobt-sich-fuer-ergebnisse-bei-kognitivem-test-bei-routine-gesundheitscheck](https://www.spiegel.de/ausland/donald-trump-lobt-sich-fuer-ergebnisse-bei-kognitivem-test-bei-routine-gesundheitscheck-a-647e0d46-9fe4-411a-b52b-4a115df19cd4#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/zoelle-in-den-usa-grossbank-jpmorgan-chase-erwartet-erhebliche-turbulenzen](https://www.spiegel.de/wirtschaft/unternehmen/zoelle-in-den-usa-grossbank-jpmorgan-chase-erwartet-erhebliche-turbulenzen-a-4632decc-edd8-423d-97ad-84917b2d7975#ref=rss)
-### kasernen
+* [https://www.spiegel.de/ausland/ukraine-meldet-verletzte-nach-luftangriffen-auf-kyjiw-und-charkiw](https://www.spiegel.de/ausland/ukraine-meldet-verletzte-nach-luftangriffen-auf-kyjiw-und-charkiw-a-1d1659cf-d486-4369-9c66-56ad1fab7dc5#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/china-warnung-vor-starken-winden-menschen-unter-50-kilogramm-koennten-weggeweht-werden](https://www.spiegel.de/panorama/gesellschaft/china-warnung-vor-starken-winden-menschen-unter-50-kilogramm-koennten-weggeweht-werden-a-ababecbf-e375-47be-b7d1-a3b3ea05ffcf#ref=rss)
+* [https://www.spiegel.de/wirtschaft/argentinien-milliardenschweres-hilfspaket-von-iwf-und-weltbank](https://www.spiegel.de/wirtschaft/argentinien-milliardenschweres-hilfspaket-von-iwf-und-weltbank-a-ce719f81-1d1e-4db1-8909-030ebe747c46#ref=rss)
+### china
 
-* [https://www.spiegel.de/panorama/justiz/bundeswehr-bewaehrungsstrafen-fuer-diebstahl-in-kasernen-verhaengt](https://www.spiegel.de/panorama/justiz/bundeswehr-bewaehrungsstrafen-fuer-diebstahl-in-kasernen-verhaengt-a-eda7da15-35fd-4c15-9d83-ce54e99195c9#ref=rss)
-### unter
+* [https://www.spiegel.de/panorama/gesellschaft/china-warnung-vor-starken-winden-menschen-unter-50-kilogramm-koennten-weggeweht-werden](https://www.spiegel.de/panorama/gesellschaft/china-warnung-vor-starken-winden-menschen-unter-50-kilogramm-koennten-weggeweht-werden-a-ababecbf-e375-47be-b7d1-a3b3ea05ffcf#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-steve-witkoff-handelskrieg-usa-vs-china-beginn-der-weidesaison](https://www.spiegel.de/politik/deutschland/news-steve-witkoff-handelskrieg-usa-vs-china-beginn-der-weidesaison-a-b3f0c6a8-a8b9-4fab-aa6e-b58137d0e528#ref=rss)
+### ärger
 
-* [https://www.spiegel.de/panorama/justiz/bundeswehr-bewaehrungsstrafen-fuer-diebstahl-in-kasernen-verhaengt](https://www.spiegel.de/panorama/justiz/bundeswehr-bewaehrungsstrafen-fuer-diebstahl-in-kasernen-verhaengt-a-eda7da15-35fd-4c15-9d83-ce54e99195c9#ref=rss)
-* [https://www.spiegel.de/sport/fussball/uli-hoeness-ueber-fc-bayern-muenchen-festgeldkonto-so-gut-wie-aufgebraucht](https://www.spiegel.de/sport/fussball/uli-hoeness-ueber-fc-bayern-muenchen-festgeldkonto-so-gut-wie-aufgebraucht-a-52b66e00-5edd-445f-a02f-d157d48c9fe0#ref=rss)
-### schifffahrt
+* [https://www.spiegel.de/panorama/leute/sarah-connor-verarbeitet-aerger-ueber-ficka-auf-neuem-album-freigeistin](https://www.spiegel.de/panorama/leute/sarah-connor-verarbeitet-aerger-ueber-ficka-auf-neuem-album-freigeistin-a-eda13974-ba6b-41d3-9896-580faa233119#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/koalitionsverhandlungen-am-schluss-streute-markus-soeder-noch-einmal-sand-ins-getriebe](https://www.spiegel.de/politik/deutschland/koalitionsverhandlungen-am-schluss-streute-markus-soeder-noch-einmal-sand-ins-getriebe-a-6967727d-69e3-4eca-9e29-abf91bfbacc3#ref=rss)
+### gebaut
 
-* [https://www.spiegel.de/auto/schifffahrt-imo-einigt-sich-auf-emissionshandel-fuer-co2](https://www.spiegel.de/auto/schifffahrt-imo-einigt-sich-auf-emissionshandel-fuer-co2-a-8351efaa-bf2f-473e-9d09-9ae394dbc28e#ref=rss)
-### darauf
+* [https://www.spiegel.de/start/collegium-academicum-heidelberg-diese-studierenden-haben-sich-ihr-eigenes-wohnheim-gebaut](https://www.spiegel.de/start/collegium-academicum-heidelberg-diese-studierenden-haben-sich-ihr-eigenes-wohnheim-gebaut-a-cc938dbf-9b7b-4b02-ba57-1b9d6f26ae86#ref=rss)
+* [https://www.spiegel.de/auto/fahrberichte/lopifit-im-test-ein-laufband-auf-raedern](https://www.spiegel.de/auto/fahrberichte/lopifit-im-test-ein-laufband-auf-raedern-a-794feff9-56ba-4323-9379-ef4af05a226d#ref=rss)
+### koalitionsvertrag
 
-* [https://www.spiegel.de/auto/schifffahrt-imo-einigt-sich-auf-emissionshandel-fuer-co2](https://www.spiegel.de/auto/schifffahrt-imo-einigt-sich-auf-emissionshandel-fuer-co2-a-8351efaa-bf2f-473e-9d09-9ae394dbc28e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/schleswig-holstein-heil-hitler-im-polizeifunk-beamter-geht-in-berufung](https://www.spiegel.de/panorama/justiz/schleswig-holstein-heil-hitler-im-polizeifunk-beamter-geht-in-berufung-a-34790925-590f-4eff-b46e-eda1af37d1e8#ref=rss)
-### humanoide
+* [https://www.spiegel.de/wissenschaft/koalitionsvertrag-das-bringt-das-regierungsprogramm-fuer-den-klimaschutz](https://www.spiegel.de/wissenschaft/koalitionsvertrag-das-bringt-das-regierungsprogramm-fuer-den-klimaschutz-a-e296ab36-a058-4c7b-a075-c35c9ff7af77#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/neuer-koalitionsvertrag-arbeitgeber-kritisieren-teure-rentenplaene](https://www.spiegel.de/wirtschaft/soziales/neuer-koalitionsvertrag-arbeitgeber-kritisieren-teure-rentenplaene-a-a6464946-e10b-4088-b3ac-6db124c219f4#ref=rss)
+### vietnam
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-podcast](https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-podcast-a-d796c339-0395-49ff-a1ef-cc1b428f4ad1#ref=rss)
-* [https://www.spiegel.de/politik/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge](https://www.spiegel.de/politik/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-a-fb115532-dd0c-4480-bc31-93f67d43f3ff#ref=rss)
-### künstliche
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-podcast](https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-podcast-a-d796c339-0395-49ff-a1ef-cc1b428f4ad1#ref=rss)
-* [https://www.spiegel.de/politik/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge](https://www.spiegel.de/politik/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-a-fb115532-dd0c-4480-bc31-93f67d43f3ff#ref=rss)
-### intelligenz
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-podcast](https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-podcast-a-d796c339-0395-49ff-a1ef-cc1b428f4ad1#ref=rss)
-* [https://www.spiegel.de/politik/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge](https://www.spiegel.de/politik/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-a-fb115532-dd0c-4480-bc31-93f67d43f3ff#ref=rss)
-### verspricht
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-podcast](https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-podcast-a-d796c339-0395-49ff-a1ef-cc1b428f4ad1#ref=rss)
-* [https://www.spiegel.de/politik/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge](https://www.spiegel.de/politik/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-a-fb115532-dd0c-4480-bc31-93f67d43f3ff#ref=rss)
-### große
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-podcast](https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-podcast-a-d796c339-0395-49ff-a1ef-cc1b428f4ad1#ref=rss)
-* [https://www.spiegel.de/politik/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge](https://www.spiegel.de/politik/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-a-fb115532-dd0c-4480-bc31-93f67d43f3ff#ref=rss)
-### sprünge
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-podcast](https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-podcast-a-d796c339-0395-49ff-a1ef-cc1b428f4ad1#ref=rss)
-* [https://www.spiegel.de/politik/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge](https://www.spiegel.de/politik/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-a-fb115532-dd0c-4480-bc31-93f67d43f3ff#ref=rss)
-### podcast
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-podcast](https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-podcast-a-d796c339-0395-49ff-a1ef-cc1b428f4ad1#ref=rss)
-* [https://www.spiegel.de/ausland/wie-fuehrt-russland-krieg-podcast](https://www.spiegel.de/ausland/wie-fuehrt-russland-krieg-podcast-a-f13e0c4a-3a65-4071-a2e8-7b828e91f249#ref=rss)
-### haushalt
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-podcast](https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-podcast-a-d796c339-0395-49ff-a1ef-cc1b428f4ad1#ref=rss)
-* [https://www.spiegel.de/politik/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge](https://www.spiegel.de/politik/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-a-fb115532-dd0c-4480-bc31-93f67d43f3ff#ref=rss)
-### ziehen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-podcast](https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-podcast-a-d796c339-0395-49ff-a1ef-cc1b428f4ad1#ref=rss)
-* [https://www.spiegel.de/politik/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge](https://www.spiegel.de/politik/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-a-fb115532-dd0c-4480-bc31-93f67d43f3ff#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-podcast](https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-podcast-a-d796c339-0395-49ff-a1ef-cc1b428f4ad1#ref=rss)
-* [https://www.spiegel.de/politik/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge](https://www.spiegel.de/politik/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-a-fb115532-dd0c-4480-bc31-93f67d43f3ff#ref=rss)
-### firmen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-podcast](https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-podcast-a-d796c339-0395-49ff-a1ef-cc1b428f4ad1#ref=rss)
-* [https://www.spiegel.de/politik/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge](https://www.spiegel.de/politik/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-a-fb115532-dd0c-4480-bc31-93f67d43f3ff#ref=rss)
-### stellen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-podcast](https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-podcast-a-d796c339-0395-49ff-a1ef-cc1b428f4ad1#ref=rss)
-* [https://www.spiegel.de/politik/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge](https://www.spiegel.de/politik/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-a-fb115532-dd0c-4480-bc31-93f67d43f3ff#ref=rss)
-### menschenähnliche
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-podcast](https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-podcast-a-d796c339-0395-49ff-a1ef-cc1b428f4ad1#ref=rss)
-* [https://www.spiegel.de/politik/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge](https://www.spiegel.de/politik/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-a-fb115532-dd0c-4480-bc31-93f67d43f3ff#ref=rss)
-### spiegelredakteur
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-podcast](https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-podcast-a-d796c339-0395-49ff-a1ef-cc1b428f4ad1#ref=rss)
-* [https://www.spiegel.de/politik/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge](https://www.spiegel.de/politik/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-a-fb115532-dd0c-4480-bc31-93f67d43f3ff#ref=rss)
-### marcel
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-podcast](https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-podcast-a-d796c339-0395-49ff-a1ef-cc1b428f4ad1#ref=rss)
-* [https://www.spiegel.de/politik/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge](https://www.spiegel.de/politik/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-a-fb115532-dd0c-4480-bc31-93f67d43f3ff#ref=rss)
-### rosenbach
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-podcast](https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-podcast-a-d796c339-0395-49ff-a1ef-cc1b428f4ad1#ref=rss)
-* [https://www.spiegel.de/politik/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge](https://www.spiegel.de/politik/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-a-fb115532-dd0c-4480-bc31-93f67d43f3ff#ref=rss)
-### recherchiert
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-podcast](https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-podcast-a-d796c339-0395-49ff-a1ef-cc1b428f4ad1#ref=rss)
-* [https://www.spiegel.de/politik/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge](https://www.spiegel.de/politik/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-a-fb115532-dd0c-4480-bc31-93f67d43f3ff#ref=rss)
-### branche
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-podcast](https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-podcast-a-d796c339-0395-49ff-a1ef-cc1b428f4ad1#ref=rss)
-* [https://www.spiegel.de/politik/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge](https://www.spiegel.de/politik/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-a-fb115532-dd0c-4480-bc31-93f67d43f3ff#ref=rss)
-### wirklich
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-podcast](https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-podcast-a-d796c339-0395-49ff-a1ef-cc1b428f4ad1#ref=rss)
-* [https://www.spiegel.de/politik/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge](https://www.spiegel.de/politik/humanoide-roboter-und-kuenstliche-intelligenz-nicht-nur-elon-musk-verspricht-grosse-spruenge-a-fb115532-dd0c-4480-bc31-93f67d43f3ff#ref=rss)
-### jürgen
-
-* [https://www.spiegel.de/kultur/kino/juergen-vogel-versuchte-durch-humor-zappelphilippsyndrom-zu-ueberspielen](https://www.spiegel.de/kultur/kino/juergen-vogel-versuchte-durch-humor-zappelphilippsyndrom-zu-ueberspielen-a-039c7e8c-0110-4e97-87b8-51687d409618#ref=rss)
-### vogel
-
-* [https://www.spiegel.de/kultur/kino/juergen-vogel-versuchte-durch-humor-zappelphilippsyndrom-zu-ueberspielen](https://www.spiegel.de/kultur/kino/juergen-vogel-versuchte-durch-humor-zappelphilippsyndrom-zu-ueberspielen-a-039c7e8c-0110-4e97-87b8-51687d409618#ref=rss)
-### führt
-
-* [https://www.spiegel.de/kultur/kino/juergen-vogel-versuchte-durch-humor-zappelphilippsyndrom-zu-ueberspielen](https://www.spiegel.de/kultur/kino/juergen-vogel-versuchte-durch-humor-zappelphilippsyndrom-zu-ueberspielen-a-039c7e8c-0110-4e97-87b8-51687d409618#ref=rss)
-* [https://www.spiegel.de/ausland/wie-fuehrt-russland-krieg-podcast](https://www.spiegel.de/ausland/wie-fuehrt-russland-krieg-podcast-a-f13e0c4a-3a65-4071-a2e8-7b828e91f249#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/ausland/wie-fuehrt-russland-krieg-podcast](https://www.spiegel.de/ausland/wie-fuehrt-russland-krieg-podcast-a-f13e0c4a-3a65-4071-a2e8-7b828e91f249#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-istanbuls-inhaftierter-buergermeister-ekrem-imamoglu-sagt-vor-gericht-aus](https://www.spiegel.de/ausland/tuerkei-istanbuls-inhaftierter-buergermeister-ekrem-imamoglu-sagt-vor-gericht-aus-a-eceaf2f7-d1a2-4a83-89bd-49ee8315a4d3#ref=rss)
-### ekrem
-
-* [https://www.spiegel.de/ausland/tuerkei-istanbuls-inhaftierter-buergermeister-ekrem-imamoglu-sagt-vor-gericht-aus](https://www.spiegel.de/ausland/tuerkei-istanbuls-inhaftierter-buergermeister-ekrem-imamoglu-sagt-vor-gericht-aus-a-eceaf2f7-d1a2-4a83-89bd-49ee8315a4d3#ref=rss)
-### i̇mamoğlu
-
-* [https://www.spiegel.de/ausland/tuerkei-istanbuls-inhaftierter-buergermeister-ekrem-imamoglu-sagt-vor-gericht-aus](https://www.spiegel.de/ausland/tuerkei-istanbuls-inhaftierter-buergermeister-ekrem-imamoglu-sagt-vor-gericht-aus-a-eceaf2f7-d1a2-4a83-89bd-49ee8315a4d3#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/ausland/tuerkei-istanbuls-inhaftierter-buergermeister-ekrem-imamoglu-sagt-vor-gericht-aus](https://www.spiegel.de/ausland/tuerkei-istanbuls-inhaftierter-buergermeister-ekrem-imamoglu-sagt-vor-gericht-aus-a-eceaf2f7-d1a2-4a83-89bd-49ee8315a4d3#ref=rss)
-### ich
-
-* [https://www.spiegel.de/ausland/tuerkei-istanbuls-inhaftierter-buergermeister-ekrem-imamoglu-sagt-vor-gericht-aus](https://www.spiegel.de/ausland/tuerkei-istanbuls-inhaftierter-buergermeister-ekrem-imamoglu-sagt-vor-gericht-aus-a-eceaf2f7-d1a2-4a83-89bd-49ee8315a4d3#ref=rss)
-### tatort
-
-* [https://www.spiegel.de/kultur/tv/tatort-aus-wien-ueber-gourmet-restaurant-messer-mit-eisner-und-fellner](https://www.spiegel.de/kultur/tv/tatort-aus-wien-ueber-gourmet-restaurant-messer-mit-eisner-und-fellner-a-dfd81d78-8e0f-4869-b5eb-f9e46db77ed7#ref=rss)
-### söder
-
-* [https://www.spiegel.de/politik/deutschland/csu-wie-markus-soeder-den-koalitionsvertrag-zelebriert](https://www.spiegel.de/politik/deutschland/csu-wie-markus-soeder-den-koalitionsvertrag-zelebriert-a-370fd5a3-7a28-4ca3-85f8-0c1f35a7118d#ref=rss)
-### wehrdienst
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-wehrdienst-organhandel-eu-gegen-usa](https://www.spiegel.de/politik/deutschland/news-des-tages-wehrdienst-organhandel-eu-gegen-usa-a-8b1f4cc5-60a1-4b28-ac46-35da5f6fbb37#ref=rss)
-### organhandel
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-wehrdienst-organhandel-eu-gegen-usa](https://www.spiegel.de/politik/deutschland/news-des-tages-wehrdienst-organhandel-eu-gegen-usa-a-8b1f4cc5-60a1-4b28-ac46-35da5f6fbb37#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/organhandel-in-kenia-einblicke-in-eine-spiegel-recherche-und-ein-brutales-system](https://www.spiegel.de/panorama/justiz/organhandel-in-kenia-einblicke-in-eine-spiegel-recherche-und-ein-brutales-system-a-a35e4d3c-5973-4bf2-8912-6edce05ff666#ref=rss)
+* [https://www.spiegel.de/ausland/vietnam-kriegsveteranen-suchen-erloesung-ausgerechnet-am-ort-ihrer-albtraeume](https://www.spiegel.de/ausland/vietnam-kriegsveteranen-suchen-erloesung-ausgerechnet-am-ort-ihrer-albtraeume-a-b9d669bc-df40-4339-82f2-a9aad7b8d063#ref=rss)
+* [https://www.spiegel.de/panorama/vietnam-amerikanische-soldaten-reisen-durchs-land-und-bitten-um-vergebung](https://www.spiegel.de/panorama/vietnam-amerikanische-soldaten-reisen-durchs-land-und-bitten-um-vergebung-a-50ae648b-aaba-4295-b319-4d08b6035866#ref=rss)
 ### steve
 
-* [https://www.spiegel.de/ausland/ukrainekrieg-us-gesandter-steve-witkoff-erneut-zu-gespraechen-mit-wladimir-putin-in-russland](https://www.spiegel.de/ausland/ukrainekrieg-us-gesandter-steve-witkoff-erneut-zu-gespraechen-mit-wladimir-putin-in-russland-a-774df14b-2eb4-4a3f-8863-1e07d34ddab1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-steve-witkoff-handelskrieg-usa-vs-china-beginn-der-weidesaison](https://www.spiegel.de/politik/deutschland/news-steve-witkoff-handelskrieg-usa-vs-china-beginn-der-weidesaison-a-b3f0c6a8-a8b9-4fab-aa6e-b58137d0e528#ref=rss)
+* [https://www.spiegel.de/ausland/iran-usa-deuten-bereitschaft-zu-kompromiss-bei-gespraechen-mit-iran-an](https://www.spiegel.de/ausland/iran-usa-deuten-bereitschaft-zu-kompromiss-bei-gespraechen-mit-iran-an-a-3083b511-b9fe-4c00-b491-4c9ac80473ac#ref=rss)
 ### witkoff
 
-* [https://www.spiegel.de/ausland/ukrainekrieg-us-gesandter-steve-witkoff-erneut-zu-gespraechen-mit-wladimir-putin-in-russland](https://www.spiegel.de/ausland/ukrainekrieg-us-gesandter-steve-witkoff-erneut-zu-gespraechen-mit-wladimir-putin-in-russland-a-774df14b-2eb4-4a3f-8863-1e07d34ddab1#ref=rss)
-### vergangenen
+* [https://www.spiegel.de/politik/deutschland/news-steve-witkoff-handelskrieg-usa-vs-china-beginn-der-weidesaison](https://www.spiegel.de/politik/deutschland/news-steve-witkoff-handelskrieg-usa-vs-china-beginn-der-weidesaison-a-b3f0c6a8-a8b9-4fab-aa6e-b58137d0e528#ref=rss)
+* [https://www.spiegel.de/ausland/iran-usa-deuten-bereitschaft-zu-kompromiss-bei-gespraechen-mit-iran-an](https://www.spiegel.de/ausland/iran-usa-deuten-bereitschaft-zu-kompromiss-bei-gespraechen-mit-iran-an-a-3083b511-b9fe-4c00-b491-4c9ac80473ac#ref=rss)
+### iran
 
-* [https://www.spiegel.de/ausland/ukrainekrieg-us-gesandter-steve-witkoff-erneut-zu-gespraechen-mit-wladimir-putin-in-russland](https://www.spiegel.de/ausland/ukrainekrieg-us-gesandter-steve-witkoff-erneut-zu-gespraechen-mit-wladimir-putin-in-russland-a-774df14b-2eb4-4a3f-8863-1e07d34ddab1#ref=rss)
-* [https://www.spiegel.de/panorama/bnd-chef-bruno-kahl-liebaeugelt-mit-vatikan-botschafterposten](https://www.spiegel.de/panorama/bnd-chef-bruno-kahl-liebaeugelt-mit-vatikan-botschafterposten-a-4ff6541f-49d9-43e9-ac23-fcb1f3c5bfab#ref=rss)
-### monaten
+* [https://www.spiegel.de/ausland/iran-usa-deuten-bereitschaft-zu-kompromiss-bei-gespraechen-mit-iran-an](https://www.spiegel.de/ausland/iran-usa-deuten-bereitschaft-zu-kompromiss-bei-gespraechen-mit-iran-an-a-3083b511-b9fe-4c00-b491-4c9ac80473ac#ref=rss)
+### wir
 
-* [https://www.spiegel.de/ausland/ukrainekrieg-us-gesandter-steve-witkoff-erneut-zu-gespraechen-mit-wladimir-putin-in-russland](https://www.spiegel.de/ausland/ukrainekrieg-us-gesandter-steve-witkoff-erneut-zu-gespraechen-mit-wladimir-putin-in-russland-a-774df14b-2eb4-4a3f-8863-1e07d34ddab1#ref=rss)
-* [https://www.spiegel.de/panorama/bnd-chef-bruno-kahl-liebaeugelt-mit-vatikan-botschafterposten](https://www.spiegel.de/panorama/bnd-chef-bruno-kahl-liebaeugelt-mit-vatikan-botschafterposten-a-4ff6541f-49d9-43e9-ac23-fcb1f3c5bfab#ref=rss)
-### mehrfach
+* [https://www.spiegel.de/panorama/vietnam-amerikanische-soldaten-reisen-durchs-land-und-bitten-um-vergebung](https://www.spiegel.de/panorama/vietnam-amerikanische-soldaten-reisen-durchs-land-und-bitten-um-vergebung-a-50ae648b-aaba-4295-b319-4d08b6035866#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/ausland/ukrainekrieg-us-gesandter-steve-witkoff-erneut-zu-gespraechen-mit-wladimir-putin-in-russland](https://www.spiegel.de/ausland/ukrainekrieg-us-gesandter-steve-witkoff-erneut-zu-gespraechen-mit-wladimir-putin-in-russland-a-774df14b-2eb4-4a3f-8863-1e07d34ddab1#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/schleswig-holstein-heil-hitler-im-polizeifunk-beamter-geht-in-berufung](https://www.spiegel.de/panorama/justiz/schleswig-holstein-heil-hitler-im-polizeifunk-beamter-geht-in-berufung-a-34790925-590f-4eff-b46e-eda1af37d1e8#ref=rss)
-### tochter
+* [https://www.spiegel.de/ausland/ukraine-meldet-verletzte-nach-luftangriffen-auf-kyjiw-und-charkiw](https://www.spiegel.de/ausland/ukraine-meldet-verletzte-nach-luftangriffen-auf-kyjiw-und-charkiw-a-1d1659cf-d486-4369-9c66-56ad1fab7dc5#ref=rss)
+### mehrere
 
-* [https://www.spiegel.de/panorama/justiz/mainz-eltern-wegen-mordes-an-tochter-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/mainz-eltern-wegen-mordes-an-tochter-zu-lebenslanger-haft-verurteilt-a-b617db24-a3bb-47d5-880e-f42659100e3a#ref=rss)
-### lebenslanger
+* [https://www.spiegel.de/ausland/ukraine-meldet-verletzte-nach-luftangriffen-auf-kyjiw-und-charkiw](https://www.spiegel.de/ausland/ukraine-meldet-verletzte-nach-luftangriffen-auf-kyjiw-und-charkiw-a-1d1659cf-d486-4369-9c66-56ad1fab7dc5#ref=rss)
+* [https://www.spiegel.de/start/collegium-academicum-heidelberg-diese-studierenden-haben-sich-ihr-eigenes-wohnheim-gebaut](https://www.spiegel.de/start/collegium-academicum-heidelberg-diese-studierenden-haben-sich-ihr-eigenes-wohnheim-gebaut-a-cc938dbf-9b7b-4b02-ba57-1b9d6f26ae86#ref=rss)
+### ich
 
-* [https://www.spiegel.de/panorama/justiz/mainz-eltern-wegen-mordes-an-tochter-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/mainz-eltern-wegen-mordes-an-tochter-zu-lebenslanger-haft-verurteilt-a-b617db24-a3bb-47d5-880e-f42659100e3a#ref=rss)
-### haft
+* [https://www.spiegel.de/panorama/messerattacke-in-aschaffenburg-ich-bin-kein-held-ich-habe-gemacht-was-selbstverstaendlich-ist](https://www.spiegel.de/panorama/messerattacke-in-aschaffenburg-ich-bin-kein-held-ich-habe-gemacht-was-selbstverstaendlich-ist-a-8ebb272a-2e62-4bab-b37e-d1530037eeec#ref=rss)
+### markus
 
-* [https://www.spiegel.de/panorama/justiz/mainz-eltern-wegen-mordes-an-tochter-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/mainz-eltern-wegen-mordes-an-tochter-zu-lebenslanger-haft-verurteilt-a-b617db24-a3bb-47d5-880e-f42659100e3a#ref=rss)
-### rheinlandpfalz
+* [https://www.spiegel.de/panorama/messerattacke-in-aschaffenburg-ich-bin-kein-held-ich-habe-gemacht-was-selbstverstaendlich-ist](https://www.spiegel.de/panorama/messerattacke-in-aschaffenburg-ich-bin-kein-held-ich-habe-gemacht-was-selbstverstaendlich-ist-a-8ebb272a-2e62-4bab-b37e-d1530037eeec#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/koalitionsverhandlungen-am-schluss-streute-markus-soeder-noch-einmal-sand-ins-getriebe](https://www.spiegel.de/politik/deutschland/koalitionsverhandlungen-am-schluss-streute-markus-soeder-noch-einmal-sand-ins-getriebe-a-6967727d-69e3-4eca-9e29-abf91bfbacc3#ref=rss)
+### söder
 
-* [https://www.spiegel.de/auto/rheinland-pfalz-erster-handyblitzer-startet-in-den-regulaeren-betrieb](https://www.spiegel.de/auto/rheinland-pfalz-erster-handyblitzer-startet-in-den-regulaeren-betrieb-a-e3760d7d-cc82-4603-96c9-7e12b5aa9544#ref=rss)
-### bruno
+* [https://www.spiegel.de/panorama/messerattacke-in-aschaffenburg-ich-bin-kein-held-ich-habe-gemacht-was-selbstverstaendlich-ist](https://www.spiegel.de/panorama/messerattacke-in-aschaffenburg-ich-bin-kein-held-ich-habe-gemacht-was-selbstverstaendlich-ist-a-8ebb272a-2e62-4bab-b37e-d1530037eeec#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/koalitionsverhandlungen-am-schluss-streute-markus-soeder-noch-einmal-sand-ins-getriebe](https://www.spiegel.de/politik/deutschland/koalitionsverhandlungen-am-schluss-streute-markus-soeder-noch-einmal-sand-ins-getriebe-a-6967727d-69e3-4eca-9e29-abf91bfbacc3#ref=rss)
+### starken
 
-* [https://www.spiegel.de/panorama/bnd-chef-bruno-kahl-liebaeugelt-mit-vatikan-botschafterposten](https://www.spiegel.de/panorama/bnd-chef-bruno-kahl-liebaeugelt-mit-vatikan-botschafterposten-a-4ff6541f-49d9-43e9-ac23-fcb1f3c5bfab#ref=rss)
-### kahl
+* [https://www.spiegel.de/panorama/gesellschaft/china-warnung-vor-starken-winden-menschen-unter-50-kilogramm-koennten-weggeweht-werden](https://www.spiegel.de/panorama/gesellschaft/china-warnung-vor-starken-winden-menschen-unter-50-kilogramm-koennten-weggeweht-werden-a-ababecbf-e375-47be-b7d1-a3b3ea05ffcf#ref=rss)
+* [https://www.spiegel.de/ausland/indien-und-nepal-dutzende-tote-nach-heftigen-gewittern](https://www.spiegel.de/ausland/indien-und-nepal-dutzende-tote-nach-heftigen-gewittern-a-2f2e6b9f-1736-43a8-a75d-410de6fe41c6#ref=rss)
+### unter
 
-* [https://www.spiegel.de/panorama/bnd-chef-bruno-kahl-liebaeugelt-mit-vatikan-botschafterposten](https://www.spiegel.de/panorama/bnd-chef-bruno-kahl-liebaeugelt-mit-vatikan-botschafterposten-a-4ff6541f-49d9-43e9-ac23-fcb1f3c5bfab#ref=rss)
-### laura
+* [https://www.spiegel.de/panorama/gesellschaft/china-warnung-vor-starken-winden-menschen-unter-50-kilogramm-koennten-weggeweht-werden](https://www.spiegel.de/panorama/gesellschaft/china-warnung-vor-starken-winden-menschen-unter-50-kilogramm-koennten-weggeweht-werden-a-ababecbf-e375-47be-b7d1-a3b3ea05ffcf#ref=rss)
+* [https://www.spiegel.de/sport/golf/bernhard-langer-emotionaler-abschied-bei-golf-masters-fast-die-traenen-gekommen](https://www.spiegel.de/sport/golf/bernhard-langer-emotionaler-abschied-bei-golf-masters-fast-die-traenen-gekommen-a-f8371ecd-3414-431d-b66d-41b6605cf46d#ref=rss)
+### handelskrieg
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/go-european-gruenderin-laura-catz-mir-ging-es-nie-darum-die-usa-zu-boykottieren](https://www.spiegel.de/netzwelt/netzpolitik/go-european-gruenderin-laura-catz-mir-ging-es-nie-darum-die-usa-zu-boykottieren-a-5d574f5e-b52c-431d-9167-f7bc9d096a35#ref=rss)
-### catz
+* [https://www.spiegel.de/wirtschaft/handelskrieg-taiwan-beginnt-zoll-verhandlungen-mit-usa](https://www.spiegel.de/wirtschaft/handelskrieg-taiwan-beginnt-zoll-verhandlungen-mit-usa-a-6b8b117c-c800-44fd-9223-0b583372028d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-steve-witkoff-handelskrieg-usa-vs-china-beginn-der-weidesaison](https://www.spiegel.de/politik/deutschland/news-steve-witkoff-handelskrieg-usa-vs-china-beginn-der-weidesaison-a-b3f0c6a8-a8b9-4fab-aa6e-b58137d0e528#ref=rss)
+### taiwan
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/go-european-gruenderin-laura-catz-mir-ging-es-nie-darum-die-usa-zu-boykottieren](https://www.spiegel.de/netzwelt/netzpolitik/go-european-gruenderin-laura-catz-mir-ging-es-nie-darum-die-usa-zu-boykottieren-a-5d574f5e-b52c-431d-9167-f7bc9d096a35#ref=rss)
-### schleswigholstein
+* [https://www.spiegel.de/wirtschaft/handelskrieg-taiwan-beginnt-zoll-verhandlungen-mit-usa](https://www.spiegel.de/wirtschaft/handelskrieg-taiwan-beginnt-zoll-verhandlungen-mit-usa-a-6b8b117c-c800-44fd-9223-0b583372028d#ref=rss)
+### beginnt
 
-* [https://www.spiegel.de/panorama/justiz/schleswig-holstein-heil-hitler-im-polizeifunk-beamter-geht-in-berufung](https://www.spiegel.de/panorama/justiz/schleswig-holstein-heil-hitler-im-polizeifunk-beamter-geht-in-berufung-a-34790925-590f-4eff-b46e-eda1af37d1e8#ref=rss)
-### heil
+* [https://www.spiegel.de/wirtschaft/handelskrieg-taiwan-beginnt-zoll-verhandlungen-mit-usa](https://www.spiegel.de/wirtschaft/handelskrieg-taiwan-beginnt-zoll-verhandlungen-mit-usa-a-6b8b117c-c800-44fd-9223-0b583372028d#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/berlin-abriss-von-maroder-autobahnbruecke-a100-beginnt-mit-verzoegerungen](https://www.spiegel.de/panorama/gesellschaft/berlin-abriss-von-maroder-autobahnbruecke-a100-beginnt-mit-verzoegerungen-a-15270577-65c7-4754-a929-e9a740bab7bc#ref=rss)
+### anderen
 
-* [https://www.spiegel.de/panorama/justiz/schleswig-holstein-heil-hitler-im-polizeifunk-beamter-geht-in-berufung](https://www.spiegel.de/panorama/justiz/schleswig-holstein-heil-hitler-im-polizeifunk-beamter-geht-in-berufung-a-34790925-590f-4eff-b46e-eda1af37d1e8#ref=rss)
-### hitler
+* [https://www.spiegel.de/wirtschaft/handelskrieg-taiwan-beginnt-zoll-verhandlungen-mit-usa](https://www.spiegel.de/wirtschaft/handelskrieg-taiwan-beginnt-zoll-verhandlungen-mit-usa-a-6b8b117c-c800-44fd-9223-0b583372028d#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-irrtuemlich-abgeschobener-familienvater-trotz-supreme-court-urteil-weiter-inhaftiert](https://www.spiegel.de/ausland/donald-trump-irrtuemlich-abgeschobener-familienvater-trotz-supreme-court-urteil-weiter-inhaftiert-a-75c3b7ef-a415-4466-a6d2-9162a96911d7#ref=rss)
+### sarah
 
-* [https://www.spiegel.de/panorama/justiz/schleswig-holstein-heil-hitler-im-polizeifunk-beamter-geht-in-berufung](https://www.spiegel.de/panorama/justiz/schleswig-holstein-heil-hitler-im-polizeifunk-beamter-geht-in-berufung-a-34790925-590f-4eff-b46e-eda1af37d1e8#ref=rss)
-### kenia
+* [https://www.spiegel.de/panorama/leute/sarah-connor-verarbeitet-aerger-ueber-ficka-auf-neuem-album-freigeistin](https://www.spiegel.de/panorama/leute/sarah-connor-verarbeitet-aerger-ueber-ficka-auf-neuem-album-freigeistin-a-eda13974-ba6b-41d3-9896-580faa233119#ref=rss)
+### connor
 
-* [https://www.spiegel.de/panorama/justiz/organhandel-in-kenia-einblicke-in-eine-spiegel-recherche-und-ein-brutales-system](https://www.spiegel.de/panorama/justiz/organhandel-in-kenia-einblicke-in-eine-spiegel-recherche-und-ein-brutales-system-a-a35e4d3c-5973-4bf2-8912-6edce05ff666#ref=rss)
-### einblicke
+* [https://www.spiegel.de/panorama/leute/sarah-connor-verarbeitet-aerger-ueber-ficka-auf-neuem-album-freigeistin](https://www.spiegel.de/panorama/leute/sarah-connor-verarbeitet-aerger-ueber-ficka-auf-neuem-album-freigeistin-a-eda13974-ba6b-41d3-9896-580faa233119#ref=rss)
+### nepal
 
-* [https://www.spiegel.de/panorama/justiz/organhandel-in-kenia-einblicke-in-eine-spiegel-recherche-und-ein-brutales-system](https://www.spiegel.de/panorama/justiz/organhandel-in-kenia-einblicke-in-eine-spiegel-recherche-und-ein-brutales-system-a-a35e4d3c-5973-4bf2-8912-6edce05ff666#ref=rss)
-### kaufen
+* [https://www.spiegel.de/ausland/indien-und-nepal-dutzende-tote-nach-heftigen-gewittern](https://www.spiegel.de/ausland/indien-und-nepal-dutzende-tote-nach-heftigen-gewittern-a-2f2e6b9f-1736-43a8-a75d-410de6fe41c6#ref=rss)
+### diesem
 
-* [https://www.spiegel.de/panorama/justiz/organhandel-in-kenia-einblicke-in-eine-spiegel-recherche-und-ein-brutales-system](https://www.spiegel.de/panorama/justiz/organhandel-in-kenia-einblicke-in-eine-spiegel-recherche-und-ein-brutales-system-a-a35e4d3c-5973-4bf2-8912-6edce05ff666#ref=rss)
-* [https://www.spiegel.de/sport/fussball/uli-hoeness-ueber-fc-bayern-muenchen-festgeldkonto-so-gut-wie-aufgebraucht](https://www.spiegel.de/sport/fussball/uli-hoeness-ueber-fc-bayern-muenchen-festgeldkonto-so-gut-wie-aufgebraucht-a-52b66e00-5edd-445f-a02f-d157d48c9fe0#ref=rss)
-### uli
+* [https://www.spiegel.de/ausland/indien-und-nepal-dutzende-tote-nach-heftigen-gewittern](https://www.spiegel.de/ausland/indien-und-nepal-dutzende-tote-nach-heftigen-gewittern-a-2f2e6b9f-1736-43a8-a75d-410de6fe41c6#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/capybara-cafe-in-st-augustine-florida-kuscheln-mit-wasserschweinen](https://www.spiegel.de/panorama/gesellschaft/capybara-cafe-in-st-augustine-florida-kuscheln-mit-wasserschweinen-a-7a0e7f3b-7fde-4c12-bdcd-63e546a225de#ref=rss)
+### gekommen
 
-* [https://www.spiegel.de/sport/fussball/uli-hoeness-ueber-fc-bayern-muenchen-festgeldkonto-so-gut-wie-aufgebraucht](https://www.spiegel.de/sport/fussball/uli-hoeness-ueber-fc-bayern-muenchen-festgeldkonto-so-gut-wie-aufgebraucht-a-52b66e00-5edd-445f-a02f-d157d48c9fe0#ref=rss)
-### hoeneß
+* [https://www.spiegel.de/ausland/indien-und-nepal-dutzende-tote-nach-heftigen-gewittern](https://www.spiegel.de/ausland/indien-und-nepal-dutzende-tote-nach-heftigen-gewittern-a-2f2e6b9f-1736-43a8-a75d-410de6fe41c6#ref=rss)
+* [https://www.spiegel.de/sport/golf/bernhard-langer-emotionaler-abschied-bei-golf-masters-fast-die-traenen-gekommen](https://www.spiegel.de/sport/golf/bernhard-langer-emotionaler-abschied-bei-golf-masters-fast-die-traenen-gekommen-a-f8371ecd-3414-431d-b66d-41b6605cf46d#ref=rss)
+### schuld
 
-* [https://www.spiegel.de/sport/fussball/uli-hoeness-ueber-fc-bayern-muenchen-festgeldkonto-so-gut-wie-aufgebraucht](https://www.spiegel.de/sport/fussball/uli-hoeness-ueber-fc-bayern-muenchen-festgeldkonto-so-gut-wie-aufgebraucht-a-52b66e00-5edd-445f-a02f-d157d48c9fe0#ref=rss)
-### fc
+* [https://www.spiegel.de/ausland/indien-und-nepal-dutzende-tote-nach-heftigen-gewittern](https://www.spiegel.de/ausland/indien-und-nepal-dutzende-tote-nach-heftigen-gewittern-a-2f2e6b9f-1736-43a8-a75d-410de6fe41c6#ref=rss)
+* [https://www.spiegel.de/familie/ordnung-wie-paare-weniger-uebers-aufraeumen-streiten-podcast-mit-johanna-lemke](https://www.spiegel.de/familie/ordnung-wie-paare-weniger-uebers-aufraeumen-streiten-podcast-mit-johanna-lemke-a-2499b2a7-aade-48a7-bfbd-48769e83c301#ref=rss)
+### fragen
 
-* [https://www.spiegel.de/sport/fussball/uli-hoeness-ueber-fc-bayern-muenchen-festgeldkonto-so-gut-wie-aufgebraucht](https://www.spiegel.de/sport/fussball/uli-hoeness-ueber-fc-bayern-muenchen-festgeldkonto-so-gut-wie-aufgebraucht-a-52b66e00-5edd-445f-a02f-d157d48c9fe0#ref=rss)
-### bayern
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### tag
 
-* [https://www.spiegel.de/sport/fussball/uli-hoeness-ueber-fc-bayern-muenchen-festgeldkonto-so-gut-wie-aufgebraucht](https://www.spiegel.de/sport/fussball/uli-hoeness-ueber-fc-bayern-muenchen-festgeldkonto-so-gut-wie-aufgebraucht-a-52b66e00-5edd-445f-a02f-d157d48c9fe0#ref=rss)
-### breitet
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### bernhard
 
-* [https://www.spiegel.de/wissenschaft/ameise-breitet-sich-in-deutschland-aus](https://www.spiegel.de/wissenschaft/ameise-breitet-sich-in-deutschland-aus-a-552940d7-8cb0-4143-8bcd-7659941ea1ab#ref=rss)
+* [https://www.spiegel.de/sport/golf/bernhard-langer-emotionaler-abschied-bei-golf-masters-fast-die-traenen-gekommen](https://www.spiegel.de/sport/golf/bernhard-langer-emotionaler-abschied-bei-golf-masters-fast-die-traenen-gekommen-a-f8371ecd-3414-431d-b66d-41b6605cf46d#ref=rss)
+### langer
+
+* [https://www.spiegel.de/sport/golf/bernhard-langer-emotionaler-abschied-bei-golf-masters-fast-die-traenen-gekommen](https://www.spiegel.de/sport/golf/bernhard-langer-emotionaler-abschied-bei-golf-masters-fast-die-traenen-gekommen-a-f8371ecd-3414-431d-b66d-41b6605cf46d#ref=rss)
+### fast
+
+* [https://www.spiegel.de/sport/golf/bernhard-langer-emotionaler-abschied-bei-golf-masters-fast-die-traenen-gekommen](https://www.spiegel.de/sport/golf/bernhard-langer-emotionaler-abschied-bei-golf-masters-fast-die-traenen-gekommen-a-f8371ecd-3414-431d-b66d-41b6605cf46d#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/berlin-abriss-von-maroder-autobahnbruecke-a100-beginnt-mit-verzoegerungen](https://www.spiegel.de/panorama/gesellschaft/berlin-abriss-von-maroder-autobahnbruecke-a100-beginnt-mit-verzoegerungen-a-15270577-65c7-4754-a929-e9a740bab7bc#ref=rss)
+### heidelberg
+
+* [https://www.spiegel.de/start/collegium-academicum-heidelberg-diese-studierenden-haben-sich-ihr-eigenes-wohnheim-gebaut](https://www.spiegel.de/start/collegium-academicum-heidelberg-diese-studierenden-haben-sich-ihr-eigenes-wohnheim-gebaut-a-cc938dbf-9b7b-4b02-ba57-1b9d6f26ae86#ref=rss)
+### wohnheim
+
+* [https://www.spiegel.de/start/collegium-academicum-heidelberg-diese-studierenden-haben-sich-ihr-eigenes-wohnheim-gebaut](https://www.spiegel.de/start/collegium-academicum-heidelberg-diese-studierenden-haben-sich-ihr-eigenes-wohnheim-gebaut-a-cc938dbf-9b7b-4b02-ba57-1b9d6f26ae86#ref=rss)
+### arbeiten
+
+* [https://www.spiegel.de/start/collegium-academicum-heidelberg-diese-studierenden-haben-sich-ihr-eigenes-wohnheim-gebaut](https://www.spiegel.de/start/collegium-academicum-heidelberg-diese-studierenden-haben-sich-ihr-eigenes-wohnheim-gebaut-a-cc938dbf-9b7b-4b02-ba57-1b9d6f26ae86#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/berlin-abriss-von-maroder-autobahnbruecke-a100-beginnt-mit-verzoegerungen](https://www.spiegel.de/panorama/gesellschaft/berlin-abriss-von-maroder-autobahnbruecke-a100-beginnt-mit-verzoegerungen-a-15270577-65c7-4754-a929-e9a740bab7bc#ref=rss)
+### a100
+
+* [https://www.spiegel.de/panorama/gesellschaft/berlin-abriss-von-maroder-autobahnbruecke-a100-beginnt-mit-verzoegerungen](https://www.spiegel.de/panorama/gesellschaft/berlin-abriss-von-maroder-autobahnbruecke-a100-beginnt-mit-verzoegerungen-a-15270577-65c7-4754-a929-e9a740bab7bc#ref=rss)
+### verzögerungen
+
+* [https://www.spiegel.de/panorama/gesellschaft/berlin-abriss-von-maroder-autobahnbruecke-a100-beginnt-mit-verzoegerungen](https://www.spiegel.de/panorama/gesellschaft/berlin-abriss-von-maroder-autobahnbruecke-a100-beginnt-mit-verzoegerungen-a-15270577-65c7-4754-a929-e9a740bab7bc#ref=rss)
+### samstagmorgen
+
+* [https://www.spiegel.de/panorama/gesellschaft/berlin-abriss-von-maroder-autobahnbruecke-a100-beginnt-mit-verzoegerungen](https://www.spiegel.de/panorama/gesellschaft/berlin-abriss-von-maroder-autobahnbruecke-a100-beginnt-mit-verzoegerungen-a-15270577-65c7-4754-a929-e9a740bab7bc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-steve-witkoff-handelskrieg-usa-vs-china-beginn-der-weidesaison](https://www.spiegel.de/politik/deutschland/news-steve-witkoff-handelskrieg-usa-vs-china-beginn-der-weidesaison-a-b3f0c6a8-a8b9-4fab-aa6e-b58137d0e528#ref=rss)
+### lopifit
+
+* [https://www.spiegel.de/auto/fahrberichte/lopifit-im-test-ein-laufband-auf-raedern](https://www.spiegel.de/auto/fahrberichte/lopifit-im-test-ein-laufband-auf-raedern-a-794feff9-56ba-4323-9379-ef4af05a226d#ref=rss)
+### test
+
+* [https://www.spiegel.de/auto/fahrberichte/lopifit-im-test-ein-laufband-auf-raedern](https://www.spiegel.de/auto/fahrberichte/lopifit-im-test-ein-laufband-auf-raedern-a-794feff9-56ba-4323-9379-ef4af05a226d#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-lobt-sich-fuer-ergebnisse-bei-kognitivem-test-bei-routine-gesundheitscheck](https://www.spiegel.de/ausland/donald-trump-lobt-sich-fuer-ergebnisse-bei-kognitivem-test-bei-routine-gesundheitscheck-a-647e0d46-9fe4-411a-b52b-4a115df19cd4#ref=rss)
+### stelle
+
+* [https://www.spiegel.de/auto/fahrberichte/lopifit-im-test-ein-laufband-auf-raedern](https://www.spiegel.de/auto/fahrberichte/lopifit-im-test-ein-laufband-auf-raedern-a-794feff9-56ba-4323-9379-ef4af05a226d#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-weisses-haus-ersetzt-barack-obama-portraet-durch-bild-von-attentat](https://www.spiegel.de/ausland/donald-trump-weisses-haus-ersetzt-barack-obama-portraet-durch-bild-von-attentat-a-4ae34cc2-63cb-4c43-86c8-6085cb62e9ba#ref=rss)
+### uns
+
+* [https://www.spiegel.de/auto/fahrberichte/lopifit-im-test-ein-laufband-auf-raedern](https://www.spiegel.de/auto/fahrberichte/lopifit-im-test-ein-laufband-auf-raedern-a-794feff9-56ba-4323-9379-ef4af05a226d#ref=rss)
+* [https://www.spiegel.de/familie/familie-diskussionen-mit-den-kindern-zahlen-sich-irgendwann-aus](https://www.spiegel.de/familie/familie-diskussionen-mit-den-kindern-zahlen-sich-irgendwann-aus-a-b5a6d8ad-d7e9-44e7-abae-7689a2834525#ref=rss)
+### klimaschutz
+
+* [https://www.spiegel.de/wissenschaft/koalitionsvertrag-das-bringt-das-regierungsprogramm-fuer-den-klimaschutz](https://www.spiegel.de/wissenschaft/koalitionsvertrag-das-bringt-das-regierungsprogramm-fuer-den-klimaschutz-a-e296ab36-a058-4c7b-a075-c35c9ff7af77#ref=rss)
+### union
+
+* [https://www.spiegel.de/wissenschaft/koalitionsvertrag-das-bringt-das-regierungsprogramm-fuer-den-klimaschutz](https://www.spiegel.de/wissenschaft/koalitionsvertrag-das-bringt-das-regierungsprogramm-fuer-den-klimaschutz-a-e296ab36-a058-4c7b-a075-c35c9ff7af77#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/neuer-koalitionsvertrag-arbeitgeber-kritisieren-teure-rentenplaene](https://www.spiegel.de/wirtschaft/soziales/neuer-koalitionsvertrag-arbeitgeber-kritisieren-teure-rentenplaene-a-a6464946-e10b-4088-b3ac-6db124c219f4#ref=rss)
+### spd
+
+* [https://www.spiegel.de/wissenschaft/koalitionsvertrag-das-bringt-das-regierungsprogramm-fuer-den-klimaschutz](https://www.spiegel.de/wissenschaft/koalitionsvertrag-das-bringt-das-regierungsprogramm-fuer-den-klimaschutz-a-e296ab36-a058-4c7b-a075-c35c9ff7af77#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/neuer-koalitionsvertrag-arbeitgeber-kritisieren-teure-rentenplaene](https://www.spiegel.de/wirtschaft/soziales/neuer-koalitionsvertrag-arbeitgeber-kritisieren-teure-rentenplaene-a-a6464946-e10b-4088-b3ac-6db124c219f4#ref=rss)
+### macht
+
+* [https://www.spiegel.de/wissenschaft/koalitionsvertrag-das-bringt-das-regierungsprogramm-fuer-den-klimaschutz](https://www.spiegel.de/wissenschaft/koalitionsvertrag-das-bringt-das-regierungsprogramm-fuer-den-klimaschutz-a-e296ab36-a058-4c7b-a075-c35c9ff7af77#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/koalitionsverhandlungen-am-schluss-streute-markus-soeder-noch-einmal-sand-ins-getriebe](https://www.spiegel.de/politik/deutschland/koalitionsverhandlungen-am-schluss-streute-markus-soeder-noch-einmal-sand-ins-getriebe-a-6967727d-69e3-4eca-9e29-abf91bfbacc3#ref=rss)
+### laurence
+
+* [https://www.spiegel.de/ausland/paris-louvre-direktorin-laurence-des-cars-ueber-die-anforderungen-an-ein-museum-in-digitalen-zeiten](https://www.spiegel.de/ausland/paris-louvre-direktorin-laurence-des-cars-ueber-die-anforderungen-an-ein-museum-in-digitalen-zeiten-a-268601b0-835b-4d46-9a76-3ceb83424216#ref=rss)
+### cars
+
+* [https://www.spiegel.de/ausland/paris-louvre-direktorin-laurence-des-cars-ueber-die-anforderungen-an-ein-museum-in-digitalen-zeiten](https://www.spiegel.de/ausland/paris-louvre-direktorin-laurence-des-cars-ueber-die-anforderungen-an-ein-museum-in-digitalen-zeiten-a-268601b0-835b-4d46-9a76-3ceb83424216#ref=rss)
+### museum
+
+* [https://www.spiegel.de/ausland/paris-louvre-direktorin-laurence-des-cars-ueber-die-anforderungen-an-ein-museum-in-digitalen-zeiten](https://www.spiegel.de/ausland/paris-louvre-direktorin-laurence-des-cars-ueber-die-anforderungen-an-ein-museum-in-digitalen-zeiten-a-268601b0-835b-4d46-9a76-3ceb83424216#ref=rss)
+### droht
+
+* [https://www.spiegel.de/ausland/paris-louvre-direktorin-laurence-des-cars-ueber-die-anforderungen-an-ein-museum-in-digitalen-zeiten](https://www.spiegel.de/ausland/paris-louvre-direktorin-laurence-des-cars-ueber-die-anforderungen-an-ein-museum-in-digitalen-zeiten-a-268601b0-835b-4d46-9a76-3ceb83424216#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-irrtuemlich-abgeschobener-familienvater-trotz-supreme-court-urteil-weiter-inhaftiert](https://www.spiegel.de/ausland/donald-trump-irrtuemlich-abgeschobener-familienvater-trotz-supreme-court-urteil-weiter-inhaftiert-a-75c3b7ef-a415-4466-a6d2-9162a96911d7#ref=rss)
+### hilfspaket
+
+* [https://www.spiegel.de/wirtschaft/argentinien-milliardenschweres-hilfspaket-von-iwf-und-weltbank](https://www.spiegel.de/wirtschaft/argentinien-milliardenschweres-hilfspaket-von-iwf-und-weltbank-a-ce719f81-1d1e-4db1-8909-030ebe747c46#ref=rss)
+### iwf
+
+* [https://www.spiegel.de/wirtschaft/argentinien-milliardenschweres-hilfspaket-von-iwf-und-weltbank](https://www.spiegel.de/wirtschaft/argentinien-milliardenschweres-hilfspaket-von-iwf-und-weltbank-a-ce719f81-1d1e-4db1-8909-030ebe747c46#ref=rss)
+### weltbank
+
+* [https://www.spiegel.de/wirtschaft/argentinien-milliardenschweres-hilfspaket-von-iwf-und-weltbank](https://www.spiegel.de/wirtschaft/argentinien-milliardenschweres-hilfspaket-von-iwf-und-weltbank-a-ce719f81-1d1e-4db1-8909-030ebe747c46#ref=rss)
+### lage
+
+* [https://www.spiegel.de/wirtschaft/argentinien-milliardenschweres-hilfspaket-von-iwf-und-weltbank](https://www.spiegel.de/wirtschaft/argentinien-milliardenschweres-hilfspaket-von-iwf-und-weltbank-a-ce719f81-1d1e-4db1-8909-030ebe747c46#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-steve-witkoff-handelskrieg-usa-vs-china-beginn-der-weidesaison](https://www.spiegel.de/politik/deutschland/news-steve-witkoff-handelskrieg-usa-vs-china-beginn-der-weidesaison-a-b3f0c6a8-a8b9-4fab-aa6e-b58137d0e528#ref=rss)
+### land
+
+* [https://www.spiegel.de/wirtschaft/argentinien-milliardenschweres-hilfspaket-von-iwf-und-weltbank](https://www.spiegel.de/wirtschaft/argentinien-milliardenschweres-hilfspaket-von-iwf-und-weltbank-a-ce719f81-1d1e-4db1-8909-030ebe747c46#ref=rss)
+* [https://www.spiegel.de/panorama/vietnam-amerikanische-soldaten-reisen-durchs-land-und-bitten-um-vergebung](https://www.spiegel.de/panorama/vietnam-amerikanische-soldaten-reisen-durchs-land-und-bitten-um-vergebung-a-50ae648b-aaba-4295-b319-4d08b6035866#ref=rss)
+### bundeswehr
+
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-generalinspekteur-carsten-breuer-setzt-auf-reservisten](https://www.spiegel.de/politik/deutschland/bundeswehr-generalinspekteur-carsten-breuer-setzt-auf-reservisten-a-43098189-fd25-4b70-b04e-c30c22ad6347#ref=rss)
+### generalinspekteur
+
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-generalinspekteur-carsten-breuer-setzt-auf-reservisten](https://www.spiegel.de/politik/deutschland/bundeswehr-generalinspekteur-carsten-breuer-setzt-auf-reservisten-a-43098189-fd25-4b70-b04e-c30c22ad6347#ref=rss)
+### carsten
+
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-generalinspekteur-carsten-breuer-setzt-auf-reservisten](https://www.spiegel.de/politik/deutschland/bundeswehr-generalinspekteur-carsten-breuer-setzt-auf-reservisten-a-43098189-fd25-4b70-b04e-c30c22ad6347#ref=rss)
+### breuer
+
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-generalinspekteur-carsten-breuer-setzt-auf-reservisten](https://www.spiegel.de/politik/deutschland/bundeswehr-generalinspekteur-carsten-breuer-setzt-auf-reservisten-a-43098189-fd25-4b70-b04e-c30c22ad6347#ref=rss)
+### reservisten
+
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-generalinspekteur-carsten-breuer-setzt-auf-reservisten](https://www.spiegel.de/politik/deutschland/bundeswehr-generalinspekteur-carsten-breuer-setzt-auf-reservisten-a-43098189-fd25-4b70-b04e-c30c22ad6347#ref=rss)
+### einfach
+
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-generalinspekteur-carsten-breuer-setzt-auf-reservisten](https://www.spiegel.de/politik/deutschland/bundeswehr-generalinspekteur-carsten-breuer-setzt-auf-reservisten-a-43098189-fd25-4b70-b04e-c30c22ad6347#ref=rss)
+* [https://www.spiegel.de/panorama/vietnam-amerikanische-soldaten-reisen-durchs-land-und-bitten-um-vergebung](https://www.spiegel.de/panorama/vietnam-amerikanische-soldaten-reisen-durchs-land-und-bitten-um-vergebung-a-50ae648b-aaba-4295-b319-4d08b6035866#ref=rss)
+### tobias
+
+* [https://www.spiegel.de/panorama/leute/tobias-tobi-schlegl-hat-nach-dem-jakobsweg-erstmal-ausgemistet](https://www.spiegel.de/panorama/leute/tobias-tobi-schlegl-hat-nach-dem-jakobsweg-erstmal-ausgemistet-a-e498fb27-7794-448c-b1c7-9aee8b278087#ref=rss)
+### tobi
+
+* [https://www.spiegel.de/panorama/leute/tobias-tobi-schlegl-hat-nach-dem-jakobsweg-erstmal-ausgemistet](https://www.spiegel.de/panorama/leute/tobias-tobi-schlegl-hat-nach-dem-jakobsweg-erstmal-ausgemistet-a-e498fb27-7794-448c-b1c7-9aee8b278087#ref=rss)
+### schlegl
+
+* [https://www.spiegel.de/panorama/leute/tobias-tobi-schlegl-hat-nach-dem-jakobsweg-erstmal-ausgemistet](https://www.spiegel.de/panorama/leute/tobias-tobi-schlegl-hat-nach-dem-jakobsweg-erstmal-ausgemistet-a-e498fb27-7794-448c-b1c7-9aee8b278087#ref=rss)
+### jakobsweg
+
+* [https://www.spiegel.de/panorama/leute/tobias-tobi-schlegl-hat-nach-dem-jakobsweg-erstmal-ausgemistet](https://www.spiegel.de/panorama/leute/tobias-tobi-schlegl-hat-nach-dem-jakobsweg-erstmal-ausgemistet-a-e498fb27-7794-448c-b1c7-9aee8b278087#ref=rss)
+### paare
+
+* [https://www.spiegel.de/familie/ordnung-wie-paare-weniger-uebers-aufraeumen-streiten-podcast-mit-johanna-lemke](https://www.spiegel.de/familie/ordnung-wie-paare-weniger-uebers-aufraeumen-streiten-podcast-mit-johanna-lemke-a-2499b2a7-aade-48a7-bfbd-48769e83c301#ref=rss)
+### johanna
+
+* [https://www.spiegel.de/familie/ordnung-wie-paare-weniger-uebers-aufraeumen-streiten-podcast-mit-johanna-lemke](https://www.spiegel.de/familie/ordnung-wie-paare-weniger-uebers-aufraeumen-streiten-podcast-mit-johanna-lemke-a-2499b2a7-aade-48a7-bfbd-48769e83c301#ref=rss)
+### lemke
+
+* [https://www.spiegel.de/familie/ordnung-wie-paare-weniger-uebers-aufraeumen-streiten-podcast-mit-johanna-lemke](https://www.spiegel.de/familie/ordnung-wie-paare-weniger-uebers-aufraeumen-streiten-podcast-mit-johanna-lemke-a-2499b2a7-aade-48a7-bfbd-48769e83c301#ref=rss)
+### vergebung
+
+* [https://www.spiegel.de/ausland/vietnam-kriegsveteranen-suchen-erloesung-ausgerechnet-am-ort-ihrer-albtraeume](https://www.spiegel.de/ausland/vietnam-kriegsveteranen-suchen-erloesung-ausgerechnet-am-ort-ihrer-albtraeume-a-b9d669bc-df40-4339-82f2-a9aad7b8d063#ref=rss)
+* [https://www.spiegel.de/panorama/vietnam-amerikanische-soldaten-reisen-durchs-land-und-bitten-um-vergebung](https://www.spiegel.de/panorama/vietnam-amerikanische-soldaten-reisen-durchs-land-und-bitten-um-vergebung-a-50ae648b-aaba-4295-b319-4d08b6035866#ref=rss)
+### haus
+
+* [https://www.spiegel.de/ausland/donald-trump-weisses-haus-ersetzt-barack-obama-portraet-durch-bild-von-attentat](https://www.spiegel.de/ausland/donald-trump-weisses-haus-ersetzt-barack-obama-portraet-durch-bild-von-attentat-a-4ae34cc2-63cb-4c43-86c8-6085cb62e9ba#ref=rss)
+### bild
+
+* [https://www.spiegel.de/ausland/donald-trump-weisses-haus-ersetzt-barack-obama-portraet-durch-bild-von-attentat](https://www.spiegel.de/ausland/donald-trump-weisses-haus-ersetzt-barack-obama-portraet-durch-bild-von-attentat-a-4ae34cc2-63cb-4c43-86c8-6085cb62e9ba#ref=rss)
+### uspräsident
+
+* [https://www.spiegel.de/ausland/donald-trump-weisses-haus-ersetzt-barack-obama-portraet-durch-bild-von-attentat](https://www.spiegel.de/ausland/donald-trump-weisses-haus-ersetzt-barack-obama-portraet-durch-bild-von-attentat-a-4ae34cc2-63cb-4c43-86c8-6085cb62e9ba#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-lobt-sich-fuer-ergebnisse-bei-kognitivem-test-bei-routine-gesundheitscheck](https://www.spiegel.de/ausland/donald-trump-lobt-sich-fuer-ergebnisse-bei-kognitivem-test-bei-routine-gesundheitscheck-a-647e0d46-9fe4-411a-b52b-4a115df19cd4#ref=rss)
+### ließ
+
+* [https://www.spiegel.de/ausland/donald-trump-weisses-haus-ersetzt-barack-obama-portraet-durch-bild-von-attentat](https://www.spiegel.de/ausland/donald-trump-weisses-haus-ersetzt-barack-obama-portraet-durch-bild-von-attentat-a-4ae34cc2-63cb-4c43-86c8-6085cb62e9ba#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-irrtuemlich-abgeschobener-familienvater-trotz-supreme-court-urteil-weiter-inhaftiert](https://www.spiegel.de/ausland/donald-trump-irrtuemlich-abgeschobener-familienvater-trotz-supreme-court-urteil-weiter-inhaftiert-a-75c3b7ef-a415-4466-a6d2-9162a96911d7#ref=rss)
+### einmal
+
+* [https://www.spiegel.de/politik/deutschland/koalitionsverhandlungen-am-schluss-streute-markus-soeder-noch-einmal-sand-ins-getriebe](https://www.spiegel.de/politik/deutschland/koalitionsverhandlungen-am-schluss-streute-markus-soeder-noch-einmal-sand-ins-getriebe-a-6967727d-69e3-4eca-9e29-abf91bfbacc3#ref=rss)
+### arbeitgeber
+
+* [https://www.spiegel.de/wirtschaft/soziales/neuer-koalitionsvertrag-arbeitgeber-kritisieren-teure-rentenplaene](https://www.spiegel.de/wirtschaft/soziales/neuer-koalitionsvertrag-arbeitgeber-kritisieren-teure-rentenplaene-a-a6464946-e10b-4088-b3ac-6db124c219f4#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/ausland/donald-trump-irrtuemlich-abgeschobener-familienvater-trotz-supreme-court-urteil-weiter-inhaftiert](https://www.spiegel.de/ausland/donald-trump-irrtuemlich-abgeschobener-familienvater-trotz-supreme-court-urteil-weiter-inhaftiert-a-75c3b7ef-a415-4466-a6d2-9162a96911d7#ref=rss)
+* [https://www.spiegel.de/panorama/vietnam-amerikanische-soldaten-reisen-durchs-land-und-bitten-um-vergebung](https://www.spiegel.de/panorama/vietnam-amerikanische-soldaten-reisen-durchs-land-und-bitten-um-vergebung-a-50ae648b-aaba-4295-b319-4d08b6035866#ref=rss)
+### usregierung
+
+* [https://www.spiegel.de/ausland/donald-trump-irrtuemlich-abgeschobener-familienvater-trotz-supreme-court-urteil-weiter-inhaftiert](https://www.spiegel.de/ausland/donald-trump-irrtuemlich-abgeschobener-familienvater-trotz-supreme-court-urteil-weiter-inhaftiert-a-75c3b7ef-a415-4466-a6d2-9162a96911d7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-steve-witkoff-handelskrieg-usa-vs-china-beginn-der-weidesaison](https://www.spiegel.de/politik/deutschland/news-steve-witkoff-handelskrieg-usa-vs-china-beginn-der-weidesaison-a-b3f0c6a8-a8b9-4fab-aa6e-b58137d0e528#ref=rss)
+### treffen
+
+* [https://www.spiegel.de/politik/deutschland/news-steve-witkoff-handelskrieg-usa-vs-china-beginn-der-weidesaison](https://www.spiegel.de/politik/deutschland/news-steve-witkoff-handelskrieg-usa-vs-china-beginn-der-weidesaison-a-b3f0c6a8-a8b9-4fab-aa6e-b58137d0e528#ref=rss)
+* [https://www.spiegel.de/ausland/iran-usa-deuten-bereitschaft-zu-kompromiss-bei-gespraechen-mit-iran-an](https://www.spiegel.de/ausland/iran-usa-deuten-bereitschaft-zu-kompromiss-bei-gespraechen-mit-iran-an-a-3083b511-b9fe-4c00-b491-4c9ac80473ac#ref=rss)
+### ergebnisse
+
+* [https://www.spiegel.de/ausland/donald-trump-lobt-sich-fuer-ergebnisse-bei-kognitivem-test-bei-routine-gesundheitscheck](https://www.spiegel.de/ausland/donald-trump-lobt-sich-fuer-ergebnisse-bei-kognitivem-test-bei-routine-gesundheitscheck-a-647e0d46-9fe4-411a-b52b-4a115df19cd4#ref=rss)
 
