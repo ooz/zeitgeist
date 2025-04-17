@@ -4,376 +4,347 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### menschen
-
-* [https://www.spiegel.de/geschichte/kz-bergen-belsen-80-jahre-nach-der-befreiung-unfassbares-leid-unheimliche-stille](https://www.spiegel.de/geschichte/kz-bergen-belsen-80-jahre-nach-der-befreiung-unfassbares-leid-unheimliche-stille-a-c4446008-ad74-4184-8808-4aa0b992161e#ref=rss)
-* [https://www.spiegel.de/panorama/sozialverband-vdk-mindestlohn-in-behindertenwerkstaetten-nicht-die-beste-idee](https://www.spiegel.de/panorama/sozialverband-vdk-mindestlohn-in-behindertenwerkstaetten-nicht-die-beste-idee-a-1b563667-0d9e-481c-b587-b9893a00d4ee#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/koloss-kalmar-forscher-filmen-meeresbewohner-zum-ersten-mal-in-seiner-natuerlich-umgebung](https://www.spiegel.de/wissenschaft/natur/koloss-kalmar-forscher-filmen-meeresbewohner-zum-ersten-mal-in-seiner-natuerlich-umgebung-a-b7d9805d-7450-4c6a-be1d-9fde9bc572d1#ref=rss)
-* [https://www.spiegel.de/wissenschaft/usa-hochwasser-in-tennessee-video-von-fast-ueberfluteter-farm-geht-viral](https://www.spiegel.de/wissenschaft/usa-hochwasser-in-tennessee-video-von-fast-ueberfluteter-farm-geht-viral-a-2a604ae8-2526-4460-bebb-660d729ddb6f#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/bundeswehr-was-junge-menschen-vom-geplanten-wehrdienstmodell-halten](https://www.spiegel.de/panorama/gesellschaft/bundeswehr-was-junge-menschen-vom-geplanten-wehrdienstmodell-halten-a-11f3e1e1-deee-435c-8236-d4e649693dec#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-transgender-urteil-cis-is-how-they-do-it](https://www.spiegel.de/politik/deutschland/news-des-tages-transgender-urteil-cis-is-how-they-do-it-a-487e9d2b-9d49-4c43-8573-ed41ee2a06b6#ref=rss)
-* [https://www.spiegel.de/kultur/j-k-rowling-begruesst-urteil-des-supreme-court-zu-trans-frauen-in-grossbritannien](https://www.spiegel.de/kultur/j-k-rowling-begruesst-urteil-des-supreme-court-zu-trans-frauen-in-grossbritannien-a-bf0a9893-25c8-45fe-bd9b-70c7f66d276f#ref=rss)
-* [https://www.spiegel.de/sport/judit-polgar-ueber-frauen-im-schach-alle-haben-zu-niedrige-ansprueche](https://www.spiegel.de/sport/judit-polgar-ueber-frauen-im-schach-alle-haben-zu-niedrige-ansprueche-a-fdcec5be-eb46-4f5a-bfda-407dc82d3775#ref=rss)
-### spd
-
-* [https://www.spiegel.de/politik/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen](https://www.spiegel.de/politik/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-a-33ee26ec-425e-4148-b059-3bc6b7f2388c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-podcast](https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-podcast-a-331aef80-47db-4680-ab73-963fbb994b57#ref=rss)
-* [https://www.spiegel.de/wirtschaft/mindestlohn-so-wird-der-betrag-wirklich-festgelegt](https://www.spiegel.de/wirtschaft/mindestlohn-so-wird-der-betrag-wirklich-festgelegt-a-c810fb8d-f2df-4c0a-a800-274ab32266f1#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen](https://www.spiegel.de/politik/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-a-33ee26ec-425e-4148-b059-3bc6b7f2388c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-podcast](https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-podcast-a-331aef80-47db-4680-ab73-963fbb994b57#ref=rss)
-* [https://www.spiegel.de/wirtschaft/mindestlohn-so-wird-der-betrag-wirklich-festgelegt](https://www.spiegel.de/wirtschaft/mindestlohn-so-wird-der-betrag-wirklich-festgelegt-a-c810fb8d-f2df-4c0a-a800-274ab32266f1#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen](https://www.spiegel.de/politik/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-a-33ee26ec-425e-4148-b059-3bc6b7f2388c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-podcast](https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-podcast-a-331aef80-47db-4680-ab73-963fbb994b57#ref=rss)
-* [https://www.spiegel.de/wirtschaft/mindestlohn-so-wird-der-betrag-wirklich-festgelegt](https://www.spiegel.de/wirtschaft/mindestlohn-so-wird-der-betrag-wirklich-festgelegt-a-c810fb8d-f2df-4c0a-a800-274ab32266f1#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/politik/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen](https://www.spiegel.de/politik/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-a-33ee26ec-425e-4148-b059-3bc6b7f2388c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-podcast](https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-podcast-a-331aef80-47db-4680-ab73-963fbb994b57#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/bundeswehr-was-junge-menschen-vom-geplanten-wehrdienstmodell-halten](https://www.spiegel.de/panorama/gesellschaft/bundeswehr-was-junge-menschen-vom-geplanten-wehrdienstmodell-halten-a-11f3e1e1-deee-435c-8236-d4e649693dec#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-marjorie-taylor-greene-befeuert-insiderhandel-vorwuerfe-gegen-praesidenten](https://www.spiegel.de/ausland/usa-donald-trump-marjorie-taylor-greene-befeuert-insiderhandel-vorwuerfe-gegen-praesidenten-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/us-heimatschutzministerin-kristi-noem-die-frau-die-einst-ihren-hund-erschoss](https://www.spiegel.de/ausland/us-heimatschutzministerin-kristi-noem-die-frau-die-einst-ihren-hund-erschoss-a-6c0fbc3e-5b55-43e6-bd1f-162c8f242864#ref=rss)
-* [https://www.spiegel.de/sport/donald-trump-streit-um-trans-athletinnen-us-regierung-verklagt-bundesstaat-maine](https://www.spiegel.de/sport/donald-trump-streit-um-trans-athletinnen-us-regierung-verklagt-bundesstaat-maine-a-388443b3-7c83-471f-a4a0-b2b40d1c64c0#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-marjorie-taylor-greene-befeuert-insiderhandel-vorwuerfe-gegen-praesidenten](https://www.spiegel.de/ausland/usa-donald-trump-marjorie-taylor-greene-befeuert-insiderhandel-vorwuerfe-gegen-praesidenten-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
-### afd
-
-* [https://www.spiegel.de/panorama/bundestag-afd-beharrt-auf-vorsitz-im-haushaltsausschuss](https://www.spiegel.de/panorama/bundestag-afd-beharrt-auf-vorsitz-im-haushaltsausschuss-a-548fd242-677e-4d80-8bd5-cbbf7f63be2e#ref=rss)
-* [https://www.spiegel.de/panorama/afd-thueringen-flinten-pistolen-sprengsaetze-so-bewaffnet-sich-das-umfeld](https://www.spiegel.de/panorama/afd-thueringen-flinten-pistolen-sprengsaetze-so-bewaffnet-sich-das-umfeld-a-0a068745-622e-4673-a2d9-0517bba54878#ref=rss)
-### trans
-
-* [https://www.spiegel.de/sport/donald-trump-streit-um-trans-athletinnen-us-regierung-verklagt-bundesstaat-maine](https://www.spiegel.de/sport/donald-trump-streit-um-trans-athletinnen-us-regierung-verklagt-bundesstaat-maine-a-388443b3-7c83-471f-a4a0-b2b40d1c64c0#ref=rss)
-* [https://www.spiegel.de/kultur/j-k-rowling-begruesst-urteil-des-supreme-court-zu-trans-frauen-in-grossbritannien](https://www.spiegel.de/kultur/j-k-rowling-begruesst-urteil-des-supreme-court-zu-trans-frauen-in-grossbritannien-a-bf0a9893-25c8-45fe-bd9b-70c7f66d276f#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/geschichte/kz-bergen-belsen-80-jahre-nach-der-befreiung-unfassbares-leid-unheimliche-stille](https://www.spiegel.de/geschichte/kz-bergen-belsen-80-jahre-nach-der-befreiung-unfassbares-leid-unheimliche-stille-a-c4446008-ad74-4184-8808-4aa0b992161e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/kenia-zwei-teenager-aus-belgien-mit-5000-ameisen-erwischt](https://www.spiegel.de/panorama/justiz/kenia-zwei-teenager-aus-belgien-mit-5000-ameisen-erwischt-a-41e5fe50-f138-445f-b53c-3a083a579782#ref=rss)
-* [https://www.spiegel.de/kultur/the-who-schmeissen-schlagzeuger-zak-starkey-raus](https://www.spiegel.de/kultur/the-who-schmeissen-schlagzeuger-zak-starkey-raus-a-7889a83a-68b1-4951-9851-db32ea01c6c1#ref=rss)
-### koalition
-
-* [https://www.spiegel.de/politik/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen](https://www.spiegel.de/politik/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-a-33ee26ec-425e-4148-b059-3bc6b7f2388c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-podcast](https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-podcast-a-331aef80-47db-4680-ab73-963fbb994b57#ref=rss)
-* [https://www.spiegel.de/wirtschaft/mindestlohn-so-wird-der-betrag-wirklich-festgelegt](https://www.spiegel.de/wirtschaft/mindestlohn-so-wird-der-betrag-wirklich-festgelegt-a-c810fb8d-f2df-4c0a-a800-274ab32266f1#ref=rss)
-### kanzler
-
-* [https://www.spiegel.de/politik/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen](https://www.spiegel.de/politik/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-a-33ee26ec-425e-4148-b059-3bc6b7f2388c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-podcast](https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-podcast-a-331aef80-47db-4680-ab73-963fbb994b57#ref=rss)
-* [https://www.spiegel.de/wirtschaft/mindestlohn-so-wird-der-betrag-wirklich-festgelegt](https://www.spiegel.de/wirtschaft/mindestlohn-so-wird-der-betrag-wirklich-festgelegt-a-c810fb8d-f2df-4c0a-a800-274ab32266f1#ref=rss)
-### streit
-
-* [https://www.spiegel.de/politik/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen](https://www.spiegel.de/politik/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-a-33ee26ec-425e-4148-b059-3bc6b7f2388c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-podcast](https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-podcast-a-331aef80-47db-4680-ab73-963fbb994b57#ref=rss)
-* [https://www.spiegel.de/sport/donald-trump-streit-um-trans-athletinnen-us-regierung-verklagt-bundesstaat-maine](https://www.spiegel.de/sport/donald-trump-streit-um-trans-athletinnen-us-regierung-verklagt-bundesstaat-maine-a-388443b3-7c83-471f-a4a0-b2b40d1c64c0#ref=rss)
-### lage
-
-* [https://www.spiegel.de/politik/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen](https://www.spiegel.de/politik/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-a-33ee26ec-425e-4148-b059-3bc6b7f2388c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-podcast](https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-podcast-a-331aef80-47db-4680-ab73-963fbb994b57#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-transgender-urteil-cis-is-how-they-do-it](https://www.spiegel.de/politik/deutschland/news-des-tages-transgender-urteil-cis-is-how-they-do-it-a-487e9d2b-9d49-4c43-8573-ed41ee2a06b6#ref=rss)
-### erste
-
-* [https://www.spiegel.de/politik/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen](https://www.spiegel.de/politik/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-a-33ee26ec-425e-4148-b059-3bc6b7f2388c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-podcast](https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-podcast-a-331aef80-47db-4680-ab73-963fbb994b57#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/edeka-macht-mehr-umsatz-denn-je](https://www.spiegel.de/wirtschaft/unternehmen/edeka-macht-mehr-umsatz-denn-je-a-f358dfb1-6344-496e-9441-ef234912aef1#ref=rss)
-### mindestlohn
-
-* [https://www.spiegel.de/wirtschaft/mindestlohn-so-wird-der-betrag-wirklich-festgelegt](https://www.spiegel.de/wirtschaft/mindestlohn-so-wird-der-betrag-wirklich-festgelegt-a-c810fb8d-f2df-4c0a-a800-274ab32266f1#ref=rss)
-* [https://www.spiegel.de/panorama/sozialverband-vdk-mindestlohn-in-behindertenwerkstaetten-nicht-die-beste-idee](https://www.spiegel.de/panorama/sozialverband-vdk-mindestlohn-in-behindertenwerkstaetten-nicht-die-beste-idee-a-1b563667-0d9e-481c-b587-b9893a00d4ee#ref=rss)
-### frau
-
-* [https://www.spiegel.de/ausland/us-heimatschutzministerin-kristi-noem-die-frau-die-einst-ihren-hund-erschoss](https://www.spiegel.de/ausland/us-heimatschutzministerin-kristi-noem-die-frau-die-einst-ihren-hund-erschoss-a-6c0fbc3e-5b55-43e6-bd1f-162c8f242864#ref=rss)
-* [https://www.spiegel.de/panorama/paris-eine-tote-und-eine-verletzte-in-kaeltekammer-von-fitnessstudio](https://www.spiegel.de/panorama/paris-eine-tote-und-eine-verletzte-in-kaeltekammer-von-fitnessstudio-a-301e9a23-5bf4-4705-9332-8294fa4625b0#ref=rss)
-* [https://www.spiegel.de/panorama/leute/melinda-gates-berichtet-in-ihren-memoiren-ueber-das-ende-ihrer-ehe](https://www.spiegel.de/panorama/leute/melinda-gates-berichtet-in-ihren-memoiren-ueber-das-ende-ihrer-ehe-a-b70281d8-7cfe-4d6e-b11c-90e71178dcb2#ref=rss)
-### jk
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-transgender-urteil-cis-is-how-they-do-it](https://www.spiegel.de/politik/deutschland/news-des-tages-transgender-urteil-cis-is-how-they-do-it-a-487e9d2b-9d49-4c43-8573-ed41ee2a06b6#ref=rss)
-* [https://www.spiegel.de/kultur/j-k-rowling-begruesst-urteil-des-supreme-court-zu-trans-frauen-in-grossbritannien](https://www.spiegel.de/kultur/j-k-rowling-begruesst-urteil-des-supreme-court-zu-trans-frauen-in-grossbritannien-a-bf0a9893-25c8-45fe-bd9b-70c7f66d276f#ref=rss)
-### rowling
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-transgender-urteil-cis-is-how-they-do-it](https://www.spiegel.de/politik/deutschland/news-des-tages-transgender-urteil-cis-is-how-they-do-it-a-487e9d2b-9d49-4c43-8573-ed41ee2a06b6#ref=rss)
-* [https://www.spiegel.de/kultur/j-k-rowling-begruesst-urteil-des-supreme-court-zu-trans-frauen-in-grossbritannien](https://www.spiegel.de/kultur/j-k-rowling-begruesst-urteil-des-supreme-court-zu-trans-frauen-in-grossbritannien-a-bf0a9893-25c8-45fe-bd9b-70c7f66d276f#ref=rss)
 ### bayern
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-transgender-urteil-cis-is-how-they-do-it](https://www.spiegel.de/politik/deutschland/news-des-tages-transgender-urteil-cis-is-how-they-do-it-a-487e9d2b-9d49-4c43-8573-ed41ee2a06b6#ref=rss)
-* [https://www.spiegel.de/sport/fussball/thomas-mueller-beim-fc-bayern-muenchen-war-es-ein-fehler-ihm-keinen-vertrag-anzubieten](https://www.spiegel.de/sport/fussball/thomas-mueller-beim-fc-bayern-muenchen-war-es-ein-fehler-ihm-keinen-vertrag-anzubieten-a-8af17abf-d1fe-49b4-ae8c-59bd8461c68b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-das-aus-gegen-inter-mailand-der-anfang-von-etwas-grossem-oder-vom-ende](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-das-aus-gegen-inter-mailand-der-anfang-von-etwas-grossem-oder-vom-ende-a-22358350-968b-4785-b2f9-bb4faf3f53ce#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-trainer-alexander-straus-verlaesst-ueberraschend-die-fussballerinnen](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-trainer-alexander-straus-verlaesst-ueberraschend-die-fussballerinnen-a-922d1770-27b5-4e92-b07f-866020280c8f#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-muellers-letztes-bayernspiel-in-der-champions-league-endet-emotional](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-muellers-letztes-bayernspiel-in-der-champions-league-endet-emotional-a-d2419136-13e8-4f7e-932d-a3cfb43a7c0a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-internationale-medien-feiern-inter-mailand-und-kritisieren-bayern-spieler](https://www.spiegel.de/sport/fussball/champions-league-internationale-medien-feiern-inter-mailand-und-kritisieren-bayern-spieler-a-fb41cb2f-cfdb-4327-a459-53e4fcd6dcad#ref=rss)
+### fc
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-das-aus-gegen-inter-mailand-der-anfang-von-etwas-grossem-oder-vom-ende](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-das-aus-gegen-inter-mailand-der-anfang-von-etwas-grossem-oder-vom-ende-a-22358350-968b-4785-b2f9-bb4faf3f53ce#ref=rss)
+* [https://www.spiegel.de/sport/fussball/real-madrid-niederlage-gegen-arsenal-in-der-champions-league-ohne-fussball-kein-wunder](https://www.spiegel.de/sport/fussball/real-madrid-niederlage-gegen-arsenal-in-der-champions-league-ohne-fussball-kein-wunder-a-adb085c0-29a2-47b1-b940-ef1eeddd0e1a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-trainer-alexander-straus-verlaesst-ueberraschend-die-fussballerinnen](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-trainer-alexander-straus-verlaesst-ueberraschend-die-fussballerinnen-a-922d1770-27b5-4e92-b07f-866020280c8f#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-muellers-letztes-bayernspiel-in-der-champions-league-endet-emotional](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-muellers-letztes-bayernspiel-in-der-champions-league-endet-emotional-a-d2419136-13e8-4f7e-932d-a3cfb43a7c0a#ref=rss)
+### usa
+
+* [https://www.spiegel.de/kultur/kino/usa-george-clooney-haette-kamala-harris-nicht-einfach-so-zur-praesidentschaftskandidatin-gemacht](https://www.spiegel.de/kultur/kino/usa-george-clooney-haette-kamala-harris-nicht-einfach-so-zur-praesidentschaftskandidatin-gemacht-a-e1fe3d35-ec1c-4fe0-8764-bcbcfa80e163#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/trump-gegen-die-wissenschaft-wie-viel-widerstand-kann-sich-harvard-leisten](https://www.spiegel.de/wissenschaft/mensch/trump-gegen-die-wissenschaft-wie-viel-widerstand-kann-sich-harvard-leisten-a-34a15953-f0d1-442c-a1cc-c2ceb291b838#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-koennte-teile-von-europas-waffen-auch-in-den-usa-produzieren-lassen](https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-koennte-teile-von-europas-waffen-auch-in-den-usa-produzieren-lassen-a-0c2738e8-47df-45dd-b274-2a0e3955bce9#ref=rss)
+* [https://www.spiegel.de/ausland/usa-donald-trump-marjorie-taylor-greene-befeuert-insiderhandel-vorwuerfe-gegen-praesidenten](https://www.spiegel.de/ausland/usa-donald-trump-marjorie-taylor-greene-befeuert-insiderhandel-vorwuerfe-gegen-praesidenten-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
+### inter
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-das-aus-gegen-inter-mailand-der-anfang-von-etwas-grossem-oder-vom-ende](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-das-aus-gegen-inter-mailand-der-anfang-von-etwas-grossem-oder-vom-ende-a-22358350-968b-4785-b2f9-bb4faf3f53ce#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-internationale-medien-feiern-inter-mailand-und-kritisieren-bayern-spieler](https://www.spiegel.de/sport/fussball/champions-league-internationale-medien-feiern-inter-mailand-und-kritisieren-bayern-spieler-a-fb41cb2f-cfdb-4327-a459-53e4fcd6dcad#ref=rss)
+### mailand
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-das-aus-gegen-inter-mailand-der-anfang-von-etwas-grossem-oder-vom-ende](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-das-aus-gegen-inter-mailand-der-anfang-von-etwas-grossem-oder-vom-ende-a-22358350-968b-4785-b2f9-bb4faf3f53ce#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-muellers-letztes-bayernspiel-in-der-champions-league-endet-emotional](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-muellers-letztes-bayernspiel-in-der-champions-league-endet-emotional-a-d2419136-13e8-4f7e-932d-a3cfb43a7c0a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-internationale-medien-feiern-inter-mailand-und-kritisieren-bayern-spieler](https://www.spiegel.de/sport/fussball/champions-league-internationale-medien-feiern-inter-mailand-und-kritisieren-bayern-spieler-a-fb41cb2f-cfdb-4327-a459-53e4fcd6dcad#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-koennte-teile-von-europas-waffen-auch-in-den-usa-produzieren-lassen](https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-koennte-teile-von-europas-waffen-auch-in-den-usa-produzieren-lassen-a-0c2738e8-47df-45dd-b274-2a0e3955bce9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/luftfahrt-in-deutschland-easyjet-ceo-kritisiert-hohe-gebuehren](https://www.spiegel.de/wirtschaft/luftfahrt-in-deutschland-easyjet-ceo-kritisiert-hohe-gebuehren-a-2f662adc-edb9-4811-8dc5-fa4874ee6fd7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutschland-bundestag-schliesst-russland-von-weltkriegsgedenken-aus](https://www.spiegel.de/politik/deutschland/deutschland-bundestag-schliesst-russland-von-weltkriegsgedenken-aus-a-2da424dd-f257-44cc-ba0c-02fd6c62e77f#ref=rss)
+* [https://www.spiegel.de/ausland/usa-donald-trump-marjorie-taylor-greene-befeuert-insiderhandel-vorwuerfe-gegen-praesidenten](https://www.spiegel.de/ausland/usa-donald-trump-marjorie-taylor-greene-befeuert-insiderhandel-vorwuerfe-gegen-praesidenten-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
+### mrbeast
+
+* [https://www.spiegel.de/netzwelt/mrbeast-entschuldigt-sich-bei-fans-fuer-mrbeast-experience](https://www.spiegel.de/netzwelt/mrbeast-entschuldigt-sich-bei-fans-fuer-mrbeast-experience-a-875320c4-8b84-418e-b667-3fdafbb74da6#ref=rss)
+### münchen
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-das-aus-gegen-inter-mailand-der-anfang-von-etwas-grossem-oder-vom-ende](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-das-aus-gegen-inter-mailand-der-anfang-von-etwas-grossem-oder-vom-ende-a-22358350-968b-4785-b2f9-bb4faf3f53ce#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-trainer-alexander-straus-verlaesst-ueberraschend-die-fussballerinnen](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-trainer-alexander-straus-verlaesst-ueberraschend-die-fussballerinnen-a-922d1770-27b5-4e92-b07f-866020280c8f#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-muellers-letztes-bayernspiel-in-der-champions-league-endet-emotional](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-muellers-letztes-bayernspiel-in-der-champions-league-endet-emotional-a-d2419136-13e8-4f7e-932d-a3cfb43a7c0a#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/start/bundeswehr-bewerbungen-steigen-um-mehr-als-18-prozent-personalmangel-bleibt](https://www.spiegel.de/start/bundeswehr-bewerbungen-steigen-um-mehr-als-18-prozent-personalmangel-bleibt-a-841762ec-cf96-4936-a845-3277ff54bca5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/neuaufstellung-der-fdp-das-personalpuzzle-des-christian-duerr](https://www.spiegel.de/politik/deutschland/neuaufstellung-der-fdp-das-personalpuzzle-des-christian-duerr-a-cae1415b-7221-410e-949a-524f7a31c257#ref=rss)
+* [https://www.spiegel.de/panorama/italien-heftige-unwetter-in-urlaubsregionen](https://www.spiegel.de/panorama/italien-heftige-unwetter-in-urlaubsregionen-a-468a2645-a94d-4f53-8e2b-1804e7f92b09#ref=rss)
+### bleibt
+
+* [https://www.spiegel.de/start/bundeswehr-bewerbungen-steigen-um-mehr-als-18-prozent-personalmangel-bleibt](https://www.spiegel.de/start/bundeswehr-bewerbungen-steigen-um-mehr-als-18-prozent-personalmangel-bleibt-a-841762ec-cf96-4936-a845-3277ff54bca5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/neuaufstellung-der-fdp-das-personalpuzzle-des-christian-duerr](https://www.spiegel.de/politik/deutschland/neuaufstellung-der-fdp-das-personalpuzzle-des-christian-duerr-a-cae1415b-7221-410e-949a-524f7a31c257#ref=rss)
+### champions
+
+* [https://www.spiegel.de/sport/fussball/real-madrid-niederlage-gegen-arsenal-in-der-champions-league-ohne-fussball-kein-wunder](https://www.spiegel.de/sport/fussball/real-madrid-niederlage-gegen-arsenal-in-der-champions-league-ohne-fussball-kein-wunder-a-adb085c0-29a2-47b1-b940-ef1eeddd0e1a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-muellers-letztes-bayernspiel-in-der-champions-league-endet-emotional](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-muellers-letztes-bayernspiel-in-der-champions-league-endet-emotional-a-d2419136-13e8-4f7e-932d-a3cfb43a7c0a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-internationale-medien-feiern-inter-mailand-und-kritisieren-bayern-spieler](https://www.spiegel.de/sport/fussball/champions-league-internationale-medien-feiern-inter-mailand-und-kritisieren-bayern-spieler-a-fb41cb2f-cfdb-4327-a459-53e4fcd6dcad#ref=rss)
+### league
+
+* [https://www.spiegel.de/sport/fussball/real-madrid-niederlage-gegen-arsenal-in-der-champions-league-ohne-fussball-kein-wunder](https://www.spiegel.de/sport/fussball/real-madrid-niederlage-gegen-arsenal-in-der-champions-league-ohne-fussball-kein-wunder-a-adb085c0-29a2-47b1-b940-ef1eeddd0e1a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-muellers-letztes-bayernspiel-in-der-champions-league-endet-emotional](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-muellers-letztes-bayernspiel-in-der-champions-league-endet-emotional-a-d2419136-13e8-4f7e-932d-a3cfb43a7c0a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-internationale-medien-feiern-inter-mailand-und-kritisieren-bayern-spieler](https://www.spiegel.de/sport/fussball/champions-league-internationale-medien-feiern-inter-mailand-und-kritisieren-bayern-spieler-a-fb41cb2f-cfdb-4327-a459-53e4fcd6dcad#ref=rss)
+### trainer
+
+* [https://www.spiegel.de/sport/fussball/real-madrid-niederlage-gegen-arsenal-in-der-champions-league-ohne-fussball-kein-wunder](https://www.spiegel.de/sport/fussball/real-madrid-niederlage-gegen-arsenal-in-der-champions-league-ohne-fussball-kein-wunder-a-adb085c0-29a2-47b1-b940-ef1eeddd0e1a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-trainer-alexander-straus-verlaesst-ueberraschend-die-fussballerinnen](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-trainer-alexander-straus-verlaesst-ueberraschend-die-fussballerinnen-a-922d1770-27b5-4e92-b07f-866020280c8f#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/ukrainekrieg-kyjiw-meldet-mehrere-tote-nach-russischem-drohnenangriff-auf-dnipro](https://www.spiegel.de/ausland/ukrainekrieg-kyjiw-meldet-mehrere-tote-nach-russischem-drohnenangriff-auf-dnipro-a-a5f2181d-3a2e-4a27-ba88-c208172427c7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutschland-bundestag-schliesst-russland-von-weltkriegsgedenken-aus](https://www.spiegel.de/politik/deutschland/deutschland-bundestag-schliesst-russland-von-weltkriegsgedenken-aus-a-2da424dd-f257-44cc-ba0c-02fd6c62e77f#ref=rss)
+### laut
+
+* [https://www.spiegel.de/ausland/ukrainekrieg-kyjiw-meldet-mehrere-tote-nach-russischem-drohnenangriff-auf-dnipro](https://www.spiegel.de/ausland/ukrainekrieg-kyjiw-meldet-mehrere-tote-nach-russischem-drohnenangriff-auf-dnipro-a-a5f2181d-3a2e-4a27-ba88-c208172427c7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/us-behoerde-sammelt-kuenftig-offenbar-weniger-verbraucherschutzdaten](https://www.spiegel.de/wirtschaft/service/us-behoerde-sammelt-kuenftig-offenbar-weniger-verbraucherschutzdaten-a-d47d4ff3-933a-4c3e-8c2b-6d68d6d6e6ab#ref=rss)
+* [https://www.spiegel.de/ausland/gazastreifen-uno-meldet-eine-halbe-million-vertriebene-seit-wiederaufnahme-der-kaempfe](https://www.spiegel.de/ausland/gazastreifen-uno-meldet-eine-halbe-million-vertriebene-seit-wiederaufnahme-der-kaempfe-a-95f0047f-fb44-4268-9d0a-1237825ae93c#ref=rss)
+### viele
+
+* [https://www.spiegel.de/ausland/ukrainekrieg-kyjiw-meldet-mehrere-tote-nach-russischem-drohnenangriff-auf-dnipro](https://www.spiegel.de/ausland/ukrainekrieg-kyjiw-meldet-mehrere-tote-nach-russischem-drohnenangriff-auf-dnipro-a-a5f2181d-3a2e-4a27-ba88-c208172427c7#ref=rss)
+* [https://www.spiegel.de/start/berufseinstieg-als-bioinformatikerin-mein-ziel-ist-es-blutkrebspatienten-eine-zweite-chance-zu-ermoeglichen](https://www.spiegel.de/start/berufseinstieg-als-bioinformatikerin-mein-ziel-ist-es-blutkrebspatienten-eine-zweite-chance-zu-ermoeglichen-a-99bc6b5f-0520-4ea7-91f4-eace9c617840#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/us-behoerde-sammelt-kuenftig-offenbar-weniger-verbraucherschutzdaten](https://www.spiegel.de/wirtschaft/service/us-behoerde-sammelt-kuenftig-offenbar-weniger-verbraucherschutzdaten-a-d47d4ff3-933a-4c3e-8c2b-6d68d6d6e6ab#ref=rss)
+### gazastreifen
+
+* [https://www.spiegel.de/ausland/israel-gaza-konflikt-tausende-protestieren-im-gazastreifen-gegen-hamas](https://www.spiegel.de/ausland/israel-gaza-konflikt-tausende-protestieren-im-gazastreifen-gegen-hamas-a-8c0bc267-f5e8-41f5-9422-3ea3aca0d1d2#ref=rss)
+* [https://www.spiegel.de/ausland/gazastreifen-uno-meldet-eine-halbe-million-vertriebene-seit-wiederaufnahme-der-kaempfe](https://www.spiegel.de/ausland/gazastreifen-uno-meldet-eine-halbe-million-vertriebene-seit-wiederaufnahme-der-kaempfe-a-95f0047f-fb44-4268-9d0a-1237825ae93c#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/wirtschaft/soziales/zoelle-eu-ratspraesident-antonio-costa-warnt-vor-globaler-wirtschaftskatastrophe](https://www.spiegel.de/wirtschaft/soziales/zoelle-eu-ratspraesident-antonio-costa-warnt-vor-globaler-wirtschaftskatastrophe-a-d89b4ec5-f8f2-4dc3-a74d-edf95c6af83d#ref=rss)
-* [https://www.spiegel.de/sport/donald-trump-streit-um-trans-athletinnen-us-regierung-verklagt-bundesstaat-maine](https://www.spiegel.de/sport/donald-trump-streit-um-trans-athletinnen-us-regierung-verklagt-bundesstaat-maine-a-388443b3-7c83-471f-a4a0-b2b40d1c64c0#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/trump-gegen-die-wissenschaft-wie-viel-widerstand-kann-sich-harvard-leisten](https://www.spiegel.de/wissenschaft/mensch/trump-gegen-die-wissenschaft-wie-viel-widerstand-kann-sich-harvard-leisten-a-34a15953-f0d1-442c-a1cc-c2ceb291b838#ref=rss)
 * [https://www.spiegel.de/ausland/usa-donald-trump-marjorie-taylor-greene-befeuert-insiderhandel-vorwuerfe-gegen-praesidenten](https://www.spiegel.de/ausland/usa-donald-trump-marjorie-taylor-greene-befeuert-insiderhandel-vorwuerfe-gegen-praesidenten-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
-### finanzminister
+### medien
 
-* [https://www.spiegel.de/politik/deutschland/brandenburg-finanzminister-robert-crumbach-will-bsw-landesvorsitz-aufgeben](https://www.spiegel.de/politik/deutschland/brandenburg-finanzminister-robert-crumbach-will-bsw-landesvorsitz-aufgeben-a-79526571-f9b4-46ad-8891-43a3501897e2#ref=rss)
-### crumbach
+* [https://www.spiegel.de/netzwelt/mrbeast-entschuldigt-sich-bei-fans-fuer-mrbeast-experience](https://www.spiegel.de/netzwelt/mrbeast-entschuldigt-sich-bei-fans-fuer-mrbeast-experience-a-875320c4-8b84-418e-b667-3fdafbb74da6#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-internationale-medien-feiern-inter-mailand-und-kritisieren-bayern-spieler](https://www.spiegel.de/sport/fussball/champions-league-internationale-medien-feiern-inter-mailand-und-kritisieren-bayern-spieler-a-fb41cb2f-cfdb-4327-a459-53e4fcd6dcad#ref=rss)
+### andreas
 
-* [https://www.spiegel.de/politik/deutschland/brandenburg-finanzminister-robert-crumbach-will-bsw-landesvorsitz-aufgeben](https://www.spiegel.de/politik/deutschland/brandenburg-finanzminister-robert-crumbach-will-bsw-landesvorsitz-aufgeben-a-79526571-f9b4-46ad-8891-43a3501897e2#ref=rss)
-### kz
+* [https://www.spiegel.de/politik/deutschland/vorschlag-des-gruenen-andreas-audretsch-gesetzliche-klarstellungen-beim-mindestlohn-notwendig](https://www.spiegel.de/politik/deutschland/vorschlag-des-gruenen-andreas-audretsch-gesetzliche-klarstellungen-beim-mindestlohn-notwendig-a-99b9522d-b675-4fc0-809b-7e640de5f8ed#ref=rss)
+### audretsch
 
-* [https://www.spiegel.de/geschichte/kz-bergen-belsen-80-jahre-nach-der-befreiung-unfassbares-leid-unheimliche-stille](https://www.spiegel.de/geschichte/kz-bergen-belsen-80-jahre-nach-der-befreiung-unfassbares-leid-unheimliche-stille-a-c4446008-ad74-4184-8808-4aa0b992161e#ref=rss)
-### bergenbelsen
+* [https://www.spiegel.de/politik/deutschland/vorschlag-des-gruenen-andreas-audretsch-gesetzliche-klarstellungen-beim-mindestlohn-notwendig](https://www.spiegel.de/politik/deutschland/vorschlag-des-gruenen-andreas-audretsch-gesetzliche-klarstellungen-beim-mindestlohn-notwendig-a-99b9522d-b675-4fc0-809b-7e640de5f8ed#ref=rss)
+### spd
 
-* [https://www.spiegel.de/geschichte/kz-bergen-belsen-80-jahre-nach-der-befreiung-unfassbares-leid-unheimliche-stille](https://www.spiegel.de/geschichte/kz-bergen-belsen-80-jahre-nach-der-befreiung-unfassbares-leid-unheimliche-stille-a-c4446008-ad74-4184-8808-4aa0b992161e#ref=rss)
-### 80
+* [https://www.spiegel.de/politik/deutschland/vorschlag-des-gruenen-andreas-audretsch-gesetzliche-klarstellungen-beim-mindestlohn-notwendig](https://www.spiegel.de/politik/deutschland/vorschlag-des-gruenen-andreas-audretsch-gesetzliche-klarstellungen-beim-mindestlohn-notwendig-a-99b9522d-b675-4fc0-809b-7e640de5f8ed#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/reinhold-wuerth-zeigt-sich-offen-fuer-mehrheiten-mit-der-afd](https://www.spiegel.de/wirtschaft/unternehmen/reinhold-wuerth-zeigt-sich-offen-fuer-mehrheiten-mit-der-afd-a-df6db07a-1139-493d-9919-6b4b5dbaa62c#ref=rss)
+### stellen
 
-* [https://www.spiegel.de/geschichte/kz-bergen-belsen-80-jahre-nach-der-befreiung-unfassbares-leid-unheimliche-stille](https://www.spiegel.de/geschichte/kz-bergen-belsen-80-jahre-nach-der-befreiung-unfassbares-leid-unheimliche-stille-a-c4446008-ad74-4184-8808-4aa0b992161e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/magdeburg-hunderte-nebenklaeger-bei-weihnachtsmarkt-prozess-befuerchtet](https://www.spiegel.de/panorama/justiz/magdeburg-hunderte-nebenklaeger-bei-weihnachtsmarkt-prozess-befuerchtet-a-44c1c7a5-2ced-4ec3-95b5-f51a5b6f9235#ref=rss)
-### cdu/csu
+* [https://www.spiegel.de/politik/deutschland/vorschlag-des-gruenen-andreas-audretsch-gesetzliche-klarstellungen-beim-mindestlohn-notwendig](https://www.spiegel.de/politik/deutschland/vorschlag-des-gruenen-andreas-audretsch-gesetzliche-klarstellungen-beim-mindestlohn-notwendig-a-99b9522d-b675-4fc0-809b-7e640de5f8ed#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/us-behoerde-sammelt-kuenftig-offenbar-weniger-verbraucherschutzdaten](https://www.spiegel.de/wirtschaft/service/us-behoerde-sammelt-kuenftig-offenbar-weniger-verbraucherschutzdaten-a-d47d4ff3-933a-4c3e-8c2b-6d68d6d6e6ab#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/politik/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen](https://www.spiegel.de/politik/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-a-33ee26ec-425e-4148-b059-3bc6b7f2388c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-podcast](https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-podcast-a-331aef80-47db-4680-ab73-963fbb994b57#ref=rss)
-### aufschwung
+* [https://www.spiegel.de/start/startklar-newsletter-wie-werde-ich-jetzt-noch-psychotherapeut](https://www.spiegel.de/start/startklar-newsletter-wie-werde-ich-jetzt-noch-psychotherapeut-a-8287ff38-901e-420e-b673-4331031bc725#ref=rss)
+* [https://www.spiegel.de/ausland/ukrainekrieg-kyjiw-meldet-mehrere-tote-nach-russischem-drohnenangriff-auf-dnipro](https://www.spiegel.de/ausland/ukrainekrieg-kyjiw-meldet-mehrere-tote-nach-russischem-drohnenangriff-auf-dnipro-a-a5f2181d-3a2e-4a27-ba88-c208172427c7#ref=rss)
+### berufseinstieg
 
-* [https://www.spiegel.de/politik/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen](https://www.spiegel.de/politik/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-a-33ee26ec-425e-4148-b059-3bc6b7f2388c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-podcast](https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-podcast-a-331aef80-47db-4680-ab73-963fbb994b57#ref=rss)
-### verpassen
+* [https://www.spiegel.de/start/startklar-newsletter-wie-werde-ich-jetzt-noch-psychotherapeut](https://www.spiegel.de/start/startklar-newsletter-wie-werde-ich-jetzt-noch-psychotherapeut-a-8287ff38-901e-420e-b673-4331031bc725#ref=rss)
+* [https://www.spiegel.de/start/berufseinstieg-als-bioinformatikerin-mein-ziel-ist-es-blutkrebspatienten-eine-zweite-chance-zu-ermoeglichen](https://www.spiegel.de/start/berufseinstieg-als-bioinformatikerin-mein-ziel-ist-es-blutkrebspatienten-eine-zweite-chance-zu-ermoeglichen-a-99bc6b5f-0520-4ea7-91f4-eace9c617840#ref=rss)
+### etwas
 
-* [https://www.spiegel.de/politik/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen](https://www.spiegel.de/politik/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-a-33ee26ec-425e-4148-b059-3bc6b7f2388c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-podcast](https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-podcast-a-331aef80-47db-4680-ab73-963fbb994b57#ref=rss)
-### bündnis
-
-* [https://www.spiegel.de/politik/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen](https://www.spiegel.de/politik/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-a-33ee26ec-425e-4148-b059-3bc6b7f2388c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-podcast](https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-podcast-a-331aef80-47db-4680-ab73-963fbb994b57#ref=rss)
-### cduchef
-
-* [https://www.spiegel.de/politik/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen](https://www.spiegel.de/politik/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-a-33ee26ec-425e-4148-b059-3bc6b7f2388c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-podcast](https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-podcast-a-331aef80-47db-4680-ab73-963fbb994b57#ref=rss)
-### geraten
-
-* [https://www.spiegel.de/politik/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen](https://www.spiegel.de/politik/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-a-33ee26ec-425e-4148-b059-3bc6b7f2388c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-podcast](https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-podcast-a-331aef80-47db-4680-ab73-963fbb994b57#ref=rss)
-### spiegelredakteur
-
-* [https://www.spiegel.de/politik/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen](https://www.spiegel.de/politik/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-a-33ee26ec-425e-4148-b059-3bc6b7f2388c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-podcast](https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-podcast-a-331aef80-47db-4680-ab73-963fbb994b57#ref=rss)
-### jonas
-
-* [https://www.spiegel.de/politik/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen](https://www.spiegel.de/politik/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-a-33ee26ec-425e-4148-b059-3bc6b7f2388c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-podcast](https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-podcast-a-331aef80-47db-4680-ab73-963fbb994b57#ref=rss)
-### schaible
-
-* [https://www.spiegel.de/politik/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen](https://www.spiegel.de/politik/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-a-33ee26ec-425e-4148-b059-3bc6b7f2388c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-podcast](https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-podcast-a-331aef80-47db-4680-ab73-963fbb994b57#ref=rss)
-### analysiert
-
-* [https://www.spiegel.de/politik/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen](https://www.spiegel.de/politik/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-a-33ee26ec-425e-4148-b059-3bc6b7f2388c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-podcast](https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-podcast-a-331aef80-47db-4680-ab73-963fbb994b57#ref=rss)
-### merz’
-
-* [https://www.spiegel.de/politik/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen](https://www.spiegel.de/politik/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-a-33ee26ec-425e-4148-b059-3bc6b7f2388c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-podcast](https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-podcast-a-331aef80-47db-4680-ab73-963fbb994b57#ref=rss)
-### schritte
-
-* [https://www.spiegel.de/politik/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen](https://www.spiegel.de/politik/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-a-33ee26ec-425e-4148-b059-3bc6b7f2388c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-podcast](https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-podcast-a-331aef80-47db-4680-ab73-963fbb994b57#ref=rss)
-### regierungspolitiker
-
-* [https://www.spiegel.de/politik/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen](https://www.spiegel.de/politik/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-a-33ee26ec-425e-4148-b059-3bc6b7f2388c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-podcast](https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-kann-friedrich-merz-der-neuen-koalition-aufschwung-verpassen-podcast-a-331aef80-47db-4680-ab73-963fbb994b57#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-das-aus-gegen-inter-mailand-der-anfang-von-etwas-grossem-oder-vom-ende](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-das-aus-gegen-inter-mailand-der-anfang-von-etwas-grossem-oder-vom-ende-a-22358350-968b-4785-b2f9-bb4faf3f53ce#ref=rss)
+* [https://www.spiegel.de/netzwelt/mrbeast-entschuldigt-sich-bei-fans-fuer-mrbeast-experience](https://www.spiegel.de/netzwelt/mrbeast-entschuldigt-sich-bei-fans-fuer-mrbeast-experience-a-875320c4-8b84-418e-b667-3fdafbb74da6#ref=rss)
 ### ende
 
-* [https://www.spiegel.de/wirtschaft/mindestlohn-so-wird-der-betrag-wirklich-festgelegt](https://www.spiegel.de/wirtschaft/mindestlohn-so-wird-der-betrag-wirklich-festgelegt-a-c810fb8d-f2df-4c0a-a800-274ab32266f1#ref=rss)
-* [https://www.spiegel.de/panorama/leute/melinda-gates-berichtet-in-ihren-memoiren-ueber-das-ende-ihrer-ehe](https://www.spiegel.de/panorama/leute/melinda-gates-berichtet-in-ihren-memoiren-ueber-das-ende-ihrer-ehe-a-b70281d8-7cfe-4d6e-b11c-90e71178dcb2#ref=rss)
-### usheimatschutzministerin
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-das-aus-gegen-inter-mailand-der-anfang-von-etwas-grossem-oder-vom-ende](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-das-aus-gegen-inter-mailand-der-anfang-von-etwas-grossem-oder-vom-ende-a-22358350-968b-4785-b2f9-bb4faf3f53ce#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-konflikt-tausende-protestieren-im-gazastreifen-gegen-hamas](https://www.spiegel.de/ausland/israel-gaza-konflikt-tausende-protestieren-im-gazastreifen-gegen-hamas-a-8c0bc267-f5e8-41f5-9422-3ea3aca0d1d2#ref=rss)
+### waren
 
-* [https://www.spiegel.de/ausland/us-heimatschutzministerin-kristi-noem-die-frau-die-einst-ihren-hund-erschoss](https://www.spiegel.de/ausland/us-heimatschutzministerin-kristi-noem-die-frau-die-einst-ihren-hund-erschoss-a-6c0fbc3e-5b55-43e6-bd1f-162c8f242864#ref=rss)
-### kristi
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-das-aus-gegen-inter-mailand-der-anfang-von-etwas-grossem-oder-vom-ende](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-das-aus-gegen-inter-mailand-der-anfang-von-etwas-grossem-oder-vom-ende-a-22358350-968b-4785-b2f9-bb4faf3f53ce#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-konflikt-tausende-protestieren-im-gazastreifen-gegen-hamas](https://www.spiegel.de/ausland/israel-gaza-konflikt-tausende-protestieren-im-gazastreifen-gegen-hamas-a-8c0bc267-f5e8-41f5-9422-3ea3aca0d1d2#ref=rss)
+### bahn
 
-* [https://www.spiegel.de/ausland/us-heimatschutzministerin-kristi-noem-die-frau-die-einst-ihren-hund-erschoss](https://www.spiegel.de/ausland/us-heimatschutzministerin-kristi-noem-die-frau-die-einst-ihren-hund-erschoss-a-6c0fbc3e-5b55-43e6-bd1f-162c8f242864#ref=rss)
-### noem
+* [https://www.spiegel.de/netzwelt/apps/deutsche-bahn-wie-hilft-mir-der-db-navigator-beim-bahnfahren-und-der-reiseplanung](https://www.spiegel.de/netzwelt/apps/deutsche-bahn-wie-hilft-mir-der-db-navigator-beim-bahnfahren-und-der-reiseplanung-a-5b180f2a-2af7-47ef-b6c2-65e5cb6d27ea#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/ausland/us-heimatschutzministerin-kristi-noem-die-frau-die-einst-ihren-hund-erschoss](https://www.spiegel.de/ausland/us-heimatschutzministerin-kristi-noem-die-frau-die-einst-ihren-hund-erschoss-a-6c0fbc3e-5b55-43e6-bd1f-162c8f242864#ref=rss)
-### lange
-
-* [https://www.spiegel.de/ausland/us-heimatschutzministerin-kristi-noem-die-frau-die-einst-ihren-hund-erschoss](https://www.spiegel.de/ausland/us-heimatschutzministerin-kristi-noem-die-frau-die-einst-ihren-hund-erschoss-a-6c0fbc3e-5b55-43e6-bd1f-162c8f242864#ref=rss)
-* [https://www.spiegel.de/kultur/j-k-rowling-begruesst-urteil-des-supreme-court-zu-trans-frauen-in-grossbritannien](https://www.spiegel.de/kultur/j-k-rowling-begruesst-urteil-des-supreme-court-zu-trans-frauen-in-grossbritannien-a-bf0a9893-25c8-45fe-bd9b-70c7f66d276f#ref=rss)
-### macht
-
-* [https://www.spiegel.de/ausland/us-heimatschutzministerin-kristi-noem-die-frau-die-einst-ihren-hund-erschoss](https://www.spiegel.de/ausland/us-heimatschutzministerin-kristi-noem-die-frau-die-einst-ihren-hund-erschoss-a-6c0fbc3e-5b55-43e6-bd1f-162c8f242864#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/edeka-macht-mehr-umsatz-denn-je](https://www.spiegel.de/wirtschaft/unternehmen/edeka-macht-mehr-umsatz-denn-je-a-f358dfb1-6344-496e-9441-ef234912aef1#ref=rss)
-### behindertenwerkstätten
-
-* [https://www.spiegel.de/panorama/sozialverband-vdk-mindestlohn-in-behindertenwerkstaetten-nicht-die-beste-idee](https://www.spiegel.de/panorama/sozialverband-vdk-mindestlohn-in-behindertenwerkstaetten-nicht-die-beste-idee-a-1b563667-0d9e-481c-b587-b9893a00d4ee#ref=rss)
-### beste
-
-* [https://www.spiegel.de/panorama/sozialverband-vdk-mindestlohn-in-behindertenwerkstaetten-nicht-die-beste-idee](https://www.spiegel.de/panorama/sozialverband-vdk-mindestlohn-in-behindertenwerkstaetten-nicht-die-beste-idee-a-1b563667-0d9e-481c-b587-b9893a00d4ee#ref=rss)
-* [https://www.spiegel.de/sport/judit-polgar-ueber-frauen-im-schach-alle-haben-zu-niedrige-ansprueche](https://www.spiegel.de/sport/judit-polgar-ueber-frauen-im-schach-alle-haben-zu-niedrige-ansprueche-a-fdcec5be-eb46-4f5a-bfda-407dc82d3775#ref=rss)
-### gelten
-
-* [https://www.spiegel.de/panorama/sozialverband-vdk-mindestlohn-in-behindertenwerkstaetten-nicht-die-beste-idee](https://www.spiegel.de/panorama/sozialverband-vdk-mindestlohn-in-behindertenwerkstaetten-nicht-die-beste-idee-a-1b563667-0d9e-481c-b587-b9893a00d4ee#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-transgender-urteil-cis-is-how-they-do-it](https://www.spiegel.de/politik/deutschland/news-des-tages-transgender-urteil-cis-is-how-they-do-it-a-487e9d2b-9d49-4c43-8573-ed41ee2a06b6#ref=rss)
-### paris
-
-* [https://www.spiegel.de/panorama/paris-eine-tote-und-eine-verletzte-in-kaeltekammer-von-fitnessstudio](https://www.spiegel.de/panorama/paris-eine-tote-und-eine-verletzte-in-kaeltekammer-von-fitnessstudio-a-301e9a23-5bf4-4705-9332-8294fa4625b0#ref=rss)
-### tote
-
-* [https://www.spiegel.de/panorama/paris-eine-tote-und-eine-verletzte-in-kaeltekammer-von-fitnessstudio](https://www.spiegel.de/panorama/paris-eine-tote-und-eine-verletzte-in-kaeltekammer-von-fitnessstudio-a-301e9a23-5bf4-4705-9332-8294fa4625b0#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/koloss-kalmar-forscher-filmen-meeresbewohner-zum-ersten-mal-in-seiner-natuerlich-umgebung](https://www.spiegel.de/wissenschaft/natur/koloss-kalmar-forscher-filmen-meeresbewohner-zum-ersten-mal-in-seiner-natuerlich-umgebung-a-b7d9805d-7450-4c6a-be1d-9fde9bc572d1#ref=rss)
-### haushaltsausschuss
-
-* [https://www.spiegel.de/panorama/bundestag-afd-beharrt-auf-vorsitz-im-haushaltsausschuss](https://www.spiegel.de/panorama/bundestag-afd-beharrt-auf-vorsitz-im-haushaltsausschuss-a-548fd242-677e-4d80-8bd5-cbbf7f63be2e#ref=rss)
-### keinen
-
-* [https://www.spiegel.de/panorama/bundestag-afd-beharrt-auf-vorsitz-im-haushaltsausschuss](https://www.spiegel.de/panorama/bundestag-afd-beharrt-auf-vorsitz-im-haushaltsausschuss-a-548fd242-677e-4d80-8bd5-cbbf7f63be2e#ref=rss)
-* [https://www.spiegel.de/sport/fussball/thomas-mueller-beim-fc-bayern-muenchen-war-es-ein-fehler-ihm-keinen-vertrag-anzubieten](https://www.spiegel.de/sport/fussball/thomas-mueller-beim-fc-bayern-muenchen-war-es-ein-fehler-ihm-keinen-vertrag-anzubieten-a-8af17abf-d1fe-49b4-ae8c-59bd8461c68b#ref=rss)
-### halten
-
-* [https://www.spiegel.de/panorama/bundestag-afd-beharrt-auf-vorsitz-im-haushaltsausschuss](https://www.spiegel.de/panorama/bundestag-afd-beharrt-auf-vorsitz-im-haushaltsausschuss-a-548fd242-677e-4d80-8bd5-cbbf7f63be2e#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/bundeswehr-was-junge-menschen-vom-geplanten-wehrdienstmodell-halten](https://www.spiegel.de/panorama/gesellschaft/bundeswehr-was-junge-menschen-vom-geplanten-wehrdienstmodell-halten-a-11f3e1e1-deee-435c-8236-d4e649693dec#ref=rss)
-### melinda
-
-* [https://www.spiegel.de/panorama/leute/melinda-gates-berichtet-in-ihren-memoiren-ueber-das-ende-ihrer-ehe](https://www.spiegel.de/panorama/leute/melinda-gates-berichtet-in-ihren-memoiren-ueber-das-ende-ihrer-ehe-a-b70281d8-7cfe-4d6e-b11c-90e71178dcb2#ref=rss)
-### gates
-
-* [https://www.spiegel.de/panorama/leute/melinda-gates-berichtet-in-ihren-memoiren-ueber-das-ende-ihrer-ehe](https://www.spiegel.de/panorama/leute/melinda-gates-berichtet-in-ihren-memoiren-ueber-das-ende-ihrer-ehe-a-b70281d8-7cfe-4d6e-b11c-90e71178dcb2#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/panorama/leute/melinda-gates-berichtet-in-ihren-memoiren-ueber-das-ende-ihrer-ehe](https://www.spiegel.de/panorama/leute/melinda-gates-berichtet-in-ihren-memoiren-ueber-das-ende-ihrer-ehe-a-b70281d8-7cfe-4d6e-b11c-90e71178dcb2#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/koloss-kalmar-forscher-filmen-meeresbewohner-zum-ersten-mal-in-seiner-natuerlich-umgebung](https://www.spiegel.de/wissenschaft/natur/koloss-kalmar-forscher-filmen-meeresbewohner-zum-ersten-mal-in-seiner-natuerlich-umgebung-a-b7d9805d-7450-4c6a-be1d-9fde9bc572d1#ref=rss)
-### magdeburg
-
-* [https://www.spiegel.de/panorama/justiz/magdeburg-hunderte-nebenklaeger-bei-weihnachtsmarkt-prozess-befuerchtet](https://www.spiegel.de/panorama/justiz/magdeburg-hunderte-nebenklaeger-bei-weihnachtsmarkt-prozess-befuerchtet-a-44c1c7a5-2ced-4ec3-95b5-f51a5b6f9235#ref=rss)
-### nebenkläger
-
-* [https://www.spiegel.de/panorama/justiz/magdeburg-hunderte-nebenklaeger-bei-weihnachtsmarkt-prozess-befuerchtet](https://www.spiegel.de/panorama/justiz/magdeburg-hunderte-nebenklaeger-bei-weihnachtsmarkt-prozess-befuerchtet-a-44c1c7a5-2ced-4ec3-95b5-f51a5b6f9235#ref=rss)
-### transgenderurteil
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-transgender-urteil-cis-is-how-they-do-it](https://www.spiegel.de/politik/deutschland/news-des-tages-transgender-urteil-cis-is-how-they-do-it-a-487e9d2b-9d49-4c43-8573-ed41ee2a06b6#ref=rss)
-### cis
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-transgender-urteil-cis-is-how-they-do-it](https://www.spiegel.de/politik/deutschland/news-des-tages-transgender-urteil-cis-is-how-they-do-it-a-487e9d2b-9d49-4c43-8573-ed41ee2a06b6#ref=rss)
-* [https://www.spiegel.de/kultur/j-k-rowling-begruesst-urteil-des-supreme-court-zu-trans-frauen-in-grossbritannien](https://www.spiegel.de/kultur/j-k-rowling-begruesst-urteil-des-supreme-court-zu-trans-frauen-in-grossbritannien-a-bf0a9893-25c8-45fe-bd9b-70c7f66d276f#ref=rss)
-### zölle
-
-* [https://www.spiegel.de/wirtschaft/soziales/zoelle-eu-ratspraesident-antonio-costa-warnt-vor-globaler-wirtschaftskatastrophe](https://www.spiegel.de/wirtschaft/soziales/zoelle-eu-ratspraesident-antonio-costa-warnt-vor-globaler-wirtschaftskatastrophe-a-d89b4ec5-f8f2-4dc3-a74d-edf95c6af83d#ref=rss)
-### euratspräsident
-
-* [https://www.spiegel.de/wirtschaft/soziales/zoelle-eu-ratspraesident-antonio-costa-warnt-vor-globaler-wirtschaftskatastrophe](https://www.spiegel.de/wirtschaft/soziales/zoelle-eu-ratspraesident-antonio-costa-warnt-vor-globaler-wirtschaftskatastrophe-a-d89b4ec5-f8f2-4dc3-a74d-edf95c6af83d#ref=rss)
-### antónio
-
-* [https://www.spiegel.de/wirtschaft/soziales/zoelle-eu-ratspraesident-antonio-costa-warnt-vor-globaler-wirtschaftskatastrophe](https://www.spiegel.de/wirtschaft/soziales/zoelle-eu-ratspraesident-antonio-costa-warnt-vor-globaler-wirtschaftskatastrophe-a-d89b4ec5-f8f2-4dc3-a74d-edf95c6af83d#ref=rss)
-### costa
-
-* [https://www.spiegel.de/wirtschaft/soziales/zoelle-eu-ratspraesident-antonio-costa-warnt-vor-globaler-wirtschaftskatastrophe](https://www.spiegel.de/wirtschaft/soziales/zoelle-eu-ratspraesident-antonio-costa-warnt-vor-globaler-wirtschaftskatastrophe-a-d89b4ec5-f8f2-4dc3-a74d-edf95c6af83d#ref=rss)
-### warnt
-
-* [https://www.spiegel.de/wirtschaft/soziales/zoelle-eu-ratspraesident-antonio-costa-warnt-vor-globaler-wirtschaftskatastrophe](https://www.spiegel.de/wirtschaft/soziales/zoelle-eu-ratspraesident-antonio-costa-warnt-vor-globaler-wirtschaftskatastrophe-a-d89b4ec5-f8f2-4dc3-a74d-edf95c6af83d#ref=rss)
-### wirtschaftskatastrophe
-
-* [https://www.spiegel.de/wirtschaft/soziales/zoelle-eu-ratspraesident-antonio-costa-warnt-vor-globaler-wirtschaftskatastrophe](https://www.spiegel.de/wirtschaft/soziales/zoelle-eu-ratspraesident-antonio-costa-warnt-vor-globaler-wirtschaftskatastrophe-a-d89b4ec5-f8f2-4dc3-a74d-edf95c6af83d#ref=rss)
-### usregierung
-
-* [https://www.spiegel.de/sport/donald-trump-streit-um-trans-athletinnen-us-regierung-verklagt-bundesstaat-maine](https://www.spiegel.de/sport/donald-trump-streit-um-trans-athletinnen-us-regierung-verklagt-bundesstaat-maine-a-388443b3-7c83-471f-a4a0-b2b40d1c64c0#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/deutsche-bahn-wie-hilft-mir-der-db-navigator-beim-bahnfahren-und-der-reiseplanung](https://www.spiegel.de/netzwelt/apps/deutsche-bahn-wie-hilft-mir-der-db-navigator-beim-bahnfahren-und-der-reiseplanung-a-5b180f2a-2af7-47ef-b6c2-65e5cb6d27ea#ref=rss)
 * [https://www.spiegel.de/ausland/usa-donald-trump-marjorie-taylor-greene-befeuert-insiderhandel-vorwuerfe-gegen-praesidenten](https://www.spiegel.de/ausland/usa-donald-trump-marjorie-taylor-greene-befeuert-insiderhandel-vorwuerfe-gegen-praesidenten-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
-### bundesstaat
+### umgeht
 
-* [https://www.spiegel.de/sport/donald-trump-streit-um-trans-athletinnen-us-regierung-verklagt-bundesstaat-maine](https://www.spiegel.de/sport/donald-trump-streit-um-trans-athletinnen-us-regierung-verklagt-bundesstaat-maine-a-388443b3-7c83-471f-a4a0-b2b40d1c64c0#ref=rss)
-### maine
+* [https://www.spiegel.de/netzwelt/apps/deutsche-bahn-wie-hilft-mir-der-db-navigator-beim-bahnfahren-und-der-reiseplanung](https://www.spiegel.de/netzwelt/apps/deutsche-bahn-wie-hilft-mir-der-db-navigator-beim-bahnfahren-und-der-reiseplanung-a-5b180f2a-2af7-47ef-b6c2-65e5cb6d27ea#ref=rss)
+* [https://www.spiegel.de/start/berufseinstieg-als-bioinformatikerin-mein-ziel-ist-es-blutkrebspatienten-eine-zweite-chance-zu-ermoeglichen](https://www.spiegel.de/start/berufseinstieg-als-bioinformatikerin-mein-ziel-ist-es-blutkrebspatienten-eine-zweite-chance-zu-ermoeglichen-a-99bc6b5f-0520-4ea7-91f4-eace9c617840#ref=rss)
+### word
 
-* [https://www.spiegel.de/sport/donald-trump-streit-um-trans-athletinnen-us-regierung-verklagt-bundesstaat-maine](https://www.spiegel.de/sport/donald-trump-streit-um-trans-athletinnen-us-regierung-verklagt-bundesstaat-maine-a-388443b3-7c83-471f-a4a0-b2b40d1c64c0#ref=rss)
-### trumpregierung
+* [https://www.spiegel.de/kultur/word-press-photo-award-2025-stilles-bild-laute-botschaft](https://www.spiegel.de/kultur/word-press-photo-award-2025-stilles-bild-laute-botschaft-a-b2f550e4-4cbd-494b-9bc6-da58fb4b7de3#ref=rss)
+### press
 
-* [https://www.spiegel.de/sport/donald-trump-streit-um-trans-athletinnen-us-regierung-verklagt-bundesstaat-maine](https://www.spiegel.de/sport/donald-trump-streit-um-trans-athletinnen-us-regierung-verklagt-bundesstaat-maine-a-388443b3-7c83-471f-a4a0-b2b40d1c64c0#ref=rss)
+* [https://www.spiegel.de/kultur/word-press-photo-award-2025-stilles-bild-laute-botschaft](https://www.spiegel.de/kultur/word-press-photo-award-2025-stilles-bild-laute-botschaft-a-b2f550e4-4cbd-494b-9bc6-da58fb4b7de3#ref=rss)
+### photo
+
+* [https://www.spiegel.de/kultur/word-press-photo-award-2025-stilles-bild-laute-botschaft](https://www.spiegel.de/kultur/word-press-photo-award-2025-stilles-bild-laute-botschaft-a-b2f550e4-4cbd-494b-9bc6-da58fb4b7de3#ref=rss)
+### award
+
+* [https://www.spiegel.de/kultur/word-press-photo-award-2025-stilles-bild-laute-botschaft](https://www.spiegel.de/kultur/word-press-photo-award-2025-stilles-bild-laute-botschaft-a-b2f550e4-4cbd-494b-9bc6-da58fb4b7de3#ref=rss)
+### bild
+
+* [https://www.spiegel.de/kultur/word-press-photo-award-2025-stilles-bild-laute-botschaft](https://www.spiegel.de/kultur/word-press-photo-award-2025-stilles-bild-laute-botschaft-a-b2f550e4-4cbd-494b-9bc6-da58fb4b7de3#ref=rss)
+### bundeswehr
+
+* [https://www.spiegel.de/start/bundeswehr-bewerbungen-steigen-um-mehr-als-18-prozent-personalmangel-bleibt](https://www.spiegel.de/start/bundeswehr-bewerbungen-steigen-um-mehr-als-18-prozent-personalmangel-bleibt-a-841762ec-cf96-4936-a845-3277ff54bca5#ref=rss)
+### personalmangel
+
+* [https://www.spiegel.de/start/bundeswehr-bewerbungen-steigen-um-mehr-als-18-prozent-personalmangel-bleibt](https://www.spiegel.de/start/bundeswehr-bewerbungen-steigen-um-mehr-als-18-prozent-personalmangel-bleibt-a-841762ec-cf96-4936-a845-3277ff54bca5#ref=rss)
+### weniger
+
+* [https://www.spiegel.de/start/bundeswehr-bewerbungen-steigen-um-mehr-als-18-prozent-personalmangel-bleibt](https://www.spiegel.de/start/bundeswehr-bewerbungen-steigen-um-mehr-als-18-prozent-personalmangel-bleibt-a-841762ec-cf96-4936-a845-3277ff54bca5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/us-behoerde-sammelt-kuenftig-offenbar-weniger-verbraucherschutzdaten](https://www.spiegel.de/wirtschaft/service/us-behoerde-sammelt-kuenftig-offenbar-weniger-verbraucherschutzdaten-a-d47d4ff3-933a-4c3e-8c2b-6d68d6d6e6ab#ref=rss)
+### würth
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/reinhold-wuerth-zeigt-sich-offen-fuer-mehrheiten-mit-der-afd](https://www.spiegel.de/wirtschaft/unternehmen/reinhold-wuerth-zeigt-sich-offen-fuer-mehrheiten-mit-der-afd-a-df6db07a-1139-493d-9919-6b4b5dbaa62c#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/reinhold-wuerth-zeigt-sich-offen-fuer-mehrheiten-mit-der-afd](https://www.spiegel.de/wirtschaft/unternehmen/reinhold-wuerth-zeigt-sich-offen-fuer-mehrheiten-mit-der-afd-a-df6db07a-1139-493d-9919-6b4b5dbaa62c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/trump-gegen-die-wissenschaft-wie-viel-widerstand-kann-sich-harvard-leisten](https://www.spiegel.de/wissenschaft/mensch/trump-gegen-die-wissenschaft-wie-viel-widerstand-kann-sich-harvard-leisten-a-34a15953-f0d1-442c-a1cc-c2ceb291b838#ref=rss)
+### afd
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/reinhold-wuerth-zeigt-sich-offen-fuer-mehrheiten-mit-der-afd](https://www.spiegel.de/wirtschaft/unternehmen/reinhold-wuerth-zeigt-sich-offen-fuer-mehrheiten-mit-der-afd-a-df6db07a-1139-493d-9919-6b4b5dbaa62c#ref=rss)
+### mehrheit
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/reinhold-wuerth-zeigt-sich-offen-fuer-mehrheiten-mit-der-afd](https://www.spiegel.de/wirtschaft/unternehmen/reinhold-wuerth-zeigt-sich-offen-fuer-mehrheiten-mit-der-afd-a-df6db07a-1139-493d-9919-6b4b5dbaa62c#ref=rss)
+### george
+
+* [https://www.spiegel.de/kultur/kino/usa-george-clooney-haette-kamala-harris-nicht-einfach-so-zur-praesidentschaftskandidatin-gemacht](https://www.spiegel.de/kultur/kino/usa-george-clooney-haette-kamala-harris-nicht-einfach-so-zur-praesidentschaftskandidatin-gemacht-a-e1fe3d35-ec1c-4fe0-8764-bcbcfa80e163#ref=rss)
+### clooney
+
+* [https://www.spiegel.de/kultur/kino/usa-george-clooney-haette-kamala-harris-nicht-einfach-so-zur-praesidentschaftskandidatin-gemacht](https://www.spiegel.de/kultur/kino/usa-george-clooney-haette-kamala-harris-nicht-einfach-so-zur-praesidentschaftskandidatin-gemacht-a-e1fe3d35-ec1c-4fe0-8764-bcbcfa80e163#ref=rss)
+### neuaufstellung
+
+* [https://www.spiegel.de/politik/deutschland/neuaufstellung-der-fdp-das-personalpuzzle-des-christian-duerr](https://www.spiegel.de/politik/deutschland/neuaufstellung-der-fdp-das-personalpuzzle-des-christian-duerr-a-cae1415b-7221-410e-949a-524f7a31c257#ref=rss)
+### christian
+
+* [https://www.spiegel.de/politik/deutschland/neuaufstellung-der-fdp-das-personalpuzzle-des-christian-duerr](https://www.spiegel.de/politik/deutschland/neuaufstellung-der-fdp-das-personalpuzzle-des-christian-duerr-a-cae1415b-7221-410e-949a-524f7a31c257#ref=rss)
+### dürr
+
+* [https://www.spiegel.de/politik/deutschland/neuaufstellung-der-fdp-das-personalpuzzle-des-christian-duerr](https://www.spiegel.de/politik/deutschland/neuaufstellung-der-fdp-das-personalpuzzle-des-christian-duerr-a-cae1415b-7221-410e-949a-524f7a31c257#ref=rss)
+### real
+
+* [https://www.spiegel.de/sport/fussball/real-madrid-niederlage-gegen-arsenal-in-der-champions-league-ohne-fussball-kein-wunder](https://www.spiegel.de/sport/fussball/real-madrid-niederlage-gegen-arsenal-in-der-champions-league-ohne-fussball-kein-wunder-a-adb085c0-29a2-47b1-b940-ef1eeddd0e1a#ref=rss)
+### madrid
+
+* [https://www.spiegel.de/sport/fussball/real-madrid-niederlage-gegen-arsenal-in-der-champions-league-ohne-fussball-kein-wunder](https://www.spiegel.de/sport/fussball/real-madrid-niederlage-gegen-arsenal-in-der-champions-league-ohne-fussball-kein-wunder-a-adb085c0-29a2-47b1-b940-ef1eeddd0e1a#ref=rss)
+### arsenal
+
+* [https://www.spiegel.de/sport/fussball/real-madrid-niederlage-gegen-arsenal-in-der-champions-league-ohne-fussball-kein-wunder](https://www.spiegel.de/sport/fussball/real-madrid-niederlage-gegen-arsenal-in-der-champions-league-ohne-fussball-kein-wunder-a-adb085c0-29a2-47b1-b940-ef1eeddd0e1a#ref=rss)
+### nichts
+
+* [https://www.spiegel.de/sport/fussball/real-madrid-niederlage-gegen-arsenal-in-der-champions-league-ohne-fussball-kein-wunder](https://www.spiegel.de/sport/fussball/real-madrid-niederlage-gegen-arsenal-in-der-champions-league-ohne-fussball-kein-wunder-a-adb085c0-29a2-47b1-b940-ef1eeddd0e1a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-muellers-letztes-bayernspiel-in-der-champions-league-endet-emotional](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-muellers-letztes-bayernspiel-in-der-champions-league-endet-emotional-a-d2419136-13e8-4f7e-932d-a3cfb43a7c0a#ref=rss)
+### k218b
+
+* [https://www.spiegel.de/wissenschaft/weltall/exoplanet-k2-18b-forscher-entdecken-hinweise-auf-ausserirdisches-leben](https://www.spiegel.de/wissenschaft/weltall/exoplanet-k2-18b-forscher-entdecken-hinweise-auf-ausserirdisches-leben-a-7ae4e94d-c0c6-4586-beef-a9d3d53febd5#ref=rss)
+### leben
+
+* [https://www.spiegel.de/wissenschaft/weltall/exoplanet-k2-18b-forscher-entdecken-hinweise-auf-ausserirdisches-leben](https://www.spiegel.de/wissenschaft/weltall/exoplanet-k2-18b-forscher-entdecken-hinweise-auf-ausserirdisches-leben-a-7ae4e94d-c0c6-4586-beef-a9d3d53febd5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/us-behoerde-sammelt-kuenftig-offenbar-weniger-verbraucherschutzdaten](https://www.spiegel.de/wirtschaft/service/us-behoerde-sammelt-kuenftig-offenbar-weniger-verbraucherschutzdaten-a-d47d4ff3-933a-4c3e-8c2b-6d68d6d6e6ab#ref=rss)
+### arbeitsagentur
+
+* [https://www.spiegel.de/panorama/justiz/cyberkriminalitaet-ermittlungen-nach-betrugsversuch-bei-arbeitsagentur](https://www.spiegel.de/panorama/justiz/cyberkriminalitaet-ermittlungen-nach-betrugsversuch-bei-arbeitsagentur-a-4ae340d0-60ee-4715-91aa-f384df6a2a2f#ref=rss)
+### alexander
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-trainer-alexander-straus-verlaesst-ueberraschend-die-fussballerinnen](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-trainer-alexander-straus-verlaesst-ueberraschend-die-fussballerinnen-a-922d1770-27b5-4e92-b07f-866020280c8f#ref=rss)
+### straus
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-trainer-alexander-straus-verlaesst-ueberraschend-die-fussballerinnen](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-trainer-alexander-straus-verlaesst-ueberraschend-die-fussballerinnen-a-922d1770-27b5-4e92-b07f-866020280c8f#ref=rss)
+### überraschend
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-trainer-alexander-straus-verlaesst-ueberraschend-die-fussballerinnen](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-trainer-alexander-straus-verlaesst-ueberraschend-die-fussballerinnen-a-922d1770-27b5-4e92-b07f-866020280c8f#ref=rss)
+### team
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-trainer-alexander-straus-verlaesst-ueberraschend-die-fussballerinnen](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-trainer-alexander-straus-verlaesst-ueberraschend-die-fussballerinnen-a-922d1770-27b5-4e92-b07f-866020280c8f#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-internationale-medien-feiern-inter-mailand-und-kritisieren-bayern-spieler](https://www.spiegel.de/sport/fussball/champions-league-internationale-medien-feiern-inter-mailand-und-kritisieren-bayern-spieler-a-fb41cb2f-cfdb-4327-a459-53e4fcd6dcad#ref=rss)
+### dennoch
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-trainer-alexander-straus-verlaesst-ueberraschend-die-fussballerinnen](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-trainer-alexander-straus-verlaesst-ueberraschend-die-fussballerinnen-a-922d1770-27b5-4e92-b07f-866020280c8f#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-muellers-letztes-bayernspiel-in-der-champions-league-endet-emotional](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-muellers-letztes-bayernspiel-in-der-champions-league-endet-emotional-a-d2419136-13e8-4f7e-932d-a3cfb43a7c0a#ref=rss)
+### abschied
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-trainer-alexander-straus-verlaesst-ueberraschend-die-fussballerinnen](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-trainer-alexander-straus-verlaesst-ueberraschend-die-fussballerinnen-a-922d1770-27b5-4e92-b07f-866020280c8f#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-muellers-letztes-bayernspiel-in-der-champions-league-endet-emotional](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-muellers-letztes-bayernspiel-in-der-champions-league-endet-emotional-a-d2419136-13e8-4f7e-932d-a3cfb43a7c0a#ref=rss)
+### meldet
+
+* [https://www.spiegel.de/ausland/ukrainekrieg-kyjiw-meldet-mehrere-tote-nach-russischem-drohnenangriff-auf-dnipro](https://www.spiegel.de/ausland/ukrainekrieg-kyjiw-meldet-mehrere-tote-nach-russischem-drohnenangriff-auf-dnipro-a-a5f2181d-3a2e-4a27-ba88-c208172427c7#ref=rss)
+* [https://www.spiegel.de/ausland/gazastreifen-uno-meldet-eine-halbe-million-vertriebene-seit-wiederaufnahme-der-kaempfe](https://www.spiegel.de/ausland/gazastreifen-uno-meldet-eine-halbe-million-vertriebene-seit-wiederaufnahme-der-kaempfe-a-95f0047f-fb44-4268-9d0a-1237825ae93c#ref=rss)
+### drohnenangriff
+
+* [https://www.spiegel.de/ausland/ukrainekrieg-kyjiw-meldet-mehrere-tote-nach-russischem-drohnenangriff-auf-dnipro](https://www.spiegel.de/ausland/ukrainekrieg-kyjiw-meldet-mehrere-tote-nach-russischem-drohnenangriff-auf-dnipro-a-a5f2181d-3a2e-4a27-ba88-c208172427c7#ref=rss)
+### dnipro
+
+* [https://www.spiegel.de/ausland/ukrainekrieg-kyjiw-meldet-mehrere-tote-nach-russischem-drohnenangriff-auf-dnipro](https://www.spiegel.de/ausland/ukrainekrieg-kyjiw-meldet-mehrere-tote-nach-russischem-drohnenangriff-auf-dnipro-a-a5f2181d-3a2e-4a27-ba88-c208172427c7#ref=rss)
+### tausende
+
+* [https://www.spiegel.de/ausland/israel-gaza-konflikt-tausende-protestieren-im-gazastreifen-gegen-hamas](https://www.spiegel.de/ausland/israel-gaza-konflikt-tausende-protestieren-im-gazastreifen-gegen-hamas-a-8c0bc267-f5e8-41f5-9422-3ea3aca0d1d2#ref=rss)
+### hamas
+
+* [https://www.spiegel.de/ausland/israel-gaza-konflikt-tausende-protestieren-im-gazastreifen-gegen-hamas](https://www.spiegel.de/ausland/israel-gaza-konflikt-tausende-protestieren-im-gazastreifen-gegen-hamas-a-8c0bc267-f5e8-41f5-9422-3ea3aca0d1d2#ref=rss)
+### halb
+
+* [https://www.spiegel.de/ausland/israel-gaza-konflikt-tausende-protestieren-im-gazastreifen-gegen-hamas](https://www.spiegel.de/ausland/israel-gaza-konflikt-tausende-protestieren-im-gazastreifen-gegen-hamas-a-8c0bc267-f5e8-41f5-9422-3ea3aca0d1d2#ref=rss)
+### harvard
+
+* [https://www.spiegel.de/wissenschaft/mensch/trump-gegen-die-wissenschaft-wie-viel-widerstand-kann-sich-harvard-leisten](https://www.spiegel.de/wissenschaft/mensch/trump-gegen-die-wissenschaft-wie-viel-widerstand-kann-sich-harvard-leisten-a-34a15953-f0d1-442c-a1cc-c2ceb291b838#ref=rss)
+### milliarden
+
+* [https://www.spiegel.de/wissenschaft/mensch/trump-gegen-die-wissenschaft-wie-viel-widerstand-kann-sich-harvard-leisten](https://www.spiegel.de/wissenschaft/mensch/trump-gegen-die-wissenschaft-wie-viel-widerstand-kann-sich-harvard-leisten-a-34a15953-f0d1-442c-a1cc-c2ceb291b838#ref=rss)
 * [https://www.spiegel.de/ausland/usa-donald-trump-marjorie-taylor-greene-befeuert-insiderhandel-vorwuerfe-gegen-praesidenten](https://www.spiegel.de/ausland/usa-donald-trump-marjorie-taylor-greene-befeuert-insiderhandel-vorwuerfe-gegen-praesidenten-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
-### spotify
+### rheinmetall
 
-* [https://www.spiegel.de/netzwelt/apps/spotify-down-nutzer-berichten-ueber-stoerung-am-mittwochnachmittag](https://www.spiegel.de/netzwelt/apps/spotify-down-nutzer-berichten-ueber-stoerung-am-mittwochnachmittag-a-6208f6bc-f08f-44b5-80b8-d9cbb08bb325#ref=rss)
-### störung
+* [https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-koennte-teile-von-europas-waffen-auch-in-den-usa-produzieren-lassen](https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-koennte-teile-von-europas-waffen-auch-in-den-usa-produzieren-lassen-a-0c2738e8-47df-45dd-b274-2a0e3955bce9#ref=rss)
+### wichtige
 
-* [https://www.spiegel.de/netzwelt/apps/spotify-down-nutzer-berichten-ueber-stoerung-am-mittwochnachmittag](https://www.spiegel.de/netzwelt/apps/spotify-down-nutzer-berichten-ueber-stoerung-am-mittwochnachmittag-a-6208f6bc-f08f-44b5-80b8-d9cbb08bb325#ref=rss)
-### mittwochnachmittag
+* [https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-koennte-teile-von-europas-waffen-auch-in-den-usa-produzieren-lassen](https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-koennte-teile-von-europas-waffen-auch-in-den-usa-produzieren-lassen-a-0c2738e8-47df-45dd-b274-2a0e3955bce9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/us-behoerde-sammelt-kuenftig-offenbar-weniger-verbraucherschutzdaten](https://www.spiegel.de/wirtschaft/service/us-behoerde-sammelt-kuenftig-offenbar-weniger-verbraucherschutzdaten-a-d47d4ff3-933a-4c3e-8c2b-6d68d6d6e6ab#ref=rss)
+### stehen
 
-* [https://www.spiegel.de/netzwelt/apps/spotify-down-nutzer-berichten-ueber-stoerung-am-mittwochnachmittag](https://www.spiegel.de/netzwelt/apps/spotify-down-nutzer-berichten-ueber-stoerung-am-mittwochnachmittag-a-6208f6bc-f08f-44b5-80b8-d9cbb08bb325#ref=rss)
-### tennessee
+* [https://www.spiegel.de/panorama/italien-heftige-unwetter-in-urlaubsregionen](https://www.spiegel.de/panorama/italien-heftige-unwetter-in-urlaubsregionen-a-468a2645-a94d-4f53-8e2b-1804e7f92b09#ref=rss)
+* [https://www.spiegel.de/wirtschaft/luftfahrt-in-deutschland-easyjet-ceo-kritisiert-hohe-gebuehren](https://www.spiegel.de/wirtschaft/luftfahrt-in-deutschland-easyjet-ceo-kritisiert-hohe-gebuehren-a-2f662adc-edb9-4811-8dc5-fa4874ee6fd7#ref=rss)
+### fans
 
-* [https://www.spiegel.de/wissenschaft/usa-hochwasser-in-tennessee-video-von-fast-ueberfluteter-farm-geht-viral](https://www.spiegel.de/wissenschaft/usa-hochwasser-in-tennessee-video-von-fast-ueberfluteter-farm-geht-viral-a-2a604ae8-2526-4460-bebb-660d729ddb6f#ref=rss)
-### farm
+* [https://www.spiegel.de/netzwelt/mrbeast-entschuldigt-sich-bei-fans-fuer-mrbeast-experience](https://www.spiegel.de/netzwelt/mrbeast-entschuldigt-sich-bei-fans-fuer-mrbeast-experience-a-875320c4-8b84-418e-b667-3fdafbb74da6#ref=rss)
+### experience
 
-* [https://www.spiegel.de/wissenschaft/usa-hochwasser-in-tennessee-video-von-fast-ueberfluteter-farm-geht-viral](https://www.spiegel.de/wissenschaft/usa-hochwasser-in-tennessee-video-von-fast-ueberfluteter-farm-geht-viral-a-2a604ae8-2526-4460-bebb-660d729ddb6f#ref=rss)
-### berlincharlottenburg
+* [https://www.spiegel.de/netzwelt/mrbeast-entschuldigt-sich-bei-fans-fuer-mrbeast-experience](https://www.spiegel.de/netzwelt/mrbeast-entschuldigt-sich-bei-fans-fuer-mrbeast-experience-a-875320c4-8b84-418e-b667-3fdafbb74da6#ref=rss)
+### rund
 
-* [https://www.spiegel.de/panorama/justiz/berlin-charlottenburg-messerangreifer-war-vorbestraft-und-nicht-erreichbar](https://www.spiegel.de/panorama/justiz/berlin-charlottenburg-messerangreifer-war-vorbestraft-und-nicht-erreichbar-a-dd6155cc-e11c-4b6b-a23f-525db11db103#ref=rss)
-### kenia
+* [https://www.spiegel.de/netzwelt/mrbeast-entschuldigt-sich-bei-fans-fuer-mrbeast-experience](https://www.spiegel.de/netzwelt/mrbeast-entschuldigt-sich-bei-fans-fuer-mrbeast-experience-a-875320c4-8b84-418e-b667-3fdafbb74da6#ref=rss)
+* [https://www.spiegel.de/ausland/gazastreifen-uno-meldet-eine-halbe-million-vertriebene-seit-wiederaufnahme-der-kaempfe](https://www.spiegel.de/ausland/gazastreifen-uno-meldet-eine-halbe-million-vertriebene-seit-wiederaufnahme-der-kaempfe-a-95f0047f-fb44-4268-9d0a-1237825ae93c#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/panorama/justiz/kenia-zwei-teenager-aus-belgien-mit-5000-ameisen-erwischt](https://www.spiegel.de/panorama/justiz/kenia-zwei-teenager-aus-belgien-mit-5000-ameisen-erwischt-a-41e5fe50-f138-445f-b53c-3a083a579782#ref=rss)
-### zwei
+* [https://www.spiegel.de/netzwelt/mrbeast-entschuldigt-sich-bei-fans-fuer-mrbeast-experience](https://www.spiegel.de/netzwelt/mrbeast-entschuldigt-sich-bei-fans-fuer-mrbeast-experience-a-875320c4-8b84-418e-b667-3fdafbb74da6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/us-behoerde-sammelt-kuenftig-offenbar-weniger-verbraucherschutzdaten](https://www.spiegel.de/wirtschaft/service/us-behoerde-sammelt-kuenftig-offenbar-weniger-verbraucherschutzdaten-a-d47d4ff3-933a-4c3e-8c2b-6d68d6d6e6ab#ref=rss)
+### bioinformatikerin
 
-* [https://www.spiegel.de/panorama/justiz/kenia-zwei-teenager-aus-belgien-mit-5000-ameisen-erwischt](https://www.spiegel.de/panorama/justiz/kenia-zwei-teenager-aus-belgien-mit-5000-ameisen-erwischt-a-41e5fe50-f138-445f-b53c-3a083a579782#ref=rss)
-### ameisen
+* [https://www.spiegel.de/start/berufseinstieg-als-bioinformatikerin-mein-ziel-ist-es-blutkrebspatienten-eine-zweite-chance-zu-ermoeglichen](https://www.spiegel.de/start/berufseinstieg-als-bioinformatikerin-mein-ziel-ist-es-blutkrebspatienten-eine-zweite-chance-zu-ermoeglichen-a-99bc6b5f-0520-4ea7-91f4-eace9c617840#ref=rss)
+### blutkrebspatienten
 
-* [https://www.spiegel.de/panorama/justiz/kenia-zwei-teenager-aus-belgien-mit-5000-ameisen-erwischt](https://www.spiegel.de/panorama/justiz/kenia-zwei-teenager-aus-belgien-mit-5000-ameisen-erwischt-a-41e5fe50-f138-445f-b53c-3a083a579782#ref=rss)
-### zufolge
+* [https://www.spiegel.de/start/berufseinstieg-als-bioinformatikerin-mein-ziel-ist-es-blutkrebspatienten-eine-zweite-chance-zu-ermoeglichen](https://www.spiegel.de/start/berufseinstieg-als-bioinformatikerin-mein-ziel-ist-es-blutkrebspatienten-eine-zweite-chance-zu-ermoeglichen-a-99bc6b5f-0520-4ea7-91f4-eace9c617840#ref=rss)
+### tiktok
 
-* [https://www.spiegel.de/panorama/justiz/kenia-zwei-teenager-aus-belgien-mit-5000-ameisen-erwischt](https://www.spiegel.de/panorama/justiz/kenia-zwei-teenager-aus-belgien-mit-5000-ameisen-erwischt-a-41e5fe50-f138-445f-b53c-3a083a579782#ref=rss)
-* [https://www.spiegel.de/kultur/the-who-schmeissen-schlagzeuger-zak-starkey-raus](https://www.spiegel.de/kultur/the-who-schmeissen-schlagzeuger-zak-starkey-raus-a-7889a83a-68b1-4951-9851-db32ea01c6c1#ref=rss)
-### berlin
+* [https://www.spiegel.de/netzwelt/apps/tiktok-testet-fussnoten-funktion-unter-beitraegen](https://www.spiegel.de/netzwelt/apps/tiktok-testet-fussnoten-funktion-unter-beitraegen-a-92ba55eb-447f-4f10-bcab-6c6c38dd6b38#ref=rss)
+### unter
 
-* [https://www.spiegel.de/wirtschaft/soziales/berlin-brutto-und-netto-verwechselt-familie-darf-jobcenter-geld-trotzdem-behalten](https://www.spiegel.de/wirtschaft/soziales/berlin-brutto-und-netto-verwechselt-familie-darf-jobcenter-geld-trotzdem-behalten-a-2283aa25-1dca-46b9-ba41-caaf6364f0da#ref=rss)
-### netto
+* [https://www.spiegel.de/netzwelt/apps/tiktok-testet-fussnoten-funktion-unter-beitraegen](https://www.spiegel.de/netzwelt/apps/tiktok-testet-fussnoten-funktion-unter-beitraegen-a-92ba55eb-447f-4f10-bcab-6c6c38dd6b38#ref=rss)
+### anders
 
-* [https://www.spiegel.de/wirtschaft/soziales/berlin-brutto-und-netto-verwechselt-familie-darf-jobcenter-geld-trotzdem-behalten](https://www.spiegel.de/wirtschaft/soziales/berlin-brutto-und-netto-verwechselt-familie-darf-jobcenter-geld-trotzdem-behalten-a-2283aa25-1dca-46b9-ba41-caaf6364f0da#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/edeka-macht-mehr-umsatz-denn-je](https://www.spiegel.de/wirtschaft/unternehmen/edeka-macht-mehr-umsatz-denn-je-a-f358dfb1-6344-496e-9441-ef234912aef1#ref=rss)
-### familie
+* [https://www.spiegel.de/netzwelt/apps/tiktok-testet-fussnoten-funktion-unter-beitraegen](https://www.spiegel.de/netzwelt/apps/tiktok-testet-fussnoten-funktion-unter-beitraegen-a-92ba55eb-447f-4f10-bcab-6c6c38dd6b38#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/paragraf-188-im-strafgesetzbuch-die-meinungsfreiheit-anders-schuetzen-meinung](https://www.spiegel.de/politik/deutschland/paragraf-188-im-strafgesetzbuch-die-meinungsfreiheit-anders-schuetzen-meinung-a-6bf6596a-7d88-4b8c-ba66-116d47d9975d#ref=rss)
+### sachsen
 
-* [https://www.spiegel.de/wirtschaft/soziales/berlin-brutto-und-netto-verwechselt-familie-darf-jobcenter-geld-trotzdem-behalten](https://www.spiegel.de/wirtschaft/soziales/berlin-brutto-und-netto-verwechselt-familie-darf-jobcenter-geld-trotzdem-behalten-a-2283aa25-1dca-46b9-ba41-caaf6364f0da#ref=rss)
-### euro
+* [https://www.spiegel.de/panorama/justiz/sachsen-razzia-bei-16-jaehrigem-wegen-hochgiftigem-gemisch](https://www.spiegel.de/panorama/justiz/sachsen-razzia-bei-16-jaehrigem-wegen-hochgiftigem-gemisch-a-1cdf7c92-713c-4511-9683-de27e3fef225#ref=rss)
+### paragraf
 
-* [https://www.spiegel.de/wirtschaft/soziales/berlin-brutto-und-netto-verwechselt-familie-darf-jobcenter-geld-trotzdem-behalten](https://www.spiegel.de/wirtschaft/soziales/berlin-brutto-und-netto-verwechselt-familie-darf-jobcenter-geld-trotzdem-behalten-a-2283aa25-1dca-46b9-ba41-caaf6364f0da#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/edeka-macht-mehr-umsatz-denn-je](https://www.spiegel.de/wirtschaft/unternehmen/edeka-macht-mehr-umsatz-denn-je-a-f358dfb1-6344-496e-9441-ef234912aef1#ref=rss)
-### the
+* [https://www.spiegel.de/politik/deutschland/paragraf-188-im-strafgesetzbuch-die-meinungsfreiheit-anders-schuetzen-meinung](https://www.spiegel.de/politik/deutschland/paragraf-188-im-strafgesetzbuch-die-meinungsfreiheit-anders-schuetzen-meinung-a-6bf6596a-7d88-4b8c-ba66-116d47d9975d#ref=rss)
+### 188
 
-* [https://www.spiegel.de/kultur/the-who-schmeissen-schlagzeuger-zak-starkey-raus](https://www.spiegel.de/kultur/the-who-schmeissen-schlagzeuger-zak-starkey-raus-a-7889a83a-68b1-4951-9851-db32ea01c6c1#ref=rss)
-### who
+* [https://www.spiegel.de/politik/deutschland/paragraf-188-im-strafgesetzbuch-die-meinungsfreiheit-anders-schuetzen-meinung](https://www.spiegel.de/politik/deutschland/paragraf-188-im-strafgesetzbuch-die-meinungsfreiheit-anders-schuetzen-meinung-a-6bf6596a-7d88-4b8c-ba66-116d47d9975d#ref=rss)
+### strafgesetzbuch
 
-* [https://www.spiegel.de/kultur/the-who-schmeissen-schlagzeuger-zak-starkey-raus](https://www.spiegel.de/kultur/the-who-schmeissen-schlagzeuger-zak-starkey-raus-a-7889a83a-68b1-4951-9851-db32ea01c6c1#ref=rss)
-### zak
+* [https://www.spiegel.de/politik/deutschland/paragraf-188-im-strafgesetzbuch-die-meinungsfreiheit-anders-schuetzen-meinung](https://www.spiegel.de/politik/deutschland/paragraf-188-im-strafgesetzbuch-die-meinungsfreiheit-anders-schuetzen-meinung-a-6bf6596a-7d88-4b8c-ba66-116d47d9975d#ref=rss)
+### meinung
 
-* [https://www.spiegel.de/kultur/the-who-schmeissen-schlagzeuger-zak-starkey-raus](https://www.spiegel.de/kultur/the-who-schmeissen-schlagzeuger-zak-starkey-raus-a-7889a83a-68b1-4951-9851-db32ea01c6c1#ref=rss)
-### starkey
+* [https://www.spiegel.de/politik/deutschland/paragraf-188-im-strafgesetzbuch-die-meinungsfreiheit-anders-schuetzen-meinung](https://www.spiegel.de/politik/deutschland/paragraf-188-im-strafgesetzbuch-die-meinungsfreiheit-anders-schuetzen-meinung-a-6bf6596a-7d88-4b8c-ba66-116d47d9975d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/luftfahrt-in-deutschland-easyjet-ceo-kritisiert-hohe-gebuehren](https://www.spiegel.de/wirtschaft/luftfahrt-in-deutschland-easyjet-ceo-kritisiert-hohe-gebuehren-a-2f662adc-edb9-4811-8dc5-fa4874ee6fd7#ref=rss)
+### donald
 
-* [https://www.spiegel.de/kultur/the-who-schmeissen-schlagzeuger-zak-starkey-raus](https://www.spiegel.de/kultur/the-who-schmeissen-schlagzeuger-zak-starkey-raus-a-7889a83a-68b1-4951-9851-db32ea01c6c1#ref=rss)
-### supreme
-
-* [https://www.spiegel.de/kultur/j-k-rowling-begruesst-urteil-des-supreme-court-zu-trans-frauen-in-grossbritannien](https://www.spiegel.de/kultur/j-k-rowling-begruesst-urteil-des-supreme-court-zu-trans-frauen-in-grossbritannien-a-bf0a9893-25c8-45fe-bd9b-70c7f66d276f#ref=rss)
-### court
-
-* [https://www.spiegel.de/kultur/j-k-rowling-begruesst-urteil-des-supreme-court-zu-trans-frauen-in-grossbritannien](https://www.spiegel.de/kultur/j-k-rowling-begruesst-urteil-des-supreme-court-zu-trans-frauen-in-grossbritannien-a-bf0a9893-25c8-45fe-bd9b-70c7f66d276f#ref=rss)
-### edeka
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/edeka-macht-mehr-umsatz-denn-je](https://www.spiegel.de/wirtschaft/unternehmen/edeka-macht-mehr-umsatz-denn-je-a-f358dfb1-6344-496e-9441-ef234912aef1#ref=rss)
-### umsatz
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/edeka-macht-mehr-umsatz-denn-je](https://www.spiegel.de/wirtschaft/unternehmen/edeka-macht-mehr-umsatz-denn-je-a-f358dfb1-6344-496e-9441-ef234912aef1#ref=rss)
-### junge
-
-* [https://www.spiegel.de/panorama/gesellschaft/bundeswehr-was-junge-menschen-vom-geplanten-wehrdienstmodell-halten](https://www.spiegel.de/panorama/gesellschaft/bundeswehr-was-junge-menschen-vom-geplanten-wehrdienstmodell-halten-a-11f3e1e1-deee-435c-8236-d4e649693dec#ref=rss)
+* [https://www.spiegel.de/wirtschaft/luftfahrt-in-deutschland-easyjet-ceo-kritisiert-hohe-gebuehren](https://www.spiegel.de/wirtschaft/luftfahrt-in-deutschland-easyjet-ceo-kritisiert-hohe-gebuehren-a-2f662adc-edb9-4811-8dc5-fa4874ee6fd7#ref=rss)
+* [https://www.spiegel.de/ausland/usa-donald-trump-marjorie-taylor-greene-befeuert-insiderhandel-vorwuerfe-gegen-praesidenten](https://www.spiegel.de/ausland/usa-donald-trump-marjorie-taylor-greene-befeuert-insiderhandel-vorwuerfe-gegen-praesidenten-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
 ### thomas
 
-* [https://www.spiegel.de/sport/fussball/thomas-mueller-beim-fc-bayern-muenchen-war-es-ein-fehler-ihm-keinen-vertrag-anzubieten](https://www.spiegel.de/sport/fussball/thomas-mueller-beim-fc-bayern-muenchen-war-es-ein-fehler-ihm-keinen-vertrag-anzubieten-a-8af17abf-d1fe-49b4-ae8c-59bd8461c68b#ref=rss)
-### müller
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-muellers-letztes-bayernspiel-in-der-champions-league-endet-emotional](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-muellers-letztes-bayernspiel-in-der-champions-league-endet-emotional-a-d2419136-13e8-4f7e-932d-a3cfb43a7c0a#ref=rss)
+### endet
 
-* [https://www.spiegel.de/sport/fussball/thomas-mueller-beim-fc-bayern-muenchen-war-es-ein-fehler-ihm-keinen-vertrag-anzubieten](https://www.spiegel.de/sport/fussball/thomas-mueller-beim-fc-bayern-muenchen-war-es-ein-fehler-ihm-keinen-vertrag-anzubieten-a-8af17abf-d1fe-49b4-ae8c-59bd8461c68b#ref=rss)
-### richter
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-muellers-letztes-bayernspiel-in-der-champions-league-endet-emotional](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-muellers-letztes-bayernspiel-in-der-champions-league-endet-emotional-a-d2419136-13e8-4f7e-932d-a3cfb43a7c0a#ref=rss)
+### emotional
 
-* [https://www.spiegel.de/ausland/usa-donald-trump-marjorie-taylor-greene-befeuert-insiderhandel-vorwuerfe-gegen-praesidenten](https://www.spiegel.de/ausland/usa-donald-trump-marjorie-taylor-greene-befeuert-insiderhandel-vorwuerfe-gegen-praesidenten-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
-### missachtung
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-muellers-letztes-bayernspiel-in-der-champions-league-endet-emotional](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-muellers-letztes-bayernspiel-in-der-champions-league-endet-emotional-a-d2419136-13e8-4f7e-932d-a3cfb43a7c0a#ref=rss)
+### feiern
 
-* [https://www.spiegel.de/ausland/usa-donald-trump-marjorie-taylor-greene-befeuert-insiderhandel-vorwuerfe-gegen-praesidenten](https://www.spiegel.de/ausland/usa-donald-trump-marjorie-taylor-greene-befeuert-insiderhandel-vorwuerfe-gegen-praesidenten-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
-### abschiebestopp
+* [https://www.spiegel.de/sport/fussball/champions-league-internationale-medien-feiern-inter-mailand-und-kritisieren-bayern-spieler](https://www.spiegel.de/sport/fussball/champions-league-internationale-medien-feiern-inter-mailand-und-kritisieren-bayern-spieler-a-fb41cb2f-cfdb-4327-a459-53e4fcd6dcad#ref=rss)
+### kritisieren
 
-* [https://www.spiegel.de/ausland/usa-donald-trump-marjorie-taylor-greene-befeuert-insiderhandel-vorwuerfe-gegen-praesidenten](https://www.spiegel.de/ausland/usa-donald-trump-marjorie-taylor-greene-befeuert-insiderhandel-vorwuerfe-gegen-praesidenten-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
-### alle
+* [https://www.spiegel.de/sport/fussball/champions-league-internationale-medien-feiern-inter-mailand-und-kritisieren-bayern-spieler](https://www.spiegel.de/sport/fussball/champions-league-internationale-medien-feiern-inter-mailand-und-kritisieren-bayern-spieler-a-fb41cb2f-cfdb-4327-a459-53e4fcd6dcad#ref=rss)
+### bayernspieler
 
-* [https://www.spiegel.de/ausland/usa-donald-trump-marjorie-taylor-greene-befeuert-insiderhandel-vorwuerfe-gegen-praesidenten](https://www.spiegel.de/ausland/usa-donald-trump-marjorie-taylor-greene-befeuert-insiderhandel-vorwuerfe-gegen-praesidenten-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
-* [https://www.spiegel.de/sport/judit-polgar-ueber-frauen-im-schach-alle-haben-zu-niedrige-ansprueche](https://www.spiegel.de/sport/judit-polgar-ueber-frauen-im-schach-alle-haben-zu-niedrige-ansprueche-a-fdcec5be-eb46-4f5a-bfda-407dc82d3775#ref=rss)
-### judit
+* [https://www.spiegel.de/sport/fussball/champions-league-internationale-medien-feiern-inter-mailand-und-kritisieren-bayern-spieler](https://www.spiegel.de/sport/fussball/champions-league-internationale-medien-feiern-inter-mailand-und-kritisieren-bayern-spieler-a-fb41cb2f-cfdb-4327-a459-53e4fcd6dcad#ref=rss)
+### bundestag
 
-* [https://www.spiegel.de/sport/judit-polgar-ueber-frauen-im-schach-alle-haben-zu-niedrige-ansprueche](https://www.spiegel.de/sport/judit-polgar-ueber-frauen-im-schach-alle-haben-zu-niedrige-ansprueche-a-fdcec5be-eb46-4f5a-bfda-407dc82d3775#ref=rss)
-### polgár
+* [https://www.spiegel.de/politik/deutschland/deutschland-bundestag-schliesst-russland-von-weltkriegsgedenken-aus](https://www.spiegel.de/politik/deutschland/deutschland-bundestag-schliesst-russland-von-weltkriegsgedenken-aus-a-2da424dd-f257-44cc-ba0c-02fd6c62e77f#ref=rss)
+### uno
 
-* [https://www.spiegel.de/sport/judit-polgar-ueber-frauen-im-schach-alle-haben-zu-niedrige-ansprueche](https://www.spiegel.de/sport/judit-polgar-ueber-frauen-im-schach-alle-haben-zu-niedrige-ansprueche-a-fdcec5be-eb46-4f5a-bfda-407dc82d3775#ref=rss)
+* [https://www.spiegel.de/ausland/gazastreifen-uno-meldet-eine-halbe-million-vertriebene-seit-wiederaufnahme-der-kaempfe](https://www.spiegel.de/ausland/gazastreifen-uno-meldet-eine-halbe-million-vertriebene-seit-wiederaufnahme-der-kaempfe-a-95f0047f-fb44-4268-9d0a-1237825ae93c#ref=rss)
 
