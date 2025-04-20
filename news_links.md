@@ -4,391 +4,358 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### zwei
+### franziskus
 
-* [https://www.spiegel.de/panorama/bochum-77-jaehrige-faehrt-schraeg-ueber-parkende-autos](https://www.spiegel.de/panorama/bochum-77-jaehrige-faehrt-schraeg-ueber-parkende-autos-a-460438d5-470a-4360-98ce-a80dbb495c7e#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-gewinnt-hoch-gegen-heidenheim-rb-leipzig-stolpert-gegen-kiel](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-gewinnt-hoch-gegen-heidenheim-rb-leipzig-stolpert-gegen-kiel-a-058da500-1375-4b27-9851-e6aeae0e59ac#ref=rss)
-* [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
-* [https://www.spiegel.de/ausland/russland-19-jaehrige-wegen-gedicht-an-statue-zu-haft-verurteilt](https://www.spiegel.de/ausland/russland-19-jaehrige-wegen-gedicht-an-statue-zu-haft-verurteilt-a-2df147c1-e4bc-4b8c-a16c-9df612e85a29#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/moskau-und-kiew-tauschen-kriegsgefangene-aus](https://www.spiegel.de/ausland/moskau-und-kiew-tauschen-kriegsgefangene-aus-a-f354e673-7c4b-4de1-862a-de16c2859ce9#ref=rss)
-* [https://www.spiegel.de/ausland/russland-wladimir-putin-kuendigt-waffenruhe-in-der-ukraine-ueber-ostern-an](https://www.spiegel.de/ausland/russland-wladimir-putin-kuendigt-waffenruhe-in-der-ukraine-ueber-ostern-an-a-fe1e4511-4627-4914-95c3-99aed656622f#ref=rss)
-* [https://www.spiegel.de/ausland/russland-soll-ukraine-mit-acht-raketen-und-87-drohnen-angegriffen-haben](https://www.spiegel.de/ausland/russland-soll-ukraine-mit-acht-raketen-und-87-drohnen-angegriffen-haben-a-666b8718-97a9-4c6c-a452-3065940ff516#ref=rss)
-* [https://www.spiegel.de/ausland/russland-19-jaehrige-wegen-gedicht-an-statue-zu-haft-verurteilt](https://www.spiegel.de/ausland/russland-19-jaehrige-wegen-gedicht-an-statue-zu-haft-verurteilt-a-2df147c1-e4bc-4b8c-a16c-9df612e85a29#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-gewinnt-hoch-gegen-heidenheim-rb-leipzig-stolpert-gegen-kiel](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-gewinnt-hoch-gegen-heidenheim-rb-leipzig-stolpert-gegen-kiel-a-058da500-1375-4b27-9851-e6aeae0e59ac#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-barcelona-hansi-flick-kritisiert-terminansetzungen-der-primera-division](https://www.spiegel.de/sport/fussball/fc-barcelona-hansi-flick-kritisiert-terminansetzungen-der-primera-division-a-b2eec550-3cc0-4841-ad04-02ba31903076#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-rueckschlaege-fuer-1-fc-nuernberg-und-1-fc-kaiserslautern-im-aufstiegskampf](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-rueckschlaege-fuer-1-fc-nuernberg-und-1-fc-kaiserslautern-im-aufstiegskampf-a-847006e0-365b-44da-bba1-9cc2d6408999#ref=rss)
-### ostern
-
-* [https://www.spiegel.de/ausland/russland-wladimir-putin-kuendigt-waffenruhe-in-der-ukraine-ueber-ostern-an](https://www.spiegel.de/ausland/russland-wladimir-putin-kuendigt-waffenruhe-in-der-ukraine-ueber-ostern-an-a-fe1e4511-4627-4914-95c3-99aed656622f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/rewe-chef-lionel-souque-fuer-waschmittel-kommt-keiner-zu-uns](https://www.spiegel.de/wirtschaft/service/rewe-chef-lionel-souque-fuer-waschmittel-kommt-keiner-zu-uns-a-4e5089be-5459-4e63-b52d-4694e2ea87de#ref=rss)
-* [https://www.spiegel.de/familie/ostern-warum-der-osterhase-mehr-als-nur-eier-bringt](https://www.spiegel.de/familie/ostern-warum-der-osterhase-mehr-als-nur-eier-bringt-a-0d26f5c6-9f3d-4237-b86a-24bc9708e20f#ref=rss)
-* [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
-### rom
-
-* [https://www.spiegel.de/ausland/papst-franziskus-vatikan-experte-marco-politi-erklaert-was-auf-den-nachfolger-in-rom-zukommt](https://www.spiegel.de/ausland/papst-franziskus-vatikan-experte-marco-politi-erklaert-was-auf-den-nachfolger-in-rom-zukommt-a-f3f4661d-a374-45e3-8910-4d857007fd5a#ref=rss)
-* [https://www.spiegel.de/ausland/iran-zweite-atomrunde-mit-den-usa-hat-begonnen](https://www.spiegel.de/ausland/iran-zweite-atomrunde-mit-den-usa-hat-begonnen-a-f0f6c851-8da5-42e1-bdb8-581f967f7a1d#ref=rss)
-* [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
-### verhältnis
-
-* [https://www.spiegel.de/panorama/ruanda-deutsche-forscher-arbeiten-an-kernreaktor-entwicklung](https://www.spiegel.de/panorama/ruanda-deutsche-forscher-arbeiten-an-kernreaktor-entwicklung-a-60ff4328-374c-4338-ab7e-420ece10ff88#ref=rss)
-* [https://www.spiegel.de/kultur/vaeter-und-ihre-kinder-wie-maenner-ein-gutes-verhaeltnis-zu-ihren-kindern-entwickeln](https://www.spiegel.de/kultur/vaeter-und-ihre-kinder-wie-maenner-ein-gutes-verhaeltnis-zu-ihren-kindern-entwickeln-a-90a8becc-60c6-4134-a346-c4bc73f2ca4c#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/reise/wismar-kreuzfahrtschiff-disney-adventure-ist-ausgedockt](https://www.spiegel.de/reise/wismar-kreuzfahrtschiff-disney-adventure-ist-ausgedockt-a-2841d222-8241-4bd4-b076-348d3d9f1576#ref=rss)
-* [https://www.spiegel.de/wissenschaft/wie-sicher-sind-norwegens-erdgas-pipelines-nach-deutschland](https://www.spiegel.de/wissenschaft/wie-sicher-sind-norwegens-erdgas-pipelines-nach-deutschland-a-247288d7-ad48-4066-9699-cf540fe376bf#ref=rss)
+* [https://www.spiegel.de/ausland/vatikan-urbi-et-orbi-papst-franziskus-spricht-ostersegen-in-rom](https://www.spiegel.de/ausland/vatikan-urbi-et-orbi-papst-franziskus-spricht-ostersegen-in-rom-a-824fc079-bff1-4a1c-89ee-dc25eb4a9a67#ref=rss)
+* [https://www.spiegel.de/ausland/papst-franziskus-empfaengt-us-vizepraesident-vance](https://www.spiegel.de/ausland/papst-franziskus-empfaengt-us-vizepraesident-vance-a-b26c764c-498f-4098-9d0b-f11c20dc4e23#ref=rss)
+* [https://www.spiegel.de/ausland/wie-papst-franziskus-den-christen-von-gaza-mut-zuspricht-anrufe-aus-dem-vatikan](https://www.spiegel.de/ausland/wie-papst-franziskus-den-christen-von-gaza-mut-zuspricht-anrufe-aus-dem-vatikan-a-5bced428-2e43-47c5-8157-d6c066f8bf07#ref=rss)
 ### papst
 
-* [https://www.spiegel.de/ausland/papst-franziskus-vatikan-experte-marco-politi-erklaert-was-auf-den-nachfolger-in-rom-zukommt](https://www.spiegel.de/ausland/papst-franziskus-vatikan-experte-marco-politi-erklaert-was-auf-den-nachfolger-in-rom-zukommt-a-f3f4661d-a374-45e3-8910-4d857007fd5a#ref=rss)
-* [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/ausland/papst-franziskus-vatikan-experte-marco-politi-erklaert-was-auf-den-nachfolger-in-rom-zukommt](https://www.spiegel.de/ausland/papst-franziskus-vatikan-experte-marco-politi-erklaert-was-auf-den-nachfolger-in-rom-zukommt-a-f3f4661d-a374-45e3-8910-4d857007fd5a#ref=rss)
-* [https://www.spiegel.de/sport/tsv-1860-muenchen-traditionsverein-in-guter-lage-abzugeben-renovierungsbeduerftig-treue-fans](https://www.spiegel.de/sport/tsv-1860-muenchen-traditionsverein-in-guter-lage-abzugeben-renovierungsbeduerftig-treue-fans-a-90ec06c1-6c41-4b69-8d2e-80a15ae3c22c#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/moskau-und-kiew-tauschen-kriegsgefangene-aus](https://www.spiegel.de/ausland/moskau-und-kiew-tauschen-kriegsgefangene-aus-a-f354e673-7c4b-4de1-862a-de16c2859ce9#ref=rss)
-* [https://www.spiegel.de/ausland/russland-wladimir-putin-kuendigt-waffenruhe-in-der-ukraine-ueber-ostern-an](https://www.spiegel.de/ausland/russland-wladimir-putin-kuendigt-waffenruhe-in-der-ukraine-ueber-ostern-an-a-fe1e4511-4627-4914-95c3-99aed656622f#ref=rss)
-### russische
-
-* [https://www.spiegel.de/ausland/moskau-und-kiew-tauschen-kriegsgefangene-aus](https://www.spiegel.de/ausland/moskau-und-kiew-tauschen-kriegsgefangene-aus-a-f354e673-7c4b-4de1-862a-de16c2859ce9#ref=rss)
-* [https://www.spiegel.de/wissenschaft/wie-sicher-sind-norwegens-erdgas-pipelines-nach-deutschland](https://www.spiegel.de/wissenschaft/wie-sicher-sind-norwegens-erdgas-pipelines-nach-deutschland-a-247288d7-ad48-4066-9699-cf540fe376bf#ref=rss)
-* [https://www.spiegel.de/ausland/russland-19-jaehrige-wegen-gedicht-an-statue-zu-haft-verurteilt](https://www.spiegel.de/ausland/russland-19-jaehrige-wegen-gedicht-an-statue-zu-haft-verurteilt-a-2df147c1-e4bc-4b8c-a16c-9df612e85a29#ref=rss)
-### entwickeln
-
-* [https://www.spiegel.de/panorama/ruanda-deutsche-forscher-arbeiten-an-kernreaktor-entwicklung](https://www.spiegel.de/panorama/ruanda-deutsche-forscher-arbeiten-an-kernreaktor-entwicklung-a-60ff4328-374c-4338-ab7e-420ece10ff88#ref=rss)
-* [https://www.spiegel.de/kultur/vaeter-und-ihre-kinder-wie-maenner-ein-gutes-verhaeltnis-zu-ihren-kindern-entwickeln](https://www.spiegel.de/kultur/vaeter-und-ihre-kinder-wie-maenner-ein-gutes-verhaeltnis-zu-ihren-kindern-entwickeln-a-90a8becc-60c6-4134-a346-c4bc73f2ca4c#ref=rss)
-### acht
-
-* [https://www.spiegel.de/ausland/oesterreich-die-is-rueckkehrerin-evelyn-t-podcast](https://www.spiegel.de/ausland/oesterreich-die-is-rueckkehrerin-evelyn-t-podcast-a-5b7f0052-9fee-470a-9424-22b5c87291d6#ref=rss)
-* [https://www.spiegel.de/ausland/russland-soll-ukraine-mit-acht-raketen-und-87-drohnen-angegriffen-haben](https://www.spiegel.de/ausland/russland-soll-ukraine-mit-acht-raketen-und-87-drohnen-angegriffen-haben-a-666b8718-97a9-4c6c-a452-3065940ff516#ref=rss)
-* [https://www.spiegel.de/ausland/russland-19-jaehrige-wegen-gedicht-an-statue-zu-haft-verurteilt](https://www.spiegel.de/ausland/russland-19-jaehrige-wegen-gedicht-an-statue-zu-haft-verurteilt-a-2df147c1-e4bc-4b8c-a16c-9df612e85a29#ref=rss)
-### haft
-
-* [https://www.spiegel.de/ausland/oesterreich-die-is-rueckkehrerin-evelyn-t-podcast](https://www.spiegel.de/ausland/oesterreich-die-is-rueckkehrerin-evelyn-t-podcast-a-5b7f0052-9fee-470a-9424-22b5c87291d6#ref=rss)
-* [https://www.spiegel.de/ausland/russland-19-jaehrige-wegen-gedicht-an-statue-zu-haft-verurteilt](https://www.spiegel.de/ausland/russland-19-jaehrige-wegen-gedicht-an-statue-zu-haft-verurteilt-a-2df147c1-e4bc-4b8c-a16c-9df612e85a29#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/kultur/vaeter-und-ihre-kinder-wie-maenner-ein-gutes-verhaeltnis-zu-ihren-kindern-entwickeln](https://www.spiegel.de/kultur/vaeter-und-ihre-kinder-wie-maenner-ein-gutes-verhaeltnis-zu-ihren-kindern-entwickeln-a-90a8becc-60c6-4134-a346-c4bc73f2ca4c#ref=rss)
-* [https://www.spiegel.de/familie/kita-schule-haushalt-wie-wir-unsere-kinder-vor-populisten-schuetzen-koennen](https://www.spiegel.de/familie/kita-schule-haushalt-wie-wir-unsere-kinder-vor-populisten-schuetzen-koennen-a-4cc43ebe-6796-466d-bb0d-010627f00c1d#ref=rss)
-* [https://www.spiegel.de/panorama/leute/colin-farrell-schauspieler-sucht-pflegeeinrichtung-fuer-seinen-sohn](https://www.spiegel.de/panorama/leute/colin-farrell-schauspieler-sucht-pflegeeinrichtung-fuer-seinen-sohn-a-c071da50-1729-4293-a82b-57593ed9c2d9#ref=rss)
-### spaß
-
-* [https://www.spiegel.de/fitness/parkour-aeltere-frauen-entdecken-tantparkours-in-schweden](https://www.spiegel.de/fitness/parkour-aeltere-frauen-entdecken-tantparkours-in-schweden-a-c1965dac-25ce-4bae-8d6d-d8e27f0e0b21#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/rewe-chef-lionel-souque-fuer-waschmittel-kommt-keiner-zu-uns](https://www.spiegel.de/wirtschaft/service/rewe-chef-lionel-souque-fuer-waschmittel-kommt-keiner-zu-uns-a-4e5089be-5459-4e63-b52d-4694e2ea87de#ref=rss)
-### verurteilt
-
-* [https://www.spiegel.de/ausland/tunesien-oppositionelle-wegen-verschwoerung-zu-langen-haftstrafen-verurteilt](https://www.spiegel.de/ausland/tunesien-oppositionelle-wegen-verschwoerung-zu-langen-haftstrafen-verurteilt-a-8decd744-026d-4e36-93aa-d5bb0e338c79#ref=rss)
-* [https://www.spiegel.de/ausland/russland-19-jaehrige-wegen-gedicht-an-statue-zu-haft-verurteilt](https://www.spiegel.de/ausland/russland-19-jaehrige-wegen-gedicht-an-statue-zu-haft-verurteilt-a-2df147c1-e4bc-4b8c-a16c-9df612e85a29#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wirtschaft/service/rewe-chef-lionel-souque-fuer-waschmittel-kommt-keiner-zu-uns](https://www.spiegel.de/wirtschaft/service/rewe-chef-lionel-souque-fuer-waschmittel-kommt-keiner-zu-uns-a-4e5089be-5459-4e63-b52d-4694e2ea87de#ref=rss)
-* [https://www.spiegel.de/familie/ostern-warum-der-osterhase-mehr-als-nur-eier-bringt](https://www.spiegel.de/familie/ostern-warum-der-osterhase-mehr-als-nur-eier-bringt-a-0d26f5c6-9f3d-4237-b86a-24bc9708e20f#ref=rss)
-* [https://www.spiegel.de/ausland/russland-19-jaehrige-wegen-gedicht-an-statue-zu-haft-verurteilt](https://www.spiegel.de/ausland/russland-19-jaehrige-wegen-gedicht-an-statue-zu-haft-verurteilt-a-2df147c1-e4bc-4b8c-a16c-9df612e85a29#ref=rss)
-### 1
-
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-rueckschlaege-fuer-1-fc-nuernberg-und-1-fc-kaiserslautern-im-aufstiegskampf](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-rueckschlaege-fuer-1-fc-nuernberg-und-1-fc-kaiserslautern-im-aufstiegskampf-a-847006e0-365b-44da-bba1-9cc2d6408999#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/iran-zweite-atomrunde-mit-den-usa-hat-begonnen](https://www.spiegel.de/ausland/iran-zweite-atomrunde-mit-den-usa-hat-begonnen-a-f0f6c851-8da5-42e1-bdb8-581f967f7a1d#ref=rss)
-* [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
-### fall
-
-* [https://www.spiegel.de/ausland/iran-zweite-atomrunde-mit-den-usa-hat-begonnen](https://www.spiegel.de/ausland/iran-zweite-atomrunde-mit-den-usa-hat-begonnen-a-f0f6c851-8da5-42e1-bdb8-581f967f7a1d#ref=rss)
-* [https://www.spiegel.de/ausland/us-senator-van-hollen-im-fall-kilmar-abrego-garcia-die-regierung-will-verheimlichen-worum-es-in-diesem-fall-geht](https://www.spiegel.de/ausland/us-senator-van-hollen-im-fall-kilmar-abrego-garcia-die-regierung-will-verheimlichen-worum-es-in-diesem-fall-geht-a-b477eef8-acab-4bd7-8b58-f6944755cbcc#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/iran-zweite-atomrunde-mit-den-usa-hat-begonnen](https://www.spiegel.de/ausland/iran-zweite-atomrunde-mit-den-usa-hat-begonnen-a-f0f6c851-8da5-42e1-bdb8-581f967f7a1d#ref=rss)
-* [https://www.spiegel.de/ausland/us-senator-van-hollen-im-fall-kilmar-abrego-garcia-die-regierung-will-verheimlichen-worum-es-in-diesem-fall-geht](https://www.spiegel.de/ausland/us-senator-van-hollen-im-fall-kilmar-abrego-garcia-die-regierung-will-verheimlichen-worum-es-in-diesem-fall-geht-a-b477eef8-acab-4bd7-8b58-f6944755cbcc#ref=rss)
-* [https://www.spiegel.de/panorama/leute/giorgia-meloni-uebersetzerin-ist-nach-aussetzer-bei-donald-trump-zerknirscht](https://www.spiegel.de/panorama/leute/giorgia-meloni-uebersetzerin-ist-nach-aussetzer-bei-donald-trump-zerknirscht-a-c476adb0-b9e7-476e-b498-1092f0204764#ref=rss)
-### kreuzfahrtschiff
-
-* [https://www.spiegel.de/reise/wismar-kreuzfahrtschiff-disney-adventure-ist-ausgedockt](https://www.spiegel.de/reise/wismar-kreuzfahrtschiff-disney-adventure-ist-ausgedockt-a-2841d222-8241-4bd4-b076-348d3d9f1576#ref=rss)
-### disney
-
-* [https://www.spiegel.de/reise/wismar-kreuzfahrtschiff-disney-adventure-ist-ausgedockt](https://www.spiegel.de/reise/wismar-kreuzfahrtschiff-disney-adventure-ist-ausgedockt-a-2841d222-8241-4bd4-b076-348d3d9f1576#ref=rss)
-### adventure
-
-* [https://www.spiegel.de/reise/wismar-kreuzfahrtschiff-disney-adventure-ist-ausgedockt](https://www.spiegel.de/reise/wismar-kreuzfahrtschiff-disney-adventure-ist-ausgedockt-a-2841d222-8241-4bd4-b076-348d3d9f1576#ref=rss)
-### bochum
-
-* [https://www.spiegel.de/panorama/bochum-77-jaehrige-faehrt-schraeg-ueber-parkende-autos](https://www.spiegel.de/panorama/bochum-77-jaehrige-faehrt-schraeg-ueber-parkende-autos-a-460438d5-470a-4360-98ce-a80dbb495c7e#ref=rss)
-### autos
-
-* [https://www.spiegel.de/panorama/bochum-77-jaehrige-faehrt-schraeg-ueber-parkende-autos](https://www.spiegel.de/panorama/bochum-77-jaehrige-faehrt-schraeg-ueber-parkende-autos-a-460438d5-470a-4360-98ce-a80dbb495c7e#ref=rss)
-### frau
-
-* [https://www.spiegel.de/panorama/bochum-77-jaehrige-faehrt-schraeg-ueber-parkende-autos](https://www.spiegel.de/panorama/bochum-77-jaehrige-faehrt-schraeg-ueber-parkende-autos-a-460438d5-470a-4360-98ce-a80dbb495c7e#ref=rss)
-* [https://www.spiegel.de/ausland/russland-19-jaehrige-wegen-gedicht-an-statue-zu-haft-verurteilt](https://www.spiegel.de/ausland/russland-19-jaehrige-wegen-gedicht-an-statue-zu-haft-verurteilt-a-2df147c1-e4bc-4b8c-a16c-9df612e85a29#ref=rss)
-### ich
-
-* [https://www.spiegel.de/auto/quiz-zu-e-bike-und-e-scooter-im-strassenverkehr-ich-darf-das-oder](https://www.spiegel.de/auto/quiz-zu-e-bike-und-e-scooter-im-strassenverkehr-ich-darf-das-oder-a-58ef56cb-1428-4966-8317-dbb92eef7552#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-barcelona-hansi-flick-kritisiert-terminansetzungen-der-primera-division](https://www.spiegel.de/sport/fussball/fc-barcelona-hansi-flick-kritisiert-terminansetzungen-der-primera-division-a-b2eec550-3cc0-4841-ad04-02ba31903076#ref=rss)
+* [https://www.spiegel.de/ausland/vatikan-urbi-et-orbi-papst-franziskus-spricht-ostersegen-in-rom](https://www.spiegel.de/ausland/vatikan-urbi-et-orbi-papst-franziskus-spricht-ostersegen-in-rom-a-824fc079-bff1-4a1c-89ee-dc25eb4a9a67#ref=rss)
+* [https://www.spiegel.de/ausland/papst-franziskus-empfaengt-us-vizepraesident-vance](https://www.spiegel.de/ausland/papst-franziskus-empfaengt-us-vizepraesident-vance-a-b26c764c-498f-4098-9d0b-f11c20dc4e23#ref=rss)
+* [https://www.spiegel.de/ausland/wie-papst-franziskus-den-christen-von-gaza-mut-zuspricht-anrufe-aus-dem-vatikan](https://www.spiegel.de/ausland/wie-papst-franziskus-den-christen-von-gaza-mut-zuspricht-anrufe-aus-dem-vatikan-a-5bced428-2e43-47c5-8157-d6c066f8bf07#ref=rss)
 ### zeit
 
-* [https://www.spiegel.de/auto/quiz-zu-e-bike-und-e-scooter-im-strassenverkehr-ich-darf-das-oder](https://www.spiegel.de/auto/quiz-zu-e-bike-und-e-scooter-im-strassenverkehr-ich-darf-das-oder-a-58ef56cb-1428-4966-8317-dbb92eef7552#ref=rss)
-* [https://www.spiegel.de/familie/kita-schule-haushalt-wie-wir-unsere-kinder-vor-populisten-schuetzen-koennen](https://www.spiegel.de/familie/kita-schule-haushalt-wie-wir-unsere-kinder-vor-populisten-schuetzen-koennen-a-4cc43ebe-6796-466d-bb0d-010627f00c1d#ref=rss)
-### neue
-
-* [https://www.spiegel.de/auto/quiz-zu-e-bike-und-e-scooter-im-strassenverkehr-ich-darf-das-oder](https://www.spiegel.de/auto/quiz-zu-e-bike-und-e-scooter-im-strassenverkehr-ich-darf-das-oder-a-58ef56cb-1428-4966-8317-dbb92eef7552#ref=rss)
-* [https://www.spiegel.de/ausland/russland-wladimir-putin-kuendigt-waffenruhe-in-der-ukraine-ueber-ostern-an](https://www.spiegel.de/ausland/russland-wladimir-putin-kuendigt-waffenruhe-in-der-ukraine-ueber-ostern-an-a-fe1e4511-4627-4914-95c3-99aed656622f#ref=rss)
-### vatikanexperte
-
-* [https://www.spiegel.de/ausland/papst-franziskus-vatikan-experte-marco-politi-erklaert-was-auf-den-nachfolger-in-rom-zukommt](https://www.spiegel.de/ausland/papst-franziskus-vatikan-experte-marco-politi-erklaert-was-auf-den-nachfolger-in-rom-zukommt-a-f3f4661d-a374-45e3-8910-4d857007fd5a#ref=rss)
-### marco
-
-* [https://www.spiegel.de/ausland/papst-franziskus-vatikan-experte-marco-politi-erklaert-was-auf-den-nachfolger-in-rom-zukommt](https://www.spiegel.de/ausland/papst-franziskus-vatikan-experte-marco-politi-erklaert-was-auf-den-nachfolger-in-rom-zukommt-a-f3f4661d-a374-45e3-8910-4d857007fd5a#ref=rss)
-### politi
-
-* [https://www.spiegel.de/ausland/papst-franziskus-vatikan-experte-marco-politi-erklaert-was-auf-den-nachfolger-in-rom-zukommt](https://www.spiegel.de/ausland/papst-franziskus-vatikan-experte-marco-politi-erklaert-was-auf-den-nachfolger-in-rom-zukommt-a-f3f4661d-a374-45e3-8910-4d857007fd5a#ref=rss)
-### nachfolger
-
-* [https://www.spiegel.de/ausland/papst-franziskus-vatikan-experte-marco-politi-erklaert-was-auf-den-nachfolger-in-rom-zukommt](https://www.spiegel.de/ausland/papst-franziskus-vatikan-experte-marco-politi-erklaert-was-auf-den-nachfolger-in-rom-zukommt-a-f3f4661d-a374-45e3-8910-4d857007fd5a#ref=rss)
-### zukommt
-
-* [https://www.spiegel.de/ausland/papst-franziskus-vatikan-experte-marco-politi-erklaert-was-auf-den-nachfolger-in-rom-zukommt](https://www.spiegel.de/ausland/papst-franziskus-vatikan-experte-marco-politi-erklaert-was-auf-den-nachfolger-in-rom-zukommt-a-f3f4661d-a374-45e3-8910-4d857007fd5a#ref=rss)
-### begonnen
-
-* [https://www.spiegel.de/ausland/papst-franziskus-vatikan-experte-marco-politi-erklaert-was-auf-den-nachfolger-in-rom-zukommt](https://www.spiegel.de/ausland/papst-franziskus-vatikan-experte-marco-politi-erklaert-was-auf-den-nachfolger-in-rom-zukommt-a-f3f4661d-a374-45e3-8910-4d857007fd5a#ref=rss)
-* [https://www.spiegel.de/ausland/iran-zweite-atomrunde-mit-den-usa-hat-begonnen](https://www.spiegel.de/ausland/iran-zweite-atomrunde-mit-den-usa-hat-begonnen-a-f0f6c851-8da5-42e1-bdb8-581f967f7a1d#ref=rss)
-### los
-
-* [https://www.spiegel.de/ausland/papst-franziskus-vatikan-experte-marco-politi-erklaert-was-auf-den-nachfolger-in-rom-zukommt](https://www.spiegel.de/ausland/papst-franziskus-vatikan-experte-marco-politi-erklaert-was-auf-den-nachfolger-in-rom-zukommt-a-f3f4661d-a374-45e3-8910-4d857007fd5a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-rueckschlaege-fuer-1-fc-nuernberg-und-1-fc-kaiserslautern-im-aufstiegskampf](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-rueckschlaege-fuer-1-fc-nuernberg-und-1-fc-kaiserslautern-im-aufstiegskampf-a-847006e0-365b-44da-bba1-9cc2d6408999#ref=rss)
-### alexander
-
-* [https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-erreicht-finale-in-muenchen-nach-schwacher-phase](https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-erreicht-finale-in-muenchen-nach-schwacher-phase-a-db2125b4-8512-4712-8303-86cbd0a25506#ref=rss)
-### zverev
-
-* [https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-erreicht-finale-in-muenchen-nach-schwacher-phase](https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-erreicht-finale-in-muenchen-nach-schwacher-phase-a-db2125b4-8512-4712-8303-86cbd0a25506#ref=rss)
-### münchen
-
-* [https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-erreicht-finale-in-muenchen-nach-schwacher-phase](https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-erreicht-finale-in-muenchen-nach-schwacher-phase-a-db2125b4-8512-4712-8303-86cbd0a25506#ref=rss)
-* [https://www.spiegel.de/sport/tsv-1860-muenchen-traditionsverein-in-guter-lage-abzugeben-renovierungsbeduerftig-treue-fans](https://www.spiegel.de/sport/tsv-1860-muenchen-traditionsverein-in-guter-lage-abzugeben-renovierungsbeduerftig-treue-fans-a-90ec06c1-6c41-4b69-8d2e-80a15ae3c22c#ref=rss)
-### verlor
-
-* [https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-erreicht-finale-in-muenchen-nach-schwacher-phase](https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-erreicht-finale-in-muenchen-nach-schwacher-phase-a-db2125b4-8512-4712-8303-86cbd0a25506#ref=rss)
-* [https://www.spiegel.de/panorama/leute/giorgia-meloni-uebersetzerin-ist-nach-aussetzer-bei-donald-trump-zerknirscht](https://www.spiegel.de/panorama/leute/giorgia-meloni-uebersetzerin-ist-nach-aussetzer-bei-donald-trump-zerknirscht-a-c476adb0-b9e7-476e-b498-1092f0204764#ref=rss)
-### ukrainische
-
-* [https://www.spiegel.de/ausland/moskau-und-kiew-tauschen-kriegsgefangene-aus](https://www.spiegel.de/ausland/moskau-und-kiew-tauschen-kriegsgefangene-aus-a-f354e673-7c4b-4de1-862a-de16c2859ce9#ref=rss)
-* [https://www.spiegel.de/ausland/russland-soll-ukraine-mit-acht-raketen-und-87-drohnen-angegriffen-haben](https://www.spiegel.de/ausland/russland-soll-ukraine-mit-acht-raketen-und-87-drohnen-angegriffen-haben-a-666b8718-97a9-4c6c-a452-3065940ff516#ref=rss)
-### fußballbundesliga
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-gewinnt-hoch-gegen-heidenheim-rb-leipzig-stolpert-gegen-kiel](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-gewinnt-hoch-gegen-heidenheim-rb-leipzig-stolpert-gegen-kiel-a-058da500-1375-4b27-9851-e6aeae0e59ac#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-rueckschlaege-fuer-1-fc-nuernberg-und-1-fc-kaiserslautern-im-aufstiegskampf](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-rueckschlaege-fuer-1-fc-nuernberg-und-1-fc-kaiserslautern-im-aufstiegskampf-a-847006e0-365b-44da-bba1-9cc2d6408999#ref=rss)
-### rb
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-gewinnt-hoch-gegen-heidenheim-rb-leipzig-stolpert-gegen-kiel](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-gewinnt-hoch-gegen-heidenheim-rb-leipzig-stolpert-gegen-kiel-a-058da500-1375-4b27-9851-e6aeae0e59ac#ref=rss)
-### leipzig
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-gewinnt-hoch-gegen-heidenheim-rb-leipzig-stolpert-gegen-kiel](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-gewinnt-hoch-gegen-heidenheim-rb-leipzig-stolpert-gegen-kiel-a-058da500-1375-4b27-9851-e6aeae0e59ac#ref=rss)
-### kiel
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-gewinnt-hoch-gegen-heidenheim-rb-leipzig-stolpert-gegen-kiel](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-gewinnt-hoch-gegen-heidenheim-rb-leipzig-stolpert-gegen-kiel-a-058da500-1375-4b27-9851-e6aeae0e59ac#ref=rss)
-### bundesliga
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-gewinnt-hoch-gegen-heidenheim-rb-leipzig-stolpert-gegen-kiel](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-gewinnt-hoch-gegen-heidenheim-rb-leipzig-stolpert-gegen-kiel-a-058da500-1375-4b27-9851-e6aeae0e59ac#ref=rss)
-* [https://www.spiegel.de/sport/tsv-1860-muenchen-traditionsverein-in-guter-lage-abzugeben-renovierungsbeduerftig-treue-fans](https://www.spiegel.de/sport/tsv-1860-muenchen-traditionsverein-in-guter-lage-abzugeben-renovierungsbeduerftig-treue-fans-a-90ec06c1-6c41-4b69-8d2e-80a15ae3c22c#ref=rss)
-### ruanda
-
-* [https://www.spiegel.de/panorama/ruanda-deutsche-forscher-arbeiten-an-kernreaktor-entwicklung](https://www.spiegel.de/panorama/ruanda-deutsche-forscher-arbeiten-an-kernreaktor-entwicklung-a-60ff4328-374c-4338-ab7e-420ece10ff88#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/panorama/ruanda-deutsche-forscher-arbeiten-an-kernreaktor-entwicklung](https://www.spiegel.de/panorama/ruanda-deutsche-forscher-arbeiten-an-kernreaktor-entwicklung-a-60ff4328-374c-4338-ab7e-420ece10ff88#ref=rss)
-* [https://www.spiegel.de/wissenschaft/wie-sicher-sind-norwegens-erdgas-pipelines-nach-deutschland](https://www.spiegel.de/wissenschaft/wie-sicher-sind-norwegens-erdgas-pipelines-nach-deutschland-a-247288d7-ad48-4066-9699-cf540fe376bf#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/panorama/ruanda-deutsche-forscher-arbeiten-an-kernreaktor-entwicklung](https://www.spiegel.de/panorama/ruanda-deutsche-forscher-arbeiten-an-kernreaktor-entwicklung-a-60ff4328-374c-4338-ab7e-420ece10ff88#ref=rss)
-### boden
-
-* [https://www.spiegel.de/wissenschaft/wie-sicher-sind-norwegens-erdgas-pipelines-nach-deutschland](https://www.spiegel.de/wissenschaft/wie-sicher-sind-norwegens-erdgas-pipelines-nach-deutschland-a-247288d7-ad48-4066-9699-cf540fe376bf#ref=rss)
-* [https://www.spiegel.de/ausland/iran-zweite-atomrunde-mit-den-usa-hat-begonnen](https://www.spiegel.de/ausland/iran-zweite-atomrunde-mit-den-usa-hat-begonnen-a-f0f6c851-8da5-42e1-bdb8-581f967f7a1d#ref=rss)
-### hansi
-
-* [https://www.spiegel.de/sport/fussball/fc-barcelona-hansi-flick-kritisiert-terminansetzungen-der-primera-division](https://www.spiegel.de/sport/fussball/fc-barcelona-hansi-flick-kritisiert-terminansetzungen-der-primera-division-a-b2eec550-3cc0-4841-ad04-02ba31903076#ref=rss)
-### flick
-
-* [https://www.spiegel.de/sport/fussball/fc-barcelona-hansi-flick-kritisiert-terminansetzungen-der-primera-division](https://www.spiegel.de/sport/fussball/fc-barcelona-hansi-flick-kritisiert-terminansetzungen-der-primera-division-a-b2eec550-3cc0-4841-ad04-02ba31903076#ref=rss)
-### kritisiert
-
-* [https://www.spiegel.de/sport/fussball/fc-barcelona-hansi-flick-kritisiert-terminansetzungen-der-primera-division](https://www.spiegel.de/sport/fussball/fc-barcelona-hansi-flick-kritisiert-terminansetzungen-der-primera-division-a-b2eec550-3cc0-4841-ad04-02ba31903076#ref=rss)
-### primera
-
-* [https://www.spiegel.de/sport/fussball/fc-barcelona-hansi-flick-kritisiert-terminansetzungen-der-primera-division](https://www.spiegel.de/sport/fussball/fc-barcelona-hansi-flick-kritisiert-terminansetzungen-der-primera-division-a-b2eec550-3cc0-4841-ad04-02ba31903076#ref=rss)
-### división
-
-* [https://www.spiegel.de/sport/fussball/fc-barcelona-hansi-flick-kritisiert-terminansetzungen-der-primera-division](https://www.spiegel.de/sport/fussball/fc-barcelona-hansi-flick-kritisiert-terminansetzungen-der-primera-division-a-b2eec550-3cc0-4841-ad04-02ba31903076#ref=rss)
-### österreich
-
-* [https://www.spiegel.de/ausland/oesterreich-die-is-rueckkehrerin-evelyn-t-podcast](https://www.spiegel.de/ausland/oesterreich-die-is-rueckkehrerin-evelyn-t-podcast-a-5b7f0052-9fee-470a-9424-22b5c87291d6#ref=rss)
-### evelyn
-
-* [https://www.spiegel.de/ausland/oesterreich-die-is-rueckkehrerin-evelyn-t-podcast](https://www.spiegel.de/ausland/oesterreich-die-is-rueckkehrerin-evelyn-t-podcast-a-5b7f0052-9fee-470a-9424-22b5c87291d6#ref=rss)
-### t
-
-* [https://www.spiegel.de/ausland/oesterreich-die-is-rueckkehrerin-evelyn-t-podcast](https://www.spiegel.de/ausland/oesterreich-die-is-rueckkehrerin-evelyn-t-podcast-a-5b7f0052-9fee-470a-9424-22b5c87291d6#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/ausland/oesterreich-die-is-rueckkehrerin-evelyn-t-podcast](https://www.spiegel.de/ausland/oesterreich-die-is-rueckkehrerin-evelyn-t-podcast-a-5b7f0052-9fee-470a-9424-22b5c87291d6#ref=rss)
-* [https://www.spiegel.de/ausland/russland-19-jaehrige-wegen-gedicht-an-statue-zu-haft-verurteilt](https://www.spiegel.de/ausland/russland-19-jaehrige-wegen-gedicht-an-statue-zu-haft-verurteilt-a-2df147c1-e4bc-4b8c-a16c-9df612e85a29#ref=rss)
-### väter
-
-* [https://www.spiegel.de/kultur/vaeter-und-ihre-kinder-wie-maenner-ein-gutes-verhaeltnis-zu-ihren-kindern-entwickeln](https://www.spiegel.de/kultur/vaeter-und-ihre-kinder-wie-maenner-ein-gutes-verhaeltnis-zu-ihren-kindern-entwickeln-a-90a8becc-60c6-4134-a346-c4bc73f2ca4c#ref=rss)
-### männer
-
-* [https://www.spiegel.de/kultur/vaeter-und-ihre-kinder-wie-maenner-ein-gutes-verhaeltnis-zu-ihren-kindern-entwickeln](https://www.spiegel.de/kultur/vaeter-und-ihre-kinder-wie-maenner-ein-gutes-verhaeltnis-zu-ihren-kindern-entwickeln-a-90a8becc-60c6-4134-a346-c4bc73f2ca4c#ref=rss)
-### gutes
-
-* [https://www.spiegel.de/kultur/vaeter-und-ihre-kinder-wie-maenner-ein-gutes-verhaeltnis-zu-ihren-kindern-entwickeln](https://www.spiegel.de/kultur/vaeter-und-ihre-kinder-wie-maenner-ein-gutes-verhaeltnis-zu-ihren-kindern-entwickeln-a-90a8becc-60c6-4134-a346-c4bc73f2ca4c#ref=rss)
-### kindern
-
-* [https://www.spiegel.de/kultur/vaeter-und-ihre-kinder-wie-maenner-ein-gutes-verhaeltnis-zu-ihren-kindern-entwickeln](https://www.spiegel.de/kultur/vaeter-und-ihre-kinder-wie-maenner-ein-gutes-verhaeltnis-zu-ihren-kindern-entwickeln-a-90a8becc-60c6-4134-a346-c4bc73f2ca4c#ref=rss)
-### ältere
-
-* [https://www.spiegel.de/fitness/parkour-aeltere-frauen-entdecken-tantparkours-in-schweden](https://www.spiegel.de/fitness/parkour-aeltere-frauen-entdecken-tantparkours-in-schweden-a-c1965dac-25ce-4bae-8d6d-d8e27f0e0b21#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/fitness/parkour-aeltere-frauen-entdecken-tantparkours-in-schweden](https://www.spiegel.de/fitness/parkour-aeltere-frauen-entdecken-tantparkours-in-schweden-a-c1965dac-25ce-4bae-8d6d-d8e27f0e0b21#ref=rss)
-### entdecken
-
-* [https://www.spiegel.de/fitness/parkour-aeltere-frauen-entdecken-tantparkours-in-schweden](https://www.spiegel.de/fitness/parkour-aeltere-frauen-entdecken-tantparkours-in-schweden-a-c1965dac-25ce-4bae-8d6d-d8e27f0e0b21#ref=rss)
-### schweden
-
-* [https://www.spiegel.de/fitness/parkour-aeltere-frauen-entdecken-tantparkours-in-schweden](https://www.spiegel.de/fitness/parkour-aeltere-frauen-entdecken-tantparkours-in-schweden-a-c1965dac-25ce-4bae-8d6d-d8e27f0e0b21#ref=rss)
-### tunesien
-
-* [https://www.spiegel.de/ausland/tunesien-oppositionelle-wegen-verschwoerung-zu-langen-haftstrafen-verurteilt](https://www.spiegel.de/ausland/tunesien-oppositionelle-wegen-verschwoerung-zu-langen-haftstrafen-verurteilt-a-8decd744-026d-4e36-93aa-d5bb0e338c79#ref=rss)
-### oppositionelle
-
-* [https://www.spiegel.de/ausland/tunesien-oppositionelle-wegen-verschwoerung-zu-langen-haftstrafen-verurteilt](https://www.spiegel.de/ausland/tunesien-oppositionelle-wegen-verschwoerung-zu-langen-haftstrafen-verurteilt-a-8decd744-026d-4e36-93aa-d5bb0e338c79#ref=rss)
-### langen
-
-* [https://www.spiegel.de/ausland/tunesien-oppositionelle-wegen-verschwoerung-zu-langen-haftstrafen-verurteilt](https://www.spiegel.de/ausland/tunesien-oppositionelle-wegen-verschwoerung-zu-langen-haftstrafen-verurteilt-a-8decd744-026d-4e36-93aa-d5bb0e338c79#ref=rss)
-### haftstrafen
-
-* [https://www.spiegel.de/ausland/tunesien-oppositionelle-wegen-verschwoerung-zu-langen-haftstrafen-verurteilt](https://www.spiegel.de/ausland/tunesien-oppositionelle-wegen-verschwoerung-zu-langen-haftstrafen-verurteilt-a-8decd744-026d-4e36-93aa-d5bb0e338c79#ref=rss)
-### wladimir
-
-* [https://www.spiegel.de/ausland/russland-wladimir-putin-kuendigt-waffenruhe-in-der-ukraine-ueber-ostern-an](https://www.spiegel.de/ausland/russland-wladimir-putin-kuendigt-waffenruhe-in-der-ukraine-ueber-ostern-an-a-fe1e4511-4627-4914-95c3-99aed656622f#ref=rss)
-### putin
-
-* [https://www.spiegel.de/ausland/russland-wladimir-putin-kuendigt-waffenruhe-in-der-ukraine-ueber-ostern-an](https://www.spiegel.de/ausland/russland-wladimir-putin-kuendigt-waffenruhe-in-der-ukraine-ueber-ostern-an-a-fe1e4511-4627-4914-95c3-99aed656622f#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/ausland/russland-wladimir-putin-kuendigt-waffenruhe-in-der-ukraine-ueber-ostern-an](https://www.spiegel.de/ausland/russland-wladimir-putin-kuendigt-waffenruhe-in-der-ukraine-ueber-ostern-an-a-fe1e4511-4627-4914-95c3-99aed656622f#ref=rss)
-* [https://www.spiegel.de/ausland/us-senator-van-hollen-im-fall-kilmar-abrego-garcia-die-regierung-will-verheimlichen-worum-es-in-diesem-fall-geht](https://www.spiegel.de/ausland/us-senator-van-hollen-im-fall-kilmar-abrego-garcia-die-regierung-will-verheimlichen-worum-es-in-diesem-fall-geht-a-b477eef8-acab-4bd7-8b58-f6944755cbcc#ref=rss)
-### rewechef
-
-* [https://www.spiegel.de/wirtschaft/service/rewe-chef-lionel-souque-fuer-waschmittel-kommt-keiner-zu-uns](https://www.spiegel.de/wirtschaft/service/rewe-chef-lionel-souque-fuer-waschmittel-kommt-keiner-zu-uns-a-4e5089be-5459-4e63-b52d-4694e2ea87de#ref=rss)
-### lionel
-
-* [https://www.spiegel.de/wirtschaft/service/rewe-chef-lionel-souque-fuer-waschmittel-kommt-keiner-zu-uns](https://www.spiegel.de/wirtschaft/service/rewe-chef-lionel-souque-fuer-waschmittel-kommt-keiner-zu-uns-a-4e5089be-5459-4e63-b52d-4694e2ea87de#ref=rss)
-### souque
-
-* [https://www.spiegel.de/wirtschaft/service/rewe-chef-lionel-souque-fuer-waschmittel-kommt-keiner-zu-uns](https://www.spiegel.de/wirtschaft/service/rewe-chef-lionel-souque-fuer-waschmittel-kommt-keiner-zu-uns-a-4e5089be-5459-4e63-b52d-4694e2ea87de#ref=rss)
-### bringt
-
-* [https://www.spiegel.de/wirtschaft/service/rewe-chef-lionel-souque-fuer-waschmittel-kommt-keiner-zu-uns](https://www.spiegel.de/wirtschaft/service/rewe-chef-lionel-souque-fuer-waschmittel-kommt-keiner-zu-uns-a-4e5089be-5459-4e63-b52d-4694e2ea87de#ref=rss)
-* [https://www.spiegel.de/familie/ostern-warum-der-osterhase-mehr-als-nur-eier-bringt](https://www.spiegel.de/familie/ostern-warum-der-osterhase-mehr-als-nur-eier-bringt-a-0d26f5c6-9f3d-4237-b86a-24bc9708e20f#ref=rss)
-### kita
-
-* [https://www.spiegel.de/familie/kita-schule-haushalt-wie-wir-unsere-kinder-vor-populisten-schuetzen-koennen](https://www.spiegel.de/familie/kita-schule-haushalt-wie-wir-unsere-kinder-vor-populisten-schuetzen-koennen-a-4cc43ebe-6796-466d-bb0d-010627f00c1d#ref=rss)
-### schule
-
-* [https://www.spiegel.de/familie/kita-schule-haushalt-wie-wir-unsere-kinder-vor-populisten-schuetzen-koennen](https://www.spiegel.de/familie/kita-schule-haushalt-wie-wir-unsere-kinder-vor-populisten-schuetzen-koennen-a-4cc43ebe-6796-466d-bb0d-010627f00c1d#ref=rss)
-### haushalt
-
-* [https://www.spiegel.de/familie/kita-schule-haushalt-wie-wir-unsere-kinder-vor-populisten-schuetzen-koennen](https://www.spiegel.de/familie/kita-schule-haushalt-wie-wir-unsere-kinder-vor-populisten-schuetzen-koennen-a-4cc43ebe-6796-466d-bb0d-010627f00c1d#ref=rss)
-### wir
-
-* [https://www.spiegel.de/familie/kita-schule-haushalt-wie-wir-unsere-kinder-vor-populisten-schuetzen-koennen](https://www.spiegel.de/familie/kita-schule-haushalt-wie-wir-unsere-kinder-vor-populisten-schuetzen-koennen-a-4cc43ebe-6796-466d-bb0d-010627f00c1d#ref=rss)
-* [https://www.spiegel.de/familie/ostern-warum-der-osterhase-mehr-als-nur-eier-bringt](https://www.spiegel.de/familie/ostern-warum-der-osterhase-mehr-als-nur-eier-bringt-a-0d26f5c6-9f3d-4237-b86a-24bc9708e20f#ref=rss)
-### bleibt
-
-* [https://www.spiegel.de/familie/kita-schule-haushalt-wie-wir-unsere-kinder-vor-populisten-schuetzen-koennen](https://www.spiegel.de/familie/kita-schule-haushalt-wie-wir-unsere-kinder-vor-populisten-schuetzen-koennen-a-4cc43ebe-6796-466d-bb0d-010627f00c1d#ref=rss)
-* [https://www.spiegel.de/ausland/us-senator-van-hollen-im-fall-kilmar-abrego-garcia-die-regierung-will-verheimlichen-worum-es-in-diesem-fall-geht](https://www.spiegel.de/ausland/us-senator-van-hollen-im-fall-kilmar-abrego-garcia-die-regierung-will-verheimlichen-worum-es-in-diesem-fall-geht-a-b477eef8-acab-4bd7-8b58-f6944755cbcc#ref=rss)
-### nürnberg
-
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-rueckschlaege-fuer-1-fc-nuernberg-und-1-fc-kaiserslautern-im-aufstiegskampf](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-rueckschlaege-fuer-1-fc-nuernberg-und-1-fc-kaiserslautern-im-aufstiegskampf-a-847006e0-365b-44da-bba1-9cc2d6408999#ref=rss)
-### konnte
-
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-rueckschlaege-fuer-1-fc-nuernberg-und-1-fc-kaiserslautern-im-aufstiegskampf](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-rueckschlaege-fuer-1-fc-nuernberg-und-1-fc-kaiserslautern-im-aufstiegskampf-a-847006e0-365b-44da-bba1-9cc2d6408999#ref=rss)
-* [https://www.spiegel.de/panorama/leute/influencerin-cathy-hummels-hacker-forderte-4000-euro-fuer-profilzugriff](https://www.spiegel.de/panorama/leute/influencerin-cathy-hummels-hacker-forderte-4000-euro-fuer-profilzugriff-a-b27998d7-d488-41c7-9e16-91703814e7cd#ref=rss)
-### tsv
-
-* [https://www.spiegel.de/sport/tsv-1860-muenchen-traditionsverein-in-guter-lage-abzugeben-renovierungsbeduerftig-treue-fans](https://www.spiegel.de/sport/tsv-1860-muenchen-traditionsverein-in-guter-lage-abzugeben-renovierungsbeduerftig-treue-fans-a-90ec06c1-6c41-4b69-8d2e-80a15ae3c22c#ref=rss)
-### 1860
-
-* [https://www.spiegel.de/sport/tsv-1860-muenchen-traditionsverein-in-guter-lage-abzugeben-renovierungsbeduerftig-treue-fans](https://www.spiegel.de/sport/tsv-1860-muenchen-traditionsverein-in-guter-lage-abzugeben-renovierungsbeduerftig-treue-fans-a-90ec06c1-6c41-4b69-8d2e-80a15ae3c22c#ref=rss)
-### treffen
-
-* [https://www.spiegel.de/ausland/iran-zweite-atomrunde-mit-den-usa-hat-begonnen](https://www.spiegel.de/ausland/iran-zweite-atomrunde-mit-den-usa-hat-begonnen-a-f0f6c851-8da5-42e1-bdb8-581f967f7a1d#ref=rss)
-* [https://www.spiegel.de/panorama/leute/giorgia-meloni-uebersetzerin-ist-nach-aussetzer-bei-donald-trump-zerknirscht](https://www.spiegel.de/panorama/leute/giorgia-meloni-uebersetzerin-ist-nach-aussetzer-bei-donald-trump-zerknirscht-a-c476adb0-b9e7-476e-b498-1092f0204764#ref=rss)
-### colin
-
-* [https://www.spiegel.de/panorama/leute/colin-farrell-schauspieler-sucht-pflegeeinrichtung-fuer-seinen-sohn](https://www.spiegel.de/panorama/leute/colin-farrell-schauspieler-sucht-pflegeeinrichtung-fuer-seinen-sohn-a-c071da50-1729-4293-a82b-57593ed9c2d9#ref=rss)
-### farrell
-
-* [https://www.spiegel.de/panorama/leute/colin-farrell-schauspieler-sucht-pflegeeinrichtung-fuer-seinen-sohn](https://www.spiegel.de/panorama/leute/colin-farrell-schauspieler-sucht-pflegeeinrichtung-fuer-seinen-sohn-a-c071da50-1729-4293-a82b-57593ed9c2d9#ref=rss)
-### sohn
-
-* [https://www.spiegel.de/panorama/leute/colin-farrell-schauspieler-sucht-pflegeeinrichtung-fuer-seinen-sohn](https://www.spiegel.de/panorama/leute/colin-farrell-schauspieler-sucht-pflegeeinrichtung-fuer-seinen-sohn-a-c071da50-1729-4293-a82b-57593ed9c2d9#ref=rss)
-### mir
-
-* [https://www.spiegel.de/panorama/leute/colin-farrell-schauspieler-sucht-pflegeeinrichtung-fuer-seinen-sohn](https://www.spiegel.de/panorama/leute/colin-farrell-schauspieler-sucht-pflegeeinrichtung-fuer-seinen-sohn-a-c071da50-1729-4293-a82b-57593ed9c2d9#ref=rss)
-* [https://www.spiegel.de/panorama/leute/influencerin-cathy-hummels-hacker-forderte-4000-euro-fuer-profilzugriff](https://www.spiegel.de/panorama/leute/influencerin-cathy-hummels-hacker-forderte-4000-euro-fuer-profilzugriff-a-b27998d7-d488-41c7-9e16-91703814e7cd#ref=rss)
-### kilmar
-
-* [https://www.spiegel.de/ausland/us-senator-van-hollen-im-fall-kilmar-abrego-garcia-die-regierung-will-verheimlichen-worum-es-in-diesem-fall-geht](https://www.spiegel.de/ausland/us-senator-van-hollen-im-fall-kilmar-abrego-garcia-die-regierung-will-verheimlichen-worum-es-in-diesem-fall-geht-a-b477eef8-acab-4bd7-8b58-f6944755cbcc#ref=rss)
-### ábrego
-
-* [https://www.spiegel.de/ausland/us-senator-van-hollen-im-fall-kilmar-abrego-garcia-die-regierung-will-verheimlichen-worum-es-in-diesem-fall-geht](https://www.spiegel.de/ausland/us-senator-van-hollen-im-fall-kilmar-abrego-garcia-die-regierung-will-verheimlichen-worum-es-in-diesem-fall-geht-a-b477eef8-acab-4bd7-8b58-f6944755cbcc#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/ausland/us-senator-van-hollen-im-fall-kilmar-abrego-garcia-die-regierung-will-verheimlichen-worum-es-in-diesem-fall-geht](https://www.spiegel.de/ausland/us-senator-van-hollen-im-fall-kilmar-abrego-garcia-die-regierung-will-verheimlichen-worum-es-in-diesem-fall-geht-a-b477eef8-acab-4bd7-8b58-f6944755cbcc#ref=rss)
-### jd
-
+* [https://www.spiegel.de/ausland/vatikan-urbi-et-orbi-papst-franziskus-spricht-ostersegen-in-rom](https://www.spiegel.de/ausland/vatikan-urbi-et-orbi-papst-franziskus-spricht-ostersegen-in-rom-a-824fc079-bff1-4a1c-89ee-dc25eb4a9a67#ref=rss)
+* [https://www.spiegel.de/ausland/papst-franziskus-empfaengt-us-vizepraesident-vance](https://www.spiegel.de/ausland/papst-franziskus-empfaengt-us-vizepraesident-vance-a-b26c764c-498f-4098-9d0b-f11c20dc4e23#ref=rss)
+* [https://www.spiegel.de/geschichte/asinara-vor-sardinien-wie-die-gefaengnisinsel-von-mafia-bossen-gepraegt-wurde](https://www.spiegel.de/geschichte/asinara-vor-sardinien-wie-die-gefaengnisinsel-von-mafia-bossen-gepraegt-wurde-a-a558e90e-d38d-4ad2-b6c8-1e41cfb4d79d#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/ostern-die-bedeutung-des-osterwunders-in-der-modernen-zeit](https://www.spiegel.de/panorama/gesellschaft/ostern-die-bedeutung-des-osterwunders-in-der-modernen-zeit-a-ef1efef7-daf0-40c6-a168-cd4e5406bf3c#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/ausland/papst-franziskus-empfaengt-us-vizepraesident-vance](https://www.spiegel.de/ausland/papst-franziskus-empfaengt-us-vizepraesident-vance-a-b26c764c-498f-4098-9d0b-f11c20dc4e23#ref=rss)
+* [https://www.spiegel.de/ausland/pete-hegseth-suspendierte-mitarbeiter-zweifeln-an-pentagon-untersuchung](https://www.spiegel.de/ausland/pete-hegseth-suspendierte-mitarbeiter-zweifeln-an-pentagon-untersuchung-a-416e83c7-8176-4945-8890-aee6fe7d3a0f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bad-nauheim-polizei-meldet-zwei-tote-nach-schuessen](https://www.spiegel.de/panorama/justiz/bad-nauheim-polizei-meldet-zwei-tote-nach-schuessen-a-bb40f700-10b0-43bb-aaae-6938add77b47#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/panorama/justiz/oldenburg-polizei-erschiesst-angreifer-nach-angriff-in-lokal](https://www.spiegel.de/panorama/justiz/oldenburg-polizei-erschiesst-angreifer-nach-angriff-in-lokal-a-7af2cff2-8595-4bb1-98b8-37e9ec544214#ref=rss)
+* [https://www.spiegel.de/politik/wehrpflicht-lars-klingbeil-ist-gegen-die-wiedereinfuehrung-winfried-kretschmann-fuer-ein-republikanisches-pflichtjahr](https://www.spiegel.de/politik/wehrpflicht-lars-klingbeil-ist-gegen-die-wiedereinfuehrung-winfried-kretschmann-fuer-ein-republikanisches-pflichtjahr-a-3265a0ed-40c6-4404-b774-ace520593a8e#ref=rss)
+* [https://www.spiegel.de/ausland/wie-papst-franziskus-den-christen-von-gaza-mut-zuspricht-anrufe-aus-dem-vatikan](https://www.spiegel.de/ausland/wie-papst-franziskus-den-christen-von-gaza-mut-zuspricht-anrufe-aus-dem-vatikan-a-5bced428-2e43-47c5-8157-d6c066f8bf07#ref=rss)
+* [https://www.spiegel.de/ausland/israel-tausende-demonstrieren-fuer-geiseldeal-das-militaer-fliegt-luftschlaege](https://www.spiegel.de/ausland/israel-tausende-demonstrieren-fuer-geiseldeal-das-militaer-fliegt-luftschlaege-a-42e23920-832a-449d-8618-1553cd6fbe34#ref=rss)
+### waren
+
+* [https://www.spiegel.de/wirtschaft/dhl-lieferstopp-fuer-bestimmte-waren-ueber-800-dollar-wegen-trumps-zoellen](https://www.spiegel.de/wirtschaft/dhl-lieferstopp-fuer-bestimmte-waren-ueber-800-dollar-wegen-trumps-zoellen-a-883693f4-c4b3-47b4-a250-be4f4b5cbeaf#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-rb-keeper-gulacsi-und-kiels-zec-nach-zusammenstoss-bewusstlos](https://www.spiegel.de/sport/fussball/fussball-rb-keeper-gulacsi-und-kiels-zec-nach-zusammenstoss-bewusstlos-a-6276a65e-89f7-4151-90e5-9b2273a990c5#ref=rss)
+### fc
+
+* [https://www.spiegel.de/sport/fussball/fc-schalke-04-trainer-van-wonderen-erwartet-baldigen-rauswurf](https://www.spiegel.de/sport/fussball/fc-schalke-04-trainer-van-wonderen-erwartet-baldigen-rauswurf-a-3d32a1e3-b961-4b4d-ab90-898a27b5b05f#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-warum-die-zukunft-des-klubs-so-eng-mit-der-von-florian-wirtz-verknuepft-ist](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-warum-die-zukunft-des-klubs-so-eng-mit-der-von-florian-wirtz-verknuepft-ist-a-c274e388-3df9-41d2-a200-74b535c092b3#ref=rss)
+### schalke
+
+* [https://www.spiegel.de/sport/fussball/fc-schalke-04-trainer-van-wonderen-erwartet-baldigen-rauswurf](https://www.spiegel.de/sport/fussball/fc-schalke-04-trainer-van-wonderen-erwartet-baldigen-rauswurf-a-3d32a1e3-b961-4b4d-ab90-898a27b5b05f#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-2-2-auf-schalke-hamburger-sv-stolpert-im-aufstiegsrennen](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-2-2-auf-schalke-hamburger-sv-stolpert-im-aufstiegsrennen-a-9cbc1404-126e-4c7e-9f43-57f26ef2aa2c#ref=rss)
+### the
+
+* [https://www.spiegel.de/kultur/the-voice-of-germany-die-coaches-der-15-staffel-stehen-fest](https://www.spiegel.de/kultur/the-voice-of-germany-die-coaches-der-15-staffel-stehen-fest-a-c4b86df4-e8ea-4c54-8ab3-4c73fc84ac0a#ref=rss)
+* [https://www.spiegel.de/netzwelt/games/downloadtipps-fuer-handys-und-tablets-zehn-empfehlenswerte-mobile-games](https://www.spiegel.de/netzwelt/games/downloadtipps-fuer-handys-und-tablets-zehn-empfehlenswerte-mobile-games-a-dde60fa6-1ae8-4fce-9fa2-b2e9a3f139bc#ref=rss)
+### of
+
+* [https://www.spiegel.de/kultur/the-voice-of-germany-die-coaches-der-15-staffel-stehen-fest](https://www.spiegel.de/kultur/the-voice-of-germany-die-coaches-der-15-staffel-stehen-fest-a-c4b86df4-e8ea-4c54-8ab3-4c73fc84ac0a#ref=rss)
+* [https://www.spiegel.de/netzwelt/games/downloadtipps-fuer-handys-und-tablets-zehn-empfehlenswerte-mobile-games](https://www.spiegel.de/netzwelt/games/downloadtipps-fuer-handys-und-tablets-zehn-empfehlenswerte-mobile-games-a-dde60fa6-1ae8-4fce-9fa2-b2e9a3f139bc#ref=rss)
+### experten
+
+* [https://www.spiegel.de/netzwelt/games/downloadtipps-fuer-handys-und-tablets-zehn-empfehlenswerte-mobile-games](https://www.spiegel.de/netzwelt/games/downloadtipps-fuer-handys-und-tablets-zehn-empfehlenswerte-mobile-games-a-dde60fa6-1ae8-4fce-9fa2-b2e9a3f139bc#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/sozialbeitraege-experten-warnen-vor-steigenden-kosten](https://www.spiegel.de/wirtschaft/soziales/sozialbeitraege-experten-warnen-vor-steigenden-kosten-a-2bc669d4-e3f3-4b3f-bc9d-fb53dc00d449#ref=rss)
+### beziehung
+
+* [https://www.spiegel.de/psychologie/schwiegermuetter-wenn-die-beziehung-zur-mutter-des-mannes-nicht-funktioniert](https://www.spiegel.de/psychologie/schwiegermuetter-wenn-die-beziehung-zur-mutter-des-mannes-nicht-funktioniert-a-1628aca3-e2ce-4c6e-816b-c8adf6468f03#ref=rss)
+* [https://www.spiegel.de/psychologie/schwiegermutter-und-schwiegertochter-warum-die-beziehung-so-schwierig-ist](https://www.spiegel.de/psychologie/schwiegermutter-und-schwiegertochter-warum-die-beziehung-so-schwierig-ist-a-7f5f2fda-4c4f-4857-912b-65d1d8fdf1c3#ref=rss)
+### dhl
+
+* [https://www.spiegel.de/wirtschaft/dhl-lieferstopp-fuer-bestimmte-waren-ueber-800-dollar-wegen-trumps-zoellen](https://www.spiegel.de/wirtschaft/dhl-lieferstopp-fuer-bestimmte-waren-ueber-800-dollar-wegen-trumps-zoellen-a-883693f4-c4b3-47b4-a250-be4f4b5cbeaf#ref=rss)
+### bestimmte
+
+* [https://www.spiegel.de/wirtschaft/dhl-lieferstopp-fuer-bestimmte-waren-ueber-800-dollar-wegen-trumps-zoellen](https://www.spiegel.de/wirtschaft/dhl-lieferstopp-fuer-bestimmte-waren-ueber-800-dollar-wegen-trumps-zoellen-a-883693f4-c4b3-47b4-a250-be4f4b5cbeaf#ref=rss)
+### trumps
+
+* [https://www.spiegel.de/wirtschaft/dhl-lieferstopp-fuer-bestimmte-waren-ueber-800-dollar-wegen-trumps-zoellen](https://www.spiegel.de/wirtschaft/dhl-lieferstopp-fuer-bestimmte-waren-ueber-800-dollar-wegen-trumps-zoellen-a-883693f4-c4b3-47b4-a250-be4f4b5cbeaf#ref=rss)
+### usamerikaner
+
+* [https://www.spiegel.de/wirtschaft/dhl-lieferstopp-fuer-bestimmte-waren-ueber-800-dollar-wegen-trumps-zoellen](https://www.spiegel.de/wirtschaft/dhl-lieferstopp-fuer-bestimmte-waren-ueber-800-dollar-wegen-trumps-zoellen-a-883693f4-c4b3-47b4-a250-be4f4b5cbeaf#ref=rss)
+* [https://www.spiegel.de/wissenschaft/iss-erfolgreiche-rueckkehr-von-us-amerikanischen-und-russischen-astronauten](https://www.spiegel.de/wissenschaft/iss-erfolgreiche-rueckkehr-von-us-amerikanischen-und-russischen-astronauten-a-b50f76a1-add9-4cc4-b882-5b9a3d3d8639#ref=rss)
+### setzt
+
+* [https://www.spiegel.de/wirtschaft/dhl-lieferstopp-fuer-bestimmte-waren-ueber-800-dollar-wegen-trumps-zoellen](https://www.spiegel.de/wirtschaft/dhl-lieferstopp-fuer-bestimmte-waren-ueber-800-dollar-wegen-trumps-zoellen-a-883693f4-c4b3-47b4-a250-be4f4b5cbeaf#ref=rss)
+* [https://www.spiegel.de/politik/wehrpflicht-lars-klingbeil-ist-gegen-die-wiedereinfuehrung-winfried-kretschmann-fuer-ein-republikanisches-pflichtjahr](https://www.spiegel.de/politik/wehrpflicht-lars-klingbeil-ist-gegen-die-wiedereinfuehrung-winfried-kretschmann-fuer-ein-republikanisches-pflichtjahr-a-3265a0ed-40c6-4404-b774-ace520593a8e#ref=rss)
+### usa
+
+* [https://www.spiegel.de/wirtschaft/dhl-lieferstopp-fuer-bestimmte-waren-ueber-800-dollar-wegen-trumps-zoellen](https://www.spiegel.de/wirtschaft/dhl-lieferstopp-fuer-bestimmte-waren-ueber-800-dollar-wegen-trumps-zoellen-a-883693f4-c4b3-47b4-a250-be4f4b5cbeaf#ref=rss)
 * [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
-### vance
+### lange
 
-* [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/dhl-lieferstopp-fuer-bestimmte-waren-ueber-800-dollar-wegen-trumps-zoellen](https://www.spiegel.de/wirtschaft/dhl-lieferstopp-fuer-bestimmte-waren-ueber-800-dollar-wegen-trumps-zoellen-a-883693f4-c4b3-47b4-a250-be4f4b5cbeaf#ref=rss)
+* [https://www.spiegel.de/ausland/vatikan-urbi-et-orbi-papst-franziskus-spricht-ostersegen-in-rom](https://www.spiegel.de/ausland/vatikan-urbi-et-orbi-papst-franziskus-spricht-ostersegen-in-rom-a-824fc079-bff1-4a1c-89ee-dc25eb4a9a67#ref=rss)
+### unklar
+
+* [https://www.spiegel.de/wirtschaft/dhl-lieferstopp-fuer-bestimmte-waren-ueber-800-dollar-wegen-trumps-zoellen](https://www.spiegel.de/wirtschaft/dhl-lieferstopp-fuer-bestimmte-waren-ueber-800-dollar-wegen-trumps-zoellen-a-883693f4-c4b3-47b4-a250-be4f4b5cbeaf#ref=rss)
+* [https://www.spiegel.de/ausland/vatikan-urbi-et-orbi-papst-franziskus-spricht-ostersegen-in-rom](https://www.spiegel.de/ausland/vatikan-urbi-et-orbi-papst-franziskus-spricht-ostersegen-in-rom-a-824fc079-bff1-4a1c-89ee-dc25eb4a9a67#ref=rss)
 ### vatikan
 
+* [https://www.spiegel.de/ausland/vatikan-urbi-et-orbi-papst-franziskus-spricht-ostersegen-in-rom](https://www.spiegel.de/ausland/vatikan-urbi-et-orbi-papst-franziskus-spricht-ostersegen-in-rom-a-824fc079-bff1-4a1c-89ee-dc25eb4a9a67#ref=rss)
+* [https://www.spiegel.de/ausland/wie-papst-franziskus-den-christen-von-gaza-mut-zuspricht-anrufe-aus-dem-vatikan](https://www.spiegel.de/ausland/wie-papst-franziskus-den-christen-von-gaza-mut-zuspricht-anrufe-aus-dem-vatikan-a-5bced428-2e43-47c5-8157-d6c066f8bf07#ref=rss)
+### urbi
+
+* [https://www.spiegel.de/ausland/vatikan-urbi-et-orbi-papst-franziskus-spricht-ostersegen-in-rom](https://www.spiegel.de/ausland/vatikan-urbi-et-orbi-papst-franziskus-spricht-ostersegen-in-rom-a-824fc079-bff1-4a1c-89ee-dc25eb4a9a67#ref=rss)
+### et
+
+* [https://www.spiegel.de/ausland/vatikan-urbi-et-orbi-papst-franziskus-spricht-ostersegen-in-rom](https://www.spiegel.de/ausland/vatikan-urbi-et-orbi-papst-franziskus-spricht-ostersegen-in-rom-a-824fc079-bff1-4a1c-89ee-dc25eb4a9a67#ref=rss)
+### orbi
+
+* [https://www.spiegel.de/ausland/vatikan-urbi-et-orbi-papst-franziskus-spricht-ostersegen-in-rom](https://www.spiegel.de/ausland/vatikan-urbi-et-orbi-papst-franziskus-spricht-ostersegen-in-rom-a-824fc079-bff1-4a1c-89ee-dc25eb4a9a67#ref=rss)
+### rom
+
+* [https://www.spiegel.de/ausland/vatikan-urbi-et-orbi-papst-franziskus-spricht-ostersegen-in-rom](https://www.spiegel.de/ausland/vatikan-urbi-et-orbi-papst-franziskus-spricht-ostersegen-in-rom-a-824fc079-bff1-4a1c-89ee-dc25eb4a9a67#ref=rss)
+* [https://www.spiegel.de/ausland/papst-franziskus-empfaengt-us-vizepraesident-vance](https://www.spiegel.de/ausland/papst-franziskus-empfaengt-us-vizepraesident-vance-a-b26c764c-498f-4098-9d0b-f11c20dc4e23#ref=rss)
+### segen
+
+* [https://www.spiegel.de/ausland/vatikan-urbi-et-orbi-papst-franziskus-spricht-ostersegen-in-rom](https://www.spiegel.de/ausland/vatikan-urbi-et-orbi-papst-franziskus-spricht-ostersegen-in-rom-a-824fc079-bff1-4a1c-89ee-dc25eb4a9a67#ref=rss)
+* [https://www.spiegel.de/ausland/wie-papst-franziskus-den-christen-von-gaza-mut-zuspricht-anrufe-aus-dem-vatikan](https://www.spiegel.de/ausland/wie-papst-franziskus-den-christen-von-gaza-mut-zuspricht-anrufe-aus-dem-vatikan-a-5bced428-2e43-47c5-8157-d6c066f8bf07#ref=rss)
+### konflikte
+
+* [https://www.spiegel.de/ausland/vatikan-urbi-et-orbi-papst-franziskus-spricht-ostersegen-in-rom](https://www.spiegel.de/ausland/vatikan-urbi-et-orbi-papst-franziskus-spricht-ostersegen-in-rom-a-824fc079-bff1-4a1c-89ee-dc25eb4a9a67#ref=rss)
+* [https://www.spiegel.de/psychologie/schwiegermutter-und-schwiegertochter-warum-die-beziehung-so-schwierig-ist](https://www.spiegel.de/psychologie/schwiegermutter-und-schwiegertochter-warum-die-beziehung-so-schwierig-ist-a-7f5f2fda-4c4f-4857-912b-65d1d8fdf1c3#ref=rss)
+### erst
+
+* [https://www.spiegel.de/familie/psychologie-wie-eine-gute-vater-sohn-beziehung-gelingt](https://www.spiegel.de/familie/psychologie-wie-eine-gute-vater-sohn-beziehung-gelingt-a-a95cdd8b-054f-4405-9cb4-ab9d7213a2d1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/sozialbeitraege-experten-warnen-vor-steigenden-kosten](https://www.spiegel.de/wirtschaft/soziales/sozialbeitraege-experten-warnen-vor-steigenden-kosten-a-2bc669d4-e3f3-4b3f-bc9d-fb53dc00d449#ref=rss)
+### später
+
+* [https://www.spiegel.de/familie/psychologie-wie-eine-gute-vater-sohn-beziehung-gelingt](https://www.spiegel.de/familie/psychologie-wie-eine-gute-vater-sohn-beziehung-gelingt-a-a95cdd8b-054f-4405-9cb4-ab9d7213a2d1#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/oldenburg-polizei-erschiesst-angreifer-nach-angriff-in-lokal](https://www.spiegel.de/panorama/justiz/oldenburg-polizei-erschiesst-angreifer-nach-angriff-in-lokal-a-7af2cff2-8595-4bb1-98b8-37e9ec544214#ref=rss)
+### psychotherapeut
+
+* [https://www.spiegel.de/familie/psychologie-wie-eine-gute-vater-sohn-beziehung-gelingt](https://www.spiegel.de/familie/psychologie-wie-eine-gute-vater-sohn-beziehung-gelingt-a-a95cdd8b-054f-4405-9cb4-ab9d7213a2d1#ref=rss)
+* [https://www.spiegel.de/psychologie/schwiegermutter-und-schwiegertochter-warum-die-beziehung-so-schwierig-ist](https://www.spiegel.de/psychologie/schwiegermutter-und-schwiegertochter-warum-die-beziehung-so-schwierig-ist-a-7f5f2fda-4c4f-4857-912b-65d1d8fdf1c3#ref=rss)
+### bedeutung
+
+* [https://www.spiegel.de/familie/psychologie-wie-eine-gute-vater-sohn-beziehung-gelingt](https://www.spiegel.de/familie/psychologie-wie-eine-gute-vater-sohn-beziehung-gelingt-a-a95cdd8b-054f-4405-9cb4-ab9d7213a2d1#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/ostern-die-bedeutung-des-osterwunders-in-der-modernen-zeit](https://www.spiegel.de/panorama/gesellschaft/ostern-die-bedeutung-des-osterwunders-in-der-modernen-zeit-a-ef1efef7-daf0-40c6-a168-cd4e5406bf3c#ref=rss)
+### väter
+
+* [https://www.spiegel.de/familie/psychologie-wie-eine-gute-vater-sohn-beziehung-gelingt](https://www.spiegel.de/familie/psychologie-wie-eine-gute-vater-sohn-beziehung-gelingt-a-a95cdd8b-054f-4405-9cb4-ab9d7213a2d1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-jens-spahn-afd-vaeter](https://www.spiegel.de/politik/deutschland/news-jens-spahn-afd-vaeter-a-a766eb04-064c-48a0-9bf1-7b27b3cf1938#ref=rss)
+### hamm
+
+* [https://www.spiegel.de/panorama/hamm-sechsjaehriger-ertrinkt-im-spassbad](https://www.spiegel.de/panorama/hamm-sechsjaehriger-ertrinkt-im-spassbad-a-970b7bee-fa71-45c1-b497-c9f9c36e4906#ref=rss)
+### besucher
+
+* [https://www.spiegel.de/panorama/hamm-sechsjaehriger-ertrinkt-im-spassbad](https://www.spiegel.de/panorama/hamm-sechsjaehriger-ertrinkt-im-spassbad-a-970b7bee-fa71-45c1-b497-c9f9c36e4906#ref=rss)
+* [https://www.spiegel.de/ausland/papst-franziskus-empfaengt-us-vizepraesident-vance](https://www.spiegel.de/ausland/papst-franziskus-empfaengt-us-vizepraesident-vance-a-b26c764c-498f-4098-9d0b-f11c20dc4e23#ref=rss)
+### junge
+
+* [https://www.spiegel.de/panorama/hamm-sechsjaehriger-ertrinkt-im-spassbad](https://www.spiegel.de/panorama/hamm-sechsjaehriger-ertrinkt-im-spassbad-a-970b7bee-fa71-45c1-b497-c9f9c36e4906#ref=rss)
+* [https://www.spiegel.de/politik/wehrpflicht-lars-klingbeil-ist-gegen-die-wiedereinfuehrung-winfried-kretschmann-fuer-ein-republikanisches-pflichtjahr](https://www.spiegel.de/politik/wehrpflicht-lars-klingbeil-ist-gegen-die-wiedereinfuehrung-winfried-kretschmann-fuer-ein-republikanisches-pflichtjahr-a-3265a0ed-40c6-4404-b774-ace520593a8e#ref=rss)
+### vance
+
+* [https://www.spiegel.de/ausland/papst-franziskus-empfaengt-us-vizepraesident-vance](https://www.spiegel.de/ausland/papst-franziskus-empfaengt-us-vizepraesident-vance-a-b26c764c-498f-4098-9d0b-f11c20dc4e23#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### tag
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### sieben
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/iss-erfolgreiche-rueckkehr-von-us-amerikanischen-und-russischen-astronauten](https://www.spiegel.de/wissenschaft/iss-erfolgreiche-rueckkehr-von-us-amerikanischen-und-russischen-astronauten-a-b50f76a1-add9-4cc4-b882-5b9a3d3d8639#ref=rss)
+### f
+
+* [https://www.spiegel.de/ausland/jahrzehnte-nach-mord-kennedy-tochter-kritisiert-die-veroeffentlichung-von-autopsie-fotos](https://www.spiegel.de/ausland/jahrzehnte-nach-mord-kennedy-tochter-kritisiert-die-veroeffentlichung-von-autopsie-fotos-a-32c940ee-e9c1-4e87-9e73-fb5545778c29#ref=rss)
+### kennedy
+
+* [https://www.spiegel.de/ausland/jahrzehnte-nach-mord-kennedy-tochter-kritisiert-die-veroeffentlichung-von-autopsie-fotos](https://www.spiegel.de/ausland/jahrzehnte-nach-mord-kennedy-tochter-kritisiert-die-veroeffentlichung-von-autopsie-fotos-a-32c940ee-e9c1-4e87-9e73-fb5545778c29#ref=rss)
+### 04
+
+* [https://www.spiegel.de/sport/fussball/fc-schalke-04-trainer-van-wonderen-erwartet-baldigen-rauswurf](https://www.spiegel.de/sport/fussball/fc-schalke-04-trainer-van-wonderen-erwartet-baldigen-rauswurf-a-3d32a1e3-b961-4b4d-ab90-898a27b5b05f#ref=rss)
+### trainer
+
+* [https://www.spiegel.de/sport/fussball/fc-schalke-04-trainer-van-wonderen-erwartet-baldigen-rauswurf](https://www.spiegel.de/sport/fussball/fc-schalke-04-trainer-van-wonderen-erwartet-baldigen-rauswurf-a-3d32a1e3-b961-4b4d-ab90-898a27b5b05f#ref=rss)
+### van
+
+* [https://www.spiegel.de/sport/fussball/fc-schalke-04-trainer-van-wonderen-erwartet-baldigen-rauswurf](https://www.spiegel.de/sport/fussball/fc-schalke-04-trainer-van-wonderen-erwartet-baldigen-rauswurf-a-3d32a1e3-b961-4b4d-ab90-898a27b5b05f#ref=rss)
+### wonderen
+
+* [https://www.spiegel.de/sport/fussball/fc-schalke-04-trainer-van-wonderen-erwartet-baldigen-rauswurf](https://www.spiegel.de/sport/fussball/fc-schalke-04-trainer-van-wonderen-erwartet-baldigen-rauswurf-a-3d32a1e3-b961-4b4d-ab90-898a27b5b05f#ref=rss)
+### erwartet
+
+* [https://www.spiegel.de/sport/fussball/fc-schalke-04-trainer-van-wonderen-erwartet-baldigen-rauswurf](https://www.spiegel.de/sport/fussball/fc-schalke-04-trainer-van-wonderen-erwartet-baldigen-rauswurf-a-3d32a1e3-b961-4b4d-ab90-898a27b5b05f#ref=rss)
+* [https://www.spiegel.de/sport/elena-semechin-weil-sie-schwanger-ist-schwimm-star-verliert-sponsoren](https://www.spiegel.de/sport/elena-semechin-weil-sie-schwanger-ist-schwimm-star-verliert-sponsoren-a-408605d1-3247-4dc6-a499-cfe13ee100af#ref=rss)
+### rauswurf
+
+* [https://www.spiegel.de/sport/fussball/fc-schalke-04-trainer-van-wonderen-erwartet-baldigen-rauswurf](https://www.spiegel.de/sport/fussball/fc-schalke-04-trainer-van-wonderen-erwartet-baldigen-rauswurf-a-3d32a1e3-b961-4b4d-ab90-898a27b5b05f#ref=rss)
+### unterzahl
+
+* [https://www.spiegel.de/sport/fussball/fc-schalke-04-trainer-van-wonderen-erwartet-baldigen-rauswurf](https://www.spiegel.de/sport/fussball/fc-schalke-04-trainer-van-wonderen-erwartet-baldigen-rauswurf-a-3d32a1e3-b961-4b4d-ab90-898a27b5b05f#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-2-2-auf-schalke-hamburger-sv-stolpert-im-aufstiegsrennen](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-2-2-auf-schalke-hamburger-sv-stolpert-im-aufstiegsrennen-a-9cbc1404-126e-4c7e-9f43-57f26ef2aa2c#ref=rss)
+### hsv
+
+* [https://www.spiegel.de/sport/fussball/fc-schalke-04-trainer-van-wonderen-erwartet-baldigen-rauswurf](https://www.spiegel.de/sport/fussball/fc-schalke-04-trainer-van-wonderen-erwartet-baldigen-rauswurf-a-3d32a1e3-b961-4b4d-ab90-898a27b5b05f#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-2-2-auf-schalke-hamburger-sv-stolpert-im-aufstiegsrennen](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-2-2-auf-schalke-hamburger-sv-stolpert-im-aufstiegsrennen-a-9cbc1404-126e-4c7e-9f43-57f26ef2aa2c#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/kultur/the-voice-of-germany-die-coaches-der-15-staffel-stehen-fest](https://www.spiegel.de/kultur/the-voice-of-germany-die-coaches-der-15-staffel-stehen-fest-a-c4b86df4-e8ea-4c54-8ab3-4c73fc84ac0a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/sozialbeitraege-experten-warnen-vor-steigenden-kosten](https://www.spiegel.de/wirtschaft/soziales/sozialbeitraege-experten-warnen-vor-steigenden-kosten-a-2bc669d4-e3f3-4b3f-bc9d-fb53dc00d449#ref=rss)
+### alle
+
+* [https://www.spiegel.de/kultur/the-voice-of-germany-die-coaches-der-15-staffel-stehen-fest](https://www.spiegel.de/kultur/the-voice-of-germany-die-coaches-der-15-staffel-stehen-fest-a-c4b86df4-e8ea-4c54-8ab3-4c73fc84ac0a#ref=rss)
 * [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
-### nummer
+### oldenburg
+
+* [https://www.spiegel.de/panorama/justiz/oldenburg-polizei-erschiesst-angreifer-nach-angriff-in-lokal](https://www.spiegel.de/panorama/justiz/oldenburg-polizei-erschiesst-angreifer-nach-angriff-in-lokal-a-7af2cff2-8595-4bb1-98b8-37e9ec544214#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/justiz/oldenburg-polizei-erschiesst-angreifer-nach-angriff-in-lokal](https://www.spiegel.de/panorama/justiz/oldenburg-polizei-erschiesst-angreifer-nach-angriff-in-lokal-a-7af2cff2-8595-4bb1-98b8-37e9ec544214#ref=rss)
+### lokal
+
+* [https://www.spiegel.de/panorama/justiz/oldenburg-polizei-erschiesst-angreifer-nach-angriff-in-lokal](https://www.spiegel.de/panorama/justiz/oldenburg-polizei-erschiesst-angreifer-nach-angriff-in-lokal-a-7af2cff2-8595-4bb1-98b8-37e9ec544214#ref=rss)
+### laut
+
+* [https://www.spiegel.de/panorama/justiz/oldenburg-polizei-erschiesst-angreifer-nach-angriff-in-lokal](https://www.spiegel.de/panorama/justiz/oldenburg-polizei-erschiesst-angreifer-nach-angriff-in-lokal-a-7af2cff2-8595-4bb1-98b8-37e9ec544214#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/sozialbeitraege-experten-warnen-vor-steigenden-kosten](https://www.spiegel.de/wirtschaft/soziales/sozialbeitraege-experten-warnen-vor-steigenden-kosten-a-2bc669d4-e3f3-4b3f-bc9d-fb53dc00d449#ref=rss)
+### täter
+
+* [https://www.spiegel.de/panorama/justiz/oldenburg-polizei-erschiesst-angreifer-nach-angriff-in-lokal](https://www.spiegel.de/panorama/justiz/oldenburg-polizei-erschiesst-angreifer-nach-angriff-in-lokal-a-7af2cff2-8595-4bb1-98b8-37e9ec544214#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bad-nauheim-polizei-meldet-zwei-tote-nach-schuessen](https://www.spiegel.de/panorama/justiz/bad-nauheim-polizei-meldet-zwei-tote-nach-schuessen-a-bb40f700-10b0-43bb-aaae-6938add77b47#ref=rss)
+### beamten
+
+* [https://www.spiegel.de/panorama/justiz/oldenburg-polizei-erschiesst-angreifer-nach-angriff-in-lokal](https://www.spiegel.de/panorama/justiz/oldenburg-polizei-erschiesst-angreifer-nach-angriff-in-lokal-a-7af2cff2-8595-4bb1-98b8-37e9ec544214#ref=rss)
+* [https://www.spiegel.de/ausland/pete-hegseth-suspendierte-mitarbeiter-zweifeln-an-pentagon-untersuchung](https://www.spiegel.de/ausland/pete-hegseth-suspendierte-mitarbeiter-zweifeln-an-pentagon-untersuchung-a-416e83c7-8176-4945-8890-aee6fe7d3a0f#ref=rss)
+### hegseth
+
+* [https://www.spiegel.de/ausland/pete-hegseth-suspendierte-mitarbeiter-zweifeln-an-pentagon-untersuchung](https://www.spiegel.de/ausland/pete-hegseth-suspendierte-mitarbeiter-zweifeln-an-pentagon-untersuchung-a-416e83c7-8176-4945-8890-aee6fe7d3a0f#ref=rss)
+### wehrpflicht
+
+* [https://www.spiegel.de/politik/wehrpflicht-lars-klingbeil-ist-gegen-die-wiedereinfuehrung-winfried-kretschmann-fuer-ein-republikanisches-pflichtjahr](https://www.spiegel.de/politik/wehrpflicht-lars-klingbeil-ist-gegen-die-wiedereinfuehrung-winfried-kretschmann-fuer-ein-republikanisches-pflichtjahr-a-3265a0ed-40c6-4404-b774-ace520593a8e#ref=rss)
+### klingbeil
+
+* [https://www.spiegel.de/politik/wehrpflicht-lars-klingbeil-ist-gegen-die-wiedereinfuehrung-winfried-kretschmann-fuer-ein-republikanisches-pflichtjahr](https://www.spiegel.de/politik/wehrpflicht-lars-klingbeil-ist-gegen-die-wiedereinfuehrung-winfried-kretschmann-fuer-ein-republikanisches-pflichtjahr-a-3265a0ed-40c6-4404-b774-ace520593a8e#ref=rss)
+### anderen
+
+* [https://www.spiegel.de/politik/wehrpflicht-lars-klingbeil-ist-gegen-die-wiedereinfuehrung-winfried-kretschmann-fuer-ein-republikanisches-pflichtjahr](https://www.spiegel.de/politik/wehrpflicht-lars-klingbeil-ist-gegen-die-wiedereinfuehrung-winfried-kretschmann-fuer-ein-republikanisches-pflichtjahr-a-3265a0ed-40c6-4404-b774-ace520593a8e#ref=rss)
+* [https://www.spiegel.de/psychologie/schwiegermuetter-wenn-die-beziehung-zur-mutter-des-mannes-nicht-funktioniert](https://www.spiegel.de/psychologie/schwiegermuetter-wenn-die-beziehung-zur-mutter-des-mannes-nicht-funktioniert-a-1628aca3-e2ce-4c6e-816b-c8adf6468f03#ref=rss)
+### jens
+
+* [https://www.spiegel.de/politik/deutschland/news-jens-spahn-afd-vaeter](https://www.spiegel.de/politik/deutschland/news-jens-spahn-afd-vaeter-a-a766eb04-064c-48a0-9bf1-7b27b3cf1938#ref=rss)
+### spahn
+
+* [https://www.spiegel.de/politik/deutschland/news-jens-spahn-afd-vaeter](https://www.spiegel.de/politik/deutschland/news-jens-spahn-afd-vaeter-a-a766eb04-064c-48a0-9bf1-7b27b3cf1938#ref=rss)
+### afd
+
+* [https://www.spiegel.de/politik/deutschland/news-jens-spahn-afd-vaeter](https://www.spiegel.de/politik/deutschland/news-jens-spahn-afd-vaeter-a-a766eb04-064c-48a0-9bf1-7b27b3cf1938#ref=rss)
+### downloadtipps
+
+* [https://www.spiegel.de/netzwelt/games/downloadtipps-fuer-handys-und-tablets-zehn-empfehlenswerte-mobile-games](https://www.spiegel.de/netzwelt/games/downloadtipps-fuer-handys-und-tablets-zehn-empfehlenswerte-mobile-games-a-dde60fa6-1ae8-4fce-9fa2-b2e9a3f139bc#ref=rss)
+### zehn
+
+* [https://www.spiegel.de/netzwelt/games/downloadtipps-fuer-handys-und-tablets-zehn-empfehlenswerte-mobile-games](https://www.spiegel.de/netzwelt/games/downloadtipps-fuer-handys-und-tablets-zehn-empfehlenswerte-mobile-games-a-dde60fa6-1ae8-4fce-9fa2-b2e9a3f139bc#ref=rss)
+### asinara
+
+* [https://www.spiegel.de/geschichte/asinara-vor-sardinien-wie-die-gefaengnisinsel-von-mafia-bossen-gepraegt-wurde](https://www.spiegel.de/geschichte/asinara-vor-sardinien-wie-die-gefaengnisinsel-von-mafia-bossen-gepraegt-wurde-a-a558e90e-d38d-4ad2-b6c8-1e41cfb4d79d#ref=rss)
+### sardinien
+
+* [https://www.spiegel.de/geschichte/asinara-vor-sardinien-wie-die-gefaengnisinsel-von-mafia-bossen-gepraegt-wurde](https://www.spiegel.de/geschichte/asinara-vor-sardinien-wie-die-gefaengnisinsel-von-mafia-bossen-gepraegt-wurde-a-a558e90e-d38d-4ad2-b6c8-1e41cfb4d79d#ref=rss)
+### sozialbeiträge
+
+* [https://www.spiegel.de/wirtschaft/soziales/sozialbeitraege-experten-warnen-vor-steigenden-kosten](https://www.spiegel.de/wirtschaft/soziales/sozialbeitraege-experten-warnen-vor-steigenden-kosten-a-2bc669d4-e3f3-4b3f-bc9d-fb53dc00d449#ref=rss)
+### selenskyj
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-meldet-angriffe-trotz-russischer-oster-waffenruhe](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-meldet-angriffe-trotz-russischer-oster-waffenruhe-a-155f615e-a3da-45f8-9909-f2819181beec#ref=rss)
+### meldet
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-meldet-angriffe-trotz-russischer-oster-waffenruhe](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-meldet-angriffe-trotz-russischer-oster-waffenruhe-a-155f615e-a3da-45f8-9909-f2819181beec#ref=rss)
+* [https://www.spiegel.de/ausland/wie-papst-franziskus-den-christen-von-gaza-mut-zuspricht-anrufe-aus-dem-vatikan](https://www.spiegel.de/ausland/wie-papst-franziskus-den-christen-von-gaza-mut-zuspricht-anrufe-aus-dem-vatikan-a-5bced428-2e43-47c5-8157-d6c066f8bf07#ref=rss)
+### präsident
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-meldet-angriffe-trotz-russischer-oster-waffenruhe](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-meldet-angriffe-trotz-russischer-oster-waffenruhe-a-155f615e-a3da-45f8-9909-f2819181beec#ref=rss)
+* [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
+### elena
+
+* [https://www.spiegel.de/sport/elena-semechin-weil-sie-schwanger-ist-schwimm-star-verliert-sponsoren](https://www.spiegel.de/sport/elena-semechin-weil-sie-schwanger-ist-schwimm-star-verliert-sponsoren-a-408605d1-3247-4dc6-a499-cfe13ee100af#ref=rss)
+### semechin
+
+* [https://www.spiegel.de/sport/elena-semechin-weil-sie-schwanger-ist-schwimm-star-verliert-sponsoren](https://www.spiegel.de/sport/elena-semechin-weil-sie-schwanger-ist-schwimm-star-verliert-sponsoren-a-408605d1-3247-4dc6-a499-cfe13ee100af#ref=rss)
+### verliert
+
+* [https://www.spiegel.de/sport/elena-semechin-weil-sie-schwanger-ist-schwimm-star-verliert-sponsoren](https://www.spiegel.de/sport/elena-semechin-weil-sie-schwanger-ist-schwimm-star-verliert-sponsoren-a-408605d1-3247-4dc6-a499-cfe13ee100af#ref=rss)
+### geburtstag
+
+* [https://www.spiegel.de/karriere/ein-geburtstag-viele-kinder-raetsel-der-woche](https://www.spiegel.de/karriere/ein-geburtstag-viele-kinder-raetsel-der-woche-a-f639e425-f2e7-4c76-8907-f06825656a8a#ref=rss)
+### kinder
+
+* [https://www.spiegel.de/karriere/ein-geburtstag-viele-kinder-raetsel-der-woche](https://www.spiegel.de/karriere/ein-geburtstag-viele-kinder-raetsel-der-woche-a-f639e425-f2e7-4c76-8907-f06825656a8a#ref=rss)
+### fragt
+
+* [https://www.spiegel.de/karriere/ein-geburtstag-viele-kinder-raetsel-der-woche](https://www.spiegel.de/karriere/ein-geburtstag-viele-kinder-raetsel-der-woche-a-f639e425-f2e7-4c76-8907-f06825656a8a#ref=rss)
+* [https://www.spiegel.de/ausland/wie-papst-franziskus-den-christen-von-gaza-mut-zuspricht-anrufe-aus-dem-vatikan](https://www.spiegel.de/ausland/wie-papst-franziskus-den-christen-von-gaza-mut-zuspricht-anrufe-aus-dem-vatikan-a-5bced428-2e43-47c5-8157-d6c066f8bf07#ref=rss)
+### gaza
+
+* [https://www.spiegel.de/ausland/wie-papst-franziskus-den-christen-von-gaza-mut-zuspricht-anrufe-aus-dem-vatikan](https://www.spiegel.de/ausland/wie-papst-franziskus-den-christen-von-gaza-mut-zuspricht-anrufe-aus-dem-vatikan-a-5bced428-2e43-47c5-8157-d6c066f8bf07#ref=rss)
+* [https://www.spiegel.de/ausland/israel-tausende-demonstrieren-fuer-geiseldeal-das-militaer-fliegt-luftschlaege](https://www.spiegel.de/ausland/israel-tausende-demonstrieren-fuer-geiseldeal-das-militaer-fliegt-luftschlaege-a-42e23920-832a-449d-8618-1553cd6fbe34#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/ausland/wie-papst-franziskus-den-christen-von-gaza-mut-zuspricht-anrufe-aus-dem-vatikan](https://www.spiegel.de/ausland/wie-papst-franziskus-den-christen-von-gaza-mut-zuspricht-anrufe-aus-dem-vatikan-a-5bced428-2e43-47c5-8157-d6c066f8bf07#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/ostern-die-bedeutung-des-osterwunders-in-der-modernen-zeit](https://www.spiegel.de/panorama/gesellschaft/ostern-die-bedeutung-des-osterwunders-in-der-modernen-zeit-a-ef1efef7-daf0-40c6-a168-cd4e5406bf3c#ref=rss)
+### astronauten
+
+* [https://www.spiegel.de/wissenschaft/iss-erfolgreiche-rueckkehr-von-us-amerikanischen-und-russischen-astronauten](https://www.spiegel.de/wissenschaft/iss-erfolgreiche-rueckkehr-von-us-amerikanischen-und-russischen-astronauten-a-b50f76a1-add9-4cc4-b882-5b9a3d3d8639#ref=rss)
+### schwiegermutter
+
+* [https://www.spiegel.de/psychologie/schwiegermuetter-wenn-die-beziehung-zur-mutter-des-mannes-nicht-funktioniert](https://www.spiegel.de/psychologie/schwiegermuetter-wenn-die-beziehung-zur-mutter-des-mannes-nicht-funktioniert-a-1628aca3-e2ce-4c6e-816b-c8adf6468f03#ref=rss)
+* [https://www.spiegel.de/psychologie/schwiegermutter-und-schwiegertochter-warum-die-beziehung-so-schwierig-ist](https://www.spiegel.de/psychologie/schwiegermutter-und-schwiegertochter-warum-die-beziehung-so-schwierig-ist-a-7f5f2fda-4c4f-4857-912b-65d1d8fdf1c3#ref=rss)
+### häufig
+
+* [https://www.spiegel.de/psychologie/schwiegermuetter-wenn-die-beziehung-zur-mutter-des-mannes-nicht-funktioniert](https://www.spiegel.de/psychologie/schwiegermuetter-wenn-die-beziehung-zur-mutter-des-mannes-nicht-funktioniert-a-1628aca3-e2ce-4c6e-816b-c8adf6468f03#ref=rss)
+* [https://www.spiegel.de/psychologie/schwiegermutter-und-schwiegertochter-warum-die-beziehung-so-schwierig-ist](https://www.spiegel.de/psychologie/schwiegermutter-und-schwiegertochter-warum-die-beziehung-so-schwierig-ist-a-7f5f2fda-4c4f-4857-912b-65d1d8fdf1c3#ref=rss)
+### israel
+
+* [https://www.spiegel.de/ausland/israel-tausende-demonstrieren-fuer-geiseldeal-das-militaer-fliegt-luftschlaege](https://www.spiegel.de/ausland/israel-tausende-demonstrieren-fuer-geiseldeal-das-militaer-fliegt-luftschlaege-a-42e23920-832a-449d-8618-1553cd6fbe34#ref=rss)
+### tausende
+
+* [https://www.spiegel.de/ausland/israel-tausende-demonstrieren-fuer-geiseldeal-das-militaer-fliegt-luftschlaege](https://www.spiegel.de/ausland/israel-tausende-demonstrieren-fuer-geiseldeal-das-militaer-fliegt-luftschlaege-a-42e23920-832a-449d-8618-1553cd6fbe34#ref=rss)
+### bad
+
+* [https://www.spiegel.de/panorama/justiz/bad-nauheim-polizei-meldet-zwei-tote-nach-schuessen](https://www.spiegel.de/panorama/justiz/bad-nauheim-polizei-meldet-zwei-tote-nach-schuessen-a-bb40f700-10b0-43bb-aaae-6938add77b47#ref=rss)
+### nauheim
+
+* [https://www.spiegel.de/panorama/justiz/bad-nauheim-polizei-meldet-zwei-tote-nach-schuessen](https://www.spiegel.de/panorama/justiz/bad-nauheim-polizei-meldet-zwei-tote-nach-schuessen-a-bb40f700-10b0-43bb-aaae-6938add77b47#ref=rss)
+### hamburger
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-2-2-auf-schalke-hamburger-sv-stolpert-im-aufstiegsrennen](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-2-2-auf-schalke-hamburger-sv-stolpert-im-aufstiegsrennen-a-9cbc1404-126e-4c7e-9f43-57f26ef2aa2c#ref=rss)
+### tatsache
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-2-2-auf-schalke-hamburger-sv-stolpert-im-aufstiegsrennen](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-2-2-auf-schalke-hamburger-sv-stolpert-im-aufstiegsrennen-a-9cbc1404-126e-4c7e-9f43-57f26ef2aa2c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-warum-die-zukunft-des-klubs-so-eng-mit-der-von-florian-wirtz-verknuepft-ist](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-warum-die-zukunft-des-klubs-so-eng-mit-der-von-florian-wirtz-verknuepft-ist-a-c274e388-3df9-41d2-a200-74b535c092b3#ref=rss)
+### gulácsi
+
+* [https://www.spiegel.de/sport/fussball/fussball-rb-keeper-gulacsi-und-kiels-zec-nach-zusammenstoss-bewusstlos](https://www.spiegel.de/sport/fussball/fussball-rb-keeper-gulacsi-und-kiels-zec-nach-zusammenstoss-bewusstlos-a-6276a65e-89f7-4151-90e5-9b2273a990c5#ref=rss)
+### kiels
+
+* [https://www.spiegel.de/sport/fussball/fussball-rb-keeper-gulacsi-und-kiels-zec-nach-zusammenstoss-bewusstlos](https://www.spiegel.de/sport/fussball/fussball-rb-keeper-gulacsi-und-kiels-zec-nach-zusammenstoss-bewusstlos-a-6276a65e-89f7-4151-90e5-9b2273a990c5#ref=rss)
+### zec
+
+* [https://www.spiegel.de/sport/fussball/fussball-rb-keeper-gulacsi-und-kiels-zec-nach-zusammenstoss-bewusstlos](https://www.spiegel.de/sport/fussball/fussball-rb-keeper-gulacsi-und-kiels-zec-nach-zusammenstoss-bewusstlos-a-6276a65e-89f7-4151-90e5-9b2273a990c5#ref=rss)
+### zusammenstoß
+
+* [https://www.spiegel.de/sport/fussball/fussball-rb-keeper-gulacsi-und-kiels-zec-nach-zusammenstoss-bewusstlos](https://www.spiegel.de/sport/fussball/fussball-rb-keeper-gulacsi-und-kiels-zec-nach-zusammenstoss-bewusstlos-a-6276a65e-89f7-4151-90e5-9b2273a990c5#ref=rss)
+### bewusstlos
+
+* [https://www.spiegel.de/sport/fussball/fussball-rb-keeper-gulacsi-und-kiels-zec-nach-zusammenstoss-bewusstlos](https://www.spiegel.de/sport/fussball/fussball-rb-keeper-gulacsi-und-kiels-zec-nach-zusammenstoss-bewusstlos-a-6276a65e-89f7-4151-90e5-9b2273a990c5#ref=rss)
+### wohl
+
+* [https://www.spiegel.de/sport/fussball/fussball-rb-keeper-gulacsi-und-kiels-zec-nach-zusammenstoss-bewusstlos](https://www.spiegel.de/sport/fussball/fussball-rb-keeper-gulacsi-und-kiels-zec-nach-zusammenstoss-bewusstlos-a-6276a65e-89f7-4151-90e5-9b2273a990c5#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-warum-die-zukunft-des-klubs-so-eng-mit-der-von-florian-wirtz-verknuepft-ist](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-warum-die-zukunft-des-klubs-so-eng-mit-der-von-florian-wirtz-verknuepft-ist-a-c274e388-3df9-41d2-a200-74b535c092b3#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-warum-die-zukunft-des-klubs-so-eng-mit-der-von-florian-wirtz-verknuepft-ist](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-warum-die-zukunft-des-klubs-so-eng-mit-der-von-florian-wirtz-verknuepft-ist-a-c274e388-3df9-41d2-a200-74b535c092b3#ref=rss)
+### florian
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-warum-die-zukunft-des-klubs-so-eng-mit-der-von-florian-wirtz-verknuepft-ist](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-warum-die-zukunft-des-klubs-so-eng-mit-der-von-florian-wirtz-verknuepft-ist-a-c274e388-3df9-41d2-a200-74b535c092b3#ref=rss)
+### wirtz
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-warum-die-zukunft-des-klubs-so-eng-mit-der-von-florian-wirtz-verknuepft-ist](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-warum-die-zukunft-des-klubs-so-eng-mit-der-von-florian-wirtz-verknuepft-ist-a-c274e388-3df9-41d2-a200-74b535c092b3#ref=rss)
+### donald
 
 * [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
-### trifft
+### trump
 
 * [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-ehemann-verletzt-sich-bei-abseilversuch-mit-bettlaken](https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-ehemann-verletzt-sich-bei-abseilversuch-mit-bettlaken-a-cf38f85d-9ea7-4502-83c0-4543317d56ef#ref=rss)
-### drohnen
-
-* [https://www.spiegel.de/ausland/russland-soll-ukraine-mit-acht-raketen-und-87-drohnen-angegriffen-haben](https://www.spiegel.de/ausland/russland-soll-ukraine-mit-acht-raketen-und-87-drohnen-angegriffen-haben-a-666b8718-97a9-4c6c-a452-3065940ff516#ref=rss)
-### passiert
-
-* [https://www.spiegel.de/panorama/leute/giorgia-meloni-uebersetzerin-ist-nach-aussetzer-bei-donald-trump-zerknirscht](https://www.spiegel.de/panorama/leute/giorgia-meloni-uebersetzerin-ist-nach-aussetzer-bei-donald-trump-zerknirscht-a-c476adb0-b9e7-476e-b498-1092f0204764#ref=rss)
-* [https://www.spiegel.de/panorama/leute/influencerin-cathy-hummels-hacker-forderte-4000-euro-fuer-profilzugriff](https://www.spiegel.de/panorama/leute/influencerin-cathy-hummels-hacker-forderte-4000-euro-fuer-profilzugriff-a-b27998d7-d488-41c7-9e16-91703814e7cd#ref=rss)
-### bayesian
-
-* [https://www.spiegel.de/panorama/bayesian-bergung-des-gekenterten-segelschiffs-verschoben](https://www.spiegel.de/panorama/bayesian-bergung-des-gekenterten-segelschiffs-verschoben-a-3cd5e4cd-716f-4323-8d1b-f70aaee755c8#ref=rss)
-### bergung
-
-* [https://www.spiegel.de/panorama/bayesian-bergung-des-gekenterten-segelschiffs-verschoben](https://www.spiegel.de/panorama/bayesian-bergung-des-gekenterten-segelschiffs-verschoben-a-3cd5e4cd-716f-4323-8d1b-f70aaee755c8#ref=rss)
-### cathy
-
-* [https://www.spiegel.de/panorama/leute/influencerin-cathy-hummels-hacker-forderte-4000-euro-fuer-profilzugriff](https://www.spiegel.de/panorama/leute/influencerin-cathy-hummels-hacker-forderte-4000-euro-fuer-profilzugriff-a-b27998d7-d488-41c7-9e16-91703814e7cd#ref=rss)
-### hummels
-
-* [https://www.spiegel.de/panorama/leute/influencerin-cathy-hummels-hacker-forderte-4000-euro-fuer-profilzugriff](https://www.spiegel.de/panorama/leute/influencerin-cathy-hummels-hacker-forderte-4000-euro-fuer-profilzugriff-a-b27998d7-d488-41c7-9e16-91703814e7cd#ref=rss)
-### 4000
-
-* [https://www.spiegel.de/panorama/leute/influencerin-cathy-hummels-hacker-forderte-4000-euro-fuer-profilzugriff](https://www.spiegel.de/panorama/leute/influencerin-cathy-hummels-hacker-forderte-4000-euro-fuer-profilzugriff-a-b27998d7-d488-41c7-9e16-91703814e7cd#ref=rss)
-### euro
-
-* [https://www.spiegel.de/panorama/leute/influencerin-cathy-hummels-hacker-forderte-4000-euro-fuer-profilzugriff](https://www.spiegel.de/panorama/leute/influencerin-cathy-hummels-hacker-forderte-4000-euro-fuer-profilzugriff-a-b27998d7-d488-41c7-9e16-91703814e7cd#ref=rss)
 
