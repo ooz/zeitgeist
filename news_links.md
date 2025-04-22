@@ -4,266 +4,387 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### donald
-
-* [https://www.spiegel.de/ausland/donald-trump-stellt-sich-hinter-pete-hegseth-pete-macht-tolle-arbeit](https://www.spiegel.de/ausland/donald-trump-stellt-sich-hinter-pete-hegseth-pete-macht-tolle-arbeit-a-f8906d69-996c-4362-be43-8830b06a4c81#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-kursverluste-nach-angriffen-auf-fed-chef](https://www.spiegel.de/wirtschaft/donald-trump-kursverluste-nach-angriffen-auf-fed-chef-a-5887e924-3472-4ed7-a83d-cda983e6ebe9#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/donald-trump-warum-seine-waehler-eine-politik-gegen-ihre-eigenen-interessen-unterstuetzen](https://www.spiegel.de/wissenschaft/mensch/donald-trump-warum-seine-waehler-eine-politik-gegen-ihre-eigenen-interessen-unterstuetzen-a-c3b592f2-b9b4-4dc7-ab53-020745981d5e#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/donald-trump-stellt-sich-hinter-pete-hegseth-pete-macht-tolle-arbeit](https://www.spiegel.de/ausland/donald-trump-stellt-sich-hinter-pete-hegseth-pete-macht-tolle-arbeit-a-f8906d69-996c-4362-be43-8830b06a4c81#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-kursverluste-nach-angriffen-auf-fed-chef](https://www.spiegel.de/wirtschaft/donald-trump-kursverluste-nach-angriffen-auf-fed-chef-a-5887e924-3472-4ed7-a83d-cda983e6ebe9#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/donald-trump-warum-seine-waehler-eine-politik-gegen-ihre-eigenen-interessen-unterstuetzen](https://www.spiegel.de/wissenschaft/mensch/donald-trump-warum-seine-waehler-eine-politik-gegen-ihre-eigenen-interessen-unterstuetzen-a-c3b592f2-b9b4-4dc7-ab53-020745981d5e#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/justiz/a52-bei-mettmann-polizei-stoppt-hochzeitskorso](https://www.spiegel.de/panorama/justiz/a52-bei-mettmann-polizei-stoppt-hochzeitskorso-a-b63c61ff-827d-447d-89c7-7a6842b06473#ref=rss)
-* [https://www.spiegel.de/panorama/dresden-22-jaehriger-stuerzt-fuenf-meter-in-gullyschacht-polizei-ermittelt-wegen-fahrlaessiger-koerperverletzung](https://www.spiegel.de/panorama/dresden-22-jaehriger-stuerzt-fuenf-meter-in-gullyschacht-polizei-ermittelt-wegen-fahrlaessiger-koerperverletzung-a-912ffdd6-8256-4394-b1d7-6d223af1e36a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hessen-zwei-verdaechtige-nach-toedlichen-schuessen-in-bad-nauheim-gefasst](https://www.spiegel.de/panorama/justiz/hessen-zwei-verdaechtige-nach-toedlichen-schuessen-in-bad-nauheim-gefasst-a-4936bdb7-d527-4761-9548-8525f4f8c259#ref=rss)
-### politik
-
-* [https://www.spiegel.de/wissenschaft/mensch/donald-trump-warum-seine-waehler-eine-politik-gegen-ihre-eigenen-interessen-unterstuetzen](https://www.spiegel.de/wissenschaft/mensch/donald-trump-warum-seine-waehler-eine-politik-gegen-ihre-eigenen-interessen-unterstuetzen-a-c3b592f2-b9b4-4dc7-ab53-020745981d5e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/jkritik-von-kloeckner-der-kampf-der-christdemokraten-um-die-kirchen](https://www.spiegel.de/politik/deutschland/jkritik-von-kloeckner-der-kampf-der-christdemokraten-um-die-kirchen-a-6d234670-cff0-4315-a781-c46e0a0afcb1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/aufruestung-deutschlands-riskanter-weg-zur-kriegstuechtigkeit-meinung](https://www.spiegel.de/politik/deutschland/aufruestung-deutschlands-riskanter-weg-zur-kriegstuechtigkeit-meinung-a-69ba3d60-8e08-44a3-883d-3824001770a7#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/fuerth-nachbar-haelt-einbrecher-im-haus-einer-78-jaehrigen-fest](https://www.spiegel.de/panorama/fuerth-nachbar-haelt-einbrecher-im-haus-einer-78-jaehrigen-fest-a-e02c1809-8a20-456c-ad20-64b476ff39cc#ref=rss)
-* [https://www.spiegel.de/panorama/dresden-22-jaehriger-stuerzt-fuenf-meter-in-gullyschacht-polizei-ermittelt-wegen-fahrlaessiger-koerperverletzung](https://www.spiegel.de/panorama/dresden-22-jaehriger-stuerzt-fuenf-meter-in-gullyschacht-polizei-ermittelt-wegen-fahrlaessiger-koerperverletzung-a-912ffdd6-8256-4394-b1d7-6d223af1e36a#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/ost-identitaet-in-sachsen-junge-bloggerinnen-aus-goerlitz-erklaeren-ostdeutschland](https://www.spiegel.de/panorama/ost-identitaet-in-sachsen-junge-bloggerinnen-aus-goerlitz-erklaeren-ostdeutschland-a-86310893-1b26-41bc-a84f-afada73c3736#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hessen-zwei-verdaechtige-nach-toedlichen-schuessen-in-bad-nauheim-gefasst](https://www.spiegel.de/panorama/justiz/hessen-zwei-verdaechtige-nach-toedlichen-schuessen-in-bad-nauheim-gefasst-a-4936bdb7-d527-4761-9548-8525f4f8c259#ref=rss)
-### pete
-
-* [https://www.spiegel.de/ausland/donald-trump-stellt-sich-hinter-pete-hegseth-pete-macht-tolle-arbeit](https://www.spiegel.de/ausland/donald-trump-stellt-sich-hinter-pete-hegseth-pete-macht-tolle-arbeit-a-f8906d69-996c-4362-be43-8830b06a4c81#ref=rss)
-### mehrere
-
-* [https://www.spiegel.de/panorama/bayreuth-mehrere-verletzte-bei-unfall-mit-kettenkarussell-auf-fruehlingsfest](https://www.spiegel.de/panorama/bayreuth-mehrere-verletzte-bei-unfall-mit-kettenkarussell-auf-fruehlingsfest-a-f50ad5b2-83dc-4234-9162-fe14b96de88f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/a52-bei-mettmann-polizei-stoppt-hochzeitskorso](https://www.spiegel.de/panorama/justiz/a52-bei-mettmann-polizei-stoppt-hochzeitskorso-a-b63c61ff-827d-447d-89c7-7a6842b06473#ref=rss)
-### franziskus
-
-* [https://www.spiegel.de/geschichte/papst-franziskus-ist-tot-historische-fakten-ueber-das-konklave](https://www.spiegel.de/geschichte/papst-franziskus-ist-tot-historische-fakten-ueber-das-konklave-a-c5104193-da35-42e3-bebb-eff69de92adc#ref=rss)
-* [https://www.spiegel.de/ausland/papst-franziskus-ist-tot-vom-kreuz-steigt-man-nicht-herab-meinung](https://www.spiegel.de/ausland/papst-franziskus-ist-tot-vom-kreuz-steigt-man-nicht-herab-meinung-a-6f784578-b75b-4fc2-8cb7-03f6c4dfaeef#ref=rss)
-### ich
-
-* [https://www.spiegel.de/psychologie/einsamkeit-und-schlaflosigkeit-nachts-bin-ich-besonders-anfaellig-fuers-gruebeln-und-fuer-groll](https://www.spiegel.de/psychologie/einsamkeit-und-schlaflosigkeit-nachts-bin-ich-besonders-anfaellig-fuers-gruebeln-und-fuer-groll-a-731b6aca-799c-4a63-8913-e3260f2c45b8#ref=rss)
-### sehr
-
-* [https://www.spiegel.de/psychologie/einsamkeit-und-schlaflosigkeit-nachts-bin-ich-besonders-anfaellig-fuers-gruebeln-und-fuer-groll](https://www.spiegel.de/psychologie/einsamkeit-und-schlaflosigkeit-nachts-bin-ich-besonders-anfaellig-fuers-gruebeln-und-fuer-groll-a-731b6aca-799c-4a63-8913-e3260f2c45b8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/jkritik-von-kloeckner-der-kampf-der-christdemokraten-um-die-kirchen](https://www.spiegel.de/politik/deutschland/jkritik-von-kloeckner-der-kampf-der-christdemokraten-um-die-kirchen-a-6d234670-cff0-4315-a781-c46e0a0afcb1#ref=rss)
-* [https://www.spiegel.de/panorama/fuerth-nachbar-haelt-einbrecher-im-haus-einer-78-jaehrigen-fest](https://www.spiegel.de/panorama/fuerth-nachbar-haelt-einbrecher-im-haus-einer-78-jaehrigen-fest-a-e02c1809-8a20-456c-ad20-64b476ff39cc#ref=rss)
-### julia
-
-* [https://www.spiegel.de/sport/fussball/olympische-spiele-deutsche-olympiastuetzpunkte-kaempfen-mit-gestiegenen-kosten](https://www.spiegel.de/sport/fussball/olympische-spiele-deutsche-olympiastuetzpunkte-kaempfen-mit-gestiegenen-kosten-a-3335b5fc-1e3a-4775-8507-48cb996c4e6e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/jkritik-von-kloeckner-der-kampf-der-christdemokraten-um-die-kirchen](https://www.spiegel.de/politik/deutschland/jkritik-von-kloeckner-der-kampf-der-christdemokraten-um-die-kirchen-a-6d234670-cff0-4315-a781-c46e0a0afcb1#ref=rss)
-### prinzessin
-
-* [https://www.spiegel.de/panorama/leute/herzlichen-glueckwunsch-zum-18-geburtstag-prinzessin-isabella](https://www.spiegel.de/panorama/leute/herzlichen-glueckwunsch-zum-18-geburtstag-prinzessin-isabella-a-4de0c7c4-bb31-4494-bdfa-5aeb32aad626#ref=rss)
-### mögliche
-
-* [https://www.spiegel.de/ausland/litauen-ministerin-dovil-sakalien-sieht-in-deutschland-eine-moegliche-neue-schutzmacht](https://www.spiegel.de/ausland/litauen-ministerin-dovil-sakalien-sieht-in-deutschland-eine-moegliche-neue-schutzmacht-a-cb44526e-3f40-4f5f-8b03-ce3d6d8a4ec3#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/google-us-gericht-verhandelt-ueber-moegliche-zerschlagung](https://www.spiegel.de/netzwelt/netzpolitik/google-us-gericht-verhandelt-ueber-moegliche-zerschlagung-a-0191732a-0f2a-4344-9489-1aa102b75e64#ref=rss)
-### bayreuth
-
-* [https://www.spiegel.de/panorama/bayreuth-mehrere-verletzte-bei-unfall-mit-kettenkarussell-auf-fruehlingsfest](https://www.spiegel.de/panorama/bayreuth-mehrere-verletzte-bei-unfall-mit-kettenkarussell-auf-fruehlingsfest-a-f50ad5b2-83dc-4234-9162-fe14b96de88f#ref=rss)
-### verletzte
-
-* [https://www.spiegel.de/panorama/bayreuth-mehrere-verletzte-bei-unfall-mit-kettenkarussell-auf-fruehlingsfest](https://www.spiegel.de/panorama/bayreuth-mehrere-verletzte-bei-unfall-mit-kettenkarussell-auf-fruehlingsfest-a-f50ad5b2-83dc-4234-9162-fe14b96de88f#ref=rss)
-### unfall
-
-* [https://www.spiegel.de/panorama/bayreuth-mehrere-verletzte-bei-unfall-mit-kettenkarussell-auf-fruehlingsfest](https://www.spiegel.de/panorama/bayreuth-mehrere-verletzte-bei-unfall-mit-kettenkarussell-auf-fruehlingsfest-a-f50ad5b2-83dc-4234-9162-fe14b96de88f#ref=rss)
-### kettenkarussell
-
-* [https://www.spiegel.de/panorama/bayreuth-mehrere-verletzte-bei-unfall-mit-kettenkarussell-auf-fruehlingsfest](https://www.spiegel.de/panorama/bayreuth-mehrere-verletzte-bei-unfall-mit-kettenkarussell-auf-fruehlingsfest-a-f50ad5b2-83dc-4234-9162-fe14b96de88f#ref=rss)
-### frühlingsfest
-
-* [https://www.spiegel.de/panorama/bayreuth-mehrere-verletzte-bei-unfall-mit-kettenkarussell-auf-fruehlingsfest](https://www.spiegel.de/panorama/bayreuth-mehrere-verletzte-bei-unfall-mit-kettenkarussell-auf-fruehlingsfest-a-f50ad5b2-83dc-4234-9162-fe14b96de88f#ref=rss)
-### einsatz
-
-* [https://www.spiegel.de/panorama/bayreuth-mehrere-verletzte-bei-unfall-mit-kettenkarussell-auf-fruehlingsfest](https://www.spiegel.de/panorama/bayreuth-mehrere-verletzte-bei-unfall-mit-kettenkarussell-auf-fruehlingsfest-a-f50ad5b2-83dc-4234-9162-fe14b96de88f#ref=rss)
-* [https://www.spiegel.de/sport/cricket-der-14-jaehrige-vaibhav-suryavanshi-schreibt-geschichte](https://www.spiegel.de/sport/cricket-der-14-jaehrige-vaibhav-suryavanshi-schreibt-geschichte-a-a829e090-0520-4a1d-a267-cfe5e45ec951#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-kursverluste-nach-angriffen-auf-fed-chef](https://www.spiegel.de/wirtschaft/donald-trump-kursverluste-nach-angriffen-auf-fed-chef-a-5887e924-3472-4ed7-a83d-cda983e6ebe9#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/donald-trump-warum-seine-waehler-eine-politik-gegen-ihre-eigenen-interessen-unterstuetzen](https://www.spiegel.de/wissenschaft/mensch/donald-trump-warum-seine-waehler-eine-politik-gegen-ihre-eigenen-interessen-unterstuetzen-a-c3b592f2-b9b4-4dc7-ab53-020745981d5e#ref=rss)
 ### papst
 
-* [https://www.spiegel.de/geschichte/papst-franziskus-ist-tot-historische-fakten-ueber-das-konklave](https://www.spiegel.de/geschichte/papst-franziskus-ist-tot-historische-fakten-ueber-das-konklave-a-c5104193-da35-42e3-bebb-eff69de92adc#ref=rss)
-* [https://www.spiegel.de/ausland/papst-franziskus-ist-tot-vom-kreuz-steigt-man-nicht-herab-meinung](https://www.spiegel.de/ausland/papst-franziskus-ist-tot-vom-kreuz-steigt-man-nicht-herab-meinung-a-6f784578-b75b-4fc2-8cb7-03f6c4dfaeef#ref=rss)
-### tot
+* [https://www.spiegel.de/panorama/papst-franziskus-milei-von-der-leyen-macron-trump-selenskyj-kommen-zur-beisetzung](https://www.spiegel.de/panorama/papst-franziskus-milei-von-der-leyen-macron-trump-selenskyj-kommen-zur-beisetzung-a-e2d66c1d-3de6-447c-a1dd-fa57486a7531#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-internationale-medien-aeussern-sich-zum-tod-des-oberhaupts-der-katholischen-kirche](https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-internationale-medien-aeussern-sich-zum-tod-des-oberhaupts-der-katholischen-kirche-a-b55bdec7-ea93-455b-a1f5-70aaa9471e8a#ref=rss)
+* [https://www.spiegel.de/ausland/argentinien-trauert-um-papst-franziskus-sogar-der-fussball-ruht](https://www.spiegel.de/ausland/argentinien-trauert-um-papst-franziskus-sogar-der-fussball-ruht-a-db37acbb-64e9-48b6-8e69-06323077a5e3#ref=rss)
+* [https://www.spiegel.de/panorama/papst-franziskus-news-so-reagiert-die-welt-auf-den-tod-von-franziskus](https://www.spiegel.de/panorama/papst-franziskus-news-so-reagiert-die-welt-auf-den-tod-von-franziskus-a-4ade81cc-7ad5-4859-bec6-81483aa56cc7#ref=rss)
+### franziskus
 
-* [https://www.spiegel.de/geschichte/papst-franziskus-ist-tot-historische-fakten-ueber-das-konklave](https://www.spiegel.de/geschichte/papst-franziskus-ist-tot-historische-fakten-ueber-das-konklave-a-c5104193-da35-42e3-bebb-eff69de92adc#ref=rss)
-* [https://www.spiegel.de/ausland/papst-franziskus-ist-tot-vom-kreuz-steigt-man-nicht-herab-meinung](https://www.spiegel.de/ausland/papst-franziskus-ist-tot-vom-kreuz-steigt-man-nicht-herab-meinung-a-6f784578-b75b-4fc2-8cb7-03f6c4dfaeef#ref=rss)
-### konklave
+* [https://www.spiegel.de/panorama/papst-franziskus-milei-von-der-leyen-macron-trump-selenskyj-kommen-zur-beisetzung](https://www.spiegel.de/panorama/papst-franziskus-milei-von-der-leyen-macron-trump-selenskyj-kommen-zur-beisetzung-a-e2d66c1d-3de6-447c-a1dd-fa57486a7531#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-internationale-medien-aeussern-sich-zum-tod-des-oberhaupts-der-katholischen-kirche](https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-internationale-medien-aeussern-sich-zum-tod-des-oberhaupts-der-katholischen-kirche-a-b55bdec7-ea93-455b-a1f5-70aaa9471e8a#ref=rss)
+* [https://www.spiegel.de/ausland/argentinien-trauert-um-papst-franziskus-sogar-der-fussball-ruht](https://www.spiegel.de/ausland/argentinien-trauert-um-papst-franziskus-sogar-der-fussball-ruht-a-db37acbb-64e9-48b6-8e69-06323077a5e3#ref=rss)
+* [https://www.spiegel.de/panorama/papst-franziskus-news-so-reagiert-die-welt-auf-den-tod-von-franziskus](https://www.spiegel.de/panorama/papst-franziskus-news-so-reagiert-die-welt-auf-den-tod-von-franziskus-a-4ade81cc-7ad5-4859-bec6-81483aa56cc7#ref=rss)
+### trump
 
-* [https://www.spiegel.de/geschichte/papst-franziskus-ist-tot-historische-fakten-ueber-das-konklave](https://www.spiegel.de/geschichte/papst-franziskus-ist-tot-historische-fakten-ueber-das-konklave-a-c5104193-da35-42e3-bebb-eff69de92adc#ref=rss)
-### einsamkeit
-
-* [https://www.spiegel.de/psychologie/einsamkeit-und-schlaflosigkeit-nachts-bin-ich-besonders-anfaellig-fuers-gruebeln-und-fuer-groll](https://www.spiegel.de/psychologie/einsamkeit-und-schlaflosigkeit-nachts-bin-ich-besonders-anfaellig-fuers-gruebeln-und-fuer-groll-a-731b6aca-799c-4a63-8913-e3260f2c45b8#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/onlyfans-das-fragwuerdige-geschaeft-mit-erotik-und-pseudo-intimitaet](https://www.spiegel.de/netzwelt/web/onlyfans-das-fragwuerdige-geschaeft-mit-erotik-und-pseudo-intimitaet-a-90bce533-b45d-4e5b-b48b-85d44488980b#ref=rss)
-### mich
-
-* [https://www.spiegel.de/psychologie/einsamkeit-und-schlaflosigkeit-nachts-bin-ich-besonders-anfaellig-fuers-gruebeln-und-fuer-groll](https://www.spiegel.de/psychologie/einsamkeit-und-schlaflosigkeit-nachts-bin-ich-besonders-anfaellig-fuers-gruebeln-und-fuer-groll-a-731b6aca-799c-4a63-8913-e3260f2c45b8#ref=rss)
-### gestiegenen
-
-* [https://www.spiegel.de/sport/fussball/olympische-spiele-deutsche-olympiastuetzpunkte-kaempfen-mit-gestiegenen-kosten](https://www.spiegel.de/sport/fussball/olympische-spiele-deutsche-olympiastuetzpunkte-kaempfen-mit-gestiegenen-kosten-a-3335b5fc-1e3a-4775-8507-48cb996c4e6e#ref=rss)
-### kosten
-
-* [https://www.spiegel.de/sport/fussball/olympische-spiele-deutsche-olympiastuetzpunkte-kaempfen-mit-gestiegenen-kosten](https://www.spiegel.de/sport/fussball/olympische-spiele-deutsche-olympiastuetzpunkte-kaempfen-mit-gestiegenen-kosten-a-3335b5fc-1e3a-4775-8507-48cb996c4e6e#ref=rss)
-### trainer
-
-* [https://www.spiegel.de/sport/fussball/olympische-spiele-deutsche-olympiastuetzpunkte-kaempfen-mit-gestiegenen-kosten](https://www.spiegel.de/sport/fussball/olympische-spiele-deutsche-olympiastuetzpunkte-kaempfen-mit-gestiegenen-kosten-a-3335b5fc-1e3a-4775-8507-48cb996c4e6e#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bayer-leverkusen-geschaeftsfuehrer-fernando-carro-erhoeht-druck-auf-xabi-alonso](https://www.spiegel.de/sport/fussball/bayer-leverkusen-geschaeftsfuehrer-fernando-carro-erhoeht-druck-auf-xabi-alonso-a-e57b8bcf-88f2-4cdd-a417-2abd4792e31c#ref=rss)
-### leverkusen
-
-* [https://www.spiegel.de/sport/fussball/bayer-leverkusen-geschaeftsfuehrer-fernando-carro-erhoeht-druck-auf-xabi-alonso](https://www.spiegel.de/sport/fussball/bayer-leverkusen-geschaeftsfuehrer-fernando-carro-erhoeht-druck-auf-xabi-alonso-a-e57b8bcf-88f2-4cdd-a417-2abd4792e31c#ref=rss)
-### fernando
-
-* [https://www.spiegel.de/sport/fussball/bayer-leverkusen-geschaeftsfuehrer-fernando-carro-erhoeht-druck-auf-xabi-alonso](https://www.spiegel.de/sport/fussball/bayer-leverkusen-geschaeftsfuehrer-fernando-carro-erhoeht-druck-auf-xabi-alonso-a-e57b8bcf-88f2-4cdd-a417-2abd4792e31c#ref=rss)
-### carro
-
-* [https://www.spiegel.de/sport/fussball/bayer-leverkusen-geschaeftsfuehrer-fernando-carro-erhoeht-druck-auf-xabi-alonso](https://www.spiegel.de/sport/fussball/bayer-leverkusen-geschaeftsfuehrer-fernando-carro-erhoeht-druck-auf-xabi-alonso-a-e57b8bcf-88f2-4cdd-a417-2abd4792e31c#ref=rss)
-### druck
-
-* [https://www.spiegel.de/sport/fussball/bayer-leverkusen-geschaeftsfuehrer-fernando-carro-erhoeht-druck-auf-xabi-alonso](https://www.spiegel.de/sport/fussball/bayer-leverkusen-geschaeftsfuehrer-fernando-carro-erhoeht-druck-auf-xabi-alonso-a-e57b8bcf-88f2-4cdd-a417-2abd4792e31c#ref=rss)
-* [https://www.spiegel.de/netzwelt/organisierte-kriminalitaet-uno-warnt-vor-ausbreitung-von-cyberbetrug-wie-ein-krebsgeschwuer](https://www.spiegel.de/netzwelt/organisierte-kriminalitaet-uno-warnt-vor-ausbreitung-von-cyberbetrug-wie-ein-krebsgeschwuer-a-370c708a-fb36-4ab7-a61d-49e4cfcfcfd1#ref=rss)
-### xabi
-
-* [https://www.spiegel.de/sport/fussball/bayer-leverkusen-geschaeftsfuehrer-fernando-carro-erhoeht-druck-auf-xabi-alonso](https://www.spiegel.de/sport/fussball/bayer-leverkusen-geschaeftsfuehrer-fernando-carro-erhoeht-druck-auf-xabi-alonso-a-e57b8bcf-88f2-4cdd-a417-2abd4792e31c#ref=rss)
-### alonso
-
-* [https://www.spiegel.de/sport/fussball/bayer-leverkusen-geschaeftsfuehrer-fernando-carro-erhoeht-druck-auf-xabi-alonso](https://www.spiegel.de/sport/fussball/bayer-leverkusen-geschaeftsfuehrer-fernando-carro-erhoeht-druck-auf-xabi-alonso-a-e57b8bcf-88f2-4cdd-a417-2abd4792e31c#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/sport/fussball/bayer-leverkusen-geschaeftsfuehrer-fernando-carro-erhoeht-druck-auf-xabi-alonso](https://www.spiegel.de/sport/fussball/bayer-leverkusen-geschaeftsfuehrer-fernando-carro-erhoeht-druck-auf-xabi-alonso-a-e57b8bcf-88f2-4cdd-a417-2abd4792e31c#ref=rss)
-* [https://www.spiegel.de/ausland/litauen-ministerin-dovil-sakalien-sieht-in-deutschland-eine-moegliche-neue-schutzmacht](https://www.spiegel.de/ausland/litauen-ministerin-dovil-sakalien-sieht-in-deutschland-eine-moegliche-neue-schutzmacht-a-cb44526e-3f40-4f5f-8b03-ce3d6d8a4ec3#ref=rss)
-### meinung
-
-* [https://www.spiegel.de/ausland/papst-franziskus-ist-tot-vom-kreuz-steigt-man-nicht-herab-meinung](https://www.spiegel.de/ausland/papst-franziskus-ist-tot-vom-kreuz-steigt-man-nicht-herab-meinung-a-6f784578-b75b-4fc2-8cb7-03f6c4dfaeef#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/aufruestung-deutschlands-riskanter-weg-zur-kriegstuechtigkeit-meinung](https://www.spiegel.de/politik/deutschland/aufruestung-deutschlands-riskanter-weg-zur-kriegstuechtigkeit-meinung-a-69ba3d60-8e08-44a3-883d-3824001770a7#ref=rss)
-### vaibhav
-
-* [https://www.spiegel.de/sport/cricket-der-14-jaehrige-vaibhav-suryavanshi-schreibt-geschichte](https://www.spiegel.de/sport/cricket-der-14-jaehrige-vaibhav-suryavanshi-schreibt-geschichte-a-a829e090-0520-4a1d-a267-cfe5e45ec951#ref=rss)
-### suryavanshi
-
-* [https://www.spiegel.de/sport/cricket-der-14-jaehrige-vaibhav-suryavanshi-schreibt-geschichte](https://www.spiegel.de/sport/cricket-der-14-jaehrige-vaibhav-suryavanshi-schreibt-geschichte-a-a829e090-0520-4a1d-a267-cfe5e45ec951#ref=rss)
-### schnell
-
-* [https://www.spiegel.de/panorama/justiz/a52-bei-mettmann-polizei-stoppt-hochzeitskorso](https://www.spiegel.de/panorama/justiz/a52-bei-mettmann-polizei-stoppt-hochzeitskorso-a-b63c61ff-827d-447d-89c7-7a6842b06473#ref=rss)
-* [https://www.spiegel.de/kultur/coachella-2025-glamour-gedraenge-und-ein-bisschen-geheuchel](https://www.spiegel.de/kultur/coachella-2025-glamour-gedraenge-und-ein-bisschen-geheuchel-a-5e481aac-01ca-4705-817a-b2e07cff860f#ref=rss)
-### kreml
-
-* [https://www.spiegel.de/ausland/kreml-zeigt-sich-begeistert-von-us-absage-an-nato-mitgliedschaft](https://www.spiegel.de/ausland/kreml-zeigt-sich-begeistert-von-us-absage-an-nato-mitgliedschaft-a-734d43a1-3b5a-400d-8d33-1812b613e298#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/kreml-zeigt-sich-begeistert-von-us-absage-an-nato-mitgliedschaft](https://www.spiegel.de/ausland/kreml-zeigt-sich-begeistert-von-us-absage-an-nato-mitgliedschaft-a-734d43a1-3b5a-400d-8d33-1812b613e298#ref=rss)
-* [https://www.spiegel.de/ausland/litauen-ministerin-dovil-sakalien-sieht-in-deutschland-eine-moegliche-neue-schutzmacht](https://www.spiegel.de/ausland/litauen-ministerin-dovil-sakalien-sieht-in-deutschland-eine-moegliche-neue-schutzmacht-a-cb44526e-3f40-4f5f-8b03-ce3d6d8a4ec3#ref=rss)
-### washington
-
-* [https://www.spiegel.de/ausland/kreml-zeigt-sich-begeistert-von-us-absage-an-nato-mitgliedschaft](https://www.spiegel.de/ausland/kreml-zeigt-sich-begeistert-von-us-absage-an-nato-mitgliedschaft-a-734d43a1-3b5a-400d-8d33-1812b613e298#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/google-us-gericht-verhandelt-ueber-moegliche-zerschlagung](https://www.spiegel.de/netzwelt/netzpolitik/google-us-gericht-verhandelt-ueber-moegliche-zerschlagung-a-0191732a-0f2a-4344-9489-1aa102b75e64#ref=rss)
+* [https://www.spiegel.de/panorama/papst-franziskus-milei-von-der-leyen-macron-trump-selenskyj-kommen-zur-beisetzung](https://www.spiegel.de/panorama/papst-franziskus-milei-von-der-leyen-macron-trump-selenskyj-kommen-zur-beisetzung-a-e2d66c1d-3de6-447c-a1dd-fa57486a7531#ref=rss)
+* [https://www.spiegel.de/ausland/pete-hegseth-us-verteidigungsminister-beschimpft-journalisten-beim-kinder-osterfest](https://www.spiegel.de/ausland/pete-hegseth-us-verteidigungsminister-beschimpft-journalisten-beim-kinder-osterfest-a-2c835402-8ba6-47d5-875d-686272d055ba#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-usa-verhaengen-bis-zu-3521-prozent-zoelle-auf-solarpanele](https://www.spiegel.de/wirtschaft/donald-trump-usa-verhaengen-bis-zu-3521-prozent-zoelle-auf-solarpanele-a-258a1dcf-82c9-45f0-93bd-4e2d8a6d45f8#ref=rss)
+* [https://www.spiegel.de/panorama/papst-franziskus-news-so-reagiert-die-welt-auf-den-tod-von-franziskus](https://www.spiegel.de/panorama/papst-franziskus-news-so-reagiert-die-welt-auf-den-tod-von-franziskus-a-4ade81cc-7ad5-4859-bec6-81483aa56cc7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/goldpreis-erreicht-erstmals-3500-dollar-nach-attacke-von-donald-trump-gegen-fed-chef](https://www.spiegel.de/wirtschaft/goldpreis-erreicht-erstmals-3500-dollar-nach-attacke-von-donald-trump-gegen-fed-chef-a-f31d8bdc-e771-4a4a-ba1e-2eb7c8b6eac6#ref=rss)
+* [https://www.spiegel.de/ausland/el-salvador-weitere-us-demokraten-im-fall-kilmar-abrego-garcia-vor-ort-druck-auf-donald-trump](https://www.spiegel.de/ausland/el-salvador-weitere-us-demokraten-im-fall-kilmar-abrego-garcia-vor-ort-druck-auf-donald-trump-a-8fd570c3-836e-4a7c-9e7b-9ed5d928d99e#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/wissenschaft/mensch/donald-trump-warum-seine-waehler-eine-politik-gegen-ihre-eigenen-interessen-unterstuetzen](https://www.spiegel.de/wissenschaft/mensch/donald-trump-warum-seine-waehler-eine-politik-gegen-ihre-eigenen-interessen-unterstuetzen-a-c3b592f2-b9b4-4dc7-ab53-020745981d5e#ref=rss)
-* [https://www.spiegel.de/ausland/litauen-ministerin-dovil-sakalien-sieht-in-deutschland-eine-moegliche-neue-schutzmacht](https://www.spiegel.de/ausland/litauen-ministerin-dovil-sakalien-sieht-in-deutschland-eine-moegliche-neue-schutzmacht-a-cb44526e-3f40-4f5f-8b03-ce3d6d8a4ec3#ref=rss)
-### allem
+* [https://www.spiegel.de/sport/fussball/fussballmoderator-gary-lineker-fuehlt-sich-von-der-bbc-nicht-mehr-gemocht](https://www.spiegel.de/sport/fussball/fussballmoderator-gary-lineker-fuehlt-sich-von-der-bbc-nicht-mehr-gemocht-a-0bcd64ca-457f-4ffd-85fc-f5a168dd5624#ref=rss)
+* [https://www.spiegel.de/wirtschaft/roche-50-milliarden-dollar-investition-in-den-usa-geplant](https://www.spiegel.de/wirtschaft/roche-50-milliarden-dollar-investition-in-den-usa-geplant-a-4e829867-8362-41cb-9f27-5ce6d7220853#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bsw-der-rachefeldzug-der-sahra-wagenknecht](https://www.spiegel.de/politik/deutschland/bsw-der-rachefeldzug-der-sahra-wagenknecht-a-67671106-a5fc-48d8-a705-8629dd72c9c3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/flugzeugungluecke-mehr-unfaelle-in-deutschland-aber-weniger-todesopfer](https://www.spiegel.de/wirtschaft/flugzeugungluecke-mehr-unfaelle-in-deutschland-aber-weniger-todesopfer-a-bb938004-c09e-4e5a-8e4c-d39e28ba0cc9#ref=rss)
+* [https://www.spiegel.de/panorama/moewensee-bei-nordhausen-21-jaehriger-beim-schwimmen-verschwunden](https://www.spiegel.de/panorama/moewensee-bei-nordhausen-21-jaehriger-beim-schwimmen-verschwunden-a-da9db0ab-737a-4a85-aa49-e4fb51037588#ref=rss)
+* [https://www.spiegel.de/wirtschaft/mutterschutz-fuer-selbststaendige-bundesregierung-plant-reform-fuer-mehr-unterstuetzung](https://www.spiegel.de/wirtschaft/mutterschutz-fuer-selbststaendige-bundesregierung-plant-reform-fuer-mehr-unterstuetzung-a-11665cfc-232f-4db9-8f0e-d426a655de04#ref=rss)
+### usa
 
-* [https://www.spiegel.de/wissenschaft/mensch/donald-trump-warum-seine-waehler-eine-politik-gegen-ihre-eigenen-interessen-unterstuetzen](https://www.spiegel.de/wissenschaft/mensch/donald-trump-warum-seine-waehler-eine-politik-gegen-ihre-eigenen-interessen-unterstuetzen-a-c3b592f2-b9b4-4dc7-ab53-020745981d5e#ref=rss)
-* [https://www.spiegel.de/netzwelt/organisierte-kriminalitaet-uno-warnt-vor-ausbreitung-von-cyberbetrug-wie-ein-krebsgeschwuer](https://www.spiegel.de/netzwelt/organisierte-kriminalitaet-uno-warnt-vor-ausbreitung-von-cyberbetrug-wie-ein-krebsgeschwuer-a-370c708a-fb36-4ab7-a61d-49e4cfcfcfd1#ref=rss)
-### wotan
+* [https://www.spiegel.de/wirtschaft/roche-50-milliarden-dollar-investition-in-den-usa-geplant](https://www.spiegel.de/wirtschaft/roche-50-milliarden-dollar-investition-in-den-usa-geplant-a-4e829867-8362-41cb-9f27-5ce6d7220853#ref=rss)
+* [https://www.spiegel.de/wissenschaft/wie-china-die-usa-in-der-wissenschaft-ueberholen-moechte](https://www.spiegel.de/wissenschaft/wie-china-die-usa-in-der-wissenschaft-ueberholen-moechte-a-9c3f785c-a122-4a18-a582-cd95d86c638e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-usa-verhaengen-bis-zu-3521-prozent-zoelle-auf-solarpanele](https://www.spiegel.de/wirtschaft/donald-trump-usa-verhaengen-bis-zu-3521-prozent-zoelle-auf-solarpanele-a-258a1dcf-82c9-45f0-93bd-4e2d8a6d45f8#ref=rss)
+### donald
 
-* [https://www.spiegel.de/kultur/tv/tatort-heute-mit-wotan-wilke-moehring-im-wahn-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-mit-wotan-wilke-moehring-im-wahn-im-schnellcheck-a-d73f37d3-ef52-466a-83f7-5eb7ce14b980#ref=rss)
-### wilke
+* [https://www.spiegel.de/ausland/pete-hegseth-us-verteidigungsminister-beschimpft-journalisten-beim-kinder-osterfest](https://www.spiegel.de/ausland/pete-hegseth-us-verteidigungsminister-beschimpft-journalisten-beim-kinder-osterfest-a-2c835402-8ba6-47d5-875d-686272d055ba#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-usa-verhaengen-bis-zu-3521-prozent-zoelle-auf-solarpanele](https://www.spiegel.de/wirtschaft/donald-trump-usa-verhaengen-bis-zu-3521-prozent-zoelle-auf-solarpanele-a-258a1dcf-82c9-45f0-93bd-4e2d8a6d45f8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/goldpreis-erreicht-erstmals-3500-dollar-nach-attacke-von-donald-trump-gegen-fed-chef](https://www.spiegel.de/wirtschaft/goldpreis-erreicht-erstmals-3500-dollar-nach-attacke-von-donald-trump-gegen-fed-chef-a-f31d8bdc-e771-4a4a-ba1e-2eb7c8b6eac6#ref=rss)
+* [https://www.spiegel.de/ausland/el-salvador-weitere-us-demokraten-im-fall-kilmar-abrego-garcia-vor-ort-druck-auf-donald-trump](https://www.spiegel.de/ausland/el-salvador-weitere-us-demokraten-im-fall-kilmar-abrego-garcia-vor-ort-druck-auf-donald-trump-a-8fd570c3-836e-4a7c-9e7b-9ed5d928d99e#ref=rss)
+### kommen
 
-* [https://www.spiegel.de/kultur/tv/tatort-heute-mit-wotan-wilke-moehring-im-wahn-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-mit-wotan-wilke-moehring-im-wahn-im-schnellcheck-a-d73f37d3-ef52-466a-83f7-5eb7ce14b980#ref=rss)
-### möhring
+* [https://www.spiegel.de/panorama/papst-franziskus-milei-von-der-leyen-macron-trump-selenskyj-kommen-zur-beisetzung](https://www.spiegel.de/panorama/papst-franziskus-milei-von-der-leyen-macron-trump-selenskyj-kommen-zur-beisetzung-a-e2d66c1d-3de6-447c-a1dd-fa57486a7531#ref=rss)
+* [https://www.spiegel.de/panorama/papst-franziskus-news-so-reagiert-die-welt-auf-den-tod-von-franziskus](https://www.spiegel.de/panorama/papst-franziskus-news-so-reagiert-die-welt-auf-den-tod-von-franziskus-a-4ade81cc-7ad5-4859-bec6-81483aa56cc7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-union-sieht-keine-trendwende-bei-puenktlichkeit-der-fernzuege](https://www.spiegel.de/wirtschaft/deutsche-bahn-union-sieht-keine-trendwende-bei-puenktlichkeit-der-fernzuege-a-b298039e-671c-474b-a759-6df5e5ce8990#ref=rss)
+### vereine
 
-* [https://www.spiegel.de/kultur/tv/tatort-heute-mit-wotan-wilke-moehring-im-wahn-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-mit-wotan-wilke-moehring-im-wahn-im-schnellcheck-a-d73f37d3-ef52-466a-83f7-5eb7ce14b980#ref=rss)
-### onlyfans
+* [https://www.spiegel.de/sport/fussball/fussball-uefa-schuettet-rekordsumme-an-klubs-aus](https://www.spiegel.de/sport/fussball/fussball-uefa-schuettet-rekordsumme-an-klubs-aus-a-6c61a30d-b74e-4e8f-8cbd-b841acae3a0c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/almuth-schult-ex-torhueterin-kritisiert-vereine-wegen-vorbehalten-gegenueber-muettern](https://www.spiegel.de/sport/fussball/almuth-schult-ex-torhueterin-kritisiert-vereine-wegen-vorbehalten-gegenueber-muettern-a-039b5e01-4db8-4507-989c-349c7217980a#ref=rss)
+### viele
 
-* [https://www.spiegel.de/netzwelt/web/onlyfans-das-fragwuerdige-geschaeft-mit-erotik-und-pseudo-intimitaet](https://www.spiegel.de/netzwelt/web/onlyfans-das-fragwuerdige-geschaeft-mit-erotik-und-pseudo-intimitaet-a-90bce533-b45d-4e5b-b48b-85d44488980b#ref=rss)
-### geschäft
+* [https://www.spiegel.de/wissenschaft/mensch/erbe-aus-der-kolonialzeit-oxford-gelehrte-tranken-viele-jahre-aus-menschlichem-schaedel](https://www.spiegel.de/wissenschaft/mensch/erbe-aus-der-kolonialzeit-oxford-gelehrte-tranken-viele-jahre-aus-menschlichem-schaedel-a-a4f4ea7b-d7d4-4672-901d-4045489f4f2a#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/sternschnuppen-erwartet-meteorstrom-der-lyriden-erreicht-seinen-hoehepunkt](https://www.spiegel.de/wissenschaft/weltall/sternschnuppen-erwartet-meteorstrom-der-lyriden-erreicht-seinen-hoehepunkt-a-2eaa173f-b4e3-4e9e-9efb-76c5e4d79586#ref=rss)
+* [https://www.spiegel.de/sport/fussball/almuth-schult-ex-torhueterin-kritisiert-vereine-wegen-vorbehalten-gegenueber-muettern](https://www.spiegel.de/sport/fussball/almuth-schult-ex-torhueterin-kritisiert-vereine-wegen-vorbehalten-gegenueber-muettern-a-039b5e01-4db8-4507-989c-349c7217980a#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/netzwelt/web/onlyfans-das-fragwuerdige-geschaeft-mit-erotik-und-pseudo-intimitaet](https://www.spiegel.de/netzwelt/web/onlyfans-das-fragwuerdige-geschaeft-mit-erotik-und-pseudo-intimitaet-a-90bce533-b45d-4e5b-b48b-85d44488980b#ref=rss)
-### weltkrieg
-
-* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-1945-das-treffen-der-alliierten-in-torgau-ein-bild-das-die-welt-nie-vergessen-wird](https://www.spiegel.de/geschichte/zweiter-weltkrieg-1945-das-treffen-der-alliierten-in-torgau-ein-bild-das-die-welt-nie-vergessen-wird-a-34a2c057-9cdc-4bd0-90ae-8da2dc135d77#ref=rss)
-### welt
-
-* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-1945-das-treffen-der-alliierten-in-torgau-ein-bild-das-die-welt-nie-vergessen-wird](https://www.spiegel.de/geschichte/zweiter-weltkrieg-1945-das-treffen-der-alliierten-in-torgau-ein-bild-das-die-welt-nie-vergessen-wird-a-34a2c057-9cdc-4bd0-90ae-8da2dc135d77#ref=rss)
-* [https://www.spiegel.de/wirtschaft/weltwirtschaftsforum-gruender-klaus-schwab-tritt-zurueck](https://www.spiegel.de/wirtschaft/weltwirtschaftsforum-gruender-klaus-schwab-tritt-zurueck-a-b51e836a-09f2-4006-a877-90bd5383329e#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-1945-das-treffen-der-alliierten-in-torgau-ein-bild-das-die-welt-nie-vergessen-wird](https://www.spiegel.de/geschichte/zweiter-weltkrieg-1945-das-treffen-der-alliierten-in-torgau-ein-bild-das-die-welt-nie-vergessen-wird-a-34a2c057-9cdc-4bd0-90ae-8da2dc135d77#ref=rss)
-* [https://www.spiegel.de/wirtschaft/weltwirtschaftsforum-gruender-klaus-schwab-tritt-zurueck](https://www.spiegel.de/wirtschaft/weltwirtschaftsforum-gruender-klaus-schwab-tritt-zurueck-a-b51e836a-09f2-4006-a877-90bd5383329e#ref=rss)
-### klöckner
-
-* [https://www.spiegel.de/politik/deutschland/jkritik-von-kloeckner-der-kampf-der-christdemokraten-um-die-kirchen](https://www.spiegel.de/politik/deutschland/jkritik-von-kloeckner-der-kampf-der-christdemokraten-um-die-kirchen-a-6d234670-cff0-4315-a781-c46e0a0afcb1#ref=rss)
-### kritik
-
-* [https://www.spiegel.de/politik/deutschland/jkritik-von-kloeckner-der-kampf-der-christdemokraten-um-die-kirchen](https://www.spiegel.de/politik/deutschland/jkritik-von-kloeckner-der-kampf-der-christdemokraten-um-die-kirchen-a-6d234670-cff0-4315-a781-c46e0a0afcb1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/weltwirtschaftsforum-gruender-klaus-schwab-tritt-zurueck](https://www.spiegel.de/wirtschaft/weltwirtschaftsforum-gruender-klaus-schwab-tritt-zurueck-a-b51e836a-09f2-4006-a877-90bd5383329e#ref=rss)
-### kirchen
-
-* [https://www.spiegel.de/politik/deutschland/jkritik-von-kloeckner-der-kampf-der-christdemokraten-um-die-kirchen](https://www.spiegel.de/politik/deutschland/jkritik-von-kloeckner-der-kampf-der-christdemokraten-um-die-kirchen-a-6d234670-cff0-4315-a781-c46e0a0afcb1#ref=rss)
-### aufrüstung
-
-* [https://www.spiegel.de/politik/deutschland/aufruestung-deutschlands-riskanter-weg-zur-kriegstuechtigkeit-meinung](https://www.spiegel.de/politik/deutschland/aufruestung-deutschlands-riskanter-weg-zur-kriegstuechtigkeit-meinung-a-69ba3d60-8e08-44a3-883d-3824001770a7#ref=rss)
-### deutschlands
-
-* [https://www.spiegel.de/politik/deutschland/aufruestung-deutschlands-riskanter-weg-zur-kriegstuechtigkeit-meinung](https://www.spiegel.de/politik/deutschland/aufruestung-deutschlands-riskanter-weg-zur-kriegstuechtigkeit-meinung-a-69ba3d60-8e08-44a3-883d-3824001770a7#ref=rss)
-### sachsenanhalt
-
-* [https://www.spiegel.de/panorama/sachsen-anhalt-jugendlicher-wirft-fahrrad-vor-einfahrenden-zug](https://www.spiegel.de/panorama/sachsen-anhalt-jugendlicher-wirft-fahrrad-vor-einfahrenden-zug-a-8cf2819a-653d-4c44-8f6a-39eddc7a003e#ref=rss)
-### zug
-
-* [https://www.spiegel.de/panorama/sachsen-anhalt-jugendlicher-wirft-fahrrad-vor-einfahrenden-zug](https://www.spiegel.de/panorama/sachsen-anhalt-jugendlicher-wirft-fahrrad-vor-einfahrenden-zug-a-8cf2819a-653d-4c44-8f6a-39eddc7a003e#ref=rss)
-### fürth
-
-* [https://www.spiegel.de/panorama/fuerth-nachbar-haelt-einbrecher-im-haus-einer-78-jaehrigen-fest](https://www.spiegel.de/panorama/fuerth-nachbar-haelt-einbrecher-im-haus-einer-78-jaehrigen-fest-a-e02c1809-8a20-456c-ad20-64b476ff39cc#ref=rss)
-### festgenommen
-
-* [https://www.spiegel.de/sport/fussball/ligue-1-fussballfan-nach-muenzwurf-auf-linienrichter-festgenommen](https://www.spiegel.de/sport/fussball/ligue-1-fussballfan-nach-muenzwurf-auf-linienrichter-festgenommen-a-0f3ecaf3-e194-4fda-812c-ea52720c9c0f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hessen-zwei-verdaechtige-nach-toedlichen-schuessen-in-bad-nauheim-gefasst](https://www.spiegel.de/panorama/justiz/hessen-zwei-verdaechtige-nach-toedlichen-schuessen-in-bad-nauheim-gefasst-a-4936bdb7-d527-4761-9548-8525f4f8c259#ref=rss)
-### junge
-
-* [https://www.spiegel.de/panorama/ost-identitaet-in-sachsen-junge-bloggerinnen-aus-goerlitz-erklaeren-ostdeutschland](https://www.spiegel.de/panorama/ost-identitaet-in-sachsen-junge-bloggerinnen-aus-goerlitz-erklaeren-ostdeutschland-a-86310893-1b26-41bc-a84f-afada73c3736#ref=rss)
-### dresden
-
-* [https://www.spiegel.de/panorama/dresden-22-jaehriger-stuerzt-fuenf-meter-in-gullyschacht-polizei-ermittelt-wegen-fahrlaessiger-koerperverletzung](https://www.spiegel.de/panorama/dresden-22-jaehriger-stuerzt-fuenf-meter-in-gullyschacht-polizei-ermittelt-wegen-fahrlaessiger-koerperverletzung-a-912ffdd6-8256-4394-b1d7-6d223af1e36a#ref=rss)
-### dovilė
-
-* [https://www.spiegel.de/ausland/litauen-ministerin-dovil-sakalien-sieht-in-deutschland-eine-moegliche-neue-schutzmacht](https://www.spiegel.de/ausland/litauen-ministerin-dovil-sakalien-sieht-in-deutschland-eine-moegliche-neue-schutzmacht-a-cb44526e-3f40-4f5f-8b03-ce3d6d8a4ec3#ref=rss)
-### šakalienė
-
-* [https://www.spiegel.de/ausland/litauen-ministerin-dovil-sakalien-sieht-in-deutschland-eine-moegliche-neue-schutzmacht](https://www.spiegel.de/ausland/litauen-ministerin-dovil-sakalien-sieht-in-deutschland-eine-moegliche-neue-schutzmacht-a-cb44526e-3f40-4f5f-8b03-ce3d6d8a4ec3#ref=rss)
-### sieht
-
-* [https://www.spiegel.de/ausland/litauen-ministerin-dovil-sakalien-sieht-in-deutschland-eine-moegliche-neue-schutzmacht](https://www.spiegel.de/ausland/litauen-ministerin-dovil-sakalien-sieht-in-deutschland-eine-moegliche-neue-schutzmacht-a-cb44526e-3f40-4f5f-8b03-ce3d6d8a4ec3#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/erbe-aus-der-kolonialzeit-oxford-gelehrte-tranken-viele-jahre-aus-menschlichem-schaedel](https://www.spiegel.de/wissenschaft/mensch/erbe-aus-der-kolonialzeit-oxford-gelehrte-tranken-viele-jahre-aus-menschlichem-schaedel-a-a4f4ea7b-d7d4-4672-901d-4045489f4f2a#ref=rss)
+* [https://www.spiegel.de/panorama/leute/norwegen-koenigin-sonja-mit-atembeschwerden-ins-krankenhaus-gebracht](https://www.spiegel.de/panorama/leute/norwegen-koenigin-sonja-mit-atembeschwerden-ins-krankenhaus-gebracht-a-fac539a4-6bd3-48db-ac3c-12e5055260cd#ref=rss)
+* [https://www.spiegel.de/panorama/moewensee-bei-nordhausen-21-jaehriger-beim-schwimmen-verschwunden](https://www.spiegel.de/panorama/moewensee-bei-nordhausen-21-jaehriger-beim-schwimmen-verschwunden-a-da9db0ab-737a-4a85-aa49-e4fb51037588#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/ausland/litauen-ministerin-dovil-sakalien-sieht-in-deutschland-eine-moegliche-neue-schutzmacht](https://www.spiegel.de/ausland/litauen-ministerin-dovil-sakalien-sieht-in-deutschland-eine-moegliche-neue-schutzmacht-a-cb44526e-3f40-4f5f-8b03-ce3d6d8a4ec3#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/sternschnuppen-erwartet-meteorstrom-der-lyriden-erreicht-seinen-hoehepunkt](https://www.spiegel.de/wissenschaft/weltall/sternschnuppen-erwartet-meteorstrom-der-lyriden-erreicht-seinen-hoehepunkt-a-2eaa173f-b4e3-4e9e-9efb-76c5e4d79586#ref=rss)
+* [https://www.spiegel.de/wirtschaft/flugzeugungluecke-mehr-unfaelle-in-deutschland-aber-weniger-todesopfer](https://www.spiegel.de/wirtschaft/flugzeugungluecke-mehr-unfaelle-in-deutschland-aber-weniger-todesopfer-a-bb938004-c09e-4e5a-8e4c-d39e28ba0cc9#ref=rss)
+### staatschefs
+
+* [https://www.spiegel.de/panorama/papst-franziskus-milei-von-der-leyen-macron-trump-selenskyj-kommen-zur-beisetzung](https://www.spiegel.de/panorama/papst-franziskus-milei-von-der-leyen-macron-trump-selenskyj-kommen-zur-beisetzung-a-e2d66c1d-3de6-447c-a1dd-fa57486a7531#ref=rss)
+* [https://www.spiegel.de/panorama/papst-franziskus-news-so-reagiert-die-welt-auf-den-tod-von-franziskus](https://www.spiegel.de/panorama/papst-franziskus-news-so-reagiert-die-welt-auf-den-tod-von-franziskus-a-4ade81cc-7ad5-4859-bec6-81483aa56cc7#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/moewensee-bei-nordhausen-21-jaehriger-beim-schwimmen-verschwunden](https://www.spiegel.de/panorama/moewensee-bei-nordhausen-21-jaehriger-beim-schwimmen-verschwunden-a-da9db0ab-737a-4a85-aa49-e4fb51037588#ref=rss)
+* [https://www.spiegel.de/panorama/israel-mann-nach-baden-im-mittelmeer-vermisst-polizei-befuerchtet-toedliche-hai-attacke](https://www.spiegel.de/panorama/israel-mann-nach-baden-im-mittelmeer-vermisst-polizei-befuerchtet-toedliche-hai-attacke-a-fb5bba21-58d9-49df-8286-81565e80684e#ref=rss)
+### clooney
+
+* [https://www.spiegel.de/panorama/leute/george-clooney-und-amal-clooney-streiten-nie-sagt-der-schauspieler](https://www.spiegel.de/panorama/leute/george-clooney-und-amal-clooney-streiten-nie-sagt-der-schauspieler-a-f57a8265-3ef8-4a12-8119-e010128f564e#ref=rss)
+### wir
+
+* [https://www.spiegel.de/reise/urlaub-buchen-warum-wir-unsere-entscheidungen-nicht-immer-auf-bewertungen-stuetzen-sollten](https://www.spiegel.de/reise/urlaub-buchen-warum-wir-unsere-entscheidungen-nicht-immer-auf-bewertungen-stuetzen-sollten-a-8df83500-7023-43b1-bd08-af8193ce5e2e#ref=rss)
+### fußball
+
+* [https://www.spiegel.de/sport/fussball/fussball-uefa-schuettet-rekordsumme-an-klubs-aus](https://www.spiegel.de/sport/fussball/fussball-uefa-schuettet-rekordsumme-an-klubs-aus-a-6c61a30d-b74e-4e8f-8cbd-b841acae3a0c#ref=rss)
+* [https://www.spiegel.de/ausland/argentinien-trauert-um-papst-franziskus-sogar-der-fussball-ruht](https://www.spiegel.de/ausland/argentinien-trauert-um-papst-franziskus-sogar-der-fussball-ruht-a-db37acbb-64e9-48b6-8e69-06323077a5e3#ref=rss)
+### uefa
+
+* [https://www.spiegel.de/sport/fussball/fussball-uefa-schuettet-rekordsumme-an-klubs-aus](https://www.spiegel.de/sport/fussball/fussball-uefa-schuettet-rekordsumme-an-klubs-aus-a-6c61a30d-b74e-4e8f-8cbd-b841acae3a0c#ref=rss)
+### klubs
+
+* [https://www.spiegel.de/sport/fussball/fussball-uefa-schuettet-rekordsumme-an-klubs-aus](https://www.spiegel.de/sport/fussball/fussball-uefa-schuettet-rekordsumme-an-klubs-aus-a-6c61a30d-b74e-4e8f-8cbd-b841acae3a0c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/almuth-schult-ex-torhueterin-kritisiert-vereine-wegen-vorbehalten-gegenueber-muettern](https://www.spiegel.de/sport/fussball/almuth-schult-ex-torhueterin-kritisiert-vereine-wegen-vorbehalten-gegenueber-muettern-a-039b5e01-4db8-4507-989c-349c7217980a#ref=rss)
+### euro
+
+* [https://www.spiegel.de/sport/fussball/fussball-uefa-schuettet-rekordsumme-an-klubs-aus](https://www.spiegel.de/sport/fussball/fussball-uefa-schuettet-rekordsumme-an-klubs-aus-a-6c61a30d-b74e-4e8f-8cbd-b841acae3a0c#ref=rss)
+* [https://www.spiegel.de/auto/fahrberichte/dacia-bigster-im-test-big-ist-das-neue-billig](https://www.spiegel.de/auto/fahrberichte/dacia-bigster-im-test-big-ist-das-neue-billig-a-eb818853-ca15-45f4-8ec1-68c052e60a30#ref=rss)
+### zuletzt
+
+* [https://www.spiegel.de/sport/fussball/fussball-uefa-schuettet-rekordsumme-an-klubs-aus](https://www.spiegel.de/sport/fussball/fussball-uefa-schuettet-rekordsumme-an-klubs-aus-a-6c61a30d-b74e-4e8f-8cbd-b841acae3a0c#ref=rss)
+* [https://www.spiegel.de/ausland/argentinien-trauert-um-papst-franziskus-sogar-der-fussball-ruht](https://www.spiegel.de/ausland/argentinien-trauert-um-papst-franziskus-sogar-der-fussball-ruht-a-db37acbb-64e9-48b6-8e69-06323077a5e3#ref=rss)
+### bekommen
+
+* [https://www.spiegel.de/sport/fussball/fussball-uefa-schuettet-rekordsumme-an-klubs-aus](https://www.spiegel.de/sport/fussball/fussball-uefa-schuettet-rekordsumme-an-klubs-aus-a-6c61a30d-b74e-4e8f-8cbd-b841acae3a0c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/mutterschutz-fuer-selbststaendige-bundesregierung-plant-reform-fuer-mehr-unterstuetzung](https://www.spiegel.de/wirtschaft/mutterschutz-fuer-selbststaendige-bundesregierung-plant-reform-fuer-mehr-unterstuetzung-a-11665cfc-232f-4db9-8f0e-d426a655de04#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/wissenschaft/mensch/erbe-aus-der-kolonialzeit-oxford-gelehrte-tranken-viele-jahre-aus-menschlichem-schaedel](https://www.spiegel.de/wissenschaft/mensch/erbe-aus-der-kolonialzeit-oxford-gelehrte-tranken-viele-jahre-aus-menschlichem-schaedel-a-a4f4ea7b-d7d4-4672-901d-4045489f4f2a#ref=rss)
+* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-fuehrt-detroit-pistons-zum-ersten-playoff-sieg-seit-17-jahren](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-fuehrt-detroit-pistons-zum-ersten-playoff-sieg-seit-17-jahren-a-c22d7aba-23b6-4e1c-b634-d0186a3119f2#ref=rss)
+### sternschnuppen
+
+* [https://www.spiegel.de/wissenschaft/weltall/sternschnuppen-erwartet-meteorstrom-der-lyriden-erreicht-seinen-hoehepunkt](https://www.spiegel.de/wissenschaft/weltall/sternschnuppen-erwartet-meteorstrom-der-lyriden-erreicht-seinen-hoehepunkt-a-2eaa173f-b4e3-4e9e-9efb-76c5e4d79586#ref=rss)
+### erwartet
+
+* [https://www.spiegel.de/wissenschaft/weltall/sternschnuppen-erwartet-meteorstrom-der-lyriden-erreicht-seinen-hoehepunkt](https://www.spiegel.de/wissenschaft/weltall/sternschnuppen-erwartet-meteorstrom-der-lyriden-erreicht-seinen-hoehepunkt-a-2eaa173f-b4e3-4e9e-9efb-76c5e4d79586#ref=rss)
+### meteorstrom
+
+* [https://www.spiegel.de/wissenschaft/weltall/sternschnuppen-erwartet-meteorstrom-der-lyriden-erreicht-seinen-hoehepunkt](https://www.spiegel.de/wissenschaft/weltall/sternschnuppen-erwartet-meteorstrom-der-lyriden-erreicht-seinen-hoehepunkt-a-2eaa173f-b4e3-4e9e-9efb-76c5e4d79586#ref=rss)
+### lyriden
+
+* [https://www.spiegel.de/wissenschaft/weltall/sternschnuppen-erwartet-meteorstrom-der-lyriden-erreicht-seinen-hoehepunkt](https://www.spiegel.de/wissenschaft/weltall/sternschnuppen-erwartet-meteorstrom-der-lyriden-erreicht-seinen-hoehepunkt-a-2eaa173f-b4e3-4e9e-9efb-76c5e4d79586#ref=rss)
+### erreicht
+
+* [https://www.spiegel.de/wissenschaft/weltall/sternschnuppen-erwartet-meteorstrom-der-lyriden-erreicht-seinen-hoehepunkt](https://www.spiegel.de/wissenschaft/weltall/sternschnuppen-erwartet-meteorstrom-der-lyriden-erreicht-seinen-hoehepunkt-a-2eaa173f-b4e3-4e9e-9efb-76c5e4d79586#ref=rss)
+* [https://www.spiegel.de/wirtschaft/goldpreis-erreicht-erstmals-3500-dollar-nach-attacke-von-donald-trump-gegen-fed-chef](https://www.spiegel.de/wirtschaft/goldpreis-erreicht-erstmals-3500-dollar-nach-attacke-von-donald-trump-gegen-fed-chef-a-f31d8bdc-e771-4a4a-ba1e-2eb7c8b6eac6#ref=rss)
+### milei
+
+* [https://www.spiegel.de/panorama/papst-franziskus-milei-von-der-leyen-macron-trump-selenskyj-kommen-zur-beisetzung](https://www.spiegel.de/panorama/papst-franziskus-milei-von-der-leyen-macron-trump-selenskyj-kommen-zur-beisetzung-a-e2d66c1d-3de6-447c-a1dd-fa57486a7531#ref=rss)
+* [https://www.spiegel.de/ausland/argentinien-trauert-um-papst-franziskus-sogar-der-fussball-ruht](https://www.spiegel.de/ausland/argentinien-trauert-um-papst-franziskus-sogar-der-fussball-ruht-a-db37acbb-64e9-48b6-8e69-06323077a5e3#ref=rss)
+### selenskyj
+
+* [https://www.spiegel.de/panorama/papst-franziskus-milei-von-der-leyen-macron-trump-selenskyj-kommen-zur-beisetzung](https://www.spiegel.de/panorama/papst-franziskus-milei-von-der-leyen-macron-trump-selenskyj-kommen-zur-beisetzung-a-e2d66c1d-3de6-447c-a1dd-fa57486a7531#ref=rss)
+* [https://www.spiegel.de/panorama/papst-franziskus-news-so-reagiert-die-welt-auf-den-tod-von-franziskus](https://www.spiegel.de/panorama/papst-franziskus-news-so-reagiert-die-welt-auf-den-tod-von-franziskus-a-4ade81cc-7ad5-4859-bec6-81483aa56cc7#ref=rss)
+### beisetzung
+
+* [https://www.spiegel.de/panorama/papst-franziskus-milei-von-der-leyen-macron-trump-selenskyj-kommen-zur-beisetzung](https://www.spiegel.de/panorama/papst-franziskus-milei-von-der-leyen-macron-trump-selenskyj-kommen-zur-beisetzung-a-e2d66c1d-3de6-447c-a1dd-fa57486a7531#ref=rss)
+* [https://www.spiegel.de/panorama/papst-franziskus-news-so-reagiert-die-welt-auf-den-tod-von-franziskus](https://www.spiegel.de/panorama/papst-franziskus-news-so-reagiert-die-welt-auf-den-tod-von-franziskus-a-4ade81cc-7ad5-4859-bec6-81483aa56cc7#ref=rss)
+### samstag
+
+* [https://www.spiegel.de/panorama/papst-franziskus-milei-von-der-leyen-macron-trump-selenskyj-kommen-zur-beisetzung](https://www.spiegel.de/panorama/papst-franziskus-milei-von-der-leyen-macron-trump-selenskyj-kommen-zur-beisetzung-a-e2d66c1d-3de6-447c-a1dd-fa57486a7531#ref=rss)
+* [https://www.spiegel.de/panorama/papst-franziskus-news-so-reagiert-die-welt-auf-den-tod-von-franziskus](https://www.spiegel.de/panorama/papst-franziskus-news-so-reagiert-die-welt-auf-den-tod-von-franziskus-a-4ade81cc-7ad5-4859-bec6-81483aa56cc7#ref=rss)
+### zahlreiche
+
+* [https://www.spiegel.de/panorama/papst-franziskus-milei-von-der-leyen-macron-trump-selenskyj-kommen-zur-beisetzung](https://www.spiegel.de/panorama/papst-franziskus-milei-von-der-leyen-macron-trump-selenskyj-kommen-zur-beisetzung-a-e2d66c1d-3de6-447c-a1dd-fa57486a7531#ref=rss)
+* [https://www.spiegel.de/panorama/papst-franziskus-news-so-reagiert-die-welt-auf-den-tod-von-franziskus](https://www.spiegel.de/panorama/papst-franziskus-news-so-reagiert-die-welt-auf-den-tod-von-franziskus-a-4ade81cc-7ad5-4859-bec6-81483aa56cc7#ref=rss)
+### angekündigt
+
+* [https://www.spiegel.de/panorama/papst-franziskus-milei-von-der-leyen-macron-trump-selenskyj-kommen-zur-beisetzung](https://www.spiegel.de/panorama/papst-franziskus-milei-von-der-leyen-macron-trump-selenskyj-kommen-zur-beisetzung-a-e2d66c1d-3de6-447c-a1dd-fa57486a7531#ref=rss)
+* [https://www.spiegel.de/panorama/papst-franziskus-news-so-reagiert-die-welt-auf-den-tod-von-franziskus](https://www.spiegel.de/panorama/papst-franziskus-news-so-reagiert-die-welt-auf-den-tod-von-franziskus-a-4ade81cc-7ad5-4859-bec6-81483aa56cc7#ref=rss)
+### julia
+
+* [https://www.spiegel.de/politik/deutschland/julia-kloeckner-schelte-fuer-kirchenkritik-von-andreas-audretsch-und-spd-generalsekretaer-matthias-miersch-thorsten-frei-haelt-dagegen](https://www.spiegel.de/politik/deutschland/julia-kloeckner-schelte-fuer-kirchenkritik-von-andreas-audretsch-und-spd-generalsekretaer-matthias-miersch-thorsten-frei-haelt-dagegen-a-377507df-4cbd-4067-9990-d50f9f80d7f3#ref=rss)
+### klöckner
+
+* [https://www.spiegel.de/politik/deutschland/julia-kloeckner-schelte-fuer-kirchenkritik-von-andreas-audretsch-und-spd-generalsekretaer-matthias-miersch-thorsten-frei-haelt-dagegen](https://www.spiegel.de/politik/deutschland/julia-kloeckner-schelte-fuer-kirchenkritik-von-andreas-audretsch-und-spd-generalsekretaer-matthias-miersch-thorsten-frei-haelt-dagegen-a-377507df-4cbd-4067-9990-d50f9f80d7f3#ref=rss)
+### kirchenkritik
+
+* [https://www.spiegel.de/politik/deutschland/julia-kloeckner-schelte-fuer-kirchenkritik-von-andreas-audretsch-und-spd-generalsekretaer-matthias-miersch-thorsten-frei-haelt-dagegen](https://www.spiegel.de/politik/deutschland/julia-kloeckner-schelte-fuer-kirchenkritik-von-andreas-audretsch-und-spd-generalsekretaer-matthias-miersch-thorsten-frei-haelt-dagegen-a-377507df-4cbd-4067-9990-d50f9f80d7f3#ref=rss)
+### audretsch
+
+* [https://www.spiegel.de/politik/deutschland/julia-kloeckner-schelte-fuer-kirchenkritik-von-andreas-audretsch-und-spd-generalsekretaer-matthias-miersch-thorsten-frei-haelt-dagegen](https://www.spiegel.de/politik/deutschland/julia-kloeckner-schelte-fuer-kirchenkritik-von-andreas-audretsch-und-spd-generalsekretaer-matthias-miersch-thorsten-frei-haelt-dagegen-a-377507df-4cbd-4067-9990-d50f9f80d7f3#ref=rss)
+### spdgeneralsekretär
+
+* [https://www.spiegel.de/politik/deutschland/julia-kloeckner-schelte-fuer-kirchenkritik-von-andreas-audretsch-und-spd-generalsekretaer-matthias-miersch-thorsten-frei-haelt-dagegen](https://www.spiegel.de/politik/deutschland/julia-kloeckner-schelte-fuer-kirchenkritik-von-andreas-audretsch-und-spd-generalsekretaer-matthias-miersch-thorsten-frei-haelt-dagegen-a-377507df-4cbd-4067-9990-d50f9f80d7f3#ref=rss)
+### miersch
+
+* [https://www.spiegel.de/politik/deutschland/julia-kloeckner-schelte-fuer-kirchenkritik-von-andreas-audretsch-und-spd-generalsekretaer-matthias-miersch-thorsten-frei-haelt-dagegen](https://www.spiegel.de/politik/deutschland/julia-kloeckner-schelte-fuer-kirchenkritik-von-andreas-audretsch-und-spd-generalsekretaer-matthias-miersch-thorsten-frei-haelt-dagegen-a-377507df-4cbd-4067-9990-d50f9f80d7f3#ref=rss)
+### frei
+
+* [https://www.spiegel.de/politik/deutschland/julia-kloeckner-schelte-fuer-kirchenkritik-von-andreas-audretsch-und-spd-generalsekretaer-matthias-miersch-thorsten-frei-haelt-dagegen](https://www.spiegel.de/politik/deutschland/julia-kloeckner-schelte-fuer-kirchenkritik-von-andreas-audretsch-und-spd-generalsekretaer-matthias-miersch-thorsten-frei-haelt-dagegen-a-377507df-4cbd-4067-9990-d50f9f80d7f3#ref=rss)
+### dagegen
+
+* [https://www.spiegel.de/politik/deutschland/julia-kloeckner-schelte-fuer-kirchenkritik-von-andreas-audretsch-und-spd-generalsekretaer-matthias-miersch-thorsten-frei-haelt-dagegen](https://www.spiegel.de/politik/deutschland/julia-kloeckner-schelte-fuer-kirchenkritik-von-andreas-audretsch-und-spd-generalsekretaer-matthias-miersch-thorsten-frei-haelt-dagegen-a-377507df-4cbd-4067-9990-d50f9f80d7f3#ref=rss)
+### zieht
+
+* [https://www.spiegel.de/politik/deutschland/julia-kloeckner-schelte-fuer-kirchenkritik-von-andreas-audretsch-und-spd-generalsekretaer-matthias-miersch-thorsten-frei-haelt-dagegen](https://www.spiegel.de/politik/deutschland/julia-kloeckner-schelte-fuer-kirchenkritik-von-andreas-audretsch-und-spd-generalsekretaer-matthias-miersch-thorsten-frei-haelt-dagegen-a-377507df-4cbd-4067-9990-d50f9f80d7f3#ref=rss)
+* [https://www.spiegel.de/wissenschaft/wie-china-die-usa-in-der-wissenschaft-ueberholen-moechte](https://www.spiegel.de/wissenschaft/wie-china-die-usa-in-der-wissenschaft-ueberholen-moechte-a-9c3f785c-a122-4a18-a582-cd95d86c638e#ref=rss)
+### gary
+
+* [https://www.spiegel.de/sport/fussball/fussballmoderator-gary-lineker-fuehlt-sich-von-der-bbc-nicht-mehr-gemocht](https://www.spiegel.de/sport/fussball/fussballmoderator-gary-lineker-fuehlt-sich-von-der-bbc-nicht-mehr-gemocht-a-0bcd64ca-457f-4ffd-85fc-f5a168dd5624#ref=rss)
+### lineker
+
+* [https://www.spiegel.de/sport/fussball/fussballmoderator-gary-lineker-fuehlt-sich-von-der-bbc-nicht-mehr-gemocht](https://www.spiegel.de/sport/fussball/fussballmoderator-gary-lineker-fuehlt-sich-von-der-bbc-nicht-mehr-gemocht-a-0bcd64ca-457f-4ffd-85fc-f5a168dd5624#ref=rss)
+### bbc
+
+* [https://www.spiegel.de/sport/fussball/fussballmoderator-gary-lineker-fuehlt-sich-von-der-bbc-nicht-mehr-gemocht](https://www.spiegel.de/sport/fussball/fussballmoderator-gary-lineker-fuehlt-sich-von-der-bbc-nicht-mehr-gemocht-a-0bcd64ca-457f-4ffd-85fc-f5a168dd5624#ref=rss)
+### österreich
+
+* [https://www.spiegel.de/ausland/oesterreich-fpoe-fordert-untersuchung-zum-mysterioesen-tod-eines-justizbeamten](https://www.spiegel.de/ausland/oesterreich-fpoe-fordert-untersuchung-zum-mysterioesen-tod-eines-justizbeamten-a-a9ca54c3-275f-4f83-a02d-1928465208f7#ref=rss)
+### fpö
+
+* [https://www.spiegel.de/ausland/oesterreich-fpoe-fordert-untersuchung-zum-mysterioesen-tod-eines-justizbeamten](https://www.spiegel.de/ausland/oesterreich-fpoe-fordert-untersuchung-zum-mysterioesen-tod-eines-justizbeamten-a-a9ca54c3-275f-4f83-a02d-1928465208f7#ref=rss)
+### untersuchung
+
+* [https://www.spiegel.de/ausland/oesterreich-fpoe-fordert-untersuchung-zum-mysterioesen-tod-eines-justizbeamten](https://www.spiegel.de/ausland/oesterreich-fpoe-fordert-untersuchung-zum-mysterioesen-tod-eines-justizbeamten-a-a9ca54c3-275f-4f83-a02d-1928465208f7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-usa-verhaengen-bis-zu-3521-prozent-zoelle-auf-solarpanele](https://www.spiegel.de/wirtschaft/donald-trump-usa-verhaengen-bis-zu-3521-prozent-zoelle-auf-solarpanele-a-258a1dcf-82c9-45f0-93bd-4e2d8a6d45f8#ref=rss)
+### tod
+
+* [https://www.spiegel.de/ausland/oesterreich-fpoe-fordert-untersuchung-zum-mysterioesen-tod-eines-justizbeamten](https://www.spiegel.de/ausland/oesterreich-fpoe-fordert-untersuchung-zum-mysterioesen-tod-eines-justizbeamten-a-a9ca54c3-275f-4f83-a02d-1928465208f7#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-internationale-medien-aeussern-sich-zum-tod-des-oberhaupts-der-katholischen-kirche](https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-internationale-medien-aeussern-sich-zum-tod-des-oberhaupts-der-katholischen-kirche-a-b55bdec7-ea93-455b-a1f5-70aaa9471e8a#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/ausland/oesterreich-fpoe-fordert-untersuchung-zum-mysterioesen-tod-eines-justizbeamten](https://www.spiegel.de/ausland/oesterreich-fpoe-fordert-untersuchung-zum-mysterioesen-tod-eines-justizbeamten-a-a9ca54c3-275f-4f83-a02d-1928465208f7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-union-sieht-keine-trendwende-bei-puenktlichkeit-der-fernzuege](https://www.spiegel.de/wirtschaft/deutsche-bahn-union-sieht-keine-trendwende-bei-puenktlichkeit-der-fernzuege-a-b298039e-671c-474b-a759-6df5e5ce8990#ref=rss)
+### fall
+
+* [https://www.spiegel.de/ausland/oesterreich-fpoe-fordert-untersuchung-zum-mysterioesen-tod-eines-justizbeamten](https://www.spiegel.de/ausland/oesterreich-fpoe-fordert-untersuchung-zum-mysterioesen-tod-eines-justizbeamten-a-a9ca54c3-275f-4f83-a02d-1928465208f7#ref=rss)
+* [https://www.spiegel.de/ausland/el-salvador-weitere-us-demokraten-im-fall-kilmar-abrego-garcia-vor-ort-druck-auf-donald-trump](https://www.spiegel.de/ausland/el-salvador-weitere-us-demokraten-im-fall-kilmar-abrego-garcia-vor-ort-druck-auf-donald-trump-a-8fd570c3-836e-4a7c-9e7b-9ed5d928d99e#ref=rss)
+### roche
+
+* [https://www.spiegel.de/wirtschaft/roche-50-milliarden-dollar-investition-in-den-usa-geplant](https://www.spiegel.de/wirtschaft/roche-50-milliarden-dollar-investition-in-den-usa-geplant-a-4e829867-8362-41cb-9f27-5ce6d7220853#ref=rss)
+### gehen
+
+* [https://www.spiegel.de/wirtschaft/roche-50-milliarden-dollar-investition-in-den-usa-geplant](https://www.spiegel.de/wirtschaft/roche-50-milliarden-dollar-investition-in-den-usa-geplant-a-4e829867-8362-41cb-9f27-5ce6d7220853#ref=rss)
+* [https://www.spiegel.de/reise/urlaub-buchen-warum-wir-unsere-entscheidungen-nicht-immer-auf-bewertungen-stuetzen-sollten](https://www.spiegel.de/reise/urlaub-buchen-warum-wir-unsere-entscheidungen-nicht-immer-auf-bewertungen-stuetzen-sollten-a-8df83500-7023-43b1-bd08-af8193ce5e2e#ref=rss)
+### china
+
+* [https://www.spiegel.de/wissenschaft/wie-china-die-usa-in-der-wissenschaft-ueberholen-moechte](https://www.spiegel.de/wissenschaft/wie-china-die-usa-in-der-wissenschaft-ueberholen-moechte-a-9c3f785c-a122-4a18-a582-cd95d86c638e#ref=rss)
+### medien
+
+* [https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-internationale-medien-aeussern-sich-zum-tod-des-oberhaupts-der-katholischen-kirche](https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-internationale-medien-aeussern-sich-zum-tod-des-oberhaupts-der-katholischen-kirche-a-b55bdec7-ea93-455b-a1f5-70aaa9471e8a#ref=rss)
+### usverteidigungsminister
+
+* [https://www.spiegel.de/ausland/pete-hegseth-us-verteidigungsminister-beschimpft-journalisten-beim-kinder-osterfest](https://www.spiegel.de/ausland/pete-hegseth-us-verteidigungsminister-beschimpft-journalisten-beim-kinder-osterfest-a-2c835402-8ba6-47d5-875d-686272d055ba#ref=rss)
+### beschimpft
+
+* [https://www.spiegel.de/ausland/pete-hegseth-us-verteidigungsminister-beschimpft-journalisten-beim-kinder-osterfest](https://www.spiegel.de/ausland/pete-hegseth-us-verteidigungsminister-beschimpft-journalisten-beim-kinder-osterfest-a-2c835402-8ba6-47d5-875d-686272d055ba#ref=rss)
+### journalisten
+
+* [https://www.spiegel.de/ausland/pete-hegseth-us-verteidigungsminister-beschimpft-journalisten-beim-kinder-osterfest](https://www.spiegel.de/ausland/pete-hegseth-us-verteidigungsminister-beschimpft-journalisten-beim-kinder-osterfest-a-2c835402-8ba6-47d5-875d-686272d055ba#ref=rss)
+### stand
+
+* [https://www.spiegel.de/ausland/pete-hegseth-us-verteidigungsminister-beschimpft-journalisten-beim-kinder-osterfest](https://www.spiegel.de/ausland/pete-hegseth-us-verteidigungsminister-beschimpft-journalisten-beim-kinder-osterfest-a-2c835402-8ba6-47d5-875d-686272d055ba#ref=rss)
+* [https://www.spiegel.de/ausland/argentinien-trauert-um-papst-franziskus-sogar-der-fussball-ruht](https://www.spiegel.de/ausland/argentinien-trauert-um-papst-franziskus-sogar-der-fussball-ruht-a-db37acbb-64e9-48b6-8e69-06323077a5e3#ref=rss)
+### adolescence
+
+* [https://www.spiegel.de/familie/adolescence-so-koennen-sie-mit-ihren-kindern-ueber-die-netflix-serie-sprechen](https://www.spiegel.de/familie/adolescence-so-koennen-sie-mit-ihren-kindern-ueber-die-netflix-serie-sprechen-a-61e28434-1134-417a-88f3-7b82076ca7d4#ref=rss)
+### sollten
+
+* [https://www.spiegel.de/familie/adolescence-so-koennen-sie-mit-ihren-kindern-ueber-die-netflix-serie-sprechen](https://www.spiegel.de/familie/adolescence-so-koennen-sie-mit-ihren-kindern-ueber-die-netflix-serie-sprechen-a-61e28434-1134-417a-88f3-7b82076ca7d4#ref=rss)
+* [https://www.spiegel.de/reise/urlaub-buchen-warum-wir-unsere-entscheidungen-nicht-immer-auf-bewertungen-stuetzen-sollten](https://www.spiegel.de/reise/urlaub-buchen-warum-wir-unsere-entscheidungen-nicht-immer-auf-bewertungen-stuetzen-sollten-a-8df83500-7023-43b1-bd08-af8193ce5e2e#ref=rss)
+### sehen
+
+* [https://www.spiegel.de/familie/adolescence-so-koennen-sie-mit-ihren-kindern-ueber-die-netflix-serie-sprechen](https://www.spiegel.de/familie/adolescence-so-koennen-sie-mit-ihren-kindern-ueber-die-netflix-serie-sprechen-a-61e28434-1134-417a-88f3-7b82076ca7d4#ref=rss)
+* [https://www.spiegel.de/panorama/moewensee-bei-nordhausen-21-jaehriger-beim-schwimmen-verschwunden](https://www.spiegel.de/panorama/moewensee-bei-nordhausen-21-jaehriger-beim-schwimmen-verschwunden-a-da9db0ab-737a-4a85-aa49-e4fb51037588#ref=rss)
+### almuth
+
+* [https://www.spiegel.de/sport/fussball/almuth-schult-ex-torhueterin-kritisiert-vereine-wegen-vorbehalten-gegenueber-muettern](https://www.spiegel.de/sport/fussball/almuth-schult-ex-torhueterin-kritisiert-vereine-wegen-vorbehalten-gegenueber-muettern-a-039b5e01-4db8-4507-989c-349c7217980a#ref=rss)
+### schult
+
+* [https://www.spiegel.de/sport/fussball/almuth-schult-ex-torhueterin-kritisiert-vereine-wegen-vorbehalten-gegenueber-muettern](https://www.spiegel.de/sport/fussball/almuth-schult-ex-torhueterin-kritisiert-vereine-wegen-vorbehalten-gegenueber-muettern-a-039b5e01-4db8-4507-989c-349c7217980a#ref=rss)
+### müttern
+
+* [https://www.spiegel.de/sport/fussball/almuth-schult-ex-torhueterin-kritisiert-vereine-wegen-vorbehalten-gegenueber-muettern](https://www.spiegel.de/sport/fussball/almuth-schult-ex-torhueterin-kritisiert-vereine-wegen-vorbehalten-gegenueber-muettern-a-039b5e01-4db8-4507-989c-349c7217980a#ref=rss)
+### zölle
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-usa-verhaengen-bis-zu-3521-prozent-zoelle-auf-solarpanele](https://www.spiegel.de/wirtschaft/donald-trump-usa-verhaengen-bis-zu-3521-prozent-zoelle-auf-solarpanele-a-258a1dcf-82c9-45f0-93bd-4e2d8a6d45f8#ref=rss)
+### unter
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-usa-verhaengen-bis-zu-3521-prozent-zoelle-auf-solarpanele](https://www.spiegel.de/wirtschaft/donald-trump-usa-verhaengen-bis-zu-3521-prozent-zoelle-auf-solarpanele-a-258a1dcf-82c9-45f0-93bd-4e2d8a6d45f8#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/ebay-trainiert-ki-ab-jetzt-mit-nutzerdaten-widerspruch-per-formular-moeglich](https://www.spiegel.de/netzwelt/web/ebay-trainiert-ki-ab-jetzt-mit-nutzerdaten-widerspruch-per-formular-moeglich-a-cd52490f-1f63-4fa6-b28b-f627f25df365#ref=rss)
+### ebay
+
+* [https://www.spiegel.de/netzwelt/web/ebay-trainiert-ki-ab-jetzt-mit-nutzerdaten-widerspruch-per-formular-moeglich](https://www.spiegel.de/netzwelt/web/ebay-trainiert-ki-ab-jetzt-mit-nutzerdaten-widerspruch-per-formular-moeglich-a-cd52490f-1f63-4fa6-b28b-f627f25df365#ref=rss)
+### nutzerdaten
+
+* [https://www.spiegel.de/netzwelt/web/ebay-trainiert-ki-ab-jetzt-mit-nutzerdaten-widerspruch-per-formular-moeglich](https://www.spiegel.de/netzwelt/web/ebay-trainiert-ki-ab-jetzt-mit-nutzerdaten-widerspruch-per-formular-moeglich-a-cd52490f-1f63-4fa6-b28b-f627f25df365#ref=rss)
+### widerspruch
+
+* [https://www.spiegel.de/netzwelt/web/ebay-trainiert-ki-ab-jetzt-mit-nutzerdaten-widerspruch-per-formular-moeglich](https://www.spiegel.de/netzwelt/web/ebay-trainiert-ki-ab-jetzt-mit-nutzerdaten-widerspruch-per-formular-moeglich-a-cd52490f-1f63-4fa6-b28b-f627f25df365#ref=rss)
+### norwegen
+
+* [https://www.spiegel.de/panorama/leute/norwegen-koenigin-sonja-mit-atembeschwerden-ins-krankenhaus-gebracht](https://www.spiegel.de/panorama/leute/norwegen-koenigin-sonja-mit-atembeschwerden-ins-krankenhaus-gebracht-a-fac539a4-6bd3-48db-ac3c-12e5055260cd#ref=rss)
+### königin
+
+* [https://www.spiegel.de/panorama/leute/norwegen-koenigin-sonja-mit-atembeschwerden-ins-krankenhaus-gebracht](https://www.spiegel.de/panorama/leute/norwegen-koenigin-sonja-mit-atembeschwerden-ins-krankenhaus-gebracht-a-fac539a4-6bd3-48db-ac3c-12e5055260cd#ref=rss)
+### sonja
+
+* [https://www.spiegel.de/panorama/leute/norwegen-koenigin-sonja-mit-atembeschwerden-ins-krankenhaus-gebracht](https://www.spiegel.de/panorama/leute/norwegen-koenigin-sonja-mit-atembeschwerden-ins-krankenhaus-gebracht-a-fac539a4-6bd3-48db-ac3c-12e5055260cd#ref=rss)
+### krankenhaus
+
+* [https://www.spiegel.de/panorama/leute/norwegen-koenigin-sonja-mit-atembeschwerden-ins-krankenhaus-gebracht](https://www.spiegel.de/panorama/leute/norwegen-koenigin-sonja-mit-atembeschwerden-ins-krankenhaus-gebracht-a-fac539a4-6bd3-48db-ac3c-12e5055260cd#ref=rss)
+### bsw
+
+* [https://www.spiegel.de/politik/deutschland/bsw-der-rachefeldzug-der-sahra-wagenknecht](https://www.spiegel.de/politik/deutschland/bsw-der-rachefeldzug-der-sahra-wagenknecht-a-67671106-a5fc-48d8-a705-8629dd72c9c3#ref=rss)
+### sahra
+
+* [https://www.spiegel.de/politik/deutschland/bsw-der-rachefeldzug-der-sahra-wagenknecht](https://www.spiegel.de/politik/deutschland/bsw-der-rachefeldzug-der-sahra-wagenknecht-a-67671106-a5fc-48d8-a705-8629dd72c9c3#ref=rss)
+### wagenknecht
+
+* [https://www.spiegel.de/politik/deutschland/bsw-der-rachefeldzug-der-sahra-wagenknecht](https://www.spiegel.de/politik/deutschland/bsw-der-rachefeldzug-der-sahra-wagenknecht-a-67671106-a5fc-48d8-a705-8629dd72c9c3#ref=rss)
+### unfälle
+
+* [https://www.spiegel.de/wirtschaft/flugzeugungluecke-mehr-unfaelle-in-deutschland-aber-weniger-todesopfer](https://www.spiegel.de/wirtschaft/flugzeugungluecke-mehr-unfaelle-in-deutschland-aber-weniger-todesopfer-a-bb938004-c09e-4e5a-8e4c-d39e28ba0cc9#ref=rss)
+### weniger
+
+* [https://www.spiegel.de/wirtschaft/flugzeugungluecke-mehr-unfaelle-in-deutschland-aber-weniger-todesopfer](https://www.spiegel.de/wirtschaft/flugzeugungluecke-mehr-unfaelle-in-deutschland-aber-weniger-todesopfer-a-bb938004-c09e-4e5a-8e4c-d39e28ba0cc9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/mutterschutz-fuer-selbststaendige-bundesregierung-plant-reform-fuer-mehr-unterstuetzung](https://www.spiegel.de/wirtschaft/mutterschutz-fuer-selbststaendige-bundesregierung-plant-reform-fuer-mehr-unterstuetzung-a-11665cfc-232f-4db9-8f0e-d426a655de04#ref=rss)
+### möwensee
+
+* [https://www.spiegel.de/panorama/moewensee-bei-nordhausen-21-jaehriger-beim-schwimmen-verschwunden](https://www.spiegel.de/panorama/moewensee-bei-nordhausen-21-jaehriger-beim-schwimmen-verschwunden-a-da9db0ab-737a-4a85-aa49-e4fb51037588#ref=rss)
+### schwimmen
+
+* [https://www.spiegel.de/panorama/moewensee-bei-nordhausen-21-jaehriger-beim-schwimmen-verschwunden](https://www.spiegel.de/panorama/moewensee-bei-nordhausen-21-jaehriger-beim-schwimmen-verschwunden-a-da9db0ab-737a-4a85-aa49-e4fb51037588#ref=rss)
+* [https://www.spiegel.de/panorama/israel-mann-nach-baden-im-mittelmeer-vermisst-polizei-befuerchtet-toedliche-hai-attacke](https://www.spiegel.de/panorama/israel-mann-nach-baden-im-mittelmeer-vermisst-polizei-befuerchtet-toedliche-hai-attacke-a-fb5bba21-58d9-49df-8286-81565e80684e#ref=rss)
+### verschwunden
+
+* [https://www.spiegel.de/panorama/moewensee-bei-nordhausen-21-jaehriger-beim-schwimmen-verschwunden](https://www.spiegel.de/panorama/moewensee-bei-nordhausen-21-jaehriger-beim-schwimmen-verschwunden-a-da9db0ab-737a-4a85-aa49-e4fb51037588#ref=rss)
+### suche
+
+* [https://www.spiegel.de/panorama/moewensee-bei-nordhausen-21-jaehriger-beim-schwimmen-verschwunden](https://www.spiegel.de/panorama/moewensee-bei-nordhausen-21-jaehriger-beim-schwimmen-verschwunden-a-da9db0ab-737a-4a85-aa49-e4fb51037588#ref=rss)
+* [https://www.spiegel.de/panorama/israel-mann-nach-baden-im-mittelmeer-vermisst-polizei-befuerchtet-toedliche-hai-attacke](https://www.spiegel.de/panorama/israel-mann-nach-baden-im-mittelmeer-vermisst-polizei-befuerchtet-toedliche-hai-attacke-a-fb5bba21-58d9-49df-8286-81565e80684e#ref=rss)
+### blieb
+
+* [https://www.spiegel.de/panorama/moewensee-bei-nordhausen-21-jaehriger-beim-schwimmen-verschwunden](https://www.spiegel.de/panorama/moewensee-bei-nordhausen-21-jaehriger-beim-schwimmen-verschwunden-a-da9db0ab-737a-4a85-aa49-e4fb51037588#ref=rss)
+* [https://www.spiegel.de/panorama/israel-mann-nach-baden-im-mittelmeer-vermisst-polizei-befuerchtet-toedliche-hai-attacke](https://www.spiegel.de/panorama/israel-mann-nach-baden-im-mittelmeer-vermisst-polizei-befuerchtet-toedliche-hai-attacke-a-fb5bba21-58d9-49df-8286-81565e80684e#ref=rss)
+### erfolglos
+
+* [https://www.spiegel.de/panorama/moewensee-bei-nordhausen-21-jaehriger-beim-schwimmen-verschwunden](https://www.spiegel.de/panorama/moewensee-bei-nordhausen-21-jaehriger-beim-schwimmen-verschwunden-a-da9db0ab-737a-4a85-aa49-e4fb51037588#ref=rss)
+* [https://www.spiegel.de/panorama/israel-mann-nach-baden-im-mittelmeer-vermisst-polizei-befuerchtet-toedliche-hai-attacke](https://www.spiegel.de/panorama/israel-mann-nach-baden-im-mittelmeer-vermisst-polizei-befuerchtet-toedliche-hai-attacke-a-fb5bba21-58d9-49df-8286-81565e80684e#ref=rss)
+### selbstständige
+
+* [https://www.spiegel.de/wirtschaft/mutterschutz-fuer-selbststaendige-bundesregierung-plant-reform-fuer-mehr-unterstuetzung](https://www.spiegel.de/wirtschaft/mutterschutz-fuer-selbststaendige-bundesregierung-plant-reform-fuer-mehr-unterstuetzung-a-11665cfc-232f-4db9-8f0e-d426a655de04#ref=rss)
+### bundesregierung
+
+* [https://www.spiegel.de/wirtschaft/mutterschutz-fuer-selbststaendige-bundesregierung-plant-reform-fuer-mehr-unterstuetzung](https://www.spiegel.de/wirtschaft/mutterschutz-fuer-selbststaendige-bundesregierung-plant-reform-fuer-mehr-unterstuetzung-a-11665cfc-232f-4db9-8f0e-d426a655de04#ref=rss)
+### unterstützung
+
+* [https://www.spiegel.de/wirtschaft/mutterschutz-fuer-selbststaendige-bundesregierung-plant-reform-fuer-mehr-unterstuetzung](https://www.spiegel.de/wirtschaft/mutterschutz-fuer-selbststaendige-bundesregierung-plant-reform-fuer-mehr-unterstuetzung-a-11665cfc-232f-4db9-8f0e-d426a655de04#ref=rss)
 ### neue
 
-* [https://www.spiegel.de/ausland/litauen-ministerin-dovil-sakalien-sieht-in-deutschland-eine-moegliche-neue-schutzmacht](https://www.spiegel.de/ausland/litauen-ministerin-dovil-sakalien-sieht-in-deutschland-eine-moegliche-neue-schutzmacht-a-cb44526e-3f40-4f5f-8b03-ce3d6d8a4ec3#ref=rss)
-### schutzmacht
+* [https://www.spiegel.de/wirtschaft/mutterschutz-fuer-selbststaendige-bundesregierung-plant-reform-fuer-mehr-unterstuetzung](https://www.spiegel.de/wirtschaft/mutterschutz-fuer-selbststaendige-bundesregierung-plant-reform-fuer-mehr-unterstuetzung-a-11665cfc-232f-4db9-8f0e-d426a655de04#ref=rss)
+* [https://www.spiegel.de/auto/fahrberichte/dacia-bigster-im-test-big-ist-das-neue-billig](https://www.spiegel.de/auto/fahrberichte/dacia-bigster-im-test-big-ist-das-neue-billig-a-eb818853-ca15-45f4-8ec1-68c052e60a30#ref=rss)
+### streit
 
-* [https://www.spiegel.de/ausland/litauen-ministerin-dovil-sakalien-sieht-in-deutschland-eine-moegliche-neue-schutzmacht](https://www.spiegel.de/ausland/litauen-ministerin-dovil-sakalien-sieht-in-deutschland-eine-moegliche-neue-schutzmacht-a-cb44526e-3f40-4f5f-8b03-ce3d6d8a4ec3#ref=rss)
-### klaus
+* [https://www.spiegel.de/panorama/leute/george-clooney-und-amal-clooney-streiten-nie-sagt-der-schauspieler](https://www.spiegel.de/panorama/leute/george-clooney-und-amal-clooney-streiten-nie-sagt-der-schauspieler-a-f57a8265-3ef8-4a12-8119-e010128f564e#ref=rss)
+* [https://www.spiegel.de/ausland/el-salvador-weitere-us-demokraten-im-fall-kilmar-abrego-garcia-vor-ort-druck-auf-donald-trump](https://www.spiegel.de/ausland/el-salvador-weitere-us-demokraten-im-fall-kilmar-abrego-garcia-vor-ort-druck-auf-donald-trump-a-8fd570c3-836e-4a7c-9e7b-9ed5d928d99e#ref=rss)
+### buchen
 
-* [https://www.spiegel.de/wirtschaft/weltwirtschaftsforum-gruender-klaus-schwab-tritt-zurueck](https://www.spiegel.de/wirtschaft/weltwirtschaftsforum-gruender-klaus-schwab-tritt-zurueck-a-b51e836a-09f2-4006-a877-90bd5383329e#ref=rss)
-### schwab
+* [https://www.spiegel.de/reise/urlaub-buchen-warum-wir-unsere-entscheidungen-nicht-immer-auf-bewertungen-stuetzen-sollten](https://www.spiegel.de/reise/urlaub-buchen-warum-wir-unsere-entscheidungen-nicht-immer-auf-bewertungen-stuetzen-sollten-a-8df83500-7023-43b1-bd08-af8193ce5e2e#ref=rss)
+### bewertungen
 
-* [https://www.spiegel.de/wirtschaft/weltwirtschaftsforum-gruender-klaus-schwab-tritt-zurueck](https://www.spiegel.de/wirtschaft/weltwirtschaftsforum-gruender-klaus-schwab-tritt-zurueck-a-b51e836a-09f2-4006-a877-90bd5383329e#ref=rss)
-### bad
+* [https://www.spiegel.de/reise/urlaub-buchen-warum-wir-unsere-entscheidungen-nicht-immer-auf-bewertungen-stuetzen-sollten](https://www.spiegel.de/reise/urlaub-buchen-warum-wir-unsere-entscheidungen-nicht-immer-auf-bewertungen-stuetzen-sollten-a-8df83500-7023-43b1-bd08-af8193ce5e2e#ref=rss)
+### stützen
 
-* [https://www.spiegel.de/panorama/justiz/hessen-zwei-verdaechtige-nach-toedlichen-schuessen-in-bad-nauheim-gefasst](https://www.spiegel.de/panorama/justiz/hessen-zwei-verdaechtige-nach-toedlichen-schuessen-in-bad-nauheim-gefasst-a-4936bdb7-d527-4761-9548-8525f4f8c259#ref=rss)
-### nauheim
+* [https://www.spiegel.de/reise/urlaub-buchen-warum-wir-unsere-entscheidungen-nicht-immer-auf-bewertungen-stuetzen-sollten](https://www.spiegel.de/reise/urlaub-buchen-warum-wir-unsere-entscheidungen-nicht-immer-auf-bewertungen-stuetzen-sollten-a-8df83500-7023-43b1-bd08-af8193ce5e2e#ref=rss)
+### dacia
 
-* [https://www.spiegel.de/panorama/justiz/hessen-zwei-verdaechtige-nach-toedlichen-schuessen-in-bad-nauheim-gefasst](https://www.spiegel.de/panorama/justiz/hessen-zwei-verdaechtige-nach-toedlichen-schuessen-in-bad-nauheim-gefasst-a-4936bdb7-d527-4761-9548-8525f4f8c259#ref=rss)
-### verdächtige
+* [https://www.spiegel.de/auto/fahrberichte/dacia-bigster-im-test-big-ist-das-neue-billig](https://www.spiegel.de/auto/fahrberichte/dacia-bigster-im-test-big-ist-das-neue-billig-a-eb818853-ca15-45f4-8ec1-68c052e60a30#ref=rss)
+### bigster
 
-* [https://www.spiegel.de/panorama/justiz/hessen-zwei-verdaechtige-nach-toedlichen-schuessen-in-bad-nauheim-gefasst](https://www.spiegel.de/panorama/justiz/hessen-zwei-verdaechtige-nach-toedlichen-schuessen-in-bad-nauheim-gefasst-a-4936bdb7-d527-4761-9548-8525f4f8c259#ref=rss)
-### google
+* [https://www.spiegel.de/auto/fahrberichte/dacia-bigster-im-test-big-ist-das-neue-billig](https://www.spiegel.de/auto/fahrberichte/dacia-bigster-im-test-big-ist-das-neue-billig-a-eb818853-ca15-45f4-8ec1-68c052e60a30#ref=rss)
+### dennis
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/google-us-gericht-verhandelt-ueber-moegliche-zerschlagung](https://www.spiegel.de/netzwelt/netzpolitik/google-us-gericht-verhandelt-ueber-moegliche-zerschlagung-a-0191732a-0f2a-4344-9489-1aa102b75e64#ref=rss)
+* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-fuehrt-detroit-pistons-zum-ersten-playoff-sieg-seit-17-jahren](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-fuehrt-detroit-pistons-zum-ersten-playoff-sieg-seit-17-jahren-a-c22d7aba-23b6-4e1c-b634-d0186a3119f2#ref=rss)
+### schröder
+
+* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-fuehrt-detroit-pistons-zum-ersten-playoff-sieg-seit-17-jahren](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-fuehrt-detroit-pistons-zum-ersten-playoff-sieg-seit-17-jahren-a-c22d7aba-23b6-4e1c-b634-d0186a3119f2#ref=rss)
+### detroit
+
+* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-fuehrt-detroit-pistons-zum-ersten-playoff-sieg-seit-17-jahren](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-fuehrt-detroit-pistons-zum-ersten-playoff-sieg-seit-17-jahren-a-c22d7aba-23b6-4e1c-b634-d0186a3119f2#ref=rss)
+### pistons
+
+* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-fuehrt-detroit-pistons-zum-ersten-playoff-sieg-seit-17-jahren](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-fuehrt-detroit-pistons-zum-ersten-playoff-sieg-seit-17-jahren-a-c22d7aba-23b6-4e1c-b634-d0186a3119f2#ref=rss)
+### lange
+
+* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-fuehrt-detroit-pistons-zum-ersten-playoff-sieg-seit-17-jahren](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-fuehrt-detroit-pistons-zum-ersten-playoff-sieg-seit-17-jahren-a-c22d7aba-23b6-4e1c-b634-d0186a3119f2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-union-sieht-keine-trendwende-bei-puenktlichkeit-der-fernzuege](https://www.spiegel.de/wirtschaft/deutsche-bahn-union-sieht-keine-trendwende-bei-puenktlichkeit-der-fernzuege-a-b298039e-671c-474b-a759-6df5e5ce8990#ref=rss)
+### el
+
+* [https://www.spiegel.de/ausland/el-salvador-weitere-us-demokraten-im-fall-kilmar-abrego-garcia-vor-ort-druck-auf-donald-trump](https://www.spiegel.de/ausland/el-salvador-weitere-us-demokraten-im-fall-kilmar-abrego-garcia-vor-ort-druck-auf-donald-trump-a-8fd570c3-836e-4a7c-9e7b-9ed5d928d99e#ref=rss)
+### salvador
+
+* [https://www.spiegel.de/ausland/el-salvador-weitere-us-demokraten-im-fall-kilmar-abrego-garcia-vor-ort-druck-auf-donald-trump](https://www.spiegel.de/ausland/el-salvador-weitere-us-demokraten-im-fall-kilmar-abrego-garcia-vor-ort-druck-auf-donald-trump-a-8fd570c3-836e-4a7c-9e7b-9ed5d928d99e#ref=rss)
+### druck
+
+* [https://www.spiegel.de/ausland/el-salvador-weitere-us-demokraten-im-fall-kilmar-abrego-garcia-vor-ort-druck-auf-donald-trump](https://www.spiegel.de/ausland/el-salvador-weitere-us-demokraten-im-fall-kilmar-abrego-garcia-vor-ort-druck-auf-donald-trump-a-8fd570c3-836e-4a7c-9e7b-9ed5d928d99e#ref=rss)
+### israel
+
+* [https://www.spiegel.de/panorama/israel-mann-nach-baden-im-mittelmeer-vermisst-polizei-befuerchtet-toedliche-hai-attacke](https://www.spiegel.de/panorama/israel-mann-nach-baden-im-mittelmeer-vermisst-polizei-befuerchtet-toedliche-hai-attacke-a-fb5bba21-58d9-49df-8286-81565e80684e#ref=rss)
+### bahn
+
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-union-sieht-keine-trendwende-bei-puenktlichkeit-der-fernzuege](https://www.spiegel.de/wirtschaft/deutsche-bahn-union-sieht-keine-trendwende-bei-puenktlichkeit-der-fernzuege-a-b298039e-671c-474b-a759-6df5e5ce8990#ref=rss)
+### union
+
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-union-sieht-keine-trendwende-bei-puenktlichkeit-der-fernzuege](https://www.spiegel.de/wirtschaft/deutsche-bahn-union-sieht-keine-trendwende-bei-puenktlichkeit-der-fernzuege-a-b298039e-671c-474b-a759-6df5e5ce8990#ref=rss)
+### fernzüge
+
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-union-sieht-keine-trendwende-bei-puenktlichkeit-der-fernzuege](https://www.spiegel.de/wirtschaft/deutsche-bahn-union-sieht-keine-trendwende-bei-puenktlichkeit-der-fernzuege-a-b298039e-671c-474b-a759-6df5e5ce8990#ref=rss)
 
