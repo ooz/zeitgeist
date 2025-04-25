@@ -4,337 +4,383 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
+### trump
+
+* [https://www.spiegel.de/ausland/mexiko-vs-usa-claudia-scheinbaum-versucht-trump-zu-verstehen](https://www.spiegel.de/ausland/mexiko-vs-usa-claudia-scheinbaum-versucht-trump-zu-verstehen-a-f4cbb559-17ea-4544-8ca8-a2f9e5893506#ref=rss)
+* [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
+* [https://www.spiegel.de/ausland/usa-unter-donald-trump-fbi-nimmt-in-wisconsin-richterin-hannah-dugan-fest](https://www.spiegel.de/ausland/usa-unter-donald-trump-fbi-nimmt-in-wisconsin-richterin-hannah-dugan-fest-a-8de42837-82dd-4a86-91d1-ab3a268de740#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-europaeische-aussenpolitiker-kritisieren-russland-agenda-des-us-praesidenten-scharf](https://www.spiegel.de/ausland/donald-trump-europaeische-aussenpolitiker-kritisieren-russland-agenda-des-us-praesidenten-scharf-a-8f7f30bc-b684-4300-9bea-08f26cc0540f#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/panorama/vatikan-anti-drohnen-massnahmen-vor-papst-begraebnis](https://www.spiegel.de/panorama/vatikan-anti-drohnen-massnahmen-vor-papst-begraebnis-a-d41766ae-ff35-44ec-b3b7-36d56de7984d#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/japan-osaka-verbietet-aelteren-menschen-telefonate-an-geldautomaten](https://www.spiegel.de/netzwelt/gadgets/japan-osaka-verbietet-aelteren-menschen-telefonate-an-geldautomaten-a-6ed9019d-6bf0-43c9-9c85-982b5c3ce481#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/toedliche-polizeischuesse-diese-elf-menschen-starben-2025](https://www.spiegel.de/panorama/justiz/toedliche-polizeischuesse-diese-elf-menschen-starben-2025-a-fc4c8ec6-626a-4360-ae6c-ce4691ec8254#ref=rss)
+### unter
+
+* [https://www.spiegel.de/sport/fussball/schiedsrichter-beklagt-unter-traenen-druck-von-real-madrid](https://www.spiegel.de/sport/fussball/schiedsrichter-beklagt-unter-traenen-druck-von-real-madrid-a-9b12da34-16c9-47d6-a189-bb6f9cc12b3a#ref=rss)
+* [https://www.spiegel.de/ausland/usa-unter-donald-trump-fbi-nimmt-in-wisconsin-richterin-hannah-dugan-fest](https://www.spiegel.de/ausland/usa-unter-donald-trump-fbi-nimmt-in-wisconsin-richterin-hannah-dugan-fest-a-8de42837-82dd-4a86-91d1-ab3a268de740#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bsw-sahra-wagenknecht-setzt-thueringer-widersacherin-katja-wolf-mit-brief-unter-druck](https://www.spiegel.de/politik/deutschland/bsw-sahra-wagenknecht-setzt-thueringer-widersacherin-katja-wolf-mit-brief-unter-druck-a-1905a49c-1d39-4a3b-8156-89b3b2c858f4#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-europaeische-aussenpolitiker-kritisieren-russland-agenda-des-us-praesidenten-scharf](https://www.spiegel.de/ausland/donald-trump-europaeische-aussenpolitiker-kritisieren-russland-agenda-des-us-praesidenten-scharf-a-8f7f30bc-b684-4300-9bea-08f26cc0540f#ref=rss)
 ### mehr
 
+* [https://www.spiegel.de/ausland/sicherheitsgarantien-fuer-die-ukraine-von-der-koalition-der-willigen-ist-nicht-mehr-viel-uebrig](https://www.spiegel.de/ausland/sicherheitsgarantien-fuer-die-ukraine-von-der-koalition-der-willigen-ist-nicht-mehr-viel-uebrig-a-a981ae3e-49f9-4359-b89a-81f247231cb2#ref=rss)
 * [https://www.spiegel.de/politik/deutschland/trinkgeld-debatte-fuehlt-sich-trinkgeld-per-karte-wie-ein-muss-an](https://www.spiegel.de/politik/deutschland/trinkgeld-debatte-fuehlt-sich-trinkgeld-per-karte-wie-ein-muss-an-a-c3470ffb-5300-459a-bf7d-77a4ca0ff0e9#ref=rss)
-* [https://www.spiegel.de/netzwelt/meta-raeumt-grosses-spam-problem-bei-facebook-ein](https://www.spiegel.de/netzwelt/meta-raeumt-grosses-spam-problem-bei-facebook-ein-a-8da5063b-f4eb-4106-9040-e734bf36e6e7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/grundsteuer-zwei-drittel-der-privaten-eigentuemer-zahlen-mehr-durch-reform](https://www.spiegel.de/wirtschaft/grundsteuer-zwei-drittel-der-privaten-eigentuemer-zahlen-mehr-durch-reform-a-ec0cdaa3-3512-4bb6-8163-f33190cdf5c8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sigmar-gabriel-ex-aussenminister-vergleicht-donald-trumps-ukrainedeal-mit-versailler-vertrag](https://www.spiegel.de/politik/deutschland/sigmar-gabriel-ex-aussenminister-vergleicht-donald-trumps-ukrainedeal-mit-versailler-vertrag-a-80c53b49-11f9-4755-9b49-a7c8b67ded56#ref=rss)
-* [https://www.spiegel.de/panorama/leute/linda-evangelista-mag-nicht-mehr-in-den-spiegel-schauen](https://www.spiegel.de/panorama/leute/linda-evangelista-mag-nicht-mehr-in-den-spiegel-schauen-a-1c94eb35-e73a-42d4-8471-19e87c253fc0#ref=rss)
-* [https://www.spiegel.de/ausland/kaschmir-schuesse-zwischen-indischen-und-pakistanischen-soldaten](https://www.spiegel.de/ausland/kaschmir-schuesse-zwischen-indischen-und-pakistanischen-soldaten-a-0d2121c0-83a8-43f9-85b1-56ee35d19048#ref=rss)
-### jahren
+* [https://www.spiegel.de/wissenschaft/mensch/europaeische-union-wind-und-solarenergie-staerken-europas-unabhaengigkeit](https://www.spiegel.de/wissenschaft/mensch/europaeische-union-wind-und-solarenergie-staerken-europas-unabhaengigkeit-a-f9931a4a-38c0-41e6-bcac-2f98d3d78870#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/japan-osaka-verbietet-aelteren-menschen-telefonate-an-geldautomaten](https://www.spiegel.de/netzwelt/gadgets/japan-osaka-verbietet-aelteren-menschen-telefonate-an-geldautomaten-a-6ed9019d-6bf0-43c9-9c85-982b5c3ce481#ref=rss)
+### geld
 
-* [https://www.spiegel.de/kultur/werner-lorant-mit-ihm-war-immer-was-los](https://www.spiegel.de/kultur/werner-lorant-mit-ihm-war-immer-was-los-a-3a26105e-34ad-41b6-9bf7-339d99a00450#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/hoellenameise-lebte-vor-113-millionen-jahren-in-brasilien](https://www.spiegel.de/wissenschaft/natur/hoellenameise-lebte-vor-113-millionen-jahren-in-brasilien-a-97db17a2-0426-4a9d-b141-a66ab7dc2f16#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-botschafter-draengt-auf-teilnahmeverbot-fuer-russland-an-weltkriegs-gedenken](https://www.spiegel.de/politik/deutschland/ukraine-botschafter-draengt-auf-teilnahmeverbot-fuer-russland-an-weltkriegs-gedenken-a-9e8e329d-86f8-483c-9247-5821bd38a792#ref=rss)
-* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-handschlag-von-torgau-sieben-soldaten-und-ein-bild-fuer-die-ewigkeit](https://www.spiegel.de/geschichte/zweiter-weltkrieg-handschlag-von-torgau-sieben-soldaten-und-ein-bild-fuer-die-ewigkeit-a-dcb386b7-fbd8-4c68-a715-9281ecbf8ebc#ref=rss)
-* [https://www.spiegel.de/ausland/kaschmir-schuesse-zwischen-indischen-und-pakistanischen-soldaten](https://www.spiegel.de/ausland/kaschmir-schuesse-zwischen-indischen-und-pakistanischen-soldaten-a-0d2121c0-83a8-43f9-85b1-56ee35d19048#ref=rss)
-### usa
+* [https://www.spiegel.de/sport/basketball/basketball-kobe-bryants-debuet-trikot-wird-fuer-sieben-millionen-dollar-versteigert](https://www.spiegel.de/sport/basketball/basketball-kobe-bryants-debuet-trikot-wird-fuer-sieben-millionen-dollar-versteigert-a-2e1b75b8-b18e-47ff-811c-ad37a5993533#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/neuer-martin-suter-roman-wut-und-liebe-geld-ist-die-loesung](https://www.spiegel.de/kultur/literatur/neuer-martin-suter-roman-wut-und-liebe-geld-ist-die-loesung-a-6e040d1d-655b-4269-99db-cbdcfbc576d9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-und-die-spendenaffaere-vorsorgliche-strafzahlung-von-2-35-millionen-euro](https://www.spiegel.de/politik/deutschland/afd-und-die-spendenaffaere-vorsorgliche-strafzahlung-von-2-35-millionen-euro-a-1fcfe6e5-85de-48cc-a362-9aec7d05245a#ref=rss)
+### richterin
 
-* [https://www.spiegel.de/wissenschaft/natur/vogelgrippe-ein-einziger-wildvogel-kontakt-soll-ausbruch-bei-us-kuehen-ausgeloest-haben](https://www.spiegel.de/wissenschaft/natur/vogelgrippe-ein-einziger-wildvogel-kontakt-soll-ausbruch-bei-us-kuehen-ausgeloest-haben-a-102c5551-4dc6-4ca3-85d5-6abbabad6ec4#ref=rss)
-* [https://www.spiegel.de/ausland/usa-pete-hegseth-nutzte-fuer-chat-zu-luftangriff-oeffentlich-verfuegbare-handynummer](https://www.spiegel.de/ausland/usa-pete-hegseth-nutzte-fuer-chat-zu-luftangriff-oeffentlich-verfuegbare-handynummer-a-ec3f4bc9-f9a6-4666-ba3d-d676c0bc066f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sigmar-gabriel-ex-aussenminister-vergleicht-donald-trumps-ukrainedeal-mit-versailler-vertrag](https://www.spiegel.de/politik/deutschland/sigmar-gabriel-ex-aussenminister-vergleicht-donald-trumps-ukrainedeal-mit-versailler-vertrag-a-80c53b49-11f9-4755-9b49-a7c8b67ded56#ref=rss)
-* [https://www.spiegel.de/wirtschaft/weltwirtschaft-kalifornien-ueberholt-japan-als-viertgroesste-volkswirtschaft](https://www.spiegel.de/wirtschaft/weltwirtschaft-kalifornien-ueberholt-japan-als-viertgroesste-volkswirtschaft-a-ffb7ad77-eead-4e29-a0ee-ab6d0103e1a4#ref=rss)
-* [https://www.spiegel.de/politik/aufruestung-der-bundeswehr-uns-wird-niemand-ueber-den-tisch-ziehen](https://www.spiegel.de/politik/aufruestung-der-bundeswehr-uns-wird-niemand-ueber-den-tisch-ziehen-a-eae67b28-2ab7-4027-b65e-9ddf6558b959#ref=rss)
-### new
+* [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
+* [https://www.spiegel.de/ausland/usa-unter-donald-trump-fbi-nimmt-in-wisconsin-richterin-hannah-dugan-fest](https://www.spiegel.de/ausland/usa-unter-donald-trump-fbi-nimmt-in-wisconsin-richterin-hannah-dugan-fest-a-8de42837-82dd-4a86-91d1-ab3a268de740#ref=rss)
+### euro
 
-* [https://www.spiegel.de/ausland/usa-pete-hegseth-nutzte-fuer-chat-zu-luftangriff-oeffentlich-verfuegbare-handynummer](https://www.spiegel.de/ausland/usa-pete-hegseth-nutzte-fuer-chat-zu-luftangriff-oeffentlich-verfuegbare-handynummer-a-ec3f4bc9-f9a6-4666-ba3d-d676c0bc066f#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-playoffs-detroit-pistons-patzen-gegen-new-york-knicks-oklahoma-city-thunder-holt-29-punkte-auf](https://www.spiegel.de/sport/basketball/nba-playoffs-detroit-pistons-patzen-gegen-new-york-knicks-oklahoma-city-thunder-holt-29-punkte-auf-a-b029a63d-375e-47fb-bab9-eb4190737f28#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/usa-waldbrand-in-new-jersey-19-jaehriger-wegen-brandstiftung-festgenommen](https://www.spiegel.de/panorama/justiz/usa-waldbrand-in-new-jersey-19-jaehriger-wegen-brandstiftung-festgenommen-a-e4cf57e2-27df-4a3b-a29e-223cc6789175#ref=rss)
-### milliarden
-
-* [https://www.spiegel.de/netzwelt/web/quartalszahlen-google-konzern-erzielt-einen-der-hoechsten-gewinne-aller-zeiten](https://www.spiegel.de/netzwelt/web/quartalszahlen-google-konzern-erzielt-einen-der-hoechsten-gewinne-aller-zeiten-a-931c447d-ae77-4649-90f0-8802938a5cb9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/studie-der-kfw-bank-mittelstand-verliert-milliarden-durch-buerokratische-pflichten](https://www.spiegel.de/wirtschaft/studie-der-kfw-bank-mittelstand-verliert-milliarden-durch-buerokratische-pflichten-a-8aae8064-4e58-49ed-9a7d-b2e9ca46d8b1#ref=rss)
-### soldaten
-
-* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-handschlag-von-torgau-sieben-soldaten-und-ein-bild-fuer-die-ewigkeit](https://www.spiegel.de/geschichte/zweiter-weltkrieg-handschlag-von-torgau-sieben-soldaten-und-ein-bild-fuer-die-ewigkeit-a-dcb386b7-fbd8-4c68-a715-9281ecbf8ebc#ref=rss)
-* [https://www.spiegel.de/ausland/kaschmir-schuesse-zwischen-indischen-und-pakistanischen-soldaten](https://www.spiegel.de/ausland/kaschmir-schuesse-zwischen-indischen-und-pakistanischen-soldaten-a-0d2121c0-83a8-43f9-85b1-56ee35d19048#ref=rss)
-### welt
-
-* [https://www.spiegel.de/wissenschaft/natur/hoellenameise-lebte-vor-113-millionen-jahren-in-brasilien](https://www.spiegel.de/wissenschaft/natur/hoellenameise-lebte-vor-113-millionen-jahren-in-brasilien-a-97db17a2-0426-4a9d-b141-a66ab7dc2f16#ref=rss)
-* [https://www.spiegel.de/panorama/leute/linda-evangelista-mag-nicht-mehr-in-den-spiegel-schauen](https://www.spiegel.de/panorama/leute/linda-evangelista-mag-nicht-mehr-in-den-spiegel-schauen-a-1c94eb35-e73a-42d4-8471-19e87c253fc0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/weltwirtschaft-kalifornien-ueberholt-japan-als-viertgroesste-volkswirtschaft](https://www.spiegel.de/wirtschaft/weltwirtschaft-kalifornien-ueberholt-japan-als-viertgroesste-volkswirtschaft-a-ffb7ad77-eead-4e29-a0ee-ab6d0103e1a4#ref=rss)
-### märz
-
-* [https://www.spiegel.de/wissenschaft/natur/vogelgrippe-ein-einziger-wildvogel-kontakt-soll-ausbruch-bei-us-kuehen-ausgeloest-haben](https://www.spiegel.de/wissenschaft/natur/vogelgrippe-ein-einziger-wildvogel-kontakt-soll-ausbruch-bei-us-kuehen-ausgeloest-haben-a-102c5551-4dc6-4ca3-85d5-6abbabad6ec4#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-franzoesische-juniorenmeisterin-margot-simond-stirbt-nach-trainingssturz](https://www.spiegel.de/sport/wintersport/ski-alpin-franzoesische-juniorenmeisterin-margot-simond-stirbt-nach-trainingssturz-a-521b78a2-cea3-4806-8ff7-91ba58e338bf#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gesteht-toedlichen-angriff-auf-uno-helfer-ein](https://www.spiegel.de/ausland/israel-gesteht-toedlichen-angriff-auf-uno-helfer-ein-a-8870d706-7da8-4585-8444-95b60e4ec065#ref=rss)
-### privaten
-
-* [https://www.spiegel.de/ausland/usa-pete-hegseth-nutzte-fuer-chat-zu-luftangriff-oeffentlich-verfuegbare-handynummer](https://www.spiegel.de/ausland/usa-pete-hegseth-nutzte-fuer-chat-zu-luftangriff-oeffentlich-verfuegbare-handynummer-a-ec3f4bc9-f9a6-4666-ba3d-d676c0bc066f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/grundsteuer-zwei-drittel-der-privaten-eigentuemer-zahlen-mehr-durch-reform](https://www.spiegel.de/wirtschaft/grundsteuer-zwei-drittel-der-privaten-eigentuemer-zahlen-mehr-durch-reform-a-ec0cdaa3-3512-4bb6-8163-f33190cdf5c8#ref=rss)
-### wagner
-
-* [https://www.spiegel.de/sport/fussball/dfb-sandro-wagner-ab-sommer-nicht-laenger-co-trainer-von-julian-nagelsmann](https://www.spiegel.de/sport/fussball/dfb-sandro-wagner-ab-sommer-nicht-laenger-co-trainer-von-julian-nagelsmann-a-af10d40c-c1da-40cb-886b-a530f2dfa7ef#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/russland-geheimdienst-verhaftet-rumaenen-wegen-spionagevorwuerfen](https://www.spiegel.de/ausland/russland-geheimdienst-verhaftet-rumaenen-wegen-spionagevorwuerfen-a-c3b0c204-2c32-4912-9cf1-121f9a4d665e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-botschafter-draengt-auf-teilnahmeverbot-fuer-russland-an-weltkriegs-gedenken](https://www.spiegel.de/politik/deutschland/ukraine-botschafter-draengt-auf-teilnahmeverbot-fuer-russland-an-weltkriegs-gedenken-a-9e8e329d-86f8-483c-9247-5821bd38a792#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sigmar-gabriel-ex-aussenminister-vergleicht-donald-trumps-ukrainedeal-mit-versailler-vertrag](https://www.spiegel.de/politik/deutschland/sigmar-gabriel-ex-aussenminister-vergleicht-donald-trumps-ukrainedeal-mit-versailler-vertrag-a-80c53b49-11f9-4755-9b49-a7c8b67ded56#ref=rss)
+* [https://www.spiegel.de/sport/boxen-23-gramm-uebergewicht-kosten-chris-eubank-jr-fast-eine-halbe-million-euro](https://www.spiegel.de/sport/boxen-23-gramm-uebergewicht-kosten-chris-eubank-jr-fast-eine-halbe-million-euro-a-f0175c45-1828-466c-a336-d2e7d182d191#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-und-die-spendenaffaere-vorsorgliche-strafzahlung-von-2-35-millionen-euro](https://www.spiegel.de/politik/deutschland/afd-und-die-spendenaffaere-vorsorgliche-strafzahlung-von-2-35-millionen-euro-a-1fcfe6e5-85de-48cc-a362-9aec7d05245a#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/spanien-frau-soll-baby-fuer-wenige-tausend-euro-verkauft-haben](https://www.spiegel.de/panorama/justiz/spanien-frau-soll-baby-fuer-wenige-tausend-euro-verkauft-haben-a-c7700d44-171b-44e0-b488-96fef90fdc72#ref=rss)
 ### ukraine
 
-* [https://www.spiegel.de/ausland/russland-geheimdienst-verhaftet-rumaenen-wegen-spionagevorwuerfen](https://www.spiegel.de/ausland/russland-geheimdienst-verhaftet-rumaenen-wegen-spionagevorwuerfen-a-c3b0c204-2c32-4912-9cf1-121f9a4d665e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-botschafter-draengt-auf-teilnahmeverbot-fuer-russland-an-weltkriegs-gedenken](https://www.spiegel.de/politik/deutschland/ukraine-botschafter-draengt-auf-teilnahmeverbot-fuer-russland-an-weltkriegs-gedenken-a-9e8e329d-86f8-483c-9247-5821bd38a792#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sigmar-gabriel-ex-aussenminister-vergleicht-donald-trumps-ukrainedeal-mit-versailler-vertrag](https://www.spiegel.de/politik/deutschland/sigmar-gabriel-ex-aussenminister-vergleicht-donald-trumps-ukrainedeal-mit-versailler-vertrag-a-80c53b49-11f9-4755-9b49-a7c8b67ded56#ref=rss)
-### post
+* [https://www.spiegel.de/ausland/ukraine-krieg-vitali-klitschko-haelt-gebietsabtretungen-fuer-leider-moeglich](https://www.spiegel.de/ausland/ukraine-krieg-vitali-klitschko-haelt-gebietsabtretungen-fuer-leider-moeglich-a-ef2dc298-91d3-406d-a1f8-87babddec22a#ref=rss)
+* [https://www.spiegel.de/ausland/sicherheitsgarantien-fuer-die-ukraine-von-der-koalition-der-willigen-ist-nicht-mehr-viel-uebrig](https://www.spiegel.de/ausland/sicherheitsgarantien-fuer-die-ukraine-von-der-koalition-der-willigen-ist-nicht-mehr-viel-uebrig-a-a981ae3e-49f9-4359-b89a-81f247231cb2#ref=rss)
+### linke
 
-* [https://www.spiegel.de/wirtschaft/deutsche-post-ausweise-und-reisepaesse-ab-mai-per-post-fuer-15-euro-erhaeltlich](https://www.spiegel.de/wirtschaft/deutsche-post-ausweise-und-reisepaesse-ab-mai-per-post-fuer-15-euro-erhaeltlich-a-031d04d5-d27d-4d64-b853-9d9656665c27#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/wirtschaft/grundsteuer-zwei-drittel-der-privaten-eigentuemer-zahlen-mehr-durch-reform](https://www.spiegel.de/wirtschaft/grundsteuer-zwei-drittel-der-privaten-eigentuemer-zahlen-mehr-durch-reform-a-ec0cdaa3-3512-4bb6-8163-f33190cdf5c8#ref=rss)
-* [https://www.spiegel.de/sport/american-football/nfl-tennessee-titans-picken-cam-ward-im-draft-shedeur-sanders-muss-sich-gedulden](https://www.spiegel.de/sport/american-football/nfl-tennessee-titans-picken-cam-ward-im-draft-shedeur-sanders-muss-sich-gedulden-a-2481d1c9-bd99-47a8-906f-c21592e47218#ref=rss)
-### simond
-
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-franzoesische-juniorenmeisterin-margot-simond-stirbt-nach-trainingssturz](https://www.spiegel.de/sport/wintersport/ski-alpin-franzoesische-juniorenmeisterin-margot-simond-stirbt-nach-trainingssturz-a-521b78a2-cea3-4806-8ff7-91ba58e338bf#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/deutschlands-position-zu-israel-und-gaza-staatsraeson-ersetzt-keine-kritische-politik-meinung](https://www.spiegel.de/ausland/deutschlands-position-zu-israel-und-gaza-staatsraeson-ersetzt-keine-kritische-politik-meinung-a-e60b10ad-25a4-42d8-8ad3-cbc92d14ece8#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gesteht-toedlichen-angriff-auf-uno-helfer-ein](https://www.spiegel.de/ausland/israel-gesteht-toedlichen-angriff-auf-uno-helfer-ein-a-8870d706-7da8-4585-8444-95b60e4ec065#ref=rss)
+* [https://www.spiegel.de/ausland/mexiko-vs-usa-claudia-scheinbaum-versucht-trump-zu-verstehen](https://www.spiegel.de/ausland/mexiko-vs-usa-claudia-scheinbaum-versucht-trump-zu-verstehen-a-f4cbb559-17ea-4544-8ca8-a2f9e5893506#ref=rss)
+* [https://www.spiegel.de/ausland/j-d-vance-der-maechtige-vizepraesident-im-kampf-gegen-die-linke](https://www.spiegel.de/ausland/j-d-vance-der-maechtige-vizepraesident-im-kampf-gegen-die-linke-a-7fa3bbdd-72d6-46c7-8609-4342403f4164#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/ausland/deutschlands-position-zu-israel-und-gaza-staatsraeson-ersetzt-keine-kritische-politik-meinung](https://www.spiegel.de/ausland/deutschlands-position-zu-israel-und-gaza-staatsraeson-ersetzt-keine-kritische-politik-meinung-a-e60b10ad-25a4-42d8-8ad3-cbc92d14ece8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sigmar-gabriel-ex-aussenminister-vergleicht-donald-trumps-ukrainedeal-mit-versailler-vertrag](https://www.spiegel.de/politik/deutschland/sigmar-gabriel-ex-aussenminister-vergleicht-donald-trumps-ukrainedeal-mit-versailler-vertrag-a-80c53b49-11f9-4755-9b49-a7c8b67ded56#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/studie-us-fluggesellschaften-werden-zu-den-verlierern-von-trumps-zollpolitik-gehoeren](https://www.spiegel.de/wirtschaft/unternehmen/studie-us-fluggesellschaften-werden-zu-den-verlierern-von-trumps-zollpolitik-gehoeren-a-8181e488-089e-433f-855e-07fe86402570#ref=rss)
-### torgau
+* [https://www.spiegel.de/ausland/mexiko-vs-usa-claudia-scheinbaum-versucht-trump-zu-verstehen](https://www.spiegel.de/ausland/mexiko-vs-usa-claudia-scheinbaum-versucht-trump-zu-verstehen-a-f4cbb559-17ea-4544-8ca8-a2f9e5893506#ref=rss)
+* [https://www.spiegel.de/ausland/usa-unter-donald-trump-fbi-nimmt-in-wisconsin-richterin-hannah-dugan-fest](https://www.spiegel.de/ausland/usa-unter-donald-trump-fbi-nimmt-in-wisconsin-richterin-hannah-dugan-fest-a-8de42837-82dd-4a86-91d1-ab3a268de740#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-europaeische-aussenpolitiker-kritisieren-russland-agenda-des-us-praesidenten-scharf](https://www.spiegel.de/ausland/donald-trump-europaeische-aussenpolitiker-kritisieren-russland-agenda-des-us-praesidenten-scharf-a-8f7f30bc-b684-4300-9bea-08f26cc0540f#ref=rss)
+### millionen
 
-* [https://www.spiegel.de/politik/deutschland/ukraine-botschafter-draengt-auf-teilnahmeverbot-fuer-russland-an-weltkriegs-gedenken](https://www.spiegel.de/politik/deutschland/ukraine-botschafter-draengt-auf-teilnahmeverbot-fuer-russland-an-weltkriegs-gedenken-a-9e8e329d-86f8-483c-9247-5821bd38a792#ref=rss)
-* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-handschlag-von-torgau-sieben-soldaten-und-ein-bild-fuer-die-ewigkeit](https://www.spiegel.de/geschichte/zweiter-weltkrieg-handschlag-von-torgau-sieben-soldaten-und-ein-bild-fuer-die-ewigkeit-a-dcb386b7-fbd8-4c68-a715-9281ecbf8ebc#ref=rss)
-### trumps
+* [https://www.spiegel.de/sport/basketball/basketball-kobe-bryants-debuet-trikot-wird-fuer-sieben-millionen-dollar-versteigert](https://www.spiegel.de/sport/basketball/basketball-kobe-bryants-debuet-trikot-wird-fuer-sieben-millionen-dollar-versteigert-a-2e1b75b8-b18e-47ff-811c-ad37a5993533#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-und-die-spendenaffaere-vorsorgliche-strafzahlung-von-2-35-millionen-euro](https://www.spiegel.de/politik/deutschland/afd-und-die-spendenaffaere-vorsorgliche-strafzahlung-von-2-35-millionen-euro-a-1fcfe6e5-85de-48cc-a362-9aec7d05245a#ref=rss)
+### wohl
 
-* [https://www.spiegel.de/politik/deutschland/sigmar-gabriel-ex-aussenminister-vergleicht-donald-trumps-ukrainedeal-mit-versailler-vertrag](https://www.spiegel.de/politik/deutschland/sigmar-gabriel-ex-aussenminister-vergleicht-donald-trumps-ukrainedeal-mit-versailler-vertrag-a-80c53b49-11f9-4755-9b49-a7c8b67ded56#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/studie-us-fluggesellschaften-werden-zu-den-verlierern-von-trumps-zollpolitik-gehoeren](https://www.spiegel.de/wirtschaft/unternehmen/studie-us-fluggesellschaften-werden-zu-den-verlierern-von-trumps-zollpolitik-gehoeren-a-8181e488-089e-433f-855e-07fe86402570#ref=rss)
-### papstwahl
+* [https://www.spiegel.de/sport/basketball/basketball-kobe-bryants-debuet-trikot-wird-fuer-sieben-millionen-dollar-versteigert](https://www.spiegel.de/sport/basketball/basketball-kobe-bryants-debuet-trikot-wird-fuer-sieben-millionen-dollar-versteigert-a-2e1b75b8-b18e-47ff-811c-ad37a5993533#ref=rss)
+* [https://www.spiegel.de/ausland/vatikan-wer-ist-giovanni-battista-re-der-den-gottesdienst-fuer-franziskus-leitet](https://www.spiegel.de/ausland/vatikan-wer-ist-giovanni-battista-re-der-den-gottesdienst-fuer-franziskus-leitet-a-6f397562-1acb-4341-bbf6-06e8f7624277#ref=rss)
+* [https://www.spiegel.de/sport/boxen-23-gramm-uebergewicht-kosten-chris-eubank-jr-fast-eine-halbe-million-euro](https://www.spiegel.de/sport/boxen-23-gramm-uebergewicht-kosten-chris-eubank-jr-fast-eine-halbe-million-euro-a-f0175c45-1828-466c-a336-d2e7d182d191#ref=rss)
+### vatikan
 
-* [https://www.spiegel.de/politik/deutschland/papstwahl-kuriose-fakten-zur-kleiderordnung-und-namenswahl](https://www.spiegel.de/politik/deutschland/papstwahl-kuriose-fakten-zur-kleiderordnung-und-namenswahl-a-e9f2e47f-c072-42a3-b93d-640305aa7275#ref=rss)
-### fakten
+* [https://www.spiegel.de/ausland/vatikan-wer-ist-giovanni-battista-re-der-den-gottesdienst-fuer-franziskus-leitet](https://www.spiegel.de/ausland/vatikan-wer-ist-giovanni-battista-re-der-den-gottesdienst-fuer-franziskus-leitet-a-6f397562-1acb-4341-bbf6-06e8f7624277#ref=rss)
+* [https://www.spiegel.de/panorama/vatikan-anti-drohnen-massnahmen-vor-papst-begraebnis](https://www.spiegel.de/panorama/vatikan-anti-drohnen-massnahmen-vor-papst-begraebnis-a-d41766ae-ff35-44ec-b3b7-36d56de7984d#ref=rss)
+### neuer
 
-* [https://www.spiegel.de/politik/deutschland/papstwahl-kuriose-fakten-zur-kleiderordnung-und-namenswahl](https://www.spiegel.de/politik/deutschland/papstwahl-kuriose-fakten-zur-kleiderordnung-und-namenswahl-a-e9f2e47f-c072-42a3-b93d-640305aa7275#ref=rss)
-### kleiderordnung
+* [https://www.spiegel.de/kultur/literatur/neuer-martin-suter-roman-wut-und-liebe-geld-ist-die-loesung](https://www.spiegel.de/kultur/literatur/neuer-martin-suter-roman-wut-und-liebe-geld-ist-die-loesung-a-6e040d1d-655b-4269-99db-cbdcfbc576d9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-pete-hegseth-anschlag-bei-moskau-katholische-kirche](https://www.spiegel.de/politik/deutschland/news-des-tages-pete-hegseth-anschlag-bei-moskau-katholische-kirche-a-a8343264-abce-4956-9ef0-8c2b1bcc9495#ref=rss)
+### liebe
 
-* [https://www.spiegel.de/politik/deutschland/papstwahl-kuriose-fakten-zur-kleiderordnung-und-namenswahl](https://www.spiegel.de/politik/deutschland/papstwahl-kuriose-fakten-zur-kleiderordnung-und-namenswahl-a-e9f2e47f-c072-42a3-b93d-640305aa7275#ref=rss)
-### namenswahl
+* [https://www.spiegel.de/kultur/literatur/neuer-martin-suter-roman-wut-und-liebe-geld-ist-die-loesung](https://www.spiegel.de/kultur/literatur/neuer-martin-suter-roman-wut-und-liebe-geld-ist-die-loesung-a-6e040d1d-655b-4269-99db-cbdcfbc576d9#ref=rss)
+### europäische
 
-* [https://www.spiegel.de/politik/deutschland/papstwahl-kuriose-fakten-zur-kleiderordnung-und-namenswahl](https://www.spiegel.de/politik/deutschland/papstwahl-kuriose-fakten-zur-kleiderordnung-und-namenswahl-a-e9f2e47f-c072-42a3-b93d-640305aa7275#ref=rss)
-### werner
+* [https://www.spiegel.de/wissenschaft/mensch/europaeische-union-wind-und-solarenergie-staerken-europas-unabhaengigkeit](https://www.spiegel.de/wissenschaft/mensch/europaeische-union-wind-und-solarenergie-staerken-europas-unabhaengigkeit-a-f9931a4a-38c0-41e6-bcac-2f98d3d78870#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-europaeische-aussenpolitiker-kritisieren-russland-agenda-des-us-praesidenten-scharf](https://www.spiegel.de/ausland/donald-trump-europaeische-aussenpolitiker-kritisieren-russland-agenda-des-us-praesidenten-scharf-a-8f7f30bc-b684-4300-9bea-08f26cc0540f#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/kultur/werner-lorant-mit-ihm-war-immer-was-los](https://www.spiegel.de/kultur/werner-lorant-mit-ihm-war-immer-was-los-a-3a26105e-34ad-41b6-9bf7-339d99a00450#ref=rss)
-### lorant
+* [https://www.spiegel.de/panorama/baden-wuerttemberg-bundespolizei-rettet-gaensekueken-von-bahngleisen](https://www.spiegel.de/panorama/baden-wuerttemberg-bundespolizei-rettet-gaensekueken-von-bahngleisen-a-2b82bdea-4742-42d7-8a93-9640d6fc6989#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/spanien-frau-soll-baby-fuer-wenige-tausend-euro-verkauft-haben](https://www.spiegel.de/panorama/justiz/spanien-frau-soll-baby-fuer-wenige-tausend-euro-verkauft-haben-a-c7700d44-171b-44e0-b488-96fef90fdc72#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/toedliche-polizeischuesse-diese-elf-menschen-starben-2025](https://www.spiegel.de/panorama/justiz/toedliche-polizeischuesse-diese-elf-menschen-starben-2025-a-fc4c8ec6-626a-4360-ae6c-ce4691ec8254#ref=rss)
+### frau
 
-* [https://www.spiegel.de/kultur/werner-lorant-mit-ihm-war-immer-was-los](https://www.spiegel.de/kultur/werner-lorant-mit-ihm-war-immer-was-los-a-3a26105e-34ad-41b6-9bf7-339d99a00450#ref=rss)
-### holte
+* [https://www.spiegel.de/panorama/justiz/spanien-frau-soll-baby-fuer-wenige-tausend-euro-verkauft-haben](https://www.spiegel.de/panorama/justiz/spanien-frau-soll-baby-fuer-wenige-tausend-euro-verkauft-haben-a-c7700d44-171b-44e0-b488-96fef90fdc72#ref=rss)
+### restaurantbesuch
 
-* [https://www.spiegel.de/kultur/werner-lorant-mit-ihm-war-immer-was-los](https://www.spiegel.de/kultur/werner-lorant-mit-ihm-war-immer-was-los-a-3a26105e-34ad-41b6-9bf7-339d99a00450#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-playoffs-detroit-pistons-patzen-gegen-new-york-knicks-oklahoma-city-thunder-holt-29-punkte-auf](https://www.spiegel.de/sport/basketball/nba-playoffs-detroit-pistons-patzen-gegen-new-york-knicks-oklahoma-city-thunder-holt-29-punkte-auf-a-b029a63d-375e-47fb-bab9-eb4190737f28#ref=rss)
+* [https://www.spiegel.de/kultur/max-strohe-ueber-den-unterschied-zwischen-restaurantbesuch-und-lieferdienst](https://www.spiegel.de/kultur/max-strohe-ueber-den-unterschied-zwischen-restaurantbesuch-und-lieferdienst-a-2ce51c5d-b5fb-49fa-b614-5cd008c1926b#ref=rss)
+### druck
+
+* [https://www.spiegel.de/sport/fussball/schiedsrichter-beklagt-unter-traenen-druck-von-real-madrid](https://www.spiegel.de/sport/fussball/schiedsrichter-beklagt-unter-traenen-druck-von-real-madrid-a-9b12da34-16c9-47d6-a189-bb6f9cc12b3a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bsw-sahra-wagenknecht-setzt-thueringer-widersacherin-katja-wolf-mit-brief-unter-druck](https://www.spiegel.de/politik/deutschland/bsw-sahra-wagenknecht-setzt-thueringer-widersacherin-katja-wolf-mit-brief-unter-druck-a-1905a49c-1d39-4a3b-8156-89b3b2c858f4#ref=rss)
+### real
+
+* [https://www.spiegel.de/sport/fussball/schiedsrichter-beklagt-unter-traenen-druck-von-real-madrid](https://www.spiegel.de/sport/fussball/schiedsrichter-beklagt-unter-traenen-druck-von-real-madrid-a-9b12da34-16c9-47d6-a189-bb6f9cc12b3a#ref=rss)
+### madrid
+
+* [https://www.spiegel.de/sport/fussball/schiedsrichter-beklagt-unter-traenen-druck-von-real-madrid](https://www.spiegel.de/sport/fussball/schiedsrichter-beklagt-unter-traenen-druck-von-real-madrid-a-9b12da34-16c9-47d6-a189-bb6f9cc12b3a#ref=rss)
+### samstag
+
+* [https://www.spiegel.de/sport/fussball/schiedsrichter-beklagt-unter-traenen-druck-von-real-madrid](https://www.spiegel.de/sport/fussball/schiedsrichter-beklagt-unter-traenen-druck-von-real-madrid-a-9b12da34-16c9-47d6-a189-bb6f9cc12b3a#ref=rss)
+* [https://www.spiegel.de/panorama/vatikan-anti-drohnen-massnahmen-vor-papst-begraebnis](https://www.spiegel.de/panorama/vatikan-anti-drohnen-massnahmen-vor-papst-begraebnis-a-d41766ae-ff35-44ec-b3b7-36d56de7984d#ref=rss)
+### emotional
+
+* [https://www.spiegel.de/sport/fussball/schiedsrichter-beklagt-unter-traenen-druck-von-real-madrid](https://www.spiegel.de/sport/fussball/schiedsrichter-beklagt-unter-traenen-druck-von-real-madrid-a-9b12da34-16c9-47d6-a189-bb6f9cc12b3a#ref=rss)
+* [https://www.spiegel.de/ausland/george-santos-harte-gefaengnisstrafe-fuer-hochstapler-und-ex-abgeordneten-im-us-repraesentantenhaus](https://www.spiegel.de/ausland/george-santos-harte-gefaengnisstrafe-fuer-hochstapler-und-ex-abgeordneten-im-us-repraesentantenhaus-a-429b8e64-4c32-4306-a9f0-7045e143d17c#ref=rss)
+### rwth
+
+* [https://www.spiegel.de/start/universitaeten-rwth-aachen-verteidigt-gebuehren-fuer-auslaendische-studierende-gegen-rassismusvorwuerfe](https://www.spiegel.de/start/universitaeten-rwth-aachen-verteidigt-gebuehren-fuer-auslaendische-studierende-gegen-rassismusvorwuerfe-a-8b987a1e-58c0-40bd-a115-041bd548fafa#ref=rss)
+### aachen
+
+* [https://www.spiegel.de/start/universitaeten-rwth-aachen-verteidigt-gebuehren-fuer-auslaendische-studierende-gegen-rassismusvorwuerfe](https://www.spiegel.de/start/universitaeten-rwth-aachen-verteidigt-gebuehren-fuer-auslaendische-studierende-gegen-rassismusvorwuerfe-a-8b987a1e-58c0-40bd-a115-041bd548fafa#ref=rss)
+### verteidigt
+
+* [https://www.spiegel.de/start/universitaeten-rwth-aachen-verteidigt-gebuehren-fuer-auslaendische-studierende-gegen-rassismusvorwuerfe](https://www.spiegel.de/start/universitaeten-rwth-aachen-verteidigt-gebuehren-fuer-auslaendische-studierende-gegen-rassismusvorwuerfe-a-8b987a1e-58c0-40bd-a115-041bd548fafa#ref=rss)
+### studierende
+
+* [https://www.spiegel.de/start/universitaeten-rwth-aachen-verteidigt-gebuehren-fuer-auslaendische-studierende-gegen-rassismusvorwuerfe](https://www.spiegel.de/start/universitaeten-rwth-aachen-verteidigt-gebuehren-fuer-auslaendische-studierende-gegen-rassismusvorwuerfe-a-8b987a1e-58c0-40bd-a115-041bd548fafa#ref=rss)
+### george
+
+* [https://www.spiegel.de/ausland/george-santos-harte-gefaengnisstrafe-fuer-hochstapler-und-ex-abgeordneten-im-us-repraesentantenhaus](https://www.spiegel.de/ausland/george-santos-harte-gefaengnisstrafe-fuer-hochstapler-und-ex-abgeordneten-im-us-repraesentantenhaus-a-429b8e64-4c32-4306-a9f0-7045e143d17c#ref=rss)
+### santos
+
+* [https://www.spiegel.de/ausland/george-santos-harte-gefaengnisstrafe-fuer-hochstapler-und-ex-abgeordneten-im-us-repraesentantenhaus](https://www.spiegel.de/ausland/george-santos-harte-gefaengnisstrafe-fuer-hochstapler-und-ex-abgeordneten-im-us-repraesentantenhaus-a-429b8e64-4c32-4306-a9f0-7045e143d17c#ref=rss)
+### zeit
+
+* [https://www.spiegel.de/ausland/george-santos-harte-gefaengnisstrafe-fuer-hochstapler-und-ex-abgeordneten-im-us-repraesentantenhaus](https://www.spiegel.de/ausland/george-santos-harte-gefaengnisstrafe-fuer-hochstapler-und-ex-abgeordneten-im-us-repraesentantenhaus-a-429b8e64-4c32-4306-a9f0-7045e143d17c#ref=rss)
+* [https://www.spiegel.de/panorama/baden-wuerttemberg-bundespolizei-rettet-gaensekueken-von-bahngleisen](https://www.spiegel.de/panorama/baden-wuerttemberg-bundespolizei-rettet-gaensekueken-von-bahngleisen-a-2b82bdea-4742-42d7-8a93-9640d6fc6989#ref=rss)
+### hinter
+
+* [https://www.spiegel.de/ausland/george-santos-harte-gefaengnisstrafe-fuer-hochstapler-und-ex-abgeordneten-im-us-repraesentantenhaus](https://www.spiegel.de/ausland/george-santos-harte-gefaengnisstrafe-fuer-hochstapler-und-ex-abgeordneten-im-us-repraesentantenhaus-a-429b8e64-4c32-4306-a9f0-7045e143d17c#ref=rss)
+* [https://www.spiegel.de/ausland/usa-unter-donald-trump-fbi-nimmt-in-wisconsin-richterin-hannah-dugan-fest](https://www.spiegel.de/ausland/usa-unter-donald-trump-fbi-nimmt-in-wisconsin-richterin-hannah-dugan-fest-a-8de42837-82dd-4a86-91d1-ab3a268de740#ref=rss)
+### urteil
+
+* [https://www.spiegel.de/ausland/george-santos-harte-gefaengnisstrafe-fuer-hochstapler-und-ex-abgeordneten-im-us-repraesentantenhaus](https://www.spiegel.de/ausland/george-santos-harte-gefaengnisstrafe-fuer-hochstapler-und-ex-abgeordneten-im-us-repraesentantenhaus-a-429b8e64-4c32-4306-a9f0-7045e143d17c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-pete-hegseth-anschlag-bei-moskau-katholische-kirche](https://www.spiegel.de/politik/deutschland/news-des-tages-pete-hegseth-anschlag-bei-moskau-katholische-kirche-a-a8343264-abce-4956-9ef0-8c2b1bcc9495#ref=rss)
+### usa
+
+* [https://www.spiegel.de/ausland/mexiko-vs-usa-claudia-scheinbaum-versucht-trump-zu-verstehen](https://www.spiegel.de/ausland/mexiko-vs-usa-claudia-scheinbaum-versucht-trump-zu-verstehen-a-f4cbb559-17ea-4544-8ca8-a2f9e5893506#ref=rss)
+* [https://www.spiegel.de/ausland/usa-unter-donald-trump-fbi-nimmt-in-wisconsin-richterin-hannah-dugan-fest](https://www.spiegel.de/ausland/usa-unter-donald-trump-fbi-nimmt-in-wisconsin-richterin-hannah-dugan-fest-a-8de42837-82dd-4a86-91d1-ab3a268de740#ref=rss)
+### claudia
+
+* [https://www.spiegel.de/ausland/mexiko-vs-usa-claudia-scheinbaum-versucht-trump-zu-verstehen](https://www.spiegel.de/ausland/mexiko-vs-usa-claudia-scheinbaum-versucht-trump-zu-verstehen-a-f4cbb559-17ea-4544-8ca8-a2f9e5893506#ref=rss)
+### versucht
+
+* [https://www.spiegel.de/ausland/mexiko-vs-usa-claudia-scheinbaum-versucht-trump-zu-verstehen](https://www.spiegel.de/ausland/mexiko-vs-usa-claudia-scheinbaum-versucht-trump-zu-verstehen-a-f4cbb559-17ea-4544-8ca8-a2f9e5893506#ref=rss)
+* [https://www.spiegel.de/ausland/usa-unter-donald-trump-fbi-nimmt-in-wisconsin-richterin-hannah-dugan-fest](https://www.spiegel.de/ausland/usa-unter-donald-trump-fbi-nimmt-in-wisconsin-richterin-hannah-dugan-fest-a-8de42837-82dd-4a86-91d1-ab3a268de740#ref=rss)
+### schlechte
+
+* [https://www.spiegel.de/ausland/mexiko-vs-usa-claudia-scheinbaum-versucht-trump-zu-verstehen](https://www.spiegel.de/ausland/mexiko-vs-usa-claudia-scheinbaum-versucht-trump-zu-verstehen-a-f4cbb559-17ea-4544-8ca8-a2f9e5893506#ref=rss)
+* [https://www.spiegel.de/kultur/tv/tatort-aus-muenchen-zugzwang-mit-batic-und-leitmayr](https://www.spiegel.de/kultur/tv/tatort-aus-muenchen-zugzwang-mit-batic-und-leitmayr-a-86c735b5-e8e6-40bf-8f97-b50a53d8a816#ref=rss)
+### koalition
+
+* [https://www.spiegel.de/ausland/sicherheitsgarantien-fuer-die-ukraine-von-der-koalition-der-willigen-ist-nicht-mehr-viel-uebrig](https://www.spiegel.de/ausland/sicherheitsgarantien-fuer-die-ukraine-von-der-koalition-der-willigen-ist-nicht-mehr-viel-uebrig-a-a981ae3e-49f9-4359-b89a-81f247231cb2#ref=rss)
+### willigen
+
+* [https://www.spiegel.de/ausland/sicherheitsgarantien-fuer-die-ukraine-von-der-koalition-der-willigen-ist-nicht-mehr-viel-uebrig](https://www.spiegel.de/ausland/sicherheitsgarantien-fuer-die-ukraine-von-der-koalition-der-willigen-ist-nicht-mehr-viel-uebrig-a-a981ae3e-49f9-4359-b89a-81f247231cb2#ref=rss)
+### großbritannien
+
+* [https://www.spiegel.de/ausland/sicherheitsgarantien-fuer-die-ukraine-von-der-koalition-der-willigen-ist-nicht-mehr-viel-uebrig](https://www.spiegel.de/ausland/sicherheitsgarantien-fuer-die-ukraine-von-der-koalition-der-willigen-ist-nicht-mehr-viel-uebrig-a-a981ae3e-49f9-4359-b89a-81f247231cb2#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-europaeische-aussenpolitiker-kritisieren-russland-agenda-des-us-praesidenten-scharf](https://www.spiegel.de/ausland/donald-trump-europaeische-aussenpolitiker-kritisieren-russland-agenda-des-us-praesidenten-scharf-a-8f7f30bc-b684-4300-9bea-08f26cc0540f#ref=rss)
+### frankreich
+
+* [https://www.spiegel.de/ausland/sicherheitsgarantien-fuer-die-ukraine-von-der-koalition-der-willigen-ist-nicht-mehr-viel-uebrig](https://www.spiegel.de/ausland/sicherheitsgarantien-fuer-die-ukraine-von-der-koalition-der-willigen-ist-nicht-mehr-viel-uebrig-a-a981ae3e-49f9-4359-b89a-81f247231cb2#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-europaeische-aussenpolitiker-kritisieren-russland-agenda-des-us-praesidenten-scharf](https://www.spiegel.de/ausland/donald-trump-europaeische-aussenpolitiker-kritisieren-russland-agenda-des-us-praesidenten-scharf-a-8f7f30bc-b684-4300-9bea-08f26cc0540f#ref=rss)
+### jd
+
+* [https://www.spiegel.de/ausland/j-d-vance-der-maechtige-vizepraesident-im-kampf-gegen-die-linke](https://www.spiegel.de/ausland/j-d-vance-der-maechtige-vizepraesident-im-kampf-gegen-die-linke-a-7fa3bbdd-72d6-46c7-8609-4342403f4164#ref=rss)
+### vance
+
+* [https://www.spiegel.de/ausland/j-d-vance-der-maechtige-vizepraesident-im-kampf-gegen-die-linke](https://www.spiegel.de/ausland/j-d-vance-der-maechtige-vizepraesident-im-kampf-gegen-die-linke-a-7fa3bbdd-72d6-46c7-8609-4342403f4164#ref=rss)
+### macht
+
+* [https://www.spiegel.de/ausland/j-d-vance-der-maechtige-vizepraesident-im-kampf-gegen-die-linke](https://www.spiegel.de/ausland/j-d-vance-der-maechtige-vizepraesident-im-kampf-gegen-die-linke-a-7fa3bbdd-72d6-46c7-8609-4342403f4164#ref=rss)
+### kampf
+
+* [https://www.spiegel.de/ausland/j-d-vance-der-maechtige-vizepraesident-im-kampf-gegen-die-linke](https://www.spiegel.de/ausland/j-d-vance-der-maechtige-vizepraesident-im-kampf-gegen-die-linke-a-7fa3bbdd-72d6-46c7-8609-4342403f4164#ref=rss)
+### selten
+
+* [https://www.spiegel.de/ausland/j-d-vance-der-maechtige-vizepraesident-im-kampf-gegen-die-linke](https://www.spiegel.de/ausland/j-d-vance-der-maechtige-vizepraesident-im-kampf-gegen-die-linke-a-7fa3bbdd-72d6-46c7-8609-4342403f4164#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/toedliche-polizeischuesse-diese-elf-menschen-starben-2025](https://www.spiegel.de/panorama/justiz/toedliche-polizeischuesse-diese-elf-menschen-starben-2025-a-fc4c8ec6-626a-4360-ae6c-ce4691ec8254#ref=rss)
+### fast
+
+* [https://www.spiegel.de/ausland/j-d-vance-der-maechtige-vizepraesident-im-kampf-gegen-die-linke](https://www.spiegel.de/ausland/j-d-vance-der-maechtige-vizepraesident-im-kampf-gegen-die-linke-a-7fa3bbdd-72d6-46c7-8609-4342403f4164#ref=rss)
+* [https://www.spiegel.de/sport/boxen-23-gramm-uebergewicht-kosten-chris-eubank-jr-fast-eine-halbe-million-euro](https://www.spiegel.de/sport/boxen-23-gramm-uebergewicht-kosten-chris-eubank-jr-fast-eine-halbe-million-euro-a-f0175c45-1828-466c-a336-d2e7d182d191#ref=rss)
+### kobe
+
+* [https://www.spiegel.de/sport/basketball/basketball-kobe-bryants-debuet-trikot-wird-fuer-sieben-millionen-dollar-versteigert](https://www.spiegel.de/sport/basketball/basketball-kobe-bryants-debuet-trikot-wird-fuer-sieben-millionen-dollar-versteigert-a-2e1b75b8-b18e-47ff-811c-ad37a5993533#ref=rss)
+### sieben
+
+* [https://www.spiegel.de/sport/basketball/basketball-kobe-bryants-debuet-trikot-wird-fuer-sieben-millionen-dollar-versteigert](https://www.spiegel.de/sport/basketball/basketball-kobe-bryants-debuet-trikot-wird-fuer-sieben-millionen-dollar-versteigert-a-2e1b75b8-b18e-47ff-811c-ad37a5993533#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-europaeische-aussenpolitiker-kritisieren-russland-agenda-des-us-praesidenten-scharf](https://www.spiegel.de/ausland/donald-trump-europaeische-aussenpolitiker-kritisieren-russland-agenda-des-us-praesidenten-scharf-a-8f7f30bc-b684-4300-9bea-08f26cc0540f#ref=rss)
+### wert
+
+* [https://www.spiegel.de/sport/basketball/basketball-kobe-bryants-debuet-trikot-wird-fuer-sieben-millionen-dollar-versteigert](https://www.spiegel.de/sport/basketball/basketball-kobe-bryants-debuet-trikot-wird-fuer-sieben-millionen-dollar-versteigert-a-2e1b75b8-b18e-47ff-811c-ad37a5993533#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-und-die-spendenaffaere-vorsorgliche-strafzahlung-von-2-35-millionen-euro](https://www.spiegel.de/politik/deutschland/afd-und-die-spendenaffaere-vorsorgliche-strafzahlung-von-2-35-millionen-euro-a-1fcfe6e5-85de-48cc-a362-9aec7d05245a#ref=rss)
+### fbi
+
+* [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
+* [https://www.spiegel.de/ausland/usa-unter-donald-trump-fbi-nimmt-in-wisconsin-richterin-hannah-dugan-fest](https://www.spiegel.de/ausland/usa-unter-donald-trump-fbi-nimmt-in-wisconsin-richterin-hannah-dugan-fest-a-8de42837-82dd-4a86-91d1-ab3a268de740#ref=rss)
+### nimmt
+
+* [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
+* [https://www.spiegel.de/ausland/usa-unter-donald-trump-fbi-nimmt-in-wisconsin-richterin-hannah-dugan-fest](https://www.spiegel.de/ausland/usa-unter-donald-trump-fbi-nimmt-in-wisconsin-richterin-hannah-dugan-fest-a-8de42837-82dd-4a86-91d1-ab3a268de740#ref=rss)
+### fest
+
+* [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
+* [https://www.spiegel.de/ausland/usa-unter-donald-trump-fbi-nimmt-in-wisconsin-richterin-hannah-dugan-fest](https://www.spiegel.de/ausland/usa-unter-donald-trump-fbi-nimmt-in-wisconsin-richterin-hannah-dugan-fest-a-8de42837-82dd-4a86-91d1-ab3a268de740#ref=rss)
+### migranten
+
+* [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
+* [https://www.spiegel.de/ausland/usa-unter-donald-trump-fbi-nimmt-in-wisconsin-richterin-hannah-dugan-fest](https://www.spiegel.de/ausland/usa-unter-donald-trump-fbi-nimmt-in-wisconsin-richterin-hannah-dugan-fest-a-8de42837-82dd-4a86-91d1-ab3a268de740#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
+* [https://www.spiegel.de/ausland/usa-unter-donald-trump-fbi-nimmt-in-wisconsin-richterin-hannah-dugan-fest](https://www.spiegel.de/ausland/usa-unter-donald-trump-fbi-nimmt-in-wisconsin-richterin-hannah-dugan-fest-a-8de42837-82dd-4a86-91d1-ab3a268de740#ref=rss)
+### vorgehen
+
+* [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/japan-osaka-verbietet-aelteren-menschen-telefonate-an-geldautomaten](https://www.spiegel.de/netzwelt/gadgets/japan-osaka-verbietet-aelteren-menschen-telefonate-an-geldautomaten-a-6ed9019d-6bf0-43c9-9c85-982b5c3ce481#ref=rss)
+### wisconsin
+
+* [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
+* [https://www.spiegel.de/ausland/usa-unter-donald-trump-fbi-nimmt-in-wisconsin-richterin-hannah-dugan-fest](https://www.spiegel.de/ausland/usa-unter-donald-trump-fbi-nimmt-in-wisconsin-richterin-hannah-dugan-fest-a-8de42837-82dd-4a86-91d1-ab3a268de740#ref=rss)
+### bundespolizei
+
+* [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
+* [https://www.spiegel.de/panorama/baden-wuerttemberg-bundespolizei-rettet-gaensekueken-von-bahngleisen](https://www.spiegel.de/panorama/baden-wuerttemberg-bundespolizei-rettet-gaensekueken-von-bahngleisen-a-2b82bdea-4742-42d7-8a93-9640d6fc6989#ref=rss)
+### hannah
+
+* [https://www.spiegel.de/ausland/usa-unter-donald-trump-fbi-nimmt-in-wisconsin-richterin-hannah-dugan-fest](https://www.spiegel.de/ausland/usa-unter-donald-trump-fbi-nimmt-in-wisconsin-richterin-hannah-dugan-fest-a-8de42837-82dd-4a86-91d1-ab3a268de740#ref=rss)
+### dugan
+
+* [https://www.spiegel.de/ausland/usa-unter-donald-trump-fbi-nimmt-in-wisconsin-richterin-hannah-dugan-fest](https://www.spiegel.de/ausland/usa-unter-donald-trump-fbi-nimmt-in-wisconsin-richterin-hannah-dugan-fest-a-8de42837-82dd-4a86-91d1-ab3a268de740#ref=rss)
+### viele
+
+* [https://www.spiegel.de/kultur/tv/tatort-aus-muenchen-zugzwang-mit-batic-und-leitmayr](https://www.spiegel.de/kultur/tv/tatort-aus-muenchen-zugzwang-mit-batic-und-leitmayr-a-86c735b5-e8e6-40bf-8f97-b50a53d8a816#ref=rss)
 ### fühlt
 
 * [https://www.spiegel.de/politik/deutschland/trinkgeld-debatte-fuehlt-sich-trinkgeld-per-karte-wie-ein-muss-an](https://www.spiegel.de/politik/deutschland/trinkgeld-debatte-fuehlt-sich-trinkgeld-per-karte-wie-ein-muss-an-a-c3470ffb-5300-459a-bf7d-77a4ca0ff0e9#ref=rss)
 ### trinkgeld
 
 * [https://www.spiegel.de/politik/deutschland/trinkgeld-debatte-fuehlt-sich-trinkgeld-per-karte-wie-ein-muss-an](https://www.spiegel.de/politik/deutschland/trinkgeld-debatte-fuehlt-sich-trinkgeld-per-karte-wie-ein-muss-an-a-c3470ffb-5300-459a-bf7d-77a4ca0ff0e9#ref=rss)
-### per
+### friedrich
 
-* [https://www.spiegel.de/politik/deutschland/trinkgeld-debatte-fuehlt-sich-trinkgeld-per-karte-wie-ein-muss-an](https://www.spiegel.de/politik/deutschland/trinkgeld-debatte-fuehlt-sich-trinkgeld-per-karte-wie-ein-muss-an-a-c3470ffb-5300-459a-bf7d-77a4ca0ff0e9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutsche-post-ausweise-und-reisepaesse-ab-mai-per-post-fuer-15-euro-erhaeltlich](https://www.spiegel.de/wirtschaft/deutsche-post-ausweise-und-reisepaesse-ab-mai-per-post-fuer-15-euro-erhaeltlich-a-031d04d5-d27d-4d64-b853-9d9656665c27#ref=rss)
-### gedacht
+* [https://www.spiegel.de/politik/deutschland/kann-friedrich-merz-die-migrationspolitik-mit-dem-koalitionsvertrag-wenden](https://www.spiegel.de/politik/deutschland/kann-friedrich-merz-die-migrationspolitik-mit-dem-koalitionsvertrag-wenden-a-4b84da3d-8e4a-4e45-b264-d1c7cd17b0d2#ref=rss)
+### merz
 
-* [https://www.spiegel.de/politik/deutschland/trinkgeld-debatte-fuehlt-sich-trinkgeld-per-karte-wie-ein-muss-an](https://www.spiegel.de/politik/deutschland/trinkgeld-debatte-fuehlt-sich-trinkgeld-per-karte-wie-ein-muss-an-a-c3470ffb-5300-459a-bf7d-77a4ca0ff0e9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-botschafter-draengt-auf-teilnahmeverbot-fuer-russland-an-weltkriegs-gedenken](https://www.spiegel.de/politik/deutschland/ukraine-botschafter-draengt-auf-teilnahmeverbot-fuer-russland-an-weltkriegs-gedenken-a-9e8e329d-86f8-483c-9247-5821bd38a792#ref=rss)
-### trittau
+* [https://www.spiegel.de/politik/deutschland/kann-friedrich-merz-die-migrationspolitik-mit-dem-koalitionsvertrag-wenden](https://www.spiegel.de/politik/deutschland/kann-friedrich-merz-die-migrationspolitik-mit-dem-koalitionsvertrag-wenden-a-4b84da3d-8e4a-4e45-b264-d1c7cd17b0d2#ref=rss)
+### migrationspolitik
 
-* [https://www.spiegel.de/panorama/justiz/trittau-mann-stellt-sich-nach-toedlichen-disco-streit](https://www.spiegel.de/panorama/justiz/trittau-mann-stellt-sich-nach-toedlichen-disco-streit-a-001ffd41-7408-446b-9077-9b123d62a32d#ref=rss)
-### mann
+* [https://www.spiegel.de/politik/deutschland/kann-friedrich-merz-die-migrationspolitik-mit-dem-koalitionsvertrag-wenden](https://www.spiegel.de/politik/deutschland/kann-friedrich-merz-die-migrationspolitik-mit-dem-koalitionsvertrag-wenden-a-4b84da3d-8e4a-4e45-b264-d1c7cd17b0d2#ref=rss)
+### koalitionsvertrag
 
-* [https://www.spiegel.de/panorama/justiz/trittau-mann-stellt-sich-nach-toedlichen-disco-streit](https://www.spiegel.de/panorama/justiz/trittau-mann-stellt-sich-nach-toedlichen-disco-streit-a-001ffd41-7408-446b-9077-9b123d62a32d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-rollstuhlfahrer-erstochen-lebenslange-haft-fuer-30-jaehrigen](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-rollstuhlfahrer-erstochen-lebenslange-haft-fuer-30-jaehrigen-a-586919ad-c5b0-4b6c-a1f0-82726a237945#ref=rss)
-### tödlichen
+* [https://www.spiegel.de/politik/deutschland/kann-friedrich-merz-die-migrationspolitik-mit-dem-koalitionsvertrag-wenden](https://www.spiegel.de/politik/deutschland/kann-friedrich-merz-die-migrationspolitik-mit-dem-koalitionsvertrag-wenden-a-4b84da3d-8e4a-4e45-b264-d1c7cd17b0d2#ref=rss)
+### allein
 
-* [https://www.spiegel.de/panorama/justiz/trittau-mann-stellt-sich-nach-toedlichen-disco-streit](https://www.spiegel.de/panorama/justiz/trittau-mann-stellt-sich-nach-toedlichen-disco-streit-a-001ffd41-7408-446b-9077-9b123d62a32d#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gesteht-toedlichen-angriff-auf-uno-helfer-ein](https://www.spiegel.de/ausland/israel-gesteht-toedlichen-angriff-auf-uno-helfer-ein-a-8870d706-7da8-4585-8444-95b60e4ec065#ref=rss)
-### millionen
+* [https://www.spiegel.de/politik/deutschland/kann-friedrich-merz-die-migrationspolitik-mit-dem-koalitionsvertrag-wenden](https://www.spiegel.de/politik/deutschland/kann-friedrich-merz-die-migrationspolitik-mit-dem-koalitionsvertrag-wenden-a-4b84da3d-8e4a-4e45-b264-d1c7cd17b0d2#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/toedliche-polizeischuesse-diese-elf-menschen-starben-2025](https://www.spiegel.de/panorama/justiz/toedliche-polizeischuesse-diese-elf-menschen-starben-2025-a-fc4c8ec6-626a-4360-ae6c-ce4691ec8254#ref=rss)
+### giovanni
 
-* [https://www.spiegel.de/wissenschaft/natur/hoellenameise-lebte-vor-113-millionen-jahren-in-brasilien](https://www.spiegel.de/wissenschaft/natur/hoellenameise-lebte-vor-113-millionen-jahren-in-brasilien-a-97db17a2-0426-4a9d-b141-a66ab7dc2f16#ref=rss)
-* [https://www.spiegel.de/netzwelt/meta-raeumt-grosses-spam-problem-bei-facebook-ein](https://www.spiegel.de/netzwelt/meta-raeumt-grosses-spam-problem-bei-facebook-ein-a-8da5063b-f4eb-4106-9040-e734bf36e6e7#ref=rss)
-### ausbruch
+* [https://www.spiegel.de/ausland/vatikan-wer-ist-giovanni-battista-re-der-den-gottesdienst-fuer-franziskus-leitet](https://www.spiegel.de/ausland/vatikan-wer-ist-giovanni-battista-re-der-den-gottesdienst-fuer-franziskus-leitet-a-6f397562-1acb-4341-bbf6-06e8f7624277#ref=rss)
+### battista
 
-* [https://www.spiegel.de/wissenschaft/natur/vogelgrippe-ein-einziger-wildvogel-kontakt-soll-ausbruch-bei-us-kuehen-ausgeloest-haben](https://www.spiegel.de/wissenschaft/natur/vogelgrippe-ein-einziger-wildvogel-kontakt-soll-ausbruch-bei-us-kuehen-ausgeloest-haben-a-102c5551-4dc6-4ca3-85d5-6abbabad6ec4#ref=rss)
-### 2024
+* [https://www.spiegel.de/ausland/vatikan-wer-ist-giovanni-battista-re-der-den-gottesdienst-fuer-franziskus-leitet](https://www.spiegel.de/ausland/vatikan-wer-ist-giovanni-battista-re-der-den-gottesdienst-fuer-franziskus-leitet-a-6f397562-1acb-4341-bbf6-06e8f7624277#ref=rss)
+### re
 
-* [https://www.spiegel.de/wissenschaft/natur/vogelgrippe-ein-einziger-wildvogel-kontakt-soll-ausbruch-bei-us-kuehen-ausgeloest-haben](https://www.spiegel.de/wissenschaft/natur/vogelgrippe-ein-einziger-wildvogel-kontakt-soll-ausbruch-bei-us-kuehen-ausgeloest-haben-a-102c5551-4dc6-4ca3-85d5-6abbabad6ec4#ref=rss)
-* [https://www.spiegel.de/netzwelt/meta-raeumt-grosses-spam-problem-bei-facebook-ein](https://www.spiegel.de/netzwelt/meta-raeumt-grosses-spam-problem-bei-facebook-ein-a-8da5063b-f4eb-4106-9040-e734bf36e6e7#ref=rss)
-### pete
+* [https://www.spiegel.de/ausland/vatikan-wer-ist-giovanni-battista-re-der-den-gottesdienst-fuer-franziskus-leitet](https://www.spiegel.de/ausland/vatikan-wer-ist-giovanni-battista-re-der-den-gottesdienst-fuer-franziskus-leitet-a-6f397562-1acb-4341-bbf6-06e8f7624277#ref=rss)
+### franziskus
 
-* [https://www.spiegel.de/ausland/usa-pete-hegseth-nutzte-fuer-chat-zu-luftangriff-oeffentlich-verfuegbare-handynummer](https://www.spiegel.de/ausland/usa-pete-hegseth-nutzte-fuer-chat-zu-luftangriff-oeffentlich-verfuegbare-handynummer-a-ec3f4bc9-f9a6-4666-ba3d-d676c0bc066f#ref=rss)
-### hegseth
+* [https://www.spiegel.de/ausland/vatikan-wer-ist-giovanni-battista-re-der-den-gottesdienst-fuer-franziskus-leitet](https://www.spiegel.de/ausland/vatikan-wer-ist-giovanni-battista-re-der-den-gottesdienst-fuer-franziskus-leitet-a-6f397562-1acb-4341-bbf6-06e8f7624277#ref=rss)
+### leitet
 
-* [https://www.spiegel.de/ausland/usa-pete-hegseth-nutzte-fuer-chat-zu-luftangriff-oeffentlich-verfuegbare-handynummer](https://www.spiegel.de/ausland/usa-pete-hegseth-nutzte-fuer-chat-zu-luftangriff-oeffentlich-verfuegbare-handynummer-a-ec3f4bc9-f9a6-4666-ba3d-d676c0bc066f#ref=rss)
-### chat
+* [https://www.spiegel.de/ausland/vatikan-wer-ist-giovanni-battista-re-der-den-gottesdienst-fuer-franziskus-leitet](https://www.spiegel.de/ausland/vatikan-wer-ist-giovanni-battista-re-der-den-gottesdienst-fuer-franziskus-leitet-a-6f397562-1acb-4341-bbf6-06e8f7624277#ref=rss)
+### bsw
 
-* [https://www.spiegel.de/ausland/usa-pete-hegseth-nutzte-fuer-chat-zu-luftangriff-oeffentlich-verfuegbare-handynummer](https://www.spiegel.de/ausland/usa-pete-hegseth-nutzte-fuer-chat-zu-luftangriff-oeffentlich-verfuegbare-handynummer-a-ec3f4bc9-f9a6-4666-ba3d-d676c0bc066f#ref=rss)
-### york
+* [https://www.spiegel.de/politik/deutschland/bsw-sahra-wagenknecht-setzt-thueringer-widersacherin-katja-wolf-mit-brief-unter-druck](https://www.spiegel.de/politik/deutschland/bsw-sahra-wagenknecht-setzt-thueringer-widersacherin-katja-wolf-mit-brief-unter-druck-a-1905a49c-1d39-4a3b-8156-89b3b2c858f4#ref=rss)
+### wagenknecht
 
-* [https://www.spiegel.de/ausland/usa-pete-hegseth-nutzte-fuer-chat-zu-luftangriff-oeffentlich-verfuegbare-handynummer](https://www.spiegel.de/ausland/usa-pete-hegseth-nutzte-fuer-chat-zu-luftangriff-oeffentlich-verfuegbare-handynummer-a-ec3f4bc9-f9a6-4666-ba3d-d676c0bc066f#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-playoffs-detroit-pistons-patzen-gegen-new-york-knicks-oklahoma-city-thunder-holt-29-punkte-auf](https://www.spiegel.de/sport/basketball/nba-playoffs-detroit-pistons-patzen-gegen-new-york-knicks-oklahoma-city-thunder-holt-29-punkte-auf-a-b029a63d-375e-47fb-bab9-eb4190737f28#ref=rss)
-### sandro
+* [https://www.spiegel.de/politik/deutschland/bsw-sahra-wagenknecht-setzt-thueringer-widersacherin-katja-wolf-mit-brief-unter-druck](https://www.spiegel.de/politik/deutschland/bsw-sahra-wagenknecht-setzt-thueringer-widersacherin-katja-wolf-mit-brief-unter-druck-a-1905a49c-1d39-4a3b-8156-89b3b2c858f4#ref=rss)
+### neue
 
-* [https://www.spiegel.de/sport/fussball/dfb-sandro-wagner-ab-sommer-nicht-laenger-co-trainer-von-julian-nagelsmann](https://www.spiegel.de/sport/fussball/dfb-sandro-wagner-ab-sommer-nicht-laenger-co-trainer-von-julian-nagelsmann-a-af10d40c-c1da-40cb-886b-a530f2dfa7ef#ref=rss)
-### julian
+* [https://www.spiegel.de/politik/deutschland/bsw-sahra-wagenknecht-setzt-thueringer-widersacherin-katja-wolf-mit-brief-unter-druck](https://www.spiegel.de/politik/deutschland/bsw-sahra-wagenknecht-setzt-thueringer-widersacherin-katja-wolf-mit-brief-unter-druck-a-1905a49c-1d39-4a3b-8156-89b3b2c858f4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-pete-hegseth-anschlag-bei-moskau-katholische-kirche](https://www.spiegel.de/politik/deutschland/news-des-tages-pete-hegseth-anschlag-bei-moskau-katholische-kirche-a-a8343264-abce-4956-9ef0-8c2b1bcc9495#ref=rss)
+### chris
 
-* [https://www.spiegel.de/sport/fussball/dfb-sandro-wagner-ab-sommer-nicht-laenger-co-trainer-von-julian-nagelsmann](https://www.spiegel.de/sport/fussball/dfb-sandro-wagner-ab-sommer-nicht-laenger-co-trainer-von-julian-nagelsmann-a-af10d40c-c1da-40cb-886b-a530f2dfa7ef#ref=rss)
-### nagelsmann
+* [https://www.spiegel.de/sport/boxen-23-gramm-uebergewicht-kosten-chris-eubank-jr-fast-eine-halbe-million-euro](https://www.spiegel.de/sport/boxen-23-gramm-uebergewicht-kosten-chris-eubank-jr-fast-eine-halbe-million-euro-a-f0175c45-1828-466c-a336-d2e7d182d191#ref=rss)
+### eubank
 
-* [https://www.spiegel.de/sport/fussball/dfb-sandro-wagner-ab-sommer-nicht-laenger-co-trainer-von-julian-nagelsmann](https://www.spiegel.de/sport/fussball/dfb-sandro-wagner-ab-sommer-nicht-laenger-co-trainer-von-julian-nagelsmann-a-af10d40c-c1da-40cb-886b-a530f2dfa7ef#ref=rss)
-### rumänen
+* [https://www.spiegel.de/sport/boxen-23-gramm-uebergewicht-kosten-chris-eubank-jr-fast-eine-halbe-million-euro](https://www.spiegel.de/sport/boxen-23-gramm-uebergewicht-kosten-chris-eubank-jr-fast-eine-halbe-million-euro-a-f0175c45-1828-466c-a336-d2e7d182d191#ref=rss)
+### jr
 
-* [https://www.spiegel.de/ausland/russland-geheimdienst-verhaftet-rumaenen-wegen-spionagevorwuerfen](https://www.spiegel.de/ausland/russland-geheimdienst-verhaftet-rumaenen-wegen-spionagevorwuerfen-a-c3b0c204-2c32-4912-9cf1-121f9a4d665e#ref=rss)
-### 20
+* [https://www.spiegel.de/sport/boxen-23-gramm-uebergewicht-kosten-chris-eubank-jr-fast-eine-halbe-million-euro](https://www.spiegel.de/sport/boxen-23-gramm-uebergewicht-kosten-chris-eubank-jr-fast-eine-halbe-million-euro-a-f0175c45-1828-466c-a336-d2e7d182d191#ref=rss)
+### zweite
 
-* [https://www.spiegel.de/ausland/russland-geheimdienst-verhaftet-rumaenen-wegen-spionagevorwuerfen](https://www.spiegel.de/ausland/russland-geheimdienst-verhaftet-rumaenen-wegen-spionagevorwuerfen-a-c3b0c204-2c32-4912-9cf1-121f9a4d665e#ref=rss)
-* [https://www.spiegel.de/ausland/kaschmir-schuesse-zwischen-indischen-und-pakistanischen-soldaten](https://www.spiegel.de/ausland/kaschmir-schuesse-zwischen-indischen-und-pakistanischen-soldaten-a-0d2121c0-83a8-43f9-85b1-56ee35d19048#ref=rss)
-### haft
+* [https://www.spiegel.de/sport/boxen-23-gramm-uebergewicht-kosten-chris-eubank-jr-fast-eine-halbe-million-euro](https://www.spiegel.de/sport/boxen-23-gramm-uebergewicht-kosten-chris-eubank-jr-fast-eine-halbe-million-euro-a-f0175c45-1828-466c-a336-d2e7d182d191#ref=rss)
+* [https://www.spiegel.de/panorama/baden-wuerttemberg-bundespolizei-rettet-gaensekueken-von-bahngleisen](https://www.spiegel.de/panorama/baden-wuerttemberg-bundespolizei-rettet-gaensekueken-von-bahngleisen-a-2b82bdea-4742-42d7-8a93-9640d6fc6989#ref=rss)
+### wut
 
-* [https://www.spiegel.de/ausland/russland-geheimdienst-verhaftet-rumaenen-wegen-spionagevorwuerfen](https://www.spiegel.de/ausland/russland-geheimdienst-verhaftet-rumaenen-wegen-spionagevorwuerfen-a-c3b0c204-2c32-4912-9cf1-121f9a4d665e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-rollstuhlfahrer-erstochen-lebenslange-haft-fuer-30-jaehrigen](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-rollstuhlfahrer-erstochen-lebenslange-haft-fuer-30-jaehrigen-a-586919ad-c5b0-4b6c-a1f0-82726a237945#ref=rss)
-### meta
+* [https://www.spiegel.de/kultur/literatur/neuer-martin-suter-roman-wut-und-liebe-geld-ist-die-loesung](https://www.spiegel.de/kultur/literatur/neuer-martin-suter-roman-wut-und-liebe-geld-ist-die-loesung-a-6e040d1d-655b-4269-99db-cbdcfbc576d9#ref=rss)
+### anschlag
 
-* [https://www.spiegel.de/netzwelt/meta-raeumt-grosses-spam-problem-bei-facebook-ein](https://www.spiegel.de/netzwelt/meta-raeumt-grosses-spam-problem-bei-facebook-ein-a-8da5063b-f4eb-4106-9040-e734bf36e6e7#ref=rss)
-### sieht
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-pete-hegseth-anschlag-bei-moskau-katholische-kirche](https://www.spiegel.de/politik/deutschland/news-des-tages-pete-hegseth-anschlag-bei-moskau-katholische-kirche-a-a8343264-abce-4956-9ef0-8c2b1bcc9495#ref=rss)
+### moskau
 
-* [https://www.spiegel.de/netzwelt/meta-raeumt-grosses-spam-problem-bei-facebook-ein](https://www.spiegel.de/netzwelt/meta-raeumt-grosses-spam-problem-bei-facebook-ein-a-8da5063b-f4eb-4106-9040-e734bf36e6e7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/studie-us-fluggesellschaften-werden-zu-den-verlierern-von-trumps-zollpolitik-gehoeren](https://www.spiegel.de/wirtschaft/unternehmen/studie-us-fluggesellschaften-werden-zu-den-verlierern-von-trumps-zollpolitik-gehoeren-a-8181e488-089e-433f-855e-07fe86402570#ref=rss)
-### unternehmen
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-pete-hegseth-anschlag-bei-moskau-katholische-kirche](https://www.spiegel.de/politik/deutschland/news-des-tages-pete-hegseth-anschlag-bei-moskau-katholische-kirche-a-a8343264-abce-4956-9ef0-8c2b1bcc9495#ref=rss)
+### kirche
 
-* [https://www.spiegel.de/netzwelt/meta-raeumt-grosses-spam-problem-bei-facebook-ein](https://www.spiegel.de/netzwelt/meta-raeumt-grosses-spam-problem-bei-facebook-ein-a-8da5063b-f4eb-4106-9040-e734bf36e6e7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/studie-der-kfw-bank-mittelstand-verliert-milliarden-durch-buerokratische-pflichten](https://www.spiegel.de/wirtschaft/studie-der-kfw-bank-mittelstand-verliert-milliarden-durch-buerokratische-pflichten-a-8aae8064-4e58-49ed-9a7d-b2e9ca46d8b1#ref=rss)
-### 15
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-pete-hegseth-anschlag-bei-moskau-katholische-kirche](https://www.spiegel.de/politik/deutschland/news-des-tages-pete-hegseth-anschlag-bei-moskau-katholische-kirche-a-a8343264-abce-4956-9ef0-8c2b1bcc9495#ref=rss)
+### union
 
-* [https://www.spiegel.de/wirtschaft/deutsche-post-ausweise-und-reisepaesse-ab-mai-per-post-fuer-15-euro-erhaeltlich](https://www.spiegel.de/wirtschaft/deutsche-post-ausweise-und-reisepaesse-ab-mai-per-post-fuer-15-euro-erhaeltlich-a-031d04d5-d27d-4d64-b853-9d9656665c27#ref=rss)
-### euro
+* [https://www.spiegel.de/wissenschaft/mensch/europaeische-union-wind-und-solarenergie-staerken-europas-unabhaengigkeit](https://www.spiegel.de/wissenschaft/mensch/europaeische-union-wind-und-solarenergie-staerken-europas-unabhaengigkeit-a-f9931a4a-38c0-41e6-bcac-2f98d3d78870#ref=rss)
+### wind
 
-* [https://www.spiegel.de/wirtschaft/deutsche-post-ausweise-und-reisepaesse-ab-mai-per-post-fuer-15-euro-erhaeltlich](https://www.spiegel.de/wirtschaft/deutsche-post-ausweise-und-reisepaesse-ab-mai-per-post-fuer-15-euro-erhaeltlich-a-031d04d5-d27d-4d64-b853-9d9656665c27#ref=rss)
-### grundsteuer
+* [https://www.spiegel.de/wissenschaft/mensch/europaeische-union-wind-und-solarenergie-staerken-europas-unabhaengigkeit](https://www.spiegel.de/wissenschaft/mensch/europaeische-union-wind-und-solarenergie-staerken-europas-unabhaengigkeit-a-f9931a4a-38c0-41e6-bcac-2f98d3d78870#ref=rss)
+### unabhängigkeit
 
-* [https://www.spiegel.de/wirtschaft/grundsteuer-zwei-drittel-der-privaten-eigentuemer-zahlen-mehr-durch-reform](https://www.spiegel.de/wirtschaft/grundsteuer-zwei-drittel-der-privaten-eigentuemer-zahlen-mehr-durch-reform-a-ec0cdaa3-3512-4bb6-8163-f33190cdf5c8#ref=rss)
-### drittel
+* [https://www.spiegel.de/wissenschaft/mensch/europaeische-union-wind-und-solarenergie-staerken-europas-unabhaengigkeit](https://www.spiegel.de/wissenschaft/mensch/europaeische-union-wind-und-solarenergie-staerken-europas-unabhaengigkeit-a-f9931a4a-38c0-41e6-bcac-2f98d3d78870#ref=rss)
+### griechenland
 
-* [https://www.spiegel.de/wirtschaft/grundsteuer-zwei-drittel-der-privaten-eigentuemer-zahlen-mehr-durch-reform](https://www.spiegel.de/wirtschaft/grundsteuer-zwei-drittel-der-privaten-eigentuemer-zahlen-mehr-durch-reform-a-ec0cdaa3-3512-4bb6-8163-f33190cdf5c8#ref=rss)
-### laut
+* [https://www.spiegel.de/politik/griechenland-lehnt-ruecknahme-von-gefluechteten-aus-deutschland-ab](https://www.spiegel.de/politik/griechenland-lehnt-ruecknahme-von-gefluechteten-aus-deutschland-ab-a-c6bfe708-4b96-4848-b651-25d9ea59f337#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/wirtschaft/grundsteuer-zwei-drittel-der-privaten-eigentuemer-zahlen-mehr-durch-reform](https://www.spiegel.de/wirtschaft/grundsteuer-zwei-drittel-der-privaten-eigentuemer-zahlen-mehr-durch-reform-a-ec0cdaa3-3512-4bb6-8163-f33190cdf5c8#ref=rss)
-* [https://www.spiegel.de/ausland/kaschmir-schuesse-zwischen-indischen-und-pakistanischen-soldaten](https://www.spiegel.de/ausland/kaschmir-schuesse-zwischen-indischen-und-pakistanischen-soldaten-a-0d2121c0-83a8-43f9-85b1-56ee35d19048#ref=rss)
-### große
+* [https://www.spiegel.de/politik/griechenland-lehnt-ruecknahme-von-gefluechteten-aus-deutschland-ab](https://www.spiegel.de/politik/griechenland-lehnt-ruecknahme-von-gefluechteten-aus-deutschland-ab-a-c6bfe708-4b96-4848-b651-25d9ea59f337#ref=rss)
+* [https://www.spiegel.de/kultur/musik/kneecap-hurricane-und-southside-laden-band-nach-coachella-auftritt-aus](https://www.spiegel.de/kultur/musik/kneecap-hurricane-und-southside-laden-band-nach-coachella-auftritt-aus-a-e846e0dd-6358-4b23-89d0-3797862ff3d3#ref=rss)
+### afd
 
-* [https://www.spiegel.de/wirtschaft/grundsteuer-zwei-drittel-der-privaten-eigentuemer-zahlen-mehr-durch-reform](https://www.spiegel.de/wirtschaft/grundsteuer-zwei-drittel-der-privaten-eigentuemer-zahlen-mehr-durch-reform-a-ec0cdaa3-3512-4bb6-8163-f33190cdf5c8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/studie-us-fluggesellschaften-werden-zu-den-verlierern-von-trumps-zollpolitik-gehoeren](https://www.spiegel.de/wirtschaft/unternehmen/studie-us-fluggesellschaften-werden-zu-den-verlierern-von-trumps-zollpolitik-gehoeren-a-8181e488-089e-433f-855e-07fe86402570#ref=rss)
-### frankfurt
+* [https://www.spiegel.de/politik/deutschland/afd-und-die-spendenaffaere-vorsorgliche-strafzahlung-von-2-35-millionen-euro](https://www.spiegel.de/politik/deutschland/afd-und-die-spendenaffaere-vorsorgliche-strafzahlung-von-2-35-millionen-euro-a-1fcfe6e5-85de-48cc-a362-9aec7d05245a#ref=rss)
+### 235
 
-* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-rollstuhlfahrer-erstochen-lebenslange-haft-fuer-30-jaehrigen](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-rollstuhlfahrer-erstochen-lebenslange-haft-fuer-30-jaehrigen-a-586919ad-c5b0-4b6c-a1f0-82726a237945#ref=rss)
-### main
+* [https://www.spiegel.de/politik/deutschland/afd-und-die-spendenaffaere-vorsorgliche-strafzahlung-von-2-35-millionen-euro](https://www.spiegel.de/politik/deutschland/afd-und-die-spendenaffaere-vorsorgliche-strafzahlung-von-2-35-millionen-euro-a-1fcfe6e5-85de-48cc-a362-9aec7d05245a#ref=rss)
+### außenpolitiker
 
-* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-rollstuhlfahrer-erstochen-lebenslange-haft-fuer-30-jaehrigen](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-rollstuhlfahrer-erstochen-lebenslange-haft-fuer-30-jaehrigen-a-586919ad-c5b0-4b6c-a1f0-82726a237945#ref=rss)
-### 30jährigen
+* [https://www.spiegel.de/ausland/donald-trump-europaeische-aussenpolitiker-kritisieren-russland-agenda-des-us-praesidenten-scharf](https://www.spiegel.de/ausland/donald-trump-europaeische-aussenpolitiker-kritisieren-russland-agenda-des-us-praesidenten-scharf-a-8f7f30bc-b684-4300-9bea-08f26cc0540f#ref=rss)
+### uspräsidenten
 
-* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-rollstuhlfahrer-erstochen-lebenslange-haft-fuer-30-jaehrigen](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-rollstuhlfahrer-erstochen-lebenslange-haft-fuer-30-jaehrigen-a-586919ad-c5b0-4b6c-a1f0-82726a237945#ref=rss)
-### französische
+* [https://www.spiegel.de/ausland/donald-trump-europaeische-aussenpolitiker-kritisieren-russland-agenda-des-us-praesidenten-scharf](https://www.spiegel.de/ausland/donald-trump-europaeische-aussenpolitiker-kritisieren-russland-agenda-des-us-praesidenten-scharf-a-8f7f30bc-b684-4300-9bea-08f26cc0540f#ref=rss)
+### kneecap
 
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-franzoesische-juniorenmeisterin-margot-simond-stirbt-nach-trainingssturz](https://www.spiegel.de/sport/wintersport/ski-alpin-franzoesische-juniorenmeisterin-margot-simond-stirbt-nach-trainingssturz-a-521b78a2-cea3-4806-8ff7-91ba58e338bf#ref=rss)
-### margot
+* [https://www.spiegel.de/kultur/musik/kneecap-hurricane-und-southside-laden-band-nach-coachella-auftritt-aus](https://www.spiegel.de/kultur/musik/kneecap-hurricane-und-southside-laden-band-nach-coachella-auftritt-aus-a-e846e0dd-6358-4b23-89d0-3797862ff3d3#ref=rss)
+### hurricane
 
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-franzoesische-juniorenmeisterin-margot-simond-stirbt-nach-trainingssturz](https://www.spiegel.de/sport/wintersport/ski-alpin-franzoesische-juniorenmeisterin-margot-simond-stirbt-nach-trainingssturz-a-521b78a2-cea3-4806-8ff7-91ba58e338bf#ref=rss)
-### erst
+* [https://www.spiegel.de/kultur/musik/kneecap-hurricane-und-southside-laden-band-nach-coachella-auftritt-aus](https://www.spiegel.de/kultur/musik/kneecap-hurricane-und-southside-laden-band-nach-coachella-auftritt-aus-a-e846e0dd-6358-4b23-89d0-3797862ff3d3#ref=rss)
+### southside
 
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-franzoesische-juniorenmeisterin-margot-simond-stirbt-nach-trainingssturz](https://www.spiegel.de/sport/wintersport/ski-alpin-franzoesische-juniorenmeisterin-margot-simond-stirbt-nach-trainingssturz-a-521b78a2-cea3-4806-8ff7-91ba58e338bf#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gesteht-toedlichen-angriff-auf-uno-helfer-ein](https://www.spiegel.de/ausland/israel-gesteht-toedlichen-angriff-auf-uno-helfer-ein-a-8870d706-7da8-4585-8444-95b60e4ec065#ref=rss)
-### dollar
+* [https://www.spiegel.de/kultur/musik/kneecap-hurricane-und-southside-laden-band-nach-coachella-auftritt-aus](https://www.spiegel.de/kultur/musik/kneecap-hurricane-und-southside-laden-band-nach-coachella-auftritt-aus-a-e846e0dd-6358-4b23-89d0-3797862ff3d3#ref=rss)
+### lisa
 
-* [https://www.spiegel.de/netzwelt/web/quartalszahlen-google-konzern-erzielt-einen-der-hoechsten-gewinne-aller-zeiten](https://www.spiegel.de/netzwelt/web/quartalszahlen-google-konzern-erzielt-einen-der-hoechsten-gewinne-aller-zeiten-a-931c447d-ae77-4649-90f0-8802938a5cb9#ref=rss)
-### gaza
+* [https://www.spiegel.de/panorama/bildung/lisa-poettinger-klimaaktivistin-will-weiter-um-referendariat-in-bayern-kaempfen](https://www.spiegel.de/panorama/bildung/lisa-poettinger-klimaaktivistin-will-weiter-um-referendariat-in-bayern-kaempfen-a-a436b13b-f97d-498a-80b8-e92778499dd3#ref=rss)
+### poettinger
 
-* [https://www.spiegel.de/ausland/deutschlands-position-zu-israel-und-gaza-staatsraeson-ersetzt-keine-kritische-politik-meinung](https://www.spiegel.de/ausland/deutschlands-position-zu-israel-und-gaza-staatsraeson-ersetzt-keine-kritische-politik-meinung-a-e60b10ad-25a4-42d8-8ad3-cbc92d14ece8#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gesteht-toedlichen-angriff-auf-uno-helfer-ein](https://www.spiegel.de/ausland/israel-gesteht-toedlichen-angriff-auf-uno-helfer-ein-a-8870d706-7da8-4585-8444-95b60e4ec065#ref=rss)
-### gazastreifen
+* [https://www.spiegel.de/panorama/bildung/lisa-poettinger-klimaaktivistin-will-weiter-um-referendariat-in-bayern-kaempfen](https://www.spiegel.de/panorama/bildung/lisa-poettinger-klimaaktivistin-will-weiter-um-referendariat-in-bayern-kaempfen-a-a436b13b-f97d-498a-80b8-e92778499dd3#ref=rss)
+### klimaaktivistin
 
-* [https://www.spiegel.de/ausland/deutschlands-position-zu-israel-und-gaza-staatsraeson-ersetzt-keine-kritische-politik-meinung](https://www.spiegel.de/ausland/deutschlands-position-zu-israel-und-gaza-staatsraeson-ersetzt-keine-kritische-politik-meinung-a-e60b10ad-25a4-42d8-8ad3-cbc92d14ece8#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gesteht-toedlichen-angriff-auf-uno-helfer-ein](https://www.spiegel.de/ausland/israel-gesteht-toedlichen-angriff-auf-uno-helfer-ein-a-8870d706-7da8-4585-8444-95b60e4ec065#ref=rss)
-### drängt
+* [https://www.spiegel.de/panorama/bildung/lisa-poettinger-klimaaktivistin-will-weiter-um-referendariat-in-bayern-kaempfen](https://www.spiegel.de/panorama/bildung/lisa-poettinger-klimaaktivistin-will-weiter-um-referendariat-in-bayern-kaempfen-a-a436b13b-f97d-498a-80b8-e92778499dd3#ref=rss)
+### referendariat
 
-* [https://www.spiegel.de/politik/deutschland/ukraine-botschafter-draengt-auf-teilnahmeverbot-fuer-russland-an-weltkriegs-gedenken](https://www.spiegel.de/politik/deutschland/ukraine-botschafter-draengt-auf-teilnahmeverbot-fuer-russland-an-weltkriegs-gedenken-a-9e8e329d-86f8-483c-9247-5821bd38a792#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sigmar-gabriel-ex-aussenminister-vergleicht-donald-trumps-ukrainedeal-mit-versailler-vertrag](https://www.spiegel.de/politik/deutschland/sigmar-gabriel-ex-aussenminister-vergleicht-donald-trumps-ukrainedeal-mit-versailler-vertrag-a-80c53b49-11f9-4755-9b49-a7c8b67ded56#ref=rss)
-### 80
+* [https://www.spiegel.de/panorama/bildung/lisa-poettinger-klimaaktivistin-will-weiter-um-referendariat-in-bayern-kaempfen](https://www.spiegel.de/panorama/bildung/lisa-poettinger-klimaaktivistin-will-weiter-um-referendariat-in-bayern-kaempfen-a-a436b13b-f97d-498a-80b8-e92778499dd3#ref=rss)
+### bayern
 
-* [https://www.spiegel.de/politik/deutschland/ukraine-botschafter-draengt-auf-teilnahmeverbot-fuer-russland-an-weltkriegs-gedenken](https://www.spiegel.de/politik/deutschland/ukraine-botschafter-draengt-auf-teilnahmeverbot-fuer-russland-an-weltkriegs-gedenken-a-9e8e329d-86f8-483c-9247-5821bd38a792#ref=rss)
-* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-handschlag-von-torgau-sieben-soldaten-und-ein-bild-fuer-die-ewigkeit](https://www.spiegel.de/geschichte/zweiter-weltkrieg-handschlag-von-torgau-sieben-soldaten-und-ein-bild-fuer-die-ewigkeit-a-dcb386b7-fbd8-4c68-a715-9281ecbf8ebc#ref=rss)
-### botschafter
+* [https://www.spiegel.de/panorama/bildung/lisa-poettinger-klimaaktivistin-will-weiter-um-referendariat-in-bayern-kaempfen](https://www.spiegel.de/panorama/bildung/lisa-poettinger-klimaaktivistin-will-weiter-um-referendariat-in-bayern-kaempfen-a-a436b13b-f97d-498a-80b8-e92778499dd3#ref=rss)
+### spanien
 
-* [https://www.spiegel.de/politik/deutschland/ukraine-botschafter-draengt-auf-teilnahmeverbot-fuer-russland-an-weltkriegs-gedenken](https://www.spiegel.de/politik/deutschland/ukraine-botschafter-draengt-auf-teilnahmeverbot-fuer-russland-an-weltkriegs-gedenken-a-9e8e329d-86f8-483c-9247-5821bd38a792#ref=rss)
-### sigmar
+* [https://www.spiegel.de/panorama/justiz/spanien-frau-soll-baby-fuer-wenige-tausend-euro-verkauft-haben](https://www.spiegel.de/panorama/justiz/spanien-frau-soll-baby-fuer-wenige-tausend-euro-verkauft-haben-a-c7700d44-171b-44e0-b488-96fef90fdc72#ref=rss)
+### baby
 
-* [https://www.spiegel.de/politik/deutschland/sigmar-gabriel-ex-aussenminister-vergleicht-donald-trumps-ukrainedeal-mit-versailler-vertrag](https://www.spiegel.de/politik/deutschland/sigmar-gabriel-ex-aussenminister-vergleicht-donald-trumps-ukrainedeal-mit-versailler-vertrag-a-80c53b49-11f9-4755-9b49-a7c8b67ded56#ref=rss)
-### gabriel
+* [https://www.spiegel.de/panorama/justiz/spanien-frau-soll-baby-fuer-wenige-tausend-euro-verkauft-haben](https://www.spiegel.de/panorama/justiz/spanien-frau-soll-baby-fuer-wenige-tausend-euro-verkauft-haben-a-c7700d44-171b-44e0-b488-96fef90fdc72#ref=rss)
+### osaka
 
-* [https://www.spiegel.de/politik/deutschland/sigmar-gabriel-ex-aussenminister-vergleicht-donald-trumps-ukrainedeal-mit-versailler-vertrag](https://www.spiegel.de/politik/deutschland/sigmar-gabriel-ex-aussenminister-vergleicht-donald-trumps-ukrainedeal-mit-versailler-vertrag-a-80c53b49-11f9-4755-9b49-a7c8b67ded56#ref=rss)
-### folgen
+* [https://www.spiegel.de/netzwelt/gadgets/japan-osaka-verbietet-aelteren-menschen-telefonate-an-geldautomaten](https://www.spiegel.de/netzwelt/gadgets/japan-osaka-verbietet-aelteren-menschen-telefonate-an-geldautomaten-a-6ed9019d-6bf0-43c9-9c85-982b5c3ce481#ref=rss)
+### geldautomaten
 
-* [https://www.spiegel.de/politik/deutschland/sigmar-gabriel-ex-aussenminister-vergleicht-donald-trumps-ukrainedeal-mit-versailler-vertrag](https://www.spiegel.de/politik/deutschland/sigmar-gabriel-ex-aussenminister-vergleicht-donald-trumps-ukrainedeal-mit-versailler-vertrag-a-80c53b49-11f9-4755-9b49-a7c8b67ded56#ref=rss)
-* [https://www.spiegel.de/panorama/leute/linda-evangelista-mag-nicht-mehr-in-den-spiegel-schauen](https://www.spiegel.de/panorama/leute/linda-evangelista-mag-nicht-mehr-in-den-spiegel-schauen-a-1c94eb35-e73a-42d4-8471-19e87c253fc0#ref=rss)
-### linda
+* [https://www.spiegel.de/netzwelt/gadgets/japan-osaka-verbietet-aelteren-menschen-telefonate-an-geldautomaten](https://www.spiegel.de/netzwelt/gadgets/japan-osaka-verbietet-aelteren-menschen-telefonate-an-geldautomaten-a-6ed9019d-6bf0-43c9-9c85-982b5c3ce481#ref=rss)
+### tödliche
 
-* [https://www.spiegel.de/panorama/leute/linda-evangelista-mag-nicht-mehr-in-den-spiegel-schauen](https://www.spiegel.de/panorama/leute/linda-evangelista-mag-nicht-mehr-in-den-spiegel-schauen-a-1c94eb35-e73a-42d4-8471-19e87c253fc0#ref=rss)
-### evangelista
+* [https://www.spiegel.de/panorama/justiz/toedliche-polizeischuesse-diese-elf-menschen-starben-2025](https://www.spiegel.de/panorama/justiz/toedliche-polizeischuesse-diese-elf-menschen-starben-2025-a-fc4c8ec6-626a-4360-ae6c-ce4691ec8254#ref=rss)
+### elf
 
-* [https://www.spiegel.de/panorama/leute/linda-evangelista-mag-nicht-mehr-in-den-spiegel-schauen](https://www.spiegel.de/panorama/leute/linda-evangelista-mag-nicht-mehr-in-den-spiegel-schauen-a-1c94eb35-e73a-42d4-8471-19e87c253fc0#ref=rss)
-### handschlag
+* [https://www.spiegel.de/panorama/justiz/toedliche-polizeischuesse-diese-elf-menschen-starben-2025](https://www.spiegel.de/panorama/justiz/toedliche-polizeischuesse-diese-elf-menschen-starben-2025-a-fc4c8ec6-626a-4360-ae6c-ce4691ec8254#ref=rss)
+### 2025
 
-* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-handschlag-von-torgau-sieben-soldaten-und-ein-bild-fuer-die-ewigkeit](https://www.spiegel.de/geschichte/zweiter-weltkrieg-handschlag-von-torgau-sieben-soldaten-und-ein-bild-fuer-die-ewigkeit-a-dcb386b7-fbd8-4c68-a715-9281ecbf8ebc#ref=rss)
-### leben
-
-* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-handschlag-von-torgau-sieben-soldaten-und-ein-bild-fuer-die-ewigkeit](https://www.spiegel.de/geschichte/zweiter-weltkrieg-handschlag-von-torgau-sieben-soldaten-und-ein-bild-fuer-die-ewigkeit-a-dcb386b7-fbd8-4c68-a715-9281ecbf8ebc#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gesteht-toedlichen-angriff-auf-uno-helfer-ein](https://www.spiegel.de/ausland/israel-gesteht-toedlichen-angriff-auf-uno-helfer-ein-a-8870d706-7da8-4585-8444-95b60e4ec065#ref=rss)
-### usfluggesellschaften
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/studie-us-fluggesellschaften-werden-zu-den-verlierern-von-trumps-zollpolitik-gehoeren](https://www.spiegel.de/wirtschaft/unternehmen/studie-us-fluggesellschaften-werden-zu-den-verlierern-von-trumps-zollpolitik-gehoeren-a-8181e488-089e-433f-855e-07fe86402570#ref=rss)
-### zollpolitik
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/studie-us-fluggesellschaften-werden-zu-den-verlierern-von-trumps-zollpolitik-gehoeren](https://www.spiegel.de/wirtschaft/unternehmen/studie-us-fluggesellschaften-werden-zu-den-verlierern-von-trumps-zollpolitik-gehoeren-a-8181e488-089e-433f-855e-07fe86402570#ref=rss)
-### studie
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/studie-us-fluggesellschaften-werden-zu-den-verlierern-von-trumps-zollpolitik-gehoeren](https://www.spiegel.de/wirtschaft/unternehmen/studie-us-fluggesellschaften-werden-zu-den-verlierern-von-trumps-zollpolitik-gehoeren-a-8181e488-089e-433f-855e-07fe86402570#ref=rss)
-* [https://www.spiegel.de/wirtschaft/studie-der-kfw-bank-mittelstand-verliert-milliarden-durch-buerokratische-pflichten](https://www.spiegel.de/wirtschaft/studie-der-kfw-bank-mittelstand-verliert-milliarden-durch-buerokratische-pflichten-a-8aae8064-4e58-49ed-9a7d-b2e9ca46d8b1#ref=rss)
-### dennis
-
-* [https://www.spiegel.de/sport/basketball/nba-playoffs-detroit-pistons-patzen-gegen-new-york-knicks-oklahoma-city-thunder-holt-29-punkte-auf](https://www.spiegel.de/sport/basketball/nba-playoffs-detroit-pistons-patzen-gegen-new-york-knicks-oklahoma-city-thunder-holt-29-punkte-auf-a-b029a63d-375e-47fb-bab9-eb4190737f28#ref=rss)
-### pistons
-
-* [https://www.spiegel.de/sport/basketball/nba-playoffs-detroit-pistons-patzen-gegen-new-york-knicks-oklahoma-city-thunder-holt-29-punkte-auf](https://www.spiegel.de/sport/basketball/nba-playoffs-detroit-pistons-patzen-gegen-new-york-knicks-oklahoma-city-thunder-holt-29-punkte-auf-a-b029a63d-375e-47fb-bab9-eb4190737f28#ref=rss)
-### kalifornien
-
-* [https://www.spiegel.de/wirtschaft/weltwirtschaft-kalifornien-ueberholt-japan-als-viertgroesste-volkswirtschaft](https://www.spiegel.de/wirtschaft/weltwirtschaft-kalifornien-ueberholt-japan-als-viertgroesste-volkswirtschaft-a-ffb7ad77-eead-4e29-a0ee-ab6d0103e1a4#ref=rss)
-### jersey
-
-* [https://www.spiegel.de/panorama/justiz/usa-waldbrand-in-new-jersey-19-jaehriger-wegen-brandstiftung-festgenommen](https://www.spiegel.de/panorama/justiz/usa-waldbrand-in-new-jersey-19-jaehriger-wegen-brandstiftung-festgenommen-a-e4cf57e2-27df-4a3b-a29e-223cc6789175#ref=rss)
-### kauft
-
-* [https://www.spiegel.de/politik/aufruestung-der-bundeswehr-uns-wird-niemand-ueber-den-tisch-ziehen](https://www.spiegel.de/politik/aufruestung-der-bundeswehr-uns-wird-niemand-ueber-den-tisch-ziehen-a-eae67b28-2ab7-4027-b65e-9ddf6558b959#ref=rss)
-### waffen
-
-* [https://www.spiegel.de/politik/aufruestung-der-bundeswehr-uns-wird-niemand-ueber-den-tisch-ziehen](https://www.spiegel.de/politik/aufruestung-der-bundeswehr-uns-wird-niemand-ueber-den-tisch-ziehen-a-eae67b28-2ab7-4027-b65e-9ddf6558b959#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/politik/aufruestung-der-bundeswehr-uns-wird-niemand-ueber-den-tisch-ziehen](https://www.spiegel.de/politik/aufruestung-der-bundeswehr-uns-wird-niemand-ueber-den-tisch-ziehen-a-eae67b28-2ab7-4027-b65e-9ddf6558b959#ref=rss)
-* [https://www.spiegel.de/reise/green-key-bio-hotels-greensign-welchen-oekosiegeln-koennen-hotelgaeste-trauen](https://www.spiegel.de/reise/green-key-bio-hotels-greensign-welchen-oekosiegeln-koennen-hotelgaeste-trauen-a-39a7cb99-12cb-43dc-9285-f9614d90fa6c#ref=rss)
-### hotels
-
-* [https://www.spiegel.de/reise/green-key-bio-hotels-greensign-welchen-oekosiegeln-koennen-hotelgaeste-trauen](https://www.spiegel.de/reise/green-key-bio-hotels-greensign-welchen-oekosiegeln-koennen-hotelgaeste-trauen-a-39a7cb99-12cb-43dc-9285-f9614d90fa6c#ref=rss)
-### kaschmir
-
-* [https://www.spiegel.de/ausland/kaschmir-schuesse-zwischen-indischen-und-pakistanischen-soldaten](https://www.spiegel.de/ausland/kaschmir-schuesse-zwischen-indischen-und-pakistanischen-soldaten-a-0d2121c0-83a8-43f9-85b1-56ee35d19048#ref=rss)
-### angriff
-
-* [https://www.spiegel.de/ausland/kaschmir-schuesse-zwischen-indischen-und-pakistanischen-soldaten](https://www.spiegel.de/ausland/kaschmir-schuesse-zwischen-indischen-und-pakistanischen-soldaten-a-0d2121c0-83a8-43f9-85b1-56ee35d19048#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gesteht-toedlichen-angriff-auf-uno-helfer-ein](https://www.spiegel.de/ausland/israel-gesteht-toedlichen-angriff-auf-uno-helfer-ein-a-8870d706-7da8-4585-8444-95b60e4ec065#ref=rss)
-### kam
-
-* [https://www.spiegel.de/ausland/kaschmir-schuesse-zwischen-indischen-und-pakistanischen-soldaten](https://www.spiegel.de/ausland/kaschmir-schuesse-zwischen-indischen-und-pakistanischen-soldaten-a-0d2121c0-83a8-43f9-85b1-56ee35d19048#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gesteht-toedlichen-angriff-auf-uno-helfer-ein](https://www.spiegel.de/ausland/israel-gesteht-toedlichen-angriff-auf-uno-helfer-ein-a-8870d706-7da8-4585-8444-95b60e4ec065#ref=rss)
-### tennessee
-
-* [https://www.spiegel.de/sport/american-football/nfl-tennessee-titans-picken-cam-ward-im-draft-shedeur-sanders-muss-sich-gedulden](https://www.spiegel.de/sport/american-football/nfl-tennessee-titans-picken-cam-ward-im-draft-shedeur-sanders-muss-sich-gedulden-a-2481d1c9-bd99-47a8-906f-c21592e47218#ref=rss)
-### titans
-
-* [https://www.spiegel.de/sport/american-football/nfl-tennessee-titans-picken-cam-ward-im-draft-shedeur-sanders-muss-sich-gedulden](https://www.spiegel.de/sport/american-football/nfl-tennessee-titans-picken-cam-ward-im-draft-shedeur-sanders-muss-sich-gedulden-a-2481d1c9-bd99-47a8-906f-c21592e47218#ref=rss)
-### cam
-
-* [https://www.spiegel.de/sport/american-football/nfl-tennessee-titans-picken-cam-ward-im-draft-shedeur-sanders-muss-sich-gedulden](https://www.spiegel.de/sport/american-football/nfl-tennessee-titans-picken-cam-ward-im-draft-shedeur-sanders-muss-sich-gedulden-a-2481d1c9-bd99-47a8-906f-c21592e47218#ref=rss)
-### ward
-
-* [https://www.spiegel.de/sport/american-football/nfl-tennessee-titans-picken-cam-ward-im-draft-shedeur-sanders-muss-sich-gedulden](https://www.spiegel.de/sport/american-football/nfl-tennessee-titans-picken-cam-ward-im-draft-shedeur-sanders-muss-sich-gedulden-a-2481d1c9-bd99-47a8-906f-c21592e47218#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/toedliche-polizeischuesse-diese-elf-menschen-starben-2025](https://www.spiegel.de/panorama/justiz/toedliche-polizeischuesse-diese-elf-menschen-starben-2025-a-fc4c8ec6-626a-4360-ae6c-ce4691ec8254#ref=rss)
 
