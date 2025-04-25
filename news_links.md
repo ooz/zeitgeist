@@ -4,397 +4,337 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### trump
-
-* [https://www.spiegel.de/politik/nato-22-mitglieder-erreichen-zwei-prozent-ziel](https://www.spiegel.de/politik/nato-22-mitglieder-erreichen-zwei-prozent-ziel-a-c8ed8567-24b6-4d85-9d5b-632126e06a24#ref=rss)
-* [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-und-donald-trump-die-entstehung-von-doge-podcast-firewall](https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-und-donald-trump-die-entstehung-von-doge-podcast-firewall-a-79d517c0-b870-4b14-94d8-0c1750c2dc5b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-ukraine-jens-spahn-tuev](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-ukraine-jens-spahn-tuev-a-0da5c3f5-77ad-4b09-af05-2997ce13926a#ref=rss)
-### donald
-
-* [https://www.spiegel.de/politik/nato-22-mitglieder-erreichen-zwei-prozent-ziel](https://www.spiegel.de/politik/nato-22-mitglieder-erreichen-zwei-prozent-ziel-a-c8ed8567-24b6-4d85-9d5b-632126e06a24#ref=rss)
-* [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-und-donald-trump-die-entstehung-von-doge-podcast-firewall](https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-und-donald-trump-die-entstehung-von-doge-podcast-firewall-a-79d517c0-b870-4b14-94d8-0c1750c2dc5b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-ukraine-jens-spahn-tuev](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-ukraine-jens-spahn-tuev-a-0da5c3f5-77ad-4b09-af05-2997ce13926a#ref=rss)
-### zuletzt
-
-* [https://www.spiegel.de/auto/unfaelle-wildwechsel-jaehrlich-3000-verletzte-bei-wildunfaellen-tipps-fuer-autofahrer](https://www.spiegel.de/auto/unfaelle-wildwechsel-jaehrlich-3000-verletzte-bei-wildunfaellen-tipps-fuer-autofahrer-a-54bf5049-1324-4683-9648-7d98fed36a70#ref=rss)
-* [https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-podcast](https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-podcast-a-59416bdb-55ce-468e-bab3-8a1fbafd2605#ref=rss)
-* [https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin](https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-a-724425ed-3b0d-4086-afb6-ce80ec6692d5#ref=rss)
-* [https://www.spiegel.de/ausland/jemen-abschuesse-von-us-drohnen-die-huthis-treffen-den-sensenmann](https://www.spiegel.de/ausland/jemen-abschuesse-von-us-drohnen-die-huthis-treffen-den-sensenmann-a-2442a39b-7835-421f-a713-132352867662#ref=rss)
-### gas
-
-* [https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-podcast](https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-podcast-a-59416bdb-55ce-468e-bab3-8a1fbafd2605#ref=rss)
-* [https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin](https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-a-724425ed-3b0d-4086-afb6-ce80ec6692d5#ref=rss)
-### russland
-
-* [https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-podcast](https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-podcast-a-59416bdb-55ce-468e-bab3-8a1fbafd2605#ref=rss)
-* [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
-* [https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin](https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-a-724425ed-3b0d-4086-afb6-ce80ec6692d5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-ukraine-jens-spahn-tuev](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-ukraine-jens-spahn-tuev-a-0da5c3f5-77ad-4b09-af05-2997ce13926a#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-podcast](https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-podcast-a-59416bdb-55ce-468e-bab3-8a1fbafd2605#ref=rss)
-* [https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin](https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-a-724425ed-3b0d-4086-afb6-ce80ec6692d5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/hannover-bundesregierung-holt-fluechtlinge-aus-dem-sudan-nach-deutschland](https://www.spiegel.de/politik/deutschland/hannover-bundesregierung-holt-fluechtlinge-aus-dem-sudan-nach-deutschland-a-c603346f-385c-4041-8696-837fc22705dd#ref=rss)
-### kauft
-
-* [https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-podcast](https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-podcast-a-59416bdb-55ce-468e-bab3-8a1fbafd2605#ref=rss)
-* [https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin](https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-a-724425ed-3b0d-4086-afb6-ce80ec6692d5#ref=rss)
-### bald
-
-* [https://www.spiegel.de/panorama/gesellschaft/muenchen-eisbach-surferin-stirbt-nach-unfall-gibt-es-bald-strengere-sicherheitsvorkehrungen](https://www.spiegel.de/panorama/gesellschaft/muenchen-eisbach-surferin-stirbt-nach-unfall-gibt-es-bald-strengere-sicherheitsvorkehrungen-a-05ac58bf-8a5c-4aa0-9e94-957cfa3ec6d3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-ukraine-jens-spahn-tuev](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-ukraine-jens-spahn-tuev-a-0da5c3f5-77ad-4b09-af05-2997ce13926a#ref=rss)
-* [https://www.spiegel.de/ausland/jemen-abschuesse-von-us-drohnen-die-huthis-treffen-den-sensenmann](https://www.spiegel.de/ausland/jemen-abschuesse-von-us-drohnen-die-huthis-treffen-den-sensenmann-a-2442a39b-7835-421f-a713-132352867662#ref=rss)
-### autofahrer
-
-* [https://www.spiegel.de/auto/unfaelle-wildwechsel-jaehrlich-3000-verletzte-bei-wildunfaellen-tipps-fuer-autofahrer](https://www.spiegel.de/auto/unfaelle-wildwechsel-jaehrlich-3000-verletzte-bei-wildunfaellen-tipps-fuer-autofahrer-a-54bf5049-1324-4683-9648-7d98fed36a70#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-ukraine-jens-spahn-tuev](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-ukraine-jens-spahn-tuev-a-0da5c3f5-77ad-4b09-af05-2997ce13926a#ref=rss)
-### wladimir
-
-* [https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-podcast](https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-podcast-a-59416bdb-55ce-468e-bab3-8a1fbafd2605#ref=rss)
-* [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
-* [https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin](https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-a-724425ed-3b0d-4086-afb6-ce80ec6692d5#ref=rss)
-### putin
-
-* [https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-podcast](https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-podcast-a-59416bdb-55ce-468e-bab3-8a1fbafd2605#ref=rss)
-* [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
-* [https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin](https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-a-724425ed-3b0d-4086-afb6-ce80ec6692d5#ref=rss)
-### treffen
-
-* [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
-* [https://www.spiegel.de/ausland/jemen-abschuesse-von-us-drohnen-die-huthis-treffen-den-sensenmann](https://www.spiegel.de/ausland/jemen-abschuesse-von-us-drohnen-die-huthis-treffen-den-sensenmann-a-2442a39b-7835-421f-a713-132352867662#ref=rss)
-### münchen
-
-* [https://www.spiegel.de/panorama/gesellschaft/muenchen-eisbach-surferin-stirbt-nach-unfall-gibt-es-bald-strengere-sicherheitsvorkehrungen](https://www.spiegel.de/panorama/gesellschaft/muenchen-eisbach-surferin-stirbt-nach-unfall-gibt-es-bald-strengere-sicherheitsvorkehrungen-a-05ac58bf-8a5c-4aa0-9e94-957cfa3ec6d3#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-fussballerinnen-nehmen-an-neuem-turnierformat-teil](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-fussballerinnen-nehmen-an-neuem-turnierformat-teil-a-dc1978b3-98f9-422d-afaa-1d04b9ae15d9#ref=rss)
-### gestorben
-
-* [https://www.spiegel.de/panorama/gesellschaft/muenchen-eisbach-surferin-stirbt-nach-unfall-gibt-es-bald-strengere-sicherheitsvorkehrungen](https://www.spiegel.de/panorama/gesellschaft/muenchen-eisbach-surferin-stirbt-nach-unfall-gibt-es-bald-strengere-sicherheitsvorkehrungen-a-05ac58bf-8a5c-4aa0-9e94-957cfa3ec6d3#ref=rss)
-* [https://www.spiegel.de/kultur/musik/david-thomas-ist-tot-gruender-der-proto-punkband-pere-ubu-gestorben](https://www.spiegel.de/kultur/musik/david-thomas-ist-tot-gruender-der-proto-punkband-pere-ubu-gestorben-a-9a901936-fa9b-4693-b92b-3f21dd869993#ref=rss)
-### wir
-
-* [https://www.spiegel.de/wissenschaft/mensch/wir-befreunden-uns-eher-mit-menschen-die-wir-gut-riechen-koennen](https://www.spiegel.de/wissenschaft/mensch/wir-befreunden-uns-eher-mit-menschen-die-wir-gut-riechen-koennen-a-374b04e9-3552-4169-9113-654a1812469e#ref=rss)
-### letzten
-
-* [https://www.spiegel.de/wirtschaft/soziales/robert-habeck-als-wirtschaftsminister-die-null-steht](https://www.spiegel.de/wirtschaft/soziales/robert-habeck-als-wirtschaftsminister-die-null-steht-a-f061ce91-42d8-4952-b48c-f2d423c9b721#ref=rss)
-* [https://www.spiegel.de/kultur/musik/ozzy-osbourne-startet-intensives-training-fuer-letzten-auftritt](https://www.spiegel.de/kultur/musik/ozzy-osbourne-startet-intensives-training-fuer-letzten-auftritt-a-32ccb6cd-6e7e-4c5f-93dd-75b2f2147cdc#ref=rss)
-### auftritt
-
-* [https://www.spiegel.de/wirtschaft/soziales/robert-habeck-als-wirtschaftsminister-die-null-steht](https://www.spiegel.de/wirtschaft/soziales/robert-habeck-als-wirtschaftsminister-die-null-steht-a-f061ce91-42d8-4952-b48c-f2d423c9b721#ref=rss)
-* [https://www.spiegel.de/kultur/musik/ozzy-osbourne-startet-intensives-training-fuer-letzten-auftritt](https://www.spiegel.de/kultur/musik/ozzy-osbourne-startet-intensives-training-fuer-letzten-auftritt-a-32ccb6cd-6e7e-4c5f-93dd-75b2f2147cdc#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-und-donald-trump-die-entstehung-von-doge-podcast-firewall](https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-und-donald-trump-die-entstehung-von-doge-podcast-firewall-a-79d517c0-b870-4b14-94d8-0c1750c2dc5b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/premier-league-jamie-vardy-nimmt-nach-13-jahren-abschied-von-leicester-city](https://www.spiegel.de/sport/fussball/premier-league-jamie-vardy-nimmt-nach-13-jahren-abschied-von-leicester-city-a-efc0ff96-4bb1-4c29-813e-87e62c114788#ref=rss)
-* [https://www.spiegel.de/auto/tuev-eu-kommission-plant-jaehrliche-pflichtpruefung-aelterer-autos](https://www.spiegel.de/auto/tuev-eu-kommission-plant-jaehrliche-pflichtpruefung-aelterer-autos-a-0e9c0e65-e9c6-4269-9fde-fed00b4dee3f#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/justiz/bad-nauheim-mutmasslicher-schuetze-stellt-sich](https://www.spiegel.de/panorama/justiz/bad-nauheim-mutmasslicher-schuetze-stellt-sich-a-5d777b6a-55c5-45d8-988b-baf8a2fc2504#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-aggressiver-passagier-zwingt-flugzeug-zur-zwischenlandung](https://www.spiegel.de/panorama/justiz/berlin-aggressiver-passagier-zwingt-flugzeug-zur-zwischenlandung-a-66bb5f56-8eb2-44ac-81eb-7e8bbe257116#ref=rss)
-* [https://www.spiegel.de/panorama/istanbul-seismologe-yoshinori-moriwaki-warnt-vor-tsunamis-mit-meterhohen-wellen](https://www.spiegel.de/panorama/istanbul-seismologe-yoshinori-moriwaki-warnt-vor-tsunamis-mit-meterhohen-wellen-a-96289250-7226-4e3d-81ea-fc4d7f2287a2#ref=rss)
-### tüv
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-ukraine-jens-spahn-tuev](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-ukraine-jens-spahn-tuev-a-0da5c3f5-77ad-4b09-af05-2997ce13926a#ref=rss)
-* [https://www.spiegel.de/auto/tuev-eu-kommission-plant-jaehrliche-pflichtpruefung-aelterer-autos](https://www.spiegel.de/auto/tuev-eu-kommission-plant-jaehrliche-pflichtpruefung-aelterer-autos-a-0e9c0e65-e9c6-4269-9fde-fed00b4dee3f#ref=rss)
-### fuellmich
-
-* [https://www.spiegel.de/panorama/justiz/die-basis-kandidat-fuellmich-zu-haftstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/die-basis-kandidat-fuellmich-zu-haftstrafe-verurteilt-a-1e3f2ad9-25b6-4cae-b34c-9dcde2a03282#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/politik/nato-22-mitglieder-erreichen-zwei-prozent-ziel](https://www.spiegel.de/politik/nato-22-mitglieder-erreichen-zwei-prozent-ziel-a-c8ed8567-24b6-4d85-9d5b-632126e06a24#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-ukraine-jens-spahn-tuev](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-ukraine-jens-spahn-tuev-a-0da5c3f5-77ad-4b09-af05-2997ce13926a#ref=rss)
-### deutlich
-
-* [https://www.spiegel.de/politik/nato-22-mitglieder-erreichen-zwei-prozent-ziel](https://www.spiegel.de/politik/nato-22-mitglieder-erreichen-zwei-prozent-ziel-a-c8ed8567-24b6-4d85-9d5b-632126e06a24#ref=rss)
-* [https://www.spiegel.de/auto/unfaelle-wildwechsel-jaehrlich-3000-verletzte-bei-wildunfaellen-tipps-fuer-autofahrer](https://www.spiegel.de/auto/unfaelle-wildwechsel-jaehrlich-3000-verletzte-bei-wildunfaellen-tipps-fuer-autofahrer-a-54bf5049-1324-4683-9648-7d98fed36a70#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/politik/nato-22-mitglieder-erreichen-zwei-prozent-ziel](https://www.spiegel.de/politik/nato-22-mitglieder-erreichen-zwei-prozent-ziel-a-c8ed8567-24b6-4d85-9d5b-632126e06a24#ref=rss)
-* [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
-### jährlich
-
-* [https://www.spiegel.de/auto/unfaelle-wildwechsel-jaehrlich-3000-verletzte-bei-wildunfaellen-tipps-fuer-autofahrer](https://www.spiegel.de/auto/unfaelle-wildwechsel-jaehrlich-3000-verletzte-bei-wildunfaellen-tipps-fuer-autofahrer-a-54bf5049-1324-4683-9648-7d98fed36a70#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-ukraine-jens-spahn-tuev](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-ukraine-jens-spahn-tuev-a-0da5c3f5-77ad-4b09-af05-2997ce13926a#ref=rss)
-### 3000
-
-* [https://www.spiegel.de/auto/unfaelle-wildwechsel-jaehrlich-3000-verletzte-bei-wildunfaellen-tipps-fuer-autofahrer](https://www.spiegel.de/auto/unfaelle-wildwechsel-jaehrlich-3000-verletzte-bei-wildunfaellen-tipps-fuer-autofahrer-a-54bf5049-1324-4683-9648-7d98fed36a70#ref=rss)
-### verletzte
-
-* [https://www.spiegel.de/auto/unfaelle-wildwechsel-jaehrlich-3000-verletzte-bei-wildunfaellen-tipps-fuer-autofahrer](https://www.spiegel.de/auto/unfaelle-wildwechsel-jaehrlich-3000-verletzte-bei-wildunfaellen-tipps-fuer-autofahrer-a-54bf5049-1324-4683-9648-7d98fed36a70#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/frankreich-eine-tote-und-verletzte-bei-messerangriff-in-schule-in-nantes](https://www.spiegel.de/panorama/justiz/frankreich-eine-tote-und-verletzte-bei-messerangriff-in-schule-in-nantes-a-9fee5ae5-1abd-4681-9d59-9ae99fe3ec4f#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/auto/unfaelle-wildwechsel-jaehrlich-3000-verletzte-bei-wildunfaellen-tipps-fuer-autofahrer](https://www.spiegel.de/auto/unfaelle-wildwechsel-jaehrlich-3000-verletzte-bei-wildunfaellen-tipps-fuer-autofahrer-a-54bf5049-1324-4683-9648-7d98fed36a70#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/hannover-bundesregierung-holt-fluechtlinge-aus-dem-sudan-nach-deutschland](https://www.spiegel.de/politik/deutschland/hannover-bundesregierung-holt-fluechtlinge-aus-dem-sudan-nach-deutschland-a-c603346f-385c-4041-8696-837fc22705dd#ref=rss)
-### menschen
+* [https://www.spiegel.de/politik/deutschland/trinkgeld-debatte-fuehlt-sich-trinkgeld-per-karte-wie-ein-muss-an](https://www.spiegel.de/politik/deutschland/trinkgeld-debatte-fuehlt-sich-trinkgeld-per-karte-wie-ein-muss-an-a-c3470ffb-5300-459a-bf7d-77a4ca0ff0e9#ref=rss)
+* [https://www.spiegel.de/netzwelt/meta-raeumt-grosses-spam-problem-bei-facebook-ein](https://www.spiegel.de/netzwelt/meta-raeumt-grosses-spam-problem-bei-facebook-ein-a-8da5063b-f4eb-4106-9040-e734bf36e6e7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/grundsteuer-zwei-drittel-der-privaten-eigentuemer-zahlen-mehr-durch-reform](https://www.spiegel.de/wirtschaft/grundsteuer-zwei-drittel-der-privaten-eigentuemer-zahlen-mehr-durch-reform-a-ec0cdaa3-3512-4bb6-8163-f33190cdf5c8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sigmar-gabriel-ex-aussenminister-vergleicht-donald-trumps-ukrainedeal-mit-versailler-vertrag](https://www.spiegel.de/politik/deutschland/sigmar-gabriel-ex-aussenminister-vergleicht-donald-trumps-ukrainedeal-mit-versailler-vertrag-a-80c53b49-11f9-4755-9b49-a7c8b67ded56#ref=rss)
+* [https://www.spiegel.de/panorama/leute/linda-evangelista-mag-nicht-mehr-in-den-spiegel-schauen](https://www.spiegel.de/panorama/leute/linda-evangelista-mag-nicht-mehr-in-den-spiegel-schauen-a-1c94eb35-e73a-42d4-8471-19e87c253fc0#ref=rss)
+* [https://www.spiegel.de/ausland/kaschmir-schuesse-zwischen-indischen-und-pakistanischen-soldaten](https://www.spiegel.de/ausland/kaschmir-schuesse-zwischen-indischen-und-pakistanischen-soldaten-a-0d2121c0-83a8-43f9-85b1-56ee35d19048#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/auto/unfaelle-wildwechsel-jaehrlich-3000-verletzte-bei-wildunfaellen-tipps-fuer-autofahrer](https://www.spiegel.de/auto/unfaelle-wildwechsel-jaehrlich-3000-verletzte-bei-wildunfaellen-tipps-fuer-autofahrer-a-54bf5049-1324-4683-9648-7d98fed36a70#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/wir-befreunden-uns-eher-mit-menschen-die-wir-gut-riechen-koennen](https://www.spiegel.de/wissenschaft/mensch/wir-befreunden-uns-eher-mit-menschen-die-wir-gut-riechen-koennen-a-374b04e9-3552-4169-9113-654a1812469e#ref=rss)
-### kindern
+* [https://www.spiegel.de/kultur/werner-lorant-mit-ihm-war-immer-was-los](https://www.spiegel.de/kultur/werner-lorant-mit-ihm-war-immer-was-los-a-3a26105e-34ad-41b6-9bf7-339d99a00450#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/hoellenameise-lebte-vor-113-millionen-jahren-in-brasilien](https://www.spiegel.de/wissenschaft/natur/hoellenameise-lebte-vor-113-millionen-jahren-in-brasilien-a-97db17a2-0426-4a9d-b141-a66ab7dc2f16#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-botschafter-draengt-auf-teilnahmeverbot-fuer-russland-an-weltkriegs-gedenken](https://www.spiegel.de/politik/deutschland/ukraine-botschafter-draengt-auf-teilnahmeverbot-fuer-russland-an-weltkriegs-gedenken-a-9e8e329d-86f8-483c-9247-5821bd38a792#ref=rss)
+* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-handschlag-von-torgau-sieben-soldaten-und-ein-bild-fuer-die-ewigkeit](https://www.spiegel.de/geschichte/zweiter-weltkrieg-handschlag-von-torgau-sieben-soldaten-und-ein-bild-fuer-die-ewigkeit-a-dcb386b7-fbd8-4c68-a715-9281ecbf8ebc#ref=rss)
+* [https://www.spiegel.de/ausland/kaschmir-schuesse-zwischen-indischen-und-pakistanischen-soldaten](https://www.spiegel.de/ausland/kaschmir-schuesse-zwischen-indischen-und-pakistanischen-soldaten-a-0d2121c0-83a8-43f9-85b1-56ee35d19048#ref=rss)
+### usa
 
-* [https://www.spiegel.de/familie/mit-kindern-ueber-den-tod-sprechen-wer-tot-ist-kann-nicht-lego-spielen](https://www.spiegel.de/familie/mit-kindern-ueber-den-tod-sprechen-wer-tot-ist-kann-nicht-lego-spielen-a-5d0cbd5d-85fe-4dd8-a205-7abcf70f5271#ref=rss)
-### tod
+* [https://www.spiegel.de/wissenschaft/natur/vogelgrippe-ein-einziger-wildvogel-kontakt-soll-ausbruch-bei-us-kuehen-ausgeloest-haben](https://www.spiegel.de/wissenschaft/natur/vogelgrippe-ein-einziger-wildvogel-kontakt-soll-ausbruch-bei-us-kuehen-ausgeloest-haben-a-102c5551-4dc6-4ca3-85d5-6abbabad6ec4#ref=rss)
+* [https://www.spiegel.de/ausland/usa-pete-hegseth-nutzte-fuer-chat-zu-luftangriff-oeffentlich-verfuegbare-handynummer](https://www.spiegel.de/ausland/usa-pete-hegseth-nutzte-fuer-chat-zu-luftangriff-oeffentlich-verfuegbare-handynummer-a-ec3f4bc9-f9a6-4666-ba3d-d676c0bc066f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sigmar-gabriel-ex-aussenminister-vergleicht-donald-trumps-ukrainedeal-mit-versailler-vertrag](https://www.spiegel.de/politik/deutschland/sigmar-gabriel-ex-aussenminister-vergleicht-donald-trumps-ukrainedeal-mit-versailler-vertrag-a-80c53b49-11f9-4755-9b49-a7c8b67ded56#ref=rss)
+* [https://www.spiegel.de/wirtschaft/weltwirtschaft-kalifornien-ueberholt-japan-als-viertgroesste-volkswirtschaft](https://www.spiegel.de/wirtschaft/weltwirtschaft-kalifornien-ueberholt-japan-als-viertgroesste-volkswirtschaft-a-ffb7ad77-eead-4e29-a0ee-ab6d0103e1a4#ref=rss)
+* [https://www.spiegel.de/politik/aufruestung-der-bundeswehr-uns-wird-niemand-ueber-den-tisch-ziehen](https://www.spiegel.de/politik/aufruestung-der-bundeswehr-uns-wird-niemand-ueber-den-tisch-ziehen-a-eae67b28-2ab7-4027-b65e-9ddf6558b959#ref=rss)
+### new
 
-* [https://www.spiegel.de/familie/mit-kindern-ueber-den-tod-sprechen-wer-tot-ist-kann-nicht-lego-spielen](https://www.spiegel.de/familie/mit-kindern-ueber-den-tod-sprechen-wer-tot-ist-kann-nicht-lego-spielen-a-5d0cbd5d-85fe-4dd8-a205-7abcf70f5271#ref=rss)
-### tot
+* [https://www.spiegel.de/ausland/usa-pete-hegseth-nutzte-fuer-chat-zu-luftangriff-oeffentlich-verfuegbare-handynummer](https://www.spiegel.de/ausland/usa-pete-hegseth-nutzte-fuer-chat-zu-luftangriff-oeffentlich-verfuegbare-handynummer-a-ec3f4bc9-f9a6-4666-ba3d-d676c0bc066f#ref=rss)
+* [https://www.spiegel.de/sport/basketball/nba-playoffs-detroit-pistons-patzen-gegen-new-york-knicks-oklahoma-city-thunder-holt-29-punkte-auf](https://www.spiegel.de/sport/basketball/nba-playoffs-detroit-pistons-patzen-gegen-new-york-knicks-oklahoma-city-thunder-holt-29-punkte-auf-a-b029a63d-375e-47fb-bab9-eb4190737f28#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/usa-waldbrand-in-new-jersey-19-jaehriger-wegen-brandstiftung-festgenommen](https://www.spiegel.de/panorama/justiz/usa-waldbrand-in-new-jersey-19-jaehriger-wegen-brandstiftung-festgenommen-a-e4cf57e2-27df-4a3b-a29e-223cc6789175#ref=rss)
+### milliarden
 
-* [https://www.spiegel.de/familie/mit-kindern-ueber-den-tod-sprechen-wer-tot-ist-kann-nicht-lego-spielen](https://www.spiegel.de/familie/mit-kindern-ueber-den-tod-sprechen-wer-tot-ist-kann-nicht-lego-spielen-a-5d0cbd5d-85fe-4dd8-a205-7abcf70f5271#ref=rss)
-* [https://www.spiegel.de/kultur/musik/david-thomas-ist-tot-gruender-der-proto-punkband-pere-ubu-gestorben](https://www.spiegel.de/kultur/musik/david-thomas-ist-tot-gruender-der-proto-punkband-pere-ubu-gestorben-a-9a901936-fa9b-4693-b92b-3f21dd869993#ref=rss)
-### gedanken
+* [https://www.spiegel.de/netzwelt/web/quartalszahlen-google-konzern-erzielt-einen-der-hoechsten-gewinne-aller-zeiten](https://www.spiegel.de/netzwelt/web/quartalszahlen-google-konzern-erzielt-einen-der-hoechsten-gewinne-aller-zeiten-a-931c447d-ae77-4649-90f0-8802938a5cb9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/studie-der-kfw-bank-mittelstand-verliert-milliarden-durch-buerokratische-pflichten](https://www.spiegel.de/wirtschaft/studie-der-kfw-bank-mittelstand-verliert-milliarden-durch-buerokratische-pflichten-a-8aae8064-4e58-49ed-9a7d-b2e9ca46d8b1#ref=rss)
+### soldaten
 
-* [https://www.spiegel.de/familie/mit-kindern-ueber-den-tod-sprechen-wer-tot-ist-kann-nicht-lego-spielen](https://www.spiegel.de/familie/mit-kindern-ueber-den-tod-sprechen-wer-tot-ist-kann-nicht-lego-spielen-a-5d0cbd5d-85fe-4dd8-a205-7abcf70f5271#ref=rss)
-### ende
+* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-handschlag-von-torgau-sieben-soldaten-und-ein-bild-fuer-die-ewigkeit](https://www.spiegel.de/geschichte/zweiter-weltkrieg-handschlag-von-torgau-sieben-soldaten-und-ein-bild-fuer-die-ewigkeit-a-dcb386b7-fbd8-4c68-a715-9281ecbf8ebc#ref=rss)
+* [https://www.spiegel.de/ausland/kaschmir-schuesse-zwischen-indischen-und-pakistanischen-soldaten](https://www.spiegel.de/ausland/kaschmir-schuesse-zwischen-indischen-und-pakistanischen-soldaten-a-0d2121c0-83a8-43f9-85b1-56ee35d19048#ref=rss)
+### welt
 
-* [https://www.spiegel.de/familie/mit-kindern-ueber-den-tod-sprechen-wer-tot-ist-kann-nicht-lego-spielen](https://www.spiegel.de/familie/mit-kindern-ueber-den-tod-sprechen-wer-tot-ist-kann-nicht-lego-spielen-a-5d0cbd5d-85fe-4dd8-a205-7abcf70f5271#ref=rss)
-* [https://www.spiegel.de/stil/ozempic-veneers-und-botox-erschwingliche-schoenheit-ende-der-exklusivitaet](https://www.spiegel.de/stil/ozempic-veneers-und-botox-erschwingliche-schoenheit-ende-der-exklusivitaet-a-ffc2a8d1-1589-4938-b18b-33861ab5e13d#ref=rss)
-### bsw
+* [https://www.spiegel.de/wissenschaft/natur/hoellenameise-lebte-vor-113-millionen-jahren-in-brasilien](https://www.spiegel.de/wissenschaft/natur/hoellenameise-lebte-vor-113-millionen-jahren-in-brasilien-a-97db17a2-0426-4a9d-b141-a66ab7dc2f16#ref=rss)
+* [https://www.spiegel.de/panorama/leute/linda-evangelista-mag-nicht-mehr-in-den-spiegel-schauen](https://www.spiegel.de/panorama/leute/linda-evangelista-mag-nicht-mehr-in-den-spiegel-schauen-a-1c94eb35-e73a-42d4-8471-19e87c253fc0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/weltwirtschaft-kalifornien-ueberholt-japan-als-viertgroesste-volkswirtschaft](https://www.spiegel.de/wirtschaft/weltwirtschaft-kalifornien-ueberholt-japan-als-viertgroesste-volkswirtschaft-a-ffb7ad77-eead-4e29-a0ee-ab6d0103e1a4#ref=rss)
+### märz
 
-* [https://www.spiegel.de/politik/deutschland/bsw-sahra-wagenknechts-gegenspielerin-muss-allein-in-die-schlacht-ziehen](https://www.spiegel.de/politik/deutschland/bsw-sahra-wagenknechts-gegenspielerin-muss-allein-in-die-schlacht-ziehen-a-64ac5dd9-72a7-472c-bcef-a511a7fb1301#ref=rss)
-### kurz
+* [https://www.spiegel.de/wissenschaft/natur/vogelgrippe-ein-einziger-wildvogel-kontakt-soll-ausbruch-bei-us-kuehen-ausgeloest-haben](https://www.spiegel.de/wissenschaft/natur/vogelgrippe-ein-einziger-wildvogel-kontakt-soll-ausbruch-bei-us-kuehen-ausgeloest-haben-a-102c5551-4dc6-4ca3-85d5-6abbabad6ec4#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-franzoesische-juniorenmeisterin-margot-simond-stirbt-nach-trainingssturz](https://www.spiegel.de/sport/wintersport/ski-alpin-franzoesische-juniorenmeisterin-margot-simond-stirbt-nach-trainingssturz-a-521b78a2-cea3-4806-8ff7-91ba58e338bf#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gesteht-toedlichen-angriff-auf-uno-helfer-ein](https://www.spiegel.de/ausland/israel-gesteht-toedlichen-angriff-auf-uno-helfer-ein-a-8870d706-7da8-4585-8444-95b60e4ec065#ref=rss)
+### privaten
 
-* [https://www.spiegel.de/politik/deutschland/bsw-sahra-wagenknechts-gegenspielerin-muss-allein-in-die-schlacht-ziehen](https://www.spiegel.de/politik/deutschland/bsw-sahra-wagenknechts-gegenspielerin-muss-allein-in-die-schlacht-ziehen-a-64ac5dd9-72a7-472c-bcef-a511a7fb1301#ref=rss)
-* [https://www.spiegel.de/ausland/oesterreich-fpoe-spesenaffaere-um-heinz-christian-strache-ermittler-sehen-bewusste-verschleierung](https://www.spiegel.de/ausland/oesterreich-fpoe-spesenaffaere-um-heinz-christian-strache-ermittler-sehen-bewusste-verschleierung-a-19893b0f-4ca3-4b7f-acd1-4d43967bdfa2#ref=rss)
-### daran
+* [https://www.spiegel.de/ausland/usa-pete-hegseth-nutzte-fuer-chat-zu-luftangriff-oeffentlich-verfuegbare-handynummer](https://www.spiegel.de/ausland/usa-pete-hegseth-nutzte-fuer-chat-zu-luftangriff-oeffentlich-verfuegbare-handynummer-a-ec3f4bc9-f9a6-4666-ba3d-d676c0bc066f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/grundsteuer-zwei-drittel-der-privaten-eigentuemer-zahlen-mehr-durch-reform](https://www.spiegel.de/wirtschaft/grundsteuer-zwei-drittel-der-privaten-eigentuemer-zahlen-mehr-durch-reform-a-ec0cdaa3-3512-4bb6-8163-f33190cdf5c8#ref=rss)
+### wagner
 
-* [https://www.spiegel.de/politik/deutschland/bsw-sahra-wagenknechts-gegenspielerin-muss-allein-in-die-schlacht-ziehen](https://www.spiegel.de/politik/deutschland/bsw-sahra-wagenknechts-gegenspielerin-muss-allein-in-die-schlacht-ziehen-a-64ac5dd9-72a7-472c-bcef-a511a7fb1301#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/robert-habeck-als-wirtschaftsminister-die-null-steht](https://www.spiegel.de/wirtschaft/soziales/robert-habeck-als-wirtschaftsminister-die-null-steht-a-f061ce91-42d8-4952-b48c-f2d423c9b721#ref=rss)
-### lng
+* [https://www.spiegel.de/sport/fussball/dfb-sandro-wagner-ab-sommer-nicht-laenger-co-trainer-von-julian-nagelsmann](https://www.spiegel.de/sport/fussball/dfb-sandro-wagner-ab-sommer-nicht-laenger-co-trainer-von-julian-nagelsmann-a-af10d40c-c1da-40cb-886b-a530f2dfa7ef#ref=rss)
+### russland
 
-* [https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-podcast](https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-podcast-a-59416bdb-55ce-468e-bab3-8a1fbafd2605#ref=rss)
-* [https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin](https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-a-724425ed-3b0d-4086-afb6-ce80ec6692d5#ref=rss)
-### zugunsten
+* [https://www.spiegel.de/ausland/russland-geheimdienst-verhaftet-rumaenen-wegen-spionagevorwuerfen](https://www.spiegel.de/ausland/russland-geheimdienst-verhaftet-rumaenen-wegen-spionagevorwuerfen-a-c3b0c204-2c32-4912-9cf1-121f9a4d665e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-botschafter-draengt-auf-teilnahmeverbot-fuer-russland-an-weltkriegs-gedenken](https://www.spiegel.de/politik/deutschland/ukraine-botschafter-draengt-auf-teilnahmeverbot-fuer-russland-an-weltkriegs-gedenken-a-9e8e329d-86f8-483c-9247-5821bd38a792#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sigmar-gabriel-ex-aussenminister-vergleicht-donald-trumps-ukrainedeal-mit-versailler-vertrag](https://www.spiegel.de/politik/deutschland/sigmar-gabriel-ex-aussenminister-vergleicht-donald-trumps-ukrainedeal-mit-versailler-vertrag-a-80c53b49-11f9-4755-9b49-a7c8b67ded56#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-podcast](https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-podcast-a-59416bdb-55ce-468e-bab3-8a1fbafd2605#ref=rss)
-* [https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin](https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-a-724425ed-3b0d-4086-afb6-ce80ec6692d5#ref=rss)
-### podcast
+* [https://www.spiegel.de/ausland/russland-geheimdienst-verhaftet-rumaenen-wegen-spionagevorwuerfen](https://www.spiegel.de/ausland/russland-geheimdienst-verhaftet-rumaenen-wegen-spionagevorwuerfen-a-c3b0c204-2c32-4912-9cf1-121f9a4d665e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-botschafter-draengt-auf-teilnahmeverbot-fuer-russland-an-weltkriegs-gedenken](https://www.spiegel.de/politik/deutschland/ukraine-botschafter-draengt-auf-teilnahmeverbot-fuer-russland-an-weltkriegs-gedenken-a-9e8e329d-86f8-483c-9247-5821bd38a792#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sigmar-gabriel-ex-aussenminister-vergleicht-donald-trumps-ukrainedeal-mit-versailler-vertrag](https://www.spiegel.de/politik/deutschland/sigmar-gabriel-ex-aussenminister-vergleicht-donald-trumps-ukrainedeal-mit-versailler-vertrag-a-80c53b49-11f9-4755-9b49-a7c8b67ded56#ref=rss)
+### post
 
-* [https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-podcast](https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-podcast-a-59416bdb-55ce-468e-bab3-8a1fbafd2605#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-und-donald-trump-die-entstehung-von-doge-podcast-firewall](https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-und-donald-trump-die-entstehung-von-doge-podcast-firewall-a-79d517c0-b870-4b14-94d8-0c1750c2dc5b#ref=rss)
-### deutsches
+* [https://www.spiegel.de/wirtschaft/deutsche-post-ausweise-und-reisepaesse-ab-mai-per-post-fuer-15-euro-erhaeltlich](https://www.spiegel.de/wirtschaft/deutsche-post-ausweise-und-reisepaesse-ab-mai-per-post-fuer-15-euro-erhaeltlich-a-031d04d5-d27d-4d64-b853-9d9656665c27#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-podcast](https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-podcast-a-59416bdb-55ce-468e-bab3-8a1fbafd2605#ref=rss)
-* [https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin](https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-a-724425ed-3b0d-4086-afb6-ce80ec6692d5#ref=rss)
-### staatsunternehmen
+* [https://www.spiegel.de/wirtschaft/grundsteuer-zwei-drittel-der-privaten-eigentuemer-zahlen-mehr-durch-reform](https://www.spiegel.de/wirtschaft/grundsteuer-zwei-drittel-der-privaten-eigentuemer-zahlen-mehr-durch-reform-a-ec0cdaa3-3512-4bb6-8163-f33190cdf5c8#ref=rss)
+* [https://www.spiegel.de/sport/american-football/nfl-tennessee-titans-picken-cam-ward-im-draft-shedeur-sanders-muss-sich-gedulden](https://www.spiegel.de/sport/american-football/nfl-tennessee-titans-picken-cam-ward-im-draft-shedeur-sanders-muss-sich-gedulden-a-2481d1c9-bd99-47a8-906f-c21592e47218#ref=rss)
+### simond
 
-* [https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-podcast](https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-podcast-a-59416bdb-55ce-468e-bab3-8a1fbafd2605#ref=rss)
-* [https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin](https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-a-724425ed-3b0d-4086-afb6-ce80ec6692d5#ref=rss)
-### ukrainekrieg
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-franzoesische-juniorenmeisterin-margot-simond-stirbt-nach-trainingssturz](https://www.spiegel.de/sport/wintersport/ski-alpin-franzoesische-juniorenmeisterin-margot-simond-stirbt-nach-trainingssturz-a-521b78a2-cea3-4806-8ff7-91ba58e338bf#ref=rss)
+### israel
 
-* [https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-podcast](https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-podcast-a-59416bdb-55ce-468e-bab3-8a1fbafd2605#ref=rss)
-* [https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin](https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-a-724425ed-3b0d-4086-afb6-ce80ec6692d5#ref=rss)
-### russisches
+* [https://www.spiegel.de/ausland/deutschlands-position-zu-israel-und-gaza-staatsraeson-ersetzt-keine-kritische-politik-meinung](https://www.spiegel.de/ausland/deutschlands-position-zu-israel-und-gaza-staatsraeson-ersetzt-keine-kritische-politik-meinung-a-e60b10ad-25a4-42d8-8ad3-cbc92d14ece8#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gesteht-toedlichen-angriff-auf-uno-helfer-ein](https://www.spiegel.de/ausland/israel-gesteht-toedlichen-angriff-auf-uno-helfer-ein-a-8870d706-7da8-4585-8444-95b60e4ec065#ref=rss)
+### donald
 
-* [https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-podcast](https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-podcast-a-59416bdb-55ce-468e-bab3-8a1fbafd2605#ref=rss)
-* [https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin](https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-a-724425ed-3b0d-4086-afb6-ce80ec6692d5#ref=rss)
-### volumen
+* [https://www.spiegel.de/ausland/deutschlands-position-zu-israel-und-gaza-staatsraeson-ersetzt-keine-kritische-politik-meinung](https://www.spiegel.de/ausland/deutschlands-position-zu-israel-und-gaza-staatsraeson-ersetzt-keine-kritische-politik-meinung-a-e60b10ad-25a4-42d8-8ad3-cbc92d14ece8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sigmar-gabriel-ex-aussenminister-vergleicht-donald-trumps-ukrainedeal-mit-versailler-vertrag](https://www.spiegel.de/politik/deutschland/sigmar-gabriel-ex-aussenminister-vergleicht-donald-trumps-ukrainedeal-mit-versailler-vertrag-a-80c53b49-11f9-4755-9b49-a7c8b67ded56#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/studie-us-fluggesellschaften-werden-zu-den-verlierern-von-trumps-zollpolitik-gehoeren](https://www.spiegel.de/wirtschaft/unternehmen/studie-us-fluggesellschaften-werden-zu-den-verlierern-von-trumps-zollpolitik-gehoeren-a-8181e488-089e-433f-855e-07fe86402570#ref=rss)
+### torgau
 
-* [https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-podcast](https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-podcast-a-59416bdb-55ce-468e-bab3-8a1fbafd2605#ref=rss)
-* [https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin](https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-a-724425ed-3b0d-4086-afb6-ce80ec6692d5#ref=rss)
-### zugenommen
+* [https://www.spiegel.de/politik/deutschland/ukraine-botschafter-draengt-auf-teilnahmeverbot-fuer-russland-an-weltkriegs-gedenken](https://www.spiegel.de/politik/deutschland/ukraine-botschafter-draengt-auf-teilnahmeverbot-fuer-russland-an-weltkriegs-gedenken-a-9e8e329d-86f8-483c-9247-5821bd38a792#ref=rss)
+* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-handschlag-von-torgau-sieben-soldaten-und-ein-bild-fuer-die-ewigkeit](https://www.spiegel.de/geschichte/zweiter-weltkrieg-handschlag-von-torgau-sieben-soldaten-und-ein-bild-fuer-die-ewigkeit-a-dcb386b7-fbd8-4c68-a715-9281ecbf8ebc#ref=rss)
+### trumps
 
-* [https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-podcast](https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-podcast-a-59416bdb-55ce-468e-bab3-8a1fbafd2605#ref=rss)
-* [https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin](https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-a-724425ed-3b0d-4086-afb6-ce80ec6692d5#ref=rss)
-### spiegelredakteurin
+* [https://www.spiegel.de/politik/deutschland/sigmar-gabriel-ex-aussenminister-vergleicht-donald-trumps-ukrainedeal-mit-versailler-vertrag](https://www.spiegel.de/politik/deutschland/sigmar-gabriel-ex-aussenminister-vergleicht-donald-trumps-ukrainedeal-mit-versailler-vertrag-a-80c53b49-11f9-4755-9b49-a7c8b67ded56#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/studie-us-fluggesellschaften-werden-zu-den-verlierern-von-trumps-zollpolitik-gehoeren](https://www.spiegel.de/wirtschaft/unternehmen/studie-us-fluggesellschaften-werden-zu-den-verlierern-von-trumps-zollpolitik-gehoeren-a-8181e488-089e-433f-855e-07fe86402570#ref=rss)
+### papstwahl
 
-* [https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-podcast](https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-podcast-a-59416bdb-55ce-468e-bab3-8a1fbafd2605#ref=rss)
-* [https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin](https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-a-724425ed-3b0d-4086-afb6-ce80ec6692d5#ref=rss)
-### susanne
+* [https://www.spiegel.de/politik/deutschland/papstwahl-kuriose-fakten-zur-kleiderordnung-und-namenswahl](https://www.spiegel.de/politik/deutschland/papstwahl-kuriose-fakten-zur-kleiderordnung-und-namenswahl-a-e9f2e47f-c072-42a3-b93d-640305aa7275#ref=rss)
+### fakten
 
-* [https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-podcast](https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-podcast-a-59416bdb-55ce-468e-bab3-8a1fbafd2605#ref=rss)
-* [https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin](https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-a-724425ed-3b0d-4086-afb6-ce80ec6692d5#ref=rss)
-### götze
+* [https://www.spiegel.de/politik/deutschland/papstwahl-kuriose-fakten-zur-kleiderordnung-und-namenswahl](https://www.spiegel.de/politik/deutschland/papstwahl-kuriose-fakten-zur-kleiderordnung-und-namenswahl-a-e9f2e47f-c072-42a3-b93d-640305aa7275#ref=rss)
+### kleiderordnung
 
-* [https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-podcast](https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-podcast-a-59416bdb-55ce-468e-bab3-8a1fbafd2605#ref=rss)
-* [https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin](https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-a-724425ed-3b0d-4086-afb6-ce80ec6692d5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/papstwahl-kuriose-fakten-zur-kleiderordnung-und-namenswahl](https://www.spiegel.de/politik/deutschland/papstwahl-kuriose-fakten-zur-kleiderordnung-und-namenswahl-a-e9f2e47f-c072-42a3-b93d-640305aa7275#ref=rss)
+### namenswahl
+
+* [https://www.spiegel.de/politik/deutschland/papstwahl-kuriose-fakten-zur-kleiderordnung-und-namenswahl](https://www.spiegel.de/politik/deutschland/papstwahl-kuriose-fakten-zur-kleiderordnung-und-namenswahl-a-e9f2e47f-c072-42a3-b93d-640305aa7275#ref=rss)
+### werner
+
+* [https://www.spiegel.de/kultur/werner-lorant-mit-ihm-war-immer-was-los](https://www.spiegel.de/kultur/werner-lorant-mit-ihm-war-immer-was-los-a-3a26105e-34ad-41b6-9bf7-339d99a00450#ref=rss)
+### lorant
+
+* [https://www.spiegel.de/kultur/werner-lorant-mit-ihm-war-immer-was-los](https://www.spiegel.de/kultur/werner-lorant-mit-ihm-war-immer-was-los-a-3a26105e-34ad-41b6-9bf7-339d99a00450#ref=rss)
+### holte
+
+* [https://www.spiegel.de/kultur/werner-lorant-mit-ihm-war-immer-was-los](https://www.spiegel.de/kultur/werner-lorant-mit-ihm-war-immer-was-los-a-3a26105e-34ad-41b6-9bf7-339d99a00450#ref=rss)
+* [https://www.spiegel.de/sport/basketball/nba-playoffs-detroit-pistons-patzen-gegen-new-york-knicks-oklahoma-city-thunder-holt-29-punkte-auf](https://www.spiegel.de/sport/basketball/nba-playoffs-detroit-pistons-patzen-gegen-new-york-knicks-oklahoma-city-thunder-holt-29-punkte-auf-a-b029a63d-375e-47fb-bab9-eb4190737f28#ref=rss)
+### fühlt
+
+* [https://www.spiegel.de/politik/deutschland/trinkgeld-debatte-fuehlt-sich-trinkgeld-per-karte-wie-ein-muss-an](https://www.spiegel.de/politik/deutschland/trinkgeld-debatte-fuehlt-sich-trinkgeld-per-karte-wie-ein-muss-an-a-c3470ffb-5300-459a-bf7d-77a4ca0ff0e9#ref=rss)
+### trinkgeld
+
+* [https://www.spiegel.de/politik/deutschland/trinkgeld-debatte-fuehlt-sich-trinkgeld-per-karte-wie-ein-muss-an](https://www.spiegel.de/politik/deutschland/trinkgeld-debatte-fuehlt-sich-trinkgeld-per-karte-wie-ein-muss-an-a-c3470ffb-5300-459a-bf7d-77a4ca0ff0e9#ref=rss)
+### per
+
+* [https://www.spiegel.de/politik/deutschland/trinkgeld-debatte-fuehlt-sich-trinkgeld-per-karte-wie-ein-muss-an](https://www.spiegel.de/politik/deutschland/trinkgeld-debatte-fuehlt-sich-trinkgeld-per-karte-wie-ein-muss-an-a-c3470ffb-5300-459a-bf7d-77a4ca0ff0e9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-post-ausweise-und-reisepaesse-ab-mai-per-post-fuer-15-euro-erhaeltlich](https://www.spiegel.de/wirtschaft/deutsche-post-ausweise-und-reisepaesse-ab-mai-per-post-fuer-15-euro-erhaeltlich-a-031d04d5-d27d-4d64-b853-9d9656665c27#ref=rss)
+### gedacht
+
+* [https://www.spiegel.de/politik/deutschland/trinkgeld-debatte-fuehlt-sich-trinkgeld-per-karte-wie-ein-muss-an](https://www.spiegel.de/politik/deutschland/trinkgeld-debatte-fuehlt-sich-trinkgeld-per-karte-wie-ein-muss-an-a-c3470ffb-5300-459a-bf7d-77a4ca0ff0e9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-botschafter-draengt-auf-teilnahmeverbot-fuer-russland-an-weltkriegs-gedenken](https://www.spiegel.de/politik/deutschland/ukraine-botschafter-draengt-auf-teilnahmeverbot-fuer-russland-an-weltkriegs-gedenken-a-9e8e329d-86f8-483c-9247-5821bd38a792#ref=rss)
+### trittau
+
+* [https://www.spiegel.de/panorama/justiz/trittau-mann-stellt-sich-nach-toedlichen-disco-streit](https://www.spiegel.de/panorama/justiz/trittau-mann-stellt-sich-nach-toedlichen-disco-streit-a-001ffd41-7408-446b-9077-9b123d62a32d#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/justiz/trittau-mann-stellt-sich-nach-toedlichen-disco-streit](https://www.spiegel.de/panorama/justiz/trittau-mann-stellt-sich-nach-toedlichen-disco-streit-a-001ffd41-7408-446b-9077-9b123d62a32d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-rollstuhlfahrer-erstochen-lebenslange-haft-fuer-30-jaehrigen](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-rollstuhlfahrer-erstochen-lebenslange-haft-fuer-30-jaehrigen-a-586919ad-c5b0-4b6c-a1f0-82726a237945#ref=rss)
+### tödlichen
+
+* [https://www.spiegel.de/panorama/justiz/trittau-mann-stellt-sich-nach-toedlichen-disco-streit](https://www.spiegel.de/panorama/justiz/trittau-mann-stellt-sich-nach-toedlichen-disco-streit-a-001ffd41-7408-446b-9077-9b123d62a32d#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gesteht-toedlichen-angriff-auf-uno-helfer-ein](https://www.spiegel.de/ausland/israel-gesteht-toedlichen-angriff-auf-uno-helfer-ein-a-8870d706-7da8-4585-8444-95b60e4ec065#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/wissenschaft/natur/hoellenameise-lebte-vor-113-millionen-jahren-in-brasilien](https://www.spiegel.de/wissenschaft/natur/hoellenameise-lebte-vor-113-millionen-jahren-in-brasilien-a-97db17a2-0426-4a9d-b141-a66ab7dc2f16#ref=rss)
+* [https://www.spiegel.de/netzwelt/meta-raeumt-grosses-spam-problem-bei-facebook-ein](https://www.spiegel.de/netzwelt/meta-raeumt-grosses-spam-problem-bei-facebook-ein-a-8da5063b-f4eb-4106-9040-e734bf36e6e7#ref=rss)
+### ausbruch
+
+* [https://www.spiegel.de/wissenschaft/natur/vogelgrippe-ein-einziger-wildvogel-kontakt-soll-ausbruch-bei-us-kuehen-ausgeloest-haben](https://www.spiegel.de/wissenschaft/natur/vogelgrippe-ein-einziger-wildvogel-kontakt-soll-ausbruch-bei-us-kuehen-ausgeloest-haben-a-102c5551-4dc6-4ca3-85d5-6abbabad6ec4#ref=rss)
+### 2024
+
+* [https://www.spiegel.de/wissenschaft/natur/vogelgrippe-ein-einziger-wildvogel-kontakt-soll-ausbruch-bei-us-kuehen-ausgeloest-haben](https://www.spiegel.de/wissenschaft/natur/vogelgrippe-ein-einziger-wildvogel-kontakt-soll-ausbruch-bei-us-kuehen-ausgeloest-haben-a-102c5551-4dc6-4ca3-85d5-6abbabad6ec4#ref=rss)
+* [https://www.spiegel.de/netzwelt/meta-raeumt-grosses-spam-problem-bei-facebook-ein](https://www.spiegel.de/netzwelt/meta-raeumt-grosses-spam-problem-bei-facebook-ein-a-8da5063b-f4eb-4106-9040-e734bf36e6e7#ref=rss)
+### pete
+
+* [https://www.spiegel.de/ausland/usa-pete-hegseth-nutzte-fuer-chat-zu-luftangriff-oeffentlich-verfuegbare-handynummer](https://www.spiegel.de/ausland/usa-pete-hegseth-nutzte-fuer-chat-zu-luftangriff-oeffentlich-verfuegbare-handynummer-a-ec3f4bc9-f9a6-4666-ba3d-d676c0bc066f#ref=rss)
+### hegseth
+
+* [https://www.spiegel.de/ausland/usa-pete-hegseth-nutzte-fuer-chat-zu-luftangriff-oeffentlich-verfuegbare-handynummer](https://www.spiegel.de/ausland/usa-pete-hegseth-nutzte-fuer-chat-zu-luftangriff-oeffentlich-verfuegbare-handynummer-a-ec3f4bc9-f9a6-4666-ba3d-d676c0bc066f#ref=rss)
+### chat
+
+* [https://www.spiegel.de/ausland/usa-pete-hegseth-nutzte-fuer-chat-zu-luftangriff-oeffentlich-verfuegbare-handynummer](https://www.spiegel.de/ausland/usa-pete-hegseth-nutzte-fuer-chat-zu-luftangriff-oeffentlich-verfuegbare-handynummer-a-ec3f4bc9-f9a6-4666-ba3d-d676c0bc066f#ref=rss)
+### york
+
+* [https://www.spiegel.de/ausland/usa-pete-hegseth-nutzte-fuer-chat-zu-luftangriff-oeffentlich-verfuegbare-handynummer](https://www.spiegel.de/ausland/usa-pete-hegseth-nutzte-fuer-chat-zu-luftangriff-oeffentlich-verfuegbare-handynummer-a-ec3f4bc9-f9a6-4666-ba3d-d676c0bc066f#ref=rss)
+* [https://www.spiegel.de/sport/basketball/nba-playoffs-detroit-pistons-patzen-gegen-new-york-knicks-oklahoma-city-thunder-holt-29-punkte-auf](https://www.spiegel.de/sport/basketball/nba-playoffs-detroit-pistons-patzen-gegen-new-york-knicks-oklahoma-city-thunder-holt-29-punkte-auf-a-b029a63d-375e-47fb-bab9-eb4190737f28#ref=rss)
+### sandro
+
+* [https://www.spiegel.de/sport/fussball/dfb-sandro-wagner-ab-sommer-nicht-laenger-co-trainer-von-julian-nagelsmann](https://www.spiegel.de/sport/fussball/dfb-sandro-wagner-ab-sommer-nicht-laenger-co-trainer-von-julian-nagelsmann-a-af10d40c-c1da-40cb-886b-a530f2dfa7ef#ref=rss)
+### julian
+
+* [https://www.spiegel.de/sport/fussball/dfb-sandro-wagner-ab-sommer-nicht-laenger-co-trainer-von-julian-nagelsmann](https://www.spiegel.de/sport/fussball/dfb-sandro-wagner-ab-sommer-nicht-laenger-co-trainer-von-julian-nagelsmann-a-af10d40c-c1da-40cb-886b-a530f2dfa7ef#ref=rss)
+### nagelsmann
+
+* [https://www.spiegel.de/sport/fussball/dfb-sandro-wagner-ab-sommer-nicht-laenger-co-trainer-von-julian-nagelsmann](https://www.spiegel.de/sport/fussball/dfb-sandro-wagner-ab-sommer-nicht-laenger-co-trainer-von-julian-nagelsmann-a-af10d40c-c1da-40cb-886b-a530f2dfa7ef#ref=rss)
+### rumänen
+
+* [https://www.spiegel.de/ausland/russland-geheimdienst-verhaftet-rumaenen-wegen-spionagevorwuerfen](https://www.spiegel.de/ausland/russland-geheimdienst-verhaftet-rumaenen-wegen-spionagevorwuerfen-a-c3b0c204-2c32-4912-9cf1-121f9a4d665e#ref=rss)
+### 20
+
+* [https://www.spiegel.de/ausland/russland-geheimdienst-verhaftet-rumaenen-wegen-spionagevorwuerfen](https://www.spiegel.de/ausland/russland-geheimdienst-verhaftet-rumaenen-wegen-spionagevorwuerfen-a-c3b0c204-2c32-4912-9cf1-121f9a4d665e#ref=rss)
+* [https://www.spiegel.de/ausland/kaschmir-schuesse-zwischen-indischen-und-pakistanischen-soldaten](https://www.spiegel.de/ausland/kaschmir-schuesse-zwischen-indischen-und-pakistanischen-soldaten-a-0d2121c0-83a8-43f9-85b1-56ee35d19048#ref=rss)
+### haft
+
+* [https://www.spiegel.de/ausland/russland-geheimdienst-verhaftet-rumaenen-wegen-spionagevorwuerfen](https://www.spiegel.de/ausland/russland-geheimdienst-verhaftet-rumaenen-wegen-spionagevorwuerfen-a-c3b0c204-2c32-4912-9cf1-121f9a4d665e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-rollstuhlfahrer-erstochen-lebenslange-haft-fuer-30-jaehrigen](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-rollstuhlfahrer-erstochen-lebenslange-haft-fuer-30-jaehrigen-a-586919ad-c5b0-4b6c-a1f0-82726a237945#ref=rss)
+### meta
+
+* [https://www.spiegel.de/netzwelt/meta-raeumt-grosses-spam-problem-bei-facebook-ein](https://www.spiegel.de/netzwelt/meta-raeumt-grosses-spam-problem-bei-facebook-ein-a-8da5063b-f4eb-4106-9040-e734bf36e6e7#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/netzwelt/meta-raeumt-grosses-spam-problem-bei-facebook-ein](https://www.spiegel.de/netzwelt/meta-raeumt-grosses-spam-problem-bei-facebook-ein-a-8da5063b-f4eb-4106-9040-e734bf36e6e7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/studie-us-fluggesellschaften-werden-zu-den-verlierern-von-trumps-zollpolitik-gehoeren](https://www.spiegel.de/wirtschaft/unternehmen/studie-us-fluggesellschaften-werden-zu-den-verlierern-von-trumps-zollpolitik-gehoeren-a-8181e488-089e-433f-855e-07fe86402570#ref=rss)
+### unternehmen
+
+* [https://www.spiegel.de/netzwelt/meta-raeumt-grosses-spam-problem-bei-facebook-ein](https://www.spiegel.de/netzwelt/meta-raeumt-grosses-spam-problem-bei-facebook-ein-a-8da5063b-f4eb-4106-9040-e734bf36e6e7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/studie-der-kfw-bank-mittelstand-verliert-milliarden-durch-buerokratische-pflichten](https://www.spiegel.de/wirtschaft/studie-der-kfw-bank-mittelstand-verliert-milliarden-durch-buerokratische-pflichten-a-8aae8064-4e58-49ed-9a7d-b2e9ca46d8b1#ref=rss)
+### 15
+
+* [https://www.spiegel.de/wirtschaft/deutsche-post-ausweise-und-reisepaesse-ab-mai-per-post-fuer-15-euro-erhaeltlich](https://www.spiegel.de/wirtschaft/deutsche-post-ausweise-und-reisepaesse-ab-mai-per-post-fuer-15-euro-erhaeltlich-a-031d04d5-d27d-4d64-b853-9d9656665c27#ref=rss)
+### euro
+
+* [https://www.spiegel.de/wirtschaft/deutsche-post-ausweise-und-reisepaesse-ab-mai-per-post-fuer-15-euro-erhaeltlich](https://www.spiegel.de/wirtschaft/deutsche-post-ausweise-und-reisepaesse-ab-mai-per-post-fuer-15-euro-erhaeltlich-a-031d04d5-d27d-4d64-b853-9d9656665c27#ref=rss)
+### grundsteuer
+
+* [https://www.spiegel.de/wirtschaft/grundsteuer-zwei-drittel-der-privaten-eigentuemer-zahlen-mehr-durch-reform](https://www.spiegel.de/wirtschaft/grundsteuer-zwei-drittel-der-privaten-eigentuemer-zahlen-mehr-durch-reform-a-ec0cdaa3-3512-4bb6-8163-f33190cdf5c8#ref=rss)
+### drittel
+
+* [https://www.spiegel.de/wirtschaft/grundsteuer-zwei-drittel-der-privaten-eigentuemer-zahlen-mehr-durch-reform](https://www.spiegel.de/wirtschaft/grundsteuer-zwei-drittel-der-privaten-eigentuemer-zahlen-mehr-durch-reform-a-ec0cdaa3-3512-4bb6-8163-f33190cdf5c8#ref=rss)
+### laut
+
+* [https://www.spiegel.de/wirtschaft/grundsteuer-zwei-drittel-der-privaten-eigentuemer-zahlen-mehr-durch-reform](https://www.spiegel.de/wirtschaft/grundsteuer-zwei-drittel-der-privaten-eigentuemer-zahlen-mehr-durch-reform-a-ec0cdaa3-3512-4bb6-8163-f33190cdf5c8#ref=rss)
+* [https://www.spiegel.de/ausland/kaschmir-schuesse-zwischen-indischen-und-pakistanischen-soldaten](https://www.spiegel.de/ausland/kaschmir-schuesse-zwischen-indischen-und-pakistanischen-soldaten-a-0d2121c0-83a8-43f9-85b1-56ee35d19048#ref=rss)
+### große
+
+* [https://www.spiegel.de/wirtschaft/grundsteuer-zwei-drittel-der-privaten-eigentuemer-zahlen-mehr-durch-reform](https://www.spiegel.de/wirtschaft/grundsteuer-zwei-drittel-der-privaten-eigentuemer-zahlen-mehr-durch-reform-a-ec0cdaa3-3512-4bb6-8163-f33190cdf5c8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/studie-us-fluggesellschaften-werden-zu-den-verlierern-von-trumps-zollpolitik-gehoeren](https://www.spiegel.de/wirtschaft/unternehmen/studie-us-fluggesellschaften-werden-zu-den-verlierern-von-trumps-zollpolitik-gehoeren-a-8181e488-089e-433f-855e-07fe86402570#ref=rss)
+### frankfurt
+
+* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-rollstuhlfahrer-erstochen-lebenslange-haft-fuer-30-jaehrigen](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-rollstuhlfahrer-erstochen-lebenslange-haft-fuer-30-jaehrigen-a-586919ad-c5b0-4b6c-a1f0-82726a237945#ref=rss)
+### main
+
+* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-rollstuhlfahrer-erstochen-lebenslange-haft-fuer-30-jaehrigen](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-rollstuhlfahrer-erstochen-lebenslange-haft-fuer-30-jaehrigen-a-586919ad-c5b0-4b6c-a1f0-82726a237945#ref=rss)
+### 30jährigen
+
+* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-rollstuhlfahrer-erstochen-lebenslange-haft-fuer-30-jaehrigen](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-rollstuhlfahrer-erstochen-lebenslange-haft-fuer-30-jaehrigen-a-586919ad-c5b0-4b6c-a1f0-82726a237945#ref=rss)
+### französische
+
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-franzoesische-juniorenmeisterin-margot-simond-stirbt-nach-trainingssturz](https://www.spiegel.de/sport/wintersport/ski-alpin-franzoesische-juniorenmeisterin-margot-simond-stirbt-nach-trainingssturz-a-521b78a2-cea3-4806-8ff7-91ba58e338bf#ref=rss)
+### margot
+
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-franzoesische-juniorenmeisterin-margot-simond-stirbt-nach-trainingssturz](https://www.spiegel.de/sport/wintersport/ski-alpin-franzoesische-juniorenmeisterin-margot-simond-stirbt-nach-trainingssturz-a-521b78a2-cea3-4806-8ff7-91ba58e338bf#ref=rss)
+### erst
+
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-franzoesische-juniorenmeisterin-margot-simond-stirbt-nach-trainingssturz](https://www.spiegel.de/sport/wintersport/ski-alpin-franzoesische-juniorenmeisterin-margot-simond-stirbt-nach-trainingssturz-a-521b78a2-cea3-4806-8ff7-91ba58e338bf#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gesteht-toedlichen-angriff-auf-uno-helfer-ein](https://www.spiegel.de/ausland/israel-gesteht-toedlichen-angriff-auf-uno-helfer-ein-a-8870d706-7da8-4585-8444-95b60e4ec065#ref=rss)
+### dollar
+
+* [https://www.spiegel.de/netzwelt/web/quartalszahlen-google-konzern-erzielt-einen-der-hoechsten-gewinne-aller-zeiten](https://www.spiegel.de/netzwelt/web/quartalszahlen-google-konzern-erzielt-einen-der-hoechsten-gewinne-aller-zeiten-a-931c447d-ae77-4649-90f0-8802938a5cb9#ref=rss)
+### gaza
+
+* [https://www.spiegel.de/ausland/deutschlands-position-zu-israel-und-gaza-staatsraeson-ersetzt-keine-kritische-politik-meinung](https://www.spiegel.de/ausland/deutschlands-position-zu-israel-und-gaza-staatsraeson-ersetzt-keine-kritische-politik-meinung-a-e60b10ad-25a4-42d8-8ad3-cbc92d14ece8#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gesteht-toedlichen-angriff-auf-uno-helfer-ein](https://www.spiegel.de/ausland/israel-gesteht-toedlichen-angriff-auf-uno-helfer-ein-a-8870d706-7da8-4585-8444-95b60e4ec065#ref=rss)
+### gazastreifen
+
+* [https://www.spiegel.de/ausland/deutschlands-position-zu-israel-und-gaza-staatsraeson-ersetzt-keine-kritische-politik-meinung](https://www.spiegel.de/ausland/deutschlands-position-zu-israel-und-gaza-staatsraeson-ersetzt-keine-kritische-politik-meinung-a-e60b10ad-25a4-42d8-8ad3-cbc92d14ece8#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gesteht-toedlichen-angriff-auf-uno-helfer-ein](https://www.spiegel.de/ausland/israel-gesteht-toedlichen-angriff-auf-uno-helfer-ein-a-8870d706-7da8-4585-8444-95b60e4ec065#ref=rss)
+### drängt
+
+* [https://www.spiegel.de/politik/deutschland/ukraine-botschafter-draengt-auf-teilnahmeverbot-fuer-russland-an-weltkriegs-gedenken](https://www.spiegel.de/politik/deutschland/ukraine-botschafter-draengt-auf-teilnahmeverbot-fuer-russland-an-weltkriegs-gedenken-a-9e8e329d-86f8-483c-9247-5821bd38a792#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sigmar-gabriel-ex-aussenminister-vergleicht-donald-trumps-ukrainedeal-mit-versailler-vertrag](https://www.spiegel.de/politik/deutschland/sigmar-gabriel-ex-aussenminister-vergleicht-donald-trumps-ukrainedeal-mit-versailler-vertrag-a-80c53b49-11f9-4755-9b49-a7c8b67ded56#ref=rss)
+### 80
+
+* [https://www.spiegel.de/politik/deutschland/ukraine-botschafter-draengt-auf-teilnahmeverbot-fuer-russland-an-weltkriegs-gedenken](https://www.spiegel.de/politik/deutschland/ukraine-botschafter-draengt-auf-teilnahmeverbot-fuer-russland-an-weltkriegs-gedenken-a-9e8e329d-86f8-483c-9247-5821bd38a792#ref=rss)
+* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-handschlag-von-torgau-sieben-soldaten-und-ein-bild-fuer-die-ewigkeit](https://www.spiegel.de/geschichte/zweiter-weltkrieg-handschlag-von-torgau-sieben-soldaten-und-ein-bild-fuer-die-ewigkeit-a-dcb386b7-fbd8-4c68-a715-9281ecbf8ebc#ref=rss)
+### botschafter
+
+* [https://www.spiegel.de/politik/deutschland/ukraine-botschafter-draengt-auf-teilnahmeverbot-fuer-russland-an-weltkriegs-gedenken](https://www.spiegel.de/politik/deutschland/ukraine-botschafter-draengt-auf-teilnahmeverbot-fuer-russland-an-weltkriegs-gedenken-a-9e8e329d-86f8-483c-9247-5821bd38a792#ref=rss)
+### sigmar
+
+* [https://www.spiegel.de/politik/deutschland/sigmar-gabriel-ex-aussenminister-vergleicht-donald-trumps-ukrainedeal-mit-versailler-vertrag](https://www.spiegel.de/politik/deutschland/sigmar-gabriel-ex-aussenminister-vergleicht-donald-trumps-ukrainedeal-mit-versailler-vertrag-a-80c53b49-11f9-4755-9b49-a7c8b67ded56#ref=rss)
+### gabriel
+
+* [https://www.spiegel.de/politik/deutschland/sigmar-gabriel-ex-aussenminister-vergleicht-donald-trumps-ukrainedeal-mit-versailler-vertrag](https://www.spiegel.de/politik/deutschland/sigmar-gabriel-ex-aussenminister-vergleicht-donald-trumps-ukrainedeal-mit-versailler-vertrag-a-80c53b49-11f9-4755-9b49-a7c8b67ded56#ref=rss)
+### folgen
+
+* [https://www.spiegel.de/politik/deutschland/sigmar-gabriel-ex-aussenminister-vergleicht-donald-trumps-ukrainedeal-mit-versailler-vertrag](https://www.spiegel.de/politik/deutschland/sigmar-gabriel-ex-aussenminister-vergleicht-donald-trumps-ukrainedeal-mit-versailler-vertrag-a-80c53b49-11f9-4755-9b49-a7c8b67ded56#ref=rss)
+* [https://www.spiegel.de/panorama/leute/linda-evangelista-mag-nicht-mehr-in-den-spiegel-schauen](https://www.spiegel.de/panorama/leute/linda-evangelista-mag-nicht-mehr-in-den-spiegel-schauen-a-1c94eb35-e73a-42d4-8471-19e87c253fc0#ref=rss)
+### linda
+
+* [https://www.spiegel.de/panorama/leute/linda-evangelista-mag-nicht-mehr-in-den-spiegel-schauen](https://www.spiegel.de/panorama/leute/linda-evangelista-mag-nicht-mehr-in-den-spiegel-schauen-a-1c94eb35-e73a-42d4-8471-19e87c253fc0#ref=rss)
+### evangelista
+
+* [https://www.spiegel.de/panorama/leute/linda-evangelista-mag-nicht-mehr-in-den-spiegel-schauen](https://www.spiegel.de/panorama/leute/linda-evangelista-mag-nicht-mehr-in-den-spiegel-schauen-a-1c94eb35-e73a-42d4-8471-19e87c253fc0#ref=rss)
+### handschlag
+
+* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-handschlag-von-torgau-sieben-soldaten-und-ein-bild-fuer-die-ewigkeit](https://www.spiegel.de/geschichte/zweiter-weltkrieg-handschlag-von-torgau-sieben-soldaten-und-ein-bild-fuer-die-ewigkeit-a-dcb386b7-fbd8-4c68-a715-9281ecbf8ebc#ref=rss)
+### leben
+
+* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-handschlag-von-torgau-sieben-soldaten-und-ein-bild-fuer-die-ewigkeit](https://www.spiegel.de/geschichte/zweiter-weltkrieg-handschlag-von-torgau-sieben-soldaten-und-ein-bild-fuer-die-ewigkeit-a-dcb386b7-fbd8-4c68-a715-9281ecbf8ebc#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gesteht-toedlichen-angriff-auf-uno-helfer-ein](https://www.spiegel.de/ausland/israel-gesteht-toedlichen-angriff-auf-uno-helfer-ein-a-8870d706-7da8-4585-8444-95b60e4ec065#ref=rss)
+### usfluggesellschaften
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/studie-us-fluggesellschaften-werden-zu-den-verlierern-von-trumps-zollpolitik-gehoeren](https://www.spiegel.de/wirtschaft/unternehmen/studie-us-fluggesellschaften-werden-zu-den-verlierern-von-trumps-zollpolitik-gehoeren-a-8181e488-089e-433f-855e-07fe86402570#ref=rss)
+### zollpolitik
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/studie-us-fluggesellschaften-werden-zu-den-verlierern-von-trumps-zollpolitik-gehoeren](https://www.spiegel.de/wirtschaft/unternehmen/studie-us-fluggesellschaften-werden-zu-den-verlierern-von-trumps-zollpolitik-gehoeren-a-8181e488-089e-433f-855e-07fe86402570#ref=rss)
+### studie
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/studie-us-fluggesellschaften-werden-zu-den-verlierern-von-trumps-zollpolitik-gehoeren](https://www.spiegel.de/wirtschaft/unternehmen/studie-us-fluggesellschaften-werden-zu-den-verlierern-von-trumps-zollpolitik-gehoeren-a-8181e488-089e-433f-855e-07fe86402570#ref=rss)
+* [https://www.spiegel.de/wirtschaft/studie-der-kfw-bank-mittelstand-verliert-milliarden-durch-buerokratische-pflichten](https://www.spiegel.de/wirtschaft/studie-der-kfw-bank-mittelstand-verliert-milliarden-durch-buerokratische-pflichten-a-8aae8064-4e58-49ed-9a7d-b2e9ca46d8b1#ref=rss)
+### dennis
+
+* [https://www.spiegel.de/sport/basketball/nba-playoffs-detroit-pistons-patzen-gegen-new-york-knicks-oklahoma-city-thunder-holt-29-punkte-auf](https://www.spiegel.de/sport/basketball/nba-playoffs-detroit-pistons-patzen-gegen-new-york-knicks-oklahoma-city-thunder-holt-29-punkte-auf-a-b029a63d-375e-47fb-bab9-eb4190737f28#ref=rss)
+### pistons
+
+* [https://www.spiegel.de/sport/basketball/nba-playoffs-detroit-pistons-patzen-gegen-new-york-knicks-oklahoma-city-thunder-holt-29-punkte-auf](https://www.spiegel.de/sport/basketball/nba-playoffs-detroit-pistons-patzen-gegen-new-york-knicks-oklahoma-city-thunder-holt-29-punkte-auf-a-b029a63d-375e-47fb-bab9-eb4190737f28#ref=rss)
+### kalifornien
+
+* [https://www.spiegel.de/wirtschaft/weltwirtschaft-kalifornien-ueberholt-japan-als-viertgroesste-volkswirtschaft](https://www.spiegel.de/wirtschaft/weltwirtschaft-kalifornien-ueberholt-japan-als-viertgroesste-volkswirtschaft-a-ffb7ad77-eead-4e29-a0ee-ab6d0103e1a4#ref=rss)
+### jersey
+
+* [https://www.spiegel.de/panorama/justiz/usa-waldbrand-in-new-jersey-19-jaehriger-wegen-brandstiftung-festgenommen](https://www.spiegel.de/panorama/justiz/usa-waldbrand-in-new-jersey-19-jaehriger-wegen-brandstiftung-festgenommen-a-e4cf57e2-27df-4a3b-a29e-223cc6789175#ref=rss)
+### kauft
+
+* [https://www.spiegel.de/politik/aufruestung-der-bundeswehr-uns-wird-niemand-ueber-den-tisch-ziehen](https://www.spiegel.de/politik/aufruestung-der-bundeswehr-uns-wird-niemand-ueber-den-tisch-ziehen-a-eae67b28-2ab7-4027-b65e-9ddf6558b959#ref=rss)
+### waffen
+
+* [https://www.spiegel.de/politik/aufruestung-der-bundeswehr-uns-wird-niemand-ueber-den-tisch-ziehen](https://www.spiegel.de/politik/aufruestung-der-bundeswehr-uns-wird-niemand-ueber-den-tisch-ziehen-a-eae67b28-2ab7-4027-b65e-9ddf6558b959#ref=rss)
 ### erklärt
 
-* [https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-podcast](https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-podcast-a-59416bdb-55ce-468e-bab3-8a1fbafd2605#ref=rss)
-* [https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin](https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-a-724425ed-3b0d-4086-afb6-ce80ec6692d5#ref=rss)
-### deals
+* [https://www.spiegel.de/politik/aufruestung-der-bundeswehr-uns-wird-niemand-ueber-den-tisch-ziehen](https://www.spiegel.de/politik/aufruestung-der-bundeswehr-uns-wird-niemand-ueber-den-tisch-ziehen-a-eae67b28-2ab7-4027-b65e-9ddf6558b959#ref=rss)
+* [https://www.spiegel.de/reise/green-key-bio-hotels-greensign-welchen-oekosiegeln-koennen-hotelgaeste-trauen](https://www.spiegel.de/reise/green-key-bio-hotels-greensign-welchen-oekosiegeln-koennen-hotelgaeste-trauen-a-39a7cb99-12cb-43dc-9285-f9614d90fa6c#ref=rss)
+### hotels
 
-* [https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-podcast](https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-podcast-a-59416bdb-55ce-468e-bab3-8a1fbafd2605#ref=rss)
-* [https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin](https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-a-724425ed-3b0d-4086-afb6-ce80ec6692d5#ref=rss)
-### ablaufen
+* [https://www.spiegel.de/reise/green-key-bio-hotels-greensign-welchen-oekosiegeln-koennen-hotelgaeste-trauen](https://www.spiegel.de/reise/green-key-bio-hotels-greensign-welchen-oekosiegeln-koennen-hotelgaeste-trauen-a-39a7cb99-12cb-43dc-9285-f9614d90fa6c#ref=rss)
+### kaschmir
 
-* [https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-podcast](https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-podcast-a-59416bdb-55ce-468e-bab3-8a1fbafd2605#ref=rss)
-* [https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin](https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-a-724425ed-3b0d-4086-afb6-ce80ec6692d5#ref=rss)
-### wirtschaftsministerium
+* [https://www.spiegel.de/ausland/kaschmir-schuesse-zwischen-indischen-und-pakistanischen-soldaten](https://www.spiegel.de/ausland/kaschmir-schuesse-zwischen-indischen-und-pakistanischen-soldaten-a-0d2121c0-83a8-43f9-85b1-56ee35d19048#ref=rss)
+### angriff
 
-* [https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-podcast](https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-podcast-a-59416bdb-55ce-468e-bab3-8a1fbafd2605#ref=rss)
-* [https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin](https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-a-724425ed-3b0d-4086-afb6-ce80ec6692d5#ref=rss)
-### verhält
-
-* [https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-podcast](https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-podcast-a-59416bdb-55ce-468e-bab3-8a1fbafd2605#ref=rss)
-* [https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin](https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-a-724425ed-3b0d-4086-afb6-ce80ec6692d5#ref=rss)
-### hören
-
-* [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-und-donald-trump-die-entstehung-von-doge-podcast-firewall](https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-und-donald-trump-die-entstehung-von-doge-podcast-firewall-a-79d517c0-b870-4b14-94d8-0c1750c2dc5b#ref=rss)
-### alle
-
-* [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
-* [https://www.spiegel.de/auto/tuev-eu-kommission-plant-jaehrliche-pflichtpruefung-aelterer-autos](https://www.spiegel.de/auto/tuev-eu-kommission-plant-jaehrliche-pflichtpruefung-aelterer-autos-a-0e9c0e65-e9c6-4269-9fde-fed00b4dee3f#ref=rss)
-### unfall
-
-* [https://www.spiegel.de/panorama/gesellschaft/muenchen-eisbach-surferin-stirbt-nach-unfall-gibt-es-bald-strengere-sicherheitsvorkehrungen](https://www.spiegel.de/panorama/gesellschaft/muenchen-eisbach-surferin-stirbt-nach-unfall-gibt-es-bald-strengere-sicherheitsvorkehrungen-a-05ac58bf-8a5c-4aa0-9e94-957cfa3ec6d3#ref=rss)
-### sicherheitsvorkehrungen
-
-* [https://www.spiegel.de/panorama/gesellschaft/muenchen-eisbach-surferin-stirbt-nach-unfall-gibt-es-bald-strengere-sicherheitsvorkehrungen](https://www.spiegel.de/panorama/gesellschaft/muenchen-eisbach-surferin-stirbt-nach-unfall-gibt-es-bald-strengere-sicherheitsvorkehrungen-a-05ac58bf-8a5c-4aa0-9e94-957cfa3ec6d3#ref=rss)
-### gut
-
-* [https://www.spiegel.de/panorama/gesellschaft/muenchen-eisbach-surferin-stirbt-nach-unfall-gibt-es-bald-strengere-sicherheitsvorkehrungen](https://www.spiegel.de/panorama/gesellschaft/muenchen-eisbach-surferin-stirbt-nach-unfall-gibt-es-bald-strengere-sicherheitsvorkehrungen-a-05ac58bf-8a5c-4aa0-9e94-957cfa3ec6d3#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/wir-befreunden-uns-eher-mit-menschen-die-wir-gut-riechen-koennen](https://www.spiegel.de/wissenschaft/mensch/wir-befreunden-uns-eher-mit-menschen-die-wir-gut-riechen-koennen-a-374b04e9-3552-4169-9113-654a1812469e#ref=rss)
-### uns
-
-* [https://www.spiegel.de/wissenschaft/mensch/wir-befreunden-uns-eher-mit-menschen-die-wir-gut-riechen-koennen](https://www.spiegel.de/wissenschaft/mensch/wir-befreunden-uns-eher-mit-menschen-die-wir-gut-riechen-koennen-a-374b04e9-3552-4169-9113-654a1812469e#ref=rss)
-### eher
-
-* [https://www.spiegel.de/wissenschaft/mensch/wir-befreunden-uns-eher-mit-menschen-die-wir-gut-riechen-koennen](https://www.spiegel.de/wissenschaft/mensch/wir-befreunden-uns-eher-mit-menschen-die-wir-gut-riechen-koennen-a-374b04e9-3552-4169-9113-654a1812469e#ref=rss)
-### weg
-
-* [https://www.spiegel.de/kultur/andy-warhol-druck-von-koenigin-beatrix-landet-im-sperrmuell](https://www.spiegel.de/kultur/andy-warhol-druck-von-koenigin-beatrix-landet-im-sperrmuell-a-e40ff66d-ac34-4740-ac5b-dd52e6106d2a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-aggressiver-passagier-zwingt-flugzeug-zur-zwischenlandung](https://www.spiegel.de/panorama/justiz/berlin-aggressiver-passagier-zwingt-flugzeug-zur-zwischenlandung-a-66bb5f56-8eb2-44ac-81eb-7e8bbe257116#ref=rss)
-### ozempic
-
-* [https://www.spiegel.de/stil/ozempic-veneers-und-botox-erschwingliche-schoenheit-ende-der-exklusivitaet](https://www.spiegel.de/stil/ozempic-veneers-und-botox-erschwingliche-schoenheit-ende-der-exklusivitaet-a-ffc2a8d1-1589-4938-b18b-33861ab5e13d#ref=rss)
-### veneers
-
-* [https://www.spiegel.de/stil/ozempic-veneers-und-botox-erschwingliche-schoenheit-ende-der-exklusivitaet](https://www.spiegel.de/stil/ozempic-veneers-und-botox-erschwingliche-schoenheit-ende-der-exklusivitaet-a-ffc2a8d1-1589-4938-b18b-33861ab5e13d#ref=rss)
-### exklusivität
-
-* [https://www.spiegel.de/stil/ozempic-veneers-und-botox-erschwingliche-schoenheit-ende-der-exklusivitaet](https://www.spiegel.de/stil/ozempic-veneers-und-botox-erschwingliche-schoenheit-ende-der-exklusivitaet-a-ffc2a8d1-1589-4938-b18b-33861ab5e13d#ref=rss)
-### nie
-
-* [https://www.spiegel.de/stil/ozempic-veneers-und-botox-erschwingliche-schoenheit-ende-der-exklusivitaet](https://www.spiegel.de/stil/ozempic-veneers-und-botox-erschwingliche-schoenheit-ende-der-exklusivitaet-a-ffc2a8d1-1589-4938-b18b-33861ab5e13d#ref=rss)
-* [https://www.spiegel.de/kultur/musik/david-thomas-ist-tot-gruender-der-proto-punkband-pere-ubu-gestorben](https://www.spiegel.de/kultur/musik/david-thomas-ist-tot-gruender-der-proto-punkband-pere-ubu-gestorben-a-9a901936-fa9b-4693-b92b-3f21dd869993#ref=rss)
-### robert
-
-* [https://www.spiegel.de/wirtschaft/soziales/robert-habeck-als-wirtschaftsminister-die-null-steht](https://www.spiegel.de/wirtschaft/soziales/robert-habeck-als-wirtschaftsminister-die-null-steht-a-f061ce91-42d8-4952-b48c-f2d423c9b721#ref=rss)
-### habeck
-
-* [https://www.spiegel.de/wirtschaft/soziales/robert-habeck-als-wirtschaftsminister-die-null-steht](https://www.spiegel.de/wirtschaft/soziales/robert-habeck-als-wirtschaftsminister-die-null-steht-a-f061ce91-42d8-4952-b48c-f2d423c9b721#ref=rss)
-### wirtschaftsminister
-
-* [https://www.spiegel.de/wirtschaft/soziales/robert-habeck-als-wirtschaftsminister-die-null-steht](https://www.spiegel.de/wirtschaft/soziales/robert-habeck-als-wirtschaftsminister-die-null-steht-a-f061ce91-42d8-4952-b48c-f2d423c9b721#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/wirtschaft/soziales/robert-habeck-als-wirtschaftsminister-die-null-steht](https://www.spiegel.de/wirtschaft/soziales/robert-habeck-als-wirtschaftsminister-die-null-steht-a-f061ce91-42d8-4952-b48c-f2d423c9b721#ref=rss)
-* [https://www.spiegel.de/kultur/musik/david-thomas-ist-tot-gruender-der-proto-punkband-pere-ubu-gestorben](https://www.spiegel.de/kultur/musik/david-thomas-ist-tot-gruender-der-proto-punkband-pere-ubu-gestorben-a-9a901936-fa9b-4693-b92b-3f21dd869993#ref=rss)
-### musk
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-und-donald-trump-die-entstehung-von-doge-podcast-firewall](https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-und-donald-trump-die-entstehung-von-doge-podcast-firewall-a-79d517c0-b870-4b14-94d8-0c1750c2dc5b#ref=rss)
-### männer
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-und-donald-trump-die-entstehung-von-doge-podcast-firewall](https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-und-donald-trump-die-entstehung-von-doge-podcast-firewall-a-79d517c0-b870-4b14-94d8-0c1750c2dc5b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bad-nauheim-mutmasslicher-schuetze-stellt-sich](https://www.spiegel.de/panorama/justiz/bad-nauheim-mutmasslicher-schuetze-stellt-sich-a-5d777b6a-55c5-45d8-988b-baf8a2fc2504#ref=rss)
+* [https://www.spiegel.de/ausland/kaschmir-schuesse-zwischen-indischen-und-pakistanischen-soldaten](https://www.spiegel.de/ausland/kaschmir-schuesse-zwischen-indischen-und-pakistanischen-soldaten-a-0d2121c0-83a8-43f9-85b1-56ee35d19048#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gesteht-toedlichen-angriff-auf-uno-helfer-ein](https://www.spiegel.de/ausland/israel-gesteht-toedlichen-angriff-auf-uno-helfer-ein-a-8870d706-7da8-4585-8444-95b60e4ec065#ref=rss)
 ### kam
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-und-donald-trump-die-entstehung-von-doge-podcast-firewall](https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-und-donald-trump-die-entstehung-von-doge-podcast-firewall-a-79d517c0-b870-4b14-94d8-0c1750c2dc5b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/frankreich-eine-tote-und-verletzte-bei-messerangriff-in-schule-in-nantes](https://www.spiegel.de/panorama/justiz/frankreich-eine-tote-und-verletzte-bei-messerangriff-in-schule-in-nantes-a-9fee5ae5-1abd-4681-9d59-9ae99fe3ec4f#ref=rss)
-### ozzy
+* [https://www.spiegel.de/ausland/kaschmir-schuesse-zwischen-indischen-und-pakistanischen-soldaten](https://www.spiegel.de/ausland/kaschmir-schuesse-zwischen-indischen-und-pakistanischen-soldaten-a-0d2121c0-83a8-43f9-85b1-56ee35d19048#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gesteht-toedlichen-angriff-auf-uno-helfer-ein](https://www.spiegel.de/ausland/israel-gesteht-toedlichen-angriff-auf-uno-helfer-ein-a-8870d706-7da8-4585-8444-95b60e4ec065#ref=rss)
+### tennessee
 
-* [https://www.spiegel.de/kultur/musik/ozzy-osbourne-startet-intensives-training-fuer-letzten-auftritt](https://www.spiegel.de/kultur/musik/ozzy-osbourne-startet-intensives-training-fuer-letzten-auftritt-a-32ccb6cd-6e7e-4c5f-93dd-75b2f2147cdc#ref=rss)
-### osbourne
+* [https://www.spiegel.de/sport/american-football/nfl-tennessee-titans-picken-cam-ward-im-draft-shedeur-sanders-muss-sich-gedulden](https://www.spiegel.de/sport/american-football/nfl-tennessee-titans-picken-cam-ward-im-draft-shedeur-sanders-muss-sich-gedulden-a-2481d1c9-bd99-47a8-906f-c21592e47218#ref=rss)
+### titans
 
-* [https://www.spiegel.de/kultur/musik/ozzy-osbourne-startet-intensives-training-fuer-letzten-auftritt](https://www.spiegel.de/kultur/musik/ozzy-osbourne-startet-intensives-training-fuer-letzten-auftritt-a-32ccb6cd-6e7e-4c5f-93dd-75b2f2147cdc#ref=rss)
-### regierung
+* [https://www.spiegel.de/sport/american-football/nfl-tennessee-titans-picken-cam-ward-im-draft-shedeur-sanders-muss-sich-gedulden](https://www.spiegel.de/sport/american-football/nfl-tennessee-titans-picken-cam-ward-im-draft-shedeur-sanders-muss-sich-gedulden-a-2481d1c9-bd99-47a8-906f-c21592e47218#ref=rss)
+### cam
 
-* [https://www.spiegel.de/ausland/spanien-regierung-kuendigt-kaufvertrag-fuer-munition-aus-israel](https://www.spiegel.de/ausland/spanien-regierung-kuendigt-kaufvertrag-fuer-munition-aus-israel-a-35e7c00d-8e15-4d42-80d4-4affae9b950b#ref=rss)
-* [https://www.spiegel.de/ausland/kaschmir-indien-ordnet-ausreise-von-pakistanern-nach-terroranschlag-an](https://www.spiegel.de/ausland/kaschmir-indien-ordnet-ausreise-von-pakistanern-nach-terroranschlag-an-a-99f36a0c-e6b8-48f9-ade6-0ec368c03857#ref=rss)
-### bad
+* [https://www.spiegel.de/sport/american-football/nfl-tennessee-titans-picken-cam-ward-im-draft-shedeur-sanders-muss-sich-gedulden](https://www.spiegel.de/sport/american-football/nfl-tennessee-titans-picken-cam-ward-im-draft-shedeur-sanders-muss-sich-gedulden-a-2481d1c9-bd99-47a8-906f-c21592e47218#ref=rss)
+### ward
 
-* [https://www.spiegel.de/panorama/justiz/bad-nauheim-mutmasslicher-schuetze-stellt-sich](https://www.spiegel.de/panorama/justiz/bad-nauheim-mutmasslicher-schuetze-stellt-sich-a-5d777b6a-55c5-45d8-988b-baf8a2fc2504#ref=rss)
-### nauheim
-
-* [https://www.spiegel.de/panorama/justiz/bad-nauheim-mutmasslicher-schuetze-stellt-sich](https://www.spiegel.de/panorama/justiz/bad-nauheim-mutmasslicher-schuetze-stellt-sich-a-5d777b6a-55c5-45d8-988b-baf8a2fc2504#ref=rss)
-### schütze
-
-* [https://www.spiegel.de/panorama/justiz/bad-nauheim-mutmasslicher-schuetze-stellt-sich](https://www.spiegel.de/panorama/justiz/bad-nauheim-mutmasslicher-schuetze-stellt-sich-a-5d777b6a-55c5-45d8-988b-baf8a2fc2504#ref=rss)
-### jens
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-ukraine-jens-spahn-tuev](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-ukraine-jens-spahn-tuev-a-0da5c3f5-77ad-4b09-af05-2997ce13926a#ref=rss)
-### spahn
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-ukraine-jens-spahn-tuev](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-ukraine-jens-spahn-tuev-a-0da5c3f5-77ad-4b09-af05-2997ce13926a#ref=rss)
-### fußballerinnen
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-fussballerinnen-nehmen-an-neuem-turnierformat-teil](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-fussballerinnen-nehmen-an-neuem-turnierformat-teil-a-dc1978b3-98f9-422d-afaa-1d04b9ae15d9#ref=rss)
-### nehmen
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-fussballerinnen-nehmen-an-neuem-turnierformat-teil](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-fussballerinnen-nehmen-an-neuem-turnierformat-teil-a-dc1978b3-98f9-422d-afaa-1d04b9ae15d9#ref=rss)
-* [https://www.spiegel.de/ausland/kaschmir-indien-ordnet-ausreise-von-pakistanern-nach-terroranschlag-an](https://www.spiegel.de/ausland/kaschmir-indien-ordnet-ausreise-von-pakistanern-nach-terroranschlag-an-a-99f36a0c-e6b8-48f9-ade6-0ec368c03857#ref=rss)
-### league
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-fussballerinnen-nehmen-an-neuem-turnierformat-teil](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-fussballerinnen-nehmen-an-neuem-turnierformat-teil-a-dc1978b3-98f9-422d-afaa-1d04b9ae15d9#ref=rss)
-* [https://www.spiegel.de/sport/fussball/premier-league-jamie-vardy-nimmt-nach-13-jahren-abschied-von-leicester-city](https://www.spiegel.de/sport/fussball/premier-league-jamie-vardy-nimmt-nach-13-jahren-abschied-von-leicester-city-a-efc0ff96-4bb1-4c29-813e-87e62c114788#ref=rss)
-### bushido
-
-* [https://www.spiegel.de/kultur/tv/bushido-vox-nimmt-doku-aus-tv-programm](https://www.spiegel.de/kultur/tv/bushido-vox-nimmt-doku-aus-tv-programm-a-9477a8dc-25db-48a2-bea1-1bb4301e500c#ref=rss)
-### vox
-
-* [https://www.spiegel.de/kultur/tv/bushido-vox-nimmt-doku-aus-tv-programm](https://www.spiegel.de/kultur/tv/bushido-vox-nimmt-doku-aus-tv-programm-a-9477a8dc-25db-48a2-bea1-1bb4301e500c#ref=rss)
-### nimmt
-
-* [https://www.spiegel.de/kultur/tv/bushido-vox-nimmt-doku-aus-tv-programm](https://www.spiegel.de/kultur/tv/bushido-vox-nimmt-doku-aus-tv-programm-a-9477a8dc-25db-48a2-bea1-1bb4301e500c#ref=rss)
-* [https://www.spiegel.de/sport/fussball/premier-league-jamie-vardy-nimmt-nach-13-jahren-abschied-von-leicester-city](https://www.spiegel.de/sport/fussball/premier-league-jamie-vardy-nimmt-nach-13-jahren-abschied-von-leicester-city-a-efc0ff96-4bb1-4c29-813e-87e62c114788#ref=rss)
-### alter
-
-* [https://www.spiegel.de/kultur/tv/bushido-vox-nimmt-doku-aus-tv-programm](https://www.spiegel.de/kultur/tv/bushido-vox-nimmt-doku-aus-tv-programm-a-9477a8dc-25db-48a2-bea1-1bb4301e500c#ref=rss)
-* [https://www.spiegel.de/auto/tuev-eu-kommission-plant-jaehrliche-pflichtpruefung-aelterer-autos](https://www.spiegel.de/auto/tuev-eu-kommission-plant-jaehrliche-pflichtpruefung-aelterer-autos-a-0e9c0e65-e9c6-4269-9fde-fed00b4dee3f#ref=rss)
-### flugzeug
-
-* [https://www.spiegel.de/panorama/justiz/berlin-aggressiver-passagier-zwingt-flugzeug-zur-zwischenlandung](https://www.spiegel.de/panorama/justiz/berlin-aggressiver-passagier-zwingt-flugzeug-zur-zwischenlandung-a-66bb5f56-8eb2-44ac-81eb-7e8bbe257116#ref=rss)
-### strache
-
-* [https://www.spiegel.de/ausland/oesterreich-fpoe-spesenaffaere-um-heinz-christian-strache-ermittler-sehen-bewusste-verschleierung](https://www.spiegel.de/ausland/oesterreich-fpoe-spesenaffaere-um-heinz-christian-strache-ermittler-sehen-bewusste-verschleierung-a-19893b0f-4ca3-4b7f-acd1-4d43967bdfa2#ref=rss)
-### holt
-
-* [https://www.spiegel.de/ausland/oesterreich-fpoe-spesenaffaere-um-heinz-christian-strache-ermittler-sehen-bewusste-verschleierung](https://www.spiegel.de/ausland/oesterreich-fpoe-spesenaffaere-um-heinz-christian-strache-ermittler-sehen-bewusste-verschleierung-a-19893b0f-4ca3-4b7f-acd1-4d43967bdfa2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/hannover-bundesregierung-holt-fluechtlinge-aus-dem-sudan-nach-deutschland](https://www.spiegel.de/politik/deutschland/hannover-bundesregierung-holt-fluechtlinge-aus-dem-sudan-nach-deutschland-a-c603346f-385c-4041-8696-837fc22705dd#ref=rss)
-### bundesregierung
-
-* [https://www.spiegel.de/politik/deutschland/hannover-bundesregierung-holt-fluechtlinge-aus-dem-sudan-nach-deutschland](https://www.spiegel.de/politik/deutschland/hannover-bundesregierung-holt-fluechtlinge-aus-dem-sudan-nach-deutschland-a-c603346f-385c-4041-8696-837fc22705dd#ref=rss)
-### huthis
-
-* [https://www.spiegel.de/ausland/jemen-abschuesse-von-us-drohnen-die-huthis-treffen-den-sensenmann](https://www.spiegel.de/ausland/jemen-abschuesse-von-us-drohnen-die-huthis-treffen-den-sensenmann-a-2442a39b-7835-421f-a713-132352867662#ref=rss)
-### jamie
-
-* [https://www.spiegel.de/sport/fussball/premier-league-jamie-vardy-nimmt-nach-13-jahren-abschied-von-leicester-city](https://www.spiegel.de/sport/fussball/premier-league-jamie-vardy-nimmt-nach-13-jahren-abschied-von-leicester-city-a-efc0ff96-4bb1-4c29-813e-87e62c114788#ref=rss)
-### vardy
-
-* [https://www.spiegel.de/sport/fussball/premier-league-jamie-vardy-nimmt-nach-13-jahren-abschied-von-leicester-city](https://www.spiegel.de/sport/fussball/premier-league-jamie-vardy-nimmt-nach-13-jahren-abschied-von-leicester-city-a-efc0ff96-4bb1-4c29-813e-87e62c114788#ref=rss)
-### leicester
-
-* [https://www.spiegel.de/sport/fussball/premier-league-jamie-vardy-nimmt-nach-13-jahren-abschied-von-leicester-city](https://www.spiegel.de/sport/fussball/premier-league-jamie-vardy-nimmt-nach-13-jahren-abschied-von-leicester-city-a-efc0ff96-4bb1-4c29-813e-87e62c114788#ref=rss)
-### indien
-
-* [https://www.spiegel.de/ausland/kaschmir-indien-ordnet-ausreise-von-pakistanern-nach-terroranschlag-an](https://www.spiegel.de/ausland/kaschmir-indien-ordnet-ausreise-von-pakistanern-nach-terroranschlag-an-a-99f36a0c-e6b8-48f9-ade6-0ec368c03857#ref=rss)
-### nantes
-
-* [https://www.spiegel.de/panorama/justiz/frankreich-eine-tote-und-verletzte-bei-messerangriff-in-schule-in-nantes](https://www.spiegel.de/panorama/justiz/frankreich-eine-tote-und-verletzte-bei-messerangriff-in-schule-in-nantes-a-9fee5ae5-1abd-4681-9d59-9ae99fe3ec4f#ref=rss)
-### david
-
-* [https://www.spiegel.de/kultur/musik/david-thomas-ist-tot-gruender-der-proto-punkband-pere-ubu-gestorben](https://www.spiegel.de/kultur/musik/david-thomas-ist-tot-gruender-der-proto-punkband-pere-ubu-gestorben-a-9a901936-fa9b-4693-b92b-3f21dd869993#ref=rss)
-### thomas
-
-* [https://www.spiegel.de/kultur/musik/david-thomas-ist-tot-gruender-der-proto-punkband-pere-ubu-gestorben](https://www.spiegel.de/kultur/musik/david-thomas-ist-tot-gruender-der-proto-punkband-pere-ubu-gestorben-a-9a901936-fa9b-4693-b92b-3f21dd869993#ref=rss)
-### gründer
-
-* [https://www.spiegel.de/kultur/musik/david-thomas-ist-tot-gruender-der-proto-punkband-pere-ubu-gestorben](https://www.spiegel.de/kultur/musik/david-thomas-ist-tot-gruender-der-proto-punkband-pere-ubu-gestorben-a-9a901936-fa9b-4693-b92b-3f21dd869993#ref=rss)
-### pere
-
-* [https://www.spiegel.de/kultur/musik/david-thomas-ist-tot-gruender-der-proto-punkband-pere-ubu-gestorben](https://www.spiegel.de/kultur/musik/david-thomas-ist-tot-gruender-der-proto-punkband-pere-ubu-gestorben-a-9a901936-fa9b-4693-b92b-3f21dd869993#ref=rss)
-### ubu
-
-* [https://www.spiegel.de/kultur/musik/david-thomas-ist-tot-gruender-der-proto-punkband-pere-ubu-gestorben](https://www.spiegel.de/kultur/musik/david-thomas-ist-tot-gruender-der-proto-punkband-pere-ubu-gestorben-a-9a901936-fa9b-4693-b92b-3f21dd869993#ref=rss)
-### istanbul
-
-* [https://www.spiegel.de/panorama/istanbul-seismologe-yoshinori-moriwaki-warnt-vor-tsunamis-mit-meterhohen-wellen](https://www.spiegel.de/panorama/istanbul-seismologe-yoshinori-moriwaki-warnt-vor-tsunamis-mit-meterhohen-wellen-a-96289250-7226-4e3d-81ea-fc4d7f2287a2#ref=rss)
-### warnt
-
-* [https://www.spiegel.de/panorama/istanbul-seismologe-yoshinori-moriwaki-warnt-vor-tsunamis-mit-meterhohen-wellen](https://www.spiegel.de/panorama/istanbul-seismologe-yoshinori-moriwaki-warnt-vor-tsunamis-mit-meterhohen-wellen-a-96289250-7226-4e3d-81ea-fc4d7f2287a2#ref=rss)
-### autos
-
-* [https://www.spiegel.de/auto/tuev-eu-kommission-plant-jaehrliche-pflichtpruefung-aelterer-autos](https://www.spiegel.de/auto/tuev-eu-kommission-plant-jaehrliche-pflichtpruefung-aelterer-autos-a-0e9c0e65-e9c6-4269-9fde-fed00b4dee3f#ref=rss)
+* [https://www.spiegel.de/sport/american-football/nfl-tennessee-titans-picken-cam-ward-im-draft-shedeur-sanders-muss-sich-gedulden](https://www.spiegel.de/sport/american-football/nfl-tennessee-titans-picken-cam-ward-im-draft-shedeur-sanders-muss-sich-gedulden-a-2481d1c9-bd99-47a8-906f-c21592e47218#ref=rss)
 
