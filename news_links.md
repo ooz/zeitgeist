@@ -4,305 +4,344 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### fc
+### gut
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-nullnummer-zwischen-werder-bremen-und-dem-fc-st-pauli-vfl-bochum-vor-abstieg](https://www.spiegel.de/sport/fussball/fussball-bundesliga-nullnummer-zwischen-werder-bremen-und-dem-fc-st-pauli-vfl-bochum-vor-abstieg-a-745e2690-a0fc-47fe-9625-04667c94c4b9#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bundesliga-der-frauen-fc-bayern-muenchen-ist-zum-dritten-mal-in-folge-deutscher-meister](https://www.spiegel.de/sport/fussball/bundesliga-der-frauen-fc-bayern-muenchen-ist-zum-dritten-mal-in-folge-deutscher-meister-a-526a10b1-4ab0-4cfc-8d2d-c17061a8eac4#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-und-der-1-fc-koeln-verlieren-im-aufstiegsrennen](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-und-der-1-fc-koeln-verlieren-im-aufstiegsrennen-a-1991bee3-adde-4c39-8b7d-f4e64cf0c961#ref=rss)
-### zwei
+* [https://www.spiegel.de/wirtschaft/rbb-muss-claudia-nothelle-gut-8400-euro-monatsrente-bezahlen](https://www.spiegel.de/wirtschaft/rbb-muss-claudia-nothelle-gut-8400-euro-monatsrente-bezahlen-a-b0365b32-796d-4650-b86e-3c6f617ca632#ref=rss)
+* [https://www.spiegel.de/reise/deutschland/tourismus-campingplaetze-verzeichneten-2024-so-viele-uebernachtungen-wie-noch-nie](https://www.spiegel.de/reise/deutschland/tourismus-campingplaetze-verzeichneten-2024-so-viele-uebernachtungen-wie-noch-nie-a-451607f4-804d-4e67-93a9-d1e669c05554#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-das-sind-die-minister-und-staatssekretaere-der-cdu-koalitions-news](https://www.spiegel.de/politik/deutschland/friedrich-merz-das-sind-die-minister-und-staatssekretaere-der-cdu-koalitions-news-a-48ac64f5-f403-4ca5-8a31-3674acfe1af1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/katholische-kirche-warum-es-gut-ist-dass-die-kirche-immer-mehr-an-bedeutung-verliert-meinung](https://www.spiegel.de/politik/deutschland/katholische-kirche-warum-es-gut-ist-dass-die-kirche-immer-mehr-an-bedeutung-verliert-meinung-a-20ca6202-7592-420b-a564-17399bb5b68f#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-schimpft-zueckt-sein-handy-und-gewinnt-ein-kurioses-spiel](https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-schimpft-zueckt-sein-handy-und-gewinnt-ein-kurioses-spiel-a-52906730-2e36-4ffa-aa0b-b3c8cbeb146e#ref=rss)
-* [https://www.spiegel.de/sport/fussball/union-berlins-fussballerinnen-gelingt-der-durchmarsch-in-die-bundesliga](https://www.spiegel.de/sport/fussball/union-berlins-fussballerinnen-gelingt-der-durchmarsch-in-die-bundesliga-a-e90c4ee3-8e76-4912-b4b1-224acb2ecf16#ref=rss)
-* [https://www.spiegel.de/karriere/raetsel-der-woche-wie-gross-ist-der-spitze-winkel](https://www.spiegel.de/karriere/raetsel-der-woche-wie-gross-ist-der-spitze-winkel-a-f5f1bb5a-8afe-4d93-8c55-7cac2588c0e5#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-zwei-tote-bei-s-bahn-surfen-nahe-wannsee](https://www.spiegel.de/panorama/berlin-zwei-tote-bei-s-bahn-surfen-nahe-wannsee-a-d6f6405c-ccc9-4cac-84bd-507fb0d82b98#ref=rss)
-### trump
+* [https://www.spiegel.de/sport/fussball/antonio-ruediger-dfb-verzichtet-nach-ausraster-auf-sanktionen-gegen-real-madrid-profi](https://www.spiegel.de/sport/fussball/antonio-ruediger-dfb-verzichtet-nach-ausraster-auf-sanktionen-gegen-real-madrid-profi-a-36585fdf-8955-44fb-acd7-de19a145fc3f#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/hochschulen-in-deutschland-mehr-als-ein-drittel-werden-von-frauen-geleitet](https://www.spiegel.de/panorama/bildung/hochschulen-in-deutschland-mehr-als-ein-drittel-werden-von-frauen-geleitet-a-ccc612cb-d7bc-449f-b32a-311d9e5c4b92#ref=rss)
+* [https://www.spiegel.de/ausland/kindersterblichkeit-in-indien-aerztepaar-rettete-millionen-kindern-das-leben](https://www.spiegel.de/ausland/kindersterblichkeit-in-indien-aerztepaar-rettete-millionen-kindern-das-leben-a-3563dfde-50e9-45b3-8c5b-56a0d7c5303a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/katholische-kirche-warum-es-gut-ist-dass-die-kirche-immer-mehr-an-bedeutung-verliert-meinung](https://www.spiegel.de/politik/deutschland/katholische-kirche-warum-es-gut-ist-dass-die-kirche-immer-mehr-an-bedeutung-verliert-meinung-a-20ca6202-7592-420b-a564-17399bb5b68f#ref=rss)
+### neue
 
-* [https://www.spiegel.de/politik/nach-vorschlaegen-von-trump-pistorius-gegen-umfangreiche-gebietsabtretungen-der-ukraine-an-russland](https://www.spiegel.de/politik/nach-vorschlaegen-von-trump-pistorius-gegen-umfangreiche-gebietsabtretungen-der-ukraine-an-russland-a-e5b90aec-fe75-4fd7-a56a-1264ba6fb00d#ref=rss)
-* [https://www.spiegel.de/ausland/bedrohung-durch-donald-trump-groenland-und-daenemark-wollen-enger-zusammenarbeiten](https://www.spiegel.de/ausland/bedrohung-durch-donald-trump-groenland-und-daenemark-wollen-enger-zusammenarbeiten-a-32e1b887-6543-4586-b5e8-02733629edf9#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-testet-die-grenzen-seiner-macht-die-ersten-100-tage-im-amt](https://www.spiegel.de/ausland/donald-trump-testet-die-grenzen-seiner-macht-die-ersten-100-tage-im-amt-a-abe0dad2-1d9d-41c4-a763-d611f4aa4932#ref=rss)
-### münchen
+* [https://www.spiegel.de/kultur/musik/cyndi-lauper-chubby-checker-und-outkast-in-rocknroll-hall-of-fame-aufgenommen](https://www.spiegel.de/kultur/musik/cyndi-lauper-chubby-checker-und-outkast-in-rocknroll-hall-of-fame-aufgenommen-a-d6efefe7-cf7c-4925-b0d2-890404ec9cb2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-und-csu-in-der-neuen-bundesregierung-so-besetzt-merz-sein-kabinett](https://www.spiegel.de/politik/deutschland/cdu-und-csu-in-der-neuen-bundesregierung-so-besetzt-merz-sein-kabinett-a-2a33a94a-e9c2-4e02-b60d-49f11b865478#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-das-sind-die-minister-und-staatssekretaere-der-cdu-koalitions-news](https://www.spiegel.de/politik/deutschland/friedrich-merz-das-sind-die-minister-und-staatssekretaere-der-cdu-koalitions-news-a-48ac64f5-f403-4ca5-8a31-3674acfe1af1#ref=rss)
+### wolfram
 
-* [https://www.spiegel.de/sport/fussball/bundesliga-der-frauen-fc-bayern-muenchen-ist-zum-dritten-mal-in-folge-deutscher-meister](https://www.spiegel.de/sport/fussball/bundesliga-der-frauen-fc-bayern-muenchen-ist-zum-dritten-mal-in-folge-deutscher-meister-a-526a10b1-4ab0-4cfc-8d2d-c17061a8eac4#ref=rss)
-* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-muenchen-zugzwang-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-muenchen-zugzwang-im-schnellcheck-a-96362615-a205-458a-88f6-662fdd673c66#ref=rss)
-* [https://www.spiegel.de/auto/parkturm-im-werksviertel-muenchen-diese-tuerme-sollen-den-parkdruck-in-den-staedten-lindern](https://www.spiegel.de/auto/parkturm-im-werksviertel-muenchen-diese-tuerme-sollen-den-parkdruck-in-den-staedten-lindern-a-17eb9fba-b172-4a90-a1c5-38861680c747#ref=rss)
-### gewinnt
+* [https://www.spiegel.de/kultur/wolfram-weimer-wird-staatsminister-ein-heimatschuetzer-macht-jetzt-kulturpolitik](https://www.spiegel.de/kultur/wolfram-weimer-wird-staatsminister-ein-heimatschuetzer-macht-jetzt-kulturpolitik-a-43706cc3-67b7-4483-8605-546cff088878#ref=rss)
+* [https://www.spiegel.de/kultur/wolfram-weimer-ex-welt-chefredakteur-soll-fuer-cdu-neuer-kulturstaatsminister-werden](https://www.spiegel.de/kultur/wolfram-weimer-ex-welt-chefredakteur-soll-fuer-cdu-neuer-kulturstaatsminister-werden-a-2ead6711-a69f-4b37-9d50-9a9cdd72fab5#ref=rss)
+### weimer
 
-* [https://www.spiegel.de/ausland/spoe-gewinnt-wien-wahl-vor-fpoe](https://www.spiegel.de/ausland/spoe-gewinnt-wien-wahl-vor-fpoe-a-59ecb6e4-e3e7-4754-afdb-5888fdc0a9fd#ref=rss)
-* [https://www.spiegel.de/sport/radsport-tadej-pogacar-gewinnt-klassiker-luettich-bastogne-luettich](https://www.spiegel.de/sport/radsport-tadej-pogacar-gewinnt-klassiker-luettich-bastogne-luettich-a-dd44f626-32fd-43a8-8864-a1f0b5b8336d#ref=rss)
-* [https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-schimpft-zueckt-sein-handy-und-gewinnt-ein-kurioses-spiel](https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-schimpft-zueckt-sein-handy-und-gewinnt-ein-kurioses-spiel-a-52906730-2e36-4ffa-aa0b-b3c8cbeb146e#ref=rss)
-### pistorius
+* [https://www.spiegel.de/kultur/wolfram-weimer-wird-staatsminister-ein-heimatschuetzer-macht-jetzt-kulturpolitik](https://www.spiegel.de/kultur/wolfram-weimer-wird-staatsminister-ein-heimatschuetzer-macht-jetzt-kulturpolitik-a-43706cc3-67b7-4483-8605-546cff088878#ref=rss)
+* [https://www.spiegel.de/kultur/wolfram-weimer-ex-welt-chefredakteur-soll-fuer-cdu-neuer-kulturstaatsminister-werden](https://www.spiegel.de/kultur/wolfram-weimer-ex-welt-chefredakteur-soll-fuer-cdu-neuer-kulturstaatsminister-werden-a-2ead6711-a69f-4b37-9d50-9a9cdd72fab5#ref=rss)
+### hamburg
 
-* [https://www.spiegel.de/politik/nach-vorschlaegen-von-trump-pistorius-gegen-umfangreiche-gebietsabtretungen-der-ukraine-an-russland](https://www.spiegel.de/politik/nach-vorschlaegen-von-trump-pistorius-gegen-umfangreiche-gebietsabtretungen-der-ukraine-an-russland-a-e5b90aec-fe75-4fd7-a56a-1264ba6fb00d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/mitgliedervotum-der-spd-die-gequaelte-partei](https://www.spiegel.de/politik/deutschland/mitgliedervotum-der-spd-die-gequaelte-partei-a-5d717475-ec65-42ed-b7c8-0c2ccf27dcdc#ref=rss)
-### donald
+* [https://www.spiegel.de/panorama/justiz/hamburg-bewaehrungsstrafe-nach-antisemitischem-angriff-an-universitaet-hamburg](https://www.spiegel.de/panorama/justiz/hamburg-bewaehrungsstrafe-nach-antisemitischem-angriff-an-universitaet-hamburg-a-8c29dafe-910e-4a17-8fca-95d0a93aac45#ref=rss)
+### holen
 
-* [https://www.spiegel.de/politik/nach-vorschlaegen-von-trump-pistorius-gegen-umfangreiche-gebietsabtretungen-der-ukraine-an-russland](https://www.spiegel.de/politik/nach-vorschlaegen-von-trump-pistorius-gegen-umfangreiche-gebietsabtretungen-der-ukraine-an-russland-a-e5b90aec-fe75-4fd7-a56a-1264ba6fb00d#ref=rss)
-* [https://www.spiegel.de/ausland/bedrohung-durch-donald-trump-groenland-und-daenemark-wollen-enger-zusammenarbeiten](https://www.spiegel.de/ausland/bedrohung-durch-donald-trump-groenland-und-daenemark-wollen-enger-zusammenarbeiten-a-32e1b887-6543-4586-b5e8-02733629edf9#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-testet-die-grenzen-seiner-macht-die-ersten-100-tage-im-amt](https://www.spiegel.de/ausland/donald-trump-testet-die-grenzen-seiner-macht-die-ersten-100-tage-im-amt-a-abe0dad2-1d9d-41c4-a763-d611f4aa4932#ref=rss)
-### syrien
+* [https://www.spiegel.de/panorama/bildung/hochschulen-in-deutschland-mehr-als-ein-drittel-werden-von-frauen-geleitet](https://www.spiegel.de/panorama/bildung/hochschulen-in-deutschland-mehr-als-ein-drittel-werden-von-frauen-geleitet-a-ccc612cb-d7bc-449f-b32a-311d9e5c4b92#ref=rss)
+* [https://www.spiegel.de/panorama/japan-student-zweimal-in-einer-woche-vom-fuji-gerettet](https://www.spiegel.de/panorama/japan-student-zweimal-in-einer-woche-vom-fuji-gerettet-a-8ffb702d-8f24-4ca5-b854-53225934ac23#ref=rss)
+* [https://www.spiegel.de/wirtschaft/airbus-uebernahme-von-spirit-anlagen-nach-einigung-mit-boeing](https://www.spiegel.de/wirtschaft/airbus-uebernahme-von-spirit-anlagen-nach-einigung-mit-boeing-a-198720a2-7298-42aa-89a2-122a7d2168c0#ref=rss)
+### 2024
 
-* [https://www.spiegel.de/ausland/wie-aerzte-aus-deutschland-in-syrien-leben-retten](https://www.spiegel.de/ausland/wie-aerzte-aus-deutschland-in-syrien-leben-retten-a-d9f14863-fbd4-49a7-84e3-0c3df869759b#ref=rss)
-* [https://www.spiegel.de/politik/syrien-nancy-faeser-spricht-in-damaskus-ueber-rueckkehr-von-fluechtlingen](https://www.spiegel.de/politik/syrien-nancy-faeser-spricht-in-damaskus-ueber-rueckkehr-von-fluechtlingen-a-a13fe780-1cd2-4ec0-8684-044d1df7a0e7#ref=rss)
-### leben
+* [https://www.spiegel.de/panorama/bildung/hochschulen-in-deutschland-mehr-als-ein-drittel-werden-von-frauen-geleitet](https://www.spiegel.de/panorama/bildung/hochschulen-in-deutschland-mehr-als-ein-drittel-werden-von-frauen-geleitet-a-ccc612cb-d7bc-449f-b32a-311d9e5c4b92#ref=rss)
+* [https://www.spiegel.de/reise/deutschland/tourismus-campingplaetze-verzeichneten-2024-so-viele-uebernachtungen-wie-noch-nie](https://www.spiegel.de/reise/deutschland/tourismus-campingplaetze-verzeichneten-2024-so-viele-uebernachtungen-wie-noch-nie-a-451607f4-804d-4e67-93a9-d1e669c05554#ref=rss)
+### cdu
 
-* [https://www.spiegel.de/ausland/wie-aerzte-aus-deutschland-in-syrien-leben-retten](https://www.spiegel.de/ausland/wie-aerzte-aus-deutschland-in-syrien-leben-retten-a-d9f14863-fbd4-49a7-84e3-0c3df869759b#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-zwei-tote-bei-s-bahn-surfen-nahe-wannsee](https://www.spiegel.de/panorama/berlin-zwei-tote-bei-s-bahn-surfen-nahe-wannsee-a-d6f6405c-ccc9-4cac-84bd-507fb0d82b98#ref=rss)
-### fußballerinnen
+* [https://www.spiegel.de/politik/deutschland/cdu-und-csu-in-der-neuen-bundesregierung-so-besetzt-merz-sein-kabinett](https://www.spiegel.de/politik/deutschland/cdu-und-csu-in-der-neuen-bundesregierung-so-besetzt-merz-sein-kabinett-a-2a33a94a-e9c2-4e02-b60d-49f11b865478#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-das-sind-die-minister-und-staatssekretaere-der-cdu-koalitions-news](https://www.spiegel.de/politik/deutschland/friedrich-merz-das-sind-die-minister-und-staatssekretaere-der-cdu-koalitions-news-a-48ac64f5-f403-4ca5-8a31-3674acfe1af1#ref=rss)
+* [https://www.spiegel.de/kultur/wolfram-weimer-ex-welt-chefredakteur-soll-fuer-cdu-neuer-kulturstaatsminister-werden](https://www.spiegel.de/kultur/wolfram-weimer-ex-welt-chefredakteur-soll-fuer-cdu-neuer-kulturstaatsminister-werden-a-2ead6711-a69f-4b37-9d50-9a9cdd72fab5#ref=rss)
+### erst
 
-* [https://www.spiegel.de/sport/fussball/bundesliga-der-frauen-fc-bayern-muenchen-ist-zum-dritten-mal-in-folge-deutscher-meister](https://www.spiegel.de/sport/fussball/bundesliga-der-frauen-fc-bayern-muenchen-ist-zum-dritten-mal-in-folge-deutscher-meister-a-526a10b1-4ab0-4cfc-8d2d-c17061a8eac4#ref=rss)
-* [https://www.spiegel.de/sport/fussball/union-berlins-fussballerinnen-gelingt-der-durchmarsch-in-die-bundesliga](https://www.spiegel.de/sport/fussball/union-berlins-fussballerinnen-gelingt-der-durchmarsch-in-die-bundesliga-a-e90c4ee3-8e76-4912-b4b1-224acb2ecf16#ref=rss)
-### berlin
+* [https://www.spiegel.de/panorama/justiz/hamburg-bewaehrungsstrafe-nach-antisemitischem-angriff-an-universitaet-hamburg](https://www.spiegel.de/panorama/justiz/hamburg-bewaehrungsstrafe-nach-antisemitischem-angriff-an-universitaet-hamburg-a-8c29dafe-910e-4a17-8fca-95d0a93aac45#ref=rss)
+* [https://www.spiegel.de/psychologie/prokrastinieren-und-selbstueberlistung-warum-unrealistische-erwartungen-kein-plan-sind](https://www.spiegel.de/psychologie/prokrastinieren-und-selbstueberlistung-warum-unrealistische-erwartungen-kein-plan-sind-a-2e85ab4a-d18b-4385-8fad-8845eb4287e4#ref=rss)
+### antonio
 
-* [https://www.spiegel.de/sport/fussball/union-berlins-fussballerinnen-gelingt-der-durchmarsch-in-die-bundesliga](https://www.spiegel.de/sport/fussball/union-berlins-fussballerinnen-gelingt-der-durchmarsch-in-die-bundesliga-a-e90c4ee3-8e76-4912-b4b1-224acb2ecf16#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-zwei-tote-bei-s-bahn-surfen-nahe-wannsee](https://www.spiegel.de/panorama/berlin-zwei-tote-bei-s-bahn-surfen-nahe-wannsee-a-d6f6405c-ccc9-4cac-84bd-507fb0d82b98#ref=rss)
-### liga
+* [https://www.spiegel.de/sport/fussball/antonio-ruediger-dfb-verzichtet-nach-ausraster-auf-sanktionen-gegen-real-madrid-profi](https://www.spiegel.de/sport/fussball/antonio-ruediger-dfb-verzichtet-nach-ausraster-auf-sanktionen-gegen-real-madrid-profi-a-36585fdf-8955-44fb-acd7-de19a145fc3f#ref=rss)
+### dfb
 
-* [https://www.spiegel.de/sport/fussball/union-berlins-fussballerinnen-gelingt-der-durchmarsch-in-die-bundesliga](https://www.spiegel.de/sport/fussball/union-berlins-fussballerinnen-gelingt-der-durchmarsch-in-die-bundesliga-a-e90c4ee3-8e76-4912-b4b1-224acb2ecf16#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-und-der-1-fc-koeln-verlieren-im-aufstiegsrennen](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-und-der-1-fc-koeln-verlieren-im-aufstiegsrennen-a-1991bee3-adde-4c39-8b7d-f4e64cf0c961#ref=rss)
-### menschen
+* [https://www.spiegel.de/sport/fussball/antonio-ruediger-dfb-verzichtet-nach-ausraster-auf-sanktionen-gegen-real-madrid-profi](https://www.spiegel.de/sport/fussball/antonio-ruediger-dfb-verzichtet-nach-ausraster-auf-sanktionen-gegen-real-madrid-profi-a-36585fdf-8955-44fb-acd7-de19a145fc3f#ref=rss)
+### ausraster
 
-* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-muenchen-zugzwang-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-muenchen-zugzwang-im-schnellcheck-a-96362615-a205-458a-88f6-662fdd673c66#ref=rss)
-* [https://www.spiegel.de/ausland/iranisches-containerterminal-schahid-radschai-hinweise-auf-explosion-von-raketentreibstoff](https://www.spiegel.de/ausland/iranisches-containerterminal-schahid-radschai-hinweise-auf-explosion-von-raketentreibstoff-a-d8183532-17d7-426e-861c-71925313de85#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-zwei-tote-bei-s-bahn-surfen-nahe-wannsee](https://www.spiegel.de/panorama/berlin-zwei-tote-bei-s-bahn-surfen-nahe-wannsee-a-d6f6405c-ccc9-4cac-84bd-507fb0d82b98#ref=rss)
-### zweite
+* [https://www.spiegel.de/sport/fussball/antonio-ruediger-dfb-verzichtet-nach-ausraster-auf-sanktionen-gegen-real-madrid-profi](https://www.spiegel.de/sport/fussball/antonio-ruediger-dfb-verzichtet-nach-ausraster-auf-sanktionen-gegen-real-madrid-profi-a-36585fdf-8955-44fb-acd7-de19a145fc3f#ref=rss)
+### rüdigers
 
-* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-1945-adolf-hitler-und-eva-braun-toeten-sich-im-fuehrerbunker](https://www.spiegel.de/geschichte/zweiter-weltkrieg-1945-adolf-hitler-und-eva-braun-toeten-sich-im-fuehrerbunker-a-15f063a5-6bc7-4a64-9bfb-26b643c033ea#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-und-der-1-fc-koeln-verlieren-im-aufstiegsrennen](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-und-der-1-fc-koeln-verlieren-im-aufstiegsrennen-a-1991bee3-adde-4c39-8b7d-f4e64cf0c961#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-testet-die-grenzen-seiner-macht-die-ersten-100-tage-im-amt](https://www.spiegel.de/ausland/donald-trump-testet-die-grenzen-seiner-macht-die-ersten-100-tage-im-amt-a-abe0dad2-1d9d-41c4-a763-d611f4aa4932#ref=rss)
-### fpö
+* [https://www.spiegel.de/sport/fussball/antonio-ruediger-dfb-verzichtet-nach-ausraster-auf-sanktionen-gegen-real-madrid-profi](https://www.spiegel.de/sport/fussball/antonio-ruediger-dfb-verzichtet-nach-ausraster-auf-sanktionen-gegen-real-madrid-profi-a-36585fdf-8955-44fb-acd7-de19a145fc3f#ref=rss)
+### kritisiert
 
-* [https://www.spiegel.de/ausland/spoe-gewinnt-wien-wahl-vor-fpoe](https://www.spiegel.de/ausland/spoe-gewinnt-wien-wahl-vor-fpoe-a-59ecb6e4-e3e7-4754-afdb-5888fdc0a9fd#ref=rss)
-### gebietsabtretungen
+* [https://www.spiegel.de/sport/fussball/antonio-ruediger-dfb-verzichtet-nach-ausraster-auf-sanktionen-gegen-real-madrid-profi](https://www.spiegel.de/sport/fussball/antonio-ruediger-dfb-verzichtet-nach-ausraster-auf-sanktionen-gegen-real-madrid-profi-a-36585fdf-8955-44fb-acd7-de19a145fc3f#ref=rss)
+* [https://www.spiegel.de/kultur/musik/howard-carpendale-laestert-ueber-helene-fischer-und-kritisiert-ihr-aeusseres](https://www.spiegel.de/kultur/musik/howard-carpendale-laestert-ueber-helene-fischer-und-kritisiert-ihr-aeusseres-a-8cdfbae0-e872-4ecb-94f2-5f8dc2381964#ref=rss)
+### kultur
 
-* [https://www.spiegel.de/politik/nach-vorschlaegen-von-trump-pistorius-gegen-umfangreiche-gebietsabtretungen-der-ukraine-an-russland](https://www.spiegel.de/politik/nach-vorschlaegen-von-trump-pistorius-gegen-umfangreiche-gebietsabtretungen-der-ukraine-an-russland-a-e5b90aec-fe75-4fd7-a56a-1264ba6fb00d#ref=rss)
-### boris
+* [https://www.spiegel.de/sport/fussball/antonio-ruediger-dfb-verzichtet-nach-ausraster-auf-sanktionen-gegen-real-madrid-profi](https://www.spiegel.de/sport/fussball/antonio-ruediger-dfb-verzichtet-nach-ausraster-auf-sanktionen-gegen-real-madrid-profi-a-36585fdf-8955-44fb-acd7-de19a145fc3f#ref=rss)
+* [https://www.spiegel.de/kultur/wolfram-weimer-wird-staatsminister-ein-heimatschuetzer-macht-jetzt-kulturpolitik](https://www.spiegel.de/kultur/wolfram-weimer-wird-staatsminister-ein-heimatschuetzer-macht-jetzt-kulturpolitik-a-43706cc3-67b7-4483-8605-546cff088878#ref=rss)
+### rbb
 
-* [https://www.spiegel.de/politik/nach-vorschlaegen-von-trump-pistorius-gegen-umfangreiche-gebietsabtretungen-der-ukraine-an-russland](https://www.spiegel.de/politik/nach-vorschlaegen-von-trump-pistorius-gegen-umfangreiche-gebietsabtretungen-der-ukraine-an-russland-a-e5b90aec-fe75-4fd7-a56a-1264ba6fb00d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/mitgliedervotum-der-spd-die-gequaelte-partei](https://www.spiegel.de/politik/deutschland/mitgliedervotum-der-spd-die-gequaelte-partei-a-5d717475-ec65-42ed-b7c8-0c2ccf27dcdc#ref=rss)
-### trumps
+* [https://www.spiegel.de/wirtschaft/rbb-muss-claudia-nothelle-gut-8400-euro-monatsrente-bezahlen](https://www.spiegel.de/wirtschaft/rbb-muss-claudia-nothelle-gut-8400-euro-monatsrente-bezahlen-a-b0365b32-796d-4650-b86e-3c6f617ca632#ref=rss)
+### claudia
 
-* [https://www.spiegel.de/politik/nach-vorschlaegen-von-trump-pistorius-gegen-umfangreiche-gebietsabtretungen-der-ukraine-an-russland](https://www.spiegel.de/politik/nach-vorschlaegen-von-trump-pistorius-gegen-umfangreiche-gebietsabtretungen-der-ukraine-an-russland-a-e5b90aec-fe75-4fd7-a56a-1264ba6fb00d#ref=rss)
-* [https://www.spiegel.de/ausland/bedrohung-durch-donald-trump-groenland-und-daenemark-wollen-enger-zusammenarbeiten](https://www.spiegel.de/ausland/bedrohung-durch-donald-trump-groenland-und-daenemark-wollen-enger-zusammenarbeiten-a-32e1b887-6543-4586-b5e8-02733629edf9#ref=rss)
-### spiel
+* [https://www.spiegel.de/wirtschaft/rbb-muss-claudia-nothelle-gut-8400-euro-monatsrente-bezahlen](https://www.spiegel.de/wirtschaft/rbb-muss-claudia-nothelle-gut-8400-euro-monatsrente-bezahlen-a-b0365b32-796d-4650-b86e-3c6f617ca632#ref=rss)
+### nothelle
 
-* [https://www.spiegel.de/politik/nach-vorschlaegen-von-trump-pistorius-gegen-umfangreiche-gebietsabtretungen-der-ukraine-an-russland](https://www.spiegel.de/politik/nach-vorschlaegen-von-trump-pistorius-gegen-umfangreiche-gebietsabtretungen-der-ukraine-an-russland-a-e5b90aec-fe75-4fd7-a56a-1264ba6fb00d#ref=rss)
-* [https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-schimpft-zueckt-sein-handy-und-gewinnt-ein-kurioses-spiel](https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-schimpft-zueckt-sein-handy-und-gewinnt-ein-kurioses-spiel-a-52906730-2e36-4ffa-aa0b-b3c8cbeb146e#ref=rss)
-### abstimmen
+* [https://www.spiegel.de/wirtschaft/rbb-muss-claudia-nothelle-gut-8400-euro-monatsrente-bezahlen](https://www.spiegel.de/wirtschaft/rbb-muss-claudia-nothelle-gut-8400-euro-monatsrente-bezahlen-a-b0365b32-796d-4650-b86e-3c6f617ca632#ref=rss)
+### riff
 
-* [https://www.spiegel.de/politik/deutschland/mitgliedervotum-der-spd-die-gequaelte-partei](https://www.spiegel.de/politik/deutschland/mitgliedervotum-der-spd-die-gequaelte-partei-a-5d717475-ec65-42ed-b7c8-0c2ccf27dcdc#ref=rss)
-* [https://www.spiegel.de/ausland/bedrohung-durch-donald-trump-groenland-und-daenemark-wollen-enger-zusammenarbeiten](https://www.spiegel.de/ausland/bedrohung-durch-donald-trump-groenland-und-daenemark-wollen-enger-zusammenarbeiten-a-32e1b887-6543-4586-b5e8-02733629edf9#ref=rss)
-### fußballbundesliga
+* [https://www.spiegel.de/ausland/china-hisst-flagge-auf-riff-im-suedchinesischen-meer-philippinen-ziehen-nach](https://www.spiegel.de/ausland/china-hisst-flagge-auf-riff-im-suedchinesischen-meer-philippinen-ziehen-nach-a-1f7a3ee1-2330-4d07-b1e0-a58821df7063#ref=rss)
+### südchinesischen
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-nullnummer-zwischen-werder-bremen-und-dem-fc-st-pauli-vfl-bochum-vor-abstieg](https://www.spiegel.de/sport/fussball/fussball-bundesliga-nullnummer-zwischen-werder-bremen-und-dem-fc-st-pauli-vfl-bochum-vor-abstieg-a-745e2690-a0fc-47fe-9625-04667c94c4b9#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-und-der-1-fc-koeln-verlieren-im-aufstiegsrennen](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-und-der-1-fc-koeln-verlieren-im-aufstiegsrennen-a-1991bee3-adde-4c39-8b7d-f4e64cf0c961#ref=rss)
-### bremen
+* [https://www.spiegel.de/ausland/china-hisst-flagge-auf-riff-im-suedchinesischen-meer-philippinen-ziehen-nach](https://www.spiegel.de/ausland/china-hisst-flagge-auf-riff-im-suedchinesischen-meer-philippinen-ziehen-nach-a-1f7a3ee1-2330-4d07-b1e0-a58821df7063#ref=rss)
+### meer
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-nullnummer-zwischen-werder-bremen-und-dem-fc-st-pauli-vfl-bochum-vor-abstieg](https://www.spiegel.de/sport/fussball/fussball-bundesliga-nullnummer-zwischen-werder-bremen-und-dem-fc-st-pauli-vfl-bochum-vor-abstieg-a-745e2690-a0fc-47fe-9625-04667c94c4b9#ref=rss)
-### st
+* [https://www.spiegel.de/ausland/china-hisst-flagge-auf-riff-im-suedchinesischen-meer-philippinen-ziehen-nach](https://www.spiegel.de/ausland/china-hisst-flagge-auf-riff-im-suedchinesischen-meer-philippinen-ziehen-nach-a-1f7a3ee1-2330-4d07-b1e0-a58821df7063#ref=rss)
+### philippinen
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-nullnummer-zwischen-werder-bremen-und-dem-fc-st-pauli-vfl-bochum-vor-abstieg](https://www.spiegel.de/sport/fussball/fussball-bundesliga-nullnummer-zwischen-werder-bremen-und-dem-fc-st-pauli-vfl-bochum-vor-abstieg-a-745e2690-a0fc-47fe-9625-04667c94c4b9#ref=rss)
-### pauli
+* [https://www.spiegel.de/ausland/china-hisst-flagge-auf-riff-im-suedchinesischen-meer-philippinen-ziehen-nach](https://www.spiegel.de/ausland/china-hisst-flagge-auf-riff-im-suedchinesischen-meer-philippinen-ziehen-nach-a-1f7a3ee1-2330-4d07-b1e0-a58821df7063#ref=rss)
+### wenige
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-nullnummer-zwischen-werder-bremen-und-dem-fc-st-pauli-vfl-bochum-vor-abstieg](https://www.spiegel.de/sport/fussball/fussball-bundesliga-nullnummer-zwischen-werder-bremen-und-dem-fc-st-pauli-vfl-bochum-vor-abstieg-a-745e2690-a0fc-47fe-9625-04667c94c4b9#ref=rss)
-### bochum
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-nullnummer-zwischen-werder-bremen-und-dem-fc-st-pauli-vfl-bochum-vor-abstieg](https://www.spiegel.de/sport/fussball/fussball-bundesliga-nullnummer-zwischen-werder-bremen-und-dem-fc-st-pauli-vfl-bochum-vor-abstieg-a-745e2690-a0fc-47fe-9625-04667c94c4b9#ref=rss)
-### große
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-nullnummer-zwischen-werder-bremen-und-dem-fc-st-pauli-vfl-bochum-vor-abstieg](https://www.spiegel.de/sport/fussball/fussball-bundesliga-nullnummer-zwischen-werder-bremen-und-dem-fc-st-pauli-vfl-bochum-vor-abstieg-a-745e2690-a0fc-47fe-9625-04667c94c4b9#ref=rss)
-* [https://www.spiegel.de/karriere/raetsel-der-woche-wie-gross-ist-der-spitze-winkel](https://www.spiegel.de/karriere/raetsel-der-woche-wie-gross-ist-der-spitze-winkel-a-f5f1bb5a-8afe-4d93-8c55-7cac2588c0e5#ref=rss)
-### grönland
-
-* [https://www.spiegel.de/ausland/bedrohung-durch-donald-trump-groenland-und-daenemark-wollen-enger-zusammenarbeiten](https://www.spiegel.de/ausland/bedrohung-durch-donald-trump-groenland-und-daenemark-wollen-enger-zusammenarbeiten-a-32e1b887-6543-4586-b5e8-02733629edf9#ref=rss)
-### dänemark
-
-* [https://www.spiegel.de/ausland/bedrohung-durch-donald-trump-groenland-und-daenemark-wollen-enger-zusammenarbeiten](https://www.spiegel.de/ausland/bedrohung-durch-donald-trump-groenland-und-daenemark-wollen-enger-zusammenarbeiten-a-32e1b887-6543-4586-b5e8-02733629edf9#ref=rss)
-### wir
-
-* [https://www.spiegel.de/ausland/bedrohung-durch-donald-trump-groenland-und-daenemark-wollen-enger-zusammenarbeiten](https://www.spiegel.de/ausland/bedrohung-durch-donald-trump-groenland-und-daenemark-wollen-enger-zusammenarbeiten-a-32e1b887-6543-4586-b5e8-02733629edf9#ref=rss)
-* [https://www.spiegel.de/tests/fahrrad-zubehoer/faltraeder-von-brompton-mueller-riese-dahon-tern-vello-und-bergsteiger-im-test](https://www.spiegel.de/tests/fahrrad-zubehoer/faltraeder-von-brompton-mueller-riese-dahon-tern-vello-und-bergsteiger-im-test-a-08977d44-f883-4fc8-a961-f7d737fa8c31#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/ausland/bedrohung-durch-donald-trump-groenland-und-daenemark-wollen-enger-zusammenarbeiten](https://www.spiegel.de/ausland/bedrohung-durch-donald-trump-groenland-und-daenemark-wollen-enger-zusammenarbeiten-a-32e1b887-6543-4586-b5e8-02733629edf9#ref=rss)
-* [https://www.spiegel.de/politik/syrien-nancy-faeser-spricht-in-damaskus-ueber-rueckkehr-von-fluechtlingen](https://www.spiegel.de/politik/syrien-nancy-faeser-spricht-in-damaskus-ueber-rueckkehr-von-fluechtlingen-a-a13fe780-1cd2-4ec0-8684-044d1df7a0e7#ref=rss)
-### vorort
-
-* [https://www.spiegel.de/ausland/luftangriff-auf-einrichtungen-der-hisbollah-israel-greift-nach-evakuierungsaufruf-vorort-von-beirut-an](https://www.spiegel.de/ausland/luftangriff-auf-einrichtungen-der-hisbollah-israel-greift-nach-evakuierungsaufruf-vorort-von-beirut-an-a-05b6864e-0f71-4615-8a89-5286908c9691#ref=rss)
-### beirut
-
-* [https://www.spiegel.de/ausland/luftangriff-auf-einrichtungen-der-hisbollah-israel-greift-nach-evakuierungsaufruf-vorort-von-beirut-an](https://www.spiegel.de/ausland/luftangriff-auf-einrichtungen-der-hisbollah-israel-greift-nach-evakuierungsaufruf-vorort-von-beirut-an-a-05b6864e-0f71-4615-8a89-5286908c9691#ref=rss)
-### tadej
-
-* [https://www.spiegel.de/sport/radsport-tadej-pogacar-gewinnt-klassiker-luettich-bastogne-luettich](https://www.spiegel.de/sport/radsport-tadej-pogacar-gewinnt-klassiker-luettich-bastogne-luettich-a-dd44f626-32fd-43a8-8864-a1f0b5b8336d#ref=rss)
-### pogačar
-
-* [https://www.spiegel.de/sport/radsport-tadej-pogacar-gewinnt-klassiker-luettich-bastogne-luettich](https://www.spiegel.de/sport/radsport-tadej-pogacar-gewinnt-klassiker-luettich-bastogne-luettich-a-dd44f626-32fd-43a8-8864-a1f0b5b8336d#ref=rss)
-### lüttichbastognelüttich
-
-* [https://www.spiegel.de/sport/radsport-tadej-pogacar-gewinnt-klassiker-luettich-bastogne-luettich](https://www.spiegel.de/sport/radsport-tadej-pogacar-gewinnt-klassiker-luettich-bastogne-luettich-a-dd44f626-32fd-43a8-8864-a1f0b5b8336d#ref=rss)
-### sieg
-
-* [https://www.spiegel.de/sport/radsport-tadej-pogacar-gewinnt-klassiker-luettich-bastogne-luettich](https://www.spiegel.de/sport/radsport-tadej-pogacar-gewinnt-klassiker-luettich-bastogne-luettich-a-dd44f626-32fd-43a8-8864-a1f0b5b8336d#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bundesliga-der-frauen-fc-bayern-muenchen-ist-zum-dritten-mal-in-folge-deutscher-meister](https://www.spiegel.de/sport/fussball/bundesliga-der-frauen-fc-bayern-muenchen-ist-zum-dritten-mal-in-folge-deutscher-meister-a-526a10b1-4ab0-4cfc-8d2d-c17061a8eac4#ref=rss)
-### gelang
-
-* [https://www.spiegel.de/sport/radsport-tadej-pogacar-gewinnt-klassiker-luettich-bastogne-luettich](https://www.spiegel.de/sport/radsport-tadej-pogacar-gewinnt-klassiker-luettich-bastogne-luettich-a-dd44f626-32fd-43a8-8864-a1f0b5b8336d#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bundesliga-der-frauen-fc-bayern-muenchen-ist-zum-dritten-mal-in-folge-deutscher-meister](https://www.spiegel.de/sport/fussball/bundesliga-der-frauen-fc-bayern-muenchen-ist-zum-dritten-mal-in-folge-deutscher-meister-a-526a10b1-4ab0-4cfc-8d2d-c17061a8eac4#ref=rss)
-### hassnachrichten
-
-* [https://www.spiegel.de/panorama/brandenburg-hassnachrichten-gegen-anglerkoenigin-nach-wels-fang](https://www.spiegel.de/panorama/brandenburg-hassnachrichten-gegen-anglerkoenigin-nach-wels-fang-a-24bb1c03-d96d-4642-9ee9-f74caca51154#ref=rss)
-### anglerkönigin
-
-* [https://www.spiegel.de/panorama/brandenburg-hassnachrichten-gegen-anglerkoenigin-nach-wels-fang](https://www.spiegel.de/panorama/brandenburg-hassnachrichten-gegen-anglerkoenigin-nach-wels-fang-a-24bb1c03-d96d-4642-9ee9-f74caca51154#ref=rss)
-### ärzte
-
-* [https://www.spiegel.de/ausland/wie-aerzte-aus-deutschland-in-syrien-leben-retten](https://www.spiegel.de/ausland/wie-aerzte-aus-deutschland-in-syrien-leben-retten-a-d9f14863-fbd4-49a7-84e3-0c3df869759b#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/ausland/wie-aerzte-aus-deutschland-in-syrien-leben-retten](https://www.spiegel.de/ausland/wie-aerzte-aus-deutschland-in-syrien-leben-retten-a-d9f14863-fbd4-49a7-84e3-0c3df869759b#ref=rss)
-### alexander
-
-* [https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-schimpft-zueckt-sein-handy-und-gewinnt-ein-kurioses-spiel](https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-schimpft-zueckt-sein-handy-und-gewinnt-ein-kurioses-spiel-a-52906730-2e36-4ffa-aa0b-b3c8cbeb146e#ref=rss)
-### zverev
-
-* [https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-schimpft-zueckt-sein-handy-und-gewinnt-ein-kurioses-spiel](https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-schimpft-zueckt-sein-handy-und-gewinnt-ein-kurioses-spiel-a-52906730-2e36-4ffa-aa0b-b3c8cbeb146e#ref=rss)
-### dackeldame
-
-* [https://www.spiegel.de/panorama/wie-dackeldame-valerie-529-tage-in-der-australischen-wildnis-ueberlebte](https://www.spiegel.de/panorama/wie-dackeldame-valerie-529-tage-in-der-australischen-wildnis-ueberlebte-a-4d86c0bb-4696-43f8-9836-bf13decc77cc#ref=rss)
-### valerie
-
-* [https://www.spiegel.de/panorama/wie-dackeldame-valerie-529-tage-in-der-australischen-wildnis-ueberlebte](https://www.spiegel.de/panorama/wie-dackeldame-valerie-529-tage-in-der-australischen-wildnis-ueberlebte-a-4d86c0bb-4696-43f8-9836-bf13decc77cc#ref=rss)
+* [https://www.spiegel.de/ausland/china-hisst-flagge-auf-riff-im-suedchinesischen-meer-philippinen-ziehen-nach](https://www.spiegel.de/ausland/china-hisst-flagge-auf-riff-im-suedchinesischen-meer-philippinen-ziehen-nach-a-1f7a3ee1-2330-4d07-b1e0-a58821df7063#ref=rss)
+* [https://www.spiegel.de/kultur/wolfram-weimer-wird-staatsminister-ein-heimatschuetzer-macht-jetzt-kulturpolitik](https://www.spiegel.de/kultur/wolfram-weimer-wird-staatsminister-ein-heimatschuetzer-macht-jetzt-kulturpolitik-a-43706cc3-67b7-4483-8605-546cff088878#ref=rss)
 ### tage
 
-* [https://www.spiegel.de/panorama/wie-dackeldame-valerie-529-tage-in-der-australischen-wildnis-ueberlebte](https://www.spiegel.de/panorama/wie-dackeldame-valerie-529-tage-in-der-australischen-wildnis-ueberlebte-a-4d86c0bb-4696-43f8-9836-bf13decc77cc#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-testet-die-grenzen-seiner-macht-die-ersten-100-tage-im-amt](https://www.spiegel.de/ausland/donald-trump-testet-die-grenzen-seiner-macht-die-ersten-100-tage-im-amt-a-abe0dad2-1d9d-41c4-a763-d611f4aa4932#ref=rss)
-### australischen
+* [https://www.spiegel.de/ausland/china-hisst-flagge-auf-riff-im-suedchinesischen-meer-philippinen-ziehen-nach](https://www.spiegel.de/ausland/china-hisst-flagge-auf-riff-im-suedchinesischen-meer-philippinen-ziehen-nach-a-1f7a3ee1-2330-4d07-b1e0-a58821df7063#ref=rss)
+* [https://www.spiegel.de/panorama/japan-student-zweimal-in-einer-woche-vom-fuji-gerettet](https://www.spiegel.de/panorama/japan-student-zweimal-in-einer-woche-vom-fuji-gerettet-a-8ffb702d-8f24-4ca5-b854-53225934ac23#ref=rss)
+### hochschulen
 
-* [https://www.spiegel.de/panorama/wie-dackeldame-valerie-529-tage-in-der-australischen-wildnis-ueberlebte](https://www.spiegel.de/panorama/wie-dackeldame-valerie-529-tage-in-der-australischen-wildnis-ueberlebte-a-4d86c0bb-4696-43f8-9836-bf13decc77cc#ref=rss)
-### bundesliga
+* [https://www.spiegel.de/panorama/bildung/hochschulen-in-deutschland-mehr-als-ein-drittel-werden-von-frauen-geleitet](https://www.spiegel.de/panorama/bildung/hochschulen-in-deutschland-mehr-als-ein-drittel-werden-von-frauen-geleitet-a-ccc612cb-d7bc-449f-b32a-311d9e5c4b92#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/sport/fussball/bundesliga-der-frauen-fc-bayern-muenchen-ist-zum-dritten-mal-in-folge-deutscher-meister](https://www.spiegel.de/sport/fussball/bundesliga-der-frauen-fc-bayern-muenchen-ist-zum-dritten-mal-in-folge-deutscher-meister-a-526a10b1-4ab0-4cfc-8d2d-c17061a8eac4#ref=rss)
-* [https://www.spiegel.de/sport/fussball/union-berlins-fussballerinnen-gelingt-der-durchmarsch-in-die-bundesliga](https://www.spiegel.de/sport/fussball/union-berlins-fussballerinnen-gelingt-der-durchmarsch-in-die-bundesliga-a-e90c4ee3-8e76-4912-b4b1-224acb2ecf16#ref=rss)
-### bayern
+* [https://www.spiegel.de/panorama/bildung/hochschulen-in-deutschland-mehr-als-ein-drittel-werden-von-frauen-geleitet](https://www.spiegel.de/panorama/bildung/hochschulen-in-deutschland-mehr-als-ein-drittel-werden-von-frauen-geleitet-a-ccc612cb-d7bc-449f-b32a-311d9e5c4b92#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/sylt-video-ermittlungen-wegen-rechtsextremer-gesaenge-in-pony-bar-ueberwiegend-eingestellt](https://www.spiegel.de/panorama/justiz/sylt-video-ermittlungen-wegen-rechtsextremer-gesaenge-in-pony-bar-ueberwiegend-eingestellt-a-936ff3ab-c0ae-425e-bb20-267190187c37#ref=rss)
+### frauen
 
-* [https://www.spiegel.de/sport/fussball/bundesliga-der-frauen-fc-bayern-muenchen-ist-zum-dritten-mal-in-folge-deutscher-meister](https://www.spiegel.de/sport/fussball/bundesliga-der-frauen-fc-bayern-muenchen-ist-zum-dritten-mal-in-folge-deutscher-meister-a-526a10b1-4ab0-4cfc-8d2d-c17061a8eac4#ref=rss)
-### dritten
+* [https://www.spiegel.de/panorama/bildung/hochschulen-in-deutschland-mehr-als-ein-drittel-werden-von-frauen-geleitet](https://www.spiegel.de/panorama/bildung/hochschulen-in-deutschland-mehr-als-ein-drittel-werden-von-frauen-geleitet-a-ccc612cb-d7bc-449f-b32a-311d9e5c4b92#ref=rss)
+### waren
 
-* [https://www.spiegel.de/sport/fussball/bundesliga-der-frauen-fc-bayern-muenchen-ist-zum-dritten-mal-in-folge-deutscher-meister](https://www.spiegel.de/sport/fussball/bundesliga-der-frauen-fc-bayern-muenchen-ist-zum-dritten-mal-in-folge-deutscher-meister-a-526a10b1-4ab0-4cfc-8d2d-c17061a8eac4#ref=rss)
-### folge
+* [https://www.spiegel.de/panorama/bildung/hochschulen-in-deutschland-mehr-als-ein-drittel-werden-von-frauen-geleitet](https://www.spiegel.de/panorama/bildung/hochschulen-in-deutschland-mehr-als-ein-drittel-werden-von-frauen-geleitet-a-ccc612cb-d7bc-449f-b32a-311d9e5c4b92#ref=rss)
+* [https://www.spiegel.de/panorama/indonesien-vulkan-lewotobi-laki-laki-spuckt-wieder-feuer](https://www.spiegel.de/panorama/indonesien-vulkan-lewotobi-laki-laki-spuckt-wieder-feuer-a-b191f6fd-b4d2-4c77-95a5-9c16df65f3d4#ref=rss)
+### deutlich
 
-* [https://www.spiegel.de/sport/fussball/bundesliga-der-frauen-fc-bayern-muenchen-ist-zum-dritten-mal-in-folge-deutscher-meister](https://www.spiegel.de/sport/fussball/bundesliga-der-frauen-fc-bayern-muenchen-ist-zum-dritten-mal-in-folge-deutscher-meister-a-526a10b1-4ab0-4cfc-8d2d-c17061a8eac4#ref=rss)
-### union
+* [https://www.spiegel.de/panorama/bildung/hochschulen-in-deutschland-mehr-als-ein-drittel-werden-von-frauen-geleitet](https://www.spiegel.de/panorama/bildung/hochschulen-in-deutschland-mehr-als-ein-drittel-werden-von-frauen-geleitet-a-ccc612cb-d7bc-449f-b32a-311d9e5c4b92#ref=rss)
+* [https://www.spiegel.de/reise/deutschland/tourismus-campingplaetze-verzeichneten-2024-so-viele-uebernachtungen-wie-noch-nie](https://www.spiegel.de/reise/deutschland/tourismus-campingplaetze-verzeichneten-2024-so-viele-uebernachtungen-wie-noch-nie-a-451607f4-804d-4e67-93a9-d1e669c05554#ref=rss)
+### fuji
 
-* [https://www.spiegel.de/sport/fussball/union-berlins-fussballerinnen-gelingt-der-durchmarsch-in-die-bundesliga](https://www.spiegel.de/sport/fussball/union-berlins-fussballerinnen-gelingt-der-durchmarsch-in-die-bundesliga-a-e90c4ee3-8e76-4912-b4b1-224acb2ecf16#ref=rss)
-### ersten
+* [https://www.spiegel.de/panorama/japan-student-zweimal-in-einer-woche-vom-fuji-gerettet](https://www.spiegel.de/panorama/japan-student-zweimal-in-einer-woche-vom-fuji-gerettet-a-8ffb702d-8f24-4ca5-b854-53225934ac23#ref=rss)
+### gerettet
 
-* [https://www.spiegel.de/sport/fussball/union-berlins-fussballerinnen-gelingt-der-durchmarsch-in-die-bundesliga](https://www.spiegel.de/sport/fussball/union-berlins-fussballerinnen-gelingt-der-durchmarsch-in-die-bundesliga-a-e90c4ee3-8e76-4912-b4b1-224acb2ecf16#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-testet-die-grenzen-seiner-macht-die-ersten-100-tage-im-amt](https://www.spiegel.de/ausland/donald-trump-testet-die-grenzen-seiner-macht-die-ersten-100-tage-im-amt-a-abe0dad2-1d9d-41c4-a763-d611f4aa4932#ref=rss)
-### schweden
+* [https://www.spiegel.de/panorama/japan-student-zweimal-in-einer-woche-vom-fuji-gerettet](https://www.spiegel.de/panorama/japan-student-zweimal-in-einer-woche-vom-fuji-gerettet-a-8ffb702d-8f24-4ca5-b854-53225934ac23#ref=rss)
+### deutschlands
 
-* [https://www.spiegel.de/panorama/tat-in-schweden-paar-vergewaltigte-ex-partner-von-frau-mehrjaehrige-haft](https://www.spiegel.de/panorama/tat-in-schweden-paar-vergewaltigte-ex-partner-von-frau-mehrjaehrige-haft-a-584f19d2-d068-4256-ae73-b14cc7365d23#ref=rss)
-### paar
+* [https://www.spiegel.de/reise/deutschland/tourismus-campingplaetze-verzeichneten-2024-so-viele-uebernachtungen-wie-noch-nie](https://www.spiegel.de/reise/deutschland/tourismus-campingplaetze-verzeichneten-2024-so-viele-uebernachtungen-wie-noch-nie-a-451607f4-804d-4e67-93a9-d1e669c05554#ref=rss)
+* [https://www.spiegel.de/kultur/florian-schroeder-ist-einer-der-bekanntesten-satiriker-deutschlands-wer-kennt-diesen-mann](https://www.spiegel.de/kultur/florian-schroeder-ist-einer-der-bekanntesten-satiriker-deutschlands-wer-kennt-diesen-mann-a-ddf36220-dc63-414e-967d-e431226fc094#ref=rss)
+### erfahren
 
-* [https://www.spiegel.de/panorama/tat-in-schweden-paar-vergewaltigte-ex-partner-von-frau-mehrjaehrige-haft](https://www.spiegel.de/panorama/tat-in-schweden-paar-vergewaltigte-ex-partner-von-frau-mehrjaehrige-haft-a-584f19d2-d068-4256-ae73-b14cc7365d23#ref=rss)
+* [https://www.spiegel.de/reise/deutschland/tourismus-campingplaetze-verzeichneten-2024-so-viele-uebernachtungen-wie-noch-nie](https://www.spiegel.de/reise/deutschland/tourismus-campingplaetze-verzeichneten-2024-so-viele-uebernachtungen-wie-noch-nie-a-451607f4-804d-4e67-93a9-d1e669c05554#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/la-grand-combe-in-frankreich-gesuchter-stellt-sich-nach-bluttat-in-moschee](https://www.spiegel.de/panorama/justiz/la-grand-combe-in-frankreich-gesuchter-stellt-sich-nach-bluttat-in-moschee-a-06def602-04c5-4471-88e2-28b2ecd138d3#ref=rss)
+### chubby
+
+* [https://www.spiegel.de/kultur/musik/cyndi-lauper-chubby-checker-und-outkast-in-rocknroll-hall-of-fame-aufgenommen](https://www.spiegel.de/kultur/musik/cyndi-lauper-chubby-checker-und-outkast-in-rocknroll-hall-of-fame-aufgenommen-a-d6efefe7-cf7c-4925-b0d2-890404ec9cb2#ref=rss)
+### checker
+
+* [https://www.spiegel.de/kultur/musik/cyndi-lauper-chubby-checker-und-outkast-in-rocknroll-hall-of-fame-aufgenommen](https://www.spiegel.de/kultur/musik/cyndi-lauper-chubby-checker-und-outkast-in-rocknroll-hall-of-fame-aufgenommen-a-d6efefe7-cf7c-4925-b0d2-890404ec9cb2#ref=rss)
+### rock'n'roll
+
+* [https://www.spiegel.de/kultur/musik/cyndi-lauper-chubby-checker-und-outkast-in-rocknroll-hall-of-fame-aufgenommen](https://www.spiegel.de/kultur/musik/cyndi-lauper-chubby-checker-und-outkast-in-rocknroll-hall-of-fame-aufgenommen-a-d6efefe7-cf7c-4925-b0d2-890404ec9cb2#ref=rss)
+### hall
+
+* [https://www.spiegel.de/kultur/musik/cyndi-lauper-chubby-checker-und-outkast-in-rocknroll-hall-of-fame-aufgenommen](https://www.spiegel.de/kultur/musik/cyndi-lauper-chubby-checker-und-outkast-in-rocknroll-hall-of-fame-aufgenommen-a-d6efefe7-cf7c-4925-b0d2-890404ec9cb2#ref=rss)
+### of
+
+* [https://www.spiegel.de/kultur/musik/cyndi-lauper-chubby-checker-und-outkast-in-rocknroll-hall-of-fame-aufgenommen](https://www.spiegel.de/kultur/musik/cyndi-lauper-chubby-checker-und-outkast-in-rocknroll-hall-of-fame-aufgenommen-a-d6efefe7-cf7c-4925-b0d2-890404ec9cb2#ref=rss)
+### fame
+
+* [https://www.spiegel.de/kultur/musik/cyndi-lauper-chubby-checker-und-outkast-in-rocknroll-hall-of-fame-aufgenommen](https://www.spiegel.de/kultur/musik/cyndi-lauper-chubby-checker-und-outkast-in-rocknroll-hall-of-fame-aufgenommen-a-d6efefe7-cf7c-4925-b0d2-890404ec9cb2#ref=rss)
+### gereicht
+
+* [https://www.spiegel.de/kultur/musik/cyndi-lauper-chubby-checker-und-outkast-in-rocknroll-hall-of-fame-aufgenommen](https://www.spiegel.de/kultur/musik/cyndi-lauper-chubby-checker-und-outkast-in-rocknroll-hall-of-fame-aufgenommen-a-d6efefe7-cf7c-4925-b0d2-890404ec9cb2#ref=rss)
+* [https://www.spiegel.de/kultur/florian-schroeder-ist-einer-der-bekanntesten-satiriker-deutschlands-wer-kennt-diesen-mann](https://www.spiegel.de/kultur/florian-schroeder-ist-einer-der-bekanntesten-satiriker-deutschlands-wer-kennt-diesen-mann-a-ddf36220-dc63-414e-967d-e431226fc094#ref=rss)
+### restaurantbesuch
+
+* [https://www.spiegel.de/wirtschaft/restaurantbesuch-warum-rechtzeitiges-absagen-wichtig-ist](https://www.spiegel.de/wirtschaft/restaurantbesuch-warum-rechtzeitiges-absagen-wichtig-ist-a-c70dfe23-1458-4e91-89a6-501cf085002b#ref=rss)
+### absagen
+
+* [https://www.spiegel.de/wirtschaft/restaurantbesuch-warum-rechtzeitiges-absagen-wichtig-ist](https://www.spiegel.de/wirtschaft/restaurantbesuch-warum-rechtzeitiges-absagen-wichtig-ist-a-c70dfe23-1458-4e91-89a6-501cf085002b#ref=rss)
+### wichtig
+
+* [https://www.spiegel.de/wirtschaft/restaurantbesuch-warum-rechtzeitiges-absagen-wichtig-ist](https://www.spiegel.de/wirtschaft/restaurantbesuch-warum-rechtzeitiges-absagen-wichtig-ist-a-c70dfe23-1458-4e91-89a6-501cf085002b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-bochum-erhaelt-sieg-nach-feuerzeugwurf-auf-torwart-patrick-drewes](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-bochum-erhaelt-sieg-nach-feuerzeugwurf-auf-torwart-patrick-drewes-a-6d4572ae-2a46-4f34-88a2-e4864459b6bf#ref=rss)
+### kommen
+
+* [https://www.spiegel.de/wirtschaft/restaurantbesuch-warum-rechtzeitiges-absagen-wichtig-ist](https://www.spiegel.de/wirtschaft/restaurantbesuch-warum-rechtzeitiges-absagen-wichtig-ist-a-c70dfe23-1458-4e91-89a6-501cf085002b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/sylt-video-ermittlungen-wegen-rechtsextremer-gesaenge-in-pony-bar-ueberwiegend-eingestellt](https://www.spiegel.de/panorama/justiz/sylt-video-ermittlungen-wegen-rechtsextremer-gesaenge-in-pony-bar-ueberwiegend-eingestellt-a-936ff3ab-c0ae-425e-bb20-267190187c37#ref=rss)
+### staatsminister
+
+* [https://www.spiegel.de/kultur/wolfram-weimer-wird-staatsminister-ein-heimatschuetzer-macht-jetzt-kulturpolitik](https://www.spiegel.de/kultur/wolfram-weimer-wird-staatsminister-ein-heimatschuetzer-macht-jetzt-kulturpolitik-a-43706cc3-67b7-4483-8605-546cff088878#ref=rss)
+### exweltchefredakteur
+
+* [https://www.spiegel.de/kultur/wolfram-weimer-wird-staatsminister-ein-heimatschuetzer-macht-jetzt-kulturpolitik](https://www.spiegel.de/kultur/wolfram-weimer-wird-staatsminister-ein-heimatschuetzer-macht-jetzt-kulturpolitik-a-43706cc3-67b7-4483-8605-546cff088878#ref=rss)
+* [https://www.spiegel.de/kultur/wolfram-weimer-ex-welt-chefredakteur-soll-fuer-cdu-neuer-kulturstaatsminister-werden](https://www.spiegel.de/kultur/wolfram-weimer-ex-welt-chefredakteur-soll-fuer-cdu-neuer-kulturstaatsminister-werden-a-2ead6711-a69f-4b37-9d50-9a9cdd72fab5#ref=rss)
+### wäre
+
+* [https://www.spiegel.de/kultur/wolfram-weimer-wird-staatsminister-ein-heimatschuetzer-macht-jetzt-kulturpolitik](https://www.spiegel.de/kultur/wolfram-weimer-wird-staatsminister-ein-heimatschuetzer-macht-jetzt-kulturpolitik-a-43706cc3-67b7-4483-8605-546cff088878#ref=rss)
+* [https://www.spiegel.de/kultur/wolfram-weimer-ex-welt-chefredakteur-soll-fuer-cdu-neuer-kulturstaatsminister-werden](https://www.spiegel.de/kultur/wolfram-weimer-ex-welt-chefredakteur-soll-fuer-cdu-neuer-kulturstaatsminister-werden-a-2ead6711-a69f-4b37-9d50-9a9cdd72fab5#ref=rss)
+### howard
+
+* [https://www.spiegel.de/kultur/musik/howard-carpendale-laestert-ueber-helene-fischer-und-kritisiert-ihr-aeusseres](https://www.spiegel.de/kultur/musik/howard-carpendale-laestert-ueber-helene-fischer-und-kritisiert-ihr-aeusseres-a-8cdfbae0-e872-4ecb-94f2-5f8dc2381964#ref=rss)
+### carpendale
+
+* [https://www.spiegel.de/kultur/musik/howard-carpendale-laestert-ueber-helene-fischer-und-kritisiert-ihr-aeusseres](https://www.spiegel.de/kultur/musik/howard-carpendale-laestert-ueber-helene-fischer-und-kritisiert-ihr-aeusseres-a-8cdfbae0-e872-4ecb-94f2-5f8dc2381964#ref=rss)
+### helene
+
+* [https://www.spiegel.de/kultur/musik/howard-carpendale-laestert-ueber-helene-fischer-und-kritisiert-ihr-aeusseres](https://www.spiegel.de/kultur/musik/howard-carpendale-laestert-ueber-helene-fischer-und-kritisiert-ihr-aeusseres-a-8cdfbae0-e872-4ecb-94f2-5f8dc2381964#ref=rss)
+### fischer
+
+* [https://www.spiegel.de/kultur/musik/howard-carpendale-laestert-ueber-helene-fischer-und-kritisiert-ihr-aeusseres](https://www.spiegel.de/kultur/musik/howard-carpendale-laestert-ueber-helene-fischer-und-kritisiert-ihr-aeusseres-a-8cdfbae0-e872-4ecb-94f2-5f8dc2381964#ref=rss)
 ### unter
 
-* [https://www.spiegel.de/panorama/tat-in-schweden-paar-vergewaltigte-ex-partner-von-frau-mehrjaehrige-haft](https://www.spiegel.de/panorama/tat-in-schweden-paar-vergewaltigte-ex-partner-von-frau-mehrjaehrige-haft-a-584f19d2-d068-4256-ae73-b14cc7365d23#ref=rss)
-* [https://www.spiegel.de/karriere/raetsel-der-woche-wie-gross-ist-der-spitze-winkel](https://www.spiegel.de/karriere/raetsel-der-woche-wie-gross-ist-der-spitze-winkel-a-f5f1bb5a-8afe-4d93-8c55-7cac2588c0e5#ref=rss)
-### länder
+* [https://www.spiegel.de/kultur/musik/howard-carpendale-laestert-ueber-helene-fischer-und-kritisiert-ihr-aeusseres](https://www.spiegel.de/kultur/musik/howard-carpendale-laestert-ueber-helene-fischer-und-kritisiert-ihr-aeusseres-a-8cdfbae0-e872-4ecb-94f2-5f8dc2381964#ref=rss)
+* [https://www.spiegel.de/wirtschaft/airbus-uebernahme-von-spirit-anlagen-nach-einigung-mit-boeing](https://www.spiegel.de/wirtschaft/airbus-uebernahme-von-spirit-anlagen-nach-einigung-mit-boeing-a-198720a2-7298-42aa-89a2-122a7d2168c0#ref=rss)
+### millionen
 
-* [https://www.spiegel.de/ausland/usaid-und-der-abbau-von-entwicklungshilfe-die-usa-waren-fuer-die-meisten-afrikanischen-laender-nie-ein-strategischer-verbuendeter](https://www.spiegel.de/ausland/usaid-und-der-abbau-von-entwicklungshilfe-die-usa-waren-fuer-die-meisten-afrikanischen-laender-nie-ein-strategischer-verbuendeter-a-6f440ce1-8809-41b6-a307-50320a3d1857#ref=rss)
-### erklärt
+* [https://www.spiegel.de/wirtschaft/aurubis-affaere-schrott-zinker-muessen-fuer-lange-zeit-ins-gefaengnis](https://www.spiegel.de/wirtschaft/aurubis-affaere-schrott-zinker-muessen-fuer-lange-zeit-ins-gefaengnis-a-9fae74fb-8751-4674-abc7-18762c1fd21b#ref=rss)
+* [https://www.spiegel.de/ausland/kindersterblichkeit-in-indien-aerztepaar-rettete-millionen-kindern-das-leben](https://www.spiegel.de/ausland/kindersterblichkeit-in-indien-aerztepaar-rettete-millionen-kindern-das-leben-a-3563dfde-50e9-45b3-8c5b-56a0d7c5303a#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/ausland/usaid-und-der-abbau-von-entwicklungshilfe-die-usa-waren-fuer-die-meisten-afrikanischen-laender-nie-ein-strategischer-verbuendeter](https://www.spiegel.de/ausland/usaid-und-der-abbau-von-entwicklungshilfe-die-usa-waren-fuer-die-meisten-afrikanischen-laender-nie-ein-strategischer-verbuendeter-a-6f440ce1-8809-41b6-a307-50320a3d1857#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-testet-die-grenzen-seiner-macht-die-ersten-100-tage-im-amt](https://www.spiegel.de/ausland/donald-trump-testet-die-grenzen-seiner-macht-die-ersten-100-tage-im-amt-a-abe0dad2-1d9d-41c4-a763-d611f4aa4932#ref=rss)
-### grenzen
+* [https://www.spiegel.de/politik/deutschland/cdu-und-csu-in-der-neuen-bundesregierung-so-besetzt-merz-sein-kabinett](https://www.spiegel.de/politik/deutschland/cdu-und-csu-in-der-neuen-bundesregierung-so-besetzt-merz-sein-kabinett-a-2a33a94a-e9c2-4e02-b60d-49f11b865478#ref=rss)
+* [https://www.spiegel.de/kultur/wolfram-weimer-ex-welt-chefredakteur-soll-fuer-cdu-neuer-kulturstaatsminister-werden](https://www.spiegel.de/kultur/wolfram-weimer-ex-welt-chefredakteur-soll-fuer-cdu-neuer-kulturstaatsminister-werden-a-2ead6711-a69f-4b37-9d50-9a9cdd72fab5#ref=rss)
+### merz
 
-* [https://www.spiegel.de/ausland/usaid-und-der-abbau-von-entwicklungshilfe-die-usa-waren-fuer-die-meisten-afrikanischen-laender-nie-ein-strategischer-verbuendeter](https://www.spiegel.de/ausland/usaid-und-der-abbau-von-entwicklungshilfe-die-usa-waren-fuer-die-meisten-afrikanischen-laender-nie-ein-strategischer-verbuendeter-a-6f440ce1-8809-41b6-a307-50320a3d1857#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-testet-die-grenzen-seiner-macht-die-ersten-100-tage-im-amt](https://www.spiegel.de/ausland/donald-trump-testet-die-grenzen-seiner-macht-die-ersten-100-tage-im-amt-a-abe0dad2-1d9d-41c4-a763-d611f4aa4932#ref=rss)
-### weltkrieg
+* [https://www.spiegel.de/politik/deutschland/cdu-und-csu-in-der-neuen-bundesregierung-so-besetzt-merz-sein-kabinett](https://www.spiegel.de/politik/deutschland/cdu-und-csu-in-der-neuen-bundesregierung-so-besetzt-merz-sein-kabinett-a-2a33a94a-e9c2-4e02-b60d-49f11b865478#ref=rss)
+### kabinett
 
-* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-1945-adolf-hitler-und-eva-braun-toeten-sich-im-fuehrerbunker](https://www.spiegel.de/geschichte/zweiter-weltkrieg-1945-adolf-hitler-und-eva-braun-toeten-sich-im-fuehrerbunker-a-15f063a5-6bc7-4a64-9bfb-26b643c033ea#ref=rss)
-### adolf
+* [https://www.spiegel.de/politik/deutschland/cdu-und-csu-in-der-neuen-bundesregierung-so-besetzt-merz-sein-kabinett](https://www.spiegel.de/politik/deutschland/cdu-und-csu-in-der-neuen-bundesregierung-so-besetzt-merz-sein-kabinett-a-2a33a94a-e9c2-4e02-b60d-49f11b865478#ref=rss)
+### friedrich
 
-* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-1945-adolf-hitler-und-eva-braun-toeten-sich-im-fuehrerbunker](https://www.spiegel.de/geschichte/zweiter-weltkrieg-1945-adolf-hitler-und-eva-braun-toeten-sich-im-fuehrerbunker-a-15f063a5-6bc7-4a64-9bfb-26b643c033ea#ref=rss)
-### eva
+* [https://www.spiegel.de/politik/deutschland/cdu-und-csu-in-der-neuen-bundesregierung-so-besetzt-merz-sein-kabinett](https://www.spiegel.de/politik/deutschland/cdu-und-csu-in-der-neuen-bundesregierung-so-besetzt-merz-sein-kabinett-a-2a33a94a-e9c2-4e02-b60d-49f11b865478#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-das-sind-die-minister-und-staatssekretaere-der-cdu-koalitions-news](https://www.spiegel.de/politik/deutschland/friedrich-merz-das-sind-die-minister-und-staatssekretaere-der-cdu-koalitions-news-a-48ac64f5-f403-4ca5-8a31-3674acfe1af1#ref=rss)
+### union
 
-* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-1945-adolf-hitler-und-eva-braun-toeten-sich-im-fuehrerbunker](https://www.spiegel.de/geschichte/zweiter-weltkrieg-1945-adolf-hitler-und-eva-braun-toeten-sich-im-fuehrerbunker-a-15f063a5-6bc7-4a64-9bfb-26b643c033ea#ref=rss)
-### führerbunker
+* [https://www.spiegel.de/politik/deutschland/cdu-und-csu-in-der-neuen-bundesregierung-so-besetzt-merz-sein-kabinett](https://www.spiegel.de/politik/deutschland/cdu-und-csu-in-der-neuen-bundesregierung-so-besetzt-merz-sein-kabinett-a-2a33a94a-e9c2-4e02-b60d-49f11b865478#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-bochum-erhaelt-sieg-nach-feuerzeugwurf-auf-torwart-patrick-drewes](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-bochum-erhaelt-sieg-nach-feuerzeugwurf-auf-torwart-patrick-drewes-a-6d4572ae-2a46-4f34-88a2-e4864459b6bf#ref=rss)
+### vfl
 
-* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-1945-adolf-hitler-und-eva-braun-toeten-sich-im-fuehrerbunker](https://www.spiegel.de/geschichte/zweiter-weltkrieg-1945-adolf-hitler-und-eva-braun-toeten-sich-im-fuehrerbunker-a-15f063a5-6bc7-4a64-9bfb-26b643c033ea#ref=rss)
-### 1
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-bochum-erhaelt-sieg-nach-feuerzeugwurf-auf-torwart-patrick-drewes](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-bochum-erhaelt-sieg-nach-feuerzeugwurf-auf-torwart-patrick-drewes-a-6d4572ae-2a46-4f34-88a2-e4864459b6bf#ref=rss)
+### patrick
 
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-und-der-1-fc-koeln-verlieren-im-aufstiegsrennen](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-und-der-1-fc-koeln-verlieren-im-aufstiegsrennen-a-1991bee3-adde-4c39-8b7d-f4e64cf0c961#ref=rss)
-### köln
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-bochum-erhaelt-sieg-nach-feuerzeugwurf-auf-torwart-patrick-drewes](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-bochum-erhaelt-sieg-nach-feuerzeugwurf-auf-torwart-patrick-drewes-a-6d4572ae-2a46-4f34-88a2-e4864459b6bf#ref=rss)
+### drewes
 
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-und-der-1-fc-koeln-verlieren-im-aufstiegsrennen](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-und-der-1-fc-koeln-verlieren-im-aufstiegsrennen-a-1991bee3-adde-4c39-8b7d-f4e64cf0c961#ref=rss)
-### aufstiegsrennen
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-bochum-erhaelt-sieg-nach-feuerzeugwurf-auf-torwart-patrick-drewes](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-bochum-erhaelt-sieg-nach-feuerzeugwurf-auf-torwart-patrick-drewes-a-6d4572ae-2a46-4f34-88a2-e4864459b6bf#ref=rss)
+### bochums
 
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-und-der-1-fc-koeln-verlieren-im-aufstiegsrennen](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-und-der-1-fc-koeln-verlieren-im-aufstiegsrennen-a-1991bee3-adde-4c39-8b7d-f4e64cf0c961#ref=rss)
-### indiana
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-bochum-erhaelt-sieg-nach-feuerzeugwurf-auf-torwart-patrick-drewes](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-bochum-erhaelt-sieg-nach-feuerzeugwurf-auf-torwart-patrick-drewes-a-6d4572ae-2a46-4f34-88a2-e4864459b6bf#ref=rss)
+### sam
 
-* [https://www.spiegel.de/panorama/indiana-uni-maskottchen-lokomotive-rammt-auto-ein-toter](https://www.spiegel.de/panorama/indiana-uni-maskottchen-lokomotive-rammt-auto-ein-toter-a-2925ba43-d567-4f85-9719-2098852cbab2#ref=rss)
-### auto
+* [https://www.spiegel.de/sport/olympia/sam-ruddock-paralympics-teilnehmer-seit-april-in-las-vegas-verschwunden](https://www.spiegel.de/sport/olympia/sam-ruddock-paralympics-teilnehmer-seit-april-in-las-vegas-verschwunden-a-1498a7e7-dfc8-4d3d-b118-f89d82dc16d8#ref=rss)
+### ruddock
 
-* [https://www.spiegel.de/panorama/indiana-uni-maskottchen-lokomotive-rammt-auto-ein-toter](https://www.spiegel.de/panorama/indiana-uni-maskottchen-lokomotive-rammt-auto-ein-toter-a-2925ba43-d567-4f85-9719-2098852cbab2#ref=rss)
-### nancy
+* [https://www.spiegel.de/sport/olympia/sam-ruddock-paralympics-teilnehmer-seit-april-in-las-vegas-verschwunden](https://www.spiegel.de/sport/olympia/sam-ruddock-paralympics-teilnehmer-seit-april-in-las-vegas-verschwunden-a-1498a7e7-dfc8-4d3d-b118-f89d82dc16d8#ref=rss)
+### las
 
-* [https://www.spiegel.de/politik/syrien-nancy-faeser-spricht-in-damaskus-ueber-rueckkehr-von-fluechtlingen](https://www.spiegel.de/politik/syrien-nancy-faeser-spricht-in-damaskus-ueber-rueckkehr-von-fluechtlingen-a-a13fe780-1cd2-4ec0-8684-044d1df7a0e7#ref=rss)
-### faeser
+* [https://www.spiegel.de/sport/olympia/sam-ruddock-paralympics-teilnehmer-seit-april-in-las-vegas-verschwunden](https://www.spiegel.de/sport/olympia/sam-ruddock-paralympics-teilnehmer-seit-april-in-las-vegas-verschwunden-a-1498a7e7-dfc8-4d3d-b118-f89d82dc16d8#ref=rss)
+### vegas
 
-* [https://www.spiegel.de/politik/syrien-nancy-faeser-spricht-in-damaskus-ueber-rueckkehr-von-fluechtlingen](https://www.spiegel.de/politik/syrien-nancy-faeser-spricht-in-damaskus-ueber-rueckkehr-von-fluechtlingen-a-a13fe780-1cd2-4ec0-8684-044d1df7a0e7#ref=rss)
-### erste
+* [https://www.spiegel.de/sport/olympia/sam-ruddock-paralympics-teilnehmer-seit-april-in-las-vegas-verschwunden](https://www.spiegel.de/sport/olympia/sam-ruddock-paralympics-teilnehmer-seit-april-in-las-vegas-verschwunden-a-1498a7e7-dfc8-4d3d-b118-f89d82dc16d8#ref=rss)
+### laut
 
-* [https://www.spiegel.de/politik/syrien-nancy-faeser-spricht-in-damaskus-ueber-rueckkehr-von-fluechtlingen](https://www.spiegel.de/politik/syrien-nancy-faeser-spricht-in-damaskus-ueber-rueckkehr-von-fluechtlingen-a-a13fe780-1cd2-4ec0-8684-044d1df7a0e7#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-testet-die-grenzen-seiner-macht-die-ersten-100-tage-im-amt](https://www.spiegel.de/ausland/donald-trump-testet-die-grenzen-seiner-macht-die-ersten-100-tage-im-amt-a-abe0dad2-1d9d-41c4-a763-d611f4aa4932#ref=rss)
-### beste
+* [https://www.spiegel.de/sport/olympia/sam-ruddock-paralympics-teilnehmer-seit-april-in-las-vegas-verschwunden](https://www.spiegel.de/sport/olympia/sam-ruddock-paralympics-teilnehmer-seit-april-in-las-vegas-verschwunden-a-1498a7e7-dfc8-4d3d-b118-f89d82dc16d8#ref=rss)
+* [https://www.spiegel.de/kultur/wolfram-weimer-ex-welt-chefredakteur-soll-fuer-cdu-neuer-kulturstaatsminister-werden](https://www.spiegel.de/kultur/wolfram-weimer-ex-welt-chefredakteur-soll-fuer-cdu-neuer-kulturstaatsminister-werden-a-2ead6711-a69f-4b37-9d50-9a9cdd72fab5#ref=rss)
+### moschee
 
-* [https://www.spiegel.de/tests/fahrrad-zubehoer/faltraeder-von-brompton-mueller-riese-dahon-tern-vello-und-bergsteiger-im-test](https://www.spiegel.de/tests/fahrrad-zubehoer/faltraeder-von-brompton-mueller-riese-dahon-tern-vello-und-bergsteiger-im-test-a-08977d44-f883-4fc8-a961-f7d737fa8c31#ref=rss)
-### fahrrad
+* [https://www.spiegel.de/panorama/justiz/la-grand-combe-in-frankreich-gesuchter-stellt-sich-nach-bluttat-in-moschee](https://www.spiegel.de/panorama/justiz/la-grand-combe-in-frankreich-gesuchter-stellt-sich-nach-bluttat-in-moschee-a-06def602-04c5-4471-88e2-28b2ecd138d3#ref=rss)
+### italien
 
-* [https://www.spiegel.de/tests/fahrrad-zubehoer/faltraeder-von-brompton-mueller-riese-dahon-tern-vello-und-bergsteiger-im-test](https://www.spiegel.de/tests/fahrrad-zubehoer/faltraeder-von-brompton-mueller-riese-dahon-tern-vello-und-bergsteiger-im-test-a-08977d44-f883-4fc8-a961-f7d737fa8c31#ref=rss)
-### groß
+* [https://www.spiegel.de/panorama/justiz/la-grand-combe-in-frankreich-gesuchter-stellt-sich-nach-bluttat-in-moschee](https://www.spiegel.de/panorama/justiz/la-grand-combe-in-frankreich-gesuchter-stellt-sich-nach-bluttat-in-moschee-a-06def602-04c5-4471-88e2-28b2ecd138d3#ref=rss)
+* [https://www.spiegel.de/geschichte/benito-mussolini-wie-der-tote-diktator-in-italien-nach-kriegsende-verschwand](https://www.spiegel.de/geschichte/benito-mussolini-wie-der-tote-diktator-in-italien-nach-kriegsende-verschwand-a-3782dac1-7105-401c-95e3-d18ce8b57f3a#ref=rss)
+### stiftung
 
-* [https://www.spiegel.de/karriere/raetsel-der-woche-wie-gross-ist-der-spitze-winkel](https://www.spiegel.de/karriere/raetsel-der-woche-wie-gross-ist-der-spitze-winkel-a-f5f1bb5a-8afe-4d93-8c55-7cac2588c0e5#ref=rss)
-### winkel
+* [https://www.spiegel.de/familie/stiftung-warentest-zu-vollwaschmitteln-pulver-sind-besser-als-fluessige-waschmittel](https://www.spiegel.de/familie/stiftung-warentest-zu-vollwaschmitteln-pulver-sind-besser-als-fluessige-waschmittel-a-32bb366b-cfb9-463b-a3ed-e7d68b33ea62#ref=rss)
+### warentest
 
-* [https://www.spiegel.de/karriere/raetsel-der-woche-wie-gross-ist-der-spitze-winkel](https://www.spiegel.de/karriere/raetsel-der-woche-wie-gross-ist-der-spitze-winkel-a-f5f1bb5a-8afe-4d93-8c55-7cac2588c0e5#ref=rss)
-### gleich
+* [https://www.spiegel.de/familie/stiftung-warentest-zu-vollwaschmitteln-pulver-sind-besser-als-fluessige-waschmittel](https://www.spiegel.de/familie/stiftung-warentest-zu-vollwaschmitteln-pulver-sind-besser-als-fluessige-waschmittel-a-32bb366b-cfb9-463b-a3ed-e7d68b33ea62#ref=rss)
+### pulver
 
-* [https://www.spiegel.de/karriere/raetsel-der-woche-wie-gross-ist-der-spitze-winkel](https://www.spiegel.de/karriere/raetsel-der-woche-wie-gross-ist-der-spitze-winkel-a-f5f1bb5a-8afe-4d93-8c55-7cac2588c0e5#ref=rss)
-### istanbuler
+* [https://www.spiegel.de/familie/stiftung-warentest-zu-vollwaschmitteln-pulver-sind-besser-als-fluessige-waschmittel](https://www.spiegel.de/familie/stiftung-warentest-zu-vollwaschmitteln-pulver-sind-besser-als-fluessige-waschmittel-a-32bb366b-cfb9-463b-a3ed-e7d68b33ea62#ref=rss)
+### ärztepaar
 
-* [https://www.spiegel.de/ausland/50-mitarbeiter-der-istanbuler-stadtverwaltung-festgenommen](https://www.spiegel.de/ausland/50-mitarbeiter-der-istanbuler-stadtverwaltung-festgenommen-a-e1d129cd-a9b5-405e-a09e-975da68b4e0f#ref=rss)
-### stadtverwaltung
+* [https://www.spiegel.de/ausland/kindersterblichkeit-in-indien-aerztepaar-rettete-millionen-kindern-das-leben](https://www.spiegel.de/ausland/kindersterblichkeit-in-indien-aerztepaar-rettete-millionen-kindern-das-leben-a-3563dfde-50e9-45b3-8c5b-56a0d7c5303a#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/ausland/50-mitarbeiter-der-istanbuler-stadtverwaltung-festgenommen](https://www.spiegel.de/ausland/50-mitarbeiter-der-istanbuler-stadtverwaltung-festgenommen-a-e1d129cd-a9b5-405e-a09e-975da68b4e0f#ref=rss)
-### festgenommen
+* [https://www.spiegel.de/ausland/kindersterblichkeit-in-indien-aerztepaar-rettete-millionen-kindern-das-leben](https://www.spiegel.de/ausland/kindersterblichkeit-in-indien-aerztepaar-rettete-millionen-kindern-das-leben-a-3563dfde-50e9-45b3-8c5b-56a0d7c5303a#ref=rss)
+* [https://www.spiegel.de/geschichte/benito-mussolini-wie-der-tote-diktator-in-italien-nach-kriegsende-verschwand](https://www.spiegel.de/geschichte/benito-mussolini-wie-der-tote-diktator-in-italien-nach-kriegsende-verschwand-a-3782dac1-7105-401c-95e3-d18ce8b57f3a#ref=rss)
+### welt
 
-* [https://www.spiegel.de/ausland/50-mitarbeiter-der-istanbuler-stadtverwaltung-festgenommen](https://www.spiegel.de/ausland/50-mitarbeiter-der-istanbuler-stadtverwaltung-festgenommen-a-e1d129cd-a9b5-405e-a09e-975da68b4e0f#ref=rss)
-### teppich
+* [https://www.spiegel.de/ausland/kindersterblichkeit-in-indien-aerztepaar-rettete-millionen-kindern-das-leben](https://www.spiegel.de/ausland/kindersterblichkeit-in-indien-aerztepaar-rettete-millionen-kindern-das-leben-a-3563dfde-50e9-45b3-8c5b-56a0d7c5303a#ref=rss)
+* [https://www.spiegel.de/panorama/erik-weihenmayer-erster-blinder-mount-everest-bergsteiger-ueber-muell-im-himalaya-entsetzt](https://www.spiegel.de/panorama/erik-weihenmayer-erster-blinder-mount-everest-bergsteiger-ueber-muell-im-himalaya-entsetzt-a-70c0a853-293b-410c-ba94-f96f7a834f52#ref=rss)
+### kennt
 
-* [https://www.spiegel.de/geschichte/historiker-streiten-ueber-penisse-auf-dem-teppich-von-bayeux-sind-es-93-oder-94](https://www.spiegel.de/geschichte/historiker-streiten-ueber-penisse-auf-dem-teppich-von-bayeux-sind-es-93-oder-94-a-a8297d5d-2062-4013-8b66-9a20b907048b#ref=rss)
-### bayeux
+* [https://www.spiegel.de/ausland/kindersterblichkeit-in-indien-aerztepaar-rettete-millionen-kindern-das-leben](https://www.spiegel.de/ausland/kindersterblichkeit-in-indien-aerztepaar-rettete-millionen-kindern-das-leben-a-3563dfde-50e9-45b3-8c5b-56a0d7c5303a#ref=rss)
+* [https://www.spiegel.de/kultur/florian-schroeder-ist-einer-der-bekanntesten-satiriker-deutschlands-wer-kennt-diesen-mann](https://www.spiegel.de/kultur/florian-schroeder-ist-einer-der-bekanntesten-satiriker-deutschlands-wer-kennt-diesen-mann-a-ddf36220-dc63-414e-967d-e431226fc094#ref=rss)
+### benito
 
-* [https://www.spiegel.de/geschichte/historiker-streiten-ueber-penisse-auf-dem-teppich-von-bayeux-sind-es-93-oder-94](https://www.spiegel.de/geschichte/historiker-streiten-ueber-penisse-auf-dem-teppich-von-bayeux-sind-es-93-oder-94-a-a8297d5d-2062-4013-8b66-9a20b907048b#ref=rss)
-### macht
+* [https://www.spiegel.de/geschichte/benito-mussolini-wie-der-tote-diktator-in-italien-nach-kriegsende-verschwand](https://www.spiegel.de/geschichte/benito-mussolini-wie-der-tote-diktator-in-italien-nach-kriegsende-verschwand-a-3782dac1-7105-401c-95e3-d18ce8b57f3a#ref=rss)
+### mussolini
 
-* [https://www.spiegel.de/ausland/donald-trump-testet-die-grenzen-seiner-macht-die-ersten-100-tage-im-amt](https://www.spiegel.de/ausland/donald-trump-testet-die-grenzen-seiner-macht-die-ersten-100-tage-im-amt-a-abe0dad2-1d9d-41c4-a763-d611f4aa4932#ref=rss)
-### whatsapp
+* [https://www.spiegel.de/geschichte/benito-mussolini-wie-der-tote-diktator-in-italien-nach-kriegsende-verschwand](https://www.spiegel.de/geschichte/benito-mussolini-wie-der-tote-diktator-in-italien-nach-kriegsende-verschwand-a-3782dac1-7105-401c-95e3-d18ce8b57f3a#ref=rss)
+### versteckt
 
-* [https://www.spiegel.de/netzwelt/apps/metas-ki-chatbot-fuer-whatsapp-und-instagram-liess-offenbar-sex-chats-mit-minderjaehrigen-zu](https://www.spiegel.de/netzwelt/apps/metas-ki-chatbot-fuer-whatsapp-und-instagram-liess-offenbar-sex-chats-mit-minderjaehrigen-zu-a-d2c7161b-799c-4087-bfec-3d6946780494#ref=rss)
-### instagram
+* [https://www.spiegel.de/geschichte/benito-mussolini-wie-der-tote-diktator-in-italien-nach-kriegsende-verschwand](https://www.spiegel.de/geschichte/benito-mussolini-wie-der-tote-diktator-in-italien-nach-kriegsende-verschwand-a-3782dac1-7105-401c-95e3-d18ce8b57f3a#ref=rss)
+### florian
 
-* [https://www.spiegel.de/netzwelt/apps/metas-ki-chatbot-fuer-whatsapp-und-instagram-liess-offenbar-sex-chats-mit-minderjaehrigen-zu](https://www.spiegel.de/netzwelt/apps/metas-ki-chatbot-fuer-whatsapp-und-instagram-liess-offenbar-sex-chats-mit-minderjaehrigen-zu-a-d2c7161b-799c-4087-bfec-3d6946780494#ref=rss)
-### meta
+* [https://www.spiegel.de/kultur/florian-schroeder-ist-einer-der-bekanntesten-satiriker-deutschlands-wer-kennt-diesen-mann](https://www.spiegel.de/kultur/florian-schroeder-ist-einer-der-bekanntesten-satiriker-deutschlands-wer-kennt-diesen-mann-a-ddf36220-dc63-414e-967d-e431226fc094#ref=rss)
+### schroeder
 
-* [https://www.spiegel.de/netzwelt/apps/metas-ki-chatbot-fuer-whatsapp-und-instagram-liess-offenbar-sex-chats-mit-minderjaehrigen-zu](https://www.spiegel.de/netzwelt/apps/metas-ki-chatbot-fuer-whatsapp-und-instagram-liess-offenbar-sex-chats-mit-minderjaehrigen-zu-a-d2c7161b-799c-4087-bfec-3d6946780494#ref=rss)
-### fragen
+* [https://www.spiegel.de/kultur/florian-schroeder-ist-einer-der-bekanntesten-satiriker-deutschlands-wer-kennt-diesen-mann](https://www.spiegel.de/kultur/florian-schroeder-ist-einer-der-bekanntesten-satiriker-deutschlands-wer-kennt-diesen-mann-a-ddf36220-dc63-414e-967d-e431226fc094#ref=rss)
+### bekanntesten
 
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### tag
+* [https://www.spiegel.de/kultur/florian-schroeder-ist-einer-der-bekanntesten-satiriker-deutschlands-wer-kennt-diesen-mann](https://www.spiegel.de/kultur/florian-schroeder-ist-einer-der-bekanntesten-satiriker-deutschlands-wer-kennt-diesen-mann-a-ddf36220-dc63-414e-967d-e431226fc094#ref=rss)
+### satiriker
 
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/kultur/florian-schroeder-ist-einer-der-bekanntesten-satiriker-deutschlands-wer-kennt-diesen-mann](https://www.spiegel.de/kultur/florian-schroeder-ist-einer-der-bekanntesten-satiriker-deutschlands-wer-kennt-diesen-mann-a-ddf36220-dc63-414e-967d-e431226fc094#ref=rss)
+### mann
+
+* [https://www.spiegel.de/kultur/florian-schroeder-ist-einer-der-bekanntesten-satiriker-deutschlands-wer-kennt-diesen-mann](https://www.spiegel.de/kultur/florian-schroeder-ist-einer-der-bekanntesten-satiriker-deutschlands-wer-kennt-diesen-mann-a-ddf36220-dc63-414e-967d-e431226fc094#ref=rss)
+* [https://www.spiegel.de/kultur/wolfram-weimer-ex-welt-chefredakteur-soll-fuer-cdu-neuer-kulturstaatsminister-werden](https://www.spiegel.de/kultur/wolfram-weimer-ex-welt-chefredakteur-soll-fuer-cdu-neuer-kulturstaatsminister-werden-a-2ead6711-a69f-4b37-9d50-9a9cdd72fab5#ref=rss)
+### bisher
+
+* [https://www.spiegel.de/kultur/florian-schroeder-ist-einer-der-bekanntesten-satiriker-deutschlands-wer-kennt-diesen-mann](https://www.spiegel.de/kultur/florian-schroeder-ist-einer-der-bekanntesten-satiriker-deutschlands-wer-kennt-diesen-mann-a-ddf36220-dc63-414e-967d-e431226fc094#ref=rss)
+* [https://www.spiegel.de/kultur/wolfram-weimer-ex-welt-chefredakteur-soll-fuer-cdu-neuer-kulturstaatsminister-werden](https://www.spiegel.de/kultur/wolfram-weimer-ex-welt-chefredakteur-soll-fuer-cdu-neuer-kulturstaatsminister-werden-a-2ead6711-a69f-4b37-9d50-9a9cdd72fab5#ref=rss)
+### kirche
+
+* [https://www.spiegel.de/politik/deutschland/katholische-kirche-warum-es-gut-ist-dass-die-kirche-immer-mehr-an-bedeutung-verliert-meinung](https://www.spiegel.de/politik/deutschland/katholische-kirche-warum-es-gut-ist-dass-die-kirche-immer-mehr-an-bedeutung-verliert-meinung-a-20ca6202-7592-420b-a564-17399bb5b68f#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/politik/deutschland/katholische-kirche-warum-es-gut-ist-dass-die-kirche-immer-mehr-an-bedeutung-verliert-meinung](https://www.spiegel.de/politik/deutschland/katholische-kirche-warum-es-gut-ist-dass-die-kirche-immer-mehr-an-bedeutung-verliert-meinung-a-20ca6202-7592-420b-a564-17399bb5b68f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/sylt-video-ermittlungen-wegen-rechtsextremer-gesaenge-in-pony-bar-ueberwiegend-eingestellt](https://www.spiegel.de/panorama/justiz/sylt-video-ermittlungen-wegen-rechtsextremer-gesaenge-in-pony-bar-ueberwiegend-eingestellt-a-936ff3ab-c0ae-425e-bb20-267190187c37#ref=rss)
+### airbus
+
+* [https://www.spiegel.de/wirtschaft/airbus-uebernahme-von-spirit-anlagen-nach-einigung-mit-boeing](https://www.spiegel.de/wirtschaft/airbus-uebernahme-von-spirit-anlagen-nach-einigung-mit-boeing-a-198720a2-7298-42aa-89a2-122a7d2168c0#ref=rss)
+### einigung
+
+* [https://www.spiegel.de/wirtschaft/airbus-uebernahme-von-spirit-anlagen-nach-einigung-mit-boeing](https://www.spiegel.de/wirtschaft/airbus-uebernahme-von-spirit-anlagen-nach-einigung-mit-boeing-a-198720a2-7298-42aa-89a2-122a7d2168c0#ref=rss)
+### boeing
+
+* [https://www.spiegel.de/wirtschaft/airbus-uebernahme-von-spirit-anlagen-nach-einigung-mit-boeing](https://www.spiegel.de/wirtschaft/airbus-uebernahme-von-spirit-anlagen-nach-einigung-mit-boeing-a-198720a2-7298-42aa-89a2-122a7d2168c0#ref=rss)
+### florida
+
+* [https://www.spiegel.de/panorama/florida-ein-toter-bei-faehrunglueck-nahe-tampa](https://www.spiegel.de/panorama/florida-ein-toter-bei-faehrunglueck-nahe-tampa-a-a65f8456-501a-481b-9a17-5cf9439233f4#ref=rss)
+### erwartungen
+
+* [https://www.spiegel.de/psychologie/prokrastinieren-und-selbstueberlistung-warum-unrealistische-erwartungen-kein-plan-sind](https://www.spiegel.de/psychologie/prokrastinieren-und-selbstueberlistung-warum-unrealistische-erwartungen-kein-plan-sind-a-2e85ab4a-d18b-4385-8fad-8845eb4287e4#ref=rss)
+### plan
+
+* [https://www.spiegel.de/psychologie/prokrastinieren-und-selbstueberlistung-warum-unrealistische-erwartungen-kein-plan-sind](https://www.spiegel.de/psychologie/prokrastinieren-und-selbstueberlistung-warum-unrealistische-erwartungen-kein-plan-sind-a-2e85ab4a-d18b-4385-8fad-8845eb4287e4#ref=rss)
+### vulkan
+
+* [https://www.spiegel.de/panorama/indonesien-vulkan-lewotobi-laki-laki-spuckt-wieder-feuer](https://www.spiegel.de/panorama/indonesien-vulkan-lewotobi-laki-laki-spuckt-wieder-feuer-a-b191f6fd-b4d2-4c77-95a5-9c16df65f3d4#ref=rss)
+### lewotobi
+
+* [https://www.spiegel.de/panorama/indonesien-vulkan-lewotobi-laki-laki-spuckt-wieder-feuer](https://www.spiegel.de/panorama/indonesien-vulkan-lewotobi-laki-laki-spuckt-wieder-feuer-a-b191f6fd-b4d2-4c77-95a5-9c16df65f3d4#ref=rss)
+### lakilaki
+
+* [https://www.spiegel.de/panorama/indonesien-vulkan-lewotobi-laki-laki-spuckt-wieder-feuer](https://www.spiegel.de/panorama/indonesien-vulkan-lewotobi-laki-laki-spuckt-wieder-feuer-a-b191f6fd-b4d2-4c77-95a5-9c16df65f3d4#ref=rss)
+### erik
+
+* [https://www.spiegel.de/panorama/erik-weihenmayer-erster-blinder-mount-everest-bergsteiger-ueber-muell-im-himalaya-entsetzt](https://www.spiegel.de/panorama/erik-weihenmayer-erster-blinder-mount-everest-bergsteiger-ueber-muell-im-himalaya-entsetzt-a-70c0a853-293b-410c-ba94-f96f7a834f52#ref=rss)
+### weihenmayer
+
+* [https://www.spiegel.de/panorama/erik-weihenmayer-erster-blinder-mount-everest-bergsteiger-ueber-muell-im-himalaya-entsetzt](https://www.spiegel.de/panorama/erik-weihenmayer-erster-blinder-mount-everest-bergsteiger-ueber-muell-im-himalaya-entsetzt-a-70c0a853-293b-410c-ba94-f96f7a834f52#ref=rss)
 
