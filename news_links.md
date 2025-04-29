@@ -4,363 +4,310 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### deutschland
-
-* [https://www.spiegel.de/auto/autounfaelle-senioren-sind-haeufiger-an-autounfaellen-beteiligt-und-auch-oefter-schuld](https://www.spiegel.de/auto/autounfaelle-senioren-sind-haeufiger-an-autounfaellen-beteiligt-und-auch-oefter-schuld-a-5e9df7b1-cc0f-4f28-aa0d-4b055faa9af3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/armutsbericht-zahl-der-armen-in-deutschland-steigt-laut-paritaetischem-wohlfahrtsverband](https://www.spiegel.de/wirtschaft/soziales/armutsbericht-zahl-der-armen-in-deutschland-steigt-laut-paritaetischem-wohlfahrtsverband-a-4fbbcb6e-cfbc-4b74-8598-5aca8f6de582#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/halle-saale-mutmassliche-anschlagsplaene-auf-synagoge-haftbefehl-gegen-19-jaehrigen-vollstreckt](https://www.spiegel.de/panorama/justiz/halle-saale-mutmassliche-anschlagsplaene-auf-synagoge-haftbefehl-gegen-19-jaehrigen-vollstreckt-a-045af9d8-32ad-4fb8-91a1-5f12264a7a45#ref=rss)
-* [https://www.spiegel.de/panorama/wahlrecht-fuer-fuenfjaehrige-interview-mit-der-erziehungsberaterin-eloise-rickman](https://www.spiegel.de/panorama/wahlrecht-fuer-fuenfjaehrige-interview-mit-der-erziehungsberaterin-eloise-rickman-a-43d97418-6659-4eb2-9ae8-b9b8741ecbeb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/konsumklima-deutsche-verbraucher-zeigen-wieder-mehr-kauflaune](https://www.spiegel.de/wirtschaft/service/konsumklima-deutsche-verbraucher-zeigen-wieder-mehr-kauflaune-a-8344d454-9c66-41a1-8d7f-cd28d605487d#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/donald-trump-und-die-zoelle-autozulieferer-fehrer-leidet-trotz-us-produktion](https://www.spiegel.de/wirtschaft/soziales/donald-trump-und-die-zoelle-autozulieferer-fehrer-leidet-trotz-us-produktion-a-d6bcd53d-0a53-4b2e-bf98-7a7ec093dc6d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/konsumklima-deutsche-verbraucher-zeigen-wieder-mehr-kauflaune](https://www.spiegel.de/wirtschaft/service/konsumklima-deutsche-verbraucher-zeigen-wieder-mehr-kauflaune-a-8344d454-9c66-41a1-8d7f-cd28d605487d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-meldet-hoechsten-quartalsgewinn-seit-14-jahren](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-meldet-hoechsten-quartalsgewinn-seit-14-jahren-a-073b339f-428c-40c8-9a3e-d23a0bc49e3a#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-verlust-zum-jahresauftakt-und-mehr-buchungen-aus-den-usa](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-verlust-zum-jahresauftakt-und-mehr-buchungen-aus-den-usa-a-7de44b9e-9e62-47ab-8d20-d5ba7b36919d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/konsumklima-deutsche-verbraucher-zeigen-wieder-mehr-kauflaune](https://www.spiegel.de/wirtschaft/service/konsumklima-deutsche-verbraucher-zeigen-wieder-mehr-kauflaune-a-8344d454-9c66-41a1-8d7f-cd28d605487d#ref=rss)
-* [https://www.spiegel.de/panorama/spanien-und-portugal-stromversorgung-nach-blackout-fast-vollstaendig-wiederhergestellt](https://www.spiegel.de/panorama/spanien-und-portugal-stromversorgung-nach-blackout-fast-vollstaendig-wiederhergestellt-a-9d444254-0625-41bf-ba79-6d669ea67bd3#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/china-mindestens-22-menschen-sterben-bei-brand-in-restaurant](https://www.spiegel.de/panorama/china-mindestens-22-menschen-sterben-bei-brand-in-restaurant-a-a37b2043-3f9f-4657-83da-9092e9995deb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/armutsbericht-zahl-der-armen-in-deutschland-steigt-laut-paritaetischem-wohlfahrtsverband](https://www.spiegel.de/wirtschaft/soziales/armutsbericht-zahl-der-armen-in-deutschland-steigt-laut-paritaetischem-wohlfahrtsverband-a-4fbbcb6e-cfbc-4b74-8598-5aca8f6de582#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ig-metall-chefin-christiane-benner-dringender-appell-an-kuenftige-bundesregierung](https://www.spiegel.de/wirtschaft/ig-metall-chefin-christiane-benner-dringender-appell-an-kuenftige-bundesregierung-a-d9d592db-ba24-43be-b004-8daa2f4711ee#ref=rss)
-### mark
-
-* [https://www.spiegel.de/ausland/kanada-ursula-von-der-leyen-gratuliert-wahlsieger-mark-carney](https://www.spiegel.de/ausland/kanada-ursula-von-der-leyen-gratuliert-wahlsieger-mark-carney-a-fec96dfc-34cb-43f4-89dd-cc3e0483c58c#ref=rss)
-* [https://www.spiegel.de/panorama/rotterdam-kind-beschaedigt-gemaelde-von-mark-rothko-in-niederlaendischem-museum](https://www.spiegel.de/panorama/rotterdam-kind-beschaedigt-gemaelde-von-mark-rothko-in-niederlaendischem-museum-a-1c326fb6-438d-4af1-ac6b-1ec649d2f91a#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/kanada-ursula-von-der-leyen-gratuliert-wahlsieger-mark-carney](https://www.spiegel.de/ausland/kanada-ursula-von-der-leyen-gratuliert-wahlsieger-mark-carney-a-fec96dfc-34cb-43f4-89dd-cc3e0483c58c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-verlust-zum-jahresauftakt-und-mehr-buchungen-aus-den-usa](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-verlust-zum-jahresauftakt-und-mehr-buchungen-aus-den-usa-a-7de44b9e-9e62-47ab-8d20-d5ba7b36919d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/donald-trump-und-die-zoelle-autozulieferer-fehrer-leidet-trotz-us-produktion](https://www.spiegel.de/wirtschaft/soziales/donald-trump-und-die-zoelle-autozulieferer-fehrer-leidet-trotz-us-produktion-a-d6bcd53d-0a53-4b2e-bf98-7a7ec093dc6d#ref=rss)
-### unter
-
-* [https://www.spiegel.de/ausland/malta-eugh-urteil-stuft-goldene-paesse-als-unzulaessig-ein](https://www.spiegel.de/ausland/malta-eugh-urteil-stuft-goldene-paesse-als-unzulaessig-ein-a-ae606bd7-6368-4cbc-9d2f-b84ce0a5c53f#ref=rss)
-* [https://www.spiegel.de/panorama/rotterdam-kind-beschaedigt-gemaelde-von-mark-rothko-in-niederlaendischem-museum](https://www.spiegel.de/panorama/rotterdam-kind-beschaedigt-gemaelde-von-mark-rothko-in-niederlaendischem-museum-a-1c326fb6-438d-4af1-ac6b-1ec649d2f91a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-verlust-zum-jahresauftakt-und-mehr-buchungen-aus-den-usa](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-verlust-zum-jahresauftakt-und-mehr-buchungen-aus-den-usa-a-7de44b9e-9e62-47ab-8d20-d5ba7b36919d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/donald-trump-und-die-zoelle-autozulieferer-fehrer-leidet-trotz-us-produktion](https://www.spiegel.de/wirtschaft/soziales/donald-trump-und-die-zoelle-autozulieferer-fehrer-leidet-trotz-us-produktion-a-d6bcd53d-0a53-4b2e-bf98-7a7ec093dc6d#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/sport/fussball/fussball-carsten-jancker-wird-trainer-in-der-oesterreichischen-bundesliga-bei-austria-klagenfurt](https://www.spiegel.de/sport/fussball/fussball-carsten-jancker-wird-trainer-in-der-oesterreichischen-bundesliga-bei-austria-klagenfurt-a-1f78666c-412b-4421-a7cb-071f518a8093#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-verlust-zum-jahresauftakt-und-mehr-buchungen-aus-den-usa](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-verlust-zum-jahresauftakt-und-mehr-buchungen-aus-den-usa-a-7de44b9e-9e62-47ab-8d20-d5ba7b36919d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-meldet-hoechsten-quartalsgewinn-seit-14-jahren](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-meldet-hoechsten-quartalsgewinn-seit-14-jahren-a-073b339f-428c-40c8-9a3e-d23a0bc49e3a#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/auto/autounfaelle-senioren-sind-haeufiger-an-autounfaellen-beteiligt-und-auch-oefter-schuld](https://www.spiegel.de/auto/autounfaelle-senioren-sind-haeufiger-an-autounfaellen-beteiligt-und-auch-oefter-schuld-a-5e9df7b1-cc0f-4f28-aa0d-4b055faa9af3#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-angelo-becciu-verzichtet-auf-teilnahme-an-konklave](https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-angelo-becciu-verzichtet-auf-teilnahme-an-konklave-a-7d8bae3d-760e-4b90-a051-7d830545ba46#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-meldet-hoechsten-quartalsgewinn-seit-14-jahren](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-meldet-hoechsten-quartalsgewinn-seit-14-jahren-a-073b339f-428c-40c8-9a3e-d23a0bc49e3a#ref=rss)
-### new
-
-* [https://www.spiegel.de/auto/new-york-city-neuer-u-bahn-plan-erleichtert-touristen-die-orientierung-und-irritiert-new-yorker](https://www.spiegel.de/auto/new-york-city-neuer-u-bahn-plan-erleichtert-touristen-die-orientierung-und-irritiert-new-yorker-a-5cb4083d-2a58-44df-8a03-8b31f05c8d4f#ref=rss)
-### papst
-
-* [https://www.spiegel.de/sport/fussball/papst-franziskus-korruptionsvorwuerfe-gegen-seinen-lieblingsklub-san-lorenzo](https://www.spiegel.de/sport/fussball/papst-franziskus-korruptionsvorwuerfe-gegen-seinen-lieblingsklub-san-lorenzo-a-5cb9681e-0b5c-425e-a640-481cbc055fdc#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-angelo-becciu-verzichtet-auf-teilnahme-an-konklave](https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-angelo-becciu-verzichtet-auf-teilnahme-an-konklave-a-7d8bae3d-760e-4b90-a051-7d830545ba46#ref=rss)
-### franziskus
-
-* [https://www.spiegel.de/sport/fussball/papst-franziskus-korruptionsvorwuerfe-gegen-seinen-lieblingsklub-san-lorenzo](https://www.spiegel.de/sport/fussball/papst-franziskus-korruptionsvorwuerfe-gegen-seinen-lieblingsklub-san-lorenzo-a-5cb9681e-0b5c-425e-a640-481cbc055fdc#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-angelo-becciu-verzichtet-auf-teilnahme-an-konklave](https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-angelo-becciu-verzichtet-auf-teilnahme-an-konklave-a-7d8bae3d-760e-4b90-a051-7d830545ba46#ref=rss)
-### spanien
-
-* [https://www.spiegel.de/ausland/spanien-und-portugal-stromversorgung-nach-ausfall-wiederhergestellt](https://www.spiegel.de/ausland/spanien-und-portugal-stromversorgung-nach-ausfall-wiederhergestellt-a-de83ab4d-341a-4e90-9971-ef7d4655e0fd#ref=rss)
-* [https://www.spiegel.de/panorama/spanien-und-portugal-stromversorgung-nach-blackout-fast-vollstaendig-wiederhergestellt](https://www.spiegel.de/panorama/spanien-und-portugal-stromversorgung-nach-blackout-fast-vollstaendig-wiederhergestellt-a-9d444254-0625-41bf-ba79-6d669ea67bd3#ref=rss)
-### laut
-
-* [https://www.spiegel.de/wirtschaft/soziales/armutsbericht-zahl-der-armen-in-deutschland-steigt-laut-paritaetischem-wohlfahrtsverband](https://www.spiegel.de/wirtschaft/soziales/armutsbericht-zahl-der-armen-in-deutschland-steigt-laut-paritaetischem-wohlfahrtsverband-a-4fbbcb6e-cfbc-4b74-8598-5aca8f6de582#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/kartenzahlung-koalitionsvertrag-fordert-digitale-zahlungsoption-in-der-gastronomie](https://www.spiegel.de/wirtschaft/service/kartenzahlung-koalitionsvertrag-fordert-digitale-zahlungsoption-in-der-gastronomie-a-127837b7-46ca-43b0-b358-4bcb116fef9b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/konsumklima-deutsche-verbraucher-zeigen-wieder-mehr-kauflaune](https://www.spiegel.de/wirtschaft/service/konsumklima-deutsche-verbraucher-zeigen-wieder-mehr-kauflaune-a-8344d454-9c66-41a1-8d7f-cd28d605487d#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/kanada-ursula-von-der-leyen-gratuliert-wahlsieger-mark-carney](https://www.spiegel.de/ausland/kanada-ursula-von-der-leyen-gratuliert-wahlsieger-mark-carney-a-fec96dfc-34cb-43f4-89dd-cc3e0483c58c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/donald-trump-und-die-zoelle-autozulieferer-fehrer-leidet-trotz-us-produktion](https://www.spiegel.de/wirtschaft/soziales/donald-trump-und-die-zoelle-autozulieferer-fehrer-leidet-trotz-us-produktion-a-d6bcd53d-0a53-4b2e-bf98-7a7ec093dc6d#ref=rss)
-### zölle
-
-* [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/donald-trump-und-die-zoelle-autozulieferer-fehrer-leidet-trotz-us-produktion](https://www.spiegel.de/wirtschaft/soziales/donald-trump-und-die-zoelle-autozulieferer-fehrer-leidet-trotz-us-produktion-a-d6bcd53d-0a53-4b2e-bf98-7a7ec093dc6d#ref=rss)
-### geld
-
-* [https://www.spiegel.de/panorama/bildung/kitas-in-aermeren-stadtvierteln-gibt-es-weniger-einrichtungen-als-in-wohlhabenden](https://www.spiegel.de/panorama/bildung/kitas-in-aermeren-stadtvierteln-gibt-es-weniger-einrichtungen-als-in-wohlhabenden-a-d1bdebaa-5b18-4c0d-a124-9246c82b7dc3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/konsumklima-deutsche-verbraucher-zeigen-wieder-mehr-kauflaune](https://www.spiegel.de/wirtschaft/service/konsumklima-deutsche-verbraucher-zeigen-wieder-mehr-kauflaune-a-8344d454-9c66-41a1-8d7f-cd28d605487d#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/chatgpt-wird-zur-shopping-ki-chatbot-von-openai-gibt-produktempfehlungen](https://www.spiegel.de/netzwelt/web/chatgpt-wird-zur-shopping-ki-chatbot-von-openai-gibt-produktempfehlungen-a-7c030e4e-f78e-4ffa-a8b1-84932f654acc#ref=rss)
-### openai
-
-* [https://www.spiegel.de/netzwelt/web/chatgpt-wird-zur-shopping-ki-chatbot-von-openai-gibt-produktempfehlungen](https://www.spiegel.de/netzwelt/web/chatgpt-wird-zur-shopping-ki-chatbot-von-openai-gibt-produktempfehlungen-a-7c030e4e-f78e-4ffa-a8b1-84932f654acc#ref=rss)
-### carsten
-
-* [https://www.spiegel.de/sport/fussball/fussball-carsten-jancker-wird-trainer-in-der-oesterreichischen-bundesliga-bei-austria-klagenfurt](https://www.spiegel.de/sport/fussball/fussball-carsten-jancker-wird-trainer-in-der-oesterreichischen-bundesliga-bei-austria-klagenfurt-a-1f78666c-412b-4421-a7cb-071f518a8093#ref=rss)
-### jancker
-
-* [https://www.spiegel.de/sport/fussball/fussball-carsten-jancker-wird-trainer-in-der-oesterreichischen-bundesliga-bei-austria-klagenfurt](https://www.spiegel.de/sport/fussball/fussball-carsten-jancker-wird-trainer-in-der-oesterreichischen-bundesliga-bei-austria-klagenfurt-a-1f78666c-412b-4421-a7cb-071f518a8093#ref=rss)
-### austria
-
-* [https://www.spiegel.de/sport/fussball/fussball-carsten-jancker-wird-trainer-in-der-oesterreichischen-bundesliga-bei-austria-klagenfurt](https://www.spiegel.de/sport/fussball/fussball-carsten-jancker-wird-trainer-in-der-oesterreichischen-bundesliga-bei-austria-klagenfurt-a-1f78666c-412b-4421-a7cb-071f518a8093#ref=rss)
-### klagenfurt
-
-* [https://www.spiegel.de/sport/fussball/fussball-carsten-jancker-wird-trainer-in-der-oesterreichischen-bundesliga-bei-austria-klagenfurt](https://www.spiegel.de/sport/fussball/fussball-carsten-jancker-wird-trainer-in-der-oesterreichischen-bundesliga-bei-austria-klagenfurt-a-1f78666c-412b-4421-a7cb-071f518a8093#ref=rss)
-### klub
-
-* [https://www.spiegel.de/sport/fussball/fussball-carsten-jancker-wird-trainer-in-der-oesterreichischen-bundesliga-bei-austria-klagenfurt](https://www.spiegel.de/sport/fussball/fussball-carsten-jancker-wird-trainer-in-der-oesterreichischen-bundesliga-bei-austria-klagenfurt-a-1f78666c-412b-4421-a7cb-071f518a8093#ref=rss)
-* [https://www.spiegel.de/sport/fussball/papst-franziskus-korruptionsvorwuerfe-gegen-seinen-lieblingsklub-san-lorenzo](https://www.spiegel.de/sport/fussball/papst-franziskus-korruptionsvorwuerfe-gegen-seinen-lieblingsklub-san-lorenzo-a-5cb9681e-0b5c-425e-a640-481cbc055fdc#ref=rss)
-### reden
-
-* [https://www.spiegel.de/wissenschaft/mensch/reden-im-us-kongress-die-macht-des-bauchgefuehls](https://www.spiegel.de/wissenschaft/mensch/reden-im-us-kongress-die-macht-des-bauchgefuehls-a-42172dd2-59ed-4414-9e80-2acec792dec9#ref=rss)
-### uskongress
-
-* [https://www.spiegel.de/wissenschaft/mensch/reden-im-us-kongress-die-macht-des-bauchgefuehls](https://www.spiegel.de/wissenschaft/mensch/reden-im-us-kongress-die-macht-des-bauchgefuehls-a-42172dd2-59ed-4414-9e80-2acec792dec9#ref=rss)
-### schluss
-
-* [https://www.spiegel.de/wissenschaft/mensch/reden-im-us-kongress-die-macht-des-bauchgefuehls](https://www.spiegel.de/wissenschaft/mensch/reden-im-us-kongress-die-macht-des-bauchgefuehls-a-42172dd2-59ed-4414-9e80-2acec792dec9#ref=rss)
-* [https://www.spiegel.de/ausland/malta-eugh-urteil-stuft-goldene-paesse-als-unzulaessig-ein](https://www.spiegel.de/ausland/malta-eugh-urteil-stuft-goldene-paesse-als-unzulaessig-ein-a-ae606bd7-6368-4cbc-9d2f-b84ce0a5c53f#ref=rss)
-### mindestens
-
-* [https://www.spiegel.de/panorama/china-mindestens-22-menschen-sterben-bei-brand-in-restaurant](https://www.spiegel.de/panorama/china-mindestens-22-menschen-sterben-bei-brand-in-restaurant-a-a37b2043-3f9f-4657-83da-9092e9995deb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/kartenzahlung-koalitionsvertrag-fordert-digitale-zahlungsoption-in-der-gastronomie](https://www.spiegel.de/wirtschaft/service/kartenzahlung-koalitionsvertrag-fordert-digitale-zahlungsoption-in-der-gastronomie-a-127837b7-46ca-43b0-b358-4bcb116fef9b#ref=rss)
-### restaurant
-
-* [https://www.spiegel.de/panorama/china-mindestens-22-menschen-sterben-bei-brand-in-restaurant](https://www.spiegel.de/panorama/china-mindestens-22-menschen-sterben-bei-brand-in-restaurant-a-a37b2043-3f9f-4657-83da-9092e9995deb#ref=rss)
-### antonio
-
-* [https://www.spiegel.de/sport/fussball/nations-league-antonio-ruediger-verpasst-wohl-finalturnier-nach-knie-op](https://www.spiegel.de/sport/fussball/nations-league-antonio-ruediger-verpasst-wohl-finalturnier-nach-knie-op-a-868827dd-cb8d-4611-8f21-8466c54d1c3a#ref=rss)
-### rüdiger
-
-* [https://www.spiegel.de/sport/fussball/nations-league-antonio-ruediger-verpasst-wohl-finalturnier-nach-knie-op](https://www.spiegel.de/sport/fussball/nations-league-antonio-ruediger-verpasst-wohl-finalturnier-nach-knie-op-a-868827dd-cb8d-4611-8f21-8466c54d1c3a#ref=rss)
-### spanischen
-
-* [https://www.spiegel.de/sport/fussball/nations-league-antonio-ruediger-verpasst-wohl-finalturnier-nach-knie-op](https://www.spiegel.de/sport/fussball/nations-league-antonio-ruediger-verpasst-wohl-finalturnier-nach-knie-op-a-868827dd-cb8d-4611-8f21-8466c54d1c3a#ref=rss)
-* [https://www.spiegel.de/panorama/spanischer-netzbetreiber-schliesst-cyberattacke-als-ursache-von-stromausfall-aus](https://www.spiegel.de/panorama/spanischer-netzbetreiber-schliesst-cyberattacke-als-ursache-von-stromausfall-aus-a-ebd37b6f-2add-401f-b8db-e2a19bd761aa#ref=rss)
-### dürfte
-
-* [https://www.spiegel.de/sport/fussball/nations-league-antonio-ruediger-verpasst-wohl-finalturnier-nach-knie-op](https://www.spiegel.de/sport/fussball/nations-league-antonio-ruediger-verpasst-wohl-finalturnier-nach-knie-op-a-868827dd-cb8d-4611-8f21-8466c54d1c3a#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/chatgpt-wird-zur-shopping-ki-chatbot-von-openai-gibt-produktempfehlungen](https://www.spiegel.de/netzwelt/web/chatgpt-wird-zur-shopping-ki-chatbot-von-openai-gibt-produktempfehlungen-a-7c030e4e-f78e-4ffa-a8b1-84932f654acc#ref=rss)
-### touristen
-
-* [https://www.spiegel.de/auto/new-york-city-neuer-u-bahn-plan-erleichtert-touristen-die-orientierung-und-irritiert-new-yorker](https://www.spiegel.de/auto/new-york-city-neuer-u-bahn-plan-erleichtert-touristen-die-orientierung-und-irritiert-new-yorker-a-5cb4083d-2a58-44df-8a03-8b31f05c8d4f#ref=rss)
-### yorker
-
-* [https://www.spiegel.de/auto/new-york-city-neuer-u-bahn-plan-erleichtert-touristen-die-orientierung-und-irritiert-new-yorker](https://www.spiegel.de/auto/new-york-city-neuer-u-bahn-plan-erleichtert-touristen-die-orientierung-und-irritiert-new-yorker-a-5cb4083d-2a58-44df-8a03-8b31f05c8d4f#ref=rss)
-### san
-
-* [https://www.spiegel.de/sport/fussball/papst-franziskus-korruptionsvorwuerfe-gegen-seinen-lieblingsklub-san-lorenzo](https://www.spiegel.de/sport/fussball/papst-franziskus-korruptionsvorwuerfe-gegen-seinen-lieblingsklub-san-lorenzo-a-5cb9681e-0b5c-425e-a640-481cbc055fdc#ref=rss)
-### lorenzo
-
-* [https://www.spiegel.de/sport/fussball/papst-franziskus-korruptionsvorwuerfe-gegen-seinen-lieblingsklub-san-lorenzo](https://www.spiegel.de/sport/fussball/papst-franziskus-korruptionsvorwuerfe-gegen-seinen-lieblingsklub-san-lorenzo-a-5cb9681e-0b5c-425e-a640-481cbc055fdc#ref=rss)
-### charli
-
-* [https://www.spiegel.de/kultur/musik/charli-xcx-will-weiter-brat-sein](https://www.spiegel.de/kultur/musik/charli-xcx-will-weiter-brat-sein-a-719c92a3-25aa-4f0c-843f-225b5e86bf24#ref=rss)
-### xcx
-
-* [https://www.spiegel.de/kultur/musik/charli-xcx-will-weiter-brat-sein](https://www.spiegel.de/kultur/musik/charli-xcx-will-weiter-brat-sein-a-719c92a3-25aa-4f0c-843f-225b5e86bf24#ref=rss)
-### brat
-
-* [https://www.spiegel.de/kultur/musik/charli-xcx-will-weiter-brat-sein](https://www.spiegel.de/kultur/musik/charli-xcx-will-weiter-brat-sein-a-719c92a3-25aa-4f0c-843f-225b5e86bf24#ref=rss)
-### gerade
-
-* [https://www.spiegel.de/kultur/musik/charli-xcx-will-weiter-brat-sein](https://www.spiegel.de/kultur/musik/charli-xcx-will-weiter-brat-sein-a-719c92a3-25aa-4f0c-843f-225b5e86bf24#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/kartenzahlung-koalitionsvertrag-fordert-digitale-zahlungsoption-in-der-gastronomie](https://www.spiegel.de/wirtschaft/service/kartenzahlung-koalitionsvertrag-fordert-digitale-zahlungsoption-in-der-gastronomie-a-127837b7-46ca-43b0-b358-4bcb116fef9b#ref=rss)
-### erst
-
-* [https://www.spiegel.de/kultur/musik/charli-xcx-will-weiter-brat-sein](https://www.spiegel.de/kultur/musik/charli-xcx-will-weiter-brat-sein-a-719c92a3-25aa-4f0c-843f-225b5e86bf24#ref=rss)
-* [https://www.spiegel.de/kultur/musik/lily-allen-entschuldigt-sich-bei-katy-perry](https://www.spiegel.de/kultur/musik/lily-allen-entschuldigt-sich-bei-katy-perry-a-51e58008-07d5-4199-b9c1-b9bd39eda71c#ref=rss)
-### sängerin
-
-* [https://www.spiegel.de/kultur/musik/charli-xcx-will-weiter-brat-sein](https://www.spiegel.de/kultur/musik/charli-xcx-will-weiter-brat-sein-a-719c92a3-25aa-4f0c-843f-225b5e86bf24#ref=rss)
-* [https://www.spiegel.de/kultur/musik/lily-allen-entschuldigt-sich-bei-katy-perry](https://www.spiegel.de/kultur/musik/lily-allen-entschuldigt-sich-bei-katy-perry-a-51e58008-07d5-4199-b9c1-b9bd39eda71c#ref=rss)
-### portugal
-
-* [https://www.spiegel.de/ausland/spanien-und-portugal-stromversorgung-nach-ausfall-wiederhergestellt](https://www.spiegel.de/ausland/spanien-und-portugal-stromversorgung-nach-ausfall-wiederhergestellt-a-de83ab4d-341a-4e90-9971-ef7d4655e0fd#ref=rss)
-* [https://www.spiegel.de/panorama/spanien-und-portugal-stromversorgung-nach-blackout-fast-vollstaendig-wiederhergestellt](https://www.spiegel.de/panorama/spanien-und-portugal-stromversorgung-nach-blackout-fast-vollstaendig-wiederhergestellt-a-9d444254-0625-41bf-ba79-6d669ea67bd3#ref=rss)
-### stromversorgung
-
-* [https://www.spiegel.de/ausland/spanien-und-portugal-stromversorgung-nach-ausfall-wiederhergestellt](https://www.spiegel.de/ausland/spanien-und-portugal-stromversorgung-nach-ausfall-wiederhergestellt-a-de83ab4d-341a-4e90-9971-ef7d4655e0fd#ref=rss)
-* [https://www.spiegel.de/panorama/spanien-und-portugal-stromversorgung-nach-blackout-fast-vollstaendig-wiederhergestellt](https://www.spiegel.de/panorama/spanien-und-portugal-stromversorgung-nach-blackout-fast-vollstaendig-wiederhergestellt-a-9d444254-0625-41bf-ba79-6d669ea67bd3#ref=rss)
-### wiederhergestellt
-
-* [https://www.spiegel.de/ausland/spanien-und-portugal-stromversorgung-nach-ausfall-wiederhergestellt](https://www.spiegel.de/ausland/spanien-und-portugal-stromversorgung-nach-ausfall-wiederhergestellt-a-de83ab4d-341a-4e90-9971-ef7d4655e0fd#ref=rss)
-* [https://www.spiegel.de/panorama/spanien-und-portugal-stromversorgung-nach-blackout-fast-vollstaendig-wiederhergestellt](https://www.spiegel.de/panorama/spanien-und-portugal-stromversorgung-nach-blackout-fast-vollstaendig-wiederhergestellt-a-9d444254-0625-41bf-ba79-6d669ea67bd3#ref=rss)
-### strom
-
-* [https://www.spiegel.de/ausland/spanien-und-portugal-stromversorgung-nach-ausfall-wiederhergestellt](https://www.spiegel.de/ausland/spanien-und-portugal-stromversorgung-nach-ausfall-wiederhergestellt-a-de83ab4d-341a-4e90-9971-ef7d4655e0fd#ref=rss)
-* [https://www.spiegel.de/panorama/spanien-und-portugal-stromversorgung-nach-blackout-fast-vollstaendig-wiederhergestellt](https://www.spiegel.de/panorama/spanien-und-portugal-stromversorgung-nach-blackout-fast-vollstaendig-wiederhergestellt-a-9d444254-0625-41bf-ba79-6d669ea67bd3#ref=rss)
-### blackout
-
-* [https://www.spiegel.de/ausland/spanien-und-portugal-stromversorgung-nach-ausfall-wiederhergestellt](https://www.spiegel.de/ausland/spanien-und-portugal-stromversorgung-nach-ausfall-wiederhergestellt-a-de83ab4d-341a-4e90-9971-ef7d4655e0fd#ref=rss)
-* [https://www.spiegel.de/panorama/spanien-und-portugal-stromversorgung-nach-blackout-fast-vollstaendig-wiederhergestellt](https://www.spiegel.de/panorama/spanien-und-portugal-stromversorgung-nach-blackout-fast-vollstaendig-wiederhergestellt-a-9d444254-0625-41bf-ba79-6d669ea67bd3#ref=rss)
-### besonders
-
-* [https://www.spiegel.de/wirtschaft/soziales/armutsbericht-zahl-der-armen-in-deutschland-steigt-laut-paritaetischem-wohlfahrtsverband](https://www.spiegel.de/wirtschaft/soziales/armutsbericht-zahl-der-armen-in-deutschland-steigt-laut-paritaetischem-wohlfahrtsverband-a-4fbbcb6e-cfbc-4b74-8598-5aca8f6de582#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/kitas-in-aermeren-stadtvierteln-gibt-es-weniger-einrichtungen-als-in-wohlhabenden](https://www.spiegel.de/panorama/bildung/kitas-in-aermeren-stadtvierteln-gibt-es-weniger-einrichtungen-als-in-wohlhabenden-a-d1bdebaa-5b18-4c0d-a124-9246c82b7dc3#ref=rss)
-### stromausfall
-
-* [https://www.spiegel.de/panorama/spanischer-netzbetreiber-schliesst-cyberattacke-als-ursache-von-stromausfall-aus](https://www.spiegel.de/panorama/spanischer-netzbetreiber-schliesst-cyberattacke-als-ursache-von-stromausfall-aus-a-ebd37b6f-2add-401f-b8db-e2a19bd761aa#ref=rss)
-### massiven
-
-* [https://www.spiegel.de/panorama/spanischer-netzbetreiber-schliesst-cyberattacke-als-ursache-von-stromausfall-aus](https://www.spiegel.de/panorama/spanischer-netzbetreiber-schliesst-cyberattacke-als-ursache-von-stromausfall-aus-a-ebd37b6f-2add-401f-b8db-e2a19bd761aa#ref=rss)
-* [https://www.spiegel.de/panorama/spanien-und-portugal-stromversorgung-nach-blackout-fast-vollstaendig-wiederhergestellt](https://www.spiegel.de/panorama/spanien-und-portugal-stromversorgung-nach-blackout-fast-vollstaendig-wiederhergestellt-a-9d444254-0625-41bf-ba79-6d669ea67bd3#ref=rss)
-### carney
-
-* [https://www.spiegel.de/ausland/kanada-ursula-von-der-leyen-gratuliert-wahlsieger-mark-carney](https://www.spiegel.de/ausland/kanada-ursula-von-der-leyen-gratuliert-wahlsieger-mark-carney-a-fec96dfc-34cb-43f4-89dd-cc3e0483c58c#ref=rss)
-### angelo
-
-* [https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-angelo-becciu-verzichtet-auf-teilnahme-an-konklave](https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-angelo-becciu-verzichtet-auf-teilnahme-an-konklave-a-7d8bae3d-760e-4b90-a051-7d830545ba46#ref=rss)
-### becciu
-
-* [https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-angelo-becciu-verzichtet-auf-teilnahme-an-konklave](https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-angelo-becciu-verzichtet-auf-teilnahme-an-konklave-a-7d8bae3d-760e-4b90-a051-7d830545ba46#ref=rss)
-### lily
-
-* [https://www.spiegel.de/kultur/musik/lily-allen-entschuldigt-sich-bei-katy-perry](https://www.spiegel.de/kultur/musik/lily-allen-entschuldigt-sich-bei-katy-perry-a-51e58008-07d5-4199-b9c1-b9bd39eda71c#ref=rss)
-### allen
-
-* [https://www.spiegel.de/kultur/musik/lily-allen-entschuldigt-sich-bei-katy-perry](https://www.spiegel.de/kultur/musik/lily-allen-entschuldigt-sich-bei-katy-perry-a-51e58008-07d5-4199-b9c1-b9bd39eda71c#ref=rss)
-### katy
-
-* [https://www.spiegel.de/kultur/musik/lily-allen-entschuldigt-sich-bei-katy-perry](https://www.spiegel.de/kultur/musik/lily-allen-entschuldigt-sich-bei-katy-perry-a-51e58008-07d5-4199-b9c1-b9bd39eda71c#ref=rss)
-### perry
-
-* [https://www.spiegel.de/kultur/musik/lily-allen-entschuldigt-sich-bei-katy-perry](https://www.spiegel.de/kultur/musik/lily-allen-entschuldigt-sich-bei-katy-perry-a-51e58008-07d5-4199-b9c1-b9bd39eda71c#ref=rss)
-### koalitionsvertrag
-
-* [https://www.spiegel.de/wirtschaft/service/kartenzahlung-koalitionsvertrag-fordert-digitale-zahlungsoption-in-der-gastronomie](https://www.spiegel.de/wirtschaft/service/kartenzahlung-koalitionsvertrag-fordert-digitale-zahlungsoption-in-der-gastronomie-a-127837b7-46ca-43b0-b358-4bcb116fef9b#ref=rss)
-### fordert
-
-* [https://www.spiegel.de/wirtschaft/service/kartenzahlung-koalitionsvertrag-fordert-digitale-zahlungsoption-in-der-gastronomie](https://www.spiegel.de/wirtschaft/service/kartenzahlung-koalitionsvertrag-fordert-digitale-zahlungsoption-in-der-gastronomie-a-127837b7-46ca-43b0-b358-4bcb116fef9b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ig-metall-chefin-christiane-benner-dringender-appell-an-kuenftige-bundesregierung](https://www.spiegel.de/wirtschaft/ig-metall-chefin-christiane-benner-dringender-appell-an-kuenftige-bundesregierung-a-d9d592db-ba24-43be-b004-8daa2f4711ee#ref=rss)
-### digitale
-
-* [https://www.spiegel.de/wirtschaft/service/kartenzahlung-koalitionsvertrag-fordert-digitale-zahlungsoption-in-der-gastronomie](https://www.spiegel.de/wirtschaft/service/kartenzahlung-koalitionsvertrag-fordert-digitale-zahlungsoption-in-der-gastronomie-a-127837b7-46ca-43b0-b358-4bcb116fef9b#ref=rss)
-### zahlungsoption
-
-* [https://www.spiegel.de/wirtschaft/service/kartenzahlung-koalitionsvertrag-fordert-digitale-zahlungsoption-in-der-gastronomie](https://www.spiegel.de/wirtschaft/service/kartenzahlung-koalitionsvertrag-fordert-digitale-zahlungsoption-in-der-gastronomie-a-127837b7-46ca-43b0-b358-4bcb116fef9b#ref=rss)
-### gastronomie
-
-* [https://www.spiegel.de/wirtschaft/service/kartenzahlung-koalitionsvertrag-fordert-digitale-zahlungsoption-in-der-gastronomie](https://www.spiegel.de/wirtschaft/service/kartenzahlung-koalitionsvertrag-fordert-digitale-zahlungsoption-in-der-gastronomie-a-127837b7-46ca-43b0-b358-4bcb116fef9b#ref=rss)
-### umständen
-
-* [https://www.spiegel.de/ausland/malta-eugh-urteil-stuft-goldene-paesse-als-unzulaessig-ein](https://www.spiegel.de/ausland/malta-eugh-urteil-stuft-goldene-paesse-als-unzulaessig-ein-a-ae606bd7-6368-4cbc-9d2f-b84ce0a5c53f#ref=rss)
-* [https://www.spiegel.de/panorama/rotterdam-kind-beschaedigt-gemaelde-von-mark-rothko-in-niederlaendischem-museum](https://www.spiegel.de/panorama/rotterdam-kind-beschaedigt-gemaelde-von-mark-rothko-in-niederlaendischem-museum-a-1c326fb6-438d-4af1-ac6b-1ec649d2f91a#ref=rss)
-### halle
-
-* [https://www.spiegel.de/panorama/justiz/halle-saale-mutmassliche-anschlagsplaene-auf-synagoge-haftbefehl-gegen-19-jaehrigen-vollstreckt](https://www.spiegel.de/panorama/justiz/halle-saale-mutmassliche-anschlagsplaene-auf-synagoge-haftbefehl-gegen-19-jaehrigen-vollstreckt-a-045af9d8-32ad-4fb8-91a1-5f12264a7a45#ref=rss)
-### synagoge
-
-* [https://www.spiegel.de/panorama/justiz/halle-saale-mutmassliche-anschlagsplaene-auf-synagoge-haftbefehl-gegen-19-jaehrigen-vollstreckt](https://www.spiegel.de/panorama/justiz/halle-saale-mutmassliche-anschlagsplaene-auf-synagoge-haftbefehl-gegen-19-jaehrigen-vollstreckt-a-045af9d8-32ad-4fb8-91a1-5f12264a7a45#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/justiz/halle-saale-mutmassliche-anschlagsplaene-auf-synagoge-haftbefehl-gegen-19-jaehrigen-vollstreckt](https://www.spiegel.de/panorama/justiz/halle-saale-mutmassliche-anschlagsplaene-auf-synagoge-haftbefehl-gegen-19-jaehrigen-vollstreckt-a-045af9d8-32ad-4fb8-91a1-5f12264a7a45#ref=rss)
-* [https://www.spiegel.de/gesundheit/diagnose/atemlos-durch-den-autounfall-ein-raetselhafter-patient](https://www.spiegel.de/gesundheit/diagnose/atemlos-durch-den-autounfall-ein-raetselhafter-patient-a-42dd108b-2eda-487a-9473-d967a6870d3f#ref=rss)
-### porsche
-
-* [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
 ### donald
 
 * [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/donald-trump-und-die-zoelle-autozulieferer-fehrer-leidet-trotz-us-produktion](https://www.spiegel.de/wirtschaft/soziales/donald-trump-und-die-zoelle-autozulieferer-fehrer-leidet-trotz-us-produktion-a-d6bcd53d-0a53-4b2e-bf98-7a7ec093dc6d#ref=rss)
-### plant
+* [https://www.spiegel.de/wirtschaft/donald-trump-und-die-maerkte-die-feigheit-der-bosse-kolumne](https://www.spiegel.de/wirtschaft/donald-trump-und-die-maerkte-die-feigheit-der-bosse-kolumne-a-7f3aafbc-5c3a-4204-9853-1400f3a10d49#ref=rss)
+* [https://www.spiegel.de/ausland/trumps-ukraine-kurs-warum-seine-kehrtwende-nur-show-ist](https://www.spiegel.de/ausland/trumps-ukraine-kurs-warum-seine-kehrtwende-nur-show-ist-a-817a6918-7a5c-428b-ac8e-04537c6ed817#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trumps-100-tage-bilanz-was-der-us-praesident-bisher-erreicht-hat-und-was-nicht](https://www.spiegel.de/ausland/donald-trumps-100-tage-bilanz-was-der-us-praesident-bisher-erreicht-hat-und-was-nicht-a-caa64c21-19b4-4687-9385-63bfaed4d65d#ref=rss)
+* [https://www.spiegel.de/ausland/jd-vance-ein-extremist-ist-vizepraesident-der-usa-podcast](https://www.spiegel.de/ausland/jd-vance-ein-extremist-ist-vizepraesident-der-usa-podcast-a-ac425ad4-a984-4232-ac5f-4338f9f93262#ref=rss)
+### trump
+
+* [https://www.spiegel.de/netzwelt/el-hotzo-ist-wieder-da-und-macht-wieder-trump-witze](https://www.spiegel.de/netzwelt/el-hotzo-ist-wieder-da-und-macht-wieder-trump-witze-a-5330e9cc-dbf2-4963-bbcb-2399960752e3#ref=rss)
+* [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-und-die-maerkte-die-feigheit-der-bosse-kolumne](https://www.spiegel.de/wirtschaft/donald-trump-und-die-maerkte-die-feigheit-der-bosse-kolumne-a-7f3aafbc-5c3a-4204-9853-1400f3a10d49#ref=rss)
+* [https://www.spiegel.de/ausland/trumps-ukraine-kurs-warum-seine-kehrtwende-nur-show-ist](https://www.spiegel.de/ausland/trumps-ukraine-kurs-warum-seine-kehrtwende-nur-show-ist-a-817a6918-7a5c-428b-ac8e-04537c6ed817#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trumps-100-tage-bilanz-was-der-us-praesident-bisher-erreicht-hat-und-was-nicht](https://www.spiegel.de/ausland/donald-trumps-100-tage-bilanz-was-der-us-praesident-bisher-erreicht-hat-und-was-nicht-a-caa64c21-19b4-4687-9385-63bfaed4d65d#ref=rss)
+* [https://www.spiegel.de/ausland/jd-vance-ein-extremist-ist-vizepraesident-der-usa-podcast](https://www.spiegel.de/ausland/jd-vance-ein-extremist-ist-vizepraesident-der-usa-podcast-a-ac425ad4-a984-4232-ac5f-4338f9f93262#ref=rss)
+### spanien
+
+* [https://www.spiegel.de/wirtschaft/spanien-und-portugal-erste-erklaerungen-fuer-den-stromausfall-am-montag](https://www.spiegel.de/wirtschaft/spanien-und-portugal-erste-erklaerungen-fuer-den-stromausfall-am-montag-a-7e6a0261-3c83-4ec5-9059-ae5f07b1d055#ref=rss)
+* [https://www.spiegel.de/ausland/stromausfall-in-spanien-und-portugal-der-dunkle-montag](https://www.spiegel.de/ausland/stromausfall-in-spanien-und-portugal-der-dunkle-montag-a-e34727a2-df37-4a12-8561-bac387b0f653#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-stromausfall-kanada-foltergefaengnisse-in-russland](https://www.spiegel.de/politik/deutschland/news-des-tages-stromausfall-kanada-foltergefaengnisse-in-russland-a-8b9a8684-b82e-46e9-9b09-e598997cd29c#ref=rss)
+* [https://www.spiegel.de/panorama/spanien-stromausfall-alexander-osang-hat-es-erlebt](https://www.spiegel.de/panorama/spanien-stromausfall-alexander-osang-hat-es-erlebt-a-9aec36d9-98c3-492e-8269-a9b4ab3d2c90#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/ausland/benjamin-netanyahu-israelische-regierung-nimmt-entlassung-von-schin-bet-chef-ronen-bar-zurueck](https://www.spiegel.de/ausland/benjamin-netanyahu-israelische-regierung-nimmt-entlassung-von-schin-bet-chef-ronen-bar-zurueck-a-9079c76d-3adc-4d70-8bda-1e7776203351#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news](https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news-a-48ac64f5-f403-4ca5-8a31-3674acfe1af1#ref=rss)
+* [https://www.spiegel.de/ausland/indien-modi-erteilt-armee-operative-freiheit-fuer-einsatz-in-kaschmir](https://www.spiegel.de/ausland/indien-modi-erteilt-armee-operative-freiheit-fuer-einsatz-in-kaschmir-a-eae098eb-082b-49da-aad1-86042a01bf6d#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trumps-100-tage-bilanz-was-der-us-praesident-bisher-erreicht-hat-und-was-nicht](https://www.spiegel.de/ausland/donald-trumps-100-tage-bilanz-was-der-us-praesident-bisher-erreicht-hat-und-was-nicht-a-caa64c21-19b4-4687-9385-63bfaed4d65d#ref=rss)
+* [https://www.spiegel.de/politik/hamburg-peter-tschentscher-und-katharina-fegebank-unterzeichnen-koalitionsvertrag-fuer-rot-gruene-reigerung](https://www.spiegel.de/politik/hamburg-peter-tschentscher-und-katharina-fegebank-unterzeichnen-koalitionsvertrag-fuer-rot-gruene-reigerung-a-200dcd95-7680-442e-890b-348f6d47b7d0#ref=rss)
+### portugal
+
+* [https://www.spiegel.de/wirtschaft/spanien-und-portugal-erste-erklaerungen-fuer-den-stromausfall-am-montag](https://www.spiegel.de/wirtschaft/spanien-und-portugal-erste-erklaerungen-fuer-den-stromausfall-am-montag-a-7e6a0261-3c83-4ec5-9059-ae5f07b1d055#ref=rss)
+* [https://www.spiegel.de/ausland/stromausfall-in-spanien-und-portugal-der-dunkle-montag](https://www.spiegel.de/ausland/stromausfall-in-spanien-und-portugal-der-dunkle-montag-a-e34727a2-df37-4a12-8561-bac387b0f653#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-stromausfall-kanada-foltergefaengnisse-in-russland](https://www.spiegel.de/politik/deutschland/news-des-tages-stromausfall-kanada-foltergefaengnisse-in-russland-a-8b9a8684-b82e-46e9-9b09-e598997cd29c#ref=rss)
+### stromausfall
+
+* [https://www.spiegel.de/wirtschaft/spanien-und-portugal-erste-erklaerungen-fuer-den-stromausfall-am-montag](https://www.spiegel.de/wirtschaft/spanien-und-portugal-erste-erklaerungen-fuer-den-stromausfall-am-montag-a-7e6a0261-3c83-4ec5-9059-ae5f07b1d055#ref=rss)
+* [https://www.spiegel.de/ausland/stromausfall-in-spanien-und-portugal-der-dunkle-montag](https://www.spiegel.de/ausland/stromausfall-in-spanien-und-portugal-der-dunkle-montag-a-e34727a2-df37-4a12-8561-bac387b0f653#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-stromausfall-kanada-foltergefaengnisse-in-russland](https://www.spiegel.de/politik/deutschland/news-des-tages-stromausfall-kanada-foltergefaengnisse-in-russland-a-8b9a8684-b82e-46e9-9b09-e598997cd29c#ref=rss)
+* [https://www.spiegel.de/panorama/spanien-stromausfall-alexander-osang-hat-es-erlebt](https://www.spiegel.de/panorama/spanien-stromausfall-alexander-osang-hat-es-erlebt-a-9aec36d9-98c3-492e-8269-a9b4ab3d2c90#ref=rss)
+### saskia
+
+* [https://www.spiegel.de/panorama/pro-und-contra-soll-spd-chefin-saskia-esken-bleiben-oder-gehen](https://www.spiegel.de/panorama/pro-und-contra-soll-spd-chefin-saskia-esken-bleiben-oder-gehen-a-f5444134-524c-4aa9-bd8e-787966e43436#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-druck-auf-saskia-esken-waechst-herausforderung-fuer-lars-klingbeil](https://www.spiegel.de/politik/deutschland/spd-druck-auf-saskia-esken-waechst-herausforderung-fuer-lars-klingbeil-a-5030a63b-172a-4fc5-b735-ac0163c40105#ref=rss)
+### esken
+
+* [https://www.spiegel.de/panorama/pro-und-contra-soll-spd-chefin-saskia-esken-bleiben-oder-gehen](https://www.spiegel.de/panorama/pro-und-contra-soll-spd-chefin-saskia-esken-bleiben-oder-gehen-a-f5444134-524c-4aa9-bd8e-787966e43436#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-druck-auf-saskia-esken-waechst-herausforderung-fuer-lars-klingbeil](https://www.spiegel.de/politik/deutschland/spd-druck-auf-saskia-esken-waechst-herausforderung-fuer-lars-klingbeil-a-5030a63b-172a-4fc5-b735-ac0163c40105#ref=rss)
+### spd
+
+* [https://www.spiegel.de/panorama/pro-und-contra-soll-spd-chefin-saskia-esken-bleiben-oder-gehen](https://www.spiegel.de/panorama/pro-und-contra-soll-spd-chefin-saskia-esken-bleiben-oder-gehen-a-f5444134-524c-4aa9-bd8e-787966e43436#ref=rss)
+* [https://www.spiegel.de/politik/hamburg-peter-tschentscher-und-katharina-fegebank-unterzeichnen-koalitionsvertrag-fuer-rot-gruene-reigerung](https://www.spiegel.de/politik/hamburg-peter-tschentscher-und-katharina-fegebank-unterzeichnen-koalitionsvertrag-fuer-rot-gruene-reigerung-a-200dcd95-7680-442e-890b-348f6d47b7d0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-druck-auf-saskia-esken-waechst-herausforderung-fuer-lars-klingbeil](https://www.spiegel.de/politik/deutschland/spd-druck-auf-saskia-esken-waechst-herausforderung-fuer-lars-klingbeil-a-5030a63b-172a-4fc5-b735-ac0163c40105#ref=rss)
+### alexander
+
+* [https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-scheidet-in-madrid-im-achtelfinale-aus](https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-scheidet-in-madrid-im-achtelfinale-aus-a-91dfa939-61f5-43ae-98b7-080354d7238d#ref=rss)
+* [https://www.spiegel.de/panorama/spanien-stromausfall-alexander-osang-hat-es-erlebt](https://www.spiegel.de/panorama/spanien-stromausfall-alexander-osang-hat-es-erlebt-a-9aec36d9-98c3-492e-8269-a9b4ab3d2c90#ref=rss)
+### macht
+
+* [https://www.spiegel.de/netzwelt/el-hotzo-ist-wieder-da-und-macht-wieder-trump-witze](https://www.spiegel.de/netzwelt/el-hotzo-ist-wieder-da-und-macht-wieder-trump-witze-a-5330e9cc-dbf2-4963-bbcb-2399960752e3#ref=rss)
+* [https://www.spiegel.de/ausland/indien-modi-erteilt-armee-operative-freiheit-fuer-einsatz-in-kaschmir](https://www.spiegel.de/ausland/indien-modi-erteilt-armee-operative-freiheit-fuer-einsatz-in-kaschmir-a-eae098eb-082b-49da-aad1-86042a01bf6d#ref=rss)
+* [https://www.spiegel.de/politik/hamburg-peter-tschentscher-und-katharina-fegebank-unterzeichnen-koalitionsvertrag-fuer-rot-gruene-reigerung](https://www.spiegel.de/politik/hamburg-peter-tschentscher-und-katharina-fegebank-unterzeichnen-koalitionsvertrag-fuer-rot-gruene-reigerung-a-200dcd95-7680-442e-890b-348f6d47b7d0#ref=rss)
+### montag
+
+* [https://www.spiegel.de/wirtschaft/spanien-und-portugal-erste-erklaerungen-fuer-den-stromausfall-am-montag](https://www.spiegel.de/wirtschaft/spanien-und-portugal-erste-erklaerungen-fuer-den-stromausfall-am-montag-a-7e6a0261-3c83-4ec5-9059-ae5f07b1d055#ref=rss)
+* [https://www.spiegel.de/ausland/stromausfall-in-spanien-und-portugal-der-dunkle-montag](https://www.spiegel.de/ausland/stromausfall-in-spanien-und-portugal-der-dunkle-montag-a-e34727a2-df37-4a12-8561-bac387b0f653#ref=rss)
+### weniger
+
+* [https://www.spiegel.de/wirtschaft/spanien-und-portugal-erste-erklaerungen-fuer-den-stromausfall-am-montag](https://www.spiegel.de/wirtschaft/spanien-und-portugal-erste-erklaerungen-fuer-den-stromausfall-am-montag-a-7e6a0261-3c83-4ec5-9059-ae5f07b1d055#ref=rss)
+* [https://www.spiegel.de/politik/bundestag-fraktionsvorstand-der-gruenen-komplett](https://www.spiegel.de/politik/bundestag-fraktionsvorstand-der-gruenen-komplett-a-fb1cff1b-ad42-4be5-ba12-36cf04ce3099#ref=rss)
+* [https://www.spiegel.de/wirtschaft/levin-holle-bahn-manager-soll-wirtschaftsfluesterer-von-friedrich-merz-werden](https://www.spiegel.de/wirtschaft/levin-holle-bahn-manager-soll-wirtschaftsfluesterer-von-friedrich-merz-werden-a-7faacac0-c92b-4555-bfe3-053082bccd9e#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/reise/fernweh/kangaroo-island-wilderness-trail-in-australien-der-pfad-der-hoffnung](https://www.spiegel.de/reise/fernweh/kangaroo-island-wilderness-trail-in-australien-der-pfad-der-hoffnung-a-ab2a41d4-cbe9-405c-8ae9-8bbbe7dbc7aa#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/ist-das-gymnasium-noch-zeitgemaess](https://www.spiegel.de/panorama/bildung/ist-das-gymnasium-noch-zeitgemaess-a-9000f6b2-6900-4470-8e33-200a8676ab6b#ref=rss)
+* [https://www.spiegel.de/panorama/sarstedt-zwoelf-jahre-haft-fuer-toedliche-messerattacke-auf-betreiber-von-asylheim](https://www.spiegel.de/panorama/sarstedt-zwoelf-jahre-haft-fuer-toedliche-messerattacke-auf-betreiber-von-asylheim-a-7057ddc4-7974-4be1-aef1-dd95ec2b7769#ref=rss)
+### trumps
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-und-die-maerkte-die-feigheit-der-bosse-kolumne](https://www.spiegel.de/wirtschaft/donald-trump-und-die-maerkte-die-feigheit-der-bosse-kolumne-a-7f3aafbc-5c3a-4204-9853-1400f3a10d49#ref=rss)
+* [https://www.spiegel.de/ausland/trumps-ukraine-kurs-warum-seine-kehrtwende-nur-show-ist](https://www.spiegel.de/ausland/trumps-ukraine-kurs-warum-seine-kehrtwende-nur-show-ist-a-817a6918-7a5c-428b-ac8e-04537c6ed817#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trumps-100-tage-bilanz-was-der-us-praesident-bisher-erreicht-hat-und-was-nicht](https://www.spiegel.de/ausland/donald-trumps-100-tage-bilanz-was-der-us-praesident-bisher-erreicht-hat-und-was-nicht-a-caa64c21-19b4-4687-9385-63bfaed4d65d#ref=rss)
+### strom
+
+* [https://www.spiegel.de/ausland/stromausfall-in-spanien-und-portugal-der-dunkle-montag](https://www.spiegel.de/ausland/stromausfall-in-spanien-und-portugal-der-dunkle-montag-a-e34727a2-df37-4a12-8561-bac387b0f653#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-stromausfall-kanada-foltergefaengnisse-in-russland](https://www.spiegel.de/politik/deutschland/news-des-tages-stromausfall-kanada-foltergefaengnisse-in-russland-a-8b9a8684-b82e-46e9-9b09-e598997cd29c#ref=rss)
+* [https://www.spiegel.de/panorama/spanien-stromausfall-alexander-osang-hat-es-erlebt](https://www.spiegel.de/panorama/spanien-stromausfall-alexander-osang-hat-es-erlebt-a-9aec36d9-98c3-492e-8269-a9b4ab3d2c90#ref=rss)
+### gehen
+
+* [https://www.spiegel.de/panorama/pro-und-contra-soll-spd-chefin-saskia-esken-bleiben-oder-gehen](https://www.spiegel.de/panorama/pro-und-contra-soll-spd-chefin-saskia-esken-bleiben-oder-gehen-a-f5444134-524c-4aa9-bd8e-787966e43436#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/illinois-mann-rammte-schulhort-offenbar-ohne-vorsatz](https://www.spiegel.de/panorama/justiz/illinois-mann-rammte-schulhort-offenbar-ohne-vorsatz-a-cbfab168-ff0b-410d-88a4-8b2b7775fc94#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news](https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news-a-48ac64f5-f403-4ca5-8a31-3674acfe1af1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/levin-holle-bahn-manager-soll-wirtschaftsfluesterer-von-friedrich-merz-werden](https://www.spiegel.de/wirtschaft/levin-holle-bahn-manager-soll-wirtschaftsfluesterer-von-friedrich-merz-werden-a-7faacac0-c92b-4555-bfe3-053082bccd9e#ref=rss)
+### spiegel
+
+* [https://www.spiegel.de/ausland/donald-trumps-100-tage-bilanz-was-der-us-praesident-bisher-erreicht-hat-und-was-nicht](https://www.spiegel.de/ausland/donald-trumps-100-tage-bilanz-was-der-us-praesident-bisher-erreicht-hat-und-was-nicht-a-caa64c21-19b4-4687-9385-63bfaed4d65d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/polizeischuesse-auf-lorenz-a-was-geschah-in-der-osternacht-in-oldenburg-spiegel-tv](https://www.spiegel.de/panorama/justiz/polizeischuesse-auf-lorenz-a-was-geschah-in-der-osternacht-in-oldenburg-spiegel-tv-a-85639e68-e0c0-4b2c-8d33-921aaed6b4f4#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/justiz/illinois-mann-rammte-schulhort-offenbar-ohne-vorsatz](https://www.spiegel.de/panorama/justiz/illinois-mann-rammte-schulhort-offenbar-ohne-vorsatz-a-cbfab168-ff0b-410d-88a4-8b2b7775fc94#ref=rss)
+* [https://www.spiegel.de/kultur/heino-tritt-bald-als-ersatz-fuer-mia-julia-am-ballermann-auf](https://www.spiegel.de/kultur/heino-tritt-bald-als-ersatz-fuer-mia-julia-am-ballermann-auf-a-f8a6ab46-c0ba-4254-b97a-d94a2ac2649a#ref=rss)
+### zverev
+
+* [https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-scheidet-in-madrid-im-achtelfinale-aus](https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-scheidet-in-madrid-im-achtelfinale-aus-a-91dfa939-61f5-43ae-98b7-080354d7238d#ref=rss)
+### madrid
+
+* [https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-scheidet-in-madrid-im-achtelfinale-aus](https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-scheidet-in-madrid-im-achtelfinale-aus-a-91dfa939-61f5-43ae-98b7-080354d7238d#ref=rss)
+### achtelfinale
+
+* [https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-scheidet-in-madrid-im-achtelfinale-aus](https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-scheidet-in-madrid-im-achtelfinale-aus-a-91dfa939-61f5-43ae-98b7-080354d7238d#ref=rss)
+### el
+
+* [https://www.spiegel.de/netzwelt/el-hotzo-ist-wieder-da-und-macht-wieder-trump-witze](https://www.spiegel.de/netzwelt/el-hotzo-ist-wieder-da-und-macht-wieder-trump-witze-a-5330e9cc-dbf2-4963-bbcb-2399960752e3#ref=rss)
+### hotzo
+
+* [https://www.spiegel.de/netzwelt/el-hotzo-ist-wieder-da-und-macht-wieder-trump-witze](https://www.spiegel.de/netzwelt/el-hotzo-ist-wieder-da-und-macht-wieder-trump-witze-a-5330e9cc-dbf2-4963-bbcb-2399960752e3#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/netzwelt/el-hotzo-ist-wieder-da-und-macht-wieder-trump-witze](https://www.spiegel.de/netzwelt/el-hotzo-ist-wieder-da-und-macht-wieder-trump-witze-a-5330e9cc-dbf2-4963-bbcb-2399960752e3#ref=rss)
+* [https://www.spiegel.de/ausland/benjamin-netanyahu-israelische-regierung-nimmt-entlassung-von-schin-bet-chef-ronen-bar-zurueck](https://www.spiegel.de/ausland/benjamin-netanyahu-israelische-regierung-nimmt-entlassung-von-schin-bet-chef-ronen-bar-zurueck-a-9079c76d-3adc-4d70-8bda-1e7776203351#ref=rss)
+### erste
+
+* [https://www.spiegel.de/wirtschaft/spanien-und-portugal-erste-erklaerungen-fuer-den-stromausfall-am-montag](https://www.spiegel.de/wirtschaft/spanien-und-portugal-erste-erklaerungen-fuer-den-stromausfall-am-montag-a-7e6a0261-3c83-4ec5-9059-ae5f07b1d055#ref=rss)
+### zusammen
+
+* [https://www.spiegel.de/wirtschaft/spanien-und-portugal-erste-erklaerungen-fuer-den-stromausfall-am-montag](https://www.spiegel.de/wirtschaft/spanien-und-portugal-erste-erklaerungen-fuer-den-stromausfall-am-montag-a-7e6a0261-3c83-4ec5-9059-ae5f07b1d055#ref=rss)
+* [https://www.spiegel.de/ausland/stromausfall-in-spanien-und-portugal-der-dunkle-montag](https://www.spiegel.de/ausland/stromausfall-in-spanien-und-portugal-der-dunkle-montag-a-e34727a2-df37-4a12-8561-bac387b0f653#ref=rss)
+### amazon
 
 * [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/anthony-lazaro-ich-will-fans-auf-der-ganzen-welt-haben-und-auf-dem-mond](https://www.spiegel.de/netzwelt/apps/anthony-lazaro-ich-will-fans-auf-der-ganzen-welt-haben-und-auf-dem-mond-a-435dfe92-c56a-44db-9ada-0e7f937483ed#ref=rss)
-### eltern
+### news
 
-* [https://www.spiegel.de/panorama/bildung/kitas-in-aermeren-stadtvierteln-gibt-es-weniger-einrichtungen-als-in-wohlhabenden](https://www.spiegel.de/panorama/bildung/kitas-in-aermeren-stadtvierteln-gibt-es-weniger-einrichtungen-als-in-wohlhabenden-a-d1bdebaa-5b18-4c0d-a124-9246c82b7dc3#ref=rss)
-* [https://www.spiegel.de/panorama/rotterdam-kind-beschaedigt-gemaelde-von-mark-rothko-in-niederlaendischem-museum](https://www.spiegel.de/panorama/rotterdam-kind-beschaedigt-gemaelde-von-mark-rothko-in-niederlaendischem-museum-a-1c326fb6-438d-4af1-ac6b-1ec649d2f91a#ref=rss)
+* [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-stromausfall-kanada-foltergefaengnisse-in-russland](https://www.spiegel.de/politik/deutschland/news-des-tages-stromausfall-kanada-foltergefaengnisse-in-russland-a-8b9a8684-b82e-46e9-9b09-e598997cd29c#ref=rss)
+### wilderness
+
+* [https://www.spiegel.de/reise/fernweh/kangaroo-island-wilderness-trail-in-australien-der-pfad-der-hoffnung](https://www.spiegel.de/reise/fernweh/kangaroo-island-wilderness-trail-in-australien-der-pfad-der-hoffnung-a-ab2a41d4-cbe9-405c-8ae9-8bbbe7dbc7aa#ref=rss)
+### trail
+
+* [https://www.spiegel.de/reise/fernweh/kangaroo-island-wilderness-trail-in-australien-der-pfad-der-hoffnung](https://www.spiegel.de/reise/fernweh/kangaroo-island-wilderness-trail-in-australien-der-pfad-der-hoffnung-a-ab2a41d4-cbe9-405c-8ae9-8bbbe7dbc7aa#ref=rss)
+### politik
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-und-die-maerkte-die-feigheit-der-bosse-kolumne](https://www.spiegel.de/wirtschaft/donald-trump-und-die-maerkte-die-feigheit-der-bosse-kolumne-a-7f3aafbc-5c3a-4204-9853-1400f3a10d49#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news](https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news-a-48ac64f5-f403-4ca5-8a31-3674acfe1af1#ref=rss)
+### ohne
+
+* [https://www.spiegel.de/ausland/stromausfall-in-spanien-und-portugal-der-dunkle-montag](https://www.spiegel.de/ausland/stromausfall-in-spanien-und-portugal-der-dunkle-montag-a-e34727a2-df37-4a12-8561-bac387b0f653#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/illinois-mann-rammte-schulhort-offenbar-ohne-vorsatz](https://www.spiegel.de/panorama/justiz/illinois-mann-rammte-schulhort-offenbar-ohne-vorsatz-a-cbfab168-ff0b-410d-88a4-8b2b7775fc94#ref=rss)
+### fällt
+
+* [https://www.spiegel.de/ausland/stromausfall-in-spanien-und-portugal-der-dunkle-montag](https://www.spiegel.de/ausland/stromausfall-in-spanien-und-portugal-der-dunkle-montag-a-e34727a2-df37-4a12-8561-bac387b0f653#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/ist-das-gymnasium-noch-zeitgemaess](https://www.spiegel.de/panorama/bildung/ist-das-gymnasium-noch-zeitgemaess-a-9000f6b2-6900-4470-8e33-200a8676ab6b#ref=rss)
+### bleiben
+
+* [https://www.spiegel.de/ausland/stromausfall-in-spanien-und-portugal-der-dunkle-montag](https://www.spiegel.de/ausland/stromausfall-in-spanien-und-portugal-der-dunkle-montag-a-e34727a2-df37-4a12-8561-bac387b0f653#ref=rss)
+* [https://www.spiegel.de/panorama/pro-und-contra-soll-spd-chefin-saskia-esken-bleiben-oder-gehen](https://www.spiegel.de/panorama/pro-und-contra-soll-spd-chefin-saskia-esken-bleiben-oder-gehen-a-f5444134-524c-4aa9-bd8e-787966e43436#ref=rss)
+### viele
+
+* [https://www.spiegel.de/ausland/stromausfall-in-spanien-und-portugal-der-dunkle-montag](https://www.spiegel.de/ausland/stromausfall-in-spanien-und-portugal-der-dunkle-montag-a-e34727a2-df37-4a12-8561-bac387b0f653#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/ist-das-gymnasium-noch-zeitgemaess](https://www.spiegel.de/panorama/bildung/ist-das-gymnasium-noch-zeitgemaess-a-9000f6b2-6900-4470-8e33-200a8676ab6b#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/ausland/stromausfall-in-spanien-und-portugal-der-dunkle-montag](https://www.spiegel.de/ausland/stromausfall-in-spanien-und-portugal-der-dunkle-montag-a-e34727a2-df37-4a12-8561-bac387b0f653#ref=rss)
+* [https://www.spiegel.de/ausland/jd-vance-ein-extremist-ist-vizepraesident-der-usa-podcast](https://www.spiegel.de/ausland/jd-vance-ein-extremist-ist-vizepraesident-der-usa-podcast-a-ac425ad4-a984-4232-ac5f-4338f9f93262#ref=rss)
+### benjamin
+
+* [https://www.spiegel.de/ausland/benjamin-netanyahu-israelische-regierung-nimmt-entlassung-von-schin-bet-chef-ronen-bar-zurueck](https://www.spiegel.de/ausland/benjamin-netanyahu-israelische-regierung-nimmt-entlassung-von-schin-bet-chef-ronen-bar-zurueck-a-9079c76d-3adc-4d70-8bda-1e7776203351#ref=rss)
+### netanyahu
+
+* [https://www.spiegel.de/ausland/benjamin-netanyahu-israelische-regierung-nimmt-entlassung-von-schin-bet-chef-ronen-bar-zurueck](https://www.spiegel.de/ausland/benjamin-netanyahu-israelische-regierung-nimmt-entlassung-von-schin-bet-chef-ronen-bar-zurueck-a-9079c76d-3adc-4d70-8bda-1e7776203351#ref=rss)
+### streit
+
+* [https://www.spiegel.de/ausland/benjamin-netanyahu-israelische-regierung-nimmt-entlassung-von-schin-bet-chef-ronen-bar-zurueck](https://www.spiegel.de/ausland/benjamin-netanyahu-israelische-regierung-nimmt-entlassung-von-schin-bet-chef-ronen-bar-zurueck-a-9079c76d-3adc-4d70-8bda-1e7776203351#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trumps-100-tage-bilanz-was-der-us-praesident-bisher-erreicht-hat-und-was-nicht](https://www.spiegel.de/ausland/donald-trumps-100-tage-bilanz-was-der-us-praesident-bisher-erreicht-hat-und-was-nicht-a-caa64c21-19b4-4687-9385-63bfaed4d65d#ref=rss)
+### entscheidung
+
+* [https://www.spiegel.de/ausland/benjamin-netanyahu-israelische-regierung-nimmt-entlassung-von-schin-bet-chef-ronen-bar-zurueck](https://www.spiegel.de/ausland/benjamin-netanyahu-israelische-regierung-nimmt-entlassung-von-schin-bet-chef-ronen-bar-zurueck-a-9079c76d-3adc-4d70-8bda-1e7776203351#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/ist-das-gymnasium-noch-zeitgemaess](https://www.spiegel.de/panorama/bildung/ist-das-gymnasium-noch-zeitgemaess-a-9000f6b2-6900-4470-8e33-200a8676ab6b#ref=rss)
+### laut
+
+* [https://www.spiegel.de/ausland/benjamin-netanyahu-israelische-regierung-nimmt-entlassung-von-schin-bet-chef-ronen-bar-zurueck](https://www.spiegel.de/ausland/benjamin-netanyahu-israelische-regierung-nimmt-entlassung-von-schin-bet-chef-ronen-bar-zurueck-a-9079c76d-3adc-4d70-8bda-1e7776203351#ref=rss)
+* [https://www.spiegel.de/kultur/heino-tritt-bald-als-ersatz-fuer-mia-julia-am-ballermann-auf](https://www.spiegel.de/kultur/heino-tritt-bald-als-ersatz-fuer-mia-julia-am-ballermann-auf-a-f8a6ab46-c0ba-4254-b97a-d94a2ac2649a#ref=rss)
+### gute
+
+* [https://www.spiegel.de/panorama/pro-und-contra-soll-spd-chefin-saskia-esken-bleiben-oder-gehen](https://www.spiegel.de/panorama/pro-und-contra-soll-spd-chefin-saskia-esken-bleiben-oder-gehen-a-f5444134-524c-4aa9-bd8e-787966e43436#ref=rss)
+* [https://www.spiegel.de/panorama/leute/bill-belichicks-freundin-verbietet-pikante-frage-im-tv-interview](https://www.spiegel.de/panorama/leute/bill-belichicks-freundin-verbietet-pikante-frage-im-tv-interview-a-b1def45b-d8f2-424b-92e0-5d491a7e3c80#ref=rss)
+### koalitionsblog
+
+* [https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news](https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news-a-48ac64f5-f403-4ca5-8a31-3674acfe1af1#ref=rss)
+### stefan
+
+* [https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news](https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news-a-48ac64f5-f403-4ca5-8a31-3674acfe1af1#ref=rss)
+### kornelius
+
+* [https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news](https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news-a-48ac64f5-f403-4ca5-8a31-3674acfe1af1#ref=rss)
+### alle
+
+* [https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news](https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news-a-48ac64f5-f403-4ca5-8a31-3674acfe1af1#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/ist-das-gymnasium-noch-zeitgemaess](https://www.spiegel.de/panorama/bildung/ist-das-gymnasium-noch-zeitgemaess-a-9000f6b2-6900-4470-8e33-200a8676ab6b#ref=rss)
+### modi
+
+* [https://www.spiegel.de/ausland/indien-modi-erteilt-armee-operative-freiheit-fuer-einsatz-in-kaschmir](https://www.spiegel.de/ausland/indien-modi-erteilt-armee-operative-freiheit-fuer-einsatz-in-kaschmir-a-eae098eb-082b-49da-aad1-86042a01bf6d#ref=rss)
+### erteilt
+
+* [https://www.spiegel.de/ausland/indien-modi-erteilt-armee-operative-freiheit-fuer-einsatz-in-kaschmir](https://www.spiegel.de/ausland/indien-modi-erteilt-armee-operative-freiheit-fuer-einsatz-in-kaschmir-a-eae098eb-082b-49da-aad1-86042a01bf6d#ref=rss)
+### armee
+
+* [https://www.spiegel.de/ausland/indien-modi-erteilt-armee-operative-freiheit-fuer-einsatz-in-kaschmir](https://www.spiegel.de/ausland/indien-modi-erteilt-armee-operative-freiheit-fuer-einsatz-in-kaschmir-a-eae098eb-082b-49da-aad1-86042a01bf6d#ref=rss)
+### operative
+
+* [https://www.spiegel.de/ausland/indien-modi-erteilt-armee-operative-freiheit-fuer-einsatz-in-kaschmir](https://www.spiegel.de/ausland/indien-modi-erteilt-armee-operative-freiheit-fuer-einsatz-in-kaschmir-a-eae098eb-082b-49da-aad1-86042a01bf6d#ref=rss)
+### freiheit
+
+* [https://www.spiegel.de/ausland/indien-modi-erteilt-armee-operative-freiheit-fuer-einsatz-in-kaschmir](https://www.spiegel.de/ausland/indien-modi-erteilt-armee-operative-freiheit-fuer-einsatz-in-kaschmir-a-eae098eb-082b-49da-aad1-86042a01bf6d#ref=rss)
+### nähe
+
+* [https://www.spiegel.de/ausland/trumps-ukraine-kurs-warum-seine-kehrtwende-nur-show-ist](https://www.spiegel.de/ausland/trumps-ukraine-kurs-warum-seine-kehrtwende-nur-show-ist-a-817a6918-7a5c-428b-ac8e-04537c6ed817#ref=rss)
+* [https://www.spiegel.de/panorama/csd-in-schoenebeck-ermittlungen-wegen-hitlergruessen-bei-auftakt-der-pride-saison](https://www.spiegel.de/panorama/csd-in-schoenebeck-ermittlungen-wegen-hitlergruessen-bei-auftakt-der-pride-saison-a-32d8967d-9f49-46ed-801a-b51cf7099d64#ref=rss)
+### bundestag
+
+* [https://www.spiegel.de/politik/bundestag-fraktionsvorstand-der-gruenen-komplett](https://www.spiegel.de/politik/bundestag-fraktionsvorstand-der-gruenen-komplett-a-fb1cff1b-ad42-4be5-ba12-36cf04ce3099#ref=rss)
+### grünen
+
+* [https://www.spiegel.de/politik/bundestag-fraktionsvorstand-der-gruenen-komplett](https://www.spiegel.de/politik/bundestag-fraktionsvorstand-der-gruenen-komplett-a-fb1cff1b-ad42-4be5-ba12-36cf04ce3099#ref=rss)
+### illinois
+
+* [https://www.spiegel.de/panorama/justiz/illinois-mann-rammte-schulhort-offenbar-ohne-vorsatz](https://www.spiegel.de/panorama/justiz/illinois-mann-rammte-schulhort-offenbar-ohne-vorsatz-a-cbfab168-ff0b-410d-88a4-8b2b7775fc94#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/panorama/justiz/illinois-mann-rammte-schulhort-offenbar-ohne-vorsatz](https://www.spiegel.de/panorama/justiz/illinois-mann-rammte-schulhort-offenbar-ohne-vorsatz-a-cbfab168-ff0b-410d-88a4-8b2b7775fc94#ref=rss)
+* [https://www.spiegel.de/panorama/csd-in-schoenebeck-ermittlungen-wegen-hitlergruessen-bei-auftakt-der-pride-saison](https://www.spiegel.de/panorama/csd-in-schoenebeck-ermittlungen-wegen-hitlergruessen-bei-auftakt-der-pride-saison-a-32d8967d-9f49-46ed-801a-b51cf7099d64#ref=rss)
 ### kinder
 
-* [https://www.spiegel.de/panorama/bildung/kitas-in-aermeren-stadtvierteln-gibt-es-weniger-einrichtungen-als-in-wohlhabenden](https://www.spiegel.de/panorama/bildung/kitas-in-aermeren-stadtvierteln-gibt-es-weniger-einrichtungen-als-in-wohlhabenden-a-d1bdebaa-5b18-4c0d-a124-9246c82b7dc3#ref=rss)
-* [https://www.spiegel.de/panorama/wahlrecht-fuer-fuenfjaehrige-interview-mit-der-erziehungsberaterin-eloise-rickman](https://www.spiegel.de/panorama/wahlrecht-fuer-fuenfjaehrige-interview-mit-der-erziehungsberaterin-eloise-rickman-a-43d97418-6659-4eb2-9ae8-b9b8741ecbeb#ref=rss)
-### findet
+* [https://www.spiegel.de/panorama/justiz/illinois-mann-rammte-schulhort-offenbar-ohne-vorsatz](https://www.spiegel.de/panorama/justiz/illinois-mann-rammte-schulhort-offenbar-ohne-vorsatz-a-cbfab168-ff0b-410d-88a4-8b2b7775fc94#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/ist-das-gymnasium-noch-zeitgemaess](https://www.spiegel.de/panorama/bildung/ist-das-gymnasium-noch-zeitgemaess-a-9000f6b2-6900-4470-8e33-200a8676ab6b#ref=rss)
+### tat
 
-* [https://www.spiegel.de/panorama/bildung/kitas-in-aermeren-stadtvierteln-gibt-es-weniger-einrichtungen-als-in-wohlhabenden](https://www.spiegel.de/panorama/bildung/kitas-in-aermeren-stadtvierteln-gibt-es-weniger-einrichtungen-als-in-wohlhabenden-a-d1bdebaa-5b18-4c0d-a124-9246c82b7dc3#ref=rss)
-* [https://www.spiegel.de/panorama/wahlrecht-fuer-fuenfjaehrige-interview-mit-der-erziehungsberaterin-eloise-rickman](https://www.spiegel.de/panorama/wahlrecht-fuer-fuenfjaehrige-interview-mit-der-erziehungsberaterin-eloise-rickman-a-43d97418-6659-4eb2-9ae8-b9b8741ecbeb#ref=rss)
-### kind
+* [https://www.spiegel.de/panorama/justiz/illinois-mann-rammte-schulhort-offenbar-ohne-vorsatz](https://www.spiegel.de/panorama/justiz/illinois-mann-rammte-schulhort-offenbar-ohne-vorsatz-a-cbfab168-ff0b-410d-88a4-8b2b7775fc94#ref=rss)
+* [https://www.spiegel.de/panorama/sarstedt-zwoelf-jahre-haft-fuer-toedliche-messerattacke-auf-betreiber-von-asylheim](https://www.spiegel.de/panorama/sarstedt-zwoelf-jahre-haft-fuer-toedliche-messerattacke-auf-betreiber-von-asylheim-a-7057ddc4-7974-4be1-aef1-dd95ec2b7769#ref=rss)
+### ermittlungen
 
-* [https://www.spiegel.de/panorama/rotterdam-kind-beschaedigt-gemaelde-von-mark-rothko-in-niederlaendischem-museum](https://www.spiegel.de/panorama/rotterdam-kind-beschaedigt-gemaelde-von-mark-rothko-in-niederlaendischem-museum-a-1c326fb6-438d-4af1-ac6b-1ec649d2f91a#ref=rss)
-### beschädigt
+* [https://www.spiegel.de/panorama/justiz/illinois-mann-rammte-schulhort-offenbar-ohne-vorsatz](https://www.spiegel.de/panorama/justiz/illinois-mann-rammte-schulhort-offenbar-ohne-vorsatz-a-cbfab168-ff0b-410d-88a4-8b2b7775fc94#ref=rss)
+* [https://www.spiegel.de/panorama/csd-in-schoenebeck-ermittlungen-wegen-hitlergruessen-bei-auftakt-der-pride-saison](https://www.spiegel.de/panorama/csd-in-schoenebeck-ermittlungen-wegen-hitlergruessen-bei-auftakt-der-pride-saison-a-32d8967d-9f49-46ed-801a-b51cf7099d64#ref=rss)
+### ministerpräsident
 
-* [https://www.spiegel.de/panorama/rotterdam-kind-beschaedigt-gemaelde-von-mark-rothko-in-niederlaendischem-museum](https://www.spiegel.de/panorama/rotterdam-kind-beschaedigt-gemaelde-von-mark-rothko-in-niederlaendischem-museum-a-1c326fb6-438d-4af1-ac6b-1ec649d2f91a#ref=rss)
-### rothko
+* [https://www.spiegel.de/politik/bayern-csu-chef-markus-soeder-will-2028-wieder-ministerpraesident-werden](https://www.spiegel.de/politik/bayern-csu-chef-markus-soeder-will-2028-wieder-ministerpraesident-werden-a-53710c83-a7a0-4dc6-bdea-3f1df3a3668d#ref=rss)
+### tv
 
-* [https://www.spiegel.de/panorama/rotterdam-kind-beschaedigt-gemaelde-von-mark-rothko-in-niederlaendischem-museum](https://www.spiegel.de/panorama/rotterdam-kind-beschaedigt-gemaelde-von-mark-rothko-in-niederlaendischem-museum-a-1c326fb6-438d-4af1-ac6b-1ec649d2f91a#ref=rss)
-### lufthansa
+* [https://www.spiegel.de/panorama/justiz/polizeischuesse-auf-lorenz-a-was-geschah-in-der-osternacht-in-oldenburg-spiegel-tv](https://www.spiegel.de/panorama/justiz/polizeischuesse-auf-lorenz-a-was-geschah-in-der-osternacht-in-oldenburg-spiegel-tv-a-85639e68-e0c0-4b2c-8d33-921aaed6b4f4#ref=rss)
+### kanada
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-verlust-zum-jahresauftakt-und-mehr-buchungen-aus-den-usa](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-verlust-zum-jahresauftakt-und-mehr-buchungen-aus-den-usa-a-7de44b9e-9e62-47ab-8d20-d5ba7b36919d#ref=rss)
-### verlust
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-stromausfall-kanada-foltergefaengnisse-in-russland](https://www.spiegel.de/politik/deutschland/news-des-tages-stromausfall-kanada-foltergefaengnisse-in-russland-a-8b9a8684-b82e-46e9-9b09-e598997cd29c#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-verlust-zum-jahresauftakt-und-mehr-buchungen-aus-den-usa](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-verlust-zum-jahresauftakt-und-mehr-buchungen-aus-den-usa-a-7de44b9e-9e62-47ab-8d20-d5ba7b36919d#ref=rss)
-### meldet
+* [https://www.spiegel.de/panorama/essex-polizei-baut-gras-an-zur-verbrechensbekaempfung](https://www.spiegel.de/panorama/essex-polizei-baut-gras-an-zur-verbrechensbekaempfung-a-4d257662-b9fb-43d9-bd93-4fb8e5079197#ref=rss)
+### gras
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-verlust-zum-jahresauftakt-und-mehr-buchungen-aus-den-usa](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-verlust-zum-jahresauftakt-und-mehr-buchungen-aus-den-usa-a-7de44b9e-9e62-47ab-8d20-d5ba7b36919d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-meldet-hoechsten-quartalsgewinn-seit-14-jahren](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-meldet-hoechsten-quartalsgewinn-seit-14-jahren-a-073b339f-428c-40c8-9a3e-d23a0bc49e3a#ref=rss)
-### dennoch
+* [https://www.spiegel.de/panorama/essex-polizei-baut-gras-an-zur-verbrechensbekaempfung](https://www.spiegel.de/panorama/essex-polizei-baut-gras-an-zur-verbrechensbekaempfung-a-4d257662-b9fb-43d9-bd93-4fb8e5079197#ref=rss)
+### gymnasium
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-verlust-zum-jahresauftakt-und-mehr-buchungen-aus-den-usa](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-verlust-zum-jahresauftakt-und-mehr-buchungen-aus-den-usa-a-7de44b9e-9e62-47ab-8d20-d5ba7b36919d#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/chatgpt-wird-zur-shopping-ki-chatbot-von-openai-gibt-produktempfehlungen](https://www.spiegel.de/netzwelt/web/chatgpt-wird-zur-shopping-ki-chatbot-von-openai-gibt-produktempfehlungen-a-7c030e4e-f78e-4ffa-a8b1-84932f654acc#ref=rss)
-### quartal
+* [https://www.spiegel.de/panorama/bildung/ist-das-gymnasium-noch-zeitgemaess](https://www.spiegel.de/panorama/bildung/ist-das-gymnasium-noch-zeitgemaess-a-9000f6b2-6900-4470-8e33-200a8676ab6b#ref=rss)
+### hamburg
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-verlust-zum-jahresauftakt-und-mehr-buchungen-aus-den-usa](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-verlust-zum-jahresauftakt-und-mehr-buchungen-aus-den-usa-a-7de44b9e-9e62-47ab-8d20-d5ba7b36919d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-meldet-hoechsten-quartalsgewinn-seit-14-jahren](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-meldet-hoechsten-quartalsgewinn-seit-14-jahren-a-073b339f-428c-40c8-9a3e-d23a0bc49e3a#ref=rss)
-### strich
+* [https://www.spiegel.de/politik/hamburg-peter-tschentscher-und-katharina-fegebank-unterzeichnen-koalitionsvertrag-fuer-rot-gruene-reigerung](https://www.spiegel.de/politik/hamburg-peter-tschentscher-und-katharina-fegebank-unterzeichnen-koalitionsvertrag-fuer-rot-gruene-reigerung-a-200dcd95-7680-442e-890b-348f6d47b7d0#ref=rss)
+### peter
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-verlust-zum-jahresauftakt-und-mehr-buchungen-aus-den-usa](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-verlust-zum-jahresauftakt-und-mehr-buchungen-aus-den-usa-a-7de44b9e-9e62-47ab-8d20-d5ba7b36919d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-meldet-hoechsten-quartalsgewinn-seit-14-jahren](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-meldet-hoechsten-quartalsgewinn-seit-14-jahren-a-073b339f-428c-40c8-9a3e-d23a0bc49e3a#ref=rss)
-### autozulieferer
+* [https://www.spiegel.de/politik/hamburg-peter-tschentscher-und-katharina-fegebank-unterzeichnen-koalitionsvertrag-fuer-rot-gruene-reigerung](https://www.spiegel.de/politik/hamburg-peter-tschentscher-und-katharina-fegebank-unterzeichnen-koalitionsvertrag-fuer-rot-gruene-reigerung-a-200dcd95-7680-442e-890b-348f6d47b7d0#ref=rss)
+### auftakt
 
-* [https://www.spiegel.de/wirtschaft/soziales/donald-trump-und-die-zoelle-autozulieferer-fehrer-leidet-trotz-us-produktion](https://www.spiegel.de/wirtschaft/soziales/donald-trump-und-die-zoelle-autozulieferer-fehrer-leidet-trotz-us-produktion-a-d6bcd53d-0a53-4b2e-bf98-7a7ec093dc6d#ref=rss)
-### fehrer
+* [https://www.spiegel.de/panorama/csd-in-schoenebeck-ermittlungen-wegen-hitlergruessen-bei-auftakt-der-pride-saison](https://www.spiegel.de/panorama/csd-in-schoenebeck-ermittlungen-wegen-hitlergruessen-bei-auftakt-der-pride-saison-a-32d8967d-9f49-46ed-801a-b51cf7099d64#ref=rss)
+### jd
 
-* [https://www.spiegel.de/wirtschaft/soziales/donald-trump-und-die-zoelle-autozulieferer-fehrer-leidet-trotz-us-produktion](https://www.spiegel.de/wirtschaft/soziales/donald-trump-und-die-zoelle-autozulieferer-fehrer-leidet-trotz-us-produktion-a-d6bcd53d-0a53-4b2e-bf98-7a7ec093dc6d#ref=rss)
-### leidet
+* [https://www.spiegel.de/ausland/jd-vance-ein-extremist-ist-vizepraesident-der-usa-podcast](https://www.spiegel.de/ausland/jd-vance-ein-extremist-ist-vizepraesident-der-usa-podcast-a-ac425ad4-a984-4232-ac5f-4338f9f93262#ref=rss)
+### vance
 
-* [https://www.spiegel.de/wirtschaft/soziales/donald-trump-und-die-zoelle-autozulieferer-fehrer-leidet-trotz-us-produktion](https://www.spiegel.de/wirtschaft/soziales/donald-trump-und-die-zoelle-autozulieferer-fehrer-leidet-trotz-us-produktion-a-d6bcd53d-0a53-4b2e-bf98-7a7ec093dc6d#ref=rss)
-### igmetallchefin
+* [https://www.spiegel.de/ausland/jd-vance-ein-extremist-ist-vizepraesident-der-usa-podcast](https://www.spiegel.de/ausland/jd-vance-ein-extremist-ist-vizepraesident-der-usa-podcast-a-ac425ad4-a984-4232-ac5f-4338f9f93262#ref=rss)
+### bill
 
-* [https://www.spiegel.de/wirtschaft/ig-metall-chefin-christiane-benner-dringender-appell-an-kuenftige-bundesregierung](https://www.spiegel.de/wirtschaft/ig-metall-chefin-christiane-benner-dringender-appell-an-kuenftige-bundesregierung-a-d9d592db-ba24-43be-b004-8daa2f4711ee#ref=rss)
-### christiane
+* [https://www.spiegel.de/panorama/leute/bill-belichicks-freundin-verbietet-pikante-frage-im-tv-interview](https://www.spiegel.de/panorama/leute/bill-belichicks-freundin-verbietet-pikante-frage-im-tv-interview-a-b1def45b-d8f2-424b-92e0-5d491a7e3c80#ref=rss)
+### levin
 
-* [https://www.spiegel.de/wirtschaft/ig-metall-chefin-christiane-benner-dringender-appell-an-kuenftige-bundesregierung](https://www.spiegel.de/wirtschaft/ig-metall-chefin-christiane-benner-dringender-appell-an-kuenftige-bundesregierung-a-d9d592db-ba24-43be-b004-8daa2f4711ee#ref=rss)
-### benner
+* [https://www.spiegel.de/wirtschaft/levin-holle-bahn-manager-soll-wirtschaftsfluesterer-von-friedrich-merz-werden](https://www.spiegel.de/wirtschaft/levin-holle-bahn-manager-soll-wirtschaftsfluesterer-von-friedrich-merz-werden-a-7faacac0-c92b-4555-bfe3-053082bccd9e#ref=rss)
+### holle
 
-* [https://www.spiegel.de/wirtschaft/ig-metall-chefin-christiane-benner-dringender-appell-an-kuenftige-bundesregierung](https://www.spiegel.de/wirtschaft/ig-metall-chefin-christiane-benner-dringender-appell-an-kuenftige-bundesregierung-a-d9d592db-ba24-43be-b004-8daa2f4711ee#ref=rss)
-### bundesregierung
+* [https://www.spiegel.de/wirtschaft/levin-holle-bahn-manager-soll-wirtschaftsfluesterer-von-friedrich-merz-werden](https://www.spiegel.de/wirtschaft/levin-holle-bahn-manager-soll-wirtschaftsfluesterer-von-friedrich-merz-werden-a-7faacac0-c92b-4555-bfe3-053082bccd9e#ref=rss)
+### druck
 
-* [https://www.spiegel.de/wirtschaft/ig-metall-chefin-christiane-benner-dringender-appell-an-kuenftige-bundesregierung](https://www.spiegel.de/wirtschaft/ig-metall-chefin-christiane-benner-dringender-appell-an-kuenftige-bundesregierung-a-d9d592db-ba24-43be-b004-8daa2f4711ee#ref=rss)
-### neue
+* [https://www.spiegel.de/politik/deutschland/spd-druck-auf-saskia-esken-waechst-herausforderung-fuer-lars-klingbeil](https://www.spiegel.de/politik/deutschland/spd-druck-auf-saskia-esken-waechst-herausforderung-fuer-lars-klingbeil-a-5030a63b-172a-4fc5-b735-ac0163c40105#ref=rss)
+### zwölf
 
-* [https://www.spiegel.de/wirtschaft/ig-metall-chefin-christiane-benner-dringender-appell-an-kuenftige-bundesregierung](https://www.spiegel.de/wirtschaft/ig-metall-chefin-christiane-benner-dringender-appell-an-kuenftige-bundesregierung-a-d9d592db-ba24-43be-b004-8daa2f4711ee#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/konsumklima-deutsche-verbraucher-zeigen-wieder-mehr-kauflaune](https://www.spiegel.de/wirtschaft/service/konsumklima-deutsche-verbraucher-zeigen-wieder-mehr-kauflaune-a-8344d454-9c66-41a1-8d7f-cd28d605487d#ref=rss)
-### zuversicht
+* [https://www.spiegel.de/panorama/sarstedt-zwoelf-jahre-haft-fuer-toedliche-messerattacke-auf-betreiber-von-asylheim](https://www.spiegel.de/panorama/sarstedt-zwoelf-jahre-haft-fuer-toedliche-messerattacke-auf-betreiber-von-asylheim-a-7057ddc4-7974-4be1-aef1-dd95ec2b7769#ref=rss)
+### haft
 
-* [https://www.spiegel.de/wirtschaft/ig-metall-chefin-christiane-benner-dringender-appell-an-kuenftige-bundesregierung](https://www.spiegel.de/wirtschaft/ig-metall-chefin-christiane-benner-dringender-appell-an-kuenftige-bundesregierung-a-d9d592db-ba24-43be-b004-8daa2f4711ee#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/konsumklima-deutsche-verbraucher-zeigen-wieder-mehr-kauflaune](https://www.spiegel.de/wirtschaft/service/konsumklima-deutsche-verbraucher-zeigen-wieder-mehr-kauflaune-a-8344d454-9c66-41a1-8d7f-cd28d605487d#ref=rss)
-### anthony
+* [https://www.spiegel.de/panorama/sarstedt-zwoelf-jahre-haft-fuer-toedliche-messerattacke-auf-betreiber-von-asylheim](https://www.spiegel.de/panorama/sarstedt-zwoelf-jahre-haft-fuer-toedliche-messerattacke-auf-betreiber-von-asylheim-a-7057ddc4-7974-4be1-aef1-dd95ec2b7769#ref=rss)
+### messerattacke
 
-* [https://www.spiegel.de/netzwelt/apps/anthony-lazaro-ich-will-fans-auf-der-ganzen-welt-haben-und-auf-dem-mond](https://www.spiegel.de/netzwelt/apps/anthony-lazaro-ich-will-fans-auf-der-ganzen-welt-haben-und-auf-dem-mond-a-435dfe92-c56a-44db-9ada-0e7f937483ed#ref=rss)
-### lazaro
+* [https://www.spiegel.de/panorama/sarstedt-zwoelf-jahre-haft-fuer-toedliche-messerattacke-auf-betreiber-von-asylheim](https://www.spiegel.de/panorama/sarstedt-zwoelf-jahre-haft-fuer-toedliche-messerattacke-auf-betreiber-von-asylheim-a-7057ddc4-7974-4be1-aef1-dd95ec2b7769#ref=rss)
+### betreiber
 
-* [https://www.spiegel.de/netzwelt/apps/anthony-lazaro-ich-will-fans-auf-der-ganzen-welt-haben-und-auf-dem-mond](https://www.spiegel.de/netzwelt/apps/anthony-lazaro-ich-will-fans-auf-der-ganzen-welt-haben-und-auf-dem-mond-a-435dfe92-c56a-44db-9ada-0e7f937483ed#ref=rss)
-### wahlrecht
+* [https://www.spiegel.de/panorama/sarstedt-zwoelf-jahre-haft-fuer-toedliche-messerattacke-auf-betreiber-von-asylheim](https://www.spiegel.de/panorama/sarstedt-zwoelf-jahre-haft-fuer-toedliche-messerattacke-auf-betreiber-von-asylheim-a-7057ddc4-7974-4be1-aef1-dd95ec2b7769#ref=rss)
+### heino
 
-* [https://www.spiegel.de/panorama/wahlrecht-fuer-fuenfjaehrige-interview-mit-der-erziehungsberaterin-eloise-rickman](https://www.spiegel.de/panorama/wahlrecht-fuer-fuenfjaehrige-interview-mit-der-erziehungsberaterin-eloise-rickman-a-43d97418-6659-4eb2-9ae8-b9b8741ecbeb#ref=rss)
-### eloise
+* [https://www.spiegel.de/kultur/heino-tritt-bald-als-ersatz-fuer-mia-julia-am-ballermann-auf](https://www.spiegel.de/kultur/heino-tritt-bald-als-ersatz-fuer-mia-julia-am-ballermann-auf-a-f8a6ab46-c0ba-4254-b97a-d94a2ac2649a#ref=rss)
+### bald
 
-* [https://www.spiegel.de/panorama/wahlrecht-fuer-fuenfjaehrige-interview-mit-der-erziehungsberaterin-eloise-rickman](https://www.spiegel.de/panorama/wahlrecht-fuer-fuenfjaehrige-interview-mit-der-erziehungsberaterin-eloise-rickman-a-43d97418-6659-4eb2-9ae8-b9b8741ecbeb#ref=rss)
-### rickman
-
-* [https://www.spiegel.de/panorama/wahlrecht-fuer-fuenfjaehrige-interview-mit-der-erziehungsberaterin-eloise-rickman](https://www.spiegel.de/panorama/wahlrecht-fuer-fuenfjaehrige-interview-mit-der-erziehungsberaterin-eloise-rickman-a-43d97418-6659-4eb2-9ae8-b9b8741ecbeb#ref=rss)
-### verbraucher
-
-* [https://www.spiegel.de/wirtschaft/service/konsumklima-deutsche-verbraucher-zeigen-wieder-mehr-kauflaune](https://www.spiegel.de/wirtschaft/service/konsumklima-deutsche-verbraucher-zeigen-wieder-mehr-kauflaune-a-8344d454-9c66-41a1-8d7f-cd28d605487d#ref=rss)
-### chatbot
-
-* [https://www.spiegel.de/netzwelt/web/chatgpt-wird-zur-shopping-ki-chatbot-von-openai-gibt-produktempfehlungen](https://www.spiegel.de/netzwelt/web/chatgpt-wird-zur-shopping-ki-chatbot-von-openai-gibt-produktempfehlungen-a-7c030e4e-f78e-4ffa-a8b1-84932f654acc#ref=rss)
-### produktempfehlungen
-
-* [https://www.spiegel.de/netzwelt/web/chatgpt-wird-zur-shopping-ki-chatbot-von-openai-gibt-produktempfehlungen](https://www.spiegel.de/netzwelt/web/chatgpt-wird-zur-shopping-ki-chatbot-von-openai-gibt-produktempfehlungen-a-7c030e4e-f78e-4ffa-a8b1-84932f654acc#ref=rss)
-### autounfall
-
-* [https://www.spiegel.de/gesundheit/diagnose/atemlos-durch-den-autounfall-ein-raetselhafter-patient](https://www.spiegel.de/gesundheit/diagnose/atemlos-durch-den-autounfall-ein-raetselhafter-patient-a-42dd108b-2eda-487a-9473-d967a6870d3f#ref=rss)
-### bank
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-meldet-hoechsten-quartalsgewinn-seit-14-jahren](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-meldet-hoechsten-quartalsgewinn-seit-14-jahren-a-073b339f-428c-40c8-9a3e-d23a0bc49e3a#ref=rss)
+* [https://www.spiegel.de/kultur/heino-tritt-bald-als-ersatz-fuer-mia-julia-am-ballermann-auf](https://www.spiegel.de/kultur/heino-tritt-bald-als-ersatz-fuer-mia-julia-am-ballermann-auf-a-f8a6ab46-c0ba-4254-b97a-d94a2ac2649a#ref=rss)
 
