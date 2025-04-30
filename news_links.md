@@ -4,288 +4,357 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### zahlen
+### trump
 
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-geheimdienst-von-suedkorea-geht-von-600-getoeteten-soldaten-aus-nordkorea-aus](https://www.spiegel.de/ausland/russland-ukraine-krieg-geheimdienst-von-suedkorea-geht-von-600-getoeteten-soldaten-aus-nordkorea-aus-a-cae030ef-13c0-4dfd-8330-f6fe5b5776b1#ref=rss)
-* [https://www.spiegel.de/sport/fussball/sommermaerchen-affaere-des-dfb-prozess-ist-vor-dem-landgericht-frankfurt-eingestellt-worden](https://www.spiegel.de/sport/fussball/sommermaerchen-affaere-des-dfb-prozess-ist-vor-dem-landgericht-frankfurt-eingestellt-worden-a-e27fd1b0-898b-420d-b158-c5b63673477f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/andrea-nahles-bundesagentur-fuer-arbeit-koennte-in-rote-zahlen-rutschen](https://www.spiegel.de/wirtschaft/andrea-nahles-bundesagentur-fuer-arbeit-koennte-in-rote-zahlen-rutschen-a-1b28e913-9e94-4942-ad73-838ecc083aef#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/fussball-em-in-dortmund-stadiondachkletterer-soll-12-000-euro-polizeikosten-zahlen](https://www.spiegel.de/panorama/justiz/fussball-em-in-dortmund-stadiondachkletterer-soll-12-000-euro-polizeikosten-zahlen-a-ea7b85dd-14df-4479-8277-fb4d2053dca7#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/wissenschaft/natur/tschernobyl-kontaminiertes-ackerland-kann-offenbar-wieder-bewirtschaftet-werden](https://www.spiegel.de/wissenschaft/natur/tschernobyl-kontaminiertes-ackerland-kann-offenbar-wieder-bewirtschaftet-werden-a-9c45205f-fa22-4264-a965-e6a8d467a97b#ref=rss)
-* [https://www.spiegel.de/kultur/musik/bad-bunny-stellt-alben-immer-erst-auf-den-letzten-druecker-fertig](https://www.spiegel.de/kultur/musik/bad-bunny-stellt-alben-immer-erst-auf-den-letzten-druecker-fertig-a-b9174870-1aa7-4ad7-bf7d-58e91aa4bb22#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-mitglieder-segnen-mit-grosser-mehrheit-koalition-mit-der-union-ab](https://www.spiegel.de/politik/deutschland/spd-mitglieder-segnen-mit-grosser-mehrheit-koalition-mit-der-union-ab-a-3a1b74ba-e9e5-4e29-8e31-1a54b38ab066#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bahn-verkauf-von-logistiktochter-schenker-an-dsv-aus-daenemark-erfolgreich-abgeschlossen](https://www.spiegel.de/wirtschaft/bahn-verkauf-von-logistiktochter-schenker-an-dsv-aus-daenemark-erfolgreich-abgeschlossen-a-af1b39cb-bfbc-4cb6-a27e-4b5973870e7a#ref=rss)
-### bekommt
-
-* [https://www.spiegel.de/panorama/justiz/fussball-em-in-dortmund-stadiondachkletterer-soll-12-000-euro-polizeikosten-zahlen](https://www.spiegel.de/panorama/justiz/fussball-em-in-dortmund-stadiondachkletterer-soll-12-000-euro-polizeikosten-zahlen-a-ea7b85dd-14df-4479-8277-fb4d2053dca7#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/meta-ai-meta-packt-seinen-chatgpt-konkurrenten-in-eigene-app](https://www.spiegel.de/netzwelt/apps/meta-ai-meta-packt-seinen-chatgpt-konkurrenten-in-eigene-app-a-b2ce4abc-bbfa-4f66-a079-d847d10edabc#ref=rss)
-* [https://www.spiegel.de/sport/fussball/franz-beckenbauer-platz-die-allianz-arena-bekommt-eine-neue-adresse](https://www.spiegel.de/sport/fussball/franz-beckenbauer-platz-die-allianz-arena-bekommt-eine-neue-adresse-a-2134872d-3562-4c2b-9b2b-068800b520e0#ref=rss)
-### usa
-
-* [https://www.spiegel.de/kultur/usa-heather-graham-spricht-nicht-mehr-mit-ihren-eltern](https://www.spiegel.de/kultur/usa-heather-graham-spricht-nicht-mehr-mit-ihren-eltern-a-2c2689e4-00cc-4d50-8813-3bb49fa499d9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/howard-lutnick-iphones-von-apple-made-in-usa-der-handelsminister-sagt-wie](https://www.spiegel.de/wirtschaft/unternehmen/howard-lutnick-iphones-von-apple-made-in-usa-der-handelsminister-sagt-wie-a-d980c2b1-31df-4d31-80ae-03130412162f#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/kultur/usa-heather-graham-spricht-nicht-mehr-mit-ihren-eltern](https://www.spiegel.de/kultur/usa-heather-graham-spricht-nicht-mehr-mit-ihren-eltern-a-2c2689e4-00cc-4d50-8813-3bb49fa499d9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/solar-wechselrichter-aus-china-forscher-spueren-schwachstelle-in-europas-stromnetz-auf](https://www.spiegel.de/wirtschaft/soziales/solar-wechselrichter-aus-china-forscher-spueren-schwachstelle-in-europas-stromnetz-auf-a-73b1ba19-cc81-46dc-ad2e-9ec7af8fdcd1#ref=rss)
-* [https://www.spiegel.de/sport/fussball/franz-beckenbauer-platz-die-allianz-arena-bekommt-eine-neue-adresse](https://www.spiegel.de/sport/fussball/franz-beckenbauer-platz-die-allianz-arena-bekommt-eine-neue-adresse-a-2134872d-3562-4c2b-9b2b-068800b520e0#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/kultur/usa-heather-graham-spricht-nicht-mehr-mit-ihren-eltern](https://www.spiegel.de/kultur/usa-heather-graham-spricht-nicht-mehr-mit-ihren-eltern-a-2c2689e4-00cc-4d50-8813-3bb49fa499d9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/howard-lutnick-iphones-von-apple-made-in-usa-der-handelsminister-sagt-wie](https://www.spiegel.de/wirtschaft/unternehmen/howard-lutnick-iphones-von-apple-made-in-usa-der-handelsminister-sagt-wie-a-d980c2b1-31df-4d31-80ae-03130412162f#ref=rss)
-* [https://www.spiegel.de/kultur/musik/bad-bunny-stellt-alben-immer-erst-auf-den-letzten-druecker-fertig](https://www.spiegel.de/kultur/musik/bad-bunny-stellt-alben-immer-erst-auf-den-letzten-druecker-fertig-a-b9174870-1aa7-4ad7-bf7d-58e91aa4bb22#ref=rss)
-### worte
-
-* [https://www.spiegel.de/ausland/donald-trump-feierstunde-mit-fans-derbe-worte-fuer-politische-gegner](https://www.spiegel.de/ausland/donald-trump-feierstunde-mit-fans-derbe-worte-fuer-politische-gegner-a-6148c416-f586-4ab7-a131-fed75145a346#ref=rss)
-* [https://www.spiegel.de/kultur/musik/neil-young-schiesst-gegen-elon-musk-wenn-du-ein-faschist-bist-hol-dir-einen-tesla](https://www.spiegel.de/kultur/musik/neil-young-schiesst-gegen-elon-musk-wenn-du-ein-faschist-bist-hol-dir-einen-tesla-a-9b4774cf-cb42-459a-841c-17612f35cb77#ref=rss)
-### arbeit
-
-* [https://www.spiegel.de/panorama/muenchen-eisbach-wasser-im-englischen-garten-wird-abgesenkt](https://www.spiegel.de/panorama/muenchen-eisbach-wasser-im-englischen-garten-wird-abgesenkt-a-4be7ae14-1485-4d79-b681-802137c1eda7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/andrea-nahles-bundesagentur-fuer-arbeit-koennte-in-rote-zahlen-rutschen](https://www.spiegel.de/wirtschaft/andrea-nahles-bundesagentur-fuer-arbeit-koennte-in-rote-zahlen-rutschen-a-1b28e913-9e94-4942-ad73-838ecc083aef#ref=rss)
-### euro
-
-* [https://www.spiegel.de/sport/fussball/sommermaerchen-affaere-des-dfb-prozess-ist-vor-dem-landgericht-frankfurt-eingestellt-worden](https://www.spiegel.de/sport/fussball/sommermaerchen-affaere-des-dfb-prozess-ist-vor-dem-landgericht-frankfurt-eingestellt-worden-a-e27fd1b0-898b-420d-b158-c5b63673477f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/fussball-em-in-dortmund-stadiondachkletterer-soll-12-000-euro-polizeikosten-zahlen](https://www.spiegel.de/panorama/justiz/fussball-em-in-dortmund-stadiondachkletterer-soll-12-000-euro-polizeikosten-zahlen-a-ea7b85dd-14df-4479-8277-fb4d2053dca7#ref=rss)
-* [https://www.spiegel.de/start/frisches-fladenbrot-mit-dreierlei-dips-fuer-1-75-euro-pro-person-guenstiges-schnelles-rezept](https://www.spiegel.de/start/frisches-fladenbrot-mit-dreierlei-dips-fuer-1-75-euro-pro-person-guenstiges-schnelles-rezept-a-3c360550-90ac-429c-9b74-121a7385ee0c#ref=rss)
-### laut
-
-* [https://www.spiegel.de/wissenschaft/natur/tschernobyl-kontaminiertes-ackerland-kann-offenbar-wieder-bewirtschaftet-werden](https://www.spiegel.de/wissenschaft/natur/tschernobyl-kontaminiertes-ackerland-kann-offenbar-wieder-bewirtschaftet-werden-a-9c45205f-fa22-4264-a965-e6a8d467a97b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/andrea-nahles-bundesagentur-fuer-arbeit-koennte-in-rote-zahlen-rutschen](https://www.spiegel.de/wirtschaft/andrea-nahles-bundesagentur-fuer-arbeit-koennte-in-rote-zahlen-rutschen-a-1b28e913-9e94-4942-ad73-838ecc083aef#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/bip-in-deutschland-konjunktur-zieht-zu-jahresbeginn-etwas-an](https://www.spiegel.de/wirtschaft/unternehmen/bip-in-deutschland-konjunktur-zieht-zu-jahresbeginn-etwas-an-a-48f4b79a-5493-4800-b163-7c763aa7d696#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/panorama/justiz/flughafen-muenchen-mann-will-haigebiss-nach-deutschland-schmuggeln](https://www.spiegel.de/panorama/justiz/flughafen-muenchen-mann-will-haigebiss-nach-deutschland-schmuggeln-a-4069d70e-ed7d-461c-8311-505d8ef1779d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/arbeitslose-zahl-der-jobsuchenden-geht-im-april-nur-leicht-zurueck](https://www.spiegel.de/wirtschaft/arbeitslose-zahl-der-jobsuchenden-geht-im-april-nur-leicht-zurueck-a-14e2a05a-5667-4c6f-9916-d9c589c2c7ef#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/bip-in-deutschland-konjunktur-zieht-zu-jahresbeginn-etwas-an](https://www.spiegel.de/wirtschaft/unternehmen/bip-in-deutschland-konjunktur-zieht-zu-jahresbeginn-etwas-an-a-48f4b79a-5493-4800-b163-7c763aa7d696#ref=rss)
-### meta
-
-* [https://www.spiegel.de/netzwelt/apps/meta-ai-meta-packt-seinen-chatgpt-konkurrenten-in-eigene-app](https://www.spiegel.de/netzwelt/apps/meta-ai-meta-packt-seinen-chatgpt-konkurrenten-in-eigene-app-a-b2ce4abc-bbfa-4f66-a079-d847d10edabc#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/wirtschaft/bahn-verkauf-von-logistiktochter-schenker-an-dsv-aus-daenemark-erfolgreich-abgeschlossen](https://www.spiegel.de/wirtschaft/bahn-verkauf-von-logistiktochter-schenker-an-dsv-aus-daenemark-erfolgreich-abgeschlossen-a-af1b39cb-bfbc-4cb6-a27e-4b5973870e7a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/bip-in-deutschland-konjunktur-zieht-zu-jahresbeginn-etwas-an](https://www.spiegel.de/wirtschaft/unternehmen/bip-in-deutschland-konjunktur-zieht-zu-jahresbeginn-etwas-an-a-48f4b79a-5493-4800-b163-7c763aa7d696#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### pro
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-* [https://www.spiegel.de/start/frisches-fladenbrot-mit-dreierlei-dips-fuer-1-75-euro-pro-person-guenstiges-schnelles-rezept](https://www.spiegel.de/start/frisches-fladenbrot-mit-dreierlei-dips-fuer-1-75-euro-pro-person-guenstiges-schnelles-rezept-a-3c360550-90ac-429c-9b74-121a7385ee0c#ref=rss)
-### tag
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### heather
-
-* [https://www.spiegel.de/kultur/usa-heather-graham-spricht-nicht-mehr-mit-ihren-eltern](https://www.spiegel.de/kultur/usa-heather-graham-spricht-nicht-mehr-mit-ihren-eltern-a-2c2689e4-00cc-4d50-8813-3bb49fa499d9#ref=rss)
-### graham
-
-* [https://www.spiegel.de/kultur/usa-heather-graham-spricht-nicht-mehr-mit-ihren-eltern](https://www.spiegel.de/kultur/usa-heather-graham-spricht-nicht-mehr-mit-ihren-eltern-a-2c2689e4-00cc-4d50-8813-3bb49fa499d9#ref=rss)
-### gründen
-
-* [https://www.spiegel.de/kultur/usa-heather-graham-spricht-nicht-mehr-mit-ihren-eltern](https://www.spiegel.de/kultur/usa-heather-graham-spricht-nicht-mehr-mit-ihren-eltern-a-2c2689e4-00cc-4d50-8813-3bb49fa499d9#ref=rss)
-* [https://www.spiegel.de/sport/formel1/sebastian-vettel-ueber-ein-formel-1-comeback-seine-kinder-sind-dagegen](https://www.spiegel.de/sport/formel1/sebastian-vettel-ueber-ein-formel-1-comeback-seine-kinder-sind-dagegen-a-8125be3e-accf-4b34-891a-e2cab9cde6f4#ref=rss)
-### bundesregierung
-
-* [https://www.spiegel.de/wirtschaft/rente-bundesregierung-beschliesst-rentenerhoehung-letzte-sitzung-von-scholz-kabinett](https://www.spiegel.de/wirtschaft/rente-bundesregierung-beschliesst-rentenerhoehung-letzte-sitzung-von-scholz-kabinett-a-3a63f4be-c673-4639-8e40-b57acfb0aef6#ref=rss)
-### wohl
-
-* [https://www.spiegel.de/wirtschaft/rente-bundesregierung-beschliesst-rentenerhoehung-letzte-sitzung-von-scholz-kabinett](https://www.spiegel.de/wirtschaft/rente-bundesregierung-beschliesst-rentenerhoehung-letzte-sitzung-von-scholz-kabinett-a-3a63f4be-c673-4639-8e40-b57acfb0aef6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/bip-in-deutschland-konjunktur-zieht-zu-jahresbeginn-etwas-an](https://www.spiegel.de/wirtschaft/unternehmen/bip-in-deutschland-konjunktur-zieht-zu-jahresbeginn-etwas-an-a-48f4b79a-5493-4800-b163-7c763aa7d696#ref=rss)
-### geplant
-
-* [https://www.spiegel.de/wirtschaft/rente-bundesregierung-beschliesst-rentenerhoehung-letzte-sitzung-von-scholz-kabinett](https://www.spiegel.de/wirtschaft/rente-bundesregierung-beschliesst-rentenerhoehung-letzte-sitzung-von-scholz-kabinett-a-3a63f4be-c673-4639-8e40-b57acfb0aef6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bahn-verkauf-von-logistiktochter-schenker-an-dsv-aus-daenemark-erfolgreich-abgeschlossen](https://www.spiegel.de/wirtschaft/bahn-verkauf-von-logistiktochter-schenker-an-dsv-aus-daenemark-erfolgreich-abgeschlossen-a-af1b39cb-bfbc-4cb6-a27e-4b5973870e7a#ref=rss)
+* [https://www.spiegel.de/ausland/amazon-donald-trump-wirft-konzern-politische-feindseligkeit-vor](https://www.spiegel.de/ausland/amazon-donald-trump-wirft-konzern-politische-feindseligkeit-vor-a-006cf36d-d38a-480f-b79d-ecf5d2641e32#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-was-hat-der-us-praesident-nach-100-tagen-im-ukrainekrieg-erreicht](https://www.spiegel.de/ausland/donald-trump-was-hat-der-us-praesident-nach-100-tagen-im-ukrainekrieg-erreicht-a-5e65ad90-95ff-43a1-9650-ce35f44f6dd8#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-podcast](https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-podcast-a-d3f787b7-7231-456e-8ccb-27dcc420f7b7#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt](https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-a-afb44cb8-b497-4aa6-9a9f-25f258794225#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-klingbeil-lars-man-standing](https://www.spiegel.de/politik/deutschland/news-des-tages-klingbeil-lars-man-standing-a-87359b38-626d-44da-a8ea-2b6d66d45fec#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-trump-konzern-plant-wolkenkratzer-in-dubai-mit-krypto-optionen](https://www.spiegel.de/wirtschaft/donald-trump-trump-konzern-plant-wolkenkratzer-in-dubai-mit-krypto-optionen-a-3b35cfc0-0fd3-4eef-9e32-f3b01da0b170#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/ausland/donald-trump-feierstunde-mit-fans-derbe-worte-fuer-politische-gegner](https://www.spiegel.de/ausland/donald-trump-feierstunde-mit-fans-derbe-worte-fuer-politische-gegner-a-6148c416-f586-4ab7-a131-fed75145a346#ref=rss)
-* [https://www.spiegel.de/kultur/musik/neil-young-schiesst-gegen-elon-musk-wenn-du-ein-faschist-bist-hol-dir-einen-tesla](https://www.spiegel.de/kultur/musik/neil-young-schiesst-gegen-elon-musk-wenn-du-ein-faschist-bist-hol-dir-einen-tesla-a-9b4774cf-cb42-459a-841c-17612f35cb77#ref=rss)
-### derbe
+* [https://www.spiegel.de/ausland/amazon-donald-trump-wirft-konzern-politische-feindseligkeit-vor](https://www.spiegel.de/ausland/amazon-donald-trump-wirft-konzern-politische-feindseligkeit-vor-a-006cf36d-d38a-480f-b79d-ecf5d2641e32#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-was-hat-der-us-praesident-nach-100-tagen-im-ukrainekrieg-erreicht](https://www.spiegel.de/ausland/donald-trump-was-hat-der-us-praesident-nach-100-tagen-im-ukrainekrieg-erreicht-a-5e65ad90-95ff-43a1-9650-ce35f44f6dd8#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-podcast](https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-podcast-a-d3f787b7-7231-456e-8ccb-27dcc420f7b7#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt](https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-a-afb44cb8-b497-4aa6-9a9f-25f258794225#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-trump-konzern-plant-wolkenkratzer-in-dubai-mit-krypto-optionen](https://www.spiegel.de/wirtschaft/donald-trump-trump-konzern-plant-wolkenkratzer-in-dubai-mit-krypto-optionen-a-3b35cfc0-0fd3-4eef-9e32-f3b01da0b170#ref=rss)
+### kanada
 
-* [https://www.spiegel.de/ausland/donald-trump-feierstunde-mit-fans-derbe-worte-fuer-politische-gegner](https://www.spiegel.de/ausland/donald-trump-feierstunde-mit-fans-derbe-worte-fuer-politische-gegner-a-6148c416-f586-4ab7-a131-fed75145a346#ref=rss)
-### gegner
+* [https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-podcast](https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-podcast-a-d3f787b7-7231-456e-8ccb-27dcc420f7b7#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt](https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-a-afb44cb8-b497-4aa6-9a9f-25f258794225#ref=rss)
+### mark
 
-* [https://www.spiegel.de/ausland/donald-trump-feierstunde-mit-fans-derbe-worte-fuer-politische-gegner](https://www.spiegel.de/ausland/donald-trump-feierstunde-mit-fans-derbe-worte-fuer-politische-gegner-a-6148c416-f586-4ab7-a131-fed75145a346#ref=rss)
-### selbst
+* [https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-podcast](https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-podcast-a-d3f787b7-7231-456e-8ccb-27dcc420f7b7#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt](https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-a-afb44cb8-b497-4aa6-9a9f-25f258794225#ref=rss)
+### carney
 
-* [https://www.spiegel.de/ausland/donald-trump-feierstunde-mit-fans-derbe-worte-fuer-politische-gegner](https://www.spiegel.de/ausland/donald-trump-feierstunde-mit-fans-derbe-worte-fuer-politische-gegner-a-6148c416-f586-4ab7-a131-fed75145a346#ref=rss)
-* [https://www.spiegel.de/start/frisches-fladenbrot-mit-dreierlei-dips-fuer-1-75-euro-pro-person-guenstiges-schnelles-rezept](https://www.spiegel.de/start/frisches-fladenbrot-mit-dreierlei-dips-fuer-1-75-euro-pro-person-guenstiges-schnelles-rezept-a-3c360550-90ac-429c-9b74-121a7385ee0c#ref=rss)
-### nordkorea
+* [https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-podcast](https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-podcast-a-d3f787b7-7231-456e-8ccb-27dcc420f7b7#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt](https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-a-afb44cb8-b497-4aa6-9a9f-25f258794225#ref=rss)
+### trotzt
 
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-geheimdienst-von-suedkorea-geht-von-600-getoeteten-soldaten-aus-nordkorea-aus](https://www.spiegel.de/ausland/russland-ukraine-krieg-geheimdienst-von-suedkorea-geht-von-600-getoeteten-soldaten-aus-nordkorea-aus-a-cae030ef-13c0-4dfd-8330-f6fe5b5776b1#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-podcast](https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-podcast-a-d3f787b7-7231-456e-8ccb-27dcc420f7b7#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt](https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-a-afb44cb8-b497-4aa6-9a9f-25f258794225#ref=rss)
+### gestorben
+
+* [https://www.spiegel.de/sport/wintersport/nachruf-auf-max-bolkart-der-sieger-der-vierschanzentournee-war-ein-skisprung-pionier](https://www.spiegel.de/sport/wintersport/nachruf-auf-max-bolkart-der-sieger-der-vierschanzentournee-war-ein-skisprung-pionier-a-abb39f07-d9ec-470e-a0b3-86319b9ce7b6#ref=rss)
+* [https://www.spiegel.de/kultur/tv/gerd-helbig-ist-tot-ehemaliger-zdf-auslandskorrespondent-gestorben](https://www.spiegel.de/kultur/tv/gerd-helbig-ist-tot-ehemaliger-zdf-auslandskorrespondent-gestorben-a-de32b00b-7237-4f35-9ffb-8b2e71ab4f3a#ref=rss)
+* [https://www.spiegel.de/kultur/musik/andy-bey-nachruf-so-klang-die-stimme-von-gott](https://www.spiegel.de/kultur/musik/andy-bey-nachruf-so-klang-die-stimme-von-gott-a-5e69d3ed-9f03-42ae-a1c0-c8d62459331a#ref=rss)
+### haus
+
+* [https://www.spiegel.de/ausland/amazon-donald-trump-wirft-konzern-politische-feindseligkeit-vor](https://www.spiegel.de/ausland/amazon-donald-trump-wirft-konzern-politische-feindseligkeit-vor-a-006cf36d-d38a-480f-b79d-ecf5d2641e32#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/oviedo-spanien-deutsches-ehepaar-hielt-kinder-seit-2021-in-haus-gefangen](https://www.spiegel.de/panorama/justiz/oviedo-spanien-deutsches-ehepaar-hielt-kinder-seit-2021-in-haus-gefangen-a-4e7047b0-0f5f-4a4d-a066-71812ae22e97#ref=rss)
+### uspräsident
+
+* [https://www.spiegel.de/ausland/donald-trump-was-hat-der-us-praesident-nach-100-tagen-im-ukrainekrieg-erreicht](https://www.spiegel.de/ausland/donald-trump-was-hat-der-us-praesident-nach-100-tagen-im-ukrainekrieg-erreicht-a-5e65ad90-95ff-43a1-9650-ce35f44f6dd8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-trump-konzern-plant-wolkenkratzer-in-dubai-mit-krypto-optionen](https://www.spiegel.de/wirtschaft/donald-trump-trump-konzern-plant-wolkenkratzer-in-dubai-mit-krypto-optionen-a-3b35cfc0-0fd3-4eef-9e32-f3b01da0b170#ref=rss)
+### tagen
+
+* [https://www.spiegel.de/ausland/donald-trump-was-hat-der-us-praesident-nach-100-tagen-im-ukrainekrieg-erreicht](https://www.spiegel.de/ausland/donald-trump-was-hat-der-us-praesident-nach-100-tagen-im-ukrainekrieg-erreicht-a-5e65ad90-95ff-43a1-9650-ce35f44f6dd8#ref=rss)
+* [https://www.spiegel.de/familie/pubertaet-wenn-mama-und-papa-ihren-heldenstatus-verlieren](https://www.spiegel.de/familie/pubertaet-wenn-mama-und-papa-ihren-heldenstatus-verlieren-a-3459c328-21a6-4250-a166-12c39dc454d9#ref=rss)
 ### erst
 
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-geheimdienst-von-suedkorea-geht-von-600-getoeteten-soldaten-aus-nordkorea-aus](https://www.spiegel.de/ausland/russland-ukraine-krieg-geheimdienst-von-suedkorea-geht-von-600-getoeteten-soldaten-aus-nordkorea-aus-a-cae030ef-13c0-4dfd-8330-f6fe5b5776b1#ref=rss)
-* [https://www.spiegel.de/kultur/musik/bad-bunny-stellt-alben-immer-erst-auf-den-letzten-druecker-fertig](https://www.spiegel.de/kultur/musik/bad-bunny-stellt-alben-immer-erst-auf-den-letzten-druecker-fertig-a-b9174870-1aa7-4ad7-bf7d-58e91aa4bb22#ref=rss)
-### einsatz
+* [https://www.spiegel.de/ausland/donald-trump-was-hat-der-us-praesident-nach-100-tagen-im-ukrainekrieg-erreicht](https://www.spiegel.de/ausland/donald-trump-was-hat-der-us-praesident-nach-100-tagen-im-ukrainekrieg-erreicht-a-5e65ad90-95ff-43a1-9650-ce35f44f6dd8#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/elektronische-patientenakte-hacker-umgehen-auch-die-neuen-schutzmassnahmen](https://www.spiegel.de/netzwelt/web/elektronische-patientenakte-hacker-umgehen-auch-die-neuen-schutzmassnahmen-a-f3528e86-0c56-4567-8a23-8aa139c5edb7#ref=rss)
+* [https://www.spiegel.de/kultur/musik/andy-bey-nachruf-so-klang-die-stimme-von-gott](https://www.spiegel.de/kultur/musik/andy-bey-nachruf-so-klang-die-stimme-von-gott-a-5e69d3ed-9f03-42ae-a1c0-c8d62459331a#ref=rss)
+### sonne
 
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-geheimdienst-von-suedkorea-geht-von-600-getoeteten-soldaten-aus-nordkorea-aus](https://www.spiegel.de/ausland/russland-ukraine-krieg-geheimdienst-von-suedkorea-geht-von-600-getoeteten-soldaten-aus-nordkorea-aus-a-cae030ef-13c0-4dfd-8330-f6fe5b5776b1#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/fussball-em-in-dortmund-stadiondachkletterer-soll-12-000-euro-polizeikosten-zahlen](https://www.spiegel.de/panorama/justiz/fussball-em-in-dortmund-stadiondachkletterer-soll-12-000-euro-polizeikosten-zahlen-a-ea7b85dd-14df-4479-8277-fb4d2053dca7#ref=rss)
-### münchen
+* [https://www.spiegel.de/panorama/wetter-quendolin-bringt-sonnenschein-und-hohe-temperaturen-zum-1-mai](https://www.spiegel.de/panorama/wetter-quendolin-bringt-sonnenschein-und-hohe-temperaturen-zum-1-mai-a-1e22a222-5404-4f7f-bd74-2ded3d458fb5#ref=rss)
+### auster
 
-* [https://www.spiegel.de/panorama/muenchen-eisbach-wasser-im-englischen-garten-wird-abgesenkt](https://www.spiegel.de/panorama/muenchen-eisbach-wasser-im-englischen-garten-wird-abgesenkt-a-4be7ae14-1485-4d79-b681-802137c1eda7#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/flughafen-muenchen-mann-will-haigebiss-nach-deutschland-schmuggeln](https://www.spiegel.de/panorama/justiz/flughafen-muenchen-mann-will-haigebiss-nach-deutschland-schmuggeln-a-4069d70e-ed7d-461c-8311-505d8ef1779d#ref=rss)
-### polizei
+* [https://www.spiegel.de/kultur/paul-auster-tochter-sophie-verraet-was-sie-von-ihrem-vater-gelernt-hat](https://www.spiegel.de/kultur/paul-auster-tochter-sophie-verraet-was-sie-von-ihrem-vater-gelernt-hat-a-42588470-8d34-465b-b57f-39934268d395#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/panorama/muenchen-eisbach-wasser-im-englischen-garten-wird-abgesenkt](https://www.spiegel.de/panorama/muenchen-eisbach-wasser-im-englischen-garten-wird-abgesenkt-a-4be7ae14-1485-4d79-b681-802137c1eda7#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/fussball-em-in-dortmund-stadiondachkletterer-soll-12-000-euro-polizeikosten-zahlen](https://www.spiegel.de/panorama/justiz/fussball-em-in-dortmund-stadiondachkletterer-soll-12-000-euro-polizeikosten-zahlen-a-ea7b85dd-14df-4479-8277-fb4d2053dca7#ref=rss)
-### tod
+* [https://www.spiegel.de/ausland/russland-und-nordkorea-beginnen-offenbar-mit-bau-von-gemeinsamer-strassenbruecke](https://www.spiegel.de/ausland/russland-und-nordkorea-beginnen-offenbar-mit-bau-von-gemeinsamer-strassenbruecke-a-4e0e12fe-f5fe-4c60-8da5-62f133307fe4#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/oviedo-spanien-deutsches-ehepaar-hielt-kinder-seit-2021-in-haus-gefangen](https://www.spiegel.de/panorama/justiz/oviedo-spanien-deutsches-ehepaar-hielt-kinder-seit-2021-in-haus-gefangen-a-4e7047b0-0f5f-4a4d-a066-71812ae22e97#ref=rss)
+### klingbeil
 
-* [https://www.spiegel.de/panorama/muenchen-eisbach-wasser-im-englischen-garten-wird-abgesenkt](https://www.spiegel.de/panorama/muenchen-eisbach-wasser-im-englischen-garten-wird-abgesenkt-a-4be7ae14-1485-4d79-b681-802137c1eda7#ref=rss)
-* [https://www.spiegel.de/geschichte/vietnamkrieg-wir-hatten-nur-die-wahl-zwischen-freiheit-und-tod](https://www.spiegel.de/geschichte/vietnamkrieg-wir-hatten-nur-die-wahl-zwischen-freiheit-und-tod-a-5fe05ff2-47c8-40ab-b2f3-51a2fad26b4a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-klingbeil-lars-man-standing](https://www.spiegel.de/politik/deutschland/news-des-tages-klingbeil-lars-man-standing-a-87359b38-626d-44da-a8ea-2b6d66d45fec#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-personaldebatte-heikle-tage-fuer-lars-klingbeil](https://www.spiegel.de/politik/deutschland/spd-personaldebatte-heikle-tage-fuer-lars-klingbeil-a-39e5d208-a171-45ca-bb2d-1f3a995a54c7#ref=rss)
+### konzern
+
+* [https://www.spiegel.de/ausland/amazon-donald-trump-wirft-konzern-politische-feindseligkeit-vor](https://www.spiegel.de/ausland/amazon-donald-trump-wirft-konzern-politische-feindseligkeit-vor-a-006cf36d-d38a-480f-b79d-ecf5d2641e32#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-trump-konzern-plant-wolkenkratzer-in-dubai-mit-krypto-optionen](https://www.spiegel.de/wirtschaft/donald-trump-trump-konzern-plant-wolkenkratzer-in-dubai-mit-krypto-optionen-a-3b35cfc0-0fd3-4eef-9e32-f3b01da0b170#ref=rss)
+### 100
+
+* [https://www.spiegel.de/ausland/donald-trump-was-hat-der-us-praesident-nach-100-tagen-im-ukrainekrieg-erreicht](https://www.spiegel.de/ausland/donald-trump-was-hat-der-us-praesident-nach-100-tagen-im-ukrainekrieg-erreicht-a-5e65ad90-95ff-43a1-9650-ce35f44f6dd8#ref=rss)
+### erreicht
+
+* [https://www.spiegel.de/ausland/donald-trump-was-hat-der-us-praesident-nach-100-tagen-im-ukrainekrieg-erreicht](https://www.spiegel.de/ausland/donald-trump-was-hat-der-us-praesident-nach-100-tagen-im-ukrainekrieg-erreicht-a-5e65ad90-95ff-43a1-9650-ce35f44f6dd8#ref=rss)
+### krieg
+
+* [https://www.spiegel.de/ausland/donald-trump-was-hat-der-us-praesident-nach-100-tagen-im-ukrainekrieg-erreicht](https://www.spiegel.de/ausland/donald-trump-was-hat-der-us-praesident-nach-100-tagen-im-ukrainekrieg-erreicht-a-5e65ad90-95ff-43a1-9650-ce35f44f6dd8#ref=rss)
+* [https://www.spiegel.de/ausland/russland-und-nordkorea-beginnen-offenbar-mit-bau-von-gemeinsamer-strassenbruecke](https://www.spiegel.de/ausland/russland-und-nordkorea-beginnen-offenbar-mit-bau-von-gemeinsamer-strassenbruecke-a-4e0e12fe-f5fe-4c60-8da5-62f133307fe4#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/donald-trump-was-hat-der-us-praesident-nach-100-tagen-im-ukrainekrieg-erreicht](https://www.spiegel.de/ausland/donald-trump-was-hat-der-us-praesident-nach-100-tagen-im-ukrainekrieg-erreicht-a-5e65ad90-95ff-43a1-9650-ce35f44f6dd8#ref=rss)
+* [https://www.spiegel.de/ausland/russland-und-nordkorea-beginnen-offenbar-mit-bau-von-gemeinsamer-strassenbruecke](https://www.spiegel.de/ausland/russland-und-nordkorea-beginnen-offenbar-mit-bau-von-gemeinsamer-strassenbruecke-a-4e0e12fe-f5fe-4c60-8da5-62f133307fe4#ref=rss)
+### siegen
+
+* [https://www.spiegel.de/panorama/justiz/siegen-lebenslange-haftstrafe-fuer-angreiferin-nach-messerattacke-im-bus](https://www.spiegel.de/panorama/justiz/siegen-lebenslange-haftstrafe-fuer-angreiferin-nach-messerattacke-im-bus-a-7ca1bd49-94a3-4ef6-a661-1fc2defbe7de#ref=rss)
+### erklärt
+
+* [https://www.spiegel.de/panorama/justiz/siegen-lebenslange-haftstrafe-fuer-angreiferin-nach-messerattacke-im-bus](https://www.spiegel.de/panorama/justiz/siegen-lebenslange-haftstrafe-fuer-angreiferin-nach-messerattacke-im-bus-a-7ca1bd49-94a3-4ef6-a661-1fc2defbe7de#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/klimawandel-wie-stadteichhoernchen-die-trockenheit-ueberstehen](https://www.spiegel.de/wissenschaft/natur/klimawandel-wie-stadteichhoernchen-die-trockenheit-ueberstehen-a-300f3cc6-86c1-4eb5-b1b5-c5608ae3cfbe#ref=rss)
+### august
+
+* [https://www.spiegel.de/panorama/justiz/siegen-lebenslange-haftstrafe-fuer-angreiferin-nach-messerattacke-im-bus](https://www.spiegel.de/panorama/justiz/siegen-lebenslange-haftstrafe-fuer-angreiferin-nach-messerattacke-im-bus-a-7ca1bd49-94a3-4ef6-a661-1fc2defbe7de#ref=rss)
+* [https://www.spiegel.de/panorama/leute/rheinland-pfalz-niederlande-baby-christoph-nach-retter-von-kroev-benannt](https://www.spiegel.de/panorama/leute/rheinland-pfalz-niederlande-baby-christoph-nach-retter-von-kroev-benannt-a-f3927027-6967-4905-8aea-23be83c3d9ed#ref=rss)
+### 2024
+
+* [https://www.spiegel.de/panorama/justiz/siegen-lebenslange-haftstrafe-fuer-angreiferin-nach-messerattacke-im-bus](https://www.spiegel.de/panorama/justiz/siegen-lebenslange-haftstrafe-fuer-angreiferin-nach-messerattacke-im-bus-a-7ca1bd49-94a3-4ef6-a661-1fc2defbe7de#ref=rss)
+* [https://www.spiegel.de/panorama/leute/rheinland-pfalz-niederlande-baby-christoph-nach-retter-von-kroev-benannt](https://www.spiegel.de/panorama/leute/rheinland-pfalz-niederlande-baby-christoph-nach-retter-von-kroev-benannt-a-f3927027-6967-4905-8aea-23be83c3d9ed#ref=rss)
+### drei
+
+* [https://www.spiegel.de/panorama/justiz/siegen-lebenslange-haftstrafe-fuer-angreiferin-nach-messerattacke-im-bus](https://www.spiegel.de/panorama/justiz/siegen-lebenslange-haftstrafe-fuer-angreiferin-nach-messerattacke-im-bus-a-7ca1bd49-94a3-4ef6-a661-1fc2defbe7de#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/oviedo-spanien-deutsches-ehepaar-hielt-kinder-seit-2021-in-haus-gefangen](https://www.spiegel.de/panorama/justiz/oviedo-spanien-deutsches-ehepaar-hielt-kinder-seit-2021-in-haus-gefangen-a-4e7047b0-0f5f-4a4d-a066-71812ae22e97#ref=rss)
+### kommen
+
+* [https://www.spiegel.de/panorama/wetter-quendolin-bringt-sonnenschein-und-hohe-temperaturen-zum-1-mai](https://www.spiegel.de/panorama/wetter-quendolin-bringt-sonnenschein-und-hohe-temperaturen-zum-1-mai-a-1e22a222-5404-4f7f-bd74-2ded3d458fb5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/pflege-fast-jede-fuenfte-pflegekraft-kommt-mittlerweile-aus-dem-ausland](https://www.spiegel.de/wirtschaft/pflege-fast-jede-fuenfte-pflegekraft-kommt-mittlerweile-aus-dem-ausland-a-aa51edb0-d4e7-4a45-bc21-1b1b65609ee9#ref=rss)
+### grad
+
+* [https://www.spiegel.de/panorama/wetter-quendolin-bringt-sonnenschein-und-hohe-temperaturen-zum-1-mai](https://www.spiegel.de/panorama/wetter-quendolin-bringt-sonnenschein-und-hohe-temperaturen-zum-1-mai-a-1e22a222-5404-4f7f-bd74-2ded3d458fb5#ref=rss)
+### verdanken
+
+* [https://www.spiegel.de/panorama/wetter-quendolin-bringt-sonnenschein-und-hohe-temperaturen-zum-1-mai](https://www.spiegel.de/panorama/wetter-quendolin-bringt-sonnenschein-und-hohe-temperaturen-zum-1-mai-a-1e22a222-5404-4f7f-bd74-2ded3d458fb5#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/nachruf-auf-max-bolkart-der-sieger-der-vierschanzentournee-war-ein-skisprung-pionier](https://www.spiegel.de/sport/wintersport/nachruf-auf-max-bolkart-der-sieger-der-vierschanzentournee-war-ein-skisprung-pionier-a-abb39f07-d9ec-470e-a0b3-86319b9ce7b6#ref=rss)
+### goldgelbe
+
+* [https://www.spiegel.de/panorama/koeln-goldgelbe-loewenaeffchen-im-zoo-geboren](https://www.spiegel.de/panorama/koeln-goldgelbe-loewenaeffchen-im-zoo-geboren-a-87ffee7c-313f-4500-adaf-6854f783a684#ref=rss)
+### löwenäffchen
+
+* [https://www.spiegel.de/panorama/koeln-goldgelbe-loewenaeffchen-im-zoo-geboren](https://www.spiegel.de/panorama/koeln-goldgelbe-loewenaeffchen-im-zoo-geboren-a-87ffee7c-313f-4500-adaf-6854f783a684#ref=rss)
+### zoo
+
+* [https://www.spiegel.de/panorama/koeln-goldgelbe-loewenaeffchen-im-zoo-geboren](https://www.spiegel.de/panorama/koeln-goldgelbe-loewenaeffchen-im-zoo-geboren-a-87ffee7c-313f-4500-adaf-6854f783a684#ref=rss)
 ### zwei
 
-* [https://www.spiegel.de/panorama/muenchen-eisbach-wasser-im-englischen-garten-wird-abgesenkt](https://www.spiegel.de/panorama/muenchen-eisbach-wasser-im-englischen-garten-wird-abgesenkt-a-4be7ae14-1485-4d79-b681-802137c1eda7#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/bayesian-so-soll-die-luxusjacht-geborgen-werden](https://www.spiegel.de/wissenschaft/technik/bayesian-so-soll-die-luxusjacht-geborgen-werden-a-a682241e-24cf-4005-b73a-0ae11c99baec#ref=rss)
-### lutnick
+* [https://www.spiegel.de/panorama/koeln-goldgelbe-loewenaeffchen-im-zoo-geboren](https://www.spiegel.de/panorama/koeln-goldgelbe-loewenaeffchen-im-zoo-geboren-a-87ffee7c-313f-4500-adaf-6854f783a684#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-trump-konzern-plant-wolkenkratzer-in-dubai-mit-krypto-optionen](https://www.spiegel.de/wirtschaft/donald-trump-trump-konzern-plant-wolkenkratzer-in-dubai-mit-krypto-optionen-a-3b35cfc0-0fd3-4eef-9e32-f3b01da0b170#ref=rss)
+### lange
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/howard-lutnick-iphones-von-apple-made-in-usa-der-handelsminister-sagt-wie](https://www.spiegel.de/wirtschaft/unternehmen/howard-lutnick-iphones-von-apple-made-in-usa-der-handelsminister-sagt-wie-a-d980c2b1-31df-4d31-80ae-03130412162f#ref=rss)
-### handelsminister
+* [https://www.spiegel.de/sport/american-football/nfl-atlanta-falcons-muessen-250-000-us-dollar-wegen-eines-telefonstreich-zahlen](https://www.spiegel.de/sport/american-football/nfl-atlanta-falcons-muessen-250-000-us-dollar-wegen-eines-telefonstreich-zahlen-a-96179c61-3e00-4a43-a0be-c92420e5cade#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/duerre-in-suedafrika-studie-hinterfragt-vorgaenge-im-erdmantel-als-ursache-fuer-landanhebung](https://www.spiegel.de/wissenschaft/natur/duerre-in-suedafrika-studie-hinterfragt-vorgaenge-im-erdmantel-als-ursache-fuer-landanhebung-a-de793f8a-8627-4280-83df-b87c00abf191#ref=rss)
+### stefan
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/howard-lutnick-iphones-von-apple-made-in-usa-der-handelsminister-sagt-wie](https://www.spiegel.de/wirtschaft/unternehmen/howard-lutnick-iphones-von-apple-made-in-usa-der-handelsminister-sagt-wie-a-d980c2b1-31df-4d31-80ae-03130412162f#ref=rss)
-### tschernobyl
+* [https://www.spiegel.de/politik/deutschland/stefan-kornelius-wer-ist-der-kuenftige-regierungssprecher-und-was-zeichnet-ihn-aus](https://www.spiegel.de/politik/deutschland/stefan-kornelius-wer-ist-der-kuenftige-regierungssprecher-und-was-zeichnet-ihn-aus-a-e143b077-04e1-4e1b-8b06-146858131019#ref=rss)
+### kornelius
 
-* [https://www.spiegel.de/wissenschaft/natur/tschernobyl-kontaminiertes-ackerland-kann-offenbar-wieder-bewirtschaftet-werden](https://www.spiegel.de/wissenschaft/natur/tschernobyl-kontaminiertes-ackerland-kann-offenbar-wieder-bewirtschaftet-werden-a-9c45205f-fa22-4264-a965-e6a8d467a97b#ref=rss)
-### galt
+* [https://www.spiegel.de/politik/deutschland/stefan-kornelius-wer-ist-der-kuenftige-regierungssprecher-und-was-zeichnet-ihn-aus](https://www.spiegel.de/politik/deutschland/stefan-kornelius-wer-ist-der-kuenftige-regierungssprecher-und-was-zeichnet-ihn-aus-a-e143b077-04e1-4e1b-8b06-146858131019#ref=rss)
+### künftige
 
-* [https://www.spiegel.de/wissenschaft/natur/tschernobyl-kontaminiertes-ackerland-kann-offenbar-wieder-bewirtschaftet-werden](https://www.spiegel.de/wissenschaft/natur/tschernobyl-kontaminiertes-ackerland-kann-offenbar-wieder-bewirtschaftet-werden-a-9c45205f-fa22-4264-a965-e6a8d467a97b#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/bayesian-so-soll-die-luxusjacht-geborgen-werden](https://www.spiegel.de/wissenschaft/technik/bayesian-so-soll-die-luxusjacht-geborgen-werden-a-a682241e-24cf-4005-b73a-0ae11c99baec#ref=rss)
-### tausende
+* [https://www.spiegel.de/politik/deutschland/stefan-kornelius-wer-ist-der-kuenftige-regierungssprecher-und-was-zeichnet-ihn-aus](https://www.spiegel.de/politik/deutschland/stefan-kornelius-wer-ist-der-kuenftige-regierungssprecher-und-was-zeichnet-ihn-aus-a-e143b077-04e1-4e1b-8b06-146858131019#ref=rss)
+### regierungssprecher
 
-* [https://www.spiegel.de/wissenschaft/natur/tschernobyl-kontaminiertes-ackerland-kann-offenbar-wieder-bewirtschaftet-werden](https://www.spiegel.de/wissenschaft/natur/tschernobyl-kontaminiertes-ackerland-kann-offenbar-wieder-bewirtschaftet-werden-a-9c45205f-fa22-4264-a965-e6a8d467a97b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bahn-verkauf-von-logistiktochter-schenker-an-dsv-aus-daenemark-erfolgreich-abgeschlossen](https://www.spiegel.de/wirtschaft/bahn-verkauf-von-logistiktochter-schenker-an-dsv-aus-daenemark-erfolgreich-abgeschlossen-a-af1b39cb-bfbc-4cb6-a27e-4b5973870e7a#ref=rss)
-### europas
+* [https://www.spiegel.de/politik/deutschland/stefan-kornelius-wer-ist-der-kuenftige-regierungssprecher-und-was-zeichnet-ihn-aus](https://www.spiegel.de/politik/deutschland/stefan-kornelius-wer-ist-der-kuenftige-regierungssprecher-und-was-zeichnet-ihn-aus-a-e143b077-04e1-4e1b-8b06-146858131019#ref=rss)
+### dürre
 
-* [https://www.spiegel.de/wirtschaft/soziales/solar-wechselrichter-aus-china-forscher-spueren-schwachstelle-in-europas-stromnetz-auf](https://www.spiegel.de/wirtschaft/soziales/solar-wechselrichter-aus-china-forscher-spueren-schwachstelle-in-europas-stromnetz-auf-a-73b1ba19-cc81-46dc-ad2e-9ec7af8fdcd1#ref=rss)
-### stromnetz
+* [https://www.spiegel.de/wissenschaft/natur/klimawandel-wie-stadteichhoernchen-die-trockenheit-ueberstehen](https://www.spiegel.de/wissenschaft/natur/klimawandel-wie-stadteichhoernchen-die-trockenheit-ueberstehen-a-300f3cc6-86c1-4eb5-b1b5-c5608ae3cfbe#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/duerre-in-suedafrika-studie-hinterfragt-vorgaenge-im-erdmantel-als-ursache-fuer-landanhebung](https://www.spiegel.de/wissenschaft/natur/duerre-in-suedafrika-studie-hinterfragt-vorgaenge-im-erdmantel-als-ursache-fuer-landanhebung-a-de793f8a-8627-4280-83df-b87c00abf191#ref=rss)
+### wahl
 
-* [https://www.spiegel.de/wirtschaft/soziales/solar-wechselrichter-aus-china-forscher-spueren-schwachstelle-in-europas-stromnetz-auf](https://www.spiegel.de/wirtschaft/soziales/solar-wechselrichter-aus-china-forscher-spueren-schwachstelle-in-europas-stromnetz-auf-a-73b1ba19-cc81-46dc-ad2e-9ec7af8fdcd1#ref=rss)
-### nahles
+* [https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-podcast](https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-podcast-a-d3f787b7-7231-456e-8ccb-27dcc420f7b7#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt](https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-a-afb44cb8-b497-4aa6-9a9f-25f258794225#ref=rss)
+### usa
 
-* [https://www.spiegel.de/wirtschaft/andrea-nahles-bundesagentur-fuer-arbeit-koennte-in-rote-zahlen-rutschen](https://www.spiegel.de/wirtschaft/andrea-nahles-bundesagentur-fuer-arbeit-koennte-in-rote-zahlen-rutschen-a-1b28e913-9e94-4942-ad73-838ecc083aef#ref=rss)
-### bundesagentur
+* [https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-podcast](https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-podcast-a-d3f787b7-7231-456e-8ccb-27dcc420f7b7#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt](https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-a-afb44cb8-b497-4aa6-9a9f-25f258794225#ref=rss)
+### verdankt
 
-* [https://www.spiegel.de/wirtschaft/andrea-nahles-bundesagentur-fuer-arbeit-koennte-in-rote-zahlen-rutschen](https://www.spiegel.de/wirtschaft/andrea-nahles-bundesagentur-fuer-arbeit-koennte-in-rote-zahlen-rutschen-a-1b28e913-9e94-4942-ad73-838ecc083aef#ref=rss)
-### rutschen
+* [https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-podcast](https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-podcast-a-d3f787b7-7231-456e-8ccb-27dcc420f7b7#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt](https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-a-afb44cb8-b497-4aa6-9a9f-25f258794225#ref=rss)
+### wahlsieg
 
-* [https://www.spiegel.de/wirtschaft/andrea-nahles-bundesagentur-fuer-arbeit-koennte-in-rote-zahlen-rutschen](https://www.spiegel.de/wirtschaft/andrea-nahles-bundesagentur-fuer-arbeit-koennte-in-rote-zahlen-rutschen-a-1b28e913-9e94-4942-ad73-838ecc083aef#ref=rss)
-### union
+* [https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-podcast](https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-podcast-a-d3f787b7-7231-456e-8ccb-27dcc420f7b7#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt](https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-a-afb44cb8-b497-4aa6-9a9f-25f258794225#ref=rss)
+### allem
 
-* [https://www.spiegel.de/wirtschaft/andrea-nahles-bundesagentur-fuer-arbeit-koennte-in-rote-zahlen-rutschen](https://www.spiegel.de/wirtschaft/andrea-nahles-bundesagentur-fuer-arbeit-koennte-in-rote-zahlen-rutschen-a-1b28e913-9e94-4942-ad73-838ecc083aef#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-mitglieder-segnen-mit-grosser-mehrheit-koalition-mit-der-union-ab](https://www.spiegel.de/politik/deutschland/spd-mitglieder-segnen-mit-grosser-mehrheit-koalition-mit-der-union-ab-a-3a1b74ba-e9e5-4e29-8e31-1a54b38ab066#ref=rss)
-### spd
+* [https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-podcast](https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-podcast-a-d3f787b7-7231-456e-8ccb-27dcc420f7b7#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt](https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-a-afb44cb8-b497-4aa6-9a9f-25f258794225#ref=rss)
+### kanadier
 
-* [https://www.spiegel.de/wirtschaft/andrea-nahles-bundesagentur-fuer-arbeit-koennte-in-rote-zahlen-rutschen](https://www.spiegel.de/wirtschaft/andrea-nahles-bundesagentur-fuer-arbeit-koennte-in-rote-zahlen-rutschen-a-1b28e913-9e94-4942-ad73-838ecc083aef#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-mitglieder-segnen-mit-grosser-mehrheit-koalition-mit-der-union-ab](https://www.spiegel.de/politik/deutschland/spd-mitglieder-segnen-mit-grosser-mehrheit-koalition-mit-der-union-ab-a-3a1b74ba-e9e5-4e29-8e31-1a54b38ab066#ref=rss)
-### sebastian
+* [https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-podcast](https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-podcast-a-d3f787b7-7231-456e-8ccb-27dcc420f7b7#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt](https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-a-afb44cb8-b497-4aa6-9a9f-25f258794225#ref=rss)
+### zöllen
 
-* [https://www.spiegel.de/sport/formel1/sebastian-vettel-ueber-ein-formel-1-comeback-seine-kinder-sind-dagegen](https://www.spiegel.de/sport/formel1/sebastian-vettel-ueber-ein-formel-1-comeback-seine-kinder-sind-dagegen-a-8125be3e-accf-4b34-891a-e2cab9cde6f4#ref=rss)
-### vettel
+* [https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-podcast](https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-podcast-a-d3f787b7-7231-456e-8ccb-27dcc420f7b7#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt](https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-a-afb44cb8-b497-4aa6-9a9f-25f258794225#ref=rss)
+### bedroht
 
-* [https://www.spiegel.de/sport/formel1/sebastian-vettel-ueber-ein-formel-1-comeback-seine-kinder-sind-dagegen](https://www.spiegel.de/sport/formel1/sebastian-vettel-ueber-ein-formel-1-comeback-seine-kinder-sind-dagegen-a-8125be3e-accf-4b34-891a-e2cab9cde6f4#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-podcast](https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-podcast-a-d3f787b7-7231-456e-8ccb-27dcc420f7b7#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt](https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-a-afb44cb8-b497-4aa6-9a9f-25f258794225#ref=rss)
+### spiegelredakteur
+
+* [https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-podcast](https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-podcast-a-d3f787b7-7231-456e-8ccb-27dcc420f7b7#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt](https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-a-afb44cb8-b497-4aa6-9a9f-25f258794225#ref=rss)
+### leo
+
+* [https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-podcast](https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-podcast-a-d3f787b7-7231-456e-8ccb-27dcc420f7b7#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt](https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-a-afb44cb8-b497-4aa6-9a9f-25f258794225#ref=rss)
+### klimm
+
+* [https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-podcast](https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-podcast-a-d3f787b7-7231-456e-8ccb-27dcc420f7b7#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt](https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-a-afb44cb8-b497-4aa6-9a9f-25f258794225#ref=rss)
+### berichtet
+
+* [https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-podcast](https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-podcast-a-d3f787b7-7231-456e-8ccb-27dcc420f7b7#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt](https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-a-afb44cb8-b497-4aa6-9a9f-25f258794225#ref=rss)
+### beziehung
+
+* [https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-podcast](https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-podcast-a-d3f787b7-7231-456e-8ccb-27dcc420f7b7#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt](https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-a-afb44cb8-b497-4aa6-9a9f-25f258794225#ref=rss)
+### leidet
+
+* [https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-podcast](https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-podcast-a-d3f787b7-7231-456e-8ccb-27dcc420f7b7#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt](https://www.spiegel.de/ausland/wahl-in-kanada-wie-mark-carney-den-usa-und-donald-trump-trotzt-a-afb44cb8-b497-4aa6-9a9f-25f258794225#ref=rss)
+### hussein
+
+* [https://www.spiegel.de/ausland/plo-kann-hussein-alsheikh-die-palaestinenser-aus-der-krise-fuehren](https://www.spiegel.de/ausland/plo-kann-hussein-alsheikh-die-palaestinenser-aus-der-krise-fuehren-a-4ada94b8-1566-42f8-9b08-56f06c5dab4e#ref=rss)
+### alsheikh
+
+* [https://www.spiegel.de/ausland/plo-kann-hussein-alsheikh-die-palaestinenser-aus-der-krise-fuehren](https://www.spiegel.de/ausland/plo-kann-hussein-alsheikh-die-palaestinenser-aus-der-krise-fuehren-a-4ada94b8-1566-42f8-9b08-56f06c5dab4e#ref=rss)
+### tages
+
+* [https://www.spiegel.de/ausland/plo-kann-hussein-alsheikh-die-palaestinenser-aus-der-krise-fuehren](https://www.spiegel.de/ausland/plo-kann-hussein-alsheikh-die-palaestinenser-aus-der-krise-fuehren-a-4ada94b8-1566-42f8-9b08-56f06c5dab4e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-klingbeil-lars-man-standing](https://www.spiegel.de/politik/deutschland/news-des-tages-klingbeil-lars-man-standing-a-87359b38-626d-44da-a8ea-2b6d66d45fec#ref=rss)
+### pubertät
+
+* [https://www.spiegel.de/familie/pubertaet-wenn-mama-und-papa-ihren-heldenstatus-verlieren](https://www.spiegel.de/familie/pubertaet-wenn-mama-und-papa-ihren-heldenstatus-verlieren-a-3459c328-21a6-4250-a166-12c39dc454d9#ref=rss)
+### sohn
+
+* [https://www.spiegel.de/familie/pubertaet-wenn-mama-und-papa-ihren-heldenstatus-verlieren](https://www.spiegel.de/familie/pubertaet-wenn-mama-und-papa-ihren-heldenstatus-verlieren-a-3459c328-21a6-4250-a166-12c39dc454d9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-trump-konzern-plant-wolkenkratzer-in-dubai-mit-krypto-optionen](https://www.spiegel.de/wirtschaft/donald-trump-trump-konzern-plant-wolkenkratzer-in-dubai-mit-krypto-optionen-a-3b35cfc0-0fd3-4eef-9e32-f3b01da0b170#ref=rss)
+### paul
+
+* [https://www.spiegel.de/kultur/paul-auster-tochter-sophie-verraet-was-sie-von-ihrem-vater-gelernt-hat](https://www.spiegel.de/kultur/paul-auster-tochter-sophie-verraet-was-sie-von-ihrem-vater-gelernt-hat-a-42588470-8d34-465b-b57f-39934268d395#ref=rss)
+### tochter
+
+* [https://www.spiegel.de/kultur/paul-auster-tochter-sophie-verraet-was-sie-von-ihrem-vater-gelernt-hat](https://www.spiegel.de/kultur/paul-auster-tochter-sophie-verraet-was-sie-von-ihrem-vater-gelernt-hat-a-42588470-8d34-465b-b57f-39934268d395#ref=rss)
+### sophie
+
+* [https://www.spiegel.de/kultur/paul-auster-tochter-sophie-verraet-was-sie-von-ihrem-vater-gelernt-hat](https://www.spiegel.de/kultur/paul-auster-tochter-sophie-verraet-was-sie-von-ihrem-vater-gelernt-hat-a-42588470-8d34-465b-b57f-39934268d395#ref=rss)
+### vater
+
+* [https://www.spiegel.de/kultur/paul-auster-tochter-sophie-verraet-was-sie-von-ihrem-vater-gelernt-hat](https://www.spiegel.de/kultur/paul-auster-tochter-sophie-verraet-was-sie-von-ihrem-vater-gelernt-hat-a-42588470-8d34-465b-b57f-39934268d395#ref=rss)
+### gelernt
+
+* [https://www.spiegel.de/kultur/paul-auster-tochter-sophie-verraet-was-sie-von-ihrem-vater-gelernt-hat](https://www.spiegel.de/kultur/paul-auster-tochter-sophie-verraet-was-sie-von-ihrem-vater-gelernt-hat-a-42588470-8d34-465b-b57f-39934268d395#ref=rss)
+### alle
+
+* [https://www.spiegel.de/netzwelt/web/elektronische-patientenakte-hacker-umgehen-auch-die-neuen-schutzmassnahmen](https://www.spiegel.de/netzwelt/web/elektronische-patientenakte-hacker-umgehen-auch-die-neuen-schutzmassnahmen-a-f3528e86-0c56-4567-8a23-8aa139c5edb7#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/pixel-7a-darum-zahlt-google-manchen-besitzern-des-geraets-400-euro](https://www.spiegel.de/netzwelt/gadgets/pixel-7a-darum-zahlt-google-manchen-besitzern-des-geraets-400-euro-a-f7bfa3f1-dc41-41b1-b5ec-9af38becd736#ref=rss)
+### gemacht
+
+* [https://www.spiegel.de/netzwelt/web/elektronische-patientenakte-hacker-umgehen-auch-die-neuen-schutzmassnahmen](https://www.spiegel.de/netzwelt/web/elektronische-patientenakte-hacker-umgehen-auch-die-neuen-schutzmassnahmen-a-f3528e86-0c56-4567-8a23-8aa139c5edb7#ref=rss)
+* [https://www.spiegel.de/kultur/musik/andy-bey-nachruf-so-klang-die-stimme-von-gott](https://www.spiegel.de/kultur/musik/andy-bey-nachruf-so-klang-die-stimme-von-gott-a-5e69d3ed-9f03-42ae-a1c0-c8d62459331a#ref=rss)
+### betreiber
+
+* [https://www.spiegel.de/netzwelt/web/elektronische-patientenakte-hacker-umgehen-auch-die-neuen-schutzmassnahmen](https://www.spiegel.de/netzwelt/web/elektronische-patientenakte-hacker-umgehen-auch-die-neuen-schutzmassnahmen-a-f3528e86-0c56-4567-8a23-8aa139c5edb7#ref=rss)
+* [https://www.spiegel.de/panorama/stromausfall-in-spanien-portugal-britische-medien-raetseln-ueber-stoerungen-im-stromnetz](https://www.spiegel.de/panorama/stromausfall-in-spanien-portugal-britische-medien-raetseln-ueber-stoerungen-im-stromnetz-a-f7e9031f-57b5-411a-8fe9-a8c98694f7a6#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/russland-und-nordkorea-beginnen-offenbar-mit-bau-von-gemeinsamer-strassenbruecke](https://www.spiegel.de/ausland/russland-und-nordkorea-beginnen-offenbar-mit-bau-von-gemeinsamer-strassenbruecke-a-4e0e12fe-f5fe-4c60-8da5-62f133307fe4#ref=rss)
+### nordkorea
+
+* [https://www.spiegel.de/ausland/russland-und-nordkorea-beginnen-offenbar-mit-bau-von-gemeinsamer-strassenbruecke](https://www.spiegel.de/ausland/russland-und-nordkorea-beginnen-offenbar-mit-bau-von-gemeinsamer-strassenbruecke-a-4e0e12fe-f5fe-4c60-8da5-62f133307fe4#ref=rss)
+### bau
+
+* [https://www.spiegel.de/ausland/russland-und-nordkorea-beginnen-offenbar-mit-bau-von-gemeinsamer-strassenbruecke](https://www.spiegel.de/ausland/russland-und-nordkorea-beginnen-offenbar-mit-bau-von-gemeinsamer-strassenbruecke-a-4e0e12fe-f5fe-4c60-8da5-62f133307fe4#ref=rss)
+### nachruf
+
+* [https://www.spiegel.de/sport/wintersport/nachruf-auf-max-bolkart-der-sieger-der-vierschanzentournee-war-ein-skisprung-pionier](https://www.spiegel.de/sport/wintersport/nachruf-auf-max-bolkart-der-sieger-der-vierschanzentournee-war-ein-skisprung-pionier-a-abb39f07-d9ec-470e-a0b3-86319b9ce7b6#ref=rss)
+* [https://www.spiegel.de/kultur/musik/andy-bey-nachruf-so-klang-die-stimme-von-gott](https://www.spiegel.de/kultur/musik/andy-bey-nachruf-so-klang-die-stimme-von-gott-a-5e69d3ed-9f03-42ae-a1c0-c8d62459331a#ref=rss)
+### max
+
+* [https://www.spiegel.de/sport/wintersport/nachruf-auf-max-bolkart-der-sieger-der-vierschanzentournee-war-ein-skisprung-pionier](https://www.spiegel.de/sport/wintersport/nachruf-auf-max-bolkart-der-sieger-der-vierschanzentournee-war-ein-skisprung-pionier-a-abb39f07-d9ec-470e-a0b3-86319b9ce7b6#ref=rss)
+### bolkart
+
+* [https://www.spiegel.de/sport/wintersport/nachruf-auf-max-bolkart-der-sieger-der-vierschanzentournee-war-ein-skisprung-pionier](https://www.spiegel.de/sport/wintersport/nachruf-auf-max-bolkart-der-sieger-der-vierschanzentournee-war-ein-skisprung-pionier-a-abb39f07-d9ec-470e-a0b3-86319b9ce7b6#ref=rss)
+### sieger
+
+* [https://www.spiegel.de/sport/wintersport/nachruf-auf-max-bolkart-der-sieger-der-vierschanzentournee-war-ein-skisprung-pionier](https://www.spiegel.de/sport/wintersport/nachruf-auf-max-bolkart-der-sieger-der-vierschanzentournee-war-ein-skisprung-pionier-a-abb39f07-d9ec-470e-a0b3-86319b9ce7b6#ref=rss)
+### vierschanzentournee
+
+* [https://www.spiegel.de/sport/wintersport/nachruf-auf-max-bolkart-der-sieger-der-vierschanzentournee-war-ein-skisprung-pionier](https://www.spiegel.de/sport/wintersport/nachruf-auf-max-bolkart-der-sieger-der-vierschanzentournee-war-ein-skisprung-pionier-a-abb39f07-d9ec-470e-a0b3-86319b9ce7b6#ref=rss)
 ### jahren
 
-* [https://www.spiegel.de/sport/formel1/sebastian-vettel-ueber-ein-formel-1-comeback-seine-kinder-sind-dagegen](https://www.spiegel.de/sport/formel1/sebastian-vettel-ueber-ein-formel-1-comeback-seine-kinder-sind-dagegen-a-8125be3e-accf-4b34-891a-e2cab9cde6f4#ref=rss)
-* [https://www.spiegel.de/geschichte/vietnamkrieg-wir-hatten-nur-die-wahl-zwischen-freiheit-und-tod](https://www.spiegel.de/geschichte/vietnamkrieg-wir-hatten-nur-die-wahl-zwischen-freiheit-und-tod-a-5fe05ff2-47c8-40ab-b2f3-51a2fad26b4a#ref=rss)
-### eigentlich
-
-* [https://www.spiegel.de/sport/formel1/sebastian-vettel-ueber-ein-formel-1-comeback-seine-kinder-sind-dagegen](https://www.spiegel.de/sport/formel1/sebastian-vettel-ueber-ein-formel-1-comeback-seine-kinder-sind-dagegen-a-8125be3e-accf-4b34-891a-e2cab9cde6f4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/arbeitslose-zahl-der-jobsuchenden-geht-im-april-nur-leicht-zurueck](https://www.spiegel.de/wirtschaft/arbeitslose-zahl-der-jobsuchenden-geht-im-april-nur-leicht-zurueck-a-14e2a05a-5667-4c6f-9916-d9c589c2c7ef#ref=rss)
-### flughafen
-
-* [https://www.spiegel.de/panorama/justiz/flughafen-muenchen-mann-will-haigebiss-nach-deutschland-schmuggeln](https://www.spiegel.de/panorama/justiz/flughafen-muenchen-mann-will-haigebiss-nach-deutschland-schmuggeln-a-4069d70e-ed7d-461c-8311-505d8ef1779d#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/nachruf-auf-max-bolkart-der-sieger-der-vierschanzentournee-war-ein-skisprung-pionier](https://www.spiegel.de/sport/wintersport/nachruf-auf-max-bolkart-der-sieger-der-vierschanzentournee-war-ein-skisprung-pionier-a-abb39f07-d9ec-470e-a0b3-86319b9ce7b6#ref=rss)
+* [https://www.spiegel.de/kultur/musik/andy-bey-nachruf-so-klang-die-stimme-von-gott](https://www.spiegel.de/kultur/musik/andy-bey-nachruf-so-klang-die-stimme-von-gott-a-5e69d3ed-9f03-42ae-a1c0-c8d62459331a#ref=rss)
 ### mann
 
-* [https://www.spiegel.de/panorama/justiz/flughafen-muenchen-mann-will-haigebiss-nach-deutschland-schmuggeln](https://www.spiegel.de/panorama/justiz/flughafen-muenchen-mann-will-haigebiss-nach-deutschland-schmuggeln-a-4069d70e-ed7d-461c-8311-505d8ef1779d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/fussball-em-in-dortmund-stadiondachkletterer-soll-12-000-euro-polizeikosten-zahlen](https://www.spiegel.de/panorama/justiz/fussball-em-in-dortmund-stadiondachkletterer-soll-12-000-euro-polizeikosten-zahlen-a-ea7b85dd-14df-4479-8277-fb4d2053dca7#ref=rss)
-### bad
+* [https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-mann-soll-kindesmissbrauch-auf-philippinen-in-auftrag-gegeben-haben](https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-mann-soll-kindesmissbrauch-auf-philippinen-in-auftrag-gegeben-haben-a-2311c7e4-3fdc-4952-9a02-923ce3e30134#ref=rss)
+### philippinen
 
-* [https://www.spiegel.de/kultur/musik/bad-bunny-stellt-alben-immer-erst-auf-den-letzten-druecker-fertig](https://www.spiegel.de/kultur/musik/bad-bunny-stellt-alben-immer-erst-auf-den-letzten-druecker-fertig-a-b9174870-1aa7-4ad7-bf7d-58e91aa4bb22#ref=rss)
-### bunny
+* [https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-mann-soll-kindesmissbrauch-auf-philippinen-in-auftrag-gegeben-haben](https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-mann-soll-kindesmissbrauch-auf-philippinen-in-auftrag-gegeben-haben-a-2311c7e4-3fdc-4952-9a02-923ce3e30134#ref=rss)
+### jahre
 
-* [https://www.spiegel.de/kultur/musik/bad-bunny-stellt-alben-immer-erst-auf-den-letzten-druecker-fertig](https://www.spiegel.de/kultur/musik/bad-bunny-stellt-alben-immer-erst-auf-den-letzten-druecker-fertig-a-b9174870-1aa7-4ad7-bf7d-58e91aa4bb22#ref=rss)
-### letzten
+* [https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-mann-soll-kindesmissbrauch-auf-philippinen-in-auftrag-gegeben-haben](https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-mann-soll-kindesmissbrauch-auf-philippinen-in-auftrag-gegeben-haben-a-2311c7e4-3fdc-4952-9a02-923ce3e30134#ref=rss)
+* [https://www.spiegel.de/wirtschaft/pflege-fast-jede-fuenfte-pflegekraft-kommt-mittlerweile-aus-dem-ausland](https://www.spiegel.de/wirtschaft/pflege-fast-jede-fuenfte-pflegekraft-kommt-mittlerweile-aus-dem-ausland-a-aa51edb0-d4e7-4a45-bc21-1b1b65609ee9#ref=rss)
+### lars
 
-* [https://www.spiegel.de/kultur/musik/bad-bunny-stellt-alben-immer-erst-auf-den-letzten-druecker-fertig](https://www.spiegel.de/kultur/musik/bad-bunny-stellt-alben-immer-erst-auf-den-letzten-druecker-fertig-a-b9174870-1aa7-4ad7-bf7d-58e91aa4bb22#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-klingbeil-lars-man-standing](https://www.spiegel.de/politik/deutschland/news-des-tages-klingbeil-lars-man-standing-a-87359b38-626d-44da-a8ea-2b6d66d45fec#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-personaldebatte-heikle-tage-fuer-lars-klingbeil](https://www.spiegel.de/politik/deutschland/spd-personaldebatte-heikle-tage-fuer-lars-klingbeil-a-39e5d208-a171-45ca-bb2d-1f3a995a54c7#ref=rss)
+### vizekanzler
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-klingbeil-lars-man-standing](https://www.spiegel.de/politik/deutschland/news-des-tages-klingbeil-lars-man-standing-a-87359b38-626d-44da-a8ea-2b6d66d45fec#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-personaldebatte-heikle-tage-fuer-lars-klingbeil](https://www.spiegel.de/politik/deutschland/spd-personaldebatte-heikle-tage-fuer-lars-klingbeil-a-39e5d208-a171-45ca-bb2d-1f3a995a54c7#ref=rss)
+### studie
+
+* [https://www.spiegel.de/wissenschaft/natur/duerre-in-suedafrika-studie-hinterfragt-vorgaenge-im-erdmantel-als-ursache-fuer-landanhebung](https://www.spiegel.de/wissenschaft/natur/duerre-in-suedafrika-studie-hinterfragt-vorgaenge-im-erdmantel-als-ursache-fuer-landanhebung-a-de793f8a-8627-4280-83df-b87c00abf191#ref=rss)
+### vorgänge
+
+* [https://www.spiegel.de/wissenschaft/natur/duerre-in-suedafrika-studie-hinterfragt-vorgaenge-im-erdmantel-als-ursache-fuer-landanhebung](https://www.spiegel.de/wissenschaft/natur/duerre-in-suedafrika-studie-hinterfragt-vorgaenge-im-erdmantel-als-ursache-fuer-landanhebung-a-de793f8a-8627-4280-83df-b87c00abf191#ref=rss)
+### erdmantel
+
+* [https://www.spiegel.de/wissenschaft/natur/duerre-in-suedafrika-studie-hinterfragt-vorgaenge-im-erdmantel-als-ursache-fuer-landanhebung](https://www.spiegel.de/wissenschaft/natur/duerre-in-suedafrika-studie-hinterfragt-vorgaenge-im-erdmantel-als-ursache-fuer-landanhebung-a-de793f8a-8627-4280-83df-b87c00abf191#ref=rss)
+### ursache
+
+* [https://www.spiegel.de/wissenschaft/natur/duerre-in-suedafrika-studie-hinterfragt-vorgaenge-im-erdmantel-als-ursache-fuer-landanhebung](https://www.spiegel.de/wissenschaft/natur/duerre-in-suedafrika-studie-hinterfragt-vorgaenge-im-erdmantel-als-ursache-fuer-landanhebung-a-de793f8a-8627-4280-83df-b87c00abf191#ref=rss)
 ### israel
 
-* [https://www.spiegel.de/ausland/israel-randale-bei-israelisch-palaestinensischem-gedenken-an-opfer](https://www.spiegel.de/ausland/israel-randale-bei-israelisch-palaestinensischem-gedenken-an-opfer-a-ea41a7cb-6879-4975-a4d7-16fdec4111cd#ref=rss)
-### drittversuch
+* [https://www.spiegel.de/ausland/israel-schwere-waldbraende-zwingen-menschen-bei-jerusalem-zur-flucht](https://www.spiegel.de/ausland/israel-schwere-waldbraende-zwingen-menschen-bei-jerusalem-zur-flucht-a-2de521b4-5e85-40ac-9cef-6cdc9416c9b5#ref=rss)
+### waldbrände
 
-* [https://www.spiegel.de/start/studium-was-wenn-man-den-drittversuch-nicht-besteht](https://www.spiegel.de/start/studium-was-wenn-man-den-drittversuch-nicht-besteht-a-351bb532-a887-4835-b8fe-1a4e08031830#ref=rss)
-### fußballem
+* [https://www.spiegel.de/ausland/israel-schwere-waldbraende-zwingen-menschen-bei-jerusalem-zur-flucht](https://www.spiegel.de/ausland/israel-schwere-waldbraende-zwingen-menschen-bei-jerusalem-zur-flucht-a-2de521b4-5e85-40ac-9cef-6cdc9416c9b5#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/panorama/justiz/fussball-em-in-dortmund-stadiondachkletterer-soll-12-000-euro-polizeikosten-zahlen](https://www.spiegel.de/panorama/justiz/fussball-em-in-dortmund-stadiondachkletterer-soll-12-000-euro-polizeikosten-zahlen-a-ea7b85dd-14df-4479-8277-fb4d2053dca7#ref=rss)
-### dortmund
+* [https://www.spiegel.de/ausland/israel-schwere-waldbraende-zwingen-menschen-bei-jerusalem-zur-flucht](https://www.spiegel.de/ausland/israel-schwere-waldbraende-zwingen-menschen-bei-jerusalem-zur-flucht-a-2de521b4-5e85-40ac-9cef-6cdc9416c9b5#ref=rss)
+### gerd
 
-* [https://www.spiegel.de/panorama/justiz/fussball-em-in-dortmund-stadiondachkletterer-soll-12-000-euro-polizeikosten-zahlen](https://www.spiegel.de/panorama/justiz/fussball-em-in-dortmund-stadiondachkletterer-soll-12-000-euro-polizeikosten-zahlen-a-ea7b85dd-14df-4479-8277-fb4d2053dca7#ref=rss)
-### dips
+* [https://www.spiegel.de/kultur/tv/gerd-helbig-ist-tot-ehemaliger-zdf-auslandskorrespondent-gestorben](https://www.spiegel.de/kultur/tv/gerd-helbig-ist-tot-ehemaliger-zdf-auslandskorrespondent-gestorben-a-de32b00b-7237-4f35-9ffb-8b2e71ab4f3a#ref=rss)
+### helbig
 
-* [https://www.spiegel.de/start/frisches-fladenbrot-mit-dreierlei-dips-fuer-1-75-euro-pro-person-guenstiges-schnelles-rezept](https://www.spiegel.de/start/frisches-fladenbrot-mit-dreierlei-dips-fuer-1-75-euro-pro-person-guenstiges-schnelles-rezept-a-3c360550-90ac-429c-9b74-121a7385ee0c#ref=rss)
-### wir
+* [https://www.spiegel.de/kultur/tv/gerd-helbig-ist-tot-ehemaliger-zdf-auslandskorrespondent-gestorben](https://www.spiegel.de/kultur/tv/gerd-helbig-ist-tot-ehemaliger-zdf-auslandskorrespondent-gestorben-a-de32b00b-7237-4f35-9ffb-8b2e71ab4f3a#ref=rss)
+### dubai
 
-* [https://www.spiegel.de/start/frisches-fladenbrot-mit-dreierlei-dips-fuer-1-75-euro-pro-person-guenstiges-schnelles-rezept](https://www.spiegel.de/start/frisches-fladenbrot-mit-dreierlei-dips-fuer-1-75-euro-pro-person-guenstiges-schnelles-rezept-a-3c360550-90ac-429c-9b74-121a7385ee0c#ref=rss)
-* [https://www.spiegel.de/geschichte/vietnamkrieg-wir-hatten-nur-die-wahl-zwischen-freiheit-und-tod](https://www.spiegel.de/geschichte/vietnamkrieg-wir-hatten-nur-die-wahl-zwischen-freiheit-und-tod-a-5fe05ff2-47c8-40ab-b2f3-51a2fad26b4a#ref=rss)
-### ai
+* [https://www.spiegel.de/wirtschaft/donald-trump-trump-konzern-plant-wolkenkratzer-in-dubai-mit-krypto-optionen](https://www.spiegel.de/wirtschaft/donald-trump-trump-konzern-plant-wolkenkratzer-in-dubai-mit-krypto-optionen-a-3b35cfc0-0fd3-4eef-9e32-f3b01da0b170#ref=rss)
+### google
 
-* [https://www.spiegel.de/netzwelt/apps/meta-ai-meta-packt-seinen-chatgpt-konkurrenten-in-eigene-app](https://www.spiegel.de/netzwelt/apps/meta-ai-meta-packt-seinen-chatgpt-konkurrenten-in-eigene-app-a-b2ce4abc-bbfa-4f66-a079-d847d10edabc#ref=rss)
-### musk
+* [https://www.spiegel.de/netzwelt/gadgets/pixel-7a-darum-zahlt-google-manchen-besitzern-des-geraets-400-euro](https://www.spiegel.de/netzwelt/gadgets/pixel-7a-darum-zahlt-google-manchen-besitzern-des-geraets-400-euro-a-f7bfa3f1-dc41-41b1-b5ec-9af38becd736#ref=rss)
+### spanien
 
-* [https://www.spiegel.de/kultur/musik/neil-young-schiesst-gegen-elon-musk-wenn-du-ein-faschist-bist-hol-dir-einen-tesla](https://www.spiegel.de/kultur/musik/neil-young-schiesst-gegen-elon-musk-wenn-du-ein-faschist-bist-hol-dir-einen-tesla-a-9b4774cf-cb42-459a-841c-17612f35cb77#ref=rss)
-### du
+* [https://www.spiegel.de/panorama/justiz/oviedo-spanien-deutsches-ehepaar-hielt-kinder-seit-2021-in-haus-gefangen](https://www.spiegel.de/panorama/justiz/oviedo-spanien-deutsches-ehepaar-hielt-kinder-seit-2021-in-haus-gefangen-a-4e7047b0-0f5f-4a4d-a066-71812ae22e97#ref=rss)
+* [https://www.spiegel.de/panorama/stromausfall-in-spanien-portugal-britische-medien-raetseln-ueber-stoerungen-im-stromnetz](https://www.spiegel.de/panorama/stromausfall-in-spanien-portugal-britische-medien-raetseln-ueber-stoerungen-im-stromnetz-a-f7e9031f-57b5-411a-8fe9-a8c98694f7a6#ref=rss)
+### kinder
 
-* [https://www.spiegel.de/kultur/musik/neil-young-schiesst-gegen-elon-musk-wenn-du-ein-faschist-bist-hol-dir-einen-tesla](https://www.spiegel.de/kultur/musik/neil-young-schiesst-gegen-elon-musk-wenn-du-ein-faschist-bist-hol-dir-einen-tesla-a-9b4774cf-cb42-459a-841c-17612f35cb77#ref=rss)
-### faschist
+* [https://www.spiegel.de/panorama/justiz/oviedo-spanien-deutsches-ehepaar-hielt-kinder-seit-2021-in-haus-gefangen](https://www.spiegel.de/panorama/justiz/oviedo-spanien-deutsches-ehepaar-hielt-kinder-seit-2021-in-haus-gefangen-a-4e7047b0-0f5f-4a4d-a066-71812ae22e97#ref=rss)
+### regierung
 
-* [https://www.spiegel.de/kultur/musik/neil-young-schiesst-gegen-elon-musk-wenn-du-ein-faschist-bist-hol-dir-einen-tesla](https://www.spiegel.de/kultur/musik/neil-young-schiesst-gegen-elon-musk-wenn-du-ein-faschist-bist-hol-dir-einen-tesla-a-9b4774cf-cb42-459a-841c-17612f35cb77#ref=rss)
-### bist
+* [https://www.spiegel.de/wissenschaft/natur/australien-regierung-nach-toetung-von-700-koalas-in-der-kritik](https://www.spiegel.de/wissenschaft/natur/australien-regierung-nach-toetung-von-700-koalas-in-der-kritik-a-2eb585db-ce8d-4232-806f-017feedc8f74#ref=rss)
+### 700
 
-* [https://www.spiegel.de/kultur/musik/neil-young-schiesst-gegen-elon-musk-wenn-du-ein-faschist-bist-hol-dir-einen-tesla](https://www.spiegel.de/kultur/musik/neil-young-schiesst-gegen-elon-musk-wenn-du-ein-faschist-bist-hol-dir-einen-tesla-a-9b4774cf-cb42-459a-841c-17612f35cb77#ref=rss)
-### hol
+* [https://www.spiegel.de/wissenschaft/natur/australien-regierung-nach-toetung-von-700-koalas-in-der-kritik](https://www.spiegel.de/wissenschaft/natur/australien-regierung-nach-toetung-von-700-koalas-in-der-kritik-a-2eb585db-ce8d-4232-806f-017feedc8f74#ref=rss)
+### koalas
 
-* [https://www.spiegel.de/kultur/musik/neil-young-schiesst-gegen-elon-musk-wenn-du-ein-faschist-bist-hol-dir-einen-tesla](https://www.spiegel.de/kultur/musik/neil-young-schiesst-gegen-elon-musk-wenn-du-ein-faschist-bist-hol-dir-einen-tesla-a-9b4774cf-cb42-459a-841c-17612f35cb77#ref=rss)
-### dir
+* [https://www.spiegel.de/wissenschaft/natur/australien-regierung-nach-toetung-von-700-koalas-in-der-kritik](https://www.spiegel.de/wissenschaft/natur/australien-regierung-nach-toetung-von-700-koalas-in-der-kritik-a-2eb585db-ce8d-4232-806f-017feedc8f74#ref=rss)
+### andy
 
-* [https://www.spiegel.de/kultur/musik/neil-young-schiesst-gegen-elon-musk-wenn-du-ein-faschist-bist-hol-dir-einen-tesla](https://www.spiegel.de/kultur/musik/neil-young-schiesst-gegen-elon-musk-wenn-du-ein-faschist-bist-hol-dir-einen-tesla-a-9b4774cf-cb42-459a-841c-17612f35cb77#ref=rss)
-### tesla
+* [https://www.spiegel.de/kultur/musik/andy-bey-nachruf-so-klang-die-stimme-von-gott](https://www.spiegel.de/kultur/musik/andy-bey-nachruf-so-klang-die-stimme-von-gott-a-5e69d3ed-9f03-42ae-a1c0-c8d62459331a#ref=rss)
+### bey
 
-* [https://www.spiegel.de/kultur/musik/neil-young-schiesst-gegen-elon-musk-wenn-du-ein-faschist-bist-hol-dir-einen-tesla](https://www.spiegel.de/kultur/musik/neil-young-schiesst-gegen-elon-musk-wenn-du-ein-faschist-bist-hol-dir-einen-tesla-a-9b4774cf-cb42-459a-841c-17612f35cb77#ref=rss)
-### mitglieder
+* [https://www.spiegel.de/kultur/musik/andy-bey-nachruf-so-klang-die-stimme-von-gott](https://www.spiegel.de/kultur/musik/andy-bey-nachruf-so-klang-die-stimme-von-gott-a-5e69d3ed-9f03-42ae-a1c0-c8d62459331a#ref=rss)
+### stromnetz
 
-* [https://www.spiegel.de/politik/deutschland/spd-mitglieder-segnen-mit-grosser-mehrheit-koalition-mit-der-union-ab](https://www.spiegel.de/politik/deutschland/spd-mitglieder-segnen-mit-grosser-mehrheit-koalition-mit-der-union-ab-a-3a1b74ba-e9e5-4e29-8e31-1a54b38ab066#ref=rss)
-### bahn
-
-* [https://www.spiegel.de/wirtschaft/bahn-verkauf-von-logistiktochter-schenker-an-dsv-aus-daenemark-erfolgreich-abgeschlossen](https://www.spiegel.de/wirtschaft/bahn-verkauf-von-logistiktochter-schenker-an-dsv-aus-daenemark-erfolgreich-abgeschlossen-a-af1b39cb-bfbc-4cb6-a27e-4b5973870e7a#ref=rss)
-### logistiktochter
-
-* [https://www.spiegel.de/wirtschaft/bahn-verkauf-von-logistiktochter-schenker-an-dsv-aus-daenemark-erfolgreich-abgeschlossen](https://www.spiegel.de/wirtschaft/bahn-verkauf-von-logistiktochter-schenker-an-dsv-aus-daenemark-erfolgreich-abgeschlossen-a-af1b39cb-bfbc-4cb6-a27e-4b5973870e7a#ref=rss)
-### schenker
-
-* [https://www.spiegel.de/wirtschaft/bahn-verkauf-von-logistiktochter-schenker-an-dsv-aus-daenemark-erfolgreich-abgeschlossen](https://www.spiegel.de/wirtschaft/bahn-verkauf-von-logistiktochter-schenker-an-dsv-aus-daenemark-erfolgreich-abgeschlossen-a-af1b39cb-bfbc-4cb6-a27e-4b5973870e7a#ref=rss)
-### dsv
-
-* [https://www.spiegel.de/wirtschaft/bahn-verkauf-von-logistiktochter-schenker-an-dsv-aus-daenemark-erfolgreich-abgeschlossen](https://www.spiegel.de/wirtschaft/bahn-verkauf-von-logistiktochter-schenker-an-dsv-aus-daenemark-erfolgreich-abgeschlossen-a-af1b39cb-bfbc-4cb6-a27e-4b5973870e7a#ref=rss)
-### zahl
-
-* [https://www.spiegel.de/wirtschaft/arbeitslose-zahl-der-jobsuchenden-geht-im-april-nur-leicht-zurueck](https://www.spiegel.de/wirtschaft/arbeitslose-zahl-der-jobsuchenden-geht-im-april-nur-leicht-zurueck-a-14e2a05a-5667-4c6f-9916-d9c589c2c7ef#ref=rss)
-### april
-
-* [https://www.spiegel.de/wirtschaft/arbeitslose-zahl-der-jobsuchenden-geht-im-april-nur-leicht-zurueck](https://www.spiegel.de/wirtschaft/arbeitslose-zahl-der-jobsuchenden-geht-im-april-nur-leicht-zurueck-a-14e2a05a-5667-4c6f-9916-d9c589c2c7ef#ref=rss)
-### leicht
-
-* [https://www.spiegel.de/wirtschaft/arbeitslose-zahl-der-jobsuchenden-geht-im-april-nur-leicht-zurueck](https://www.spiegel.de/wirtschaft/arbeitslose-zahl-der-jobsuchenden-geht-im-april-nur-leicht-zurueck-a-14e2a05a-5667-4c6f-9916-d9c589c2c7ef#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/bip-in-deutschland-konjunktur-zieht-zu-jahresbeginn-etwas-an](https://www.spiegel.de/wirtschaft/unternehmen/bip-in-deutschland-konjunktur-zieht-zu-jahresbeginn-etwas-an-a-48f4b79a-5493-4800-b163-7c763aa7d696#ref=rss)
-### gesunken
-
-* [https://www.spiegel.de/wirtschaft/arbeitslose-zahl-der-jobsuchenden-geht-im-april-nur-leicht-zurueck](https://www.spiegel.de/wirtschaft/arbeitslose-zahl-der-jobsuchenden-geht-im-april-nur-leicht-zurueck-a-14e2a05a-5667-4c6f-9916-d9c589c2c7ef#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/bayesian-so-soll-die-luxusjacht-geborgen-werden](https://www.spiegel.de/wissenschaft/technik/bayesian-so-soll-die-luxusjacht-geborgen-werden-a-a682241e-24cf-4005-b73a-0ae11c99baec#ref=rss)
-### bayesian
-
-* [https://www.spiegel.de/wissenschaft/technik/bayesian-so-soll-die-luxusjacht-geborgen-werden](https://www.spiegel.de/wissenschaft/technik/bayesian-so-soll-die-luxusjacht-geborgen-werden-a-a682241e-24cf-4005-b73a-0ae11c99baec#ref=rss)
-### giannis
-
-* [https://www.spiegel.de/sport/basketball/nba-giannis-antetokounmpo-nach-playoff-duell-von-gegenspieler-vater-verhoehnt](https://www.spiegel.de/sport/basketball/nba-giannis-antetokounmpo-nach-playoff-duell-von-gegenspieler-vater-verhoehnt-a-f1fb7b2f-fdca-4c35-bcec-bf43f40e79b4#ref=rss)
-### antetokounmpo
-
-* [https://www.spiegel.de/sport/basketball/nba-giannis-antetokounmpo-nach-playoff-duell-von-gegenspieler-vater-verhoehnt](https://www.spiegel.de/sport/basketball/nba-giannis-antetokounmpo-nach-playoff-duell-von-gegenspieler-vater-verhoehnt-a-f1fb7b2f-fdca-4c35-bcec-bf43f40e79b4#ref=rss)
+* [https://www.spiegel.de/panorama/stromausfall-in-spanien-portugal-britische-medien-raetseln-ueber-stoerungen-im-stromnetz](https://www.spiegel.de/panorama/stromausfall-in-spanien-portugal-britische-medien-raetseln-ueber-stoerungen-im-stromnetz-a-f7e9031f-57b5-411a-8fe9-a8c98694f7a6#ref=rss)
 
