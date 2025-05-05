@@ -4,382 +4,412 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
+### afd
+
+* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-a-bdee7046-8144-4bdc-9b0b-6c0beef42136#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast-a-c052f2a7-2f70-4948-9acc-303c682c97f3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news](https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news-a-48ac64f5-f403-4ca5-8a31-3674acfe1af1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-gesichert-rechtsextrem-hessischer-minister-schliesst-afd-politiker-von-reisen-aus](https://www.spiegel.de/politik/deutschland/afd-gesichert-rechtsextrem-hessischer-minister-schliesst-afd-politiker-von-reisen-aus-a-c16efdbd-e442-4188-b492-1be257afce6c#ref=rss)
+### bundestag
+
+* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-a-bdee7046-8144-4bdc-9b0b-6c0beef42136#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast-a-c052f2a7-2f70-4948-9acc-303c682c97f3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/matthias-miersch-soll-spd-fraktionschef-werden](https://www.spiegel.de/politik/deutschland/matthias-miersch-soll-spd-fraktionschef-werden-a-31d44c1e-fbaa-4615-8197-c2d6ba455150#ref=rss)
+### news
+
+* [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news](https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news-a-48ac64f5-f403-4ca5-8a31-3674acfe1af1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-spd-ministerposten-rumaenen-sean-diddy-combs](https://www.spiegel.de/politik/deutschland/news-des-tages-spd-ministerposten-rumaenen-sean-diddy-combs-a-8ed3c2c6-22ec-474e-b2be-f356fb43a4e7#ref=rss)
+### fraktion
+
+* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-a-bdee7046-8144-4bdc-9b0b-6c0beef42136#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast-a-c052f2a7-2f70-4948-9acc-303c682c97f3#ref=rss)
+### gesichert
+
+* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-a-bdee7046-8144-4bdc-9b0b-6c0beef42136#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast-a-c052f2a7-2f70-4948-9acc-303c682c97f3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news](https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news-a-48ac64f5-f403-4ca5-8a31-3674acfe1af1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-gesichert-rechtsextrem-hessischer-minister-schliesst-afd-politiker-von-reisen-aus](https://www.spiegel.de/politik/deutschland/afd-gesichert-rechtsextrem-hessischer-minister-schliesst-afd-politiker-von-reisen-aus-a-c16efdbd-e442-4188-b492-1be257afce6c#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-a-bdee7046-8144-4bdc-9b0b-6c0beef42136#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast-a-c052f2a7-2f70-4948-9acc-303c682c97f3#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-seedrohnen-schiessen-russische-jets-ab](https://www.spiegel.de/ausland/ukraine-seedrohnen-schiessen-russische-jets-ab-a-c0634094-0684-4c0c-bebf-521ce61516ec#ref=rss)
+* [https://www.spiegel.de/sport/fussball/1-fc-koeln-so-kam-es-zur-freistellung-von-christian-keller-und-gerhard-struber](https://www.spiegel.de/sport/fussball/1-fc-koeln-so-kam-es-zur-freistellung-von-christian-keller-und-gerhard-struber-a-d050e50d-755e-4017-9975-de291d6244d9#ref=rss)
+### trumps
+
+* [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
+* [https://www.spiegel.de/wissenschaft/bremen-universitaet-und-alfred-wegener-institut-sichern-us-forschungsdaten](https://www.spiegel.de/wissenschaft/bremen-universitaet-und-alfred-wegener-institut-sichern-us-forschungsdaten-a-b2d70bd6-d3ef-4529-a4d8-f1899cb782b0#ref=rss)
+* [https://www.spiegel.de/kultur/kino/donald-trumps-zoll-androhung-fuer-hollywood-panik-in-der-traumfabrik](https://www.spiegel.de/kultur/kino/donald-trumps-zoll-androhung-fuer-hollywood-panik-in-der-traumfabrik-a-ce1b71bc-2ac3-4346-bb7b-5c4f29dd5261#ref=rss)
+### klingbeil
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-spd-ministerposten-rumaenen-sean-diddy-combs](https://www.spiegel.de/politik/deutschland/news-des-tages-spd-ministerposten-rumaenen-sean-diddy-combs-a-8ed3c2c6-22ec-474e-b2be-f356fb43a4e7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/matthias-miersch-soll-spd-fraktionschef-werden](https://www.spiegel.de/politik/deutschland/matthias-miersch-soll-spd-fraktionschef-werden-a-31d44c1e-fbaa-4615-8197-c2d6ba455150#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-ploetzlich-haelt-der-kuenftige-vize-kanzler-eine-art-regierungserklaerung](https://www.spiegel.de/politik/deutschland/lars-klingbeil-ploetzlich-haelt-der-kuenftige-vize-kanzler-eine-art-regierungserklaerung-a-e06ad174-5d6b-4efd-a478-52c186638d27#ref=rss)
+### trainer
+
+* [https://www.spiegel.de/sport/fussball/fussball-im-landkreis-lindau-jugendtrainer-greift-schiedsrichter-an-und-verletzt-ihn-leicht](https://www.spiegel.de/sport/fussball/fussball-im-landkreis-lindau-jugendtrainer-greift-schiedsrichter-an-und-verletzt-ihn-leicht-a-07f10ec9-2783-4e16-9a52-ab5e69c51fbc#ref=rss)
+* [https://www.spiegel.de/sport/fussball/1-fc-koeln-so-kam-es-zur-freistellung-von-christian-keller-und-gerhard-struber](https://www.spiegel.de/sport/fussball/1-fc-koeln-so-kam-es-zur-freistellung-von-christian-keller-und-gerhard-struber-a-d050e50d-755e-4017-9975-de291d6244d9#ref=rss)
+* [https://www.spiegel.de/sport/fussball/friedhelm-funkel-neuer-trainer-beim-1-fc-koeln-erst-der-feuerwehrmann-dann-der-feueralarm](https://www.spiegel.de/sport/fussball/friedhelm-funkel-neuer-trainer-beim-1-fc-koeln-erst-der-feuerwehrmann-dann-der-feueralarm-a-fb46d023-0009-42a6-8275-5f2d9eeb6ef9#ref=rss)
+### bisher
+
+* [https://www.spiegel.de/politik/deutschland/stefanie-hubig-wird-neue-justizministerin-am-ende-einer-langen-reise](https://www.spiegel.de/politik/deutschland/stefanie-hubig-wird-neue-justizministerin-am-ende-einer-langen-reise-a-da1b6422-bf07-4a69-83a7-8136f7cc0567#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-a-bdee7046-8144-4bdc-9b0b-6c0beef42136#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast-a-c052f2a7-2f70-4948-9acc-303c682c97f3#ref=rss)
+### 200
+
+* [https://www.spiegel.de/wissenschaft/medizin/gegengift-entwickelt-timothy-friede-liess-sich-200-mal-von-giftigen-schlangen-beissen-warum](https://www.spiegel.de/wissenschaft/medizin/gegengift-entwickelt-timothy-friede-liess-sich-200-mal-von-giftigen-schlangen-beissen-warum-a-e90d57bf-775c-4e13-81b7-dc87257b056a#ref=rss)
+* [https://www.spiegel.de/wissenschaft/ss-verbrechen-historiker-rekonstruiert-massaker-an-zwangsarbeitern-im-sauerland](https://www.spiegel.de/wissenschaft/ss-verbrechen-historiker-rekonstruiert-massaker-an-zwangsarbeitern-im-sauerland-a-056d3262-6273-483e-a44a-a5f9e20853c8#ref=rss)
+### rechtsextremistisch
+
+* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-a-bdee7046-8144-4bdc-9b0b-6c0beef42136#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast-a-c052f2a7-2f70-4948-9acc-303c682c97f3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news](https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news-a-48ac64f5-f403-4ca5-8a31-3674acfe1af1#ref=rss)
 ### spd
 
 * [https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news](https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news-a-48ac64f5-f403-4ca5-8a31-3674acfe1af1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-baerbel-bas-und-co-wer-sind-die-minister-fuer-das-kabinett-von-merz](https://www.spiegel.de/politik/deutschland/spd-baerbel-bas-und-co-wer-sind-die-minister-fuer-das-kabinett-von-merz-a-15a28501-7eaf-499b-8450-c553e8102314#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-stellt-minister-vor-baerbel-bas-soll-arbeitsministerin-werden-stefanie-hubig-uebernimmt-justiz](https://www.spiegel.de/politik/deutschland/spd-stellt-minister-vor-baerbel-bas-soll-arbeitsministerin-werden-stefanie-hubig-uebernimmt-justiz-a-ab31334d-5fee-4f22-b317-cd28125b7553#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/wirtschaft/volkszaehlung-mit-folgen-zwei-gemeinden-verlieren-mariae-himmelfahrt-als-feiertag](https://www.spiegel.de/wirtschaft/volkszaehlung-mit-folgen-zwei-gemeinden-verlieren-mariae-himmelfahrt-als-feiertag-a-dcf6ab4e-40b0-4549-b4d8-465cdd6a2c6a#ref=rss)
-* [https://www.spiegel.de/panorama/mitten-durchs-t-shirt-deutsche-touristen-von-blitz-getroffen](https://www.spiegel.de/panorama/mitten-durchs-t-shirt-deutsche-touristen-von-blitz-getroffen-a-61c5256d-ffb8-468b-88e6-34bcc724d52a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-friedhelm-funkel-soll-den-1-fc-koeln-zum-aufstieg-fuehren](https://www.spiegel.de/sport/fussball/2-bundesliga-friedhelm-funkel-soll-den-1-fc-koeln-zum-aufstieg-fuehren-a-20e06dbd-8196-43e0-bad7-f225c4938d2f#ref=rss)
-* [https://www.spiegel.de/psychologie/freundschaften-wie-wir-es-schaffen-auf-distanz-in-kontakt-zu-bleiben](https://www.spiegel.de/psychologie/freundschaften-wie-wir-es-schaffen-auf-distanz-in-kontakt-zu-bleiben-a-dde9be62-0bae-4e41-a321-e6be14089bc0#ref=rss)
-### 1
-
-* [https://www.spiegel.de/sport/formel1/nachruf-auf-formel1-pilot-jochen-mass-ein-rennfahrer-und-ein-traeumer](https://www.spiegel.de/sport/formel1/nachruf-auf-formel1-pilot-jochen-mass-ein-rennfahrer-und-ein-traeumer-a-73db9ada-958b-4cfc-993e-5caf2ec17ffd#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-friedhelm-funkel-soll-den-1-fc-koeln-zum-aufstieg-fuehren](https://www.spiegel.de/sport/fussball/2-bundesliga-friedhelm-funkel-soll-den-1-fc-koeln-zum-aufstieg-fuehren-a-20e06dbd-8196-43e0-bad7-f225c4938d2f#ref=rss)
-* [https://www.spiegel.de/sport/formel1/pressestimmen-zur-formel-1-papaya-autos-nicht-unter-druck-gesetzt](https://www.spiegel.de/sport/formel1/pressestimmen-zur-formel-1-papaya-autos-nicht-unter-druck-gesetzt-a-26d1ebe7-12fc-4274-b5df-7e903d9b7939#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-spd-ministerposten-rumaenen-sean-diddy-combs](https://www.spiegel.de/politik/deutschland/news-des-tages-spd-ministerposten-rumaenen-sean-diddy-combs-a-8ed3c2c6-22ec-474e-b2be-f356fb43a4e7#ref=rss)
 ### merz
 
-* [https://www.spiegel.de/politik/wer-sticht-merz](https://www.spiegel.de/politik/wer-sticht-merz-a-01a9f48e-c59f-4d84-8457-dd5fc016ae03#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-baerbel-bas-und-co-wer-sind-die-minister-fuer-das-kabinett-von-merz](https://www.spiegel.de/politik/deutschland/spd-baerbel-bas-und-co-wer-sind-die-minister-fuer-das-kabinett-von-merz-a-15a28501-7eaf-499b-8450-c553e8102314#ref=rss)
-* [https://www.spiegel.de/wirtschaft/brief-an-friedrich-merz-umweltverbaende-fordern-verzicht-auf-fluessigerdgas-aus-russland](https://www.spiegel.de/wirtschaft/brief-an-friedrich-merz-umweltverbaende-fordern-verzicht-auf-fluessigerdgas-aus-russland-a-92f8d36a-fc1d-4149-8dad-b681bf725b47#ref=rss)
-### neuen
+* [https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news](https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news-a-48ac64f5-f403-4ca5-8a31-3674acfe1af1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-ploetzlich-haelt-der-kuenftige-vize-kanzler-eine-art-regierungserklaerung](https://www.spiegel.de/politik/deutschland/lars-klingbeil-ploetzlich-haelt-der-kuenftige-vize-kanzler-eine-art-regierungserklaerung-a-e06ad174-5d6b-4efd-a478-52c186638d27#ref=rss)
+### lars
 
-* [https://www.spiegel.de/politik/wer-sticht-merz](https://www.spiegel.de/politik/wer-sticht-merz-a-01a9f48e-c59f-4d84-8457-dd5fc016ae03#ref=rss)
-* [https://www.spiegel.de/kultur/kino/stranger-things-star-ueber-seine-rollenangebote-wir-brauchen-einen-dicken-kerl-holt-einfach-david-harbour](https://www.spiegel.de/kultur/kino/stranger-things-star-ueber-seine-rollenangebote-wir-brauchen-einen-dicken-kerl-holt-einfach-david-harbour-a-e20ab6dd-e83f-4661-9410-fda5f880d970#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/audi-weniger-gewinn-im-neuen-jahr-e-auto-produktion-in-den-usa-erwogen](https://www.spiegel.de/wirtschaft/unternehmen/audi-weniger-gewinn-im-neuen-jahr-e-auto-produktion-in-den-usa-erwogen-a-3fdceccc-b2d5-4b90-896a-8efafe7e3d24#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-israel-beschliesst-ausweitung-der-angriffe-zehntausende-reservisten-eingezogen](https://www.spiegel.de/ausland/gaza-israel-beschliesst-ausweitung-der-angriffe-zehntausende-reservisten-eingezogen-a-f4f34adf-124e-4c68-9cfe-1af052f342b1#ref=rss)
-### deutschland
+* [https://www.spiegel.de/politik/deutschland/matthias-miersch-soll-spd-fraktionschef-werden](https://www.spiegel.de/politik/deutschland/matthias-miersch-soll-spd-fraktionschef-werden-a-31d44c1e-fbaa-4615-8197-c2d6ba455150#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-ploetzlich-haelt-der-kuenftige-vize-kanzler-eine-art-regierungserklaerung](https://www.spiegel.de/politik/deutschland/lars-klingbeil-ploetzlich-haelt-der-kuenftige-vize-kanzler-eine-art-regierungserklaerung-a-e06ad174-5d6b-4efd-a478-52c186638d27#ref=rss)
+### 1
 
-* [https://www.spiegel.de/wirtschaft/volkszaehlung-mit-folgen-zwei-gemeinden-verlieren-mariae-himmelfahrt-als-feiertag](https://www.spiegel.de/wirtschaft/volkszaehlung-mit-folgen-zwei-gemeinden-verlieren-mariae-himmelfahrt-als-feiertag-a-dcf6ab4e-40b0-4549-b4d8-465cdd6a2c6a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/strompreise-drohen-sueddeutschland-hoehere-kosten-als-dem-norden](https://www.spiegel.de/wirtschaft/strompreise-drohen-sueddeutschland-hoehere-kosten-als-dem-norden-a-dbb9f7c7-0fd6-4610-9687-01fc46297561#ref=rss)
-* [https://www.spiegel.de/kultur/judy-chicago-wird-endlich-entdeckt-die-feuerwerks-feministin](https://www.spiegel.de/kultur/judy-chicago-wird-endlich-entdeckt-die-feuerwerks-feministin-a-09e94add-0a09-45e9-9846-c123fd3ed54d#ref=rss)
-### china
-
-* [https://www.spiegel.de/wirtschaft/us-zoelle-auf-waren-aus-china-chinesische-firmen-umgehen-laut-bericht-megazoelle-durch-tricks](https://www.spiegel.de/wirtschaft/us-zoelle-auf-waren-aus-china-chinesische-firmen-umgehen-laut-bericht-megazoelle-durch-tricks-a-d65910a9-cc26-43e0-b3aa-7733d77854e8#ref=rss)
-* [https://www.spiegel.de/sport/snooker-wm-in-sheffield-zhao-xintong-steht-kurz-vor-dem-titel-china-ist-die-neue-grossmacht](https://www.spiegel.de/sport/snooker-wm-in-sheffield-zhao-xintong-steht-kurz-vor-dem-titel-china-ist-die-neue-grossmacht-a-d58166d7-e809-4e53-8ce8-c33910445d78#ref=rss)
-### usa
-
-* [https://www.spiegel.de/wirtschaft/us-zoelle-auf-waren-aus-china-chinesische-firmen-umgehen-laut-bericht-megazoelle-durch-tricks](https://www.spiegel.de/wirtschaft/us-zoelle-auf-waren-aus-china-chinesische-firmen-umgehen-laut-bericht-megazoelle-durch-tricks-a-d65910a9-cc26-43e0-b3aa-7733d77854e8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/audi-weniger-gewinn-im-neuen-jahr-e-auto-produktion-in-den-usa-erwogen](https://www.spiegel.de/wirtschaft/unternehmen/audi-weniger-gewinn-im-neuen-jahr-e-auto-produktion-in-den-usa-erwogen-a-3fdceccc-b2d5-4b90-896a-8efafe7e3d24#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/panorama/mitten-durchs-t-shirt-deutsche-touristen-von-blitz-getroffen](https://www.spiegel.de/panorama/mitten-durchs-t-shirt-deutsche-touristen-von-blitz-getroffen-a-61c5256d-ffb8-468b-88e6-34bcc724d52a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/brief-an-friedrich-merz-umweltverbaende-fordern-verzicht-auf-fluessigerdgas-aus-russland](https://www.spiegel.de/wirtschaft/brief-an-friedrich-merz-umweltverbaende-fordern-verzicht-auf-fluessigerdgas-aus-russland-a-92f8d36a-fc1d-4149-8dad-b681bf725b47#ref=rss)
-### bundesliga
-
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-friedhelm-funkel-soll-den-1-fc-koeln-zum-aufstieg-fuehren](https://www.spiegel.de/sport/fussball/2-bundesliga-friedhelm-funkel-soll-den-1-fc-koeln-zum-aufstieg-fuehren-a-20e06dbd-8196-43e0-bad7-f225c4938d2f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-nach-der-meisterschaft-sie-ziehen-schon-vergleiche-zur-pep-guardiola-zeit](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-nach-der-meisterschaft-sie-ziehen-schon-vergleiche-zur-pep-guardiola-zeit-a-c18f17ef-fe31-4125-a856-fc3f2334733f#ref=rss)
+* [https://www.spiegel.de/sport/formel1/grosser-preis-von-miami-ist-oscar-piastri-schon-der-kommende-champion-der-formel-1](https://www.spiegel.de/sport/formel1/grosser-preis-von-miami-ist-oscar-piastri-schon-der-kommende-champion-der-formel-1-a-6346df92-97ef-4fd7-bc6e-0078907599d6#ref=rss)
+* [https://www.spiegel.de/sport/fussball/1-fc-koeln-so-kam-es-zur-freistellung-von-christian-keller-und-gerhard-struber](https://www.spiegel.de/sport/fussball/1-fc-koeln-so-kam-es-zur-freistellung-von-christian-keller-und-gerhard-struber-a-d050e50d-755e-4017-9975-de291d6244d9#ref=rss)
+* [https://www.spiegel.de/sport/fussball/friedhelm-funkel-neuer-trainer-beim-1-fc-koeln-erst-der-feuerwehrmann-dann-der-feueralarm](https://www.spiegel.de/sport/fussball/friedhelm-funkel-neuer-trainer-beim-1-fc-koeln-erst-der-feuerwehrmann-dann-der-feueralarm-a-fb46d023-0009-42a6-8275-5f2d9eeb6ef9#ref=rss)
 ### fc
 
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-friedhelm-funkel-soll-den-1-fc-koeln-zum-aufstieg-fuehren](https://www.spiegel.de/sport/fussball/2-bundesliga-friedhelm-funkel-soll-den-1-fc-koeln-zum-aufstieg-fuehren-a-20e06dbd-8196-43e0-bad7-f225c4938d2f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-nach-der-meisterschaft-sie-ziehen-schon-vergleiche-zur-pep-guardiola-zeit](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-nach-der-meisterschaft-sie-ziehen-schon-vergleiche-zur-pep-guardiola-zeit-a-c18f17ef-fe31-4125-a856-fc3f2334733f#ref=rss)
-### bayern
+* [https://www.spiegel.de/sport/fussball/1-fc-koeln-so-kam-es-zur-freistellung-von-christian-keller-und-gerhard-struber](https://www.spiegel.de/sport/fussball/1-fc-koeln-so-kam-es-zur-freistellung-von-christian-keller-und-gerhard-struber-a-d050e50d-755e-4017-9975-de291d6244d9#ref=rss)
+* [https://www.spiegel.de/sport/fussball/friedhelm-funkel-neuer-trainer-beim-1-fc-koeln-erst-der-feuerwehrmann-dann-der-feueralarm](https://www.spiegel.de/sport/fussball/friedhelm-funkel-neuer-trainer-beim-1-fc-koeln-erst-der-feuerwehrmann-dann-der-feueralarm-a-fb46d023-0009-42a6-8275-5f2d9eeb6ef9#ref=rss)
+### köln
 
-* [https://www.spiegel.de/panorama/bayern-eltern-lassen-baby-auf-bahnsteig-zurueck-zug-faehrt-ohne-sie-ab](https://www.spiegel.de/panorama/bayern-eltern-lassen-baby-auf-bahnsteig-zurueck-zug-faehrt-ohne-sie-ab-a-cdb4238d-c394-4b00-8d63-709737a49eac#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-nach-der-meisterschaft-sie-ziehen-schon-vergleiche-zur-pep-guardiola-zeit](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-nach-der-meisterschaft-sie-ziehen-schon-vergleiche-zur-pep-guardiola-zeit-a-c18f17ef-fe31-4125-a856-fc3f2334733f#ref=rss)
-### stellt
+* [https://www.spiegel.de/sport/fussball/1-fc-koeln-so-kam-es-zur-freistellung-von-christian-keller-und-gerhard-struber](https://www.spiegel.de/sport/fussball/1-fc-koeln-so-kam-es-zur-freistellung-von-christian-keller-und-gerhard-struber-a-d050e50d-755e-4017-9975-de291d6244d9#ref=rss)
+* [https://www.spiegel.de/sport/fussball/friedhelm-funkel-neuer-trainer-beim-1-fc-koeln-erst-der-feuerwehrmann-dann-der-feueralarm](https://www.spiegel.de/sport/fussball/friedhelm-funkel-neuer-trainer-beim-1-fc-koeln-erst-der-feuerwehrmann-dann-der-feueralarm-a-fb46d023-0009-42a6-8275-5f2d9eeb6ef9#ref=rss)
+### friedhelm
 
-* [https://www.spiegel.de/netzwelt/web/mrdeepfakes-bekanntestes-portal-fuer-ki-generierte-sexvideos-schliesst-angeblich](https://www.spiegel.de/netzwelt/web/mrdeepfakes-bekanntestes-portal-fuer-ki-generierte-sexvideos-schliesst-angeblich-a-247aac52-2a27-4e4e-9869-1b32446fbdc9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-stellt-minister-vor-baerbel-bas-soll-arbeitsministerin-werden-stefanie-hubig-uebernimmt-justiz](https://www.spiegel.de/politik/deutschland/spd-stellt-minister-vor-baerbel-bas-soll-arbeitsministerin-werden-stefanie-hubig-uebernimmt-justiz-a-ab31334d-5fee-4f22-b317-cd28125b7553#ref=rss)
+* [https://www.spiegel.de/sport/fussball/1-fc-koeln-so-kam-es-zur-freistellung-von-christian-keller-und-gerhard-struber](https://www.spiegel.de/sport/fussball/1-fc-koeln-so-kam-es-zur-freistellung-von-christian-keller-und-gerhard-struber-a-d050e50d-755e-4017-9975-de291d6244d9#ref=rss)
+* [https://www.spiegel.de/sport/fussball/friedhelm-funkel-neuer-trainer-beim-1-fc-koeln-erst-der-feuerwehrmann-dann-der-feueralarm](https://www.spiegel.de/sport/fussball/friedhelm-funkel-neuer-trainer-beim-1-fc-koeln-erst-der-feuerwehrmann-dann-der-feueralarm-a-fb46d023-0009-42a6-8275-5f2d9eeb6ef9#ref=rss)
+### funkel
+
+* [https://www.spiegel.de/sport/fussball/1-fc-koeln-so-kam-es-zur-freistellung-von-christian-keller-und-gerhard-struber](https://www.spiegel.de/sport/fussball/1-fc-koeln-so-kam-es-zur-freistellung-von-christian-keller-und-gerhard-struber-a-d050e50d-755e-4017-9975-de291d6244d9#ref=rss)
+* [https://www.spiegel.de/sport/fussball/friedhelm-funkel-neuer-trainer-beim-1-fc-koeln-erst-der-feuerwehrmann-dann-der-feueralarm](https://www.spiegel.de/sport/fussball/friedhelm-funkel-neuer-trainer-beim-1-fc-koeln-erst-der-feuerwehrmann-dann-der-feueralarm-a-fb46d023-0009-42a6-8275-5f2d9eeb6ef9#ref=rss)
+### neue
+
+* [https://www.spiegel.de/politik/deutschland/stefanie-hubig-wird-neue-justizministerin-am-ende-einer-langen-reise](https://www.spiegel.de/politik/deutschland/stefanie-hubig-wird-neue-justizministerin-am-ende-einer-langen-reise-a-da1b6422-bf07-4a69-83a7-8136f7cc0567#ref=rss)
+* [https://www.spiegel.de/wissenschaft/bremen-universitaet-und-alfred-wegener-institut-sichern-us-forschungsdaten](https://www.spiegel.de/wissenschaft/bremen-universitaet-und-alfred-wegener-institut-sichern-us-forschungsdaten-a-b2d70bd6-d3ef-4529-a4d8-f1899cb782b0#ref=rss)
+### ende
+
+* [https://www.spiegel.de/politik/deutschland/stefanie-hubig-wird-neue-justizministerin-am-ende-einer-langen-reise](https://www.spiegel.de/politik/deutschland/stefanie-hubig-wird-neue-justizministerin-am-ende-einer-langen-reise-a-da1b6422-bf07-4a69-83a7-8136f7cc0567#ref=rss)
+### langen
+
+* [https://www.spiegel.de/politik/deutschland/stefanie-hubig-wird-neue-justizministerin-am-ende-einer-langen-reise](https://www.spiegel.de/politik/deutschland/stefanie-hubig-wird-neue-justizministerin-am-ende-einer-langen-reise-a-da1b6422-bf07-4a69-83a7-8136f7cc0567#ref=rss)
+### reise
+
+* [https://www.spiegel.de/politik/deutschland/stefanie-hubig-wird-neue-justizministerin-am-ende-einer-langen-reise](https://www.spiegel.de/politik/deutschland/stefanie-hubig-wird-neue-justizministerin-am-ende-einer-langen-reise-a-da1b6422-bf07-4a69-83a7-8136f7cc0567#ref=rss)
+### hause
+
+* [https://www.spiegel.de/politik/deutschland/stefanie-hubig-wird-neue-justizministerin-am-ende-einer-langen-reise](https://www.spiegel.de/politik/deutschland/stefanie-hubig-wird-neue-justizministerin-am-ende-einer-langen-reise-a-da1b6422-bf07-4a69-83a7-8136f7cc0567#ref=rss)
+* [https://www.spiegel.de/familie/traumata-in-der-familie-meine-mutter-ist-obdachlos](https://www.spiegel.de/familie/traumata-in-der-familie-meine-mutter-ist-obdachlos-a-9d0f152c-9d04-4696-a79c-afe1bc1f9a55#ref=rss)
+### timothy
+
+* [https://www.spiegel.de/wissenschaft/medizin/gegengift-entwickelt-timothy-friede-liess-sich-200-mal-von-giftigen-schlangen-beissen-warum](https://www.spiegel.de/wissenschaft/medizin/gegengift-entwickelt-timothy-friede-liess-sich-200-mal-von-giftigen-schlangen-beissen-warum-a-e90d57bf-775c-4e13-81b7-dc87257b056a#ref=rss)
+### friede
+
+* [https://www.spiegel.de/wissenschaft/medizin/gegengift-entwickelt-timothy-friede-liess-sich-200-mal-von-giftigen-schlangen-beissen-warum](https://www.spiegel.de/wissenschaft/medizin/gegengift-entwickelt-timothy-friede-liess-sich-200-mal-von-giftigen-schlangen-beissen-warum-a-e90d57bf-775c-4e13-81b7-dc87257b056a#ref=rss)
+### schlangen
+
+* [https://www.spiegel.de/wissenschaft/medizin/gegengift-entwickelt-timothy-friede-liess-sich-200-mal-von-giftigen-schlangen-beissen-warum](https://www.spiegel.de/wissenschaft/medizin/gegengift-entwickelt-timothy-friede-liess-sich-200-mal-von-giftigen-schlangen-beissen-warum-a-e90d57bf-775c-4e13-81b7-dc87257b056a#ref=rss)
+### beißen
+
+* [https://www.spiegel.de/wissenschaft/medizin/gegengift-entwickelt-timothy-friede-liess-sich-200-mal-von-giftigen-schlangen-beissen-warum](https://www.spiegel.de/wissenschaft/medizin/gegengift-entwickelt-timothy-friede-liess-sich-200-mal-von-giftigen-schlangen-beissen-warum-a-e90d57bf-775c-4e13-81b7-dc87257b056a#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/wissenschaft/medizin/gegengift-entwickelt-timothy-friede-liess-sich-200-mal-von-giftigen-schlangen-beissen-warum](https://www.spiegel.de/wissenschaft/medizin/gegengift-entwickelt-timothy-friede-liess-sich-200-mal-von-giftigen-schlangen-beissen-warum-a-e90d57bf-775c-4e13-81b7-dc87257b056a#ref=rss)
+* [https://www.spiegel.de/wissenschaft/ss-verbrechen-historiker-rekonstruiert-massaker-an-zwangsarbeitern-im-sauerland](https://www.spiegel.de/wissenschaft/ss-verbrechen-historiker-rekonstruiert-massaker-an-zwangsarbeitern-im-sauerland-a-056d3262-6273-483e-a44a-a5f9e20853c8#ref=rss)
+### unfall
+
+* [https://www.spiegel.de/panorama/stuttgart-ursachensuche-nach-schwerem-unfall-polizei-spricht-von-unfallhaeufungsstelle](https://www.spiegel.de/panorama/stuttgart-ursachensuche-nach-schwerem-unfall-polizei-spricht-von-unfallhaeufungsstelle-a-744cfbbd-060f-49cd-b311-d80ed89dc125#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/stuttgart-ursachensuche-nach-schwerem-unfall-polizei-spricht-von-unfallhaeufungsstelle](https://www.spiegel.de/panorama/stuttgart-ursachensuche-nach-schwerem-unfall-polizei-spricht-von-unfallhaeufungsstelle-a-744cfbbd-060f-49cd-b311-d80ed89dc125#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-im-landkreis-lindau-jugendtrainer-greift-schiedsrichter-an-und-verletzt-ihn-leicht](https://www.spiegel.de/sport/fussball/fussball-im-landkreis-lindau-jugendtrainer-greift-schiedsrichter-an-und-verletzt-ihn-leicht-a-07f10ec9-2783-4e16-9a52-ab5e69c51fbc#ref=rss)
+### verletzt
+
+* [https://www.spiegel.de/panorama/stuttgart-ursachensuche-nach-schwerem-unfall-polizei-spricht-von-unfallhaeufungsstelle](https://www.spiegel.de/panorama/stuttgart-ursachensuche-nach-schwerem-unfall-polizei-spricht-von-unfallhaeufungsstelle-a-744cfbbd-060f-49cd-b311-d80ed89dc125#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-im-landkreis-lindau-jugendtrainer-greift-schiedsrichter-an-und-verletzt-ihn-leicht](https://www.spiegel.de/sport/fussball/fussball-im-landkreis-lindau-jugendtrainer-greift-schiedsrichter-an-und-verletzt-ihn-leicht-a-07f10ec9-2783-4e16-9a52-ab5e69c51fbc#ref=rss)
+### größte
+
+* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-a-bdee7046-8144-4bdc-9b0b-6c0beef42136#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast-a-c052f2a7-2f70-4948-9acc-303c682c97f3#ref=rss)
+### viele
+
+* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-a-bdee7046-8144-4bdc-9b0b-6c0beef42136#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast-a-c052f2a7-2f70-4948-9acc-303c682c97f3#ref=rss)
+### sitze
+
+* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-a-bdee7046-8144-4bdc-9b0b-6c0beef42136#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast-a-c052f2a7-2f70-4948-9acc-303c682c97f3#ref=rss)
+### nie
+
+* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-a-bdee7046-8144-4bdc-9b0b-6c0beef42136#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast-a-c052f2a7-2f70-4948-9acc-303c682c97f3#ref=rss)
+### gänge
+
+* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-a-bdee7046-8144-4bdc-9b0b-6c0beef42136#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast-a-c052f2a7-2f70-4948-9acc-303c682c97f3#ref=rss)
+### hochschalten
+
+* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-a-bdee7046-8144-4bdc-9b0b-6c0beef42136#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast-a-c052f2a7-2f70-4948-9acc-303c682c97f3#ref=rss)
+### prägt
+
+* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-a-bdee7046-8144-4bdc-9b0b-6c0beef42136#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast-a-c052f2a7-2f70-4948-9acc-303c682c97f3#ref=rss)
+### rolle
+
+* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-a-bdee7046-8144-4bdc-9b0b-6c0beef42136#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast-a-c052f2a7-2f70-4948-9acc-303c682c97f3#ref=rss)
+### spielt
+
+* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-a-bdee7046-8144-4bdc-9b0b-6c0beef42136#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast-a-c052f2a7-2f70-4948-9acc-303c682c97f3#ref=rss)
+### völkisches
+
+* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-a-bdee7046-8144-4bdc-9b0b-6c0beef42136#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast-a-c052f2a7-2f70-4948-9acc-303c682c97f3#ref=rss)
+### gedankengut
+
+* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-a-bdee7046-8144-4bdc-9b0b-6c0beef42136#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast-a-c052f2a7-2f70-4948-9acc-303c682c97f3#ref=rss)
+### spiegelredakteurin
+
+* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-a-bdee7046-8144-4bdc-9b0b-6c0beef42136#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast-a-c052f2a7-2f70-4948-9acc-303c682c97f3#ref=rss)
+### annkatrin
+
+* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-a-bdee7046-8144-4bdc-9b0b-6c0beef42136#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast-a-c052f2a7-2f70-4948-9acc-303c682c97f3#ref=rss)
+### müller
+
+* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-a-bdee7046-8144-4bdc-9b0b-6c0beef42136#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast-a-c052f2a7-2f70-4948-9acc-303c682c97f3#ref=rss)
+### ordnet
+
+* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-a-bdee7046-8144-4bdc-9b0b-6c0beef42136#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast-a-c052f2a7-2f70-4948-9acc-303c682c97f3#ref=rss)
+### usa
+
+* [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/us-zoelle-wie-shein-temu-und-amazon-durch-donald-trump-unter-druck-geraten](https://www.spiegel.de/wirtschaft/unternehmen/us-zoelle-wie-shein-temu-und-amazon-durch-donald-trump-unter-druck-geraten-a-e259cb39-2b1a-4304-9544-50d54c051cb4#ref=rss)
+### bieten
+
+* [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
+* [https://www.spiegel.de/wissenschaft/bremen-universitaet-und-alfred-wegener-institut-sichern-us-forschungsdaten](https://www.spiegel.de/wissenschaft/bremen-universitaet-und-alfred-wegener-institut-sichern-us-forschungsdaten-a-b2d70bd6-d3ef-4529-a4d8-f1899cb782b0#ref=rss)
+### ohne
+
+* [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
+* [https://www.spiegel.de/kultur/kino/donald-trumps-zoll-androhung-fuer-hollywood-panik-in-der-traumfabrik](https://www.spiegel.de/kultur/kino/donald-trumps-zoll-androhung-fuer-hollywood-panik-in-der-traumfabrik-a-ce1b71bc-2ac3-4346-bb7b-5c4f29dd5261#ref=rss)
+### darfur
+
+* [https://www.spiegel.de/ausland/darfur-im-sudan-internationaler-gerichtshof-weist-genozid-klage-gegen-vereinigte-arabische-emirate-ab](https://www.spiegel.de/ausland/darfur-im-sudan-internationaler-gerichtshof-weist-genozid-klage-gegen-vereinigte-arabische-emirate-ab-a-cb3b1548-b828-4d40-ae05-6d7b38b11d16#ref=rss)
+### sudan
+
+* [https://www.spiegel.de/ausland/darfur-im-sudan-internationaler-gerichtshof-weist-genozid-klage-gegen-vereinigte-arabische-emirate-ab](https://www.spiegel.de/ausland/darfur-im-sudan-internationaler-gerichtshof-weist-genozid-klage-gegen-vereinigte-arabische-emirate-ab-a-cb3b1548-b828-4d40-ae05-6d7b38b11d16#ref=rss)
+### designierte
+
+* [https://www.spiegel.de/politik/deutschland/designierte-fdp-generalsekretaerin-buettner-eine-ki-unternehmerin-fuer-die-apo-zeit](https://www.spiegel.de/politik/deutschland/designierte-fdp-generalsekretaerin-buettner-eine-ki-unternehmerin-fuer-die-apo-zeit-a-956802c4-b633-4a95-9145-b8591fea6afa#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news](https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news-a-48ac64f5-f403-4ca5-8a31-3674acfe1af1#ref=rss)
+### büttner
+
+* [https://www.spiegel.de/politik/deutschland/designierte-fdp-generalsekretaerin-buettner-eine-ki-unternehmerin-fuer-die-apo-zeit](https://www.spiegel.de/politik/deutschland/designierte-fdp-generalsekretaerin-buettner-eine-ki-unternehmerin-fuer-die-apo-zeit-a-956802c4-b633-4a95-9145-b8591fea6afa#ref=rss)
+### kiunternehmerin
+
+* [https://www.spiegel.de/politik/deutschland/designierte-fdp-generalsekretaerin-buettner-eine-ki-unternehmerin-fuer-die-apo-zeit](https://www.spiegel.de/politik/deutschland/designierte-fdp-generalsekretaerin-buettner-eine-ki-unternehmerin-fuer-die-apo-zeit-a-956802c4-b633-4a95-9145-b8591fea6afa#ref=rss)
+### künftige
+
+* [https://www.spiegel.de/politik/deutschland/designierte-fdp-generalsekretaerin-buettner-eine-ki-unternehmerin-fuer-die-apo-zeit](https://www.spiegel.de/politik/deutschland/designierte-fdp-generalsekretaerin-buettner-eine-ki-unternehmerin-fuer-die-apo-zeit-a-956802c4-b633-4a95-9145-b8591fea6afa#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-ploetzlich-haelt-der-kuenftige-vize-kanzler-eine-art-regierungserklaerung](https://www.spiegel.de/politik/deutschland/lars-klingbeil-ploetzlich-haelt-der-kuenftige-vize-kanzler-eine-art-regierungserklaerung-a-e06ad174-5d6b-4efd-a478-52c186638d27#ref=rss)
+### niemand
+
+* [https://www.spiegel.de/politik/deutschland/designierte-fdp-generalsekretaerin-buettner-eine-ki-unternehmerin-fuer-die-apo-zeit](https://www.spiegel.de/politik/deutschland/designierte-fdp-generalsekretaerin-buettner-eine-ki-unternehmerin-fuer-die-apo-zeit-a-956802c4-b633-4a95-9145-b8591fea6afa#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/unterwasservulkan-im-pazifik-forschende-beobachten-vulkanausbruch-in-der-tiefsee](https://www.spiegel.de/wissenschaft/natur/unterwasservulkan-im-pazifik-forschende-beobachten-vulkanausbruch-in-der-tiefsee-a-f506dbbb-df3f-4552-8779-4201e0fda7bd#ref=rss)
+### historiker
+
+* [https://www.spiegel.de/wissenschaft/ss-verbrechen-historiker-rekonstruiert-massaker-an-zwangsarbeitern-im-sauerland](https://www.spiegel.de/wissenschaft/ss-verbrechen-historiker-rekonstruiert-massaker-an-zwangsarbeitern-im-sauerland-a-056d3262-6273-483e-a44a-a5f9e20853c8#ref=rss)
+### sauerland
+
+* [https://www.spiegel.de/wissenschaft/ss-verbrechen-historiker-rekonstruiert-massaker-an-zwangsarbeitern-im-sauerland](https://www.spiegel.de/wissenschaft/ss-verbrechen-historiker-rekonstruiert-massaker-an-zwangsarbeitern-im-sauerland-a-056d3262-6273-483e-a44a-a5f9e20853c8#ref=rss)
 ### bärbel
 
-* [https://www.spiegel.de/politik/deutschland/spd-baerbel-bas-und-co-wer-sind-die-minister-fuer-das-kabinett-von-merz](https://www.spiegel.de/politik/deutschland/spd-baerbel-bas-und-co-wer-sind-die-minister-fuer-das-kabinett-von-merz-a-15a28501-7eaf-499b-8450-c553e8102314#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-stellt-minister-vor-baerbel-bas-soll-arbeitsministerin-werden-stefanie-hubig-uebernimmt-justiz](https://www.spiegel.de/politik/deutschland/spd-stellt-minister-vor-baerbel-bas-soll-arbeitsministerin-werden-stefanie-hubig-uebernimmt-justiz-a-ab31334d-5fee-4f22-b317-cd28125b7553#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/baerbel-bas-vom-aufstieg-zur-arbeitsministerin-im-bundeskabinett](https://www.spiegel.de/wirtschaft/soziales/baerbel-bas-vom-aufstieg-zur-arbeitsministerin-im-bundeskabinett-a-bfa9168c-91e4-40de-81d6-84a38c14e397#ref=rss)
 ### bas
 
-* [https://www.spiegel.de/politik/deutschland/spd-baerbel-bas-und-co-wer-sind-die-minister-fuer-das-kabinett-von-merz](https://www.spiegel.de/politik/deutschland/spd-baerbel-bas-und-co-wer-sind-die-minister-fuer-das-kabinett-von-merz-a-15a28501-7eaf-499b-8450-c553e8102314#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-stellt-minister-vor-baerbel-bas-soll-arbeitsministerin-werden-stefanie-hubig-uebernimmt-justiz](https://www.spiegel.de/politik/deutschland/spd-stellt-minister-vor-baerbel-bas-soll-arbeitsministerin-werden-stefanie-hubig-uebernimmt-justiz-a-ab31334d-5fee-4f22-b317-cd28125b7553#ref=rss)
-### minister
+* [https://www.spiegel.de/wirtschaft/soziales/baerbel-bas-vom-aufstieg-zur-arbeitsministerin-im-bundeskabinett](https://www.spiegel.de/wirtschaft/soziales/baerbel-bas-vom-aufstieg-zur-arbeitsministerin-im-bundeskabinett-a-bfa9168c-91e4-40de-81d6-84a38c14e397#ref=rss)
+### aufstieg
 
-* [https://www.spiegel.de/politik/deutschland/spd-baerbel-bas-und-co-wer-sind-die-minister-fuer-das-kabinett-von-merz](https://www.spiegel.de/politik/deutschland/spd-baerbel-bas-und-co-wer-sind-die-minister-fuer-das-kabinett-von-merz-a-15a28501-7eaf-499b-8450-c553e8102314#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-stellt-minister-vor-baerbel-bas-soll-arbeitsministerin-werden-stefanie-hubig-uebernimmt-justiz](https://www.spiegel.de/politik/deutschland/spd-stellt-minister-vor-baerbel-bas-soll-arbeitsministerin-werden-stefanie-hubig-uebernimmt-justiz-a-ab31334d-5fee-4f22-b317-cd28125b7553#ref=rss)
-### kabinett
+* [https://www.spiegel.de/wirtschaft/soziales/baerbel-bas-vom-aufstieg-zur-arbeitsministerin-im-bundeskabinett](https://www.spiegel.de/wirtschaft/soziales/baerbel-bas-vom-aufstieg-zur-arbeitsministerin-im-bundeskabinett-a-bfa9168c-91e4-40de-81d6-84a38c14e397#ref=rss)
+### arbeitsministerin
 
-* [https://www.spiegel.de/politik/deutschland/spd-baerbel-bas-und-co-wer-sind-die-minister-fuer-das-kabinett-von-merz](https://www.spiegel.de/politik/deutschland/spd-baerbel-bas-und-co-wer-sind-die-minister-fuer-das-kabinett-von-merz-a-15a28501-7eaf-499b-8450-c553e8102314#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-stellt-minister-vor-baerbel-bas-soll-arbeitsministerin-werden-stefanie-hubig-uebernimmt-justiz](https://www.spiegel.de/politik/deutschland/spd-stellt-minister-vor-baerbel-bas-soll-arbeitsministerin-werden-stefanie-hubig-uebernimmt-justiz-a-ab31334d-5fee-4f22-b317-cd28125b7553#ref=rss)
-### folgen
+* [https://www.spiegel.de/wirtschaft/soziales/baerbel-bas-vom-aufstieg-zur-arbeitsministerin-im-bundeskabinett](https://www.spiegel.de/wirtschaft/soziales/baerbel-bas-vom-aufstieg-zur-arbeitsministerin-im-bundeskabinett-a-bfa9168c-91e4-40de-81d6-84a38c14e397#ref=rss)
+### bundeskabinett
 
-* [https://www.spiegel.de/wirtschaft/volkszaehlung-mit-folgen-zwei-gemeinden-verlieren-mariae-himmelfahrt-als-feiertag](https://www.spiegel.de/wirtschaft/volkszaehlung-mit-folgen-zwei-gemeinden-verlieren-mariae-himmelfahrt-als-feiertag-a-dcf6ab4e-40b0-4549-b4d8-465cdd6a2c6a#ref=rss)
-* [https://www.spiegel.de/ausland/rumaenien-rechtspopulist-george-simion-als-favorit-in-praesidentschaftswahl](https://www.spiegel.de/ausland/rumaenien-rechtspopulist-george-simion-als-favorit-in-praesidentschaftswahl-a-2d15708f-6e38-4f2e-867a-a189c6f4e685#ref=rss)
-### gemeinden
+* [https://www.spiegel.de/wirtschaft/soziales/baerbel-bas-vom-aufstieg-zur-arbeitsministerin-im-bundeskabinett](https://www.spiegel.de/wirtschaft/soziales/baerbel-bas-vom-aufstieg-zur-arbeitsministerin-im-bundeskabinett-a-bfa9168c-91e4-40de-81d6-84a38c14e397#ref=rss)
+### verteidiger
 
-* [https://www.spiegel.de/wirtschaft/volkszaehlung-mit-folgen-zwei-gemeinden-verlieren-mariae-himmelfahrt-als-feiertag](https://www.spiegel.de/wirtschaft/volkszaehlung-mit-folgen-zwei-gemeinden-verlieren-mariae-himmelfahrt-als-feiertag-a-dcf6ab4e-40b0-4549-b4d8-465cdd6a2c6a#ref=rss)
-### verlieren
-
-* [https://www.spiegel.de/wirtschaft/volkszaehlung-mit-folgen-zwei-gemeinden-verlieren-mariae-himmelfahrt-als-feiertag](https://www.spiegel.de/wirtschaft/volkszaehlung-mit-folgen-zwei-gemeinden-verlieren-mariae-himmelfahrt-als-feiertag-a-dcf6ab4e-40b0-4549-b4d8-465cdd6a2c6a#ref=rss)
-### mariä
-
-* [https://www.spiegel.de/wirtschaft/volkszaehlung-mit-folgen-zwei-gemeinden-verlieren-mariae-himmelfahrt-als-feiertag](https://www.spiegel.de/wirtschaft/volkszaehlung-mit-folgen-zwei-gemeinden-verlieren-mariae-himmelfahrt-als-feiertag-a-dcf6ab4e-40b0-4549-b4d8-465cdd6a2c6a#ref=rss)
-### himmelfahrt
-
-* [https://www.spiegel.de/wirtschaft/volkszaehlung-mit-folgen-zwei-gemeinden-verlieren-mariae-himmelfahrt-als-feiertag](https://www.spiegel.de/wirtschaft/volkszaehlung-mit-folgen-zwei-gemeinden-verlieren-mariae-himmelfahrt-als-feiertag-a-dcf6ab4e-40b0-4549-b4d8-465cdd6a2c6a#ref=rss)
-### lage
-
-* [https://www.spiegel.de/wirtschaft/volkszaehlung-mit-folgen-zwei-gemeinden-verlieren-mariae-himmelfahrt-als-feiertag](https://www.spiegel.de/wirtschaft/volkszaehlung-mit-folgen-zwei-gemeinden-verlieren-mariae-himmelfahrt-als-feiertag-a-dcf6ab4e-40b0-4549-b4d8-465cdd6a2c6a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/audi-weniger-gewinn-im-neuen-jahr-e-auto-produktion-in-den-usa-erwogen](https://www.spiegel.de/wirtschaft/unternehmen/audi-weniger-gewinn-im-neuen-jahr-e-auto-produktion-in-den-usa-erwogen-a-3fdceccc-b2d5-4b90-896a-8efafe7e3d24#ref=rss)
-### skype
-
-* [https://www.spiegel.de/netzwelt/apps/skype-messenger-pionier-verschwindet-aus-dem-netz](https://www.spiegel.de/netzwelt/apps/skype-messenger-pionier-verschwindet-aus-dem-netz-a-66828bc1-790f-4621-a1e2-56edb08fc9e0#ref=rss)
-* [https://www.spiegel.de/psychologie/freundschaften-wie-wir-es-schaffen-auf-distanz-in-kontakt-zu-bleiben](https://www.spiegel.de/psychologie/freundschaften-wie-wir-es-schaffen-auf-distanz-in-kontakt-zu-bleiben-a-dde9be62-0bae-4e41-a321-e6be14089bc0#ref=rss)
-### app
-
-* [https://www.spiegel.de/netzwelt/apps/skype-messenger-pionier-verschwindet-aus-dem-netz](https://www.spiegel.de/netzwelt/apps/skype-messenger-pionier-verschwindet-aus-dem-netz-a-66828bc1-790f-4621-a1e2-56edb08fc9e0#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/signalgate-von-der-us-regierung-genutzte-messenger-app-wurde-gehackt](https://www.spiegel.de/netzwelt/apps/signalgate-von-der-us-regierung-genutzte-messenger-app-wurde-gehackt-a-1e78b0a4-9dde-441a-8a3d-af19a9f746f7#ref=rss)
-### braunschweig
-
-* [https://www.spiegel.de/panorama/braunschweig-mann-stirbt-kopfueber-in-gully](https://www.spiegel.de/panorama/braunschweig-mann-stirbt-kopfueber-in-gully-a-27742a54-39ee-4b2c-a6cf-059aa67bec21#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/braunschweig-mann-stirbt-kopfueber-in-gully](https://www.spiegel.de/panorama/braunschweig-mann-stirbt-kopfueber-in-gully-a-27742a54-39ee-4b2c-a6cf-059aa67bec21#ref=rss)
-### kopfüber
-
-* [https://www.spiegel.de/panorama/braunschweig-mann-stirbt-kopfueber-in-gully](https://www.spiegel.de/panorama/braunschweig-mann-stirbt-kopfueber-in-gully-a-27742a54-39ee-4b2c-a6cf-059aa67bec21#ref=rss)
-### gully
-
-* [https://www.spiegel.de/panorama/braunschweig-mann-stirbt-kopfueber-in-gully](https://www.spiegel.de/panorama/braunschweig-mann-stirbt-kopfueber-in-gully-a-27742a54-39ee-4b2c-a6cf-059aa67bec21#ref=rss)
-### bleiben
-
-* [https://www.spiegel.de/panorama/braunschweig-mann-stirbt-kopfueber-in-gully](https://www.spiegel.de/panorama/braunschweig-mann-stirbt-kopfueber-in-gully-a-27742a54-39ee-4b2c-a6cf-059aa67bec21#ref=rss)
-* [https://www.spiegel.de/psychologie/freundschaften-wie-wir-es-schaffen-auf-distanz-in-kontakt-zu-bleiben](https://www.spiegel.de/psychologie/freundschaften-wie-wir-es-schaffen-auf-distanz-in-kontakt-zu-bleiben-a-dde9be62-0bae-4e41-a321-e6be14089bc0#ref=rss)
-### cdu
+* [https://www.spiegel.de/wirtschaft/unternehmen/vw-dieselaffaere-verteidiger-fordern-freispruch-fuer-frueheren-vw-abteilungsleiter](https://www.spiegel.de/wirtschaft/unternehmen/vw-dieselaffaere-verteidiger-fordern-freispruch-fuer-frueheren-vw-abteilungsleiter-a-98e21228-ff4c-4abc-b64f-055048e73f76#ref=rss)
+### koalition
 
 * [https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news](https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news-a-48ac64f5-f403-4ca5-8a31-3674acfe1af1#ref=rss)
-### csu
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-spd-ministerposten-rumaenen-sean-diddy-combs](https://www.spiegel.de/politik/deutschland/news-des-tages-spd-ministerposten-rumaenen-sean-diddy-combs-a-8ed3c2c6-22ec-474e-b2be-f356fb43a4e7#ref=rss)
+### auswertung
+
+* [https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news](https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news-a-48ac64f5-f403-4ca5-8a31-3674acfe1af1#ref=rss)
+### innenministerium
+
+* [https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news](https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news-a-48ac64f5-f403-4ca5-8a31-3674acfe1af1#ref=rss)
+### abwarten
 
 * [https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news](https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news-a-48ac64f5-f403-4ca5-8a31-3674acfe1af1#ref=rss)
 ### alle
 
 * [https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news](https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news-a-48ac64f5-f403-4ca5-8a31-3674acfe1af1#ref=rss)
-### news
-
-* [https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news](https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news-a-48ac64f5-f403-4ca5-8a31-3674acfe1af1#ref=rss)
-### firmen
-
-* [https://www.spiegel.de/wirtschaft/us-zoelle-auf-waren-aus-china-chinesische-firmen-umgehen-laut-bericht-megazoelle-durch-tricks](https://www.spiegel.de/wirtschaft/us-zoelle-auf-waren-aus-china-chinesische-firmen-umgehen-laut-bericht-megazoelle-durch-tricks-a-d65910a9-cc26-43e0-b3aa-7733d77854e8#ref=rss)
-### umgehen
-
-* [https://www.spiegel.de/wirtschaft/us-zoelle-auf-waren-aus-china-chinesische-firmen-umgehen-laut-bericht-megazoelle-durch-tricks](https://www.spiegel.de/wirtschaft/us-zoelle-auf-waren-aus-china-chinesische-firmen-umgehen-laut-bericht-megazoelle-durch-tricks-a-d65910a9-cc26-43e0-b3aa-7733d77854e8#ref=rss)
-### laut
-
-* [https://www.spiegel.de/wirtschaft/us-zoelle-auf-waren-aus-china-chinesische-firmen-umgehen-laut-bericht-megazoelle-durch-tricks](https://www.spiegel.de/wirtschaft/us-zoelle-auf-waren-aus-china-chinesische-firmen-umgehen-laut-bericht-megazoelle-durch-tricks-a-d65910a9-cc26-43e0-b3aa-7733d77854e8#ref=rss)
-### bericht
-
-* [https://www.spiegel.de/wirtschaft/us-zoelle-auf-waren-aus-china-chinesische-firmen-umgehen-laut-bericht-megazoelle-durch-tricks](https://www.spiegel.de/wirtschaft/us-zoelle-auf-waren-aus-china-chinesische-firmen-umgehen-laut-bericht-megazoelle-durch-tricks-a-d65910a9-cc26-43e0-b3aa-7733d77854e8#ref=rss)
-### hohen
-
-* [https://www.spiegel.de/wirtschaft/us-zoelle-auf-waren-aus-china-chinesische-firmen-umgehen-laut-bericht-megazoelle-durch-tricks](https://www.spiegel.de/wirtschaft/us-zoelle-auf-waren-aus-china-chinesische-firmen-umgehen-laut-bericht-megazoelle-durch-tricks-a-d65910a9-cc26-43e0-b3aa-7733d77854e8#ref=rss)
-### jochen
-
-* [https://www.spiegel.de/sport/formel1/nachruf-auf-formel1-pilot-jochen-mass-ein-rennfahrer-und-ein-traeumer](https://www.spiegel.de/sport/formel1/nachruf-auf-formel1-pilot-jochen-mass-ein-rennfahrer-und-ein-traeumer-a-73db9ada-958b-4cfc-993e-5caf2ec17ffd#ref=rss)
-### mass
-
-* [https://www.spiegel.de/sport/formel1/nachruf-auf-formel1-pilot-jochen-mass-ein-rennfahrer-und-ein-traeumer](https://www.spiegel.de/sport/formel1/nachruf-auf-formel1-pilot-jochen-mass-ein-rennfahrer-und-ein-traeumer-a-73db9ada-958b-4cfc-993e-5caf2ec17ffd#ref=rss)
-### formel
-
-* [https://www.spiegel.de/sport/formel1/nachruf-auf-formel1-pilot-jochen-mass-ein-rennfahrer-und-ein-traeumer](https://www.spiegel.de/sport/formel1/nachruf-auf-formel1-pilot-jochen-mass-ein-rennfahrer-und-ein-traeumer-a-73db9ada-958b-4cfc-993e-5caf2ec17ffd#ref=rss)
-* [https://www.spiegel.de/sport/formel1/pressestimmen-zur-formel-1-papaya-autos-nicht-unter-druck-gesetzt](https://www.spiegel.de/sport/formel1/pressestimmen-zur-formel-1-papaya-autos-nicht-unter-druck-gesetzt-a-26d1ebe7-12fc-4274-b5df-7e903d9b7939#ref=rss)
-### job
-
-* [https://www.spiegel.de/sport/formel1/nachruf-auf-formel1-pilot-jochen-mass-ein-rennfahrer-und-ein-traeumer](https://www.spiegel.de/sport/formel1/nachruf-auf-formel1-pilot-jochen-mass-ein-rennfahrer-und-ein-traeumer-a-73db9ada-958b-4cfc-993e-5caf2ec17ffd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-stellt-minister-vor-baerbel-bas-soll-arbeitsministerin-werden-stefanie-hubig-uebernimmt-justiz](https://www.spiegel.de/politik/deutschland/spd-stellt-minister-vor-baerbel-bas-soll-arbeitsministerin-werden-stefanie-hubig-uebernimmt-justiz-a-ab31334d-5fee-4f22-b317-cd28125b7553#ref=rss)
-### norden
-
-* [https://www.spiegel.de/wirtschaft/strompreise-drohen-sueddeutschland-hoehere-kosten-als-dem-norden](https://www.spiegel.de/wirtschaft/strompreise-drohen-sueddeutschland-hoehere-kosten-als-dem-norden-a-dbb9f7c7-0fd6-4610-9687-01fc46297561#ref=rss)
-### tschechien
-
-* [https://www.spiegel.de/panorama/mitten-durchs-t-shirt-deutsche-touristen-von-blitz-getroffen](https://www.spiegel.de/panorama/mitten-durchs-t-shirt-deutsche-touristen-von-blitz-getroffen-a-61c5256d-ffb8-468b-88e6-34bcc724d52a#ref=rss)
-### touristen
-
-* [https://www.spiegel.de/panorama/mitten-durchs-t-shirt-deutsche-touristen-von-blitz-getroffen](https://www.spiegel.de/panorama/mitten-durchs-t-shirt-deutsche-touristen-von-blitz-getroffen-a-61c5256d-ffb8-468b-88e6-34bcc724d52a#ref=rss)
-### wanderung
-
-* [https://www.spiegel.de/panorama/mitten-durchs-t-shirt-deutsche-touristen-von-blitz-getroffen](https://www.spiegel.de/panorama/mitten-durchs-t-shirt-deutsche-touristen-von-blitz-getroffen-a-61c5256d-ffb8-468b-88e6-34bcc724d52a#ref=rss)
-### blitz
-
-* [https://www.spiegel.de/panorama/mitten-durchs-t-shirt-deutsche-touristen-von-blitz-getroffen](https://www.spiegel.de/panorama/mitten-durchs-t-shirt-deutsche-touristen-von-blitz-getroffen-a-61c5256d-ffb8-468b-88e6-34bcc724d52a#ref=rss)
-### unter
-
-* [https://www.spiegel.de/panorama/mitten-durchs-t-shirt-deutsche-touristen-von-blitz-getroffen](https://www.spiegel.de/panorama/mitten-durchs-t-shirt-deutsche-touristen-von-blitz-getroffen-a-61c5256d-ffb8-468b-88e6-34bcc724d52a#ref=rss)
-* [https://www.spiegel.de/sport/formel1/pressestimmen-zur-formel-1-papaya-autos-nicht-unter-druck-gesetzt](https://www.spiegel.de/sport/formel1/pressestimmen-zur-formel-1-papaya-autos-nicht-unter-druck-gesetzt-a-26d1ebe7-12fc-4274-b5df-7e903d9b7939#ref=rss)
-### friedhelm
-
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-friedhelm-funkel-soll-den-1-fc-koeln-zum-aufstieg-fuehren](https://www.spiegel.de/sport/fussball/2-bundesliga-friedhelm-funkel-soll-den-1-fc-koeln-zum-aufstieg-fuehren-a-20e06dbd-8196-43e0-bad7-f225c4938d2f#ref=rss)
-### funkel
-
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-friedhelm-funkel-soll-den-1-fc-koeln-zum-aufstieg-fuehren](https://www.spiegel.de/sport/fussball/2-bundesliga-friedhelm-funkel-soll-den-1-fc-koeln-zum-aufstieg-fuehren-a-20e06dbd-8196-43e0-bad7-f225c4938d2f#ref=rss)
-### köln
-
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-friedhelm-funkel-soll-den-1-fc-koeln-zum-aufstieg-fuehren](https://www.spiegel.de/sport/fussball/2-bundesliga-friedhelm-funkel-soll-den-1-fc-koeln-zum-aufstieg-fuehren-a-20e06dbd-8196-43e0-bad7-f225c4938d2f#ref=rss)
-### liegt
-
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-friedhelm-funkel-soll-den-1-fc-koeln-zum-aufstieg-fuehren](https://www.spiegel.de/sport/fussball/2-bundesliga-friedhelm-funkel-soll-den-1-fc-koeln-zum-aufstieg-fuehren-a-20e06dbd-8196-43e0-bad7-f225c4938d2f#ref=rss)
-* [https://www.spiegel.de/ausland/rumaenien-rechtspopulist-george-simion-als-favorit-in-praesidentschaftswahl](https://www.spiegel.de/ausland/rumaenien-rechtspopulist-george-simion-als-favorit-in-praesidentschaftswahl-a-2d15708f-6e38-4f2e-867a-a189c6f4e685#ref=rss)
-### platz
-
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-friedhelm-funkel-soll-den-1-fc-koeln-zum-aufstieg-fuehren](https://www.spiegel.de/sport/fussball/2-bundesliga-friedhelm-funkel-soll-den-1-fc-koeln-zum-aufstieg-fuehren-a-20e06dbd-8196-43e0-bad7-f225c4938d2f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/vfl-wolfsburg-ralph-hasenhuettl-nach-0-4-gegen-bvb-als-trainer-entlassen](https://www.spiegel.de/sport/fussball/vfl-wolfsburg-ralph-hasenhuettl-nach-0-4-gegen-bvb-als-trainer-entlassen-a-ba216c38-fd6b-4aa8-b8ad-b06d259d2860#ref=rss)
-### tabelle
-
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-friedhelm-funkel-soll-den-1-fc-koeln-zum-aufstieg-fuehren](https://www.spiegel.de/sport/fussball/2-bundesliga-friedhelm-funkel-soll-den-1-fc-koeln-zum-aufstieg-fuehren-a-20e06dbd-8196-43e0-bad7-f225c4938d2f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/vfl-wolfsburg-ralph-hasenhuettl-nach-0-4-gegen-bvb-als-trainer-entlassen](https://www.spiegel.de/sport/fussball/vfl-wolfsburg-ralph-hasenhuettl-nach-0-4-gegen-bvb-als-trainer-entlassen-a-ba216c38-fd6b-4aa8-b8ad-b06d259d2860#ref=rss)
-### eltern
-
-* [https://www.spiegel.de/panorama/bayern-eltern-lassen-baby-auf-bahnsteig-zurueck-zug-faehrt-ohne-sie-ab](https://www.spiegel.de/panorama/bayern-eltern-lassen-baby-auf-bahnsteig-zurueck-zug-faehrt-ohne-sie-ab-a-cdb4238d-c394-4b00-8d63-709737a49eac#ref=rss)
-### baby
-
-* [https://www.spiegel.de/panorama/bayern-eltern-lassen-baby-auf-bahnsteig-zurueck-zug-faehrt-ohne-sie-ab](https://www.spiegel.de/panorama/bayern-eltern-lassen-baby-auf-bahnsteig-zurueck-zug-faehrt-ohne-sie-ab-a-cdb4238d-c394-4b00-8d63-709737a49eac#ref=rss)
-### zug
-
-* [https://www.spiegel.de/panorama/bayern-eltern-lassen-baby-auf-bahnsteig-zurueck-zug-faehrt-ohne-sie-ab](https://www.spiegel.de/panorama/bayern-eltern-lassen-baby-auf-bahnsteig-zurueck-zug-faehrt-ohne-sie-ab-a-cdb4238d-c394-4b00-8d63-709737a49eac#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/panorama/bayern-eltern-lassen-baby-auf-bahnsteig-zurueck-zug-faehrt-ohne-sie-ab](https://www.spiegel.de/panorama/bayern-eltern-lassen-baby-auf-bahnsteig-zurueck-zug-faehrt-ohne-sie-ab-a-cdb4238d-c394-4b00-8d63-709737a49eac#ref=rss)
-### george
-
-* [https://www.spiegel.de/ausland/rumaenien-rechtspopulist-george-simion-als-favorit-in-praesidentschaftswahl](https://www.spiegel.de/ausland/rumaenien-rechtspopulist-george-simion-als-favorit-in-praesidentschaftswahl-a-2d15708f-6e38-4f2e-867a-a189c6f4e685#ref=rss)
-### simion
-
-* [https://www.spiegel.de/ausland/rumaenien-rechtspopulist-george-simion-als-favorit-in-praesidentschaftswahl](https://www.spiegel.de/ausland/rumaenien-rechtspopulist-george-simion-als-favorit-in-praesidentschaftswahl-a-2d15708f-6e38-4f2e-867a-a189c6f4e685#ref=rss)
-### ukrainische
-
-* [https://www.spiegel.de/ausland/rumaenien-rechtspopulist-george-simion-als-favorit-in-praesidentschaftswahl](https://www.spiegel.de/ausland/rumaenien-rechtspopulist-george-simion-als-favorit-in-praesidentschaftswahl-a-2d15708f-6e38-4f2e-867a-a189c6f4e685#ref=rss)
-* [https://www.spiegel.de/wirtschaft/brief-an-friedrich-merz-umweltverbaende-fordern-verzicht-auf-fluessigerdgas-aus-russland](https://www.spiegel.de/wirtschaft/brief-an-friedrich-merz-umweltverbaende-fordern-verzicht-auf-fluessigerdgas-aus-russland-a-92f8d36a-fc1d-4149-8dad-b681bf725b47#ref=rss)
-### rust
-
-* [https://www.spiegel.de/kultur/kino/kinofilm-rust-mit-alec-baldwin](https://www.spiegel.de/kultur/kino/kinofilm-rust-mit-alec-baldwin-a-860c731b-41c6-40c0-8d86-2c438fa88f03#ref=rss)
-### alec
-
-* [https://www.spiegel.de/kultur/kino/kinofilm-rust-mit-alec-baldwin](https://www.spiegel.de/kultur/kino/kinofilm-rust-mit-alec-baldwin-a-860c731b-41c6-40c0-8d86-2c438fa88f03#ref=rss)
-### baldwin
-
-* [https://www.spiegel.de/kultur/kino/kinofilm-rust-mit-alec-baldwin](https://www.spiegel.de/kultur/kino/kinofilm-rust-mit-alec-baldwin-a-860c731b-41c6-40c0-8d86-2c438fa88f03#ref=rss)
-### dreharbeiten
-
-* [https://www.spiegel.de/kultur/kino/kinofilm-rust-mit-alec-baldwin](https://www.spiegel.de/kultur/kino/kinofilm-rust-mit-alec-baldwin-a-860c731b-41c6-40c0-8d86-2c438fa88f03#ref=rss)
-* [https://www.spiegel.de/kultur/kino/stranger-things-star-ueber-seine-rollenangebote-wir-brauchen-einen-dicken-kerl-holt-einfach-david-harbour](https://www.spiegel.de/kultur/kino/stranger-things-star-ueber-seine-rollenangebote-wir-brauchen-einen-dicken-kerl-holt-einfach-david-harbour-a-e20ab6dd-e83f-4661-9410-fda5f880d970#ref=rss)
-### film
-
-* [https://www.spiegel.de/kultur/kino/kinofilm-rust-mit-alec-baldwin](https://www.spiegel.de/kultur/kino/kinofilm-rust-mit-alec-baldwin-a-860c731b-41c6-40c0-8d86-2c438fa88f03#ref=rss)
-* [https://www.spiegel.de/kultur/kino/stranger-things-star-ueber-seine-rollenangebote-wir-brauchen-einen-dicken-kerl-holt-einfach-david-harbour](https://www.spiegel.de/kultur/kino/stranger-things-star-ueber-seine-rollenangebote-wir-brauchen-einen-dicken-kerl-holt-einfach-david-harbour-a-e20ab6dd-e83f-4661-9410-fda5f880d970#ref=rss)
-### wir
-
-* [https://www.spiegel.de/kultur/kino/stranger-things-star-ueber-seine-rollenangebote-wir-brauchen-einen-dicken-kerl-holt-einfach-david-harbour](https://www.spiegel.de/kultur/kino/stranger-things-star-ueber-seine-rollenangebote-wir-brauchen-einen-dicken-kerl-holt-einfach-david-harbour-a-e20ab6dd-e83f-4661-9410-fda5f880d970#ref=rss)
-* [https://www.spiegel.de/psychologie/freundschaften-wie-wir-es-schaffen-auf-distanz-in-kontakt-zu-bleiben](https://www.spiegel.de/psychologie/freundschaften-wie-wir-es-schaffen-auf-distanz-in-kontakt-zu-bleiben-a-dde9be62-0bae-4e41-a321-e6be14089bc0#ref=rss)
-### david
-
-* [https://www.spiegel.de/kultur/kino/stranger-things-star-ueber-seine-rollenangebote-wir-brauchen-einen-dicken-kerl-holt-einfach-david-harbour](https://www.spiegel.de/kultur/kino/stranger-things-star-ueber-seine-rollenangebote-wir-brauchen-einen-dicken-kerl-holt-einfach-david-harbour-a-e20ab6dd-e83f-4661-9410-fda5f880d970#ref=rss)
-### harbour
-
-* [https://www.spiegel.de/kultur/kino/stranger-things-star-ueber-seine-rollenangebote-wir-brauchen-einen-dicken-kerl-holt-einfach-david-harbour](https://www.spiegel.de/kultur/kino/stranger-things-star-ueber-seine-rollenangebote-wir-brauchen-einen-dicken-kerl-holt-einfach-david-harbour-a-e20ab6dd-e83f-4661-9410-fda5f880d970#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/netzwelt/web/mrdeepfakes-bekanntestes-portal-fuer-ki-generierte-sexvideos-schliesst-angeblich](https://www.spiegel.de/netzwelt/web/mrdeepfakes-bekanntestes-portal-fuer-ki-generierte-sexvideos-schliesst-angeblich-a-247aac52-2a27-4e4e-9869-1b32446fbdc9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-baerbel-bas-und-co-wer-sind-die-minister-fuer-das-kabinett-von-merz](https://www.spiegel.de/politik/deutschland/spd-baerbel-bas-und-co-wer-sind-die-minister-fuer-das-kabinett-von-merz-a-15a28501-7eaf-499b-8450-c553e8102314#ref=rss)
-### zhao
-
-* [https://www.spiegel.de/sport/snooker-wm-in-sheffield-zhao-xintong-steht-kurz-vor-dem-titel-china-ist-die-neue-grossmacht](https://www.spiegel.de/sport/snooker-wm-in-sheffield-zhao-xintong-steht-kurz-vor-dem-titel-china-ist-die-neue-grossmacht-a-d58166d7-e809-4e53-8ce8-c33910445d78#ref=rss)
-### xintong
-
-* [https://www.spiegel.de/sport/snooker-wm-in-sheffield-zhao-xintong-steht-kurz-vor-dem-titel-china-ist-die-neue-grossmacht](https://www.spiegel.de/sport/snooker-wm-in-sheffield-zhao-xintong-steht-kurz-vor-dem-titel-china-ist-die-neue-grossmacht-a-d58166d7-e809-4e53-8ce8-c33910445d78#ref=rss)
-### kurz
-
-* [https://www.spiegel.de/sport/snooker-wm-in-sheffield-zhao-xintong-steht-kurz-vor-dem-titel-china-ist-die-neue-grossmacht](https://www.spiegel.de/sport/snooker-wm-in-sheffield-zhao-xintong-steht-kurz-vor-dem-titel-china-ist-die-neue-grossmacht-a-d58166d7-e809-4e53-8ce8-c33910445d78#ref=rss)
-### neue
-
-* [https://www.spiegel.de/sport/snooker-wm-in-sheffield-zhao-xintong-steht-kurz-vor-dem-titel-china-ist-die-neue-grossmacht](https://www.spiegel.de/sport/snooker-wm-in-sheffield-zhao-xintong-steht-kurz-vor-dem-titel-china-ist-die-neue-grossmacht-a-d58166d7-e809-4e53-8ce8-c33910445d78#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-stellt-minister-vor-baerbel-bas-soll-arbeitsministerin-werden-stefanie-hubig-uebernimmt-justiz](https://www.spiegel.de/politik/deutschland/spd-stellt-minister-vor-baerbel-bas-soll-arbeitsministerin-werden-stefanie-hubig-uebernimmt-justiz-a-ab31334d-5fee-4f22-b317-cd28125b7553#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/sport/snooker-wm-in-sheffield-zhao-xintong-steht-kurz-vor-dem-titel-china-ist-die-neue-grossmacht](https://www.spiegel.de/sport/snooker-wm-in-sheffield-zhao-xintong-steht-kurz-vor-dem-titel-china-ist-die-neue-grossmacht-a-d58166d7-e809-4e53-8ce8-c33910445d78#ref=rss)
-* [https://www.spiegel.de/psychologie/freundschaften-wie-wir-es-schaffen-auf-distanz-in-kontakt-zu-bleiben](https://www.spiegel.de/psychologie/freundschaften-wie-wir-es-schaffen-auf-distanz-in-kontakt-zu-bleiben-a-dde9be62-0bae-4e41-a321-e6be14089bc0#ref=rss)
-### afd
-
-* [https://www.spiegel.de/politik/deutschland/afd-reicht-klage-gegen-verfassungsschutz-ein](https://www.spiegel.de/politik/deutschland/afd-reicht-klage-gegen-verfassungsschutz-ein-a-c2a66a21-0f88-4562-afe8-def2f3340e61#ref=rss)
-### verfassungsschutz
-
-* [https://www.spiegel.de/politik/deutschland/afd-reicht-klage-gegen-verfassungsschutz-ein](https://www.spiegel.de/politik/deutschland/afd-reicht-klage-gegen-verfassungsschutz-ein-a-c2a66a21-0f88-4562-afe8-def2f3340e61#ref=rss)
-### audi
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/audi-weniger-gewinn-im-neuen-jahr-e-auto-produktion-in-den-usa-erwogen](https://www.spiegel.de/wirtschaft/unternehmen/audi-weniger-gewinn-im-neuen-jahr-e-auto-produktion-in-den-usa-erwogen-a-3fdceccc-b2d5-4b90-896a-8efafe7e3d24#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/audi-weniger-gewinn-im-neuen-jahr-e-auto-produktion-in-den-usa-erwogen](https://www.spiegel.de/wirtschaft/unternehmen/audi-weniger-gewinn-im-neuen-jahr-e-auto-produktion-in-den-usa-erwogen-a-3fdceccc-b2d5-4b90-896a-8efafe7e3d24#ref=rss)
-### gestartet
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/audi-weniger-gewinn-im-neuen-jahr-e-auto-produktion-in-den-usa-erwogen](https://www.spiegel.de/wirtschaft/unternehmen/audi-weniger-gewinn-im-neuen-jahr-e-auto-produktion-in-den-usa-erwogen-a-3fdceccc-b2d5-4b90-896a-8efafe7e3d24#ref=rss)
-* [https://www.spiegel.de/sport/formel1/pressestimmen-zur-formel-1-papaya-autos-nicht-unter-druck-gesetzt](https://www.spiegel.de/sport/formel1/pressestimmen-zur-formel-1-papaya-autos-nicht-unter-druck-gesetzt-a-26d1ebe7-12fc-4274-b5df-7e903d9b7939#ref=rss)
-### schaffen
-
-* [https://www.spiegel.de/psychologie/freundschaften-wie-wir-es-schaffen-auf-distanz-in-kontakt-zu-bleiben](https://www.spiegel.de/psychologie/freundschaften-wie-wir-es-schaffen-auf-distanz-in-kontakt-zu-bleiben-a-dde9be62-0bae-4e41-a321-e6be14089bc0#ref=rss)
-* [https://www.spiegel.de/kultur/judy-chicago-wird-endlich-entdeckt-die-feuerwerks-feministin](https://www.spiegel.de/kultur/judy-chicago-wird-endlich-entdeckt-die-feuerwerks-feministin-a-09e94add-0a09-45e9-9846-c123fd3ed54d#ref=rss)
-### kontakt
-
-* [https://www.spiegel.de/psychologie/freundschaften-wie-wir-es-schaffen-auf-distanz-in-kontakt-zu-bleiben](https://www.spiegel.de/psychologie/freundschaften-wie-wir-es-schaffen-auf-distanz-in-kontakt-zu-bleiben-a-dde9be62-0bae-4e41-a321-e6be14089bc0#ref=rss)
-### judy
-
-* [https://www.spiegel.de/kultur/judy-chicago-wird-endlich-entdeckt-die-feuerwerks-feministin](https://www.spiegel.de/kultur/judy-chicago-wird-endlich-entdeckt-die-feuerwerks-feministin-a-09e94add-0a09-45e9-9846-c123fd3ed54d#ref=rss)
-### chicago
-
-* [https://www.spiegel.de/kultur/judy-chicago-wird-endlich-entdeckt-die-feuerwerks-feministin](https://www.spiegel.de/kultur/judy-chicago-wird-endlich-entdeckt-die-feuerwerks-feministin-a-09e94add-0a09-45e9-9846-c123fd3ed54d#ref=rss)
-### endlich
-
-* [https://www.spiegel.de/kultur/judy-chicago-wird-endlich-entdeckt-die-feuerwerks-feministin](https://www.spiegel.de/kultur/judy-chicago-wird-endlich-entdeckt-die-feuerwerks-feministin-a-09e94add-0a09-45e9-9846-c123fd3ed54d#ref=rss)
-### münchen
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-nach-der-meisterschaft-sie-ziehen-schon-vergleiche-zur-pep-guardiola-zeit](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-nach-der-meisterschaft-sie-ziehen-schon-vergleiche-zur-pep-guardiola-zeit-a-c18f17ef-fe31-4125-a856-fc3f2334733f#ref=rss)
-### ziehen
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-nach-der-meisterschaft-sie-ziehen-schon-vergleiche-zur-pep-guardiola-zeit](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-nach-der-meisterschaft-sie-ziehen-schon-vergleiche-zur-pep-guardiola-zeit-a-c18f17ef-fe31-4125-a856-fc3f2334733f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-baerbel-bas-und-co-wer-sind-die-minister-fuer-das-kabinett-von-merz](https://www.spiegel.de/politik/deutschland/spd-baerbel-bas-und-co-wer-sind-die-minister-fuer-das-kabinett-von-merz-a-15a28501-7eaf-499b-8450-c553e8102314#ref=rss)
-### saison
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-nach-der-meisterschaft-sie-ziehen-schon-vergleiche-zur-pep-guardiola-zeit](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-nach-der-meisterschaft-sie-ziehen-schon-vergleiche-zur-pep-guardiola-zeit-a-c18f17ef-fe31-4125-a856-fc3f2334733f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/vfl-wolfsburg-ralph-hasenhuettl-nach-0-4-gegen-bvb-als-trainer-entlassen](https://www.spiegel.de/sport/fussball/vfl-wolfsburg-ralph-hasenhuettl-nach-0-4-gegen-bvb-als-trainer-entlassen-a-ba216c38-fd6b-4aa8-b8ad-b06d259d2860#ref=rss)
-### saskia
-
-* [https://www.spiegel.de/politik/deutschland/spd-baerbel-bas-und-co-wer-sind-die-minister-fuer-das-kabinett-von-merz](https://www.spiegel.de/politik/deutschland/spd-baerbel-bas-und-co-wer-sind-die-minister-fuer-das-kabinett-von-merz-a-15a28501-7eaf-499b-8450-c553e8102314#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-stellt-minister-vor-baerbel-bas-soll-arbeitsministerin-werden-stefanie-hubig-uebernimmt-justiz](https://www.spiegel.de/politik/deutschland/spd-stellt-minister-vor-baerbel-bas-soll-arbeitsministerin-werden-stefanie-hubig-uebernimmt-justiz-a-ab31334d-5fee-4f22-b317-cd28125b7553#ref=rss)
-### esken
-
-* [https://www.spiegel.de/politik/deutschland/spd-baerbel-bas-und-co-wer-sind-die-minister-fuer-das-kabinett-von-merz](https://www.spiegel.de/politik/deutschland/spd-baerbel-bas-und-co-wer-sind-die-minister-fuer-das-kabinett-von-merz-a-15a28501-7eaf-499b-8450-c553e8102314#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-stellt-minister-vor-baerbel-bas-soll-arbeitsministerin-werden-stefanie-hubig-uebernimmt-justiz](https://www.spiegel.de/politik/deutschland/spd-stellt-minister-vor-baerbel-bas-soll-arbeitsministerin-werden-stefanie-hubig-uebernimmt-justiz-a-ab31334d-5fee-4f22-b317-cd28125b7553#ref=rss)
-### leer
-
-* [https://www.spiegel.de/politik/deutschland/spd-baerbel-bas-und-co-wer-sind-die-minister-fuer-das-kabinett-von-merz](https://www.spiegel.de/politik/deutschland/spd-baerbel-bas-und-co-wer-sind-die-minister-fuer-das-kabinett-von-merz-a-15a28501-7eaf-499b-8450-c553e8102314#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-stellt-minister-vor-baerbel-bas-soll-arbeitsministerin-werden-stefanie-hubig-uebernimmt-justiz](https://www.spiegel.de/politik/deutschland/spd-stellt-minister-vor-baerbel-bas-soll-arbeitsministerin-werden-stefanie-hubig-uebernimmt-justiz-a-ab31334d-5fee-4f22-b317-cd28125b7553#ref=rss)
-### arbeitsministerin
-
-* [https://www.spiegel.de/politik/deutschland/spd-stellt-minister-vor-baerbel-bas-soll-arbeitsministerin-werden-stefanie-hubig-uebernimmt-justiz](https://www.spiegel.de/politik/deutschland/spd-stellt-minister-vor-baerbel-bas-soll-arbeitsministerin-werden-stefanie-hubig-uebernimmt-justiz-a-ab31334d-5fee-4f22-b317-cd28125b7553#ref=rss)
-### übernimmt
-
-* [https://www.spiegel.de/politik/deutschland/spd-stellt-minister-vor-baerbel-bas-soll-arbeitsministerin-werden-stefanie-hubig-uebernimmt-justiz](https://www.spiegel.de/politik/deutschland/spd-stellt-minister-vor-baerbel-bas-soll-arbeitsministerin-werden-stefanie-hubig-uebernimmt-justiz-a-ab31334d-5fee-4f22-b317-cd28125b7553#ref=rss)
-### druck
-
-* [https://www.spiegel.de/sport/formel1/pressestimmen-zur-formel-1-papaya-autos-nicht-unter-druck-gesetzt](https://www.spiegel.de/sport/formel1/pressestimmen-zur-formel-1-papaya-autos-nicht-unter-druck-gesetzt-a-26d1ebe7-12fc-4274-b5df-7e903d9b7939#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-israel-beschliesst-ausweitung-der-angriffe-zehntausende-reservisten-eingezogen](https://www.spiegel.de/ausland/gaza-israel-beschliesst-ausweitung-der-angriffe-zehntausende-reservisten-eingezogen-a-f4f34adf-124e-4c68-9cfe-1af052f342b1#ref=rss)
-### vodafone
-
-* [https://www.spiegel.de/netzwelt/vodafone-schuetzt-kunden-mit-automatischer-spam-warnung-vor-abzock-anrufen](https://www.spiegel.de/netzwelt/vodafone-schuetzt-kunden-mit-automatischer-spam-warnung-vor-abzock-anrufen-a-d1bbb5c2-9208-4519-9d4f-c6c7f04fb86b#ref=rss)
-### kunden
-
-* [https://www.spiegel.de/netzwelt/vodafone-schuetzt-kunden-mit-automatischer-spam-warnung-vor-abzock-anrufen](https://www.spiegel.de/netzwelt/vodafone-schuetzt-kunden-mit-automatischer-spam-warnung-vor-abzock-anrufen-a-d1bbb5c2-9208-4519-9d4f-c6c7f04fb86b#ref=rss)
-### spamwarnung
-
-* [https://www.spiegel.de/netzwelt/vodafone-schuetzt-kunden-mit-automatischer-spam-warnung-vor-abzock-anrufen](https://www.spiegel.de/netzwelt/vodafone-schuetzt-kunden-mit-automatischer-spam-warnung-vor-abzock-anrufen-a-d1bbb5c2-9208-4519-9d4f-c6c7f04fb86b#ref=rss)
-### moskau
-
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-meldet-drohnenangriff-vor-feier-zum-weltkriegsgedenken](https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-meldet-drohnenangriff-vor-feier-zum-weltkriegsgedenken-a-66738b40-0123-4579-a86f-6cf62ab6456c#ref=rss)
 ### friedrich
 
-* [https://www.spiegel.de/wirtschaft/brief-an-friedrich-merz-umweltverbaende-fordern-verzicht-auf-fluessigerdgas-aus-russland](https://www.spiegel.de/wirtschaft/brief-an-friedrich-merz-umweltverbaende-fordern-verzicht-auf-fluessigerdgas-aus-russland-a-92f8d36a-fc1d-4149-8dad-b681bf725b47#ref=rss)
-### fordern
+* [https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news](https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news-a-48ac64f5-f403-4ca5-8a31-3674acfe1af1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-ploetzlich-haelt-der-kuenftige-vize-kanzler-eine-art-regierungserklaerung](https://www.spiegel.de/politik/deutschland/lars-klingbeil-ploetzlich-haelt-der-kuenftige-vize-kanzler-eine-art-regierungserklaerung-a-e06ad174-5d6b-4efd-a478-52c186638d27#ref=rss)
+### erst
 
-* [https://www.spiegel.de/wirtschaft/brief-an-friedrich-merz-umweltverbaende-fordern-verzicht-auf-fluessigerdgas-aus-russland](https://www.spiegel.de/wirtschaft/brief-an-friedrich-merz-umweltverbaende-fordern-verzicht-auf-fluessigerdgas-aus-russland-a-92f8d36a-fc1d-4149-8dad-b681bf725b47#ref=rss)
-### flüssigerdgas
+* [https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news](https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news-a-48ac64f5-f403-4ca5-8a31-3674acfe1af1#ref=rss)
+* [https://www.spiegel.de/sport/fussball/friedhelm-funkel-neuer-trainer-beim-1-fc-koeln-erst-der-feuerwehrmann-dann-der-feueralarm](https://www.spiegel.de/sport/fussball/friedhelm-funkel-neuer-trainer-beim-1-fc-koeln-erst-der-feuerwehrmann-dann-der-feueralarm-a-fb46d023-0009-42a6-8275-5f2d9eeb6ef9#ref=rss)
+### neuer
 
-* [https://www.spiegel.de/wirtschaft/brief-an-friedrich-merz-umweltverbaende-fordern-verzicht-auf-fluessigerdgas-aus-russland](https://www.spiegel.de/wirtschaft/brief-an-friedrich-merz-umweltverbaende-fordern-verzicht-auf-fluessigerdgas-aus-russland-a-92f8d36a-fc1d-4149-8dad-b681bf725b47#ref=rss)
-### russland
+* [https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news](https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news-a-48ac64f5-f403-4ca5-8a31-3674acfe1af1#ref=rss)
+* [https://www.spiegel.de/sport/fussball/friedhelm-funkel-neuer-trainer-beim-1-fc-koeln-erst-der-feuerwehrmann-dann-der-feueralarm](https://www.spiegel.de/sport/fussball/friedhelm-funkel-neuer-trainer-beim-1-fc-koeln-erst-der-feuerwehrmann-dann-der-feueralarm-a-fb46d023-0009-42a6-8275-5f2d9eeb6ef9#ref=rss)
+### sean
 
-* [https://www.spiegel.de/wirtschaft/brief-an-friedrich-merz-umweltverbaende-fordern-verzicht-auf-fluessigerdgas-aus-russland](https://www.spiegel.de/wirtschaft/brief-an-friedrich-merz-umweltverbaende-fordern-verzicht-auf-fluessigerdgas-aus-russland-a-92f8d36a-fc1d-4149-8dad-b681bf725b47#ref=rss)
-### ralph
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-spd-ministerposten-rumaenen-sean-diddy-combs](https://www.spiegel.de/politik/deutschland/news-des-tages-spd-ministerposten-rumaenen-sean-diddy-combs-a-8ed3c2c6-22ec-474e-b2be-f356fb43a4e7#ref=rss)
+### diddy
 
-* [https://www.spiegel.de/sport/fussball/vfl-wolfsburg-ralph-hasenhuettl-nach-0-4-gegen-bvb-als-trainer-entlassen](https://www.spiegel.de/sport/fussball/vfl-wolfsburg-ralph-hasenhuettl-nach-0-4-gegen-bvb-als-trainer-entlassen-a-ba216c38-fd6b-4aa8-b8ad-b06d259d2860#ref=rss)
-### hasenhüttl
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-spd-ministerposten-rumaenen-sean-diddy-combs](https://www.spiegel.de/politik/deutschland/news-des-tages-spd-ministerposten-rumaenen-sean-diddy-combs-a-8ed3c2c6-22ec-474e-b2be-f356fb43a4e7#ref=rss)
+### combs
 
-* [https://www.spiegel.de/sport/fussball/vfl-wolfsburg-ralph-hasenhuettl-nach-0-4-gegen-bvb-als-trainer-entlassen](https://www.spiegel.de/sport/fussball/vfl-wolfsburg-ralph-hasenhuettl-nach-0-4-gegen-bvb-als-trainer-entlassen-a-ba216c38-fd6b-4aa8-b8ad-b06d259d2860#ref=rss)
-### bvb
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-spd-ministerposten-rumaenen-sean-diddy-combs](https://www.spiegel.de/politik/deutschland/news-des-tages-spd-ministerposten-rumaenen-sean-diddy-combs-a-8ed3c2c6-22ec-474e-b2be-f356fb43a4e7#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/sport/fussball/vfl-wolfsburg-ralph-hasenhuettl-nach-0-4-gegen-bvb-als-trainer-entlassen](https://www.spiegel.de/sport/fussball/vfl-wolfsburg-ralph-hasenhuettl-nach-0-4-gegen-bvb-als-trainer-entlassen-a-ba216c38-fd6b-4aa8-b8ad-b06d259d2860#ref=rss)
-### israel
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-spd-ministerposten-rumaenen-sean-diddy-combs](https://www.spiegel.de/politik/deutschland/news-des-tages-spd-ministerposten-rumaenen-sean-diddy-combs-a-8ed3c2c6-22ec-474e-b2be-f356fb43a4e7#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/paypal-so-will-der-bezahldienst-die-supermarkt-kasse-erobern](https://www.spiegel.de/netzwelt/apps/paypal-so-will-der-bezahldienst-die-supermarkt-kasse-erobern-a-0f45b64d-2bd6-4f82-9496-deb601a721a3#ref=rss)
+### komplett
 
-* [https://www.spiegel.de/ausland/gaza-israel-beschliesst-ausweitung-der-angriffe-zehntausende-reservisten-eingezogen](https://www.spiegel.de/ausland/gaza-israel-beschliesst-ausweitung-der-angriffe-zehntausende-reservisten-eingezogen-a-f4f34adf-124e-4c68-9cfe-1af052f342b1#ref=rss)
-### zehntausende
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-spd-ministerposten-rumaenen-sean-diddy-combs](https://www.spiegel.de/politik/deutschland/news-des-tages-spd-ministerposten-rumaenen-sean-diddy-combs-a-8ed3c2c6-22ec-474e-b2be-f356fb43a4e7#ref=rss)
+### matthias
 
-* [https://www.spiegel.de/ausland/gaza-israel-beschliesst-ausweitung-der-angriffe-zehntausende-reservisten-eingezogen](https://www.spiegel.de/ausland/gaza-israel-beschliesst-ausweitung-der-angriffe-zehntausende-reservisten-eingezogen-a-f4f34adf-124e-4c68-9cfe-1af052f342b1#ref=rss)
-### reservisten
+* [https://www.spiegel.de/politik/deutschland/matthias-miersch-soll-spd-fraktionschef-werden](https://www.spiegel.de/politik/deutschland/matthias-miersch-soll-spd-fraktionschef-werden-a-31d44c1e-fbaa-4615-8197-c2d6ba455150#ref=rss)
+### miersch
 
-* [https://www.spiegel.de/ausland/gaza-israel-beschliesst-ausweitung-der-angriffe-zehntausende-reservisten-eingezogen](https://www.spiegel.de/ausland/gaza-israel-beschliesst-ausweitung-der-angriffe-zehntausende-reservisten-eingezogen-a-f4f34adf-124e-4c68-9cfe-1af052f342b1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/matthias-miersch-soll-spd-fraktionschef-werden](https://www.spiegel.de/politik/deutschland/matthias-miersch-soll-spd-fraktionschef-werden-a-31d44c1e-fbaa-4615-8197-c2d6ba455150#ref=rss)
+### vizekanzler
+
+* [https://www.spiegel.de/politik/deutschland/matthias-miersch-soll-spd-fraktionschef-werden](https://www.spiegel.de/politik/deutschland/matthias-miersch-soll-spd-fraktionschef-werden-a-31d44c1e-fbaa-4615-8197-c2d6ba455150#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-ploetzlich-haelt-der-kuenftige-vize-kanzler-eine-art-regierungserklaerung](https://www.spiegel.de/politik/deutschland/lars-klingbeil-ploetzlich-haelt-der-kuenftige-vize-kanzler-eine-art-regierungserklaerung-a-e06ad174-5d6b-4efd-a478-52c186638d27#ref=rss)
+### deshalb
+
+* [https://www.spiegel.de/politik/deutschland/matthias-miersch-soll-spd-fraktionschef-werden](https://www.spiegel.de/politik/deutschland/matthias-miersch-soll-spd-fraktionschef-werden-a-31d44c1e-fbaa-4615-8197-c2d6ba455150#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/us-zoelle-wie-shein-temu-und-amazon-durch-donald-trump-unter-druck-geraten](https://www.spiegel.de/wirtschaft/unternehmen/us-zoelle-wie-shein-temu-und-amazon-durch-donald-trump-unter-druck-geraten-a-e259cb39-2b1a-4304-9544-50d54c051cb4#ref=rss)
+### geschäftsführer
+
+* [https://www.spiegel.de/politik/deutschland/matthias-miersch-soll-spd-fraktionschef-werden](https://www.spiegel.de/politik/deutschland/matthias-miersch-soll-spd-fraktionschef-werden-a-31d44c1e-fbaa-4615-8197-c2d6ba455150#ref=rss)
+* [https://www.spiegel.de/sport/fussball/1-fc-koeln-so-kam-es-zur-freistellung-von-christian-keller-und-gerhard-struber](https://www.spiegel.de/sport/fussball/1-fc-koeln-so-kam-es-zur-freistellung-von-christian-keller-und-gerhard-struber-a-d050e50d-755e-4017-9975-de291d6244d9#ref=rss)
+### miami
+
+* [https://www.spiegel.de/sport/formel1/grosser-preis-von-miami-ist-oscar-piastri-schon-der-kommende-champion-der-formel-1](https://www.spiegel.de/sport/formel1/grosser-preis-von-miami-ist-oscar-piastri-schon-der-kommende-champion-der-formel-1-a-6346df92-97ef-4fd7-bc6e-0078907599d6#ref=rss)
+### oscar
+
+* [https://www.spiegel.de/sport/formel1/grosser-preis-von-miami-ist-oscar-piastri-schon-der-kommende-champion-der-formel-1](https://www.spiegel.de/sport/formel1/grosser-preis-von-miami-ist-oscar-piastri-schon-der-kommende-champion-der-formel-1-a-6346df92-97ef-4fd7-bc6e-0078907599d6#ref=rss)
+### piastri
+
+* [https://www.spiegel.de/sport/formel1/grosser-preis-von-miami-ist-oscar-piastri-schon-der-kommende-champion-der-formel-1](https://www.spiegel.de/sport/formel1/grosser-preis-von-miami-ist-oscar-piastri-schon-der-kommende-champion-der-formel-1-a-6346df92-97ef-4fd7-bc6e-0078907599d6#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/sport/formel1/grosser-preis-von-miami-ist-oscar-piastri-schon-der-kommende-champion-der-formel-1](https://www.spiegel.de/sport/formel1/grosser-preis-von-miami-ist-oscar-piastri-schon-der-kommende-champion-der-formel-1-a-6346df92-97ef-4fd7-bc6e-0078907599d6#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-im-landkreis-lindau-jugendtrainer-greift-schiedsrichter-an-und-verletzt-ihn-leicht](https://www.spiegel.de/sport/fussball/fussball-im-landkreis-lindau-jugendtrainer-greift-schiedsrichter-an-und-verletzt-ihn-leicht-a-07f10ec9-2783-4e16-9a52-ab5e69c51fbc#ref=rss)
+### alte
+
+* [https://www.spiegel.de/sport/formel1/grosser-preis-von-miami-ist-oscar-piastri-schon-der-kommende-champion-der-formel-1](https://www.spiegel.de/sport/formel1/grosser-preis-von-miami-ist-oscar-piastri-schon-der-kommende-champion-der-formel-1-a-6346df92-97ef-4fd7-bc6e-0078907599d6#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-seedrohnen-schiessen-russische-jets-ab](https://www.spiegel.de/ausland/ukraine-seedrohnen-schiessen-russische-jets-ab-a-c0634094-0684-4c0c-bebf-521ce61516ec#ref=rss)
+### seedrohnen
+
+* [https://www.spiegel.de/ausland/ukraine-seedrohnen-schiessen-russische-jets-ab](https://www.spiegel.de/ausland/ukraine-seedrohnen-schiessen-russische-jets-ab-a-c0634094-0684-4c0c-bebf-521ce61516ec#ref=rss)
+### russische
+
+* [https://www.spiegel.de/ausland/ukraine-seedrohnen-schiessen-russische-jets-ab](https://www.spiegel.de/ausland/ukraine-seedrohnen-schiessen-russische-jets-ab-a-c0634094-0684-4c0c-bebf-521ce61516ec#ref=rss)
+### bremen
+
+* [https://www.spiegel.de/wissenschaft/bremen-universitaet-und-alfred-wegener-institut-sichern-us-forschungsdaten](https://www.spiegel.de/wissenschaft/bremen-universitaet-und-alfred-wegener-institut-sichern-us-forschungsdaten-a-b2d70bd6-d3ef-4529-a4d8-f1899cb782b0#ref=rss)
+### universität
+
+* [https://www.spiegel.de/wissenschaft/bremen-universitaet-und-alfred-wegener-institut-sichern-us-forschungsdaten](https://www.spiegel.de/wissenschaft/bremen-universitaet-und-alfred-wegener-institut-sichern-us-forschungsdaten-a-b2d70bd6-d3ef-4529-a4d8-f1899cb782b0#ref=rss)
+### alfredwegenerinstitut
+
+* [https://www.spiegel.de/wissenschaft/bremen-universitaet-und-alfred-wegener-institut-sichern-us-forschungsdaten](https://www.spiegel.de/wissenschaft/bremen-universitaet-und-alfred-wegener-institut-sichern-us-forschungsdaten-a-b2d70bd6-d3ef-4529-a4d8-f1899cb782b0#ref=rss)
+### olaf
+
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-rueckblick-auf-eine-turbulente-amtszeit-mit-unerwartetem-abschluss](https://www.spiegel.de/politik/deutschland/olaf-scholz-rueckblick-auf-eine-turbulente-amtszeit-mit-unerwartetem-abschluss-a-1240d509-3ab5-4db1-ac55-a9ab206da7c9#ref=rss)
+### rückblick
+
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-rueckblick-auf-eine-turbulente-amtszeit-mit-unerwartetem-abschluss](https://www.spiegel.de/politik/deutschland/olaf-scholz-rueckblick-auf-eine-turbulente-amtszeit-mit-unerwartetem-abschluss-a-1240d509-3ab5-4db1-ac55-a9ab206da7c9#ref=rss)
+### turbulente
+
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-rueckblick-auf-eine-turbulente-amtszeit-mit-unerwartetem-abschluss](https://www.spiegel.de/politik/deutschland/olaf-scholz-rueckblick-auf-eine-turbulente-amtszeit-mit-unerwartetem-abschluss-a-1240d509-3ab5-4db1-ac55-a9ab206da7c9#ref=rss)
+### amtszeit
+
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-rueckblick-auf-eine-turbulente-amtszeit-mit-unerwartetem-abschluss](https://www.spiegel.de/politik/deutschland/olaf-scholz-rueckblick-auf-eine-turbulente-amtszeit-mit-unerwartetem-abschluss-a-1240d509-3ab5-4db1-ac55-a9ab206da7c9#ref=rss)
+### paypal
+
+* [https://www.spiegel.de/netzwelt/apps/paypal-so-will-der-bezahldienst-die-supermarkt-kasse-erobern](https://www.spiegel.de/netzwelt/apps/paypal-so-will-der-bezahldienst-die-supermarkt-kasse-erobern-a-0f45b64d-2bd6-4f82-9496-deb601a721a3#ref=rss)
+### pay
+
+* [https://www.spiegel.de/netzwelt/apps/paypal-so-will-der-bezahldienst-die-supermarkt-kasse-erobern](https://www.spiegel.de/netzwelt/apps/paypal-so-will-der-bezahldienst-die-supermarkt-kasse-erobern-a-0f45b64d-2bd6-4f82-9496-deb601a721a3#ref=rss)
+### forschende
+
+* [https://www.spiegel.de/wissenschaft/natur/unterwasservulkan-im-pazifik-forschende-beobachten-vulkanausbruch-in-der-tiefsee](https://www.spiegel.de/wissenschaft/natur/unterwasservulkan-im-pazifik-forschende-beobachten-vulkanausbruch-in-der-tiefsee-a-f506dbbb-df3f-4552-8779-4201e0fda7bd#ref=rss)
+### donald
+
+* [https://www.spiegel.de/kultur/kino/donald-trumps-zoll-androhung-fuer-hollywood-panik-in-der-traumfabrik](https://www.spiegel.de/kultur/kino/donald-trumps-zoll-androhung-fuer-hollywood-panik-in-der-traumfabrik-a-ce1b71bc-2ac3-4346-bb7b-5c4f29dd5261#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/us-zoelle-wie-shein-temu-und-amazon-durch-donald-trump-unter-druck-geraten](https://www.spiegel.de/wirtschaft/unternehmen/us-zoelle-wie-shein-temu-und-amazon-durch-donald-trump-unter-druck-geraten-a-e259cb39-2b1a-4304-9544-50d54c051cb4#ref=rss)
+### hollywood
+
+* [https://www.spiegel.de/kultur/kino/donald-trumps-zoll-androhung-fuer-hollywood-panik-in-der-traumfabrik](https://www.spiegel.de/kultur/kino/donald-trumps-zoll-androhung-fuer-hollywood-panik-in-der-traumfabrik-a-ce1b71bc-2ac3-4346-bb7b-5c4f29dd5261#ref=rss)
+### mutter
+
+* [https://www.spiegel.de/familie/traumata-in-der-familie-meine-mutter-ist-obdachlos](https://www.spiegel.de/familie/traumata-in-der-familie-meine-mutter-ist-obdachlos-a-9d0f152c-9d04-4696-a79c-afe1bc1f9a55#ref=rss)
+### ich
+
+* [https://www.spiegel.de/familie/traumata-in-der-familie-meine-mutter-ist-obdachlos](https://www.spiegel.de/familie/traumata-in-der-familie-meine-mutter-ist-obdachlos-a-9d0f152c-9d04-4696-a79c-afe1bc1f9a55#ref=rss)
+### kam
+
+* [https://www.spiegel.de/familie/traumata-in-der-familie-meine-mutter-ist-obdachlos](https://www.spiegel.de/familie/traumata-in-der-familie-meine-mutter-ist-obdachlos-a-9d0f152c-9d04-4696-a79c-afe1bc1f9a55#ref=rss)
+* [https://www.spiegel.de/sport/fussball/1-fc-koeln-so-kam-es-zur-freistellung-von-christian-keller-und-gerhard-struber](https://www.spiegel.de/sport/fussball/1-fc-koeln-so-kam-es-zur-freistellung-von-christian-keller-und-gerhard-struber-a-d050e50d-755e-4017-9975-de291d6244d9#ref=rss)
+### edmundo
+
+* [https://www.spiegel.de/ausland/edmundo-gonzalez-venezuelas-oppositionsfuehrer-in-spanisches-krankenhaus-eingeliefert](https://www.spiegel.de/ausland/edmundo-gonzalez-venezuelas-oppositionsfuehrer-in-spanisches-krankenhaus-eingeliefert-a-a6907c9b-bf87-44b0-b948-039809762e87#ref=rss)
+### gonzález
+
+* [https://www.spiegel.de/ausland/edmundo-gonzalez-venezuelas-oppositionsfuehrer-in-spanisches-krankenhaus-eingeliefert](https://www.spiegel.de/ausland/edmundo-gonzalez-venezuelas-oppositionsfuehrer-in-spanisches-krankenhaus-eingeliefert-a-a6907c9b-bf87-44b0-b948-039809762e87#ref=rss)
+### venezuelas
+
+* [https://www.spiegel.de/ausland/edmundo-gonzalez-venezuelas-oppositionsfuehrer-in-spanisches-krankenhaus-eingeliefert](https://www.spiegel.de/ausland/edmundo-gonzalez-venezuelas-oppositionsfuehrer-in-spanisches-krankenhaus-eingeliefert-a-a6907c9b-bf87-44b0-b948-039809762e87#ref=rss)
+### krankenhaus
+
+* [https://www.spiegel.de/ausland/edmundo-gonzalez-venezuelas-oppositionsfuehrer-in-spanisches-krankenhaus-eingeliefert](https://www.spiegel.de/ausland/edmundo-gonzalez-venezuelas-oppositionsfuehrer-in-spanisches-krankenhaus-eingeliefert-a-a6907c9b-bf87-44b0-b948-039809762e87#ref=rss)
+### shein
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/us-zoelle-wie-shein-temu-und-amazon-durch-donald-trump-unter-druck-geraten](https://www.spiegel.de/wirtschaft/unternehmen/us-zoelle-wie-shein-temu-und-amazon-durch-donald-trump-unter-druck-geraten-a-e259cb39-2b1a-4304-9544-50d54c051cb4#ref=rss)
+### temu
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/us-zoelle-wie-shein-temu-und-amazon-durch-donald-trump-unter-druck-geraten](https://www.spiegel.de/wirtschaft/unternehmen/us-zoelle-wie-shein-temu-und-amazon-durch-donald-trump-unter-druck-geraten-a-e259cb39-2b1a-4304-9544-50d54c051cb4#ref=rss)
 
