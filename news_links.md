@@ -4,412 +4,378 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### afd
-
-* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-a-bdee7046-8144-4bdc-9b0b-6c0beef42136#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast-a-c052f2a7-2f70-4948-9acc-303c682c97f3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news](https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news-a-48ac64f5-f403-4ca5-8a31-3674acfe1af1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-gesichert-rechtsextrem-hessischer-minister-schliesst-afd-politiker-von-reisen-aus](https://www.spiegel.de/politik/deutschland/afd-gesichert-rechtsextrem-hessischer-minister-schliesst-afd-politiker-von-reisen-aus-a-c16efdbd-e442-4188-b492-1be257afce6c#ref=rss)
-### bundestag
-
-* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-a-bdee7046-8144-4bdc-9b0b-6c0beef42136#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast-a-c052f2a7-2f70-4948-9acc-303c682c97f3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/matthias-miersch-soll-spd-fraktionschef-werden](https://www.spiegel.de/politik/deutschland/matthias-miersch-soll-spd-fraktionschef-werden-a-31d44c1e-fbaa-4615-8197-c2d6ba455150#ref=rss)
-### news
-
-* [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news](https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news-a-48ac64f5-f403-4ca5-8a31-3674acfe1af1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-spd-ministerposten-rumaenen-sean-diddy-combs](https://www.spiegel.de/politik/deutschland/news-des-tages-spd-ministerposten-rumaenen-sean-diddy-combs-a-8ed3c2c6-22ec-474e-b2be-f356fb43a4e7#ref=rss)
-### fraktion
-
-* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-a-bdee7046-8144-4bdc-9b0b-6c0beef42136#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast-a-c052f2a7-2f70-4948-9acc-303c682c97f3#ref=rss)
-### gesichert
-
-* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-a-bdee7046-8144-4bdc-9b0b-6c0beef42136#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast-a-c052f2a7-2f70-4948-9acc-303c682c97f3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news](https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news-a-48ac64f5-f403-4ca5-8a31-3674acfe1af1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-gesichert-rechtsextrem-hessischer-minister-schliesst-afd-politiker-von-reisen-aus](https://www.spiegel.de/politik/deutschland/afd-gesichert-rechtsextrem-hessischer-minister-schliesst-afd-politiker-von-reisen-aus-a-c16efdbd-e442-4188-b492-1be257afce6c#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-a-bdee7046-8144-4bdc-9b0b-6c0beef42136#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast-a-c052f2a7-2f70-4948-9acc-303c682c97f3#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-seedrohnen-schiessen-russische-jets-ab](https://www.spiegel.de/ausland/ukraine-seedrohnen-schiessen-russische-jets-ab-a-c0634094-0684-4c0c-bebf-521ce61516ec#ref=rss)
-* [https://www.spiegel.de/sport/fussball/1-fc-koeln-so-kam-es-zur-freistellung-von-christian-keller-und-gerhard-struber](https://www.spiegel.de/sport/fussball/1-fc-koeln-so-kam-es-zur-freistellung-von-christian-keller-und-gerhard-struber-a-d050e50d-755e-4017-9975-de291d6244d9#ref=rss)
-### trumps
-
-* [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
-* [https://www.spiegel.de/wissenschaft/bremen-universitaet-und-alfred-wegener-institut-sichern-us-forschungsdaten](https://www.spiegel.de/wissenschaft/bremen-universitaet-und-alfred-wegener-institut-sichern-us-forschungsdaten-a-b2d70bd6-d3ef-4529-a4d8-f1899cb782b0#ref=rss)
-* [https://www.spiegel.de/kultur/kino/donald-trumps-zoll-androhung-fuer-hollywood-panik-in-der-traumfabrik](https://www.spiegel.de/kultur/kino/donald-trumps-zoll-androhung-fuer-hollywood-panik-in-der-traumfabrik-a-ce1b71bc-2ac3-4346-bb7b-5c4f29dd5261#ref=rss)
-### klingbeil
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-spd-ministerposten-rumaenen-sean-diddy-combs](https://www.spiegel.de/politik/deutschland/news-des-tages-spd-ministerposten-rumaenen-sean-diddy-combs-a-8ed3c2c6-22ec-474e-b2be-f356fb43a4e7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/matthias-miersch-soll-spd-fraktionschef-werden](https://www.spiegel.de/politik/deutschland/matthias-miersch-soll-spd-fraktionschef-werden-a-31d44c1e-fbaa-4615-8197-c2d6ba455150#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-ploetzlich-haelt-der-kuenftige-vize-kanzler-eine-art-regierungserklaerung](https://www.spiegel.de/politik/deutschland/lars-klingbeil-ploetzlich-haelt-der-kuenftige-vize-kanzler-eine-art-regierungserklaerung-a-e06ad174-5d6b-4efd-a478-52c186638d27#ref=rss)
-### trainer
-
-* [https://www.spiegel.de/sport/fussball/fussball-im-landkreis-lindau-jugendtrainer-greift-schiedsrichter-an-und-verletzt-ihn-leicht](https://www.spiegel.de/sport/fussball/fussball-im-landkreis-lindau-jugendtrainer-greift-schiedsrichter-an-und-verletzt-ihn-leicht-a-07f10ec9-2783-4e16-9a52-ab5e69c51fbc#ref=rss)
-* [https://www.spiegel.de/sport/fussball/1-fc-koeln-so-kam-es-zur-freistellung-von-christian-keller-und-gerhard-struber](https://www.spiegel.de/sport/fussball/1-fc-koeln-so-kam-es-zur-freistellung-von-christian-keller-und-gerhard-struber-a-d050e50d-755e-4017-9975-de291d6244d9#ref=rss)
-* [https://www.spiegel.de/sport/fussball/friedhelm-funkel-neuer-trainer-beim-1-fc-koeln-erst-der-feuerwehrmann-dann-der-feueralarm](https://www.spiegel.de/sport/fussball/friedhelm-funkel-neuer-trainer-beim-1-fc-koeln-erst-der-feuerwehrmann-dann-der-feueralarm-a-fb46d023-0009-42a6-8275-5f2d9eeb6ef9#ref=rss)
-### bisher
-
-* [https://www.spiegel.de/politik/deutschland/stefanie-hubig-wird-neue-justizministerin-am-ende-einer-langen-reise](https://www.spiegel.de/politik/deutschland/stefanie-hubig-wird-neue-justizministerin-am-ende-einer-langen-reise-a-da1b6422-bf07-4a69-83a7-8136f7cc0567#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-a-bdee7046-8144-4bdc-9b0b-6c0beef42136#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast-a-c052f2a7-2f70-4948-9acc-303c682c97f3#ref=rss)
-### 200
-
-* [https://www.spiegel.de/wissenschaft/medizin/gegengift-entwickelt-timothy-friede-liess-sich-200-mal-von-giftigen-schlangen-beissen-warum](https://www.spiegel.de/wissenschaft/medizin/gegengift-entwickelt-timothy-friede-liess-sich-200-mal-von-giftigen-schlangen-beissen-warum-a-e90d57bf-775c-4e13-81b7-dc87257b056a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/ss-verbrechen-historiker-rekonstruiert-massaker-an-zwangsarbeitern-im-sauerland](https://www.spiegel.de/wissenschaft/ss-verbrechen-historiker-rekonstruiert-massaker-an-zwangsarbeitern-im-sauerland-a-056d3262-6273-483e-a44a-a5f9e20853c8#ref=rss)
-### rechtsextremistisch
-
-* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-a-bdee7046-8144-4bdc-9b0b-6c0beef42136#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast-a-c052f2a7-2f70-4948-9acc-303c682c97f3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news](https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news-a-48ac64f5-f403-4ca5-8a31-3674acfe1af1#ref=rss)
-### spd
-
-* [https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news](https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news-a-48ac64f5-f403-4ca5-8a31-3674acfe1af1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-spd-ministerposten-rumaenen-sean-diddy-combs](https://www.spiegel.de/politik/deutschland/news-des-tages-spd-ministerposten-rumaenen-sean-diddy-combs-a-8ed3c2c6-22ec-474e-b2be-f356fb43a4e7#ref=rss)
 ### merz
 
-* [https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news](https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news-a-48ac64f5-f403-4ca5-8a31-3674acfe1af1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-ploetzlich-haelt-der-kuenftige-vize-kanzler-eine-art-regierungserklaerung](https://www.spiegel.de/politik/deutschland/lars-klingbeil-ploetzlich-haelt-der-kuenftige-vize-kanzler-eine-art-regierungserklaerung-a-e06ad174-5d6b-4efd-a478-52c186638d27#ref=rss)
-### lars
-
-* [https://www.spiegel.de/politik/deutschland/matthias-miersch-soll-spd-fraktionschef-werden](https://www.spiegel.de/politik/deutschland/matthias-miersch-soll-spd-fraktionschef-werden-a-31d44c1e-fbaa-4615-8197-c2d6ba455150#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-ploetzlich-haelt-der-kuenftige-vize-kanzler-eine-art-regierungserklaerung](https://www.spiegel.de/politik/deutschland/lars-klingbeil-ploetzlich-haelt-der-kuenftige-vize-kanzler-eine-art-regierungserklaerung-a-e06ad174-5d6b-4efd-a478-52c186638d27#ref=rss)
-### 1
-
-* [https://www.spiegel.de/sport/formel1/grosser-preis-von-miami-ist-oscar-piastri-schon-der-kommende-champion-der-formel-1](https://www.spiegel.de/sport/formel1/grosser-preis-von-miami-ist-oscar-piastri-schon-der-kommende-champion-der-formel-1-a-6346df92-97ef-4fd7-bc6e-0078907599d6#ref=rss)
-* [https://www.spiegel.de/sport/fussball/1-fc-koeln-so-kam-es-zur-freistellung-von-christian-keller-und-gerhard-struber](https://www.spiegel.de/sport/fussball/1-fc-koeln-so-kam-es-zur-freistellung-von-christian-keller-und-gerhard-struber-a-d050e50d-755e-4017-9975-de291d6244d9#ref=rss)
-* [https://www.spiegel.de/sport/fussball/friedhelm-funkel-neuer-trainer-beim-1-fc-koeln-erst-der-feuerwehrmann-dann-der-feueralarm](https://www.spiegel.de/sport/fussball/friedhelm-funkel-neuer-trainer-beim-1-fc-koeln-erst-der-feuerwehrmann-dann-der-feueralarm-a-fb46d023-0009-42a6-8275-5f2d9eeb6ef9#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/1-fc-koeln-so-kam-es-zur-freistellung-von-christian-keller-und-gerhard-struber](https://www.spiegel.de/sport/fussball/1-fc-koeln-so-kam-es-zur-freistellung-von-christian-keller-und-gerhard-struber-a-d050e50d-755e-4017-9975-de291d6244d9#ref=rss)
-* [https://www.spiegel.de/sport/fussball/friedhelm-funkel-neuer-trainer-beim-1-fc-koeln-erst-der-feuerwehrmann-dann-der-feueralarm](https://www.spiegel.de/sport/fussball/friedhelm-funkel-neuer-trainer-beim-1-fc-koeln-erst-der-feuerwehrmann-dann-der-feueralarm-a-fb46d023-0009-42a6-8275-5f2d9eeb6ef9#ref=rss)
-### köln
-
-* [https://www.spiegel.de/sport/fussball/1-fc-koeln-so-kam-es-zur-freistellung-von-christian-keller-und-gerhard-struber](https://www.spiegel.de/sport/fussball/1-fc-koeln-so-kam-es-zur-freistellung-von-christian-keller-und-gerhard-struber-a-d050e50d-755e-4017-9975-de291d6244d9#ref=rss)
-* [https://www.spiegel.de/sport/fussball/friedhelm-funkel-neuer-trainer-beim-1-fc-koeln-erst-der-feuerwehrmann-dann-der-feueralarm](https://www.spiegel.de/sport/fussball/friedhelm-funkel-neuer-trainer-beim-1-fc-koeln-erst-der-feuerwehrmann-dann-der-feueralarm-a-fb46d023-0009-42a6-8275-5f2d9eeb6ef9#ref=rss)
-### friedhelm
-
-* [https://www.spiegel.de/sport/fussball/1-fc-koeln-so-kam-es-zur-freistellung-von-christian-keller-und-gerhard-struber](https://www.spiegel.de/sport/fussball/1-fc-koeln-so-kam-es-zur-freistellung-von-christian-keller-und-gerhard-struber-a-d050e50d-755e-4017-9975-de291d6244d9#ref=rss)
-* [https://www.spiegel.de/sport/fussball/friedhelm-funkel-neuer-trainer-beim-1-fc-koeln-erst-der-feuerwehrmann-dann-der-feueralarm](https://www.spiegel.de/sport/fussball/friedhelm-funkel-neuer-trainer-beim-1-fc-koeln-erst-der-feuerwehrmann-dann-der-feueralarm-a-fb46d023-0009-42a6-8275-5f2d9eeb6ef9#ref=rss)
-### funkel
-
-* [https://www.spiegel.de/sport/fussball/1-fc-koeln-so-kam-es-zur-freistellung-von-christian-keller-und-gerhard-struber](https://www.spiegel.de/sport/fussball/1-fc-koeln-so-kam-es-zur-freistellung-von-christian-keller-und-gerhard-struber-a-d050e50d-755e-4017-9975-de291d6244d9#ref=rss)
-* [https://www.spiegel.de/sport/fussball/friedhelm-funkel-neuer-trainer-beim-1-fc-koeln-erst-der-feuerwehrmann-dann-der-feueralarm](https://www.spiegel.de/sport/fussball/friedhelm-funkel-neuer-trainer-beim-1-fc-koeln-erst-der-feuerwehrmann-dann-der-feueralarm-a-fb46d023-0009-42a6-8275-5f2d9eeb6ef9#ref=rss)
-### neue
-
-* [https://www.spiegel.de/politik/deutschland/stefanie-hubig-wird-neue-justizministerin-am-ende-einer-langen-reise](https://www.spiegel.de/politik/deutschland/stefanie-hubig-wird-neue-justizministerin-am-ende-einer-langen-reise-a-da1b6422-bf07-4a69-83a7-8136f7cc0567#ref=rss)
-* [https://www.spiegel.de/wissenschaft/bremen-universitaet-und-alfred-wegener-institut-sichern-us-forschungsdaten](https://www.spiegel.de/wissenschaft/bremen-universitaet-und-alfred-wegener-institut-sichern-us-forschungsdaten-a-b2d70bd6-d3ef-4529-a4d8-f1899cb782b0#ref=rss)
-### ende
-
-* [https://www.spiegel.de/politik/deutschland/stefanie-hubig-wird-neue-justizministerin-am-ende-einer-langen-reise](https://www.spiegel.de/politik/deutschland/stefanie-hubig-wird-neue-justizministerin-am-ende-einer-langen-reise-a-da1b6422-bf07-4a69-83a7-8136f7cc0567#ref=rss)
-### langen
-
-* [https://www.spiegel.de/politik/deutschland/stefanie-hubig-wird-neue-justizministerin-am-ende-einer-langen-reise](https://www.spiegel.de/politik/deutschland/stefanie-hubig-wird-neue-justizministerin-am-ende-einer-langen-reise-a-da1b6422-bf07-4a69-83a7-8136f7cc0567#ref=rss)
-### reise
-
-* [https://www.spiegel.de/politik/deutschland/stefanie-hubig-wird-neue-justizministerin-am-ende-einer-langen-reise](https://www.spiegel.de/politik/deutschland/stefanie-hubig-wird-neue-justizministerin-am-ende-einer-langen-reise-a-da1b6422-bf07-4a69-83a7-8136f7cc0567#ref=rss)
-### hause
-
-* [https://www.spiegel.de/politik/deutschland/stefanie-hubig-wird-neue-justizministerin-am-ende-einer-langen-reise](https://www.spiegel.de/politik/deutschland/stefanie-hubig-wird-neue-justizministerin-am-ende-einer-langen-reise-a-da1b6422-bf07-4a69-83a7-8136f7cc0567#ref=rss)
-* [https://www.spiegel.de/familie/traumata-in-der-familie-meine-mutter-ist-obdachlos](https://www.spiegel.de/familie/traumata-in-der-familie-meine-mutter-ist-obdachlos-a-9d0f152c-9d04-4696-a79c-afe1bc1f9a55#ref=rss)
-### timothy
-
-* [https://www.spiegel.de/wissenschaft/medizin/gegengift-entwickelt-timothy-friede-liess-sich-200-mal-von-giftigen-schlangen-beissen-warum](https://www.spiegel.de/wissenschaft/medizin/gegengift-entwickelt-timothy-friede-liess-sich-200-mal-von-giftigen-schlangen-beissen-warum-a-e90d57bf-775c-4e13-81b7-dc87257b056a#ref=rss)
-### friede
-
-* [https://www.spiegel.de/wissenschaft/medizin/gegengift-entwickelt-timothy-friede-liess-sich-200-mal-von-giftigen-schlangen-beissen-warum](https://www.spiegel.de/wissenschaft/medizin/gegengift-entwickelt-timothy-friede-liess-sich-200-mal-von-giftigen-schlangen-beissen-warum-a-e90d57bf-775c-4e13-81b7-dc87257b056a#ref=rss)
-### schlangen
-
-* [https://www.spiegel.de/wissenschaft/medizin/gegengift-entwickelt-timothy-friede-liess-sich-200-mal-von-giftigen-schlangen-beissen-warum](https://www.spiegel.de/wissenschaft/medizin/gegengift-entwickelt-timothy-friede-liess-sich-200-mal-von-giftigen-schlangen-beissen-warum-a-e90d57bf-775c-4e13-81b7-dc87257b056a#ref=rss)
-### beißen
-
-* [https://www.spiegel.de/wissenschaft/medizin/gegengift-entwickelt-timothy-friede-liess-sich-200-mal-von-giftigen-schlangen-beissen-warum](https://www.spiegel.de/wissenschaft/medizin/gegengift-entwickelt-timothy-friede-liess-sich-200-mal-von-giftigen-schlangen-beissen-warum-a-e90d57bf-775c-4e13-81b7-dc87257b056a#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wissenschaft/medizin/gegengift-entwickelt-timothy-friede-liess-sich-200-mal-von-giftigen-schlangen-beissen-warum](https://www.spiegel.de/wissenschaft/medizin/gegengift-entwickelt-timothy-friede-liess-sich-200-mal-von-giftigen-schlangen-beissen-warum-a-e90d57bf-775c-4e13-81b7-dc87257b056a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/ss-verbrechen-historiker-rekonstruiert-massaker-an-zwangsarbeitern-im-sauerland](https://www.spiegel.de/wissenschaft/ss-verbrechen-historiker-rekonstruiert-massaker-an-zwangsarbeitern-im-sauerland-a-056d3262-6273-483e-a44a-a5f9e20853c8#ref=rss)
-### unfall
-
-* [https://www.spiegel.de/panorama/stuttgart-ursachensuche-nach-schwerem-unfall-polizei-spricht-von-unfallhaeufungsstelle](https://www.spiegel.de/panorama/stuttgart-ursachensuche-nach-schwerem-unfall-polizei-spricht-von-unfallhaeufungsstelle-a-744cfbbd-060f-49cd-b311-d80ed89dc125#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/stuttgart-ursachensuche-nach-schwerem-unfall-polizei-spricht-von-unfallhaeufungsstelle](https://www.spiegel.de/panorama/stuttgart-ursachensuche-nach-schwerem-unfall-polizei-spricht-von-unfallhaeufungsstelle-a-744cfbbd-060f-49cd-b311-d80ed89dc125#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-im-landkreis-lindau-jugendtrainer-greift-schiedsrichter-an-und-verletzt-ihn-leicht](https://www.spiegel.de/sport/fussball/fussball-im-landkreis-lindau-jugendtrainer-greift-schiedsrichter-an-und-verletzt-ihn-leicht-a-07f10ec9-2783-4e16-9a52-ab5e69c51fbc#ref=rss)
-### verletzt
-
-* [https://www.spiegel.de/panorama/stuttgart-ursachensuche-nach-schwerem-unfall-polizei-spricht-von-unfallhaeufungsstelle](https://www.spiegel.de/panorama/stuttgart-ursachensuche-nach-schwerem-unfall-polizei-spricht-von-unfallhaeufungsstelle-a-744cfbbd-060f-49cd-b311-d80ed89dc125#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-im-landkreis-lindau-jugendtrainer-greift-schiedsrichter-an-und-verletzt-ihn-leicht](https://www.spiegel.de/sport/fussball/fussball-im-landkreis-lindau-jugendtrainer-greift-schiedsrichter-an-und-verletzt-ihn-leicht-a-07f10ec9-2783-4e16-9a52-ab5e69c51fbc#ref=rss)
-### größte
-
-* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-a-bdee7046-8144-4bdc-9b0b-6c0beef42136#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast-a-c052f2a7-2f70-4948-9acc-303c682c97f3#ref=rss)
-### viele
-
-* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-a-bdee7046-8144-4bdc-9b0b-6c0beef42136#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast-a-c052f2a7-2f70-4948-9acc-303c682c97f3#ref=rss)
-### sitze
-
-* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-a-bdee7046-8144-4bdc-9b0b-6c0beef42136#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast-a-c052f2a7-2f70-4948-9acc-303c682c97f3#ref=rss)
-### nie
-
-* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-a-bdee7046-8144-4bdc-9b0b-6c0beef42136#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast-a-c052f2a7-2f70-4948-9acc-303c682c97f3#ref=rss)
-### gänge
-
-* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-a-bdee7046-8144-4bdc-9b0b-6c0beef42136#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast-a-c052f2a7-2f70-4948-9acc-303c682c97f3#ref=rss)
-### hochschalten
-
-* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-a-bdee7046-8144-4bdc-9b0b-6c0beef42136#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast-a-c052f2a7-2f70-4948-9acc-303c682c97f3#ref=rss)
-### prägt
-
-* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-a-bdee7046-8144-4bdc-9b0b-6c0beef42136#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast-a-c052f2a7-2f70-4948-9acc-303c682c97f3#ref=rss)
-### rolle
-
-* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-a-bdee7046-8144-4bdc-9b0b-6c0beef42136#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast-a-c052f2a7-2f70-4948-9acc-303c682c97f3#ref=rss)
-### spielt
-
-* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-a-bdee7046-8144-4bdc-9b0b-6c0beef42136#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast-a-c052f2a7-2f70-4948-9acc-303c682c97f3#ref=rss)
-### völkisches
-
-* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-a-bdee7046-8144-4bdc-9b0b-6c0beef42136#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast-a-c052f2a7-2f70-4948-9acc-303c682c97f3#ref=rss)
-### gedankengut
-
-* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-a-bdee7046-8144-4bdc-9b0b-6c0beef42136#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast-a-c052f2a7-2f70-4948-9acc-303c682c97f3#ref=rss)
-### spiegelredakteurin
-
-* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-a-bdee7046-8144-4bdc-9b0b-6c0beef42136#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast-a-c052f2a7-2f70-4948-9acc-303c682c97f3#ref=rss)
-### annkatrin
-
-* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-a-bdee7046-8144-4bdc-9b0b-6c0beef42136#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast-a-c052f2a7-2f70-4948-9acc-303c682c97f3#ref=rss)
-### müller
-
-* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-a-bdee7046-8144-4bdc-9b0b-6c0beef42136#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast-a-c052f2a7-2f70-4948-9acc-303c682c97f3#ref=rss)
-### ordnet
-
-* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-a-bdee7046-8144-4bdc-9b0b-6c0beef42136#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-bisher-groesste-fraktion-und-gesichert-rechtsextremistisch-podcast-a-c052f2a7-2f70-4948-9acc-303c682c97f3#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/us-zoelle-wie-shein-temu-und-amazon-durch-donald-trump-unter-druck-geraten](https://www.spiegel.de/wirtschaft/unternehmen/us-zoelle-wie-shein-temu-und-amazon-durch-donald-trump-unter-druck-geraten-a-e259cb39-2b1a-4304-9544-50d54c051cb4#ref=rss)
-### bieten
-
-* [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
-* [https://www.spiegel.de/wissenschaft/bremen-universitaet-und-alfred-wegener-institut-sichern-us-forschungsdaten](https://www.spiegel.de/wissenschaft/bremen-universitaet-und-alfred-wegener-institut-sichern-us-forschungsdaten-a-b2d70bd6-d3ef-4529-a4d8-f1899cb782b0#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
-* [https://www.spiegel.de/kultur/kino/donald-trumps-zoll-androhung-fuer-hollywood-panik-in-der-traumfabrik](https://www.spiegel.de/kultur/kino/donald-trumps-zoll-androhung-fuer-hollywood-panik-in-der-traumfabrik-a-ce1b71bc-2ac3-4346-bb7b-5c4f29dd5261#ref=rss)
-### darfur
-
-* [https://www.spiegel.de/ausland/darfur-im-sudan-internationaler-gerichtshof-weist-genozid-klage-gegen-vereinigte-arabische-emirate-ab](https://www.spiegel.de/ausland/darfur-im-sudan-internationaler-gerichtshof-weist-genozid-klage-gegen-vereinigte-arabische-emirate-ab-a-cb3b1548-b828-4d40-ae05-6d7b38b11d16#ref=rss)
-### sudan
-
-* [https://www.spiegel.de/ausland/darfur-im-sudan-internationaler-gerichtshof-weist-genozid-klage-gegen-vereinigte-arabische-emirate-ab](https://www.spiegel.de/ausland/darfur-im-sudan-internationaler-gerichtshof-weist-genozid-klage-gegen-vereinigte-arabische-emirate-ab-a-cb3b1548-b828-4d40-ae05-6d7b38b11d16#ref=rss)
-### designierte
-
-* [https://www.spiegel.de/politik/deutschland/designierte-fdp-generalsekretaerin-buettner-eine-ki-unternehmerin-fuer-die-apo-zeit](https://www.spiegel.de/politik/deutschland/designierte-fdp-generalsekretaerin-buettner-eine-ki-unternehmerin-fuer-die-apo-zeit-a-956802c4-b633-4a95-9145-b8591fea6afa#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news](https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news-a-48ac64f5-f403-4ca5-8a31-3674acfe1af1#ref=rss)
-### büttner
-
-* [https://www.spiegel.de/politik/deutschland/designierte-fdp-generalsekretaerin-buettner-eine-ki-unternehmerin-fuer-die-apo-zeit](https://www.spiegel.de/politik/deutschland/designierte-fdp-generalsekretaerin-buettner-eine-ki-unternehmerin-fuer-die-apo-zeit-a-956802c4-b633-4a95-9145-b8591fea6afa#ref=rss)
-### kiunternehmerin
-
-* [https://www.spiegel.de/politik/deutschland/designierte-fdp-generalsekretaerin-buettner-eine-ki-unternehmerin-fuer-die-apo-zeit](https://www.spiegel.de/politik/deutschland/designierte-fdp-generalsekretaerin-buettner-eine-ki-unternehmerin-fuer-die-apo-zeit-a-956802c4-b633-4a95-9145-b8591fea6afa#ref=rss)
-### künftige
-
-* [https://www.spiegel.de/politik/deutschland/designierte-fdp-generalsekretaerin-buettner-eine-ki-unternehmerin-fuer-die-apo-zeit](https://www.spiegel.de/politik/deutschland/designierte-fdp-generalsekretaerin-buettner-eine-ki-unternehmerin-fuer-die-apo-zeit-a-956802c4-b633-4a95-9145-b8591fea6afa#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-ploetzlich-haelt-der-kuenftige-vize-kanzler-eine-art-regierungserklaerung](https://www.spiegel.de/politik/deutschland/lars-klingbeil-ploetzlich-haelt-der-kuenftige-vize-kanzler-eine-art-regierungserklaerung-a-e06ad174-5d6b-4efd-a478-52c186638d27#ref=rss)
-### niemand
-
-* [https://www.spiegel.de/politik/deutschland/designierte-fdp-generalsekretaerin-buettner-eine-ki-unternehmerin-fuer-die-apo-zeit](https://www.spiegel.de/politik/deutschland/designierte-fdp-generalsekretaerin-buettner-eine-ki-unternehmerin-fuer-die-apo-zeit-a-956802c4-b633-4a95-9145-b8591fea6afa#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/unterwasservulkan-im-pazifik-forschende-beobachten-vulkanausbruch-in-der-tiefsee](https://www.spiegel.de/wissenschaft/natur/unterwasservulkan-im-pazifik-forschende-beobachten-vulkanausbruch-in-der-tiefsee-a-f506dbbb-df3f-4552-8779-4201e0fda7bd#ref=rss)
-### historiker
-
-* [https://www.spiegel.de/wissenschaft/ss-verbrechen-historiker-rekonstruiert-massaker-an-zwangsarbeitern-im-sauerland](https://www.spiegel.de/wissenschaft/ss-verbrechen-historiker-rekonstruiert-massaker-an-zwangsarbeitern-im-sauerland-a-056d3262-6273-483e-a44a-a5f9e20853c8#ref=rss)
-### sauerland
-
-* [https://www.spiegel.de/wissenschaft/ss-verbrechen-historiker-rekonstruiert-massaker-an-zwangsarbeitern-im-sauerland](https://www.spiegel.de/wissenschaft/ss-verbrechen-historiker-rekonstruiert-massaker-an-zwangsarbeitern-im-sauerland-a-056d3262-6273-483e-a44a-a5f9e20853c8#ref=rss)
-### bärbel
-
-* [https://www.spiegel.de/wirtschaft/soziales/baerbel-bas-vom-aufstieg-zur-arbeitsministerin-im-bundeskabinett](https://www.spiegel.de/wirtschaft/soziales/baerbel-bas-vom-aufstieg-zur-arbeitsministerin-im-bundeskabinett-a-bfa9168c-91e4-40de-81d6-84a38c14e397#ref=rss)
-### bas
-
-* [https://www.spiegel.de/wirtschaft/soziales/baerbel-bas-vom-aufstieg-zur-arbeitsministerin-im-bundeskabinett](https://www.spiegel.de/wirtschaft/soziales/baerbel-bas-vom-aufstieg-zur-arbeitsministerin-im-bundeskabinett-a-bfa9168c-91e4-40de-81d6-84a38c14e397#ref=rss)
-### aufstieg
-
-* [https://www.spiegel.de/wirtschaft/soziales/baerbel-bas-vom-aufstieg-zur-arbeitsministerin-im-bundeskabinett](https://www.spiegel.de/wirtschaft/soziales/baerbel-bas-vom-aufstieg-zur-arbeitsministerin-im-bundeskabinett-a-bfa9168c-91e4-40de-81d6-84a38c14e397#ref=rss)
-### arbeitsministerin
-
-* [https://www.spiegel.de/wirtschaft/soziales/baerbel-bas-vom-aufstieg-zur-arbeitsministerin-im-bundeskabinett](https://www.spiegel.de/wirtschaft/soziales/baerbel-bas-vom-aufstieg-zur-arbeitsministerin-im-bundeskabinett-a-bfa9168c-91e4-40de-81d6-84a38c14e397#ref=rss)
-### bundeskabinett
-
-* [https://www.spiegel.de/wirtschaft/soziales/baerbel-bas-vom-aufstieg-zur-arbeitsministerin-im-bundeskabinett](https://www.spiegel.de/wirtschaft/soziales/baerbel-bas-vom-aufstieg-zur-arbeitsministerin-im-bundeskabinett-a-bfa9168c-91e4-40de-81d6-84a38c14e397#ref=rss)
-### verteidiger
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/vw-dieselaffaere-verteidiger-fordern-freispruch-fuer-frueheren-vw-abteilungsleiter](https://www.spiegel.de/wirtschaft/unternehmen/vw-dieselaffaere-verteidiger-fordern-freispruch-fuer-frueheren-vw-abteilungsleiter-a-98e21228-ff4c-4abc-b64f-055048e73f76#ref=rss)
-### koalition
-
-* [https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news](https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news-a-48ac64f5-f403-4ca5-8a31-3674acfe1af1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-spd-ministerposten-rumaenen-sean-diddy-combs](https://www.spiegel.de/politik/deutschland/news-des-tages-spd-ministerposten-rumaenen-sean-diddy-combs-a-8ed3c2c6-22ec-474e-b2be-f356fb43a4e7#ref=rss)
-### auswertung
-
-* [https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news](https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news-a-48ac64f5-f403-4ca5-8a31-3674acfe1af1#ref=rss)
-### innenministerium
-
-* [https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news](https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news-a-48ac64f5-f403-4ca5-8a31-3674acfe1af1#ref=rss)
-### abwarten
-
-* [https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news](https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news-a-48ac64f5-f403-4ca5-8a31-3674acfe1af1#ref=rss)
-### alle
-
-* [https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news](https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news-a-48ac64f5-f403-4ca5-8a31-3674acfe1af1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-und-cdu-csu-schuldfrage-nach-gescheiterter-kanzlerwahl-von-friedrich-merz-meinung](https://www.spiegel.de/politik/deutschland/spd-und-cdu-csu-schuldfrage-nach-gescheiterter-kanzlerwahl-von-friedrich-merz-meinung-a-573bdecd-933c-4b52-b9da-359051b53a03#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestag-friedrich-merz-scheitert-bei-kanzlerwahl-bodo-ramelow-kritisiert-ablauf](https://www.spiegel.de/politik/deutschland/bundestag-friedrich-merz-scheitert-bei-kanzlerwahl-bodo-ramelow-kritisiert-ablauf-a-171106a6-d704-4293-a3dd-ddb9f1c1e681#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/kanzlerwahl-news-friedrich-merz-duepiert-fraktionen-verhandeln-ueber-neuen-termin](https://www.spiegel.de/politik/deutschland/kanzlerwahl-news-friedrich-merz-duepiert-fraktionen-verhandeln-ueber-neuen-termin-a-31b0d49d-b84c-4f58-a0ee-590e325c4be6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-der-schock-moment-im-bundestag](https://www.spiegel.de/politik/deutschland/friedrich-merz-der-schock-moment-im-bundestag-a-55e47a02-905b-46f1-be84-e7fffcff4330#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wahl-zum-bundeskanzler-friedrich-merz-scheitert-wie-es-nun-laut-grundgesetz-weitergeht](https://www.spiegel.de/politik/deutschland/wahl-zum-bundeskanzler-friedrich-merz-scheitert-wie-es-nun-laut-grundgesetz-weitergeht-a-c24d1646-3dde-4e46-aa57-f2d94257b112#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-der-cdu-chef-faellt-als-kanzler-durch-bilder-eines-historischen-tages](https://www.spiegel.de/politik/friedrich-merz-der-cdu-chef-faellt-als-kanzler-durch-bilder-eines-historischen-tages-a-f4a065ed-79f4-4f1b-9f51-1a85b61c592b#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-cdu-chef-verpasst-kanzlermehrheit-im-ersten-wahlgang](https://www.spiegel.de/politik/friedrich-merz-cdu-chef-verpasst-kanzlermehrheit-im-ersten-wahlgang-a-b8f28f48-9e16-4c07-a3e3-4f60d02fdb3b#ref=rss)
 ### friedrich
 
-* [https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news](https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news-a-48ac64f5-f403-4ca5-8a31-3674acfe1af1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-ploetzlich-haelt-der-kuenftige-vize-kanzler-eine-art-regierungserklaerung](https://www.spiegel.de/politik/deutschland/lars-klingbeil-ploetzlich-haelt-der-kuenftige-vize-kanzler-eine-art-regierungserklaerung-a-e06ad174-5d6b-4efd-a478-52c186638d27#ref=rss)
-### erst
+* [https://www.spiegel.de/politik/deutschland/spd-und-cdu-csu-schuldfrage-nach-gescheiterter-kanzlerwahl-von-friedrich-merz-meinung](https://www.spiegel.de/politik/deutschland/spd-und-cdu-csu-schuldfrage-nach-gescheiterter-kanzlerwahl-von-friedrich-merz-meinung-a-573bdecd-933c-4b52-b9da-359051b53a03#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestag-friedrich-merz-scheitert-bei-kanzlerwahl-bodo-ramelow-kritisiert-ablauf](https://www.spiegel.de/politik/deutschland/bundestag-friedrich-merz-scheitert-bei-kanzlerwahl-bodo-ramelow-kritisiert-ablauf-a-171106a6-d704-4293-a3dd-ddb9f1c1e681#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/kanzlerwahl-news-friedrich-merz-duepiert-fraktionen-verhandeln-ueber-neuen-termin](https://www.spiegel.de/politik/deutschland/kanzlerwahl-news-friedrich-merz-duepiert-fraktionen-verhandeln-ueber-neuen-termin-a-31b0d49d-b84c-4f58-a0ee-590e325c4be6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-der-schock-moment-im-bundestag](https://www.spiegel.de/politik/deutschland/friedrich-merz-der-schock-moment-im-bundestag-a-55e47a02-905b-46f1-be84-e7fffcff4330#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wahl-zum-bundeskanzler-friedrich-merz-scheitert-wie-es-nun-laut-grundgesetz-weitergeht](https://www.spiegel.de/politik/deutschland/wahl-zum-bundeskanzler-friedrich-merz-scheitert-wie-es-nun-laut-grundgesetz-weitergeht-a-c24d1646-3dde-4e46-aa57-f2d94257b112#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-der-cdu-chef-faellt-als-kanzler-durch-bilder-eines-historischen-tages](https://www.spiegel.de/politik/friedrich-merz-der-cdu-chef-faellt-als-kanzler-durch-bilder-eines-historischen-tages-a-f4a065ed-79f4-4f1b-9f51-1a85b61c592b#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-cdu-chef-verpasst-kanzlermehrheit-im-ersten-wahlgang](https://www.spiegel.de/politik/friedrich-merz-cdu-chef-verpasst-kanzlermehrheit-im-ersten-wahlgang-a-b8f28f48-9e16-4c07-a3e3-4f60d02fdb3b#ref=rss)
+### ersten
 
-* [https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news](https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news-a-48ac64f5-f403-4ca5-8a31-3674acfe1af1#ref=rss)
-* [https://www.spiegel.de/sport/fussball/friedhelm-funkel-neuer-trainer-beim-1-fc-koeln-erst-der-feuerwehrmann-dann-der-feueralarm](https://www.spiegel.de/sport/fussball/friedhelm-funkel-neuer-trainer-beim-1-fc-koeln-erst-der-feuerwehrmann-dann-der-feueralarm-a-fb46d023-0009-42a6-8275-5f2d9eeb6ef9#ref=rss)
-### neuer
+* [https://www.spiegel.de/politik/deutschland/kanzlerwahl-news-friedrich-merz-duepiert-fraktionen-verhandeln-ueber-neuen-termin](https://www.spiegel.de/politik/deutschland/kanzlerwahl-news-friedrich-merz-duepiert-fraktionen-verhandeln-ueber-neuen-termin-a-31b0d49d-b84c-4f58-a0ee-590e325c4be6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-der-schock-moment-im-bundestag](https://www.spiegel.de/politik/deutschland/friedrich-merz-der-schock-moment-im-bundestag-a-55e47a02-905b-46f1-be84-e7fffcff4330#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-der-cdu-chef-faellt-als-kanzler-durch-bilder-eines-historischen-tages](https://www.spiegel.de/politik/friedrich-merz-der-cdu-chef-faellt-als-kanzler-durch-bilder-eines-historischen-tages-a-f4a065ed-79f4-4f1b-9f51-1a85b61c592b#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-cdu-chef-verpasst-kanzlermehrheit-im-ersten-wahlgang](https://www.spiegel.de/politik/friedrich-merz-cdu-chef-verpasst-kanzlermehrheit-im-ersten-wahlgang-a-b8f28f48-9e16-4c07-a3e3-4f60d02fdb3b#ref=rss)
+* [https://www.spiegel.de/sport/england-zwei-tote-bei-massencrash-in-unterklassigem-motorradrennen](https://www.spiegel.de/sport/england-zwei-tote-bei-massencrash-in-unterklassigem-motorradrennen-a-3843e7be-c737-4ed8-9548-212638880794#ref=rss)
+* [https://www.spiegel.de/panorama/leute/grossbritannien-ethel-caterham-ist-mit-115-jahren-der-aelteste-mensch-der-welt](https://www.spiegel.de/panorama/leute/grossbritannien-ethel-caterham-ist-mit-115-jahren-der-aelteste-mensch-der-welt-a-3fc468a6-da88-4abc-ae16-d45c6a463e2d#ref=rss)
+### kanzlerwahl
 
-* [https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news](https://www.spiegel.de/politik/deutschland/katherina-reiche-als-wirtschaftsministerin-energielobbyisten-feiern-koalitions-news-a-48ac64f5-f403-4ca5-8a31-3674acfe1af1#ref=rss)
-* [https://www.spiegel.de/sport/fussball/friedhelm-funkel-neuer-trainer-beim-1-fc-koeln-erst-der-feuerwehrmann-dann-der-feueralarm](https://www.spiegel.de/sport/fussball/friedhelm-funkel-neuer-trainer-beim-1-fc-koeln-erst-der-feuerwehrmann-dann-der-feueralarm-a-fb46d023-0009-42a6-8275-5f2d9eeb6ef9#ref=rss)
-### sean
+* [https://www.spiegel.de/politik/deutschland/spd-und-cdu-csu-schuldfrage-nach-gescheiterter-kanzlerwahl-von-friedrich-merz-meinung](https://www.spiegel.de/politik/deutschland/spd-und-cdu-csu-schuldfrage-nach-gescheiterter-kanzlerwahl-von-friedrich-merz-meinung-a-573bdecd-933c-4b52-b9da-359051b53a03#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestag-friedrich-merz-scheitert-bei-kanzlerwahl-bodo-ramelow-kritisiert-ablauf](https://www.spiegel.de/politik/deutschland/bundestag-friedrich-merz-scheitert-bei-kanzlerwahl-bodo-ramelow-kritisiert-ablauf-a-171106a6-d704-4293-a3dd-ddb9f1c1e681#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/kanzlerwahl-news-friedrich-merz-duepiert-fraktionen-verhandeln-ueber-neuen-termin](https://www.spiegel.de/politik/deutschland/kanzlerwahl-news-friedrich-merz-duepiert-fraktionen-verhandeln-ueber-neuen-termin-a-31b0d49d-b84c-4f58-a0ee-590e325c4be6#ref=rss)
+### bundestag
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-spd-ministerposten-rumaenen-sean-diddy-combs](https://www.spiegel.de/politik/deutschland/news-des-tages-spd-ministerposten-rumaenen-sean-diddy-combs-a-8ed3c2c6-22ec-474e-b2be-f356fb43a4e7#ref=rss)
-### diddy
+* [https://www.spiegel.de/politik/deutschland/bundestag-friedrich-merz-scheitert-bei-kanzlerwahl-bodo-ramelow-kritisiert-ablauf](https://www.spiegel.de/politik/deutschland/bundestag-friedrich-merz-scheitert-bei-kanzlerwahl-bodo-ramelow-kritisiert-ablauf-a-171106a6-d704-4293-a3dd-ddb9f1c1e681#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/kanzlerwahl-news-friedrich-merz-duepiert-fraktionen-verhandeln-ueber-neuen-termin](https://www.spiegel.de/politik/deutschland/kanzlerwahl-news-friedrich-merz-duepiert-fraktionen-verhandeln-ueber-neuen-termin-a-31b0d49d-b84c-4f58-a0ee-590e325c4be6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-der-schock-moment-im-bundestag](https://www.spiegel.de/politik/deutschland/friedrich-merz-der-schock-moment-im-bundestag-a-55e47a02-905b-46f1-be84-e7fffcff4330#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wahl-zum-bundeskanzler-friedrich-merz-scheitert-wie-es-nun-laut-grundgesetz-weitergeht](https://www.spiegel.de/politik/deutschland/wahl-zum-bundeskanzler-friedrich-merz-scheitert-wie-es-nun-laut-grundgesetz-weitergeht-a-c24d1646-3dde-4e46-aa57-f2d94257b112#ref=rss)
+### wahlgang
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-spd-ministerposten-rumaenen-sean-diddy-combs](https://www.spiegel.de/politik/deutschland/news-des-tages-spd-ministerposten-rumaenen-sean-diddy-combs-a-8ed3c2c6-22ec-474e-b2be-f356fb43a4e7#ref=rss)
-### combs
+* [https://www.spiegel.de/politik/deutschland/kanzlerwahl-news-friedrich-merz-duepiert-fraktionen-verhandeln-ueber-neuen-termin](https://www.spiegel.de/politik/deutschland/kanzlerwahl-news-friedrich-merz-duepiert-fraktionen-verhandeln-ueber-neuen-termin-a-31b0d49d-b84c-4f58-a0ee-590e325c4be6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-der-schock-moment-im-bundestag](https://www.spiegel.de/politik/deutschland/friedrich-merz-der-schock-moment-im-bundestag-a-55e47a02-905b-46f1-be84-e7fffcff4330#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-der-cdu-chef-faellt-als-kanzler-durch-bilder-eines-historischen-tages](https://www.spiegel.de/politik/friedrich-merz-der-cdu-chef-faellt-als-kanzler-durch-bilder-eines-historischen-tages-a-f4a065ed-79f4-4f1b-9f51-1a85b61c592b#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-cdu-chef-verpasst-kanzlermehrheit-im-ersten-wahlgang](https://www.spiegel.de/politik/friedrich-merz-cdu-chef-verpasst-kanzlermehrheit-im-ersten-wahlgang-a-b8f28f48-9e16-4c07-a3e3-4f60d02fdb3b#ref=rss)
+### gala
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-spd-ministerposten-rumaenen-sean-diddy-combs](https://www.spiegel.de/politik/deutschland/news-des-tages-spd-ministerposten-rumaenen-sean-diddy-combs-a-8ed3c2c6-22ec-474e-b2be-f356fb43a4e7#ref=rss)
-### neuen
+* [https://www.spiegel.de/kultur/met-gala-2025-die-schoensten-looks-vom-blauen-teppich](https://www.spiegel.de/kultur/met-gala-2025-die-schoensten-looks-vom-blauen-teppich-a-29046d74-88ae-4098-b2e2-6e0c0db0d0d7#ref=rss)
+* [https://www.spiegel.de/panorama/leute/met-gala-in-new-york-rihanna-praesentiert-babybauch-auf-dem-blauen-teppich](https://www.spiegel.de/panorama/leute/met-gala-in-new-york-rihanna-praesentiert-babybauch-auf-dem-blauen-teppich-a-44901d06-d179-4603-8986-832bd57b25b5#ref=rss)
+### sudan
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-spd-ministerposten-rumaenen-sean-diddy-combs](https://www.spiegel.de/politik/deutschland/news-des-tages-spd-ministerposten-rumaenen-sean-diddy-combs-a-8ed3c2c6-22ec-474e-b2be-f356fb43a4e7#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/paypal-so-will-der-bezahldienst-die-supermarkt-kasse-erobern](https://www.spiegel.de/netzwelt/apps/paypal-so-will-der-bezahldienst-die-supermarkt-kasse-erobern-a-0f45b64d-2bd6-4f82-9496-deb601a721a3#ref=rss)
-### komplett
+* [https://www.spiegel.de/ausland/sudan-augenzeugen-melden-explosionen-und-braende-aus-port-sudan](https://www.spiegel.de/ausland/sudan-augenzeugen-melden-explosionen-und-braende-aus-port-sudan-a-0559a4d6-3a9d-4c32-92f2-8293a1e6f2bb#ref=rss)
+### russland
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-spd-ministerposten-rumaenen-sean-diddy-combs](https://www.spiegel.de/politik/deutschland/news-des-tages-spd-ministerposten-rumaenen-sean-diddy-combs-a-8ed3c2c6-22ec-474e-b2be-f356fb43a4e7#ref=rss)
-### matthias
+* [https://www.spiegel.de/ausland/polen-wirft-russland-einmischung-in-praesidentschaftswahl-vor](https://www.spiegel.de/ausland/polen-wirft-russland-einmischung-in-praesidentschaftswahl-vor-a-bb6ce32d-9937-48ad-980b-ddcfa0d9f279#ref=rss)
+* [https://www.spiegel.de/ausland/russland-meldet-grossen-drohnenangriff-aus-der-ukraine](https://www.spiegel.de/ausland/russland-meldet-grossen-drohnenangriff-aus-der-ukraine-a-ab91381a-b946-4eb7-9b84-e01c5e163e32#ref=rss)
+### warnt
 
-* [https://www.spiegel.de/politik/deutschland/matthias-miersch-soll-spd-fraktionschef-werden](https://www.spiegel.de/politik/deutschland/matthias-miersch-soll-spd-fraktionschef-werden-a-31d44c1e-fbaa-4615-8197-c2d6ba455150#ref=rss)
-### miersch
+* [https://www.spiegel.de/ausland/polen-wirft-russland-einmischung-in-praesidentschaftswahl-vor](https://www.spiegel.de/ausland/polen-wirft-russland-einmischung-in-praesidentschaftswahl-vor-a-bb6ce32d-9937-48ad-980b-ddcfa0d9f279#ref=rss)
+* [https://www.spiegel.de/ausland/china-gruenen-eu-politiker-reinhard-buetikofer-warnt-vor-annaeherung-an-xi-jinping](https://www.spiegel.de/ausland/china-gruenen-eu-politiker-reinhard-buetikofer-warnt-vor-annaeherung-an-xi-jinping-a-7dc70bef-12fc-4bb7-bbe6-318c27b405fc#ref=rss)
+### met
 
-* [https://www.spiegel.de/politik/deutschland/matthias-miersch-soll-spd-fraktionschef-werden](https://www.spiegel.de/politik/deutschland/matthias-miersch-soll-spd-fraktionschef-werden-a-31d44c1e-fbaa-4615-8197-c2d6ba455150#ref=rss)
-### vizekanzler
-
-* [https://www.spiegel.de/politik/deutschland/matthias-miersch-soll-spd-fraktionschef-werden](https://www.spiegel.de/politik/deutschland/matthias-miersch-soll-spd-fraktionschef-werden-a-31d44c1e-fbaa-4615-8197-c2d6ba455150#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-ploetzlich-haelt-der-kuenftige-vize-kanzler-eine-art-regierungserklaerung](https://www.spiegel.de/politik/deutschland/lars-klingbeil-ploetzlich-haelt-der-kuenftige-vize-kanzler-eine-art-regierungserklaerung-a-e06ad174-5d6b-4efd-a478-52c186638d27#ref=rss)
-### deshalb
-
-* [https://www.spiegel.de/politik/deutschland/matthias-miersch-soll-spd-fraktionschef-werden](https://www.spiegel.de/politik/deutschland/matthias-miersch-soll-spd-fraktionschef-werden-a-31d44c1e-fbaa-4615-8197-c2d6ba455150#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/us-zoelle-wie-shein-temu-und-amazon-durch-donald-trump-unter-druck-geraten](https://www.spiegel.de/wirtschaft/unternehmen/us-zoelle-wie-shein-temu-und-amazon-durch-donald-trump-unter-druck-geraten-a-e259cb39-2b1a-4304-9544-50d54c051cb4#ref=rss)
-### geschäftsführer
-
-* [https://www.spiegel.de/politik/deutschland/matthias-miersch-soll-spd-fraktionschef-werden](https://www.spiegel.de/politik/deutschland/matthias-miersch-soll-spd-fraktionschef-werden-a-31d44c1e-fbaa-4615-8197-c2d6ba455150#ref=rss)
-* [https://www.spiegel.de/sport/fussball/1-fc-koeln-so-kam-es-zur-freistellung-von-christian-keller-und-gerhard-struber](https://www.spiegel.de/sport/fussball/1-fc-koeln-so-kam-es-zur-freistellung-von-christian-keller-und-gerhard-struber-a-d050e50d-755e-4017-9975-de291d6244d9#ref=rss)
-### miami
-
-* [https://www.spiegel.de/sport/formel1/grosser-preis-von-miami-ist-oscar-piastri-schon-der-kommende-champion-der-formel-1](https://www.spiegel.de/sport/formel1/grosser-preis-von-miami-ist-oscar-piastri-schon-der-kommende-champion-der-formel-1-a-6346df92-97ef-4fd7-bc6e-0078907599d6#ref=rss)
-### oscar
-
-* [https://www.spiegel.de/sport/formel1/grosser-preis-von-miami-ist-oscar-piastri-schon-der-kommende-champion-der-formel-1](https://www.spiegel.de/sport/formel1/grosser-preis-von-miami-ist-oscar-piastri-schon-der-kommende-champion-der-formel-1-a-6346df92-97ef-4fd7-bc6e-0078907599d6#ref=rss)
-### piastri
-
-* [https://www.spiegel.de/sport/formel1/grosser-preis-von-miami-ist-oscar-piastri-schon-der-kommende-champion-der-formel-1](https://www.spiegel.de/sport/formel1/grosser-preis-von-miami-ist-oscar-piastri-schon-der-kommende-champion-der-formel-1-a-6346df92-97ef-4fd7-bc6e-0078907599d6#ref=rss)
+* [https://www.spiegel.de/kultur/met-gala-2025-die-schoensten-looks-vom-blauen-teppich](https://www.spiegel.de/kultur/met-gala-2025-die-schoensten-looks-vom-blauen-teppich-a-29046d74-88ae-4098-b2e2-6e0c0db0d0d7#ref=rss)
+* [https://www.spiegel.de/panorama/leute/met-gala-in-new-york-rihanna-praesentiert-babybauch-auf-dem-blauen-teppich](https://www.spiegel.de/panorama/leute/met-gala-in-new-york-rihanna-praesentiert-babybauch-auf-dem-blauen-teppich-a-44901d06-d179-4603-8986-832bd57b25b5#ref=rss)
 ### jahre
 
-* [https://www.spiegel.de/sport/formel1/grosser-preis-von-miami-ist-oscar-piastri-schon-der-kommende-champion-der-formel-1](https://www.spiegel.de/sport/formel1/grosser-preis-von-miami-ist-oscar-piastri-schon-der-kommende-champion-der-formel-1-a-6346df92-97ef-4fd7-bc6e-0078907599d6#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-im-landkreis-lindau-jugendtrainer-greift-schiedsrichter-an-und-verletzt-ihn-leicht](https://www.spiegel.de/sport/fussball/fussball-im-landkreis-lindau-jugendtrainer-greift-schiedsrichter-an-und-verletzt-ihn-leicht-a-07f10ec9-2783-4e16-9a52-ab5e69c51fbc#ref=rss)
-### alte
+* [https://www.spiegel.de/panorama/justiz/autobahn-7-in-bayern-neun-jahre-nach-toedlichem-brueckeneinsturz-verfahren-gegen-statiker-eingestellt](https://www.spiegel.de/panorama/justiz/autobahn-7-in-bayern-neun-jahre-nach-toedlichem-brueckeneinsturz-verfahren-gegen-statiker-eingestellt-a-1e3427d8-563a-4a50-9dd9-d70e99c7d789#ref=rss)
+* [https://www.spiegel.de/panorama/leute/grossbritannien-ethel-caterham-ist-mit-115-jahren-der-aelteste-mensch-der-welt](https://www.spiegel.de/panorama/leute/grossbritannien-ethel-caterham-ist-mit-115-jahren-der-aelteste-mensch-der-welt-a-3fc468a6-da88-4abc-ae16-d45c6a463e2d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/pflege-gehaelter-in-gesundheitsberufen-steigen-deutlich](https://www.spiegel.de/wirtschaft/soziales/pflege-gehaelter-in-gesundheitsberufen-steigen-deutlich-a-e99791fe-7fb4-4a65-8742-22c1ea207e67#ref=rss)
+### mann
 
-* [https://www.spiegel.de/sport/formel1/grosser-preis-von-miami-ist-oscar-piastri-schon-der-kommende-champion-der-formel-1](https://www.spiegel.de/sport/formel1/grosser-preis-von-miami-ist-oscar-piastri-schon-der-kommende-champion-der-formel-1-a-6346df92-97ef-4fd7-bc6e-0078907599d6#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-seedrohnen-schiessen-russische-jets-ab](https://www.spiegel.de/ausland/ukraine-seedrohnen-schiessen-russische-jets-ab-a-c0634094-0684-4c0c-bebf-521ce61516ec#ref=rss)
-### seedrohnen
+* [https://www.spiegel.de/panorama/justiz/autobahn-7-in-bayern-neun-jahre-nach-toedlichem-brueckeneinsturz-verfahren-gegen-statiker-eingestellt](https://www.spiegel.de/panorama/justiz/autobahn-7-in-bayern-neun-jahre-nach-toedlichem-brueckeneinsturz-verfahren-gegen-statiker-eingestellt-a-1e3427d8-563a-4a50-9dd9-d70e99c7d789#ref=rss)
+* [https://www.spiegel.de/panorama/leute/jennifer-aniston-mann-durchbricht-mit-wagen-einfahrtstor-zu-villa-in-los-angeles](https://www.spiegel.de/panorama/leute/jennifer-aniston-mann-durchbricht-mit-wagen-einfahrtstor-zu-villa-in-los-angeles-a-8c312b30-5503-47a7-898a-d8f7a12eedbb#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/ausland/ukraine-seedrohnen-schiessen-russische-jets-ab](https://www.spiegel.de/ausland/ukraine-seedrohnen-schiessen-russische-jets-ab-a-c0634094-0684-4c0c-bebf-521ce61516ec#ref=rss)
-### russische
+* [https://www.spiegel.de/politik/deutschland/bundestag-friedrich-merz-scheitert-bei-kanzlerwahl-bodo-ramelow-kritisiert-ablauf](https://www.spiegel.de/politik/deutschland/bundestag-friedrich-merz-scheitert-bei-kanzlerwahl-bodo-ramelow-kritisiert-ablauf-a-171106a6-d704-4293-a3dd-ddb9f1c1e681#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-installierte-2024-nur-rund-20-kilometer-neue-oberleitungen](https://www.spiegel.de/wirtschaft/deutsche-bahn-installierte-2024-nur-rund-20-kilometer-neue-oberleitungen-a-6645ab61-abc1-4511-baa3-90c49af6498e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/landesumweltamt-genehmigt-hoeheren-schadstoff-ausstoss-der-oelraffinerie-pck](https://www.spiegel.de/wirtschaft/landesumweltamt-genehmigt-hoeheren-schadstoff-ausstoss-der-oelraffinerie-pck-a-b8aa0f8d-e291-4065-bc67-7ad2d0f2240b#ref=rss)
+### laut
 
-* [https://www.spiegel.de/ausland/ukraine-seedrohnen-schiessen-russische-jets-ab](https://www.spiegel.de/ausland/ukraine-seedrohnen-schiessen-russische-jets-ab-a-c0634094-0684-4c0c-bebf-521ce61516ec#ref=rss)
-### bremen
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-installierte-2024-nur-rund-20-kilometer-neue-oberleitungen](https://www.spiegel.de/wirtschaft/deutsche-bahn-installierte-2024-nur-rund-20-kilometer-neue-oberleitungen-a-6645ab61-abc1-4511-baa3-90c49af6498e#ref=rss)
+* [https://www.spiegel.de/panorama/leute/jennifer-aniston-mann-durchbricht-mit-wagen-einfahrtstor-zu-villa-in-los-angeles](https://www.spiegel.de/panorama/leute/jennifer-aniston-mann-durchbricht-mit-wagen-einfahrtstor-zu-villa-in-los-angeles-a-8c312b30-5503-47a7-898a-d8f7a12eedbb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wahl-zum-bundeskanzler-friedrich-merz-scheitert-wie-es-nun-laut-grundgesetz-weitergeht](https://www.spiegel.de/politik/deutschland/wahl-zum-bundeskanzler-friedrich-merz-scheitert-wie-es-nun-laut-grundgesetz-weitergeht-a-c24d1646-3dde-4e46-aa57-f2d94257b112#ref=rss)
+### jahr
 
-* [https://www.spiegel.de/wissenschaft/bremen-universitaet-und-alfred-wegener-institut-sichern-us-forschungsdaten](https://www.spiegel.de/wissenschaft/bremen-universitaet-und-alfred-wegener-institut-sichern-us-forschungsdaten-a-b2d70bd6-d3ef-4529-a4d8-f1899cb782b0#ref=rss)
-### universität
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-installierte-2024-nur-rund-20-kilometer-neue-oberleitungen](https://www.spiegel.de/wirtschaft/deutsche-bahn-installierte-2024-nur-rund-20-kilometer-neue-oberleitungen-a-6645ab61-abc1-4511-baa3-90c49af6498e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/pflege-gehaelter-in-gesundheitsberufen-steigen-deutlich](https://www.spiegel.de/wirtschaft/soziales/pflege-gehaelter-in-gesundheitsberufen-steigen-deutlich-a-e99791fe-7fb4-4a65-8742-22c1ea207e67#ref=rss)
+* [https://www.spiegel.de/panorama/leute/met-gala-in-new-york-rihanna-praesentiert-babybauch-auf-dem-blauen-teppich](https://www.spiegel.de/panorama/leute/met-gala-in-new-york-rihanna-praesentiert-babybauch-auf-dem-blauen-teppich-a-44901d06-d179-4603-8986-832bd57b25b5#ref=rss)
+### kanzler
 
-* [https://www.spiegel.de/wissenschaft/bremen-universitaet-und-alfred-wegener-institut-sichern-us-forschungsdaten](https://www.spiegel.de/wissenschaft/bremen-universitaet-und-alfred-wegener-institut-sichern-us-forschungsdaten-a-b2d70bd6-d3ef-4529-a4d8-f1899cb782b0#ref=rss)
-### alfredwegenerinstitut
+* [https://www.spiegel.de/politik/deutschland/wahl-zum-bundeskanzler-friedrich-merz-scheitert-wie-es-nun-laut-grundgesetz-weitergeht](https://www.spiegel.de/politik/deutschland/wahl-zum-bundeskanzler-friedrich-merz-scheitert-wie-es-nun-laut-grundgesetz-weitergeht-a-c24d1646-3dde-4e46-aa57-f2d94257b112#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-der-cdu-chef-faellt-als-kanzler-durch-bilder-eines-historischen-tages](https://www.spiegel.de/politik/friedrich-merz-der-cdu-chef-faellt-als-kanzler-durch-bilder-eines-historischen-tages-a-f4a065ed-79f4-4f1b-9f51-1a85b61c592b#ref=rss)
+### cduchef
 
-* [https://www.spiegel.de/wissenschaft/bremen-universitaet-und-alfred-wegener-institut-sichern-us-forschungsdaten](https://www.spiegel.de/wissenschaft/bremen-universitaet-und-alfred-wegener-institut-sichern-us-forschungsdaten-a-b2d70bd6-d3ef-4529-a4d8-f1899cb782b0#ref=rss)
-### olaf
+* [https://www.spiegel.de/politik/friedrich-merz-der-cdu-chef-faellt-als-kanzler-durch-bilder-eines-historischen-tages](https://www.spiegel.de/politik/friedrich-merz-der-cdu-chef-faellt-als-kanzler-durch-bilder-eines-historischen-tages-a-f4a065ed-79f4-4f1b-9f51-1a85b61c592b#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-cdu-chef-verpasst-kanzlermehrheit-im-ersten-wahlgang](https://www.spiegel.de/politik/friedrich-merz-cdu-chef-verpasst-kanzlermehrheit-im-ersten-wahlgang-a-b8f28f48-9e16-4c07-a3e3-4f60d02fdb3b#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-rueckblick-auf-eine-turbulente-amtszeit-mit-unerwartetem-abschluss](https://www.spiegel.de/politik/deutschland/olaf-scholz-rueckblick-auf-eine-turbulente-amtszeit-mit-unerwartetem-abschluss-a-1240d509-3ab5-4db1-ac55-a9ab206da7c9#ref=rss)
-### rückblick
+* [https://www.spiegel.de/panorama/leute/grossbritannien-ethel-caterham-ist-mit-115-jahren-der-aelteste-mensch-der-welt](https://www.spiegel.de/panorama/leute/grossbritannien-ethel-caterham-ist-mit-115-jahren-der-aelteste-mensch-der-welt-a-3fc468a6-da88-4abc-ae16-d45c6a463e2d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/brasilien-dieser-pfeilgiftfrosch-vom-amazonas-traegt-leopardenmuster](https://www.spiegel.de/wissenschaft/natur/brasilien-dieser-pfeilgiftfrosch-vom-amazonas-traegt-leopardenmuster-a-74ffd585-8c3e-47a2-b13b-8d112b25126e#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-rueckblick-auf-eine-turbulente-amtszeit-mit-unerwartetem-abschluss](https://www.spiegel.de/politik/deutschland/olaf-scholz-rueckblick-auf-eine-turbulente-amtszeit-mit-unerwartetem-abschluss-a-1240d509-3ab5-4db1-ac55-a9ab206da7c9#ref=rss)
-### turbulente
+* [https://www.spiegel.de/wirtschaft/soziales/pflege-gehaelter-in-gesundheitsberufen-steigen-deutlich](https://www.spiegel.de/wirtschaft/soziales/pflege-gehaelter-in-gesundheitsberufen-steigen-deutlich-a-e99791fe-7fb4-4a65-8742-22c1ea207e67#ref=rss)
+* [https://www.spiegel.de/ausland/china-gruenen-eu-politiker-reinhard-buetikofer-warnt-vor-annaeherung-an-xi-jinping](https://www.spiegel.de/ausland/china-gruenen-eu-politiker-reinhard-buetikofer-warnt-vor-annaeherung-an-xi-jinping-a-7dc70bef-12fc-4bb7-bbe6-318c27b405fc#ref=rss)
+* [https://www.spiegel.de/wirtschaft/landesumweltamt-genehmigt-hoeheren-schadstoff-ausstoss-der-oelraffinerie-pck](https://www.spiegel.de/wirtschaft/landesumweltamt-genehmigt-hoeheren-schadstoff-ausstoss-der-oelraffinerie-pck-a-b8aa0f8d-e291-4065-bc67-7ad2d0f2240b#ref=rss)
+### petr
 
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-rueckblick-auf-eine-turbulente-amtszeit-mit-unerwartetem-abschluss](https://www.spiegel.de/politik/deutschland/olaf-scholz-rueckblick-auf-eine-turbulente-amtszeit-mit-unerwartetem-abschluss-a-1240d509-3ab5-4db1-ac55-a9ab206da7c9#ref=rss)
-### amtszeit
+* [https://www.spiegel.de/politik/deutschland/petr-bystron-europaparlament-hebt-immunitaet-von-afd-politiker-auf](https://www.spiegel.de/politik/deutschland/petr-bystron-europaparlament-hebt-immunitaet-von-afd-politiker-auf-a-143a9443-9f96-4a6b-bf5f-4705091e9181#ref=rss)
+### bystron
 
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-rueckblick-auf-eine-turbulente-amtszeit-mit-unerwartetem-abschluss](https://www.spiegel.de/politik/deutschland/olaf-scholz-rueckblick-auf-eine-turbulente-amtszeit-mit-unerwartetem-abschluss-a-1240d509-3ab5-4db1-ac55-a9ab206da7c9#ref=rss)
-### paypal
+* [https://www.spiegel.de/politik/deutschland/petr-bystron-europaparlament-hebt-immunitaet-von-afd-politiker-auf](https://www.spiegel.de/politik/deutschland/petr-bystron-europaparlament-hebt-immunitaet-von-afd-politiker-auf-a-143a9443-9f96-4a6b-bf5f-4705091e9181#ref=rss)
+### immunität
 
-* [https://www.spiegel.de/netzwelt/apps/paypal-so-will-der-bezahldienst-die-supermarkt-kasse-erobern](https://www.spiegel.de/netzwelt/apps/paypal-so-will-der-bezahldienst-die-supermarkt-kasse-erobern-a-0f45b64d-2bd6-4f82-9496-deb601a721a3#ref=rss)
-### pay
+* [https://www.spiegel.de/politik/deutschland/petr-bystron-europaparlament-hebt-immunitaet-von-afd-politiker-auf](https://www.spiegel.de/politik/deutschland/petr-bystron-europaparlament-hebt-immunitaet-von-afd-politiker-auf-a-143a9443-9f96-4a6b-bf5f-4705091e9181#ref=rss)
+### polen
 
-* [https://www.spiegel.de/netzwelt/apps/paypal-so-will-der-bezahldienst-die-supermarkt-kasse-erobern](https://www.spiegel.de/netzwelt/apps/paypal-so-will-der-bezahldienst-die-supermarkt-kasse-erobern-a-0f45b64d-2bd6-4f82-9496-deb601a721a3#ref=rss)
-### forschende
+* [https://www.spiegel.de/ausland/polen-wirft-russland-einmischung-in-praesidentschaftswahl-vor](https://www.spiegel.de/ausland/polen-wirft-russland-einmischung-in-praesidentschaftswahl-vor-a-bb6ce32d-9937-48ad-980b-ddcfa0d9f279#ref=rss)
+### präsidentschaftswahl
 
-* [https://www.spiegel.de/wissenschaft/natur/unterwasservulkan-im-pazifik-forschende-beobachten-vulkanausbruch-in-der-tiefsee](https://www.spiegel.de/wissenschaft/natur/unterwasservulkan-im-pazifik-forschende-beobachten-vulkanausbruch-in-der-tiefsee-a-f506dbbb-df3f-4552-8779-4201e0fda7bd#ref=rss)
-### donald
+* [https://www.spiegel.de/ausland/polen-wirft-russland-einmischung-in-praesidentschaftswahl-vor](https://www.spiegel.de/ausland/polen-wirft-russland-einmischung-in-praesidentschaftswahl-vor-a-bb6ce32d-9937-48ad-980b-ddcfa0d9f279#ref=rss)
+* [https://www.spiegel.de/ausland/rumaenien-innenminister-catalin-predoiu-wird-interims-regierungschef](https://www.spiegel.de/ausland/rumaenien-innenminister-catalin-predoiu-wird-interims-regierungschef-a-f2b7837a-0084-46f1-b1de-066092e572fe#ref=rss)
+### gewählt
 
-* [https://www.spiegel.de/kultur/kino/donald-trumps-zoll-androhung-fuer-hollywood-panik-in-der-traumfabrik](https://www.spiegel.de/kultur/kino/donald-trumps-zoll-androhung-fuer-hollywood-panik-in-der-traumfabrik-a-ce1b71bc-2ac3-4346-bb7b-5c4f29dd5261#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/us-zoelle-wie-shein-temu-und-amazon-durch-donald-trump-unter-druck-geraten](https://www.spiegel.de/wirtschaft/unternehmen/us-zoelle-wie-shein-temu-und-amazon-durch-donald-trump-unter-druck-geraten-a-e259cb39-2b1a-4304-9544-50d54c051cb4#ref=rss)
-### hollywood
+* [https://www.spiegel.de/ausland/polen-wirft-russland-einmischung-in-praesidentschaftswahl-vor](https://www.spiegel.de/ausland/polen-wirft-russland-einmischung-in-praesidentschaftswahl-vor-a-bb6ce32d-9937-48ad-980b-ddcfa0d9f279#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-cdu-chef-verpasst-kanzlermehrheit-im-ersten-wahlgang](https://www.spiegel.de/politik/friedrich-merz-cdu-chef-verpasst-kanzlermehrheit-im-ersten-wahlgang-a-b8f28f48-9e16-4c07-a3e3-4f60d02fdb3b#ref=rss)
+### regierung
 
-* [https://www.spiegel.de/kultur/kino/donald-trumps-zoll-androhung-fuer-hollywood-panik-in-der-traumfabrik](https://www.spiegel.de/kultur/kino/donald-trumps-zoll-androhung-fuer-hollywood-panik-in-der-traumfabrik-a-ce1b71bc-2ac3-4346-bb7b-5c4f29dd5261#ref=rss)
-### mutter
+* [https://www.spiegel.de/ausland/polen-wirft-russland-einmischung-in-praesidentschaftswahl-vor](https://www.spiegel.de/ausland/polen-wirft-russland-einmischung-in-praesidentschaftswahl-vor-a-bb6ce32d-9937-48ad-980b-ddcfa0d9f279#ref=rss)
+* [https://www.spiegel.de/ausland/rumaenien-innenminister-catalin-predoiu-wird-interims-regierungschef](https://www.spiegel.de/ausland/rumaenien-innenminister-catalin-predoiu-wird-interims-regierungschef-a-f2b7837a-0084-46f1-b1de-066092e572fe#ref=rss)
+### blauen
 
-* [https://www.spiegel.de/familie/traumata-in-der-familie-meine-mutter-ist-obdachlos](https://www.spiegel.de/familie/traumata-in-der-familie-meine-mutter-ist-obdachlos-a-9d0f152c-9d04-4696-a79c-afe1bc1f9a55#ref=rss)
-### ich
+* [https://www.spiegel.de/kultur/met-gala-2025-die-schoensten-looks-vom-blauen-teppich](https://www.spiegel.de/kultur/met-gala-2025-die-schoensten-looks-vom-blauen-teppich-a-29046d74-88ae-4098-b2e2-6e0c0db0d0d7#ref=rss)
+* [https://www.spiegel.de/panorama/leute/met-gala-in-new-york-rihanna-praesentiert-babybauch-auf-dem-blauen-teppich](https://www.spiegel.de/panorama/leute/met-gala-in-new-york-rihanna-praesentiert-babybauch-auf-dem-blauen-teppich-a-44901d06-d179-4603-8986-832bd57b25b5#ref=rss)
+### teppich
 
-* [https://www.spiegel.de/familie/traumata-in-der-familie-meine-mutter-ist-obdachlos](https://www.spiegel.de/familie/traumata-in-der-familie-meine-mutter-ist-obdachlos-a-9d0f152c-9d04-4696-a79c-afe1bc1f9a55#ref=rss)
+* [https://www.spiegel.de/kultur/met-gala-2025-die-schoensten-looks-vom-blauen-teppich](https://www.spiegel.de/kultur/met-gala-2025-die-schoensten-looks-vom-blauen-teppich-a-29046d74-88ae-4098-b2e2-6e0c0db0d0d7#ref=rss)
+* [https://www.spiegel.de/panorama/leute/met-gala-in-new-york-rihanna-praesentiert-babybauch-auf-dem-blauen-teppich](https://www.spiegel.de/panorama/leute/met-gala-in-new-york-rihanna-praesentiert-babybauch-auf-dem-blauen-teppich-a-44901d06-d179-4603-8986-832bd57b25b5#ref=rss)
+### new
+
+* [https://www.spiegel.de/kultur/met-gala-2025-die-schoensten-looks-vom-blauen-teppich](https://www.spiegel.de/kultur/met-gala-2025-die-schoensten-looks-vom-blauen-teppich-a-29046d74-88ae-4098-b2e2-6e0c0db0d0d7#ref=rss)
+* [https://www.spiegel.de/panorama/leute/met-gala-in-new-york-rihanna-praesentiert-babybauch-auf-dem-blauen-teppich](https://www.spiegel.de/panorama/leute/met-gala-in-new-york-rihanna-praesentiert-babybauch-auf-dem-blauen-teppich-a-44901d06-d179-4603-8986-832bd57b25b5#ref=rss)
+### art
+
+* [https://www.spiegel.de/kultur/met-gala-2025-die-schoensten-looks-vom-blauen-teppich](https://www.spiegel.de/kultur/met-gala-2025-die-schoensten-looks-vom-blauen-teppich-a-29046d74-88ae-4098-b2e2-6e0c0db0d0d7#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/brasilien-dieser-pfeilgiftfrosch-vom-amazonas-traegt-leopardenmuster](https://www.spiegel.de/wissenschaft/natur/brasilien-dieser-pfeilgiftfrosch-vom-amazonas-traegt-leopardenmuster-a-74ffd585-8c3e-47a2-b13b-8d112b25126e#ref=rss)
+### diesem
+
+* [https://www.spiegel.de/kultur/met-gala-2025-die-schoensten-looks-vom-blauen-teppich](https://www.spiegel.de/kultur/met-gala-2025-die-schoensten-looks-vom-blauen-teppich-a-29046d74-88ae-4098-b2e2-6e0c0db0d0d7#ref=rss)
+* [https://www.spiegel.de/panorama/leute/met-gala-in-new-york-rihanna-praesentiert-babybauch-auf-dem-blauen-teppich](https://www.spiegel.de/panorama/leute/met-gala-in-new-york-rihanna-praesentiert-babybauch-auf-dem-blauen-teppich-a-44901d06-d179-4603-8986-832bd57b25b5#ref=rss)
+### eingestellt
+
+* [https://www.spiegel.de/panorama/justiz/autobahn-7-in-bayern-neun-jahre-nach-toedlichem-brueckeneinsturz-verfahren-gegen-statiker-eingestellt](https://www.spiegel.de/panorama/justiz/autobahn-7-in-bayern-neun-jahre-nach-toedlichem-brueckeneinsturz-verfahren-gegen-statiker-eingestellt-a-1e3427d8-563a-4a50-9dd9-d70e99c7d789#ref=rss)
+* [https://www.spiegel.de/ausland/russland-meldet-grossen-drohnenangriff-aus-der-ukraine](https://www.spiegel.de/ausland/russland-meldet-grossen-drohnenangriff-aus-der-ukraine-a-ab91381a-b946-4eb7-9b84-e01c5e163e32#ref=rss)
+### bayerns
+
+* [https://www.spiegel.de/panorama/justiz/autobahn-7-in-bayern-neun-jahre-nach-toedlichem-brueckeneinsturz-verfahren-gegen-statiker-eingestellt](https://www.spiegel.de/panorama/justiz/autobahn-7-in-bayern-neun-jahre-nach-toedlichem-brueckeneinsturz-verfahren-gegen-statiker-eingestellt-a-1e3427d8-563a-4a50-9dd9-d70e99c7d789#ref=rss)
+* [https://www.spiegel.de/sport/fussball/bayern-muenchen-uli-hoeness-wuerdigt-langjaehrigen-freund-und-ex-trainer-jupp-heynckes](https://www.spiegel.de/sport/fussball/bayern-muenchen-uli-hoeness-wuerdigt-langjaehrigen-freund-und-ex-trainer-jupp-heynckes-a-fa5f86ce-aeb3-4199-bf5f-fe7d89f487ef#ref=rss)
+### verantwortlich
+
+* [https://www.spiegel.de/politik/deutschland/spd-und-cdu-csu-schuldfrage-nach-gescheiterter-kanzlerwahl-von-friedrich-merz-meinung](https://www.spiegel.de/politik/deutschland/spd-und-cdu-csu-schuldfrage-nach-gescheiterter-kanzlerwahl-von-friedrich-merz-meinung-a-573bdecd-933c-4b52-b9da-359051b53a03#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-finale-2022-frankreichs-justizminister-gerald-darmanin-entschuldigt-sich-bei-liverpool-fans](https://www.spiegel.de/sport/fussball/champions-league-finale-2022-frankreichs-justizminister-gerald-darmanin-entschuldigt-sich-bei-liverpool-fans-a-fae91781-d967-48bc-aa48-489fe2409d63#ref=rss)
+### scheitert
+
+* [https://www.spiegel.de/politik/deutschland/bundestag-friedrich-merz-scheitert-bei-kanzlerwahl-bodo-ramelow-kritisiert-ablauf](https://www.spiegel.de/politik/deutschland/bundestag-friedrich-merz-scheitert-bei-kanzlerwahl-bodo-ramelow-kritisiert-ablauf-a-171106a6-d704-4293-a3dd-ddb9f1c1e681#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wahl-zum-bundeskanzler-friedrich-merz-scheitert-wie-es-nun-laut-grundgesetz-weitergeht](https://www.spiegel.de/politik/deutschland/wahl-zum-bundeskanzler-friedrich-merz-scheitert-wie-es-nun-laut-grundgesetz-weitergeht-a-c24d1646-3dde-4e46-aa57-f2d94257b112#ref=rss)
+### trägt
+
+* [https://www.spiegel.de/politik/deutschland/bundestag-friedrich-merz-scheitert-bei-kanzlerwahl-bodo-ramelow-kritisiert-ablauf](https://www.spiegel.de/politik/deutschland/bundestag-friedrich-merz-scheitert-bei-kanzlerwahl-bodo-ramelow-kritisiert-ablauf-a-171106a6-d704-4293-a3dd-ddb9f1c1e681#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/brasilien-dieser-pfeilgiftfrosch-vom-amazonas-traegt-leopardenmuster](https://www.spiegel.de/wissenschaft/natur/brasilien-dieser-pfeilgiftfrosch-vom-amazonas-traegt-leopardenmuster-a-74ffd585-8c3e-47a2-b13b-8d112b25126e#ref=rss)
 ### kam
 
-* [https://www.spiegel.de/familie/traumata-in-der-familie-meine-mutter-ist-obdachlos](https://www.spiegel.de/familie/traumata-in-der-familie-meine-mutter-ist-obdachlos-a-9d0f152c-9d04-4696-a79c-afe1bc1f9a55#ref=rss)
-* [https://www.spiegel.de/sport/fussball/1-fc-koeln-so-kam-es-zur-freistellung-von-christian-keller-und-gerhard-struber](https://www.spiegel.de/sport/fussball/1-fc-koeln-so-kam-es-zur-freistellung-von-christian-keller-und-gerhard-struber-a-d050e50d-755e-4017-9975-de291d6244d9#ref=rss)
-### edmundo
+* [https://www.spiegel.de/politik/deutschland/bundestag-friedrich-merz-scheitert-bei-kanzlerwahl-bodo-ramelow-kritisiert-ablauf](https://www.spiegel.de/politik/deutschland/bundestag-friedrich-merz-scheitert-bei-kanzlerwahl-bodo-ramelow-kritisiert-ablauf-a-171106a6-d704-4293-a3dd-ddb9f1c1e681#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wahl-zum-bundeskanzler-friedrich-merz-scheitert-wie-es-nun-laut-grundgesetz-weitergeht](https://www.spiegel.de/politik/deutschland/wahl-zum-bundeskanzler-friedrich-merz-scheitert-wie-es-nun-laut-grundgesetz-weitergeht-a-c24d1646-3dde-4e46-aa57-f2d94257b112#ref=rss)
+### bahn
 
-* [https://www.spiegel.de/ausland/edmundo-gonzalez-venezuelas-oppositionsfuehrer-in-spanisches-krankenhaus-eingeliefert](https://www.spiegel.de/ausland/edmundo-gonzalez-venezuelas-oppositionsfuehrer-in-spanisches-krankenhaus-eingeliefert-a-a6907c9b-bf87-44b0-b948-039809762e87#ref=rss)
-### gonzález
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-installierte-2024-nur-rund-20-kilometer-neue-oberleitungen](https://www.spiegel.de/wirtschaft/deutsche-bahn-installierte-2024-nur-rund-20-kilometer-neue-oberleitungen-a-6645ab61-abc1-4511-baa3-90c49af6498e#ref=rss)
+### rund
 
-* [https://www.spiegel.de/ausland/edmundo-gonzalez-venezuelas-oppositionsfuehrer-in-spanisches-krankenhaus-eingeliefert](https://www.spiegel.de/ausland/edmundo-gonzalez-venezuelas-oppositionsfuehrer-in-spanisches-krankenhaus-eingeliefert-a-a6907c9b-bf87-44b0-b948-039809762e87#ref=rss)
-### venezuelas
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-installierte-2024-nur-rund-20-kilometer-neue-oberleitungen](https://www.spiegel.de/wirtschaft/deutsche-bahn-installierte-2024-nur-rund-20-kilometer-neue-oberleitungen-a-6645ab61-abc1-4511-baa3-90c49af6498e#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-finale-2022-frankreichs-justizminister-gerald-darmanin-entschuldigt-sich-bei-liverpool-fans](https://www.spiegel.de/sport/fussball/champions-league-finale-2022-frankreichs-justizminister-gerald-darmanin-entschuldigt-sich-bei-liverpool-fans-a-fae91781-d967-48bc-aa48-489fe2409d63#ref=rss)
+### kilometer
 
-* [https://www.spiegel.de/ausland/edmundo-gonzalez-venezuelas-oppositionsfuehrer-in-spanisches-krankenhaus-eingeliefert](https://www.spiegel.de/ausland/edmundo-gonzalez-venezuelas-oppositionsfuehrer-in-spanisches-krankenhaus-eingeliefert-a-a6907c9b-bf87-44b0-b948-039809762e87#ref=rss)
-### krankenhaus
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-installierte-2024-nur-rund-20-kilometer-neue-oberleitungen](https://www.spiegel.de/wirtschaft/deutsche-bahn-installierte-2024-nur-rund-20-kilometer-neue-oberleitungen-a-6645ab61-abc1-4511-baa3-90c49af6498e#ref=rss)
+### neue
 
-* [https://www.spiegel.de/ausland/edmundo-gonzalez-venezuelas-oppositionsfuehrer-in-spanisches-krankenhaus-eingeliefert](https://www.spiegel.de/ausland/edmundo-gonzalez-venezuelas-oppositionsfuehrer-in-spanisches-krankenhaus-eingeliefert-a-a6907c9b-bf87-44b0-b948-039809762e87#ref=rss)
-### shein
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-installierte-2024-nur-rund-20-kilometer-neue-oberleitungen](https://www.spiegel.de/wirtschaft/deutsche-bahn-installierte-2024-nur-rund-20-kilometer-neue-oberleitungen-a-6645ab61-abc1-4511-baa3-90c49af6498e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/brasilien-dieser-pfeilgiftfrosch-vom-amazonas-traegt-leopardenmuster](https://www.spiegel.de/wissenschaft/natur/brasilien-dieser-pfeilgiftfrosch-vom-amazonas-traegt-leopardenmuster-a-74ffd585-8c3e-47a2-b13b-8d112b25126e#ref=rss)
+### eigentlich
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/us-zoelle-wie-shein-temu-und-amazon-durch-donald-trump-unter-druck-geraten](https://www.spiegel.de/wirtschaft/unternehmen/us-zoelle-wie-shein-temu-und-amazon-durch-donald-trump-unter-druck-geraten-a-e259cb39-2b1a-4304-9544-50d54c051cb4#ref=rss)
-### temu
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-installierte-2024-nur-rund-20-kilometer-neue-oberleitungen](https://www.spiegel.de/wirtschaft/deutsche-bahn-installierte-2024-nur-rund-20-kilometer-neue-oberleitungen-a-6645ab61-abc1-4511-baa3-90c49af6498e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/landesumweltamt-genehmigt-hoeheren-schadstoff-ausstoss-der-oelraffinerie-pck](https://www.spiegel.de/wirtschaft/landesumweltamt-genehmigt-hoeheren-schadstoff-ausstoss-der-oelraffinerie-pck-a-b8aa0f8d-e291-4065-bc67-7ad2d0f2240b#ref=rss)
+### mehrere
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/us-zoelle-wie-shein-temu-und-amazon-durch-donald-trump-unter-druck-geraten](https://www.spiegel.de/wirtschaft/unternehmen/us-zoelle-wie-shein-temu-und-amazon-durch-donald-trump-unter-druck-geraten-a-e259cb39-2b1a-4304-9544-50d54c051cb4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-installierte-2024-nur-rund-20-kilometer-neue-oberleitungen](https://www.spiegel.de/wirtschaft/deutsche-bahn-installierte-2024-nur-rund-20-kilometer-neue-oberleitungen-a-6645ab61-abc1-4511-baa3-90c49af6498e#ref=rss)
+* [https://www.spiegel.de/sport/england-zwei-tote-bei-massencrash-in-unterklassigem-motorradrennen](https://www.spiegel.de/sport/england-zwei-tote-bei-massencrash-in-unterklassigem-motorradrennen-a-3843e7be-c737-4ed8-9548-212638880794#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/politik/deutschland/kanzlerwahl-news-friedrich-merz-duepiert-fraktionen-verhandeln-ueber-neuen-termin](https://www.spiegel.de/politik/deutschland/kanzlerwahl-news-friedrich-merz-duepiert-fraktionen-verhandeln-ueber-neuen-termin-a-31b0d49d-b84c-4f58-a0ee-590e325c4be6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elon-musk-hat-aerger-mit-seinen-nachbarn](https://www.spiegel.de/wirtschaft/elon-musk-hat-aerger-mit-seinen-nachbarn-a-2abc3850-6301-4bf2-8228-af68f5e46c1b#ref=rss)
+### durchgefallen
+
+* [https://www.spiegel.de/politik/deutschland/kanzlerwahl-news-friedrich-merz-duepiert-fraktionen-verhandeln-ueber-neuen-termin](https://www.spiegel.de/politik/deutschland/kanzlerwahl-news-friedrich-merz-duepiert-fraktionen-verhandeln-ueber-neuen-termin-a-31b0d49d-b84c-4f58-a0ee-590e325c4be6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-der-schock-moment-im-bundestag](https://www.spiegel.de/politik/deutschland/friedrich-merz-der-schock-moment-im-bundestag-a-55e47a02-905b-46f1-be84-e7fffcff4330#ref=rss)
+### zunächst
+
+* [https://www.spiegel.de/politik/deutschland/kanzlerwahl-news-friedrich-merz-duepiert-fraktionen-verhandeln-ueber-neuen-termin](https://www.spiegel.de/politik/deutschland/kanzlerwahl-news-friedrich-merz-duepiert-fraktionen-verhandeln-ueber-neuen-termin-a-31b0d49d-b84c-4f58-a0ee-590e325c4be6#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-finale-2022-frankreichs-justizminister-gerald-darmanin-entschuldigt-sich-bei-liverpool-fans](https://www.spiegel.de/sport/fussball/champions-league-finale-2022-frankreichs-justizminister-gerald-darmanin-entschuldigt-sich-bei-liverpool-fans-a-fae91781-d967-48bc-aa48-489fe2409d63#ref=rss)
+### herrscht
+
+* [https://www.spiegel.de/politik/deutschland/kanzlerwahl-news-friedrich-merz-duepiert-fraktionen-verhandeln-ueber-neuen-termin](https://www.spiegel.de/politik/deutschland/kanzlerwahl-news-friedrich-merz-duepiert-fraktionen-verhandeln-ueber-neuen-termin-a-31b0d49d-b84c-4f58-a0ee-590e325c4be6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-der-schock-moment-im-bundestag](https://www.spiegel.de/politik/deutschland/friedrich-merz-der-schock-moment-im-bundestag-a-55e47a02-905b-46f1-be84-e7fffcff4330#ref=rss)
+### 2022
+
+* [https://www.spiegel.de/sport/fussball/champions-league-finale-2022-frankreichs-justizminister-gerald-darmanin-entschuldigt-sich-bei-liverpool-fans](https://www.spiegel.de/sport/fussball/champions-league-finale-2022-frankreichs-justizminister-gerald-darmanin-entschuldigt-sich-bei-liverpool-fans-a-fae91781-d967-48bc-aa48-489fe2409d63#ref=rss)
+### gérald
+
+* [https://www.spiegel.de/sport/fussball/champions-league-finale-2022-frankreichs-justizminister-gerald-darmanin-entschuldigt-sich-bei-liverpool-fans](https://www.spiegel.de/sport/fussball/champions-league-finale-2022-frankreichs-justizminister-gerald-darmanin-entschuldigt-sich-bei-liverpool-fans-a-fae91781-d967-48bc-aa48-489fe2409d63#ref=rss)
+### darmanin
+
+* [https://www.spiegel.de/sport/fussball/champions-league-finale-2022-frankreichs-justizminister-gerald-darmanin-entschuldigt-sich-bei-liverpool-fans](https://www.spiegel.de/sport/fussball/champions-league-finale-2022-frankreichs-justizminister-gerald-darmanin-entschuldigt-sich-bei-liverpool-fans-a-fae91781-d967-48bc-aa48-489fe2409d63#ref=rss)
+### entschuldigt
+
+* [https://www.spiegel.de/sport/fussball/champions-league-finale-2022-frankreichs-justizminister-gerald-darmanin-entschuldigt-sich-bei-liverpool-fans](https://www.spiegel.de/sport/fussball/champions-league-finale-2022-frankreichs-justizminister-gerald-darmanin-entschuldigt-sich-bei-liverpool-fans-a-fae91781-d967-48bc-aa48-489fe2409d63#ref=rss)
+### jennifer
+
+* [https://www.spiegel.de/panorama/leute/jennifer-aniston-mann-durchbricht-mit-wagen-einfahrtstor-zu-villa-in-los-angeles](https://www.spiegel.de/panorama/leute/jennifer-aniston-mann-durchbricht-mit-wagen-einfahrtstor-zu-villa-in-los-angeles-a-8c312b30-5503-47a7-898a-d8f7a12eedbb#ref=rss)
+### aniston
+
+* [https://www.spiegel.de/panorama/leute/jennifer-aniston-mann-durchbricht-mit-wagen-einfahrtstor-zu-villa-in-los-angeles](https://www.spiegel.de/panorama/leute/jennifer-aniston-mann-durchbricht-mit-wagen-einfahrtstor-zu-villa-in-los-angeles-a-8c312b30-5503-47a7-898a-d8f7a12eedbb#ref=rss)
+### wagen
+
+* [https://www.spiegel.de/panorama/leute/jennifer-aniston-mann-durchbricht-mit-wagen-einfahrtstor-zu-villa-in-los-angeles](https://www.spiegel.de/panorama/leute/jennifer-aniston-mann-durchbricht-mit-wagen-einfahrtstor-zu-villa-in-los-angeles-a-8c312b30-5503-47a7-898a-d8f7a12eedbb#ref=rss)
+### einfahrtstor
+
+* [https://www.spiegel.de/panorama/leute/jennifer-aniston-mann-durchbricht-mit-wagen-einfahrtstor-zu-villa-in-los-angeles](https://www.spiegel.de/panorama/leute/jennifer-aniston-mann-durchbricht-mit-wagen-einfahrtstor-zu-villa-in-los-angeles-a-8c312b30-5503-47a7-898a-d8f7a12eedbb#ref=rss)
+### villa
+
+* [https://www.spiegel.de/panorama/leute/jennifer-aniston-mann-durchbricht-mit-wagen-einfahrtstor-zu-villa-in-los-angeles](https://www.spiegel.de/panorama/leute/jennifer-aniston-mann-durchbricht-mit-wagen-einfahrtstor-zu-villa-in-los-angeles-a-8c312b30-5503-47a7-898a-d8f7a12eedbb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elon-musk-hat-aerger-mit-seinen-nachbarn](https://www.spiegel.de/wirtschaft/elon-musk-hat-aerger-mit-seinen-nachbarn-a-2abc3850-6301-4bf2-8228-af68f5e46c1b#ref=rss)
+### donald
+
+* [https://www.spiegel.de/wissenschaft/medizin/donald-trump-usa-stoppen-gain-of-function-forschung-an-viren](https://www.spiegel.de/wissenschaft/medizin/donald-trump-usa-stoppen-gain-of-function-forschung-an-viren-a-e2191efb-3127-4c7b-8870-852311580302#ref=rss)
+### trump
+
+* [https://www.spiegel.de/wissenschaft/medizin/donald-trump-usa-stoppen-gain-of-function-forschung-an-viren](https://www.spiegel.de/wissenschaft/medizin/donald-trump-usa-stoppen-gain-of-function-forschung-an-viren-a-e2191efb-3127-4c7b-8870-852311580302#ref=rss)
+### innenminister
+
+* [https://www.spiegel.de/ausland/rumaenien-innenminister-catalin-predoiu-wird-interims-regierungschef](https://www.spiegel.de/ausland/rumaenien-innenminister-catalin-predoiu-wird-interims-regierungschef-a-f2b7837a-0084-46f1-b1de-066092e572fe#ref=rss)
+### predoiu
+
+* [https://www.spiegel.de/ausland/rumaenien-innenminister-catalin-predoiu-wird-interims-regierungschef](https://www.spiegel.de/ausland/rumaenien-innenminister-catalin-predoiu-wird-interims-regierungschef-a-f2b7837a-0084-46f1-b1de-066092e572fe#ref=rss)
+### bundeskanzler
+
+* [https://www.spiegel.de/politik/deutschland/wahl-zum-bundeskanzler-friedrich-merz-scheitert-wie-es-nun-laut-grundgesetz-weitergeht](https://www.spiegel.de/politik/deutschland/wahl-zum-bundeskanzler-friedrich-merz-scheitert-wie-es-nun-laut-grundgesetz-weitergeht-a-c24d1646-3dde-4e46-aa57-f2d94257b112#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-cdu-chef-verpasst-kanzlermehrheit-im-ersten-wahlgang](https://www.spiegel.de/politik/friedrich-merz-cdu-chef-verpasst-kanzlermehrheit-im-ersten-wahlgang-a-b8f28f48-9e16-4c07-a3e3-4f60d02fdb3b#ref=rss)
+### grundgesetz
+
+* [https://www.spiegel.de/politik/deutschland/wahl-zum-bundeskanzler-friedrich-merz-scheitert-wie-es-nun-laut-grundgesetz-weitergeht](https://www.spiegel.de/politik/deutschland/wahl-zum-bundeskanzler-friedrich-merz-scheitert-wie-es-nun-laut-grundgesetz-weitergeht-a-c24d1646-3dde-4e46-aa57-f2d94257b112#ref=rss)
+### stimmen
+
+* [https://www.spiegel.de/politik/deutschland/wahl-zum-bundeskanzler-friedrich-merz-scheitert-wie-es-nun-laut-grundgesetz-weitergeht](https://www.spiegel.de/politik/deutschland/wahl-zum-bundeskanzler-friedrich-merz-scheitert-wie-es-nun-laut-grundgesetz-weitergeht-a-c24d1646-3dde-4e46-aa57-f2d94257b112#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-cdu-chef-verpasst-kanzlermehrheit-im-ersten-wahlgang](https://www.spiegel.de/politik/friedrich-merz-cdu-chef-verpasst-kanzlermehrheit-im-ersten-wahlgang-a-b8f28f48-9e16-4c07-a3e3-4f60d02fdb3b#ref=rss)
+### fällt
+
+* [https://www.spiegel.de/politik/friedrich-merz-der-cdu-chef-faellt-als-kanzler-durch-bilder-eines-historischen-tages](https://www.spiegel.de/politik/friedrich-merz-der-cdu-chef-faellt-als-kanzler-durch-bilder-eines-historischen-tages-a-f4a065ed-79f4-4f1b-9f51-1a85b61c592b#ref=rss)
+### tages
+
+* [https://www.spiegel.de/politik/friedrich-merz-der-cdu-chef-faellt-als-kanzler-durch-bilder-eines-historischen-tages](https://www.spiegel.de/politik/friedrich-merz-der-cdu-chef-faellt-als-kanzler-durch-bilder-eines-historischen-tages-a-f4a065ed-79f4-4f1b-9f51-1a85b61c592b#ref=rss)
+### telemessage
+
+* [https://www.spiegel.de/netzwelt/apps/telemessage-messenger-wurde-doppelt-gehackt-und-wird-abgeschaltet](https://www.spiegel.de/netzwelt/apps/telemessage-messenger-wurde-doppelt-gehackt-und-wird-abgeschaltet-a-8c975f24-ce97-48ef-9d01-94ffb81af019#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/sport/england-zwei-tote-bei-massencrash-in-unterklassigem-motorradrennen](https://www.spiegel.de/sport/england-zwei-tote-bei-massencrash-in-unterklassigem-motorradrennen-a-3843e7be-c737-4ed8-9548-212638880794#ref=rss)
+### motorradrennen
+
+* [https://www.spiegel.de/sport/england-zwei-tote-bei-massencrash-in-unterklassigem-motorradrennen](https://www.spiegel.de/sport/england-zwei-tote-bei-massencrash-in-unterklassigem-motorradrennen-a-3843e7be-c737-4ed8-9548-212638880794#ref=rss)
+### ethel
+
+* [https://www.spiegel.de/panorama/leute/grossbritannien-ethel-caterham-ist-mit-115-jahren-der-aelteste-mensch-der-welt](https://www.spiegel.de/panorama/leute/grossbritannien-ethel-caterham-ist-mit-115-jahren-der-aelteste-mensch-der-welt-a-3fc468a6-da88-4abc-ae16-d45c6a463e2d#ref=rss)
+### caterham
+
+* [https://www.spiegel.de/panorama/leute/grossbritannien-ethel-caterham-ist-mit-115-jahren-der-aelteste-mensch-der-welt](https://www.spiegel.de/panorama/leute/grossbritannien-ethel-caterham-ist-mit-115-jahren-der-aelteste-mensch-der-welt-a-3fc468a6-da88-4abc-ae16-d45c6a463e2d#ref=rss)
+### 115
+
+* [https://www.spiegel.de/panorama/leute/grossbritannien-ethel-caterham-ist-mit-115-jahren-der-aelteste-mensch-der-welt](https://www.spiegel.de/panorama/leute/grossbritannien-ethel-caterham-ist-mit-115-jahren-der-aelteste-mensch-der-welt-a-3fc468a6-da88-4abc-ae16-d45c6a463e2d#ref=rss)
+### älteste
+
+* [https://www.spiegel.de/panorama/leute/grossbritannien-ethel-caterham-ist-mit-115-jahren-der-aelteste-mensch-der-welt](https://www.spiegel.de/panorama/leute/grossbritannien-ethel-caterham-ist-mit-115-jahren-der-aelteste-mensch-der-welt-a-3fc468a6-da88-4abc-ae16-d45c6a463e2d#ref=rss)
+### mensch
+
+* [https://www.spiegel.de/panorama/leute/grossbritannien-ethel-caterham-ist-mit-115-jahren-der-aelteste-mensch-der-welt](https://www.spiegel.de/panorama/leute/grossbritannien-ethel-caterham-ist-mit-115-jahren-der-aelteste-mensch-der-welt-a-3fc468a6-da88-4abc-ae16-d45c6a463e2d#ref=rss)
+### welt
+
+* [https://www.spiegel.de/panorama/leute/grossbritannien-ethel-caterham-ist-mit-115-jahren-der-aelteste-mensch-der-welt](https://www.spiegel.de/panorama/leute/grossbritannien-ethel-caterham-ist-mit-115-jahren-der-aelteste-mensch-der-welt-a-3fc468a6-da88-4abc-ae16-d45c6a463e2d#ref=rss)
+### fünf
+
+* [https://www.spiegel.de/panorama/leute/grossbritannien-ethel-caterham-ist-mit-115-jahren-der-aelteste-mensch-der-welt](https://www.spiegel.de/panorama/leute/grossbritannien-ethel-caterham-ist-mit-115-jahren-der-aelteste-mensch-der-welt-a-3fc468a6-da88-4abc-ae16-d45c6a463e2d#ref=rss)
+* [https://www.spiegel.de/ausland/china-gruenen-eu-politiker-reinhard-buetikofer-warnt-vor-annaeherung-an-xi-jinping](https://www.spiegel.de/ausland/china-gruenen-eu-politiker-reinhard-buetikofer-warnt-vor-annaeherung-an-xi-jinping-a-7dc70bef-12fc-4bb7-bbe6-318c27b405fc#ref=rss)
+### deutlich
+
+* [https://www.spiegel.de/wirtschaft/soziales/pflege-gehaelter-in-gesundheitsberufen-steigen-deutlich](https://www.spiegel.de/wirtschaft/soziales/pflege-gehaelter-in-gesundheitsberufen-steigen-deutlich-a-e99791fe-7fb4-4a65-8742-22c1ea207e67#ref=rss)
+* [https://www.spiegel.de/wirtschaft/e-autos-hersteller-raeumen-hoehere-rabatte-ein](https://www.spiegel.de/wirtschaft/e-autos-hersteller-raeumen-hoehere-rabatte-ein-a-a5473484-40e6-4418-9f1e-bd58c4f4b9ea#ref=rss)
+### charlotte
+
+* [https://www.spiegel.de/panorama/leute/charlotte-wuerdig-luegt-ihre-kinder-an-um-ruhe-zu-haben](https://www.spiegel.de/panorama/leute/charlotte-wuerdig-luegt-ihre-kinder-an-um-ruhe-zu-haben-a-92ce151d-f7b3-4f8d-bbf1-6036969ae4a8#ref=rss)
+### würdig
+
+* [https://www.spiegel.de/panorama/leute/charlotte-wuerdig-luegt-ihre-kinder-an-um-ruhe-zu-haben](https://www.spiegel.de/panorama/leute/charlotte-wuerdig-luegt-ihre-kinder-an-um-ruhe-zu-haben-a-92ce151d-f7b3-4f8d-bbf1-6036969ae4a8#ref=rss)
+### lügt
+
+* [https://www.spiegel.de/panorama/leute/charlotte-wuerdig-luegt-ihre-kinder-an-um-ruhe-zu-haben](https://www.spiegel.de/panorama/leute/charlotte-wuerdig-luegt-ihre-kinder-an-um-ruhe-zu-haben-a-92ce151d-f7b3-4f8d-bbf1-6036969ae4a8#ref=rss)
+### kinder
+
+* [https://www.spiegel.de/panorama/leute/charlotte-wuerdig-luegt-ihre-kinder-an-um-ruhe-zu-haben](https://www.spiegel.de/panorama/leute/charlotte-wuerdig-luegt-ihre-kinder-an-um-ruhe-zu-haben-a-92ce151d-f7b3-4f8d-bbf1-6036969ae4a8#ref=rss)
+### ruhe
+
+* [https://www.spiegel.de/panorama/leute/charlotte-wuerdig-luegt-ihre-kinder-an-um-ruhe-zu-haben](https://www.spiegel.de/panorama/leute/charlotte-wuerdig-luegt-ihre-kinder-an-um-ruhe-zu-haben-a-92ce151d-f7b3-4f8d-bbf1-6036969ae4a8#ref=rss)
+### eltern
+
+* [https://www.spiegel.de/panorama/leute/charlotte-wuerdig-luegt-ihre-kinder-an-um-ruhe-zu-haben](https://www.spiegel.de/panorama/leute/charlotte-wuerdig-luegt-ihre-kinder-an-um-ruhe-zu-haben-a-92ce151d-f7b3-4f8d-bbf1-6036969ae4a8#ref=rss)
+* [https://www.spiegel.de/panorama/leute/met-gala-in-new-york-rihanna-praesentiert-babybauch-auf-dem-blauen-teppich](https://www.spiegel.de/panorama/leute/met-gala-in-new-york-rihanna-praesentiert-babybauch-auf-dem-blauen-teppich-a-44901d06-d179-4603-8986-832bd57b25b5#ref=rss)
+### rihanna
+
+* [https://www.spiegel.de/panorama/leute/met-gala-in-new-york-rihanna-praesentiert-babybauch-auf-dem-blauen-teppich](https://www.spiegel.de/panorama/leute/met-gala-in-new-york-rihanna-praesentiert-babybauch-auf-dem-blauen-teppich-a-44901d06-d179-4603-8986-832bd57b25b5#ref=rss)
+### explosionen
+
+* [https://www.spiegel.de/ausland/sudan-augenzeugen-melden-explosionen-und-braende-aus-port-sudan](https://www.spiegel.de/ausland/sudan-augenzeugen-melden-explosionen-und-braende-aus-port-sudan-a-0559a4d6-3a9d-4c32-92f2-8293a1e6f2bb#ref=rss)
+### port
+
+* [https://www.spiegel.de/ausland/sudan-augenzeugen-melden-explosionen-und-braende-aus-port-sudan](https://www.spiegel.de/ausland/sudan-augenzeugen-melden-explosionen-und-braende-aus-port-sudan-a-0559a4d6-3a9d-4c32-92f2-8293a1e6f2bb#ref=rss)
+### uli
+
+* [https://www.spiegel.de/sport/fussball/bayern-muenchen-uli-hoeness-wuerdigt-langjaehrigen-freund-und-ex-trainer-jupp-heynckes](https://www.spiegel.de/sport/fussball/bayern-muenchen-uli-hoeness-wuerdigt-langjaehrigen-freund-und-ex-trainer-jupp-heynckes-a-fa5f86ce-aeb3-4199-bf5f-fe7d89f487ef#ref=rss)
+### hoeneß
+
+* [https://www.spiegel.de/sport/fussball/bayern-muenchen-uli-hoeness-wuerdigt-langjaehrigen-freund-und-ex-trainer-jupp-heynckes](https://www.spiegel.de/sport/fussball/bayern-muenchen-uli-hoeness-wuerdigt-langjaehrigen-freund-und-ex-trainer-jupp-heynckes-a-fa5f86ce-aeb3-4199-bf5f-fe7d89f487ef#ref=rss)
+### jupp
+
+* [https://www.spiegel.de/sport/fussball/bayern-muenchen-uli-hoeness-wuerdigt-langjaehrigen-freund-und-ex-trainer-jupp-heynckes](https://www.spiegel.de/sport/fussball/bayern-muenchen-uli-hoeness-wuerdigt-langjaehrigen-freund-und-ex-trainer-jupp-heynckes-a-fa5f86ce-aeb3-4199-bf5f-fe7d89f487ef#ref=rss)
+### heynckes
+
+* [https://www.spiegel.de/sport/fussball/bayern-muenchen-uli-hoeness-wuerdigt-langjaehrigen-freund-und-ex-trainer-jupp-heynckes](https://www.spiegel.de/sport/fussball/bayern-muenchen-uli-hoeness-wuerdigt-langjaehrigen-freund-und-ex-trainer-jupp-heynckes-a-fa5f86ce-aeb3-4199-bf5f-fe7d89f487ef#ref=rss)
+### china
+
+* [https://www.spiegel.de/ausland/china-gruenen-eu-politiker-reinhard-buetikofer-warnt-vor-annaeherung-an-xi-jinping](https://www.spiegel.de/ausland/china-gruenen-eu-politiker-reinhard-buetikofer-warnt-vor-annaeherung-an-xi-jinping-a-7dc70bef-12fc-4bb7-bbe6-318c27b405fc#ref=rss)
+### reinhard
+
+* [https://www.spiegel.de/ausland/china-gruenen-eu-politiker-reinhard-buetikofer-warnt-vor-annaeherung-an-xi-jinping](https://www.spiegel.de/ausland/china-gruenen-eu-politiker-reinhard-buetikofer-warnt-vor-annaeherung-an-xi-jinping-a-7dc70bef-12fc-4bb7-bbe6-318c27b405fc#ref=rss)
+### bütikofer
+
+* [https://www.spiegel.de/ausland/china-gruenen-eu-politiker-reinhard-buetikofer-warnt-vor-annaeherung-an-xi-jinping](https://www.spiegel.de/ausland/china-gruenen-eu-politiker-reinhard-buetikofer-warnt-vor-annaeherung-an-xi-jinping-a-7dc70bef-12fc-4bb7-bbe6-318c27b405fc#ref=rss)
+### xi
+
+* [https://www.spiegel.de/ausland/china-gruenen-eu-politiker-reinhard-buetikofer-warnt-vor-annaeherung-an-xi-jinping](https://www.spiegel.de/ausland/china-gruenen-eu-politiker-reinhard-buetikofer-warnt-vor-annaeherung-an-xi-jinping-a-7dc70bef-12fc-4bb7-bbe6-318c27b405fc#ref=rss)
+### jinping
+
+* [https://www.spiegel.de/ausland/china-gruenen-eu-politiker-reinhard-buetikofer-warnt-vor-annaeherung-an-xi-jinping](https://www.spiegel.de/ausland/china-gruenen-eu-politiker-reinhard-buetikofer-warnt-vor-annaeherung-an-xi-jinping-a-7dc70bef-12fc-4bb7-bbe6-318c27b405fc#ref=rss)
+### ölraffinerie
+
+* [https://www.spiegel.de/wirtschaft/landesumweltamt-genehmigt-hoeheren-schadstoff-ausstoss-der-oelraffinerie-pck](https://www.spiegel.de/wirtschaft/landesumweltamt-genehmigt-hoeheren-schadstoff-ausstoss-der-oelraffinerie-pck-a-b8aa0f8d-e291-4065-bc67-7ad2d0f2240b#ref=rss)
+### pck
+
+* [https://www.spiegel.de/wirtschaft/landesumweltamt-genehmigt-hoeheren-schadstoff-ausstoss-der-oelraffinerie-pck](https://www.spiegel.de/wirtschaft/landesumweltamt-genehmigt-hoeheren-schadstoff-ausstoss-der-oelraffinerie-pck-a-b8aa0f8d-e291-4065-bc67-7ad2d0f2240b#ref=rss)
+### rabatte
+
+* [https://www.spiegel.de/wirtschaft/e-autos-hersteller-raeumen-hoehere-rabatte-ein](https://www.spiegel.de/wirtschaft/e-autos-hersteller-raeumen-hoehere-rabatte-ein-a-a5473484-40e6-4418-9f1e-bd58c4f4b9ea#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/russland-meldet-grossen-drohnenangriff-aus-der-ukraine](https://www.spiegel.de/ausland/russland-meldet-grossen-drohnenangriff-aus-der-ukraine-a-ab91381a-b946-4eb7-9b84-e01c5e163e32#ref=rss)
+### elon
+
+* [https://www.spiegel.de/wirtschaft/elon-musk-hat-aerger-mit-seinen-nachbarn](https://www.spiegel.de/wirtschaft/elon-musk-hat-aerger-mit-seinen-nachbarn-a-2abc3850-6301-4bf2-8228-af68f5e46c1b#ref=rss)
+### musk
+
+* [https://www.spiegel.de/wirtschaft/elon-musk-hat-aerger-mit-seinen-nachbarn](https://www.spiegel.de/wirtschaft/elon-musk-hat-aerger-mit-seinen-nachbarn-a-2abc3850-6301-4bf2-8228-af68f5e46c1b#ref=rss)
 
