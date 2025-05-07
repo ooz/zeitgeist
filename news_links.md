@@ -4,408 +4,336 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### friedrich
-
-* [https://www.spiegel.de/politik/bundestag-historische-szenen-bei-der-kanzlerwahl-von-friedrich-merz](https://www.spiegel.de/politik/bundestag-historische-szenen-bei-der-kanzlerwahl-von-friedrich-merz-a-abeb7d48-098d-4409-b915-c366b35a863e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag-podcast-a-922b908b-def0-49f3-be9d-3d23702ecbf3#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag](https://www.spiegel.de/politik/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag-a-a2aaee1f-d1bd-49dd-9e60-40a610bdf9ef#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/kanzlerwahl-news-friedrich-merz-duepiert-fraktionen-verhandeln-ueber-neuen-termin](https://www.spiegel.de/politik/deutschland/kanzlerwahl-news-friedrich-merz-duepiert-fraktionen-verhandeln-ueber-neuen-termin-a-31b0d49d-b84c-4f58-a0ee-590e325c4be6#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-vielleicht-hat-er-ja-jetzt-verstanden-leitartikel](https://www.spiegel.de/politik/friedrich-merz-vielleicht-hat-er-ja-jetzt-verstanden-leitartikel-a-1763b978-2c6c-4da7-8c18-849a9eead8bc#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-so-berichtet-die-internationale-presse-ueber-das-kanzler-drama](https://www.spiegel.de/politik/friedrich-merz-so-berichtet-die-internationale-presse-ueber-das-kanzler-drama-a-886e78c0-1b44-474a-9a00-a2cd8412cab1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-nur-zweite-wahl](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-nur-zweite-wahl-a-6c49bbe9-792d-4f77-af46-9da78a8a0a13#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-sechs-lehren-aus-der-holprigen-kanzlerwahl-des-cdu-chefs](https://www.spiegel.de/politik/friedrich-merz-sechs-lehren-aus-der-holprigen-kanzlerwahl-des-cdu-chefs-a-331e4a6c-3bac-4d38-9992-673eab380690#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-altkanzlerin-angela-merkel-verlaesst-tribuene-im-bundestag-wieder](https://www.spiegel.de/politik/friedrich-merz-altkanzlerin-angela-merkel-verlaesst-tribuene-im-bundestag-wieder-a-84b88d2c-daff-4726-8b57-24955f5112cf#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-cdu-chef-vom-bundestag-im-zweiten-wahlgang-zum-kanzler-gewaehlt](https://www.spiegel.de/politik/friedrich-merz-cdu-chef-vom-bundestag-im-zweiten-wahlgang-zum-kanzler-gewaehlt-a-1f94b3ac-6e21-4422-acd8-c63a3b594571#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/bundestag-historische-szenen-bei-der-kanzlerwahl-von-friedrich-merz](https://www.spiegel.de/politik/bundestag-historische-szenen-bei-der-kanzlerwahl-von-friedrich-merz-a-abeb7d48-098d-4409-b915-c366b35a863e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag-podcast-a-922b908b-def0-49f3-be9d-3d23702ecbf3#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag](https://www.spiegel.de/politik/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag-a-a2aaee1f-d1bd-49dd-9e60-40a610bdf9ef#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/kanzlerwahl-news-friedrich-merz-duepiert-fraktionen-verhandeln-ueber-neuen-termin](https://www.spiegel.de/politik/deutschland/kanzlerwahl-news-friedrich-merz-duepiert-fraktionen-verhandeln-ueber-neuen-termin-a-31b0d49d-b84c-4f58-a0ee-590e325c4be6#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-vielleicht-hat-er-ja-jetzt-verstanden-leitartikel](https://www.spiegel.de/politik/friedrich-merz-vielleicht-hat-er-ja-jetzt-verstanden-leitartikel-a-1763b978-2c6c-4da7-8c18-849a9eead8bc#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-so-berichtet-die-internationale-presse-ueber-das-kanzler-drama](https://www.spiegel.de/politik/friedrich-merz-so-berichtet-die-internationale-presse-ueber-das-kanzler-drama-a-886e78c0-1b44-474a-9a00-a2cd8412cab1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-nur-zweite-wahl](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-nur-zweite-wahl-a-6c49bbe9-792d-4f77-af46-9da78a8a0a13#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-sechs-lehren-aus-der-holprigen-kanzlerwahl-des-cdu-chefs](https://www.spiegel.de/politik/friedrich-merz-sechs-lehren-aus-der-holprigen-kanzlerwahl-des-cdu-chefs-a-331e4a6c-3bac-4d38-9992-673eab380690#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-altkanzlerin-angela-merkel-verlaesst-tribuene-im-bundestag-wieder](https://www.spiegel.de/politik/friedrich-merz-altkanzlerin-angela-merkel-verlaesst-tribuene-im-bundestag-wieder-a-84b88d2c-daff-4726-8b57-24955f5112cf#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-cdu-chef-vom-bundestag-im-zweiten-wahlgang-zum-kanzler-gewaehlt](https://www.spiegel.de/politik/friedrich-merz-cdu-chef-vom-bundestag-im-zweiten-wahlgang-zum-kanzler-gewaehlt-a-1f94b3ac-6e21-4422-acd8-c63a3b594571#ref=rss)
-### bundestag
-
-* [https://www.spiegel.de/politik/bundestag-historische-szenen-bei-der-kanzlerwahl-von-friedrich-merz](https://www.spiegel.de/politik/bundestag-historische-szenen-bei-der-kanzlerwahl-von-friedrich-merz-a-abeb7d48-098d-4409-b915-c366b35a863e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag-podcast-a-922b908b-def0-49f3-be9d-3d23702ecbf3#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag](https://www.spiegel.de/politik/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag-a-a2aaee1f-d1bd-49dd-9e60-40a610bdf9ef#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-so-berichtet-die-internationale-presse-ueber-das-kanzler-drama](https://www.spiegel.de/politik/friedrich-merz-so-berichtet-die-internationale-presse-ueber-das-kanzler-drama-a-886e78c0-1b44-474a-9a00-a2cd8412cab1#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-altkanzlerin-angela-merkel-verlaesst-tribuene-im-bundestag-wieder](https://www.spiegel.de/politik/friedrich-merz-altkanzlerin-angela-merkel-verlaesst-tribuene-im-bundestag-wieder-a-84b88d2c-daff-4726-8b57-24955f5112cf#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-cdu-chef-vom-bundestag-im-zweiten-wahlgang-zum-kanzler-gewaehlt](https://www.spiegel.de/politik/friedrich-merz-cdu-chef-vom-bundestag-im-zweiten-wahlgang-zum-kanzler-gewaehlt-a-1f94b3ac-6e21-4422-acd8-c63a3b594571#ref=rss)
-### kanzler
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag-podcast-a-922b908b-def0-49f3-be9d-3d23702ecbf3#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag](https://www.spiegel.de/politik/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag-a-a2aaee1f-d1bd-49dd-9e60-40a610bdf9ef#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/kanzlerwahl-news-friedrich-merz-duepiert-fraktionen-verhandeln-ueber-neuen-termin](https://www.spiegel.de/politik/deutschland/kanzlerwahl-news-friedrich-merz-duepiert-fraktionen-verhandeln-ueber-neuen-termin-a-31b0d49d-b84c-4f58-a0ee-590e325c4be6#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-so-berichtet-die-internationale-presse-ueber-das-kanzler-drama](https://www.spiegel.de/politik/friedrich-merz-so-berichtet-die-internationale-presse-ueber-das-kanzler-drama-a-886e78c0-1b44-474a-9a00-a2cd8412cab1#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-sechs-lehren-aus-der-holprigen-kanzlerwahl-des-cdu-chefs](https://www.spiegel.de/politik/friedrich-merz-sechs-lehren-aus-der-holprigen-kanzlerwahl-des-cdu-chefs-a-331e4a6c-3bac-4d38-9992-673eab380690#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-altkanzlerin-angela-merkel-verlaesst-tribuene-im-bundestag-wieder](https://www.spiegel.de/politik/friedrich-merz-altkanzlerin-angela-merkel-verlaesst-tribuene-im-bundestag-wieder-a-84b88d2c-daff-4726-8b57-24955f5112cf#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-cdu-chef-vom-bundestag-im-zweiten-wahlgang-zum-kanzler-gewaehlt](https://www.spiegel.de/politik/friedrich-merz-cdu-chef-vom-bundestag-im-zweiten-wahlgang-zum-kanzler-gewaehlt-a-1f94b3ac-6e21-4422-acd8-c63a3b594571#ref=rss)
-### zweiten
-
-* [https://www.spiegel.de/politik/bundestag-historische-szenen-bei-der-kanzlerwahl-von-friedrich-merz](https://www.spiegel.de/politik/bundestag-historische-szenen-bei-der-kanzlerwahl-von-friedrich-merz-a-abeb7d48-098d-4409-b915-c366b35a863e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/kanzlerwahl-news-friedrich-merz-duepiert-fraktionen-verhandeln-ueber-neuen-termin](https://www.spiegel.de/politik/deutschland/kanzlerwahl-news-friedrich-merz-duepiert-fraktionen-verhandeln-ueber-neuen-termin-a-31b0d49d-b84c-4f58-a0ee-590e325c4be6#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-so-berichtet-die-internationale-presse-ueber-das-kanzler-drama](https://www.spiegel.de/politik/friedrich-merz-so-berichtet-die-internationale-presse-ueber-das-kanzler-drama-a-886e78c0-1b44-474a-9a00-a2cd8412cab1#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-sechs-lehren-aus-der-holprigen-kanzlerwahl-des-cdu-chefs](https://www.spiegel.de/politik/friedrich-merz-sechs-lehren-aus-der-holprigen-kanzlerwahl-des-cdu-chefs-a-331e4a6c-3bac-4d38-9992-673eab380690#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-cdu-chef-vom-bundestag-im-zweiten-wahlgang-zum-kanzler-gewaehlt](https://www.spiegel.de/politik/friedrich-merz-cdu-chef-vom-bundestag-im-zweiten-wahlgang-zum-kanzler-gewaehlt-a-1f94b3ac-6e21-4422-acd8-c63a3b594571#ref=rss)
-### kanzlerwahl
-
-* [https://www.spiegel.de/politik/bundestag-historische-szenen-bei-der-kanzlerwahl-von-friedrich-merz](https://www.spiegel.de/politik/bundestag-historische-szenen-bei-der-kanzlerwahl-von-friedrich-merz-a-abeb7d48-098d-4409-b915-c366b35a863e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/kanzlerwahl-news-friedrich-merz-duepiert-fraktionen-verhandeln-ueber-neuen-termin](https://www.spiegel.de/politik/deutschland/kanzlerwahl-news-friedrich-merz-duepiert-fraktionen-verhandeln-ueber-neuen-termin-a-31b0d49d-b84c-4f58-a0ee-590e325c4be6#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-sechs-lehren-aus-der-holprigen-kanzlerwahl-des-cdu-chefs](https://www.spiegel.de/politik/friedrich-merz-sechs-lehren-aus-der-holprigen-kanzlerwahl-des-cdu-chefs-a-331e4a6c-3bac-4d38-9992-673eab380690#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/politik/bundestag-historische-szenen-bei-der-kanzlerwahl-von-friedrich-merz](https://www.spiegel.de/politik/bundestag-historische-szenen-bei-der-kanzlerwahl-von-friedrich-merz-a-abeb7d48-098d-4409-b915-c366b35a863e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/kanzlerwahl-news-friedrich-merz-duepiert-fraktionen-verhandeln-ueber-neuen-termin](https://www.spiegel.de/politik/deutschland/kanzlerwahl-news-friedrich-merz-duepiert-fraktionen-verhandeln-ueber-neuen-termin-a-31b0d49d-b84c-4f58-a0ee-590e325c4be6#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-sechs-lehren-aus-der-holprigen-kanzlerwahl-des-cdu-chefs](https://www.spiegel.de/politik/friedrich-merz-sechs-lehren-aus-der-holprigen-kanzlerwahl-des-cdu-chefs-a-331e4a6c-3bac-4d38-9992-673eab380690#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-altkanzlerin-angela-merkel-verlaesst-tribuene-im-bundestag-wieder](https://www.spiegel.de/politik/friedrich-merz-altkanzlerin-angela-merkel-verlaesst-tribuene-im-bundestag-wieder-a-84b88d2c-daff-4726-8b57-24955f5112cf#ref=rss)
-### wahlgang
-
-* [https://www.spiegel.de/politik/bundestag-historische-szenen-bei-der-kanzlerwahl-von-friedrich-merz](https://www.spiegel.de/politik/bundestag-historische-szenen-bei-der-kanzlerwahl-von-friedrich-merz-a-abeb7d48-098d-4409-b915-c366b35a863e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/kanzlerwahl-news-friedrich-merz-duepiert-fraktionen-verhandeln-ueber-neuen-termin](https://www.spiegel.de/politik/deutschland/kanzlerwahl-news-friedrich-merz-duepiert-fraktionen-verhandeln-ueber-neuen-termin-a-31b0d49d-b84c-4f58-a0ee-590e325c4be6#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-sechs-lehren-aus-der-holprigen-kanzlerwahl-des-cdu-chefs](https://www.spiegel.de/politik/friedrich-merz-sechs-lehren-aus-der-holprigen-kanzlerwahl-des-cdu-chefs-a-331e4a6c-3bac-4d38-9992-673eab380690#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-cdu-chef-vom-bundestag-im-zweiten-wahlgang-zum-kanzler-gewaehlt](https://www.spiegel.de/politik/friedrich-merz-cdu-chef-vom-bundestag-im-zweiten-wahlgang-zum-kanzler-gewaehlt-a-1f94b3ac-6e21-4422-acd8-c63a3b594571#ref=rss)
-### drama
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag-podcast-a-922b908b-def0-49f3-be9d-3d23702ecbf3#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag](https://www.spiegel.de/politik/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag-a-a2aaee1f-d1bd-49dd-9e60-40a610bdf9ef#ref=rss)
-### berichtet
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag-podcast-a-922b908b-def0-49f3-be9d-3d23702ecbf3#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag](https://www.spiegel.de/politik/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag-a-a2aaee1f-d1bd-49dd-9e60-40a610bdf9ef#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-so-berichtet-die-internationale-presse-ueber-das-kanzler-drama](https://www.spiegel.de/politik/friedrich-merz-so-berichtet-die-internationale-presse-ueber-das-kanzler-drama-a-886e78c0-1b44-474a-9a00-a2cd8412cab1#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bayern-muenchen-alphonso-davies-berichtet-von-mentalem-zusammenbruch-waehrend-der-reha](https://www.spiegel.de/sport/fussball/bayern-muenchen-alphonso-davies-berichtet-von-mentalem-zusammenbruch-waehrend-der-reha-a-c9e02fde-fb45-48a7-9f4a-f4640467a2c0#ref=rss)
-### tag
-
-* [https://www.spiegel.de/ausland/russland-tag-des-sieges-am-9-mai-in-moskau-sorge-vor-ukrainischen-drohnen](https://www.spiegel.de/ausland/russland-tag-des-sieges-am-9-mai-in-moskau-sorge-vor-ukrainischen-drohnen-a-b0eb65a9-eb63-4ac7-9dc9-731ffa913536#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/kanzlerwahl-news-friedrich-merz-duepiert-fraktionen-verhandeln-ueber-neuen-termin](https://www.spiegel.de/politik/deutschland/kanzlerwahl-news-friedrich-merz-duepiert-fraktionen-verhandeln-ueber-neuen-termin-a-31b0d49d-b84c-4f58-a0ee-590e325c4be6#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-sechs-lehren-aus-der-holprigen-kanzlerwahl-des-cdu-chefs](https://www.spiegel.de/politik/friedrich-merz-sechs-lehren-aus-der-holprigen-kanzlerwahl-des-cdu-chefs-a-331e4a6c-3bac-4d38-9992-673eab380690#ref=rss)
-### the
-
-* [https://www.spiegel.de/kultur/the-way-out-bei-amazon-prime-video-ich-bin-ein-star-und-hol-mich-selbst-raus](https://www.spiegel.de/kultur/the-way-out-bei-amazon-prime-video-ich-bin-ein-star-und-hol-mich-selbst-raus-a-bb63a53c-ab96-4ddb-ac0d-5628ebfbb34c#ref=rss)
-* [https://www.spiegel.de/kultur/protect-the-dolls-shirt-was-steckt-dahinter](https://www.spiegel.de/kultur/protect-the-dolls-shirt-was-steckt-dahinter-a-86ca7c64-d0b1-418a-b58c-b5944be0d9ec#ref=rss)
-### historischen
-
-* [https://www.spiegel.de/politik/bundestag-historische-szenen-bei-der-kanzlerwahl-von-friedrich-merz](https://www.spiegel.de/politik/bundestag-historische-szenen-bei-der-kanzlerwahl-von-friedrich-merz-a-abeb7d48-098d-4409-b915-c366b35a863e#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-sechs-lehren-aus-der-holprigen-kanzlerwahl-des-cdu-chefs](https://www.spiegel.de/politik/friedrich-merz-sechs-lehren-aus-der-holprigen-kanzlerwahl-des-cdu-chefs-a-331e4a6c-3bac-4d38-9992-673eab380690#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-cdu-chef-vom-bundestag-im-zweiten-wahlgang-zum-kanzler-gewaehlt](https://www.spiegel.de/politik/friedrich-merz-cdu-chef-vom-bundestag-im-zweiten-wahlgang-zum-kanzler-gewaehlt-a-1f94b3ac-6e21-4422-acd8-c63a3b594571#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag-podcast-a-922b908b-def0-49f3-be9d-3d23702ecbf3#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag](https://www.spiegel.de/politik/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag-a-a2aaee1f-d1bd-49dd-9e60-40a610bdf9ef#ref=rss)
-* [https://www.spiegel.de/wirtschaft/buerokratie-abbau-bei-immobilien-wie-aus-450-fragen-30-werden](https://www.spiegel.de/wirtschaft/buerokratie-abbau-bei-immobilien-wie-aus-450-fragen-30-werden-a-5fe90cd3-b0e8-449c-a6df-d62d3ca28fef#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/russland-tag-des-sieges-am-9-mai-in-moskau-sorge-vor-ukrainischen-drohnen](https://www.spiegel.de/ausland/russland-tag-des-sieges-am-9-mai-in-moskau-sorge-vor-ukrainischen-drohnen-a-b0eb65a9-eb63-4ac7-9dc9-731ffa913536#ref=rss)
-* [https://www.spiegel.de/wirtschaft/gas-eu-kommission-plant-unabhaengigkeit-von-russland-bis-ende-2027](https://www.spiegel.de/wirtschaft/gas-eu-kommission-plant-unabhaengigkeit-von-russland-bis-ende-2027-a-6c71dfa6-638d-42e2-8cdd-992a7aa6058c#ref=rss)
-### mai
-
-* [https://www.spiegel.de/ausland/russland-tag-des-sieges-am-9-mai-in-moskau-sorge-vor-ukrainischen-drohnen](https://www.spiegel.de/ausland/russland-tag-des-sieges-am-9-mai-in-moskau-sorge-vor-ukrainischen-drohnen-a-b0eb65a9-eb63-4ac7-9dc9-731ffa913536#ref=rss)
-* [https://www.spiegel.de/netzwelt/games/gta-vi-neuer-trailer-sammelt-millionen-likes](https://www.spiegel.de/netzwelt/games/gta-vi-neuer-trailer-sammelt-millionen-likes-a-b0f6f381-c838-4a30-b768-5acc00698033#ref=rss)
 ### neue
 
-* [https://www.spiegel.de/politik/deutschland/kanzlerwahl-news-friedrich-merz-duepiert-fraktionen-verhandeln-ueber-neuen-termin](https://www.spiegel.de/politik/deutschland/kanzlerwahl-news-friedrich-merz-duepiert-fraktionen-verhandeln-ueber-neuen-termin-a-31b0d49d-b84c-4f58-a0ee-590e325c4be6#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-vielleicht-hat-er-ja-jetzt-verstanden-leitartikel](https://www.spiegel.de/politik/friedrich-merz-vielleicht-hat-er-ja-jetzt-verstanden-leitartikel-a-1763b978-2c6c-4da7-8c18-849a9eead8bc#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-so-berichtet-die-internationale-presse-ueber-das-kanzler-drama](https://www.spiegel.de/politik/friedrich-merz-so-berichtet-die-internationale-presse-ueber-das-kanzler-drama-a-886e78c0-1b44-474a-9a00-a2cd8412cab1#ref=rss)
-### erst
+* [https://www.spiegel.de/kultur/wolfram-weimer-neuer-kulturstaatsminister-gibt-aufgabenbereich-ab](https://www.spiegel.de/kultur/wolfram-weimer-neuer-kulturstaatsminister-gibt-aufgabenbereich-ab-a-5712a3fb-409c-4411-9123-e8b93e39f1b8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/alexander-dobrindt-so-will-der-neue-innenminister-die-grenzkontrollen-verschaerfen](https://www.spiegel.de/politik/deutschland/alexander-dobrindt-so-will-der-neue-innenminister-die-grenzkontrollen-verschaerfen-a-1d8e3707-94bf-4346-92b7-22ff32b0a691#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/bildung-in-deutschland-immer-mehr-jugendliche-verlassen-die-schule-ohne-abschluss](https://www.spiegel.de/panorama/bildung/bildung-in-deutschland-immer-mehr-jugendliche-verlassen-die-schule-ohne-abschluss-a-f0036c40-1777-4162-bb34-ef920f63bdcb#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/amazon-neue-maschinen-verpacken-waren-passgenau](https://www.spiegel.de/netzwelt/web/amazon-neue-maschinen-verpacken-waren-passgenau-a-60e90ab4-852a-43e6-85ee-42e9b2c098d0#ref=rss)
+### donald
 
-* [https://www.spiegel.de/politik/friedrich-merz-so-berichtet-die-internationale-presse-ueber-das-kanzler-drama](https://www.spiegel.de/politik/friedrich-merz-so-berichtet-die-internationale-presse-ueber-das-kanzler-drama-a-886e78c0-1b44-474a-9a00-a2cd8412cab1#ref=rss)
-* [https://www.spiegel.de/stil/s-magazin/designer-tom-dixon-ueber-erfolg-ich-denke-bei-jedem-entwurf-erst-mal-das-wird-ein-hit](https://www.spiegel.de/stil/s-magazin/designer-tom-dixon-ueber-erfolg-ich-denke-bei-jedem-entwurf-erst-mal-das-wird-ein-hit-a-5e7a680c-5dac-4798-a308-c6728a387db0#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-sechs-lehren-aus-der-holprigen-kanzlerwahl-des-cdu-chefs](https://www.spiegel.de/politik/friedrich-merz-sechs-lehren-aus-der-holprigen-kanzlerwahl-des-cdu-chefs-a-331e4a6c-3bac-4d38-9992-673eab380690#ref=rss)
-### gericht
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-in-den-usa-donald-trumps-taskforce-verspricht-fans-reibungslose-turnier-erfahrung-ohne-warnung-geht-es-aber-nicht](https://www.spiegel.de/sport/fussball/fussball-wm-2026-in-den-usa-donald-trumps-taskforce-verspricht-fans-reibungslose-turnier-erfahrung-ohne-warnung-geht-es-aber-nicht-a-ceb989ce-b3cb-4870-b8db-925f831d1eb2#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-kritisiert-donald-trumps-ukrainekurs-in-bbc-interview](https://www.spiegel.de/ausland/joe-biden-kritisiert-donald-trumps-ukrainekurs-in-bbc-interview-a-c2b2a490-90ae-485e-929f-1ca4532f079f#ref=rss)
+### afd
 
-* [https://www.spiegel.de/panorama/zuerich-rentnerin-fuettert-nachbars-katze-und-kommt-vor-gericht](https://www.spiegel.de/panorama/zuerich-rentnerin-fuettert-nachbars-katze-und-kommt-vor-gericht-a-dab5185f-f580-442b-920b-b339fd7a74f3#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/christina-block-gericht-entzieht-steakhaus-erbin-sorgerecht-fuer-zwei-kinder](https://www.spiegel.de/panorama/justiz/christina-block-gericht-entzieht-steakhaus-erbin-sorgerecht-fuer-zwei-kinder-a-991572c1-7673-4f43-8cd4-1248e8a31816#ref=rss)
-### jahr
+* [https://www.spiegel.de/politik/deutschland/afd-brandenburger-landesverband-als-rechtsextrem-eingestuft](https://www.spiegel.de/politik/deutschland/afd-brandenburger-landesverband-als-rechtsextrem-eingestuft-a-4a60181b-5c7b-4cbb-a873-9b3537443809#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/afd-und-schulen-schuelervertretung-fordert-entlassung-von-lehrern-mit-afd-parteibuch](https://www.spiegel.de/panorama/bildung/afd-und-schulen-schuelervertretung-fordert-entlassung-von-lehrern-mit-afd-parteibuch-a-74537317-773f-4f03-abd3-bc0e158d7fa7#ref=rss)
+### inter
 
-* [https://www.spiegel.de/panorama/hamburg-lotto-gewinner-von-knapp-2-5-millionen-euro-meldet-sich-nach-einem-jahr](https://www.spiegel.de/panorama/hamburg-lotto-gewinner-von-knapp-2-5-millionen-euro-meldet-sich-nach-einem-jahr-a-41b3aeaf-9879-4bde-9fc4-2a8be966fe23#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/justiz/christina-block-gericht-entzieht-steakhaus-erbin-sorgerecht-fuer-zwei-kinder](https://www.spiegel.de/panorama/justiz/christina-block-gericht-entzieht-steakhaus-erbin-sorgerecht-fuer-zwei-kinder-a-991572c1-7673-4f43-8cd4-1248e8a31816#ref=rss)
-* [https://www.spiegel.de/wirtschaft/gas-eu-kommission-plant-unabhaengigkeit-von-russland-bis-ende-2027](https://www.spiegel.de/wirtschaft/gas-eu-kommission-plant-unabhaengigkeit-von-russland-bis-ende-2027-a-6c71dfa6-638d-42e2-8cdd-992a7aa6058c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/russlands-angriffskrieg-eu-kommission-will-gasimporte-aus-dem-land-komplett-verbieten](https://www.spiegel.de/wirtschaft/russlands-angriffskrieg-eu-kommission-will-gasimporte-aus-dem-land-komplett-verbieten-a-b5a8b10c-77ec-4dfd-a62e-931595b46d93#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/panorama/justiz/christina-block-gericht-entzieht-steakhaus-erbin-sorgerecht-fuer-zwei-kinder](https://www.spiegel.de/panorama/justiz/christina-block-gericht-entzieht-steakhaus-erbin-sorgerecht-fuer-zwei-kinder-a-991572c1-7673-4f43-8cd4-1248e8a31816#ref=rss)
-### gewählt
-
-* [https://www.spiegel.de/politik/friedrich-merz-sechs-lehren-aus-der-holprigen-kanzlerwahl-des-cdu-chefs](https://www.spiegel.de/politik/friedrich-merz-sechs-lehren-aus-der-holprigen-kanzlerwahl-des-cdu-chefs-a-331e4a6c-3bac-4d38-9992-673eab380690#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-cdu-chef-vom-bundestag-im-zweiten-wahlgang-zum-kanzler-gewaehlt](https://www.spiegel.de/politik/friedrich-merz-cdu-chef-vom-bundestag-im-zweiten-wahlgang-zum-kanzler-gewaehlt-a-1f94b3ac-6e21-4422-acd8-c63a3b594571#ref=rss)
-### eukommission
-
-* [https://www.spiegel.de/wirtschaft/gas-eu-kommission-plant-unabhaengigkeit-von-russland-bis-ende-2027](https://www.spiegel.de/wirtschaft/gas-eu-kommission-plant-unabhaengigkeit-von-russland-bis-ende-2027-a-6c71dfa6-638d-42e2-8cdd-992a7aa6058c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/russlands-angriffskrieg-eu-kommission-will-gasimporte-aus-dem-land-komplett-verbieten](https://www.spiegel.de/wirtschaft/russlands-angriffskrieg-eu-kommission-will-gasimporte-aus-dem-land-komplett-verbieten-a-b5a8b10c-77ec-4dfd-a62e-931595b46d93#ref=rss)
-### drei
-
-* [https://www.spiegel.de/wirtschaft/gas-eu-kommission-plant-unabhaengigkeit-von-russland-bis-ende-2027](https://www.spiegel.de/wirtschaft/gas-eu-kommission-plant-unabhaengigkeit-von-russland-bis-ende-2027-a-6c71dfa6-638d-42e2-8cdd-992a7aa6058c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/russlands-angriffskrieg-eu-kommission-will-gasimporte-aus-dem-land-komplett-verbieten](https://www.spiegel.de/wirtschaft/russlands-angriffskrieg-eu-kommission-will-gasimporte-aus-dem-land-komplett-verbieten-a-b5a8b10c-77ec-4dfd-a62e-931595b46d93#ref=rss)
-### cduchef
-
-* [https://www.spiegel.de/politik/friedrich-merz-altkanzlerin-angela-merkel-verlaesst-tribuene-im-bundestag-wieder](https://www.spiegel.de/politik/friedrich-merz-altkanzlerin-angela-merkel-verlaesst-tribuene-im-bundestag-wieder-a-84b88d2c-daff-4726-8b57-24955f5112cf#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-cdu-chef-vom-bundestag-im-zweiten-wahlgang-zum-kanzler-gewaehlt](https://www.spiegel.de/politik/friedrich-merz-cdu-chef-vom-bundestag-im-zweiten-wahlgang-zum-kanzler-gewaehlt-a-1f94b3ac-6e21-4422-acd8-c63a3b594571#ref=rss)
-### szenen
-
-* [https://www.spiegel.de/politik/bundestag-historische-szenen-bei-der-kanzlerwahl-von-friedrich-merz](https://www.spiegel.de/politik/bundestag-historische-szenen-bei-der-kanzlerwahl-von-friedrich-merz-a-abeb7d48-098d-4409-b915-c366b35a863e#ref=rss)
-### anlauf
-
-* [https://www.spiegel.de/politik/bundestag-historische-szenen-bei-der-kanzlerwahl-von-friedrich-merz](https://www.spiegel.de/politik/bundestag-historische-szenen-bei-der-kanzlerwahl-von-friedrich-merz-a-abeb7d48-098d-4409-b915-c366b35a863e#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-so-berichtet-die-internationale-presse-ueber-das-kanzler-drama](https://www.spiegel.de/politik/friedrich-merz-so-berichtet-die-internationale-presse-ueber-das-kanzler-drama-a-886e78c0-1b44-474a-9a00-a2cd8412cab1#ref=rss)
-### bundeskanzler
-
-* [https://www.spiegel.de/politik/bundestag-historische-szenen-bei-der-kanzlerwahl-von-friedrich-merz](https://www.spiegel.de/politik/bundestag-historische-szenen-bei-der-kanzlerwahl-von-friedrich-merz-a-abeb7d48-098d-4409-b915-c366b35a863e#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-vielleicht-hat-er-ja-jetzt-verstanden-leitartikel](https://www.spiegel.de/politik/friedrich-merz-vielleicht-hat-er-ja-jetzt-verstanden-leitartikel-a-1763b978-2c6c-4da7-8c18-849a9eead8bc#ref=rss)
-### video
-
-* [https://www.spiegel.de/politik/bundestag-historische-szenen-bei-der-kanzlerwahl-von-friedrich-merz](https://www.spiegel.de/politik/bundestag-historische-szenen-bei-der-kanzlerwahl-von-friedrich-merz-a-abeb7d48-098d-4409-b915-c366b35a863e#ref=rss)
-* [https://www.spiegel.de/kultur/the-way-out-bei-amazon-prime-video-ich-bin-ein-star-und-hol-mich-selbst-raus](https://www.spiegel.de/kultur/the-way-out-bei-amazon-prime-video-ich-bin-ein-star-und-hol-mich-selbst-raus-a-bb63a53c-ab96-4ddb-ac0d-5628ebfbb34c#ref=rss)
-### verlief
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag-podcast-a-922b908b-def0-49f3-be9d-3d23702ecbf3#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag](https://www.spiegel.de/politik/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag-a-a2aaee1f-d1bd-49dd-9e60-40a610bdf9ef#ref=rss)
-### monatelangen
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag-podcast-a-922b908b-def0-49f3-be9d-3d23702ecbf3#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag](https://www.spiegel.de/politik/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag-a-a2aaee1f-d1bd-49dd-9e60-40a610bdf9ef#ref=rss)
-### turbulenzen
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag-podcast-a-922b908b-def0-49f3-be9d-3d23702ecbf3#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag](https://www.spiegel.de/politik/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag-a-a2aaee1f-d1bd-49dd-9e60-40a610bdf9ef#ref=rss)
-### endlich
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag-podcast-a-922b908b-def0-49f3-be9d-3d23702ecbf3#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag](https://www.spiegel.de/politik/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag-a-a2aaee1f-d1bd-49dd-9e60-40a610bdf9ef#ref=rss)
-### stabilität
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag-podcast-a-922b908b-def0-49f3-be9d-3d23702ecbf3#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag](https://www.spiegel.de/politik/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag-a-a2aaee1f-d1bd-49dd-9e60-40a610bdf9ef#ref=rss)
-### liefern
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag-podcast-a-922b908b-def0-49f3-be9d-3d23702ecbf3#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag](https://www.spiegel.de/politik/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag-a-a2aaee1f-d1bd-49dd-9e60-40a610bdf9ef#ref=rss)
-### stattdessen
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag-podcast-a-922b908b-def0-49f3-be9d-3d23702ecbf3#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag](https://www.spiegel.de/politik/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag-a-a2aaee1f-d1bd-49dd-9e60-40a610bdf9ef#ref=rss)
-### ausland
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag-podcast-a-922b908b-def0-49f3-be9d-3d23702ecbf3#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag](https://www.spiegel.de/politik/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag-a-a2aaee1f-d1bd-49dd-9e60-40a610bdf9ef#ref=rss)
-### sorgt
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag-podcast-a-922b908b-def0-49f3-be9d-3d23702ecbf3#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag](https://www.spiegel.de/politik/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag-a-a2aaee1f-d1bd-49dd-9e60-40a610bdf9ef#ref=rss)
-### spiegelredakteur
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag-podcast-a-922b908b-def0-49f3-be9d-3d23702ecbf3#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag](https://www.spiegel.de/politik/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag-a-a2aaee1f-d1bd-49dd-9e60-40a610bdf9ef#ref=rss)
-### konstantin
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag-podcast-a-922b908b-def0-49f3-be9d-3d23702ecbf3#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag](https://www.spiegel.de/politik/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag-a-a2aaee1f-d1bd-49dd-9e60-40a610bdf9ef#ref=rss)
-### hammerstein
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag-podcast-a-922b908b-def0-49f3-be9d-3d23702ecbf3#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag](https://www.spiegel.de/politik/friedrich-merz-ist-kanzler-so-verlief-das-drama-im-bundestag-a-a2aaee1f-d1bd-49dd-9e60-40a610bdf9ef#ref=rss)
-### sieges
-
-* [https://www.spiegel.de/ausland/russland-tag-des-sieges-am-9-mai-in-moskau-sorge-vor-ukrainischen-drohnen](https://www.spiegel.de/ausland/russland-tag-des-sieges-am-9-mai-in-moskau-sorge-vor-ukrainischen-drohnen-a-b0eb65a9-eb63-4ac7-9dc9-731ffa913536#ref=rss)
-### 9
-
-* [https://www.spiegel.de/ausland/russland-tag-des-sieges-am-9-mai-in-moskau-sorge-vor-ukrainischen-drohnen](https://www.spiegel.de/ausland/russland-tag-des-sieges-am-9-mai-in-moskau-sorge-vor-ukrainischen-drohnen-a-b0eb65a9-eb63-4ac7-9dc9-731ffa913536#ref=rss)
-### moskau
-
-* [https://www.spiegel.de/ausland/russland-tag-des-sieges-am-9-mai-in-moskau-sorge-vor-ukrainischen-drohnen](https://www.spiegel.de/ausland/russland-tag-des-sieges-am-9-mai-in-moskau-sorge-vor-ukrainischen-drohnen-a-b0eb65a9-eb63-4ac7-9dc9-731ffa913536#ref=rss)
-### drohnen
-
-* [https://www.spiegel.de/ausland/russland-tag-des-sieges-am-9-mai-in-moskau-sorge-vor-ukrainischen-drohnen](https://www.spiegel.de/ausland/russland-tag-des-sieges-am-9-mai-in-moskau-sorge-vor-ukrainischen-drohnen-a-b0eb65a9-eb63-4ac7-9dc9-731ffa913536#ref=rss)
-### hauptstadt
-
-* [https://www.spiegel.de/ausland/russland-tag-des-sieges-am-9-mai-in-moskau-sorge-vor-ukrainischen-drohnen](https://www.spiegel.de/ausland/russland-tag-des-sieges-am-9-mai-in-moskau-sorge-vor-ukrainischen-drohnen-a-b0eb65a9-eb63-4ac7-9dc9-731ffa913536#ref=rss)
-* [https://www.spiegel.de/politik/jemen-israel-bestaetigt-luftangriff-auf-flughafen-in-sanaa](https://www.spiegel.de/politik/jemen-israel-bestaetigt-luftangriff-auf-flughafen-in-sanaa-a-1d2adf84-871f-4b4d-baeb-8935e74e9524#ref=rss)
-### gut
-
-* [https://www.spiegel.de/ausland/russland-tag-des-sieges-am-9-mai-in-moskau-sorge-vor-ukrainischen-drohnen](https://www.spiegel.de/ausland/russland-tag-des-sieges-am-9-mai-in-moskau-sorge-vor-ukrainischen-drohnen-a-b0eb65a9-eb63-4ac7-9dc9-731ffa913536#ref=rss)
-* [https://www.spiegel.de/wirtschaft/gas-eu-kommission-plant-unabhaengigkeit-von-russland-bis-ende-2027](https://www.spiegel.de/wirtschaft/gas-eu-kommission-plant-unabhaengigkeit-von-russland-bis-ende-2027-a-6c71dfa6-638d-42e2-8cdd-992a7aa6058c#ref=rss)
-### news
-
-* [https://www.spiegel.de/politik/deutschland/kanzlerwahl-news-friedrich-merz-duepiert-fraktionen-verhandeln-ueber-neuen-termin](https://www.spiegel.de/politik/deutschland/kanzlerwahl-news-friedrich-merz-duepiert-fraktionen-verhandeln-ueber-neuen-termin-a-31b0d49d-b84c-4f58-a0ee-590e325c4be6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-nur-zweite-wahl](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-nur-zweite-wahl-a-6c49bbe9-792d-4f77-af46-9da78a8a0a13#ref=rss)
-### tages
-
-* [https://www.spiegel.de/politik/deutschland/kanzlerwahl-news-friedrich-merz-duepiert-fraktionen-verhandeln-ueber-neuen-termin](https://www.spiegel.de/politik/deutschland/kanzlerwahl-news-friedrich-merz-duepiert-fraktionen-verhandeln-ueber-neuen-termin-a-31b0d49d-b84c-4f58-a0ee-590e325c4be6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-nur-zweite-wahl](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-nur-zweite-wahl-a-6c49bbe9-792d-4f77-af46-9da78a8a0a13#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-inter-mailand-vs-fc-barcelona-das-fussball-epos-von-san-siro](https://www.spiegel.de/sport/fussball/champions-league-inter-mailand-vs-fc-barcelona-das-fussball-epos-von-san-siro-a-55b526d6-8c73-4422-9c53-1ebfacb6ea2d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-inter-besiegt-fc-barcelona-im-halbfinale-pressestimmen](https://www.spiegel.de/sport/fussball/champions-league-inter-besiegt-fc-barcelona-im-halbfinale-pressestimmen-a-5015665d-4338-41f9-9afd-da495960243d#ref=rss)
 ### usa
 
-* [https://www.spiegel.de/panorama/usa-junge-bestellt-mit-handy-seiner-mutter-70-000-lollis](https://www.spiegel.de/panorama/usa-junge-bestellt-mit-handy-seiner-mutter-70-000-lollis-a-471e997f-d2ef-42f1-ab0a-181b3cbaa542#ref=rss)
-* [https://www.spiegel.de/wirtschaft/gas-eu-kommission-plant-unabhaengigkeit-von-russland-bis-ende-2027](https://www.spiegel.de/wirtschaft/gas-eu-kommission-plant-unabhaengigkeit-von-russland-bis-ende-2027-a-6c71dfa6-638d-42e2-8cdd-992a7aa6058c#ref=rss)
-### mutter
+* [https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-ki-version-eines-getoeteten-spricht-vor-gericht](https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-ki-version-eines-getoeteten-spricht-vor-gericht-a-1f42d7f8-cc77-4264-9912-09bf96067339#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-in-den-usa-donald-trumps-taskforce-verspricht-fans-reibungslose-turnier-erfahrung-ohne-warnung-geht-es-aber-nicht](https://www.spiegel.de/sport/fussball/fussball-wm-2026-in-den-usa-donald-trumps-taskforce-verspricht-fans-reibungslose-turnier-erfahrung-ohne-warnung-geht-es-aber-nicht-a-ceb989ce-b3cb-4870-b8db-925f831d1eb2#ref=rss)
+### friedrich
 
-* [https://www.spiegel.de/panorama/usa-junge-bestellt-mit-handy-seiner-mutter-70-000-lollis](https://www.spiegel.de/panorama/usa-junge-bestellt-mit-handy-seiner-mutter-70-000-lollis-a-471e997f-d2ef-42f1-ab0a-181b3cbaa542#ref=rss)
-### way
+* [https://www.spiegel.de/ausland/friedrich-merz-das-sagt-der-cdu-kanzler-ueber-seinen-besuch-bei-emmanuel-macron](https://www.spiegel.de/ausland/friedrich-merz-das-sagt-der-cdu-kanzler-ueber-seinen-besuch-bei-emmanuel-macron-a-9afbc41c-3f4a-4efa-9015-4ca51a7456ed#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-minister-thorsten-frei-offen-fuer-zusammenarbeit-mit-linkspartei](https://www.spiegel.de/politik/deutschland/cdu-minister-thorsten-frei-offen-fuer-zusammenarbeit-mit-linkspartei-a-84756ad8-147d-475e-94a6-81b5b5e713ae#ref=rss)
+### merz
 
-* [https://www.spiegel.de/kultur/the-way-out-bei-amazon-prime-video-ich-bin-ein-star-und-hol-mich-selbst-raus](https://www.spiegel.de/kultur/the-way-out-bei-amazon-prime-video-ich-bin-ein-star-und-hol-mich-selbst-raus-a-bb63a53c-ab96-4ddb-ac0d-5628ebfbb34c#ref=rss)
-### out
+* [https://www.spiegel.de/ausland/friedrich-merz-das-sagt-der-cdu-kanzler-ueber-seinen-besuch-bei-emmanuel-macron](https://www.spiegel.de/ausland/friedrich-merz-das-sagt-der-cdu-kanzler-ueber-seinen-besuch-bei-emmanuel-macron-a-9afbc41c-3f4a-4efa-9015-4ca51a7456ed#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-minister-thorsten-frei-offen-fuer-zusammenarbeit-mit-linkspartei](https://www.spiegel.de/politik/deutschland/cdu-minister-thorsten-frei-offen-fuer-zusammenarbeit-mit-linkspartei-a-84756ad8-147d-475e-94a6-81b5b5e713ae#ref=rss)
+### trumps
 
-* [https://www.spiegel.de/kultur/the-way-out-bei-amazon-prime-video-ich-bin-ein-star-und-hol-mich-selbst-raus](https://www.spiegel.de/kultur/the-way-out-bei-amazon-prime-video-ich-bin-ein-star-und-hol-mich-selbst-raus-a-bb63a53c-ab96-4ddb-ac0d-5628ebfbb34c#ref=rss)
-### ich
+* [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-in-den-usa-donald-trumps-taskforce-verspricht-fans-reibungslose-turnier-erfahrung-ohne-warnung-geht-es-aber-nicht](https://www.spiegel.de/sport/fussball/fussball-wm-2026-in-den-usa-donald-trumps-taskforce-verspricht-fans-reibungslose-turnier-erfahrung-ohne-warnung-geht-es-aber-nicht-a-ceb989ce-b3cb-4870-b8db-925f831d1eb2#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-kritisiert-donald-trumps-ukrainekurs-in-bbc-interview](https://www.spiegel.de/ausland/joe-biden-kritisiert-donald-trumps-ukrainekurs-in-bbc-interview-a-c2b2a490-90ae-485e-929f-1ca4532f079f#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/kultur/the-way-out-bei-amazon-prime-video-ich-bin-ein-star-und-hol-mich-selbst-raus](https://www.spiegel.de/kultur/the-way-out-bei-amazon-prime-video-ich-bin-ein-star-und-hol-mich-selbst-raus-a-bb63a53c-ab96-4ddb-ac0d-5628ebfbb34c#ref=rss)
-* [https://www.spiegel.de/stil/s-magazin/designer-tom-dixon-ueber-erfolg-ich-denke-bei-jedem-entwurf-erst-mal-das-wird-ein-hit](https://www.spiegel.de/stil/s-magazin/designer-tom-dixon-ueber-erfolg-ich-denke-bei-jedem-entwurf-erst-mal-das-wird-ein-hit-a-5e7a680c-5dac-4798-a308-c6728a387db0#ref=rss)
-### sinn
+* [https://www.spiegel.de/ausland/indien-pakistan-konflikt-zerstoerte-moscheen-und-abgeschossene-kampfjets](https://www.spiegel.de/ausland/indien-pakistan-konflikt-zerstoerte-moscheen-und-abgeschossene-kampfjets-a-78ef8441-f9f2-40b6-9453-ce421af74b1e#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/bildung-in-deutschland-immer-mehr-jugendliche-verlassen-die-schule-ohne-abschluss](https://www.spiegel.de/panorama/bildung/bildung-in-deutschland-immer-mehr-jugendliche-verlassen-die-schule-ohne-abschluss-a-f0036c40-1777-4162-bb34-ef920f63bdcb#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-flavio-briatore-uebernimmt-bei-alpine-als-teamchef-franco-colapinto-ersetzt-jack-doohan](https://www.spiegel.de/sport/formel1/formel-1-flavio-briatore-uebernimmt-bei-alpine-als-teamchef-franco-colapinto-ersetzt-jack-doohan-a-399c94f8-f7d8-4e8f-82f0-e0e60931b1fb#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/kultur/the-way-out-bei-amazon-prime-video-ich-bin-ein-star-und-hol-mich-selbst-raus](https://www.spiegel.de/kultur/the-way-out-bei-amazon-prime-video-ich-bin-ein-star-und-hol-mich-selbst-raus-a-bb63a53c-ab96-4ddb-ac0d-5628ebfbb34c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/tiefseebergbau-was-von-donald-trumps-plaenen-zu-halten-ist](https://www.spiegel.de/wissenschaft/natur/tiefseebergbau-was-von-donald-trumps-plaenen-zu-halten-ist-a-ed07a102-96dc-45f6-a36f-855ad79dd8b8#ref=rss)
-### sorgte
+* [https://www.spiegel.de/kultur/wolfram-weimer-neuer-kulturstaatsminister-gibt-aufgabenbereich-ab](https://www.spiegel.de/kultur/wolfram-weimer-neuer-kulturstaatsminister-gibt-aufgabenbereich-ab-a-5712a3fb-409c-4411-9123-e8b93e39f1b8#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/afd-und-schulen-schuelervertretung-fordert-entlassung-von-lehrern-mit-afd-parteibuch](https://www.spiegel.de/panorama/bildung/afd-und-schulen-schuelervertretung-fordert-entlassung-von-lehrern-mit-afd-parteibuch-a-74537317-773f-4f03-abd3-bc0e158d7fa7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/schwaches-china-geschaeft-laesst-gewinn-bei-bmw-einbrechen](https://www.spiegel.de/wirtschaft/schwaches-china-geschaeft-laesst-gewinn-bei-bmw-einbrechen-a-1b67f1d3-90a3-45ec-a6cc-5ca9231ef38b#ref=rss)
+### getötet
 
-* [https://www.spiegel.de/wirtschaft/buerokratie-abbau-bei-immobilien-wie-aus-450-fragen-30-werden](https://www.spiegel.de/wirtschaft/buerokratie-abbau-bei-immobilien-wie-aus-450-fragen-30-werden-a-5fe90cd3-b0e8-449c-a6df-d62d3ca28fef#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-zieht-zweisternegeneral-von-nato-posten-ab](https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-zieht-zweisternegeneral-von-nato-posten-ab-a-e3f68a1e-68a3-4556-bd56-e249c8cb7d83#ref=rss)
-### protect
+* [https://www.spiegel.de/ausland/libanon-israel-will-hamas-kommandeur-in-sidon-getoetet-haben](https://www.spiegel.de/ausland/libanon-israel-will-hamas-kommandeur-in-sidon-getoetet-haben-a-20dee71f-3ca4-46d9-aa34-7666b37e2780#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/karlsruhe-66-jaehriger-in-sozialunterkunft-getoetet](https://www.spiegel.de/panorama/justiz/karlsruhe-66-jaehriger-in-sozialunterkunft-getoetet-a-50712175-2273-4d3c-a971-c34b2024d400#ref=rss)
+### mailand
 
-* [https://www.spiegel.de/kultur/protect-the-dolls-shirt-was-steckt-dahinter](https://www.spiegel.de/kultur/protect-the-dolls-shirt-was-steckt-dahinter-a-86ca7c64-d0b1-418a-b58c-b5944be0d9ec#ref=rss)
-### schafft
+* [https://www.spiegel.de/sport/fussball/champions-league-inter-mailand-vs-fc-barcelona-das-fussball-epos-von-san-siro](https://www.spiegel.de/sport/fussball/champions-league-inter-mailand-vs-fc-barcelona-das-fussball-epos-von-san-siro-a-55b526d6-8c73-4422-9c53-1ebfacb6ea2d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-inter-besiegt-fc-barcelona-im-halbfinale-pressestimmen](https://www.spiegel.de/sport/fussball/champions-league-inter-besiegt-fc-barcelona-im-halbfinale-pressestimmen-a-5015665d-4338-41f9-9afd-da495960243d#ref=rss)
+### barcelona
 
-* [https://www.spiegel.de/politik/friedrich-merz-so-berichtet-die-internationale-presse-ueber-das-kanzler-drama](https://www.spiegel.de/politik/friedrich-merz-so-berichtet-die-internationale-presse-ueber-das-kanzler-drama-a-886e78c0-1b44-474a-9a00-a2cd8412cab1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-nur-zweite-wahl](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-nur-zweite-wahl-a-6c49bbe9-792d-4f77-af46-9da78a8a0a13#ref=rss)
-### wahl
+* [https://www.spiegel.de/sport/fussball/champions-league-inter-mailand-vs-fc-barcelona-das-fussball-epos-von-san-siro](https://www.spiegel.de/sport/fussball/champions-league-inter-mailand-vs-fc-barcelona-das-fussball-epos-von-san-siro-a-55b526d6-8c73-4422-9c53-1ebfacb6ea2d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-inter-besiegt-fc-barcelona-im-halbfinale-pressestimmen](https://www.spiegel.de/sport/fussball/champions-league-inter-besiegt-fc-barcelona-im-halbfinale-pressestimmen-a-5015665d-4338-41f9-9afd-da495960243d#ref=rss)
+### elon
 
-* [https://www.spiegel.de/politik/friedrich-merz-so-berichtet-die-internationale-presse-ueber-das-kanzler-drama](https://www.spiegel.de/politik/friedrich-merz-so-berichtet-die-internationale-presse-ueber-das-kanzler-drama-a-886e78c0-1b44-474a-9a00-a2cd8412cab1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-nur-zweite-wahl](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-nur-zweite-wahl-a-6c49bbe9-792d-4f77-af46-9da78a8a0a13#ref=rss)
-### bundesrepublik
+* [https://www.spiegel.de/wissenschaft/weltall/elon-musk-faa-erklaert-starship-raketenprogramm-von-spacex-in-texas-fuer-unbedenklich](https://www.spiegel.de/wissenschaft/weltall/elon-musk-faa-erklaert-starship-raketenprogramm-von-spacex-in-texas-fuer-unbedenklich-a-08fd471f-1718-4814-b6e3-2531074004a2#ref=rss)
+### musk
 
-* [https://www.spiegel.de/politik/friedrich-merz-so-berichtet-die-internationale-presse-ueber-das-kanzler-drama](https://www.spiegel.de/politik/friedrich-merz-so-berichtet-die-internationale-presse-ueber-das-kanzler-drama-a-886e78c0-1b44-474a-9a00-a2cd8412cab1#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-sechs-lehren-aus-der-holprigen-kanzlerwahl-des-cdu-chefs](https://www.spiegel.de/politik/friedrich-merz-sechs-lehren-aus-der-holprigen-kanzlerwahl-des-cdu-chefs-a-331e4a6c-3bac-4d38-9992-673eab380690#ref=rss)
-### abstimmung
+* [https://www.spiegel.de/wissenschaft/weltall/elon-musk-faa-erklaert-starship-raketenprogramm-von-spacex-in-texas-fuer-unbedenklich](https://www.spiegel.de/wissenschaft/weltall/elon-musk-faa-erklaert-starship-raketenprogramm-von-spacex-in-texas-fuer-unbedenklich-a-08fd471f-1718-4814-b6e3-2531074004a2#ref=rss)
+### spacex
 
-* [https://www.spiegel.de/politik/friedrich-merz-so-berichtet-die-internationale-presse-ueber-das-kanzler-drama](https://www.spiegel.de/politik/friedrich-merz-so-berichtet-die-internationale-presse-ueber-das-kanzler-drama-a-886e78c0-1b44-474a-9a00-a2cd8412cab1#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-cdu-chef-vom-bundestag-im-zweiten-wahlgang-zum-kanzler-gewaehlt](https://www.spiegel.de/politik/friedrich-merz-cdu-chef-vom-bundestag-im-zweiten-wahlgang-zum-kanzler-gewaehlt-a-1f94b3ac-6e21-4422-acd8-c63a3b594571#ref=rss)
-### hamburg
+* [https://www.spiegel.de/wissenschaft/weltall/elon-musk-faa-erklaert-starship-raketenprogramm-von-spacex-in-texas-fuer-unbedenklich](https://www.spiegel.de/wissenschaft/weltall/elon-musk-faa-erklaert-starship-raketenprogramm-von-spacex-in-texas-fuer-unbedenklich-a-08fd471f-1718-4814-b6e3-2531074004a2#ref=rss)
+### firma
 
-* [https://www.spiegel.de/panorama/hamburg-lotto-gewinner-von-knapp-2-5-millionen-euro-meldet-sich-nach-einem-jahr](https://www.spiegel.de/panorama/hamburg-lotto-gewinner-von-knapp-2-5-millionen-euro-meldet-sich-nach-einem-jahr-a-41b3aeaf-9879-4bde-9fc4-2a8be966fe23#ref=rss)
-### knapp
+* [https://www.spiegel.de/wissenschaft/weltall/elon-musk-faa-erklaert-starship-raketenprogramm-von-spacex-in-texas-fuer-unbedenklich](https://www.spiegel.de/wissenschaft/weltall/elon-musk-faa-erklaert-starship-raketenprogramm-von-spacex-in-texas-fuer-unbedenklich-a-08fd471f-1718-4814-b6e3-2531074004a2#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/ueberwachungsfirma-nso-soll-wegen-whatsapp-attacken-168-millionen-dollar-zahlen](https://www.spiegel.de/netzwelt/apps/ueberwachungsfirma-nso-soll-wegen-whatsapp-attacken-168-millionen-dollar-zahlen-a-c57afff8-c8f7-4409-b93b-6dad316dff5c#ref=rss)
+### künstliche
 
-* [https://www.spiegel.de/panorama/hamburg-lotto-gewinner-von-knapp-2-5-millionen-euro-meldet-sich-nach-einem-jahr](https://www.spiegel.de/panorama/hamburg-lotto-gewinner-von-knapp-2-5-millionen-euro-meldet-sich-nach-einem-jahr-a-41b3aeaf-9879-4bde-9fc4-2a8be966fe23#ref=rss)
-* [https://www.spiegel.de/wirtschaft/russlands-angriffskrieg-eu-kommission-will-gasimporte-aus-dem-land-komplett-verbieten](https://www.spiegel.de/wirtschaft/russlands-angriffskrieg-eu-kommission-will-gasimporte-aus-dem-land-komplett-verbieten-a-b5a8b10c-77ec-4dfd-a62e-931595b46d93#ref=rss)
-### millionen
+* [https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-ki-version-eines-getoeteten-spricht-vor-gericht](https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-ki-version-eines-getoeteten-spricht-vor-gericht-a-1f42d7f8-cc77-4264-9912-09bf96067339#ref=rss)
+* [https://www.spiegel.de/geschichte/kuenstliche-intelligenz-darum-sind-ki-videos-ueber-historische-ereignisse-ein-problem](https://www.spiegel.de/geschichte/kuenstliche-intelligenz-darum-sind-ki-videos-ueber-historische-ereignisse-ein-problem-a-cb3a7161-308d-4c43-80cb-61394d2417a6#ref=rss)
+### intelligenz
 
-* [https://www.spiegel.de/panorama/hamburg-lotto-gewinner-von-knapp-2-5-millionen-euro-meldet-sich-nach-einem-jahr](https://www.spiegel.de/panorama/hamburg-lotto-gewinner-von-knapp-2-5-millionen-euro-meldet-sich-nach-einem-jahr-a-41b3aeaf-9879-4bde-9fc4-2a8be966fe23#ref=rss)
-* [https://www.spiegel.de/netzwelt/games/gta-vi-neuer-trailer-sammelt-millionen-likes](https://www.spiegel.de/netzwelt/games/gta-vi-neuer-trailer-sammelt-millionen-likes-a-b0f6f381-c838-4a30-b768-5acc00698033#ref=rss)
-### mehr
+* [https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-ki-version-eines-getoeteten-spricht-vor-gericht](https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-ki-version-eines-getoeteten-spricht-vor-gericht-a-1f42d7f8-cc77-4264-9912-09bf96067339#ref=rss)
+* [https://www.spiegel.de/geschichte/kuenstliche-intelligenz-darum-sind-ki-videos-ueber-historische-ereignisse-ein-problem](https://www.spiegel.de/geschichte/kuenstliche-intelligenz-darum-sind-ki-videos-ueber-historische-ereignisse-ein-problem-a-cb3a7161-308d-4c43-80cb-61394d2417a6#ref=rss)
+### kiversion
 
-* [https://www.spiegel.de/panorama/hamburg-lotto-gewinner-von-knapp-2-5-millionen-euro-meldet-sich-nach-einem-jahr](https://www.spiegel.de/panorama/hamburg-lotto-gewinner-von-knapp-2-5-millionen-euro-meldet-sich-nach-einem-jahr-a-41b3aeaf-9879-4bde-9fc4-2a8be966fe23#ref=rss)
-* [https://www.spiegel.de/wirtschaft/gas-eu-kommission-plant-unabhaengigkeit-von-russland-bis-ende-2027](https://www.spiegel.de/wirtschaft/gas-eu-kommission-plant-unabhaengigkeit-von-russland-bis-ende-2027-a-6c71dfa6-638d-42e2-8cdd-992a7aa6058c#ref=rss)
-### allterrainreifen
+* [https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-ki-version-eines-getoeteten-spricht-vor-gericht](https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-ki-version-eines-getoeteten-spricht-vor-gericht-a-1f42d7f8-cc77-4264-9912-09bf96067339#ref=rss)
+### gericht
 
-* [https://www.spiegel.de/auto/adac-test-all-terrain-reifen-fahren-abenteuerlich-auf-glatten-strassen](https://www.spiegel.de/auto/adac-test-all-terrain-reifen-fahren-abenteuerlich-auf-glatten-strassen-a-8f21cdf0-23cb-4f36-94af-f43de58ac06f#ref=rss)
-### straßen
+* [https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-ki-version-eines-getoeteten-spricht-vor-gericht](https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-ki-version-eines-getoeteten-spricht-vor-gericht-a-1f42d7f8-cc77-4264-9912-09bf96067339#ref=rss)
+### erstmals
 
-* [https://www.spiegel.de/auto/adac-test-all-terrain-reifen-fahren-abenteuerlich-auf-glatten-strassen](https://www.spiegel.de/auto/adac-test-all-terrain-reifen-fahren-abenteuerlich-auf-glatten-strassen-a-8f21cdf0-23cb-4f36-94af-f43de58ac06f#ref=rss)
-### zweite
+* [https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-ki-version-eines-getoeteten-spricht-vor-gericht](https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-ki-version-eines-getoeteten-spricht-vor-gericht-a-1f42d7f8-cc77-4264-9912-09bf96067339#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-kritisiert-donald-trumps-ukrainekurs-in-bbc-interview](https://www.spiegel.de/ausland/joe-biden-kritisiert-donald-trumps-ukrainekurs-in-bbc-interview-a-c2b2a490-90ae-485e-929f-1ca4532f079f#ref=rss)
+### sagt
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-nur-zweite-wahl](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-nur-zweite-wahl-a-6c49bbe9-792d-4f77-af46-9da78a8a0a13#ref=rss)
-* [https://www.spiegel.de/netzwelt/games/gta-vi-neuer-trailer-sammelt-millionen-likes](https://www.spiegel.de/netzwelt/games/gta-vi-neuer-trailer-sammelt-millionen-likes-a-b0f6f381-c838-4a30-b768-5acc00698033#ref=rss)
-### christina
+* [https://www.spiegel.de/ausland/friedrich-merz-das-sagt-der-cdu-kanzler-ueber-seinen-besuch-bei-emmanuel-macron](https://www.spiegel.de/ausland/friedrich-merz-das-sagt-der-cdu-kanzler-ueber-seinen-besuch-bei-emmanuel-macron-a-9afbc41c-3f4a-4efa-9015-4ca51a7456ed#ref=rss)
+* [https://www.spiegel.de/kultur/tv/julia-kloeckner-bei-maischberger-und-sie-sprach-ich-bin-die-bundestagspraesidentin](https://www.spiegel.de/kultur/tv/julia-kloeckner-bei-maischberger-und-sie-sprach-ich-bin-die-bundestagspraesidentin-a-e8416ba2-85b5-47d8-8814-db0d2729bfc0#ref=rss)
+### macron
 
-* [https://www.spiegel.de/panorama/justiz/christina-block-gericht-entzieht-steakhaus-erbin-sorgerecht-fuer-zwei-kinder](https://www.spiegel.de/panorama/justiz/christina-block-gericht-entzieht-steakhaus-erbin-sorgerecht-fuer-zwei-kinder-a-991572c1-7673-4f43-8cd4-1248e8a31816#ref=rss)
-### block
+* [https://www.spiegel.de/ausland/friedrich-merz-das-sagt-der-cdu-kanzler-ueber-seinen-besuch-bei-emmanuel-macron](https://www.spiegel.de/ausland/friedrich-merz-das-sagt-der-cdu-kanzler-ueber-seinen-besuch-bei-emmanuel-macron-a-9afbc41c-3f4a-4efa-9015-4ca51a7456ed#ref=rss)
+### amt
 
-* [https://www.spiegel.de/panorama/justiz/christina-block-gericht-entzieht-steakhaus-erbin-sorgerecht-fuer-zwei-kinder](https://www.spiegel.de/panorama/justiz/christina-block-gericht-entzieht-steakhaus-erbin-sorgerecht-fuer-zwei-kinder-a-991572c1-7673-4f43-8cd4-1248e8a31816#ref=rss)
-### steakhauserbin
+* [https://www.spiegel.de/ausland/friedrich-merz-das-sagt-der-cdu-kanzler-ueber-seinen-besuch-bei-emmanuel-macron](https://www.spiegel.de/ausland/friedrich-merz-das-sagt-der-cdu-kanzler-ueber-seinen-besuch-bei-emmanuel-macron-a-9afbc41c-3f4a-4efa-9015-4ca51a7456ed#ref=rss)
+* [https://www.spiegel.de/kultur/tv/julia-kloeckner-bei-maischberger-und-sie-sprach-ich-bin-die-bundestagspraesidentin](https://www.spiegel.de/kultur/tv/julia-kloeckner-bei-maischberger-und-sie-sprach-ich-bin-die-bundestagspraesidentin-a-e8416ba2-85b5-47d8-8814-db0d2729bfc0#ref=rss)
+### präsident
 
-* [https://www.spiegel.de/panorama/justiz/christina-block-gericht-entzieht-steakhaus-erbin-sorgerecht-fuer-zwei-kinder](https://www.spiegel.de/panorama/justiz/christina-block-gericht-entzieht-steakhaus-erbin-sorgerecht-fuer-zwei-kinder-a-991572c1-7673-4f43-8cd4-1248e8a31816#ref=rss)
-### sorgerecht
+* [https://www.spiegel.de/ausland/friedrich-merz-das-sagt-der-cdu-kanzler-ueber-seinen-besuch-bei-emmanuel-macron](https://www.spiegel.de/ausland/friedrich-merz-das-sagt-der-cdu-kanzler-ueber-seinen-besuch-bei-emmanuel-macron-a-9afbc41c-3f4a-4efa-9015-4ca51a7456ed#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-in-den-usa-donald-trumps-taskforce-verspricht-fans-reibungslose-turnier-erfahrung-ohne-warnung-geht-es-aber-nicht](https://www.spiegel.de/sport/fussball/fussball-wm-2026-in-den-usa-donald-trumps-taskforce-verspricht-fans-reibungslose-turnier-erfahrung-ohne-warnung-geht-es-aber-nicht-a-ceb989ce-b3cb-4870-b8db-925f831d1eb2#ref=rss)
+### beiden
 
-* [https://www.spiegel.de/panorama/justiz/christina-block-gericht-entzieht-steakhaus-erbin-sorgerecht-fuer-zwei-kinder](https://www.spiegel.de/panorama/justiz/christina-block-gericht-entzieht-steakhaus-erbin-sorgerecht-fuer-zwei-kinder-a-991572c1-7673-4f43-8cd4-1248e8a31816#ref=rss)
-### tom
+* [https://www.spiegel.de/ausland/friedrich-merz-das-sagt-der-cdu-kanzler-ueber-seinen-besuch-bei-emmanuel-macron](https://www.spiegel.de/ausland/friedrich-merz-das-sagt-der-cdu-kanzler-ueber-seinen-besuch-bei-emmanuel-macron-a-9afbc41c-3f4a-4efa-9015-4ca51a7456ed#ref=rss)
+* [https://www.spiegel.de/ausland/indien-pakistan-konflikt-zerstoerte-moscheen-und-abgeschossene-kampfjets](https://www.spiegel.de/ausland/indien-pakistan-konflikt-zerstoerte-moscheen-und-abgeschossene-kampfjets-a-78ef8441-f9f2-40b6-9453-ce421af74b1e#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/stil/s-magazin/designer-tom-dixon-ueber-erfolg-ich-denke-bei-jedem-entwurf-erst-mal-das-wird-ein-hit](https://www.spiegel.de/stil/s-magazin/designer-tom-dixon-ueber-erfolg-ich-denke-bei-jedem-entwurf-erst-mal-das-wird-ein-hit-a-5e7a680c-5dac-4798-a308-c6728a387db0#ref=rss)
-### dixon
+* [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
+* [https://www.spiegel.de/ausland/indien-pakistan-konflikt-zerstoerte-moscheen-und-abgeschossene-kampfjets](https://www.spiegel.de/ausland/indien-pakistan-konflikt-zerstoerte-moscheen-und-abgeschossene-kampfjets-a-78ef8441-f9f2-40b6-9453-ce421af74b1e#ref=rss)
+### begonnen
 
-* [https://www.spiegel.de/stil/s-magazin/designer-tom-dixon-ueber-erfolg-ich-denke-bei-jedem-entwurf-erst-mal-das-wird-ein-hit](https://www.spiegel.de/stil/s-magazin/designer-tom-dixon-ueber-erfolg-ich-denke-bei-jedem-entwurf-erst-mal-das-wird-ein-hit-a-5e7a680c-5dac-4798-a308-c6728a387db0#ref=rss)
-### vi
+* [https://www.spiegel.de/panorama/vatikan-konklave-hat-offiziell-begonnen-wer-wird-neuer-papst](https://www.spiegel.de/panorama/vatikan-konklave-hat-offiziell-begonnen-wer-wird-neuer-papst-a-2a768743-7c3a-44e9-a366-9ed329daac8a#ref=rss)
+### neuer
 
-* [https://www.spiegel.de/netzwelt/games/gta-vi-neuer-trailer-sammelt-millionen-likes](https://www.spiegel.de/netzwelt/games/gta-vi-neuer-trailer-sammelt-millionen-likes-a-b0f6f381-c838-4a30-b768-5acc00698033#ref=rss)
-### trailer
+* [https://www.spiegel.de/panorama/vatikan-konklave-hat-offiziell-begonnen-wer-wird-neuer-papst](https://www.spiegel.de/panorama/vatikan-konklave-hat-offiziell-begonnen-wer-wird-neuer-papst-a-2a768743-7c3a-44e9-a366-9ed329daac8a#ref=rss)
+* [https://www.spiegel.de/kultur/wolfram-weimer-neuer-kulturstaatsminister-gibt-aufgabenbereich-ab](https://www.spiegel.de/kultur/wolfram-weimer-neuer-kulturstaatsminister-gibt-aufgabenbereich-ab-a-5712a3fb-409c-4411-9123-e8b93e39f1b8#ref=rss)
+### prozess
 
-* [https://www.spiegel.de/netzwelt/games/gta-vi-neuer-trailer-sammelt-millionen-likes](https://www.spiegel.de/netzwelt/games/gta-vi-neuer-trailer-sammelt-millionen-likes-a-b0f6f381-c838-4a30-b768-5acc00698033#ref=rss)
-### interesse
+* [https://www.spiegel.de/panorama/vatikan-konklave-hat-offiziell-begonnen-wer-wird-neuer-papst](https://www.spiegel.de/panorama/vatikan-konklave-hat-offiziell-begonnen-wer-wird-neuer-papst-a-2a768743-7c3a-44e9-a366-9ed329daac8a#ref=rss)
+* [https://www.spiegel.de/kultur/tv/julia-kloeckner-bei-maischberger-und-sie-sprach-ich-bin-die-bundestagspraesidentin](https://www.spiegel.de/kultur/tv/julia-kloeckner-bei-maischberger-und-sie-sprach-ich-bin-die-bundestagspraesidentin-a-e8416ba2-85b5-47d8-8814-db0d2729bfc0#ref=rss)
+### fußballwm
 
-* [https://www.spiegel.de/netzwelt/games/gta-vi-neuer-trailer-sammelt-millionen-likes](https://www.spiegel.de/netzwelt/games/gta-vi-neuer-trailer-sammelt-millionen-likes-a-b0f6f381-c838-4a30-b768-5acc00698033#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/tiefseebergbau-was-von-donald-trumps-plaenen-zu-halten-ist](https://www.spiegel.de/wissenschaft/natur/tiefseebergbau-was-von-donald-trumps-plaenen-zu-halten-ist-a-ed07a102-96dc-45f6-a36f-855ad79dd8b8#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-in-den-usa-donald-trumps-taskforce-verspricht-fans-reibungslose-turnier-erfahrung-ohne-warnung-geht-es-aber-nicht](https://www.spiegel.de/sport/fussball/fussball-wm-2026-in-den-usa-donald-trumps-taskforce-verspricht-fans-reibungslose-turnier-erfahrung-ohne-warnung-geht-es-aber-nicht-a-ceb989ce-b3cb-4870-b8db-925f831d1eb2#ref=rss)
+### 2026
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-in-den-usa-donald-trumps-taskforce-verspricht-fans-reibungslose-turnier-erfahrung-ohne-warnung-geht-es-aber-nicht](https://www.spiegel.de/sport/fussball/fussball-wm-2026-in-den-usa-donald-trumps-taskforce-verspricht-fans-reibungslose-turnier-erfahrung-ohne-warnung-geht-es-aber-nicht-a-ceb989ce-b3cb-4870-b8db-925f831d1eb2#ref=rss)
 ### ohne
 
-* [https://www.spiegel.de/netzwelt/games/gta-vi-neuer-trailer-sammelt-millionen-likes](https://www.spiegel.de/netzwelt/games/gta-vi-neuer-trailer-sammelt-millionen-likes-a-b0f6f381-c838-4a30-b768-5acc00698033#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/tiefseebergbau-was-von-donald-trumps-plaenen-zu-halten-ist](https://www.spiegel.de/wissenschaft/natur/tiefseebergbau-was-von-donald-trumps-plaenen-zu-halten-ist-a-ed07a102-96dc-45f6-a36f-855ad79dd8b8#ref=rss)
-### boris
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-in-den-usa-donald-trumps-taskforce-verspricht-fans-reibungslose-turnier-erfahrung-ohne-warnung-geht-es-aber-nicht](https://www.spiegel.de/sport/fussball/fussball-wm-2026-in-den-usa-donald-trumps-taskforce-verspricht-fans-reibungslose-turnier-erfahrung-ohne-warnung-geht-es-aber-nicht-a-ceb989ce-b3cb-4870-b8db-925f831d1eb2#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/bildung-in-deutschland-immer-mehr-jugendliche-verlassen-die-schule-ohne-abschluss](https://www.spiegel.de/panorama/bildung/bildung-in-deutschland-immer-mehr-jugendliche-verlassen-die-schule-ohne-abschluss-a-f0036c40-1777-4162-bb34-ef920f63bdcb#ref=rss)
+### trump
 
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-zieht-zweisternegeneral-von-nato-posten-ab](https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-zieht-zweisternegeneral-von-nato-posten-ab-a-e3f68a1e-68a3-4556-bd56-e249c8cb7d83#ref=rss)
-### pistorius
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-in-den-usa-donald-trumps-taskforce-verspricht-fans-reibungslose-turnier-erfahrung-ohne-warnung-geht-es-aber-nicht](https://www.spiegel.de/sport/fussball/fussball-wm-2026-in-den-usa-donald-trumps-taskforce-verspricht-fans-reibungslose-turnier-erfahrung-ohne-warnung-geht-es-aber-nicht-a-ceb989ce-b3cb-4870-b8db-925f831d1eb2#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-kritisiert-donald-trumps-ukrainekurs-in-bbc-interview](https://www.spiegel.de/ausland/joe-biden-kritisiert-donald-trumps-ukrainekurs-in-bbc-interview-a-c2b2a490-90ae-485e-929f-1ca4532f079f#ref=rss)
+### grenzkontrollen
 
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-zieht-zweisternegeneral-von-nato-posten-ab](https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-zieht-zweisternegeneral-von-nato-posten-ab-a-e3f68a1e-68a3-4556-bd56-e249c8cb7d83#ref=rss)
-### diesem
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-in-den-usa-donald-trumps-taskforce-verspricht-fans-reibungslose-turnier-erfahrung-ohne-warnung-geht-es-aber-nicht](https://www.spiegel.de/sport/fussball/fussball-wm-2026-in-den-usa-donald-trumps-taskforce-verspricht-fans-reibungslose-turnier-erfahrung-ohne-warnung-geht-es-aber-nicht-a-ceb989ce-b3cb-4870-b8db-925f831d1eb2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/alexander-dobrindt-so-will-der-neue-innenminister-die-grenzkontrollen-verschaerfen](https://www.spiegel.de/politik/deutschland/alexander-dobrindt-so-will-der-neue-innenminister-die-grenzkontrollen-verschaerfen-a-1d8e3707-94bf-4346-92b7-22ff32b0a691#ref=rss)
+### abschuss
 
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-zieht-zweisternegeneral-von-nato-posten-ab](https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-zieht-zweisternegeneral-von-nato-posten-ab-a-e3f68a1e-68a3-4556-bd56-e249c8cb7d83#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-sechs-lehren-aus-der-holprigen-kanzlerwahl-des-cdu-chefs](https://www.spiegel.de/politik/friedrich-merz-sechs-lehren-aus-der-holprigen-kanzlerwahl-des-cdu-chefs-a-331e4a6c-3bac-4d38-9992-673eab380690#ref=rss)
-### münchen
+* [https://www.spiegel.de/panorama/justiz/mecklenburg-vorpommern-abschuss-einer-woelfin-minister-till-backhaus-droht-anklage](https://www.spiegel.de/panorama/justiz/mecklenburg-vorpommern-abschuss-einer-woelfin-minister-till-backhaus-droht-anklage-a-63e59f3f-ef27-4790-95d2-9106b621fd61#ref=rss)
+### wölfin
 
-* [https://www.spiegel.de/wissenschaft/medizin/tu-muenchen-neues-verfahren-findet-krankheitserreger-in-minuten-statt-tagen](https://www.spiegel.de/wissenschaft/medizin/tu-muenchen-neues-verfahren-findet-krankheitserreger-in-minuten-statt-tagen-a-4f08acbc-933e-4f6c-aa08-f29a9800c6af#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bayern-muenchen-alphonso-davies-berichtet-von-mentalem-zusammenbruch-waehrend-der-reha](https://www.spiegel.de/sport/fussball/bayern-muenchen-alphonso-davies-berichtet-von-mentalem-zusammenbruch-waehrend-der-reha-a-c9e02fde-fb45-48a7-9f4a-f4640467a2c0#ref=rss)
-### findet
+* [https://www.spiegel.de/panorama/justiz/mecklenburg-vorpommern-abschuss-einer-woelfin-minister-till-backhaus-droht-anklage](https://www.spiegel.de/panorama/justiz/mecklenburg-vorpommern-abschuss-einer-woelfin-minister-till-backhaus-droht-anklage-a-63e59f3f-ef27-4790-95d2-9106b621fd61#ref=rss)
+### till
 
-* [https://www.spiegel.de/wissenschaft/medizin/tu-muenchen-neues-verfahren-findet-krankheitserreger-in-minuten-statt-tagen](https://www.spiegel.de/wissenschaft/medizin/tu-muenchen-neues-verfahren-findet-krankheitserreger-in-minuten-statt-tagen-a-4f08acbc-933e-4f6c-aa08-f29a9800c6af#ref=rss)
-* [https://www.spiegel.de/kultur/alexander-skarsgard-will-nicht-james-bond-werden](https://www.spiegel.de/kultur/alexander-skarsgard-will-nicht-james-bond-werden-a-ecc72e7f-a333-4e4b-b8ab-cc0b66d497bf#ref=rss)
-### alexander
+* [https://www.spiegel.de/panorama/justiz/mecklenburg-vorpommern-abschuss-einer-woelfin-minister-till-backhaus-droht-anklage](https://www.spiegel.de/panorama/justiz/mecklenburg-vorpommern-abschuss-einer-woelfin-minister-till-backhaus-droht-anklage-a-63e59f3f-ef27-4790-95d2-9106b621fd61#ref=rss)
+### backhaus
 
-* [https://www.spiegel.de/kultur/alexander-skarsgard-will-nicht-james-bond-werden](https://www.spiegel.de/kultur/alexander-skarsgard-will-nicht-james-bond-werden-a-ecc72e7f-a333-4e4b-b8ab-cc0b66d497bf#ref=rss)
-### skarsgård
+* [https://www.spiegel.de/panorama/justiz/mecklenburg-vorpommern-abschuss-einer-woelfin-minister-till-backhaus-droht-anklage](https://www.spiegel.de/panorama/justiz/mecklenburg-vorpommern-abschuss-einer-woelfin-minister-till-backhaus-droht-anklage-a-63e59f3f-ef27-4790-95d2-9106b621fd61#ref=rss)
+### folgen
 
-* [https://www.spiegel.de/kultur/alexander-skarsgard-will-nicht-james-bond-werden](https://www.spiegel.de/kultur/alexander-skarsgard-will-nicht-james-bond-werden-a-ecc72e7f-a333-4e4b-b8ab-cc0b66d497bf#ref=rss)
-### plant
+* [https://www.spiegel.de/panorama/justiz/mecklenburg-vorpommern-abschuss-einer-woelfin-minister-till-backhaus-droht-anklage](https://www.spiegel.de/panorama/justiz/mecklenburg-vorpommern-abschuss-einer-woelfin-minister-till-backhaus-droht-anklage-a-63e59f3f-ef27-4790-95d2-9106b621fd61#ref=rss)
+* [https://www.spiegel.de/kultur/wolfram-weimer-neuer-kulturstaatsminister-gibt-aufgabenbereich-ab](https://www.spiegel.de/kultur/wolfram-weimer-neuer-kulturstaatsminister-gibt-aufgabenbereich-ab-a-5712a3fb-409c-4411-9123-e8b93e39f1b8#ref=rss)
+### gilt
 
-* [https://www.spiegel.de/wirtschaft/gas-eu-kommission-plant-unabhaengigkeit-von-russland-bis-ende-2027](https://www.spiegel.de/wirtschaft/gas-eu-kommission-plant-unabhaengigkeit-von-russland-bis-ende-2027-a-6c71dfa6-638d-42e2-8cdd-992a7aa6058c#ref=rss)
-### erdgas
+* [https://www.spiegel.de/politik/deutschland/cdu-minister-thorsten-frei-offen-fuer-zusammenarbeit-mit-linkspartei](https://www.spiegel.de/politik/deutschland/cdu-minister-thorsten-frei-offen-fuer-zusammenarbeit-mit-linkspartei-a-84756ad8-147d-475e-94a6-81b5b5e713ae#ref=rss)
+* [https://www.spiegel.de/ausland/libanon-israel-will-hamas-kommandeur-in-sidon-getoetet-haben](https://www.spiegel.de/ausland/libanon-israel-will-hamas-kommandeur-in-sidon-getoetet-haben-a-20dee71f-3ca4-46d9-aa34-7666b37e2780#ref=rss)
+### konnte
 
-* [https://www.spiegel.de/wirtschaft/gas-eu-kommission-plant-unabhaengigkeit-von-russland-bis-ende-2027](https://www.spiegel.de/wirtschaft/gas-eu-kommission-plant-unabhaengigkeit-von-russland-bis-ende-2027-a-6c71dfa6-638d-42e2-8cdd-992a7aa6058c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/russlands-angriffskrieg-eu-kommission-will-gasimporte-aus-dem-land-komplett-verbieten](https://www.spiegel.de/wirtschaft/russlands-angriffskrieg-eu-kommission-will-gasimporte-aus-dem-land-komplett-verbieten-a-b5a8b10c-77ec-4dfd-a62e-931595b46d93#ref=rss)
-### jahre
+* [https://www.spiegel.de/politik/deutschland/cdu-minister-thorsten-frei-offen-fuer-zusammenarbeit-mit-linkspartei](https://www.spiegel.de/politik/deutschland/cdu-minister-thorsten-frei-offen-fuer-zusammenarbeit-mit-linkspartei-a-84756ad8-147d-475e-94a6-81b5b5e713ae#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/ueberwachungsfirma-nso-soll-wegen-whatsapp-attacken-168-millionen-dollar-zahlen](https://www.spiegel.de/netzwelt/apps/ueberwachungsfirma-nso-soll-wegen-whatsapp-attacken-168-millionen-dollar-zahlen-a-c57afff8-c8f7-4409-b93b-6dad316dff5c#ref=rss)
+### landesverband
 
-* [https://www.spiegel.de/wirtschaft/gas-eu-kommission-plant-unabhaengigkeit-von-russland-bis-ende-2027](https://www.spiegel.de/wirtschaft/gas-eu-kommission-plant-unabhaengigkeit-von-russland-bis-ende-2027-a-6c71dfa6-638d-42e2-8cdd-992a7aa6058c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/russlands-angriffskrieg-eu-kommission-will-gasimporte-aus-dem-land-komplett-verbieten](https://www.spiegel.de/wirtschaft/russlands-angriffskrieg-eu-kommission-will-gasimporte-aus-dem-land-komplett-verbieten-a-b5a8b10c-77ec-4dfd-a62e-931595b46d93#ref=rss)
-### schritten
+* [https://www.spiegel.de/politik/deutschland/afd-brandenburger-landesverband-als-rechtsextrem-eingestuft](https://www.spiegel.de/politik/deutschland/afd-brandenburger-landesverband-als-rechtsextrem-eingestuft-a-4a60181b-5c7b-4cbb-a873-9b3537443809#ref=rss)
+### rechtsextrem
 
-* [https://www.spiegel.de/wirtschaft/gas-eu-kommission-plant-unabhaengigkeit-von-russland-bis-ende-2027](https://www.spiegel.de/wirtschaft/gas-eu-kommission-plant-unabhaengigkeit-von-russland-bis-ende-2027-a-6c71dfa6-638d-42e2-8cdd-992a7aa6058c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/russlands-angriffskrieg-eu-kommission-will-gasimporte-aus-dem-land-komplett-verbieten](https://www.spiegel.de/wirtschaft/russlands-angriffskrieg-eu-kommission-will-gasimporte-aus-dem-land-komplett-verbieten-a-b5a8b10c-77ec-4dfd-a62e-931595b46d93#ref=rss)
-### angela
+* [https://www.spiegel.de/politik/deutschland/afd-brandenburger-landesverband-als-rechtsextrem-eingestuft](https://www.spiegel.de/politik/deutschland/afd-brandenburger-landesverband-als-rechtsextrem-eingestuft-a-4a60181b-5c7b-4cbb-a873-9b3537443809#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/afd-und-schulen-schuelervertretung-fordert-entlassung-von-lehrern-mit-afd-parteibuch](https://www.spiegel.de/panorama/bildung/afd-und-schulen-schuelervertretung-fordert-entlassung-von-lehrern-mit-afd-parteibuch-a-74537317-773f-4f03-abd3-bc0e158d7fa7#ref=rss)
+### eingestuft
 
-* [https://www.spiegel.de/politik/friedrich-merz-altkanzlerin-angela-merkel-verlaesst-tribuene-im-bundestag-wieder](https://www.spiegel.de/politik/friedrich-merz-altkanzlerin-angela-merkel-verlaesst-tribuene-im-bundestag-wieder-a-84b88d2c-daff-4726-8b57-24955f5112cf#ref=rss)
-### merkel
+* [https://www.spiegel.de/politik/deutschland/afd-brandenburger-landesverband-als-rechtsextrem-eingestuft](https://www.spiegel.de/politik/deutschland/afd-brandenburger-landesverband-als-rechtsextrem-eingestuft-a-4a60181b-5c7b-4cbb-a873-9b3537443809#ref=rss)
+### gesichert
 
-* [https://www.spiegel.de/politik/friedrich-merz-altkanzlerin-angela-merkel-verlaesst-tribuene-im-bundestag-wieder](https://www.spiegel.de/politik/friedrich-merz-altkanzlerin-angela-merkel-verlaesst-tribuene-im-bundestag-wieder-a-84b88d2c-daff-4726-8b57-24955f5112cf#ref=rss)
-### türkei
+* [https://www.spiegel.de/politik/deutschland/afd-brandenburger-landesverband-als-rechtsextrem-eingestuft](https://www.spiegel.de/politik/deutschland/afd-brandenburger-landesverband-als-rechtsextrem-eingestuft-a-4a60181b-5c7b-4cbb-a873-9b3537443809#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/afd-und-schulen-schuelervertretung-fordert-entlassung-von-lehrern-mit-afd-parteibuch](https://www.spiegel.de/panorama/bildung/afd-und-schulen-schuelervertretung-fordert-entlassung-von-lehrern-mit-afd-parteibuch-a-74537317-773f-4f03-abd3-bc0e158d7fa7#ref=rss)
+### angegriffen
 
-* [https://www.spiegel.de/panorama/justiz/tuerkei-bekannter-rapper-lvbel-c5-verhaftet](https://www.spiegel.de/panorama/justiz/tuerkei-bekannter-rapper-lvbel-c5-verhaftet-a-20ff33ce-9d52-4349-94e4-a3da847e0fcc#ref=rss)
-### rapper
+* [https://www.spiegel.de/ausland/indien-pakistan-konflikt-zerstoerte-moscheen-und-abgeschossene-kampfjets](https://www.spiegel.de/ausland/indien-pakistan-konflikt-zerstoerte-moscheen-und-abgeschossene-kampfjets-a-78ef8441-f9f2-40b6-9453-ce421af74b1e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/karlsruhe-66-jaehriger-in-sozialunterkunft-getoetet](https://www.spiegel.de/panorama/justiz/karlsruhe-66-jaehriger-in-sozialunterkunft-getoetet-a-50712175-2273-4d3c-a971-c34b2024d400#ref=rss)
+### wolfram
 
-* [https://www.spiegel.de/panorama/justiz/tuerkei-bekannter-rapper-lvbel-c5-verhaftet](https://www.spiegel.de/panorama/justiz/tuerkei-bekannter-rapper-lvbel-c5-verhaftet-a-20ff33ce-9d52-4349-94e4-a3da847e0fcc#ref=rss)
-### luftangriff
+* [https://www.spiegel.de/kultur/wolfram-weimer-neuer-kulturstaatsminister-gibt-aufgabenbereich-ab](https://www.spiegel.de/kultur/wolfram-weimer-neuer-kulturstaatsminister-gibt-aufgabenbereich-ab-a-5712a3fb-409c-4411-9123-e8b93e39f1b8#ref=rss)
+### weimer
 
-* [https://www.spiegel.de/politik/jemen-israel-bestaetigt-luftangriff-auf-flughafen-in-sanaa](https://www.spiegel.de/politik/jemen-israel-bestaetigt-luftangriff-auf-flughafen-in-sanaa-a-1d2adf84-871f-4b4d-baeb-8935e74e9524#ref=rss)
-### flughafen
+* [https://www.spiegel.de/kultur/wolfram-weimer-neuer-kulturstaatsminister-gibt-aufgabenbereich-ab](https://www.spiegel.de/kultur/wolfram-weimer-neuer-kulturstaatsminister-gibt-aufgabenbereich-ab-a-5712a3fb-409c-4411-9123-e8b93e39f1b8#ref=rss)
+### kulturstaatsminister
 
-* [https://www.spiegel.de/politik/jemen-israel-bestaetigt-luftangriff-auf-flughafen-in-sanaa](https://www.spiegel.de/politik/jemen-israel-bestaetigt-luftangriff-auf-flughafen-in-sanaa-a-1d2adf84-871f-4b4d-baeb-8935e74e9524#ref=rss)
-### sanaa
+* [https://www.spiegel.de/kultur/wolfram-weimer-neuer-kulturstaatsminister-gibt-aufgabenbereich-ab](https://www.spiegel.de/kultur/wolfram-weimer-neuer-kulturstaatsminister-gibt-aufgabenbereich-ab-a-5712a3fb-409c-4411-9123-e8b93e39f1b8#ref=rss)
+### historische
 
-* [https://www.spiegel.de/politik/jemen-israel-bestaetigt-luftangriff-auf-flughafen-in-sanaa](https://www.spiegel.de/politik/jemen-israel-bestaetigt-luftangriff-auf-flughafen-in-sanaa-a-1d2adf84-871f-4b4d-baeb-8935e74e9524#ref=rss)
-### israelischen
+* [https://www.spiegel.de/geschichte/kuenstliche-intelligenz-darum-sind-ki-videos-ueber-historische-ereignisse-ein-problem](https://www.spiegel.de/geschichte/kuenstliche-intelligenz-darum-sind-ki-videos-ueber-historische-ereignisse-ein-problem-a-cb3a7161-308d-4c43-80cb-61394d2417a6#ref=rss)
+### problem
 
-* [https://www.spiegel.de/politik/jemen-israel-bestaetigt-luftangriff-auf-flughafen-in-sanaa](https://www.spiegel.de/politik/jemen-israel-bestaetigt-luftangriff-auf-flughafen-in-sanaa-a-1d2adf84-871f-4b4d-baeb-8935e74e9524#ref=rss)
-### alphonso
+* [https://www.spiegel.de/geschichte/kuenstliche-intelligenz-darum-sind-ki-videos-ueber-historische-ereignisse-ein-problem](https://www.spiegel.de/geschichte/kuenstliche-intelligenz-darum-sind-ki-videos-ueber-historische-ereignisse-ein-problem-a-cb3a7161-308d-4c43-80cb-61394d2417a6#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/amazon-neue-maschinen-verpacken-waren-passgenau](https://www.spiegel.de/netzwelt/web/amazon-neue-maschinen-verpacken-waren-passgenau-a-60e90ab4-852a-43e6-85ee-42e9b2c098d0#ref=rss)
+### oft
 
-* [https://www.spiegel.de/sport/fussball/bayern-muenchen-alphonso-davies-berichtet-von-mentalem-zusammenbruch-waehrend-der-reha](https://www.spiegel.de/sport/fussball/bayern-muenchen-alphonso-davies-berichtet-von-mentalem-zusammenbruch-waehrend-der-reha-a-c9e02fde-fb45-48a7-9f4a-f4640467a2c0#ref=rss)
-### davies
+* [https://www.spiegel.de/geschichte/kuenstliche-intelligenz-darum-sind-ki-videos-ueber-historische-ereignisse-ein-problem](https://www.spiegel.de/geschichte/kuenstliche-intelligenz-darum-sind-ki-videos-ueber-historische-ereignisse-ein-problem-a-cb3a7161-308d-4c43-80cb-61394d2417a6#ref=rss)
+* [https://www.spiegel.de/kultur/tv/julia-kloeckner-bei-maischberger-und-sie-sprach-ich-bin-die-bundestagspraesidentin](https://www.spiegel.de/kultur/tv/julia-kloeckner-bei-maischberger-und-sie-sprach-ich-bin-die-bundestagspraesidentin-a-e8416ba2-85b5-47d8-8814-db0d2729bfc0#ref=rss)
+### libanon
 
-* [https://www.spiegel.de/sport/fussball/bayern-muenchen-alphonso-davies-berichtet-von-mentalem-zusammenbruch-waehrend-der-reha](https://www.spiegel.de/sport/fussball/bayern-muenchen-alphonso-davies-berichtet-von-mentalem-zusammenbruch-waehrend-der-reha-a-c9e02fde-fb45-48a7-9f4a-f4640467a2c0#ref=rss)
+* [https://www.spiegel.de/ausland/libanon-israel-will-hamas-kommandeur-in-sidon-getoetet-haben](https://www.spiegel.de/ausland/libanon-israel-will-hamas-kommandeur-in-sidon-getoetet-haben-a-20dee71f-3ca4-46d9-aa34-7666b37e2780#ref=rss)
+### israel
+
+* [https://www.spiegel.de/ausland/libanon-israel-will-hamas-kommandeur-in-sidon-getoetet-haben](https://www.spiegel.de/ausland/libanon-israel-will-hamas-kommandeur-in-sidon-getoetet-haben-a-20dee71f-3ca4-46d9-aa34-7666b37e2780#ref=rss)
+### champions
+
+* [https://www.spiegel.de/sport/fussball/champions-league-inter-mailand-vs-fc-barcelona-das-fussball-epos-von-san-siro](https://www.spiegel.de/sport/fussball/champions-league-inter-mailand-vs-fc-barcelona-das-fussball-epos-von-san-siro-a-55b526d6-8c73-4422-9c53-1ebfacb6ea2d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-inter-besiegt-fc-barcelona-im-halbfinale-pressestimmen](https://www.spiegel.de/sport/fussball/champions-league-inter-besiegt-fc-barcelona-im-halbfinale-pressestimmen-a-5015665d-4338-41f9-9afd-da495960243d#ref=rss)
+### league
+
+* [https://www.spiegel.de/sport/fussball/champions-league-inter-mailand-vs-fc-barcelona-das-fussball-epos-von-san-siro](https://www.spiegel.de/sport/fussball/champions-league-inter-mailand-vs-fc-barcelona-das-fussball-epos-von-san-siro-a-55b526d6-8c73-4422-9c53-1ebfacb6ea2d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-inter-besiegt-fc-barcelona-im-halbfinale-pressestimmen](https://www.spiegel.de/sport/fussball/champions-league-inter-besiegt-fc-barcelona-im-halbfinale-pressestimmen-a-5015665d-4338-41f9-9afd-da495960243d#ref=rss)
+### vs
+
+* [https://www.spiegel.de/sport/fussball/champions-league-inter-mailand-vs-fc-barcelona-das-fussball-epos-von-san-siro](https://www.spiegel.de/sport/fussball/champions-league-inter-mailand-vs-fc-barcelona-das-fussball-epos-von-san-siro-a-55b526d6-8c73-4422-9c53-1ebfacb6ea2d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-inter-besiegt-fc-barcelona-im-halbfinale-pressestimmen](https://www.spiegel.de/sport/fussball/champions-league-inter-besiegt-fc-barcelona-im-halbfinale-pressestimmen-a-5015665d-4338-41f9-9afd-da495960243d#ref=rss)
+### fc
+
+* [https://www.spiegel.de/sport/fussball/champions-league-inter-mailand-vs-fc-barcelona-das-fussball-epos-von-san-siro](https://www.spiegel.de/sport/fussball/champions-league-inter-mailand-vs-fc-barcelona-das-fussball-epos-von-san-siro-a-55b526d6-8c73-4422-9c53-1ebfacb6ea2d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-inter-besiegt-fc-barcelona-im-halbfinale-pressestimmen](https://www.spiegel.de/sport/fussball/champions-league-inter-besiegt-fc-barcelona-im-halbfinale-pressestimmen-a-5015665d-4338-41f9-9afd-da495960243d#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/politik/deutschland/alexander-dobrindt-so-will-der-neue-innenminister-die-grenzkontrollen-verschaerfen](https://www.spiegel.de/politik/deutschland/alexander-dobrindt-so-will-der-neue-innenminister-die-grenzkontrollen-verschaerfen-a-1d8e3707-94bf-4346-92b7-22ff32b0a691#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/bildung-in-deutschland-immer-mehr-jugendliche-verlassen-die-schule-ohne-abschluss](https://www.spiegel.de/panorama/bildung/bildung-in-deutschland-immer-mehr-jugendliche-verlassen-die-schule-ohne-abschluss-a-f0036c40-1777-4162-bb34-ef920f63bdcb#ref=rss)
+### viele
+
+* [https://www.spiegel.de/politik/deutschland/alexander-dobrindt-so-will-der-neue-innenminister-die-grenzkontrollen-verschaerfen](https://www.spiegel.de/politik/deutschland/alexander-dobrindt-so-will-der-neue-innenminister-die-grenzkontrollen-verschaerfen-a-1d8e3707-94bf-4346-92b7-22ff32b0a691#ref=rss)
+### karlsruhe
+
+* [https://www.spiegel.de/panorama/justiz/karlsruhe-66-jaehriger-in-sozialunterkunft-getoetet](https://www.spiegel.de/panorama/justiz/karlsruhe-66-jaehriger-in-sozialunterkunft-getoetet-a-50712175-2273-4d3c-a971-c34b2024d400#ref=rss)
+### sozialunterkunft
+
+* [https://www.spiegel.de/panorama/justiz/karlsruhe-66-jaehriger-in-sozialunterkunft-getoetet](https://www.spiegel.de/panorama/justiz/karlsruhe-66-jaehriger-in-sozialunterkunft-getoetet-a-50712175-2273-4d3c-a971-c34b2024d400#ref=rss)
+### opfer
+
+* [https://www.spiegel.de/panorama/justiz/karlsruhe-66-jaehriger-in-sozialunterkunft-getoetet](https://www.spiegel.de/panorama/justiz/karlsruhe-66-jaehriger-in-sozialunterkunft-getoetet-a-50712175-2273-4d3c-a971-c34b2024d400#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/ueberwachungsfirma-nso-soll-wegen-whatsapp-attacken-168-millionen-dollar-zahlen](https://www.spiegel.de/netzwelt/apps/ueberwachungsfirma-nso-soll-wegen-whatsapp-attacken-168-millionen-dollar-zahlen-a-c57afff8-c8f7-4409-b93b-6dad316dff5c#ref=rss)
+### scharfen
+
+* [https://www.spiegel.de/panorama/justiz/karlsruhe-66-jaehriger-in-sozialunterkunft-getoetet](https://www.spiegel.de/panorama/justiz/karlsruhe-66-jaehriger-in-sozialunterkunft-getoetet-a-50712175-2273-4d3c-a971-c34b2024d400#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-kritisiert-donald-trumps-ukrainekurs-in-bbc-interview](https://www.spiegel.de/ausland/joe-biden-kritisiert-donald-trumps-ukrainekurs-in-bbc-interview-a-c2b2a490-90ae-485e-929f-1ca4532f079f#ref=rss)
+### flavio
+
+* [https://www.spiegel.de/sport/formel1/formel-1-flavio-briatore-uebernimmt-bei-alpine-als-teamchef-franco-colapinto-ersetzt-jack-doohan](https://www.spiegel.de/sport/formel1/formel-1-flavio-briatore-uebernimmt-bei-alpine-als-teamchef-franco-colapinto-ersetzt-jack-doohan-a-399c94f8-f7d8-4e8f-82f0-e0e60931b1fb#ref=rss)
+### briatore
+
+* [https://www.spiegel.de/sport/formel1/formel-1-flavio-briatore-uebernimmt-bei-alpine-als-teamchef-franco-colapinto-ersetzt-jack-doohan](https://www.spiegel.de/sport/formel1/formel-1-flavio-briatore-uebernimmt-bei-alpine-als-teamchef-franco-colapinto-ersetzt-jack-doohan-a-399c94f8-f7d8-4e8f-82f0-e0e60931b1fb#ref=rss)
+### übernimmt
+
+* [https://www.spiegel.de/sport/formel1/formel-1-flavio-briatore-uebernimmt-bei-alpine-als-teamchef-franco-colapinto-ersetzt-jack-doohan](https://www.spiegel.de/sport/formel1/formel-1-flavio-briatore-uebernimmt-bei-alpine-als-teamchef-franco-colapinto-ersetzt-jack-doohan-a-399c94f8-f7d8-4e8f-82f0-e0e60931b1fb#ref=rss)
+### julia
+
+* [https://www.spiegel.de/kultur/tv/julia-kloeckner-bei-maischberger-und-sie-sprach-ich-bin-die-bundestagspraesidentin](https://www.spiegel.de/kultur/tv/julia-kloeckner-bei-maischberger-und-sie-sprach-ich-bin-die-bundestagspraesidentin-a-e8416ba2-85b5-47d8-8814-db0d2729bfc0#ref=rss)
+### klöckner
+
+* [https://www.spiegel.de/kultur/tv/julia-kloeckner-bei-maischberger-und-sie-sprach-ich-bin-die-bundestagspraesidentin](https://www.spiegel.de/kultur/tv/julia-kloeckner-bei-maischberger-und-sie-sprach-ich-bin-die-bundestagspraesidentin-a-e8416ba2-85b5-47d8-8814-db0d2729bfc0#ref=rss)
+### maischberger
+
+* [https://www.spiegel.de/kultur/tv/julia-kloeckner-bei-maischberger-und-sie-sprach-ich-bin-die-bundestagspraesidentin](https://www.spiegel.de/kultur/tv/julia-kloeckner-bei-maischberger-und-sie-sprach-ich-bin-die-bundestagspraesidentin-a-e8416ba2-85b5-47d8-8814-db0d2729bfc0#ref=rss)
+### interview
+
+* [https://www.spiegel.de/kultur/tv/julia-kloeckner-bei-maischberger-und-sie-sprach-ich-bin-die-bundestagspraesidentin](https://www.spiegel.de/kultur/tv/julia-kloeckner-bei-maischberger-und-sie-sprach-ich-bin-die-bundestagspraesidentin-a-e8416ba2-85b5-47d8-8814-db0d2729bfc0#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-kritisiert-donald-trumps-ukrainekurs-in-bbc-interview](https://www.spiegel.de/ausland/joe-biden-kritisiert-donald-trumps-ukrainekurs-in-bbc-interview-a-c2b2a490-90ae-485e-929f-1ca4532f079f#ref=rss)
+### vonovia
+
+* [https://www.spiegel.de/wirtschaft/vonovia-ceo-rolf-buch-kuendigt-ruecktritt-zum-jahresende-an](https://www.spiegel.de/wirtschaft/vonovia-ceo-rolf-buch-kuendigt-ruecktritt-zum-jahresende-an-a-b63047c3-de8d-42ba-81b4-88e1746c54b6#ref=rss)
+### rolf
+
+* [https://www.spiegel.de/wirtschaft/vonovia-ceo-rolf-buch-kuendigt-ruecktritt-zum-jahresende-an](https://www.spiegel.de/wirtschaft/vonovia-ceo-rolf-buch-kuendigt-ruecktritt-zum-jahresende-an-a-b63047c3-de8d-42ba-81b4-88e1746c54b6#ref=rss)
+### buch
+
+* [https://www.spiegel.de/wirtschaft/vonovia-ceo-rolf-buch-kuendigt-ruecktritt-zum-jahresende-an](https://www.spiegel.de/wirtschaft/vonovia-ceo-rolf-buch-kuendigt-ruecktritt-zum-jahresende-an-a-b63047c3-de8d-42ba-81b4-88e1746c54b6#ref=rss)
+### jahresende
+
+* [https://www.spiegel.de/wirtschaft/vonovia-ceo-rolf-buch-kuendigt-ruecktritt-zum-jahresende-an](https://www.spiegel.de/wirtschaft/vonovia-ceo-rolf-buch-kuendigt-ruecktritt-zum-jahresende-an-a-b63047c3-de8d-42ba-81b4-88e1746c54b6#ref=rss)
+### amazon
+
+* [https://www.spiegel.de/netzwelt/web/amazon-neue-maschinen-verpacken-waren-passgenau](https://www.spiegel.de/netzwelt/web/amazon-neue-maschinen-verpacken-waren-passgenau-a-60e90ab4-852a-43e6-85ee-42e9b2c098d0#ref=rss)
+### konzern
+
+* [https://www.spiegel.de/netzwelt/web/amazon-neue-maschinen-verpacken-waren-passgenau](https://www.spiegel.de/netzwelt/web/amazon-neue-maschinen-verpacken-waren-passgenau-a-60e90ab4-852a-43e6-85ee-42e9b2c098d0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/weight-watchers-konzern-strebt-schuldenschnitt-im-rahmen-der-insolvenz-an](https://www.spiegel.de/wirtschaft/weight-watchers-konzern-strebt-schuldenschnitt-im-rahmen-der-insolvenz-an-a-ffa4ad58-213a-4404-8171-596032a3792b#ref=rss)
+### nso
+
+* [https://www.spiegel.de/netzwelt/apps/ueberwachungsfirma-nso-soll-wegen-whatsapp-attacken-168-millionen-dollar-zahlen](https://www.spiegel.de/netzwelt/apps/ueberwachungsfirma-nso-soll-wegen-whatsapp-attacken-168-millionen-dollar-zahlen-a-c57afff8-c8f7-4409-b93b-6dad316dff5c#ref=rss)
+### joe
+
+* [https://www.spiegel.de/ausland/joe-biden-kritisiert-donald-trumps-ukrainekurs-in-bbc-interview](https://www.spiegel.de/ausland/joe-biden-kritisiert-donald-trumps-ukrainekurs-in-bbc-interview-a-c2b2a490-90ae-485e-929f-1ca4532f079f#ref=rss)
+### biden
+
+* [https://www.spiegel.de/ausland/joe-biden-kritisiert-donald-trumps-ukrainekurs-in-bbc-interview](https://www.spiegel.de/ausland/joe-biden-kritisiert-donald-trumps-ukrainekurs-in-bbc-interview-a-c2b2a490-90ae-485e-929f-1ca4532f079f#ref=rss)
+### kritisiert
+
+* [https://www.spiegel.de/ausland/joe-biden-kritisiert-donald-trumps-ukrainekurs-in-bbc-interview](https://www.spiegel.de/ausland/joe-biden-kritisiert-donald-trumps-ukrainekurs-in-bbc-interview-a-c2b2a490-90ae-485e-929f-1ca4532f079f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/steffi-lemke-kritisiert-abschaffung-des-meeresbeauftragten](https://www.spiegel.de/politik/deutschland/steffi-lemke-kritisiert-abschaffung-des-meeresbeauftragten-a-7fb032c9-4d11-467e-8c32-7f7fb1768a8d#ref=rss)
+### bmw
+
+* [https://www.spiegel.de/wirtschaft/schwaches-china-geschaeft-laesst-gewinn-bei-bmw-einbrechen](https://www.spiegel.de/wirtschaft/schwaches-china-geschaeft-laesst-gewinn-bei-bmw-einbrechen-a-1b67f1d3-90a3-45ec-a6cc-5ca9231ef38b#ref=rss)
+### steffi
+
+* [https://www.spiegel.de/politik/deutschland/steffi-lemke-kritisiert-abschaffung-des-meeresbeauftragten](https://www.spiegel.de/politik/deutschland/steffi-lemke-kritisiert-abschaffung-des-meeresbeauftragten-a-7fb032c9-4d11-467e-8c32-7f7fb1768a8d#ref=rss)
+### lemke
+
+* [https://www.spiegel.de/politik/deutschland/steffi-lemke-kritisiert-abschaffung-des-meeresbeauftragten](https://www.spiegel.de/politik/deutschland/steffi-lemke-kritisiert-abschaffung-des-meeresbeauftragten-a-7fb032c9-4d11-467e-8c32-7f7fb1768a8d#ref=rss)
+### meeresbeauftragten
+
+* [https://www.spiegel.de/politik/deutschland/steffi-lemke-kritisiert-abschaffung-des-meeresbeauftragten](https://www.spiegel.de/politik/deutschland/steffi-lemke-kritisiert-abschaffung-des-meeresbeauftragten-a-7fb032c9-4d11-467e-8c32-7f7fb1768a8d#ref=rss)
+### nicole
+
+* [https://www.spiegel.de/kultur/kino/nicole-kidman-und-sandra-bullock-sind-in-practical-magic-fortsetzung-wieder-hexenschwestern](https://www.spiegel.de/kultur/kino/nicole-kidman-und-sandra-bullock-sind-in-practical-magic-fortsetzung-wieder-hexenschwestern-a-d41967c2-b13e-4c78-9e0a-ddc3d8acb988#ref=rss)
+### kidman
+
+* [https://www.spiegel.de/kultur/kino/nicole-kidman-und-sandra-bullock-sind-in-practical-magic-fortsetzung-wieder-hexenschwestern](https://www.spiegel.de/kultur/kino/nicole-kidman-und-sandra-bullock-sind-in-practical-magic-fortsetzung-wieder-hexenschwestern-a-d41967c2-b13e-4c78-9e0a-ddc3d8acb988#ref=rss)
+### sandra
+
+* [https://www.spiegel.de/kultur/kino/nicole-kidman-und-sandra-bullock-sind-in-practical-magic-fortsetzung-wieder-hexenschwestern](https://www.spiegel.de/kultur/kino/nicole-kidman-und-sandra-bullock-sind-in-practical-magic-fortsetzung-wieder-hexenschwestern-a-d41967c2-b13e-4c78-9e0a-ddc3d8acb988#ref=rss)
+### bullock
+
+* [https://www.spiegel.de/kultur/kino/nicole-kidman-und-sandra-bullock-sind-in-practical-magic-fortsetzung-wieder-hexenschwestern](https://www.spiegel.de/kultur/kino/nicole-kidman-und-sandra-bullock-sind-in-practical-magic-fortsetzung-wieder-hexenschwestern-a-d41967c2-b13e-4c78-9e0a-ddc3d8acb988#ref=rss)
+### fortsetzung
+
+* [https://www.spiegel.de/kultur/kino/nicole-kidman-und-sandra-bullock-sind-in-practical-magic-fortsetzung-wieder-hexenschwestern](https://www.spiegel.de/kultur/kino/nicole-kidman-und-sandra-bullock-sind-in-practical-magic-fortsetzung-wieder-hexenschwestern-a-d41967c2-b13e-4c78-9e0a-ddc3d8acb988#ref=rss)
+### weight
+
+* [https://www.spiegel.de/wirtschaft/weight-watchers-konzern-strebt-schuldenschnitt-im-rahmen-der-insolvenz-an](https://www.spiegel.de/wirtschaft/weight-watchers-konzern-strebt-schuldenschnitt-im-rahmen-der-insolvenz-an-a-ffa4ad58-213a-4404-8171-596032a3792b#ref=rss)
+### watchers
+
+* [https://www.spiegel.de/wirtschaft/weight-watchers-konzern-strebt-schuldenschnitt-im-rahmen-der-insolvenz-an](https://www.spiegel.de/wirtschaft/weight-watchers-konzern-strebt-schuldenschnitt-im-rahmen-der-insolvenz-an-a-ffa4ad58-213a-4404-8171-596032a3792b#ref=rss)
 
