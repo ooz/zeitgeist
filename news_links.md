@@ -4,470 +4,323 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### papst
+### neue
 
-* [https://www.spiegel.de/ausland/papst-leo-xiv-acht-fakten-ueber-den-neuen-pontifex-aus-chicago](https://www.spiegel.de/ausland/papst-leo-xiv-acht-fakten-ueber-den-neuen-pontifex-aus-chicago-a-0146faed-1471-4e8d-a6a7-7b84dedd6d72#ref=rss)
-* [https://www.spiegel.de/ausland/robert-prevost-ist-neuer-papst-leo-xiv-alle-entwicklungen-im-liveticker](https://www.spiegel.de/ausland/robert-prevost-ist-neuer-papst-leo-xiv-alle-entwicklungen-im-liveticker-a-6e696725-8829-4a69-b9ba-74e2532481d4#ref=rss)
-* [https://www.spiegel.de/ausland/wer-ist-neuer-papst-robert-francis-prevost-ist-papst-leo-xiv](https://www.spiegel.de/ausland/wer-ist-neuer-papst-robert-francis-prevost-ist-papst-leo-xiv-a-fc2296e0-87d7-418c-aeea-b96839c74f52#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-afd-usa-grossbritannien-china-russland](https://www.spiegel.de/politik/deutschland/news-des-tages-afd-usa-grossbritannien-china-russland-a-86f04f07-dd32-43e3-b577-5607e68e23f0#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/robert-prevost-ist-neuer-papst-leo-xiv-alle-entwicklungen-im-liveticker](https://www.spiegel.de/ausland/robert-prevost-ist-neuer-papst-leo-xiv-alle-entwicklungen-im-liveticker-a-6e696725-8829-4a69-b9ba-74e2532481d4#ref=rss)
-* [https://www.spiegel.de/sport/american-football/donald-trump-streicht-programm-gegen-kopfverletzungen-im-sport](https://www.spiegel.de/sport/american-football/donald-trump-streicht-programm-gegen-kopfverletzungen-im-sport-a-863d570b-d1ec-44c8-8605-95aa72ca824c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-schmaeht-fed-chef-jerome-powell-als-dummkopf](https://www.spiegel.de/wirtschaft/donald-trump-schmaeht-fed-chef-jerome-powell-als-dummkopf-a-3f9c7815-a003-454c-bdd6-97851f05bc2e#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/zolldeal-zwischen-uk-und-usa-der-coup-des-schmeichlers-in-chief](https://www.spiegel.de/ausland/zolldeal-zwischen-uk-und-usa-der-coup-des-schmeichlers-in-chief-a-c0e56942-3892-4b1d-aba0-c4491898cc6f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-afd-usa-grossbritannien-china-russland](https://www.spiegel.de/politik/deutschland/news-des-tages-afd-usa-grossbritannien-china-russland-a-86f04f07-dd32-43e3-b577-5607e68e23f0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ukraine-parlament-ratifiziert-rohstoffdeal-mit-den-usa](https://www.spiegel.de/wirtschaft/ukraine-parlament-ratifiziert-rohstoffdeal-mit-den-usa-a-dad3d6ea-629d-49ad-9632-45dff7b2aa54#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/ausland/papst-leo-xiv-acht-fakten-ueber-den-neuen-pontifex-aus-chicago](https://www.spiegel.de/ausland/papst-leo-xiv-acht-fakten-ueber-den-neuen-pontifex-aus-chicago-a-0146faed-1471-4e8d-a6a7-7b84dedd6d72#ref=rss)
-* [https://www.spiegel.de/ausland/robert-prevost-ist-neuer-papst-leo-xiv-alle-entwicklungen-im-liveticker](https://www.spiegel.de/ausland/robert-prevost-ist-neuer-papst-leo-xiv-alle-entwicklungen-im-liveticker-a-6e696725-8829-4a69-b9ba-74e2532481d4#ref=rss)
-* [https://www.spiegel.de/ausland/bill-gates-will-sein-vermoegen-schneller-spenden](https://www.spiegel.de/ausland/bill-gates-will-sein-vermoegen-schneller-spenden-a-e90b1efb-a912-45e0-8f8b-8d415377f82c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-was-vom-ersten-cdu-aussenminister-seit-59-jahren-zu-erwarten-ist](https://www.spiegel.de/politik/deutschland/johann-wadephul-was-vom-ersten-cdu-aussenminister-seit-59-jahren-zu-erwarten-ist-a-ca50e3f4-f848-42ef-aa11-f3b3ab0d871b#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/ausland/papst-leo-xiv-acht-fakten-ueber-den-neuen-pontifex-aus-chicago](https://www.spiegel.de/ausland/papst-leo-xiv-acht-fakten-ueber-den-neuen-pontifex-aus-chicago-a-0146faed-1471-4e8d-a6a7-7b84dedd6d72#ref=rss)
-* [https://www.spiegel.de/kultur/guenther-nonnenmacher-ist-tot-langjaehriger-faz-herausgeber-gestorben](https://www.spiegel.de/kultur/guenther-nonnenmacher-ist-tot-langjaehriger-faz-herausgeber-gestorben-a-030d4e13-ca05-4bd6-8d3d-faf8aa40c46f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/klima-die-reichsten-zehn-prozent-sind-fuer-zwei-drittel-der-erderwaermung-verantwortlich](https://www.spiegel.de/wissenschaft/natur/klima-die-reichsten-zehn-prozent-sind-fuer-zwei-drittel-der-erderwaermung-verantwortlich-a-ed3158ea-0880-4f84-9d46-a28914b67186#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/debatte-ueber-afd-gutachten-des-verfassungsschutzes-mehr-transparenz-wagen](https://www.spiegel.de/politik/deutschland/debatte-ueber-afd-gutachten-des-verfassungsschutzes-mehr-transparenz-wagen-a-a0745cda-1ef1-4c42-b6c0-2b67edbee996#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-schmaeht-fed-chef-jerome-powell-als-dummkopf](https://www.spiegel.de/wirtschaft/donald-trump-schmaeht-fed-chef-jerome-powell-als-dummkopf-a-3f9c7815-a003-454c-bdd6-97851f05bc2e#ref=rss)
-### donald
-
-* [https://www.spiegel.de/sport/american-football/donald-trump-streicht-programm-gegen-kopfverletzungen-im-sport](https://www.spiegel.de/sport/american-football/donald-trump-streicht-programm-gegen-kopfverletzungen-im-sport-a-863d570b-d1ec-44c8-8605-95aa72ca824c#ref=rss)
-* [https://www.spiegel.de/ausland/zolldeal-zwischen-uk-und-usa-der-coup-des-schmeichlers-in-chief](https://www.spiegel.de/ausland/zolldeal-zwischen-uk-und-usa-der-coup-des-schmeichlers-in-chief-a-c0e56942-3892-4b1d-aba0-c4491898cc6f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-schmaeht-fed-chef-jerome-powell-als-dummkopf](https://www.spiegel.de/wirtschaft/donald-trump-schmaeht-fed-chef-jerome-powell-als-dummkopf-a-3f9c7815-a003-454c-bdd6-97851f05bc2e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/konjunkturankurbelung-katherina-reiche-plant-neue-gaskraftwerke-fuer-deutschland](https://www.spiegel.de/wirtschaft/unternehmen/konjunkturankurbelung-katherina-reiche-plant-neue-gaskraftwerke-fuer-deutschland-a-65469da2-be6c-49bb-aa1e-0b6f7cb2c443#ref=rss)
+* [https://www.spiegel.de/panorama/lorenz-a-bundestagsabgeordneter-fordert-zentralstelle-fuer-ermittlungen-gegen-polizisten](https://www.spiegel.de/panorama/lorenz-a-bundestagsabgeordneter-fordert-zentralstelle-fuer-ermittlungen-gegen-polizisten-a-dbba36a3-580e-4d08-9a5a-4489098fe4f9#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/fahrrad-kaufen-verbraucherschuetzer-warnen-vor-fakeshops-im-internet](https://www.spiegel.de/netzwelt/web/fahrrad-kaufen-verbraucherschuetzer-warnen-vor-fakeshops-im-internet-a-41f8ddfc-0d90-4d5c-a2d8-aea7015718fa#ref=rss)
+* [https://www.spiegel.de/politik/neue-bundesregierung-die-politik-sollte-endlich-verstehen-was-mit-diesem-land-los-ist](https://www.spiegel.de/politik/neue-bundesregierung-die-politik-sollte-endlich-verstehen-was-mit-diesem-land-los-ist-a-4f97b90b-8ca0-42e9-bb64-801afe9c704f#ref=rss)
 ### jahren
 
-* [https://www.spiegel.de/ausland/papst-leo-xiv-acht-fakten-ueber-den-neuen-pontifex-aus-chicago](https://www.spiegel.de/ausland/papst-leo-xiv-acht-fakten-ueber-den-neuen-pontifex-aus-chicago-a-0146faed-1471-4e8d-a6a7-7b84dedd6d72#ref=rss)
-* [https://www.spiegel.de/ausland/bill-gates-will-sein-vermoegen-schneller-spenden](https://www.spiegel.de/ausland/bill-gates-will-sein-vermoegen-schneller-spenden-a-e90b1efb-a912-45e0-8f8b-8d415377f82c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-was-vom-ersten-cdu-aussenminister-seit-59-jahren-zu-erwarten-ist](https://www.spiegel.de/politik/deutschland/johann-wadephul-was-vom-ersten-cdu-aussenminister-seit-59-jahren-zu-erwarten-ist-a-ca50e3f4-f848-42ef-aa11-f3b3ab0d871b#ref=rss)
-* [https://www.spiegel.de/kultur/guenther-nonnenmacher-ist-tot-langjaehriger-faz-herausgeber-gestorben](https://www.spiegel.de/kultur/guenther-nonnenmacher-ist-tot-langjaehriger-faz-herausgeber-gestorben-a-030d4e13-ca05-4bd6-8d3d-faf8aa40c46f#ref=rss)
-### robert
+* [https://www.spiegel.de/panorama/justiz/bielefeld-19-jaehriger-wegen-toedlicher-attacke-in-bad-oeynhausen-nach-abifeier-zu-neun-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/bielefeld-19-jaehriger-wegen-toedlicher-attacke-in-bad-oeynhausen-nach-abifeier-zu-neun-jahren-haft-verurteilt-a-68b96861-9d55-433b-8040-365c5deab83c#ref=rss)
+* [https://www.spiegel.de/ausland/moskau-so-laeuft-die-militaershow-von-wladimir-putin-zum-80-jahrestag-des-sieges](https://www.spiegel.de/ausland/moskau-so-laeuft-die-militaershow-von-wladimir-putin-zum-80-jahrestag-des-sieges-a-3577b354-e604-4ed4-996a-e0746d532a8e#ref=rss)
+* [https://www.spiegel.de/sport/antonio-tiberi-vor-drei-jahren-erschoss-er-die-katze-des-ministers-jetzt-ist-er-italiens-giro-hoffnung](https://www.spiegel.de/sport/antonio-tiberi-vor-drei-jahren-erschoss-er-die-katze-des-ministers-jetzt-ist-er-italiens-giro-hoffnung-a-078747eb-cff1-4a4d-b2ec-91e2c74dcd5b#ref=rss)
+* [https://www.spiegel.de/kultur/kino/james-foley-us-regisseur-ist-tot](https://www.spiegel.de/kultur/kino/james-foley-us-regisseur-ist-tot-a-f392abac-3647-42fa-a700-31d42485f945#ref=rss)
+### zeigt
 
-* [https://www.spiegel.de/ausland/robert-prevost-ist-neuer-papst-leo-xiv-alle-entwicklungen-im-liveticker](https://www.spiegel.de/ausland/robert-prevost-ist-neuer-papst-leo-xiv-alle-entwicklungen-im-liveticker-a-6e696725-8829-4a69-b9ba-74e2532481d4#ref=rss)
-* [https://www.spiegel.de/ausland/wer-ist-neuer-papst-robert-francis-prevost-ist-papst-leo-xiv](https://www.spiegel.de/ausland/wer-ist-neuer-papst-robert-francis-prevost-ist-papst-leo-xiv-a-fc2296e0-87d7-418c-aeea-b96839c74f52#ref=rss)
-### prevost
-
-* [https://www.spiegel.de/ausland/robert-prevost-ist-neuer-papst-leo-xiv-alle-entwicklungen-im-liveticker](https://www.spiegel.de/ausland/robert-prevost-ist-neuer-papst-leo-xiv-alle-entwicklungen-im-liveticker-a-6e696725-8829-4a69-b9ba-74e2532481d4#ref=rss)
-* [https://www.spiegel.de/ausland/wer-ist-neuer-papst-robert-francis-prevost-ist-papst-leo-xiv](https://www.spiegel.de/ausland/wer-ist-neuer-papst-robert-francis-prevost-ist-papst-leo-xiv-a-fc2296e0-87d7-418c-aeea-b96839c74f52#ref=rss)
-### partei
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-afd-usa-grossbritannien-china-russland](https://www.spiegel.de/politik/deutschland/news-des-tages-afd-usa-grossbritannien-china-russland-a-86f04f07-dd32-43e3-b577-5607e68e23f0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/die-sozialistin-die-ihre-partei-zu-einer-marke-machen-moechte](https://www.spiegel.de/politik/deutschland/die-sozialistin-die-ihre-partei-zu-einer-marke-machen-moechte-a-7502f8ce-91fc-444b-a3ad-0dcd1da81dc7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/debatte-ueber-afd-gutachten-des-verfassungsschutzes-mehr-transparenz-wagen](https://www.spiegel.de/politik/deutschland/debatte-ueber-afd-gutachten-des-verfassungsschutzes-mehr-transparenz-wagen-a-a0745cda-1ef1-4c42-b6c0-2b67edbee996#ref=rss)
-### indien
-
-* [https://www.spiegel.de/ausland/indien-und-pakistan-der-kaschmir-konflikt-erklaert-in-zwei-minuten](https://www.spiegel.de/ausland/indien-und-pakistan-der-kaschmir-konflikt-erklaert-in-zwei-minuten-a-a6977427-fb6f-4728-b1e0-3702351cdf66#ref=rss)
-* [https://www.spiegel.de/ausland/indien-und-pakistan-wie-kann-eine-eskalation-zwischen-den-atommaechten-verhindert-werden](https://www.spiegel.de/ausland/indien-und-pakistan-wie-kann-eine-eskalation-zwischen-den-atommaechten-verhindert-werden-a-5226fad6-8fd0-4750-a7f6-59df51f51ec3#ref=rss)
-### pakistan
-
-* [https://www.spiegel.de/ausland/indien-und-pakistan-der-kaschmir-konflikt-erklaert-in-zwei-minuten](https://www.spiegel.de/ausland/indien-und-pakistan-der-kaschmir-konflikt-erklaert-in-zwei-minuten-a-a6977427-fb6f-4728-b1e0-3702351cdf66#ref=rss)
-* [https://www.spiegel.de/ausland/indien-und-pakistan-wie-kann-eine-eskalation-zwischen-den-atommaechten-verhindert-werden](https://www.spiegel.de/ausland/indien-und-pakistan-wie-kann-eine-eskalation-zwischen-den-atommaechten-verhindert-werden-a-5226fad6-8fd0-4750-a7f6-59df51f51ec3#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/netzwelt/web/cancelled-star-tana-mongeau-in-berlin-koenigin-der-selbstdemontage](https://www.spiegel.de/netzwelt/web/cancelled-star-tana-mongeau-in-berlin-koenigin-der-selbstdemontage-a-e84e6269-7712-4403-842b-7907c61cb48b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-polizei-findet-in-wohnung-in-schoeneberg-mehrere-rohrbomben](https://www.spiegel.de/panorama/justiz/berlin-polizei-findet-in-wohnung-in-schoeneberg-mehrere-rohrbomben-a-9d9741ae-5f76-4ed5-adaa-f7b159b35738#ref=rss)
-### leo
-
-* [https://www.spiegel.de/ausland/papst-leo-xiv-acht-fakten-ueber-den-neuen-pontifex-aus-chicago](https://www.spiegel.de/ausland/papst-leo-xiv-acht-fakten-ueber-den-neuen-pontifex-aus-chicago-a-0146faed-1471-4e8d-a6a7-7b84dedd6d72#ref=rss)
-* [https://www.spiegel.de/ausland/robert-prevost-ist-neuer-papst-leo-xiv-alle-entwicklungen-im-liveticker](https://www.spiegel.de/ausland/robert-prevost-ist-neuer-papst-leo-xiv-alle-entwicklungen-im-liveticker-a-6e696725-8829-4a69-b9ba-74e2532481d4#ref=rss)
-* [https://www.spiegel.de/ausland/wer-ist-neuer-papst-robert-francis-prevost-ist-papst-leo-xiv](https://www.spiegel.de/ausland/wer-ist-neuer-papst-robert-francis-prevost-ist-papst-leo-xiv-a-fc2296e0-87d7-418c-aeea-b96839c74f52#ref=rss)
-### xiv
-
-* [https://www.spiegel.de/ausland/papst-leo-xiv-acht-fakten-ueber-den-neuen-pontifex-aus-chicago](https://www.spiegel.de/ausland/papst-leo-xiv-acht-fakten-ueber-den-neuen-pontifex-aus-chicago-a-0146faed-1471-4e8d-a6a7-7b84dedd6d72#ref=rss)
-* [https://www.spiegel.de/ausland/robert-prevost-ist-neuer-papst-leo-xiv-alle-entwicklungen-im-liveticker](https://www.spiegel.de/ausland/robert-prevost-ist-neuer-papst-leo-xiv-alle-entwicklungen-im-liveticker-a-6e696725-8829-4a69-b9ba-74e2532481d4#ref=rss)
-* [https://www.spiegel.de/ausland/wer-ist-neuer-papst-robert-francis-prevost-ist-papst-leo-xiv](https://www.spiegel.de/ausland/wer-ist-neuer-papst-robert-francis-prevost-ist-papst-leo-xiv-a-fc2296e0-87d7-418c-aeea-b96839c74f52#ref=rss)
-### chicago
-
-* [https://www.spiegel.de/ausland/papst-leo-xiv-acht-fakten-ueber-den-neuen-pontifex-aus-chicago](https://www.spiegel.de/ausland/papst-leo-xiv-acht-fakten-ueber-den-neuen-pontifex-aus-chicago-a-0146faed-1471-4e8d-a6a7-7b84dedd6d72#ref=rss)
-* [https://www.spiegel.de/ausland/wer-ist-neuer-papst-robert-francis-prevost-ist-papst-leo-xiv](https://www.spiegel.de/ausland/wer-ist-neuer-papst-robert-francis-prevost-ist-papst-leo-xiv-a-fc2296e0-87d7-418c-aeea-b96839c74f52#ref=rss)
-### neuer
-
-* [https://www.spiegel.de/ausland/robert-prevost-ist-neuer-papst-leo-xiv-alle-entwicklungen-im-liveticker](https://www.spiegel.de/ausland/robert-prevost-ist-neuer-papst-leo-xiv-alle-entwicklungen-im-liveticker-a-6e696725-8829-4a69-b9ba-74e2532481d4#ref=rss)
-* [https://www.spiegel.de/ausland/wer-ist-neuer-papst-robert-francis-prevost-ist-papst-leo-xiv](https://www.spiegel.de/ausland/wer-ist-neuer-papst-robert-francis-prevost-ist-papst-leo-xiv-a-fc2296e0-87d7-418c-aeea-b96839c74f52#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-satellitenbilder-zeigen-systematische-zerstoerung-und-uebernahme-des-kriegsgebiets](https://www.spiegel.de/ausland/gaza-satellitenbilder-zeigen-systematische-zerstoerung-und-uebernahme-des-kriegsgebiets-a-41b40d48-28ff-4020-b760-0852e890ca0f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/klaus-barbie-wie-der-nazi-schlaechter-zum-koks-kartell-in-bolivien-gelangte](https://www.spiegel.de/panorama/justiz/klaus-barbie-wie-der-nazi-schlaechter-zum-koks-kartell-in-bolivien-gelangte-a-9092099d-59e1-4a62-afb5-ae31012adfcc#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/chinas-exporte-steigen-trotz-handelskrieg](https://www.spiegel.de/wirtschaft/unternehmen/chinas-exporte-steigen-trotz-handelskrieg-a-c5279e0e-097e-44df-ab5a-961285499e4e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-partei-zeigt-sich-unbeeindruckt-von-rechtsextremer-einstufung](https://www.spiegel.de/politik/deutschland/afd-partei-zeigt-sich-unbeeindruckt-von-rechtsextremer-einstufung-a-bbd79cdf-69f7-40b7-bea5-c415bd896f64#ref=rss)
+* [https://www.spiegel.de/wissenschaft/usa-alle-28-groessten-staedte-senken-sich-mehr-oder-weniger-schnell-ab](https://www.spiegel.de/wissenschaft/usa-alle-28-groessten-staedte-senken-sich-mehr-oder-weniger-schnell-ab-a-deea750d-d01d-4399-a429-8645cb821201#ref=rss)
 ### alle
 
 * [https://www.spiegel.de/ausland/robert-prevost-ist-neuer-papst-leo-xiv-alle-entwicklungen-im-liveticker](https://www.spiegel.de/ausland/robert-prevost-ist-neuer-papst-leo-xiv-alle-entwicklungen-im-liveticker-a-6e696725-8829-4a69-b9ba-74e2532481d4#ref=rss)
-### ersten
+* [https://www.spiegel.de/ausland/moskau-so-laeuft-die-militaershow-von-wladimir-putin-zum-80-jahrestag-des-sieges](https://www.spiegel.de/ausland/moskau-so-laeuft-die-militaershow-von-wladimir-putin-zum-80-jahrestag-des-sieges-a-3577b354-e604-4ed4-996a-e0746d532a8e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/usa-alle-28-groessten-staedte-senken-sich-mehr-oder-weniger-schnell-ab](https://www.spiegel.de/wissenschaft/usa-alle-28-groessten-staedte-senken-sich-mehr-oder-weniger-schnell-ab-a-deea750d-d01d-4399-a429-8645cb821201#ref=rss)
+### menschen
 
 * [https://www.spiegel.de/ausland/robert-prevost-ist-neuer-papst-leo-xiv-alle-entwicklungen-im-liveticker](https://www.spiegel.de/ausland/robert-prevost-ist-neuer-papst-leo-xiv-alle-entwicklungen-im-liveticker-a-6e696725-8829-4a69-b9ba-74e2532481d4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-was-vom-ersten-cdu-aussenminister-seit-59-jahren-zu-erwarten-ist](https://www.spiegel.de/politik/deutschland/johann-wadephul-was-vom-ersten-cdu-aussenminister-seit-59-jahren-zu-erwarten-ist-a-ca50e3f4-f848-42ef-aa11-f3b3ab0d871b#ref=rss)
-* [https://www.spiegel.de/ausland/indien-und-pakistan-der-kaschmir-konflikt-erklaert-in-zwei-minuten](https://www.spiegel.de/ausland/indien-und-pakistan-der-kaschmir-konflikt-erklaert-in-zwei-minuten-a-a6977427-fb6f-4728-b1e0-3702351cdf66#ref=rss)
-### tag
+* [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/politik/deutschland/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast](https://www.spiegel.de/politik/deutschland/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast-a-47527a3e-b08c-4e96-8a70-c20fb6249655#ref=rss)
-* [https://www.spiegel.de/politik/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast](https://www.spiegel.de/politik/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast-a-2a5a9167-2fc1-47b1-91d3-0ca404d3010d#ref=rss)
-* [https://www.spiegel.de/ausland/russland-und-china-kreml-inszeniert-treffen-von-xi-und-putin-mit-epischen-bildern](https://www.spiegel.de/ausland/russland-und-china-kreml-inszeniert-treffen-von-xi-und-putin-mit-epischen-bildern-a-905f37c8-e571-4ec0-857c-76fdf23d69c9#ref=rss)
-### erklärt
+* [https://www.spiegel.de/wirtschaft/unternehmen/konjunkturankurbelung-katherina-reiche-plant-neue-gaskraftwerke-fuer-deutschland](https://www.spiegel.de/wirtschaft/unternehmen/konjunkturankurbelung-katherina-reiche-plant-neue-gaskraftwerke-fuer-deutschland-a-65469da2-be6c-49bb-aa1e-0b6f7cb2c443#ref=rss)
+* [https://www.spiegel.de/wirtschaft/northvolt-wie-der-staat-mit-einem-milliardenbetrag-zockte](https://www.spiegel.de/wirtschaft/northvolt-wie-der-staat-mit-einem-milliardenbetrag-zockte-a-27a212c9-c5ef-4471-a76b-1d375ef7c3cf#ref=rss)
+### israel
 
-* [https://www.spiegel.de/politik/deutschland/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast](https://www.spiegel.de/politik/deutschland/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast-a-47527a3e-b08c-4e96-8a70-c20fb6249655#ref=rss)
-* [https://www.spiegel.de/politik/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast](https://www.spiegel.de/politik/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast-a-2a5a9167-2fc1-47b1-91d3-0ca404d3010d#ref=rss)
-* [https://www.spiegel.de/ausland/indien-und-pakistan-der-kaschmir-konflikt-erklaert-in-zwei-minuten](https://www.spiegel.de/ausland/indien-und-pakistan-der-kaschmir-konflikt-erklaert-in-zwei-minuten-a-a6977427-fb6f-4728-b1e0-3702351cdf66#ref=rss)
-### china
+* [https://www.spiegel.de/politik/deutschland/jan-van-aken-ueber-antisemitismus-bei-kritik-an-israel-auch-mal-gerade-bleiben](https://www.spiegel.de/politik/deutschland/jan-van-aken-ueber-antisemitismus-bei-kritik-an-israel-auch-mal-gerade-bleiben-a-17aa1bca-1a42-4448-b7b1-6f3cf91ef10c#ref=rss)
+* [https://www.spiegel.de/kultur/eurovision-song-contest-israel-mahnt-esc-reisende-zur-vorsicht](https://www.spiegel.de/kultur/eurovision-song-contest-israel-mahnt-esc-reisende-zur-vorsicht-a-9e202083-c508-4c4c-b22e-dd7327d3ffc9#ref=rss)
+* [https://www.spiegel.de/ausland/israel-polizei-schliesst-unrwa-schulen-in-ostjerusalem](https://www.spiegel.de/ausland/israel-polizei-schliesst-unrwa-schulen-in-ostjerusalem-a-75e82ce7-8bee-45d3-a75a-854a706ad80a#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/ausland/russland-und-china-kreml-inszeniert-treffen-von-xi-und-putin-mit-epischen-bildern](https://www.spiegel.de/ausland/russland-und-china-kreml-inszeniert-treffen-von-xi-und-putin-mit-epischen-bildern-a-905f37c8-e571-4ec0-857c-76fdf23d69c9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-afd-usa-grossbritannien-china-russland](https://www.spiegel.de/politik/deutschland/news-des-tages-afd-usa-grossbritannien-china-russland-a-86f04f07-dd32-43e3-b577-5607e68e23f0#ref=rss)
-* [https://www.spiegel.de/ausland/indien-und-pakistan-der-kaschmir-konflikt-erklaert-in-zwei-minuten](https://www.spiegel.de/ausland/indien-und-pakistan-der-kaschmir-konflikt-erklaert-in-zwei-minuten-a-a6977427-fb6f-4728-b1e0-3702351cdf66#ref=rss)
-### welt
+* [https://www.spiegel.de/panorama/lorenz-a-bundestagsabgeordneter-fordert-zentralstelle-fuer-ermittlungen-gegen-polizisten](https://www.spiegel.de/panorama/lorenz-a-bundestagsabgeordneter-fordert-zentralstelle-fuer-ermittlungen-gegen-polizisten-a-dbba36a3-580e-4d08-9a5a-4489098fe4f9#ref=rss)
+* [https://www.spiegel.de/ausland/israel-polizei-schliesst-unrwa-schulen-in-ostjerusalem](https://www.spiegel.de/ausland/israel-polizei-schliesst-unrwa-schulen-in-ostjerusalem-a-75e82ce7-8bee-45d3-a75a-854a706ad80a#ref=rss)
+### chinas
 
-* [https://www.spiegel.de/ausland/russland-und-china-kreml-inszeniert-treffen-von-xi-und-putin-mit-epischen-bildern](https://www.spiegel.de/ausland/russland-und-china-kreml-inszeniert-treffen-von-xi-und-putin-mit-epischen-bildern-a-905f37c8-e571-4ec0-857c-76fdf23d69c9#ref=rss)
-* [https://www.spiegel.de/ausland/zolldeal-zwischen-uk-und-usa-der-coup-des-schmeichlers-in-chief](https://www.spiegel.de/ausland/zolldeal-zwischen-uk-und-usa-der-coup-des-schmeichlers-in-chief-a-c0e56942-3892-4b1d-aba0-c4491898cc6f#ref=rss)
-* [https://www.spiegel.de/ausland/indien-und-pakistan-der-kaschmir-konflikt-erklaert-in-zwei-minuten](https://www.spiegel.de/ausland/indien-und-pakistan-der-kaschmir-konflikt-erklaert-in-zwei-minuten-a-a6977427-fb6f-4728-b1e0-3702351cdf66#ref=rss)
-### wo
+* [https://www.spiegel.de/ausland/moskau-so-laeuft-die-militaershow-von-wladimir-putin-zum-80-jahrestag-des-sieges](https://www.spiegel.de/ausland/moskau-so-laeuft-die-militaershow-von-wladimir-putin-zum-80-jahrestag-des-sieges-a-3577b354-e604-4ed4-996a-e0746d532a8e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/chinas-exporte-steigen-trotz-handelskrieg](https://www.spiegel.de/wirtschaft/unternehmen/chinas-exporte-steigen-trotz-handelskrieg-a-c5279e0e-097e-44df-ab5a-961285499e4e#ref=rss)
+### gericht
 
-* [https://www.spiegel.de/politik/deutschland/spiegel-klimaradar-so-steht-es-um-die-klimapolitik-von-schwarz-rot-die-bilanz-nach-sektoren](https://www.spiegel.de/politik/deutschland/spiegel-klimaradar-so-steht-es-um-die-klimapolitik-von-schwarz-rot-die-bilanz-nach-sektoren-a-ad212b96-4e1b-4456-a616-7fafe4bd94ff#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/vornamen-ranking-beliebt-bei-eltern-oder-doch-eher-hundebesitzern](https://www.spiegel.de/panorama/gesellschaft/vornamen-ranking-beliebt-bei-eltern-oder-doch-eher-hundebesitzern-a-10c09b5d-7508-410c-b080-bad5076a5bc1#ref=rss)
-### tana
+* [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/harvey-weinstein-ex-model-kaja-sokola-sagt-vor-gericht-gegen-ex-filmproduzenten-aus](https://www.spiegel.de/panorama/justiz/harvey-weinstein-ex-model-kaja-sokola-sagt-vor-gericht-gegen-ex-filmproduzenten-aus-a-141c32b9-3656-4ee6-b72e-bc44e52f6f5e#ref=rss)
+### tausende
 
-* [https://www.spiegel.de/netzwelt/web/cancelled-star-tana-mongeau-in-berlin-koenigin-der-selbstdemontage](https://www.spiegel.de/netzwelt/web/cancelled-star-tana-mongeau-in-berlin-koenigin-der-selbstdemontage-a-e84e6269-7712-4403-842b-7907c61cb48b#ref=rss)
-### mongeau
+* [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/fahrrad-kaufen-verbraucherschuetzer-warnen-vor-fakeshops-im-internet](https://www.spiegel.de/netzwelt/web/fahrrad-kaufen-verbraucherschuetzer-warnen-vor-fakeshops-im-internet-a-41f8ddfc-0d90-4d5c-a2d8-aea7015718fa#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-meldet-ueberraschend-hohen-gewinn](https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-meldet-ueberraschend-hohen-gewinn-a-4450972d-135a-4d12-8e3f-3ccda35e312b#ref=rss)
+### kaschmirkonflikt
 
-* [https://www.spiegel.de/netzwelt/web/cancelled-star-tana-mongeau-in-berlin-koenigin-der-selbstdemontage](https://www.spiegel.de/netzwelt/web/cancelled-star-tana-mongeau-in-berlin-koenigin-der-selbstdemontage-a-e84e6269-7712-4403-842b-7907c61cb48b#ref=rss)
-### acht
+* [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
+* [https://www.spiegel.de/ausland/indien-und-pakistan-liefern-sich-naechtliche-gefechte-im-kaschmirkonflikt](https://www.spiegel.de/ausland/indien-und-pakistan-liefern-sich-naechtliche-gefechte-im-kaschmirkonflikt-a-80e35522-f08c-4caf-881c-d2a75eec7e61#ref=rss)
+### unbeeindruckt
 
-* [https://www.spiegel.de/ausland/papst-leo-xiv-acht-fakten-ueber-den-neuen-pontifex-aus-chicago](https://www.spiegel.de/ausland/papst-leo-xiv-acht-fakten-ueber-den-neuen-pontifex-aus-chicago-a-0146faed-1471-4e8d-a6a7-7b84dedd6d72#ref=rss)
-### fakten
+* [https://www.spiegel.de/wirtschaft/unternehmen/chinas-exporte-steigen-trotz-handelskrieg](https://www.spiegel.de/wirtschaft/unternehmen/chinas-exporte-steigen-trotz-handelskrieg-a-c5279e0e-097e-44df-ab5a-961285499e4e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-partei-zeigt-sich-unbeeindruckt-von-rechtsextremer-einstufung](https://www.spiegel.de/politik/deutschland/afd-partei-zeigt-sich-unbeeindruckt-von-rechtsextremer-einstufung-a-bbd79cdf-69f7-40b7-bea5-c415bd896f64#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/ausland/papst-leo-xiv-acht-fakten-ueber-den-neuen-pontifex-aus-chicago](https://www.spiegel.de/ausland/papst-leo-xiv-acht-fakten-ueber-den-neuen-pontifex-aus-chicago-a-0146faed-1471-4e8d-a6a7-7b84dedd6d72#ref=rss)
-### jahre
+* [https://www.spiegel.de/wirtschaft/northvolt-wie-der-staat-mit-einem-milliardenbetrag-zockte](https://www.spiegel.de/wirtschaft/northvolt-wie-der-staat-mit-einem-milliardenbetrag-zockte-a-27a212c9-c5ef-4471-a76b-1d375ef7c3cf#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-geschaeftsmann-vermisst-mutter-sucht-mit-flugblaettern-nach-ihm](https://www.spiegel.de/panorama/justiz/berlin-geschaeftsmann-vermisst-mutter-sucht-mit-flugblaettern-nach-ihm-a-5b50da85-f54d-408c-bbaa-cf759259e7d9#ref=rss)
+### papst
 
-* [https://www.spiegel.de/ausland/papst-leo-xiv-acht-fakten-ueber-den-neuen-pontifex-aus-chicago](https://www.spiegel.de/ausland/papst-leo-xiv-acht-fakten-ueber-den-neuen-pontifex-aus-chicago-a-0146faed-1471-4e8d-a6a7-7b84dedd6d72#ref=rss)
-* [https://www.spiegel.de/kultur/guenther-nonnenmacher-ist-tot-langjaehriger-faz-herausgeber-gestorben](https://www.spiegel.de/kultur/guenther-nonnenmacher-ist-tot-langjaehriger-faz-herausgeber-gestorben-a-030d4e13-ca05-4bd6-8d3d-faf8aa40c46f#ref=rss)
+* [https://www.spiegel.de/ausland/robert-prevost-ist-neuer-papst-leo-xiv-alle-entwicklungen-im-liveticker](https://www.spiegel.de/ausland/robert-prevost-ist-neuer-papst-leo-xiv-alle-entwicklungen-im-liveticker-a-6e696725-8829-4a69-b9ba-74e2532481d4#ref=rss)
+### leo
+
+* [https://www.spiegel.de/ausland/robert-prevost-ist-neuer-papst-leo-xiv-alle-entwicklungen-im-liveticker](https://www.spiegel.de/ausland/robert-prevost-ist-neuer-papst-leo-xiv-alle-entwicklungen-im-liveticker-a-6e696725-8829-4a69-b9ba-74e2532481d4#ref=rss)
+### xiv
+
+* [https://www.spiegel.de/ausland/robert-prevost-ist-neuer-papst-leo-xiv-alle-entwicklungen-im-liveticker](https://www.spiegel.de/ausland/robert-prevost-ist-neuer-papst-leo-xiv-alle-entwicklungen-im-liveticker-a-6e696725-8829-4a69-b9ba-74e2532481d4#ref=rss)
 ### entwicklungen
 
 * [https://www.spiegel.de/ausland/robert-prevost-ist-neuer-papst-leo-xiv-alle-entwicklungen-im-liveticker](https://www.spiegel.de/ausland/robert-prevost-ist-neuer-papst-leo-xiv-alle-entwicklungen-im-liveticker-a-6e696725-8829-4a69-b9ba-74e2532481d4#ref=rss)
-### uspräsident
+* [https://www.spiegel.de/ausland/moskau-so-laeuft-die-militaershow-von-wladimir-putin-zum-80-jahrestag-des-sieges](https://www.spiegel.de/ausland/moskau-so-laeuft-die-militaershow-von-wladimir-putin-zum-80-jahrestag-des-sieges-a-3577b354-e604-4ed4-996a-e0746d532a8e#ref=rss)
+### gebäude
 
 * [https://www.spiegel.de/ausland/robert-prevost-ist-neuer-papst-leo-xiv-alle-entwicklungen-im-liveticker](https://www.spiegel.de/ausland/robert-prevost-ist-neuer-papst-leo-xiv-alle-entwicklungen-im-liveticker-a-6e696725-8829-4a69-b9ba-74e2532481d4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-schmaeht-fed-chef-jerome-powell-als-dummkopf](https://www.spiegel.de/wirtschaft/donald-trump-schmaeht-fed-chef-jerome-powell-als-dummkopf-a-3f9c7815-a003-454c-bdd6-97851f05bc2e#ref=rss)
-### bill
+* [https://www.spiegel.de/wissenschaft/usa-alle-28-groessten-staedte-senken-sich-mehr-oder-weniger-schnell-ab](https://www.spiegel.de/wissenschaft/usa-alle-28-groessten-staedte-senken-sich-mehr-oder-weniger-schnell-ab-a-deea750d-d01d-4399-a429-8645cb821201#ref=rss)
+### xabi
 
-* [https://www.spiegel.de/ausland/bill-gates-will-sein-vermoegen-schneller-spenden](https://www.spiegel.de/ausland/bill-gates-will-sein-vermoegen-schneller-spenden-a-e90b1efb-a912-45e0-8f8b-8d415377f82c#ref=rss)
-### gates
+* [https://www.spiegel.de/sport/fussball/bundeligist-bayer-leverkusen-der-wechsel-von-trainer-xabi-alonso-zu-real-madrid-bahnt-sich-an](https://www.spiegel.de/sport/fussball/bundeligist-bayer-leverkusen-der-wechsel-von-trainer-xabi-alonso-zu-real-madrid-bahnt-sich-an-a-134100b3-43ef-4270-941c-013714e597f7#ref=rss)
+### alonso
 
-* [https://www.spiegel.de/ausland/bill-gates-will-sein-vermoegen-schneller-spenden](https://www.spiegel.de/ausland/bill-gates-will-sein-vermoegen-schneller-spenden-a-e90b1efb-a912-45e0-8f8b-8d415377f82c#ref=rss)
-### 20
+* [https://www.spiegel.de/sport/fussball/bundeligist-bayer-leverkusen-der-wechsel-von-trainer-xabi-alonso-zu-real-madrid-bahnt-sich-an](https://www.spiegel.de/sport/fussball/bundeligist-bayer-leverkusen-der-wechsel-von-trainer-xabi-alonso-zu-real-madrid-bahnt-sich-an-a-134100b3-43ef-4270-941c-013714e597f7#ref=rss)
+### real
 
-* [https://www.spiegel.de/ausland/bill-gates-will-sein-vermoegen-schneller-spenden](https://www.spiegel.de/ausland/bill-gates-will-sein-vermoegen-schneller-spenden-a-e90b1efb-a912-45e0-8f8b-8d415377f82c#ref=rss)
-* [https://www.spiegel.de/kultur/guenther-nonnenmacher-ist-tot-langjaehriger-faz-herausgeber-gestorben](https://www.spiegel.de/kultur/guenther-nonnenmacher-ist-tot-langjaehriger-faz-herausgeber-gestorben-a-030d4e13-ca05-4bd6-8d3d-faf8aa40c46f#ref=rss)
-### grund
+* [https://www.spiegel.de/sport/fussball/bundeligist-bayer-leverkusen-der-wechsel-von-trainer-xabi-alonso-zu-real-madrid-bahnt-sich-an](https://www.spiegel.de/sport/fussball/bundeligist-bayer-leverkusen-der-wechsel-von-trainer-xabi-alonso-zu-real-madrid-bahnt-sich-an-a-134100b3-43ef-4270-941c-013714e597f7#ref=rss)
+### madrid
 
-* [https://www.spiegel.de/ausland/bill-gates-will-sein-vermoegen-schneller-spenden](https://www.spiegel.de/ausland/bill-gates-will-sein-vermoegen-schneller-spenden-a-e90b1efb-a912-45e0-8f8b-8d415377f82c#ref=rss)
-* [https://www.spiegel.de/sport/american-football/donald-trump-streicht-programm-gegen-kopfverletzungen-im-sport](https://www.spiegel.de/sport/american-football/donald-trump-streicht-programm-gegen-kopfverletzungen-im-sport-a-863d570b-d1ec-44c8-8605-95aa72ca824c#ref=rss)
-### neue
+* [https://www.spiegel.de/sport/fussball/bundeligist-bayer-leverkusen-der-wechsel-von-trainer-xabi-alonso-zu-real-madrid-bahnt-sich-an](https://www.spiegel.de/sport/fussball/bundeligist-bayer-leverkusen-der-wechsel-von-trainer-xabi-alonso-zu-real-madrid-bahnt-sich-an-a-134100b3-43ef-4270-941c-013714e597f7#ref=rss)
+### offiziell
 
-* [https://www.spiegel.de/ausland/wer-ist-neuer-papst-robert-francis-prevost-ist-papst-leo-xiv](https://www.spiegel.de/ausland/wer-ist-neuer-papst-robert-francis-prevost-ist-papst-leo-xiv-a-fc2296e0-87d7-418c-aeea-b96839c74f52#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spiegel-klimaradar-so-steht-es-um-die-klimapolitik-von-schwarz-rot-die-bilanz-nach-sektoren](https://www.spiegel.de/politik/deutschland/spiegel-klimaradar-so-steht-es-um-die-klimapolitik-von-schwarz-rot-die-bilanz-nach-sektoren-a-ad212b96-4e1b-4456-a616-7fafe4bd94ff#ref=rss)
-### bundespolizei
+* [https://www.spiegel.de/sport/fussball/bundeligist-bayer-leverkusen-der-wechsel-von-trainer-xabi-alonso-zu-real-madrid-bahnt-sich-an](https://www.spiegel.de/sport/fussball/bundeligist-bayer-leverkusen-der-wechsel-von-trainer-xabi-alonso-zu-real-madrid-bahnt-sich-an-a-134100b3-43ef-4270-941c-013714e597f7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-abgeordneter-ralf-stegner-kam-mit-putin-vertrauten-bei-geheimtreffen-in-baku-zusammen](https://www.spiegel.de/politik/deutschland/spd-abgeordneter-ralf-stegner-kam-mit-putin-vertrauten-bei-geheimtreffen-in-baku-zusammen-a-0b114129-541b-4bc7-837a-5012292f86e5#ref=rss)
+### reiche
 
-* [https://www.spiegel.de/politik/deutschland/bundespolizei-interner-einsatzvermerk-weckt-zweifel-an-durchhaltefaehigkeit-fuer-verstaerkte-grenzkontrollen](https://www.spiegel.de/politik/deutschland/bundespolizei-interner-einsatzvermerk-weckt-zweifel-an-durchhaltefaehigkeit-fuer-verstaerkte-grenzkontrollen-a-6c3161db-27db-4fb8-b6ce-71b1ec678dae#ref=rss)
-### interner
+* [https://www.spiegel.de/wirtschaft/unternehmen/konjunkturankurbelung-katherina-reiche-plant-neue-gaskraftwerke-fuer-deutschland](https://www.spiegel.de/wirtschaft/unternehmen/konjunkturankurbelung-katherina-reiche-plant-neue-gaskraftwerke-fuer-deutschland-a-65469da2-be6c-49bb-aa1e-0b6f7cb2c443#ref=rss)
+### gaskraftwerke
 
-* [https://www.spiegel.de/politik/deutschland/bundespolizei-interner-einsatzvermerk-weckt-zweifel-an-durchhaltefaehigkeit-fuer-verstaerkte-grenzkontrollen](https://www.spiegel.de/politik/deutschland/bundespolizei-interner-einsatzvermerk-weckt-zweifel-an-durchhaltefaehigkeit-fuer-verstaerkte-grenzkontrollen-a-6c3161db-27db-4fb8-b6ce-71b1ec678dae#ref=rss)
-### einsatzvermerk
+* [https://www.spiegel.de/wirtschaft/unternehmen/konjunkturankurbelung-katherina-reiche-plant-neue-gaskraftwerke-fuer-deutschland](https://www.spiegel.de/wirtschaft/unternehmen/konjunkturankurbelung-katherina-reiche-plant-neue-gaskraftwerke-fuer-deutschland-a-65469da2-be6c-49bb-aa1e-0b6f7cb2c443#ref=rss)
+### land
 
-* [https://www.spiegel.de/politik/deutschland/bundespolizei-interner-einsatzvermerk-weckt-zweifel-an-durchhaltefaehigkeit-fuer-verstaerkte-grenzkontrollen](https://www.spiegel.de/politik/deutschland/bundespolizei-interner-einsatzvermerk-weckt-zweifel-an-durchhaltefaehigkeit-fuer-verstaerkte-grenzkontrollen-a-6c3161db-27db-4fb8-b6ce-71b1ec678dae#ref=rss)
-### weckt
+* [https://www.spiegel.de/wirtschaft/unternehmen/konjunkturankurbelung-katherina-reiche-plant-neue-gaskraftwerke-fuer-deutschland](https://www.spiegel.de/wirtschaft/unternehmen/konjunkturankurbelung-katherina-reiche-plant-neue-gaskraftwerke-fuer-deutschland-a-65469da2-be6c-49bb-aa1e-0b6f7cb2c443#ref=rss)
+* [https://www.spiegel.de/politik/neue-bundesregierung-die-politik-sollte-endlich-verstehen-was-mit-diesem-land-los-ist](https://www.spiegel.de/politik/neue-bundesregierung-die-politik-sollte-endlich-verstehen-was-mit-diesem-land-los-ist-a-4f97b90b-8ca0-42e9-bb64-801afe9c704f#ref=rss)
+### tatort
 
-* [https://www.spiegel.de/politik/deutschland/bundespolizei-interner-einsatzvermerk-weckt-zweifel-an-durchhaltefaehigkeit-fuer-verstaerkte-grenzkontrollen](https://www.spiegel.de/politik/deutschland/bundespolizei-interner-einsatzvermerk-weckt-zweifel-an-durchhaltefaehigkeit-fuer-verstaerkte-grenzkontrollen-a-6c3161db-27db-4fb8-b6ce-71b1ec678dae#ref=rss)
-### zweifel
+* [https://www.spiegel.de/kultur/tv/tatort-aus-bremen-solange-du-atmest-mit-jasna-fritzi-bauer](https://www.spiegel.de/kultur/tv/tatort-aus-bremen-solange-du-atmest-mit-jasna-fritzi-bauer-a-044853da-27f6-49fc-af71-a210f39023ab#ref=rss)
+### diesem
 
-* [https://www.spiegel.de/politik/deutschland/bundespolizei-interner-einsatzvermerk-weckt-zweifel-an-durchhaltefaehigkeit-fuer-verstaerkte-grenzkontrollen](https://www.spiegel.de/politik/deutschland/bundespolizei-interner-einsatzvermerk-weckt-zweifel-an-durchhaltefaehigkeit-fuer-verstaerkte-grenzkontrollen-a-6c3161db-27db-4fb8-b6ce-71b1ec678dae#ref=rss)
-### grenzkontrollen
+* [https://www.spiegel.de/kultur/tv/tatort-aus-bremen-solange-du-atmest-mit-jasna-fritzi-bauer](https://www.spiegel.de/kultur/tv/tatort-aus-bremen-solange-du-atmest-mit-jasna-fritzi-bauer-a-044853da-27f6-49fc-af71-a210f39023ab#ref=rss)
+* [https://www.spiegel.de/politik/neue-bundesregierung-die-politik-sollte-endlich-verstehen-was-mit-diesem-land-los-ist](https://www.spiegel.de/politik/neue-bundesregierung-die-politik-sollte-endlich-verstehen-was-mit-diesem-land-los-ist-a-4f97b90b-8ca0-42e9-bb64-801afe9c704f#ref=rss)
+### sachen
 
-* [https://www.spiegel.de/politik/deutschland/bundespolizei-interner-einsatzvermerk-weckt-zweifel-an-durchhaltefaehigkeit-fuer-verstaerkte-grenzkontrollen](https://www.spiegel.de/politik/deutschland/bundespolizei-interner-einsatzvermerk-weckt-zweifel-an-durchhaltefaehigkeit-fuer-verstaerkte-grenzkontrollen-a-6c3161db-27db-4fb8-b6ce-71b1ec678dae#ref=rss)
-### 8
+* [https://www.spiegel.de/kultur/tv/tatort-aus-bremen-solange-du-atmest-mit-jasna-fritzi-bauer](https://www.spiegel.de/kultur/tv/tatort-aus-bremen-solange-du-atmest-mit-jasna-fritzi-bauer-a-044853da-27f6-49fc-af71-a210f39023ab#ref=rss)
+### bielefeld
 
-* [https://www.spiegel.de/politik/deutschland/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast](https://www.spiegel.de/politik/deutschland/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast-a-47527a3e-b08c-4e96-8a70-c20fb6249655#ref=rss)
-* [https://www.spiegel.de/politik/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast](https://www.spiegel.de/politik/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast-a-2a5a9167-2fc1-47b1-91d3-0ca404d3010d#ref=rss)
-### mai
+* [https://www.spiegel.de/panorama/justiz/bielefeld-19-jaehriger-wegen-toedlicher-attacke-in-bad-oeynhausen-nach-abifeier-zu-neun-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/bielefeld-19-jaehriger-wegen-toedlicher-attacke-in-bad-oeynhausen-nach-abifeier-zu-neun-jahren-haft-verurteilt-a-68b96861-9d55-433b-8040-365c5deab83c#ref=rss)
+### bad
 
-* [https://www.spiegel.de/politik/deutschland/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast](https://www.spiegel.de/politik/deutschland/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast-a-47527a3e-b08c-4e96-8a70-c20fb6249655#ref=rss)
-* [https://www.spiegel.de/politik/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast](https://www.spiegel.de/politik/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast-a-2a5a9167-2fc1-47b1-91d3-0ca404d3010d#ref=rss)
-### befreiung
+* [https://www.spiegel.de/panorama/justiz/bielefeld-19-jaehriger-wegen-toedlicher-attacke-in-bad-oeynhausen-nach-abifeier-zu-neun-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/bielefeld-19-jaehriger-wegen-toedlicher-attacke-in-bad-oeynhausen-nach-abifeier-zu-neun-jahren-haft-verurteilt-a-68b96861-9d55-433b-8040-365c5deab83c#ref=rss)
+### oeynhausen
 
-* [https://www.spiegel.de/politik/deutschland/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast](https://www.spiegel.de/politik/deutschland/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast-a-47527a3e-b08c-4e96-8a70-c20fb6249655#ref=rss)
-* [https://www.spiegel.de/politik/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast](https://www.spiegel.de/politik/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast-a-2a5a9167-2fc1-47b1-91d3-0ca404d3010d#ref=rss)
-### erforscht
+* [https://www.spiegel.de/panorama/justiz/bielefeld-19-jaehriger-wegen-toedlicher-attacke-in-bad-oeynhausen-nach-abifeier-zu-neun-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/bielefeld-19-jaehriger-wegen-toedlicher-attacke-in-bad-oeynhausen-nach-abifeier-zu-neun-jahren-haft-verurteilt-a-68b96861-9d55-433b-8040-365c5deab83c#ref=rss)
+### abifeier
 
-* [https://www.spiegel.de/politik/deutschland/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast](https://www.spiegel.de/politik/deutschland/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast-a-47527a3e-b08c-4e96-8a70-c20fb6249655#ref=rss)
-* [https://www.spiegel.de/politik/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast](https://www.spiegel.de/politik/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast-a-2a5a9167-2fc1-47b1-91d3-0ca404d3010d#ref=rss)
-### nazivergangenheit
+* [https://www.spiegel.de/panorama/justiz/bielefeld-19-jaehriger-wegen-toedlicher-attacke-in-bad-oeynhausen-nach-abifeier-zu-neun-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/bielefeld-19-jaehriger-wegen-toedlicher-attacke-in-bad-oeynhausen-nach-abifeier-zu-neun-jahren-haft-verurteilt-a-68b96861-9d55-433b-8040-365c5deab83c#ref=rss)
+### verurteilt
 
-* [https://www.spiegel.de/politik/deutschland/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast](https://www.spiegel.de/politik/deutschland/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast-a-47527a3e-b08c-4e96-8a70-c20fb6249655#ref=rss)
-* [https://www.spiegel.de/politik/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast](https://www.spiegel.de/politik/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast-a-2a5a9167-2fc1-47b1-91d3-0ca404d3010d#ref=rss)
-### eigenen
+* [https://www.spiegel.de/panorama/justiz/bielefeld-19-jaehriger-wegen-toedlicher-attacke-in-bad-oeynhausen-nach-abifeier-zu-neun-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/bielefeld-19-jaehriger-wegen-toedlicher-attacke-in-bad-oeynhausen-nach-abifeier-zu-neun-jahren-haft-verurteilt-a-68b96861-9d55-433b-8040-365c5deab83c#ref=rss)
+### maximilian
 
-* [https://www.spiegel.de/politik/deutschland/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast](https://www.spiegel.de/politik/deutschland/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast-a-47527a3e-b08c-4e96-8a70-c20fb6249655#ref=rss)
-* [https://www.spiegel.de/politik/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast](https://www.spiegel.de/politik/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast-a-2a5a9167-2fc1-47b1-91d3-0ca404d3010d#ref=rss)
-### familie
+* [https://www.spiegel.de/politik/deutschland/maximilian-krah-ermittlungen-gegen-afd-politiker-wegen-bestechlichkeit](https://www.spiegel.de/politik/deutschland/maximilian-krah-ermittlungen-gegen-afd-politiker-wegen-bestechlichkeit-a-e59d1de7-10d3-4f40-9a20-76b5ffeb4fff#ref=rss)
+### krah
 
-* [https://www.spiegel.de/politik/deutschland/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast](https://www.spiegel.de/politik/deutschland/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast-a-47527a3e-b08c-4e96-8a70-c20fb6249655#ref=rss)
-* [https://www.spiegel.de/politik/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast](https://www.spiegel.de/politik/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast-a-2a5a9167-2fc1-47b1-91d3-0ca404d3010d#ref=rss)
-### podcast
+* [https://www.spiegel.de/politik/deutschland/maximilian-krah-ermittlungen-gegen-afd-politiker-wegen-bestechlichkeit](https://www.spiegel.de/politik/deutschland/maximilian-krah-ermittlungen-gegen-afd-politiker-wegen-bestechlichkeit-a-e59d1de7-10d3-4f40-9a20-76b5ffeb4fff#ref=rss)
+### ermittlungen
 
-* [https://www.spiegel.de/politik/deutschland/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast](https://www.spiegel.de/politik/deutschland/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast-a-47527a3e-b08c-4e96-8a70-c20fb6249655#ref=rss)
-* [https://www.spiegel.de/politik/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast](https://www.spiegel.de/politik/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast-a-2a5a9167-2fc1-47b1-91d3-0ca404d3010d#ref=rss)
-### wenigsten
+* [https://www.spiegel.de/politik/deutschland/maximilian-krah-ermittlungen-gegen-afd-politiker-wegen-bestechlichkeit](https://www.spiegel.de/politik/deutschland/maximilian-krah-ermittlungen-gegen-afd-politiker-wegen-bestechlichkeit-a-e59d1de7-10d3-4f40-9a20-76b5ffeb4fff#ref=rss)
+* [https://www.spiegel.de/panorama/lorenz-a-bundestagsabgeordneter-fordert-zentralstelle-fuer-ermittlungen-gegen-polizisten](https://www.spiegel.de/panorama/lorenz-a-bundestagsabgeordneter-fordert-zentralstelle-fuer-ermittlungen-gegen-polizisten-a-dbba36a3-580e-4d08-9a5a-4489098fe4f9#ref=rss)
+### jan
 
-* [https://www.spiegel.de/politik/deutschland/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast](https://www.spiegel.de/politik/deutschland/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast-a-47527a3e-b08c-4e96-8a70-c20fb6249655#ref=rss)
-* [https://www.spiegel.de/politik/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast](https://www.spiegel.de/politik/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast-a-2a5a9167-2fc1-47b1-91d3-0ca404d3010d#ref=rss)
-### deutschen
+* [https://www.spiegel.de/politik/deutschland/jan-van-aken-ueber-antisemitismus-bei-kritik-an-israel-auch-mal-gerade-bleiben](https://www.spiegel.de/politik/deutschland/jan-van-aken-ueber-antisemitismus-bei-kritik-an-israel-auch-mal-gerade-bleiben-a-17aa1bca-1a42-4448-b7b1-6f3cf91ef10c#ref=rss)
+### van
 
-* [https://www.spiegel.de/politik/deutschland/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast](https://www.spiegel.de/politik/deutschland/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast-a-47527a3e-b08c-4e96-8a70-c20fb6249655#ref=rss)
-* [https://www.spiegel.de/politik/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast](https://www.spiegel.de/politik/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast-a-2a5a9167-2fc1-47b1-91d3-0ca404d3010d#ref=rss)
-### wissen
+* [https://www.spiegel.de/politik/deutschland/jan-van-aken-ueber-antisemitismus-bei-kritik-an-israel-auch-mal-gerade-bleiben](https://www.spiegel.de/politik/deutschland/jan-van-aken-ueber-antisemitismus-bei-kritik-an-israel-auch-mal-gerade-bleiben-a-17aa1bca-1a42-4448-b7b1-6f3cf91ef10c#ref=rss)
+### aken
 
-* [https://www.spiegel.de/politik/deutschland/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast](https://www.spiegel.de/politik/deutschland/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast-a-47527a3e-b08c-4e96-8a70-c20fb6249655#ref=rss)
-* [https://www.spiegel.de/politik/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast](https://www.spiegel.de/politik/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast-a-2a5a9167-2fc1-47b1-91d3-0ca404d3010d#ref=rss)
-### vorfahren
+* [https://www.spiegel.de/politik/deutschland/jan-van-aken-ueber-antisemitismus-bei-kritik-an-israel-auch-mal-gerade-bleiben](https://www.spiegel.de/politik/deutschland/jan-van-aken-ueber-antisemitismus-bei-kritik-an-israel-auch-mal-gerade-bleiben-a-17aa1bca-1a42-4448-b7b1-6f3cf91ef10c#ref=rss)
+### antisemitismus
 
-* [https://www.spiegel.de/politik/deutschland/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast](https://www.spiegel.de/politik/deutschland/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast-a-47527a3e-b08c-4e96-8a70-c20fb6249655#ref=rss)
-* [https://www.spiegel.de/politik/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast](https://www.spiegel.de/politik/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast-a-2a5a9167-2fc1-47b1-91d3-0ca404d3010d#ref=rss)
-### unter
+* [https://www.spiegel.de/politik/deutschland/jan-van-aken-ueber-antisemitismus-bei-kritik-an-israel-auch-mal-gerade-bleiben](https://www.spiegel.de/politik/deutschland/jan-van-aken-ueber-antisemitismus-bei-kritik-an-israel-auch-mal-gerade-bleiben-a-17aa1bca-1a42-4448-b7b1-6f3cf91ef10c#ref=rss)
+### bleiben
 
-* [https://www.spiegel.de/politik/deutschland/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast](https://www.spiegel.de/politik/deutschland/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast-a-47527a3e-b08c-4e96-8a70-c20fb6249655#ref=rss)
-* [https://www.spiegel.de/politik/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast](https://www.spiegel.de/politik/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast-a-2a5a9167-2fc1-47b1-91d3-0ca404d3010d#ref=rss)
-### adolf
+* [https://www.spiegel.de/politik/deutschland/jan-van-aken-ueber-antisemitismus-bei-kritik-an-israel-auch-mal-gerade-bleiben](https://www.spiegel.de/politik/deutschland/jan-van-aken-ueber-antisemitismus-bei-kritik-an-israel-auch-mal-gerade-bleiben-a-17aa1bca-1a42-4448-b7b1-6f3cf91ef10c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-geschaeftsmann-vermisst-mutter-sucht-mit-flugblaettern-nach-ihm](https://www.spiegel.de/panorama/justiz/berlin-geschaeftsmann-vermisst-mutter-sucht-mit-flugblaettern-nach-ihm-a-5b50da85-f54d-408c-bbaa-cf759259e7d9#ref=rss)
+### zusammen
 
-* [https://www.spiegel.de/politik/deutschland/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast](https://www.spiegel.de/politik/deutschland/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast-a-47527a3e-b08c-4e96-8a70-c20fb6249655#ref=rss)
-* [https://www.spiegel.de/politik/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast](https://www.spiegel.de/politik/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast-a-2a5a9167-2fc1-47b1-91d3-0ca404d3010d#ref=rss)
-### hitler
+* [https://www.spiegel.de/politik/deutschland/jan-van-aken-ueber-antisemitismus-bei-kritik-an-israel-auch-mal-gerade-bleiben](https://www.spiegel.de/politik/deutschland/jan-van-aken-ueber-antisemitismus-bei-kritik-an-israel-auch-mal-gerade-bleiben-a-17aa1bca-1a42-4448-b7b1-6f3cf91ef10c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-abgeordneter-ralf-stegner-kam-mit-putin-vertrauten-bei-geheimtreffen-in-baku-zusammen](https://www.spiegel.de/politik/deutschland/spd-abgeordneter-ralf-stegner-kam-mit-putin-vertrauten-bei-geheimtreffen-in-baku-zusammen-a-0b114129-541b-4bc7-837a-5012292f86e5#ref=rss)
+### eurovision
 
-* [https://www.spiegel.de/politik/deutschland/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast](https://www.spiegel.de/politik/deutschland/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast-a-47527a3e-b08c-4e96-8a70-c20fb6249655#ref=rss)
-* [https://www.spiegel.de/politik/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast](https://www.spiegel.de/politik/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast-a-2a5a9167-2fc1-47b1-91d3-0ca404d3010d#ref=rss)
-### getan
+* [https://www.spiegel.de/kultur/eurovision-song-contest-israel-mahnt-esc-reisende-zur-vorsicht](https://www.spiegel.de/kultur/eurovision-song-contest-israel-mahnt-esc-reisende-zur-vorsicht-a-9e202083-c508-4c4c-b22e-dd7327d3ffc9#ref=rss)
+### song
 
-* [https://www.spiegel.de/politik/deutschland/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast](https://www.spiegel.de/politik/deutschland/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast-a-47527a3e-b08c-4e96-8a70-c20fb6249655#ref=rss)
-* [https://www.spiegel.de/politik/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast](https://www.spiegel.de/politik/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast-a-2a5a9167-2fc1-47b1-91d3-0ca404d3010d#ref=rss)
-### spiegelautorin
+* [https://www.spiegel.de/kultur/eurovision-song-contest-israel-mahnt-esc-reisende-zur-vorsicht](https://www.spiegel.de/kultur/eurovision-song-contest-israel-mahnt-esc-reisende-zur-vorsicht-a-9e202083-c508-4c4c-b22e-dd7327d3ffc9#ref=rss)
+### contest
 
-* [https://www.spiegel.de/politik/deutschland/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast](https://www.spiegel.de/politik/deutschland/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast-a-47527a3e-b08c-4e96-8a70-c20fb6249655#ref=rss)
-* [https://www.spiegel.de/politik/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast](https://www.spiegel.de/politik/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast-a-2a5a9167-2fc1-47b1-91d3-0ca404d3010d#ref=rss)
-### susanne
+* [https://www.spiegel.de/kultur/eurovision-song-contest-israel-mahnt-esc-reisende-zur-vorsicht](https://www.spiegel.de/kultur/eurovision-song-contest-israel-mahnt-esc-reisende-zur-vorsicht-a-9e202083-c508-4c4c-b22e-dd7327d3ffc9#ref=rss)
+### marie
 
-* [https://www.spiegel.de/politik/deutschland/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast](https://www.spiegel.de/politik/deutschland/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast-a-47527a3e-b08c-4e96-8a70-c20fb6249655#ref=rss)
-* [https://www.spiegel.de/politik/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast](https://www.spiegel.de/politik/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast-a-2a5a9167-2fc1-47b1-91d3-0ca404d3010d#ref=rss)
-### beyer
+* [https://www.spiegel.de/panorama/leute/marie-nasemann-und-sebastian-tigges-haben-sich-getrennt](https://www.spiegel.de/panorama/leute/marie-nasemann-und-sebastian-tigges-haben-sich-getrennt-a-3ff1b3b8-ee0e-447f-b00a-eb89987b31fa#ref=rss)
+### nasemann
 
-* [https://www.spiegel.de/politik/deutschland/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast](https://www.spiegel.de/politik/deutschland/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast-a-47527a3e-b08c-4e96-8a70-c20fb6249655#ref=rss)
-* [https://www.spiegel.de/politik/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast](https://www.spiegel.de/politik/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast-a-2a5a9167-2fc1-47b1-91d3-0ca404d3010d#ref=rss)
-### spurensuche
+* [https://www.spiegel.de/panorama/leute/marie-nasemann-und-sebastian-tigges-haben-sich-getrennt](https://www.spiegel.de/panorama/leute/marie-nasemann-und-sebastian-tigges-haben-sich-getrennt-a-3ff1b3b8-ee0e-447f-b00a-eb89987b31fa#ref=rss)
+### sebastian
 
-* [https://www.spiegel.de/politik/deutschland/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast](https://www.spiegel.de/politik/deutschland/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast-a-47527a3e-b08c-4e96-8a70-c20fb6249655#ref=rss)
-* [https://www.spiegel.de/politik/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast](https://www.spiegel.de/politik/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast-a-2a5a9167-2fc1-47b1-91d3-0ca404d3010d#ref=rss)
-### gerade
+* [https://www.spiegel.de/panorama/leute/marie-nasemann-und-sebastian-tigges-haben-sich-getrennt](https://www.spiegel.de/panorama/leute/marie-nasemann-und-sebastian-tigges-haben-sich-getrennt-a-3ff1b3b8-ee0e-447f-b00a-eb89987b31fa#ref=rss)
+### tigges
 
-* [https://www.spiegel.de/politik/deutschland/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast](https://www.spiegel.de/politik/deutschland/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast-a-47527a3e-b08c-4e96-8a70-c20fb6249655#ref=rss)
-* [https://www.spiegel.de/politik/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast](https://www.spiegel.de/politik/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast-a-2a5a9167-2fc1-47b1-91d3-0ca404d3010d#ref=rss)
-### junge
+* [https://www.spiegel.de/panorama/leute/marie-nasemann-und-sebastian-tigges-haben-sich-getrennt](https://www.spiegel.de/panorama/leute/marie-nasemann-und-sebastian-tigges-haben-sich-getrennt-a-3ff1b3b8-ee0e-447f-b00a-eb89987b31fa#ref=rss)
+### studie
 
-* [https://www.spiegel.de/politik/deutschland/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast](https://www.spiegel.de/politik/deutschland/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast-a-47527a3e-b08c-4e96-8a70-c20fb6249655#ref=rss)
-* [https://www.spiegel.de/politik/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast](https://www.spiegel.de/politik/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast-a-2a5a9167-2fc1-47b1-91d3-0ca404d3010d#ref=rss)
-### leute
+* [https://www.spiegel.de/wirtschaft/tesla-krise-der-name-elon-musk-ist-verbrannt](https://www.spiegel.de/wirtschaft/tesla-krise-der-name-elon-musk-ist-verbrannt-a-8cbdf706-02b0-4956-8c80-03f15adc3664#ref=rss)
+* [https://www.spiegel.de/wissenschaft/usa-alle-28-groessten-staedte-senken-sich-mehr-oder-weniger-schnell-ab](https://www.spiegel.de/wissenschaft/usa-alle-28-groessten-staedte-senken-sich-mehr-oder-weniger-schnell-ab-a-deea750d-d01d-4399-a429-8645cb821201#ref=rss)
+### lorenz
 
-* [https://www.spiegel.de/politik/deutschland/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast](https://www.spiegel.de/politik/deutschland/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast-a-47527a3e-b08c-4e96-8a70-c20fb6249655#ref=rss)
-* [https://www.spiegel.de/politik/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast](https://www.spiegel.de/politik/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast-a-2a5a9167-2fc1-47b1-91d3-0ca404d3010d#ref=rss)
-### nstabu
+* [https://www.spiegel.de/panorama/lorenz-a-bundestagsabgeordneter-fordert-zentralstelle-fuer-ermittlungen-gegen-polizisten](https://www.spiegel.de/panorama/lorenz-a-bundestagsabgeordneter-fordert-zentralstelle-fuer-ermittlungen-gegen-polizisten-a-dbba36a3-580e-4d08-9a5a-4489098fe4f9#ref=rss)
+### steigt
 
-* [https://www.spiegel.de/politik/deutschland/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast](https://www.spiegel.de/politik/deutschland/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast-a-47527a3e-b08c-4e96-8a70-c20fb6249655#ref=rss)
-* [https://www.spiegel.de/politik/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast](https://www.spiegel.de/politik/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast-a-2a5a9167-2fc1-47b1-91d3-0ca404d3010d#ref=rss)
-### brechen
+* [https://www.spiegel.de/sport/fussball/szenarien-zum-bundesliga-wochenende-so-steigt-der-hamburger-sv-auf-und-der-vfl-bochum-ab](https://www.spiegel.de/sport/fussball/szenarien-zum-bundesliga-wochenende-so-steigt-der-hamburger-sv-auf-und-der-vfl-bochum-ab-a-8527eee3-e8a0-4c2a-aaa6-6c35045e6ed8#ref=rss)
+* [https://www.spiegel.de/ausland/indien-und-pakistan-liefern-sich-naechtliche-gefechte-im-kaschmirkonflikt](https://www.spiegel.de/ausland/indien-und-pakistan-liefern-sich-naechtliche-gefechte-im-kaschmirkonflikt-a-80e35522-f08c-4caf-881c-d2a75eec7e61#ref=rss)
+### hamburger
 
-* [https://www.spiegel.de/politik/deutschland/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast](https://www.spiegel.de/politik/deutschland/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast-a-47527a3e-b08c-4e96-8a70-c20fb6249655#ref=rss)
-* [https://www.spiegel.de/politik/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast](https://www.spiegel.de/politik/8-mai-tag-der-befreiung-so-erforscht-man-die-nazi-vergangenheit-der-eigenen-familie-podcast-a-2a5a9167-2fc1-47b1-91d3-0ca404d3010d#ref=rss)
-### programm
+* [https://www.spiegel.de/sport/fussball/szenarien-zum-bundesliga-wochenende-so-steigt-der-hamburger-sv-auf-und-der-vfl-bochum-ab](https://www.spiegel.de/sport/fussball/szenarien-zum-bundesliga-wochenende-so-steigt-der-hamburger-sv-auf-und-der-vfl-bochum-ab-a-8527eee3-e8a0-4c2a-aaa6-6c35045e6ed8#ref=rss)
+### sv
 
-* [https://www.spiegel.de/sport/american-football/donald-trump-streicht-programm-gegen-kopfverletzungen-im-sport](https://www.spiegel.de/sport/american-football/donald-trump-streicht-programm-gegen-kopfverletzungen-im-sport-a-863d570b-d1ec-44c8-8605-95aa72ca824c#ref=rss)
-### kopfverletzungen
+* [https://www.spiegel.de/sport/fussball/szenarien-zum-bundesliga-wochenende-so-steigt-der-hamburger-sv-auf-und-der-vfl-bochum-ab](https://www.spiegel.de/sport/fussball/szenarien-zum-bundesliga-wochenende-so-steigt-der-hamburger-sv-auf-und-der-vfl-bochum-ab-a-8527eee3-e8a0-4c2a-aaa6-6c35045e6ed8#ref=rss)
+### vfl
 
-* [https://www.spiegel.de/sport/american-football/donald-trump-streicht-programm-gegen-kopfverletzungen-im-sport](https://www.spiegel.de/sport/american-football/donald-trump-streicht-programm-gegen-kopfverletzungen-im-sport-a-863d570b-d1ec-44c8-8605-95aa72ca824c#ref=rss)
-### verhindern
+* [https://www.spiegel.de/sport/fussball/szenarien-zum-bundesliga-wochenende-so-steigt-der-hamburger-sv-auf-und-der-vfl-bochum-ab](https://www.spiegel.de/sport/fussball/szenarien-zum-bundesliga-wochenende-so-steigt-der-hamburger-sv-auf-und-der-vfl-bochum-ab-a-8527eee3-e8a0-4c2a-aaa6-6c35045e6ed8#ref=rss)
+### bochum
 
-* [https://www.spiegel.de/sport/american-football/donald-trump-streicht-programm-gegen-kopfverletzungen-im-sport](https://www.spiegel.de/sport/american-football/donald-trump-streicht-programm-gegen-kopfverletzungen-im-sport-a-863d570b-d1ec-44c8-8605-95aa72ca824c#ref=rss)
-* [https://www.spiegel.de/ausland/indien-und-pakistan-wie-kann-eine-eskalation-zwischen-den-atommaechten-verhindert-werden](https://www.spiegel.de/ausland/indien-und-pakistan-wie-kann-eine-eskalation-zwischen-den-atommaechten-verhindert-werden-a-5226fad6-8fd0-4750-a7f6-59df51f51ec3#ref=rss)
-### polizei
+* [https://www.spiegel.de/sport/fussball/szenarien-zum-bundesliga-wochenende-so-steigt-der-hamburger-sv-auf-und-der-vfl-bochum-ab](https://www.spiegel.de/sport/fussball/szenarien-zum-bundesliga-wochenende-so-steigt-der-hamburger-sv-auf-und-der-vfl-bochum-ab-a-8527eee3-e8a0-4c2a-aaa6-6c35045e6ed8#ref=rss)
+### trans
 
-* [https://www.spiegel.de/panorama/justiz/berlin-polizei-findet-in-wohnung-in-schoeneberg-mehrere-rohrbomben](https://www.spiegel.de/panorama/justiz/berlin-polizei-findet-in-wohnung-in-schoeneberg-mehrere-rohrbomben-a-9d9741ae-5f76-4ed5-adaa-f7b159b35738#ref=rss)
-### wohnung
+* [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
+### armee
 
-* [https://www.spiegel.de/panorama/justiz/berlin-polizei-findet-in-wohnung-in-schoeneberg-mehrere-rohrbomben](https://www.spiegel.de/panorama/justiz/berlin-polizei-findet-in-wohnung-in-schoeneberg-mehrere-rohrbomben-a-9d9741ae-5f76-4ed5-adaa-f7b159b35738#ref=rss)
-### mehrere
+* [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
+### kam
 
-* [https://www.spiegel.de/panorama/justiz/berlin-polizei-findet-in-wohnung-in-schoeneberg-mehrere-rohrbomben](https://www.spiegel.de/panorama/justiz/berlin-polizei-findet-in-wohnung-in-schoeneberg-mehrere-rohrbomben-a-9d9741ae-5f76-4ed5-adaa-f7b159b35738#ref=rss)
-### russland
+* [https://www.spiegel.de/ausland/indien-und-pakistan-liefern-sich-naechtliche-gefechte-im-kaschmirkonflikt](https://www.spiegel.de/ausland/indien-und-pakistan-liefern-sich-naechtliche-gefechte-im-kaschmirkonflikt-a-80e35522-f08c-4caf-881c-d2a75eec7e61#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-abgeordneter-ralf-stegner-kam-mit-putin-vertrauten-bei-geheimtreffen-in-baku-zusammen](https://www.spiegel.de/politik/deutschland/spd-abgeordneter-ralf-stegner-kam-mit-putin-vertrauten-bei-geheimtreffen-in-baku-zusammen-a-0b114129-541b-4bc7-837a-5012292f86e5#ref=rss)
+### klaus
 
-* [https://www.spiegel.de/ausland/russland-und-china-kreml-inszeniert-treffen-von-xi-und-putin-mit-epischen-bildern](https://www.spiegel.de/ausland/russland-und-china-kreml-inszeniert-treffen-von-xi-und-putin-mit-epischen-bildern-a-905f37c8-e571-4ec0-857c-76fdf23d69c9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-afd-usa-grossbritannien-china-russland](https://www.spiegel.de/politik/deutschland/news-des-tages-afd-usa-grossbritannien-china-russland-a-86f04f07-dd32-43e3-b577-5607e68e23f0#ref=rss)
-### inszeniert
+* [https://www.spiegel.de/panorama/justiz/klaus-barbie-wie-der-nazi-schlaechter-zum-koks-kartell-in-bolivien-gelangte](https://www.spiegel.de/panorama/justiz/klaus-barbie-wie-der-nazi-schlaechter-zum-koks-kartell-in-bolivien-gelangte-a-9092099d-59e1-4a62-afb5-ae31012adfcc#ref=rss)
+### barbie
 
-* [https://www.spiegel.de/ausland/russland-und-china-kreml-inszeniert-treffen-von-xi-und-putin-mit-epischen-bildern](https://www.spiegel.de/ausland/russland-und-china-kreml-inszeniert-treffen-von-xi-und-putin-mit-epischen-bildern-a-905f37c8-e571-4ec0-857c-76fdf23d69c9#ref=rss)
-### treffen
+* [https://www.spiegel.de/panorama/justiz/klaus-barbie-wie-der-nazi-schlaechter-zum-koks-kartell-in-bolivien-gelangte](https://www.spiegel.de/panorama/justiz/klaus-barbie-wie-der-nazi-schlaechter-zum-koks-kartell-in-bolivien-gelangte-a-9092099d-59e1-4a62-afb5-ae31012adfcc#ref=rss)
+### bolivien
 
-* [https://www.spiegel.de/ausland/russland-und-china-kreml-inszeniert-treffen-von-xi-und-putin-mit-epischen-bildern](https://www.spiegel.de/ausland/russland-und-china-kreml-inszeniert-treffen-von-xi-und-putin-mit-epischen-bildern-a-905f37c8-e571-4ec0-857c-76fdf23d69c9#ref=rss)
-### xi
+* [https://www.spiegel.de/panorama/justiz/klaus-barbie-wie-der-nazi-schlaechter-zum-koks-kartell-in-bolivien-gelangte](https://www.spiegel.de/panorama/justiz/klaus-barbie-wie-der-nazi-schlaechter-zum-koks-kartell-in-bolivien-gelangte-a-9092099d-59e1-4a62-afb5-ae31012adfcc#ref=rss)
+### exporte
 
-* [https://www.spiegel.de/ausland/russland-und-china-kreml-inszeniert-treffen-von-xi-und-putin-mit-epischen-bildern](https://www.spiegel.de/ausland/russland-und-china-kreml-inszeniert-treffen-von-xi-und-putin-mit-epischen-bildern-a-905f37c8-e571-4ec0-857c-76fdf23d69c9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-afd-usa-grossbritannien-china-russland](https://www.spiegel.de/politik/deutschland/news-des-tages-afd-usa-grossbritannien-china-russland-a-86f04f07-dd32-43e3-b577-5607e68e23f0#ref=rss)
-### putin
+* [https://www.spiegel.de/wirtschaft/unternehmen/chinas-exporte-steigen-trotz-handelskrieg](https://www.spiegel.de/wirtschaft/unternehmen/chinas-exporte-steigen-trotz-handelskrieg-a-c5279e0e-097e-44df-ab5a-961285499e4e#ref=rss)
+### handelskrieg
 
-* [https://www.spiegel.de/ausland/russland-und-china-kreml-inszeniert-treffen-von-xi-und-putin-mit-epischen-bildern](https://www.spiegel.de/ausland/russland-und-china-kreml-inszeniert-treffen-von-xi-und-putin-mit-epischen-bildern-a-905f37c8-e571-4ec0-857c-76fdf23d69c9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-afd-usa-grossbritannien-china-russland](https://www.spiegel.de/politik/deutschland/news-des-tages-afd-usa-grossbritannien-china-russland-a-86f04f07-dd32-43e3-b577-5607e68e23f0#ref=rss)
-### macht
+* [https://www.spiegel.de/wirtschaft/unternehmen/chinas-exporte-steigen-trotz-handelskrieg](https://www.spiegel.de/wirtschaft/unternehmen/chinas-exporte-steigen-trotz-handelskrieg-a-c5279e0e-097e-44df-ab5a-961285499e4e#ref=rss)
+### weniger
 
-* [https://www.spiegel.de/ausland/russland-und-china-kreml-inszeniert-treffen-von-xi-und-putin-mit-epischen-bildern](https://www.spiegel.de/ausland/russland-und-china-kreml-inszeniert-treffen-von-xi-und-putin-mit-epischen-bildern-a-905f37c8-e571-4ec0-857c-76fdf23d69c9#ref=rss)
-* [https://www.spiegel.de/ausland/zolldeal-zwischen-uk-und-usa-der-coup-des-schmeichlers-in-chief](https://www.spiegel.de/ausland/zolldeal-zwischen-uk-und-usa-der-coup-des-schmeichlers-in-chief-a-c0e56942-3892-4b1d-aba0-c4491898cc6f#ref=rss)
-### moskau
+* [https://www.spiegel.de/wirtschaft/unternehmen/chinas-exporte-steigen-trotz-handelskrieg](https://www.spiegel.de/wirtschaft/unternehmen/chinas-exporte-steigen-trotz-handelskrieg-a-c5279e0e-097e-44df-ab5a-961285499e4e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/usa-alle-28-groessten-staedte-senken-sich-mehr-oder-weniger-schnell-ab](https://www.spiegel.de/wissenschaft/usa-alle-28-groessten-staedte-senken-sich-mehr-oder-weniger-schnell-ab-a-deea750d-d01d-4399-a429-8645cb821201#ref=rss)
+### usa
 
-* [https://www.spiegel.de/ausland/russland-und-china-kreml-inszeniert-treffen-von-xi-und-putin-mit-epischen-bildern](https://www.spiegel.de/ausland/russland-und-china-kreml-inszeniert-treffen-von-xi-und-putin-mit-epischen-bildern-a-905f37c8-e571-4ec0-857c-76fdf23d69c9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-afd-usa-grossbritannien-china-russland](https://www.spiegel.de/politik/deutschland/news-des-tages-afd-usa-grossbritannien-china-russland-a-86f04f07-dd32-43e3-b577-5607e68e23f0#ref=rss)
-### chinas
+* [https://www.spiegel.de/wirtschaft/unternehmen/chinas-exporte-steigen-trotz-handelskrieg](https://www.spiegel.de/wirtschaft/unternehmen/chinas-exporte-steigen-trotz-handelskrieg-a-c5279e0e-097e-44df-ab5a-961285499e4e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/usa-alle-28-groessten-staedte-senken-sich-mehr-oder-weniger-schnell-ab](https://www.spiegel.de/wissenschaft/usa-alle-28-groessten-staedte-senken-sich-mehr-oder-weniger-schnell-ab-a-deea750d-d01d-4399-a429-8645cb821201#ref=rss)
+### partei
 
-* [https://www.spiegel.de/ausland/russland-und-china-kreml-inszeniert-treffen-von-xi-und-putin-mit-epischen-bildern](https://www.spiegel.de/ausland/russland-und-china-kreml-inszeniert-treffen-von-xi-und-putin-mit-epischen-bildern-a-905f37c8-e571-4ec0-857c-76fdf23d69c9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-afd-usa-grossbritannien-china-russland](https://www.spiegel.de/politik/deutschland/news-des-tages-afd-usa-grossbritannien-china-russland-a-86f04f07-dd32-43e3-b577-5607e68e23f0#ref=rss)
-### deal
+* [https://www.spiegel.de/politik/deutschland/afd-partei-zeigt-sich-unbeeindruckt-von-rechtsextremer-einstufung](https://www.spiegel.de/politik/deutschland/afd-partei-zeigt-sich-unbeeindruckt-von-rechtsextremer-einstufung-a-bbd79cdf-69f7-40b7-bea5-c415bd896f64#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/ausland/zolldeal-zwischen-uk-und-usa-der-coup-des-schmeichlers-in-chief](https://www.spiegel.de/ausland/zolldeal-zwischen-uk-und-usa-der-coup-des-schmeichlers-in-chief-a-c0e56942-3892-4b1d-aba0-c4491898cc6f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ukraine-parlament-ratifiziert-rohstoffdeal-mit-den-usa](https://www.spiegel.de/wirtschaft/ukraine-parlament-ratifiziert-rohstoffdeal-mit-den-usa-a-dad3d6ea-629d-49ad-9632-45dff7b2aa54#ref=rss)
-### klimapolitik
+* [https://www.spiegel.de/wissenschaft/usa-alle-28-groessten-staedte-senken-sich-mehr-oder-weniger-schnell-ab](https://www.spiegel.de/wissenschaft/usa-alle-28-groessten-staedte-senken-sich-mehr-oder-weniger-schnell-ab-a-deea750d-d01d-4399-a429-8645cb821201#ref=rss)
+### new
 
-* [https://www.spiegel.de/politik/deutschland/spiegel-klimaradar-so-steht-es-um-die-klimapolitik-von-schwarz-rot-die-bilanz-nach-sektoren](https://www.spiegel.de/politik/deutschland/spiegel-klimaradar-so-steht-es-um-die-klimapolitik-von-schwarz-rot-die-bilanz-nach-sektoren-a-ad212b96-4e1b-4456-a616-7fafe4bd94ff#ref=rss)
-### gar
+* [https://www.spiegel.de/wissenschaft/usa-alle-28-groessten-staedte-senken-sich-mehr-oder-weniger-schnell-ab](https://www.spiegel.de/wissenschaft/usa-alle-28-groessten-staedte-senken-sich-mehr-oder-weniger-schnell-ab-a-deea750d-d01d-4399-a429-8645cb821201#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/harvey-weinstein-ex-model-kaja-sokola-sagt-vor-gericht-gegen-ex-filmproduzenten-aus](https://www.spiegel.de/panorama/justiz/harvey-weinstein-ex-model-kaja-sokola-sagt-vor-gericht-gegen-ex-filmproduzenten-aus-a-141c32b9-3656-4ee6-b72e-bc44e52f6f5e#ref=rss)
+### york
 
-* [https://www.spiegel.de/politik/deutschland/spiegel-klimaradar-so-steht-es-um-die-klimapolitik-von-schwarz-rot-die-bilanz-nach-sektoren](https://www.spiegel.de/politik/deutschland/spiegel-klimaradar-so-steht-es-um-die-klimapolitik-von-schwarz-rot-die-bilanz-nach-sektoren-a-ad212b96-4e1b-4456-a616-7fafe4bd94ff#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/vornamen-ranking-beliebt-bei-eltern-oder-doch-eher-hundebesitzern](https://www.spiegel.de/panorama/gesellschaft/vornamen-ranking-beliebt-bei-eltern-oder-doch-eher-hundebesitzern-a-10c09b5d-7508-410c-b080-bad5076a5bc1#ref=rss)
-### zeigt
+* [https://www.spiegel.de/wissenschaft/usa-alle-28-groessten-staedte-senken-sich-mehr-oder-weniger-schnell-ab](https://www.spiegel.de/wissenschaft/usa-alle-28-groessten-staedte-senken-sich-mehr-oder-weniger-schnell-ab-a-deea750d-d01d-4399-a429-8645cb821201#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/harvey-weinstein-ex-model-kaja-sokola-sagt-vor-gericht-gegen-ex-filmproduzenten-aus](https://www.spiegel.de/panorama/justiz/harvey-weinstein-ex-model-kaja-sokola-sagt-vor-gericht-gegen-ex-filmproduzenten-aus-a-141c32b9-3656-4ee6-b72e-bc44e52f6f5e#ref=rss)
+### jahr
 
-* [https://www.spiegel.de/politik/deutschland/spiegel-klimaradar-so-steht-es-um-die-klimapolitik-von-schwarz-rot-die-bilanz-nach-sektoren](https://www.spiegel.de/politik/deutschland/spiegel-klimaradar-so-steht-es-um-die-klimapolitik-von-schwarz-rot-die-bilanz-nach-sektoren-a-ad212b96-4e1b-4456-a616-7fafe4bd94ff#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/vornamen-ranking-beliebt-bei-eltern-oder-doch-eher-hundebesitzern](https://www.spiegel.de/panorama/gesellschaft/vornamen-ranking-beliebt-bei-eltern-oder-doch-eher-hundebesitzern-a-10c09b5d-7508-410c-b080-bad5076a5bc1#ref=rss)
-### überblick
+* [https://www.spiegel.de/wissenschaft/usa-alle-28-groessten-staedte-senken-sich-mehr-oder-weniger-schnell-ab](https://www.spiegel.de/wissenschaft/usa-alle-28-groessten-staedte-senken-sich-mehr-oder-weniger-schnell-ab-a-deea750d-d01d-4399-a429-8645cb821201#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-meldet-ueberraschend-hohen-gewinn](https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-meldet-ueberraschend-hohen-gewinn-a-4450972d-135a-4d12-8e3f-3ccda35e312b#ref=rss)
+### ostjerusalem
 
-* [https://www.spiegel.de/politik/deutschland/spiegel-klimaradar-so-steht-es-um-die-klimapolitik-von-schwarz-rot-die-bilanz-nach-sektoren](https://www.spiegel.de/politik/deutschland/spiegel-klimaradar-so-steht-es-um-die-klimapolitik-von-schwarz-rot-die-bilanz-nach-sektoren-a-ad212b96-4e1b-4456-a616-7fafe4bd94ff#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-satellitenbilder-zeigen-systematische-zerstoerung-und-uebernahme-des-kriegsgebiets](https://www.spiegel.de/ausland/gaza-satellitenbilder-zeigen-systematische-zerstoerung-und-uebernahme-des-kriegsgebiets-a-41b40d48-28ff-4020-b760-0852e890ca0f#ref=rss)
-### afd
+* [https://www.spiegel.de/ausland/israel-polizei-schliesst-unrwa-schulen-in-ostjerusalem](https://www.spiegel.de/ausland/israel-polizei-schliesst-unrwa-schulen-in-ostjerusalem-a-75e82ce7-8bee-45d3-a75a-854a706ad80a#ref=rss)
+### gilt
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-afd-usa-grossbritannien-china-russland](https://www.spiegel.de/politik/deutschland/news-des-tages-afd-usa-grossbritannien-china-russland-a-86f04f07-dd32-43e3-b577-5607e68e23f0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/debatte-ueber-afd-gutachten-des-verfassungsschutzes-mehr-transparenz-wagen](https://www.spiegel.de/politik/deutschland/debatte-ueber-afd-gutachten-des-verfassungsschutzes-mehr-transparenz-wagen-a-a0745cda-1ef1-4c42-b6c0-2b67edbee996#ref=rss)
-### großbritannien
+* [https://www.spiegel.de/ausland/israel-polizei-schliesst-unrwa-schulen-in-ostjerusalem](https://www.spiegel.de/ausland/israel-polizei-schliesst-unrwa-schulen-in-ostjerusalem-a-75e82ce7-8bee-45d3-a75a-854a706ad80a#ref=rss)
+* [https://www.spiegel.de/sport/antonio-tiberi-vor-drei-jahren-erschoss-er-die-katze-des-ministers-jetzt-ist-er-italiens-giro-hoffnung](https://www.spiegel.de/sport/antonio-tiberi-vor-drei-jahren-erschoss-er-die-katze-des-ministers-jetzt-ist-er-italiens-giro-hoffnung-a-078747eb-cff1-4a4d-b2ec-91e2c74dcd5b#ref=rss)
+### baku
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-afd-usa-grossbritannien-china-russland](https://www.spiegel.de/politik/deutschland/news-des-tages-afd-usa-grossbritannien-china-russland-a-86f04f07-dd32-43e3-b577-5607e68e23f0#ref=rss)
-### afdgutachten
+* [https://www.spiegel.de/politik/deutschland/spd-abgeordneter-ralf-stegner-kam-mit-putin-vertrauten-bei-geheimtreffen-in-baku-zusammen](https://www.spiegel.de/politik/deutschland/spd-abgeordneter-ralf-stegner-kam-mit-putin-vertrauten-bei-geheimtreffen-in-baku-zusammen-a-0b114129-541b-4bc7-837a-5012292f86e5#ref=rss)
+### antonio
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-afd-usa-grossbritannien-china-russland](https://www.spiegel.de/politik/deutschland/news-des-tages-afd-usa-grossbritannien-china-russland-a-86f04f07-dd32-43e3-b577-5607e68e23f0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/debatte-ueber-afd-gutachten-des-verfassungsschutzes-mehr-transparenz-wagen](https://www.spiegel.de/politik/deutschland/debatte-ueber-afd-gutachten-des-verfassungsschutzes-mehr-transparenz-wagen-a-a0745cda-1ef1-4c42-b6c0-2b67edbee996#ref=rss)
-### verfassungsschutzes
+* [https://www.spiegel.de/sport/antonio-tiberi-vor-drei-jahren-erschoss-er-die-katze-des-ministers-jetzt-ist-er-italiens-giro-hoffnung](https://www.spiegel.de/sport/antonio-tiberi-vor-drei-jahren-erschoss-er-die-katze-des-ministers-jetzt-ist-er-italiens-giro-hoffnung-a-078747eb-cff1-4a4d-b2ec-91e2c74dcd5b#ref=rss)
+### tiberi
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-afd-usa-grossbritannien-china-russland](https://www.spiegel.de/politik/deutschland/news-des-tages-afd-usa-grossbritannien-china-russland-a-86f04f07-dd32-43e3-b577-5607e68e23f0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/debatte-ueber-afd-gutachten-des-verfassungsschutzes-mehr-transparenz-wagen](https://www.spiegel.de/politik/deutschland/debatte-ueber-afd-gutachten-des-verfassungsschutzes-mehr-transparenz-wagen-a-a0745cda-1ef1-4c42-b6c0-2b67edbee996#ref=rss)
-### johann
+* [https://www.spiegel.de/sport/antonio-tiberi-vor-drei-jahren-erschoss-er-die-katze-des-ministers-jetzt-ist-er-italiens-giro-hoffnung](https://www.spiegel.de/sport/antonio-tiberi-vor-drei-jahren-erschoss-er-die-katze-des-ministers-jetzt-ist-er-italiens-giro-hoffnung-a-078747eb-cff1-4a4d-b2ec-91e2c74dcd5b#ref=rss)
+### kaufen
 
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-was-vom-ersten-cdu-aussenminister-seit-59-jahren-zu-erwarten-ist](https://www.spiegel.de/politik/deutschland/johann-wadephul-was-vom-ersten-cdu-aussenminister-seit-59-jahren-zu-erwarten-ist-a-ca50e3f4-f848-42ef-aa11-f3b3ab0d871b#ref=rss)
-### wadephul
+* [https://www.spiegel.de/netzwelt/web/fahrrad-kaufen-verbraucherschuetzer-warnen-vor-fakeshops-im-internet](https://www.spiegel.de/netzwelt/web/fahrrad-kaufen-verbraucherschuetzer-warnen-vor-fakeshops-im-internet-a-41f8ddfc-0d90-4d5c-a2d8-aea7015718fa#ref=rss)
+### teils
 
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-was-vom-ersten-cdu-aussenminister-seit-59-jahren-zu-erwarten-ist](https://www.spiegel.de/politik/deutschland/johann-wadephul-was-vom-ersten-cdu-aussenminister-seit-59-jahren-zu-erwarten-ist-a-ca50e3f4-f848-42ef-aa11-f3b3ab0d871b#ref=rss)
-### erwarten
+* [https://www.spiegel.de/netzwelt/web/fahrrad-kaufen-verbraucherschuetzer-warnen-vor-fakeshops-im-internet](https://www.spiegel.de/netzwelt/web/fahrrad-kaufen-verbraucherschuetzer-warnen-vor-fakeshops-im-internet-a-41f8ddfc-0d90-4d5c-a2d8-aea7015718fa#ref=rss)
+### commerzbank
 
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-was-vom-ersten-cdu-aussenminister-seit-59-jahren-zu-erwarten-ist](https://www.spiegel.de/politik/deutschland/johann-wadephul-was-vom-ersten-cdu-aussenminister-seit-59-jahren-zu-erwarten-ist-a-ca50e3f4-f848-42ef-aa11-f3b3ab0d871b#ref=rss)
-### amt
+* [https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-meldet-ueberraschend-hohen-gewinn](https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-meldet-ueberraschend-hohen-gewinn-a-4450972d-135a-4d12-8e3f-3ccda35e312b#ref=rss)
+### bundesregierung
 
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-was-vom-ersten-cdu-aussenminister-seit-59-jahren-zu-erwarten-ist](https://www.spiegel.de/politik/deutschland/johann-wadephul-was-vom-ersten-cdu-aussenminister-seit-59-jahren-zu-erwarten-ist-a-ca50e3f4-f848-42ef-aa11-f3b3ab0d871b#ref=rss)
-* [https://www.spiegel.de/karriere/eu-uebersetzer-muessen-fehlerhaften-aufnahmetest-wiederholen](https://www.spiegel.de/karriere/eu-uebersetzer-muessen-fehlerhaften-aufnahmetest-wiederholen-a-c29aed4a-6f8c-48ec-a8be-865954c4775a#ref=rss)
-### eltern
+* [https://www.spiegel.de/politik/neue-bundesregierung-die-politik-sollte-endlich-verstehen-was-mit-diesem-land-los-ist](https://www.spiegel.de/politik/neue-bundesregierung-die-politik-sollte-endlich-verstehen-was-mit-diesem-land-los-ist-a-4f97b90b-8ca0-42e9-bb64-801afe9c704f#ref=rss)
+### weltaktienindex
 
-* [https://www.spiegel.de/panorama/gesellschaft/vornamen-ranking-beliebt-bei-eltern-oder-doch-eher-hundebesitzern](https://www.spiegel.de/panorama/gesellschaft/vornamen-ranking-beliebt-bei-eltern-oder-doch-eher-hundebesitzern-a-10c09b5d-7508-410c-b080-bad5076a5bc1#ref=rss)
-### ranking
+* [https://www.spiegel.de/wirtschaft/msci-world-weltaktienindex-erholt-sich-trotz-zoellen-von-donald-trump](https://www.spiegel.de/wirtschaft/msci-world-weltaktienindex-erholt-sich-trotz-zoellen-von-donald-trump-a-6105c751-1987-4211-9d45-63d2924c2071#ref=rss)
+### harvey
 
-* [https://www.spiegel.de/panorama/gesellschaft/vornamen-ranking-beliebt-bei-eltern-oder-doch-eher-hundebesitzern](https://www.spiegel.de/panorama/gesellschaft/vornamen-ranking-beliebt-bei-eltern-oder-doch-eher-hundebesitzern-a-10c09b5d-7508-410c-b080-bad5076a5bc1#ref=rss)
-* [https://www.spiegel.de/auto/elektroauto-verkaeufe-volkswagen-deklassiert-tesla-in-deutschland](https://www.spiegel.de/auto/elektroauto-verkaeufe-volkswagen-deklassiert-tesla-in-deutschland-a-dca44863-f184-4e51-bb75-0c29dd9ee7fb#ref=rss)
-### aufnahmetest
+* [https://www.spiegel.de/panorama/justiz/harvey-weinstein-ex-model-kaja-sokola-sagt-vor-gericht-gegen-ex-filmproduzenten-aus](https://www.spiegel.de/panorama/justiz/harvey-weinstein-ex-model-kaja-sokola-sagt-vor-gericht-gegen-ex-filmproduzenten-aus-a-141c32b9-3656-4ee6-b72e-bc44e52f6f5e#ref=rss)
+### weinstein
 
-* [https://www.spiegel.de/karriere/eu-uebersetzer-muessen-fehlerhaften-aufnahmetest-wiederholen](https://www.spiegel.de/karriere/eu-uebersetzer-muessen-fehlerhaften-aufnahmetest-wiederholen-a-c29aed4a-6f8c-48ec-a8be-865954c4775a#ref=rss)
-### wiederholen
+* [https://www.spiegel.de/panorama/justiz/harvey-weinstein-ex-model-kaja-sokola-sagt-vor-gericht-gegen-ex-filmproduzenten-aus](https://www.spiegel.de/panorama/justiz/harvey-weinstein-ex-model-kaja-sokola-sagt-vor-gericht-gegen-ex-filmproduzenten-aus-a-141c32b9-3656-4ee6-b72e-bc44e52f6f5e#ref=rss)
+### kaja
 
-* [https://www.spiegel.de/karriere/eu-uebersetzer-muessen-fehlerhaften-aufnahmetest-wiederholen](https://www.spiegel.de/karriere/eu-uebersetzer-muessen-fehlerhaften-aufnahmetest-wiederholen-a-c29aed4a-6f8c-48ec-a8be-865954c4775a#ref=rss)
-### finanzämter
+* [https://www.spiegel.de/panorama/justiz/harvey-weinstein-ex-model-kaja-sokola-sagt-vor-gericht-gegen-ex-filmproduzenten-aus](https://www.spiegel.de/panorama/justiz/harvey-weinstein-ex-model-kaja-sokola-sagt-vor-gericht-gegen-ex-filmproduzenten-aus-a-141c32b9-3656-4ee6-b72e-bc44e52f6f5e#ref=rss)
+### sokola
 
-* [https://www.spiegel.de/panorama/hamburg-bremen-schleswig-holstein-finanzaemter-im-norden-lahmgelegt](https://www.spiegel.de/panorama/hamburg-bremen-schleswig-holstein-finanzaemter-im-norden-lahmgelegt-a-ceefa857-9317-4409-b30e-77ce33c9f040#ref=rss)
-### norden
+* [https://www.spiegel.de/panorama/justiz/harvey-weinstein-ex-model-kaja-sokola-sagt-vor-gericht-gegen-ex-filmproduzenten-aus](https://www.spiegel.de/panorama/justiz/harvey-weinstein-ex-model-kaja-sokola-sagt-vor-gericht-gegen-ex-filmproduzenten-aus-a-141c32b9-3656-4ee6-b72e-bc44e52f6f5e#ref=rss)
+### geschäftsmann
 
-* [https://www.spiegel.de/panorama/hamburg-bremen-schleswig-holstein-finanzaemter-im-norden-lahmgelegt](https://www.spiegel.de/panorama/hamburg-bremen-schleswig-holstein-finanzaemter-im-norden-lahmgelegt-a-ceefa857-9317-4409-b30e-77ce33c9f040#ref=rss)
-### lahmgelegt
+* [https://www.spiegel.de/panorama/justiz/berlin-geschaeftsmann-vermisst-mutter-sucht-mit-flugblaettern-nach-ihm](https://www.spiegel.de/panorama/justiz/berlin-geschaeftsmann-vermisst-mutter-sucht-mit-flugblaettern-nach-ihm-a-5b50da85-f54d-408c-bbaa-cf759259e7d9#ref=rss)
+### mutter
 
-* [https://www.spiegel.de/panorama/hamburg-bremen-schleswig-holstein-finanzaemter-im-norden-lahmgelegt](https://www.spiegel.de/panorama/hamburg-bremen-schleswig-holstein-finanzaemter-im-norden-lahmgelegt-a-ceefa857-9317-4409-b30e-77ce33c9f040#ref=rss)
-### günther
+* [https://www.spiegel.de/panorama/justiz/berlin-geschaeftsmann-vermisst-mutter-sucht-mit-flugblaettern-nach-ihm](https://www.spiegel.de/panorama/justiz/berlin-geschaeftsmann-vermisst-mutter-sucht-mit-flugblaettern-nach-ihm-a-5b50da85-f54d-408c-bbaa-cf759259e7d9#ref=rss)
+### sucht
 
-* [https://www.spiegel.de/kultur/guenther-nonnenmacher-ist-tot-langjaehriger-faz-herausgeber-gestorben](https://www.spiegel.de/kultur/guenther-nonnenmacher-ist-tot-langjaehriger-faz-herausgeber-gestorben-a-030d4e13-ca05-4bd6-8d3d-faf8aa40c46f#ref=rss)
-### nonnenmacher
+* [https://www.spiegel.de/panorama/justiz/berlin-geschaeftsmann-vermisst-mutter-sucht-mit-flugblaettern-nach-ihm](https://www.spiegel.de/panorama/justiz/berlin-geschaeftsmann-vermisst-mutter-sucht-mit-flugblaettern-nach-ihm-a-5b50da85-f54d-408c-bbaa-cf759259e7d9#ref=rss)
+### flugblättern
 
-* [https://www.spiegel.de/kultur/guenther-nonnenmacher-ist-tot-langjaehriger-faz-herausgeber-gestorben](https://www.spiegel.de/kultur/guenther-nonnenmacher-ist-tot-langjaehriger-faz-herausgeber-gestorben-a-030d4e13-ca05-4bd6-8d3d-faf8aa40c46f#ref=rss)
-### gestorben
+* [https://www.spiegel.de/panorama/justiz/berlin-geschaeftsmann-vermisst-mutter-sucht-mit-flugblaettern-nach-ihm](https://www.spiegel.de/panorama/justiz/berlin-geschaeftsmann-vermisst-mutter-sucht-mit-flugblaettern-nach-ihm-a-5b50da85-f54d-408c-bbaa-cf759259e7d9#ref=rss)
+### james
 
-* [https://www.spiegel.de/kultur/guenther-nonnenmacher-ist-tot-langjaehriger-faz-herausgeber-gestorben](https://www.spiegel.de/kultur/guenther-nonnenmacher-ist-tot-langjaehriger-faz-herausgeber-gestorben-a-030d4e13-ca05-4bd6-8d3d-faf8aa40c46f#ref=rss)
-### kaschmirkonflikt
+* [https://www.spiegel.de/kultur/kino/james-foley-us-regisseur-ist-tot](https://www.spiegel.de/kultur/kino/james-foley-us-regisseur-ist-tot-a-f392abac-3647-42fa-a700-31d42485f945#ref=rss)
+### foley
 
-* [https://www.spiegel.de/ausland/indien-und-pakistan-der-kaschmir-konflikt-erklaert-in-zwei-minuten](https://www.spiegel.de/ausland/indien-und-pakistan-der-kaschmir-konflikt-erklaert-in-zwei-minuten-a-a6977427-fb6f-4728-b1e0-3702351cdf66#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/ausland/indien-und-pakistan-der-kaschmir-konflikt-erklaert-in-zwei-minuten](https://www.spiegel.de/ausland/indien-und-pakistan-der-kaschmir-konflikt-erklaert-in-zwei-minuten-a-a6977427-fb6f-4728-b1e0-3702351cdf66#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/klima-die-reichsten-zehn-prozent-sind-fuer-zwei-drittel-der-erderwaermung-verantwortlich](https://www.spiegel.de/wissenschaft/natur/klima-die-reichsten-zehn-prozent-sind-fuer-zwei-drittel-der-erderwaermung-verantwortlich-a-ed3158ea-0880-4f84-9d46-a28914b67186#ref=rss)
-### denn
-
-* [https://www.spiegel.de/ausland/indien-und-pakistan-der-kaschmir-konflikt-erklaert-in-zwei-minuten](https://www.spiegel.de/ausland/indien-und-pakistan-der-kaschmir-konflikt-erklaert-in-zwei-minuten-a-a6977427-fb6f-4728-b1e0-3702351cdf66#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/debatte-ueber-afd-gutachten-des-verfassungsschutzes-mehr-transparenz-wagen](https://www.spiegel.de/politik/deutschland/debatte-ueber-afd-gutachten-des-verfassungsschutzes-mehr-transparenz-wagen-a-a0745cda-1ef1-4c42-b6c0-2b67edbee996#ref=rss)
-### atommächte
-
-* [https://www.spiegel.de/ausland/indien-und-pakistan-der-kaschmir-konflikt-erklaert-in-zwei-minuten](https://www.spiegel.de/ausland/indien-und-pakistan-der-kaschmir-konflikt-erklaert-in-zwei-minuten-a-a6977427-fb6f-4728-b1e0-3702351cdf66#ref=rss)
-* [https://www.spiegel.de/ausland/indien-und-pakistan-wie-kann-eine-eskalation-zwischen-den-atommaechten-verhindert-werden](https://www.spiegel.de/ausland/indien-und-pakistan-wie-kann-eine-eskalation-zwischen-den-atommaechten-verhindert-werden-a-5226fad6-8fd0-4750-a7f6-59df51f51ec3#ref=rss)
-### möchte
-
-* [https://www.spiegel.de/politik/deutschland/die-sozialistin-die-ihre-partei-zu-einer-marke-machen-moechte](https://www.spiegel.de/politik/deutschland/die-sozialistin-die-ihre-partei-zu-einer-marke-machen-moechte-a-7502f8ce-91fc-444b-a3ad-0dcd1da81dc7#ref=rss)
-* [https://www.spiegel.de/ausland/litauen-steigt-aus-anti-personenminen-vertrag-aus](https://www.spiegel.de/ausland/litauen-steigt-aus-anti-personenminen-vertrag-aus-a-02cdba81-bb51-4182-8c3b-233c449ff49e#ref=rss)
-### andere
-
-* [https://www.spiegel.de/politik/deutschland/die-sozialistin-die-ihre-partei-zu-einer-marke-machen-moechte](https://www.spiegel.de/politik/deutschland/die-sozialistin-die-ihre-partei-zu-einer-marke-machen-moechte-a-7502f8ce-91fc-444b-a3ad-0dcd1da81dc7#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/klima-die-reichsten-zehn-prozent-sind-fuer-zwei-drittel-der-erderwaermung-verantwortlich](https://www.spiegel.de/wissenschaft/natur/klima-die-reichsten-zehn-prozent-sind-fuer-zwei-drittel-der-erderwaermung-verantwortlich-a-ed3158ea-0880-4f84-9d46-a28914b67186#ref=rss)
-### prozent
-
-* [https://www.spiegel.de/ausland/gaza-satellitenbilder-zeigen-systematische-zerstoerung-und-uebernahme-des-kriegsgebiets](https://www.spiegel.de/ausland/gaza-satellitenbilder-zeigen-systematische-zerstoerung-und-uebernahme-des-kriegsgebiets-a-41b40d48-28ff-4020-b760-0852e890ca0f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/klima-die-reichsten-zehn-prozent-sind-fuer-zwei-drittel-der-erderwaermung-verantwortlich](https://www.spiegel.de/wissenschaft/natur/klima-die-reichsten-zehn-prozent-sind-fuer-zwei-drittel-der-erderwaermung-verantwortlich-a-ed3158ea-0880-4f84-9d46-a28914b67186#ref=rss)
-### tesla
-
-* [https://www.spiegel.de/auto/elektroauto-verkaeufe-volkswagen-deklassiert-tesla-in-deutschland](https://www.spiegel.de/auto/elektroauto-verkaeufe-volkswagen-deklassiert-tesla-in-deutschland-a-dca44863-f184-4e51-bb75-0c29dd9ee7fb#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/auto/elektroauto-verkaeufe-volkswagen-deklassiert-tesla-in-deutschland](https://www.spiegel.de/auto/elektroauto-verkaeufe-volkswagen-deklassiert-tesla-in-deutschland-a-dca44863-f184-4e51-bb75-0c29dd9ee7fb#ref=rss)
-### parlament
-
-* [https://www.spiegel.de/wirtschaft/ukraine-parlament-ratifiziert-rohstoffdeal-mit-den-usa](https://www.spiegel.de/wirtschaft/ukraine-parlament-ratifiziert-rohstoffdeal-mit-den-usa-a-dad3d6ea-629d-49ad-9632-45dff7b2aa54#ref=rss)
-### abkommen
-
-* [https://www.spiegel.de/wirtschaft/ukraine-parlament-ratifiziert-rohstoffdeal-mit-den-usa](https://www.spiegel.de/wirtschaft/ukraine-parlament-ratifiziert-rohstoffdeal-mit-den-usa-a-dad3d6ea-629d-49ad-9632-45dff7b2aa54#ref=rss)
-* [https://www.spiegel.de/ausland/litauen-steigt-aus-anti-personenminen-vertrag-aus](https://www.spiegel.de/ausland/litauen-steigt-aus-anti-personenminen-vertrag-aus-a-02cdba81-bb51-4182-8c3b-233c449ff49e#ref=rss)
-### klima
-
-* [https://www.spiegel.de/wissenschaft/natur/klima-die-reichsten-zehn-prozent-sind-fuer-zwei-drittel-der-erderwaermung-verantwortlich](https://www.spiegel.de/wissenschaft/natur/klima-die-reichsten-zehn-prozent-sind-fuer-zwei-drittel-der-erderwaermung-verantwortlich-a-ed3158ea-0880-4f84-9d46-a28914b67186#ref=rss)
-### salford
-
-* [https://www.spiegel.de/sport/fussball/einstieg-bei-salford-city-david-beckham-kauft-englischen-viertligisten](https://www.spiegel.de/sport/fussball/einstieg-bei-salford-city-david-beckham-kauft-englischen-viertligisten-a-8656d4ab-834f-4f5b-9095-65407e8f590a#ref=rss)
-### david
-
-* [https://www.spiegel.de/sport/fussball/einstieg-bei-salford-city-david-beckham-kauft-englischen-viertligisten](https://www.spiegel.de/sport/fussball/einstieg-bei-salford-city-david-beckham-kauft-englischen-viertligisten-a-8656d4ab-834f-4f5b-9095-65407e8f590a#ref=rss)
-### beckham
-
-* [https://www.spiegel.de/sport/fussball/einstieg-bei-salford-city-david-beckham-kauft-englischen-viertligisten](https://www.spiegel.de/sport/fussball/einstieg-bei-salford-city-david-beckham-kauft-englischen-viertligisten-a-8656d4ab-834f-4f5b-9095-65407e8f590a#ref=rss)
-### viertligisten
-
-* [https://www.spiegel.de/sport/fussball/einstieg-bei-salford-city-david-beckham-kauft-englischen-viertligisten](https://www.spiegel.de/sport/fussball/einstieg-bei-salford-city-david-beckham-kauft-englischen-viertligisten-a-8656d4ab-834f-4f5b-9095-65407e8f590a#ref=rss)
-### jerome
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-schmaeht-fed-chef-jerome-powell-als-dummkopf](https://www.spiegel.de/wirtschaft/donald-trump-schmaeht-fed-chef-jerome-powell-als-dummkopf-a-3f9c7815-a003-454c-bdd6-97851f05bc2e#ref=rss)
-### powell
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-schmaeht-fed-chef-jerome-powell-als-dummkopf](https://www.spiegel.de/wirtschaft/donald-trump-schmaeht-fed-chef-jerome-powell-als-dummkopf-a-3f9c7815-a003-454c-bdd6-97851f05bc2e#ref=rss)
-### litauen
-
-* [https://www.spiegel.de/ausland/litauen-steigt-aus-anti-personenminen-vertrag-aus](https://www.spiegel.de/ausland/litauen-steigt-aus-anti-personenminen-vertrag-aus-a-02cdba81-bb51-4182-8c3b-233c449ff49e#ref=rss)
+* [https://www.spiegel.de/kultur/kino/james-foley-us-regisseur-ist-tot](https://www.spiegel.de/kultur/kino/james-foley-us-regisseur-ist-tot-a-f392abac-3647-42fa-a700-31d42485f945#ref=rss)
 
