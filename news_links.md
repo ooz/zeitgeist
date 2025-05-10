@@ -4,308 +4,327 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### offenbar
-
-* [https://www.spiegel.de/ausland/israel-raketenbeschuss-aus-dem-jemen-luftalarm](https://www.spiegel.de/ausland/israel-raketenbeschuss-aus-dem-jemen-luftalarm-a-322da86d-a2f0-4154-b073-0305892bc7f8#ref=rss)
-* [https://www.spiegel.de/politik/antrittsbesuch-des-kanzlers-merz-ist-zurueck-in-bruessel-und-sagt-gleich-mal-wo-es-langgeht](https://www.spiegel.de/politik/antrittsbesuch-des-kanzlers-merz-ist-zurueck-in-bruessel-und-sagt-gleich-mal-wo-es-langgeht-a-d8cecf20-a095-4c27-bb47-7da148d12584#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/trumpf-maschinenbauer-plant-offenbar-stellenabbau](https://www.spiegel.de/wirtschaft/unternehmen/trumpf-maschinenbauer-plant-offenbar-stellenabbau-a-9c18b7a2-723a-499b-b0ac-36ddcd2823d5#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/wiesbaden-mann-ersticht-offenbar-86-jaehrigen-im-schlosspark](https://www.spiegel.de/panorama/justiz/wiesbaden-mann-ersticht-offenbar-86-jaehrigen-im-schlosspark-a-407bbc74-fc43-43a3-8391-ca534e5b20b9#ref=rss)
-* [https://www.spiegel.de/ausland/kaschmirkonflikt-warum-indien-so-viele-flieger-verloren-hat](https://www.spiegel.de/ausland/kaschmirkonflikt-warum-indien-so-viele-flieger-verloren-hat-a-a54d8681-5250-4ed3-93f5-74adfee26732#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/vatikan-expertin-ueber-papst-leo-xiv-ein-gespraechspartner-dem-trump-zuhoeren-muss](https://www.spiegel.de/ausland/vatikan-expertin-ueber-papst-leo-xiv-ein-gespraechspartner-dem-trump-zuhoeren-muss-a-9f3d1056-a9e1-40da-b7c3-adc1fdac23a7#ref=rss)
-* [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/zug-schweiz-nord-stream-2-wendet-insolvenz-ab-weiter-investor-suche](https://www.spiegel.de/wirtschaft/unternehmen/zug-schweiz-nord-stream-2-wendet-insolvenz-ab-weiter-investor-suche-a-9262f5be-78b2-4b99-9650-a6498b6ca583#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trumps-interesse-an-groenland-daenemarks-regierungschefin-empoert-ueber-mutmassliche-us-spionage](https://www.spiegel.de/ausland/donald-trumps-interesse-an-groenland-daenemarks-regierungschefin-empoert-ueber-mutmassliche-us-spionage-a-aecc4e7f-5956-45c9-98b5-02de9ecdc2d8#ref=rss)
 ### merz
 
-* [https://www.spiegel.de/politik/antrittsbesuch-des-kanzlers-merz-ist-zurueck-in-bruessel-und-sagt-gleich-mal-wo-es-langgeht](https://www.spiegel.de/politik/antrittsbesuch-des-kanzlers-merz-ist-zurueck-in-bruessel-und-sagt-gleich-mal-wo-es-langgeht-a-d8cecf20-a095-4c27-bb47-7da148d12584#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-linken-parteitag-in-chemnitz-ukraine-waffenstillstand-esc-2025](https://www.spiegel.de/politik/deutschland/news-des-tages-linken-parteitag-in-chemnitz-ukraine-waffenstillstand-esc-2025-a-beca748b-753e-4c59-b86c-1ecf8aa129db#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/friedrich-merz-cdu-geht-gegen-gefakte-merz-website-vor](https://www.spiegel.de/netzwelt/web/friedrich-merz-cdu-geht-gegen-gefakte-merz-website-vor-a-52407de9-7720-4bd5-abac-5cc0750ac4c0#ref=rss)
+* [https://www.spiegel.de/politik/hubertus-heil-frueherer-bundesarbeitsminister-kandidiert-nicht-mehr-als-spd-vize](https://www.spiegel.de/politik/hubertus-heil-frueherer-bundesarbeitsminister-kandidiert-nicht-mehr-als-spd-vize-a-21000620-9b94-4b21-841d-5d818adbc6a9#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-bundeskanzler-denkt-trump-verliere-die-geduld-mit-putin](https://www.spiegel.de/politik/friedrich-merz-bundeskanzler-denkt-trump-verliere-die-geduld-mit-putin-a-bd8bc653-2a3f-487d-a1b6-ceda91df2031#ref=rss)
+* [https://www.spiegel.de/ausland/afd-donald-trump-und-friedrich-merz-wird-trump-die-afd-entzaubern-podcast](https://www.spiegel.de/ausland/afd-donald-trump-und-friedrich-merz-wird-trump-die-afd-entzaubern-podcast-a-383d527e-6091-4380-b301-bc0340d777b9#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-friedrich-merz-ist-zusammen-mit-emmanuel-macron-und-keir-starmer-unterwegs-nach-kyjiw](https://www.spiegel.de/ausland/krieg-in-der-ukraine-friedrich-merz-ist-zusammen-mit-emmanuel-macron-und-keir-starmer-unterwegs-nach-kyjiw-a-05d27572-a638-49b8-b350-0e323b70c648#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/klimaschutz-unter-friedrich-merz-erinnert-an-angela-merkel](https://www.spiegel.de/wissenschaft/mensch/klimaschutz-unter-friedrich-merz-erinnert-an-angela-merkel-a-342b4ddd-cd75-4cd5-a244-1ba3d493a969#ref=rss)
+### trump
+
+* [https://www.spiegel.de/politik/friedrich-merz-bundeskanzler-denkt-trump-verliere-die-geduld-mit-putin](https://www.spiegel.de/politik/friedrich-merz-bundeskanzler-denkt-trump-verliere-die-geduld-mit-putin-a-bd8bc653-2a3f-487d-a1b6-ceda91df2031#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-us-praesident-soll-kriege-in-der-ukraine-und-in-gaza-frustrierend-genannt-haben](https://www.spiegel.de/ausland/donald-trump-us-praesident-soll-kriege-in-der-ukraine-und-in-gaza-frustrierend-genannt-haben-a-0da30c25-f667-4b24-b21b-3851e4115c2e#ref=rss)
+* [https://www.spiegel.de/ausland/afd-donald-trump-und-friedrich-merz-wird-trump-die-afd-entzaubern-podcast](https://www.spiegel.de/ausland/afd-donald-trump-und-friedrich-merz-wird-trump-die-afd-entzaubern-podcast-a-383d527e-6091-4380-b301-bc0340d777b9#ref=rss)
+* [https://www.spiegel.de/panorama/panama-in-zeiten-von-donald-trump-und-den-zoellen-im-land-der-schleuser](https://www.spiegel.de/panorama/panama-in-zeiten-von-donald-trump-und-den-zoellen-im-land-der-schleuser-a-588afa2b-38c8-4889-877d-557b41de72f4#ref=rss)
 ### friedrich
 
-* [https://www.spiegel.de/politik/antrittsbesuch-des-kanzlers-merz-ist-zurueck-in-bruessel-und-sagt-gleich-mal-wo-es-langgeht](https://www.spiegel.de/politik/antrittsbesuch-des-kanzlers-merz-ist-zurueck-in-bruessel-und-sagt-gleich-mal-wo-es-langgeht-a-d8cecf20-a095-4c27-bb47-7da148d12584#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-linken-parteitag-in-chemnitz-ukraine-waffenstillstand-esc-2025](https://www.spiegel.de/politik/deutschland/news-des-tages-linken-parteitag-in-chemnitz-ukraine-waffenstillstand-esc-2025-a-beca748b-753e-4c59-b86c-1ecf8aa129db#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/friedrich-merz-cdu-geht-gegen-gefakte-merz-website-vor](https://www.spiegel.de/netzwelt/web/friedrich-merz-cdu-geht-gegen-gefakte-merz-website-vor-a-52407de9-7720-4bd5-abac-5cc0750ac4c0#ref=rss)
-### papst
-
-* [https://www.spiegel.de/ausland/vatikan-expertin-ueber-papst-leo-xiv-ein-gespraechspartner-dem-trump-zuhoeren-muss](https://www.spiegel.de/ausland/vatikan-expertin-ueber-papst-leo-xiv-ein-gespraechspartner-dem-trump-zuhoeren-muss-a-9f3d1056-a9e1-40da-b7c3-adc1fdac23a7#ref=rss)
-* [https://www.spiegel.de/panorama/vatikan-papst-leo-xiv-laesst-kurienmitarbeiter-vorerst-im-amt](https://www.spiegel.de/panorama/vatikan-papst-leo-xiv-laesst-kurienmitarbeiter-vorerst-im-amt-a-ba9441d2-e39e-418a-b191-22646d2336f8#ref=rss)
-### leo
-
-* [https://www.spiegel.de/ausland/vatikan-expertin-ueber-papst-leo-xiv-ein-gespraechspartner-dem-trump-zuhoeren-muss](https://www.spiegel.de/ausland/vatikan-expertin-ueber-papst-leo-xiv-ein-gespraechspartner-dem-trump-zuhoeren-muss-a-9f3d1056-a9e1-40da-b7c3-adc1fdac23a7#ref=rss)
-* [https://www.spiegel.de/panorama/vatikan-papst-leo-xiv-laesst-kurienmitarbeiter-vorerst-im-amt](https://www.spiegel.de/panorama/vatikan-papst-leo-xiv-laesst-kurienmitarbeiter-vorerst-im-amt-a-ba9441d2-e39e-418a-b191-22646d2336f8#ref=rss)
-### xiv
-
-* [https://www.spiegel.de/ausland/vatikan-expertin-ueber-papst-leo-xiv-ein-gespraechspartner-dem-trump-zuhoeren-muss](https://www.spiegel.de/ausland/vatikan-expertin-ueber-papst-leo-xiv-ein-gespraechspartner-dem-trump-zuhoeren-muss-a-9f3d1056-a9e1-40da-b7c3-adc1fdac23a7#ref=rss)
-* [https://www.spiegel.de/panorama/vatikan-papst-leo-xiv-laesst-kurienmitarbeiter-vorerst-im-amt](https://www.spiegel.de/panorama/vatikan-papst-leo-xiv-laesst-kurienmitarbeiter-vorerst-im-amt-a-ba9441d2-e39e-418a-b191-22646d2336f8#ref=rss)
-### flughafen
-
-* [https://www.spiegel.de/ausland/flugverkehr-erneuter-technik-ausfall-an-flughafen-newark](https://www.spiegel.de/ausland/flugverkehr-erneuter-technik-ausfall-an-flughafen-newark-a-a3a9275f-4003-4798-889a-4dae71c0f149#ref=rss)
-* [https://www.spiegel.de/ausland/israel-raketenbeschuss-aus-dem-jemen-luftalarm](https://www.spiegel.de/ausland/israel-raketenbeschuss-aus-dem-jemen-luftalarm-a-322da86d-a2f0-4154-b073-0305892bc7f8#ref=rss)
-### gestorben
-
-* [https://www.spiegel.de/panorama/superjacht-bayesian-taucher-stirbt-bei-bergungsarbeiten-vor-sizilien](https://www.spiegel.de/panorama/superjacht-bayesian-taucher-stirbt-bei-bergungsarbeiten-vor-sizilien-a-586ec86a-8478-4d58-8b3f-981723e21b8a#ref=rss)
-* [https://www.spiegel.de/panorama/margot-friedlaender-holocaust-ueberlebende-ist-gestorben](https://www.spiegel.de/panorama/margot-friedlaender-holocaust-ueberlebende-ist-gestorben-a-075d06d4-bfe7-487f-b458-de29d62849ca#ref=rss)
-### wo
-
-* [https://www.spiegel.de/politik/antrittsbesuch-des-kanzlers-merz-ist-zurueck-in-bruessel-und-sagt-gleich-mal-wo-es-langgeht](https://www.spiegel.de/politik/antrittsbesuch-des-kanzlers-merz-ist-zurueck-in-bruessel-und-sagt-gleich-mal-wo-es-langgeht-a-d8cecf20-a095-4c27-bb47-7da148d12584#ref=rss)
-* [https://www.spiegel.de/wissenschaft/wo-bricht-das-ei-wenn-es-faellt](https://www.spiegel.de/wissenschaft/wo-bricht-das-ei-wenn-es-faellt-a-397a3986-bf1d-4a0e-8f30-22369bb73cc7#ref=rss)
-### alter
-
-* [https://www.spiegel.de/panorama/margot-friedlaender-holocaust-ueberlebende-ist-gestorben](https://www.spiegel.de/panorama/margot-friedlaender-holocaust-ueberlebende-ist-gestorben-a-075d06d4-bfe7-487f-b458-de29d62849ca#ref=rss)
-* [https://www.spiegel.de/kultur/rapper-xatar-ist-tot](https://www.spiegel.de/kultur/rapper-xatar-ist-tot-a-d324c431-e4de-411b-8918-9a0a0d74b027#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/ausland/vatikan-expertin-ueber-papst-leo-xiv-ein-gespraechspartner-dem-trump-zuhoeren-muss](https://www.spiegel.de/ausland/vatikan-expertin-ueber-papst-leo-xiv-ein-gespraechspartner-dem-trump-zuhoeren-muss-a-9f3d1056-a9e1-40da-b7c3-adc1fdac23a7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/zug-schweiz-nord-stream-2-wendet-insolvenz-ab-weiter-investor-suche](https://www.spiegel.de/wirtschaft/unternehmen/zug-schweiz-nord-stream-2-wendet-insolvenz-ab-weiter-investor-suche-a-9262f5be-78b2-4b99-9650-a6498b6ca583#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trumps-interesse-an-groenland-daenemarks-regierungschefin-empoert-ueber-mutmassliche-us-spionage](https://www.spiegel.de/ausland/donald-trumps-interesse-an-groenland-daenemarks-regierungschefin-empoert-ueber-mutmassliche-us-spionage-a-aecc4e7f-5956-45c9-98b5-02de9ecdc2d8#ref=rss)
-### schritt
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/trumpf-maschinenbauer-plant-offenbar-stellenabbau](https://www.spiegel.de/wirtschaft/unternehmen/trumpf-maschinenbauer-plant-offenbar-stellenabbau-a-9c18b7a2-723a-499b-b0ac-36ddcd2823d5#ref=rss)
-* [https://www.spiegel.de/stil/granatapfel-entkernen-schritt-fuer-schritt-erklaert-im-video](https://www.spiegel.de/stil/granatapfel-entkernen-schritt-fuer-schritt-erklaert-im-video-a-1bef26b2-0de6-44a2-bf44-59bb0750c807#ref=rss)
-### viele
-
-* [https://www.spiegel.de/kultur/rapper-xatar-ist-tot](https://www.spiegel.de/kultur/rapper-xatar-ist-tot-a-d324c431-e4de-411b-8918-9a0a0d74b027#ref=rss)
-* [https://www.spiegel.de/ausland/kaschmirkonflikt-warum-indien-so-viele-flieger-verloren-hat](https://www.spiegel.de/ausland/kaschmirkonflikt-warum-indien-so-viele-flieger-verloren-hat-a-a54d8681-5250-4ed3-93f5-74adfee26732#ref=rss)
-### 9
-
-* [https://www.spiegel.de/sport/fussball/einziges-fussball-laenderspiel-der-ddr-frauen-1990-wir-dachten-das-sei-der-beginn-von-etwas-groesserem](https://www.spiegel.de/sport/fussball/einziges-fussball-laenderspiel-der-ddr-frauen-1990-wir-dachten-das-sei-der-beginn-von-etwas-groesserem-a-f51a5255-c524-453f-a63f-f2301f784bd6#ref=rss)
-* [https://www.spiegel.de/ausland/siegesparade-zum-9-mai-in-moskau-als-die-panzer-rollen-rufen-die-menschen-hurra](https://www.spiegel.de/ausland/siegesparade-zum-9-mai-in-moskau-als-die-panzer-rollen-rufen-die-menschen-hurra-a-3003a088-bfeb-46d1-82c9-56dd6b5cff2b#ref=rss)
-### mai
-
-* [https://www.spiegel.de/sport/fussball/einziges-fussball-laenderspiel-der-ddr-frauen-1990-wir-dachten-das-sei-der-beginn-von-etwas-groesserem](https://www.spiegel.de/sport/fussball/einziges-fussball-laenderspiel-der-ddr-frauen-1990-wir-dachten-das-sei-der-beginn-von-etwas-groesserem-a-f51a5255-c524-453f-a63f-f2301f784bd6#ref=rss)
-* [https://www.spiegel.de/ausland/siegesparade-zum-9-mai-in-moskau-als-die-panzer-rollen-rufen-die-menschen-hurra](https://www.spiegel.de/ausland/siegesparade-zum-9-mai-in-moskau-als-die-panzer-rollen-rufen-die-menschen-hurra-a-3003a088-bfeb-46d1-82c9-56dd6b5cff2b#ref=rss)
-### newark
-
-* [https://www.spiegel.de/ausland/flugverkehr-erneuter-technik-ausfall-an-flughafen-newark](https://www.spiegel.de/ausland/flugverkehr-erneuter-technik-ausfall-an-flughafen-newark-a-a3a9275f-4003-4798-889a-4dae71c0f149#ref=rss)
-### linke
-
-* [https://www.spiegel.de/politik/deutschland/linke-begrenzen-ihre-bundestagsmandate-auf-zwoelf-jahre](https://www.spiegel.de/politik/deutschland/linke-begrenzen-ihre-bundestagsmandate-auf-zwoelf-jahre-a-2e50d4a4-168a-472b-bb0a-e071ee974dda#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-linken-parteitag-in-chemnitz-ukraine-waffenstillstand-esc-2025](https://www.spiegel.de/politik/deutschland/news-des-tages-linken-parteitag-in-chemnitz-ukraine-waffenstillstand-esc-2025-a-beca748b-753e-4c59-b86c-1ecf8aa129db#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/politik/deutschland/linke-begrenzen-ihre-bundestagsmandate-auf-zwoelf-jahre](https://www.spiegel.de/politik/deutschland/linke-begrenzen-ihre-bundestagsmandate-auf-zwoelf-jahre-a-2e50d4a4-168a-472b-bb0a-e071ee974dda#ref=rss)
-* [https://www.spiegel.de/sport/fussball/xabi-alonso-verlaesst-bayer-leverkusen-aufbruch-ins-risiko](https://www.spiegel.de/sport/fussball/xabi-alonso-verlaesst-bayer-leverkusen-aufbruch-ins-risiko-a-89a045ea-a4af-4ff8-afd1-ba82b335a44e#ref=rss)
-### wir
-
-* [https://www.spiegel.de/politik/deutschland/linke-begrenzen-ihre-bundestagsmandate-auf-zwoelf-jahre](https://www.spiegel.de/politik/deutschland/linke-begrenzen-ihre-bundestagsmandate-auf-zwoelf-jahre-a-2e50d4a4-168a-472b-bb0a-e071ee974dda#ref=rss)
-* [https://www.spiegel.de/sport/fussball/einziges-fussball-laenderspiel-der-ddr-frauen-1990-wir-dachten-das-sei-der-beginn-von-etwas-groesserem](https://www.spiegel.de/sport/fussball/einziges-fussball-laenderspiel-der-ddr-frauen-1990-wir-dachten-das-sei-der-beginn-von-etwas-groesserem-a-f51a5255-c524-453f-a63f-f2301f784bd6#ref=rss)
-### drei
-
-* [https://www.spiegel.de/politik/deutschland/linke-begrenzen-ihre-bundestagsmandate-auf-zwoelf-jahre](https://www.spiegel.de/politik/deutschland/linke-begrenzen-ihre-bundestagsmandate-auf-zwoelf-jahre-a-2e50d4a4-168a-472b-bb0a-e071ee974dda#ref=rss)
-* [https://www.spiegel.de/sport/fussball/xabi-alonso-verlaesst-bayer-leverkusen-aufbruch-ins-risiko](https://www.spiegel.de/sport/fussball/xabi-alonso-verlaesst-bayer-leverkusen-aufbruch-ins-risiko-a-89a045ea-a4af-4ff8-afd1-ba82b335a44e#ref=rss)
-### parteitag
-
-* [https://www.spiegel.de/politik/deutschland/linke-begrenzen-ihre-bundestagsmandate-auf-zwoelf-jahre](https://www.spiegel.de/politik/deutschland/linke-begrenzen-ihre-bundestagsmandate-auf-zwoelf-jahre-a-2e50d4a4-168a-472b-bb0a-e071ee974dda#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-linken-parteitag-in-chemnitz-ukraine-waffenstillstand-esc-2025](https://www.spiegel.de/politik/deutschland/news-des-tages-linken-parteitag-in-chemnitz-ukraine-waffenstillstand-esc-2025-a-beca748b-753e-4c59-b86c-1ecf8aa129db#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/israel-raketenbeschuss-aus-dem-jemen-luftalarm](https://www.spiegel.de/ausland/israel-raketenbeschuss-aus-dem-jemen-luftalarm-a-322da86d-a2f0-4154-b073-0305892bc7f8#ref=rss)
-### kündigt
-
-* [https://www.spiegel.de/ausland/israel-raketenbeschuss-aus-dem-jemen-luftalarm](https://www.spiegel.de/ausland/israel-raketenbeschuss-aus-dem-jemen-luftalarm-a-322da86d-a2f0-4154-b073-0305892bc7f8#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/friedrich-merz-cdu-geht-gegen-gefakte-merz-website-vor](https://www.spiegel.de/netzwelt/web/friedrich-merz-cdu-geht-gegen-gefakte-merz-website-vor-a-52407de9-7720-4bd5-abac-5cc0750ac4c0#ref=rss)
-### superjacht
-
-* [https://www.spiegel.de/panorama/superjacht-bayesian-taucher-stirbt-bei-bergungsarbeiten-vor-sizilien](https://www.spiegel.de/panorama/superjacht-bayesian-taucher-stirbt-bei-bergungsarbeiten-vor-sizilien-a-586ec86a-8478-4d58-8b3f-981723e21b8a#ref=rss)
-### bayesian
-
-* [https://www.spiegel.de/panorama/superjacht-bayesian-taucher-stirbt-bei-bergungsarbeiten-vor-sizilien](https://www.spiegel.de/panorama/superjacht-bayesian-taucher-stirbt-bei-bergungsarbeiten-vor-sizilien-a-586ec86a-8478-4d58-8b3f-981723e21b8a#ref=rss)
-### taucher
-
-* [https://www.spiegel.de/panorama/superjacht-bayesian-taucher-stirbt-bei-bergungsarbeiten-vor-sizilien](https://www.spiegel.de/panorama/superjacht-bayesian-taucher-stirbt-bei-bergungsarbeiten-vor-sizilien-a-586ec86a-8478-4d58-8b3f-981723e21b8a#ref=rss)
-### stirbt
-
-* [https://www.spiegel.de/panorama/superjacht-bayesian-taucher-stirbt-bei-bergungsarbeiten-vor-sizilien](https://www.spiegel.de/panorama/superjacht-bayesian-taucher-stirbt-bei-bergungsarbeiten-vor-sizilien-a-586ec86a-8478-4d58-8b3f-981723e21b8a#ref=rss)
-* [https://www.spiegel.de/panorama/vatikan-papst-leo-xiv-laesst-kurienmitarbeiter-vorerst-im-amt](https://www.spiegel.de/panorama/vatikan-papst-leo-xiv-laesst-kurienmitarbeiter-vorerst-im-amt-a-ba9441d2-e39e-418a-b191-22646d2336f8#ref=rss)
-### bergungsarbeiten
-
-* [https://www.spiegel.de/panorama/superjacht-bayesian-taucher-stirbt-bei-bergungsarbeiten-vor-sizilien](https://www.spiegel.de/panorama/superjacht-bayesian-taucher-stirbt-bei-bergungsarbeiten-vor-sizilien-a-586ec86a-8478-4d58-8b3f-981723e21b8a#ref=rss)
-### sizilien
-
-* [https://www.spiegel.de/panorama/superjacht-bayesian-taucher-stirbt-bei-bergungsarbeiten-vor-sizilien](https://www.spiegel.de/panorama/superjacht-bayesian-taucher-stirbt-bei-bergungsarbeiten-vor-sizilien-a-586ec86a-8478-4d58-8b3f-981723e21b8a#ref=rss)
-### neues
-
-* [https://www.spiegel.de/panorama/superjacht-bayesian-taucher-stirbt-bei-bergungsarbeiten-vor-sizilien](https://www.spiegel.de/panorama/superjacht-bayesian-taucher-stirbt-bei-bergungsarbeiten-vor-sizilien-a-586ec86a-8478-4d58-8b3f-981723e21b8a#ref=rss)
-* [https://www.spiegel.de/kultur/musik/kayla-shyx-kali-uchis-arcade-fire-thom-yorke-mark-pritchard-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/kayla-shyx-kali-uchis-arcade-fire-thom-yorke-mark-pritchard-abgehoert-album-der-woche-a-fae33938-fc23-45ec-b97c-0ac6a7092e39#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/superjacht-bayesian-taucher-stirbt-bei-bergungsarbeiten-vor-sizilien](https://www.spiegel.de/panorama/superjacht-bayesian-taucher-stirbt-bei-bergungsarbeiten-vor-sizilien-a-586ec86a-8478-4d58-8b3f-981723e21b8a#ref=rss)
-* [https://www.spiegel.de/ausland/siegesparade-zum-9-mai-in-moskau-als-die-panzer-rollen-rufen-die-menschen-hurra](https://www.spiegel.de/ausland/siegesparade-zum-9-mai-in-moskau-als-die-panzer-rollen-rufen-die-menschen-hurra-a-3003a088-bfeb-46d1-82c9-56dd6b5cff2b#ref=rss)
-### antrittsbesuch
-
-* [https://www.spiegel.de/politik/antrittsbesuch-des-kanzlers-merz-ist-zurueck-in-bruessel-und-sagt-gleich-mal-wo-es-langgeht](https://www.spiegel.de/politik/antrittsbesuch-des-kanzlers-merz-ist-zurueck-in-bruessel-und-sagt-gleich-mal-wo-es-langgeht-a-d8cecf20-a095-4c27-bb47-7da148d12584#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/politik/antrittsbesuch-des-kanzlers-merz-ist-zurueck-in-bruessel-und-sagt-gleich-mal-wo-es-langgeht](https://www.spiegel.de/politik/antrittsbesuch-des-kanzlers-merz-ist-zurueck-in-bruessel-und-sagt-gleich-mal-wo-es-langgeht-a-d8cecf20-a095-4c27-bb47-7da148d12584#ref=rss)
-* [https://www.spiegel.de/ausland/schweden-datingbilder-machten-ihn-erpressbar-nationaler-sicherheitsberater-tritt-zurueck](https://www.spiegel.de/ausland/schweden-datingbilder-machten-ihn-erpressbar-nationaler-sicherheitsberater-tritt-zurueck-a-93402f17-4b56-4a17-bf94-0d274e03f5da#ref=rss)
-### brüssel
-
-* [https://www.spiegel.de/politik/antrittsbesuch-des-kanzlers-merz-ist-zurueck-in-bruessel-und-sagt-gleich-mal-wo-es-langgeht](https://www.spiegel.de/politik/antrittsbesuch-des-kanzlers-merz-ist-zurueck-in-bruessel-und-sagt-gleich-mal-wo-es-langgeht-a-d8cecf20-a095-4c27-bb47-7da148d12584#ref=rss)
-### gleich
-
-* [https://www.spiegel.de/politik/antrittsbesuch-des-kanzlers-merz-ist-zurueck-in-bruessel-und-sagt-gleich-mal-wo-es-langgeht](https://www.spiegel.de/politik/antrittsbesuch-des-kanzlers-merz-ist-zurueck-in-bruessel-und-sagt-gleich-mal-wo-es-langgeht-a-d8cecf20-a095-4c27-bb47-7da148d12584#ref=rss)
-* [https://www.spiegel.de/ausland/kaschmirkonflikt-warum-indien-so-viele-flieger-verloren-hat](https://www.spiegel.de/ausland/kaschmirkonflikt-warum-indien-so-viele-flieger-verloren-hat-a-a54d8681-5250-4ed3-93f5-74adfee26732#ref=rss)
-### margot
-
-* [https://www.spiegel.de/panorama/margot-friedlaender-holocaust-ueberlebende-ist-gestorben](https://www.spiegel.de/panorama/margot-friedlaender-holocaust-ueberlebende-ist-gestorben-a-075d06d4-bfe7-487f-b458-de29d62849ca#ref=rss)
-### friedländer
-
-* [https://www.spiegel.de/panorama/margot-friedlaender-holocaust-ueberlebende-ist-gestorben](https://www.spiegel.de/panorama/margot-friedlaender-holocaust-ueberlebende-ist-gestorben-a-075d06d4-bfe7-487f-b458-de29d62849ca#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/panorama/margot-friedlaender-holocaust-ueberlebende-ist-gestorben](https://www.spiegel.de/panorama/margot-friedlaender-holocaust-ueberlebende-ist-gestorben-a-075d06d4-bfe7-487f-b458-de29d62849ca#ref=rss)
-* [https://www.spiegel.de/kultur/rapper-xatar-ist-tot](https://www.spiegel.de/kultur/rapper-xatar-ist-tot-a-d324c431-e4de-411b-8918-9a0a0d74b027#ref=rss)
-### xabi
-
-* [https://www.spiegel.de/sport/fussball/xabi-alonso-verlaesst-bayer-leverkusen-aufbruch-ins-risiko](https://www.spiegel.de/sport/fussball/xabi-alonso-verlaesst-bayer-leverkusen-aufbruch-ins-risiko-a-89a045ea-a4af-4ff8-afd1-ba82b335a44e#ref=rss)
-### alonso
-
-* [https://www.spiegel.de/sport/fussball/xabi-alonso-verlaesst-bayer-leverkusen-aufbruch-ins-risiko](https://www.spiegel.de/sport/fussball/xabi-alonso-verlaesst-bayer-leverkusen-aufbruch-ins-risiko-a-89a045ea-a4af-4ff8-afd1-ba82b335a44e#ref=rss)
-### kayla
-
-* [https://www.spiegel.de/kultur/musik/kayla-shyx-kali-uchis-arcade-fire-thom-yorke-mark-pritchard-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/kayla-shyx-kali-uchis-arcade-fire-thom-yorke-mark-pritchard-abgehoert-album-der-woche-a-fae33938-fc23-45ec-b97c-0ac6a7092e39#ref=rss)
-### shyx
-
-* [https://www.spiegel.de/kultur/musik/kayla-shyx-kali-uchis-arcade-fire-thom-yorke-mark-pritchard-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/kayla-shyx-kali-uchis-arcade-fire-thom-yorke-mark-pritchard-abgehoert-album-der-woche-a-fae33938-fc23-45ec-b97c-0ac6a7092e39#ref=rss)
-### arcade
-
-* [https://www.spiegel.de/kultur/musik/kayla-shyx-kali-uchis-arcade-fire-thom-yorke-mark-pritchard-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/kayla-shyx-kali-uchis-arcade-fire-thom-yorke-mark-pritchard-abgehoert-album-der-woche-a-fae33938-fc23-45ec-b97c-0ac6a7092e39#ref=rss)
-### fire
-
-* [https://www.spiegel.de/kultur/musik/kayla-shyx-kali-uchis-arcade-fire-thom-yorke-mark-pritchard-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/kayla-shyx-kali-uchis-arcade-fire-thom-yorke-mark-pritchard-abgehoert-album-der-woche-a-fae33938-fc23-45ec-b97c-0ac6a7092e39#ref=rss)
-### news
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-linken-parteitag-in-chemnitz-ukraine-waffenstillstand-esc-2025](https://www.spiegel.de/politik/deutschland/news-des-tages-linken-parteitag-in-chemnitz-ukraine-waffenstillstand-esc-2025-a-beca748b-753e-4c59-b86c-1ecf8aa129db#ref=rss)
-* [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
-### chemnitz
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-linken-parteitag-in-chemnitz-ukraine-waffenstillstand-esc-2025](https://www.spiegel.de/politik/deutschland/news-des-tages-linken-parteitag-in-chemnitz-ukraine-waffenstillstand-esc-2025-a-beca748b-753e-4c59-b86c-1ecf8aa129db#ref=rss)
-### esc
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-linken-parteitag-in-chemnitz-ukraine-waffenstillstand-esc-2025](https://www.spiegel.de/politik/deutschland/news-des-tages-linken-parteitag-in-chemnitz-ukraine-waffenstillstand-esc-2025-a-beca748b-753e-4c59-b86c-1ecf8aa129db#ref=rss)
-### medien
-
-* [https://www.spiegel.de/kultur/wie-die-medien-jetzt-mit-der-afd-umgehen-sollten-meinung](https://www.spiegel.de/kultur/wie-die-medien-jetzt-mit-der-afd-umgehen-sollten-meinung-a-413edb2f-3dd0-4c44-98a6-3157632ca9aa#ref=rss)
-### afd
-
-* [https://www.spiegel.de/kultur/wie-die-medien-jetzt-mit-der-afd-umgehen-sollten-meinung](https://www.spiegel.de/kultur/wie-die-medien-jetzt-mit-der-afd-umgehen-sollten-meinung-a-413edb2f-3dd0-4c44-98a6-3157632ca9aa#ref=rss)
-### vatikanexpertin
-
-* [https://www.spiegel.de/ausland/vatikan-expertin-ueber-papst-leo-xiv-ein-gespraechspartner-dem-trump-zuhoeren-muss](https://www.spiegel.de/ausland/vatikan-expertin-ueber-papst-leo-xiv-ein-gespraechspartner-dem-trump-zuhoeren-muss-a-9f3d1056-a9e1-40da-b7c3-adc1fdac23a7#ref=rss)
-### trumpf
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/trumpf-maschinenbauer-plant-offenbar-stellenabbau](https://www.spiegel.de/wirtschaft/unternehmen/trumpf-maschinenbauer-plant-offenbar-stellenabbau-a-9c18b7a2-723a-499b-b0ac-36ddcd2823d5#ref=rss)
-### jobs
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/trumpf-maschinenbauer-plant-offenbar-stellenabbau](https://www.spiegel.de/wirtschaft/unternehmen/trumpf-maschinenbauer-plant-offenbar-stellenabbau-a-9c18b7a2-723a-499b-b0ac-36ddcd2823d5#ref=rss)
-* [https://www.spiegel.de/kultur/rapper-xatar-ist-tot](https://www.spiegel.de/kultur/rapper-xatar-ist-tot-a-d324c431-e4de-411b-8918-9a0a0d74b027#ref=rss)
-### unternehmen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/trumpf-maschinenbauer-plant-offenbar-stellenabbau](https://www.spiegel.de/wirtschaft/unternehmen/trumpf-maschinenbauer-plant-offenbar-stellenabbau-a-9c18b7a2-723a-499b-b0ac-36ddcd2823d5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/panasonic-elektronikkonzern-will-10-000-stellen-streichen](https://www.spiegel.de/wirtschaft/unternehmen/panasonic-elektronikkonzern-will-10-000-stellen-streichen-a-dbb44ea5-b447-41e4-8679-f142ef06a2fb#ref=rss)
-### wiesbaden
-
-* [https://www.spiegel.de/panorama/justiz/wiesbaden-mann-ersticht-offenbar-86-jaehrigen-im-schlosspark](https://www.spiegel.de/panorama/justiz/wiesbaden-mann-ersticht-offenbar-86-jaehrigen-im-schlosspark-a-407bbc74-fc43-43a3-8391-ca534e5b20b9#ref=rss)
-### erste
-
-* [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
+* [https://www.spiegel.de/politik/hubertus-heil-frueherer-bundesarbeitsminister-kandidiert-nicht-mehr-als-spd-vize](https://www.spiegel.de/politik/hubertus-heil-frueherer-bundesarbeitsminister-kandidiert-nicht-mehr-als-spd-vize-a-21000620-9b94-4b21-841d-5d818adbc6a9#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-bundeskanzler-denkt-trump-verliere-die-geduld-mit-putin](https://www.spiegel.de/politik/friedrich-merz-bundeskanzler-denkt-trump-verliere-die-geduld-mit-putin-a-bd8bc653-2a3f-487d-a1b6-ceda91df2031#ref=rss)
+* [https://www.spiegel.de/ausland/afd-donald-trump-und-friedrich-merz-wird-trump-die-afd-entzaubern-podcast](https://www.spiegel.de/ausland/afd-donald-trump-und-friedrich-merz-wird-trump-die-afd-entzaubern-podcast-a-383d527e-6091-4380-b301-bc0340d777b9#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-friedrich-merz-ist-zusammen-mit-emmanuel-macron-und-keir-starmer-unterwegs-nach-kyjiw](https://www.spiegel.de/ausland/krieg-in-der-ukraine-friedrich-merz-ist-zusammen-mit-emmanuel-macron-und-keir-starmer-unterwegs-nach-kyjiw-a-05d27572-a638-49b8-b350-0e323b70c648#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/klimaschutz-unter-friedrich-merz-erinnert-an-angela-merkel](https://www.spiegel.de/wissenschaft/mensch/klimaschutz-unter-friedrich-merz-erinnert-an-angela-merkel-a-342b4ddd-cd75-4cd5-a244-1ba3d493a969#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst](https://www.spiegel.de/ausland/usa-republikanische-senatorin-lisa-murkowski-ueber-moegliche-rache-von-donald-trump-wir-haben-alle-angst-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trumps-interesse-an-groenland-daenemarks-regierungschefin-empoert-ueber-mutmassliche-us-spionage](https://www.spiegel.de/ausland/donald-trumps-interesse-an-groenland-daenemarks-regierungschefin-empoert-ueber-mutmassliche-us-spionage-a-aecc4e7f-5956-45c9-98b5-02de9ecdc2d8#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-us-praesident-soll-kriege-in-der-ukraine-und-in-gaza-frustrierend-genannt-haben](https://www.spiegel.de/ausland/donald-trump-us-praesident-soll-kriege-in-der-ukraine-und-in-gaza-frustrierend-genannt-haben-a-0da30c25-f667-4b24-b21b-3851e4115c2e#ref=rss)
+* [https://www.spiegel.de/ausland/afd-donald-trump-und-friedrich-merz-wird-trump-die-afd-entzaubern-podcast](https://www.spiegel.de/ausland/afd-donald-trump-und-friedrich-merz-wird-trump-die-afd-entzaubern-podcast-a-383d527e-6091-4380-b301-bc0340d777b9#ref=rss)
+* [https://www.spiegel.de/panorama/panama-in-zeiten-von-donald-trump-und-den-zoellen-im-land-der-schleuser](https://www.spiegel.de/panorama/panama-in-zeiten-von-donald-trump-und-den-zoellen-im-land-der-schleuser-a-588afa2b-38c8-4889-877d-557b41de72f4#ref=rss)
+### tag
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/familie/schlechte-tage-mit-kindern-das-hilft](https://www.spiegel.de/familie/schlechte-tage-mit-kindern-das-hilft-a-13d882b6-d3bf-446e-9e8f-c4e9b76a50b2#ref=rss)
+* [https://www.spiegel.de/panorama/ueber-die-liebe-zu-spassgetraenken-und-es-macht-zzzzzzischhhhh](https://www.spiegel.de/panorama/ueber-die-liebe-zu-spassgetraenken-und-es-macht-zzzzzzischhhhh-a-888f6665-eee3-4e9e-ad04-942f6aa13091#ref=rss)
+### unter
+
+* [https://www.spiegel.de/politik/hubertus-heil-frueherer-bundesarbeitsminister-kandidiert-nicht-mehr-als-spd-vize](https://www.spiegel.de/politik/hubertus-heil-frueherer-bundesarbeitsminister-kandidiert-nicht-mehr-als-spd-vize-a-21000620-9b94-4b21-841d-5d818adbc6a9#ref=rss)
+* [https://www.spiegel.de/panorama/12-kilogramm-schwere-gefaehrliche-schildkroete-bei-kanalarbeiten-entdeckt](https://www.spiegel.de/panorama/12-kilogramm-schwere-gefaehrliche-schildkroete-bei-kanalarbeiten-entdeckt-a-756ce6cd-cb0a-4b51-a694-0c13ce27d591#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/klimaschutz-unter-friedrich-merz-erinnert-an-angela-merkel](https://www.spiegel.de/wissenschaft/mensch/klimaschutz-unter-friedrich-merz-erinnert-an-angela-merkel-a-342b4ddd-cd75-4cd5-a244-1ba3d493a969#ref=rss)
 ### ukraine
 
-* [https://www.spiegel.de/ausland/ukraine-nimmt-mutmassliche-ungarische-spione-fest](https://www.spiegel.de/ausland/ukraine-nimmt-mutmassliche-ungarische-spione-fest-a-87d057b9-99a2-41c7-ac06-2a1d3a5fd03e#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-kyjiws-verbuendete-wollen-russlands-anfuehrer-zur-verantwortung-ziehen](https://www.spiegel.de/ausland/ukraine-krieg-kyjiws-verbuendete-wollen-russlands-anfuehrer-zur-verantwortung-ziehen-a-a41c4ee9-e1c2-43cc-9491-1141c9ac2b2c#ref=rss)
-### mutmaßliche
+* [https://www.spiegel.de/politik/friedrich-merz-bundeskanzler-denkt-trump-verliere-die-geduld-mit-putin](https://www.spiegel.de/politik/friedrich-merz-bundeskanzler-denkt-trump-verliere-die-geduld-mit-putin-a-bd8bc653-2a3f-487d-a1b6-ceda91df2031#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-us-praesident-soll-kriege-in-der-ukraine-und-in-gaza-frustrierend-genannt-haben](https://www.spiegel.de/ausland/donald-trump-us-praesident-soll-kriege-in-der-ukraine-und-in-gaza-frustrierend-genannt-haben-a-0da30c25-f667-4b24-b21b-3851e4115c2e#ref=rss)
+* [https://www.spiegel.de/ausland/afd-donald-trump-und-friedrich-merz-wird-trump-die-afd-entzaubern-podcast](https://www.spiegel.de/ausland/afd-donald-trump-und-friedrich-merz-wird-trump-die-afd-entzaubern-podcast-a-383d527e-6091-4380-b301-bc0340d777b9#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-friedrich-merz-ist-zusammen-mit-emmanuel-macron-und-keir-starmer-unterwegs-nach-kyjiw](https://www.spiegel.de/ausland/krieg-in-der-ukraine-friedrich-merz-ist-zusammen-mit-emmanuel-macron-und-keir-starmer-unterwegs-nach-kyjiw-a-05d27572-a638-49b8-b350-0e323b70c648#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/ausland/ukraine-nimmt-mutmassliche-ungarische-spione-fest](https://www.spiegel.de/ausland/ukraine-nimmt-mutmassliche-ungarische-spione-fest-a-87d057b9-99a2-41c7-ac06-2a1d3a5fd03e#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trumps-interesse-an-groenland-daenemarks-regierungschefin-empoert-ueber-mutmassliche-us-spionage](https://www.spiegel.de/ausland/donald-trumps-interesse-an-groenland-daenemarks-regierungschefin-empoert-ueber-mutmassliche-us-spionage-a-aecc4e7f-5956-45c9-98b5-02de9ecdc2d8#ref=rss)
-### nationaler
+* [https://www.spiegel.de/ausland/mohammed-elbaradei-kritisiert-deutschland-fuer-israel-gaza-politik](https://www.spiegel.de/ausland/mohammed-elbaradei-kritisiert-deutschland-fuer-israel-gaza-politik-a-5f3dcfca-8e58-4ef0-8e67-3cfd015c37ae#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/gewalt-bundeslaender-melden-deutlichen-anstieg-haeuslicher-gewalt](https://www.spiegel.de/panorama/justiz/gewalt-bundeslaender-melden-deutlichen-anstieg-haeuslicher-gewalt-a-2520e9a3-7ee0-43e0-8a8e-1e6dd1176587#ref=rss)
+* [https://www.spiegel.de/auto/fahrberichte/byd-atto-2-fahrbericht-car-aoke-hoeren-sie-selbst](https://www.spiegel.de/auto/fahrberichte/byd-atto-2-fahrbericht-car-aoke-hoeren-sie-selbst-a-51c2ef18-5a39-415b-974f-5dc613617b40#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-margot-friedlaender-leo-xiv-lars-klingbeil-billie-eilish](https://www.spiegel.de/politik/deutschland/news-margot-friedlaender-leo-xiv-lars-klingbeil-billie-eilish-a-7d3ef26f-796f-46d9-aae2-683a1b6f7bff#ref=rss)
+### papst
 
-* [https://www.spiegel.de/ausland/schweden-datingbilder-machten-ihn-erpressbar-nationaler-sicherheitsberater-tritt-zurueck](https://www.spiegel.de/ausland/schweden-datingbilder-machten-ihn-erpressbar-nationaler-sicherheitsberater-tritt-zurueck-a-93402f17-4b56-4a17-bf94-0d274e03f5da#ref=rss)
-### sicherheitsberater
-
-* [https://www.spiegel.de/ausland/schweden-datingbilder-machten-ihn-erpressbar-nationaler-sicherheitsberater-tritt-zurueck](https://www.spiegel.de/ausland/schweden-datingbilder-machten-ihn-erpressbar-nationaler-sicherheitsberater-tritt-zurueck-a-93402f17-4b56-4a17-bf94-0d274e03f5da#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/ausland/schweden-datingbilder-machten-ihn-erpressbar-nationaler-sicherheitsberater-tritt-zurueck](https://www.spiegel.de/ausland/schweden-datingbilder-machten-ihn-erpressbar-nationaler-sicherheitsberater-tritt-zurueck-a-93402f17-4b56-4a17-bf94-0d274e03f5da#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ralf-stegner-ueber-baku-treffen-das-war-alles-selbst-bezahlt](https://www.spiegel.de/politik/deutschland/ralf-stegner-ueber-baku-treffen-das-war-alles-selbst-bezahlt-a-eac52810-129c-45e4-85be-2637b1b402a0#ref=rss)
+* [https://www.spiegel.de/panorama/leute/leo-xiv-der-neue-papst-ist-fussball-und-baseballfan](https://www.spiegel.de/panorama/leute/leo-xiv-der-neue-papst-ist-fussball-und-baseballfan-a-f41ad0e1-9701-423f-a218-8acd03910d44#ref=rss)
+* [https://www.spiegel.de/ausland/papst-leo-xiv-wird-er-den-kampf-gegen-rechtspopulismus-fortsetzen](https://www.spiegel.de/ausland/papst-leo-xiv-wird-er-den-kampf-gegen-rechtspopulismus-fortsetzen-a-1821754b-af78-419c-a50e-b6ad97d9a6f5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-margot-friedlaender-leo-xiv-lars-klingbeil-billie-eilish](https://www.spiegel.de/politik/deutschland/news-margot-friedlaender-leo-xiv-lars-klingbeil-billie-eilish-a-7d3ef26f-796f-46d9-aae2-683a1b6f7bff#ref=rss)
 ### ich
 
-* [https://www.spiegel.de/kultur/max-strohe-48-reservierungen-im-sternerestaurant-und-dann-ist-das-klo-verstopft](https://www.spiegel.de/kultur/max-strohe-48-reservierungen-im-sternerestaurant-und-dann-ist-das-klo-verstopft-a-75f6ea7f-20c7-4557-a4a5-72ee896e9a92#ref=rss)
-### nord
+* [https://www.spiegel.de/familie/schlechte-tage-mit-kindern-das-hilft](https://www.spiegel.de/familie/schlechte-tage-mit-kindern-das-hilft-a-13d882b6-d3bf-446e-9e8f-c4e9b76a50b2#ref=rss)
+* [https://www.spiegel.de/panorama/ueber-die-liebe-zu-spassgetraenken-und-es-macht-zzzzzzischhhhh](https://www.spiegel.de/panorama/ueber-die-liebe-zu-spassgetraenken-und-es-macht-zzzzzzischhhhh-a-888f6665-eee3-4e9e-ad04-942f6aa13091#ref=rss)
+### fragen
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/zug-schweiz-nord-stream-2-wendet-insolvenz-ab-weiter-investor-suche](https://www.spiegel.de/wirtschaft/unternehmen/zug-schweiz-nord-stream-2-wendet-insolvenz-ab-weiter-investor-suche-a-9262f5be-78b2-4b99-9650-a6498b6ca583#ref=rss)
-### stream
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/panorama/panama-in-zeiten-von-donald-trump-und-den-zoellen-im-land-der-schleuser](https://www.spiegel.de/panorama/panama-in-zeiten-von-donald-trump-und-den-zoellen-im-land-der-schleuser-a-588afa2b-38c8-4889-877d-557b41de72f4#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/zug-schweiz-nord-stream-2-wendet-insolvenz-ab-weiter-investor-suche](https://www.spiegel.de/wirtschaft/unternehmen/zug-schweiz-nord-stream-2-wendet-insolvenz-ab-weiter-investor-suche-a-9262f5be-78b2-4b99-9650-a6498b6ca583#ref=rss)
-### 2
+* [https://www.spiegel.de/politik/hubertus-heil-frueherer-bundesarbeitsminister-kandidiert-nicht-mehr-als-spd-vize](https://www.spiegel.de/politik/hubertus-heil-frueherer-bundesarbeitsminister-kandidiert-nicht-mehr-als-spd-vize-a-21000620-9b94-4b21-841d-5d818adbc6a9#ref=rss)
+* [https://www.spiegel.de/ausland/new-york-columbia-university-suspendiert-65-studierende-nach-propalaestinensischem-protest](https://www.spiegel.de/ausland/new-york-columbia-university-suspendiert-65-studierende-nach-propalaestinensischem-protest-a-befdf265-15d6-48eb-8b50-948895771bea#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-eu-fraktionsvorsitzende-fordern-aufhebung-der-hilfsgueter-blockade](https://www.spiegel.de/ausland/gaza-eu-fraktionsvorsitzende-fordern-aufhebung-der-hilfsgueter-blockade-a-53931ebf-c4cd-48cd-a75b-3da6e2516594#ref=rss)
+### euro
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/zug-schweiz-nord-stream-2-wendet-insolvenz-ab-weiter-investor-suche](https://www.spiegel.de/wirtschaft/unternehmen/zug-schweiz-nord-stream-2-wendet-insolvenz-ab-weiter-investor-suche-a-9262f5be-78b2-4b99-9650-a6498b6ca583#ref=rss)
-### cdu
+* [https://www.spiegel.de/panorama/todesfahrt-von-magdeburg-bislang-1-8-millionen-euro-bundeshilfen-fuer-opfer](https://www.spiegel.de/panorama/todesfahrt-von-magdeburg-bislang-1-8-millionen-euro-bundeshilfen-fuer-opfer-a-39aea384-f89f-4f99-b578-0a4e6c598f71#ref=rss)
+* [https://www.spiegel.de/auto/fahrberichte/byd-atto-2-fahrbericht-car-aoke-hoeren-sie-selbst](https://www.spiegel.de/auto/fahrberichte/byd-atto-2-fahrbericht-car-aoke-hoeren-sie-selbst-a-51c2ef18-5a39-415b-974f-5dc613617b40#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/netzwelt/web/friedrich-merz-cdu-geht-gegen-gefakte-merz-website-vor](https://www.spiegel.de/netzwelt/web/friedrich-merz-cdu-geht-gegen-gefakte-merz-website-vor-a-52407de9-7720-4bd5-abac-5cc0750ac4c0#ref=rss)
-### seite
+* [https://www.spiegel.de/panorama/todesfahrt-von-magdeburg-bislang-1-8-millionen-euro-bundeshilfen-fuer-opfer](https://www.spiegel.de/panorama/todesfahrt-von-magdeburg-bislang-1-8-millionen-euro-bundeshilfen-fuer-opfer-a-39aea384-f89f-4f99-b578-0a4e6c598f71#ref=rss)
+* [https://www.spiegel.de/ausland/mohammed-elbaradei-kritisiert-deutschland-fuer-israel-gaza-politik](https://www.spiegel.de/ausland/mohammed-elbaradei-kritisiert-deutschland-fuer-israel-gaza-politik-a-5f3dcfca-8e58-4ef0-8e67-3cfd015c37ae#ref=rss)
+* [https://www.spiegel.de/panorama/panama-in-zeiten-von-donald-trump-und-den-zoellen-im-land-der-schleuser](https://www.spiegel.de/panorama/panama-in-zeiten-von-donald-trump-und-den-zoellen-im-land-der-schleuser-a-588afa2b-38c8-4889-877d-557b41de72f4#ref=rss)
+### abitur
 
-* [https://www.spiegel.de/netzwelt/web/friedrich-merz-cdu-geht-gegen-gefakte-merz-website-vor](https://www.spiegel.de/netzwelt/web/friedrich-merz-cdu-geht-gegen-gefakte-merz-website-vor-a-52407de9-7720-4bd5-abac-5cc0750ac4c0#ref=rss)
-* [https://www.spiegel.de/wissenschaft/wo-bricht-das-ei-wenn-es-faellt](https://www.spiegel.de/wissenschaft/wo-bricht-das-ei-wenn-es-faellt-a-397a3986-bf1d-4a0e-8f30-22369bb73cc7#ref=rss)
-### ei
+* [https://www.spiegel.de/panorama/bildung/abitur-quoten-so-viele-abiturienten-gibt-es-in-ihrer-region](https://www.spiegel.de/panorama/bildung/abitur-quoten-so-viele-abiturienten-gibt-es-in-ihrer-region-a-ef2f4ce1-0b6e-4f51-b8b1-01b9c12f165a#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/abitur-2025-plakate-von-mama-und-papa-gegen-pruefungsstress-tradition-in-hessen-und-anderen-bundeslaendern](https://www.spiegel.de/panorama/bildung/abitur-2025-plakate-von-mama-und-papa-gegen-pruefungsstress-tradition-in-hessen-und-anderen-bundeslaendern-a-3736b439-9052-4e4e-94bd-60a102c5baaa#ref=rss)
+### gaza
 
-* [https://www.spiegel.de/wissenschaft/wo-bricht-das-ei-wenn-es-faellt](https://www.spiegel.de/wissenschaft/wo-bricht-das-ei-wenn-es-faellt-a-397a3986-bf1d-4a0e-8f30-22369bb73cc7#ref=rss)
-### grönland
+* [https://www.spiegel.de/ausland/donald-trump-us-praesident-soll-kriege-in-der-ukraine-und-in-gaza-frustrierend-genannt-haben](https://www.spiegel.de/ausland/donald-trump-us-praesident-soll-kriege-in-der-ukraine-und-in-gaza-frustrierend-genannt-haben-a-0da30c25-f667-4b24-b21b-3851e4115c2e#ref=rss)
+* [https://www.spiegel.de/ausland/mohammed-elbaradei-kritisiert-deutschland-fuer-israel-gaza-politik](https://www.spiegel.de/ausland/mohammed-elbaradei-kritisiert-deutschland-fuer-israel-gaza-politik-a-5f3dcfca-8e58-4ef0-8e67-3cfd015c37ae#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-eu-fraktionsvorsitzende-fordern-aufhebung-der-hilfsgueter-blockade](https://www.spiegel.de/ausland/gaza-eu-fraktionsvorsitzende-fordern-aufhebung-der-hilfsgueter-blockade-a-53931ebf-c4cd-48cd-a75b-3da6e2516594#ref=rss)
+### afd
 
-* [https://www.spiegel.de/ausland/donald-trumps-interesse-an-groenland-daenemarks-regierungschefin-empoert-ueber-mutmassliche-us-spionage](https://www.spiegel.de/ausland/donald-trumps-interesse-an-groenland-daenemarks-regierungschefin-empoert-ueber-mutmassliche-us-spionage-a-aecc4e7f-5956-45c9-98b5-02de9ecdc2d8#ref=rss)
-### panasonic
+* [https://www.spiegel.de/ausland/afd-donald-trump-und-friedrich-merz-wird-trump-die-afd-entzaubern-podcast](https://www.spiegel.de/ausland/afd-donald-trump-und-friedrich-merz-wird-trump-die-afd-entzaubern-podcast-a-383d527e-6091-4380-b301-bc0340d777b9#ref=rss)
+### leo
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/panasonic-elektronikkonzern-will-10-000-stellen-streichen](https://www.spiegel.de/wirtschaft/unternehmen/panasonic-elektronikkonzern-will-10-000-stellen-streichen-a-dbb44ea5-b447-41e4-8679-f142ef06a2fb#ref=rss)
-### elektronikkonzern
+* [https://www.spiegel.de/panorama/leute/leo-xiv-der-neue-papst-ist-fussball-und-baseballfan](https://www.spiegel.de/panorama/leute/leo-xiv-der-neue-papst-ist-fussball-und-baseballfan-a-f41ad0e1-9701-423f-a218-8acd03910d44#ref=rss)
+* [https://www.spiegel.de/ausland/papst-leo-xiv-wird-er-den-kampf-gegen-rechtspopulismus-fortsetzen](https://www.spiegel.de/ausland/papst-leo-xiv-wird-er-den-kampf-gegen-rechtspopulismus-fortsetzen-a-1821754b-af78-419c-a50e-b6ad97d9a6f5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-margot-friedlaender-leo-xiv-lars-klingbeil-billie-eilish](https://www.spiegel.de/politik/deutschland/news-margot-friedlaender-leo-xiv-lars-klingbeil-billie-eilish-a-7d3ef26f-796f-46d9-aae2-683a1b6f7bff#ref=rss)
+### xiv
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/panasonic-elektronikkonzern-will-10-000-stellen-streichen](https://www.spiegel.de/wirtschaft/unternehmen/panasonic-elektronikkonzern-will-10-000-stellen-streichen-a-dbb44ea5-b447-41e4-8679-f142ef06a2fb#ref=rss)
-### xatar
+* [https://www.spiegel.de/panorama/leute/leo-xiv-der-neue-papst-ist-fussball-und-baseballfan](https://www.spiegel.de/panorama/leute/leo-xiv-der-neue-papst-ist-fussball-und-baseballfan-a-f41ad0e1-9701-423f-a218-8acd03910d44#ref=rss)
+* [https://www.spiegel.de/ausland/papst-leo-xiv-wird-er-den-kampf-gegen-rechtspopulismus-fortsetzen](https://www.spiegel.de/ausland/papst-leo-xiv-wird-er-den-kampf-gegen-rechtspopulismus-fortsetzen-a-1821754b-af78-419c-a50e-b6ad97d9a6f5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-margot-friedlaender-leo-xiv-lars-klingbeil-billie-eilish](https://www.spiegel.de/politik/deutschland/news-margot-friedlaender-leo-xiv-lars-klingbeil-billie-eilish-a-7d3ef26f-796f-46d9-aae2-683a1b6f7bff#ref=rss)
+### peggy
 
-* [https://www.spiegel.de/kultur/rapper-xatar-ist-tot](https://www.spiegel.de/kultur/rapper-xatar-ist-tot-a-d324c431-e4de-411b-8918-9a0a0d74b027#ref=rss)
-### vatikan
+* [https://www.spiegel.de/panorama/peggy-parnass-posthum-erscheint-buch-ueber-flucht-mit-co-autor-umes-arunagirinathan](https://www.spiegel.de/panorama/peggy-parnass-posthum-erscheint-buch-ueber-flucht-mit-co-autor-umes-arunagirinathan-a-f8c86110-5a78-46df-9938-a2f11e1e0a5e#ref=rss)
+### parnass
 
-* [https://www.spiegel.de/panorama/vatikan-papst-leo-xiv-laesst-kurienmitarbeiter-vorerst-im-amt](https://www.spiegel.de/panorama/vatikan-papst-leo-xiv-laesst-kurienmitarbeiter-vorerst-im-amt-a-ba9441d2-e39e-418a-b191-22646d2336f8#ref=rss)
-### vorerst
+* [https://www.spiegel.de/panorama/peggy-parnass-posthum-erscheint-buch-ueber-flucht-mit-co-autor-umes-arunagirinathan](https://www.spiegel.de/panorama/peggy-parnass-posthum-erscheint-buch-ueber-flucht-mit-co-autor-umes-arunagirinathan-a-f8c86110-5a78-46df-9938-a2f11e1e0a5e#ref=rss)
+### buch
 
-* [https://www.spiegel.de/panorama/vatikan-papst-leo-xiv-laesst-kurienmitarbeiter-vorerst-im-amt](https://www.spiegel.de/panorama/vatikan-papst-leo-xiv-laesst-kurienmitarbeiter-vorerst-im-amt-a-ba9441d2-e39e-418a-b191-22646d2336f8#ref=rss)
-### gemacht
+* [https://www.spiegel.de/panorama/peggy-parnass-posthum-erscheint-buch-ueber-flucht-mit-co-autor-umes-arunagirinathan](https://www.spiegel.de/panorama/peggy-parnass-posthum-erscheint-buch-ueber-flucht-mit-co-autor-umes-arunagirinathan-a-f8c86110-5a78-46df-9938-a2f11e1e0a5e#ref=rss)
+### flucht
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-kyjiws-verbuendete-wollen-russlands-anfuehrer-zur-verantwortung-ziehen](https://www.spiegel.de/ausland/ukraine-krieg-kyjiws-verbuendete-wollen-russlands-anfuehrer-zur-verantwortung-ziehen-a-a41c4ee9-e1c2-43cc-9491-1141c9ac2b2c#ref=rss)
-* [https://www.spiegel.de/ausland/kaschmirkonflikt-warum-indien-so-viele-flieger-verloren-hat](https://www.spiegel.de/ausland/kaschmirkonflikt-warum-indien-so-viele-flieger-verloren-hat-a-a54d8681-5250-4ed3-93f5-74adfee26732#ref=rss)
-### 1990
+* [https://www.spiegel.de/panorama/peggy-parnass-posthum-erscheint-buch-ueber-flucht-mit-co-autor-umes-arunagirinathan](https://www.spiegel.de/panorama/peggy-parnass-posthum-erscheint-buch-ueber-flucht-mit-co-autor-umes-arunagirinathan-a-f8c86110-5a78-46df-9938-a2f11e1e0a5e#ref=rss)
+### umes
 
-* [https://www.spiegel.de/sport/fussball/einziges-fussball-laenderspiel-der-ddr-frauen-1990-wir-dachten-das-sei-der-beginn-von-etwas-groesserem](https://www.spiegel.de/sport/fussball/einziges-fussball-laenderspiel-der-ddr-frauen-1990-wir-dachten-das-sei-der-beginn-von-etwas-groesserem-a-f51a5255-c524-453f-a63f-f2301f784bd6#ref=rss)
+* [https://www.spiegel.de/panorama/peggy-parnass-posthum-erscheint-buch-ueber-flucht-mit-co-autor-umes-arunagirinathan](https://www.spiegel.de/panorama/peggy-parnass-posthum-erscheint-buch-ueber-flucht-mit-co-autor-umes-arunagirinathan-a-f8c86110-5a78-46df-9938-a2f11e1e0a5e#ref=rss)
+### arunagirinathan
+
+* [https://www.spiegel.de/panorama/peggy-parnass-posthum-erscheint-buch-ueber-flucht-mit-co-autor-umes-arunagirinathan](https://www.spiegel.de/panorama/peggy-parnass-posthum-erscheint-buch-ueber-flucht-mit-co-autor-umes-arunagirinathan-a-f8c86110-5a78-46df-9938-a2f11e1e0a5e#ref=rss)
+### beamtenbund
+
+* [https://www.spiegel.de/wirtschaft/rente-beamtenbund-stellt-sich-gegen-rentenforderung-von-arbeitsministerin-bas](https://www.spiegel.de/wirtschaft/rente-beamtenbund-stellt-sich-gegen-rentenforderung-von-arbeitsministerin-bas-a-7fd8a439-e1bb-47d1-93db-0f4fd5a30feb#ref=rss)
+### arbeitsministerin
+
+* [https://www.spiegel.de/wirtschaft/rente-beamtenbund-stellt-sich-gegen-rentenforderung-von-arbeitsministerin-bas](https://www.spiegel.de/wirtschaft/rente-beamtenbund-stellt-sich-gegen-rentenforderung-von-arbeitsministerin-bas-a-7fd8a439-e1bb-47d1-93db-0f4fd5a30feb#ref=rss)
+### bas
+
+* [https://www.spiegel.de/wirtschaft/rente-beamtenbund-stellt-sich-gegen-rentenforderung-von-arbeitsministerin-bas](https://www.spiegel.de/wirtschaft/rente-beamtenbund-stellt-sich-gegen-rentenforderung-von-arbeitsministerin-bas-a-7fd8a439-e1bb-47d1-93db-0f4fd5a30feb#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/wirtschaft/rente-beamtenbund-stellt-sich-gegen-rentenforderung-von-arbeitsministerin-bas](https://www.spiegel.de/wirtschaft/rente-beamtenbund-stellt-sich-gegen-rentenforderung-von-arbeitsministerin-bas-a-7fd8a439-e1bb-47d1-93db-0f4fd5a30feb#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/klimaschutz-unter-friedrich-merz-erinnert-an-angela-merkel](https://www.spiegel.de/wissenschaft/mensch/klimaschutz-unter-friedrich-merz-erinnert-an-angela-merkel-a-342b4ddd-cd75-4cd5-a244-1ba3d493a969#ref=rss)
+### jeden
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/panorama/ueber-die-liebe-zu-spassgetraenken-und-es-macht-zzzzzzischhhhh](https://www.spiegel.de/panorama/ueber-die-liebe-zu-spassgetraenken-und-es-macht-zzzzzzischhhhh-a-888f6665-eee3-4e9e-ad04-942f6aa13091#ref=rss)
+### wichtigsten
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/panorama/panama-in-zeiten-von-donald-trump-und-den-zoellen-im-land-der-schleuser](https://www.spiegel.de/panorama/panama-in-zeiten-von-donald-trump-und-den-zoellen-im-land-der-schleuser-a-588afa2b-38c8-4889-877d-557b41de72f4#ref=rss)
+### hubertus
+
+* [https://www.spiegel.de/politik/hubertus-heil-frueherer-bundesarbeitsminister-kandidiert-nicht-mehr-als-spd-vize](https://www.spiegel.de/politik/hubertus-heil-frueherer-bundesarbeitsminister-kandidiert-nicht-mehr-als-spd-vize-a-21000620-9b94-4b21-841d-5d818adbc6a9#ref=rss)
+### heil
+
+* [https://www.spiegel.de/politik/hubertus-heil-frueherer-bundesarbeitsminister-kandidiert-nicht-mehr-als-spd-vize](https://www.spiegel.de/politik/hubertus-heil-frueherer-bundesarbeitsminister-kandidiert-nicht-mehr-als-spd-vize-a-21000620-9b94-4b21-841d-5d818adbc6a9#ref=rss)
+### macht
+
+* [https://www.spiegel.de/politik/hubertus-heil-frueherer-bundesarbeitsminister-kandidiert-nicht-mehr-als-spd-vize](https://www.spiegel.de/politik/hubertus-heil-frueherer-bundesarbeitsminister-kandidiert-nicht-mehr-als-spd-vize-a-21000620-9b94-4b21-841d-5d818adbc6a9#ref=rss)
+* [https://www.spiegel.de/panorama/ueber-die-liebe-zu-spassgetraenken-und-es-macht-zzzzzzischhhhh](https://www.spiegel.de/panorama/ueber-die-liebe-zu-spassgetraenken-und-es-macht-zzzzzzischhhhh-a-888f6665-eee3-4e9e-ad04-942f6aa13091#ref=rss)
+### bundeskanzler
+
+* [https://www.spiegel.de/politik/friedrich-merz-bundeskanzler-denkt-trump-verliere-die-geduld-mit-putin](https://www.spiegel.de/politik/friedrich-merz-bundeskanzler-denkt-trump-verliere-die-geduld-mit-putin-a-bd8bc653-2a3f-487d-a1b6-ceda91df2031#ref=rss)
+### uspräsident
+
+* [https://www.spiegel.de/politik/friedrich-merz-bundeskanzler-denkt-trump-verliere-die-geduld-mit-putin](https://www.spiegel.de/politik/friedrich-merz-bundeskanzler-denkt-trump-verliere-die-geduld-mit-putin-a-bd8bc653-2a3f-487d-a1b6-ceda91df2031#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-us-praesident-soll-kriege-in-der-ukraine-und-in-gaza-frustrierend-genannt-haben](https://www.spiegel.de/ausland/donald-trump-us-praesident-soll-kriege-in-der-ukraine-und-in-gaza-frustrierend-genannt-haben-a-0da30c25-f667-4b24-b21b-3851e4115c2e#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/politik/friedrich-merz-bundeskanzler-denkt-trump-verliere-die-geduld-mit-putin](https://www.spiegel.de/politik/friedrich-merz-bundeskanzler-denkt-trump-verliere-die-geduld-mit-putin-a-bd8bc653-2a3f-487d-a1b6-ceda91df2031#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/southport-moerder-greift-offenbar-gefaengnisbeamten-an](https://www.spiegel.de/panorama/justiz/southport-moerder-greift-offenbar-gefaengnisbeamten-an-a-fac42531-93e6-4cc6-a6cf-6a099eb6c212#ref=rss)
+### usa
+
+* [https://www.spiegel.de/politik/friedrich-merz-bundeskanzler-denkt-trump-verliere-die-geduld-mit-putin](https://www.spiegel.de/politik/friedrich-merz-bundeskanzler-denkt-trump-verliere-die-geduld-mit-putin-a-bd8bc653-2a3f-487d-a1b6-ceda91df2031#ref=rss)
+* [https://www.spiegel.de/ausland/mohammed-elbaradei-kritisiert-deutschland-fuer-israel-gaza-politik](https://www.spiegel.de/ausland/mohammed-elbaradei-kritisiert-deutschland-fuer-israel-gaza-politik-a-5f3dcfca-8e58-4ef0-8e67-3cfd015c37ae#ref=rss)
+### gefunden
+
+* [https://www.spiegel.de/panorama/12-kilogramm-schwere-gefaehrliche-schildkroete-bei-kanalarbeiten-entdeckt](https://www.spiegel.de/panorama/12-kilogramm-schwere-gefaehrliche-schildkroete-bei-kanalarbeiten-entdeckt-a-756ce6cd-cb0a-4b51-a694-0c13ce27d591#ref=rss)
+* [https://www.spiegel.de/sport/fussball/manchester-city-pep-guardiola-ueber-die-schwierigste-saison-seiner-trainerkarriere](https://www.spiegel.de/sport/fussball/manchester-city-pep-guardiola-ueber-die-schwierigste-saison-seiner-trainerkarriere-a-f3102033-46fc-4999-9912-9d82cc459b8d#ref=rss)
+### todesfahrt
+
+* [https://www.spiegel.de/panorama/todesfahrt-von-magdeburg-bislang-1-8-millionen-euro-bundeshilfen-fuer-opfer](https://www.spiegel.de/panorama/todesfahrt-von-magdeburg-bislang-1-8-millionen-euro-bundeshilfen-fuer-opfer-a-39aea384-f89f-4f99-b578-0a4e6c598f71#ref=rss)
+### 18
+
+* [https://www.spiegel.de/panorama/todesfahrt-von-magdeburg-bislang-1-8-millionen-euro-bundeshilfen-fuer-opfer](https://www.spiegel.de/panorama/todesfahrt-von-magdeburg-bislang-1-8-millionen-euro-bundeshilfen-fuer-opfer-a-39aea384-f89f-4f99-b578-0a4e6c598f71#ref=rss)
+* [https://www.spiegel.de/sport/fussball/manchester-city-pep-guardiola-ueber-die-schwierigste-saison-seiner-trainerkarriere](https://www.spiegel.de/sport/fussball/manchester-city-pep-guardiola-ueber-die-schwierigste-saison-seiner-trainerkarriere-a-f3102033-46fc-4999-9912-9d82cc459b8d#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/panorama/todesfahrt-von-magdeburg-bislang-1-8-millionen-euro-bundeshilfen-fuer-opfer](https://www.spiegel.de/panorama/todesfahrt-von-magdeburg-bislang-1-8-millionen-euro-bundeshilfen-fuer-opfer-a-39aea384-f89f-4f99-b578-0a4e6c598f71#ref=rss)
+### opfer
+
+* [https://www.spiegel.de/panorama/todesfahrt-von-magdeburg-bislang-1-8-millionen-euro-bundeshilfen-fuer-opfer](https://www.spiegel.de/panorama/todesfahrt-von-magdeburg-bislang-1-8-millionen-euro-bundeshilfen-fuer-opfer-a-39aea384-f89f-4f99-b578-0a4e6c598f71#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/gewalt-bundeslaender-melden-deutlichen-anstieg-haeuslicher-gewalt](https://www.spiegel.de/panorama/justiz/gewalt-bundeslaender-melden-deutlichen-anstieg-haeuslicher-gewalt-a-2520e9a3-7ee0-43e0-8a8e-1e6dd1176587#ref=rss)
+### manchester
+
+* [https://www.spiegel.de/sport/fussball/manchester-city-pep-guardiola-ueber-die-schwierigste-saison-seiner-trainerkarriere](https://www.spiegel.de/sport/fussball/manchester-city-pep-guardiola-ueber-die-schwierigste-saison-seiner-trainerkarriere-a-f3102033-46fc-4999-9912-9d82cc459b8d#ref=rss)
+### city
+
+* [https://www.spiegel.de/sport/fussball/manchester-city-pep-guardiola-ueber-die-schwierigste-saison-seiner-trainerkarriere](https://www.spiegel.de/sport/fussball/manchester-city-pep-guardiola-ueber-die-schwierigste-saison-seiner-trainerkarriere-a-f3102033-46fc-4999-9912-9d82cc459b8d#ref=rss)
+### pep
+
+* [https://www.spiegel.de/sport/fussball/manchester-city-pep-guardiola-ueber-die-schwierigste-saison-seiner-trainerkarriere](https://www.spiegel.de/sport/fussball/manchester-city-pep-guardiola-ueber-die-schwierigste-saison-seiner-trainerkarriere-a-f3102033-46fc-4999-9912-9d82cc459b8d#ref=rss)
+### guardiola
+
+* [https://www.spiegel.de/sport/fussball/manchester-city-pep-guardiola-ueber-die-schwierigste-saison-seiner-trainerkarriere](https://www.spiegel.de/sport/fussball/manchester-city-pep-guardiola-ueber-die-schwierigste-saison-seiner-trainerkarriere-a-f3102033-46fc-4999-9912-9d82cc459b8d#ref=rss)
+### fast
+
+* [https://www.spiegel.de/panorama/bildung/abitur-quoten-so-viele-abiturienten-gibt-es-in-ihrer-region](https://www.spiegel.de/panorama/bildung/abitur-quoten-so-viele-abiturienten-gibt-es-in-ihrer-region-a-ef2f4ce1-0b6e-4f51-b8b1-01b9c12f165a#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/abitur-2025-plakate-von-mama-und-papa-gegen-pruefungsstress-tradition-in-hessen-und-anderen-bundeslaendern](https://www.spiegel.de/panorama/bildung/abitur-2025-plakate-von-mama-und-papa-gegen-pruefungsstress-tradition-in-hessen-und-anderen-bundeslaendern-a-3736b439-9052-4e4e-94bd-60a102c5baaa#ref=rss)
+### überall
+
+* [https://www.spiegel.de/panorama/bildung/abitur-quoten-so-viele-abiturienten-gibt-es-in-ihrer-region](https://www.spiegel.de/panorama/bildung/abitur-quoten-so-viele-abiturienten-gibt-es-in-ihrer-region-a-ef2f4ce1-0b6e-4f51-b8b1-01b9c12f165a#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/abitur-2025-plakate-von-mama-und-papa-gegen-pruefungsstress-tradition-in-hessen-und-anderen-bundeslaendern](https://www.spiegel.de/panorama/bildung/abitur-2025-plakate-von-mama-und-papa-gegen-pruefungsstress-tradition-in-hessen-und-anderen-bundeslaendern-a-3736b439-9052-4e4e-94bd-60a102c5baaa#ref=rss)
+### land
+
+* [https://www.spiegel.de/panorama/bildung/abitur-quoten-so-viele-abiturienten-gibt-es-in-ihrer-region](https://www.spiegel.de/panorama/bildung/abitur-quoten-so-viele-abiturienten-gibt-es-in-ihrer-region-a-ef2f4ce1-0b6e-4f51-b8b1-01b9c12f165a#ref=rss)
+* [https://www.spiegel.de/panorama/panama-in-zeiten-von-donald-trump-und-den-zoellen-im-land-der-schleuser](https://www.spiegel.de/panorama/panama-in-zeiten-von-donald-trump-und-den-zoellen-im-land-der-schleuser-a-588afa2b-38c8-4889-877d-557b41de72f4#ref=rss)
+### heimat
+
+* [https://www.spiegel.de/panorama/bildung/abitur-quoten-so-viele-abiturienten-gibt-es-in-ihrer-region](https://www.spiegel.de/panorama/bildung/abitur-quoten-so-viele-abiturienten-gibt-es-in-ihrer-region-a-ef2f4ce1-0b6e-4f51-b8b1-01b9c12f165a#ref=rss)
+* [https://www.spiegel.de/panorama/leute/leo-xiv-der-neue-papst-ist-fussball-und-baseballfan](https://www.spiegel.de/panorama/leute/leo-xiv-der-neue-papst-ist-fussball-und-baseballfan-a-f41ad0e1-9701-423f-a218-8acd03910d44#ref=rss)
+### deutschlands
+
+* [https://www.spiegel.de/panorama/bildung/abitur-2025-plakate-von-mama-und-papa-gegen-pruefungsstress-tradition-in-hessen-und-anderen-bundeslaendern](https://www.spiegel.de/panorama/bildung/abitur-2025-plakate-von-mama-und-papa-gegen-pruefungsstress-tradition-in-hessen-und-anderen-bundeslaendern-a-3736b439-9052-4e4e-94bd-60a102c5baaa#ref=rss)
+* [https://www.spiegel.de/ausland/mohammed-elbaradei-kritisiert-deutschland-fuer-israel-gaza-politik](https://www.spiegel.de/ausland/mohammed-elbaradei-kritisiert-deutschland-fuer-israel-gaza-politik-a-5f3dcfca-8e58-4ef0-8e67-3cfd015c37ae#ref=rss)
+### ukrainekrieg
+
+* [https://www.spiegel.de/ausland/donald-trump-us-praesident-soll-kriege-in-der-ukraine-und-in-gaza-frustrierend-genannt-haben](https://www.spiegel.de/ausland/donald-trump-us-praesident-soll-kriege-in-der-ukraine-und-in-gaza-frustrierend-genannt-haben-a-0da30c25-f667-4b24-b21b-3851e4115c2e#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-friedrich-merz-ist-zusammen-mit-emmanuel-macron-und-keir-starmer-unterwegs-nach-kyjiw](https://www.spiegel.de/ausland/krieg-in-der-ukraine-friedrich-merz-ist-zusammen-mit-emmanuel-macron-und-keir-starmer-unterwegs-nach-kyjiw-a-05d27572-a638-49b8-b350-0e323b70c648#ref=rss)
+### gazakonflikt
+
+* [https://www.spiegel.de/ausland/donald-trump-us-praesident-soll-kriege-in-der-ukraine-und-in-gaza-frustrierend-genannt-haben](https://www.spiegel.de/ausland/donald-trump-us-praesident-soll-kriege-in-der-ukraine-und-in-gaza-frustrierend-genannt-haben-a-0da30c25-f667-4b24-b21b-3851e4115c2e#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-eu-fraktionsvorsitzende-fordern-aufhebung-der-hilfsgueter-blockade](https://www.spiegel.de/ausland/gaza-eu-fraktionsvorsitzende-fordern-aufhebung-der-hilfsgueter-blockade-a-53931ebf-c4cd-48cd-a75b-3da6e2516594#ref=rss)
+### großbritannien
+
+* [https://www.spiegel.de/panorama/justiz/southport-moerder-greift-offenbar-gefaengnisbeamten-an](https://www.spiegel.de/panorama/justiz/southport-moerder-greift-offenbar-gefaengnisbeamten-an-a-fac42531-93e6-4cc6-a6cf-6a099eb6c212#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-friedrich-merz-ist-zusammen-mit-emmanuel-macron-und-keir-starmer-unterwegs-nach-kyjiw](https://www.spiegel.de/ausland/krieg-in-der-ukraine-friedrich-merz-ist-zusammen-mit-emmanuel-macron-und-keir-starmer-unterwegs-nach-kyjiw-a-05d27572-a638-49b8-b350-0e323b70c648#ref=rss)
+### drei
+
+* [https://www.spiegel.de/panorama/justiz/southport-moerder-greift-offenbar-gefaengnisbeamten-an](https://www.spiegel.de/panorama/justiz/southport-moerder-greift-offenbar-gefaengnisbeamten-an-a-fac42531-93e6-4cc6-a6cf-6a099eb6c212#ref=rss)
+* [https://www.spiegel.de/ausland/pakistan-versus-indien-neue-eskalation-im-kaschmir-konflikt](https://www.spiegel.de/ausland/pakistan-versus-indien-neue-eskalation-im-kaschmir-konflikt-a-0c470acf-895e-4452-9378-38440c07fe5e#ref=rss)
+### columbia
+
+* [https://www.spiegel.de/ausland/new-york-columbia-university-suspendiert-65-studierende-nach-propalaestinensischem-protest](https://www.spiegel.de/ausland/new-york-columbia-university-suspendiert-65-studierende-nach-propalaestinensischem-protest-a-befdf265-15d6-48eb-8b50-948895771bea#ref=rss)
+### university
+
+* [https://www.spiegel.de/ausland/new-york-columbia-university-suspendiert-65-studierende-nach-propalaestinensischem-protest](https://www.spiegel.de/ausland/new-york-columbia-university-suspendiert-65-studierende-nach-propalaestinensischem-protest-a-befdf265-15d6-48eb-8b50-948895771bea#ref=rss)
+### studierende
+
+* [https://www.spiegel.de/ausland/new-york-columbia-university-suspendiert-65-studierende-nach-propalaestinensischem-protest](https://www.spiegel.de/ausland/new-york-columbia-university-suspendiert-65-studierende-nach-propalaestinensischem-protest-a-befdf265-15d6-48eb-8b50-948895771bea#ref=rss)
+### pakistan
+
+* [https://www.spiegel.de/ausland/pakistan-versus-indien-neue-eskalation-im-kaschmir-konflikt](https://www.spiegel.de/ausland/pakistan-versus-indien-neue-eskalation-im-kaschmir-konflikt-a-0c470acf-895e-4452-9378-38440c07fe5e#ref=rss)
 ### indien
 
-* [https://www.spiegel.de/ausland/kaschmirkonflikt-warum-indien-so-viele-flieger-verloren-hat](https://www.spiegel.de/ausland/kaschmirkonflikt-warum-indien-so-viele-flieger-verloren-hat-a-a54d8681-5250-4ed3-93f5-74adfee26732#ref=rss)
-### flieger
+* [https://www.spiegel.de/ausland/pakistan-versus-indien-neue-eskalation-im-kaschmir-konflikt](https://www.spiegel.de/ausland/pakistan-versus-indien-neue-eskalation-im-kaschmir-konflikt-a-0c470acf-895e-4452-9378-38440c07fe5e#ref=rss)
+### neue
 
-* [https://www.spiegel.de/ausland/kaschmirkonflikt-warum-indien-so-viele-flieger-verloren-hat](https://www.spiegel.de/ausland/kaschmirkonflikt-warum-indien-so-viele-flieger-verloren-hat-a-a54d8681-5250-4ed3-93f5-74adfee26732#ref=rss)
-### verloren
+* [https://www.spiegel.de/ausland/pakistan-versus-indien-neue-eskalation-im-kaschmir-konflikt](https://www.spiegel.de/ausland/pakistan-versus-indien-neue-eskalation-im-kaschmir-konflikt-a-0c470acf-895e-4452-9378-38440c07fe5e#ref=rss)
+* [https://www.spiegel.de/panorama/leute/leo-xiv-der-neue-papst-ist-fussball-und-baseballfan](https://www.spiegel.de/panorama/leute/leo-xiv-der-neue-papst-ist-fussball-und-baseballfan-a-f41ad0e1-9701-423f-a218-8acd03910d44#ref=rss)
+### auge
 
-* [https://www.spiegel.de/ausland/kaschmirkonflikt-warum-indien-so-viele-flieger-verloren-hat](https://www.spiegel.de/ausland/kaschmirkonflikt-warum-indien-so-viele-flieger-verloren-hat-a-a54d8681-5250-4ed3-93f5-74adfee26732#ref=rss)
-### ralf
+* [https://www.spiegel.de/ausland/pakistan-versus-indien-neue-eskalation-im-kaschmir-konflikt](https://www.spiegel.de/ausland/pakistan-versus-indien-neue-eskalation-im-kaschmir-konflikt-a-0c470acf-895e-4452-9378-38440c07fe5e#ref=rss)
+### reagieren
 
-* [https://www.spiegel.de/politik/deutschland/ralf-stegner-ueber-baku-treffen-das-war-alles-selbst-bezahlt](https://www.spiegel.de/politik/deutschland/ralf-stegner-ueber-baku-treffen-das-war-alles-selbst-bezahlt-a-eac52810-129c-45e4-85be-2637b1b402a0#ref=rss)
-### stegner
+* [https://www.spiegel.de/ausland/pakistan-versus-indien-neue-eskalation-im-kaschmir-konflikt](https://www.spiegel.de/ausland/pakistan-versus-indien-neue-eskalation-im-kaschmir-konflikt-a-0c470acf-895e-4452-9378-38440c07fe5e#ref=rss)
+* [https://www.spiegel.de/panorama/panama-in-zeiten-von-donald-trump-und-den-zoellen-im-land-der-schleuser](https://www.spiegel.de/panorama/panama-in-zeiten-von-donald-trump-und-den-zoellen-im-land-der-schleuser-a-588afa2b-38c8-4889-877d-557b41de72f4#ref=rss)
+### siedlungen
 
-* [https://www.spiegel.de/politik/deutschland/ralf-stegner-ueber-baku-treffen-das-war-alles-selbst-bezahlt](https://www.spiegel.de/politik/deutschland/ralf-stegner-ueber-baku-treffen-das-war-alles-selbst-bezahlt-a-eac52810-129c-45e4-85be-2637b1b402a0#ref=rss)
-### erklärt
+* [https://www.spiegel.de/wissenschaft/natur/strassen-und-siedlungen-sorgen-fuer-inzucht-bei-rotwild](https://www.spiegel.de/wissenschaft/natur/strassen-und-siedlungen-sorgen-fuer-inzucht-bei-rotwild-a-5e6af650-1299-4bab-ab60-44d5eb5fc91a#ref=rss)
+### inzucht
 
-* [https://www.spiegel.de/politik/deutschland/ralf-stegner-ueber-baku-treffen-das-war-alles-selbst-bezahlt](https://www.spiegel.de/politik/deutschland/ralf-stegner-ueber-baku-treffen-das-war-alles-selbst-bezahlt-a-eac52810-129c-45e4-85be-2637b1b402a0#ref=rss)
-* [https://www.spiegel.de/stil/granatapfel-entkernen-schritt-fuer-schritt-erklaert-im-video](https://www.spiegel.de/stil/granatapfel-entkernen-schritt-fuer-schritt-erklaert-im-video-a-1bef26b2-0de6-44a2-bf44-59bb0750c807#ref=rss)
-### granatapfel
+* [https://www.spiegel.de/wissenschaft/natur/strassen-und-siedlungen-sorgen-fuer-inzucht-bei-rotwild](https://www.spiegel.de/wissenschaft/natur/strassen-und-siedlungen-sorgen-fuer-inzucht-bei-rotwild-a-5e6af650-1299-4bab-ab60-44d5eb5fc91a#ref=rss)
+### elbaradei
 
-* [https://www.spiegel.de/stil/granatapfel-entkernen-schritt-fuer-schritt-erklaert-im-video](https://www.spiegel.de/stil/granatapfel-entkernen-schritt-fuer-schritt-erklaert-im-video-a-1bef26b2-0de6-44a2-bf44-59bb0750c807#ref=rss)
-### video
+* [https://www.spiegel.de/ausland/mohammed-elbaradei-kritisiert-deutschland-fuer-israel-gaza-politik](https://www.spiegel.de/ausland/mohammed-elbaradei-kritisiert-deutschland-fuer-israel-gaza-politik-a-5f3dcfca-8e58-4ef0-8e67-3cfd015c37ae#ref=rss)
+### kritisiert
 
-* [https://www.spiegel.de/stil/granatapfel-entkernen-schritt-fuer-schritt-erklaert-im-video](https://www.spiegel.de/stil/granatapfel-entkernen-schritt-fuer-schritt-erklaert-im-video-a-1bef26b2-0de6-44a2-bf44-59bb0750c807#ref=rss)
-### ohne
+* [https://www.spiegel.de/ausland/mohammed-elbaradei-kritisiert-deutschland-fuer-israel-gaza-politik](https://www.spiegel.de/ausland/mohammed-elbaradei-kritisiert-deutschland-fuer-israel-gaza-politik-a-5f3dcfca-8e58-4ef0-8e67-3cfd015c37ae#ref=rss)
+### gewalt
 
-* [https://www.spiegel.de/stil/granatapfel-entkernen-schritt-fuer-schritt-erklaert-im-video](https://www.spiegel.de/stil/granatapfel-entkernen-schritt-fuer-schritt-erklaert-im-video-a-1bef26b2-0de6-44a2-bf44-59bb0750c807#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/gewalt-bundeslaender-melden-deutlichen-anstieg-haeuslicher-gewalt](https://www.spiegel.de/panorama/justiz/gewalt-bundeslaender-melden-deutlichen-anstieg-haeuslicher-gewalt-a-2520e9a3-7ee0-43e0-8a8e-1e6dd1176587#ref=rss)
+### niedersachsen
+
+* [https://www.spiegel.de/panorama/justiz/gewalt-bundeslaender-melden-deutlichen-anstieg-haeuslicher-gewalt](https://www.spiegel.de/panorama/justiz/gewalt-bundeslaender-melden-deutlichen-anstieg-haeuslicher-gewalt-a-2520e9a3-7ee0-43e0-8a8e-1e6dd1176587#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/schoeninger-speere-die-aeltesten-vollstaendig-erhaltenen-jagdwaffen-der-welt-sind-vielleicht-doch-nicht-so-alt](https://www.spiegel.de/wissenschaft/mensch/schoeninger-speere-die-aeltesten-vollstaendig-erhaltenen-jagdwaffen-der-welt-sind-vielleicht-doch-nicht-so-alt-a-f9525134-92ac-4bb6-806e-25686ed53077#ref=rss)
+### welt
+
+* [https://www.spiegel.de/wissenschaft/mensch/schoeninger-speere-die-aeltesten-vollstaendig-erhaltenen-jagdwaffen-der-welt-sind-vielleicht-doch-nicht-so-alt](https://www.spiegel.de/wissenschaft/mensch/schoeninger-speere-die-aeltesten-vollstaendig-erhaltenen-jagdwaffen-der-welt-sind-vielleicht-doch-nicht-so-alt-a-f9525134-92ac-4bb6-806e-25686ed53077#ref=rss)
+* [https://www.spiegel.de/panorama/panama-in-zeiten-von-donald-trump-und-den-zoellen-im-land-der-schleuser](https://www.spiegel.de/panorama/panama-in-zeiten-von-donald-trump-und-den-zoellen-im-land-der-schleuser-a-588afa2b-38c8-4889-877d-557b41de72f4#ref=rss)
+### fordern
+
+* [https://www.spiegel.de/ausland/gaza-eu-fraktionsvorsitzende-fordern-aufhebung-der-hilfsgueter-blockade](https://www.spiegel.de/ausland/gaza-eu-fraktionsvorsitzende-fordern-aufhebung-der-hilfsgueter-blockade-a-53931ebf-c4cd-48cd-a75b-3da6e2516594#ref=rss)
+### kyjiw
+
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-friedrich-merz-ist-zusammen-mit-emmanuel-macron-und-keir-starmer-unterwegs-nach-kyjiw](https://www.spiegel.de/ausland/krieg-in-der-ukraine-friedrich-merz-ist-zusammen-mit-emmanuel-macron-und-keir-starmer-unterwegs-nach-kyjiw-a-05d27572-a638-49b8-b350-0e323b70c648#ref=rss)
+### kanzler
+
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-friedrich-merz-ist-zusammen-mit-emmanuel-macron-und-keir-starmer-unterwegs-nach-kyjiw](https://www.spiegel.de/ausland/krieg-in-der-ukraine-friedrich-merz-ist-zusammen-mit-emmanuel-macron-und-keir-starmer-unterwegs-nach-kyjiw-a-05d27572-a638-49b8-b350-0e323b70c648#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/klimaschutz-unter-friedrich-merz-erinnert-an-angela-merkel](https://www.spiegel.de/wissenschaft/mensch/klimaschutz-unter-friedrich-merz-erinnert-an-angela-merkel-a-342b4ddd-cd75-4cd5-a244-1ba3d493a969#ref=rss)
+### selbst
+
+* [https://www.spiegel.de/panorama/leute/leo-xiv-der-neue-papst-ist-fussball-und-baseballfan](https://www.spiegel.de/panorama/leute/leo-xiv-der-neue-papst-ist-fussball-und-baseballfan-a-f41ad0e1-9701-423f-a218-8acd03910d44#ref=rss)
+* [https://www.spiegel.de/auto/fahrberichte/byd-atto-2-fahrbericht-car-aoke-hoeren-sie-selbst](https://www.spiegel.de/auto/fahrberichte/byd-atto-2-fahrbericht-car-aoke-hoeren-sie-selbst-a-51c2ef18-5a39-415b-974f-5dc613617b40#ref=rss)
+### byd
+
+* [https://www.spiegel.de/auto/fahrberichte/byd-atto-2-fahrbericht-car-aoke-hoeren-sie-selbst](https://www.spiegel.de/auto/fahrberichte/byd-atto-2-fahrbericht-car-aoke-hoeren-sie-selbst-a-51c2ef18-5a39-415b-974f-5dc613617b40#ref=rss)
+### atto
+
+* [https://www.spiegel.de/auto/fahrberichte/byd-atto-2-fahrbericht-car-aoke-hoeren-sie-selbst](https://www.spiegel.de/auto/fahrberichte/byd-atto-2-fahrbericht-car-aoke-hoeren-sie-selbst-a-51c2ef18-5a39-415b-974f-5dc613617b40#ref=rss)
+### 2
+
+* [https://www.spiegel.de/auto/fahrberichte/byd-atto-2-fahrbericht-car-aoke-hoeren-sie-selbst](https://www.spiegel.de/auto/fahrberichte/byd-atto-2-fahrbericht-car-aoke-hoeren-sie-selbst-a-51c2ef18-5a39-415b-974f-5dc613617b40#ref=rss)
+### schlechte
+
+* [https://www.spiegel.de/familie/schlechte-tage-mit-kindern-das-hilft](https://www.spiegel.de/familie/schlechte-tage-mit-kindern-das-hilft-a-13d882b6-d3bf-446e-9e8f-c4e9b76a50b2#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/klimaschutz-unter-friedrich-merz-erinnert-an-angela-merkel](https://www.spiegel.de/wissenschaft/mensch/klimaschutz-unter-friedrich-merz-erinnert-an-angela-merkel-a-342b4ddd-cd75-4cd5-a244-1ba3d493a969#ref=rss)
+### geflüchteten
+
+* [https://www.spiegel.de/ausland/traumaberatung-bei-gefluechteten-strom-zum-dorfpreis-nur-gute-nachrichten](https://www.spiegel.de/ausland/traumaberatung-bei-gefluechteten-strom-zum-dorfpreis-nur-gute-nachrichten-a-fc2898f5-2611-4b24-b927-666ceca285e7#ref=rss)
+### nachrichten
+
+* [https://www.spiegel.de/ausland/traumaberatung-bei-gefluechteten-strom-zum-dorfpreis-nur-gute-nachrichten](https://www.spiegel.de/ausland/traumaberatung-bei-gefluechteten-strom-zum-dorfpreis-nur-gute-nachrichten-a-fc2898f5-2611-4b24-b927-666ceca285e7#ref=rss)
+### kampf
+
+* [https://www.spiegel.de/ausland/papst-leo-xiv-wird-er-den-kampf-gegen-rechtspopulismus-fortsetzen](https://www.spiegel.de/ausland/papst-leo-xiv-wird-er-den-kampf-gegen-rechtspopulismus-fortsetzen-a-1821754b-af78-419c-a50e-b6ad97d9a6f5#ref=rss)
+### rechtspopulismus
+
+* [https://www.spiegel.de/ausland/papst-leo-xiv-wird-er-den-kampf-gegen-rechtspopulismus-fortsetzen](https://www.spiegel.de/ausland/papst-leo-xiv-wird-er-den-kampf-gegen-rechtspopulismus-fortsetzen-a-1821754b-af78-419c-a50e-b6ad97d9a6f5#ref=rss)
+### panamakanal
+
+* [https://www.spiegel.de/panorama/panama-in-zeiten-von-donald-trump-und-den-zoellen-im-land-der-schleuser](https://www.spiegel.de/panorama/panama-in-zeiten-von-donald-trump-und-den-zoellen-im-land-der-schleuser-a-588afa2b-38c8-4889-877d-557b41de72f4#ref=rss)
+### klingbeil
+
+* [https://www.spiegel.de/politik/deutschland/news-margot-friedlaender-leo-xiv-lars-klingbeil-billie-eilish](https://www.spiegel.de/politik/deutschland/news-margot-friedlaender-leo-xiv-lars-klingbeil-billie-eilish-a-7d3ef26f-796f-46d9-aae2-683a1b6f7bff#ref=rss)
+### sehr
+
+* [https://www.spiegel.de/panorama/ueber-die-liebe-zu-spassgetraenken-und-es-macht-zzzzzzischhhhh](https://www.spiegel.de/panorama/ueber-die-liebe-zu-spassgetraenken-und-es-macht-zzzzzzischhhhh-a-888f6665-eee3-4e9e-ad04-942f6aa13091#ref=rss)
 
