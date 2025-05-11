@@ -4,344 +4,355 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### trump
+### papst
 
-* [https://www.spiegel.de/ausland/russland-in-putins-propaganda-hat-europa-die-usa-als-gefaehrlichsten-feind-abgeloest](https://www.spiegel.de/ausland/russland-in-putins-propaganda-hat-europa-die-usa-als-gefaehrlichsten-feind-abgeloest-a-7064e8a4-266a-47b6-9ba2-34394cc030d6#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-kanzler-merz-und-internationale-delegation-in-kyjiw-fuer-waffenstillstand](https://www.spiegel.de/ausland/ukraine-kanzler-merz-und-internationale-delegation-in-kyjiw-fuer-waffenstillstand-a-91676da9-d84c-42f1-891f-053198fa86fb#ref=rss)
-* [https://www.spiegel.de/kultur/tv/exterritorial-und-havoc-bei-netflix-der-action-b-movie-ist-nicht-totzukriegen](https://www.spiegel.de/kultur/tv/exterritorial-und-havoc-bei-netflix-der-action-b-movie-ist-nicht-totzukriegen-a-3712e4ad-3a34-4ab2-b9f6-316c0dbb2c9b#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/reddit-managerin-jen-wong-ueber-den-boom-der-plattform-donald-trump-und-schaetze-fuer-die-ki](https://www.spiegel.de/netzwelt/netzpolitik/reddit-managerin-jen-wong-ueber-den-boom-der-plattform-donald-trump-und-schaetze-fuer-die-ki-a-d618de9a-c1a6-4dd1-b5bf-d4563303bac3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/softwarekonzern-sap-streicht-wegen-trump-offenbar-ziel-fuer-geschlechtervielfalt](https://www.spiegel.de/wirtschaft/softwarekonzern-sap-streicht-wegen-trump-offenbar-ziel-fuer-geschlechtervielfalt-a-573d831f-a621-4b4b-8447-b7ac0e8f2a44#ref=rss)
-### leben
+* [https://www.spiegel.de/ausland/papst-leo-xiv-fordert-frieden-in-der-ukraine-und-in-gaza](https://www.spiegel.de/ausland/papst-leo-xiv-fordert-frieden-in-der-ukraine-und-in-gaza-a-a3b3b545-b365-4743-9880-e2156a6535be#ref=rss)
+* [https://www.spiegel.de/panorama/papst-leo-xiv-erstes-oeffentliches-gebet-hier-im-livestream](https://www.spiegel.de/panorama/papst-leo-xiv-erstes-oeffentliches-gebet-hier-im-livestream-a-46beaaf6-04ef-4d9c-8884-509bc023be14#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-die-lage-am-sonntag-zweiter-wahlgang-bei-kanzlerwahl-die-linke-neuer-papst](https://www.spiegel.de/politik/deutschland/news-die-lage-am-sonntag-zweiter-wahlgang-bei-kanzlerwahl-die-linke-neuer-papst-a-5e8acd17-2b87-473f-b21e-54454e2c0f11#ref=rss)
+### leo
 
-* [https://www.spiegel.de/kultur/jennifer-weist-misogynie-und-sexualisierte-gewalt-ziehen-sich-wie-ein-roter-faden-durch-mein-leben](https://www.spiegel.de/kultur/jennifer-weist-misogynie-und-sexualisierte-gewalt-ziehen-sich-wie-ein-roter-faden-durch-mein-leben-a-40ef6524-cf95-4ce7-ae77-71c3b18c15a4#ref=rss)
-* [https://www.spiegel.de/kultur/sie-war-der-lebende-beweis-dass-es-versoehnung-geben-kann](https://www.spiegel.de/kultur/sie-war-der-lebende-beweis-dass-es-versoehnung-geben-kann-a-9f947223-577e-405b-ac79-54a39b8c32cd#ref=rss)
-* [https://www.spiegel.de/panorama/margot-friedlaender-ihr-bewegtes-leben-im-video](https://www.spiegel.de/panorama/margot-friedlaender-ihr-bewegtes-leben-im-video-a-b1a3957b-2ba5-47ca-b684-a3b3b41f9729#ref=rss)
-### gestorben
+* [https://www.spiegel.de/ausland/papst-leo-xiv-fordert-frieden-in-der-ukraine-und-in-gaza](https://www.spiegel.de/ausland/papst-leo-xiv-fordert-frieden-in-der-ukraine-und-in-gaza-a-a3b3b545-b365-4743-9880-e2156a6535be#ref=rss)
+* [https://www.spiegel.de/panorama/papst-leo-xiv-erstes-oeffentliches-gebet-hier-im-livestream](https://www.spiegel.de/panorama/papst-leo-xiv-erstes-oeffentliches-gebet-hier-im-livestream-a-46beaaf6-04ef-4d9c-8884-509bc023be14#ref=rss)
+* [https://www.spiegel.de/panorama/missbrauchsexperte-ueber-leo-xiv-und-vertuschungsvorwuerfe](https://www.spiegel.de/panorama/missbrauchsexperte-ueber-leo-xiv-und-vertuschungsvorwuerfe-a-c22a298a-0c0d-4654-b8d6-a702db66e7c6#ref=rss)
+### xiv
 
-* [https://www.spiegel.de/kultur/koyo-kouoh-kuratorin-der-kunstbiennale-im-alter-von-57-jahren-gestorben](https://www.spiegel.de/kultur/koyo-kouoh-kuratorin-der-kunstbiennale-im-alter-von-57-jahren-gestorben-a-091ae178-fdfb-4866-898a-31efd1082bd6#ref=rss)
-* [https://www.spiegel.de/panorama/bayesian-bergung-der-superjacht-nach-tod-eines-tauchers-ausgesetzt](https://www.spiegel.de/panorama/bayesian-bergung-der-superjacht-nach-tod-eines-tauchers-ausgesetzt-a-60f93b78-e4aa-48a0-8857-5f09961a3814#ref=rss)
-* [https://www.spiegel.de/ausland/simon-mann-britischer-soeldner-ist-tot](https://www.spiegel.de/ausland/simon-mann-britischer-soeldner-ist-tot-a-0dd861a1-77d4-41b5-a584-c6bd0faf18b2#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/ukraine-kanzler-merz-und-internationale-delegation-in-kyjiw-fuer-waffenstillstand](https://www.spiegel.de/ausland/ukraine-kanzler-merz-und-internationale-delegation-in-kyjiw-fuer-waffenstillstand-a-91676da9-d84c-42f1-891f-053198fa86fb#ref=rss)
-* [https://www.spiegel.de/kultur/tv/exterritorial-und-havoc-bei-netflix-der-action-b-movie-ist-nicht-totzukriegen](https://www.spiegel.de/kultur/tv/exterritorial-und-havoc-bei-netflix-der-action-b-movie-ist-nicht-totzukriegen-a-3712e4ad-3a34-4ab2-b9f6-316c0dbb2c9b#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/reddit-managerin-jen-wong-ueber-den-boom-der-plattform-donald-trump-und-schaetze-fuer-die-ki](https://www.spiegel.de/netzwelt/netzpolitik/reddit-managerin-jen-wong-ueber-den-boom-der-plattform-donald-trump-und-schaetze-fuer-die-ki-a-d618de9a-c1a6-4dd1-b5bf-d4563303bac3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/softwarekonzern-sap-streicht-wegen-trump-offenbar-ziel-fuer-geschlechtervielfalt](https://www.spiegel.de/wirtschaft/softwarekonzern-sap-streicht-wegen-trump-offenbar-ziel-fuer-geschlechtervielfalt-a-573d831f-a621-4b4b-8447-b7ac0e8f2a44#ref=rss)
-### jan
-
-* [https://www.spiegel.de/sport/fussball/jan-ullrich-meldet-sich-nach-unfall-aus-dem-krankenbett](https://www.spiegel.de/sport/fussball/jan-ullrich-meldet-sich-nach-unfall-aus-dem-krankenbett-a-7758b994-ae07-4252-a326-1bc6c756b57b#ref=rss)
-* [https://www.spiegel.de/panorama/rheinmetall-jan-van-aken-kritisiert-profite-aus-ruestungsaktien](https://www.spiegel.de/panorama/rheinmetall-jan-van-aken-kritisiert-profite-aus-ruestungsaktien-a-129b3233-bcbd-4356-a33e-9145b5e4acb7#ref=rss)
-### jennifer
-
-* [https://www.spiegel.de/kultur/jennifer-weist-misogynie-und-sexualisierte-gewalt-ziehen-sich-wie-ein-roter-faden-durch-mein-leben](https://www.spiegel.de/kultur/jennifer-weist-misogynie-und-sexualisierte-gewalt-ziehen-sich-wie-ein-roter-faden-durch-mein-leben-a-40ef6524-cf95-4ce7-ae77-71c3b18c15a4#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/kultur/koyo-kouoh-kuratorin-der-kunstbiennale-im-alter-von-57-jahren-gestorben](https://www.spiegel.de/kultur/koyo-kouoh-kuratorin-der-kunstbiennale-im-alter-von-57-jahren-gestorben-a-091ae178-fdfb-4866-898a-31efd1082bd6#ref=rss)
-* [https://www.spiegel.de/panorama/margot-friedlaender-ihr-bewegtes-leben-im-video](https://www.spiegel.de/panorama/margot-friedlaender-ihr-bewegtes-leben-im-video-a-b1a3957b-2ba5-47ca-b684-a3b3b41f9729#ref=rss)
-* [https://www.spiegel.de/deinspiegel/die-bernstein-detektivin-so-arbeitet-eine-palaeobotanikerin-fuer-kinder-erklaert](https://www.spiegel.de/deinspiegel/die-bernstein-detektivin-so-arbeitet-eine-palaeobotanikerin-fuer-kinder-erklaert-a-f0854659-d479-4c25-add4-2170115ea873#ref=rss)
-### ziel
-
-* [https://www.spiegel.de/ausland/ukraine-kanzler-merz-und-internationale-delegation-in-kyjiw-fuer-waffenstillstand](https://www.spiegel.de/ausland/ukraine-kanzler-merz-und-internationale-delegation-in-kyjiw-fuer-waffenstillstand-a-91676da9-d84c-42f1-891f-053198fa86fb#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/abgestuerzte-raumsonde-kosmos-482-warum-die-venus-so-viele-geheimnisse-hat](https://www.spiegel.de/wissenschaft/weltall/abgestuerzte-raumsonde-kosmos-482-warum-die-venus-so-viele-geheimnisse-hat-a-37c73969-ec31-4f33-aecb-bc716f3c5664#ref=rss)
-* [https://www.spiegel.de/wirtschaft/softwarekonzern-sap-streicht-wegen-trump-offenbar-ziel-fuer-geschlechtervielfalt](https://www.spiegel.de/wirtschaft/softwarekonzern-sap-streicht-wegen-trump-offenbar-ziel-fuer-geschlechtervielfalt-a-573d831f-a621-4b4b-8447-b7ac0e8f2a44#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/panorama/leute/unterwegs-mit-berlins-haertestem-kammerjaeger-wo-keiner-mehr-rein-will-spiegel-tv](https://www.spiegel.de/panorama/leute/unterwegs-mit-berlins-haertestem-kammerjaeger-wo-keiner-mehr-rein-will-spiegel-tv-a-39c1b5da-99a5-4370-a0e4-f9eb6859ada0#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung/yoga-uebungen-fuer-mehr-beweglichkeit-bei-ungelenkigen-podcast-mit-friederike-reumann](https://www.spiegel.de/gesundheit/ernaehrung/yoga-uebungen-fuer-mehr-beweglichkeit-bei-ungelenkigen-podcast-mit-friederike-reumann-a-f4059498-851f-4409-806e-ccb5d3447d52#ref=rss)
-* [https://www.spiegel.de/wirtschaft/softwarekonzern-sap-streicht-wegen-trump-offenbar-ziel-fuer-geschlechtervielfalt](https://www.spiegel.de/wirtschaft/softwarekonzern-sap-streicht-wegen-trump-offenbar-ziel-fuer-geschlechtervielfalt-a-573d831f-a621-4b4b-8447-b7ac0e8f2a44#ref=rss)
-### margot
-
-* [https://www.spiegel.de/kultur/sie-war-der-lebende-beweis-dass-es-versoehnung-geben-kann](https://www.spiegel.de/kultur/sie-war-der-lebende-beweis-dass-es-versoehnung-geben-kann-a-9f947223-577e-405b-ac79-54a39b8c32cd#ref=rss)
-* [https://www.spiegel.de/panorama/margot-friedlaender-ihr-bewegtes-leben-im-video](https://www.spiegel.de/panorama/margot-friedlaender-ihr-bewegtes-leben-im-video-a-b1a3957b-2ba5-47ca-b684-a3b3b41f9729#ref=rss)
-### friedländer
-
-* [https://www.spiegel.de/kultur/sie-war-der-lebende-beweis-dass-es-versoehnung-geben-kann](https://www.spiegel.de/kultur/sie-war-der-lebende-beweis-dass-es-versoehnung-geben-kann-a-9f947223-577e-405b-ac79-54a39b8c32cd#ref=rss)
-* [https://www.spiegel.de/panorama/margot-friedlaender-ihr-bewegtes-leben-im-video](https://www.spiegel.de/panorama/margot-friedlaender-ihr-bewegtes-leben-im-video-a-b1a3957b-2ba5-47ca-b684-a3b3b41f9729#ref=rss)
-### unfall
-
-* [https://www.spiegel.de/sport/fussball/jan-ullrich-meldet-sich-nach-unfall-aus-dem-krankenbett](https://www.spiegel.de/sport/fussball/jan-ullrich-meldet-sich-nach-unfall-aus-dem-krankenbett-a-7758b994-ae07-4252-a326-1bc6c756b57b#ref=rss)
-* [https://www.spiegel.de/panorama/a81-bei-ditzingen-fahrer-fluechtet-nach-unfall-mit-luxus-sportwagen](https://www.spiegel.de/panorama/a81-bei-ditzingen-fahrer-fluechtet-nach-unfall-mit-luxus-sportwagen-a-06463386-6b38-4688-926d-2c0a792088e0#ref=rss)
-### alte
-
-* [https://www.spiegel.de/politik/deutschland/die-linke-parteitag-in-chemnitz-zeigt-neue-staerke-und-alte-konflikte](https://www.spiegel.de/politik/deutschland/die-linke-parteitag-in-chemnitz-zeigt-neue-staerke-und-alte-konflikte-a-d2a1ac25-940c-4906-bdbe-e9cb3e102400#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/reddit-managerin-jen-wong-ueber-den-boom-der-plattform-donald-trump-und-schaetze-fuer-die-ki](https://www.spiegel.de/netzwelt/netzpolitik/reddit-managerin-jen-wong-ueber-den-boom-der-plattform-donald-trump-und-schaetze-fuer-die-ki-a-d618de9a-c1a6-4dd1-b5bf-d4563303bac3#ref=rss)
+* [https://www.spiegel.de/ausland/papst-leo-xiv-fordert-frieden-in-der-ukraine-und-in-gaza](https://www.spiegel.de/ausland/papst-leo-xiv-fordert-frieden-in-der-ukraine-und-in-gaza-a-a3b3b545-b365-4743-9880-e2156a6535be#ref=rss)
+* [https://www.spiegel.de/panorama/papst-leo-xiv-erstes-oeffentliches-gebet-hier-im-livestream](https://www.spiegel.de/panorama/papst-leo-xiv-erstes-oeffentliches-gebet-hier-im-livestream-a-46beaaf6-04ef-4d9c-8884-509bc023be14#ref=rss)
+* [https://www.spiegel.de/panorama/missbrauchsexperte-ueber-leo-xiv-und-vertuschungsvorwuerfe](https://www.spiegel.de/panorama/missbrauchsexperte-ueber-leo-xiv-und-vertuschungsvorwuerfe-a-c22a298a-0c0d-4654-b8d6-a702db66e7c6#ref=rss)
 ### zwei
 
-* [https://www.spiegel.de/panorama/rheinmetall-jan-van-aken-kritisiert-profite-aus-ruestungsaktien](https://www.spiegel.de/panorama/rheinmetall-jan-van-aken-kritisiert-profite-aus-ruestungsaktien-a-129b3233-bcbd-4356-a33e-9145b5e4acb7#ref=rss)
-* [https://www.spiegel.de/panorama/a81-bei-ditzingen-fahrer-fluechtet-nach-unfall-mit-luxus-sportwagen](https://www.spiegel.de/panorama/a81-bei-ditzingen-fahrer-fluechtet-nach-unfall-mit-luxus-sportwagen-a-06463386-6b38-4688-926d-2c0a792088e0#ref=rss)
-* [https://www.spiegel.de/kultur/tv/exterritorial-und-havoc-bei-netflix-der-action-b-movie-ist-nicht-totzukriegen](https://www.spiegel.de/kultur/tv/exterritorial-und-havoc-bei-netflix-der-action-b-movie-ist-nicht-totzukriegen-a-3712e4ad-3a34-4ab2-b9f6-316c0dbb2c9b#ref=rss)
-### bundesliga
+* [https://www.spiegel.de/panorama/daenische-koenigin-margrethe-nach-zwei-tagen-aus-krankenhaus-entlassen](https://www.spiegel.de/panorama/daenische-koenigin-margrethe-nach-zwei-tagen-aus-krankenhaus-entlassen-a-a6535ddc-a27a-49b6-945f-9dc0000f2a1e#ref=rss)
+* [https://www.spiegel.de/sport/fussball/atletico-madrid-ex-leipziger-alexander-sorloth-bricht-zwei-hattrick-rekorde](https://www.spiegel.de/sport/fussball/atletico-madrid-ex-leipziger-alexander-sorloth-bricht-zwei-hattrick-rekorde-a-654f4caa-c9c5-4da1-a16e-57d0346a38f3#ref=rss)
+* [https://www.spiegel.de/ausland/kaschmir-konflikt-donald-trump-als-friedensstifter-zwischen-atommaechten](https://www.spiegel.de/ausland/kaschmir-konflikt-donald-trump-als-friedensstifter-zwischen-atommaechten-a-b8775950-cd41-47e3-ab20-2875e68b834d#ref=rss)
+### donald
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-bochum-und-holstein-kiel-muessen-absteigen](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-bochum-und-holstein-kiel-muessen-absteigen-a-6c1a0d8f-aa09-46eb-a9bb-535dfa7826d1#ref=rss)
-* [https://www.spiegel.de/sport/fussball/3-liga-arminia-bielefeld-und-dynamo-dresden-steigen-in-2-bundesliga-auf](https://www.spiegel.de/sport/fussball/3-liga-arminia-bielefeld-und-dynamo-dresden-steigen-in-2-bundesliga-auf-a-aad90eff-7f60-4caa-bad5-d955d8a4f065#ref=rss)
-### anderen
+* [https://www.spiegel.de/ausland/kaschmir-konflikt-donald-trump-als-friedensstifter-zwischen-atommaechten](https://www.spiegel.de/ausland/kaschmir-konflikt-donald-trump-als-friedensstifter-zwischen-atommaechten-a-b8775950-cd41-47e3-ab20-2875e68b834d#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/proteste-am-muttertag-familienzusammenfuehrung-an-us-grenze-zu-mexiko-abgesagt](https://www.spiegel.de/panorama/gesellschaft/proteste-am-muttertag-familienzusammenfuehrung-an-us-grenze-zu-mexiko-abgesagt-a-d117bf98-7551-4bb5-a16f-3edc3cb3c468#ref=rss)
+* [https://www.spiegel.de/ausland/usa-gehen-mit-maximalforderung-in-atomverhandlungen-mit-iran](https://www.spiegel.de/ausland/usa-gehen-mit-maximalforderung-in-atomverhandlungen-mit-iran-a-947fb6a0-b557-4e77-bbcc-73493d275b9f#ref=rss)
+### wadephul
 
-* [https://www.spiegel.de/sport/fussball/3-liga-arminia-bielefeld-und-dynamo-dresden-steigen-in-2-bundesliga-auf](https://www.spiegel.de/sport/fussball/3-liga-arminia-bielefeld-und-dynamo-dresden-steigen-in-2-bundesliga-auf-a-aad90eff-7f60-4caa-bad5-d955d8a4f065#ref=rss)
-* [https://www.spiegel.de/start/rapper-majan-ueber-sein-adhs-ich-hielt-mich-fuer-faul-dabei-funktioniere-ich-einfach-nur-anders](https://www.spiegel.de/start/rapper-majan-ueber-sein-adhs-ich-hielt-mich-fuer-faul-dabei-funktioniere-ich-einfach-nur-anders-a-b2e5c0e2-3921-44f3-968a-8be883bc3ab2#ref=rss)
-* [https://www.spiegel.de/panorama/a81-bei-ditzingen-fahrer-fluechtet-nach-unfall-mit-luxus-sportwagen](https://www.spiegel.de/panorama/a81-bei-ditzingen-fahrer-fluechtet-nach-unfall-mit-luxus-sportwagen-a-06463386-6b38-4688-926d-2c0a792088e0#ref=rss)
-### mann
-
-* [https://www.spiegel.de/ausland/simon-mann-britischer-soeldner-ist-tot](https://www.spiegel.de/ausland/simon-mann-britischer-soeldner-ist-tot-a-0dd861a1-77d4-41b5-a584-c6bd0faf18b2#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/kleinanzeigen-und-ebay-so-laesst-sich-dreiecksbetrug-bei-onlinekaeufen-verhindern](https://www.spiegel.de/netzwelt/web/kleinanzeigen-und-ebay-so-laesst-sich-dreiecksbetrug-bei-onlinekaeufen-verhindern-a-f44c14af-c6d4-43bc-be20-af310a9c2faa#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/solingen-vierfachmord-bei-brandanschlag-zuendelte-daniel-s-aus-rassismus](https://www.spiegel.de/panorama/justiz/solingen-vierfachmord-bei-brandanschlag-zuendelte-daniel-s-aus-rassismus-a-b51f04e4-06aa-41ff-9f13-54e977c9524c#ref=rss)
-### eishockeywm
-
-* [https://www.spiegel.de/sport/eishockey/eishockey-wm-deutsches-team-feiert-zum-auftakt-pflichtsieg-gegen-ungarn](https://www.spiegel.de/sport/eishockey/eishockey-wm-deutsches-team-feiert-zum-auftakt-pflichtsieg-gegen-ungarn-a-09b4435b-1b39-4be2-b6dd-e81b178a932d#ref=rss)
-### team
-
-* [https://www.spiegel.de/sport/eishockey/eishockey-wm-deutsches-team-feiert-zum-auftakt-pflichtsieg-gegen-ungarn](https://www.spiegel.de/sport/eishockey/eishockey-wm-deutsches-team-feiert-zum-auftakt-pflichtsieg-gegen-ungarn-a-09b4435b-1b39-4be2-b6dd-e81b178a932d#ref=rss)
-* [https://www.spiegel.de/panorama/rheinmetall-jan-van-aken-kritisiert-profite-aus-ruestungsaktien](https://www.spiegel.de/panorama/rheinmetall-jan-van-aken-kritisiert-profite-aus-ruestungsaktien-a-129b3233-bcbd-4356-a33e-9145b5e4acb7#ref=rss)
-### feiert
-
-* [https://www.spiegel.de/sport/eishockey/eishockey-wm-deutsches-team-feiert-zum-auftakt-pflichtsieg-gegen-ungarn](https://www.spiegel.de/sport/eishockey/eishockey-wm-deutsches-team-feiert-zum-auftakt-pflichtsieg-gegen-ungarn-a-09b4435b-1b39-4be2-b6dd-e81b178a932d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/die-linke-parteitag-in-chemnitz-zeigt-neue-staerke-und-alte-konflikte](https://www.spiegel.de/politik/deutschland/die-linke-parteitag-in-chemnitz-zeigt-neue-staerke-und-alte-konflikte-a-d2a1ac25-940c-4906-bdbe-e9cb3e102400#ref=rss)
-### ungarn
-
-* [https://www.spiegel.de/sport/eishockey/eishockey-wm-deutsches-team-feiert-zum-auftakt-pflichtsieg-gegen-ungarn](https://www.spiegel.de/sport/eishockey/eishockey-wm-deutsches-team-feiert-zum-auftakt-pflichtsieg-gegen-ungarn-a-09b4435b-1b39-4be2-b6dd-e81b178a932d#ref=rss)
-### weist
-
-* [https://www.spiegel.de/kultur/jennifer-weist-misogynie-und-sexualisierte-gewalt-ziehen-sich-wie-ein-roter-faden-durch-mein-leben](https://www.spiegel.de/kultur/jennifer-weist-misogynie-und-sexualisierte-gewalt-ziehen-sich-wie-ein-roter-faden-durch-mein-leben-a-40ef6524-cf95-4ce7-ae77-71c3b18c15a4#ref=rss)
-### später
-
-* [https://www.spiegel.de/kultur/jennifer-weist-misogynie-und-sexualisierte-gewalt-ziehen-sich-wie-ein-roter-faden-durch-mein-leben](https://www.spiegel.de/kultur/jennifer-weist-misogynie-und-sexualisierte-gewalt-ziehen-sich-wie-ein-roter-faden-durch-mein-leben-a-40ef6524-cf95-4ce7-ae77-71c3b18c15a4#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/kleinanzeigen-und-ebay-so-laesst-sich-dreiecksbetrug-bei-onlinekaeufen-verhindern](https://www.spiegel.de/netzwelt/web/kleinanzeigen-und-ebay-so-laesst-sich-dreiecksbetrug-bei-onlinekaeufen-verhindern-a-f44c14af-c6d4-43bc-be20-af310a9c2faa#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/kultur/jennifer-weist-misogynie-und-sexualisierte-gewalt-ziehen-sich-wie-ein-roter-faden-durch-mein-leben](https://www.spiegel.de/kultur/jennifer-weist-misogynie-und-sexualisierte-gewalt-ziehen-sich-wie-ein-roter-faden-durch-mein-leben-a-40ef6524-cf95-4ce7-ae77-71c3b18c15a4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-nrw-basis-kritisiert-klingbeils-aemterhaeufung](https://www.spiegel.de/politik/deutschland/spd-nrw-basis-kritisiert-klingbeils-aemterhaeufung-a-ad3cfa9d-8d2a-44af-a3bf-378afd251a95#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/russland-in-putins-propaganda-hat-europa-die-usa-als-gefaehrlichsten-feind-abgeloest](https://www.spiegel.de/ausland/russland-in-putins-propaganda-hat-europa-die-usa-als-gefaehrlichsten-feind-abgeloest-a-7064e8a4-266a-47b6-9ba2-34394cc030d6#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-kanzler-merz-und-internationale-delegation-in-kyjiw-fuer-waffenstillstand](https://www.spiegel.de/ausland/ukraine-kanzler-merz-und-internationale-delegation-in-kyjiw-fuer-waffenstillstand-a-91676da9-d84c-42f1-891f-053198fa86fb#ref=rss)
-### putins
-
-* [https://www.spiegel.de/ausland/russland-in-putins-propaganda-hat-europa-die-usa-als-gefaehrlichsten-feind-abgeloest](https://www.spiegel.de/ausland/russland-in-putins-propaganda-hat-europa-die-usa-als-gefaehrlichsten-feind-abgeloest-a-7064e8a4-266a-47b6-9ba2-34394cc030d6#ref=rss)
-### propaganda
-
-* [https://www.spiegel.de/ausland/russland-in-putins-propaganda-hat-europa-die-usa-als-gefaehrlichsten-feind-abgeloest](https://www.spiegel.de/ausland/russland-in-putins-propaganda-hat-europa-die-usa-als-gefaehrlichsten-feind-abgeloest-a-7064e8a4-266a-47b6-9ba2-34394cc030d6#ref=rss)
-### europa
-
-* [https://www.spiegel.de/ausland/russland-in-putins-propaganda-hat-europa-die-usa-als-gefaehrlichsten-feind-abgeloest](https://www.spiegel.de/ausland/russland-in-putins-propaganda-hat-europa-die-usa-als-gefaehrlichsten-feind-abgeloest-a-7064e8a4-266a-47b6-9ba2-34394cc030d6#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/russland-in-putins-propaganda-hat-europa-die-usa-als-gefaehrlichsten-feind-abgeloest](https://www.spiegel.de/ausland/russland-in-putins-propaganda-hat-europa-die-usa-als-gefaehrlichsten-feind-abgeloest-a-7064e8a4-266a-47b6-9ba2-34394cc030d6#ref=rss)
-### gefährlichsten
-
-* [https://www.spiegel.de/ausland/russland-in-putins-propaganda-hat-europa-die-usa-als-gefaehrlichsten-feind-abgeloest](https://www.spiegel.de/ausland/russland-in-putins-propaganda-hat-europa-die-usa-als-gefaehrlichsten-feind-abgeloest-a-7064e8a4-266a-47b6-9ba2-34394cc030d6#ref=rss)
-### feind
-
-* [https://www.spiegel.de/ausland/russland-in-putins-propaganda-hat-europa-die-usa-als-gefaehrlichsten-feind-abgeloest](https://www.spiegel.de/ausland/russland-in-putins-propaganda-hat-europa-die-usa-als-gefaehrlichsten-feind-abgeloest-a-7064e8a4-266a-47b6-9ba2-34394cc030d6#ref=rss)
-### abgelöst
-
-* [https://www.spiegel.de/ausland/russland-in-putins-propaganda-hat-europa-die-usa-als-gefaehrlichsten-feind-abgeloest](https://www.spiegel.de/ausland/russland-in-putins-propaganda-hat-europa-die-usa-als-gefaehrlichsten-feind-abgeloest-a-7064e8a4-266a-47b6-9ba2-34394cc030d6#ref=rss)
-### unter
-
-* [https://www.spiegel.de/ausland/russland-in-putins-propaganda-hat-europa-die-usa-als-gefaehrlichsten-feind-abgeloest](https://www.spiegel.de/ausland/russland-in-putins-propaganda-hat-europa-die-usa-als-gefaehrlichsten-feind-abgeloest-a-7064e8a4-266a-47b6-9ba2-34394cc030d6#ref=rss)
-* [https://www.spiegel.de/panorama/bayesian-bergung-der-superjacht-nach-tod-eines-tauchers-ausgesetzt](https://www.spiegel.de/panorama/bayesian-bergung-der-superjacht-nach-tod-eines-tauchers-ausgesetzt-a-60f93b78-e4aa-48a0-8857-5f09961a3814#ref=rss)
-### taylor
-
-* [https://www.spiegel.de/panorama/leute/taylor-swift-wehrt-sich-gegen-vorladung-im-lively-baldoni-streit](https://www.spiegel.de/panorama/leute/taylor-swift-wehrt-sich-gegen-vorladung-im-lively-baldoni-streit-a-554a7933-d400-412a-b326-e99fc0cf4049#ref=rss)
-### swift
-
-* [https://www.spiegel.de/panorama/leute/taylor-swift-wehrt-sich-gegen-vorladung-im-lively-baldoni-streit](https://www.spiegel.de/panorama/leute/taylor-swift-wehrt-sich-gegen-vorladung-im-lively-baldoni-streit-a-554a7933-d400-412a-b326-e99fc0cf4049#ref=rss)
-### nie
-
-* [https://www.spiegel.de/panorama/leute/taylor-swift-wehrt-sich-gegen-vorladung-im-lively-baldoni-streit](https://www.spiegel.de/panorama/leute/taylor-swift-wehrt-sich-gegen-vorladung-im-lively-baldoni-streit-a-554a7933-d400-412a-b326-e99fc0cf4049#ref=rss)
-* [https://www.spiegel.de/panorama/leute/unterwegs-mit-berlins-haertestem-kammerjaeger-wo-keiner-mehr-rein-will-spiegel-tv](https://www.spiegel.de/panorama/leute/unterwegs-mit-berlins-haertestem-kammerjaeger-wo-keiner-mehr-rein-will-spiegel-tv-a-39c1b5da-99a5-4370-a0e4-f9eb6859ada0#ref=rss)
-### koyo
-
-* [https://www.spiegel.de/kultur/koyo-kouoh-kuratorin-der-kunstbiennale-im-alter-von-57-jahren-gestorben](https://www.spiegel.de/kultur/koyo-kouoh-kuratorin-der-kunstbiennale-im-alter-von-57-jahren-gestorben-a-091ae178-fdfb-4866-898a-31efd1082bd6#ref=rss)
-### kouoh
-
-* [https://www.spiegel.de/kultur/koyo-kouoh-kuratorin-der-kunstbiennale-im-alter-von-57-jahren-gestorben](https://www.spiegel.de/kultur/koyo-kouoh-kuratorin-der-kunstbiennale-im-alter-von-57-jahren-gestorben-a-091ae178-fdfb-4866-898a-31efd1082bd6#ref=rss)
-### kanzler
-
-* [https://www.spiegel.de/ausland/ukraine-kanzler-merz-und-internationale-delegation-in-kyjiw-fuer-waffenstillstand](https://www.spiegel.de/ausland/ukraine-kanzler-merz-und-internationale-delegation-in-kyjiw-fuer-waffenstillstand-a-91676da9-d84c-42f1-891f-053198fa86fb#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/die-linke-parteitag-in-chemnitz-zeigt-neue-staerke-und-alte-konflikte](https://www.spiegel.de/politik/deutschland/die-linke-parteitag-in-chemnitz-zeigt-neue-staerke-und-alte-konflikte-a-d2a1ac25-940c-4906-bdbe-e9cb3e102400#ref=rss)
-### merz
-
-* [https://www.spiegel.de/ausland/ukraine-kanzler-merz-und-internationale-delegation-in-kyjiw-fuer-waffenstillstand](https://www.spiegel.de/ausland/ukraine-kanzler-merz-und-internationale-delegation-in-kyjiw-fuer-waffenstillstand-a-91676da9-d84c-42f1-891f-053198fa86fb#ref=rss)
-### kyjiw
-
-* [https://www.spiegel.de/ausland/ukraine-kanzler-merz-und-internationale-delegation-in-kyjiw-fuer-waffenstillstand](https://www.spiegel.de/ausland/ukraine-kanzler-merz-und-internationale-delegation-in-kyjiw-fuer-waffenstillstand-a-91676da9-d84c-42f1-891f-053198fa86fb#ref=rss)
-### waffenstillstand
-
-* [https://www.spiegel.de/ausland/ukraine-kanzler-merz-und-internationale-delegation-in-kyjiw-fuer-waffenstillstand](https://www.spiegel.de/ausland/ukraine-kanzler-merz-und-internationale-delegation-in-kyjiw-fuer-waffenstillstand-a-91676da9-d84c-42f1-891f-053198fa86fb#ref=rss)
-### kritisiert
-
-* [https://www.spiegel.de/politik/deutschland/spd-nrw-basis-kritisiert-klingbeils-aemterhaeufung](https://www.spiegel.de/politik/deutschland/spd-nrw-basis-kritisiert-klingbeils-aemterhaeufung-a-ad3cfa9d-8d2a-44af-a3bf-378afd251a95#ref=rss)
-* [https://www.spiegel.de/panorama/rheinmetall-jan-van-aken-kritisiert-profite-aus-ruestungsaktien](https://www.spiegel.de/panorama/rheinmetall-jan-van-aken-kritisiert-profite-aus-ruestungsaktien-a-129b3233-bcbd-4356-a33e-9145b5e4acb7#ref=rss)
-### giro
-
-* [https://www.spiegel.de/sport/giro-ditalia-primoz-roglic-uebernimmt-nach-dem-zeitfahren-die-fuehrung-im-gesamtklassement](https://www.spiegel.de/sport/giro-ditalia-primoz-roglic-uebernimmt-nach-dem-zeitfahren-die-fuehrung-im-gesamtklassement-a-b524f08c-cc20-4b9d-9c4a-224f4b3f433f#ref=rss)
-### d'italia
-
-* [https://www.spiegel.de/sport/giro-ditalia-primoz-roglic-uebernimmt-nach-dem-zeitfahren-die-fuehrung-im-gesamtklassement](https://www.spiegel.de/sport/giro-ditalia-primoz-roglic-uebernimmt-nach-dem-zeitfahren-die-fuehrung-im-gesamtklassement-a-b524f08c-cc20-4b9d-9c4a-224f4b3f433f#ref=rss)
-### roglič
-
-* [https://www.spiegel.de/sport/giro-ditalia-primoz-roglic-uebernimmt-nach-dem-zeitfahren-die-fuehrung-im-gesamtklassement](https://www.spiegel.de/sport/giro-ditalia-primoz-roglic-uebernimmt-nach-dem-zeitfahren-die-fuehrung-im-gesamtklassement-a-b524f08c-cc20-4b9d-9c4a-224f4b3f433f#ref=rss)
-### zeitfahren
-
-* [https://www.spiegel.de/sport/giro-ditalia-primoz-roglic-uebernimmt-nach-dem-zeitfahren-die-fuehrung-im-gesamtklassement](https://www.spiegel.de/sport/giro-ditalia-primoz-roglic-uebernimmt-nach-dem-zeitfahren-die-fuehrung-im-gesamtklassement-a-b524f08c-cc20-4b9d-9c4a-224f4b3f433f#ref=rss)
-### führung
-
-* [https://www.spiegel.de/sport/giro-ditalia-primoz-roglic-uebernimmt-nach-dem-zeitfahren-die-fuehrung-im-gesamtklassement](https://www.spiegel.de/sport/giro-ditalia-primoz-roglic-uebernimmt-nach-dem-zeitfahren-die-fuehrung-im-gesamtklassement-a-b524f08c-cc20-4b9d-9c4a-224f4b3f433f#ref=rss)
-### früh
-
-* [https://www.spiegel.de/sport/giro-ditalia-primoz-roglic-uebernimmt-nach-dem-zeitfahren-die-fuehrung-im-gesamtklassement](https://www.spiegel.de/sport/giro-ditalia-primoz-roglic-uebernimmt-nach-dem-zeitfahren-die-fuehrung-im-gesamtklassement-a-b524f08c-cc20-4b9d-9c4a-224f4b3f433f#ref=rss)
-* [https://www.spiegel.de/panorama/margot-friedlaender-ihr-bewegtes-leben-im-video](https://www.spiegel.de/panorama/margot-friedlaender-ihr-bewegtes-leben-im-video-a-b1a3957b-2ba5-47ca-b684-a3b3b41f9729#ref=rss)
-### dazu
-
-* [https://www.spiegel.de/sport/giro-ditalia-primoz-roglic-uebernimmt-nach-dem-zeitfahren-die-fuehrung-im-gesamtklassement](https://www.spiegel.de/sport/giro-ditalia-primoz-roglic-uebernimmt-nach-dem-zeitfahren-die-fuehrung-im-gesamtklassement-a-b524f08c-cc20-4b9d-9c4a-224f4b3f433f#ref=rss)
-* [https://www.spiegel.de/deinspiegel/die-bernstein-detektivin-so-arbeitet-eine-palaeobotanikerin-fuer-kinder-erklaert](https://www.spiegel.de/deinspiegel/die-bernstein-detektivin-so-arbeitet-eine-palaeobotanikerin-fuer-kinder-erklaert-a-f0854659-d479-4c25-add4-2170115ea873#ref=rss)
-### berlins
-
-* [https://www.spiegel.de/panorama/leute/unterwegs-mit-berlins-haertestem-kammerjaeger-wo-keiner-mehr-rein-will-spiegel-tv](https://www.spiegel.de/panorama/leute/unterwegs-mit-berlins-haertestem-kammerjaeger-wo-keiner-mehr-rein-will-spiegel-tv-a-39c1b5da-99a5-4370-a0e4-f9eb6859ada0#ref=rss)
-### superjacht
-
-* [https://www.spiegel.de/panorama/bayesian-bergung-der-superjacht-nach-tod-eines-tauchers-ausgesetzt](https://www.spiegel.de/panorama/bayesian-bergung-der-superjacht-nach-tod-eines-tauchers-ausgesetzt-a-60f93b78-e4aa-48a0-8857-5f09961a3814#ref=rss)
-### ullrich
-
-* [https://www.spiegel.de/sport/fussball/jan-ullrich-meldet-sich-nach-unfall-aus-dem-krankenbett](https://www.spiegel.de/sport/fussball/jan-ullrich-meldet-sich-nach-unfall-aus-dem-krankenbett-a-7758b994-ae07-4252-a326-1bc6c756b57b#ref=rss)
-### linke
-
-* [https://www.spiegel.de/politik/deutschland/die-linke-parteitag-in-chemnitz-zeigt-neue-staerke-und-alte-konflikte](https://www.spiegel.de/politik/deutschland/die-linke-parteitag-in-chemnitz-zeigt-neue-staerke-und-alte-konflikte-a-d2a1ac25-940c-4906-bdbe-e9cb3e102400#ref=rss)
+* [https://www.spiegel.de/politik/israel-besuch-wadephul-fordert-verstaerkten-kampf-gegen-antisemitismus](https://www.spiegel.de/politik/israel-besuch-wadephul-fordert-verstaerkten-kampf-gegen-antisemitismus-a-c5a5ac48-44db-481f-8fc3-997f90d1a7df#ref=rss)
+* [https://www.spiegel.de/politik/aussenminister-wadephul-zu-ostsee-sabotageakte-die-lage-ist-prekaer-das-ist-offenkundig](https://www.spiegel.de/politik/aussenminister-wadephul-zu-ostsee-sabotageakte-die-lage-ist-prekaer-das-ist-offenkundig-a-31ceab5b-fc77-418d-846b-7b9988f697ea#ref=rss)
 ### neue
 
-* [https://www.spiegel.de/politik/deutschland/die-linke-parteitag-in-chemnitz-zeigt-neue-staerke-und-alte-konflikte](https://www.spiegel.de/politik/deutschland/die-linke-parteitag-in-chemnitz-zeigt-neue-staerke-und-alte-konflikte-a-d2a1ac25-940c-4906-bdbe-e9cb3e102400#ref=rss)
-### neuen
+* [https://www.spiegel.de/politik/israel-besuch-wadephul-fordert-verstaerkten-kampf-gegen-antisemitismus](https://www.spiegel.de/politik/israel-besuch-wadephul-fordert-verstaerkten-kampf-gegen-antisemitismus-a-c5a5ac48-44db-481f-8fc3-997f90d1a7df#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/wohnkosten-deutsche-geben-ein-viertel-des-einkommens-fuer-wohnen-aus](https://www.spiegel.de/wirtschaft/soziales/wohnkosten-deutsche-geben-ein-viertel-des-einkommens-fuer-wohnen-aus-a-144bfc0a-0d7e-42fc-80df-9b887da693fb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/mindestlohn-baerbel-bas-erwaegt-gesetzliche-anhebung-auf-15-euro](https://www.spiegel.de/politik/deutschland/mindestlohn-baerbel-bas-erwaegt-gesetzliche-anhebung-auf-15-euro-a-3fd70897-02e7-4df2-bd83-5252f6f2881b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/hochzeit-trend-content-creatorin-wie-die-party-auf-tiktok-perfekt-aussieht](https://www.spiegel.de/wirtschaft/hochzeit-trend-content-creatorin-wie-die-party-auf-tiktok-perfekt-aussieht-a-cae6ae7b-5fdf-45d9-9d88-0209c8f8c545#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/politik/deutschland/die-linke-parteitag-in-chemnitz-zeigt-neue-staerke-und-alte-konflikte](https://www.spiegel.de/politik/deutschland/die-linke-parteitag-in-chemnitz-zeigt-neue-staerke-und-alte-konflikte-a-d2a1ac25-940c-4906-bdbe-e9cb3e102400#ref=rss)
-* [https://www.spiegel.de/start/rapper-majan-ueber-sein-adhs-ich-hielt-mich-fuer-faul-dabei-funktioniere-ich-einfach-nur-anders](https://www.spiegel.de/start/rapper-majan-ueber-sein-adhs-ich-hielt-mich-fuer-faul-dabei-funktioniere-ich-einfach-nur-anders-a-b2e5c0e2-3921-44f3-968a-8be883bc3ab2#ref=rss)
-### menden
+* [https://www.spiegel.de/panorama/justiz/japan-polizei-findet-tausende-lebende-krebse-im-gepaeck-von-chinesen](https://www.spiegel.de/panorama/justiz/japan-polizei-findet-tausende-lebende-krebse-im-gepaeck-von-chinesen-a-235ebda3-2d81-47b4-8103-808d6c7691c1#ref=rss)
+* [https://www.spiegel.de/panorama/emmendingen-croissants-loesen-naechtlichen-feuerwehreinsatz-aus](https://www.spiegel.de/panorama/emmendingen-croissants-loesen-naechtlichen-feuerwehreinsatz-aus-a-a6d52e13-d143-4a04-9de1-f8642c7ce4e6#ref=rss)
+* [https://www.spiegel.de/panorama/frankfurt-am-main-mann-klettert-auf-hochhausdach-und-trifft-auf-polizei](https://www.spiegel.de/panorama/frankfurt-am-main-mann-klettert-auf-hochhausdach-und-trifft-auf-polizei-a-62f9dc26-0786-4a97-8538-d4aeac886f6c#ref=rss)
+### thomas
 
-* [https://www.spiegel.de/panorama/menden-17-jaehriger-wegen-toedlichem-angriff-auf-14-jaehrigen-verdaechtigt](https://www.spiegel.de/panorama/menden-17-jaehriger-wegen-toedlichem-angriff-auf-14-jaehrigen-verdaechtigt-a-1a4f16ef-aec0-49b7-866b-0437bcfe8350#ref=rss)
-### 17jähriger
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-mueller-verabschiedet-sich-von-den-fans](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-mueller-verabschiedet-sich-von-den-fans-a-1782c3ec-3b4c-4441-a7e5-0ded9f433e13#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-mueller-verabschiedet-sich-mit-einem-witz](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-mueller-verabschiedet-sich-mit-einem-witz-a-6de5aeae-18f3-48c1-bcd1-9f1b90bfe61c#ref=rss)
+### müller
 
-* [https://www.spiegel.de/panorama/menden-17-jaehriger-wegen-toedlichem-angriff-auf-14-jaehrigen-verdaechtigt](https://www.spiegel.de/panorama/menden-17-jaehriger-wegen-toedlichem-angriff-auf-14-jaehrigen-verdaechtigt-a-1a4f16ef-aec0-49b7-866b-0437bcfe8350#ref=rss)
-### 14jährigen
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-mueller-verabschiedet-sich-von-den-fans](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-mueller-verabschiedet-sich-von-den-fans-a-1782c3ec-3b4c-4441-a7e5-0ded9f433e13#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-mueller-verabschiedet-sich-mit-einem-witz](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-mueller-verabschiedet-sich-mit-einem-witz-a-6de5aeae-18f3-48c1-bcd1-9f1b90bfe61c#ref=rss)
+### krieg
 
-* [https://www.spiegel.de/panorama/menden-17-jaehriger-wegen-toedlichem-angriff-auf-14-jaehrigen-verdaechtigt](https://www.spiegel.de/panorama/menden-17-jaehriger-wegen-toedlichem-angriff-auf-14-jaehrigen-verdaechtigt-a-1a4f16ef-aec0-49b7-866b-0437bcfe8350#ref=rss)
-### van
+* [https://www.spiegel.de/ausland/papst-leo-xiv-fordert-frieden-in-der-ukraine-und-in-gaza](https://www.spiegel.de/ausland/papst-leo-xiv-fordert-frieden-in-der-ukraine-und-in-gaza-a-a3b3b545-b365-4743-9880-e2156a6535be#ref=rss)
+* [https://www.spiegel.de/ausland/reservisten-krise-in-israels-armee-muede-vom-krieg](https://www.spiegel.de/ausland/reservisten-krise-in-israels-armee-muede-vom-krieg-a-5ee65a38-2167-430f-8940-9f332cd89f6e#ref=rss)
+### trump
 
-* [https://www.spiegel.de/panorama/rheinmetall-jan-van-aken-kritisiert-profite-aus-ruestungsaktien](https://www.spiegel.de/panorama/rheinmetall-jan-van-aken-kritisiert-profite-aus-ruestungsaktien-a-129b3233-bcbd-4356-a33e-9145b5e4acb7#ref=rss)
-### aken
-
-* [https://www.spiegel.de/panorama/rheinmetall-jan-van-aken-kritisiert-profite-aus-ruestungsaktien](https://www.spiegel.de/panorama/rheinmetall-jan-van-aken-kritisiert-profite-aus-ruestungsaktien-a-129b3233-bcbd-4356-a33e-9145b5e4acb7#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/rheinmetall-jan-van-aken-kritisiert-profite-aus-ruestungsaktien](https://www.spiegel.de/panorama/rheinmetall-jan-van-aken-kritisiert-profite-aus-ruestungsaktien-a-129b3233-bcbd-4356-a33e-9145b5e4acb7#ref=rss)
-### findet
-
-* [https://www.spiegel.de/panorama/rheinmetall-jan-van-aken-kritisiert-profite-aus-ruestungsaktien](https://www.spiegel.de/panorama/rheinmetall-jan-van-aken-kritisiert-profite-aus-ruestungsaktien-a-129b3233-bcbd-4356-a33e-9145b5e4acb7#ref=rss)
-* [https://www.spiegel.de/deinspiegel/die-bernstein-detektivin-so-arbeitet-eine-palaeobotanikerin-fuer-kinder-erklaert](https://www.spiegel.de/deinspiegel/die-bernstein-detektivin-so-arbeitet-eine-palaeobotanikerin-fuer-kinder-erklaert-a-f0854659-d479-4c25-add4-2170115ea873#ref=rss)
-### vfl
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-bochum-und-holstein-kiel-muessen-absteigen](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-bochum-und-holstein-kiel-muessen-absteigen-a-6c1a0d8f-aa09-46eb-a9bb-535dfa7826d1#ref=rss)
-### bochum
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-bochum-und-holstein-kiel-muessen-absteigen](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-bochum-und-holstein-kiel-muessen-absteigen-a-6c1a0d8f-aa09-46eb-a9bb-535dfa7826d1#ref=rss)
-### holstein
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-bochum-und-holstein-kiel-muessen-absteigen](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-bochum-und-holstein-kiel-muessen-absteigen-a-6c1a0d8f-aa09-46eb-a9bb-535dfa7826d1#ref=rss)
-### kiel
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-bochum-und-holstein-kiel-muessen-absteigen](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-bochum-und-holstein-kiel-muessen-absteigen-a-6c1a0d8f-aa09-46eb-a9bb-535dfa7826d1#ref=rss)
-### liga
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-bochum-und-holstein-kiel-muessen-absteigen](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfl-bochum-und-holstein-kiel-muessen-absteigen-a-6c1a0d8f-aa09-46eb-a9bb-535dfa7826d1#ref=rss)
-* [https://www.spiegel.de/sport/fussball/3-liga-arminia-bielefeld-und-dynamo-dresden-steigen-in-2-bundesliga-auf](https://www.spiegel.de/sport/fussball/3-liga-arminia-bielefeld-und-dynamo-dresden-steigen-in-2-bundesliga-auf-a-aad90eff-7f60-4caa-bad5-d955d8a4f065#ref=rss)
-### arminia
-
-* [https://www.spiegel.de/sport/fussball/3-liga-arminia-bielefeld-und-dynamo-dresden-steigen-in-2-bundesliga-auf](https://www.spiegel.de/sport/fussball/3-liga-arminia-bielefeld-und-dynamo-dresden-steigen-in-2-bundesliga-auf-a-aad90eff-7f60-4caa-bad5-d955d8a4f065#ref=rss)
-### bielefeld
-
-* [https://www.spiegel.de/sport/fussball/3-liga-arminia-bielefeld-und-dynamo-dresden-steigen-in-2-bundesliga-auf](https://www.spiegel.de/sport/fussball/3-liga-arminia-bielefeld-und-dynamo-dresden-steigen-in-2-bundesliga-auf-a-aad90eff-7f60-4caa-bad5-d955d8a4f065#ref=rss)
-### dynamo
-
-* [https://www.spiegel.de/sport/fussball/3-liga-arminia-bielefeld-und-dynamo-dresden-steigen-in-2-bundesliga-auf](https://www.spiegel.de/sport/fussball/3-liga-arminia-bielefeld-und-dynamo-dresden-steigen-in-2-bundesliga-auf-a-aad90eff-7f60-4caa-bad5-d955d8a4f065#ref=rss)
-### dresden
-
-* [https://www.spiegel.de/sport/fussball/3-liga-arminia-bielefeld-und-dynamo-dresden-steigen-in-2-bundesliga-auf](https://www.spiegel.de/sport/fussball/3-liga-arminia-bielefeld-und-dynamo-dresden-steigen-in-2-bundesliga-auf-a-aad90eff-7f60-4caa-bad5-d955d8a4f065#ref=rss)
-### rapper
-
-* [https://www.spiegel.de/start/rapper-majan-ueber-sein-adhs-ich-hielt-mich-fuer-faul-dabei-funktioniere-ich-einfach-nur-anders](https://www.spiegel.de/start/rapper-majan-ueber-sein-adhs-ich-hielt-mich-fuer-faul-dabei-funktioniere-ich-einfach-nur-anders-a-b2e5c0e2-3921-44f3-968a-8be883bc3ab2#ref=rss)
-### majan
-
-* [https://www.spiegel.de/start/rapper-majan-ueber-sein-adhs-ich-hielt-mich-fuer-faul-dabei-funktioniere-ich-einfach-nur-anders](https://www.spiegel.de/start/rapper-majan-ueber-sein-adhs-ich-hielt-mich-fuer-faul-dabei-funktioniere-ich-einfach-nur-anders-a-b2e5c0e2-3921-44f3-968a-8be883bc3ab2#ref=rss)
-### adhs
-
-* [https://www.spiegel.de/start/rapper-majan-ueber-sein-adhs-ich-hielt-mich-fuer-faul-dabei-funktioniere-ich-einfach-nur-anders](https://www.spiegel.de/start/rapper-majan-ueber-sein-adhs-ich-hielt-mich-fuer-faul-dabei-funktioniere-ich-einfach-nur-anders-a-b2e5c0e2-3921-44f3-968a-8be883bc3ab2#ref=rss)
-### ich
-
-* [https://www.spiegel.de/start/rapper-majan-ueber-sein-adhs-ich-hielt-mich-fuer-faul-dabei-funktioniere-ich-einfach-nur-anders](https://www.spiegel.de/start/rapper-majan-ueber-sein-adhs-ich-hielt-mich-fuer-faul-dabei-funktioniere-ich-einfach-nur-anders-a-b2e5c0e2-3921-44f3-968a-8be883bc3ab2#ref=rss)
-### raumsonde
-
-* [https://www.spiegel.de/wissenschaft/weltall/abgestuerzte-raumsonde-kosmos-482-warum-die-venus-so-viele-geheimnisse-hat](https://www.spiegel.de/wissenschaft/weltall/abgestuerzte-raumsonde-kosmos-482-warum-die-venus-so-viele-geheimnisse-hat-a-37c73969-ec31-4f33-aecb-bc716f3c5664#ref=rss)
-### kosmos
-
-* [https://www.spiegel.de/wissenschaft/weltall/abgestuerzte-raumsonde-kosmos-482-warum-die-venus-so-viele-geheimnisse-hat](https://www.spiegel.de/wissenschaft/weltall/abgestuerzte-raumsonde-kosmos-482-warum-die-venus-so-viele-geheimnisse-hat-a-37c73969-ec31-4f33-aecb-bc716f3c5664#ref=rss)
-### 482
-
-* [https://www.spiegel.de/wissenschaft/weltall/abgestuerzte-raumsonde-kosmos-482-warum-die-venus-so-viele-geheimnisse-hat](https://www.spiegel.de/wissenschaft/weltall/abgestuerzte-raumsonde-kosmos-482-warum-die-venus-so-viele-geheimnisse-hat-a-37c73969-ec31-4f33-aecb-bc716f3c5664#ref=rss)
-### venus
-
-* [https://www.spiegel.de/wissenschaft/weltall/abgestuerzte-raumsonde-kosmos-482-warum-die-venus-so-viele-geheimnisse-hat](https://www.spiegel.de/wissenschaft/weltall/abgestuerzte-raumsonde-kosmos-482-warum-die-venus-so-viele-geheimnisse-hat-a-37c73969-ec31-4f33-aecb-bc716f3c5664#ref=rss)
-### wir
-
-* [https://www.spiegel.de/wissenschaft/weltall/abgestuerzte-raumsonde-kosmos-482-warum-die-venus-so-viele-geheimnisse-hat](https://www.spiegel.de/wissenschaft/weltall/abgestuerzte-raumsonde-kosmos-482-warum-die-venus-so-viele-geheimnisse-hat-a-37c73969-ec31-4f33-aecb-bc716f3c5664#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung/yoga-uebungen-fuer-mehr-beweglichkeit-bei-ungelenkigen-podcast-mit-friederike-reumann](https://www.spiegel.de/gesundheit/ernaehrung/yoga-uebungen-fuer-mehr-beweglichkeit-bei-ungelenkigen-podcast-mit-friederike-reumann-a-f4059498-851f-4409-806e-ccb5d3447d52#ref=rss)
-### ditzingen
-
-* [https://www.spiegel.de/panorama/a81-bei-ditzingen-fahrer-fluechtet-nach-unfall-mit-luxus-sportwagen](https://www.spiegel.de/panorama/a81-bei-ditzingen-fahrer-fluechtet-nach-unfall-mit-luxus-sportwagen-a-06463386-6b38-4688-926d-2c0a792088e0#ref=rss)
-### luxussportwagen
-
-* [https://www.spiegel.de/panorama/a81-bei-ditzingen-fahrer-fluechtet-nach-unfall-mit-luxus-sportwagen](https://www.spiegel.de/panorama/a81-bei-ditzingen-fahrer-fluechtet-nach-unfall-mit-luxus-sportwagen-a-06463386-6b38-4688-926d-2c0a792088e0#ref=rss)
-### exterritorial
-
-* [https://www.spiegel.de/kultur/tv/exterritorial-und-havoc-bei-netflix-der-action-b-movie-ist-nicht-totzukriegen](https://www.spiegel.de/kultur/tv/exterritorial-und-havoc-bei-netflix-der-action-b-movie-ist-nicht-totzukriegen-a-3712e4ad-3a34-4ab2-b9f6-316c0dbb2c9b#ref=rss)
-### havoc
-
-* [https://www.spiegel.de/kultur/tv/exterritorial-und-havoc-bei-netflix-der-action-b-movie-ist-nicht-totzukriegen](https://www.spiegel.de/kultur/tv/exterritorial-und-havoc-bei-netflix-der-action-b-movie-ist-nicht-totzukriegen-a-3712e4ad-3a34-4ab2-b9f6-316c0dbb2c9b#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/kultur/tv/exterritorial-und-havoc-bei-netflix-der-action-b-movie-ist-nicht-totzukriegen](https://www.spiegel.de/kultur/tv/exterritorial-und-havoc-bei-netflix-der-action-b-movie-ist-nicht-totzukriegen-a-3712e4ad-3a34-4ab2-b9f6-316c0dbb2c9b#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung/yoga-uebungen-fuer-mehr-beweglichkeit-bei-ungelenkigen-podcast-mit-friederike-reumann](https://www.spiegel.de/gesundheit/ernaehrung/yoga-uebungen-fuer-mehr-beweglichkeit-bei-ungelenkigen-podcast-mit-friederike-reumann-a-f4059498-851f-4409-806e-ccb5d3447d52#ref=rss)
-### friederike
-
-* [https://www.spiegel.de/gesundheit/ernaehrung/yoga-uebungen-fuer-mehr-beweglichkeit-bei-ungelenkigen-podcast-mit-friederike-reumann](https://www.spiegel.de/gesundheit/ernaehrung/yoga-uebungen-fuer-mehr-beweglichkeit-bei-ungelenkigen-podcast-mit-friederike-reumann-a-f4059498-851f-4409-806e-ccb5d3447d52#ref=rss)
-### reumann
-
-* [https://www.spiegel.de/gesundheit/ernaehrung/yoga-uebungen-fuer-mehr-beweglichkeit-bei-ungelenkigen-podcast-mit-friederike-reumann](https://www.spiegel.de/gesundheit/ernaehrung/yoga-uebungen-fuer-mehr-beweglichkeit-bei-ungelenkigen-podcast-mit-friederike-reumann-a-f4059498-851f-4409-806e-ccb5d3447d52#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/gesundheit/ernaehrung/yoga-uebungen-fuer-mehr-beweglichkeit-bei-ungelenkigen-podcast-mit-friederike-reumann](https://www.spiegel.de/gesundheit/ernaehrung/yoga-uebungen-fuer-mehr-beweglichkeit-bei-ungelenkigen-podcast-mit-friederike-reumann-a-f4059498-851f-4409-806e-ccb5d3447d52#ref=rss)
-* [https://www.spiegel.de/deinspiegel/die-bernstein-detektivin-so-arbeitet-eine-palaeobotanikerin-fuer-kinder-erklaert](https://www.spiegel.de/deinspiegel/die-bernstein-detektivin-so-arbeitet-eine-palaeobotanikerin-fuer-kinder-erklaert-a-f0854659-d479-4c25-add4-2170115ea873#ref=rss)
-### wolfgang
-
-* [https://www.spiegel.de/ausland/wolfgang-porsche-wie-der-privattunnel-salzburg-spaltet](https://www.spiegel.de/ausland/wolfgang-porsche-wie-der-privattunnel-salzburg-spaltet-a-ba779cb1-a29c-4596-af2a-1e47d94a816c#ref=rss)
-### porsche
-
-* [https://www.spiegel.de/ausland/wolfgang-porsche-wie-der-privattunnel-salzburg-spaltet](https://www.spiegel.de/ausland/wolfgang-porsche-wie-der-privattunnel-salzburg-spaltet-a-ba779cb1-a29c-4596-af2a-1e47d94a816c#ref=rss)
-### salzburg
-
-* [https://www.spiegel.de/ausland/wolfgang-porsche-wie-der-privattunnel-salzburg-spaltet](https://www.spiegel.de/ausland/wolfgang-porsche-wie-der-privattunnel-salzburg-spaltet-a-ba779cb1-a29c-4596-af2a-1e47d94a816c#ref=rss)
-### jen
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/reddit-managerin-jen-wong-ueber-den-boom-der-plattform-donald-trump-und-schaetze-fuer-die-ki](https://www.spiegel.de/netzwelt/netzpolitik/reddit-managerin-jen-wong-ueber-den-boom-der-plattform-donald-trump-und-schaetze-fuer-die-ki-a-d618de9a-c1a6-4dd1-b5bf-d4563303bac3#ref=rss)
-### wong
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/reddit-managerin-jen-wong-ueber-den-boom-der-plattform-donald-trump-und-schaetze-fuer-die-ki](https://www.spiegel.de/netzwelt/netzpolitik/reddit-managerin-jen-wong-ueber-den-boom-der-plattform-donald-trump-und-schaetze-fuer-die-ki-a-d618de9a-c1a6-4dd1-b5bf-d4563303bac3#ref=rss)
-### solingen
-
-* [https://www.spiegel.de/panorama/justiz/solingen-vierfachmord-bei-brandanschlag-zuendelte-daniel-s-aus-rassismus](https://www.spiegel.de/panorama/justiz/solingen-vierfachmord-bei-brandanschlag-zuendelte-daniel-s-aus-rassismus-a-b51f04e4-06aa-41ff-9f13-54e977c9524c#ref=rss)
-### sap
-
-* [https://www.spiegel.de/wirtschaft/softwarekonzern-sap-streicht-wegen-trump-offenbar-ziel-fuer-geschlechtervielfalt](https://www.spiegel.de/wirtschaft/softwarekonzern-sap-streicht-wegen-trump-offenbar-ziel-fuer-geschlechtervielfalt-a-573d831f-a621-4b4b-8447-b7ac0e8f2a44#ref=rss)
+* [https://www.spiegel.de/ausland/kaschmir-konflikt-donald-trump-als-friedensstifter-zwischen-atommaechten](https://www.spiegel.de/ausland/kaschmir-konflikt-donald-trump-als-friedensstifter-zwischen-atommaechten-a-b8775950-cd41-47e3-ab20-2875e68b834d#ref=rss)
+* [https://www.spiegel.de/ausland/usa-gehen-mit-maximalforderung-in-atomverhandlungen-mit-iran](https://www.spiegel.de/ausland/usa-gehen-mit-maximalforderung-in-atomverhandlungen-mit-iran-a-947fb6a0-b557-4e77-bbcc-73493d275b9f#ref=rss)
 ### offenbar
 
-* [https://www.spiegel.de/wirtschaft/softwarekonzern-sap-streicht-wegen-trump-offenbar-ziel-fuer-geschlechtervielfalt](https://www.spiegel.de/wirtschaft/softwarekonzern-sap-streicht-wegen-trump-offenbar-ziel-fuer-geschlechtervielfalt-a-573d831f-a621-4b4b-8447-b7ac0e8f2a44#ref=rss)
-### geschlechtervielfalt
+* [https://www.spiegel.de/ausland/kaschmir-konflikt-donald-trump-als-friedensstifter-zwischen-atommaechten](https://www.spiegel.de/ausland/kaschmir-konflikt-donald-trump-als-friedensstifter-zwischen-atommaechten-a-b8775950-cd41-47e3-ab20-2875e68b834d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/rb-leipzig-geschaeftsfuehrer-marcel-schaefer-kritisiert-team-und-plant-umbruch](https://www.spiegel.de/sport/fussball/rb-leipzig-geschaeftsfuehrer-marcel-schaefer-kritisiert-team-und-plant-umbruch-a-2f4d37e1-63c1-4de3-b133-288fab753b50#ref=rss)
+* [https://www.spiegel.de/panorama/bonn-soldat-nach-kontakt-mit-unbekannter-fluessigkeit-in-quarantaene](https://www.spiegel.de/panorama/bonn-soldat-nach-kontakt-mit-unbekannter-fluessigkeit-in-quarantaene-a-17c0dff8-aaee-4fc3-b3a8-cf4d860604b3#ref=rss)
+### fragen
 
-* [https://www.spiegel.de/wirtschaft/softwarekonzern-sap-streicht-wegen-trump-offenbar-ziel-fuer-geschlechtervielfalt](https://www.spiegel.de/wirtschaft/softwarekonzern-sap-streicht-wegen-trump-offenbar-ziel-fuer-geschlechtervielfalt-a-573d831f-a621-4b4b-8447-b7ac0e8f2a44#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/hamburger-sv-ist-nach-2555-tagen-zurueck-in-der-bundesliga-er-ist-wirklich-wieder-da](https://www.spiegel.de/sport/fussball/hamburger-sv-ist-nach-2555-tagen-zurueck-in-der-bundesliga-er-ist-wirklich-wieder-da-a-9ffb277e-bdb3-4f14-b6cc-50849ecb80c2#ref=rss)
+### sieben
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/rb-leipzig-geschaeftsfuehrer-marcel-schaefer-kritisiert-team-und-plant-umbruch](https://www.spiegel.de/sport/fussball/rb-leipzig-geschaeftsfuehrer-marcel-schaefer-kritisiert-team-und-plant-umbruch-a-2f4d37e1-63c1-4de3-b133-288fab753b50#ref=rss)
+* [https://www.spiegel.de/sport/fussball/hamburger-sv-ist-nach-2555-tagen-zurueck-in-der-bundesliga-er-ist-wirklich-wieder-da](https://www.spiegel.de/sport/fussball/hamburger-sv-ist-nach-2555-tagen-zurueck-in-der-bundesliga-er-ist-wirklich-wieder-da-a-9ffb277e-bdb3-4f14-b6cc-50849ecb80c2#ref=rss)
+### hamburger
+
+* [https://www.spiegel.de/sport/fussball/hamburger-sv-reaktionen-zum-aufstieg](https://www.spiegel.de/sport/fussball/hamburger-sv-reaktionen-zum-aufstieg-a-290dc0ef-93e9-4260-9e48-4f131dc6c202#ref=rss)
+* [https://www.spiegel.de/sport/fussball/hamburger-sv-ist-nach-2555-tagen-zurueck-in-der-bundesliga-er-ist-wirklich-wieder-da](https://www.spiegel.de/sport/fussball/hamburger-sv-ist-nach-2555-tagen-zurueck-in-der-bundesliga-er-ist-wirklich-wieder-da-a-9ffb277e-bdb3-4f14-b6cc-50849ecb80c2#ref=rss)
+### sv
+
+* [https://www.spiegel.de/sport/fussball/hamburger-sv-reaktionen-zum-aufstieg](https://www.spiegel.de/sport/fussball/hamburger-sv-reaktionen-zum-aufstieg-a-290dc0ef-93e9-4260-9e48-4f131dc6c202#ref=rss)
+* [https://www.spiegel.de/sport/fussball/hamburger-sv-ist-nach-2555-tagen-zurueck-in-der-bundesliga-er-ist-wirklich-wieder-da](https://www.spiegel.de/sport/fussball/hamburger-sv-ist-nach-2555-tagen-zurueck-in-der-bundesliga-er-ist-wirklich-wieder-da-a-9ffb277e-bdb3-4f14-b6cc-50849ecb80c2#ref=rss)
+### fc
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-mueller-verabschiedet-sich-von-den-fans](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-mueller-verabschiedet-sich-von-den-fans-a-1782c3ec-3b4c-4441-a7e5-0ded9f433e13#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-mueller-verabschiedet-sich-mit-einem-witz](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-mueller-verabschiedet-sich-mit-einem-witz-a-6de5aeae-18f3-48c1-bcd1-9f1b90bfe61c#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-mueller-verabschiedet-sich-von-den-fans](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-mueller-verabschiedet-sich-von-den-fans-a-1782c3ec-3b4c-4441-a7e5-0ded9f433e13#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-mueller-verabschiedet-sich-mit-einem-witz](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-mueller-verabschiedet-sich-mit-einem-witz-a-6de5aeae-18f3-48c1-bcd1-9f1b90bfe61c#ref=rss)
+### verabschiedet
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-mueller-verabschiedet-sich-von-den-fans](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-mueller-verabschiedet-sich-von-den-fans-a-1782c3ec-3b4c-4441-a7e5-0ded9f433e13#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-mueller-verabschiedet-sich-mit-einem-witz](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-mueller-verabschiedet-sich-mit-einem-witz-a-6de5aeae-18f3-48c1-bcd1-9f1b90bfe61c#ref=rss)
+### fans
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-mueller-verabschiedet-sich-von-den-fans](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-mueller-verabschiedet-sich-von-den-fans-a-1782c3ec-3b4c-4441-a7e5-0ded9f433e13#ref=rss)
+* [https://www.spiegel.de/sport/fussball/hamburger-sv-ist-nach-2555-tagen-zurueck-in-der-bundesliga-er-ist-wirklich-wieder-da](https://www.spiegel.de/sport/fussball/hamburger-sv-ist-nach-2555-tagen-zurueck-in-der-bundesliga-er-ist-wirklich-wieder-da-a-9ffb277e-bdb3-4f14-b6cc-50849ecb80c2#ref=rss)
+### lage
+
+* [https://www.spiegel.de/ausland/emmanuel-macron-frankreichs-praesident-haelt-putins-gegenvorschlag-fuer-nicht-ausreichend](https://www.spiegel.de/ausland/emmanuel-macron-frankreichs-praesident-haelt-putins-gegenvorschlag-fuer-nicht-ausreichend-a-6a1b84d0-ac13-4ac1-904a-6bb4714cc8a5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-die-lage-am-sonntag-zweiter-wahlgang-bei-kanzlerwahl-die-linke-neuer-papst](https://www.spiegel.de/politik/deutschland/news-die-lage-am-sonntag-zweiter-wahlgang-bei-kanzlerwahl-die-linke-neuer-papst-a-5e8acd17-2b87-473f-b21e-54454e2c0f11#ref=rss)
+* [https://www.spiegel.de/politik/aussenminister-wadephul-zu-ostsee-sabotageakte-die-lage-ist-prekaer-das-ist-offenkundig](https://www.spiegel.de/politik/aussenminister-wadephul-zu-ostsee-sabotageakte-die-lage-ist-prekaer-das-ist-offenkundig-a-31ceab5b-fc77-418d-846b-7b9988f697ea#ref=rss)
+### königin
+
+* [https://www.spiegel.de/panorama/daenische-koenigin-margrethe-nach-zwei-tagen-aus-krankenhaus-entlassen](https://www.spiegel.de/panorama/daenische-koenigin-margrethe-nach-zwei-tagen-aus-krankenhaus-entlassen-a-a6535ddc-a27a-49b6-945f-9dc0000f2a1e#ref=rss)
+### tagen
+
+* [https://www.spiegel.de/panorama/daenische-koenigin-margrethe-nach-zwei-tagen-aus-krankenhaus-entlassen](https://www.spiegel.de/panorama/daenische-koenigin-margrethe-nach-zwei-tagen-aus-krankenhaus-entlassen-a-a6535ddc-a27a-49b6-945f-9dc0000f2a1e#ref=rss)
+* [https://www.spiegel.de/sport/fussball/hamburger-sv-ist-nach-2555-tagen-zurueck-in-der-bundesliga-er-ist-wirklich-wieder-da](https://www.spiegel.de/sport/fussball/hamburger-sv-ist-nach-2555-tagen-zurueck-in-der-bundesliga-er-ist-wirklich-wieder-da-a-9ffb277e-bdb3-4f14-b6cc-50849ecb80c2#ref=rss)
+### krankenhaus
+
+* [https://www.spiegel.de/panorama/daenische-koenigin-margrethe-nach-zwei-tagen-aus-krankenhaus-entlassen](https://www.spiegel.de/panorama/daenische-koenigin-margrethe-nach-zwei-tagen-aus-krankenhaus-entlassen-a-a6535ddc-a27a-49b6-945f-9dc0000f2a1e#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/panorama/daenische-koenigin-margrethe-nach-zwei-tagen-aus-krankenhaus-entlassen](https://www.spiegel.de/panorama/daenische-koenigin-margrethe-nach-zwei-tagen-aus-krankenhaus-entlassen-a-a6535ddc-a27a-49b6-945f-9dc0000f2a1e#ref=rss)
+* [https://www.spiegel.de/sport/fussball/hamburger-sv-ist-nach-2555-tagen-zurueck-in-der-bundesliga-er-ist-wirklich-wieder-da](https://www.spiegel.de/sport/fussball/hamburger-sv-ist-nach-2555-tagen-zurueck-in-der-bundesliga-er-ist-wirklich-wieder-da-a-9ffb277e-bdb3-4f14-b6cc-50849ecb80c2#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/ausland/papst-leo-xiv-fordert-frieden-in-der-ukraine-und-in-gaza](https://www.spiegel.de/ausland/papst-leo-xiv-fordert-frieden-in-der-ukraine-und-in-gaza-a-a3b3b545-b365-4743-9880-e2156a6535be#ref=rss)
+* [https://www.spiegel.de/politik/israel-besuch-wadephul-fordert-verstaerkten-kampf-gegen-antisemitismus](https://www.spiegel.de/politik/israel-besuch-wadephul-fordert-verstaerkten-kampf-gegen-antisemitismus-a-c5a5ac48-44db-481f-8fc3-997f90d1a7df#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/papst-leo-xiv-fordert-frieden-in-der-ukraine-und-in-gaza](https://www.spiegel.de/ausland/papst-leo-xiv-fordert-frieden-in-der-ukraine-und-in-gaza-a-a3b3b545-b365-4743-9880-e2156a6535be#ref=rss)
+* [https://www.spiegel.de/ausland/emmanuel-macron-frankreichs-praesident-haelt-putins-gegenvorschlag-fuer-nicht-ausreichend](https://www.spiegel.de/ausland/emmanuel-macron-frankreichs-praesident-haelt-putins-gegenvorschlag-fuer-nicht-ausreichend-a-6a1b84d0-ac13-4ac1-904a-6bb4714cc8a5#ref=rss)
+### gaza
+
+* [https://www.spiegel.de/ausland/papst-leo-xiv-fordert-frieden-in-der-ukraine-und-in-gaza](https://www.spiegel.de/ausland/papst-leo-xiv-fordert-frieden-in-der-ukraine-und-in-gaza-a-a3b3b545-b365-4743-9880-e2156a6535be#ref=rss)
+* [https://www.spiegel.de/ausland/reservisten-krise-in-israels-armee-muede-vom-krieg](https://www.spiegel.de/ausland/reservisten-krise-in-israels-armee-muede-vom-krieg-a-5ee65a38-2167-430f-8940-9f332cd89f6e#ref=rss)
+### nie
+
+* [https://www.spiegel.de/ausland/papst-leo-xiv-fordert-frieden-in-der-ukraine-und-in-gaza](https://www.spiegel.de/ausland/papst-leo-xiv-fordert-frieden-in-der-ukraine-und-in-gaza-a-a3b3b545-b365-4743-9880-e2156a6535be#ref=rss)
+* [https://www.spiegel.de/sport/fussball/mls-marco-reus-erlebt-debakel-lionel-messi-verliert-deutlich](https://www.spiegel.de/sport/fussball/mls-marco-reus-erlebt-debakel-lionel-messi-verliert-deutlich-a-4b942d17-be30-4435-a41a-e7d61a68b728#ref=rss)
+### öffentlichen
+
+* [https://www.spiegel.de/ausland/papst-leo-xiv-fordert-frieden-in-der-ukraine-und-in-gaza](https://www.spiegel.de/ausland/papst-leo-xiv-fordert-frieden-in-der-ukraine-und-in-gaza-a-a3b3b545-b365-4743-9880-e2156a6535be#ref=rss)
+* [https://www.spiegel.de/ausland/salt-lake-city-und-boise-us-staedte-machen-pride-flag-zur-offiziellen-flagge](https://www.spiegel.de/ausland/salt-lake-city-und-boise-us-staedte-machen-pride-flag-zur-offiziellen-flagge-a-d3c7572a-a6a2-4e67-b759-728f6df75a10#ref=rss)
+### worte
+
+* [https://www.spiegel.de/ausland/papst-leo-xiv-fordert-frieden-in-der-ukraine-und-in-gaza](https://www.spiegel.de/ausland/papst-leo-xiv-fordert-frieden-in-der-ukraine-und-in-gaza-a-a3b3b545-b365-4743-9880-e2156a6535be#ref=rss)
+* [https://www.spiegel.de/panorama/papst-leo-xiv-erstes-oeffentliches-gebet-hier-im-livestream](https://www.spiegel.de/panorama/papst-leo-xiv-erstes-oeffentliches-gebet-hier-im-livestream-a-46beaaf6-04ef-4d9c-8884-509bc023be14#ref=rss)
+### welt
+
+* [https://www.spiegel.de/ausland/papst-leo-xiv-fordert-frieden-in-der-ukraine-und-in-gaza](https://www.spiegel.de/ausland/papst-leo-xiv-fordert-frieden-in-der-ukraine-und-in-gaza-a-a3b3b545-b365-4743-9880-e2156a6535be#ref=rss)
+* [https://www.spiegel.de/ausland/kaschmir-konflikt-donald-trump-als-friedensstifter-zwischen-atommaechten](https://www.spiegel.de/ausland/kaschmir-konflikt-donald-trump-als-friedensstifter-zwischen-atommaechten-a-b8775950-cd41-47e3-ab20-2875e68b834d#ref=rss)
+### gratulierte
+
+* [https://www.spiegel.de/ausland/papst-leo-xiv-fordert-frieden-in-der-ukraine-und-in-gaza](https://www.spiegel.de/ausland/papst-leo-xiv-fordert-frieden-in-der-ukraine-und-in-gaza-a-a3b3b545-b365-4743-9880-e2156a6535be#ref=rss)
+* [https://www.spiegel.de/sport/fussball/hamburger-sv-reaktionen-zum-aufstieg](https://www.spiegel.de/sport/fussball/hamburger-sv-reaktionen-zum-aufstieg-a-290dc0ef-93e9-4260-9e48-4f131dc6c202#ref=rss)
+### muttertag
+
+* [https://www.spiegel.de/ausland/papst-leo-xiv-fordert-frieden-in-der-ukraine-und-in-gaza](https://www.spiegel.de/ausland/papst-leo-xiv-fordert-frieden-in-der-ukraine-und-in-gaza-a-a3b3b545-b365-4743-9880-e2156a6535be#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/proteste-am-muttertag-familienzusammenfuehrung-an-us-grenze-zu-mexiko-abgesagt](https://www.spiegel.de/panorama/gesellschaft/proteste-am-muttertag-familienzusammenfuehrung-an-us-grenze-zu-mexiko-abgesagt-a-d117bf98-7551-4bb5-a16f-3edc3cb3c468#ref=rss)
+### atlético
+
+* [https://www.spiegel.de/sport/fussball/atletico-madrid-ex-leipziger-alexander-sorloth-bricht-zwei-hattrick-rekorde](https://www.spiegel.de/sport/fussball/atletico-madrid-ex-leipziger-alexander-sorloth-bricht-zwei-hattrick-rekorde-a-654f4caa-c9c5-4da1-a16e-57d0346a38f3#ref=rss)
+### madrid
+
+* [https://www.spiegel.de/sport/fussball/atletico-madrid-ex-leipziger-alexander-sorloth-bricht-zwei-hattrick-rekorde](https://www.spiegel.de/sport/fussball/atletico-madrid-ex-leipziger-alexander-sorloth-bricht-zwei-hattrick-rekorde-a-654f4caa-c9c5-4da1-a16e-57d0346a38f3#ref=rss)
+### alexander
+
+* [https://www.spiegel.de/sport/fussball/atletico-madrid-ex-leipziger-alexander-sorloth-bricht-zwei-hattrick-rekorde](https://www.spiegel.de/sport/fussball/atletico-madrid-ex-leipziger-alexander-sorloth-bricht-zwei-hattrick-rekorde-a-654f4caa-c9c5-4da1-a16e-57d0346a38f3#ref=rss)
+### sørloth
+
+* [https://www.spiegel.de/sport/fussball/atletico-madrid-ex-leipziger-alexander-sorloth-bricht-zwei-hattrick-rekorde](https://www.spiegel.de/sport/fussball/atletico-madrid-ex-leipziger-alexander-sorloth-bricht-zwei-hattrick-rekorde-a-654f4caa-c9c5-4da1-a16e-57d0346a38f3#ref=rss)
+### drei
+
+* [https://www.spiegel.de/sport/fussball/atletico-madrid-ex-leipziger-alexander-sorloth-bricht-zwei-hattrick-rekorde](https://www.spiegel.de/sport/fussball/atletico-madrid-ex-leipziger-alexander-sorloth-bricht-zwei-hattrick-rekorde-a-654f4caa-c9c5-4da1-a16e-57d0346a38f3#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/japan-polizei-findet-tausende-lebende-krebse-im-gepaeck-von-chinesen](https://www.spiegel.de/panorama/justiz/japan-polizei-findet-tausende-lebende-krebse-im-gepaeck-von-chinesen-a-235ebda3-2d81-47b4-8103-808d6c7691c1#ref=rss)
+### friedensstifter
+
+* [https://www.spiegel.de/ausland/kaschmir-konflikt-donald-trump-als-friedensstifter-zwischen-atommaechten](https://www.spiegel.de/ausland/kaschmir-konflikt-donald-trump-als-friedensstifter-zwischen-atommaechten-a-b8775950-cd41-47e3-ab20-2875e68b834d#ref=rss)
+### fall
+
+* [https://www.spiegel.de/ausland/kaschmir-konflikt-donald-trump-als-friedensstifter-zwischen-atommaechten](https://www.spiegel.de/ausland/kaschmir-konflikt-donald-trump-als-friedensstifter-zwischen-atommaechten-a-b8775950-cd41-47e3-ab20-2875e68b834d#ref=rss)
+* [https://www.spiegel.de/panorama/emmendingen-croissants-loesen-naechtlichen-feuerwehreinsatz-aus](https://www.spiegel.de/panorama/emmendingen-croissants-loesen-naechtlichen-feuerwehreinsatz-aus-a-a6d52e13-d143-4a04-9de1-f8642c7ce4e6#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/ausland/kaschmir-konflikt-donald-trump-als-friedensstifter-zwischen-atommaechten](https://www.spiegel.de/ausland/kaschmir-konflikt-donald-trump-als-friedensstifter-zwischen-atommaechten-a-b8775950-cd41-47e3-ab20-2875e68b834d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/hamburger-sv-ist-nach-2555-tagen-zurueck-in-der-bundesliga-er-ist-wirklich-wieder-da](https://www.spiegel.de/sport/fussball/hamburger-sv-ist-nach-2555-tagen-zurueck-in-der-bundesliga-er-ist-wirklich-wieder-da-a-9ffb277e-bdb3-4f14-b6cc-50849ecb80c2#ref=rss)
+### antisemitismus
+
+* [https://www.spiegel.de/politik/israel-besuch-wadephul-fordert-verstaerkten-kampf-gegen-antisemitismus](https://www.spiegel.de/politik/israel-besuch-wadephul-fordert-verstaerkten-kampf-gegen-antisemitismus-a-c5a5ac48-44db-481f-8fc3-997f90d1a7df#ref=rss)
+### außenminister
+
+* [https://www.spiegel.de/politik/israel-besuch-wadephul-fordert-verstaerkten-kampf-gegen-antisemitismus](https://www.spiegel.de/politik/israel-besuch-wadephul-fordert-verstaerkten-kampf-gegen-antisemitismus-a-c5a5ac48-44db-481f-8fc3-997f90d1a7df#ref=rss)
+* [https://www.spiegel.de/politik/aussenminister-wadephul-zu-ostsee-sabotageakte-die-lage-ist-prekaer-das-ist-offenkundig](https://www.spiegel.de/politik/aussenminister-wadephul-zu-ostsee-sabotageakte-die-lage-ist-prekaer-das-ist-offenkundig-a-31ceab5b-fc77-418d-846b-7b9988f697ea#ref=rss)
+### derweil
+
+* [https://www.spiegel.de/politik/israel-besuch-wadephul-fordert-verstaerkten-kampf-gegen-antisemitismus](https://www.spiegel.de/politik/israel-besuch-wadephul-fordert-verstaerkten-kampf-gegen-antisemitismus-a-c5a5ac48-44db-481f-8fc3-997f90d1a7df#ref=rss)
+* [https://www.spiegel.de/ausland/usa-gehen-mit-maximalforderung-in-atomverhandlungen-mit-iran](https://www.spiegel.de/ausland/usa-gehen-mit-maximalforderung-in-atomverhandlungen-mit-iran-a-947fb6a0-b557-4e77-bbcc-73493d275b9f#ref=rss)
+### kritisiert
+
+* [https://www.spiegel.de/politik/israel-besuch-wadephul-fordert-verstaerkten-kampf-gegen-antisemitismus](https://www.spiegel.de/politik/israel-besuch-wadephul-fordert-verstaerkten-kampf-gegen-antisemitismus-a-c5a5ac48-44db-481f-8fc3-997f90d1a7df#ref=rss)
+* [https://www.spiegel.de/sport/fussball/rb-leipzig-geschaeftsfuehrer-marcel-schaefer-kritisiert-team-und-plant-umbruch](https://www.spiegel.de/sport/fussball/rb-leipzig-geschaeftsfuehrer-marcel-schaefer-kritisiert-team-und-plant-umbruch-a-2f4d37e1-63c1-4de3-b133-288fab753b50#ref=rss)
+### linke
+
+* [https://www.spiegel.de/politik/israel-besuch-wadephul-fordert-verstaerkten-kampf-gegen-antisemitismus](https://www.spiegel.de/politik/israel-besuch-wadephul-fordert-verstaerkten-kampf-gegen-antisemitismus-a-c5a5ac48-44db-481f-8fc3-997f90d1a7df#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-die-lage-am-sonntag-zweiter-wahlgang-bei-kanzlerwahl-die-linke-neuer-papst](https://www.spiegel.de/politik/deutschland/news-die-lage-am-sonntag-zweiter-wahlgang-bei-kanzlerwahl-die-linke-neuer-papst-a-5e8acd17-2b87-473f-b21e-54454e2c0f11#ref=rss)
+### marco
+
+* [https://www.spiegel.de/sport/fussball/mls-marco-reus-erlebt-debakel-lionel-messi-verliert-deutlich](https://www.spiegel.de/sport/fussball/mls-marco-reus-erlebt-debakel-lionel-messi-verliert-deutlich-a-4b942d17-be30-4435-a41a-e7d61a68b728#ref=rss)
+### reus
+
+* [https://www.spiegel.de/sport/fussball/mls-marco-reus-erlebt-debakel-lionel-messi-verliert-deutlich](https://www.spiegel.de/sport/fussball/mls-marco-reus-erlebt-debakel-lionel-messi-verliert-deutlich-a-4b942d17-be30-4435-a41a-e7d61a68b728#ref=rss)
+### lionel
+
+* [https://www.spiegel.de/sport/fussball/mls-marco-reus-erlebt-debakel-lionel-messi-verliert-deutlich](https://www.spiegel.de/sport/fussball/mls-marco-reus-erlebt-debakel-lionel-messi-verliert-deutlich-a-4b942d17-be30-4435-a41a-e7d61a68b728#ref=rss)
+### messi
+
+* [https://www.spiegel.de/sport/fussball/mls-marco-reus-erlebt-debakel-lionel-messi-verliert-deutlich](https://www.spiegel.de/sport/fussball/mls-marco-reus-erlebt-debakel-lionel-messi-verliert-deutlich-a-4b942d17-be30-4435-a41a-e7d61a68b728#ref=rss)
+### deutlich
+
+* [https://www.spiegel.de/sport/fussball/mls-marco-reus-erlebt-debakel-lionel-messi-verliert-deutlich](https://www.spiegel.de/sport/fussball/mls-marco-reus-erlebt-debakel-lionel-messi-verliert-deutlich-a-4b942d17-be30-4435-a41a-e7d61a68b728#ref=rss)
+### league
+
+* [https://www.spiegel.de/sport/fussball/mls-marco-reus-erlebt-debakel-lionel-messi-verliert-deutlich](https://www.spiegel.de/sport/fussball/mls-marco-reus-erlebt-debakel-lionel-messi-verliert-deutlich-a-4b942d17-be30-4435-a41a-e7d61a68b728#ref=rss)
+* [https://www.spiegel.de/sport/fussball/rb-leipzig-geschaeftsfuehrer-marcel-schaefer-kritisiert-team-und-plant-umbruch](https://www.spiegel.de/sport/fussball/rb-leipzig-geschaeftsfuehrer-marcel-schaefer-kritisiert-team-und-plant-umbruch-a-2f4d37e1-63c1-4de3-b133-288fab753b50#ref=rss)
+### krebse
+
+* [https://www.spiegel.de/panorama/justiz/japan-polizei-findet-tausende-lebende-krebse-im-gepaeck-von-chinesen](https://www.spiegel.de/panorama/justiz/japan-polizei-findet-tausende-lebende-krebse-im-gepaeck-von-chinesen-a-235ebda3-2d81-47b4-8103-808d6c7691c1#ref=rss)
+### gepäck
+
+* [https://www.spiegel.de/panorama/justiz/japan-polizei-findet-tausende-lebende-krebse-im-gepaeck-von-chinesen](https://www.spiegel.de/panorama/justiz/japan-polizei-findet-tausende-lebende-krebse-im-gepaeck-von-chinesen-a-235ebda3-2d81-47b4-8103-808d6c7691c1#ref=rss)
+### chinesen
+
+* [https://www.spiegel.de/panorama/justiz/japan-polizei-findet-tausende-lebende-krebse-im-gepaeck-von-chinesen](https://www.spiegel.de/panorama/justiz/japan-polizei-findet-tausende-lebende-krebse-im-gepaeck-von-chinesen-a-235ebda3-2d81-47b4-8103-808d6c7691c1#ref=rss)
+### tag
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### jeden
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/hochzeit-trend-content-creatorin-wie-die-party-auf-tiktok-perfekt-aussieht](https://www.spiegel.de/wirtschaft/hochzeit-trend-content-creatorin-wie-die-party-auf-tiktok-perfekt-aussieht-a-cae6ae7b-5fdf-45d9-9d88-0209c8f8c545#ref=rss)
+### gebet
+
+* [https://www.spiegel.de/panorama/papst-leo-xiv-erstes-oeffentliches-gebet-hier-im-livestream](https://www.spiegel.de/panorama/papst-leo-xiv-erstes-oeffentliches-gebet-hier-im-livestream-a-46beaaf6-04ef-4d9c-8884-509bc023be14#ref=rss)
+### gläubigen
+
+* [https://www.spiegel.de/panorama/papst-leo-xiv-erstes-oeffentliches-gebet-hier-im-livestream](https://www.spiegel.de/panorama/papst-leo-xiv-erstes-oeffentliches-gebet-hier-im-livestream-a-46beaaf6-04ef-4d9c-8884-509bc023be14#ref=rss)
+### rb
+
+* [https://www.spiegel.de/sport/fussball/rb-leipzig-geschaeftsfuehrer-marcel-schaefer-kritisiert-team-und-plant-umbruch](https://www.spiegel.de/sport/fussball/rb-leipzig-geschaeftsfuehrer-marcel-schaefer-kritisiert-team-und-plant-umbruch-a-2f4d37e1-63c1-4de3-b133-288fab753b50#ref=rss)
+### leipzig
+
+* [https://www.spiegel.de/sport/fussball/rb-leipzig-geschaeftsfuehrer-marcel-schaefer-kritisiert-team-und-plant-umbruch](https://www.spiegel.de/sport/fussball/rb-leipzig-geschaeftsfuehrer-marcel-schaefer-kritisiert-team-und-plant-umbruch-a-2f4d37e1-63c1-4de3-b133-288fab753b50#ref=rss)
+### geschäftsführer
+
+* [https://www.spiegel.de/sport/fussball/rb-leipzig-geschaeftsfuehrer-marcel-schaefer-kritisiert-team-und-plant-umbruch](https://www.spiegel.de/sport/fussball/rb-leipzig-geschaeftsfuehrer-marcel-schaefer-kritisiert-team-und-plant-umbruch-a-2f4d37e1-63c1-4de3-b133-288fab753b50#ref=rss)
+### marcel
+
+* [https://www.spiegel.de/sport/fussball/rb-leipzig-geschaeftsfuehrer-marcel-schaefer-kritisiert-team-und-plant-umbruch](https://www.spiegel.de/sport/fussball/rb-leipzig-geschaeftsfuehrer-marcel-schaefer-kritisiert-team-und-plant-umbruch-a-2f4d37e1-63c1-4de3-b133-288fab753b50#ref=rss)
+### schäfer
+
+* [https://www.spiegel.de/sport/fussball/rb-leipzig-geschaeftsfuehrer-marcel-schaefer-kritisiert-team-und-plant-umbruch](https://www.spiegel.de/sport/fussball/rb-leipzig-geschaeftsfuehrer-marcel-schaefer-kritisiert-team-und-plant-umbruch-a-2f4d37e1-63c1-4de3-b133-288fab753b50#ref=rss)
+### team
+
+* [https://www.spiegel.de/sport/fussball/rb-leipzig-geschaeftsfuehrer-marcel-schaefer-kritisiert-team-und-plant-umbruch](https://www.spiegel.de/sport/fussball/rb-leipzig-geschaeftsfuehrer-marcel-schaefer-kritisiert-team-und-plant-umbruch-a-2f4d37e1-63c1-4de3-b133-288fab753b50#ref=rss)
+### umbruch
+
+* [https://www.spiegel.de/sport/fussball/rb-leipzig-geschaeftsfuehrer-marcel-schaefer-kritisiert-team-und-plant-umbruch](https://www.spiegel.de/sport/fussball/rb-leipzig-geschaeftsfuehrer-marcel-schaefer-kritisiert-team-und-plant-umbruch-a-2f4d37e1-63c1-4de3-b133-288fab753b50#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/sport/fussball/rb-leipzig-geschaeftsfuehrer-marcel-schaefer-kritisiert-team-und-plant-umbruch](https://www.spiegel.de/sport/fussball/rb-leipzig-geschaeftsfuehrer-marcel-schaefer-kritisiert-team-und-plant-umbruch-a-2f4d37e1-63c1-4de3-b133-288fab753b50#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-mueller-verabschiedet-sich-von-den-fans](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-mueller-verabschiedet-sich-von-den-fans-a-1782c3ec-3b4c-4441-a7e5-0ded9f433e13#ref=rss)
+### kritik
+
+* [https://www.spiegel.de/sport/fussball/rb-leipzig-geschaeftsfuehrer-marcel-schaefer-kritisiert-team-und-plant-umbruch](https://www.spiegel.de/sport/fussball/rb-leipzig-geschaeftsfuehrer-marcel-schaefer-kritisiert-team-und-plant-umbruch-a-2f4d37e1-63c1-4de3-b133-288fab753b50#ref=rss)
+* [https://www.spiegel.de/ausland/emmanuel-macron-frankreichs-praesident-haelt-putins-gegenvorschlag-fuer-nicht-ausreichend](https://www.spiegel.de/ausland/emmanuel-macron-frankreichs-praesident-haelt-putins-gegenvorschlag-fuer-nicht-ausreichend-a-6a1b84d0-ac13-4ac1-904a-6bb4714cc8a5#ref=rss)
+### soldat
+
+* [https://www.spiegel.de/panorama/bonn-soldat-nach-kontakt-mit-unbekannter-fluessigkeit-in-quarantaene](https://www.spiegel.de/panorama/bonn-soldat-nach-kontakt-mit-unbekannter-fluessigkeit-in-quarantaene-a-17c0dff8-aaee-4fc3-b3a8-cf4d860604b3#ref=rss)
+### aufstieg
+
+* [https://www.spiegel.de/sport/fussball/hamburger-sv-reaktionen-zum-aufstieg](https://www.spiegel.de/sport/fussball/hamburger-sv-reaktionen-zum-aufstieg-a-290dc0ef-93e9-4260-9e48-4f131dc6c202#ref=rss)
+* [https://www.spiegel.de/sport/fussball/hamburger-sv-ist-nach-2555-tagen-zurueck-in-der-bundesliga-er-ist-wirklich-wieder-da](https://www.spiegel.de/sport/fussball/hamburger-sv-ist-nach-2555-tagen-zurueck-in-der-bundesliga-er-ist-wirklich-wieder-da-a-9ffb277e-bdb3-4f14-b6cc-50849ecb80c2#ref=rss)
+### armee
+
+* [https://www.spiegel.de/ausland/mossad-und-israelische-armee-bergen-leiche-von-zvi-feldman-im-libanon](https://www.spiegel.de/ausland/mossad-und-israelische-armee-bergen-leiche-von-zvi-feldman-im-libanon-a-019638f9-a96e-4597-90c7-212e355f8cd5#ref=rss)
+* [https://www.spiegel.de/ausland/reservisten-krise-in-israels-armee-muede-vom-krieg](https://www.spiegel.de/ausland/reservisten-krise-in-israels-armee-muede-vom-krieg-a-5ee65a38-2167-430f-8940-9f332cd89f6e#ref=rss)
+### zvi
+
+* [https://www.spiegel.de/ausland/mossad-und-israelische-armee-bergen-leiche-von-zvi-feldman-im-libanon](https://www.spiegel.de/ausland/mossad-und-israelische-armee-bergen-leiche-von-zvi-feldman-im-libanon-a-019638f9-a96e-4597-90c7-212e355f8cd5#ref=rss)
+### feldman
+
+* [https://www.spiegel.de/ausland/mossad-und-israelische-armee-bergen-leiche-von-zvi-feldman-im-libanon](https://www.spiegel.de/ausland/mossad-und-israelische-armee-bergen-leiche-von-zvi-feldman-im-libanon-a-019638f9-a96e-4597-90c7-212e355f8cd5#ref=rss)
+### libanon
+
+* [https://www.spiegel.de/ausland/mossad-und-israelische-armee-bergen-leiche-von-zvi-feldman-im-libanon](https://www.spiegel.de/ausland/mossad-und-israelische-armee-bergen-leiche-von-zvi-feldman-im-libanon-a-019638f9-a96e-4597-90c7-212e355f8cd5#ref=rss)
+### angaben
+
+* [https://www.spiegel.de/ausland/mossad-und-israelische-armee-bergen-leiche-von-zvi-feldman-im-libanon](https://www.spiegel.de/ausland/mossad-und-israelische-armee-bergen-leiche-von-zvi-feldman-im-libanon-a-019638f9-a96e-4597-90c7-212e355f8cd5#ref=rss)
+### aktion
+
+* [https://www.spiegel.de/ausland/mossad-und-israelische-armee-bergen-leiche-von-zvi-feldman-im-libanon](https://www.spiegel.de/ausland/mossad-und-israelische-armee-bergen-leiche-von-zvi-feldman-im-libanon-a-019638f9-a96e-4597-90c7-212e355f8cd5#ref=rss)
+* [https://www.spiegel.de/panorama/frankfurt-am-main-mann-klettert-auf-hochhausdach-und-trifft-auf-polizei](https://www.spiegel.de/panorama/frankfurt-am-main-mann-klettert-auf-hochhausdach-und-trifft-auf-polizei-a-62f9dc26-0786-4a97-8538-d4aeac886f6c#ref=rss)
+### eigenen
+
+* [https://www.spiegel.de/ausland/mossad-und-israelische-armee-bergen-leiche-von-zvi-feldman-im-libanon](https://www.spiegel.de/ausland/mossad-und-israelische-armee-bergen-leiche-von-zvi-feldman-im-libanon-a-019638f9-a96e-4597-90c7-212e355f8cd5#ref=rss)
+* [https://www.spiegel.de/ausland/salt-lake-city-und-boise-us-staedte-machen-pride-flag-zur-offiziellen-flagge](https://www.spiegel.de/ausland/salt-lake-city-und-boise-us-staedte-machen-pride-flag-zur-offiziellen-flagge-a-d3c7572a-a6a2-4e67-b759-728f6df75a10#ref=rss)
+### erst
+
+* [https://www.spiegel.de/panorama/zugstrecke-berlin-hamburg-ersatzbusse-fuer-bauarbeiten-noch-nicht-verfuegbar](https://www.spiegel.de/panorama/zugstrecke-berlin-hamburg-ersatzbusse-fuer-bauarbeiten-noch-nicht-verfuegbar-a-a1184fbb-ab6c-4335-8306-5e01f2cedd39#ref=rss)
+* [https://www.spiegel.de/ausland/emmanuel-macron-frankreichs-praesident-haelt-putins-gegenvorschlag-fuer-nicht-ausreichend](https://www.spiegel.de/ausland/emmanuel-macron-frankreichs-praesident-haelt-putins-gegenvorschlag-fuer-nicht-ausreichend-a-6a1b84d0-ac13-4ac1-904a-6bb4714cc8a5#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/ausland/reservisten-krise-in-israels-armee-muede-vom-krieg](https://www.spiegel.de/ausland/reservisten-krise-in-israels-armee-muede-vom-krieg-a-5ee65a38-2167-430f-8940-9f332cd89f6e#ref=rss)
+### iran
+
+* [https://www.spiegel.de/ausland/usa-gehen-mit-maximalforderung-in-atomverhandlungen-mit-iran](https://www.spiegel.de/ausland/usa-gehen-mit-maximalforderung-in-atomverhandlungen-mit-iran-a-947fb6a0-b557-4e77-bbcc-73493d275b9f#ref=rss)
+### erste
+
+* [https://www.spiegel.de/ausland/usa-gehen-mit-maximalforderung-in-atomverhandlungen-mit-iran](https://www.spiegel.de/ausland/usa-gehen-mit-maximalforderung-in-atomverhandlungen-mit-iran-a-947fb6a0-b557-4e77-bbcc-73493d275b9f#ref=rss)
+* [https://www.spiegel.de/panorama/frankfurt-am-main-mann-klettert-auf-hochhausdach-und-trifft-auf-polizei](https://www.spiegel.de/panorama/frankfurt-am-main-mann-klettert-auf-hochhausdach-und-trifft-auf-polizei-a-62f9dc26-0786-4a97-8538-d4aeac886f6c#ref=rss)
+### wohnen
+
+* [https://www.spiegel.de/wirtschaft/soziales/wohnkosten-deutsche-geben-ein-viertel-des-einkommens-fuer-wohnen-aus](https://www.spiegel.de/wirtschaft/soziales/wohnkosten-deutsche-geben-ein-viertel-des-einkommens-fuer-wohnen-aus-a-144bfc0a-0d7e-42fc-80df-9b887da693fb#ref=rss)
+### münchen
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-mueller-verabschiedet-sich-von-den-fans](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-mueller-verabschiedet-sich-von-den-fans-a-1782c3ec-3b4c-4441-a7e5-0ded9f433e13#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-mueller-verabschiedet-sich-mit-einem-witz](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-mueller-verabschiedet-sich-mit-einem-witz-a-6de5aeae-18f3-48c1-bcd1-9f1b90bfe61c#ref=rss)
+### 25
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-mueller-verabschiedet-sich-von-den-fans](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-mueller-verabschiedet-sich-von-den-fans-a-1782c3ec-3b4c-4441-a7e5-0ded9f433e13#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-mueller-verabschiedet-sich-mit-einem-witz](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-mueller-verabschiedet-sich-mit-einem-witz-a-6de5aeae-18f3-48c1-bcd1-9f1b90bfe61c#ref=rss)
+### verein
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-mueller-verabschiedet-sich-von-den-fans](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-mueller-verabschiedet-sich-von-den-fans-a-1782c3ec-3b4c-4441-a7e5-0ded9f433e13#ref=rss)
+* [https://www.spiegel.de/sport/fussball/hamburger-sv-ist-nach-2555-tagen-zurueck-in-der-bundesliga-er-ist-wirklich-wieder-da](https://www.spiegel.de/sport/fussball/hamburger-sv-ist-nach-2555-tagen-zurueck-in-der-bundesliga-er-ist-wirklich-wieder-da-a-9ffb277e-bdb3-4f14-b6cc-50849ecb80c2#ref=rss)
+### witz
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-mueller-verabschiedet-sich-von-den-fans](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-mueller-verabschiedet-sich-von-den-fans-a-1782c3ec-3b4c-4441-a7e5-0ded9f433e13#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-mueller-verabschiedet-sich-mit-einem-witz](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-mueller-verabschiedet-sich-mit-einem-witz-a-6de5aeae-18f3-48c1-bcd1-9f1b90bfe61c#ref=rss)
+### merz
+
+* [https://www.spiegel.de/ausland/emmanuel-macron-frankreichs-praesident-haelt-putins-gegenvorschlag-fuer-nicht-ausreichend](https://www.spiegel.de/ausland/emmanuel-macron-frankreichs-praesident-haelt-putins-gegenvorschlag-fuer-nicht-ausreichend-a-6a1b84d0-ac13-4ac1-904a-6bb4714cc8a5#ref=rss)
+### bärbel
+
+* [https://www.spiegel.de/politik/deutschland/mindestlohn-baerbel-bas-erwaegt-gesetzliche-anhebung-auf-15-euro](https://www.spiegel.de/politik/deutschland/mindestlohn-baerbel-bas-erwaegt-gesetzliche-anhebung-auf-15-euro-a-3fd70897-02e7-4df2-bd83-5252f6f2881b#ref=rss)
+### bas
+
+* [https://www.spiegel.de/politik/deutschland/mindestlohn-baerbel-bas-erwaegt-gesetzliche-anhebung-auf-15-euro](https://www.spiegel.de/politik/deutschland/mindestlohn-baerbel-bas-erwaegt-gesetzliche-anhebung-auf-15-euro-a-3fd70897-02e7-4df2-bd83-5252f6f2881b#ref=rss)
+### erwägt
+
+* [https://www.spiegel.de/politik/deutschland/mindestlohn-baerbel-bas-erwaegt-gesetzliche-anhebung-auf-15-euro](https://www.spiegel.de/politik/deutschland/mindestlohn-baerbel-bas-erwaegt-gesetzliche-anhebung-auf-15-euro-a-3fd70897-02e7-4df2-bd83-5252f6f2881b#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-mueller-verabschiedet-sich-mit-einem-witz](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-thomas-mueller-verabschiedet-sich-mit-einem-witz-a-6de5aeae-18f3-48c1-bcd1-9f1b90bfe61c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/hamburger-sv-ist-nach-2555-tagen-zurueck-in-der-bundesliga-er-ist-wirklich-wieder-da](https://www.spiegel.de/sport/fussball/hamburger-sv-ist-nach-2555-tagen-zurueck-in-der-bundesliga-er-ist-wirklich-wieder-da-a-9ffb277e-bdb3-4f14-b6cc-50849ecb80c2#ref=rss)
+### frankfurt
+
+* [https://www.spiegel.de/panorama/frankfurt-am-main-mann-klettert-auf-hochhausdach-und-trifft-auf-polizei](https://www.spiegel.de/panorama/frankfurt-am-main-mann-klettert-auf-hochhausdach-und-trifft-auf-polizei-a-62f9dc26-0786-4a97-8538-d4aeac886f6c#ref=rss)
+### trifft
+
+* [https://www.spiegel.de/panorama/frankfurt-am-main-mann-klettert-auf-hochhausdach-und-trifft-auf-polizei](https://www.spiegel.de/panorama/frankfurt-am-main-mann-klettert-auf-hochhausdach-und-trifft-auf-polizei-a-62f9dc26-0786-4a97-8538-d4aeac886f6c#ref=rss)
 
