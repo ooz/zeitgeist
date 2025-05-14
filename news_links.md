@@ -4,438 +4,344 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### trump
-
-* [https://www.spiegel.de/ausland/usa-trump-news-robert-f-kennedy-jr-schwimmt-in-faekalien-fluss](https://www.spiegel.de/ausland/usa-trump-news-robert-f-kennedy-jr-schwimmt-in-faekalien-fluss-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
-* [https://www.spiegel.de/ausland/usa-und-saudi-arabien-vereinbaren-ruestungsgeschaeft-mehr-als-140-milliarden-dollar](https://www.spiegel.de/ausland/usa-und-saudi-arabien-vereinbaren-ruestungsgeschaeft-mehr-als-140-milliarden-dollar-a-048bb2f4-4373-43d3-a725-37f80ead3808#ref=rss)
-* [https://www.spiegel.de/ausland/oesterreich-kanzler-christian-stocker-warnt-vor-amerikanischen-verhaeltnissen](https://www.spiegel.de/ausland/oesterreich-kanzler-christian-stocker-warnt-vor-amerikanischen-verhaeltnissen-a-daea4328-cce1-42e0-a8a6-a3c82452b1aa#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-laesst-geisel-edan-alexander-frei-nach-verhandlung-mit-donald-trump](https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-laesst-geisel-edan-alexander-frei-nach-verhandlung-mit-donald-trump-a-5c70dc00-cf71-4bc2-ab15-5a457279a900#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/usa-trump-news-robert-f-kennedy-jr-schwimmt-in-faekalien-fluss](https://www.spiegel.de/ausland/usa-trump-news-robert-f-kennedy-jr-schwimmt-in-faekalien-fluss-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
-* [https://www.spiegel.de/ausland/usa-und-saudi-arabien-vereinbaren-ruestungsgeschaeft-mehr-als-140-milliarden-dollar](https://www.spiegel.de/ausland/usa-und-saudi-arabien-vereinbaren-ruestungsgeschaeft-mehr-als-140-milliarden-dollar-a-048bb2f4-4373-43d3-a725-37f80ead3808#ref=rss)
-* [https://www.spiegel.de/ausland/oesterreich-kanzler-christian-stocker-warnt-vor-amerikanischen-verhaeltnissen](https://www.spiegel.de/ausland/oesterreich-kanzler-christian-stocker-warnt-vor-amerikanischen-verhaeltnissen-a-daea4328-cce1-42e0-a8a6-a3c82452b1aa#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-laesst-geisel-edan-alexander-frei-nach-verhandlung-mit-donald-trump](https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-laesst-geisel-edan-alexander-frei-nach-verhandlung-mit-donald-trump-a-5c70dc00-cf71-4bc2-ab15-5a457279a900#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/panorama/justiz/reichsbuerger-800-einsatzkraefte-beenden-koenigreich-deutschland-von-fitzek](https://www.spiegel.de/panorama/justiz/reichsbuerger-800-einsatzkraefte-beenden-koenigreich-deutschland-von-fitzek-a-24d9802e-382c-4fca-aa85-c9d6df38b093#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-gerard-depardieu-reichsbuerger-koenigreich-deutschland-christina-block](https://www.spiegel.de/politik/deutschland/news-des-tages-gerard-depardieu-reichsbuerger-koenigreich-deutschland-christina-block-a-89262090-9df1-47d3-9951-8f482b136c81#ref=rss)
-* [https://www.spiegel.de/panorama/freie-universitaet-berlin-keine-abschiebungen-nach-propalaestinensischen-protesten](https://www.spiegel.de/panorama/freie-universitaet-berlin-keine-abschiebungen-nach-propalaestinensischen-protesten-a-97f5c4c4-c53b-44c7-b2e5-3e693e2f3dcf#ref=rss)
-### pkk
-
-* [https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-podcast](https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-podcast-a-e7c5b9b8-3d22-44ce-b6af-3fe349ed2200#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden](https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-a-2749da54-9c08-4395-bcba-c02ea34ac2ef#ref=rss)
-### kurden
-
-* [https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-podcast](https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-podcast-a-e7c5b9b8-3d22-44ce-b6af-3fe349ed2200#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden](https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-a-2749da54-9c08-4395-bcba-c02ea34ac2ef#ref=rss)
-### saudiarabien
-
-* [https://www.spiegel.de/ausland/usa-trump-news-robert-f-kennedy-jr-schwimmt-in-faekalien-fluss](https://www.spiegel.de/ausland/usa-trump-news-robert-f-kennedy-jr-schwimmt-in-faekalien-fluss-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
-* [https://www.spiegel.de/ausland/us-praesident-besucht-nahost-staaten-trumps-geldreise](https://www.spiegel.de/ausland/us-praesident-besucht-nahost-staaten-trumps-geldreise-a-ac236627-ecf0-441d-b4e9-81b8f5f3dcd7#ref=rss)
-* [https://www.spiegel.de/ausland/usa-und-saudi-arabien-vereinbaren-ruestungsgeschaeft-mehr-als-140-milliarden-dollar](https://www.spiegel.de/ausland/usa-und-saudi-arabien-vereinbaren-ruestungsgeschaeft-mehr-als-140-milliarden-dollar-a-048bb2f4-4373-43d3-a725-37f80ead3808#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/friedrich-merz-widerstand-in-der-unionsfraktion-gegen-sommerfest-mit-spd](https://www.spiegel.de/politik/friedrich-merz-widerstand-in-der-unionsfraktion-gegen-sommerfest-mit-spd-a-e732c864-3e10-4beb-a59f-e867b0f25e7b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/cdu-wirtschaftstag-friedrich-merz-erhaelt-unterstuetzung-von-dax-managern](https://www.spiegel.de/wirtschaft/unternehmen/cdu-wirtschaftstag-friedrich-merz-erhaelt-unterstuetzung-von-dax-managern-a-d165fb32-5d17-4f1a-b117-d98ae7b7710b#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/friedrich-merz-widerstand-in-der-unionsfraktion-gegen-sommerfest-mit-spd](https://www.spiegel.de/politik/friedrich-merz-widerstand-in-der-unionsfraktion-gegen-sommerfest-mit-spd-a-e732c864-3e10-4beb-a59f-e867b0f25e7b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/cdu-wirtschaftstag-friedrich-merz-erhaelt-unterstuetzung-von-dax-managern](https://www.spiegel.de/wirtschaft/unternehmen/cdu-wirtschaftstag-friedrich-merz-erhaelt-unterstuetzung-von-dax-managern-a-d165fb32-5d17-4f1a-b117-d98ae7b7710b#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/cdu-wirtschaftstag-friedrich-merz-erhaelt-unterstuetzung-von-dax-managern](https://www.spiegel.de/wirtschaft/unternehmen/cdu-wirtschaftstag-friedrich-merz-erhaelt-unterstuetzung-von-dax-managern-a-d165fb32-5d17-4f1a-b117-d98ae7b7710b#ref=rss)
-* [https://www.spiegel.de/ausland/robert-f-kennedy-jr-us-gesundheitsminister-schwimmt-mit-enkeln-in-verseuchtem-bach](https://www.spiegel.de/ausland/robert-f-kennedy-jr-us-gesundheitsminister-schwimmt-mit-enkeln-in-verseuchtem-bach-a-71659dfe-9732-4c7e-9185-bf8e4bc89eb7#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/regensburg-82-jaehriger-uebergibt-betrueger-gold-in-sechsstelligem-wert](https://www.spiegel.de/netzwelt/web/regensburg-82-jaehriger-uebergibt-betrueger-gold-in-sechsstelligem-wert-a-e00d01c1-dbbf-4092-970c-c5a48353c060#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/aue-bad-schlema-in-sachsen-linke-und-cdu-stimmen-fuer-migrationsvorschlag-von-rechtsextremen](https://www.spiegel.de/panorama/gesellschaft/aue-bad-schlema-in-sachsen-linke-und-cdu-stimmen-fuer-migrationsvorschlag-von-rechtsextremen-a-71638784-f7a5-420e-8c5b-c0f117b146d9#ref=rss)
-### neue
-
-* [https://www.spiegel.de/wirtschaft/soziales/feldheim-in-brandenburg-warum-dieses-dorf-nur-12-cent-fuer-strom-bezahlt](https://www.spiegel.de/wirtschaft/soziales/feldheim-in-brandenburg-warum-dieses-dorf-nur-12-cent-fuer-strom-bezahlt-a-980172a0-da2b-450a-9768-4a3f6b681cfd#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/android-16-soll-bei-betrugsanrufen-warnen-und-schoener-werden](https://www.spiegel.de/netzwelt/gadgets/android-16-soll-bei-betrugsanrufen-warnen-und-schoener-werden-a-1ca18a5d-da48-4652-94e3-41645966f4fb#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/grossbritannien-brite-nach-38-jahren-unschuldig-entlassen-dna-beweise-entlasten-ihn](https://www.spiegel.de/panorama/justiz/grossbritannien-brite-nach-38-jahren-unschuldig-entlassen-dna-beweise-entlasten-ihn-a-0607bbde-6a1c-46e6-ad37-a56bbc3e24d7#ref=rss)
-### türkei
-
-* [https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-podcast](https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-podcast-a-e7c5b9b8-3d22-44ce-b6af-3fe349ed2200#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden](https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-a-2749da54-9c08-4395-bcba-c02ea34ac2ef#ref=rss)
-* [https://www.spiegel.de/ausland/us-praesident-besucht-nahost-staaten-trumps-geldreise](https://www.spiegel.de/ausland/us-praesident-besucht-nahost-staaten-trumps-geldreise-a-ac236627-ecf0-441d-b4e9-81b8f5f3dcd7#ref=rss)
-### kampf
-
-* [https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-podcast](https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-podcast-a-e7c5b9b8-3d22-44ce-b6af-3fe349ed2200#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden](https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-a-2749da54-9c08-4395-bcba-c02ea34ac2ef#ref=rss)
-* [https://www.spiegel.de/sport/olympia/moderner-fuenfkampf-kein-wettkampf-ist-so-hart-wie-ihr-kampf-um-die-foerdermittel](https://www.spiegel.de/sport/olympia/moderner-fuenfkampf-kein-wettkampf-ist-so-hart-wie-ihr-kampf-um-die-foerdermittel-a-e8f922eb-f77a-4ded-9dfb-0bbb70ec41e7#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/ausland/usa-trump-news-robert-f-kennedy-jr-schwimmt-in-faekalien-fluss](https://www.spiegel.de/ausland/usa-trump-news-robert-f-kennedy-jr-schwimmt-in-faekalien-fluss-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
-* [https://www.spiegel.de/ausland/us-praesident-besucht-nahost-staaten-trumps-geldreise](https://www.spiegel.de/ausland/us-praesident-besucht-nahost-staaten-trumps-geldreise-a-ac236627-ecf0-441d-b4e9-81b8f5f3dcd7#ref=rss)
-* [https://www.spiegel.de/ausland/oesterreich-kanzler-christian-stocker-warnt-vor-amerikanischen-verhaeltnissen](https://www.spiegel.de/ausland/oesterreich-kanzler-christian-stocker-warnt-vor-amerikanischen-verhaeltnissen-a-daea4328-cce1-42e0-a8a6-a3c82452b1aa#ref=rss)
-### kennedy
-
-* [https://www.spiegel.de/ausland/usa-trump-news-robert-f-kennedy-jr-schwimmt-in-faekalien-fluss](https://www.spiegel.de/ausland/usa-trump-news-robert-f-kennedy-jr-schwimmt-in-faekalien-fluss-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
-* [https://www.spiegel.de/ausland/robert-f-kennedy-jr-us-gesundheitsminister-schwimmt-mit-enkeln-in-verseuchtem-bach](https://www.spiegel.de/ausland/robert-f-kennedy-jr-us-gesundheitsminister-schwimmt-mit-enkeln-in-verseuchtem-bach-a-71659dfe-9732-4c7e-9185-bf8e4bc89eb7#ref=rss)
-### bach
-
-* [https://www.spiegel.de/ausland/usa-trump-news-robert-f-kennedy-jr-schwimmt-in-faekalien-fluss](https://www.spiegel.de/ausland/usa-trump-news-robert-f-kennedy-jr-schwimmt-in-faekalien-fluss-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
-* [https://www.spiegel.de/ausland/robert-f-kennedy-jr-us-gesundheitsminister-schwimmt-mit-enkeln-in-verseuchtem-bach](https://www.spiegel.de/ausland/robert-f-kennedy-jr-us-gesundheitsminister-schwimmt-mit-enkeln-in-verseuchtem-bach-a-71659dfe-9732-4c7e-9185-bf8e4bc89eb7#ref=rss)
-### spd
-
-* [https://www.spiegel.de/politik/friedrich-merz-widerstand-in-der-unionsfraktion-gegen-sommerfest-mit-spd](https://www.spiegel.de/politik/friedrich-merz-widerstand-in-der-unionsfraktion-gegen-sommerfest-mit-spd-a-e732c864-3e10-4beb-a59f-e867b0f25e7b#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/aue-bad-schlema-in-sachsen-linke-und-cdu-stimmen-fuer-migrationsvorschlag-von-rechtsextremen](https://www.spiegel.de/panorama/gesellschaft/aue-bad-schlema-in-sachsen-linke-und-cdu-stimmen-fuer-migrationsvorschlag-von-rechtsextremen-a-71638784-f7a5-420e-8c5b-c0f117b146d9#ref=rss)
-### dagegen
-
-* [https://www.spiegel.de/politik/friedrich-merz-widerstand-in-der-unionsfraktion-gegen-sommerfest-mit-spd](https://www.spiegel.de/politik/friedrich-merz-widerstand-in-der-unionsfraktion-gegen-sommerfest-mit-spd-a-e732c864-3e10-4beb-a59f-e867b0f25e7b#ref=rss)
-* [https://www.spiegel.de/panorama/freie-universitaet-berlin-keine-abschiebungen-nach-propalaestinensischen-protesten](https://www.spiegel.de/panorama/freie-universitaet-berlin-keine-abschiebungen-nach-propalaestinensischen-protesten-a-97f5c4c4-c53b-44c7-b2e5-3e693e2f3dcf#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/im-bundestag-gibt-es-mehr-waffendelikte-und-mehr-beleidigungen](https://www.spiegel.de/politik/deutschland/im-bundestag-gibt-es-mehr-waffendelikte-und-mehr-beleidigungen-a-cae68ce8-f8c2-4aa4-9c1d-6d407e38eb12#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/politik/friedrich-merz-widerstand-in-der-unionsfraktion-gegen-sommerfest-mit-spd](https://www.spiegel.de/politik/friedrich-merz-widerstand-in-der-unionsfraktion-gegen-sommerfest-mit-spd-a-e732c864-3e10-4beb-a59f-e867b0f25e7b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/ein-zerrissenes-testament-ist-unwirksam](https://www.spiegel.de/wirtschaft/service/ein-zerrissenes-testament-ist-unwirksam-a-c1983c2d-358f-4eb9-944c-aed736535f9d#ref=rss)
-* [https://www.spiegel.de/panorama/freie-universitaet-berlin-keine-abschiebungen-nach-propalaestinensischen-protesten](https://www.spiegel.de/panorama/freie-universitaet-berlin-keine-abschiebungen-nach-propalaestinensischen-protesten-a-97f5c4c4-c53b-44c7-b2e5-3e693e2f3dcf#ref=rss)
-### königreich
-
-* [https://www.spiegel.de/panorama/justiz/reichsbuerger-800-einsatzkraefte-beenden-koenigreich-deutschland-von-fitzek](https://www.spiegel.de/panorama/justiz/reichsbuerger-800-einsatzkraefte-beenden-koenigreich-deutschland-von-fitzek-a-24d9802e-382c-4fca-aa85-c9d6df38b093#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-gerard-depardieu-reichsbuerger-koenigreich-deutschland-christina-block](https://www.spiegel.de/politik/deutschland/news-des-tages-gerard-depardieu-reichsbuerger-koenigreich-deutschland-christina-block-a-89262090-9df1-47d3-9951-8f482b136c81#ref=rss)
-### cdu
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/cdu-wirtschaftstag-friedrich-merz-erhaelt-unterstuetzung-von-dax-managern](https://www.spiegel.de/wirtschaft/unternehmen/cdu-wirtschaftstag-friedrich-merz-erhaelt-unterstuetzung-von-dax-managern-a-d165fb32-5d17-4f1a-b117-d98ae7b7710b#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/aue-bad-schlema-in-sachsen-linke-und-cdu-stimmen-fuer-migrationsvorschlag-von-rechtsextremen](https://www.spiegel.de/panorama/gesellschaft/aue-bad-schlema-in-sachsen-linke-und-cdu-stimmen-fuer-migrationsvorschlag-von-rechtsextremen-a-71638784-f7a5-420e-8c5b-c0f117b146d9#ref=rss)
-### stark
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/cdu-wirtschaftstag-friedrich-merz-erhaelt-unterstuetzung-von-dax-managern](https://www.spiegel.de/wirtschaft/unternehmen/cdu-wirtschaftstag-friedrich-merz-erhaelt-unterstuetzung-von-dax-managern-a-d165fb32-5d17-4f1a-b117-d98ae7b7710b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/im-bundestag-gibt-es-mehr-waffendelikte-und-mehr-beleidigungen](https://www.spiegel.de/politik/deutschland/im-bundestag-gibt-es-mehr-waffendelikte-und-mehr-beleidigungen-a-cae68ce8-f8c2-4aa4-9c1d-6d407e38eb12#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/usa-und-saudi-arabien-vereinbaren-ruestungsgeschaeft-mehr-als-140-milliarden-dollar](https://www.spiegel.de/ausland/usa-und-saudi-arabien-vereinbaren-ruestungsgeschaeft-mehr-als-140-milliarden-dollar-a-048bb2f4-4373-43d3-a725-37f80ead3808#ref=rss)
-* [https://www.spiegel.de/panorama/freie-universitaet-berlin-keine-abschiebungen-nach-propalaestinensischen-protesten](https://www.spiegel.de/panorama/freie-universitaet-berlin-keine-abschiebungen-nach-propalaestinensischen-protesten-a-97f5c4c4-c53b-44c7-b2e5-3e693e2f3dcf#ref=rss)
-### feldheim
-
-* [https://www.spiegel.de/wirtschaft/soziales/feldheim-in-brandenburg-warum-dieses-dorf-nur-12-cent-fuer-strom-bezahlt](https://www.spiegel.de/wirtschaft/soziales/feldheim-in-brandenburg-warum-dieses-dorf-nur-12-cent-fuer-strom-bezahlt-a-980172a0-da2b-450a-9768-4a3f6b681cfd#ref=rss)
-### strom
-
-* [https://www.spiegel.de/wirtschaft/soziales/feldheim-in-brandenburg-warum-dieses-dorf-nur-12-cent-fuer-strom-bezahlt](https://www.spiegel.de/wirtschaft/soziales/feldheim-in-brandenburg-warum-dieses-dorf-nur-12-cent-fuer-strom-bezahlt-a-980172a0-da2b-450a-9768-4a3f6b681cfd#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/wirtschaft/soziales/feldheim-in-brandenburg-warum-dieses-dorf-nur-12-cent-fuer-strom-bezahlt](https://www.spiegel.de/wirtschaft/soziales/feldheim-in-brandenburg-warum-dieses-dorf-nur-12-cent-fuer-strom-bezahlt-a-980172a0-da2b-450a-9768-4a3f6b681cfd#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-europaeische-schienengueter-verbaende-beschweren-sich-bei-minister-patrick-schnieder](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-europaeische-schienengueter-verbaende-beschweren-sich-bei-minister-patrick-schnieder-a-caea14be-2d60-436e-88b5-aa5beb01ed73#ref=rss)
-### antisemitismus
-
-* [https://www.spiegel.de/kultur/linken-parteitag-nicht-ueber-antisemitismus-zu-sprechen-ist-antisemitisch](https://www.spiegel.de/kultur/linken-parteitag-nicht-ueber-antisemitismus-zu-sprechen-ist-antisemitisch-a-f0ca9e5a-ac26-4d7d-91ad-2e3291c44c15#ref=rss)
-### land
-
-* [https://www.spiegel.de/kultur/linken-parteitag-nicht-ueber-antisemitismus-zu-sprechen-ist-antisemitisch](https://www.spiegel.de/kultur/linken-parteitag-nicht-ueber-antisemitismus-zu-sprechen-ist-antisemitisch-a-f0ca9e5a-ac26-4d7d-91ad-2e3291c44c15#ref=rss)
-* [https://www.spiegel.de/reise/italien-goethes-eindruecke-im-vergleich-zu-gen-z-touristen](https://www.spiegel.de/reise/italien-goethes-eindruecke-im-vergleich-zu-gen-z-touristen-a-9a8de79b-7788-4b1e-b613-a9e6a5a85305#ref=rss)
-### android
-
-* [https://www.spiegel.de/netzwelt/gadgets/android-16-soll-bei-betrugsanrufen-warnen-und-schoener-werden](https://www.spiegel.de/netzwelt/gadgets/android-16-soll-bei-betrugsanrufen-warnen-und-schoener-werden-a-1ca18a5d-da48-4652-94e3-41645966f4fb#ref=rss)
-### schöner
-
-* [https://www.spiegel.de/netzwelt/gadgets/android-16-soll-bei-betrugsanrufen-warnen-und-schoener-werden](https://www.spiegel.de/netzwelt/gadgets/android-16-soll-bei-betrugsanrufen-warnen-und-schoener-werden-a-1ca18a5d-da48-4652-94e3-41645966f4fb#ref=rss)
-### löst
-
-* [https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-podcast](https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-podcast-a-e7c5b9b8-3d22-44ce-b6af-3fe349ed2200#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden](https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-a-2749da54-9c08-4395-bcba-c02ea34ac2ef#ref=rss)
-### erdogan
-
-* [https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-podcast](https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-podcast-a-e7c5b9b8-3d22-44ce-b6af-3fe349ed2200#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden](https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-a-2749da54-9c08-4395-bcba-c02ea34ac2ef#ref=rss)
-### triumphiert
-
-* [https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-podcast](https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-podcast-a-e7c5b9b8-3d22-44ce-b6af-3fe349ed2200#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden](https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-a-2749da54-9c08-4395-bcba-c02ea34ac2ef#ref=rss)
-### türkischen
-
-* [https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-podcast](https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-podcast-a-e7c5b9b8-3d22-44ce-b6af-3fe349ed2200#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden](https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-a-2749da54-9c08-4395-bcba-c02ea34ac2ef#ref=rss)
-### staat
-
-* [https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-podcast](https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-podcast-a-e7c5b9b8-3d22-44ce-b6af-3fe349ed2200#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden](https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-a-2749da54-9c08-4395-bcba-c02ea34ac2ef#ref=rss)
-### erfolg
-
-* [https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-podcast](https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-podcast-a-e7c5b9b8-3d22-44ce-b6af-3fe349ed2200#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden](https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-a-2749da54-9c08-4395-bcba-c02ea34ac2ef#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-podcast](https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-podcast-a-e7c5b9b8-3d22-44ce-b6af-3fe349ed2200#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden](https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-a-2749da54-9c08-4395-bcba-c02ea34ac2ef#ref=rss)
-### erdoğan
-
-* [https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-podcast](https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-podcast-a-e7c5b9b8-3d22-44ce-b6af-3fe349ed2200#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden](https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-a-2749da54-9c08-4395-bcba-c02ea34ac2ef#ref=rss)
-### endet
-
-* [https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-podcast](https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-podcast-a-e7c5b9b8-3d22-44ce-b6af-3fe349ed2200#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden](https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-a-2749da54-9c08-4395-bcba-c02ea34ac2ef#ref=rss)
-### unterdrückung
-
-* [https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-podcast](https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-podcast-a-e7c5b9b8-3d22-44ce-b6af-3fe349ed2200#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden](https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-a-2749da54-9c08-4395-bcba-c02ea34ac2ef#ref=rss)
-### analyse
-
-* [https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-podcast](https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-podcast-a-e7c5b9b8-3d22-44ce-b6af-3fe349ed2200#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden](https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-a-2749da54-9c08-4395-bcba-c02ea34ac2ef#ref=rss)
-### maximilian
-
-* [https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-podcast](https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-podcast-a-e7c5b9b8-3d22-44ce-b6af-3fe349ed2200#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden](https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-a-2749da54-9c08-4395-bcba-c02ea34ac2ef#ref=rss)
-### popp
-
-* [https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-podcast](https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-podcast-a-e7c5b9b8-3d22-44ce-b6af-3fe349ed2200#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden](https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-a-2749da54-9c08-4395-bcba-c02ea34ac2ef#ref=rss)
-### stellvertretender
-
-* [https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-podcast](https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-podcast-a-e7c5b9b8-3d22-44ce-b6af-3fe349ed2200#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden](https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-a-2749da54-9c08-4395-bcba-c02ea34ac2ef#ref=rss)
-### leiter
-
-* [https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-podcast](https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-podcast-a-e7c5b9b8-3d22-44ce-b6af-3fe349ed2200#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden](https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-a-2749da54-9c08-4395-bcba-c02ea34ac2ef#ref=rss)
-### auslandsressorts
-
-* [https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-podcast](https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-podcast-a-e7c5b9b8-3d22-44ce-b6af-3fe349ed2200#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden](https://www.spiegel.de/ausland/tuerkei-pkk-loest-sich-auf-erdogan-triumphiert-und-die-kurden-a-2749da54-9c08-4395-bcba-c02ea34ac2ef#ref=rss)
-### alle
-
-* [https://www.spiegel.de/ausland/usa-trump-news-robert-f-kennedy-jr-schwimmt-in-faekalien-fluss](https://www.spiegel.de/ausland/usa-trump-news-robert-f-kennedy-jr-schwimmt-in-faekalien-fluss-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
-### sanktionen
-
-* [https://www.spiegel.de/ausland/usa-trump-news-robert-f-kennedy-jr-schwimmt-in-faekalien-fluss](https://www.spiegel.de/ausland/usa-trump-news-robert-f-kennedy-jr-schwimmt-in-faekalien-fluss-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
-### syrien
-
-* [https://www.spiegel.de/ausland/usa-trump-news-robert-f-kennedy-jr-schwimmt-in-faekalien-fluss](https://www.spiegel.de/ausland/usa-trump-news-robert-f-kennedy-jr-schwimmt-in-faekalien-fluss-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
-### enkeln
-
-* [https://www.spiegel.de/ausland/usa-trump-news-robert-f-kennedy-jr-schwimmt-in-faekalien-fluss](https://www.spiegel.de/ausland/usa-trump-news-robert-f-kennedy-jr-schwimmt-in-faekalien-fluss-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
-* [https://www.spiegel.de/ausland/robert-f-kennedy-jr-us-gesundheitsminister-schwimmt-mit-enkeln-in-verseuchtem-bach](https://www.spiegel.de/ausland/robert-f-kennedy-jr-us-gesundheitsminister-schwimmt-mit-enkeln-in-verseuchtem-bach-a-71659dfe-9732-4c7e-9185-bf8e4bc89eb7#ref=rss)
-### news
-
-* [https://www.spiegel.de/ausland/usa-trump-news-robert-f-kennedy-jr-schwimmt-in-faekalien-fluss](https://www.spiegel.de/ausland/usa-trump-news-robert-f-kennedy-jr-schwimmt-in-faekalien-fluss-a-81e94873-36e1-400b-a026-7fffc9ab6fd3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-gerard-depardieu-reichsbuerger-koenigreich-deutschland-christina-block](https://www.spiegel.de/politik/deutschland/news-des-tages-gerard-depardieu-reichsbuerger-koenigreich-deutschland-christina-block-a-89262090-9df1-47d3-9951-8f482b136c81#ref=rss)
-### unionsfraktion
-
-* [https://www.spiegel.de/politik/friedrich-merz-widerstand-in-der-unionsfraktion-gegen-sommerfest-mit-spd](https://www.spiegel.de/politik/friedrich-merz-widerstand-in-der-unionsfraktion-gegen-sommerfest-mit-spd-a-e732c864-3e10-4beb-a59f-e867b0f25e7b#ref=rss)
-### sommerfest
-
-* [https://www.spiegel.de/politik/friedrich-merz-widerstand-in-der-unionsfraktion-gegen-sommerfest-mit-spd](https://www.spiegel.de/politik/friedrich-merz-widerstand-in-der-unionsfraktion-gegen-sommerfest-mit-spd-a-e732c864-3e10-4beb-a59f-e867b0f25e7b#ref=rss)
-### reichsbürger
-
-* [https://www.spiegel.de/panorama/justiz/reichsbuerger-800-einsatzkraefte-beenden-koenigreich-deutschland-von-fitzek](https://www.spiegel.de/panorama/justiz/reichsbuerger-800-einsatzkraefte-beenden-koenigreich-deutschland-von-fitzek-a-24d9802e-382c-4fca-aa85-c9d6df38b093#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-gerard-depardieu-reichsbuerger-koenigreich-deutschland-christina-block](https://www.spiegel.de/politik/deutschland/news-des-tages-gerard-depardieu-reichsbuerger-koenigreich-deutschland-christina-block-a-89262090-9df1-47d3-9951-8f482b136c81#ref=rss)
-### 800
-
-* [https://www.spiegel.de/panorama/justiz/reichsbuerger-800-einsatzkraefte-beenden-koenigreich-deutschland-von-fitzek](https://www.spiegel.de/panorama/justiz/reichsbuerger-800-einsatzkraefte-beenden-koenigreich-deutschland-von-fitzek-a-24d9802e-382c-4fca-aa85-c9d6df38b093#ref=rss)
-### einsatzkräfte
-
-* [https://www.spiegel.de/panorama/justiz/reichsbuerger-800-einsatzkraefte-beenden-koenigreich-deutschland-von-fitzek](https://www.spiegel.de/panorama/justiz/reichsbuerger-800-einsatzkraefte-beenden-koenigreich-deutschland-von-fitzek-a-24d9802e-382c-4fca-aa85-c9d6df38b093#ref=rss)
-### beenden
-
-* [https://www.spiegel.de/panorama/justiz/reichsbuerger-800-einsatzkraefte-beenden-koenigreich-deutschland-von-fitzek](https://www.spiegel.de/panorama/justiz/reichsbuerger-800-einsatzkraefte-beenden-koenigreich-deutschland-von-fitzek-a-24d9802e-382c-4fca-aa85-c9d6df38b093#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-laesst-geisel-edan-alexander-frei-nach-verhandlung-mit-donald-trump](https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-laesst-geisel-edan-alexander-frei-nach-verhandlung-mit-donald-trump-a-5c70dc00-cf71-4bc2-ab15-5a457279a900#ref=rss)
-### fitzek
-
-* [https://www.spiegel.de/panorama/justiz/reichsbuerger-800-einsatzkraefte-beenden-koenigreich-deutschland-von-fitzek](https://www.spiegel.de/panorama/justiz/reichsbuerger-800-einsatzkraefte-beenden-koenigreich-deutschland-von-fitzek-a-24d9802e-382c-4fca-aa85-c9d6df38b093#ref=rss)
-### peter
-
-* [https://www.spiegel.de/panorama/justiz/reichsbuerger-800-einsatzkraefte-beenden-koenigreich-deutschland-von-fitzek](https://www.spiegel.de/panorama/justiz/reichsbuerger-800-einsatzkraefte-beenden-koenigreich-deutschland-von-fitzek-a-24d9802e-382c-4fca-aa85-c9d6df38b093#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-gerard-depardieu-reichsbuerger-koenigreich-deutschland-christina-block](https://www.spiegel.de/politik/deutschland/news-des-tages-gerard-depardieu-reichsbuerger-koenigreich-deutschland-christina-block-a-89262090-9df1-47d3-9951-8f482b136c81#ref=rss)
-### trumps
-
-* [https://www.spiegel.de/ausland/us-praesident-besucht-nahost-staaten-trumps-geldreise](https://www.spiegel.de/ausland/us-praesident-besucht-nahost-staaten-trumps-geldreise-a-ac236627-ecf0-441d-b4e9-81b8f5f3dcd7#ref=rss)
-### bietet
-
-* [https://www.spiegel.de/ausland/us-praesident-besucht-nahost-staaten-trumps-geldreise](https://www.spiegel.de/ausland/us-praesident-besucht-nahost-staaten-trumps-geldreise-a-ac236627-ecf0-441d-b4e9-81b8f5f3dcd7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-europaeische-schienengueter-verbaende-beschweren-sich-bei-minister-patrick-schnieder](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-europaeische-schienengueter-verbaende-beschweren-sich-bei-minister-patrick-schnieder-a-caea14be-2d60-436e-88b5-aa5beb01ed73#ref=rss)
-### manchester
-
-* [https://www.spiegel.de/sport/fussball/manchester-city-hat-angeblich-ein-angebot-fuer-florian-wirtz-von-bayer-leverkusen-abgegeben](https://www.spiegel.de/sport/fussball/manchester-city-hat-angeblich-ein-angebot-fuer-florian-wirtz-von-bayer-leverkusen-abgegeben-a-b88bfc9d-1aca-4fa8-8ed8-c42111cd174f#ref=rss)
-### city
-
-* [https://www.spiegel.de/sport/fussball/manchester-city-hat-angeblich-ein-angebot-fuer-florian-wirtz-von-bayer-leverkusen-abgegeben](https://www.spiegel.de/sport/fussball/manchester-city-hat-angeblich-ein-angebot-fuer-florian-wirtz-von-bayer-leverkusen-abgegeben-a-b88bfc9d-1aca-4fa8-8ed8-c42111cd174f#ref=rss)
-### florian
-
-* [https://www.spiegel.de/sport/fussball/manchester-city-hat-angeblich-ein-angebot-fuer-florian-wirtz-von-bayer-leverkusen-abgegeben](https://www.spiegel.de/sport/fussball/manchester-city-hat-angeblich-ein-angebot-fuer-florian-wirtz-von-bayer-leverkusen-abgegeben-a-b88bfc9d-1aca-4fa8-8ed8-c42111cd174f#ref=rss)
-### wirtz
-
-* [https://www.spiegel.de/sport/fussball/manchester-city-hat-angeblich-ein-angebot-fuer-florian-wirtz-von-bayer-leverkusen-abgegeben](https://www.spiegel.de/sport/fussball/manchester-city-hat-angeblich-ein-angebot-fuer-florian-wirtz-von-bayer-leverkusen-abgegeben-a-b88bfc9d-1aca-4fa8-8ed8-c42111cd174f#ref=rss)
-### bayer
-
-* [https://www.spiegel.de/sport/fussball/manchester-city-hat-angeblich-ein-angebot-fuer-florian-wirtz-von-bayer-leverkusen-abgegeben](https://www.spiegel.de/sport/fussball/manchester-city-hat-angeblich-ein-angebot-fuer-florian-wirtz-von-bayer-leverkusen-abgegeben-a-b88bfc9d-1aca-4fa8-8ed8-c42111cd174f#ref=rss)
-### leverkusen
-
-* [https://www.spiegel.de/sport/fussball/manchester-city-hat-angeblich-ein-angebot-fuer-florian-wirtz-von-bayer-leverkusen-abgegeben](https://www.spiegel.de/sport/fussball/manchester-city-hat-angeblich-ein-angebot-fuer-florian-wirtz-von-bayer-leverkusen-abgegeben-a-b88bfc9d-1aca-4fa8-8ed8-c42111cd174f#ref=rss)
-### laut
-
-* [https://www.spiegel.de/sport/fussball/manchester-city-hat-angeblich-ein-angebot-fuer-florian-wirtz-von-bayer-leverkusen-abgegeben](https://www.spiegel.de/sport/fussball/manchester-city-hat-angeblich-ein-angebot-fuer-florian-wirtz-von-bayer-leverkusen-abgegeben-a-b88bfc9d-1aca-4fa8-8ed8-c42111cd174f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/im-bundestag-gibt-es-mehr-waffendelikte-und-mehr-beleidigungen](https://www.spiegel.de/politik/deutschland/im-bundestag-gibt-es-mehr-waffendelikte-und-mehr-beleidigungen-a-cae68ce8-f8c2-4aa4-9c1d-6d407e38eb12#ref=rss)
-### facebooklivestream
-
-* [https://www.spiegel.de/ausland/mexiko-lokalpolitikerin-waehrend-facebook-livestream](https://www.spiegel.de/ausland/mexiko-lokalpolitikerin-waehrend-facebook-livestream-a-a031ba11-a226-4b17-acf8-a13503c4c164#ref=rss)
-### erhält
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/cdu-wirtschaftstag-friedrich-merz-erhaelt-unterstuetzung-von-dax-managern](https://www.spiegel.de/wirtschaft/unternehmen/cdu-wirtschaftstag-friedrich-merz-erhaelt-unterstuetzung-von-dax-managern-a-d165fb32-5d17-4f1a-b117-d98ae7b7710b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-gerard-depardieu-reichsbuerger-koenigreich-deutschland-christina-block](https://www.spiegel.de/politik/deutschland/news-des-tages-gerard-depardieu-reichsbuerger-koenigreich-deutschland-christina-block-a-89262090-9df1-47d3-9951-8f482b136c81#ref=rss)
-### yuval
-
-* [https://www.spiegel.de/kultur/esc-yuval-raphael-probt-mit-ablenkungen-um-sich-auf-buhrufe-vorzubereiten](https://www.spiegel.de/kultur/esc-yuval-raphael-probt-mit-ablenkungen-um-sich-auf-buhrufe-vorzubereiten-a-2da123e0-4059-4d12-a5e7-bac4b1f66485#ref=rss)
-### raphael
-
-* [https://www.spiegel.de/kultur/esc-yuval-raphael-probt-mit-ablenkungen-um-sich-auf-buhrufe-vorzubereiten](https://www.spiegel.de/kultur/esc-yuval-raphael-probt-mit-ablenkungen-um-sich-auf-buhrufe-vorzubereiten-a-2da123e0-4059-4d12-a5e7-bac4b1f66485#ref=rss)
-### israels
-
-* [https://www.spiegel.de/kultur/esc-yuval-raphael-probt-mit-ablenkungen-um-sich-auf-buhrufe-vorzubereiten](https://www.spiegel.de/kultur/esc-yuval-raphael-probt-mit-ablenkungen-um-sich-auf-buhrufe-vorzubereiten-a-2da123e0-4059-4d12-a5e7-bac4b1f66485#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-laesst-geisel-edan-alexander-frei-nach-verhandlung-mit-donald-trump](https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-laesst-geisel-edan-alexander-frei-nach-verhandlung-mit-donald-trump-a-5c70dc00-cf71-4bc2-ab15-5a457279a900#ref=rss)
-### gérard
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-gerard-depardieu-reichsbuerger-koenigreich-deutschland-christina-block](https://www.spiegel.de/politik/deutschland/news-des-tages-gerard-depardieu-reichsbuerger-koenigreich-deutschland-christina-block-a-89262090-9df1-47d3-9951-8f482b136c81#ref=rss)
-### depardieu
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-gerard-depardieu-reichsbuerger-koenigreich-deutschland-christina-block](https://www.spiegel.de/politik/deutschland/news-des-tages-gerard-depardieu-reichsbuerger-koenigreich-deutschland-christina-block-a-89262090-9df1-47d3-9951-8f482b136c81#ref=rss)
-### christina
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-gerard-depardieu-reichsbuerger-koenigreich-deutschland-christina-block](https://www.spiegel.de/politik/deutschland/news-des-tages-gerard-depardieu-reichsbuerger-koenigreich-deutschland-christina-block-a-89262090-9df1-47d3-9951-8f482b136c81#ref=rss)
-### block
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-gerard-depardieu-reichsbuerger-koenigreich-deutschland-christina-block](https://www.spiegel.de/politik/deutschland/news-des-tages-gerard-depardieu-reichsbuerger-koenigreich-deutschland-christina-block-a-89262090-9df1-47d3-9951-8f482b136c81#ref=rss)
-### testament
-
-* [https://www.spiegel.de/wirtschaft/service/ein-zerrissenes-testament-ist-unwirksam](https://www.spiegel.de/wirtschaft/service/ein-zerrissenes-testament-ist-unwirksam-a-c1983c2d-358f-4eb9-944c-aed736535f9d#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/wirtschaft/service/ein-zerrissenes-testament-ist-unwirksam](https://www.spiegel.de/wirtschaft/service/ein-zerrissenes-testament-ist-unwirksam-a-c1983c2d-358f-4eb9-944c-aed736535f9d#ref=rss)
-* [https://www.spiegel.de/panorama/freie-universitaet-berlin-keine-abschiebungen-nach-propalaestinensischen-protesten](https://www.spiegel.de/panorama/freie-universitaet-berlin-keine-abschiebungen-nach-propalaestinensischen-protesten-a-97f5c4c4-c53b-44c7-b2e5-3e693e2f3dcf#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/ausland/usa-und-saudi-arabien-vereinbaren-ruestungsgeschaeft-mehr-als-140-milliarden-dollar](https://www.spiegel.de/ausland/usa-und-saudi-arabien-vereinbaren-ruestungsgeschaeft-mehr-als-140-milliarden-dollar-a-048bb2f4-4373-43d3-a725-37f80ead3808#ref=rss)
-* [https://www.spiegel.de/reise/italien-goethes-eindruecke-im-vergleich-zu-gen-z-touristen](https://www.spiegel.de/reise/italien-goethes-eindruecke-im-vergleich-zu-gen-z-touristen-a-9a8de79b-7788-4b1e-b613-a9e6a5a85305#ref=rss)
-### netflix
-
-* [https://www.spiegel.de/kultur/tv/netflix-entfernt-offenbar-saemtliche-interaktiven-filme](https://www.spiegel.de/kultur/tv/netflix-entfernt-offenbar-saemtliche-interaktiven-filme-a-c1e86fca-7eb5-475c-b5a6-b84c04c74c61#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/kultur/tv/netflix-entfernt-offenbar-saemtliche-interaktiven-filme](https://www.spiegel.de/kultur/tv/netflix-entfernt-offenbar-saemtliche-interaktiven-filme-a-c1e86fca-7eb5-475c-b5a6-b84c04c74c61#ref=rss)
-* [https://www.spiegel.de/ausland/robert-f-kennedy-jr-us-gesundheitsminister-schwimmt-mit-enkeln-in-verseuchtem-bach](https://www.spiegel.de/ausland/robert-f-kennedy-jr-us-gesundheitsminister-schwimmt-mit-enkeln-in-verseuchtem-bach-a-71659dfe-9732-4c7e-9185-bf8e4bc89eb7#ref=rss)
-### interaktiven
-
-* [https://www.spiegel.de/kultur/tv/netflix-entfernt-offenbar-saemtliche-interaktiven-filme](https://www.spiegel.de/kultur/tv/netflix-entfernt-offenbar-saemtliche-interaktiven-filme-a-c1e86fca-7eb5-475c-b5a6-b84c04c74c61#ref=rss)
-### robert
-
-* [https://www.spiegel.de/ausland/robert-f-kennedy-jr-us-gesundheitsminister-schwimmt-mit-enkeln-in-verseuchtem-bach](https://www.spiegel.de/ausland/robert-f-kennedy-jr-us-gesundheitsminister-schwimmt-mit-enkeln-in-verseuchtem-bach-a-71659dfe-9732-4c7e-9185-bf8e4bc89eb7#ref=rss)
-### f
-
-* [https://www.spiegel.de/ausland/robert-f-kennedy-jr-us-gesundheitsminister-schwimmt-mit-enkeln-in-verseuchtem-bach](https://www.spiegel.de/ausland/robert-f-kennedy-jr-us-gesundheitsminister-schwimmt-mit-enkeln-in-verseuchtem-bach-a-71659dfe-9732-4c7e-9185-bf8e4bc89eb7#ref=rss)
-### jr
-
-* [https://www.spiegel.de/ausland/robert-f-kennedy-jr-us-gesundheitsminister-schwimmt-mit-enkeln-in-verseuchtem-bach](https://www.spiegel.de/ausland/robert-f-kennedy-jr-us-gesundheitsminister-schwimmt-mit-enkeln-in-verseuchtem-bach-a-71659dfe-9732-4c7e-9185-bf8e4bc89eb7#ref=rss)
-### usgesundheitsminister
-
-* [https://www.spiegel.de/ausland/robert-f-kennedy-jr-us-gesundheitsminister-schwimmt-mit-enkeln-in-verseuchtem-bach](https://www.spiegel.de/ausland/robert-f-kennedy-jr-us-gesundheitsminister-schwimmt-mit-enkeln-in-verseuchtem-bach-a-71659dfe-9732-4c7e-9185-bf8e4bc89eb7#ref=rss)
 ### deutsche
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-europaeische-schienengueter-verbaende-beschweren-sich-bei-minister-patrick-schnieder](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-europaeische-schienengueter-verbaende-beschweren-sich-bei-minister-patrick-schnieder-a-caea14be-2d60-436e-88b5-aa5beb01ed73#ref=rss)
-* [https://www.spiegel.de/sport/olympia/moderner-fuenfkampf-kein-wettkampf-ist-so-hart-wie-ihr-kampf-um-die-foerdermittel](https://www.spiegel.de/sport/olympia/moderner-fuenfkampf-kein-wettkampf-ist-so-hart-wie-ihr-kampf-um-die-foerdermittel-a-e8f922eb-f77a-4ded-9dfb-0bbb70ec41e7#ref=rss)
-### bahn
+* [https://www.spiegel.de/netzwelt/gadgets/wlan-netze-viele-nutzer-arrangieren-sich-mit-mangelhafter-verbindung](https://www.spiegel.de/netzwelt/gadgets/wlan-netze-viele-nutzer-arrangieren-sich-mit-mangelhafter-verbindung-a-e9e80608-0fa4-478c-8681-9e6ea7e7a062#ref=rss)
+* [https://www.spiegel.de/sport/eishockey/eishockey-wm-kritik-an-eisflaechen-in-herning-wegen-verletzungsgefahr](https://www.spiegel.de/sport/eishockey/eishockey-wm-kritik-an-eisflaechen-in-herning-wegen-verletzungsgefahr-a-10b7006e-17fc-4e92-b372-bbdca6877261#ref=rss)
+* [https://www.spiegel.de/wirtschaft/kreativ-bremse-ifo-chef-fuest-beklagt-rahmenbedingungen-fuer-deutsche-start-ups](https://www.spiegel.de/wirtschaft/kreativ-bremse-ifo-chef-fuest-beklagt-rahmenbedingungen-fuer-deutsche-start-ups-a-41c07d6e-787a-48bb-a979-033dc278b900#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/marie-nejar-saengerin-und-schwarze-ns-zeitzeugin-ist-gestorben](https://www.spiegel.de/panorama/gesellschaft/marie-nejar-saengerin-und-schwarze-ns-zeitzeugin-ist-gestorben-a-f93ae3a6-6fec-4f54-bf9e-5478ae18a43a#ref=rss)
+### wenig
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-europaeische-schienengueter-verbaende-beschweren-sich-bei-minister-patrick-schnieder](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-europaeische-schienengueter-verbaende-beschweren-sich-bei-minister-patrick-schnieder-a-caea14be-2d60-436e-88b5-aa5beb01ed73#ref=rss)
-### schienengüterverbände
+* [https://www.spiegel.de/gesundheit/ernaehrung/ernaehrung-fuer-kinder-wenig-gemuese-auf-kinder-speisekarten-in-restaurants](https://www.spiegel.de/gesundheit/ernaehrung/ernaehrung-fuer-kinder-wenig-gemuese-auf-kinder-speisekarten-in-restaurants-a-9d1b09ba-9864-4b00-b265-5e8ce8dc3d42#ref=rss)
+* [https://www.spiegel.de/ausland/papst-leo-xiv-bruder-louis-prevost-verbreitete-verschwoerungstheorien-auf-facebook-und-nennt-sich-maga-typen](https://www.spiegel.de/ausland/papst-leo-xiv-bruder-louis-prevost-verbreitete-verschwoerungstheorien-auf-facebook-und-nennt-sich-maga-typen-a-d8fee61f-2c1f-418d-ad55-a76b710693eb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/inflation-in-deutschland-sinkt-auf-2-1-prozent](https://www.spiegel.de/wirtschaft/inflation-in-deutschland-sinkt-auf-2-1-prozent-a-2397f277-e64f-4eef-9970-5ba8829715fe#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-europaeische-schienengueter-verbaende-beschweren-sich-bei-minister-patrick-schnieder](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-europaeische-schienengueter-verbaende-beschweren-sich-bei-minister-patrick-schnieder-a-caea14be-2d60-436e-88b5-aa5beb01ed73#ref=rss)
-### schnieder
+* [https://www.spiegel.de/ausland/enthuellungsbuch-ueber-joe-biden-was-washington-wusste](https://www.spiegel.de/ausland/enthuellungsbuch-ueber-joe-biden-was-washington-wusste-a-e957e97d-6d8e-4849-b22b-173452170410#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-offenbar-qualitaetsmaengel-bei-neuen-fallschirmen-festgestellt](https://www.spiegel.de/politik/deutschland/bundeswehr-offenbar-qualitaetsmaengel-bei-neuen-fallschirmen-festgestellt-a-4b310061-c321-4f90-90d3-fab56d5f70bb#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/aktionsrat-bildung-fachleute-fordern-neuen-pisa-vergleich-der-bundeslaender](https://www.spiegel.de/panorama/bildung/aktionsrat-bildung-fachleute-fordern-neuen-pisa-vergleich-der-bundeslaender-a-ad20495f-3091-48a8-9390-6fa160356b65#ref=rss)
+### usa
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-europaeische-schienengueter-verbaende-beschweren-sich-bei-minister-patrick-schnieder](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-europaeische-schienengueter-verbaende-beschweren-sich-bei-minister-patrick-schnieder-a-caea14be-2d60-436e-88b5-aa5beb01ed73#ref=rss)
-### italien
+* [https://www.spiegel.de/panorama/usa-washington-bergsteiger-ueberlebt-120-meter-sturz-drei-begleiter-sterben](https://www.spiegel.de/panorama/usa-washington-bergsteiger-ueberlebt-120-meter-sturz-drei-begleiter-sterben-a-21bc2b46-9e9b-42fb-b7b0-59b422021c0e#ref=rss)
+* [https://www.spiegel.de/ausland/iran-bestaetigt-neue-atom-verhandlungen-in-istanbul](https://www.spiegel.de/ausland/iran-bestaetigt-neue-atom-verhandlungen-in-istanbul-a-19a6cd5e-0728-44ec-b321-1202970ef8e0#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-in-den-usa-human-rights-watch-kritisiert-fifa](https://www.spiegel.de/sport/fussball/fussball-wm-2026-in-den-usa-human-rights-watch-kritisiert-fifa-a-5be51c06-dde2-46e7-b05c-333f103e12d2#ref=rss)
+### oft
 
-* [https://www.spiegel.de/reise/italien-goethes-eindruecke-im-vergleich-zu-gen-z-touristen](https://www.spiegel.de/reise/italien-goethes-eindruecke-im-vergleich-zu-gen-z-touristen-a-9a8de79b-7788-4b1e-b613-a9e6a5a85305#ref=rss)
-### eindrücke
+* [https://www.spiegel.de/gesundheit/ernaehrung/ernaehrung-fuer-kinder-wenig-gemuese-auf-kinder-speisekarten-in-restaurants](https://www.spiegel.de/gesundheit/ernaehrung/ernaehrung-fuer-kinder-wenig-gemuese-auf-kinder-speisekarten-in-restaurants-a-9d1b09ba-9864-4b00-b265-5e8ce8dc3d42#ref=rss)
+* [https://www.spiegel.de/wirtschaft/kreativ-bremse-ifo-chef-fuest-beklagt-rahmenbedingungen-fuer-deutsche-start-ups](https://www.spiegel.de/wirtschaft/kreativ-bremse-ifo-chef-fuest-beklagt-rahmenbedingungen-fuer-deutsche-start-ups-a-41c07d6e-787a-48bb-a979-033dc278b900#ref=rss)
+### neue
 
-* [https://www.spiegel.de/reise/italien-goethes-eindruecke-im-vergleich-zu-gen-z-touristen](https://www.spiegel.de/reise/italien-goethes-eindruecke-im-vergleich-zu-gen-z-touristen-a-9a8de79b-7788-4b1e-b613-a9e6a5a85305#ref=rss)
-### genztouristen
+* [https://www.spiegel.de/ausland/papst-leo-xiv-bruder-louis-prevost-verbreitete-verschwoerungstheorien-auf-facebook-und-nennt-sich-maga-typen](https://www.spiegel.de/ausland/papst-leo-xiv-bruder-louis-prevost-verbreitete-verschwoerungstheorien-auf-facebook-und-nennt-sich-maga-typen-a-d8fee61f-2c1f-418d-ad55-a76b710693eb#ref=rss)
+* [https://www.spiegel.de/ausland/iran-bestaetigt-neue-atom-verhandlungen-in-istanbul](https://www.spiegel.de/ausland/iran-bestaetigt-neue-atom-verhandlungen-in-istanbul-a-19a6cd5e-0728-44ec-b321-1202970ef8e0#ref=rss)
+### selbst
 
-* [https://www.spiegel.de/reise/italien-goethes-eindruecke-im-vergleich-zu-gen-z-touristen](https://www.spiegel.de/reise/italien-goethes-eindruecke-im-vergleich-zu-gen-z-touristen-a-9a8de79b-7788-4b1e-b613-a9e6a5a85305#ref=rss)
-### kanzler
+* [https://www.spiegel.de/ausland/papst-leo-xiv-bruder-louis-prevost-verbreitete-verschwoerungstheorien-auf-facebook-und-nennt-sich-maga-typen](https://www.spiegel.de/ausland/papst-leo-xiv-bruder-louis-prevost-verbreitete-verschwoerungstheorien-auf-facebook-und-nennt-sich-maga-typen-a-d8fee61f-2c1f-418d-ad55-a76b710693eb#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bremen-mann-droht-im-supermarkt-mit-selbstverletzung-vor-kind](https://www.spiegel.de/panorama/justiz/bremen-mann-droht-im-supermarkt-mit-selbstverletzung-vor-kind-a-4b516b0d-5099-4e36-9f36-7a76f5e39e48#ref=rss)
+### klingbeil
 
-* [https://www.spiegel.de/ausland/oesterreich-kanzler-christian-stocker-warnt-vor-amerikanischen-verhaeltnissen](https://www.spiegel.de/ausland/oesterreich-kanzler-christian-stocker-warnt-vor-amerikanischen-verhaeltnissen-a-daea4328-cce1-42e0-a8a6-a3c82452b1aa#ref=rss)
-### stocker
+* [https://www.spiegel.de/politik/deutschland/bundestag-lars-klingbeil-und-thorsten-frei-beantworten-fragen-regierungserklaerung-von-friedrich-merz](https://www.spiegel.de/politik/deutschland/bundestag-lars-klingbeil-und-thorsten-frei-beantworten-fragen-regierungserklaerung-von-friedrich-merz-a-c58676eb-603b-4109-8d23-6e191014d233#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-generalsekretaer-tim-kluessendorf-wir-haben-ein-schlechtes-bild-abgegeben](https://www.spiegel.de/politik/deutschland/spd-generalsekretaer-tim-kluessendorf-wir-haben-ein-schlechtes-bild-abgegeben-a-4c383807-7b9c-4549-bcc8-c723c60a37ee#ref=rss)
+### kritisiert
 
-* [https://www.spiegel.de/ausland/oesterreich-kanzler-christian-stocker-warnt-vor-amerikanischen-verhaeltnissen](https://www.spiegel.de/ausland/oesterreich-kanzler-christian-stocker-warnt-vor-amerikanischen-verhaeltnissen-a-daea4328-cce1-42e0-a8a6-a3c82452b1aa#ref=rss)
-### freie
+* [https://www.spiegel.de/ausland/frankreich-ex-richter-bezichtigt-premierminister-francois-bayrou-der-luege](https://www.spiegel.de/ausland/frankreich-ex-richter-bezichtigt-premierminister-francois-bayrou-der-luege-a-1ae44254-d165-45ac-881d-e07c61fc2ab0#ref=rss)
+* [https://www.spiegel.de/ausland/iran-bestaetigt-neue-atom-verhandlungen-in-istanbul](https://www.spiegel.de/ausland/iran-bestaetigt-neue-atom-verhandlungen-in-istanbul-a-19a6cd5e-0728-44ec-b321-1202970ef8e0#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-in-den-usa-human-rights-watch-kritisiert-fifa](https://www.spiegel.de/sport/fussball/fussball-wm-2026-in-den-usa-human-rights-watch-kritisiert-fifa-a-5be51c06-dde2-46e7-b05c-333f103e12d2#ref=rss)
+### viele
 
-* [https://www.spiegel.de/panorama/freie-universitaet-berlin-keine-abschiebungen-nach-propalaestinensischen-protesten](https://www.spiegel.de/panorama/freie-universitaet-berlin-keine-abschiebungen-nach-propalaestinensischen-protesten-a-97f5c4c4-c53b-44c7-b2e5-3e693e2f3dcf#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/aue-bad-schlema-in-sachsen-linke-und-cdu-stimmen-fuer-migrationsvorschlag-von-rechtsextremen](https://www.spiegel.de/panorama/gesellschaft/aue-bad-schlema-in-sachsen-linke-und-cdu-stimmen-fuer-migrationsvorschlag-von-rechtsextremen-a-71638784-f7a5-420e-8c5b-c0f117b146d9#ref=rss)
-### universität
+* [https://www.spiegel.de/netzwelt/gadgets/wlan-netze-viele-nutzer-arrangieren-sich-mit-mangelhafter-verbindung](https://www.spiegel.de/netzwelt/gadgets/wlan-netze-viele-nutzer-arrangieren-sich-mit-mangelhafter-verbindung-a-e9e80608-0fa4-478c-8681-9e6ea7e7a062#ref=rss)
+* [https://www.spiegel.de/sport/basketball/nba-jayson-tatum-faellt-nach-achillessehnenriss-monatelang-aus](https://www.spiegel.de/sport/basketball/nba-jayson-tatum-faellt-nach-achillessehnenriss-monatelang-aus-a-3dbaafae-89b2-4f1d-ace2-41a007efdb30#ref=rss)
+### washington
 
-* [https://www.spiegel.de/panorama/freie-universitaet-berlin-keine-abschiebungen-nach-propalaestinensischen-protesten](https://www.spiegel.de/panorama/freie-universitaet-berlin-keine-abschiebungen-nach-propalaestinensischen-protesten-a-97f5c4c4-c53b-44c7-b2e5-3e693e2f3dcf#ref=rss)
-### brite
+* [https://www.spiegel.de/ausland/enthuellungsbuch-ueber-joe-biden-was-washington-wusste](https://www.spiegel.de/ausland/enthuellungsbuch-ueber-joe-biden-was-washington-wusste-a-e957e97d-6d8e-4849-b22b-173452170410#ref=rss)
+* [https://www.spiegel.de/panorama/usa-washington-bergsteiger-ueberlebt-120-meter-sturz-drei-begleiter-sterben](https://www.spiegel.de/panorama/usa-washington-bergsteiger-ueberlebt-120-meter-sturz-drei-begleiter-sterben-a-21bc2b46-9e9b-42fb-b7b0-59b422021c0e#ref=rss)
+### verhandlungen
 
-* [https://www.spiegel.de/panorama/justiz/grossbritannien-brite-nach-38-jahren-unschuldig-entlassen-dna-beweise-entlasten-ihn](https://www.spiegel.de/panorama/justiz/grossbritannien-brite-nach-38-jahren-unschuldig-entlassen-dna-beweise-entlasten-ihn-a-0607bbde-6a1c-46e6-ad37-a56bbc3e24d7#ref=rss)
-### unschuldig
+* [https://www.spiegel.de/ausland/iran-bestaetigt-neue-atom-verhandlungen-in-istanbul](https://www.spiegel.de/ausland/iran-bestaetigt-neue-atom-verhandlungen-in-istanbul-a-19a6cd5e-0728-44ec-b321-1202970ef8e0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-rolf-muetzenich-wird-nicht-vorsitzender-des-auswaertigen-ausschusses](https://www.spiegel.de/politik/deutschland/spd-rolf-muetzenich-wird-nicht-vorsitzender-des-auswaertigen-ausschusses-a-b16b7864-a8fc-491d-a578-b2f86506a024#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-brasiliens-praesident-luiz-inacio-lula-da-silva-will-wladimir-putin-zu-teilnahme-an-friedensgespraechen-bewegen](https://www.spiegel.de/ausland/ukraine-brasiliens-praesident-luiz-inacio-lula-da-silva-will-wladimir-putin-zu-teilnahme-an-friedensgespraechen-bewegen-a-9a40b3f5-147f-4c02-8055-5c03ead60cfd#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/panorama/justiz/grossbritannien-brite-nach-38-jahren-unschuldig-entlassen-dna-beweise-entlasten-ihn](https://www.spiegel.de/panorama/justiz/grossbritannien-brite-nach-38-jahren-unschuldig-entlassen-dna-beweise-entlasten-ihn-a-0607bbde-6a1c-46e6-ad37-a56bbc3e24d7#ref=rss)
-### dnabeweise
+* [https://www.spiegel.de/wirtschaft/schweizer-gericht-erklaert-boni-kuerzungen-bei-der-credit-suisse-fuer-rechtswidrig](https://www.spiegel.de/wirtschaft/schweizer-gericht-erklaert-boni-kuerzungen-bei-der-credit-suisse-fuer-rechtswidrig-a-676c75b2-bbaa-41f6-bc64-9d6a3a954af6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/inflation-in-deutschland-sinkt-auf-2-1-prozent](https://www.spiegel.de/wirtschaft/inflation-in-deutschland-sinkt-auf-2-1-prozent-a-2397f277-e64f-4eef-9970-5ba8829715fe#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/aktionsrat-bildung-fachleute-fordern-neuen-pisa-vergleich-der-bundeslaender](https://www.spiegel.de/panorama/bildung/aktionsrat-bildung-fachleute-fordern-neuen-pisa-vergleich-der-bundeslaender-a-ad20495f-3091-48a8-9390-6fa160356b65#ref=rss)
+### davon
 
-* [https://www.spiegel.de/panorama/justiz/grossbritannien-brite-nach-38-jahren-unschuldig-entlassen-dna-beweise-entlasten-ihn](https://www.spiegel.de/panorama/justiz/grossbritannien-brite-nach-38-jahren-unschuldig-entlassen-dna-beweise-entlasten-ihn-a-0607bbde-6a1c-46e6-ad37-a56bbc3e24d7#ref=rss)
-### vier
+* [https://www.spiegel.de/ausland/ukraine-brasiliens-praesident-luiz-inacio-lula-da-silva-will-wladimir-putin-zu-teilnahme-an-friedensgespraechen-bewegen](https://www.spiegel.de/ausland/ukraine-brasiliens-praesident-luiz-inacio-lula-da-silva-will-wladimir-putin-zu-teilnahme-an-friedensgespraechen-bewegen-a-9a40b3f5-147f-4c02-8055-5c03ead60cfd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/inflation-in-deutschland-sinkt-auf-2-1-prozent](https://www.spiegel.de/wirtschaft/inflation-in-deutschland-sinkt-auf-2-1-prozent-a-2397f277-e64f-4eef-9970-5ba8829715fe#ref=rss)
+* [https://www.spiegel.de/wirtschaft/e-on-energiekonzern-steigert-gewinn-im-ersten-quartal-deutlich](https://www.spiegel.de/wirtschaft/e-on-energiekonzern-steigert-gewinn-im-ersten-quartal-deutlich-a-3525334e-c155-40e5-abed-86c3ddd7973a#ref=rss)
+### gemüse
 
-* [https://www.spiegel.de/panorama/justiz/grossbritannien-brite-nach-38-jahren-unschuldig-entlassen-dna-beweise-entlasten-ihn](https://www.spiegel.de/panorama/justiz/grossbritannien-brite-nach-38-jahren-unschuldig-entlassen-dna-beweise-entlasten-ihn-a-0607bbde-6a1c-46e6-ad37-a56bbc3e24d7#ref=rss)
-* [https://www.spiegel.de/wissenschaft/schimpansen-in-der-wildnis-babys-haben-stabilere-mutter-kind-beziehungen](https://www.spiegel.de/wissenschaft/schimpansen-in-der-wildnis-babys-haben-stabilere-mutter-kind-beziehungen-a-ddf4b21a-979d-481c-8047-09a01a45a372#ref=rss)
-### jahre
+* [https://www.spiegel.de/gesundheit/ernaehrung/ernaehrung-fuer-kinder-wenig-gemuese-auf-kinder-speisekarten-in-restaurants](https://www.spiegel.de/gesundheit/ernaehrung/ernaehrung-fuer-kinder-wenig-gemuese-auf-kinder-speisekarten-in-restaurants-a-9d1b09ba-9864-4b00-b265-5e8ce8dc3d42#ref=rss)
+### abwechslung
 
-* [https://www.spiegel.de/panorama/justiz/grossbritannien-brite-nach-38-jahren-unschuldig-entlassen-dna-beweise-entlasten-ihn](https://www.spiegel.de/panorama/justiz/grossbritannien-brite-nach-38-jahren-unschuldig-entlassen-dna-beweise-entlasten-ihn-a-0607bbde-6a1c-46e6-ad37-a56bbc3e24d7#ref=rss)
-* [https://www.spiegel.de/wissenschaft/schimpansen-in-der-wildnis-babys-haben-stabilere-mutter-kind-beziehungen](https://www.spiegel.de/wissenschaft/schimpansen-in-der-wildnis-babys-haben-stabilere-mutter-kind-beziehungen-a-ddf4b21a-979d-481c-8047-09a01a45a372#ref=rss)
-### bundestag
+* [https://www.spiegel.de/gesundheit/ernaehrung/ernaehrung-fuer-kinder-wenig-gemuese-auf-kinder-speisekarten-in-restaurants](https://www.spiegel.de/gesundheit/ernaehrung/ernaehrung-fuer-kinder-wenig-gemuese-auf-kinder-speisekarten-in-restaurants-a-9d1b09ba-9864-4b00-b265-5e8ce8dc3d42#ref=rss)
+* [https://www.spiegel.de/start/koreanischer-gurkensalat-rezept-fuer-60-cent-pro-portion](https://www.spiegel.de/start/koreanischer-gurkensalat-rezept-fuer-60-cent-pro-portion-a-1bbf7d2a-3aad-42b7-9279-f66fa1a83653#ref=rss)
+### macht
 
-* [https://www.spiegel.de/politik/deutschland/im-bundestag-gibt-es-mehr-waffendelikte-und-mehr-beleidigungen](https://www.spiegel.de/politik/deutschland/im-bundestag-gibt-es-mehr-waffendelikte-und-mehr-beleidigungen-a-cae68ce8-f8c2-4aa4-9c1d-6d407e38eb12#ref=rss)
-### zahl
+* [https://www.spiegel.de/gesundheit/ernaehrung/ernaehrung-fuer-kinder-wenig-gemuese-auf-kinder-speisekarten-in-restaurants](https://www.spiegel.de/gesundheit/ernaehrung/ernaehrung-fuer-kinder-wenig-gemuese-auf-kinder-speisekarten-in-restaurants-a-9d1b09ba-9864-4b00-b265-5e8ce8dc3d42#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-generalsekretaer-tim-kluessendorf-wir-haben-ein-schlechtes-bild-abgegeben](https://www.spiegel.de/politik/deutschland/spd-generalsekretaer-tim-kluessendorf-wir-haben-ein-schlechtes-bild-abgegeben-a-4c383807-7b9c-4549-bcc8-c723c60a37ee#ref=rss)
+### papst
 
-* [https://www.spiegel.de/politik/deutschland/im-bundestag-gibt-es-mehr-waffendelikte-und-mehr-beleidigungen](https://www.spiegel.de/politik/deutschland/im-bundestag-gibt-es-mehr-waffendelikte-und-mehr-beleidigungen-a-cae68ce8-f8c2-4aa4-9c1d-6d407e38eb12#ref=rss)
-### straftaten
+* [https://www.spiegel.de/ausland/papst-leo-xiv-bruder-louis-prevost-verbreitete-verschwoerungstheorien-auf-facebook-und-nennt-sich-maga-typen](https://www.spiegel.de/ausland/papst-leo-xiv-bruder-louis-prevost-verbreitete-verschwoerungstheorien-auf-facebook-und-nennt-sich-maga-typen-a-d8fee61f-2c1f-418d-ad55-a76b710693eb#ref=rss)
+### mann
 
-* [https://www.spiegel.de/politik/deutschland/im-bundestag-gibt-es-mehr-waffendelikte-und-mehr-beleidigungen](https://www.spiegel.de/politik/deutschland/im-bundestag-gibt-es-mehr-waffendelikte-und-mehr-beleidigungen-a-cae68ce8-f8c2-4aa4-9c1d-6d407e38eb12#ref=rss)
-### gestiegen
+* [https://www.spiegel.de/panorama/justiz/bremen-mann-droht-im-supermarkt-mit-selbstverletzung-vor-kind](https://www.spiegel.de/panorama/justiz/bremen-mann-droht-im-supermarkt-mit-selbstverletzung-vor-kind-a-4b516b0d-5099-4e36-9f36-7a76f5e39e48#ref=rss)
+### kind
 
-* [https://www.spiegel.de/politik/deutschland/im-bundestag-gibt-es-mehr-waffendelikte-und-mehr-beleidigungen](https://www.spiegel.de/politik/deutschland/im-bundestag-gibt-es-mehr-waffendelikte-und-mehr-beleidigungen-a-cae68ce8-f8c2-4aa4-9c1d-6d407e38eb12#ref=rss)
-### regensburg
+* [https://www.spiegel.de/panorama/justiz/bremen-mann-droht-im-supermarkt-mit-selbstverletzung-vor-kind](https://www.spiegel.de/panorama/justiz/bremen-mann-droht-im-supermarkt-mit-selbstverletzung-vor-kind-a-4b516b0d-5099-4e36-9f36-7a76f5e39e48#ref=rss)
+### arm
 
-* [https://www.spiegel.de/netzwelt/web/regensburg-82-jaehriger-uebergibt-betrueger-gold-in-sechsstelligem-wert](https://www.spiegel.de/netzwelt/web/regensburg-82-jaehriger-uebergibt-betrueger-gold-in-sechsstelligem-wert-a-e00d01c1-dbbf-4092-970c-c5a48353c060#ref=rss)
-### unter
+* [https://www.spiegel.de/panorama/justiz/bremen-mann-droht-im-supermarkt-mit-selbstverletzung-vor-kind](https://www.spiegel.de/panorama/justiz/bremen-mann-droht-im-supermarkt-mit-selbstverletzung-vor-kind-a-4b516b0d-5099-4e36-9f36-7a76f5e39e48#ref=rss)
+### niederlage
 
-* [https://www.spiegel.de/netzwelt/web/regensburg-82-jaehriger-uebergibt-betrueger-gold-in-sechsstelligem-wert](https://www.spiegel.de/netzwelt/web/regensburg-82-jaehriger-uebergibt-betrueger-gold-in-sechsstelligem-wert-a-e00d01c1-dbbf-4092-970c-c5a48353c060#ref=rss)
-* [https://www.spiegel.de/sport/olympia/moderner-fuenfkampf-kein-wettkampf-ist-so-hart-wie-ihr-kampf-um-die-foerdermittel](https://www.spiegel.de/sport/olympia/moderner-fuenfkampf-kein-wettkampf-ist-so-hart-wie-ihr-kampf-um-die-foerdermittel-a-e8f922eb-f77a-4ded-9dfb-0bbb70ec41e7#ref=rss)
-### hamas
+* [https://www.spiegel.de/ausland/eu-kommission-niederlage-fuer-ursula-von-der-leyen-vor-gericht-zu-sms-an-pfizer](https://www.spiegel.de/ausland/eu-kommission-niederlage-fuer-ursula-von-der-leyen-vor-gericht-zu-sms-an-pfizer-a-ad60730b-952b-4db9-896f-f851ff787ea1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-rolf-muetzenich-wird-nicht-vorsitzender-des-auswaertigen-ausschusses](https://www.spiegel.de/politik/deutschland/spd-rolf-muetzenich-wird-nicht-vorsitzender-des-auswaertigen-ausschusses-a-b16b7864-a8fc-491d-a578-b2f86506a024#ref=rss)
+### ursula
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-laesst-geisel-edan-alexander-frei-nach-verhandlung-mit-donald-trump](https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-laesst-geisel-edan-alexander-frei-nach-verhandlung-mit-donald-trump-a-5c70dc00-cf71-4bc2-ab15-5a457279a900#ref=rss)
-### geisel
+* [https://www.spiegel.de/ausland/eu-kommission-niederlage-fuer-ursula-von-der-leyen-vor-gericht-zu-sms-an-pfizer](https://www.spiegel.de/ausland/eu-kommission-niederlage-fuer-ursula-von-der-leyen-vor-gericht-zu-sms-an-pfizer-a-ad60730b-952b-4db9-896f-f851ff787ea1#ref=rss)
+### leyen
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-laesst-geisel-edan-alexander-frei-nach-verhandlung-mit-donald-trump](https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-laesst-geisel-edan-alexander-frei-nach-verhandlung-mit-donald-trump-a-5c70dc00-cf71-4bc2-ab15-5a457279a900#ref=rss)
-### edan
+* [https://www.spiegel.de/ausland/eu-kommission-niederlage-fuer-ursula-von-der-leyen-vor-gericht-zu-sms-an-pfizer](https://www.spiegel.de/ausland/eu-kommission-niederlage-fuer-ursula-von-der-leyen-vor-gericht-zu-sms-an-pfizer-a-ad60730b-952b-4db9-896f-f851ff787ea1#ref=rss)
+### gericht
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-laesst-geisel-edan-alexander-frei-nach-verhandlung-mit-donald-trump](https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-laesst-geisel-edan-alexander-frei-nach-verhandlung-mit-donald-trump-a-5c70dc00-cf71-4bc2-ab15-5a457279a900#ref=rss)
-### alexander
+* [https://www.spiegel.de/ausland/eu-kommission-niederlage-fuer-ursula-von-der-leyen-vor-gericht-zu-sms-an-pfizer](https://www.spiegel.de/ausland/eu-kommission-niederlage-fuer-ursula-von-der-leyen-vor-gericht-zu-sms-an-pfizer-a-ad60730b-952b-4db9-896f-f851ff787ea1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/schweizer-gericht-erklaert-boni-kuerzungen-bei-der-credit-suisse-fuer-rechtswidrig](https://www.spiegel.de/wirtschaft/schweizer-gericht-erklaert-boni-kuerzungen-bei-der-credit-suisse-fuer-rechtswidrig-a-676c75b2-bbaa-41f6-bc64-9d6a3a954af6#ref=rss)
+### pfizer
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-laesst-geisel-edan-alexander-frei-nach-verhandlung-mit-donald-trump](https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-laesst-geisel-edan-alexander-frei-nach-verhandlung-mit-donald-trump-a-5c70dc00-cf71-4bc2-ab15-5a457279a900#ref=rss)
+* [https://www.spiegel.de/ausland/eu-kommission-niederlage-fuer-ursula-von-der-leyen-vor-gericht-zu-sms-an-pfizer](https://www.spiegel.de/ausland/eu-kommission-niederlage-fuer-ursula-von-der-leyen-vor-gericht-zu-sms-an-pfizer-a-ad60730b-952b-4db9-896f-f851ff787ea1#ref=rss)
+### grund
+
+* [https://www.spiegel.de/ausland/eu-kommission-niederlage-fuer-ursula-von-der-leyen-vor-gericht-zu-sms-an-pfizer](https://www.spiegel.de/ausland/eu-kommission-niederlage-fuer-ursula-von-der-leyen-vor-gericht-zu-sms-an-pfizer-a-ad60730b-952b-4db9-896f-f851ff787ea1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-rolf-muetzenich-wird-nicht-vorsitzender-des-auswaertigen-ausschusses](https://www.spiegel.de/politik/deutschland/spd-rolf-muetzenich-wird-nicht-vorsitzender-des-auswaertigen-ausschusses-a-b16b7864-a8fc-491d-a578-b2f86506a024#ref=rss)
+### lars
+
+* [https://www.spiegel.de/politik/deutschland/bundestag-lars-klingbeil-und-thorsten-frei-beantworten-fragen-regierungserklaerung-von-friedrich-merz](https://www.spiegel.de/politik/deutschland/bundestag-lars-klingbeil-und-thorsten-frei-beantworten-fragen-regierungserklaerung-von-friedrich-merz-a-c58676eb-603b-4109-8d23-6e191014d233#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-generalsekretaer-tim-kluessendorf-wir-haben-ein-schlechtes-bild-abgegeben](https://www.spiegel.de/politik/deutschland/spd-generalsekretaer-tim-kluessendorf-wir-haben-ein-schlechtes-bild-abgegeben-a-4c383807-7b9c-4549-bcc8-c723c60a37ee#ref=rss)
 ### frei
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-laesst-geisel-edan-alexander-frei-nach-verhandlung-mit-donald-trump](https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-laesst-geisel-edan-alexander-frei-nach-verhandlung-mit-donald-trump-a-5c70dc00-cf71-4bc2-ab15-5a457279a900#ref=rss)
-### bad
+* [https://www.spiegel.de/politik/deutschland/bundestag-lars-klingbeil-und-thorsten-frei-beantworten-fragen-regierungserklaerung-von-friedrich-merz](https://www.spiegel.de/politik/deutschland/bundestag-lars-klingbeil-und-thorsten-frei-beantworten-fragen-regierungserklaerung-von-friedrich-merz-a-c58676eb-603b-4109-8d23-6e191014d233#ref=rss)
+### zurückweisungen
 
-* [https://www.spiegel.de/kultur/bad-bunny-schreibt-mal-wieder-musikgeschichte](https://www.spiegel.de/kultur/bad-bunny-schreibt-mal-wieder-musikgeschichte-a-936bcd1a-338b-4231-b872-87eb5a7d3ef4#ref=rss)
-### bunny
+* [https://www.spiegel.de/politik/deutschland/bundestag-lars-klingbeil-und-thorsten-frei-beantworten-fragen-regierungserklaerung-von-friedrich-merz](https://www.spiegel.de/politik/deutschland/bundestag-lars-klingbeil-und-thorsten-frei-beantworten-fragen-regierungserklaerung-von-friedrich-merz-a-c58676eb-603b-4109-8d23-6e191014d233#ref=rss)
+### bayrou
 
-* [https://www.spiegel.de/kultur/bad-bunny-schreibt-mal-wieder-musikgeschichte](https://www.spiegel.de/kultur/bad-bunny-schreibt-mal-wieder-musikgeschichte-a-936bcd1a-338b-4231-b872-87eb5a7d3ef4#ref=rss)
-### auebad
+* [https://www.spiegel.de/ausland/frankreich-ex-richter-bezichtigt-premierminister-francois-bayrou-der-luege](https://www.spiegel.de/ausland/frankreich-ex-richter-bezichtigt-premierminister-francois-bayrou-der-luege-a-1ae44254-d165-45ac-881d-e07c61fc2ab0#ref=rss)
+### kurz
 
-* [https://www.spiegel.de/panorama/gesellschaft/aue-bad-schlema-in-sachsen-linke-und-cdu-stimmen-fuer-migrationsvorschlag-von-rechtsextremen](https://www.spiegel.de/panorama/gesellschaft/aue-bad-schlema-in-sachsen-linke-und-cdu-stimmen-fuer-migrationsvorschlag-von-rechtsextremen-a-71638784-f7a5-420e-8c5b-c0f117b146d9#ref=rss)
-### schlema
+* [https://www.spiegel.de/ausland/frankreich-ex-richter-bezichtigt-premierminister-francois-bayrou-der-luege](https://www.spiegel.de/ausland/frankreich-ex-richter-bezichtigt-premierminister-francois-bayrou-der-luege-a-1ae44254-d165-45ac-881d-e07c61fc2ab0#ref=rss)
+* [https://www.spiegel.de/ausland/enthuellungsbuch-ueber-joe-biden-was-washington-wusste](https://www.spiegel.de/ausland/enthuellungsbuch-ueber-joe-biden-was-washington-wusste-a-e957e97d-6d8e-4849-b22b-173452170410#ref=rss)
+### kritik
 
-* [https://www.spiegel.de/panorama/gesellschaft/aue-bad-schlema-in-sachsen-linke-und-cdu-stimmen-fuer-migrationsvorschlag-von-rechtsextremen](https://www.spiegel.de/panorama/gesellschaft/aue-bad-schlema-in-sachsen-linke-und-cdu-stimmen-fuer-migrationsvorschlag-von-rechtsextremen-a-71638784-f7a5-420e-8c5b-c0f117b146d9#ref=rss)
-### sachsen
+* [https://www.spiegel.de/ausland/frankreich-ex-richter-bezichtigt-premierminister-francois-bayrou-der-luege](https://www.spiegel.de/ausland/frankreich-ex-richter-bezichtigt-premierminister-francois-bayrou-der-luege-a-1ae44254-d165-45ac-881d-e07c61fc2ab0#ref=rss)
+* [https://www.spiegel.de/sport/eishockey/eishockey-wm-kritik-an-eisflaechen-in-herning-wegen-verletzungsgefahr](https://www.spiegel.de/sport/eishockey/eishockey-wm-kritik-an-eisflaechen-in-herning-wegen-verletzungsgefahr-a-10b7006e-17fc-4e92-b372-bbdca6877261#ref=rss)
+### steigert
 
-* [https://www.spiegel.de/panorama/gesellschaft/aue-bad-schlema-in-sachsen-linke-und-cdu-stimmen-fuer-migrationsvorschlag-von-rechtsextremen](https://www.spiegel.de/panorama/gesellschaft/aue-bad-schlema-in-sachsen-linke-und-cdu-stimmen-fuer-migrationsvorschlag-von-rechtsextremen-a-71638784-f7a5-420e-8c5b-c0f117b146d9#ref=rss)
-### linke
+* [https://www.spiegel.de/netzwelt/gadgets/wlan-netze-viele-nutzer-arrangieren-sich-mit-mangelhafter-verbindung](https://www.spiegel.de/netzwelt/gadgets/wlan-netze-viele-nutzer-arrangieren-sich-mit-mangelhafter-verbindung-a-e9e80608-0fa4-478c-8681-9e6ea7e7a062#ref=rss)
+* [https://www.spiegel.de/wirtschaft/e-on-energiekonzern-steigert-gewinn-im-ersten-quartal-deutlich](https://www.spiegel.de/wirtschaft/e-on-energiekonzern-steigert-gewinn-im-ersten-quartal-deutlich-a-3525334e-c155-40e5-abed-86c3ddd7973a#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/panorama/gesellschaft/aue-bad-schlema-in-sachsen-linke-und-cdu-stimmen-fuer-migrationsvorschlag-von-rechtsextremen](https://www.spiegel.de/panorama/gesellschaft/aue-bad-schlema-in-sachsen-linke-und-cdu-stimmen-fuer-migrationsvorschlag-von-rechtsextremen-a-71638784-f7a5-420e-8c5b-c0f117b146d9#ref=rss)
-### fünfkampf
+* [https://www.spiegel.de/netzwelt/gadgets/wlan-netze-viele-nutzer-arrangieren-sich-mit-mangelhafter-verbindung](https://www.spiegel.de/netzwelt/gadgets/wlan-netze-viele-nutzer-arrangieren-sich-mit-mangelhafter-verbindung-a-e9e80608-0fa4-478c-8681-9e6ea7e7a062#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-offenbar-qualitaetsmaengel-bei-neuen-fallschirmen-festgestellt](https://www.spiegel.de/politik/deutschland/bundeswehr-offenbar-qualitaetsmaengel-bei-neuen-fallschirmen-festgestellt-a-4b310061-c321-4f90-90d3-fab56d5f70bb#ref=rss)
+### joe
 
-* [https://www.spiegel.de/sport/olympia/moderner-fuenfkampf-kein-wettkampf-ist-so-hart-wie-ihr-kampf-um-die-foerdermittel](https://www.spiegel.de/sport/olympia/moderner-fuenfkampf-kein-wettkampf-ist-so-hart-wie-ihr-kampf-um-die-foerdermittel-a-e8f922eb-f77a-4ded-9dfb-0bbb70ec41e7#ref=rss)
-### fördermittel
+* [https://www.spiegel.de/ausland/enthuellungsbuch-ueber-joe-biden-was-washington-wusste](https://www.spiegel.de/ausland/enthuellungsbuch-ueber-joe-biden-was-washington-wusste-a-e957e97d-6d8e-4849-b22b-173452170410#ref=rss)
+### biden
 
-* [https://www.spiegel.de/sport/olympia/moderner-fuenfkampf-kein-wettkampf-ist-so-hart-wie-ihr-kampf-um-die-foerdermittel](https://www.spiegel.de/sport/olympia/moderner-fuenfkampf-kein-wettkampf-ist-so-hart-wie-ihr-kampf-um-die-foerdermittel-a-e8f922eb-f77a-4ded-9dfb-0bbb70ec41e7#ref=rss)
+* [https://www.spiegel.de/ausland/enthuellungsbuch-ueber-joe-biden-was-washington-wusste](https://www.spiegel.de/ausland/enthuellungsbuch-ueber-joe-biden-was-washington-wusste-a-e957e97d-6d8e-4849-b22b-173452170410#ref=rss)
+### eishockeywm
+
+* [https://www.spiegel.de/sport/eishockey/eishockey-wm-kritik-an-eisflaechen-in-herning-wegen-verletzungsgefahr](https://www.spiegel.de/sport/eishockey/eishockey-wm-kritik-an-eisflaechen-in-herning-wegen-verletzungsgefahr-a-10b7006e-17fc-4e92-b372-bbdca6877261#ref=rss)
+### herning
+
+* [https://www.spiegel.de/sport/eishockey/eishockey-wm-kritik-an-eisflaechen-in-herning-wegen-verletzungsgefahr](https://www.spiegel.de/sport/eishockey/eishockey-wm-kritik-an-eisflaechen-in-herning-wegen-verletzungsgefahr-a-10b7006e-17fc-4e92-b372-bbdca6877261#ref=rss)
+### verletzungsgefahr
+
+* [https://www.spiegel.de/sport/eishockey/eishockey-wm-kritik-an-eisflaechen-in-herning-wegen-verletzungsgefahr](https://www.spiegel.de/sport/eishockey/eishockey-wm-kritik-an-eisflaechen-in-herning-wegen-verletzungsgefahr-a-10b7006e-17fc-4e92-b372-bbdca6877261#ref=rss)
+### sorgen
+
+* [https://www.spiegel.de/sport/eishockey/eishockey-wm-kritik-an-eisflaechen-in-herning-wegen-verletzungsgefahr](https://www.spiegel.de/sport/eishockey/eishockey-wm-kritik-an-eisflaechen-in-herning-wegen-verletzungsgefahr-a-10b7006e-17fc-4e92-b372-bbdca6877261#ref=rss)
+* [https://www.spiegel.de/panorama/leute/justin-bieber-skurrile-instagram-clips-sorgen-fuer-spekulationen](https://www.spiegel.de/panorama/leute/justin-bieber-skurrile-instagram-clips-sorgen-fuer-spekulationen-a-5a6409ad-f876-4c00-9315-866b7a8e9f59#ref=rss)
+### tim
+
+* [https://www.spiegel.de/politik/deutschland/spd-generalsekretaer-tim-kluessendorf-wir-haben-ein-schlechtes-bild-abgegeben](https://www.spiegel.de/politik/deutschland/spd-generalsekretaer-tim-kluessendorf-wir-haben-ein-schlechtes-bild-abgegeben-a-4c383807-7b9c-4549-bcc8-c723c60a37ee#ref=rss)
+### klüssendorf
+
+* [https://www.spiegel.de/politik/deutschland/spd-generalsekretaer-tim-kluessendorf-wir-haben-ein-schlechtes-bild-abgegeben](https://www.spiegel.de/politik/deutschland/spd-generalsekretaer-tim-kluessendorf-wir-haben-ein-schlechtes-bild-abgegeben-a-4c383807-7b9c-4549-bcc8-c723c60a37ee#ref=rss)
+### alle
+
+* [https://www.spiegel.de/politik/deutschland/spd-generalsekretaer-tim-kluessendorf-wir-haben-ein-schlechtes-bild-abgegeben](https://www.spiegel.de/politik/deutschland/spd-generalsekretaer-tim-kluessendorf-wir-haben-ein-schlechtes-bild-abgegeben-a-4c383807-7b9c-4549-bcc8-c723c60a37ee#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-in-den-usa-human-rights-watch-kritisiert-fifa](https://www.spiegel.de/sport/fussball/fussball-wm-2026-in-den-usa-human-rights-watch-kritisiert-fifa-a-5be51c06-dde2-46e7-b05c-333f103e12d2#ref=rss)
+### spd
+
+* [https://www.spiegel.de/politik/deutschland/spd-generalsekretaer-tim-kluessendorf-wir-haben-ein-schlechtes-bild-abgegeben](https://www.spiegel.de/politik/deutschland/spd-generalsekretaer-tim-kluessendorf-wir-haben-ein-schlechtes-bild-abgegeben-a-4c383807-7b9c-4549-bcc8-c723c60a37ee#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-rolf-muetzenich-wird-nicht-vorsitzender-des-auswaertigen-ausschusses](https://www.spiegel.de/politik/deutschland/spd-rolf-muetzenich-wird-nicht-vorsitzender-des-auswaertigen-ausschusses-a-b16b7864-a8fc-491d-a578-b2f86506a024#ref=rss)
+### bergsteiger
+
+* [https://www.spiegel.de/panorama/usa-washington-bergsteiger-ueberlebt-120-meter-sturz-drei-begleiter-sterben](https://www.spiegel.de/panorama/usa-washington-bergsteiger-ueberlebt-120-meter-sturz-drei-begleiter-sterben-a-21bc2b46-9e9b-42fb-b7b0-59b422021c0e#ref=rss)
+### vier
+
+* [https://www.spiegel.de/panorama/usa-washington-bergsteiger-ueberlebt-120-meter-sturz-drei-begleiter-sterben](https://www.spiegel.de/panorama/usa-washington-bergsteiger-ueberlebt-120-meter-sturz-drei-begleiter-sterben-a-21bc2b46-9e9b-42fb-b7b0-59b422021c0e#ref=rss)
+* [https://www.spiegel.de/kultur/tv/constantin-schreiber-nachrichtensprecher-verlaesst-die-tagesschau](https://www.spiegel.de/kultur/tv/constantin-schreiber-nachrichtensprecher-verlaesst-die-tagesschau-a-9a4d97a8-e5bf-4958-923f-97a9ae0ae5d7#ref=rss)
+### überlebte
+
+* [https://www.spiegel.de/panorama/usa-washington-bergsteiger-ueberlebt-120-meter-sturz-drei-begleiter-sterben](https://www.spiegel.de/panorama/usa-washington-bergsteiger-ueberlebt-120-meter-sturz-drei-begleiter-sterben-a-21bc2b46-9e9b-42fb-b7b0-59b422021c0e#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/marie-nejar-saengerin-und-schwarze-ns-zeitzeugin-ist-gestorben](https://www.spiegel.de/panorama/gesellschaft/marie-nejar-saengerin-und-schwarze-ns-zeitzeugin-ist-gestorben-a-f93ae3a6-6fec-4f54-bf9e-5478ae18a43a#ref=rss)
+### bestätigt
+
+* [https://www.spiegel.de/ausland/iran-bestaetigt-neue-atom-verhandlungen-in-istanbul](https://www.spiegel.de/ausland/iran-bestaetigt-neue-atom-verhandlungen-in-istanbul-a-19a6cd5e-0728-44ec-b321-1202970ef8e0#ref=rss)
+### istanbul
+
+* [https://www.spiegel.de/ausland/iran-bestaetigt-neue-atom-verhandlungen-in-istanbul](https://www.spiegel.de/ausland/iran-bestaetigt-neue-atom-verhandlungen-in-istanbul-a-19a6cd5e-0728-44ec-b321-1202970ef8e0#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-brasiliens-praesident-luiz-inacio-lula-da-silva-will-wladimir-putin-zu-teilnahme-an-friedensgespraechen-bewegen](https://www.spiegel.de/ausland/ukraine-brasiliens-praesident-luiz-inacio-lula-da-silva-will-wladimir-putin-zu-teilnahme-an-friedensgespraechen-bewegen-a-9a40b3f5-147f-4c02-8055-5c03ead60cfd#ref=rss)
+### uspräsident
+
+* [https://www.spiegel.de/ausland/iran-bestaetigt-neue-atom-verhandlungen-in-istanbul](https://www.spiegel.de/ausland/iran-bestaetigt-neue-atom-verhandlungen-in-istanbul-a-19a6cd5e-0728-44ec-b321-1202970ef8e0#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/nvidia-18-000-ki-chips-fuer-saudi-arabien-angekuendigt](https://www.spiegel.de/netzwelt/web/nvidia-18-000-ki-chips-fuer-saudi-arabien-angekuendigt-a-3144f663-97aa-4536-a27b-0742469460fb#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/iran-bestaetigt-neue-atom-verhandlungen-in-istanbul](https://www.spiegel.de/ausland/iran-bestaetigt-neue-atom-verhandlungen-in-istanbul-a-19a6cd5e-0728-44ec-b321-1202970ef8e0#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/nvidia-18-000-ki-chips-fuer-saudi-arabien-angekuendigt](https://www.spiegel.de/netzwelt/web/nvidia-18-000-ki-chips-fuer-saudi-arabien-angekuendigt-a-3144f663-97aa-4536-a27b-0742469460fb#ref=rss)
+### ard
+
+* [https://www.spiegel.de/sport/fussball/ard-alex-schlueter-wird-neuer-moderator-der-sportschau](https://www.spiegel.de/sport/fussball/ard-alex-schlueter-wird-neuer-moderator-der-sportschau-a-eba96378-ae83-4c35-8ae3-d4f7d65717e1#ref=rss)
+### alex
+
+* [https://www.spiegel.de/sport/fussball/ard-alex-schlueter-wird-neuer-moderator-der-sportschau](https://www.spiegel.de/sport/fussball/ard-alex-schlueter-wird-neuer-moderator-der-sportschau-a-eba96378-ae83-4c35-8ae3-d4f7d65717e1#ref=rss)
+### schlüter
+
+* [https://www.spiegel.de/sport/fussball/ard-alex-schlueter-wird-neuer-moderator-der-sportschau](https://www.spiegel.de/sport/fussball/ard-alex-schlueter-wird-neuer-moderator-der-sportschau-a-eba96378-ae83-4c35-8ae3-d4f7d65717e1#ref=rss)
+### neuer
+
+* [https://www.spiegel.de/sport/fussball/ard-alex-schlueter-wird-neuer-moderator-der-sportschau](https://www.spiegel.de/sport/fussball/ard-alex-schlueter-wird-neuer-moderator-der-sportschau-a-eba96378-ae83-4c35-8ae3-d4f7d65717e1#ref=rss)
+### sportschau
+
+* [https://www.spiegel.de/sport/fussball/ard-alex-schlueter-wird-neuer-moderator-der-sportschau](https://www.spiegel.de/sport/fussball/ard-alex-schlueter-wird-neuer-moderator-der-sportschau-a-eba96378-ae83-4c35-8ae3-d4f7d65717e1#ref=rss)
+### bundeswehr
+
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-offenbar-qualitaetsmaengel-bei-neuen-fallschirmen-festgestellt](https://www.spiegel.de/politik/deutschland/bundeswehr-offenbar-qualitaetsmaengel-bei-neuen-fallschirmen-festgestellt-a-4b310061-c321-4f90-90d3-fab56d5f70bb#ref=rss)
+### justin
+
+* [https://www.spiegel.de/panorama/leute/justin-bieber-skurrile-instagram-clips-sorgen-fuer-spekulationen](https://www.spiegel.de/panorama/leute/justin-bieber-skurrile-instagram-clips-sorgen-fuer-spekulationen-a-5a6409ad-f876-4c00-9315-866b7a8e9f59#ref=rss)
+### bieber
+
+* [https://www.spiegel.de/panorama/leute/justin-bieber-skurrile-instagram-clips-sorgen-fuer-spekulationen](https://www.spiegel.de/panorama/leute/justin-bieber-skurrile-instagram-clips-sorgen-fuer-spekulationen-a-5a6409ad-f876-4c00-9315-866b7a8e9f59#ref=rss)
+### spekulationen
+
+* [https://www.spiegel.de/panorama/leute/justin-bieber-skurrile-instagram-clips-sorgen-fuer-spekulationen](https://www.spiegel.de/panorama/leute/justin-bieber-skurrile-instagram-clips-sorgen-fuer-spekulationen-a-5a6409ad-f876-4c00-9315-866b7a8e9f59#ref=rss)
+### constantin
+
+* [https://www.spiegel.de/kultur/tv/constantin-schreiber-nachrichtensprecher-verlaesst-die-tagesschau](https://www.spiegel.de/kultur/tv/constantin-schreiber-nachrichtensprecher-verlaesst-die-tagesschau-a-9a4d97a8-e5bf-4958-923f-97a9ae0ae5d7#ref=rss)
+### schreiber
+
+* [https://www.spiegel.de/kultur/tv/constantin-schreiber-nachrichtensprecher-verlaesst-die-tagesschau](https://www.spiegel.de/kultur/tv/constantin-schreiber-nachrichtensprecher-verlaesst-die-tagesschau-a-9a4d97a8-e5bf-4958-923f-97a9ae0ae5d7#ref=rss)
+### nachrichtensprecher
+
+* [https://www.spiegel.de/kultur/tv/constantin-schreiber-nachrichtensprecher-verlaesst-die-tagesschau](https://www.spiegel.de/kultur/tv/constantin-schreiber-nachrichtensprecher-verlaesst-die-tagesschau-a-9a4d97a8-e5bf-4958-923f-97a9ae0ae5d7#ref=rss)
+### tagesschau
+
+* [https://www.spiegel.de/kultur/tv/constantin-schreiber-nachrichtensprecher-verlaesst-die-tagesschau](https://www.spiegel.de/kultur/tv/constantin-schreiber-nachrichtensprecher-verlaesst-die-tagesschau-a-9a4d97a8-e5bf-4958-923f-97a9ae0ae5d7#ref=rss)
+### nature
+
+* [https://www.spiegel.de/wissenschaft/wissenschaft-fachmagazin-nature-hat-die-spektakulaersten-bilder-von-forscherinnen-und-forschern-ausgezeichnet](https://www.spiegel.de/wissenschaft/wissenschaft-fachmagazin-nature-hat-die-spektakulaersten-bilder-von-forscherinnen-und-forschern-ausgezeichnet-a-53aa6190-fe09-46b4-ad9f-692c9537845a#ref=rss)
+### bilder
+
+* [https://www.spiegel.de/wissenschaft/wissenschaft-fachmagazin-nature-hat-die-spektakulaersten-bilder-von-forscherinnen-und-forschern-ausgezeichnet](https://www.spiegel.de/wissenschaft/wissenschaft-fachmagazin-nature-hat-die-spektakulaersten-bilder-von-forscherinnen-und-forschern-ausgezeichnet-a-53aa6190-fe09-46b4-ad9f-692c9537845a#ref=rss)
+### ifochef
+
+* [https://www.spiegel.de/wirtschaft/kreativ-bremse-ifo-chef-fuest-beklagt-rahmenbedingungen-fuer-deutsche-start-ups](https://www.spiegel.de/wirtschaft/kreativ-bremse-ifo-chef-fuest-beklagt-rahmenbedingungen-fuer-deutsche-start-ups-a-41c07d6e-787a-48bb-a979-033dc278b900#ref=rss)
+### fuest
+
+* [https://www.spiegel.de/wirtschaft/kreativ-bremse-ifo-chef-fuest-beklagt-rahmenbedingungen-fuer-deutsche-start-ups](https://www.spiegel.de/wirtschaft/kreativ-bremse-ifo-chef-fuest-beklagt-rahmenbedingungen-fuer-deutsche-start-ups-a-41c07d6e-787a-48bb-a979-033dc278b900#ref=rss)
+### startups
+
+* [https://www.spiegel.de/wirtschaft/kreativ-bremse-ifo-chef-fuest-beklagt-rahmenbedingungen-fuer-deutsche-start-ups](https://www.spiegel.de/wirtschaft/kreativ-bremse-ifo-chef-fuest-beklagt-rahmenbedingungen-fuer-deutsche-start-ups-a-41c07d6e-787a-48bb-a979-033dc278b900#ref=rss)
+### marie
+
+* [https://www.spiegel.de/panorama/gesellschaft/marie-nejar-saengerin-und-schwarze-ns-zeitzeugin-ist-gestorben](https://www.spiegel.de/panorama/gesellschaft/marie-nejar-saengerin-und-schwarze-ns-zeitzeugin-ist-gestorben-a-f93ae3a6-6fec-4f54-bf9e-5478ae18a43a#ref=rss)
+### nejar
+
+* [https://www.spiegel.de/panorama/gesellschaft/marie-nejar-saengerin-und-schwarze-ns-zeitzeugin-ist-gestorben](https://www.spiegel.de/panorama/gesellschaft/marie-nejar-saengerin-und-schwarze-ns-zeitzeugin-ist-gestorben-a-f93ae3a6-6fec-4f54-bf9e-5478ae18a43a#ref=rss)
+### schwarze
+
+* [https://www.spiegel.de/panorama/gesellschaft/marie-nejar-saengerin-und-schwarze-ns-zeitzeugin-ist-gestorben](https://www.spiegel.de/panorama/gesellschaft/marie-nejar-saengerin-und-schwarze-ns-zeitzeugin-ist-gestorben-a-f93ae3a6-6fec-4f54-bf9e-5478ae18a43a#ref=rss)
+### human
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-in-den-usa-human-rights-watch-kritisiert-fifa](https://www.spiegel.de/sport/fussball/fussball-wm-2026-in-den-usa-human-rights-watch-kritisiert-fifa-a-5be51c06-dde2-46e7-b05c-333f103e12d2#ref=rss)
+### rights
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-in-den-usa-human-rights-watch-kritisiert-fifa](https://www.spiegel.de/sport/fussball/fussball-wm-2026-in-den-usa-human-rights-watch-kritisiert-fifa-a-5be51c06-dde2-46e7-b05c-333f103e12d2#ref=rss)
+### watch
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-in-den-usa-human-rights-watch-kritisiert-fifa](https://www.spiegel.de/sport/fussball/fussball-wm-2026-in-den-usa-human-rights-watch-kritisiert-fifa-a-5be51c06-dde2-46e7-b05c-333f103e12d2#ref=rss)
+### fifa
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-in-den-usa-human-rights-watch-kritisiert-fifa](https://www.spiegel.de/sport/fussball/fussball-wm-2026-in-den-usa-human-rights-watch-kritisiert-fifa-a-5be51c06-dde2-46e7-b05c-333f103e12d2#ref=rss)
+### spieler
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-in-den-usa-human-rights-watch-kritisiert-fifa](https://www.spiegel.de/sport/fussball/fussball-wm-2026-in-den-usa-human-rights-watch-kritisiert-fifa-a-5be51c06-dde2-46e7-b05c-333f103e12d2#ref=rss)
+* [https://www.spiegel.de/sport/basketball/nba-jayson-tatum-faellt-nach-achillessehnenriss-monatelang-aus](https://www.spiegel.de/sport/basketball/nba-jayson-tatum-faellt-nach-achillessehnenriss-monatelang-aus-a-3dbaafae-89b2-4f1d-ace2-41a007efdb30#ref=rss)
+### 60
+
+* [https://www.spiegel.de/start/koreanischer-gurkensalat-rezept-fuer-60-cent-pro-portion](https://www.spiegel.de/start/koreanischer-gurkensalat-rezept-fuer-60-cent-pro-portion-a-1bbf7d2a-3aad-42b7-9279-f66fa1a83653#ref=rss)
+* [https://www.spiegel.de/wirtschaft/schweizer-gericht-erklaert-boni-kuerzungen-bei-der-credit-suisse-fuer-rechtswidrig](https://www.spiegel.de/wirtschaft/schweizer-gericht-erklaert-boni-kuerzungen-bei-der-credit-suisse-fuer-rechtswidrig-a-676c75b2-bbaa-41f6-bc64-9d6a3a954af6#ref=rss)
+### credit
+
+* [https://www.spiegel.de/wirtschaft/schweizer-gericht-erklaert-boni-kuerzungen-bei-der-credit-suisse-fuer-rechtswidrig](https://www.spiegel.de/wirtschaft/schweizer-gericht-erklaert-boni-kuerzungen-bei-der-credit-suisse-fuer-rechtswidrig-a-676c75b2-bbaa-41f6-bc64-9d6a3a954af6#ref=rss)
+### suisse
+
+* [https://www.spiegel.de/wirtschaft/schweizer-gericht-erklaert-boni-kuerzungen-bei-der-credit-suisse-fuer-rechtswidrig](https://www.spiegel.de/wirtschaft/schweizer-gericht-erklaert-boni-kuerzungen-bei-der-credit-suisse-fuer-rechtswidrig-a-676c75b2-bbaa-41f6-bc64-9d6a3a954af6#ref=rss)
+### schweizer
+
+* [https://www.spiegel.de/wirtschaft/schweizer-gericht-erklaert-boni-kuerzungen-bei-der-credit-suisse-fuer-rechtswidrig](https://www.spiegel.de/wirtschaft/schweizer-gericht-erklaert-boni-kuerzungen-bei-der-credit-suisse-fuer-rechtswidrig-a-676c75b2-bbaa-41f6-bc64-9d6a3a954af6#ref=rss)
+### saudiarabien
+
+* [https://www.spiegel.de/netzwelt/web/nvidia-18-000-ki-chips-fuer-saudi-arabien-angekuendigt](https://www.spiegel.de/netzwelt/web/nvidia-18-000-ki-chips-fuer-saudi-arabien-angekuendigt-a-3144f663-97aa-4536-a27b-0742469460fb#ref=rss)
+### jayson
+
+* [https://www.spiegel.de/sport/basketball/nba-jayson-tatum-faellt-nach-achillessehnenriss-monatelang-aus](https://www.spiegel.de/sport/basketball/nba-jayson-tatum-faellt-nach-achillessehnenriss-monatelang-aus-a-3dbaafae-89b2-4f1d-ace2-41a007efdb30#ref=rss)
+### tatum
+
+* [https://www.spiegel.de/sport/basketball/nba-jayson-tatum-faellt-nach-achillessehnenriss-monatelang-aus](https://www.spiegel.de/sport/basketball/nba-jayson-tatum-faellt-nach-achillessehnenriss-monatelang-aus-a-3dbaafae-89b2-4f1d-ace2-41a007efdb30#ref=rss)
+### rolf
+
+* [https://www.spiegel.de/politik/deutschland/spd-rolf-muetzenich-wird-nicht-vorsitzender-des-auswaertigen-ausschusses](https://www.spiegel.de/politik/deutschland/spd-rolf-muetzenich-wird-nicht-vorsitzender-des-auswaertigen-ausschusses-a-b16b7864-a8fc-491d-a578-b2f86506a024#ref=rss)
+### mützenich
+
+* [https://www.spiegel.de/politik/deutschland/spd-rolf-muetzenich-wird-nicht-vorsitzender-des-auswaertigen-ausschusses](https://www.spiegel.de/politik/deutschland/spd-rolf-muetzenich-wird-nicht-vorsitzender-des-auswaertigen-ausschusses-a-b16b7864-a8fc-491d-a578-b2f86506a024#ref=rss)
+### auswärtigen
+
+* [https://www.spiegel.de/politik/deutschland/spd-rolf-muetzenich-wird-nicht-vorsitzender-des-auswaertigen-ausschusses](https://www.spiegel.de/politik/deutschland/spd-rolf-muetzenich-wird-nicht-vorsitzender-des-auswaertigen-ausschusses-a-b16b7864-a8fc-491d-a578-b2f86506a024#ref=rss)
+### brasiliens
+
+* [https://www.spiegel.de/ausland/ukraine-brasiliens-praesident-luiz-inacio-lula-da-silva-will-wladimir-putin-zu-teilnahme-an-friedensgespraechen-bewegen](https://www.spiegel.de/ausland/ukraine-brasiliens-praesident-luiz-inacio-lula-da-silva-will-wladimir-putin-zu-teilnahme-an-friedensgespraechen-bewegen-a-9a40b3f5-147f-4c02-8055-5c03ead60cfd#ref=rss)
+### präsident
+
+* [https://www.spiegel.de/ausland/ukraine-brasiliens-praesident-luiz-inacio-lula-da-silva-will-wladimir-putin-zu-teilnahme-an-friedensgespraechen-bewegen](https://www.spiegel.de/ausland/ukraine-brasiliens-praesident-luiz-inacio-lula-da-silva-will-wladimir-putin-zu-teilnahme-an-friedensgespraechen-bewegen-a-9a40b3f5-147f-4c02-8055-5c03ead60cfd#ref=rss)
+### lula
+
+* [https://www.spiegel.de/ausland/ukraine-brasiliens-praesident-luiz-inacio-lula-da-silva-will-wladimir-putin-zu-teilnahme-an-friedensgespraechen-bewegen](https://www.spiegel.de/ausland/ukraine-brasiliens-praesident-luiz-inacio-lula-da-silva-will-wladimir-putin-zu-teilnahme-an-friedensgespraechen-bewegen-a-9a40b3f5-147f-4c02-8055-5c03ead60cfd#ref=rss)
+### putin
+
+* [https://www.spiegel.de/ausland/ukraine-brasiliens-praesident-luiz-inacio-lula-da-silva-will-wladimir-putin-zu-teilnahme-an-friedensgespraechen-bewegen](https://www.spiegel.de/ausland/ukraine-brasiliens-praesident-luiz-inacio-lula-da-silva-will-wladimir-putin-zu-teilnahme-an-friedensgespraechen-bewegen-a-9a40b3f5-147f-4c02-8055-5c03ead60cfd#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/wirtschaft/inflation-in-deutschland-sinkt-auf-2-1-prozent](https://www.spiegel.de/wirtschaft/inflation-in-deutschland-sinkt-auf-2-1-prozent-a-2397f277-e64f-4eef-9970-5ba8829715fe#ref=rss)
+### aktionsrat
+
+* [https://www.spiegel.de/panorama/bildung/aktionsrat-bildung-fachleute-fordern-neuen-pisa-vergleich-der-bundeslaender](https://www.spiegel.de/panorama/bildung/aktionsrat-bildung-fachleute-fordern-neuen-pisa-vergleich-der-bundeslaender-a-ad20495f-3091-48a8-9390-6fa160356b65#ref=rss)
+### bildung
+
+* [https://www.spiegel.de/panorama/bildung/aktionsrat-bildung-fachleute-fordern-neuen-pisa-vergleich-der-bundeslaender](https://www.spiegel.de/panorama/bildung/aktionsrat-bildung-fachleute-fordern-neuen-pisa-vergleich-der-bundeslaender-a-ad20495f-3091-48a8-9390-6fa160356b65#ref=rss)
+### zentrale
+
+* [https://www.spiegel.de/panorama/bildung/aktionsrat-bildung-fachleute-fordern-neuen-pisa-vergleich-der-bundeslaender](https://www.spiegel.de/panorama/bildung/aktionsrat-bildung-fachleute-fordern-neuen-pisa-vergleich-der-bundeslaender-a-ad20495f-3091-48a8-9390-6fa160356b65#ref=rss)
+### eon
+
+* [https://www.spiegel.de/wirtschaft/e-on-energiekonzern-steigert-gewinn-im-ersten-quartal-deutlich](https://www.spiegel.de/wirtschaft/e-on-energiekonzern-steigert-gewinn-im-ersten-quartal-deutlich-a-3525334e-c155-40e5-abed-86c3ddd7973a#ref=rss)
+### ersten
+
+* [https://www.spiegel.de/wirtschaft/e-on-energiekonzern-steigert-gewinn-im-ersten-quartal-deutlich](https://www.spiegel.de/wirtschaft/e-on-energiekonzern-steigert-gewinn-im-ersten-quartal-deutlich-a-3525334e-c155-40e5-abed-86c3ddd7973a#ref=rss)
+### quartal
+
+* [https://www.spiegel.de/wirtschaft/e-on-energiekonzern-steigert-gewinn-im-ersten-quartal-deutlich](https://www.spiegel.de/wirtschaft/e-on-energiekonzern-steigert-gewinn-im-ersten-quartal-deutlich-a-3525334e-c155-40e5-abed-86c3ddd7973a#ref=rss)
 
