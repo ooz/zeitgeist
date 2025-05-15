@@ -6,472 +6,332 @@ tags: __no_header__
 
 ### deutschland
 
-* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-steinmeier-in-israel-unsere-stimme-wird-nicht-schweigen](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-steinmeier-in-israel-unsere-stimme-wird-nicht-schweigen-a-9cd3bdfa-2a7a-4762-9c9b-b4fbfa82b1d0#ref=rss)
-* [https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man](https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-a-2cc0b439-0c8c-4953-ae75-0317a77e1951#ref=rss)
-* [https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-podcast](https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-podcast-a-679955f3-6f4a-4954-8925-fef49ce247b5#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/eishockey-wm-deutschland-muss-ohne-nhl-star-reichel-auskommen](https://www.spiegel.de/sport/wintersport/eishockey-wm-deutschland-muss-ohne-nhl-star-reichel-auskommen-a-afbf3049-b4b6-41f6-8122-20d74e8bd501#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-regierungserklaerung-im-bundestag-fokus-auf-eigene-person](https://www.spiegel.de/politik/deutschland/friedrich-merz-regierungserklaerung-im-bundestag-fokus-auf-eigene-person-a-15799fdc-e422-4f8b-96dc-1136d83a581b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestag-lars-klingbeil-und-thorsten-frei-beantworten-fragen-regierungserklaerung-von-friedrich-merz](https://www.spiegel.de/politik/deutschland/bundestag-lars-klingbeil-und-thorsten-frei-beantworten-fragen-regierungserklaerung-von-friedrich-merz-a-c58676eb-603b-4109-8d23-6e191014d233#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-friedlich-merz-warum-so-zaghaft-und-joe-bidens-zustand](https://www.spiegel.de/politik/deutschland/news-friedlich-merz-warum-so-zaghaft-und-joe-bidens-zustand-a-003ac77e-6353-4ad3-96ab-82a4c656ea7c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-fuenf-lehren-aus-seiner-ersten-regierungserklaerung](https://www.spiegel.de/politik/deutschland/friedrich-merz-fuenf-lehren-aus-seiner-ersten-regierungserklaerung-a-f04362c2-9bc1-4e8c-901e-be0a77d6da26#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/politik/deutschland/margot-friedlaender-und-die-deutschen-das-grosse-beduerfnis-nach-moralischer-entlastung-kolumne](https://www.spiegel.de/politik/deutschland/margot-friedlaender-und-die-deutschen-das-grosse-beduerfnis-nach-moralischer-entlastung-kolumne-a-dda5adf3-c113-4dd2-b0d5-bf25b15630d5#ref=rss)
-* [https://www.spiegel.de/kultur/ex-banker-josef-ackermann-rettet-seine-seele](https://www.spiegel.de/kultur/ex-banker-josef-ackermann-rettet-seine-seele-a-8ab57aef-8598-4309-9612-31941e28b7b6#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/hamburg-wie-viel-werbung-vertragen-unsere-innenstaedte-initiative-will-displays-verbieten](https://www.spiegel.de/panorama/gesellschaft/hamburg-wie-viel-werbung-vertragen-unsere-innenstaedte-initiative-will-displays-verbieten-a-63e3f32c-4087-4fb5-b4e5-82ca41fef505#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/eishockey-wm-deutschland-muss-ohne-nhl-star-reichel-auskommen](https://www.spiegel.de/sport/wintersport/eishockey-wm-deutschland-muss-ohne-nhl-star-reichel-auskommen-a-afbf3049-b4b6-41f6-8122-20d74e8bd501#ref=rss)
-* [https://www.spiegel.de/panorama/migration-polen-verweigert-uebernahme-von-asylbewerbern-an-der-deutschen-grenze](https://www.spiegel.de/panorama/migration-polen-verweigert-uebernahme-von-asylbewerbern-an-der-deutschen-grenze-a-caba5628-1c70-4bd5-9118-435d65aa3fe7#ref=rss)
-### esc
-
-* [https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man](https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-a-2cc0b439-0c8c-4953-ae75-0317a77e1951#ref=rss)
-* [https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-podcast](https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-podcast-a-679955f3-6f4a-4954-8925-fef49ce247b5#ref=rss)
-* [https://www.spiegel.de/kultur/tv/eurovision-song-contest-peter-urban-muss-auftritt-in-stefan-raabs-esc-show-absagen](https://www.spiegel.de/kultur/tv/eurovision-song-contest-peter-urban-muss-auftritt-in-stefan-raabs-esc-show-absagen-a-6143a9e3-c3b0-458f-93b4-2da996a95f63#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-regierungserklaerung-im-bundestag-fokus-auf-eigene-person](https://www.spiegel.de/politik/deutschland/friedrich-merz-regierungserklaerung-im-bundestag-fokus-auf-eigene-person-a-15799fdc-e422-4f8b-96dc-1136d83a581b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestag-lars-klingbeil-und-thorsten-frei-beantworten-fragen-regierungserklaerung-von-friedrich-merz](https://www.spiegel.de/politik/deutschland/bundestag-lars-klingbeil-und-thorsten-frei-beantworten-fragen-regierungserklaerung-von-friedrich-merz-a-c58676eb-603b-4109-8d23-6e191014d233#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-fuenf-lehren-aus-seiner-ersten-regierungserklaerung](https://www.spiegel.de/politik/deutschland/friedrich-merz-fuenf-lehren-aus-seiner-ersten-regierungserklaerung-a-f04362c2-9bc1-4e8c-901e-be0a77d6da26#ref=rss)
-### regierungserklärung
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-regierungserklaerung-im-bundestag-fokus-auf-eigene-person](https://www.spiegel.de/politik/deutschland/friedrich-merz-regierungserklaerung-im-bundestag-fokus-auf-eigene-person-a-15799fdc-e422-4f8b-96dc-1136d83a581b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestag-lars-klingbeil-und-thorsten-frei-beantworten-fragen-regierungserklaerung-von-friedrich-merz](https://www.spiegel.de/politik/deutschland/bundestag-lars-klingbeil-und-thorsten-frei-beantworten-fragen-regierungserklaerung-von-friedrich-merz-a-c58676eb-603b-4109-8d23-6e191014d233#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-friedlich-merz-warum-so-zaghaft-und-joe-bidens-zustand](https://www.spiegel.de/politik/deutschland/news-friedlich-merz-warum-so-zaghaft-und-joe-bidens-zustand-a-003ac77e-6353-4ad3-96ab-82a4c656ea7c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-fuenf-lehren-aus-seiner-ersten-regierungserklaerung](https://www.spiegel.de/politik/deutschland/friedrich-merz-fuenf-lehren-aus-seiner-ersten-regierungserklaerung-a-f04362c2-9bc1-4e8c-901e-be0a77d6da26#ref=rss)
-### 2025
-
-* [https://www.spiegel.de/wissenschaft/sommer-2025-hitze-und-trockenheit-droht-ein-neuer-katastrophensommer](https://www.spiegel.de/wissenschaft/sommer-2025-hitze-und-trockenheit-droht-ein-neuer-katastrophensommer-a-5f06f351-66b3-43d5-92f8-253c16be05a0#ref=rss)
-* [https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man](https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-a-2cc0b439-0c8c-4953-ae75-0317a77e1951#ref=rss)
-* [https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-podcast](https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-podcast-a-679955f3-6f4a-4954-8925-fef49ce247b5#ref=rss)
-* [https://www.spiegel.de/kultur/tv/eurovision-song-contest-peter-urban-muss-auftritt-in-stefan-raabs-esc-show-absagen](https://www.spiegel.de/kultur/tv/eurovision-song-contest-peter-urban-muss-auftritt-in-stefan-raabs-esc-show-absagen-a-6143a9e3-c3b0-458f-93b4-2da996a95f63#ref=rss)
-### abor
-
-* [https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man](https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-a-2cc0b439-0c8c-4953-ae75-0317a77e1951#ref=rss)
-* [https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-podcast](https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-podcast-a-679955f3-6f4a-4954-8925-fef49ce247b5#ref=rss)
-### tynna
-
-* [https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man](https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-a-2cc0b439-0c8c-4953-ae75-0317a77e1951#ref=rss)
-* [https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-podcast](https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-podcast-a-679955f3-6f4a-4954-8925-fef49ce247b5#ref=rss)
-### stefan
-
-* [https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man](https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-a-2cc0b439-0c8c-4953-ae75-0317a77e1951#ref=rss)
-* [https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-podcast](https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-podcast-a-679955f3-6f4a-4954-8925-fef49ce247b5#ref=rss)
-* [https://www.spiegel.de/kultur/tv/eurovision-song-contest-peter-urban-muss-auftritt-in-stefan-raabs-esc-show-absagen](https://www.spiegel.de/kultur/tv/eurovision-song-contest-peter-urban-muss-auftritt-in-stefan-raabs-esc-show-absagen-a-6143a9e3-c3b0-458f-93b4-2da996a95f63#ref=rss)
-### paris
-
-* [https://www.spiegel.de/netzwelt/paris-tochter-von-krypto-unternehmer-entgeht-entfuehrung](https://www.spiegel.de/netzwelt/paris-tochter-von-krypto-unternehmer-entgeht-entfuehrung-a-3ad95347-90f1-4244-b88d-bb5dc4aba845#ref=rss)
-* [https://www.spiegel.de/ausland/algerien-und-frankreich-paris-will-erneut-diplomatische-vertreter-ausweisen](https://www.spiegel.de/ausland/algerien-und-frankreich-paris-will-erneut-diplomatische-vertreter-ausweisen-a-8afac05f-7bda-42cb-8856-f48e669b4ca4#ref=rss)
-### große
-
-* [https://www.spiegel.de/politik/deutschland/margot-friedlaender-und-die-deutschen-das-grosse-beduerfnis-nach-moralischer-entlastung-kolumne](https://www.spiegel.de/politik/deutschland/margot-friedlaender-und-die-deutschen-das-grosse-beduerfnis-nach-moralischer-entlastung-kolumne-a-dda5adf3-c113-4dd2-b0d5-bf25b15630d5#ref=rss)
-* [https://www.spiegel.de/kultur/kino/steven-soderbergh-ueber-black-bag-genau-diese-art-von-film-verschwindet-aus-den-kinos](https://www.spiegel.de/kultur/kino/steven-soderbergh-ueber-black-bag-genau-diese-art-von-film-verschwindet-aus-den-kinos-a-ae3294f8-5e43-4b66-9515-c81264cd8d0c#ref=rss)
-* [https://www.spiegel.de/kultur/musik/the-weeknd-will-nicht-mehr-the-weeknd-heissen](https://www.spiegel.de/kultur/musik/the-weeknd-will-nicht-mehr-the-weeknd-heissen-a-0d67ee99-b4dc-4dcb-b04c-52bd12f43ea2#ref=rss)
-### steinmeier
-
-* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-steinmeier-in-israel-unsere-stimme-wird-nicht-schweigen](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-steinmeier-in-israel-unsere-stimme-wird-nicht-schweigen-a-9cd3bdfa-2a7a-4762-9c9b-b4fbfa82b1d0#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/start/fleisch-statt-veganismus-warum-so-viele-junge-menschen-rueckfaellig-werden](https://www.spiegel.de/start/fleisch-statt-veganismus-warum-so-viele-junge-menschen-rueckfaellig-werden-a-615288f4-471d-42b1-ac65-23e1ef734ffd#ref=rss)
-* [https://www.spiegel.de/ausland/russland-sanktionen-eu-zielt-auf-200-schiffe-der-russischen-schattenflotte](https://www.spiegel.de/ausland/russland-sanktionen-eu-zielt-auf-200-schiffe-der-russischen-schattenflotte-a-79f89cd3-5e55-43bb-99d4-32d782b3db78#ref=rss)
-* [https://www.spiegel.de/panorama/migration-polen-verweigert-uebernahme-von-asylbewerbern-an-der-deutschen-grenze](https://www.spiegel.de/panorama/migration-polen-verweigert-uebernahme-von-asylbewerbern-an-der-deutschen-grenze-a-caba5628-1c70-4bd5-9118-435d65aa3fe7#ref=rss)
-### basel
-
-* [https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man](https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-a-2cc0b439-0c8c-4953-ae75-0317a77e1951#ref=rss)
-* [https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-podcast](https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-podcast-a-679955f3-6f4a-4954-8925-fef49ce247b5#ref=rss)
-* [https://www.spiegel.de/kultur/tv/eurovision-song-contest-peter-urban-muss-auftritt-in-stefan-raabs-esc-show-absagen](https://www.spiegel.de/kultur/tv/eurovision-song-contest-peter-urban-muss-auftritt-in-stefan-raabs-esc-show-absagen-a-6143a9e3-c3b0-458f-93b4-2da996a95f63#ref=rss)
-### gewinnt
-
-* [https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man](https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-a-2cc0b439-0c8c-4953-ae75-0317a77e1951#ref=rss)
-* [https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-podcast](https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-podcast-a-679955f3-6f4a-4954-8925-fef49ce247b5#ref=rss)
-* [https://www.spiegel.de/kultur/nadja-abd-el-farrag-und-die-rolle-der-medien-ein-system-das-frauen-zum-abschuss-freigibt](https://www.spiegel.de/kultur/nadja-abd-el-farrag-und-die-rolle-der-medien-ein-system-das-frauen-zum-abschuss-freigibt-a-2bdab1e7-bfd5-4f2a-ae42-7b94bceca9e2#ref=rss)
-### neue
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-regierungserklaerung-im-bundestag-fokus-auf-eigene-person](https://www.spiegel.de/politik/deutschland/friedrich-merz-regierungserklaerung-im-bundestag-fokus-auf-eigene-person-a-15799fdc-e422-4f8b-96dc-1136d83a581b#ref=rss)
-* [https://www.spiegel.de/politik/christian-lindner-fdp-politiker-und-finanzminister-meldet-neue-taetigkeit-als-redner-und-autor-an](https://www.spiegel.de/politik/christian-lindner-fdp-politiker-und-finanzminister-meldet-neue-taetigkeit-als-redner-und-autor-an-a-4a4b68ad-3f38-4e21-bf02-829b4f99e3dc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-friedlich-merz-warum-so-zaghaft-und-joe-bidens-zustand](https://www.spiegel.de/politik/deutschland/news-friedlich-merz-warum-so-zaghaft-und-joe-bidens-zustand-a-003ac77e-6353-4ad3-96ab-82a4c656ea7c#ref=rss)
-### kanzler
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-regierungserklaerung-im-bundestag-fokus-auf-eigene-person](https://www.spiegel.de/politik/deutschland/friedrich-merz-regierungserklaerung-im-bundestag-fokus-auf-eigene-person-a-15799fdc-e422-4f8b-96dc-1136d83a581b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-friedlich-merz-warum-so-zaghaft-und-joe-bidens-zustand](https://www.spiegel.de/politik/deutschland/news-friedlich-merz-warum-so-zaghaft-und-joe-bidens-zustand-a-003ac77e-6353-4ad3-96ab-82a4c656ea7c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-fuenf-lehren-aus-seiner-ersten-regierungserklaerung](https://www.spiegel.de/politik/deutschland/friedrich-merz-fuenf-lehren-aus-seiner-ersten-regierungserklaerung-a-f04362c2-9bc1-4e8c-901e-be0a77d6da26#ref=rss)
-### frau
-
-* [https://www.spiegel.de/kultur/nadja-abd-el-farrag-und-die-rolle-der-medien-ein-system-das-frauen-zum-abschuss-freigibt](https://www.spiegel.de/kultur/nadja-abd-el-farrag-und-die-rolle-der-medien-ein-system-das-frauen-zum-abschuss-freigibt-a-2bdab1e7-bfd5-4f2a-ae42-7b94bceca9e2#ref=rss)
-* [https://www.spiegel.de/netzwelt/paris-tochter-von-krypto-unternehmer-entgeht-entfuehrung](https://www.spiegel.de/netzwelt/paris-tochter-von-krypto-unternehmer-entgeht-entfuehrung-a-3ad95347-90f1-4244-b88d-bb5dc4aba845#ref=rss)
-* [https://www.spiegel.de/kultur/tv/eurovision-song-contest-peter-urban-muss-auftritt-in-stefan-raabs-esc-show-absagen](https://www.spiegel.de/kultur/tv/eurovision-song-contest-peter-urban-muss-auftritt-in-stefan-raabs-esc-show-absagen-a-6143a9e3-c3b0-458f-93b4-2da996a95f63#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/netzwelt/paris-tochter-von-krypto-unternehmer-entgeht-entfuehrung](https://www.spiegel.de/netzwelt/paris-tochter-von-krypto-unternehmer-entgeht-entfuehrung-a-3ad95347-90f1-4244-b88d-bb5dc4aba845#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-friedlich-merz-warum-so-zaghaft-und-joe-bidens-zustand](https://www.spiegel.de/politik/deutschland/news-friedlich-merz-warum-so-zaghaft-und-joe-bidens-zustand-a-003ac77e-6353-4ad3-96ab-82a4c656ea7c#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-israelische-soldaten-warnen-offenbar-vor-hungerkatastrophe](https://www.spiegel.de/ausland/gaza-israelische-soldaten-warnen-offenbar-vor-hungerkatastrophe-a-e88253a0-5b9e-42a3-8ed5-9a839c145a62#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/politik/deutschland/news-friedlich-merz-warum-so-zaghaft-und-joe-bidens-zustand](https://www.spiegel.de/politik/deutschland/news-friedlich-merz-warum-so-zaghaft-und-joe-bidens-zustand-a-003ac77e-6353-4ad3-96ab-82a4c656ea7c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-fuenf-lehren-aus-seiner-ersten-regierungserklaerung](https://www.spiegel.de/politik/deutschland/friedrich-merz-fuenf-lehren-aus-seiner-ersten-regierungserklaerung-a-f04362c2-9bc1-4e8c-901e-be0a77d6da26#ref=rss)
-### the
-
-* [https://www.spiegel.de/kultur/musik/the-weeknd-will-nicht-mehr-the-weeknd-heissen](https://www.spiegel.de/kultur/musik/the-weeknd-will-nicht-mehr-the-weeknd-heissen-a-0d67ee99-b4dc-4dcb-b04c-52bd12f43ea2#ref=rss)
-### weeknd
-
-* [https://www.spiegel.de/kultur/musik/the-weeknd-will-nicht-mehr-the-weeknd-heissen](https://www.spiegel.de/kultur/musik/the-weeknd-will-nicht-mehr-the-weeknd-heissen-a-0d67ee99-b4dc-4dcb-b04c-52bd12f43ea2#ref=rss)
-### israelische
-
-* [https://www.spiegel.de/ausland/gaza-israelische-soldaten-warnen-offenbar-vor-hungerkatastrophe](https://www.spiegel.de/ausland/gaza-israelische-soldaten-warnen-offenbar-vor-hungerkatastrophe-a-e88253a0-5b9e-42a3-8ed5-9a839c145a62#ref=rss)
-### saskia
-
-* [https://www.spiegel.de/politik/saskia-esken-scheidende-spd-chefin-beklagt-jagd-auf-ihre-person](https://www.spiegel.de/politik/saskia-esken-scheidende-spd-chefin-beklagt-jagd-auf-ihre-person-a-a0d081a8-8163-4c6a-a5f2-39d4b4f54744#ref=rss)
-### esken
-
-* [https://www.spiegel.de/politik/saskia-esken-scheidende-spd-chefin-beklagt-jagd-auf-ihre-person](https://www.spiegel.de/politik/saskia-esken-scheidende-spd-chefin-beklagt-jagd-auf-ihre-person-a-a0d081a8-8163-4c6a-a5f2-39d4b4f54744#ref=rss)
-### beklagt
-
-* [https://www.spiegel.de/politik/saskia-esken-scheidende-spd-chefin-beklagt-jagd-auf-ihre-person](https://www.spiegel.de/politik/saskia-esken-scheidende-spd-chefin-beklagt-jagd-auf-ihre-person-a-a0d081a8-8163-4c6a-a5f2-39d4b4f54744#ref=rss)
-### person
-
-* [https://www.spiegel.de/politik/saskia-esken-scheidende-spd-chefin-beklagt-jagd-auf-ihre-person](https://www.spiegel.de/politik/saskia-esken-scheidende-spd-chefin-beklagt-jagd-auf-ihre-person-a-a0d081a8-8163-4c6a-a5f2-39d4b4f54744#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-regierungserklaerung-im-bundestag-fokus-auf-eigene-person](https://www.spiegel.de/politik/deutschland/friedrich-merz-regierungserklaerung-im-bundestag-fokus-auf-eigene-person-a-15799fdc-e422-4f8b-96dc-1136d83a581b#ref=rss)
-### dennoch
-
-* [https://www.spiegel.de/politik/saskia-esken-scheidende-spd-chefin-beklagt-jagd-auf-ihre-person](https://www.spiegel.de/politik/saskia-esken-scheidende-spd-chefin-beklagt-jagd-auf-ihre-person-a-a0d081a8-8163-4c6a-a5f2-39d4b4f54744#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-israelische-soldaten-warnen-offenbar-vor-hungerkatastrophe](https://www.spiegel.de/ausland/gaza-israelische-soldaten-warnen-offenbar-vor-hungerkatastrophe-a-e88253a0-5b9e-42a3-8ed5-9a839c145a62#ref=rss)
-### debatte
-
-* [https://www.spiegel.de/politik/saskia-esken-scheidende-spd-chefin-beklagt-jagd-auf-ihre-person](https://www.spiegel.de/politik/saskia-esken-scheidende-spd-chefin-beklagt-jagd-auf-ihre-person-a-a0d081a8-8163-4c6a-a5f2-39d4b4f54744#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/hamburg-wie-viel-werbung-vertragen-unsere-innenstaedte-initiative-will-displays-verbieten](https://www.spiegel.de/panorama/gesellschaft/hamburg-wie-viel-werbung-vertragen-unsere-innenstaedte-initiative-will-displays-verbieten-a-63e3f32c-4087-4fb5-b4e5-82ca41fef505#ref=rss)
-### israel
-
-* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-steinmeier-in-israel-unsere-stimme-wird-nicht-schweigen](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-steinmeier-in-israel-unsere-stimme-wird-nicht-schweigen-a-9cd3bdfa-2a7a-4762-9c9b-b4fbfa82b1d0#ref=rss)
-### unsere
-
-* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-steinmeier-in-israel-unsere-stimme-wird-nicht-schweigen](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-steinmeier-in-israel-unsere-stimme-wird-nicht-schweigen-a-9cd3bdfa-2a7a-4762-9c9b-b4fbfa82b1d0#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/hamburg-wie-viel-werbung-vertragen-unsere-innenstaedte-initiative-will-displays-verbieten](https://www.spiegel.de/panorama/gesellschaft/hamburg-wie-viel-werbung-vertragen-unsere-innenstaedte-initiative-will-displays-verbieten-a-63e3f32c-4087-4fb5-b4e5-82ca41fef505#ref=rss)
-### findet
-
-* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-steinmeier-in-israel-unsere-stimme-wird-nicht-schweigen](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-steinmeier-in-israel-unsere-stimme-wird-nicht-schweigen-a-9cd3bdfa-2a7a-4762-9c9b-b4fbfa82b1d0#ref=rss)
-* [https://www.spiegel.de/kultur/kino/steven-soderbergh-ueber-black-bag-genau-diese-art-von-film-verschwindet-aus-den-kinos](https://www.spiegel.de/kultur/kino/steven-soderbergh-ueber-black-bag-genau-diese-art-von-film-verschwindet-aus-den-kinos-a-ae3294f8-5e43-4b66-9515-c81264cd8d0c#ref=rss)
-### land
-
-* [https://www.spiegel.de/ausland/donald-trump-was-bedeutet-es-die-syrien-sanktionen-aufzuheben](https://www.spiegel.de/ausland/donald-trump-was-bedeutet-es-die-syrien-sanktionen-aufzuheben-a-28ad88a6-9c88-4fbe-8cc1-75cd008fb183#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/familie/kinder-und-humor-wie-kleine-das-lachen-lernen](https://www.spiegel.de/familie/kinder-und-humor-wie-kleine-das-lachen-lernen-a-c04902c8-dd45-4579-82ea-f80cb2b3bf29#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-friedlich-merz-warum-so-zaghaft-und-joe-bidens-zustand](https://www.spiegel.de/politik/deutschland/news-friedlich-merz-warum-so-zaghaft-und-joe-bidens-zustand-a-003ac77e-6353-4ad3-96ab-82a4c656ea7c#ref=rss)
-### lachen
-
-* [https://www.spiegel.de/familie/kinder-und-humor-wie-kleine-das-lachen-lernen](https://www.spiegel.de/familie/kinder-und-humor-wie-kleine-das-lachen-lernen-a-c04902c8-dd45-4579-82ea-f80cb2b3bf29#ref=rss)
-### lernen
-
-* [https://www.spiegel.de/familie/kinder-und-humor-wie-kleine-das-lachen-lernen](https://www.spiegel.de/familie/kinder-und-humor-wie-kleine-das-lachen-lernen-a-c04902c8-dd45-4579-82ea-f80cb2b3bf29#ref=rss)
-* [https://www.spiegel.de/kultur/nadja-abd-el-farrag-und-die-rolle-der-medien-ein-system-das-frauen-zum-abschuss-freigibt](https://www.spiegel.de/kultur/nadja-abd-el-farrag-und-die-rolle-der-medien-ein-system-das-frauen-zum-abschuss-freigibt-a-2bdab1e7-bfd5-4f2a-ae42-7b94bceca9e2#ref=rss)
-### ende
-
-* [https://www.spiegel.de/familie/kinder-und-humor-wie-kleine-das-lachen-lernen](https://www.spiegel.de/familie/kinder-und-humor-wie-kleine-das-lachen-lernen-a-c04902c8-dd45-4579-82ea-f80cb2b3bf29#ref=rss)
-* [https://www.spiegel.de/kultur/ex-banker-josef-ackermann-rettet-seine-seele](https://www.spiegel.de/kultur/ex-banker-josef-ackermann-rettet-seine-seele-a-8ab57aef-8598-4309-9612-31941e28b7b6#ref=rss)
-### fleisch
-
-* [https://www.spiegel.de/start/fleisch-statt-veganismus-warum-so-viele-junge-menschen-rueckfaellig-werden](https://www.spiegel.de/start/fleisch-statt-veganismus-warum-so-viele-junge-menschen-rueckfaellig-werden-a-615288f4-471d-42b1-ac65-23e1ef734ffd#ref=rss)
-### bleibt
-
-* [https://www.spiegel.de/start/fleisch-statt-veganismus-warum-so-viele-junge-menschen-rueckfaellig-werden](https://www.spiegel.de/start/fleisch-statt-veganismus-warum-so-viele-junge-menschen-rueckfaellig-werden-a-615288f4-471d-42b1-ac65-23e1ef734ffd#ref=rss)
-* [https://www.spiegel.de/kultur/kino/steven-soderbergh-ueber-black-bag-genau-diese-art-von-film-verschwindet-aus-den-kinos](https://www.spiegel.de/kultur/kino/steven-soderbergh-ueber-black-bag-genau-diese-art-von-film-verschwindet-aus-den-kinos-a-ae3294f8-5e43-4b66-9515-c81264cd8d0c#ref=rss)
-### weitgehend
-
-* [https://www.spiegel.de/start/fleisch-statt-veganismus-warum-so-viele-junge-menschen-rueckfaellig-werden](https://www.spiegel.de/start/fleisch-statt-veganismus-warum-so-viele-junge-menschen-rueckfaellig-werden-a-615288f4-471d-42b1-ac65-23e1ef734ffd#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/hamburg-wie-viel-werbung-vertragen-unsere-innenstaedte-initiative-will-displays-verbieten](https://www.spiegel.de/panorama/gesellschaft/hamburg-wie-viel-werbung-vertragen-unsere-innenstaedte-initiative-will-displays-verbieten-a-63e3f32c-4087-4fb5-b4e5-82ca41fef505#ref=rss)
+* [https://www.spiegel.de/auto/kfz-versicherung-verivox-misst-teuerung-um-50-prozent-binnen-drei-jahren](https://www.spiegel.de/auto/kfz-versicherung-verivox-misst-teuerung-um-50-prozent-binnen-drei-jahren-a-4f27804a-df26-4287-8bc0-7568303d9ed8#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/verkehr-sektor-reisst-klimaziel-2024-deutlich](https://www.spiegel.de/wissenschaft/natur/verkehr-sektor-reisst-klimaziel-2024-deutlich-a-319102f2-1f10-4188-82cd-ee1ba683649e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klimakrise-in-deutschland-sind-wir-beim-klimaschutz-ploetzlich-wieder-auf-kurs-herr-henning](https://www.spiegel.de/wissenschaft/klimakrise-in-deutschland-sind-wir-beim-klimaschutz-ploetzlich-wieder-auf-kurs-herr-henning-a-15691892-e115-47ad-a0a6-38c8d89fe1c9#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/start/fleisch-statt-veganismus-warum-so-viele-junge-menschen-rueckfaellig-werden](https://www.spiegel.de/start/fleisch-statt-veganismus-warum-so-viele-junge-menschen-rueckfaellig-werden-a-615288f4-471d-42b1-ac65-23e1ef734ffd#ref=rss)
-* [https://www.spiegel.de/kultur/musik/the-weeknd-will-nicht-mehr-the-weeknd-heissen](https://www.spiegel.de/kultur/musik/the-weeknd-will-nicht-mehr-the-weeknd-heissen-a-0d67ee99-b4dc-4dcb-b04c-52bd12f43ea2#ref=rss)
-### steven
-
-* [https://www.spiegel.de/kultur/kino/steven-soderbergh-ueber-black-bag-genau-diese-art-von-film-verschwindet-aus-den-kinos](https://www.spiegel.de/kultur/kino/steven-soderbergh-ueber-black-bag-genau-diese-art-von-film-verschwindet-aus-den-kinos-a-ae3294f8-5e43-4b66-9515-c81264cd8d0c#ref=rss)
-### soderbergh
-
-* [https://www.spiegel.de/kultur/kino/steven-soderbergh-ueber-black-bag-genau-diese-art-von-film-verschwindet-aus-den-kinos](https://www.spiegel.de/kultur/kino/steven-soderbergh-ueber-black-bag-genau-diese-art-von-film-verschwindet-aus-den-kinos-a-ae3294f8-5e43-4b66-9515-c81264cd8d0c#ref=rss)
-### black
-
-* [https://www.spiegel.de/kultur/kino/steven-soderbergh-ueber-black-bag-genau-diese-art-von-film-verschwindet-aus-den-kinos](https://www.spiegel.de/kultur/kino/steven-soderbergh-ueber-black-bag-genau-diese-art-von-film-verschwindet-aus-den-kinos-a-ae3294f8-5e43-4b66-9515-c81264cd8d0c#ref=rss)
-### bag
-
-* [https://www.spiegel.de/kultur/kino/steven-soderbergh-ueber-black-bag-genau-diese-art-von-film-verschwindet-aus-den-kinos](https://www.spiegel.de/kultur/kino/steven-soderbergh-ueber-black-bag-genau-diese-art-von-film-verschwindet-aus-den-kinos-a-ae3294f8-5e43-4b66-9515-c81264cd8d0c#ref=rss)
-### art
-
-* [https://www.spiegel.de/kultur/kino/steven-soderbergh-ueber-black-bag-genau-diese-art-von-film-verschwindet-aus-den-kinos](https://www.spiegel.de/kultur/kino/steven-soderbergh-ueber-black-bag-genau-diese-art-von-film-verschwindet-aus-den-kinos-a-ae3294f8-5e43-4b66-9515-c81264cd8d0c#ref=rss)
-* [https://www.spiegel.de/netzwelt/paris-tochter-von-krypto-unternehmer-entgeht-entfuehrung](https://www.spiegel.de/netzwelt/paris-tochter-von-krypto-unternehmer-entgeht-entfuehrung-a-3ad95347-90f1-4244-b88d-bb5dc4aba845#ref=rss)
-### kinos
-
-* [https://www.spiegel.de/kultur/kino/steven-soderbergh-ueber-black-bag-genau-diese-art-von-film-verschwindet-aus-den-kinos](https://www.spiegel.de/kultur/kino/steven-soderbergh-ueber-black-bag-genau-diese-art-von-film-verschwindet-aus-den-kinos-a-ae3294f8-5e43-4b66-9515-c81264cd8d0c#ref=rss)
-### regisseur
-
-* [https://www.spiegel.de/kultur/kino/steven-soderbergh-ueber-black-bag-genau-diese-art-von-film-verschwindet-aus-den-kinos](https://www.spiegel.de/kultur/kino/steven-soderbergh-ueber-black-bag-genau-diese-art-von-film-verschwindet-aus-den-kinos-a-ae3294f8-5e43-4b66-9515-c81264cd8d0c#ref=rss)
-### publikum
-
-* [https://www.spiegel.de/kultur/kino/steven-soderbergh-ueber-black-bag-genau-diese-art-von-film-verschwindet-aus-den-kinos](https://www.spiegel.de/kultur/kino/steven-soderbergh-ueber-black-bag-genau-diese-art-von-film-verschwindet-aus-den-kinos-a-ae3294f8-5e43-4b66-9515-c81264cd8d0c#ref=rss)
-* [https://www.spiegel.de/kultur/nadja-abd-el-farrag-und-die-rolle-der-medien-ein-system-das-frauen-zum-abschuss-freigibt](https://www.spiegel.de/kultur/nadja-abd-el-farrag-und-die-rolle-der-medien-ein-system-das-frauen-zum-abschuss-freigibt-a-2bdab1e7-bfd5-4f2a-ae42-7b94bceca9e2#ref=rss)
-### vertreten
-
-* [https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man](https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-a-2cc0b439-0c8c-4953-ae75-0317a77e1951#ref=rss)
-* [https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-podcast](https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-podcast-a-679955f3-6f4a-4954-8925-fef49ce247b5#ref=rss)
-### fest
-
-* [https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man](https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-a-2cc0b439-0c8c-4953-ae75-0317a77e1951#ref=rss)
-* [https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-podcast](https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-podcast-a-679955f3-6f4a-4954-8925-fef49ce247b5#ref=rss)
-### freude
-
-* [https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man](https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-a-2cc0b439-0c8c-4953-ae75-0317a77e1951#ref=rss)
-* [https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-podcast](https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-podcast-a-679955f3-6f4a-4954-8925-fef49ce247b5#ref=rss)
-### erfolg
-
-* [https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man](https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-a-2cc0b439-0c8c-4953-ae75-0317a77e1951#ref=rss)
-* [https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-podcast](https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-podcast-a-679955f3-6f4a-4954-8925-fef49ce247b5#ref=rss)
-### träumt
-
-* [https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man](https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-a-2cc0b439-0c8c-4953-ae75-0317a77e1951#ref=rss)
-* [https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-podcast](https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-podcast-a-679955f3-6f4a-4954-8925-fef49ce247b5#ref=rss)
-### meist
-
-* [https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man](https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-a-2cc0b439-0c8c-4953-ae75-0317a77e1951#ref=rss)
-* [https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-podcast](https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-podcast-a-679955f3-6f4a-4954-8925-fef49ce247b5#ref=rss)
-### vergeblich
-
-* [https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man](https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-a-2cc0b439-0c8c-4953-ae75-0317a77e1951#ref=rss)
-* [https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-podcast](https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-podcast-a-679955f3-6f4a-4954-8925-fef49ce247b5#ref=rss)
-### versuchen
-
-* [https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man](https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-a-2cc0b439-0c8c-4953-ae75-0317a77e1951#ref=rss)
-* [https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-podcast](https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-podcast-a-679955f3-6f4a-4954-8925-fef49ce247b5#ref=rss)
-### baller
-
-* [https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man](https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-a-2cc0b439-0c8c-4953-ae75-0317a77e1951#ref=rss)
-* [https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-podcast](https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-podcast-a-679955f3-6f4a-4954-8925-fef49ce247b5#ref=rss)
-### hilfe
-
-* [https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man](https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-a-2cc0b439-0c8c-4953-ae75-0317a77e1951#ref=rss)
-* [https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-podcast](https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-podcast-a-679955f3-6f4a-4954-8925-fef49ce247b5#ref=rss)
-### raab
-
-* [https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man](https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-a-2cc0b439-0c8c-4953-ae75-0317a77e1951#ref=rss)
-* [https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-podcast](https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-podcast-a-679955f3-6f4a-4954-8925-fef49ce247b5#ref=rss)
-### spiegelredakteur
-
-* [https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man](https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-a-2cc0b439-0c8c-4953-ae75-0317a77e1951#ref=rss)
-* [https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-podcast](https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-podcast-a-679955f3-6f4a-4954-8925-fef49ce247b5#ref=rss)
-### felix
-
-* [https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man](https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-a-2cc0b439-0c8c-4953-ae75-0317a77e1951#ref=rss)
-* [https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-podcast](https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-podcast-a-679955f3-6f4a-4954-8925-fef49ce247b5#ref=rss)
-### bayer
-
-* [https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man](https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-a-2cc0b439-0c8c-4953-ae75-0317a77e1951#ref=rss)
-* [https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-podcast](https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-podcast-a-679955f3-6f4a-4954-8925-fef49ce247b5#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man](https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-a-2cc0b439-0c8c-4953-ae75-0317a77e1951#ref=rss)
-* [https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-podcast](https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-podcast-a-679955f3-6f4a-4954-8925-fef49ce247b5#ref=rss)
-### gewinner
-
-* [https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man](https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-a-2cc0b439-0c8c-4953-ae75-0317a77e1951#ref=rss)
-* [https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-podcast](https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-podcast-a-679955f3-6f4a-4954-8925-fef49ce247b5#ref=rss)
-### ausmacht
-
-* [https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man](https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-a-2cc0b439-0c8c-4953-ae75-0317a77e1951#ref=rss)
-* [https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-podcast](https://www.spiegel.de/kultur/musik/esc-2025-in-basel-abor-tynna-vertreten-deutschland-aber-wie-gewinnt-man-podcast-a-679955f3-6f4a-4954-8925-fef49ce247b5#ref=rss)
-### bundestag
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-regierungserklaerung-im-bundestag-fokus-auf-eigene-person](https://www.spiegel.de/politik/deutschland/friedrich-merz-regierungserklaerung-im-bundestag-fokus-auf-eigene-person-a-15799fdc-e422-4f8b-96dc-1136d83a581b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestag-lars-klingbeil-und-thorsten-frei-beantworten-fragen-regierungserklaerung-von-friedrich-merz](https://www.spiegel.de/politik/deutschland/bundestag-lars-klingbeil-und-thorsten-frei-beantworten-fragen-regierungserklaerung-von-friedrich-merz-a-c58676eb-603b-4109-8d23-6e191014d233#ref=rss)
-### lang
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-regierungserklaerung-im-bundestag-fokus-auf-eigene-person](https://www.spiegel.de/politik/deutschland/friedrich-merz-regierungserklaerung-im-bundestag-fokus-auf-eigene-person-a-15799fdc-e422-4f8b-96dc-1136d83a581b#ref=rss)
-* [https://www.spiegel.de/ausland/algerien-und-frankreich-paris-will-erneut-diplomatische-vertreter-ausweisen](https://www.spiegel.de/ausland/algerien-und-frankreich-paris-will-erneut-diplomatische-vertreter-ausweisen-a-8afac05f-7bda-42cb-8856-f48e669b4ca4#ref=rss)
-### stand
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-regierungserklaerung-im-bundestag-fokus-auf-eigene-person](https://www.spiegel.de/politik/deutschland/friedrich-merz-regierungserklaerung-im-bundestag-fokus-auf-eigene-person-a-15799fdc-e422-4f8b-96dc-1136d83a581b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ursula-von-der-leyen-die-kurznachrichten-an-den-pfizer-chef-bleiben-verschwunden](https://www.spiegel.de/politik/deutschland/ursula-von-der-leyen-die-kurznachrichten-an-den-pfizer-chef-bleiben-verschwunden-a-5251c16c-048e-4b04-8768-b62e32ecff71#ref=rss)
-### boris
-
-* [https://www.spiegel.de/politik/deutschland/bundestag-lars-klingbeil-und-thorsten-frei-beantworten-fragen-regierungserklaerung-von-friedrich-merz](https://www.spiegel.de/politik/deutschland/bundestag-lars-klingbeil-und-thorsten-frei-beantworten-fragen-regierungserklaerung-von-friedrich-merz-a-c58676eb-603b-4109-8d23-6e191014d233#ref=rss)
-### pistorius
-
-* [https://www.spiegel.de/politik/deutschland/bundestag-lars-klingbeil-und-thorsten-frei-beantworten-fragen-regierungserklaerung-von-friedrich-merz](https://www.spiegel.de/politik/deutschland/bundestag-lars-klingbeil-und-thorsten-frei-beantworten-fragen-regierungserklaerung-von-friedrich-merz-a-c58676eb-603b-4109-8d23-6e191014d233#ref=rss)
-### wehrdienst
-
-* [https://www.spiegel.de/politik/deutschland/bundestag-lars-klingbeil-und-thorsten-frei-beantworten-fragen-regierungserklaerung-von-friedrich-merz](https://www.spiegel.de/politik/deutschland/bundestag-lars-klingbeil-und-thorsten-frei-beantworten-fragen-regierungserklaerung-von-friedrich-merz-a-c58676eb-603b-4109-8d23-6e191014d233#ref=rss)
-### internationale
-
-* [https://www.spiegel.de/politik/deutschland/bundestag-lars-klingbeil-und-thorsten-frei-beantworten-fragen-regierungserklaerung-von-friedrich-merz](https://www.spiegel.de/politik/deutschland/bundestag-lars-klingbeil-und-thorsten-frei-beantworten-fragen-regierungserklaerung-von-friedrich-merz-a-c58676eb-603b-4109-8d23-6e191014d233#ref=rss)
-* [https://www.spiegel.de/auto/elektroauto-iea-rechnet-mit-weiter-starkem-wachstum](https://www.spiegel.de/auto/elektroauto-iea-rechnet-mit-weiter-starkem-wachstum-a-59fabf46-4493-442d-acf4-1b32460f84ae#ref=rss)
-### lage
-
-* [https://www.spiegel.de/politik/deutschland/bundestag-lars-klingbeil-und-thorsten-frei-beantworten-fragen-regierungserklaerung-von-friedrich-merz](https://www.spiegel.de/politik/deutschland/bundestag-lars-klingbeil-und-thorsten-frei-beantworten-fragen-regierungserklaerung-von-friedrich-merz-a-c58676eb-603b-4109-8d23-6e191014d233#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-friedlich-merz-warum-so-zaghaft-und-joe-bidens-zustand](https://www.spiegel.de/politik/deutschland/news-friedlich-merz-warum-so-zaghaft-und-joe-bidens-zustand-a-003ac77e-6353-4ad3-96ab-82a4c656ea7c#ref=rss)
-### christian
-
-* [https://www.spiegel.de/politik/christian-lindner-fdp-politiker-und-finanzminister-meldet-neue-taetigkeit-als-redner-und-autor-an](https://www.spiegel.de/politik/christian-lindner-fdp-politiker-und-finanzminister-meldet-neue-taetigkeit-als-redner-und-autor-an-a-4a4b68ad-3f38-4e21-bf02-829b4f99e3dc#ref=rss)
-### lindner
-
-* [https://www.spiegel.de/politik/christian-lindner-fdp-politiker-und-finanzminister-meldet-neue-taetigkeit-als-redner-und-autor-an](https://www.spiegel.de/politik/christian-lindner-fdp-politiker-und-finanzminister-meldet-neue-taetigkeit-als-redner-und-autor-an-a-4a4b68ad-3f38-4e21-bf02-829b4f99e3dc#ref=rss)
-### redner
-
-* [https://www.spiegel.de/politik/christian-lindner-fdp-politiker-und-finanzminister-meldet-neue-taetigkeit-als-redner-und-autor-an](https://www.spiegel.de/politik/christian-lindner-fdp-politiker-und-finanzminister-meldet-neue-taetigkeit-als-redner-und-autor-an-a-4a4b68ad-3f38-4e21-bf02-829b4f99e3dc#ref=rss)
-### bleiben
-
-* [https://www.spiegel.de/politik/christian-lindner-fdp-politiker-und-finanzminister-meldet-neue-taetigkeit-als-redner-und-autor-an](https://www.spiegel.de/politik/christian-lindner-fdp-politiker-und-finanzminister-meldet-neue-taetigkeit-als-redner-und-autor-an-a-4a4b68ad-3f38-4e21-bf02-829b4f99e3dc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ursula-von-der-leyen-die-kurznachrichten-an-den-pfizer-chef-bleiben-verschwunden](https://www.spiegel.de/politik/deutschland/ursula-von-der-leyen-die-kurznachrichten-an-den-pfizer-chef-bleiben-verschwunden-a-5251c16c-048e-4b04-8768-b62e32ecff71#ref=rss)
-### josef
-
-* [https://www.spiegel.de/kultur/ex-banker-josef-ackermann-rettet-seine-seele](https://www.spiegel.de/kultur/ex-banker-josef-ackermann-rettet-seine-seele-a-8ab57aef-8598-4309-9612-31941e28b7b6#ref=rss)
-### ackermann
-
-* [https://www.spiegel.de/kultur/ex-banker-josef-ackermann-rettet-seine-seele](https://www.spiegel.de/kultur/ex-banker-josef-ackermann-rettet-seine-seele-a-8ab57aef-8598-4309-9612-31941e28b7b6#ref=rss)
-### seele
-
-* [https://www.spiegel.de/kultur/ex-banker-josef-ackermann-rettet-seine-seele](https://www.spiegel.de/kultur/ex-banker-josef-ackermann-rettet-seine-seele-a-8ab57aef-8598-4309-9612-31941e28b7b6#ref=rss)
-* [https://www.spiegel.de/kultur/tv/eurovision-song-contest-peter-urban-muss-auftritt-in-stefan-raabs-esc-show-absagen](https://www.spiegel.de/kultur/tv/eurovision-song-contest-peter-urban-muss-auftritt-in-stefan-raabs-esc-show-absagen-a-6143a9e3-c3b0-458f-93b4-2da996a95f63#ref=rss)
-### chef
-
-* [https://www.spiegel.de/kultur/ex-banker-josef-ackermann-rettet-seine-seele](https://www.spiegel.de/kultur/ex-banker-josef-ackermann-rettet-seine-seele-a-8ab57aef-8598-4309-9612-31941e28b7b6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ursula-von-der-leyen-die-kurznachrichten-an-den-pfizer-chef-bleiben-verschwunden](https://www.spiegel.de/politik/deutschland/ursula-von-der-leyen-die-kurznachrichten-an-den-pfizer-chef-bleiben-verschwunden-a-5251c16c-048e-4b04-8768-b62e32ecff71#ref=rss)
-### hamburg
-
-* [https://www.spiegel.de/panorama/gesellschaft/hamburg-wie-viel-werbung-vertragen-unsere-innenstaedte-initiative-will-displays-verbieten](https://www.spiegel.de/panorama/gesellschaft/hamburg-wie-viel-werbung-vertragen-unsere-innenstaedte-initiative-will-displays-verbieten-a-63e3f32c-4087-4fb5-b4e5-82ca41fef505#ref=rss)
-### vertragen
-
-* [https://www.spiegel.de/panorama/gesellschaft/hamburg-wie-viel-werbung-vertragen-unsere-innenstaedte-initiative-will-displays-verbieten](https://www.spiegel.de/panorama/gesellschaft/hamburg-wie-viel-werbung-vertragen-unsere-innenstaedte-initiative-will-displays-verbieten-a-63e3f32c-4087-4fb5-b4e5-82ca41fef505#ref=rss)
-### innenstädte
-
-* [https://www.spiegel.de/panorama/gesellschaft/hamburg-wie-viel-werbung-vertragen-unsere-innenstaedte-initiative-will-displays-verbieten](https://www.spiegel.de/panorama/gesellschaft/hamburg-wie-viel-werbung-vertragen-unsere-innenstaedte-initiative-will-displays-verbieten-a-63e3f32c-4087-4fb5-b4e5-82ca41fef505#ref=rss)
-### displays
-
-* [https://www.spiegel.de/panorama/gesellschaft/hamburg-wie-viel-werbung-vertragen-unsere-innenstaedte-initiative-will-displays-verbieten](https://www.spiegel.de/panorama/gesellschaft/hamburg-wie-viel-werbung-vertragen-unsere-innenstaedte-initiative-will-displays-verbieten-a-63e3f32c-4087-4fb5-b4e5-82ca41fef505#ref=rss)
-### verbieten
-
-* [https://www.spiegel.de/panorama/gesellschaft/hamburg-wie-viel-werbung-vertragen-unsere-innenstaedte-initiative-will-displays-verbieten](https://www.spiegel.de/panorama/gesellschaft/hamburg-wie-viel-werbung-vertragen-unsere-innenstaedte-initiative-will-displays-verbieten-a-63e3f32c-4087-4fb5-b4e5-82ca41fef505#ref=rss)
-### läuft
-
-* [https://www.spiegel.de/panorama/gesellschaft/hamburg-wie-viel-werbung-vertragen-unsere-innenstaedte-initiative-will-displays-verbieten](https://www.spiegel.de/panorama/gesellschaft/hamburg-wie-viel-werbung-vertragen-unsere-innenstaedte-initiative-will-displays-verbieten-a-63e3f32c-4087-4fb5-b4e5-82ca41fef505#ref=rss)
-* [https://www.spiegel.de/panorama/migration-polen-verweigert-uebernahme-von-asylbewerbern-an-der-deutschen-grenze](https://www.spiegel.de/panorama/migration-polen-verweigert-uebernahme-von-asylbewerbern-an-der-deutschen-grenze-a-caba5628-1c70-4bd5-9118-435d65aa3fe7#ref=rss)
-### nadja
-
-* [https://www.spiegel.de/kultur/nadja-abd-el-farrag-und-die-rolle-der-medien-ein-system-das-frauen-zum-abschuss-freigibt](https://www.spiegel.de/kultur/nadja-abd-el-farrag-und-die-rolle-der-medien-ein-system-das-frauen-zum-abschuss-freigibt-a-2bdab1e7-bfd5-4f2a-ae42-7b94bceca9e2#ref=rss)
-### abd
-
-* [https://www.spiegel.de/kultur/nadja-abd-el-farrag-und-die-rolle-der-medien-ein-system-das-frauen-zum-abschuss-freigibt](https://www.spiegel.de/kultur/nadja-abd-el-farrag-und-die-rolle-der-medien-ein-system-das-frauen-zum-abschuss-freigibt-a-2bdab1e7-bfd5-4f2a-ae42-7b94bceca9e2#ref=rss)
-### el
-
-* [https://www.spiegel.de/kultur/nadja-abd-el-farrag-und-die-rolle-der-medien-ein-system-das-frauen-zum-abschuss-freigibt](https://www.spiegel.de/kultur/nadja-abd-el-farrag-und-die-rolle-der-medien-ein-system-das-frauen-zum-abschuss-freigibt-a-2bdab1e7-bfd5-4f2a-ae42-7b94bceca9e2#ref=rss)
-### farrag
-
-* [https://www.spiegel.de/kultur/nadja-abd-el-farrag-und-die-rolle-der-medien-ein-system-das-frauen-zum-abschuss-freigibt](https://www.spiegel.de/kultur/nadja-abd-el-farrag-und-die-rolle-der-medien-ein-system-das-frauen-zum-abschuss-freigibt-a-2bdab1e7-bfd5-4f2a-ae42-7b94bceca9e2#ref=rss)
-### geschichte
-
-* [https://www.spiegel.de/kultur/nadja-abd-el-farrag-und-die-rolle-der-medien-ein-system-das-frauen-zum-abschuss-freigibt](https://www.spiegel.de/kultur/nadja-abd-el-farrag-und-die-rolle-der-medien-ein-system-das-frauen-zum-abschuss-freigibt-a-2bdab1e7-bfd5-4f2a-ae42-7b94bceca9e2#ref=rss)
-* [https://www.spiegel.de/kultur/musik/the-weeknd-will-nicht-mehr-the-weeknd-heissen](https://www.spiegel.de/kultur/musik/the-weeknd-will-nicht-mehr-the-weeknd-heissen-a-0d67ee99-b4dc-4dcb-b04c-52bd12f43ea2#ref=rss)
-### ursula
-
-* [https://www.spiegel.de/politik/deutschland/ursula-von-der-leyen-die-kurznachrichten-an-den-pfizer-chef-bleiben-verschwunden](https://www.spiegel.de/politik/deutschland/ursula-von-der-leyen-die-kurznachrichten-an-den-pfizer-chef-bleiben-verschwunden-a-5251c16c-048e-4b04-8768-b62e32ecff71#ref=rss)
-### peter
-
-* [https://www.spiegel.de/kultur/tv/eurovision-song-contest-peter-urban-muss-auftritt-in-stefan-raabs-esc-show-absagen](https://www.spiegel.de/kultur/tv/eurovision-song-contest-peter-urban-muss-auftritt-in-stefan-raabs-esc-show-absagen-a-6143a9e3-c3b0-458f-93b4-2da996a95f63#ref=rss)
-### urban
-
-* [https://www.spiegel.de/kultur/tv/eurovision-song-contest-peter-urban-muss-auftritt-in-stefan-raabs-esc-show-absagen](https://www.spiegel.de/kultur/tv/eurovision-song-contest-peter-urban-muss-auftritt-in-stefan-raabs-esc-show-absagen-a-6143a9e3-c3b0-458f-93b4-2da996a95f63#ref=rss)
-### raabs
-
-* [https://www.spiegel.de/kultur/tv/eurovision-song-contest-peter-urban-muss-auftritt-in-stefan-raabs-esc-show-absagen](https://www.spiegel.de/kultur/tv/eurovision-song-contest-peter-urban-muss-auftritt-in-stefan-raabs-esc-show-absagen-a-6143a9e3-c3b0-458f-93b4-2da996a95f63#ref=rss)
-### zaghaft
-
-* [https://www.spiegel.de/politik/deutschland/news-friedlich-merz-warum-so-zaghaft-und-joe-bidens-zustand](https://www.spiegel.de/politik/deutschland/news-friedlich-merz-warum-so-zaghaft-und-joe-bidens-zustand-a-003ac77e-6353-4ad3-96ab-82a4c656ea7c#ref=rss)
-### bidens
-
-* [https://www.spiegel.de/politik/deutschland/news-friedlich-merz-warum-so-zaghaft-und-joe-bidens-zustand](https://www.spiegel.de/politik/deutschland/news-friedlich-merz-warum-so-zaghaft-und-joe-bidens-zustand-a-003ac77e-6353-4ad3-96ab-82a4c656ea7c#ref=rss)
-### zustand
-
-* [https://www.spiegel.de/politik/deutschland/news-friedlich-merz-warum-so-zaghaft-und-joe-bidens-zustand](https://www.spiegel.de/politik/deutschland/news-friedlich-merz-warum-so-zaghaft-und-joe-bidens-zustand-a-003ac77e-6353-4ad3-96ab-82a4c656ea7c#ref=rss)
-### wachstum
-
-* [https://www.spiegel.de/auto/elektroauto-iea-rechnet-mit-weiter-starkem-wachstum](https://www.spiegel.de/auto/elektroauto-iea-rechnet-mit-weiter-starkem-wachstum-a-59fabf46-4493-442d-acf4-1b32460f84ae#ref=rss)
+* [https://www.spiegel.de/auto/kfz-versicherung-verivox-misst-teuerung-um-50-prozent-binnen-drei-jahren](https://www.spiegel.de/auto/kfz-versicherung-verivox-misst-teuerung-um-50-prozent-binnen-drei-jahren-a-4f27804a-df26-4287-8bc0-7568303d9ed8#ref=rss)
+* [https://www.spiegel.de/start/ausbildung-azubis-haben-nicht-mehr-so-oft-die-wahl-zwischen-mehreren-angeboten](https://www.spiegel.de/start/ausbildung-azubis-haben-nicht-mehr-so-oft-die-wahl-zwischen-mehreren-angeboten-a-93536931-fee6-4e49-b5dc-0e8292462e54#ref=rss)
+* [https://www.spiegel.de/start/startklar-newsletter-ist-es-okay-die-berufsplaene-zu-aendern-newsletter](https://www.spiegel.de/start/startklar-newsletter-ist-es-okay-die-berufsplaene-zu-aendern-newsletter-a-4b54050d-6f71-4767-8d11-f4c82fff9f38#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/nato-johann-wadephul-befuerwortet-fuenf-prozent-vorgabe-von-donald-trump-fuer-militaerausgaben](https://www.spiegel.de/politik/deutschland/nato-johann-wadephul-befuerwortet-fuenf-prozent-vorgabe-von-donald-trump-fuer-militaerausgaben-a-46a3f7ab-5206-4d0f-a8c9-2a4f8bd8aa8b#ref=rss)
 ### laut
 
-* [https://www.spiegel.de/auto/elektroauto-iea-rechnet-mit-weiter-starkem-wachstum](https://www.spiegel.de/auto/elektroauto-iea-rechnet-mit-weiter-starkem-wachstum-a-59fabf46-4493-442d-acf4-1b32460f84ae#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-israelische-soldaten-warnen-offenbar-vor-hungerkatastrophe](https://www.spiegel.de/ausland/gaza-israelische-soldaten-warnen-offenbar-vor-hungerkatastrophe-a-e88253a0-5b9e-42a3-8ed5-9a839c145a62#ref=rss)
-### algerien
+* [https://www.spiegel.de/start/ausbildung-azubis-haben-nicht-mehr-so-oft-die-wahl-zwischen-mehreren-angeboten](https://www.spiegel.de/start/ausbildung-azubis-haben-nicht-mehr-so-oft-die-wahl-zwischen-mehreren-angeboten-a-93536931-fee6-4e49-b5dc-0e8292462e54#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/tiktok-verstoesst-laut-eu-kommission-gegen-eu-recht](https://www.spiegel.de/netzwelt/netzpolitik/tiktok-verstoesst-laut-eu-kommission-gegen-eu-recht-a-ef66347e-e248-4e07-8ce5-4709fd42b00b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/agrarsubventionen-verbraucher-erwarten-laut-umfrage-tierwohl-und-nachhaltigkeit](https://www.spiegel.de/wirtschaft/service/agrarsubventionen-verbraucher-erwarten-laut-umfrage-tierwohl-und-nachhaltigkeit-a-76598b18-eb0b-4fce-b691-3205a1e64468#ref=rss)
+### ganz
 
-* [https://www.spiegel.de/ausland/algerien-und-frankreich-paris-will-erneut-diplomatische-vertreter-ausweisen](https://www.spiegel.de/ausland/algerien-und-frankreich-paris-will-erneut-diplomatische-vertreter-ausweisen-a-8afac05f-7bda-42cb-8856-f48e669b4ca4#ref=rss)
-### frankreich
+* [https://www.spiegel.de/politik/deutschland/nato-gipfel-mark-rutte-will-donald-trump-mit-lastenteilung-milde-stimmen](https://www.spiegel.de/politik/deutschland/nato-gipfel-mark-rutte-will-donald-trump-mit-lastenteilung-milde-stimmen-a-b3915234-c2c4-477c-8a80-4b4cb427e43f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-offen-fuer-zusammenarbeit-mit-linken-und-gruenen-bei-reform-der-schuldenbremse](https://www.spiegel.de/politik/deutschland/lars-klingbeil-offen-fuer-zusammenarbeit-mit-linken-und-gruenen-bei-reform-der-schuldenbremse-a-da7e4c42-6244-40fd-9113-9ebfa4e048b6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/grundsteuer-so-koennte-sie-noch-sinken](https://www.spiegel.de/wirtschaft/grundsteuer-so-koennte-sie-noch-sinken-a-0ebec2af-b01f-4358-bc21-479a75ba400a#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/verkehr-sektor-reisst-klimaziel-2024-deutlich](https://www.spiegel.de/wissenschaft/natur/verkehr-sektor-reisst-klimaziel-2024-deutlich-a-319102f2-1f10-4188-82cd-ee1ba683649e#ref=rss)
+### ben
 
-* [https://www.spiegel.de/ausland/algerien-und-frankreich-paris-will-erneut-diplomatische-vertreter-ausweisen](https://www.spiegel.de/ausland/algerien-und-frankreich-paris-will-erneut-diplomatische-vertreter-ausweisen-a-8afac05f-7bda-42cb-8856-f48e669b4ca4#ref=rss)
-### monaten
+* [https://www.spiegel.de/ausland/ben-jerrys-ben-cohen-nach-gaza-protest-im-kapitol-festgenommen](https://www.spiegel.de/ausland/ben-jerrys-ben-cohen-nach-gaza-protest-im-kapitol-festgenommen-a-2c90a4c4-260f-48d3-a608-e6779441393b#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/ausland/algerien-und-frankreich-paris-will-erneut-diplomatische-vertreter-ausweisen](https://www.spiegel.de/ausland/algerien-und-frankreich-paris-will-erneut-diplomatische-vertreter-ausweisen-a-8afac05f-7bda-42cb-8856-f48e669b4ca4#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-israelische-soldaten-warnen-offenbar-vor-hungerkatastrophe](https://www.spiegel.de/ausland/gaza-israelische-soldaten-warnen-offenbar-vor-hungerkatastrophe-a-e88253a0-5b9e-42a3-8ed5-9a839c145a62#ref=rss)
-### eu
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-frauen-jose-barcala-wird-neuer-trainer-beim-fc-bayern](https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-frauen-jose-barcala-wird-neuer-trainer-beim-fc-bayern-a-806379a3-0de1-4ef4-89cc-973944e938f6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/agrarsubventionen-verbraucher-erwarten-laut-umfrage-tierwohl-und-nachhaltigkeit](https://www.spiegel.de/wirtschaft/service/agrarsubventionen-verbraucher-erwarten-laut-umfrage-tierwohl-und-nachhaltigkeit-a-76598b18-eb0b-4fce-b691-3205a1e64468#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/arbeitszeit-die-viertagewoche-ist-ein-popanz](https://www.spiegel.de/wirtschaft/soziales/arbeitszeit-die-viertagewoche-ist-ein-popanz-a-e52b990c-63e3-4a41-aa39-a0dd034cdf07#ref=rss)
+### trump
 
-* [https://www.spiegel.de/ausland/russland-sanktionen-eu-zielt-auf-200-schiffe-der-russischen-schattenflotte](https://www.spiegel.de/ausland/russland-sanktionen-eu-zielt-auf-200-schiffe-der-russischen-schattenflotte-a-79f89cd3-5e55-43bb-99d4-32d782b3db78#ref=rss)
-### 200
+* [https://www.spiegel.de/politik/deutschland/nato-gipfel-mark-rutte-will-donald-trump-mit-lastenteilung-milde-stimmen](https://www.spiegel.de/politik/deutschland/nato-gipfel-mark-rutte-will-donald-trump-mit-lastenteilung-milde-stimmen-a-b3915234-c2c4-477c-8a80-4b4cb427e43f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/nato-johann-wadephul-befuerwortet-fuenf-prozent-vorgabe-von-donald-trump-fuer-militaerausgaben](https://www.spiegel.de/politik/deutschland/nato-johann-wadephul-befuerwortet-fuenf-prozent-vorgabe-von-donald-trump-fuer-militaerausgaben-a-46a3f7ab-5206-4d0f-a8c9-2a4f8bd8aa8b#ref=rss)
+### wadephul
 
-* [https://www.spiegel.de/ausland/russland-sanktionen-eu-zielt-auf-200-schiffe-der-russischen-schattenflotte](https://www.spiegel.de/ausland/russland-sanktionen-eu-zielt-auf-200-schiffe-der-russischen-schattenflotte-a-79f89cd3-5e55-43bb-99d4-32d782b3db78#ref=rss)
-### schiffe
+* [https://www.spiegel.de/politik/deutschland/nato-gipfel-mark-rutte-will-donald-trump-mit-lastenteilung-milde-stimmen](https://www.spiegel.de/politik/deutschland/nato-gipfel-mark-rutte-will-donald-trump-mit-lastenteilung-milde-stimmen-a-b3915234-c2c4-477c-8a80-4b4cb427e43f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/nato-johann-wadephul-befuerwortet-fuenf-prozent-vorgabe-von-donald-trump-fuer-militaerausgaben](https://www.spiegel.de/politik/deutschland/nato-johann-wadephul-befuerwortet-fuenf-prozent-vorgabe-von-donald-trump-fuer-militaerausgaben-a-46a3f7ab-5206-4d0f-a8c9-2a4f8bd8aa8b#ref=rss)
+### zeit
 
-* [https://www.spiegel.de/ausland/russland-sanktionen-eu-zielt-auf-200-schiffe-der-russischen-schattenflotte](https://www.spiegel.de/ausland/russland-sanktionen-eu-zielt-auf-200-schiffe-der-russischen-schattenflotte-a-79f89cd3-5e55-43bb-99d4-32d782b3db78#ref=rss)
-### schattenflotte
+* [https://www.spiegel.de/politik/deutschland/margot-friedlaender-zahlreiche-trauergaeste-nehmen-abschied-bei-beerdigung](https://www.spiegel.de/politik/deutschland/margot-friedlaender-zahlreiche-trauergaeste-nehmen-abschied-bei-beerdigung-a-04565c5c-9961-4eae-a98f-c72baf35fb48#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/jonathan-goldstein-heavyweight-der-unoekonomischste-podcast-aller-zeiten-ist-zurueck](https://www.spiegel.de/kultur/literatur/jonathan-goldstein-heavyweight-der-unoekonomischste-podcast-aller-zeiten-ist-zurueck-a-04da7f2c-cbee-44dd-b711-7122c7a0e641#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-tritt-bei-afd-verbotsverfahren-auf-die-bremse](https://www.spiegel.de/politik/deutschland/friedrich-merz-tritt-bei-afd-verbotsverfahren-auf-die-bremse-a-f98c4d0e-6064-4e35-b970-049168f1145e#ref=rss)
+### merz
 
-* [https://www.spiegel.de/ausland/russland-sanktionen-eu-zielt-auf-200-schiffe-der-russischen-schattenflotte](https://www.spiegel.de/ausland/russland-sanktionen-eu-zielt-auf-200-schiffe-der-russischen-schattenflotte-a-79f89cd3-5e55-43bb-99d4-32d782b3db78#ref=rss)
-### unter
+* [https://www.spiegel.de/wirtschaft/soziales/arbeitszeit-die-viertagewoche-ist-ein-popanz](https://www.spiegel.de/wirtschaft/soziales/arbeitszeit-die-viertagewoche-ist-ein-popanz-a-e52b990c-63e3-4a41-aa39-a0dd034cdf07#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-tritt-bei-afd-verbotsverfahren-auf-die-bremse](https://www.spiegel.de/politik/deutschland/friedrich-merz-tritt-bei-afd-verbotsverfahren-auf-die-bremse-a-f98c4d0e-6064-4e35-b970-049168f1145e#ref=rss)
+### australien
 
-* [https://www.spiegel.de/ausland/russland-sanktionen-eu-zielt-auf-200-schiffe-der-russischen-schattenflotte](https://www.spiegel.de/ausland/russland-sanktionen-eu-zielt-auf-200-schiffe-der-russischen-schattenflotte-a-79f89cd3-5e55-43bb-99d4-32d782b3db78#ref=rss)
-* [https://www.spiegel.de/kultur/musik/the-weeknd-will-nicht-mehr-the-weeknd-heissen](https://www.spiegel.de/kultur/musik/the-weeknd-will-nicht-mehr-the-weeknd-heissen-a-0d67ee99-b4dc-4dcb-b04c-52bd12f43ea2#ref=rss)
-### wochenende
+* [https://www.spiegel.de/wissenschaft/natur/australien-giftige-alge-loest-massensterben-von-haien-rochen-und-fischen-aus](https://www.spiegel.de/wissenschaft/natur/australien-giftige-alge-loest-massensterben-von-haien-rochen-und-fischen-aus-a-6500cc9d-3e78-4424-a719-ca5720631a33#ref=rss)
+* [https://www.spiegel.de/panorama/australien-hai-greift-schwimmer-an-und-verletzt-ihn-schwer](https://www.spiegel.de/panorama/australien-hai-greift-schwimmer-an-und-verletzt-ihn-schwer-a-1f1c6825-02fb-415a-84a5-e4829c4b6c71#ref=rss)
+### giftige
 
-* [https://www.spiegel.de/ausland/russland-sanktionen-eu-zielt-auf-200-schiffe-der-russischen-schattenflotte](https://www.spiegel.de/ausland/russland-sanktionen-eu-zielt-auf-200-schiffe-der-russischen-schattenflotte-a-79f89cd3-5e55-43bb-99d4-32d782b3db78#ref=rss)
-* [https://www.spiegel.de/kultur/musik/the-weeknd-will-nicht-mehr-the-weeknd-heissen](https://www.spiegel.de/kultur/musik/the-weeknd-will-nicht-mehr-the-weeknd-heissen-a-0d67ee99-b4dc-4dcb-b04c-52bd12f43ea2#ref=rss)
-### badenwürttemberg
+* [https://www.spiegel.de/wissenschaft/natur/australien-giftige-alge-loest-massensterben-von-haien-rochen-und-fischen-aus](https://www.spiegel.de/wissenschaft/natur/australien-giftige-alge-loest-massensterben-von-haien-rochen-und-fischen-aus-a-6500cc9d-3e78-4424-a719-ca5720631a33#ref=rss)
+### alge
 
-* [https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-ermittlungen-gegen-18-maenner-wegen-missbrauchsdarstellungen-von-kindern](https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-ermittlungen-gegen-18-maenner-wegen-missbrauchsdarstellungen-von-kindern-a-f2a5c947-cfc5-4eec-a191-85be0dc65b0c#ref=rss)
-### 18
+* [https://www.spiegel.de/wissenschaft/natur/australien-giftige-alge-loest-massensterben-von-haien-rochen-und-fischen-aus](https://www.spiegel.de/wissenschaft/natur/australien-giftige-alge-loest-massensterben-von-haien-rochen-und-fischen-aus-a-6500cc9d-3e78-4424-a719-ca5720631a33#ref=rss)
+### greift
 
-* [https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-ermittlungen-gegen-18-maenner-wegen-missbrauchsdarstellungen-von-kindern](https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-ermittlungen-gegen-18-maenner-wegen-missbrauchsdarstellungen-von-kindern-a-f2a5c947-cfc5-4eec-a191-85be0dc65b0c#ref=rss)
-### männer
+* [https://www.spiegel.de/wissenschaft/natur/australien-giftige-alge-loest-massensterben-von-haien-rochen-und-fischen-aus](https://www.spiegel.de/wissenschaft/natur/australien-giftige-alge-loest-massensterben-von-haien-rochen-und-fischen-aus-a-6500cc9d-3e78-4424-a719-ca5720631a33#ref=rss)
+* [https://www.spiegel.de/panorama/australien-hai-greift-schwimmer-an-und-verletzt-ihn-schwer](https://www.spiegel.de/panorama/australien-hai-greift-schwimmer-an-und-verletzt-ihn-schwer-a-1f1c6825-02fb-415a-84a5-e4829c4b6c71#ref=rss)
+### experte
 
-* [https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-ermittlungen-gegen-18-maenner-wegen-missbrauchsdarstellungen-von-kindern](https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-ermittlungen-gegen-18-maenner-wegen-missbrauchsdarstellungen-von-kindern-a-f2a5c947-cfc5-4eec-a191-85be0dc65b0c#ref=rss)
-### missbrauchsdarstellungen
+* [https://www.spiegel.de/wissenschaft/natur/australien-giftige-alge-loest-massensterben-von-haien-rochen-und-fischen-aus](https://www.spiegel.de/wissenschaft/natur/australien-giftige-alge-loest-massensterben-von-haien-rochen-und-fischen-aus-a-6500cc9d-3e78-4424-a719-ca5720631a33#ref=rss)
+* [https://www.spiegel.de/auto/kfz-versicherung-verivox-misst-teuerung-um-50-prozent-binnen-drei-jahren](https://www.spiegel.de/auto/kfz-versicherung-verivox-misst-teuerung-um-50-prozent-binnen-drei-jahren-a-4f27804a-df26-4287-8bc0-7568303d9ed8#ref=rss)
+### gerade
 
-* [https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-ermittlungen-gegen-18-maenner-wegen-missbrauchsdarstellungen-von-kindern](https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-ermittlungen-gegen-18-maenner-wegen-missbrauchsdarstellungen-von-kindern-a-f2a5c947-cfc5-4eec-a191-85be0dc65b0c#ref=rss)
-### eishockeywm
+* [https://www.spiegel.de/panorama/justiz/mexiko-beauty-influencerin-waehrend-livestream-erschossen](https://www.spiegel.de/panorama/justiz/mexiko-beauty-influencerin-waehrend-livestream-erschossen-a-9cf66635-b334-48cc-bb6a-7a8a22335e40#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/jonathan-goldstein-heavyweight-der-unoekonomischste-podcast-aller-zeiten-ist-zurueck](https://www.spiegel.de/kultur/literatur/jonathan-goldstein-heavyweight-der-unoekonomischste-podcast-aller-zeiten-ist-zurueck-a-04da7f2c-cbee-44dd-b711-7122c7a0e641#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/sport/wintersport/eishockey-wm-deutschland-muss-ohne-nhl-star-reichel-auskommen](https://www.spiegel.de/sport/wintersport/eishockey-wm-deutschland-muss-ohne-nhl-star-reichel-auskommen-a-afbf3049-b4b6-41f6-8122-20d74e8bd501#ref=rss)
-### lukas
+* [https://www.spiegel.de/auto/kfz-versicherung-verivox-misst-teuerung-um-50-prozent-binnen-drei-jahren](https://www.spiegel.de/auto/kfz-versicherung-verivox-misst-teuerung-um-50-prozent-binnen-drei-jahren-a-4f27804a-df26-4287-8bc0-7568303d9ed8#ref=rss)
+* [https://www.spiegel.de/start/ausbildung-azubis-haben-nicht-mehr-so-oft-die-wahl-zwischen-mehreren-angeboten](https://www.spiegel.de/start/ausbildung-azubis-haben-nicht-mehr-so-oft-die-wahl-zwischen-mehreren-angeboten-a-93536931-fee6-4e49-b5dc-0e8292462e54#ref=rss)
+### ausbildung
 
-* [https://www.spiegel.de/sport/wintersport/eishockey-wm-deutschland-muss-ohne-nhl-star-reichel-auskommen](https://www.spiegel.de/sport/wintersport/eishockey-wm-deutschland-muss-ohne-nhl-star-reichel-auskommen-a-afbf3049-b4b6-41f6-8122-20d74e8bd501#ref=rss)
-### reichel
+* [https://www.spiegel.de/start/ausbildung-azubis-haben-nicht-mehr-so-oft-die-wahl-zwischen-mehreren-angeboten](https://www.spiegel.de/start/ausbildung-azubis-haben-nicht-mehr-so-oft-die-wahl-zwischen-mehreren-angeboten-a-93536931-fee6-4e49-b5dc-0e8292462e54#ref=rss)
+### azubis
 
-* [https://www.spiegel.de/sport/wintersport/eishockey-wm-deutschland-muss-ohne-nhl-star-reichel-auskommen](https://www.spiegel.de/sport/wintersport/eishockey-wm-deutschland-muss-ohne-nhl-star-reichel-auskommen-a-afbf3049-b4b6-41f6-8122-20d74e8bd501#ref=rss)
-### polen
+* [https://www.spiegel.de/start/ausbildung-azubis-haben-nicht-mehr-so-oft-die-wahl-zwischen-mehreren-angeboten](https://www.spiegel.de/start/ausbildung-azubis-haben-nicht-mehr-so-oft-die-wahl-zwischen-mehreren-angeboten-a-93536931-fee6-4e49-b5dc-0e8292462e54#ref=rss)
+### oft
 
-* [https://www.spiegel.de/panorama/migration-polen-verweigert-uebernahme-von-asylbewerbern-an-der-deutschen-grenze](https://www.spiegel.de/panorama/migration-polen-verweigert-uebernahme-von-asylbewerbern-an-der-deutschen-grenze-a-caba5628-1c70-4bd5-9118-435d65aa3fe7#ref=rss)
-### regierung
+* [https://www.spiegel.de/start/ausbildung-azubis-haben-nicht-mehr-so-oft-die-wahl-zwischen-mehreren-angeboten](https://www.spiegel.de/start/ausbildung-azubis-haben-nicht-mehr-so-oft-die-wahl-zwischen-mehreren-angeboten-a-93536931-fee6-4e49-b5dc-0e8292462e54#ref=rss)
+### mehreren
 
-* [https://www.spiegel.de/panorama/migration-polen-verweigert-uebernahme-von-asylbewerbern-an-der-deutschen-grenze](https://www.spiegel.de/panorama/migration-polen-verweigert-uebernahme-von-asylbewerbern-an-der-deutschen-grenze-a-caba5628-1c70-4bd5-9118-435d65aa3fe7#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-israelische-soldaten-warnen-offenbar-vor-hungerkatastrophe](https://www.spiegel.de/ausland/gaza-israelische-soldaten-warnen-offenbar-vor-hungerkatastrophe-a-e88253a0-5b9e-42a3-8ed5-9a839c145a62#ref=rss)
-### sofort
+* [https://www.spiegel.de/start/ausbildung-azubis-haben-nicht-mehr-so-oft-die-wahl-zwischen-mehreren-angeboten](https://www.spiegel.de/start/ausbildung-azubis-haben-nicht-mehr-so-oft-die-wahl-zwischen-mehreren-angeboten-a-93536931-fee6-4e49-b5dc-0e8292462e54#ref=rss)
+### angeboten
 
-* [https://www.spiegel.de/panorama/migration-polen-verweigert-uebernahme-von-asylbewerbern-an-der-deutschen-grenze](https://www.spiegel.de/panorama/migration-polen-verweigert-uebernahme-von-asylbewerbern-an-der-deutschen-grenze-a-caba5628-1c70-4bd5-9118-435d65aa3fe7#ref=rss)
-* [https://www.spiegel.de/geschichte/filmfestspiele-von-cannes-historische-dresscode-verstoesse-und-tabu-auftritte](https://www.spiegel.de/geschichte/filmfestspiele-von-cannes-historische-dresscode-verstoesse-und-tabu-auftritte-a-ac6c1e3f-f227-4b17-be5b-a0d619e4ed34#ref=rss)
-### blockiert
+* [https://www.spiegel.de/start/ausbildung-azubis-haben-nicht-mehr-so-oft-die-wahl-zwischen-mehreren-angeboten](https://www.spiegel.de/start/ausbildung-azubis-haben-nicht-mehr-so-oft-die-wahl-zwischen-mehreren-angeboten-a-93536931-fee6-4e49-b5dc-0e8292462e54#ref=rss)
+### ändert
 
-* [https://www.spiegel.de/panorama/migration-polen-verweigert-uebernahme-von-asylbewerbern-an-der-deutschen-grenze](https://www.spiegel.de/panorama/migration-polen-verweigert-uebernahme-von-asylbewerbern-an-der-deutschen-grenze-a-caba5628-1c70-4bd5-9118-435d65aa3fe7#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-israelische-soldaten-warnen-offenbar-vor-hungerkatastrophe](https://www.spiegel.de/ausland/gaza-israelische-soldaten-warnen-offenbar-vor-hungerkatastrophe-a-e88253a0-5b9e-42a3-8ed5-9a839c145a62#ref=rss)
-### gaza
+* [https://www.spiegel.de/start/ausbildung-azubis-haben-nicht-mehr-so-oft-die-wahl-zwischen-mehreren-angeboten](https://www.spiegel.de/start/ausbildung-azubis-haben-nicht-mehr-so-oft-die-wahl-zwischen-mehreren-angeboten-a-93536931-fee6-4e49-b5dc-0e8292462e54#ref=rss)
+* [https://www.spiegel.de/start/startklar-newsletter-ist-es-okay-die-berufsplaene-zu-aendern-newsletter](https://www.spiegel.de/start/startklar-newsletter-ist-es-okay-die-berufsplaene-zu-aendern-newsletter-a-4b54050d-6f71-4767-8d11-f4c82fff9f38#ref=rss)
+### tiktok
 
-* [https://www.spiegel.de/ausland/gaza-israelische-soldaten-warnen-offenbar-vor-hungerkatastrophe](https://www.spiegel.de/ausland/gaza-israelische-soldaten-warnen-offenbar-vor-hungerkatastrophe-a-e88253a0-5b9e-42a3-8ed5-9a839c145a62#ref=rss)
-### soldaten
+* [https://www.spiegel.de/netzwelt/netzpolitik/tiktok-verstoesst-laut-eu-kommission-gegen-eu-recht](https://www.spiegel.de/netzwelt/netzpolitik/tiktok-verstoesst-laut-eu-kommission-gegen-eu-recht-a-ef66347e-e248-4e07-8ce5-4709fd42b00b#ref=rss)
+### eukommission
 
-* [https://www.spiegel.de/ausland/gaza-israelische-soldaten-warnen-offenbar-vor-hungerkatastrophe](https://www.spiegel.de/ausland/gaza-israelische-soldaten-warnen-offenbar-vor-hungerkatastrophe-a-e88253a0-5b9e-42a3-8ed5-9a839c145a62#ref=rss)
-### warnen
+* [https://www.spiegel.de/netzwelt/netzpolitik/tiktok-verstoesst-laut-eu-kommission-gegen-eu-recht](https://www.spiegel.de/netzwelt/netzpolitik/tiktok-verstoesst-laut-eu-kommission-gegen-eu-recht-a-ef66347e-e248-4e07-8ce5-4709fd42b00b#ref=rss)
+### werbung
 
-* [https://www.spiegel.de/ausland/gaza-israelische-soldaten-warnen-offenbar-vor-hungerkatastrophe](https://www.spiegel.de/ausland/gaza-israelische-soldaten-warnen-offenbar-vor-hungerkatastrophe-a-e88253a0-5b9e-42a3-8ed5-9a839c145a62#ref=rss)
-### cannes
+* [https://www.spiegel.de/netzwelt/netzpolitik/tiktok-verstoesst-laut-eu-kommission-gegen-eu-recht](https://www.spiegel.de/netzwelt/netzpolitik/tiktok-verstoesst-laut-eu-kommission-gegen-eu-recht-a-ef66347e-e248-4e07-8ce5-4709fd42b00b#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/netflix-will-werbung-auch-im-pausenmodus-einblenden](https://www.spiegel.de/netzwelt/apps/netflix-will-werbung-auch-im-pausenmodus-einblenden-a-e50966d7-42aa-4ab3-bae4-348a0689c0a1#ref=rss)
+### wirtschaft
 
-* [https://www.spiegel.de/geschichte/filmfestspiele-von-cannes-historische-dresscode-verstoesse-und-tabu-auftritte](https://www.spiegel.de/geschichte/filmfestspiele-von-cannes-historische-dresscode-verstoesse-und-tabu-auftritte-a-ac6c1e3f-f227-4b17-be5b-a0d619e4ed34#ref=rss)
+* [https://www.spiegel.de/wirtschaft/schwacher-aufschwung-wirtschaft-in-eurozone-tut-sich-schwerer-als-erwartet](https://www.spiegel.de/wirtschaft/schwacher-aufschwung-wirtschaft-in-eurozone-tut-sich-schwerer-als-erwartet-a-7c955edd-81ca-485e-b9f1-4e16f0400ac6#ref=rss)
+### eurozone
+
+* [https://www.spiegel.de/wirtschaft/schwacher-aufschwung-wirtschaft-in-eurozone-tut-sich-schwerer-als-erwartet](https://www.spiegel.de/wirtschaft/schwacher-aufschwung-wirtschaft-in-eurozone-tut-sich-schwerer-als-erwartet-a-7c955edd-81ca-485e-b9f1-4e16f0400ac6#ref=rss)
+### erwartet
+
+* [https://www.spiegel.de/wirtschaft/schwacher-aufschwung-wirtschaft-in-eurozone-tut-sich-schwerer-als-erwartet](https://www.spiegel.de/wirtschaft/schwacher-aufschwung-wirtschaft-in-eurozone-tut-sich-schwerer-als-erwartet-a-7c955edd-81ca-485e-b9f1-4e16f0400ac6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/agrarsubventionen-verbraucher-erwarten-laut-umfrage-tierwohl-und-nachhaltigkeit](https://www.spiegel.de/wirtschaft/service/agrarsubventionen-verbraucher-erwarten-laut-umfrage-tierwohl-und-nachhaltigkeit-a-76598b18-eb0b-4fce-b691-3205a1e64468#ref=rss)
+### josé
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-frauen-jose-barcala-wird-neuer-trainer-beim-fc-bayern](https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-frauen-jose-barcala-wird-neuer-trainer-beim-fc-bayern-a-806379a3-0de1-4ef4-89cc-973944e938f6#ref=rss)
+### barcala
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-frauen-jose-barcala-wird-neuer-trainer-beim-fc-bayern](https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-frauen-jose-barcala-wird-neuer-trainer-beim-fc-bayern-a-806379a3-0de1-4ef4-89cc-973944e938f6#ref=rss)
+### neuer
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-frauen-jose-barcala-wird-neuer-trainer-beim-fc-bayern](https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-frauen-jose-barcala-wird-neuer-trainer-beim-fc-bayern-a-806379a3-0de1-4ef4-89cc-973944e938f6#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/verkehr-sektor-reisst-klimaziel-2024-deutlich](https://www.spiegel.de/wissenschaft/natur/verkehr-sektor-reisst-klimaziel-2024-deutlich-a-319102f2-1f10-4188-82cd-ee1ba683649e#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-frauen-jose-barcala-wird-neuer-trainer-beim-fc-bayern](https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-frauen-jose-barcala-wird-neuer-trainer-beim-fc-bayern-a-806379a3-0de1-4ef4-89cc-973944e938f6#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-frauen-jose-barcala-wird-neuer-trainer-beim-fc-bayern](https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-frauen-jose-barcala-wird-neuer-trainer-beim-fc-bayern-a-806379a3-0de1-4ef4-89cc-973944e938f6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/grundsteuer-so-koennte-sie-noch-sinken](https://www.spiegel.de/wirtschaft/grundsteuer-so-koennte-sie-noch-sinken-a-0ebec2af-b01f-4358-bc21-479a75ba400a#ref=rss)
+### künftig
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-frauen-jose-barcala-wird-neuer-trainer-beim-fc-bayern](https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-frauen-jose-barcala-wird-neuer-trainer-beim-fc-bayern-a-806379a3-0de1-4ef4-89cc-973944e938f6#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/netflix-will-werbung-auch-im-pausenmodus-einblenden](https://www.spiegel.de/netzwelt/apps/netflix-will-werbung-auch-im-pausenmodus-einblenden-a-e50966d7-42aa-4ab3-bae4-348a0689c0a1#ref=rss)
+### hinter
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-frauen-jose-barcala-wird-neuer-trainer-beim-fc-bayern](https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-frauen-jose-barcala-wird-neuer-trainer-beim-fc-bayern-a-806379a3-0de1-4ef4-89cc-973944e938f6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/nato-johann-wadephul-befuerwortet-fuenf-prozent-vorgabe-von-donald-trump-fuer-militaerausgaben](https://www.spiegel.de/politik/deutschland/nato-johann-wadephul-befuerwortet-fuenf-prozent-vorgabe-von-donald-trump-fuer-militaerausgaben-a-46a3f7ab-5206-4d0f-a8c9-2a4f8bd8aa8b#ref=rss)
+### billie
+
+* [https://www.spiegel.de/panorama/leute/billie-eilish-popstar-kritisiert-gefaelschte-met-gala-bilder](https://www.spiegel.de/panorama/leute/billie-eilish-popstar-kritisiert-gefaelschte-met-gala-bilder-a-5fbbaa46-a250-485b-96e6-ca385fa822a3#ref=rss)
+### eilish
+
+* [https://www.spiegel.de/panorama/leute/billie-eilish-popstar-kritisiert-gefaelschte-met-gala-bilder](https://www.spiegel.de/panorama/leute/billie-eilish-popstar-kritisiert-gefaelschte-met-gala-bilder-a-5fbbaa46-a250-485b-96e6-ca385fa822a3#ref=rss)
+### popstar
+
+* [https://www.spiegel.de/panorama/leute/billie-eilish-popstar-kritisiert-gefaelschte-met-gala-bilder](https://www.spiegel.de/panorama/leute/billie-eilish-popstar-kritisiert-gefaelschte-met-gala-bilder-a-5fbbaa46-a250-485b-96e6-ca385fa822a3#ref=rss)
+### rutte
+
+* [https://www.spiegel.de/politik/deutschland/nato-gipfel-mark-rutte-will-donald-trump-mit-lastenteilung-milde-stimmen](https://www.spiegel.de/politik/deutschland/nato-gipfel-mark-rutte-will-donald-trump-mit-lastenteilung-milde-stimmen-a-b3915234-c2c4-477c-8a80-4b4cb427e43f#ref=rss)
+### donald
+
+* [https://www.spiegel.de/politik/deutschland/nato-gipfel-mark-rutte-will-donald-trump-mit-lastenteilung-milde-stimmen](https://www.spiegel.de/politik/deutschland/nato-gipfel-mark-rutte-will-donald-trump-mit-lastenteilung-milde-stimmen-a-b3915234-c2c4-477c-8a80-4b4cb427e43f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/nato-johann-wadephul-befuerwortet-fuenf-prozent-vorgabe-von-donald-trump-fuer-militaerausgaben](https://www.spiegel.de/politik/deutschland/nato-johann-wadephul-befuerwortet-fuenf-prozent-vorgabe-von-donald-trump-fuer-militaerausgaben-a-46a3f7ab-5206-4d0f-a8c9-2a4f8bd8aa8b#ref=rss)
+### ändern
+
+* [https://www.spiegel.de/start/startklar-newsletter-ist-es-okay-die-berufsplaene-zu-aendern-newsletter](https://www.spiegel.de/start/startklar-newsletter-ist-es-okay-die-berufsplaene-zu-aendern-newsletter-a-4b54050d-6f71-4767-8d11-f4c82fff9f38#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/arbeitszeit-die-viertagewoche-ist-ein-popanz](https://www.spiegel.de/wirtschaft/soziales/arbeitszeit-die-viertagewoche-ist-ein-popanz-a-e52b990c-63e3-4a41-aa39-a0dd034cdf07#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/start/startklar-newsletter-ist-es-okay-die-berufsplaene-zu-aendern-newsletter](https://www.spiegel.de/start/startklar-newsletter-ist-es-okay-die-berufsplaene-zu-aendern-newsletter-a-4b54050d-6f71-4767-8d11-f4c82fff9f38#ref=rss)
+* [https://www.spiegel.de/ausland/ben-jerrys-ben-cohen-nach-gaza-protest-im-kapitol-festgenommen](https://www.spiegel.de/ausland/ben-jerrys-ben-cohen-nach-gaza-protest-im-kapitol-festgenommen-a-2c90a4c4-260f-48d3-a608-e6779441393b#ref=rss)
+### woche
+
+* [https://www.spiegel.de/start/startklar-newsletter-ist-es-okay-die-berufsplaene-zu-aendern-newsletter](https://www.spiegel.de/start/startklar-newsletter-ist-es-okay-die-berufsplaene-zu-aendern-newsletter-a-4b54050d-6f71-4767-8d11-f4c82fff9f38#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/margot-friedlaender-zahlreiche-trauergaeste-nehmen-abschied-bei-beerdigung](https://www.spiegel.de/politik/deutschland/margot-friedlaender-zahlreiche-trauergaeste-nehmen-abschied-bei-beerdigung-a-04565c5c-9961-4eae-a98f-c72baf35fb48#ref=rss)
+### margot
+
+* [https://www.spiegel.de/politik/deutschland/margot-friedlaender-zahlreiche-trauergaeste-nehmen-abschied-bei-beerdigung](https://www.spiegel.de/politik/deutschland/margot-friedlaender-zahlreiche-trauergaeste-nehmen-abschied-bei-beerdigung-a-04565c5c-9961-4eae-a98f-c72baf35fb48#ref=rss)
+### friedländer
+
+* [https://www.spiegel.de/politik/deutschland/margot-friedlaender-zahlreiche-trauergaeste-nehmen-abschied-bei-beerdigung](https://www.spiegel.de/politik/deutschland/margot-friedlaender-zahlreiche-trauergaeste-nehmen-abschied-bei-beerdigung-a-04565c5c-9961-4eae-a98f-c72baf35fb48#ref=rss)
+### trauergäste
+
+* [https://www.spiegel.de/politik/deutschland/margot-friedlaender-zahlreiche-trauergaeste-nehmen-abschied-bei-beerdigung](https://www.spiegel.de/politik/deutschland/margot-friedlaender-zahlreiche-trauergaeste-nehmen-abschied-bei-beerdigung-a-04565c5c-9961-4eae-a98f-c72baf35fb48#ref=rss)
+### nehmen
+
+* [https://www.spiegel.de/politik/deutschland/margot-friedlaender-zahlreiche-trauergaeste-nehmen-abschied-bei-beerdigung](https://www.spiegel.de/politik/deutschland/margot-friedlaender-zahlreiche-trauergaeste-nehmen-abschied-bei-beerdigung-a-04565c5c-9961-4eae-a98f-c72baf35fb48#ref=rss)
+### abschied
+
+* [https://www.spiegel.de/politik/deutschland/margot-friedlaender-zahlreiche-trauergaeste-nehmen-abschied-bei-beerdigung](https://www.spiegel.de/politik/deutschland/margot-friedlaender-zahlreiche-trauergaeste-nehmen-abschied-bei-beerdigung-a-04565c5c-9961-4eae-a98f-c72baf35fb48#ref=rss)
+### viele
+
+* [https://www.spiegel.de/politik/deutschland/margot-friedlaender-zahlreiche-trauergaeste-nehmen-abschied-bei-beerdigung](https://www.spiegel.de/politik/deutschland/margot-friedlaender-zahlreiche-trauergaeste-nehmen-abschied-bei-beerdigung-a-04565c5c-9961-4eae-a98f-c72baf35fb48#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-tritt-bei-afd-verbotsverfahren-auf-die-bremse](https://www.spiegel.de/politik/deutschland/friedrich-merz-tritt-bei-afd-verbotsverfahren-auf-die-bremse-a-f98c4d0e-6064-4e35-b970-049168f1145e#ref=rss)
+### christina
+
+* [https://www.spiegel.de/panorama/justiz/christina-block-scheitert-mit-verfassungsbeschwerde-in-sorgerechtsstreit](https://www.spiegel.de/panorama/justiz/christina-block-scheitert-mit-verfassungsbeschwerde-in-sorgerechtsstreit-a-c7dbadc2-5f73-4b74-b9bd-78448d2d1c35#ref=rss)
+### block
+
+* [https://www.spiegel.de/panorama/justiz/christina-block-scheitert-mit-verfassungsbeschwerde-in-sorgerechtsstreit](https://www.spiegel.de/panorama/justiz/christina-block-scheitert-mit-verfassungsbeschwerde-in-sorgerechtsstreit-a-c7dbadc2-5f73-4b74-b9bd-78448d2d1c35#ref=rss)
+### nina
+
+* [https://www.spiegel.de/politik/deutschland/nina-warken-als-gesundheitsministerin-ministerin-ahnungslos](https://www.spiegel.de/politik/deutschland/nina-warken-als-gesundheitsministerin-ministerin-ahnungslos-a-59eed36f-71d2-4710-8076-28e0a80ea4f6#ref=rss)
+### warken
+
+* [https://www.spiegel.de/politik/deutschland/nina-warken-als-gesundheitsministerin-ministerin-ahnungslos](https://www.spiegel.de/politik/deutschland/nina-warken-als-gesundheitsministerin-ministerin-ahnungslos-a-59eed36f-71d2-4710-8076-28e0a80ea4f6#ref=rss)
+### neue
+
+* [https://www.spiegel.de/politik/deutschland/nina-warken-als-gesundheitsministerin-ministerin-ahnungslos](https://www.spiegel.de/politik/deutschland/nina-warken-als-gesundheitsministerin-ministerin-ahnungslos-a-59eed36f-71d2-4710-8076-28e0a80ea4f6#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/netflix-will-werbung-auch-im-pausenmodus-einblenden](https://www.spiegel.de/netzwelt/apps/netflix-will-werbung-auch-im-pausenmodus-einblenden-a-e50966d7-42aa-4ab3-bae4-348a0689c0a1#ref=rss)
+### gilt
+
+* [https://www.spiegel.de/politik/deutschland/nina-warken-als-gesundheitsministerin-ministerin-ahnungslos](https://www.spiegel.de/politik/deutschland/nina-warken-als-gesundheitsministerin-ministerin-ahnungslos-a-59eed36f-71d2-4710-8076-28e0a80ea4f6#ref=rss)
+* [https://www.spiegel.de/panorama/australien-hai-greift-schwimmer-an-und-verletzt-ihn-schwer](https://www.spiegel.de/panorama/australien-hai-greift-schwimmer-an-und-verletzt-ihn-schwer-a-1f1c6825-02fb-415a-84a5-e4829c4b6c71#ref=rss)
+### selbst
+
+* [https://www.spiegel.de/politik/deutschland/nina-warken-als-gesundheitsministerin-ministerin-ahnungslos](https://www.spiegel.de/politik/deutschland/nina-warken-als-gesundheitsministerin-ministerin-ahnungslos-a-59eed36f-71d2-4710-8076-28e0a80ea4f6#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/lahr-im-schwarzwald-polizist-erschoss-wohl-ex-partnerin-und-sich-selbst](https://www.spiegel.de/panorama/justiz/lahr-im-schwarzwald-polizist-erschoss-wohl-ex-partnerin-und-sich-selbst-a-1571bc67-0f20-405e-8fe1-dacd3e8843f5#ref=rss)
+### darin
+
+* [https://www.spiegel.de/politik/deutschland/nina-warken-als-gesundheitsministerin-ministerin-ahnungslos](https://www.spiegel.de/politik/deutschland/nina-warken-als-gesundheitsministerin-ministerin-ahnungslos-a-59eed36f-71d2-4710-8076-28e0a80ea4f6#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/jonathan-goldstein-heavyweight-der-unoekonomischste-podcast-aller-zeiten-ist-zurueck](https://www.spiegel.de/kultur/literatur/jonathan-goldstein-heavyweight-der-unoekonomischste-podcast-aller-zeiten-ist-zurueck-a-04da7f2c-cbee-44dd-b711-7122c7a0e641#ref=rss)
+### liam
+
+* [https://www.spiegel.de/kultur/musik/liam-gallagher-oasis-saenger-wird-opa](https://www.spiegel.de/kultur/musik/liam-gallagher-oasis-saenger-wird-opa-a-a77bb84a-fc6e-4b77-adaf-efffbfcbf498#ref=rss)
+### gallagher
+
+* [https://www.spiegel.de/kultur/musik/liam-gallagher-oasis-saenger-wird-opa](https://www.spiegel.de/kultur/musik/liam-gallagher-oasis-saenger-wird-opa-a-a77bb84a-fc6e-4b77-adaf-efffbfcbf498#ref=rss)
+### jonathan
+
+* [https://www.spiegel.de/kultur/literatur/jonathan-goldstein-heavyweight-der-unoekonomischste-podcast-aller-zeiten-ist-zurueck](https://www.spiegel.de/kultur/literatur/jonathan-goldstein-heavyweight-der-unoekonomischste-podcast-aller-zeiten-ist-zurueck-a-04da7f2c-cbee-44dd-b711-7122c7a0e641#ref=rss)
+### goldstein
+
+* [https://www.spiegel.de/kultur/literatur/jonathan-goldstein-heavyweight-der-unoekonomischste-podcast-aller-zeiten-ist-zurueck](https://www.spiegel.de/kultur/literatur/jonathan-goldstein-heavyweight-der-unoekonomischste-podcast-aller-zeiten-ist-zurueck-a-04da7f2c-cbee-44dd-b711-7122c7a0e641#ref=rss)
+### heavyweight
+
+* [https://www.spiegel.de/kultur/literatur/jonathan-goldstein-heavyweight-der-unoekonomischste-podcast-aller-zeiten-ist-zurueck](https://www.spiegel.de/kultur/literatur/jonathan-goldstein-heavyweight-der-unoekonomischste-podcast-aller-zeiten-ist-zurueck-a-04da7f2c-cbee-44dd-b711-7122c7a0e641#ref=rss)
+### podcast
+
+* [https://www.spiegel.de/kultur/literatur/jonathan-goldstein-heavyweight-der-unoekonomischste-podcast-aller-zeiten-ist-zurueck](https://www.spiegel.de/kultur/literatur/jonathan-goldstein-heavyweight-der-unoekonomischste-podcast-aller-zeiten-ist-zurueck-a-04da7f2c-cbee-44dd-b711-7122c7a0e641#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/kultur/literatur/jonathan-goldstein-heavyweight-der-unoekonomischste-podcast-aller-zeiten-ist-zurueck](https://www.spiegel.de/kultur/literatur/jonathan-goldstein-heavyweight-der-unoekonomischste-podcast-aller-zeiten-ist-zurueck-a-04da7f2c-cbee-44dd-b711-7122c7a0e641#ref=rss)
+### stefan
+
+* [https://www.spiegel.de/kultur/stefan-raab-und-der-esc-2025-in-basel-die-letzten-tage-des-gurus](https://www.spiegel.de/kultur/stefan-raab-und-der-esc-2025-in-basel-die-letzten-tage-des-gurus-a-bd69a06f-fe80-46d5-877f-a1b9f895f0b0#ref=rss)
+### raab
+
+* [https://www.spiegel.de/kultur/stefan-raab-und-der-esc-2025-in-basel-die-letzten-tage-des-gurus](https://www.spiegel.de/kultur/stefan-raab-und-der-esc-2025-in-basel-die-letzten-tage-des-gurus-a-bd69a06f-fe80-46d5-877f-a1b9f895f0b0#ref=rss)
+### esc
+
+* [https://www.spiegel.de/kultur/stefan-raab-und-der-esc-2025-in-basel-die-letzten-tage-des-gurus](https://www.spiegel.de/kultur/stefan-raab-und-der-esc-2025-in-basel-die-letzten-tage-des-gurus-a-bd69a06f-fe80-46d5-877f-a1b9f895f0b0#ref=rss)
+### klingbeil
+
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-offen-fuer-zusammenarbeit-mit-linken-und-gruenen-bei-reform-der-schuldenbremse](https://www.spiegel.de/politik/deutschland/lars-klingbeil-offen-fuer-zusammenarbeit-mit-linken-und-gruenen-bei-reform-der-schuldenbremse-a-da7e4c42-6244-40fd-9113-9ebfa4e048b6#ref=rss)
+### reform
+
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-offen-fuer-zusammenarbeit-mit-linken-und-gruenen-bei-reform-der-schuldenbremse](https://www.spiegel.de/politik/deutschland/lars-klingbeil-offen-fuer-zusammenarbeit-mit-linken-und-gruenen-bei-reform-der-schuldenbremse-a-da7e4c42-6244-40fd-9113-9ebfa4e048b6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/grundsteuer-so-koennte-sie-noch-sinken](https://www.spiegel.de/wirtschaft/grundsteuer-so-koennte-sie-noch-sinken-a-0ebec2af-b01f-4358-bc21-479a75ba400a#ref=rss)
+### schuldenbremse
+
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-offen-fuer-zusammenarbeit-mit-linken-und-gruenen-bei-reform-der-schuldenbremse](https://www.spiegel.de/politik/deutschland/lars-klingbeil-offen-fuer-zusammenarbeit-mit-linken-und-gruenen-bei-reform-der-schuldenbremse-a-da7e4c42-6244-40fd-9113-9ebfa4e048b6#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/ausland/ukraine-so-sieht-es-an-der-front-aktuell-aus-interaktive-karte](https://www.spiegel.de/ausland/ukraine-so-sieht-es-an-der-front-aktuell-aus-interaktive-karte-a-29f2b57c-d228-4661-899e-c9462b4323b4#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/verkehr-sektor-reisst-klimaziel-2024-deutlich](https://www.spiegel.de/wissenschaft/natur/verkehr-sektor-reisst-klimaziel-2024-deutlich-a-319102f2-1f10-4188-82cd-ee1ba683649e#ref=rss)
+### front
+
+* [https://www.spiegel.de/ausland/ukraine-so-sieht-es-an-der-front-aktuell-aus-interaktive-karte](https://www.spiegel.de/ausland/ukraine-so-sieht-es-an-der-front-aktuell-aus-interaktive-karte-a-29f2b57c-d228-4661-899e-c9462b4323b4#ref=rss)
+### kommen
+
+* [https://www.spiegel.de/ausland/ukraine-so-sieht-es-an-der-front-aktuell-aus-interaktive-karte](https://www.spiegel.de/ausland/ukraine-so-sieht-es-an-der-front-aktuell-aus-interaktive-karte-a-29f2b57c-d228-4661-899e-c9462b4323b4#ref=rss)
+* [https://www.spiegel.de/karriere/workaholics-als-kollegen-tipps-fuer-den-umgang-mit-stressgepraegter-arbeitskultur](https://www.spiegel.de/karriere/workaholics-als-kollegen-tipps-fuer-den-umgang-mit-stressgepraegter-arbeitskultur-a-df0ace06-acc8-4d9b-8ee6-ace14e49e842#ref=rss)
+### lahr
+
+* [https://www.spiegel.de/panorama/justiz/lahr-im-schwarzwald-polizist-erschoss-wohl-ex-partnerin-und-sich-selbst](https://www.spiegel.de/panorama/justiz/lahr-im-schwarzwald-polizist-erschoss-wohl-ex-partnerin-und-sich-selbst-a-1571bc67-0f20-405e-8fe1-dacd3e8843f5#ref=rss)
+### findet
+
+* [https://www.spiegel.de/panorama/justiz/lahr-im-schwarzwald-polizist-erschoss-wohl-ex-partnerin-und-sich-selbst](https://www.spiegel.de/panorama/justiz/lahr-im-schwarzwald-polizist-erschoss-wohl-ex-partnerin-und-sich-selbst-a-1571bc67-0f20-405e-8fe1-dacd3e8843f5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/arbeitszeit-die-viertagewoche-ist-ein-popanz](https://www.spiegel.de/wirtschaft/soziales/arbeitszeit-die-viertagewoche-ist-ein-popanz-a-e52b990c-63e3-4a41-aa39-a0dd034cdf07#ref=rss)
+### workaholics
+
+* [https://www.spiegel.de/karriere/workaholics-als-kollegen-tipps-fuer-den-umgang-mit-stressgepraegter-arbeitskultur](https://www.spiegel.de/karriere/workaholics-als-kollegen-tipps-fuer-den-umgang-mit-stressgepraegter-arbeitskultur-a-df0ace06-acc8-4d9b-8ee6-ace14e49e842#ref=rss)
+### tipps
+
+* [https://www.spiegel.de/karriere/workaholics-als-kollegen-tipps-fuer-den-umgang-mit-stressgepraegter-arbeitskultur](https://www.spiegel.de/karriere/workaholics-als-kollegen-tipps-fuer-den-umgang-mit-stressgepraegter-arbeitskultur-a-df0ace06-acc8-4d9b-8ee6-ace14e49e842#ref=rss)
+### umgang
+
+* [https://www.spiegel.de/karriere/workaholics-als-kollegen-tipps-fuer-den-umgang-mit-stressgepraegter-arbeitskultur](https://www.spiegel.de/karriere/workaholics-als-kollegen-tipps-fuer-den-umgang-mit-stressgepraegter-arbeitskultur-a-df0ace06-acc8-4d9b-8ee6-ace14e49e842#ref=rss)
+### netflix
+
+* [https://www.spiegel.de/netzwelt/apps/netflix-will-werbung-auch-im-pausenmodus-einblenden](https://www.spiegel.de/netzwelt/apps/netflix-will-werbung-auch-im-pausenmodus-einblenden-a-e50966d7-42aa-4ab3-bae4-348a0689c0a1#ref=rss)
+### cohen
+
+* [https://www.spiegel.de/ausland/ben-jerrys-ben-cohen-nach-gaza-protest-im-kapitol-festgenommen](https://www.spiegel.de/ausland/ben-jerrys-ben-cohen-nach-gaza-protest-im-kapitol-festgenommen-a-2c90a4c4-260f-48d3-a608-e6779441393b#ref=rss)
+### folgen
+
+* [https://www.spiegel.de/ausland/ben-jerrys-ben-cohen-nach-gaza-protest-im-kapitol-festgenommen](https://www.spiegel.de/ausland/ben-jerrys-ben-cohen-nach-gaza-protest-im-kapitol-festgenommen-a-2c90a4c4-260f-48d3-a608-e6779441393b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/nato-johann-wadephul-befuerwortet-fuenf-prozent-vorgabe-von-donald-trump-fuer-militaerausgaben](https://www.spiegel.de/politik/deutschland/nato-johann-wadephul-befuerwortet-fuenf-prozent-vorgabe-von-donald-trump-fuer-militaerausgaben-a-46a3f7ab-5206-4d0f-a8c9-2a4f8bd8aa8b#ref=rss)
+### 2030
+
+* [https://www.spiegel.de/wissenschaft/natur/verkehr-sektor-reisst-klimaziel-2024-deutlich](https://www.spiegel.de/wissenschaft/natur/verkehr-sektor-reisst-klimaziel-2024-deutlich-a-319102f2-1f10-4188-82cd-ee1ba683649e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klimakrise-in-deutschland-sind-wir-beim-klimaschutz-ploetzlich-wieder-auf-kurs-herr-henning](https://www.spiegel.de/wissenschaft/klimakrise-in-deutschland-sind-wir-beim-klimaschutz-ploetzlich-wieder-auf-kurs-herr-henning-a-15691892-e115-47ad-a0a6-38c8d89fe1c9#ref=rss)
+### wir
+
+* [https://www.spiegel.de/wissenschaft/klimakrise-in-deutschland-sind-wir-beim-klimaschutz-ploetzlich-wieder-auf-kurs-herr-henning](https://www.spiegel.de/wissenschaft/klimakrise-in-deutschland-sind-wir-beim-klimaschutz-ploetzlich-wieder-auf-kurs-herr-henning-a-15691892-e115-47ad-a0a6-38c8d89fe1c9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/nato-johann-wadephul-befuerwortet-fuenf-prozent-vorgabe-von-donald-trump-fuer-militaerausgaben](https://www.spiegel.de/politik/deutschland/nato-johann-wadephul-befuerwortet-fuenf-prozent-vorgabe-von-donald-trump-fuer-militaerausgaben-a-46a3f7ab-5206-4d0f-a8c9-2a4f8bd8aa8b#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/wissenschaft/klimakrise-in-deutschland-sind-wir-beim-klimaschutz-ploetzlich-wieder-auf-kurs-herr-henning](https://www.spiegel.de/wissenschaft/klimakrise-in-deutschland-sind-wir-beim-klimaschutz-ploetzlich-wieder-auf-kurs-herr-henning-a-15691892-e115-47ad-a0a6-38c8d89fe1c9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/nato-johann-wadephul-befuerwortet-fuenf-prozent-vorgabe-von-donald-trump-fuer-militaerausgaben](https://www.spiegel.de/politik/deutschland/nato-johann-wadephul-befuerwortet-fuenf-prozent-vorgabe-von-donald-trump-fuer-militaerausgaben-a-46a3f7ab-5206-4d0f-a8c9-2a4f8bd8aa8b#ref=rss)
+### erwarten
+
+* [https://www.spiegel.de/wissenschaft/klimakrise-in-deutschland-sind-wir-beim-klimaschutz-ploetzlich-wieder-auf-kurs-herr-henning](https://www.spiegel.de/wissenschaft/klimakrise-in-deutschland-sind-wir-beim-klimaschutz-ploetzlich-wieder-auf-kurs-herr-henning-a-15691892-e115-47ad-a0a6-38c8d89fe1c9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/agrarsubventionen-verbraucher-erwarten-laut-umfrage-tierwohl-und-nachhaltigkeit](https://www.spiegel.de/wirtschaft/service/agrarsubventionen-verbraucher-erwarten-laut-umfrage-tierwohl-und-nachhaltigkeit-a-76598b18-eb0b-4fce-b691-3205a1e64468#ref=rss)
+### agrarsubventionen
+
+* [https://www.spiegel.de/wirtschaft/service/agrarsubventionen-verbraucher-erwarten-laut-umfrage-tierwohl-und-nachhaltigkeit](https://www.spiegel.de/wirtschaft/service/agrarsubventionen-verbraucher-erwarten-laut-umfrage-tierwohl-und-nachhaltigkeit-a-76598b18-eb0b-4fce-b691-3205a1e64468#ref=rss)
+### umfrage
+
+* [https://www.spiegel.de/wirtschaft/service/agrarsubventionen-verbraucher-erwarten-laut-umfrage-tierwohl-und-nachhaltigkeit](https://www.spiegel.de/wirtschaft/service/agrarsubventionen-verbraucher-erwarten-laut-umfrage-tierwohl-und-nachhaltigkeit-a-76598b18-eb0b-4fce-b691-3205a1e64468#ref=rss)
+### tierwohl
+
+* [https://www.spiegel.de/wirtschaft/service/agrarsubventionen-verbraucher-erwarten-laut-umfrage-tierwohl-und-nachhaltigkeit](https://www.spiegel.de/wirtschaft/service/agrarsubventionen-verbraucher-erwarten-laut-umfrage-tierwohl-und-nachhaltigkeit-a-76598b18-eb0b-4fce-b691-3205a1e64468#ref=rss)
+### nachhaltigkeit
+
+* [https://www.spiegel.de/wirtschaft/service/agrarsubventionen-verbraucher-erwarten-laut-umfrage-tierwohl-und-nachhaltigkeit](https://www.spiegel.de/wirtschaft/service/agrarsubventionen-verbraucher-erwarten-laut-umfrage-tierwohl-und-nachhaltigkeit-a-76598b18-eb0b-4fce-b691-3205a1e64468#ref=rss)
+### hai
+
+* [https://www.spiegel.de/panorama/australien-hai-greift-schwimmer-an-und-verletzt-ihn-schwer](https://www.spiegel.de/panorama/australien-hai-greift-schwimmer-an-und-verletzt-ihn-schwer-a-1f1c6825-02fb-415a-84a5-e4829c4b6c71#ref=rss)
+### schwimmer
+
+* [https://www.spiegel.de/panorama/australien-hai-greift-schwimmer-an-und-verletzt-ihn-schwer](https://www.spiegel.de/panorama/australien-hai-greift-schwimmer-an-und-verletzt-ihn-schwer-a-1f1c6825-02fb-415a-84a5-e4829c4b6c71#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/wirtschaft/soziales/arbeitszeit-die-viertagewoche-ist-ein-popanz](https://www.spiegel.de/wirtschaft/soziales/arbeitszeit-die-viertagewoche-ist-ein-popanz-a-e52b990c-63e3-4a41-aa39-a0dd034cdf07#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-tritt-bei-afd-verbotsverfahren-auf-die-bremse](https://www.spiegel.de/politik/deutschland/friedrich-merz-tritt-bei-afd-verbotsverfahren-auf-die-bremse-a-f98c4d0e-6064-4e35-b970-049168f1145e#ref=rss)
+### afd
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-tritt-bei-afd-verbotsverfahren-auf-die-bremse](https://www.spiegel.de/politik/deutschland/friedrich-merz-tritt-bei-afd-verbotsverfahren-auf-die-bremse-a-f98c4d0e-6064-4e35-b970-049168f1145e#ref=rss)
 
