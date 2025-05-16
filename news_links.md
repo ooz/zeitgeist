@@ -4,362 +4,289 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### berlin
+### friedrich
 
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-und-die-nato-quote-aufregung-um-fuenf-prozent-plan-des-aussenministers](https://www.spiegel.de/politik/deutschland/johann-wadephul-und-die-nato-quote-aufregung-um-fuenf-prozent-plan-des-aussenministers-a-08f03ab2-b585-433c-ae6a-ae732e263482#ref=rss)
-* [https://www.spiegel.de/auto/kiezblocks-berlin-stoppt-planungen-fuer-autoarme-viertel](https://www.spiegel.de/auto/kiezblocks-berlin-stoppt-planungen-fuer-autoarme-viertel-a-3cf5e991-1c23-40ae-85bf-da8da228db4d#ref=rss)
-* [https://www.spiegel.de/panorama/friedlaender-die-grosse-ueberlebende](https://www.spiegel.de/panorama/friedlaender-die-grosse-ueberlebende-a-0bcf5f6b-0872-47f6-9db1-c19d38fa25b2#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-und-brandenburg-polizei-nimmt-vier-maenner-bei-ramschbuecher-razzia-fest](https://www.spiegel.de/panorama/berlin-und-brandenburg-polizei-nimmt-vier-maenner-bei-ramschbuecher-razzia-fest-a-6576c1cc-e13a-46b5-ac36-381e0aa8eee4#ref=rss)
-### polizei
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-regierungserklaerung-eine-sternstunde-kolumne](https://www.spiegel.de/politik/deutschland/friedrich-merz-regierungserklaerung-eine-sternstunde-kolumne-a-34f8d87f-4af4-41f2-b557-41b4f1c3f347#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-regierungserklaerung-wurde-von-olaf-scholz-redenschreiber-entworfen](https://www.spiegel.de/politik/deutschland/friedrich-merz-regierungserklaerung-wurde-von-olaf-scholz-redenschreiber-entworfen-a-e1eba533-a47d-4e79-829a-47cb9772ea20#ref=rss)
+### regierungserklärung
 
-* [https://www.spiegel.de/panorama/justiz/hamburg-raetselhafter-tod-eines-festgenommenen-verdacht-auf-polizeigewalt](https://www.spiegel.de/panorama/justiz/hamburg-raetselhafter-tod-eines-festgenommenen-verdacht-auf-polizeigewalt-a-42cea308-943d-4126-8635-e3539b3cf1e9#ref=rss)
-* [https://www.spiegel.de/panorama/new-jersey-mutter-und-stiefvater-sollen-teenager-tochter-jahrelang-missbraucht-und-in-hundekaefig-gesperrt-haben](https://www.spiegel.de/panorama/new-jersey-mutter-und-stiefvater-sollen-teenager-tochter-jahrelang-missbraucht-und-in-hundekaefig-gesperrt-haben-a-e694c63b-88ce-4f2d-94ab-87aa9d401304#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-und-brandenburg-polizei-nimmt-vier-maenner-bei-ramschbuecher-razzia-fest](https://www.spiegel.de/panorama/berlin-und-brandenburg-polizei-nimmt-vier-maenner-bei-ramschbuecher-razzia-fest-a-6576c1cc-e13a-46b5-ac36-381e0aa8eee4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-regierungserklaerung-eine-sternstunde-kolumne](https://www.spiegel.de/politik/deutschland/friedrich-merz-regierungserklaerung-eine-sternstunde-kolumne-a-34f8d87f-4af4-41f2-b557-41b4f1c3f347#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-regierungserklaerung-wurde-von-olaf-scholz-redenschreiber-entworfen](https://www.spiegel.de/politik/deutschland/friedrich-merz-regierungserklaerung-wurde-von-olaf-scholz-redenschreiber-entworfen-a-e1eba533-a47d-4e79-829a-47cb9772ea20#ref=rss)
+### esc
+
+* [https://www.spiegel.de/ausland/esc-in-basel-wie-der-umgang-mit-israel-den-eurovision-song-contest-spaltet](https://www.spiegel.de/ausland/esc-in-basel-wie-der-umgang-mit-israel-den-eurovision-song-contest-spaltet-a-5da75e82-9ef6-4cb8-a0cd-e4aa7d122792#ref=rss)
+* [https://www.spiegel.de/kultur/esc-2025-in-basel-halbfinale-das-war-womoeglich-ein-sexzwinkerer-zuviel](https://www.spiegel.de/kultur/esc-2025-in-basel-halbfinale-das-war-womoeglich-ein-sexzwinkerer-zuviel-a-c46b921e-8604-4e80-919a-4d8ae438a22c#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-regierungserklaerung-eine-sternstunde-kolumne](https://www.spiegel.de/politik/deutschland/friedrich-merz-regierungserklaerung-eine-sternstunde-kolumne-a-34f8d87f-4af4-41f2-b557-41b4f1c3f347#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-regierungserklaerung-wurde-von-olaf-scholz-redenschreiber-entworfen](https://www.spiegel.de/politik/deutschland/friedrich-merz-regierungserklaerung-wurde-von-olaf-scholz-redenschreiber-entworfen-a-e1eba533-a47d-4e79-829a-47cb9772ea20#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/panorama/justiz/hamburg-raetselhafter-tod-eines-festgenommenen-verdacht-auf-polizeigewalt](https://www.spiegel.de/panorama/justiz/hamburg-raetselhafter-tod-eines-festgenommenen-verdacht-auf-polizeigewalt-a-42cea308-943d-4126-8635-e3539b3cf1e9#ref=rss)
-* [https://www.spiegel.de/ausland/annalena-baerbock-sieht-uno-vor-existenziellen-herausforderungen](https://www.spiegel.de/ausland/annalena-baerbock-sieht-uno-vor-existenziellen-herausforderungen-a-078bbaa6-0ee7-42cd-ac92-e980b75140e8#ref=rss)
-* [https://www.spiegel.de/panorama/muell-trennung-wenn-ki-die-biotonne-kontrolliert](https://www.spiegel.de/panorama/muell-trennung-wenn-ki-die-biotonne-kontrolliert-a-30f5b7b5-741c-4c2b-8d5a-39d91b22b772#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/mrbeast-besucht-maya-staetten-in-mexiko-claudia-sheinbaum-verlangt-aufklaerung-zu-videodreh](https://www.spiegel.de/netzwelt/web/mrbeast-besucht-maya-staetten-in-mexiko-claudia-sheinbaum-verlangt-aufklaerung-zu-videodreh-a-6cff7b71-e43f-4fb6-9c7a-39dd543a7ed3#ref=rss)
-### trump
-
-* [https://www.spiegel.de/deinspiegel/mrwissen2go-erklaert-wissen-zum-mitnehmen-von-mirko-drotschmann-warum-will-donald-trump-groenland-kaufen](https://www.spiegel.de/deinspiegel/mrwissen2go-erklaert-wissen-zum-mitnehmen-von-mirko-drotschmann-warum-will-donald-trump-groenland-kaufen-a-7581bc89-d946-4aa1-9d27-ac2a4b3b5eee#ref=rss)
-* [https://www.spiegel.de/sport/fussball/gianni-infantino-ist-verspaetet-zum-fifa-kongress-und-weilt-stattdessen-mit-donald-trump-am-golf](https://www.spiegel.de/sport/fussball/gianni-infantino-ist-verspaetet-zum-fifa-kongress-und-weilt-stattdessen-mit-donald-trump-am-golf-a-2983753b-91d4-4a9b-83a6-d6b9c4d60ece#ref=rss)
-### festgenommen
-
-* [https://www.spiegel.de/ausland/ben-jerrys-mitgruender-ben-cohen-bei-protest-im-us-kapitol-festgenommen](https://www.spiegel.de/ausland/ben-jerrys-mitgruender-ben-cohen-bei-protest-im-us-kapitol-festgenommen-a-246f324d-5228-4a71-8b6b-1bbad88cd9b6#ref=rss)
-* [https://www.spiegel.de/panorama/new-jersey-mutter-und-stiefvater-sollen-teenager-tochter-jahrelang-missbraucht-und-in-hundekaefig-gesperrt-haben](https://www.spiegel.de/panorama/new-jersey-mutter-und-stiefvater-sollen-teenager-tochter-jahrelang-missbraucht-und-in-hundekaefig-gesperrt-haben-a-e694c63b-88ce-4f2d-94ab-87aa9d401304#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-und-brandenburg-polizei-nimmt-vier-maenner-bei-ramschbuecher-razzia-fest](https://www.spiegel.de/panorama/berlin-und-brandenburg-polizei-nimmt-vier-maenner-bei-ramschbuecher-razzia-fest-a-6576c1cc-e13a-46b5-ac36-381e0aa8eee4#ref=rss)
-### wadephul
-
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-und-die-nato-quote-aufregung-um-fuenf-prozent-plan-des-aussenministers](https://www.spiegel.de/politik/deutschland/johann-wadephul-und-die-nato-quote-aufregung-um-fuenf-prozent-plan-des-aussenministers-a-08f03ab2-b585-433c-ae6a-ae732e263482#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-johann-wadephul-verteidigung-klima-cannes-dresscode](https://www.spiegel.de/politik/deutschland/news-des-tages-johann-wadephul-verteidigung-klima-cannes-dresscode-a-7f5344bf-d8b2-4174-8380-8404a3b81295#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/ausland/israels-neue-offensive-in-gaza-wer-stoppt-netanyahu](https://www.spiegel.de/ausland/israels-neue-offensive-in-gaza-wer-stoppt-netanyahu-a-bae7ec40-ac24-4702-9359-93890c8de9bd#ref=rss)
-* [https://www.spiegel.de/deinspiegel/mrwissen2go-erklaert-wissen-zum-mitnehmen-von-mirko-drotschmann-warum-will-donald-trump-groenland-kaufen](https://www.spiegel.de/deinspiegel/mrwissen2go-erklaert-wissen-zum-mitnehmen-von-mirko-drotschmann-warum-will-donald-trump-groenland-kaufen-a-7581bc89-d946-4aa1-9d27-ac2a4b3b5eee#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/justiz/hamburg-raetselhafter-tod-eines-festgenommenen-verdacht-auf-polizeigewalt](https://www.spiegel.de/panorama/justiz/hamburg-raetselhafter-tod-eines-festgenommenen-verdacht-auf-polizeigewalt-a-42cea308-943d-4126-8635-e3539b3cf1e9#ref=rss)
-* [https://www.spiegel.de/kultur/kino/mission-impossible-the-final-reckoning-mit-tom-cruise-der-tollkuehne-mann-in-seiner-fliegenden-kiste](https://www.spiegel.de/kultur/kino/mission-impossible-the-final-reckoning-mit-tom-cruise-der-tollkuehne-mann-in-seiner-fliegenden-kiste-a-bf4c5a06-97f3-4291-a755-3d2e15004340#ref=rss)
-### donald
-
-* [https://www.spiegel.de/deinspiegel/mrwissen2go-erklaert-wissen-zum-mitnehmen-von-mirko-drotschmann-warum-will-donald-trump-groenland-kaufen](https://www.spiegel.de/deinspiegel/mrwissen2go-erklaert-wissen-zum-mitnehmen-von-mirko-drotschmann-warum-will-donald-trump-groenland-kaufen-a-7581bc89-d946-4aa1-9d27-ac2a4b3b5eee#ref=rss)
-* [https://www.spiegel.de/sport/fussball/gianni-infantino-ist-verspaetet-zum-fifa-kongress-und-weilt-stattdessen-mit-donald-trump-am-golf](https://www.spiegel.de/sport/fussball/gianni-infantino-ist-verspaetet-zum-fifa-kongress-und-weilt-stattdessen-mit-donald-trump-am-golf-a-2983753b-91d4-4a9b-83a6-d6b9c4d60ece#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/deinspiegel/mrwissen2go-erklaert-wissen-zum-mitnehmen-von-mirko-drotschmann-warum-will-donald-trump-groenland-kaufen](https://www.spiegel.de/deinspiegel/mrwissen2go-erklaert-wissen-zum-mitnehmen-von-mirko-drotschmann-warum-will-donald-trump-groenland-kaufen-a-7581bc89-d946-4aa1-9d27-ac2a4b3b5eee#ref=rss)
-* [https://www.spiegel.de/kultur/sean-combs-es-ist-grauenhaft-entmenschlichend-brutal-sagt-sogar-diddys-anwaeltin](https://www.spiegel.de/kultur/sean-combs-es-ist-grauenhaft-entmenschlichend-brutal-sagt-sogar-diddys-anwaeltin-a-e63df90e-4a04-41cd-99f4-cbb0dda2cfaf#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/kantinenessen-ranking-spaghetti-bolognese-am-beliebtesten-currywurst-rutscht-ab](https://www.spiegel.de/wirtschaft/service/kantinenessen-ranking-spaghetti-bolognese-am-beliebtesten-currywurst-rutscht-ab-a-9a77db5e-8251-45bf-ad15-7453b67b17e9#ref=rss)
-### dobrindt
-
-* [https://www.spiegel.de/panorama/migration-trotz-zurueckweisung-an-der-grenze-stabile-zahl-an-asylgesuchen](https://www.spiegel.de/panorama/migration-trotz-zurueckweisung-an-der-grenze-stabile-zahl-an-asylgesuchen-a-7641dbcd-d797-4be3-aabf-a539cf57a04f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/migration-zahl-der-zurueckweisungen-laut-alexander-dobrindt-um-45-prozent-gestiegen](https://www.spiegel.de/politik/deutschland/migration-zahl-der-zurueckweisungen-laut-alexander-dobrindt-um-45-prozent-gestiegen-a-c26f4d0f-9045-49f2-9d24-cffd205f96f1#ref=rss)
-### ben
-
-* [https://www.spiegel.de/ausland/ben-jerrys-mitgruender-ben-cohen-bei-protest-im-us-kapitol-festgenommen](https://www.spiegel.de/ausland/ben-jerrys-mitgruender-ben-cohen-bei-protest-im-us-kapitol-festgenommen-a-246f324d-5228-4a71-8b6b-1bbad88cd9b6#ref=rss)
-### männer
-
-* [https://www.spiegel.de/politik/deutschland/maennlichkeit-frauen-als-suendenboecke-fuer-rechtes-wahlverhalten](https://www.spiegel.de/politik/deutschland/maennlichkeit-frauen-als-suendenboecke-fuer-rechtes-wahlverhalten-a-66e74a6b-084e-43f5-ba28-11e362401edb#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-und-brandenburg-polizei-nimmt-vier-maenner-bei-ramschbuecher-razzia-fest](https://www.spiegel.de/panorama/berlin-und-brandenburg-polizei-nimmt-vier-maenner-bei-ramschbuecher-razzia-fest-a-6576c1cc-e13a-46b5-ac36-381e0aa8eee4#ref=rss)
-### außenminister
-
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-und-die-nato-quote-aufregung-um-fuenf-prozent-plan-des-aussenministers](https://www.spiegel.de/politik/deutschland/johann-wadephul-und-die-nato-quote-aufregung-um-fuenf-prozent-plan-des-aussenministers-a-08f03ab2-b585-433c-ae6a-ae732e263482#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-johann-wadephul-verteidigung-klima-cannes-dresscode](https://www.spiegel.de/politik/deutschland/news-des-tages-johann-wadephul-verteidigung-klima-cannes-dresscode-a-7f5344bf-d8b2-4174-8380-8404a3b81295#ref=rss)
-* [https://www.spiegel.de/ausland/estland-aufregung-nach-eindringen-russischen-kampfjets-in-nato-luftraum](https://www.spiegel.de/ausland/estland-aufregung-nach-eindringen-russischen-kampfjets-in-nato-luftraum-a-9c36ece5-c3a5-4f12-bdbf-2ea2f0b7e9de#ref=rss)
-### josef
-
-* [https://www.spiegel.de/ausland/josef-stalin-russland-streitet-ueber-diktator-relief-in-moskauer-metro](https://www.spiegel.de/ausland/josef-stalin-russland-streitet-ueber-diktator-relief-in-moskauer-metro-a-9abec73e-862d-4198-8c66-7cfcbb7ff3e0#ref=rss)
-* [https://www.spiegel.de/kultur/kino/cosmo-jarvis-spielt-den-jungen-josef-stalin](https://www.spiegel.de/kultur/kino/cosmo-jarvis-spielt-den-jungen-josef-stalin-a-3cf91545-9e02-455f-b488-b368d99cf35a#ref=rss)
-### stalin
-
-* [https://www.spiegel.de/ausland/josef-stalin-russland-streitet-ueber-diktator-relief-in-moskauer-metro](https://www.spiegel.de/ausland/josef-stalin-russland-streitet-ueber-diktator-relief-in-moskauer-metro-a-9abec73e-862d-4198-8c66-7cfcbb7ff3e0#ref=rss)
-* [https://www.spiegel.de/kultur/kino/cosmo-jarvis-spielt-den-jungen-josef-stalin](https://www.spiegel.de/kultur/kino/cosmo-jarvis-spielt-den-jungen-josef-stalin-a-3cf91545-9e02-455f-b488-b368d99cf35a#ref=rss)
-### neue
-
-* [https://www.spiegel.de/ausland/israels-neue-offensive-in-gaza-wer-stoppt-netanyahu](https://www.spiegel.de/ausland/israels-neue-offensive-in-gaza-wer-stoppt-netanyahu-a-bae7ec40-ac24-4702-9359-93890c8de9bd#ref=rss)
-* [https://www.spiegel.de/wirtschaft/steuerschaetzung-so-viel-geld-fehlt-lars-klingbeil-wirklich](https://www.spiegel.de/wirtschaft/steuerschaetzung-so-viel-geld-fehlt-lars-klingbeil-wirklich-a-c49ae1ee-50d5-4e3c-b2a8-8866b2cc2f44#ref=rss)
-### stoppt
-
-* [https://www.spiegel.de/ausland/israels-neue-offensive-in-gaza-wer-stoppt-netanyahu](https://www.spiegel.de/ausland/israels-neue-offensive-in-gaza-wer-stoppt-netanyahu-a-bae7ec40-ac24-4702-9359-93890c8de9bd#ref=rss)
-* [https://www.spiegel.de/auto/kiezblocks-berlin-stoppt-planungen-fuer-autoarme-viertel](https://www.spiegel.de/auto/kiezblocks-berlin-stoppt-planungen-fuer-autoarme-viertel-a-3cf5e991-1c23-40ae-85bf-da8da228db4d#ref=rss)
-### netanyahu
-
-* [https://www.spiegel.de/ausland/israels-neue-offensive-in-gaza-wer-stoppt-netanyahu](https://www.spiegel.de/ausland/israels-neue-offensive-in-gaza-wer-stoppt-netanyahu-a-bae7ec40-ac24-4702-9359-93890c8de9bd#ref=rss)
-### droht
-
-* [https://www.spiegel.de/ausland/israels-neue-offensive-in-gaza-wer-stoppt-netanyahu](https://www.spiegel.de/ausland/israels-neue-offensive-in-gaza-wer-stoppt-netanyahu-a-bae7ec40-ac24-4702-9359-93890c8de9bd#ref=rss)
-* [https://www.spiegel.de/panorama/muell-trennung-wenn-ki-die-biotonne-kontrolliert](https://www.spiegel.de/panorama/muell-trennung-wenn-ki-die-biotonne-kontrolliert-a-30f5b7b5-741c-4c2b-8d5a-39d91b22b772#ref=rss)
-### plan
-
-* [https://www.spiegel.de/ausland/israels-neue-offensive-in-gaza-wer-stoppt-netanyahu](https://www.spiegel.de/ausland/israels-neue-offensive-in-gaza-wer-stoppt-netanyahu-a-bae7ec40-ac24-4702-9359-93890c8de9bd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-und-die-nato-quote-aufregung-um-fuenf-prozent-plan-des-aussenministers](https://www.spiegel.de/politik/deutschland/johann-wadephul-und-die-nato-quote-aufregung-um-fuenf-prozent-plan-des-aussenministers-a-08f03ab2-b585-433c-ae6a-ae732e263482#ref=rss)
-### bayesian
-
-* [https://www.spiegel.de/panorama/bayesian-darum-sank-die-jacht-vor-sizilien-ermittlungsbericht](https://www.spiegel.de/panorama/bayesian-darum-sank-die-jacht-vor-sizilien-ermittlungsbericht-a-99bb8545-c7ec-48c1-83f3-8c66b90a015e#ref=rss)
-### jacht
-
-* [https://www.spiegel.de/panorama/bayesian-darum-sank-die-jacht-vor-sizilien-ermittlungsbericht](https://www.spiegel.de/panorama/bayesian-darum-sank-die-jacht-vor-sizilien-ermittlungsbericht-a-99bb8545-c7ec-48c1-83f3-8c66b90a015e#ref=rss)
-### zufolge
-
-* [https://www.spiegel.de/panorama/bayesian-darum-sank-die-jacht-vor-sizilien-ermittlungsbericht](https://www.spiegel.de/panorama/bayesian-darum-sank-die-jacht-vor-sizilien-ermittlungsbericht-a-99bb8545-c7ec-48c1-83f3-8c66b90a015e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/migration-zahl-der-zurueckweisungen-laut-alexander-dobrindt-um-45-prozent-gestiegen](https://www.spiegel.de/politik/deutschland/migration-zahl-der-zurueckweisungen-laut-alexander-dobrindt-um-45-prozent-gestiegen-a-c26f4d0f-9045-49f2-9d24-cffd205f96f1#ref=rss)
-### sieben
-
-* [https://www.spiegel.de/panorama/bayesian-darum-sank-die-jacht-vor-sizilien-ermittlungsbericht](https://www.spiegel.de/panorama/bayesian-darum-sank-die-jacht-vor-sizilien-ermittlungsbericht-a-99bb8545-c7ec-48c1-83f3-8c66b90a015e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/migration-zahl-der-zurueckweisungen-laut-alexander-dobrindt-um-45-prozent-gestiegen](https://www.spiegel.de/politik/deutschland/migration-zahl-der-zurueckweisungen-laut-alexander-dobrindt-um-45-prozent-gestiegen-a-c26f4d0f-9045-49f2-9d24-cffd205f96f1#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/bayesian-darum-sank-die-jacht-vor-sizilien-ermittlungsbericht](https://www.spiegel.de/panorama/bayesian-darum-sank-die-jacht-vor-sizilien-ermittlungsbericht-a-99bb8545-c7ec-48c1-83f3-8c66b90a015e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/migration-zahl-der-zurueckweisungen-laut-alexander-dobrindt-um-45-prozent-gestiegen](https://www.spiegel.de/politik/deutschland/migration-zahl-der-zurueckweisungen-laut-alexander-dobrindt-um-45-prozent-gestiegen-a-c26f4d0f-9045-49f2-9d24-cffd205f96f1#ref=rss)
-### hamburg
-
-* [https://www.spiegel.de/panorama/justiz/hamburg-raetselhafter-tod-eines-festgenommenen-verdacht-auf-polizeigewalt](https://www.spiegel.de/panorama/justiz/hamburg-raetselhafter-tod-eines-festgenommenen-verdacht-auf-polizeigewalt-a-42cea308-943d-4126-8635-e3539b3cf1e9#ref=rss)
-### nimmt
-
-* [https://www.spiegel.de/panorama/justiz/hamburg-raetselhafter-tod-eines-festgenommenen-verdacht-auf-polizeigewalt](https://www.spiegel.de/panorama/justiz/hamburg-raetselhafter-tod-eines-festgenommenen-verdacht-auf-polizeigewalt-a-42cea308-943d-4126-8635-e3539b3cf1e9#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-und-brandenburg-polizei-nimmt-vier-maenner-bei-ramschbuecher-razzia-fest](https://www.spiegel.de/panorama/berlin-und-brandenburg-polizei-nimmt-vier-maenner-bei-ramschbuecher-razzia-fest-a-6576c1cc-e13a-46b5-ac36-381e0aa8eee4#ref=rss)
-### fest
-
-* [https://www.spiegel.de/panorama/justiz/hamburg-raetselhafter-tod-eines-festgenommenen-verdacht-auf-polizeigewalt](https://www.spiegel.de/panorama/justiz/hamburg-raetselhafter-tod-eines-festgenommenen-verdacht-auf-polizeigewalt-a-42cea308-943d-4126-8635-e3539b3cf1e9#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-und-brandenburg-polizei-nimmt-vier-maenner-bei-ramschbuecher-razzia-fest](https://www.spiegel.de/panorama/berlin-und-brandenburg-polizei-nimmt-vier-maenner-bei-ramschbuecher-razzia-fest-a-6576c1cc-e13a-46b5-ac36-381e0aa8eee4#ref=rss)
-### später
-
-* [https://www.spiegel.de/panorama/justiz/hamburg-raetselhafter-tod-eines-festgenommenen-verdacht-auf-polizeigewalt](https://www.spiegel.de/panorama/justiz/hamburg-raetselhafter-tod-eines-festgenommenen-verdacht-auf-polizeigewalt-a-42cea308-943d-4126-8635-e3539b3cf1e9#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/atombomben-richard-garwin-der-designer-der-wasserstoffbombe-ist-tot](https://www.spiegel.de/wissenschaft/mensch/atombomben-richard-garwin-der-designer-der-wasserstoffbombe-ist-tot-a-476edf0a-91a2-4d8e-ad0a-56691e3b762b#ref=rss)
-### mrwissen2go
-
-* [https://www.spiegel.de/deinspiegel/mrwissen2go-erklaert-wissen-zum-mitnehmen-von-mirko-drotschmann-warum-will-donald-trump-groenland-kaufen](https://www.spiegel.de/deinspiegel/mrwissen2go-erklaert-wissen-zum-mitnehmen-von-mirko-drotschmann-warum-will-donald-trump-groenland-kaufen-a-7581bc89-d946-4aa1-9d27-ac2a4b3b5eee#ref=rss)
-### mirko
-
-* [https://www.spiegel.de/deinspiegel/mrwissen2go-erklaert-wissen-zum-mitnehmen-von-mirko-drotschmann-warum-will-donald-trump-groenland-kaufen](https://www.spiegel.de/deinspiegel/mrwissen2go-erklaert-wissen-zum-mitnehmen-von-mirko-drotschmann-warum-will-donald-trump-groenland-kaufen-a-7581bc89-d946-4aa1-9d27-ac2a4b3b5eee#ref=rss)
-### drotschmann
-
-* [https://www.spiegel.de/deinspiegel/mrwissen2go-erklaert-wissen-zum-mitnehmen-von-mirko-drotschmann-warum-will-donald-trump-groenland-kaufen](https://www.spiegel.de/deinspiegel/mrwissen2go-erklaert-wissen-zum-mitnehmen-von-mirko-drotschmann-warum-will-donald-trump-groenland-kaufen-a-7581bc89-d946-4aa1-9d27-ac2a4b3b5eee#ref=rss)
-### grönland
-
-* [https://www.spiegel.de/deinspiegel/mrwissen2go-erklaert-wissen-zum-mitnehmen-von-mirko-drotschmann-warum-will-donald-trump-groenland-kaufen](https://www.spiegel.de/deinspiegel/mrwissen2go-erklaert-wissen-zum-mitnehmen-von-mirko-drotschmann-warum-will-donald-trump-groenland-kaufen-a-7581bc89-d946-4aa1-9d27-ac2a4b3b5eee#ref=rss)
-### große
-
-* [https://www.spiegel.de/deinspiegel/mrwissen2go-erklaert-wissen-zum-mitnehmen-von-mirko-drotschmann-warum-will-donald-trump-groenland-kaufen](https://www.spiegel.de/deinspiegel/mrwissen2go-erklaert-wissen-zum-mitnehmen-von-mirko-drotschmann-warum-will-donald-trump-groenland-kaufen-a-7581bc89-d946-4aa1-9d27-ac2a4b3b5eee#ref=rss)
-* [https://www.spiegel.de/panorama/friedlaender-die-grosse-ueberlebende](https://www.spiegel.de/panorama/friedlaender-die-grosse-ueberlebende-a-0bcf5f6b-0872-47f6-9db1-c19d38fa25b2#ref=rss)
-### allerdings
-
-* [https://www.spiegel.de/deinspiegel/mrwissen2go-erklaert-wissen-zum-mitnehmen-von-mirko-drotschmann-warum-will-donald-trump-groenland-kaufen](https://www.spiegel.de/deinspiegel/mrwissen2go-erklaert-wissen-zum-mitnehmen-von-mirko-drotschmann-warum-will-donald-trump-groenland-kaufen-a-7581bc89-d946-4aa1-9d27-ac2a4b3b5eee#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-die-selbstaufloesung-der-pkk-ist-ein-erfolg-fuer-recep-tayyip-erdogan-aber-mit-risiken](https://www.spiegel.de/ausland/tuerkei-die-selbstaufloesung-der-pkk-ist-ein-erfolg-fuer-recep-tayyip-erdogan-aber-mit-risiken-a-7cf86c23-d0c9-47bd-80e9-db27881190a8#ref=rss)
-### etwas
-
-* [https://www.spiegel.de/deinspiegel/mrwissen2go-erklaert-wissen-zum-mitnehmen-von-mirko-drotschmann-warum-will-donald-trump-groenland-kaufen](https://www.spiegel.de/deinspiegel/mrwissen2go-erklaert-wissen-zum-mitnehmen-von-mirko-drotschmann-warum-will-donald-trump-groenland-kaufen-a-7581bc89-d946-4aa1-9d27-ac2a4b3b5eee#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-die-selbstaufloesung-der-pkk-ist-ein-erfolg-fuer-recep-tayyip-erdogan-aber-mit-risiken](https://www.spiegel.de/ausland/tuerkei-die-selbstaufloesung-der-pkk-ist-ein-erfolg-fuer-recep-tayyip-erdogan-aber-mit-risiken-a-7cf86c23-d0c9-47bd-80e9-db27881190a8#ref=rss)
-### mission
-
-* [https://www.spiegel.de/kultur/kino/mission-impossible-the-final-reckoning-mit-tom-cruise-der-tollkuehne-mann-in-seiner-fliegenden-kiste](https://www.spiegel.de/kultur/kino/mission-impossible-the-final-reckoning-mit-tom-cruise-der-tollkuehne-mann-in-seiner-fliegenden-kiste-a-bf4c5a06-97f3-4291-a755-3d2e15004340#ref=rss)
-### impossible
-
-* [https://www.spiegel.de/kultur/kino/mission-impossible-the-final-reckoning-mit-tom-cruise-der-tollkuehne-mann-in-seiner-fliegenden-kiste](https://www.spiegel.de/kultur/kino/mission-impossible-the-final-reckoning-mit-tom-cruise-der-tollkuehne-mann-in-seiner-fliegenden-kiste-a-bf4c5a06-97f3-4291-a755-3d2e15004340#ref=rss)
-### the
-
-* [https://www.spiegel.de/kultur/kino/mission-impossible-the-final-reckoning-mit-tom-cruise-der-tollkuehne-mann-in-seiner-fliegenden-kiste](https://www.spiegel.de/kultur/kino/mission-impossible-the-final-reckoning-mit-tom-cruise-der-tollkuehne-mann-in-seiner-fliegenden-kiste-a-bf4c5a06-97f3-4291-a755-3d2e15004340#ref=rss)
-### final
-
-* [https://www.spiegel.de/kultur/kino/mission-impossible-the-final-reckoning-mit-tom-cruise-der-tollkuehne-mann-in-seiner-fliegenden-kiste](https://www.spiegel.de/kultur/kino/mission-impossible-the-final-reckoning-mit-tom-cruise-der-tollkuehne-mann-in-seiner-fliegenden-kiste-a-bf4c5a06-97f3-4291-a755-3d2e15004340#ref=rss)
-### reckoning
-
-* [https://www.spiegel.de/kultur/kino/mission-impossible-the-final-reckoning-mit-tom-cruise-der-tollkuehne-mann-in-seiner-fliegenden-kiste](https://www.spiegel.de/kultur/kino/mission-impossible-the-final-reckoning-mit-tom-cruise-der-tollkuehne-mann-in-seiner-fliegenden-kiste-a-bf4c5a06-97f3-4291-a755-3d2e15004340#ref=rss)
-### tom
-
-* [https://www.spiegel.de/kultur/kino/mission-impossible-the-final-reckoning-mit-tom-cruise-der-tollkuehne-mann-in-seiner-fliegenden-kiste](https://www.spiegel.de/kultur/kino/mission-impossible-the-final-reckoning-mit-tom-cruise-der-tollkuehne-mann-in-seiner-fliegenden-kiste-a-bf4c5a06-97f3-4291-a755-3d2e15004340#ref=rss)
-### cruise
-
-* [https://www.spiegel.de/kultur/kino/mission-impossible-the-final-reckoning-mit-tom-cruise-der-tollkuehne-mann-in-seiner-fliegenden-kiste](https://www.spiegel.de/kultur/kino/mission-impossible-the-final-reckoning-mit-tom-cruise-der-tollkuehne-mann-in-seiner-fliegenden-kiste-a-bf4c5a06-97f3-4291-a755-3d2e15004340#ref=rss)
-### migration
-
-* [https://www.spiegel.de/panorama/migration-trotz-zurueckweisung-an-der-grenze-stabile-zahl-an-asylgesuchen](https://www.spiegel.de/panorama/migration-trotz-zurueckweisung-an-der-grenze-stabile-zahl-an-asylgesuchen-a-7641dbcd-d797-4be3-aabf-a539cf57a04f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/migration-zahl-der-zurueckweisungen-laut-alexander-dobrindt-um-45-prozent-gestiegen](https://www.spiegel.de/politik/deutschland/migration-zahl-der-zurueckweisungen-laut-alexander-dobrindt-um-45-prozent-gestiegen-a-c26f4d0f-9045-49f2-9d24-cffd205f96f1#ref=rss)
-### zurückweisung
-
-* [https://www.spiegel.de/panorama/migration-trotz-zurueckweisung-an-der-grenze-stabile-zahl-an-asylgesuchen](https://www.spiegel.de/panorama/migration-trotz-zurueckweisung-an-der-grenze-stabile-zahl-an-asylgesuchen-a-7641dbcd-d797-4be3-aabf-a539cf57a04f#ref=rss)
-### grenze
-
-* [https://www.spiegel.de/panorama/migration-trotz-zurueckweisung-an-der-grenze-stabile-zahl-an-asylgesuchen](https://www.spiegel.de/panorama/migration-trotz-zurueckweisung-an-der-grenze-stabile-zahl-an-asylgesuchen-a-7641dbcd-d797-4be3-aabf-a539cf57a04f#ref=rss)
-### zahl
-
-* [https://www.spiegel.de/panorama/migration-trotz-zurueckweisung-an-der-grenze-stabile-zahl-an-asylgesuchen](https://www.spiegel.de/panorama/migration-trotz-zurueckweisung-an-der-grenze-stabile-zahl-an-asylgesuchen-a-7641dbcd-d797-4be3-aabf-a539cf57a04f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/migration-zahl-der-zurueckweisungen-laut-alexander-dobrindt-um-45-prozent-gestiegen](https://www.spiegel.de/politik/deutschland/migration-zahl-der-zurueckweisungen-laut-alexander-dobrindt-um-45-prozent-gestiegen-a-c26f4d0f-9045-49f2-9d24-cffd205f96f1#ref=rss)
-### innenminister
-
-* [https://www.spiegel.de/panorama/migration-trotz-zurueckweisung-an-der-grenze-stabile-zahl-an-asylgesuchen](https://www.spiegel.de/panorama/migration-trotz-zurueckweisung-an-der-grenze-stabile-zahl-an-asylgesuchen-a-7641dbcd-d797-4be3-aabf-a539cf57a04f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/migration-zahl-der-zurueckweisungen-laut-alexander-dobrindt-um-45-prozent-gestiegen](https://www.spiegel.de/politik/deutschland/migration-zahl-der-zurueckweisungen-laut-alexander-dobrindt-um-45-prozent-gestiegen-a-c26f4d0f-9045-49f2-9d24-cffd205f96f1#ref=rss)
-### annalena
-
-* [https://www.spiegel.de/ausland/annalena-baerbock-sieht-uno-vor-existenziellen-herausforderungen](https://www.spiegel.de/ausland/annalena-baerbock-sieht-uno-vor-existenziellen-herausforderungen-a-078bbaa6-0ee7-42cd-ac92-e980b75140e8#ref=rss)
-### baerbock
-
-* [https://www.spiegel.de/ausland/annalena-baerbock-sieht-uno-vor-existenziellen-herausforderungen](https://www.spiegel.de/ausland/annalena-baerbock-sieht-uno-vor-existenziellen-herausforderungen-a-078bbaa6-0ee7-42cd-ac92-e980b75140e8#ref=rss)
-### uno
-
-* [https://www.spiegel.de/ausland/annalena-baerbock-sieht-uno-vor-existenziellen-herausforderungen](https://www.spiegel.de/ausland/annalena-baerbock-sieht-uno-vor-existenziellen-herausforderungen-a-078bbaa6-0ee7-42cd-ac92-e980b75140e8#ref=rss)
-### cohen
-
-* [https://www.spiegel.de/ausland/ben-jerrys-mitgruender-ben-cohen-bei-protest-im-us-kapitol-festgenommen](https://www.spiegel.de/ausland/ben-jerrys-mitgruender-ben-cohen-bei-protest-im-us-kapitol-festgenommen-a-246f324d-5228-4a71-8b6b-1bbad88cd9b6#ref=rss)
-### video
-
-* [https://www.spiegel.de/ausland/ben-jerrys-mitgruender-ben-cohen-bei-protest-im-us-kapitol-festgenommen](https://www.spiegel.de/ausland/ben-jerrys-mitgruender-ben-cohen-bei-protest-im-us-kapitol-festgenommen-a-246f324d-5228-4a71-8b6b-1bbad88cd9b6#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/mrbeast-besucht-maya-staetten-in-mexiko-claudia-sheinbaum-verlangt-aufklaerung-zu-videodreh](https://www.spiegel.de/netzwelt/web/mrbeast-besucht-maya-staetten-in-mexiko-claudia-sheinbaum-verlangt-aufklaerung-zu-videodreh-a-6cff7b71-e43f-4fb6-9c7a-39dd543a7ed3#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/politik/deutschland/maennlichkeit-frauen-als-suendenboecke-fuer-rechtes-wahlverhalten](https://www.spiegel.de/politik/deutschland/maennlichkeit-frauen-als-suendenboecke-fuer-rechtes-wahlverhalten-a-66e74a6b-084e-43f5-ba28-11e362401edb#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/jugendanstalt-schleswig-mitarbeiterinnen-fuer-beziehung-zu-haeftling-bestraft](https://www.spiegel.de/panorama/justiz/jugendanstalt-schleswig-mitarbeiterinnen-fuer-beziehung-zu-haeftling-bestraft-a-c9f3e247-a8ca-42b6-8c7b-7009c51d87e8#ref=rss)
-### zeit
-
-* [https://www.spiegel.de/politik/deutschland/maennlichkeit-frauen-als-suendenboecke-fuer-rechtes-wahlverhalten](https://www.spiegel.de/politik/deutschland/maennlichkeit-frauen-als-suendenboecke-fuer-rechtes-wahlverhalten-a-66e74a6b-084e-43f5-ba28-11e362401edb#ref=rss)
-* [https://www.spiegel.de/kultur/kino/cosmo-jarvis-spielt-den-jungen-josef-stalin](https://www.spiegel.de/kultur/kino/cosmo-jarvis-spielt-den-jungen-josef-stalin-a-3cf91545-9e02-455f-b488-b368d99cf35a#ref=rss)
-### johann
-
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-und-die-nato-quote-aufregung-um-fuenf-prozent-plan-des-aussenministers](https://www.spiegel.de/politik/deutschland/johann-wadephul-und-die-nato-quote-aufregung-um-fuenf-prozent-plan-des-aussenministers-a-08f03ab2-b585-433c-ae6a-ae732e263482#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-johann-wadephul-verteidigung-klima-cannes-dresscode](https://www.spiegel.de/politik/deutschland/news-des-tages-johann-wadephul-verteidigung-klima-cannes-dresscode-a-7f5344bf-d8b2-4174-8380-8404a3b81295#ref=rss)
-### erhöhung
-
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-und-die-nato-quote-aufregung-um-fuenf-prozent-plan-des-aussenministers](https://www.spiegel.de/politik/deutschland/johann-wadephul-und-die-nato-quote-aufregung-um-fuenf-prozent-plan-des-aussenministers-a-08f03ab2-b585-433c-ae6a-ae732e263482#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/nato-warum-auch-kita-kosten-in-die-ausgaben-quote-einfliessen](https://www.spiegel.de/wissenschaft/technik/nato-warum-auch-kita-kosten-in-die-ausgaben-quote-einfliessen-a-42e3da7c-33cd-4c0e-80f9-4b808cc8a0ea#ref=rss)
-### verteidigungsausgaben
-
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-und-die-nato-quote-aufregung-um-fuenf-prozent-plan-des-aussenministers](https://www.spiegel.de/politik/deutschland/johann-wadephul-und-die-nato-quote-aufregung-um-fuenf-prozent-plan-des-aussenministers-a-08f03ab2-b585-433c-ae6a-ae732e263482#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/nato-warum-auch-kita-kosten-in-die-ausgaben-quote-einfliessen](https://www.spiegel.de/wissenschaft/technik/nato-warum-auch-kita-kosten-in-die-ausgaben-quote-einfliessen-a-42e3da7c-33cd-4c0e-80f9-4b808cc8a0ea#ref=rss)
-### verteidigung
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-johann-wadephul-verteidigung-klima-cannes-dresscode](https://www.spiegel.de/politik/deutschland/news-des-tages-johann-wadephul-verteidigung-klima-cannes-dresscode-a-7f5344bf-d8b2-4174-8380-8404a3b81295#ref=rss)
-* [https://www.spiegel.de/kultur/sean-combs-es-ist-grauenhaft-entmenschlichend-brutal-sagt-sogar-diddys-anwaeltin](https://www.spiegel.de/kultur/sean-combs-es-ist-grauenhaft-entmenschlichend-brutal-sagt-sogar-diddys-anwaeltin-a-e63df90e-4a04-41cd-99f4-cbb0dda2cfaf#ref=rss)
-### cannes
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-johann-wadephul-verteidigung-klima-cannes-dresscode](https://www.spiegel.de/politik/deutschland/news-des-tages-johann-wadephul-verteidigung-klima-cannes-dresscode-a-7f5344bf-d8b2-4174-8380-8404a3b81295#ref=rss)
-### dresscode
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-johann-wadephul-verteidigung-klima-cannes-dresscode](https://www.spiegel.de/politik/deutschland/news-des-tages-johann-wadephul-verteidigung-klima-cannes-dresscode-a-7f5344bf-d8b2-4174-8380-8404a3b81295#ref=rss)
-### macht
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-johann-wadephul-verteidigung-klima-cannes-dresscode](https://www.spiegel.de/politik/deutschland/news-des-tages-johann-wadephul-verteidigung-klima-cannes-dresscode-a-7f5344bf-d8b2-4174-8380-8404a3b81295#ref=rss)
-* [https://www.spiegel.de/auto/kiezblocks-berlin-stoppt-planungen-fuer-autoarme-viertel](https://www.spiegel.de/auto/kiezblocks-berlin-stoppt-planungen-fuer-autoarme-viertel-a-3cf5e991-1c23-40ae-85bf-da8da228db4d#ref=rss)
-### nato
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-johann-wadephul-verteidigung-klima-cannes-dresscode](https://www.spiegel.de/politik/deutschland/news-des-tages-johann-wadephul-verteidigung-klima-cannes-dresscode-a-7f5344bf-d8b2-4174-8380-8404a3b81295#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/nato-warum-auch-kita-kosten-in-die-ausgaben-quote-einfliessen](https://www.spiegel.de/wissenschaft/technik/nato-warum-auch-kita-kosten-in-die-ausgaben-quote-einfliessen-a-42e3da7c-33cd-4c0e-80f9-4b808cc8a0ea#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-johann-wadephul-verteidigung-klima-cannes-dresscode](https://www.spiegel.de/politik/deutschland/news-des-tages-johann-wadephul-verteidigung-klima-cannes-dresscode-a-7f5344bf-d8b2-4174-8380-8404a3b81295#ref=rss)
-* [https://www.spiegel.de/panorama/muell-trennung-wenn-ki-die-biotonne-kontrolliert](https://www.spiegel.de/panorama/muell-trennung-wenn-ki-die-biotonne-kontrolliert-a-30f5b7b5-741c-4c2b-8d5a-39d91b22b772#ref=rss)
-### ki
-
-* [https://www.spiegel.de/panorama/muell-trennung-wenn-ki-die-biotonne-kontrolliert](https://www.spiegel.de/panorama/muell-trennung-wenn-ki-die-biotonne-kontrolliert-a-30f5b7b5-741c-4c2b-8d5a-39d91b22b772#ref=rss)
-### beziehung
-
-* [https://www.spiegel.de/panorama/justiz/jugendanstalt-schleswig-mitarbeiterinnen-fuer-beziehung-zu-haeftling-bestraft](https://www.spiegel.de/panorama/justiz/jugendanstalt-schleswig-mitarbeiterinnen-fuer-beziehung-zu-haeftling-bestraft-a-c9f3e247-a8ca-42b6-8c7b-7009c51d87e8#ref=rss)
-### beiden
-
-* [https://www.spiegel.de/panorama/justiz/jugendanstalt-schleswig-mitarbeiterinnen-fuer-beziehung-zu-haeftling-bestraft](https://www.spiegel.de/panorama/justiz/jugendanstalt-schleswig-mitarbeiterinnen-fuer-beziehung-zu-haeftling-bestraft-a-c9f3e247-a8ca-42b6-8c7b-7009c51d87e8#ref=rss)
-* [https://www.spiegel.de/panorama/new-jersey-mutter-und-stiefvater-sollen-teenager-tochter-jahrelang-missbraucht-und-in-hundekaefig-gesperrt-haben](https://www.spiegel.de/panorama/new-jersey-mutter-und-stiefvater-sollen-teenager-tochter-jahrelang-missbraucht-und-in-hundekaefig-gesperrt-haben-a-e694c63b-88ce-4f2d-94ab-87aa9d401304#ref=rss)
-### sprechen
-
-* [https://www.spiegel.de/auto/kiezblocks-berlin-stoppt-planungen-fuer-autoarme-viertel](https://www.spiegel.de/auto/kiezblocks-berlin-stoppt-planungen-fuer-autoarme-viertel-a-3cf5e991-1c23-40ae-85bf-da8da228db4d#ref=rss)
-* [https://www.spiegel.de/ausland/josef-stalin-russland-streitet-ueber-diktator-relief-in-moskauer-metro](https://www.spiegel.de/ausland/josef-stalin-russland-streitet-ueber-diktator-relief-in-moskauer-metro-a-9abec73e-862d-4198-8c66-7cfcbb7ff3e0#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/josef-stalin-russland-streitet-ueber-diktator-relief-in-moskauer-metro](https://www.spiegel.de/ausland/josef-stalin-russland-streitet-ueber-diktator-relief-in-moskauer-metro-a-9abec73e-862d-4198-8c66-7cfcbb7ff3e0#ref=rss)
-* [https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-wolodymyr-selenskyj-reist-nicht-zu-friedensgespraechen-nach-istanbul](https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-wolodymyr-selenskyj-reist-nicht-zu-friedensgespraechen-nach-istanbul-a-54e307c4-02f9-445a-831b-b904f92d4179#ref=rss)
-### metro
-
-* [https://www.spiegel.de/ausland/josef-stalin-russland-streitet-ueber-diktator-relief-in-moskauer-metro](https://www.spiegel.de/ausland/josef-stalin-russland-streitet-ueber-diktator-relief-in-moskauer-metro-a-9abec73e-862d-4198-8c66-7cfcbb7ff3e0#ref=rss)
-### cosmo
-
-* [https://www.spiegel.de/kultur/kino/cosmo-jarvis-spielt-den-jungen-josef-stalin](https://www.spiegel.de/kultur/kino/cosmo-jarvis-spielt-den-jungen-josef-stalin-a-3cf91545-9e02-455f-b488-b368d99cf35a#ref=rss)
-### jarvis
-
-* [https://www.spiegel.de/kultur/kino/cosmo-jarvis-spielt-den-jungen-josef-stalin](https://www.spiegel.de/kultur/kino/cosmo-jarvis-spielt-den-jungen-josef-stalin-a-3cf91545-9e02-455f-b488-b368d99cf35a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/wohnungsmarkt-mehr-baugenehmigungen-experten-hoffen-auf-trendwende](https://www.spiegel.de/wirtschaft/service/wohnungsmarkt-mehr-baugenehmigungen-experten-hoffen-auf-trendwende-a-da100059-b5a0-43c2-a9e0-64fe2677bd73#ref=rss)
+* [https://www.spiegel.de/panorama/thailand-17-haftbefehle-nach-einsturz-von-hochhaus-in-bangkok-mit-mindestens-92-toten](https://www.spiegel.de/panorama/thailand-17-haftbefehle-nach-einsturz-von-hochhaus-in-bangkok-mit-mindestens-92-toten-a-153e0d44-63a1-472e-b37d-6a60b37b6a81#ref=rss)
 ### ukraine
 
-* [https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-wolodymyr-selenskyj-reist-nicht-zu-friedensgespraechen-nach-istanbul](https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-wolodymyr-selenskyj-reist-nicht-zu-friedensgespraechen-nach-istanbul-a-54e307c4-02f9-445a-831b-b904f92d4179#ref=rss)
-### wolodymyr
+* [https://www.spiegel.de/panorama/papst-leo-xiv-spricht-sich-fuer-frieden-und-gegen-abtreibung-aus](https://www.spiegel.de/panorama/papst-leo-xiv-spricht-sich-fuer-frieden-und-gegen-abtreibung-aus-a-b76f534c-79a5-4c05-8ff8-1f6cc4e82329#ref=rss)
+* [https://www.spiegel.de/ausland/mark-rutte-ruegt-wladimir-putins-abwesenheit-bei-gespraechen-als-fehler](https://www.spiegel.de/ausland/mark-rutte-ruegt-wladimir-putins-abwesenheit-bei-gespraechen-als-fehler-a-648165f5-862b-4b7e-a669-468aa5b153b8#ref=rss)
+* [https://www.spiegel.de/ausland/ruestung-gewinnt-russland-das-rennen-um-die-ki-drohnen](https://www.spiegel.de/ausland/ruestung-gewinnt-russland-das-rennen-um-die-ki-drohnen-a-bec983e8-3e87-456c-ae92-d660698d57d0#ref=rss)
+### russland
 
-* [https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-wolodymyr-selenskyj-reist-nicht-zu-friedensgespraechen-nach-istanbul](https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-wolodymyr-selenskyj-reist-nicht-zu-friedensgespraechen-nach-istanbul-a-54e307c4-02f9-445a-831b-b904f92d4179#ref=rss)
-### selenskyj
+* [https://www.spiegel.de/politik/deutschland/russisches-spionageflugzeug-bei-nato-uebung-in-litauen](https://www.spiegel.de/politik/deutschland/russisches-spionageflugzeug-bei-nato-uebung-in-litauen-a-af18c80f-45a6-4d44-a838-e2f152d0f8a4#ref=rss)
+* [https://www.spiegel.de/ausland/mark-rutte-ruegt-wladimir-putins-abwesenheit-bei-gespraechen-als-fehler](https://www.spiegel.de/ausland/mark-rutte-ruegt-wladimir-putins-abwesenheit-bei-gespraechen-als-fehler-a-648165f5-862b-4b7e-a669-468aa5b153b8#ref=rss)
+* [https://www.spiegel.de/ausland/ruestung-gewinnt-russland-das-rennen-um-die-ki-drohnen](https://www.spiegel.de/ausland/ruestung-gewinnt-russland-das-rennen-um-die-ki-drohnen-a-bec983e8-3e87-456c-ae92-d660698d57d0#ref=rss)
+### russische
 
-* [https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-wolodymyr-selenskyj-reist-nicht-zu-friedensgespraechen-nach-istanbul](https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-wolodymyr-selenskyj-reist-nicht-zu-friedensgespraechen-nach-istanbul-a-54e307c4-02f9-445a-831b-b904f92d4179#ref=rss)
-### reist
+* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-wehrt-sich-gegen-russische-propaganda-ueber-ihren-grossvater](https://www.spiegel.de/politik/deutschland/annalena-baerbock-wehrt-sich-gegen-russische-propaganda-ueber-ihren-grossvater-a-f1144434-83bc-4131-8623-14b5d07ee72e#ref=rss)
+* [https://www.spiegel.de/ausland/ruestung-gewinnt-russland-das-rennen-um-die-ki-drohnen](https://www.spiegel.de/ausland/ruestung-gewinnt-russland-das-rennen-um-die-ki-drohnen-a-bec983e8-3e87-456c-ae92-d660698d57d0#ref=rss)
+### trump
 
-* [https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-wolodymyr-selenskyj-reist-nicht-zu-friedensgespraechen-nach-istanbul](https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-wolodymyr-selenskyj-reist-nicht-zu-friedensgespraechen-nach-istanbul-a-54e307c4-02f9-445a-831b-b904f92d4179#ref=rss)
-### istanbul
+* [https://www.spiegel.de/politik/deutschland/james-comey-ermittlung-gegen-ex-fbi-chef-wegen-mutmasslicher-morddrohung-gegen-trump](https://www.spiegel.de/politik/deutschland/james-comey-ermittlung-gegen-ex-fbi-chef-wegen-mutmasslicher-morddrohung-gegen-trump-a-6562d668-f093-4ee4-9973-b81fc1225b0e#ref=rss)
+* [https://www.spiegel.de/panorama/leute/melania-trump-bronze-statue-der-us-first-lady-in-slowenien-gestohlen](https://www.spiegel.de/panorama/leute/melania-trump-bronze-statue-der-us-first-lady-in-slowenien-gestohlen-a-a1a13743-7c87-4e77-8bae-58f4740f6c96#ref=rss)
+### übernehmen
 
-* [https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-wolodymyr-selenskyj-reist-nicht-zu-friedensgespraechen-nach-istanbul](https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-wolodymyr-selenskyj-reist-nicht-zu-friedensgespraechen-nach-istanbul-a-54e307c4-02f9-445a-831b-b904f92d4179#ref=rss)
-### stattdessen
+* [https://www.spiegel.de/kultur/kino/fatih-akin-alkohol-half-bei-der-entscheidung-fuer-ein-filmprojekt](https://www.spiegel.de/kultur/kino/fatih-akin-alkohol-half-bei-der-entscheidung-fuer-ein-filmprojekt-a-4395225b-8132-4059-ae05-e24d68d99e5d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-soll-vorsitz-des-ausschusses-forschung-uebernehmen](https://www.spiegel.de/politik/deutschland/karl-lauterbach-soll-vorsitz-des-ausschusses-forschung-uebernehmen-a-889794a7-5e82-4597-b0fc-ce54c8f24504#ref=rss)
+### basel
 
-* [https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-wolodymyr-selenskyj-reist-nicht-zu-friedensgespraechen-nach-istanbul](https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-wolodymyr-selenskyj-reist-nicht-zu-friedensgespraechen-nach-istanbul-a-54e307c4-02f9-445a-831b-b904f92d4179#ref=rss)
-* [https://www.spiegel.de/sport/fussball/gianni-infantino-ist-verspaetet-zum-fifa-kongress-und-weilt-stattdessen-mit-donald-trump-am-golf](https://www.spiegel.de/sport/fussball/gianni-infantino-ist-verspaetet-zum-fifa-kongress-und-weilt-stattdessen-mit-donald-trump-am-golf-a-2983753b-91d4-4a9b-83a6-d6b9c4d60ece#ref=rss)
-### richard
+* [https://www.spiegel.de/ausland/esc-in-basel-wie-der-umgang-mit-israel-den-eurovision-song-contest-spaltet](https://www.spiegel.de/ausland/esc-in-basel-wie-der-umgang-mit-israel-den-eurovision-song-contest-spaltet-a-5da75e82-9ef6-4cb8-a0cd-e4aa7d122792#ref=rss)
+* [https://www.spiegel.de/kultur/esc-2025-in-basel-halbfinale-das-war-womoeglich-ein-sexzwinkerer-zuviel](https://www.spiegel.de/kultur/esc-2025-in-basel-halbfinale-das-war-womoeglich-ein-sexzwinkerer-zuviel-a-c46b921e-8604-4e80-919a-4d8ae438a22c#ref=rss)
+### laut
 
-* [https://www.spiegel.de/wissenschaft/mensch/atombomben-richard-garwin-der-designer-der-wasserstoffbombe-ist-tot](https://www.spiegel.de/wissenschaft/mensch/atombomben-richard-garwin-der-designer-der-wasserstoffbombe-ist-tot-a-476edf0a-91a2-4d8e-ad0a-56691e3b762b#ref=rss)
-### garwin
+* [https://www.spiegel.de/start/wirtschaftswissenschaftler-in-deutschland-studierende-favorisieren-automobil-und-techunternehmen](https://www.spiegel.de/start/wirtschaftswissenschaftler-in-deutschland-studierende-favorisieren-automobil-und-techunternehmen-a-641b28f9-2a6e-43f5-a710-57766ee340bf#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-regierungserklaerung-wurde-von-olaf-scholz-redenschreiber-entworfen](https://www.spiegel.de/politik/deutschland/friedrich-merz-regierungserklaerung-wurde-von-olaf-scholz-redenschreiber-entworfen-a-e1eba533-a47d-4e79-829a-47cb9772ea20#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/bayer-will-offenbar-glyphosat-prozesse-beenden-notfalls-durch-monsanto-pleite](https://www.spiegel.de/wirtschaft/unternehmen/bayer-will-offenbar-glyphosat-prozesse-beenden-notfalls-durch-monsanto-pleite-a-4ddf3371-91ad-4455-8379-2865f21bfab9#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/wissenschaft/mensch/atombomben-richard-garwin-der-designer-der-wasserstoffbombe-ist-tot](https://www.spiegel.de/wissenschaft/mensch/atombomben-richard-garwin-der-designer-der-wasserstoffbombe-ist-tot-a-476edf0a-91a2-4d8e-ad0a-56691e3b762b#ref=rss)
-### wasserstoffbombe
+* [https://www.spiegel.de/ausland/ruestung-gewinnt-russland-das-rennen-um-die-ki-drohnen](https://www.spiegel.de/ausland/ruestung-gewinnt-russland-das-rennen-um-die-ki-drohnen-a-bec983e8-3e87-456c-ae92-d660698d57d0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/bayer-will-offenbar-glyphosat-prozesse-beenden-notfalls-durch-monsanto-pleite](https://www.spiegel.de/wirtschaft/unternehmen/bayer-will-offenbar-glyphosat-prozesse-beenden-notfalls-durch-monsanto-pleite-a-4ddf3371-91ad-4455-8379-2865f21bfab9#ref=rss)
+* [https://www.spiegel.de/panorama/sean-diddy-combs-casandra-ventura-von-muss-in-prozess-explizite-textnachrichten-vorlesen](https://www.spiegel.de/panorama/sean-diddy-combs-casandra-ventura-von-muss-in-prozess-explizite-textnachrichten-vorlesen-a-547c7f01-38ca-4f70-a166-2c02f5b06961#ref=rss)
+### bayer
 
-* [https://www.spiegel.de/wissenschaft/mensch/atombomben-richard-garwin-der-designer-der-wasserstoffbombe-ist-tot](https://www.spiegel.de/wissenschaft/mensch/atombomben-richard-garwin-der-designer-der-wasserstoffbombe-ist-tot-a-476edf0a-91a2-4d8e-ad0a-56691e3b762b#ref=rss)
-### new
+* [https://www.spiegel.de/wirtschaft/unternehmen/bayer-will-offenbar-glyphosat-prozesse-beenden-notfalls-durch-monsanto-pleite](https://www.spiegel.de/wirtschaft/unternehmen/bayer-will-offenbar-glyphosat-prozesse-beenden-notfalls-durch-monsanto-pleite-a-4ddf3371-91ad-4455-8379-2865f21bfab9#ref=rss)
+### applaus
 
-* [https://www.spiegel.de/panorama/new-jersey-mutter-und-stiefvater-sollen-teenager-tochter-jahrelang-missbraucht-und-in-hundekaefig-gesperrt-haben](https://www.spiegel.de/panorama/new-jersey-mutter-und-stiefvater-sollen-teenager-tochter-jahrelang-missbraucht-und-in-hundekaefig-gesperrt-haben-a-e694c63b-88ce-4f2d-94ab-87aa9d401304#ref=rss)
-### jersey
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-regierungserklaerung-eine-sternstunde-kolumne](https://www.spiegel.de/politik/deutschland/friedrich-merz-regierungserklaerung-eine-sternstunde-kolumne-a-34f8d87f-4af4-41f2-b557-41b4f1c3f347#ref=rss)
+* [https://www.spiegel.de/kultur/kino/fatih-akin-alkohol-half-bei-der-entscheidung-fuer-ein-filmprojekt](https://www.spiegel.de/kultur/kino/fatih-akin-alkohol-half-bei-der-entscheidung-fuer-ein-filmprojekt-a-4395225b-8132-4059-ae05-e24d68d99e5d#ref=rss)
+### ersten
 
-* [https://www.spiegel.de/panorama/new-jersey-mutter-und-stiefvater-sollen-teenager-tochter-jahrelang-missbraucht-und-in-hundekaefig-gesperrt-haben](https://www.spiegel.de/panorama/new-jersey-mutter-und-stiefvater-sollen-teenager-tochter-jahrelang-missbraucht-und-in-hundekaefig-gesperrt-haben-a-e694c63b-88ce-4f2d-94ab-87aa9d401304#ref=rss)
-### missbraucht
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-regierungserklaerung-eine-sternstunde-kolumne](https://www.spiegel.de/politik/deutschland/friedrich-merz-regierungserklaerung-eine-sternstunde-kolumne-a-34f8d87f-4af4-41f2-b557-41b4f1c3f347#ref=rss)
+* [https://www.spiegel.de/panorama/thailand-17-haftbefehle-nach-einsturz-von-hochhaus-in-bangkok-mit-mindestens-92-toten](https://www.spiegel.de/panorama/thailand-17-haftbefehle-nach-einsturz-von-hochhaus-in-bangkok-mit-mindestens-92-toten-a-153e0d44-63a1-472e-b37d-6a60b37b6a81#ref=rss)
+### erste
 
-* [https://www.spiegel.de/panorama/new-jersey-mutter-und-stiefvater-sollen-teenager-tochter-jahrelang-missbraucht-und-in-hundekaefig-gesperrt-haben](https://www.spiegel.de/panorama/new-jersey-mutter-und-stiefvater-sollen-teenager-tochter-jahrelang-missbraucht-und-in-hundekaefig-gesperrt-haben-a-e694c63b-88ce-4f2d-94ab-87aa9d401304#ref=rss)
-### abschied
+* [https://www.spiegel.de/wirtschaft/service/wohnungsmarkt-mehr-baugenehmigungen-experten-hoffen-auf-trendwende](https://www.spiegel.de/wirtschaft/service/wohnungsmarkt-mehr-baugenehmigungen-experten-hoffen-auf-trendwende-a-da100059-b5a0-43c2-a9e0-64fe2677bd73#ref=rss)
+* [https://www.spiegel.de/panorama/leute/melania-trump-bronze-statue-der-us-first-lady-in-slowenien-gestohlen](https://www.spiegel.de/panorama/leute/melania-trump-bronze-statue-der-us-first-lady-in-slowenien-gestohlen-a-a1a13743-7c87-4e77-8bae-58f4740f6c96#ref=rss)
+### allerdings
 
-* [https://www.spiegel.de/panorama/friedlaender-die-grosse-ueberlebende](https://www.spiegel.de/panorama/friedlaender-die-grosse-ueberlebende-a-0bcf5f6b-0872-47f6-9db1-c19d38fa25b2#ref=rss)
-### margot
+* [https://www.spiegel.de/wirtschaft/service/wohnungsmarkt-mehr-baugenehmigungen-experten-hoffen-auf-trendwende](https://www.spiegel.de/wirtschaft/service/wohnungsmarkt-mehr-baugenehmigungen-experten-hoffen-auf-trendwende-a-da100059-b5a0-43c2-a9e0-64fe2677bd73#ref=rss)
+* [https://www.spiegel.de/ausland/mark-rutte-ruegt-wladimir-putins-abwesenheit-bei-gespraechen-als-fehler](https://www.spiegel.de/ausland/mark-rutte-ruegt-wladimir-putins-abwesenheit-bei-gespraechen-als-fehler-a-648165f5-862b-4b7e-a669-468aa5b153b8#ref=rss)
+### papst
 
-* [https://www.spiegel.de/panorama/friedlaender-die-grosse-ueberlebende](https://www.spiegel.de/panorama/friedlaender-die-grosse-ueberlebende-a-0bcf5f6b-0872-47f6-9db1-c19d38fa25b2#ref=rss)
-### friedländer
+* [https://www.spiegel.de/panorama/papst-leo-xiv-spricht-sich-fuer-frieden-und-gegen-abtreibung-aus](https://www.spiegel.de/panorama/papst-leo-xiv-spricht-sich-fuer-frieden-und-gegen-abtreibung-aus-a-b76f534c-79a5-4c05-8ff8-1f6cc4e82329#ref=rss)
+### leo
 
-* [https://www.spiegel.de/panorama/friedlaender-die-grosse-ueberlebende](https://www.spiegel.de/panorama/friedlaender-die-grosse-ueberlebende-a-0bcf5f6b-0872-47f6-9db1-c19d38fa25b2#ref=rss)
+* [https://www.spiegel.de/panorama/papst-leo-xiv-spricht-sich-fuer-frieden-und-gegen-abtreibung-aus](https://www.spiegel.de/panorama/papst-leo-xiv-spricht-sich-fuer-frieden-und-gegen-abtreibung-aus-a-b76f534c-79a5-4c05-8ff8-1f6cc4e82329#ref=rss)
+### xiv
+
+* [https://www.spiegel.de/panorama/papst-leo-xiv-spricht-sich-fuer-frieden-und-gegen-abtreibung-aus](https://www.spiegel.de/panorama/papst-leo-xiv-spricht-sich-fuer-frieden-und-gegen-abtreibung-aus-a-b76f534c-79a5-4c05-8ff8-1f6cc4e82329#ref=rss)
+### abtreibung
+
+* [https://www.spiegel.de/panorama/papst-leo-xiv-spricht-sich-fuer-frieden-und-gegen-abtreibung-aus](https://www.spiegel.de/panorama/papst-leo-xiv-spricht-sich-fuer-frieden-und-gegen-abtreibung-aus-a-b76f534c-79a5-4c05-8ff8-1f6cc4e82329#ref=rss)
+### archäopteryx
+
+* [https://www.spiegel.de/wissenschaft/natur/archaeopteryx-flatterte-wohl-wie-ein-huehnchen](https://www.spiegel.de/wissenschaft/natur/archaeopteryx-flatterte-wohl-wie-ein-huehnchen-a-bbc74607-c3b4-414a-9bce-1e00f7a0a275#ref=rss)
 ### wohl
 
-* [https://www.spiegel.de/panorama/friedlaender-die-grosse-ueberlebende](https://www.spiegel.de/panorama/friedlaender-die-grosse-ueberlebende-a-0bcf5f6b-0872-47f6-9db1-c19d38fa25b2#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-und-brandenburg-polizei-nimmt-vier-maenner-bei-ramschbuecher-razzia-fest](https://www.spiegel.de/panorama/berlin-und-brandenburg-polizei-nimmt-vier-maenner-bei-ramschbuecher-razzia-fest-a-6576c1cc-e13a-46b5-ac36-381e0aa8eee4#ref=rss)
-### klare
+* [https://www.spiegel.de/wissenschaft/natur/archaeopteryx-flatterte-wohl-wie-ein-huehnchen](https://www.spiegel.de/wissenschaft/natur/archaeopteryx-flatterte-wohl-wie-ein-huehnchen-a-bbc74607-c3b4-414a-9bce-1e00f7a0a275#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-wie-die-affaere-um-tim-lemperle-koeln-mal-wieder-in-aufruhr-versetzt](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-wie-die-affaere-um-tim-lemperle-koeln-mal-wieder-in-aufruhr-versetzt-a-68c14b53-ca1d-4af6-841f-811fd56c5fd5#ref=rss)
+### kommen
 
-* [https://www.spiegel.de/panorama/friedlaender-die-grosse-ueberlebende](https://www.spiegel.de/panorama/friedlaender-die-grosse-ueberlebende-a-0bcf5f6b-0872-47f6-9db1-c19d38fa25b2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/kantinenessen-ranking-spaghetti-bolognese-am-beliebtesten-currywurst-rutscht-ab](https://www.spiegel.de/wirtschaft/service/kantinenessen-ranking-spaghetti-bolognese-am-beliebtesten-currywurst-rutscht-ab-a-9a77db5e-8251-45bf-ad15-7453b67b17e9#ref=rss)
-### selbstauflösung
+* [https://www.spiegel.de/wissenschaft/natur/archaeopteryx-flatterte-wohl-wie-ein-huehnchen](https://www.spiegel.de/wissenschaft/natur/archaeopteryx-flatterte-wohl-wie-ein-huehnchen-a-bbc74607-c3b4-414a-9bce-1e00f7a0a275#ref=rss)
+* [https://www.spiegel.de/ausland/mark-rutte-ruegt-wladimir-putins-abwesenheit-bei-gespraechen-als-fehler](https://www.spiegel.de/ausland/mark-rutte-ruegt-wladimir-putins-abwesenheit-bei-gespraechen-als-fehler-a-648165f5-862b-4b7e-a669-468aa5b153b8#ref=rss)
+### litauen
 
-* [https://www.spiegel.de/ausland/tuerkei-die-selbstaufloesung-der-pkk-ist-ein-erfolg-fuer-recep-tayyip-erdogan-aber-mit-risiken](https://www.spiegel.de/ausland/tuerkei-die-selbstaufloesung-der-pkk-ist-ein-erfolg-fuer-recep-tayyip-erdogan-aber-mit-risiken-a-7cf86c23-d0c9-47bd-80e9-db27881190a8#ref=rss)
-### pkk
+* [https://www.spiegel.de/politik/deutschland/russisches-spionageflugzeug-bei-nato-uebung-in-litauen](https://www.spiegel.de/politik/deutschland/russisches-spionageflugzeug-bei-nato-uebung-in-litauen-a-af18c80f-45a6-4d44-a838-e2f152d0f8a4#ref=rss)
+### natoübung
 
-* [https://www.spiegel.de/ausland/tuerkei-die-selbstaufloesung-der-pkk-ist-ein-erfolg-fuer-recep-tayyip-erdogan-aber-mit-risiken](https://www.spiegel.de/ausland/tuerkei-die-selbstaufloesung-der-pkk-ist-ein-erfolg-fuer-recep-tayyip-erdogan-aber-mit-risiken-a-7cf86c23-d0c9-47bd-80e9-db27881190a8#ref=rss)
-### erdoğan
+* [https://www.spiegel.de/politik/deutschland/russisches-spionageflugzeug-bei-nato-uebung-in-litauen](https://www.spiegel.de/politik/deutschland/russisches-spionageflugzeug-bei-nato-uebung-in-litauen-a-af18c80f-45a6-4d44-a838-e2f152d0f8a4#ref=rss)
+### spiegelinformationen
 
-* [https://www.spiegel.de/ausland/tuerkei-die-selbstaufloesung-der-pkk-ist-ein-erfolg-fuer-recep-tayyip-erdogan-aber-mit-risiken](https://www.spiegel.de/ausland/tuerkei-die-selbstaufloesung-der-pkk-ist-ein-erfolg-fuer-recep-tayyip-erdogan-aber-mit-risiken-a-7cf86c23-d0c9-47bd-80e9-db27881190a8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/russisches-spionageflugzeug-bei-nato-uebung-in-litauen](https://www.spiegel.de/politik/deutschland/russisches-spionageflugzeug-bei-nato-uebung-in-litauen-a-af18c80f-45a6-4d44-a838-e2f152d0f8a4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-soll-vorsitz-des-ausschusses-forschung-uebernehmen](https://www.spiegel.de/politik/deutschland/karl-lauterbach-soll-vorsitz-des-ausschusses-forschung-uebernehmen-a-889794a7-5e82-4597-b0fc-ce54c8f24504#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/politik/deutschland/russisches-spionageflugzeug-bei-nato-uebung-in-litauen](https://www.spiegel.de/politik/deutschland/russisches-spionageflugzeug-bei-nato-uebung-in-litauen-a-af18c80f-45a6-4d44-a838-e2f152d0f8a4#ref=rss)
+* [https://www.spiegel.de/ausland/mark-rutte-ruegt-wladimir-putins-abwesenheit-bei-gespraechen-als-fehler](https://www.spiegel.de/ausland/mark-rutte-ruegt-wladimir-putins-abwesenheit-bei-gespraechen-als-fehler-a-648165f5-862b-4b7e-a669-468aa5b153b8#ref=rss)
 ### gianni
 
-* [https://www.spiegel.de/sport/fussball/gianni-infantino-ist-verspaetet-zum-fifa-kongress-und-weilt-stattdessen-mit-donald-trump-am-golf](https://www.spiegel.de/sport/fussball/gianni-infantino-ist-verspaetet-zum-fifa-kongress-und-weilt-stattdessen-mit-donald-trump-am-golf-a-2983753b-91d4-4a9b-83a6-d6b9c4d60ece#ref=rss)
+* [https://www.spiegel.de/sport/fussball/gianni-infantino-in-asuncion-der-protest-der-europaeer-wird-den-fifa-boss-nicht-jucken](https://www.spiegel.de/sport/fussball/gianni-infantino-in-asuncion-der-protest-der-europaeer-wird-den-fifa-boss-nicht-jucken-a-b8f93c41-156a-43e2-9a9a-8f72460f68b1#ref=rss)
 ### infantino
 
-* [https://www.spiegel.de/sport/fussball/gianni-infantino-ist-verspaetet-zum-fifa-kongress-und-weilt-stattdessen-mit-donald-trump-am-golf](https://www.spiegel.de/sport/fussball/gianni-infantino-ist-verspaetet-zum-fifa-kongress-und-weilt-stattdessen-mit-donald-trump-am-golf-a-2983753b-91d4-4a9b-83a6-d6b9c4d60ece#ref=rss)
-### kongress
+* [https://www.spiegel.de/sport/fussball/gianni-infantino-in-asuncion-der-protest-der-europaeer-wird-den-fifa-boss-nicht-jucken](https://www.spiegel.de/sport/fussball/gianni-infantino-in-asuncion-der-protest-der-europaeer-wird-den-fifa-boss-nicht-jucken-a-b8f93c41-156a-43e2-9a9a-8f72460f68b1#ref=rss)
+### ließen
 
-* [https://www.spiegel.de/sport/fussball/gianni-infantino-ist-verspaetet-zum-fifa-kongress-und-weilt-stattdessen-mit-donald-trump-am-golf](https://www.spiegel.de/sport/fussball/gianni-infantino-ist-verspaetet-zum-fifa-kongress-und-weilt-stattdessen-mit-donald-trump-am-golf-a-2983753b-91d4-4a9b-83a6-d6b9c4d60ece#ref=rss)
-### golf
+* [https://www.spiegel.de/sport/fussball/gianni-infantino-in-asuncion-der-protest-der-europaeer-wird-den-fifa-boss-nicht-jucken](https://www.spiegel.de/sport/fussball/gianni-infantino-in-asuncion-der-protest-der-europaeer-wird-den-fifa-boss-nicht-jucken-a-b8f93c41-156a-43e2-9a9a-8f72460f68b1#ref=rss)
+* [https://www.spiegel.de/geschichte/namibia-koloniale-kegelbrueder-in-kolmannskuppe](https://www.spiegel.de/geschichte/namibia-koloniale-kegelbrueder-in-kolmannskuppe-a-327a5123-6ff0-4158-8a37-93b8a406b094#ref=rss)
+### verbietet
 
-* [https://www.spiegel.de/sport/fussball/gianni-infantino-ist-verspaetet-zum-fifa-kongress-und-weilt-stattdessen-mit-donald-trump-am-golf](https://www.spiegel.de/sport/fussball/gianni-infantino-ist-verspaetet-zum-fifa-kongress-und-weilt-stattdessen-mit-donald-trump-am-golf-a-2983753b-91d4-4a9b-83a6-d6b9c4d60ece#ref=rss)
-### natoluftraum
+* [https://www.spiegel.de/wissenschaft/florida-verbietet-fluoridzusatz-in-oeffentlichen-wassersystemen](https://www.spiegel.de/wissenschaft/florida-verbietet-fluoridzusatz-in-oeffentlichen-wassersystemen-a-1a87461d-27e9-4314-aa9e-558217c11030#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/bremen-verbietet-handys-an-schulen](https://www.spiegel.de/panorama/bildung/bremen-verbietet-handys-an-schulen-a-54562a7b-ed3a-4c73-93c4-e83c01d917e5#ref=rss)
+### annalena
 
-* [https://www.spiegel.de/ausland/estland-aufregung-nach-eindringen-russischen-kampfjets-in-nato-luftraum](https://www.spiegel.de/ausland/estland-aufregung-nach-eindringen-russischen-kampfjets-in-nato-luftraum-a-9c36ece5-c3a5-4f12-bdbf-2ea2f0b7e9de#ref=rss)
-### vier
+* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-wehrt-sich-gegen-russische-propaganda-ueber-ihren-grossvater](https://www.spiegel.de/politik/deutschland/annalena-baerbock-wehrt-sich-gegen-russische-propaganda-ueber-ihren-grossvater-a-f1144434-83bc-4131-8623-14b5d07ee72e#ref=rss)
+### baerbock
 
-* [https://www.spiegel.de/panorama/berlin-und-brandenburg-polizei-nimmt-vier-maenner-bei-ramschbuecher-razzia-fest](https://www.spiegel.de/panorama/berlin-und-brandenburg-polizei-nimmt-vier-maenner-bei-ramschbuecher-razzia-fest-a-6576c1cc-e13a-46b5-ac36-381e0aa8eee4#ref=rss)
-### spaghetti
+* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-wehrt-sich-gegen-russische-propaganda-ueber-ihren-grossvater](https://www.spiegel.de/politik/deutschland/annalena-baerbock-wehrt-sich-gegen-russische-propaganda-ueber-ihren-grossvater-a-f1144434-83bc-4131-8623-14b5d07ee72e#ref=rss)
+### propaganda
 
-* [https://www.spiegel.de/wirtschaft/service/kantinenessen-ranking-spaghetti-bolognese-am-beliebtesten-currywurst-rutscht-ab](https://www.spiegel.de/wirtschaft/service/kantinenessen-ranking-spaghetti-bolognese-am-beliebtesten-currywurst-rutscht-ab-a-9a77db5e-8251-45bf-ad15-7453b67b17e9#ref=rss)
-### bolognese
+* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-wehrt-sich-gegen-russische-propaganda-ueber-ihren-grossvater](https://www.spiegel.de/politik/deutschland/annalena-baerbock-wehrt-sich-gegen-russische-propaganda-ueber-ihren-grossvater-a-f1144434-83bc-4131-8623-14b5d07ee72e#ref=rss)
+### nrw
 
-* [https://www.spiegel.de/wirtschaft/service/kantinenessen-ranking-spaghetti-bolognese-am-beliebtesten-currywurst-rutscht-ab](https://www.spiegel.de/wirtschaft/service/kantinenessen-ranking-spaghetti-bolognese-am-beliebtesten-currywurst-rutscht-ab-a-9a77db5e-8251-45bf-ad15-7453b67b17e9#ref=rss)
+* [https://www.spiegel.de/auto/nrw-staus-drohen-wegen-autobahnsperrungen](https://www.spiegel.de/auto/nrw-staus-drohen-wegen-autobahnsperrungen-a-c680da97-4996-46f4-8f8f-a77a702413a6#ref=rss)
+### kandidaten
+
+* [https://www.spiegel.de/ausland/polen-die-kandidaten-frauen-im-praesidentschaftswahlkampf](https://www.spiegel.de/ausland/polen-die-kandidaten-frauen-im-praesidentschaftswahlkampf-a-1188caf6-5f98-4575-889c-6656525e9577#ref=rss)
+* [https://www.spiegel.de/kultur/esc-2025-in-basel-halbfinale-das-war-womoeglich-ein-sexzwinkerer-zuviel](https://www.spiegel.de/kultur/esc-2025-in-basel-halbfinale-das-war-womoeglich-ein-sexzwinkerer-zuviel-a-c46b921e-8604-4e80-919a-4d8ae438a22c#ref=rss)
+### handynutzung
+
+* [https://www.spiegel.de/netzwelt/handy-nutzung-ein-drittel-der-deutschen-kennt-eigene-nummer-nicht-auswendig](https://www.spiegel.de/netzwelt/handy-nutzung-ein-drittel-der-deutschen-kennt-eigene-nummer-nicht-auswendig-a-69995fc9-e06f-43c1-832d-b9428534263c#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/bremen-verbietet-handys-an-schulen](https://www.spiegel.de/panorama/bildung/bremen-verbietet-handys-an-schulen-a-54562a7b-ed3a-4c73-93c4-e83c01d917e5#ref=rss)
+### kennt
+
+* [https://www.spiegel.de/netzwelt/handy-nutzung-ein-drittel-der-deutschen-kennt-eigene-nummer-nicht-auswendig](https://www.spiegel.de/netzwelt/handy-nutzung-ein-drittel-der-deutschen-kennt-eigene-nummer-nicht-auswendig-a-69995fc9-e06f-43c1-832d-b9428534263c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-wie-die-affaere-um-tim-lemperle-koeln-mal-wieder-in-aufruhr-versetzt](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-wie-die-affaere-um-tim-lemperle-koeln-mal-wieder-in-aufruhr-versetzt-a-68c14b53-ca1d-4af6-841f-811fd56c5fd5#ref=rss)
+### eigene
+
+* [https://www.spiegel.de/netzwelt/handy-nutzung-ein-drittel-der-deutschen-kennt-eigene-nummer-nicht-auswendig](https://www.spiegel.de/netzwelt/handy-nutzung-ein-drittel-der-deutschen-kennt-eigene-nummer-nicht-auswendig-a-69995fc9-e06f-43c1-832d-b9428534263c#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/netzwelt/handy-nutzung-ein-drittel-der-deutschen-kennt-eigene-nummer-nicht-auswendig](https://www.spiegel.de/netzwelt/handy-nutzung-ein-drittel-der-deutschen-kennt-eigene-nummer-nicht-auswendig-a-69995fc9-e06f-43c1-832d-b9428534263c#ref=rss)
+* [https://www.spiegel.de/geschichte/namibia-koloniale-kegelbrueder-in-kolmannskuppe](https://www.spiegel.de/geschichte/namibia-koloniale-kegelbrueder-in-kolmannskuppe-a-327a5123-6ff0-4158-8a37-93b8a406b094#ref=rss)
+### umfrage
+
+* [https://www.spiegel.de/netzwelt/handy-nutzung-ein-drittel-der-deutschen-kennt-eigene-nummer-nicht-auswendig](https://www.spiegel.de/netzwelt/handy-nutzung-ein-drittel-der-deutschen-kennt-eigene-nummer-nicht-auswendig-a-69995fc9-e06f-43c1-832d-b9428534263c#ref=rss)
+* [https://www.spiegel.de/start/wirtschaftswissenschaftler-in-deutschland-studierende-favorisieren-automobil-und-techunternehmen](https://www.spiegel.de/start/wirtschaftswissenschaftler-in-deutschland-studierende-favorisieren-automobil-und-techunternehmen-a-641b28f9-2a6e-43f5-a710-57766ee340bf#ref=rss)
+### juristen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/eu-lieferkettengesetz-juristen-warnen-vor-klimaschutz-klagewelle-gegen-unternehmen](https://www.spiegel.de/wirtschaft/unternehmen/eu-lieferkettengesetz-juristen-warnen-vor-klimaschutz-klagewelle-gegen-unternehmen-a-da7af63b-795d-46ca-af9e-82ad17e5036c#ref=rss)
+### warnen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/eu-lieferkettengesetz-juristen-warnen-vor-klimaschutz-klagewelle-gegen-unternehmen](https://www.spiegel.de/wirtschaft/unternehmen/eu-lieferkettengesetz-juristen-warnen-vor-klimaschutz-klagewelle-gegen-unternehmen-a-da7af63b-795d-46ca-af9e-82ad17e5036c#ref=rss)
+### unternehmen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/eu-lieferkettengesetz-juristen-warnen-vor-klimaschutz-klagewelle-gegen-unternehmen](https://www.spiegel.de/wirtschaft/unternehmen/eu-lieferkettengesetz-juristen-warnen-vor-klimaschutz-klagewelle-gegen-unternehmen-a-da7af63b-795d-46ca-af9e-82ad17e5036c#ref=rss)
+* [https://www.spiegel.de/start/wirtschaftswissenschaftler-in-deutschland-studierende-favorisieren-automobil-und-techunternehmen](https://www.spiegel.de/start/wirtschaftswissenschaftler-in-deutschland-studierende-favorisieren-automobil-und-techunternehmen-a-641b28f9-2a6e-43f5-a710-57766ee340bf#ref=rss)
+### briten
+
+* [https://www.spiegel.de/panorama/justiz/tschechien-deutscher-tourist-wegen-toedlichen-schlags-gegen-briten-in-prag-zu-sieben-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/tschechien-deutscher-tourist-wegen-toedlichen-schlags-gegen-briten-in-prag-zu-sieben-jahren-haft-verurteilt-a-c51e9b9d-18a7-450c-856e-4dd8bc323a7d#ref=rss)
+### prag
+
+* [https://www.spiegel.de/panorama/justiz/tschechien-deutscher-tourist-wegen-toedlichen-schlags-gegen-briten-in-prag-zu-sieben-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/tschechien-deutscher-tourist-wegen-toedlichen-schlags-gegen-briten-in-prag-zu-sieben-jahren-haft-verurteilt-a-c51e9b9d-18a7-450c-856e-4dd8bc323a7d#ref=rss)
+### sieben
+
+* [https://www.spiegel.de/panorama/justiz/tschechien-deutscher-tourist-wegen-toedlichen-schlags-gegen-briten-in-prag-zu-sieben-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/tschechien-deutscher-tourist-wegen-toedlichen-schlags-gegen-briten-in-prag-zu-sieben-jahren-haft-verurteilt-a-c51e9b9d-18a7-450c-856e-4dd8bc323a7d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/bayer-will-offenbar-glyphosat-prozesse-beenden-notfalls-durch-monsanto-pleite](https://www.spiegel.de/wirtschaft/unternehmen/bayer-will-offenbar-glyphosat-prozesse-beenden-notfalls-durch-monsanto-pleite-a-4ddf3371-91ad-4455-8379-2865f21bfab9#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/panorama/justiz/tschechien-deutscher-tourist-wegen-toedlichen-schlags-gegen-briten-in-prag-zu-sieben-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/tschechien-deutscher-tourist-wegen-toedlichen-schlags-gegen-briten-in-prag-zu-sieben-jahren-haft-verurteilt-a-c51e9b9d-18a7-450c-856e-4dd8bc323a7d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/bayer-will-offenbar-glyphosat-prozesse-beenden-notfalls-durch-monsanto-pleite](https://www.spiegel.de/wirtschaft/unternehmen/bayer-will-offenbar-glyphosat-prozesse-beenden-notfalls-durch-monsanto-pleite-a-4ddf3371-91ad-4455-8379-2865f21bfab9#ref=rss)
+### verurteilt
+
+* [https://www.spiegel.de/panorama/justiz/tschechien-deutscher-tourist-wegen-toedlichen-schlags-gegen-briten-in-prag-zu-sieben-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/tschechien-deutscher-tourist-wegen-toedlichen-schlags-gegen-briten-in-prag-zu-sieben-jahren-haft-verurteilt-a-c51e9b9d-18a7-450c-856e-4dd8bc323a7d#ref=rss)
+### james
+
+* [https://www.spiegel.de/politik/deutschland/james-comey-ermittlung-gegen-ex-fbi-chef-wegen-mutmasslicher-morddrohung-gegen-trump](https://www.spiegel.de/politik/deutschland/james-comey-ermittlung-gegen-ex-fbi-chef-wegen-mutmasslicher-morddrohung-gegen-trump-a-6562d668-f093-4ee4-9973-b81fc1225b0e#ref=rss)
+### comey
+
+* [https://www.spiegel.de/politik/deutschland/james-comey-ermittlung-gegen-ex-fbi-chef-wegen-mutmasslicher-morddrohung-gegen-trump](https://www.spiegel.de/politik/deutschland/james-comey-ermittlung-gegen-ex-fbi-chef-wegen-mutmasslicher-morddrohung-gegen-trump-a-6562d668-f093-4ee4-9973-b81fc1225b0e#ref=rss)
+### melania
+
+* [https://www.spiegel.de/panorama/leute/melania-trump-bronze-statue-der-us-first-lady-in-slowenien-gestohlen](https://www.spiegel.de/panorama/leute/melania-trump-bronze-statue-der-us-first-lady-in-slowenien-gestohlen-a-a1a13743-7c87-4e77-8bae-58f4740f6c96#ref=rss)
+### slowenien
+
+* [https://www.spiegel.de/panorama/leute/melania-trump-bronze-statue-der-us-first-lady-in-slowenien-gestohlen](https://www.spiegel.de/panorama/leute/melania-trump-bronze-statue-der-us-first-lady-in-slowenien-gestohlen-a-a1a13743-7c87-4e77-8bae-58f4740f6c96#ref=rss)
+### gestohlen
+
+* [https://www.spiegel.de/panorama/leute/melania-trump-bronze-statue-der-us-first-lady-in-slowenien-gestohlen](https://www.spiegel.de/panorama/leute/melania-trump-bronze-statue-der-us-first-lady-in-slowenien-gestohlen-a-a1a13743-7c87-4e77-8bae-58f4740f6c96#ref=rss)
+### fatih
+
+* [https://www.spiegel.de/kultur/kino/fatih-akin-alkohol-half-bei-der-entscheidung-fuer-ein-filmprojekt](https://www.spiegel.de/kultur/kino/fatih-akin-alkohol-half-bei-der-entscheidung-fuer-ein-filmprojekt-a-4395225b-8132-4059-ae05-e24d68d99e5d#ref=rss)
+### entscheidung
+
+* [https://www.spiegel.de/kultur/kino/fatih-akin-alkohol-half-bei-der-entscheidung-fuer-ein-filmprojekt](https://www.spiegel.de/kultur/kino/fatih-akin-alkohol-half-bei-der-entscheidung-fuer-ein-filmprojekt-a-4395225b-8132-4059-ae05-e24d68d99e5d#ref=rss)
+### bremen
+
+* [https://www.spiegel.de/panorama/bildung/bremen-verbietet-handys-an-schulen](https://www.spiegel.de/panorama/bildung/bremen-verbietet-handys-an-schulen-a-54562a7b-ed3a-4c73-93c4-e83c01d917e5#ref=rss)
+### schulen
+
+* [https://www.spiegel.de/panorama/bildung/bremen-verbietet-handys-an-schulen](https://www.spiegel.de/panorama/bildung/bremen-verbietet-handys-an-schulen-a-54562a7b-ed3a-4c73-93c4-e83c01d917e5#ref=rss)
+### coinbase
+
+* [https://www.spiegel.de/netzwelt/coinbase-support-mitarbeiter-stehlen-kundendaten-der-kryptoboerse](https://www.spiegel.de/netzwelt/coinbase-support-mitarbeiter-stehlen-kundendaten-der-kryptoboerse-a-c1490138-2143-401c-9b37-0ca274b4afd2#ref=rss)
+### kundendaten
+
+* [https://www.spiegel.de/netzwelt/coinbase-support-mitarbeiter-stehlen-kundendaten-der-kryptoboerse](https://www.spiegel.de/netzwelt/coinbase-support-mitarbeiter-stehlen-kundendaten-der-kryptoboerse-a-c1490138-2143-401c-9b37-0ca274b4afd2#ref=rss)
+### namibia
+
+* [https://www.spiegel.de/geschichte/namibia-koloniale-kegelbrueder-in-kolmannskuppe](https://www.spiegel.de/geschichte/namibia-koloniale-kegelbrueder-in-kolmannskuppe-a-327a5123-6ff0-4158-8a37-93b8a406b094#ref=rss)
+### unter
+
+* [https://www.spiegel.de/geschichte/namibia-koloniale-kegelbrueder-in-kolmannskuppe](https://www.spiegel.de/geschichte/namibia-koloniale-kegelbrueder-in-kolmannskuppe-a-327a5123-6ff0-4158-8a37-93b8a406b094#ref=rss)
+* [https://www.spiegel.de/start/wirtschaftswissenschaftler-in-deutschland-studierende-favorisieren-automobil-und-techunternehmen](https://www.spiegel.de/start/wirtschaftswissenschaftler-in-deutschland-studierende-favorisieren-automobil-und-techunternehmen-a-641b28f9-2a6e-43f5-a710-57766ee340bf#ref=rss)
+### automobil
+
+* [https://www.spiegel.de/start/wirtschaftswissenschaftler-in-deutschland-studierende-favorisieren-automobil-und-techunternehmen](https://www.spiegel.de/start/wirtschaftswissenschaftler-in-deutschland-studierende-favorisieren-automobil-und-techunternehmen-a-641b28f9-2a6e-43f5-a710-57766ee340bf#ref=rss)
+### einsturz
+
+* [https://www.spiegel.de/panorama/thailand-17-haftbefehle-nach-einsturz-von-hochhaus-in-bangkok-mit-mindestens-92-toten](https://www.spiegel.de/panorama/thailand-17-haftbefehle-nach-einsturz-von-hochhaus-in-bangkok-mit-mindestens-92-toten-a-153e0d44-63a1-472e-b37d-6a60b37b6a81#ref=rss)
+### bangkok
+
+* [https://www.spiegel.de/panorama/thailand-17-haftbefehle-nach-einsturz-von-hochhaus-in-bangkok-mit-mindestens-92-toten](https://www.spiegel.de/panorama/thailand-17-haftbefehle-nach-einsturz-von-hochhaus-in-bangkok-mit-mindestens-92-toten-a-153e0d44-63a1-472e-b37d-6a60b37b6a81#ref=rss)
+### toten
+
+* [https://www.spiegel.de/panorama/thailand-17-haftbefehle-nach-einsturz-von-hochhaus-in-bangkok-mit-mindestens-92-toten](https://www.spiegel.de/panorama/thailand-17-haftbefehle-nach-einsturz-von-hochhaus-in-bangkok-mit-mindestens-92-toten-a-153e0d44-63a1-472e-b37d-6a60b37b6a81#ref=rss)
+### rutte
+
+* [https://www.spiegel.de/ausland/mark-rutte-ruegt-wladimir-putins-abwesenheit-bei-gespraechen-als-fehler](https://www.spiegel.de/ausland/mark-rutte-ruegt-wladimir-putins-abwesenheit-bei-gespraechen-als-fehler-a-648165f5-862b-4b7e-a669-468aa5b153b8#ref=rss)
+### gesprächen
+
+* [https://www.spiegel.de/ausland/mark-rutte-ruegt-wladimir-putins-abwesenheit-bei-gespraechen-als-fehler](https://www.spiegel.de/ausland/mark-rutte-ruegt-wladimir-putins-abwesenheit-bei-gespraechen-als-fehler-a-648165f5-862b-4b7e-a669-468aa5b153b8#ref=rss)
+### olaf
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-regierungserklaerung-wurde-von-olaf-scholz-redenschreiber-entworfen](https://www.spiegel.de/politik/deutschland/friedrich-merz-regierungserklaerung-wurde-von-olaf-scholz-redenschreiber-entworfen-a-e1eba533-a47d-4e79-829a-47cb9772ea20#ref=rss)
+### affäre
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-wie-die-affaere-um-tim-lemperle-koeln-mal-wieder-in-aufruhr-versetzt](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-wie-die-affaere-um-tim-lemperle-koeln-mal-wieder-in-aufruhr-versetzt-a-68c14b53-ca1d-4af6-841f-811fd56c5fd5#ref=rss)
+### tim
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-wie-die-affaere-um-tim-lemperle-koeln-mal-wieder-in-aufruhr-versetzt](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-wie-die-affaere-um-tim-lemperle-koeln-mal-wieder-in-aufruhr-versetzt-a-68c14b53-ca1d-4af6-841f-811fd56c5fd5#ref=rss)
+### lemperle
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-wie-die-affaere-um-tim-lemperle-koeln-mal-wieder-in-aufruhr-versetzt](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-wie-die-affaere-um-tim-lemperle-koeln-mal-wieder-in-aufruhr-versetzt-a-68c14b53-ca1d-4af6-841f-811fd56c5fd5#ref=rss)
+### karl
+
+* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-soll-vorsitz-des-ausschusses-forschung-uebernehmen](https://www.spiegel.de/politik/deutschland/karl-lauterbach-soll-vorsitz-des-ausschusses-forschung-uebernehmen-a-889794a7-5e82-4597-b0fc-ce54c8f24504#ref=rss)
+### lauterbach
+
+* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-soll-vorsitz-des-ausschusses-forschung-uebernehmen](https://www.spiegel.de/politik/deutschland/karl-lauterbach-soll-vorsitz-des-ausschusses-forschung-uebernehmen-a-889794a7-5e82-4597-b0fc-ce54c8f24504#ref=rss)
+### vorsitz
+
+* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-soll-vorsitz-des-ausschusses-forschung-uebernehmen](https://www.spiegel.de/politik/deutschland/karl-lauterbach-soll-vorsitz-des-ausschusses-forschung-uebernehmen-a-889794a7-5e82-4597-b0fc-ce54c8f24504#ref=rss)
+### sean
+
+* [https://www.spiegel.de/panorama/sean-diddy-combs-casandra-ventura-von-muss-in-prozess-explizite-textnachrichten-vorlesen](https://www.spiegel.de/panorama/sean-diddy-combs-casandra-ventura-von-muss-in-prozess-explizite-textnachrichten-vorlesen-a-547c7f01-38ca-4f70-a166-2c02f5b06961#ref=rss)
+### combs
+
+* [https://www.spiegel.de/panorama/sean-diddy-combs-casandra-ventura-von-muss-in-prozess-explizite-textnachrichten-vorlesen](https://www.spiegel.de/panorama/sean-diddy-combs-casandra-ventura-von-muss-in-prozess-explizite-textnachrichten-vorlesen-a-547c7f01-38ca-4f70-a166-2c02f5b06961#ref=rss)
+### casandra
+
+* [https://www.spiegel.de/panorama/sean-diddy-combs-casandra-ventura-von-muss-in-prozess-explizite-textnachrichten-vorlesen](https://www.spiegel.de/panorama/sean-diddy-combs-casandra-ventura-von-muss-in-prozess-explizite-textnachrichten-vorlesen-a-547c7f01-38ca-4f70-a166-2c02f5b06961#ref=rss)
+### ventura
+
+* [https://www.spiegel.de/panorama/sean-diddy-combs-casandra-ventura-von-muss-in-prozess-explizite-textnachrichten-vorlesen](https://www.spiegel.de/panorama/sean-diddy-combs-casandra-ventura-von-muss-in-prozess-explizite-textnachrichten-vorlesen-a-547c7f01-38ca-4f70-a166-2c02f5b06961#ref=rss)
+### prozess
+
+* [https://www.spiegel.de/panorama/sean-diddy-combs-casandra-ventura-von-muss-in-prozess-explizite-textnachrichten-vorlesen](https://www.spiegel.de/panorama/sean-diddy-combs-casandra-ventura-von-muss-in-prozess-explizite-textnachrichten-vorlesen-a-547c7f01-38ca-4f70-a166-2c02f5b06961#ref=rss)
+### halbfinale
+
+* [https://www.spiegel.de/kultur/esc-2025-in-basel-halbfinale-das-war-womoeglich-ein-sexzwinkerer-zuviel](https://www.spiegel.de/kultur/esc-2025-in-basel-halbfinale-das-war-womoeglich-ein-sexzwinkerer-zuviel-a-c46b921e-8604-4e80-919a-4d8ae438a22c#ref=rss)
 
