@@ -4,351 +4,383 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### neue
+### menschen
 
-* [https://www.spiegel.de/politik/fdp-nicole-buettner-als-neue-generalsekretaerin-dgewaehlt](https://www.spiegel.de/politik/fdp-nicole-buettner-als-neue-generalsekretaerin-dgewaehlt-a-994f7232-ac77-442e-b9cf-c99653a81c85#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/baerbel-bas-neuen-rentenministerin-von-ponzi-zu-baerbel-bas-kolumne](https://www.spiegel.de/politik/deutschland/baerbel-bas-neuen-rentenministerin-von-ponzi-zu-baerbel-bas-kolumne-a-d3ef2397-4d8c-4ca2-800a-0b9edf6a309a#ref=rss)
-* [https://www.spiegel.de/ausland/papst-leo-xiv-eine-neue-farbe-und-rampen-aus-lego-die-guten-nachrichten-der-woche](https://www.spiegel.de/ausland/papst-leo-xiv-eine-neue-farbe-und-rampen-aus-lego-die-guten-nachrichten-der-woche-a-b3cdc4af-3443-4872-8c48-f63ee489007e#ref=rss)
-### donald
+* [https://www.spiegel.de/wissenschaft/orientierungssinn-koennen-sich-maenner-wirklich-besser-orientieren-als-frauen](https://www.spiegel.de/wissenschaft/orientierungssinn-koennen-sich-maenner-wirklich-besser-orientieren-als-frauen-a-a57c554c-06f8-47fe-b712-be4c5fc9cfa2#ref=rss)
+* [https://www.spiegel.de/panorama/finnland-mehrere-tote-nach-absturz-zweier-helikopter](https://www.spiegel.de/panorama/finnland-mehrere-tote-nach-absturz-zweier-helikopter-a-6928e9aa-a8c3-42aa-a80f-6e3cc8e161b9#ref=rss)
+* [https://www.spiegel.de/ausland/israels-neue-offensive-im-gazastreifen-es-fuehlte-sich-an-wie-der-weltuntergang](https://www.spiegel.de/ausland/israels-neue-offensive-im-gazastreifen-es-fuehlte-sich-an-wie-der-weltuntergang-a-b2111ad7-e56e-4aa0-954f-2ede36d3507c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/laesst-das-navi-unseren-orientierungssinn-verkuemmern](https://www.spiegel.de/wissenschaft/mensch/laesst-das-navi-unseren-orientierungssinn-verkuemmern-a-09ea4d0f-0a31-461a-9b88-c0e161bcbea7#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/tornados-in-kentucky-und-missouri-mindestens-21-tote-nach-stuermen-in-den-usa](https://www.spiegel.de/wissenschaft/natur/tornados-in-kentucky-und-missouri-mindestens-21-tote-nach-stuermen-in-den-usa-a-e27f6a8d-88ac-4a28-a879-7794fbe7b379#ref=rss)
+### gazastreifen
 
-* [https://www.spiegel.de/ausland/donald-trump-morddrohung-oder-kneipenslang-was-hinter-james-comeys-8647-post-steckt](https://www.spiegel.de/ausland/donald-trump-morddrohung-oder-kneipenslang-was-hinter-james-comeys-8647-post-steckt-a-da24b6fc-26c9-4fd1-9ae4-257ba2129401#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-russland-krieg-donald-trump-bringt-treffen-mit-waldimir-putin-ins-spiel](https://www.spiegel.de/ausland/ukraine-russland-krieg-donald-trump-bringt-treffen-mit-waldimir-putin-ins-spiel-a-3c191257-a63a-44d7-9958-db52e52dcf60#ref=rss)
-### trump
+* [https://www.spiegel.de/ausland/israels-neue-offensive-im-gazastreifen-es-fuehlte-sich-an-wie-der-weltuntergang](https://www.spiegel.de/ausland/israels-neue-offensive-im-gazastreifen-es-fuehlte-sich-an-wie-der-weltuntergang-a-b2111ad7-e56e-4aa0-954f-2ede36d3507c#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-satellitenbilder-zeigen-systematische-zerstoerung-und-uebernahme-des-kriegsgebiets](https://www.spiegel.de/ausland/gaza-satellitenbilder-zeigen-systematische-zerstoerung-und-uebernahme-des-kriegsgebiets-a-41b40d48-28ff-4020-b760-0852e890ca0f#ref=rss)
+* [https://www.spiegel.de/ausland/hamas-bestaetigt-neue-gespraeche-mit-israel-ueber-waffenruhe-im-gazastreifen](https://www.spiegel.de/ausland/hamas-bestaetigt-neue-gespraeche-mit-israel-ueber-waffenruhe-im-gazastreifen-a-bd2f16c1-c74b-44c3-b064-ec4d907c0341#ref=rss)
+### richtung
 
-* [https://www.spiegel.de/ausland/donald-trump-morddrohung-oder-kneipenslang-was-hinter-james-comeys-8647-post-steckt](https://www.spiegel.de/ausland/donald-trump-morddrohung-oder-kneipenslang-was-hinter-james-comeys-8647-post-steckt-a-da24b6fc-26c9-4fd1-9ae4-257ba2129401#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-russland-krieg-donald-trump-bringt-treffen-mit-waldimir-putin-ins-spiel](https://www.spiegel.de/ausland/ukraine-russland-krieg-donald-trump-bringt-treffen-mit-waldimir-putin-ins-spiel-a-3c191257-a63a-44d7-9958-db52e52dcf60#ref=rss)
-### israel
+* [https://www.spiegel.de/sport/fussball/fussball-in-schottland-fan-des-fc-aberdeen-wirft-sitzschale-und-trifft-eigenen-spieler](https://www.spiegel.de/sport/fussball/fussball-in-schottland-fan-des-fc-aberdeen-wirft-sitzschale-und-trifft-eigenen-spieler-a-aa1acf2f-a5a3-4bf9-80c4-fc6961d7e33d#ref=rss)
+* [https://www.spiegel.de/panorama/finnland-mehrere-tote-nach-absturz-zweier-helikopter](https://www.spiegel.de/panorama/finnland-mehrere-tote-nach-absturz-zweier-helikopter-a-6928e9aa-a8c3-42aa-a80f-6e3cc8e161b9#ref=rss)
+* [https://www.spiegel.de/panorama/bueckeburg-fahrer-entkommt-bei-verfolgungsjagd-trotz-schuessen-auf-reifen](https://www.spiegel.de/panorama/bueckeburg-fahrer-entkommt-bei-verfolgungsjagd-trotz-schuessen-auf-reifen-a-b236ef3e-a144-4e8b-a1c6-d63bd472eac7#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/kultur/israel-kritik-und-staatsraeson-wie-der-gazakrieg-deutschlands-blick-auf-israel-veraendert](https://www.spiegel.de/kultur/israel-kritik-und-staatsraeson-wie-der-gazakrieg-deutschlands-blick-auf-israel-veraendert-a-6362777b-ab47-4064-80ac-8a0f8f27c6b2#ref=rss)
-* [https://www.spiegel.de/ausland/israel-wie-benjamin-netanyahu-in-gaza-hunger-als-waffe-verwendet-podcast](https://www.spiegel.de/ausland/israel-wie-benjamin-netanyahu-in-gaza-hunger-als-waffe-verwendet-podcast-a-172626e3-49d4-4e8f-bf3e-92ed8f46dc4e#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-* [https://www.spiegel.de/familie/schlaf-junger-eltern-wie-sich-durchwachte-naechte-mit-baby-auf-die-gesundheit-auswirken](https://www.spiegel.de/familie/schlaf-junger-eltern-wie-sich-durchwachte-naechte-mit-baby-auf-die-gesundheit-auswirken-a-bcb7f473-7cb1-4560-9af4-45f614ce47e2#ref=rss)
-### zweiter
-
-* [https://www.spiegel.de/auto/fahrberichte/renault-r4-e-tech-im-test-franzoesische-revolution-zweiter-teil](https://www.spiegel.de/auto/fahrberichte/renault-r4-e-tech-im-test-franzoesische-revolution-zweiter-teil-a-1e64589e-9956-4c40-ac98-c48c215710b1#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/menden-zweiter-jugendlicher-nach-tod-auf-spielplatz-unter-mordverdacht](https://www.spiegel.de/panorama/justiz/menden-zweiter-jugendlicher-nach-tod-auf-spielplatz-unter-mordverdacht-a-4797b33f-60f7-4015-b3d5-5ca6c5795259#ref=rss)
+* [https://www.spiegel.de/panorama/finnland-mehrere-tote-nach-absturz-zweier-helikopter](https://www.spiegel.de/panorama/finnland-mehrere-tote-nach-absturz-zweier-helikopter-a-6928e9aa-a8c3-42aa-a80f-6e3cc8e161b9#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-und-eintracht-frankfurt-qualifizieren-sich-fuer-die-champions-league](https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-und-eintracht-frankfurt-qualifizieren-sich-fuer-die-champions-league-a-f510e636-6c15-4d7e-bbe9-ee0f4a3935c9#ref=rss)
+* [https://www.spiegel.de/panorama/bueckeburg-fahrer-entkommt-bei-verfolgungsjagd-trotz-schuessen-auf-reifen](https://www.spiegel.de/panorama/bueckeburg-fahrer-entkommt-bei-verfolgungsjagd-trotz-schuessen-auf-reifen-a-b236ef3e-a144-4e8b-a1c6-d63bd472eac7#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/auto/fahrberichte/renault-r4-e-tech-im-test-franzoesische-revolution-zweiter-teil](https://www.spiegel.de/auto/fahrberichte/renault-r4-e-tech-im-test-franzoesische-revolution-zweiter-teil-a-1e64589e-9956-4c40-ac98-c48c215710b1#ref=rss)
-* [https://www.spiegel.de/kultur/tv/thomas-gottschalk-ich-schaue-oefter-netflix-als-oeffentlich-rechtliche-sender](https://www.spiegel.de/kultur/tv/thomas-gottschalk-ich-schaue-oefter-netflix-als-oeffentlich-rechtliche-sender-a-05a81ff6-6ae2-43f7-8f5d-91728ed862f2#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-neukoelln-tatverdaechtiger-nach-messerangriff-auf-polizisten-wieder-auf-freiem-fuss](https://www.spiegel.de/panorama/berlin-neukoelln-tatverdaechtiger-nach-messerangriff-auf-polizisten-wieder-auf-freiem-fuss-a-69afea4c-6405-43d4-8f02-641fbe417fa7#ref=rss)
-### woche
-
-* [https://www.spiegel.de/panorama/justiz/menden-zweiter-jugendlicher-nach-tod-auf-spielplatz-unter-mordverdacht](https://www.spiegel.de/panorama/justiz/menden-zweiter-jugendlicher-nach-tod-auf-spielplatz-unter-mordverdacht-a-4797b33f-60f7-4015-b3d5-5ca6c5795259#ref=rss)
-* [https://www.spiegel.de/ausland/papst-leo-xiv-eine-neue-farbe-und-rampen-aus-lego-die-guten-nachrichten-der-woche](https://www.spiegel.de/ausland/papst-leo-xiv-eine-neue-farbe-und-rampen-aus-lego-die-guten-nachrichten-der-woche-a-b3cdc4af-3443-4872-8c48-f63ee489007e#ref=rss)
-### russischen
-
-* [https://www.spiegel.de/ausland/ukraine-russland-krieg-donald-trump-bringt-treffen-mit-waldimir-putin-ins-spiel](https://www.spiegel.de/ausland/ukraine-russland-krieg-donald-trump-bringt-treffen-mit-waldimir-putin-ins-spiel-a-3c191257-a63a-44d7-9958-db52e52dcf60#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/eu-gegen-russland-kampf-an-der-hybriden-kriegsfront](https://www.spiegel.de/politik/deutschland/eu-gegen-russland-kampf-an-der-hybriden-kriegsfront-a-0cdecb4a-4b1e-45d1-8741-8c99079e9346#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-beschiesst-offenbar-bus-nahe-sumy-mindestens-neun-tote](https://www.spiegel.de/ausland/ukraine-krieg-russland-beschiesst-offenbar-bus-nahe-sumy-mindestens-neun-tote-a-4327bffd-83e3-4b74-a75d-32308115c711#ref=rss)
-### alles
-
-* [https://www.spiegel.de/kultur/kino/corona-farce-eddington-in-cannes-mittendrin-in-der-horror-gegenwart](https://www.spiegel.de/kultur/kino/corona-farce-eddington-in-cannes-mittendrin-in-der-horror-gegenwart-a-d4ad42d1-0eaa-4ef9-afda-eae0d98140e6#ref=rss)
-* [https://www.spiegel.de/familie/schlaf-junger-eltern-wie-sich-durchwachte-naechte-mit-baby-auf-die-gesundheit-auswirken](https://www.spiegel.de/familie/schlaf-junger-eltern-wie-sich-durchwachte-naechte-mit-baby-auf-die-gesundheit-auswirken-a-bcb7f473-7cb1-4560-9af4-45f614ce47e2#ref=rss)
-* [https://www.spiegel.de/auto/elektroauto-fortschritt-von-bmw-mercedes-und-start-ups-bei-e-motoren](https://www.spiegel.de/auto/elektroauto-fortschritt-von-bmw-mercedes-und-start-ups-bei-e-motoren-a-7894b8f0-24cd-432d-b99c-09dd9ae4aa10#ref=rss)
-### verändert
-
-* [https://www.spiegel.de/familie/schlaf-junger-eltern-wie-sich-durchwachte-naechte-mit-baby-auf-die-gesundheit-auswirken](https://www.spiegel.de/familie/schlaf-junger-eltern-wie-sich-durchwachte-naechte-mit-baby-auf-die-gesundheit-auswirken-a-bcb7f473-7cb1-4560-9af4-45f614ce47e2#ref=rss)
-* [https://www.spiegel.de/kultur/tv/thomas-gottschalk-ich-schaue-oefter-netflix-als-oeffentlich-rechtliche-sender](https://www.spiegel.de/kultur/tv/thomas-gottschalk-ich-schaue-oefter-netflix-als-oeffentlich-rechtliche-sender-a-05a81ff6-6ae2-43f7-8f5d-91728ed862f2#ref=rss)
-* [https://www.spiegel.de/kultur/israel-kritik-und-staatsraeson-wie-der-gazakrieg-deutschlands-blick-auf-israel-veraendert](https://www.spiegel.de/kultur/israel-kritik-und-staatsraeson-wie-der-gazakrieg-deutschlands-blick-auf-israel-veraendert-a-6362777b-ab47-4064-80ac-8a0f8f27c6b2#ref=rss)
-### macht
-
-* [https://www.spiegel.de/familie/schlaf-junger-eltern-wie-sich-durchwachte-naechte-mit-baby-auf-die-gesundheit-auswirken](https://www.spiegel.de/familie/schlaf-junger-eltern-wie-sich-durchwachte-naechte-mit-baby-auf-die-gesundheit-auswirken-a-bcb7f473-7cb1-4560-9af4-45f614ce47e2#ref=rss)
-* [https://www.spiegel.de/kultur/kino/george-clooney-legt-sich-wegen-joe-biden-mit-fox-news-reporter-an](https://www.spiegel.de/kultur/kino/george-clooney-legt-sich-wegen-joe-biden-mit-fox-news-reporter-an-a-f674580f-4757-4319-901b-c049c5f46eea#ref=rss)
-* [https://www.spiegel.de/auto/elektroauto-fortschritt-von-bmw-mercedes-und-start-ups-bei-e-motoren](https://www.spiegel.de/auto/elektroauto-fortschritt-von-bmw-mercedes-und-start-ups-bei-e-motoren-a-7894b8f0-24cd-432d-b99c-09dd9ae4aa10#ref=rss)
-### gaza
-
-* [https://www.spiegel.de/kultur/israel-kritik-und-staatsraeson-wie-der-gazakrieg-deutschlands-blick-auf-israel-veraendert](https://www.spiegel.de/kultur/israel-kritik-und-staatsraeson-wie-der-gazakrieg-deutschlands-blick-auf-israel-veraendert-a-6362777b-ab47-4064-80ac-8a0f8f27c6b2#ref=rss)
-* [https://www.spiegel.de/ausland/israel-wie-benjamin-netanyahu-in-gaza-hunger-als-waffe-verwendet-podcast](https://www.spiegel.de/ausland/israel-wie-benjamin-netanyahu-in-gaza-hunger-als-waffe-verwendet-podcast-a-172626e3-49d4-4e8f-bf3e-92ed8f46dc4e#ref=rss)
-### james
-
-* [https://www.spiegel.de/ausland/donald-trump-morddrohung-oder-kneipenslang-was-hinter-james-comeys-8647-post-steckt](https://www.spiegel.de/ausland/donald-trump-morddrohung-oder-kneipenslang-was-hinter-james-comeys-8647-post-steckt-a-da24b6fc-26c9-4fd1-9ae4-257ba2129401#ref=rss)
-### finden
-
-* [https://www.spiegel.de/ausland/donald-trump-morddrohung-oder-kneipenslang-was-hinter-james-comeys-8647-post-steckt](https://www.spiegel.de/ausland/donald-trump-morddrohung-oder-kneipenslang-was-hinter-james-comeys-8647-post-steckt-a-da24b6fc-26c9-4fd1-9ae4-257ba2129401#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/instagram-geht-nur-zoegerlich-gegen-hitler-song-von-kanye-west-vor](https://www.spiegel.de/netzwelt/apps/instagram-geht-nur-zoegerlich-gegen-hitler-song-von-kanye-west-vor-a-b2cb88f0-45f7-420d-9ede-fb70026ee07b#ref=rss)
-### tag
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### renault
-
-* [https://www.spiegel.de/auto/fahrberichte/renault-r4-e-tech-im-test-franzoesische-revolution-zweiter-teil](https://www.spiegel.de/auto/fahrberichte/renault-r4-e-tech-im-test-franzoesische-revolution-zweiter-teil-a-1e64589e-9956-4c40-ac98-c48c215710b1#ref=rss)
-### r4
-
-* [https://www.spiegel.de/auto/fahrberichte/renault-r4-e-tech-im-test-franzoesische-revolution-zweiter-teil](https://www.spiegel.de/auto/fahrberichte/renault-r4-e-tech-im-test-franzoesische-revolution-zweiter-teil-a-1e64589e-9956-4c40-ac98-c48c215710b1#ref=rss)
-### französische
-
-* [https://www.spiegel.de/auto/fahrberichte/renault-r4-e-tech-im-test-franzoesische-revolution-zweiter-teil](https://www.spiegel.de/auto/fahrberichte/renault-r4-e-tech-im-test-franzoesische-revolution-zweiter-teil-a-1e64589e-9956-4c40-ac98-c48c215710b1#ref=rss)
-### erreichen
-
-* [https://www.spiegel.de/auto/fahrberichte/renault-r4-e-tech-im-test-franzoesische-revolution-zweiter-teil](https://www.spiegel.de/auto/fahrberichte/renault-r4-e-tech-im-test-franzoesische-revolution-zweiter-teil-a-1e64589e-9956-4c40-ac98-c48c215710b1#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-playoffs-new-york-knicks-besiegen-boston-celtics-und-erreichen-eastern-conference-finals](https://www.spiegel.de/sport/basketball/nba-playoffs-new-york-knicks-besiegen-boston-celtics-und-erreichen-eastern-conference-finals-a-56d3db69-980a-4b30-a843-b85302f3aca5#ref=rss)
-### menden
-
-* [https://www.spiegel.de/panorama/justiz/menden-zweiter-jugendlicher-nach-tod-auf-spielplatz-unter-mordverdacht](https://www.spiegel.de/panorama/justiz/menden-zweiter-jugendlicher-nach-tod-auf-spielplatz-unter-mordverdacht-a-4797b33f-60f7-4015-b3d5-5ca6c5795259#ref=rss)
-### jugendlicher
-
-* [https://www.spiegel.de/panorama/justiz/menden-zweiter-jugendlicher-nach-tod-auf-spielplatz-unter-mordverdacht](https://www.spiegel.de/panorama/justiz/menden-zweiter-jugendlicher-nach-tod-auf-spielplatz-unter-mordverdacht-a-4797b33f-60f7-4015-b3d5-5ca6c5795259#ref=rss)
-### spielplatz
-
-* [https://www.spiegel.de/panorama/justiz/menden-zweiter-jugendlicher-nach-tod-auf-spielplatz-unter-mordverdacht](https://www.spiegel.de/panorama/justiz/menden-zweiter-jugendlicher-nach-tod-auf-spielplatz-unter-mordverdacht-a-4797b33f-60f7-4015-b3d5-5ca6c5795259#ref=rss)
-### bestehe
-
-* [https://www.spiegel.de/panorama/justiz/menden-zweiter-jugendlicher-nach-tod-auf-spielplatz-unter-mordverdacht](https://www.spiegel.de/panorama/justiz/menden-zweiter-jugendlicher-nach-tod-auf-spielplatz-unter-mordverdacht-a-4797b33f-60f7-4015-b3d5-5ca6c5795259#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-neukoelln-tatverdaechtiger-nach-messerangriff-auf-polizisten-wieder-auf-freiem-fuss](https://www.spiegel.de/panorama/berlin-neukoelln-tatverdaechtiger-nach-messerangriff-auf-polizisten-wieder-auf-freiem-fuss-a-69afea4c-6405-43d4-8f02-641fbe417fa7#ref=rss)
-### tatverdacht
-
-* [https://www.spiegel.de/panorama/justiz/menden-zweiter-jugendlicher-nach-tod-auf-spielplatz-unter-mordverdacht](https://www.spiegel.de/panorama/justiz/menden-zweiter-jugendlicher-nach-tod-auf-spielplatz-unter-mordverdacht-a-4797b33f-60f7-4015-b3d5-5ca6c5795259#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-neukoelln-tatverdaechtiger-nach-messerangriff-auf-polizisten-wieder-auf-freiem-fuss](https://www.spiegel.de/panorama/berlin-neukoelln-tatverdaechtiger-nach-messerangriff-auf-polizisten-wieder-auf-freiem-fuss-a-69afea4c-6405-43d4-8f02-641fbe417fa7#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/ausland/ukraine-russland-krieg-donald-trump-bringt-treffen-mit-waldimir-putin-ins-spiel](https://www.spiegel.de/ausland/ukraine-russland-krieg-donald-trump-bringt-treffen-mit-waldimir-putin-ins-spiel-a-3c191257-a63a-44d7-9958-db52e52dcf60#ref=rss)
-* [https://www.spiegel.de/kultur/ex-freundin-von-sean-diddy-combs-beendet-aussage-vor-gericht](https://www.spiegel.de/kultur/ex-freundin-von-sean-diddy-combs-beendet-aussage-vor-gericht-a-b0ec81e9-cbe3-4daf-8297-41bb114baa46#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/ausland/ukraine-russland-krieg-donald-trump-bringt-treffen-mit-waldimir-putin-ins-spiel](https://www.spiegel.de/ausland/ukraine-russland-krieg-donald-trump-bringt-treffen-mit-waldimir-putin-ins-spiel-a-3c191257-a63a-44d7-9958-db52e52dcf60#ref=rss)
-* [https://www.spiegel.de/kultur/kino/corona-farce-eddington-in-cannes-mittendrin-in-der-horror-gegenwart](https://www.spiegel.de/kultur/kino/corona-farce-eddington-in-cannes-mittendrin-in-der-horror-gegenwart-a-d4ad42d1-0eaa-4ef9-afda-eae0d98140e6#ref=rss)
-### bus
-
-* [https://www.spiegel.de/ausland/ukraine-russland-krieg-donald-trump-bringt-treffen-mit-waldimir-putin-ins-spiel](https://www.spiegel.de/ausland/ukraine-russland-krieg-donald-trump-bringt-treffen-mit-waldimir-putin-ins-spiel-a-3c191257-a63a-44d7-9958-db52e52dcf60#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-beschiesst-offenbar-bus-nahe-sumy-mindestens-neun-tote](https://www.spiegel.de/ausland/ukraine-krieg-russland-beschiesst-offenbar-bus-nahe-sumy-mindestens-neun-tote-a-4327bffd-83e3-4b74-a75d-32308115c711#ref=rss)
-### 1
-
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-und-1-fc-koeln-so-schaffen-sie-es-in-champions-league-und-bundesliga](https://www.spiegel.de/sport/fussball/borussia-dortmund-und-1-fc-koeln-so-schaffen-sie-es-in-champions-league-und-bundesliga-a-d5f93ff2-fb03-4aaf-b43b-8651e7aaec8f#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-und-1-fc-koeln-so-schaffen-sie-es-in-champions-league-und-bundesliga](https://www.spiegel.de/sport/fussball/borussia-dortmund-und-1-fc-koeln-so-schaffen-sie-es-in-champions-league-und-bundesliga-a-d5f93ff2-fb03-4aaf-b43b-8651e7aaec8f#ref=rss)
-### köln
-
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-und-1-fc-koeln-so-schaffen-sie-es-in-champions-league-und-bundesliga](https://www.spiegel.de/sport/fussball/borussia-dortmund-und-1-fc-koeln-so-schaffen-sie-es-in-champions-league-und-bundesliga-a-d5f93ff2-fb03-4aaf-b43b-8651e7aaec8f#ref=rss)
-### champions
-
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-und-1-fc-koeln-so-schaffen-sie-es-in-champions-league-und-bundesliga](https://www.spiegel.de/sport/fussball/borussia-dortmund-und-1-fc-koeln-so-schaffen-sie-es-in-champions-league-und-bundesliga-a-d5f93ff2-fb03-4aaf-b43b-8651e7aaec8f#ref=rss)
-### league
-
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-und-1-fc-koeln-so-schaffen-sie-es-in-champions-league-und-bundesliga](https://www.spiegel.de/sport/fussball/borussia-dortmund-und-1-fc-koeln-so-schaffen-sie-es-in-champions-league-und-bundesliga-a-d5f93ff2-fb03-4aaf-b43b-8651e7aaec8f#ref=rss)
-### bundesliga
-
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-und-1-fc-koeln-so-schaffen-sie-es-in-champions-league-und-bundesliga](https://www.spiegel.de/sport/fussball/borussia-dortmund-und-1-fc-koeln-so-schaffen-sie-es-in-champions-league-und-bundesliga-a-d5f93ff2-fb03-4aaf-b43b-8651e7aaec8f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bundesliga-das-ist-die-spiegel-mannschaft-der-saison](https://www.spiegel.de/sport/fussball/bundesliga-das-ist-die-spiegel-mannschaft-der-saison-a-c41a43f1-a859-4662-9edc-2cc82d6f524f#ref=rss)
-### besten
-
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-und-1-fc-koeln-so-schaffen-sie-es-in-champions-league-und-bundesliga](https://www.spiegel.de/sport/fussball/borussia-dortmund-und-1-fc-koeln-so-schaffen-sie-es-in-champions-league-und-bundesliga-a-d5f93ff2-fb03-4aaf-b43b-8651e7aaec8f#ref=rss)
-* [https://www.spiegel.de/reise/staedte/basel-hier-sind-die-besten-tipps-fuer-einen-staedtetrip](https://www.spiegel.de/reise/staedte/basel-hier-sind-die-besten-tipps-fuer-einen-staedtetrip-a-fda8f734-fb92-430d-9829-671b2203e4c8#ref=rss)
-### eddington
-
-* [https://www.spiegel.de/kultur/kino/corona-farce-eddington-in-cannes-mittendrin-in-der-horror-gegenwart](https://www.spiegel.de/kultur/kino/corona-farce-eddington-in-cannes-mittendrin-in-der-horror-gegenwart-a-d4ad42d1-0eaa-4ef9-afda-eae0d98140e6#ref=rss)
-### instagram
-
-* [https://www.spiegel.de/netzwelt/apps/instagram-geht-nur-zoegerlich-gegen-hitler-song-von-kanye-west-vor](https://www.spiegel.de/netzwelt/apps/instagram-geht-nur-zoegerlich-gegen-hitler-song-von-kanye-west-vor-a-b2cb88f0-45f7-420d-9ede-fb70026ee07b#ref=rss)
-### kanye
-
-* [https://www.spiegel.de/netzwelt/apps/instagram-geht-nur-zoegerlich-gegen-hitler-song-von-kanye-west-vor](https://www.spiegel.de/netzwelt/apps/instagram-geht-nur-zoegerlich-gegen-hitler-song-von-kanye-west-vor-a-b2cb88f0-45f7-420d-9ede-fb70026ee07b#ref=rss)
-### west
-
-* [https://www.spiegel.de/netzwelt/apps/instagram-geht-nur-zoegerlich-gegen-hitler-song-von-kanye-west-vor](https://www.spiegel.de/netzwelt/apps/instagram-geht-nur-zoegerlich-gegen-hitler-song-von-kanye-west-vor-a-b2cb88f0-45f7-420d-9ede-fb70026ee07b#ref=rss)
-### moldau
-
-* [https://www.spiegel.de/politik/deutschland/eu-gegen-russland-kampf-an-der-hybriden-kriegsfront](https://www.spiegel.de/politik/deutschland/eu-gegen-russland-kampf-an-der-hybriden-kriegsfront-a-0cdecb4a-4b1e-45d1-8741-8c99079e9346#ref=rss)
-### hybriden
-
-* [https://www.spiegel.de/politik/deutschland/eu-gegen-russland-kampf-an-der-hybriden-kriegsfront](https://www.spiegel.de/politik/deutschland/eu-gegen-russland-kampf-an-der-hybriden-kriegsfront-a-0cdecb4a-4b1e-45d1-8741-8c99079e9346#ref=rss)
-### europäischen
-
-* [https://www.spiegel.de/politik/deutschland/eu-gegen-russland-kampf-an-der-hybriden-kriegsfront](https://www.spiegel.de/politik/deutschland/eu-gegen-russland-kampf-an-der-hybriden-kriegsfront-a-0cdecb4a-4b1e-45d1-8741-8c99079e9346#ref=rss)
-* [https://www.spiegel.de/ausland/wahlen-in-polen-und-rumaenien-allianz-der-europaeischen-donald-trump-fans](https://www.spiegel.de/ausland/wahlen-in-polen-und-rumaenien-allianz-der-europaeischen-donald-trump-fans-a-b12f6f54-a715-426f-a392-4ac2b4766d09#ref=rss)
-### eu
-
-* [https://www.spiegel.de/politik/deutschland/eu-gegen-russland-kampf-an-der-hybriden-kriegsfront](https://www.spiegel.de/politik/deutschland/eu-gegen-russland-kampf-an-der-hybriden-kriegsfront-a-0cdecb4a-4b1e-45d1-8741-8c99079e9346#ref=rss)
-* [https://www.spiegel.de/ausland/wahlen-in-polen-und-rumaenien-allianz-der-europaeischen-donald-trump-fans](https://www.spiegel.de/ausland/wahlen-in-polen-und-rumaenien-allianz-der-europaeischen-donald-trump-fans-a-b12f6f54-a715-426f-a392-4ac2b4766d09#ref=rss)
-### krieg
-
-* [https://www.spiegel.de/politik/deutschland/eu-gegen-russland-kampf-an-der-hybriden-kriegsfront](https://www.spiegel.de/politik/deutschland/eu-gegen-russland-kampf-an-der-hybriden-kriegsfront-a-0cdecb4a-4b1e-45d1-8741-8c99079e9346#ref=rss)
-* [https://www.spiegel.de/kultur/israel-kritik-und-staatsraeson-wie-der-gazakrieg-deutschlands-blick-auf-israel-veraendert](https://www.spiegel.de/kultur/israel-kritik-und-staatsraeson-wie-der-gazakrieg-deutschlands-blick-auf-israel-veraendert-a-6362777b-ab47-4064-80ac-8a0f8f27c6b2#ref=rss)
-### schlaf
-
-* [https://www.spiegel.de/familie/schlaf-junger-eltern-wie-sich-durchwachte-naechte-mit-baby-auf-die-gesundheit-auswirken](https://www.spiegel.de/familie/schlaf-junger-eltern-wie-sich-durchwachte-naechte-mit-baby-auf-die-gesundheit-auswirken-a-bcb7f473-7cb1-4560-9af4-45f614ce47e2#ref=rss)
-### nächte
-
-* [https://www.spiegel.de/familie/schlaf-junger-eltern-wie-sich-durchwachte-naechte-mit-baby-auf-die-gesundheit-auswirken](https://www.spiegel.de/familie/schlaf-junger-eltern-wie-sich-durchwachte-naechte-mit-baby-auf-die-gesundheit-auswirken-a-bcb7f473-7cb1-4560-9af4-45f614ce47e2#ref=rss)
-### baby
-
-* [https://www.spiegel.de/familie/schlaf-junger-eltern-wie-sich-durchwachte-naechte-mit-baby-auf-die-gesundheit-auswirken](https://www.spiegel.de/familie/schlaf-junger-eltern-wie-sich-durchwachte-naechte-mit-baby-auf-die-gesundheit-auswirken-a-bcb7f473-7cb1-4560-9af4-45f614ce47e2#ref=rss)
-### thomas
-
-* [https://www.spiegel.de/kultur/tv/thomas-gottschalk-ich-schaue-oefter-netflix-als-oeffentlich-rechtliche-sender](https://www.spiegel.de/kultur/tv/thomas-gottschalk-ich-schaue-oefter-netflix-als-oeffentlich-rechtliche-sender-a-05a81ff6-6ae2-43f7-8f5d-91728ed862f2#ref=rss)
-### gottschalk
-
-* [https://www.spiegel.de/kultur/tv/thomas-gottschalk-ich-schaue-oefter-netflix-als-oeffentlich-rechtliche-sender](https://www.spiegel.de/kultur/tv/thomas-gottschalk-ich-schaue-oefter-netflix-als-oeffentlich-rechtliche-sender-a-05a81ff6-6ae2-43f7-8f5d-91728ed862f2#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/kultur/tv/thomas-gottschalk-ich-schaue-oefter-netflix-als-oeffentlich-rechtliche-sender](https://www.spiegel.de/kultur/tv/thomas-gottschalk-ich-schaue-oefter-netflix-als-oeffentlich-rechtliche-sender-a-05a81ff6-6ae2-43f7-8f5d-91728ed862f2#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-beschiesst-offenbar-bus-nahe-sumy-mindestens-neun-tote](https://www.spiegel.de/ausland/ukraine-krieg-russland-beschiesst-offenbar-bus-nahe-sumy-mindestens-neun-tote-a-4327bffd-83e3-4b74-a75d-32308115c711#ref=rss)
-### karin
-
-* [https://www.spiegel.de/panorama/karin-prien-bundesbildungsministerin-versteht-sich-auch-als-juedische-ministerin](https://www.spiegel.de/panorama/karin-prien-bundesbildungsministerin-versteht-sich-auch-als-juedische-ministerin-a-9bd08a86-7d75-4ebd-9cf6-16619bba4105#ref=rss)
-### prien
-
-* [https://www.spiegel.de/panorama/karin-prien-bundesbildungsministerin-versteht-sich-auch-als-juedische-ministerin](https://www.spiegel.de/panorama/karin-prien-bundesbildungsministerin-versteht-sich-auch-als-juedische-ministerin-a-9bd08a86-7d75-4ebd-9cf6-16619bba4105#ref=rss)
-### ministerin
-
-* [https://www.spiegel.de/panorama/karin-prien-bundesbildungsministerin-versteht-sich-auch-als-juedische-ministerin](https://www.spiegel.de/panorama/karin-prien-bundesbildungsministerin-versteht-sich-auch-als-juedische-ministerin-a-9bd08a86-7d75-4ebd-9cf6-16619bba4105#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/baerbel-bas-neuen-rentenministerin-von-ponzi-zu-baerbel-bas-kolumne](https://www.spiegel.de/politik/deutschland/baerbel-bas-neuen-rentenministerin-von-ponzi-zu-baerbel-bas-kolumne-a-d3ef2397-4d8c-4ca2-800a-0b9edf6a309a#ref=rss)
-### leben
-
-* [https://www.spiegel.de/panorama/karin-prien-bundesbildungsministerin-versteht-sich-auch-als-juedische-ministerin](https://www.spiegel.de/panorama/karin-prien-bundesbildungsministerin-versteht-sich-auch-als-juedische-ministerin-a-9bd08a86-7d75-4ebd-9cf6-16619bba4105#ref=rss)
-* [https://www.spiegel.de/panorama/abtreibungsrecht-in-den-usa-hirntote-schwangere-wird-seit-drei-monaten-am-leben-erhalten](https://www.spiegel.de/panorama/abtreibungsrecht-in-den-usa-hirntote-schwangere-wird-seit-drei-monaten-am-leben-erhalten-a-2f8bebed-f311-4244-9b83-1c7e7e4579f8#ref=rss)
-### gehört
-
-* [https://www.spiegel.de/kultur/israel-kritik-und-staatsraeson-wie-der-gazakrieg-deutschlands-blick-auf-israel-veraendert](https://www.spiegel.de/kultur/israel-kritik-und-staatsraeson-wie-der-gazakrieg-deutschlands-blick-auf-israel-veraendert-a-6362777b-ab47-4064-80ac-8a0f8f27c6b2#ref=rss)
-* [https://www.spiegel.de/kultur/musik/eurovision-song-contest-esc-favoriten-kaj-aus-finnland-in-ihrem-dorf-voera-denken-alle-nur-noch-bara-bada-bastu](https://www.spiegel.de/kultur/musik/eurovision-song-contest-esc-favoriten-kaj-aus-finnland-in-ihrem-dorf-voera-denken-alle-nur-noch-bara-bada-bastu-a-c274bdcf-2f1d-4518-baeb-37919f0f5eeb#ref=rss)
-### recht
-
-* [https://www.spiegel.de/ausland/israel-wie-benjamin-netanyahu-in-gaza-hunger-als-waffe-verwendet-podcast](https://www.spiegel.de/ausland/israel-wie-benjamin-netanyahu-in-gaza-hunger-als-waffe-verwendet-podcast-a-172626e3-49d4-4e8f-bf3e-92ed8f46dc4e#ref=rss)
-### fdp
-
-* [https://www.spiegel.de/politik/fdp-nicole-buettner-als-neue-generalsekretaerin-dgewaehlt](https://www.spiegel.de/politik/fdp-nicole-buettner-als-neue-generalsekretaerin-dgewaehlt-a-994f7232-ac77-442e-b9cf-c99653a81c85#ref=rss)
-### nicole
-
-* [https://www.spiegel.de/politik/fdp-nicole-buettner-als-neue-generalsekretaerin-dgewaehlt](https://www.spiegel.de/politik/fdp-nicole-buettner-als-neue-generalsekretaerin-dgewaehlt-a-994f7232-ac77-442e-b9cf-c99653a81c85#ref=rss)
-### büttner
-
-* [https://www.spiegel.de/politik/fdp-nicole-buettner-als-neue-generalsekretaerin-dgewaehlt](https://www.spiegel.de/politik/fdp-nicole-buettner-als-neue-generalsekretaerin-dgewaehlt-a-994f7232-ac77-442e-b9cf-c99653a81c85#ref=rss)
-### generalsekretärin
-
-* [https://www.spiegel.de/politik/fdp-nicole-buettner-als-neue-generalsekretaerin-dgewaehlt](https://www.spiegel.de/politik/fdp-nicole-buettner-als-neue-generalsekretaerin-dgewaehlt-a-994f7232-ac77-442e-b9cf-c99653a81c85#ref=rss)
-### kaj
-
-* [https://www.spiegel.de/kultur/musik/eurovision-song-contest-esc-favoriten-kaj-aus-finnland-in-ihrem-dorf-voera-denken-alle-nur-noch-bara-bada-bastu](https://www.spiegel.de/kultur/musik/eurovision-song-contest-esc-favoriten-kaj-aus-finnland-in-ihrem-dorf-voera-denken-alle-nur-noch-bara-bada-bastu-a-c274bdcf-2f1d-4518-baeb-37919f0f5eeb#ref=rss)
-### finnen
-
-* [https://www.spiegel.de/kultur/musik/eurovision-song-contest-esc-favoriten-kaj-aus-finnland-in-ihrem-dorf-voera-denken-alle-nur-noch-bara-bada-bastu](https://www.spiegel.de/kultur/musik/eurovision-song-contest-esc-favoriten-kaj-aus-finnland-in-ihrem-dorf-voera-denken-alle-nur-noch-bara-bada-bastu-a-c274bdcf-2f1d-4518-baeb-37919f0f5eeb#ref=rss)
-### polizisten
-
-* [https://www.spiegel.de/panorama/berlin-neukoelln-tatverdaechtiger-nach-messerangriff-auf-polizisten-wieder-auf-freiem-fuss](https://www.spiegel.de/panorama/berlin-neukoelln-tatverdaechtiger-nach-messerangriff-auf-polizisten-wieder-auf-freiem-fuss-a-69afea4c-6405-43d4-8f02-641fbe417fa7#ref=rss)
-### freitag
-
-* [https://www.spiegel.de/panorama/berlin-neukoelln-tatverdaechtiger-nach-messerangriff-auf-polizisten-wieder-auf-freiem-fuss](https://www.spiegel.de/panorama/berlin-neukoelln-tatverdaechtiger-nach-messerangriff-auf-polizisten-wieder-auf-freiem-fuss-a-69afea4c-6405-43d4-8f02-641fbe417fa7#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-beschiesst-offenbar-bus-nahe-sumy-mindestens-neun-tote](https://www.spiegel.de/ausland/ukraine-krieg-russland-beschiesst-offenbar-bus-nahe-sumy-mindestens-neun-tote-a-4327bffd-83e3-4b74-a75d-32308115c711#ref=rss)
-### polen
-
-* [https://www.spiegel.de/ausland/wahlen-in-polen-und-rumaenien-allianz-der-europaeischen-donald-trump-fans](https://www.spiegel.de/ausland/wahlen-in-polen-und-rumaenien-allianz-der-europaeischen-donald-trump-fans-a-b12f6f54-a715-426f-a392-4ac2b4766d09#ref=rss)
-### rumänien
-
-* [https://www.spiegel.de/ausland/wahlen-in-polen-und-rumaenien-allianz-der-europaeischen-donald-trump-fans](https://www.spiegel.de/ausland/wahlen-in-polen-und-rumaenien-allianz-der-europaeischen-donald-trump-fans-a-b12f6f54-a715-426f-a392-4ac2b4766d09#ref=rss)
-### bärbel
-
-* [https://www.spiegel.de/politik/deutschland/baerbel-bas-neuen-rentenministerin-von-ponzi-zu-baerbel-bas-kolumne](https://www.spiegel.de/politik/deutschland/baerbel-bas-neuen-rentenministerin-von-ponzi-zu-baerbel-bas-kolumne-a-d3ef2397-4d8c-4ca2-800a-0b9edf6a309a#ref=rss)
-### bas
-
-* [https://www.spiegel.de/politik/deutschland/baerbel-bas-neuen-rentenministerin-von-ponzi-zu-baerbel-bas-kolumne](https://www.spiegel.de/politik/deutschland/baerbel-bas-neuen-rentenministerin-von-ponzi-zu-baerbel-bas-kolumne-a-d3ef2397-4d8c-4ca2-800a-0b9edf6a309a#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/politik/deutschland/baerbel-bas-neuen-rentenministerin-von-ponzi-zu-baerbel-bas-kolumne](https://www.spiegel.de/politik/deutschland/baerbel-bas-neuen-rentenministerin-von-ponzi-zu-baerbel-bas-kolumne-a-d3ef2397-4d8c-4ca2-800a-0b9edf6a309a#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-playoffs-new-york-knicks-besiegen-boston-celtics-und-erreichen-eastern-conference-finals](https://www.spiegel.de/sport/basketball/nba-playoffs-new-york-knicks-besiegen-boston-celtics-und-erreichen-eastern-conference-finals-a-56d3db69-980a-4b30-a843-b85302f3aca5#ref=rss)
-### abtreibungsrecht
-
-* [https://www.spiegel.de/panorama/abtreibungsrecht-in-den-usa-hirntote-schwangere-wird-seit-drei-monaten-am-leben-erhalten](https://www.spiegel.de/panorama/abtreibungsrecht-in-den-usa-hirntote-schwangere-wird-seit-drei-monaten-am-leben-erhalten-a-2f8bebed-f311-4244-9b83-1c7e7e4579f8#ref=rss)
-### schwangere
-
-* [https://www.spiegel.de/panorama/abtreibungsrecht-in-den-usa-hirntote-schwangere-wird-seit-drei-monaten-am-leben-erhalten](https://www.spiegel.de/panorama/abtreibungsrecht-in-den-usa-hirntote-schwangere-wird-seit-drei-monaten-am-leben-erhalten-a-2f8bebed-f311-4244-9b83-1c7e7e4579f8#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-oscar-piastri-schnappt-sich-die-pole-position-im-qualifying](https://www.spiegel.de/sport/formel1/formel-1-oscar-piastri-schnappt-sich-die-pole-position-im-qualifying-a-ad444411-a054-4e63-a1a4-680b0bc95ffe#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/nebenjob-mikro-influencer-was-man-mit-werbung-fuer-ein-paar-tausend-follower-verdient](https://www.spiegel.de/netzwelt/web/nebenjob-mikro-influencer-was-man-mit-werbung-fuer-ein-paar-tausend-follower-verdient-a-50251b33-32c2-49c3-9edf-ae7b482a3b15#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-fruehere-us-botschafterin-bridget-brink-konnte-trumps-politik-nicht-mehr-vertreten](https://www.spiegel.de/ausland/donald-trump-fruehere-us-botschafterin-bridget-brink-konnte-trumps-politik-nicht-mehr-vertreten-a-a19cad83-3368-41cf-8943-0b83d6ecc80f#ref=rss)
+### neue
+
+* [https://www.spiegel.de/ausland/israels-neue-offensive-im-gazastreifen-es-fuehlte-sich-an-wie-der-weltuntergang](https://www.spiegel.de/ausland/israels-neue-offensive-im-gazastreifen-es-fuehlte-sich-an-wie-der-weltuntergang-a-b2111ad7-e56e-4aa0-954f-2ede36d3507c#ref=rss)
+* [https://www.spiegel.de/ausland/hamas-bestaetigt-neue-gespraeche-mit-israel-ueber-waffenruhe-im-gazastreifen](https://www.spiegel.de/ausland/hamas-bestaetigt-neue-gespraeche-mit-israel-ueber-waffenruhe-im-gazastreifen-a-bd2f16c1-c74b-44c3-b064-ec4d907c0341#ref=rss)
+### laut
+
+* [https://www.spiegel.de/kultur/musik/jeremy-bana-owona-frankreich-trauert-um-rapper-werenoi](https://www.spiegel.de/kultur/musik/jeremy-bana-owona-frankreich-trauert-um-rapper-werenoi-a-275a3e82-b74b-4421-8d2f-c80e98ac1930#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-wirft-drei-maennern-aus-iran-spionage-vor](https://www.spiegel.de/ausland/grossbritannien-wirft-drei-maennern-aus-iran-spionage-vor-a-3267bd76-4fe2-4047-ab46-345257721062#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/tornados-in-kentucky-und-missouri-mindestens-21-tote-nach-stuermen-in-den-usa](https://www.spiegel.de/wissenschaft/natur/tornados-in-kentucky-und-missouri-mindestens-21-tote-nach-stuermen-in-den-usa-a-e27f6a8d-88ac-4a28-a879-7794fbe7b379#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/donald-trump-kuendigt-telefonat-mit-wladimir-putin-fuer-montag-an](https://www.spiegel.de/ausland/donald-trump-kuendigt-telefonat-mit-wladimir-putin-fuer-montag-an-a-acc290e0-3afd-40a1-b471-e94c7bcb62c4#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-fruehere-us-botschafterin-bridget-brink-konnte-trumps-politik-nicht-mehr-vertreten](https://www.spiegel.de/ausland/donald-trump-fruehere-us-botschafterin-bridget-brink-konnte-trumps-politik-nicht-mehr-vertreten-a-a19cad83-3368-41cf-8943-0b83d6ecc80f#ref=rss)
+* [https://www.spiegel.de/kultur/kino/ralph-fiennes-spielt-diktator-im-naechsten-hunger-games-film](https://www.spiegel.de/kultur/kino/ralph-fiennes-spielt-diktator-im-naechsten-hunger-games-film-a-100244b7-a1a9-4066-8d64-8bbf16c8e2f9#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/donald-trump-kuendigt-telefonat-mit-wladimir-putin-fuer-montag-an](https://www.spiegel.de/ausland/donald-trump-kuendigt-telefonat-mit-wladimir-putin-fuer-montag-an-a-acc290e0-3afd-40a1-b471-e94c7bcb62c4#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-fruehere-us-botschafterin-bridget-brink-konnte-trumps-politik-nicht-mehr-vertreten](https://www.spiegel.de/ausland/donald-trump-fruehere-us-botschafterin-bridget-brink-konnte-trumps-politik-nicht-mehr-vertreten-a-a19cad83-3368-41cf-8943-0b83d6ecc80f#ref=rss)
+### gespräche
+
+* [https://www.spiegel.de/ausland/donald-trump-kuendigt-telefonat-mit-wladimir-putin-fuer-montag-an](https://www.spiegel.de/ausland/donald-trump-kuendigt-telefonat-mit-wladimir-putin-fuer-montag-an-a-acc290e0-3afd-40a1-b471-e94c7bcb62c4#ref=rss)
+* [https://www.spiegel.de/ausland/hamas-bestaetigt-neue-gespraeche-mit-israel-ueber-waffenruhe-im-gazastreifen](https://www.spiegel.de/ausland/hamas-bestaetigt-neue-gespraeche-mit-israel-ueber-waffenruhe-im-gazastreifen-a-bd2f16c1-c74b-44c3-b064-ec4d907c0341#ref=rss)
 ### drei
 
-* [https://www.spiegel.de/panorama/abtreibungsrecht-in-den-usa-hirntote-schwangere-wird-seit-drei-monaten-am-leben-erhalten](https://www.spiegel.de/panorama/abtreibungsrecht-in-den-usa-hirntote-schwangere-wird-seit-drei-monaten-am-leben-erhalten-a-2f8bebed-f311-4244-9b83-1c7e7e4579f8#ref=rss)
-### monaten
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-und-eintracht-frankfurt-qualifizieren-sich-fuer-die-champions-league](https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-und-eintracht-frankfurt-qualifizieren-sich-fuer-die-champions-league-a-f510e636-6c15-4d7e-bbe9-ee0f4a3935c9#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-wirft-drei-maennern-aus-iran-spionage-vor](https://www.spiegel.de/ausland/grossbritannien-wirft-drei-maennern-aus-iran-spionage-vor-a-3267bd76-4fe2-4047-ab46-345257721062#ref=rss)
+### usa
 
-* [https://www.spiegel.de/panorama/abtreibungsrecht-in-den-usa-hirntote-schwangere-wird-seit-drei-monaten-am-leben-erhalten](https://www.spiegel.de/panorama/abtreibungsrecht-in-den-usa-hirntote-schwangere-wird-seit-drei-monaten-am-leben-erhalten-a-2f8bebed-f311-4244-9b83-1c7e7e4579f8#ref=rss)
-### george
+* [https://www.spiegel.de/wissenschaft/natur/tornados-in-kentucky-und-missouri-mindestens-21-tote-nach-stuermen-in-den-usa](https://www.spiegel.de/wissenschaft/natur/tornados-in-kentucky-und-missouri-mindestens-21-tote-nach-stuermen-in-den-usa-a-e27f6a8d-88ac-4a28-a879-7794fbe7b379#ref=rss)
+* [https://www.spiegel.de/sport/eishockey/eishockey-wm-deutschland-unterliegt-usa-trotz-starker-aufholjagd](https://www.spiegel.de/sport/eishockey/eishockey-wm-deutschland-unterliegt-usa-trotz-starker-aufholjagd-a-ca7a8f8c-5799-48ee-84fa-3439796fc932#ref=rss)
+### hamas
 
-* [https://www.spiegel.de/kultur/kino/george-clooney-legt-sich-wegen-joe-biden-mit-fox-news-reporter-an](https://www.spiegel.de/kultur/kino/george-clooney-legt-sich-wegen-joe-biden-mit-fox-news-reporter-an-a-f674580f-4757-4319-901b-c049c5f46eea#ref=rss)
-### clooney
+* [https://www.spiegel.de/ausland/hamas-bestaetigt-neue-gespraeche-mit-israel-ueber-waffenruhe-im-gazastreifen](https://www.spiegel.de/ausland/hamas-bestaetigt-neue-gespraeche-mit-israel-ueber-waffenruhe-im-gazastreifen-a-bd2f16c1-c74b-44c3-b064-ec4d907c0341#ref=rss)
+### orientierungssinn
 
-* [https://www.spiegel.de/kultur/kino/george-clooney-legt-sich-wegen-joe-biden-mit-fox-news-reporter-an](https://www.spiegel.de/kultur/kino/george-clooney-legt-sich-wegen-joe-biden-mit-fox-news-reporter-an-a-f674580f-4757-4319-901b-c049c5f46eea#ref=rss)
-### joe
+* [https://www.spiegel.de/wissenschaft/orientierungssinn-koennen-sich-maenner-wirklich-besser-orientieren-als-frauen](https://www.spiegel.de/wissenschaft/orientierungssinn-koennen-sich-maenner-wirklich-besser-orientieren-als-frauen-a-a57c554c-06f8-47fe-b712-be4c5fc9cfa2#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/laesst-das-navi-unseren-orientierungssinn-verkuemmern](https://www.spiegel.de/wissenschaft/mensch/laesst-das-navi-unseren-orientierungssinn-verkuemmern-a-09ea4d0f-0a31-461a-9b88-c0e161bcbea7#ref=rss)
+### männer
 
-* [https://www.spiegel.de/kultur/kino/george-clooney-legt-sich-wegen-joe-biden-mit-fox-news-reporter-an](https://www.spiegel.de/kultur/kino/george-clooney-legt-sich-wegen-joe-biden-mit-fox-news-reporter-an-a-f674580f-4757-4319-901b-c049c5f46eea#ref=rss)
-### biden
+* [https://www.spiegel.de/wissenschaft/orientierungssinn-koennen-sich-maenner-wirklich-besser-orientieren-als-frauen](https://www.spiegel.de/wissenschaft/orientierungssinn-koennen-sich-maenner-wirklich-besser-orientieren-als-frauen-a-a57c554c-06f8-47fe-b712-be4c5fc9cfa2#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-wirft-drei-maennern-aus-iran-spionage-vor](https://www.spiegel.de/ausland/grossbritannien-wirft-drei-maennern-aus-iran-spionage-vor-a-3267bd76-4fe2-4047-ab46-345257721062#ref=rss)
+### wirklich
 
-* [https://www.spiegel.de/kultur/kino/george-clooney-legt-sich-wegen-joe-biden-mit-fox-news-reporter-an](https://www.spiegel.de/kultur/kino/george-clooney-legt-sich-wegen-joe-biden-mit-fox-news-reporter-an-a-f674580f-4757-4319-901b-c049c5f46eea#ref=rss)
-### ende
+* [https://www.spiegel.de/wissenschaft/orientierungssinn-koennen-sich-maenner-wirklich-besser-orientieren-als-frauen](https://www.spiegel.de/wissenschaft/orientierungssinn-koennen-sich-maenner-wirklich-besser-orientieren-als-frauen-a-a57c554c-06f8-47fe-b712-be4c5fc9cfa2#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/muecken-wespen-und-zecken-tipps-zum-schutz-vor-stichen-und-mythen-im-faktencheck](https://www.spiegel.de/wissenschaft/natur/muecken-wespen-und-zecken-tipps-zum-schutz-vor-stichen-und-mythen-im-faktencheck-a-2a2e01fa-a52b-414c-ba95-4b93e40df828#ref=rss)
+### frauen
 
-* [https://www.spiegel.de/kultur/kino/george-clooney-legt-sich-wegen-joe-biden-mit-fox-news-reporter-an](https://www.spiegel.de/kultur/kino/george-clooney-legt-sich-wegen-joe-biden-mit-fox-news-reporter-an-a-f674580f-4757-4319-901b-c049c5f46eea#ref=rss)
-* [https://www.spiegel.de/kultur/tv/andor-warum-die-star-wars-serie-ein-duesterer-meilenstein-der-unterhaltung-ist](https://www.spiegel.de/kultur/tv/andor-warum-die-star-wars-serie-ein-duesterer-meilenstein-der-unterhaltung-ist-a-2ca8031f-0450-42bf-8ade-cfdfe0285729#ref=rss)
-### anderen
+* [https://www.spiegel.de/wissenschaft/orientierungssinn-koennen-sich-maenner-wirklich-besser-orientieren-als-frauen](https://www.spiegel.de/wissenschaft/orientierungssinn-koennen-sich-maenner-wirklich-besser-orientieren-als-frauen-a-a57c554c-06f8-47fe-b712-be4c5fc9cfa2#ref=rss)
+* [https://www.spiegel.de/kultur/musik/eurovision-song-contest-2025-alle-esc-finalsongs-im-check](https://www.spiegel.de/kultur/musik/eurovision-song-contest-2025-alle-esc-finalsongs-im-check-a-12392d1c-dc35-417d-9d55-132656baafc5#ref=rss)
+### sofort
 
-* [https://www.spiegel.de/kultur/kino/george-clooney-legt-sich-wegen-joe-biden-mit-fox-news-reporter-an](https://www.spiegel.de/kultur/kino/george-clooney-legt-sich-wegen-joe-biden-mit-fox-news-reporter-an-a-f674580f-4757-4319-901b-c049c5f46eea#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bundesliga-das-ist-die-spiegel-mannschaft-der-saison](https://www.spiegel.de/sport/fussball/bundesliga-das-ist-die-spiegel-mannschaft-der-saison-a-c41a43f1-a859-4662-9edc-2cc82d6f524f#ref=rss)
-### fast
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-das-ist-die-spiegel-mannschaft-der-saison](https://www.spiegel.de/sport/fussball/bundesliga-das-ist-die-spiegel-mannschaft-der-saison-a-c41a43f1-a859-4662-9edc-2cc82d6f524f#ref=rss)
-* [https://www.spiegel.de/auto/elektroauto-fortschritt-von-bmw-mercedes-und-start-ups-bei-e-motoren](https://www.spiegel.de/auto/elektroauto-fortschritt-von-bmw-mercedes-und-start-ups-bei-e-motoren-a-7894b8f0-24cd-432d-b99c-09dd9ae4aa10#ref=rss)
-### andor
-
-* [https://www.spiegel.de/kultur/tv/andor-warum-die-star-wars-serie-ein-duesterer-meilenstein-der-unterhaltung-ist](https://www.spiegel.de/kultur/tv/andor-warum-die-star-wars-serie-ein-duesterer-meilenstein-der-unterhaltung-ist-a-2ca8031f-0450-42bf-8ade-cfdfe0285729#ref=rss)
-### star
-
-* [https://www.spiegel.de/kultur/tv/andor-warum-die-star-wars-serie-ein-duesterer-meilenstein-der-unterhaltung-ist](https://www.spiegel.de/kultur/tv/andor-warum-die-star-wars-serie-ein-duesterer-meilenstein-der-unterhaltung-ist-a-2ca8031f-0450-42bf-8ade-cfdfe0285729#ref=rss)
-### new
-
-* [https://www.spiegel.de/sport/basketball/nba-playoffs-new-york-knicks-besiegen-boston-celtics-und-erreichen-eastern-conference-finals](https://www.spiegel.de/sport/basketball/nba-playoffs-new-york-knicks-besiegen-boston-celtics-und-erreichen-eastern-conference-finals-a-56d3db69-980a-4b30-a843-b85302f3aca5#ref=rss)
-### york
-
-* [https://www.spiegel.de/sport/basketball/nba-playoffs-new-york-knicks-besiegen-boston-celtics-und-erreichen-eastern-conference-finals](https://www.spiegel.de/sport/basketball/nba-playoffs-new-york-knicks-besiegen-boston-celtics-und-erreichen-eastern-conference-finals-a-56d3db69-980a-4b30-a843-b85302f3aca5#ref=rss)
-### knicks
-
-* [https://www.spiegel.de/sport/basketball/nba-playoffs-new-york-knicks-besiegen-boston-celtics-und-erreichen-eastern-conference-finals](https://www.spiegel.de/sport/basketball/nba-playoffs-new-york-knicks-besiegen-boston-celtics-und-erreichen-eastern-conference-finals-a-56d3db69-980a-4b30-a843-b85302f3aca5#ref=rss)
-### boston
-
-* [https://www.spiegel.de/sport/basketball/nba-playoffs-new-york-knicks-besiegen-boston-celtics-und-erreichen-eastern-conference-finals](https://www.spiegel.de/sport/basketball/nba-playoffs-new-york-knicks-besiegen-boston-celtics-und-erreichen-eastern-conference-finals-a-56d3db69-980a-4b30-a843-b85302f3aca5#ref=rss)
-### eastern
-
-* [https://www.spiegel.de/sport/basketball/nba-playoffs-new-york-knicks-besiegen-boston-celtics-und-erreichen-eastern-conference-finals](https://www.spiegel.de/sport/basketball/nba-playoffs-new-york-knicks-besiegen-boston-celtics-und-erreichen-eastern-conference-finals-a-56d3db69-980a-4b30-a843-b85302f3aca5#ref=rss)
-### conference
-
-* [https://www.spiegel.de/sport/basketball/nba-playoffs-new-york-knicks-besiegen-boston-celtics-und-erreichen-eastern-conference-finals](https://www.spiegel.de/sport/basketball/nba-playoffs-new-york-knicks-besiegen-boston-celtics-und-erreichen-eastern-conference-finals-a-56d3db69-980a-4b30-a843-b85302f3aca5#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-beschiesst-offenbar-bus-nahe-sumy-mindestens-neun-tote](https://www.spiegel.de/ausland/ukraine-krieg-russland-beschiesst-offenbar-bus-nahe-sumy-mindestens-neun-tote-a-4327bffd-83e3-4b74-a75d-32308115c711#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/russland-johann-wadephul-warnt-vor-wachsender-bedrohung-in-der-ostsee](https://www.spiegel.de/politik/deutschland/russland-johann-wadephul-warnt-vor-wachsender-bedrohung-in-der-ostsee-a-d5d7fe5c-1483-4b91-b42b-e810f65ec8ec#ref=rss)
-### sumy
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-beschiesst-offenbar-bus-nahe-sumy-mindestens-neun-tote](https://www.spiegel.de/ausland/ukraine-krieg-russland-beschiesst-offenbar-bus-nahe-sumy-mindestens-neun-tote-a-4327bffd-83e3-4b74-a75d-32308115c711#ref=rss)
-### leo
-
-* [https://www.spiegel.de/ausland/papst-leo-xiv-eine-neue-farbe-und-rampen-aus-lego-die-guten-nachrichten-der-woche](https://www.spiegel.de/ausland/papst-leo-xiv-eine-neue-farbe-und-rampen-aus-lego-die-guten-nachrichten-der-woche-a-b3cdc4af-3443-4872-8c48-f63ee489007e#ref=rss)
-### xiv
-
-* [https://www.spiegel.de/ausland/papst-leo-xiv-eine-neue-farbe-und-rampen-aus-lego-die-guten-nachrichten-der-woche](https://www.spiegel.de/ausland/papst-leo-xiv-eine-neue-farbe-und-rampen-aus-lego-die-guten-nachrichten-der-woche-a-b3cdc4af-3443-4872-8c48-f63ee489007e#ref=rss)
-### farbe
-
-* [https://www.spiegel.de/ausland/papst-leo-xiv-eine-neue-farbe-und-rampen-aus-lego-die-guten-nachrichten-der-woche](https://www.spiegel.de/ausland/papst-leo-xiv-eine-neue-farbe-und-rampen-aus-lego-die-guten-nachrichten-der-woche-a-b3cdc4af-3443-4872-8c48-f63ee489007e#ref=rss)
-### lego
-
-* [https://www.spiegel.de/ausland/papst-leo-xiv-eine-neue-farbe-und-rampen-aus-lego-die-guten-nachrichten-der-woche](https://www.spiegel.de/ausland/papst-leo-xiv-eine-neue-farbe-und-rampen-aus-lego-die-guten-nachrichten-der-woche-a-b3cdc4af-3443-4872-8c48-f63ee489007e#ref=rss)
-### guten
-
-* [https://www.spiegel.de/ausland/papst-leo-xiv-eine-neue-farbe-und-rampen-aus-lego-die-guten-nachrichten-der-woche](https://www.spiegel.de/ausland/papst-leo-xiv-eine-neue-farbe-und-rampen-aus-lego-die-guten-nachrichten-der-woche-a-b3cdc4af-3443-4872-8c48-f63ee489007e#ref=rss)
-### nachrichten
-
-* [https://www.spiegel.de/ausland/papst-leo-xiv-eine-neue-farbe-und-rampen-aus-lego-die-guten-nachrichten-der-woche](https://www.spiegel.de/ausland/papst-leo-xiv-eine-neue-farbe-und-rampen-aus-lego-die-guten-nachrichten-der-woche-a-b3cdc4af-3443-4872-8c48-f63ee489007e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/orientierungssinn-koennen-sich-maenner-wirklich-besser-orientieren-als-frauen](https://www.spiegel.de/wissenschaft/orientierungssinn-koennen-sich-maenner-wirklich-besser-orientieren-als-frauen-a-a57c554c-06f8-47fe-b712-be4c5fc9cfa2#ref=rss)
+* [https://www.spiegel.de/kultur/sean-diddy-combs-cassie-ventura-im-kreuzverhoer-im-missbrauchsprozess](https://www.spiegel.de/kultur/sean-diddy-combs-cassie-ventura-im-kreuzverhoer-im-missbrauchsprozess-a-5e3002b3-93a0-47bb-bc55-08528785e4cb#ref=rss)
 ### sean
 
-* [https://www.spiegel.de/kultur/ex-freundin-von-sean-diddy-combs-beendet-aussage-vor-gericht](https://www.spiegel.de/kultur/ex-freundin-von-sean-diddy-combs-beendet-aussage-vor-gericht-a-b0ec81e9-cbe3-4daf-8297-41bb114baa46#ref=rss)
+* [https://www.spiegel.de/kultur/sean-diddy-combs-cassie-ventura-im-kreuzverhoer-im-missbrauchsprozess](https://www.spiegel.de/kultur/sean-diddy-combs-cassie-ventura-im-kreuzverhoer-im-missbrauchsprozess-a-5e3002b3-93a0-47bb-bc55-08528785e4cb#ref=rss)
 ### combs
 
-* [https://www.spiegel.de/kultur/ex-freundin-von-sean-diddy-combs-beendet-aussage-vor-gericht](https://www.spiegel.de/kultur/ex-freundin-von-sean-diddy-combs-beendet-aussage-vor-gericht-a-b0ec81e9-cbe3-4daf-8297-41bb114baa46#ref=rss)
+* [https://www.spiegel.de/kultur/sean-diddy-combs-cassie-ventura-im-kreuzverhoer-im-missbrauchsprozess](https://www.spiegel.de/kultur/sean-diddy-combs-cassie-ventura-im-kreuzverhoer-im-missbrauchsprozess-a-5e3002b3-93a0-47bb-bc55-08528785e4cb#ref=rss)
 ### cassie
 
-* [https://www.spiegel.de/kultur/ex-freundin-von-sean-diddy-combs-beendet-aussage-vor-gericht](https://www.spiegel.de/kultur/ex-freundin-von-sean-diddy-combs-beendet-aussage-vor-gericht-a-b0ec81e9-cbe3-4daf-8297-41bb114baa46#ref=rss)
+* [https://www.spiegel.de/kultur/sean-diddy-combs-cassie-ventura-im-kreuzverhoer-im-missbrauchsprozess](https://www.spiegel.de/kultur/sean-diddy-combs-cassie-ventura-im-kreuzverhoer-im-missbrauchsprozess-a-5e3002b3-93a0-47bb-bc55-08528785e4cb#ref=rss)
 ### ventura
 
-* [https://www.spiegel.de/kultur/ex-freundin-von-sean-diddy-combs-beendet-aussage-vor-gericht](https://www.spiegel.de/kultur/ex-freundin-von-sean-diddy-combs-beendet-aussage-vor-gericht-a-b0ec81e9-cbe3-4daf-8297-41bb114baa46#ref=rss)
-### wadephul
+* [https://www.spiegel.de/kultur/sean-diddy-combs-cassie-ventura-im-kreuzverhoer-im-missbrauchsprozess](https://www.spiegel.de/kultur/sean-diddy-combs-cassie-ventura-im-kreuzverhoer-im-missbrauchsprozess-a-5e3002b3-93a0-47bb-bc55-08528785e4cb#ref=rss)
+### ganze
 
-* [https://www.spiegel.de/politik/deutschland/russland-johann-wadephul-warnt-vor-wachsender-bedrohung-in-der-ostsee](https://www.spiegel.de/politik/deutschland/russland-johann-wadephul-warnt-vor-wachsender-bedrohung-in-der-ostsee-a-d5d7fe5c-1483-4b91-b42b-e810f65ec8ec#ref=rss)
-### basel
+* [https://www.spiegel.de/kultur/sean-diddy-combs-cassie-ventura-im-kreuzverhoer-im-missbrauchsprozess](https://www.spiegel.de/kultur/sean-diddy-combs-cassie-ventura-im-kreuzverhoer-im-missbrauchsprozess-a-5e3002b3-93a0-47bb-bc55-08528785e4cb#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-satellitenbilder-zeigen-systematische-zerstoerung-und-uebernahme-des-kriegsgebiets](https://www.spiegel.de/ausland/gaza-satellitenbilder-zeigen-systematische-zerstoerung-und-uebernahme-des-kriegsgebiets-a-41b40d48-28ff-4020-b760-0852e890ca0f#ref=rss)
+### fan
 
-* [https://www.spiegel.de/reise/staedte/basel-hier-sind-die-besten-tipps-fuer-einen-staedtetrip](https://www.spiegel.de/reise/staedte/basel-hier-sind-die-besten-tipps-fuer-einen-staedtetrip-a-fda8f734-fb92-430d-9829-671b2203e4c8#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-in-schottland-fan-des-fc-aberdeen-wirft-sitzschale-und-trifft-eigenen-spieler](https://www.spiegel.de/sport/fussball/fussball-in-schottland-fan-des-fc-aberdeen-wirft-sitzschale-und-trifft-eigenen-spieler-a-aa1acf2f-a5a3-4bf9-80c4-fc6961d7e33d#ref=rss)
+### fc
+
+* [https://www.spiegel.de/sport/fussball/fussball-in-schottland-fan-des-fc-aberdeen-wirft-sitzschale-und-trifft-eigenen-spieler](https://www.spiegel.de/sport/fussball/fussball-in-schottland-fan-des-fc-aberdeen-wirft-sitzschale-und-trifft-eigenen-spieler-a-aa1acf2f-a5a3-4bf9-80c4-fc6961d7e33d#ref=rss)
+### aberdeen
+
+* [https://www.spiegel.de/sport/fussball/fussball-in-schottland-fan-des-fc-aberdeen-wirft-sitzschale-und-trifft-eigenen-spieler](https://www.spiegel.de/sport/fussball/fussball-in-schottland-fan-des-fc-aberdeen-wirft-sitzschale-und-trifft-eigenen-spieler-a-aa1acf2f-a5a3-4bf9-80c4-fc6961d7e33d#ref=rss)
+### wirft
+
+* [https://www.spiegel.de/sport/fussball/fussball-in-schottland-fan-des-fc-aberdeen-wirft-sitzschale-und-trifft-eigenen-spieler](https://www.spiegel.de/sport/fussball/fussball-in-schottland-fan-des-fc-aberdeen-wirft-sitzschale-und-trifft-eigenen-spieler-a-aa1acf2f-a5a3-4bf9-80c4-fc6961d7e33d#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-wirft-drei-maennern-aus-iran-spionage-vor](https://www.spiegel.de/ausland/grossbritannien-wirft-drei-maennern-aus-iran-spionage-vor-a-3267bd76-4fe2-4047-ab46-345257721062#ref=rss)
+### sitzschale
+
+* [https://www.spiegel.de/sport/fussball/fussball-in-schottland-fan-des-fc-aberdeen-wirft-sitzschale-und-trifft-eigenen-spieler](https://www.spiegel.de/sport/fussball/fussball-in-schottland-fan-des-fc-aberdeen-wirft-sitzschale-und-trifft-eigenen-spieler-a-aa1acf2f-a5a3-4bf9-80c4-fc6961d7e33d#ref=rss)
+### eigenen
+
+* [https://www.spiegel.de/sport/fussball/fussball-in-schottland-fan-des-fc-aberdeen-wirft-sitzschale-und-trifft-eigenen-spieler](https://www.spiegel.de/sport/fussball/fussball-in-schottland-fan-des-fc-aberdeen-wirft-sitzschale-und-trifft-eigenen-spieler-a-aa1acf2f-a5a3-4bf9-80c4-fc6961d7e33d#ref=rss)
+### spieler
+
+* [https://www.spiegel.de/sport/fussball/fussball-in-schottland-fan-des-fc-aberdeen-wirft-sitzschale-und-trifft-eigenen-spieler](https://www.spiegel.de/sport/fussball/fussball-in-schottland-fan-des-fc-aberdeen-wirft-sitzschale-und-trifft-eigenen-spieler-a-aa1acf2f-a5a3-4bf9-80c4-fc6961d7e33d#ref=rss)
+### günther
+
+* [https://www.spiegel.de/politik/deutschland/daniel-guenther-fordert-afd-verbotsverfahren-und-widerspricht-friedrich-merz](https://www.spiegel.de/politik/deutschland/daniel-guenther-fordert-afd-verbotsverfahren-und-widerspricht-friedrich-merz-a-012a1cbd-c8eb-4b2b-9325-c1d966806ec8#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/deutschland/daniel-guenther-fordert-afd-verbotsverfahren-und-widerspricht-friedrich-merz](https://www.spiegel.de/politik/deutschland/daniel-guenther-fordert-afd-verbotsverfahren-und-widerspricht-friedrich-merz-a-012a1cbd-c8eb-4b2b-9325-c1d966806ec8#ref=rss)
+### finnland
+
+* [https://www.spiegel.de/panorama/finnland-mehrere-tote-nach-absturz-zweier-helikopter](https://www.spiegel.de/panorama/finnland-mehrere-tote-nach-absturz-zweier-helikopter-a-6928e9aa-a8c3-42aa-a80f-6e3cc8e161b9#ref=rss)
+### mehrere
+
+* [https://www.spiegel.de/panorama/finnland-mehrere-tote-nach-absturz-zweier-helikopter](https://www.spiegel.de/panorama/finnland-mehrere-tote-nach-absturz-zweier-helikopter-a-6928e9aa-a8c3-42aa-a80f-6e3cc8e161b9#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/tornados-in-kentucky-und-missouri-mindestens-21-tote-nach-stuermen-in-den-usa](https://www.spiegel.de/wissenschaft/natur/tornados-in-kentucky-und-missouri-mindestens-21-tote-nach-stuermen-in-den-usa-a-e27f6a8d-88ac-4a28-a879-7794fbe7b379#ref=rss)
+### tote
+
+* [https://www.spiegel.de/panorama/finnland-mehrere-tote-nach-absturz-zweier-helikopter](https://www.spiegel.de/panorama/finnland-mehrere-tote-nach-absturz-zweier-helikopter-a-6928e9aa-a8c3-42aa-a80f-6e3cc8e161b9#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/tornados-in-kentucky-und-missouri-mindestens-21-tote-nach-stuermen-in-den-usa](https://www.spiegel.de/wissenschaft/natur/tornados-in-kentucky-und-missouri-mindestens-21-tote-nach-stuermen-in-den-usa-a-e27f6a8d-88ac-4a28-a879-7794fbe7b379#ref=rss)
+### helikopter
+
+* [https://www.spiegel.de/panorama/finnland-mehrere-tote-nach-absturz-zweier-helikopter](https://www.spiegel.de/panorama/finnland-mehrere-tote-nach-absturz-zweier-helikopter-a-6928e9aa-a8c3-42aa-a80f-6e3cc8e161b9#ref=rss)
+### oscar
+
+* [https://www.spiegel.de/sport/formel1/formel-1-oscar-piastri-schnappt-sich-die-pole-position-im-qualifying](https://www.spiegel.de/sport/formel1/formel-1-oscar-piastri-schnappt-sich-die-pole-position-im-qualifying-a-ad444411-a054-4e63-a1a4-680b0bc95ffe#ref=rss)
+### piastri
+
+* [https://www.spiegel.de/sport/formel1/formel-1-oscar-piastri-schnappt-sich-die-pole-position-im-qualifying](https://www.spiegel.de/sport/formel1/formel-1-oscar-piastri-schnappt-sich-die-pole-position-im-qualifying-a-ad444411-a054-4e63-a1a4-680b0bc95ffe#ref=rss)
+### anders
+
+* [https://www.spiegel.de/sport/formel1/formel-1-oscar-piastri-schnappt-sich-die-pole-position-im-qualifying](https://www.spiegel.de/sport/formel1/formel-1-oscar-piastri-schnappt-sich-die-pole-position-im-qualifying-a-ad444411-a054-4e63-a1a4-680b0bc95ffe#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/laesst-das-navi-unseren-orientierungssinn-verkuemmern](https://www.spiegel.de/wissenschaft/mensch/laesst-das-navi-unseren-orientierungssinn-verkuemmern-a-09ea4d0f-0a31-461a-9b88-c0e161bcbea7#ref=rss)
+### oldenburg
+
+* [https://www.spiegel.de/panorama/grossbrand-in-oldenburg-explosionen-und-hunderte-autos-in-flammen](https://www.spiegel.de/panorama/grossbrand-in-oldenburg-explosionen-und-hunderte-autos-in-flammen-a-db3ec619-866c-442e-a78e-de27fc036ce5#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/panorama/grossbrand-in-oldenburg-explosionen-und-hunderte-autos-in-flammen](https://www.spiegel.de/panorama/grossbrand-in-oldenburg-explosionen-und-hunderte-autos-in-flammen-a-db3ec619-866c-442e-a78e-de27fc036ce5#ref=rss)
+* [https://www.spiegel.de/kultur/musik/jeremy-bana-owona-frankreich-trauert-um-rapper-werenoi](https://www.spiegel.de/kultur/musik/jeremy-bana-owona-frankreich-trauert-um-rapper-werenoi-a-275a3e82-b74b-4421-8d2f-c80e98ac1930#ref=rss)
+### zerstört
+
+* [https://www.spiegel.de/panorama/grossbrand-in-oldenburg-explosionen-und-hunderte-autos-in-flammen](https://www.spiegel.de/panorama/grossbrand-in-oldenburg-explosionen-und-hunderte-autos-in-flammen-a-db3ec619-866c-442e-a78e-de27fc036ce5#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-satellitenbilder-zeigen-systematische-zerstoerung-und-uebernahme-des-kriegsgebiets](https://www.spiegel.de/ausland/gaza-satellitenbilder-zeigen-systematische-zerstoerung-und-uebernahme-des-kriegsgebiets-a-41b40d48-28ff-4020-b760-0852e890ca0f#ref=rss)
+### waren
+
+* [https://www.spiegel.de/panorama/grossbrand-in-oldenburg-explosionen-und-hunderte-autos-in-flammen](https://www.spiegel.de/panorama/grossbrand-in-oldenburg-explosionen-und-hunderte-autos-in-flammen-a-db3ec619-866c-442e-a78e-de27fc036ce5#ref=rss)
+* [https://www.spiegel.de/panorama/bueckeburg-fahrer-entkommt-bei-verfolgungsjagd-trotz-schuessen-auf-reifen](https://www.spiegel.de/panorama/bueckeburg-fahrer-entkommt-bei-verfolgungsjagd-trotz-schuessen-auf-reifen-a-b236ef3e-a144-4e8b-a1c6-d63bd472eac7#ref=rss)
+### einsatz
+
+* [https://www.spiegel.de/panorama/grossbrand-in-oldenburg-explosionen-und-hunderte-autos-in-flammen](https://www.spiegel.de/panorama/grossbrand-in-oldenburg-explosionen-und-hunderte-autos-in-flammen-a-db3ec619-866c-442e-a78e-de27fc036ce5#ref=rss)
+* [https://www.spiegel.de/panorama/bueckeburg-fahrer-entkommt-bei-verfolgungsjagd-trotz-schuessen-auf-reifen](https://www.spiegel.de/panorama/bueckeburg-fahrer-entkommt-bei-verfolgungsjagd-trotz-schuessen-auf-reifen-a-b236ef3e-a144-4e8b-a1c6-d63bd472eac7#ref=rss)
+### karim
+
+* [https://www.spiegel.de/ausland/karim-khan-zerbricht-der-internationale-strafgerichtshof-an-dem-fall](https://www.spiegel.de/ausland/karim-khan-zerbricht-der-internationale-strafgerichtshof-an-dem-fall-a-04afdfe2-fe78-45dd-9322-2e6487821ea5#ref=rss)
+### khan
+
+* [https://www.spiegel.de/ausland/karim-khan-zerbricht-der-internationale-strafgerichtshof-an-dem-fall](https://www.spiegel.de/ausland/karim-khan-zerbricht-der-internationale-strafgerichtshof-an-dem-fall-a-04afdfe2-fe78-45dd-9322-2e6487821ea5#ref=rss)
+### internationale
+
+* [https://www.spiegel.de/ausland/karim-khan-zerbricht-der-internationale-strafgerichtshof-an-dem-fall](https://www.spiegel.de/ausland/karim-khan-zerbricht-der-internationale-strafgerichtshof-an-dem-fall-a-04afdfe2-fe78-45dd-9322-2e6487821ea5#ref=rss)
+* [https://www.spiegel.de/wissenschaft/internationale-raumstation-astronaut-don-pettit-macht-spektakulaere-bilder-aus-dem-all](https://www.spiegel.de/wissenschaft/internationale-raumstation-astronaut-don-pettit-macht-spektakulaere-bilder-aus-dem-all-a-d00ba1e0-e4cf-4598-bff6-16c6a7343d67#ref=rss)
+### zieht
+
+* [https://www.spiegel.de/ausland/karim-khan-zerbricht-der-internationale-strafgerichtshof-an-dem-fall](https://www.spiegel.de/ausland/karim-khan-zerbricht-der-internationale-strafgerichtshof-an-dem-fall-a-04afdfe2-fe78-45dd-9322-2e6487821ea5#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/muecken-wespen-und-zecken-tipps-zum-schutz-vor-stichen-und-mythen-im-faktencheck](https://www.spiegel.de/wissenschaft/natur/muecken-wespen-und-zecken-tipps-zum-schutz-vor-stichen-und-mythen-im-faktencheck-a-2a2e01fa-a52b-414c-ba95-4b93e40df828#ref=rss)
+### fußballbundesliga
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-schluss-fuer-thomas-mueller-felix-brych-und-die-sky-konferenz](https://www.spiegel.de/sport/fussball/fussball-bundesliga-schluss-fuer-thomas-mueller-felix-brych-und-die-sky-konferenz-a-82311ef8-9331-4619-b164-16b2ac7bf19a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-und-eintracht-frankfurt-qualifizieren-sich-fuer-die-champions-league](https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-und-eintracht-frankfurt-qualifizieren-sich-fuer-die-champions-league-a-f510e636-6c15-4d7e-bbe9-ee0f4a3935c9#ref=rss)
+### thomas
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-schluss-fuer-thomas-mueller-felix-brych-und-die-sky-konferenz](https://www.spiegel.de/sport/fussball/fussball-bundesliga-schluss-fuer-thomas-mueller-felix-brych-und-die-sky-konferenz-a-82311ef8-9331-4619-b164-16b2ac7bf19a#ref=rss)
+### müller
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-schluss-fuer-thomas-mueller-felix-brych-und-die-sky-konferenz](https://www.spiegel.de/sport/fussball/fussball-bundesliga-schluss-fuer-thomas-mueller-felix-brych-und-die-sky-konferenz-a-82311ef8-9331-4619-b164-16b2ac7bf19a#ref=rss)
+### letzten
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-schluss-fuer-thomas-mueller-felix-brych-und-die-sky-konferenz](https://www.spiegel.de/sport/fussball/fussball-bundesliga-schluss-fuer-thomas-mueller-felix-brych-und-die-sky-konferenz-a-82311ef8-9331-4619-b164-16b2ac7bf19a#ref=rss)
+* [https://www.spiegel.de/wissenschaft/internationale-raumstation-astronaut-don-pettit-macht-spektakulaere-bilder-aus-dem-all](https://www.spiegel.de/wissenschaft/internationale-raumstation-astronaut-don-pettit-macht-spektakulaere-bilder-aus-dem-all-a-d00ba1e0-e4cf-4598-bff6-16c6a7343d67#ref=rss)
+### abschied
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-schluss-fuer-thomas-mueller-felix-brych-und-die-sky-konferenz](https://www.spiegel.de/sport/fussball/fussball-bundesliga-schluss-fuer-thomas-mueller-felix-brych-und-die-sky-konferenz-a-82311ef8-9331-4619-b164-16b2ac7bf19a#ref=rss)
+* [https://www.spiegel.de/kultur/kino/adam-sandler-nimmt-abschied-von-happy-gilmore-alligator](https://www.spiegel.de/kultur/kino/adam-sandler-nimmt-abschied-von-happy-gilmore-alligator-a-57de385b-28b5-4c34-a5a1-bb9f482fa419#ref=rss)
+### spieltag
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-schluss-fuer-thomas-mueller-felix-brych-und-die-sky-konferenz](https://www.spiegel.de/sport/fussball/fussball-bundesliga-schluss-fuer-thomas-mueller-felix-brych-und-die-sky-konferenz-a-82311ef8-9331-4619-b164-16b2ac7bf19a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-und-eintracht-frankfurt-qualifizieren-sich-fuer-die-champions-league](https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-und-eintracht-frankfurt-qualifizieren-sich-fuer-die-champions-league-a-f510e636-6c15-4d7e-bbe9-ee0f4a3935c9#ref=rss)
+### israels
+
+* [https://www.spiegel.de/ausland/israels-neue-offensive-im-gazastreifen-es-fuehlte-sich-an-wie-der-weltuntergang](https://www.spiegel.de/ausland/israels-neue-offensive-im-gazastreifen-es-fuehlte-sich-an-wie-der-weltuntergang-a-b2111ad7-e56e-4aa0-954f-2ede36d3507c#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-satellitenbilder-zeigen-systematische-zerstoerung-und-uebernahme-des-kriegsgebiets](https://www.spiegel.de/ausland/gaza-satellitenbilder-zeigen-systematische-zerstoerung-und-uebernahme-des-kriegsgebiets-a-41b40d48-28ff-4020-b760-0852e890ca0f#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/ausland/israels-neue-offensive-im-gazastreifen-es-fuehlte-sich-an-wie-der-weltuntergang](https://www.spiegel.de/ausland/israels-neue-offensive-im-gazastreifen-es-fuehlte-sich-an-wie-der-weltuntergang-a-b2111ad7-e56e-4aa0-954f-2ede36d3507c#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-satellitenbilder-zeigen-systematische-zerstoerung-und-uebernahme-des-kriegsgebiets](https://www.spiegel.de/ausland/gaza-satellitenbilder-zeigen-systematische-zerstoerung-und-uebernahme-des-kriegsgebiets-a-41b40d48-28ff-4020-b760-0852e890ca0f#ref=rss)
+### besetzen
+
+* [https://www.spiegel.de/ausland/israels-neue-offensive-im-gazastreifen-es-fuehlte-sich-an-wie-der-weltuntergang](https://www.spiegel.de/ausland/israels-neue-offensive-im-gazastreifen-es-fuehlte-sich-an-wie-der-weltuntergang-a-b2111ad7-e56e-4aa0-954f-2ede36d3507c#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-satellitenbilder-zeigen-systematische-zerstoerung-und-uebernahme-des-kriegsgebiets](https://www.spiegel.de/ausland/gaza-satellitenbilder-zeigen-systematische-zerstoerung-und-uebernahme-des-kriegsgebiets-a-41b40d48-28ff-4020-b760-0852e890ca0f#ref=rss)
+### adam
+
+* [https://www.spiegel.de/kultur/kino/adam-sandler-nimmt-abschied-von-happy-gilmore-alligator](https://www.spiegel.de/kultur/kino/adam-sandler-nimmt-abschied-von-happy-gilmore-alligator-a-57de385b-28b5-4c34-a5a1-bb9f482fa419#ref=rss)
+### sandler
+
+* [https://www.spiegel.de/kultur/kino/adam-sandler-nimmt-abschied-von-happy-gilmore-alligator](https://www.spiegel.de/kultur/kino/adam-sandler-nimmt-abschied-von-happy-gilmore-alligator-a-57de385b-28b5-4c34-a5a1-bb9f482fa419#ref=rss)
+### happy
+
+* [https://www.spiegel.de/kultur/kino/adam-sandler-nimmt-abschied-von-happy-gilmore-alligator](https://www.spiegel.de/kultur/kino/adam-sandler-nimmt-abschied-von-happy-gilmore-alligator-a-57de385b-28b5-4c34-a5a1-bb9f482fa419#ref=rss)
+### alter
+
+* [https://www.spiegel.de/kultur/kino/adam-sandler-nimmt-abschied-von-happy-gilmore-alligator](https://www.spiegel.de/kultur/kino/adam-sandler-nimmt-abschied-von-happy-gilmore-alligator-a-57de385b-28b5-4c34-a5a1-bb9f482fa419#ref=rss)
+* [https://www.spiegel.de/kultur/musik/jeremy-bana-owona-frankreich-trauert-um-rapper-werenoi](https://www.spiegel.de/kultur/musik/jeremy-bana-owona-frankreich-trauert-um-rapper-werenoi-a-275a3e82-b74b-4421-8d2f-c80e98ac1930#ref=rss)
+### gestorben
+
+* [https://www.spiegel.de/kultur/kino/adam-sandler-nimmt-abschied-von-happy-gilmore-alligator](https://www.spiegel.de/kultur/kino/adam-sandler-nimmt-abschied-von-happy-gilmore-alligator-a-57de385b-28b5-4c34-a5a1-bb9f482fa419#ref=rss)
+* [https://www.spiegel.de/kultur/musik/jeremy-bana-owona-frankreich-trauert-um-rapper-werenoi](https://www.spiegel.de/kultur/musik/jeremy-bana-owona-frankreich-trauert-um-rapper-werenoi-a-275a3e82-b74b-4421-8d2f-c80e98ac1930#ref=rss)
+### jérémy
+
+* [https://www.spiegel.de/kultur/musik/jeremy-bana-owona-frankreich-trauert-um-rapper-werenoi](https://www.spiegel.de/kultur/musik/jeremy-bana-owona-frankreich-trauert-um-rapper-werenoi-a-275a3e82-b74b-4421-8d2f-c80e98ac1930#ref=rss)
+### bana
+
+* [https://www.spiegel.de/kultur/musik/jeremy-bana-owona-frankreich-trauert-um-rapper-werenoi](https://www.spiegel.de/kultur/musik/jeremy-bana-owona-frankreich-trauert-um-rapper-werenoi-a-275a3e82-b74b-4421-8d2f-c80e98ac1930#ref=rss)
+### owona
+
+* [https://www.spiegel.de/kultur/musik/jeremy-bana-owona-frankreich-trauert-um-rapper-werenoi](https://www.spiegel.de/kultur/musik/jeremy-bana-owona-frankreich-trauert-um-rapper-werenoi-a-275a3e82-b74b-4421-8d2f-c80e98ac1930#ref=rss)
+### rapper
+
+* [https://www.spiegel.de/kultur/musik/jeremy-bana-owona-frankreich-trauert-um-rapper-werenoi](https://www.spiegel.de/kultur/musik/jeremy-bana-owona-frankreich-trauert-um-rapper-werenoi-a-275a3e82-b74b-4421-8d2f-c80e98ac1930#ref=rss)
+### werenoi
+
+* [https://www.spiegel.de/kultur/musik/jeremy-bana-owona-frankreich-trauert-um-rapper-werenoi](https://www.spiegel.de/kultur/musik/jeremy-bana-owona-frankreich-trauert-um-rapper-werenoi-a-275a3e82-b74b-4421-8d2f-c80e98ac1930#ref=rss)
+### alles
+
+* [https://www.spiegel.de/kultur/musik/jeremy-bana-owona-frankreich-trauert-um-rapper-werenoi](https://www.spiegel.de/kultur/musik/jeremy-bana-owona-frankreich-trauert-um-rapper-werenoi-a-275a3e82-b74b-4421-8d2f-c80e98ac1930#ref=rss)
+* [https://www.spiegel.de/kultur/musik/eurovision-song-contest-2025-alle-esc-finalsongs-im-check](https://www.spiegel.de/kultur/musik/eurovision-song-contest-2025-alle-esc-finalsongs-im-check-a-12392d1c-dc35-417d-9d55-132656baafc5#ref=rss)
+### medienberichten
+
+* [https://www.spiegel.de/kultur/musik/jeremy-bana-owona-frankreich-trauert-um-rapper-werenoi](https://www.spiegel.de/kultur/musik/jeremy-bana-owona-frankreich-trauert-um-rapper-werenoi-a-275a3e82-b74b-4421-8d2f-c80e98ac1930#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/tornados-in-kentucky-und-missouri-mindestens-21-tote-nach-stuermen-in-den-usa](https://www.spiegel.de/wissenschaft/natur/tornados-in-kentucky-und-missouri-mindestens-21-tote-nach-stuermen-in-den-usa-a-e27f6a8d-88ac-4a28-a879-7794fbe7b379#ref=rss)
+### putin
+
+* [https://www.spiegel.de/ausland/donald-trump-kuendigt-telefonat-mit-wladimir-putin-fuer-montag-an](https://www.spiegel.de/ausland/donald-trump-kuendigt-telefonat-mit-wladimir-putin-fuer-montag-an-a-acc290e0-3afd-40a1-b471-e94c7bcb62c4#ref=rss)
+### montag
+
+* [https://www.spiegel.de/ausland/donald-trump-kuendigt-telefonat-mit-wladimir-putin-fuer-montag-an](https://www.spiegel.de/ausland/donald-trump-kuendigt-telefonat-mit-wladimir-putin-fuer-montag-an-a-acc290e0-3afd-40a1-b471-e94c7bcb62c4#ref=rss)
+### folgen
+
+* [https://www.spiegel.de/ausland/donald-trump-kuendigt-telefonat-mit-wladimir-putin-fuer-montag-an](https://www.spiegel.de/ausland/donald-trump-kuendigt-telefonat-mit-wladimir-putin-fuer-montag-an-a-acc290e0-3afd-40a1-b471-e94c7bcb62c4#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/laesst-das-navi-unseren-orientierungssinn-verkuemmern](https://www.spiegel.de/wissenschaft/mensch/laesst-das-navi-unseren-orientierungssinn-verkuemmern-a-09ea4d0f-0a31-461a-9b88-c0e161bcbea7#ref=rss)
+### frankfurt
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-und-eintracht-frankfurt-qualifizieren-sich-fuer-die-champions-league](https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-und-eintracht-frankfurt-qualifizieren-sich-fuer-die-champions-league-a-f510e636-6c15-4d7e-bbe9-ee0f4a3935c9#ref=rss)
+### league
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-und-eintracht-frankfurt-qualifizieren-sich-fuer-die-champions-league](https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-und-eintracht-frankfurt-qualifizieren-sich-fuer-die-champions-league-a-f510e636-6c15-4d7e-bbe9-ee0f4a3935c9#ref=rss)
+* [https://www.spiegel.de/sport/julian-weber-speerwerfer-uebertrifft-90-meter-marke-in-doha](https://www.spiegel.de/sport/julian-weber-speerwerfer-uebertrifft-90-meter-marke-in-doha-a-67fe9b81-47e3-4649-925f-1192f360b45c#ref=rss)
+### ende
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-und-eintracht-frankfurt-qualifizieren-sich-fuer-die-champions-league](https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-und-eintracht-frankfurt-qualifizieren-sich-fuer-die-champions-league-a-f510e636-6c15-4d7e-bbe9-ee0f4a3935c9#ref=rss)
+* [https://www.spiegel.de/sport/eishockey/eishockey-wm-deutschland-unterliegt-usa-trotz-starker-aufholjagd](https://www.spiegel.de/sport/eishockey/eishockey-wm-deutschland-unterliegt-usa-trotz-starker-aufholjagd-a-ca7a8f8c-5799-48ee-84fa-3439796fc932#ref=rss)
+### großbritannien
+
+* [https://www.spiegel.de/ausland/grossbritannien-wirft-drei-maennern-aus-iran-spionage-vor](https://www.spiegel.de/ausland/grossbritannien-wirft-drei-maennern-aus-iran-spionage-vor-a-3267bd76-4fe2-4047-ab46-345257721062#ref=rss)
+### eurasia
+
+* [https://www.spiegel.de/geschichte/eurasia-was-wollte-der-kuenstler-joseph-beuys-mit-fett-und-ausgestopften-tieren-sagen](https://www.spiegel.de/geschichte/eurasia-was-wollte-der-kuenstler-joseph-beuys-mit-fett-und-ausgestopften-tieren-sagen-a-4058f00a-9504-48fe-88f5-e369ee62e2db#ref=rss)
+### joseph
+
+* [https://www.spiegel.de/geschichte/eurasia-was-wollte-der-kuenstler-joseph-beuys-mit-fett-und-ausgestopften-tieren-sagen](https://www.spiegel.de/geschichte/eurasia-was-wollte-der-kuenstler-joseph-beuys-mit-fett-und-ausgestopften-tieren-sagen-a-4058f00a-9504-48fe-88f5-e369ee62e2db#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/geschichte/eurasia-was-wollte-der-kuenstler-joseph-beuys-mit-fett-und-ausgestopften-tieren-sagen](https://www.spiegel.de/geschichte/eurasia-was-wollte-der-kuenstler-joseph-beuys-mit-fett-und-ausgestopften-tieren-sagen-a-4058f00a-9504-48fe-88f5-e369ee62e2db#ref=rss)
+* [https://www.spiegel.de/sport/eishockey/eishockey-wm-deutschland-unterliegt-usa-trotz-starker-aufholjagd](https://www.spiegel.de/sport/eishockey/eishockey-wm-deutschland-unterliegt-usa-trotz-starker-aufholjagd-a-ca7a8f8c-5799-48ee-84fa-3439796fc932#ref=rss)
+### mücken
+
+* [https://www.spiegel.de/wissenschaft/natur/muecken-wespen-und-zecken-tipps-zum-schutz-vor-stichen-und-mythen-im-faktencheck](https://www.spiegel.de/wissenschaft/natur/muecken-wespen-und-zecken-tipps-zum-schutz-vor-stichen-und-mythen-im-faktencheck-a-2a2e01fa-a52b-414c-ba95-4b93e40df828#ref=rss)
+### zecken
+
+* [https://www.spiegel.de/wissenschaft/natur/muecken-wespen-und-zecken-tipps-zum-schutz-vor-stichen-und-mythen-im-faktencheck](https://www.spiegel.de/wissenschaft/natur/muecken-wespen-und-zecken-tipps-zum-schutz-vor-stichen-und-mythen-im-faktencheck-a-2a2e01fa-a52b-414c-ba95-4b93e40df828#ref=rss)
+### mythen
+
+* [https://www.spiegel.de/wissenschaft/natur/muecken-wespen-und-zecken-tipps-zum-schutz-vor-stichen-und-mythen-im-faktencheck](https://www.spiegel.de/wissenschaft/natur/muecken-wespen-und-zecken-tipps-zum-schutz-vor-stichen-und-mythen-im-faktencheck-a-2a2e01fa-a52b-414c-ba95-4b93e40df828#ref=rss)
+### tausend
+
+* [https://www.spiegel.de/netzwelt/web/nebenjob-mikro-influencer-was-man-mit-werbung-fuer-ein-paar-tausend-follower-verdient](https://www.spiegel.de/netzwelt/web/nebenjob-mikro-influencer-was-man-mit-werbung-fuer-ein-paar-tausend-follower-verdient-a-50251b33-32c2-49c3-9edf-ae7b482a3b15#ref=rss)
+### follower
+
+* [https://www.spiegel.de/netzwelt/web/nebenjob-mikro-influencer-was-man-mit-werbung-fuer-ein-paar-tausend-follower-verdient](https://www.spiegel.de/netzwelt/web/nebenjob-mikro-influencer-was-man-mit-werbung-fuer-ein-paar-tausend-follower-verdient-a-50251b33-32c2-49c3-9edf-ae7b482a3b15#ref=rss)
+### alle
+
+* [https://www.spiegel.de/wissenschaft/mensch/laesst-das-navi-unseren-orientierungssinn-verkuemmern](https://www.spiegel.de/wissenschaft/mensch/laesst-das-navi-unseren-orientierungssinn-verkuemmern-a-09ea4d0f-0a31-461a-9b88-c0e161bcbea7#ref=rss)
+* [https://www.spiegel.de/kultur/musik/eurovision-song-contest-2025-alle-esc-finalsongs-im-check](https://www.spiegel.de/kultur/musik/eurovision-song-contest-2025-alle-esc-finalsongs-im-check-a-12392d1c-dc35-417d-9d55-132656baafc5#ref=rss)
+### gaza
+
+* [https://www.spiegel.de/ausland/gaza-satellitenbilder-zeigen-systematische-zerstoerung-und-uebernahme-des-kriegsgebiets](https://www.spiegel.de/ausland/gaza-satellitenbilder-zeigen-systematische-zerstoerung-und-uebernahme-des-kriegsgebiets-a-41b40d48-28ff-4020-b760-0852e890ca0f#ref=rss)
+* [https://www.spiegel.de/ausland/hamas-bestaetigt-neue-gespraeche-mit-israel-ueber-waffenruhe-im-gazastreifen](https://www.spiegel.de/ausland/hamas-bestaetigt-neue-gespraeche-mit-israel-ueber-waffenruhe-im-gazastreifen-a-bd2f16c1-c74b-44c3-b064-ec4d907c0341#ref=rss)
+### frühere
+
+* [https://www.spiegel.de/ausland/donald-trump-fruehere-us-botschafterin-bridget-brink-konnte-trumps-politik-nicht-mehr-vertreten](https://www.spiegel.de/ausland/donald-trump-fruehere-us-botschafterin-bridget-brink-konnte-trumps-politik-nicht-mehr-vertreten-a-a19cad83-3368-41cf-8943-0b83d6ecc80f#ref=rss)
+### usbotschafterin
+
+* [https://www.spiegel.de/ausland/donald-trump-fruehere-us-botschafterin-bridget-brink-konnte-trumps-politik-nicht-mehr-vertreten](https://www.spiegel.de/ausland/donald-trump-fruehere-us-botschafterin-bridget-brink-konnte-trumps-politik-nicht-mehr-vertreten-a-a19cad83-3368-41cf-8943-0b83d6ecc80f#ref=rss)
+### bridget
+
+* [https://www.spiegel.de/ausland/donald-trump-fruehere-us-botschafterin-bridget-brink-konnte-trumps-politik-nicht-mehr-vertreten](https://www.spiegel.de/ausland/donald-trump-fruehere-us-botschafterin-bridget-brink-konnte-trumps-politik-nicht-mehr-vertreten-a-a19cad83-3368-41cf-8943-0b83d6ecc80f#ref=rss)
+### brink
+
+* [https://www.spiegel.de/ausland/donald-trump-fruehere-us-botschafterin-bridget-brink-konnte-trumps-politik-nicht-mehr-vertreten](https://www.spiegel.de/ausland/donald-trump-fruehere-us-botschafterin-bridget-brink-konnte-trumps-politik-nicht-mehr-vertreten-a-a19cad83-3368-41cf-8943-0b83d6ecc80f#ref=rss)
+### trumps
+
+* [https://www.spiegel.de/ausland/donald-trump-fruehere-us-botschafterin-bridget-brink-konnte-trumps-politik-nicht-mehr-vertreten](https://www.spiegel.de/ausland/donald-trump-fruehere-us-botschafterin-bridget-brink-konnte-trumps-politik-nicht-mehr-vertreten-a-a19cad83-3368-41cf-8943-0b83d6ecc80f#ref=rss)
+### politik
+
+* [https://www.spiegel.de/ausland/donald-trump-fruehere-us-botschafterin-bridget-brink-konnte-trumps-politik-nicht-mehr-vertreten](https://www.spiegel.de/ausland/donald-trump-fruehere-us-botschafterin-bridget-brink-konnte-trumps-politik-nicht-mehr-vertreten-a-a19cad83-3368-41cf-8943-0b83d6ecc80f#ref=rss)
+### tornados
+
+* [https://www.spiegel.de/wissenschaft/natur/tornados-in-kentucky-und-missouri-mindestens-21-tote-nach-stuermen-in-den-usa](https://www.spiegel.de/wissenschaft/natur/tornados-in-kentucky-und-missouri-mindestens-21-tote-nach-stuermen-in-den-usa-a-e27f6a8d-88ac-4a28-a879-7794fbe7b379#ref=rss)
+### kentucky
+
+* [https://www.spiegel.de/wissenschaft/natur/tornados-in-kentucky-und-missouri-mindestens-21-tote-nach-stuermen-in-den-usa](https://www.spiegel.de/wissenschaft/natur/tornados-in-kentucky-und-missouri-mindestens-21-tote-nach-stuermen-in-den-usa-a-e27f6a8d-88ac-4a28-a879-7794fbe7b379#ref=rss)
+### missouri
+
+* [https://www.spiegel.de/wissenschaft/natur/tornados-in-kentucky-und-missouri-mindestens-21-tote-nach-stuermen-in-den-usa](https://www.spiegel.de/wissenschaft/natur/tornados-in-kentucky-und-missouri-mindestens-21-tote-nach-stuermen-in-den-usa-a-e27f6a8d-88ac-4a28-a879-7794fbe7b379#ref=rss)
+### astronaut
+
+* [https://www.spiegel.de/wissenschaft/internationale-raumstation-astronaut-don-pettit-macht-spektakulaere-bilder-aus-dem-all](https://www.spiegel.de/wissenschaft/internationale-raumstation-astronaut-don-pettit-macht-spektakulaere-bilder-aus-dem-all-a-d00ba1e0-e4cf-4598-bff6-16c6a7343d67#ref=rss)
+### don
+
+* [https://www.spiegel.de/wissenschaft/internationale-raumstation-astronaut-don-pettit-macht-spektakulaere-bilder-aus-dem-all](https://www.spiegel.de/wissenschaft/internationale-raumstation-astronaut-don-pettit-macht-spektakulaere-bilder-aus-dem-all-a-d00ba1e0-e4cf-4598-bff6-16c6a7343d67#ref=rss)
+### pettit
+
+* [https://www.spiegel.de/wissenschaft/internationale-raumstation-astronaut-don-pettit-macht-spektakulaere-bilder-aus-dem-all](https://www.spiegel.de/wissenschaft/internationale-raumstation-astronaut-don-pettit-macht-spektakulaere-bilder-aus-dem-all-a-d00ba1e0-e4cf-4598-bff6-16c6a7343d67#ref=rss)
+### all
+
+* [https://www.spiegel.de/wissenschaft/internationale-raumstation-astronaut-don-pettit-macht-spektakulaere-bilder-aus-dem-all](https://www.spiegel.de/wissenschaft/internationale-raumstation-astronaut-don-pettit-macht-spektakulaere-bilder-aus-dem-all-a-d00ba1e0-e4cf-4598-bff6-16c6a7343d67#ref=rss)
+### waffenruhe
+
+* [https://www.spiegel.de/ausland/hamas-bestaetigt-neue-gespraeche-mit-israel-ueber-waffenruhe-im-gazastreifen](https://www.spiegel.de/ausland/hamas-bestaetigt-neue-gespraeche-mit-israel-ueber-waffenruhe-im-gazastreifen-a-bd2f16c1-c74b-44c3-b064-ec4d907c0341#ref=rss)
+### wm
+
+* [https://www.spiegel.de/sport/eishockey/eishockey-wm-deutschland-unterliegt-usa-trotz-starker-aufholjagd](https://www.spiegel.de/sport/eishockey/eishockey-wm-deutschland-unterliegt-usa-trotz-starker-aufholjagd-a-ca7a8f8c-5799-48ee-84fa-3439796fc932#ref=rss)
+* [https://www.spiegel.de/sport/julian-weber-speerwerfer-uebertrifft-90-meter-marke-in-doha](https://www.spiegel.de/sport/julian-weber-speerwerfer-uebertrifft-90-meter-marke-in-doha-a-67fe9b81-47e3-4649-925f-1192f360b45c#ref=rss)
+### bückeburg
+
+* [https://www.spiegel.de/panorama/bueckeburg-fahrer-entkommt-bei-verfolgungsjagd-trotz-schuessen-auf-reifen](https://www.spiegel.de/panorama/bueckeburg-fahrer-entkommt-bei-verfolgungsjagd-trotz-schuessen-auf-reifen-a-b236ef3e-a144-4e8b-a1c6-d63bd472eac7#ref=rss)
+### julian
+
+* [https://www.spiegel.de/sport/julian-weber-speerwerfer-uebertrifft-90-meter-marke-in-doha](https://www.spiegel.de/sport/julian-weber-speerwerfer-uebertrifft-90-meter-marke-in-doha-a-67fe9b81-47e3-4649-925f-1192f360b45c#ref=rss)
+### weber
+
+* [https://www.spiegel.de/sport/julian-weber-speerwerfer-uebertrifft-90-meter-marke-in-doha](https://www.spiegel.de/sport/julian-weber-speerwerfer-uebertrifft-90-meter-marke-in-doha-a-67fe9b81-47e3-4649-925f-1192f360b45c#ref=rss)
+### speerwerfer
+
+* [https://www.spiegel.de/sport/julian-weber-speerwerfer-uebertrifft-90-meter-marke-in-doha](https://www.spiegel.de/sport/julian-weber-speerwerfer-uebertrifft-90-meter-marke-in-doha-a-67fe9b81-47e3-4649-925f-1192f360b45c#ref=rss)
+### doha
+
+* [https://www.spiegel.de/sport/julian-weber-speerwerfer-uebertrifft-90-meter-marke-in-doha](https://www.spiegel.de/sport/julian-weber-speerwerfer-uebertrifft-90-meter-marke-in-doha-a-67fe9b81-47e3-4649-925f-1192f360b45c#ref=rss)
+### ralph
+
+* [https://www.spiegel.de/kultur/kino/ralph-fiennes-spielt-diktator-im-naechsten-hunger-games-film](https://www.spiegel.de/kultur/kino/ralph-fiennes-spielt-diktator-im-naechsten-hunger-games-film-a-100244b7-a1a9-4066-8d64-8bbf16c8e2f9#ref=rss)
+### fiennes
+
+* [https://www.spiegel.de/kultur/kino/ralph-fiennes-spielt-diktator-im-naechsten-hunger-games-film](https://www.spiegel.de/kultur/kino/ralph-fiennes-spielt-diktator-im-naechsten-hunger-games-film-a-100244b7-a1a9-4066-8d64-8bbf16c8e2f9#ref=rss)
 
