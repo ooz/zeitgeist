@@ -4,451 +4,406 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
+### deutlich
+
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-kritisiert-verschaerfung-der-grenzkontrollen](https://www.spiegel.de/politik/deutschland/angela-merkel-kritisiert-verschaerfung-der-grenzkontrollen-a-cd2ed7dd-feae-42a7-9802-eb219b38a70a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/banken-vergeben-deutlich-mehr-immobilienkredite](https://www.spiegel.de/wirtschaft/banken-vergeben-deutlich-mehr-immobilienkredite-a-ae281b88-03c7-42d4-83af-aaf4e24198e6#ref=rss)
+* [https://www.spiegel.de/wissenschaft/asiatische-elefanten-haben-deutlich-groessere-gehirne-als-afrikanische](https://www.spiegel.de/wissenschaft/asiatische-elefanten-haben-deutlich-groessere-gehirne-als-afrikanische-a-3f2a76ed-504d-433a-a927-72bcff37e42d#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie](https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-a-726f708e-86d3-44bd-849c-e4c90d670002#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-podcast](https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-podcast-a-da7bdec1-adda-41f8-9abf-af22b84995d5#ref=rss)
-* [https://www.spiegel.de/panorama/leute/usa-papst-bruder-louis-prevost-trifft-donald-trump-im-weissen-haus](https://www.spiegel.de/panorama/leute/usa-papst-bruder-louis-prevost-trifft-donald-trump-im-weissen-haus-a-b61887e0-424d-4dc8-95c7-6b170fd2fb17#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-kopiert-donald-trump-das-star-wars-programm-von-ronald-reagan](https://www.spiegel.de/politik/deutschland/news-des-tages-kopiert-donald-trump-das-star-wars-programm-von-ronald-reagan-a-45f2a963-d288-424a-9193-6406c270d854#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-konzern-baut-nun-auch-in-vietnam](https://www.spiegel.de/wirtschaft/donald-trump-konzern-baut-nun-auch-in-vietnam-a-6208d23f-e9cd-4f59-9426-a6dff7d568aa#ref=rss)
+* [https://www.spiegel.de/wissenschaft/trump-regierung-so-kaempfen-us-universitaeten-um-ihre-autonomie](https://www.spiegel.de/wissenschaft/trump-regierung-so-kaempfen-us-universitaeten-um-ihre-autonomie-a-aeab2c68-e4dd-4270-af30-ce30bad9e010#ref=rss)
+* [https://www.spiegel.de/sport/enhanced-games-dopingspiele-werden-in-las-vegas-stattfinden](https://www.spiegel.de/sport/enhanced-games-dopingspiele-werden-in-las-vegas-stattfinden-a-e66e0a96-7693-45c2-a9b5-392539f708db#ref=rss)
+* [https://www.spiegel.de/kultur/kino/jodie-foster-bezeichnet-politik-von-donald-trump-als-tragoedie-bruce-springsteen-legt-nach](https://www.spiegel.de/kultur/kino/jodie-foster-bezeichnet-politik-von-donald-trump-als-tragoedie-bruce-springsteen-legt-nach-a-6030b093-9bc2-4558-b5a0-b4448643ad90#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie](https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-a-726f708e-86d3-44bd-849c-e4c90d670002#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-podcast](https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-podcast-a-da7bdec1-adda-41f8-9abf-af22b84995d5#ref=rss)
-* [https://www.spiegel.de/panorama/leute/usa-papst-bruder-louis-prevost-trifft-donald-trump-im-weissen-haus](https://www.spiegel.de/panorama/leute/usa-papst-bruder-louis-prevost-trifft-donald-trump-im-weissen-haus-a-b61887e0-424d-4dc8-95c7-6b170fd2fb17#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-kopiert-donald-trump-das-star-wars-programm-von-ronald-reagan](https://www.spiegel.de/politik/deutschland/news-des-tages-kopiert-donald-trump-das-star-wars-programm-von-ronald-reagan-a-45f2a963-d288-424a-9193-6406c270d854#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-konzern-baut-nun-auch-in-vietnam](https://www.spiegel.de/wirtschaft/donald-trump-konzern-baut-nun-auch-in-vietnam-a-6208d23f-e9cd-4f59-9426-a6dff7d568aa#ref=rss)
+* [https://www.spiegel.de/wissenschaft/trump-regierung-so-kaempfen-us-universitaeten-um-ihre-autonomie](https://www.spiegel.de/wissenschaft/trump-regierung-so-kaempfen-us-universitaeten-um-ihre-autonomie-a-aeab2c68-e4dd-4270-af30-ce30bad9e010#ref=rss)
+* [https://www.spiegel.de/sport/enhanced-games-dopingspiele-werden-in-las-vegas-stattfinden](https://www.spiegel.de/sport/enhanced-games-dopingspiele-werden-in-las-vegas-stattfinden-a-e66e0a96-7693-45c2-a9b5-392539f708db#ref=rss)
+* [https://www.spiegel.de/kultur/kino/jodie-foster-bezeichnet-politik-von-donald-trump-als-tragoedie-bruce-springsteen-legt-nach](https://www.spiegel.de/kultur/kino/jodie-foster-bezeichnet-politik-von-donald-trump-als-tragoedie-bruce-springsteen-legt-nach-a-6030b093-9bc2-4558-b5a0-b4448643ad90#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/politik/deutschland/anschlag-in-washington-d-c-getoeteter-israelischer-botschaftsmitarbeiter-hatte-auch-deutschen-pass](https://www.spiegel.de/politik/deutschland/anschlag-in-washington-d-c-getoeteter-israelischer-botschaftsmitarbeiter-hatte-auch-deutschen-pass-a-f38efd79-76e9-4218-be85-23073b36d708#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/muenchen-mutmasslicher-brandanschlag-auf-polizei-reiterstaffel](https://www.spiegel.de/panorama/justiz/muenchen-mutmasslicher-brandanschlag-auf-polizei-reiterstaffel-a-7faf098d-8f99-454a-b679-b75c1af72542#ref=rss)
+* [https://www.spiegel.de/ausland/washington-schuesse-nahe-juedischem-museum-polizei-vermutet-politisches-motiv](https://www.spiegel.de/ausland/washington-schuesse-nahe-juedischem-museum-polizei-vermutet-politisches-motiv-a-0971c1cc-790c-43da-80e3-b72d3382b618#ref=rss)
+* [https://www.spiegel.de/ausland/benjamin-netanyahu-will-schutz-israelischer-botschaften-hochfahren-reaktion-auf-anschlag-in-washington-d-c](https://www.spiegel.de/ausland/benjamin-netanyahu-will-schutz-israelischer-botschaften-hochfahren-reaktion-auf-anschlag-in-washington-d-c-a-5b3fd929-735a-4240-925f-ee161749d80e#ref=rss)
+### region
+
+* [https://www.spiegel.de/panorama/australien-mindestens-drei-tote-bei-hochwasser-in-der-region-mid-north-coast](https://www.spiegel.de/panorama/australien-mindestens-drei-tote-bei-hochwasser-in-der-region-mid-north-coast-a-0b430873-2981-4dd4-9eb7-c6e4e395c28f#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-vorbereitungen-auf-russische-sommeroffensive-im-donbass](https://www.spiegel.de/ausland/ukraine-vorbereitungen-auf-russische-sommeroffensive-im-donbass-a-ff42f539-12b8-4a9e-9ff9-043fa99984ff#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/ausland/uno-mitarbeiterin-im-gazastreifen-ueber-hilfslieferungen-bei-den-menschen-in-gaza-ist-noch-keine-hilfe-angekommen](https://www.spiegel.de/ausland/uno-mitarbeiterin-im-gazastreifen-ueber-hilfslieferungen-bei-den-menschen-in-gaza-ist-noch-keine-hilfe-angekommen-a-2fa41072-d8ed-4ff8-993b-93b9d84d2851#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-flugblaetter-warnen-menschen-mit-koranvers-vor-grossoffensive](https://www.spiegel.de/ausland/israel-gaza-krieg-flugblaetter-warnen-menschen-mit-koranvers-vor-grossoffensive-a-62afaf99-3051-4920-b276-11f5c45bd682#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/google-i-o-kuenstliche-intelligenz-wird-modeberater-aber-kein-ersatz-fuer-apps](https://www.spiegel.de/netzwelt/web/google-i-o-kuenstliche-intelligenz-wird-modeberater-aber-kein-ersatz-fuer-apps-a-30b1e146-145e-474e-9f97-cee620f1a261#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-bei-massiv-wildeste-kombi-die-youtube-zu-bieten-hat](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-bei-massiv-wildeste-kombi-die-youtube-zu-bieten-hat-a-1822ce59-c5bf-4881-a176-6c57803863d0#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/ueberfall-auf-kim-kardashian-staatsanwaltschaft-fordert-lange-haftstrafen](https://www.spiegel.de/panorama/justiz/ueberfall-auf-kim-kardashian-staatsanwaltschaft-fordert-lange-haftstrafen-a-7bb86cf1-89c0-493c-a0b8-7051f46680f0#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/schulen-im-brennpunkt-brauchen-mehr-als-nur-finanzielle-unterstuetzung-umfrage-der-wuebben-stiftung](https://www.spiegel.de/panorama/bildung/schulen-im-brennpunkt-brauchen-mehr-als-nur-finanzielle-unterstuetzung-umfrage-der-wuebben-stiftung-a-fd21c64c-eac1-4c6f-ac7c-49d7528f56b9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/aldi-sued-sortiert-frischfleisch-neu-verbraucherschuetzer-reagieren-empoert](https://www.spiegel.de/wirtschaft/unternehmen/aldi-sued-sortiert-frischfleisch-neu-verbraucherschuetzer-reagieren-empoert-a-db644214-4af7-4283-aca4-dc602fc7d92b#ref=rss)
-### gazastreifen
-
-* [https://www.spiegel.de/ausland/uno-mitarbeiterin-im-gazastreifen-ueber-hilfslieferungen-bei-den-menschen-in-gaza-ist-noch-keine-hilfe-angekommen](https://www.spiegel.de/ausland/uno-mitarbeiterin-im-gazastreifen-ueber-hilfslieferungen-bei-den-menschen-in-gaza-ist-noch-keine-hilfe-angekommen-a-2fa41072-d8ed-4ff8-993b-93b9d84d2851#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-flugblaetter-warnen-menschen-mit-koranvers-vor-grossoffensive](https://www.spiegel.de/ausland/israel-gaza-krieg-flugblaetter-warnen-menschen-mit-koranvers-vor-grossoffensive-a-62afaf99-3051-4920-b276-11f5c45bd682#ref=rss)
-* [https://www.spiegel.de/ausland/sieben-monate-altes-baby-muss-nach-herz-op-in-jordanien-zurueck-ins-kriegsgebiet](https://www.spiegel.de/ausland/sieben-monate-altes-baby-muss-nach-herz-op-in-jordanien-zurueck-ins-kriegsgebiet-a-0467fb94-7250-4467-8207-950c0f3e1923#ref=rss)
-### bundestag
-
-* [https://www.spiegel.de/politik/deutschland/henning-otte-ist-neuer-wehrbeauftragter-des-bundestags](https://www.spiegel.de/politik/deutschland/henning-otte-ist-neuer-wehrbeauftragter-des-bundestags-a-aaa911ac-efb7-4423-b7b8-8f6b25e4c833#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-bei-massiv-wildeste-kombi-die-youtube-zu-bieten-hat](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-bei-massiv-wildeste-kombi-die-youtube-zu-bieten-hat-a-1822ce59-c5bf-4881-a176-6c57803863d0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-warum-die-partei-keine-ausschussvorsitze-im-bundestag-bekommt](https://www.spiegel.de/politik/deutschland/afd-warum-die-partei-keine-ausschussvorsitze-im-bundestag-bekommt-a-748d8d5f-21ad-4a52-9cfa-8ea8a15fa328#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie](https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-a-726f708e-86d3-44bd-849c-e4c90d670002#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-podcast](https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-podcast-a-da7bdec1-adda-41f8-9abf-af22b84995d5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/eu-und-usa-verhandeln-jetzt-konkret-ueber-zollabkommen](https://www.spiegel.de/wirtschaft/eu-und-usa-verhandeln-jetzt-konkret-ueber-zollabkommen-a-3b01492a-b3b9-4ed0-8b75-efb3e4dcfce6#ref=rss)
-* [https://www.spiegel.de/panorama/leute/usa-papst-bruder-louis-prevost-trifft-donald-trump-im-weissen-haus](https://www.spiegel.de/panorama/leute/usa-papst-bruder-louis-prevost-trifft-donald-trump-im-weissen-haus-a-b61887e0-424d-4dc8-95c7-6b170fd2fb17#ref=rss)
-### jet
-
-* [https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie](https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-a-726f708e-86d3-44bd-849c-e4c90d670002#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-podcast](https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-podcast-a-da7bdec1-adda-41f8-9abf-af22b84995d5#ref=rss)
-### katar
-
-* [https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie](https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-a-726f708e-86d3-44bd-849c-e4c90d670002#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-podcast](https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-podcast-a-da7bdec1-adda-41f8-9abf-af22b84995d5#ref=rss)
-### neue
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-flugblaetter-warnen-menschen-mit-koranvers-vor-grossoffensive](https://www.spiegel.de/ausland/israel-gaza-krieg-flugblaetter-warnen-menschen-mit-koranvers-vor-grossoffensive-a-62afaf99-3051-4920-b276-11f5c45bd682#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-bei-massiv-wildeste-kombi-die-youtube-zu-bieten-hat](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-bei-massiv-wildeste-kombi-die-youtube-zu-bieten-hat-a-1822ce59-c5bf-4881-a176-6c57803863d0#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/schulen-im-brennpunkt-brauchen-mehr-als-nur-finanzielle-unterstuetzung-umfrage-der-wuebben-stiftung](https://www.spiegel.de/panorama/bildung/schulen-im-brennpunkt-brauchen-mehr-als-nur-finanzielle-unterstuetzung-umfrage-der-wuebben-stiftung-a-fd21c64c-eac1-4c6f-ac7c-49d7528f56b9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-konzern-baut-nun-auch-in-vietnam](https://www.spiegel.de/wirtschaft/donald-trump-konzern-baut-nun-auch-in-vietnam-a-6208d23f-e9cd-4f59-9426-a6dff7d568aa#ref=rss)
-### gaza
-
-* [https://www.spiegel.de/ausland/uno-mitarbeiterin-im-gazastreifen-ueber-hilfslieferungen-bei-den-menschen-in-gaza-ist-noch-keine-hilfe-angekommen](https://www.spiegel.de/ausland/uno-mitarbeiterin-im-gazastreifen-ueber-hilfslieferungen-bei-den-menschen-in-gaza-ist-noch-keine-hilfe-angekommen-a-2fa41072-d8ed-4ff8-993b-93b9d84d2851#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-flugblaetter-warnen-menschen-mit-koranvers-vor-grossoffensive](https://www.spiegel.de/ausland/israel-gaza-krieg-flugblaetter-warnen-menschen-mit-koranvers-vor-grossoffensive-a-62afaf99-3051-4920-b276-11f5c45bd682#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-bei-massiv-wildeste-kombi-die-youtube-zu-bieten-hat](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-bei-massiv-wildeste-kombi-die-youtube-zu-bieten-hat-a-1822ce59-c5bf-4881-a176-6c57803863d0#ref=rss)
-### familie
-
-* [https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie](https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-a-726f708e-86d3-44bd-849c-e4c90d670002#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-podcast](https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-podcast-a-da7bdec1-adda-41f8-9abf-af22b84995d5#ref=rss)
-* [https://www.spiegel.de/ausland/sieben-monate-altes-baby-muss-nach-herz-op-in-jordanien-zurueck-ins-kriegsgebiet](https://www.spiegel.de/ausland/sieben-monate-altes-baby-muss-nach-herz-op-in-jordanien-zurueck-ins-kriegsgebiet-a-0467fb94-7250-4467-8207-950c0f3e1923#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie](https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-a-726f708e-86d3-44bd-849c-e4c90d670002#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-podcast](https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-podcast-a-da7bdec1-adda-41f8-9abf-af22b84995d5#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/schulen-im-brennpunkt-brauchen-mehr-als-nur-finanzielle-unterstuetzung-umfrage-der-wuebben-stiftung](https://www.spiegel.de/panorama/bildung/schulen-im-brennpunkt-brauchen-mehr-als-nur-finanzielle-unterstuetzung-umfrage-der-wuebben-stiftung-a-fd21c64c-eac1-4c6f-ac7c-49d7528f56b9#ref=rss)
-### macht
-
-* [https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie](https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-a-726f708e-86d3-44bd-849c-e4c90d670002#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-podcast](https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-podcast-a-da7bdec1-adda-41f8-9abf-af22b84995d5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-konzern-baut-nun-auch-in-vietnam](https://www.spiegel.de/wirtschaft/donald-trump-konzern-baut-nun-auch-in-vietnam-a-6208d23f-e9cd-4f59-9426-a6dff7d568aa#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie](https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-a-726f708e-86d3-44bd-849c-e4c90d670002#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-podcast](https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-podcast-a-da7bdec1-adda-41f8-9abf-af22b84995d5#ref=rss)
-* [https://www.spiegel.de/kultur/tv/friedrich-liechtenstein-ueber-schwere-rolle-leiche-kann-nicht-jeder](https://www.spiegel.de/kultur/tv/friedrich-liechtenstein-ueber-schwere-rolle-leiche-kann-nicht-jeder-a-0629acff-9460-4880-90d5-695dace4ee50#ref=rss)
-### lage
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-flugblaetter-warnen-menschen-mit-koranvers-vor-grossoffensive](https://www.spiegel.de/ausland/israel-gaza-krieg-flugblaetter-warnen-menschen-mit-koranvers-vor-grossoffensive-a-62afaf99-3051-4920-b276-11f5c45bd682#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-bei-massiv-wildeste-kombi-die-youtube-zu-bieten-hat](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-bei-massiv-wildeste-kombi-die-youtube-zu-bieten-hat-a-1822ce59-c5bf-4881-a176-6c57803863d0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-kopiert-donald-trump-das-star-wars-programm-von-ronald-reagan](https://www.spiegel.de/politik/deutschland/news-des-tages-kopiert-donald-trump-das-star-wars-programm-von-ronald-reagan-a-45f2a963-d288-424a-9193-6406c270d854#ref=rss)
-### star
-
-* [https://www.spiegel.de/kultur/kino/regiedebuets-von-kristen-stewart-und-scarlett-johansson-in-cannes-chronologie-eines-debakels](https://www.spiegel.de/kultur/kino/regiedebuets-von-kristen-stewart-und-scarlett-johansson-in-cannes-chronologie-eines-debakels-a-d30ce9e7-6528-452e-8156-cc8fa547a7c0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-kopiert-donald-trump-das-star-wars-programm-von-ronald-reagan](https://www.spiegel.de/politik/deutschland/news-des-tages-kopiert-donald-trump-das-star-wars-programm-von-ronald-reagan-a-45f2a963-d288-424a-9193-6406c270d854#ref=rss)
-### israels
-
-* [https://www.spiegel.de/ausland/ronen-bar-oberstes-gericht-erklaert-entlassung-von-israels-geheimdienstchef-fuer-rechtswidrig](https://www.spiegel.de/ausland/ronen-bar-oberstes-gericht-erklaert-entlassung-von-israels-geheimdienstchef-fuer-rechtswidrig-a-3dc489d0-fae6-4b2c-91ff-e0a81e271dfc#ref=rss)
-* [https://www.spiegel.de/ausland/westjordanland-schuesse-bei-diplomatenbesuch-scharfe-kritik-an-israels-militaer](https://www.spiegel.de/ausland/westjordanland-schuesse-bei-diplomatenbesuch-scharfe-kritik-an-israels-militaer-a-d6d72ad0-373f-4065-ba81-536f1980c6ef#ref=rss)
-### madrid
-
-* [https://www.spiegel.de/sport/fussball/vinicius-junior-von-real-madrid-rassismus-urteil-im-spanischen-fussball-ausgesprochen](https://www.spiegel.de/sport/fussball/vinicius-junior-von-real-madrid-rassismus-urteil-im-spanischen-fussball-ausgesprochen-a-63442068-3ea4-449c-9f9c-91ec2d62dcdf#ref=rss)
-* [https://www.spiegel.de/ausland/mord-an-andrij-portnow-in-madrid-er-kannte-fast-jeden-richter-in-der-ukraine-jetzt-ist-er-tot](https://www.spiegel.de/ausland/mord-an-andrij-portnow-in-madrid-er-kannte-fast-jeden-richter-in-der-ukraine-jetzt-ist-er-tot-a-18817fa7-6f8e-4d85-a8ab-c500b4ee6805#ref=rss)
-### massiv
-
-* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-bei-massiv-wildeste-kombi-die-youtube-zu-bieten-hat](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-bei-massiv-wildeste-kombi-die-youtube-zu-bieten-hat-a-1822ce59-c5bf-4881-a176-6c57803863d0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-konzern-baut-nun-auch-in-vietnam](https://www.spiegel.de/wirtschaft/donald-trump-konzern-baut-nun-auch-in-vietnam-a-6208d23f-e9cd-4f59-9426-a6dff7d568aa#ref=rss)
-### staatsanwaltschaft
-
-* [https://www.spiegel.de/panorama/justiz/ueberfall-auf-kim-kardashian-staatsanwaltschaft-fordert-lange-haftstrafen](https://www.spiegel.de/panorama/justiz/ueberfall-auf-kim-kardashian-staatsanwaltschaft-fordert-lange-haftstrafen-a-7bb86cf1-89c0-493c-a0b8-7051f46680f0#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/niederlande-vermisste-kinder-jeffrey-und-emma-wahrscheinlich-ertrunken](https://www.spiegel.de/panorama/justiz/niederlande-vermisste-kinder-jeffrey-und-emma-wahrscheinlich-ertrunken-a-272e5dc2-8643-4312-b343-55fd8f4bdb09#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-kopiert-donald-trump-das-star-wars-programm-von-ronald-reagan](https://www.spiegel.de/politik/deutschland/news-des-tages-kopiert-donald-trump-das-star-wars-programm-von-ronald-reagan-a-45f2a963-d288-424a-9193-6406c270d854#ref=rss)
-* [https://www.spiegel.de/kultur/tv/friedrich-liechtenstein-ueber-schwere-rolle-leiche-kann-nicht-jeder](https://www.spiegel.de/kultur/tv/friedrich-liechtenstein-ueber-schwere-rolle-leiche-kann-nicht-jeder-a-0629acff-9460-4880-90d5-695dace4ee50#ref=rss)
-### bieber
-
-* [https://www.spiegel.de/kultur/justin-bieber-sagte-hailey-bieber-er-haette-sie-nie-auf-dem-vogue-cover-erwartet](https://www.spiegel.de/kultur/justin-bieber-sagte-hailey-bieber-er-haette-sie-nie-auf-dem-vogue-cover-erwartet-a-de8eba63-db3c-4c9b-8e39-9b355d32ddab#ref=rss)
-### unomitarbeiterin
-
-* [https://www.spiegel.de/ausland/uno-mitarbeiterin-im-gazastreifen-ueber-hilfslieferungen-bei-den-menschen-in-gaza-ist-noch-keine-hilfe-angekommen](https://www.spiegel.de/ausland/uno-mitarbeiterin-im-gazastreifen-ueber-hilfslieferungen-bei-den-menschen-in-gaza-ist-noch-keine-hilfe-angekommen-a-2fa41072-d8ed-4ff8-993b-93b9d84d2851#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/uno-mitarbeiterin-im-gazastreifen-ueber-hilfslieferungen-bei-den-menschen-in-gaza-ist-noch-keine-hilfe-angekommen](https://www.spiegel.de/ausland/uno-mitarbeiterin-im-gazastreifen-ueber-hilfslieferungen-bei-den-menschen-in-gaza-ist-noch-keine-hilfe-angekommen-a-2fa41072-d8ed-4ff8-993b-93b9d84d2851#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-flugblaetter-warnen-menschen-mit-koranvers-vor-grossoffensive](https://www.spiegel.de/ausland/israel-gaza-krieg-flugblaetter-warnen-menschen-mit-koranvers-vor-grossoffensive-a-62afaf99-3051-4920-b276-11f5c45bd682#ref=rss)
-### hilfsgüter
-
-* [https://www.spiegel.de/ausland/uno-mitarbeiterin-im-gazastreifen-ueber-hilfslieferungen-bei-den-menschen-in-gaza-ist-noch-keine-hilfe-angekommen](https://www.spiegel.de/ausland/uno-mitarbeiterin-im-gazastreifen-ueber-hilfslieferungen-bei-den-menschen-in-gaza-ist-noch-keine-hilfe-angekommen-a-2fa41072-d8ed-4ff8-993b-93b9d84d2851#ref=rss)
-### großen
-
-* [https://www.spiegel.de/ausland/uno-mitarbeiterin-im-gazastreifen-ueber-hilfslieferungen-bei-den-menschen-in-gaza-ist-noch-keine-hilfe-angekommen](https://www.spiegel.de/ausland/uno-mitarbeiterin-im-gazastreifen-ueber-hilfslieferungen-bei-den-menschen-in-gaza-ist-noch-keine-hilfe-angekommen-a-2fa41072-d8ed-4ff8-993b-93b9d84d2851#ref=rss)
-* [https://www.spiegel.de/ausland/mord-an-andrij-portnow-in-madrid-er-kannte-fast-jeden-richter-in-der-ukraine-jetzt-ist-er-tot](https://www.spiegel.de/ausland/mord-an-andrij-portnow-in-madrid-er-kannte-fast-jeden-richter-in-der-ukraine-jetzt-ist-er-tot-a-18817fa7-6f8e-4d85-a8ab-c500b4ee6805#ref=rss)
-### henning
-
-* [https://www.spiegel.de/politik/deutschland/henning-otte-ist-neuer-wehrbeauftragter-des-bundestags](https://www.spiegel.de/politik/deutschland/henning-otte-ist-neuer-wehrbeauftragter-des-bundestags-a-aaa911ac-efb7-4423-b7b8-8f6b25e4c833#ref=rss)
-### otte
-
-* [https://www.spiegel.de/politik/deutschland/henning-otte-ist-neuer-wehrbeauftragter-des-bundestags](https://www.spiegel.de/politik/deutschland/henning-otte-ist-neuer-wehrbeauftragter-des-bundestags-a-aaa911ac-efb7-4423-b7b8-8f6b25e4c833#ref=rss)
-### hamburg
-
-* [https://www.spiegel.de/sport/tennis/achtelfinal-aus-in-hamburg-alexander-zverev-kriegt-auch-zu-hause-nicht-die-kurve](https://www.spiegel.de/sport/tennis/achtelfinal-aus-in-hamburg-alexander-zverev-kriegt-auch-zu-hause-nicht-die-kurve-a-c9c58f26-454c-437d-a2c9-770d8a73632e#ref=rss)
-### alexander
-
-* [https://www.spiegel.de/sport/tennis/achtelfinal-aus-in-hamburg-alexander-zverev-kriegt-auch-zu-hause-nicht-die-kurve](https://www.spiegel.de/sport/tennis/achtelfinal-aus-in-hamburg-alexander-zverev-kriegt-auch-zu-hause-nicht-die-kurve-a-c9c58f26-454c-437d-a2c9-770d8a73632e#ref=rss)
-### zverev
-
-* [https://www.spiegel.de/sport/tennis/achtelfinal-aus-in-hamburg-alexander-zverev-kriegt-auch-zu-hause-nicht-die-kurve](https://www.spiegel.de/sport/tennis/achtelfinal-aus-in-hamburg-alexander-zverev-kriegt-auch-zu-hause-nicht-die-kurve-a-c9c58f26-454c-437d-a2c9-770d8a73632e#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/sport/tennis/achtelfinal-aus-in-hamburg-alexander-zverev-kriegt-auch-zu-hause-nicht-die-kurve](https://www.spiegel.de/sport/tennis/achtelfinal-aus-in-hamburg-alexander-zverev-kriegt-auch-zu-hause-nicht-die-kurve-a-c9c58f26-454c-437d-a2c9-770d8a73632e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-kopiert-donald-trump-das-star-wars-programm-von-ronald-reagan](https://www.spiegel.de/politik/deutschland/news-des-tages-kopiert-donald-trump-das-star-wars-programm-von-ronald-reagan-a-45f2a963-d288-424a-9193-6406c270d854#ref=rss)
-### lukrativen
-
-* [https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie](https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-a-726f708e-86d3-44bd-849c-e4c90d670002#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-podcast](https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-podcast-a-da7bdec1-adda-41f8-9abf-af22b84995d5#ref=rss)
-### geschäfte
-
-* [https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie](https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-a-726f708e-86d3-44bd-849c-e4c90d670002#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-podcast](https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-podcast-a-da7bdec1-adda-41f8-9abf-af22b84995d5#ref=rss)
-### kryptowährung
-
-* [https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie](https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-a-726f708e-86d3-44bd-849c-e4c90d670002#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-podcast](https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-podcast-a-da7bdec1-adda-41f8-9abf-af22b84995d5#ref=rss)
-### exklusiven
-
-* [https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie](https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-a-726f708e-86d3-44bd-849c-e4c90d670002#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-podcast](https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-podcast-a-da7bdec1-adda-41f8-9abf-af22b84995d5#ref=rss)
-### vorteilen
-
-* [https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie](https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-a-726f708e-86d3-44bd-849c-e4c90d670002#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-podcast](https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-podcast-a-da7bdec1-adda-41f8-9abf-af22b84995d5#ref=rss)
-### trumpfamilie
-
-* [https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie](https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-a-726f708e-86d3-44bd-849c-e4c90d670002#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-podcast](https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-podcast-a-da7bdec1-adda-41f8-9abf-af22b84995d5#ref=rss)
-### hemmungen
-
-* [https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie](https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-a-726f708e-86d3-44bd-849c-e4c90d670002#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-podcast](https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-podcast-a-da7bdec1-adda-41f8-9abf-af22b84995d5#ref=rss)
-### kapital
-
-* [https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie](https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-a-726f708e-86d3-44bd-849c-e4c90d670002#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-podcast](https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-podcast-a-da7bdec1-adda-41f8-9abf-af22b84995d5#ref=rss)
-### schlagen
-
-* [https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie](https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-a-726f708e-86d3-44bd-849c-e4c90d670002#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-podcast](https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-podcast-a-da7bdec1-adda-41f8-9abf-af22b84995d5#ref=rss)
-### spiegelkorrespondent
-
-* [https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie](https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-a-726f708e-86d3-44bd-849c-e4c90d670002#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-podcast](https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-podcast-a-da7bdec1-adda-41f8-9abf-af22b84995d5#ref=rss)
-### marc
-
-* [https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie](https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-a-726f708e-86d3-44bd-849c-e4c90d670002#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-podcast](https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-podcast-a-da7bdec1-adda-41f8-9abf-af22b84995d5#ref=rss)
-### pitzke
-
-* [https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie](https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-a-726f708e-86d3-44bd-849c-e4c90d670002#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-podcast](https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-podcast-a-da7bdec1-adda-41f8-9abf-af22b84995d5#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie](https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-a-726f708e-86d3-44bd-849c-e4c90d670002#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-podcast](https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-podcast-a-da7bdec1-adda-41f8-9abf-af22b84995d5#ref=rss)
-### käuflich
-
-* [https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie](https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-a-726f708e-86d3-44bd-849c-e4c90d670002#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-podcast](https://www.spiegel.de/ausland/usa-donald-trump-der-jet-aus-katar-und-die-lukrativen-geschaefte-der-familie-podcast-a-da7bdec1-adda-41f8-9abf-af22b84995d5#ref=rss)
-### warnen
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-flugblaetter-warnen-menschen-mit-koranvers-vor-grossoffensive](https://www.spiegel.de/ausland/israel-gaza-krieg-flugblaetter-warnen-menschen-mit-koranvers-vor-grossoffensive-a-62afaf99-3051-4920-b276-11f5c45bd682#ref=rss)
-* [https://www.spiegel.de/wissenschaft/waldbraende-und-abholzung-zerstoerung-tropischer-regenwaelder-auf-hoechstem-stand-seit-2002](https://www.spiegel.de/wissenschaft/waldbraende-und-abholzung-zerstoerung-tropischer-regenwaelder-auf-hoechstem-stand-seit-2002-a-029f89ce-11db-4e23-b2da-0eb2fed4524e#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-flugblaetter-warnen-menschen-mit-koranvers-vor-grossoffensive](https://www.spiegel.de/ausland/israel-gaza-krieg-flugblaetter-warnen-menschen-mit-koranvers-vor-grossoffensive-a-62afaf99-3051-4920-b276-11f5c45bd682#ref=rss)
-* [https://www.spiegel.de/panorama/passau-14-jaehriger-faehrt-mit-rehkitz-zur-schule-offenbar-im-bus](https://www.spiegel.de/panorama/passau-14-jaehriger-faehrt-mit-rehkitz-zur-schule-offenbar-im-bus-a-3501f27e-3a29-4722-83c9-f85e510eea4d#ref=rss)
-### trifft
-
-* [https://www.spiegel.de/panorama/holocaust-ueberlebender-trifft-auf-schindlers-liste-regisseur-steven-spielberg-ein-bild-und-seine-geschichte](https://www.spiegel.de/panorama/holocaust-ueberlebender-trifft-auf-schindlers-liste-regisseur-steven-spielberg-ein-bild-und-seine-geschichte-a-e6206e22-9935-4d01-b03c-b450d5129b78#ref=rss)
-* [https://www.spiegel.de/panorama/leute/usa-papst-bruder-louis-prevost-trifft-donald-trump-im-weissen-haus](https://www.spiegel.de/panorama/leute/usa-papst-bruder-louis-prevost-trifft-donald-trump-im-weissen-haus-a-b61887e0-424d-4dc8-95c7-6b170fd2fb17#ref=rss)
-### schindlers
-
-* [https://www.spiegel.de/panorama/holocaust-ueberlebender-trifft-auf-schindlers-liste-regisseur-steven-spielberg-ein-bild-und-seine-geschichte](https://www.spiegel.de/panorama/holocaust-ueberlebender-trifft-auf-schindlers-liste-regisseur-steven-spielberg-ein-bild-und-seine-geschichte-a-e6206e22-9935-4d01-b03c-b450d5129b78#ref=rss)
-### regiedebüts
-
-* [https://www.spiegel.de/kultur/kino/regiedebuets-von-kristen-stewart-und-scarlett-johansson-in-cannes-chronologie-eines-debakels](https://www.spiegel.de/kultur/kino/regiedebuets-von-kristen-stewart-und-scarlett-johansson-in-cannes-chronologie-eines-debakels-a-d30ce9e7-6528-452e-8156-cc8fa547a7c0#ref=rss)
-### kristen
-
-* [https://www.spiegel.de/kultur/kino/regiedebuets-von-kristen-stewart-und-scarlett-johansson-in-cannes-chronologie-eines-debakels](https://www.spiegel.de/kultur/kino/regiedebuets-von-kristen-stewart-und-scarlett-johansson-in-cannes-chronologie-eines-debakels-a-d30ce9e7-6528-452e-8156-cc8fa547a7c0#ref=rss)
-### stewart
-
-* [https://www.spiegel.de/kultur/kino/regiedebuets-von-kristen-stewart-und-scarlett-johansson-in-cannes-chronologie-eines-debakels](https://www.spiegel.de/kultur/kino/regiedebuets-von-kristen-stewart-und-scarlett-johansson-in-cannes-chronologie-eines-debakels-a-d30ce9e7-6528-452e-8156-cc8fa547a7c0#ref=rss)
-### scarlett
-
-* [https://www.spiegel.de/kultur/kino/regiedebuets-von-kristen-stewart-und-scarlett-johansson-in-cannes-chronologie-eines-debakels](https://www.spiegel.de/kultur/kino/regiedebuets-von-kristen-stewart-und-scarlett-johansson-in-cannes-chronologie-eines-debakels-a-d30ce9e7-6528-452e-8156-cc8fa547a7c0#ref=rss)
-### johansson
-
-* [https://www.spiegel.de/kultur/kino/regiedebuets-von-kristen-stewart-und-scarlett-johansson-in-cannes-chronologie-eines-debakels](https://www.spiegel.de/kultur/kino/regiedebuets-von-kristen-stewart-und-scarlett-johansson-in-cannes-chronologie-eines-debakels-a-d30ce9e7-6528-452e-8156-cc8fa547a7c0#ref=rss)
-### cannes
-
-* [https://www.spiegel.de/kultur/kino/regiedebuets-von-kristen-stewart-und-scarlett-johansson-in-cannes-chronologie-eines-debakels](https://www.spiegel.de/kultur/kino/regiedebuets-von-kristen-stewart-und-scarlett-johansson-in-cannes-chronologie-eines-debakels-a-d30ce9e7-6528-452e-8156-cc8fa547a7c0#ref=rss)
-### ronen
-
-* [https://www.spiegel.de/ausland/ronen-bar-oberstes-gericht-erklaert-entlassung-von-israels-geheimdienstchef-fuer-rechtswidrig](https://www.spiegel.de/ausland/ronen-bar-oberstes-gericht-erklaert-entlassung-von-israels-geheimdienstchef-fuer-rechtswidrig-a-3dc489d0-fae6-4b2c-91ff-e0a81e271dfc#ref=rss)
-### bar
-
-* [https://www.spiegel.de/ausland/ronen-bar-oberstes-gericht-erklaert-entlassung-von-israels-geheimdienstchef-fuer-rechtswidrig](https://www.spiegel.de/ausland/ronen-bar-oberstes-gericht-erklaert-entlassung-von-israels-geheimdienstchef-fuer-rechtswidrig-a-3dc489d0-fae6-4b2c-91ff-e0a81e271dfc#ref=rss)
-### oberstes
-
-* [https://www.spiegel.de/ausland/ronen-bar-oberstes-gericht-erklaert-entlassung-von-israels-geheimdienstchef-fuer-rechtswidrig](https://www.spiegel.de/ausland/ronen-bar-oberstes-gericht-erklaert-entlassung-von-israels-geheimdienstchef-fuer-rechtswidrig-a-3dc489d0-fae6-4b2c-91ff-e0a81e271dfc#ref=rss)
+* [https://www.spiegel.de/panorama/australien-mindestens-drei-tote-bei-hochwasser-in-der-region-mid-north-coast](https://www.spiegel.de/panorama/australien-mindestens-drei-tote-bei-hochwasser-in-der-region-mid-north-coast-a-0b430873-2981-4dd4-9eb7-c6e4e395c28f#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/zaehne-koennten-aus-sinnenorganen-von-fischen-entstanden-sein](https://www.spiegel.de/wissenschaft/natur/zaehne-koennten-aus-sinnenorganen-von-fischen-entstanden-sein-a-bda19818-4de3-4f14-b8ea-d6cb33b90528#ref=rss)
+* [https://www.spiegel.de/wirtschaft/banken-vergeben-deutlich-mehr-immobilienkredite](https://www.spiegel.de/wirtschaft/banken-vergeben-deutlich-mehr-immobilienkredite-a-ae281b88-03c7-42d4-83af-aaf4e24198e6#ref=rss)
 ### gericht
 
-* [https://www.spiegel.de/ausland/ronen-bar-oberstes-gericht-erklaert-entlassung-von-israels-geheimdienstchef-fuer-rechtswidrig](https://www.spiegel.de/ausland/ronen-bar-oberstes-gericht-erklaert-entlassung-von-israels-geheimdienstchef-fuer-rechtswidrig-a-3dc489d0-fae6-4b2c-91ff-e0a81e271dfc#ref=rss)
-### geheimdienstchef
+* [https://www.spiegel.de/politik/deutschland/gericht-prueft-klage-zu-grossspenden-fuer-berliner-cdu](https://www.spiegel.de/politik/deutschland/gericht-prueft-klage-zu-grossspenden-fuer-berliner-cdu-a-6d0dcbbf-f689-4dd4-bfdb-1d90e6ac456f#ref=rss)
+* [https://www.spiegel.de/ausland/chagos-inseln-britisches-gericht-stoppt-vorerst-uebergabe-der-inselgruppe-an-mauritius](https://www.spiegel.de/ausland/chagos-inseln-britisches-gericht-stoppt-vorerst-uebergabe-der-inselgruppe-an-mauritius-a-33fb5c21-28c1-4b84-ab8e-7bdffb3d493c#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/ausland/ronen-bar-oberstes-gericht-erklaert-entlassung-von-israels-geheimdienstchef-fuer-rechtswidrig](https://www.spiegel.de/ausland/ronen-bar-oberstes-gericht-erklaert-entlassung-von-israels-geheimdienstchef-fuer-rechtswidrig-a-3dc489d0-fae6-4b2c-91ff-e0a81e271dfc#ref=rss)
-### rechtswidrig
+* [https://www.spiegel.de/wirtschaft/banken-vergeben-deutlich-mehr-immobilienkredite](https://www.spiegel.de/wirtschaft/banken-vergeben-deutlich-mehr-immobilienkredite-a-ae281b88-03c7-42d4-83af-aaf4e24198e6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/waermepumpen-kehrtwende-der-wirtschaftsministerin-mehr-verunsicherung-als-konzepte](https://www.spiegel.de/wirtschaft/waermepumpen-kehrtwende-der-wirtschaftsministerin-mehr-verunsicherung-als-konzepte-a-cde7bf84-d0e3-40cd-9cbb-80bba94b6709#ref=rss)
+### mitarbeiter
 
-* [https://www.spiegel.de/ausland/ronen-bar-oberstes-gericht-erklaert-entlassung-von-israels-geheimdienstchef-fuer-rechtswidrig](https://www.spiegel.de/ausland/ronen-bar-oberstes-gericht-erklaert-entlassung-von-israels-geheimdienstchef-fuer-rechtswidrig-a-3dc489d0-fae6-4b2c-91ff-e0a81e271dfc#ref=rss)
-### vinícius
-
-* [https://www.spiegel.de/sport/fussball/vinicius-junior-von-real-madrid-rassismus-urteil-im-spanischen-fussball-ausgesprochen](https://www.spiegel.de/sport/fussball/vinicius-junior-von-real-madrid-rassismus-urteil-im-spanischen-fussball-ausgesprochen-a-63442068-3ea4-449c-9f9c-91ec2d62dcdf#ref=rss)
-### júnior
-
-* [https://www.spiegel.de/sport/fussball/vinicius-junior-von-real-madrid-rassismus-urteil-im-spanischen-fussball-ausgesprochen](https://www.spiegel.de/sport/fussball/vinicius-junior-von-real-madrid-rassismus-urteil-im-spanischen-fussball-ausgesprochen-a-63442068-3ea4-449c-9f9c-91ec2d62dcdf#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/microsoft-blockiert-interne-e-mails-mit-begriffen-wie-gaza-und-palaestina](https://www.spiegel.de/netzwelt/web/microsoft-blockiert-interne-e-mails-mit-begriffen-wie-gaza-und-palaestina-a-c044c3e9-6c6f-4715-8477-25753460fe17#ref=rss)
+* [https://www.spiegel.de/ausland/washington-schuesse-nahe-juedischem-museum-polizei-vermutet-politisches-motiv](https://www.spiegel.de/ausland/washington-schuesse-nahe-juedischem-museum-polizei-vermutet-politisches-motiv-a-0971c1cc-790c-43da-80e3-b72d3382b618#ref=rss)
+* [https://www.spiegel.de/ausland/benjamin-netanyahu-will-schutz-israelischer-botschaften-hochfahren-reaktion-auf-anschlag-in-washington-d-c](https://www.spiegel.de/ausland/benjamin-netanyahu-will-schutz-israelischer-botschaften-hochfahren-reaktion-auf-anschlag-in-washington-d-c-a-5b3fd929-735a-4240-925f-ee161749d80e#ref=rss)
 ### washington
 
-* [https://www.spiegel.de/wirtschaft/eu-und-usa-verhandeln-jetzt-konkret-ueber-zollabkommen](https://www.spiegel.de/wirtschaft/eu-und-usa-verhandeln-jetzt-konkret-ueber-zollabkommen-a-3b01492a-b3b9-4ed0-8b75-efb3e4dcfce6#ref=rss)
-* [https://www.spiegel.de/panorama/leute/usa-papst-bruder-louis-prevost-trifft-donald-trump-im-weissen-haus](https://www.spiegel.de/panorama/leute/usa-papst-bruder-louis-prevost-trifft-donald-trump-im-weissen-haus-a-b61887e0-424d-4dc8-95c7-6b170fd2fb17#ref=rss)
-### zöllen
+* [https://www.spiegel.de/politik/deutschland/anschlag-in-washington-d-c-getoeteter-israelischer-botschaftsmitarbeiter-hatte-auch-deutschen-pass](https://www.spiegel.de/politik/deutschland/anschlag-in-washington-d-c-getoeteter-israelischer-botschaftsmitarbeiter-hatte-auch-deutschen-pass-a-f38efd79-76e9-4218-be85-23073b36d708#ref=rss)
+* [https://www.spiegel.de/ausland/washington-schuesse-nahe-juedischem-museum-polizei-vermutet-politisches-motiv](https://www.spiegel.de/ausland/washington-schuesse-nahe-juedischem-museum-polizei-vermutet-politisches-motiv-a-0971c1cc-790c-43da-80e3-b72d3382b618#ref=rss)
+* [https://www.spiegel.de/ausland/benjamin-netanyahu-will-schutz-israelischer-botschaften-hochfahren-reaktion-auf-anschlag-in-washington-d-c](https://www.spiegel.de/ausland/benjamin-netanyahu-will-schutz-israelischer-botschaften-hochfahren-reaktion-auf-anschlag-in-washington-d-c-a-5b3fd929-735a-4240-925f-ee161749d80e#ref=rss)
+### ushauptstadt
 
-* [https://www.spiegel.de/wirtschaft/eu-und-usa-verhandeln-jetzt-konkret-ueber-zollabkommen](https://www.spiegel.de/wirtschaft/eu-und-usa-verhandeln-jetzt-konkret-ueber-zollabkommen-a-3b01492a-b3b9-4ed0-8b75-efb3e4dcfce6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-konzern-baut-nun-auch-in-vietnam](https://www.spiegel.de/wirtschaft/donald-trump-konzern-baut-nun-auch-in-vietnam-a-6208d23f-e9cd-4f59-9426-a6dff7d568aa#ref=rss)
-### andrij
+* [https://www.spiegel.de/politik/deutschland/anschlag-in-washington-d-c-getoeteter-israelischer-botschaftsmitarbeiter-hatte-auch-deutschen-pass](https://www.spiegel.de/politik/deutschland/anschlag-in-washington-d-c-getoeteter-israelischer-botschaftsmitarbeiter-hatte-auch-deutschen-pass-a-f38efd79-76e9-4218-be85-23073b36d708#ref=rss)
+* [https://www.spiegel.de/ausland/washington-schuesse-nahe-juedischem-museum-polizei-vermutet-politisches-motiv](https://www.spiegel.de/ausland/washington-schuesse-nahe-juedischem-museum-polizei-vermutet-politisches-motiv-a-0971c1cc-790c-43da-80e3-b72d3382b618#ref=rss)
+* [https://www.spiegel.de/ausland/benjamin-netanyahu-will-schutz-israelischer-botschaften-hochfahren-reaktion-auf-anschlag-in-washington-d-c](https://www.spiegel.de/ausland/benjamin-netanyahu-will-schutz-israelischer-botschaften-hochfahren-reaktion-auf-anschlag-in-washington-d-c-a-5b3fd929-735a-4240-925f-ee161749d80e#ref=rss)
+### ermittlungen
 
-* [https://www.spiegel.de/ausland/mord-an-andrij-portnow-in-madrid-er-kannte-fast-jeden-richter-in-der-ukraine-jetzt-ist-er-tot](https://www.spiegel.de/ausland/mord-an-andrij-portnow-in-madrid-er-kannte-fast-jeden-richter-in-der-ukraine-jetzt-ist-er-tot-a-18817fa7-6f8e-4d85-a8ab-c500b4ee6805#ref=rss)
-### portnow
+* [https://www.spiegel.de/wirtschaft/fruehere-chefermittlerin-warnt-vor-verschleppung-der-cum-ex-ermittlungen](https://www.spiegel.de/wirtschaft/fruehere-chefermittlerin-warnt-vor-verschleppung-der-cum-ex-ermittlungen-a-419988b5-4a08-458d-8a11-2569db0a9069#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/black-lives-matter-trump-regierung-will-ermittlungen-zu-polizeigewalt-gegen-afroamerikaner-zurueckziehen](https://www.spiegel.de/panorama/justiz/black-lives-matter-trump-regierung-will-ermittlungen-zu-polizeigewalt-gegen-afroamerikaner-zurueckziehen-a-0c9267ec-f4a1-4a3e-a235-3b2e1fc6a629#ref=rss)
+### macht
 
-* [https://www.spiegel.de/ausland/mord-an-andrij-portnow-in-madrid-er-kannte-fast-jeden-richter-in-der-ukraine-jetzt-ist-er-tot](https://www.spiegel.de/ausland/mord-an-andrij-portnow-in-madrid-er-kannte-fast-jeden-richter-in-der-ukraine-jetzt-ist-er-tot-a-18817fa7-6f8e-4d85-a8ab-c500b4ee6805#ref=rss)
-### papstbruder
+* [https://www.spiegel.de/kultur/tv/zdf-serie-ueber-die-gruenen-macht-kaputt-was-euch-korrupt-macht](https://www.spiegel.de/kultur/tv/zdf-serie-ueber-die-gruenen-macht-kaputt-was-euch-korrupt-macht-a-03f21805-a2f0-4034-9ca4-fae45cb5d168#ref=rss)
+* [https://www.spiegel.de/start/bewerbung-wann-bin-ich-zu-alt-um-karriere-zu-machen](https://www.spiegel.de/start/bewerbung-wann-bin-ich-zu-alt-um-karriere-zu-machen-a-d9a7cd20-bbe3-4f13-8595-a2d310a71f23#ref=rss)
+### elefanten
 
-* [https://www.spiegel.de/panorama/leute/usa-papst-bruder-louis-prevost-trifft-donald-trump-im-weissen-haus](https://www.spiegel.de/panorama/leute/usa-papst-bruder-louis-prevost-trifft-donald-trump-im-weissen-haus-a-b61887e0-424d-4dc8-95c7-6b170fd2fb17#ref=rss)
-### louis
+* [https://www.spiegel.de/wissenschaft/asiatische-elefanten-haben-deutlich-groessere-gehirne-als-afrikanische](https://www.spiegel.de/wissenschaft/asiatische-elefanten-haben-deutlich-groessere-gehirne-als-afrikanische-a-3f2a76ed-504d-433a-a927-72bcff37e42d#ref=rss)
+### klingbeil
 
-* [https://www.spiegel.de/panorama/leute/usa-papst-bruder-louis-prevost-trifft-donald-trump-im-weissen-haus](https://www.spiegel.de/panorama/leute/usa-papst-bruder-louis-prevost-trifft-donald-trump-im-weissen-haus-a-b61887e0-424d-4dc8-95c7-6b170fd2fb17#ref=rss)
-### prevost
+* [https://www.spiegel.de/panorama/leute/lars-klingbeil-bundesfinanzminister-spart-bei-seiner-heimischen-bank-in-der-lueneburger-heide](https://www.spiegel.de/panorama/leute/lars-klingbeil-bundesfinanzminister-spart-bei-seiner-heimischen-bank-in-der-lueneburger-heide-a-4129ade6-9d5b-4921-ab32-9b7ee388f93a#ref=rss)
+### bundesfinanzminister
 
-* [https://www.spiegel.de/panorama/leute/usa-papst-bruder-louis-prevost-trifft-donald-trump-im-weissen-haus](https://www.spiegel.de/panorama/leute/usa-papst-bruder-louis-prevost-trifft-donald-trump-im-weissen-haus-a-b61887e0-424d-4dc8-95c7-6b170fd2fb17#ref=rss)
-### tia
+* [https://www.spiegel.de/panorama/leute/lars-klingbeil-bundesfinanzminister-spart-bei-seiner-heimischen-bank-in-der-lueneburger-heide](https://www.spiegel.de/panorama/leute/lars-klingbeil-bundesfinanzminister-spart-bei-seiner-heimischen-bank-in-der-lueneburger-heide-a-4129ade6-9d5b-4921-ab32-9b7ee388f93a#ref=rss)
+### bank
 
-* [https://www.spiegel.de/sport/leichtathletik-tia-und-tina-clayton-wirbeln-die-sprintszene-auf](https://www.spiegel.de/sport/leichtathletik-tia-und-tina-clayton-wirbeln-die-sprintszene-auf-a-d6cd3271-8b21-4987-bf50-5152561abadd#ref=rss)
-### tina
+* [https://www.spiegel.de/panorama/leute/lars-klingbeil-bundesfinanzminister-spart-bei-seiner-heimischen-bank-in-der-lueneburger-heide](https://www.spiegel.de/panorama/leute/lars-klingbeil-bundesfinanzminister-spart-bei-seiner-heimischen-bank-in-der-lueneburger-heide-a-4129ade6-9d5b-4921-ab32-9b7ee388f93a#ref=rss)
+### lüneburger
 
-* [https://www.spiegel.de/sport/leichtathletik-tia-und-tina-clayton-wirbeln-die-sprintszene-auf](https://www.spiegel.de/sport/leichtathletik-tia-und-tina-clayton-wirbeln-die-sprintszene-auf-a-d6cd3271-8b21-4987-bf50-5152561abadd#ref=rss)
-### clayton
+* [https://www.spiegel.de/panorama/leute/lars-klingbeil-bundesfinanzminister-spart-bei-seiner-heimischen-bank-in-der-lueneburger-heide](https://www.spiegel.de/panorama/leute/lars-klingbeil-bundesfinanzminister-spart-bei-seiner-heimischen-bank-in-der-lueneburger-heide-a-4129ade6-9d5b-4921-ab32-9b7ee388f93a#ref=rss)
+### heide
 
-* [https://www.spiegel.de/sport/leichtathletik-tia-und-tina-clayton-wirbeln-die-sprintszene-auf](https://www.spiegel.de/sport/leichtathletik-tia-und-tina-clayton-wirbeln-die-sprintszene-auf-a-d6cd3271-8b21-4987-bf50-5152561abadd#ref=rss)
-### sahra
+* [https://www.spiegel.de/panorama/leute/lars-klingbeil-bundesfinanzminister-spart-bei-seiner-heimischen-bank-in-der-lueneburger-heide](https://www.spiegel.de/panorama/leute/lars-klingbeil-bundesfinanzminister-spart-bei-seiner-heimischen-bank-in-der-lueneburger-heide-a-4129ade6-9d5b-4921-ab32-9b7ee388f93a#ref=rss)
+### neue
 
-* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-bei-massiv-wildeste-kombi-die-youtube-zu-bieten-hat](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-bei-massiv-wildeste-kombi-die-youtube-zu-bieten-hat-a-1822ce59-c5bf-4881-a176-6c57803863d0#ref=rss)
-### wagenknecht
+* [https://www.spiegel.de/panorama/leute/lars-klingbeil-bundesfinanzminister-spart-bei-seiner-heimischen-bank-in-der-lueneburger-heide](https://www.spiegel.de/panorama/leute/lars-klingbeil-bundesfinanzminister-spart-bei-seiner-heimischen-bank-in-der-lueneburger-heide-a-4129ade6-9d5b-4921-ab32-9b7ee388f93a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/waermepumpen-kehrtwende-der-wirtschaftsministerin-mehr-verunsicherung-als-konzepte](https://www.spiegel.de/wirtschaft/waermepumpen-kehrtwende-der-wirtschaftsministerin-mehr-verunsicherung-als-konzepte-a-cde7bf84-d0e3-40cd-9cbb-80bba94b6709#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-bei-massiv-wildeste-kombi-die-youtube-zu-bieten-hat](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-bei-massiv-wildeste-kombi-die-youtube-zu-bieten-hat-a-1822ce59-c5bf-4881-a176-6c57803863d0#ref=rss)
+* [https://www.spiegel.de/panorama/leute/lars-klingbeil-bundesfinanzminister-spart-bei-seiner-heimischen-bank-in-der-lueneburger-heide](https://www.spiegel.de/panorama/leute/lars-klingbeil-bundesfinanzminister-spart-bei-seiner-heimischen-bank-in-der-lueneburger-heide-a-4129ade6-9d5b-4921-ab32-9b7ee388f93a#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/strategie-gegen-die-erderwaermung-clownfische-schrumpfen-bei-hitze](https://www.spiegel.de/wissenschaft/natur/strategie-gegen-die-erderwaermung-clownfische-schrumpfen-bei-hitze-a-564b0ff2-7f55-4b9e-aab4-5c7cd509e9e2#ref=rss)
+### mindestens
+
+* [https://www.spiegel.de/panorama/australien-mindestens-drei-tote-bei-hochwasser-in-der-region-mid-north-coast](https://www.spiegel.de/panorama/australien-mindestens-drei-tote-bei-hochwasser-in-der-region-mid-north-coast-a-0b430873-2981-4dd4-9eb7-c6e4e395c28f#ref=rss)
+### drei
+
+* [https://www.spiegel.de/panorama/australien-mindestens-drei-tote-bei-hochwasser-in-der-region-mid-north-coast](https://www.spiegel.de/panorama/australien-mindestens-drei-tote-bei-hochwasser-in-der-region-mid-north-coast-a-0b430873-2981-4dd4-9eb7-c6e4e395c28f#ref=rss)
+### mid
+
+* [https://www.spiegel.de/panorama/australien-mindestens-drei-tote-bei-hochwasser-in-der-region-mid-north-coast](https://www.spiegel.de/panorama/australien-mindestens-drei-tote-bei-hochwasser-in-der-region-mid-north-coast-a-0b430873-2981-4dd4-9eb7-c6e4e395c28f#ref=rss)
+### north
+
+* [https://www.spiegel.de/panorama/australien-mindestens-drei-tote-bei-hochwasser-in-der-region-mid-north-coast](https://www.spiegel.de/panorama/australien-mindestens-drei-tote-bei-hochwasser-in-der-region-mid-north-coast-a-0b430873-2981-4dd4-9eb7-c6e4e395c28f#ref=rss)
+### coast
+
+* [https://www.spiegel.de/panorama/australien-mindestens-drei-tote-bei-hochwasser-in-der-region-mid-north-coast](https://www.spiegel.de/panorama/australien-mindestens-drei-tote-bei-hochwasser-in-der-region-mid-north-coast-a-0b430873-2981-4dd4-9eb7-c6e4e395c28f#ref=rss)
+### drohen
+
+* [https://www.spiegel.de/panorama/australien-mindestens-drei-tote-bei-hochwasser-in-der-region-mid-north-coast](https://www.spiegel.de/panorama/australien-mindestens-drei-tote-bei-hochwasser-in-der-region-mid-north-coast-a-0b430873-2981-4dd4-9eb7-c6e4e395c28f#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-vorbereitungen-auf-russische-sommeroffensive-im-donbass](https://www.spiegel.de/ausland/ukraine-vorbereitungen-auf-russische-sommeroffensive-im-donbass-a-ff42f539-12b8-4a9e-9ff9-043fa99984ff#ref=rss)
+### angela
+
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-kritisiert-verschaerfung-der-grenzkontrollen](https://www.spiegel.de/politik/deutschland/angela-merkel-kritisiert-verschaerfung-der-grenzkontrollen-a-cd2ed7dd-feae-42a7-9802-eb219b38a70a#ref=rss)
+### merkel
+
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-kritisiert-verschaerfung-der-grenzkontrollen](https://www.spiegel.de/politik/deutschland/angela-merkel-kritisiert-verschaerfung-der-grenzkontrollen-a-cd2ed7dd-feae-42a7-9802-eb219b38a70a#ref=rss)
+### grenzkontrollen
+
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-kritisiert-verschaerfung-der-grenzkontrollen](https://www.spiegel.de/politik/deutschland/angela-merkel-kritisiert-verschaerfung-der-grenzkontrollen-a-cd2ed7dd-feae-42a7-9802-eb219b38a70a#ref=rss)
+### kampf
+
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-kritisiert-verschaerfung-der-grenzkontrollen](https://www.spiegel.de/politik/deutschland/angela-merkel-kritisiert-verschaerfung-der-grenzkontrollen-a-cd2ed7dd-feae-42a7-9802-eb219b38a70a#ref=rss)
+* [https://www.spiegel.de/wissenschaft/trump-regierung-so-kaempfen-us-universitaeten-um-ihre-autonomie](https://www.spiegel.de/wissenschaft/trump-regierung-so-kaempfen-us-universitaeten-um-ihre-autonomie-a-aeab2c68-e4dd-4270-af30-ce30bad9e010#ref=rss)
+### davor
+
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-kritisiert-verschaerfung-der-grenzkontrollen](https://www.spiegel.de/politik/deutschland/angela-merkel-kritisiert-verschaerfung-der-grenzkontrollen-a-cd2ed7dd-feae-42a7-9802-eb219b38a70a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/internet-betrug-berlin-will-verbraucher-besser-vor-fake-shops-schuetzen](https://www.spiegel.de/wirtschaft/internet-betrug-berlin-will-verbraucher-besser-vor-fake-shops-schuetzen-a-a3eac34f-e8a1-4f10-adec-0b35511c170f#ref=rss)
+### kaputt
+
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-kritisiert-verschaerfung-der-grenzkontrollen](https://www.spiegel.de/politik/deutschland/angela-merkel-kritisiert-verschaerfung-der-grenzkontrollen-a-cd2ed7dd-feae-42a7-9802-eb219b38a70a#ref=rss)
+* [https://www.spiegel.de/kultur/tv/zdf-serie-ueber-die-gruenen-macht-kaputt-was-euch-korrupt-macht](https://www.spiegel.de/kultur/tv/zdf-serie-ueber-die-gruenen-macht-kaputt-was-euch-korrupt-macht-a-03f21805-a2f0-4034-9ca4-fae45cb5d168#ref=rss)
+### zähne
+
+* [https://www.spiegel.de/wissenschaft/natur/zaehne-koennten-aus-sinnenorganen-von-fischen-entstanden-sein](https://www.spiegel.de/wissenschaft/natur/zaehne-koennten-aus-sinnenorganen-von-fischen-entstanden-sein-a-bda19818-4de3-4f14-b8ea-d6cb33b90528#ref=rss)
+### uber
+
+* [https://www.spiegel.de/reise/uber-bietet-jetzt-fahrten-nur-fuer-frauen-an](https://www.spiegel.de/reise/uber-bietet-jetzt-fahrten-nur-fuer-frauen-an-a-7fe3ff98-93c4-4c3f-a1f0-633073560829#ref=rss)
+### bietet
+
+* [https://www.spiegel.de/reise/uber-bietet-jetzt-fahrten-nur-fuer-frauen-an](https://www.spiegel.de/reise/uber-bietet-jetzt-fahrten-nur-fuer-frauen-an-a-7fe3ff98-93c4-4c3f-a1f0-633073560829#ref=rss)
+### fahrten
+
+* [https://www.spiegel.de/reise/uber-bietet-jetzt-fahrten-nur-fuer-frauen-an](https://www.spiegel.de/reise/uber-bietet-jetzt-fahrten-nur-fuer-frauen-an-a-7fe3ff98-93c4-4c3f-a1f0-633073560829#ref=rss)
+### frauen
+
+* [https://www.spiegel.de/reise/uber-bietet-jetzt-fahrten-nur-fuer-frauen-an](https://www.spiegel.de/reise/uber-bietet-jetzt-fahrten-nur-fuer-frauen-an-a-7fe3ff98-93c4-4c3f-a1f0-633073560829#ref=rss)
+### dadurch
+
+* [https://www.spiegel.de/reise/uber-bietet-jetzt-fahrten-nur-fuer-frauen-an](https://www.spiegel.de/reise/uber-bietet-jetzt-fahrten-nur-fuer-frauen-an-a-7fe3ff98-93c4-4c3f-a1f0-633073560829#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gericht-prueft-klage-zu-grossspenden-fuer-berliner-cdu](https://www.spiegel.de/politik/deutschland/gericht-prueft-klage-zu-grossspenden-fuer-berliner-cdu-a-6d0dcbbf-f689-4dd4-bfdb-1d90e6ac456f#ref=rss)
+### kommen
+
+* [https://www.spiegel.de/reise/uber-bietet-jetzt-fahrten-nur-fuer-frauen-an](https://www.spiegel.de/reise/uber-bietet-jetzt-fahrten-nur-fuer-frauen-an-a-7fe3ff98-93c4-4c3f-a1f0-633073560829#ref=rss)
+* [https://www.spiegel.de/wirtschaft/fruehere-chefermittlerin-warnt-vor-verschleppung-der-cum-ex-ermittlungen](https://www.spiegel.de/wirtschaft/fruehere-chefermittlerin-warnt-vor-verschleppung-der-cum-ex-ermittlungen-a-419988b5-4a08-458d-8a11-2569db0a9069#ref=rss)
+### trumpregierung
+
+* [https://www.spiegel.de/wissenschaft/trump-regierung-so-kaempfen-us-universitaeten-um-ihre-autonomie](https://www.spiegel.de/wissenschaft/trump-regierung-so-kaempfen-us-universitaeten-um-ihre-autonomie-a-aeab2c68-e4dd-4270-af30-ce30bad9e010#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/black-lives-matter-trump-regierung-will-ermittlungen-zu-polizeigewalt-gegen-afroamerikaner-zurueckziehen](https://www.spiegel.de/panorama/justiz/black-lives-matter-trump-regierung-will-ermittlungen-zu-polizeigewalt-gegen-afroamerikaner-zurueckziehen-a-0c9267ec-f4a1-4a3e-a235-3b2e1fc6a629#ref=rss)
+### kämpfen
+
+* [https://www.spiegel.de/wissenschaft/trump-regierung-so-kaempfen-us-universitaeten-um-ihre-autonomie](https://www.spiegel.de/wissenschaft/trump-regierung-so-kaempfen-us-universitaeten-um-ihre-autonomie-a-aeab2c68-e4dd-4270-af30-ce30bad9e010#ref=rss)
+* [https://www.spiegel.de/start/bewerbung-wann-bin-ich-zu-alt-um-karriere-zu-machen](https://www.spiegel.de/start/bewerbung-wann-bin-ich-zu-alt-um-karriere-zu-machen-a-d9a7cd20-bbe3-4f13-8595-a2d310a71f23#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/sport/fussball/dfb-der-deutsche-kader-fuer-das-finalturnier-der-nations-league](https://www.spiegel.de/sport/fussball/dfb-der-deutsche-kader-fuer-das-finalturnier-der-nations-league-a-1fa1aeb5-6f57-4a23-af3a-f714adc030e2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elektro-autos-asiatische-batterieentwickler-ziehen-bei-patenten-davon](https://www.spiegel.de/wirtschaft/elektro-autos-asiatische-batterieentwickler-ziehen-bei-patenten-davon-a-65a61040-20c6-4a85-85ea-724af3545f42#ref=rss)
+### finalturnier
+
+* [https://www.spiegel.de/sport/fussball/dfb-der-deutsche-kader-fuer-das-finalturnier-der-nations-league](https://www.spiegel.de/sport/fussball/dfb-der-deutsche-kader-fuer-das-finalturnier-der-nations-league-a-1fa1aeb5-6f57-4a23-af3a-f714adc030e2#ref=rss)
+### nations
+
+* [https://www.spiegel.de/sport/fussball/dfb-der-deutsche-kader-fuer-das-finalturnier-der-nations-league](https://www.spiegel.de/sport/fussball/dfb-der-deutsche-kader-fuer-das-finalturnier-der-nations-league-a-1fa1aeb5-6f57-4a23-af3a-f714adc030e2#ref=rss)
+### league
+
+* [https://www.spiegel.de/sport/fussball/dfb-der-deutsche-kader-fuer-das-finalturnier-der-nations-league](https://www.spiegel.de/sport/fussball/dfb-der-deutsche-kader-fuer-das-finalturnier-der-nations-league-a-1fa1aeb5-6f57-4a23-af3a-f714adc030e2#ref=rss)
+### prüft
+
+* [https://www.spiegel.de/politik/deutschland/gericht-prueft-klage-zu-grossspenden-fuer-berliner-cdu](https://www.spiegel.de/politik/deutschland/gericht-prueft-klage-zu-grossspenden-fuer-berliner-cdu-a-6d0dcbbf-f689-4dd4-bfdb-1d90e6ac456f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/muenchen-mutmasslicher-brandanschlag-auf-polizei-reiterstaffel](https://www.spiegel.de/panorama/justiz/muenchen-mutmasslicher-brandanschlag-auf-polizei-reiterstaffel-a-7faf098d-8f99-454a-b679-b75c1af72542#ref=rss)
+### berliner
+
+* [https://www.spiegel.de/politik/deutschland/gericht-prueft-klage-zu-grossspenden-fuer-berliner-cdu](https://www.spiegel.de/politik/deutschland/gericht-prueft-klage-zu-grossspenden-fuer-berliner-cdu-a-6d0dcbbf-f689-4dd4-bfdb-1d90e6ac456f#ref=rss)
+### cdu
+
+* [https://www.spiegel.de/politik/deutschland/gericht-prueft-klage-zu-grossspenden-fuer-berliner-cdu](https://www.spiegel.de/politik/deutschland/gericht-prueft-klage-zu-grossspenden-fuer-berliner-cdu-a-6d0dcbbf-f689-4dd4-bfdb-1d90e6ac456f#ref=rss)
+### rund
+
+* [https://www.spiegel.de/politik/deutschland/gericht-prueft-klage-zu-grossspenden-fuer-berliner-cdu](https://www.spiegel.de/politik/deutschland/gericht-prueft-klage-zu-grossspenden-fuer-berliner-cdu-a-6d0dcbbf-f689-4dd4-bfdb-1d90e6ac456f#ref=rss)
+* [https://www.spiegel.de/wissenschaft/asiatische-elefanten-haben-deutlich-groessere-gehirne-als-afrikanische](https://www.spiegel.de/wissenschaft/asiatische-elefanten-haben-deutlich-groessere-gehirne-als-afrikanische-a-3f2a76ed-504d-433a-a927-72bcff37e42d#ref=rss)
 ### partei
 
-* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-bei-massiv-wildeste-kombi-die-youtube-zu-bieten-hat](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-bei-massiv-wildeste-kombi-die-youtube-zu-bieten-hat-a-1822ce59-c5bf-4881-a176-6c57803863d0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-warum-die-partei-keine-ausschussvorsitze-im-bundestag-bekommt](https://www.spiegel.de/politik/deutschland/afd-warum-die-partei-keine-ausschussvorsitze-im-bundestag-bekommt-a-748d8d5f-21ad-4a52-9cfa-8ea8a15fa328#ref=rss)
-### findet
+* [https://www.spiegel.de/politik/deutschland/gericht-prueft-klage-zu-grossspenden-fuer-berliner-cdu](https://www.spiegel.de/politik/deutschland/gericht-prueft-klage-zu-grossspenden-fuer-berliner-cdu-a-6d0dcbbf-f689-4dd4-bfdb-1d90e6ac456f#ref=rss)
+* [https://www.spiegel.de/kultur/tv/zdf-serie-ueber-die-gruenen-macht-kaputt-was-euch-korrupt-macht](https://www.spiegel.de/kultur/tv/zdf-serie-ueber-die-gruenen-macht-kaputt-was-euch-korrupt-macht-a-03f21805-a2f0-4034-9ca4-fae45cb5d168#ref=rss)
+### verletzt
 
-* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-bei-massiv-wildeste-kombi-die-youtube-zu-bieten-hat](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-bei-massiv-wildeste-kombi-die-youtube-zu-bieten-hat-a-1822ce59-c5bf-4881-a176-6c57803863d0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-kopiert-donald-trump-das-star-wars-programm-von-ronald-reagan](https://www.spiegel.de/politik/deutschland/news-des-tages-kopiert-donald-trump-das-star-wars-programm-von-ronald-reagan-a-45f2a963-d288-424a-9193-6406c270d854#ref=rss)
-### überfall
+* [https://www.spiegel.de/politik/deutschland/gericht-prueft-klage-zu-grossspenden-fuer-berliner-cdu](https://www.spiegel.de/politik/deutschland/gericht-prueft-klage-zu-grossspenden-fuer-berliner-cdu-a-6d0dcbbf-f689-4dd4-bfdb-1d90e6ac456f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/muenchen-mutmasslicher-brandanschlag-auf-polizei-reiterstaffel](https://www.spiegel.de/panorama/justiz/muenchen-mutmasslicher-brandanschlag-auf-polizei-reiterstaffel-a-7faf098d-8f99-454a-b679-b75c1af72542#ref=rss)
+### chris
 
-* [https://www.spiegel.de/panorama/justiz/ueberfall-auf-kim-kardashian-staatsanwaltschaft-fordert-lange-haftstrafen](https://www.spiegel.de/panorama/justiz/ueberfall-auf-kim-kardashian-staatsanwaltschaft-fordert-lange-haftstrafen-a-7bb86cf1-89c0-493c-a0b8-7051f46680f0#ref=rss)
-### kim
+* [https://www.spiegel.de/panorama/leute/chris-brown-us-saenger-kommt-nach-festnahme-in-england-auf-kaution-frei](https://www.spiegel.de/panorama/leute/chris-brown-us-saenger-kommt-nach-festnahme-in-england-auf-kaution-frei-a-7f05b52e-c911-4f18-9f10-456f69444859#ref=rss)
+### brown
 
-* [https://www.spiegel.de/panorama/justiz/ueberfall-auf-kim-kardashian-staatsanwaltschaft-fordert-lange-haftstrafen](https://www.spiegel.de/panorama/justiz/ueberfall-auf-kim-kardashian-staatsanwaltschaft-fordert-lange-haftstrafen-a-7bb86cf1-89c0-493c-a0b8-7051f46680f0#ref=rss)
-### kardashian
+* [https://www.spiegel.de/panorama/leute/chris-brown-us-saenger-kommt-nach-festnahme-in-england-auf-kaution-frei](https://www.spiegel.de/panorama/leute/chris-brown-us-saenger-kommt-nach-festnahme-in-england-auf-kaution-frei-a-7f05b52e-c911-4f18-9f10-456f69444859#ref=rss)
+### ussänger
 
-* [https://www.spiegel.de/panorama/justiz/ueberfall-auf-kim-kardashian-staatsanwaltschaft-fordert-lange-haftstrafen](https://www.spiegel.de/panorama/justiz/ueberfall-auf-kim-kardashian-staatsanwaltschaft-fordert-lange-haftstrafen-a-7bb86cf1-89c0-493c-a0b8-7051f46680f0#ref=rss)
-### lange
+* [https://www.spiegel.de/panorama/leute/chris-brown-us-saenger-kommt-nach-festnahme-in-england-auf-kaution-frei](https://www.spiegel.de/panorama/leute/chris-brown-us-saenger-kommt-nach-festnahme-in-england-auf-kaution-frei-a-7f05b52e-c911-4f18-9f10-456f69444859#ref=rss)
+### frei
 
-* [https://www.spiegel.de/panorama/justiz/ueberfall-auf-kim-kardashian-staatsanwaltschaft-fordert-lange-haftstrafen](https://www.spiegel.de/panorama/justiz/ueberfall-auf-kim-kardashian-staatsanwaltschaft-fordert-lange-haftstrafen-a-7bb86cf1-89c0-493c-a0b8-7051f46680f0#ref=rss)
-* [https://www.spiegel.de/wissenschaft/waldbraende-und-abholzung-zerstoerung-tropischer-regenwaelder-auf-hoechstem-stand-seit-2002](https://www.spiegel.de/wissenschaft/waldbraende-und-abholzung-zerstoerung-tropischer-regenwaelder-auf-hoechstem-stand-seit-2002-a-029f89ce-11db-4e23-b2da-0eb2fed4524e#ref=rss)
-### haftstrafen
+* [https://www.spiegel.de/panorama/leute/chris-brown-us-saenger-kommt-nach-festnahme-in-england-auf-kaution-frei](https://www.spiegel.de/panorama/leute/chris-brown-us-saenger-kommt-nach-festnahme-in-england-auf-kaution-frei-a-7f05b52e-c911-4f18-9f10-456f69444859#ref=rss)
+### deshalb
 
-* [https://www.spiegel.de/panorama/justiz/ueberfall-auf-kim-kardashian-staatsanwaltschaft-fordert-lange-haftstrafen](https://www.spiegel.de/panorama/justiz/ueberfall-auf-kim-kardashian-staatsanwaltschaft-fordert-lange-haftstrafen-a-7bb86cf1-89c0-493c-a0b8-7051f46680f0#ref=rss)
-### acht
+* [https://www.spiegel.de/panorama/leute/chris-brown-us-saenger-kommt-nach-festnahme-in-england-auf-kaution-frei](https://www.spiegel.de/panorama/leute/chris-brown-us-saenger-kommt-nach-festnahme-in-england-auf-kaution-frei-a-7f05b52e-c911-4f18-9f10-456f69444859#ref=rss)
+* [https://www.spiegel.de/wirtschaft/internet-betrug-berlin-will-verbraucher-besser-vor-fake-shops-schuetzen](https://www.spiegel.de/wirtschaft/internet-betrug-berlin-will-verbraucher-besser-vor-fake-shops-schuetzen-a-a3eac34f-e8a1-4f10-adec-0b35511c170f#ref=rss)
+### enhanced
 
-* [https://www.spiegel.de/panorama/justiz/ueberfall-auf-kim-kardashian-staatsanwaltschaft-fordert-lange-haftstrafen](https://www.spiegel.de/panorama/justiz/ueberfall-auf-kim-kardashian-staatsanwaltschaft-fordert-lange-haftstrafen-a-7bb86cf1-89c0-493c-a0b8-7051f46680f0#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/niederlande-vermisste-kinder-jeffrey-und-emma-wahrscheinlich-ertrunken](https://www.spiegel.de/panorama/justiz/niederlande-vermisste-kinder-jeffrey-und-emma-wahrscheinlich-ertrunken-a-272e5dc2-8643-4312-b343-55fd8f4bdb09#ref=rss)
-### jahre
+* [https://www.spiegel.de/sport/enhanced-games-dopingspiele-werden-in-las-vegas-stattfinden](https://www.spiegel.de/sport/enhanced-games-dopingspiele-werden-in-las-vegas-stattfinden-a-e66e0a96-7693-45c2-a9b5-392539f708db#ref=rss)
+### games
 
-* [https://www.spiegel.de/panorama/justiz/ueberfall-auf-kim-kardashian-staatsanwaltschaft-fordert-lange-haftstrafen](https://www.spiegel.de/panorama/justiz/ueberfall-auf-kim-kardashian-staatsanwaltschaft-fordert-lange-haftstrafen-a-7bb86cf1-89c0-493c-a0b8-7051f46680f0#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/niederlande-vermisste-kinder-jeffrey-und-emma-wahrscheinlich-ertrunken](https://www.spiegel.de/panorama/justiz/niederlande-vermisste-kinder-jeffrey-und-emma-wahrscheinlich-ertrunken-a-272e5dc2-8643-4312-b343-55fd8f4bdb09#ref=rss)
-### zehn
+* [https://www.spiegel.de/sport/enhanced-games-dopingspiele-werden-in-las-vegas-stattfinden](https://www.spiegel.de/sport/enhanced-games-dopingspiele-werden-in-las-vegas-stattfinden-a-e66e0a96-7693-45c2-a9b5-392539f708db#ref=rss)
+### donbass
 
-* [https://www.spiegel.de/panorama/justiz/ueberfall-auf-kim-kardashian-staatsanwaltschaft-fordert-lange-haftstrafen](https://www.spiegel.de/panorama/justiz/ueberfall-auf-kim-kardashian-staatsanwaltschaft-fordert-lange-haftstrafen-a-7bb86cf1-89c0-493c-a0b8-7051f46680f0#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/niederlande-vermisste-kinder-jeffrey-und-emma-wahrscheinlich-ertrunken](https://www.spiegel.de/panorama/justiz/niederlande-vermisste-kinder-jeffrey-und-emma-wahrscheinlich-ertrunken-a-272e5dc2-8643-4312-b343-55fd8f4bdb09#ref=rss)
-### schulen
+* [https://www.spiegel.de/ausland/ukraine-vorbereitungen-auf-russische-sommeroffensive-im-donbass](https://www.spiegel.de/ausland/ukraine-vorbereitungen-auf-russische-sommeroffensive-im-donbass-a-ff42f539-12b8-4a9e-9ff9-043fa99984ff#ref=rss)
+### läuft
 
-* [https://www.spiegel.de/panorama/bildung/schulen-im-brennpunkt-brauchen-mehr-als-nur-finanzielle-unterstuetzung-umfrage-der-wuebben-stiftung](https://www.spiegel.de/panorama/bildung/schulen-im-brennpunkt-brauchen-mehr-als-nur-finanzielle-unterstuetzung-umfrage-der-wuebben-stiftung-a-fd21c64c-eac1-4c6f-ac7c-49d7528f56b9#ref=rss)
-### brauchen
+* [https://www.spiegel.de/ausland/ukraine-vorbereitungen-auf-russische-sommeroffensive-im-donbass](https://www.spiegel.de/ausland/ukraine-vorbereitungen-auf-russische-sommeroffensive-im-donbass-a-ff42f539-12b8-4a9e-9ff9-043fa99984ff#ref=rss)
+* [https://www.spiegel.de/wirtschaft/fruehere-chefermittlerin-warnt-vor-verschleppung-der-cum-ex-ermittlungen](https://www.spiegel.de/wirtschaft/fruehere-chefermittlerin-warnt-vor-verschleppung-der-cum-ex-ermittlungen-a-419988b5-4a08-458d-8a11-2569db0a9069#ref=rss)
+### jahr
 
-* [https://www.spiegel.de/panorama/bildung/schulen-im-brennpunkt-brauchen-mehr-als-nur-finanzielle-unterstuetzung-umfrage-der-wuebben-stiftung](https://www.spiegel.de/panorama/bildung/schulen-im-brennpunkt-brauchen-mehr-als-nur-finanzielle-unterstuetzung-umfrage-der-wuebben-stiftung-a-fd21c64c-eac1-4c6f-ac7c-49d7528f56b9#ref=rss)
-### umfrage
+* [https://www.spiegel.de/ausland/ukraine-vorbereitungen-auf-russische-sommeroffensive-im-donbass](https://www.spiegel.de/ausland/ukraine-vorbereitungen-auf-russische-sommeroffensive-im-donbass-a-ff42f539-12b8-4a9e-9ff9-043fa99984ff#ref=rss)
+* [https://www.spiegel.de/sport/basketball/basketball-satou-sabally-glaenzt-bei-ihrem-neuen-klub-phoenix-mercury-in-der-wnba](https://www.spiegel.de/sport/basketball/basketball-satou-sabally-glaenzt-bei-ihrem-neuen-klub-phoenix-mercury-in-der-wnba-a-1528de79-2fc8-4ce8-bb31-f18a2ece0466#ref=rss)
+### anderen
 
-* [https://www.spiegel.de/panorama/bildung/schulen-im-brennpunkt-brauchen-mehr-als-nur-finanzielle-unterstuetzung-umfrage-der-wuebben-stiftung](https://www.spiegel.de/panorama/bildung/schulen-im-brennpunkt-brauchen-mehr-als-nur-finanzielle-unterstuetzung-umfrage-der-wuebben-stiftung-a-fd21c64c-eac1-4c6f-ac7c-49d7528f56b9#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/panorama/justiz/niederlande-vermisste-kinder-jeffrey-und-emma-wahrscheinlich-ertrunken](https://www.spiegel.de/panorama/justiz/niederlande-vermisste-kinder-jeffrey-und-emma-wahrscheinlich-ertrunken-a-272e5dc2-8643-4312-b343-55fd8f4bdb09#ref=rss)
-### jeffrey
-
-* [https://www.spiegel.de/panorama/justiz/niederlande-vermisste-kinder-jeffrey-und-emma-wahrscheinlich-ertrunken](https://www.spiegel.de/panorama/justiz/niederlande-vermisste-kinder-jeffrey-und-emma-wahrscheinlich-ertrunken-a-272e5dc2-8643-4312-b343-55fd8f4bdb09#ref=rss)
-### emma
-
-* [https://www.spiegel.de/panorama/justiz/niederlande-vermisste-kinder-jeffrey-und-emma-wahrscheinlich-ertrunken](https://www.spiegel.de/panorama/justiz/niederlande-vermisste-kinder-jeffrey-und-emma-wahrscheinlich-ertrunken-a-272e5dc2-8643-4312-b343-55fd8f4bdb09#ref=rss)
-### wahrscheinlich
-
-* [https://www.spiegel.de/panorama/justiz/niederlande-vermisste-kinder-jeffrey-und-emma-wahrscheinlich-ertrunken](https://www.spiegel.de/panorama/justiz/niederlande-vermisste-kinder-jeffrey-und-emma-wahrscheinlich-ertrunken-a-272e5dc2-8643-4312-b343-55fd8f4bdb09#ref=rss)
-### ertrunken
-
-* [https://www.spiegel.de/panorama/justiz/niederlande-vermisste-kinder-jeffrey-und-emma-wahrscheinlich-ertrunken](https://www.spiegel.de/panorama/justiz/niederlande-vermisste-kinder-jeffrey-und-emma-wahrscheinlich-ertrunken-a-272e5dc2-8643-4312-b343-55fd8f4bdb09#ref=rss)
-### warsprogramm
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-kopiert-donald-trump-das-star-wars-programm-von-ronald-reagan](https://www.spiegel.de/politik/deutschland/news-des-tages-kopiert-donald-trump-das-star-wars-programm-von-ronald-reagan-a-45f2a963-d288-424a-9193-6406c270d854#ref=rss)
-### ronald
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-kopiert-donald-trump-das-star-wars-programm-von-ronald-reagan](https://www.spiegel.de/politik/deutschland/news-des-tages-kopiert-donald-trump-das-star-wars-programm-von-ronald-reagan-a-45f2a963-d288-424a-9193-6406c270d854#ref=rss)
-### bekommen
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-kopiert-donald-trump-das-star-wars-programm-von-ronald-reagan](https://www.spiegel.de/politik/deutschland/news-des-tages-kopiert-donald-trump-das-star-wars-programm-von-ronald-reagan-a-45f2a963-d288-424a-9193-6406c270d854#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-warum-die-partei-keine-ausschussvorsitze-im-bundestag-bekommt](https://www.spiegel.de/politik/deutschland/afd-warum-die-partei-keine-ausschussvorsitze-im-bundestag-bekommt-a-748d8d5f-21ad-4a52-9cfa-8ea8a15fa328#ref=rss)
-### westjordanland
-
-* [https://www.spiegel.de/ausland/westjordanland-schuesse-bei-diplomatenbesuch-scharfe-kritik-an-israels-militaer](https://www.spiegel.de/ausland/westjordanland-schuesse-bei-diplomatenbesuch-scharfe-kritik-an-israels-militaer-a-d6d72ad0-373f-4065-ba81-536f1980c6ef#ref=rss)
-### schüsse
-
-* [https://www.spiegel.de/ausland/westjordanland-schuesse-bei-diplomatenbesuch-scharfe-kritik-an-israels-militaer](https://www.spiegel.de/ausland/westjordanland-schuesse-bei-diplomatenbesuch-scharfe-kritik-an-israels-militaer-a-d6d72ad0-373f-4065-ba81-536f1980c6ef#ref=rss)
-### aldi
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/aldi-sued-sortiert-frischfleisch-neu-verbraucherschuetzer-reagieren-empoert](https://www.spiegel.de/wirtschaft/unternehmen/aldi-sued-sortiert-frischfleisch-neu-verbraucherschuetzer-reagieren-empoert-a-db644214-4af7-4283-aca4-dc602fc7d92b#ref=rss)
-### süd
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/aldi-sued-sortiert-frischfleisch-neu-verbraucherschuetzer-reagieren-empoert](https://www.spiegel.de/wirtschaft/unternehmen/aldi-sued-sortiert-frischfleisch-neu-verbraucherschuetzer-reagieren-empoert-a-db644214-4af7-4283-aca4-dc602fc7d92b#ref=rss)
-### sortiert
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/aldi-sued-sortiert-frischfleisch-neu-verbraucherschuetzer-reagieren-empoert](https://www.spiegel.de/wirtschaft/unternehmen/aldi-sued-sortiert-frischfleisch-neu-verbraucherschuetzer-reagieren-empoert-a-db644214-4af7-4283-aca4-dc602fc7d92b#ref=rss)
-### verbraucherschützer
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/aldi-sued-sortiert-frischfleisch-neu-verbraucherschuetzer-reagieren-empoert](https://www.spiegel.de/wirtschaft/unternehmen/aldi-sued-sortiert-frischfleisch-neu-verbraucherschuetzer-reagieren-empoert-a-db644214-4af7-4283-aca4-dc602fc7d92b#ref=rss)
-### liechtenstein
-
-* [https://www.spiegel.de/kultur/tv/friedrich-liechtenstein-ueber-schwere-rolle-leiche-kann-nicht-jeder](https://www.spiegel.de/kultur/tv/friedrich-liechtenstein-ueber-schwere-rolle-leiche-kann-nicht-jeder-a-0629acff-9460-4880-90d5-695dace4ee50#ref=rss)
-### leiche
-
-* [https://www.spiegel.de/kultur/tv/friedrich-liechtenstein-ueber-schwere-rolle-leiche-kann-nicht-jeder](https://www.spiegel.de/kultur/tv/friedrich-liechtenstein-ueber-schwere-rolle-leiche-kann-nicht-jeder-a-0629acff-9460-4880-90d5-695dace4ee50#ref=rss)
-### jeder
-
-* [https://www.spiegel.de/kultur/tv/friedrich-liechtenstein-ueber-schwere-rolle-leiche-kann-nicht-jeder](https://www.spiegel.de/kultur/tv/friedrich-liechtenstein-ueber-schwere-rolle-leiche-kann-nicht-jeder-a-0629acff-9460-4880-90d5-695dace4ee50#ref=rss)
-### spielen
-
-* [https://www.spiegel.de/kultur/tv/friedrich-liechtenstein-ueber-schwere-rolle-leiche-kann-nicht-jeder](https://www.spiegel.de/kultur/tv/friedrich-liechtenstein-ueber-schwere-rolle-leiche-kann-nicht-jeder-a-0629acff-9460-4880-90d5-695dace4ee50#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/google-i-o-kuenstliche-intelligenz-wird-modeberater-aber-kein-ersatz-fuer-apps](https://www.spiegel.de/netzwelt/web/google-i-o-kuenstliche-intelligenz-wird-modeberater-aber-kein-ersatz-fuer-apps-a-30b1e146-145e-474e-9f97-cee620f1a261#ref=rss)
-### baby
-
-* [https://www.spiegel.de/ausland/sieben-monate-altes-baby-muss-nach-herz-op-in-jordanien-zurueck-ins-kriegsgebiet](https://www.spiegel.de/ausland/sieben-monate-altes-baby-muss-nach-herz-op-in-jordanien-zurueck-ins-kriegsgebiet-a-0467fb94-7250-4467-8207-950c0f3e1923#ref=rss)
-### herzop
-
-* [https://www.spiegel.de/ausland/sieben-monate-altes-baby-muss-nach-herz-op-in-jordanien-zurueck-ins-kriegsgebiet](https://www.spiegel.de/ausland/sieben-monate-altes-baby-muss-nach-herz-op-in-jordanien-zurueck-ins-kriegsgebiet-a-0467fb94-7250-4467-8207-950c0f3e1923#ref=rss)
-### jordanien
-
-* [https://www.spiegel.de/ausland/sieben-monate-altes-baby-muss-nach-herz-op-in-jordanien-zurueck-ins-kriegsgebiet](https://www.spiegel.de/ausland/sieben-monate-altes-baby-muss-nach-herz-op-in-jordanien-zurueck-ins-kriegsgebiet-a-0467fb94-7250-4467-8207-950c0f3e1923#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/ausland/sieben-monate-altes-baby-muss-nach-herz-op-in-jordanien-zurueck-ins-kriegsgebiet](https://www.spiegel.de/ausland/sieben-monate-altes-baby-muss-nach-herz-op-in-jordanien-zurueck-ins-kriegsgebiet-a-0467fb94-7250-4467-8207-950c0f3e1923#ref=rss)
-* [https://www.spiegel.de/ausland/japan-minister-taku-eto-prahlt-mit-geschenktem-reis-und-reicht-ruecktritt-ein](https://www.spiegel.de/ausland/japan-minister-taku-eto-prahlt-mit-geschenktem-reis-und-reicht-ruecktritt-ein-a-4fac9cf0-8e86-4863-bbbe-0337d8e61991#ref=rss)
-### i/o
-
-* [https://www.spiegel.de/netzwelt/web/google-i-o-kuenstliche-intelligenz-wird-modeberater-aber-kein-ersatz-fuer-apps](https://www.spiegel.de/netzwelt/web/google-i-o-kuenstliche-intelligenz-wird-modeberater-aber-kein-ersatz-fuer-apps-a-30b1e146-145e-474e-9f97-cee620f1a261#ref=rss)
-### künstliche
-
-* [https://www.spiegel.de/netzwelt/web/google-i-o-kuenstliche-intelligenz-wird-modeberater-aber-kein-ersatz-fuer-apps](https://www.spiegel.de/netzwelt/web/google-i-o-kuenstliche-intelligenz-wird-modeberater-aber-kein-ersatz-fuer-apps-a-30b1e146-145e-474e-9f97-cee620f1a261#ref=rss)
-### apps
-
-* [https://www.spiegel.de/netzwelt/web/google-i-o-kuenstliche-intelligenz-wird-modeberater-aber-kein-ersatz-fuer-apps](https://www.spiegel.de/netzwelt/web/google-i-o-kuenstliche-intelligenz-wird-modeberater-aber-kein-ersatz-fuer-apps-a-30b1e146-145e-474e-9f97-cee620f1a261#ref=rss)
-### vietnam
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-konzern-baut-nun-auch-in-vietnam](https://www.spiegel.de/wirtschaft/donald-trump-konzern-baut-nun-auch-in-vietnam-a-6208d23f-e9cd-4f59-9426-a6dff7d568aa#ref=rss)
-### land
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-konzern-baut-nun-auch-in-vietnam](https://www.spiegel.de/wirtschaft/donald-trump-konzern-baut-nun-auch-in-vietnam-a-6208d23f-e9cd-4f59-9426-a6dff7d568aa#ref=rss)
-* [https://www.spiegel.de/ausland/japan-minister-taku-eto-prahlt-mit-geschenktem-reis-und-reicht-ruecktritt-ein](https://www.spiegel.de/ausland/japan-minister-taku-eto-prahlt-mit-geschenktem-reis-und-reicht-ruecktritt-ein-a-4fac9cf0-8e86-4863-bbbe-0337d8e61991#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-vorbereitungen-auf-russische-sommeroffensive-im-donbass](https://www.spiegel.de/ausland/ukraine-vorbereitungen-auf-russische-sommeroffensive-im-donbass-a-ff42f539-12b8-4a9e-9ff9-043fa99984ff#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/strategie-gegen-die-erderwaermung-clownfische-schrumpfen-bei-hitze](https://www.spiegel.de/wissenschaft/natur/strategie-gegen-die-erderwaermung-clownfische-schrumpfen-bei-hitze-a-564b0ff2-7f55-4b9e-aab4-5c7cd509e9e2#ref=rss)
 ### justin
 
-* [https://www.spiegel.de/kultur/justin-bieber-sagte-hailey-bieber-er-haette-sie-nie-auf-dem-vogue-cover-erwartet](https://www.spiegel.de/kultur/justin-bieber-sagte-hailey-bieber-er-haette-sie-nie-auf-dem-vogue-cover-erwartet-a-de8eba63-db3c-4c9b-8e39-9b355d32ddab#ref=rss)
-### hailey
+* [https://www.spiegel.de/sport/tennis/tennis-talent-justin-engel-ueberzeugt-in-hamburg-alexander-zverev-scheidet-angeschlagen-aus](https://www.spiegel.de/sport/tennis/tennis-talent-justin-engel-ueberzeugt-in-hamburg-alexander-zverev-scheidet-angeschlagen-aus-a-127e212c-f34d-4cb0-9640-81456b938a4e#ref=rss)
+### engel
 
-* [https://www.spiegel.de/kultur/justin-bieber-sagte-hailey-bieber-er-haette-sie-nie-auf-dem-vogue-cover-erwartet](https://www.spiegel.de/kultur/justin-bieber-sagte-hailey-bieber-er-haette-sie-nie-auf-dem-vogue-cover-erwartet-a-de8eba63-db3c-4c9b-8e39-9b355d32ddab#ref=rss)
-### 14jähriger
+* [https://www.spiegel.de/sport/tennis/tennis-talent-justin-engel-ueberzeugt-in-hamburg-alexander-zverev-scheidet-angeschlagen-aus](https://www.spiegel.de/sport/tennis/tennis-talent-justin-engel-ueberzeugt-in-hamburg-alexander-zverev-scheidet-angeschlagen-aus-a-127e212c-f34d-4cb0-9640-81456b938a4e#ref=rss)
+### alexander
 
-* [https://www.spiegel.de/panorama/passau-14-jaehriger-faehrt-mit-rehkitz-zur-schule-offenbar-im-bus](https://www.spiegel.de/panorama/passau-14-jaehriger-faehrt-mit-rehkitz-zur-schule-offenbar-im-bus-a-3501f27e-3a29-4722-83c9-f85e510eea4d#ref=rss)
-### rehkitz
+* [https://www.spiegel.de/sport/tennis/tennis-talent-justin-engel-ueberzeugt-in-hamburg-alexander-zverev-scheidet-angeschlagen-aus](https://www.spiegel.de/sport/tennis/tennis-talent-justin-engel-ueberzeugt-in-hamburg-alexander-zverev-scheidet-angeschlagen-aus-a-127e212c-f34d-4cb0-9640-81456b938a4e#ref=rss)
+### zverev
 
-* [https://www.spiegel.de/panorama/passau-14-jaehriger-faehrt-mit-rehkitz-zur-schule-offenbar-im-bus](https://www.spiegel.de/panorama/passau-14-jaehriger-faehrt-mit-rehkitz-zur-schule-offenbar-im-bus-a-3501f27e-3a29-4722-83c9-f85e510eea4d#ref=rss)
-### schule
+* [https://www.spiegel.de/sport/tennis/tennis-talent-justin-engel-ueberzeugt-in-hamburg-alexander-zverev-scheidet-angeschlagen-aus](https://www.spiegel.de/sport/tennis/tennis-talent-justin-engel-ueberzeugt-in-hamburg-alexander-zverev-scheidet-angeschlagen-aus-a-127e212c-f34d-4cb0-9640-81456b938a4e#ref=rss)
+### clownfische
 
-* [https://www.spiegel.de/panorama/passau-14-jaehriger-faehrt-mit-rehkitz-zur-schule-offenbar-im-bus](https://www.spiegel.de/panorama/passau-14-jaehriger-faehrt-mit-rehkitz-zur-schule-offenbar-im-bus-a-3501f27e-3a29-4722-83c9-f85e510eea4d#ref=rss)
-### reis
+* [https://www.spiegel.de/wissenschaft/natur/strategie-gegen-die-erderwaermung-clownfische-schrumpfen-bei-hitze](https://www.spiegel.de/wissenschaft/natur/strategie-gegen-die-erderwaermung-clownfische-schrumpfen-bei-hitze-a-564b0ff2-7f55-4b9e-aab4-5c7cd509e9e2#ref=rss)
+### gefahr
 
-* [https://www.spiegel.de/ausland/japan-minister-taku-eto-prahlt-mit-geschenktem-reis-und-reicht-ruecktritt-ein](https://www.spiegel.de/ausland/japan-minister-taku-eto-prahlt-mit-geschenktem-reis-und-reicht-ruecktritt-ein-a-4fac9cf0-8e86-4863-bbbe-0337d8e61991#ref=rss)
-### zerstörung
+* [https://www.spiegel.de/wissenschaft/natur/strategie-gegen-die-erderwaermung-clownfische-schrumpfen-bei-hitze](https://www.spiegel.de/wissenschaft/natur/strategie-gegen-die-erderwaermung-clownfische-schrumpfen-bei-hitze-a-564b0ff2-7f55-4b9e-aab4-5c7cd509e9e2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elektro-autos-asiatische-batterieentwickler-ziehen-bei-patenten-davon](https://www.spiegel.de/wirtschaft/elektro-autos-asiatische-batterieentwickler-ziehen-bei-patenten-davon-a-65a61040-20c6-4a85-85ea-724af3545f42#ref=rss)
+### schützen
 
-* [https://www.spiegel.de/wissenschaft/waldbraende-und-abholzung-zerstoerung-tropischer-regenwaelder-auf-hoechstem-stand-seit-2002](https://www.spiegel.de/wissenschaft/waldbraende-und-abholzung-zerstoerung-tropischer-regenwaelder-auf-hoechstem-stand-seit-2002-a-029f89ce-11db-4e23-b2da-0eb2fed4524e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/strategie-gegen-die-erderwaermung-clownfische-schrumpfen-bei-hitze](https://www.spiegel.de/wissenschaft/natur/strategie-gegen-die-erderwaermung-clownfische-schrumpfen-bei-hitze-a-564b0ff2-7f55-4b9e-aab4-5c7cd509e9e2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/internet-betrug-berlin-will-verbraucher-besser-vor-fake-shops-schuetzen](https://www.spiegel.de/wirtschaft/internet-betrug-berlin-will-verbraucher-besser-vor-fake-shops-schuetzen-a-a3eac34f-e8a1-4f10-adec-0b35511c170f#ref=rss)
+### indem
+
+* [https://www.spiegel.de/wissenschaft/natur/strategie-gegen-die-erderwaermung-clownfische-schrumpfen-bei-hitze](https://www.spiegel.de/wissenschaft/natur/strategie-gegen-die-erderwaermung-clownfische-schrumpfen-bei-hitze-a-564b0ff2-7f55-4b9e-aab4-5c7cd509e9e2#ref=rss)
+* [https://www.spiegel.de/wissenschaft/asiatische-elefanten-haben-deutlich-groessere-gehirne-als-afrikanische](https://www.spiegel.de/wissenschaft/asiatische-elefanten-haben-deutlich-groessere-gehirne-als-afrikanische-a-3f2a76ed-504d-433a-a927-72bcff37e42d#ref=rss)
+### microsoft
+
+* [https://www.spiegel.de/netzwelt/web/microsoft-blockiert-interne-e-mails-mit-begriffen-wie-gaza-und-palaestina](https://www.spiegel.de/netzwelt/web/microsoft-blockiert-interne-e-mails-mit-begriffen-wie-gaza-und-palaestina-a-c044c3e9-6c6f-4715-8477-25753460fe17#ref=rss)
+### interne
+
+* [https://www.spiegel.de/netzwelt/web/microsoft-blockiert-interne-e-mails-mit-begriffen-wie-gaza-und-palaestina](https://www.spiegel.de/netzwelt/web/microsoft-blockiert-interne-e-mails-mit-begriffen-wie-gaza-und-palaestina-a-c044c3e9-6c6f-4715-8477-25753460fe17#ref=rss)
+### getöteter
+
+* [https://www.spiegel.de/politik/deutschland/anschlag-in-washington-d-c-getoeteter-israelischer-botschaftsmitarbeiter-hatte-auch-deutschen-pass](https://www.spiegel.de/politik/deutschland/anschlag-in-washington-d-c-getoeteter-israelischer-botschaftsmitarbeiter-hatte-auch-deutschen-pass-a-f38efd79-76e9-4218-be85-23073b36d708#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/black-lives-matter-trump-regierung-will-ermittlungen-zu-polizeigewalt-gegen-afroamerikaner-zurueckziehen](https://www.spiegel.de/panorama/justiz/black-lives-matter-trump-regierung-will-ermittlungen-zu-polizeigewalt-gegen-afroamerikaner-zurueckziehen-a-0c9267ec-f4a1-4a3e-a235-3b2e1fc6a629#ref=rss)
+### israelischer
+
+* [https://www.spiegel.de/politik/deutschland/anschlag-in-washington-d-c-getoeteter-israelischer-botschaftsmitarbeiter-hatte-auch-deutschen-pass](https://www.spiegel.de/politik/deutschland/anschlag-in-washington-d-c-getoeteter-israelischer-botschaftsmitarbeiter-hatte-auch-deutschen-pass-a-f38efd79-76e9-4218-be85-23073b36d708#ref=rss)
+* [https://www.spiegel.de/ausland/benjamin-netanyahu-will-schutz-israelischer-botschaften-hochfahren-reaktion-auf-anschlag-in-washington-d-c](https://www.spiegel.de/ausland/benjamin-netanyahu-will-schutz-israelischer-botschaften-hochfahren-reaktion-auf-anschlag-in-washington-d-c-a-5b3fd929-735a-4240-925f-ee161749d80e#ref=rss)
+### botschaftsmitarbeiter
+
+* [https://www.spiegel.de/politik/deutschland/anschlag-in-washington-d-c-getoeteter-israelischer-botschaftsmitarbeiter-hatte-auch-deutschen-pass](https://www.spiegel.de/politik/deutschland/anschlag-in-washington-d-c-getoeteter-israelischer-botschaftsmitarbeiter-hatte-auch-deutschen-pass-a-f38efd79-76e9-4218-be85-23073b36d708#ref=rss)
+### mann
+
+* [https://www.spiegel.de/politik/deutschland/anschlag-in-washington-d-c-getoeteter-israelischer-botschaftsmitarbeiter-hatte-auch-deutschen-pass](https://www.spiegel.de/politik/deutschland/anschlag-in-washington-d-c-getoeteter-israelischer-botschaftsmitarbeiter-hatte-auch-deutschen-pass-a-f38efd79-76e9-4218-be85-23073b36d708#ref=rss)
+* [https://www.spiegel.de/ausland/washington-schuesse-nahe-juedischem-museum-polizei-vermutet-politisches-motiv](https://www.spiegel.de/ausland/washington-schuesse-nahe-juedischem-museum-polizei-vermutet-politisches-motiv-a-0971c1cc-790c-43da-80e3-b72d3382b618#ref=rss)
+### israelische
+
+* [https://www.spiegel.de/politik/deutschland/anschlag-in-washington-d-c-getoeteter-israelischer-botschaftsmitarbeiter-hatte-auch-deutschen-pass](https://www.spiegel.de/politik/deutschland/anschlag-in-washington-d-c-getoeteter-israelischer-botschaftsmitarbeiter-hatte-auch-deutschen-pass-a-f38efd79-76e9-4218-be85-23073b36d708#ref=rss)
+* [https://www.spiegel.de/ausland/washington-schuesse-nahe-juedischem-museum-polizei-vermutet-politisches-motiv](https://www.spiegel.de/ausland/washington-schuesse-nahe-juedischem-museum-polizei-vermutet-politisches-motiv-a-0971c1cc-790c-43da-80e3-b72d3382b618#ref=rss)
+### chefermittlerin
+
+* [https://www.spiegel.de/wirtschaft/fruehere-chefermittlerin-warnt-vor-verschleppung-der-cum-ex-ermittlungen](https://www.spiegel.de/wirtschaft/fruehere-chefermittlerin-warnt-vor-verschleppung-der-cum-ex-ermittlungen-a-419988b5-4a08-458d-8a11-2569db0a9069#ref=rss)
+### warnt
+
+* [https://www.spiegel.de/wirtschaft/fruehere-chefermittlerin-warnt-vor-verschleppung-der-cum-ex-ermittlungen](https://www.spiegel.de/wirtschaft/fruehere-chefermittlerin-warnt-vor-verschleppung-der-cum-ex-ermittlungen-a-419988b5-4a08-458d-8a11-2569db0a9069#ref=rss)
+### davon
+
+* [https://www.spiegel.de/wirtschaft/fruehere-chefermittlerin-warnt-vor-verschleppung-der-cum-ex-ermittlungen](https://www.spiegel.de/wirtschaft/fruehere-chefermittlerin-warnt-vor-verschleppung-der-cum-ex-ermittlungen-a-419988b5-4a08-458d-8a11-2569db0a9069#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elektro-autos-asiatische-batterieentwickler-ziehen-bei-patenten-davon](https://www.spiegel.de/wirtschaft/elektro-autos-asiatische-batterieentwickler-ziehen-bei-patenten-davon-a-65a61040-20c6-4a85-85ea-724af3545f42#ref=rss)
+### polizeigewalt
+
+* [https://www.spiegel.de/panorama/justiz/black-lives-matter-trump-regierung-will-ermittlungen-zu-polizeigewalt-gegen-afroamerikaner-zurueckziehen](https://www.spiegel.de/panorama/justiz/black-lives-matter-trump-regierung-will-ermittlungen-zu-polizeigewalt-gegen-afroamerikaner-zurueckziehen-a-0c9267ec-f4a1-4a3e-a235-3b2e1fc6a629#ref=rss)
+### afroamerikaner
+
+* [https://www.spiegel.de/panorama/justiz/black-lives-matter-trump-regierung-will-ermittlungen-zu-polizeigewalt-gegen-afroamerikaner-zurueckziehen](https://www.spiegel.de/panorama/justiz/black-lives-matter-trump-regierung-will-ermittlungen-zu-polizeigewalt-gegen-afroamerikaner-zurueckziehen-a-0c9267ec-f4a1-4a3e-a235-3b2e1fc6a629#ref=rss)
+### chagosinseln
+
+* [https://www.spiegel.de/ausland/chagos-inseln-britisches-gericht-stoppt-vorerst-uebergabe-der-inselgruppe-an-mauritius](https://www.spiegel.de/ausland/chagos-inseln-britisches-gericht-stoppt-vorerst-uebergabe-der-inselgruppe-an-mauritius-a-33fb5c21-28c1-4b84-ab8e-7bdffb3d493c#ref=rss)
+### übergabe
+
+* [https://www.spiegel.de/ausland/chagos-inseln-britisches-gericht-stoppt-vorerst-uebergabe-der-inselgruppe-an-mauritius](https://www.spiegel.de/ausland/chagos-inseln-britisches-gericht-stoppt-vorerst-uebergabe-der-inselgruppe-an-mauritius-a-33fb5c21-28c1-4b84-ab8e-7bdffb3d493c#ref=rss)
+### inselgruppe
+
+* [https://www.spiegel.de/ausland/chagos-inseln-britisches-gericht-stoppt-vorerst-uebergabe-der-inselgruppe-an-mauritius](https://www.spiegel.de/ausland/chagos-inseln-britisches-gericht-stoppt-vorerst-uebergabe-der-inselgruppe-an-mauritius-a-33fb5c21-28c1-4b84-ab8e-7bdffb3d493c#ref=rss)
+### mauritius
+
+* [https://www.spiegel.de/ausland/chagos-inseln-britisches-gericht-stoppt-vorerst-uebergabe-der-inselgruppe-an-mauritius](https://www.spiegel.de/ausland/chagos-inseln-britisches-gericht-stoppt-vorerst-uebergabe-der-inselgruppe-an-mauritius-a-33fb5c21-28c1-4b84-ab8e-7bdffb3d493c#ref=rss)
+### brandanschlag
+
+* [https://www.spiegel.de/panorama/justiz/muenchen-mutmasslicher-brandanschlag-auf-polizei-reiterstaffel](https://www.spiegel.de/panorama/justiz/muenchen-mutmasslicher-brandanschlag-auf-polizei-reiterstaffel-a-7faf098d-8f99-454a-b679-b75c1af72542#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/ausland/washington-schuesse-nahe-juedischem-museum-polizei-vermutet-politisches-motiv](https://www.spiegel.de/ausland/washington-schuesse-nahe-juedischem-museum-polizei-vermutet-politisches-motiv-a-0971c1cc-790c-43da-80e3-b72d3382b618#ref=rss)
+### motiv
+
+* [https://www.spiegel.de/ausland/washington-schuesse-nahe-juedischem-museum-polizei-vermutet-politisches-motiv](https://www.spiegel.de/ausland/washington-schuesse-nahe-juedischem-museum-polizei-vermutet-politisches-motiv-a-0971c1cc-790c-43da-80e3-b72d3382b618#ref=rss)
+### israelischen
+
+* [https://www.spiegel.de/ausland/washington-schuesse-nahe-juedischem-museum-polizei-vermutet-politisches-motiv](https://www.spiegel.de/ausland/washington-schuesse-nahe-juedischem-museum-polizei-vermutet-politisches-motiv-a-0971c1cc-790c-43da-80e3-b72d3382b618#ref=rss)
+* [https://www.spiegel.de/ausland/benjamin-netanyahu-will-schutz-israelischer-botschaften-hochfahren-reaktion-auf-anschlag-in-washington-d-c](https://www.spiegel.de/ausland/benjamin-netanyahu-will-schutz-israelischer-botschaften-hochfahren-reaktion-auf-anschlag-in-washington-d-c-a-5b3fd929-735a-4240-925f-ee161749d80e#ref=rss)
+### botschaft
+
+* [https://www.spiegel.de/ausland/washington-schuesse-nahe-juedischem-museum-polizei-vermutet-politisches-motiv](https://www.spiegel.de/ausland/washington-schuesse-nahe-juedischem-museum-polizei-vermutet-politisches-motiv-a-0971c1cc-790c-43da-80e3-b72d3382b618#ref=rss)
+* [https://www.spiegel.de/ausland/benjamin-netanyahu-will-schutz-israelischer-botschaften-hochfahren-reaktion-auf-anschlag-in-washington-d-c](https://www.spiegel.de/ausland/benjamin-netanyahu-will-schutz-israelischer-botschaften-hochfahren-reaktion-auf-anschlag-in-washington-d-c-a-5b3fd929-735a-4240-925f-ee161749d80e#ref=rss)
+### getötet
+
+* [https://www.spiegel.de/ausland/washington-schuesse-nahe-juedischem-museum-polizei-vermutet-politisches-motiv](https://www.spiegel.de/ausland/washington-schuesse-nahe-juedischem-museum-polizei-vermutet-politisches-motiv-a-0971c1cc-790c-43da-80e3-b72d3382b618#ref=rss)
+* [https://www.spiegel.de/ausland/benjamin-netanyahu-will-schutz-israelischer-botschaften-hochfahren-reaktion-auf-anschlag-in-washington-d-c](https://www.spiegel.de/ausland/benjamin-netanyahu-will-schutz-israelischer-botschaften-hochfahren-reaktion-auf-anschlag-in-washington-d-c-a-5b3fd929-735a-4240-925f-ee161749d80e#ref=rss)
+### jodie
+
+* [https://www.spiegel.de/kultur/kino/jodie-foster-bezeichnet-politik-von-donald-trump-als-tragoedie-bruce-springsteen-legt-nach](https://www.spiegel.de/kultur/kino/jodie-foster-bezeichnet-politik-von-donald-trump-als-tragoedie-bruce-springsteen-legt-nach-a-6030b093-9bc2-4558-b5a0-b4448643ad90#ref=rss)
+### foster
+
+* [https://www.spiegel.de/kultur/kino/jodie-foster-bezeichnet-politik-von-donald-trump-als-tragoedie-bruce-springsteen-legt-nach](https://www.spiegel.de/kultur/kino/jodie-foster-bezeichnet-politik-von-donald-trump-als-tragoedie-bruce-springsteen-legt-nach-a-6030b093-9bc2-4558-b5a0-b4448643ad90#ref=rss)
+### bezeichnet
+
+* [https://www.spiegel.de/kultur/kino/jodie-foster-bezeichnet-politik-von-donald-trump-als-tragoedie-bruce-springsteen-legt-nach](https://www.spiegel.de/kultur/kino/jodie-foster-bezeichnet-politik-von-donald-trump-als-tragoedie-bruce-springsteen-legt-nach-a-6030b093-9bc2-4558-b5a0-b4448643ad90#ref=rss)
+### bruce
+
+* [https://www.spiegel.de/kultur/kino/jodie-foster-bezeichnet-politik-von-donald-trump-als-tragoedie-bruce-springsteen-legt-nach](https://www.spiegel.de/kultur/kino/jodie-foster-bezeichnet-politik-von-donald-trump-als-tragoedie-bruce-springsteen-legt-nach-a-6030b093-9bc2-4558-b5a0-b4448643ad90#ref=rss)
+### springsteen
+
+* [https://www.spiegel.de/kultur/kino/jodie-foster-bezeichnet-politik-von-donald-trump-als-tragoedie-bruce-springsteen-legt-nach](https://www.spiegel.de/kultur/kino/jodie-foster-bezeichnet-politik-von-donald-trump-als-tragoedie-bruce-springsteen-legt-nach-a-6030b093-9bc2-4558-b5a0-b4448643ad90#ref=rss)
+### grünen
+
+* [https://www.spiegel.de/kultur/tv/zdf-serie-ueber-die-gruenen-macht-kaputt-was-euch-korrupt-macht](https://www.spiegel.de/kultur/tv/zdf-serie-ueber-die-gruenen-macht-kaputt-was-euch-korrupt-macht-a-03f21805-a2f0-4034-9ca4-fae45cb5d168#ref=rss)
+### selbst
+
+* [https://www.spiegel.de/kultur/tv/zdf-serie-ueber-die-gruenen-macht-kaputt-was-euch-korrupt-macht](https://www.spiegel.de/kultur/tv/zdf-serie-ueber-die-gruenen-macht-kaputt-was-euch-korrupt-macht-a-03f21805-a2f0-4034-9ca4-fae45cb5d168#ref=rss)
+* [https://www.spiegel.de/wirtschaft/internet-betrug-berlin-will-verbraucher-besser-vor-fake-shops-schuetzen](https://www.spiegel.de/wirtschaft/internet-betrug-berlin-will-verbraucher-besser-vor-fake-shops-schuetzen-a-a3eac34f-e8a1-4f10-adec-0b35511c170f#ref=rss)
+### sollte
+
+* [https://www.spiegel.de/start/bewerbung-wann-bin-ich-zu-alt-um-karriere-zu-machen](https://www.spiegel.de/start/bewerbung-wann-bin-ich-zu-alt-um-karriere-zu-machen-a-d9a7cd20-bbe3-4f13-8595-a2d310a71f23#ref=rss)
+* [https://www.spiegel.de/wirtschaft/waermepumpen-kehrtwende-der-wirtschaftsministerin-mehr-verunsicherung-als-konzepte](https://www.spiegel.de/wirtschaft/waermepumpen-kehrtwende-der-wirtschaftsministerin-mehr-verunsicherung-als-konzepte-a-cde7bf84-d0e3-40cd-9cbb-80bba94b6709#ref=rss)
+### wirtschaftsministerin
+
+* [https://www.spiegel.de/wirtschaft/waermepumpen-kehrtwende-der-wirtschaftsministerin-mehr-verunsicherung-als-konzepte](https://www.spiegel.de/wirtschaft/waermepumpen-kehrtwende-der-wirtschaftsministerin-mehr-verunsicherung-als-konzepte-a-cde7bf84-d0e3-40cd-9cbb-80bba94b6709#ref=rss)
+### konzepte
+
+* [https://www.spiegel.de/wirtschaft/waermepumpen-kehrtwende-der-wirtschaftsministerin-mehr-verunsicherung-als-konzepte](https://www.spiegel.de/wirtschaft/waermepumpen-kehrtwende-der-wirtschaftsministerin-mehr-verunsicherung-als-konzepte-a-cde7bf84-d0e3-40cd-9cbb-80bba94b6709#ref=rss)
+### netanyahu
+
+* [https://www.spiegel.de/ausland/benjamin-netanyahu-will-schutz-israelischer-botschaften-hochfahren-reaktion-auf-anschlag-in-washington-d-c](https://www.spiegel.de/ausland/benjamin-netanyahu-will-schutz-israelischer-botschaften-hochfahren-reaktion-auf-anschlag-in-washington-d-c-a-5b3fd929-735a-4240-925f-ee161749d80e#ref=rss)
+### satou
+
+* [https://www.spiegel.de/sport/basketball/basketball-satou-sabally-glaenzt-bei-ihrem-neuen-klub-phoenix-mercury-in-der-wnba](https://www.spiegel.de/sport/basketball/basketball-satou-sabally-glaenzt-bei-ihrem-neuen-klub-phoenix-mercury-in-der-wnba-a-1528de79-2fc8-4ce8-bb31-f18a2ece0466#ref=rss)
+### sabally
+
+* [https://www.spiegel.de/sport/basketball/basketball-satou-sabally-glaenzt-bei-ihrem-neuen-klub-phoenix-mercury-in-der-wnba](https://www.spiegel.de/sport/basketball/basketball-satou-sabally-glaenzt-bei-ihrem-neuen-klub-phoenix-mercury-in-der-wnba-a-1528de79-2fc8-4ce8-bb31-f18a2ece0466#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/sport/basketball/basketball-satou-sabally-glaenzt-bei-ihrem-neuen-klub-phoenix-mercury-in-der-wnba](https://www.spiegel.de/sport/basketball/basketball-satou-sabally-glaenzt-bei-ihrem-neuen-klub-phoenix-mercury-in-der-wnba-a-1528de79-2fc8-4ce8-bb31-f18a2ece0466#ref=rss)
+### klub
+
+* [https://www.spiegel.de/sport/basketball/basketball-satou-sabally-glaenzt-bei-ihrem-neuen-klub-phoenix-mercury-in-der-wnba](https://www.spiegel.de/sport/basketball/basketball-satou-sabally-glaenzt-bei-ihrem-neuen-klub-phoenix-mercury-in-der-wnba-a-1528de79-2fc8-4ce8-bb31-f18a2ece0466#ref=rss)
+### phoenix
+
+* [https://www.spiegel.de/sport/basketball/basketball-satou-sabally-glaenzt-bei-ihrem-neuen-klub-phoenix-mercury-in-der-wnba](https://www.spiegel.de/sport/basketball/basketball-satou-sabally-glaenzt-bei-ihrem-neuen-klub-phoenix-mercury-in-der-wnba-a-1528de79-2fc8-4ce8-bb31-f18a2ece0466#ref=rss)
+### blüht
+
+* [https://www.spiegel.de/sport/basketball/basketball-satou-sabally-glaenzt-bei-ihrem-neuen-klub-phoenix-mercury-in-der-wnba](https://www.spiegel.de/sport/basketball/basketball-satou-sabally-glaenzt-bei-ihrem-neuen-klub-phoenix-mercury-in-der-wnba-a-1528de79-2fc8-4ce8-bb31-f18a2ece0466#ref=rss)
+* [https://www.spiegel.de/wirtschaft/internet-betrug-berlin-will-verbraucher-besser-vor-fake-shops-schuetzen](https://www.spiegel.de/wirtschaft/internet-betrug-berlin-will-verbraucher-besser-vor-fake-shops-schuetzen-a-a3eac34f-e8a1-4f10-adec-0b35511c170f#ref=rss)
+### asiatische
+
+* [https://www.spiegel.de/wirtschaft/elektro-autos-asiatische-batterieentwickler-ziehen-bei-patenten-davon](https://www.spiegel.de/wirtschaft/elektro-autos-asiatische-batterieentwickler-ziehen-bei-patenten-davon-a-65a61040-20c6-4a85-85ea-724af3545f42#ref=rss)
+* [https://www.spiegel.de/wissenschaft/asiatische-elefanten-haben-deutlich-groessere-gehirne-als-afrikanische](https://www.spiegel.de/wissenschaft/asiatische-elefanten-haben-deutlich-groessere-gehirne-als-afrikanische-a-3f2a76ed-504d-433a-a927-72bcff37e42d#ref=rss)
+### ziehen
+
+* [https://www.spiegel.de/wirtschaft/elektro-autos-asiatische-batterieentwickler-ziehen-bei-patenten-davon](https://www.spiegel.de/wirtschaft/elektro-autos-asiatische-batterieentwickler-ziehen-bei-patenten-davon-a-65a61040-20c6-4a85-85ea-724af3545f42#ref=rss)
+* [https://www.spiegel.de/wirtschaft/internet-betrug-berlin-will-verbraucher-besser-vor-fake-shops-schuetzen](https://www.spiegel.de/wirtschaft/internet-betrug-berlin-will-verbraucher-besser-vor-fake-shops-schuetzen-a-a3eac34f-e8a1-4f10-adec-0b35511c170f#ref=rss)
+### gehirne
+
+* [https://www.spiegel.de/wissenschaft/asiatische-elefanten-haben-deutlich-groessere-gehirne-als-afrikanische](https://www.spiegel.de/wissenschaft/asiatische-elefanten-haben-deutlich-groessere-gehirne-als-afrikanische-a-3f2a76ed-504d-433a-a927-72bcff37e42d#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/wirtschaft/internet-betrug-berlin-will-verbraucher-besser-vor-fake-shops-schuetzen](https://www.spiegel.de/wirtschaft/internet-betrug-berlin-will-verbraucher-besser-vor-fake-shops-schuetzen-a-a3eac34f-e8a1-4f10-adec-0b35511c170f#ref=rss)
+### verbraucher
+
+* [https://www.spiegel.de/wirtschaft/internet-betrug-berlin-will-verbraucher-besser-vor-fake-shops-schuetzen](https://www.spiegel.de/wirtschaft/internet-betrug-berlin-will-verbraucher-besser-vor-fake-shops-schuetzen-a-a3eac34f-e8a1-4f10-adec-0b35511c170f#ref=rss)
 
