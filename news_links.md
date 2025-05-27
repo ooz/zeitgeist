@@ -4,345 +4,309 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### jahre
+### mehr
 
-* [https://www.spiegel.de/ausland/black-lives-matter-bewegung-fuenf-jahre-nach-george-floyd-gedenken-am-tatort](https://www.spiegel.de/ausland/black-lives-matter-bewegung-fuenf-jahre-nach-george-floyd-gedenken-am-tatort-a-412a6ac0-ece1-48ba-b918-2940d8df324e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/das-geheimnis-der-super-ager-geistig-fit-im-hohen-alter-spiegel-tv-fuer-arte-re](https://www.spiegel.de/wissenschaft/das-geheimnis-der-super-ager-geistig-fit-im-hohen-alter-spiegel-tv-fuer-arte-re-a-b6202d8f-dfad-473c-873b-79f01d5196b7#ref=rss)
-* [https://www.spiegel.de/geschichte/25-jahre-cdu-spendenaffaere-ich-musste-das-fuer-den-rechtsstaat-tun](https://www.spiegel.de/geschichte/25-jahre-cdu-spendenaffaere-ich-musste-das-fuer-den-rechtsstaat-tun-a-49997da9-c078-4716-a7fe-7929a43b20b2#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bielefeld-elf-jahre-haft-fuer-mann-wegen-toetung-von-ehefrau](https://www.spiegel.de/panorama/justiz/bielefeld-elf-jahre-haft-fuer-mann-wegen-toetung-von-ehefrau-a-d4c6853b-c572-4669-b172-17745a9f6a53#ref=rss)
-### frau
+* [https://www.spiegel.de/sport/fussball/fussball-tsg-hoffenheim-fuehrt-vertragsverlaengerung-bei-schwangerschaft-ein](https://www.spiegel.de/sport/fussball/fussball-tsg-hoffenheim-fuehrt-vertragsverlaengerung-bei-schwangerschaft-ein-a-d2f2156e-871c-41ce-8256-adb312880e64#ref=rss)
+* [https://www.spiegel.de/ausland/finnland-frauen-bereiten-sich-auf-den-ernstfall-vor-wenn-ein-krieg-ausbricht-will-man-nicht-untaetig-sein](https://www.spiegel.de/ausland/finnland-frauen-bereiten-sich-auf-den-ernstfall-vor-wenn-ein-krieg-ausbricht-will-man-nicht-untaetig-sein-a-622b124d-89c7-4b16-9505-2c2128426726#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-23-prozent-mehr-rechtsextreme-verdachtsfaelle](https://www.spiegel.de/ausland/oesterreich-23-prozent-mehr-rechtsextreme-verdachtsfaelle-a-c9bc14b0-7802-44ab-b746-067dea47f2ab#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/ig-metall-gewerkschaft-fordert-keine-vier-tage-woche-mehr](https://www.spiegel.de/wirtschaft/unternehmen/ig-metall-gewerkschaft-fordert-keine-vier-tage-woche-mehr-a-f990bb8c-5ae6-423f-9624-20e92685f882#ref=rss)
+### laut
 
-* [https://www.spiegel.de/panorama/justiz/tierquaelerei-kranke-katze-nicht-behandelt-frau-in-augsburg-verurteilt](https://www.spiegel.de/panorama/justiz/tierquaelerei-kranke-katze-nicht-behandelt-frau-in-augsburg-verurteilt-a-5cef4913-a778-4f70-972a-14a29451aab4#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/prozess-in-ravensburg-freundin-im-intimbereich-verletzt-bewaehrungsstrafe-fuer-26-jaehrigen](https://www.spiegel.de/panorama/justiz/prozess-in-ravensburg-freundin-im-intimbereich-verletzt-bewaehrungsstrafe-fuer-26-jaehrigen-a-fb512520-c11c-48be-9ff7-d4fc9cf942dd#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bielefeld-elf-jahre-haft-fuer-mann-wegen-toetung-von-ehefrau](https://www.spiegel.de/panorama/justiz/bielefeld-elf-jahre-haft-fuer-mann-wegen-toetung-von-ehefrau-a-d4c6853b-c572-4669-b172-17745a9f6a53#ref=rss)
-* [https://www.spiegel.de/ausland/brigitte-und-emmanuel-macron-spass-oder-schlag-video-sorgt-fuer-spekulationen](https://www.spiegel.de/ausland/brigitte-und-emmanuel-macron-spass-oder-schlag-video-sorgt-fuer-spekulationen-a-f2fcbeff-cab0-4d4a-8958-afff98a3bcdc#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-ueber-frieden-reden-und-weiterbomben](https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-ueber-frieden-reden-und-weiterbomben-a-4432c15a-db4c-42f3-84e5-d7fd111ce2dd#ref=rss)
-* [https://www.spiegel.de/politik/russlands-krieg-gegen-die-ukraine-nach-ankuendigung-von-friedrich-merz-kreml-kritisiert-moegliche-aufhebung-von-waffen-reichweitenbeschraenkung](https://www.spiegel.de/politik/russlands-krieg-gegen-die-ukraine-nach-ankuendigung-von-friedrich-merz-kreml-kritisiert-moegliche-aufhebung-von-waffen-reichweitenbeschraenkung-a-41c987ef-a899-4175-9456-4fb79233fa2d#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/panorama/justiz/islamischer-staat-frueherer-deutschland-chef-abu-walaa-klagt-offenbar-gegen-ausweisung](https://www.spiegel.de/panorama/justiz/islamischer-staat-frueherer-deutschland-chef-abu-walaa-klagt-offenbar-gegen-ausweisung-a-f322ebbd-6040-449f-9fec-8b4976c8302c#ref=rss)
-* [https://www.spiegel.de/politik/russlands-krieg-gegen-die-ukraine-nach-ankuendigung-von-friedrich-merz-kreml-kritisiert-moegliche-aufhebung-von-waffen-reichweitenbeschraenkung](https://www.spiegel.de/politik/russlands-krieg-gegen-die-ukraine-nach-ankuendigung-von-friedrich-merz-kreml-kritisiert-moegliche-aufhebung-von-waffen-reichweitenbeschraenkung-a-41c987ef-a899-4175-9456-4fb79233fa2d#ref=rss)
-* [https://www.spiegel.de/politik/bundesregierung-hendrik-streeck-soll-drogenbeauftragter-der-bundesregierung-werden](https://www.spiegel.de/politik/bundesregierung-hendrik-streeck-soll-drogenbeauftragter-der-bundesregierung-werden-a-8ba560fd-be23-41b3-902d-4118000e3981#ref=rss)
-* [https://www.spiegel.de/geschichte/25-jahre-cdu-spendenaffaere-ich-musste-das-fuer-den-rechtsstaat-tun](https://www.spiegel.de/geschichte/25-jahre-cdu-spendenaffaere-ich-musste-das-fuer-den-rechtsstaat-tun-a-49997da9-c078-4716-a7fe-7929a43b20b2#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/russlands-krieg-gegen-die-ukraine-nach-ankuendigung-von-friedrich-merz-kreml-kritisiert-moegliche-aufhebung-von-waffen-reichweitenbeschraenkung](https://www.spiegel.de/politik/russlands-krieg-gegen-die-ukraine-nach-ankuendigung-von-friedrich-merz-kreml-kritisiert-moegliche-aufhebung-von-waffen-reichweitenbeschraenkung-a-41c987ef-a899-4175-9456-4fb79233fa2d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-urteil-im-dieselskandal-israel-gaza-krieg-ukraine-krieg](https://www.spiegel.de/politik/deutschland/news-des-tages-urteil-im-dieselskandal-israel-gaza-krieg-ukraine-krieg-a-220a207c-f0f0-475b-9aa4-d770de4e4ca4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/menschenrechtsinstitut-sieht-irrefuehrende-diskussion-ueber-afd-verbotsverfahren](https://www.spiegel.de/politik/deutschland/menschenrechtsinstitut-sieht-irrefuehrende-diskussion-ueber-afd-verbotsverfahren-a-9c5e167c-10d4-4788-9021-7938bc39ab7e#ref=rss)
-### jette
-
-* [https://www.spiegel.de/panorama/gruene-jugend-acab-eklat-um-jette-nietzard](https://www.spiegel.de/panorama/gruene-jugend-acab-eklat-um-jette-nietzard-a-f9118c8f-e21f-4e92-b5fb-4c34923cdd99#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gruene-jugend-und-jette-nietzard-ausfaelle-gegen-die-polizei-veraergern-gruene](https://www.spiegel.de/politik/deutschland/gruene-jugend-und-jette-nietzard-ausfaelle-gegen-die-polizei-veraergern-gruene-a-a5a13a7f-2b59-4dd0-b666-8cc30e561169#ref=rss)
-### nietzard
-
-* [https://www.spiegel.de/panorama/gruene-jugend-acab-eklat-um-jette-nietzard](https://www.spiegel.de/panorama/gruene-jugend-acab-eklat-um-jette-nietzard-a-f9118c8f-e21f-4e92-b5fb-4c34923cdd99#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gruene-jugend-und-jette-nietzard-ausfaelle-gegen-die-polizei-veraergern-gruene](https://www.spiegel.de/politik/deutschland/gruene-jugend-und-jette-nietzard-ausfaelle-gegen-die-polizei-veraergern-gruene-a-a5a13a7f-2b59-4dd0-b666-8cc30e561169#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/ausland/iran-schliesst-aussetzung-von-uran-anreicherung-aus](https://www.spiegel.de/ausland/iran-schliesst-aussetzung-von-uran-anreicherung-aus-a-c3fc89b1-9d0b-4c08-872f-a8c5dee2072c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-urteil-im-dieselskandal-israel-gaza-krieg-ukraine-krieg](https://www.spiegel.de/politik/deutschland/news-des-tages-urteil-im-dieselskandal-israel-gaza-krieg-ukraine-krieg-a-220a207c-f0f0-475b-9aa4-d770de4e4ca4#ref=rss)
-* [https://www.spiegel.de/ausland/brigitte-und-emmanuel-macron-spass-oder-schlag-video-sorgt-fuer-spekulationen](https://www.spiegel.de/ausland/brigitte-und-emmanuel-macron-spass-oder-schlag-video-sorgt-fuer-spekulationen-a-f2fcbeff-cab0-4d4a-8958-afff98a3bcdc#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-ueber-frieden-reden-und-weiterbomben](https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-ueber-frieden-reden-und-weiterbomben-a-4432c15a-db4c-42f3-84e5-d7fd111ce2dd#ref=rss)
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-vodafone-wird-neuer-hauptsponsor-des-bvb](https://www.spiegel.de/sport/fussball/borussia-dortmund-vodafone-wird-neuer-hauptsponsor-des-bvb-a-10138af5-17c7-47a0-a5bc-e04b5bd8b24f#ref=rss)
-### haft
-
-* [https://www.spiegel.de/panorama/justiz/islamischer-staat-frueherer-deutschland-chef-abu-walaa-klagt-offenbar-gegen-ausweisung](https://www.spiegel.de/panorama/justiz/islamischer-staat-frueherer-deutschland-chef-abu-walaa-klagt-offenbar-gegen-ausweisung-a-f322ebbd-6040-449f-9fec-8b4976c8302c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bielefeld-elf-jahre-haft-fuer-mann-wegen-toetung-von-ehefrau](https://www.spiegel.de/panorama/justiz/bielefeld-elf-jahre-haft-fuer-mann-wegen-toetung-von-ehefrau-a-d4c6853b-c572-4669-b172-17745a9f6a53#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/russlands-krieg-gegen-die-ukraine-nach-ankuendigung-von-friedrich-merz-kreml-kritisiert-moegliche-aufhebung-von-waffen-reichweitenbeschraenkung](https://www.spiegel.de/politik/russlands-krieg-gegen-die-ukraine-nach-ankuendigung-von-friedrich-merz-kreml-kritisiert-moegliche-aufhebung-von-waffen-reichweitenbeschraenkung-a-41c987ef-a899-4175-9456-4fb79233fa2d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/menschenrechtsinstitut-sieht-irrefuehrende-diskussion-ueber-afd-verbotsverfahren](https://www.spiegel.de/politik/deutschland/menschenrechtsinstitut-sieht-irrefuehrende-diskussion-ueber-afd-verbotsverfahren-a-9c5e167c-10d4-4788-9021-7938bc39ab7e#ref=rss)
-### spiegel
-
-* [https://www.spiegel.de/wissenschaft/das-geheimnis-der-super-ager-geistig-fit-im-hohen-alter-spiegel-tv-fuer-arte-re](https://www.spiegel.de/wissenschaft/das-geheimnis-der-super-ager-geistig-fit-im-hohen-alter-spiegel-tv-fuer-arte-re-a-b6202d8f-dfad-473c-873b-79f01d5196b7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-ist-rechtsextrem-hier-sind-die-belege-des-verfassungsschutzes](https://www.spiegel.de/politik/deutschland/afd-ist-rechtsextrem-hier-sind-die-belege-des-verfassungsschutzes-a-b5fa40e4-a54e-410a-8cc7-ade35d09f77c#ref=rss)
-### grüne
-
-* [https://www.spiegel.de/panorama/gruene-jugend-acab-eklat-um-jette-nietzard](https://www.spiegel.de/panorama/gruene-jugend-acab-eklat-um-jette-nietzard-a-f9118c8f-e21f-4e92-b5fb-4c34923cdd99#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gruene-jugend-und-jette-nietzard-ausfaelle-gegen-die-polizei-veraergern-gruene](https://www.spiegel.de/politik/deutschland/gruene-jugend-und-jette-nietzard-ausfaelle-gegen-die-polizei-veraergern-gruene-a-a5a13a7f-2b59-4dd0-b666-8cc30e561169#ref=rss)
-### jugend
-
-* [https://www.spiegel.de/panorama/gruene-jugend-acab-eklat-um-jette-nietzard](https://www.spiegel.de/panorama/gruene-jugend-acab-eklat-um-jette-nietzard-a-f9118c8f-e21f-4e92-b5fb-4c34923cdd99#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gruene-jugend-und-jette-nietzard-ausfaelle-gegen-die-polizei-veraergern-gruene](https://www.spiegel.de/politik/deutschland/gruene-jugend-und-jette-nietzard-ausfaelle-gegen-die-polizei-veraergern-gruene-a-a5a13a7f-2b59-4dd0-b666-8cc30e561169#ref=rss)
-### afd
-
-* [https://www.spiegel.de/politik/deutschland/afd-ist-rechtsextrem-hier-sind-die-belege-des-verfassungsschutzes](https://www.spiegel.de/politik/deutschland/afd-ist-rechtsextrem-hier-sind-die-belege-des-verfassungsschutzes-a-b5fa40e4-a54e-410a-8cc7-ade35d09f77c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/menschenrechtsinstitut-sieht-irrefuehrende-diskussion-ueber-afd-verbotsverfahren](https://www.spiegel.de/politik/deutschland/menschenrechtsinstitut-sieht-irrefuehrende-diskussion-ueber-afd-verbotsverfahren-a-9c5e167c-10d4-4788-9021-7938bc39ab7e#ref=rss)
-### sehen
-
-* [https://www.spiegel.de/politik/deutschland/afd-ist-rechtsextrem-hier-sind-die-belege-des-verfassungsschutzes](https://www.spiegel.de/politik/deutschland/afd-ist-rechtsextrem-hier-sind-die-belege-des-verfassungsschutzes-a-b5fa40e4-a54e-410a-8cc7-ade35d09f77c#ref=rss)
-* [https://www.spiegel.de/ausland/brigitte-und-emmanuel-macron-spass-oder-schlag-video-sorgt-fuer-spekulationen](https://www.spiegel.de/ausland/brigitte-und-emmanuel-macron-spass-oder-schlag-video-sorgt-fuer-spekulationen-a-f2fcbeff-cab0-4d4a-8958-afff98a3bcdc#ref=rss)
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-vodafone-wird-neuer-hauptsponsor-des-bvb](https://www.spiegel.de/sport/fussball/borussia-dortmund-vodafone-wird-neuer-hauptsponsor-des-bvb-a-10138af5-17c7-47a0-a5bc-e04b5bd8b24f#ref=rss)
-### job
-
-* [https://www.spiegel.de/karriere/job-wechseln-strategien-fuer-die-suche-nach-einem-besseren-job-trotz-zeitmangel](https://www.spiegel.de/karriere/job-wechseln-strategien-fuer-die-suche-nach-einem-besseren-job-trotz-zeitmangel-a-35a31c20-eb0c-4122-8bd0-0adf27501dda#ref=rss)
-### bvb
-
-* [https://www.spiegel.de/sport/fussball/frueherer-star-von-borussia-dortmund-tomas-rosicky-musste-wegen-herzproblemen-auf-die-intensivstation](https://www.spiegel.de/sport/fussball/frueherer-star-von-borussia-dortmund-tomas-rosicky-musste-wegen-herzproblemen-auf-die-intensivstation-a-2f2967cd-99ee-4c56-be9a-c57365670e45#ref=rss)
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-vodafone-wird-neuer-hauptsponsor-des-bvb](https://www.spiegel.de/sport/fussball/borussia-dortmund-vodafone-wird-neuer-hauptsponsor-des-bvb-a-10138af5-17c7-47a0-a5bc-e04b5bd8b24f#ref=rss)
-### fans
-
-* [https://www.spiegel.de/sport/fussball/frueherer-star-von-borussia-dortmund-tomas-rosicky-musste-wegen-herzproblemen-auf-die-intensivstation](https://www.spiegel.de/sport/fussball/frueherer-star-von-borussia-dortmund-tomas-rosicky-musste-wegen-herzproblemen-auf-die-intensivstation-a-2f2967cd-99ee-4c56-be9a-c57365670e45#ref=rss)
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-vodafone-wird-neuer-hauptsponsor-des-bvb](https://www.spiegel.de/sport/fussball/borussia-dortmund-vodafone-wird-neuer-hauptsponsor-des-bvb-a-10138af5-17c7-47a0-a5bc-e04b5bd8b24f#ref=rss)
-### macron
-
-* [https://www.spiegel.de/ausland/brigitte-und-emmanuel-macron-spass-oder-schlag-video-sorgt-fuer-spekulationen](https://www.spiegel.de/ausland/brigitte-und-emmanuel-macron-spass-oder-schlag-video-sorgt-fuer-spekulationen-a-f2fcbeff-cab0-4d4a-8958-afff98a3bcdc#ref=rss)
-### propalästinensische
-
-* [https://www.spiegel.de/panorama/propalaestinensische-demonstranten-besetzen-faz-gebaeude-in-frankfurt](https://www.spiegel.de/panorama/propalaestinensische-demonstranten-besetzen-faz-gebaeude-in-frankfurt-a-695e1bab-f4ef-4c1a-a8ce-c9407f7102e9#ref=rss)
-### grund
-
-* [https://www.spiegel.de/panorama/propalaestinensische-demonstranten-besetzen-faz-gebaeude-in-frankfurt](https://www.spiegel.de/panorama/propalaestinensische-demonstranten-besetzen-faz-gebaeude-in-frankfurt-a-695e1bab-f4ef-4c1a-a8ce-c9407f7102e9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/us-zoelle-verschoben-dax-erholt-sich](https://www.spiegel.de/wirtschaft/unternehmen/us-zoelle-verschoben-dax-erholt-sich-a-0fac7e05-5a71-4a5a-b729-0ac8a9b9803b#ref=rss)
-### behandelt
-
-* [https://www.spiegel.de/panorama/justiz/tierquaelerei-kranke-katze-nicht-behandelt-frau-in-augsburg-verurteilt](https://www.spiegel.de/panorama/justiz/tierquaelerei-kranke-katze-nicht-behandelt-frau-in-augsburg-verurteilt-a-5cef4913-a778-4f70-972a-14a29451aab4#ref=rss)
-### verurteilt
-
-* [https://www.spiegel.de/panorama/justiz/tierquaelerei-kranke-katze-nicht-behandelt-frau-in-augsburg-verurteilt](https://www.spiegel.de/panorama/justiz/tierquaelerei-kranke-katze-nicht-behandelt-frau-in-augsburg-verurteilt-a-5cef4913-a778-4f70-972a-14a29451aab4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-urteil-im-dieselskandal-israel-gaza-krieg-ukraine-krieg](https://www.spiegel.de/politik/deutschland/news-des-tages-urteil-im-dieselskandal-israel-gaza-krieg-ukraine-krieg-a-220a207c-f0f0-475b-9aa4-d770de4e4ca4#ref=rss)
-### fest
-
-* [https://www.spiegel.de/panorama/justiz/tierquaelerei-kranke-katze-nicht-behandelt-frau-in-augsburg-verurteilt](https://www.spiegel.de/panorama/justiz/tierquaelerei-kranke-katze-nicht-behandelt-frau-in-augsburg-verurteilt-a-5cef4913-a778-4f70-972a-14a29451aab4#ref=rss)
-* [https://www.spiegel.de/ausland/iran-schliesst-aussetzung-von-uran-anreicherung-aus](https://www.spiegel.de/ausland/iran-schliesst-aussetzung-von-uran-anreicherung-aus-a-c3fc89b1-9d0b-4c08-872f-a8c5dee2072c#ref=rss)
-### großen
-
-* [https://www.spiegel.de/panorama/justiz/tierquaelerei-kranke-katze-nicht-behandelt-frau-in-augsburg-verurteilt](https://www.spiegel.de/panorama/justiz/tierquaelerei-kranke-katze-nicht-behandelt-frau-in-augsburg-verurteilt-a-5cef4913-a778-4f70-972a-14a29451aab4#ref=rss)
-* [https://www.spiegel.de/ausland/nahostkonflikt-israel-ruft-anwohner-eines-grossen-gaza-gebiets-zur-flucht-auf](https://www.spiegel.de/ausland/nahostkonflikt-israel-ruft-anwohner-eines-grossen-gaza-gebiets-zur-flucht-auf-a-b30d738e-3b4f-49a9-a897-5a977e4bc342#ref=rss)
-### linienbus
-
-* [https://www.spiegel.de/panorama/baden-wuerttemberg-krankentransport-kollidiert-mit-linienbus-kind-stirbt](https://www.spiegel.de/panorama/baden-wuerttemberg-krankentransport-kollidiert-mit-linienbus-kind-stirbt-a-32e2be6a-9b32-4f28-a52e-a7f5bad52ceb#ref=rss)
-### jungen
-
-* [https://www.spiegel.de/panorama/baden-wuerttemberg-krankentransport-kollidiert-mit-linienbus-kind-stirbt](https://www.spiegel.de/panorama/baden-wuerttemberg-krankentransport-kollidiert-mit-linienbus-kind-stirbt-a-32e2be6a-9b32-4f28-a52e-a7f5bad52ceb#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gruene-jugend-und-jette-nietzard-ausfaelle-gegen-die-polizei-veraergern-gruene](https://www.spiegel.de/politik/deutschland/gruene-jugend-und-jette-nietzard-ausfaelle-gegen-die-polizei-veraergern-gruene-a-a5a13a7f-2b59-4dd0-b666-8cc30e561169#ref=rss)
-### finden
-
-* [https://www.spiegel.de/ausland/iran-schliesst-aussetzung-von-uran-anreicherung-aus](https://www.spiegel.de/ausland/iran-schliesst-aussetzung-von-uran-anreicherung-aus-a-c3fc89b1-9d0b-4c08-872f-a8c5dee2072c#ref=rss)
-* [https://www.spiegel.de/karriere/job-wechseln-strategien-fuer-die-suche-nach-einem-besseren-job-trotz-zeitmangel](https://www.spiegel.de/karriere/job-wechseln-strategien-fuer-die-suche-nach-einem-besseren-job-trotz-zeitmangel-a-35a31c20-eb0c-4122-8bd0-0adf27501dda#ref=rss)
-### russlands
-
-* [https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-ueber-frieden-reden-und-weiterbomben](https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-ueber-frieden-reden-und-weiterbomben-a-4432c15a-db4c-42f3-84e5-d7fd111ce2dd#ref=rss)
-* [https://www.spiegel.de/politik/russlands-krieg-gegen-die-ukraine-nach-ankuendigung-von-friedrich-merz-kreml-kritisiert-moegliche-aufhebung-von-waffen-reichweitenbeschraenkung](https://www.spiegel.de/politik/russlands-krieg-gegen-die-ukraine-nach-ankuendigung-von-friedrich-merz-kreml-kritisiert-moegliche-aufhebung-von-waffen-reichweitenbeschraenkung-a-41c987ef-a899-4175-9456-4fb79233fa2d#ref=rss)
-### krieg
-
-* [https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-ueber-frieden-reden-und-weiterbomben](https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-ueber-frieden-reden-und-weiterbomben-a-4432c15a-db4c-42f3-84e5-d7fd111ce2dd#ref=rss)
-* [https://www.spiegel.de/politik/russlands-krieg-gegen-die-ukraine-nach-ankuendigung-von-friedrich-merz-kreml-kritisiert-moegliche-aufhebung-von-waffen-reichweitenbeschraenkung](https://www.spiegel.de/politik/russlands-krieg-gegen-die-ukraine-nach-ankuendigung-von-friedrich-merz-kreml-kritisiert-moegliche-aufhebung-von-waffen-reichweitenbeschraenkung-a-41c987ef-a899-4175-9456-4fb79233fa2d#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-ueber-frieden-reden-und-weiterbomben](https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-ueber-frieden-reden-und-weiterbomben-a-4432c15a-db4c-42f3-84e5-d7fd111ce2dd#ref=rss)
-* [https://www.spiegel.de/politik/russlands-krieg-gegen-die-ukraine-nach-ankuendigung-von-friedrich-merz-kreml-kritisiert-moegliche-aufhebung-von-waffen-reichweitenbeschraenkung](https://www.spiegel.de/politik/russlands-krieg-gegen-die-ukraine-nach-ankuendigung-von-friedrich-merz-kreml-kritisiert-moegliche-aufhebung-von-waffen-reichweitenbeschraenkung-a-41c987ef-a899-4175-9456-4fb79233fa2d#ref=rss)
-### früherer
-
-* [https://www.spiegel.de/panorama/justiz/islamischer-staat-frueherer-deutschland-chef-abu-walaa-klagt-offenbar-gegen-ausweisung](https://www.spiegel.de/panorama/justiz/islamischer-staat-frueherer-deutschland-chef-abu-walaa-klagt-offenbar-gegen-ausweisung-a-f322ebbd-6040-449f-9fec-8b4976c8302c#ref=rss)
-* [https://www.spiegel.de/sport/fussball/frueherer-star-von-borussia-dortmund-tomas-rosicky-musste-wegen-herzproblemen-auf-die-intensivstation](https://www.spiegel.de/sport/fussball/frueherer-star-von-borussia-dortmund-tomas-rosicky-musste-wegen-herzproblemen-auf-die-intensivstation-a-2f2967cd-99ee-4c56-be9a-c57365670e45#ref=rss)
-### abu
-
-* [https://www.spiegel.de/panorama/justiz/islamischer-staat-frueherer-deutschland-chef-abu-walaa-klagt-offenbar-gegen-ausweisung](https://www.spiegel.de/panorama/justiz/islamischer-staat-frueherer-deutschland-chef-abu-walaa-klagt-offenbar-gegen-ausweisung-a-f322ebbd-6040-449f-9fec-8b4976c8302c#ref=rss)
-### walaa
-
-* [https://www.spiegel.de/panorama/justiz/islamischer-staat-frueherer-deutschland-chef-abu-walaa-klagt-offenbar-gegen-ausweisung](https://www.spiegel.de/panorama/justiz/islamischer-staat-frueherer-deutschland-chef-abu-walaa-klagt-offenbar-gegen-ausweisung-a-f322ebbd-6040-449f-9fec-8b4976c8302c#ref=rss)
-### frühere
-
-* [https://www.spiegel.de/panorama/justiz/islamischer-staat-frueherer-deutschland-chef-abu-walaa-klagt-offenbar-gegen-ausweisung](https://www.spiegel.de/panorama/justiz/islamischer-staat-frueherer-deutschland-chef-abu-walaa-klagt-offenbar-gegen-ausweisung-a-f322ebbd-6040-449f-9fec-8b4976c8302c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-urteil-im-dieselskandal-israel-gaza-krieg-ukraine-krieg](https://www.spiegel.de/politik/deutschland/news-des-tages-urteil-im-dieselskandal-israel-gaza-krieg-ukraine-krieg-a-220a207c-f0f0-475b-9aa4-d770de4e4ca4#ref=rss)
-### kritisiert
-
-* [https://www.spiegel.de/politik/russlands-krieg-gegen-die-ukraine-nach-ankuendigung-von-friedrich-merz-kreml-kritisiert-moegliche-aufhebung-von-waffen-reichweitenbeschraenkung](https://www.spiegel.de/politik/russlands-krieg-gegen-die-ukraine-nach-ankuendigung-von-friedrich-merz-kreml-kritisiert-moegliche-aufhebung-von-waffen-reichweitenbeschraenkung-a-41c987ef-a899-4175-9456-4fb79233fa2d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-urteil-im-dieselskandal-israel-gaza-krieg-ukraine-krieg](https://www.spiegel.de/politik/deutschland/news-des-tages-urteil-im-dieselskandal-israel-gaza-krieg-ukraine-krieg-a-220a207c-f0f0-475b-9aa4-d770de4e4ca4#ref=rss)
-### irak
-
-* [https://www.spiegel.de/ausland/wasserreserven-im-irak-auf-niedrigstem-stand-seit-80-jahren](https://www.spiegel.de/ausland/wasserreserven-im-irak-auf-niedrigstem-stand-seit-80-jahren-a-1a071e12-fe57-4af6-ba5d-4f4461b4289e#ref=rss)
-### 80
-
-* [https://www.spiegel.de/ausland/wasserreserven-im-irak-auf-niedrigstem-stand-seit-80-jahren](https://www.spiegel.de/ausland/wasserreserven-im-irak-auf-niedrigstem-stand-seit-80-jahren-a-1a071e12-fe57-4af6-ba5d-4f4461b4289e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/das-geheimnis-der-super-ager-geistig-fit-im-hohen-alter-spiegel-tv-fuer-arte-re](https://www.spiegel.de/wissenschaft/das-geheimnis-der-super-ager-geistig-fit-im-hohen-alter-spiegel-tv-fuer-arte-re-a-b6202d8f-dfad-473c-873b-79f01d5196b7#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/ausland/wasserreserven-im-irak-auf-niedrigstem-stand-seit-80-jahren](https://www.spiegel.de/ausland/wasserreserven-im-irak-auf-niedrigstem-stand-seit-80-jahren-a-1a071e12-fe57-4af6-ba5d-4f4461b4289e#ref=rss)
-* [https://www.spiegel.de/geschichte/25-jahre-cdu-spendenaffaere-ich-musste-das-fuer-den-rechtsstaat-tun](https://www.spiegel.de/geschichte/25-jahre-cdu-spendenaffaere-ich-musste-das-fuer-den-rechtsstaat-tun-a-49997da9-c078-4716-a7fe-7929a43b20b2#ref=rss)
-### fünf
-
-* [https://www.spiegel.de/ausland/wasserreserven-im-irak-auf-niedrigstem-stand-seit-80-jahren](https://www.spiegel.de/ausland/wasserreserven-im-irak-auf-niedrigstem-stand-seit-80-jahren-a-1a071e12-fe57-4af6-ba5d-4f4461b4289e#ref=rss)
-* [https://www.spiegel.de/ausland/black-lives-matter-bewegung-fuenf-jahre-nach-george-floyd-gedenken-am-tatort](https://www.spiegel.de/ausland/black-lives-matter-bewegung-fuenf-jahre-nach-george-floyd-gedenken-am-tatort-a-412a6ac0-ece1-48ba-b918-2940d8df324e#ref=rss)
-### dazu
-
-* [https://www.spiegel.de/ausland/wasserreserven-im-irak-auf-niedrigstem-stand-seit-80-jahren](https://www.spiegel.de/ausland/wasserreserven-im-irak-auf-niedrigstem-stand-seit-80-jahren-a-1a071e12-fe57-4af6-ba5d-4f4461b4289e#ref=rss)
-* [https://www.spiegel.de/ausland/nahostkonflikt-israel-ruft-anwohner-eines-grossen-gaza-gebiets-zur-flucht-auf](https://www.spiegel.de/ausland/nahostkonflikt-israel-ruft-anwohner-eines-grossen-gaza-gebiets-zur-flucht-auf-a-b30d738e-3b4f-49a9-a897-5a977e4bc342#ref=rss)
-### uszölle
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/us-zoelle-verschoben-dax-erholt-sich](https://www.spiegel.de/wirtschaft/unternehmen/us-zoelle-verschoben-dax-erholt-sich-a-0fac7e05-5a71-4a5a-b729-0ac8a9b9803b#ref=rss)
-### erholt
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/us-zoelle-verschoben-dax-erholt-sich](https://www.spiegel.de/wirtschaft/unternehmen/us-zoelle-verschoben-dax-erholt-sich-a-0fac7e05-5a71-4a5a-b729-0ac8a9b9803b#ref=rss)
+* [https://www.spiegel.de/gesundheit/osteopathie-sollte-das-heilen-mit-den-haenden-staatlich-geregelt-werden](https://www.spiegel.de/gesundheit/osteopathie-sollte-das-heilen-mit-den-haenden-staatlich-geregelt-werden-a-60743af3-2fb0-453f-81e0-a43a272b3367#ref=rss)
+* [https://www.spiegel.de/wirtschaft/russland-wladimir-putin-will-westliche-it-firmen-stoppen](https://www.spiegel.de/wirtschaft/russland-wladimir-putin-will-westliche-it-firmen-stoppen-a-8126d19c-f560-43fe-8eb5-05c239d10aff#ref=rss)
+* [https://www.spiegel.de/wirtschaft/e-auto-kaeufer-im-ausland-vertrauen-deutschen-marken](https://www.spiegel.de/wirtschaft/e-auto-kaeufer-im-ausland-vertrauen-deutschen-marken-a-217b2026-2ec2-4747-b72e-a5e72e2f0b33#ref=rss)
+* [https://www.spiegel.de/politik/laender-stemmen-sich-gegen-friedrich-merz-steuerplaene-zur-pendlerpauschale](https://www.spiegel.de/politik/laender-stemmen-sich-gegen-friedrich-merz-steuerplaene-zur-pendlerpauschale-a-0e2fe68f-1c73-49b0-9e5c-bc1a11e5b79a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/ig-metall-gewerkschaft-fordert-keine-vier-tage-woche-mehr](https://www.spiegel.de/wirtschaft/unternehmen/ig-metall-gewerkschaft-fordert-keine-vier-tage-woche-mehr-a-f990bb8c-5ae6-423f-9624-20e92685f882#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-fuerchtet-neue-offensive](https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-fuerchtet-neue-offensive-a-21c7dd4a-b117-48f1-8092-819cc4ca022a#ref=rss)
 ### deutsche
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/us-zoelle-verschoben-dax-erholt-sich](https://www.spiegel.de/wirtschaft/unternehmen/us-zoelle-verschoben-dax-erholt-sich-a-0fac7e05-5a71-4a5a-b729-0ac8a9b9803b#ref=rss)
-* [https://www.spiegel.de/geschichte/holocaust-forscher-joseph-wulf-die-massenmoerder-gehen-frei-herum-haben-ihr-haeuschen-und-zuechten-blumen](https://www.spiegel.de/geschichte/holocaust-forscher-joseph-wulf-die-massenmoerder-gehen-frei-herum-haben-ihr-haeuschen-und-zuechten-blumen-a-34a9ac73-0439-47ea-b9ac-2ff7bf42d472#ref=rss)
-### xabi
+* [https://www.spiegel.de/auto/deutsche-bahn-zugfahrten-in-europa-sollen-ab-herbst-einfacher-buchbar-sein](https://www.spiegel.de/auto/deutsche-bahn-zugfahrten-in-europa-sollen-ab-herbst-einfacher-buchbar-sein-a-04b6f5ba-7547-4e30-8db2-420e89fbec32#ref=rss)
+* [https://www.spiegel.de/wirtschaft/flixtrain-greift-die-deutsche-bahn-an](https://www.spiegel.de/wirtschaft/flixtrain-greift-die-deutsche-bahn-an-a-ffcfc970-b632-4a88-b2cb-9aebe6938720#ref=rss)
+* [https://www.spiegel.de/wirtschaft/e-auto-kaeufer-im-ausland-vertrauen-deutschen-marken](https://www.spiegel.de/wirtschaft/e-auto-kaeufer-im-ausland-vertrauen-deutschen-marken-a-217b2026-2ec2-4747-b72e-a5e72e2f0b33#ref=rss)
+### bahn
 
-* [https://www.spiegel.de/sport/fussball/xabi-alonso-bei-real-madrid-es-wirkt-wie-ein-perfect-match-aber-passt-das-wirklich](https://www.spiegel.de/sport/fussball/xabi-alonso-bei-real-madrid-es-wirkt-wie-ein-perfect-match-aber-passt-das-wirklich-a-3541d15d-52d1-40c3-9ffd-799867ccea5d#ref=rss)
-### alonso
+* [https://www.spiegel.de/auto/deutsche-bahn-zugfahrten-in-europa-sollen-ab-herbst-einfacher-buchbar-sein](https://www.spiegel.de/auto/deutsche-bahn-zugfahrten-in-europa-sollen-ab-herbst-einfacher-buchbar-sein-a-04b6f5ba-7547-4e30-8db2-420e89fbec32#ref=rss)
+* [https://www.spiegel.de/wirtschaft/flixtrain-greift-die-deutsche-bahn-an](https://www.spiegel.de/wirtschaft/flixtrain-greift-die-deutsche-bahn-an-a-ffcfc970-b632-4a88-b2cb-9aebe6938720#ref=rss)
+### israel
 
-* [https://www.spiegel.de/sport/fussball/xabi-alonso-bei-real-madrid-es-wirkt-wie-ein-perfect-match-aber-passt-das-wirklich](https://www.spiegel.de/sport/fussball/xabi-alonso-bei-real-madrid-es-wirkt-wie-ein-perfect-match-aber-passt-das-wirklich-a-3541d15d-52d1-40c3-9ffd-799867ccea5d#ref=rss)
-### real
+* [https://www.spiegel.de/ausland/hamas-fordert-von-hungernden-boykott-der-gaza-humanitarian-foundation](https://www.spiegel.de/ausland/hamas-fordert-von-hungernden-boykott-der-gaza-humanitarian-foundation-a-19d858a8-7633-46c9-a1bd-a99ab25ea42f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/israel-spd-politiker-draengen-auf-stopp-der-waffenlieferungen](https://www.spiegel.de/politik/deutschland/israel-spd-politiker-draengen-auf-stopp-der-waffenlieferungen-a-244391c8-d98f-42ff-abe6-e39f62845b85#ref=rss)
+### prozess
 
-* [https://www.spiegel.de/sport/fussball/xabi-alonso-bei-real-madrid-es-wirkt-wie-ein-perfect-match-aber-passt-das-wirklich](https://www.spiegel.de/sport/fussball/xabi-alonso-bei-real-madrid-es-wirkt-wie-ein-perfect-match-aber-passt-das-wirklich-a-3541d15d-52d1-40c3-9ffd-799867ccea5d#ref=rss)
-### madrid
+* [https://www.spiegel.de/panorama/justiz/solingen-angeklagter-gesteht-messerangriff-im-prozess](https://www.spiegel.de/panorama/justiz/solingen-angeklagter-gesteht-messerangriff-im-prozess-a-7ff95449-e5e5-4a22-a697-10fa7666a588#ref=rss)
+* [https://www.spiegel.de/panorama/arizona-ki-im-gerichtssaal-warum-ein-getoeteter-bei-seinem-eigenen-prozess-auftrat](https://www.spiegel.de/panorama/arizona-ki-im-gerichtssaal-warum-ein-getoeteter-bei-seinem-eigenen-prozess-auftrat-a-b4f3626d-2072-45ed-b217-cf3b9cfe4f62#ref=rss)
+### putin
 
-* [https://www.spiegel.de/sport/fussball/xabi-alonso-bei-real-madrid-es-wirkt-wie-ein-perfect-match-aber-passt-das-wirklich](https://www.spiegel.de/sport/fussball/xabi-alonso-bei-real-madrid-es-wirkt-wie-ein-perfect-match-aber-passt-das-wirklich-a-3541d15d-52d1-40c3-9ffd-799867ccea5d#ref=rss)
-### mats
+* [https://www.spiegel.de/wirtschaft/russland-wladimir-putin-will-westliche-it-firmen-stoppen](https://www.spiegel.de/wirtschaft/russland-wladimir-putin-will-westliche-it-firmen-stoppen-a-8126d19c-f560-43fe-8eb5-05c239d10aff#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-fuerchtet-neue-offensive](https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-fuerchtet-neue-offensive-a-21c7dd4a-b117-48f1-8092-819cc4ca022a#ref=rss)
+### eigenen
 
-* [https://www.spiegel.de/sport/fussball/zdf-dokumentation-ueber-mats-hummels-von-tommi-schmitt-das-seltsame-letzte-jahr](https://www.spiegel.de/sport/fussball/zdf-dokumentation-ueber-mats-hummels-von-tommi-schmitt-das-seltsame-letzte-jahr-a-16710458-5cb4-4df7-9cb2-4eac8cfd21bf#ref=rss)
-### hummels
+* [https://www.spiegel.de/kultur/kino/naechste-top-gun-fortsetzung-tom-cruise-koennte-sehr-bald-wieder-in-die-rolle-maverick-schluepfen](https://www.spiegel.de/kultur/kino/naechste-top-gun-fortsetzung-tom-cruise-koennte-sehr-bald-wieder-in-die-rolle-maverick-schluepfen-a-4686c38a-c7a6-43bd-b3ad-b0c9590f1c1c#ref=rss)
+* [https://www.spiegel.de/panorama/arizona-ki-im-gerichtssaal-warum-ein-getoeteter-bei-seinem-eigenen-prozess-auftrat](https://www.spiegel.de/panorama/arizona-ki-im-gerichtssaal-warum-ein-getoeteter-bei-seinem-eigenen-prozess-auftrat-a-b4f3626d-2072-45ed-b217-cf3b9cfe4f62#ref=rss)
+### ausland
 
-* [https://www.spiegel.de/sport/fussball/zdf-dokumentation-ueber-mats-hummels-von-tommi-schmitt-das-seltsame-letzte-jahr](https://www.spiegel.de/sport/fussball/zdf-dokumentation-ueber-mats-hummels-von-tommi-schmitt-das-seltsame-letzte-jahr-a-16710458-5cb4-4df7-9cb2-4eac8cfd21bf#ref=rss)
-### tommi
+* [https://www.spiegel.de/auto/deutsche-bahn-zugfahrten-in-europa-sollen-ab-herbst-einfacher-buchbar-sein](https://www.spiegel.de/auto/deutsche-bahn-zugfahrten-in-europa-sollen-ab-herbst-einfacher-buchbar-sein-a-04b6f5ba-7547-4e30-8db2-420e89fbec32#ref=rss)
+* [https://www.spiegel.de/wirtschaft/e-auto-kaeufer-im-ausland-vertrauen-deutschen-marken](https://www.spiegel.de/wirtschaft/e-auto-kaeufer-im-ausland-vertrauen-deutschen-marken-a-217b2026-2ec2-4747-b72e-a5e72e2f0b33#ref=rss)
+### eukommission
 
-* [https://www.spiegel.de/sport/fussball/zdf-dokumentation-ueber-mats-hummels-von-tommi-schmitt-das-seltsame-letzte-jahr](https://www.spiegel.de/sport/fussball/zdf-dokumentation-ueber-mats-hummels-von-tommi-schmitt-das-seltsame-letzte-jahr-a-16710458-5cb4-4df7-9cb2-4eac8cfd21bf#ref=rss)
-### schmitt
-
-* [https://www.spiegel.de/sport/fussball/zdf-dokumentation-ueber-mats-hummels-von-tommi-schmitt-das-seltsame-letzte-jahr](https://www.spiegel.de/sport/fussball/zdf-dokumentation-ueber-mats-hummels-von-tommi-schmitt-das-seltsame-letzte-jahr-a-16710458-5cb4-4df7-9cb2-4eac8cfd21bf#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/sport/fussball/zdf-dokumentation-ueber-mats-hummels-von-tommi-schmitt-das-seltsame-letzte-jahr](https://www.spiegel.de/sport/fussball/zdf-dokumentation-ueber-mats-hummels-von-tommi-schmitt-das-seltsame-letzte-jahr-a-16710458-5cb4-4df7-9cb2-4eac8cfd21bf#ref=rss)
-### george
-
-* [https://www.spiegel.de/ausland/black-lives-matter-bewegung-fuenf-jahre-nach-george-floyd-gedenken-am-tatort](https://www.spiegel.de/ausland/black-lives-matter-bewegung-fuenf-jahre-nach-george-floyd-gedenken-am-tatort-a-412a6ac0-ece1-48ba-b918-2940d8df324e#ref=rss)
-### floyd
-
-* [https://www.spiegel.de/ausland/black-lives-matter-bewegung-fuenf-jahre-nach-george-floyd-gedenken-am-tatort](https://www.spiegel.de/ausland/black-lives-matter-bewegung-fuenf-jahre-nach-george-floyd-gedenken-am-tatort-a-412a6ac0-ece1-48ba-b918-2940d8df324e#ref=rss)
-### gedenken
-
-* [https://www.spiegel.de/ausland/black-lives-matter-bewegung-fuenf-jahre-nach-george-floyd-gedenken-am-tatort](https://www.spiegel.de/ausland/black-lives-matter-bewegung-fuenf-jahre-nach-george-floyd-gedenken-am-tatort-a-412a6ac0-ece1-48ba-b918-2940d8df324e#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/black-lives-matter-bewegung-fuenf-jahre-nach-george-floyd-gedenken-am-tatort](https://www.spiegel.de/ausland/black-lives-matter-bewegung-fuenf-jahre-nach-george-floyd-gedenken-am-tatort-a-412a6ac0-ece1-48ba-b918-2940d8df324e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/das-geheimnis-der-super-ager-geistig-fit-im-hohen-alter-spiegel-tv-fuer-arte-re](https://www.spiegel.de/wissenschaft/das-geheimnis-der-super-ager-geistig-fit-im-hohen-alter-spiegel-tv-fuer-arte-re-a-b6202d8f-dfad-473c-873b-79f01d5196b7#ref=rss)
-### familie
-
-* [https://www.spiegel.de/ausland/black-lives-matter-bewegung-fuenf-jahre-nach-george-floyd-gedenken-am-tatort](https://www.spiegel.de/ausland/black-lives-matter-bewegung-fuenf-jahre-nach-george-floyd-gedenken-am-tatort-a-412a6ac0-ece1-48ba-b918-2940d8df324e#ref=rss)
-* [https://www.spiegel.de/karriere/job-wechseln-strategien-fuer-die-suche-nach-einem-besseren-job-trotz-zeitmangel](https://www.spiegel.de/karriere/job-wechseln-strategien-fuer-die-suche-nach-einem-besseren-job-trotz-zeitmangel-a-35a31c20-eb0c-4122-8bd0-0adf27501dda#ref=rss)
-### steigt
-
-* [https://www.spiegel.de/ausland/black-lives-matter-bewegung-fuenf-jahre-nach-george-floyd-gedenken-am-tatort](https://www.spiegel.de/ausland/black-lives-matter-bewegung-fuenf-jahre-nach-george-floyd-gedenken-am-tatort-a-412a6ac0-ece1-48ba-b918-2940d8df324e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bielefeld-elf-jahre-haft-fuer-mann-wegen-toetung-von-ehefrau](https://www.spiegel.de/panorama/justiz/bielefeld-elf-jahre-haft-fuer-mann-wegen-toetung-von-ehefrau-a-d4c6853b-c572-4669-b172-17745a9f6a53#ref=rss)
-### spiel
-
-* [https://www.spiegel.de/games/krakel-orakel-flip-7-bomb-busters-die-besten-brettspiele-auf-der-shortlist-zum-spiel-des-jahres-2025](https://www.spiegel.de/games/krakel-orakel-flip-7-bomb-busters-die-besten-brettspiele-auf-der-shortlist-zum-spiel-des-jahres-2025-a-ed4fc2d7-f5c2-4a05-9c3e-22a0db8af21e#ref=rss)
-### jahres
-
-* [https://www.spiegel.de/games/krakel-orakel-flip-7-bomb-busters-die-besten-brettspiele-auf-der-shortlist-zum-spiel-des-jahres-2025](https://www.spiegel.de/games/krakel-orakel-flip-7-bomb-busters-die-besten-brettspiele-auf-der-shortlist-zum-spiel-des-jahres-2025-a-ed4fc2d7-f5c2-4a05-9c3e-22a0db8af21e#ref=rss)
-### beste
-
-* [https://www.spiegel.de/games/krakel-orakel-flip-7-bomb-busters-die-besten-brettspiele-auf-der-shortlist-zum-spiel-des-jahres-2025](https://www.spiegel.de/games/krakel-orakel-flip-7-bomb-busters-die-besten-brettspiele-auf-der-shortlist-zum-spiel-des-jahres-2025-a-ed4fc2d7-f5c2-4a05-9c3e-22a0db8af21e#ref=rss)
-* [https://www.spiegel.de/kultur/selbstwahrnehmung-zwischen-selbstoptimierung-und-selbstverlust](https://www.spiegel.de/kultur/selbstwahrnehmung-zwischen-selbstoptimierung-und-selbstverlust-a-7bcf0781-ca79-4551-ac32-5f594eb586ca#ref=rss)
-### spaß
-
-* [https://www.spiegel.de/games/krakel-orakel-flip-7-bomb-busters-die-besten-brettspiele-auf-der-shortlist-zum-spiel-des-jahres-2025](https://www.spiegel.de/games/krakel-orakel-flip-7-bomb-busters-die-besten-brettspiele-auf-der-shortlist-zum-spiel-des-jahres-2025-a-ed4fc2d7-f5c2-4a05-9c3e-22a0db8af21e#ref=rss)
-* [https://www.spiegel.de/ausland/brigitte-und-emmanuel-macron-spass-oder-schlag-video-sorgt-fuer-spekulationen](https://www.spiegel.de/ausland/brigitte-und-emmanuel-macron-spass-oder-schlag-video-sorgt-fuer-spekulationen-a-f2fcbeff-cab0-4d4a-8958-afff98a3bcdc#ref=rss)
-### bundeskanzler
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-urteil-im-dieselskandal-israel-gaza-krieg-ukraine-krieg](https://www.spiegel.de/politik/deutschland/news-des-tages-urteil-im-dieselskandal-israel-gaza-krieg-ukraine-krieg-a-220a207c-f0f0-475b-9aa4-d770de4e4ca4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/menschenrechtsinstitut-sieht-irrefuehrende-diskussion-ueber-afd-verbotsverfahren](https://www.spiegel.de/politik/deutschland/menschenrechtsinstitut-sieht-irrefuehrende-diskussion-ueber-afd-verbotsverfahren-a-9c5e167c-10d4-4788-9021-7938bc39ab7e#ref=rss)
+* [https://www.spiegel.de/auto/deutsche-bahn-zugfahrten-in-europa-sollen-ab-herbst-einfacher-buchbar-sein](https://www.spiegel.de/auto/deutsche-bahn-zugfahrten-in-europa-sollen-ab-herbst-einfacher-buchbar-sein-a-04b6f5ba-7547-4e30-8db2-420e89fbec32#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/brief-an-eu-kommission-150-unternehmen-befuerworten-ehrgeiziges-eu-klimaziel-bis-2040](https://www.spiegel.de/wirtschaft/unternehmen/brief-an-eu-kommission-150-unternehmen-befuerworten-ehrgeiziges-eu-klimaziel-bis-2040-a-4393cb67-2752-4c78-afed-5acae53510ef#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/pride-verbot-in-ungarn-17-eu-laender-fordern-haerteres-vorgehen-gegen-budapest](https://www.spiegel.de/politik/deutschland/pride-verbot-in-ungarn-17-eu-laender-fordern-haerteres-vorgehen-gegen-budapest-a-08fe33da-f494-4d35-a966-7f505133282f#ref=rss)
 ### vorgehen
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-urteil-im-dieselskandal-israel-gaza-krieg-ukraine-krieg](https://www.spiegel.de/politik/deutschland/news-des-tages-urteil-im-dieselskandal-israel-gaza-krieg-ukraine-krieg-a-220a207c-f0f0-475b-9aa4-d770de4e4ca4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/menschenrechtsinstitut-sieht-irrefuehrende-diskussion-ueber-afd-verbotsverfahren](https://www.spiegel.de/politik/deutschland/menschenrechtsinstitut-sieht-irrefuehrende-diskussion-ueber-afd-verbotsverfahren-a-9c5e167c-10d4-4788-9021-7938bc39ab7e#ref=rss)
-### superager
+* [https://www.spiegel.de/politik/deutschland/pride-verbot-in-ungarn-17-eu-laender-fordern-haerteres-vorgehen-gegen-budapest](https://www.spiegel.de/politik/deutschland/pride-verbot-in-ungarn-17-eu-laender-fordern-haerteres-vorgehen-gegen-budapest-a-08fe33da-f494-4d35-a966-7f505133282f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ron-prosor-reagiert-auf-scharfe-kritik-am-vorgehen-israels](https://www.spiegel.de/politik/deutschland/friedrich-merz-ron-prosor-reagiert-auf-scharfe-kritik-am-vorgehen-israels-a-e19960ef-cea2-467b-ac40-0f8143340d08#ref=rss)
+### fordert
 
-* [https://www.spiegel.de/wissenschaft/das-geheimnis-der-super-ager-geistig-fit-im-hohen-alter-spiegel-tv-fuer-arte-re](https://www.spiegel.de/wissenschaft/das-geheimnis-der-super-ager-geistig-fit-im-hohen-alter-spiegel-tv-fuer-arte-re-a-b6202d8f-dfad-473c-873b-79f01d5196b7#ref=rss)
-### tv
+* [https://www.spiegel.de/ausland/hamas-fordert-von-hungernden-boykott-der-gaza-humanitarian-foundation](https://www.spiegel.de/ausland/hamas-fordert-von-hungernden-boykott-der-gaza-humanitarian-foundation-a-19d858a8-7633-46c9-a1bd-a99ab25ea42f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/israel-spd-politiker-draengen-auf-stopp-der-waffenlieferungen](https://www.spiegel.de/politik/deutschland/israel-spd-politiker-draengen-auf-stopp-der-waffenlieferungen-a-244391c8-d98f-42ff-abe6-e39f62845b85#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/ig-metall-gewerkschaft-fordert-keine-vier-tage-woche-mehr](https://www.spiegel.de/wirtschaft/unternehmen/ig-metall-gewerkschaft-fordert-keine-vier-tage-woche-mehr-a-f990bb8c-5ae6-423f-9624-20e92685f882#ref=rss)
+### unter
 
-* [https://www.spiegel.de/wissenschaft/das-geheimnis-der-super-ager-geistig-fit-im-hohen-alter-spiegel-tv-fuer-arte-re](https://www.spiegel.de/wissenschaft/das-geheimnis-der-super-ager-geistig-fit-im-hohen-alter-spiegel-tv-fuer-arte-re-a-b6202d8f-dfad-473c-873b-79f01d5196b7#ref=rss)
-### arte
+* [https://www.spiegel.de/ausland/hamas-fordert-von-hungernden-boykott-der-gaza-humanitarian-foundation](https://www.spiegel.de/ausland/hamas-fordert-von-hungernden-boykott-der-gaza-humanitarian-foundation-a-19d858a8-7633-46c9-a1bd-a99ab25ea42f#ref=rss)
+* [https://www.spiegel.de/ausland/liverpool-27-verletzte-bei-meisterfeier-kein-terroristischer-hintergrund](https://www.spiegel.de/ausland/liverpool-27-verletzte-bei-meisterfeier-kein-terroristischer-hintergrund-a-62309cc9-337d-4050-b9ad-2f63e62ee0f4#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/afghanistan-insiderberichte-ueber-sicherheitsluecken-bei-aufnahmeprogrammen](https://www.spiegel.de/panorama/justiz/afghanistan-insiderberichte-ueber-sicherheitsluecken-bei-aufnahmeprogrammen-a-b4ed4569-e76a-4879-a2fb-a7c948c84ced#ref=rss)
+### kritik
 
-* [https://www.spiegel.de/wissenschaft/das-geheimnis-der-super-ager-geistig-fit-im-hohen-alter-spiegel-tv-fuer-arte-re](https://www.spiegel.de/wissenschaft/das-geheimnis-der-super-ager-geistig-fit-im-hohen-alter-spiegel-tv-fuer-arte-re-a-b6202d8f-dfad-473c-873b-79f01d5196b7#ref=rss)
-### joseph
+* [https://www.spiegel.de/politik/deutschland/israel-spd-politiker-draengen-auf-stopp-der-waffenlieferungen](https://www.spiegel.de/politik/deutschland/israel-spd-politiker-draengen-auf-stopp-der-waffenlieferungen-a-244391c8-d98f-42ff-abe6-e39f62845b85#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ron-prosor-reagiert-auf-scharfe-kritik-am-vorgehen-israels](https://www.spiegel.de/politik/deutschland/friedrich-merz-ron-prosor-reagiert-auf-scharfe-kritik-am-vorgehen-israels-a-e19960ef-cea2-467b-ac40-0f8143340d08#ref=rss)
+### trainer
 
-* [https://www.spiegel.de/geschichte/holocaust-forscher-joseph-wulf-die-massenmoerder-gehen-frei-herum-haben-ihr-haeuschen-und-zuechten-blumen](https://www.spiegel.de/geschichte/holocaust-forscher-joseph-wulf-die-massenmoerder-gehen-frei-herum-haben-ihr-haeuschen-und-zuechten-blumen-a-34a9ac73-0439-47ea-b9ac-2ff7bf42d472#ref=rss)
-### wulf
+* [https://www.spiegel.de/sport/fussball/bundesliga-werder-bremen-trennt-sich-sofort-von-trainer-werner](https://www.spiegel.de/sport/fussball/bundesliga-werder-bremen-trennt-sich-sofort-von-trainer-werner-a-ca5420bb-92b8-4b9b-a38d-5f2f249afa63#ref=rss)
+* [https://www.spiegel.de/sport/fussball/bundesliga-relegation-elversberg-enttaeuscht-heidenheim-erleichtert-und-mausekaputt](https://www.spiegel.de/sport/fussball/bundesliga-relegation-elversberg-enttaeuscht-heidenheim-erleichtert-und-mausekaputt-a-97f588ab-cfef-40cf-917f-11c9a3e92fe3#ref=rss)
+### israels
 
-* [https://www.spiegel.de/geschichte/holocaust-forscher-joseph-wulf-die-massenmoerder-gehen-frei-herum-haben-ihr-haeuschen-und-zuechten-blumen](https://www.spiegel.de/geschichte/holocaust-forscher-joseph-wulf-die-massenmoerder-gehen-frei-herum-haben-ihr-haeuschen-und-zuechten-blumen-a-34a9ac73-0439-47ea-b9ac-2ff7bf42d472#ref=rss)
-### cochefin
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ron-prosor-reagiert-auf-scharfe-kritik-am-vorgehen-israels](https://www.spiegel.de/politik/deutschland/friedrich-merz-ron-prosor-reagiert-auf-scharfe-kritik-am-vorgehen-israels-a-e19960ef-cea2-467b-ac40-0f8143340d08#ref=rss)
+### top
 
-* [https://www.spiegel.de/panorama/gruene-jugend-acab-eklat-um-jette-nietzard](https://www.spiegel.de/panorama/gruene-jugend-acab-eklat-um-jette-nietzard-a-f9118c8f-e21f-4e92-b5fb-4c34923cdd99#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gruene-jugend-und-jette-nietzard-ausfaelle-gegen-die-polizei-veraergern-gruene](https://www.spiegel.de/politik/deutschland/gruene-jugend-und-jette-nietzard-ausfaelle-gegen-die-polizei-veraergern-gruene-a-a5a13a7f-2b59-4dd0-b666-8cc30e561169#ref=rss)
-### grünen
+* [https://www.spiegel.de/kultur/kino/naechste-top-gun-fortsetzung-tom-cruise-koennte-sehr-bald-wieder-in-die-rolle-maverick-schluepfen](https://www.spiegel.de/kultur/kino/naechste-top-gun-fortsetzung-tom-cruise-koennte-sehr-bald-wieder-in-die-rolle-maverick-schluepfen-a-4686c38a-c7a6-43bd-b3ad-b0c9590f1c1c#ref=rss)
+### worten
 
-* [https://www.spiegel.de/panorama/gruene-jugend-acab-eklat-um-jette-nietzard](https://www.spiegel.de/panorama/gruene-jugend-acab-eklat-um-jette-nietzard-a-f9118c8f-e21f-4e92-b5fb-4c34923cdd99#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gruene-jugend-und-jette-nietzard-ausfaelle-gegen-die-polizei-veraergern-gruene](https://www.spiegel.de/politik/deutschland/gruene-jugend-und-jette-nietzard-ausfaelle-gegen-die-polizei-veraergern-gruene-a-a5a13a7f-2b59-4dd0-b666-8cc30e561169#ref=rss)
-### bundesregierung
+* [https://www.spiegel.de/kultur/kino/naechste-top-gun-fortsetzung-tom-cruise-koennte-sehr-bald-wieder-in-die-rolle-maverick-schluepfen](https://www.spiegel.de/kultur/kino/naechste-top-gun-fortsetzung-tom-cruise-koennte-sehr-bald-wieder-in-die-rolle-maverick-schluepfen-a-4686c38a-c7a6-43bd-b3ad-b0c9590f1c1c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/israel-spd-politiker-draengen-auf-stopp-der-waffenlieferungen](https://www.spiegel.de/politik/deutschland/israel-spd-politiker-draengen-auf-stopp-der-waffenlieferungen-a-244391c8-d98f-42ff-abe6-e39f62845b85#ref=rss)
+### österreich
 
-* [https://www.spiegel.de/politik/bundesregierung-hendrik-streeck-soll-drogenbeauftragter-der-bundesregierung-werden](https://www.spiegel.de/politik/bundesregierung-hendrik-streeck-soll-drogenbeauftragter-der-bundesregierung-werden-a-8ba560fd-be23-41b3-902d-4118000e3981#ref=rss)
-### hendrik
+* [https://www.spiegel.de/auto/deutsche-bahn-zugfahrten-in-europa-sollen-ab-herbst-einfacher-buchbar-sein](https://www.spiegel.de/auto/deutsche-bahn-zugfahrten-in-europa-sollen-ab-herbst-einfacher-buchbar-sein-a-04b6f5ba-7547-4e30-8db2-420e89fbec32#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-23-prozent-mehr-rechtsextreme-verdachtsfaelle](https://www.spiegel.de/ausland/oesterreich-23-prozent-mehr-rechtsextreme-verdachtsfaelle-a-c9bc14b0-7802-44ab-b746-067dea47f2ab#ref=rss)
+### 2025
 
-* [https://www.spiegel.de/politik/bundesregierung-hendrik-streeck-soll-drogenbeauftragter-der-bundesregierung-werden](https://www.spiegel.de/politik/bundesregierung-hendrik-streeck-soll-drogenbeauftragter-der-bundesregierung-werden-a-8ba560fd-be23-41b3-902d-4118000e3981#ref=rss)
-### streeck
+* [https://www.spiegel.de/kultur/musik/amas-2025-diese-stars-haben-gewonnen-aber-waren-nicht-anwesend](https://www.spiegel.de/kultur/musik/amas-2025-diese-stars-haben-gewonnen-aber-waren-nicht-anwesend-a-fc2269ac-b685-4f96-8008-a0c0927ed461#ref=rss)
+### stars
 
-* [https://www.spiegel.de/politik/bundesregierung-hendrik-streeck-soll-drogenbeauftragter-der-bundesregierung-werden](https://www.spiegel.de/politik/bundesregierung-hendrik-streeck-soll-drogenbeauftragter-der-bundesregierung-werden-a-8ba560fd-be23-41b3-902d-4118000e3981#ref=rss)
-### drogenbeauftragter
+* [https://www.spiegel.de/kultur/musik/amas-2025-diese-stars-haben-gewonnen-aber-waren-nicht-anwesend](https://www.spiegel.de/kultur/musik/amas-2025-diese-stars-haben-gewonnen-aber-waren-nicht-anwesend-a-fc2269ac-b685-4f96-8008-a0c0927ed461#ref=rss)
+### garantiert
 
-* [https://www.spiegel.de/politik/bundesregierung-hendrik-streeck-soll-drogenbeauftragter-der-bundesregierung-werden](https://www.spiegel.de/politik/bundesregierung-hendrik-streeck-soll-drogenbeauftragter-der-bundesregierung-werden-a-8ba560fd-be23-41b3-902d-4118000e3981#ref=rss)
-### sorgt
+* [https://www.spiegel.de/kultur/musik/amas-2025-diese-stars-haben-gewonnen-aber-waren-nicht-anwesend](https://www.spiegel.de/kultur/musik/amas-2025-diese-stars-haben-gewonnen-aber-waren-nicht-anwesend-a-fc2269ac-b685-4f96-8008-a0c0927ed461#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-tsg-hoffenheim-fuehrt-vertragsverlaengerung-bei-schwangerschaft-ein](https://www.spiegel.de/sport/fussball/fussball-tsg-hoffenheim-fuehrt-vertragsverlaengerung-bei-schwangerschaft-ein-a-d2f2156e-871c-41ce-8256-adb312880e64#ref=rss)
+### größten
 
-* [https://www.spiegel.de/politik/deutschland/gruene-jugend-und-jette-nietzard-ausfaelle-gegen-die-polizei-veraergern-gruene](https://www.spiegel.de/politik/deutschland/gruene-jugend-und-jette-nietzard-ausfaelle-gegen-die-polizei-veraergern-gruene-a-a5a13a7f-2b59-4dd0-b666-8cc30e561169#ref=rss)
-* [https://www.spiegel.de/ausland/brigitte-und-emmanuel-macron-spass-oder-schlag-video-sorgt-fuer-spekulationen](https://www.spiegel.de/ausland/brigitte-und-emmanuel-macron-spass-oder-schlag-video-sorgt-fuer-spekulationen-a-f2fcbeff-cab0-4d4a-8958-afff98a3bcdc#ref=rss)
-### ruft
+* [https://www.spiegel.de/kultur/musik/amas-2025-diese-stars-haben-gewonnen-aber-waren-nicht-anwesend](https://www.spiegel.de/kultur/musik/amas-2025-diese-stars-haben-gewonnen-aber-waren-nicht-anwesend-a-fc2269ac-b685-4f96-8008-a0c0927ed461#ref=rss)
+* [https://www.spiegel.de/wirtschaft/flixtrain-greift-die-deutsche-bahn-an](https://www.spiegel.de/wirtschaft/flixtrain-greift-die-deutsche-bahn-an-a-ffcfc970-b632-4a88-b2cb-9aebe6938720#ref=rss)
+### branche
 
-* [https://www.spiegel.de/ausland/nahostkonflikt-israel-ruft-anwohner-eines-grossen-gaza-gebiets-zur-flucht-auf](https://www.spiegel.de/ausland/nahostkonflikt-israel-ruft-anwohner-eines-grossen-gaza-gebiets-zur-flucht-auf-a-b30d738e-3b4f-49a9-a897-5a977e4bc342#ref=rss)
-### rechtsextrem
+* [https://www.spiegel.de/kultur/musik/amas-2025-diese-stars-haben-gewonnen-aber-waren-nicht-anwesend](https://www.spiegel.de/kultur/musik/amas-2025-diese-stars-haben-gewonnen-aber-waren-nicht-anwesend-a-fc2269ac-b685-4f96-8008-a0c0927ed461#ref=rss)
+* [https://www.spiegel.de/panorama/leute/tina-ruland-schauspielerin-aus-manta-manta-klagt-ueber-gagenverfall](https://www.spiegel.de/panorama/leute/tina-ruland-schauspielerin-aus-manta-manta-klagt-ueber-gagenverfall-a-2c2a563b-24ee-4532-b5c3-3a86c206308c#ref=rss)
+### brief
 
-* [https://www.spiegel.de/politik/deutschland/afd-ist-rechtsextrem-hier-sind-die-belege-des-verfassungsschutzes](https://www.spiegel.de/politik/deutschland/afd-ist-rechtsextrem-hier-sind-die-belege-des-verfassungsschutzes-a-b5fa40e4-a54e-410a-8cc7-ade35d09f77c#ref=rss)
-### belege
+* [https://www.spiegel.de/wirtschaft/unternehmen/brief-an-eu-kommission-150-unternehmen-befuerworten-ehrgeiziges-eu-klimaziel-bis-2040](https://www.spiegel.de/wirtschaft/unternehmen/brief-an-eu-kommission-150-unternehmen-befuerworten-ehrgeiziges-eu-klimaziel-bis-2040-a-4393cb67-2752-4c78-afed-5acae53510ef#ref=rss)
+### unternehmen
 
-* [https://www.spiegel.de/politik/deutschland/afd-ist-rechtsextrem-hier-sind-die-belege-des-verfassungsschutzes](https://www.spiegel.de/politik/deutschland/afd-ist-rechtsextrem-hier-sind-die-belege-des-verfassungsschutzes-a-b5fa40e4-a54e-410a-8cc7-ade35d09f77c#ref=rss)
-### politiker
+* [https://www.spiegel.de/wirtschaft/unternehmen/brief-an-eu-kommission-150-unternehmen-befuerworten-ehrgeiziges-eu-klimaziel-bis-2040](https://www.spiegel.de/wirtschaft/unternehmen/brief-an-eu-kommission-150-unternehmen-befuerworten-ehrgeiziges-eu-klimaziel-bis-2040-a-4393cb67-2752-4c78-afed-5acae53510ef#ref=rss)
+### setzen
 
-* [https://www.spiegel.de/politik/deutschland/afd-ist-rechtsextrem-hier-sind-die-belege-des-verfassungsschutzes](https://www.spiegel.de/politik/deutschland/afd-ist-rechtsextrem-hier-sind-die-belege-des-verfassungsschutzes-a-b5fa40e4-a54e-410a-8cc7-ade35d09f77c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/menschenrechtsinstitut-sieht-irrefuehrende-diskussion-ueber-afd-verbotsverfahren](https://www.spiegel.de/politik/deutschland/menschenrechtsinstitut-sieht-irrefuehrende-diskussion-ueber-afd-verbotsverfahren-a-9c5e167c-10d4-4788-9021-7938bc39ab7e#ref=rss)
-### neuer
+* [https://www.spiegel.de/wirtschaft/unternehmen/brief-an-eu-kommission-150-unternehmen-befuerworten-ehrgeiziges-eu-klimaziel-bis-2040](https://www.spiegel.de/wirtschaft/unternehmen/brief-an-eu-kommission-150-unternehmen-befuerworten-ehrgeiziges-eu-klimaziel-bis-2040-a-4393cb67-2752-4c78-afed-5acae53510ef#ref=rss)
+* [https://www.spiegel.de/ausland/hamas-fordert-von-hungernden-boykott-der-gaza-humanitarian-foundation](https://www.spiegel.de/ausland/hamas-fordert-von-hungernden-boykott-der-gaza-humanitarian-foundation-a-19d858a8-7633-46c9-a1bd-a99ab25ea42f#ref=rss)
+### tsg
 
-* [https://www.spiegel.de/karriere/job-wechseln-strategien-fuer-die-suche-nach-einem-besseren-job-trotz-zeitmangel](https://www.spiegel.de/karriere/job-wechseln-strategien-fuer-die-suche-nach-einem-besseren-job-trotz-zeitmangel-a-35a31c20-eb0c-4122-8bd0-0adf27501dda#ref=rss)
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-vodafone-wird-neuer-hauptsponsor-des-bvb](https://www.spiegel.de/sport/fussball/borussia-dortmund-vodafone-wird-neuer-hauptsponsor-des-bvb-a-10138af5-17c7-47a0-a5bc-e04b5bd8b24f#ref=rss)
-### zeit
+* [https://www.spiegel.de/sport/fussball/fussball-tsg-hoffenheim-fuehrt-vertragsverlaengerung-bei-schwangerschaft-ein](https://www.spiegel.de/sport/fussball/fussball-tsg-hoffenheim-fuehrt-vertragsverlaengerung-bei-schwangerschaft-ein-a-d2f2156e-871c-41ce-8256-adb312880e64#ref=rss)
+### hoffenheim
 
-* [https://www.spiegel.de/karriere/job-wechseln-strategien-fuer-die-suche-nach-einem-besseren-job-trotz-zeitmangel](https://www.spiegel.de/karriere/job-wechseln-strategien-fuer-die-suche-nach-einem-besseren-job-trotz-zeitmangel-a-35a31c20-eb0c-4122-8bd0-0adf27501dda#ref=rss)
-* [https://www.spiegel.de/sport/fussball/frueherer-star-von-borussia-dortmund-tomas-rosicky-musste-wegen-herzproblemen-auf-die-intensivstation](https://www.spiegel.de/sport/fussball/frueherer-star-von-borussia-dortmund-tomas-rosicky-musste-wegen-herzproblemen-auf-die-intensivstation-a-2f2967cd-99ee-4c56-be9a-c57365670e45#ref=rss)
-### 25
+* [https://www.spiegel.de/sport/fussball/fussball-tsg-hoffenheim-fuehrt-vertragsverlaengerung-bei-schwangerschaft-ein](https://www.spiegel.de/sport/fussball/fussball-tsg-hoffenheim-fuehrt-vertragsverlaengerung-bei-schwangerschaft-ein-a-d2f2156e-871c-41ce-8256-adb312880e64#ref=rss)
+### häufig
 
-* [https://www.spiegel.de/geschichte/25-jahre-cdu-spendenaffaere-ich-musste-das-fuer-den-rechtsstaat-tun](https://www.spiegel.de/geschichte/25-jahre-cdu-spendenaffaere-ich-musste-das-fuer-den-rechtsstaat-tun-a-49997da9-c078-4716-a7fe-7929a43b20b2#ref=rss)
-### cduspendenaffäre
+* [https://www.spiegel.de/sport/fussball/fussball-tsg-hoffenheim-fuehrt-vertragsverlaengerung-bei-schwangerschaft-ein](https://www.spiegel.de/sport/fussball/fussball-tsg-hoffenheim-fuehrt-vertragsverlaengerung-bei-schwangerschaft-ein-a-d2f2156e-871c-41ce-8256-adb312880e64#ref=rss)
+* [https://www.spiegel.de/wirtschaft/russland-wladimir-putin-will-westliche-it-firmen-stoppen](https://www.spiegel.de/wirtschaft/russland-wladimir-putin-will-westliche-it-firmen-stoppen-a-8126d19c-f560-43fe-8eb5-05c239d10aff#ref=rss)
+### königs
 
-* [https://www.spiegel.de/geschichte/25-jahre-cdu-spendenaffaere-ich-musste-das-fuer-den-rechtsstaat-tun](https://www.spiegel.de/geschichte/25-jahre-cdu-spendenaffaere-ich-musste-das-fuer-den-rechtsstaat-tun-a-49997da9-c078-4716-a7fe-7929a43b20b2#ref=rss)
-### borussia
+* [https://www.spiegel.de/panorama/justiz/koenigs-wusterhausen-polizeieinsatz-wegen-terrorverdacht](https://www.spiegel.de/panorama/justiz/koenigs-wusterhausen-polizeieinsatz-wegen-terrorverdacht-a-1a9356ef-12c7-4850-85d4-c69b151934b2#ref=rss)
+### wusterhausen
 
-* [https://www.spiegel.de/sport/fussball/frueherer-star-von-borussia-dortmund-tomas-rosicky-musste-wegen-herzproblemen-auf-die-intensivstation](https://www.spiegel.de/sport/fussball/frueherer-star-von-borussia-dortmund-tomas-rosicky-musste-wegen-herzproblemen-auf-die-intensivstation-a-2f2967cd-99ee-4c56-be9a-c57365670e45#ref=rss)
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-vodafone-wird-neuer-hauptsponsor-des-bvb](https://www.spiegel.de/sport/fussball/borussia-dortmund-vodafone-wird-neuer-hauptsponsor-des-bvb-a-10138af5-17c7-47a0-a5bc-e04b5bd8b24f#ref=rss)
-### dortmund
+* [https://www.spiegel.de/panorama/justiz/koenigs-wusterhausen-polizeieinsatz-wegen-terrorverdacht](https://www.spiegel.de/panorama/justiz/koenigs-wusterhausen-polizeieinsatz-wegen-terrorverdacht-a-1a9356ef-12c7-4850-85d4-c69b151934b2#ref=rss)
+### regierung
 
-* [https://www.spiegel.de/sport/fussball/frueherer-star-von-borussia-dortmund-tomas-rosicky-musste-wegen-herzproblemen-auf-die-intensivstation](https://www.spiegel.de/sport/fussball/frueherer-star-von-borussia-dortmund-tomas-rosicky-musste-wegen-herzproblemen-auf-die-intensivstation-a-2f2967cd-99ee-4c56-be9a-c57365670e45#ref=rss)
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-vodafone-wird-neuer-hauptsponsor-des-bvb](https://www.spiegel.de/sport/fussball/borussia-dortmund-vodafone-wird-neuer-hauptsponsor-des-bvb-a-10138af5-17c7-47a0-a5bc-e04b5bd8b24f#ref=rss)
-### tomáš
+* [https://www.spiegel.de/politik/deutschland/pride-verbot-in-ungarn-17-eu-laender-fordern-haerteres-vorgehen-gegen-budapest](https://www.spiegel.de/politik/deutschland/pride-verbot-in-ungarn-17-eu-laender-fordern-haerteres-vorgehen-gegen-budapest-a-08fe33da-f494-4d35-a966-7f505133282f#ref=rss)
+* [https://www.spiegel.de/politik/laender-stemmen-sich-gegen-friedrich-merz-steuerplaene-zur-pendlerpauschale](https://www.spiegel.de/politik/laender-stemmen-sich-gegen-friedrich-merz-steuerplaene-zur-pendlerpauschale-a-0e2fe68f-1c73-49b0-9e5c-bc1a11e5b79a#ref=rss)
+### hamas
 
-* [https://www.spiegel.de/sport/fussball/frueherer-star-von-borussia-dortmund-tomas-rosicky-musste-wegen-herzproblemen-auf-die-intensivstation](https://www.spiegel.de/sport/fussball/frueherer-star-von-borussia-dortmund-tomas-rosicky-musste-wegen-herzproblemen-auf-die-intensivstation-a-2f2967cd-99ee-4c56-be9a-c57365670e45#ref=rss)
-### rosický
+* [https://www.spiegel.de/ausland/hamas-fordert-von-hungernden-boykott-der-gaza-humanitarian-foundation](https://www.spiegel.de/ausland/hamas-fordert-von-hungernden-boykott-der-gaza-humanitarian-foundation-a-19d858a8-7633-46c9-a1bd-a99ab25ea42f#ref=rss)
+### gaza
 
-* [https://www.spiegel.de/sport/fussball/frueherer-star-von-borussia-dortmund-tomas-rosicky-musste-wegen-herzproblemen-auf-die-intensivstation](https://www.spiegel.de/sport/fussball/frueherer-star-von-borussia-dortmund-tomas-rosicky-musste-wegen-herzproblemen-auf-die-intensivstation-a-2f2967cd-99ee-4c56-be9a-c57365670e45#ref=rss)
-### bielefeld
+* [https://www.spiegel.de/ausland/hamas-fordert-von-hungernden-boykott-der-gaza-humanitarian-foundation](https://www.spiegel.de/ausland/hamas-fordert-von-hungernden-boykott-der-gaza-humanitarian-foundation-a-19d858a8-7633-46c9-a1bd-a99ab25ea42f#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/panorama/justiz/bielefeld-elf-jahre-haft-fuer-mann-wegen-toetung-von-ehefrau](https://www.spiegel.de/panorama/justiz/bielefeld-elf-jahre-haft-fuer-mann-wegen-toetung-von-ehefrau-a-d4c6853b-c572-4669-b172-17745a9f6a53#ref=rss)
-### elf
+* [https://www.spiegel.de/ausland/hamas-fordert-von-hungernden-boykott-der-gaza-humanitarian-foundation](https://www.spiegel.de/ausland/hamas-fordert-von-hungernden-boykott-der-gaza-humanitarian-foundation-a-19d858a8-7633-46c9-a1bd-a99ab25ea42f#ref=rss)
+* [https://www.spiegel.de/ausland/liverpool-27-verletzte-bei-meisterfeier-kein-terroristischer-hintergrund](https://www.spiegel.de/ausland/liverpool-27-verletzte-bei-meisterfeier-kein-terroristischer-hintergrund-a-62309cc9-337d-4050-b9ad-2f63e62ee0f4#ref=rss)
+### solingen
 
-* [https://www.spiegel.de/panorama/justiz/bielefeld-elf-jahre-haft-fuer-mann-wegen-toetung-von-ehefrau](https://www.spiegel.de/panorama/justiz/bielefeld-elf-jahre-haft-fuer-mann-wegen-toetung-von-ehefrau-a-d4c6853b-c572-4669-b172-17745a9f6a53#ref=rss)
-### brigitte
+* [https://www.spiegel.de/panorama/justiz/solingen-angeklagter-gesteht-messerangriff-im-prozess](https://www.spiegel.de/panorama/justiz/solingen-angeklagter-gesteht-messerangriff-im-prozess-a-7ff95449-e5e5-4a22-a697-10fa7666a588#ref=rss)
+### zeigte
 
-* [https://www.spiegel.de/ausland/brigitte-und-emmanuel-macron-spass-oder-schlag-video-sorgt-fuer-spekulationen](https://www.spiegel.de/ausland/brigitte-und-emmanuel-macron-spass-oder-schlag-video-sorgt-fuer-spekulationen-a-f2fcbeff-cab0-4d4a-8958-afff98a3bcdc#ref=rss)
-### vodafone
+* [https://www.spiegel.de/panorama/justiz/solingen-angeklagter-gesteht-messerangriff-im-prozess](https://www.spiegel.de/panorama/justiz/solingen-angeklagter-gesteht-messerangriff-im-prozess-a-7ff95449-e5e5-4a22-a697-10fa7666a588#ref=rss)
+* [https://www.spiegel.de/sport/fussball/bundesliga-relegation-elversberg-enttaeuscht-heidenheim-erleichtert-und-mausekaputt](https://www.spiegel.de/sport/fussball/bundesliga-relegation-elversberg-enttaeuscht-heidenheim-erleichtert-und-mausekaputt-a-97f588ab-cfef-40cf-917f-11c9a3e92fe3#ref=rss)
+### kami
 
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-vodafone-wird-neuer-hauptsponsor-des-bvb](https://www.spiegel.de/sport/fussball/borussia-dortmund-vodafone-wird-neuer-hauptsponsor-des-bvb-a-10138af5-17c7-47a0-a5bc-e04b5bd8b24f#ref=rss)
+* [https://www.spiegel.de/sport/bergfuehrer-kami-rita-sherpa-zum-31-mal-auf-dem-mount-everest](https://www.spiegel.de/sport/bergfuehrer-kami-rita-sherpa-zum-31-mal-auf-dem-mount-everest-a-e7c32ce2-3557-4558-bdea-041d23eeb805#ref=rss)
+### rita
+
+* [https://www.spiegel.de/sport/bergfuehrer-kami-rita-sherpa-zum-31-mal-auf-dem-mount-everest](https://www.spiegel.de/sport/bergfuehrer-kami-rita-sherpa-zum-31-mal-auf-dem-mount-everest-a-e7c32ce2-3557-4558-bdea-041d23eeb805#ref=rss)
+### sherpa
+
+* [https://www.spiegel.de/sport/bergfuehrer-kami-rita-sherpa-zum-31-mal-auf-dem-mount-everest](https://www.spiegel.de/sport/bergfuehrer-kami-rita-sherpa-zum-31-mal-auf-dem-mount-everest-a-e7c32ce2-3557-4558-bdea-041d23eeb805#ref=rss)
+### everest
+
+* [https://www.spiegel.de/sport/bergfuehrer-kami-rita-sherpa-zum-31-mal-auf-dem-mount-everest](https://www.spiegel.de/sport/bergfuehrer-kami-rita-sherpa-zum-31-mal-auf-dem-mount-everest-a-e7c32ce2-3557-4558-bdea-041d23eeb805#ref=rss)
+### gefahr
+
+* [https://www.spiegel.de/sport/bergfuehrer-kami-rita-sherpa-zum-31-mal-auf-dem-mount-everest](https://www.spiegel.de/sport/bergfuehrer-kami-rita-sherpa-zum-31-mal-auf-dem-mount-everest-a-e7c32ce2-3557-4558-bdea-041d23eeb805#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-23-prozent-mehr-rechtsextreme-verdachtsfaelle](https://www.spiegel.de/ausland/oesterreich-23-prozent-mehr-rechtsextreme-verdachtsfaelle-a-c9bc14b0-7802-44ab-b746-067dea47f2ab#ref=rss)
+### finnland
+
+* [https://www.spiegel.de/ausland/finnland-frauen-bereiten-sich-auf-den-ernstfall-vor-wenn-ein-krieg-ausbricht-will-man-nicht-untaetig-sein](https://www.spiegel.de/ausland/finnland-frauen-bereiten-sich-auf-den-ernstfall-vor-wenn-ein-krieg-ausbricht-will-man-nicht-untaetig-sein-a-622b124d-89c7-4b16-9505-2c2128426726#ref=rss)
+### frauen
+
+* [https://www.spiegel.de/ausland/finnland-frauen-bereiten-sich-auf-den-ernstfall-vor-wenn-ein-krieg-ausbricht-will-man-nicht-untaetig-sein](https://www.spiegel.de/ausland/finnland-frauen-bereiten-sich-auf-den-ernstfall-vor-wenn-ein-krieg-ausbricht-will-man-nicht-untaetig-sein-a-622b124d-89c7-4b16-9505-2c2128426726#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/finnland-frauen-bereiten-sich-auf-den-ernstfall-vor-wenn-ein-krieg-ausbricht-will-man-nicht-untaetig-sein](https://www.spiegel.de/ausland/finnland-frauen-bereiten-sich-auf-den-ernstfall-vor-wenn-ein-krieg-ausbricht-will-man-nicht-untaetig-sein-a-622b124d-89c7-4b16-9505-2c2128426726#ref=rss)
+* [https://www.spiegel.de/wirtschaft/russland-wladimir-putin-will-westliche-it-firmen-stoppen](https://www.spiegel.de/wirtschaft/russland-wladimir-putin-will-westliche-it-firmen-stoppen-a-8126d19c-f560-43fe-8eb5-05c239d10aff#ref=rss)
+### lage
+
+* [https://www.spiegel.de/ausland/finnland-frauen-bereiten-sich-auf-den-ernstfall-vor-wenn-ein-krieg-ausbricht-will-man-nicht-untaetig-sein](https://www.spiegel.de/ausland/finnland-frauen-bereiten-sich-auf-den-ernstfall-vor-wenn-ein-krieg-ausbricht-will-man-nicht-untaetig-sein-a-622b124d-89c7-4b16-9505-2c2128426726#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/ig-metall-gewerkschaft-fordert-keine-vier-tage-woche-mehr](https://www.spiegel.de/wirtschaft/unternehmen/ig-metall-gewerkschaft-fordert-keine-vier-tage-woche-mehr-a-f990bb8c-5ae6-423f-9624-20e92685f882#ref=rss)
+### land
+
+* [https://www.spiegel.de/ausland/finnland-frauen-bereiten-sich-auf-den-ernstfall-vor-wenn-ein-krieg-ausbricht-will-man-nicht-untaetig-sein](https://www.spiegel.de/ausland/finnland-frauen-bereiten-sich-auf-den-ernstfall-vor-wenn-ein-krieg-ausbricht-will-man-nicht-untaetig-sein-a-622b124d-89c7-4b16-9505-2c2128426726#ref=rss)
+* [https://www.spiegel.de/sport/fussball/mevluede-genc-medaille-land-nordrhein-westfalen-ehrt-ilkay-guendogan-fuer-seinen-einsatz-gegen-rassismus](https://www.spiegel.de/sport/fussball/mevluede-genc-medaille-land-nordrhein-westfalen-ehrt-ilkay-guendogan-fuer-seinen-einsatz-gegen-rassismus-a-fcd71afd-eae0-45a8-bf3f-3919cc04181c#ref=rss)
+### umgang
+
+* [https://www.spiegel.de/ausland/finnland-frauen-bereiten-sich-auf-den-ernstfall-vor-wenn-ein-krieg-ausbricht-will-man-nicht-untaetig-sein](https://www.spiegel.de/ausland/finnland-frauen-bereiten-sich-auf-den-ernstfall-vor-wenn-ein-krieg-ausbricht-will-man-nicht-untaetig-sein-a-622b124d-89c7-4b16-9505-2c2128426726#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/israel-spd-politiker-draengen-auf-stopp-der-waffenlieferungen](https://www.spiegel.de/politik/deutschland/israel-spd-politiker-draengen-auf-stopp-der-waffenlieferungen-a-244391c8-d98f-42ff-abe6-e39f62845b85#ref=rss)
+### ronaldo
+
+* [https://www.spiegel.de/sport/fussball/christiano-ronaldo-deutet-abschied-von-al-nassr-an](https://www.spiegel.de/sport/fussball/christiano-ronaldo-deutet-abschied-von-al-nassr-an-a-6a3c653f-c286-4fdb-8be4-2eb242ec14c1#ref=rss)
+### selbst
+
+* [https://www.spiegel.de/sport/fussball/christiano-ronaldo-deutet-abschied-von-al-nassr-an](https://www.spiegel.de/sport/fussball/christiano-ronaldo-deutet-abschied-von-al-nassr-an-a-6a3c653f-c286-4fdb-8be4-2eb242ec14c1#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-fuerchtet-neue-offensive](https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-fuerchtet-neue-offensive-a-21c7dd4a-b117-48f1-8092-819cc4ca022a#ref=rss)
+### liverpool
+
+* [https://www.spiegel.de/ausland/liverpool-27-verletzte-bei-meisterfeier-kein-terroristischer-hintergrund](https://www.spiegel.de/ausland/liverpool-27-verletzte-bei-meisterfeier-kein-terroristischer-hintergrund-a-62309cc9-337d-4050-b9ad-2f63e62ee0f4#ref=rss)
+### 27
+
+* [https://www.spiegel.de/ausland/liverpool-27-verletzte-bei-meisterfeier-kein-terroristischer-hintergrund](https://www.spiegel.de/ausland/liverpool-27-verletzte-bei-meisterfeier-kein-terroristischer-hintergrund-a-62309cc9-337d-4050-b9ad-2f63e62ee0f4#ref=rss)
+### meisterfeier
+
+* [https://www.spiegel.de/ausland/liverpool-27-verletzte-bei-meisterfeier-kein-terroristischer-hintergrund](https://www.spiegel.de/ausland/liverpool-27-verletzte-bei-meisterfeier-kein-terroristischer-hintergrund-a-62309cc9-337d-4050-b9ad-2f63e62ee0f4#ref=rss)
+### auto
+
+* [https://www.spiegel.de/ausland/liverpool-27-verletzte-bei-meisterfeier-kein-terroristischer-hintergrund](https://www.spiegel.de/ausland/liverpool-27-verletzte-bei-meisterfeier-kein-terroristischer-hintergrund-a-62309cc9-337d-4050-b9ad-2f63e62ee0f4#ref=rss)
+### tina
+
+* [https://www.spiegel.de/panorama/leute/tina-ruland-schauspielerin-aus-manta-manta-klagt-ueber-gagenverfall](https://www.spiegel.de/panorama/leute/tina-ruland-schauspielerin-aus-manta-manta-klagt-ueber-gagenverfall-a-2c2a563b-24ee-4532-b5c3-3a86c206308c#ref=rss)
+### ruland
+
+* [https://www.spiegel.de/panorama/leute/tina-ruland-schauspielerin-aus-manta-manta-klagt-ueber-gagenverfall](https://www.spiegel.de/panorama/leute/tina-ruland-schauspielerin-aus-manta-manta-klagt-ueber-gagenverfall-a-2c2a563b-24ee-4532-b5c3-3a86c206308c#ref=rss)
+### schauspielerin
+
+* [https://www.spiegel.de/panorama/leute/tina-ruland-schauspielerin-aus-manta-manta-klagt-ueber-gagenverfall](https://www.spiegel.de/panorama/leute/tina-ruland-schauspielerin-aus-manta-manta-klagt-ueber-gagenverfall-a-2c2a563b-24ee-4532-b5c3-3a86c206308c#ref=rss)
+### manta
+
+* [https://www.spiegel.de/panorama/leute/tina-ruland-schauspielerin-aus-manta-manta-klagt-ueber-gagenverfall](https://www.spiegel.de/panorama/leute/tina-ruland-schauspielerin-aus-manta-manta-klagt-ueber-gagenverfall-a-2c2a563b-24ee-4532-b5c3-3a86c206308c#ref=rss)
+### essen
+
+* [https://www.spiegel.de/panorama/bildung/essen-in-der-schule-weder-fisch-noch-fleisch](https://www.spiegel.de/panorama/bildung/essen-in-der-schule-weder-fisch-noch-fleisch-a-989b290f-2340-4dd6-a119-f7bccf1950d4#ref=rss)
+### schule
+
+* [https://www.spiegel.de/panorama/bildung/essen-in-der-schule-weder-fisch-noch-fleisch](https://www.spiegel.de/panorama/bildung/essen-in-der-schule-weder-fisch-noch-fleisch-a-989b290f-2340-4dd6-a119-f7bccf1950d4#ref=rss)
+### osteopathie
+
+* [https://www.spiegel.de/gesundheit/osteopathie-sollte-das-heilen-mit-den-haenden-staatlich-geregelt-werden](https://www.spiegel.de/gesundheit/osteopathie-sollte-das-heilen-mit-den-haenden-staatlich-geregelt-werden-a-60743af3-2fb0-453f-81e0-a43a272b3367#ref=rss)
+### nutzen
+
+* [https://www.spiegel.de/gesundheit/osteopathie-sollte-das-heilen-mit-den-haenden-staatlich-geregelt-werden](https://www.spiegel.de/gesundheit/osteopathie-sollte-das-heilen-mit-den-haenden-staatlich-geregelt-werden-a-60743af3-2fb0-453f-81e0-a43a272b3367#ref=rss)
+* [https://www.spiegel.de/wirtschaft/russland-wladimir-putin-will-westliche-it-firmen-stoppen](https://www.spiegel.de/wirtschaft/russland-wladimir-putin-will-westliche-it-firmen-stoppen-a-8126d19c-f560-43fe-8eb5-05c239d10aff#ref=rss)
+### kanzler
+
+* [https://www.spiegel.de/politik/deutschland/israel-spd-politiker-draengen-auf-stopp-der-waffenlieferungen](https://www.spiegel.de/politik/deutschland/israel-spd-politiker-draengen-auf-stopp-der-waffenlieferungen-a-244391c8-d98f-42ff-abe6-e39f62845b85#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ron-prosor-reagiert-auf-scharfe-kritik-am-vorgehen-israels](https://www.spiegel.de/politik/deutschland/friedrich-merz-ron-prosor-reagiert-auf-scharfe-kritik-am-vorgehen-israels-a-e19960ef-cea2-467b-ac40-0f8143340d08#ref=rss)
+### westliche
+
+* [https://www.spiegel.de/wirtschaft/russland-wladimir-putin-will-westliche-it-firmen-stoppen](https://www.spiegel.de/wirtschaft/russland-wladimir-putin-will-westliche-it-firmen-stoppen-a-8126d19c-f560-43fe-8eb5-05c239d10aff#ref=rss)
+### schlechten
+
+* [https://www.spiegel.de/wirtschaft/russland-wladimir-putin-will-westliche-it-firmen-stoppen](https://www.spiegel.de/wirtschaft/russland-wladimir-putin-will-westliche-it-firmen-stoppen-a-8126d19c-f560-43fe-8eb5-05c239d10aff#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/ig-metall-gewerkschaft-fordert-keine-vier-tage-woche-mehr](https://www.spiegel.de/wirtschaft/unternehmen/ig-metall-gewerkschaft-fordert-keine-vier-tage-woche-mehr-a-f990bb8c-5ae6-423f-9624-20e92685f882#ref=rss)
+### sicherheitslücken
+
+* [https://www.spiegel.de/panorama/justiz/afghanistan-insiderberichte-ueber-sicherheitsluecken-bei-aufnahmeprogrammen](https://www.spiegel.de/panorama/justiz/afghanistan-insiderberichte-ueber-sicherheitsluecken-bei-aufnahmeprogrammen-a-b4ed4569-e76a-4879-a2fb-a7c948c84ced#ref=rss)
+### aufnahmeprogrammen
+
+* [https://www.spiegel.de/panorama/justiz/afghanistan-insiderberichte-ueber-sicherheitsluecken-bei-aufnahmeprogrammen](https://www.spiegel.de/panorama/justiz/afghanistan-insiderberichte-ueber-sicherheitsluecken-bei-aufnahmeprogrammen-a-b4ed4569-e76a-4879-a2fb-a7c948c84ced#ref=rss)
+### werner
+
+* [https://www.spiegel.de/sport/fussball/bundesliga-werder-bremen-trennt-sich-sofort-von-trainer-werner](https://www.spiegel.de/sport/fussball/bundesliga-werder-bremen-trennt-sich-sofort-von-trainer-werner-a-ca5420bb-92b8-4b9b-a38d-5f2f249afa63#ref=rss)
+### mevlüdegençmedaille
+
+* [https://www.spiegel.de/sport/fussball/mevluede-genc-medaille-land-nordrhein-westfalen-ehrt-ilkay-guendogan-fuer-seinen-einsatz-gegen-rassismus](https://www.spiegel.de/sport/fussball/mevluede-genc-medaille-land-nordrhein-westfalen-ehrt-ilkay-guendogan-fuer-seinen-einsatz-gegen-rassismus-a-fcd71afd-eae0-45a8-bf3f-3919cc04181c#ref=rss)
+### nordrheinwestfalen
+
+* [https://www.spiegel.de/sport/fussball/mevluede-genc-medaille-land-nordrhein-westfalen-ehrt-ilkay-guendogan-fuer-seinen-einsatz-gegen-rassismus](https://www.spiegel.de/sport/fussball/mevluede-genc-medaille-land-nordrhein-westfalen-ehrt-ilkay-guendogan-fuer-seinen-einsatz-gegen-rassismus-a-fcd71afd-eae0-45a8-bf3f-3919cc04181c#ref=rss)
+### gündoğan
+
+* [https://www.spiegel.de/sport/fussball/mevluede-genc-medaille-land-nordrhein-westfalen-ehrt-ilkay-guendogan-fuer-seinen-einsatz-gegen-rassismus](https://www.spiegel.de/sport/fussball/mevluede-genc-medaille-land-nordrhein-westfalen-ehrt-ilkay-guendogan-fuer-seinen-einsatz-gegen-rassismus-a-fcd71afd-eae0-45a8-bf3f-3919cc04181c#ref=rss)
+### elversberg
+
+* [https://www.spiegel.de/sport/fussball/bundesliga-relegation-elversberg-enttaeuscht-heidenheim-erleichtert-und-mausekaputt](https://www.spiegel.de/sport/fussball/bundesliga-relegation-elversberg-enttaeuscht-heidenheim-erleichtert-und-mausekaputt-a-97f588ab-cfef-40cf-917f-11c9a3e92fe3#ref=rss)
+### erleichtert
+
+* [https://www.spiegel.de/sport/fussball/bundesliga-relegation-elversberg-enttaeuscht-heidenheim-erleichtert-und-mausekaputt](https://www.spiegel.de/sport/fussball/bundesliga-relegation-elversberg-enttaeuscht-heidenheim-erleichtert-und-mausekaputt-a-97f588ab-cfef-40cf-917f-11c9a3e92fe3#ref=rss)
+### mausekaputt
+
+* [https://www.spiegel.de/sport/fussball/bundesliga-relegation-elversberg-enttaeuscht-heidenheim-erleichtert-und-mausekaputt](https://www.spiegel.de/sport/fussball/bundesliga-relegation-elversberg-enttaeuscht-heidenheim-erleichtert-und-mausekaputt-a-97f588ab-cfef-40cf-917f-11c9a3e92fe3#ref=rss)
+### getöteter
+
+* [https://www.spiegel.de/panorama/arizona-ki-im-gerichtssaal-warum-ein-getoeteter-bei-seinem-eigenen-prozess-auftrat](https://www.spiegel.de/panorama/arizona-ki-im-gerichtssaal-warum-ein-getoeteter-bei-seinem-eigenen-prozess-auftrat-a-b4f3626d-2072-45ed-b217-cf3b9cfe4f62#ref=rss)
+### drohen
+
+* [https://www.spiegel.de/wirtschaft/e-auto-kaeufer-im-ausland-vertrauen-deutschen-marken](https://www.spiegel.de/wirtschaft/e-auto-kaeufer-im-ausland-vertrauen-deutschen-marken-a-217b2026-2ec2-4747-b72e-a5e72e2f0b33#ref=rss)
+* [https://www.spiegel.de/politik/laender-stemmen-sich-gegen-friedrich-merz-steuerplaene-zur-pendlerpauschale](https://www.spiegel.de/politik/laender-stemmen-sich-gegen-friedrich-merz-steuerplaene-zur-pendlerpauschale-a-0e2fe68f-1c73-49b0-9e5c-bc1a11e5b79a#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ron-prosor-reagiert-auf-scharfe-kritik-am-vorgehen-israels](https://www.spiegel.de/politik/deutschland/friedrich-merz-ron-prosor-reagiert-auf-scharfe-kritik-am-vorgehen-israels-a-e19960ef-cea2-467b-ac40-0f8143340d08#ref=rss)
+* [https://www.spiegel.de/politik/laender-stemmen-sich-gegen-friedrich-merz-steuerplaene-zur-pendlerpauschale](https://www.spiegel.de/politik/laender-stemmen-sich-gegen-friedrich-merz-steuerplaene-zur-pendlerpauschale-a-0e2fe68f-1c73-49b0-9e5c-bc1a11e5b79a#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ron-prosor-reagiert-auf-scharfe-kritik-am-vorgehen-israels](https://www.spiegel.de/politik/deutschland/friedrich-merz-ron-prosor-reagiert-auf-scharfe-kritik-am-vorgehen-israels-a-e19960ef-cea2-467b-ac40-0f8143340d08#ref=rss)
+### offensive
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ron-prosor-reagiert-auf-scharfe-kritik-am-vorgehen-israels](https://www.spiegel.de/politik/deutschland/friedrich-merz-ron-prosor-reagiert-auf-scharfe-kritik-am-vorgehen-israels-a-e19960ef-cea2-467b-ac40-0f8143340d08#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-fuerchtet-neue-offensive](https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-fuerchtet-neue-offensive-a-21c7dd4a-b117-48f1-8092-819cc4ca022a#ref=rss)
+### pendlerpauschale
+
+* [https://www.spiegel.de/politik/laender-stemmen-sich-gegen-friedrich-merz-steuerplaene-zur-pendlerpauschale](https://www.spiegel.de/politik/laender-stemmen-sich-gegen-friedrich-merz-steuerplaene-zur-pendlerpauschale-a-0e2fe68f-1c73-49b0-9e5c-bc1a11e5b79a#ref=rss)
+### rechtsextreme
+
+* [https://www.spiegel.de/ausland/oesterreich-23-prozent-mehr-rechtsextreme-verdachtsfaelle](https://www.spiegel.de/ausland/oesterreich-23-prozent-mehr-rechtsextreme-verdachtsfaelle-a-c9bc14b0-7802-44ab-b746-067dea47f2ab#ref=rss)
+### ig
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/ig-metall-gewerkschaft-fordert-keine-vier-tage-woche-mehr](https://www.spiegel.de/wirtschaft/unternehmen/ig-metall-gewerkschaft-fordert-keine-vier-tage-woche-mehr-a-f990bb8c-5ae6-423f-9624-20e92685f882#ref=rss)
+### metall
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/ig-metall-gewerkschaft-fordert-keine-vier-tage-woche-mehr](https://www.spiegel.de/wirtschaft/unternehmen/ig-metall-gewerkschaft-fordert-keine-vier-tage-woche-mehr-a-f990bb8c-5ae6-423f-9624-20e92685f882#ref=rss)
+### viertagewoche
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/ig-metall-gewerkschaft-fordert-keine-vier-tage-woche-mehr](https://www.spiegel.de/wirtschaft/unternehmen/ig-metall-gewerkschaft-fordert-keine-vier-tage-woche-mehr-a-f990bb8c-5ae6-423f-9624-20e92685f882#ref=rss)
+### neue
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-fuerchtet-neue-offensive](https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-fuerchtet-neue-offensive-a-21c7dd4a-b117-48f1-8092-819cc4ca022a#ref=rss)
 
