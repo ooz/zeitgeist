@@ -4,314 +4,360 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### french
+### elon
 
-* [https://www.spiegel.de/sport/tennis/tennis-eva-lys-scheidet-bei-den-french-open-gegen-die-18-jaehrige-victoria-mboko-aus](https://www.spiegel.de/sport/tennis/tennis-eva-lys-scheidet-bei-den-french-open-gegen-die-18-jaehrige-victoria-mboko-aus-a-dee4bcdb-7998-4721-ac42-e0151be96e0e#ref=rss)
-* [https://www.spiegel.de/sport/tennis/french-open-coco-gauff-vergisst-zu-ihrem-auftaktspiel-ihre-tennisschlaeger](https://www.spiegel.de/sport/tennis/french-open-coco-gauff-vergisst-zu-ihrem-auftaktspiel-ihre-tennisschlaeger-a-15ee19a7-1b52-49f8-bbb8-ed9b38536a63#ref=rss)
-### open
+* [https://www.spiegel.de/ausland/elon-musk-kritik-an-us-regierung-und-enttaeuschung-ueber-donald-trumps-steuerplaene](https://www.spiegel.de/ausland/elon-musk-kritik-an-us-regierung-und-enttaeuschung-ueber-donald-trumps-steuerplaene-a-1eefe85a-a875-4bed-b2c6-a2823d5304ad#ref=rss)
+* [https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik](https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-a-7853a261-d742-48d8-95f9-f7479272a3db#ref=rss)
+* [https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-podcast](https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-podcast-a-ce12f40c-0344-43cf-9f45-6d93661c6794#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/telegram-schliesst-300-millionen-dollar-deal-mit-musk](https://www.spiegel.de/netzwelt/apps/telegram-schliesst-300-millionen-dollar-deal-mit-musk-a-b24d0af5-8e9e-459b-82cd-b6622359cf6a#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/starship-testflug-die-rakete-kollabiert-und-musk-schwadroniert](https://www.spiegel.de/wissenschaft/weltall/starship-testflug-die-rakete-kollabiert-und-musk-schwadroniert-a-00e8fe63-dbb9-4d7c-a90b-0a61cc0e1801#ref=rss)
+### selenskyj
 
-* [https://www.spiegel.de/sport/tennis/tennis-eva-lys-scheidet-bei-den-french-open-gegen-die-18-jaehrige-victoria-mboko-aus](https://www.spiegel.de/sport/tennis/tennis-eva-lys-scheidet-bei-den-french-open-gegen-die-18-jaehrige-victoria-mboko-aus-a-dee4bcdb-7998-4721-ac42-e0151be96e0e#ref=rss)
-* [https://www.spiegel.de/sport/tennis/french-open-coco-gauff-vergisst-zu-ihrem-auftaktspiel-ihre-tennisschlaeger](https://www.spiegel.de/sport/tennis/french-open-coco-gauff-vergisst-zu-ihrem-auftaktspiel-ihre-tennisschlaeger-a-15ee19a7-1b52-49f8-bbb8-ed9b38536a63#ref=rss)
-### außenminister
-
-* [https://www.spiegel.de/ausland/tschechien-aussenminister-wirft-china-cyberangriff-auf-ministerium-vor](https://www.spiegel.de/ausland/tschechien-aussenminister-wirft-china-cyberangriff-auf-ministerium-vor-a-fad7cede-b30e-42b0-9837-0976c94ded9e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-zur-lage-in-gaza-alle-haben-das-gleiche-recht-ernaehrt-zu-werden](https://www.spiegel.de/politik/deutschland/johann-wadephul-zur-lage-in-gaza-alle-haben-das-gleiche-recht-ernaehrt-zu-werden-a-cdb16e85-510f-4811-8a2c-bc75d152a28d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-johann-wadephul-betont-bedrohung-durch-russland-und-kuendigt-sanktionen-an](https://www.spiegel.de/politik/deutschland/ukraine-krieg-johann-wadephul-betont-bedrohung-durch-russland-und-kuendigt-sanktionen-an-a-4311d7d6-c0f8-48c8-aa67-4ce1736a1e31#ref=rss)
-### frankreich
-
-* [https://www.spiegel.de/ausland/missbrauchsprozess-in-frankreich-bin-davon-ausgegangen-dass-ein-kind-keine-vorwuerfe-gegen-mich-erheben-wird](https://www.spiegel.de/ausland/missbrauchsprozess-in-frankreich-bin-davon-ausgegangen-dass-ein-kind-keine-vorwuerfe-gegen-mich-erheben-wird-a-75b15542-6606-43d6-a302-b320bb67968d#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-in-frankreich-zinedine-zidane-bringt-sich-selbst-als-nationaltrainer-ins-gespraech](https://www.spiegel.de/sport/fussball/fussball-in-frankreich-zinedine-zidane-bringt-sich-selbst-als-nationaltrainer-ins-gespraech-a-b8e612b0-49a0-48d8-b0aa-f3cd50cfa9e1#ref=rss)
-### wadephul
-
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-zur-lage-in-gaza-alle-haben-das-gleiche-recht-ernaehrt-zu-werden](https://www.spiegel.de/politik/deutschland/johann-wadephul-zur-lage-in-gaza-alle-haben-das-gleiche-recht-ernaehrt-zu-werden-a-cdb16e85-510f-4811-8a2c-bc75d152a28d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-johann-wadephul-betont-bedrohung-durch-russland-und-kuendigt-sanktionen-an](https://www.spiegel.de/politik/deutschland/ukraine-krieg-johann-wadephul-betont-bedrohung-durch-russland-und-kuendigt-sanktionen-an-a-4311d7d6-c0f8-48c8-aa67-4ce1736a1e31#ref=rss)
-### tennis
-
-* [https://www.spiegel.de/sport/tennis/tennis-eva-lys-scheidet-bei-den-french-open-gegen-die-18-jaehrige-victoria-mboko-aus](https://www.spiegel.de/sport/tennis/tennis-eva-lys-scheidet-bei-den-french-open-gegen-die-18-jaehrige-victoria-mboko-aus-a-dee4bcdb-7998-4721-ac42-e0151be96e0e#ref=rss)
-* [https://www.spiegel.de/sport/aryna-sabalenka-die-zerrissenheit-der-nummer-eins-im-tennis](https://www.spiegel.de/sport/aryna-sabalenka-die-zerrissenheit-der-nummer-eins-im-tennis-a-ae5fe2be-4a63-4c93-a3e4-ccac8c5272f0#ref=rss)
-### migration
-
-* [https://www.spiegel.de/ausland/daenemark-premierministerin-mette-frederiksen-ueber-trump-groenland-migration-und-merz](https://www.spiegel.de/ausland/daenemark-premierministerin-mette-frederiksen-ueber-trump-groenland-migration-und-merz-a-d7ee0f06-b247-49af-8962-3a42d65551d4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/migration-kabinett-beschliesst-haerteren-kurs-bei-familiennachzug-und-einbuergerung](https://www.spiegel.de/politik/deutschland/migration-kabinett-beschliesst-haerteren-kurs-bei-familiennachzug-und-einbuergerung-a-34c44a51-9c05-45f0-884b-11edda2ee41d#ref=rss)
-### merz
-
-* [https://www.spiegel.de/ausland/daenemark-premierministerin-mette-frederiksen-ueber-trump-groenland-migration-und-merz](https://www.spiegel.de/ausland/daenemark-premierministerin-mette-frederiksen-ueber-trump-groenland-migration-und-merz-a-d7ee0f06-b247-49af-8962-3a42d65551d4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-zur-lage-in-gaza-alle-haben-das-gleiche-recht-ernaehrt-zu-werden](https://www.spiegel.de/politik/deutschland/johann-wadephul-zur-lage-in-gaza-alle-haben-das-gleiche-recht-ernaehrt-zu-werden-a-cdb16e85-510f-4811-8a2c-bc75d152a28d#ref=rss)
-### kabinett
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/glasfaser-und-5g-kabinett-beschliesst-vorrang-fuer-den-netzausbau](https://www.spiegel.de/netzwelt/netzpolitik/glasfaser-und-5g-kabinett-beschliesst-vorrang-fuer-den-netzausbau-a-b0bdfe90-f401-478d-9323-2829d4ec15d4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/migration-kabinett-beschliesst-haerteren-kurs-bei-familiennachzug-und-einbuergerung](https://www.spiegel.de/politik/deutschland/migration-kabinett-beschliesst-haerteren-kurs-bei-familiennachzug-und-einbuergerung-a-34c44a51-9c05-45f0-884b-11edda2ee41d#ref=rss)
-### entdeckt
-
-* [https://www.spiegel.de/ausland/tschechien-aussenminister-wirft-china-cyberangriff-auf-ministerium-vor](https://www.spiegel.de/ausland/tschechien-aussenminister-wirft-china-cyberangriff-auf-ministerium-vor-a-fad7cede-b30e-42b0-9837-0976c94ded9e#ref=rss)
-* [https://www.spiegel.de/panorama/baden-wuerttemberg-eiszeitlicher-mammutzahn-auf-baustelle-entdeckt](https://www.spiegel.de/panorama/baden-wuerttemberg-eiszeitlicher-mammutzahn-auf-baustelle-entdeckt-a-928b8603-7177-4b2c-a16f-450bda5908c4#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/russland-und-ukraine-ueberziehen-sich-mit-drohnenangriffen](https://www.spiegel.de/ausland/russland-und-ukraine-ueberziehen-sich-mit-drohnenangriffen-a-c3381d78-32b1-42a0-a0e7-231bdebca39b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-johann-wadephul-betont-bedrohung-durch-russland-und-kuendigt-sanktionen-an](https://www.spiegel.de/politik/deutschland/ukraine-krieg-johann-wadephul-betont-bedrohung-durch-russland-und-kuendigt-sanktionen-an-a-4311d7d6-c0f8-48c8-aa67-4ce1736a1e31#ref=rss)
-### eva
-
-* [https://www.spiegel.de/sport/tennis/tennis-eva-lys-scheidet-bei-den-french-open-gegen-die-18-jaehrige-victoria-mboko-aus](https://www.spiegel.de/sport/tennis/tennis-eva-lys-scheidet-bei-den-french-open-gegen-die-18-jaehrige-victoria-mboko-aus-a-dee4bcdb-7998-4721-ac42-e0151be96e0e#ref=rss)
-### lys
-
-* [https://www.spiegel.de/sport/tennis/tennis-eva-lys-scheidet-bei-den-french-open-gegen-die-18-jaehrige-victoria-mboko-aus](https://www.spiegel.de/sport/tennis/tennis-eva-lys-scheidet-bei-den-french-open-gegen-die-18-jaehrige-victoria-mboko-aus-a-dee4bcdb-7998-4721-ac42-e0151be96e0e#ref=rss)
-### victoria
-
-* [https://www.spiegel.de/sport/tennis/tennis-eva-lys-scheidet-bei-den-french-open-gegen-die-18-jaehrige-victoria-mboko-aus](https://www.spiegel.de/sport/tennis/tennis-eva-lys-scheidet-bei-den-french-open-gegen-die-18-jaehrige-victoria-mboko-aus-a-dee4bcdb-7998-4721-ac42-e0151be96e0e#ref=rss)
-### mboko
-
-* [https://www.spiegel.de/sport/tennis/tennis-eva-lys-scheidet-bei-den-french-open-gegen-die-18-jaehrige-victoria-mboko-aus](https://www.spiegel.de/sport/tennis/tennis-eva-lys-scheidet-bei-den-french-open-gegen-die-18-jaehrige-victoria-mboko-aus-a-dee4bcdb-7998-4721-ac42-e0151be96e0e#ref=rss)
-### simon
-
-* [https://www.spiegel.de/kultur/kino/simon-pegg-mission-impossible-the-final-reckoning-star-staunt-ueber-weitsicht-des-films-beim-thema-ki](https://www.spiegel.de/kultur/kino/simon-pegg-mission-impossible-the-final-reckoning-star-staunt-ueber-weitsicht-des-films-beim-thema-ki-a-2e64eee7-f45e-4bdb-875d-5c3769b98fea#ref=rss)
-### pegg
-
-* [https://www.spiegel.de/kultur/kino/simon-pegg-mission-impossible-the-final-reckoning-star-staunt-ueber-weitsicht-des-films-beim-thema-ki](https://www.spiegel.de/kultur/kino/simon-pegg-mission-impossible-the-final-reckoning-star-staunt-ueber-weitsicht-des-films-beim-thema-ki-a-2e64eee7-f45e-4bdb-875d-5c3769b98fea#ref=rss)
-### mission
-
-* [https://www.spiegel.de/kultur/kino/simon-pegg-mission-impossible-the-final-reckoning-star-staunt-ueber-weitsicht-des-films-beim-thema-ki](https://www.spiegel.de/kultur/kino/simon-pegg-mission-impossible-the-final-reckoning-star-staunt-ueber-weitsicht-des-films-beim-thema-ki-a-2e64eee7-f45e-4bdb-875d-5c3769b98fea#ref=rss)
-### impossible
-
-* [https://www.spiegel.de/kultur/kino/simon-pegg-mission-impossible-the-final-reckoning-star-staunt-ueber-weitsicht-des-films-beim-thema-ki](https://www.spiegel.de/kultur/kino/simon-pegg-mission-impossible-the-final-reckoning-star-staunt-ueber-weitsicht-des-films-beim-thema-ki-a-2e64eee7-f45e-4bdb-875d-5c3769b98fea#ref=rss)
-### thema
-
-* [https://www.spiegel.de/kultur/kino/simon-pegg-mission-impossible-the-final-reckoning-star-staunt-ueber-weitsicht-des-films-beim-thema-ki](https://www.spiegel.de/kultur/kino/simon-pegg-mission-impossible-the-final-reckoning-star-staunt-ueber-weitsicht-des-films-beim-thema-ki-a-2e64eee7-f45e-4bdb-875d-5c3769b98fea#ref=rss)
-* [https://www.spiegel.de/ausland/daenemark-premierministerin-mette-frederiksen-ueber-trump-groenland-migration-und-merz](https://www.spiegel.de/ausland/daenemark-premierministerin-mette-frederiksen-ueber-trump-groenland-migration-und-merz-a-d7ee0f06-b247-49af-8962-3a42d65551d4#ref=rss)
-### anke
-
-* [https://www.spiegel.de/panorama/leute/anke-engelke-bei-der-deutschen-bahn-sie-kontrolliert-jetzt-zugtickets](https://www.spiegel.de/panorama/leute/anke-engelke-bei-der-deutschen-bahn-sie-kontrolliert-jetzt-zugtickets-a-7c4bdae3-59b0-4422-95f6-079fcd4c3eaa#ref=rss)
-### engelke
-
-* [https://www.spiegel.de/panorama/leute/anke-engelke-bei-der-deutschen-bahn-sie-kontrolliert-jetzt-zugtickets](https://www.spiegel.de/panorama/leute/anke-engelke-bei-der-deutschen-bahn-sie-kontrolliert-jetzt-zugtickets-a-7c4bdae3-59b0-4422-95f6-079fcd4c3eaa#ref=rss)
-### bahn
-
-* [https://www.spiegel.de/panorama/leute/anke-engelke-bei-der-deutschen-bahn-sie-kontrolliert-jetzt-zugtickets](https://www.spiegel.de/panorama/leute/anke-engelke-bei-der-deutschen-bahn-sie-kontrolliert-jetzt-zugtickets-a-7c4bdae3-59b0-4422-95f6-079fcd4c3eaa#ref=rss)
-### bekannt
-
-* [https://www.spiegel.de/panorama/leute/anke-engelke-bei-der-deutschen-bahn-sie-kontrolliert-jetzt-zugtickets](https://www.spiegel.de/panorama/leute/anke-engelke-bei-der-deutschen-bahn-sie-kontrolliert-jetzt-zugtickets-a-7c4bdae3-59b0-4422-95f6-079fcd4c3eaa#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/whatsapp-nach-15-jahren-endlich-eine-eigene-ipad-app](https://www.spiegel.de/netzwelt/apps/whatsapp-nach-15-jahren-endlich-eine-eigene-ipad-app-a-75775948-7e40-40b2-9022-ab3d9a299de9#ref=rss)
-### kollegen
-
-* [https://www.spiegel.de/panorama/leute/anke-engelke-bei-der-deutschen-bahn-sie-kontrolliert-jetzt-zugtickets](https://www.spiegel.de/panorama/leute/anke-engelke-bei-der-deutschen-bahn-sie-kontrolliert-jetzt-zugtickets-a-7c4bdae3-59b0-4422-95f6-079fcd4c3eaa#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/arkansas-inhaftierter-ex-polizeichef-spaziert-in-uniform-aus-gefaengnis](https://www.spiegel.de/panorama/justiz/arkansas-inhaftierter-ex-polizeichef-spaziert-in-uniform-aus-gefaengnis-a-b410e260-2af9-4dd6-811b-2f49d76474d8#ref=rss)
-### hannover
-
-* [https://www.spiegel.de/panorama/justiz/hannover-lebenslange-haft-fuer-mord-an-obdachlosen-im-stadtwald-eilenriede](https://www.spiegel.de/panorama/justiz/hannover-lebenslange-haft-fuer-mord-an-obdachlosen-im-stadtwald-eilenriede-a-c6356bd9-2891-43c5-9f2e-8c8e63559ca0#ref=rss)
-### haft
-
-* [https://www.spiegel.de/panorama/justiz/hannover-lebenslange-haft-fuer-mord-an-obdachlosen-im-stadtwald-eilenriede](https://www.spiegel.de/panorama/justiz/hannover-lebenslange-haft-fuer-mord-an-obdachlosen-im-stadtwald-eilenriede-a-c6356bd9-2891-43c5-9f2e-8c8e63559ca0#ref=rss)
-### obdachlosen
-
-* [https://www.spiegel.de/panorama/justiz/hannover-lebenslange-haft-fuer-mord-an-obdachlosen-im-stadtwald-eilenriede](https://www.spiegel.de/panorama/justiz/hannover-lebenslange-haft-fuer-mord-an-obdachlosen-im-stadtwald-eilenriede-a-c6356bd9-2891-43c5-9f2e-8c8e63559ca0#ref=rss)
-### stadtwald
-
-* [https://www.spiegel.de/panorama/justiz/hannover-lebenslange-haft-fuer-mord-an-obdachlosen-im-stadtwald-eilenriede](https://www.spiegel.de/panorama/justiz/hannover-lebenslange-haft-fuer-mord-an-obdachlosen-im-stadtwald-eilenriede-a-c6356bd9-2891-43c5-9f2e-8c8e63559ca0#ref=rss)
-### eilenriede
-
-* [https://www.spiegel.de/panorama/justiz/hannover-lebenslange-haft-fuer-mord-an-obdachlosen-im-stadtwald-eilenriede](https://www.spiegel.de/panorama/justiz/hannover-lebenslange-haft-fuer-mord-an-obdachlosen-im-stadtwald-eilenriede-a-c6356bd9-2891-43c5-9f2e-8c8e63559ca0#ref=rss)
-### strafe
-
-* [https://www.spiegel.de/panorama/justiz/hannover-lebenslange-haft-fuer-mord-an-obdachlosen-im-stadtwald-eilenriede](https://www.spiegel.de/panorama/justiz/hannover-lebenslange-haft-fuer-mord-an-obdachlosen-im-stadtwald-eilenriede-a-c6356bd9-2891-43c5-9f2e-8c8e63559ca0#ref=rss)
-* [https://www.spiegel.de/ausland/missbrauchsprozess-in-frankreich-bin-davon-ausgegangen-dass-ein-kind-keine-vorwuerfe-gegen-mich-erheben-wird](https://www.spiegel.de/ausland/missbrauchsprozess-in-frankreich-bin-davon-ausgegangen-dass-ein-kind-keine-vorwuerfe-gegen-mich-erheben-wird-a-75b15542-6606-43d6-a302-b320bb67968d#ref=rss)
-### laut
-
-* [https://www.spiegel.de/panorama/justiz/hannover-lebenslange-haft-fuer-mord-an-obdachlosen-im-stadtwald-eilenriede](https://www.spiegel.de/panorama/justiz/hannover-lebenslange-haft-fuer-mord-an-obdachlosen-im-stadtwald-eilenriede-a-c6356bd9-2891-43c5-9f2e-8c8e63559ca0#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/klimawandel-uno-wetterbehoerde-rechnet-mit-rekordtemperaturen-in-kommenden-jahren](https://www.spiegel.de/wissenschaft/natur/klimawandel-uno-wetterbehoerde-rechnet-mit-rekordtemperaturen-in-kommenden-jahren-a-1418c6f5-f0e6-484b-83f7-9f06fb6ec5df#ref=rss)
-### premierministerin
-
-* [https://www.spiegel.de/ausland/daenemark-premierministerin-mette-frederiksen-ueber-trump-groenland-migration-und-merz](https://www.spiegel.de/ausland/daenemark-premierministerin-mette-frederiksen-ueber-trump-groenland-migration-und-merz-a-d7ee0f06-b247-49af-8962-3a42d65551d4#ref=rss)
-### mette
-
-* [https://www.spiegel.de/ausland/daenemark-premierministerin-mette-frederiksen-ueber-trump-groenland-migration-und-merz](https://www.spiegel.de/ausland/daenemark-premierministerin-mette-frederiksen-ueber-trump-groenland-migration-und-merz-a-d7ee0f06-b247-49af-8962-3a42d65551d4#ref=rss)
-### frederiksen
-
-* [https://www.spiegel.de/ausland/daenemark-premierministerin-mette-frederiksen-ueber-trump-groenland-migration-und-merz](https://www.spiegel.de/ausland/daenemark-premierministerin-mette-frederiksen-ueber-trump-groenland-migration-und-merz-a-d7ee0f06-b247-49af-8962-3a42d65551d4#ref=rss)
-### grönland
-
-* [https://www.spiegel.de/ausland/daenemark-premierministerin-mette-frederiksen-ueber-trump-groenland-migration-und-merz](https://www.spiegel.de/ausland/daenemark-premierministerin-mette-frederiksen-ueber-trump-groenland-migration-und-merz-a-d7ee0f06-b247-49af-8962-3a42d65551d4#ref=rss)
-### setzt
-
-* [https://www.spiegel.de/ausland/daenemark-premierministerin-mette-frederiksen-ueber-trump-groenland-migration-und-merz](https://www.spiegel.de/ausland/daenemark-premierministerin-mette-frederiksen-ueber-trump-groenland-migration-und-merz-a-d7ee0f06-b247-49af-8962-3a42d65551d4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-johann-wadephul-betont-bedrohung-durch-russland-und-kuendigt-sanktionen-an](https://www.spiegel.de/politik/deutschland/ukraine-krieg-johann-wadephul-betont-bedrohung-durch-russland-und-kuendigt-sanktionen-an-a-4311d7d6-c0f8-48c8-aa67-4ce1736a1e31#ref=rss)
-### glasfaser
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/glasfaser-und-5g-kabinett-beschliesst-vorrang-fuer-den-netzausbau](https://www.spiegel.de/netzwelt/netzpolitik/glasfaser-und-5g-kabinett-beschliesst-vorrang-fuer-den-netzausbau-a-b0bdfe90-f401-478d-9323-2829d4ec15d4#ref=rss)
-### beschließt
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/glasfaser-und-5g-kabinett-beschliesst-vorrang-fuer-den-netzausbau](https://www.spiegel.de/netzwelt/netzpolitik/glasfaser-und-5g-kabinett-beschliesst-vorrang-fuer-den-netzausbau-a-b0bdfe90-f401-478d-9323-2829d4ec15d4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/migration-kabinett-beschliesst-haerteren-kurs-bei-familiennachzug-und-einbuergerung](https://www.spiegel.de/politik/deutschland/migration-kabinett-beschliesst-haerteren-kurs-bei-familiennachzug-und-einbuergerung-a-34c44a51-9c05-45f0-884b-11edda2ee41d#ref=rss)
-### china
-
-* [https://www.spiegel.de/ausland/tschechien-aussenminister-wirft-china-cyberangriff-auf-ministerium-vor](https://www.spiegel.de/ausland/tschechien-aussenminister-wirft-china-cyberangriff-auf-ministerium-vor-a-fad7cede-b30e-42b0-9837-0976c94ded9e#ref=rss)
-### vorwürfe
-
-* [https://www.spiegel.de/ausland/tschechien-aussenminister-wirft-china-cyberangriff-auf-ministerium-vor](https://www.spiegel.de/ausland/tschechien-aussenminister-wirft-china-cyberangriff-auf-ministerium-vor-a-fad7cede-b30e-42b0-9837-0976c94ded9e#ref=rss)
-* [https://www.spiegel.de/ausland/missbrauchsprozess-in-frankreich-bin-davon-ausgegangen-dass-ein-kind-keine-vorwuerfe-gegen-mich-erheben-wird](https://www.spiegel.de/ausland/missbrauchsprozess-in-frankreich-bin-davon-ausgegangen-dass-ein-kind-keine-vorwuerfe-gegen-mich-erheben-wird-a-75b15542-6606-43d6-a302-b320bb67968d#ref=rss)
-### eu
-
-* [https://www.spiegel.de/ausland/tschechien-aussenminister-wirft-china-cyberangriff-auf-ministerium-vor](https://www.spiegel.de/ausland/tschechien-aussenminister-wirft-china-cyberangriff-auf-ministerium-vor-a-fad7cede-b30e-42b0-9837-0976c94ded9e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/klimawandel-uno-wetterbehoerde-rechnet-mit-rekordtemperaturen-in-kommenden-jahren](https://www.spiegel.de/wissenschaft/natur/klimawandel-uno-wetterbehoerde-rechnet-mit-rekordtemperaturen-in-kommenden-jahren-a-1418c6f5-f0e6-484b-83f7-9f06fb6ec5df#ref=rss)
-### studium
-
-* [https://www.spiegel.de/start/startklar-newsletter-wie-haelt-man-nach-dem-studium-kontakt-mit-freunden](https://www.spiegel.de/start/startklar-newsletter-wie-haelt-man-nach-dem-studium-kontakt-mit-freunden-a-6ff10434-5b93-48d3-9b19-5f646231b005#ref=rss)
-### kontakt
-
-* [https://www.spiegel.de/start/startklar-newsletter-wie-haelt-man-nach-dem-studium-kontakt-mit-freunden](https://www.spiegel.de/start/startklar-newsletter-wie-haelt-man-nach-dem-studium-kontakt-mit-freunden-a-6ff10434-5b93-48d3-9b19-5f646231b005#ref=rss)
-### freunden
-
-* [https://www.spiegel.de/start/startklar-newsletter-wie-haelt-man-nach-dem-studium-kontakt-mit-freunden](https://www.spiegel.de/start/startklar-newsletter-wie-haelt-man-nach-dem-studium-kontakt-mit-freunden-a-6ff10434-5b93-48d3-9b19-5f646231b005#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/wissenschaft/natur/klimawandel-uno-wetterbehoerde-rechnet-mit-rekordtemperaturen-in-kommenden-jahren](https://www.spiegel.de/wissenschaft/natur/klimawandel-uno-wetterbehoerde-rechnet-mit-rekordtemperaturen-in-kommenden-jahren-a-1418c6f5-f0e6-484b-83f7-9f06fb6ec5df#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/whatsapp-nach-15-jahren-endlich-eine-eigene-ipad-app](https://www.spiegel.de/netzwelt/apps/whatsapp-nach-15-jahren-endlich-eine-eigene-ipad-app-a-75775948-7e40-40b2-9022-ab3d9a299de9#ref=rss)
-### zahlen
-
-* [https://www.spiegel.de/wissenschaft/natur/klimawandel-uno-wetterbehoerde-rechnet-mit-rekordtemperaturen-in-kommenden-jahren](https://www.spiegel.de/wissenschaft/natur/klimawandel-uno-wetterbehoerde-rechnet-mit-rekordtemperaturen-in-kommenden-jahren-a-1418c6f5-f0e6-484b-83f7-9f06fb6ec5df#ref=rss)
-* [https://www.spiegel.de/wissenschaft/hamm-gericht-weist-klimaklage-von-peruanischem-bauer-gegen-rwe-ab](https://www.spiegel.de/wissenschaft/hamm-gericht-weist-klimaklage-von-peruanischem-bauer-gegen-rwe-ab-a-0d3810c0-8b65-40bc-a9ef-64f52965d026#ref=rss)
-### familiennachzug
-
-* [https://www.spiegel.de/politik/deutschland/migration-kabinett-beschliesst-haerteren-kurs-bei-familiennachzug-und-einbuergerung](https://www.spiegel.de/politik/deutschland/migration-kabinett-beschliesst-haerteren-kurs-bei-familiennachzug-und-einbuergerung-a-34c44a51-9c05-45f0-884b-11edda2ee41d#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-spricht-ueber-seine-vaterrolle-waehrend-des-kriegs](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-spricht-ueber-seine-vaterrolle-waehrend-des-kriegs-a-d0236d18-6486-468f-9af3-d35ad5c786a0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wolodymyr-selenskyj-bei-friedrich-merz-in-berlin-kein-taurus-aber](https://www.spiegel.de/politik/deutschland/wolodymyr-selenskyj-bei-friedrich-merz-in-berlin-kein-taurus-aber-a-7521293c-fe7e-4dae-b3c7-1a2e47c64203#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-wegen-drohender-russischer-grossoffensive-wolodymyr-selenskyj-sagt-karlspreis-teilnahme-ab](https://www.spiegel.de/politik/deutschland/ukraine-krieg-wegen-drohender-russischer-grossoffensive-wolodymyr-selenskyj-sagt-karlspreis-teilnahme-ab-a-f712ac5c-5977-45b6-8450-5d0c2cd52721#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/politik/deutschland/migration-kabinett-beschliesst-haerteren-kurs-bei-familiennachzug-und-einbuergerung](https://www.spiegel.de/politik/deutschland/migration-kabinett-beschliesst-haerteren-kurs-bei-familiennachzug-und-einbuergerung-a-34c44a51-9c05-45f0-884b-11edda2ee41d#ref=rss)
-* [https://www.spiegel.de/ausland/missbrauchsprozess-in-frankreich-bin-davon-ausgegangen-dass-ein-kind-keine-vorwuerfe-gegen-mich-erheben-wird](https://www.spiegel.de/ausland/missbrauchsprozess-in-frankreich-bin-davon-ausgegangen-dass-ein-kind-keine-vorwuerfe-gegen-mich-erheben-wird-a-75b15542-6606-43d6-a302-b320bb67968d#ref=rss)
-### aryna
+* [https://www.spiegel.de/ausland/israel-versus-huthi-kampfjets-zerstoeren-letztes-flugzeug-von-yemenia-airways-in-sanaa](https://www.spiegel.de/ausland/israel-versus-huthi-kampfjets-zerstoeren-letztes-flugzeug-von-yemenia-airways-in-sanaa-a-54e87cff-c372-4450-a32c-b56c396152a5#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/afd-in-sachsen-anhalt-deutschlandfahnen-sogar-auf-spielplaetzen-was-soll-das](https://www.spiegel.de/panorama/gesellschaft/afd-in-sachsen-anhalt-deutschlandfahnen-sogar-auf-spielplaetzen-was-soll-das-a-c9b78352-7433-4201-a807-79bc058966e9#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/internationaler-aktionstag-fuer-frauengesundheit-wo-frauen-in-medizin-und-forschung-zu-kurz-kommen](https://www.spiegel.de/wissenschaft/medizin/internationaler-aktionstag-fuer-frauengesundheit-wo-frauen-in-medizin-und-forschung-zu-kurz-kommen-a-b771916f-c92d-46c7-9007-2e88ad3c967e#ref=rss)
+* [https://www.spiegel.de/familie/erziehung-in-der-pubertaet-wie-viel-aufmerksamkeit-brauchen-teenager](https://www.spiegel.de/familie/erziehung-in-der-pubertaet-wie-viel-aufmerksamkeit-brauchen-teenager-a-f157ca41-425e-4469-ad01-b222330cab1b#ref=rss)
+### musk
 
-* [https://www.spiegel.de/sport/aryna-sabalenka-die-zerrissenheit-der-nummer-eins-im-tennis](https://www.spiegel.de/sport/aryna-sabalenka-die-zerrissenheit-der-nummer-eins-im-tennis-a-ae5fe2be-4a63-4c93-a3e4-ccac8c5272f0#ref=rss)
-### sabalenka
+* [https://www.spiegel.de/ausland/elon-musk-kritik-an-us-regierung-und-enttaeuschung-ueber-donald-trumps-steuerplaene](https://www.spiegel.de/ausland/elon-musk-kritik-an-us-regierung-und-enttaeuschung-ueber-donald-trumps-steuerplaene-a-1eefe85a-a875-4bed-b2c6-a2823d5304ad#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/telegram-schliesst-300-millionen-dollar-deal-mit-musk](https://www.spiegel.de/netzwelt/apps/telegram-schliesst-300-millionen-dollar-deal-mit-musk-a-b24d0af5-8e9e-459b-82cd-b6622359cf6a#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/starship-testflug-die-rakete-kollabiert-und-musk-schwadroniert](https://www.spiegel.de/wissenschaft/weltall/starship-testflug-die-rakete-kollabiert-und-musk-schwadroniert-a-00e8fe63-dbb9-4d7c-a90b-0a61cc0e1801#ref=rss)
+### wolodymyr
 
-* [https://www.spiegel.de/sport/aryna-sabalenka-die-zerrissenheit-der-nummer-eins-im-tennis](https://www.spiegel.de/sport/aryna-sabalenka-die-zerrissenheit-der-nummer-eins-im-tennis-a-ae5fe2be-4a63-4c93-a3e4-ccac8c5272f0#ref=rss)
-### nummer
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-spricht-ueber-seine-vaterrolle-waehrend-des-kriegs](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-spricht-ueber-seine-vaterrolle-waehrend-des-kriegs-a-d0236d18-6486-468f-9af3-d35ad5c786a0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wolodymyr-selenskyj-bei-friedrich-merz-in-berlin-kein-taurus-aber](https://www.spiegel.de/politik/deutschland/wolodymyr-selenskyj-bei-friedrich-merz-in-berlin-kein-taurus-aber-a-7521293c-fe7e-4dae-b3c7-1a2e47c64203#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-wegen-drohender-russischer-grossoffensive-wolodymyr-selenskyj-sagt-karlspreis-teilnahme-ab](https://www.spiegel.de/politik/deutschland/ukraine-krieg-wegen-drohender-russischer-grossoffensive-wolodymyr-selenskyj-sagt-karlspreis-teilnahme-ab-a-f712ac5c-5977-45b6-8450-5d0c2cd52721#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/sport/aryna-sabalenka-die-zerrissenheit-der-nummer-eins-im-tennis](https://www.spiegel.de/sport/aryna-sabalenka-die-zerrissenheit-der-nummer-eins-im-tennis-a-ae5fe2be-4a63-4c93-a3e4-ccac8c5272f0#ref=rss)
-### eins
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-spricht-ueber-seine-vaterrolle-waehrend-des-kriegs](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-spricht-ueber-seine-vaterrolle-waehrend-des-kriegs-a-d0236d18-6486-468f-9af3-d35ad5c786a0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wolodymyr-selenskyj-bei-friedrich-merz-in-berlin-kein-taurus-aber](https://www.spiegel.de/politik/deutschland/wolodymyr-selenskyj-bei-friedrich-merz-in-berlin-kein-taurus-aber-a-7521293c-fe7e-4dae-b3c7-1a2e47c64203#ref=rss)
+### israel
 
-* [https://www.spiegel.de/sport/aryna-sabalenka-die-zerrissenheit-der-nummer-eins-im-tennis](https://www.spiegel.de/sport/aryna-sabalenka-die-zerrissenheit-der-nummer-eins-im-tennis-a-ae5fe2be-4a63-4c93-a3e4-ccac8c5272f0#ref=rss)
-### ukrainekrieg
+* [https://www.spiegel.de/ausland/israel-versus-huthi-kampfjets-zerstoeren-letztes-flugzeug-von-yemenia-airways-in-sanaa](https://www.spiegel.de/ausland/israel-versus-huthi-kampfjets-zerstoeren-letztes-flugzeug-von-yemenia-airways-in-sanaa-a-54e87cff-c372-4450-a32c-b56c396152a5#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/israel-gaza-krieg-gruppe-um-zadie-smith-und-ian-mcewan-kritisiert-israels-vorgehen-als-genozid](https://www.spiegel.de/kultur/literatur/israel-gaza-krieg-gruppe-um-zadie-smith-und-ian-mcewan-kritisiert-israels-vorgehen-als-genozid-a-cc8433be-2d60-4278-801c-a603a54b6c3c#ref=rss)
+### drei
 
-* [https://www.spiegel.de/sport/aryna-sabalenka-die-zerrissenheit-der-nummer-eins-im-tennis](https://www.spiegel.de/sport/aryna-sabalenka-die-zerrissenheit-der-nummer-eins-im-tennis-a-ae5fe2be-4a63-4c93-a3e4-ccac8c5272f0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-johann-wadephul-betont-bedrohung-durch-russland-und-kuendigt-sanktionen-an](https://www.spiegel.de/politik/deutschland/ukraine-krieg-johann-wadephul-betont-bedrohung-durch-russland-und-kuendigt-sanktionen-an-a-4311d7d6-c0f8-48c8-aa67-4ce1736a1e31#ref=rss)
-### england
+* [https://www.spiegel.de/ausland/israel-versus-huthi-kampfjets-zerstoeren-letztes-flugzeug-von-yemenia-airways-in-sanaa](https://www.spiegel.de/ausland/israel-versus-huthi-kampfjets-zerstoeren-letztes-flugzeug-von-yemenia-airways-in-sanaa-a-54e87cff-c372-4450-a32c-b56c396152a5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/frankfurt-am-main-bundesanwaltschaft-klagt-drei-mutmassliche-russland-spione-an](https://www.spiegel.de/politik/deutschland/frankfurt-am-main-bundesanwaltschaft-klagt-drei-mutmassliche-russland-spione-an-a-72a68c13-7e07-4a65-a100-2c284b081da7#ref=rss)
+### flughafen
 
-* [https://www.spiegel.de/geschichte/teure-scheidung-in-england-verkauften-einige-maenner-ihre-frauen-auf-dem-markt](https://www.spiegel.de/geschichte/teure-scheidung-in-england-verkauften-einige-maenner-ihre-frauen-auf-dem-markt-a-465fd496-f5c0-480a-9429-c82b7cf2b440#ref=rss)
-### männer
+* [https://www.spiegel.de/ausland/israel-versus-huthi-kampfjets-zerstoeren-letztes-flugzeug-von-yemenia-airways-in-sanaa](https://www.spiegel.de/ausland/israel-versus-huthi-kampfjets-zerstoeren-letztes-flugzeug-von-yemenia-airways-in-sanaa-a-54e87cff-c372-4450-a32c-b56c396152a5#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/flughafen-muenchen-mann-wegen-versuchten-mordes-mit-maeusegift-an-tochter-festgenommen](https://www.spiegel.de/panorama/justiz/flughafen-muenchen-mann-wegen-versuchten-mordes-mit-maeusegift-an-tochter-festgenommen-a-b9be94a2-b522-421f-ab00-c90e9c59fcdf#ref=rss)
+### kritik
 
-* [https://www.spiegel.de/geschichte/teure-scheidung-in-england-verkauften-einige-maenner-ihre-frauen-auf-dem-markt](https://www.spiegel.de/geschichte/teure-scheidung-in-england-verkauften-einige-maenner-ihre-frauen-auf-dem-markt-a-465fd496-f5c0-480a-9429-c82b7cf2b440#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/israel-gaza-krieg-gruppe-um-zadie-smith-und-ian-mcewan-kritisiert-israels-vorgehen-als-genozid](https://www.spiegel.de/kultur/literatur/israel-gaza-krieg-gruppe-um-zadie-smith-und-ian-mcewan-kritisiert-israels-vorgehen-als-genozid-a-cc8433be-2d60-4278-801c-a603a54b6c3c#ref=rss)
+* [https://www.spiegel.de/ausland/elon-musk-kritik-an-us-regierung-und-enttaeuschung-ueber-donald-trumps-steuerplaene](https://www.spiegel.de/ausland/elon-musk-kritik-an-us-regierung-und-enttaeuschung-ueber-donald-trumps-steuerplaene-a-1eefe85a-a875-4bed-b2c6-a2823d5304ad#ref=rss)
+### viele
+
+* [https://www.spiegel.de/kultur/miley-cyrus-der-popstar-der-niemals-langweilig-wird](https://www.spiegel.de/kultur/miley-cyrus-der-popstar-der-niemals-langweilig-wird-a-ac16179a-4785-4dea-915f-772d31d95f37#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/starship-testflug-die-rakete-kollabiert-und-musk-schwadroniert](https://www.spiegel.de/wissenschaft/weltall/starship-testflug-die-rakete-kollabiert-und-musk-schwadroniert-a-00e8fe63-dbb9-4d7c-a90b-0a61cc0e1801#ref=rss)
+* [https://www.spiegel.de/familie/erziehung-in-der-pubertaet-wie-viel-aufmerksamkeit-brauchen-teenager](https://www.spiegel.de/familie/erziehung-in-der-pubertaet-wie-viel-aufmerksamkeit-brauchen-teenager-a-f157ca41-425e-4469-ad01-b222330cab1b#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/ausland/erinnerung-an-den-kolonialismus-namibia-gedenkt-der-opfer-deutscher-kolonialtruppen](https://www.spiegel.de/ausland/erinnerung-an-den-kolonialismus-namibia-gedenkt-der-opfer-deutscher-kolonialtruppen-a-deb3f0d3-6bd9-474c-9e23-0e49a2d578ca#ref=rss)
+* [https://www.spiegel.de/wirtschaft/zukunftstechnologien-warum-start-ups-die-zukunft-europas-sind](https://www.spiegel.de/wirtschaft/zukunftstechnologien-warum-start-ups-die-zukunft-europas-sind-a-7d69f8aa-1626-40c9-aa22-9de32301bc25#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/frankfurt-am-main-bundesanwaltschaft-klagt-drei-mutmassliche-russland-spione-an](https://www.spiegel.de/politik/deutschland/frankfurt-am-main-bundesanwaltschaft-klagt-drei-mutmassliche-russland-spione-an-a-72a68c13-7e07-4a65-a100-2c284b081da7#ref=rss)
+### münchen
+
+* [https://www.spiegel.de/panorama/justiz/flughafen-muenchen-mann-wegen-versuchten-mordes-mit-maeusegift-an-tochter-festgenommen](https://www.spiegel.de/panorama/justiz/flughafen-muenchen-mann-wegen-versuchten-mordes-mit-maeusegift-an-tochter-festgenommen-a-b9be94a2-b522-421f-ab00-c90e9c59fcdf#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-david-beckham-und-tom-cruise-kommentieren-finale-in-muenchen](https://www.spiegel.de/sport/fussball/champions-league-david-beckham-und-tom-cruise-kommentieren-finale-in-muenchen-a-c13ec56f-f9b1-42e5-a943-7e8519c05641#ref=rss)
+### tochter
+
+* [https://www.spiegel.de/panorama/justiz/flughafen-muenchen-mann-wegen-versuchten-mordes-mit-maeusegift-an-tochter-festgenommen](https://www.spiegel.de/panorama/justiz/flughafen-muenchen-mann-wegen-versuchten-mordes-mit-maeusegift-an-tochter-festgenommen-a-b9be94a2-b522-421f-ab00-c90e9c59fcdf#ref=rss)
+* [https://www.spiegel.de/kultur/popsaengerin-renee-rapp-wie-ihre-mutter-die-musikkarriere-der-tochter-manifestierte](https://www.spiegel.de/kultur/popsaengerin-renee-rapp-wie-ihre-mutter-die-musikkarriere-der-tochter-manifestierte-a-9533e96a-57fc-4638-9f79-318c569e8f05#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/politik/deutschland/wolodymyr-selenskyj-bei-friedrich-merz-in-berlin-kein-taurus-aber](https://www.spiegel.de/politik/deutschland/wolodymyr-selenskyj-bei-friedrich-merz-in-berlin-kein-taurus-aber-a-7521293c-fe7e-4dae-b3c7-1a2e47c64203#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-wegen-drohender-russischer-grossoffensive-wolodymyr-selenskyj-sagt-karlspreis-teilnahme-ab](https://www.spiegel.de/politik/deutschland/ukraine-krieg-wegen-drohender-russischer-grossoffensive-wolodymyr-selenskyj-sagt-karlspreis-teilnahme-ab-a-f712ac5c-5977-45b6-8450-5d0c2cd52721#ref=rss)
+### musks
+
+* [https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik](https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-a-7853a261-d742-48d8-95f9-f7479272a3db#ref=rss)
+* [https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-podcast](https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-podcast-a-ce12f40c-0344-43cf-9f45-6d93661c6794#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/telegram-schliesst-300-millionen-dollar-deal-mit-musk](https://www.spiegel.de/netzwelt/apps/telegram-schliesst-300-millionen-dollar-deal-mit-musk-a-b24d0af5-8e9e-459b-82cd-b6622359cf6a#ref=rss)
+### telegram
+
+* [https://www.spiegel.de/netzwelt/apps/telegram-schliesst-300-millionen-dollar-deal-mit-musk](https://www.spiegel.de/netzwelt/apps/telegram-schliesst-300-millionen-dollar-deal-mit-musk-a-b24d0af5-8e9e-459b-82cd-b6622359cf6a#ref=rss)
+### wenig
+
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-spricht-ueber-seine-vaterrolle-waehrend-des-kriegs](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-spricht-ueber-seine-vaterrolle-waehrend-des-kriegs-a-d0236d18-6486-468f-9af3-d35ad5c786a0#ref=rss)
+* [https://www.spiegel.de/kultur/miley-cyrus-der-popstar-der-niemals-langweilig-wird](https://www.spiegel.de/kultur/miley-cyrus-der-popstar-der-niemals-langweilig-wird-a-ac16179a-4785-4dea-915f-772d31d95f37#ref=rss)
+### momente
+
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-spricht-ueber-seine-vaterrolle-waehrend-des-kriegs](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-spricht-ueber-seine-vaterrolle-waehrend-des-kriegs-a-d0236d18-6486-468f-9af3-d35ad5c786a0#ref=rss)
+* [https://www.spiegel.de/familie/erziehung-in-der-pubertaet-wie-viel-aufmerksamkeit-brauchen-teenager](https://www.spiegel.de/familie/erziehung-in-der-pubertaet-wie-viel-aufmerksamkeit-brauchen-teenager-a-f157ca41-425e-4469-ad01-b222330cab1b#ref=rss)
+### stellt
+
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-spricht-ueber-seine-vaterrolle-waehrend-des-kriegs](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-spricht-ueber-seine-vaterrolle-waehrend-des-kriegs-a-d0236d18-6486-468f-9af3-d35ad5c786a0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/deutschlandticket-bayern-warnt-vor-moeglichem-aus](https://www.spiegel.de/wirtschaft/service/deutschlandticket-bayern-warnt-vor-moeglichem-aus-a-dce0f96a-916c-4d1f-a3b7-e1e01a1d63bf#ref=rss)
+### fest
+
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-spricht-ueber-seine-vaterrolle-waehrend-des-kriegs](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-spricht-ueber-seine-vaterrolle-waehrend-des-kriegs-a-d0236d18-6486-468f-9af3-d35ad5c786a0#ref=rss)
+* [https://www.spiegel.de/ausland/elon-musk-kritik-an-us-regierung-und-enttaeuschung-ueber-donald-trumps-steuerplaene](https://www.spiegel.de/ausland/elon-musk-kritik-an-us-regierung-und-enttaeuschung-ueber-donald-trumps-steuerplaene-a-1eefe85a-a875-4bed-b2c6-a2823d5304ad#ref=rss)
+### alle
+
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-spricht-ueber-seine-vaterrolle-waehrend-des-kriegs](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-spricht-ueber-seine-vaterrolle-waehrend-des-kriegs-a-d0236d18-6486-468f-9af3-d35ad5c786a0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/deutschlandticket-bayern-warnt-vor-moeglichem-aus](https://www.spiegel.de/wirtschaft/service/deutschlandticket-bayern-warnt-vor-moeglichem-aus-a-dce0f96a-916c-4d1f-a3b7-e1e01a1d63bf#ref=rss)
+### sehr
+
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-spricht-ueber-seine-vaterrolle-waehrend-des-kriegs](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-spricht-ueber-seine-vaterrolle-waehrend-des-kriegs-a-d0236d18-6486-468f-9af3-d35ad5c786a0#ref=rss)
+### yemenia
+
+* [https://www.spiegel.de/ausland/israel-versus-huthi-kampfjets-zerstoeren-letztes-flugzeug-von-yemenia-airways-in-sanaa](https://www.spiegel.de/ausland/israel-versus-huthi-kampfjets-zerstoeren-letztes-flugzeug-von-yemenia-airways-in-sanaa-a-54e87cff-c372-4450-a32c-b56c396152a5#ref=rss)
+### airways
+
+* [https://www.spiegel.de/ausland/israel-versus-huthi-kampfjets-zerstoeren-letztes-flugzeug-von-yemenia-airways-in-sanaa](https://www.spiegel.de/ausland/israel-versus-huthi-kampfjets-zerstoeren-letztes-flugzeug-von-yemenia-airways-in-sanaa-a-54e87cff-c372-4450-a32c-b56c396152a5#ref=rss)
+### sanaa
+
+* [https://www.spiegel.de/ausland/israel-versus-huthi-kampfjets-zerstoeren-letztes-flugzeug-von-yemenia-airways-in-sanaa](https://www.spiegel.de/ausland/israel-versus-huthi-kampfjets-zerstoeren-letztes-flugzeug-von-yemenia-airways-in-sanaa-a-54e87cff-c372-4450-a32c-b56c396152a5#ref=rss)
+### raketen
+
+* [https://www.spiegel.de/ausland/israel-versus-huthi-kampfjets-zerstoeren-letztes-flugzeug-von-yemenia-airways-in-sanaa](https://www.spiegel.de/ausland/israel-versus-huthi-kampfjets-zerstoeren-letztes-flugzeug-von-yemenia-airways-in-sanaa-a-54e87cff-c372-4450-a32c-b56c396152a5#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/starship-testflug-die-rakete-kollabiert-und-musk-schwadroniert](https://www.spiegel.de/wissenschaft/weltall/starship-testflug-die-rakete-kollabiert-und-musk-schwadroniert-a-00e8fe63-dbb9-4d7c-a90b-0a61cc0e1801#ref=rss)
+### stunden
+
+* [https://www.spiegel.de/ausland/israel-versus-huthi-kampfjets-zerstoeren-letztes-flugzeug-von-yemenia-airways-in-sanaa](https://www.spiegel.de/ausland/israel-versus-huthi-kampfjets-zerstoeren-letztes-flugzeug-von-yemenia-airways-in-sanaa-a-54e87cff-c372-4450-a32c-b56c396152a5#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/solingen-angeklagter-filmte-tatort-vor-messerangriff](https://www.spiegel.de/panorama/justiz/solingen-angeklagter-filmte-tatort-vor-messerangriff-a-b3eaa3c9-50a4-4918-97bf-aaa17b220d04#ref=rss)
+### angriff
+
+* [https://www.spiegel.de/ausland/israel-versus-huthi-kampfjets-zerstoeren-letztes-flugzeug-von-yemenia-airways-in-sanaa](https://www.spiegel.de/ausland/israel-versus-huthi-kampfjets-zerstoeren-letztes-flugzeug-von-yemenia-airways-in-sanaa-a-54e87cff-c372-4450-a32c-b56c396152a5#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/israel-gaza-krieg-gruppe-um-zadie-smith-und-ian-mcewan-kritisiert-israels-vorgehen-als-genozid](https://www.spiegel.de/kultur/literatur/israel-gaza-krieg-gruppe-um-zadie-smith-und-ian-mcewan-kritisiert-israels-vorgehen-als-genozid-a-cc8433be-2d60-4278-801c-a603a54b6c3c#ref=rss)
+### miley
+
+* [https://www.spiegel.de/kultur/miley-cyrus-der-popstar-der-niemals-langweilig-wird](https://www.spiegel.de/kultur/miley-cyrus-der-popstar-der-niemals-langweilig-wird-a-ac16179a-4785-4dea-915f-772d31d95f37#ref=rss)
+### cyrus
+
+* [https://www.spiegel.de/kultur/miley-cyrus-der-popstar-der-niemals-langweilig-wird](https://www.spiegel.de/kultur/miley-cyrus-der-popstar-der-niemals-langweilig-wird-a-ac16179a-4785-4dea-915f-772d31d95f37#ref=rss)
+### popstar
+
+* [https://www.spiegel.de/kultur/miley-cyrus-der-popstar-der-niemals-langweilig-wird](https://www.spiegel.de/kultur/miley-cyrus-der-popstar-der-niemals-langweilig-wird-a-ac16179a-4785-4dea-915f-772d31d95f37#ref=rss)
+* [https://www.spiegel.de/kultur/popsaengerin-renee-rapp-wie-ihre-mutter-die-musikkarriere-der-tochter-manifestierte](https://www.spiegel.de/kultur/popsaengerin-renee-rapp-wie-ihre-mutter-die-musikkarriere-der-tochter-manifestierte-a-9533e96a-57fc-4638-9f79-318c569e8f05#ref=rss)
+### harvard
+
+* [https://www.spiegel.de/wissenschaft/mensch/harvard-gegen-trump-der-schaden-an-der-eliteuniversitaet-ist-laengst-entstanden](https://www.spiegel.de/wissenschaft/mensch/harvard-gegen-trump-der-schaden-an-der-eliteuniversitaet-ist-laengst-entstanden-a-78622b3a-a7fb-4fa2-a179-6535c306e754#ref=rss)
+### opfer
+
+* [https://www.spiegel.de/ausland/erinnerung-an-den-kolonialismus-namibia-gedenkt-der-opfer-deutscher-kolonialtruppen](https://www.spiegel.de/ausland/erinnerung-an-den-kolonialismus-namibia-gedenkt-der-opfer-deutscher-kolonialtruppen-a-deb3f0d3-6bd9-474c-9e23-0e49a2d578ca#ref=rss)
+### deutscher
+
+* [https://www.spiegel.de/ausland/erinnerung-an-den-kolonialismus-namibia-gedenkt-der-opfer-deutscher-kolonialtruppen](https://www.spiegel.de/ausland/erinnerung-an-den-kolonialismus-namibia-gedenkt-der-opfer-deutscher-kolonialtruppen-a-deb3f0d3-6bd9-474c-9e23-0e49a2d578ca#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/justiz/flughafen-muenchen-mann-wegen-versuchten-mordes-mit-maeusegift-an-tochter-festgenommen](https://www.spiegel.de/panorama/justiz/flughafen-muenchen-mann-wegen-versuchten-mordes-mit-maeusegift-an-tochter-festgenommen-a-b9be94a2-b522-421f-ab00-c90e9c59fcdf#ref=rss)
+### festgenommen
+
+* [https://www.spiegel.de/panorama/justiz/flughafen-muenchen-mann-wegen-versuchten-mordes-mit-maeusegift-an-tochter-festgenommen](https://www.spiegel.de/panorama/justiz/flughafen-muenchen-mann-wegen-versuchten-mordes-mit-maeusegift-an-tochter-festgenommen-a-b9be94a2-b522-421f-ab00-c90e9c59fcdf#ref=rss)
+### töten
+
+* [https://www.spiegel.de/panorama/justiz/flughafen-muenchen-mann-wegen-versuchten-mordes-mit-maeusegift-an-tochter-festgenommen](https://www.spiegel.de/panorama/justiz/flughafen-muenchen-mann-wegen-versuchten-mordes-mit-maeusegift-an-tochter-festgenommen-a-b9be94a2-b522-421f-ab00-c90e9c59fcdf#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/frankfurt-am-main-bundesanwaltschaft-klagt-drei-mutmassliche-russland-spione-an](https://www.spiegel.de/politik/deutschland/frankfurt-am-main-bundesanwaltschaft-klagt-drei-mutmassliche-russland-spione-an-a-72a68c13-7e07-4a65-a100-2c284b081da7#ref=rss)
+### afd
+
+* [https://www.spiegel.de/panorama/gesellschaft/afd-in-sachsen-anhalt-deutschlandfahnen-sogar-auf-spielplaetzen-was-soll-das](https://www.spiegel.de/panorama/gesellschaft/afd-in-sachsen-anhalt-deutschlandfahnen-sogar-auf-spielplaetzen-was-soll-das-a-c9b78352-7433-4201-a807-79bc058966e9#ref=rss)
+### sachsenanhalt
+
+* [https://www.spiegel.de/panorama/gesellschaft/afd-in-sachsen-anhalt-deutschlandfahnen-sogar-auf-spielplaetzen-was-soll-das](https://www.spiegel.de/panorama/gesellschaft/afd-in-sachsen-anhalt-deutschlandfahnen-sogar-auf-spielplaetzen-was-soll-das-a-c9b78352-7433-4201-a807-79bc058966e9#ref=rss)
+### david
+
+* [https://www.spiegel.de/sport/fussball/champions-league-david-beckham-und-tom-cruise-kommentieren-finale-in-muenchen](https://www.spiegel.de/sport/fussball/champions-league-david-beckham-und-tom-cruise-kommentieren-finale-in-muenchen-a-c13ec56f-f9b1-42e5-a943-7e8519c05641#ref=rss)
+### beckham
+
+* [https://www.spiegel.de/sport/fussball/champions-league-david-beckham-und-tom-cruise-kommentieren-finale-in-muenchen](https://www.spiegel.de/sport/fussball/champions-league-david-beckham-und-tom-cruise-kommentieren-finale-in-muenchen-a-c13ec56f-f9b1-42e5-a943-7e8519c05641#ref=rss)
+### tom
+
+* [https://www.spiegel.de/sport/fussball/champions-league-david-beckham-und-tom-cruise-kommentieren-finale-in-muenchen](https://www.spiegel.de/sport/fussball/champions-league-david-beckham-und-tom-cruise-kommentieren-finale-in-muenchen-a-c13ec56f-f9b1-42e5-a943-7e8519c05641#ref=rss)
+### cruise
+
+* [https://www.spiegel.de/sport/fussball/champions-league-david-beckham-und-tom-cruise-kommentieren-finale-in-muenchen](https://www.spiegel.de/sport/fussball/champions-league-david-beckham-und-tom-cruise-kommentieren-finale-in-muenchen-a-c13ec56f-f9b1-42e5-a943-7e8519c05641#ref=rss)
+### gefährlich
+
+* [https://www.spiegel.de/wissenschaft/natur/japan-wie-gefaehrlich-ist-erde-aus-fukushima](https://www.spiegel.de/wissenschaft/natur/japan-wie-gefaehrlich-ist-erde-aus-fukushima-a-14112262-1fb0-43da-95ca-403dfd415f77#ref=rss)
+### erde
+
+* [https://www.spiegel.de/wissenschaft/natur/japan-wie-gefaehrlich-ist-erde-aus-fukushima](https://www.spiegel.de/wissenschaft/natur/japan-wie-gefaehrlich-ist-erde-aus-fukushima-a-14112262-1fb0-43da-95ca-403dfd415f77#ref=rss)
+### fukushima
+
+* [https://www.spiegel.de/wissenschaft/natur/japan-wie-gefaehrlich-ist-erde-aus-fukushima](https://www.spiegel.de/wissenschaft/natur/japan-wie-gefaehrlich-ist-erde-aus-fukushima-a-14112262-1fb0-43da-95ca-403dfd415f77#ref=rss)
+### wäre
+
+* [https://www.spiegel.de/wissenschaft/natur/japan-wie-gefaehrlich-ist-erde-aus-fukushima](https://www.spiegel.de/wissenschaft/natur/japan-wie-gefaehrlich-ist-erde-aus-fukushima-a-14112262-1fb0-43da-95ca-403dfd415f77#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/starship-testflug-die-rakete-kollabiert-und-musk-schwadroniert](https://www.spiegel.de/wissenschaft/weltall/starship-testflug-die-rakete-kollabiert-und-musk-schwadroniert-a-00e8fe63-dbb9-4d7c-a90b-0a61cc0e1801#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/auto/deutsche-bahn-flexpreise-koennen-bald-wieder-einen-tag-vor-fahrtantritt-kostenlos-storniert-werden](https://www.spiegel.de/auto/deutsche-bahn-flexpreise-koennen-bald-wieder-einen-tag-vor-fahrtantritt-kostenlos-storniert-werden-a-03010acd-1018-47a6-86b1-53a5719f164c#ref=rss)
+### bahn
+
+* [https://www.spiegel.de/auto/deutsche-bahn-flexpreise-koennen-bald-wieder-einen-tag-vor-fahrtantritt-kostenlos-storniert-werden](https://www.spiegel.de/auto/deutsche-bahn-flexpreise-koennen-bald-wieder-einen-tag-vor-fahrtantritt-kostenlos-storniert-werden-a-03010acd-1018-47a6-86b1-53a5719f164c#ref=rss)
+### tag
+
+* [https://www.spiegel.de/auto/deutsche-bahn-flexpreise-koennen-bald-wieder-einen-tag-vor-fahrtantritt-kostenlos-storniert-werden](https://www.spiegel.de/auto/deutsche-bahn-flexpreise-koennen-bald-wieder-einen-tag-vor-fahrtantritt-kostenlos-storniert-werden-a-03010acd-1018-47a6-86b1-53a5719f164c#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/auto/deutsche-bahn-flexpreise-koennen-bald-wieder-einen-tag-vor-fahrtantritt-kostenlos-storniert-werden](https://www.spiegel.de/auto/deutsche-bahn-flexpreise-koennen-bald-wieder-einen-tag-vor-fahrtantritt-kostenlos-storniert-werden-a-03010acd-1018-47a6-86b1-53a5719f164c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-wegen-drohender-russischer-grossoffensive-wolodymyr-selenskyj-sagt-karlspreis-teilnahme-ab](https://www.spiegel.de/politik/deutschland/ukraine-krieg-wegen-drohender-russischer-grossoffensive-wolodymyr-selenskyj-sagt-karlspreis-teilnahme-ab-a-f712ac5c-5977-45b6-8450-5d0c2cd52721#ref=rss)
+### usregierung
+
+* [https://www.spiegel.de/ausland/elon-musk-kritik-an-us-regierung-und-enttaeuschung-ueber-donald-trumps-steuerplaene](https://www.spiegel.de/ausland/elon-musk-kritik-an-us-regierung-und-enttaeuschung-ueber-donald-trumps-steuerplaene-a-1eefe85a-a875-4bed-b2c6-a2823d5304ad#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/elon-musk-kritik-an-us-regierung-und-enttaeuschung-ueber-donald-trumps-steuerplaene](https://www.spiegel.de/ausland/elon-musk-kritik-an-us-regierung-und-enttaeuschung-ueber-donald-trumps-steuerplaene-a-1eefe85a-a875-4bed-b2c6-a2823d5304ad#ref=rss)
+### trumps
+
+* [https://www.spiegel.de/ausland/elon-musk-kritik-an-us-regierung-und-enttaeuschung-ueber-donald-trumps-steuerplaene](https://www.spiegel.de/ausland/elon-musk-kritik-an-us-regierung-und-enttaeuschung-ueber-donald-trumps-steuerplaene-a-1eefe85a-a875-4bed-b2c6-a2823d5304ad#ref=rss)
+### blatten
+
+* [https://www.spiegel.de/panorama/schweiz-gletschersturz-verschuettet-teile-des-dorfes-blatten](https://www.spiegel.de/panorama/schweiz-gletschersturz-verschuettet-teile-des-dorfes-blatten-a-cbd47a32-46f6-4e95-92cb-dd07c25d33d8#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/deutschland/wolodymyr-selenskyj-bei-friedrich-merz-in-berlin-kein-taurus-aber](https://www.spiegel.de/politik/deutschland/wolodymyr-selenskyj-bei-friedrich-merz-in-berlin-kein-taurus-aber-a-7521293c-fe7e-4dae-b3c7-1a2e47c64203#ref=rss)
+### kyjiw
+
+* [https://www.spiegel.de/politik/deutschland/wolodymyr-selenskyj-bei-friedrich-merz-in-berlin-kein-taurus-aber](https://www.spiegel.de/politik/deutschland/wolodymyr-selenskyj-bei-friedrich-merz-in-berlin-kein-taurus-aber-a-7521293c-fe7e-4dae-b3c7-1a2e47c64203#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-wegen-drohender-russischer-grossoffensive-wolodymyr-selenskyj-sagt-karlspreis-teilnahme-ab](https://www.spiegel.de/politik/deutschland/ukraine-krieg-wegen-drohender-russischer-grossoffensive-wolodymyr-selenskyj-sagt-karlspreis-teilnahme-ab-a-f712ac5c-5977-45b6-8450-5d0c2cd52721#ref=rss)
+### spiegelinformationen
+
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-wegen-drohender-russischer-grossoffensive-wolodymyr-selenskyj-sagt-karlspreis-teilnahme-ab](https://www.spiegel.de/politik/deutschland/ukraine-krieg-wegen-drohender-russischer-grossoffensive-wolodymyr-selenskyj-sagt-karlspreis-teilnahme-ab-a-f712ac5c-5977-45b6-8450-5d0c2cd52721#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/deutschlandticket-bayern-warnt-vor-moeglichem-aus](https://www.spiegel.de/wirtschaft/service/deutschlandticket-bayern-warnt-vor-moeglichem-aus-a-dce0f96a-916c-4d1f-a3b7-e1e01a1d63bf#ref=rss)
+### hamburg
+
+* [https://www.spiegel.de/kultur/hamburg-ballett-nach-vorwuerfen-gegen-demis-volpi-urauffuehrung](https://www.spiegel.de/kultur/hamburg-ballett-nach-vorwuerfen-gegen-demis-volpi-urauffuehrung-a-d7f90730-333e-4ac9-bc46-18528001a682#ref=rss)
+### ballett
+
+* [https://www.spiegel.de/kultur/hamburg-ballett-nach-vorwuerfen-gegen-demis-volpi-urauffuehrung](https://www.spiegel.de/kultur/hamburg-ballett-nach-vorwuerfen-gegen-demis-volpi-urauffuehrung-a-d7f90730-333e-4ac9-bc46-18528001a682#ref=rss)
+### demis
+
+* [https://www.spiegel.de/kultur/hamburg-ballett-nach-vorwuerfen-gegen-demis-volpi-urauffuehrung](https://www.spiegel.de/kultur/hamburg-ballett-nach-vorwuerfen-gegen-demis-volpi-urauffuehrung-a-d7f90730-333e-4ac9-bc46-18528001a682#ref=rss)
+### uraufführung
+
+* [https://www.spiegel.de/kultur/hamburg-ballett-nach-vorwuerfen-gegen-demis-volpi-urauffuehrung](https://www.spiegel.de/kultur/hamburg-ballett-nach-vorwuerfen-gegen-demis-volpi-urauffuehrung-a-d7f90730-333e-4ac9-bc46-18528001a682#ref=rss)
+### muskvorbild
+
+* [https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik](https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-a-7853a261-d742-48d8-95f9-f7479272a3db#ref=rss)
+* [https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-podcast](https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-podcast-a-ce12f40c-0344-43cf-9f45-6d93661c6794#ref=rss)
+### mileiberater
+
+* [https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik](https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-a-7853a261-d742-48d8-95f9-f7479272a3db#ref=rss)
+* [https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-podcast](https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-podcast-a-ce12f40c-0344-43cf-9f45-6d93661c6794#ref=rss)
+### erfinder
+
+* [https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik](https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-a-7853a261-d742-48d8-95f9-f7479272a3db#ref=rss)
+* [https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-podcast](https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-podcast-a-ce12f40c-0344-43cf-9f45-6d93661c6794#ref=rss)
+### kettensägenpolitik
+
+* [https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik](https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-a-7853a261-d742-48d8-95f9-f7479272a3db#ref=rss)
+* [https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-podcast](https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-podcast-a-ce12f40c-0344-43cf-9f45-6d93661c6794#ref=rss)
+### argentinier
+
+* [https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik](https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-a-7853a261-d742-48d8-95f9-f7479272a3db#ref=rss)
+* [https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-podcast](https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-podcast-a-ce12f40c-0344-43cf-9f45-6d93661c6794#ref=rss)
+### federico
+
+* [https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik](https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-a-7853a261-d742-48d8-95f9-f7479272a3db#ref=rss)
+* [https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-podcast](https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-podcast-a-ce12f40c-0344-43cf-9f45-6d93661c6794#ref=rss)
+### sturzenegger
+
+* [https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik](https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-a-7853a261-d742-48d8-95f9-f7479272a3db#ref=rss)
+* [https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-podcast](https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-podcast-a-ce12f40c-0344-43cf-9f45-6d93661c6794#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik](https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-a-7853a261-d742-48d8-95f9-f7479272a3db#ref=rss)
+* [https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-podcast](https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-podcast-a-ce12f40c-0344-43cf-9f45-6d93661c6794#ref=rss)
+### architekt
+
+* [https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik](https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-a-7853a261-d742-48d8-95f9-f7479272a3db#ref=rss)
+* [https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-podcast](https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-podcast-a-ce12f40c-0344-43cf-9f45-6d93661c6794#ref=rss)
+### javier
+
+* [https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik](https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-a-7853a261-d742-48d8-95f9-f7479272a3db#ref=rss)
+* [https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-podcast](https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-podcast-a-ce12f40c-0344-43cf-9f45-6d93661c6794#ref=rss)
+### mileis
+
+* [https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik](https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-a-7853a261-d742-48d8-95f9-f7479272a3db#ref=rss)
+* [https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-podcast](https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-podcast-a-ce12f40c-0344-43cf-9f45-6d93661c6794#ref=rss)
+### antistaatspolitik
+
+* [https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik](https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-a-7853a261-d742-48d8-95f9-f7479272a3db#ref=rss)
+* [https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-podcast](https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-podcast-a-ce12f40c-0344-43cf-9f45-6d93661c6794#ref=rss)
+### doge
+
+* [https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik](https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-a-7853a261-d742-48d8-95f9-f7479272a3db#ref=rss)
+* [https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-podcast](https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-podcast-a-ce12f40c-0344-43cf-9f45-6d93661c6794#ref=rss)
+### richtung
+
+* [https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik](https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-a-7853a261-d742-48d8-95f9-f7479272a3db#ref=rss)
+* [https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-podcast](https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-podcast-a-ce12f40c-0344-43cf-9f45-6d93661c6794#ref=rss)
+### vorgegeben
+
+* [https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik](https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-a-7853a261-d742-48d8-95f9-f7479272a3db#ref=rss)
+* [https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-podcast](https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-podcast-a-ce12f40c-0344-43cf-9f45-6d93661c6794#ref=rss)
+### spiegelkorrespondent
+
+* [https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik](https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-a-7853a261-d742-48d8-95f9-f7479272a3db#ref=rss)
+* [https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-podcast](https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-podcast-a-ce12f40c-0344-43cf-9f45-6d93661c6794#ref=rss)
+### gerald
+
+* [https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik](https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-a-7853a261-d742-48d8-95f9-f7479272a3db#ref=rss)
+* [https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-podcast](https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-podcast-a-ce12f40c-0344-43cf-9f45-6d93661c6794#ref=rss)
+### traufetter
+
+* [https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik](https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-a-7853a261-d742-48d8-95f9-f7479272a3db#ref=rss)
+* [https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-podcast](https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-podcast-a-ce12f40c-0344-43cf-9f45-6d93661c6794#ref=rss)
+### getroffen
+
+* [https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik](https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-a-7853a261-d742-48d8-95f9-f7479272a3db#ref=rss)
+* [https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-podcast](https://www.spiegel.de/ausland/musk-vorbild-und-milei-berater-das-ist-der-erfinder-der-kettensaegen-politik-podcast-a-ce12f40c-0344-43cf-9f45-6d93661c6794#ref=rss)
+### grok
+
+* [https://www.spiegel.de/netzwelt/apps/telegram-schliesst-300-millionen-dollar-deal-mit-musk](https://www.spiegel.de/netzwelt/apps/telegram-schliesst-300-millionen-dollar-deal-mit-musk-a-b24d0af5-8e9e-459b-82cd-b6622359cf6a#ref=rss)
+### renée
+
+* [https://www.spiegel.de/kultur/popsaengerin-renee-rapp-wie-ihre-mutter-die-musikkarriere-der-tochter-manifestierte](https://www.spiegel.de/kultur/popsaengerin-renee-rapp-wie-ihre-mutter-die-musikkarriere-der-tochter-manifestierte-a-9533e96a-57fc-4638-9f79-318c569e8f05#ref=rss)
+### rapp
+
+* [https://www.spiegel.de/kultur/popsaengerin-renee-rapp-wie-ihre-mutter-die-musikkarriere-der-tochter-manifestierte](https://www.spiegel.de/kultur/popsaengerin-renee-rapp-wie-ihre-mutter-die-musikkarriere-der-tochter-manifestierte-a-9533e96a-57fc-4638-9f79-318c569e8f05#ref=rss)
 ### frauen
 
-* [https://www.spiegel.de/geschichte/teure-scheidung-in-england-verkauften-einige-maenner-ihre-frauen-auf-dem-markt](https://www.spiegel.de/geschichte/teure-scheidung-in-england-verkauften-einige-maenner-ihre-frauen-auf-dem-markt-a-465fd496-f5c0-480a-9429-c82b7cf2b440#ref=rss)
-### gaza
+* [https://www.spiegel.de/wissenschaft/medizin/internationaler-aktionstag-fuer-frauengesundheit-wo-frauen-in-medizin-und-forschung-zu-kurz-kommen](https://www.spiegel.de/wissenschaft/medizin/internationaler-aktionstag-fuer-frauengesundheit-wo-frauen-in-medizin-und-forschung-zu-kurz-kommen-a-b771916f-c92d-46c7-9007-2e88ad3c967e#ref=rss)
+### forschung
 
-* [https://www.spiegel.de/ausland/gaza-palaestinenser-stuermen-verteilzentrum-fuer-hilfsgueter](https://www.spiegel.de/ausland/gaza-palaestinenser-stuermen-verteilzentrum-fuer-hilfsgueter-a-dd543647-7393-4a9a-9499-267ca5e2fdf1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-zur-lage-in-gaza-alle-haben-das-gleiche-recht-ernaehrt-zu-werden](https://www.spiegel.de/politik/deutschland/johann-wadephul-zur-lage-in-gaza-alle-haben-das-gleiche-recht-ernaehrt-zu-werden-a-cdb16e85-510f-4811-8a2c-bc75d152a28d#ref=rss)
-### menschen
+* [https://www.spiegel.de/wissenschaft/medizin/internationaler-aktionstag-fuer-frauengesundheit-wo-frauen-in-medizin-und-forschung-zu-kurz-kommen](https://www.spiegel.de/wissenschaft/medizin/internationaler-aktionstag-fuer-frauengesundheit-wo-frauen-in-medizin-und-forschung-zu-kurz-kommen-a-b771916f-c92d-46c7-9007-2e88ad3c967e#ref=rss)
+### kommen
 
-* [https://www.spiegel.de/ausland/gaza-palaestinenser-stuermen-verteilzentrum-fuer-hilfsgueter](https://www.spiegel.de/ausland/gaza-palaestinenser-stuermen-verteilzentrum-fuer-hilfsgueter-a-dd543647-7393-4a9a-9499-267ca5e2fdf1#ref=rss)
-* [https://www.spiegel.de/ausland/russland-und-ukraine-ueberziehen-sich-mit-drohnenangriffen](https://www.spiegel.de/ausland/russland-und-ukraine-ueberziehen-sich-mit-drohnenangriffen-a-c3381d78-32b1-42a0-a0e7-231bdebca39b#ref=rss)
-### gazastreifen
+* [https://www.spiegel.de/wissenschaft/medizin/internationaler-aktionstag-fuer-frauengesundheit-wo-frauen-in-medizin-und-forschung-zu-kurz-kommen](https://www.spiegel.de/wissenschaft/medizin/internationaler-aktionstag-fuer-frauengesundheit-wo-frauen-in-medizin-und-forschung-zu-kurz-kommen-a-b771916f-c92d-46c7-9007-2e88ad3c967e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/solingen-angeklagter-filmte-tatort-vor-messerangriff](https://www.spiegel.de/panorama/justiz/solingen-angeklagter-filmte-tatort-vor-messerangriff-a-b3eaa3c9-50a4-4918-97bf-aaa17b220d04#ref=rss)
+### männer
 
-* [https://www.spiegel.de/ausland/gaza-palaestinenser-stuermen-verteilzentrum-fuer-hilfsgueter](https://www.spiegel.de/ausland/gaza-palaestinenser-stuermen-verteilzentrum-fuer-hilfsgueter-a-dd543647-7393-4a9a-9499-267ca5e2fdf1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-zur-lage-in-gaza-alle-haben-das-gleiche-recht-ernaehrt-zu-werden](https://www.spiegel.de/politik/deutschland/johann-wadephul-zur-lage-in-gaza-alle-haben-das-gleiche-recht-ernaehrt-zu-werden-a-cdb16e85-510f-4811-8a2c-bc75d152a28d#ref=rss)
-### ersten
+* [https://www.spiegel.de/wissenschaft/medizin/internationaler-aktionstag-fuer-frauengesundheit-wo-frauen-in-medizin-und-forschung-zu-kurz-kommen](https://www.spiegel.de/wissenschaft/medizin/internationaler-aktionstag-fuer-frauengesundheit-wo-frauen-in-medizin-und-forschung-zu-kurz-kommen-a-b771916f-c92d-46c7-9007-2e88ad3c967e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/frankfurt-am-main-bundesanwaltschaft-klagt-drei-mutmassliche-russland-spione-an](https://www.spiegel.de/politik/deutschland/frankfurt-am-main-bundesanwaltschaft-klagt-drei-mutmassliche-russland-spione-an-a-72a68c13-7e07-4a65-a100-2c284b081da7#ref=rss)
+### solingen
 
-* [https://www.spiegel.de/ausland/gaza-palaestinenser-stuermen-verteilzentrum-fuer-hilfsgueter](https://www.spiegel.de/ausland/gaza-palaestinenser-stuermen-verteilzentrum-fuer-hilfsgueter-a-dd543647-7393-4a9a-9499-267ca5e2fdf1#ref=rss)
-* [https://www.spiegel.de/sport/tennis/french-open-coco-gauff-vergisst-zu-ihrem-auftaktspiel-ihre-tennisschlaeger](https://www.spiegel.de/sport/tennis/french-open-coco-gauff-vergisst-zu-ihrem-auftaktspiel-ihre-tennisschlaeger-a-15ee19a7-1b52-49f8-bbb8-ed9b38536a63#ref=rss)
-### kevin
+* [https://www.spiegel.de/panorama/justiz/solingen-angeklagter-filmte-tatort-vor-messerangriff](https://www.spiegel.de/panorama/justiz/solingen-angeklagter-filmte-tatort-vor-messerangriff-a-b3eaa3c9-50a4-4918-97bf-aaa17b220d04#ref=rss)
+### tatort
 
-* [https://www.spiegel.de/kultur/kino/kevin-costner-stuntfrau-devyn-labella-klagt-wegen-vergewaltigungsszene-am-set](https://www.spiegel.de/kultur/kino/kevin-costner-stuntfrau-devyn-labella-klagt-wegen-vergewaltigungsszene-am-set-a-c29434b8-61af-4fdf-b191-382bc25f52d5#ref=rss)
-### costner
+* [https://www.spiegel.de/panorama/justiz/solingen-angeklagter-filmte-tatort-vor-messerangriff](https://www.spiegel.de/panorama/justiz/solingen-angeklagter-filmte-tatort-vor-messerangriff-a-b3eaa3c9-50a4-4918-97bf-aaa17b220d04#ref=rss)
+### teenager
 
-* [https://www.spiegel.de/kultur/kino/kevin-costner-stuntfrau-devyn-labella-klagt-wegen-vergewaltigungsszene-am-set](https://www.spiegel.de/kultur/kino/kevin-costner-stuntfrau-devyn-labella-klagt-wegen-vergewaltigungsszene-am-set-a-c29434b8-61af-4fdf-b191-382bc25f52d5#ref=rss)
-### stuntfrau
+* [https://www.spiegel.de/familie/erziehung-in-der-pubertaet-wie-viel-aufmerksamkeit-brauchen-teenager](https://www.spiegel.de/familie/erziehung-in-der-pubertaet-wie-viel-aufmerksamkeit-brauchen-teenager-a-f157ca41-425e-4469-ad01-b222330cab1b#ref=rss)
+### wir
 
-* [https://www.spiegel.de/kultur/kino/kevin-costner-stuntfrau-devyn-labella-klagt-wegen-vergewaltigungsszene-am-set](https://www.spiegel.de/kultur/kino/kevin-costner-stuntfrau-devyn-labella-klagt-wegen-vergewaltigungsszene-am-set-a-c29434b8-61af-4fdf-b191-382bc25f52d5#ref=rss)
-### devyn
+* [https://www.spiegel.de/familie/erziehung-in-der-pubertaet-wie-viel-aufmerksamkeit-brauchen-teenager](https://www.spiegel.de/familie/erziehung-in-der-pubertaet-wie-viel-aufmerksamkeit-brauchen-teenager-a-f157ca41-425e-4469-ad01-b222330cab1b#ref=rss)
+### spotifys
 
-* [https://www.spiegel.de/kultur/kino/kevin-costner-stuntfrau-devyn-labella-klagt-wegen-vergewaltigungsszene-am-set](https://www.spiegel.de/kultur/kino/kevin-costner-stuntfrau-devyn-labella-klagt-wegen-vergewaltigungsszene-am-set-a-c29434b8-61af-4fdf-b191-382bc25f52d5#ref=rss)
-### labella
+* [https://www.spiegel.de/netzwelt/apps/spotifys-ausschuettungen-17-000-kuenstler-aus-der-eu-knacken-die-10-000-euro-marke](https://www.spiegel.de/netzwelt/apps/spotifys-ausschuettungen-17-000-kuenstler-aus-der-eu-knacken-die-10-000-euro-marke-a-a6690609-1559-4f51-86c3-2eeeb6ca2a09#ref=rss)
+### rwe
 
-* [https://www.spiegel.de/kultur/kino/kevin-costner-stuntfrau-devyn-labella-klagt-wegen-vergewaltigungsszene-am-set](https://www.spiegel.de/kultur/kino/kevin-costner-stuntfrau-devyn-labella-klagt-wegen-vergewaltigungsszene-am-set-a-c29434b8-61af-4fdf-b191-382bc25f52d5#ref=rss)
-### vergewaltigungsszene
+* [https://www.spiegel.de/wissenschaft/natur/rwe-peruanischer-bauer-gegen-energiekonzern-was-das-urteil-im-klimaprozess-bedeutet](https://www.spiegel.de/wissenschaft/natur/rwe-peruanischer-bauer-gegen-energiekonzern-was-das-urteil-im-klimaprozess-bedeutet-a-f6aadc06-e10a-4295-9872-affdb91c57ad#ref=rss)
+### urteil
 
-* [https://www.spiegel.de/kultur/kino/kevin-costner-stuntfrau-devyn-labella-klagt-wegen-vergewaltigungsszene-am-set](https://www.spiegel.de/kultur/kino/kevin-costner-stuntfrau-devyn-labella-klagt-wegen-vergewaltigungsszene-am-set-a-c29434b8-61af-4fdf-b191-382bc25f52d5#ref=rss)
-### fand
+* [https://www.spiegel.de/wissenschaft/natur/rwe-peruanischer-bauer-gegen-energiekonzern-was-das-urteil-im-klimaprozess-bedeutet](https://www.spiegel.de/wissenschaft/natur/rwe-peruanischer-bauer-gegen-energiekonzern-was-das-urteil-im-klimaprozess-bedeutet-a-f6aadc06-e10a-4295-9872-affdb91c57ad#ref=rss)
+### zukunftstechnologien
 
-* [https://www.spiegel.de/kultur/kino/kevin-costner-stuntfrau-devyn-labella-klagt-wegen-vergewaltigungsszene-am-set](https://www.spiegel.de/kultur/kino/kevin-costner-stuntfrau-devyn-labella-klagt-wegen-vergewaltigungsszene-am-set-a-c29434b8-61af-4fdf-b191-382bc25f52d5#ref=rss)
-* [https://www.spiegel.de/panorama/zwickau-oberbuergermeisterin-constance-arndt-erhaelt-personenschutz-nach-morddrohung](https://www.spiegel.de/panorama/zwickau-oberbuergermeisterin-constance-arndt-erhaelt-personenschutz-nach-morddrohung-a-c72dc052-5084-46ea-a1a6-95a7f3501b6c#ref=rss)
-### sonnencremes
+* [https://www.spiegel.de/wirtschaft/zukunftstechnologien-warum-start-ups-die-zukunft-europas-sind](https://www.spiegel.de/wirtschaft/zukunftstechnologien-warum-start-ups-die-zukunft-europas-sind-a-7d69f8aa-1626-40c9-aa22-9de32301bc25#ref=rss)
+### europas
 
-* [https://www.spiegel.de/gesundheit/sonnencremes-bei-oeko-test-schaedliche-weichmacher-und-unzureichender-uv-schutz](https://www.spiegel.de/gesundheit/sonnencremes-bei-oeko-test-schaedliche-weichmacher-und-unzureichender-uv-schutz-a-940cbc44-3741-4ce0-a060-6f676699ffc1#ref=rss)
-### ökotest
-
-* [https://www.spiegel.de/gesundheit/sonnencremes-bei-oeko-test-schaedliche-weichmacher-und-unzureichender-uv-schutz](https://www.spiegel.de/gesundheit/sonnencremes-bei-oeko-test-schaedliche-weichmacher-und-unzureichender-uv-schutz-a-940cbc44-3741-4ce0-a060-6f676699ffc1#ref=rss)
-### schädliche
-
-* [https://www.spiegel.de/gesundheit/sonnencremes-bei-oeko-test-schaedliche-weichmacher-und-unzureichender-uv-schutz](https://www.spiegel.de/gesundheit/sonnencremes-bei-oeko-test-schaedliche-weichmacher-und-unzureichender-uv-schutz-a-940cbc44-3741-4ce0-a060-6f676699ffc1#ref=rss)
-### weichmacher
-
-* [https://www.spiegel.de/gesundheit/sonnencremes-bei-oeko-test-schaedliche-weichmacher-und-unzureichender-uv-schutz](https://www.spiegel.de/gesundheit/sonnencremes-bei-oeko-test-schaedliche-weichmacher-und-unzureichender-uv-schutz-a-940cbc44-3741-4ce0-a060-6f676699ffc1#ref=rss)
-### oberbürgermeisterin
-
-* [https://www.spiegel.de/panorama/zwickau-oberbuergermeisterin-constance-arndt-erhaelt-personenschutz-nach-morddrohung](https://www.spiegel.de/panorama/zwickau-oberbuergermeisterin-constance-arndt-erhaelt-personenschutz-nach-morddrohung-a-c72dc052-5084-46ea-a1a6-95a7f3501b6c#ref=rss)
-### constance
-
-* [https://www.spiegel.de/panorama/zwickau-oberbuergermeisterin-constance-arndt-erhaelt-personenschutz-nach-morddrohung](https://www.spiegel.de/panorama/zwickau-oberbuergermeisterin-constance-arndt-erhaelt-personenschutz-nach-morddrohung-a-c72dc052-5084-46ea-a1a6-95a7f3501b6c#ref=rss)
-### arndt
-
-* [https://www.spiegel.de/panorama/zwickau-oberbuergermeisterin-constance-arndt-erhaelt-personenschutz-nach-morddrohung](https://www.spiegel.de/panorama/zwickau-oberbuergermeisterin-constance-arndt-erhaelt-personenschutz-nach-morddrohung-a-c72dc052-5084-46ea-a1a6-95a7f3501b6c#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/zwickau-oberbuergermeisterin-constance-arndt-erhaelt-personenschutz-nach-morddrohung](https://www.spiegel.de/panorama/zwickau-oberbuergermeisterin-constance-arndt-erhaelt-personenschutz-nach-morddrohung-a-c72dc052-5084-46ea-a1a6-95a7f3501b6c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/arkansas-inhaftierter-ex-polizeichef-spaziert-in-uniform-aus-gefaengnis](https://www.spiegel.de/panorama/justiz/arkansas-inhaftierter-ex-polizeichef-spaziert-in-uniform-aus-gefaengnis-a-b410e260-2af9-4dd6-811b-2f49d76474d8#ref=rss)
-### whatsapp
-
-* [https://www.spiegel.de/netzwelt/apps/whatsapp-nach-15-jahren-endlich-eine-eigene-ipad-app](https://www.spiegel.de/netzwelt/apps/whatsapp-nach-15-jahren-endlich-eine-eigene-ipad-app-a-75775948-7e40-40b2-9022-ab3d9a299de9#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/wissenschaft/hamm-gericht-weist-klimaklage-von-peruanischem-bauer-gegen-rwe-ab](https://www.spiegel.de/wissenschaft/hamm-gericht-weist-klimaklage-von-peruanischem-bauer-gegen-rwe-ab-a-0d3810c0-8b65-40bc-a9ef-64f52965d026#ref=rss)
-### stellantis
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/stellantis-antonio-filosa-wird-neuer-ceo-des-kriselnden-opel-mutterkonzerns](https://www.spiegel.de/wirtschaft/unternehmen/stellantis-antonio-filosa-wird-neuer-ceo-des-kriselnden-opel-mutterkonzerns-a-844ada56-f956-40d5-a9a9-acc399855fbd#ref=rss)
-### antonio
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/stellantis-antonio-filosa-wird-neuer-ceo-des-kriselnden-opel-mutterkonzerns](https://www.spiegel.de/wirtschaft/unternehmen/stellantis-antonio-filosa-wird-neuer-ceo-des-kriselnden-opel-mutterkonzerns-a-844ada56-f956-40d5-a9a9-acc399855fbd#ref=rss)
-### filosa
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/stellantis-antonio-filosa-wird-neuer-ceo-des-kriselnden-opel-mutterkonzerns](https://www.spiegel.de/wirtschaft/unternehmen/stellantis-antonio-filosa-wird-neuer-ceo-des-kriselnden-opel-mutterkonzerns-a-844ada56-f956-40d5-a9a9-acc399855fbd#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/stellantis-antonio-filosa-wird-neuer-ceo-des-kriselnden-opel-mutterkonzerns](https://www.spiegel.de/wirtschaft/unternehmen/stellantis-antonio-filosa-wird-neuer-ceo-des-kriselnden-opel-mutterkonzerns-a-844ada56-f956-40d5-a9a9-acc399855fbd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-johann-wadephul-betont-bedrohung-durch-russland-und-kuendigt-sanktionen-an](https://www.spiegel.de/politik/deutschland/ukraine-krieg-johann-wadephul-betont-bedrohung-durch-russland-und-kuendigt-sanktionen-an-a-4311d7d6-c0f8-48c8-aa67-4ce1736a1e31#ref=rss)
-### johann
-
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-zur-lage-in-gaza-alle-haben-das-gleiche-recht-ernaehrt-zu-werden](https://www.spiegel.de/politik/deutschland/johann-wadephul-zur-lage-in-gaza-alle-haben-das-gleiche-recht-ernaehrt-zu-werden-a-cdb16e85-510f-4811-8a2c-bc75d152a28d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-johann-wadephul-betont-bedrohung-durch-russland-und-kuendigt-sanktionen-an](https://www.spiegel.de/politik/deutschland/ukraine-krieg-johann-wadephul-betont-bedrohung-durch-russland-und-kuendigt-sanktionen-an-a-4311d7d6-c0f8-48c8-aa67-4ce1736a1e31#ref=rss)
-### arkansas
-
-* [https://www.spiegel.de/panorama/justiz/arkansas-inhaftierter-ex-polizeichef-spaziert-in-uniform-aus-gefaengnis](https://www.spiegel.de/panorama/justiz/arkansas-inhaftierter-ex-polizeichef-spaziert-in-uniform-aus-gefaengnis-a-b410e260-2af9-4dd6-811b-2f49d76474d8#ref=rss)
-### gefängnis
-
-* [https://www.spiegel.de/panorama/justiz/arkansas-inhaftierter-ex-polizeichef-spaziert-in-uniform-aus-gefaengnis](https://www.spiegel.de/panorama/justiz/arkansas-inhaftierter-ex-polizeichef-spaziert-in-uniform-aus-gefaengnis-a-b410e260-2af9-4dd6-811b-2f49d76474d8#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/ausland/russland-und-ukraine-ueberziehen-sich-mit-drohnenangriffen](https://www.spiegel.de/ausland/russland-und-ukraine-ueberziehen-sich-mit-drohnenangriffen-a-c3381d78-32b1-42a0-a0e7-231bdebca39b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-in-frankreich-zinedine-zidane-bringt-sich-selbst-als-nationaltrainer-ins-gespraech](https://www.spiegel.de/sport/fussball/fussball-in-frankreich-zinedine-zidane-bringt-sich-selbst-als-nationaltrainer-ins-gespraech-a-b8e612b0-49a0-48d8-b0aa-f3cd50cfa9e1#ref=rss)
-### coco
-
-* [https://www.spiegel.de/sport/tennis/french-open-coco-gauff-vergisst-zu-ihrem-auftaktspiel-ihre-tennisschlaeger](https://www.spiegel.de/sport/tennis/french-open-coco-gauff-vergisst-zu-ihrem-auftaktspiel-ihre-tennisschlaeger-a-15ee19a7-1b52-49f8-bbb8-ed9b38536a63#ref=rss)
-### gauff
-
-* [https://www.spiegel.de/sport/tennis/french-open-coco-gauff-vergisst-zu-ihrem-auftaktspiel-ihre-tennisschlaeger](https://www.spiegel.de/sport/tennis/french-open-coco-gauff-vergisst-zu-ihrem-auftaktspiel-ihre-tennisschlaeger-a-15ee19a7-1b52-49f8-bbb8-ed9b38536a63#ref=rss)
-### zinédine
-
-* [https://www.spiegel.de/sport/fussball/fussball-in-frankreich-zinedine-zidane-bringt-sich-selbst-als-nationaltrainer-ins-gespraech](https://www.spiegel.de/sport/fussball/fussball-in-frankreich-zinedine-zidane-bringt-sich-selbst-als-nationaltrainer-ins-gespraech-a-b8e612b0-49a0-48d8-b0aa-f3cd50cfa9e1#ref=rss)
-### zidane
-
-* [https://www.spiegel.de/sport/fussball/fussball-in-frankreich-zinedine-zidane-bringt-sich-selbst-als-nationaltrainer-ins-gespraech](https://www.spiegel.de/sport/fussball/fussball-in-frankreich-zinedine-zidane-bringt-sich-selbst-als-nationaltrainer-ins-gespraech-a-b8e612b0-49a0-48d8-b0aa-f3cd50cfa9e1#ref=rss)
-### slowakei
-
-* [https://www.spiegel.de/panorama/slowakei-abgeschossene-baeren-sollen-auf-den-teller-kommen](https://www.spiegel.de/panorama/slowakei-abgeschossene-baeren-sollen-auf-den-teller-kommen-a-a72e4319-40e2-4cdd-90bb-aa913d0f9400#ref=rss)
-### sanktionen
-
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-johann-wadephul-betont-bedrohung-durch-russland-und-kuendigt-sanktionen-an](https://www.spiegel.de/politik/deutschland/ukraine-krieg-johann-wadephul-betont-bedrohung-durch-russland-und-kuendigt-sanktionen-an-a-4311d7d6-c0f8-48c8-aa67-4ce1736a1e31#ref=rss)
+* [https://www.spiegel.de/wirtschaft/zukunftstechnologien-warum-start-ups-die-zukunft-europas-sind](https://www.spiegel.de/wirtschaft/zukunftstechnologien-warum-start-ups-die-zukunft-europas-sind-a-7d69f8aa-1626-40c9-aa22-9de32301bc25#ref=rss)
 
