@@ -4,389 +4,341 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### unter
-
-* [https://www.spiegel.de/kultur/kino/clint-eastwood-hollywood-star-nennt-kurier-interview-gefaelscht](https://www.spiegel.de/kultur/kino/clint-eastwood-hollywood-star-nennt-kurier-interview-gefaelscht-a-ad54600c-203c-44e0-8202-a4a2e6c48540#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/inflationsrate-schweiz-droht-die-deflation-preise-guenstiger](https://www.spiegel.de/wirtschaft/unternehmen/inflationsrate-schweiz-droht-die-deflation-preise-guenstiger-a-0c99cee9-35f1-44c5-bbe7-d4c244c15e7a#ref=rss)
-* [https://www.spiegel.de/reise/fernweh/karibik-tourismus-auf-domenica-die-leute-dachten-wir-waeren-kannibalen](https://www.spiegel.de/reise/fernweh/karibik-tourismus-auf-domenica-die-leute-dachten-wir-waeren-kannibalen-a-2aaa8b7f-c510-4101-85e3-87b23c96795a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/usa-setzen-handelspartner-in-zollverhandlungen-offenbar-unter-druck](https://www.spiegel.de/wirtschaft/unternehmen/usa-setzen-handelspartner-in-zollverhandlungen-offenbar-unter-druck-a-4a135cac-b7e0-4f8d-84c2-0965a5eaf547#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/smartphones-wo-ist-und-geraet-finden-was-bringt-die-suchfunktion-wenn-das-handy-geklaut-wird](https://www.spiegel.de/netzwelt/gadgets/smartphones-wo-ist-und-geraet-finden-was-bringt-die-suchfunktion-wenn-das-handy-geklaut-wird-a-b55ff9e1-048d-4154-96f6-97a9e6b62e33#ref=rss)
-### tote
-
-* [https://www.spiegel.de/ausland/ukraine-tote-nach-angriffen-auf-sumy-stromausfall-im-besetzten-gebiet](https://www.spiegel.de/ausland/ukraine-tote-nach-angriffen-auf-sumy-stromausfall-im-besetzten-gebiet-a-562e8960-461b-48fb-99eb-8dfdeed0244a#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-eskalation-bei-hilfsgueterausgabe-offenbar-24-tote-in-gaza](https://www.spiegel.de/ausland/israel-gaza-krieg-eskalation-bei-hilfsgueterausgabe-offenbar-24-tote-in-gaza-a-8ab894da-d2dd-4ad2-8a21-42505b66088f#ref=rss)
-* [https://www.spiegel.de/panorama/tuerkei-erdbeben-nahe-marmaris-mindestens-eine-tote](https://www.spiegel.de/panorama/tuerkei-erdbeben-nahe-marmaris-mindestens-eine-tote-a-101533f8-ce39-4764-afae-295ce5770a2c#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-eskalation-bei-hilfsgueterausgabe-offenbar-24-tote-in-gaza](https://www.spiegel.de/ausland/israel-gaza-krieg-eskalation-bei-hilfsgueterausgabe-offenbar-24-tote-in-gaza-a-8ab894da-d2dd-4ad2-8a21-42505b66088f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/usa-mann-soll-migrant-in-gefaelschte-morddrohungen-an-donald-trump-verwickelt-haben](https://www.spiegel.de/panorama/justiz/usa-mann-soll-migrant-in-gefaelschte-morddrohungen-an-donald-trump-verwickelt-haben-a-bf13c429-1ed5-4f28-9c9c-d7e3469e0f77#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/usa-setzen-handelspartner-in-zollverhandlungen-offenbar-unter-druck](https://www.spiegel.de/wirtschaft/unternehmen/usa-setzen-handelspartner-in-zollverhandlungen-offenbar-unter-druck-a-4a135cac-b7e0-4f8d-84c2-0965a5eaf547#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-krieg-wie-die-israelische-armee-palaestinenser-als-menschliche-schutzschilde-missbraucht](https://www.spiegel.de/ausland/gaza-krieg-wie-die-israelische-armee-palaestinenser-als-menschliche-schutzschilde-missbraucht-a-b2156123-9078-490f-bc05-161c8b4a1b33#ref=rss)
-* [https://www.spiegel.de/panorama/tuerkei-erdbeben-nahe-marmaris-mindestens-eine-tote](https://www.spiegel.de/panorama/tuerkei-erdbeben-nahe-marmaris-mindestens-eine-tote-a-101533f8-ce39-4764-afae-295ce5770a2c#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-eskalation-bei-hilfsgueterausgabe-offenbar-24-tote-in-gaza](https://www.spiegel.de/ausland/israel-gaza-krieg-eskalation-bei-hilfsgueterausgabe-offenbar-24-tote-in-gaza-a-8ab894da-d2dd-4ad2-8a21-42505b66088f#ref=rss)
-* [https://www.spiegel.de/panorama/tuerkei-erdbeben-nahe-marmaris-mindestens-eine-tote](https://www.spiegel.de/panorama/tuerkei-erdbeben-nahe-marmaris-mindestens-eine-tote-a-101533f8-ce39-4764-afae-295ce5770a2c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/neuralink-elon-musks-gehirnchip-firma-sammelt-650-millionen-dollar-ein](https://www.spiegel.de/wirtschaft/unternehmen/neuralink-elon-musks-gehirnchip-firma-sammelt-650-millionen-dollar-ein-a-f2a2224a-0cce-4ad7-8570-622fe6d049a5#ref=rss)
-* [https://www.spiegel.de/panorama/venedig-umstuerzender-baum-verletzt-ein-dutzend-menschen-an-bushaltestelle](https://www.spiegel.de/panorama/venedig-umstuerzender-baum-verletzt-ein-dutzend-menschen-an-bushaltestelle-a-997540ac-992e-4cc9-9637-782cb11a8073#ref=rss)
 ### ukraine
 
-* [https://www.spiegel.de/ausland/ukraine-tote-nach-angriffen-auf-sumy-stromausfall-im-besetzten-gebiet](https://www.spiegel.de/ausland/ukraine-tote-nach-angriffen-auf-sumy-stromausfall-im-besetzten-gebiet-a-562e8960-461b-48fb-99eb-8dfdeed0244a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/verkauf-des-fc-chelsea-britische-regierung-droht-roman-abramowitsch-mit-klage](https://www.spiegel.de/sport/fussball/verkauf-des-fc-chelsea-britische-regierung-droht-roman-abramowitsch-mit-klage-a-c73ea9c3-80ca-4ccb-b18e-828fd759aba9#ref=rss)
-### wir
-
-* [https://www.spiegel.de/politik/deutschland/migrationspolitik-merz-und-dobrindt-setzen-auf-zurueckweisungen-trotz-gerichtsurteil](https://www.spiegel.de/politik/deutschland/migrationspolitik-merz-und-dobrindt-setzen-auf-zurueckweisungen-trotz-gerichtsurteil-a-d6692e00-81b7-4dfd-997d-dfec35ec980d#ref=rss)
-* [https://www.spiegel.de/reise/fernweh/karibik-tourismus-auf-domenica-die-leute-dachten-wir-waeren-kannibalen](https://www.spiegel.de/reise/fernweh/karibik-tourismus-auf-domenica-die-leute-dachten-wir-waeren-kannibalen-a-2aaa8b7f-c510-4101-85e3-87b23c96795a#ref=rss)
-### steck
-
-* [https://www.spiegel.de/wirtschaft/cum-ex-kronzeuge-kai-uwe-steck-zu-bewaehrungsstrafe-verurteilt](https://www.spiegel.de/wirtschaft/cum-ex-kronzeuge-kai-uwe-steck-zu-bewaehrungsstrafe-verurteilt-a-3a509a0f-ed9e-4888-88c3-bcfc120928d4#ref=rss)
-### verurteilt
-
-* [https://www.spiegel.de/wirtschaft/cum-ex-kronzeuge-kai-uwe-steck-zu-bewaehrungsstrafe-verurteilt](https://www.spiegel.de/wirtschaft/cum-ex-kronzeuge-kai-uwe-steck-zu-bewaehrungsstrafe-verurteilt-a-3a509a0f-ed9e-4888-88c3-bcfc120928d4#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-40-jaehriger-nach-einbruch-bei-model-toni-garrn-zu-haft-verurteilt](https://www.spiegel.de/panorama/justiz/berlin-40-jaehriger-nach-einbruch-bei-model-toni-garrn-zu-haft-verurteilt-a-81d74796-bb8a-4b38-8b3b-5a2ae2768c5b#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/panorama/justiz/berlin-40-jaehriger-nach-einbruch-bei-model-toni-garrn-zu-haft-verurteilt](https://www.spiegel.de/panorama/justiz/berlin-40-jaehriger-nach-einbruch-bei-model-toni-garrn-zu-haft-verurteilt-a-81d74796-bb8a-4b38-8b3b-5a2ae2768c5b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-transfergeruechte-jobe-bellingham-soll-vor-wechsel-zum-bvb-stehen](https://www.spiegel.de/sport/fussball/fussball-transfergeruechte-jobe-bellingham-soll-vor-wechsel-zum-bvb-stehen-a-e6769e7f-7033-4607-a7db-73132b93cbc6#ref=rss)
-### günstiger
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/inflationsrate-schweiz-droht-die-deflation-preise-guenstiger](https://www.spiegel.de/wirtschaft/unternehmen/inflationsrate-schweiz-droht-die-deflation-preise-guenstiger-a-0c99cee9-35f1-44c5-bbe7-d4c244c15e7a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/kaufkraft-vergleich-wo-am-meisten-urlaub-fuer-ihr-geld-drin-ist](https://www.spiegel.de/wirtschaft/service/kaufkraft-vergleich-wo-am-meisten-urlaub-fuer-ihr-geld-drin-ist-a-58a4b4ee-1c36-4e6e-9b83-a1646a3bc910#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/panorama/leute/miley-cyrus-ich-sehe-meine-eltern-heute-als-individuen](https://www.spiegel.de/panorama/leute/miley-cyrus-ich-sehe-meine-eltern-heute-als-individuen-a-c1076a63-0b7f-4b08-9bf0-7ba81df31b35#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/antidiskriminierungsstelle-zahl-der-ratsuchenden-seit-2019-mehr-als-verdoppelt](https://www.spiegel.de/politik/deutschland/antidiskriminierungsstelle-zahl-der-ratsuchenden-seit-2019-mehr-als-verdoppelt-a-2ff0bac5-6bf3-451b-803a-48d3184b8bf9#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-krieg-wie-die-israelische-armee-palaestinenser-als-menschliche-schutzschilde-missbraucht](https://www.spiegel.de/ausland/gaza-krieg-wie-die-israelische-armee-palaestinenser-als-menschliche-schutzschilde-missbraucht-a-b2156123-9078-490f-bc05-161c8b4a1b33#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/politik/deutschland/antidiskriminierungsstelle-zahl-der-ratsuchenden-seit-2019-mehr-als-verdoppelt](https://www.spiegel.de/politik/deutschland/antidiskriminierungsstelle-zahl-der-ratsuchenden-seit-2019-mehr-als-verdoppelt-a-2ff0bac5-6bf3-451b-803a-48d3184b8bf9#ref=rss)
-* [https://www.spiegel.de/reise/fernweh/karibik-tourismus-auf-domenica-die-leute-dachten-wir-waeren-kannibalen](https://www.spiegel.de/reise/fernweh/karibik-tourismus-auf-domenica-die-leute-dachten-wir-waeren-kannibalen-a-2aaa8b7f-c510-4101-85e3-87b23c96795a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/neuralink-elon-musks-gehirnchip-firma-sammelt-650-millionen-dollar-ein](https://www.spiegel.de/wirtschaft/unternehmen/neuralink-elon-musks-gehirnchip-firma-sammelt-650-millionen-dollar-ein-a-f2a2224a-0cce-4ad7-8570-622fe6d049a5#ref=rss)
-### weniger
-
-* [https://www.spiegel.de/karriere/urlaubsgeld-immer-weniger-angestellte-bekommen-zuschuss-zur-urlaubskasse](https://www.spiegel.de/karriere/urlaubsgeld-immer-weniger-angestellte-bekommen-zuschuss-zur-urlaubskasse-a-671053bd-bde9-4104-98aa-0085337bfca9#ref=rss)
-* [https://www.spiegel.de/panorama/deutschland-produziert-weniger-muell-niedrigster-stand-seit-2010](https://www.spiegel.de/panorama/deutschland-produziert-weniger-muell-niedrigster-stand-seit-2010-a-72e73032-8aad-4d51-aea5-2a557633be01#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/panorama/deutschland-produziert-weniger-muell-niedrigster-stand-seit-2010](https://www.spiegel.de/panorama/deutschland-produziert-weniger-muell-niedrigster-stand-seit-2010-a-72e73032-8aad-4d51-aea5-2a557633be01#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/erdbeeren-aus-deutschland-warum-die-produktion-teurer-geworden-ist-und-was-das-fuer-verbraucher-bedeutet](https://www.spiegel.de/wirtschaft/service/erdbeeren-aus-deutschland-warum-die-produktion-teurer-geworden-ist-und-was-das-fuer-verbraucher-bedeutet-a-466a76d4-8a69-44c0-b956-a9eff07427df#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/kaufkraft-vergleich-wo-am-meisten-urlaub-fuer-ihr-geld-drin-ist](https://www.spiegel.de/wirtschaft/service/kaufkraft-vergleich-wo-am-meisten-urlaub-fuer-ihr-geld-drin-ist-a-58a4b4ee-1c36-4e6e-9b83-a1646a3bc910#ref=rss)
-### nahe
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-eskalation-bei-hilfsgueterausgabe-offenbar-24-tote-in-gaza](https://www.spiegel.de/ausland/israel-gaza-krieg-eskalation-bei-hilfsgueterausgabe-offenbar-24-tote-in-gaza-a-8ab894da-d2dd-4ad2-8a21-42505b66088f#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-krieg-wie-die-israelische-armee-palaestinenser-als-menschliche-schutzschilde-missbraucht](https://www.spiegel.de/ausland/gaza-krieg-wie-die-israelische-armee-palaestinenser-als-menschliche-schutzschilde-missbraucht-a-b2156123-9078-490f-bc05-161c8b4a1b33#ref=rss)
-* [https://www.spiegel.de/panorama/tuerkei-erdbeben-nahe-marmaris-mindestens-eine-tote](https://www.spiegel.de/panorama/tuerkei-erdbeben-nahe-marmaris-mindestens-eine-tote-a-101533f8-ce39-4764-afae-295ce5770a2c#ref=rss)
-### armee
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-eskalation-bei-hilfsgueterausgabe-offenbar-24-tote-in-gaza](https://www.spiegel.de/ausland/israel-gaza-krieg-eskalation-bei-hilfsgueterausgabe-offenbar-24-tote-in-gaza-a-8ab894da-d2dd-4ad2-8a21-42505b66088f#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-krieg-wie-die-israelische-armee-palaestinenser-als-menschliche-schutzschilde-missbraucht](https://www.spiegel.de/ausland/gaza-krieg-wie-die-israelische-armee-palaestinenser-als-menschliche-schutzschilde-missbraucht-a-b2156123-9078-490f-bc05-161c8b4a1b33#ref=rss)
-### geld
-
-* [https://www.spiegel.de/sport/fussball/verkauf-des-fc-chelsea-britische-regierung-droht-roman-abramowitsch-mit-klage](https://www.spiegel.de/sport/fussball/verkauf-des-fc-chelsea-britische-regierung-droht-roman-abramowitsch-mit-klage-a-c73ea9c3-80ca-4ccb-b18e-828fd759aba9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/kaufkraft-vergleich-wo-am-meisten-urlaub-fuer-ihr-geld-drin-ist](https://www.spiegel.de/wirtschaft/service/kaufkraft-vergleich-wo-am-meisten-urlaub-fuer-ihr-geld-drin-ist-a-58a4b4ee-1c36-4e6e-9b83-a1646a3bc910#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/neuralink-elon-musks-gehirnchip-firma-sammelt-650-millionen-dollar-ein](https://www.spiegel.de/wirtschaft/unternehmen/neuralink-elon-musks-gehirnchip-firma-sammelt-650-millionen-dollar-ein-a-f2a2224a-0cce-4ad7-8570-622fe6d049a5#ref=rss)
-### andreas
-
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-generalmajor-andreas-henne-zweifelt-an-wehrdienst-ohne-pflichtelemente](https://www.spiegel.de/politik/deutschland/bundeswehr-generalmajor-andreas-henne-zweifelt-an-wehrdienst-ohne-pflichtelemente-a-ae1f0189-bfca-4e9a-8c21-c89386d6a860#ref=rss)
-* [https://www.spiegel.de/panorama/cannabis-social-clubs-lizenzprobleme-und-buerokratische-huerden-nach-einem-jahr](https://www.spiegel.de/panorama/cannabis-social-clubs-lizenzprobleme-und-buerokratische-huerden-nach-einem-jahr-a-6f93452a-6939-485e-9729-3c8e07e294f5#ref=rss)
-### clint
-
-* [https://www.spiegel.de/kultur/kino/clint-eastwood-hollywood-star-nennt-kurier-interview-gefaelscht](https://www.spiegel.de/kultur/kino/clint-eastwood-hollywood-star-nennt-kurier-interview-gefaelscht-a-ad54600c-203c-44e0-8202-a4a2e6c48540#ref=rss)
-### eastwood
-
-* [https://www.spiegel.de/kultur/kino/clint-eastwood-hollywood-star-nennt-kurier-interview-gefaelscht](https://www.spiegel.de/kultur/kino/clint-eastwood-hollywood-star-nennt-kurier-interview-gefaelscht-a-ad54600c-203c-44e0-8202-a4a2e6c48540#ref=rss)
-### nennt
-
-* [https://www.spiegel.de/kultur/kino/clint-eastwood-hollywood-star-nennt-kurier-interview-gefaelscht](https://www.spiegel.de/kultur/kino/clint-eastwood-hollywood-star-nennt-kurier-interview-gefaelscht-a-ad54600c-203c-44e0-8202-a4a2e6c48540#ref=rss)
-### gefälscht
-
-* [https://www.spiegel.de/kultur/kino/clint-eastwood-hollywood-star-nennt-kurier-interview-gefaelscht](https://www.spiegel.de/kultur/kino/clint-eastwood-hollywood-star-nennt-kurier-interview-gefaelscht-a-ad54600c-203c-44e0-8202-a4a2e6c48540#ref=rss)
-### angriffen
-
-* [https://www.spiegel.de/ausland/ukraine-tote-nach-angriffen-auf-sumy-stromausfall-im-besetzten-gebiet](https://www.spiegel.de/ausland/ukraine-tote-nach-angriffen-auf-sumy-stromausfall-im-besetzten-gebiet-a-562e8960-461b-48fb-99eb-8dfdeed0244a#ref=rss)
-### sumy
-
-* [https://www.spiegel.de/ausland/ukraine-tote-nach-angriffen-auf-sumy-stromausfall-im-besetzten-gebiet](https://www.spiegel.de/ausland/ukraine-tote-nach-angriffen-auf-sumy-stromausfall-im-besetzten-gebiet-a-562e8960-461b-48fb-99eb-8dfdeed0244a#ref=rss)
-### neue
-
-* [https://www.spiegel.de/ausland/ukraine-tote-nach-angriffen-auf-sumy-stromausfall-im-besetzten-gebiet](https://www.spiegel.de/ausland/ukraine-tote-nach-angriffen-auf-sumy-stromausfall-im-besetzten-gebiet-a-562e8960-461b-48fb-99eb-8dfdeed0244a#ref=rss)
-* [https://www.spiegel.de/panorama/leute/miley-cyrus-ich-sehe-meine-eltern-heute-als-individuen](https://www.spiegel.de/panorama/leute/miley-cyrus-ich-sehe-meine-eltern-heute-als-individuen-a-c1076a63-0b7f-4b08-9bf0-7ba81df31b35#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/migrationspolitik-merz-und-dobrindt-setzen-auf-zurueckweisungen-trotz-gerichtsurteil](https://www.spiegel.de/politik/deutschland/migrationspolitik-merz-und-dobrindt-setzen-auf-zurueckweisungen-trotz-gerichtsurteil-a-d6692e00-81b7-4dfd-997d-dfec35ec980d#ref=rss)
-### dobrindt
-
-* [https://www.spiegel.de/politik/deutschland/migrationspolitik-merz-und-dobrindt-setzen-auf-zurueckweisungen-trotz-gerichtsurteil](https://www.spiegel.de/politik/deutschland/migrationspolitik-merz-und-dobrindt-setzen-auf-zurueckweisungen-trotz-gerichtsurteil-a-d6692e00-81b7-4dfd-997d-dfec35ec980d#ref=rss)
-### setzen
-
-* [https://www.spiegel.de/politik/deutschland/migrationspolitik-merz-und-dobrindt-setzen-auf-zurueckweisungen-trotz-gerichtsurteil](https://www.spiegel.de/politik/deutschland/migrationspolitik-merz-und-dobrindt-setzen-auf-zurueckweisungen-trotz-gerichtsurteil-a-d6692e00-81b7-4dfd-997d-dfec35ec980d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/usa-setzen-handelspartner-in-zollverhandlungen-offenbar-unter-druck](https://www.spiegel.de/wirtschaft/unternehmen/usa-setzen-handelspartner-in-zollverhandlungen-offenbar-unter-druck-a-4a135cac-b7e0-4f8d-84c2-0965a5eaf547#ref=rss)
-### zurückweisungen
-
-* [https://www.spiegel.de/politik/deutschland/migrationspolitik-merz-und-dobrindt-setzen-auf-zurueckweisungen-trotz-gerichtsurteil](https://www.spiegel.de/politik/deutschland/migrationspolitik-merz-und-dobrindt-setzen-auf-zurueckweisungen-trotz-gerichtsurteil-a-d6692e00-81b7-4dfd-997d-dfec35ec980d#ref=rss)
-### panama
-
-* [https://www.spiegel.de/wirtschaft/panama-chiquita-entlaesst-gesamte-belegschaft](https://www.spiegel.de/wirtschaft/panama-chiquita-entlaesst-gesamte-belegschaft-a-9afc0975-9dbf-4ae4-b23f-8f08a9f182b4#ref=rss)
-### chiquita
-
-* [https://www.spiegel.de/wirtschaft/panama-chiquita-entlaesst-gesamte-belegschaft](https://www.spiegel.de/wirtschaft/panama-chiquita-entlaesst-gesamte-belegschaft-a-9afc0975-9dbf-4ae4-b23f-8f08a9f182b4#ref=rss)
-### kronzeuge
-
-* [https://www.spiegel.de/wirtschaft/cum-ex-kronzeuge-kai-uwe-steck-zu-bewaehrungsstrafe-verurteilt](https://www.spiegel.de/wirtschaft/cum-ex-kronzeuge-kai-uwe-steck-zu-bewaehrungsstrafe-verurteilt-a-3a509a0f-ed9e-4888-88c3-bcfc120928d4#ref=rss)
-### kaiuwe
-
-* [https://www.spiegel.de/wirtschaft/cum-ex-kronzeuge-kai-uwe-steck-zu-bewaehrungsstrafe-verurteilt](https://www.spiegel.de/wirtschaft/cum-ex-kronzeuge-kai-uwe-steck-zu-bewaehrungsstrafe-verurteilt-a-3a509a0f-ed9e-4888-88c3-bcfc120928d4#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/wirtschaft/cum-ex-kronzeuge-kai-uwe-steck-zu-bewaehrungsstrafe-verurteilt](https://www.spiegel.de/wirtschaft/cum-ex-kronzeuge-kai-uwe-steck-zu-bewaehrungsstrafe-verurteilt-a-3a509a0f-ed9e-4888-88c3-bcfc120928d4#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/smartphones-wo-ist-und-geraet-finden-was-bringt-die-suchfunktion-wenn-das-handy-geklaut-wird](https://www.spiegel.de/netzwelt/gadgets/smartphones-wo-ist-und-geraet-finden-was-bringt-die-suchfunktion-wenn-das-handy-geklaut-wird-a-b55ff9e1-048d-4154-96f6-97a9e6b62e33#ref=rss)
-### gemacht
-
-* [https://www.spiegel.de/wirtschaft/cum-ex-kronzeuge-kai-uwe-steck-zu-bewaehrungsstrafe-verurteilt](https://www.spiegel.de/wirtschaft/cum-ex-kronzeuge-kai-uwe-steck-zu-bewaehrungsstrafe-verurteilt-a-3a509a0f-ed9e-4888-88c3-bcfc120928d4#ref=rss)
-* [https://www.spiegel.de/ausland/niederlande-rechtspopulist-geert-wilders-kuendigt-koalition-auf](https://www.spiegel.de/ausland/niederlande-rechtspopulist-geert-wilders-kuendigt-koalition-auf-a-3f633c8e-f082-4e7c-9406-56196a5dafe6#ref=rss)
-### landgericht
-
-* [https://www.spiegel.de/wirtschaft/cum-ex-kronzeuge-kai-uwe-steck-zu-bewaehrungsstrafe-verurteilt](https://www.spiegel.de/wirtschaft/cum-ex-kronzeuge-kai-uwe-steck-zu-bewaehrungsstrafe-verurteilt-a-3a509a0f-ed9e-4888-88c3-bcfc120928d4#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-40-jaehriger-nach-einbruch-bei-model-toni-garrn-zu-haft-verurteilt](https://www.spiegel.de/panorama/justiz/berlin-40-jaehriger-nach-einbruch-bei-model-toni-garrn-zu-haft-verurteilt-a-81d74796-bb8a-4b38-8b3b-5a2ae2768c5b#ref=rss)
-### 40jähriger
-
-* [https://www.spiegel.de/panorama/justiz/berlin-40-jaehriger-nach-einbruch-bei-model-toni-garrn-zu-haft-verurteilt](https://www.spiegel.de/panorama/justiz/berlin-40-jaehriger-nach-einbruch-bei-model-toni-garrn-zu-haft-verurteilt-a-81d74796-bb8a-4b38-8b3b-5a2ae2768c5b#ref=rss)
-### einbruch
-
-* [https://www.spiegel.de/panorama/justiz/berlin-40-jaehriger-nach-einbruch-bei-model-toni-garrn-zu-haft-verurteilt](https://www.spiegel.de/panorama/justiz/berlin-40-jaehriger-nach-einbruch-bei-model-toni-garrn-zu-haft-verurteilt-a-81d74796-bb8a-4b38-8b3b-5a2ae2768c5b#ref=rss)
-### model
-
-* [https://www.spiegel.de/panorama/justiz/berlin-40-jaehriger-nach-einbruch-bei-model-toni-garrn-zu-haft-verurteilt](https://www.spiegel.de/panorama/justiz/berlin-40-jaehriger-nach-einbruch-bei-model-toni-garrn-zu-haft-verurteilt-a-81d74796-bb8a-4b38-8b3b-5a2ae2768c5b#ref=rss)
-### toni
-
-* [https://www.spiegel.de/panorama/justiz/berlin-40-jaehriger-nach-einbruch-bei-model-toni-garrn-zu-haft-verurteilt](https://www.spiegel.de/panorama/justiz/berlin-40-jaehriger-nach-einbruch-bei-model-toni-garrn-zu-haft-verurteilt-a-81d74796-bb8a-4b38-8b3b-5a2ae2768c5b#ref=rss)
-### garrn
-
-* [https://www.spiegel.de/panorama/justiz/berlin-40-jaehriger-nach-einbruch-bei-model-toni-garrn-zu-haft-verurteilt](https://www.spiegel.de/panorama/justiz/berlin-40-jaehriger-nach-einbruch-bei-model-toni-garrn-zu-haft-verurteilt-a-81d74796-bb8a-4b38-8b3b-5a2ae2768c5b#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/justiz/berlin-40-jaehriger-nach-einbruch-bei-model-toni-garrn-zu-haft-verurteilt](https://www.spiegel.de/panorama/justiz/berlin-40-jaehriger-nach-einbruch-bei-model-toni-garrn-zu-haft-verurteilt-a-81d74796-bb8a-4b38-8b3b-5a2ae2768c5b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/inflationsrate-schweiz-droht-die-deflation-preise-guenstiger](https://www.spiegel.de/wirtschaft/unternehmen/inflationsrate-schweiz-droht-die-deflation-preise-guenstiger-a-0c99cee9-35f1-44c5-bbe7-d4c244c15e7a#ref=rss)
-### inflationsrate
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/inflationsrate-schweiz-droht-die-deflation-preise-guenstiger](https://www.spiegel.de/wirtschaft/unternehmen/inflationsrate-schweiz-droht-die-deflation-preise-guenstiger-a-0c99cee9-35f1-44c5-bbe7-d4c244c15e7a#ref=rss)
-### schweiz
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/inflationsrate-schweiz-droht-die-deflation-preise-guenstiger](https://www.spiegel.de/wirtschaft/unternehmen/inflationsrate-schweiz-droht-die-deflation-preise-guenstiger-a-0c99cee9-35f1-44c5-bbe7-d4c244c15e7a#ref=rss)
-### droht
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/inflationsrate-schweiz-droht-die-deflation-preise-guenstiger](https://www.spiegel.de/wirtschaft/unternehmen/inflationsrate-schweiz-droht-die-deflation-preise-guenstiger-a-0c99cee9-35f1-44c5-bbe7-d4c244c15e7a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/verkauf-des-fc-chelsea-britische-regierung-droht-roman-abramowitsch-mit-klage](https://www.spiegel.de/sport/fussball/verkauf-des-fc-chelsea-britische-regierung-droht-roman-abramowitsch-mit-klage-a-c73ea9c3-80ca-4ccb-b18e-828fd759aba9#ref=rss)
-### preise
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/inflationsrate-schweiz-droht-die-deflation-preise-guenstiger](https://www.spiegel.de/wirtschaft/unternehmen/inflationsrate-schweiz-droht-die-deflation-preise-guenstiger-a-0c99cee9-35f1-44c5-bbe7-d4c244c15e7a#ref=rss)
-### prozent
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/inflationsrate-schweiz-droht-die-deflation-preise-guenstiger](https://www.spiegel.de/wirtschaft/unternehmen/inflationsrate-schweiz-droht-die-deflation-preise-guenstiger-a-0c99cee9-35f1-44c5-bbe7-d4c244c15e7a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/erdbeeren-aus-deutschland-warum-die-produktion-teurer-geworden-ist-und-was-das-fuer-verbraucher-bedeutet](https://www.spiegel.de/wirtschaft/service/erdbeeren-aus-deutschland-warum-die-produktion-teurer-geworden-ist-und-was-das-fuer-verbraucher-bedeutet-a-466a76d4-8a69-44c0-b956-a9eff07427df#ref=rss)
-### gar
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/inflationsrate-schweiz-droht-die-deflation-preise-guenstiger](https://www.spiegel.de/wirtschaft/unternehmen/inflationsrate-schweiz-droht-die-deflation-preise-guenstiger-a-0c99cee9-35f1-44c5-bbe7-d4c244c15e7a#ref=rss)
-* [https://www.spiegel.de/karriere/urlaubsgeld-immer-weniger-angestellte-bekommen-zuschuss-zur-urlaubskasse](https://www.spiegel.de/karriere/urlaubsgeld-immer-weniger-angestellte-bekommen-zuschuss-zur-urlaubskasse-a-671053bd-bde9-4104-98aa-0085337bfca9#ref=rss)
-### geworden
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/inflationsrate-schweiz-droht-die-deflation-preise-guenstiger](https://www.spiegel.de/wirtschaft/unternehmen/inflationsrate-schweiz-droht-die-deflation-preise-guenstiger-a-0c99cee9-35f1-44c5-bbe7-d4c244c15e7a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/erdbeeren-aus-deutschland-warum-die-produktion-teurer-geworden-ist-und-was-das-fuer-verbraucher-bedeutet](https://www.spiegel.de/wirtschaft/service/erdbeeren-aus-deutschland-warum-die-produktion-teurer-geworden-ist-und-was-das-fuer-verbraucher-bedeutet-a-466a76d4-8a69-44c0-b956-a9eff07427df#ref=rss)
-### miley
-
-* [https://www.spiegel.de/panorama/leute/miley-cyrus-ich-sehe-meine-eltern-heute-als-individuen](https://www.spiegel.de/panorama/leute/miley-cyrus-ich-sehe-meine-eltern-heute-als-individuen-a-c1076a63-0b7f-4b08-9bf0-7ba81df31b35#ref=rss)
-### eltern
-
-* [https://www.spiegel.de/panorama/leute/miley-cyrus-ich-sehe-meine-eltern-heute-als-individuen](https://www.spiegel.de/panorama/leute/miley-cyrus-ich-sehe-meine-eltern-heute-als-individuen-a-c1076a63-0b7f-4b08-9bf0-7ba81df31b35#ref=rss)
-### boy
-
-* [https://www.spiegel.de/kultur/literatur/krimi-tipp-boy-parts-von-eliza-clark-ueber-die-grenze-des-ertraeglichen](https://www.spiegel.de/kultur/literatur/krimi-tipp-boy-parts-von-eliza-clark-ueber-die-grenze-des-ertraeglichen-a-d06fa08c-c1ee-499b-96c4-7fba98aac846#ref=rss)
-### parts
-
-* [https://www.spiegel.de/kultur/literatur/krimi-tipp-boy-parts-von-eliza-clark-ueber-die-grenze-des-ertraeglichen](https://www.spiegel.de/kultur/literatur/krimi-tipp-boy-parts-von-eliza-clark-ueber-die-grenze-des-ertraeglichen-a-d06fa08c-c1ee-499b-96c4-7fba98aac846#ref=rss)
-### fünf
-
-* [https://www.spiegel.de/kultur/literatur/krimi-tipp-boy-parts-von-eliza-clark-ueber-die-grenze-des-ertraeglichen](https://www.spiegel.de/kultur/literatur/krimi-tipp-boy-parts-von-eliza-clark-ueber-die-grenze-des-ertraeglichen-a-d06fa08c-c1ee-499b-96c4-7fba98aac846#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/antidiskriminierungsstelle-zahl-der-ratsuchenden-seit-2019-mehr-als-verdoppelt](https://www.spiegel.de/politik/deutschland/antidiskriminierungsstelle-zahl-der-ratsuchenden-seit-2019-mehr-als-verdoppelt-a-2ff0bac5-6bf3-451b-803a-48d3184b8bf9#ref=rss)
-### antidiskriminierungsstelle
-
-* [https://www.spiegel.de/politik/deutschland/antidiskriminierungsstelle-zahl-der-ratsuchenden-seit-2019-mehr-als-verdoppelt](https://www.spiegel.de/politik/deutschland/antidiskriminierungsstelle-zahl-der-ratsuchenden-seit-2019-mehr-als-verdoppelt-a-2ff0bac5-6bf3-451b-803a-48d3184b8bf9#ref=rss)
-### zahl
-
-* [https://www.spiegel.de/politik/deutschland/antidiskriminierungsstelle-zahl-der-ratsuchenden-seit-2019-mehr-als-verdoppelt](https://www.spiegel.de/politik/deutschland/antidiskriminierungsstelle-zahl-der-ratsuchenden-seit-2019-mehr-als-verdoppelt-a-2ff0bac5-6bf3-451b-803a-48d3184b8bf9#ref=rss)
-### verdoppelt
-
-* [https://www.spiegel.de/politik/deutschland/antidiskriminierungsstelle-zahl-der-ratsuchenden-seit-2019-mehr-als-verdoppelt](https://www.spiegel.de/politik/deutschland/antidiskriminierungsstelle-zahl-der-ratsuchenden-seit-2019-mehr-als-verdoppelt-a-2ff0bac5-6bf3-451b-803a-48d3184b8bf9#ref=rss)
-### viele
-
-* [https://www.spiegel.de/politik/deutschland/antidiskriminierungsstelle-zahl-der-ratsuchenden-seit-2019-mehr-als-verdoppelt](https://www.spiegel.de/politik/deutschland/antidiskriminierungsstelle-zahl-der-ratsuchenden-seit-2019-mehr-als-verdoppelt-a-2ff0bac5-6bf3-451b-803a-48d3184b8bf9#ref=rss)
-* [https://www.spiegel.de/karriere/urlaubsgeld-immer-weniger-angestellte-bekommen-zuschuss-zur-urlaubskasse](https://www.spiegel.de/karriere/urlaubsgeld-immer-weniger-angestellte-bekommen-zuschuss-zur-urlaubskasse-a-671053bd-bde9-4104-98aa-0085337bfca9#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/politik/deutschland/antidiskriminierungsstelle-zahl-der-ratsuchenden-seit-2019-mehr-als-verdoppelt](https://www.spiegel.de/politik/deutschland/antidiskriminierungsstelle-zahl-der-ratsuchenden-seit-2019-mehr-als-verdoppelt-a-2ff0bac5-6bf3-451b-803a-48d3184b8bf9#ref=rss)
-* [https://www.spiegel.de/panorama/deutschland-produziert-weniger-muell-niedrigster-stand-seit-2010](https://www.spiegel.de/panorama/deutschland-produziert-weniger-muell-niedrigster-stand-seit-2010-a-72e73032-8aad-4d51-aea5-2a557633be01#ref=rss)
-### bekommen
-
-* [https://www.spiegel.de/karriere/urlaubsgeld-immer-weniger-angestellte-bekommen-zuschuss-zur-urlaubskasse](https://www.spiegel.de/karriere/urlaubsgeld-immer-weniger-angestellte-bekommen-zuschuss-zur-urlaubskasse-a-671053bd-bde9-4104-98aa-0085337bfca9#ref=rss)
-### zuschuss
-
-* [https://www.spiegel.de/karriere/urlaubsgeld-immer-weniger-angestellte-bekommen-zuschuss-zur-urlaubskasse](https://www.spiegel.de/karriere/urlaubsgeld-immer-weniger-angestellte-bekommen-zuschuss-zur-urlaubskasse-a-671053bd-bde9-4104-98aa-0085337bfca9#ref=rss)
-### urlaubskasse
-
-* [https://www.spiegel.de/karriere/urlaubsgeld-immer-weniger-angestellte-bekommen-zuschuss-zur-urlaubskasse](https://www.spiegel.de/karriere/urlaubsgeld-immer-weniger-angestellte-bekommen-zuschuss-zur-urlaubskasse-a-671053bd-bde9-4104-98aa-0085337bfca9#ref=rss)
-### euro
-
-* [https://www.spiegel.de/karriere/urlaubsgeld-immer-weniger-angestellte-bekommen-zuschuss-zur-urlaubskasse](https://www.spiegel.de/karriere/urlaubsgeld-immer-weniger-angestellte-bekommen-zuschuss-zur-urlaubskasse-a-671053bd-bde9-4104-98aa-0085337bfca9#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/panorama/deutschland-produziert-weniger-muell-niedrigster-stand-seit-2010](https://www.spiegel.de/panorama/deutschland-produziert-weniger-muell-niedrigster-stand-seit-2010-a-72e73032-8aad-4d51-aea5-2a557633be01#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/neuralink-elon-musks-gehirnchip-firma-sammelt-650-millionen-dollar-ein](https://www.spiegel.de/wirtschaft/unternehmen/neuralink-elon-musks-gehirnchip-firma-sammelt-650-millionen-dollar-ein-a-f2a2224a-0cce-4ad7-8570-622fe6d049a5#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/panorama/deutschland-produziert-weniger-muell-niedrigster-stand-seit-2010](https://www.spiegel.de/panorama/deutschland-produziert-weniger-muell-niedrigster-stand-seit-2010-a-72e73032-8aad-4d51-aea5-2a557633be01#ref=rss)
-* [https://www.spiegel.de/panorama/cannabis-social-clubs-lizenzprobleme-und-buerokratische-huerden-nach-einem-jahr](https://www.spiegel.de/panorama/cannabis-social-clubs-lizenzprobleme-und-buerokratische-huerden-nach-einem-jahr-a-6f93452a-6939-485e-9729-3c8e07e294f5#ref=rss)
-### 24
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-eskalation-bei-hilfsgueterausgabe-offenbar-24-tote-in-gaza](https://www.spiegel.de/ausland/israel-gaza-krieg-eskalation-bei-hilfsgueterausgabe-offenbar-24-tote-in-gaza-a-8ab894da-d2dd-4ad2-8a21-42505b66088f#ref=rss)
-### behörden
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-eskalation-bei-hilfsgueterausgabe-offenbar-24-tote-in-gaza](https://www.spiegel.de/ausland/israel-gaza-krieg-eskalation-bei-hilfsgueterausgabe-offenbar-24-tote-in-gaza-a-8ab894da-d2dd-4ad2-8a21-42505b66088f#ref=rss)
-* [https://www.spiegel.de/panorama/cannabis-social-clubs-lizenzprobleme-und-buerokratische-huerden-nach-einem-jahr](https://www.spiegel.de/panorama/cannabis-social-clubs-lizenzprobleme-und-buerokratische-huerden-nach-einem-jahr-a-6f93452a-6939-485e-9729-3c8e07e294f5#ref=rss)
-### mindestens
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-eskalation-bei-hilfsgueterausgabe-offenbar-24-tote-in-gaza](https://www.spiegel.de/ausland/israel-gaza-krieg-eskalation-bei-hilfsgueterausgabe-offenbar-24-tote-in-gaza-a-8ab894da-d2dd-4ad2-8a21-42505b66088f#ref=rss)
-* [https://www.spiegel.de/panorama/tuerkei-erdbeben-nahe-marmaris-mindestens-eine-tote](https://www.spiegel.de/panorama/tuerkei-erdbeben-nahe-marmaris-mindestens-eine-tote-a-101533f8-ce39-4764-afae-295ce5770a2c#ref=rss)
-### usa
-
-* [https://www.spiegel.de/panorama/justiz/usa-mann-soll-migrant-in-gefaelschte-morddrohungen-an-donald-trump-verwickelt-haben](https://www.spiegel.de/panorama/justiz/usa-mann-soll-migrant-in-gefaelschte-morddrohungen-an-donald-trump-verwickelt-haben-a-bf13c429-1ed5-4f28-9c9c-d7e3469e0f77#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/usa-setzen-handelspartner-in-zollverhandlungen-offenbar-unter-druck](https://www.spiegel.de/wirtschaft/unternehmen/usa-setzen-handelspartner-in-zollverhandlungen-offenbar-unter-druck-a-4a135cac-b7e0-4f8d-84c2-0965a5eaf547#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/justiz/usa-mann-soll-migrant-in-gefaelschte-morddrohungen-an-donald-trump-verwickelt-haben](https://www.spiegel.de/panorama/justiz/usa-mann-soll-migrant-in-gefaelschte-morddrohungen-an-donald-trump-verwickelt-haben-a-bf13c429-1ed5-4f28-9c9c-d7e3469e0f77#ref=rss)
-### donald
-
-* [https://www.spiegel.de/panorama/justiz/usa-mann-soll-migrant-in-gefaelschte-morddrohungen-an-donald-trump-verwickelt-haben](https://www.spiegel.de/panorama/justiz/usa-mann-soll-migrant-in-gefaelschte-morddrohungen-an-donald-trump-verwickelt-haben-a-bf13c429-1ed5-4f28-9c9c-d7e3469e0f77#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/usa-setzen-handelspartner-in-zollverhandlungen-offenbar-unter-druck](https://www.spiegel.de/wirtschaft/unternehmen/usa-setzen-handelspartner-in-zollverhandlungen-offenbar-unter-druck-a-4a135cac-b7e0-4f8d-84c2-0965a5eaf547#ref=rss)
-### trump
-
-* [https://www.spiegel.de/panorama/justiz/usa-mann-soll-migrant-in-gefaelschte-morddrohungen-an-donald-trump-verwickelt-haben](https://www.spiegel.de/panorama/justiz/usa-mann-soll-migrant-in-gefaelschte-morddrohungen-an-donald-trump-verwickelt-haben-a-bf13c429-1ed5-4f28-9c9c-d7e3469e0f77#ref=rss)
-### sollte
-
-* [https://www.spiegel.de/panorama/justiz/usa-mann-soll-migrant-in-gefaelschte-morddrohungen-an-donald-trump-verwickelt-haben](https://www.spiegel.de/panorama/justiz/usa-mann-soll-migrant-in-gefaelschte-morddrohungen-an-donald-trump-verwickelt-haben-a-bf13c429-1ed5-4f28-9c9c-d7e3469e0f77#ref=rss)
-* [https://www.spiegel.de/sport/fussball/verkauf-des-fc-chelsea-britische-regierung-droht-roman-abramowitsch-mit-klage](https://www.spiegel.de/sport/fussball/verkauf-des-fc-chelsea-britische-regierung-droht-roman-abramowitsch-mit-klage-a-c73ea9c3-80ca-4ccb-b18e-828fd759aba9#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/verkauf-des-fc-chelsea-britische-regierung-droht-roman-abramowitsch-mit-klage](https://www.spiegel.de/sport/fussball/verkauf-des-fc-chelsea-britische-regierung-droht-roman-abramowitsch-mit-klage-a-c73ea9c3-80ca-4ccb-b18e-828fd759aba9#ref=rss)
-### chelsea
-
-* [https://www.spiegel.de/sport/fussball/verkauf-des-fc-chelsea-britische-regierung-droht-roman-abramowitsch-mit-klage](https://www.spiegel.de/sport/fussball/verkauf-des-fc-chelsea-britische-regierung-droht-roman-abramowitsch-mit-klage-a-c73ea9c3-80ca-4ccb-b18e-828fd759aba9#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/sport/fussball/verkauf-des-fc-chelsea-britische-regierung-droht-roman-abramowitsch-mit-klage](https://www.spiegel.de/sport/fussball/verkauf-des-fc-chelsea-britische-regierung-droht-roman-abramowitsch-mit-klage-a-c73ea9c3-80ca-4ccb-b18e-828fd759aba9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/usa-setzen-handelspartner-in-zollverhandlungen-offenbar-unter-druck](https://www.spiegel.de/wirtschaft/unternehmen/usa-setzen-handelspartner-in-zollverhandlungen-offenbar-unter-druck-a-4a135cac-b7e0-4f8d-84c2-0965a5eaf547#ref=rss)
-### roman
-
-* [https://www.spiegel.de/sport/fussball/verkauf-des-fc-chelsea-britische-regierung-droht-roman-abramowitsch-mit-klage](https://www.spiegel.de/sport/fussball/verkauf-des-fc-chelsea-britische-regierung-droht-roman-abramowitsch-mit-klage-a-c73ea9c3-80ca-4ccb-b18e-828fd759aba9#ref=rss)
-### abramowitsch
-
-* [https://www.spiegel.de/sport/fussball/verkauf-des-fc-chelsea-britische-regierung-droht-roman-abramowitsch-mit-klage](https://www.spiegel.de/sport/fussball/verkauf-des-fc-chelsea-britische-regierung-droht-roman-abramowitsch-mit-klage-a-c73ea9c3-80ca-4ccb-b18e-828fd759aba9#ref=rss)
-### erdbeeren
-
-* [https://www.spiegel.de/wirtschaft/service/erdbeeren-aus-deutschland-warum-die-produktion-teurer-geworden-ist-und-was-das-fuer-verbraucher-bedeutet](https://www.spiegel.de/wirtschaft/service/erdbeeren-aus-deutschland-warum-die-produktion-teurer-geworden-ist-und-was-das-fuer-verbraucher-bedeutet-a-466a76d4-8a69-44c0-b956-a9eff07427df#ref=rss)
-### wo
-
-* [https://www.spiegel.de/wirtschaft/service/kaufkraft-vergleich-wo-am-meisten-urlaub-fuer-ihr-geld-drin-ist](https://www.spiegel.de/wirtschaft/service/kaufkraft-vergleich-wo-am-meisten-urlaub-fuer-ihr-geld-drin-ist-a-58a4b4ee-1c36-4e6e-9b83-a1646a3bc910#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/smartphones-wo-ist-und-geraet-finden-was-bringt-die-suchfunktion-wenn-das-handy-geklaut-wird](https://www.spiegel.de/netzwelt/gadgets/smartphones-wo-ist-und-geraet-finden-was-bringt-die-suchfunktion-wenn-das-handy-geklaut-wird-a-b55ff9e1-048d-4154-96f6-97a9e6b62e33#ref=rss)
-### domenica
-
-* [https://www.spiegel.de/reise/fernweh/karibik-tourismus-auf-domenica-die-leute-dachten-wir-waeren-kannibalen](https://www.spiegel.de/reise/fernweh/karibik-tourismus-auf-domenica-die-leute-dachten-wir-waeren-kannibalen-a-2aaa8b7f-c510-4101-85e3-87b23c96795a#ref=rss)
-### liberale
-
-* [https://www.spiegel.de/ausland/polen-das-liberale-europa-steht-der-herausforderung-durch-populisten-hilflos-gegenueber](https://www.spiegel.de/ausland/polen-das-liberale-europa-steht-der-herausforderung-durch-populisten-hilflos-gegenueber-a-28090c86-954c-43c5-a43f-9541f3653ccc#ref=rss)
+* [https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa](https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa-a-72e51e7b-ac3e-4e42-8cc1-6df164676d07#ref=rss)
+* [https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa](https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa-a-0ca9bef0-54c2-49ea-b2b2-0b656fd4aaf6#ref=rss)
+* [https://www.spiegel.de/ausland/krim-ukraine-meldet-unterwasserangriff-auf-bruecke](https://www.spiegel.de/ausland/krim-ukraine-meldet-unterwasserangriff-auf-bruecke-a-1a105775-b17a-4392-81e2-12c32ae39226#ref=rss)
 ### europa
 
-* [https://www.spiegel.de/ausland/polen-das-liberale-europa-steht-der-herausforderung-durch-populisten-hilflos-gegenueber](https://www.spiegel.de/ausland/polen-das-liberale-europa-steht-der-herausforderung-durch-populisten-hilflos-gegenueber-a-28090c86-954c-43c5-a43f-9541f3653ccc#ref=rss)
-### herausforderung
+* [https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa](https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa-a-72e51e7b-ac3e-4e42-8cc1-6df164676d07#ref=rss)
+* [https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa](https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa-a-0ca9bef0-54c2-49ea-b2b2-0b656fd4aaf6#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/waldbraende-kanadischer-rauch-zieht-ueber-den-atlantik-nach-europa](https://www.spiegel.de/wissenschaft/natur/waldbraende-kanadischer-rauch-zieht-ueber-den-atlantik-nach-europa-a-65ce08e1-623b-4272-aa63-aa7eff75244b#ref=rss)
+### trump
 
-* [https://www.spiegel.de/ausland/polen-das-liberale-europa-steht-der-herausforderung-durch-populisten-hilflos-gegenueber](https://www.spiegel.de/ausland/polen-das-liberale-europa-steht-der-herausforderung-durch-populisten-hilflos-gegenueber-a-28090c86-954c-43c5-a43f-9541f3653ccc#ref=rss)
-### populisten
+* [https://www.spiegel.de/politik/deutschland/die-linke-ines-schwerdtner-warnt-friedrich-merz-vor-kniefall-vor-donald-trump](https://www.spiegel.de/politik/deutschland/die-linke-ines-schwerdtner-warnt-friedrich-merz-vor-kniefall-vor-donald-trump-a-c277379b-7b37-4cc5-a73b-6ca5f4313842#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-will-fannie-mae-und-freddie-mac-zurueck-an-die-boerse-bringen](https://www.spiegel.de/wirtschaft/donald-trump-will-fannie-mae-und-freddie-mac-zurueck-an-die-boerse-bringen-a-9383d883-6dee-47b6-9ce4-5cac7642c633#ref=rss)
+* [https://www.spiegel.de/wirtschaft/autokratische-politik-was-donald-trump-von-hugo-chavez-gelernt-hat](https://www.spiegel.de/wirtschaft/autokratische-politik-was-donald-trump-von-hugo-chavez-gelernt-hat-a-15d3570f-5417-4dd0-b094-3bf30d43fc95#ref=rss)
+### karol
 
-* [https://www.spiegel.de/ausland/polen-das-liberale-europa-steht-der-herausforderung-durch-populisten-hilflos-gegenueber](https://www.spiegel.de/ausland/polen-das-liberale-europa-steht-der-herausforderung-durch-populisten-hilflos-gegenueber-a-28090c86-954c-43c5-a43f-9541f3653ccc#ref=rss)
-### gegenüber
+* [https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa](https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa-a-72e51e7b-ac3e-4e42-8cc1-6df164676d07#ref=rss)
+* [https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa](https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa-a-0ca9bef0-54c2-49ea-b2b2-0b656fd4aaf6#ref=rss)
+### nawrocki
 
-* [https://www.spiegel.de/ausland/polen-das-liberale-europa-steht-der-herausforderung-durch-populisten-hilflos-gegenueber](https://www.spiegel.de/ausland/polen-das-liberale-europa-steht-der-herausforderung-durch-populisten-hilflos-gegenueber-a-28090c86-954c-43c5-a43f-9541f3653ccc#ref=rss)
+* [https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa](https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa-a-72e51e7b-ac3e-4e42-8cc1-6df164676d07#ref=rss)
+* [https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa](https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa-a-0ca9bef0-54c2-49ea-b2b2-0b656fd4aaf6#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-will-fannie-mae-und-freddie-mac-zurueck-an-die-boerse-bringen](https://www.spiegel.de/wirtschaft/donald-trump-will-fannie-mae-und-freddie-mac-zurueck-an-die-boerse-bringen-a-9383d883-6dee-47b6-9ce4-5cac7642c633#ref=rss)
+* [https://www.spiegel.de/ausland/niederlande-dick-schoof-tritt-nach-koalitionsbruch-zurueck-und-kuendigt-neuwahlen-an](https://www.spiegel.de/ausland/niederlande-dick-schoof-tritt-nach-koalitionsbruch-zurueck-und-kuendigt-neuwahlen-an-a-359d5c0d-7ad5-4f5e-bd23-ec4f54ccdabb#ref=rss)
 ### rechtspopulist
 
-* [https://www.spiegel.de/ausland/niederlande-rechtspopulist-geert-wilders-kuendigt-koalition-auf](https://www.spiegel.de/ausland/niederlande-rechtspopulist-geert-wilders-kuendigt-koalition-auf-a-3f633c8e-f082-4e7c-9406-56196a5dafe6#ref=rss)
+* [https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa](https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa-a-72e51e7b-ac3e-4e42-8cc1-6df164676d07#ref=rss)
+* [https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa](https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa-a-0ca9bef0-54c2-49ea-b2b2-0b656fd4aaf6#ref=rss)
+* [https://www.spiegel.de/ausland/niederlande-dick-schoof-tritt-nach-koalitionsbruch-zurueck-und-kuendigt-neuwahlen-an](https://www.spiegel.de/ausland/niederlande-dick-schoof-tritt-nach-koalitionsbruch-zurueck-und-kuendigt-neuwahlen-an-a-359d5c0d-7ad5-4f5e-bd23-ec4f54ccdabb#ref=rss)
+### neues
+
+* [https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa](https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa-a-72e51e7b-ac3e-4e42-8cc1-6df164676d07#ref=rss)
+* [https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa](https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa-a-0ca9bef0-54c2-49ea-b2b2-0b656fd4aaf6#ref=rss)
+* [https://www.spiegel.de/kultur/kino/james-cameron-verkuendet-neues-filmprojekt-ueber-fleischfressende-elfen](https://www.spiegel.de/kultur/kino/james-cameron-verkuendet-neues-filmprojekt-ueber-fleischfressende-elfen-a-d87f51f3-1b79-4b1f-9c4e-4bdc1bc21720#ref=rss)
+### erklärt
+
+* [https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa](https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa-a-72e51e7b-ac3e-4e42-8cc1-6df164676d07#ref=rss)
+* [https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa](https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa-a-0ca9bef0-54c2-49ea-b2b2-0b656fd4aaf6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/so-geht-es-nach-den-berliner-grenzbeschluessen-weiter](https://www.spiegel.de/politik/deutschland/so-geht-es-nach-den-berliner-grenzbeschluessen-weiter-a-5e804bc6-ad37-4771-899e-7f25ea2a0b5d#ref=rss)
+### drei
+
+* [https://www.spiegel.de/panorama/justiz/eisenbahnunglueck-von-garmisch-2022-da-hupft-der-zug-richtig](https://www.spiegel.de/panorama/justiz/eisenbahnunglueck-von-garmisch-2022-da-hupft-der-zug-richtig-a-1d644cbb-165e-4fbb-9c37-f3fec0c60616#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/so-geht-es-nach-den-berliner-grenzbeschluessen-weiter](https://www.spiegel.de/politik/deutschland/so-geht-es-nach-den-berliner-grenzbeschluessen-weiter-a-5e804bc6-ad37-4771-899e-7f25ea2a0b5d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/bankkunden-duerfen-drei-jahre-lang-unzulaessige-gebuehren-zurueckverlangen](https://www.spiegel.de/wirtschaft/service/bankkunden-duerfen-drei-jahre-lang-unzulaessige-gebuehren-zurueckverlangen-a-cceb9100-a9a9-4cf1-8055-7a33ec87b99f#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/deutschland/die-linke-ines-schwerdtner-warnt-friedrich-merz-vor-kniefall-vor-donald-trump](https://www.spiegel.de/politik/deutschland/die-linke-ines-schwerdtner-warnt-friedrich-merz-vor-kniefall-vor-donald-trump-a-c277379b-7b37-4cc5-a73b-6ca5f4313842#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-asylpolitik-israels-vorgehen-in-gaza-urteil-im-cum-ex-skandal](https://www.spiegel.de/politik/deutschland/news-des-tages-asylpolitik-israels-vorgehen-in-gaza-urteil-im-cum-ex-skandal-a-4070ba2b-124f-4b4c-a7ac-793818bc25d9#ref=rss)
+### donald
+
+* [https://www.spiegel.de/politik/deutschland/die-linke-ines-schwerdtner-warnt-friedrich-merz-vor-kniefall-vor-donald-trump](https://www.spiegel.de/politik/deutschland/die-linke-ines-schwerdtner-warnt-friedrich-merz-vor-kniefall-vor-donald-trump-a-c277379b-7b37-4cc5-a73b-6ca5f4313842#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-will-fannie-mae-und-freddie-mac-zurueck-an-die-boerse-bringen](https://www.spiegel.de/wirtschaft/donald-trump-will-fannie-mae-und-freddie-mac-zurueck-an-die-boerse-bringen-a-9383d883-6dee-47b6-9ce4-5cac7642c633#ref=rss)
+* [https://www.spiegel.de/wirtschaft/autokratische-politik-was-donald-trump-von-hugo-chavez-gelernt-hat](https://www.spiegel.de/wirtschaft/autokratische-politik-was-donald-trump-von-hugo-chavez-gelernt-hat-a-15d3570f-5417-4dd0-b094-3bf30d43fc95#ref=rss)
 ### geert
 
-* [https://www.spiegel.de/ausland/niederlande-rechtspopulist-geert-wilders-kuendigt-koalition-auf](https://www.spiegel.de/ausland/niederlande-rechtspopulist-geert-wilders-kuendigt-koalition-auf-a-3f633c8e-f082-4e7c-9406-56196a5dafe6#ref=rss)
+* [https://www.spiegel.de/ausland/geert-wilders-und-die-regierungskrise-in-den-haag-das-experiment-wird-abgebrochen](https://www.spiegel.de/ausland/geert-wilders-und-die-regierungskrise-in-den-haag-das-experiment-wird-abgebrochen-a-c6690f4a-2056-4009-915f-3ca41c9337b8#ref=rss)
+* [https://www.spiegel.de/ausland/niederlande-dick-schoof-tritt-nach-koalitionsbruch-zurueck-und-kuendigt-neuwahlen-an](https://www.spiegel.de/ausland/niederlande-dick-schoof-tritt-nach-koalitionsbruch-zurueck-und-kuendigt-neuwahlen-an-a-359d5c0d-7ad5-4f5e-bd23-ec4f54ccdabb#ref=rss)
 ### wilders
 
-* [https://www.spiegel.de/ausland/niederlande-rechtspopulist-geert-wilders-kuendigt-koalition-auf](https://www.spiegel.de/ausland/niederlande-rechtspopulist-geert-wilders-kuendigt-koalition-auf-a-3f633c8e-f082-4e7c-9406-56196a5dafe6#ref=rss)
-### streit
+* [https://www.spiegel.de/ausland/geert-wilders-und-die-regierungskrise-in-den-haag-das-experiment-wird-abgebrochen](https://www.spiegel.de/ausland/geert-wilders-und-die-regierungskrise-in-den-haag-das-experiment-wird-abgebrochen-a-c6690f4a-2056-4009-915f-3ca41c9337b8#ref=rss)
+* [https://www.spiegel.de/ausland/niederlande-dick-schoof-tritt-nach-koalitionsbruch-zurueck-und-kuendigt-neuwahlen-an](https://www.spiegel.de/ausland/niederlande-dick-schoof-tritt-nach-koalitionsbruch-zurueck-und-kuendigt-neuwahlen-an-a-359d5c0d-7ad5-4f5e-bd23-ec4f54ccdabb#ref=rss)
+### schoof
 
-* [https://www.spiegel.de/ausland/niederlande-rechtspopulist-geert-wilders-kuendigt-koalition-auf](https://www.spiegel.de/ausland/niederlande-rechtspopulist-geert-wilders-kuendigt-koalition-auf-a-3f633c8e-f082-4e7c-9406-56196a5dafe6#ref=rss)
-* [https://www.spiegel.de/geschichte/wilhelm-reissmueller-vom-donaukurier-streit-ueber-ehrenbuergerschaft-von-ingolstadt](https://www.spiegel.de/geschichte/wilhelm-reissmueller-vom-donaukurier-streit-ueber-ehrenbuergerschaft-von-ingolstadt-a-c2f03fb5-f826-41c4-b4b4-51bf14323d92#ref=rss)
-### israelische
+* [https://www.spiegel.de/ausland/niederlande-dick-schoof-tritt-nach-koalitionsbruch-zurueck-und-kuendigt-neuwahlen-an](https://www.spiegel.de/ausland/niederlande-dick-schoof-tritt-nach-koalitionsbruch-zurueck-und-kuendigt-neuwahlen-an-a-359d5c0d-7ad5-4f5e-bd23-ec4f54ccdabb#ref=rss)
+### milchstraße
 
-* [https://www.spiegel.de/ausland/gaza-krieg-wie-die-israelische-armee-palaestinenser-als-menschliche-schutzschilde-missbraucht](https://www.spiegel.de/ausland/gaza-krieg-wie-die-israelische-armee-palaestinenser-als-menschliche-schutzschilde-missbraucht-a-b2156123-9078-490f-bc05-161c8b4a1b33#ref=rss)
-### palästinenser
+* [https://www.spiegel.de/wissenschaft/weltall/milchstrasse-und-andromeda-galaxie-kollision-findet-womoeglich-nicht-statt](https://www.spiegel.de/wissenschaft/weltall/milchstrasse-und-andromeda-galaxie-kollision-findet-womoeglich-nicht-statt-a-b1b6020d-a2a1-4db0-bfff-f14dc35a3d70#ref=rss)
+### bisher
 
-* [https://www.spiegel.de/ausland/gaza-krieg-wie-die-israelische-armee-palaestinenser-als-menschliche-schutzschilde-missbraucht](https://www.spiegel.de/ausland/gaza-krieg-wie-die-israelische-armee-palaestinenser-als-menschliche-schutzschilde-missbraucht-a-b2156123-9078-490f-bc05-161c8b4a1b33#ref=rss)
-### menschliche
+* [https://www.spiegel.de/wissenschaft/weltall/milchstrasse-und-andromeda-galaxie-kollision-findet-womoeglich-nicht-statt](https://www.spiegel.de/wissenschaft/weltall/milchstrasse-und-andromeda-galaxie-kollision-findet-womoeglich-nicht-statt-a-b1b6020d-a2a1-4db0-bfff-f14dc35a3d70#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/die-linke-ines-schwerdtner-warnt-friedrich-merz-vor-kniefall-vor-donald-trump](https://www.spiegel.de/politik/deutschland/die-linke-ines-schwerdtner-warnt-friedrich-merz-vor-kniefall-vor-donald-trump-a-c277379b-7b37-4cc5-a73b-6ca5f4313842#ref=rss)
+### waren
 
-* [https://www.spiegel.de/ausland/gaza-krieg-wie-die-israelische-armee-palaestinenser-als-menschliche-schutzschilde-missbraucht](https://www.spiegel.de/ausland/gaza-krieg-wie-die-israelische-armee-palaestinenser-als-menschliche-schutzschilde-missbraucht-a-b2156123-9078-490f-bc05-161c8b4a1b33#ref=rss)
-### schutzschilde
+* [https://www.spiegel.de/wissenschaft/weltall/milchstrasse-und-andromeda-galaxie-kollision-findet-womoeglich-nicht-statt](https://www.spiegel.de/wissenschaft/weltall/milchstrasse-und-andromeda-galaxie-kollision-findet-womoeglich-nicht-statt-a-b1b6020d-a2a1-4db0-bfff-f14dc35a3d70#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/psychiatrie-zivildienst-koennte-zur-modernisierung-beigetragen-haben](https://www.spiegel.de/wissenschaft/medizin/psychiatrie-zivildienst-koennte-zur-modernisierung-beigetragen-haben-a-59b4ee98-b395-40e8-8e93-ef06b0cb6b67#ref=rss)
+### zivildienst
 
-* [https://www.spiegel.de/ausland/gaza-krieg-wie-die-israelische-armee-palaestinenser-als-menschliche-schutzschilde-missbraucht](https://www.spiegel.de/ausland/gaza-krieg-wie-die-israelische-armee-palaestinenser-als-menschliche-schutzschilde-missbraucht-a-b2156123-9078-490f-bc05-161c8b4a1b33#ref=rss)
-### bundeswehr
+* [https://www.spiegel.de/wissenschaft/medizin/psychiatrie-zivildienst-koennte-zur-modernisierung-beigetragen-haben](https://www.spiegel.de/wissenschaft/medizin/psychiatrie-zivildienst-koennte-zur-modernisierung-beigetragen-haben-a-59b4ee98-b395-40e8-8e93-ef06b0cb6b67#ref=rss)
+### sana
 
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-generalmajor-andreas-henne-zweifelt-an-wehrdienst-ohne-pflichtelemente](https://www.spiegel.de/politik/deutschland/bundeswehr-generalmajor-andreas-henne-zweifelt-an-wehrdienst-ohne-pflichtelemente-a-ae1f0189-bfca-4e9a-8c21-c89386d6a860#ref=rss)
-### generalmajor
+* [https://www.spiegel.de/ausland/sana-yousaf-17-jaehrige-tiktokerin-in-pakistan-getoetet](https://www.spiegel.de/ausland/sana-yousaf-17-jaehrige-tiktokerin-in-pakistan-getoetet-a-956ad6b9-662b-4297-b318-4e74adddcfda#ref=rss)
+### yousaf
 
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-generalmajor-andreas-henne-zweifelt-an-wehrdienst-ohne-pflichtelemente](https://www.spiegel.de/politik/deutschland/bundeswehr-generalmajor-andreas-henne-zweifelt-an-wehrdienst-ohne-pflichtelemente-a-ae1f0189-bfca-4e9a-8c21-c89386d6a860#ref=rss)
-### henne
+* [https://www.spiegel.de/ausland/sana-yousaf-17-jaehrige-tiktokerin-in-pakistan-getoetet](https://www.spiegel.de/ausland/sana-yousaf-17-jaehrige-tiktokerin-in-pakistan-getoetet-a-956ad6b9-662b-4297-b318-4e74adddcfda#ref=rss)
+### 17jährige
 
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-generalmajor-andreas-henne-zweifelt-an-wehrdienst-ohne-pflichtelemente](https://www.spiegel.de/politik/deutschland/bundeswehr-generalmajor-andreas-henne-zweifelt-an-wehrdienst-ohne-pflichtelemente-a-ae1f0189-bfca-4e9a-8c21-c89386d6a860#ref=rss)
-### allerdings
+* [https://www.spiegel.de/ausland/sana-yousaf-17-jaehrige-tiktokerin-in-pakistan-getoetet](https://www.spiegel.de/ausland/sana-yousaf-17-jaehrige-tiktokerin-in-pakistan-getoetet-a-956ad6b9-662b-4297-b318-4e74adddcfda#ref=rss)
+### pakistan
 
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-generalmajor-andreas-henne-zweifelt-an-wehrdienst-ohne-pflichtelemente](https://www.spiegel.de/politik/deutschland/bundeswehr-generalmajor-andreas-henne-zweifelt-an-wehrdienst-ohne-pflichtelemente-a-ae1f0189-bfca-4e9a-8c21-c89386d6a860#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/smartphones-wo-ist-und-geraet-finden-was-bringt-die-suchfunktion-wenn-das-handy-geklaut-wird](https://www.spiegel.de/netzwelt/gadgets/smartphones-wo-ist-und-geraet-finden-was-bringt-die-suchfunktion-wenn-das-handy-geklaut-wird-a-b55ff9e1-048d-4154-96f6-97a9e6b62e33#ref=rss)
-### wilhelm
+* [https://www.spiegel.de/ausland/sana-yousaf-17-jaehrige-tiktokerin-in-pakistan-getoetet](https://www.spiegel.de/ausland/sana-yousaf-17-jaehrige-tiktokerin-in-pakistan-getoetet-a-956ad6b9-662b-4297-b318-4e74adddcfda#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/geschichte/wilhelm-reissmueller-vom-donaukurier-streit-ueber-ehrenbuergerschaft-von-ingolstadt](https://www.spiegel.de/geschichte/wilhelm-reissmueller-vom-donaukurier-streit-ueber-ehrenbuergerschaft-von-ingolstadt-a-c2f03fb5-f826-41c4-b4b4-51bf14323d92#ref=rss)
-### reissmüller
+* [https://www.spiegel.de/ausland/sana-yousaf-17-jaehrige-tiktokerin-in-pakistan-getoetet](https://www.spiegel.de/ausland/sana-yousaf-17-jaehrige-tiktokerin-in-pakistan-getoetet-a-956ad6b9-662b-4297-b318-4e74adddcfda#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/eisenbahnunglueck-von-garmisch-2022-da-hupft-der-zug-richtig](https://www.spiegel.de/panorama/justiz/eisenbahnunglueck-von-garmisch-2022-da-hupft-der-zug-richtig-a-1d644cbb-165e-4fbb-9c37-f3fec0c60616#ref=rss)
+### polen
 
-* [https://www.spiegel.de/geschichte/wilhelm-reissmueller-vom-donaukurier-streit-ueber-ehrenbuergerschaft-von-ingolstadt](https://www.spiegel.de/geschichte/wilhelm-reissmueller-vom-donaukurier-streit-ueber-ehrenbuergerschaft-von-ingolstadt-a-c2f03fb5-f826-41c4-b4b4-51bf14323d92#ref=rss)
-### ehrenbürgerschaft
+* [https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa](https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa-a-72e51e7b-ac3e-4e42-8cc1-6df164676d07#ref=rss)
+* [https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa](https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa-a-0ca9bef0-54c2-49ea-b2b2-0b656fd4aaf6#ref=rss)
+### bedeutung
 
-* [https://www.spiegel.de/geschichte/wilhelm-reissmueller-vom-donaukurier-streit-ueber-ehrenbuergerschaft-von-ingolstadt](https://www.spiegel.de/geschichte/wilhelm-reissmueller-vom-donaukurier-streit-ueber-ehrenbuergerschaft-von-ingolstadt-a-c2f03fb5-f826-41c4-b4b4-51bf14323d92#ref=rss)
-### ingolstadt
+* [https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa](https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa-a-72e51e7b-ac3e-4e42-8cc1-6df164676d07#ref=rss)
+* [https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa](https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa-a-0ca9bef0-54c2-49ea-b2b2-0b656fd4aaf6#ref=rss)
+### polens
 
-* [https://www.spiegel.de/geschichte/wilhelm-reissmueller-vom-donaukurier-streit-ueber-ehrenbuergerschaft-von-ingolstadt](https://www.spiegel.de/geschichte/wilhelm-reissmueller-vom-donaukurier-streit-ueber-ehrenbuergerschaft-von-ingolstadt-a-c2f03fb5-f826-41c4-b4b4-51bf14323d92#ref=rss)
-### erdbeben
+* [https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa](https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa-a-72e51e7b-ac3e-4e42-8cc1-6df164676d07#ref=rss)
+* [https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa](https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa-a-0ca9bef0-54c2-49ea-b2b2-0b656fd4aaf6#ref=rss)
+### staatsoberhaupt
 
-* [https://www.spiegel.de/panorama/tuerkei-erdbeben-nahe-marmaris-mindestens-eine-tote](https://www.spiegel.de/panorama/tuerkei-erdbeben-nahe-marmaris-mindestens-eine-tote-a-101533f8-ce39-4764-afae-295ce5770a2c#ref=rss)
-### neuralink
+* [https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa](https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa-a-72e51e7b-ac3e-4e42-8cc1-6df164676d07#ref=rss)
+* [https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa](https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa-a-0ca9bef0-54c2-49ea-b2b2-0b656fd4aaf6#ref=rss)
+### spiegelredakteur
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/neuralink-elon-musks-gehirnchip-firma-sammelt-650-millionen-dollar-ein](https://www.spiegel.de/wirtschaft/unternehmen/neuralink-elon-musks-gehirnchip-firma-sammelt-650-millionen-dollar-ein-a-f2a2224a-0cce-4ad7-8570-622fe6d049a5#ref=rss)
-### elon
+* [https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa](https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa-a-72e51e7b-ac3e-4e42-8cc1-6df164676d07#ref=rss)
+* [https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa](https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa-a-0ca9bef0-54c2-49ea-b2b2-0b656fd4aaf6#ref=rss)
+### jan
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/neuralink-elon-musks-gehirnchip-firma-sammelt-650-millionen-dollar-ein](https://www.spiegel.de/wirtschaft/unternehmen/neuralink-elon-musks-gehirnchip-firma-sammelt-650-millionen-dollar-ein-a-f2a2224a-0cce-4ad7-8570-622fe6d049a5#ref=rss)
-### baum
+* [https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa](https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa-a-72e51e7b-ac3e-4e42-8cc1-6df164676d07#ref=rss)
+* [https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa](https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa-a-0ca9bef0-54c2-49ea-b2b2-0b656fd4aaf6#ref=rss)
+### puhl
 
-* [https://www.spiegel.de/panorama/venedig-umstuerzender-baum-verletzt-ein-dutzend-menschen-an-bushaltestelle](https://www.spiegel.de/panorama/venedig-umstuerzender-baum-verletzt-ein-dutzend-menschen-an-bushaltestelle-a-997540ac-992e-4cc9-9637-782cb11a8073#ref=rss)
-### bushaltestelle
+* [https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa](https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa-a-72e51e7b-ac3e-4e42-8cc1-6df164676d07#ref=rss)
+* [https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa](https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa-a-0ca9bef0-54c2-49ea-b2b2-0b656fd4aaf6#ref=rss)
+### auswirkungen
 
-* [https://www.spiegel.de/panorama/venedig-umstuerzender-baum-verletzt-ein-dutzend-menschen-an-bushaltestelle](https://www.spiegel.de/panorama/venedig-umstuerzender-baum-verletzt-ein-dutzend-menschen-an-bushaltestelle-a-997540ac-992e-4cc9-9637-782cb11a8073#ref=rss)
-### smartphones
+* [https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa](https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa-a-72e51e7b-ac3e-4e42-8cc1-6df164676d07#ref=rss)
+* [https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa](https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa-a-0ca9bef0-54c2-49ea-b2b2-0b656fd4aaf6#ref=rss)
+### personalie
 
-* [https://www.spiegel.de/netzwelt/gadgets/smartphones-wo-ist-und-geraet-finden-was-bringt-die-suchfunktion-wenn-das-handy-geklaut-wird](https://www.spiegel.de/netzwelt/gadgets/smartphones-wo-ist-und-geraet-finden-was-bringt-die-suchfunktion-wenn-das-handy-geklaut-wird-a-b55ff9e1-048d-4154-96f6-97a9e6b62e33#ref=rss)
-### cannabis
+* [https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa](https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa-a-72e51e7b-ac3e-4e42-8cc1-6df164676d07#ref=rss)
+* [https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa](https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa-a-0ca9bef0-54c2-49ea-b2b2-0b656fd4aaf6#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/panorama/cannabis-social-clubs-lizenzprobleme-und-buerokratische-huerden-nach-einem-jahr](https://www.spiegel.de/panorama/cannabis-social-clubs-lizenzprobleme-und-buerokratische-huerden-nach-einem-jahr-a-6f93452a-6939-485e-9729-3c8e07e294f5#ref=rss)
-### social
+* [https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa](https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa-a-72e51e7b-ac3e-4e42-8cc1-6df164676d07#ref=rss)
+* [https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa](https://www.spiegel.de/ausland/polen-karol-nawrocki-und-seine-bedeutung-fuer-die-ukraine-und-europa-a-0ca9bef0-54c2-49ea-b2b2-0b656fd4aaf6#ref=rss)
+### lee
 
-* [https://www.spiegel.de/panorama/cannabis-social-clubs-lizenzprobleme-und-buerokratische-huerden-nach-einem-jahr](https://www.spiegel.de/panorama/cannabis-social-clubs-lizenzprobleme-und-buerokratische-huerden-nach-einem-jahr-a-6f93452a-6939-485e-9729-3c8e07e294f5#ref=rss)
+* [https://www.spiegel.de/ausland/suedkorea-linker-lee-jae-myung-gewinnt-praesidentenwahl-in-seoul](https://www.spiegel.de/ausland/suedkorea-linker-lee-jae-myung-gewinnt-praesidentenwahl-in-seoul-a-e5f8925d-a1d9-45a1-9ba4-9153e9386563#ref=rss)
+### präsident
+
+* [https://www.spiegel.de/ausland/suedkorea-linker-lee-jae-myung-gewinnt-praesidentenwahl-in-seoul](https://www.spiegel.de/ausland/suedkorea-linker-lee-jae-myung-gewinnt-praesidentenwahl-in-seoul-a-e5f8925d-a1d9-45a1-9ba4-9153e9386563#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-will-fannie-mae-und-freddie-mac-zurueck-an-die-boerse-bringen](https://www.spiegel.de/wirtschaft/donald-trump-will-fannie-mae-und-freddie-mac-zurueck-an-die-boerse-bringen-a-9383d883-6dee-47b6-9ce4-5cac7642c633#ref=rss)
+### linke
+
+* [https://www.spiegel.de/ausland/suedkorea-linker-lee-jae-myung-gewinnt-praesidentenwahl-in-seoul](https://www.spiegel.de/ausland/suedkorea-linker-lee-jae-myung-gewinnt-praesidentenwahl-in-seoul-a-e5f8925d-a1d9-45a1-9ba4-9153e9386563#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/die-linke-ines-schwerdtner-warnt-friedrich-merz-vor-kniefall-vor-donald-trump](https://www.spiegel.de/politik/deutschland/die-linke-ines-schwerdtner-warnt-friedrich-merz-vor-kniefall-vor-donald-trump-a-c277379b-7b37-4cc5-a73b-6ca5f4313842#ref=rss)
+### opposition
+
+* [https://www.spiegel.de/ausland/suedkorea-linker-lee-jae-myung-gewinnt-praesidentenwahl-in-seoul](https://www.spiegel.de/ausland/suedkorea-linker-lee-jae-myung-gewinnt-praesidentenwahl-in-seoul-a-e5f8925d-a1d9-45a1-9ba4-9153e9386563#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/die-linke-ines-schwerdtner-warnt-friedrich-merz-vor-kniefall-vor-donald-trump](https://www.spiegel.de/politik/deutschland/die-linke-ines-schwerdtner-warnt-friedrich-merz-vor-kniefall-vor-donald-trump-a-c277379b-7b37-4cc5-a73b-6ca5f4313842#ref=rss)
+### liegt
+
+* [https://www.spiegel.de/ausland/suedkorea-linker-lee-jae-myung-gewinnt-praesidentenwahl-in-seoul](https://www.spiegel.de/ausland/suedkorea-linker-lee-jae-myung-gewinnt-praesidentenwahl-in-seoul-a-e5f8925d-a1d9-45a1-9ba4-9153e9386563#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/eisenbahnunglueck-von-garmisch-2022-da-hupft-der-zug-richtig](https://www.spiegel.de/panorama/justiz/eisenbahnunglueck-von-garmisch-2022-da-hupft-der-zug-richtig-a-1d644cbb-165e-4fbb-9c37-f3fec0c60616#ref=rss)
+### niederlage
+
+* [https://www.spiegel.de/ausland/suedkorea-linker-lee-jae-myung-gewinnt-praesidentenwahl-in-seoul](https://www.spiegel.de/ausland/suedkorea-linker-lee-jae-myung-gewinnt-praesidentenwahl-in-seoul-a-e5f8925d-a1d9-45a1-9ba4-9153e9386563#ref=rss)
+* [https://www.spiegel.de/sport/schach-magnus-carlsen-rastet-nach-niederlage-gegen-dommaraju-gukesh-aus](https://www.spiegel.de/sport/schach-magnus-carlsen-rastet-nach-niederlage-gegen-dommaraju-gukesh-aus-a-079c7269-1c3b-45f9-8c58-73e7d3163a29#ref=rss)
+### verletzt
+
+* [https://www.spiegel.de/panorama/justiz/eisenbahnunglueck-von-garmisch-2022-da-hupft-der-zug-richtig](https://www.spiegel.de/panorama/justiz/eisenbahnunglueck-von-garmisch-2022-da-hupft-der-zug-richtig-a-1d644cbb-165e-4fbb-9c37-f3fec0c60616#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bruessel-12-jaehriger-bei-flucht-vor-polizei-toedlich-verletzt](https://www.spiegel.de/panorama/justiz/bruessel-12-jaehriger-bei-flucht-vor-polizei-toedlich-verletzt-a-3cba180e-2c53-4146-823a-e1916ec673ca#ref=rss)
+### simone
+
+* [https://www.spiegel.de/sport/fussball/italienischer-fussball-trainer-simone-inzaghi-verlaesst-inter-mailand](https://www.spiegel.de/sport/fussball/italienischer-fussball-trainer-simone-inzaghi-verlaesst-inter-mailand-a-d3632ddb-b801-4ae1-aa4b-f8297cc8e38c#ref=rss)
+### inzaghi
+
+* [https://www.spiegel.de/sport/fussball/italienischer-fussball-trainer-simone-inzaghi-verlaesst-inter-mailand](https://www.spiegel.de/sport/fussball/italienischer-fussball-trainer-simone-inzaghi-verlaesst-inter-mailand-a-d3632ddb-b801-4ae1-aa4b-f8297cc8e38c#ref=rss)
+### inter
+
+* [https://www.spiegel.de/sport/fussball/italienischer-fussball-trainer-simone-inzaghi-verlaesst-inter-mailand](https://www.spiegel.de/sport/fussball/italienischer-fussball-trainer-simone-inzaghi-verlaesst-inter-mailand-a-d3632ddb-b801-4ae1-aa4b-f8297cc8e38c#ref=rss)
+### mailand
+
+* [https://www.spiegel.de/sport/fussball/italienischer-fussball-trainer-simone-inzaghi-verlaesst-inter-mailand](https://www.spiegel.de/sport/fussball/italienischer-fussball-trainer-simone-inzaghi-verlaesst-inter-mailand-a-d3632ddb-b801-4ae1-aa4b-f8297cc8e38c#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/sport/fussball/italienischer-fussball-trainer-simone-inzaghi-verlaesst-inter-mailand](https://www.spiegel.de/sport/fussball/italienischer-fussball-trainer-simone-inzaghi-verlaesst-inter-mailand-a-d3632ddb-b801-4ae1-aa4b-f8297cc8e38c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-will-fannie-mae-und-freddie-mac-zurueck-an-die-boerse-bringen](https://www.spiegel.de/wirtschaft/donald-trump-will-fannie-mae-und-freddie-mac-zurueck-an-die-boerse-bringen-a-9383d883-6dee-47b6-9ce4-5cac7642c633#ref=rss)
+### zieht
+
+* [https://www.spiegel.de/sport/fussball/italienischer-fussball-trainer-simone-inzaghi-verlaesst-inter-mailand](https://www.spiegel.de/sport/fussball/italienischer-fussball-trainer-simone-inzaghi-verlaesst-inter-mailand-a-d3632ddb-b801-4ae1-aa4b-f8297cc8e38c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/waldbraende-kanadischer-rauch-zieht-ueber-den-atlantik-nach-europa](https://www.spiegel.de/wissenschaft/natur/waldbraende-kanadischer-rauch-zieht-ueber-den-atlantik-nach-europa-a-65ce08e1-623b-4272-aa63-aa7eff75244b#ref=rss)
+### wohl
+
+* [https://www.spiegel.de/sport/fussball/italienischer-fussball-trainer-simone-inzaghi-verlaesst-inter-mailand](https://www.spiegel.de/sport/fussball/italienischer-fussball-trainer-simone-inzaghi-verlaesst-inter-mailand-a-d3632ddb-b801-4ae1-aa4b-f8297cc8e38c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/buckelwale-sehen-ueberraschend-schlecht](https://www.spiegel.de/wissenschaft/natur/buckelwale-sehen-ueberraschend-schlecht-a-e5f4b83f-4272-4501-95c6-a0d5a28c6135#ref=rss)
+### telefon
+
+* [https://www.spiegel.de/politik/deutschland/die-linke-ines-schwerdtner-warnt-friedrich-merz-vor-kniefall-vor-donald-trump](https://www.spiegel.de/politik/deutschland/die-linke-ines-schwerdtner-warnt-friedrich-merz-vor-kniefall-vor-donald-trump-a-c277379b-7b37-4cc5-a73b-6ca5f4313842#ref=rss)
+* [https://www.spiegel.de/panorama/kuriose-entruempelungsfunde-eine-handgranate-im-keller-hitlers-telefon-in-einem-englischen-landsitz](https://www.spiegel.de/panorama/kuriose-entruempelungsfunde-eine-handgranate-im-keller-hitlers-telefon-in-einem-englischen-landsitz-a-cac1fb30-fa0d-4349-aa54-2b34c97601eb#ref=rss)
+### cosmo
+
+* [https://www.spiegel.de/kultur/fast-300-prominente-fordern-rettung-von-radiosender-cosmo](https://www.spiegel.de/kultur/fast-300-prominente-fordern-rettung-von-radiosender-cosmo-a-71f24767-85c5-4c53-a606-6db3987470dc#ref=rss)
+### andere
+
+* [https://www.spiegel.de/kultur/fast-300-prominente-fordern-rettung-von-radiosender-cosmo](https://www.spiegel.de/kultur/fast-300-prominente-fordern-rettung-von-radiosender-cosmo-a-71f24767-85c5-4c53-a606-6db3987470dc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/so-geht-es-nach-den-berliner-grenzbeschluessen-weiter](https://www.spiegel.de/politik/deutschland/so-geht-es-nach-den-berliner-grenzbeschluessen-weiter-a-5e804bc6-ad37-4771-899e-7f25ea2a0b5d#ref=rss)
+### fannie
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-will-fannie-mae-und-freddie-mac-zurueck-an-die-boerse-bringen](https://www.spiegel.de/wirtschaft/donald-trump-will-fannie-mae-und-freddie-mac-zurueck-an-die-boerse-bringen-a-9383d883-6dee-47b6-9ce4-5cac7642c633#ref=rss)
+### mae
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-will-fannie-mae-und-freddie-mac-zurueck-an-die-boerse-bringen](https://www.spiegel.de/wirtschaft/donald-trump-will-fannie-mae-und-freddie-mac-zurueck-an-die-boerse-bringen-a-9383d883-6dee-47b6-9ce4-5cac7642c633#ref=rss)
+### freddie
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-will-fannie-mae-und-freddie-mac-zurueck-an-die-boerse-bringen](https://www.spiegel.de/wirtschaft/donald-trump-will-fannie-mae-und-freddie-mac-zurueck-an-die-boerse-bringen-a-9383d883-6dee-47b6-9ce4-5cac7642c633#ref=rss)
+### mac
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-will-fannie-mae-und-freddie-mac-zurueck-an-die-boerse-bringen](https://www.spiegel.de/wirtschaft/donald-trump-will-fannie-mae-und-freddie-mac-zurueck-an-die-boerse-bringen-a-9383d883-6dee-47b6-9ce4-5cac7642c633#ref=rss)
+### börse
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-will-fannie-mae-und-freddie-mac-zurueck-an-die-boerse-bringen](https://www.spiegel.de/wirtschaft/donald-trump-will-fannie-mae-und-freddie-mac-zurueck-an-die-boerse-bringen-a-9383d883-6dee-47b6-9ce4-5cac7642c633#ref=rss)
+### bringen
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-will-fannie-mae-und-freddie-mac-zurueck-an-die-boerse-bringen](https://www.spiegel.de/wirtschaft/donald-trump-will-fannie-mae-und-freddie-mac-zurueck-an-die-boerse-bringen-a-9383d883-6dee-47b6-9ce4-5cac7642c633#ref=rss)
+### mussten
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-will-fannie-mae-und-freddie-mac-zurueck-an-die-boerse-bringen](https://www.spiegel.de/wirtschaft/donald-trump-will-fannie-mae-und-freddie-mac-zurueck-an-die-boerse-bringen-a-9383d883-6dee-47b6-9ce4-5cac7642c633#ref=rss)
+* [https://www.spiegel.de/kultur/tv/jon-hamm-von-mad-men-graesslicher-mundgeruch-am-set-durch-zwiebeln-und-kippen](https://www.spiegel.de/kultur/tv/jon-hamm-von-mad-men-graesslicher-mundgeruch-am-set-durch-zwiebeln-und-kippen-a-90e67665-07bb-4ee4-af17-7a57b85e82ff#ref=rss)
+### berliner
+
+* [https://www.spiegel.de/politik/deutschland/so-geht-es-nach-den-berliner-grenzbeschluessen-weiter](https://www.spiegel.de/politik/deutschland/so-geht-es-nach-den-berliner-grenzbeschluessen-weiter-a-5e804bc6-ad37-4771-899e-7f25ea2a0b5d#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/berlin-weitere-lehrkraefte-berichten-von-massiven-problemen-an-der-carl-bolle-grundschule](https://www.spiegel.de/panorama/bildung/berlin-weitere-lehrkraefte-berichten-von-massiven-problemen-an-der-carl-bolle-grundschule-a-97527296-0052-4448-b51a-9087f273fbec#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/politik/deutschland/so-geht-es-nach-den-berliner-grenzbeschluessen-weiter](https://www.spiegel.de/politik/deutschland/so-geht-es-nach-den-berliner-grenzbeschluessen-weiter-a-5e804bc6-ad37-4771-899e-7f25ea2a0b5d#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/berlin-weitere-lehrkraefte-berichten-von-massiven-problemen-an-der-carl-bolle-grundschule](https://www.spiegel.de/panorama/bildung/berlin-weitere-lehrkraefte-berichten-von-massiven-problemen-an-der-carl-bolle-grundschule-a-97527296-0052-4448-b51a-9087f273fbec#ref=rss)
+### buckelwale
+
+* [https://www.spiegel.de/wissenschaft/natur/buckelwale-sehen-ueberraschend-schlecht](https://www.spiegel.de/wissenschaft/natur/buckelwale-sehen-ueberraschend-schlecht-a-e5f4b83f-4272-4501-95c6-a0d5a28c6135#ref=rss)
+### sehen
+
+* [https://www.spiegel.de/wissenschaft/natur/buckelwale-sehen-ueberraschend-schlecht](https://www.spiegel.de/wissenschaft/natur/buckelwale-sehen-ueberraschend-schlecht-a-e5f4b83f-4272-4501-95c6-a0d5a28c6135#ref=rss)
+* [https://www.spiegel.de/panorama/warum-bleibt-der-sonderbericht-von-masken-ermittlerin-sudhof-unter-verschluss](https://www.spiegel.de/panorama/warum-bleibt-der-sonderbericht-von-masken-ermittlerin-sudhof-unter-verschluss-a-603ac03c-d65c-4045-84a2-8d16e03464aa#ref=rss)
+### geschlechtstests
+
+* [https://www.spiegel.de/sport/olympia/verpflichtende-geschlechtstests-boxverband-entschuldigt-sich-bei-imane-khelif](https://www.spiegel.de/sport/olympia/verpflichtende-geschlechtstests-boxverband-entschuldigt-sich-bei-imane-khelif-a-85757844-140a-4b7d-adc6-7db342406d3e#ref=rss)
+### imane
+
+* [https://www.spiegel.de/sport/olympia/verpflichtende-geschlechtstests-boxverband-entschuldigt-sich-bei-imane-khelif](https://www.spiegel.de/sport/olympia/verpflichtende-geschlechtstests-boxverband-entschuldigt-sich-bei-imane-khelif-a-85757844-140a-4b7d-adc6-7db342406d3e#ref=rss)
+### khelif
+
+* [https://www.spiegel.de/sport/olympia/verpflichtende-geschlechtstests-boxverband-entschuldigt-sich-bei-imane-khelif](https://www.spiegel.de/sport/olympia/verpflichtende-geschlechtstests-boxverband-entschuldigt-sich-bei-imane-khelif-a-85757844-140a-4b7d-adc6-7db342406d3e#ref=rss)
+### politik
+
+* [https://www.spiegel.de/wirtschaft/autokratische-politik-was-donald-trump-von-hugo-chavez-gelernt-hat](https://www.spiegel.de/wirtschaft/autokratische-politik-was-donald-trump-von-hugo-chavez-gelernt-hat-a-15d3570f-5417-4dd0-b094-3bf30d43fc95#ref=rss)
+### asylpolitik
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-asylpolitik-israels-vorgehen-in-gaza-urteil-im-cum-ex-skandal](https://www.spiegel.de/politik/deutschland/news-des-tages-asylpolitik-israels-vorgehen-in-gaza-urteil-im-cum-ex-skandal-a-4070ba2b-124f-4b4c-a7ac-793818bc25d9#ref=rss)
+* [https://www.spiegel.de/ausland/geert-wilders-und-die-regierungskrise-in-den-haag-das-experiment-wird-abgebrochen](https://www.spiegel.de/ausland/geert-wilders-und-die-regierungskrise-in-den-haag-das-experiment-wird-abgebrochen-a-c6690f4a-2056-4009-915f-3ca41c9337b8#ref=rss)
+### cumexskandal
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-asylpolitik-israels-vorgehen-in-gaza-urteil-im-cum-ex-skandal](https://www.spiegel.de/politik/deutschland/news-des-tages-asylpolitik-israels-vorgehen-in-gaza-urteil-im-cum-ex-skandal-a-4070ba2b-124f-4b4c-a7ac-793818bc25d9#ref=rss)
+### magnus
+
+* [https://www.spiegel.de/sport/schach-magnus-carlsen-rastet-nach-niederlage-gegen-dommaraju-gukesh-aus](https://www.spiegel.de/sport/schach-magnus-carlsen-rastet-nach-niederlage-gegen-dommaraju-gukesh-aus-a-079c7269-1c3b-45f9-8c58-73e7d3163a29#ref=rss)
+### carlsen
+
+* [https://www.spiegel.de/sport/schach-magnus-carlsen-rastet-nach-niederlage-gegen-dommaraju-gukesh-aus](https://www.spiegel.de/sport/schach-magnus-carlsen-rastet-nach-niederlage-gegen-dommaraju-gukesh-aus-a-079c7269-1c3b-45f9-8c58-73e7d3163a29#ref=rss)
+### dommaraju
+
+* [https://www.spiegel.de/sport/schach-magnus-carlsen-rastet-nach-niederlage-gegen-dommaraju-gukesh-aus](https://www.spiegel.de/sport/schach-magnus-carlsen-rastet-nach-niederlage-gegen-dommaraju-gukesh-aus-a-079c7269-1c3b-45f9-8c58-73e7d3163a29#ref=rss)
+### gukesh
+
+* [https://www.spiegel.de/sport/schach-magnus-carlsen-rastet-nach-niederlage-gegen-dommaraju-gukesh-aus](https://www.spiegel.de/sport/schach-magnus-carlsen-rastet-nach-niederlage-gegen-dommaraju-gukesh-aus-a-079c7269-1c3b-45f9-8c58-73e7d3163a29#ref=rss)
+### rauch
+
+* [https://www.spiegel.de/wissenschaft/natur/waldbraende-kanadischer-rauch-zieht-ueber-den-atlantik-nach-europa](https://www.spiegel.de/wissenschaft/natur/waldbraende-kanadischer-rauch-zieht-ueber-den-atlantik-nach-europa-a-65ce08e1-623b-4272-aa63-aa7eff75244b#ref=rss)
+### feuer
+
+* [https://www.spiegel.de/wissenschaft/natur/waldbraende-kanadischer-rauch-zieht-ueber-den-atlantik-nach-europa](https://www.spiegel.de/wissenschaft/natur/waldbraende-kanadischer-rauch-zieht-ueber-den-atlantik-nach-europa-a-65ce08e1-623b-4272-aa63-aa7eff75244b#ref=rss)
+* [https://www.spiegel.de/kultur/kino/james-cameron-verkuendet-neues-filmprojekt-ueber-fleischfressende-elfen](https://www.spiegel.de/kultur/kino/james-cameron-verkuendet-neues-filmprojekt-ueber-fleischfressende-elfen-a-d87f51f3-1b79-4b1f-9c4e-4bdc1bc21720#ref=rss)
+### arbeitnehmer
+
+* [https://www.spiegel.de/wirtschaft/service/urlaubsanspruch-arbeitnehmer-koennen-nicht-auf-gesetzlichen-mindesturlaub-verzichten](https://www.spiegel.de/wirtschaft/service/urlaubsanspruch-arbeitnehmer-koennen-nicht-auf-gesetzlichen-mindesturlaub-verzichten-a-fb709c8e-7b2b-4748-8954-e6c7e69b4fdb#ref=rss)
+### gesetzlichen
+
+* [https://www.spiegel.de/wirtschaft/service/urlaubsanspruch-arbeitnehmer-koennen-nicht-auf-gesetzlichen-mindesturlaub-verzichten](https://www.spiegel.de/wirtschaft/service/urlaubsanspruch-arbeitnehmer-koennen-nicht-auf-gesetzlichen-mindesturlaub-verzichten-a-fb709c8e-7b2b-4748-8954-e6c7e69b4fdb#ref=rss)
+### mindesturlaub
+
+* [https://www.spiegel.de/wirtschaft/service/urlaubsanspruch-arbeitnehmer-koennen-nicht-auf-gesetzlichen-mindesturlaub-verzichten](https://www.spiegel.de/wirtschaft/service/urlaubsanspruch-arbeitnehmer-koennen-nicht-auf-gesetzlichen-mindesturlaub-verzichten-a-fb709c8e-7b2b-4748-8954-e6c7e69b4fdb#ref=rss)
+### konnte
+
+* [https://www.spiegel.de/wirtschaft/service/urlaubsanspruch-arbeitnehmer-koennen-nicht-auf-gesetzlichen-mindesturlaub-verzichten](https://www.spiegel.de/wirtschaft/service/urlaubsanspruch-arbeitnehmer-koennen-nicht-auf-gesetzlichen-mindesturlaub-verzichten-a-fb709c8e-7b2b-4748-8954-e6c7e69b4fdb#ref=rss)
+* [https://www.spiegel.de/kultur/tv/jon-hamm-von-mad-men-graesslicher-mundgeruch-am-set-durch-zwiebeln-und-kippen](https://www.spiegel.de/kultur/tv/jon-hamm-von-mad-men-graesslicher-mundgeruch-am-set-durch-zwiebeln-und-kippen-a-90e67665-07bb-4ee4-af17-7a57b85e82ff#ref=rss)
+### maskenermittlerin
+
+* [https://www.spiegel.de/panorama/warum-bleibt-der-sonderbericht-von-masken-ermittlerin-sudhof-unter-verschluss](https://www.spiegel.de/panorama/warum-bleibt-der-sonderbericht-von-masken-ermittlerin-sudhof-unter-verschluss-a-603ac03c-d65c-4045-84a2-8d16e03464aa#ref=rss)
+### dürfen
+
+* [https://www.spiegel.de/panorama/warum-bleibt-der-sonderbericht-von-masken-ermittlerin-sudhof-unter-verschluss](https://www.spiegel.de/panorama/warum-bleibt-der-sonderbericht-von-masken-ermittlerin-sudhof-unter-verschluss-a-603ac03c-d65c-4045-84a2-8d16e03464aa#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/bankkunden-duerfen-drei-jahre-lang-unzulaessige-gebuehren-zurueckverlangen](https://www.spiegel.de/wirtschaft/service/bankkunden-duerfen-drei-jahre-lang-unzulaessige-gebuehren-zurueckverlangen-a-cceb9100-a9a9-4cf1-8055-7a33ec87b99f#ref=rss)
+### mad
+
+* [https://www.spiegel.de/kultur/tv/jon-hamm-von-mad-men-graesslicher-mundgeruch-am-set-durch-zwiebeln-und-kippen](https://www.spiegel.de/kultur/tv/jon-hamm-von-mad-men-graesslicher-mundgeruch-am-set-durch-zwiebeln-und-kippen-a-90e67665-07bb-4ee4-af17-7a57b85e82ff#ref=rss)
+### men
+
+* [https://www.spiegel.de/kultur/tv/jon-hamm-von-mad-men-graesslicher-mundgeruch-am-set-durch-zwiebeln-und-kippen](https://www.spiegel.de/kultur/tv/jon-hamm-von-mad-men-graesslicher-mundgeruch-am-set-durch-zwiebeln-und-kippen-a-90e67665-07bb-4ee4-af17-7a57b85e82ff#ref=rss)
+### haag
+
+* [https://www.spiegel.de/ausland/geert-wilders-und-die-regierungskrise-in-den-haag-das-experiment-wird-abgebrochen](https://www.spiegel.de/ausland/geert-wilders-und-die-regierungskrise-in-den-haag-das-experiment-wird-abgebrochen-a-c6690f4a-2056-4009-915f-3ca41c9337b8#ref=rss)
+* [https://www.spiegel.de/ausland/niederlande-dick-schoof-tritt-nach-koalitionsbruch-zurueck-und-kuendigt-neuwahlen-an](https://www.spiegel.de/ausland/niederlande-dick-schoof-tritt-nach-koalitionsbruch-zurueck-und-kuendigt-neuwahlen-an-a-359d5c0d-7ad5-4f5e-bd23-ec4f54ccdabb#ref=rss)
+### gebühren
+
+* [https://www.spiegel.de/wirtschaft/service/bankkunden-duerfen-drei-jahre-lang-unzulaessige-gebuehren-zurueckverlangen](https://www.spiegel.de/wirtschaft/service/bankkunden-duerfen-drei-jahre-lang-unzulaessige-gebuehren-zurueckverlangen-a-cceb9100-a9a9-4cf1-8055-7a33ec87b99f#ref=rss)
+### trumpregierung
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/prudhoe-bay-trump-regierung-treibt-oelfoerderung-in-alaska-voran](https://www.spiegel.de/wirtschaft/unternehmen/prudhoe-bay-trump-regierung-treibt-oelfoerderung-in-alaska-voran-a-2b8244a7-c28f-4d48-9ea1-02027e3ed892#ref=rss)
+### lehrkräfte
+
+* [https://www.spiegel.de/panorama/bildung/berlin-weitere-lehrkraefte-berichten-von-massiven-problemen-an-der-carl-bolle-grundschule](https://www.spiegel.de/panorama/bildung/berlin-weitere-lehrkraefte-berichten-von-massiven-problemen-an-der-carl-bolle-grundschule-a-97527296-0052-4448-b51a-9087f273fbec#ref=rss)
+### brüssel
+
+* [https://www.spiegel.de/panorama/justiz/bruessel-12-jaehriger-bei-flucht-vor-polizei-toedlich-verletzt](https://www.spiegel.de/panorama/justiz/bruessel-12-jaehriger-bei-flucht-vor-polizei-toedlich-verletzt-a-3cba180e-2c53-4146-823a-e1916ec673ca#ref=rss)
+### dick
+
+* [https://www.spiegel.de/ausland/niederlande-dick-schoof-tritt-nach-koalitionsbruch-zurueck-und-kuendigt-neuwahlen-an](https://www.spiegel.de/ausland/niederlande-dick-schoof-tritt-nach-koalitionsbruch-zurueck-und-kuendigt-neuwahlen-an-a-359d5c0d-7ad5-4f5e-bd23-ec4f54ccdabb#ref=rss)
+### tritt
+
+* [https://www.spiegel.de/ausland/niederlande-dick-schoof-tritt-nach-koalitionsbruch-zurueck-und-kuendigt-neuwahlen-an](https://www.spiegel.de/ausland/niederlande-dick-schoof-tritt-nach-koalitionsbruch-zurueck-und-kuendigt-neuwahlen-an-a-359d5c0d-7ad5-4f5e-bd23-ec4f54ccdabb#ref=rss)
+### kündigt
+
+* [https://www.spiegel.de/ausland/niederlande-dick-schoof-tritt-nach-koalitionsbruch-zurueck-und-kuendigt-neuwahlen-an](https://www.spiegel.de/ausland/niederlande-dick-schoof-tritt-nach-koalitionsbruch-zurueck-und-kuendigt-neuwahlen-an-a-359d5c0d-7ad5-4f5e-bd23-ec4f54ccdabb#ref=rss)
+### neuwahlen
+
+* [https://www.spiegel.de/ausland/niederlande-dick-schoof-tritt-nach-koalitionsbruch-zurueck-und-kuendigt-neuwahlen-an](https://www.spiegel.de/ausland/niederlande-dick-schoof-tritt-nach-koalitionsbruch-zurueck-und-kuendigt-neuwahlen-an-a-359d5c0d-7ad5-4f5e-bd23-ec4f54ccdabb#ref=rss)
+### james
+
+* [https://www.spiegel.de/kultur/kino/james-cameron-verkuendet-neues-filmprojekt-ueber-fleischfressende-elfen](https://www.spiegel.de/kultur/kino/james-cameron-verkuendet-neues-filmprojekt-ueber-fleischfressende-elfen-a-d87f51f3-1b79-4b1f-9c4e-4bdc1bc21720#ref=rss)
+### cameron
+
+* [https://www.spiegel.de/kultur/kino/james-cameron-verkuendet-neues-filmprojekt-ueber-fleischfressende-elfen](https://www.spiegel.de/kultur/kino/james-cameron-verkuendet-neues-filmprojekt-ueber-fleischfressende-elfen-a-d87f51f3-1b79-4b1f-9c4e-4bdc1bc21720#ref=rss)
+### meldet
+
+* [https://www.spiegel.de/ausland/krim-ukraine-meldet-unterwasserangriff-auf-bruecke](https://www.spiegel.de/ausland/krim-ukraine-meldet-unterwasserangriff-auf-bruecke-a-1a105775-b17a-4392-81e2-12c32ae39226#ref=rss)
 
