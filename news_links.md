@@ -4,265 +4,416 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### mehr
-
-* [https://www.spiegel.de/wissenschaft/natur/karibikstraende-38-millionen-tonnen-sargassum-algen-sorgen-fuer-plage](https://www.spiegel.de/wissenschaft/natur/karibikstraende-38-millionen-tonnen-sargassum-algen-sorgen-fuer-plage-a-e376e8a5-e8bb-42cb-b349-720e279e5fd8#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/sachsen-inhalt-schulen-duerfen-keine-skifahrten-mehr-machen](https://www.spiegel.de/panorama/bildung/sachsen-inhalt-schulen-duerfen-keine-skifahrten-mehr-machen-a-73652994-8f39-4f43-9ff0-4fbf1d63b87a#ref=rss)
-* [https://www.spiegel.de/panorama/bombenentschaerfung-in-koeln-deutz-groesste-evakuierung-seit-1945-hat-begonnen](https://www.spiegel.de/panorama/bombenentschaerfung-in-koeln-deutz-groesste-evakuierung-seit-1945-hat-begonnen-a-e5a57070-1012-4976-b970-bf7cc96d845a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/world-wealth-report-zahl-der-millionaere-in-deutschland-schrumpft](https://www.spiegel.de/wirtschaft/soziales/world-wealth-report-zahl-der-millionaere-in-deutschland-schrumpft-a-ee110524-626d-4b71-b1cc-8b8738fd0da1#ref=rss)
-* [https://www.spiegel.de/panorama/leute/john-legend-sieht-usa-in-autoritaeres-regierungssystem-abgleiten](https://www.spiegel.de/panorama/leute/john-legend-sieht-usa-in-autoritaeres-regierungssystem-abgleiten-a-2cc865fb-a10b-4b4b-b340-0781cf5c65b0#ref=rss)
-### schulen
-
-* [https://www.spiegel.de/panorama/bildung/hessen-kultusminister-plant-landesweites-waffenverbot-an-schulen](https://www.spiegel.de/panorama/bildung/hessen-kultusminister-plant-landesweites-waffenverbot-an-schulen-a-dc261aab-a7b1-4b31-bf28-0017d3ec1036#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/sachsen-inhalt-schulen-duerfen-keine-skifahrten-mehr-machen](https://www.spiegel.de/panorama/bildung/sachsen-inhalt-schulen-duerfen-keine-skifahrten-mehr-machen-a-73652994-8f39-4f43-9ff0-4fbf1d63b87a#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/lehrkraeftemangel-zunahme-von-quereinsteigern-an-allgemeinbildenden-schulen](https://www.spiegel.de/panorama/bildung/lehrkraeftemangel-zunahme-von-quereinsteigern-an-allgemeinbildenden-schulen-a-d6bc7c22-d787-4c76-9bf7-5e2a3256708c#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/israel-ultrareligioese-partei-steht-vor-austritt-aus-koalition-von-benjamin-netanyahu](https://www.spiegel.de/ausland/israel-ultrareligioese-partei-steht-vor-austritt-aus-koalition-von-benjamin-netanyahu-a-4028a0db-4982-48d6-8d84-9442943fe1e0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/prominente-fordern-umkehr-in-deutscher-israelpolitik](https://www.spiegel.de/politik/deutschland/prominente-fordern-umkehr-in-deutscher-israelpolitik-a-8118c9ac-9391-478c-ba63-2c94df5b0c96#ref=rss)
-* [https://www.spiegel.de/ausland/israel-meldet-beschuss-aus-syrien-und-dem-jemen](https://www.spiegel.de/ausland/israel-meldet-beschuss-aus-syrien-und-dem-jemen-a-b6698dc3-3929-4c2f-98c3-53301c24673d#ref=rss)
 ### usa
 
-* [https://www.spiegel.de/ausland/usa-regierung-kassiert-sonderregel-fuer-notfall-schwangerschaftsabbrueche](https://www.spiegel.de/ausland/usa-regierung-kassiert-sonderregel-fuer-notfall-schwangerschaftsabbrueche-a-99ee5558-5c24-435d-8b26-cfcc33d2b180#ref=rss)
-* [https://www.spiegel.de/ausland/iran-weist-us-vorstoss-zum-atomabkommen-bruesk-zurueck](https://www.spiegel.de/ausland/iran-weist-us-vorstoss-zum-atomabkommen-bruesk-zurueck-a-7963f09e-12ab-4b05-8fb0-42a635d26718#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-usa-will-militaerpraesenz-reduzieren-weisshelme-werden-teil-der-neuen-regierung](https://www.spiegel.de/ausland/syrien-usa-will-militaerpraesenz-reduzieren-weisshelme-werden-teil-der-neuen-regierung-a-f8bd8823-813a-48ec-a723-72fc229bf9b9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/world-wealth-report-zahl-der-millionaere-in-deutschland-schrumpft](https://www.spiegel.de/wirtschaft/soziales/world-wealth-report-zahl-der-millionaere-in-deutschland-schrumpft-a-ee110524-626d-4b71-b1cc-8b8738fd0da1#ref=rss)
-* [https://www.spiegel.de/panorama/leute/john-legend-sieht-usa-in-autoritaeres-regierungssystem-abgleiten](https://www.spiegel.de/panorama/leute/john-legend-sieht-usa-in-autoritaeres-regierungssystem-abgleiten-a-2cc865fb-a10b-4b4b-b340-0781cf5c65b0#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/bildung/hessen-kultusminister-plant-landesweites-waffenverbot-an-schulen](https://www.spiegel.de/panorama/bildung/hessen-kultusminister-plant-landesweites-waffenverbot-an-schulen-a-dc261aab-a7b1-4b31-bf28-0017d3ec1036#ref=rss)
-* [https://www.spiegel.de/panorama/bombenentschaerfung-in-koeln-deutz-groesste-evakuierung-seit-1945-hat-begonnen](https://www.spiegel.de/panorama/bombenentschaerfung-in-koeln-deutz-groesste-evakuierung-seit-1945-hat-begonnen-a-e5a57070-1012-4976-b970-bf7cc96d845a#ref=rss)
-* [https://www.spiegel.de/ausland/sudan-fuenf-tote-bei-angriff-auf-uno-hilfskonvoi](https://www.spiegel.de/ausland/sudan-fuenf-tote-bei-angriff-auf-uno-hilfskonvoi-a-02d4610f-87e7-4b6d-a184-02bc5ffb151d#ref=rss)
-### zukunft
-
-* [https://www.spiegel.de/panorama/bildung/hessen-kultusminister-plant-landesweites-waffenverbot-an-schulen](https://www.spiegel.de/panorama/bildung/hessen-kultusminister-plant-landesweites-waffenverbot-an-schulen-a-dc261aab-a7b1-4b31-bf28-0017d3ec1036#ref=rss)
-* [https://www.spiegel.de/kultur/kino/michael-j-fox-vermisst-seine-e-gitarre-aus-zurueck-in-die-zukunft](https://www.spiegel.de/kultur/kino/michael-j-fox-vermisst-seine-e-gitarre-aus-zurueck-in-die-zukunft-a-6b9c4f38-fae6-49fb-b3ad-b569ce5af5f7#ref=rss)
-* [https://www.spiegel.de/panorama/leute/john-legend-sieht-usa-in-autoritaeres-regierungssystem-abgleiten](https://www.spiegel.de/panorama/leute/john-legend-sieht-usa-in-autoritaeres-regierungssystem-abgleiten-a-2cc865fb-a10b-4b4b-b340-0781cf5c65b0#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/kabinett-billigt-milliardenschwere-steuerentlastungen-fuer-unternehmen](https://www.spiegel.de/wirtschaft/unternehmen/kabinett-billigt-milliardenschwere-steuerentlastungen-fuer-unternehmen-a-1f3a5250-6348-46b9-b93d-6500a8347b51#ref=rss)
-* [https://www.spiegel.de/ausland/israel-ultrareligioese-partei-steht-vor-austritt-aus-koalition-von-benjamin-netanyahu](https://www.spiegel.de/ausland/israel-ultrareligioese-partei-steht-vor-austritt-aus-koalition-von-benjamin-netanyahu-a-4028a0db-4982-48d6-8d84-9442943fe1e0#ref=rss)
-* [https://www.spiegel.de/ausland/usa-regierung-kassiert-sonderregel-fuer-notfall-schwangerschaftsabbrueche](https://www.spiegel.de/ausland/usa-regierung-kassiert-sonderregel-fuer-notfall-schwangerschaftsabbrueche-a-99ee5558-5c24-435d-8b26-cfcc33d2b180#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/slapp-greenpeace-fordert-schutzschild-gegen-konzernklagen](https://www.spiegel.de/wirtschaft/soziales/slapp-greenpeace-fordert-schutzschild-gegen-konzernklagen-a-46e319c2-5066-4f58-85e1-5578a32955f4#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/ausland/iran-weist-us-vorstoss-zum-atomabkommen-bruesk-zurueck](https://www.spiegel.de/ausland/iran-weist-us-vorstoss-zum-atomabkommen-bruesk-zurueck-a-7963f09e-12ab-4b05-8fb0-42a635d26718#ref=rss)
-* [https://www.spiegel.de/kultur/kino/michael-j-fox-vermisst-seine-e-gitarre-aus-zurueck-in-die-zukunft](https://www.spiegel.de/kultur/kino/michael-j-fox-vermisst-seine-e-gitarre-aus-zurueck-in-die-zukunft-a-6b9c4f38-fae6-49fb-b3ad-b569ce5af5f7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/world-wealth-report-zahl-der-millionaere-in-deutschland-schrumpft](https://www.spiegel.de/wirtschaft/soziales/world-wealth-report-zahl-der-millionaere-in-deutschland-schrumpft-a-ee110524-626d-4b71-b1cc-8b8738fd0da1#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/panorama/justiz/antisemitismus-anzahl-antisemitischer-vorfaelle-drastisch-angestiegen](https://www.spiegel.de/panorama/justiz/antisemitismus-anzahl-antisemitischer-vorfaelle-drastisch-angestiegen-a-196f8d86-597e-4c1b-b420-8bbcc3630bb6#ref=rss)
-* [https://www.spiegel.de/panorama/schwere-gewitter-im-sueden-deutschlands-drohen-hagel-und-sturmboeen](https://www.spiegel.de/panorama/schwere-gewitter-im-sueden-deutschlands-drohen-hagel-und-sturmboeen-a-f445e23e-cc2a-4886-96fa-29bff637a73f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/world-wealth-report-zahl-der-millionaere-in-deutschland-schrumpft](https://www.spiegel.de/wirtschaft/soziales/world-wealth-report-zahl-der-millionaere-in-deutschland-schrumpft-a-ee110524-626d-4b71-b1cc-8b8738fd0da1#ref=rss)
-### statt
-
-* [https://www.spiegel.de/wissenschaft/natur/karibikstraende-38-millionen-tonnen-sargassum-algen-sorgen-fuer-plage](https://www.spiegel.de/wissenschaft/natur/karibikstraende-38-millionen-tonnen-sargassum-algen-sorgen-fuer-plage-a-e376e8a5-e8bb-42cb-b349-720e279e5fd8#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/tiktok-leitet-skinnytok-anfragen-auf-hilfeseite-fuer-essstoerungen-um](https://www.spiegel.de/netzwelt/apps/tiktok-leitet-skinnytok-anfragen-auf-hilfeseite-fuer-essstoerungen-um-a-171d79e5-570e-4c27-8d97-9a96b540f8e9#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/pornhub-in-frankreich-protest-statt-pornografie](https://www.spiegel.de/netzwelt/web/pornhub-in-frankreich-protest-statt-pornografie-a-242004b8-855e-4940-b40f-6b1e69d30b48#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/kultur/connie-francis-freut-sich-ueber-tiktok-comeback](https://www.spiegel.de/kultur/connie-francis-freut-sich-ueber-tiktok-comeback-a-c5f5746e-5e78-4ab8-9d7d-1de10ff8a5e3#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/sachsen-inhalt-schulen-duerfen-keine-skifahrten-mehr-machen](https://www.spiegel.de/panorama/bildung/sachsen-inhalt-schulen-duerfen-keine-skifahrten-mehr-machen-a-73652994-8f39-4f43-9ff0-4fbf1d63b87a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/antisemitismus-anzahl-antisemitischer-vorfaelle-drastisch-angestiegen](https://www.spiegel.de/panorama/justiz/antisemitismus-anzahl-antisemitischer-vorfaelle-drastisch-angestiegen-a-196f8d86-597e-4c1b-b420-8bbcc3630bb6#ref=rss)
-### geben
-
-* [https://www.spiegel.de/sport/fussball/dfb-lena-oberdorf-faehrt-nicht-zur-fussball-em-2025](https://www.spiegel.de/sport/fussball/dfb-lena-oberdorf-faehrt-nicht-zur-fussball-em-2025-a-77f9d59b-3f5d-4642-ad1d-7b5a924f314e#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/hessen-kultusminister-plant-landesweites-waffenverbot-an-schulen](https://www.spiegel.de/panorama/bildung/hessen-kultusminister-plant-landesweites-waffenverbot-an-schulen-a-dc261aab-a7b1-4b31-bf28-0017d3ec1036#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/sachsen-inhalt-schulen-duerfen-keine-skifahrten-mehr-machen](https://www.spiegel.de/panorama/bildung/sachsen-inhalt-schulen-duerfen-keine-skifahrten-mehr-machen-a-73652994-8f39-4f43-9ff0-4fbf1d63b87a#ref=rss)
-### mehrere
-
-* [https://www.spiegel.de/netzwelt/web/pornhub-in-frankreich-protest-statt-pornografie](https://www.spiegel.de/netzwelt/web/pornhub-in-frankreich-protest-statt-pornografie-a-242004b8-855e-4940-b40f-6b1e69d30b48#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/kabinett-billigt-milliardenschwere-steuerentlastungen-fuer-unternehmen](https://www.spiegel.de/wirtschaft/unternehmen/kabinett-billigt-milliardenschwere-steuerentlastungen-fuer-unternehmen-a-1f3a5250-6348-46b9-b93d-6500a8347b51#ref=rss)
-* [https://www.spiegel.de/ausland/sudan-fuenf-tote-bei-angriff-auf-uno-hilfskonvoi](https://www.spiegel.de/ausland/sudan-fuenf-tote-bei-angriff-auf-uno-hilfskonvoi-a-02d4610f-87e7-4b6d-a184-02bc5ffb151d#ref=rss)
-### große
-
-* [https://www.spiegel.de/netzwelt/web/pornhub-in-frankreich-protest-statt-pornografie](https://www.spiegel.de/netzwelt/web/pornhub-in-frankreich-protest-statt-pornografie-a-242004b8-855e-4940-b40f-6b1e69d30b48#ref=rss)
-* [https://www.spiegel.de/familie/familienurlaub-im-camper-geplatzter-traum-vom-kleinen-raum-erfahrungsbericht](https://www.spiegel.de/familie/familienurlaub-im-camper-geplatzter-traum-vom-kleinen-raum-erfahrungsbericht-a-8866c88d-0056-43a3-9cee-89e497a659fc#ref=rss)
-* [https://www.spiegel.de/panorama/bombenentschaerfung-in-koeln-deutz-groesste-evakuierung-seit-1945-hat-begonnen](https://www.spiegel.de/panorama/bombenentschaerfung-in-koeln-deutz-groesste-evakuierung-seit-1945-hat-begonnen-a-e5a57070-1012-4976-b970-bf7cc96d845a#ref=rss)
-### zahl
-
-* [https://www.spiegel.de/panorama/bildung/lehrkraeftemangel-zunahme-von-quereinsteigern-an-allgemeinbildenden-schulen](https://www.spiegel.de/panorama/bildung/lehrkraeftemangel-zunahme-von-quereinsteigern-an-allgemeinbildenden-schulen-a-d6bc7c22-d787-4c76-9bf7-5e2a3256708c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/world-wealth-report-zahl-der-millionaere-in-deutschland-schrumpft](https://www.spiegel.de/wirtschaft/soziales/world-wealth-report-zahl-der-millionaere-in-deutschland-schrumpft-a-ee110524-626d-4b71-b1cc-8b8738fd0da1#ref=rss)
-### syrien
-
-* [https://www.spiegel.de/ausland/syrien-usa-will-militaerpraesenz-reduzieren-weisshelme-werden-teil-der-neuen-regierung](https://www.spiegel.de/ausland/syrien-usa-will-militaerpraesenz-reduzieren-weisshelme-werden-teil-der-neuen-regierung-a-f8bd8823-813a-48ec-a723-72fc229bf9b9#ref=rss)
-* [https://www.spiegel.de/ausland/israel-meldet-beschuss-aus-syrien-und-dem-jemen](https://www.spiegel.de/ausland/israel-meldet-beschuss-aus-syrien-und-dem-jemen-a-b6698dc3-3929-4c2f-98c3-53301c24673d#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/wissenschaft/natur/karibikstraende-38-millionen-tonnen-sargassum-algen-sorgen-fuer-plage](https://www.spiegel.de/wissenschaft/natur/karibikstraende-38-millionen-tonnen-sargassum-algen-sorgen-fuer-plage-a-e376e8a5-e8bb-42cb-b349-720e279e5fd8#ref=rss)
-* [https://www.spiegel.de/ausland/sudan-fuenf-tote-bei-angriff-auf-uno-hilfskonvoi](https://www.spiegel.de/ausland/sudan-fuenf-tote-bei-angriff-auf-uno-hilfskonvoi-a-02d4610f-87e7-4b6d-a184-02bc5ffb151d#ref=rss)
-### sargassumalgen
-
-* [https://www.spiegel.de/wissenschaft/natur/karibikstraende-38-millionen-tonnen-sargassum-algen-sorgen-fuer-plage](https://www.spiegel.de/wissenschaft/natur/karibikstraende-38-millionen-tonnen-sargassum-algen-sorgen-fuer-plage-a-e376e8a5-e8bb-42cb-b349-720e279e5fd8#ref=rss)
-### connie
-
-* [https://www.spiegel.de/kultur/connie-francis-freut-sich-ueber-tiktok-comeback](https://www.spiegel.de/kultur/connie-francis-freut-sich-ueber-tiktok-comeback-a-c5f5746e-5e78-4ab8-9d7d-1de10ff8a5e3#ref=rss)
-### francis
-
-* [https://www.spiegel.de/kultur/connie-francis-freut-sich-ueber-tiktok-comeback](https://www.spiegel.de/kultur/connie-francis-freut-sich-ueber-tiktok-comeback-a-c5f5746e-5e78-4ab8-9d7d-1de10ff8a5e3#ref=rss)
-### lena
-
-* [https://www.spiegel.de/sport/fussball/dfb-lena-oberdorf-faehrt-nicht-zur-fussball-em-2025](https://www.spiegel.de/sport/fussball/dfb-lena-oberdorf-faehrt-nicht-zur-fussball-em-2025-a-77f9d59b-3f5d-4642-ad1d-7b5a924f314e#ref=rss)
-### oberdorf
-
-* [https://www.spiegel.de/sport/fussball/dfb-lena-oberdorf-faehrt-nicht-zur-fussball-em-2025](https://www.spiegel.de/sport/fussball/dfb-lena-oberdorf-faehrt-nicht-zur-fussball-em-2025-a-77f9d59b-3f5d-4642-ad1d-7b5a924f314e#ref=rss)
-### hessen
-
-* [https://www.spiegel.de/panorama/bildung/hessen-kultusminister-plant-landesweites-waffenverbot-an-schulen](https://www.spiegel.de/panorama/bildung/hessen-kultusminister-plant-landesweites-waffenverbot-an-schulen-a-dc261aab-a7b1-4b31-bf28-0017d3ec1036#ref=rss)
-### plant
-
-* [https://www.spiegel.de/panorama/bildung/hessen-kultusminister-plant-landesweites-waffenverbot-an-schulen](https://www.spiegel.de/panorama/bildung/hessen-kultusminister-plant-landesweites-waffenverbot-an-schulen-a-dc261aab-a7b1-4b31-bf28-0017d3ec1036#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/slapp-greenpeace-fordert-schutzschild-gegen-konzernklagen](https://www.spiegel.de/wirtschaft/soziales/slapp-greenpeace-fordert-schutzschild-gegen-konzernklagen-a-46e319c2-5066-4f58-85e1-5578a32955f4#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/politik/deutschland/wehrpflicht-debatte-frauen-an-die-waffen](https://www.spiegel.de/politik/deutschland/wehrpflicht-debatte-frauen-an-die-waffen-a-4d070ab2-3749-4e07-956f-1a9d85fabb94#ref=rss)
-### tiktok
-
-* [https://www.spiegel.de/netzwelt/apps/tiktok-leitet-skinnytok-anfragen-auf-hilfeseite-fuer-essstoerungen-um](https://www.spiegel.de/netzwelt/apps/tiktok-leitet-skinnytok-anfragen-auf-hilfeseite-fuer-essstoerungen-um-a-171d79e5-570e-4c27-8d97-9a96b540f8e9#ref=rss)
-### essstörungen
-
-* [https://www.spiegel.de/netzwelt/apps/tiktok-leitet-skinnytok-anfragen-auf-hilfeseite-fuer-essstoerungen-um](https://www.spiegel.de/netzwelt/apps/tiktok-leitet-skinnytok-anfragen-auf-hilfeseite-fuer-essstoerungen-um-a-171d79e5-570e-4c27-8d97-9a96b540f8e9#ref=rss)
-### kritik
-
-* [https://www.spiegel.de/netzwelt/apps/tiktok-leitet-skinnytok-anfragen-auf-hilfeseite-fuer-essstoerungen-um](https://www.spiegel.de/netzwelt/apps/tiktok-leitet-skinnytok-anfragen-auf-hilfeseite-fuer-essstoerungen-um-a-171d79e5-570e-4c27-8d97-9a96b540f8e9#ref=rss)
-* [https://www.spiegel.de/panorama/leute/john-legend-sieht-usa-in-autoritaeres-regierungssystem-abgleiten](https://www.spiegel.de/panorama/leute/john-legend-sieht-usa-in-autoritaeres-regierungssystem-abgleiten-a-2cc865fb-a10b-4b4b-b340-0781cf5c65b0#ref=rss)
-### partei
-
-* [https://www.spiegel.de/panorama/bildung/sachsen-inhalt-schulen-duerfen-keine-skifahrten-mehr-machen](https://www.spiegel.de/panorama/bildung/sachsen-inhalt-schulen-duerfen-keine-skifahrten-mehr-machen-a-73652994-8f39-4f43-9ff0-4fbf1d63b87a#ref=rss)
-* [https://www.spiegel.de/ausland/israel-ultrareligioese-partei-steht-vor-austritt-aus-koalition-von-benjamin-netanyahu](https://www.spiegel.de/ausland/israel-ultrareligioese-partei-steht-vor-austritt-aus-koalition-von-benjamin-netanyahu-a-4028a0db-4982-48d6-8d84-9442943fe1e0#ref=rss)
-### frankreich
-
-* [https://www.spiegel.de/netzwelt/web/pornhub-in-frankreich-protest-statt-pornografie](https://www.spiegel.de/netzwelt/web/pornhub-in-frankreich-protest-statt-pornografie-a-242004b8-855e-4940-b40f-6b1e69d30b48#ref=rss)
-### möglichen
-
-* [https://www.spiegel.de/netzwelt/web/pornhub-in-frankreich-protest-statt-pornografie](https://www.spiegel.de/netzwelt/web/pornhub-in-frankreich-protest-statt-pornografie-a-242004b8-855e-4940-b40f-6b1e69d30b48#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/world-wealth-report-zahl-der-millionaere-in-deutschland-schrumpft](https://www.spiegel.de/wirtschaft/soziales/world-wealth-report-zahl-der-millionaere-in-deutschland-schrumpft-a-ee110524-626d-4b71-b1cc-8b8738fd0da1#ref=rss)
-### steuerentlastungen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/kabinett-billigt-milliardenschwere-steuerentlastungen-fuer-unternehmen](https://www.spiegel.de/wirtschaft/unternehmen/kabinett-billigt-milliardenschwere-steuerentlastungen-fuer-unternehmen-a-1f3a5250-6348-46b9-b93d-6500a8347b51#ref=rss)
-### unternehmen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/kabinett-billigt-milliardenschwere-steuerentlastungen-fuer-unternehmen](https://www.spiegel.de/wirtschaft/unternehmen/kabinett-billigt-milliardenschwere-steuerentlastungen-fuer-unternehmen-a-1f3a5250-6348-46b9-b93d-6500a8347b51#ref=rss)
-### netanyahu
-
-* [https://www.spiegel.de/ausland/israel-ultrareligioese-partei-steht-vor-austritt-aus-koalition-von-benjamin-netanyahu](https://www.spiegel.de/ausland/israel-ultrareligioese-partei-steht-vor-austritt-aus-koalition-von-benjamin-netanyahu-a-4028a0db-4982-48d6-8d84-9442943fe1e0#ref=rss)
-### juden
-
-* [https://www.spiegel.de/ausland/israel-ultrareligioese-partei-steht-vor-austritt-aus-koalition-von-benjamin-netanyahu](https://www.spiegel.de/ausland/israel-ultrareligioese-partei-steht-vor-austritt-aus-koalition-von-benjamin-netanyahu-a-4028a0db-4982-48d6-8d84-9442943fe1e0#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/antisemitismus-anzahl-antisemitischer-vorfaelle-drastisch-angestiegen](https://www.spiegel.de/panorama/justiz/antisemitismus-anzahl-antisemitischer-vorfaelle-drastisch-angestiegen-a-196f8d86-597e-4c1b-b420-8bbcc3630bb6#ref=rss)
-### gesetz
-
-* [https://www.spiegel.de/ausland/israel-ultrareligioese-partei-steht-vor-austritt-aus-koalition-von-benjamin-netanyahu](https://www.spiegel.de/ausland/israel-ultrareligioese-partei-steht-vor-austritt-aus-koalition-von-benjamin-netanyahu-a-4028a0db-4982-48d6-8d84-9442943fe1e0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/slapp-greenpeace-fordert-schutzschild-gegen-konzernklagen](https://www.spiegel.de/wirtschaft/soziales/slapp-greenpeace-fordert-schutzschild-gegen-konzernklagen-a-46e319c2-5066-4f58-85e1-5578a32955f4#ref=rss)
-### steigt
-
-* [https://www.spiegel.de/ausland/israel-ultrareligioese-partei-steht-vor-austritt-aus-koalition-von-benjamin-netanyahu](https://www.spiegel.de/ausland/israel-ultrareligioese-partei-steht-vor-austritt-aus-koalition-von-benjamin-netanyahu-a-4028a0db-4982-48d6-8d84-9442943fe1e0#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/lehrkraeftemangel-zunahme-von-quereinsteigern-an-allgemeinbildenden-schulen](https://www.spiegel.de/panorama/bildung/lehrkraeftemangel-zunahme-von-quereinsteigern-an-allgemeinbildenden-schulen-a-d6bc7c22-d787-4c76-9bf7-5e2a3256708c#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/ausland/israel-ultrareligioese-partei-steht-vor-austritt-aus-koalition-von-benjamin-netanyahu](https://www.spiegel.de/ausland/israel-ultrareligioese-partei-steht-vor-austritt-aus-koalition-von-benjamin-netanyahu-a-4028a0db-4982-48d6-8d84-9442943fe1e0#ref=rss)
-* [https://www.spiegel.de/ausland/israel-meldet-beschuss-aus-syrien-und-dem-jemen](https://www.spiegel.de/ausland/israel-meldet-beschuss-aus-syrien-und-dem-jemen-a-b6698dc3-3929-4c2f-98c3-53301c24673d#ref=rss)
-### besonders
-
-* [https://www.spiegel.de/ausland/usa-regierung-kassiert-sonderregel-fuer-notfall-schwangerschaftsabbrueche](https://www.spiegel.de/ausland/usa-regierung-kassiert-sonderregel-fuer-notfall-schwangerschaftsabbrueche-a-99ee5558-5c24-435d-8b26-cfcc33d2b180#ref=rss)
-* [https://www.spiegel.de/auto/wann-um-pfingsten-mit-besonders-viel-stau-zu-rechnen-ist](https://www.spiegel.de/auto/wann-um-pfingsten-mit-besonders-viel-stau-zu-rechnen-ist-a-591d0c17-bb04-48a7-8e60-5466c9f3965c#ref=rss)
-### allgemeinbildenden
-
-* [https://www.spiegel.de/panorama/bildung/lehrkraeftemangel-zunahme-von-quereinsteigern-an-allgemeinbildenden-schulen](https://www.spiegel.de/panorama/bildung/lehrkraeftemangel-zunahme-von-quereinsteigern-an-allgemeinbildenden-schulen-a-d6bc7c22-d787-4c76-9bf7-5e2a3256708c#ref=rss)
-### greenpeace
-
-* [https://www.spiegel.de/wirtschaft/soziales/slapp-greenpeace-fordert-schutzschild-gegen-konzernklagen](https://www.spiegel.de/wirtschaft/soziales/slapp-greenpeace-fordert-schutzschild-gegen-konzernklagen-a-46e319c2-5066-4f58-85e1-5578a32955f4#ref=rss)
-### dagegen
-
-* [https://www.spiegel.de/wirtschaft/soziales/slapp-greenpeace-fordert-schutzschild-gegen-konzernklagen](https://www.spiegel.de/wirtschaft/soziales/slapp-greenpeace-fordert-schutzschild-gegen-konzernklagen-a-46e319c2-5066-4f58-85e1-5578a32955f4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/world-wealth-report-zahl-der-millionaere-in-deutschland-schrumpft](https://www.spiegel.de/wirtschaft/soziales/world-wealth-report-zahl-der-millionaere-in-deutschland-schrumpft-a-ee110524-626d-4b71-b1cc-8b8738fd0da1#ref=rss)
-### schlägt
-
-* [https://www.spiegel.de/wirtschaft/soziales/slapp-greenpeace-fordert-schutzschild-gegen-konzernklagen](https://www.spiegel.de/wirtschaft/soziales/slapp-greenpeace-fordert-schutzschild-gegen-konzernklagen-a-46e319c2-5066-4f58-85e1-5578a32955f4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/china-bringt-deutsche-industrie-in-bedraengnis](https://www.spiegel.de/wirtschaft/unternehmen/china-bringt-deutsche-industrie-in-bedraengnis-a-b7d06d4f-49e6-4b3f-b805-e3a4f5068a07#ref=rss)
-### aufregung
-
-* [https://www.spiegel.de/sport/fussball/fussball-elfmeterregel-bei-doppelberuehrung-wird-nach-aufregung-um-julian-alvarez-angepasst](https://www.spiegel.de/sport/fussball/fussball-elfmeterregel-bei-doppelberuehrung-wird-nach-aufregung-um-julian-alvarez-angepasst-a-0ce6ff3b-bd51-4ad8-80cd-2c3a631b6dab#ref=rss)
-* [https://www.spiegel.de/sport/tennis/french-open-lorenzo-musetti-schiesst-linienrichterin-ab-und-trifft-im-halbfinale-auf-carlos-alcaraz](https://www.spiegel.de/sport/tennis/french-open-lorenzo-musetti-schiesst-linienrichterin-ab-und-trifft-im-halbfinale-auf-carlos-alcaraz-a-67e9406c-f605-46c9-8513-e8b32a863e5b#ref=rss)
-### julián
-
-* [https://www.spiegel.de/sport/fussball/fussball-elfmeterregel-bei-doppelberuehrung-wird-nach-aufregung-um-julian-alvarez-angepasst](https://www.spiegel.de/sport/fussball/fussball-elfmeterregel-bei-doppelberuehrung-wird-nach-aufregung-um-julian-alvarez-angepasst-a-0ce6ff3b-bd51-4ad8-80cd-2c3a631b6dab#ref=rss)
-### álvarez
-
-* [https://www.spiegel.de/sport/fussball/fussball-elfmeterregel-bei-doppelberuehrung-wird-nach-aufregung-um-julian-alvarez-angepasst](https://www.spiegel.de/sport/fussball/fussball-elfmeterregel-bei-doppelberuehrung-wird-nach-aufregung-um-julian-alvarez-angepasst-a-0ce6ff3b-bd51-4ad8-80cd-2c3a631b6dab#ref=rss)
-### iran
-
-* [https://www.spiegel.de/ausland/iran-weist-us-vorstoss-zum-atomabkommen-bruesk-zurueck](https://www.spiegel.de/ausland/iran-weist-us-vorstoss-zum-atomabkommen-bruesk-zurueck-a-7963f09e-12ab-4b05-8fb0-42a635d26718#ref=rss)
-### vorfälle
-
-* [https://www.spiegel.de/panorama/justiz/antisemitismus-anzahl-antisemitischer-vorfaelle-drastisch-angestiegen](https://www.spiegel.de/panorama/justiz/antisemitismus-anzahl-antisemitischer-vorfaelle-drastisch-angestiegen-a-196f8d86-597e-4c1b-b420-8bbcc3630bb6#ref=rss)
-### drastisch
-
-* [https://www.spiegel.de/panorama/justiz/antisemitismus-anzahl-antisemitischer-vorfaelle-drastisch-angestiegen](https://www.spiegel.de/panorama/justiz/antisemitismus-anzahl-antisemitischer-vorfaelle-drastisch-angestiegen-a-196f8d86-597e-4c1b-b420-8bbcc3630bb6#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-usa-will-militaerpraesenz-reduzieren-weisshelme-werden-teil-der-neuen-regierung](https://www.spiegel.de/ausland/syrien-usa-will-militaerpraesenz-reduzieren-weisshelme-werden-teil-der-neuen-regierung-a-f8bd8823-813a-48ec-a723-72fc229bf9b9#ref=rss)
-### egitarre
-
-* [https://www.spiegel.de/kultur/kino/michael-j-fox-vermisst-seine-e-gitarre-aus-zurueck-in-die-zukunft](https://www.spiegel.de/kultur/kino/michael-j-fox-vermisst-seine-e-gitarre-aus-zurueck-in-die-zukunft-a-6b9c4f38-fae6-49fb-b3ad-b569ce5af5f7#ref=rss)
-### grund
-
-* [https://www.spiegel.de/auto/wann-um-pfingsten-mit-besonders-viel-stau-zu-rechnen-ist](https://www.spiegel.de/auto/wann-um-pfingsten-mit-besonders-viel-stau-zu-rechnen-ist-a-591d0c17-bb04-48a7-8e60-5466c9f3965c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/world-wealth-report-zahl-der-millionaere-in-deutschland-schrumpft](https://www.spiegel.de/wirtschaft/soziales/world-wealth-report-zahl-der-millionaere-in-deutschland-schrumpft-a-ee110524-626d-4b71-b1cc-8b8738fd0da1#ref=rss)
-### köln
-
-* [https://www.spiegel.de/panorama/bombenentschaerfung-in-koeln-deutz-groesste-evakuierung-seit-1945-hat-begonnen](https://www.spiegel.de/panorama/bombenentschaerfung-in-koeln-deutz-groesste-evakuierung-seit-1945-hat-begonnen-a-e5a57070-1012-4976-b970-bf7cc96d845a#ref=rss)
-### millionäre
-
-* [https://www.spiegel.de/wirtschaft/soziales/world-wealth-report-zahl-der-millionaere-in-deutschland-schrumpft](https://www.spiegel.de/wirtschaft/soziales/world-wealth-report-zahl-der-millionaere-in-deutschland-schrumpft-a-ee110524-626d-4b71-b1cc-8b8738fd0da1#ref=rss)
-### french
-
-* [https://www.spiegel.de/sport/tennis/french-open-lorenzo-musetti-schiesst-linienrichterin-ab-und-trifft-im-halbfinale-auf-carlos-alcaraz](https://www.spiegel.de/sport/tennis/french-open-lorenzo-musetti-schiesst-linienrichterin-ab-und-trifft-im-halbfinale-auf-carlos-alcaraz-a-67e9406c-f605-46c9-8513-e8b32a863e5b#ref=rss)
-### open
-
-* [https://www.spiegel.de/sport/tennis/french-open-lorenzo-musetti-schiesst-linienrichterin-ab-und-trifft-im-halbfinale-auf-carlos-alcaraz](https://www.spiegel.de/sport/tennis/french-open-lorenzo-musetti-schiesst-linienrichterin-ab-und-trifft-im-halbfinale-auf-carlos-alcaraz-a-67e9406c-f605-46c9-8513-e8b32a863e5b#ref=rss)
-### lorenzo
-
-* [https://www.spiegel.de/sport/tennis/french-open-lorenzo-musetti-schiesst-linienrichterin-ab-und-trifft-im-halbfinale-auf-carlos-alcaraz](https://www.spiegel.de/sport/tennis/french-open-lorenzo-musetti-schiesst-linienrichterin-ab-und-trifft-im-halbfinale-auf-carlos-alcaraz-a-67e9406c-f605-46c9-8513-e8b32a863e5b#ref=rss)
-### musetti
-
-* [https://www.spiegel.de/sport/tennis/french-open-lorenzo-musetti-schiesst-linienrichterin-ab-und-trifft-im-halbfinale-auf-carlos-alcaraz](https://www.spiegel.de/sport/tennis/french-open-lorenzo-musetti-schiesst-linienrichterin-ab-und-trifft-im-halbfinale-auf-carlos-alcaraz-a-67e9406c-f605-46c9-8513-e8b32a863e5b#ref=rss)
-### linienrichterin
-
-* [https://www.spiegel.de/sport/tennis/french-open-lorenzo-musetti-schiesst-linienrichterin-ab-und-trifft-im-halbfinale-auf-carlos-alcaraz](https://www.spiegel.de/sport/tennis/french-open-lorenzo-musetti-schiesst-linienrichterin-ab-und-trifft-im-halbfinale-auf-carlos-alcaraz-a-67e9406c-f605-46c9-8513-e8b32a863e5b#ref=rss)
-### seltene
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/china-bringt-deutsche-industrie-in-bedraengnis](https://www.spiegel.de/wirtschaft/unternehmen/china-bringt-deutsche-industrie-in-bedraengnis-a-b7d06d4f-49e6-4b3f-b805-e3a4f5068a07#ref=rss)
-### erden
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/china-bringt-deutsche-industrie-in-bedraengnis](https://www.spiegel.de/wirtschaft/unternehmen/china-bringt-deutsche-industrie-in-bedraengnis-a-b7d06d4f-49e6-4b3f-b805-e3a4f5068a07#ref=rss)
-### john
-
-* [https://www.spiegel.de/panorama/leute/john-legend-sieht-usa-in-autoritaeres-regierungssystem-abgleiten](https://www.spiegel.de/panorama/leute/john-legend-sieht-usa-in-autoritaeres-regierungssystem-abgleiten-a-2cc865fb-a10b-4b4b-b340-0781cf5c65b0#ref=rss)
-### legend
-
-* [https://www.spiegel.de/panorama/leute/john-legend-sieht-usa-in-autoritaeres-regierungssystem-abgleiten](https://www.spiegel.de/panorama/leute/john-legend-sieht-usa-in-autoritaeres-regierungssystem-abgleiten-a-2cc865fb-a10b-4b4b-b340-0781cf5c65b0#ref=rss)
-### musiker
-
-* [https://www.spiegel.de/panorama/leute/john-legend-sieht-usa-in-autoritaeres-regierungssystem-abgleiten](https://www.spiegel.de/panorama/leute/john-legend-sieht-usa-in-autoritaeres-regierungssystem-abgleiten-a-2cc865fb-a10b-4b4b-b340-0781cf5c65b0#ref=rss)
+* [https://www.spiegel.de/wissenschaft/golden-dome-trumps-milliardenprojekt-fuer-raketenabwehr-im-weltall](https://www.spiegel.de/wissenschaft/golden-dome-trumps-milliardenprojekt-fuer-raketenabwehr-im-weltall-a-2fc0b1cd-b644-45d2-8c20-43ddd8ea43ce#ref=rss)
+* [https://www.spiegel.de/wissenschaft/usa-donald-trumps-teure-vision-einer-raketenabwehr-im-weltall](https://www.spiegel.de/wissenschaft/usa-donald-trumps-teure-vision-einer-raketenabwehr-im-weltall-a-e52c77e0-32e1-4f0e-9317-ff8480b43e62#ref=rss)
+* [https://www.spiegel.de/ausland/iran-und-die-usa-wie-steht-es-um-die-atomverhandlungen](https://www.spiegel.de/ausland/iran-und-die-usa-wie-steht-es-um-die-atomverhandlungen-a-8b7733e2-6803-41e2-a415-cfde7997c033#ref=rss)
+* [https://www.spiegel.de/geschichte/usa-donald-trump-suedafrika-und-die-maer-vom-weissen-genozid](https://www.spiegel.de/geschichte/usa-donald-trump-suedafrika-und-die-maer-vom-weissen-genozid-a-c100efc0-15a1-449a-8aa1-65067182f0c6#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/panorama/leute/john-legend-sieht-usa-in-autoritaeres-regierungssystem-abgleiten](https://www.spiegel.de/panorama/leute/john-legend-sieht-usa-in-autoritaeres-regierungssystem-abgleiten-a-2cc865fb-a10b-4b4b-b340-0781cf5c65b0#ref=rss)
+* [https://www.spiegel.de/wissenschaft/golden-dome-trumps-milliardenprojekt-fuer-raketenabwehr-im-weltall](https://www.spiegel.de/wissenschaft/golden-dome-trumps-milliardenprojekt-fuer-raketenabwehr-im-weltall-a-2fc0b1cd-b644-45d2-8c20-43ddd8ea43ce#ref=rss)
+* [https://www.spiegel.de/wissenschaft/usa-donald-trumps-teure-vision-einer-raketenabwehr-im-weltall](https://www.spiegel.de/wissenschaft/usa-donald-trumps-teure-vision-einer-raketenabwehr-im-weltall-a-e52c77e0-32e1-4f0e-9317-ff8480b43e62#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-telefoniert-mit-wladimir-putin-kein-sofortiger-frieden-in-sicht](https://www.spiegel.de/ausland/donald-trump-telefoniert-mit-wladimir-putin-kein-sofortiger-frieden-in-sicht-a-1874ed99-863d-4607-b28b-5cfd07ed7e24#ref=rss)
+* [https://www.spiegel.de/geschichte/usa-donald-trump-suedafrika-und-die-maer-vom-weissen-genozid](https://www.spiegel.de/geschichte/usa-donald-trump-suedafrika-und-die-maer-vom-weissen-genozid-a-c100efc0-15a1-449a-8aa1-65067182f0c6#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/panorama/leute/john-legend-sieht-usa-in-autoritaeres-regierungssystem-abgleiten](https://www.spiegel.de/panorama/leute/john-legend-sieht-usa-in-autoritaeres-regierungssystem-abgleiten-a-2cc865fb-a10b-4b4b-b340-0781cf5c65b0#ref=rss)
-### prominente
+* [https://www.spiegel.de/wissenschaft/golden-dome-trumps-milliardenprojekt-fuer-raketenabwehr-im-weltall](https://www.spiegel.de/wissenschaft/golden-dome-trumps-milliardenprojekt-fuer-raketenabwehr-im-weltall-a-2fc0b1cd-b644-45d2-8c20-43ddd8ea43ce#ref=rss)
+* [https://www.spiegel.de/wissenschaft/usa-donald-trumps-teure-vision-einer-raketenabwehr-im-weltall](https://www.spiegel.de/wissenschaft/usa-donald-trumps-teure-vision-einer-raketenabwehr-im-weltall-a-e52c77e0-32e1-4f0e-9317-ff8480b43e62#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-telefoniert-mit-wladimir-putin-kein-sofortiger-frieden-in-sicht](https://www.spiegel.de/ausland/donald-trump-telefoniert-mit-wladimir-putin-kein-sofortiger-frieden-in-sicht-a-1874ed99-863d-4607-b28b-5cfd07ed7e24#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-merz-bei-trump-ki-koennte-bullshit-jobs-uebernehmen-weniger-millionaere-in-deutschland](https://www.spiegel.de/politik/deutschland/news-des-tages-merz-bei-trump-ki-koennte-bullshit-jobs-uebernehmen-weniger-millionaere-in-deutschland-a-5e413f11-e800-4c44-9550-885b9e44aae7#ref=rss)
+* [https://www.spiegel.de/geschichte/usa-donald-trump-suedafrika-und-die-maer-vom-weissen-genozid](https://www.spiegel.de/geschichte/usa-donald-trump-suedafrika-und-die-maer-vom-weissen-genozid-a-c100efc0-15a1-449a-8aa1-65067182f0c6#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/politik/deutschland/prominente-fordern-umkehr-in-deutscher-israelpolitik](https://www.spiegel.de/politik/deutschland/prominente-fordern-umkehr-in-deutscher-israelpolitik-a-8118c9ac-9391-478c-ba63-2c94df5b0c96#ref=rss)
-### fordern
+* [https://www.spiegel.de/deinspiegel/familie-was-eltern-und-kinder-ueber-taschengeld-wissen-muessen](https://www.spiegel.de/deinspiegel/familie-was-eltern-und-kinder-ueber-taschengeld-wissen-muessen-a-9e815d0b-9de9-4156-b3b3-38eceb092fc7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/manuela-schwesig-spd-ministerpraesidentin-verlangt-energieplan-fuer-deutschland](https://www.spiegel.de/politik/deutschland/manuela-schwesig-spd-ministerpraesidentin-verlangt-energieplan-fuer-deutschland-a-abbd5d99-8d08-46f7-90d9-fd12d5c1e1dd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-merz-bei-trump-ki-koennte-bullshit-jobs-uebernehmen-weniger-millionaere-in-deutschland](https://www.spiegel.de/politik/deutschland/news-des-tages-merz-bei-trump-ki-koennte-bullshit-jobs-uebernehmen-weniger-millionaere-in-deutschland-a-5e413f11-e800-4c44-9550-885b9e44aae7#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klimapolitik-konservative-kraefte-gefaehrden-deutschlands-klimaneutralitaet-bis-2045](https://www.spiegel.de/wissenschaft/klimapolitik-konservative-kraefte-gefaehrden-deutschlands-klimaneutralitaet-bis-2045-a-d06f9696-b044-4c72-9b44-403a2019282b#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/politik/deutschland/prominente-fordern-umkehr-in-deutscher-israelpolitik](https://www.spiegel.de/politik/deutschland/prominente-fordern-umkehr-in-deutscher-israelpolitik-a-8118c9ac-9391-478c-ba63-2c94df5b0c96#ref=rss)
-### jemen
+* [https://www.spiegel.de/sport/fussball/finnland-nominiert-versehentlich-51-jaehrige-fussballrentnerin](https://www.spiegel.de/sport/fussball/finnland-nominiert-versehentlich-51-jaehrige-fussballrentnerin-a-a4f52c18-92f2-4b93-830d-6f290db0b81e#ref=rss)
+* [https://www.spiegel.de/sport/mirra-andrejewa-bei-den-french-open-wie-es-ist-mit-18-jahren-ein-ganzes-stadion-gegen-sich-zu-haben](https://www.spiegel.de/sport/mirra-andrejewa-bei-den-french-open-wie-es-ist-mit-18-jahren-ein-ganzes-stadion-gegen-sich-zu-haben-a-1c80b06f-e541-4663-8841-19bbeb62d98d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klimapolitik-konservative-kraefte-gefaehrden-deutschlands-klimaneutralitaet-bis-2045](https://www.spiegel.de/wissenschaft/klimapolitik-konservative-kraefte-gefaehrden-deutschlands-klimaneutralitaet-bis-2045-a-d06f9696-b044-4c72-9b44-403a2019282b#ref=rss)
+* [https://www.spiegel.de/sport/tennis/french-open-halbfinale-beim-debuet-lois-boissons-traumlauf-haelt-an](https://www.spiegel.de/sport/tennis/french-open-halbfinale-beim-debuet-lois-boissons-traumlauf-haelt-an-a-cc00a710-ccb2-455a-a6c0-9884bb422682#ref=rss)
+### weltall
 
-* [https://www.spiegel.de/ausland/israel-meldet-beschuss-aus-syrien-und-dem-jemen](https://www.spiegel.de/ausland/israel-meldet-beschuss-aus-syrien-und-dem-jemen-a-b6698dc3-3929-4c2f-98c3-53301c24673d#ref=rss)
-### angriff
+* [https://www.spiegel.de/wissenschaft/golden-dome-trumps-milliardenprojekt-fuer-raketenabwehr-im-weltall](https://www.spiegel.de/wissenschaft/golden-dome-trumps-milliardenprojekt-fuer-raketenabwehr-im-weltall-a-2fc0b1cd-b644-45d2-8c20-43ddd8ea43ce#ref=rss)
+* [https://www.spiegel.de/wissenschaft/usa-donald-trumps-teure-vision-einer-raketenabwehr-im-weltall](https://www.spiegel.de/wissenschaft/usa-donald-trumps-teure-vision-einer-raketenabwehr-im-weltall-a-e52c77e0-32e1-4f0e-9317-ff8480b43e62#ref=rss)
+### video
 
-* [https://www.spiegel.de/ausland/israel-meldet-beschuss-aus-syrien-und-dem-jemen](https://www.spiegel.de/ausland/israel-meldet-beschuss-aus-syrien-und-dem-jemen-a-b6698dc3-3929-4c2f-98c3-53301c24673d#ref=rss)
-* [https://www.spiegel.de/ausland/sudan-fuenf-tote-bei-angriff-auf-uno-hilfskonvoi](https://www.spiegel.de/ausland/sudan-fuenf-tote-bei-angriff-auf-uno-hilfskonvoi-a-02d4610f-87e7-4b6d-a184-02bc5ffb151d#ref=rss)
-### sudan
+* [https://www.spiegel.de/sport/fussball/mats-hummels-wird-tv-experte-bei-amazon-prime-video](https://www.spiegel.de/sport/fussball/mats-hummels-wird-tv-experte-bei-amazon-prime-video-a-b6800b08-838d-4d0f-acf2-02ddddf77c87#ref=rss)
+* [https://www.spiegel.de/kultur/prinzessin-lilibet-wird-vier-meghan-veroeffentlicht-intimes-babyfoto-ihrer-tochter](https://www.spiegel.de/kultur/prinzessin-lilibet-wird-vier-meghan-veroeffentlicht-intimes-babyfoto-ihrer-tochter-a-15c620a4-8ce6-4d1c-8672-482abc6b153e#ref=rss)
+### merz
 
-* [https://www.spiegel.de/ausland/sudan-fuenf-tote-bei-angriff-auf-uno-hilfskonvoi](https://www.spiegel.de/ausland/sudan-fuenf-tote-bei-angriff-auf-uno-hilfskonvoi-a-02d4610f-87e7-4b6d-a184-02bc5ffb151d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/schwarz-rote-plaene-die-laenderchefs-fuerchten-die-folgen-des-wirtschaftsboosters](https://www.spiegel.de/politik/deutschland/schwarz-rote-plaene-die-laenderchefs-fuerchten-die-folgen-des-wirtschaftsboosters-a-36bd800e-2ded-410d-93b5-019fb7b0cd7f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/manuela-schwesig-spd-ministerpraesidentin-verlangt-energieplan-fuer-deutschland](https://www.spiegel.de/politik/deutschland/manuela-schwesig-spd-ministerpraesidentin-verlangt-energieplan-fuer-deutschland-a-abbd5d99-8d08-46f7-90d9-fd12d5c1e1dd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-merz-bei-trump-ki-koennte-bullshit-jobs-uebernehmen-weniger-millionaere-in-deutschland](https://www.spiegel.de/politik/deutschland/news-des-tages-merz-bei-trump-ki-koennte-bullshit-jobs-uebernehmen-weniger-millionaere-in-deutschland-a-5e413f11-e800-4c44-9550-885b9e44aae7#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/panorama/gesellschaft/bombenentschaerfung-in-koeln-wie-eine-millionenstadt-mal-kurz-ihre-city-leerraeumt](https://www.spiegel.de/panorama/gesellschaft/bombenentschaerfung-in-koeln-wie-eine-millionenstadt-mal-kurz-ihre-city-leerraeumt-a-4280a8dd-62ec-412c-accb-a2f6667d99bc#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/dna-in-luftproben-aus-dublin-forscher-weisen-cannabis-und-schlafmohn-in-stadtluft-nach](https://www.spiegel.de/wissenschaft/mensch/dna-in-luftproben-aus-dublin-forscher-weisen-cannabis-und-schlafmohn-in-stadtluft-nach-a-46c23134-6021-4560-8961-6e529e8c29ee#ref=rss)
+* [https://www.spiegel.de/panorama/babenhausen-darmstadt-187-menschen-nach-fassaden-einsturz-aus-hochhaus-evakuiert](https://www.spiegel.de/panorama/babenhausen-darmstadt-187-menschen-nach-fassaden-einsturz-aus-hochhaus-evakuiert-a-42f09f37-c2e7-4eaf-b4e7-0735e9090fc6#ref=rss)
+### french
+
+* [https://www.spiegel.de/sport/mirra-andrejewa-bei-den-french-open-wie-es-ist-mit-18-jahren-ein-ganzes-stadion-gegen-sich-zu-haben](https://www.spiegel.de/sport/mirra-andrejewa-bei-den-french-open-wie-es-ist-mit-18-jahren-ein-ganzes-stadion-gegen-sich-zu-haben-a-1c80b06f-e541-4663-8841-19bbeb62d98d#ref=rss)
+* [https://www.spiegel.de/sport/tennis/french-open-halbfinale-beim-debuet-lois-boissons-traumlauf-haelt-an](https://www.spiegel.de/sport/tennis/french-open-halbfinale-beim-debuet-lois-boissons-traumlauf-haelt-an-a-cc00a710-ccb2-455a-a6c0-9884bb422682#ref=rss)
+### open
+
+* [https://www.spiegel.de/sport/mirra-andrejewa-bei-den-french-open-wie-es-ist-mit-18-jahren-ein-ganzes-stadion-gegen-sich-zu-haben](https://www.spiegel.de/sport/mirra-andrejewa-bei-den-french-open-wie-es-ist-mit-18-jahren-ein-ganzes-stadion-gegen-sich-zu-haben-a-1c80b06f-e541-4663-8841-19bbeb62d98d#ref=rss)
+* [https://www.spiegel.de/sport/tennis/french-open-halbfinale-beim-debuet-lois-boissons-traumlauf-haelt-an](https://www.spiegel.de/sport/tennis/french-open-halbfinale-beim-debuet-lois-boissons-traumlauf-haelt-an-a-cc00a710-ccb2-455a-a6c0-9884bb422682#ref=rss)
+### loïs
+
+* [https://www.spiegel.de/sport/mirra-andrejewa-bei-den-french-open-wie-es-ist-mit-18-jahren-ein-ganzes-stadion-gegen-sich-zu-haben](https://www.spiegel.de/sport/mirra-andrejewa-bei-den-french-open-wie-es-ist-mit-18-jahren-ein-ganzes-stadion-gegen-sich-zu-haben-a-1c80b06f-e541-4663-8841-19bbeb62d98d#ref=rss)
+* [https://www.spiegel.de/sport/tennis/french-open-halbfinale-beim-debuet-lois-boissons-traumlauf-haelt-an](https://www.spiegel.de/sport/tennis/french-open-halbfinale-beim-debuet-lois-boissons-traumlauf-haelt-an-a-cc00a710-ccb2-455a-a6c0-9884bb422682#ref=rss)
+### boisson
+
+* [https://www.spiegel.de/sport/mirra-andrejewa-bei-den-french-open-wie-es-ist-mit-18-jahren-ein-ganzes-stadion-gegen-sich-zu-haben](https://www.spiegel.de/sport/mirra-andrejewa-bei-den-french-open-wie-es-ist-mit-18-jahren-ein-ganzes-stadion-gegen-sich-zu-haben-a-1c80b06f-e541-4663-8841-19bbeb62d98d#ref=rss)
+* [https://www.spiegel.de/sport/tennis/french-open-halbfinale-beim-debuet-lois-boissons-traumlauf-haelt-an](https://www.spiegel.de/sport/tennis/french-open-halbfinale-beim-debuet-lois-boissons-traumlauf-haelt-an-a-cc00a710-ccb2-455a-a6c0-9884bb422682#ref=rss)
+### realistisch
+
+* [https://www.spiegel.de/wissenschaft/golden-dome-trumps-milliardenprojekt-fuer-raketenabwehr-im-weltall](https://www.spiegel.de/wissenschaft/golden-dome-trumps-milliardenprojekt-fuer-raketenabwehr-im-weltall-a-2fc0b1cd-b644-45d2-8c20-43ddd8ea43ce#ref=rss)
+* [https://www.spiegel.de/wissenschaft/usa-donald-trumps-teure-vision-einer-raketenabwehr-im-weltall](https://www.spiegel.de/wissenschaft/usa-donald-trumps-teure-vision-einer-raketenabwehr-im-weltall-a-e52c77e0-32e1-4f0e-9317-ff8480b43e62#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-telefoniert-mit-wladimir-putin-kein-sofortiger-frieden-in-sicht](https://www.spiegel.de/ausland/donald-trump-telefoniert-mit-wladimir-putin-kein-sofortiger-frieden-in-sicht-a-1874ed99-863d-4607-b28b-5cfd07ed7e24#ref=rss)
+### zoo
+
+* [https://www.spiegel.de/panorama/zoo-magdeburg-sibirisches-tigerweibchen-stormi-erdrueckt-junges](https://www.spiegel.de/panorama/zoo-magdeburg-sibirisches-tigerweibchen-stormi-erdrueckt-junges-a-bad3d2ad-cc1e-4e21-89bd-65fabc6aea9d#ref=rss)
+### fünf
+
+* [https://www.spiegel.de/panorama/zoo-magdeburg-sibirisches-tigerweibchen-stormi-erdrueckt-junges](https://www.spiegel.de/panorama/zoo-magdeburg-sibirisches-tigerweibchen-stormi-erdrueckt-junges-a-bad3d2ad-cc1e-4e21-89bd-65fabc6aea9d#ref=rss)
+* [https://www.spiegel.de/panorama/vatikan-papst-leo-xiv-will-fuenf-maenner-und-drei-frauen-heiligsprechen](https://www.spiegel.de/panorama/vatikan-papst-leo-xiv-will-fuenf-maenner-und-drei-frauen-heiligsprechen-a-4f7e7bc5-ffd0-4f3b-9256-0a50d2a28f7b#ref=rss)
+### köln
+
+* [https://www.spiegel.de/panorama/gesellschaft/bombenentschaerfung-in-koeln-wie-eine-millionenstadt-mal-kurz-ihre-city-leerraeumt](https://www.spiegel.de/panorama/gesellschaft/bombenentschaerfung-in-koeln-wie-eine-millionenstadt-mal-kurz-ihre-city-leerraeumt-a-4280a8dd-62ec-412c-accb-a2f6667d99bc#ref=rss)
+* [https://www.spiegel.de/kultur/koeln-pharmakonzern-bayer-versteigert-kunst-von-pablo-picasso-max-beckmann-und-andy-warhol](https://www.spiegel.de/kultur/koeln-pharmakonzern-bayer-versteigert-kunst-von-pablo-picasso-max-beckmann-und-andy-warhol-a-979ccf37-d0a5-4e33-abb0-0122fb92f6f4#ref=rss)
+### drei
+
+* [https://www.spiegel.de/panorama/gesellschaft/bombenentschaerfung-in-koeln-wie-eine-millionenstadt-mal-kurz-ihre-city-leerraeumt](https://www.spiegel.de/panorama/gesellschaft/bombenentschaerfung-in-koeln-wie-eine-millionenstadt-mal-kurz-ihre-city-leerraeumt-a-4280a8dd-62ec-412c-accb-a2f6667d99bc#ref=rss)
+* [https://www.spiegel.de/panorama/vatikan-papst-leo-xiv-will-fuenf-maenner-und-drei-frauen-heiligsprechen](https://www.spiegel.de/panorama/vatikan-papst-leo-xiv-will-fuenf-maenner-und-drei-frauen-heiligsprechen-a-4f7e7bc5-ffd0-4f3b-9256-0a50d2a28f7b#ref=rss)
+### schritt
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/axel-springer-konzern-streicht-130-stellen-in-der-holding](https://www.spiegel.de/wirtschaft/unternehmen/axel-springer-konzern-streicht-130-stellen-in-der-holding-a-26e6339c-0e3a-46bc-a580-a2d181c5aee9#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klimapolitik-konservative-kraefte-gefaehrden-deutschlands-klimaneutralitaet-bis-2045](https://www.spiegel.de/wissenschaft/klimapolitik-konservative-kraefte-gefaehrden-deutschlands-klimaneutralitaet-bis-2045-a-d06f9696-b044-4c72-9b44-403a2019282b#ref=rss)
+### bekommt
+
+* [https://www.spiegel.de/deinspiegel/familie-was-eltern-und-kinder-ueber-taschengeld-wissen-muessen](https://www.spiegel.de/deinspiegel/familie-was-eltern-und-kinder-ueber-taschengeld-wissen-muessen-a-9e815d0b-9de9-4156-b3b3-38eceb092fc7#ref=rss)
+* [https://www.spiegel.de/auto/fahrrad-kaufen-feilschen-lohnt-sich-meistens](https://www.spiegel.de/auto/fahrrad-kaufen-feilschen-lohnt-sich-meistens-a-2c1aa7fe-1cd5-4533-a648-26a5feda52bb#ref=rss)
+### anderen
+
+* [https://www.spiegel.de/deinspiegel/familie-was-eltern-und-kinder-ueber-taschengeld-wissen-muessen](https://www.spiegel.de/deinspiegel/familie-was-eltern-und-kinder-ueber-taschengeld-wissen-muessen-a-9e815d0b-9de9-4156-b3b3-38eceb092fc7#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/dna-in-luftproben-aus-dublin-forscher-weisen-cannabis-und-schlafmohn-in-stadtluft-nach](https://www.spiegel.de/wissenschaft/mensch/dna-in-luftproben-aus-dublin-forscher-weisen-cannabis-und-schlafmohn-in-stadtluft-nach-a-46c23134-6021-4560-8961-6e529e8c29ee#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/israel-aussenminister-johann-wadephul-sagt-weitere-waffenlieferungen-zu](https://www.spiegel.de/politik/deutschland/israel-aussenminister-johann-wadephul-sagt-weitere-waffenlieferungen-zu-a-c809ac85-ce1f-4d97-b1dc-82161e9bf5a5#ref=rss)
+### israel
+
+* [https://www.spiegel.de/ausland/iran-und-die-usa-wie-steht-es-um-die-atomverhandlungen](https://www.spiegel.de/ausland/iran-und-die-usa-wie-steht-es-um-die-atomverhandlungen-a-8b7733e2-6803-41e2-a415-cfde7997c033#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/israel-aussenminister-johann-wadephul-sagt-weitere-waffenlieferungen-zu](https://www.spiegel.de/politik/deutschland/israel-aussenminister-johann-wadephul-sagt-weitere-waffenlieferungen-zu-a-c809ac85-ce1f-4d97-b1dc-82161e9bf5a5#ref=rss)
+### folgen
+
+* [https://www.spiegel.de/sport/fussball/finnland-nominiert-versehentlich-51-jaehrige-fussballrentnerin](https://www.spiegel.de/sport/fussball/finnland-nominiert-versehentlich-51-jaehrige-fussballrentnerin-a-a4f52c18-92f2-4b93-830d-6f290db0b81e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/schwarz-rote-plaene-die-laenderchefs-fuerchten-die-folgen-des-wirtschaftsboosters](https://www.spiegel.de/politik/deutschland/schwarz-rote-plaene-die-laenderchefs-fuerchten-die-folgen-des-wirtschaftsboosters-a-36bd800e-2ded-410d-93b5-019fb7b0cd7f#ref=rss)
+### maria
+
+* [https://www.spiegel.de/kultur/maria-grazia-chiuri-verlaesst-dior-wenn-der-feminismus-aus-der-mode-kommt](https://www.spiegel.de/kultur/maria-grazia-chiuri-verlaesst-dior-wenn-der-feminismus-aus-der-mode-kommt-a-70dfd9d3-8fb0-49f9-a135-1f16868f4918#ref=rss)
+### grazia
+
+* [https://www.spiegel.de/kultur/maria-grazia-chiuri-verlaesst-dior-wenn-der-feminismus-aus-der-mode-kommt](https://www.spiegel.de/kultur/maria-grazia-chiuri-verlaesst-dior-wenn-der-feminismus-aus-der-mode-kommt-a-70dfd9d3-8fb0-49f9-a135-1f16868f4918#ref=rss)
+### dior
+
+* [https://www.spiegel.de/kultur/maria-grazia-chiuri-verlaesst-dior-wenn-der-feminismus-aus-der-mode-kommt](https://www.spiegel.de/kultur/maria-grazia-chiuri-verlaesst-dior-wenn-der-feminismus-aus-der-mode-kommt-a-70dfd9d3-8fb0-49f9-a135-1f16868f4918#ref=rss)
+### ende
+
+* [https://www.spiegel.de/kultur/maria-grazia-chiuri-verlaesst-dior-wenn-der-feminismus-aus-der-mode-kommt](https://www.spiegel.de/kultur/maria-grazia-chiuri-verlaesst-dior-wenn-der-feminismus-aus-der-mode-kommt-a-70dfd9d3-8fb0-49f9-a135-1f16868f4918#ref=rss)
+* [https://www.spiegel.de/panorama/zoo-magdeburg-sibirisches-tigerweibchen-stormi-erdrueckt-junges](https://www.spiegel.de/panorama/zoo-magdeburg-sibirisches-tigerweibchen-stormi-erdrueckt-junges-a-bad3d2ad-cc1e-4e21-89bd-65fabc6aea9d#ref=rss)
+### mirra
+
+* [https://www.spiegel.de/sport/mirra-andrejewa-bei-den-french-open-wie-es-ist-mit-18-jahren-ein-ganzes-stadion-gegen-sich-zu-haben](https://www.spiegel.de/sport/mirra-andrejewa-bei-den-french-open-wie-es-ist-mit-18-jahren-ein-ganzes-stadion-gegen-sich-zu-haben-a-1c80b06f-e541-4663-8841-19bbeb62d98d#ref=rss)
+### andrejewa
+
+* [https://www.spiegel.de/sport/mirra-andrejewa-bei-den-french-open-wie-es-ist-mit-18-jahren-ein-ganzes-stadion-gegen-sich-zu-haben](https://www.spiegel.de/sport/mirra-andrejewa-bei-den-french-open-wie-es-ist-mit-18-jahren-ein-ganzes-stadion-gegen-sich-zu-haben-a-1c80b06f-e541-4663-8841-19bbeb62d98d#ref=rss)
+### lasern
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-drohnenabwehr-in-charkiw-einsatz-von-lasern-und-kanonen](https://www.spiegel.de/ausland/ukraine-krieg-drohnenabwehr-in-charkiw-einsatz-von-lasern-und-kanonen-a-e5ea3f40-4ad4-4c4a-a115-df8f48c3fab0#ref=rss)
+### kanonen
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-drohnenabwehr-in-charkiw-einsatz-von-lasern-und-kanonen](https://www.spiegel.de/ausland/ukraine-krieg-drohnenabwehr-in-charkiw-einsatz-von-lasern-und-kanonen-a-e5ea3f40-4ad4-4c4a-a115-df8f48c3fab0#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-drohnenabwehr-in-charkiw-einsatz-von-lasern-und-kanonen](https://www.spiegel.de/ausland/ukraine-krieg-drohnenabwehr-in-charkiw-einsatz-von-lasern-und-kanonen-a-e5ea3f40-4ad4-4c4a-a115-df8f48c3fab0#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-telefoniert-mit-wladimir-putin-kein-sofortiger-frieden-in-sicht](https://www.spiegel.de/ausland/donald-trump-telefoniert-mit-wladimir-putin-kein-sofortiger-frieden-in-sicht-a-1874ed99-863d-4607-b28b-5cfd07ed7e24#ref=rss)
+### luft
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-drohnenabwehr-in-charkiw-einsatz-von-lasern-und-kanonen](https://www.spiegel.de/ausland/ukraine-krieg-drohnenabwehr-in-charkiw-einsatz-von-lasern-und-kanonen-a-e5ea3f40-4ad4-4c4a-a115-df8f48c3fab0#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/dna-in-luftproben-aus-dublin-forscher-weisen-cannabis-und-schlafmohn-in-stadtluft-nach](https://www.spiegel.de/wissenschaft/mensch/dna-in-luftproben-aus-dublin-forscher-weisen-cannabis-und-schlafmohn-in-stadtluft-nach-a-46c23134-6021-4560-8961-6e529e8c29ee#ref=rss)
+### angriffe
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-drohnenabwehr-in-charkiw-einsatz-von-lasern-und-kanonen](https://www.spiegel.de/ausland/ukraine-krieg-drohnenabwehr-in-charkiw-einsatz-von-lasern-und-kanonen-a-e5ea3f40-4ad4-4c4a-a115-df8f48c3fab0#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-telefoniert-mit-wladimir-putin-kein-sofortiger-frieden-in-sicht](https://www.spiegel.de/ausland/donald-trump-telefoniert-mit-wladimir-putin-kein-sofortiger-frieden-in-sicht-a-1874ed99-863d-4607-b28b-5cfd07ed7e24#ref=rss)
+### trumps
+
+* [https://www.spiegel.de/wissenschaft/golden-dome-trumps-milliardenprojekt-fuer-raketenabwehr-im-weltall](https://www.spiegel.de/wissenschaft/golden-dome-trumps-milliardenprojekt-fuer-raketenabwehr-im-weltall-a-2fc0b1cd-b644-45d2-8c20-43ddd8ea43ce#ref=rss)
+* [https://www.spiegel.de/wissenschaft/usa-donald-trumps-teure-vision-einer-raketenabwehr-im-weltall](https://www.spiegel.de/wissenschaft/usa-donald-trumps-teure-vision-einer-raketenabwehr-im-weltall-a-e52c77e0-32e1-4f0e-9317-ff8480b43e62#ref=rss)
+### raketenabwehr
+
+* [https://www.spiegel.de/wissenschaft/golden-dome-trumps-milliardenprojekt-fuer-raketenabwehr-im-weltall](https://www.spiegel.de/wissenschaft/golden-dome-trumps-milliardenprojekt-fuer-raketenabwehr-im-weltall-a-2fc0b1cd-b644-45d2-8c20-43ddd8ea43ce#ref=rss)
+* [https://www.spiegel.de/wissenschaft/usa-donald-trumps-teure-vision-einer-raketenabwehr-im-weltall](https://www.spiegel.de/wissenschaft/usa-donald-trumps-teure-vision-einer-raketenabwehr-im-weltall-a-e52c77e0-32e1-4f0e-9317-ff8480b43e62#ref=rss)
+### kosten
+
+* [https://www.spiegel.de/wissenschaft/golden-dome-trumps-milliardenprojekt-fuer-raketenabwehr-im-weltall](https://www.spiegel.de/wissenschaft/golden-dome-trumps-milliardenprojekt-fuer-raketenabwehr-im-weltall-a-2fc0b1cd-b644-45d2-8c20-43ddd8ea43ce#ref=rss)
+* [https://www.spiegel.de/wissenschaft/usa-donald-trumps-teure-vision-einer-raketenabwehr-im-weltall](https://www.spiegel.de/wissenschaft/usa-donald-trumps-teure-vision-einer-raketenabwehr-im-weltall-a-e52c77e0-32e1-4f0e-9317-ff8480b43e62#ref=rss)
+### milliardenhöhe
+
+* [https://www.spiegel.de/wissenschaft/golden-dome-trumps-milliardenprojekt-fuer-raketenabwehr-im-weltall](https://www.spiegel.de/wissenschaft/golden-dome-trumps-milliardenprojekt-fuer-raketenabwehr-im-weltall-a-2fc0b1cd-b644-45d2-8c20-43ddd8ea43ce#ref=rss)
+* [https://www.spiegel.de/wissenschaft/usa-donald-trumps-teure-vision-einer-raketenabwehr-im-weltall](https://www.spiegel.de/wissenschaft/usa-donald-trumps-teure-vision-einer-raketenabwehr-im-weltall-a-e52c77e0-32e1-4f0e-9317-ff8480b43e62#ref=rss)
+### aufrüstung
+
+* [https://www.spiegel.de/wissenschaft/golden-dome-trumps-milliardenprojekt-fuer-raketenabwehr-im-weltall](https://www.spiegel.de/wissenschaft/golden-dome-trumps-milliardenprojekt-fuer-raketenabwehr-im-weltall-a-2fc0b1cd-b644-45d2-8c20-43ddd8ea43ce#ref=rss)
+* [https://www.spiegel.de/wissenschaft/usa-donald-trumps-teure-vision-einer-raketenabwehr-im-weltall](https://www.spiegel.de/wissenschaft/usa-donald-trumps-teure-vision-einer-raketenabwehr-im-weltall-a-e52c77e0-32e1-4f0e-9317-ff8480b43e62#ref=rss)
+### träumt
+
+* [https://www.spiegel.de/wissenschaft/golden-dome-trumps-milliardenprojekt-fuer-raketenabwehr-im-weltall](https://www.spiegel.de/wissenschaft/golden-dome-trumps-milliardenprojekt-fuer-raketenabwehr-im-weltall-a-2fc0b1cd-b644-45d2-8c20-43ddd8ea43ce#ref=rss)
+* [https://www.spiegel.de/wissenschaft/usa-donald-trumps-teure-vision-einer-raketenabwehr-im-weltall](https://www.spiegel.de/wissenschaft/usa-donald-trumps-teure-vision-einer-raketenabwehr-im-weltall-a-e52c77e0-32e1-4f0e-9317-ff8480b43e62#ref=rss)
+### gigantischen
+
+* [https://www.spiegel.de/wissenschaft/golden-dome-trumps-milliardenprojekt-fuer-raketenabwehr-im-weltall](https://www.spiegel.de/wissenschaft/golden-dome-trumps-milliardenprojekt-fuer-raketenabwehr-im-weltall-a-2fc0b1cd-b644-45d2-8c20-43ddd8ea43ce#ref=rss)
+* [https://www.spiegel.de/wissenschaft/usa-donald-trumps-teure-vision-einer-raketenabwehr-im-weltall](https://www.spiegel.de/wissenschaft/usa-donald-trumps-teure-vision-einer-raketenabwehr-im-weltall-a-e52c77e0-32e1-4f0e-9317-ff8480b43e62#ref=rss)
+### raketenabwehrsystem
+
+* [https://www.spiegel.de/wissenschaft/golden-dome-trumps-milliardenprojekt-fuer-raketenabwehr-im-weltall](https://www.spiegel.de/wissenschaft/golden-dome-trumps-milliardenprojekt-fuer-raketenabwehr-im-weltall-a-2fc0b1cd-b644-45d2-8c20-43ddd8ea43ce#ref=rss)
+* [https://www.spiegel.de/wissenschaft/usa-donald-trumps-teure-vision-einer-raketenabwehr-im-weltall](https://www.spiegel.de/wissenschaft/usa-donald-trumps-teure-vision-einer-raketenabwehr-im-weltall-a-e52c77e0-32e1-4f0e-9317-ff8480b43e62#ref=rss)
+### einschätzungen
+
+* [https://www.spiegel.de/wissenschaft/golden-dome-trumps-milliardenprojekt-fuer-raketenabwehr-im-weltall](https://www.spiegel.de/wissenschaft/golden-dome-trumps-milliardenprojekt-fuer-raketenabwehr-im-weltall-a-2fc0b1cd-b644-45d2-8c20-43ddd8ea43ce#ref=rss)
+* [https://www.spiegel.de/wissenschaft/usa-donald-trumps-teure-vision-einer-raketenabwehr-im-weltall](https://www.spiegel.de/wissenschaft/usa-donald-trumps-teure-vision-einer-raketenabwehr-im-weltall-a-e52c77e0-32e1-4f0e-9317-ff8480b43e62#ref=rss)
+### spiegelredakteur
+
+* [https://www.spiegel.de/wissenschaft/golden-dome-trumps-milliardenprojekt-fuer-raketenabwehr-im-weltall](https://www.spiegel.de/wissenschaft/golden-dome-trumps-milliardenprojekt-fuer-raketenabwehr-im-weltall-a-2fc0b1cd-b644-45d2-8c20-43ddd8ea43ce#ref=rss)
+* [https://www.spiegel.de/wissenschaft/usa-donald-trumps-teure-vision-einer-raketenabwehr-im-weltall](https://www.spiegel.de/wissenschaft/usa-donald-trumps-teure-vision-einer-raketenabwehr-im-weltall-a-e52c77e0-32e1-4f0e-9317-ff8480b43e62#ref=rss)
+### christoph
+
+* [https://www.spiegel.de/wissenschaft/golden-dome-trumps-milliardenprojekt-fuer-raketenabwehr-im-weltall](https://www.spiegel.de/wissenschaft/golden-dome-trumps-milliardenprojekt-fuer-raketenabwehr-im-weltall-a-2fc0b1cd-b644-45d2-8c20-43ddd8ea43ce#ref=rss)
+* [https://www.spiegel.de/wissenschaft/usa-donald-trumps-teure-vision-einer-raketenabwehr-im-weltall](https://www.spiegel.de/wissenschaft/usa-donald-trumps-teure-vision-einer-raketenabwehr-im-weltall-a-e52c77e0-32e1-4f0e-9317-ff8480b43e62#ref=rss)
+### seidler
+
+* [https://www.spiegel.de/wissenschaft/golden-dome-trumps-milliardenprojekt-fuer-raketenabwehr-im-weltall](https://www.spiegel.de/wissenschaft/golden-dome-trumps-milliardenprojekt-fuer-raketenabwehr-im-weltall-a-2fc0b1cd-b644-45d2-8c20-43ddd8ea43ce#ref=rss)
+* [https://www.spiegel.de/wissenschaft/usa-donald-trumps-teure-vision-einer-raketenabwehr-im-weltall](https://www.spiegel.de/wissenschaft/usa-donald-trumps-teure-vision-einer-raketenabwehr-im-weltall-a-e52c77e0-32e1-4f0e-9317-ff8480b43e62#ref=rss)
+### telefoniert
+
+* [https://www.spiegel.de/ausland/donald-trump-telefoniert-mit-wladimir-putin-kein-sofortiger-frieden-in-sicht](https://www.spiegel.de/ausland/donald-trump-telefoniert-mit-wladimir-putin-kein-sofortiger-frieden-in-sicht-a-1874ed99-863d-4607-b28b-5cfd07ed7e24#ref=rss)
+### wladimir
+
+* [https://www.spiegel.de/ausland/donald-trump-telefoniert-mit-wladimir-putin-kein-sofortiger-frieden-in-sicht](https://www.spiegel.de/ausland/donald-trump-telefoniert-mit-wladimir-putin-kein-sofortiger-frieden-in-sicht-a-1874ed99-863d-4607-b28b-5cfd07ed7e24#ref=rss)
+### putin
+
+* [https://www.spiegel.de/ausland/donald-trump-telefoniert-mit-wladimir-putin-kein-sofortiger-frieden-in-sicht](https://www.spiegel.de/ausland/donald-trump-telefoniert-mit-wladimir-putin-kein-sofortiger-frieden-in-sicht-a-1874ed99-863d-4607-b28b-5cfd07ed7e24#ref=rss)
+### frieden
+
+* [https://www.spiegel.de/ausland/donald-trump-telefoniert-mit-wladimir-putin-kein-sofortiger-frieden-in-sicht](https://www.spiegel.de/ausland/donald-trump-telefoniert-mit-wladimir-putin-kein-sofortiger-frieden-in-sicht-a-1874ed99-863d-4607-b28b-5cfd07ed7e24#ref=rss)
+### wenig
+
+* [https://www.spiegel.de/ausland/donald-trump-telefoniert-mit-wladimir-putin-kein-sofortiger-frieden-in-sicht](https://www.spiegel.de/ausland/donald-trump-telefoniert-mit-wladimir-putin-kein-sofortiger-frieden-in-sicht-a-1874ed99-863d-4607-b28b-5cfd07ed7e24#ref=rss)
+* [https://www.spiegel.de/politik/hendrik-streeck-vom-virologen-zum-bundesdrogenbeauftragten-im-bundestag](https://www.spiegel.de/politik/hendrik-streeck-vom-virologen-zum-bundesdrogenbeauftragten-im-bundestag-a-6b868883-1a92-42b3-8f95-4d5f544d9257#ref=rss)
+### wolodymyr
+
+* [https://www.spiegel.de/ausland/ukraine-russland-krieg-wolodymyr-selenskyj-findet-weitere-gespraeche-mit-aktueller-delegation-bedeutungslos](https://www.spiegel.de/ausland/ukraine-russland-krieg-wolodymyr-selenskyj-findet-weitere-gespraeche-mit-aktueller-delegation-bedeutungslos-a-45d0ceef-ee08-41bf-9261-836d3f767680#ref=rss)
+### selenskyj
+
+* [https://www.spiegel.de/ausland/ukraine-russland-krieg-wolodymyr-selenskyj-findet-weitere-gespraeche-mit-aktueller-delegation-bedeutungslos](https://www.spiegel.de/ausland/ukraine-russland-krieg-wolodymyr-selenskyj-findet-weitere-gespraeche-mit-aktueller-delegation-bedeutungslos-a-45d0ceef-ee08-41bf-9261-836d3f767680#ref=rss)
+### gespräche
+
+* [https://www.spiegel.de/ausland/ukraine-russland-krieg-wolodymyr-selenskyj-findet-weitere-gespraeche-mit-aktueller-delegation-bedeutungslos](https://www.spiegel.de/ausland/ukraine-russland-krieg-wolodymyr-selenskyj-findet-weitere-gespraeche-mit-aktueller-delegation-bedeutungslos-a-45d0ceef-ee08-41bf-9261-836d3f767680#ref=rss)
+### klar
+
+* [https://www.spiegel.de/ausland/ukraine-russland-krieg-wolodymyr-selenskyj-findet-weitere-gespraeche-mit-aktueller-delegation-bedeutungslos](https://www.spiegel.de/ausland/ukraine-russland-krieg-wolodymyr-selenskyj-findet-weitere-gespraeche-mit-aktueller-delegation-bedeutungslos-a-45d0ceef-ee08-41bf-9261-836d3f767680#ref=rss)
+* [https://www.spiegel.de/kultur/koeln-pharmakonzern-bayer-versteigert-kunst-von-pablo-picasso-max-beckmann-und-andy-warhol](https://www.spiegel.de/kultur/koeln-pharmakonzern-bayer-versteigert-kunst-von-pablo-picasso-max-beckmann-und-andy-warhol-a-979ccf37-d0a5-4e33-abb0-0122fb92f6f4#ref=rss)
+### stormi
+
+* [https://www.spiegel.de/panorama/zoo-magdeburg-sibirisches-tigerweibchen-stormi-erdrueckt-junges](https://www.spiegel.de/panorama/zoo-magdeburg-sibirisches-tigerweibchen-stormi-erdrueckt-junges-a-bad3d2ad-cc1e-4e21-89bd-65fabc6aea9d#ref=rss)
+### welt
+
+* [https://www.spiegel.de/panorama/zoo-magdeburg-sibirisches-tigerweibchen-stormi-erdrueckt-junges](https://www.spiegel.de/panorama/zoo-magdeburg-sibirisches-tigerweibchen-stormi-erdrueckt-junges-a-bad3d2ad-cc1e-4e21-89bd-65fabc6aea9d#ref=rss)
+* [https://www.spiegel.de/ausland/china-marco-rubio-erinnert-an-tiananmen-massaker-peking-reagiert-empoert](https://www.spiegel.de/ausland/china-marco-rubio-erinnert-an-tiananmen-massaker-peking-reagiert-empoert-a-10799715-624e-498f-ba15-3af976c87ed8#ref=rss)
+### bekannt
+
+* [https://www.spiegel.de/panorama/zoo-magdeburg-sibirisches-tigerweibchen-stormi-erdrueckt-junges](https://www.spiegel.de/panorama/zoo-magdeburg-sibirisches-tigerweibchen-stormi-erdrueckt-junges-a-bad3d2ad-cc1e-4e21-89bd-65fabc6aea9d#ref=rss)
+* [https://www.spiegel.de/politik/hendrik-streeck-vom-virologen-zum-bundesdrogenbeauftragten-im-bundestag](https://www.spiegel.de/politik/hendrik-streeck-vom-virologen-zum-bundesdrogenbeauftragten-im-bundestag-a-6b868883-1a92-42b3-8f95-4d5f544d9257#ref=rss)
+### mutter
+
+* [https://www.spiegel.de/panorama/zoo-magdeburg-sibirisches-tigerweibchen-stormi-erdrueckt-junges](https://www.spiegel.de/panorama/zoo-magdeburg-sibirisches-tigerweibchen-stormi-erdrueckt-junges-a-bad3d2ad-cc1e-4e21-89bd-65fabc6aea9d#ref=rss)
+* [https://www.spiegel.de/kultur/prinzessin-lilibet-wird-vier-meghan-veroeffentlicht-intimes-babyfoto-ihrer-tochter](https://www.spiegel.de/kultur/prinzessin-lilibet-wird-vier-meghan-veroeffentlicht-intimes-babyfoto-ihrer-tochter-a-15c620a4-8ce6-4d1c-8672-482abc6b153e#ref=rss)
+### mats
+
+* [https://www.spiegel.de/sport/fussball/mats-hummels-wird-tv-experte-bei-amazon-prime-video](https://www.spiegel.de/sport/fussball/mats-hummels-wird-tv-experte-bei-amazon-prime-video-a-b6800b08-838d-4d0f-acf2-02ddddf77c87#ref=rss)
+### hummels
+
+* [https://www.spiegel.de/sport/fussball/mats-hummels-wird-tv-experte-bei-amazon-prime-video](https://www.spiegel.de/sport/fussball/mats-hummels-wird-tv-experte-bei-amazon-prime-video-a-b6800b08-838d-4d0f-acf2-02ddddf77c87#ref=rss)
+### amazon
+
+* [https://www.spiegel.de/sport/fussball/mats-hummels-wird-tv-experte-bei-amazon-prime-video](https://www.spiegel.de/sport/fussball/mats-hummels-wird-tv-experte-bei-amazon-prime-video-a-b6800b08-838d-4d0f-acf2-02ddddf77c87#ref=rss)
+### prime
+
+* [https://www.spiegel.de/sport/fussball/mats-hummels-wird-tv-experte-bei-amazon-prime-video](https://www.spiegel.de/sport/fussball/mats-hummels-wird-tv-experte-bei-amazon-prime-video-a-b6800b08-838d-4d0f-acf2-02ddddf77c87#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/sport/fussball/mats-hummels-wird-tv-experte-bei-amazon-prime-video](https://www.spiegel.de/sport/fussball/mats-hummels-wird-tv-experte-bei-amazon-prime-video-a-b6800b08-838d-4d0f-acf2-02ddddf77c87#ref=rss)
+* [https://www.spiegel.de/ausland/iran-und-die-usa-wie-steht-es-um-die-atomverhandlungen](https://www.spiegel.de/ausland/iran-und-die-usa-wie-steht-es-um-die-atomverhandlungen-a-8b7733e2-6803-41e2-a415-cfde7997c033#ref=rss)
+### schwarzrote
+
+* [https://www.spiegel.de/politik/deutschland/schwarz-rote-plaene-die-laenderchefs-fuerchten-die-folgen-des-wirtschaftsboosters](https://www.spiegel.de/politik/deutschland/schwarz-rote-plaene-die-laenderchefs-fuerchten-die-folgen-des-wirtschaftsboosters-a-36bd800e-2ded-410d-93b5-019fb7b0cd7f#ref=rss)
+### kanzler
+
+* [https://www.spiegel.de/politik/deutschland/schwarz-rote-plaene-die-laenderchefs-fuerchten-die-folgen-des-wirtschaftsboosters](https://www.spiegel.de/politik/deutschland/schwarz-rote-plaene-die-laenderchefs-fuerchten-die-folgen-des-wirtschaftsboosters-a-36bd800e-2ded-410d-93b5-019fb7b0cd7f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/manuela-schwesig-spd-ministerpraesidentin-verlangt-energieplan-fuer-deutschland](https://www.spiegel.de/politik/deutschland/manuela-schwesig-spd-ministerpraesidentin-verlangt-energieplan-fuer-deutschland-a-abbd5d99-8d08-46f7-90d9-fd12d5c1e1dd#ref=rss)
+### kurz
+
+* [https://www.spiegel.de/panorama/gesellschaft/bombenentschaerfung-in-koeln-wie-eine-millionenstadt-mal-kurz-ihre-city-leerraeumt](https://www.spiegel.de/panorama/gesellschaft/bombenentschaerfung-in-koeln-wie-eine-millionenstadt-mal-kurz-ihre-city-leerraeumt-a-4280a8dd-62ec-412c-accb-a2f6667d99bc#ref=rss)
+* [https://www.spiegel.de/kultur/prinzessin-lilibet-wird-vier-meghan-veroeffentlicht-intimes-babyfoto-ihrer-tochter](https://www.spiegel.de/kultur/prinzessin-lilibet-wird-vier-meghan-veroeffentlicht-intimes-babyfoto-ihrer-tochter-a-15c620a4-8ce6-4d1c-8672-482abc6b153e#ref=rss)
+### city
+
+* [https://www.spiegel.de/panorama/gesellschaft/bombenentschaerfung-in-koeln-wie-eine-millionenstadt-mal-kurz-ihre-city-leerraeumt](https://www.spiegel.de/panorama/gesellschaft/bombenentschaerfung-in-koeln-wie-eine-millionenstadt-mal-kurz-ihre-city-leerraeumt-a-4280a8dd-62ec-412c-accb-a2f6667d99bc#ref=rss)
+### gemacht
+
+* [https://www.spiegel.de/panorama/gesellschaft/bombenentschaerfung-in-koeln-wie-eine-millionenstadt-mal-kurz-ihre-city-leerraeumt](https://www.spiegel.de/panorama/gesellschaft/bombenentschaerfung-in-koeln-wie-eine-millionenstadt-mal-kurz-ihre-city-leerraeumt-a-4280a8dd-62ec-412c-accb-a2f6667d99bc#ref=rss)
+* [https://www.spiegel.de/kultur/musik/a-ha-saenger-morten-harket-ist-an-parkinson-erkrankt](https://www.spiegel.de/kultur/musik/a-ha-saenger-morten-harket-ist-an-parkinson-erkrankt-a-93f4a082-085a-4645-800d-1dfc11accf04#ref=rss)
+### behörden
+
+* [https://www.spiegel.de/panorama/gesellschaft/bombenentschaerfung-in-koeln-wie-eine-millionenstadt-mal-kurz-ihre-city-leerraeumt](https://www.spiegel.de/panorama/gesellschaft/bombenentschaerfung-in-koeln-wie-eine-millionenstadt-mal-kurz-ihre-city-leerraeumt-a-4280a8dd-62ec-412c-accb-a2f6667d99bc#ref=rss)
+* [https://www.spiegel.de/panorama/babenhausen-darmstadt-187-menschen-nach-fassaden-einsturz-aus-hochhaus-evakuiert](https://www.spiegel.de/panorama/babenhausen-darmstadt-187-menschen-nach-fassaden-einsturz-aus-hochhaus-evakuiert-a-42f09f37-c2e7-4eaf-b4e7-0735e9090fc6#ref=rss)
+### evakuiert
+
+* [https://www.spiegel.de/panorama/gesellschaft/bombenentschaerfung-in-koeln-wie-eine-millionenstadt-mal-kurz-ihre-city-leerraeumt](https://www.spiegel.de/panorama/gesellschaft/bombenentschaerfung-in-koeln-wie-eine-millionenstadt-mal-kurz-ihre-city-leerraeumt-a-4280a8dd-62ec-412c-accb-a2f6667d99bc#ref=rss)
+* [https://www.spiegel.de/panorama/babenhausen-darmstadt-187-menschen-nach-fassaden-einsturz-aus-hochhaus-evakuiert](https://www.spiegel.de/panorama/babenhausen-darmstadt-187-menschen-nach-fassaden-einsturz-aus-hochhaus-evakuiert-a-42f09f37-c2e7-4eaf-b4e7-0735e9090fc6#ref=rss)
+### axel
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/axel-springer-konzern-streicht-130-stellen-in-der-holding](https://www.spiegel.de/wirtschaft/unternehmen/axel-springer-konzern-streicht-130-stellen-in-der-holding-a-26e6339c-0e3a-46bc-a580-a2d181c5aee9#ref=rss)
+### springer
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/axel-springer-konzern-streicht-130-stellen-in-der-holding](https://www.spiegel.de/wirtschaft/unternehmen/axel-springer-konzern-streicht-130-stellen-in-der-holding-a-26e6339c-0e3a-46bc-a580-a2d181c5aee9#ref=rss)
+### 130
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/axel-springer-konzern-streicht-130-stellen-in-der-holding](https://www.spiegel.de/wirtschaft/unternehmen/axel-springer-konzern-streicht-130-stellen-in-der-holding-a-26e6339c-0e3a-46bc-a580-a2d181c5aee9#ref=rss)
+### stellen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/axel-springer-konzern-streicht-130-stellen-in-der-holding](https://www.spiegel.de/wirtschaft/unternehmen/axel-springer-konzern-streicht-130-stellen-in-der-holding-a-26e6339c-0e3a-46bc-a580-a2d181c5aee9#ref=rss)
+### holding
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/axel-springer-konzern-streicht-130-stellen-in-der-holding](https://www.spiegel.de/wirtschaft/unternehmen/axel-springer-konzern-streicht-130-stellen-in-der-holding-a-26e6339c-0e3a-46bc-a580-a2d181c5aee9#ref=rss)
+### kinder
+
+* [https://www.spiegel.de/deinspiegel/familie-was-eltern-und-kinder-ueber-taschengeld-wissen-muessen](https://www.spiegel.de/deinspiegel/familie-was-eltern-und-kinder-ueber-taschengeld-wissen-muessen-a-9e815d0b-9de9-4156-b3b3-38eceb092fc7#ref=rss)
+### taschengeld
+
+* [https://www.spiegel.de/deinspiegel/familie-was-eltern-und-kinder-ueber-taschengeld-wissen-muessen](https://www.spiegel.de/deinspiegel/familie-was-eltern-und-kinder-ueber-taschengeld-wissen-muessen-a-9e815d0b-9de9-4156-b3b3-38eceb092fc7#ref=rss)
+### schwesig
+
+* [https://www.spiegel.de/politik/deutschland/manuela-schwesig-spd-ministerpraesidentin-verlangt-energieplan-fuer-deutschland](https://www.spiegel.de/politik/deutschland/manuela-schwesig-spd-ministerpraesidentin-verlangt-energieplan-fuer-deutschland-a-abbd5d99-8d08-46f7-90d9-fd12d5c1e1dd#ref=rss)
+### iran
+
+* [https://www.spiegel.de/ausland/iran-und-die-usa-wie-steht-es-um-die-atomverhandlungen](https://www.spiegel.de/ausland/iran-und-die-usa-wie-steht-es-um-die-atomverhandlungen-a-8b7733e2-6803-41e2-a415-cfde7997c033#ref=rss)
+### cannabis
+
+* [https://www.spiegel.de/wissenschaft/mensch/dna-in-luftproben-aus-dublin-forscher-weisen-cannabis-und-schlafmohn-in-stadtluft-nach](https://www.spiegel.de/wissenschaft/mensch/dna-in-luftproben-aus-dublin-forscher-weisen-cannabis-und-schlafmohn-in-stadtluft-nach-a-46c23134-6021-4560-8961-6e529e8c29ee#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/wissenschaft/mensch/dna-in-luftproben-aus-dublin-forscher-weisen-cannabis-und-schlafmohn-in-stadtluft-nach](https://www.spiegel.de/wissenschaft/mensch/dna-in-luftproben-aus-dublin-forscher-weisen-cannabis-und-schlafmohn-in-stadtluft-nach-a-46c23134-6021-4560-8961-6e529e8c29ee#ref=rss)
+* [https://www.spiegel.de/kultur/prinzessin-lilibet-wird-vier-meghan-veroeffentlicht-intimes-babyfoto-ihrer-tochter](https://www.spiegel.de/kultur/prinzessin-lilibet-wird-vier-meghan-veroeffentlicht-intimes-babyfoto-ihrer-tochter-a-15c620a4-8ce6-4d1c-8672-482abc6b153e#ref=rss)
+### erinnert
+
+* [https://www.spiegel.de/wissenschaft/mensch/dna-in-luftproben-aus-dublin-forscher-weisen-cannabis-und-schlafmohn-in-stadtluft-nach](https://www.spiegel.de/wissenschaft/mensch/dna-in-luftproben-aus-dublin-forscher-weisen-cannabis-und-schlafmohn-in-stadtluft-nach-a-46c23134-6021-4560-8961-6e529e8c29ee#ref=rss)
+* [https://www.spiegel.de/ausland/china-marco-rubio-erinnert-an-tiananmen-massaker-peking-reagiert-empoert](https://www.spiegel.de/ausland/china-marco-rubio-erinnert-an-tiananmen-massaker-peking-reagiert-empoert-a-10799715-624e-498f-ba15-3af976c87ed8#ref=rss)
+### ki
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-merz-bei-trump-ki-koennte-bullshit-jobs-uebernehmen-weniger-millionaere-in-deutschland](https://www.spiegel.de/politik/deutschland/news-des-tages-merz-bei-trump-ki-koennte-bullshit-jobs-uebernehmen-weniger-millionaere-in-deutschland-a-5e413f11-e800-4c44-9550-885b9e44aae7#ref=rss)
+### millionäre
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-merz-bei-trump-ki-koennte-bullshit-jobs-uebernehmen-weniger-millionaere-in-deutschland](https://www.spiegel.de/politik/deutschland/news-des-tages-merz-bei-trump-ki-koennte-bullshit-jobs-uebernehmen-weniger-millionaere-in-deutschland-a-5e413f11-e800-4c44-9550-885b9e44aae7#ref=rss)
+### außenminister
+
+* [https://www.spiegel.de/politik/deutschland/israel-aussenminister-johann-wadephul-sagt-weitere-waffenlieferungen-zu](https://www.spiegel.de/politik/deutschland/israel-aussenminister-johann-wadephul-sagt-weitere-waffenlieferungen-zu-a-c809ac85-ce1f-4d97-b1dc-82161e9bf5a5#ref=rss)
+### johann
+
+* [https://www.spiegel.de/politik/deutschland/israel-aussenminister-johann-wadephul-sagt-weitere-waffenlieferungen-zu](https://www.spiegel.de/politik/deutschland/israel-aussenminister-johann-wadephul-sagt-weitere-waffenlieferungen-zu-a-c809ac85-ce1f-4d97-b1dc-82161e9bf5a5#ref=rss)
+### wadephul
+
+* [https://www.spiegel.de/politik/deutschland/israel-aussenminister-johann-wadephul-sagt-weitere-waffenlieferungen-zu](https://www.spiegel.de/politik/deutschland/israel-aussenminister-johann-wadephul-sagt-weitere-waffenlieferungen-zu-a-c809ac85-ce1f-4d97-b1dc-82161e9bf5a5#ref=rss)
+### konservative
+
+* [https://www.spiegel.de/wissenschaft/klimapolitik-konservative-kraefte-gefaehrden-deutschlands-klimaneutralitaet-bis-2045](https://www.spiegel.de/wissenschaft/klimapolitik-konservative-kraefte-gefaehrden-deutschlands-klimaneutralitaet-bis-2045-a-d06f9696-b044-4c72-9b44-403a2019282b#ref=rss)
+### kräfte
+
+* [https://www.spiegel.de/wissenschaft/klimapolitik-konservative-kraefte-gefaehrden-deutschlands-klimaneutralitaet-bis-2045](https://www.spiegel.de/wissenschaft/klimapolitik-konservative-kraefte-gefaehrden-deutschlands-klimaneutralitaet-bis-2045-a-d06f9696-b044-4c72-9b44-403a2019282b#ref=rss)
+### hendrik
+
+* [https://www.spiegel.de/politik/hendrik-streeck-vom-virologen-zum-bundesdrogenbeauftragten-im-bundestag](https://www.spiegel.de/politik/hendrik-streeck-vom-virologen-zum-bundesdrogenbeauftragten-im-bundestag-a-6b868883-1a92-42b3-8f95-4d5f544d9257#ref=rss)
+### streeck
+
+* [https://www.spiegel.de/politik/hendrik-streeck-vom-virologen-zum-bundesdrogenbeauftragten-im-bundestag](https://www.spiegel.de/politik/hendrik-streeck-vom-virologen-zum-bundesdrogenbeauftragten-im-bundestag-a-6b868883-1a92-42b3-8f95-4d5f544d9257#ref=rss)
+### pablo
+
+* [https://www.spiegel.de/kultur/koeln-pharmakonzern-bayer-versteigert-kunst-von-pablo-picasso-max-beckmann-und-andy-warhol](https://www.spiegel.de/kultur/koeln-pharmakonzern-bayer-versteigert-kunst-von-pablo-picasso-max-beckmann-und-andy-warhol-a-979ccf37-d0a5-4e33-abb0-0122fb92f6f4#ref=rss)
+### picasso
+
+* [https://www.spiegel.de/kultur/koeln-pharmakonzern-bayer-versteigert-kunst-von-pablo-picasso-max-beckmann-und-andy-warhol](https://www.spiegel.de/kultur/koeln-pharmakonzern-bayer-versteigert-kunst-von-pablo-picasso-max-beckmann-und-andy-warhol-a-979ccf37-d0a5-4e33-abb0-0122fb92f6f4#ref=rss)
+### andy
+
+* [https://www.spiegel.de/kultur/koeln-pharmakonzern-bayer-versteigert-kunst-von-pablo-picasso-max-beckmann-und-andy-warhol](https://www.spiegel.de/kultur/koeln-pharmakonzern-bayer-versteigert-kunst-von-pablo-picasso-max-beckmann-und-andy-warhol-a-979ccf37-d0a5-4e33-abb0-0122fb92f6f4#ref=rss)
+### warhol
+
+* [https://www.spiegel.de/kultur/koeln-pharmakonzern-bayer-versteigert-kunst-von-pablo-picasso-max-beckmann-und-andy-warhol](https://www.spiegel.de/kultur/koeln-pharmakonzern-bayer-versteigert-kunst-von-pablo-picasso-max-beckmann-und-andy-warhol-a-979ccf37-d0a5-4e33-abb0-0122fb92f6f4#ref=rss)
+### leo
+
+* [https://www.spiegel.de/panorama/vatikan-papst-leo-xiv-will-fuenf-maenner-und-drei-frauen-heiligsprechen](https://www.spiegel.de/panorama/vatikan-papst-leo-xiv-will-fuenf-maenner-und-drei-frauen-heiligsprechen-a-4f7e7bc5-ffd0-4f3b-9256-0a50d2a28f7b#ref=rss)
+### xiv
+
+* [https://www.spiegel.de/panorama/vatikan-papst-leo-xiv-will-fuenf-maenner-und-drei-frauen-heiligsprechen](https://www.spiegel.de/panorama/vatikan-papst-leo-xiv-will-fuenf-maenner-und-drei-frauen-heiligsprechen-a-4f7e7bc5-ffd0-4f3b-9256-0a50d2a28f7b#ref=rss)
+### männer
+
+* [https://www.spiegel.de/panorama/vatikan-papst-leo-xiv-will-fuenf-maenner-und-drei-frauen-heiligsprechen](https://www.spiegel.de/panorama/vatikan-papst-leo-xiv-will-fuenf-maenner-und-drei-frauen-heiligsprechen-a-4f7e7bc5-ffd0-4f3b-9256-0a50d2a28f7b#ref=rss)
+### frauen
+
+* [https://www.spiegel.de/panorama/vatikan-papst-leo-xiv-will-fuenf-maenner-und-drei-frauen-heiligsprechen](https://www.spiegel.de/panorama/vatikan-papst-leo-xiv-will-fuenf-maenner-und-drei-frauen-heiligsprechen-a-4f7e7bc5-ffd0-4f3b-9256-0a50d2a28f7b#ref=rss)
+### aha
+
+* [https://www.spiegel.de/kultur/musik/a-ha-saenger-morten-harket-ist-an-parkinson-erkrankt](https://www.spiegel.de/kultur/musik/a-ha-saenger-morten-harket-ist-an-parkinson-erkrankt-a-93f4a082-085a-4645-800d-1dfc11accf04#ref=rss)
+### morten
+
+* [https://www.spiegel.de/kultur/musik/a-ha-saenger-morten-harket-ist-an-parkinson-erkrankt](https://www.spiegel.de/kultur/musik/a-ha-saenger-morten-harket-ist-an-parkinson-erkrankt-a-93f4a082-085a-4645-800d-1dfc11accf04#ref=rss)
+### harket
+
+* [https://www.spiegel.de/kultur/musik/a-ha-saenger-morten-harket-ist-an-parkinson-erkrankt](https://www.spiegel.de/kultur/musik/a-ha-saenger-morten-harket-ist-an-parkinson-erkrankt-a-93f4a082-085a-4645-800d-1dfc11accf04#ref=rss)
+### babenhausen
+
+* [https://www.spiegel.de/panorama/babenhausen-darmstadt-187-menschen-nach-fassaden-einsturz-aus-hochhaus-evakuiert](https://www.spiegel.de/panorama/babenhausen-darmstadt-187-menschen-nach-fassaden-einsturz-aus-hochhaus-evakuiert-a-42f09f37-c2e7-4eaf-b4e7-0735e9090fc6#ref=rss)
+### prinzessin
+
+* [https://www.spiegel.de/kultur/prinzessin-lilibet-wird-vier-meghan-veroeffentlicht-intimes-babyfoto-ihrer-tochter](https://www.spiegel.de/kultur/prinzessin-lilibet-wird-vier-meghan-veroeffentlicht-intimes-babyfoto-ihrer-tochter-a-15c620a4-8ce6-4d1c-8672-482abc6b153e#ref=rss)
+### lilibet
+
+* [https://www.spiegel.de/kultur/prinzessin-lilibet-wird-vier-meghan-veroeffentlicht-intimes-babyfoto-ihrer-tochter](https://www.spiegel.de/kultur/prinzessin-lilibet-wird-vier-meghan-veroeffentlicht-intimes-babyfoto-ihrer-tochter-a-15c620a4-8ce6-4d1c-8672-482abc6b153e#ref=rss)
+### vier
+
+* [https://www.spiegel.de/kultur/prinzessin-lilibet-wird-vier-meghan-veroeffentlicht-intimes-babyfoto-ihrer-tochter](https://www.spiegel.de/kultur/prinzessin-lilibet-wird-vier-meghan-veroeffentlicht-intimes-babyfoto-ihrer-tochter-a-15c620a4-8ce6-4d1c-8672-482abc6b153e#ref=rss)
+### meghan
+
+* [https://www.spiegel.de/kultur/prinzessin-lilibet-wird-vier-meghan-veroeffentlicht-intimes-babyfoto-ihrer-tochter](https://www.spiegel.de/kultur/prinzessin-lilibet-wird-vier-meghan-veroeffentlicht-intimes-babyfoto-ihrer-tochter-a-15c620a4-8ce6-4d1c-8672-482abc6b153e#ref=rss)
+### kreißsaal
+
+* [https://www.spiegel.de/kultur/prinzessin-lilibet-wird-vier-meghan-veroeffentlicht-intimes-babyfoto-ihrer-tochter](https://www.spiegel.de/kultur/prinzessin-lilibet-wird-vier-meghan-veroeffentlicht-intimes-babyfoto-ihrer-tochter-a-15c620a4-8ce6-4d1c-8672-482abc6b153e#ref=rss)
+### aufgenommen
+
+* [https://www.spiegel.de/kultur/prinzessin-lilibet-wird-vier-meghan-veroeffentlicht-intimes-babyfoto-ihrer-tochter](https://www.spiegel.de/kultur/prinzessin-lilibet-wird-vier-meghan-veroeffentlicht-intimes-babyfoto-ihrer-tochter-a-15c620a4-8ce6-4d1c-8672-482abc6b153e#ref=rss)
+* [https://www.spiegel.de/geschichte/usa-donald-trump-suedafrika-und-die-maer-vom-weissen-genozid](https://www.spiegel.de/geschichte/usa-donald-trump-suedafrika-und-die-maer-vom-weissen-genozid-a-c100efc0-15a1-449a-8aa1-65067182f0c6#ref=rss)
+### halbfinale
+
+* [https://www.spiegel.de/sport/tennis/french-open-halbfinale-beim-debuet-lois-boissons-traumlauf-haelt-an](https://www.spiegel.de/sport/tennis/french-open-halbfinale-beim-debuet-lois-boissons-traumlauf-haelt-an-a-cc00a710-ccb2-455a-a6c0-9884bb422682#ref=rss)
+### china
+
+* [https://www.spiegel.de/ausland/china-marco-rubio-erinnert-an-tiananmen-massaker-peking-reagiert-empoert](https://www.spiegel.de/ausland/china-marco-rubio-erinnert-an-tiananmen-massaker-peking-reagiert-empoert-a-10799715-624e-498f-ba15-3af976c87ed8#ref=rss)
+### marco
+
+* [https://www.spiegel.de/ausland/china-marco-rubio-erinnert-an-tiananmen-massaker-peking-reagiert-empoert](https://www.spiegel.de/ausland/china-marco-rubio-erinnert-an-tiananmen-massaker-peking-reagiert-empoert-a-10799715-624e-498f-ba15-3af976c87ed8#ref=rss)
+### rubio
+
+* [https://www.spiegel.de/ausland/china-marco-rubio-erinnert-an-tiananmen-massaker-peking-reagiert-empoert](https://www.spiegel.de/ausland/china-marco-rubio-erinnert-an-tiananmen-massaker-peking-reagiert-empoert-a-10799715-624e-498f-ba15-3af976c87ed8#ref=rss)
+### peking
+
+* [https://www.spiegel.de/ausland/china-marco-rubio-erinnert-an-tiananmen-massaker-peking-reagiert-empoert](https://www.spiegel.de/ausland/china-marco-rubio-erinnert-an-tiananmen-massaker-peking-reagiert-empoert-a-10799715-624e-498f-ba15-3af976c87ed8#ref=rss)
 
