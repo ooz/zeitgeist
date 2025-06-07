@@ -4,334 +4,319 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### trump
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/trump-sieht-fortschritte-im-streit-um-seltene-erden](https://www.spiegel.de/wirtschaft/unternehmen/trump-sieht-fortschritte-im-streit-um-seltene-erden-a-e6ce75ce-3123-48e7-827c-4bca57ab4cea#ref=rss)
-* [https://www.spiegel.de/wirtschaft/us-exporte-der-deutschen-stahlindustrie-koennten-um-35-prozent-einbrechen](https://www.spiegel.de/wirtschaft/us-exporte-der-deutschen-stahlindustrie-koennten-um-35-prozent-einbrechen-a-95e55190-f7c4-4317-8757-35d8a36fa89c#ref=rss)
-* [https://www.spiegel.de/politik/russland-deutsche-gelten-als-hauptfeind-in-umfrage](https://www.spiegel.de/politik/russland-deutsche-gelten-als-hauptfeind-in-umfrage-a-f11d0d30-6245-490e-ab51-d8461d57bd91#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-elon-musk-die-machtbasis-des-us-praesidenten-broeckelt](https://www.spiegel.de/ausland/donald-trump-und-elon-musk-die-machtbasis-des-us-praesidenten-broeckelt-a-a5082eb4-d37e-4a52-8800-7a374d324eeb#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-vs-elon-musk-pride-parade-in-washington-tag-der-organspende](https://www.spiegel.de/politik/deutschland/news-donald-trump-vs-elon-musk-pride-parade-in-washington-tag-der-organspende-a-ffef105b-8986-492f-904c-41ae40fddd87#ref=rss)
-### donald
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/trump-sieht-fortschritte-im-streit-um-seltene-erden](https://www.spiegel.de/wirtschaft/unternehmen/trump-sieht-fortschritte-im-streit-um-seltene-erden-a-e6ce75ce-3123-48e7-827c-4bca57ab4cea#ref=rss)
-* [https://www.spiegel.de/wirtschaft/us-exporte-der-deutschen-stahlindustrie-koennten-um-35-prozent-einbrechen](https://www.spiegel.de/wirtschaft/us-exporte-der-deutschen-stahlindustrie-koennten-um-35-prozent-einbrechen-a-95e55190-f7c4-4317-8757-35d8a36fa89c#ref=rss)
-* [https://www.spiegel.de/politik/russland-deutsche-gelten-als-hauptfeind-in-umfrage](https://www.spiegel.de/politik/russland-deutsche-gelten-als-hauptfeind-in-umfrage-a-f11d0d30-6245-490e-ab51-d8461d57bd91#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-elon-musk-die-machtbasis-des-us-praesidenten-broeckelt](https://www.spiegel.de/ausland/donald-trump-und-elon-musk-die-machtbasis-des-us-praesidenten-broeckelt-a-a5082eb4-d37e-4a52-8800-7a374d324eeb#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-vs-elon-musk-pride-parade-in-washington-tag-der-organspende](https://www.spiegel.de/politik/deutschland/news-donald-trump-vs-elon-musk-pride-parade-in-washington-tag-der-organspende-a-ffef105b-8986-492f-904c-41ae40fddd87#ref=rss)
-### tag
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-vs-elon-musk-pride-parade-in-washington-tag-der-organspende](https://www.spiegel.de/politik/deutschland/news-donald-trump-vs-elon-musk-pride-parade-in-washington-tag-der-organspende-a-ffef105b-8986-492f-904c-41ae40fddd87#ref=rss)
-### armee
-
-* [https://www.spiegel.de/kultur/musik/k-pop-bts-saenger-stehen-vor-dem-ende-ihrer-militaerzeit](https://www.spiegel.de/kultur/musik/k-pop-bts-saenger-stehen-vor-dem-ende-ihrer-militaerzeit-a-3b889dae-f818-4d9a-9e41-4e00627c0181#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-israelische-armee-birgt-leiche-von-thailaendischer-geisel](https://www.spiegel.de/ausland/gaza-israelische-armee-birgt-leiche-von-thailaendischer-geisel-a-9a797de3-d1f0-4cc0-b0e9-2c0a8acb7dce#ref=rss)
-* [https://www.spiegel.de/ausland/schuesse-auf-hilfesuchende-in-gaza-menschen-wurden-von-kugeln-in-der-brust-den-beinen-und-sogar-im-gesicht-getroffen](https://www.spiegel.de/ausland/schuesse-auf-hilfesuchende-in-gaza-menschen-wurden-von-kugeln-in-der-brust-den-beinen-und-sogar-im-gesicht-getroffen-a-6efcb9bc-89da-4f98-821e-3bcde7299067#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/panorama/justiz/budapest-maja-t-spricht-ueber-haftbedingungen-und-vorwuerfe-der-linken-gewalt](https://www.spiegel.de/panorama/justiz/budapest-maja-t-spricht-ueber-haftbedingungen-und-vorwuerfe-der-linken-gewalt-a-828c364d-db8e-4249-b78a-890ec0e1539b#ref=rss)
-* [https://www.spiegel.de/politik/russland-deutsche-gelten-als-hauptfeind-in-umfrage](https://www.spiegel.de/politik/russland-deutsche-gelten-als-hauptfeind-in-umfrage-a-f11d0d30-6245-490e-ab51-d8461d57bd91#ref=rss)
-* [https://www.spiegel.de/wirtschaft/rente-in-deutschland-zahl-arbeitender-rentner-hat-sich-seit-2004-vervierfacht](https://www.spiegel.de/wirtschaft/rente-in-deutschland-zahl-arbeitender-rentner-hat-sich-seit-2004-vervierfacht-a-cd105f0c-34e7-4643-adff-fbaa56a7ba7d#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/schuesse-auf-hilfesuchende-in-gaza-menschen-wurden-von-kugeln-in-der-brust-den-beinen-und-sogar-im-gesicht-getroffen](https://www.spiegel.de/ausland/schuesse-auf-hilfesuchende-in-gaza-menschen-wurden-von-kugeln-in-der-brust-den-beinen-und-sogar-im-gesicht-getroffen-a-6efcb9bc-89da-4f98-821e-3bcde7299067#ref=rss)
-* [https://www.spiegel.de/ausland/los-angeles-traenengas-und-blendgranaten-gegen-demonstranten](https://www.spiegel.de/ausland/los-angeles-traenengas-und-blendgranaten-gegen-demonstranten-a-c75df361-cb6d-47c1-8429-a6ba1a3c8362#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-elon-musk-die-machtbasis-des-us-praesidenten-broeckelt](https://www.spiegel.de/ausland/donald-trump-und-elon-musk-die-machtbasis-des-us-praesidenten-broeckelt-a-a5082eb4-d37e-4a52-8800-7a374d324eeb#ref=rss)
-### thailand
-
-* [https://www.spiegel.de/ausland/thailand-und-kambodscha-militaerpraesenz-an-umstrittener-grenze-verstaerkt](https://www.spiegel.de/ausland/thailand-und-kambodscha-militaerpraesenz-an-umstrittener-grenze-verstaerkt-a-c4036c5f-8006-436f-86a4-f4db1de7a6b2#ref=rss)
-* [https://www.spiegel.de/ausland/gute-nachrichten-der-woche-von-gin-aus-thailand-bis-zu-walisch-alles-gute-vom-spiegel](https://www.spiegel.de/ausland/gute-nachrichten-der-woche-von-gin-aus-thailand-bis-zu-walisch-alles-gute-vom-spiegel-a-c26baeff-d5fc-4720-93f3-08db70e2a48a#ref=rss)
 ### elon
 
-* [https://www.spiegel.de/ausland/donald-trump-und-elon-musk-die-machtbasis-des-us-praesidenten-broeckelt](https://www.spiegel.de/ausland/donald-trump-und-elon-musk-die-machtbasis-des-us-praesidenten-broeckelt-a-a5082eb4-d37e-4a52-8800-7a374d324eeb#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-vs-elon-musk-pride-parade-in-washington-tag-der-organspende](https://www.spiegel.de/politik/deutschland/news-donald-trump-vs-elon-musk-pride-parade-in-washington-tag-der-organspende-a-ffef105b-8986-492f-904c-41ae40fddd87#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/neuralink-und-grok-ki-und-gehirnchip-von-elon-musk-gibt-gelaehmtem-wieder-eine-stimme](https://www.spiegel.de/wissenschaft/technik/neuralink-und-grok-ki-und-gehirnchip-von-elon-musk-gibt-gelaehmtem-wieder-eine-stimme-a-956fefe9-874d-4765-9878-5140fd6754ea#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elon-musk-gegen-donald-trump-abhaengigkeit-von-us-praesident-bedroht-geschaeftsmodelle](https://www.spiegel.de/wirtschaft/elon-musk-gegen-donald-trump-abhaengigkeit-von-us-praesident-bedroht-geschaeftsmodelle-a-ad5b01b0-636d-48d2-9d3b-d6ef041902e8#ref=rss)
+### wir
+
+* [https://www.spiegel.de/ausland/bergrutsch-in-blatten-koennte-so-ein-unglueck-auch-in-oesterreich-passieren-podcast](https://www.spiegel.de/ausland/bergrutsch-in-blatten-koennte-so-ein-unglueck-auch-in-oesterreich-passieren-podcast-a-86d4020b-3937-4afa-89ed-e20bf0f147d0#ref=rss)
+* [https://www.spiegel.de/psychologie/resilienz-wie-wir-stressphasen-und-schwierige-situationen-meistern](https://www.spiegel.de/psychologie/resilienz-wie-wir-stressphasen-und-schwierige-situationen-meistern-a-a2726391-efcf-4f56-aa82-3b8c6c46a292#ref=rss)
+* [https://www.spiegel.de/kultur/team-scheisse-wie-deutschlands-erfolgreichste-punkband-gegen-den-egoismus-kaempft](https://www.spiegel.de/kultur/team-scheisse-wie-deutschlands-erfolgreichste-punkband-gegen-den-egoismus-kaempft-a-9385a349-0fb3-4f86-a90a-d6cec2c98b87#ref=rss)
+### ich
+
+* [https://www.spiegel.de/kultur/the-last-of-us-schoepfer-neil-druckmann-im-interview-ich-arbeite-nicht-gerne-aus-einer-situation-der-angst-heraus](https://www.spiegel.de/kultur/the-last-of-us-schoepfer-neil-druckmann-im-interview-ich-arbeite-nicht-gerne-aus-einer-situation-der-angst-heraus-a-576a9a96-5b31-4c32-bf7f-6312a7fa89fa#ref=rss)
+* [https://www.spiegel.de/wirtschaft/inflation-wie-die-steigenden-preise-mein-leben-und-mich-selbst-veraendert-haben](https://www.spiegel.de/wirtschaft/inflation-wie-die-steigenden-preise-mein-leben-und-mich-selbst-veraendert-haben-a-672d8232-663e-4c62-94e0-bc440af6b8a6#ref=rss)
 ### musk
 
-* [https://www.spiegel.de/ausland/donald-trump-und-elon-musk-die-machtbasis-des-us-praesidenten-broeckelt](https://www.spiegel.de/ausland/donald-trump-und-elon-musk-die-machtbasis-des-us-praesidenten-broeckelt-a-a5082eb4-d37e-4a52-8800-7a374d324eeb#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-vs-elon-musk-pride-parade-in-washington-tag-der-organspende](https://www.spiegel.de/politik/deutschland/news-donald-trump-vs-elon-musk-pride-parade-in-washington-tag-der-organspende-a-ffef105b-8986-492f-904c-41ae40fddd87#ref=rss)
-### stehen
+* [https://www.spiegel.de/wissenschaft/technik/neuralink-und-grok-ki-und-gehirnchip-von-elon-musk-gibt-gelaehmtem-wieder-eine-stimme](https://www.spiegel.de/wissenschaft/technik/neuralink-und-grok-ki-und-gehirnchip-von-elon-musk-gibt-gelaehmtem-wieder-eine-stimme-a-956fefe9-874d-4765-9878-5140fd6754ea#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elon-musk-gegen-donald-trump-abhaengigkeit-von-us-praesident-bedroht-geschaeftsmodelle](https://www.spiegel.de/wirtschaft/elon-musk-gegen-donald-trump-abhaengigkeit-von-us-praesident-bedroht-geschaeftsmodelle-a-ad5b01b0-636d-48d2-9d3b-d6ef041902e8#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/auto/45-kilometer-langer-pfingst-stau-in-oesterreich](https://www.spiegel.de/auto/45-kilometer-langer-pfingst-stau-in-oesterreich-a-774d7014-3023-4912-82ea-8bd93bdf1d75#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/trump-sieht-fortschritte-im-streit-um-seltene-erden](https://www.spiegel.de/wirtschaft/unternehmen/trump-sieht-fortschritte-im-streit-um-seltene-erden-a-e6ce75ce-3123-48e7-827c-4bca57ab4cea#ref=rss)
-* [https://www.spiegel.de/kultur/musik/k-pop-bts-saenger-stehen-vor-dem-ende-ihrer-militaerzeit](https://www.spiegel.de/kultur/musik/k-pop-bts-saenger-stehen-vor-dem-ende-ihrer-militaerzeit-a-3b889dae-f818-4d9a-9e41-4e00627c0181#ref=rss)
-### deutsche
+* [https://www.spiegel.de/panorama/wermelskirchen-23-menschen-bei-drei-braenden-gerettet](https://www.spiegel.de/panorama/wermelskirchen-23-menschen-bei-drei-braenden-gerettet-a-418a8fca-ae65-472b-8921-60b84c170be2#ref=rss)
+* [https://www.spiegel.de/psychologie/resilienz-wie-wir-stressphasen-und-schwierige-situationen-meistern](https://www.spiegel.de/psychologie/resilienz-wie-wir-stressphasen-und-schwierige-situationen-meistern-a-a2726391-efcf-4f56-aa82-3b8c6c46a292#ref=rss)
+### weniger
 
-* [https://www.spiegel.de/auto/45-kilometer-langer-pfingst-stau-in-oesterreich](https://www.spiegel.de/auto/45-kilometer-langer-pfingst-stau-in-oesterreich-a-774d7014-3023-4912-82ea-8bd93bdf1d75#ref=rss)
-* [https://www.spiegel.de/wirtschaft/us-exporte-der-deutschen-stahlindustrie-koennten-um-35-prozent-einbrechen](https://www.spiegel.de/wirtschaft/us-exporte-der-deutschen-stahlindustrie-koennten-um-35-prozent-einbrechen-a-95e55190-f7c4-4317-8757-35d8a36fa89c#ref=rss)
-* [https://www.spiegel.de/politik/russland-deutsche-gelten-als-hauptfeind-in-umfrage](https://www.spiegel.de/politik/russland-deutsche-gelten-als-hauptfeind-in-umfrage-a-f11d0d30-6245-490e-ab51-d8461d57bd91#ref=rss)
+* [https://www.spiegel.de/panorama/wermelskirchen-23-menschen-bei-drei-braenden-gerettet](https://www.spiegel.de/panorama/wermelskirchen-23-menschen-bei-drei-braenden-gerettet-a-418a8fca-ae65-472b-8921-60b84c170be2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/inflation-wie-die-steigenden-preise-mein-leben-und-mich-selbst-veraendert-haben](https://www.spiegel.de/wirtschaft/inflation-wie-die-steigenden-preise-mein-leben-und-mich-selbst-veraendert-haben-a-672d8232-663e-4c62-94e0-bc440af6b8a6#ref=rss)
+### french
+
+* [https://www.spiegel.de/sport/tennis/french-open-coco-gauff-gewinnt-finale-gegen-aryna-sabalenka](https://www.spiegel.de/sport/tennis/french-open-coco-gauff-gewinnt-finale-gegen-aryna-sabalenka-a-1b63f65b-9cad-49ce-8600-ce1a2e68b4a0#ref=rss)
+* [https://www.spiegel.de/sport/tennis/french-open-niels-mcdonald-gewinnt-deutsch-deutsches-juniorenfinale](https://www.spiegel.de/sport/tennis/french-open-niels-mcdonald-gewinnt-deutsch-deutsches-juniorenfinale-a-9a0d156a-db66-4b36-ac9b-003b2d5b7d06#ref=rss)
+### open
+
+* [https://www.spiegel.de/sport/tennis/french-open-coco-gauff-gewinnt-finale-gegen-aryna-sabalenka](https://www.spiegel.de/sport/tennis/french-open-coco-gauff-gewinnt-finale-gegen-aryna-sabalenka-a-1b63f65b-9cad-49ce-8600-ce1a2e68b4a0#ref=rss)
+* [https://www.spiegel.de/sport/tennis/french-open-niels-mcdonald-gewinnt-deutsch-deutsches-juniorenfinale](https://www.spiegel.de/sport/tennis/french-open-niels-mcdonald-gewinnt-deutsch-deutsches-juniorenfinale-a-9a0d156a-db66-4b36-ac9b-003b2d5b7d06#ref=rss)
+### linh
+
+* [https://www.spiegel.de/stil/alkoholfreie-cocktails-linh-nguyen-erklaert-wie-gute-drinks-ohne-alkohol-funktionieren](https://www.spiegel.de/stil/alkoholfreie-cocktails-linh-nguyen-erklaert-wie-gute-drinks-ohne-alkohol-funktionieren-a-47bfa857-68f7-4421-afa6-7579201ceb2d#ref=rss)
+### nguyen
+
+* [https://www.spiegel.de/stil/alkoholfreie-cocktails-linh-nguyen-erklaert-wie-gute-drinks-ohne-alkohol-funktionieren](https://www.spiegel.de/stil/alkoholfreie-cocktails-linh-nguyen-erklaert-wie-gute-drinks-ohne-alkohol-funktionieren-a-47bfa857-68f7-4421-afa6-7579201ceb2d#ref=rss)
+### erklärt
+
+* [https://www.spiegel.de/stil/alkoholfreie-cocktails-linh-nguyen-erklaert-wie-gute-drinks-ohne-alkohol-funktionieren](https://www.spiegel.de/stil/alkoholfreie-cocktails-linh-nguyen-erklaert-wie-gute-drinks-ohne-alkohol-funktionieren-a-47bfa857-68f7-4421-afa6-7579201ceb2d#ref=rss)
+* [https://www.spiegel.de/psychologie/resilienz-wie-wir-stressphasen-und-schwierige-situationen-meistern](https://www.spiegel.de/psychologie/resilienz-wie-wir-stressphasen-und-schwierige-situationen-meistern-a-a2726391-efcf-4f56-aa82-3b8c6c46a292#ref=rss)
+### ohne
+
+* [https://www.spiegel.de/stil/alkoholfreie-cocktails-linh-nguyen-erklaert-wie-gute-drinks-ohne-alkohol-funktionieren](https://www.spiegel.de/stil/alkoholfreie-cocktails-linh-nguyen-erklaert-wie-gute-drinks-ohne-alkohol-funktionieren-a-47bfa857-68f7-4421-afa6-7579201ceb2d#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/bremen-unzulaessige-kameraueberwachung-an-grundschule](https://www.spiegel.de/panorama/bildung/bremen-unzulaessige-kameraueberwachung-an-grundschule-a-5761c742-bfac-4c32-8491-633f9452e4ec#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/stil/alkoholfreie-cocktails-linh-nguyen-erklaert-wie-gute-drinks-ohne-alkohol-funktionieren](https://www.spiegel.de/stil/alkoholfreie-cocktails-linh-nguyen-erklaert-wie-gute-drinks-ohne-alkohol-funktionieren-a-47bfa857-68f7-4421-afa6-7579201ceb2d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundesamt-will-eine-million-plaetze-in-schutzraeumen-schaffen](https://www.spiegel.de/politik/deutschland/bundesamt-will-eine-million-plaetze-in-schutzraeumen-schaffen-a-5bf80d78-b31e-421a-9f82-b995fb5a3293#ref=rss)
+### adam
+
+* [https://www.spiegel.de/panorama/leute/schaedlingsbekaempfer-adam-tesmer-und-die-herausforderungen-in-messie-wohnungen-spiegel-tv](https://www.spiegel.de/panorama/leute/schaedlingsbekaempfer-adam-tesmer-und-die-herausforderungen-in-messie-wohnungen-spiegel-tv-a-b2780632-6787-4eff-a91d-c34c16cab5ce#ref=rss)
+### tesmer
+
+* [https://www.spiegel.de/panorama/leute/schaedlingsbekaempfer-adam-tesmer-und-die-herausforderungen-in-messie-wohnungen-spiegel-tv](https://www.spiegel.de/panorama/leute/schaedlingsbekaempfer-adam-tesmer-und-die-herausforderungen-in-messie-wohnungen-spiegel-tv-a-b2780632-6787-4eff-a91d-c34c16cab5ce#ref=rss)
+### reform
+
+* [https://www.spiegel.de/familie/unterhalt-warum-es-eine-reform-im-interesse-von-kindern-und-muettern-braucht](https://www.spiegel.de/familie/unterhalt-warum-es-eine-reform-im-interesse-von-kindern-und-muettern-braucht-a-f55a5b26-f8e4-4c4e-9d8a-0454d7b96745#ref=rss)
+### interesse
+
+* [https://www.spiegel.de/familie/unterhalt-warum-es-eine-reform-im-interesse-von-kindern-und-muettern-braucht](https://www.spiegel.de/familie/unterhalt-warum-es-eine-reform-im-interesse-von-kindern-und-muettern-braucht-a-f55a5b26-f8e4-4c4e-9d8a-0454d7b96745#ref=rss)
+### braucht
+
+* [https://www.spiegel.de/familie/unterhalt-warum-es-eine-reform-im-interesse-von-kindern-und-muettern-braucht](https://www.spiegel.de/familie/unterhalt-warum-es-eine-reform-im-interesse-von-kindern-und-muettern-braucht-a-f55a5b26-f8e4-4c4e-9d8a-0454d7b96745#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elon-musk-gegen-donald-trump-abhaengigkeit-von-us-praesident-bedroht-geschaeftsmodelle](https://www.spiegel.de/wirtschaft/elon-musk-gegen-donald-trump-abhaengigkeit-von-us-praesident-bedroht-geschaeftsmodelle-a-ad5b01b0-636d-48d2-9d3b-d6ef041902e8#ref=rss)
+### kinder
+
+* [https://www.spiegel.de/familie/unterhalt-warum-es-eine-reform-im-interesse-von-kindern-und-muettern-braucht](https://www.spiegel.de/familie/unterhalt-warum-es-eine-reform-im-interesse-von-kindern-und-muettern-braucht-a-f55a5b26-f8e4-4c4e-9d8a-0454d7b96745#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/bildung-karin-prien-will-sprachtests-fuer-alle-vierjaehrigen](https://www.spiegel.de/panorama/bildung/bildung-karin-prien-will-sprachtests-fuer-alle-vierjaehrigen-a-35525f05-4d58-41dc-9953-c14f26f26b33#ref=rss)
+### neuralink
+
+* [https://www.spiegel.de/wissenschaft/technik/neuralink-und-grok-ki-und-gehirnchip-von-elon-musk-gibt-gelaehmtem-wieder-eine-stimme](https://www.spiegel.de/wissenschaft/technik/neuralink-und-grok-ki-und-gehirnchip-von-elon-musk-gibt-gelaehmtem-wieder-eine-stimme-a-956fefe9-874d-4765-9878-5140fd6754ea#ref=rss)
+### grok
+
+* [https://www.spiegel.de/wissenschaft/technik/neuralink-und-grok-ki-und-gehirnchip-von-elon-musk-gibt-gelaehmtem-wieder-eine-stimme](https://www.spiegel.de/wissenschaft/technik/neuralink-und-grok-ki-und-gehirnchip-von-elon-musk-gibt-gelaehmtem-wieder-eine-stimme-a-956fefe9-874d-4765-9878-5140fd6754ea#ref=rss)
+### ki
+
+* [https://www.spiegel.de/wissenschaft/technik/neuralink-und-grok-ki-und-gehirnchip-von-elon-musk-gibt-gelaehmtem-wieder-eine-stimme](https://www.spiegel.de/wissenschaft/technik/neuralink-und-grok-ki-und-gehirnchip-von-elon-musk-gibt-gelaehmtem-wieder-eine-stimme-a-956fefe9-874d-4765-9878-5140fd6754ea#ref=rss)
+### stimme
+
+* [https://www.spiegel.de/wissenschaft/technik/neuralink-und-grok-ki-und-gehirnchip-von-elon-musk-gibt-gelaehmtem-wieder-eine-stimme](https://www.spiegel.de/wissenschaft/technik/neuralink-und-grok-ki-und-gehirnchip-von-elon-musk-gibt-gelaehmtem-wieder-eine-stimme-a-956fefe9-874d-4765-9878-5140fd6754ea#ref=rss)
 ### zurück
 
-* [https://www.spiegel.de/auto/45-kilometer-langer-pfingst-stau-in-oesterreich](https://www.spiegel.de/auto/45-kilometer-langer-pfingst-stau-in-oesterreich-a-774d7014-3023-4912-82ea-8bd93bdf1d75#ref=rss)
-* [https://www.spiegel.de/panorama/hauspferd-nasar-zieht-wegen-hautkrebs-diagnose-aus-spanien-zurueck-nach-norddeutschland](https://www.spiegel.de/panorama/hauspferd-nasar-zieht-wegen-hautkrebs-diagnose-aus-spanien-zurueck-nach-norddeutschland-a-ee9419ca-c766-476b-8b83-338f0d879a5f#ref=rss)
-### schüsse
+* [https://www.spiegel.de/wissenschaft/technik/neuralink-und-grok-ki-und-gehirnchip-von-elon-musk-gibt-gelaehmtem-wieder-eine-stimme](https://www.spiegel.de/wissenschaft/technik/neuralink-und-grok-ki-und-gehirnchip-von-elon-musk-gibt-gelaehmtem-wieder-eine-stimme-a-956fefe9-874d-4765-9878-5140fd6754ea#ref=rss)
+* [https://www.spiegel.de/ausland/neuseeland-jacinda-ardern-ueber-ihre-zeit-als-premierministerin-und-empathie-als-staerke-spiegel-gespraech](https://www.spiegel.de/ausland/neuseeland-jacinda-ardern-ueber-ihre-zeit-als-premierministerin-und-empathie-als-staerke-spiegel-gespraech-a-eaedf619-9695-42b7-a724-0ac0c95ca949#ref=rss)
+### krieg
 
-* [https://www.spiegel.de/panorama/justiz/halle-sieben-verletzte-durch-schuesse-mit-kunststoffmunition-auf-august-bebel-platz](https://www.spiegel.de/panorama/justiz/halle-sieben-verletzte-durch-schuesse-mit-kunststoffmunition-auf-august-bebel-platz-a-c03f7920-f372-4e59-9c40-6bb7b72d18b1#ref=rss)
-* [https://www.spiegel.de/ausland/schuesse-auf-hilfesuchende-in-gaza-menschen-wurden-von-kugeln-in-der-brust-den-beinen-und-sogar-im-gesicht-getroffen](https://www.spiegel.de/ausland/schuesse-auf-hilfesuchende-in-gaza-menschen-wurden-von-kugeln-in-der-brust-den-beinen-und-sogar-im-gesicht-getroffen-a-6efcb9bc-89da-4f98-821e-3bcde7299067#ref=rss)
-### woche
+* [https://www.spiegel.de/politik/deutschland/bundesamt-will-eine-million-plaetze-in-schutzraeumen-schaffen](https://www.spiegel.de/politik/deutschland/bundesamt-will-eine-million-plaetze-in-schutzraeumen-schaffen-a-5bf80d78-b31e-421a-9f82-b995fb5a3293#ref=rss)
+* [https://www.spiegel.de/ausland/russland-kinotrends-offenbaren-haltung-der-bevoelkerung-zu-wladimir-putin-und-dem-ukraine-krieg](https://www.spiegel.de/ausland/russland-kinotrends-offenbaren-haltung-der-bevoelkerung-zu-wladimir-putin-und-dem-ukraine-krieg-a-2571f5b5-74fc-4d50-a5ff-4c025b404a05#ref=rss)
+### wermelskirchen
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/trump-sieht-fortschritte-im-streit-um-seltene-erden](https://www.spiegel.de/wirtschaft/unternehmen/trump-sieht-fortschritte-im-streit-um-seltene-erden-a-e6ce75ce-3123-48e7-827c-4bca57ab4cea#ref=rss)
-* [https://www.spiegel.de/ausland/gute-nachrichten-der-woche-von-gin-aus-thailand-bis-zu-walisch-alles-gute-vom-spiegel](https://www.spiegel.de/ausland/gute-nachrichten-der-woche-von-gin-aus-thailand-bis-zu-walisch-alles-gute-vom-spiegel-a-c26baeff-d5fc-4720-93f3-08db70e2a48a#ref=rss)
-### spiegel
+* [https://www.spiegel.de/panorama/wermelskirchen-23-menschen-bei-drei-braenden-gerettet](https://www.spiegel.de/panorama/wermelskirchen-23-menschen-bei-drei-braenden-gerettet-a-418a8fca-ae65-472b-8921-60b84c170be2#ref=rss)
+### drei
 
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/budapest-maja-t-spricht-ueber-haftbedingungen-und-vorwuerfe-der-linken-gewalt](https://www.spiegel.de/panorama/justiz/budapest-maja-t-spricht-ueber-haftbedingungen-und-vorwuerfe-der-linken-gewalt-a-828c364d-db8e-4249-b78a-890ec0e1539b#ref=rss)
-* [https://www.spiegel.de/ausland/gute-nachrichten-der-woche-von-gin-aus-thailand-bis-zu-walisch-alles-gute-vom-spiegel](https://www.spiegel.de/ausland/gute-nachrichten-der-woche-von-gin-aus-thailand-bis-zu-walisch-alles-gute-vom-spiegel-a-c26baeff-d5fc-4720-93f3-08db70e2a48a#ref=rss)
-### organspende
+* [https://www.spiegel.de/panorama/wermelskirchen-23-menschen-bei-drei-braenden-gerettet](https://www.spiegel.de/panorama/wermelskirchen-23-menschen-bei-drei-braenden-gerettet-a-418a8fca-ae65-472b-8921-60b84c170be2#ref=rss)
+### gerettet
 
-* [https://www.spiegel.de/gesundheit/organspende-bei-kindern-was-findest-du-besser-ultraschall-oder-ekg](https://www.spiegel.de/gesundheit/organspende-bei-kindern-was-findest-du-besser-ultraschall-oder-ekg-a-beae4038-e754-467b-b91b-e418e776a0e0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-vs-elon-musk-pride-parade-in-washington-tag-der-organspende](https://www.spiegel.de/politik/deutschland/news-donald-trump-vs-elon-musk-pride-parade-in-washington-tag-der-organspende-a-ffef105b-8986-492f-904c-41ae40fddd87#ref=rss)
-### jahre
+* [https://www.spiegel.de/panorama/wermelskirchen-23-menschen-bei-drei-braenden-gerettet](https://www.spiegel.de/panorama/wermelskirchen-23-menschen-bei-drei-braenden-gerettet-a-418a8fca-ae65-472b-8921-60b84c170be2#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/gesundheit/organspende-bei-kindern-was-findest-du-besser-ultraschall-oder-ekg](https://www.spiegel.de/gesundheit/organspende-bei-kindern-was-findest-du-besser-ultraschall-oder-ekg-a-beae4038-e754-467b-b91b-e418e776a0e0#ref=rss)
-* [https://www.spiegel.de/sport/leichtathletik-robert-farken-knackt-deutschen-rekord-von-1980](https://www.spiegel.de/sport/leichtathletik-robert-farken-knackt-deutschen-rekord-von-1980-a-1d5ea10b-842e-482d-98bb-10a3f5b63ae5#ref=rss)
-* [https://www.spiegel.de/panorama/hauspferd-nasar-zieht-wegen-hautkrebs-diagnose-aus-spanien-zurueck-nach-norddeutschland](https://www.spiegel.de/panorama/hauspferd-nasar-zieht-wegen-hautkrebs-diagnose-aus-spanien-zurueck-nach-norddeutschland-a-ee9419ca-c766-476b-8b83-338f0d879a5f#ref=rss)
-### leben
+* [https://www.spiegel.de/panorama/wermelskirchen-23-menschen-bei-drei-braenden-gerettet](https://www.spiegel.de/panorama/wermelskirchen-23-menschen-bei-drei-braenden-gerettet-a-418a8fca-ae65-472b-8921-60b84c170be2#ref=rss)
+* [https://www.spiegel.de/ausland/los-angeles-proteste-gegen-abschiebungen-es-bricht-mir-das-herz-dass-sie-ihr-die-mutter-wegnehmen](https://www.spiegel.de/ausland/los-angeles-proteste-gegen-abschiebungen-es-bricht-mir-das-herz-dass-sie-ihr-die-mutter-wegnehmen-a-49e1bdb5-658a-4ef5-9474-861050c7fc5c#ref=rss)
+### referendariat
 
-* [https://www.spiegel.de/gesundheit/organspende-bei-kindern-was-findest-du-besser-ultraschall-oder-ekg](https://www.spiegel.de/gesundheit/organspende-bei-kindern-was-findest-du-besser-ultraschall-oder-ekg-a-beae4038-e754-467b-b91b-e418e776a0e0#ref=rss)
-* [https://www.spiegel.de/familie/leben-mit-downsyndrom-wovon-haengt-es-ab-ob-inklusion-funktioniert](https://www.spiegel.de/familie/leben-mit-downsyndrom-wovon-haengt-es-ab-ob-inklusion-funktioniert-a-cec50752-73a3-421d-8c06-d10323af4634#ref=rss)
-### gaza
+* [https://www.spiegel.de/panorama/justiz/rechtsaussen-jurist-darf-zu-recht-nicht-ins-referendariat](https://www.spiegel.de/panorama/justiz/rechtsaussen-jurist-darf-zu-recht-nicht-ins-referendariat-a-7b5050ae-7481-4883-8ed9-2159045a1394#ref=rss)
+### passau
 
-* [https://www.spiegel.de/ausland/gaza-israelische-armee-birgt-leiche-von-thailaendischer-geisel](https://www.spiegel.de/ausland/gaza-israelische-armee-birgt-leiche-von-thailaendischer-geisel-a-9a797de3-d1f0-4cc0-b0e9-2c0a8acb7dce#ref=rss)
-* [https://www.spiegel.de/ausland/schuesse-auf-hilfesuchende-in-gaza-menschen-wurden-von-kugeln-in-der-brust-den-beinen-und-sogar-im-gesicht-getroffen](https://www.spiegel.de/ausland/schuesse-auf-hilfesuchende-in-gaza-menschen-wurden-von-kugeln-in-der-brust-den-beinen-und-sogar-im-gesicht-getroffen-a-6efcb9bc-89da-4f98-821e-3bcde7299067#ref=rss)
-### deutschen
+* [https://www.spiegel.de/panorama/justiz/passau-mann-faehrt-mit-auto-in-menschenmenge](https://www.spiegel.de/panorama/justiz/passau-mann-faehrt-mit-auto-in-menschenmenge-a-b5771d54-7127-497d-9ed6-5424d2c3b90e#ref=rss)
+### mann
 
-* [https://www.spiegel.de/wirtschaft/us-exporte-der-deutschen-stahlindustrie-koennten-um-35-prozent-einbrechen](https://www.spiegel.de/wirtschaft/us-exporte-der-deutschen-stahlindustrie-koennten-um-35-prozent-einbrechen-a-95e55190-f7c4-4317-8757-35d8a36fa89c#ref=rss)
-* [https://www.spiegel.de/sport/leichtathletik-robert-farken-knackt-deutschen-rekord-von-1980](https://www.spiegel.de/sport/leichtathletik-robert-farken-knackt-deutschen-rekord-von-1980-a-1d5ea10b-842e-482d-98bb-10a3f5b63ae5#ref=rss)
-### 45
+* [https://www.spiegel.de/panorama/justiz/passau-mann-faehrt-mit-auto-in-menschenmenge](https://www.spiegel.de/panorama/justiz/passau-mann-faehrt-mit-auto-in-menschenmenge-a-b5771d54-7127-497d-9ed6-5424d2c3b90e#ref=rss)
+### auto
 
-* [https://www.spiegel.de/auto/45-kilometer-langer-pfingst-stau-in-oesterreich](https://www.spiegel.de/auto/45-kilometer-langer-pfingst-stau-in-oesterreich-a-774d7014-3023-4912-82ea-8bd93bdf1d75#ref=rss)
-* [https://www.spiegel.de/sport/leichtathletik-robert-farken-knackt-deutschen-rekord-von-1980](https://www.spiegel.de/sport/leichtathletik-robert-farken-knackt-deutschen-rekord-von-1980-a-1d5ea10b-842e-482d-98bb-10a3f5b63ae5#ref=rss)
-### wo
+* [https://www.spiegel.de/panorama/justiz/passau-mann-faehrt-mit-auto-in-menschenmenge](https://www.spiegel.de/panorama/justiz/passau-mann-faehrt-mit-auto-in-menschenmenge-a-b5771d54-7127-497d-9ed6-5424d2c3b90e#ref=rss)
+### coco
 
-* [https://www.spiegel.de/auto/45-kilometer-langer-pfingst-stau-in-oesterreich](https://www.spiegel.de/auto/45-kilometer-langer-pfingst-stau-in-oesterreich-a-774d7014-3023-4912-82ea-8bd93bdf1d75#ref=rss)
-* [https://www.spiegel.de/ausland/gute-nachrichten-der-woche-von-gin-aus-thailand-bis-zu-walisch-alles-gute-vom-spiegel](https://www.spiegel.de/ausland/gute-nachrichten-der-woche-von-gin-aus-thailand-bis-zu-walisch-alles-gute-vom-spiegel-a-c26baeff-d5fc-4720-93f3-08db70e2a48a#ref=rss)
-### halle
+* [https://www.spiegel.de/sport/tennis/french-open-coco-gauff-gewinnt-finale-gegen-aryna-sabalenka](https://www.spiegel.de/sport/tennis/french-open-coco-gauff-gewinnt-finale-gegen-aryna-sabalenka-a-1b63f65b-9cad-49ce-8600-ce1a2e68b4a0#ref=rss)
+### gauff
 
-* [https://www.spiegel.de/panorama/justiz/halle-sieben-verletzte-durch-schuesse-mit-kunststoffmunition-auf-august-bebel-platz](https://www.spiegel.de/panorama/justiz/halle-sieben-verletzte-durch-schuesse-mit-kunststoffmunition-auf-august-bebel-platz-a-c03f7920-f372-4e59-9c40-6bb7b72d18b1#ref=rss)
-### sieben
+* [https://www.spiegel.de/sport/tennis/french-open-coco-gauff-gewinnt-finale-gegen-aryna-sabalenka](https://www.spiegel.de/sport/tennis/french-open-coco-gauff-gewinnt-finale-gegen-aryna-sabalenka-a-1b63f65b-9cad-49ce-8600-ce1a2e68b4a0#ref=rss)
+### gewinnt
 
-* [https://www.spiegel.de/panorama/justiz/halle-sieben-verletzte-durch-schuesse-mit-kunststoffmunition-auf-august-bebel-platz](https://www.spiegel.de/panorama/justiz/halle-sieben-verletzte-durch-schuesse-mit-kunststoffmunition-auf-august-bebel-platz-a-c03f7920-f372-4e59-9c40-6bb7b72d18b1#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### kunststoffmunition
+* [https://www.spiegel.de/sport/tennis/french-open-coco-gauff-gewinnt-finale-gegen-aryna-sabalenka](https://www.spiegel.de/sport/tennis/french-open-coco-gauff-gewinnt-finale-gegen-aryna-sabalenka-a-1b63f65b-9cad-49ce-8600-ce1a2e68b4a0#ref=rss)
+* [https://www.spiegel.de/sport/tennis/french-open-niels-mcdonald-gewinnt-deutsch-deutsches-juniorenfinale](https://www.spiegel.de/sport/tennis/french-open-niels-mcdonald-gewinnt-deutsch-deutsches-juniorenfinale-a-9a0d156a-db66-4b36-ac9b-003b2d5b7d06#ref=rss)
+### finale
 
-* [https://www.spiegel.de/panorama/justiz/halle-sieben-verletzte-durch-schuesse-mit-kunststoffmunition-auf-august-bebel-platz](https://www.spiegel.de/panorama/justiz/halle-sieben-verletzte-durch-schuesse-mit-kunststoffmunition-auf-august-bebel-platz-a-c03f7920-f372-4e59-9c40-6bb7b72d18b1#ref=rss)
-### augustbebelplatz
+* [https://www.spiegel.de/sport/tennis/french-open-coco-gauff-gewinnt-finale-gegen-aryna-sabalenka](https://www.spiegel.de/sport/tennis/french-open-coco-gauff-gewinnt-finale-gegen-aryna-sabalenka-a-1b63f65b-9cad-49ce-8600-ce1a2e68b4a0#ref=rss)
+* [https://www.spiegel.de/sport/tennis/french-open-niels-mcdonald-gewinnt-deutsch-deutsches-juniorenfinale](https://www.spiegel.de/sport/tennis/french-open-niels-mcdonald-gewinnt-deutsch-deutsches-juniorenfinale-a-9a0d156a-db66-4b36-ac9b-003b2d5b7d06#ref=rss)
+### aryna
 
-* [https://www.spiegel.de/panorama/justiz/halle-sieben-verletzte-durch-schuesse-mit-kunststoffmunition-auf-august-bebel-platz](https://www.spiegel.de/panorama/justiz/halle-sieben-verletzte-durch-schuesse-mit-kunststoffmunition-auf-august-bebel-platz-a-c03f7920-f372-4e59-9c40-6bb7b72d18b1#ref=rss)
-### freitagabend
+* [https://www.spiegel.de/sport/tennis/french-open-coco-gauff-gewinnt-finale-gegen-aryna-sabalenka](https://www.spiegel.de/sport/tennis/french-open-coco-gauff-gewinnt-finale-gegen-aryna-sabalenka-a-1b63f65b-9cad-49ce-8600-ce1a2e68b4a0#ref=rss)
+### sabalenka
 
-* [https://www.spiegel.de/panorama/justiz/halle-sieben-verletzte-durch-schuesse-mit-kunststoffmunition-auf-august-bebel-platz](https://www.spiegel.de/panorama/justiz/halle-sieben-verletzte-durch-schuesse-mit-kunststoffmunition-auf-august-bebel-platz-a-c03f7920-f372-4e59-9c40-6bb7b72d18b1#ref=rss)
-* [https://www.spiegel.de/panorama/dresden-einsturzgefahr-nach-brand-in-ehemaliger-staatsoperette](https://www.spiegel.de/panorama/dresden-einsturzgefahr-nach-brand-in-ehemaliger-staatsoperette-a-8f232521-b4c3-47e1-8fd5-751c7516c4c4#ref=rss)
+* [https://www.spiegel.de/sport/tennis/french-open-coco-gauff-gewinnt-finale-gegen-aryna-sabalenka](https://www.spiegel.de/sport/tennis/french-open-coco-gauff-gewinnt-finale-gegen-aryna-sabalenka-a-1b63f65b-9cad-49ce-8600-ce1a2e68b4a0#ref=rss)
+### zweite
+
+* [https://www.spiegel.de/sport/tennis/french-open-coco-gauff-gewinnt-finale-gegen-aryna-sabalenka](https://www.spiegel.de/sport/tennis/french-open-coco-gauff-gewinnt-finale-gegen-aryna-sabalenka-a-1b63f65b-9cad-49ce-8600-ce1a2e68b4a0#ref=rss)
+* [https://www.spiegel.de/sport/rhythmische-sportgymnastik-darja-varfolomeev-holt-em-bronze-trotz-reifenpanne-und-duttpech](https://www.spiegel.de/sport/rhythmische-sportgymnastik-darja-varfolomeev-holt-em-bronze-trotz-reifenpanne-und-duttpech-a-82105013-3a15-4872-88e3-55873311e719#ref=rss)
+### neuseeland
+
+* [https://www.spiegel.de/ausland/neuseeland-jacinda-ardern-ueber-ihre-zeit-als-premierministerin-und-empathie-als-staerke-spiegel-gespraech](https://www.spiegel.de/ausland/neuseeland-jacinda-ardern-ueber-ihre-zeit-als-premierministerin-und-empathie-als-staerke-spiegel-gespraech-a-eaedf619-9695-42b7-a724-0ac0c95ca949#ref=rss)
+### jacinda
+
+* [https://www.spiegel.de/ausland/neuseeland-jacinda-ardern-ueber-ihre-zeit-als-premierministerin-und-empathie-als-staerke-spiegel-gespraech](https://www.spiegel.de/ausland/neuseeland-jacinda-ardern-ueber-ihre-zeit-als-premierministerin-und-empathie-als-staerke-spiegel-gespraech-a-eaedf619-9695-42b7-a724-0ac0c95ca949#ref=rss)
+### ardern
+
+* [https://www.spiegel.de/ausland/neuseeland-jacinda-ardern-ueber-ihre-zeit-als-premierministerin-und-empathie-als-staerke-spiegel-gespraech](https://www.spiegel.de/ausland/neuseeland-jacinda-ardern-ueber-ihre-zeit-als-premierministerin-und-empathie-als-staerke-spiegel-gespraech-a-eaedf619-9695-42b7-a724-0ac0c95ca949#ref=rss)
+### premierministerin
+
+* [https://www.spiegel.de/ausland/neuseeland-jacinda-ardern-ueber-ihre-zeit-als-premierministerin-und-empathie-als-staerke-spiegel-gespraech](https://www.spiegel.de/ausland/neuseeland-jacinda-ardern-ueber-ihre-zeit-als-premierministerin-und-empathie-als-staerke-spiegel-gespraech-a-eaedf619-9695-42b7-a724-0ac0c95ca949#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/ausland/neuseeland-jacinda-ardern-ueber-ihre-zeit-als-premierministerin-und-empathie-als-staerke-spiegel-gespraech](https://www.spiegel.de/ausland/neuseeland-jacinda-ardern-ueber-ihre-zeit-als-premierministerin-und-empathie-als-staerke-spiegel-gespraech-a-eaedf619-9695-42b7-a724-0ac0c95ca949#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/social-medien-mehrere-eu-staaten-wollen-strenge-alterskontrollen](https://www.spiegel.de/panorama/bildung/social-medien-mehrere-eu-staaten-wollen-strenge-alterskontrollen-a-5731e917-a1a8-45b9-8114-3bcecde17d52#ref=rss)
 ### mehrere
 
-* [https://www.spiegel.de/panorama/justiz/halle-sieben-verletzte-durch-schuesse-mit-kunststoffmunition-auf-august-bebel-platz](https://www.spiegel.de/panorama/justiz/halle-sieben-verletzte-durch-schuesse-mit-kunststoffmunition-auf-august-bebel-platz-a-c03f7920-f372-4e59-9c40-6bb7b72d18b1#ref=rss)
-* [https://www.spiegel.de/kultur/londoner-kunsthaendler-muss-wegen-terrorismusfinanzierung-ins-gefaengnis](https://www.spiegel.de/kultur/londoner-kunsthaendler-muss-wegen-terrorismusfinanzierung-ins-gefaengnis-a-37ab0162-ed21-4278-a035-d47c840398cb#ref=rss)
-### verletzt
+* [https://www.spiegel.de/panorama/bildung/social-medien-mehrere-eu-staaten-wollen-strenge-alterskontrollen](https://www.spiegel.de/panorama/bildung/social-medien-mehrere-eu-staaten-wollen-strenge-alterskontrollen-a-5731e917-a1a8-45b9-8114-3bcecde17d52#ref=rss)
+### alles
 
-* [https://www.spiegel.de/panorama/justiz/halle-sieben-verletzte-durch-schuesse-mit-kunststoffmunition-auf-august-bebel-platz](https://www.spiegel.de/panorama/justiz/halle-sieben-verletzte-durch-schuesse-mit-kunststoffmunition-auf-august-bebel-platz-a-c03f7920-f372-4e59-9c40-6bb7b72d18b1#ref=rss)
-* [https://www.spiegel.de/ausland/schuesse-auf-hilfesuchende-in-gaza-menschen-wurden-von-kugeln-in-der-brust-den-beinen-und-sogar-im-gesicht-getroffen](https://www.spiegel.de/ausland/schuesse-auf-hilfesuchende-in-gaza-menschen-wurden-von-kugeln-in-der-brust-den-beinen-und-sogar-im-gesicht-getroffen-a-6efcb9bc-89da-4f98-821e-3bcde7299067#ref=rss)
-### sieht
+* [https://www.spiegel.de/panorama/bildung/social-medien-mehrere-eu-staaten-wollen-strenge-alterskontrollen](https://www.spiegel.de/panorama/bildung/social-medien-mehrere-eu-staaten-wollen-strenge-alterskontrollen-a-5731e917-a1a8-45b9-8114-3bcecde17d52#ref=rss)
+* [https://www.spiegel.de/wirtschaft/inflation-wie-die-steigenden-preise-mein-leben-und-mich-selbst-veraendert-haben](https://www.spiegel.de/wirtschaft/inflation-wie-die-steigenden-preise-mein-leben-und-mich-selbst-veraendert-haben-a-672d8232-663e-4c62-94e0-bc440af6b8a6#ref=rss)
+### klöster
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/trump-sieht-fortschritte-im-streit-um-seltene-erden](https://www.spiegel.de/wirtschaft/unternehmen/trump-sieht-fortschritte-im-streit-um-seltene-erden-a-e6ce75ce-3123-48e7-827c-4bca57ab4cea#ref=rss)
-### seltene
+* [https://www.spiegel.de/ausland/erdbeben-erschuettert-beruehmte-kloester-in-griechenland](https://www.spiegel.de/ausland/erdbeben-erschuettert-beruehmte-kloester-in-griechenland-a-fafc6b33-0c90-4198-bf1d-4624c9d3cc3f#ref=rss)
+### erlitten
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/trump-sieht-fortschritte-im-streit-um-seltene-erden](https://www.spiegel.de/wirtschaft/unternehmen/trump-sieht-fortschritte-im-streit-um-seltene-erden-a-e6ce75ce-3123-48e7-827c-4bca57ab4cea#ref=rss)
-### erden
+* [https://www.spiegel.de/ausland/erdbeben-erschuettert-beruehmte-kloester-in-griechenland](https://www.spiegel.de/ausland/erdbeben-erschuettert-beruehmte-kloester-in-griechenland-a-fafc6b33-0c90-4198-bf1d-4624c9d3cc3f#ref=rss)
+* [https://www.spiegel.de/sport/rhythmische-sportgymnastik-darja-varfolomeev-holt-em-bronze-trotz-reifenpanne-und-duttpech](https://www.spiegel.de/sport/rhythmische-sportgymnastik-darja-varfolomeev-holt-em-bronze-trotz-reifenpanne-und-duttpech-a-82105013-3a15-4872-88e3-55873311e719#ref=rss)
+### erntehelfer
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/trump-sieht-fortschritte-im-streit-um-seltene-erden](https://www.spiegel.de/wirtschaft/unternehmen/trump-sieht-fortschritte-im-streit-um-seltene-erden-a-e6ce75ce-3123-48e7-827c-4bca57ab4cea#ref=rss)
-### fragen
+* [https://www.spiegel.de/karriere/erntehelfer-aus-osteuropa-aufklaerung-ueber-arbeitsrechte-auf-deutschen-feldern](https://www.spiegel.de/karriere/erntehelfer-aus-osteuropa-aufklaerung-ueber-arbeitsrechte-auf-deutschen-feldern-a-002c1259-9fe4-4767-a52e-4b8d95649842#ref=rss)
+### arbeitsrechte
 
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### zieht
+* [https://www.spiegel.de/karriere/erntehelfer-aus-osteuropa-aufklaerung-ueber-arbeitsrechte-auf-deutschen-feldern](https://www.spiegel.de/karriere/erntehelfer-aus-osteuropa-aufklaerung-ueber-arbeitsrechte-auf-deutschen-feldern-a-002c1259-9fe4-4767-a52e-4b8d95649842#ref=rss)
+### feldern
 
-* [https://www.spiegel.de/gesundheit/organspende-bei-kindern-was-findest-du-besser-ultraschall-oder-ekg](https://www.spiegel.de/gesundheit/organspende-bei-kindern-was-findest-du-besser-ultraschall-oder-ekg-a-beae4038-e754-467b-b91b-e418e776a0e0#ref=rss)
-* [https://www.spiegel.de/panorama/hauspferd-nasar-zieht-wegen-hautkrebs-diagnose-aus-spanien-zurueck-nach-norddeutschland](https://www.spiegel.de/panorama/hauspferd-nasar-zieht-wegen-hautkrebs-diagnose-aus-spanien-zurueck-nach-norddeutschland-a-ee9419ca-c766-476b-8b83-338f0d879a5f#ref=rss)
-### beide
+* [https://www.spiegel.de/karriere/erntehelfer-aus-osteuropa-aufklaerung-ueber-arbeitsrechte-auf-deutschen-feldern](https://www.spiegel.de/karriere/erntehelfer-aus-osteuropa-aufklaerung-ueber-arbeitsrechte-auf-deutschen-feldern-a-002c1259-9fe4-4767-a52e-4b8d95649842#ref=rss)
+### russland
 
-* [https://www.spiegel.de/gesundheit/organspende-bei-kindern-was-findest-du-besser-ultraschall-oder-ekg](https://www.spiegel.de/gesundheit/organspende-bei-kindern-was-findest-du-besser-ultraschall-oder-ekg-a-beae4038-e754-467b-b91b-e418e776a0e0#ref=rss)
-* [https://www.spiegel.de/panorama/leute/barbara-salesch-tv-richterin-urteilt-auch-im-privatleben](https://www.spiegel.de/panorama/leute/barbara-salesch-tv-richterin-urteilt-auch-im-privatleben-a-7042fc8b-86f1-41dd-9c80-e80381ccec0c#ref=rss)
-### wehrpflicht
+* [https://www.spiegel.de/ausland/russland-kinotrends-offenbaren-haltung-der-bevoelkerung-zu-wladimir-putin-und-dem-ukraine-krieg](https://www.spiegel.de/ausland/russland-kinotrends-offenbaren-haltung-der-bevoelkerung-zu-wladimir-putin-und-dem-ukraine-krieg-a-2571f5b5-74fc-4d50-a5ff-4c025b404a05#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-vereinbarung-ueber-rueckgabe-von-6000-soldaten-getroffen](https://www.spiegel.de/ausland/russland-ukraine-krieg-vereinbarung-ueber-rueckgabe-von-6000-soldaten-getroffen-a-f0610939-eee5-472e-8bb5-0c18875d1f14#ref=rss)
+### putin
 
-* [https://www.spiegel.de/kultur/musik/k-pop-bts-saenger-stehen-vor-dem-ende-ihrer-militaerzeit](https://www.spiegel.de/kultur/musik/k-pop-bts-saenger-stehen-vor-dem-ende-ihrer-militaerzeit-a-3b889dae-f818-4d9a-9e41-4e00627c0181#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wehrpflicht-verteidigungsausschuss-vorsitzender-fuer-dienstpflicht-fuer-alle](https://www.spiegel.de/politik/deutschland/wehrpflicht-verteidigungsausschuss-vorsitzender-fuer-dienstpflicht-fuer-alle-a-85f497a1-9050-4b78-99f6-691f0bf378fd#ref=rss)
-### gefängnis
+* [https://www.spiegel.de/ausland/russland-kinotrends-offenbaren-haltung-der-bevoelkerung-zu-wladimir-putin-und-dem-ukraine-krieg](https://www.spiegel.de/ausland/russland-kinotrends-offenbaren-haltung-der-bevoelkerung-zu-wladimir-putin-und-dem-ukraine-krieg-a-2571f5b5-74fc-4d50-a5ff-4c025b404a05#ref=rss)
+### uns
 
-* [https://www.spiegel.de/kultur/londoner-kunsthaendler-muss-wegen-terrorismusfinanzierung-ins-gefaengnis](https://www.spiegel.de/kultur/londoner-kunsthaendler-muss-wegen-terrorismusfinanzierung-ins-gefaengnis-a-37ab0162-ed21-4278-a035-d47c840398cb#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/budapest-maja-t-spricht-ueber-haftbedingungen-und-vorwuerfe-der-linken-gewalt](https://www.spiegel.de/panorama/justiz/budapest-maja-t-spricht-ueber-haftbedingungen-und-vorwuerfe-der-linken-gewalt-a-828c364d-db8e-4249-b78a-890ec0e1539b#ref=rss)
-### neue
+* [https://www.spiegel.de/ausland/russland-kinotrends-offenbaren-haltung-der-bevoelkerung-zu-wladimir-putin-und-dem-ukraine-krieg](https://www.spiegel.de/ausland/russland-kinotrends-offenbaren-haltung-der-bevoelkerung-zu-wladimir-putin-und-dem-ukraine-krieg-a-2571f5b5-74fc-4d50-a5ff-4c025b404a05#ref=rss)
+* [https://www.spiegel.de/psychologie/resilienz-wie-wir-stressphasen-und-schwierige-situationen-meistern](https://www.spiegel.de/psychologie/resilienz-wie-wir-stressphasen-und-schwierige-situationen-meistern-a-a2726391-efcf-4f56-aa82-3b8c6c46a292#ref=rss)
+### österreich
 
-* [https://www.spiegel.de/tests/brettspiele/neue-wuerfelspiele-im-test-marabunta-cascadia-rolling-rivers-cascadia-rolling-hills-brilliant](https://www.spiegel.de/tests/brettspiele/neue-wuerfelspiele-im-test-marabunta-cascadia-rolling-rivers-cascadia-rolling-hills-brilliant-a-e7231791-77b0-4d75-9ac7-89d2a54ad12e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wehrpflicht-verteidigungsausschuss-vorsitzender-fuer-dienstpflicht-fuer-alle](https://www.spiegel.de/politik/deutschland/wehrpflicht-verteidigungsausschuss-vorsitzender-fuer-dienstpflicht-fuer-alle-a-85f497a1-9050-4b78-99f6-691f0bf378fd#ref=rss)
-### test
+* [https://www.spiegel.de/ausland/bergrutsch-in-blatten-koennte-so-ein-unglueck-auch-in-oesterreich-passieren-podcast](https://www.spiegel.de/ausland/bergrutsch-in-blatten-koennte-so-ein-unglueck-auch-in-oesterreich-passieren-podcast-a-86d4020b-3937-4afa-89ed-e20bf0f147d0#ref=rss)
+### podcast
 
-* [https://www.spiegel.de/tests/brettspiele/neue-wuerfelspiele-im-test-marabunta-cascadia-rolling-rivers-cascadia-rolling-hills-brilliant](https://www.spiegel.de/tests/brettspiele/neue-wuerfelspiele-im-test-marabunta-cascadia-rolling-rivers-cascadia-rolling-hills-brilliant-a-e7231791-77b0-4d75-9ac7-89d2a54ad12e#ref=rss)
-* [https://www.spiegel.de/auto/alpine-a290-im-test-elektrischer-extra-kick](https://www.spiegel.de/auto/alpine-a290-im-test-elektrischer-extra-kick-a-a259f6d9-137a-433f-8b97-6fc1e262d140#ref=rss)
-### cascadia
+* [https://www.spiegel.de/ausland/bergrutsch-in-blatten-koennte-so-ein-unglueck-auch-in-oesterreich-passieren-podcast](https://www.spiegel.de/ausland/bergrutsch-in-blatten-koennte-so-ein-unglueck-auch-in-oesterreich-passieren-podcast-a-86d4020b-3937-4afa-89ed-e20bf0f147d0#ref=rss)
+### land
 
-* [https://www.spiegel.de/tests/brettspiele/neue-wuerfelspiele-im-test-marabunta-cascadia-rolling-rivers-cascadia-rolling-hills-brilliant](https://www.spiegel.de/tests/brettspiele/neue-wuerfelspiele-im-test-marabunta-cascadia-rolling-rivers-cascadia-rolling-hills-brilliant-a-e7231791-77b0-4d75-9ac7-89d2a54ad12e#ref=rss)
-### rolling
+* [https://www.spiegel.de/ausland/bergrutsch-in-blatten-koennte-so-ein-unglueck-auch-in-oesterreich-passieren-podcast](https://www.spiegel.de/ausland/bergrutsch-in-blatten-koennte-so-ein-unglueck-auch-in-oesterreich-passieren-podcast-a-86d4020b-3937-4afa-89ed-e20bf0f147d0#ref=rss)
+* [https://www.spiegel.de/ausland/estland-will-gefaengniszellen-an-schweden-vermieten](https://www.spiegel.de/ausland/estland-will-gefaengniszellen-an-schweden-vermieten-a-46c4bdca-9069-43b2-aafe-0de818ad0b78#ref=rss)
+### darja
 
-* [https://www.spiegel.de/tests/brettspiele/neue-wuerfelspiele-im-test-marabunta-cascadia-rolling-rivers-cascadia-rolling-hills-brilliant](https://www.spiegel.de/tests/brettspiele/neue-wuerfelspiele-im-test-marabunta-cascadia-rolling-rivers-cascadia-rolling-hills-brilliant-a-e7231791-77b0-4d75-9ac7-89d2a54ad12e#ref=rss)
-### unsere
+* [https://www.spiegel.de/sport/rhythmische-sportgymnastik-darja-varfolomeev-holt-em-bronze-trotz-reifenpanne-und-duttpech](https://www.spiegel.de/sport/rhythmische-sportgymnastik-darja-varfolomeev-holt-em-bronze-trotz-reifenpanne-und-duttpech-a-82105013-3a15-4872-88e3-55873311e719#ref=rss)
+### varfolomeev
 
-* [https://www.spiegel.de/tests/brettspiele/neue-wuerfelspiele-im-test-marabunta-cascadia-rolling-rivers-cascadia-rolling-hills-brilliant](https://www.spiegel.de/tests/brettspiele/neue-wuerfelspiele-im-test-marabunta-cascadia-rolling-rivers-cascadia-rolling-hills-brilliant-a-e7231791-77b0-4d75-9ac7-89d2a54ad12e#ref=rss)
-* [https://www.spiegel.de/familie/leben-mit-downsyndrom-wovon-haengt-es-ab-ob-inklusion-funktioniert](https://www.spiegel.de/familie/leben-mit-downsyndrom-wovon-haengt-es-ab-ob-inklusion-funktioniert-a-cec50752-73a3-421d-8c06-d10323af4634#ref=rss)
-### barbara
+* [https://www.spiegel.de/sport/rhythmische-sportgymnastik-darja-varfolomeev-holt-em-bronze-trotz-reifenpanne-und-duttpech](https://www.spiegel.de/sport/rhythmische-sportgymnastik-darja-varfolomeev-holt-em-bronze-trotz-reifenpanne-und-duttpech-a-82105013-3a15-4872-88e3-55873311e719#ref=rss)
+### estland
 
-* [https://www.spiegel.de/panorama/leute/barbara-salesch-tv-richterin-urteilt-auch-im-privatleben](https://www.spiegel.de/panorama/leute/barbara-salesch-tv-richterin-urteilt-auch-im-privatleben-a-7042fc8b-86f1-41dd-9c80-e80381ccec0c#ref=rss)
-### salesch
+* [https://www.spiegel.de/ausland/estland-will-gefaengniszellen-an-schweden-vermieten](https://www.spiegel.de/ausland/estland-will-gefaengniszellen-an-schweden-vermieten-a-46c4bdca-9069-43b2-aafe-0de818ad0b78#ref=rss)
+### schweden
 
-* [https://www.spiegel.de/panorama/leute/barbara-salesch-tv-richterin-urteilt-auch-im-privatleben](https://www.spiegel.de/panorama/leute/barbara-salesch-tv-richterin-urteilt-auch-im-privatleben-a-7042fc8b-86f1-41dd-9c80-e80381ccec0c#ref=rss)
-### tvrichterin
+* [https://www.spiegel.de/ausland/estland-will-gefaengniszellen-an-schweden-vermieten](https://www.spiegel.de/ausland/estland-will-gefaengniszellen-an-schweden-vermieten-a-46c4bdca-9069-43b2-aafe-0de818ad0b78#ref=rss)
+### the
 
-* [https://www.spiegel.de/panorama/leute/barbara-salesch-tv-richterin-urteilt-auch-im-privatleben](https://www.spiegel.de/panorama/leute/barbara-salesch-tv-richterin-urteilt-auch-im-privatleben-a-7042fc8b-86f1-41dd-9c80-e80381ccec0c#ref=rss)
-### unter
+* [https://www.spiegel.de/kultur/the-last-of-us-schoepfer-neil-druckmann-im-interview-ich-arbeite-nicht-gerne-aus-einer-situation-der-angst-heraus](https://www.spiegel.de/kultur/the-last-of-us-schoepfer-neil-druckmann-im-interview-ich-arbeite-nicht-gerne-aus-einer-situation-der-angst-heraus-a-576a9a96-5b31-4c32-bf7f-6312a7fa89fa#ref=rss)
+### last
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-qualifikation-italien-geht-in-norwegen-unter](https://www.spiegel.de/sport/fussball/fussball-wm-qualifikation-italien-geht-in-norwegen-unter-a-de98da9e-3f97-4903-9609-75a15b8d2bee#ref=rss)
-* [https://www.spiegel.de/wirtschaft/us-exporte-der-deutschen-stahlindustrie-koennten-um-35-prozent-einbrechen](https://www.spiegel.de/wirtschaft/us-exporte-der-deutschen-stahlindustrie-koennten-um-35-prozent-einbrechen-a-95e55190-f7c4-4317-8757-35d8a36fa89c#ref=rss)
-### droht
+* [https://www.spiegel.de/kultur/the-last-of-us-schoepfer-neil-druckmann-im-interview-ich-arbeite-nicht-gerne-aus-einer-situation-der-angst-heraus](https://www.spiegel.de/kultur/the-last-of-us-schoepfer-neil-druckmann-im-interview-ich-arbeite-nicht-gerne-aus-einer-situation-der-angst-heraus-a-576a9a96-5b31-4c32-bf7f-6312a7fa89fa#ref=rss)
+### of
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-qualifikation-italien-geht-in-norwegen-unter](https://www.spiegel.de/sport/fussball/fussball-wm-qualifikation-italien-geht-in-norwegen-unter-a-de98da9e-3f97-4903-9609-75a15b8d2bee#ref=rss)
-* [https://www.spiegel.de/ausland/thailand-und-kambodscha-militaerpraesenz-an-umstrittener-grenze-verstaerkt](https://www.spiegel.de/ausland/thailand-und-kambodscha-militaerpraesenz-an-umstrittener-grenze-verstaerkt-a-c4036c5f-8006-436f-86a4-f4db1de7a6b2#ref=rss)
-### israelische
+* [https://www.spiegel.de/kultur/the-last-of-us-schoepfer-neil-druckmann-im-interview-ich-arbeite-nicht-gerne-aus-einer-situation-der-angst-heraus](https://www.spiegel.de/kultur/the-last-of-us-schoepfer-neil-druckmann-im-interview-ich-arbeite-nicht-gerne-aus-einer-situation-der-angst-heraus-a-576a9a96-5b31-4c32-bf7f-6312a7fa89fa#ref=rss)
+### neil
 
-* [https://www.spiegel.de/ausland/gaza-israelische-armee-birgt-leiche-von-thailaendischer-geisel](https://www.spiegel.de/ausland/gaza-israelische-armee-birgt-leiche-von-thailaendischer-geisel-a-9a797de3-d1f0-4cc0-b0e9-2c0a8acb7dce#ref=rss)
-### leiche
+* [https://www.spiegel.de/kultur/the-last-of-us-schoepfer-neil-druckmann-im-interview-ich-arbeite-nicht-gerne-aus-einer-situation-der-angst-heraus](https://www.spiegel.de/kultur/the-last-of-us-schoepfer-neil-druckmann-im-interview-ich-arbeite-nicht-gerne-aus-einer-situation-der-angst-heraus-a-576a9a96-5b31-4c32-bf7f-6312a7fa89fa#ref=rss)
+### druckmann
 
-* [https://www.spiegel.de/ausland/gaza-israelische-armee-birgt-leiche-von-thailaendischer-geisel](https://www.spiegel.de/ausland/gaza-israelische-armee-birgt-leiche-von-thailaendischer-geisel-a-9a797de3-d1f0-4cc0-b0e9-2c0a8acb7dce#ref=rss)
-### geisel
+* [https://www.spiegel.de/kultur/the-last-of-us-schoepfer-neil-druckmann-im-interview-ich-arbeite-nicht-gerne-aus-einer-situation-der-angst-heraus](https://www.spiegel.de/kultur/the-last-of-us-schoepfer-neil-druckmann-im-interview-ich-arbeite-nicht-gerne-aus-einer-situation-der-angst-heraus-a-576a9a96-5b31-4c32-bf7f-6312a7fa89fa#ref=rss)
+### niels
 
-* [https://www.spiegel.de/ausland/gaza-israelische-armee-birgt-leiche-von-thailaendischer-geisel](https://www.spiegel.de/ausland/gaza-israelische-armee-birgt-leiche-von-thailaendischer-geisel-a-9a797de3-d1f0-4cc0-b0e9-2c0a8acb7dce#ref=rss)
-### stahlindustrie
+* [https://www.spiegel.de/sport/tennis/french-open-niels-mcdonald-gewinnt-deutsch-deutsches-juniorenfinale](https://www.spiegel.de/sport/tennis/french-open-niels-mcdonald-gewinnt-deutsch-deutsches-juniorenfinale-a-9a0d156a-db66-4b36-ac9b-003b2d5b7d06#ref=rss)
+### mcdonald
 
-* [https://www.spiegel.de/wirtschaft/us-exporte-der-deutschen-stahlindustrie-koennten-um-35-prozent-einbrechen](https://www.spiegel.de/wirtschaft/us-exporte-der-deutschen-stahlindustrie-koennten-um-35-prozent-einbrechen-a-95e55190-f7c4-4317-8757-35d8a36fa89c#ref=rss)
-### zeigt
+* [https://www.spiegel.de/sport/tennis/french-open-niels-mcdonald-gewinnt-deutsch-deutsches-juniorenfinale](https://www.spiegel.de/sport/tennis/french-open-niels-mcdonald-gewinnt-deutsch-deutsches-juniorenfinale-a-9a0d156a-db66-4b36-ac9b-003b2d5b7d06#ref=rss)
+### freunde
 
-* [https://www.spiegel.de/wirtschaft/us-exporte-der-deutschen-stahlindustrie-koennten-um-35-prozent-einbrechen](https://www.spiegel.de/wirtschaft/us-exporte-der-deutschen-stahlindustrie-koennten-um-35-prozent-einbrechen-a-95e55190-f7c4-4317-8757-35d8a36fa89c#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-elon-musk-die-machtbasis-des-us-praesidenten-broeckelt](https://www.spiegel.de/ausland/donald-trump-und-elon-musk-die-machtbasis-des-us-praesidenten-broeckelt-a-a5082eb4-d37e-4a52-8800-7a374d324eeb#ref=rss)
-### robert
+* [https://www.spiegel.de/sport/tennis/french-open-niels-mcdonald-gewinnt-deutsch-deutsches-juniorenfinale](https://www.spiegel.de/sport/tennis/french-open-niels-mcdonald-gewinnt-deutsch-deutsches-juniorenfinale-a-9a0d156a-db66-4b36-ac9b-003b2d5b7d06#ref=rss)
+* [https://www.spiegel.de/wirtschaft/inflation-wie-die-steigenden-preise-mein-leben-und-mich-selbst-veraendert-haben](https://www.spiegel.de/wirtschaft/inflation-wie-die-steigenden-preise-mein-leben-und-mich-selbst-veraendert-haben-a-672d8232-663e-4c62-94e0-bc440af6b8a6#ref=rss)
+### lohnt
 
-* [https://www.spiegel.de/sport/leichtathletik-robert-farken-knackt-deutschen-rekord-von-1980](https://www.spiegel.de/sport/leichtathletik-robert-farken-knackt-deutschen-rekord-von-1980-a-1d5ea10b-842e-482d-98bb-10a3f5b63ae5#ref=rss)
-### farken
+* [https://www.spiegel.de/netzwelt/games/switch-2-spiele-tipps-das-lohnt-sich-ausser-mario-kart-world](https://www.spiegel.de/netzwelt/games/switch-2-spiele-tipps-das-lohnt-sich-ausser-mario-kart-world-a-c5a02a23-f6aa-4c7a-bc37-ff74913fc934#ref=rss)
+### mario
 
-* [https://www.spiegel.de/sport/leichtathletik-robert-farken-knackt-deutschen-rekord-von-1980](https://www.spiegel.de/sport/leichtathletik-robert-farken-knackt-deutschen-rekord-von-1980-a-1d5ea10b-842e-482d-98bb-10a3f5b63ae5#ref=rss)
-### alpine
+* [https://www.spiegel.de/netzwelt/games/switch-2-spiele-tipps-das-lohnt-sich-ausser-mario-kart-world](https://www.spiegel.de/netzwelt/games/switch-2-spiele-tipps-das-lohnt-sich-ausser-mario-kart-world-a-c5a02a23-f6aa-4c7a-bc37-ff74913fc934#ref=rss)
+### kart
 
-* [https://www.spiegel.de/auto/alpine-a290-im-test-elektrischer-extra-kick](https://www.spiegel.de/auto/alpine-a290-im-test-elektrischer-extra-kick-a-a259f6d9-137a-433f-8b97-6fc1e262d140#ref=rss)
-### a290
+* [https://www.spiegel.de/netzwelt/games/switch-2-spiele-tipps-das-lohnt-sich-ausser-mario-kart-world](https://www.spiegel.de/netzwelt/games/switch-2-spiele-tipps-das-lohnt-sich-ausser-mario-kart-world-a-c5a02a23-f6aa-4c7a-bc37-ff74913fc934#ref=rss)
+### schwierige
 
-* [https://www.spiegel.de/auto/alpine-a290-im-test-elektrischer-extra-kick](https://www.spiegel.de/auto/alpine-a290-im-test-elektrischer-extra-kick-a-a259f6d9-137a-433f-8b97-6fc1e262d140#ref=rss)
-### maja
+* [https://www.spiegel.de/psychologie/resilienz-wie-wir-stressphasen-und-schwierige-situationen-meistern](https://www.spiegel.de/psychologie/resilienz-wie-wir-stressphasen-und-schwierige-situationen-meistern-a-a2726391-efcf-4f56-aa82-3b8c6c46a292#ref=rss)
+### aue
 
-* [https://www.spiegel.de/panorama/justiz/budapest-maja-t-spricht-ueber-haftbedingungen-und-vorwuerfe-der-linken-gewalt](https://www.spiegel.de/panorama/justiz/budapest-maja-t-spricht-ueber-haftbedingungen-und-vorwuerfe-der-linken-gewalt-a-828c364d-db8e-4249-b78a-890ec0e1539b#ref=rss)
-### t
+* [https://www.spiegel.de/sport/fussball/fussball-jugendderby-erzgebirge-aue-gegen-fsv-zwickau-nach-fan-ausschreitungen-abgebrochen](https://www.spiegel.de/sport/fussball/fussball-jugendderby-erzgebirge-aue-gegen-fsv-zwickau-nach-fan-ausschreitungen-abgebrochen-a-b06682e1-d234-4d8a-b59b-e48d9eede900#ref=rss)
+### zwickau
 
-* [https://www.spiegel.de/panorama/justiz/budapest-maja-t-spricht-ueber-haftbedingungen-und-vorwuerfe-der-linken-gewalt](https://www.spiegel.de/panorama/justiz/budapest-maja-t-spricht-ueber-haftbedingungen-und-vorwuerfe-der-linken-gewalt-a-828c364d-db8e-4249-b78a-890ec0e1539b#ref=rss)
-### vorwürfe
+* [https://www.spiegel.de/sport/fussball/fussball-jugendderby-erzgebirge-aue-gegen-fsv-zwickau-nach-fan-ausschreitungen-abgebrochen](https://www.spiegel.de/sport/fussball/fussball-jugendderby-erzgebirge-aue-gegen-fsv-zwickau-nach-fan-ausschreitungen-abgebrochen-a-b06682e1-d234-4d8a-b59b-e48d9eede900#ref=rss)
+### bildung
 
-* [https://www.spiegel.de/panorama/justiz/budapest-maja-t-spricht-ueber-haftbedingungen-und-vorwuerfe-der-linken-gewalt](https://www.spiegel.de/panorama/justiz/budapest-maja-t-spricht-ueber-haftbedingungen-und-vorwuerfe-der-linken-gewalt-a-828c364d-db8e-4249-b78a-890ec0e1539b#ref=rss)
-* [https://www.spiegel.de/ausland/schuesse-auf-hilfesuchende-in-gaza-menschen-wurden-von-kugeln-in-der-brust-den-beinen-und-sogar-im-gesicht-getroffen](https://www.spiegel.de/ausland/schuesse-auf-hilfesuchende-in-gaza-menschen-wurden-von-kugeln-in-der-brust-den-beinen-und-sogar-im-gesicht-getroffen-a-6efcb9bc-89da-4f98-821e-3bcde7299067#ref=rss)
-### mehr
+* [https://www.spiegel.de/panorama/bildung/bildung-karin-prien-will-sprachtests-fuer-alle-vierjaehrigen](https://www.spiegel.de/panorama/bildung/bildung-karin-prien-will-sprachtests-fuer-alle-vierjaehrigen-a-35525f05-4d58-41dc-9953-c14f26f26b33#ref=rss)
+### karin
 
-* [https://www.spiegel.de/ausland/schuesse-auf-hilfesuchende-in-gaza-menschen-wurden-von-kugeln-in-der-brust-den-beinen-und-sogar-im-gesicht-getroffen](https://www.spiegel.de/ausland/schuesse-auf-hilfesuchende-in-gaza-menschen-wurden-von-kugeln-in-der-brust-den-beinen-und-sogar-im-gesicht-getroffen-a-6efcb9bc-89da-4f98-821e-3bcde7299067#ref=rss)
-* [https://www.spiegel.de/panorama/hauspferd-nasar-zieht-wegen-hautkrebs-diagnose-aus-spanien-zurueck-nach-norddeutschland](https://www.spiegel.de/panorama/hauspferd-nasar-zieht-wegen-hautkrebs-diagnose-aus-spanien-zurueck-nach-norddeutschland-a-ee9419ca-c766-476b-8b83-338f0d879a5f#ref=rss)
-### kambodscha
+* [https://www.spiegel.de/panorama/bildung/bildung-karin-prien-will-sprachtests-fuer-alle-vierjaehrigen](https://www.spiegel.de/panorama/bildung/bildung-karin-prien-will-sprachtests-fuer-alle-vierjaehrigen-a-35525f05-4d58-41dc-9953-c14f26f26b33#ref=rss)
+### prien
 
-* [https://www.spiegel.de/ausland/thailand-und-kambodscha-militaerpraesenz-an-umstrittener-grenze-verstaerkt](https://www.spiegel.de/ausland/thailand-und-kambodscha-militaerpraesenz-an-umstrittener-grenze-verstaerkt-a-c4036c5f-8006-436f-86a4-f4db1de7a6b2#ref=rss)
-### grenze
+* [https://www.spiegel.de/panorama/bildung/bildung-karin-prien-will-sprachtests-fuer-alle-vierjaehrigen](https://www.spiegel.de/panorama/bildung/bildung-karin-prien-will-sprachtests-fuer-alle-vierjaehrigen-a-35525f05-4d58-41dc-9953-c14f26f26b33#ref=rss)
+### greta
 
-* [https://www.spiegel.de/ausland/thailand-und-kambodscha-militaerpraesenz-an-umstrittener-grenze-verstaerkt](https://www.spiegel.de/ausland/thailand-und-kambodscha-militaerpraesenz-an-umstrittener-grenze-verstaerkt-a-c4036c5f-8006-436f-86a4-f4db1de7a6b2#ref=rss)
-### lage
+* [https://www.spiegel.de/ausland/protestboot-mit-greta-thunberg-erreicht-aegypten](https://www.spiegel.de/ausland/protestboot-mit-greta-thunberg-erreicht-aegypten-a-0578e8bb-a393-44e7-896f-159c7aaa533c#ref=rss)
+### thunberg
 
-* [https://www.spiegel.de/ausland/thailand-und-kambodscha-militaerpraesenz-an-umstrittener-grenze-verstaerkt](https://www.spiegel.de/ausland/thailand-und-kambodscha-militaerpraesenz-an-umstrittener-grenze-verstaerkt-a-c4036c5f-8006-436f-86a4-f4db1de7a6b2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-vs-elon-musk-pride-parade-in-washington-tag-der-organspende](https://www.spiegel.de/politik/deutschland/news-donald-trump-vs-elon-musk-pride-parade-in-washington-tag-der-organspende-a-ffef105b-8986-492f-904c-41ae40fddd87#ref=rss)
-### umfrage
+* [https://www.spiegel.de/ausland/protestboot-mit-greta-thunberg-erreicht-aegypten](https://www.spiegel.de/ausland/protestboot-mit-greta-thunberg-erreicht-aegypten-a-0578e8bb-a393-44e7-896f-159c7aaa533c#ref=rss)
+### freedom
 
-* [https://www.spiegel.de/politik/russland-deutsche-gelten-als-hauptfeind-in-umfrage](https://www.spiegel.de/politik/russland-deutsche-gelten-als-hauptfeind-in-umfrage-a-f11d0d30-6245-490e-ab51-d8461d57bd91#ref=rss)
-### viele
+* [https://www.spiegel.de/ausland/protestboot-mit-greta-thunberg-erreicht-aegypten](https://www.spiegel.de/ausland/protestboot-mit-greta-thunberg-erreicht-aegypten-a-0578e8bb-a393-44e7-896f-159c7aaa533c#ref=rss)
+### flotilla
 
-* [https://www.spiegel.de/politik/russland-deutsche-gelten-als-hauptfeind-in-umfrage](https://www.spiegel.de/politik/russland-deutsche-gelten-als-hauptfeind-in-umfrage-a-f11d0d30-6245-490e-ab51-d8461d57bd91#ref=rss)
-* [https://www.spiegel.de/wirtschaft/rente-in-deutschland-zahl-arbeitender-rentner-hat-sich-seit-2004-vervierfacht](https://www.spiegel.de/wirtschaft/rente-in-deutschland-zahl-arbeitender-rentner-hat-sich-seit-2004-vervierfacht-a-cd105f0c-34e7-4643-adff-fbaa56a7ba7d#ref=rss)
-### 2024
-
-* [https://www.spiegel.de/panorama/justiz/em-2024-in-dortmund-stadiondachkletterer-klagt-gegen-polizeikosten-von-12-000-euro](https://www.spiegel.de/panorama/justiz/em-2024-in-dortmund-stadiondachkletterer-klagt-gegen-polizeikosten-von-12-000-euro-a-d9f2b9ac-1174-4fab-93be-c513797fbdcd#ref=rss)
-### dortmund
-
-* [https://www.spiegel.de/panorama/justiz/em-2024-in-dortmund-stadiondachkletterer-klagt-gegen-polizeikosten-von-12-000-euro](https://www.spiegel.de/panorama/justiz/em-2024-in-dortmund-stadiondachkletterer-klagt-gegen-polizeikosten-von-12-000-euro-a-d9f2b9ac-1174-4fab-93be-c513797fbdcd#ref=rss)
-### rückte
-
-* [https://www.spiegel.de/panorama/justiz/em-2024-in-dortmund-stadiondachkletterer-klagt-gegen-polizeikosten-von-12-000-euro](https://www.spiegel.de/panorama/justiz/em-2024-in-dortmund-stadiondachkletterer-klagt-gegen-polizeikosten-von-12-000-euro-a-d9f2b9ac-1174-4fab-93be-c513797fbdcd#ref=rss)
-* [https://www.spiegel.de/panorama/dresden-einsturzgefahr-nach-brand-in-ehemaliger-staatsoperette](https://www.spiegel.de/panorama/dresden-einsturzgefahr-nach-brand-in-ehemaliger-staatsoperette-a-8f232521-b4c3-47e1-8fd5-751c7516c4c4#ref=rss)
-### dagegen
-
-* [https://www.spiegel.de/panorama/justiz/em-2024-in-dortmund-stadiondachkletterer-klagt-gegen-polizeikosten-von-12-000-euro](https://www.spiegel.de/panorama/justiz/em-2024-in-dortmund-stadiondachkletterer-klagt-gegen-polizeikosten-von-12-000-euro-a-d9f2b9ac-1174-4fab-93be-c513797fbdcd#ref=rss)
-* [https://www.spiegel.de/ausland/los-angeles-traenengas-und-blendgranaten-gegen-demonstranten](https://www.spiegel.de/ausland/los-angeles-traenengas-und-blendgranaten-gegen-demonstranten-a-c75df361-cb6d-47c1-8429-a6ba1a3c8362#ref=rss)
+* [https://www.spiegel.de/ausland/protestboot-mit-greta-thunberg-erreicht-aegypten](https://www.spiegel.de/ausland/protestboot-mit-greta-thunberg-erreicht-aegypten-a-0578e8bb-a393-44e7-896f-159c7aaa533c#ref=rss)
 ### los
 
-* [https://www.spiegel.de/ausland/los-angeles-traenengas-und-blendgranaten-gegen-demonstranten](https://www.spiegel.de/ausland/los-angeles-traenengas-und-blendgranaten-gegen-demonstranten-a-c75df361-cb6d-47c1-8429-a6ba1a3c8362#ref=rss)
+* [https://www.spiegel.de/ausland/los-angeles-proteste-gegen-abschiebungen-es-bricht-mir-das-herz-dass-sie-ihr-die-mutter-wegnehmen](https://www.spiegel.de/ausland/los-angeles-proteste-gegen-abschiebungen-es-bricht-mir-das-herz-dass-sie-ihr-die-mutter-wegnehmen-a-49e1bdb5-658a-4ef5-9474-861050c7fc5c#ref=rss)
 ### angeles
 
-* [https://www.spiegel.de/ausland/los-angeles-traenengas-und-blendgranaten-gegen-demonstranten](https://www.spiegel.de/ausland/los-angeles-traenengas-und-blendgranaten-gegen-demonstranten-a-c75df361-cb6d-47c1-8429-a6ba1a3c8362#ref=rss)
-### demonstranten
+* [https://www.spiegel.de/ausland/los-angeles-proteste-gegen-abschiebungen-es-bricht-mir-das-herz-dass-sie-ihr-die-mutter-wegnehmen](https://www.spiegel.de/ausland/los-angeles-proteste-gegen-abschiebungen-es-bricht-mir-das-herz-dass-sie-ihr-die-mutter-wegnehmen-a-49e1bdb5-658a-4ef5-9474-861050c7fc5c#ref=rss)
+### bremen
 
-* [https://www.spiegel.de/ausland/los-angeles-traenengas-und-blendgranaten-gegen-demonstranten](https://www.spiegel.de/ausland/los-angeles-traenengas-und-blendgranaten-gegen-demonstranten-a-c75df361-cb6d-47c1-8429-a6ba1a3c8362#ref=rss)
-### gute
+* [https://www.spiegel.de/panorama/bildung/bremen-unzulaessige-kameraueberwachung-an-grundschule](https://www.spiegel.de/panorama/bildung/bremen-unzulaessige-kameraueberwachung-an-grundschule-a-5761c742-bfac-4c32-8491-633f9452e4ec#ref=rss)
+### grundschule
 
-* [https://www.spiegel.de/ausland/gute-nachrichten-der-woche-von-gin-aus-thailand-bis-zu-walisch-alles-gute-vom-spiegel](https://www.spiegel.de/ausland/gute-nachrichten-der-woche-von-gin-aus-thailand-bis-zu-walisch-alles-gute-vom-spiegel-a-c26baeff-d5fc-4720-93f3-08db70e2a48a#ref=rss)
-### nachrichten
+* [https://www.spiegel.de/panorama/bildung/bremen-unzulaessige-kameraueberwachung-an-grundschule](https://www.spiegel.de/panorama/bildung/bremen-unzulaessige-kameraueberwachung-an-grundschule-a-5761c742-bfac-4c32-8491-633f9452e4ec#ref=rss)
+### rückgabe
 
-* [https://www.spiegel.de/ausland/gute-nachrichten-der-woche-von-gin-aus-thailand-bis-zu-walisch-alles-gute-vom-spiegel](https://www.spiegel.de/ausland/gute-nachrichten-der-woche-von-gin-aus-thailand-bis-zu-walisch-alles-gute-vom-spiegel-a-c26baeff-d5fc-4720-93f3-08db70e2a48a#ref=rss)
-### gin
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-vereinbarung-ueber-rueckgabe-von-6000-soldaten-getroffen](https://www.spiegel.de/ausland/russland-ukraine-krieg-vereinbarung-ueber-rueckgabe-von-6000-soldaten-getroffen-a-f0610939-eee5-472e-8bb5-0c18875d1f14#ref=rss)
+### 6000
 
-* [https://www.spiegel.de/ausland/gute-nachrichten-der-woche-von-gin-aus-thailand-bis-zu-walisch-alles-gute-vom-spiegel](https://www.spiegel.de/ausland/gute-nachrichten-der-woche-von-gin-aus-thailand-bis-zu-walisch-alles-gute-vom-spiegel-a-c26baeff-d5fc-4720-93f3-08db70e2a48a#ref=rss)
-### walisch
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-vereinbarung-ueber-rueckgabe-von-6000-soldaten-getroffen](https://www.spiegel.de/ausland/russland-ukraine-krieg-vereinbarung-ueber-rueckgabe-von-6000-soldaten-getroffen-a-f0610939-eee5-472e-8bb5-0c18875d1f14#ref=rss)
+### soldaten
 
-* [https://www.spiegel.de/ausland/gute-nachrichten-der-woche-von-gin-aus-thailand-bis-zu-walisch-alles-gute-vom-spiegel](https://www.spiegel.de/ausland/gute-nachrichten-der-woche-von-gin-aus-thailand-bis-zu-walisch-alles-gute-vom-spiegel-a-c26baeff-d5fc-4720-93f3-08db70e2a48a#ref=rss)
-### fordert
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-vereinbarung-ueber-rueckgabe-von-6000-soldaten-getroffen](https://www.spiegel.de/ausland/russland-ukraine-krieg-vereinbarung-ueber-rueckgabe-von-6000-soldaten-getroffen-a-f0610939-eee5-472e-8bb5-0c18875d1f14#ref=rss)
+### team
 
-* [https://www.spiegel.de/ausland/gute-nachrichten-der-woche-von-gin-aus-thailand-bis-zu-walisch-alles-gute-vom-spiegel](https://www.spiegel.de/ausland/gute-nachrichten-der-woche-von-gin-aus-thailand-bis-zu-walisch-alles-gute-vom-spiegel-a-c26baeff-d5fc-4720-93f3-08db70e2a48a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wehrpflicht-verteidigungsausschuss-vorsitzender-fuer-dienstpflicht-fuer-alle](https://www.spiegel.de/politik/deutschland/wehrpflicht-verteidigungsausschuss-vorsitzender-fuer-dienstpflicht-fuer-alle-a-85f497a1-9050-4b78-99f6-691f0bf378fd#ref=rss)
-### queerbeauftragte
+* [https://www.spiegel.de/kultur/team-scheisse-wie-deutschlands-erfolgreichste-punkband-gegen-den-egoismus-kaempft](https://www.spiegel.de/kultur/team-scheisse-wie-deutschlands-erfolgreichste-punkband-gegen-den-egoismus-kaempft-a-9385a349-0fb3-4f86-a90a-d6cec2c98b87#ref=rss)
+### scheisse
 
-* [https://www.spiegel.de/politik/deutschland/queer-beauftragte-sophie-koch-mein-traum-waere-eine-bill-kaulitz-stiftung-die-in-ostdeutschland-helfen-wuerde](https://www.spiegel.de/politik/deutschland/queer-beauftragte-sophie-koch-mein-traum-waere-eine-bill-kaulitz-stiftung-die-in-ostdeutschland-helfen-wuerde-a-ff7b58c5-8974-40ef-a2c6-ffb0424fa108#ref=rss)
-### sophie
+* [https://www.spiegel.de/kultur/team-scheisse-wie-deutschlands-erfolgreichste-punkband-gegen-den-egoismus-kaempft](https://www.spiegel.de/kultur/team-scheisse-wie-deutschlands-erfolgreichste-punkband-gegen-den-egoismus-kaempft-a-9385a349-0fb3-4f86-a90a-d6cec2c98b87#ref=rss)
+### egoismus
 
-* [https://www.spiegel.de/politik/deutschland/queer-beauftragte-sophie-koch-mein-traum-waere-eine-bill-kaulitz-stiftung-die-in-ostdeutschland-helfen-wuerde](https://www.spiegel.de/politik/deutschland/queer-beauftragte-sophie-koch-mein-traum-waere-eine-bill-kaulitz-stiftung-die-in-ostdeutschland-helfen-wuerde-a-ff7b58c5-8974-40ef-a2c6-ffb0424fa108#ref=rss)
-### koch
+* [https://www.spiegel.de/kultur/team-scheisse-wie-deutschlands-erfolgreichste-punkband-gegen-den-egoismus-kaempft](https://www.spiegel.de/kultur/team-scheisse-wie-deutschlands-erfolgreichste-punkband-gegen-den-egoismus-kaempft-a-9385a349-0fb3-4f86-a90a-d6cec2c98b87#ref=rss)
+### band
 
-* [https://www.spiegel.de/politik/deutschland/queer-beauftragte-sophie-koch-mein-traum-waere-eine-bill-kaulitz-stiftung-die-in-ostdeutschland-helfen-wuerde](https://www.spiegel.de/politik/deutschland/queer-beauftragte-sophie-koch-mein-traum-waere-eine-bill-kaulitz-stiftung-die-in-ostdeutschland-helfen-wuerde-a-ff7b58c5-8974-40ef-a2c6-ffb0424fa108#ref=rss)
-### cdu
+* [https://www.spiegel.de/kultur/team-scheisse-wie-deutschlands-erfolgreichste-punkband-gegen-den-egoismus-kaempft](https://www.spiegel.de/kultur/team-scheisse-wie-deutschlands-erfolgreichste-punkband-gegen-den-egoismus-kaempft-a-9385a349-0fb3-4f86-a90a-d6cec2c98b87#ref=rss)
+### inflation
 
-* [https://www.spiegel.de/politik/deutschland/queer-beauftragte-sophie-koch-mein-traum-waere-eine-bill-kaulitz-stiftung-die-in-ostdeutschland-helfen-wuerde](https://www.spiegel.de/politik/deutschland/queer-beauftragte-sophie-koch-mein-traum-waere-eine-bill-kaulitz-stiftung-die-in-ostdeutschland-helfen-wuerde-a-ff7b58c5-8974-40ef-a2c6-ffb0424fa108#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wehrpflicht-verteidigungsausschuss-vorsitzender-fuer-dienstpflicht-fuer-alle](https://www.spiegel.de/politik/deutschland/wehrpflicht-verteidigungsausschuss-vorsitzender-fuer-dienstpflicht-fuer-alle-a-85f497a1-9050-4b78-99f6-691f0bf378fd#ref=rss)
-### nasar
+* [https://www.spiegel.de/wirtschaft/inflation-wie-die-steigenden-preise-mein-leben-und-mich-selbst-veraendert-haben](https://www.spiegel.de/wirtschaft/inflation-wie-die-steigenden-preise-mein-leben-und-mich-selbst-veraendert-haben-a-672d8232-663e-4c62-94e0-bc440af6b8a6#ref=rss)
+### mich
 
-* [https://www.spiegel.de/panorama/hauspferd-nasar-zieht-wegen-hautkrebs-diagnose-aus-spanien-zurueck-nach-norddeutschland](https://www.spiegel.de/panorama/hauspferd-nasar-zieht-wegen-hautkrebs-diagnose-aus-spanien-zurueck-nach-norddeutschland-a-ee9419ca-c766-476b-8b83-338f0d879a5f#ref=rss)
-### downsyndrom
-
-* [https://www.spiegel.de/familie/leben-mit-downsyndrom-wovon-haengt-es-ab-ob-inklusion-funktioniert](https://www.spiegel.de/familie/leben-mit-downsyndrom-wovon-haengt-es-ab-ob-inklusion-funktioniert-a-cec50752-73a3-421d-8c06-d10323af4634#ref=rss)
-### rentner
-
-* [https://www.spiegel.de/wirtschaft/rente-in-deutschland-zahl-arbeitender-rentner-hat-sich-seit-2004-vervierfacht](https://www.spiegel.de/wirtschaft/rente-in-deutschland-zahl-arbeitender-rentner-hat-sich-seit-2004-vervierfacht-a-cd105f0c-34e7-4643-adff-fbaa56a7ba7d#ref=rss)
-### zahl
-
-* [https://www.spiegel.de/wirtschaft/rente-in-deutschland-zahl-arbeitender-rentner-hat-sich-seit-2004-vervierfacht](https://www.spiegel.de/wirtschaft/rente-in-deutschland-zahl-arbeitender-rentner-hat-sich-seit-2004-vervierfacht-a-cd105f0c-34e7-4643-adff-fbaa56a7ba7d#ref=rss)
-### dienstpflicht
-
-* [https://www.spiegel.de/politik/deutschland/wehrpflicht-verteidigungsausschuss-vorsitzender-fuer-dienstpflicht-fuer-alle](https://www.spiegel.de/politik/deutschland/wehrpflicht-verteidigungsausschuss-vorsitzender-fuer-dienstpflicht-fuer-alle-a-85f497a1-9050-4b78-99f6-691f0bf378fd#ref=rss)
-### dresden
-
-* [https://www.spiegel.de/panorama/dresden-einsturzgefahr-nach-brand-in-ehemaliger-staatsoperette](https://www.spiegel.de/panorama/dresden-einsturzgefahr-nach-brand-in-ehemaliger-staatsoperette-a-8f232521-b4c3-47e1-8fd5-751c7516c4c4#ref=rss)
-### brand
-
-* [https://www.spiegel.de/panorama/dresden-einsturzgefahr-nach-brand-in-ehemaliger-staatsoperette](https://www.spiegel.de/panorama/dresden-einsturzgefahr-nach-brand-in-ehemaliger-staatsoperette-a-8f232521-b4c3-47e1-8fd5-751c7516c4c4#ref=rss)
-### staatsoperette
-
-* [https://www.spiegel.de/panorama/dresden-einsturzgefahr-nach-brand-in-ehemaliger-staatsoperette](https://www.spiegel.de/panorama/dresden-einsturzgefahr-nach-brand-in-ehemaliger-staatsoperette-a-8f232521-b4c3-47e1-8fd5-751c7516c4c4#ref=rss)
-### charkiw
-
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-charkiw-meldet-massiven-angriff-durch-russisches-militaer](https://www.spiegel.de/ausland/krieg-in-der-ukraine-charkiw-meldet-massiven-angriff-durch-russisches-militaer-a-e4630b49-a6e8-468d-9b37-00782b639331#ref=rss)
-### angriff
-
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-charkiw-meldet-massiven-angriff-durch-russisches-militaer](https://www.spiegel.de/ausland/krieg-in-der-ukraine-charkiw-meldet-massiven-angriff-durch-russisches-militaer-a-e4630b49-a6e8-468d-9b37-00782b639331#ref=rss)
+* [https://www.spiegel.de/wirtschaft/inflation-wie-die-steigenden-preise-mein-leben-und-mich-selbst-veraendert-haben](https://www.spiegel.de/wirtschaft/inflation-wie-die-steigenden-preise-mein-leben-und-mich-selbst-veraendert-haben-a-672d8232-663e-4c62-94e0-bc440af6b8a6#ref=rss)
 
