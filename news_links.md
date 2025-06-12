@@ -4,341 +4,402 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### deutschland
+### indien
 
-* [https://www.spiegel.de/wissenschaft/medizin/corona-neue-variante-von-sars-cov-2-breitet-sich-aus](https://www.spiegel.de/wissenschaft/medizin/corona-neue-variante-von-sars-cov-2-breitet-sich-aus-a-5641989e-aec1-4fd2-8276-dc03af7262f2#ref=rss)
-* [https://www.spiegel.de/start/fachkraeftemangel-cdu-will-auslaendische-medizinstudierende-zum-arbeiten-in-deutschland-verpflichten](https://www.spiegel.de/start/fachkraeftemangel-cdu-will-auslaendische-medizinstudierende-zum-arbeiten-in-deutschland-verpflichten-a-44868861-e348-4fd8-ad64-782aaa1c36c8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ifo-prognostiziert-ende-der-stagnation-in-deutschland](https://www.spiegel.de/wirtschaft/ifo-prognostiziert-ende-der-stagnation-in-deutschland-a-e1cfc537-4999-4ec4-b9b9-f63cdadc24e9#ref=rss)
-* [https://www.spiegel.de/panorama/spahns-maskendeals-mit-den-firmen-fiege-und-emix-ich-will-das-zeug](https://www.spiegel.de/panorama/spahns-maskendeals-mit-den-firmen-fiege-und-emix-ich-will-das-zeug-a-7001e3dd-7fec-4b71-9e15-30d8bfaac071#ref=rss)
-### menschen
+* [https://www.spiegel.de/ausland/indien-ahmedabad-die-welt-kondoliert-nach-dem-unglueck-von-flug-ai171](https://www.spiegel.de/ausland/indien-ahmedabad-die-welt-kondoliert-nach-dem-unglueck-von-flug-ai171-a-62e21b42-1331-4ea5-88c0-c5bd071bd26e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-jens-spahn-flugzeugabsturz-in-indien-fussball-em-2025](https://www.spiegel.de/politik/deutschland/news-jens-spahn-flugzeugabsturz-in-indien-fussball-em-2025-a-ee5af788-1bb5-4125-b141-8433815881c1#ref=rss)
+* [https://www.spiegel.de/ausland/indien-vollgetankter-dreamliner-stuerzt-in-gebaeude-zahl-der-toten-koennte-steigen](https://www.spiegel.de/ausland/indien-vollgetankter-dreamliner-stuerzt-in-gebaeude-zahl-der-toten-koennte-steigen-a-5d8fd014-56fe-4709-9236-ca39262b47fb#ref=rss)
+### klingbeil
 
-* [https://www.spiegel.de/ausland/graz-in-oesterreich-ermittler-informieren-ueber-amoklauf-an-grazer-gymnasium](https://www.spiegel.de/ausland/graz-in-oesterreich-ermittler-informieren-ueber-amoklauf-an-grazer-gymnasium-a-13c4a08d-0f35-406a-83e9-84644be029da#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/staedteranking-2025-in-kassel-leben-die-gluecklichsten-grossstaedter](https://www.spiegel.de/panorama/gesellschaft/staedteranking-2025-in-kassel-leben-die-gluecklichsten-grossstaedter-a-aee3b6f6-5008-4303-b146-b282a29df699#ref=rss)
-* [https://www.spiegel.de/wirtschaft/stefanie-hubig-saeumige-mieter-sollen-nicht-mehr-so-leicht-die-wohnung-verlieren](https://www.spiegel.de/wirtschaft/stefanie-hubig-saeumige-mieter-sollen-nicht-mehr-so-leicht-die-wohnung-verlieren-a-0c873176-cd4c-423e-a63e-47164e0158b5#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-ghf-stiftung-meldet-angriff-der-hamas-auf-mitarbeiter-mehrere-sollen-getoetet-worden-sein](https://www.spiegel.de/ausland/gaza-ghf-stiftung-meldet-angriff-der-hamas-auf-mitarbeiter-mehrere-sollen-getoetet-worden-sein-a-e20419a9-89b0-463b-8141-7373c8a8eae8#ref=rss)
-### biontech
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/biontech-will-konkurrenten-curevac-uebernehmen](https://www.spiegel.de/wirtschaft/unternehmen/biontech-will-konkurrenten-curevac-uebernehmen-a-16943474-8b76-485a-bbd8-d6a06e5e812e#ref=rss)
-### curevac
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/biontech-will-konkurrenten-curevac-uebernehmen](https://www.spiegel.de/wirtschaft/unternehmen/biontech-will-konkurrenten-curevac-uebernehmen-a-16943474-8b76-485a-bbd8-d6a06e5e812e#ref=rss)
-### neue
-
-* [https://www.spiegel.de/wissenschaft/medizin/corona-neue-variante-von-sars-cov-2-breitet-sich-aus](https://www.spiegel.de/wissenschaft/medizin/corona-neue-variante-von-sars-cov-2-breitet-sich-aus-a-5641989e-aec1-4fd2-8276-dc03af7262f2#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/apple-greg-joswiak-erklaert-warum-siri-verspaetung-hat](https://www.spiegel.de/netzwelt/gadgets/apple-greg-joswiak-erklaert-warum-siri-verspaetung-hat-a-d74c9d64-dece-46cd-b794-45ceb6fb2c06#ref=rss)
-* [https://www.spiegel.de/wirtschaft/stefanie-hubig-saeumige-mieter-sollen-nicht-mehr-so-leicht-die-wohnung-verlieren](https://www.spiegel.de/wirtschaft/stefanie-hubig-saeumige-mieter-sollen-nicht-mehr-so-leicht-die-wohnung-verlieren-a-0c873176-cd4c-423e-a63e-47164e0158b5#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/wissenschaft/medizin/corona-neue-variante-von-sars-cov-2-breitet-sich-aus](https://www.spiegel.de/wissenschaft/medizin/corona-neue-variante-von-sars-cov-2-breitet-sich-aus-a-5641989e-aec1-4fd2-8276-dc03af7262f2#ref=rss)
-* [https://www.spiegel.de/sport/fussball/thomas-tuchel-tuchels-mutter-kritisiert-verhalten-von-jude-bellingham](https://www.spiegel.de/sport/fussball/thomas-tuchel-tuchels-mutter-kritisiert-verhalten-von-jude-bellingham-a-5c5a9690-1acb-4d8e-b3c0-b0c33fa4cd90#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-finals-bennedict-mathurin-glaenzt-mit-perfekter-trefferquote-fuer-die-pacers](https://www.spiegel.de/sport/basketball/nba-finals-bennedict-mathurin-glaenzt-mit-perfekter-trefferquote-fuer-die-pacers-a-97aad5ef-75fd-4b4e-b101-f6ccee65045a#ref=rss)
-### graz
-
-* [https://www.spiegel.de/panorama/justiz/graz-nach-dem-amoklauf-taeter-war-introvertiert-und-spielte-egoshooter](https://www.spiegel.de/panorama/justiz/graz-nach-dem-amoklauf-taeter-war-introvertiert-und-spielte-egoshooter-a-088b6ab5-dde0-40e4-aa76-0d7cfe66f39c#ref=rss)
-* [https://www.spiegel.de/ausland/graz-in-oesterreich-ermittler-informieren-ueber-amoklauf-an-grazer-gymnasium](https://www.spiegel.de/ausland/graz-in-oesterreich-ermittler-informieren-ueber-amoklauf-an-grazer-gymnasium-a-13c4a08d-0f35-406a-83e9-84644be029da#ref=rss)
-### täter
-
-* [https://www.spiegel.de/panorama/justiz/graz-nach-dem-amoklauf-taeter-war-introvertiert-und-spielte-egoshooter](https://www.spiegel.de/panorama/justiz/graz-nach-dem-amoklauf-taeter-war-introvertiert-und-spielte-egoshooter-a-088b6ab5-dde0-40e4-aa76-0d7cfe66f39c#ref=rss)
-* [https://www.spiegel.de/ausland/graz-in-oesterreich-ermittler-informieren-ueber-amoklauf-an-grazer-gymnasium](https://www.spiegel.de/ausland/graz-in-oesterreich-ermittler-informieren-ueber-amoklauf-an-grazer-gymnasium-a-13c4a08d-0f35-406a-83e9-84644be029da#ref=rss)
-### ermittler
-
-* [https://www.spiegel.de/panorama/justiz/graz-nach-dem-amoklauf-taeter-war-introvertiert-und-spielte-egoshooter](https://www.spiegel.de/panorama/justiz/graz-nach-dem-amoklauf-taeter-war-introvertiert-und-spielte-egoshooter-a-088b6ab5-dde0-40e4-aa76-0d7cfe66f39c#ref=rss)
-* [https://www.spiegel.de/ausland/graz-in-oesterreich-ermittler-informieren-ueber-amoklauf-an-grazer-gymnasium](https://www.spiegel.de/ausland/graz-in-oesterreich-ermittler-informieren-ueber-amoklauf-an-grazer-gymnasium-a-13c4a08d-0f35-406a-83e9-84644be029da#ref=rss)
-### gymnasium
-
-* [https://www.spiegel.de/panorama/justiz/graz-nach-dem-amoklauf-taeter-war-introvertiert-und-spielte-egoshooter](https://www.spiegel.de/panorama/justiz/graz-nach-dem-amoklauf-taeter-war-introvertiert-und-spielte-egoshooter-a-088b6ab5-dde0-40e4-aa76-0d7cfe66f39c#ref=rss)
-* [https://www.spiegel.de/ausland/graz-in-oesterreich-ermittler-informieren-ueber-amoklauf-an-grazer-gymnasium](https://www.spiegel.de/ausland/graz-in-oesterreich-ermittler-informieren-ueber-amoklauf-an-grazer-gymnasium-a-13c4a08d-0f35-406a-83e9-84644be029da#ref=rss)
-### tuchel
-
-* [https://www.spiegel.de/sport/fussball/thomas-tuchel-tuchels-mutter-kritisiert-verhalten-von-jude-bellingham](https://www.spiegel.de/sport/fussball/thomas-tuchel-tuchels-mutter-kritisiert-verhalten-von-jude-bellingham-a-5c5a9690-1acb-4d8e-b3c0-b0c33fa4cd90#ref=rss)
-### mutter
-
-* [https://www.spiegel.de/sport/fussball/thomas-tuchel-tuchels-mutter-kritisiert-verhalten-von-jude-bellingham](https://www.spiegel.de/sport/fussball/thomas-tuchel-tuchels-mutter-kritisiert-verhalten-von-jude-bellingham-a-5c5a9690-1acb-4d8e-b3c0-b0c33fa4cd90#ref=rss)
-* [https://www.spiegel.de/panorama/bochum-vierjaehrige-in-auto-eingeschlossen-feuerwehr-befreit-maedchen](https://www.spiegel.de/panorama/bochum-vierjaehrige-in-auto-eingeschlossen-feuerwehr-befreit-maedchen-a-4005b99b-a8b3-4436-8944-a003b997bfd6#ref=rss)
-### erst
-
-* [https://www.spiegel.de/sport/fussball/thomas-tuchel-tuchels-mutter-kritisiert-verhalten-von-jude-bellingham](https://www.spiegel.de/sport/fussball/thomas-tuchel-tuchels-mutter-kritisiert-verhalten-von-jude-bellingham-a-5c5a9690-1acb-4d8e-b3c0-b0c33fa4cd90#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/frankreich-jungen-sind-erst-nach-schulstart-besser-in-mathe-als-maedchen](https://www.spiegel.de/panorama/bildung/frankreich-jungen-sind-erst-nach-schulstart-besser-in-mathe-als-maedchen-a-78a453a8-0bed-4b96-bbad-27f75e56356d#ref=rss)
-* [https://www.spiegel.de/panorama/leute/george-takei-star-trek-erzaehlt-vom-coming-out-mit-68](https://www.spiegel.de/panorama/leute/george-takei-star-trek-erzaehlt-vom-coming-out-mit-68-a-53e5a2bc-4879-4315-bebd-ff9f99fd18e9#ref=rss)
-### fünf
-
-* [https://www.spiegel.de/start/fachkraeftemangel-cdu-will-auslaendische-medizinstudierende-zum-arbeiten-in-deutschland-verpflichten](https://www.spiegel.de/start/fachkraeftemangel-cdu-will-auslaendische-medizinstudierende-zum-arbeiten-in-deutschland-verpflichten-a-44868861-e348-4fd8-ad64-782aaa1c36c8#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-ghf-stiftung-meldet-angriff-der-hamas-auf-mitarbeiter-mehrere-sollen-getoetet-worden-sein](https://www.spiegel.de/ausland/gaza-ghf-stiftung-meldet-angriff-der-hamas-auf-mitarbeiter-mehrere-sollen-getoetet-worden-sein-a-e20419a9-89b0-463b-8141-7373c8a8eae8#ref=rss)
-* [https://www.spiegel.de/sport/schwimmen-summer-mcintosh-bricht-drei-weltrekorde-in-fuenf-tagen](https://www.spiegel.de/sport/schwimmen-summer-mcintosh-bricht-drei-weltrekorde-in-fuenf-tagen-a-10e0606d-7429-4a7d-8201-639c196055d2#ref=rss)
+* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast-a-553efef5-315d-4d4f-a0db-0f7017e23ab5#ref=rss)
+* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-a-840f34ac-6269-4d0c-8d8a-6d444cffc429#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-spd-chef-fuehlt-sich-durch-manifest-zur-aussenpolitik-nicht-persoenlich-angegriffen](https://www.spiegel.de/politik/deutschland/lars-klingbeil-spd-chef-fuehlt-sich-durch-manifest-zur-aussenpolitik-nicht-persoenlich-angegriffen-a-4a6b9ba3-e4de-4e23-ac9a-5d1842c2cf4f#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/panorama/indien-air-india-maschine-verunglueckt-laut-medienberichten-nahe-flughafen-von-ahmedabad](https://www.spiegel.de/panorama/indien-air-india-maschine-verunglueckt-laut-medienberichten-nahe-flughafen-von-ahmedabad-a-ee140462-a413-4911-b3d1-718864754f55#ref=rss)
-* [https://www.spiegel.de/start/ki-einsatz-im-studium-ein-viertel-der-studierenden-nutzt-taeglich-chatgpt-und-andere-ki-tools](https://www.spiegel.de/start/ki-einsatz-im-studium-ein-viertel-der-studierenden-nutzt-taeglich-chatgpt-und-andere-ki-tools-a-113164dd-b860-44e9-b2f5-45cf12aca783#ref=rss)
-* [https://www.spiegel.de/wirtschaft/stefanie-hubig-saeumige-mieter-sollen-nicht-mehr-so-leicht-die-wohnung-verlieren](https://www.spiegel.de/wirtschaft/stefanie-hubig-saeumige-mieter-sollen-nicht-mehr-so-leicht-die-wohnung-verlieren-a-0c873176-cd4c-423e-a63e-47164e0158b5#ref=rss)
-### uspräsident
+* [https://www.spiegel.de/ausland/indien-ahmedabad-die-welt-kondoliert-nach-dem-unglueck-von-flug-ai171](https://www.spiegel.de/ausland/indien-ahmedabad-die-welt-kondoliert-nach-dem-unglueck-von-flug-ai171-a-62e21b42-1331-4ea5-88c0-c5bd071bd26e#ref=rss)
+* [https://www.spiegel.de/auto/lithium-fuer-e-autos-koennte-laut-neuer-studie-knapp-werden](https://www.spiegel.de/auto/lithium-fuer-e-autos-koennte-laut-neuer-studie-knapp-werden-a-012ff29e-cc7f-47fd-bc36-5ea5ff243d29#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/germering-bei-muenchen-kind-soll-betruegern-werte-in-sechsstelliger-hoehe-uebergeben-haben](https://www.spiegel.de/panorama/justiz/germering-bei-muenchen-kind-soll-betruegern-werte-in-sechsstelliger-hoehe-uebergeben-haben-a-4ebd3b14-77b5-466b-b118-87d7b9b9a5bf#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/bastian-schweinsteiger-und-ana-ivanovic-brax-beendet-zusammenarbeit](https://www.spiegel.de/wirtschaft/unternehmen/bastian-schweinsteiger-und-ana-ivanovic-brax-beendet-zusammenarbeit-a-dfae3b7f-ac45-4314-b6d4-0922bcd892b4#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/ki-bildgenerator-midjourney-soll-keine-minions-mehr-erzeugen](https://www.spiegel.de/netzwelt/apps/ki-bildgenerator-midjourney-soll-keine-minions-mehr-erzeugen-a-f5226943-8e35-4753-ad88-23b07e72c633#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/wirtschaft/ifo-prognostiziert-ende-der-stagnation-in-deutschland](https://www.spiegel.de/wirtschaft/ifo-prognostiziert-ende-der-stagnation-in-deutschland-a-e1cfc537-4999-4ec4-b9b9-f63cdadc24e9#ref=rss)
-* [https://www.spiegel.de/geschichte/einsaetze-der-nationalgarde-als-gouverneure-mit-vorsatz-us-bundesgesetze-ignorierten](https://www.spiegel.de/geschichte/einsaetze-der-nationalgarde-als-gouverneure-mit-vorsatz-us-bundesgesetze-ignorierten-a-091359d1-4f30-4540-89bf-b79e65d90238#ref=rss)
-* [https://www.spiegel.de/ausland/los-angeles-proteste-halten-an-soldaten-werden-noch-fuer-einsatz-trainiert](https://www.spiegel.de/ausland/los-angeles-proteste-halten-an-soldaten-werden-noch-fuer-einsatz-trainiert-a-574b9824-3562-4e76-af9c-96510219663f#ref=rss)
-### trump
-
-* [https://www.spiegel.de/wirtschaft/ifo-prognostiziert-ende-der-stagnation-in-deutschland](https://www.spiegel.de/wirtschaft/ifo-prognostiziert-ende-der-stagnation-in-deutschland-a-e1cfc537-4999-4ec4-b9b9-f63cdadc24e9#ref=rss)
-* [https://www.spiegel.de/geschichte/einsaetze-der-nationalgarde-als-gouverneure-mit-vorsatz-us-bundesgesetze-ignorierten](https://www.spiegel.de/geschichte/einsaetze-der-nationalgarde-als-gouverneure-mit-vorsatz-us-bundesgesetze-ignorierten-a-091359d1-4f30-4540-89bf-b79e65d90238#ref=rss)
-* [https://www.spiegel.de/ausland/los-angeles-proteste-halten-an-soldaten-werden-noch-fuer-einsatz-trainiert](https://www.spiegel.de/ausland/los-angeles-proteste-halten-an-soldaten-werden-noch-fuer-einsatz-trainiert-a-574b9824-3562-4e76-af9c-96510219663f#ref=rss)
-### besser
-
-* [https://www.spiegel.de/panorama/bildung/frankreich-jungen-sind-erst-nach-schulstart-besser-in-mathe-als-maedchen](https://www.spiegel.de/panorama/bildung/frankreich-jungen-sind-erst-nach-schulstart-besser-in-mathe-als-maedchen-a-78a453a8-0bed-4b96-bbad-27f75e56356d#ref=rss)
-* [https://www.spiegel.de/sport/schwimmen-summer-mcintosh-bricht-drei-weltrekorde-in-fuenf-tagen](https://www.spiegel.de/sport/schwimmen-summer-mcintosh-bricht-drei-weltrekorde-in-fuenf-tagen-a-10e0606d-7429-4a7d-8201-639c196055d2#ref=rss)
-### mädchen
-
-* [https://www.spiegel.de/panorama/bildung/frankreich-jungen-sind-erst-nach-schulstart-besser-in-mathe-als-maedchen](https://www.spiegel.de/panorama/bildung/frankreich-jungen-sind-erst-nach-schulstart-besser-in-mathe-als-maedchen-a-78a453a8-0bed-4b96-bbad-27f75e56356d#ref=rss)
-* [https://www.spiegel.de/panorama/bochum-vierjaehrige-in-auto-eingeschlossen-feuerwehr-befreit-maedchen](https://www.spiegel.de/panorama/bochum-vierjaehrige-in-auto-eingeschlossen-feuerwehr-befreit-maedchen-a-4005b99b-a8b3-4436-8944-a003b997bfd6#ref=rss)
-### kam
-
-* [https://www.spiegel.de/sport/fussball/robert-lewandowski-polens-nationaltrainer-michal-probierz-verliert-machtkampf-und-schmeisst-hin](https://www.spiegel.de/sport/fussball/robert-lewandowski-polens-nationaltrainer-michal-probierz-verliert-machtkampf-und-schmeisst-hin-a-096e9efb-ac83-41eb-a557-2933cbd341cd#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-ghf-stiftung-meldet-angriff-der-hamas-auf-mitarbeiter-mehrere-sollen-getoetet-worden-sein](https://www.spiegel.de/ausland/gaza-ghf-stiftung-meldet-angriff-der-hamas-auf-mitarbeiter-mehrere-sollen-getoetet-worden-sein-a-e20419a9-89b0-463b-8141-7373c8a8eae8#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-finals-bennedict-mathurin-glaenzt-mit-perfekter-trefferquote-fuer-die-pacers](https://www.spiegel.de/sport/basketball/nba-finals-bennedict-mathurin-glaenzt-mit-perfekter-trefferquote-fuer-die-pacers-a-97aad5ef-75fd-4b4e-b101-f6ccee65045a#ref=rss)
-### gewalt
-
-* [https://www.spiegel.de/ausland/gaza-ghf-stiftung-meldet-angriff-der-hamas-auf-mitarbeiter-mehrere-sollen-getoetet-worden-sein](https://www.spiegel.de/ausland/gaza-ghf-stiftung-meldet-angriff-der-hamas-auf-mitarbeiter-mehrere-sollen-getoetet-worden-sein-a-e20419a9-89b0-463b-8141-7373c8a8eae8#ref=rss)
-* [https://www.spiegel.de/ausland/los-angeles-proteste-halten-an-soldaten-werden-noch-fuer-einsatz-trainiert](https://www.spiegel.de/ausland/los-angeles-proteste-halten-an-soldaten-werden-noch-fuer-einsatz-trainiert-a-574b9824-3562-4e76-af9c-96510219663f#ref=rss)
+* [https://www.spiegel.de/ausland/indien-ahmedabad-die-welt-kondoliert-nach-dem-unglueck-von-flug-ai171](https://www.spiegel.de/ausland/indien-ahmedabad-die-welt-kondoliert-nach-dem-unglueck-von-flug-ai171-a-62e21b42-1331-4ea5-88c0-c5bd071bd26e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/studie-ueber-das-atmen-menschen-haben-offenbar-nasenluftstrom-fingerabdruecke](https://www.spiegel.de/wissenschaft/mensch/studie-ueber-das-atmen-menschen-haben-offenbar-nasenluftstrom-fingerabdruecke-a-dddea7f1-d9bb-44b7-8e58-b3c6e3509c42#ref=rss)
+* [https://www.spiegel.de/ausland/indien-vollgetankter-dreamliner-stuerzt-in-gebaeude-zahl-der-toten-koennte-steigen](https://www.spiegel.de/ausland/indien-vollgetankter-dreamliner-stuerzt-in-gebaeude-zahl-der-toten-koennte-steigen-a-5d8fd014-56fe-4709-9236-ca39262b47fb#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/alzheimer-vorbeugen-wie-bewegung-das-erkrankungsrisiko-deutlich-senken-kann](https://www.spiegel.de/wissenschaft/medizin/alzheimer-vorbeugen-wie-bewegung-das-erkrankungsrisiko-deutlich-senken-kann-a-c00a6da4-e978-4e2b-8022-cbb954f0589d#ref=rss)
 ### iran
 
-* [https://www.spiegel.de/ausland/atomprogramm-iran-kuendigt-dritte-nuklearanlage-an](https://www.spiegel.de/ausland/atomprogramm-iran-kuendigt-dritte-nuklearanlage-an-a-735889cf-c30f-419b-836e-1a681c689a07#ref=rss)
-### konkurrenten
+* [https://www.spiegel.de/politik/deutschland/johann-wadephul-bundesaussenminister-warnt-iran-im-konflikt-mit-israel](https://www.spiegel.de/politik/deutschland/johann-wadephul-bundesaussenminister-warnt-iran-im-konflikt-mit-israel-a-3bfa1291-5dc9-4977-a316-ca01462e7eb7#ref=rss)
+* [https://www.spiegel.de/ausland/atomprogramm-wie-sich-iran-gegen-einen-moeglichen-angriff-wappnen-will](https://www.spiegel.de/ausland/atomprogramm-wie-sich-iran-gegen-einen-moeglichen-angriff-wappnen-will-a-4663bc3b-c93d-4507-8264-f11bab3538f6#ref=rss)
+### rolf
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/biontech-will-konkurrenten-curevac-uebernehmen](https://www.spiegel.de/wirtschaft/unternehmen/biontech-will-konkurrenten-curevac-uebernehmen-a-16943474-8b76-485a-bbd8-d6a06e5e812e#ref=rss)
-### übernehmen
+* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast-a-553efef5-315d-4d4f-a0db-0f7017e23ab5#ref=rss)
+* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-a-840f34ac-6269-4d0c-8d8a-6d444cffc429#ref=rss)
+### mützenich
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/biontech-will-konkurrenten-curevac-uebernehmen](https://www.spiegel.de/wirtschaft/unternehmen/biontech-will-konkurrenten-curevac-uebernehmen-a-16943474-8b76-485a-bbd8-d6a06e5e812e#ref=rss)
-### deutschen
+* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast-a-553efef5-315d-4d4f-a0db-0f7017e23ab5#ref=rss)
+* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-a-840f34ac-6269-4d0c-8d8a-6d444cffc429#ref=rss)
+### lars
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/biontech-will-konkurrenten-curevac-uebernehmen](https://www.spiegel.de/wirtschaft/unternehmen/biontech-will-konkurrenten-curevac-uebernehmen-a-16943474-8b76-485a-bbd8-d6a06e5e812e#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/staedteranking-2025-in-kassel-leben-die-gluecklichsten-grossstaedter](https://www.spiegel.de/panorama/gesellschaft/staedteranking-2025-in-kassel-leben-die-gluecklichsten-grossstaedter-a-aee3b6f6-5008-4303-b146-b282a29df699#ref=rss)
-### amoklauf
+* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast-a-553efef5-315d-4d4f-a0db-0f7017e23ab5#ref=rss)
+* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-a-840f34ac-6269-4d0c-8d8a-6d444cffc429#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-spd-chef-fuehlt-sich-durch-manifest-zur-aussenpolitik-nicht-persoenlich-angegriffen](https://www.spiegel.de/politik/deutschland/lars-klingbeil-spd-chef-fuehlt-sich-durch-manifest-zur-aussenpolitik-nicht-persoenlich-angegriffen-a-4a6b9ba3-e4de-4e23-ac9a-5d1842c2cf4f#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/panorama/justiz/graz-nach-dem-amoklauf-taeter-war-introvertiert-und-spielte-egoshooter](https://www.spiegel.de/panorama/justiz/graz-nach-dem-amoklauf-taeter-war-introvertiert-und-spielte-egoshooter-a-088b6ab5-dde0-40e4-aa76-0d7cfe66f39c#ref=rss)
-* [https://www.spiegel.de/ausland/graz-in-oesterreich-ermittler-informieren-ueber-amoklauf-an-grazer-gymnasium](https://www.spiegel.de/ausland/graz-in-oesterreich-ermittler-informieren-ueber-amoklauf-an-grazer-gymnasium-a-13c4a08d-0f35-406a-83e9-84644be029da#ref=rss)
-### wissen
+* [https://www.spiegel.de/wissenschaft/mensch/studie-ueber-das-atmen-menschen-haben-offenbar-nasenluftstrom-fingerabdruecke](https://www.spiegel.de/wissenschaft/mensch/studie-ueber-das-atmen-menschen-haben-offenbar-nasenluftstrom-fingerabdruecke-a-dddea7f1-d9bb-44b7-8e58-b3c6e3509c42#ref=rss)
+* [https://www.spiegel.de/wissenschaft/protest-gegen-regierung-von-donald-trump-vorstand-des-fulbright-stipendienprogramms-tritt-zurueck](https://www.spiegel.de/wissenschaft/protest-gegen-regierung-von-donald-trump-vorstand-des-fulbright-stipendienprogramms-tritt-zurueck-a-0298d83f-eda3-4620-9bd1-cb6d9df22de3#ref=rss)
+* [https://www.spiegel.de/auto/deutsche-bahn-ice-beendet-fahrt-vorzeitig-weil-er-den-zugbegleitern-zu-dreckig-war](https://www.spiegel.de/auto/deutsche-bahn-ice-beendet-fahrt-vorzeitig-weil-er-den-zugbegleitern-zu-dreckig-war-a-145f6ff3-abee-4d80-bb5f-9affc5bbbdc5#ref=rss)
+### neue
 
-* [https://www.spiegel.de/panorama/justiz/graz-nach-dem-amoklauf-taeter-war-introvertiert-und-spielte-egoshooter](https://www.spiegel.de/panorama/justiz/graz-nach-dem-amoklauf-taeter-war-introvertiert-und-spielte-egoshooter-a-088b6ab5-dde0-40e4-aa76-0d7cfe66f39c#ref=rss)
-* [https://www.spiegel.de/sport/fussball/klub-wm-2025-das-muessen-sie-zum-neuen-turnier-in-den-usa-wissen](https://www.spiegel.de/sport/fussball/klub-wm-2025-das-muessen-sie-zum-neuen-turnier-in-den-usa-wissen-a-e8dcf8f1-3a17-4851-94fe-12a45fcc333a#ref=rss)
-### marco
+* [https://www.spiegel.de/wissenschaft/mensch/studie-ueber-das-atmen-menschen-haben-offenbar-nasenluftstrom-fingerabdruecke](https://www.spiegel.de/wissenschaft/mensch/studie-ueber-das-atmen-menschen-haben-offenbar-nasenluftstrom-fingerabdruecke-a-dddea7f1-d9bb-44b7-8e58-b3c6e3509c42#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/netzwerk-berlin-pragmatische-spd-stroemung-hat-neue-spitze](https://www.spiegel.de/politik/deutschland/netzwerk-berlin-pragmatische-spd-stroemung-hat-neue-spitze-a-a7320e8a-7478-4ac4-b501-896cfd121871#ref=rss)
+* [https://www.spiegel.de/netzwelt/games/schach-chatgpt-verliert-gegen-atari-2600](https://www.spiegel.de/netzwelt/games/schach-chatgpt-verliert-gegen-atari-2600-a-294337cd-e34b-417b-8227-f9492166f45e#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/ausland/marco-rubio-us-aussenminister-gratuliert-zum-russland-tag](https://www.spiegel.de/ausland/marco-rubio-us-aussenminister-gratuliert-zum-russland-tag-a-4f537cd3-bf21-48a1-bc85-736d975ffd4f#ref=rss)
-### rubio
+* [https://www.spiegel.de/sport/olympia/judo-wm-ukraine-boykottiert-wegen-belarus-die-weltmeisterschaft-in-budapest](https://www.spiegel.de/sport/olympia/judo-wm-ukraine-boykottiert-wegen-belarus-die-weltmeisterschaft-in-budapest-a-d842899d-dc32-4d06-9258-7b2c6675ccd0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/boris-pistorius-stellt-weitere-milliarden-militaerhilfe-fuer-die-ukraine-in-aussicht](https://www.spiegel.de/politik/deutschland/boris-pistorius-stellt-weitere-milliarden-militaerhilfe-fuer-die-ukraine-in-aussicht-a-8fe62398-210f-4de2-95c2-d93863024769#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/ausland/marco-rubio-us-aussenminister-gratuliert-zum-russland-tag](https://www.spiegel.de/ausland/marco-rubio-us-aussenminister-gratuliert-zum-russland-tag-a-4f537cd3-bf21-48a1-bc85-736d975ffd4f#ref=rss)
-### usaußenminister
-
-* [https://www.spiegel.de/ausland/marco-rubio-us-aussenminister-gratuliert-zum-russland-tag](https://www.spiegel.de/ausland/marco-rubio-us-aussenminister-gratuliert-zum-russland-tag-a-4f537cd3-bf21-48a1-bc85-736d975ffd4f#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/marco-rubio-us-aussenminister-gratuliert-zum-russland-tag](https://www.spiegel.de/ausland/marco-rubio-us-aussenminister-gratuliert-zum-russland-tag-a-4f537cd3-bf21-48a1-bc85-736d975ffd4f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-olaf-lies-wertet-manifest-zur-aussenpolitik-als-angriff-auf-parteispitze](https://www.spiegel.de/politik/deutschland/spd-olaf-lies-wertet-manifest-zur-aussenpolitik-als-angriff-auf-parteispitze-a-049f9df8-38c9-4d44-ae55-3f2fbee90879#ref=rss)
-### handelskonflikt
-
-* [https://www.spiegel.de/wirtschaft/handelskonflikt-china-demonstriert-macht-mit-exportbschraenkung-seltener-erden](https://www.spiegel.de/wirtschaft/handelskonflikt-china-demonstriert-macht-mit-exportbschraenkung-seltener-erden-a-71fbe6b5-b88f-41e2-93bf-9bc7046be7c4#ref=rss)
-### china
-
-* [https://www.spiegel.de/wirtschaft/handelskonflikt-china-demonstriert-macht-mit-exportbschraenkung-seltener-erden](https://www.spiegel.de/wirtschaft/handelskonflikt-china-demonstriert-macht-mit-exportbschraenkung-seltener-erden-a-71fbe6b5-b88f-41e2-93bf-9bc7046be7c4#ref=rss)
-### macht
-
-* [https://www.spiegel.de/wirtschaft/handelskonflikt-china-demonstriert-macht-mit-exportbschraenkung-seltener-erden](https://www.spiegel.de/wirtschaft/handelskonflikt-china-demonstriert-macht-mit-exportbschraenkung-seltener-erden-a-71fbe6b5-b88f-41e2-93bf-9bc7046be7c4#ref=rss)
-* [https://www.spiegel.de/kultur/musik/ey-schicksal-lady-bitch-ray-macht-brustkrebserkrankung-oeffentlich](https://www.spiegel.de/kultur/musik/ey-schicksal-lady-bitch-ray-macht-brustkrebserkrankung-oeffentlich-a-e8c1b59f-53f0-4600-ace9-f55cbfcb412e#ref=rss)
-### erden
-
-* [https://www.spiegel.de/wirtschaft/handelskonflikt-china-demonstriert-macht-mit-exportbschraenkung-seltener-erden](https://www.spiegel.de/wirtschaft/handelskonflikt-china-demonstriert-macht-mit-exportbschraenkung-seltener-erden-a-71fbe6b5-b88f-41e2-93bf-9bc7046be7c4#ref=rss)
-### usa
-
-* [https://www.spiegel.de/wirtschaft/handelskonflikt-china-demonstriert-macht-mit-exportbschraenkung-seltener-erden](https://www.spiegel.de/wirtschaft/handelskonflikt-china-demonstriert-macht-mit-exportbschraenkung-seltener-erden-a-71fbe6b5-b88f-41e2-93bf-9bc7046be7c4#ref=rss)
-* [https://www.spiegel.de/sport/fussball/klub-wm-2025-das-muessen-sie-zum-neuen-turnier-in-den-usa-wissen](https://www.spiegel.de/sport/fussball/klub-wm-2025-das-muessen-sie-zum-neuen-turnier-in-den-usa-wissen-a-e8dcf8f1-3a17-4851-94fe-12a45fcc333a#ref=rss)
-### thomas
-
-* [https://www.spiegel.de/sport/fussball/thomas-tuchel-tuchels-mutter-kritisiert-verhalten-von-jude-bellingham](https://www.spiegel.de/sport/fussball/thomas-tuchel-tuchels-mutter-kritisiert-verhalten-von-jude-bellingham-a-5c5a9690-1acb-4d8e-b3c0-b0c33fa4cd90#ref=rss)
-### kritisiert
-
-* [https://www.spiegel.de/sport/fussball/thomas-tuchel-tuchels-mutter-kritisiert-verhalten-von-jude-bellingham](https://www.spiegel.de/sport/fussball/thomas-tuchel-tuchels-mutter-kritisiert-verhalten-von-jude-bellingham-a-5c5a9690-1acb-4d8e-b3c0-b0c33fa4cd90#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-olaf-lies-wertet-manifest-zur-aussenpolitik-als-angriff-auf-parteispitze](https://www.spiegel.de/politik/deutschland/spd-olaf-lies-wertet-manifest-zur-aussenpolitik-als-angriff-auf-parteispitze-a-049f9df8-38c9-4d44-ae55-3f2fbee90879#ref=rss)
-### jude
-
-* [https://www.spiegel.de/sport/fussball/thomas-tuchel-tuchels-mutter-kritisiert-verhalten-von-jude-bellingham](https://www.spiegel.de/sport/fussball/thomas-tuchel-tuchels-mutter-kritisiert-verhalten-von-jude-bellingham-a-5c5a9690-1acb-4d8e-b3c0-b0c33fa4cd90#ref=rss)
-### bellingham
-
-* [https://www.spiegel.de/sport/fussball/thomas-tuchel-tuchels-mutter-kritisiert-verhalten-von-jude-bellingham](https://www.spiegel.de/sport/fussball/thomas-tuchel-tuchels-mutter-kritisiert-verhalten-von-jude-bellingham-a-5c5a9690-1acb-4d8e-b3c0-b0c33fa4cd90#ref=rss)
-### verliert
-
-* [https://www.spiegel.de/sport/fussball/thomas-tuchel-tuchels-mutter-kritisiert-verhalten-von-jude-bellingham](https://www.spiegel.de/sport/fussball/thomas-tuchel-tuchels-mutter-kritisiert-verhalten-von-jude-bellingham-a-5c5a9690-1acb-4d8e-b3c0-b0c33fa4cd90#ref=rss)
-* [https://www.spiegel.de/sport/fussball/robert-lewandowski-polens-nationaltrainer-michal-probierz-verliert-machtkampf-und-schmeisst-hin](https://www.spiegel.de/sport/fussball/robert-lewandowski-polens-nationaltrainer-michal-probierz-verliert-machtkampf-und-schmeisst-hin-a-096e9efb-ac83-41eb-a557-2933cbd341cd#ref=rss)
-### cdu
-
-* [https://www.spiegel.de/start/fachkraeftemangel-cdu-will-auslaendische-medizinstudierende-zum-arbeiten-in-deutschland-verpflichten](https://www.spiegel.de/start/fachkraeftemangel-cdu-will-auslaendische-medizinstudierende-zum-arbeiten-in-deutschland-verpflichten-a-44868861-e348-4fd8-ad64-782aaa1c36c8#ref=rss)
-### ausländische
-
-* [https://www.spiegel.de/start/fachkraeftemangel-cdu-will-auslaendische-medizinstudierende-zum-arbeiten-in-deutschland-verpflichten](https://www.spiegel.de/start/fachkraeftemangel-cdu-will-auslaendische-medizinstudierende-zum-arbeiten-in-deutschland-verpflichten-a-44868861-e348-4fd8-ad64-782aaa1c36c8#ref=rss)
-### medizinstudierende
-
-* [https://www.spiegel.de/start/fachkraeftemangel-cdu-will-auslaendische-medizinstudierende-zum-arbeiten-in-deutschland-verpflichten](https://www.spiegel.de/start/fachkraeftemangel-cdu-will-auslaendische-medizinstudierende-zum-arbeiten-in-deutschland-verpflichten-a-44868861-e348-4fd8-ad64-782aaa1c36c8#ref=rss)
-### arbeiter
-
-* [https://www.spiegel.de/wirtschaft/chiquita-arbeiter-beenden-wochenlangen-streik](https://www.spiegel.de/wirtschaft/chiquita-arbeiter-beenden-wochenlangen-streik-a-f3ee2424-3f59-4f38-bbb7-2bad7c3aef47#ref=rss)
-### grazer
-
-* [https://www.spiegel.de/ausland/graz-in-oesterreich-ermittler-informieren-ueber-amoklauf-an-grazer-gymnasium](https://www.spiegel.de/ausland/graz-in-oesterreich-ermittler-informieren-ueber-amoklauf-an-grazer-gymnasium-a-13c4a08d-0f35-406a-83e9-84644be029da#ref=rss)
-### verunglückt
-
-* [https://www.spiegel.de/panorama/indien-air-india-maschine-verunglueckt-laut-medienberichten-nahe-flughafen-von-ahmedabad](https://www.spiegel.de/panorama/indien-air-india-maschine-verunglueckt-laut-medienberichten-nahe-flughafen-von-ahmedabad-a-ee140462-a413-4911-b3d1-718864754f55#ref=rss)
-### ifo
-
-* [https://www.spiegel.de/wirtschaft/ifo-prognostiziert-ende-der-stagnation-in-deutschland](https://www.spiegel.de/wirtschaft/ifo-prognostiziert-ende-der-stagnation-in-deutschland-a-e1cfc537-4999-4ec4-b9b9-f63cdadc24e9#ref=rss)
-### lady
-
-* [https://www.spiegel.de/kultur/musik/ey-schicksal-lady-bitch-ray-macht-brustkrebserkrankung-oeffentlich](https://www.spiegel.de/kultur/musik/ey-schicksal-lady-bitch-ray-macht-brustkrebserkrankung-oeffentlich-a-e8c1b59f-53f0-4600-ace9-f55cbfcb412e#ref=rss)
-### bitch
-
-* [https://www.spiegel.de/kultur/musik/ey-schicksal-lady-bitch-ray-macht-brustkrebserkrankung-oeffentlich](https://www.spiegel.de/kultur/musik/ey-schicksal-lady-bitch-ray-macht-brustkrebserkrankung-oeffentlich-a-e8c1b59f-53f0-4600-ace9-f55cbfcb412e#ref=rss)
-### ray
-
-* [https://www.spiegel.de/kultur/musik/ey-schicksal-lady-bitch-ray-macht-brustkrebserkrankung-oeffentlich](https://www.spiegel.de/kultur/musik/ey-schicksal-lady-bitch-ray-macht-brustkrebserkrankung-oeffentlich-a-e8c1b59f-53f0-4600-ace9-f55cbfcb412e#ref=rss)
-### ich
-
-* [https://www.spiegel.de/kultur/musik/ey-schicksal-lady-bitch-ray-macht-brustkrebserkrankung-oeffentlich](https://www.spiegel.de/kultur/musik/ey-schicksal-lady-bitch-ray-macht-brustkrebserkrankung-oeffentlich-a-e8c1b59f-53f0-4600-ace9-f55cbfcb412e#ref=rss)
-* [https://www.spiegel.de/panorama/spahns-maskendeals-mit-den-firmen-fiege-und-emix-ich-will-das-zeug](https://www.spiegel.de/panorama/spahns-maskendeals-mit-den-firmen-fiege-und-emix-ich-will-das-zeug-a-7001e3dd-7fec-4b71-9e15-30d8bfaac071#ref=rss)
-### frankreich
-
-* [https://www.spiegel.de/panorama/bildung/frankreich-jungen-sind-erst-nach-schulstart-besser-in-mathe-als-maedchen](https://www.spiegel.de/panorama/bildung/frankreich-jungen-sind-erst-nach-schulstart-besser-in-mathe-als-maedchen-a-78a453a8-0bed-4b96-bbad-27f75e56356d#ref=rss)
-### jungen
-
-* [https://www.spiegel.de/panorama/bildung/frankreich-jungen-sind-erst-nach-schulstart-besser-in-mathe-als-maedchen](https://www.spiegel.de/panorama/bildung/frankreich-jungen-sind-erst-nach-schulstart-besser-in-mathe-als-maedchen-a-78a453a8-0bed-4b96-bbad-27f75e56356d#ref=rss)
-### apple
-
-* [https://www.spiegel.de/netzwelt/gadgets/apple-greg-joswiak-erklaert-warum-siri-verspaetung-hat](https://www.spiegel.de/netzwelt/gadgets/apple-greg-joswiak-erklaert-warum-siri-verspaetung-hat-a-d74c9d64-dece-46cd-b794-45ceb6fb2c06#ref=rss)
-### greg
-
-* [https://www.spiegel.de/netzwelt/gadgets/apple-greg-joswiak-erklaert-warum-siri-verspaetung-hat](https://www.spiegel.de/netzwelt/gadgets/apple-greg-joswiak-erklaert-warum-siri-verspaetung-hat-a-d74c9d64-dece-46cd-b794-45ceb6fb2c06#ref=rss)
-### joswiak
-
-* [https://www.spiegel.de/netzwelt/gadgets/apple-greg-joswiak-erklaert-warum-siri-verspaetung-hat](https://www.spiegel.de/netzwelt/gadgets/apple-greg-joswiak-erklaert-warum-siri-verspaetung-hat-a-d74c9d64-dece-46cd-b794-45ceb6fb2c06#ref=rss)
-### siri
-
-* [https://www.spiegel.de/netzwelt/gadgets/apple-greg-joswiak-erklaert-warum-siri-verspaetung-hat](https://www.spiegel.de/netzwelt/gadgets/apple-greg-joswiak-erklaert-warum-siri-verspaetung-hat-a-d74c9d64-dece-46cd-b794-45ceb6fb2c06#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/netzwelt/gadgets/apple-greg-joswiak-erklaert-warum-siri-verspaetung-hat](https://www.spiegel.de/netzwelt/gadgets/apple-greg-joswiak-erklaert-warum-siri-verspaetung-hat-a-d74c9d64-dece-46cd-b794-45ceb6fb2c06#ref=rss)
-* [https://www.spiegel.de/sport/fussball/klub-wm-2025-das-muessen-sie-zum-neuen-turnier-in-den-usa-wissen](https://www.spiegel.de/sport/fussball/klub-wm-2025-das-muessen-sie-zum-neuen-turnier-in-den-usa-wissen-a-e8dcf8f1-3a17-4851-94fe-12a45fcc333a#ref=rss)
-### sklstädteranking
-
-* [https://www.spiegel.de/panorama/gesellschaft/staedteranking-2025-in-kassel-leben-die-gluecklichsten-grossstaedter](https://www.spiegel.de/panorama/gesellschaft/staedteranking-2025-in-kassel-leben-die-gluecklichsten-grossstaedter-a-aee3b6f6-5008-4303-b146-b282a29df699#ref=rss)
-### kassel
-
-* [https://www.spiegel.de/panorama/gesellschaft/staedteranking-2025-in-kassel-leben-die-gluecklichsten-grossstaedter](https://www.spiegel.de/panorama/gesellschaft/staedteranking-2025-in-kassel-leben-die-gluecklichsten-grossstaedter-a-aee3b6f6-5008-4303-b146-b282a29df699#ref=rss)
-### leben
-
-* [https://www.spiegel.de/panorama/gesellschaft/staedteranking-2025-in-kassel-leben-die-gluecklichsten-grossstaedter](https://www.spiegel.de/panorama/gesellschaft/staedteranking-2025-in-kassel-leben-die-gluecklichsten-grossstaedter-a-aee3b6f6-5008-4303-b146-b282a29df699#ref=rss)
-### diesem
-
-* [https://www.spiegel.de/panorama/gesellschaft/staedteranking-2025-in-kassel-leben-die-gluecklichsten-grossstaedter](https://www.spiegel.de/panorama/gesellschaft/staedteranking-2025-in-kassel-leben-die-gluecklichsten-grossstaedter-a-aee3b6f6-5008-4303-b146-b282a29df699#ref=rss)
-* [https://www.spiegel.de/sport/fussball/klub-wm-2025-das-muessen-sie-zum-neuen-turnier-in-den-usa-wissen](https://www.spiegel.de/sport/fussball/klub-wm-2025-das-muessen-sie-zum-neuen-turnier-in-den-usa-wissen-a-e8dcf8f1-3a17-4851-94fe-12a45fcc333a#ref=rss)
-### nationalgarde
-
-* [https://www.spiegel.de/geschichte/einsaetze-der-nationalgarde-als-gouverneure-mit-vorsatz-us-bundesgesetze-ignorierten](https://www.spiegel.de/geschichte/einsaetze-der-nationalgarde-als-gouverneure-mit-vorsatz-us-bundesgesetze-ignorierten-a-091359d1-4f30-4540-89bf-b79e65d90238#ref=rss)
-### kalifornien
-
-* [https://www.spiegel.de/geschichte/einsaetze-der-nationalgarde-als-gouverneure-mit-vorsatz-us-bundesgesetze-ignorierten](https://www.spiegel.de/geschichte/einsaetze-der-nationalgarde-als-gouverneure-mit-vorsatz-us-bundesgesetze-ignorierten-a-091359d1-4f30-4540-89bf-b79e65d90238#ref=rss)
-### solchen
-
-* [https://www.spiegel.de/geschichte/einsaetze-der-nationalgarde-als-gouverneure-mit-vorsatz-us-bundesgesetze-ignorierten](https://www.spiegel.de/geschichte/einsaetze-der-nationalgarde-als-gouverneure-mit-vorsatz-us-bundesgesetze-ignorierten-a-091359d1-4f30-4540-89bf-b79e65d90238#ref=rss)
-* [https://www.spiegel.de/wirtschaft/stefanie-hubig-saeumige-mieter-sollen-nicht-mehr-so-leicht-die-wohnung-verlieren](https://www.spiegel.de/wirtschaft/stefanie-hubig-saeumige-mieter-sollen-nicht-mehr-so-leicht-die-wohnung-verlieren-a-0c873176-cd4c-423e-a63e-47164e0158b5#ref=rss)
-### robert
-
-* [https://www.spiegel.de/sport/fussball/robert-lewandowski-polens-nationaltrainer-michal-probierz-verliert-machtkampf-und-schmeisst-hin](https://www.spiegel.de/sport/fussball/robert-lewandowski-polens-nationaltrainer-michal-probierz-verliert-machtkampf-und-schmeisst-hin-a-096e9efb-ac83-41eb-a557-2933cbd341cd#ref=rss)
-### lewandowski
-
-* [https://www.spiegel.de/sport/fussball/robert-lewandowski-polens-nationaltrainer-michal-probierz-verliert-machtkampf-und-schmeisst-hin](https://www.spiegel.de/sport/fussball/robert-lewandowski-polens-nationaltrainer-michal-probierz-verliert-machtkampf-und-schmeisst-hin-a-096e9efb-ac83-41eb-a557-2933cbd341cd#ref=rss)
-### michał
-
-* [https://www.spiegel.de/sport/fussball/robert-lewandowski-polens-nationaltrainer-michal-probierz-verliert-machtkampf-und-schmeisst-hin](https://www.spiegel.de/sport/fussball/robert-lewandowski-polens-nationaltrainer-michal-probierz-verliert-machtkampf-und-schmeisst-hin-a-096e9efb-ac83-41eb-a557-2933cbd341cd#ref=rss)
-### probierz
-
-* [https://www.spiegel.de/sport/fussball/robert-lewandowski-polens-nationaltrainer-michal-probierz-verliert-machtkampf-und-schmeisst-hin](https://www.spiegel.de/sport/fussball/robert-lewandowski-polens-nationaltrainer-michal-probierz-verliert-machtkampf-und-schmeisst-hin-a-096e9efb-ac83-41eb-a557-2933cbd341cd#ref=rss)
-### chatgpt
-
-* [https://www.spiegel.de/start/ki-einsatz-im-studium-ein-viertel-der-studierenden-nutzt-taeglich-chatgpt-und-andere-ki-tools](https://www.spiegel.de/start/ki-einsatz-im-studium-ein-viertel-der-studierenden-nutzt-taeglich-chatgpt-und-andere-ki-tools-a-113164dd-b860-44e9-b2f5-45cf12aca783#ref=rss)
-### kitools
-
-* [https://www.spiegel.de/start/ki-einsatz-im-studium-ein-viertel-der-studierenden-nutzt-taeglich-chatgpt-und-andere-ki-tools](https://www.spiegel.de/start/ki-einsatz-im-studium-ein-viertel-der-studierenden-nutzt-taeglich-chatgpt-und-andere-ki-tools-a-113164dd-b860-44e9-b2f5-45cf12aca783#ref=rss)
-### olaf
-
-* [https://www.spiegel.de/politik/deutschland/spd-olaf-lies-wertet-manifest-zur-aussenpolitik-als-angriff-auf-parteispitze](https://www.spiegel.de/politik/deutschland/spd-olaf-lies-wertet-manifest-zur-aussenpolitik-als-angriff-auf-parteispitze-a-049f9df8-38c9-4d44-ae55-3f2fbee90879#ref=rss)
-### lies
-
-* [https://www.spiegel.de/politik/deutschland/spd-olaf-lies-wertet-manifest-zur-aussenpolitik-als-angriff-auf-parteispitze](https://www.spiegel.de/politik/deutschland/spd-olaf-lies-wertet-manifest-zur-aussenpolitik-als-angriff-auf-parteispitze-a-049f9df8-38c9-4d44-ae55-3f2fbee90879#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/eu-parlament-fdp-abgeordneter-fuehlt-sich-von-polnischem-pis-kollegen-bedraengt](https://www.spiegel.de/politik/deutschland/eu-parlament-fdp-abgeordneter-fuehlt-sich-von-polnischem-pis-kollegen-bedraengt-a-fc4211e1-3ec8-4fff-a70e-8e0e381e6f94#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/johann-wadephul-bundesaussenminister-warnt-iran-im-konflikt-mit-israel](https://www.spiegel.de/politik/deutschland/johann-wadephul-bundesaussenminister-warnt-iran-im-konflikt-mit-israel-a-3bfa1291-5dc9-4977-a316-ca01462e7eb7#ref=rss)
+* [https://www.spiegel.de/auto/deutsche-bahn-ice-beendet-fahrt-vorzeitig-weil-er-den-zugbegleitern-zu-dreckig-war](https://www.spiegel.de/auto/deutsche-bahn-ice-beendet-fahrt-vorzeitig-weil-er-den-zugbegleitern-zu-dreckig-war-a-145f6ff3-abee-4d80-bb5f-9affc5bbbdc5#ref=rss)
 ### angriff
 
-* [https://www.spiegel.de/politik/deutschland/spd-olaf-lies-wertet-manifest-zur-aussenpolitik-als-angriff-auf-parteispitze](https://www.spiegel.de/politik/deutschland/spd-olaf-lies-wertet-manifest-zur-aussenpolitik-als-angriff-auf-parteispitze-a-049f9df8-38c9-4d44-ae55-3f2fbee90879#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-ghf-stiftung-meldet-angriff-der-hamas-auf-mitarbeiter-mehrere-sollen-getoetet-worden-sein](https://www.spiegel.de/ausland/gaza-ghf-stiftung-meldet-angriff-der-hamas-auf-mitarbeiter-mehrere-sollen-getoetet-worden-sein-a-e20419a9-89b0-463b-8141-7373c8a8eae8#ref=rss)
-### klubwm
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-adam-al-najjar-seine-neun-geschwister-sind-tot-er-wird-nun-in-italien-behandelt](https://www.spiegel.de/ausland/israel-gaza-krieg-adam-al-najjar-seine-neun-geschwister-sind-tot-er-wird-nun-in-italien-behandelt-a-bc0a0484-2036-4193-b988-1c4d5ee93d98#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-spd-chef-fuehlt-sich-durch-manifest-zur-aussenpolitik-nicht-persoenlich-angegriffen](https://www.spiegel.de/politik/deutschland/lars-klingbeil-spd-chef-fuehlt-sich-durch-manifest-zur-aussenpolitik-nicht-persoenlich-angegriffen-a-4a6b9ba3-e4de-4e23-ac9a-5d1842c2cf4f#ref=rss)
+* [https://www.spiegel.de/ausland/atomprogramm-wie-sich-iran-gegen-einen-moeglichen-angriff-wappnen-will](https://www.spiegel.de/ausland/atomprogramm-wie-sich-iran-gegen-einen-moeglichen-angriff-wappnen-will-a-4663bc3b-c93d-4507-8264-f11bab3538f6#ref=rss)
+### deutlich
 
-* [https://www.spiegel.de/sport/fussball/klub-wm-2025-das-muessen-sie-zum-neuen-turnier-in-den-usa-wissen](https://www.spiegel.de/sport/fussball/klub-wm-2025-das-muessen-sie-zum-neuen-turnier-in-den-usa-wissen-a-e8dcf8f1-3a17-4851-94fe-12a45fcc333a#ref=rss)
-### turnier
+* [https://www.spiegel.de/ausland/indien-ahmedabad-die-welt-kondoliert-nach-dem-unglueck-von-flug-ai171](https://www.spiegel.de/ausland/indien-ahmedabad-die-welt-kondoliert-nach-dem-unglueck-von-flug-ai171-a-62e21b42-1331-4ea5-88c0-c5bd071bd26e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/alzheimer-vorbeugen-wie-bewegung-das-erkrankungsrisiko-deutlich-senken-kann](https://www.spiegel.de/wissenschaft/medizin/alzheimer-vorbeugen-wie-bewegung-das-erkrankungsrisiko-deutlich-senken-kann-a-c00a6da4-e978-4e2b-8022-cbb954f0589d#ref=rss)
+### opfer
 
-* [https://www.spiegel.de/sport/fussball/klub-wm-2025-das-muessen-sie-zum-neuen-turnier-in-den-usa-wissen](https://www.spiegel.de/sport/fussball/klub-wm-2025-das-muessen-sie-zum-neuen-turnier-in-den-usa-wissen-a-e8dcf8f1-3a17-4851-94fe-12a45fcc333a#ref=rss)
-### stefanie
+* [https://www.spiegel.de/ausland/indien-ahmedabad-die-welt-kondoliert-nach-dem-unglueck-von-flug-ai171](https://www.spiegel.de/ausland/indien-ahmedabad-die-welt-kondoliert-nach-dem-unglueck-von-flug-ai171-a-62e21b42-1331-4ea5-88c0-c5bd071bd26e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/germering-bei-muenchen-kind-soll-betruegern-werte-in-sechsstelliger-hoehe-uebergeben-haben](https://www.spiegel.de/panorama/justiz/germering-bei-muenchen-kind-soll-betruegern-werte-in-sechsstelliger-hoehe-uebergeben-haben-a-4ebd3b14-77b5-466b-b118-87d7b9b9a5bf#ref=rss)
+* [https://www.spiegel.de/ausland/indien-vollgetankter-dreamliner-stuerzt-in-gebaeude-zahl-der-toten-koennte-steigen](https://www.spiegel.de/ausland/indien-vollgetankter-dreamliner-stuerzt-in-gebaeude-zahl-der-toten-koennte-steigen-a-5d8fd014-56fe-4709-9236-ca39262b47fb#ref=rss)
+### streit
 
-* [https://www.spiegel.de/wirtschaft/stefanie-hubig-saeumige-mieter-sollen-nicht-mehr-so-leicht-die-wohnung-verlieren](https://www.spiegel.de/wirtschaft/stefanie-hubig-saeumige-mieter-sollen-nicht-mehr-so-leicht-die-wohnung-verlieren-a-0c873176-cd4c-423e-a63e-47164e0158b5#ref=rss)
-### hubig
+* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast-a-553efef5-315d-4d4f-a0db-0f7017e23ab5#ref=rss)
+* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-a-840f34ac-6269-4d0c-8d8a-6d444cffc429#ref=rss)
+* [https://www.spiegel.de/sport/olympia/judo-wm-ukraine-boykottiert-wegen-belarus-die-weltmeisterschaft-in-budapest](https://www.spiegel.de/sport/olympia/judo-wm-ukraine-boykottiert-wegen-belarus-die-weltmeisterschaft-in-budapest-a-d842899d-dc32-4d06-9258-7b2c6675ccd0#ref=rss)
+### parteichef
 
-* [https://www.spiegel.de/wirtschaft/stefanie-hubig-saeumige-mieter-sollen-nicht-mehr-so-leicht-die-wohnung-verlieren](https://www.spiegel.de/wirtschaft/stefanie-hubig-saeumige-mieter-sollen-nicht-mehr-so-leicht-die-wohnung-verlieren-a-0c873176-cd4c-423e-a63e-47164e0158b5#ref=rss)
-### george
+* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast-a-553efef5-315d-4d4f-a0db-0f7017e23ab5#ref=rss)
+* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-a-840f34ac-6269-4d0c-8d8a-6d444cffc429#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-spd-chef-fuehlt-sich-durch-manifest-zur-aussenpolitik-nicht-persoenlich-angegriffen](https://www.spiegel.de/politik/deutschland/lars-klingbeil-spd-chef-fuehlt-sich-durch-manifest-zur-aussenpolitik-nicht-persoenlich-angegriffen-a-4a6b9ba3-e4de-4e23-ac9a-5d1842c2cf4f#ref=rss)
+### studie
 
-* [https://www.spiegel.de/panorama/leute/george-takei-star-trek-erzaehlt-vom-coming-out-mit-68](https://www.spiegel.de/panorama/leute/george-takei-star-trek-erzaehlt-vom-coming-out-mit-68-a-53e5a2bc-4879-4315-bebd-ff9f99fd18e9#ref=rss)
-### takei
+* [https://www.spiegel.de/wissenschaft/mensch/studie-ueber-das-atmen-menschen-haben-offenbar-nasenluftstrom-fingerabdruecke](https://www.spiegel.de/wissenschaft/mensch/studie-ueber-das-atmen-menschen-haben-offenbar-nasenluftstrom-fingerabdruecke-a-dddea7f1-d9bb-44b7-8e58-b3c6e3509c42#ref=rss)
+* [https://www.spiegel.de/auto/lithium-fuer-e-autos-koennte-laut-neuer-studie-knapp-werden](https://www.spiegel.de/auto/lithium-fuer-e-autos-koennte-laut-neuer-studie-knapp-werden-a-012ff29e-cc7f-47fd-bc36-5ea5ff243d29#ref=rss)
+### weinstein
 
-* [https://www.spiegel.de/panorama/leute/george-takei-star-trek-erzaehlt-vom-coming-out-mit-68](https://www.spiegel.de/panorama/leute/george-takei-star-trek-erzaehlt-vom-coming-out-mit-68-a-53e5a2bc-4879-4315-bebd-ff9f99fd18e9#ref=rss)
-### star
+* [https://www.spiegel.de/panorama/justiz/harvey-weinstein-was-sie-nach-dem-neuen-urteil-wissen-muessen](https://www.spiegel.de/panorama/justiz/harvey-weinstein-was-sie-nach-dem-neuen-urteil-wissen-muessen-a-8cec1139-6084-4135-a109-649f3f5c1fe0#ref=rss)
+### unruhen
 
-* [https://www.spiegel.de/panorama/leute/george-takei-star-trek-erzaehlt-vom-coming-out-mit-68](https://www.spiegel.de/panorama/leute/george-takei-star-trek-erzaehlt-vom-coming-out-mit-68-a-53e5a2bc-4879-4315-bebd-ff9f99fd18e9#ref=rss)
-### gaza
+* [https://www.spiegel.de/ausland/unruhen-in-ballymena-nordirland-und-wieder-greift-die-angst-um-sich](https://www.spiegel.de/ausland/unruhen-in-ballymena-nordirland-und-wieder-greift-die-angst-um-sich-a-f3e24814-26a8-4ffd-8696-8a06d1cdfaee#ref=rss)
+### nordirland
 
-* [https://www.spiegel.de/ausland/gaza-ghf-stiftung-meldet-angriff-der-hamas-auf-mitarbeiter-mehrere-sollen-getoetet-worden-sein](https://www.spiegel.de/ausland/gaza-ghf-stiftung-meldet-angriff-der-hamas-auf-mitarbeiter-mehrere-sollen-getoetet-worden-sein-a-e20419a9-89b0-463b-8141-7373c8a8eae8#ref=rss)
-### meldet
+* [https://www.spiegel.de/ausland/unruhen-in-ballymena-nordirland-und-wieder-greift-die-angst-um-sich](https://www.spiegel.de/ausland/unruhen-in-ballymena-nordirland-und-wieder-greift-die-angst-um-sich-a-f3e24814-26a8-4ffd-8696-8a06d1cdfaee#ref=rss)
+### angst
 
-* [https://www.spiegel.de/ausland/gaza-ghf-stiftung-meldet-angriff-der-hamas-auf-mitarbeiter-mehrere-sollen-getoetet-worden-sein](https://www.spiegel.de/ausland/gaza-ghf-stiftung-meldet-angriff-der-hamas-auf-mitarbeiter-mehrere-sollen-getoetet-worden-sein-a-e20419a9-89b0-463b-8141-7373c8a8eae8#ref=rss)
-### mitarbeiter
+* [https://www.spiegel.de/ausland/unruhen-in-ballymena-nordirland-und-wieder-greift-die-angst-um-sich](https://www.spiegel.de/ausland/unruhen-in-ballymena-nordirland-und-wieder-greift-die-angst-um-sich-a-f3e24814-26a8-4ffd-8696-8a06d1cdfaee#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/germering-bei-muenchen-kind-soll-betruegern-werte-in-sechsstelliger-hoehe-uebergeben-haben](https://www.spiegel.de/panorama/justiz/germering-bei-muenchen-kind-soll-betruegern-werte-in-sechsstelliger-hoehe-uebergeben-haben-a-4ebd3b14-77b5-466b-b118-87d7b9b9a5bf#ref=rss)
+### mali
 
-* [https://www.spiegel.de/ausland/gaza-ghf-stiftung-meldet-angriff-der-hamas-auf-mitarbeiter-mehrere-sollen-getoetet-worden-sein](https://www.spiegel.de/ausland/gaza-ghf-stiftung-meldet-angriff-der-hamas-auf-mitarbeiter-mehrere-sollen-getoetet-worden-sein-a-e20419a9-89b0-463b-8141-7373c8a8eae8#ref=rss)
-### getötet
+* [https://www.spiegel.de/ausland/mali-soeldnergruppe-wagner-zieht-ab-russland-bleibt](https://www.spiegel.de/ausland/mali-soeldnergruppe-wagner-zieht-ab-russland-bleibt-a-d71948a3-c559-464f-a271-b2bfa6d5ecd0#ref=rss)
+### söldnergruppe
 
-* [https://www.spiegel.de/ausland/gaza-ghf-stiftung-meldet-angriff-der-hamas-auf-mitarbeiter-mehrere-sollen-getoetet-worden-sein](https://www.spiegel.de/ausland/gaza-ghf-stiftung-meldet-angriff-der-hamas-auf-mitarbeiter-mehrere-sollen-getoetet-worden-sein-a-e20419a9-89b0-463b-8141-7373c8a8eae8#ref=rss)
-### summer
+* [https://www.spiegel.de/ausland/mali-soeldnergruppe-wagner-zieht-ab-russland-bleibt](https://www.spiegel.de/ausland/mali-soeldnergruppe-wagner-zieht-ab-russland-bleibt-a-d71948a3-c559-464f-a271-b2bfa6d5ecd0#ref=rss)
+### wagner
 
-* [https://www.spiegel.de/sport/schwimmen-summer-mcintosh-bricht-drei-weltrekorde-in-fuenf-tagen](https://www.spiegel.de/sport/schwimmen-summer-mcintosh-bricht-drei-weltrekorde-in-fuenf-tagen-a-10e0606d-7429-4a7d-8201-639c196055d2#ref=rss)
-### mcintosh
+* [https://www.spiegel.de/ausland/mali-soeldnergruppe-wagner-zieht-ab-russland-bleibt](https://www.spiegel.de/ausland/mali-soeldnergruppe-wagner-zieht-ab-russland-bleibt-a-d71948a3-c559-464f-a271-b2bfa6d5ecd0#ref=rss)
+### bleibt
 
-* [https://www.spiegel.de/sport/schwimmen-summer-mcintosh-bricht-drei-weltrekorde-in-fuenf-tagen](https://www.spiegel.de/sport/schwimmen-summer-mcintosh-bricht-drei-weltrekorde-in-fuenf-tagen-a-10e0606d-7429-4a7d-8201-639c196055d2#ref=rss)
-### bochum
+* [https://www.spiegel.de/ausland/mali-soeldnergruppe-wagner-zieht-ab-russland-bleibt](https://www.spiegel.de/ausland/mali-soeldnergruppe-wagner-zieht-ab-russland-bleibt-a-d71948a3-c559-464f-a271-b2bfa6d5ecd0#ref=rss)
+* [https://www.spiegel.de/ausland/spanien-premier-pedro-sanchez-weist-forderung-nach-vorgezogenen-wahlen-zurueck](https://www.spiegel.de/ausland/spanien-premier-pedro-sanchez-weist-forderung-nach-vorgezogenen-wahlen-zurueck-a-4d0f026e-996c-413b-ae42-033ffec32b66#ref=rss)
+### obwohl
 
-* [https://www.spiegel.de/panorama/bochum-vierjaehrige-in-auto-eingeschlossen-feuerwehr-befreit-maedchen](https://www.spiegel.de/panorama/bochum-vierjaehrige-in-auto-eingeschlossen-feuerwehr-befreit-maedchen-a-4005b99b-a8b3-4436-8944-a003b997bfd6#ref=rss)
-### auto
+* [https://www.spiegel.de/ausland/mali-soeldnergruppe-wagner-zieht-ab-russland-bleibt](https://www.spiegel.de/ausland/mali-soeldnergruppe-wagner-zieht-ab-russland-bleibt-a-d71948a3-c559-464f-a271-b2bfa6d5ecd0#ref=rss)
+* [https://www.spiegel.de/sport/handball/2-handball-bundesliga-sportgericht-ordnet-spielwiederholung-an-obwohln-saison-vorbei-ist](https://www.spiegel.de/sport/handball/2-handball-bundesliga-sportgericht-ordnet-spielwiederholung-an-obwohln-saison-vorbei-ist-a-0d7002b2-4664-4825-8384-c12d3bb96576#ref=rss)
+### fühlt
 
-* [https://www.spiegel.de/panorama/bochum-vierjaehrige-in-auto-eingeschlossen-feuerwehr-befreit-maedchen](https://www.spiegel.de/panorama/bochum-vierjaehrige-in-auto-eingeschlossen-feuerwehr-befreit-maedchen-a-4005b99b-a8b3-4436-8944-a003b997bfd6#ref=rss)
-### feuerwehr
+* [https://www.spiegel.de/politik/deutschland/eu-parlament-fdp-abgeordneter-fuehlt-sich-von-polnischem-pis-kollegen-bedraengt](https://www.spiegel.de/politik/deutschland/eu-parlament-fdp-abgeordneter-fuehlt-sich-von-polnischem-pis-kollegen-bedraengt-a-fc4211e1-3ec8-4fff-a70e-8e0e381e6f94#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-spd-chef-fuehlt-sich-durch-manifest-zur-aussenpolitik-nicht-persoenlich-angegriffen](https://www.spiegel.de/politik/deutschland/lars-klingbeil-spd-chef-fuehlt-sich-durch-manifest-zur-aussenpolitik-nicht-persoenlich-angegriffen-a-4a6b9ba3-e4de-4e23-ac9a-5d1842c2cf4f#ref=rss)
+### fordert
 
-* [https://www.spiegel.de/panorama/bochum-vierjaehrige-in-auto-eingeschlossen-feuerwehr-befreit-maedchen](https://www.spiegel.de/panorama/bochum-vierjaehrige-in-auto-eingeschlossen-feuerwehr-befreit-maedchen-a-4005b99b-a8b3-4436-8944-a003b997bfd6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/eu-parlament-fdp-abgeordneter-fuehlt-sich-von-polnischem-pis-kollegen-bedraengt](https://www.spiegel.de/politik/deutschland/eu-parlament-fdp-abgeordneter-fuehlt-sich-von-polnischem-pis-kollegen-bedraengt-a-fc4211e1-3ec8-4fff-a70e-8e0e381e6f94#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/netzwerk-berlin-pragmatische-spd-stroemung-hat-neue-spitze](https://www.spiegel.de/politik/deutschland/netzwerk-berlin-pragmatische-spd-stroemung-hat-neue-spitze-a-a7320e8a-7478-4ac4-b501-896cfd121871#ref=rss)
+### fall
+
+* [https://www.spiegel.de/politik/deutschland/kommissionsbericht-zu-metoo-vorwuerfen-gruene-scheitern-am-fall-gelbhaar](https://www.spiegel.de/politik/deutschland/kommissionsbericht-zu-metoo-vorwuerfen-gruene-scheitern-am-fall-gelbhaar-a-8f62103c-7355-45e6-aa8d-ae6bf1cbf589#ref=rss)
+### gelbhaar
+
+* [https://www.spiegel.de/politik/deutschland/kommissionsbericht-zu-metoo-vorwuerfen-gruene-scheitern-am-fall-gelbhaar](https://www.spiegel.de/politik/deutschland/kommissionsbericht-zu-metoo-vorwuerfen-gruene-scheitern-am-fall-gelbhaar-a-8f62103c-7355-45e6-aa8d-ae6bf1cbf589#ref=rss)
+### kritik
+
+* [https://www.spiegel.de/politik/deutschland/kommissionsbericht-zu-metoo-vorwuerfen-gruene-scheitern-am-fall-gelbhaar](https://www.spiegel.de/politik/deutschland/kommissionsbericht-zu-metoo-vorwuerfen-gruene-scheitern-am-fall-gelbhaar-a-8f62103c-7355-45e6-aa8d-ae6bf1cbf589#ref=rss)
+* [https://www.spiegel.de/kultur/musik/abor-deutschlands-esc-hoffnung-entschuldigt-sich-fuer-homophobe-posts](https://www.spiegel.de/kultur/musik/abor-deutschlands-esc-hoffnung-entschuldigt-sich-fuer-homophobe-posts-a-0f150b12-57e4-4c9d-a4dd-a61f42de27c7#ref=rss)
+### partei
+
+* [https://www.spiegel.de/politik/deutschland/kommissionsbericht-zu-metoo-vorwuerfen-gruene-scheitern-am-fall-gelbhaar](https://www.spiegel.de/politik/deutschland/kommissionsbericht-zu-metoo-vorwuerfen-gruene-scheitern-am-fall-gelbhaar-a-8f62103c-7355-45e6-aa8d-ae6bf1cbf589#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/netzwerk-berlin-pragmatische-spd-stroemung-hat-neue-spitze](https://www.spiegel.de/politik/deutschland/netzwerk-berlin-pragmatische-spd-stroemung-hat-neue-spitze-a-a7320e8a-7478-4ac4-b501-896cfd121871#ref=rss)
+### adam
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-adam-al-najjar-seine-neun-geschwister-sind-tot-er-wird-nun-in-italien-behandelt](https://www.spiegel.de/ausland/israel-gaza-krieg-adam-al-najjar-seine-neun-geschwister-sind-tot-er-wird-nun-in-italien-behandelt-a-bc0a0484-2036-4193-b988-1c4d5ee93d98#ref=rss)
+### alnajjar
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-adam-al-najjar-seine-neun-geschwister-sind-tot-er-wird-nun-in-italien-behandelt](https://www.spiegel.de/ausland/israel-gaza-krieg-adam-al-najjar-seine-neun-geschwister-sind-tot-er-wird-nun-in-italien-behandelt-a-bc0a0484-2036-4193-b988-1c4d5ee93d98#ref=rss)
+### geschwister
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-adam-al-najjar-seine-neun-geschwister-sind-tot-er-wird-nun-in-italien-behandelt](https://www.spiegel.de/ausland/israel-gaza-krieg-adam-al-najjar-seine-neun-geschwister-sind-tot-er-wird-nun-in-italien-behandelt-a-bc0a0484-2036-4193-b988-1c4d5ee93d98#ref=rss)
+### tot
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-adam-al-najjar-seine-neun-geschwister-sind-tot-er-wird-nun-in-italien-behandelt](https://www.spiegel.de/ausland/israel-gaza-krieg-adam-al-najjar-seine-neun-geschwister-sind-tot-er-wird-nun-in-italien-behandelt-a-bc0a0484-2036-4193-b988-1c4d5ee93d98#ref=rss)
+* [https://www.spiegel.de/ausland/indien-ahmedabad-die-welt-kondoliert-nach-dem-unglueck-von-flug-ai171](https://www.spiegel.de/ausland/indien-ahmedabad-die-welt-kondoliert-nach-dem-unglueck-von-flug-ai171-a-62e21b42-1331-4ea5-88c0-c5bd071bd26e#ref=rss)
+### italien
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-adam-al-najjar-seine-neun-geschwister-sind-tot-er-wird-nun-in-italien-behandelt](https://www.spiegel.de/ausland/israel-gaza-krieg-adam-al-najjar-seine-neun-geschwister-sind-tot-er-wird-nun-in-italien-behandelt-a-bc0a0484-2036-4193-b988-1c4d5ee93d98#ref=rss)
+* [https://www.spiegel.de/sport/fussball/von-manchester-city-zu-ssc-neapel-kevin-de-bruyne-kann-seine-hellblaue-trikotfarbe-behalten](https://www.spiegel.de/sport/fussball/von-manchester-city-zu-ssc-neapel-kevin-de-bruyne-kann-seine-hellblaue-trikotfarbe-behalten-a-6d205624-1e85-4adc-87e7-e6152d1a831b#ref=rss)
+### vater
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-adam-al-najjar-seine-neun-geschwister-sind-tot-er-wird-nun-in-italien-behandelt](https://www.spiegel.de/ausland/israel-gaza-krieg-adam-al-najjar-seine-neun-geschwister-sind-tot-er-wird-nun-in-italien-behandelt-a-bc0a0484-2036-4193-b988-1c4d5ee93d98#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/germering-bei-muenchen-kind-soll-betruegern-werte-in-sechsstelliger-hoehe-uebergeben-haben](https://www.spiegel.de/panorama/justiz/germering-bei-muenchen-kind-soll-betruegern-werte-in-sechsstelliger-hoehe-uebergeben-haben-a-4ebd3b14-77b5-466b-b118-87d7b9b9a5bf#ref=rss)
+### pedro
+
+* [https://www.spiegel.de/ausland/spanien-premier-pedro-sanchez-weist-forderung-nach-vorgezogenen-wahlen-zurueck](https://www.spiegel.de/ausland/spanien-premier-pedro-sanchez-weist-forderung-nach-vorgezogenen-wahlen-zurueck-a-4d0f026e-996c-413b-ae42-033ffec32b66#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/ausland/spanien-premier-pedro-sanchez-weist-forderung-nach-vorgezogenen-wahlen-zurueck](https://www.spiegel.de/ausland/spanien-premier-pedro-sanchez-weist-forderung-nach-vorgezogenen-wahlen-zurueck-a-4d0f026e-996c-413b-ae42-033ffec32b66#ref=rss)
+* [https://www.spiegel.de/wissenschaft/protest-gegen-regierung-von-donald-trump-vorstand-des-fulbright-stipendienprogramms-tritt-zurueck](https://www.spiegel.de/wissenschaft/protest-gegen-regierung-von-donald-trump-vorstand-des-fulbright-stipendienprogramms-tritt-zurueck-a-0298d83f-eda3-4620-9bd1-cb6d9df22de3#ref=rss)
+### johann
+
+* [https://www.spiegel.de/politik/deutschland/johann-wadephul-bundesaussenminister-warnt-iran-im-konflikt-mit-israel](https://www.spiegel.de/politik/deutschland/johann-wadephul-bundesaussenminister-warnt-iran-im-konflikt-mit-israel-a-3bfa1291-5dc9-4977-a316-ca01462e7eb7#ref=rss)
+### wadephul
+
+* [https://www.spiegel.de/politik/deutschland/johann-wadephul-bundesaussenminister-warnt-iran-im-konflikt-mit-israel](https://www.spiegel.de/politik/deutschland/johann-wadephul-bundesaussenminister-warnt-iran-im-konflikt-mit-israel-a-3bfa1291-5dc9-4977-a316-ca01462e7eb7#ref=rss)
+### israel
+
+* [https://www.spiegel.de/politik/deutschland/johann-wadephul-bundesaussenminister-warnt-iran-im-konflikt-mit-israel](https://www.spiegel.de/politik/deutschland/johann-wadephul-bundesaussenminister-warnt-iran-im-konflikt-mit-israel-a-3bfa1291-5dc9-4977-a316-ca01462e7eb7#ref=rss)
+### land
+
+* [https://www.spiegel.de/politik/deutschland/johann-wadephul-bundesaussenminister-warnt-iran-im-konflikt-mit-israel](https://www.spiegel.de/politik/deutschland/johann-wadephul-bundesaussenminister-warnt-iran-im-konflikt-mit-israel-a-3bfa1291-5dc9-4977-a316-ca01462e7eb7#ref=rss)
+* [https://www.spiegel.de/sport/olympia/judo-wm-ukraine-boykottiert-wegen-belarus-die-weltmeisterschaft-in-budapest](https://www.spiegel.de/sport/olympia/judo-wm-ukraine-boykottiert-wegen-belarus-die-weltmeisterschaft-in-budapest-a-d842899d-dc32-4d06-9258-7b2c6675ccd0#ref=rss)
+### spdpolitiker
+
+* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast-a-553efef5-315d-4d4f-a0db-0f7017e23ab5#ref=rss)
+* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-a-840f34ac-6269-4d0c-8d8a-6d444cffc429#ref=rss)
+### eskaliert
+
+* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast-a-553efef5-315d-4d4f-a0db-0f7017e23ab5#ref=rss)
+* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-a-840f34ac-6269-4d0c-8d8a-6d444cffc429#ref=rss)
+### spdurgesteine
+
+* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast-a-553efef5-315d-4d4f-a0db-0f7017e23ab5#ref=rss)
+* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-a-840f34ac-6269-4d0c-8d8a-6d444cffc429#ref=rss)
+### stellen
+
+* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast-a-553efef5-315d-4d4f-a0db-0f7017e23ab5#ref=rss)
+* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-a-840f34ac-6269-4d0c-8d8a-6d444cffc429#ref=rss)
+### russlandpolitik
+
+* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast-a-553efef5-315d-4d4f-a0db-0f7017e23ab5#ref=rss)
+* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-a-840f34ac-6269-4d0c-8d8a-6d444cffc429#ref=rss)
+### gekränkte
+
+* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast-a-553efef5-315d-4d4f-a0db-0f7017e23ab5#ref=rss)
+* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-a-840f34ac-6269-4d0c-8d8a-6d444cffc429#ref=rss)
+### egos
+
+* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast-a-553efef5-315d-4d4f-a0db-0f7017e23ab5#ref=rss)
+* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-a-840f34ac-6269-4d0c-8d8a-6d444cffc429#ref=rss)
+### analysiert
+
+* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast-a-553efef5-315d-4d4f-a0db-0f7017e23ab5#ref=rss)
+* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-a-840f34ac-6269-4d0c-8d8a-6d444cffc429#ref=rss)
+### spiegelredakteur
+
+* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast-a-553efef5-315d-4d4f-a0db-0f7017e23ab5#ref=rss)
+* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-a-840f34ac-6269-4d0c-8d8a-6d444cffc429#ref=rss)
+### christian
+
+* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast-a-553efef5-315d-4d4f-a0db-0f7017e23ab5#ref=rss)
+* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-a-840f34ac-6269-4d0c-8d8a-6d444cffc429#ref=rss)
+### teevs
+
+* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast-a-553efef5-315d-4d4f-a0db-0f7017e23ab5#ref=rss)
+* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-a-840f34ac-6269-4d0c-8d8a-6d444cffc429#ref=rss)
+### unter
+
+* [https://www.spiegel.de/wissenschaft/mensch/studie-ueber-das-atmen-menschen-haben-offenbar-nasenluftstrom-fingerabdruecke](https://www.spiegel.de/wissenschaft/mensch/studie-ueber-das-atmen-menschen-haben-offenbar-nasenluftstrom-fingerabdruecke-a-dddea7f1-d9bb-44b7-8e58-b3c6e3509c42#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/germering-bei-muenchen-kind-soll-betruegern-werte-in-sechsstelliger-hoehe-uebergeben-haben](https://www.spiegel.de/panorama/justiz/germering-bei-muenchen-kind-soll-betruegern-werte-in-sechsstelliger-hoehe-uebergeben-haben-a-4ebd3b14-77b5-466b-b118-87d7b9b9a5bf#ref=rss)
+### lithium
+
+* [https://www.spiegel.de/auto/lithium-fuer-e-autos-koennte-laut-neuer-studie-knapp-werden](https://www.spiegel.de/auto/lithium-fuer-e-autos-koennte-laut-neuer-studie-knapp-werden-a-012ff29e-cc7f-47fd-bc36-5ea5ff243d29#ref=rss)
+### eautos
+
+* [https://www.spiegel.de/auto/lithium-fuer-e-autos-koennte-laut-neuer-studie-knapp-werden](https://www.spiegel.de/auto/lithium-fuer-e-autos-koennte-laut-neuer-studie-knapp-werden-a-012ff29e-cc7f-47fd-bc36-5ea5ff243d29#ref=rss)
+### wächst
+
+* [https://www.spiegel.de/auto/lithium-fuer-e-autos-koennte-laut-neuer-studie-knapp-werden](https://www.spiegel.de/auto/lithium-fuer-e-autos-koennte-laut-neuer-studie-knapp-werden-a-012ff29e-cc7f-47fd-bc36-5ea5ff243d29#ref=rss)
+* [https://www.spiegel.de/ausland/atomprogramm-wie-sich-iran-gegen-einen-moeglichen-angriff-wappnen-will](https://www.spiegel.de/ausland/atomprogramm-wie-sich-iran-gegen-einen-moeglichen-angriff-wappnen-will-a-4663bc3b-c93d-4507-8264-f11bab3538f6#ref=rss)
+### donald
+
+* [https://www.spiegel.de/wissenschaft/protest-gegen-regierung-von-donald-trump-vorstand-des-fulbright-stipendienprogramms-tritt-zurueck](https://www.spiegel.de/wissenschaft/protest-gegen-regierung-von-donald-trump-vorstand-des-fulbright-stipendienprogramms-tritt-zurueck-a-0298d83f-eda3-4620-9bd1-cb6d9df22de3#ref=rss)
+### trump
+
+* [https://www.spiegel.de/wissenschaft/protest-gegen-regierung-von-donald-trump-vorstand-des-fulbright-stipendienprogramms-tritt-zurueck](https://www.spiegel.de/wissenschaft/protest-gegen-regierung-von-donald-trump-vorstand-des-fulbright-stipendienprogramms-tritt-zurueck-a-0298d83f-eda3-4620-9bd1-cb6d9df22de3#ref=rss)
+### reagiert
+
+* [https://www.spiegel.de/wissenschaft/protest-gegen-regierung-von-donald-trump-vorstand-des-fulbright-stipendienprogramms-tritt-zurueck](https://www.spiegel.de/wissenschaft/protest-gegen-regierung-von-donald-trump-vorstand-des-fulbright-stipendienprogramms-tritt-zurueck-a-0298d83f-eda3-4620-9bd1-cb6d9df22de3#ref=rss)
+* [https://www.spiegel.de/kultur/musik/abor-deutschlands-esc-hoffnung-entschuldigt-sich-fuer-homophobe-posts](https://www.spiegel.de/kultur/musik/abor-deutschlands-esc-hoffnung-entschuldigt-sich-fuer-homophobe-posts-a-0f150b12-57e4-4c9d-a4dd-a61f42de27c7#ref=rss)
+### münchen
+
+* [https://www.spiegel.de/panorama/justiz/germering-bei-muenchen-kind-soll-betruegern-werte-in-sechsstelliger-hoehe-uebergeben-haben](https://www.spiegel.de/panorama/justiz/germering-bei-muenchen-kind-soll-betruegern-werte-in-sechsstelliger-hoehe-uebergeben-haben-a-4ebd3b14-77b5-466b-b118-87d7b9b9a5bf#ref=rss)
+* [https://www.spiegel.de/auto/deutsche-bahn-ice-beendet-fahrt-vorzeitig-weil-er-den-zugbegleitern-zu-dreckig-war](https://www.spiegel.de/auto/deutsche-bahn-ice-beendet-fahrt-vorzeitig-weil-er-den-zugbegleitern-zu-dreckig-war-a-145f6ff3-abee-4d80-bb5f-9affc5bbbdc5#ref=rss)
+### kind
+
+* [https://www.spiegel.de/panorama/justiz/germering-bei-muenchen-kind-soll-betruegern-werte-in-sechsstelliger-hoehe-uebergeben-haben](https://www.spiegel.de/panorama/justiz/germering-bei-muenchen-kind-soll-betruegern-werte-in-sechsstelliger-hoehe-uebergeben-haben-a-4ebd3b14-77b5-466b-b118-87d7b9b9a5bf#ref=rss)
+### werte
+
+* [https://www.spiegel.de/panorama/justiz/germering-bei-muenchen-kind-soll-betruegern-werte-in-sechsstelliger-hoehe-uebergeben-haben](https://www.spiegel.de/panorama/justiz/germering-bei-muenchen-kind-soll-betruegern-werte-in-sechsstelliger-hoehe-uebergeben-haben-a-4ebd3b14-77b5-466b-b118-87d7b9b9a5bf#ref=rss)
+### setzen
+
+* [https://www.spiegel.de/panorama/justiz/germering-bei-muenchen-kind-soll-betruegern-werte-in-sechsstelliger-hoehe-uebergeben-haben](https://www.spiegel.de/panorama/justiz/germering-bei-muenchen-kind-soll-betruegern-werte-in-sechsstelliger-hoehe-uebergeben-haben-a-4ebd3b14-77b5-466b-b118-87d7b9b9a5bf#ref=rss)
+* [https://www.spiegel.de/auto/deutsche-bahn-ice-beendet-fahrt-vorzeitig-weil-er-den-zugbegleitern-zu-dreckig-war](https://www.spiegel.de/auto/deutsche-bahn-ice-beendet-fahrt-vorzeitig-weil-er-den-zugbegleitern-zu-dreckig-war-a-145f6ff3-abee-4d80-bb5f-9affc5bbbdc5#ref=rss)
+### harvey
+
+* [https://www.spiegel.de/panorama/justiz/harvey-weinstein-was-sie-nach-dem-neuen-urteil-wissen-muessen](https://www.spiegel.de/panorama/justiz/harvey-weinstein-was-sie-nach-dem-neuen-urteil-wissen-muessen-a-8cec1139-6084-4135-a109-649f3f5c1fe0#ref=rss)
 ### jens
 
-* [https://www.spiegel.de/panorama/spahns-maskendeals-mit-den-firmen-fiege-und-emix-ich-will-das-zeug](https://www.spiegel.de/panorama/spahns-maskendeals-mit-den-firmen-fiege-und-emix-ich-will-das-zeug-a-7001e3dd-7fec-4b71-9e15-30d8bfaac071#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-jens-spahn-flugzeugabsturz-in-indien-fussball-em-2025](https://www.spiegel.de/politik/deutschland/news-jens-spahn-flugzeugabsturz-in-indien-fussball-em-2025-a-ee5af788-1bb5-4125-b141-8433815881c1#ref=rss)
 ### spahn
 
-* [https://www.spiegel.de/panorama/spahns-maskendeals-mit-den-firmen-fiege-und-emix-ich-will-das-zeug](https://www.spiegel.de/panorama/spahns-maskendeals-mit-den-firmen-fiege-und-emix-ich-will-das-zeug-a-7001e3dd-7fec-4b71-9e15-30d8bfaac071#ref=rss)
-### los
+* [https://www.spiegel.de/politik/deutschland/news-jens-spahn-flugzeugabsturz-in-indien-fussball-em-2025](https://www.spiegel.de/politik/deutschland/news-jens-spahn-flugzeugabsturz-in-indien-fussball-em-2025-a-ee5af788-1bb5-4125-b141-8433815881c1#ref=rss)
+### flugzeugabsturz
 
-* [https://www.spiegel.de/ausland/los-angeles-proteste-halten-an-soldaten-werden-noch-fuer-einsatz-trainiert](https://www.spiegel.de/ausland/los-angeles-proteste-halten-an-soldaten-werden-noch-fuer-einsatz-trainiert-a-574b9824-3562-4e76-af9c-96510219663f#ref=rss)
-### angeles
+* [https://www.spiegel.de/politik/deutschland/news-jens-spahn-flugzeugabsturz-in-indien-fussball-em-2025](https://www.spiegel.de/politik/deutschland/news-jens-spahn-flugzeugabsturz-in-indien-fussball-em-2025-a-ee5af788-1bb5-4125-b141-8433815881c1#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/ausland/los-angeles-proteste-halten-an-soldaten-werden-noch-fuer-einsatz-trainiert](https://www.spiegel.de/ausland/los-angeles-proteste-halten-an-soldaten-werden-noch-fuer-einsatz-trainiert-a-574b9824-3562-4e76-af9c-96510219663f#ref=rss)
-### bennedict
+* [https://www.spiegel.de/politik/deutschland/news-jens-spahn-flugzeugabsturz-in-indien-fussball-em-2025](https://www.spiegel.de/politik/deutschland/news-jens-spahn-flugzeugabsturz-in-indien-fussball-em-2025-a-ee5af788-1bb5-4125-b141-8433815881c1#ref=rss)
+* [https://www.spiegel.de/kultur/musik/abor-deutschlands-esc-hoffnung-entschuldigt-sich-fuer-homophobe-posts](https://www.spiegel.de/kultur/musik/abor-deutschlands-esc-hoffnung-entschuldigt-sich-fuer-homophobe-posts-a-0f150b12-57e4-4c9d-a4dd-a61f42de27c7#ref=rss)
+### bastian
 
-* [https://www.spiegel.de/sport/basketball/nba-finals-bennedict-mathurin-glaenzt-mit-perfekter-trefferquote-fuer-die-pacers](https://www.spiegel.de/sport/basketball/nba-finals-bennedict-mathurin-glaenzt-mit-perfekter-trefferquote-fuer-die-pacers-a-97aad5ef-75fd-4b4e-b101-f6ccee65045a#ref=rss)
-### mathurin
+* [https://www.spiegel.de/wirtschaft/unternehmen/bastian-schweinsteiger-und-ana-ivanovic-brax-beendet-zusammenarbeit](https://www.spiegel.de/wirtschaft/unternehmen/bastian-schweinsteiger-und-ana-ivanovic-brax-beendet-zusammenarbeit-a-dfae3b7f-ac45-4314-b6d4-0922bcd892b4#ref=rss)
+### schweinsteiger
 
-* [https://www.spiegel.de/sport/basketball/nba-finals-bennedict-mathurin-glaenzt-mit-perfekter-trefferquote-fuer-die-pacers](https://www.spiegel.de/sport/basketball/nba-finals-bennedict-mathurin-glaenzt-mit-perfekter-trefferquote-fuer-die-pacers-a-97aad5ef-75fd-4b4e-b101-f6ccee65045a#ref=rss)
-### pacers
+* [https://www.spiegel.de/wirtschaft/unternehmen/bastian-schweinsteiger-und-ana-ivanovic-brax-beendet-zusammenarbeit](https://www.spiegel.de/wirtschaft/unternehmen/bastian-schweinsteiger-und-ana-ivanovic-brax-beendet-zusammenarbeit-a-dfae3b7f-ac45-4314-b6d4-0922bcd892b4#ref=rss)
+### ana
 
-* [https://www.spiegel.de/sport/basketball/nba-finals-bennedict-mathurin-glaenzt-mit-perfekter-trefferquote-fuer-die-pacers](https://www.spiegel.de/sport/basketball/nba-finals-bennedict-mathurin-glaenzt-mit-perfekter-trefferquote-fuer-die-pacers-a-97aad5ef-75fd-4b4e-b101-f6ccee65045a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/bastian-schweinsteiger-und-ana-ivanovic-brax-beendet-zusammenarbeit](https://www.spiegel.de/wirtschaft/unternehmen/bastian-schweinsteiger-und-ana-ivanovic-brax-beendet-zusammenarbeit-a-dfae3b7f-ac45-4314-b6d4-0922bcd892b4#ref=rss)
+### ivanović
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bastian-schweinsteiger-und-ana-ivanovic-brax-beendet-zusammenarbeit](https://www.spiegel.de/wirtschaft/unternehmen/bastian-schweinsteiger-und-ana-ivanovic-brax-beendet-zusammenarbeit-a-dfae3b7f-ac45-4314-b6d4-0922bcd892b4#ref=rss)
+### brax
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bastian-schweinsteiger-und-ana-ivanovic-brax-beendet-zusammenarbeit](https://www.spiegel.de/wirtschaft/unternehmen/bastian-schweinsteiger-und-ana-ivanovic-brax-beendet-zusammenarbeit-a-dfae3b7f-ac45-4314-b6d4-0922bcd892b4#ref=rss)
+### beendet
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bastian-schweinsteiger-und-ana-ivanovic-brax-beendet-zusammenarbeit](https://www.spiegel.de/wirtschaft/unternehmen/bastian-schweinsteiger-und-ana-ivanovic-brax-beendet-zusammenarbeit-a-dfae3b7f-ac45-4314-b6d4-0922bcd892b4#ref=rss)
+* [https://www.spiegel.de/auto/deutsche-bahn-ice-beendet-fahrt-vorzeitig-weil-er-den-zugbegleitern-zu-dreckig-war](https://www.spiegel.de/auto/deutsche-bahn-ice-beendet-fahrt-vorzeitig-weil-er-den-zugbegleitern-zu-dreckig-war-a-145f6ff3-abee-4d80-bb5f-9affc5bbbdc5#ref=rss)
+### zusammenarbeit
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bastian-schweinsteiger-und-ana-ivanovic-brax-beendet-zusammenarbeit](https://www.spiegel.de/wirtschaft/unternehmen/bastian-schweinsteiger-und-ana-ivanovic-brax-beendet-zusammenarbeit-a-dfae3b7f-ac45-4314-b6d4-0922bcd892b4#ref=rss)
+### paar
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bastian-schweinsteiger-und-ana-ivanovic-brax-beendet-zusammenarbeit](https://www.spiegel.de/wirtschaft/unternehmen/bastian-schweinsteiger-und-ana-ivanovic-brax-beendet-zusammenarbeit-a-dfae3b7f-ac45-4314-b6d4-0922bcd892b4#ref=rss)
+### wohl
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bastian-schweinsteiger-und-ana-ivanovic-brax-beendet-zusammenarbeit](https://www.spiegel.de/wirtschaft/unternehmen/bastian-schweinsteiger-und-ana-ivanovic-brax-beendet-zusammenarbeit-a-dfae3b7f-ac45-4314-b6d4-0922bcd892b4#ref=rss)
+* [https://www.spiegel.de/netzwelt/games/schach-chatgpt-verliert-gegen-atari-2600](https://www.spiegel.de/netzwelt/games/schach-chatgpt-verliert-gegen-atari-2600-a-294337cd-e34b-417b-8227-f9492166f45e#ref=rss)
+### atomprogramm
+
+* [https://www.spiegel.de/ausland/atomprogramm-wie-sich-iran-gegen-einen-moeglichen-angriff-wappnen-will](https://www.spiegel.de/ausland/atomprogramm-wie-sich-iran-gegen-einen-moeglichen-angriff-wappnen-will-a-4663bc3b-c93d-4507-8264-f11bab3538f6#ref=rss)
+### chatgpt
+
+* [https://www.spiegel.de/netzwelt/games/schach-chatgpt-verliert-gegen-atari-2600](https://www.spiegel.de/netzwelt/games/schach-chatgpt-verliert-gegen-atari-2600-a-294337cd-e34b-417b-8227-f9492166f45e#ref=rss)
+### atari
+
+* [https://www.spiegel.de/netzwelt/games/schach-chatgpt-verliert-gegen-atari-2600](https://www.spiegel.de/netzwelt/games/schach-chatgpt-verliert-gegen-atari-2600-a-294337cd-e34b-417b-8227-f9492166f45e#ref=rss)
+### alte
+
+* [https://www.spiegel.de/netzwelt/games/schach-chatgpt-verliert-gegen-atari-2600](https://www.spiegel.de/netzwelt/games/schach-chatgpt-verliert-gegen-atari-2600-a-294337cd-e34b-417b-8227-f9492166f45e#ref=rss)
+### manchester
+
+* [https://www.spiegel.de/sport/fussball/von-manchester-city-zu-ssc-neapel-kevin-de-bruyne-kann-seine-hellblaue-trikotfarbe-behalten](https://www.spiegel.de/sport/fussball/von-manchester-city-zu-ssc-neapel-kevin-de-bruyne-kann-seine-hellblaue-trikotfarbe-behalten-a-6d205624-1e85-4adc-87e7-e6152d1a831b#ref=rss)
+### city
+
+* [https://www.spiegel.de/sport/fussball/von-manchester-city-zu-ssc-neapel-kevin-de-bruyne-kann-seine-hellblaue-trikotfarbe-behalten](https://www.spiegel.de/sport/fussball/von-manchester-city-zu-ssc-neapel-kevin-de-bruyne-kann-seine-hellblaue-trikotfarbe-behalten-a-6d205624-1e85-4adc-87e7-e6152d1a831b#ref=rss)
+### kevin
+
+* [https://www.spiegel.de/sport/fussball/von-manchester-city-zu-ssc-neapel-kevin-de-bruyne-kann-seine-hellblaue-trikotfarbe-behalten](https://www.spiegel.de/sport/fussball/von-manchester-city-zu-ssc-neapel-kevin-de-bruyne-kann-seine-hellblaue-trikotfarbe-behalten-a-6d205624-1e85-4adc-87e7-e6152d1a831b#ref=rss)
+### de
+
+* [https://www.spiegel.de/sport/fussball/von-manchester-city-zu-ssc-neapel-kevin-de-bruyne-kann-seine-hellblaue-trikotfarbe-behalten](https://www.spiegel.de/sport/fussball/von-manchester-city-zu-ssc-neapel-kevin-de-bruyne-kann-seine-hellblaue-trikotfarbe-behalten-a-6d205624-1e85-4adc-87e7-e6152d1a831b#ref=rss)
+### bruyne
+
+* [https://www.spiegel.de/sport/fussball/von-manchester-city-zu-ssc-neapel-kevin-de-bruyne-kann-seine-hellblaue-trikotfarbe-behalten](https://www.spiegel.de/sport/fussball/von-manchester-city-zu-ssc-neapel-kevin-de-bruyne-kann-seine-hellblaue-trikotfarbe-behalten-a-6d205624-1e85-4adc-87e7-e6152d1a831b#ref=rss)
+### vollgetankter
+
+* [https://www.spiegel.de/ausland/indien-vollgetankter-dreamliner-stuerzt-in-gebaeude-zahl-der-toten-koennte-steigen](https://www.spiegel.de/ausland/indien-vollgetankter-dreamliner-stuerzt-in-gebaeude-zahl-der-toten-koennte-steigen-a-5d8fd014-56fe-4709-9236-ca39262b47fb#ref=rss)
+### dreamliner
+
+* [https://www.spiegel.de/ausland/indien-vollgetankter-dreamliner-stuerzt-in-gebaeude-zahl-der-toten-koennte-steigen](https://www.spiegel.de/ausland/indien-vollgetankter-dreamliner-stuerzt-in-gebaeude-zahl-der-toten-koennte-steigen-a-5d8fd014-56fe-4709-9236-ca39262b47fb#ref=rss)
+### stürzt
+
+* [https://www.spiegel.de/ausland/indien-vollgetankter-dreamliner-stuerzt-in-gebaeude-zahl-der-toten-koennte-steigen](https://www.spiegel.de/ausland/indien-vollgetankter-dreamliner-stuerzt-in-gebaeude-zahl-der-toten-koennte-steigen-a-5d8fd014-56fe-4709-9236-ca39262b47fb#ref=rss)
+### gebäude
+
+* [https://www.spiegel.de/ausland/indien-vollgetankter-dreamliner-stuerzt-in-gebaeude-zahl-der-toten-koennte-steigen](https://www.spiegel.de/ausland/indien-vollgetankter-dreamliner-stuerzt-in-gebaeude-zahl-der-toten-koennte-steigen-a-5d8fd014-56fe-4709-9236-ca39262b47fb#ref=rss)
+### zahl
+
+* [https://www.spiegel.de/ausland/indien-vollgetankter-dreamliner-stuerzt-in-gebaeude-zahl-der-toten-koennte-steigen](https://www.spiegel.de/ausland/indien-vollgetankter-dreamliner-stuerzt-in-gebaeude-zahl-der-toten-koennte-steigen-a-5d8fd014-56fe-4709-9236-ca39262b47fb#ref=rss)
+### belarus
+
+* [https://www.spiegel.de/sport/olympia/judo-wm-ukraine-boykottiert-wegen-belarus-die-weltmeisterschaft-in-budapest](https://www.spiegel.de/sport/olympia/judo-wm-ukraine-boykottiert-wegen-belarus-die-weltmeisterschaft-in-budapest-a-d842899d-dc32-4d06-9258-7b2c6675ccd0#ref=rss)
+### budapest
+
+* [https://www.spiegel.de/sport/olympia/judo-wm-ukraine-boykottiert-wegen-belarus-die-weltmeisterschaft-in-budapest](https://www.spiegel.de/sport/olympia/judo-wm-ukraine-boykottiert-wegen-belarus-die-weltmeisterschaft-in-budapest-a-d842899d-dc32-4d06-9258-7b2c6675ccd0#ref=rss)
+### gehen
+
+* [https://www.spiegel.de/sport/olympia/judo-wm-ukraine-boykottiert-wegen-belarus-die-weltmeisterschaft-in-budapest](https://www.spiegel.de/sport/olympia/judo-wm-ukraine-boykottiert-wegen-belarus-die-weltmeisterschaft-in-budapest-a-d842899d-dc32-4d06-9258-7b2c6675ccd0#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/ki-bildgenerator-midjourney-soll-keine-minions-mehr-erzeugen](https://www.spiegel.de/netzwelt/apps/ki-bildgenerator-midjourney-soll-keine-minions-mehr-erzeugen-a-f5226943-8e35-4753-ad88-23b07e72c633#ref=rss)
+### boris
+
+* [https://www.spiegel.de/politik/deutschland/boris-pistorius-stellt-weitere-milliarden-militaerhilfe-fuer-die-ukraine-in-aussicht](https://www.spiegel.de/politik/deutschland/boris-pistorius-stellt-weitere-milliarden-militaerhilfe-fuer-die-ukraine-in-aussicht-a-8fe62398-210f-4de2-95c2-d93863024769#ref=rss)
+### pistorius
+
+* [https://www.spiegel.de/politik/deutschland/boris-pistorius-stellt-weitere-milliarden-militaerhilfe-fuer-die-ukraine-in-aussicht](https://www.spiegel.de/politik/deutschland/boris-pistorius-stellt-weitere-milliarden-militaerhilfe-fuer-die-ukraine-in-aussicht-a-8fe62398-210f-4de2-95c2-d93863024769#ref=rss)
+### militärhilfe
+
+* [https://www.spiegel.de/politik/deutschland/boris-pistorius-stellt-weitere-milliarden-militaerhilfe-fuer-die-ukraine-in-aussicht](https://www.spiegel.de/politik/deutschland/boris-pistorius-stellt-weitere-milliarden-militaerhilfe-fuer-die-ukraine-in-aussicht-a-8fe62398-210f-4de2-95c2-d93863024769#ref=rss)
+### abor
+
+* [https://www.spiegel.de/kultur/musik/abor-deutschlands-esc-hoffnung-entschuldigt-sich-fuer-homophobe-posts](https://www.spiegel.de/kultur/musik/abor-deutschlands-esc-hoffnung-entschuldigt-sich-fuer-homophobe-posts-a-0f150b12-57e4-4c9d-a4dd-a61f42de27c7#ref=rss)
+### posts
+
+* [https://www.spiegel.de/kultur/musik/abor-deutschlands-esc-hoffnung-entschuldigt-sich-fuer-homophobe-posts](https://www.spiegel.de/kultur/musik/abor-deutschlands-esc-hoffnung-entschuldigt-sich-fuer-homophobe-posts-a-0f150b12-57e4-4c9d-a4dd-a61f42de27c7#ref=rss)
+### saison
+
+* [https://www.spiegel.de/sport/handball/2-handball-bundesliga-sportgericht-ordnet-spielwiederholung-an-obwohln-saison-vorbei-ist](https://www.spiegel.de/sport/handball/2-handball-bundesliga-sportgericht-ordnet-spielwiederholung-an-obwohln-saison-vorbei-ist-a-0d7002b2-4664-4825-8384-c12d3bb96576#ref=rss)
+### ice
+
+* [https://www.spiegel.de/auto/deutsche-bahn-ice-beendet-fahrt-vorzeitig-weil-er-den-zugbegleitern-zu-dreckig-war](https://www.spiegel.de/auto/deutsche-bahn-ice-beendet-fahrt-vorzeitig-weil-er-den-zugbegleitern-zu-dreckig-war-a-145f6ff3-abee-4d80-bb5f-9affc5bbbdc5#ref=rss)
+### fahrt
+
+* [https://www.spiegel.de/auto/deutsche-bahn-ice-beendet-fahrt-vorzeitig-weil-er-den-zugbegleitern-zu-dreckig-war](https://www.spiegel.de/auto/deutsche-bahn-ice-beendet-fahrt-vorzeitig-weil-er-den-zugbegleitern-zu-dreckig-war-a-145f6ff3-abee-4d80-bb5f-9affc5bbbdc5#ref=rss)
+### dreckig
+
+* [https://www.spiegel.de/auto/deutsche-bahn-ice-beendet-fahrt-vorzeitig-weil-er-den-zugbegleitern-zu-dreckig-war](https://www.spiegel.de/auto/deutsche-bahn-ice-beendet-fahrt-vorzeitig-weil-er-den-zugbegleitern-zu-dreckig-war-a-145f6ff3-abee-4d80-bb5f-9affc5bbbdc5#ref=rss)
+### alzheimer
+
+* [https://www.spiegel.de/wissenschaft/medizin/alzheimer-vorbeugen-wie-bewegung-das-erkrankungsrisiko-deutlich-senken-kann](https://www.spiegel.de/wissenschaft/medizin/alzheimer-vorbeugen-wie-bewegung-das-erkrankungsrisiko-deutlich-senken-kann-a-c00a6da4-e978-4e2b-8022-cbb954f0589d#ref=rss)
+### bewegung
+
+* [https://www.spiegel.de/wissenschaft/medizin/alzheimer-vorbeugen-wie-bewegung-das-erkrankungsrisiko-deutlich-senken-kann](https://www.spiegel.de/wissenschaft/medizin/alzheimer-vorbeugen-wie-bewegung-das-erkrankungsrisiko-deutlich-senken-kann-a-c00a6da4-e978-4e2b-8022-cbb954f0589d#ref=rss)
+### erkrankungsrisiko
+
+* [https://www.spiegel.de/wissenschaft/medizin/alzheimer-vorbeugen-wie-bewegung-das-erkrankungsrisiko-deutlich-senken-kann](https://www.spiegel.de/wissenschaft/medizin/alzheimer-vorbeugen-wie-bewegung-das-erkrankungsrisiko-deutlich-senken-kann-a-c00a6da4-e978-4e2b-8022-cbb954f0589d#ref=rss)
+### senken
+
+* [https://www.spiegel.de/wissenschaft/medizin/alzheimer-vorbeugen-wie-bewegung-das-erkrankungsrisiko-deutlich-senken-kann](https://www.spiegel.de/wissenschaft/medizin/alzheimer-vorbeugen-wie-bewegung-das-erkrankungsrisiko-deutlich-senken-kann-a-c00a6da4-e978-4e2b-8022-cbb954f0589d#ref=rss)
 
