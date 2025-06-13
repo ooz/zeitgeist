@@ -4,402 +4,373 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### indien
-
-* [https://www.spiegel.de/ausland/indien-ahmedabad-die-welt-kondoliert-nach-dem-unglueck-von-flug-ai171](https://www.spiegel.de/ausland/indien-ahmedabad-die-welt-kondoliert-nach-dem-unglueck-von-flug-ai171-a-62e21b42-1331-4ea5-88c0-c5bd071bd26e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-jens-spahn-flugzeugabsturz-in-indien-fussball-em-2025](https://www.spiegel.de/politik/deutschland/news-jens-spahn-flugzeugabsturz-in-indien-fussball-em-2025-a-ee5af788-1bb5-4125-b141-8433815881c1#ref=rss)
-* [https://www.spiegel.de/ausland/indien-vollgetankter-dreamliner-stuerzt-in-gebaeude-zahl-der-toten-koennte-steigen](https://www.spiegel.de/ausland/indien-vollgetankter-dreamliner-stuerzt-in-gebaeude-zahl-der-toten-koennte-steigen-a-5d8fd014-56fe-4709-9236-ca39262b47fb#ref=rss)
-### klingbeil
-
-* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast-a-553efef5-315d-4d4f-a0db-0f7017e23ab5#ref=rss)
-* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-a-840f34ac-6269-4d0c-8d8a-6d444cffc429#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-spd-chef-fuehlt-sich-durch-manifest-zur-aussenpolitik-nicht-persoenlich-angegriffen](https://www.spiegel.de/politik/deutschland/lars-klingbeil-spd-chef-fuehlt-sich-durch-manifest-zur-aussenpolitik-nicht-persoenlich-angegriffen-a-4a6b9ba3-e4de-4e23-ac9a-5d1842c2cf4f#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/ausland/indien-ahmedabad-die-welt-kondoliert-nach-dem-unglueck-von-flug-ai171](https://www.spiegel.de/ausland/indien-ahmedabad-die-welt-kondoliert-nach-dem-unglueck-von-flug-ai171-a-62e21b42-1331-4ea5-88c0-c5bd071bd26e#ref=rss)
-* [https://www.spiegel.de/auto/lithium-fuer-e-autos-koennte-laut-neuer-studie-knapp-werden](https://www.spiegel.de/auto/lithium-fuer-e-autos-koennte-laut-neuer-studie-knapp-werden-a-012ff29e-cc7f-47fd-bc36-5ea5ff243d29#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/germering-bei-muenchen-kind-soll-betruegern-werte-in-sechsstelliger-hoehe-uebergeben-haben](https://www.spiegel.de/panorama/justiz/germering-bei-muenchen-kind-soll-betruegern-werte-in-sechsstelliger-hoehe-uebergeben-haben-a-4ebd3b14-77b5-466b-b118-87d7b9b9a5bf#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/bastian-schweinsteiger-und-ana-ivanovic-brax-beendet-zusammenarbeit](https://www.spiegel.de/wirtschaft/unternehmen/bastian-schweinsteiger-und-ana-ivanovic-brax-beendet-zusammenarbeit-a-dfae3b7f-ac45-4314-b6d4-0922bcd892b4#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/ki-bildgenerator-midjourney-soll-keine-minions-mehr-erzeugen](https://www.spiegel.de/netzwelt/apps/ki-bildgenerator-midjourney-soll-keine-minions-mehr-erzeugen-a-f5226943-8e35-4753-ad88-23b07e72c633#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/indien-ahmedabad-die-welt-kondoliert-nach-dem-unglueck-von-flug-ai171](https://www.spiegel.de/ausland/indien-ahmedabad-die-welt-kondoliert-nach-dem-unglueck-von-flug-ai171-a-62e21b42-1331-4ea5-88c0-c5bd071bd26e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/studie-ueber-das-atmen-menschen-haben-offenbar-nasenluftstrom-fingerabdruecke](https://www.spiegel.de/wissenschaft/mensch/studie-ueber-das-atmen-menschen-haben-offenbar-nasenluftstrom-fingerabdruecke-a-dddea7f1-d9bb-44b7-8e58-b3c6e3509c42#ref=rss)
-* [https://www.spiegel.de/ausland/indien-vollgetankter-dreamliner-stuerzt-in-gebaeude-zahl-der-toten-koennte-steigen](https://www.spiegel.de/ausland/indien-vollgetankter-dreamliner-stuerzt-in-gebaeude-zahl-der-toten-koennte-steigen-a-5d8fd014-56fe-4709-9236-ca39262b47fb#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/alzheimer-vorbeugen-wie-bewegung-das-erkrankungsrisiko-deutlich-senken-kann](https://www.spiegel.de/wissenschaft/medizin/alzheimer-vorbeugen-wie-bewegung-das-erkrankungsrisiko-deutlich-senken-kann-a-c00a6da4-e978-4e2b-8022-cbb954f0589d#ref=rss)
 ### iran
 
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-bundesaussenminister-warnt-iran-im-konflikt-mit-israel](https://www.spiegel.de/politik/deutschland/johann-wadephul-bundesaussenminister-warnt-iran-im-konflikt-mit-israel-a-3bfa1291-5dc9-4977-a316-ca01462e7eb7#ref=rss)
-* [https://www.spiegel.de/ausland/atomprogramm-wie-sich-iran-gegen-einen-moeglichen-angriff-wappnen-will](https://www.spiegel.de/ausland/atomprogramm-wie-sich-iran-gegen-einen-moeglichen-angriff-wappnen-will-a-4663bc3b-c93d-4507-8264-f11bab3538f6#ref=rss)
-### rolf
+* [https://www.spiegel.de/ausland/vor-angriff-israel-errichtete-offenbar-versteckte-drohnenbasis-in-iran](https://www.spiegel.de/ausland/vor-angriff-israel-errichtete-offenbar-versteckte-drohnenbasis-in-iran-a-fdd49d00-a3f2-4832-a405-73ff7009ae99#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-konflikt-iaea-chef-verurteilt-angriff-auf-iranische-nuklearanlagen](https://www.spiegel.de/ausland/israel-iran-konflikt-iaea-chef-verurteilt-angriff-auf-iranische-nuklearanlagen-a-d0c751ab-90ae-430b-98d1-ed372203faf5#ref=rss)
+* [https://www.spiegel.de/ausland/israel-greift-iran-an-warum-heisst-die-militaeroperation-rising-lion](https://www.spiegel.de/ausland/israel-greift-iran-an-warum-heisst-die-militaeroperation-rising-lion-a-e0bc2b49-fa06-4df7-bbe8-eb166c15e72a#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-konflikt-iran-wertet-israels-angriff-als-kriegserklaerung](https://www.spiegel.de/ausland/israel-iran-konflikt-iran-wertet-israels-angriff-als-kriegserklaerung-a-3bbf3e8c-2667-4e34-8f3c-ec4ae58510c2#ref=rss)
+* [https://www.spiegel.de/kultur/tv/boris-pistorius-bei-maybrit-illner-ausweitung-des-wehrgedankens](https://www.spiegel.de/kultur/tv/boris-pistorius-bei-maybrit-illner-ausweitung-des-wehrgedankens-a-be96a51c-e969-48f7-aeb7-b980da0b3fa4#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-konflikt-israel-greift-ziele-in-iran-an-teheran-droht-mit-vergeltung](https://www.spiegel.de/ausland/israel-iran-konflikt-israel-greift-ziele-in-iran-an-teheran-droht-mit-vergeltung-a-f997b77d-1409-4fd0-9f4a-c10d0c876eee#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/israels-angriffe-in-iran-luftraum-gesperrt-zahlreiche-verbindungen-umgeleitet-oder-storniert](https://www.spiegel.de/wirtschaft/unternehmen/israels-angriffe-in-iran-luftraum-gesperrt-zahlreiche-verbindungen-umgeleitet-oder-storniert-a-d1ed09de-3198-4666-b73b-b1b567e74939#ref=rss)
+### frau
 
-* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast-a-553efef5-315d-4d4f-a0db-0f7017e23ab5#ref=rss)
-* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-a-840f34ac-6269-4d0c-8d8a-6d444cffc429#ref=rss)
-### mützenich
-
-* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast-a-553efef5-315d-4d4f-a0db-0f7017e23ab5#ref=rss)
-* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-a-840f34ac-6269-4d0c-8d8a-6d444cffc429#ref=rss)
-### lars
-
-* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast-a-553efef5-315d-4d4f-a0db-0f7017e23ab5#ref=rss)
-* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-a-840f34ac-6269-4d0c-8d8a-6d444cffc429#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-spd-chef-fuehlt-sich-durch-manifest-zur-aussenpolitik-nicht-persoenlich-angegriffen](https://www.spiegel.de/politik/deutschland/lars-klingbeil-spd-chef-fuehlt-sich-durch-manifest-zur-aussenpolitik-nicht-persoenlich-angegriffen-a-4a6b9ba3-e4de-4e23-ac9a-5d1842c2cf4f#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/wissenschaft/mensch/studie-ueber-das-atmen-menschen-haben-offenbar-nasenluftstrom-fingerabdruecke](https://www.spiegel.de/wissenschaft/mensch/studie-ueber-das-atmen-menschen-haben-offenbar-nasenluftstrom-fingerabdruecke-a-dddea7f1-d9bb-44b7-8e58-b3c6e3509c42#ref=rss)
-* [https://www.spiegel.de/wissenschaft/protest-gegen-regierung-von-donald-trump-vorstand-des-fulbright-stipendienprogramms-tritt-zurueck](https://www.spiegel.de/wissenschaft/protest-gegen-regierung-von-donald-trump-vorstand-des-fulbright-stipendienprogramms-tritt-zurueck-a-0298d83f-eda3-4620-9bd1-cb6d9df22de3#ref=rss)
-* [https://www.spiegel.de/auto/deutsche-bahn-ice-beendet-fahrt-vorzeitig-weil-er-den-zugbegleitern-zu-dreckig-war](https://www.spiegel.de/auto/deutsche-bahn-ice-beendet-fahrt-vorzeitig-weil-er-den-zugbegleitern-zu-dreckig-war-a-145f6ff3-abee-4d80-bb5f-9affc5bbbdc5#ref=rss)
-### neue
-
-* [https://www.spiegel.de/wissenschaft/mensch/studie-ueber-das-atmen-menschen-haben-offenbar-nasenluftstrom-fingerabdruecke](https://www.spiegel.de/wissenschaft/mensch/studie-ueber-das-atmen-menschen-haben-offenbar-nasenluftstrom-fingerabdruecke-a-dddea7f1-d9bb-44b7-8e58-b3c6e3509c42#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/netzwerk-berlin-pragmatische-spd-stroemung-hat-neue-spitze](https://www.spiegel.de/politik/deutschland/netzwerk-berlin-pragmatische-spd-stroemung-hat-neue-spitze-a-a7320e8a-7478-4ac4-b501-896cfd121871#ref=rss)
-* [https://www.spiegel.de/netzwelt/games/schach-chatgpt-verliert-gegen-atari-2600](https://www.spiegel.de/netzwelt/games/schach-chatgpt-verliert-gegen-atari-2600-a-294337cd-e34b-417b-8227-f9492166f45e#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/sport/olympia/judo-wm-ukraine-boykottiert-wegen-belarus-die-weltmeisterschaft-in-budapest](https://www.spiegel.de/sport/olympia/judo-wm-ukraine-boykottiert-wegen-belarus-die-weltmeisterschaft-in-budapest-a-d842899d-dc32-4d06-9258-7b2c6675ccd0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/boris-pistorius-stellt-weitere-milliarden-militaerhilfe-fuer-die-ukraine-in-aussicht](https://www.spiegel.de/politik/deutschland/boris-pistorius-stellt-weitere-milliarden-militaerhilfe-fuer-die-ukraine-in-aussicht-a-8fe62398-210f-4de2-95c2-d93863024769#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/politik/deutschland/eu-parlament-fdp-abgeordneter-fuehlt-sich-von-polnischem-pis-kollegen-bedraengt](https://www.spiegel.de/politik/deutschland/eu-parlament-fdp-abgeordneter-fuehlt-sich-von-polnischem-pis-kollegen-bedraengt-a-fc4211e1-3ec8-4fff-a70e-8e0e381e6f94#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-bundesaussenminister-warnt-iran-im-konflikt-mit-israel](https://www.spiegel.de/politik/deutschland/johann-wadephul-bundesaussenminister-warnt-iran-im-konflikt-mit-israel-a-3bfa1291-5dc9-4977-a316-ca01462e7eb7#ref=rss)
-* [https://www.spiegel.de/auto/deutsche-bahn-ice-beendet-fahrt-vorzeitig-weil-er-den-zugbegleitern-zu-dreckig-war](https://www.spiegel.de/auto/deutsche-bahn-ice-beendet-fahrt-vorzeitig-weil-er-den-zugbegleitern-zu-dreckig-war-a-145f6ff3-abee-4d80-bb5f-9affc5bbbdc5#ref=rss)
-### angriff
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-adam-al-najjar-seine-neun-geschwister-sind-tot-er-wird-nun-in-italien-behandelt](https://www.spiegel.de/ausland/israel-gaza-krieg-adam-al-najjar-seine-neun-geschwister-sind-tot-er-wird-nun-in-italien-behandelt-a-bc0a0484-2036-4193-b988-1c4d5ee93d98#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-spd-chef-fuehlt-sich-durch-manifest-zur-aussenpolitik-nicht-persoenlich-angegriffen](https://www.spiegel.de/politik/deutschland/lars-klingbeil-spd-chef-fuehlt-sich-durch-manifest-zur-aussenpolitik-nicht-persoenlich-angegriffen-a-4a6b9ba3-e4de-4e23-ac9a-5d1842c2cf4f#ref=rss)
-* [https://www.spiegel.de/ausland/atomprogramm-wie-sich-iran-gegen-einen-moeglichen-angriff-wappnen-will](https://www.spiegel.de/ausland/atomprogramm-wie-sich-iran-gegen-einen-moeglichen-angriff-wappnen-will-a-4663bc3b-c93d-4507-8264-f11bab3538f6#ref=rss)
-### deutlich
-
-* [https://www.spiegel.de/ausland/indien-ahmedabad-die-welt-kondoliert-nach-dem-unglueck-von-flug-ai171](https://www.spiegel.de/ausland/indien-ahmedabad-die-welt-kondoliert-nach-dem-unglueck-von-flug-ai171-a-62e21b42-1331-4ea5-88c0-c5bd071bd26e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/alzheimer-vorbeugen-wie-bewegung-das-erkrankungsrisiko-deutlich-senken-kann](https://www.spiegel.de/wissenschaft/medizin/alzheimer-vorbeugen-wie-bewegung-das-erkrankungsrisiko-deutlich-senken-kann-a-c00a6da4-e978-4e2b-8022-cbb954f0589d#ref=rss)
-### opfer
-
-* [https://www.spiegel.de/ausland/indien-ahmedabad-die-welt-kondoliert-nach-dem-unglueck-von-flug-ai171](https://www.spiegel.de/ausland/indien-ahmedabad-die-welt-kondoliert-nach-dem-unglueck-von-flug-ai171-a-62e21b42-1331-4ea5-88c0-c5bd071bd26e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/germering-bei-muenchen-kind-soll-betruegern-werte-in-sechsstelliger-hoehe-uebergeben-haben](https://www.spiegel.de/panorama/justiz/germering-bei-muenchen-kind-soll-betruegern-werte-in-sechsstelliger-hoehe-uebergeben-haben-a-4ebd3b14-77b5-466b-b118-87d7b9b9a5bf#ref=rss)
-* [https://www.spiegel.de/ausland/indien-vollgetankter-dreamliner-stuerzt-in-gebaeude-zahl-der-toten-koennte-steigen](https://www.spiegel.de/ausland/indien-vollgetankter-dreamliner-stuerzt-in-gebaeude-zahl-der-toten-koennte-steigen-a-5d8fd014-56fe-4709-9236-ca39262b47fb#ref=rss)
-### streit
-
-* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast-a-553efef5-315d-4d4f-a0db-0f7017e23ab5#ref=rss)
-* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-a-840f34ac-6269-4d0c-8d8a-6d444cffc429#ref=rss)
-* [https://www.spiegel.de/sport/olympia/judo-wm-ukraine-boykottiert-wegen-belarus-die-weltmeisterschaft-in-budapest](https://www.spiegel.de/sport/olympia/judo-wm-ukraine-boykottiert-wegen-belarus-die-weltmeisterschaft-in-budapest-a-d842899d-dc32-4d06-9258-7b2c6675ccd0#ref=rss)
-### parteichef
-
-* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast-a-553efef5-315d-4d4f-a0db-0f7017e23ab5#ref=rss)
-* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-a-840f34ac-6269-4d0c-8d8a-6d444cffc429#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-spd-chef-fuehlt-sich-durch-manifest-zur-aussenpolitik-nicht-persoenlich-angegriffen](https://www.spiegel.de/politik/deutschland/lars-klingbeil-spd-chef-fuehlt-sich-durch-manifest-zur-aussenpolitik-nicht-persoenlich-angegriffen-a-4a6b9ba3-e4de-4e23-ac9a-5d1842c2cf4f#ref=rss)
-### studie
-
-* [https://www.spiegel.de/wissenschaft/mensch/studie-ueber-das-atmen-menschen-haben-offenbar-nasenluftstrom-fingerabdruecke](https://www.spiegel.de/wissenschaft/mensch/studie-ueber-das-atmen-menschen-haben-offenbar-nasenluftstrom-fingerabdruecke-a-dddea7f1-d9bb-44b7-8e58-b3c6e3509c42#ref=rss)
-* [https://www.spiegel.de/auto/lithium-fuer-e-autos-koennte-laut-neuer-studie-knapp-werden](https://www.spiegel.de/auto/lithium-fuer-e-autos-koennte-laut-neuer-studie-knapp-werden-a-012ff29e-cc7f-47fd-bc36-5ea5ff243d29#ref=rss)
-### weinstein
-
-* [https://www.spiegel.de/panorama/justiz/harvey-weinstein-was-sie-nach-dem-neuen-urteil-wissen-muessen](https://www.spiegel.de/panorama/justiz/harvey-weinstein-was-sie-nach-dem-neuen-urteil-wissen-muessen-a-8cec1139-6084-4135-a109-649f3f5c1fe0#ref=rss)
-### unruhen
-
-* [https://www.spiegel.de/ausland/unruhen-in-ballymena-nordirland-und-wieder-greift-die-angst-um-sich](https://www.spiegel.de/ausland/unruhen-in-ballymena-nordirland-und-wieder-greift-die-angst-um-sich-a-f3e24814-26a8-4ffd-8696-8a06d1cdfaee#ref=rss)
-### nordirland
-
-* [https://www.spiegel.de/ausland/unruhen-in-ballymena-nordirland-und-wieder-greift-die-angst-um-sich](https://www.spiegel.de/ausland/unruhen-in-ballymena-nordirland-und-wieder-greift-die-angst-um-sich-a-f3e24814-26a8-4ffd-8696-8a06d1cdfaee#ref=rss)
-### angst
-
-* [https://www.spiegel.de/ausland/unruhen-in-ballymena-nordirland-und-wieder-greift-die-angst-um-sich](https://www.spiegel.de/ausland/unruhen-in-ballymena-nordirland-und-wieder-greift-die-angst-um-sich-a-f3e24814-26a8-4ffd-8696-8a06d1cdfaee#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/germering-bei-muenchen-kind-soll-betruegern-werte-in-sechsstelliger-hoehe-uebergeben-haben](https://www.spiegel.de/panorama/justiz/germering-bei-muenchen-kind-soll-betruegern-werte-in-sechsstelliger-hoehe-uebergeben-haben-a-4ebd3b14-77b5-466b-b118-87d7b9b9a5bf#ref=rss)
-### mali
-
-* [https://www.spiegel.de/ausland/mali-soeldnergruppe-wagner-zieht-ab-russland-bleibt](https://www.spiegel.de/ausland/mali-soeldnergruppe-wagner-zieht-ab-russland-bleibt-a-d71948a3-c559-464f-a271-b2bfa6d5ecd0#ref=rss)
-### söldnergruppe
-
-* [https://www.spiegel.de/ausland/mali-soeldnergruppe-wagner-zieht-ab-russland-bleibt](https://www.spiegel.de/ausland/mali-soeldnergruppe-wagner-zieht-ab-russland-bleibt-a-d71948a3-c559-464f-a271-b2bfa6d5ecd0#ref=rss)
-### wagner
-
-* [https://www.spiegel.de/ausland/mali-soeldnergruppe-wagner-zieht-ab-russland-bleibt](https://www.spiegel.de/ausland/mali-soeldnergruppe-wagner-zieht-ab-russland-bleibt-a-d71948a3-c559-464f-a271-b2bfa6d5ecd0#ref=rss)
-### bleibt
-
-* [https://www.spiegel.de/ausland/mali-soeldnergruppe-wagner-zieht-ab-russland-bleibt](https://www.spiegel.de/ausland/mali-soeldnergruppe-wagner-zieht-ab-russland-bleibt-a-d71948a3-c559-464f-a271-b2bfa6d5ecd0#ref=rss)
-* [https://www.spiegel.de/ausland/spanien-premier-pedro-sanchez-weist-forderung-nach-vorgezogenen-wahlen-zurueck](https://www.spiegel.de/ausland/spanien-premier-pedro-sanchez-weist-forderung-nach-vorgezogenen-wahlen-zurueck-a-4d0f026e-996c-413b-ae42-033ffec32b66#ref=rss)
-### obwohl
-
-* [https://www.spiegel.de/ausland/mali-soeldnergruppe-wagner-zieht-ab-russland-bleibt](https://www.spiegel.de/ausland/mali-soeldnergruppe-wagner-zieht-ab-russland-bleibt-a-d71948a3-c559-464f-a271-b2bfa6d5ecd0#ref=rss)
-* [https://www.spiegel.de/sport/handball/2-handball-bundesliga-sportgericht-ordnet-spielwiederholung-an-obwohln-saison-vorbei-ist](https://www.spiegel.de/sport/handball/2-handball-bundesliga-sportgericht-ordnet-spielwiederholung-an-obwohln-saison-vorbei-ist-a-0d7002b2-4664-4825-8384-c12d3bb96576#ref=rss)
-### fühlt
-
-* [https://www.spiegel.de/politik/deutschland/eu-parlament-fdp-abgeordneter-fuehlt-sich-von-polnischem-pis-kollegen-bedraengt](https://www.spiegel.de/politik/deutschland/eu-parlament-fdp-abgeordneter-fuehlt-sich-von-polnischem-pis-kollegen-bedraengt-a-fc4211e1-3ec8-4fff-a70e-8e0e381e6f94#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-spd-chef-fuehlt-sich-durch-manifest-zur-aussenpolitik-nicht-persoenlich-angegriffen](https://www.spiegel.de/politik/deutschland/lars-klingbeil-spd-chef-fuehlt-sich-durch-manifest-zur-aussenpolitik-nicht-persoenlich-angegriffen-a-4a6b9ba3-e4de-4e23-ac9a-5d1842c2cf4f#ref=rss)
-### fordert
-
-* [https://www.spiegel.de/politik/deutschland/eu-parlament-fdp-abgeordneter-fuehlt-sich-von-polnischem-pis-kollegen-bedraengt](https://www.spiegel.de/politik/deutschland/eu-parlament-fdp-abgeordneter-fuehlt-sich-von-polnischem-pis-kollegen-bedraengt-a-fc4211e1-3ec8-4fff-a70e-8e0e381e6f94#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/netzwerk-berlin-pragmatische-spd-stroemung-hat-neue-spitze](https://www.spiegel.de/politik/deutschland/netzwerk-berlin-pragmatische-spd-stroemung-hat-neue-spitze-a-a7320e8a-7478-4ac4-b501-896cfd121871#ref=rss)
-### fall
-
-* [https://www.spiegel.de/politik/deutschland/kommissionsbericht-zu-metoo-vorwuerfen-gruene-scheitern-am-fall-gelbhaar](https://www.spiegel.de/politik/deutschland/kommissionsbericht-zu-metoo-vorwuerfen-gruene-scheitern-am-fall-gelbhaar-a-8f62103c-7355-45e6-aa8d-ae6bf1cbf589#ref=rss)
-### gelbhaar
-
-* [https://www.spiegel.de/politik/deutschland/kommissionsbericht-zu-metoo-vorwuerfen-gruene-scheitern-am-fall-gelbhaar](https://www.spiegel.de/politik/deutschland/kommissionsbericht-zu-metoo-vorwuerfen-gruene-scheitern-am-fall-gelbhaar-a-8f62103c-7355-45e6-aa8d-ae6bf1cbf589#ref=rss)
-### kritik
-
-* [https://www.spiegel.de/politik/deutschland/kommissionsbericht-zu-metoo-vorwuerfen-gruene-scheitern-am-fall-gelbhaar](https://www.spiegel.de/politik/deutschland/kommissionsbericht-zu-metoo-vorwuerfen-gruene-scheitern-am-fall-gelbhaar-a-8f62103c-7355-45e6-aa8d-ae6bf1cbf589#ref=rss)
-* [https://www.spiegel.de/kultur/musik/abor-deutschlands-esc-hoffnung-entschuldigt-sich-fuer-homophobe-posts](https://www.spiegel.de/kultur/musik/abor-deutschlands-esc-hoffnung-entschuldigt-sich-fuer-homophobe-posts-a-0f150b12-57e4-4c9d-a4dd-a61f42de27c7#ref=rss)
-### partei
-
-* [https://www.spiegel.de/politik/deutschland/kommissionsbericht-zu-metoo-vorwuerfen-gruene-scheitern-am-fall-gelbhaar](https://www.spiegel.de/politik/deutschland/kommissionsbericht-zu-metoo-vorwuerfen-gruene-scheitern-am-fall-gelbhaar-a-8f62103c-7355-45e6-aa8d-ae6bf1cbf589#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/netzwerk-berlin-pragmatische-spd-stroemung-hat-neue-spitze](https://www.spiegel.de/politik/deutschland/netzwerk-berlin-pragmatische-spd-stroemung-hat-neue-spitze-a-a7320e8a-7478-4ac4-b501-896cfd121871#ref=rss)
-### adam
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-adam-al-najjar-seine-neun-geschwister-sind-tot-er-wird-nun-in-italien-behandelt](https://www.spiegel.de/ausland/israel-gaza-krieg-adam-al-najjar-seine-neun-geschwister-sind-tot-er-wird-nun-in-italien-behandelt-a-bc0a0484-2036-4193-b988-1c4d5ee93d98#ref=rss)
-### alnajjar
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-adam-al-najjar-seine-neun-geschwister-sind-tot-er-wird-nun-in-italien-behandelt](https://www.spiegel.de/ausland/israel-gaza-krieg-adam-al-najjar-seine-neun-geschwister-sind-tot-er-wird-nun-in-italien-behandelt-a-bc0a0484-2036-4193-b988-1c4d5ee93d98#ref=rss)
-### geschwister
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-adam-al-najjar-seine-neun-geschwister-sind-tot-er-wird-nun-in-italien-behandelt](https://www.spiegel.de/ausland/israel-gaza-krieg-adam-al-najjar-seine-neun-geschwister-sind-tot-er-wird-nun-in-italien-behandelt-a-bc0a0484-2036-4193-b988-1c4d5ee93d98#ref=rss)
-### tot
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-adam-al-najjar-seine-neun-geschwister-sind-tot-er-wird-nun-in-italien-behandelt](https://www.spiegel.de/ausland/israel-gaza-krieg-adam-al-najjar-seine-neun-geschwister-sind-tot-er-wird-nun-in-italien-behandelt-a-bc0a0484-2036-4193-b988-1c4d5ee93d98#ref=rss)
-* [https://www.spiegel.de/ausland/indien-ahmedabad-die-welt-kondoliert-nach-dem-unglueck-von-flug-ai171](https://www.spiegel.de/ausland/indien-ahmedabad-die-welt-kondoliert-nach-dem-unglueck-von-flug-ai171-a-62e21b42-1331-4ea5-88c0-c5bd071bd26e#ref=rss)
-### italien
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-adam-al-najjar-seine-neun-geschwister-sind-tot-er-wird-nun-in-italien-behandelt](https://www.spiegel.de/ausland/israel-gaza-krieg-adam-al-najjar-seine-neun-geschwister-sind-tot-er-wird-nun-in-italien-behandelt-a-bc0a0484-2036-4193-b988-1c4d5ee93d98#ref=rss)
-* [https://www.spiegel.de/sport/fussball/von-manchester-city-zu-ssc-neapel-kevin-de-bruyne-kann-seine-hellblaue-trikotfarbe-behalten](https://www.spiegel.de/sport/fussball/von-manchester-city-zu-ssc-neapel-kevin-de-bruyne-kann-seine-hellblaue-trikotfarbe-behalten-a-6d205624-1e85-4adc-87e7-e6152d1a831b#ref=rss)
-### vater
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-adam-al-najjar-seine-neun-geschwister-sind-tot-er-wird-nun-in-italien-behandelt](https://www.spiegel.de/ausland/israel-gaza-krieg-adam-al-najjar-seine-neun-geschwister-sind-tot-er-wird-nun-in-italien-behandelt-a-bc0a0484-2036-4193-b988-1c4d5ee93d98#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/germering-bei-muenchen-kind-soll-betruegern-werte-in-sechsstelliger-hoehe-uebergeben-haben](https://www.spiegel.de/panorama/justiz/germering-bei-muenchen-kind-soll-betruegern-werte-in-sechsstelliger-hoehe-uebergeben-haben-a-4ebd3b14-77b5-466b-b118-87d7b9b9a5bf#ref=rss)
-### pedro
-
-* [https://www.spiegel.de/ausland/spanien-premier-pedro-sanchez-weist-forderung-nach-vorgezogenen-wahlen-zurueck](https://www.spiegel.de/ausland/spanien-premier-pedro-sanchez-weist-forderung-nach-vorgezogenen-wahlen-zurueck-a-4d0f026e-996c-413b-ae42-033ffec32b66#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/ausland/spanien-premier-pedro-sanchez-weist-forderung-nach-vorgezogenen-wahlen-zurueck](https://www.spiegel.de/ausland/spanien-premier-pedro-sanchez-weist-forderung-nach-vorgezogenen-wahlen-zurueck-a-4d0f026e-996c-413b-ae42-033ffec32b66#ref=rss)
-* [https://www.spiegel.de/wissenschaft/protest-gegen-regierung-von-donald-trump-vorstand-des-fulbright-stipendienprogramms-tritt-zurueck](https://www.spiegel.de/wissenschaft/protest-gegen-regierung-von-donald-trump-vorstand-des-fulbright-stipendienprogramms-tritt-zurueck-a-0298d83f-eda3-4620-9bd1-cb6d9df22de3#ref=rss)
-### johann
-
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-bundesaussenminister-warnt-iran-im-konflikt-mit-israel](https://www.spiegel.de/politik/deutschland/johann-wadephul-bundesaussenminister-warnt-iran-im-konflikt-mit-israel-a-3bfa1291-5dc9-4977-a316-ca01462e7eb7#ref=rss)
-### wadephul
-
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-bundesaussenminister-warnt-iran-im-konflikt-mit-israel](https://www.spiegel.de/politik/deutschland/johann-wadephul-bundesaussenminister-warnt-iran-im-konflikt-mit-israel-a-3bfa1291-5dc9-4977-a316-ca01462e7eb7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gruene-wer-fuer-was-zustaendig-ist-weiss-in-der-partei-keiner-kolumne](https://www.spiegel.de/politik/deutschland/gruene-wer-fuer-was-zustaendig-ist-weiss-in-der-partei-keiner-kolumne-a-d79d03f6-ecd2-4679-a27d-214b3d22b45f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-frau-soll-maedchen-rassistisch-beleidigt-und-verletzt-haben](https://www.spiegel.de/panorama/justiz/berlin-frau-soll-maedchen-rassistisch-beleidigt-und-verletzt-haben-a-ede39964-6164-40db-bbbf-e30cc0131842#ref=rss)
+* [https://www.spiegel.de/karriere/bundeswehr-darf-hauptfeldwebel-die-bezuege-kuerzen-weil-er-sex-mit-der-frau-eines-kameraden-hatte](https://www.spiegel.de/karriere/bundeswehr-darf-hauptfeldwebel-die-bezuege-kuerzen-weil-er-sex-mit-der-frau-eines-kameraden-hatte-a-ed2cc366-d563-49b9-805f-b292469b3ee9#ref=rss)
+* [https://www.spiegel.de/panorama/griechenland-wanderin-aus-deutschland-am-olymp-toedlich-verunglueckt](https://www.spiegel.de/panorama/griechenland-wanderin-aus-deutschland-am-olymp-toedlich-verunglueckt-a-4e846b82-e82f-454b-9ae0-c85b3b029d7c#ref=rss)
+* [https://www.spiegel.de/panorama/muenchen-20-jaehrige-klettert-nachts-auf-kran-und-stuerzt-15-meter-tief](https://www.spiegel.de/panorama/muenchen-20-jaehrige-klettert-nachts-auf-kran-und-stuerzt-15-meter-tief-a-c800a778-d87d-4637-8600-5f095c964e97#ref=rss)
 ### israel
 
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-bundesaussenminister-warnt-iran-im-konflikt-mit-israel](https://www.spiegel.de/politik/deutschland/johann-wadephul-bundesaussenminister-warnt-iran-im-konflikt-mit-israel-a-3bfa1291-5dc9-4977-a316-ca01462e7eb7#ref=rss)
-### land
+* [https://www.spiegel.de/ausland/vor-angriff-israel-errichtete-offenbar-versteckte-drohnenbasis-in-iran](https://www.spiegel.de/ausland/vor-angriff-israel-errichtete-offenbar-versteckte-drohnenbasis-in-iran-a-fdd49d00-a3f2-4832-a405-73ff7009ae99#ref=rss)
+* [https://www.spiegel.de/ausland/israel-greift-iran-an-warum-heisst-die-militaeroperation-rising-lion](https://www.spiegel.de/ausland/israel-greift-iran-an-warum-heisst-die-militaeroperation-rising-lion-a-e0bc2b49-fa06-4df7-bbe8-eb166c15e72a#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-konflikt-iran-wertet-israels-angriff-als-kriegserklaerung](https://www.spiegel.de/ausland/israel-iran-konflikt-iran-wertet-israels-angriff-als-kriegserklaerung-a-3bbf3e8c-2667-4e34-8f3c-ec4ae58510c2#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-konflikt-israel-greift-ziele-in-iran-an-teheran-droht-mit-vergeltung](https://www.spiegel.de/ausland/israel-iran-konflikt-israel-greift-ziele-in-iran-an-teheran-droht-mit-vergeltung-a-f997b77d-1409-4fd0-9f4a-c10d0c876eee#ref=rss)
+### angriff
 
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-bundesaussenminister-warnt-iran-im-konflikt-mit-israel](https://www.spiegel.de/politik/deutschland/johann-wadephul-bundesaussenminister-warnt-iran-im-konflikt-mit-israel-a-3bfa1291-5dc9-4977-a316-ca01462e7eb7#ref=rss)
-* [https://www.spiegel.de/sport/olympia/judo-wm-ukraine-boykottiert-wegen-belarus-die-weltmeisterschaft-in-budapest](https://www.spiegel.de/sport/olympia/judo-wm-ukraine-boykottiert-wegen-belarus-die-weltmeisterschaft-in-budapest-a-d842899d-dc32-4d06-9258-7b2c6675ccd0#ref=rss)
-### spdpolitiker
-
-* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast-a-553efef5-315d-4d4f-a0db-0f7017e23ab5#ref=rss)
-* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-a-840f34ac-6269-4d0c-8d8a-6d444cffc429#ref=rss)
-### eskaliert
-
-* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast-a-553efef5-315d-4d4f-a0db-0f7017e23ab5#ref=rss)
-* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-a-840f34ac-6269-4d0c-8d8a-6d444cffc429#ref=rss)
-### spdurgesteine
-
-* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast-a-553efef5-315d-4d4f-a0db-0f7017e23ab5#ref=rss)
-* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-a-840f34ac-6269-4d0c-8d8a-6d444cffc429#ref=rss)
-### stellen
-
-* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast-a-553efef5-315d-4d4f-a0db-0f7017e23ab5#ref=rss)
-* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-a-840f34ac-6269-4d0c-8d8a-6d444cffc429#ref=rss)
-### russlandpolitik
-
-* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast-a-553efef5-315d-4d4f-a0db-0f7017e23ab5#ref=rss)
-* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-a-840f34ac-6269-4d0c-8d8a-6d444cffc429#ref=rss)
-### gekränkte
-
-* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast-a-553efef5-315d-4d4f-a0db-0f7017e23ab5#ref=rss)
-* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-a-840f34ac-6269-4d0c-8d8a-6d444cffc429#ref=rss)
-### egos
-
-* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast-a-553efef5-315d-4d4f-a0db-0f7017e23ab5#ref=rss)
-* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-a-840f34ac-6269-4d0c-8d8a-6d444cffc429#ref=rss)
-### analysiert
-
-* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast-a-553efef5-315d-4d4f-a0db-0f7017e23ab5#ref=rss)
-* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-a-840f34ac-6269-4d0c-8d8a-6d444cffc429#ref=rss)
-### spiegelredakteur
-
-* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast-a-553efef5-315d-4d4f-a0db-0f7017e23ab5#ref=rss)
-* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-a-840f34ac-6269-4d0c-8d8a-6d444cffc429#ref=rss)
-### christian
-
-* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast-a-553efef5-315d-4d4f-a0db-0f7017e23ab5#ref=rss)
-* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-a-840f34ac-6269-4d0c-8d8a-6d444cffc429#ref=rss)
-### teevs
-
-* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-podcast-a-553efef5-315d-4d4f-a0db-0f7017e23ab5#ref=rss)
-* [https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil](https://www.spiegel.de/politik/spd-politiker-um-rolf-muetzenich-eskaliert-ein-streit-mit-lars-klingbeil-a-840f34ac-6269-4d0c-8d8a-6d444cffc429#ref=rss)
-### unter
-
-* [https://www.spiegel.de/wissenschaft/mensch/studie-ueber-das-atmen-menschen-haben-offenbar-nasenluftstrom-fingerabdruecke](https://www.spiegel.de/wissenschaft/mensch/studie-ueber-das-atmen-menschen-haben-offenbar-nasenluftstrom-fingerabdruecke-a-dddea7f1-d9bb-44b7-8e58-b3c6e3509c42#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/germering-bei-muenchen-kind-soll-betruegern-werte-in-sechsstelliger-hoehe-uebergeben-haben](https://www.spiegel.de/panorama/justiz/germering-bei-muenchen-kind-soll-betruegern-werte-in-sechsstelliger-hoehe-uebergeben-haben-a-4ebd3b14-77b5-466b-b118-87d7b9b9a5bf#ref=rss)
-### lithium
-
-* [https://www.spiegel.de/auto/lithium-fuer-e-autos-koennte-laut-neuer-studie-knapp-werden](https://www.spiegel.de/auto/lithium-fuer-e-autos-koennte-laut-neuer-studie-knapp-werden-a-012ff29e-cc7f-47fd-bc36-5ea5ff243d29#ref=rss)
-### eautos
-
-* [https://www.spiegel.de/auto/lithium-fuer-e-autos-koennte-laut-neuer-studie-knapp-werden](https://www.spiegel.de/auto/lithium-fuer-e-autos-koennte-laut-neuer-studie-knapp-werden-a-012ff29e-cc7f-47fd-bc36-5ea5ff243d29#ref=rss)
-### wächst
-
-* [https://www.spiegel.de/auto/lithium-fuer-e-autos-koennte-laut-neuer-studie-knapp-werden](https://www.spiegel.de/auto/lithium-fuer-e-autos-koennte-laut-neuer-studie-knapp-werden-a-012ff29e-cc7f-47fd-bc36-5ea5ff243d29#ref=rss)
-* [https://www.spiegel.de/ausland/atomprogramm-wie-sich-iran-gegen-einen-moeglichen-angriff-wappnen-will](https://www.spiegel.de/ausland/atomprogramm-wie-sich-iran-gegen-einen-moeglichen-angriff-wappnen-will-a-4663bc3b-c93d-4507-8264-f11bab3538f6#ref=rss)
-### donald
-
-* [https://www.spiegel.de/wissenschaft/protest-gegen-regierung-von-donald-trump-vorstand-des-fulbright-stipendienprogramms-tritt-zurueck](https://www.spiegel.de/wissenschaft/protest-gegen-regierung-von-donald-trump-vorstand-des-fulbright-stipendienprogramms-tritt-zurueck-a-0298d83f-eda3-4620-9bd1-cb6d9df22de3#ref=rss)
+* [https://www.spiegel.de/ausland/vor-angriff-israel-errichtete-offenbar-versteckte-drohnenbasis-in-iran](https://www.spiegel.de/ausland/vor-angriff-israel-errichtete-offenbar-versteckte-drohnenbasis-in-iran-a-fdd49d00-a3f2-4832-a405-73ff7009ae99#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-konflikt-iaea-chef-verurteilt-angriff-auf-iranische-nuklearanlagen](https://www.spiegel.de/ausland/israel-iran-konflikt-iaea-chef-verurteilt-angriff-auf-iranische-nuklearanlagen-a-d0c751ab-90ae-430b-98d1-ed372203faf5#ref=rss)
+* [https://www.spiegel.de/ausland/israel-greift-iran-an-warum-heisst-die-militaeroperation-rising-lion](https://www.spiegel.de/ausland/israel-greift-iran-an-warum-heisst-die-militaeroperation-rising-lion-a-e0bc2b49-fa06-4df7-bbe8-eb166c15e72a#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-konflikt-iran-wertet-israels-angriff-als-kriegserklaerung](https://www.spiegel.de/ausland/israel-iran-konflikt-iran-wertet-israels-angriff-als-kriegserklaerung-a-3bbf3e8c-2667-4e34-8f3c-ec4ae58510c2#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/wissenschaft/protest-gegen-regierung-von-donald-trump-vorstand-des-fulbright-stipendienprogramms-tritt-zurueck](https://www.spiegel.de/wissenschaft/protest-gegen-regierung-von-donald-trump-vorstand-des-fulbright-stipendienprogramms-tritt-zurueck-a-0298d83f-eda3-4620-9bd1-cb6d9df22de3#ref=rss)
-### reagiert
+* [https://www.spiegel.de/ausland/los-angeles-donald-trump-darf-vorerst-kontrolle-ueber-nationalgarde-behalten](https://www.spiegel.de/ausland/los-angeles-donald-trump-darf-vorerst-kontrolle-ueber-nationalgarde-behalten-a-17c265dc-aeaf-4dbd-9b6a-37ca29e4ec60#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/r-kelly-will-offenbar-us-praesident-trump-um-begnadigung-bitten](https://www.spiegel.de/panorama/justiz/r-kelly-will-offenbar-us-praesident-trump-um-begnadigung-bitten-a-8277716f-b9d5-4b3b-8ce0-bd1c5fafc7fa#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-konflikt-iran-wertet-israels-angriff-als-kriegserklaerung](https://www.spiegel.de/ausland/israel-iran-konflikt-iran-wertet-israels-angriff-als-kriegserklaerung-a-3bbf3e8c-2667-4e34-8f3c-ec4ae58510c2#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/wissenschaft/protest-gegen-regierung-von-donald-trump-vorstand-des-fulbright-stipendienprogramms-tritt-zurueck](https://www.spiegel.de/wissenschaft/protest-gegen-regierung-von-donald-trump-vorstand-des-fulbright-stipendienprogramms-tritt-zurueck-a-0298d83f-eda3-4620-9bd1-cb6d9df22de3#ref=rss)
-* [https://www.spiegel.de/kultur/musik/abor-deutschlands-esc-hoffnung-entschuldigt-sich-fuer-homophobe-posts](https://www.spiegel.de/kultur/musik/abor-deutschlands-esc-hoffnung-entschuldigt-sich-fuer-homophobe-posts-a-0f150b12-57e4-4c9d-a4dd-a61f42de27c7#ref=rss)
-### münchen
+* [https://www.spiegel.de/panorama/justiz/berlin-frau-soll-maedchen-rassistisch-beleidigt-und-verletzt-haben](https://www.spiegel.de/panorama/justiz/berlin-frau-soll-maedchen-rassistisch-beleidigt-und-verletzt-haben-a-ede39964-6164-40db-bbbf-e30cc0131842#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/r-kelly-will-offenbar-us-praesident-trump-um-begnadigung-bitten](https://www.spiegel.de/panorama/justiz/r-kelly-will-offenbar-us-praesident-trump-um-begnadigung-bitten-a-8277716f-b9d5-4b3b-8ce0-bd1c5fafc7fa#ref=rss)
+* [https://www.spiegel.de/ausland/vor-angriff-israel-errichtete-offenbar-versteckte-drohnenbasis-in-iran](https://www.spiegel.de/ausland/vor-angriff-israel-errichtete-offenbar-versteckte-drohnenbasis-in-iran-a-fdd49d00-a3f2-4832-a405-73ff7009ae99#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/schuppentier-als-nahrung-pangoline-werden-in-nigeria-offenbar-gar-nicht-wegen-ihrer-schuppen-gejagt](https://www.spiegel.de/wissenschaft/natur/schuppentier-als-nahrung-pangoline-werden-in-nigeria-offenbar-gar-nicht-wegen-ihrer-schuppen-gejagt-a-488788b1-d856-41f1-a656-7f9b4e45305a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/israels-angriffe-in-iran-luftraum-gesperrt-zahlreiche-verbindungen-umgeleitet-oder-storniert](https://www.spiegel.de/wirtschaft/unternehmen/israels-angriffe-in-iran-luftraum-gesperrt-zahlreiche-verbindungen-umgeleitet-oder-storniert-a-d1ed09de-3198-4666-b73b-b1b567e74939#ref=rss)
+### unter
 
-* [https://www.spiegel.de/panorama/justiz/germering-bei-muenchen-kind-soll-betruegern-werte-in-sechsstelliger-hoehe-uebergeben-haben](https://www.spiegel.de/panorama/justiz/germering-bei-muenchen-kind-soll-betruegern-werte-in-sechsstelliger-hoehe-uebergeben-haben-a-4ebd3b14-77b5-466b-b118-87d7b9b9a5bf#ref=rss)
-* [https://www.spiegel.de/auto/deutsche-bahn-ice-beendet-fahrt-vorzeitig-weil-er-den-zugbegleitern-zu-dreckig-war](https://www.spiegel.de/auto/deutsche-bahn-ice-beendet-fahrt-vorzeitig-weil-er-den-zugbegleitern-zu-dreckig-war-a-145f6ff3-abee-4d80-bb5f-9affc5bbbdc5#ref=rss)
-### kind
+* [https://www.spiegel.de/politik/deutschland/corona-maskenaffaere-und-jens-spahn-friends-of-jens-satire](https://www.spiegel.de/politik/deutschland/corona-maskenaffaere-und-jens-spahn-friends-of-jens-satire-a-36cf23a7-608d-48ac-bfa0-fc333a7d8931#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/r-kelly-will-offenbar-us-praesident-trump-um-begnadigung-bitten](https://www.spiegel.de/panorama/justiz/r-kelly-will-offenbar-us-praesident-trump-um-begnadigung-bitten-a-8277716f-b9d5-4b3b-8ce0-bd1c5fafc7fa#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-konflikt-iaea-chef-verurteilt-angriff-auf-iranische-nuklearanlagen](https://www.spiegel.de/ausland/israel-iran-konflikt-iaea-chef-verurteilt-angriff-auf-iranische-nuklearanlagen-a-d0c751ab-90ae-430b-98d1-ed372203faf5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-frauenquote-im-wehrressort-bleibt-hinter-vorgaben-zurueck](https://www.spiegel.de/politik/deutschland/bundeswehr-frauenquote-im-wehrressort-bleibt-hinter-vorgaben-zurueck-a-6a34d466-137b-49d1-92c3-52941fbf3ff8#ref=rss)
+### bundeswehr
 
-* [https://www.spiegel.de/panorama/justiz/germering-bei-muenchen-kind-soll-betruegern-werte-in-sechsstelliger-hoehe-uebergeben-haben](https://www.spiegel.de/panorama/justiz/germering-bei-muenchen-kind-soll-betruegern-werte-in-sechsstelliger-hoehe-uebergeben-haben-a-4ebd3b14-77b5-466b-b118-87d7b9b9a5bf#ref=rss)
-### werte
-
-* [https://www.spiegel.de/panorama/justiz/germering-bei-muenchen-kind-soll-betruegern-werte-in-sechsstelliger-hoehe-uebergeben-haben](https://www.spiegel.de/panorama/justiz/germering-bei-muenchen-kind-soll-betruegern-werte-in-sechsstelliger-hoehe-uebergeben-haben-a-4ebd3b14-77b5-466b-b118-87d7b9b9a5bf#ref=rss)
-### setzen
-
-* [https://www.spiegel.de/panorama/justiz/germering-bei-muenchen-kind-soll-betruegern-werte-in-sechsstelliger-hoehe-uebergeben-haben](https://www.spiegel.de/panorama/justiz/germering-bei-muenchen-kind-soll-betruegern-werte-in-sechsstelliger-hoehe-uebergeben-haben-a-4ebd3b14-77b5-466b-b118-87d7b9b9a5bf#ref=rss)
-* [https://www.spiegel.de/auto/deutsche-bahn-ice-beendet-fahrt-vorzeitig-weil-er-den-zugbegleitern-zu-dreckig-war](https://www.spiegel.de/auto/deutsche-bahn-ice-beendet-fahrt-vorzeitig-weil-er-den-zugbegleitern-zu-dreckig-war-a-145f6ff3-abee-4d80-bb5f-9affc5bbbdc5#ref=rss)
-### harvey
-
-* [https://www.spiegel.de/panorama/justiz/harvey-weinstein-was-sie-nach-dem-neuen-urteil-wissen-muessen](https://www.spiegel.de/panorama/justiz/harvey-weinstein-was-sie-nach-dem-neuen-urteil-wissen-muessen-a-8cec1139-6084-4135-a109-649f3f5c1fe0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-frauenquote-im-wehrressort-bleibt-hinter-vorgaben-zurueck](https://www.spiegel.de/politik/deutschland/bundeswehr-frauenquote-im-wehrressort-bleibt-hinter-vorgaben-zurueck-a-6a34d466-137b-49d1-92c3-52941fbf3ff8#ref=rss)
+* [https://www.spiegel.de/karriere/bundeswehr-darf-hauptfeldwebel-die-bezuege-kuerzen-weil-er-sex-mit-der-frau-eines-kameraden-hatte](https://www.spiegel.de/karriere/bundeswehr-darf-hauptfeldwebel-die-bezuege-kuerzen-weil-er-sex-mit-der-frau-eines-kameraden-hatte-a-ed2cc366-d563-49b9-805f-b292469b3ee9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/drohnen-attacken-in-deutschland-da-ist-was-im-anflug](https://www.spiegel.de/politik/deutschland/drohnen-attacken-in-deutschland-da-ist-was-im-anflug-a-cfc86f9f-1c9e-42d4-9a0a-f233c86a0773#ref=rss)
 ### jens
 
-* [https://www.spiegel.de/politik/deutschland/news-jens-spahn-flugzeugabsturz-in-indien-fussball-em-2025](https://www.spiegel.de/politik/deutschland/news-jens-spahn-flugzeugabsturz-in-indien-fussball-em-2025-a-ee5af788-1bb5-4125-b141-8433815881c1#ref=rss)
-### spahn
+* [https://www.spiegel.de/politik/deutschland/corona-maskenaffaere-und-jens-spahn-friends-of-jens-satire](https://www.spiegel.de/politik/deutschland/corona-maskenaffaere-und-jens-spahn-friends-of-jens-satire-a-36cf23a7-608d-48ac-bfa0-fc333a7d8931#ref=rss)
+### donald
 
-* [https://www.spiegel.de/politik/deutschland/news-jens-spahn-flugzeugabsturz-in-indien-fussball-em-2025](https://www.spiegel.de/politik/deutschland/news-jens-spahn-flugzeugabsturz-in-indien-fussball-em-2025-a-ee5af788-1bb5-4125-b141-8433815881c1#ref=rss)
-### flugzeugabsturz
+* [https://www.spiegel.de/ausland/los-angeles-donald-trump-darf-vorerst-kontrolle-ueber-nationalgarde-behalten](https://www.spiegel.de/ausland/los-angeles-donald-trump-darf-vorerst-kontrolle-ueber-nationalgarde-behalten-a-17c265dc-aeaf-4dbd-9b6a-37ca29e4ec60#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/r-kelly-will-offenbar-us-praesident-trump-um-begnadigung-bitten](https://www.spiegel.de/panorama/justiz/r-kelly-will-offenbar-us-praesident-trump-um-begnadigung-bitten-a-8277716f-b9d5-4b3b-8ce0-bd1c5fafc7fa#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-konflikt-iran-wertet-israels-angriff-als-kriegserklaerung](https://www.spiegel.de/ausland/israel-iran-konflikt-iran-wertet-israels-angriff-als-kriegserklaerung-a-3bbf3e8c-2667-4e34-8f3c-ec4ae58510c2#ref=rss)
+### medien
 
-* [https://www.spiegel.de/politik/deutschland/news-jens-spahn-flugzeugabsturz-in-indien-fussball-em-2025](https://www.spiegel.de/politik/deutschland/news-jens-spahn-flugzeugabsturz-in-indien-fussball-em-2025-a-ee5af788-1bb5-4125-b141-8433815881c1#ref=rss)
-### deutschland
+* [https://www.spiegel.de/panorama/flugzeug-absturz-in-indien-einziger-ueberlebender-des-air-india-flugs-vishwash-kumar-ramesh](https://www.spiegel.de/panorama/flugzeug-absturz-in-indien-einziger-ueberlebender-des-air-india-flugs-vishwash-kumar-ramesh-a-84356f67-942b-4800-a909-71bca8baa10d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/r-kelly-will-offenbar-us-praesident-trump-um-begnadigung-bitten](https://www.spiegel.de/panorama/justiz/r-kelly-will-offenbar-us-praesident-trump-um-begnadigung-bitten-a-8277716f-b9d5-4b3b-8ce0-bd1c5fafc7fa#ref=rss)
+* [https://www.spiegel.de/ausland/vor-angriff-israel-errichtete-offenbar-versteckte-drohnenbasis-in-iran](https://www.spiegel.de/ausland/vor-angriff-israel-errichtete-offenbar-versteckte-drohnenbasis-in-iran-a-fdd49d00-a3f2-4832-a405-73ff7009ae99#ref=rss)
+### greift
 
-* [https://www.spiegel.de/politik/deutschland/news-jens-spahn-flugzeugabsturz-in-indien-fussball-em-2025](https://www.spiegel.de/politik/deutschland/news-jens-spahn-flugzeugabsturz-in-indien-fussball-em-2025-a-ee5af788-1bb5-4125-b141-8433815881c1#ref=rss)
-* [https://www.spiegel.de/kultur/musik/abor-deutschlands-esc-hoffnung-entschuldigt-sich-fuer-homophobe-posts](https://www.spiegel.de/kultur/musik/abor-deutschlands-esc-hoffnung-entschuldigt-sich-fuer-homophobe-posts-a-0f150b12-57e4-4c9d-a4dd-a61f42de27c7#ref=rss)
-### bastian
+* [https://www.spiegel.de/netzwelt/f1-the-movie-iphone-nutzer-koennen-trailer-fuer-formel-1-film-fuehlen](https://www.spiegel.de/netzwelt/f1-the-movie-iphone-nutzer-koennen-trailer-fuer-formel-1-film-fuehlen-a-4ede57f2-744d-4d72-bd0b-3a6d40db7069#ref=rss)
+* [https://www.spiegel.de/ausland/israel-greift-iran-an-warum-heisst-die-militaeroperation-rising-lion](https://www.spiegel.de/ausland/israel-greift-iran-an-warum-heisst-die-militaeroperation-rising-lion-a-e0bc2b49-fa06-4df7-bbe8-eb166c15e72a#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-konflikt-israel-greift-ziele-in-iran-an-teheran-droht-mit-vergeltung](https://www.spiegel.de/ausland/israel-iran-konflikt-israel-greift-ziele-in-iran-an-teheran-droht-mit-vergeltung-a-f997b77d-1409-4fd0-9f4a-c10d0c876eee#ref=rss)
+### laut
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/bastian-schweinsteiger-und-ana-ivanovic-brax-beendet-zusammenarbeit](https://www.spiegel.de/wirtschaft/unternehmen/bastian-schweinsteiger-und-ana-ivanovic-brax-beendet-zusammenarbeit-a-dfae3b7f-ac45-4314-b6d4-0922bcd892b4#ref=rss)
-### schweinsteiger
+* [https://www.spiegel.de/panorama/justiz/r-kelly-will-offenbar-us-praesident-trump-um-begnadigung-bitten](https://www.spiegel.de/panorama/justiz/r-kelly-will-offenbar-us-praesident-trump-um-begnadigung-bitten-a-8277716f-b9d5-4b3b-8ce0-bd1c5fafc7fa#ref=rss)
+* [https://www.spiegel.de/ausland/vor-angriff-israel-errichtete-offenbar-versteckte-drohnenbasis-in-iran](https://www.spiegel.de/ausland/vor-angriff-israel-errichtete-offenbar-versteckte-drohnenbasis-in-iran-a-fdd49d00-a3f2-4832-a405-73ff7009ae99#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/schuppentier-als-nahrung-pangoline-werden-in-nigeria-offenbar-gar-nicht-wegen-ihrer-schuppen-gejagt](https://www.spiegel.de/wissenschaft/natur/schuppentier-als-nahrung-pangoline-werden-in-nigeria-offenbar-gar-nicht-wegen-ihrer-schuppen-gejagt-a-488788b1-d856-41f1-a656-7f9b4e45305a#ref=rss)
+### israels
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/bastian-schweinsteiger-und-ana-ivanovic-brax-beendet-zusammenarbeit](https://www.spiegel.de/wirtschaft/unternehmen/bastian-schweinsteiger-und-ana-ivanovic-brax-beendet-zusammenarbeit-a-dfae3b7f-ac45-4314-b6d4-0922bcd892b4#ref=rss)
-### ana
+* [https://www.spiegel.de/ausland/vor-angriff-israel-errichtete-offenbar-versteckte-drohnenbasis-in-iran](https://www.spiegel.de/ausland/vor-angriff-israel-errichtete-offenbar-versteckte-drohnenbasis-in-iran-a-fdd49d00-a3f2-4832-a405-73ff7009ae99#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-konflikt-iran-wertet-israels-angriff-als-kriegserklaerung](https://www.spiegel.de/ausland/israel-iran-konflikt-iran-wertet-israels-angriff-als-kriegserklaerung-a-3bbf3e8c-2667-4e34-8f3c-ec4ae58510c2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/israels-angriffe-in-iran-luftraum-gesperrt-zahlreiche-verbindungen-umgeleitet-oder-storniert](https://www.spiegel.de/wirtschaft/unternehmen/israels-angriffe-in-iran-luftraum-gesperrt-zahlreiche-verbindungen-umgeleitet-oder-storniert-a-d1ed09de-3198-4666-b73b-b1b567e74939#ref=rss)
+### operation
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/bastian-schweinsteiger-und-ana-ivanovic-brax-beendet-zusammenarbeit](https://www.spiegel.de/wirtschaft/unternehmen/bastian-schweinsteiger-und-ana-ivanovic-brax-beendet-zusammenarbeit-a-dfae3b7f-ac45-4314-b6d4-0922bcd892b4#ref=rss)
-### ivanović
+* [https://www.spiegel.de/ausland/vor-angriff-israel-errichtete-offenbar-versteckte-drohnenbasis-in-iran](https://www.spiegel.de/ausland/vor-angriff-israel-errichtete-offenbar-versteckte-drohnenbasis-in-iran-a-fdd49d00-a3f2-4832-a405-73ff7009ae99#ref=rss)
+* [https://www.spiegel.de/ausland/israel-greift-iran-an-warum-heisst-die-militaeroperation-rising-lion](https://www.spiegel.de/ausland/israel-greift-iran-an-warum-heisst-die-militaeroperation-rising-lion-a-e0bc2b49-fa06-4df7-bbe8-eb166c15e72a#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-konflikt-israel-greift-ziele-in-iran-an-teheran-droht-mit-vergeltung](https://www.spiegel.de/ausland/israel-iran-konflikt-israel-greift-ziele-in-iran-an-teheran-droht-mit-vergeltung-a-f997b77d-1409-4fd0-9f4a-c10d0c876eee#ref=rss)
+### land
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/bastian-schweinsteiger-und-ana-ivanovic-brax-beendet-zusammenarbeit](https://www.spiegel.de/wirtschaft/unternehmen/bastian-schweinsteiger-und-ana-ivanovic-brax-beendet-zusammenarbeit-a-dfae3b7f-ac45-4314-b6d4-0922bcd892b4#ref=rss)
-### brax
+* [https://www.spiegel.de/ausland/vor-angriff-israel-errichtete-offenbar-versteckte-drohnenbasis-in-iran](https://www.spiegel.de/ausland/vor-angriff-israel-errichtete-offenbar-versteckte-drohnenbasis-in-iran-a-fdd49d00-a3f2-4832-a405-73ff7009ae99#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-konflikt-iaea-chef-verurteilt-angriff-auf-iranische-nuklearanlagen](https://www.spiegel.de/ausland/israel-iran-konflikt-iaea-chef-verurteilt-angriff-auf-iranische-nuklearanlagen-a-d0c751ab-90ae-430b-98d1-ed372203faf5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/brasilien-will-vor-klimakonferenz-in-belem-seine-oel-foerderung-ausweiten](https://www.spiegel.de/wirtschaft/unternehmen/brasilien-will-vor-klimakonferenz-in-belem-seine-oel-foerderung-ausweiten-a-e21c4487-766a-4161-9afd-f4d85d9b2f05#ref=rss)
+### israelirankonflikt
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/bastian-schweinsteiger-und-ana-ivanovic-brax-beendet-zusammenarbeit](https://www.spiegel.de/wirtschaft/unternehmen/bastian-schweinsteiger-und-ana-ivanovic-brax-beendet-zusammenarbeit-a-dfae3b7f-ac45-4314-b6d4-0922bcd892b4#ref=rss)
-### beendet
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/bastian-schweinsteiger-und-ana-ivanovic-brax-beendet-zusammenarbeit](https://www.spiegel.de/wirtschaft/unternehmen/bastian-schweinsteiger-und-ana-ivanovic-brax-beendet-zusammenarbeit-a-dfae3b7f-ac45-4314-b6d4-0922bcd892b4#ref=rss)
-* [https://www.spiegel.de/auto/deutsche-bahn-ice-beendet-fahrt-vorzeitig-weil-er-den-zugbegleitern-zu-dreckig-war](https://www.spiegel.de/auto/deutsche-bahn-ice-beendet-fahrt-vorzeitig-weil-er-den-zugbegleitern-zu-dreckig-war-a-145f6ff3-abee-4d80-bb5f-9affc5bbbdc5#ref=rss)
-### zusammenarbeit
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/bastian-schweinsteiger-und-ana-ivanovic-brax-beendet-zusammenarbeit](https://www.spiegel.de/wirtschaft/unternehmen/bastian-schweinsteiger-und-ana-ivanovic-brax-beendet-zusammenarbeit-a-dfae3b7f-ac45-4314-b6d4-0922bcd892b4#ref=rss)
-### paar
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/bastian-schweinsteiger-und-ana-ivanovic-brax-beendet-zusammenarbeit](https://www.spiegel.de/wirtschaft/unternehmen/bastian-schweinsteiger-und-ana-ivanovic-brax-beendet-zusammenarbeit-a-dfae3b7f-ac45-4314-b6d4-0922bcd892b4#ref=rss)
-### wohl
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/bastian-schweinsteiger-und-ana-ivanovic-brax-beendet-zusammenarbeit](https://www.spiegel.de/wirtschaft/unternehmen/bastian-schweinsteiger-und-ana-ivanovic-brax-beendet-zusammenarbeit-a-dfae3b7f-ac45-4314-b6d4-0922bcd892b4#ref=rss)
-* [https://www.spiegel.de/netzwelt/games/schach-chatgpt-verliert-gegen-atari-2600](https://www.spiegel.de/netzwelt/games/schach-chatgpt-verliert-gegen-atari-2600-a-294337cd-e34b-417b-8227-f9492166f45e#ref=rss)
-### atomprogramm
-
-* [https://www.spiegel.de/ausland/atomprogramm-wie-sich-iran-gegen-einen-moeglichen-angriff-wappnen-will](https://www.spiegel.de/ausland/atomprogramm-wie-sich-iran-gegen-einen-moeglichen-angriff-wappnen-will-a-4663bc3b-c93d-4507-8264-f11bab3538f6#ref=rss)
-### chatgpt
-
-* [https://www.spiegel.de/netzwelt/games/schach-chatgpt-verliert-gegen-atari-2600](https://www.spiegel.de/netzwelt/games/schach-chatgpt-verliert-gegen-atari-2600-a-294337cd-e34b-417b-8227-f9492166f45e#ref=rss)
-### atari
-
-* [https://www.spiegel.de/netzwelt/games/schach-chatgpt-verliert-gegen-atari-2600](https://www.spiegel.de/netzwelt/games/schach-chatgpt-verliert-gegen-atari-2600-a-294337cd-e34b-417b-8227-f9492166f45e#ref=rss)
-### alte
-
-* [https://www.spiegel.de/netzwelt/games/schach-chatgpt-verliert-gegen-atari-2600](https://www.spiegel.de/netzwelt/games/schach-chatgpt-verliert-gegen-atari-2600-a-294337cd-e34b-417b-8227-f9492166f45e#ref=rss)
-### manchester
-
-* [https://www.spiegel.de/sport/fussball/von-manchester-city-zu-ssc-neapel-kevin-de-bruyne-kann-seine-hellblaue-trikotfarbe-behalten](https://www.spiegel.de/sport/fussball/von-manchester-city-zu-ssc-neapel-kevin-de-bruyne-kann-seine-hellblaue-trikotfarbe-behalten-a-6d205624-1e85-4adc-87e7-e6152d1a831b#ref=rss)
-### city
-
-* [https://www.spiegel.de/sport/fussball/von-manchester-city-zu-ssc-neapel-kevin-de-bruyne-kann-seine-hellblaue-trikotfarbe-behalten](https://www.spiegel.de/sport/fussball/von-manchester-city-zu-ssc-neapel-kevin-de-bruyne-kann-seine-hellblaue-trikotfarbe-behalten-a-6d205624-1e85-4adc-87e7-e6152d1a831b#ref=rss)
-### kevin
-
-* [https://www.spiegel.de/sport/fussball/von-manchester-city-zu-ssc-neapel-kevin-de-bruyne-kann-seine-hellblaue-trikotfarbe-behalten](https://www.spiegel.de/sport/fussball/von-manchester-city-zu-ssc-neapel-kevin-de-bruyne-kann-seine-hellblaue-trikotfarbe-behalten-a-6d205624-1e85-4adc-87e7-e6152d1a831b#ref=rss)
-### de
-
-* [https://www.spiegel.de/sport/fussball/von-manchester-city-zu-ssc-neapel-kevin-de-bruyne-kann-seine-hellblaue-trikotfarbe-behalten](https://www.spiegel.de/sport/fussball/von-manchester-city-zu-ssc-neapel-kevin-de-bruyne-kann-seine-hellblaue-trikotfarbe-behalten-a-6d205624-1e85-4adc-87e7-e6152d1a831b#ref=rss)
-### bruyne
-
-* [https://www.spiegel.de/sport/fussball/von-manchester-city-zu-ssc-neapel-kevin-de-bruyne-kann-seine-hellblaue-trikotfarbe-behalten](https://www.spiegel.de/sport/fussball/von-manchester-city-zu-ssc-neapel-kevin-de-bruyne-kann-seine-hellblaue-trikotfarbe-behalten-a-6d205624-1e85-4adc-87e7-e6152d1a831b#ref=rss)
-### vollgetankter
-
-* [https://www.spiegel.de/ausland/indien-vollgetankter-dreamliner-stuerzt-in-gebaeude-zahl-der-toten-koennte-steigen](https://www.spiegel.de/ausland/indien-vollgetankter-dreamliner-stuerzt-in-gebaeude-zahl-der-toten-koennte-steigen-a-5d8fd014-56fe-4709-9236-ca39262b47fb#ref=rss)
-### dreamliner
-
-* [https://www.spiegel.de/ausland/indien-vollgetankter-dreamliner-stuerzt-in-gebaeude-zahl-der-toten-koennte-steigen](https://www.spiegel.de/ausland/indien-vollgetankter-dreamliner-stuerzt-in-gebaeude-zahl-der-toten-koennte-steigen-a-5d8fd014-56fe-4709-9236-ca39262b47fb#ref=rss)
-### stürzt
-
-* [https://www.spiegel.de/ausland/indien-vollgetankter-dreamliner-stuerzt-in-gebaeude-zahl-der-toten-koennte-steigen](https://www.spiegel.de/ausland/indien-vollgetankter-dreamliner-stuerzt-in-gebaeude-zahl-der-toten-koennte-steigen-a-5d8fd014-56fe-4709-9236-ca39262b47fb#ref=rss)
-### gebäude
-
-* [https://www.spiegel.de/ausland/indien-vollgetankter-dreamliner-stuerzt-in-gebaeude-zahl-der-toten-koennte-steigen](https://www.spiegel.de/ausland/indien-vollgetankter-dreamliner-stuerzt-in-gebaeude-zahl-der-toten-koennte-steigen-a-5d8fd014-56fe-4709-9236-ca39262b47fb#ref=rss)
-### zahl
-
-* [https://www.spiegel.de/ausland/indien-vollgetankter-dreamliner-stuerzt-in-gebaeude-zahl-der-toten-koennte-steigen](https://www.spiegel.de/ausland/indien-vollgetankter-dreamliner-stuerzt-in-gebaeude-zahl-der-toten-koennte-steigen-a-5d8fd014-56fe-4709-9236-ca39262b47fb#ref=rss)
-### belarus
-
-* [https://www.spiegel.de/sport/olympia/judo-wm-ukraine-boykottiert-wegen-belarus-die-weltmeisterschaft-in-budapest](https://www.spiegel.de/sport/olympia/judo-wm-ukraine-boykottiert-wegen-belarus-die-weltmeisterschaft-in-budapest-a-d842899d-dc32-4d06-9258-7b2c6675ccd0#ref=rss)
-### budapest
-
-* [https://www.spiegel.de/sport/olympia/judo-wm-ukraine-boykottiert-wegen-belarus-die-weltmeisterschaft-in-budapest](https://www.spiegel.de/sport/olympia/judo-wm-ukraine-boykottiert-wegen-belarus-die-weltmeisterschaft-in-budapest-a-d842899d-dc32-4d06-9258-7b2c6675ccd0#ref=rss)
-### gehen
-
-* [https://www.spiegel.de/sport/olympia/judo-wm-ukraine-boykottiert-wegen-belarus-die-weltmeisterschaft-in-budapest](https://www.spiegel.de/sport/olympia/judo-wm-ukraine-boykottiert-wegen-belarus-die-weltmeisterschaft-in-budapest-a-d842899d-dc32-4d06-9258-7b2c6675ccd0#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/ki-bildgenerator-midjourney-soll-keine-minions-mehr-erzeugen](https://www.spiegel.de/netzwelt/apps/ki-bildgenerator-midjourney-soll-keine-minions-mehr-erzeugen-a-f5226943-8e35-4753-ad88-23b07e72c633#ref=rss)
-### boris
-
-* [https://www.spiegel.de/politik/deutschland/boris-pistorius-stellt-weitere-milliarden-militaerhilfe-fuer-die-ukraine-in-aussicht](https://www.spiegel.de/politik/deutschland/boris-pistorius-stellt-weitere-milliarden-militaerhilfe-fuer-die-ukraine-in-aussicht-a-8fe62398-210f-4de2-95c2-d93863024769#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-konflikt-iaea-chef-verurteilt-angriff-auf-iranische-nuklearanlagen](https://www.spiegel.de/ausland/israel-iran-konflikt-iaea-chef-verurteilt-angriff-auf-iranische-nuklearanlagen-a-d0c751ab-90ae-430b-98d1-ed372203faf5#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-konflikt-iran-wertet-israels-angriff-als-kriegserklaerung](https://www.spiegel.de/ausland/israel-iran-konflikt-iran-wertet-israels-angriff-als-kriegserklaerung-a-3bbf3e8c-2667-4e34-8f3c-ec4ae58510c2#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-konflikt-israel-greift-ziele-in-iran-an-teheran-droht-mit-vergeltung](https://www.spiegel.de/ausland/israel-iran-konflikt-israel-greift-ziele-in-iran-an-teheran-droht-mit-vergeltung-a-f997b77d-1409-4fd0-9f4a-c10d0c876eee#ref=rss)
 ### pistorius
 
-* [https://www.spiegel.de/politik/deutschland/boris-pistorius-stellt-weitere-milliarden-militaerhilfe-fuer-die-ukraine-in-aussicht](https://www.spiegel.de/politik/deutschland/boris-pistorius-stellt-weitere-milliarden-militaerhilfe-fuer-die-ukraine-in-aussicht-a-8fe62398-210f-4de2-95c2-d93863024769#ref=rss)
-### militärhilfe
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-frauenquote-im-wehrressort-bleibt-hinter-vorgaben-zurueck](https://www.spiegel.de/politik/deutschland/bundeswehr-frauenquote-im-wehrressort-bleibt-hinter-vorgaben-zurueck-a-6a34d466-137b-49d1-92c3-52941fbf3ff8#ref=rss)
+* [https://www.spiegel.de/kultur/tv/boris-pistorius-bei-maybrit-illner-ausweitung-des-wehrgedankens](https://www.spiegel.de/kultur/tv/boris-pistorius-bei-maybrit-illner-ausweitung-des-wehrgedankens-a-be96a51c-e969-48f7-aeb7-b980da0b3fa4#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/politik/deutschland/boris-pistorius-stellt-weitere-milliarden-militaerhilfe-fuer-die-ukraine-in-aussicht](https://www.spiegel.de/politik/deutschland/boris-pistorius-stellt-weitere-milliarden-militaerhilfe-fuer-die-ukraine-in-aussicht-a-8fe62398-210f-4de2-95c2-d93863024769#ref=rss)
-### abor
+* [https://www.spiegel.de/panorama/griechenland-wanderin-aus-deutschland-am-olymp-toedlich-verunglueckt](https://www.spiegel.de/panorama/griechenland-wanderin-aus-deutschland-am-olymp-toedlich-verunglueckt-a-4e846b82-e82f-454b-9ae0-c85b3b029d7c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/drohnen-attacken-in-deutschland-da-ist-was-im-anflug](https://www.spiegel.de/politik/deutschland/drohnen-attacken-in-deutschland-da-ist-was-im-anflug-a-cfc86f9f-1c9e-42d4-9a0a-f233c86a0773#ref=rss)
+### angriffe
 
-* [https://www.spiegel.de/kultur/musik/abor-deutschlands-esc-hoffnung-entschuldigt-sich-fuer-homophobe-posts](https://www.spiegel.de/kultur/musik/abor-deutschlands-esc-hoffnung-entschuldigt-sich-fuer-homophobe-posts-a-0f150b12-57e4-4c9d-a4dd-a61f42de27c7#ref=rss)
-### posts
+* [https://www.spiegel.de/ausland/israel-iran-konflikt-iran-wertet-israels-angriff-als-kriegserklaerung](https://www.spiegel.de/ausland/israel-iran-konflikt-iran-wertet-israels-angriff-als-kriegserklaerung-a-3bbf3e8c-2667-4e34-8f3c-ec4ae58510c2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/israels-angriffe-in-iran-luftraum-gesperrt-zahlreiche-verbindungen-umgeleitet-oder-storniert](https://www.spiegel.de/wirtschaft/unternehmen/israels-angriffe-in-iran-luftraum-gesperrt-zahlreiche-verbindungen-umgeleitet-oder-storniert-a-d1ed09de-3198-4666-b73b-b1b567e74939#ref=rss)
+### spahn
 
-* [https://www.spiegel.de/kultur/musik/abor-deutschlands-esc-hoffnung-entschuldigt-sich-fuer-homophobe-posts](https://www.spiegel.de/kultur/musik/abor-deutschlands-esc-hoffnung-entschuldigt-sich-fuer-homophobe-posts-a-0f150b12-57e4-4c9d-a4dd-a61f42de27c7#ref=rss)
-### saison
+* [https://www.spiegel.de/politik/deutschland/corona-maskenaffaere-und-jens-spahn-friends-of-jens-satire](https://www.spiegel.de/politik/deutschland/corona-maskenaffaere-und-jens-spahn-friends-of-jens-satire-a-36cf23a7-608d-48ac-bfa0-fc333a7d8931#ref=rss)
+### zuständig
 
-* [https://www.spiegel.de/sport/handball/2-handball-bundesliga-sportgericht-ordnet-spielwiederholung-an-obwohln-saison-vorbei-ist](https://www.spiegel.de/sport/handball/2-handball-bundesliga-sportgericht-ordnet-spielwiederholung-an-obwohln-saison-vorbei-ist-a-0d7002b2-4664-4825-8384-c12d3bb96576#ref=rss)
-### ice
+* [https://www.spiegel.de/politik/deutschland/gruene-wer-fuer-was-zustaendig-ist-weiss-in-der-partei-keiner-kolumne](https://www.spiegel.de/politik/deutschland/gruene-wer-fuer-was-zustaendig-ist-weiss-in-der-partei-keiner-kolumne-a-d79d03f6-ecd2-4679-a27d-214b3d22b45f#ref=rss)
+### weiß
 
-* [https://www.spiegel.de/auto/deutsche-bahn-ice-beendet-fahrt-vorzeitig-weil-er-den-zugbegleitern-zu-dreckig-war](https://www.spiegel.de/auto/deutsche-bahn-ice-beendet-fahrt-vorzeitig-weil-er-den-zugbegleitern-zu-dreckig-war-a-145f6ff3-abee-4d80-bb5f-9affc5bbbdc5#ref=rss)
-### fahrt
+* [https://www.spiegel.de/politik/deutschland/gruene-wer-fuer-was-zustaendig-ist-weiss-in-der-partei-keiner-kolumne](https://www.spiegel.de/politik/deutschland/gruene-wer-fuer-was-zustaendig-ist-weiss-in-der-partei-keiner-kolumne-a-d79d03f6-ecd2-4679-a27d-214b3d22b45f#ref=rss)
+### partei
 
-* [https://www.spiegel.de/auto/deutsche-bahn-ice-beendet-fahrt-vorzeitig-weil-er-den-zugbegleitern-zu-dreckig-war](https://www.spiegel.de/auto/deutsche-bahn-ice-beendet-fahrt-vorzeitig-weil-er-den-zugbegleitern-zu-dreckig-war-a-145f6ff3-abee-4d80-bb5f-9affc5bbbdc5#ref=rss)
-### dreckig
+* [https://www.spiegel.de/politik/deutschland/gruene-wer-fuer-was-zustaendig-ist-weiss-in-der-partei-keiner-kolumne](https://www.spiegel.de/politik/deutschland/gruene-wer-fuer-was-zustaendig-ist-weiss-in-der-partei-keiner-kolumne-a-d79d03f6-ecd2-4679-a27d-214b3d22b45f#ref=rss)
+### rolle
 
-* [https://www.spiegel.de/auto/deutsche-bahn-ice-beendet-fahrt-vorzeitig-weil-er-den-zugbegleitern-zu-dreckig-war](https://www.spiegel.de/auto/deutsche-bahn-ice-beendet-fahrt-vorzeitig-weil-er-den-zugbegleitern-zu-dreckig-war-a-145f6ff3-abee-4d80-bb5f-9affc5bbbdc5#ref=rss)
-### alzheimer
+* [https://www.spiegel.de/politik/deutschland/gruene-wer-fuer-was-zustaendig-ist-weiss-in-der-partei-keiner-kolumne](https://www.spiegel.de/politik/deutschland/gruene-wer-fuer-was-zustaendig-ist-weiss-in-der-partei-keiner-kolumne-a-d79d03f6-ecd2-4679-a27d-214b3d22b45f#ref=rss)
+* [https://www.spiegel.de/kultur/tv/boris-pistorius-bei-maybrit-illner-ausweitung-des-wehrgedankens](https://www.spiegel.de/kultur/tv/boris-pistorius-bei-maybrit-illner-ausweitung-des-wehrgedankens-a-be96a51c-e969-48f7-aeb7-b980da0b3fa4#ref=rss)
+### macht
 
-* [https://www.spiegel.de/wissenschaft/medizin/alzheimer-vorbeugen-wie-bewegung-das-erkrankungsrisiko-deutlich-senken-kann](https://www.spiegel.de/wissenschaft/medizin/alzheimer-vorbeugen-wie-bewegung-das-erkrankungsrisiko-deutlich-senken-kann-a-c00a6da4-e978-4e2b-8022-cbb954f0589d#ref=rss)
-### bewegung
+* [https://www.spiegel.de/politik/deutschland/gruene-wer-fuer-was-zustaendig-ist-weiss-in-der-partei-keiner-kolumne](https://www.spiegel.de/politik/deutschland/gruene-wer-fuer-was-zustaendig-ist-weiss-in-der-partei-keiner-kolumne-a-d79d03f6-ecd2-4679-a27d-214b3d22b45f#ref=rss)
+* [https://www.spiegel.de/netzwelt/f1-the-movie-iphone-nutzer-koennen-trailer-fuer-formel-1-film-fuehlen](https://www.spiegel.de/netzwelt/f1-the-movie-iphone-nutzer-koennen-trailer-fuer-formel-1-film-fuehlen-a-4ede57f2-744d-4d72-bd0b-3a6d40db7069#ref=rss)
+### junge
 
-* [https://www.spiegel.de/wissenschaft/medizin/alzheimer-vorbeugen-wie-bewegung-das-erkrankungsrisiko-deutlich-senken-kann](https://www.spiegel.de/wissenschaft/medizin/alzheimer-vorbeugen-wie-bewegung-das-erkrankungsrisiko-deutlich-senken-kann-a-c00a6da4-e978-4e2b-8022-cbb954f0589d#ref=rss)
-### erkrankungsrisiko
+* [https://www.spiegel.de/politik/deutschland/gruene-wer-fuer-was-zustaendig-ist-weiss-in-der-partei-keiner-kolumne](https://www.spiegel.de/politik/deutschland/gruene-wer-fuer-was-zustaendig-ist-weiss-in-der-partei-keiner-kolumne-a-d79d03f6-ecd2-4679-a27d-214b3d22b45f#ref=rss)
+* [https://www.spiegel.de/panorama/muenchen-20-jaehrige-klettert-nachts-auf-kran-und-stuerzt-15-meter-tief](https://www.spiegel.de/panorama/muenchen-20-jaehrige-klettert-nachts-auf-kran-und-stuerzt-15-meter-tief-a-c800a778-d87d-4637-8600-5f095c964e97#ref=rss)
+### spiegel
 
-* [https://www.spiegel.de/wissenschaft/medizin/alzheimer-vorbeugen-wie-bewegung-das-erkrankungsrisiko-deutlich-senken-kann](https://www.spiegel.de/wissenschaft/medizin/alzheimer-vorbeugen-wie-bewegung-das-erkrankungsrisiko-deutlich-senken-kann-a-c00a6da4-e978-4e2b-8022-cbb954f0589d#ref=rss)
-### senken
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/drohnen-attacken-in-deutschland-da-ist-was-im-anflug](https://www.spiegel.de/politik/deutschland/drohnen-attacken-in-deutschland-da-ist-was-im-anflug-a-cfc86f9f-1c9e-42d4-9a0a-f233c86a0773#ref=rss)
+### fragen
 
-* [https://www.spiegel.de/wissenschaft/medizin/alzheimer-vorbeugen-wie-bewegung-das-erkrankungsrisiko-deutlich-senken-kann](https://www.spiegel.de/wissenschaft/medizin/alzheimer-vorbeugen-wie-bewegung-das-erkrankungsrisiko-deutlich-senken-kann-a-c00a6da4-e978-4e2b-8022-cbb954f0589d#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### tag
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### los
+
+* [https://www.spiegel.de/ausland/los-angeles-donald-trump-darf-vorerst-kontrolle-ueber-nationalgarde-behalten](https://www.spiegel.de/ausland/los-angeles-donald-trump-darf-vorerst-kontrolle-ueber-nationalgarde-behalten-a-17c265dc-aeaf-4dbd-9b6a-37ca29e4ec60#ref=rss)
+### angeles
+
+* [https://www.spiegel.de/ausland/los-angeles-donald-trump-darf-vorerst-kontrolle-ueber-nationalgarde-behalten](https://www.spiegel.de/ausland/los-angeles-donald-trump-darf-vorerst-kontrolle-ueber-nationalgarde-behalten-a-17c265dc-aeaf-4dbd-9b6a-37ca29e4ec60#ref=rss)
+### nationalgarde
+
+* [https://www.spiegel.de/ausland/los-angeles-donald-trump-darf-vorerst-kontrolle-ueber-nationalgarde-behalten](https://www.spiegel.de/ausland/los-angeles-donald-trump-darf-vorerst-kontrolle-ueber-nationalgarde-behalten-a-17c265dc-aeaf-4dbd-9b6a-37ca29e4ec60#ref=rss)
+### wenige
+
+* [https://www.spiegel.de/ausland/los-angeles-donald-trump-darf-vorerst-kontrolle-ueber-nationalgarde-behalten](https://www.spiegel.de/ausland/los-angeles-donald-trump-darf-vorerst-kontrolle-ueber-nationalgarde-behalten-a-17c265dc-aeaf-4dbd-9b6a-37ca29e4ec60#ref=rss)
+* [https://www.spiegel.de/auto/deutsche-bahn-verzeichnet-zuwachs-bei-langstrecken-berlin-krakau-am-beliebtesten](https://www.spiegel.de/auto/deutsche-bahn-verzeichnet-zuwachs-bei-langstrecken-berlin-krakau-am-beliebtesten-a-e3828715-1674-45b2-a3e1-cc01fff373b7#ref=rss)
+### stunden
+
+* [https://www.spiegel.de/ausland/los-angeles-donald-trump-darf-vorerst-kontrolle-ueber-nationalgarde-behalten](https://www.spiegel.de/ausland/los-angeles-donald-trump-darf-vorerst-kontrolle-ueber-nationalgarde-behalten-a-17c265dc-aeaf-4dbd-9b6a-37ca29e4ec60#ref=rss)
+* [https://www.spiegel.de/auto/deutsche-bahn-verzeichnet-zuwachs-bei-langstrecken-berlin-krakau-am-beliebtesten](https://www.spiegel.de/auto/deutsche-bahn-verzeichnet-zuwachs-bei-langstrecken-berlin-krakau-am-beliebtesten-a-e3828715-1674-45b2-a3e1-cc01fff373b7#ref=rss)
+### vishwash
+
+* [https://www.spiegel.de/panorama/flugzeug-absturz-in-indien-einziger-ueberlebender-des-air-india-flugs-vishwash-kumar-ramesh](https://www.spiegel.de/panorama/flugzeug-absturz-in-indien-einziger-ueberlebender-des-air-india-flugs-vishwash-kumar-ramesh-a-84356f67-942b-4800-a909-71bca8baa10d#ref=rss)
+### kumar
+
+* [https://www.spiegel.de/panorama/flugzeug-absturz-in-indien-einziger-ueberlebender-des-air-india-flugs-vishwash-kumar-ramesh](https://www.spiegel.de/panorama/flugzeug-absturz-in-indien-einziger-ueberlebender-des-air-india-flugs-vishwash-kumar-ramesh-a-84356f67-942b-4800-a909-71bca8baa10d#ref=rss)
+### ramesh
+
+* [https://www.spiegel.de/panorama/flugzeug-absturz-in-indien-einziger-ueberlebender-des-air-india-flugs-vishwash-kumar-ramesh](https://www.spiegel.de/panorama/flugzeug-absturz-in-indien-einziger-ueberlebender-des-air-india-flugs-vishwash-kumar-ramesh-a-84356f67-942b-4800-a909-71bca8baa10d#ref=rss)
+### einziger
+
+* [https://www.spiegel.de/panorama/flugzeug-absturz-in-indien-einziger-ueberlebender-des-air-india-flugs-vishwash-kumar-ramesh](https://www.spiegel.de/panorama/flugzeug-absturz-in-indien-einziger-ueberlebender-des-air-india-flugs-vishwash-kumar-ramesh-a-84356f67-942b-4800-a909-71bca8baa10d#ref=rss)
+### airindiamaschine
+
+* [https://www.spiegel.de/panorama/flugzeug-absturz-in-indien-einziger-ueberlebender-des-air-india-flugs-vishwash-kumar-ramesh](https://www.spiegel.de/panorama/flugzeug-absturz-in-indien-einziger-ueberlebender-des-air-india-flugs-vishwash-kumar-ramesh-a-84356f67-942b-4800-a909-71bca8baa10d#ref=rss)
+* [https://www.spiegel.de/panorama/thailand-air-india-maschine-muss-wegen-bombendrohung-auf-phuket-notlanden](https://www.spiegel.de/panorama/thailand-air-india-maschine-muss-wegen-bombendrohung-auf-phuket-notlanden-a-22937b89-7c8b-40f9-8f12-57c4d64c8911#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/panorama/justiz/berlin-frau-soll-maedchen-rassistisch-beleidigt-und-verletzt-haben](https://www.spiegel.de/panorama/justiz/berlin-frau-soll-maedchen-rassistisch-beleidigt-und-verletzt-haben-a-ede39964-6164-40db-bbbf-e30cc0131842#ref=rss)
+### mädchen
+
+* [https://www.spiegel.de/panorama/justiz/berlin-frau-soll-maedchen-rassistisch-beleidigt-und-verletzt-haben](https://www.spiegel.de/panorama/justiz/berlin-frau-soll-maedchen-rassistisch-beleidigt-und-verletzt-haben-a-ede39964-6164-40db-bbbf-e30cc0131842#ref=rss)
+### erst
+
+* [https://www.spiegel.de/panorama/justiz/berlin-frau-soll-maedchen-rassistisch-beleidigt-und-verletzt-haben](https://www.spiegel.de/panorama/justiz/berlin-frau-soll-maedchen-rassistisch-beleidigt-und-verletzt-haben-a-ede39964-6164-40db-bbbf-e30cc0131842#ref=rss)
+* [https://www.spiegel.de/sport/radprofi-florian-lipowitz-er-wollte-biathlet-werden-und-wurde-ein-weltklasse-radsportler](https://www.spiegel.de/sport/radprofi-florian-lipowitz-er-wollte-biathlet-werden-und-wurde-ein-weltklasse-radsportler-a-a274a41d-bff5-45ef-bee7-acba298d1747#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/justiz/berlin-frau-soll-maedchen-rassistisch-beleidigt-und-verletzt-haben](https://www.spiegel.de/panorama/justiz/berlin-frau-soll-maedchen-rassistisch-beleidigt-und-verletzt-haben-a-ede39964-6164-40db-bbbf-e30cc0131842#ref=rss)
+* [https://www.spiegel.de/karriere/bundeswehr-darf-hauptfeldwebel-die-bezuege-kuerzen-weil-er-sex-mit-der-frau-eines-kameraden-hatte](https://www.spiegel.de/karriere/bundeswehr-darf-hauptfeldwebel-die-bezuege-kuerzen-weil-er-sex-mit-der-frau-eines-kameraden-hatte-a-ed2cc366-d563-49b9-805f-b292469b3ee9#ref=rss)
+### f1
+
+* [https://www.spiegel.de/netzwelt/f1-the-movie-iphone-nutzer-koennen-trailer-fuer-formel-1-film-fuehlen](https://www.spiegel.de/netzwelt/f1-the-movie-iphone-nutzer-koennen-trailer-fuer-formel-1-film-fuehlen-a-4ede57f2-744d-4d72-bd0b-3a6d40db7069#ref=rss)
+### the
+
+* [https://www.spiegel.de/netzwelt/f1-the-movie-iphone-nutzer-koennen-trailer-fuer-formel-1-film-fuehlen](https://www.spiegel.de/netzwelt/f1-the-movie-iphone-nutzer-koennen-trailer-fuer-formel-1-film-fuehlen-a-4ede57f2-744d-4d72-bd0b-3a6d40db7069#ref=rss)
+### movie
+
+* [https://www.spiegel.de/netzwelt/f1-the-movie-iphone-nutzer-koennen-trailer-fuer-formel-1-film-fuehlen](https://www.spiegel.de/netzwelt/f1-the-movie-iphone-nutzer-koennen-trailer-fuer-formel-1-film-fuehlen-a-4ede57f2-744d-4d72-bd0b-3a6d40db7069#ref=rss)
+### r
+
+* [https://www.spiegel.de/panorama/justiz/r-kelly-will-offenbar-us-praesident-trump-um-begnadigung-bitten](https://www.spiegel.de/panorama/justiz/r-kelly-will-offenbar-us-praesident-trump-um-begnadigung-bitten-a-8277716f-b9d5-4b3b-8ce0-bd1c5fafc7fa#ref=rss)
+### kelly
+
+* [https://www.spiegel.de/panorama/justiz/r-kelly-will-offenbar-us-praesident-trump-um-begnadigung-bitten](https://www.spiegel.de/panorama/justiz/r-kelly-will-offenbar-us-praesident-trump-um-begnadigung-bitten-a-8277716f-b9d5-4b3b-8ce0-bd1c5fafc7fa#ref=rss)
+### uspräsident
+
+* [https://www.spiegel.de/panorama/justiz/r-kelly-will-offenbar-us-praesident-trump-um-begnadigung-bitten](https://www.spiegel.de/panorama/justiz/r-kelly-will-offenbar-us-praesident-trump-um-begnadigung-bitten-a-8277716f-b9d5-4b3b-8ce0-bd1c5fafc7fa#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-konflikt-iran-wertet-israels-angriff-als-kriegserklaerung](https://www.spiegel.de/ausland/israel-iran-konflikt-iran-wertet-israels-angriff-als-kriegserklaerung-a-3bbf3e8c-2667-4e34-8f3c-ec4ae58510c2#ref=rss)
+### hilfe
+
+* [https://www.spiegel.de/panorama/justiz/r-kelly-will-offenbar-us-praesident-trump-um-begnadigung-bitten](https://www.spiegel.de/panorama/justiz/r-kelly-will-offenbar-us-praesident-trump-um-begnadigung-bitten-a-8277716f-b9d5-4b3b-8ce0-bd1c5fafc7fa#ref=rss)
+* [https://www.spiegel.de/panorama/griechenland-wanderin-aus-deutschland-am-olymp-toedlich-verunglueckt](https://www.spiegel.de/panorama/griechenland-wanderin-aus-deutschland-am-olymp-toedlich-verunglueckt-a-4e846b82-e82f-454b-9ae0-c85b3b029d7c#ref=rss)
+### nächste
+
+* [https://www.spiegel.de/sport/fussball/fifa-klub-wm-2025-worum-es-geht-und-was-von-der-kritik-an-dem-event-uebrigbleibt](https://www.spiegel.de/sport/fussball/fifa-klub-wm-2025-worum-es-geht-und-was-von-der-kritik-an-dem-event-uebrigbleibt-a-8bb01b4c-68f8-4245-a3e0-ed1a55f7242c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/brasilien-will-vor-klimakonferenz-in-belem-seine-oel-foerderung-ausweiten](https://www.spiegel.de/wirtschaft/unternehmen/brasilien-will-vor-klimakonferenz-in-belem-seine-oel-foerderung-ausweiten-a-e21c4487-766a-4161-9afd-f4d85d9b2f05#ref=rss)
+### start
+
+* [https://www.spiegel.de/sport/fussball/fifa-klub-wm-2025-worum-es-geht-und-was-von-der-kritik-an-dem-event-uebrigbleibt](https://www.spiegel.de/sport/fussball/fifa-klub-wm-2025-worum-es-geht-und-was-von-der-kritik-an-dem-event-uebrigbleibt-a-8bb01b4c-68f8-4245-a3e0-ed1a55f7242c#ref=rss)
+* [https://www.spiegel.de/panorama/thailand-air-india-maschine-muss-wegen-bombendrohung-auf-phuket-notlanden](https://www.spiegel.de/panorama/thailand-air-india-maschine-muss-wegen-bombendrohung-auf-phuket-notlanden-a-22937b89-7c8b-40f9-8f12-57c4d64c8911#ref=rss)
+### drohnenbasis
+
+* [https://www.spiegel.de/ausland/vor-angriff-israel-errichtete-offenbar-versteckte-drohnenbasis-in-iran](https://www.spiegel.de/ausland/vor-angriff-israel-errichtete-offenbar-versteckte-drohnenbasis-in-iran-a-fdd49d00-a3f2-4832-a405-73ff7009ae99#ref=rss)
+### israelischen
+
+* [https://www.spiegel.de/ausland/vor-angriff-israel-errichtete-offenbar-versteckte-drohnenbasis-in-iran](https://www.spiegel.de/ausland/vor-angriff-israel-errichtete-offenbar-versteckte-drohnenbasis-in-iran-a-fdd49d00-a3f2-4832-a405-73ff7009ae99#ref=rss)
+* [https://www.spiegel.de/kultur/tv/boris-pistorius-bei-maybrit-illner-ausweitung-des-wehrgedankens](https://www.spiegel.de/kultur/tv/boris-pistorius-bei-maybrit-illner-ausweitung-des-wehrgedankens-a-be96a51c-e969-48f7-aeb7-b980da0b3fa4#ref=rss)
+### iranische
+
+* [https://www.spiegel.de/ausland/israel-iran-konflikt-iaea-chef-verurteilt-angriff-auf-iranische-nuklearanlagen](https://www.spiegel.de/ausland/israel-iran-konflikt-iaea-chef-verurteilt-angriff-auf-iranische-nuklearanlagen-a-d0c751ab-90ae-430b-98d1-ed372203faf5#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-konflikt-iran-wertet-israels-angriff-als-kriegserklaerung](https://www.spiegel.de/ausland/israel-iran-konflikt-iran-wertet-israels-angriff-als-kriegserklaerung-a-3bbf3e8c-2667-4e34-8f3c-ec4ae58510c2#ref=rss)
+### atomanlagen
+
+* [https://www.spiegel.de/ausland/israel-iran-konflikt-iaea-chef-verurteilt-angriff-auf-iranische-nuklearanlagen](https://www.spiegel.de/ausland/israel-iran-konflikt-iaea-chef-verurteilt-angriff-auf-iranische-nuklearanlagen-a-d0c751ab-90ae-430b-98d1-ed372203faf5#ref=rss)
+* [https://www.spiegel.de/ausland/israel-greift-iran-an-warum-heisst-die-militaeroperation-rising-lion](https://www.spiegel.de/ausland/israel-greift-iran-an-warum-heisst-die-militaeroperation-rising-lion-a-e0bc2b49-fa06-4df7-bbe8-eb166c15e72a#ref=rss)
+### bleibt
+
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-frauenquote-im-wehrressort-bleibt-hinter-vorgaben-zurueck](https://www.spiegel.de/politik/deutschland/bundeswehr-frauenquote-im-wehrressort-bleibt-hinter-vorgaben-zurueck-a-6a34d466-137b-49d1-92c3-52941fbf3ff8#ref=rss)
+### vorgaben
+
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-frauenquote-im-wehrressort-bleibt-hinter-vorgaben-zurueck](https://www.spiegel.de/politik/deutschland/bundeswehr-frauenquote-im-wehrressort-bleibt-hinter-vorgaben-zurueck-a-6a34d466-137b-49d1-92c3-52941fbf3ff8#ref=rss)
+### edmonton
+
+* [https://www.spiegel.de/sport/eishockey/nhl-finale-gegen-florida-panthers-leon-draisaitls-spaetes-tor-laesst-edmonton-wieder-vom-titel-traeumen](https://www.spiegel.de/sport/eishockey/nhl-finale-gegen-florida-panthers-leon-draisaitls-spaetes-tor-laesst-edmonton-wieder-vom-titel-traeumen-a-2a163e08-e5ce-4060-9051-df73a6c9d572#ref=rss)
+### titel
+
+* [https://www.spiegel.de/sport/eishockey/nhl-finale-gegen-florida-panthers-leon-draisaitls-spaetes-tor-laesst-edmonton-wieder-vom-titel-traeumen](https://www.spiegel.de/sport/eishockey/nhl-finale-gegen-florida-panthers-leon-draisaitls-spaetes-tor-laesst-edmonton-wieder-vom-titel-traeumen-a-2a163e08-e5ce-4060-9051-df73a6c9d572#ref=rss)
+* [https://www.spiegel.de/ausland/israel-greift-iran-an-warum-heisst-die-militaeroperation-rising-lion](https://www.spiegel.de/ausland/israel-greift-iran-an-warum-heisst-die-militaeroperation-rising-lion-a-e0bc2b49-fa06-4df7-bbe8-eb166c15e72a#ref=rss)
+### waren
+
+* [https://www.spiegel.de/sport/eishockey/nhl-finale-gegen-florida-panthers-leon-draisaitls-spaetes-tor-laesst-edmonton-wieder-vom-titel-traeumen](https://www.spiegel.de/sport/eishockey/nhl-finale-gegen-florida-panthers-leon-draisaitls-spaetes-tor-laesst-edmonton-wieder-vom-titel-traeumen-a-2a163e08-e5ce-4060-9051-df73a6c9d572#ref=rss)
+* [https://www.spiegel.de/panorama/thailand-air-india-maschine-muss-wegen-bombendrohung-auf-phuket-notlanden](https://www.spiegel.de/panorama/thailand-air-india-maschine-muss-wegen-bombendrohung-auf-phuket-notlanden-a-22937b89-7c8b-40f9-8f12-57c4d64c8911#ref=rss)
+### zusammen
+
+* [https://www.spiegel.de/karriere/bundeswehr-darf-hauptfeldwebel-die-bezuege-kuerzen-weil-er-sex-mit-der-frau-eines-kameraden-hatte](https://www.spiegel.de/karriere/bundeswehr-darf-hauptfeldwebel-die-bezuege-kuerzen-weil-er-sex-mit-der-frau-eines-kameraden-hatte-a-ed2cc366-d563-49b9-805f-b292469b3ee9#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/schuppentier-als-nahrung-pangoline-werden-in-nigeria-offenbar-gar-nicht-wegen-ihrer-schuppen-gejagt](https://www.spiegel.de/wissenschaft/natur/schuppentier-als-nahrung-pangoline-werden-in-nigeria-offenbar-gar-nicht-wegen-ihrer-schuppen-gejagt-a-488788b1-d856-41f1-a656-7f9b4e45305a#ref=rss)
+### denn
+
+* [https://www.spiegel.de/karriere/bundeswehr-darf-hauptfeldwebel-die-bezuege-kuerzen-weil-er-sex-mit-der-frau-eines-kameraden-hatte](https://www.spiegel.de/karriere/bundeswehr-darf-hauptfeldwebel-die-bezuege-kuerzen-weil-er-sex-mit-der-frau-eines-kameraden-hatte-a-ed2cc366-d563-49b9-805f-b292469b3ee9#ref=rss)
+* [https://www.spiegel.de/kultur/jd-vance-gegen-den-guten-stil-kann-man-die-modepolizei-verhaften](https://www.spiegel.de/kultur/jd-vance-gegen-den-guten-stil-kann-man-die-modepolizei-verhaften-a-358e117f-dd44-4a45-98c4-30e6de01dec7#ref=rss)
+### griechenland
+
+* [https://www.spiegel.de/panorama/griechenland-wanderin-aus-deutschland-am-olymp-toedlich-verunglueckt](https://www.spiegel.de/panorama/griechenland-wanderin-aus-deutschland-am-olymp-toedlich-verunglueckt-a-4e846b82-e82f-454b-9ae0-c85b3b029d7c#ref=rss)
+### rising
+
+* [https://www.spiegel.de/ausland/israel-greift-iran-an-warum-heisst-die-militaeroperation-rising-lion](https://www.spiegel.de/ausland/israel-greift-iran-an-warum-heisst-die-militaeroperation-rising-lion-a-e0bc2b49-fa06-4df7-bbe8-eb166c15e72a#ref=rss)
+### lion
+
+* [https://www.spiegel.de/ausland/israel-greift-iran-an-warum-heisst-die-militaeroperation-rising-lion](https://www.spiegel.de/ausland/israel-greift-iran-an-warum-heisst-die-militaeroperation-rising-lion-a-e0bc2b49-fa06-4df7-bbe8-eb166c15e72a#ref=rss)
+### ziele
+
+* [https://www.spiegel.de/ausland/israel-iran-konflikt-iran-wertet-israels-angriff-als-kriegserklaerung](https://www.spiegel.de/ausland/israel-iran-konflikt-iran-wertet-israels-angriff-als-kriegserklaerung-a-3bbf3e8c-2667-4e34-8f3c-ec4ae58510c2#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-konflikt-israel-greift-ziele-in-iran-an-teheran-droht-mit-vergeltung](https://www.spiegel.de/ausland/israel-iran-konflikt-israel-greift-ziele-in-iran-an-teheran-droht-mit-vergeltung-a-f997b77d-1409-4fd0-9f4a-c10d0c876eee#ref=rss)
+### teheran
+
+* [https://www.spiegel.de/ausland/israel-iran-konflikt-iran-wertet-israels-angriff-als-kriegserklaerung](https://www.spiegel.de/ausland/israel-iran-konflikt-iran-wertet-israels-angriff-als-kriegserklaerung-a-3bbf3e8c-2667-4e34-8f3c-ec4ae58510c2#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-konflikt-israel-greift-ziele-in-iran-an-teheran-droht-mit-vergeltung](https://www.spiegel.de/ausland/israel-iran-konflikt-israel-greift-ziele-in-iran-an-teheran-droht-mit-vergeltung-a-f997b77d-1409-4fd0-9f4a-c10d0c876eee#ref=rss)
+### münchen
+
+* [https://www.spiegel.de/panorama/muenchen-20-jaehrige-klettert-nachts-auf-kran-und-stuerzt-15-meter-tief](https://www.spiegel.de/panorama/muenchen-20-jaehrige-klettert-nachts-auf-kran-und-stuerzt-15-meter-tief-a-c800a778-d87d-4637-8600-5f095c964e97#ref=rss)
+### jd
+
+* [https://www.spiegel.de/kultur/jd-vance-gegen-den-guten-stil-kann-man-die-modepolizei-verhaften](https://www.spiegel.de/kultur/jd-vance-gegen-den-guten-stil-kann-man-die-modepolizei-verhaften-a-358e117f-dd44-4a45-98c4-30e6de01dec7#ref=rss)
+### vance
+
+* [https://www.spiegel.de/kultur/jd-vance-gegen-den-guten-stil-kann-man-die-modepolizei-verhaften](https://www.spiegel.de/kultur/jd-vance-gegen-den-guten-stil-kann-man-die-modepolizei-verhaften-a-358e117f-dd44-4a45-98c4-30e6de01dec7#ref=rss)
+### guten
+
+* [https://www.spiegel.de/kultur/jd-vance-gegen-den-guten-stil-kann-man-die-modepolizei-verhaften](https://www.spiegel.de/kultur/jd-vance-gegen-den-guten-stil-kann-man-die-modepolizei-verhaften-a-358e117f-dd44-4a45-98c4-30e6de01dec7#ref=rss)
+* [https://www.spiegel.de/kultur/tv/boris-pistorius-bei-maybrit-illner-ausweitung-des-wehrgedankens](https://www.spiegel.de/kultur/tv/boris-pistorius-bei-maybrit-illner-ausweitung-des-wehrgedankens-a-be96a51c-e969-48f7-aeb7-b980da0b3fa4#ref=rss)
+### droht
+
+* [https://www.spiegel.de/kultur/jd-vance-gegen-den-guten-stil-kann-man-die-modepolizei-verhaften](https://www.spiegel.de/kultur/jd-vance-gegen-den-guten-stil-kann-man-die-modepolizei-verhaften-a-358e117f-dd44-4a45-98c4-30e6de01dec7#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-konflikt-israel-greift-ziele-in-iran-an-teheran-droht-mit-vergeltung](https://www.spiegel.de/ausland/israel-iran-konflikt-israel-greift-ziele-in-iran-an-teheran-droht-mit-vergeltung-a-f997b77d-1409-4fd0-9f4a-c10d0c876eee#ref=rss)
+### gemacht
+
+* [https://www.spiegel.de/kultur/jd-vance-gegen-den-guten-stil-kann-man-die-modepolizei-verhaften](https://www.spiegel.de/kultur/jd-vance-gegen-den-guten-stil-kann-man-die-modepolizei-verhaften-a-358e117f-dd44-4a45-98c4-30e6de01dec7#ref=rss)
+* [https://www.spiegel.de/panorama/leipzig-magnetangler-fischen-phosphorbombe-aus-fluss](https://www.spiegel.de/panorama/leipzig-magnetangler-fischen-phosphorbombe-aus-fluss-a-ff528f9a-097d-42ae-bdaf-47bb467088b6#ref=rss)
+### boris
+
+* [https://www.spiegel.de/kultur/tv/boris-pistorius-bei-maybrit-illner-ausweitung-des-wehrgedankens](https://www.spiegel.de/kultur/tv/boris-pistorius-bei-maybrit-illner-ausweitung-des-wehrgedankens-a-be96a51c-e969-48f7-aeb7-b980da0b3fa4#ref=rss)
+### maybrit
+
+* [https://www.spiegel.de/kultur/tv/boris-pistorius-bei-maybrit-illner-ausweitung-des-wehrgedankens](https://www.spiegel.de/kultur/tv/boris-pistorius-bei-maybrit-illner-ausweitung-des-wehrgedankens-a-be96a51c-e969-48f7-aeb7-b980da0b3fa4#ref=rss)
+### illner
+
+* [https://www.spiegel.de/kultur/tv/boris-pistorius-bei-maybrit-illner-ausweitung-des-wehrgedankens](https://www.spiegel.de/kultur/tv/boris-pistorius-bei-maybrit-illner-ausweitung-des-wehrgedankens-a-be96a51c-e969-48f7-aeb7-b980da0b3fa4#ref=rss)
+### neue
+
+* [https://www.spiegel.de/kultur/tv/boris-pistorius-bei-maybrit-illner-ausweitung-des-wehrgedankens](https://www.spiegel.de/kultur/tv/boris-pistorius-bei-maybrit-illner-ausweitung-des-wehrgedankens-a-be96a51c-e969-48f7-aeb7-b980da0b3fa4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/brasilien-will-vor-klimakonferenz-in-belem-seine-oel-foerderung-ausweiten](https://www.spiegel.de/wirtschaft/unternehmen/brasilien-will-vor-klimakonferenz-in-belem-seine-oel-foerderung-ausweiten-a-e21c4487-766a-4161-9afd-f4d85d9b2f05#ref=rss)
+### schuppen
+
+* [https://www.spiegel.de/wissenschaft/natur/schuppentier-als-nahrung-pangoline-werden-in-nigeria-offenbar-gar-nicht-wegen-ihrer-schuppen-gejagt](https://www.spiegel.de/wissenschaft/natur/schuppentier-als-nahrung-pangoline-werden-in-nigeria-offenbar-gar-nicht-wegen-ihrer-schuppen-gejagt-a-488788b1-d856-41f1-a656-7f9b4e45305a#ref=rss)
+### gejagt
+
+* [https://www.spiegel.de/wissenschaft/natur/schuppentier-als-nahrung-pangoline-werden-in-nigeria-offenbar-gar-nicht-wegen-ihrer-schuppen-gejagt](https://www.spiegel.de/wissenschaft/natur/schuppentier-als-nahrung-pangoline-werden-in-nigeria-offenbar-gar-nicht-wegen-ihrer-schuppen-gejagt-a-488788b1-d856-41f1-a656-7f9b4e45305a#ref=rss)
+### bisher
+
+* [https://www.spiegel.de/wissenschaft/natur/schuppentier-als-nahrung-pangoline-werden-in-nigeria-offenbar-gar-nicht-wegen-ihrer-schuppen-gejagt](https://www.spiegel.de/wissenschaft/natur/schuppentier-als-nahrung-pangoline-werden-in-nigeria-offenbar-gar-nicht-wegen-ihrer-schuppen-gejagt-a-488788b1-d856-41f1-a656-7f9b4e45305a#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-konflikt-israel-greift-ziele-in-iran-an-teheran-droht-mit-vergeltung](https://www.spiegel.de/ausland/israel-iran-konflikt-israel-greift-ziele-in-iran-an-teheran-droht-mit-vergeltung-a-f997b77d-1409-4fd0-9f4a-c10d0c876eee#ref=rss)
+### bombendrohung
+
+* [https://www.spiegel.de/panorama/thailand-air-india-maschine-muss-wegen-bombendrohung-auf-phuket-notlanden](https://www.spiegel.de/panorama/thailand-air-india-maschine-muss-wegen-bombendrohung-auf-phuket-notlanden-a-22937b89-7c8b-40f9-8f12-57c4d64c8911#ref=rss)
+### phuket
+
+* [https://www.spiegel.de/panorama/thailand-air-india-maschine-muss-wegen-bombendrohung-auf-phuket-notlanden](https://www.spiegel.de/panorama/thailand-air-india-maschine-muss-wegen-bombendrohung-auf-phuket-notlanden-a-22937b89-7c8b-40f9-8f12-57c4d64c8911#ref=rss)
+### bord
+
+* [https://www.spiegel.de/panorama/thailand-air-india-maschine-muss-wegen-bombendrohung-auf-phuket-notlanden](https://www.spiegel.de/panorama/thailand-air-india-maschine-muss-wegen-bombendrohung-auf-phuket-notlanden-a-22937b89-7c8b-40f9-8f12-57c4d64c8911#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/panorama/thailand-air-india-maschine-muss-wegen-bombendrohung-auf-phuket-notlanden](https://www.spiegel.de/panorama/thailand-air-india-maschine-muss-wegen-bombendrohung-auf-phuket-notlanden-a-22937b89-7c8b-40f9-8f12-57c4d64c8911#ref=rss)
+* [https://www.spiegel.de/auto/deutsche-bahn-verzeichnet-zuwachs-bei-langstrecken-berlin-krakau-am-beliebtesten](https://www.spiegel.de/auto/deutsche-bahn-verzeichnet-zuwachs-bei-langstrecken-berlin-krakau-am-beliebtesten-a-e3828715-1674-45b2-a3e1-cc01fff373b7#ref=rss)
+### brocken
+
+* [https://www.spiegel.de/wirtschaft/brocken-landkreis-harz-kauft-brockenkuppe](https://www.spiegel.de/wirtschaft/brocken-landkreis-harz-kauft-brockenkuppe-a-b0480513-4fa1-4bc3-bd0f-cb6c38f126e0#ref=rss)
+### landkreis
+
+* [https://www.spiegel.de/wirtschaft/brocken-landkreis-harz-kauft-brockenkuppe](https://www.spiegel.de/wirtschaft/brocken-landkreis-harz-kauft-brockenkuppe-a-b0480513-4fa1-4bc3-bd0f-cb6c38f126e0#ref=rss)
+### harz
+
+* [https://www.spiegel.de/wirtschaft/brocken-landkreis-harz-kauft-brockenkuppe](https://www.spiegel.de/wirtschaft/brocken-landkreis-harz-kauft-brockenkuppe-a-b0480513-4fa1-4bc3-bd0f-cb6c38f126e0#ref=rss)
+### gehört
+
+* [https://www.spiegel.de/wirtschaft/brocken-landkreis-harz-kauft-brockenkuppe](https://www.spiegel.de/wirtschaft/brocken-landkreis-harz-kauft-brockenkuppe-a-b0480513-4fa1-4bc3-bd0f-cb6c38f126e0#ref=rss)
+* [https://www.spiegel.de/sport/radprofi-florian-lipowitz-er-wollte-biathlet-werden-und-wurde-ein-weltklasse-radsportler](https://www.spiegel.de/sport/radprofi-florian-lipowitz-er-wollte-biathlet-werden-und-wurde-ein-weltklasse-radsportler-a-a274a41d-bff5-45ef-bee7-acba298d1747#ref=rss)
+### belém
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/brasilien-will-vor-klimakonferenz-in-belem-seine-oel-foerderung-ausweiten](https://www.spiegel.de/wirtschaft/unternehmen/brasilien-will-vor-klimakonferenz-in-belem-seine-oel-foerderung-ausweiten-a-e21c4487-766a-4161-9afd-f4d85d9b2f05#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/auto/deutsche-bahn-verzeichnet-zuwachs-bei-langstrecken-berlin-krakau-am-beliebtesten](https://www.spiegel.de/auto/deutsche-bahn-verzeichnet-zuwachs-bei-langstrecken-berlin-krakau-am-beliebtesten-a-e3828715-1674-45b2-a3e1-cc01fff373b7#ref=rss)
+### bahn
+
+* [https://www.spiegel.de/auto/deutsche-bahn-verzeichnet-zuwachs-bei-langstrecken-berlin-krakau-am-beliebtesten](https://www.spiegel.de/auto/deutsche-bahn-verzeichnet-zuwachs-bei-langstrecken-berlin-krakau-am-beliebtesten-a-e3828715-1674-45b2-a3e1-cc01fff373b7#ref=rss)
+### langstrecken
+
+* [https://www.spiegel.de/auto/deutsche-bahn-verzeichnet-zuwachs-bei-langstrecken-berlin-krakau-am-beliebtesten](https://www.spiegel.de/auto/deutsche-bahn-verzeichnet-zuwachs-bei-langstrecken-berlin-krakau-am-beliebtesten-a-e3828715-1674-45b2-a3e1-cc01fff373b7#ref=rss)
+### florian
+
+* [https://www.spiegel.de/sport/radprofi-florian-lipowitz-er-wollte-biathlet-werden-und-wurde-ein-weltklasse-radsportler](https://www.spiegel.de/sport/radprofi-florian-lipowitz-er-wollte-biathlet-werden-und-wurde-ein-weltklasse-radsportler-a-a274a41d-bff5-45ef-bee7-acba298d1747#ref=rss)
+### lipowitz
+
+* [https://www.spiegel.de/sport/radprofi-florian-lipowitz-er-wollte-biathlet-werden-und-wurde-ein-weltklasse-radsportler](https://www.spiegel.de/sport/radprofi-florian-lipowitz-er-wollte-biathlet-werden-und-wurde-ein-weltklasse-radsportler-a-a274a41d-bff5-45ef-bee7-acba298d1747#ref=rss)
+### leipzig
+
+* [https://www.spiegel.de/panorama/leipzig-magnetangler-fischen-phosphorbombe-aus-fluss](https://www.spiegel.de/panorama/leipzig-magnetangler-fischen-phosphorbombe-aus-fluss-a-ff528f9a-097d-42ae-bdaf-47bb467088b6#ref=rss)
+### phosphorbombe
+
+* [https://www.spiegel.de/panorama/leipzig-magnetangler-fischen-phosphorbombe-aus-fluss](https://www.spiegel.de/panorama/leipzig-magnetangler-fischen-phosphorbombe-aus-fluss-a-ff528f9a-097d-42ae-bdaf-47bb467088b6#ref=rss)
 
