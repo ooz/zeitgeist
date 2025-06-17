@@ -4,308 +4,393 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### mehr
-
-* [https://www.spiegel.de/wissenschaft/natur/duerre-bericht-der-oecd-wasser-ist-keine-selbstverstaendlichkeit-mehr](https://www.spiegel.de/wissenschaft/natur/duerre-bericht-der-oecd-wasser-ist-keine-selbstverstaendlichkeit-mehr-a-1c9ab3d0-0239-4561-8fe8-f3ba28fb12cb#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/schweiz-brienz-wegen-bergsturz-gefahr-komplett-geperrt](https://www.spiegel.de/wissenschaft/natur/schweiz-brienz-wegen-bergsturz-gefahr-komplett-geperrt-a-3054cf8c-638b-4bc0-be2b-c50c5d145d34#ref=rss)
-* [https://www.spiegel.de/kultur/studie-zur-mediennutzung-mehr-als-zwei-drittel-meiden-nachrichten](https://www.spiegel.de/kultur/studie-zur-mediennutzung-mehr-als-zwei-drittel-meiden-nachrichten-a-86e33042-2193-4abc-9fac-32c856da8712#ref=rss)
-* [https://www.spiegel.de/wirtschaft/oeffentlicher-dienst-zahl-der-staatsdiener-steigt-auf-5-4-millionen](https://www.spiegel.de/wirtschaft/oeffentlicher-dienst-zahl-der-staatsdiener-steigt-auf-5-4-millionen-a-b8313d48-c0cb-4c52-b314-87704ac2200e#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wissenschaft/natur/duerre-bericht-der-oecd-wasser-ist-keine-selbstverstaendlichkeit-mehr](https://www.spiegel.de/wissenschaft/natur/duerre-bericht-der-oecd-wasser-ist-keine-selbstverstaendlichkeit-mehr-a-1c9ab3d0-0239-4561-8fe8-f3ba28fb12cb#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/deutschland-uebergriffe-und-diskriminierung-gegen-muslime-auf-hoechststand](https://www.spiegel.de/panorama/justiz/deutschland-uebergriffe-und-diskriminierung-gegen-muslime-auf-hoechststand-a-54c79875-0b64-4a65-8881-40b2c1faab44#ref=rss)
-* [https://www.spiegel.de/kultur/studie-zur-mediennutzung-mehr-als-zwei-drittel-meiden-nachrichten](https://www.spiegel.de/kultur/studie-zur-mediennutzung-mehr-als-zwei-drittel-meiden-nachrichten-a-86e33042-2193-4abc-9fac-32c856da8712#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/social-media-deutschland-braucht-endlich-einen-jugendschutz-fuer-soziale-medien](https://www.spiegel.de/panorama/gesellschaft/social-media-deutschland-braucht-endlich-einen-jugendschutz-fuer-soziale-medien-a-742e816b-6678-4648-abcf-f3ead1ff0ab8#ref=rss)
-* [https://www.spiegel.de/geschichte/bundeswehr-wehrpflicht-debatte-was-sie-ueber-die-geschichte-der-wehrpflicht-wissen-sollten](https://www.spiegel.de/geschichte/bundeswehr-wehrpflicht-debatte-was-sie-ueber-die-geschichte-der-wehrpflicht-wissen-sollten-a-5c5a3bbf-214f-43fb-8e31-151ac68bef7b#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/wissenschaft/natur/duerre-bericht-der-oecd-wasser-ist-keine-selbstverstaendlichkeit-mehr](https://www.spiegel.de/wissenschaft/natur/duerre-bericht-der-oecd-wasser-ist-keine-selbstverstaendlichkeit-mehr-a-1c9ab3d0-0239-4561-8fe8-f3ba28fb12cb#ref=rss)
-* [https://www.spiegel.de/panorama/china-mindestens-neun-menschen-sterben-bei-explosion-in-feuerwerksfabrik](https://www.spiegel.de/panorama/china-mindestens-neun-menschen-sterben-bei-explosion-in-feuerwerksfabrik-a-950b0186-ee66-4131-81a0-a857ec3e979d#ref=rss)
-* [https://www.spiegel.de/kultur/studie-zur-mediennutzung-mehr-als-zwei-drittel-meiden-nachrichten](https://www.spiegel.de/kultur/studie-zur-mediennutzung-mehr-als-zwei-drittel-meiden-nachrichten-a-86e33042-2193-4abc-9fac-32c856da8712#ref=rss)
-* [https://www.spiegel.de/wirtschaft/oeffentlicher-dienst-zahl-der-staatsdiener-steigt-auf-5-4-millionen](https://www.spiegel.de/wirtschaft/oeffentlicher-dienst-zahl-der-staatsdiener-steigt-auf-5-4-millionen-a-b8313d48-c0cb-4c52-b314-87704ac2200e#ref=rss)
-### gefängnis
-
-* [https://www.spiegel.de/panorama/justiz/bielefeld-haeftling-nach-ausbruch-aus-gefaengnis-auf-der-flucht](https://www.spiegel.de/panorama/justiz/bielefeld-haeftling-nach-ausbruch-aus-gefaengnis-auf-der-flucht-a-3c76c02c-5345-4da6-bdc1-4ebd53f8c36f#ref=rss)
-* [https://www.spiegel.de/ausland/usa-frueherer-senator-robert-menendez-tritt-langjaehrige-haft-wegen-bestechung-an](https://www.spiegel.de/ausland/usa-frueherer-senator-robert-menendez-tritt-langjaehrige-haft-wegen-bestechung-an-a-fd10cc7a-8573-4a8e-926f-6679abd8d714#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/justiz/bielefeld-haeftling-nach-ausbruch-aus-gefaengnis-auf-der-flucht](https://www.spiegel.de/panorama/justiz/bielefeld-haeftling-nach-ausbruch-aus-gefaengnis-auf-der-flucht-a-3c76c02c-5345-4da6-bdc1-4ebd53f8c36f#ref=rss)
-* [https://www.spiegel.de/panorama/rom-80-jaehriger-faehrt-mit-auto-die-spanische-treppe-hinunter](https://www.spiegel.de/panorama/rom-80-jaehriger-faehrt-mit-auto-die-spanische-treppe-hinunter-a-de7aefbe-3e02-4863-bc3e-c1d1aeff22a6#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-unbekannte-zuenden-36-transporter-von-amazon-und-der-telekom-an](https://www.spiegel.de/panorama/justiz/berlin-unbekannte-zuenden-36-transporter-von-amazon-und-der-telekom-an-a-470c6f99-da73-4d55-8f60-414622c77b60#ref=rss)
-### wasser
-
-* [https://www.spiegel.de/wissenschaft/natur/duerre-bericht-der-oecd-wasser-ist-keine-selbstverstaendlichkeit-mehr](https://www.spiegel.de/wissenschaft/natur/duerre-bericht-der-oecd-wasser-ist-keine-selbstverstaendlichkeit-mehr-a-1c9ab3d0-0239-4561-8fe8-f3ba28fb12cb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/energie-wasser-personal-freibaeder-verlangen-hoehere-eintrittspreise](https://www.spiegel.de/wirtschaft/energie-wasser-personal-freibaeder-verlangen-hoehere-eintrittspreise-a-60a1d9bb-4654-4003-ac64-7a20f2f21ef9#ref=rss)
 ### iran
 
-* [https://www.spiegel.de/ausland/israel-vs-iran-bei-einem-kriegseintritt-der-usa-haette-das-regime-ganz-schlechte-karten](https://www.spiegel.de/ausland/israel-vs-iran-bei-einem-kriegseintritt-der-usa-haette-das-regime-ganz-schlechte-karten-a-271bd368-894f-4d8c-a7c9-a799a46e97f8#ref=rss)
-* [https://www.spiegel.de/ausland/israel-iran-news-israelische-armee-will-iranischen-generalstabschef-getoetet-haben](https://www.spiegel.de/ausland/israel-iran-news-israelische-armee-will-iranischen-generalstabschef-getoetet-haben-a-24e7a5eb-7ec0-4adc-81ea-8bb0f4a21af1#ref=rss)
-* [https://www.spiegel.de/ausland/israels-krieg-gegen-den-iran-die-golfstaaten-zwischen-den-stuehlen](https://www.spiegel.de/ausland/israels-krieg-gegen-den-iran-die-golfstaaten-zwischen-den-stuehlen-a-cb45d56a-11ad-450d-aba4-5118347241ba#ref=rss)
-### irans
-
-* [https://www.spiegel.de/ausland/israel-vs-iran-bei-einem-kriegseintritt-der-usa-haette-das-regime-ganz-schlechte-karten](https://www.spiegel.de/ausland/israel-vs-iran-bei-einem-kriegseintritt-der-usa-haette-das-regime-ganz-schlechte-karten-a-271bd368-894f-4d8c-a7c9-a799a46e97f8#ref=rss)
-* [https://www.spiegel.de/ausland/israel-iran-news-israelische-armee-will-iranischen-generalstabschef-getoetet-haben](https://www.spiegel.de/ausland/israel-iran-news-israelische-armee-will-iranischen-generalstabschef-getoetet-haben-a-24e7a5eb-7ec0-4adc-81ea-8bb0f4a21af1#ref=rss)
-* [https://www.spiegel.de/ausland/israels-krieg-gegen-den-iran-die-golfstaaten-zwischen-den-stuehlen](https://www.spiegel.de/ausland/israels-krieg-gegen-den-iran-die-golfstaaten-zwischen-den-stuehlen-a-cb45d56a-11ad-450d-aba4-5118347241ba#ref=rss)
-### alle
-
-* [https://www.spiegel.de/panorama/rom-80-jaehriger-faehrt-mit-auto-die-spanische-treppe-hinunter](https://www.spiegel.de/panorama/rom-80-jaehriger-faehrt-mit-auto-die-spanische-treppe-hinunter-a-de7aefbe-3e02-4863-bc3e-c1d1aeff22a6#ref=rss)
-* [https://www.spiegel.de/ausland/israel-iran-news-israelische-armee-will-iranischen-generalstabschef-getoetet-haben](https://www.spiegel.de/ausland/israel-iran-news-israelische-armee-will-iranischen-generalstabschef-getoetet-haben-a-24e7a5eb-7ec0-4adc-81ea-8bb0f4a21af1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/energie-wasser-personal-freibaeder-verlangen-hoehere-eintrittspreise](https://www.spiegel.de/wirtschaft/energie-wasser-personal-freibaeder-verlangen-hoehere-eintrittspreise-a-60a1d9bb-4654-4003-ac64-7a20f2f21ef9#ref=rss)
-### mindestens
-
-* [https://www.spiegel.de/panorama/china-mindestens-neun-menschen-sterben-bei-explosion-in-feuerwerksfabrik](https://www.spiegel.de/panorama/china-mindestens-neun-menschen-sterben-bei-explosion-in-feuerwerksfabrik-a-950b0186-ee66-4131-81a0-a857ec3e979d#ref=rss)
-* [https://www.spiegel.de/ausland/gazastreifen-behoerde-meldet-dutzende-tote-nach-israelischem-beschuss](https://www.spiegel.de/ausland/gazastreifen-behoerde-meldet-dutzende-tote-nach-israelischem-beschuss-a-db613d1d-c9f3-4b55-88aa-b0cf78465a2b#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/panorama/china-mindestens-neun-menschen-sterben-bei-explosion-in-feuerwerksfabrik](https://www.spiegel.de/panorama/china-mindestens-neun-menschen-sterben-bei-explosion-in-feuerwerksfabrik-a-950b0186-ee66-4131-81a0-a857ec3e979d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-unbekannte-zuenden-36-transporter-von-amazon-und-der-telekom-an](https://www.spiegel.de/panorama/justiz/berlin-unbekannte-zuenden-36-transporter-von-amazon-und-der-telekom-an-a-470c6f99-da73-4d55-8f60-414622c77b60#ref=rss)
-* [https://www.spiegel.de/wirtschaft/oeffentlicher-dienst-zahl-der-staatsdiener-steigt-auf-5-4-millionen](https://www.spiegel.de/wirtschaft/oeffentlicher-dienst-zahl-der-staatsdiener-steigt-auf-5-4-millionen-a-b8313d48-c0cb-4c52-b314-87704ac2200e#ref=rss)
-### israels
-
-* [https://www.spiegel.de/ausland/israel-iran-news-israelische-armee-will-iranischen-generalstabschef-getoetet-haben](https://www.spiegel.de/ausland/israel-iran-news-israelische-armee-will-iranischen-generalstabschef-getoetet-haben-a-24e7a5eb-7ec0-4adc-81ea-8bb0f4a21af1#ref=rss)
-* [https://www.spiegel.de/ausland/israels-krieg-gegen-den-iran-die-golfstaaten-zwischen-den-stuehlen](https://www.spiegel.de/ausland/israels-krieg-gegen-den-iran-die-golfstaaten-zwischen-den-stuehlen-a-cb45d56a-11ad-450d-aba4-5118347241ba#ref=rss)
-### frankfurt
-
-* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-43-jaehriger-wegen-vergewaltigung-und-gefaehrdung-angeklagt](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-43-jaehriger-wegen-vergewaltigung-und-gefaehrdung-angeklagt-a-d3563d95-e0cb-4ed7-9c84-25fdcbd07b4c#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-43-jaehriger-wegen-vergewaltigung-und-gefaehrdung-angeklagt](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-43-jaehriger-wegen-vergewaltigung-und-gefaehrdung-angeklagt-a-d3563d95-e0cb-4ed7-9c84-25fdcbd07b4c#ref=rss)
-* [https://www.spiegel.de/sport/marathon-nina-kuscsik-pionierin-des-laufsports-verstorben](https://www.spiegel.de/sport/marathon-nina-kuscsik-pionierin-des-laufsports-verstorben-a-6ace6466-ef27-4d92-9e33-b89188943cbb#ref=rss)
-### welt
-
-* [https://www.spiegel.de/wissenschaft/technik/kuenstliche-intelligenz-in-der-kunst-die-schnellste-restaurierung-der-welt](https://www.spiegel.de/wissenschaft/technik/kuenstliche-intelligenz-in-der-kunst-die-schnellste-restaurierung-der-welt-a-ed0b3a64-4157-400d-aaa8-91c0e486e254#ref=rss)
-* [https://www.spiegel.de/kultur/studie-zur-mediennutzung-mehr-als-zwei-drittel-meiden-nachrichten](https://www.spiegel.de/kultur/studie-zur-mediennutzung-mehr-als-zwei-drittel-meiden-nachrichten-a-86e33042-2193-4abc-9fac-32c856da8712#ref=rss)
-### dauern
-
-* [https://www.spiegel.de/wissenschaft/technik/kuenstliche-intelligenz-in-der-kunst-die-schnellste-restaurierung-der-welt](https://www.spiegel.de/wissenschaft/technik/kuenstliche-intelligenz-in-der-kunst-die-schnellste-restaurierung-der-welt-a-ed0b3a64-4157-400d-aaa8-91c0e486e254#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/margot-friedlaender-hamburg-plant-strasse-zu-ehren-der-holocaustueberlebenden](https://www.spiegel.de/panorama/justiz/margot-friedlaender-hamburg-plant-strasse-zu-ehren-der-holocaustueberlebenden-a-e58a574b-ae1b-4713-90dd-501574bdd7c3#ref=rss)
-### ingenieur
-
-* [https://www.spiegel.de/wissenschaft/technik/kuenstliche-intelligenz-in-der-kunst-die-schnellste-restaurierung-der-welt](https://www.spiegel.de/wissenschaft/technik/kuenstliche-intelligenz-in-der-kunst-die-schnellste-restaurierung-der-welt-a-ed0b3a64-4157-400d-aaa8-91c0e486e254#ref=rss)
-* [https://www.spiegel.de/karriere/bewerbungsgespraeche-entwuerdigende-erfahrungen-von-bewerbern-mit-behinderung](https://www.spiegel.de/karriere/bewerbungsgespraeche-entwuerdigende-erfahrungen-von-bewerbern-mit-behinderung-a-768019f5-941c-437d-8c9e-0dfc1b4978b3#ref=rss)
-### bielefeld
-
-* [https://www.spiegel.de/panorama/justiz/bielefeld-haeftling-nach-ausbruch-aus-gefaengnis-auf-der-flucht](https://www.spiegel.de/panorama/justiz/bielefeld-haeftling-nach-ausbruch-aus-gefaengnis-auf-der-flucht-a-3c76c02c-5345-4da6-bdc1-4ebd53f8c36f#ref=rss)
-### verlassen
-
-* [https://www.spiegel.de/wissenschaft/natur/duerre-bericht-der-oecd-wasser-ist-keine-selbstverstaendlichkeit-mehr](https://www.spiegel.de/wissenschaft/natur/duerre-bericht-der-oecd-wasser-ist-keine-selbstverstaendlichkeit-mehr-a-1c9ab3d0-0239-4561-8fe8-f3ba28fb12cb#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/schweiz-brienz-wegen-bergsturz-gefahr-komplett-geperrt](https://www.spiegel.de/wissenschaft/natur/schweiz-brienz-wegen-bergsturz-gefahr-komplett-geperrt-a-3054cf8c-638b-4bc0-be2b-c50c5d145d34#ref=rss)
-### experten
-
-* [https://www.spiegel.de/wissenschaft/natur/duerre-bericht-der-oecd-wasser-ist-keine-selbstverstaendlichkeit-mehr](https://www.spiegel.de/wissenschaft/natur/duerre-bericht-der-oecd-wasser-ist-keine-selbstverstaendlichkeit-mehr-a-1c9ab3d0-0239-4561-8fe8-f3ba28fb12cb#ref=rss)
-* [https://www.spiegel.de/panorama/leute/papst-leo-xiv-ist-entfernt-mit-madonna-verwandt](https://www.spiegel.de/panorama/leute/papst-leo-xiv-ist-entfernt-mit-madonna-verwandt-a-32c15ba2-f690-44f8-85b8-42b4e6ca3919#ref=rss)
-### brienz
-
-* [https://www.spiegel.de/wissenschaft/natur/schweiz-brienz-wegen-bergsturz-gefahr-komplett-geperrt](https://www.spiegel.de/wissenschaft/natur/schweiz-brienz-wegen-bergsturz-gefahr-komplett-geperrt-a-3054cf8c-638b-4bc0-be2b-c50c5d145d34#ref=rss)
-### diskriminierung
-
-* [https://www.spiegel.de/panorama/justiz/deutschland-uebergriffe-und-diskriminierung-gegen-muslime-auf-hoechststand](https://www.spiegel.de/panorama/justiz/deutschland-uebergriffe-und-diskriminierung-gegen-muslime-auf-hoechststand-a-54c79875-0b64-4a65-8881-40b2c1faab44#ref=rss)
-### muslime
-
-* [https://www.spiegel.de/panorama/justiz/deutschland-uebergriffe-und-diskriminierung-gegen-muslime-auf-hoechststand](https://www.spiegel.de/panorama/justiz/deutschland-uebergriffe-und-diskriminierung-gegen-muslime-auf-hoechststand-a-54c79875-0b64-4a65-8881-40b2c1faab44#ref=rss)
-### pro
-
-* [https://www.spiegel.de/panorama/justiz/deutschland-uebergriffe-und-diskriminierung-gegen-muslime-auf-hoechststand](https://www.spiegel.de/panorama/justiz/deutschland-uebergriffe-und-diskriminierung-gegen-muslime-auf-hoechststand-a-54c79875-0b64-4a65-8881-40b2c1faab44#ref=rss)
-* [https://www.spiegel.de/geschichte/bundeswehr-wehrpflicht-debatte-was-sie-ueber-die-geschichte-der-wehrpflicht-wissen-sollten](https://www.spiegel.de/geschichte/bundeswehr-wehrpflicht-debatte-was-sie-ueber-die-geschichte-der-wehrpflicht-wissen-sollten-a-5c5a3bbf-214f-43fb-8e31-151ac68bef7b#ref=rss)
-### tag
-
-* [https://www.spiegel.de/panorama/justiz/deutschland-uebergriffe-und-diskriminierung-gegen-muslime-auf-hoechststand](https://www.spiegel.de/panorama/justiz/deutschland-uebergriffe-und-diskriminierung-gegen-muslime-auf-hoechststand-a-54c79875-0b64-4a65-8881-40b2c1faab44#ref=rss)
-* [https://www.spiegel.de/wirtschaft/rene-benko-inventar-aus-der-luxusvilla-am-gardasee-steht-zum-verkauf](https://www.spiegel.de/wirtschaft/rene-benko-inventar-aus-der-luxusvilla-am-gardasee-steht-zum-verkauf-a-07f82451-a801-4be9-b6f6-d0289b058c12#ref=rss)
+* [https://www.spiegel.de/ausland/friedrich-merz-ueber-angriff-auf-iran-das-ist-die-drecksarbeit-die-israel-macht-fuer-uns-alle](https://www.spiegel.de/ausland/friedrich-merz-ueber-angriff-auf-iran-das-ist-die-drecksarbeit-die-israel-macht-fuer-uns-alle-a-71944925-bffa-4ce9-beba-75f48107ce1e#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-krieg-netanyahu-und-die-mission-zur-verhinderung-der-atombombe-podcast](https://www.spiegel.de/ausland/israel-iran-krieg-netanyahu-und-die-mission-zur-verhinderung-der-atombombe-podcast-a-61474deb-2d92-485b-9b49-2530c233b8c9#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-krieg-es-geht-ihm-nicht-nur-um-die-atombombe-podcast](https://www.spiegel.de/ausland/israel-iran-krieg-es-geht-ihm-nicht-nur-um-die-atombombe-podcast-a-84fc4d62-388d-4fe0-8f7f-d88bddf117bb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/krieg-in-nahost-gruene-eu-fraktionschefin-fordert-massnahmen-gegen-israel](https://www.spiegel.de/politik/deutschland/krieg-in-nahost-gruene-eu-fraktionschefin-fordert-massnahmen-gegen-israel-a-8452a633-fccb-4b55-a60a-739c789b759f#ref=rss)
+* [https://www.spiegel.de/ausland/israel-vs-iran-donald-trump-schickt-streitkraefte-in-den-nahen-osten-was-koennen-die](https://www.spiegel.de/ausland/israel-vs-iran-donald-trump-schickt-streitkraefte-in-den-nahen-osten-was-koennen-die-a-a84e0f71-2fc5-42cd-b7e4-c4b2357a082d#ref=rss)
 ### israel
 
-* [https://www.spiegel.de/ausland/israel-vs-iran-bei-einem-kriegseintritt-der-usa-haette-das-regime-ganz-schlechte-karten](https://www.spiegel.de/ausland/israel-vs-iran-bei-einem-kriegseintritt-der-usa-haette-das-regime-ganz-schlechte-karten-a-271bd368-894f-4d8c-a7c9-a799a46e97f8#ref=rss)
-### usa
+* [https://www.spiegel.de/ausland/friedrich-merz-ueber-angriff-auf-iran-das-ist-die-drecksarbeit-die-israel-macht-fuer-uns-alle](https://www.spiegel.de/ausland/friedrich-merz-ueber-angriff-auf-iran-das-ist-die-drecksarbeit-die-israel-macht-fuer-uns-alle-a-71944925-bffa-4ce9-beba-75f48107ce1e#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-krieg-netanyahu-und-die-mission-zur-verhinderung-der-atombombe-podcast](https://www.spiegel.de/ausland/israel-iran-krieg-netanyahu-und-die-mission-zur-verhinderung-der-atombombe-podcast-a-61474deb-2d92-485b-9b49-2530c233b8c9#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-krieg-es-geht-ihm-nicht-nur-um-die-atombombe-podcast](https://www.spiegel.de/ausland/israel-iran-krieg-es-geht-ihm-nicht-nur-um-die-atombombe-podcast-a-84fc4d62-388d-4fe0-8f7f-d88bddf117bb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/krieg-in-nahost-gruene-eu-fraktionschefin-fordert-massnahmen-gegen-israel](https://www.spiegel.de/politik/deutschland/krieg-in-nahost-gruene-eu-fraktionschefin-fordert-massnahmen-gegen-israel-a-8452a633-fccb-4b55-a60a-739c789b759f#ref=rss)
+* [https://www.spiegel.de/ausland/israel-vs-iran-donald-trump-schickt-streitkraefte-in-den-nahen-osten-was-koennen-die](https://www.spiegel.de/ausland/israel-vs-iran-donald-trump-schickt-streitkraefte-in-den-nahen-osten-was-koennen-die-a-a84e0f71-2fc5-42cd-b7e4-c4b2357a082d#ref=rss)
+### donald
 
-* [https://www.spiegel.de/ausland/israel-vs-iran-bei-einem-kriegseintritt-der-usa-haette-das-regime-ganz-schlechte-karten](https://www.spiegel.de/ausland/israel-vs-iran-bei-einem-kriegseintritt-der-usa-haette-das-regime-ganz-schlechte-karten-a-271bd368-894f-4d8c-a7c9-a799a46e97f8#ref=rss)
-* [https://www.spiegel.de/ausland/usa-frueherer-senator-robert-menendez-tritt-langjaehrige-haft-wegen-bestechung-an](https://www.spiegel.de/ausland/usa-frueherer-senator-robert-menendez-tritt-langjaehrige-haft-wegen-bestechung-an-a-fd10cc7a-8573-4a8e-926f-6679abd8d714#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/donald-trump-wie-das-goldfarbene-smartphone-apple-aergern-koennte](https://www.spiegel.de/netzwelt/gadgets/donald-trump-wie-das-goldfarbene-smartphone-apple-aergern-koennte-a-faefd6e3-6054-435c-addf-07ade14c7729#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-krieg-in-nahost-us-militaermacht-rene-benkos-luxusvilla](https://www.spiegel.de/politik/deutschland/news-des-tages-krieg-in-nahost-us-militaermacht-rene-benkos-luxusvilla-a-56e3f187-1ff2-4d82-9673-3d33b121d260#ref=rss)
+* [https://www.spiegel.de/wirtschaft/zoelle-von-donald-trump-in-washington-klingelt-die-zollkasse](https://www.spiegel.de/wirtschaft/zoelle-von-donald-trump-in-washington-klingelt-die-zollkasse-a-1d0374a4-df55-4f9d-bb41-75fadda3d626#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-news-israelische-armee-will-iranischen-generalstabschef-getoetet-haben](https://www.spiegel.de/ausland/israel-iran-news-israelische-armee-will-iranischen-generalstabschef-getoetet-haben-a-24e7a5eb-7ec0-4adc-81ea-8bb0f4a21af1#ref=rss)
+* [https://www.spiegel.de/kultur/friedrich-merz-bei-g7-gipfel-in-kanada-der-schmerzenslaechler](https://www.spiegel.de/kultur/friedrich-merz-bei-g7-gipfel-in-kanada-der-schmerzenslaechler-a-f418dc35-3a67-42a9-b259-3844b4e99bc8#ref=rss)
+* [https://www.spiegel.de/ausland/israel-vs-iran-donald-trump-schickt-streitkraefte-in-den-nahen-osten-was-koennen-die](https://www.spiegel.de/ausland/israel-vs-iran-donald-trump-schickt-streitkraefte-in-den-nahen-osten-was-koennen-die-a-a84e0f71-2fc5-42cd-b7e4-c4b2357a082d#ref=rss)
+### trump
+
+* [https://www.spiegel.de/netzwelt/gadgets/donald-trump-wie-das-goldfarbene-smartphone-apple-aergern-koennte](https://www.spiegel.de/netzwelt/gadgets/donald-trump-wie-das-goldfarbene-smartphone-apple-aergern-koennte-a-faefd6e3-6054-435c-addf-07ade14c7729#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-krieg-in-nahost-us-militaermacht-rene-benkos-luxusvilla](https://www.spiegel.de/politik/deutschland/news-des-tages-krieg-in-nahost-us-militaermacht-rene-benkos-luxusvilla-a-56e3f187-1ff2-4d82-9673-3d33b121d260#ref=rss)
+* [https://www.spiegel.de/wirtschaft/zoelle-von-donald-trump-in-washington-klingelt-die-zollkasse](https://www.spiegel.de/wirtschaft/zoelle-von-donald-trump-in-washington-klingelt-die-zollkasse-a-1d0374a4-df55-4f9d-bb41-75fadda3d626#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-news-israelische-armee-will-iranischen-generalstabschef-getoetet-haben](https://www.spiegel.de/ausland/israel-iran-news-israelische-armee-will-iranischen-generalstabschef-getoetet-haben-a-24e7a5eb-7ec0-4adc-81ea-8bb0f4a21af1#ref=rss)
+* [https://www.spiegel.de/kultur/friedrich-merz-bei-g7-gipfel-in-kanada-der-schmerzenslaechler](https://www.spiegel.de/kultur/friedrich-merz-bei-g7-gipfel-in-kanada-der-schmerzenslaechler-a-f418dc35-3a67-42a9-b259-3844b4e99bc8#ref=rss)
+* [https://www.spiegel.de/ausland/israel-vs-iran-donald-trump-schickt-streitkraefte-in-den-nahen-osten-was-koennen-die](https://www.spiegel.de/ausland/israel-vs-iran-donald-trump-schickt-streitkraefte-in-den-nahen-osten-was-koennen-die-a-a84e0f71-2fc5-42cd-b7e4-c4b2357a082d#ref=rss)
+### angriff
+
+* [https://www.spiegel.de/ausland/friedrich-merz-ueber-angriff-auf-iran-das-ist-die-drecksarbeit-die-israel-macht-fuer-uns-alle](https://www.spiegel.de/ausland/friedrich-merz-ueber-angriff-auf-iran-das-ist-die-drecksarbeit-die-israel-macht-fuer-uns-alle-a-71944925-bffa-4ce9-beba-75f48107ce1e#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-krieg-netanyahu-und-die-mission-zur-verhinderung-der-atombombe-podcast](https://www.spiegel.de/ausland/israel-iran-krieg-netanyahu-und-die-mission-zur-verhinderung-der-atombombe-podcast-a-61474deb-2d92-485b-9b49-2530c233b8c9#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-krieg-es-geht-ihm-nicht-nur-um-die-atombombe-podcast](https://www.spiegel.de/ausland/israel-iran-krieg-es-geht-ihm-nicht-nur-um-die-atombombe-podcast-a-84fc4d62-388d-4fe0-8f7f-d88bddf117bb#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-news-israelische-armee-will-iranischen-generalstabschef-getoetet-haben](https://www.spiegel.de/ausland/israel-iran-news-israelische-armee-will-iranischen-generalstabschef-getoetet-haben-a-24e7a5eb-7ec0-4adc-81ea-8bb0f4a21af1#ref=rss)
+* [https://www.spiegel.de/panorama/angriff-auf-spd-wahlkaempfer-glatze-springerstiefel-und-zecken-boxen](https://www.spiegel.de/panorama/angriff-auf-spd-wahlkaempfer-glatze-springerstiefel-und-zecken-boxen-a-b90615cd-f2c1-4077-89a5-213cf1e89a01#ref=rss)
+### erklärt
+
+* [https://www.spiegel.de/auto/fahrrad-klimatest-des-adfc-wir-sind-noch-lange-kein-fahrradland](https://www.spiegel.de/auto/fahrrad-klimatest-des-adfc-wir-sind-noch-lange-kein-fahrradland-a-273eb537-d53f-4972-81be-796047e52bdd#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/waterloo-university-in-kanada-schult-im-putzen-und-kochen-studierende-sind-froh-ueber-die-hilfe](https://www.spiegel.de/wissenschaft/mensch/waterloo-university-in-kanada-schult-im-putzen-und-kochen-studierende-sind-froh-ueber-die-hilfe-a-b799c457-6263-4e38-a71d-71fd1fc8c030#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-krieg-netanyahu-und-die-mission-zur-verhinderung-der-atombombe-podcast](https://www.spiegel.de/ausland/israel-iran-krieg-netanyahu-und-die-mission-zur-verhinderung-der-atombombe-podcast-a-61474deb-2d92-485b-9b49-2530c233b8c9#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-krieg-es-geht-ihm-nicht-nur-um-die-atombombe-podcast](https://www.spiegel.de/ausland/israel-iran-krieg-es-geht-ihm-nicht-nur-um-die-atombombe-podcast-a-84fc4d62-388d-4fe0-8f7f-d88bddf117bb#ref=rss)
+### merz
+
+* [https://www.spiegel.de/ausland/friedrich-merz-ueber-angriff-auf-iran-das-ist-die-drecksarbeit-die-israel-macht-fuer-uns-alle](https://www.spiegel.de/ausland/friedrich-merz-ueber-angriff-auf-iran-das-ist-die-drecksarbeit-die-israel-macht-fuer-uns-alle-a-71944925-bffa-4ce9-beba-75f48107ce1e#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-news-israelische-armee-will-iranischen-generalstabschef-getoetet-haben](https://www.spiegel.de/ausland/israel-iran-news-israelische-armee-will-iranischen-generalstabschef-getoetet-haben-a-24e7a5eb-7ec0-4adc-81ea-8bb0f4a21af1#ref=rss)
+* [https://www.spiegel.de/kultur/friedrich-merz-bei-g7-gipfel-in-kanada-der-schmerzenslaechler](https://www.spiegel.de/kultur/friedrich-merz-bei-g7-gipfel-in-kanada-der-schmerzenslaechler-a-f418dc35-3a67-42a9-b259-3844b4e99bc8#ref=rss)
+### teheran
+
+* [https://www.spiegel.de/ausland/friedrich-merz-ueber-angriff-auf-iran-das-ist-die-drecksarbeit-die-israel-macht-fuer-uns-alle](https://www.spiegel.de/ausland/friedrich-merz-ueber-angriff-auf-iran-das-ist-die-drecksarbeit-die-israel-macht-fuer-uns-alle-a-71944925-bffa-4ce9-beba-75f48107ce1e#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-krieg-warum-teheran-nun-doch-wieder-verhandeln-koennte](https://www.spiegel.de/ausland/israel-iran-krieg-warum-teheran-nun-doch-wieder-verhandeln-koennte-a-9f871e5f-8abe-41da-8e5e-2b90d33f8cc9#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-news-israelische-armee-will-iranischen-generalstabschef-getoetet-haben](https://www.spiegel.de/ausland/israel-iran-news-israelische-armee-will-iranischen-generalstabschef-getoetet-haben-a-24e7a5eb-7ec0-4adc-81ea-8bb0f4a21af1#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/kultur/musik/alfred-brendel-ist-tot-pianist-mit-94-jahren-gestorben](https://www.spiegel.de/kultur/musik/alfred-brendel-ist-tot-pianist-mit-94-jahren-gestorben-a-837dd978-fca9-43e1-bcbe-acdbc342ec1b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/schweden-muellkoenigin-fariba-vancor-zu-sechs-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/schweden-muellkoenigin-fariba-vancor-zu-sechs-jahren-haft-verurteilt-a-1fca903c-409d-4d5c-ad72-2c76d3280ab6#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/russland-diplomatin-der-eu-vertretung-in-wladiwostok-zusammengeschlagen-offenbar-russischer-inlandsgeheimdienst](https://www.spiegel.de/ausland/russland-diplomatin-der-eu-vertretung-in-wladiwostok-zusammengeschlagen-offenbar-russischer-inlandsgeheimdienst-a-87d292f9-dc45-4835-a32f-08d3be5eb697#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-nordkorea-entsendet-bausoldaten-nach-russland](https://www.spiegel.de/ausland/ukraine-krieg-nordkorea-entsendet-bausoldaten-nach-russland-a-897992c4-7d9c-4b94-86b8-2f89256db3b0#ref=rss)
+### nahost
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-krieg-in-nahost-us-militaermacht-rene-benkos-luxusvilla](https://www.spiegel.de/politik/deutschland/news-des-tages-krieg-in-nahost-us-militaermacht-rene-benkos-luxusvilla-a-56e3f187-1ff2-4d82-9673-3d33b121d260#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/krieg-in-nahost-gruene-eu-fraktionschefin-fordert-massnahmen-gegen-israel](https://www.spiegel.de/politik/deutschland/krieg-in-nahost-gruene-eu-fraktionschefin-fordert-massnahmen-gegen-israel-a-8452a633-fccb-4b55-a60a-739c789b759f#ref=rss)
+* [https://www.spiegel.de/kultur/musik/krieg-in-nahost-saenger-ralph-asfour-erlebt-raketenangriff-waehrend-auftritt](https://www.spiegel.de/kultur/musik/krieg-in-nahost-saenger-ralph-asfour-erlebt-raketenangriff-waehrend-auftritt-a-d312cdf1-fe94-4c3a-80b6-0c2778043c4d#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/panorama/rechtsextreme-in-pforzheim-homophobe-aussagen-und-bedrohungen-gegen-lgbtq-spiegel-tv](https://www.spiegel.de/panorama/rechtsextreme-in-pforzheim-homophobe-aussagen-und-bedrohungen-gegen-lgbtq-spiegel-tv-a-65a0f074-c23e-448d-8822-0ca087e0f487#ref=rss)
+* [https://www.spiegel.de/auto/auto-herstellung-pkw-sollen-kuenftig-mehr-recyclingmaterial-enthalten](https://www.spiegel.de/auto/auto-herstellung-pkw-sollen-kuenftig-mehr-recyclingmaterial-enthalten-a-acfec5d3-df82-45b3-af43-0b64cc94741a#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/ausland/friedrich-merz-ueber-angriff-auf-iran-das-ist-die-drecksarbeit-die-israel-macht-fuer-uns-alle](https://www.spiegel.de/ausland/friedrich-merz-ueber-angriff-auf-iran-das-ist-die-drecksarbeit-die-israel-macht-fuer-uns-alle-a-71944925-bffa-4ce9-beba-75f48107ce1e#ref=rss)
+* [https://www.spiegel.de/kultur/friedrich-merz-bei-g7-gipfel-in-kanada-der-schmerzenslaechler](https://www.spiegel.de/kultur/friedrich-merz-bei-g7-gipfel-in-kanada-der-schmerzenslaechler-a-f418dc35-3a67-42a9-b259-3844b4e99bc8#ref=rss)
+### g7gipfel
+
+* [https://www.spiegel.de/ausland/friedrich-merz-ueber-angriff-auf-iran-das-ist-die-drecksarbeit-die-israel-macht-fuer-uns-alle](https://www.spiegel.de/ausland/friedrich-merz-ueber-angriff-auf-iran-das-ist-die-drecksarbeit-die-israel-macht-fuer-uns-alle-a-71944925-bffa-4ce9-beba-75f48107ce1e#ref=rss)
+* [https://www.spiegel.de/kultur/friedrich-merz-bei-g7-gipfel-in-kanada-der-schmerzenslaechler](https://www.spiegel.de/kultur/friedrich-merz-bei-g7-gipfel-in-kanada-der-schmerzenslaechler-a-f418dc35-3a67-42a9-b259-3844b4e99bc8#ref=rss)
+### israelirankrieg
+
+* [https://www.spiegel.de/ausland/israel-iran-krieg-warum-teheran-nun-doch-wieder-verhandeln-koennte](https://www.spiegel.de/ausland/israel-iran-krieg-warum-teheran-nun-doch-wieder-verhandeln-koennte-a-9f871e5f-8abe-41da-8e5e-2b90d33f8cc9#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-krieg-netanyahu-und-die-mission-zur-verhinderung-der-atombombe-podcast](https://www.spiegel.de/ausland/israel-iran-krieg-netanyahu-und-die-mission-zur-verhinderung-der-atombombe-podcast-a-61474deb-2d92-485b-9b49-2530c233b8c9#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-krieg-es-geht-ihm-nicht-nur-um-die-atombombe-podcast](https://www.spiegel.de/ausland/israel-iran-krieg-es-geht-ihm-nicht-nur-um-die-atombombe-podcast-a-84fc4d62-388d-4fe0-8f7f-d88bddf117bb#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/ausland/russland-diplomatin-der-eu-vertretung-in-wladiwostok-zusammengeschlagen-offenbar-russischer-inlandsgeheimdienst](https://www.spiegel.de/ausland/russland-diplomatin-der-eu-vertretung-in-wladiwostok-zusammengeschlagen-offenbar-russischer-inlandsgeheimdienst-a-87d292f9-dc45-4835-a32f-08d3be5eb697#ref=rss)
+* [https://www.spiegel.de/panorama/angriff-auf-spd-wahlkaempfer-glatze-springerstiefel-und-zecken-boxen](https://www.spiegel.de/panorama/angriff-auf-spd-wahlkaempfer-glatze-springerstiefel-und-zecken-boxen-a-b90615cd-f2c1-4077-89a5-213cf1e89a01#ref=rss)
+### kanada
+
+* [https://www.spiegel.de/wissenschaft/mensch/waterloo-university-in-kanada-schult-im-putzen-und-kochen-studierende-sind-froh-ueber-die-hilfe](https://www.spiegel.de/wissenschaft/mensch/waterloo-university-in-kanada-schult-im-putzen-und-kochen-studierende-sind-froh-ueber-die-hilfe-a-b799c457-6263-4e38-a71d-71fd1fc8c030#ref=rss)
+* [https://www.spiegel.de/kultur/friedrich-merz-bei-g7-gipfel-in-kanada-der-schmerzenslaechler](https://www.spiegel.de/kultur/friedrich-merz-bei-g7-gipfel-in-kanada-der-schmerzenslaechler-a-f418dc35-3a67-42a9-b259-3844b4e99bc8#ref=rss)
+### krieg
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-krieg-in-nahost-us-militaermacht-rene-benkos-luxusvilla](https://www.spiegel.de/politik/deutschland/news-des-tages-krieg-in-nahost-us-militaermacht-rene-benkos-luxusvilla-a-56e3f187-1ff2-4d82-9673-3d33b121d260#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/krieg-in-nahost-gruene-eu-fraktionschefin-fordert-massnahmen-gegen-israel](https://www.spiegel.de/politik/deutschland/krieg-in-nahost-gruene-eu-fraktionschefin-fordert-massnahmen-gegen-israel-a-8452a633-fccb-4b55-a60a-739c789b759f#ref=rss)
+* [https://www.spiegel.de/kultur/musik/krieg-in-nahost-saenger-ralph-asfour-erlebt-raketenangriff-waehrend-auftritt](https://www.spiegel.de/kultur/musik/krieg-in-nahost-saenger-ralph-asfour-erlebt-raketenangriff-waehrend-auftritt-a-d312cdf1-fe94-4c3a-80b6-0c2778043c4d#ref=rss)
+### netanyahu
+
+* [https://www.spiegel.de/ausland/israel-iran-krieg-netanyahu-und-die-mission-zur-verhinderung-der-atombombe-podcast](https://www.spiegel.de/ausland/israel-iran-krieg-netanyahu-und-die-mission-zur-verhinderung-der-atombombe-podcast-a-61474deb-2d92-485b-9b49-2530c233b8c9#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-krieg-es-geht-ihm-nicht-nur-um-die-atombombe-podcast](https://www.spiegel.de/ausland/israel-iran-krieg-es-geht-ihm-nicht-nur-um-die-atombombe-podcast-a-84fc4d62-388d-4fe0-8f7f-d88bddf117bb#ref=rss)
+### french
+
+* [https://www.spiegel.de/sport/tennis/french-open-aryna-sabalenka-entschuldigt-sich-bei-coco-gauff](https://www.spiegel.de/sport/tennis/french-open-aryna-sabalenka-entschuldigt-sich-bei-coco-gauff-a-8a989267-4ecb-4dda-b633-c95de8d47719#ref=rss)
+* [https://www.spiegel.de/sport/tennis/french-open-jannik-sinner-ueber-niederlage-gegen-carlos-alcaraz-im-jahrhundertspiel](https://www.spiegel.de/sport/tennis/french-open-jannik-sinner-ueber-niederlage-gegen-carlos-alcaraz-im-jahrhundertspiel-a-dc827a4e-a74f-49f3-b1f6-05b9ac0d6f65#ref=rss)
+### open
+
+* [https://www.spiegel.de/sport/tennis/french-open-aryna-sabalenka-entschuldigt-sich-bei-coco-gauff](https://www.spiegel.de/sport/tennis/french-open-aryna-sabalenka-entschuldigt-sich-bei-coco-gauff-a-8a989267-4ecb-4dda-b633-c95de8d47719#ref=rss)
+* [https://www.spiegel.de/sport/tennis/french-open-jannik-sinner-ueber-niederlage-gegen-carlos-alcaraz-im-jahrhundertspiel](https://www.spiegel.de/sport/tennis/french-open-jannik-sinner-ueber-niederlage-gegen-carlos-alcaraz-im-jahrhundertspiel-a-dc827a4e-a74f-49f3-b1f6-05b9ac0d6f65#ref=rss)
+### ich
+
+* [https://www.spiegel.de/sport/tennis/french-open-aryna-sabalenka-entschuldigt-sich-bei-coco-gauff](https://www.spiegel.de/sport/tennis/french-open-aryna-sabalenka-entschuldigt-sich-bei-coco-gauff-a-8a989267-4ecb-4dda-b633-c95de8d47719#ref=rss)
+* [https://www.spiegel.de/panorama/leute/mariah-carey-popstar-feiert-keine-geburtstage-ich-glaube-einfach-nicht-daran](https://www.spiegel.de/panorama/leute/mariah-carey-popstar-feiert-keine-geburtstage-ich-glaube-einfach-nicht-daran-a-152e82a4-3b1f-40aa-96b3-e5a5823b84df#ref=rss)
+### lange
+
+* [https://www.spiegel.de/auto/fahrrad-klimatest-des-adfc-wir-sind-noch-lange-kein-fahrradland](https://www.spiegel.de/auto/fahrrad-klimatest-des-adfc-wir-sind-noch-lange-kein-fahrradland-a-273eb537-d53f-4972-81be-796047e52bdd#ref=rss)
+* [https://www.spiegel.de/panorama/leute/mariah-carey-popstar-feiert-keine-geburtstage-ich-glaube-einfach-nicht-daran](https://www.spiegel.de/panorama/leute/mariah-carey-popstar-feiert-keine-geburtstage-ich-glaube-einfach-nicht-daran-a-152e82a4-3b1f-40aa-96b3-e5a5823b84df#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/auto/fahrrad-klimatest-des-adfc-wir-sind-noch-lange-kein-fahrradland](https://www.spiegel.de/auto/fahrrad-klimatest-des-adfc-wir-sind-noch-lange-kein-fahrradland-a-273eb537-d53f-4972-81be-796047e52bdd#ref=rss)
+* [https://www.spiegel.de/ausland/friedrich-merz-ueber-angriff-auf-iran-das-ist-die-drecksarbeit-die-israel-macht-fuer-uns-alle](https://www.spiegel.de/ausland/friedrich-merz-ueber-angriff-auf-iran-das-ist-die-drecksarbeit-die-israel-macht-fuer-uns-alle-a-71944925-bffa-4ce9-beba-75f48107ce1e#ref=rss)
+### pforzheim
+
+* [https://www.spiegel.de/panorama/rechtsextreme-in-pforzheim-homophobe-aussagen-und-bedrohungen-gegen-lgbtq-spiegel-tv](https://www.spiegel.de/panorama/rechtsextreme-in-pforzheim-homophobe-aussagen-und-bedrohungen-gegen-lgbtq-spiegel-tv-a-65a0f074-c23e-448d-8822-0ca087e0f487#ref=rss)
+### alle
+
+* [https://www.spiegel.de/ausland/friedrich-merz-ueber-angriff-auf-iran-das-ist-die-drecksarbeit-die-israel-macht-fuer-uns-alle](https://www.spiegel.de/ausland/friedrich-merz-ueber-angriff-auf-iran-das-ist-die-drecksarbeit-die-israel-macht-fuer-uns-alle-a-71944925-bffa-4ce9-beba-75f48107ce1e#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-news-israelische-armee-will-iranischen-generalstabschef-getoetet-haben](https://www.spiegel.de/ausland/israel-iran-news-israelische-armee-will-iranischen-generalstabschef-getoetet-haben-a-24e7a5eb-7ec0-4adc-81ea-8bb0f4a21af1#ref=rss)
+### bundeskanzler
+
+* [https://www.spiegel.de/ausland/friedrich-merz-ueber-angriff-auf-iran-das-ist-die-drecksarbeit-die-israel-macht-fuer-uns-alle](https://www.spiegel.de/ausland/friedrich-merz-ueber-angriff-auf-iran-das-ist-die-drecksarbeit-die-israel-macht-fuer-uns-alle-a-71944925-bffa-4ce9-beba-75f48107ce1e#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-news-israelische-armee-will-iranischen-generalstabschef-getoetet-haben](https://www.spiegel.de/ausland/israel-iran-news-israelische-armee-will-iranischen-generalstabschef-getoetet-haben-a-24e7a5eb-7ec0-4adc-81ea-8bb0f4a21af1#ref=rss)
+### israelischen
+
+* [https://www.spiegel.de/ausland/friedrich-merz-ueber-angriff-auf-iran-das-ist-die-drecksarbeit-die-israel-macht-fuer-uns-alle](https://www.spiegel.de/ausland/friedrich-merz-ueber-angriff-auf-iran-das-ist-die-drecksarbeit-die-israel-macht-fuer-uns-alle-a-71944925-bffa-4ce9-beba-75f48107ce1e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/krieg-in-nahost-gruene-eu-fraktionschefin-fordert-massnahmen-gegen-israel](https://www.spiegel.de/politik/deutschland/krieg-in-nahost-gruene-eu-fraktionschefin-fordert-massnahmen-gegen-israel-a-8452a633-fccb-4b55-a60a-739c789b759f#ref=rss)
+### größten
+
+* [https://www.spiegel.de/ausland/friedrich-merz-ueber-angriff-auf-iran-das-ist-die-drecksarbeit-die-israel-macht-fuer-uns-alle](https://www.spiegel.de/ausland/friedrich-merz-ueber-angriff-auf-iran-das-ist-die-drecksarbeit-die-israel-macht-fuer-uns-alle-a-71944925-bffa-4ce9-beba-75f48107ce1e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/schweden-muellkoenigin-fariba-vancor-zu-sechs-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/schweden-muellkoenigin-fariba-vancor-zu-sechs-jahren-haft-verurteilt-a-1fca903c-409d-4d5c-ad72-2c76d3280ab6#ref=rss)
+### vorgehen
+
+* [https://www.spiegel.de/ausland/friedrich-merz-ueber-angriff-auf-iran-das-ist-die-drecksarbeit-die-israel-macht-fuer-uns-alle](https://www.spiegel.de/ausland/friedrich-merz-ueber-angriff-auf-iran-das-ist-die-drecksarbeit-die-israel-macht-fuer-uns-alle-a-71944925-bffa-4ce9-beba-75f48107ce1e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/krieg-in-nahost-gruene-eu-fraktionschefin-fordert-massnahmen-gegen-israel](https://www.spiegel.de/politik/deutschland/krieg-in-nahost-gruene-eu-fraktionschefin-fordert-massnahmen-gegen-israel-a-8452a633-fccb-4b55-a60a-739c789b759f#ref=rss)
 ### regime
 
-* [https://www.spiegel.de/ausland/israel-vs-iran-bei-einem-kriegseintritt-der-usa-haette-das-regime-ganz-schlechte-karten](https://www.spiegel.de/ausland/israel-vs-iran-bei-einem-kriegseintritt-der-usa-haette-das-regime-ganz-schlechte-karten-a-271bd368-894f-4d8c-a7c9-a799a46e97f8#ref=rss)
-### karten
-
-* [https://www.spiegel.de/ausland/israel-vs-iran-bei-einem-kriegseintritt-der-usa-haette-das-regime-ganz-schlechte-karten](https://www.spiegel.de/ausland/israel-vs-iran-bei-einem-kriegseintritt-der-usa-haette-das-regime-ganz-schlechte-karten-a-271bd368-894f-4d8c-a7c9-a799a46e97f8#ref=rss)
-* [https://www.spiegel.de/sport/fussball/klub-wm-22-fouls-und-drei-rote-karten-bei-boca-juniors-gegen-benfica](https://www.spiegel.de/sport/fussball/klub-wm-22-fouls-und-drei-rote-karten-bei-boca-juniors-gegen-benfica-a-9a8e109e-14ce-41f0-b7ad-da7f4c71c16c#ref=rss)
-### bärbel
-
-* [https://www.spiegel.de/politik/deutschland/spd-baerbel-bas-will-terminversaeumnisse-im-jobcenter-haerter-ahnden](https://www.spiegel.de/politik/deutschland/spd-baerbel-bas-will-terminversaeumnisse-im-jobcenter-haerter-ahnden-a-03593780-2319-4fa7-9248-1eead7375b33#ref=rss)
-### bas
-
-* [https://www.spiegel.de/politik/deutschland/spd-baerbel-bas-will-terminversaeumnisse-im-jobcenter-haerter-ahnden](https://www.spiegel.de/politik/deutschland/spd-baerbel-bas-will-terminversaeumnisse-im-jobcenter-haerter-ahnden-a-03593780-2319-4fa7-9248-1eead7375b33#ref=rss)
-### jobcenter
-
-* [https://www.spiegel.de/politik/deutschland/spd-baerbel-bas-will-terminversaeumnisse-im-jobcenter-haerter-ahnden](https://www.spiegel.de/politik/deutschland/spd-baerbel-bas-will-terminversaeumnisse-im-jobcenter-haerter-ahnden-a-03593780-2319-4fa7-9248-1eead7375b33#ref=rss)
-### kündigt
-
-* [https://www.spiegel.de/politik/deutschland/spd-baerbel-bas-will-terminversaeumnisse-im-jobcenter-haerter-ahnden](https://www.spiegel.de/politik/deutschland/spd-baerbel-bas-will-terminversaeumnisse-im-jobcenter-haerter-ahnden-a-03593780-2319-4fa7-9248-1eead7375b33#ref=rss)
+* [https://www.spiegel.de/ausland/friedrich-merz-ueber-angriff-auf-iran-das-ist-die-drecksarbeit-die-israel-macht-fuer-uns-alle](https://www.spiegel.de/ausland/friedrich-merz-ueber-angriff-auf-iran-das-ist-die-drecksarbeit-die-israel-macht-fuer-uns-alle-a-71944925-bffa-4ce9-beba-75f48107ce1e#ref=rss)
 * [https://www.spiegel.de/ausland/israel-iran-news-israelische-armee-will-iranischen-generalstabschef-getoetet-haben](https://www.spiegel.de/ausland/israel-iran-news-israelische-armee-will-iranischen-generalstabschef-getoetet-haben-a-24e7a5eb-7ec0-4adc-81ea-8bb0f4a21af1#ref=rss)
-### neue
+### lage
 
-* [https://www.spiegel.de/politik/deutschland/spd-baerbel-bas-will-terminversaeumnisse-im-jobcenter-haerter-ahnden](https://www.spiegel.de/politik/deutschland/spd-baerbel-bas-will-terminversaeumnisse-im-jobcenter-haerter-ahnden-a-03593780-2319-4fa7-9248-1eead7375b33#ref=rss)
-* [https://www.spiegel.de/ausland/israel-iran-news-israelische-armee-will-iranischen-generalstabschef-getoetet-haben](https://www.spiegel.de/ausland/israel-iran-news-israelische-armee-will-iranischen-generalstabschef-getoetet-haben-a-24e7a5eb-7ec0-4adc-81ea-8bb0f4a21af1#ref=rss)
-### rom
+* [https://www.spiegel.de/ausland/israel-iran-krieg-warum-teheran-nun-doch-wieder-verhandeln-koennte](https://www.spiegel.de/ausland/israel-iran-krieg-warum-teheran-nun-doch-wieder-verhandeln-koennte-a-9f871e5f-8abe-41da-8e5e-2b90d33f8cc9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-krieg-in-nahost-us-militaermacht-rene-benkos-luxusvilla](https://www.spiegel.de/politik/deutschland/news-des-tages-krieg-in-nahost-us-militaermacht-rene-benkos-luxusvilla-a-56e3f187-1ff2-4d82-9673-3d33b121d260#ref=rss)
+### alfred
 
-* [https://www.spiegel.de/panorama/rom-80-jaehriger-faehrt-mit-auto-die-spanische-treppe-hinunter](https://www.spiegel.de/panorama/rom-80-jaehriger-faehrt-mit-auto-die-spanische-treppe-hinunter-a-de7aefbe-3e02-4863-bc3e-c1d1aeff22a6#ref=rss)
-* [https://www.spiegel.de/geschichte/bundeswehr-wehrpflicht-debatte-was-sie-ueber-die-geschichte-der-wehrpflicht-wissen-sollten](https://www.spiegel.de/geschichte/bundeswehr-wehrpflicht-debatte-was-sie-ueber-die-geschichte-der-wehrpflicht-wissen-sollten-a-5c5a3bbf-214f-43fb-8e31-151ac68bef7b#ref=rss)
-### spanische
+* [https://www.spiegel.de/kultur/musik/alfred-brendel-ist-tot-pianist-mit-94-jahren-gestorben](https://www.spiegel.de/kultur/musik/alfred-brendel-ist-tot-pianist-mit-94-jahren-gestorben-a-837dd978-fca9-43e1-bcbe-acdbc342ec1b#ref=rss)
+### brendel
 
-* [https://www.spiegel.de/panorama/rom-80-jaehriger-faehrt-mit-auto-die-spanische-treppe-hinunter](https://www.spiegel.de/panorama/rom-80-jaehriger-faehrt-mit-auto-die-spanische-treppe-hinunter-a-de7aefbe-3e02-4863-bc3e-c1d1aeff22a6#ref=rss)
-### treppe
+* [https://www.spiegel.de/kultur/musik/alfred-brendel-ist-tot-pianist-mit-94-jahren-gestorben](https://www.spiegel.de/kultur/musik/alfred-brendel-ist-tot-pianist-mit-94-jahren-gestorben-a-837dd978-fca9-43e1-bcbe-acdbc342ec1b#ref=rss)
+### pianist
 
-* [https://www.spiegel.de/panorama/rom-80-jaehriger-faehrt-mit-auto-die-spanische-treppe-hinunter](https://www.spiegel.de/panorama/rom-80-jaehriger-faehrt-mit-auto-die-spanische-treppe-hinunter-a-de7aefbe-3e02-4863-bc3e-c1d1aeff22a6#ref=rss)
-### hinunter
+* [https://www.spiegel.de/kultur/musik/alfred-brendel-ist-tot-pianist-mit-94-jahren-gestorben](https://www.spiegel.de/kultur/musik/alfred-brendel-ist-tot-pianist-mit-94-jahren-gestorben-a-837dd978-fca9-43e1-bcbe-acdbc342ec1b#ref=rss)
+### 94
 
-* [https://www.spiegel.de/panorama/rom-80-jaehriger-faehrt-mit-auto-die-spanische-treppe-hinunter](https://www.spiegel.de/panorama/rom-80-jaehriger-faehrt-mit-auto-die-spanische-treppe-hinunter-a-de7aefbe-3e02-4863-bc3e-c1d1aeff22a6#ref=rss)
-### historische
+* [https://www.spiegel.de/kultur/musik/alfred-brendel-ist-tot-pianist-mit-94-jahren-gestorben](https://www.spiegel.de/kultur/musik/alfred-brendel-ist-tot-pianist-mit-94-jahren-gestorben-a-837dd978-fca9-43e1-bcbe-acdbc342ec1b#ref=rss)
+### gestorben
 
-* [https://www.spiegel.de/panorama/rom-80-jaehriger-faehrt-mit-auto-die-spanische-treppe-hinunter](https://www.spiegel.de/panorama/rom-80-jaehriger-faehrt-mit-auto-die-spanische-treppe-hinunter-a-de7aefbe-3e02-4863-bc3e-c1d1aeff22a6#ref=rss)
-* [https://www.spiegel.de/geschichte/bundeswehr-wehrpflicht-debatte-was-sie-ueber-die-geschichte-der-wehrpflicht-wissen-sollten](https://www.spiegel.de/geschichte/bundeswehr-wehrpflicht-debatte-was-sie-ueber-die-geschichte-der-wehrpflicht-wissen-sollten-a-5c5a3bbf-214f-43fb-8e31-151ac68bef7b#ref=rss)
-### kam
+* [https://www.spiegel.de/kultur/musik/alfred-brendel-ist-tot-pianist-mit-94-jahren-gestorben](https://www.spiegel.de/kultur/musik/alfred-brendel-ist-tot-pianist-mit-94-jahren-gestorben-a-837dd978-fca9-43e1-bcbe-acdbc342ec1b#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/elfriede-jelinek-falschmeldungen-ueber-die-autorin-kursieren](https://www.spiegel.de/kultur/literatur/elfriede-jelinek-falschmeldungen-ueber-die-autorin-kursieren-a-5cb7cfbb-34ed-4827-8aa5-387762587fd1#ref=rss)
+### zeit
 
-* [https://www.spiegel.de/panorama/rom-80-jaehriger-faehrt-mit-auto-die-spanische-treppe-hinunter](https://www.spiegel.de/panorama/rom-80-jaehriger-faehrt-mit-auto-die-spanische-treppe-hinunter-a-de7aefbe-3e02-4863-bc3e-c1d1aeff22a6#ref=rss)
-* [https://www.spiegel.de/sport/marathon-nina-kuscsik-pionierin-des-laufsports-verstorben](https://www.spiegel.de/sport/marathon-nina-kuscsik-pionierin-des-laufsports-verstorben-a-6ace6466-ef27-4d92-9e33-b89188943cbb#ref=rss)
-### neun
+* [https://www.spiegel.de/kultur/musik/alfred-brendel-ist-tot-pianist-mit-94-jahren-gestorben](https://www.spiegel.de/kultur/musik/alfred-brendel-ist-tot-pianist-mit-94-jahren-gestorben-a-837dd978-fca9-43e1-bcbe-acdbc342ec1b#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-nordkorea-entsendet-bausoldaten-nach-russland](https://www.spiegel.de/ausland/ukraine-krieg-nordkorea-entsendet-bausoldaten-nach-russland-a-897992c4-7d9c-4b94-86b8-2f89256db3b0#ref=rss)
+### spiegelinformationen
 
-* [https://www.spiegel.de/panorama/china-mindestens-neun-menschen-sterben-bei-explosion-in-feuerwerksfabrik](https://www.spiegel.de/panorama/china-mindestens-neun-menschen-sterben-bei-explosion-in-feuerwerksfabrik-a-950b0186-ee66-4131-81a0-a857ec3e979d#ref=rss)
-### explosion
+* [https://www.spiegel.de/ausland/russland-diplomatin-der-eu-vertretung-in-wladiwostok-zusammengeschlagen-offenbar-russischer-inlandsgeheimdienst](https://www.spiegel.de/ausland/russland-diplomatin-der-eu-vertretung-in-wladiwostok-zusammengeschlagen-offenbar-russischer-inlandsgeheimdienst-a-87d292f9-dc45-4835-a32f-08d3be5eb697#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/christina-block-strafprozess-wegen-des-vorwurfs-der-kindesentfuehrung-startet-im-juli](https://www.spiegel.de/panorama/justiz/christina-block-strafprozess-wegen-des-vorwurfs-der-kindesentfuehrung-startet-im-juli-a-50fcaf8b-5d71-45cb-a918-ad994cc8c900#ref=rss)
+### oklahoma
 
-* [https://www.spiegel.de/panorama/china-mindestens-neun-menschen-sterben-bei-explosion-in-feuerwerksfabrik](https://www.spiegel.de/panorama/china-mindestens-neun-menschen-sterben-bei-explosion-in-feuerwerksfabrik-a-950b0186-ee66-4131-81a0-a857ec3e979d#ref=rss)
-### feuerwerksfabrik
+* [https://www.spiegel.de/sport/basketball/nba-finals-oklahoma-city-thunders-defensive-ist-ein-horror-fuer-jeden-angreifer](https://www.spiegel.de/sport/basketball/nba-finals-oklahoma-city-thunders-defensive-ist-ein-horror-fuer-jeden-angreifer-a-d09d2127-52eb-4c1b-9cf0-e7b25ecc3e66#ref=rss)
+### city
 
-* [https://www.spiegel.de/panorama/china-mindestens-neun-menschen-sterben-bei-explosion-in-feuerwerksfabrik](https://www.spiegel.de/panorama/china-mindestens-neun-menschen-sterben-bei-explosion-in-feuerwerksfabrik-a-950b0186-ee66-4131-81a0-a857ec3e979d#ref=rss)
-### tote
+* [https://www.spiegel.de/sport/basketball/nba-finals-oklahoma-city-thunders-defensive-ist-ein-horror-fuer-jeden-angreifer](https://www.spiegel.de/sport/basketball/nba-finals-oklahoma-city-thunders-defensive-ist-ein-horror-fuer-jeden-angreifer-a-d09d2127-52eb-4c1b-9cf0-e7b25ecc3e66#ref=rss)
+### team
 
-* [https://www.spiegel.de/panorama/china-mindestens-neun-menschen-sterben-bei-explosion-in-feuerwerksfabrik](https://www.spiegel.de/panorama/china-mindestens-neun-menschen-sterben-bei-explosion-in-feuerwerksfabrik-a-950b0186-ee66-4131-81a0-a857ec3e979d#ref=rss)
-* [https://www.spiegel.de/ausland/gazastreifen-behoerde-meldet-dutzende-tote-nach-israelischem-beschuss](https://www.spiegel.de/ausland/gazastreifen-behoerde-meldet-dutzende-tote-nach-israelischem-beschuss-a-db613d1d-c9f3-4b55-88aa-b0cf78465a2b#ref=rss)
-### berlin
+* [https://www.spiegel.de/sport/basketball/nba-finals-oklahoma-city-thunders-defensive-ist-ein-horror-fuer-jeden-angreifer](https://www.spiegel.de/sport/basketball/nba-finals-oklahoma-city-thunders-defensive-ist-ein-horror-fuer-jeden-angreifer-a-d09d2127-52eb-4c1b-9cf0-e7b25ecc3e66#ref=rss)
+### kurz
 
-* [https://www.spiegel.de/panorama/justiz/berlin-unbekannte-zuenden-36-transporter-von-amazon-und-der-telekom-an](https://www.spiegel.de/panorama/justiz/berlin-unbekannte-zuenden-36-transporter-von-amazon-und-der-telekom-an-a-470c6f99-da73-4d55-8f60-414622c77b60#ref=rss)
-### amazon
+* [https://www.spiegel.de/sport/basketball/nba-finals-oklahoma-city-thunders-defensive-ist-ein-horror-fuer-jeden-angreifer](https://www.spiegel.de/sport/basketball/nba-finals-oklahoma-city-thunders-defensive-ist-ein-horror-fuer-jeden-angreifer-a-d09d2127-52eb-4c1b-9cf0-e7b25ecc3e66#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-nordkorea-entsendet-bausoldaten-nach-russland](https://www.spiegel.de/ausland/ukraine-krieg-nordkorea-entsendet-bausoldaten-nach-russland-a-897992c4-7d9c-4b94-86b8-2f89256db3b0#ref=rss)
+### usa
 
-* [https://www.spiegel.de/panorama/justiz/berlin-unbekannte-zuenden-36-transporter-von-amazon-und-der-telekom-an](https://www.spiegel.de/panorama/justiz/berlin-unbekannte-zuenden-36-transporter-von-amazon-und-der-telekom-an-a-470c6f99-da73-4d55-8f60-414622c77b60#ref=rss)
-### telekom
-
-* [https://www.spiegel.de/panorama/justiz/berlin-unbekannte-zuenden-36-transporter-von-amazon-und-der-telekom-an](https://www.spiegel.de/panorama/justiz/berlin-unbekannte-zuenden-36-transporter-von-amazon-und-der-telekom-an-a-470c6f99-da73-4d55-8f60-414622c77b60#ref=rss)
-### militär
-
-* [https://www.spiegel.de/ausland/israel-iran-news-israelische-armee-will-iranischen-generalstabschef-getoetet-haben](https://www.spiegel.de/ausland/israel-iran-news-israelische-armee-will-iranischen-generalstabschef-getoetet-haben-a-24e7a5eb-7ec0-4adc-81ea-8bb0f4a21af1#ref=rss)
-* [https://www.spiegel.de/ausland/gazastreifen-behoerde-meldet-dutzende-tote-nach-israelischem-beschuss](https://www.spiegel.de/ausland/gazastreifen-behoerde-meldet-dutzende-tote-nach-israelischem-beschuss-a-db613d1d-c9f3-4b55-88aa-b0cf78465a2b#ref=rss)
-### meldet
-
-* [https://www.spiegel.de/ausland/israel-iran-news-israelische-armee-will-iranischen-generalstabschef-getoetet-haben](https://www.spiegel.de/ausland/israel-iran-news-israelische-armee-will-iranischen-generalstabschef-getoetet-haben-a-24e7a5eb-7ec0-4adc-81ea-8bb0f4a21af1#ref=rss)
-* [https://www.spiegel.de/ausland/gazastreifen-behoerde-meldet-dutzende-tote-nach-israelischem-beschuss](https://www.spiegel.de/ausland/gazastreifen-behoerde-meldet-dutzende-tote-nach-israelischem-beschuss-a-db613d1d-c9f3-4b55-88aa-b0cf78465a2b#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/donald-trump-wie-das-goldfarbene-smartphone-apple-aergern-koennte](https://www.spiegel.de/netzwelt/gadgets/donald-trump-wie-das-goldfarbene-smartphone-apple-aergern-koennte-a-faefd6e3-6054-435c-addf-07ade14c7729#ref=rss)
+* [https://www.spiegel.de/ausland/israel-vs-iran-donald-trump-schickt-streitkraefte-in-den-nahen-osten-was-koennen-die](https://www.spiegel.de/ausland/israel-vs-iran-donald-trump-schickt-streitkraefte-in-den-nahen-osten-was-koennen-die-a-a84e0f71-2fc5-42cd-b7e4-c4b2357a082d#ref=rss)
 ### rené
 
-* [https://www.spiegel.de/wirtschaft/rene-benko-inventar-aus-der-luxusvilla-am-gardasee-steht-zum-verkauf](https://www.spiegel.de/wirtschaft/rene-benko-inventar-aus-der-luxusvilla-am-gardasee-steht-zum-verkauf-a-07f82451-a801-4be9-b6f6-d0289b058c12#ref=rss)
-### benko
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-krieg-in-nahost-us-militaermacht-rene-benkos-luxusvilla](https://www.spiegel.de/politik/deutschland/news-des-tages-krieg-in-nahost-us-militaermacht-rene-benkos-luxusvilla-a-56e3f187-1ff2-4d82-9673-3d33b121d260#ref=rss)
+### luxusvilla
 
-* [https://www.spiegel.de/wirtschaft/rene-benko-inventar-aus-der-luxusvilla-am-gardasee-steht-zum-verkauf](https://www.spiegel.de/wirtschaft/rene-benko-inventar-aus-der-luxusvilla-am-gardasee-steht-zum-verkauf-a-07f82451-a801-4be9-b6f6-d0289b058c12#ref=rss)
-### inventar
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-krieg-in-nahost-us-militaermacht-rene-benkos-luxusvilla](https://www.spiegel.de/politik/deutschland/news-des-tages-krieg-in-nahost-us-militaermacht-rene-benkos-luxusvilla-a-56e3f187-1ff2-4d82-9673-3d33b121d260#ref=rss)
+### atombombe
 
-* [https://www.spiegel.de/wirtschaft/rene-benko-inventar-aus-der-luxusvilla-am-gardasee-steht-zum-verkauf](https://www.spiegel.de/wirtschaft/rene-benko-inventar-aus-der-luxusvilla-am-gardasee-steht-zum-verkauf-a-07f82451-a801-4be9-b6f6-d0289b058c12#ref=rss)
-### gardasee
+* [https://www.spiegel.de/ausland/israel-iran-krieg-netanyahu-und-die-mission-zur-verhinderung-der-atombombe-podcast](https://www.spiegel.de/ausland/israel-iran-krieg-netanyahu-und-die-mission-zur-verhinderung-der-atombombe-podcast-a-61474deb-2d92-485b-9b49-2530c233b8c9#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-krieg-es-geht-ihm-nicht-nur-um-die-atombombe-podcast](https://www.spiegel.de/ausland/israel-iran-krieg-es-geht-ihm-nicht-nur-um-die-atombombe-podcast-a-84fc4d62-388d-4fe0-8f7f-d88bddf117bb#ref=rss)
+### podcast
 
-* [https://www.spiegel.de/wirtschaft/rene-benko-inventar-aus-der-luxusvilla-am-gardasee-steht-zum-verkauf](https://www.spiegel.de/wirtschaft/rene-benko-inventar-aus-der-luxusvilla-am-gardasee-steht-zum-verkauf-a-07f82451-a801-4be9-b6f6-d0289b058c12#ref=rss)
-### einst
+* [https://www.spiegel.de/ausland/israel-iran-krieg-netanyahu-und-die-mission-zur-verhinderung-der-atombombe-podcast](https://www.spiegel.de/ausland/israel-iran-krieg-netanyahu-und-die-mission-zur-verhinderung-der-atombombe-podcast-a-61474deb-2d92-485b-9b49-2530c233b8c9#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-krieg-es-geht-ihm-nicht-nur-um-die-atombombe-podcast](https://www.spiegel.de/ausland/israel-iran-krieg-es-geht-ihm-nicht-nur-um-die-atombombe-podcast-a-84fc4d62-388d-4fe0-8f7f-d88bddf117bb#ref=rss)
+### verfolgt
 
-* [https://www.spiegel.de/wirtschaft/rene-benko-inventar-aus-der-luxusvilla-am-gardasee-steht-zum-verkauf](https://www.spiegel.de/wirtschaft/rene-benko-inventar-aus-der-luxusvilla-am-gardasee-steht-zum-verkauf-a-07f82451-a801-4be9-b6f6-d0289b058c12#ref=rss)
-* [https://www.spiegel.de/sport/marathon-nina-kuscsik-pionierin-des-laufsports-verstorben](https://www.spiegel.de/sport/marathon-nina-kuscsik-pionierin-des-laufsports-verstorben-a-6ace6466-ef27-4d92-9e33-b89188943cbb#ref=rss)
-### 2025
+* [https://www.spiegel.de/ausland/israel-iran-krieg-netanyahu-und-die-mission-zur-verhinderung-der-atombombe-podcast](https://www.spiegel.de/ausland/israel-iran-krieg-netanyahu-und-die-mission-zur-verhinderung-der-atombombe-podcast-a-61474deb-2d92-485b-9b49-2530c233b8c9#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-krieg-es-geht-ihm-nicht-nur-um-die-atombombe-podcast](https://www.spiegel.de/ausland/israel-iran-krieg-es-geht-ihm-nicht-nur-um-die-atombombe-podcast-a-84fc4d62-388d-4fe0-8f7f-d88bddf117bb#ref=rss)
+### lebensziel
 
-* [https://www.spiegel.de/wirtschaft/service/goldener-windbeutel-2025-wer-wirbt-am-dreistesten-fuer-lebensmittel](https://www.spiegel.de/wirtschaft/service/goldener-windbeutel-2025-wer-wirbt-am-dreistesten-fuer-lebensmittel-a-5be1b64f-05a1-42ac-a2bd-0bf651a2c7bf#ref=rss)
-* [https://www.spiegel.de/sport/fussball/klub-wm-22-fouls-und-drei-rote-karten-bei-boca-juniors-gegen-benfica](https://www.spiegel.de/sport/fussball/klub-wm-22-fouls-und-drei-rote-karten-bei-boca-juniors-gegen-benfica-a-9a8e109e-14ce-41f0-b7ad-da7f4c71c16c#ref=rss)
-### sehen
+* [https://www.spiegel.de/ausland/israel-iran-krieg-netanyahu-und-die-mission-zur-verhinderung-der-atombombe-podcast](https://www.spiegel.de/ausland/israel-iran-krieg-netanyahu-und-die-mission-zur-verhinderung-der-atombombe-podcast-a-61474deb-2d92-485b-9b49-2530c233b8c9#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-krieg-es-geht-ihm-nicht-nur-um-die-atombombe-podcast](https://www.spiegel.de/ausland/israel-iran-krieg-es-geht-ihm-nicht-nur-um-die-atombombe-podcast-a-84fc4d62-388d-4fe0-8f7f-d88bddf117bb#ref=rss)
+### benjamin
 
-* [https://www.spiegel.de/ausland/israels-krieg-gegen-den-iran-die-golfstaaten-zwischen-den-stuehlen](https://www.spiegel.de/ausland/israels-krieg-gegen-den-iran-die-golfstaaten-zwischen-den-stuehlen-a-cb45d56a-11ad-450d-aba4-5118347241ba#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/social-media-deutschland-braucht-endlich-einen-jugendschutz-fuer-soziale-medien](https://www.spiegel.de/panorama/gesellschaft/social-media-deutschland-braucht-endlich-einen-jugendschutz-fuer-soziale-medien-a-742e816b-6678-4648-abcf-f3ead1ff0ab8#ref=rss)
-### papst
+* [https://www.spiegel.de/ausland/israel-iran-krieg-netanyahu-und-die-mission-zur-verhinderung-der-atombombe-podcast](https://www.spiegel.de/ausland/israel-iran-krieg-netanyahu-und-die-mission-zur-verhinderung-der-atombombe-podcast-a-61474deb-2d92-485b-9b49-2530c233b8c9#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-krieg-es-geht-ihm-nicht-nur-um-die-atombombe-podcast](https://www.spiegel.de/ausland/israel-iran-krieg-es-geht-ihm-nicht-nur-um-die-atombombe-podcast-a-84fc4d62-388d-4fe0-8f7f-d88bddf117bb#ref=rss)
+### spiegelreporterin
 
-* [https://www.spiegel.de/panorama/leute/papst-leo-xiv-ist-entfernt-mit-madonna-verwandt](https://www.spiegel.de/panorama/leute/papst-leo-xiv-ist-entfernt-mit-madonna-verwandt-a-32c15ba2-f690-44f8-85b8-42b4e6ca3919#ref=rss)
-### leo
+* [https://www.spiegel.de/ausland/israel-iran-krieg-netanyahu-und-die-mission-zur-verhinderung-der-atombombe-podcast](https://www.spiegel.de/ausland/israel-iran-krieg-netanyahu-und-die-mission-zur-verhinderung-der-atombombe-podcast-a-61474deb-2d92-485b-9b49-2530c233b8c9#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-krieg-es-geht-ihm-nicht-nur-um-die-atombombe-podcast](https://www.spiegel.de/ausland/israel-iran-krieg-es-geht-ihm-nicht-nur-um-die-atombombe-podcast-a-84fc4d62-388d-4fe0-8f7f-d88bddf117bb#ref=rss)
+### juliane
 
-* [https://www.spiegel.de/panorama/leute/papst-leo-xiv-ist-entfernt-mit-madonna-verwandt](https://www.spiegel.de/panorama/leute/papst-leo-xiv-ist-entfernt-mit-madonna-verwandt-a-32c15ba2-f690-44f8-85b8-42b4e6ca3919#ref=rss)
-### xiv
+* [https://www.spiegel.de/ausland/israel-iran-krieg-netanyahu-und-die-mission-zur-verhinderung-der-atombombe-podcast](https://www.spiegel.de/ausland/israel-iran-krieg-netanyahu-und-die-mission-zur-verhinderung-der-atombombe-podcast-a-61474deb-2d92-485b-9b49-2530c233b8c9#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-krieg-es-geht-ihm-nicht-nur-um-die-atombombe-podcast](https://www.spiegel.de/ausland/israel-iran-krieg-es-geht-ihm-nicht-nur-um-die-atombombe-podcast-a-84fc4d62-388d-4fe0-8f7f-d88bddf117bb#ref=rss)
+### mittelstaedt
 
-* [https://www.spiegel.de/panorama/leute/papst-leo-xiv-ist-entfernt-mit-madonna-verwandt](https://www.spiegel.de/panorama/leute/papst-leo-xiv-ist-entfernt-mit-madonna-verwandt-a-32c15ba2-f690-44f8-85b8-42b4e6ca3919#ref=rss)
-### weit
+* [https://www.spiegel.de/ausland/israel-iran-krieg-netanyahu-und-die-mission-zur-verhinderung-der-atombombe-podcast](https://www.spiegel.de/ausland/israel-iran-krieg-netanyahu-und-die-mission-zur-verhinderung-der-atombombe-podcast-a-61474deb-2d92-485b-9b49-2530c233b8c9#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-krieg-es-geht-ihm-nicht-nur-um-die-atombombe-podcast](https://www.spiegel.de/ausland/israel-iran-krieg-es-geht-ihm-nicht-nur-um-die-atombombe-podcast-a-84fc4d62-388d-4fe0-8f7f-d88bddf117bb#ref=rss)
+### premierminister
 
-* [https://www.spiegel.de/panorama/leute/papst-leo-xiv-ist-entfernt-mit-madonna-verwandt](https://www.spiegel.de/panorama/leute/papst-leo-xiv-ist-entfernt-mit-madonna-verwandt-a-32c15ba2-f690-44f8-85b8-42b4e6ca3919#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/margot-friedlaender-hamburg-plant-strasse-zu-ehren-der-holocaustueberlebenden](https://www.spiegel.de/panorama/justiz/margot-friedlaender-hamburg-plant-strasse-zu-ehren-der-holocaustueberlebenden-a-e58a574b-ae1b-4713-90dd-501574bdd7c3#ref=rss)
-### boca
+* [https://www.spiegel.de/ausland/israel-iran-krieg-netanyahu-und-die-mission-zur-verhinderung-der-atombombe-podcast](https://www.spiegel.de/ausland/israel-iran-krieg-netanyahu-und-die-mission-zur-verhinderung-der-atombombe-podcast-a-61474deb-2d92-485b-9b49-2530c233b8c9#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-krieg-es-geht-ihm-nicht-nur-um-die-atombombe-podcast](https://www.spiegel.de/ausland/israel-iran-krieg-es-geht-ihm-nicht-nur-um-die-atombombe-podcast-a-84fc4d62-388d-4fe0-8f7f-d88bddf117bb#ref=rss)
+### größte
 
-* [https://www.spiegel.de/sport/fussball/klub-wm-22-fouls-und-drei-rote-karten-bei-boca-juniors-gegen-benfica](https://www.spiegel.de/sport/fussball/klub-wm-22-fouls-und-drei-rote-karten-bei-boca-juniors-gegen-benfica-a-9a8e109e-14ce-41f0-b7ad-da7f4c71c16c#ref=rss)
-### juniors
+* [https://www.spiegel.de/ausland/israel-iran-krieg-netanyahu-und-die-mission-zur-verhinderung-der-atombombe-podcast](https://www.spiegel.de/ausland/israel-iran-krieg-netanyahu-und-die-mission-zur-verhinderung-der-atombombe-podcast-a-61474deb-2d92-485b-9b49-2530c233b8c9#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-krieg-es-geht-ihm-nicht-nur-um-die-atombombe-podcast](https://www.spiegel.de/ausland/israel-iran-krieg-es-geht-ihm-nicht-nur-um-die-atombombe-podcast-a-84fc4d62-388d-4fe0-8f7f-d88bddf117bb#ref=rss)
+### risiko
 
-* [https://www.spiegel.de/sport/fussball/klub-wm-22-fouls-und-drei-rote-karten-bei-boca-juniors-gegen-benfica](https://www.spiegel.de/sport/fussball/klub-wm-22-fouls-und-drei-rote-karten-bei-boca-juniors-gegen-benfica-a-9a8e109e-14ce-41f0-b7ad-da7f4c71c16c#ref=rss)
-### benfica
+* [https://www.spiegel.de/ausland/israel-iran-krieg-netanyahu-und-die-mission-zur-verhinderung-der-atombombe-podcast](https://www.spiegel.de/ausland/israel-iran-krieg-netanyahu-und-die-mission-zur-verhinderung-der-atombombe-podcast-a-61474deb-2d92-485b-9b49-2530c233b8c9#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-krieg-es-geht-ihm-nicht-nur-um-die-atombombe-podcast](https://www.spiegel.de/ausland/israel-iran-krieg-es-geht-ihm-nicht-nur-um-die-atombombe-podcast-a-84fc4d62-388d-4fe0-8f7f-d88bddf117bb#ref=rss)
+### seines
 
-* [https://www.spiegel.de/sport/fussball/klub-wm-22-fouls-und-drei-rote-karten-bei-boca-juniors-gegen-benfica](https://www.spiegel.de/sport/fussball/klub-wm-22-fouls-und-drei-rote-karten-bei-boca-juniors-gegen-benfica-a-9a8e109e-14ce-41f0-b7ad-da7f4c71c16c#ref=rss)
-### hitziger
+* [https://www.spiegel.de/ausland/israel-iran-krieg-netanyahu-und-die-mission-zur-verhinderung-der-atombombe-podcast](https://www.spiegel.de/ausland/israel-iran-krieg-netanyahu-und-die-mission-zur-verhinderung-der-atombombe-podcast-a-61474deb-2d92-485b-9b49-2530c233b8c9#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-krieg-es-geht-ihm-nicht-nur-um-die-atombombe-podcast](https://www.spiegel.de/ausland/israel-iran-krieg-es-geht-ihm-nicht-nur-um-die-atombombe-podcast-a-84fc4d62-388d-4fe0-8f7f-d88bddf117bb#ref=rss)
+### lebens
 
-* [https://www.spiegel.de/sport/fussball/klub-wm-22-fouls-und-drei-rote-karten-bei-boca-juniors-gegen-benfica](https://www.spiegel.de/sport/fussball/klub-wm-22-fouls-und-drei-rote-karten-bei-boca-juniors-gegen-benfica-a-9a8e109e-14ce-41f0-b7ad-da7f4c71c16c#ref=rss)
-* [https://www.spiegel.de/geschichte/bundeswehr-wehrpflicht-debatte-was-sie-ueber-die-geschichte-der-wehrpflicht-wissen-sollten](https://www.spiegel.de/geschichte/bundeswehr-wehrpflicht-debatte-was-sie-ueber-die-geschichte-der-wehrpflicht-wissen-sollten-a-5c5a3bbf-214f-43fb-8e31-151ac68bef7b#ref=rss)
-### dienst
+* [https://www.spiegel.de/ausland/israel-iran-krieg-netanyahu-und-die-mission-zur-verhinderung-der-atombombe-podcast](https://www.spiegel.de/ausland/israel-iran-krieg-netanyahu-und-die-mission-zur-verhinderung-der-atombombe-podcast-a-61474deb-2d92-485b-9b49-2530c233b8c9#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-krieg-es-geht-ihm-nicht-nur-um-die-atombombe-podcast](https://www.spiegel.de/ausland/israel-iran-krieg-es-geht-ihm-nicht-nur-um-die-atombombe-podcast-a-84fc4d62-388d-4fe0-8f7f-d88bddf117bb#ref=rss)
+### eingeht
 
-* [https://www.spiegel.de/wirtschaft/oeffentlicher-dienst-zahl-der-staatsdiener-steigt-auf-5-4-millionen](https://www.spiegel.de/wirtschaft/oeffentlicher-dienst-zahl-der-staatsdiener-steigt-auf-5-4-millionen-a-b8313d48-c0cb-4c52-b314-87704ac2200e#ref=rss)
-### zahl
+* [https://www.spiegel.de/ausland/israel-iran-krieg-netanyahu-und-die-mission-zur-verhinderung-der-atombombe-podcast](https://www.spiegel.de/ausland/israel-iran-krieg-netanyahu-und-die-mission-zur-verhinderung-der-atombombe-podcast-a-61474deb-2d92-485b-9b49-2530c233b8c9#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-krieg-es-geht-ihm-nicht-nur-um-die-atombombe-podcast](https://www.spiegel.de/ausland/israel-iran-krieg-es-geht-ihm-nicht-nur-um-die-atombombe-podcast-a-84fc4d62-388d-4fe0-8f7f-d88bddf117bb#ref=rss)
+### zeigen
 
-* [https://www.spiegel.de/wirtschaft/oeffentlicher-dienst-zahl-der-staatsdiener-steigt-auf-5-4-millionen](https://www.spiegel.de/wirtschaft/oeffentlicher-dienst-zahl-der-staatsdiener-steigt-auf-5-4-millionen-a-b8313d48-c0cb-4c52-b314-87704ac2200e#ref=rss)
-### öffentlichen
+* [https://www.spiegel.de/wirtschaft/zoelle-von-donald-trump-in-washington-klingelt-die-zollkasse](https://www.spiegel.de/wirtschaft/zoelle-von-donald-trump-in-washington-klingelt-die-zollkasse-a-1d0374a4-df55-4f9d-bb41-75fadda3d626#ref=rss)
+* [https://www.spiegel.de/panorama/angriff-auf-spd-wahlkaempfer-glatze-springerstiefel-und-zecken-boxen](https://www.spiegel.de/panorama/angriff-auf-spd-wahlkaempfer-glatze-springerstiefel-und-zecken-boxen-a-b90615cd-f2c1-4077-89a5-213cf1e89a01#ref=rss)
+### uspräsident
 
-* [https://www.spiegel.de/wirtschaft/oeffentlicher-dienst-zahl-der-staatsdiener-steigt-auf-5-4-millionen](https://www.spiegel.de/wirtschaft/oeffentlicher-dienst-zahl-der-staatsdiener-steigt-auf-5-4-millionen-a-b8313d48-c0cb-4c52-b314-87704ac2200e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/margot-friedlaender-hamburg-plant-strasse-zu-ehren-der-holocaustueberlebenden](https://www.spiegel.de/panorama/justiz/margot-friedlaender-hamburg-plant-strasse-zu-ehren-der-holocaustueberlebenden-a-e58a574b-ae1b-4713-90dd-501574bdd7c3#ref=rss)
-### kluburlaub
+* [https://www.spiegel.de/ausland/israel-iran-news-israelische-armee-will-iranischen-generalstabschef-getoetet-haben](https://www.spiegel.de/ausland/israel-iran-news-israelische-armee-will-iranischen-generalstabschef-getoetet-haben-a-24e7a5eb-7ec0-4adc-81ea-8bb0f4a21af1#ref=rss)
+* [https://www.spiegel.de/ausland/israel-vs-iran-donald-trump-schickt-streitkraefte-in-den-nahen-osten-was-koennen-die](https://www.spiegel.de/ausland/israel-vs-iran-donald-trump-schickt-streitkraefte-in-den-nahen-osten-was-koennen-die-a-a84e0f71-2fc5-42cd-b7e4-c4b2357a082d#ref=rss)
+### sieht
 
-* [https://www.spiegel.de/reise/europa/kluburlaub-warum-dieser-selbstoptimierungsstress-im-urlaub](https://www.spiegel.de/reise/europa/kluburlaub-warum-dieser-selbstoptimierungsstress-im-urlaub-a-d460f79b-1683-4a54-b8f5-6257eaa389e6#ref=rss)
-### margot
+* [https://www.spiegel.de/ausland/israel-iran-news-israelische-armee-will-iranischen-generalstabschef-getoetet-haben](https://www.spiegel.de/ausland/israel-iran-news-israelische-armee-will-iranischen-generalstabschef-getoetet-haben-a-24e7a5eb-7ec0-4adc-81ea-8bb0f4a21af1#ref=rss)
+* [https://www.spiegel.de/auto/auto-herstellung-pkw-sollen-kuenftig-mehr-recyclingmaterial-enthalten](https://www.spiegel.de/auto/auto-herstellung-pkw-sollen-kuenftig-mehr-recyclingmaterial-enthalten-a-acfec5d3-df82-45b3-af43-0b64cc94741a#ref=rss)
+### elfriede
 
-* [https://www.spiegel.de/panorama/justiz/margot-friedlaender-hamburg-plant-strasse-zu-ehren-der-holocaustueberlebenden](https://www.spiegel.de/panorama/justiz/margot-friedlaender-hamburg-plant-strasse-zu-ehren-der-holocaustueberlebenden-a-e58a574b-ae1b-4713-90dd-501574bdd7c3#ref=rss)
-### friedländer
+* [https://www.spiegel.de/kultur/literatur/elfriede-jelinek-falschmeldungen-ueber-die-autorin-kursieren](https://www.spiegel.de/kultur/literatur/elfriede-jelinek-falschmeldungen-ueber-die-autorin-kursieren-a-5cb7cfbb-34ed-4827-8aa5-387762587fd1#ref=rss)
+### jelinek
 
-* [https://www.spiegel.de/panorama/justiz/margot-friedlaender-hamburg-plant-strasse-zu-ehren-der-holocaustueberlebenden](https://www.spiegel.de/panorama/justiz/margot-friedlaender-hamburg-plant-strasse-zu-ehren-der-holocaustueberlebenden-a-e58a574b-ae1b-4713-90dd-501574bdd7c3#ref=rss)
-### straße
+* [https://www.spiegel.de/kultur/literatur/elfriede-jelinek-falschmeldungen-ueber-die-autorin-kursieren](https://www.spiegel.de/kultur/literatur/elfriede-jelinek-falschmeldungen-ueber-die-autorin-kursieren-a-5cb7cfbb-34ed-4827-8aa5-387762587fd1#ref=rss)
+### autorin
 
-* [https://www.spiegel.de/panorama/justiz/margot-friedlaender-hamburg-plant-strasse-zu-ehren-der-holocaustueberlebenden](https://www.spiegel.de/panorama/justiz/margot-friedlaender-hamburg-plant-strasse-zu-ehren-der-holocaustueberlebenden-a-e58a574b-ae1b-4713-90dd-501574bdd7c3#ref=rss)
-### behinderung
+* [https://www.spiegel.de/kultur/literatur/elfriede-jelinek-falschmeldungen-ueber-die-autorin-kursieren](https://www.spiegel.de/kultur/literatur/elfriede-jelinek-falschmeldungen-ueber-die-autorin-kursieren-a-5cb7cfbb-34ed-4827-8aa5-387762587fd1#ref=rss)
+### ralph
 
-* [https://www.spiegel.de/karriere/bewerbungsgespraeche-entwuerdigende-erfahrungen-von-bewerbern-mit-behinderung](https://www.spiegel.de/karriere/bewerbungsgespraeche-entwuerdigende-erfahrungen-von-bewerbern-mit-behinderung-a-768019f5-941c-437d-8c9e-0dfc1b4978b3#ref=rss)
-### social
+* [https://www.spiegel.de/kultur/musik/krieg-in-nahost-saenger-ralph-asfour-erlebt-raketenangriff-waehrend-auftritt](https://www.spiegel.de/kultur/musik/krieg-in-nahost-saenger-ralph-asfour-erlebt-raketenangriff-waehrend-auftritt-a-d312cdf1-fe94-4c3a-80b6-0c2778043c4d#ref=rss)
+### asfour
 
-* [https://www.spiegel.de/panorama/gesellschaft/social-media-deutschland-braucht-endlich-einen-jugendschutz-fuer-soziale-medien](https://www.spiegel.de/panorama/gesellschaft/social-media-deutschland-braucht-endlich-einen-jugendschutz-fuer-soziale-medien-a-742e816b-6678-4648-abcf-f3ead1ff0ab8#ref=rss)
-### media
+* [https://www.spiegel.de/kultur/musik/krieg-in-nahost-saenger-ralph-asfour-erlebt-raketenangriff-waehrend-auftritt](https://www.spiegel.de/kultur/musik/krieg-in-nahost-saenger-ralph-asfour-erlebt-raketenangriff-waehrend-auftritt-a-d312cdf1-fe94-4c3a-80b6-0c2778043c4d#ref=rss)
+### aryna
 
-* [https://www.spiegel.de/panorama/gesellschaft/social-media-deutschland-braucht-endlich-einen-jugendschutz-fuer-soziale-medien](https://www.spiegel.de/panorama/gesellschaft/social-media-deutschland-braucht-endlich-einen-jugendschutz-fuer-soziale-medien-a-742e816b-6678-4648-abcf-f3ead1ff0ab8#ref=rss)
-### medien
+* [https://www.spiegel.de/sport/tennis/french-open-aryna-sabalenka-entschuldigt-sich-bei-coco-gauff](https://www.spiegel.de/sport/tennis/french-open-aryna-sabalenka-entschuldigt-sich-bei-coco-gauff-a-8a989267-4ecb-4dda-b633-c95de8d47719#ref=rss)
+### sabalenka
 
-* [https://www.spiegel.de/panorama/gesellschaft/social-media-deutschland-braucht-endlich-einen-jugendschutz-fuer-soziale-medien](https://www.spiegel.de/panorama/gesellschaft/social-media-deutschland-braucht-endlich-einen-jugendschutz-fuer-soziale-medien-a-742e816b-6678-4648-abcf-f3ead1ff0ab8#ref=rss)
-### verboten
+* [https://www.spiegel.de/sport/tennis/french-open-aryna-sabalenka-entschuldigt-sich-bei-coco-gauff](https://www.spiegel.de/sport/tennis/french-open-aryna-sabalenka-entschuldigt-sich-bei-coco-gauff-a-8a989267-4ecb-4dda-b633-c95de8d47719#ref=rss)
+### coco
 
-* [https://www.spiegel.de/panorama/gesellschaft/social-media-deutschland-braucht-endlich-einen-jugendschutz-fuer-soziale-medien](https://www.spiegel.de/panorama/gesellschaft/social-media-deutschland-braucht-endlich-einen-jugendschutz-fuer-soziale-medien-a-742e816b-6678-4648-abcf-f3ead1ff0ab8#ref=rss)
-* [https://www.spiegel.de/sport/marathon-nina-kuscsik-pionierin-des-laufsports-verstorben](https://www.spiegel.de/sport/marathon-nina-kuscsik-pionierin-des-laufsports-verstorben-a-6ace6466-ef27-4d92-9e33-b89188943cbb#ref=rss)
-### nina
+* [https://www.spiegel.de/sport/tennis/french-open-aryna-sabalenka-entschuldigt-sich-bei-coco-gauff](https://www.spiegel.de/sport/tennis/french-open-aryna-sabalenka-entschuldigt-sich-bei-coco-gauff-a-8a989267-4ecb-4dda-b633-c95de8d47719#ref=rss)
+### gauff
 
-* [https://www.spiegel.de/sport/marathon-nina-kuscsik-pionierin-des-laufsports-verstorben](https://www.spiegel.de/sport/marathon-nina-kuscsik-pionierin-des-laufsports-verstorben-a-6ace6466-ef27-4d92-9e33-b89188943cbb#ref=rss)
-### kuscsik
+* [https://www.spiegel.de/sport/tennis/french-open-aryna-sabalenka-entschuldigt-sich-bei-coco-gauff](https://www.spiegel.de/sport/tennis/french-open-aryna-sabalenka-entschuldigt-sich-bei-coco-gauff-a-8a989267-4ecb-4dda-b633-c95de8d47719#ref=rss)
+### aktuellen
 
-* [https://www.spiegel.de/sport/marathon-nina-kuscsik-pionierin-des-laufsports-verstorben](https://www.spiegel.de/sport/marathon-nina-kuscsik-pionierin-des-laufsports-verstorben-a-6ace6466-ef27-4d92-9e33-b89188943cbb#ref=rss)
-### los
+* [https://www.spiegel.de/kultur/friedrich-merz-bei-g7-gipfel-in-kanada-der-schmerzenslaechler](https://www.spiegel.de/kultur/friedrich-merz-bei-g7-gipfel-in-kanada-der-schmerzenslaechler-a-f418dc35-3a67-42a9-b259-3844b4e99bc8#ref=rss)
+* [https://www.spiegel.de/karriere/arbeitszeit-beschaeftigte-wollen-taegliche-hoechstarbeitszeit-beibehalten](https://www.spiegel.de/karriere/arbeitszeit-beschaeftigte-wollen-taegliche-hoechstarbeitszeit-beibehalten-a-69185fb7-66dc-4500-b946-558add096f68#ref=rss)
+### jannik
 
-* [https://www.spiegel.de/ausland/los-angeles-afp-fotograf-durch-gummigeschosse-verletzt](https://www.spiegel.de/ausland/los-angeles-afp-fotograf-durch-gummigeschosse-verletzt-a-90882aaf-9d46-4dfe-9a05-f1800d1fb10d#ref=rss)
-### angeles
+* [https://www.spiegel.de/sport/tennis/french-open-jannik-sinner-ueber-niederlage-gegen-carlos-alcaraz-im-jahrhundertspiel](https://www.spiegel.de/sport/tennis/french-open-jannik-sinner-ueber-niederlage-gegen-carlos-alcaraz-im-jahrhundertspiel-a-dc827a4e-a74f-49f3-b1f6-05b9ac0d6f65#ref=rss)
+### sinner
 
-* [https://www.spiegel.de/ausland/los-angeles-afp-fotograf-durch-gummigeschosse-verletzt](https://www.spiegel.de/ausland/los-angeles-afp-fotograf-durch-gummigeschosse-verletzt-a-90882aaf-9d46-4dfe-9a05-f1800d1fb10d#ref=rss)
-### verletzt
+* [https://www.spiegel.de/sport/tennis/french-open-jannik-sinner-ueber-niederlage-gegen-carlos-alcaraz-im-jahrhundertspiel](https://www.spiegel.de/sport/tennis/french-open-jannik-sinner-ueber-niederlage-gegen-carlos-alcaraz-im-jahrhundertspiel-a-dc827a4e-a74f-49f3-b1f6-05b9ac0d6f65#ref=rss)
+### niederlage
 
-* [https://www.spiegel.de/ausland/los-angeles-afp-fotograf-durch-gummigeschosse-verletzt](https://www.spiegel.de/ausland/los-angeles-afp-fotograf-durch-gummigeschosse-verletzt-a-90882aaf-9d46-4dfe-9a05-f1800d1fb10d#ref=rss)
-### wehrpflicht
+* [https://www.spiegel.de/sport/tennis/french-open-jannik-sinner-ueber-niederlage-gegen-carlos-alcaraz-im-jahrhundertspiel](https://www.spiegel.de/sport/tennis/french-open-jannik-sinner-ueber-niederlage-gegen-carlos-alcaraz-im-jahrhundertspiel-a-dc827a4e-a74f-49f3-b1f6-05b9ac0d6f65#ref=rss)
+### carlos
 
-* [https://www.spiegel.de/geschichte/bundeswehr-wehrpflicht-debatte-was-sie-ueber-die-geschichte-der-wehrpflicht-wissen-sollten](https://www.spiegel.de/geschichte/bundeswehr-wehrpflicht-debatte-was-sie-ueber-die-geschichte-der-wehrpflicht-wissen-sollten-a-5c5a3bbf-214f-43fb-8e31-151ac68bef7b#ref=rss)
-### robert
+* [https://www.spiegel.de/sport/tennis/french-open-jannik-sinner-ueber-niederlage-gegen-carlos-alcaraz-im-jahrhundertspiel](https://www.spiegel.de/sport/tennis/french-open-jannik-sinner-ueber-niederlage-gegen-carlos-alcaraz-im-jahrhundertspiel-a-dc827a4e-a74f-49f3-b1f6-05b9ac0d6f65#ref=rss)
+### alcaraz
 
-* [https://www.spiegel.de/ausland/usa-frueherer-senator-robert-menendez-tritt-langjaehrige-haft-wegen-bestechung-an](https://www.spiegel.de/ausland/usa-frueherer-senator-robert-menendez-tritt-langjaehrige-haft-wegen-bestechung-an-a-fd10cc7a-8573-4a8e-926f-6679abd8d714#ref=rss)
-### menendez
+* [https://www.spiegel.de/sport/tennis/french-open-jannik-sinner-ueber-niederlage-gegen-carlos-alcaraz-im-jahrhundertspiel](https://www.spiegel.de/sport/tennis/french-open-jannik-sinner-ueber-niederlage-gegen-carlos-alcaraz-im-jahrhundertspiel-a-dc827a4e-a74f-49f3-b1f6-05b9ac0d6f65#ref=rss)
+### seiten
 
-* [https://www.spiegel.de/ausland/usa-frueherer-senator-robert-menendez-tritt-langjaehrige-haft-wegen-bestechung-an](https://www.spiegel.de/ausland/usa-frueherer-senator-robert-menendez-tritt-langjaehrige-haft-wegen-bestechung-an-a-fd10cc7a-8573-4a8e-926f-6679abd8d714#ref=rss)
+* [https://www.spiegel.de/sport/tennis/french-open-jannik-sinner-ueber-niederlage-gegen-carlos-alcaraz-im-jahrhundertspiel](https://www.spiegel.de/sport/tennis/french-open-jannik-sinner-ueber-niederlage-gegen-carlos-alcaraz-im-jahrhundertspiel-a-dc827a4e-a74f-49f3-b1f6-05b9ac0d6f65#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/cyberkriminalitaet-ermittler-schalten-hunderte-abzock-domains-ab](https://www.spiegel.de/netzwelt/web/cyberkriminalitaet-ermittler-schalten-hunderte-abzock-domains-ab-a-1d1f8717-f87b-4bf3-9f44-3d032a50b405#ref=rss)
+### prozent
+
+* [https://www.spiegel.de/wirtschaft/energie-deutschland-gibt-69-milliarden-euro-fuer-fossile-brennstoffe-aus](https://www.spiegel.de/wirtschaft/energie-deutschland-gibt-69-milliarden-euro-fuer-fossile-brennstoffe-aus-a-2c52f9a8-97e4-4f17-aee9-9e5aac76a24f#ref=rss)
+* [https://www.spiegel.de/karriere/arbeitszeit-beschaeftigte-wollen-taegliche-hoechstarbeitszeit-beibehalten](https://www.spiegel.de/karriere/arbeitszeit-beschaeftigte-wollen-taegliche-hoechstarbeitszeit-beibehalten-a-69185fb7-66dc-4500-b946-558add096f68#ref=rss)
+### ukrainekrieg
+
+* [https://www.spiegel.de/wirtschaft/energie-deutschland-gibt-69-milliarden-euro-fuer-fossile-brennstoffe-aus](https://www.spiegel.de/wirtschaft/energie-deutschland-gibt-69-milliarden-euro-fuer-fossile-brennstoffe-aus-a-2c52f9a8-97e4-4f17-aee9-9e5aac76a24f#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-nordkorea-entsendet-bausoldaten-nach-russland](https://www.spiegel.de/ausland/ukraine-krieg-nordkorea-entsendet-bausoldaten-nach-russland-a-897992c4-7d9c-4b94-86b8-2f89256db3b0#ref=rss)
+### müllkönigin
+
+* [https://www.spiegel.de/panorama/justiz/schweden-muellkoenigin-fariba-vancor-zu-sechs-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/schweden-muellkoenigin-fariba-vancor-zu-sechs-jahren-haft-verurteilt-a-1fca903c-409d-4d5c-ad72-2c76d3280ab6#ref=rss)
+### fariba
+
+* [https://www.spiegel.de/panorama/justiz/schweden-muellkoenigin-fariba-vancor-zu-sechs-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/schweden-muellkoenigin-fariba-vancor-zu-sechs-jahren-haft-verurteilt-a-1fca903c-409d-4d5c-ad72-2c76d3280ab6#ref=rss)
+### vancor
+
+* [https://www.spiegel.de/panorama/justiz/schweden-muellkoenigin-fariba-vancor-zu-sechs-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/schweden-muellkoenigin-fariba-vancor-zu-sechs-jahren-haft-verurteilt-a-1fca903c-409d-4d5c-ad72-2c76d3280ab6#ref=rss)
+### sechs
+
+* [https://www.spiegel.de/panorama/justiz/schweden-muellkoenigin-fariba-vancor-zu-sechs-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/schweden-muellkoenigin-fariba-vancor-zu-sechs-jahren-haft-verurteilt-a-1fca903c-409d-4d5c-ad72-2c76d3280ab6#ref=rss)
 ### haft
 
-* [https://www.spiegel.de/ausland/usa-frueherer-senator-robert-menendez-tritt-langjaehrige-haft-wegen-bestechung-an](https://www.spiegel.de/ausland/usa-frueherer-senator-robert-menendez-tritt-langjaehrige-haft-wegen-bestechung-an-a-fd10cc7a-8573-4a8e-926f-6679abd8d714#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/schweden-muellkoenigin-fariba-vancor-zu-sechs-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/schweden-muellkoenigin-fariba-vancor-zu-sechs-jahren-haft-verurteilt-a-1fca903c-409d-4d5c-ad72-2c76d3280ab6#ref=rss)
+### verurteilt
+
+* [https://www.spiegel.de/panorama/justiz/schweden-muellkoenigin-fariba-vancor-zu-sechs-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/schweden-muellkoenigin-fariba-vancor-zu-sechs-jahren-haft-verurteilt-a-1fca903c-409d-4d5c-ad72-2c76d3280ab6#ref=rss)
+### andere
+
+* [https://www.spiegel.de/panorama/justiz/schweden-muellkoenigin-fariba-vancor-zu-sechs-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/schweden-muellkoenigin-fariba-vancor-zu-sechs-jahren-haft-verurteilt-a-1fca903c-409d-4d5c-ad72-2c76d3280ab6#ref=rss)
+* [https://www.spiegel.de/karriere/arbeitszeit-beschaeftigte-wollen-taegliche-hoechstarbeitszeit-beibehalten](https://www.spiegel.de/karriere/arbeitszeit-beschaeftigte-wollen-taegliche-hoechstarbeitszeit-beibehalten-a-69185fb7-66dc-4500-b946-558add096f68#ref=rss)
+### spdwahlkämpfer
+
+* [https://www.spiegel.de/panorama/angriff-auf-spd-wahlkaempfer-glatze-springerstiefel-und-zecken-boxen](https://www.spiegel.de/panorama/angriff-auf-spd-wahlkaempfer-glatze-springerstiefel-und-zecken-boxen-a-b90615cd-f2c1-4077-89a5-213cf1e89a01#ref=rss)
+### schickt
+
+* [https://www.spiegel.de/ausland/israel-vs-iran-donald-trump-schickt-streitkraefte-in-den-nahen-osten-was-koennen-die](https://www.spiegel.de/ausland/israel-vs-iran-donald-trump-schickt-streitkraefte-in-den-nahen-osten-was-koennen-die-a-a84e0f71-2fc5-42cd-b7e4-c4b2357a082d#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-nordkorea-entsendet-bausoldaten-nach-russland](https://www.spiegel.de/ausland/ukraine-krieg-nordkorea-entsendet-bausoldaten-nach-russland-a-897992c4-7d9c-4b94-86b8-2f89256db3b0#ref=rss)
+### streitkräfte
+
+* [https://www.spiegel.de/ausland/israel-vs-iran-donald-trump-schickt-streitkraefte-in-den-nahen-osten-was-koennen-die](https://www.spiegel.de/ausland/israel-vs-iran-donald-trump-schickt-streitkraefte-in-den-nahen-osten-was-koennen-die-a-a84e0f71-2fc5-42cd-b7e4-c4b2357a082d#ref=rss)
+### arbeitszeit
+
+* [https://www.spiegel.de/karriere/arbeitszeit-beschaeftigte-wollen-taegliche-hoechstarbeitszeit-beibehalten](https://www.spiegel.de/karriere/arbeitszeit-beschaeftigte-wollen-taegliche-hoechstarbeitszeit-beibehalten-a-69185fb7-66dc-4500-b946-558add096f68#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/karriere/arbeitszeit-beschaeftigte-wollen-taegliche-hoechstarbeitszeit-beibehalten](https://www.spiegel.de/karriere/arbeitszeit-beschaeftigte-wollen-taegliche-hoechstarbeitszeit-beibehalten-a-69185fb7-66dc-4500-b946-558add096f68#ref=rss)
+### nordkorea
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-nordkorea-entsendet-bausoldaten-nach-russland](https://www.spiegel.de/ausland/ukraine-krieg-nordkorea-entsendet-bausoldaten-nach-russland-a-897992c4-7d9c-4b94-86b8-2f89256db3b0#ref=rss)
+### christina
+
+* [https://www.spiegel.de/panorama/justiz/christina-block-strafprozess-wegen-des-vorwurfs-der-kindesentfuehrung-startet-im-juli](https://www.spiegel.de/panorama/justiz/christina-block-strafprozess-wegen-des-vorwurfs-der-kindesentfuehrung-startet-im-juli-a-50fcaf8b-5d71-45cb-a918-ad994cc8c900#ref=rss)
+### block
+
+* [https://www.spiegel.de/panorama/justiz/christina-block-strafprozess-wegen-des-vorwurfs-der-kindesentfuehrung-startet-im-juli](https://www.spiegel.de/panorama/justiz/christina-block-strafprozess-wegen-des-vorwurfs-der-kindesentfuehrung-startet-im-juli-a-50fcaf8b-5d71-45cb-a918-ad994cc8c900#ref=rss)
+### ermittler
+
+* [https://www.spiegel.de/netzwelt/web/cyberkriminalitaet-ermittler-schalten-hunderte-abzock-domains-ab](https://www.spiegel.de/netzwelt/web/cyberkriminalitaet-ermittler-schalten-hunderte-abzock-domains-ab-a-1d1f8717-f87b-4bf3-9f44-3d032a50b405#ref=rss)
+### mariah
+
+* [https://www.spiegel.de/panorama/leute/mariah-carey-popstar-feiert-keine-geburtstage-ich-glaube-einfach-nicht-daran](https://www.spiegel.de/panorama/leute/mariah-carey-popstar-feiert-keine-geburtstage-ich-glaube-einfach-nicht-daran-a-152e82a4-3b1f-40aa-96b3-e5a5823b84df#ref=rss)
+### carey
+
+* [https://www.spiegel.de/panorama/leute/mariah-carey-popstar-feiert-keine-geburtstage-ich-glaube-einfach-nicht-daran](https://www.spiegel.de/panorama/leute/mariah-carey-popstar-feiert-keine-geburtstage-ich-glaube-einfach-nicht-daran-a-152e82a4-3b1f-40aa-96b3-e5a5823b84df#ref=rss)
+### popstar
+
+* [https://www.spiegel.de/panorama/leute/mariah-carey-popstar-feiert-keine-geburtstage-ich-glaube-einfach-nicht-daran](https://www.spiegel.de/panorama/leute/mariah-carey-popstar-feiert-keine-geburtstage-ich-glaube-einfach-nicht-daran-a-152e82a4-3b1f-40aa-96b3-e5a5823b84df#ref=rss)
+### feiert
+
+* [https://www.spiegel.de/panorama/leute/mariah-carey-popstar-feiert-keine-geburtstage-ich-glaube-einfach-nicht-daran](https://www.spiegel.de/panorama/leute/mariah-carey-popstar-feiert-keine-geburtstage-ich-glaube-einfach-nicht-daran-a-152e82a4-3b1f-40aa-96b3-e5a5823b84df#ref=rss)
+### geburtstage
+
+* [https://www.spiegel.de/panorama/leute/mariah-carey-popstar-feiert-keine-geburtstage-ich-glaube-einfach-nicht-daran](https://www.spiegel.de/panorama/leute/mariah-carey-popstar-feiert-keine-geburtstage-ich-glaube-einfach-nicht-daran-a-152e82a4-3b1f-40aa-96b3-e5a5823b84df#ref=rss)
 
