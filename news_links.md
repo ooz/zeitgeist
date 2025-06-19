@@ -4,347 +4,392 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### iran
+### bedrohung
 
-* [https://www.spiegel.de/ausland/israles-ex-premier-ehud-barak-das-fehlen-einer-klaren-strategie-ist-ein-grosses-problem-in-gaza-wie-in-iran](https://www.spiegel.de/ausland/israles-ex-premier-ehud-barak-das-fehlen-einer-klaren-strategie-ist-ein-grosses-problem-in-gaza-wie-in-iran-a-5b2c62ff-be94-4ff7-955c-54d0f90dffd8#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-zum-israel-iran-krieg-niemand-weiss-genau-was-ich-tun-werde](https://www.spiegel.de/ausland/donald-trump-zum-israel-iran-krieg-niemand-weiss-genau-was-ich-tun-werde-a-0e62d81c-970e-4f05-beaf-679adb67c332#ref=rss)
-* [https://www.spiegel.de/ausland/israel-iran-und-moeglicher-kriegseintritt-der-usa-irak-sollte-donald-trump-eine-lehre-sein](https://www.spiegel.de/ausland/israel-iran-und-moeglicher-kriegseintritt-der-usa-irak-sollte-donald-trump-eine-lehre-sein-a-95ae2d93-6ec5-4fd1-bee2-6b288646ff0e#ref=rss)
-* [https://www.spiegel.de/ausland/usa-tucker-carlson-und-ted-cruz-streiten-sich-ueber-iran-israel-konflikt](https://www.spiegel.de/ausland/usa-tucker-carlson-und-ted-cruz-streiten-sich-ueber-iran-israel-konflikt-a-afc869d7-5e95-4a04-8e1a-a0fcf7c5783f#ref=rss)
-### usa
-
-* [https://www.spiegel.de/wissenschaft/weltall/spacex-starship-explodiert-bei-bodentest-in-texas](https://www.spiegel.de/wissenschaft/weltall/spacex-starship-explodiert-bei-bodentest-in-texas-a-218f2341-15fd-4555-b1f2-ef77115bef28#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-zum-israel-iran-krieg-niemand-weiss-genau-was-ich-tun-werde](https://www.spiegel.de/ausland/donald-trump-zum-israel-iran-krieg-niemand-weiss-genau-was-ich-tun-werde-a-0e62d81c-970e-4f05-beaf-679adb67c332#ref=rss)
-* [https://www.spiegel.de/ausland/gewalt-in-den-usa-politische-sitten-verrohen-in-der-aera-donald-trump](https://www.spiegel.de/ausland/gewalt-in-den-usa-politische-sitten-verrohen-in-der-aera-donald-trump-a-c4408265-9f44-4147-9189-8101f2de3d3a#ref=rss)
-* [https://www.spiegel.de/ausland/israel-iran-und-moeglicher-kriegseintritt-der-usa-irak-sollte-donald-trump-eine-lehre-sein](https://www.spiegel.de/ausland/israel-iran-und-moeglicher-kriegseintritt-der-usa-irak-sollte-donald-trump-eine-lehre-sein-a-95ae2d93-6ec5-4fd1-bee2-6b288646ff0e#ref=rss)
-* [https://www.spiegel.de/ausland/usa-tucker-carlson-und-ted-cruz-streiten-sich-ueber-iran-israel-konflikt](https://www.spiegel.de/ausland/usa-tucker-carlson-und-ted-cruz-streiten-sich-ueber-iran-israel-konflikt-a-afc869d7-5e95-4a04-8e1a-a0fcf7c5783f#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/kultur/tv/andrea-kiewel-kehrt-in-den-zdf-fernsehgarten-zurueck](https://www.spiegel.de/kultur/tv/andrea-kiewel-kehrt-in-den-zdf-fernsehgarten-zurueck-a-ce42c9a8-ee0d-4947-987a-848e44284870#ref=rss)
-* [https://www.spiegel.de/kultur/jennifer-wilton-welt-chefredakteurin-verlaesst-axel-springer](https://www.spiegel.de/kultur/jennifer-wilton-welt-chefredakteurin-verlaesst-axel-springer-a-093679ea-acbf-4c5c-8fc7-a92f9ca80f2f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/jens-spahn-ex-gesundheitsminister-weis-vorwuerfe-ueber-corona-masken-zurueck](https://www.spiegel.de/politik/deutschland/jens-spahn-ex-gesundheitsminister-weis-vorwuerfe-ueber-corona-masken-zurueck-a-5ee9fea9-4917-46b0-b10f-29787fa5fd43#ref=rss)
-* [https://www.spiegel.de/wirtschaft/schweiz-nationalbank-senkt-leitzins-auf-null-prozent](https://www.spiegel.de/wirtschaft/schweiz-nationalbank-senkt-leitzins-auf-null-prozent-a-17287270-24d5-4f72-963a-b8c522777939#ref=rss)
-* [https://www.spiegel.de/sport/fussball/ehemaliger-bundesligaprofi-pierre-michel-lasogga-beendet-seine-karriere](https://www.spiegel.de/sport/fussball/ehemaliger-bundesligaprofi-pierre-michel-lasogga-beendet-seine-karriere-a-e305dbbb-e130-47f2-a872-c33f7a007138#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/ausland/russland-wirtschaftsminister-maxim-reschetnikow-warnt-vor-rezession](https://www.spiegel.de/ausland/russland-wirtschaftsminister-maxim-reschetnikow-warnt-vor-rezession-a-5bd53c12-b708-4a41-b58a-2c5e7867c81d#ref=rss)
-* [https://www.spiegel.de/kultur/jennifer-wilton-welt-chefredakteurin-verlaesst-axel-springer](https://www.spiegel.de/kultur/jennifer-wilton-welt-chefredakteurin-verlaesst-axel-springer-a-093679ea-acbf-4c5c-8fc7-a92f9ca80f2f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/michigan-baer-ueberlebt-zwei-jahre-mit-plastikdeckel-um-den-hals](https://www.spiegel.de/wissenschaft/natur/michigan-baer-ueberlebt-zwei-jahre-mit-plastikdeckel-um-den-hals-a-c6b4b1a1-bbbd-4a93-9fab-6a00ce34b2ed#ref=rss)
-### krieg
-
-* [https://www.spiegel.de/ausland/israles-ex-premier-ehud-barak-das-fehlen-einer-klaren-strategie-ist-ein-grosses-problem-in-gaza-wie-in-iran](https://www.spiegel.de/ausland/israles-ex-premier-ehud-barak-das-fehlen-einer-klaren-strategie-ist-ein-grosses-problem-in-gaza-wie-in-iran-a-5b2c62ff-be94-4ff7-955c-54d0f90dffd8#ref=rss)
-* [https://www.spiegel.de/ausland/israel-iran-und-moeglicher-kriegseintritt-der-usa-irak-sollte-donald-trump-eine-lehre-sein](https://www.spiegel.de/ausland/israel-iran-und-moeglicher-kriegseintritt-der-usa-irak-sollte-donald-trump-eine-lehre-sein-a-95ae2d93-6ec5-4fd1-bee2-6b288646ff0e#ref=rss)
-* [https://www.spiegel.de/geschichte/krieg-in-nahost-warum-der-angriff-israels-der-islamischen-republik-nutzen-kann](https://www.spiegel.de/geschichte/krieg-in-nahost-warum-der-angriff-israels-der-islamischen-republik-nutzen-kann-a-b3cfa494-f1e3-4bed-81a9-ebdaae3e99dc#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/donald-trump-zum-israel-iran-krieg-niemand-weiss-genau-was-ich-tun-werde](https://www.spiegel.de/ausland/donald-trump-zum-israel-iran-krieg-niemand-weiss-genau-was-ich-tun-werde-a-0e62d81c-970e-4f05-beaf-679adb67c332#ref=rss)
-* [https://www.spiegel.de/ausland/gewalt-in-den-usa-politische-sitten-verrohen-in-der-aera-donald-trump](https://www.spiegel.de/ausland/gewalt-in-den-usa-politische-sitten-verrohen-in-der-aera-donald-trump-a-c4408265-9f44-4147-9189-8101f2de3d3a#ref=rss)
-* [https://www.spiegel.de/ausland/israel-iran-und-moeglicher-kriegseintritt-der-usa-irak-sollte-donald-trump-eine-lehre-sein](https://www.spiegel.de/ausland/israel-iran-und-moeglicher-kriegseintritt-der-usa-irak-sollte-donald-trump-eine-lehre-sein-a-95ae2d93-6ec5-4fd1-bee2-6b288646ff0e#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/donald-trump-zum-israel-iran-krieg-niemand-weiss-genau-was-ich-tun-werde](https://www.spiegel.de/ausland/donald-trump-zum-israel-iran-krieg-niemand-weiss-genau-was-ich-tun-werde-a-0e62d81c-970e-4f05-beaf-679adb67c332#ref=rss)
-* [https://www.spiegel.de/ausland/gewalt-in-den-usa-politische-sitten-verrohen-in-der-aera-donald-trump](https://www.spiegel.de/ausland/gewalt-in-den-usa-politische-sitten-verrohen-in-der-aera-donald-trump-a-c4408265-9f44-4147-9189-8101f2de3d3a#ref=rss)
-* [https://www.spiegel.de/ausland/israel-iran-und-moeglicher-kriegseintritt-der-usa-irak-sollte-donald-trump-eine-lehre-sein](https://www.spiegel.de/ausland/israel-iran-und-moeglicher-kriegseintritt-der-usa-irak-sollte-donald-trump-eine-lehre-sein-a-95ae2d93-6ec5-4fd1-bee2-6b288646ff0e#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/donald-trump-zum-israel-iran-krieg-niemand-weiss-genau-was-ich-tun-werde](https://www.spiegel.de/ausland/donald-trump-zum-israel-iran-krieg-niemand-weiss-genau-was-ich-tun-werde-a-0e62d81c-970e-4f05-beaf-679adb67c332#ref=rss)
-* [https://www.spiegel.de/ausland/israel-iran-und-moeglicher-kriegseintritt-der-usa-irak-sollte-donald-trump-eine-lehre-sein](https://www.spiegel.de/ausland/israel-iran-und-moeglicher-kriegseintritt-der-usa-irak-sollte-donald-trump-eine-lehre-sein-a-95ae2d93-6ec5-4fd1-bee2-6b288646ff0e#ref=rss)
-* [https://www.spiegel.de/geschichte/krieg-in-nahost-warum-der-angriff-israels-der-islamischen-republik-nutzen-kann](https://www.spiegel.de/geschichte/krieg-in-nahost-warum-der-angriff-israels-der-islamischen-republik-nutzen-kann-a-b3cfa494-f1e3-4bed-81a9-ebdaae3e99dc#ref=rss)
-* [https://www.spiegel.de/ausland/usa-tucker-carlson-und-ted-cruz-streiten-sich-ueber-iran-israel-konflikt](https://www.spiegel.de/ausland/usa-tucker-carlson-und-ted-cruz-streiten-sich-ueber-iran-israel-konflikt-a-afc869d7-5e95-4a04-8e1a-a0fcf7c5783f#ref=rss)
-### kosten
-
-* [https://www.spiegel.de/wirtschaft/schweiz-nationalbank-senkt-leitzins-auf-null-prozent](https://www.spiegel.de/wirtschaft/schweiz-nationalbank-senkt-leitzins-auf-null-prozent-a-17287270-24d5-4f72-963a-b8c522777939#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/bundesrechnungshof-kritisiert-teure-berater-fuer-regierung](https://www.spiegel.de/wirtschaft/unternehmen/bundesrechnungshof-kritisiert-teure-berater-fuer-regierung-a-15a358c3-1259-440f-bdd6-670360ac79be#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/energiewende-wenn-die-stilllegung-des-gasanschlusses-5-000-euro-kostet](https://www.spiegel.de/wirtschaft/service/energiewende-wenn-die-stilllegung-des-gasanschlusses-5-000-euro-kostet-a-49718431-fc20-4c7b-a7c4-be8d01658da3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/sturm-und-hagel-unwetter-kosten-autoversicherungen-1-3-milliarden-euro](https://www.spiegel.de/wirtschaft/unternehmen/sturm-und-hagel-unwetter-kosten-autoversicherungen-1-3-milliarden-euro-a-5fc972c6-3e8b-4947-8746-a79874cf7a80#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/sport/fussball/deutschland-bei-der-u21-em-diese-fuenf-talente-der-deutschen-junioren-sollten-sie-kennen](https://www.spiegel.de/sport/fussball/deutschland-bei-der-u21-em-diese-fuenf-talente-der-deutschen-junioren-sollten-sie-kennen-a-6df48ee0-be39-4c14-8a7e-4ea9884b1412#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/trockenheit-in-deutschland-warum-das-land-mehr-schwaemme-braucht](https://www.spiegel.de/wissenschaft/mensch/trockenheit-in-deutschland-warum-das-land-mehr-schwaemme-braucht-a-d5aa60aa-7a10-4961-8777-f52cbba9c7a5#ref=rss)
-### argentinien
-
-* [https://www.spiegel.de/panorama/justiz/argentinien-krankenschwester-brenda-cecilia-agueero-nach-toetung-von-babys-verurteilt](https://www.spiegel.de/panorama/justiz/argentinien-krankenschwester-brenda-cecilia-agueero-nach-toetung-von-babys-verurteilt-a-9ca2cb7e-a809-4f48-929c-ebcfecc0599f#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-warum-eine-trans-frau-asyl-in-argentinien-will](https://www.spiegel.de/ausland/grossbritannien-warum-eine-trans-frau-asyl-in-argentinien-will-a-4ab41440-3c0f-49b8-aca9-503b570fcadd#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/politik/deutschland/die-linke-bodo-ramelow-aeussert-sich-zur-umstrukturierung-in-thueringen](https://www.spiegel.de/politik/deutschland/die-linke-bodo-ramelow-aeussert-sich-zur-umstrukturierung-in-thueringen-a-57db6c52-2533-4f1a-a716-177fb46d4ee8#ref=rss)
-* [https://www.spiegel.de/netzwelt/israel-iran-konflikt-hacker-vernichten-offenbar-90-millionen-dollar-aus-iranischer-kryptoboerse](https://www.spiegel.de/netzwelt/israel-iran-konflikt-hacker-vernichten-offenbar-90-millionen-dollar-aus-iranischer-kryptoboerse-a-b9b100a6-f91c-4450-b6e6-f34689e1a7af#ref=rss)
-### israels
-
-* [https://www.spiegel.de/ausland/israles-ex-premier-ehud-barak-das-fehlen-einer-klaren-strategie-ist-ein-grosses-problem-in-gaza-wie-in-iran](https://www.spiegel.de/ausland/israles-ex-premier-ehud-barak-das-fehlen-einer-klaren-strategie-ist-ein-grosses-problem-in-gaza-wie-in-iran-a-5b2c62ff-be94-4ff7-955c-54d0f90dffd8#ref=rss)
-* [https://www.spiegel.de/ausland/israel-iran-und-moeglicher-kriegseintritt-der-usa-irak-sollte-donald-trump-eine-lehre-sein](https://www.spiegel.de/ausland/israel-iran-und-moeglicher-kriegseintritt-der-usa-irak-sollte-donald-trump-eine-lehre-sein-a-95ae2d93-6ec5-4fd1-bee2-6b288646ff0e#ref=rss)
-* [https://www.spiegel.de/geschichte/krieg-in-nahost-warum-der-angriff-israels-der-islamischen-republik-nutzen-kann](https://www.spiegel.de/geschichte/krieg-in-nahost-warum-der-angriff-israels-der-islamischen-republik-nutzen-kann-a-b3cfa494-f1e3-4bed-81a9-ebdaae3e99dc#ref=rss)
-### 90
-
-* [https://www.spiegel.de/netzwelt/israel-iran-konflikt-hacker-vernichten-offenbar-90-millionen-dollar-aus-iranischer-kryptoboerse](https://www.spiegel.de/netzwelt/israel-iran-konflikt-hacker-vernichten-offenbar-90-millionen-dollar-aus-iranischer-kryptoboerse-a-b9b100a6-f91c-4450-b6e6-f34689e1a7af#ref=rss)
-* [https://www.spiegel.de/sport/fussball/klub-wm-real-madrid-enttaeuscht-bei-remis-gegen-al-hilal-schwaches-debuet-fuer-trainer-xabi-alonso](https://www.spiegel.de/sport/fussball/klub-wm-real-madrid-enttaeuscht-bei-remis-gegen-al-hilal-schwaches-debuet-fuer-trainer-xabi-alonso-a-0a5a4f1e-4659-4578-9c25-d656e878f434#ref=rss)
-### spahn
-
-* [https://www.spiegel.de/politik/deutschland/jens-spahn-ex-gesundheitsminister-weis-vorwuerfe-ueber-corona-masken-zurueck](https://www.spiegel.de/politik/deutschland/jens-spahn-ex-gesundheitsminister-weis-vorwuerfe-ueber-corona-masken-zurueck-a-5ee9fea9-4917-46b0-b10f-29787fa5fd43#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/wissenschaft/natur/michigan-baer-ueberlebt-zwei-jahre-mit-plastikdeckel-um-den-hals](https://www.spiegel.de/wissenschaft/natur/michigan-baer-ueberlebt-zwei-jahre-mit-plastikdeckel-um-den-hals-a-c6b4b1a1-bbbd-4a93-9fab-6a00ce34b2ed#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/koeln-explosion-zerstoert-eingangsbereich-von-restaurant](https://www.spiegel.de/panorama/justiz/koeln-explosion-zerstoert-eingangsbereich-von-restaurant-a-5aee4aae-7409-4da5-96b2-f96234590937#ref=rss)
-### sollte
-
-* [https://www.spiegel.de/ausland/israel-iran-und-moeglicher-kriegseintritt-der-usa-irak-sollte-donald-trump-eine-lehre-sein](https://www.spiegel.de/ausland/israel-iran-und-moeglicher-kriegseintritt-der-usa-irak-sollte-donald-trump-eine-lehre-sein-a-95ae2d93-6ec5-4fd1-bee2-6b288646ff0e#ref=rss)
-* [https://www.spiegel.de/ausland/usa-tucker-carlson-und-ted-cruz-streiten-sich-ueber-iran-israel-konflikt](https://www.spiegel.de/ausland/usa-tucker-carlson-und-ted-cruz-streiten-sich-ueber-iran-israel-konflikt-a-afc869d7-5e95-4a04-8e1a-a0fcf7c5783f#ref=rss)
-### euro
-
-* [https://www.spiegel.de/wirtschaft/service/energiewende-wenn-die-stilllegung-des-gasanschlusses-5-000-euro-kostet](https://www.spiegel.de/wirtschaft/service/energiewende-wenn-die-stilllegung-des-gasanschlusses-5-000-euro-kostet-a-49718431-fc20-4c7b-a7c4-be8d01658da3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/sturm-und-hagel-unwetter-kosten-autoversicherungen-1-3-milliarden-euro](https://www.spiegel.de/wirtschaft/unternehmen/sturm-und-hagel-unwetter-kosten-autoversicherungen-1-3-milliarden-euro-a-5fc972c6-3e8b-4947-8746-a79874cf7a80#ref=rss)
-### trans
-
-* [https://www.spiegel.de/ausland/grossbritannien-warum-eine-trans-frau-asyl-in-argentinien-will](https://www.spiegel.de/ausland/grossbritannien-warum-eine-trans-frau-asyl-in-argentinien-will-a-4ab41440-3c0f-49b8-aca9-503b570fcadd#ref=rss)
-### frau
-
-* [https://www.spiegel.de/ausland/grossbritannien-warum-eine-trans-frau-asyl-in-argentinien-will](https://www.spiegel.de/ausland/grossbritannien-warum-eine-trans-frau-asyl-in-argentinien-will-a-4ab41440-3c0f-49b8-aca9-503b570fcadd#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/sport/fussball/deutschland-bei-der-u21-em-diese-fuenf-talente-der-deutschen-junioren-sollten-sie-kennen](https://www.spiegel.de/sport/fussball/deutschland-bei-der-u21-em-diese-fuenf-talente-der-deutschen-junioren-sollten-sie-kennen-a-6df48ee0-be39-4c14-8a7e-4ea9884b1412#ref=rss)
-* [https://www.spiegel.de/sport/fussball/ehemaliger-bundesligaprofi-pierre-michel-lasogga-beendet-seine-karriere](https://www.spiegel.de/sport/fussball/ehemaliger-bundesligaprofi-pierre-michel-lasogga-beendet-seine-karriere-a-e305dbbb-e130-47f2-a872-c33f7a007138#ref=rss)
-### geschichte
-
-* [https://www.spiegel.de/sport/fussball/deutschland-bei-der-u21-em-diese-fuenf-talente-der-deutschen-junioren-sollten-sie-kennen](https://www.spiegel.de/sport/fussball/deutschland-bei-der-u21-em-diese-fuenf-talente-der-deutschen-junioren-sollten-sie-kennen-a-6df48ee0-be39-4c14-8a7e-4ea9884b1412#ref=rss)
-* [https://www.spiegel.de/geschichte/krieg-in-nahost-warum-der-angriff-israels-der-islamischen-republik-nutzen-kann](https://www.spiegel.de/geschichte/krieg-in-nahost-warum-der-angriff-israels-der-islamischen-republik-nutzen-kann-a-b3cfa494-f1e3-4bed-81a9-ebdaae3e99dc#ref=rss)
-### krankenschwester
-
-* [https://www.spiegel.de/panorama/justiz/argentinien-krankenschwester-brenda-cecilia-agueero-nach-toetung-von-babys-verurteilt](https://www.spiegel.de/panorama/justiz/argentinien-krankenschwester-brenda-cecilia-agueero-nach-toetung-von-babys-verurteilt-a-9ca2cb7e-a809-4f48-929c-ebcfecc0599f#ref=rss)
-### babys
-
-* [https://www.spiegel.de/panorama/justiz/argentinien-krankenschwester-brenda-cecilia-agueero-nach-toetung-von-babys-verurteilt](https://www.spiegel.de/panorama/justiz/argentinien-krankenschwester-brenda-cecilia-agueero-nach-toetung-von-babys-verurteilt-a-9ca2cb7e-a809-4f48-929c-ebcfecc0599f#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/justiz/argentinien-krankenschwester-brenda-cecilia-agueero-nach-toetung-von-babys-verurteilt](https://www.spiegel.de/panorama/justiz/argentinien-krankenschwester-brenda-cecilia-agueero-nach-toetung-von-babys-verurteilt-a-9ca2cb7e-a809-4f48-929c-ebcfecc0599f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/koeln-explosion-zerstoert-eingangsbereich-von-restaurant](https://www.spiegel.de/panorama/justiz/koeln-explosion-zerstoert-eingangsbereich-von-restaurant-a-5aee4aae-7409-4da5-96b2-f96234590937#ref=rss)
-### ermitteln
-
-* [https://www.spiegel.de/panorama/justiz/argentinien-krankenschwester-brenda-cecilia-agueero-nach-toetung-von-babys-verurteilt](https://www.spiegel.de/panorama/justiz/argentinien-krankenschwester-brenda-cecilia-agueero-nach-toetung-von-babys-verurteilt-a-9ca2cb7e-a809-4f48-929c-ebcfecc0599f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/koeln-explosion-zerstoert-eingangsbereich-von-restaurant](https://www.spiegel.de/panorama/justiz/koeln-explosion-zerstoert-eingangsbereich-von-restaurant-a-5aee4aae-7409-4da5-96b2-f96234590937#ref=rss)
-### fokus
-
-* [https://www.spiegel.de/panorama/justiz/argentinien-krankenschwester-brenda-cecilia-agueero-nach-toetung-von-babys-verurteilt](https://www.spiegel.de/panorama/justiz/argentinien-krankenschwester-brenda-cecilia-agueero-nach-toetung-von-babys-verurteilt-a-9ca2cb7e-a809-4f48-929c-ebcfecc0599f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bad-freienwalde-durchsuchung-bei-21-jaehrigem-nach-ueberfall-auf-fest-fuer-vielfalt](https://www.spiegel.de/panorama/justiz/bad-freienwalde-durchsuchung-bei-21-jaehrigem-nach-ueberfall-auf-fest-fuer-vielfalt-a-1470034a-0c40-454a-a37c-cbd4b4ddfc14#ref=rss)
-### andrea
-
-* [https://www.spiegel.de/kultur/tv/andrea-kiewel-kehrt-in-den-zdf-fernsehgarten-zurueck](https://www.spiegel.de/kultur/tv/andrea-kiewel-kehrt-in-den-zdf-fernsehgarten-zurueck-a-ce42c9a8-ee0d-4947-987a-848e44284870#ref=rss)
-### kiewel
-
-* [https://www.spiegel.de/kultur/tv/andrea-kiewel-kehrt-in-den-zdf-fernsehgarten-zurueck](https://www.spiegel.de/kultur/tv/andrea-kiewel-kehrt-in-den-zdf-fernsehgarten-zurueck-a-ce42c9a8-ee0d-4947-987a-848e44284870#ref=rss)
-### kehrt
-
-* [https://www.spiegel.de/kultur/tv/andrea-kiewel-kehrt-in-den-zdf-fernsehgarten-zurueck](https://www.spiegel.de/kultur/tv/andrea-kiewel-kehrt-in-den-zdf-fernsehgarten-zurueck-a-ce42c9a8-ee0d-4947-987a-848e44284870#ref=rss)
-* [https://www.spiegel.de/wirtschaft/schweiz-nationalbank-senkt-leitzins-auf-null-prozent](https://www.spiegel.de/wirtschaft/schweiz-nationalbank-senkt-leitzins-auf-null-prozent-a-17287270-24d5-4f72-963a-b8c522777939#ref=rss)
-### schaffte
-
-* [https://www.spiegel.de/kultur/tv/andrea-kiewel-kehrt-in-den-zdf-fernsehgarten-zurueck](https://www.spiegel.de/kultur/tv/andrea-kiewel-kehrt-in-den-zdf-fernsehgarten-zurueck-a-ce42c9a8-ee0d-4947-987a-848e44284870#ref=rss)
-* [https://www.spiegel.de/sport/fussball/ehemaliger-bundesligaprofi-pierre-michel-lasogga-beendet-seine-karriere](https://www.spiegel.de/sport/fussball/ehemaliger-bundesligaprofi-pierre-michel-lasogga-beendet-seine-karriere-a-e305dbbb-e130-47f2-a872-c33f7a007138#ref=rss)
+* [https://www.spiegel.de/ausland/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-podcast](https://www.spiegel.de/ausland/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-podcast-a-c8604467-3bce-4594-93f9-4c0ad7e82aeb#ref=rss)
+* [https://www.spiegel.de/politik/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland](https://www.spiegel.de/politik/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-a-3c822530-fc2b-4744-b65e-2de8aaf26b86#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/sicherheit-wie-lange-braucht-europa-noch-bis-zur-kriegstuechtigkeit](https://www.spiegel.de/wirtschaft/unternehmen/sicherheit-wie-lange-braucht-europa-noch-bis-zur-kriegstuechtigkeit-a-9b6f5662-53fb-40ef-8ee6-21fcf3b88a0e#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/wissenschaft/mensch/trockenheit-in-deutschland-warum-das-land-mehr-schwaemme-braucht](https://www.spiegel.de/wissenschaft/mensch/trockenheit-in-deutschland-warum-das-land-mehr-schwaemme-braucht-a-d5aa60aa-7a10-4961-8777-f52cbba9c7a5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/sturm-und-hagel-unwetter-kosten-autoversicherungen-1-3-milliarden-euro](https://www.spiegel.de/wirtschaft/unternehmen/sturm-und-hagel-unwetter-kosten-autoversicherungen-1-3-milliarden-euro-a-5fc972c6-3e8b-4947-8746-a79874cf7a80#ref=rss)
-### vergangenen
+* [https://www.spiegel.de/kultur/trump-protest-in-washington-d-c-der-letzte-traurige-kruemel-der-demokratie](https://www.spiegel.de/kultur/trump-protest-in-washington-d-c-der-letzte-traurige-kruemel-der-demokratie-a-e9c400f6-fdeb-416e-808e-e2c57310df00#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/klimaschutz-co2-budget-fuer-1-5-grad-ziel-schrumpft-rapide](https://www.spiegel.de/wissenschaft/natur/klimaschutz-co2-budget-fuer-1-5-grad-ziel-schrumpft-rapide-a-00c12644-e1c2-406c-bbb9-72293655d7dd#ref=rss)
+* [https://www.spiegel.de/kultur/jeremy-renner-fuehlen-sie-sich-noch-mit-dem-tod-verbunden-immer-jede-sekunde-jeden-tag](https://www.spiegel.de/kultur/jeremy-renner-fuehlen-sie-sich-noch-mit-dem-tod-verbunden-immer-jede-sekunde-jeden-tag-a-042b1e86-8deb-4579-a66d-57adc1aec221#ref=rss)
+### finnland
 
-* [https://www.spiegel.de/ausland/russland-wirtschaftsminister-maxim-reschetnikow-warnt-vor-rezession](https://www.spiegel.de/ausland/russland-wirtschaftsminister-maxim-reschetnikow-warnt-vor-rezession-a-5bd53c12-b708-4a41-b58a-2c5e7867c81d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/sturm-und-hagel-unwetter-kosten-autoversicherungen-1-3-milliarden-euro](https://www.spiegel.de/wirtschaft/unternehmen/sturm-und-hagel-unwetter-kosten-autoversicherungen-1-3-milliarden-euro-a-5fc972c6-3e8b-4947-8746-a79874cf7a80#ref=rss)
-### unter
+* [https://www.spiegel.de/ausland/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-podcast](https://www.spiegel.de/ausland/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-podcast-a-c8604467-3bce-4594-93f9-4c0ad7e82aeb#ref=rss)
+* [https://www.spiegel.de/politik/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland](https://www.spiegel.de/politik/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-a-3c822530-fc2b-4744-b65e-2de8aaf26b86#ref=rss)
+### frauen
 
-* [https://www.spiegel.de/ausland/russland-wirtschaftsminister-maxim-reschetnikow-warnt-vor-rezession](https://www.spiegel.de/ausland/russland-wirtschaftsminister-maxim-reschetnikow-warnt-vor-rezession-a-5bd53c12-b708-4a41-b58a-2c5e7867c81d#ref=rss)
-* [https://www.spiegel.de/panorama/leute/sarah-jessica-parker-litt-unter-kommentaren-zu-ihrem-aussehen](https://www.spiegel.de/panorama/leute/sarah-jessica-parker-litt-unter-kommentaren-zu-ihrem-aussehen-a-19e4ce7e-6d43-43b0-bbc7-4d25bc6f25e9#ref=rss)
-### politischen
+* [https://www.spiegel.de/ausland/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-podcast](https://www.spiegel.de/ausland/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-podcast-a-c8604467-3bce-4594-93f9-4c0ad7e82aeb#ref=rss)
+* [https://www.spiegel.de/politik/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland](https://www.spiegel.de/politik/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-a-3c822530-fc2b-4744-b65e-2de8aaf26b86#ref=rss)
+### russland
 
-* [https://www.spiegel.de/ausland/russland-wirtschaftsminister-maxim-reschetnikow-warnt-vor-rezession](https://www.spiegel.de/ausland/russland-wirtschaftsminister-maxim-reschetnikow-warnt-vor-rezession-a-5bd53c12-b708-4a41-b58a-2c5e7867c81d#ref=rss)
-* [https://www.spiegel.de/ausland/gewalt-in-den-usa-politische-sitten-verrohen-in-der-aera-donald-trump](https://www.spiegel.de/ausland/gewalt-in-den-usa-politische-sitten-verrohen-in-der-aera-donald-trump-a-c4408265-9f44-4147-9189-8101f2de3d3a#ref=rss)
-### linke
+* [https://www.spiegel.de/ausland/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-podcast](https://www.spiegel.de/ausland/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-podcast-a-c8604467-3bce-4594-93f9-4c0ad7e82aeb#ref=rss)
+* [https://www.spiegel.de/politik/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland](https://www.spiegel.de/politik/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-a-3c822530-fc2b-4744-b65e-2de8aaf26b86#ref=rss)
+### donald
 
-* [https://www.spiegel.de/politik/deutschland/die-linke-bodo-ramelow-aeussert-sich-zur-umstrukturierung-in-thueringen](https://www.spiegel.de/politik/deutschland/die-linke-bodo-ramelow-aeussert-sich-zur-umstrukturierung-in-thueringen-a-57db6c52-2533-4f1a-a716-177fb46d4ee8#ref=rss)
-### bodo
+* [https://www.spiegel.de/ausland/donald-trump-unbekannte-stellen-kritische-skulptur-in-washington-auf](https://www.spiegel.de/ausland/donald-trump-unbekannte-stellen-kritische-skulptur-in-washington-auf-a-287c92d9-7bd9-42a7-b1de-58b35aec7a72#ref=rss)
+* [https://www.spiegel.de/ausland/nato-donald-trump-gipfel-soll-kuerzer-werden-um-us-praesident-nicht-zu-langweilen](https://www.spiegel.de/ausland/nato-donald-trump-gipfel-soll-kuerzer-werden-um-us-praesident-nicht-zu-langweilen-a-de29bbbf-5d6c-47bc-95a0-328a00e782dc#ref=rss)
+### trump
 
-* [https://www.spiegel.de/politik/deutschland/die-linke-bodo-ramelow-aeussert-sich-zur-umstrukturierung-in-thueringen](https://www.spiegel.de/politik/deutschland/die-linke-bodo-ramelow-aeussert-sich-zur-umstrukturierung-in-thueringen-a-57db6c52-2533-4f1a-a716-177fb46d4ee8#ref=rss)
-### ramelow
+* [https://www.spiegel.de/ausland/donald-trump-unbekannte-stellen-kritische-skulptur-in-washington-auf](https://www.spiegel.de/ausland/donald-trump-unbekannte-stellen-kritische-skulptur-in-washington-auf-a-287c92d9-7bd9-42a7-b1de-58b35aec7a72#ref=rss)
+* [https://www.spiegel.de/ausland/nato-donald-trump-gipfel-soll-kuerzer-werden-um-us-praesident-nicht-zu-langweilen](https://www.spiegel.de/ausland/nato-donald-trump-gipfel-soll-kuerzer-werden-um-us-praesident-nicht-zu-langweilen-a-de29bbbf-5d6c-47bc-95a0-328a00e782dc#ref=rss)
+### washington
 
-* [https://www.spiegel.de/politik/deutschland/die-linke-bodo-ramelow-aeussert-sich-zur-umstrukturierung-in-thueringen](https://www.spiegel.de/politik/deutschland/die-linke-bodo-ramelow-aeussert-sich-zur-umstrukturierung-in-thueringen-a-57db6c52-2533-4f1a-a716-177fb46d4ee8#ref=rss)
-### expremier
+* [https://www.spiegel.de/kultur/trump-protest-in-washington-d-c-der-letzte-traurige-kruemel-der-demokratie](https://www.spiegel.de/kultur/trump-protest-in-washington-d-c-der-letzte-traurige-kruemel-der-demokratie-a-e9c400f6-fdeb-416e-808e-e2c57310df00#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-unbekannte-stellen-kritische-skulptur-in-washington-auf](https://www.spiegel.de/ausland/donald-trump-unbekannte-stellen-kritische-skulptur-in-washington-auf-a-287c92d9-7bd9-42a7-b1de-58b35aec7a72#ref=rss)
+### neue
 
-* [https://www.spiegel.de/ausland/israles-ex-premier-ehud-barak-das-fehlen-einer-klaren-strategie-ist-ein-grosses-problem-in-gaza-wie-in-iran](https://www.spiegel.de/ausland/israles-ex-premier-ehud-barak-das-fehlen-einer-klaren-strategie-ist-ein-grosses-problem-in-gaza-wie-in-iran-a-5b2c62ff-be94-4ff7-955c-54d0f90dffd8#ref=rss)
-### ehud
+* [https://www.spiegel.de/kultur/trump-protest-in-washington-d-c-der-letzte-traurige-kruemel-der-demokratie](https://www.spiegel.de/kultur/trump-protest-in-washington-d-c-der-letzte-traurige-kruemel-der-demokratie-a-e9c400f6-fdeb-416e-808e-e2c57310df00#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-israel-iran-krieg-gewalt-in-den-usa-jeff-bezos-hochzeit](https://www.spiegel.de/politik/deutschland/news-des-tages-israel-iran-krieg-gewalt-in-den-usa-jeff-bezos-hochzeit-a-669488c4-7729-4655-8473-813c28235395#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-arzt-in-seiner-praxis-gefesselt-und-getoetet-neue-ermittlungserkenntnisse](https://www.spiegel.de/panorama/justiz/berlin-arzt-in-seiner-praxis-gefesselt-und-getoetet-neue-ermittlungserkenntnisse-a-cb9efcd5-9b58-4a08-8fd5-54f2de85e9fc#ref=rss)
+### nie
 
-* [https://www.spiegel.de/ausland/israles-ex-premier-ehud-barak-das-fehlen-einer-klaren-strategie-ist-ein-grosses-problem-in-gaza-wie-in-iran](https://www.spiegel.de/ausland/israles-ex-premier-ehud-barak-das-fehlen-einer-klaren-strategie-ist-ein-grosses-problem-in-gaza-wie-in-iran-a-5b2c62ff-be94-4ff7-955c-54d0f90dffd8#ref=rss)
-### barak
+* [https://www.spiegel.de/ausland/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-podcast](https://www.spiegel.de/ausland/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-podcast-a-c8604467-3bce-4594-93f9-4c0ad7e82aeb#ref=rss)
+* [https://www.spiegel.de/politik/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland](https://www.spiegel.de/politik/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-a-3c822530-fc2b-4744-b65e-2de8aaf26b86#ref=rss)
+* [https://www.spiegel.de/kultur/musik/sabrina-carpenter-wuerde-gern-handys-ihrer-konzertbesucher-wegschliessen-lassen](https://www.spiegel.de/kultur/musik/sabrina-carpenter-wuerde-gern-handys-ihrer-konzertbesucher-wegschliessen-lassen-a-d7374be7-7a23-4d40-87f0-71a336b250c4#ref=rss)
+### leisten
 
-* [https://www.spiegel.de/ausland/israles-ex-premier-ehud-barak-das-fehlen-einer-klaren-strategie-ist-ein-grosses-problem-in-gaza-wie-in-iran](https://www.spiegel.de/ausland/israles-ex-premier-ehud-barak-das-fehlen-einer-klaren-strategie-ist-ein-grosses-problem-in-gaza-wie-in-iran-a-5b2c62ff-be94-4ff7-955c-54d0f90dffd8#ref=rss)
-### strategie
+* [https://www.spiegel.de/ausland/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-podcast](https://www.spiegel.de/ausland/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-podcast-a-c8604467-3bce-4594-93f9-4c0ad7e82aeb#ref=rss)
+* [https://www.spiegel.de/politik/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland](https://www.spiegel.de/politik/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-a-3c822530-fc2b-4744-b65e-2de8aaf26b86#ref=rss)
+* [https://www.spiegel.de/reise/jeff-bezos-proteste-gegen-die-hochzeit-vom-amazon-gruender-in-venedig](https://www.spiegel.de/reise/jeff-bezos-proteste-gegen-die-hochzeit-vom-amazon-gruender-in-venedig-a-03eb5b69-840d-4a90-9ee8-6e4e2d3ecd14#ref=rss)
+### nato
 
-* [https://www.spiegel.de/ausland/israles-ex-premier-ehud-barak-das-fehlen-einer-klaren-strategie-ist-ein-grosses-problem-in-gaza-wie-in-iran](https://www.spiegel.de/ausland/israles-ex-premier-ehud-barak-das-fehlen-einer-klaren-strategie-ist-ein-grosses-problem-in-gaza-wie-in-iran-a-5b2c62ff-be94-4ff7-955c-54d0f90dffd8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/bundesrechnungshof-kritisiert-teure-berater-fuer-regierung](https://www.spiegel.de/wirtschaft/unternehmen/bundesrechnungshof-kritisiert-teure-berater-fuer-regierung-a-15a358c3-1259-440f-bdd6-670360ac79be#ref=rss)
-### großes
+* [https://www.spiegel.de/ausland/nato-spanien-kritisiert-hoehere-verteidigungsausgaben-als-kontraproduktiv](https://www.spiegel.de/ausland/nato-spanien-kritisiert-hoehere-verteidigungsausgaben-als-kontraproduktiv-a-053d2c81-4d46-461a-955d-e85e29c4ff1e#ref=rss)
+* [https://www.spiegel.de/ausland/nato-donald-trump-gipfel-soll-kuerzer-werden-um-us-praesident-nicht-zu-langweilen](https://www.spiegel.de/ausland/nato-donald-trump-gipfel-soll-kuerzer-werden-um-us-praesident-nicht-zu-langweilen-a-de29bbbf-5d6c-47bc-95a0-328a00e782dc#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/ausland/israles-ex-premier-ehud-barak-das-fehlen-einer-klaren-strategie-ist-ein-grosses-problem-in-gaza-wie-in-iran](https://www.spiegel.de/ausland/israles-ex-premier-ehud-barak-das-fehlen-einer-klaren-strategie-ist-ein-grosses-problem-in-gaza-wie-in-iran-a-5b2c62ff-be94-4ff7-955c-54d0f90dffd8#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-grosses-feuer-an-bekanntem-technoklub-wilde-renate](https://www.spiegel.de/panorama/berlin-grosses-feuer-an-bekanntem-technoklub-wilde-renate-a-a202766f-7b5d-4e35-86e9-dba425899780#ref=rss)
-### regime
+* [https://www.spiegel.de/panorama/seehausen-am-staffelsee-verletzte-bei-brueckeneinsturz-bei-fronleichnamsprozessesion](https://www.spiegel.de/panorama/seehausen-am-staffelsee-verletzte-bei-brueckeneinsturz-bei-fronleichnamsprozessesion-a-aa523b6f-2769-4902-920e-038f68f41076#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-zwei-millionen-rueckkehrer-trotz-anhaltender-gefahr](https://www.spiegel.de/ausland/syrien-zwei-millionen-rueckkehrer-trotz-anhaltender-gefahr-a-8ebe5fbd-36e8-4cd7-8b8b-fb34293fcd98#ref=rss)
+* [https://www.spiegel.de/sport/baseball-shohei-ohtani-startet-comeback-als-werfer-nach-verletzung](https://www.spiegel.de/sport/baseball-shohei-ohtani-startet-comeback-als-werfer-nach-verletzung-a-d5e5a6bb-5e5f-4bdd-8339-38e5d82feb73#ref=rss)
+### jeff
 
-* [https://www.spiegel.de/ausland/israles-ex-premier-ehud-barak-das-fehlen-einer-klaren-strategie-ist-ein-grosses-problem-in-gaza-wie-in-iran](https://www.spiegel.de/ausland/israles-ex-premier-ehud-barak-das-fehlen-einer-klaren-strategie-ist-ein-grosses-problem-in-gaza-wie-in-iran-a-5b2c62ff-be94-4ff7-955c-54d0f90dffd8#ref=rss)
-* [https://www.spiegel.de/geschichte/krieg-in-nahost-warum-der-angriff-israels-der-islamischen-republik-nutzen-kann](https://www.spiegel.de/geschichte/krieg-in-nahost-warum-der-angriff-israels-der-islamischen-republik-nutzen-kann-a-b3cfa494-f1e3-4bed-81a9-ebdaae3e99dc#ref=rss)
-### netanyahu
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-israel-iran-krieg-gewalt-in-den-usa-jeff-bezos-hochzeit](https://www.spiegel.de/politik/deutschland/news-des-tages-israel-iran-krieg-gewalt-in-den-usa-jeff-bezos-hochzeit-a-669488c4-7729-4655-8473-813c28235395#ref=rss)
+* [https://www.spiegel.de/reise/jeff-bezos-proteste-gegen-die-hochzeit-vom-amazon-gruender-in-venedig](https://www.spiegel.de/reise/jeff-bezos-proteste-gegen-die-hochzeit-vom-amazon-gruender-in-venedig-a-03eb5b69-840d-4a90-9ee8-6e4e2d3ecd14#ref=rss)
+### irans
 
-* [https://www.spiegel.de/ausland/israles-ex-premier-ehud-barak-das-fehlen-einer-klaren-strategie-ist-ein-grosses-problem-in-gaza-wie-in-iran](https://www.spiegel.de/ausland/israles-ex-premier-ehud-barak-das-fehlen-einer-klaren-strategie-ist-ein-grosses-problem-in-gaza-wie-in-iran-a-5b2c62ff-be94-4ff7-955c-54d0f90dffd8#ref=rss)
-* [https://www.spiegel.de/ausland/israel-iran-und-moeglicher-kriegseintritt-der-usa-irak-sollte-donald-trump-eine-lehre-sein](https://www.spiegel.de/ausland/israel-iran-und-moeglicher-kriegseintritt-der-usa-irak-sollte-donald-trump-eine-lehre-sein-a-95ae2d93-6ec5-4fd1-bee2-6b288646ff0e#ref=rss)
-### sarah
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-israel-iran-krieg-gewalt-in-den-usa-jeff-bezos-hochzeit](https://www.spiegel.de/politik/deutschland/news-des-tages-israel-iran-krieg-gewalt-in-den-usa-jeff-bezos-hochzeit-a-669488c4-7729-4655-8473-813c28235395#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundespraesident-und-das-diplomatische-corps-botschafter-ausflug-ohne-iranischen-vertreter](https://www.spiegel.de/politik/deutschland/bundespraesident-und-das-diplomatische-corps-botschafter-ausflug-ohne-iranischen-vertreter-a-e359e6aa-0d6b-4250-8b28-ff2b3d6e3f5a#ref=rss)
+### venedig
 
-* [https://www.spiegel.de/panorama/leute/sarah-jessica-parker-litt-unter-kommentaren-zu-ihrem-aussehen](https://www.spiegel.de/panorama/leute/sarah-jessica-parker-litt-unter-kommentaren-zu-ihrem-aussehen-a-19e4ce7e-6d43-43b0-bbc7-4d25bc6f25e9#ref=rss)
-### jessica
-
-* [https://www.spiegel.de/panorama/leute/sarah-jessica-parker-litt-unter-kommentaren-zu-ihrem-aussehen](https://www.spiegel.de/panorama/leute/sarah-jessica-parker-litt-unter-kommentaren-zu-ihrem-aussehen-a-19e4ce7e-6d43-43b0-bbc7-4d25bc6f25e9#ref=rss)
-### parker
-
-* [https://www.spiegel.de/panorama/leute/sarah-jessica-parker-litt-unter-kommentaren-zu-ihrem-aussehen](https://www.spiegel.de/panorama/leute/sarah-jessica-parker-litt-unter-kommentaren-zu-ihrem-aussehen-a-19e4ce7e-6d43-43b0-bbc7-4d25bc6f25e9#ref=rss)
-### serie
-
-* [https://www.spiegel.de/panorama/leute/sarah-jessica-parker-litt-unter-kommentaren-zu-ihrem-aussehen](https://www.spiegel.de/panorama/leute/sarah-jessica-parker-litt-unter-kommentaren-zu-ihrem-aussehen-a-19e4ce7e-6d43-43b0-bbc7-4d25bc6f25e9#ref=rss)
-* [https://www.spiegel.de/panorama/leute/simpsons-erfinder-matt-groening-wuerde-am-liebsten-homer-sein](https://www.spiegel.de/panorama/leute/simpsons-erfinder-matt-groening-wuerde-am-liebsten-homer-sein-a-36af5e76-b718-4cad-a88c-7b948119fa00#ref=rss)
-### jennifer
-
-* [https://www.spiegel.de/kultur/jennifer-wilton-welt-chefredakteurin-verlaesst-axel-springer](https://www.spiegel.de/kultur/jennifer-wilton-welt-chefredakteurin-verlaesst-axel-springer-a-093679ea-acbf-4c5c-8fc7-a92f9ca80f2f#ref=rss)
-### wilton
-
-* [https://www.spiegel.de/kultur/jennifer-wilton-welt-chefredakteurin-verlaesst-axel-springer](https://www.spiegel.de/kultur/jennifer-wilton-welt-chefredakteurin-verlaesst-axel-springer-a-093679ea-acbf-4c5c-8fc7-a92f9ca80f2f#ref=rss)
-### welt
-
-* [https://www.spiegel.de/kultur/jennifer-wilton-welt-chefredakteurin-verlaesst-axel-springer](https://www.spiegel.de/kultur/jennifer-wilton-welt-chefredakteurin-verlaesst-axel-springer-a-093679ea-acbf-4c5c-8fc7-a92f9ca80f2f#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-zum-israel-iran-krieg-niemand-weiss-genau-was-ich-tun-werde](https://www.spiegel.de/ausland/donald-trump-zum-israel-iran-krieg-niemand-weiss-genau-was-ich-tun-werde-a-0e62d81c-970e-4f05-beaf-679adb67c332#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-israel-iran-krieg-gewalt-in-den-usa-jeff-bezos-hochzeit](https://www.spiegel.de/politik/deutschland/news-des-tages-israel-iran-krieg-gewalt-in-den-usa-jeff-bezos-hochzeit-a-669488c4-7729-4655-8473-813c28235395#ref=rss)
+* [https://www.spiegel.de/reise/jeff-bezos-proteste-gegen-die-hochzeit-vom-amazon-gruender-in-venedig](https://www.spiegel.de/reise/jeff-bezos-proteste-gegen-die-hochzeit-vom-amazon-gruender-in-venedig-a-03eb5b69-840d-4a90-9ee8-6e4e2d3ecd14#ref=rss)
 ### millionen
 
-* [https://www.spiegel.de/netzwelt/israel-iran-konflikt-hacker-vernichten-offenbar-90-millionen-dollar-aus-iranischer-kryptoboerse](https://www.spiegel.de/netzwelt/israel-iran-konflikt-hacker-vernichten-offenbar-90-millionen-dollar-aus-iranischer-kryptoboerse-a-b9b100a6-f91c-4450-b6e6-f34689e1a7af#ref=rss)
-### dollar
+* [https://www.spiegel.de/ausland/syrien-zwei-millionen-rueckkehrer-trotz-anhaltender-gefahr](https://www.spiegel.de/ausland/syrien-zwei-millionen-rueckkehrer-trotz-anhaltender-gefahr-a-8ebe5fbd-36e8-4cd7-8b8b-fb34293fcd98#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/weltraum-heisses-gasfilament-offenbart-verborgene-materie-im-all](https://www.spiegel.de/wissenschaft/weltall/weltraum-heisses-gasfilament-offenbart-verborgene-materie-im-all-a-3bb8892d-cd6b-48d5-9884-df58908bfc00#ref=rss)
+### hund
 
-* [https://www.spiegel.de/netzwelt/israel-iran-konflikt-hacker-vernichten-offenbar-90-millionen-dollar-aus-iranischer-kryptoboerse](https://www.spiegel.de/netzwelt/israel-iran-konflikt-hacker-vernichten-offenbar-90-millionen-dollar-aus-iranischer-kryptoboerse-a-b9b100a6-f91c-4450-b6e6-f34689e1a7af#ref=rss)
-### größten
+* [https://www.spiegel.de/sport/fussball/egon-coordes-einer-der-es-nicht-leicht-mochte](https://www.spiegel.de/sport/fussball/egon-coordes-einer-der-es-nicht-leicht-mochte-a-e7fbf401-212b-48ef-8f7b-0e0da00029da#ref=rss)
+* [https://www.spiegel.de/panorama/tuebingen-familie-macht-urlaub-und-laesst-hund-zu-hause-zurueck](https://www.spiegel.de/panorama/tuebingen-familie-macht-urlaub-und-laesst-hund-zu-hause-zurueck-a-cc97bea0-2183-4ce4-ba4f-008d4c1c6d30#ref=rss)
+### 28
 
-* [https://www.spiegel.de/netzwelt/israel-iran-konflikt-hacker-vernichten-offenbar-90-millionen-dollar-aus-iranischer-kryptoboerse](https://www.spiegel.de/netzwelt/israel-iran-konflikt-hacker-vernichten-offenbar-90-millionen-dollar-aus-iranischer-kryptoboerse-a-b9b100a6-f91c-4450-b6e6-f34689e1a7af#ref=rss)
-* [https://www.spiegel.de/sport/fussball/ehemaliger-bundesligaprofi-pierre-michel-lasogga-beendet-seine-karriere](https://www.spiegel.de/sport/fussball/ehemaliger-bundesligaprofi-pierre-michel-lasogga-beendet-seine-karriere-a-e305dbbb-e130-47f2-a872-c33f7a007138#ref=rss)
-### vielfalt
+* [https://www.spiegel.de/kultur/28-years-later-zombies-die-auf-regenwuermern-kauen](https://www.spiegel.de/kultur/28-years-later-zombies-die-auf-regenwuermern-kauen-a-223c9541-ef1c-4e02-9420-c54c31ed5861#ref=rss)
+### later
 
-* [https://www.spiegel.de/panorama/justiz/bad-freienwalde-durchsuchung-bei-21-jaehrigem-nach-ueberfall-auf-fest-fuer-vielfalt](https://www.spiegel.de/panorama/justiz/bad-freienwalde-durchsuchung-bei-21-jaehrigem-nach-ueberfall-auf-fest-fuer-vielfalt-a-1470034a-0c40-454a-a37c-cbd4b4ddfc14#ref=rss)
-### spacex
+* [https://www.spiegel.de/kultur/28-years-later-zombies-die-auf-regenwuermern-kauen](https://www.spiegel.de/kultur/28-years-later-zombies-die-auf-regenwuermern-kauen-a-223c9541-ef1c-4e02-9420-c54c31ed5861#ref=rss)
+### praxis
 
-* [https://www.spiegel.de/wissenschaft/weltall/spacex-starship-explodiert-bei-bodentest-in-texas](https://www.spiegel.de/wissenschaft/weltall/spacex-starship-explodiert-bei-bodentest-in-texas-a-218f2341-15fd-4555-b1f2-ef77115bef28#ref=rss)
-### starship
+* [https://www.spiegel.de/panorama/justiz/berlin-arzt-in-seiner-praxis-gefesselt-und-getoetet-neue-ermittlungserkenntnisse](https://www.spiegel.de/panorama/justiz/berlin-arzt-in-seiner-praxis-gefesselt-und-getoetet-neue-ermittlungserkenntnisse-a-cb9efcd5-9b58-4a08-8fd5-54f2de85e9fc#ref=rss)
+### letzte
 
-* [https://www.spiegel.de/wissenschaft/weltall/spacex-starship-explodiert-bei-bodentest-in-texas](https://www.spiegel.de/wissenschaft/weltall/spacex-starship-explodiert-bei-bodentest-in-texas-a-218f2341-15fd-4555-b1f2-ef77115bef28#ref=rss)
-### laut
+* [https://www.spiegel.de/kultur/trump-protest-in-washington-d-c-der-letzte-traurige-kruemel-der-demokratie](https://www.spiegel.de/kultur/trump-protest-in-washington-d-c-der-letzte-traurige-kruemel-der-demokratie-a-e9c400f6-fdeb-416e-808e-e2c57310df00#ref=rss)
+* [https://www.spiegel.de/panorama/sylt-goldschakal-abschuss-ist-weiter-zulaessig-urteilt-verwaltungsgericht](https://www.spiegel.de/panorama/sylt-goldschakal-abschuss-ist-weiter-zulaessig-urteilt-verwaltungsgericht-a-76c5353a-59c9-4697-b399-69df46204e8b#ref=rss)
+### benjamin
 
-* [https://www.spiegel.de/wissenschaft/weltall/spacex-starship-explodiert-bei-bodentest-in-texas](https://www.spiegel.de/wissenschaft/weltall/spacex-starship-explodiert-bei-bodentest-in-texas-a-218f2341-15fd-4555-b1f2-ef77115bef28#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/bundesrechnungshof-kritisiert-teure-berater-fuer-regierung](https://www.spiegel.de/wirtschaft/unternehmen/bundesrechnungshof-kritisiert-teure-berater-fuer-regierung-a-15a358c3-1259-440f-bdd6-670360ac79be#ref=rss)
-### darüber
+* [https://www.spiegel.de/ausland/israel-iran-news-deutschland-frankreich-und-grossbritannien-planen-treffen-mit-iranischem-aussenminister](https://www.spiegel.de/ausland/israel-iran-news-deutschland-frankreich-und-grossbritannien-planen-treffen-mit-iranischem-aussenminister-a-c8031807-4850-46e6-a7a8-23a62ab1d51a#ref=rss)
+### netanyahu
 
-* [https://www.spiegel.de/ausland/donald-trump-zum-israel-iran-krieg-niemand-weiss-genau-was-ich-tun-werde](https://www.spiegel.de/ausland/donald-trump-zum-israel-iran-krieg-niemand-weiss-genau-was-ich-tun-werde-a-0e62d81c-970e-4f05-beaf-679adb67c332#ref=rss)
-* [https://www.spiegel.de/ausland/usa-tucker-carlson-und-ted-cruz-streiten-sich-ueber-iran-israel-konflikt](https://www.spiegel.de/ausland/usa-tucker-carlson-und-ted-cruz-streiten-sich-ueber-iran-israel-konflikt-a-afc869d7-5e95-4a04-8e1a-a0fcf7c5783f#ref=rss)
-### michigan
+* [https://www.spiegel.de/ausland/israel-iran-news-deutschland-frankreich-und-grossbritannien-planen-treffen-mit-iranischem-aussenminister](https://www.spiegel.de/ausland/israel-iran-news-deutschland-frankreich-und-grossbritannien-planen-treffen-mit-iranischem-aussenminister-a-c8031807-4850-46e6-a7a8-23a62ab1d51a#ref=rss)
+### sturz
 
-* [https://www.spiegel.de/wissenschaft/natur/michigan-baer-ueberlebt-zwei-jahre-mit-plastikdeckel-um-den-hals](https://www.spiegel.de/wissenschaft/natur/michigan-baer-ueberlebt-zwei-jahre-mit-plastikdeckel-um-den-hals-a-c6b4b1a1-bbbd-4a93-9fab-6a00ce34b2ed#ref=rss)
-### plastikdeckel
+* [https://www.spiegel.de/ausland/israel-iran-news-deutschland-frankreich-und-grossbritannien-planen-treffen-mit-iranischem-aussenminister](https://www.spiegel.de/ausland/israel-iran-news-deutschland-frankreich-und-grossbritannien-planen-treffen-mit-iranischem-aussenminister-a-c8031807-4850-46e6-a7a8-23a62ab1d51a#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-zwei-millionen-rueckkehrer-trotz-anhaltender-gefahr](https://www.spiegel.de/ausland/syrien-zwei-millionen-rueckkehrer-trotz-anhaltender-gefahr-a-8ebe5fbd-36e8-4cd7-8b8b-fb34293fcd98#ref=rss)
+### ziel
 
-* [https://www.spiegel.de/wissenschaft/natur/michigan-baer-ueberlebt-zwei-jahre-mit-plastikdeckel-um-den-hals](https://www.spiegel.de/wissenschaft/natur/michigan-baer-ueberlebt-zwei-jahre-mit-plastikdeckel-um-den-hals-a-c6b4b1a1-bbbd-4a93-9fab-6a00ce34b2ed#ref=rss)
-### lang
+* [https://www.spiegel.de/ausland/israel-iran-news-deutschland-frankreich-und-grossbritannien-planen-treffen-mit-iranischem-aussenminister](https://www.spiegel.de/ausland/israel-iran-news-deutschland-frankreich-und-grossbritannien-planen-treffen-mit-iranischem-aussenminister-a-c8031807-4850-46e6-a7a8-23a62ab1d51a#ref=rss)
+### ergebnis
 
-* [https://www.spiegel.de/wissenschaft/natur/michigan-baer-ueberlebt-zwei-jahre-mit-plastikdeckel-um-den-hals](https://www.spiegel.de/wissenschaft/natur/michigan-baer-ueberlebt-zwei-jahre-mit-plastikdeckel-um-den-hals-a-c6b4b1a1-bbbd-4a93-9fab-6a00ce34b2ed#ref=rss)
-* [https://www.spiegel.de/panorama/leute/simpsons-erfinder-matt-groening-wuerde-am-liebsten-homer-sein](https://www.spiegel.de/panorama/leute/simpsons-erfinder-matt-groening-wuerde-am-liebsten-homer-sein-a-36af5e76-b718-4cad-a88c-7b948119fa00#ref=rss)
-### sitten
+* [https://www.spiegel.de/ausland/israel-iran-news-deutschland-frankreich-und-grossbritannien-planen-treffen-mit-iranischem-aussenminister](https://www.spiegel.de/ausland/israel-iran-news-deutschland-frankreich-und-grossbritannien-planen-treffen-mit-iranischem-aussenminister-a-c8031807-4850-46e6-a7a8-23a62ab1d51a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/sicherheit-wie-lange-braucht-europa-noch-bis-zur-kriegstuechtigkeit](https://www.spiegel.de/wirtschaft/unternehmen/sicherheit-wie-lange-braucht-europa-noch-bis-zur-kriegstuechtigkeit-a-9b6f5662-53fb-40ef-8ee6-21fcf3b88a0e#ref=rss)
+### saintquentin
 
-* [https://www.spiegel.de/ausland/gewalt-in-den-usa-politische-sitten-verrohen-in-der-aera-donald-trump](https://www.spiegel.de/ausland/gewalt-in-den-usa-politische-sitten-verrohen-in-der-aera-donald-trump-a-c4408265-9f44-4147-9189-8101f2de3d3a#ref=rss)
-### wilde
+* [https://www.spiegel.de/ausland/saint-quentin-sieben-kinder-von-raetselhaften-erkrankungen-in-nordfrankreich-betroffen](https://www.spiegel.de/ausland/saint-quentin-sieben-kinder-von-raetselhaften-erkrankungen-in-nordfrankreich-betroffen-a-02cb05bd-7870-4526-90f8-5a84b05336df#ref=rss)
+### sieben
 
-* [https://www.spiegel.de/panorama/berlin-grosses-feuer-an-bekanntem-technoklub-wilde-renate](https://www.spiegel.de/panorama/berlin-grosses-feuer-an-bekanntem-technoklub-wilde-renate-a-a202766f-7b5d-4e35-86e9-dba425899780#ref=rss)
-### renate
+* [https://www.spiegel.de/ausland/saint-quentin-sieben-kinder-von-raetselhaften-erkrankungen-in-nordfrankreich-betroffen](https://www.spiegel.de/ausland/saint-quentin-sieben-kinder-von-raetselhaften-erkrankungen-in-nordfrankreich-betroffen-a-02cb05bd-7870-4526-90f8-5a84b05336df#ref=rss)
+### kinder
 
-* [https://www.spiegel.de/panorama/berlin-grosses-feuer-an-bekanntem-technoklub-wilde-renate](https://www.spiegel.de/panorama/berlin-grosses-feuer-an-bekanntem-technoklub-wilde-renate-a-a202766f-7b5d-4e35-86e9-dba425899780#ref=rss)
-### schweiz
+* [https://www.spiegel.de/ausland/saint-quentin-sieben-kinder-von-raetselhaften-erkrankungen-in-nordfrankreich-betroffen](https://www.spiegel.de/ausland/saint-quentin-sieben-kinder-von-raetselhaften-erkrankungen-in-nordfrankreich-betroffen-a-02cb05bd-7870-4526-90f8-5a84b05336df#ref=rss)
+### gekommen
 
-* [https://www.spiegel.de/wirtschaft/schweiz-nationalbank-senkt-leitzins-auf-null-prozent](https://www.spiegel.de/wirtschaft/schweiz-nationalbank-senkt-leitzins-auf-null-prozent-a-17287270-24d5-4f72-963a-b8c522777939#ref=rss)
-### leitzins
+* [https://www.spiegel.de/ausland/saint-quentin-sieben-kinder-von-raetselhaften-erkrankungen-in-nordfrankreich-betroffen](https://www.spiegel.de/ausland/saint-quentin-sieben-kinder-von-raetselhaften-erkrankungen-in-nordfrankreich-betroffen-a-02cb05bd-7870-4526-90f8-5a84b05336df#ref=rss)
+* [https://www.spiegel.de/panorama/seehausen-am-staffelsee-verletzte-bei-brueckeneinsturz-bei-fronleichnamsprozessesion](https://www.spiegel.de/panorama/seehausen-am-staffelsee-verletzte-bei-brueckeneinsturz-bei-fronleichnamsprozessesion-a-aa523b6f-2769-4902-920e-038f68f41076#ref=rss)
+### lernen
 
-* [https://www.spiegel.de/wirtschaft/schweiz-nationalbank-senkt-leitzins-auf-null-prozent](https://www.spiegel.de/wirtschaft/schweiz-nationalbank-senkt-leitzins-auf-null-prozent-a-17287270-24d5-4f72-963a-b8c522777939#ref=rss)
-### jahr
+* [https://www.spiegel.de/ausland/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-podcast](https://www.spiegel.de/ausland/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-podcast-a-c8604467-3bce-4594-93f9-4c0ad7e82aeb#ref=rss)
+* [https://www.spiegel.de/politik/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland](https://www.spiegel.de/politik/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-a-3c822530-fc2b-4744-b65e-2de8aaf26b86#ref=rss)
+### verteidigung
 
-* [https://www.spiegel.de/wirtschaft/schweiz-nationalbank-senkt-leitzins-auf-null-prozent](https://www.spiegel.de/wirtschaft/schweiz-nationalbank-senkt-leitzins-auf-null-prozent-a-17287270-24d5-4f72-963a-b8c522777939#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/sturm-und-hagel-unwetter-kosten-autoversicherungen-1-3-milliarden-euro](https://www.spiegel.de/wirtschaft/unternehmen/sturm-und-hagel-unwetter-kosten-autoversicherungen-1-3-milliarden-euro-a-5fc972c6-3e8b-4947-8746-a79874cf7a80#ref=rss)
-### explosion
+* [https://www.spiegel.de/ausland/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-podcast](https://www.spiegel.de/ausland/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-podcast-a-c8604467-3bce-4594-93f9-4c0ad7e82aeb#ref=rss)
+* [https://www.spiegel.de/politik/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland](https://www.spiegel.de/politik/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-a-3c822530-fc2b-4744-b65e-2de8aaf26b86#ref=rss)
+### anders
 
-* [https://www.spiegel.de/panorama/justiz/koeln-explosion-zerstoert-eingangsbereich-von-restaurant](https://www.spiegel.de/panorama/justiz/koeln-explosion-zerstoert-eingangsbereich-von-restaurant-a-5aee4aae-7409-4da5-96b2-f96234590937#ref=rss)
-### restaurant
+* [https://www.spiegel.de/ausland/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-podcast](https://www.spiegel.de/ausland/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-podcast-a-c8604467-3bce-4594-93f9-4c0ad7e82aeb#ref=rss)
+* [https://www.spiegel.de/politik/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland](https://www.spiegel.de/politik/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-a-3c822530-fc2b-4744-b65e-2de8aaf26b86#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/panorama/justiz/koeln-explosion-zerstoert-eingangsbereich-von-restaurant](https://www.spiegel.de/panorama/justiz/koeln-explosion-zerstoert-eingangsbereich-von-restaurant-a-5aee4aae-7409-4da5-96b2-f96234590937#ref=rss)
-### bundesrechnungshof
+* [https://www.spiegel.de/ausland/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-podcast](https://www.spiegel.de/ausland/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-podcast-a-c8604467-3bce-4594-93f9-4c0ad7e82aeb#ref=rss)
+* [https://www.spiegel.de/politik/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland](https://www.spiegel.de/politik/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-a-3c822530-fc2b-4744-b65e-2de8aaf26b86#ref=rss)
+### verdrängt
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/bundesrechnungshof-kritisiert-teure-berater-fuer-regierung](https://www.spiegel.de/wirtschaft/unternehmen/bundesrechnungshof-kritisiert-teure-berater-fuer-regierung-a-15a358c3-1259-440f-bdd6-670360ac79be#ref=rss)
-### berater
+* [https://www.spiegel.de/ausland/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-podcast](https://www.spiegel.de/ausland/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-podcast-a-c8604467-3bce-4594-93f9-4c0ad7e82aeb#ref=rss)
+* [https://www.spiegel.de/politik/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland](https://www.spiegel.de/politik/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-a-3c822530-fc2b-4744-b65e-2de8aaf26b86#ref=rss)
+### männer
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/bundesrechnungshof-kritisiert-teure-berater-fuer-regierung](https://www.spiegel.de/wirtschaft/unternehmen/bundesrechnungshof-kritisiert-teure-berater-fuer-regierung-a-15a358c3-1259-440f-bdd6-670360ac79be#ref=rss)
-### regierung
+* [https://www.spiegel.de/ausland/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-podcast](https://www.spiegel.de/ausland/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-podcast-a-c8604467-3bce-4594-93f9-4c0ad7e82aeb#ref=rss)
+* [https://www.spiegel.de/politik/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland](https://www.spiegel.de/politik/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-a-3c822530-fc2b-4744-b65e-2de8aaf26b86#ref=rss)
+### wehrdienst
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/bundesrechnungshof-kritisiert-teure-berater-fuer-regierung](https://www.spiegel.de/wirtschaft/unternehmen/bundesrechnungshof-kritisiert-teure-berater-fuer-regierung-a-15a358c3-1259-440f-bdd6-670360ac79be#ref=rss)
-* [https://www.spiegel.de/ausland/usa-tucker-carlson-und-ted-cruz-streiten-sich-ueber-iran-israel-konflikt](https://www.spiegel.de/ausland/usa-tucker-carlson-und-ted-cruz-streiten-sich-ueber-iran-israel-konflikt-a-afc869d7-5e95-4a04-8e1a-a0fcf7c5783f#ref=rss)
-### fordern
+* [https://www.spiegel.de/ausland/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-podcast](https://www.spiegel.de/ausland/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-podcast-a-c8604467-3bce-4594-93f9-4c0ad7e82aeb#ref=rss)
+* [https://www.spiegel.de/politik/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland](https://www.spiegel.de/politik/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-a-3c822530-fc2b-4744-b65e-2de8aaf26b86#ref=rss)
+### absolvieren
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/bundesrechnungshof-kritisiert-teure-berater-fuer-regierung](https://www.spiegel.de/wirtschaft/unternehmen/bundesrechnungshof-kritisiert-teure-berater-fuer-regierung-a-15a358c3-1259-440f-bdd6-670360ac79be#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/energiewende-wenn-die-stilllegung-des-gasanschlusses-5-000-euro-kostet](https://www.spiegel.de/wirtschaft/service/energiewende-wenn-die-stilllegung-des-gasanschlusses-5-000-euro-kostet-a-49718431-fc20-4c7b-a7c4-be8d01658da3#ref=rss)
-### asyl
+* [https://www.spiegel.de/ausland/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-podcast](https://www.spiegel.de/ausland/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-podcast-a-c8604467-3bce-4594-93f9-4c0ad7e82aeb#ref=rss)
+* [https://www.spiegel.de/politik/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland](https://www.spiegel.de/politik/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-a-3c822530-fc2b-4744-b65e-2de8aaf26b86#ref=rss)
+### zunehmend
 
-* [https://www.spiegel.de/ausland/grossbritannien-warum-eine-trans-frau-asyl-in-argentinien-will](https://www.spiegel.de/ausland/grossbritannien-warum-eine-trans-frau-asyl-in-argentinien-will-a-4ab41440-3c0f-49b8-aca9-503b570fcadd#ref=rss)
-### entschied
+* [https://www.spiegel.de/ausland/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-podcast](https://www.spiegel.de/ausland/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-podcast-a-c8604467-3bce-4594-93f9-4c0ad7e82aeb#ref=rss)
+* [https://www.spiegel.de/politik/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland](https://www.spiegel.de/politik/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-a-3c822530-fc2b-4744-b65e-2de8aaf26b86#ref=rss)
+### kurse
 
-* [https://www.spiegel.de/ausland/grossbritannien-warum-eine-trans-frau-asyl-in-argentinien-will](https://www.spiegel.de/ausland/grossbritannien-warum-eine-trans-frau-asyl-in-argentinien-will-a-4ab41440-3c0f-49b8-aca9-503b570fcadd#ref=rss)
-* [https://www.spiegel.de/start/berufseinstieg-als-goldschmiedin-wie-viel-arbeit-in-einem-kleinen-schmuckstu-ck-steckt](https://www.spiegel.de/start/berufseinstieg-als-goldschmiedin-wie-viel-arbeit-in-einem-kleinen-schmuckstu-ck-steckt-a-41890b6b-9c5c-42ac-a749-9920a3201eb2#ref=rss)
-### goldschmiedin
+* [https://www.spiegel.de/ausland/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-podcast](https://www.spiegel.de/ausland/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-podcast-a-c8604467-3bce-4594-93f9-4c0ad7e82aeb#ref=rss)
+* [https://www.spiegel.de/politik/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland](https://www.spiegel.de/politik/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-a-3c822530-fc2b-4744-b65e-2de8aaf26b86#ref=rss)
+### ernstfall
 
-* [https://www.spiegel.de/start/berufseinstieg-als-goldschmiedin-wie-viel-arbeit-in-einem-kleinen-schmuckstu-ck-steckt](https://www.spiegel.de/start/berufseinstieg-als-goldschmiedin-wie-viel-arbeit-in-einem-kleinen-schmuckstu-ck-steckt-a-41890b6b-9c5c-42ac-a749-9920a3201eb2#ref=rss)
-### real
+* [https://www.spiegel.de/ausland/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-podcast](https://www.spiegel.de/ausland/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-podcast-a-c8604467-3bce-4594-93f9-4c0ad7e82aeb#ref=rss)
+* [https://www.spiegel.de/politik/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland](https://www.spiegel.de/politik/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-a-3c822530-fc2b-4744-b65e-2de8aaf26b86#ref=rss)
+### spiegelredakteurin
 
-* [https://www.spiegel.de/sport/fussball/klub-wm-real-madrid-enttaeuscht-bei-remis-gegen-al-hilal-schwaches-debuet-fuer-trainer-xabi-alonso](https://www.spiegel.de/sport/fussball/klub-wm-real-madrid-enttaeuscht-bei-remis-gegen-al-hilal-schwaches-debuet-fuer-trainer-xabi-alonso-a-0a5a4f1e-4659-4578-9c25-d656e878f434#ref=rss)
-### madrid
+* [https://www.spiegel.de/ausland/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-podcast](https://www.spiegel.de/ausland/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-podcast-a-c8604467-3bce-4594-93f9-4c0ad7e82aeb#ref=rss)
+* [https://www.spiegel.de/politik/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland](https://www.spiegel.de/politik/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-a-3c822530-fc2b-4744-b65e-2de8aaf26b86#ref=rss)
+### janita
 
-* [https://www.spiegel.de/sport/fussball/klub-wm-real-madrid-enttaeuscht-bei-remis-gegen-al-hilal-schwaches-debuet-fuer-trainer-xabi-alonso](https://www.spiegel.de/sport/fussball/klub-wm-real-madrid-enttaeuscht-bei-remis-gegen-al-hilal-schwaches-debuet-fuer-trainer-xabi-alonso-a-0a5a4f1e-4659-4578-9c25-d656e878f434#ref=rss)
-### alhilal
+* [https://www.spiegel.de/ausland/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-podcast](https://www.spiegel.de/ausland/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-podcast-a-c8604467-3bce-4594-93f9-4c0ad7e82aeb#ref=rss)
+* [https://www.spiegel.de/politik/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland](https://www.spiegel.de/politik/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-a-3c822530-fc2b-4744-b65e-2de8aaf26b86#ref=rss)
+### hämäläinen
 
-* [https://www.spiegel.de/sport/fussball/klub-wm-real-madrid-enttaeuscht-bei-remis-gegen-al-hilal-schwaches-debuet-fuer-trainer-xabi-alonso](https://www.spiegel.de/sport/fussball/klub-wm-real-madrid-enttaeuscht-bei-remis-gegen-al-hilal-schwaches-debuet-fuer-trainer-xabi-alonso-a-0a5a4f1e-4659-4578-9c25-d656e878f434#ref=rss)
-### xabi
+* [https://www.spiegel.de/ausland/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-podcast](https://www.spiegel.de/ausland/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-podcast-a-c8604467-3bce-4594-93f9-4c0ad7e82aeb#ref=rss)
+* [https://www.spiegel.de/politik/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland](https://www.spiegel.de/politik/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-a-3c822530-fc2b-4744-b65e-2de8aaf26b86#ref=rss)
+### beobachtet
 
-* [https://www.spiegel.de/sport/fussball/klub-wm-real-madrid-enttaeuscht-bei-remis-gegen-al-hilal-schwaches-debuet-fuer-trainer-xabi-alonso](https://www.spiegel.de/sport/fussball/klub-wm-real-madrid-enttaeuscht-bei-remis-gegen-al-hilal-schwaches-debuet-fuer-trainer-xabi-alonso-a-0a5a4f1e-4659-4578-9c25-d656e878f434#ref=rss)
-### alonso
+* [https://www.spiegel.de/ausland/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-podcast](https://www.spiegel.de/ausland/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-podcast-a-c8604467-3bce-4594-93f9-4c0ad7e82aeb#ref=rss)
+* [https://www.spiegel.de/politik/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland](https://www.spiegel.de/politik/finnland-frauen-lernen-verteidigung-wegen-bedrohung-durch-russland-a-3c822530-fc2b-4744-b65e-2de8aaf26b86#ref=rss)
+### spanien
 
-* [https://www.spiegel.de/sport/fussball/klub-wm-real-madrid-enttaeuscht-bei-remis-gegen-al-hilal-schwaches-debuet-fuer-trainer-xabi-alonso](https://www.spiegel.de/sport/fussball/klub-wm-real-madrid-enttaeuscht-bei-remis-gegen-al-hilal-schwaches-debuet-fuer-trainer-xabi-alonso-a-0a5a4f1e-4659-4578-9c25-d656e878f434#ref=rss)
-### republik
+* [https://www.spiegel.de/ausland/nato-spanien-kritisiert-hoehere-verteidigungsausgaben-als-kontraproduktiv](https://www.spiegel.de/ausland/nato-spanien-kritisiert-hoehere-verteidigungsausgaben-als-kontraproduktiv-a-053d2c81-4d46-461a-955d-e85e29c4ff1e#ref=rss)
+### kontraproduktiv
 
-* [https://www.spiegel.de/geschichte/krieg-in-nahost-warum-der-angriff-israels-der-islamischen-republik-nutzen-kann](https://www.spiegel.de/geschichte/krieg-in-nahost-warum-der-angriff-israels-der-islamischen-republik-nutzen-kann-a-b3cfa494-f1e3-4bed-81a9-ebdaae3e99dc#ref=rss)
-### militärisch
+* [https://www.spiegel.de/ausland/nato-spanien-kritisiert-hoehere-verteidigungsausgaben-als-kontraproduktiv](https://www.spiegel.de/ausland/nato-spanien-kritisiert-hoehere-verteidigungsausgaben-als-kontraproduktiv-a-053d2c81-4d46-461a-955d-e85e29c4ff1e#ref=rss)
+### spiegel
 
-* [https://www.spiegel.de/geschichte/krieg-in-nahost-warum-der-angriff-israels-der-islamischen-republik-nutzen-kann](https://www.spiegel.de/geschichte/krieg-in-nahost-warum-der-angriff-israels-der-islamischen-republik-nutzen-kann-a-b3cfa494-f1e3-4bed-81a9-ebdaae3e99dc#ref=rss)
-* [https://www.spiegel.de/ausland/usa-tucker-carlson-und-ted-cruz-streiten-sich-ueber-iran-israel-konflikt](https://www.spiegel.de/ausland/usa-tucker-carlson-und-ted-cruz-streiten-sich-ueber-iran-israel-konflikt-a-afc869d7-5e95-4a04-8e1a-a0fcf7c5783f#ref=rss)
-### landes
+* [https://www.spiegel.de/ausland/nato-spanien-kritisiert-hoehere-verteidigungsausgaben-als-kontraproduktiv](https://www.spiegel.de/ausland/nato-spanien-kritisiert-hoehere-verteidigungsausgaben-als-kontraproduktiv-a-053d2c81-4d46-461a-955d-e85e29c4ff1e#ref=rss)
+* [https://www.spiegel.de/kultur/scarlett-johansson-wuerde-selbst-regie-bei-einem-actionfilm-fuehren](https://www.spiegel.de/kultur/scarlett-johansson-wuerde-selbst-regie-bei-einem-actionfilm-fuehren-a-41452190-d327-482f-8f09-635a1a08896c#ref=rss)
+### gipfel
 
-* [https://www.spiegel.de/geschichte/krieg-in-nahost-warum-der-angriff-israels-der-islamischen-republik-nutzen-kann](https://www.spiegel.de/geschichte/krieg-in-nahost-warum-der-angriff-israels-der-islamischen-republik-nutzen-kann-a-b3cfa494-f1e3-4bed-81a9-ebdaae3e99dc#ref=rss)
-* [https://www.spiegel.de/ausland/usa-tucker-carlson-und-ted-cruz-streiten-sich-ueber-iran-israel-konflikt](https://www.spiegel.de/ausland/usa-tucker-carlson-und-ted-cruz-streiten-sich-ueber-iran-israel-konflikt-a-afc869d7-5e95-4a04-8e1a-a0fcf7c5783f#ref=rss)
-### tucker
+* [https://www.spiegel.de/ausland/nato-spanien-kritisiert-hoehere-verteidigungsausgaben-als-kontraproduktiv](https://www.spiegel.de/ausland/nato-spanien-kritisiert-hoehere-verteidigungsausgaben-als-kontraproduktiv-a-053d2c81-4d46-461a-955d-e85e29c4ff1e#ref=rss)
+* [https://www.spiegel.de/ausland/nato-donald-trump-gipfel-soll-kuerzer-werden-um-us-praesident-nicht-zu-langweilen](https://www.spiegel.de/ausland/nato-donald-trump-gipfel-soll-kuerzer-werden-um-us-praesident-nicht-zu-langweilen-a-de29bbbf-5d6c-47bc-95a0-328a00e782dc#ref=rss)
+### streit
 
-* [https://www.spiegel.de/ausland/usa-tucker-carlson-und-ted-cruz-streiten-sich-ueber-iran-israel-konflikt](https://www.spiegel.de/ausland/usa-tucker-carlson-und-ted-cruz-streiten-sich-ueber-iran-israel-konflikt-a-afc869d7-5e95-4a04-8e1a-a0fcf7c5783f#ref=rss)
-### carlson
+* [https://www.spiegel.de/ausland/nato-spanien-kritisiert-hoehere-verteidigungsausgaben-als-kontraproduktiv](https://www.spiegel.de/ausland/nato-spanien-kritisiert-hoehere-verteidigungsausgaben-als-kontraproduktiv-a-053d2c81-4d46-461a-955d-e85e29c4ff1e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/eu-finanzierung-konservative-und-rechte-fuehren-kontrollgremium-fuer-ngos-ein](https://www.spiegel.de/politik/deutschland/eu-finanzierung-konservative-und-rechte-fuehren-kontrollgremium-fuer-ngos-ein-a-d020e94c-dea7-47f6-bb4a-b2fbbe5deb36#ref=rss)
+### verletzte
 
-* [https://www.spiegel.de/ausland/usa-tucker-carlson-und-ted-cruz-streiten-sich-ueber-iran-israel-konflikt](https://www.spiegel.de/ausland/usa-tucker-carlson-und-ted-cruz-streiten-sich-ueber-iran-israel-konflikt-a-afc869d7-5e95-4a04-8e1a-a0fcf7c5783f#ref=rss)
-### streiten
+* [https://www.spiegel.de/panorama/seehausen-am-staffelsee-verletzte-bei-brueckeneinsturz-bei-fronleichnamsprozessesion](https://www.spiegel.de/panorama/seehausen-am-staffelsee-verletzte-bei-brueckeneinsturz-bei-fronleichnamsprozessesion-a-aa523b6f-2769-4902-920e-038f68f41076#ref=rss)
+### usa
 
-* [https://www.spiegel.de/ausland/usa-tucker-carlson-und-ted-cruz-streiten-sich-ueber-iran-israel-konflikt](https://www.spiegel.de/ausland/usa-tucker-carlson-und-ted-cruz-streiten-sich-ueber-iran-israel-konflikt-a-afc869d7-5e95-4a04-8e1a-a0fcf7c5783f#ref=rss)
-### pierremichel
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-israel-iran-krieg-gewalt-in-den-usa-jeff-bezos-hochzeit](https://www.spiegel.de/politik/deutschland/news-des-tages-israel-iran-krieg-gewalt-in-den-usa-jeff-bezos-hochzeit-a-669488c4-7729-4655-8473-813c28235395#ref=rss)
+### hochzeit
 
-* [https://www.spiegel.de/sport/fussball/ehemaliger-bundesligaprofi-pierre-michel-lasogga-beendet-seine-karriere](https://www.spiegel.de/sport/fussball/ehemaliger-bundesligaprofi-pierre-michel-lasogga-beendet-seine-karriere-a-e305dbbb-e130-47f2-a872-c33f7a007138#ref=rss)
-### lasogga
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-israel-iran-krieg-gewalt-in-den-usa-jeff-bezos-hochzeit](https://www.spiegel.de/politik/deutschland/news-des-tages-israel-iran-krieg-gewalt-in-den-usa-jeff-bezos-hochzeit-a-669488c4-7729-4655-8473-813c28235395#ref=rss)
+* [https://www.spiegel.de/reise/jeff-bezos-proteste-gegen-die-hochzeit-vom-amazon-gruender-in-venedig](https://www.spiegel.de/reise/jeff-bezos-proteste-gegen-die-hochzeit-vom-amazon-gruender-in-venedig-a-03eb5b69-840d-4a90-9ee8-6e4e2d3ecd14#ref=rss)
+### bewohner
 
-* [https://www.spiegel.de/sport/fussball/ehemaliger-bundesligaprofi-pierre-michel-lasogga-beendet-seine-karriere](https://www.spiegel.de/sport/fussball/ehemaliger-bundesligaprofi-pierre-michel-lasogga-beendet-seine-karriere-a-e305dbbb-e130-47f2-a872-c33f7a007138#ref=rss)
-### sturm
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-israel-iran-krieg-gewalt-in-den-usa-jeff-bezos-hochzeit](https://www.spiegel.de/politik/deutschland/news-des-tages-israel-iran-krieg-gewalt-in-den-usa-jeff-bezos-hochzeit-a-669488c4-7729-4655-8473-813c28235395#ref=rss)
+* [https://www.spiegel.de/reise/jeff-bezos-proteste-gegen-die-hochzeit-vom-amazon-gruender-in-venedig](https://www.spiegel.de/reise/jeff-bezos-proteste-gegen-die-hochzeit-vom-amazon-gruender-in-venedig-a-03eb5b69-840d-4a90-9ee8-6e4e2d3ecd14#ref=rss)
+### bezos
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/sturm-und-hagel-unwetter-kosten-autoversicherungen-1-3-milliarden-euro](https://www.spiegel.de/wirtschaft/unternehmen/sturm-und-hagel-unwetter-kosten-autoversicherungen-1-3-milliarden-euro-a-5fc972c6-3e8b-4947-8746-a79874cf7a80#ref=rss)
-### hagel
+* [https://www.spiegel.de/reise/jeff-bezos-proteste-gegen-die-hochzeit-vom-amazon-gruender-in-venedig](https://www.spiegel.de/reise/jeff-bezos-proteste-gegen-die-hochzeit-vom-amazon-gruender-in-venedig-a-03eb5b69-840d-4a90-9ee8-6e4e2d3ecd14#ref=rss)
+### sylt
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/sturm-und-hagel-unwetter-kosten-autoversicherungen-1-3-milliarden-euro](https://www.spiegel.de/wirtschaft/unternehmen/sturm-und-hagel-unwetter-kosten-autoversicherungen-1-3-milliarden-euro-a-5fc972c6-3e8b-4947-8746-a79874cf7a80#ref=rss)
-### unwetter
+* [https://www.spiegel.de/panorama/sylt-goldschakal-abschuss-ist-weiter-zulaessig-urteilt-verwaltungsgericht](https://www.spiegel.de/panorama/sylt-goldschakal-abschuss-ist-weiter-zulaessig-urteilt-verwaltungsgericht-a-76c5353a-59c9-4697-b399-69df46204e8b#ref=rss)
+### andere
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/sturm-und-hagel-unwetter-kosten-autoversicherungen-1-3-milliarden-euro](https://www.spiegel.de/wirtschaft/unternehmen/sturm-und-hagel-unwetter-kosten-autoversicherungen-1-3-milliarden-euro-a-5fc972c6-3e8b-4947-8746-a79874cf7a80#ref=rss)
+* [https://www.spiegel.de/panorama/sylt-goldschakal-abschuss-ist-weiter-zulaessig-urteilt-verwaltungsgericht](https://www.spiegel.de/panorama/sylt-goldschakal-abschuss-ist-weiter-zulaessig-urteilt-verwaltungsgericht-a-76c5353a-59c9-4697-b399-69df46204e8b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundespraesident-und-das-diplomatische-corps-botschafter-ausflug-ohne-iranischen-vertreter](https://www.spiegel.de/politik/deutschland/bundespraesident-und-das-diplomatische-corps-botschafter-ausflug-ohne-iranischen-vertreter-a-e359e6aa-0d6b-4250-8b28-ff2b3d6e3f5a#ref=rss)
+### frage
+
+* [https://www.spiegel.de/panorama/sylt-goldschakal-abschuss-ist-weiter-zulaessig-urteilt-verwaltungsgericht](https://www.spiegel.de/panorama/sylt-goldschakal-abschuss-ist-weiter-zulaessig-urteilt-verwaltungsgericht-a-76c5353a-59c9-4697-b399-69df46204e8b#ref=rss)
+* [https://www.spiegel.de/panorama/tuebingen-familie-macht-urlaub-und-laesst-hund-zu-hause-zurueck](https://www.spiegel.de/panorama/tuebingen-familie-macht-urlaub-und-laesst-hund-zu-hause-zurueck-a-cc97bea0-2183-4ce4-ba4f-008d4c1c6d30#ref=rss)
+### treibt
+
+* [https://www.spiegel.de/panorama/sylt-goldschakal-abschuss-ist-weiter-zulaessig-urteilt-verwaltungsgericht](https://www.spiegel.de/panorama/sylt-goldschakal-abschuss-ist-weiter-zulaessig-urteilt-verwaltungsgericht-a-76c5353a-59c9-4697-b399-69df46204e8b#ref=rss)
+* [https://www.spiegel.de/panorama/tuebingen-familie-macht-urlaub-und-laesst-hund-zu-hause-zurueck](https://www.spiegel.de/panorama/tuebingen-familie-macht-urlaub-und-laesst-hund-zu-hause-zurueck-a-cc97bea0-2183-4ce4-ba4f-008d4c1c6d30#ref=rss)
+### insel
+
+* [https://www.spiegel.de/panorama/sylt-goldschakal-abschuss-ist-weiter-zulaessig-urteilt-verwaltungsgericht](https://www.spiegel.de/panorama/sylt-goldschakal-abschuss-ist-weiter-zulaessig-urteilt-verwaltungsgericht-a-76c5353a-59c9-4697-b399-69df46204e8b#ref=rss)
+* [https://www.spiegel.de/panorama/sizilien-italien-erneuter-ausbruch-am-aetna-europas-groesste-lavastroeme-gesichtet](https://www.spiegel.de/panorama/sizilien-italien-erneuter-ausbruch-am-aetna-europas-groesste-lavastroeme-gesichtet-a-ecd88d40-c255-4ce5-b4b6-76ae9023cbb5#ref=rss)
+### desideriuserasmusstiftung
+
+* [https://www.spiegel.de/politik/deutschland/desiderius-erasmus-stiftung-chefin-erika-steinbach-traf-offenbar-rechtsextremen](https://www.spiegel.de/politik/deutschland/desiderius-erasmus-stiftung-chefin-erika-steinbach-traf-offenbar-rechtsextremen-a-0f55bb84-10c1-4472-b74d-372cd1cfcd0f#ref=rss)
+### erika
+
+* [https://www.spiegel.de/politik/deutschland/desiderius-erasmus-stiftung-chefin-erika-steinbach-traf-offenbar-rechtsextremen](https://www.spiegel.de/politik/deutschland/desiderius-erasmus-stiftung-chefin-erika-steinbach-traf-offenbar-rechtsextremen-a-0f55bb84-10c1-4472-b74d-372cd1cfcd0f#ref=rss)
+### steinbach
+
+* [https://www.spiegel.de/politik/deutschland/desiderius-erasmus-stiftung-chefin-erika-steinbach-traf-offenbar-rechtsextremen](https://www.spiegel.de/politik/deutschland/desiderius-erasmus-stiftung-chefin-erika-steinbach-traf-offenbar-rechtsextremen-a-0f55bb84-10c1-4472-b74d-372cd1cfcd0f#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/politik/deutschland/desiderius-erasmus-stiftung-chefin-erika-steinbach-traf-offenbar-rechtsextremen](https://www.spiegel.de/politik/deutschland/desiderius-erasmus-stiftung-chefin-erika-steinbach-traf-offenbar-rechtsextremen-a-0f55bb84-10c1-4472-b74d-372cd1cfcd0f#ref=rss)
+* [https://www.spiegel.de/ausland/nato-donald-trump-gipfel-soll-kuerzer-werden-um-us-praesident-nicht-zu-langweilen](https://www.spiegel.de/ausland/nato-donald-trump-gipfel-soll-kuerzer-werden-um-us-praesident-nicht-zu-langweilen-a-de29bbbf-5d6c-47bc-95a0-328a00e782dc#ref=rss)
+### scarlett
+
+* [https://www.spiegel.de/kultur/scarlett-johansson-wuerde-selbst-regie-bei-einem-actionfilm-fuehren](https://www.spiegel.de/kultur/scarlett-johansson-wuerde-selbst-regie-bei-einem-actionfilm-fuehren-a-41452190-d327-482f-8f09-635a1a08896c#ref=rss)
+### johansson
+
+* [https://www.spiegel.de/kultur/scarlett-johansson-wuerde-selbst-regie-bei-einem-actionfilm-fuehren](https://www.spiegel.de/kultur/scarlett-johansson-wuerde-selbst-regie-bei-einem-actionfilm-fuehren-a-41452190-d327-482f-8f09-635a1a08896c#ref=rss)
+### würde
+
+* [https://www.spiegel.de/kultur/scarlett-johansson-wuerde-selbst-regie-bei-einem-actionfilm-fuehren](https://www.spiegel.de/kultur/scarlett-johansson-wuerde-selbst-regie-bei-einem-actionfilm-fuehren-a-41452190-d327-482f-8f09-635a1a08896c#ref=rss)
+* [https://www.spiegel.de/kultur/musik/sabrina-carpenter-wuerde-gern-handys-ihrer-konzertbesucher-wegschliessen-lassen](https://www.spiegel.de/kultur/musik/sabrina-carpenter-wuerde-gern-handys-ihrer-konzertbesucher-wegschliessen-lassen-a-d7374be7-7a23-4d40-87f0-71a336b250c4#ref=rss)
+### actionfilm
+
+* [https://www.spiegel.de/kultur/scarlett-johansson-wuerde-selbst-regie-bei-einem-actionfilm-fuehren](https://www.spiegel.de/kultur/scarlett-johansson-wuerde-selbst-regie-bei-einem-actionfilm-fuehren-a-41452190-d327-482f-8f09-635a1a08896c#ref=rss)
+### führen
+
+* [https://www.spiegel.de/kultur/scarlett-johansson-wuerde-selbst-regie-bei-einem-actionfilm-fuehren](https://www.spiegel.de/kultur/scarlett-johansson-wuerde-selbst-regie-bei-einem-actionfilm-fuehren-a-41452190-d327-482f-8f09-635a1a08896c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/eu-finanzierung-konservative-und-rechte-fuehren-kontrollgremium-fuer-ngos-ein](https://www.spiegel.de/politik/deutschland/eu-finanzierung-konservative-und-rechte-fuehren-kontrollgremium-fuer-ngos-ein-a-d020e94c-dea7-47f6-bb4a-b2fbbe5deb36#ref=rss)
+### teil
+
+* [https://www.spiegel.de/kultur/scarlett-johansson-wuerde-selbst-regie-bei-einem-actionfilm-fuehren](https://www.spiegel.de/kultur/scarlett-johansson-wuerde-selbst-regie-bei-einem-actionfilm-fuehren-a-41452190-d327-482f-8f09-635a1a08896c#ref=rss)
+* [https://www.spiegel.de/panorama/mecklenburg-vorpommern-diebe-stehlen-bullensperma-im-wert-von-30-000-euro](https://www.spiegel.de/panorama/mecklenburg-vorpommern-diebe-stehlen-bullensperma-im-wert-von-30-000-euro-a-acc86f79-45f6-4f1b-b434-5e8de758aa07#ref=rss)
+### harry
+
+* [https://www.spiegel.de/kultur/kino/harry-potter-voldemort-trug-heimlich-strapse](https://www.spiegel.de/kultur/kino/harry-potter-voldemort-trug-heimlich-strapse-a-88de1c9e-e4a9-44dc-b804-926a6af8d91d#ref=rss)
+### voldemort
+
+* [https://www.spiegel.de/kultur/kino/harry-potter-voldemort-trug-heimlich-strapse](https://www.spiegel.de/kultur/kino/harry-potter-voldemort-trug-heimlich-strapse-a-88de1c9e-e4a9-44dc-b804-926a6af8d91d#ref=rss)
+### sizilien
+
+* [https://www.spiegel.de/panorama/sizilien-italien-erneuter-ausbruch-am-aetna-europas-groesste-lavastroeme-gesichtet](https://www.spiegel.de/panorama/sizilien-italien-erneuter-ausbruch-am-aetna-europas-groesste-lavastroeme-gesichtet-a-ecd88d40-c255-4ce5-b4b6-76ae9023cbb5#ref=rss)
+### ätna
+
+* [https://www.spiegel.de/panorama/sizilien-italien-erneuter-ausbruch-am-aetna-europas-groesste-lavastroeme-gesichtet](https://www.spiegel.de/panorama/sizilien-italien-erneuter-ausbruch-am-aetna-europas-groesste-lavastroeme-gesichtet-a-ecd88d40-c255-4ce5-b4b6-76ae9023cbb5#ref=rss)
+### lavaströme
+
+* [https://www.spiegel.de/panorama/sizilien-italien-erneuter-ausbruch-am-aetna-europas-groesste-lavastroeme-gesichtet](https://www.spiegel.de/panorama/sizilien-italien-erneuter-ausbruch-am-aetna-europas-groesste-lavastroeme-gesichtet-a-ecd88d40-c255-4ce5-b4b6-76ae9023cbb5#ref=rss)
+### sabrina
+
+* [https://www.spiegel.de/kultur/musik/sabrina-carpenter-wuerde-gern-handys-ihrer-konzertbesucher-wegschliessen-lassen](https://www.spiegel.de/kultur/musik/sabrina-carpenter-wuerde-gern-handys-ihrer-konzertbesucher-wegschliessen-lassen-a-d7374be7-7a23-4d40-87f0-71a336b250c4#ref=rss)
+### carpenter
+
+* [https://www.spiegel.de/kultur/musik/sabrina-carpenter-wuerde-gern-handys-ihrer-konzertbesucher-wegschliessen-lassen](https://www.spiegel.de/kultur/musik/sabrina-carpenter-wuerde-gern-handys-ihrer-konzertbesucher-wegschliessen-lassen-a-d7374be7-7a23-4d40-87f0-71a336b250c4#ref=rss)
+### steinmeier
+
+* [https://www.spiegel.de/politik/deutschland/bundespraesident-und-das-diplomatische-corps-botschafter-ausflug-ohne-iranischen-vertreter](https://www.spiegel.de/politik/deutschland/bundespraesident-und-das-diplomatische-corps-botschafter-ausflug-ohne-iranischen-vertreter-a-e359e6aa-0d6b-4250-8b28-ff2b3d6e3f5a#ref=rss)
+### ohne
+
+* [https://www.spiegel.de/politik/deutschland/bundespraesident-und-das-diplomatische-corps-botschafter-ausflug-ohne-iranischen-vertreter](https://www.spiegel.de/politik/deutschland/bundespraesident-und-das-diplomatische-corps-botschafter-ausflug-ohne-iranischen-vertreter-a-e359e6aa-0d6b-4250-8b28-ff2b3d6e3f5a#ref=rss)
+### vertreter
+
+* [https://www.spiegel.de/politik/deutschland/bundespraesident-und-das-diplomatische-corps-botschafter-ausflug-ohne-iranischen-vertreter](https://www.spiegel.de/politik/deutschland/bundespraesident-und-das-diplomatische-corps-botschafter-ausflug-ohne-iranischen-vertreter-a-e359e6aa-0d6b-4250-8b28-ff2b3d6e3f5a#ref=rss)
+### egon
+
+* [https://www.spiegel.de/sport/fussball/egon-coordes-einer-der-es-nicht-leicht-mochte](https://www.spiegel.de/sport/fussball/egon-coordes-einer-der-es-nicht-leicht-mochte-a-e7fbf401-212b-48ef-8f7b-0e0da00029da#ref=rss)
+### coordes
+
+* [https://www.spiegel.de/sport/fussball/egon-coordes-einer-der-es-nicht-leicht-mochte](https://www.spiegel.de/sport/fussball/egon-coordes-einer-der-es-nicht-leicht-mochte-a-e7fbf401-212b-48ef-8f7b-0e0da00029da#ref=rss)
+### machte
+
+* [https://www.spiegel.de/sport/fussball/egon-coordes-einer-der-es-nicht-leicht-mochte](https://www.spiegel.de/sport/fussball/egon-coordes-einer-der-es-nicht-leicht-mochte-a-e7fbf401-212b-48ef-8f7b-0e0da00029da#ref=rss)
+* [https://www.spiegel.de/ausland/nato-donald-trump-gipfel-soll-kuerzer-werden-um-us-praesident-nicht-zu-langweilen](https://www.spiegel.de/ausland/nato-donald-trump-gipfel-soll-kuerzer-werden-um-us-praesident-nicht-zu-langweilen-a-de29bbbf-5d6c-47bc-95a0-328a00e782dc#ref=rss)
+### materie
+
+* [https://www.spiegel.de/wissenschaft/weltall/weltraum-heisses-gasfilament-offenbart-verborgene-materie-im-all](https://www.spiegel.de/wissenschaft/weltall/weltraum-heisses-gasfilament-offenbart-verborgene-materie-im-all-a-3bb8892d-cd6b-48d5-9884-df58908bfc00#ref=rss)
+### all
+
+* [https://www.spiegel.de/wissenschaft/weltall/weltraum-heisses-gasfilament-offenbart-verborgene-materie-im-all](https://www.spiegel.de/wissenschaft/weltall/weltraum-heisses-gasfilament-offenbart-verborgene-materie-im-all-a-3bb8892d-cd6b-48d5-9884-df58908bfc00#ref=rss)
+### grad
+
+* [https://www.spiegel.de/wissenschaft/weltall/weltraum-heisses-gasfilament-offenbart-verborgene-materie-im-all](https://www.spiegel.de/wissenschaft/weltall/weltraum-heisses-gasfilament-offenbart-verborgene-materie-im-all-a-3bb8892d-cd6b-48d5-9884-df58908bfc00#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/klimaschutz-co2-budget-fuer-1-5-grad-ziel-schrumpft-rapide](https://www.spiegel.de/wissenschaft/natur/klimaschutz-co2-budget-fuer-1-5-grad-ziel-schrumpft-rapide-a-00c12644-e1c2-406c-bbb9-72293655d7dd#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/wissenschaft/natur/klimaschutz-co2-budget-fuer-1-5-grad-ziel-schrumpft-rapide](https://www.spiegel.de/wissenschaft/natur/klimaschutz-co2-budget-fuer-1-5-grad-ziel-schrumpft-rapide-a-00c12644-e1c2-406c-bbb9-72293655d7dd#ref=rss)
+* [https://www.spiegel.de/sport/baseball-shohei-ohtani-startet-comeback-als-werfer-nach-verletzung](https://www.spiegel.de/sport/baseball-shohei-ohtani-startet-comeback-als-werfer-nach-verletzung-a-d5e5a6bb-5e5f-4bdd-8339-38e5d82feb73#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/wissenschaft/natur/klimaschutz-co2-budget-fuer-1-5-grad-ziel-schrumpft-rapide](https://www.spiegel.de/wissenschaft/natur/klimaschutz-co2-budget-fuer-1-5-grad-ziel-schrumpft-rapide-a-00c12644-e1c2-406c-bbb9-72293655d7dd#ref=rss)
+* [https://www.spiegel.de/kultur/28-years-later-zombies-die-auf-regenwuermern-kauen](https://www.spiegel.de/kultur/28-years-later-zombies-die-auf-regenwuermern-kauen-a-223c9541-ef1c-4e02-9420-c54c31ed5861#ref=rss)
+### years
+
+* [https://www.spiegel.de/kultur/28-years-later-zombies-die-auf-regenwuermern-kauen](https://www.spiegel.de/kultur/28-years-later-zombies-die-auf-regenwuermern-kauen-a-223c9541-ef1c-4e02-9420-c54c31ed5861#ref=rss)
+### arzt
+
+* [https://www.spiegel.de/panorama/justiz/berlin-arzt-in-seiner-praxis-gefesselt-und-getoetet-neue-ermittlungserkenntnisse](https://www.spiegel.de/panorama/justiz/berlin-arzt-in-seiner-praxis-gefesselt-und-getoetet-neue-ermittlungserkenntnisse-a-cb9efcd5-9b58-4a08-8fd5-54f2de85e9fc#ref=rss)
+### getötet
+
+* [https://www.spiegel.de/panorama/justiz/berlin-arzt-in-seiner-praxis-gefesselt-und-getoetet-neue-ermittlungserkenntnisse](https://www.spiegel.de/panorama/justiz/berlin-arzt-in-seiner-praxis-gefesselt-und-getoetet-neue-ermittlungserkenntnisse-a-cb9efcd5-9b58-4a08-8fd5-54f2de85e9fc#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/justiz/berlin-arzt-in-seiner-praxis-gefesselt-und-getoetet-neue-ermittlungserkenntnisse](https://www.spiegel.de/panorama/justiz/berlin-arzt-in-seiner-praxis-gefesselt-und-getoetet-neue-ermittlungserkenntnisse-a-cb9efcd5-9b58-4a08-8fd5-54f2de85e9fc#ref=rss)
+* [https://www.spiegel.de/panorama/tuebingen-familie-macht-urlaub-und-laesst-hund-zu-hause-zurueck](https://www.spiegel.de/panorama/tuebingen-familie-macht-urlaub-und-laesst-hund-zu-hause-zurueck-a-cc97bea0-2183-4ce4-ba4f-008d4c1c6d30#ref=rss)
+### jeremy
+
+* [https://www.spiegel.de/kultur/jeremy-renner-fuehlen-sie-sich-noch-mit-dem-tod-verbunden-immer-jede-sekunde-jeden-tag](https://www.spiegel.de/kultur/jeremy-renner-fuehlen-sie-sich-noch-mit-dem-tod-verbunden-immer-jede-sekunde-jeden-tag-a-042b1e86-8deb-4579-a66d-57adc1aec221#ref=rss)
+### renner
+
+* [https://www.spiegel.de/kultur/jeremy-renner-fuehlen-sie-sich-noch-mit-dem-tod-verbunden-immer-jede-sekunde-jeden-tag](https://www.spiegel.de/kultur/jeremy-renner-fuehlen-sie-sich-noch-mit-dem-tod-verbunden-immer-jede-sekunde-jeden-tag-a-042b1e86-8deb-4579-a66d-57adc1aec221#ref=rss)
+### konservative
+
+* [https://www.spiegel.de/politik/deutschland/eu-finanzierung-konservative-und-rechte-fuehren-kontrollgremium-fuer-ngos-ein](https://www.spiegel.de/politik/deutschland/eu-finanzierung-konservative-und-rechte-fuehren-kontrollgremium-fuer-ngos-ein-a-d020e94c-dea7-47f6-bb4a-b2fbbe5deb36#ref=rss)
+### rechte
+
+* [https://www.spiegel.de/politik/deutschland/eu-finanzierung-konservative-und-rechte-fuehren-kontrollgremium-fuer-ngos-ein](https://www.spiegel.de/politik/deutschland/eu-finanzierung-konservative-und-rechte-fuehren-kontrollgremium-fuer-ngos-ein-a-d020e94c-dea7-47f6-bb4a-b2fbbe5deb36#ref=rss)
+### kontrollgremium
+
+* [https://www.spiegel.de/politik/deutschland/eu-finanzierung-konservative-und-rechte-fuehren-kontrollgremium-fuer-ngos-ein](https://www.spiegel.de/politik/deutschland/eu-finanzierung-konservative-und-rechte-fuehren-kontrollgremium-fuer-ngos-ein-a-d020e94c-dea7-47f6-bb4a-b2fbbe5deb36#ref=rss)
+### uspräsident
+
+* [https://www.spiegel.de/ausland/nato-donald-trump-gipfel-soll-kuerzer-werden-um-us-praesident-nicht-zu-langweilen](https://www.spiegel.de/ausland/nato-donald-trump-gipfel-soll-kuerzer-werden-um-us-praesident-nicht-zu-langweilen-a-de29bbbf-5d6c-47bc-95a0-328a00e782dc#ref=rss)
+### baseball
+
+* [https://www.spiegel.de/sport/baseball-shohei-ohtani-startet-comeback-als-werfer-nach-verletzung](https://www.spiegel.de/sport/baseball-shohei-ohtani-startet-comeback-als-werfer-nach-verletzung-a-d5e5a6bb-5e5f-4bdd-8339-38e5d82feb73#ref=rss)
+### shohei
+
+* [https://www.spiegel.de/sport/baseball-shohei-ohtani-startet-comeback-als-werfer-nach-verletzung](https://www.spiegel.de/sport/baseball-shohei-ohtani-startet-comeback-als-werfer-nach-verletzung-a-d5e5a6bb-5e5f-4bdd-8339-38e5d82feb73#ref=rss)
+### ohtani
+
+* [https://www.spiegel.de/sport/baseball-shohei-ohtani-startet-comeback-als-werfer-nach-verletzung](https://www.spiegel.de/sport/baseball-shohei-ohtani-startet-comeback-als-werfer-nach-verletzung-a-d5e5a6bb-5e5f-4bdd-8339-38e5d82feb73#ref=rss)
+### verletzung
+
+* [https://www.spiegel.de/sport/baseball-shohei-ohtani-startet-comeback-als-werfer-nach-verletzung](https://www.spiegel.de/sport/baseball-shohei-ohtani-startet-comeback-als-werfer-nach-verletzung-a-d5e5a6bb-5e5f-4bdd-8339-38e5d82feb73#ref=rss)
+### mecklenburgvorpommern
+
+* [https://www.spiegel.de/panorama/mecklenburg-vorpommern-diebe-stehlen-bullensperma-im-wert-von-30-000-euro](https://www.spiegel.de/panorama/mecklenburg-vorpommern-diebe-stehlen-bullensperma-im-wert-von-30-000-euro-a-acc86f79-45f6-4f1b-b434-5e8de758aa07#ref=rss)
+### diebe
+
+* [https://www.spiegel.de/panorama/mecklenburg-vorpommern-diebe-stehlen-bullensperma-im-wert-von-30-000-euro](https://www.spiegel.de/panorama/mecklenburg-vorpommern-diebe-stehlen-bullensperma-im-wert-von-30-000-euro-a-acc86f79-45f6-4f1b-b434-5e8de758aa07#ref=rss)
+### tübingen
+
+* [https://www.spiegel.de/panorama/tuebingen-familie-macht-urlaub-und-laesst-hund-zu-hause-zurueck](https://www.spiegel.de/panorama/tuebingen-familie-macht-urlaub-und-laesst-hund-zu-hause-zurueck-a-cc97bea0-2183-4ce4-ba4f-008d4c1c6d30#ref=rss)
+### familie
+
+* [https://www.spiegel.de/panorama/tuebingen-familie-macht-urlaub-und-laesst-hund-zu-hause-zurueck](https://www.spiegel.de/panorama/tuebingen-familie-macht-urlaub-und-laesst-hund-zu-hause-zurueck-a-cc97bea0-2183-4ce4-ba4f-008d4c1c6d30#ref=rss)
+### urlaub
+
+* [https://www.spiegel.de/panorama/tuebingen-familie-macht-urlaub-und-laesst-hund-zu-hause-zurueck](https://www.spiegel.de/panorama/tuebingen-familie-macht-urlaub-und-laesst-hund-zu-hause-zurueck-a-cc97bea0-2183-4ce4-ba4f-008d4c1c6d30#ref=rss)
+### hause
+
+* [https://www.spiegel.de/panorama/tuebingen-familie-macht-urlaub-und-laesst-hund-zu-hause-zurueck](https://www.spiegel.de/panorama/tuebingen-familie-macht-urlaub-und-laesst-hund-zu-hause-zurueck-a-cc97bea0-2183-4ce4-ba4f-008d4c1c6d30#ref=rss)
 
