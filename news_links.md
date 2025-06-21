@@ -4,418 +4,333 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### donald
-
-* [https://www.spiegel.de/ausland/donald-trump-gesetzesaenderung-erschwert-zugang-zu-ice-gebaeuden-fuer-politiker](https://www.spiegel.de/ausland/donald-trump-gesetzesaenderung-erschwert-zugang-zu-ice-gebaeuden-fuer-politiker-a-af40be25-8f1c-48f3-9fe2-701039d10699#ref=rss)
-* [https://www.spiegel.de/ausland/israel-und-iran-was-trumps-zoegern-fuer-den-kriegsverlauf-bedeutet](https://www.spiegel.de/ausland/israel-und-iran-was-trumps-zoegern-fuer-den-kriegsverlauf-bedeutet-a-99e2bf40-7548-417e-b27c-6835404f42cd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nato-gipfel-in-den-haag-feind-im-innern](https://www.spiegel.de/politik/deutschland/nato-gipfel-in-den-haag-feind-im-innern-a-435cb651-031c-4f88-8a08-ae857eb2d3dd#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/israel-und-iran-was-trumps-zoegern-fuer-den-kriegsverlauf-bedeutet](https://www.spiegel.de/ausland/israel-und-iran-was-trumps-zoegern-fuer-den-kriegsverlauf-bedeutet-a-99e2bf40-7548-417e-b27c-6835404f42cd#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-konflikt-eu-bericht-sieht-vertragsbruch-durch-israel-in-gaza](https://www.spiegel.de/ausland/israel-gaza-konflikt-eu-bericht-sieht-vertragsbruch-durch-israel-in-gaza-a-1e7eb153-4058-4096-8aa4-aebfbff9b246#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/israel-luftwaffe-holt-deutsche-aus-tel-aviv-ab](https://www.spiegel.de/politik/deutschland/israel-luftwaffe-holt-deutsche-aus-tel-aviv-ab-a-64f1fdcf-cedf-458c-b8af-4377c3470ee8#ref=rss)
-* [https://www.spiegel.de/ausland/israel-iran-konflikt-israel-bombardiert-iranische-raketenfabriken](https://www.spiegel.de/ausland/israel-iran-konflikt-israel-bombardiert-iranische-raketenfabriken-a-22a4854c-2e87-4b09-a93f-188e529dc23d#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wissenschaft/mikroplastik-in-glasflaschen-mehr-mikroplastik-als-in-plastikflaschen-nachgewiesen-studie-aus-boulogne-sur-mer-in-frankreich](https://www.spiegel.de/wissenschaft/mikroplastik-in-glasflaschen-mehr-mikroplastik-als-in-plastikflaschen-nachgewiesen-studie-aus-boulogne-sur-mer-in-frankreich-a-3fe42d27-4859-4fb3-945b-6750c5f0fd9a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/coronapandemie-cdu-csu-und-spd-stossen-aufarbeitung-an](https://www.spiegel.de/politik/deutschland/coronapandemie-cdu-csu-und-spd-stossen-aufarbeitung-an-a-ef7edb88-6b2a-4f7f-b29c-f5dc8231d928#ref=rss)
-* [https://www.spiegel.de/kultur/kino/danny-boyle-wuerde-slumdog-millionaer-heute-nicht-mehr-drehen](https://www.spiegel.de/kultur/kino/danny-boyle-wuerde-slumdog-millionaer-heute-nicht-mehr-drehen-a-40451e26-8625-4588-954c-e3ba91136f78#ref=rss)
-* [https://www.spiegel.de/stil/wassermelone-schneiden-so-gehts-ohne-kleckern](https://www.spiegel.de/stil/wassermelone-schneiden-so-gehts-ohne-kleckern-a-8c2b0ae2-2aed-495b-92e9-85a807e8c17f#ref=rss)
-* [https://www.spiegel.de/ausland/unicef-stellt-zunehmende-mangelernaehrung-bei-kindern-im-gazastreifen-fest](https://www.spiegel.de/ausland/unicef-stellt-zunehmende-mangelernaehrung-bei-kindern-im-gazastreifen-fest-a-97d47aeb-7a46-4aee-9169-764c828c702d#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/donald-trump-gesetzesaenderung-erschwert-zugang-zu-ice-gebaeuden-fuer-politiker](https://www.spiegel.de/ausland/donald-trump-gesetzesaenderung-erschwert-zugang-zu-ice-gebaeuden-fuer-politiker-a-af40be25-8f1c-48f3-9fe2-701039d10699#ref=rss)
-* [https://www.spiegel.de/ausland/israel-und-iran-was-trumps-zoegern-fuer-den-kriegsverlauf-bedeutet](https://www.spiegel.de/ausland/israel-und-iran-was-trumps-zoegern-fuer-den-kriegsverlauf-bedeutet-a-99e2bf40-7548-417e-b27c-6835404f42cd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nato-gipfel-in-den-haag-feind-im-innern](https://www.spiegel.de/politik/deutschland/nato-gipfel-in-den-haag-feind-im-innern-a-435cb651-031c-4f88-8a08-ae857eb2d3dd#ref=rss)
-### sabrina
-
-* [https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-mit-albumcover-wer-bestimmt-was-frauen-duerfen](https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-mit-albumcover-wer-bestimmt-was-frauen-duerfen-a-3b233369-e127-4bf0-9bae-c39ad49001d2#ref=rss)
-* [https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-als-mans-best-friend-wer-bestimmt-was-frauen-duerfen-podcast](https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-als-mans-best-friend-wer-bestimmt-was-frauen-duerfen-podcast-a-6bcc44e6-13ba-4c66-9578-6aa3fe444354#ref=rss)
-### carpenter
-
-* [https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-mit-albumcover-wer-bestimmt-was-frauen-duerfen](https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-mit-albumcover-wer-bestimmt-was-frauen-duerfen-a-3b233369-e127-4bf0-9bae-c39ad49001d2#ref=rss)
-* [https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-als-mans-best-friend-wer-bestimmt-was-frauen-duerfen-podcast](https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-als-mans-best-friend-wer-bestimmt-was-frauen-duerfen-podcast-a-6bcc44e6-13ba-4c66-9578-6aa3fe444354#ref=rss)
-### provoziert
-
-* [https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-mit-albumcover-wer-bestimmt-was-frauen-duerfen](https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-mit-albumcover-wer-bestimmt-was-frauen-duerfen-a-3b233369-e127-4bf0-9bae-c39ad49001d2#ref=rss)
-* [https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-als-mans-best-friend-wer-bestimmt-was-frauen-duerfen-podcast](https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-als-mans-best-friend-wer-bestimmt-was-frauen-duerfen-podcast-a-6bcc44e6-13ba-4c66-9578-6aa3fe444354#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-mit-albumcover-wer-bestimmt-was-frauen-duerfen](https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-mit-albumcover-wer-bestimmt-was-frauen-duerfen-a-3b233369-e127-4bf0-9bae-c39ad49001d2#ref=rss)
-* [https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-als-mans-best-friend-wer-bestimmt-was-frauen-duerfen-podcast](https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-als-mans-best-friend-wer-bestimmt-was-frauen-duerfen-podcast-a-6bcc44e6-13ba-4c66-9578-6aa3fe444354#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/gerbstedt-37-jaehriger-fluechtet-nach-angriff-auf-zwei-frauen-versuchtes-toetungsdelikt](https://www.spiegel.de/panorama/justiz/gerbstedt-37-jaehriger-fluechtet-nach-angriff-auf-zwei-frauen-versuchtes-toetungsdelikt-a-1936126d-fb7d-4b3e-ada3-aaec97672e39#ref=rss)
-### los
-
-* [https://www.spiegel.de/ausland/los-angeles-kein-ice-in-l-a-proteste-nach-vorfall-am-dodgers-stadion](https://www.spiegel.de/ausland/los-angeles-kein-ice-in-l-a-proteste-nach-vorfall-am-dodgers-stadion-a-a8ad94f0-1b86-4e82-9606-0ec06f9c9987#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-russland-vor-rezession-diplomatie-in-genf-los-angeles-lakers](https://www.spiegel.de/politik/deutschland/news-des-tages-russland-vor-rezession-diplomatie-in-genf-los-angeles-lakers-a-e22b54bf-696e-4723-a2f6-a3485fe463de#ref=rss)
-### angeles
-
-* [https://www.spiegel.de/ausland/los-angeles-kein-ice-in-l-a-proteste-nach-vorfall-am-dodgers-stadion](https://www.spiegel.de/ausland/los-angeles-kein-ice-in-l-a-proteste-nach-vorfall-am-dodgers-stadion-a-a8ad94f0-1b86-4e82-9606-0ec06f9c9987#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-russland-vor-rezession-diplomatie-in-genf-los-angeles-lakers](https://www.spiegel.de/politik/deutschland/news-des-tages-russland-vor-rezession-diplomatie-in-genf-los-angeles-lakers-a-e22b54bf-696e-4723-a2f6-a3485fe463de#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/politik/deutschland/israel-luftwaffe-holt-deutsche-aus-tel-aviv-ab](https://www.spiegel.de/politik/deutschland/israel-luftwaffe-holt-deutsche-aus-tel-aviv-ab-a-64f1fdcf-cedf-458c-b8af-4377c3470ee8#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/gerbstedt-37-jaehriger-fluechtet-nach-angriff-auf-zwei-frauen-versuchtes-toetungsdelikt](https://www.spiegel.de/panorama/justiz/gerbstedt-37-jaehriger-fluechtet-nach-angriff-auf-zwei-frauen-versuchtes-toetungsdelikt-a-1936126d-fb7d-4b3e-ada3-aaec97672e39#ref=rss)
-* [https://www.spiegel.de/panorama/neuruppin-feuer-durch-katze-am-herd-ein-tier-stirbt](https://www.spiegel.de/panorama/neuruppin-feuer-durch-katze-am-herd-ein-tier-stirbt-a-a17ae953-bf0b-4962-a6dd-356207fbd8e7#ref=rss)
-### woche
-
-* [https://www.spiegel.de/geschichte/telefonat-zwischen-kohl-und-biedenkopf-1974-von-der-abhoer-zur-presseaffaere](https://www.spiegel.de/geschichte/telefonat-zwischen-kohl-und-biedenkopf-1974-von-der-abhoer-zur-presseaffaere-a-c29c36b6-b619-4ddd-b5d3-f2fd32dc8c8a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nato-gipfel-in-den-haag-feind-im-innern](https://www.spiegel.de/politik/deutschland/nato-gipfel-in-den-haag-feind-im-innern-a-435cb651-031c-4f88-8a08-ae857eb2d3dd#ref=rss)
-* [https://www.spiegel.de/kultur/musik/ozan-ata-canani-haim-annahstasia-sex-beat-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/ozan-ata-canani-haim-annahstasia-sex-beat-abgehoert-album-der-woche-a-86e16079-c363-4fb2-a273-97740a08ca96#ref=rss)
-### ice
-
-* [https://www.spiegel.de/ausland/donald-trump-gesetzesaenderung-erschwert-zugang-zu-ice-gebaeuden-fuer-politiker](https://www.spiegel.de/ausland/donald-trump-gesetzesaenderung-erschwert-zugang-zu-ice-gebaeuden-fuer-politiker-a-af40be25-8f1c-48f3-9fe2-701039d10699#ref=rss)
-* [https://www.spiegel.de/ausland/los-angeles-kein-ice-in-l-a-proteste-nach-vorfall-am-dodgers-stadion](https://www.spiegel.de/ausland/los-angeles-kein-ice-in-l-a-proteste-nach-vorfall-am-dodgers-stadion-a-a8ad94f0-1b86-4e82-9606-0ec06f9c9987#ref=rss)
-### trumps
-
-* [https://www.spiegel.de/ausland/donald-trump-gesetzesaenderung-erschwert-zugang-zu-ice-gebaeuden-fuer-politiker](https://www.spiegel.de/ausland/donald-trump-gesetzesaenderung-erschwert-zugang-zu-ice-gebaeuden-fuer-politiker-a-af40be25-8f1c-48f3-9fe2-701039d10699#ref=rss)
-* [https://www.spiegel.de/ausland/israel-und-iran-was-trumps-zoegern-fuer-den-kriegsverlauf-bedeutet](https://www.spiegel.de/ausland/israel-und-iran-was-trumps-zoegern-fuer-den-kriegsverlauf-bedeutet-a-99e2bf40-7548-417e-b27c-6835404f42cd#ref=rss)
-* [https://www.spiegel.de/ausland/los-angeles-kein-ice-in-l-a-proteste-nach-vorfall-am-dodgers-stadion](https://www.spiegel.de/ausland/los-angeles-kein-ice-in-l-a-proteste-nach-vorfall-am-dodgers-stadion-a-a8ad94f0-1b86-4e82-9606-0ec06f9c9987#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/israel-und-iran-was-trumps-zoegern-fuer-den-kriegsverlauf-bedeutet](https://www.spiegel.de/ausland/israel-und-iran-was-trumps-zoegern-fuer-den-kriegsverlauf-bedeutet-a-99e2bf40-7548-417e-b27c-6835404f42cd#ref=rss)
-* [https://www.spiegel.de/sport/basketball/basketball-usa-verweigert-fuenf-spielerinnen-das-visum-senegal-sagt-trainingslager-ab](https://www.spiegel.de/sport/basketball/basketball-usa-verweigert-fuenf-spielerinnen-das-visum-senegal-sagt-trainingslager-ab-a-3689d296-0272-4939-8fae-37dac2ef224d#ref=rss)
-### studie
-
-* [https://www.spiegel.de/auto/elektroauto-kaufen-schweizer-bundesamt-hielt-heikle-studie-zur-oekobilanz-von-e-autos-zurueck](https://www.spiegel.de/auto/elektroauto-kaufen-schweizer-bundesamt-hielt-heikle-studie-zur-oekobilanz-von-e-autos-zurueck-a-c465d53c-7f77-4751-a152-f91f77daf336#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mikroplastik-in-glasflaschen-mehr-mikroplastik-als-in-plastikflaschen-nachgewiesen-studie-aus-boulogne-sur-mer-in-frankreich](https://www.spiegel.de/wissenschaft/mikroplastik-in-glasflaschen-mehr-mikroplastik-als-in-plastikflaschen-nachgewiesen-studie-aus-boulogne-sur-mer-in-frankreich-a-3fe42d27-4859-4fb3-945b-6750c5f0fd9a#ref=rss)
-### zeichen
-
-* [https://www.spiegel.de/politik/deutschland/nato-gipfel-in-den-haag-feind-im-innern](https://www.spiegel.de/politik/deutschland/nato-gipfel-in-den-haag-feind-im-innern-a-435cb651-031c-4f88-8a08-ae857eb2d3dd#ref=rss)
-* [https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-mit-albumcover-wer-bestimmt-was-frauen-duerfen](https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-mit-albumcover-wer-bestimmt-was-frauen-duerfen-a-3b233369-e127-4bf0-9bae-c39ad49001d2#ref=rss)
-* [https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-als-mans-best-friend-wer-bestimmt-was-frauen-duerfen-podcast](https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-als-mans-best-friend-wer-bestimmt-was-frauen-duerfen-podcast-a-6bcc44e6-13ba-4c66-9578-6aa3fe444354#ref=rss)
-### neue
-
-* [https://www.spiegel.de/wissenschaft/corona-neue-variante-nb-1-8-1-impfung-long-covid-experte-von-der-charite-klaert-auf](https://www.spiegel.de/wissenschaft/corona-neue-variante-nb-1-8-1-impfung-long-covid-experte-von-der-charite-klaert-auf-a-b7ae8a7a-087a-460e-8af6-c35da1944999#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mikroplastik-in-glasflaschen-mehr-mikroplastik-als-in-plastikflaschen-nachgewiesen-studie-aus-boulogne-sur-mer-in-frankreich](https://www.spiegel.de/wissenschaft/mikroplastik-in-glasflaschen-mehr-mikroplastik-als-in-plastikflaschen-nachgewiesen-studie-aus-boulogne-sur-mer-in-frankreich-a-3fe42d27-4859-4fb3-945b-6750c5f0fd9a#ref=rss)
 ### sagt
 
-* [https://www.spiegel.de/wissenschaft/corona-neue-variante-nb-1-8-1-impfung-long-covid-experte-von-der-charite-klaert-auf](https://www.spiegel.de/wissenschaft/corona-neue-variante-nb-1-8-1-impfung-long-covid-experte-von-der-charite-klaert-auf-a-b7ae8a7a-087a-460e-8af6-c35da1944999#ref=rss)
-* [https://www.spiegel.de/sport/basketball/basketball-usa-verweigert-fuenf-spielerinnen-das-visum-senegal-sagt-trainingslager-ab](https://www.spiegel.de/sport/basketball/basketball-usa-verweigert-fuenf-spielerinnen-das-visum-senegal-sagt-trainingslager-ab-a-3689d296-0272-4939-8fae-37dac2ef224d#ref=rss)
-* [https://www.spiegel.de/kultur/kino/danny-boyle-wuerde-slumdog-millionaer-heute-nicht-mehr-drehen](https://www.spiegel.de/kultur/kino/danny-boyle-wuerde-slumdog-millionaer-heute-nicht-mehr-drehen-a-40451e26-8625-4588-954c-e3ba91136f78#ref=rss)
-### albumcover
-
-* [https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-mit-albumcover-wer-bestimmt-was-frauen-duerfen](https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-mit-albumcover-wer-bestimmt-was-frauen-duerfen-a-3b233369-e127-4bf0-9bae-c39ad49001d2#ref=rss)
-* [https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-als-mans-best-friend-wer-bestimmt-was-frauen-duerfen-podcast](https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-als-mans-best-friend-wer-bestimmt-was-frauen-duerfen-podcast-a-6bcc44e6-13ba-4c66-9578-6aa3fe444354#ref=rss)
-### lópez
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/thyssenkrupp-vorstandschef-miguel-lopez-erhaelt-trotz-gegenstimmen-der-ig-metall-neuen-vertrag](https://www.spiegel.de/wirtschaft/unternehmen/thyssenkrupp-vorstandschef-miguel-lopez-erhaelt-trotz-gegenstimmen-der-ig-metall-neuen-vertrag-a-f10356de-ac87-43e3-af40-52d35f4cc234#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/thyssenkrupp-vorstandschef-miguel-lopez-erhaelt-trotz-gegenstimmen-der-ig-metall-neuen-vertrag](https://www.spiegel.de/wirtschaft/unternehmen/thyssenkrupp-vorstandschef-miguel-lopez-erhaelt-trotz-gegenstimmen-der-ig-metall-neuen-vertrag-a-f10356de-ac87-43e3-af40-52d35f4cc234#ref=rss)
-* [https://www.spiegel.de/kultur/musik/ozan-ata-canani-haim-annahstasia-sex-beat-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/ozan-ata-canani-haim-annahstasia-sex-beat-abgehoert-album-der-woche-a-86e16079-c363-4fb2-a273-97740a08ca96#ref=rss)
-* [https://www.spiegel.de/ausland/israel-iran-konflikt-israel-bombardiert-iranische-raketenfabriken](https://www.spiegel.de/ausland/israel-iran-konflikt-israel-bombardiert-iranische-raketenfabriken-a-22a4854c-2e87-4b09-a93f-188e529dc23d#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/politik/deutschland/coronapandemie-cdu-csu-und-spd-stossen-aufarbeitung-an](https://www.spiegel.de/politik/deutschland/coronapandemie-cdu-csu-und-spd-stossen-aufarbeitung-an-a-ef7edb88-6b2a-4f7f-b29c-f5dc8231d928#ref=rss)
-* [https://www.spiegel.de/stil/wassermelone-schneiden-so-gehts-ohne-kleckern](https://www.spiegel.de/stil/wassermelone-schneiden-so-gehts-ohne-kleckern-a-8c2b0ae2-2aed-495b-92e9-85a807e8c17f#ref=rss)
-### telefonat
-
-* [https://www.spiegel.de/geschichte/telefonat-zwischen-kohl-und-biedenkopf-1974-von-der-abhoer-zur-presseaffaere](https://www.spiegel.de/geschichte/telefonat-zwischen-kohl-und-biedenkopf-1974-von-der-abhoer-zur-presseaffaere-a-c29c36b6-b619-4ddd-b5d3-f2fd32dc8c8a#ref=rss)
-### kohl
-
-* [https://www.spiegel.de/geschichte/telefonat-zwischen-kohl-und-biedenkopf-1974-von-der-abhoer-zur-presseaffaere](https://www.spiegel.de/geschichte/telefonat-zwischen-kohl-und-biedenkopf-1974-von-der-abhoer-zur-presseaffaere-a-c29c36b6-b619-4ddd-b5d3-f2fd32dc8c8a#ref=rss)
-### biedenkopf
-
-* [https://www.spiegel.de/geschichte/telefonat-zwischen-kohl-und-biedenkopf-1974-von-der-abhoer-zur-presseaffaere](https://www.spiegel.de/geschichte/telefonat-zwischen-kohl-und-biedenkopf-1974-von-der-abhoer-zur-presseaffaere-a-c29c36b6-b619-4ddd-b5d3-f2fd32dc8c8a#ref=rss)
-### 1974
-
-* [https://www.spiegel.de/geschichte/telefonat-zwischen-kohl-und-biedenkopf-1974-von-der-abhoer-zur-presseaffaere](https://www.spiegel.de/geschichte/telefonat-zwischen-kohl-und-biedenkopf-1974-von-der-abhoer-zur-presseaffaere-a-c29c36b6-b619-4ddd-b5d3-f2fd32dc8c8a#ref=rss)
-### gesetzesänderung
-
-* [https://www.spiegel.de/ausland/donald-trump-gesetzesaenderung-erschwert-zugang-zu-ice-gebaeuden-fuer-politiker](https://www.spiegel.de/ausland/donald-trump-gesetzesaenderung-erschwert-zugang-zu-ice-gebaeuden-fuer-politiker-a-af40be25-8f1c-48f3-9fe2-701039d10699#ref=rss)
-### künftig
-
-* [https://www.spiegel.de/ausland/donald-trump-gesetzesaenderung-erschwert-zugang-zu-ice-gebaeuden-fuer-politiker](https://www.spiegel.de/ausland/donald-trump-gesetzesaenderung-erschwert-zugang-zu-ice-gebaeuden-fuer-politiker-a-af40be25-8f1c-48f3-9fe2-701039d10699#ref=rss)
-* [https://www.spiegel.de/ausland/england-und-wales-britische-abgeordnete-stimmen-fuer-legalisierung-von-sterbehilfe](https://www.spiegel.de/ausland/england-und-wales-britische-abgeordnete-stimmen-fuer-legalisierung-von-sterbehilfe-a-127d66b2-1a28-453e-9295-79a4fa46cb12#ref=rss)
-### iran
-
-* [https://www.spiegel.de/ausland/israel-und-iran-was-trumps-zoegern-fuer-den-kriegsverlauf-bedeutet](https://www.spiegel.de/ausland/israel-und-iran-was-trumps-zoegern-fuer-den-kriegsverlauf-bedeutet-a-99e2bf40-7548-417e-b27c-6835404f42cd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-russland-vor-rezession-diplomatie-in-genf-los-angeles-lakers](https://www.spiegel.de/politik/deutschland/news-des-tages-russland-vor-rezession-diplomatie-in-genf-los-angeles-lakers-a-e22b54bf-696e-4723-a2f6-a3485fe463de#ref=rss)
-### diplomatie
-
-* [https://www.spiegel.de/ausland/israel-und-iran-was-trumps-zoegern-fuer-den-kriegsverlauf-bedeutet](https://www.spiegel.de/ausland/israel-und-iran-was-trumps-zoegern-fuer-den-kriegsverlauf-bedeutet-a-99e2bf40-7548-417e-b27c-6835404f42cd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-russland-vor-rezession-diplomatie-in-genf-los-angeles-lakers](https://www.spiegel.de/politik/deutschland/news-des-tages-russland-vor-rezession-diplomatie-in-genf-los-angeles-lakers-a-e22b54bf-696e-4723-a2f6-a3485fe463de#ref=rss)
-### israels
-
-* [https://www.spiegel.de/ausland/israel-und-iran-was-trumps-zoegern-fuer-den-kriegsverlauf-bedeutet](https://www.spiegel.de/ausland/israel-und-iran-was-trumps-zoegern-fuer-den-kriegsverlauf-bedeutet-a-99e2bf40-7548-417e-b27c-6835404f42cd#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-konflikt-eu-bericht-sieht-vertragsbruch-durch-israel-in-gaza](https://www.spiegel.de/ausland/israel-gaza-konflikt-eu-bericht-sieht-vertragsbruch-durch-israel-in-gaza-a-1e7eb153-4058-4096-8aa4-aebfbff9b246#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/ausland/israel-und-iran-was-trumps-zoegern-fuer-den-kriegsverlauf-bedeutet](https://www.spiegel.de/ausland/israel-und-iran-was-trumps-zoegern-fuer-den-kriegsverlauf-bedeutet-a-99e2bf40-7548-417e-b27c-6835404f42cd#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mikroplastik-in-glasflaschen-mehr-mikroplastik-als-in-plastikflaschen-nachgewiesen-studie-aus-boulogne-sur-mer-in-frankreich](https://www.spiegel.de/wissenschaft/mikroplastik-in-glasflaschen-mehr-mikroplastik-als-in-plastikflaschen-nachgewiesen-studie-aus-boulogne-sur-mer-in-frankreich-a-3fe42d27-4859-4fb3-945b-6750c5f0fd9a#ref=rss)
-### sieht
-
-* [https://www.spiegel.de/ausland/israel-gaza-konflikt-eu-bericht-sieht-vertragsbruch-durch-israel-in-gaza](https://www.spiegel.de/ausland/israel-gaza-konflikt-eu-bericht-sieht-vertragsbruch-durch-israel-in-gaza-a-1e7eb153-4058-4096-8aa4-aebfbff9b246#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nato-gipfel-in-den-haag-feind-im-innern](https://www.spiegel.de/politik/deutschland/nato-gipfel-in-den-haag-feind-im-innern-a-435cb651-031c-4f88-8a08-ae857eb2d3dd#ref=rss)
-### vertragsbruch
-
-* [https://www.spiegel.de/ausland/israel-gaza-konflikt-eu-bericht-sieht-vertragsbruch-durch-israel-in-gaza](https://www.spiegel.de/ausland/israel-gaza-konflikt-eu-bericht-sieht-vertragsbruch-durch-israel-in-gaza-a-1e7eb153-4058-4096-8aa4-aebfbff9b246#ref=rss)
-### gaza
-
-* [https://www.spiegel.de/ausland/israel-gaza-konflikt-eu-bericht-sieht-vertragsbruch-durch-israel-in-gaza](https://www.spiegel.de/ausland/israel-gaza-konflikt-eu-bericht-sieht-vertragsbruch-durch-israel-in-gaza-a-1e7eb153-4058-4096-8aa4-aebfbff9b246#ref=rss)
-* [https://www.spiegel.de/ausland/unicef-stellt-zunehmende-mangelernaehrung-bei-kindern-im-gazastreifen-fest](https://www.spiegel.de/ausland/unicef-stellt-zunehmende-mangelernaehrung-bei-kindern-im-gazastreifen-fest-a-97d47aeb-7a46-4aee-9169-764c828c702d#ref=rss)
-### gazastreifen
-
-* [https://www.spiegel.de/ausland/israel-gaza-konflikt-eu-bericht-sieht-vertragsbruch-durch-israel-in-gaza](https://www.spiegel.de/ausland/israel-gaza-konflikt-eu-bericht-sieht-vertragsbruch-durch-israel-in-gaza-a-1e7eb153-4058-4096-8aa4-aebfbff9b246#ref=rss)
-* [https://www.spiegel.de/ausland/unicef-stellt-zunehmende-mangelernaehrung-bei-kindern-im-gazastreifen-fest](https://www.spiegel.de/ausland/unicef-stellt-zunehmende-mangelernaehrung-bei-kindern-im-gazastreifen-fest-a-97d47aeb-7a46-4aee-9169-764c828c702d#ref=rss)
-### schweizer
-
-* [https://www.spiegel.de/auto/elektroauto-kaufen-schweizer-bundesamt-hielt-heikle-studie-zur-oekobilanz-von-e-autos-zurueck](https://www.spiegel.de/auto/elektroauto-kaufen-schweizer-bundesamt-hielt-heikle-studie-zur-oekobilanz-von-e-autos-zurueck-a-c465d53c-7f77-4751-a152-f91f77daf336#ref=rss)
-### bundesamt
-
-* [https://www.spiegel.de/auto/elektroauto-kaufen-schweizer-bundesamt-hielt-heikle-studie-zur-oekobilanz-von-e-autos-zurueck](https://www.spiegel.de/auto/elektroauto-kaufen-schweizer-bundesamt-hielt-heikle-studie-zur-oekobilanz-von-e-autos-zurueck-a-c465d53c-7f77-4751-a152-f91f77daf336#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/auto/elektroauto-kaufen-schweizer-bundesamt-hielt-heikle-studie-zur-oekobilanz-von-e-autos-zurueck](https://www.spiegel.de/auto/elektroauto-kaufen-schweizer-bundesamt-hielt-heikle-studie-zur-oekobilanz-von-e-autos-zurueck-a-c465d53c-7f77-4751-a152-f91f77daf336#ref=rss)
-* [https://www.spiegel.de/panorama/drogeriemarkt-dm-ruft-handserum-von-balea-wegen-hefepilzgefahr-zurueck](https://www.spiegel.de/panorama/drogeriemarkt-dm-ruft-handserum-von-balea-wegen-hefepilzgefahr-zurueck-a-2f3ad584-c26f-4f66-ac9a-68e9bbd1cf0f#ref=rss)
-### neues
-
-* [https://www.spiegel.de/auto/elektroauto-kaufen-schweizer-bundesamt-hielt-heikle-studie-zur-oekobilanz-von-e-autos-zurueck](https://www.spiegel.de/auto/elektroauto-kaufen-schweizer-bundesamt-hielt-heikle-studie-zur-oekobilanz-von-e-autos-zurueck-a-c465d53c-7f77-4751-a152-f91f77daf336#ref=rss)
-* [https://www.spiegel.de/kultur/musik/ozan-ata-canani-haim-annahstasia-sex-beat-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/ozan-ata-canani-haim-annahstasia-sex-beat-abgehoert-album-der-woche-a-86e16079-c363-4fb2-a273-97740a08ca96#ref=rss)
-### natogipfel
-
-* [https://www.spiegel.de/politik/deutschland/nato-gipfel-in-den-haag-feind-im-innern](https://www.spiegel.de/politik/deutschland/nato-gipfel-in-den-haag-feind-im-innern-a-435cb651-031c-4f88-8a08-ae857eb2d3dd#ref=rss)
-### haag
-
-* [https://www.spiegel.de/politik/deutschland/nato-gipfel-in-den-haag-feind-im-innern](https://www.spiegel.de/politik/deutschland/nato-gipfel-in-den-haag-feind-im-innern-a-435cb651-031c-4f88-8a08-ae857eb2d3dd#ref=rss)
-### welt
-
-* [https://www.spiegel.de/politik/deutschland/nato-gipfel-in-den-haag-feind-im-innern](https://www.spiegel.de/politik/deutschland/nato-gipfel-in-den-haag-feind-im-innern-a-435cb651-031c-4f88-8a08-ae857eb2d3dd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/coronapandemie-cdu-csu-und-spd-stossen-aufarbeitung-an](https://www.spiegel.de/politik/deutschland/coronapandemie-cdu-csu-und-spd-stossen-aufarbeitung-an-a-ef7edb88-6b2a-4f7f-b29c-f5dc8231d928#ref=rss)
-### kommende
-
-* [https://www.spiegel.de/politik/deutschland/nato-gipfel-in-den-haag-feind-im-innern](https://www.spiegel.de/politik/deutschland/nato-gipfel-in-den-haag-feind-im-innern-a-435cb651-031c-4f88-8a08-ae857eb2d3dd#ref=rss)
-* [https://www.spiegel.de/sport/basketball/basketball-usa-verweigert-fuenf-spielerinnen-das-visum-senegal-sagt-trainingslager-ab](https://www.spiegel.de/sport/basketball/basketball-usa-verweigert-fuenf-spielerinnen-das-visum-senegal-sagt-trainingslager-ab-a-3689d296-0272-4939-8fae-37dac2ef224d#ref=rss)
-### sollte
-
-* [https://www.spiegel.de/wissenschaft/corona-neue-variante-nb-1-8-1-impfung-long-covid-experte-von-der-charite-klaert-auf](https://www.spiegel.de/wissenschaft/corona-neue-variante-nb-1-8-1-impfung-long-covid-experte-von-der-charite-klaert-auf-a-b7ae8a7a-087a-460e-8af6-c35da1944999#ref=rss)
-* [https://www.spiegel.de/kultur/kino/danny-boyle-wuerde-slumdog-millionaer-heute-nicht-mehr-drehen](https://www.spiegel.de/kultur/kino/danny-boyle-wuerde-slumdog-millionaer-heute-nicht-mehr-drehen-a-40451e26-8625-4588-954c-e3ba91136f78#ref=rss)
-### bestimmt
-
-* [https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-mit-albumcover-wer-bestimmt-was-frauen-duerfen](https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-mit-albumcover-wer-bestimmt-was-frauen-duerfen-a-3b233369-e127-4bf0-9bae-c39ad49001d2#ref=rss)
-* [https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-als-mans-best-friend-wer-bestimmt-was-frauen-duerfen-podcast](https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-als-mans-best-friend-wer-bestimmt-was-frauen-duerfen-podcast-a-6bcc44e6-13ba-4c66-9578-6aa3fe444354#ref=rss)
-### dürfen
-
-* [https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-mit-albumcover-wer-bestimmt-was-frauen-duerfen](https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-mit-albumcover-wer-bestimmt-was-frauen-duerfen-a-3b233369-e127-4bf0-9bae-c39ad49001d2#ref=rss)
-* [https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-als-mans-best-friend-wer-bestimmt-was-frauen-duerfen-podcast](https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-als-mans-best-friend-wer-bestimmt-was-frauen-duerfen-podcast-a-6bcc44e6-13ba-4c66-9578-6aa3fe444354#ref=rss)
-### selbstbestimmung
-
-* [https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-mit-albumcover-wer-bestimmt-was-frauen-duerfen](https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-mit-albumcover-wer-bestimmt-was-frauen-duerfen-a-3b233369-e127-4bf0-9bae-c39ad49001d2#ref=rss)
-* [https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-als-mans-best-friend-wer-bestimmt-was-frauen-duerfen-podcast](https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-als-mans-best-friend-wer-bestimmt-was-frauen-duerfen-podcast-a-6bcc44e6-13ba-4c66-9578-6aa3fe444354#ref=rss)
-### frauenverachtend
-
-* [https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-mit-albumcover-wer-bestimmt-was-frauen-duerfen](https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-mit-albumcover-wer-bestimmt-was-frauen-duerfen-a-3b233369-e127-4bf0-9bae-c39ad49001d2#ref=rss)
-* [https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-als-mans-best-friend-wer-bestimmt-was-frauen-duerfen-podcast](https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-als-mans-best-friend-wer-bestimmt-was-frauen-duerfen-podcast-a-6bcc44e6-13ba-4c66-9578-6aa3fe444354#ref=rss)
-### spiegelmitarbeiterin
-
-* [https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-mit-albumcover-wer-bestimmt-was-frauen-duerfen](https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-mit-albumcover-wer-bestimmt-was-frauen-duerfen-a-3b233369-e127-4bf0-9bae-c39ad49001d2#ref=rss)
-* [https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-als-mans-best-friend-wer-bestimmt-was-frauen-duerfen-podcast](https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-als-mans-best-friend-wer-bestimmt-was-frauen-duerfen-podcast-a-6bcc44e6-13ba-4c66-9578-6aa3fe444354#ref=rss)
-### miriam
-
-* [https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-mit-albumcover-wer-bestimmt-was-frauen-duerfen](https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-mit-albumcover-wer-bestimmt-was-frauen-duerfen-a-3b233369-e127-4bf0-9bae-c39ad49001d2#ref=rss)
-* [https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-als-mans-best-friend-wer-bestimmt-was-frauen-duerfen-podcast](https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-als-mans-best-friend-wer-bestimmt-was-frauen-duerfen-podcast-a-6bcc44e6-13ba-4c66-9578-6aa3fe444354#ref=rss)
-### amro
-
-* [https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-mit-albumcover-wer-bestimmt-was-frauen-duerfen](https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-mit-albumcover-wer-bestimmt-was-frauen-duerfen-a-3b233369-e127-4bf0-9bae-c39ad49001d2#ref=rss)
-* [https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-als-mans-best-friend-wer-bestimmt-was-frauen-duerfen-podcast](https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-als-mans-best-friend-wer-bestimmt-was-frauen-duerfen-podcast-a-6bcc44e6-13ba-4c66-9578-6aa3fe444354#ref=rss)
-### analysiert
-
-* [https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-mit-albumcover-wer-bestimmt-was-frauen-duerfen](https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-mit-albumcover-wer-bestimmt-was-frauen-duerfen-a-3b233369-e127-4bf0-9bae-c39ad49001d2#ref=rss)
-* [https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-als-mans-best-friend-wer-bestimmt-was-frauen-duerfen-podcast](https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-als-mans-best-friend-wer-bestimmt-was-frauen-duerfen-podcast-a-6bcc44e6-13ba-4c66-9578-6aa3fe444354#ref=rss)
-### tradition
-
-* [https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-mit-albumcover-wer-bestimmt-was-frauen-duerfen](https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-mit-albumcover-wer-bestimmt-was-frauen-duerfen-a-3b233369-e127-4bf0-9bae-c39ad49001d2#ref=rss)
-* [https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-als-mans-best-friend-wer-bestimmt-was-frauen-duerfen-podcast](https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-als-mans-best-friend-wer-bestimmt-was-frauen-duerfen-podcast-a-6bcc44e6-13ba-4c66-9578-6aa3fe444354#ref=rss)
-### provokation
-
-* [https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-mit-albumcover-wer-bestimmt-was-frauen-duerfen](https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-mit-albumcover-wer-bestimmt-was-frauen-duerfen-a-3b233369-e127-4bf0-9bae-c39ad49001d2#ref=rss)
-* [https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-als-mans-best-friend-wer-bestimmt-was-frauen-duerfen-podcast](https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-als-mans-best-friend-wer-bestimmt-was-frauen-duerfen-podcast-a-6bcc44e6-13ba-4c66-9578-6aa3fe444354#ref=rss)
-### madonna
-
-* [https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-mit-albumcover-wer-bestimmt-was-frauen-duerfen](https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-mit-albumcover-wer-bestimmt-was-frauen-duerfen-a-3b233369-e127-4bf0-9bae-c39ad49001d2#ref=rss)
-* [https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-als-mans-best-friend-wer-bestimmt-was-frauen-duerfen-podcast](https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-als-mans-best-friend-wer-bestimmt-was-frauen-duerfen-podcast-a-6bcc44e6-13ba-4c66-9578-6aa3fe444354#ref=rss)
-### ikkimel
-
-* [https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-mit-albumcover-wer-bestimmt-was-frauen-duerfen](https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-mit-albumcover-wer-bestimmt-was-frauen-duerfen-a-3b233369-e127-4bf0-9bae-c39ad49001d2#ref=rss)
-* [https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-als-mans-best-friend-wer-bestimmt-was-frauen-duerfen-podcast](https://www.spiegel.de/kultur/musik/sabrina-carpenter-provoziert-als-mans-best-friend-wer-bestimmt-was-frauen-duerfen-podcast-a-6bcc44e6-13ba-4c66-9578-6aa3fe444354#ref=rss)
-### verteidigungsminister
-
-* [https://www.spiegel.de/ausland/italien-melonis-verteidigungsminister-guido-crosetto-hinterfragt-nato-existenz](https://www.spiegel.de/ausland/italien-melonis-verteidigungsminister-guido-crosetto-hinterfragt-nato-existenz-a-a28c93ef-77f2-43ec-aef0-42e50b5ea39a#ref=rss)
-### crosetto
-
-* [https://www.spiegel.de/ausland/italien-melonis-verteidigungsminister-guido-crosetto-hinterfragt-nato-existenz](https://www.spiegel.de/ausland/italien-melonis-verteidigungsminister-guido-crosetto-hinterfragt-nato-existenz-a-a28c93ef-77f2-43ec-aef0-42e50b5ea39a#ref=rss)
-### bisher
-
-* [https://www.spiegel.de/ausland/italien-melonis-verteidigungsminister-guido-crosetto-hinterfragt-nato-existenz](https://www.spiegel.de/ausland/italien-melonis-verteidigungsminister-guido-crosetto-hinterfragt-nato-existenz-a-a28c93ef-77f2-43ec-aef0-42e50b5ea39a#ref=rss)
-* [https://www.spiegel.de/kultur/musik/beyonce-miley-cyrus-trat-ueberraschend-bei-beyonce-konzert-in-paris-auf](https://www.spiegel.de/kultur/musik/beyonce-miley-cyrus-trat-ueberraschend-bei-beyonce-konzert-in-paris-auf-a-e6eb3857-c6c9-4133-86ff-6d243857f372#ref=rss)
-### vorstandschef
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/thyssenkrupp-vorstandschef-miguel-lopez-erhaelt-trotz-gegenstimmen-der-ig-metall-neuen-vertrag](https://www.spiegel.de/wirtschaft/unternehmen/thyssenkrupp-vorstandschef-miguel-lopez-erhaelt-trotz-gegenstimmen-der-ig-metall-neuen-vertrag-a-f10356de-ac87-43e3-af40-52d35f4cc234#ref=rss)
-### miguel
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/thyssenkrupp-vorstandschef-miguel-lopez-erhaelt-trotz-gegenstimmen-der-ig-metall-neuen-vertrag](https://www.spiegel.de/wirtschaft/unternehmen/thyssenkrupp-vorstandschef-miguel-lopez-erhaelt-trotz-gegenstimmen-der-ig-metall-neuen-vertrag-a-f10356de-ac87-43e3-af40-52d35f4cc234#ref=rss)
-### ig
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/thyssenkrupp-vorstandschef-miguel-lopez-erhaelt-trotz-gegenstimmen-der-ig-metall-neuen-vertrag](https://www.spiegel.de/wirtschaft/unternehmen/thyssenkrupp-vorstandschef-miguel-lopez-erhaelt-trotz-gegenstimmen-der-ig-metall-neuen-vertrag-a-f10356de-ac87-43e3-af40-52d35f4cc234#ref=rss)
-### vertrag
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/thyssenkrupp-vorstandschef-miguel-lopez-erhaelt-trotz-gegenstimmen-der-ig-metall-neuen-vertrag](https://www.spiegel.de/wirtschaft/unternehmen/thyssenkrupp-vorstandschef-miguel-lopez-erhaelt-trotz-gegenstimmen-der-ig-metall-neuen-vertrag-a-f10356de-ac87-43e3-af40-52d35f4cc234#ref=rss)
-### vermutlich
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/thyssenkrupp-vorstandschef-miguel-lopez-erhaelt-trotz-gegenstimmen-der-ig-metall-neuen-vertrag](https://www.spiegel.de/wirtschaft/unternehmen/thyssenkrupp-vorstandschef-miguel-lopez-erhaelt-trotz-gegenstimmen-der-ig-metall-neuen-vertrag-a-f10356de-ac87-43e3-af40-52d35f4cc234#ref=rss)
-* [https://www.spiegel.de/panorama/neuruppin-feuer-durch-katze-am-herd-ein-tier-stirbt](https://www.spiegel.de/panorama/neuruppin-feuer-durch-katze-am-herd-ein-tier-stirbt-a-a17ae953-bf0b-4962-a6dd-356207fbd8e7#ref=rss)
-### vorfall
-
-* [https://www.spiegel.de/ausland/los-angeles-kein-ice-in-l-a-proteste-nach-vorfall-am-dodgers-stadion](https://www.spiegel.de/ausland/los-angeles-kein-ice-in-l-a-proteste-nach-vorfall-am-dodgers-stadion-a-a8ad94f0-1b86-4e82-9606-0ec06f9c9987#ref=rss)
-### ozan
-
-* [https://www.spiegel.de/kultur/musik/ozan-ata-canani-haim-annahstasia-sex-beat-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/ozan-ata-canani-haim-annahstasia-sex-beat-abgehoert-album-der-woche-a-86e16079-c363-4fb2-a273-97740a08ca96#ref=rss)
-### ata
-
-* [https://www.spiegel.de/kultur/musik/ozan-ata-canani-haim-annahstasia-sex-beat-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/ozan-ata-canani-haim-annahstasia-sex-beat-abgehoert-album-der-woche-a-86e16079-c363-4fb2-a273-97740a08ca96#ref=rss)
-### canani
-
-* [https://www.spiegel.de/kultur/musik/ozan-ata-canani-haim-annahstasia-sex-beat-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/ozan-ata-canani-haim-annahstasia-sex-beat-abgehoert-album-der-woche-a-86e16079-c363-4fb2-a273-97740a08ca96#ref=rss)
-### haim
-
-* [https://www.spiegel.de/kultur/musik/ozan-ata-canani-haim-annahstasia-sex-beat-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/ozan-ata-canani-haim-annahstasia-sex-beat-abgehoert-album-der-woche-a-86e16079-c363-4fb2-a273-97740a08ca96#ref=rss)
-### album
-
-* [https://www.spiegel.de/kultur/musik/ozan-ata-canani-haim-annahstasia-sex-beat-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/ozan-ata-canani-haim-annahstasia-sex-beat-abgehoert-album-der-woche-a-86e16079-c363-4fb2-a273-97740a08ca96#ref=rss)
-### luftwaffe
-
-* [https://www.spiegel.de/politik/deutschland/israel-luftwaffe-holt-deutsche-aus-tel-aviv-ab](https://www.spiegel.de/politik/deutschland/israel-luftwaffe-holt-deutsche-aus-tel-aviv-ab-a-64f1fdcf-cedf-458c-b8af-4377c3470ee8#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/politik/deutschland/israel-luftwaffe-holt-deutsche-aus-tel-aviv-ab](https://www.spiegel.de/politik/deutschland/israel-luftwaffe-holt-deutsche-aus-tel-aviv-ab-a-64f1fdcf-cedf-458c-b8af-4377c3470ee8#ref=rss)
-### demnach
-
-* [https://www.spiegel.de/politik/deutschland/israel-luftwaffe-holt-deutsche-aus-tel-aviv-ab](https://www.spiegel.de/politik/deutschland/israel-luftwaffe-holt-deutsche-aus-tel-aviv-ab-a-64f1fdcf-cedf-458c-b8af-4377c3470ee8#ref=rss)
-* [https://www.spiegel.de/ausland/unicef-stellt-zunehmende-mangelernaehrung-bei-kindern-im-gazastreifen-fest](https://www.spiegel.de/ausland/unicef-stellt-zunehmende-mangelernaehrung-bei-kindern-im-gazastreifen-fest-a-97d47aeb-7a46-4aee-9169-764c828c702d#ref=rss)
-### gerbstedt
-
-* [https://www.spiegel.de/panorama/justiz/gerbstedt-37-jaehriger-fluechtet-nach-angriff-auf-zwei-frauen-versuchtes-toetungsdelikt](https://www.spiegel.de/panorama/justiz/gerbstedt-37-jaehriger-fluechtet-nach-angriff-auf-zwei-frauen-versuchtes-toetungsdelikt-a-1936126d-fb7d-4b3e-ada3-aaec97672e39#ref=rss)
-### 37jähriger
-
-* [https://www.spiegel.de/panorama/justiz/gerbstedt-37-jaehriger-fluechtet-nach-angriff-auf-zwei-frauen-versuchtes-toetungsdelikt](https://www.spiegel.de/panorama/justiz/gerbstedt-37-jaehriger-fluechtet-nach-angriff-auf-zwei-frauen-versuchtes-toetungsdelikt-a-1936126d-fb7d-4b3e-ada3-aaec97672e39#ref=rss)
-### warnt
-
-* [https://www.spiegel.de/panorama/justiz/gerbstedt-37-jaehriger-fluechtet-nach-angriff-auf-zwei-frauen-versuchtes-toetungsdelikt](https://www.spiegel.de/panorama/justiz/gerbstedt-37-jaehriger-fluechtet-nach-angriff-auf-zwei-frauen-versuchtes-toetungsdelikt-a-1936126d-fb7d-4b3e-ada3-aaec97672e39#ref=rss)
-* [https://www.spiegel.de/ausland/israel-iran-konflikt-israel-bombardiert-iranische-raketenfabriken](https://www.spiegel.de/ausland/israel-iran-konflikt-israel-bombardiert-iranische-raketenfabriken-a-22a4854c-2e87-4b09-a93f-188e529dc23d#ref=rss)
-### herd
-
-* [https://www.spiegel.de/panorama/neuruppin-feuer-durch-katze-am-herd-ein-tier-stirbt](https://www.spiegel.de/panorama/neuruppin-feuer-durch-katze-am-herd-ein-tier-stirbt-a-a17ae953-bf0b-4962-a6dd-356207fbd8e7#ref=rss)
-### russland
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-russland-vor-rezession-diplomatie-in-genf-los-angeles-lakers](https://www.spiegel.de/politik/deutschland/news-des-tages-russland-vor-rezession-diplomatie-in-genf-los-angeles-lakers-a-e22b54bf-696e-4723-a2f6-a3485fe463de#ref=rss)
-### rezession
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-russland-vor-rezession-diplomatie-in-genf-los-angeles-lakers](https://www.spiegel.de/politik/deutschland/news-des-tages-russland-vor-rezession-diplomatie-in-genf-los-angeles-lakers-a-e22b54bf-696e-4723-a2f6-a3485fe463de#ref=rss)
-### genf
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-russland-vor-rezession-diplomatie-in-genf-los-angeles-lakers](https://www.spiegel.de/politik/deutschland/news-des-tages-russland-vor-rezession-diplomatie-in-genf-los-angeles-lakers-a-e22b54bf-696e-4723-a2f6-a3485fe463de#ref=rss)
-### lakers
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-russland-vor-rezession-diplomatie-in-genf-los-angeles-lakers](https://www.spiegel.de/politik/deutschland/news-des-tages-russland-vor-rezession-diplomatie-in-genf-los-angeles-lakers-a-e22b54bf-696e-4723-a2f6-a3485fe463de#ref=rss)
-### europäer
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-russland-vor-rezession-diplomatie-in-genf-los-angeles-lakers](https://www.spiegel.de/politik/deutschland/news-des-tages-russland-vor-rezession-diplomatie-in-genf-los-angeles-lakers-a-e22b54bf-696e-4723-a2f6-a3485fe463de#ref=rss)
-* [https://www.spiegel.de/ausland/israel-iran-konflikt-israel-bombardiert-iranische-raketenfabriken](https://www.spiegel.de/ausland/israel-iran-konflikt-israel-bombardiert-iranische-raketenfabriken-a-22a4854c-2e87-4b09-a93f-188e529dc23d#ref=rss)
-### zehn
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-russland-vor-rezession-diplomatie-in-genf-los-angeles-lakers](https://www.spiegel.de/politik/deutschland/news-des-tages-russland-vor-rezession-diplomatie-in-genf-los-angeles-lakers-a-e22b54bf-696e-4723-a2f6-a3485fe463de#ref=rss)
-* [https://www.spiegel.de/wissenschaft/baden-in-deutschland-neun-von-zehn-badestellen-bieten-top-wasserqualitaet](https://www.spiegel.de/wissenschaft/baden-in-deutschland-neun-von-zehn-badestellen-bieten-top-wasserqualitaet-a-c6cfe72d-4d20-47a7-8005-a7eb8ef9872f#ref=rss)
-### mikroplastik
-
-* [https://www.spiegel.de/wissenschaft/mikroplastik-in-glasflaschen-mehr-mikroplastik-als-in-plastikflaschen-nachgewiesen-studie-aus-boulogne-sur-mer-in-frankreich](https://www.spiegel.de/wissenschaft/mikroplastik-in-glasflaschen-mehr-mikroplastik-als-in-plastikflaschen-nachgewiesen-studie-aus-boulogne-sur-mer-in-frankreich-a-3fe42d27-4859-4fb3-945b-6750c5f0fd9a#ref=rss)
-### glasflaschen
-
-* [https://www.spiegel.de/wissenschaft/mikroplastik-in-glasflaschen-mehr-mikroplastik-als-in-plastikflaschen-nachgewiesen-studie-aus-boulogne-sur-mer-in-frankreich](https://www.spiegel.de/wissenschaft/mikroplastik-in-glasflaschen-mehr-mikroplastik-als-in-plastikflaschen-nachgewiesen-studie-aus-boulogne-sur-mer-in-frankreich-a-3fe42d27-4859-4fb3-945b-6750c5f0fd9a#ref=rss)
-### frankreich
-
-* [https://www.spiegel.de/wissenschaft/mikroplastik-in-glasflaschen-mehr-mikroplastik-als-in-plastikflaschen-nachgewiesen-studie-aus-boulogne-sur-mer-in-frankreich](https://www.spiegel.de/wissenschaft/mikroplastik-in-glasflaschen-mehr-mikroplastik-als-in-plastikflaschen-nachgewiesen-studie-aus-boulogne-sur-mer-in-frankreich-a-3fe42d27-4859-4fb3-945b-6750c5f0fd9a#ref=rss)
-### beyoncé
-
-* [https://www.spiegel.de/kultur/musik/beyonce-miley-cyrus-trat-ueberraschend-bei-beyonce-konzert-in-paris-auf](https://www.spiegel.de/kultur/musik/beyonce-miley-cyrus-trat-ueberraschend-bei-beyonce-konzert-in-paris-auf-a-e6eb3857-c6c9-4133-86ff-6d243857f372#ref=rss)
-### miley
-
-* [https://www.spiegel.de/kultur/musik/beyonce-miley-cyrus-trat-ueberraschend-bei-beyonce-konzert-in-paris-auf](https://www.spiegel.de/kultur/musik/beyonce-miley-cyrus-trat-ueberraschend-bei-beyonce-konzert-in-paris-auf-a-e6eb3857-c6c9-4133-86ff-6d243857f372#ref=rss)
-### cyrus
-
-* [https://www.spiegel.de/kultur/musik/beyonce-miley-cyrus-trat-ueberraschend-bei-beyonce-konzert-in-paris-auf](https://www.spiegel.de/kultur/musik/beyonce-miley-cyrus-trat-ueberraschend-bei-beyonce-konzert-in-paris-auf-a-e6eb3857-c6c9-4133-86ff-6d243857f372#ref=rss)
-### paris
-
-* [https://www.spiegel.de/kultur/musik/beyonce-miley-cyrus-trat-ueberraschend-bei-beyonce-konzert-in-paris-auf](https://www.spiegel.de/kultur/musik/beyonce-miley-cyrus-trat-ueberraschend-bei-beyonce-konzert-in-paris-auf-a-e6eb3857-c6c9-4133-86ff-6d243857f372#ref=rss)
-### internationale
-
-* [https://www.spiegel.de/ausland/israel-iran-konflikt-israel-bombardiert-iranische-raketenfabriken](https://www.spiegel.de/ausland/israel-iran-konflikt-israel-bombardiert-iranische-raketenfabriken-a-22a4854c-2e87-4b09-a93f-188e529dc23d#ref=rss)
-### natans
-
-* [https://www.spiegel.de/ausland/israel-iran-konflikt-israel-bombardiert-iranische-raketenfabriken](https://www.spiegel.de/ausland/israel-iran-konflikt-israel-bombardiert-iranische-raketenfabriken-a-22a4854c-2e87-4b09-a93f-188e529dc23d#ref=rss)
-### england
-
-* [https://www.spiegel.de/ausland/england-und-wales-britische-abgeordnete-stimmen-fuer-legalisierung-von-sterbehilfe](https://www.spiegel.de/ausland/england-und-wales-britische-abgeordnete-stimmen-fuer-legalisierung-von-sterbehilfe-a-127d66b2-1a28-453e-9295-79a4fa46cb12#ref=rss)
-### wales
-
-* [https://www.spiegel.de/ausland/england-und-wales-britische-abgeordnete-stimmen-fuer-legalisierung-von-sterbehilfe](https://www.spiegel.de/ausland/england-und-wales-britische-abgeordnete-stimmen-fuer-legalisierung-von-sterbehilfe-a-127d66b2-1a28-453e-9295-79a4fa46cb12#ref=rss)
-### britische
-
-* [https://www.spiegel.de/ausland/england-und-wales-britische-abgeordnete-stimmen-fuer-legalisierung-von-sterbehilfe](https://www.spiegel.de/ausland/england-und-wales-britische-abgeordnete-stimmen-fuer-legalisierung-von-sterbehilfe-a-127d66b2-1a28-453e-9295-79a4fa46cb12#ref=rss)
-### sterbehilfe
-
-* [https://www.spiegel.de/ausland/england-und-wales-britische-abgeordnete-stimmen-fuer-legalisierung-von-sterbehilfe](https://www.spiegel.de/ausland/england-und-wales-britische-abgeordnete-stimmen-fuer-legalisierung-von-sterbehilfe-a-127d66b2-1a28-453e-9295-79a4fa46cb12#ref=rss)
-### fünf
-
-* [https://www.spiegel.de/sport/basketball/basketball-usa-verweigert-fuenf-spielerinnen-das-visum-senegal-sagt-trainingslager-ab](https://www.spiegel.de/sport/basketball/basketball-usa-verweigert-fuenf-spielerinnen-das-visum-senegal-sagt-trainingslager-ab-a-3689d296-0272-4939-8fae-37dac2ef224d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/coronapandemie-cdu-csu-und-spd-stossen-aufarbeitung-an](https://www.spiegel.de/politik/deutschland/coronapandemie-cdu-csu-und-spd-stossen-aufarbeitung-an-a-ef7edb88-6b2a-4f7f-b29c-f5dc8231d928#ref=rss)
-### senegal
-
-* [https://www.spiegel.de/sport/basketball/basketball-usa-verweigert-fuenf-spielerinnen-das-visum-senegal-sagt-trainingslager-ab](https://www.spiegel.de/sport/basketball/basketball-usa-verweigert-fuenf-spielerinnen-das-visum-senegal-sagt-trainingslager-ab-a-3689d296-0272-4939-8fae-37dac2ef224d#ref=rss)
-### trainingslager
-
-* [https://www.spiegel.de/sport/basketball/basketball-usa-verweigert-fuenf-spielerinnen-das-visum-senegal-sagt-trainingslager-ab](https://www.spiegel.de/sport/basketball/basketball-usa-verweigert-fuenf-spielerinnen-das-visum-senegal-sagt-trainingslager-ab-a-3689d296-0272-4939-8fae-37dac2ef224d#ref=rss)
-### coronapandemie
-
-* [https://www.spiegel.de/politik/deutschland/coronapandemie-cdu-csu-und-spd-stossen-aufarbeitung-an](https://www.spiegel.de/politik/deutschland/coronapandemie-cdu-csu-und-spd-stossen-aufarbeitung-an-a-ef7edb88-6b2a-4f7f-b29c-f5dc8231d928#ref=rss)
-### spd
-
-* [https://www.spiegel.de/politik/deutschland/coronapandemie-cdu-csu-und-spd-stossen-aufarbeitung-an](https://www.spiegel.de/politik/deutschland/coronapandemie-cdu-csu-und-spd-stossen-aufarbeitung-an-a-ef7edb88-6b2a-4f7f-b29c-f5dc8231d928#ref=rss)
-### drogeriemarkt
-
-* [https://www.spiegel.de/panorama/drogeriemarkt-dm-ruft-handserum-von-balea-wegen-hefepilzgefahr-zurueck](https://www.spiegel.de/panorama/drogeriemarkt-dm-ruft-handserum-von-balea-wegen-hefepilzgefahr-zurueck-a-2f3ad584-c26f-4f66-ac9a-68e9bbd1cf0f#ref=rss)
-### dm
-
-* [https://www.spiegel.de/panorama/drogeriemarkt-dm-ruft-handserum-von-balea-wegen-hefepilzgefahr-zurueck](https://www.spiegel.de/panorama/drogeriemarkt-dm-ruft-handserum-von-balea-wegen-hefepilzgefahr-zurueck-a-2f3ad584-c26f-4f66-ac9a-68e9bbd1cf0f#ref=rss)
-### handserum
-
-* [https://www.spiegel.de/panorama/drogeriemarkt-dm-ruft-handserum-von-balea-wegen-hefepilzgefahr-zurueck](https://www.spiegel.de/panorama/drogeriemarkt-dm-ruft-handserum-von-balea-wegen-hefepilzgefahr-zurueck-a-2f3ad584-c26f-4f66-ac9a-68e9bbd1cf0f#ref=rss)
-### danny
-
-* [https://www.spiegel.de/kultur/kino/danny-boyle-wuerde-slumdog-millionaer-heute-nicht-mehr-drehen](https://www.spiegel.de/kultur/kino/danny-boyle-wuerde-slumdog-millionaer-heute-nicht-mehr-drehen-a-40451e26-8625-4588-954c-e3ba91136f78#ref=rss)
-### boyle
-
-* [https://www.spiegel.de/kultur/kino/danny-boyle-wuerde-slumdog-millionaer-heute-nicht-mehr-drehen](https://www.spiegel.de/kultur/kino/danny-boyle-wuerde-slumdog-millionaer-heute-nicht-mehr-drehen-a-40451e26-8625-4588-954c-e3ba91136f78#ref=rss)
-### regisseur
-
-* [https://www.spiegel.de/kultur/kino/danny-boyle-wuerde-slumdog-millionaer-heute-nicht-mehr-drehen](https://www.spiegel.de/kultur/kino/danny-boyle-wuerde-slumdog-millionaer-heute-nicht-mehr-drehen-a-40451e26-8625-4588-954c-e3ba91136f78#ref=rss)
-### wassermelone
-
-* [https://www.spiegel.de/stil/wassermelone-schneiden-so-gehts-ohne-kleckern](https://www.spiegel.de/stil/wassermelone-schneiden-so-gehts-ohne-kleckern-a-8c2b0ae2-2aed-495b-92e9-85a807e8c17f#ref=rss)
-### unicef
-
-* [https://www.spiegel.de/ausland/unicef-stellt-zunehmende-mangelernaehrung-bei-kindern-im-gazastreifen-fest](https://www.spiegel.de/ausland/unicef-stellt-zunehmende-mangelernaehrung-bei-kindern-im-gazastreifen-fest-a-97d47aeb-7a46-4aee-9169-764c828c702d#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/ausland/unicef-stellt-zunehmende-mangelernaehrung-bei-kindern-im-gazastreifen-fest](https://www.spiegel.de/ausland/unicef-stellt-zunehmende-mangelernaehrung-bei-kindern-im-gazastreifen-fest-a-97d47aeb-7a46-4aee-9169-764c828c702d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/baden-in-deutschland-neun-von-zehn-badestellen-bieten-top-wasserqualitaet](https://www.spiegel.de/wissenschaft/baden-in-deutschland-neun-von-zehn-badestellen-bieten-top-wasserqualitaet-a-c6cfe72d-4d20-47a7-8005-a7eb8ef9872f#ref=rss)
-### bushido
-
-* [https://www.spiegel.de/panorama/leute/bushido-festival-auftritt-in-unterfranken-wegen-gesundheitlicher-probleme-abgesagt](https://www.spiegel.de/panorama/leute/bushido-festival-auftritt-in-unterfranken-wegen-gesundheitlicher-probleme-abgesagt-a-c4a3f16d-2a68-4017-ac47-c43712648537#ref=rss)
-### probleme
-
-* [https://www.spiegel.de/panorama/leute/bushido-festival-auftritt-in-unterfranken-wegen-gesundheitlicher-probleme-abgesagt](https://www.spiegel.de/panorama/leute/bushido-festival-auftritt-in-unterfranken-wegen-gesundheitlicher-probleme-abgesagt-a-c4a3f16d-2a68-4017-ac47-c43712648537#ref=rss)
+* [https://www.spiegel.de/wirtschaft/energiewende-siemens-energy-chef-christian-bruch-unabhaengigkeit-kostet-geld](https://www.spiegel.de/wirtschaft/energiewende-siemens-energy-chef-christian-bruch-unabhaengigkeit-kostet-geld-a-6c51f68c-9827-4d17-ae56-90aad13c1da6#ref=rss)
+* [https://www.spiegel.de/panorama/angela-merkel-ex-kanzlerin-beschreibt-ihren-entspannten-alltag-als-rentnerin](https://www.spiegel.de/panorama/angela-merkel-ex-kanzlerin-beschreibt-ihren-entspannten-alltag-als-rentnerin-a-bc55ffd3-4876-4efe-95f0-48b0b5d95f3f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ukraine-setzt-im-kampf-gegen-russische-angriffe-auf-abfangdrohnen](https://www.spiegel.de/wirtschaft/ukraine-setzt-im-kampf-gegen-russische-angriffe-auf-abfangdrohnen-a-7d9c63a2-f0bc-4fcd-9d96-cf97b989dc72#ref=rss)
+* [https://www.spiegel.de/auto/stadtradeln-in-fahrrad-hochburg-krummendiek-in-schleswig-holstein-ein-dorf-tritt-in-die-pedale](https://www.spiegel.de/auto/stadtradeln-in-fahrrad-hochburg-krummendiek-in-schleswig-holstein-ein-dorf-tritt-in-die-pedale-a-d95dfbc8-98c1-4e4c-b4bb-1052f71d4501#ref=rss)
+* [https://www.spiegel.de/ausland/news-iran-israel-donald-trump-johann-wadephul-wladimir-putin-unicef-gaza](https://www.spiegel.de/ausland/news-iran-israel-donald-trump-johann-wadephul-wladimir-putin-unicef-gaza-a-16b2204c-7525-41d3-be3e-a2a19991106a#ref=rss)
+### donald
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-schwadroniert-erneut-ueber-rauswurf-von-notenbankchef-jerome-powell](https://www.spiegel.de/wirtschaft/donald-trump-schwadroniert-erneut-ueber-rauswurf-von-notenbankchef-jerome-powell-a-28dcab50-6dce-4710-99dd-c3e2a2dd9de2#ref=rss)
+* [https://www.spiegel.de/ausland/news-iran-israel-donald-trump-johann-wadephul-wladimir-putin-unicef-gaza](https://www.spiegel.de/ausland/news-iran-israel-donald-trump-johann-wadephul-wladimir-putin-unicef-gaza-a-16b2204c-7525-41d3-be3e-a2a19991106a#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-sieht-usa-bei-neuem-nato-ausgabenziel-nicht-in-der-pflicht](https://www.spiegel.de/ausland/donald-trump-sieht-usa-bei-neuem-nato-ausgabenziel-nicht-in-der-pflicht-a-473fbe9b-22fe-4193-9cf2-a0811ec5f016#ref=rss)
+### trump
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-schwadroniert-erneut-ueber-rauswurf-von-notenbankchef-jerome-powell](https://www.spiegel.de/wirtschaft/donald-trump-schwadroniert-erneut-ueber-rauswurf-von-notenbankchef-jerome-powell-a-28dcab50-6dce-4710-99dd-c3e2a2dd9de2#ref=rss)
+* [https://www.spiegel.de/ausland/news-iran-israel-donald-trump-johann-wadephul-wladimir-putin-unicef-gaza](https://www.spiegel.de/ausland/news-iran-israel-donald-trump-johann-wadephul-wladimir-putin-unicef-gaza-a-16b2204c-7525-41d3-be3e-a2a19991106a#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-sieht-usa-bei-neuem-nato-ausgabenziel-nicht-in-der-pflicht](https://www.spiegel.de/ausland/donald-trump-sieht-usa-bei-neuem-nato-ausgabenziel-nicht-in-der-pflicht-a-473fbe9b-22fe-4193-9cf2-a0811ec5f016#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/krieg-gegen-die-ukraine-22-jahre-haft-fuer-russische-aktivistin](https://www.spiegel.de/ausland/krieg-gegen-die-ukraine-22-jahre-haft-fuer-russische-aktivistin-a-05473731-5c61-48f8-87e7-8a03a25105cb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ukraine-setzt-im-kampf-gegen-russische-angriffe-auf-abfangdrohnen](https://www.spiegel.de/wirtschaft/ukraine-setzt-im-kampf-gegen-russische-angriffe-auf-abfangdrohnen-a-7d9c63a2-f0bc-4fcd-9d96-cf97b989dc72#ref=rss)
+* [https://www.spiegel.de/ausland/news-iran-israel-donald-trump-johann-wadephul-wladimir-putin-unicef-gaza](https://www.spiegel.de/ausland/news-iran-israel-donald-trump-johann-wadephul-wladimir-putin-unicef-gaza-a-16b2204c-7525-41d3-be3e-a2a19991106a#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/wissenschaft/baden-in-deutschland-neun-von-zehn-badestellen-bieten-top-wasserqualitaet](https://www.spiegel.de/wissenschaft/baden-in-deutschland-neun-von-zehn-badestellen-bieten-top-wasserqualitaet-a-c6cfe72d-4d20-47a7-8005-a7eb8ef9872f#ref=rss)
+* [https://www.spiegel.de/ausland/iran-deutschland-bringt-botschaftspersonal-in-sicherheit](https://www.spiegel.de/ausland/iran-deutschland-bringt-botschaftspersonal-in-sicherheit-a-33289b44-916a-4509-b049-f190c54d9044#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/sommersonnenwende-2025-alles-wichtige-zum-sommeranfang-am-21-juni](https://www.spiegel.de/wissenschaft/natur/sommersonnenwende-2025-alles-wichtige-zum-sommeranfang-am-21-juni-a-a3ec4aa0-1d76-4ae8-99ba-2f310efe621b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-wie-die-zeitenwende-jetzt-auch-in-meiner-familie-ankam-kolumne](https://www.spiegel.de/politik/deutschland/bundeswehr-wie-die-zeitenwende-jetzt-auch-in-meiner-familie-ankam-kolumne-a-630a6d78-ab3a-4b8f-91d8-828516b55d10#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-prognose-fuer-das-wochenende-deutschland-schwitzt-hitze-bis-37-grad](https://www.spiegel.de/panorama/wetter-prognose-fuer-das-wochenende-deutschland-schwitzt-hitze-bis-37-grad-a-3c6bceaa-10aa-4ee4-b5ec-15d25289bf5d#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/sport/magnus-carlsen-schachstar-bleibt-ein-weiteres-jahr-bei-st-pauli](https://www.spiegel.de/sport/magnus-carlsen-schachstar-bleibt-ein-weiteres-jahr-bei-st-pauli-a-54e7d41e-7833-409f-9745-9e640bffc1e2#ref=rss)
+* [https://www.spiegel.de/panorama/kalifornien-hunde-wetteifern-beim-surfen-in-huntington-beach](https://www.spiegel.de/panorama/kalifornien-hunde-wetteifern-beim-surfen-in-huntington-beach-a-49f3fe30-2c83-410d-a59b-b7cf73942a7f#ref=rss)
+### krieg
+
+* [https://www.spiegel.de/ausland/krieg-gegen-die-ukraine-22-jahre-haft-fuer-russische-aktivistin](https://www.spiegel.de/ausland/krieg-gegen-die-ukraine-22-jahre-haft-fuer-russische-aktivistin-a-05473731-5c61-48f8-87e7-8a03a25105cb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ukraine-setzt-im-kampf-gegen-russische-angriffe-auf-abfangdrohnen](https://www.spiegel.de/wirtschaft/ukraine-setzt-im-kampf-gegen-russische-angriffe-auf-abfangdrohnen-a-7d9c63a2-f0bc-4fcd-9d96-cf97b989dc72#ref=rss)
+### haft
+
+* [https://www.spiegel.de/ausland/krieg-gegen-die-ukraine-22-jahre-haft-fuer-russische-aktivistin](https://www.spiegel.de/ausland/krieg-gegen-die-ukraine-22-jahre-haft-fuer-russische-aktivistin-a-05473731-5c61-48f8-87e7-8a03a25105cb#ref=rss)
+* [https://www.spiegel.de/ausland/moncef-marzouki-gericht-in-tunesien-verurteilt-ex-praesident-zu-22-jahren-haft](https://www.spiegel.de/ausland/moncef-marzouki-gericht-in-tunesien-verurteilt-ex-praesident-zu-22-jahren-haft-a-b0ae677e-f965-40b0-a5f6-5c6ab2f1942c#ref=rss)
+### verurteilt
+
+* [https://www.spiegel.de/ausland/krieg-gegen-die-ukraine-22-jahre-haft-fuer-russische-aktivistin](https://www.spiegel.de/ausland/krieg-gegen-die-ukraine-22-jahre-haft-fuer-russische-aktivistin-a-05473731-5c61-48f8-87e7-8a03a25105cb#ref=rss)
+* [https://www.spiegel.de/ausland/moncef-marzouki-gericht-in-tunesien-verurteilt-ex-praesident-zu-22-jahren-haft](https://www.spiegel.de/ausland/moncef-marzouki-gericht-in-tunesien-verurteilt-ex-praesident-zu-22-jahren-haft-a-b0ae677e-f965-40b0-a5f6-5c6ab2f1942c#ref=rss)
+### iran
+
+* [https://www.spiegel.de/ausland/iran-deutschland-bringt-botschaftspersonal-in-sicherheit](https://www.spiegel.de/ausland/iran-deutschland-bringt-botschaftspersonal-in-sicherheit-a-33289b44-916a-4509-b049-f190c54d9044#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-krieg-israel-meldet-toetung-von-kommandeur-der-quds-brigade](https://www.spiegel.de/ausland/israel-iran-krieg-israel-meldet-toetung-von-kommandeur-der-quds-brigade-a-40fa6654-182a-4ed2-bf13-9b4623239704#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/ausland/iran-deutschland-bringt-botschaftspersonal-in-sicherheit](https://www.spiegel.de/ausland/iran-deutschland-bringt-botschaftspersonal-in-sicherheit-a-33289b44-916a-4509-b049-f190c54d9044#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-krieg-israel-meldet-toetung-von-kommandeur-der-quds-brigade](https://www.spiegel.de/ausland/israel-iran-krieg-israel-meldet-toetung-von-kommandeur-der-quds-brigade-a-40fa6654-182a-4ed2-bf13-9b4623239704#ref=rss)
+### usa
+
+* [https://www.spiegel.de/panorama/usa-chinese-durchquert-15-laender-und-den-darien-dschungel-um-in-die-usa-zu-kommen](https://www.spiegel.de/panorama/usa-chinese-durchquert-15-laender-und-den-darien-dschungel-um-in-die-usa-zu-kommen-a-dba51f4f-abb0-49f7-a4bb-809f714ce108#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-sieht-usa-bei-neuem-nato-ausgabenziel-nicht-in-der-pflicht](https://www.spiegel.de/ausland/donald-trump-sieht-usa-bei-neuem-nato-ausgabenziel-nicht-in-der-pflicht-a-473fbe9b-22fe-4193-9cf2-a0811ec5f016#ref=rss)
+### magnus
+
+* [https://www.spiegel.de/sport/magnus-carlsen-schachstar-bleibt-ein-weiteres-jahr-bei-st-pauli](https://www.spiegel.de/sport/magnus-carlsen-schachstar-bleibt-ein-weiteres-jahr-bei-st-pauli-a-54e7d41e-7833-409f-9745-9e640bffc1e2#ref=rss)
+### carlsen
+
+* [https://www.spiegel.de/sport/magnus-carlsen-schachstar-bleibt-ein-weiteres-jahr-bei-st-pauli](https://www.spiegel.de/sport/magnus-carlsen-schachstar-bleibt-ein-weiteres-jahr-bei-st-pauli-a-54e7d41e-7833-409f-9745-9e640bffc1e2#ref=rss)
+### bleibt
+
+* [https://www.spiegel.de/sport/magnus-carlsen-schachstar-bleibt-ein-weiteres-jahr-bei-st-pauli](https://www.spiegel.de/sport/magnus-carlsen-schachstar-bleibt-ein-weiteres-jahr-bei-st-pauli-a-54e7d41e-7833-409f-9745-9e640bffc1e2#ref=rss)
+### weiteres
+
+* [https://www.spiegel.de/sport/magnus-carlsen-schachstar-bleibt-ein-weiteres-jahr-bei-st-pauli](https://www.spiegel.de/sport/magnus-carlsen-schachstar-bleibt-ein-weiteres-jahr-bei-st-pauli-a-54e7d41e-7833-409f-9745-9e640bffc1e2#ref=rss)
+### st
+
+* [https://www.spiegel.de/sport/magnus-carlsen-schachstar-bleibt-ein-weiteres-jahr-bei-st-pauli](https://www.spiegel.de/sport/magnus-carlsen-schachstar-bleibt-ein-weiteres-jahr-bei-st-pauli-a-54e7d41e-7833-409f-9745-9e640bffc1e2#ref=rss)
+### pauli
+
+* [https://www.spiegel.de/sport/magnus-carlsen-schachstar-bleibt-ein-weiteres-jahr-bei-st-pauli](https://www.spiegel.de/sport/magnus-carlsen-schachstar-bleibt-ein-weiteres-jahr-bei-st-pauli-a-54e7d41e-7833-409f-9745-9e640bffc1e2#ref=rss)
+### frühere
+
+* [https://www.spiegel.de/sport/magnus-carlsen-schachstar-bleibt-ein-weiteres-jahr-bei-st-pauli](https://www.spiegel.de/sport/magnus-carlsen-schachstar-bleibt-ein-weiteres-jahr-bei-st-pauli-a-54e7d41e-7833-409f-9745-9e640bffc1e2#ref=rss)
+* [https://www.spiegel.de/ausland/moncef-marzouki-gericht-in-tunesien-verurteilt-ex-praesident-zu-22-jahren-haft](https://www.spiegel.de/ausland/moncef-marzouki-gericht-in-tunesien-verurteilt-ex-praesident-zu-22-jahren-haft-a-b0ae677e-f965-40b0-a5f6-5c6ab2f1942c#ref=rss)
+### klub
+
+* [https://www.spiegel.de/sport/magnus-carlsen-schachstar-bleibt-ein-weiteres-jahr-bei-st-pauli](https://www.spiegel.de/sport/magnus-carlsen-schachstar-bleibt-ein-weiteres-jahr-bei-st-pauli-a-54e7d41e-7833-409f-9745-9e640bffc1e2#ref=rss)
+* [https://www.spiegel.de/sport/los-angeles-la-dodgers-spenden-eine-million-fuer-einwanderer](https://www.spiegel.de/sport/los-angeles-la-dodgers-spenden-eine-million-fuer-einwanderer-a-8492a273-2d3e-46ed-834d-99fa87fda031#ref=rss)
+### los
+
+* [https://www.spiegel.de/sport/los-angeles-la-dodgers-spenden-eine-million-fuer-einwanderer](https://www.spiegel.de/sport/los-angeles-la-dodgers-spenden-eine-million-fuer-einwanderer-a-8492a273-2d3e-46ed-834d-99fa87fda031#ref=rss)
+### angeles
+
+* [https://www.spiegel.de/sport/los-angeles-la-dodgers-spenden-eine-million-fuer-einwanderer](https://www.spiegel.de/sport/los-angeles-la-dodgers-spenden-eine-million-fuer-einwanderer-a-8492a273-2d3e-46ed-834d-99fa87fda031#ref=rss)
+### la
+
+* [https://www.spiegel.de/sport/los-angeles-la-dodgers-spenden-eine-million-fuer-einwanderer](https://www.spiegel.de/sport/los-angeles-la-dodgers-spenden-eine-million-fuer-einwanderer-a-8492a273-2d3e-46ed-834d-99fa87fda031#ref=rss)
+### dodgers
+
+* [https://www.spiegel.de/sport/los-angeles-la-dodgers-spenden-eine-million-fuer-einwanderer](https://www.spiegel.de/sport/los-angeles-la-dodgers-spenden-eine-million-fuer-einwanderer-a-8492a273-2d3e-46ed-834d-99fa87fda031#ref=rss)
+### spenden
+
+* [https://www.spiegel.de/sport/los-angeles-la-dodgers-spenden-eine-million-fuer-einwanderer](https://www.spiegel.de/sport/los-angeles-la-dodgers-spenden-eine-million-fuer-einwanderer-a-8492a273-2d3e-46ed-834d-99fa87fda031#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/sport/los-angeles-la-dodgers-spenden-eine-million-fuer-einwanderer](https://www.spiegel.de/sport/los-angeles-la-dodgers-spenden-eine-million-fuer-einwanderer-a-8492a273-2d3e-46ed-834d-99fa87fda031#ref=rss)
+* [https://www.spiegel.de/panorama/superjacht-bayesian-vom-meeresgrund-gehoben](https://www.spiegel.de/panorama/superjacht-bayesian-vom-meeresgrund-gehoben-a-7c18002e-ec74-44a0-8c79-bd3d153c4c95#ref=rss)
+### geld
+
+* [https://www.spiegel.de/sport/los-angeles-la-dodgers-spenden-eine-million-fuer-einwanderer](https://www.spiegel.de/sport/los-angeles-la-dodgers-spenden-eine-million-fuer-einwanderer-a-8492a273-2d3e-46ed-834d-99fa87fda031#ref=rss)
+* [https://www.spiegel.de/wirtschaft/energiewende-siemens-energy-chef-christian-bruch-unabhaengigkeit-kostet-geld](https://www.spiegel.de/wirtschaft/energiewende-siemens-energy-chef-christian-bruch-unabhaengigkeit-kostet-geld-a-6c51f68c-9827-4d17-ae56-90aad13c1da6#ref=rss)
+### 22
+
+* [https://www.spiegel.de/ausland/krieg-gegen-die-ukraine-22-jahre-haft-fuer-russische-aktivistin](https://www.spiegel.de/ausland/krieg-gegen-die-ukraine-22-jahre-haft-fuer-russische-aktivistin-a-05473731-5c61-48f8-87e7-8a03a25105cb#ref=rss)
+* [https://www.spiegel.de/ausland/moncef-marzouki-gericht-in-tunesien-verurteilt-ex-praesident-zu-22-jahren-haft](https://www.spiegel.de/ausland/moncef-marzouki-gericht-in-tunesien-verurteilt-ex-praesident-zu-22-jahren-haft-a-b0ae677e-f965-40b0-a5f6-5c6ab2f1942c#ref=rss)
+### russische
+
+* [https://www.spiegel.de/ausland/krieg-gegen-die-ukraine-22-jahre-haft-fuer-russische-aktivistin](https://www.spiegel.de/ausland/krieg-gegen-die-ukraine-22-jahre-haft-fuer-russische-aktivistin-a-05473731-5c61-48f8-87e7-8a03a25105cb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ukraine-setzt-im-kampf-gegen-russische-angriffe-auf-abfangdrohnen](https://www.spiegel.de/wirtschaft/ukraine-setzt-im-kampf-gegen-russische-angriffe-auf-abfangdrohnen-a-7d9c63a2-f0bc-4fcd-9d96-cf97b989dc72#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/ausland/krieg-gegen-die-ukraine-22-jahre-haft-fuer-russische-aktivistin](https://www.spiegel.de/ausland/krieg-gegen-die-ukraine-22-jahre-haft-fuer-russische-aktivistin-a-05473731-5c61-48f8-87e7-8a03a25105cb#ref=rss)
+* [https://www.spiegel.de/ausland/moncef-marzouki-gericht-in-tunesien-verurteilt-ex-praesident-zu-22-jahren-haft](https://www.spiegel.de/ausland/moncef-marzouki-gericht-in-tunesien-verurteilt-ex-praesident-zu-22-jahren-haft-a-b0ae677e-f965-40b0-a5f6-5c6ab2f1942c#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### pro
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/auto/stadtradeln-in-fahrrad-hochburg-krummendiek-in-schleswig-holstein-ein-dorf-tritt-in-die-pedale](https://www.spiegel.de/auto/stadtradeln-in-fahrrad-hochburg-krummendiek-in-schleswig-holstein-ein-dorf-tritt-in-die-pedale-a-d95dfbc8-98c1-4e4c-b4bb-1052f71d4501#ref=rss)
+### tag
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### sieben
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/panorama/superjacht-bayesian-vom-meeresgrund-gehoben](https://www.spiegel.de/panorama/superjacht-bayesian-vom-meeresgrund-gehoben-a-7c18002e-ec74-44a0-8c79-bd3d153c4c95#ref=rss)
+### wichtigsten
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/sommersonnenwende-2025-alles-wichtige-zum-sommeranfang-am-21-juni](https://www.spiegel.de/wissenschaft/natur/sommersonnenwende-2025-alles-wichtige-zum-sommeranfang-am-21-juni-a-a3ec4aa0-1d76-4ae8-99ba-2f310efe621b#ref=rss)
+### arnold
+
+* [https://www.spiegel.de/panorama/leute/arnold-schwarzenegger-sieht-sich-selbst-dreimal-in-der-hauptrolle-einer-netflix-serie](https://www.spiegel.de/panorama/leute/arnold-schwarzenegger-sieht-sich-selbst-dreimal-in-der-hauptrolle-einer-netflix-serie-a-707bc2c8-2627-4cc8-b5b0-b1dd2a34ec1b#ref=rss)
+### schwarzenegger
+
+* [https://www.spiegel.de/panorama/leute/arnold-schwarzenegger-sieht-sich-selbst-dreimal-in-der-hauptrolle-einer-netflix-serie](https://www.spiegel.de/panorama/leute/arnold-schwarzenegger-sieht-sich-selbst-dreimal-in-der-hauptrolle-einer-netflix-serie-a-707bc2c8-2627-4cc8-b5b0-b1dd2a34ec1b#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/panorama/leute/arnold-schwarzenegger-sieht-sich-selbst-dreimal-in-der-hauptrolle-einer-netflix-serie](https://www.spiegel.de/panorama/leute/arnold-schwarzenegger-sieht-sich-selbst-dreimal-in-der-hauptrolle-einer-netflix-serie-a-707bc2c8-2627-4cc8-b5b0-b1dd2a34ec1b#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-sieht-usa-bei-neuem-nato-ausgabenziel-nicht-in-der-pflicht](https://www.spiegel.de/ausland/donald-trump-sieht-usa-bei-neuem-nato-ausgabenziel-nicht-in-der-pflicht-a-473fbe9b-22fe-4193-9cf2-a0811ec5f016#ref=rss)
+### netflixserie
+
+* [https://www.spiegel.de/panorama/leute/arnold-schwarzenegger-sieht-sich-selbst-dreimal-in-der-hauptrolle-einer-netflix-serie](https://www.spiegel.de/panorama/leute/arnold-schwarzenegger-sieht-sich-selbst-dreimal-in-der-hauptrolle-einer-netflix-serie-a-707bc2c8-2627-4cc8-b5b0-b1dd2a34ec1b#ref=rss)
+### gleich
+
+* [https://www.spiegel.de/panorama/leute/arnold-schwarzenegger-sieht-sich-selbst-dreimal-in-der-hauptrolle-einer-netflix-serie](https://www.spiegel.de/panorama/leute/arnold-schwarzenegger-sieht-sich-selbst-dreimal-in-der-hauptrolle-einer-netflix-serie-a-707bc2c8-2627-4cc8-b5b0-b1dd2a34ec1b#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-prognose-fuer-das-wochenende-deutschland-schwitzt-hitze-bis-37-grad](https://www.spiegel.de/panorama/wetter-prognose-fuer-das-wochenende-deutschland-schwitzt-hitze-bis-37-grad-a-3c6bceaa-10aa-4ee4-b5ec-15d25289bf5d#ref=rss)
+### energiewende
+
+* [https://www.spiegel.de/wirtschaft/energiewende-siemens-energy-chef-christian-bruch-unabhaengigkeit-kostet-geld](https://www.spiegel.de/wirtschaft/energiewende-siemens-energy-chef-christian-bruch-unabhaengigkeit-kostet-geld-a-6c51f68c-9827-4d17-ae56-90aad13c1da6#ref=rss)
+### siemensenergychef
+
+* [https://www.spiegel.de/wirtschaft/energiewende-siemens-energy-chef-christian-bruch-unabhaengigkeit-kostet-geld](https://www.spiegel.de/wirtschaft/energiewende-siemens-energy-chef-christian-bruch-unabhaengigkeit-kostet-geld-a-6c51f68c-9827-4d17-ae56-90aad13c1da6#ref=rss)
+### christian
+
+* [https://www.spiegel.de/wirtschaft/energiewende-siemens-energy-chef-christian-bruch-unabhaengigkeit-kostet-geld](https://www.spiegel.de/wirtschaft/energiewende-siemens-energy-chef-christian-bruch-unabhaengigkeit-kostet-geld-a-6c51f68c-9827-4d17-ae56-90aad13c1da6#ref=rss)
+### bruch
+
+* [https://www.spiegel.de/wirtschaft/energiewende-siemens-energy-chef-christian-bruch-unabhaengigkeit-kostet-geld](https://www.spiegel.de/wirtschaft/energiewende-siemens-energy-chef-christian-bruch-unabhaengigkeit-kostet-geld-a-6c51f68c-9827-4d17-ae56-90aad13c1da6#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/wirtschaft/energiewende-siemens-energy-chef-christian-bruch-unabhaengigkeit-kostet-geld](https://www.spiegel.de/wirtschaft/energiewende-siemens-energy-chef-christian-bruch-unabhaengigkeit-kostet-geld-a-6c51f68c-9827-4d17-ae56-90aad13c1da6#ref=rss)
+* [https://www.spiegel.de/panorama/angela-merkel-ex-kanzlerin-beschreibt-ihren-entspannten-alltag-als-rentnerin](https://www.spiegel.de/panorama/angela-merkel-ex-kanzlerin-beschreibt-ihren-entspannten-alltag-als-rentnerin-a-bc55ffd3-4876-4efe-95f0-48b0b5d95f3f#ref=rss)
+### kalifornien
+
+* [https://www.spiegel.de/panorama/kalifornien-hunde-wetteifern-beim-surfen-in-huntington-beach](https://www.spiegel.de/panorama/kalifornien-hunde-wetteifern-beim-surfen-in-huntington-beach-a-49f3fe30-2c83-410d-a59b-b7cf73942a7f#ref=rss)
+### hunde
+
+* [https://www.spiegel.de/panorama/kalifornien-hunde-wetteifern-beim-surfen-in-huntington-beach](https://www.spiegel.de/panorama/kalifornien-hunde-wetteifern-beim-surfen-in-huntington-beach-a-49f3fe30-2c83-410d-a59b-b7cf73942a7f#ref=rss)
+### surfen
+
+* [https://www.spiegel.de/panorama/kalifornien-hunde-wetteifern-beim-surfen-in-huntington-beach](https://www.spiegel.de/panorama/kalifornien-hunde-wetteifern-beim-surfen-in-huntington-beach-a-49f3fe30-2c83-410d-a59b-b7cf73942a7f#ref=rss)
+### hannover
+
+* [https://www.spiegel.de/panorama/hannover-schiffe-kollidieren-auf-mittellandkanal-sechs-verletzte](https://www.spiegel.de/panorama/hannover-schiffe-kollidieren-auf-mittellandkanal-sechs-verletzte-a-22cef7ad-3890-46d1-aacf-ed27865d9782#ref=rss)
+### sechs
+
+* [https://www.spiegel.de/panorama/hannover-schiffe-kollidieren-auf-mittellandkanal-sechs-verletzte](https://www.spiegel.de/panorama/hannover-schiffe-kollidieren-auf-mittellandkanal-sechs-verletzte-a-22cef7ad-3890-46d1-aacf-ed27865d9782#ref=rss)
+### regierungschef
+
+* [https://www.spiegel.de/ausland/armeniens-regierungschef-paschinjan-zu-besuch-bei-erdogan](https://www.spiegel.de/ausland/armeniens-regierungschef-paschinjan-zu-besuch-bei-erdogan-a-6a4b47a7-5a8b-46ca-9c72-f0434aecb13c#ref=rss)
+### paschinjan
+
+* [https://www.spiegel.de/ausland/armeniens-regierungschef-paschinjan-zu-besuch-bei-erdogan](https://www.spiegel.de/ausland/armeniens-regierungschef-paschinjan-zu-besuch-bei-erdogan-a-6a4b47a7-5a8b-46ca-9c72-f0434aecb13c#ref=rss)
+### erdoğan
+
+* [https://www.spiegel.de/ausland/armeniens-regierungschef-paschinjan-zu-besuch-bei-erdogan](https://www.spiegel.de/ausland/armeniens-regierungschef-paschinjan-zu-besuch-bei-erdogan-a-6a4b47a7-5a8b-46ca-9c72-f0434aecb13c#ref=rss)
+### staatschef
+
+* [https://www.spiegel.de/ausland/armeniens-regierungschef-paschinjan-zu-besuch-bei-erdogan](https://www.spiegel.de/ausland/armeniens-regierungschef-paschinjan-zu-besuch-bei-erdogan-a-6a4b47a7-5a8b-46ca-9c72-f0434aecb13c#ref=rss)
+* [https://www.spiegel.de/ausland/moncef-marzouki-gericht-in-tunesien-verurteilt-ex-praesident-zu-22-jahren-haft](https://www.spiegel.de/ausland/moncef-marzouki-gericht-in-tunesien-verurteilt-ex-praesident-zu-22-jahren-haft-a-b0ae677e-f965-40b0-a5f6-5c6ab2f1942c#ref=rss)
+### unter
+
+* [https://www.spiegel.de/ausland/armeniens-regierungschef-paschinjan-zu-besuch-bei-erdogan](https://www.spiegel.de/ausland/armeniens-regierungschef-paschinjan-zu-besuch-bei-erdogan-a-6a4b47a7-5a8b-46ca-9c72-f0434aecb13c#ref=rss)
+* [https://www.spiegel.de/panorama/angela-merkel-ex-kanzlerin-beschreibt-ihren-entspannten-alltag-als-rentnerin](https://www.spiegel.de/panorama/angela-merkel-ex-kanzlerin-beschreibt-ihren-entspannten-alltag-als-rentnerin-a-bc55ffd3-4876-4efe-95f0-48b0b5d95f3f#ref=rss)
+### botschaftspersonal
+
+* [https://www.spiegel.de/ausland/iran-deutschland-bringt-botschaftspersonal-in-sicherheit](https://www.spiegel.de/ausland/iran-deutschland-bringt-botschaftspersonal-in-sicherheit-a-33289b44-916a-4509-b049-f190c54d9044#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-krieg-israel-meldet-toetung-von-kommandeur-der-quds-brigade](https://www.spiegel.de/ausland/israel-iran-krieg-israel-meldet-toetung-von-kommandeur-der-quds-brigade-a-40fa6654-182a-4ed2-bf13-9b4623239704#ref=rss)
+### bayesian
+
+* [https://www.spiegel.de/panorama/superjacht-bayesian-vom-meeresgrund-gehoben](https://www.spiegel.de/panorama/superjacht-bayesian-vom-meeresgrund-gehoben-a-7c18002e-ec74-44a0-8c79-bd3d153c4c95#ref=rss)
+### monate
+
+* [https://www.spiegel.de/panorama/superjacht-bayesian-vom-meeresgrund-gehoben](https://www.spiegel.de/panorama/superjacht-bayesian-vom-meeresgrund-gehoben-a-7c18002e-ec74-44a0-8c79-bd3d153c4c95#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/berlin-fall-oziel-inacio-stech-wird-zum-politikum](https://www.spiegel.de/panorama/bildung/berlin-fall-oziel-inacio-stech-wird-zum-politikum-a-08365b68-afd9-4ce4-a52f-4e35ff37ee47#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/panorama/superjacht-bayesian-vom-meeresgrund-gehoben](https://www.spiegel.de/panorama/superjacht-bayesian-vom-meeresgrund-gehoben-a-7c18002e-ec74-44a0-8c79-bd3d153c4c95#ref=rss)
+* [https://www.spiegel.de/ausland/news-iran-israel-donald-trump-johann-wadephul-wladimir-putin-unicef-gaza](https://www.spiegel.de/ausland/news-iran-israel-donald-trump-johann-wadephul-wladimir-putin-unicef-gaza-a-16b2204c-7525-41d3-be3e-a2a19991106a#ref=rss)
+### kam
+
+* [https://www.spiegel.de/panorama/superjacht-bayesian-vom-meeresgrund-gehoben](https://www.spiegel.de/panorama/superjacht-bayesian-vom-meeresgrund-gehoben-a-7c18002e-ec74-44a0-8c79-bd3d153c4c95#ref=rss)
+* [https://www.spiegel.de/auto/stadtradeln-in-fahrrad-hochburg-krummendiek-in-schleswig-holstein-ein-dorf-tritt-in-die-pedale](https://www.spiegel.de/auto/stadtradeln-in-fahrrad-hochburg-krummendiek-in-schleswig-holstein-ein-dorf-tritt-in-die-pedale-a-d95dfbc8-98c1-4e4c-b4bb-1052f71d4501#ref=rss)
+### sommersonnenwende
+
+* [https://www.spiegel.de/wissenschaft/natur/sommersonnenwende-2025-alles-wichtige-zum-sommeranfang-am-21-juni](https://www.spiegel.de/wissenschaft/natur/sommersonnenwende-2025-alles-wichtige-zum-sommeranfang-am-21-juni-a-a3ec4aa0-1d76-4ae8-99ba-2f310efe621b#ref=rss)
+### sommeranfang
+
+* [https://www.spiegel.de/wissenschaft/natur/sommersonnenwende-2025-alles-wichtige-zum-sommeranfang-am-21-juni](https://www.spiegel.de/wissenschaft/natur/sommersonnenwende-2025-alles-wichtige-zum-sommeranfang-am-21-juni-a-a3ec4aa0-1d76-4ae8-99ba-2f310efe621b#ref=rss)
+### länger
+
+* [https://www.spiegel.de/wissenschaft/natur/sommersonnenwende-2025-alles-wichtige-zum-sommeranfang-am-21-juni](https://www.spiegel.de/wissenschaft/natur/sommersonnenwende-2025-alles-wichtige-zum-sommeranfang-am-21-juni-a-a3ec4aa0-1d76-4ae8-99ba-2f310efe621b#ref=rss)
+* [https://www.spiegel.de/ausland/vater-tochter-beziehungen-bei-pavianen-und-morgenmuffeltipps-gute-nachrichten-der-woche](https://www.spiegel.de/ausland/vater-tochter-beziehungen-bei-pavianen-und-morgenmuffeltipps-gute-nachrichten-der-woche-a-8f324b7e-e29f-4a78-8dfc-02f142818a2f#ref=rss)
+### angela
+
+* [https://www.spiegel.de/panorama/angela-merkel-ex-kanzlerin-beschreibt-ihren-entspannten-alltag-als-rentnerin](https://www.spiegel.de/panorama/angela-merkel-ex-kanzlerin-beschreibt-ihren-entspannten-alltag-als-rentnerin-a-bc55ffd3-4876-4efe-95f0-48b0b5d95f3f#ref=rss)
+### merkel
+
+* [https://www.spiegel.de/panorama/angela-merkel-ex-kanzlerin-beschreibt-ihren-entspannten-alltag-als-rentnerin](https://www.spiegel.de/panorama/angela-merkel-ex-kanzlerin-beschreibt-ihren-entspannten-alltag-als-rentnerin-a-bc55ffd3-4876-4efe-95f0-48b0b5d95f3f#ref=rss)
+### leben
+
+* [https://www.spiegel.de/panorama/angela-merkel-ex-kanzlerin-beschreibt-ihren-entspannten-alltag-als-rentnerin](https://www.spiegel.de/panorama/angela-merkel-ex-kanzlerin-beschreibt-ihren-entspannten-alltag-als-rentnerin-a-bc55ffd3-4876-4efe-95f0-48b0b5d95f3f#ref=rss)
+* [https://www.spiegel.de/ausland/vater-tochter-beziehungen-bei-pavianen-und-morgenmuffeltipps-gute-nachrichten-der-woche](https://www.spiegel.de/ausland/vater-tochter-beziehungen-bei-pavianen-und-morgenmuffeltipps-gute-nachrichten-der-woche-a-8f324b7e-e29f-4a78-8dfc-02f142818a2f#ref=rss)
+### tage
+
+* [https://www.spiegel.de/panorama/angela-merkel-ex-kanzlerin-beschreibt-ihren-entspannten-alltag-als-rentnerin](https://www.spiegel.de/panorama/angela-merkel-ex-kanzlerin-beschreibt-ihren-entspannten-alltag-als-rentnerin-a-bc55ffd3-4876-4efe-95f0-48b0b5d95f3f#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-prognose-fuer-das-wochenende-deutschland-schwitzt-hitze-bis-37-grad](https://www.spiegel.de/panorama/wetter-prognose-fuer-das-wochenende-deutschland-schwitzt-hitze-bis-37-grad-a-3c6bceaa-10aa-4ee4-b5ec-15d25289bf5d#ref=rss)
+### segelflugzeug
+
+* [https://www.spiegel.de/panorama/segelflugzeug-17-jaehriger-deutscher-verunglueckt-in-tirol-toedlich](https://www.spiegel.de/panorama/segelflugzeug-17-jaehriger-deutscher-verunglueckt-in-tirol-toedlich-a-61079185-6806-4459-9c8c-89e0b1e9f847#ref=rss)
+### wombach
+
+* [https://www.spiegel.de/panorama/gesellschaft/rekordversuch-schafft-es-dieser-kloss-ins-guinessbuch](https://www.spiegel.de/panorama/gesellschaft/rekordversuch-schafft-es-dieser-kloss-ins-guinessbuch-a-029ebfbc-c558-4f09-825e-56ff9dea8fe7#ref=rss)
+### dorf
+
+* [https://www.spiegel.de/panorama/gesellschaft/rekordversuch-schafft-es-dieser-kloss-ins-guinessbuch](https://www.spiegel.de/panorama/gesellschaft/rekordversuch-schafft-es-dieser-kloss-ins-guinessbuch-a-029ebfbc-c558-4f09-825e-56ff9dea8fe7#ref=rss)
+* [https://www.spiegel.de/auto/stadtradeln-in-fahrrad-hochburg-krummendiek-in-schleswig-holstein-ein-dorf-tritt-in-die-pedale](https://www.spiegel.de/auto/stadtradeln-in-fahrrad-hochburg-krummendiek-in-schleswig-holstein-ein-dorf-tritt-in-die-pedale-a-d95dfbc8-98c1-4e4c-b4bb-1052f71d4501#ref=rss)
+### bundeswehr
+
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-wie-die-zeitenwende-jetzt-auch-in-meiner-familie-ankam-kolumne](https://www.spiegel.de/politik/deutschland/bundeswehr-wie-die-zeitenwende-jetzt-auch-in-meiner-familie-ankam-kolumne-a-630a6d78-ab3a-4b8f-91d8-828516b55d10#ref=rss)
+### zeitenwende
+
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-wie-die-zeitenwende-jetzt-auch-in-meiner-familie-ankam-kolumne](https://www.spiegel.de/politik/deutschland/bundeswehr-wie-die-zeitenwende-jetzt-auch-in-meiner-familie-ankam-kolumne-a-630a6d78-ab3a-4b8f-91d8-828516b55d10#ref=rss)
+### meiner
+
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-wie-die-zeitenwende-jetzt-auch-in-meiner-familie-ankam-kolumne](https://www.spiegel.de/politik/deutschland/bundeswehr-wie-die-zeitenwende-jetzt-auch-in-meiner-familie-ankam-kolumne-a-630a6d78-ab3a-4b8f-91d8-828516b55d10#ref=rss)
+### familie
+
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-wie-die-zeitenwende-jetzt-auch-in-meiner-familie-ankam-kolumne](https://www.spiegel.de/politik/deutschland/bundeswehr-wie-die-zeitenwende-jetzt-auch-in-meiner-familie-ankam-kolumne-a-630a6d78-ab3a-4b8f-91d8-828516b55d10#ref=rss)
+### heiß
+
+* [https://www.spiegel.de/panorama/wetter-prognose-fuer-das-wochenende-deutschland-schwitzt-hitze-bis-37-grad](https://www.spiegel.de/panorama/wetter-prognose-fuer-das-wochenende-deutschland-schwitzt-hitze-bis-37-grad-a-3c6bceaa-10aa-4ee4-b5ec-15d25289bf5d#ref=rss)
+### guten
+
+* [https://www.spiegel.de/panorama/wetter-prognose-fuer-das-wochenende-deutschland-schwitzt-hitze-bis-37-grad](https://www.spiegel.de/panorama/wetter-prognose-fuer-das-wochenende-deutschland-schwitzt-hitze-bis-37-grad-a-3c6bceaa-10aa-4ee4-b5ec-15d25289bf5d#ref=rss)
+* [https://www.spiegel.de/ausland/vater-tochter-beziehungen-bei-pavianen-und-morgenmuffeltipps-gute-nachrichten-der-woche](https://www.spiegel.de/ausland/vater-tochter-beziehungen-bei-pavianen-und-morgenmuffeltipps-gute-nachrichten-der-woche-a-8f324b7e-e29f-4a78-8dfc-02f142818a2f#ref=rss)
+### land
+
+* [https://www.spiegel.de/wirtschaft/ukraine-setzt-im-kampf-gegen-russische-angriffe-auf-abfangdrohnen](https://www.spiegel.de/wirtschaft/ukraine-setzt-im-kampf-gegen-russische-angriffe-auf-abfangdrohnen-a-7d9c63a2-f0bc-4fcd-9d96-cf97b989dc72#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-sieht-usa-bei-neuem-nato-ausgabenziel-nicht-in-der-pflicht](https://www.spiegel.de/ausland/donald-trump-sieht-usa-bei-neuem-nato-ausgabenziel-nicht-in-der-pflicht-a-473fbe9b-22fe-4193-9cf2-a0811ec5f016#ref=rss)
+### gute
+
+* [https://www.spiegel.de/ausland/vater-tochter-beziehungen-bei-pavianen-und-morgenmuffeltipps-gute-nachrichten-der-woche](https://www.spiegel.de/ausland/vater-tochter-beziehungen-bei-pavianen-und-morgenmuffeltipps-gute-nachrichten-der-woche-a-8f324b7e-e29f-4a78-8dfc-02f142818a2f#ref=rss)
+### nachrichten
+
+* [https://www.spiegel.de/ausland/vater-tochter-beziehungen-bei-pavianen-und-morgenmuffeltipps-gute-nachrichten-der-woche](https://www.spiegel.de/ausland/vater-tochter-beziehungen-bei-pavianen-und-morgenmuffeltipps-gute-nachrichten-der-woche-a-8f324b7e-e29f-4a78-8dfc-02f142818a2f#ref=rss)
+### woche
+
+* [https://www.spiegel.de/ausland/vater-tochter-beziehungen-bei-pavianen-und-morgenmuffeltipps-gute-nachrichten-der-woche](https://www.spiegel.de/ausland/vater-tochter-beziehungen-bei-pavianen-und-morgenmuffeltipps-gute-nachrichten-der-woche-a-8f324b7e-e29f-4a78-8dfc-02f142818a2f#ref=rss)
+### pedro
+
+* [https://www.spiegel.de/ausland/spanien-korruptionsskandal-bei-den-sozialisten-pedro-sanchez-wankt](https://www.spiegel.de/ausland/spanien-korruptionsskandal-bei-den-sozialisten-pedro-sanchez-wankt-a-f54de99a-8526-4f13-bf20-17dc4b22ea4f#ref=rss)
+### sánchez
+
+* [https://www.spiegel.de/ausland/spanien-korruptionsskandal-bei-den-sozialisten-pedro-sanchez-wankt](https://www.spiegel.de/ausland/spanien-korruptionsskandal-bei-den-sozialisten-pedro-sanchez-wankt-a-f54de99a-8526-4f13-bf20-17dc4b22ea4f#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/panorama/bildung/berlin-fall-oziel-inacio-stech-wird-zum-politikum](https://www.spiegel.de/panorama/bildung/berlin-fall-oziel-inacio-stech-wird-zum-politikum-a-08365b68-afd9-4ce4-a52f-4e35ff37ee47#ref=rss)
+* [https://www.spiegel.de/auto/stadtradeln-in-fahrrad-hochburg-krummendiek-in-schleswig-holstein-ein-dorf-tritt-in-die-pedale](https://www.spiegel.de/auto/stadtradeln-in-fahrrad-hochburg-krummendiek-in-schleswig-holstein-ein-dorf-tritt-in-die-pedale-a-d95dfbc8-98c1-4e4c-b4bb-1052f71d4501#ref=rss)
+### fall
+
+* [https://www.spiegel.de/panorama/bildung/berlin-fall-oziel-inacio-stech-wird-zum-politikum](https://www.spiegel.de/panorama/bildung/berlin-fall-oziel-inacio-stech-wird-zum-politikum-a-08365b68-afd9-4ce4-a52f-4e35ff37ee47#ref=rss)
+### israelirankrieg
+
+* [https://www.spiegel.de/ausland/israel-iran-krieg-israel-meldet-toetung-von-kommandeur-der-quds-brigade](https://www.spiegel.de/ausland/israel-iran-krieg-israel-meldet-toetung-von-kommandeur-der-quds-brigade-a-40fa6654-182a-4ed2-bf13-9b4623239704#ref=rss)
+* [https://www.spiegel.de/ausland/news-iran-israel-donald-trump-johann-wadephul-wladimir-putin-unicef-gaza](https://www.spiegel.de/ausland/news-iran-israel-donald-trump-johann-wadephul-wladimir-putin-unicef-gaza-a-16b2204c-7525-41d3-be3e-a2a19991106a#ref=rss)
+### kommandeur
+
+* [https://www.spiegel.de/ausland/israel-iran-krieg-israel-meldet-toetung-von-kommandeur-der-quds-brigade](https://www.spiegel.de/ausland/israel-iran-krieg-israel-meldet-toetung-von-kommandeur-der-quds-brigade-a-40fa6654-182a-4ed2-bf13-9b4623239704#ref=rss)
+### qudsbrigade
+
+* [https://www.spiegel.de/ausland/israel-iran-krieg-israel-meldet-toetung-von-kommandeur-der-quds-brigade](https://www.spiegel.de/ausland/israel-iran-krieg-israel-meldet-toetung-von-kommandeur-der-quds-brigade-a-40fa6654-182a-4ed2-bf13-9b4623239704#ref=rss)
+### jerome
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-schwadroniert-erneut-ueber-rauswurf-von-notenbankchef-jerome-powell](https://www.spiegel.de/wirtschaft/donald-trump-schwadroniert-erneut-ueber-rauswurf-von-notenbankchef-jerome-powell-a-28dcab50-6dce-4710-99dd-c3e2a2dd9de2#ref=rss)
+### powell
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-schwadroniert-erneut-ueber-rauswurf-von-notenbankchef-jerome-powell](https://www.spiegel.de/wirtschaft/donald-trump-schwadroniert-erneut-ueber-rauswurf-von-notenbankchef-jerome-powell-a-28dcab50-6dce-4710-99dd-c3e2a2dd9de2#ref=rss)
+### schleswigholstein
+
+* [https://www.spiegel.de/auto/stadtradeln-in-fahrrad-hochburg-krummendiek-in-schleswig-holstein-ein-dorf-tritt-in-die-pedale](https://www.spiegel.de/auto/stadtradeln-in-fahrrad-hochburg-krummendiek-in-schleswig-holstein-ein-dorf-tritt-in-die-pedale-a-d95dfbc8-98c1-4e4c-b4bb-1052f71d4501#ref=rss)
+### moncef
+
+* [https://www.spiegel.de/ausland/moncef-marzouki-gericht-in-tunesien-verurteilt-ex-praesident-zu-22-jahren-haft](https://www.spiegel.de/ausland/moncef-marzouki-gericht-in-tunesien-verurteilt-ex-praesident-zu-22-jahren-haft-a-b0ae677e-f965-40b0-a5f6-5c6ab2f1942c#ref=rss)
+### marzouki
+
+* [https://www.spiegel.de/ausland/moncef-marzouki-gericht-in-tunesien-verurteilt-ex-praesident-zu-22-jahren-haft](https://www.spiegel.de/ausland/moncef-marzouki-gericht-in-tunesien-verurteilt-ex-praesident-zu-22-jahren-haft-a-b0ae677e-f965-40b0-a5f6-5c6ab2f1942c#ref=rss)
+### panama
+
+* [https://www.spiegel.de/ausland/panama-verhaengt-ausnahmezustand-in-unruheprovinz](https://www.spiegel.de/ausland/panama-verhaengt-ausnahmezustand-in-unruheprovinz-a-b3fc7026-5153-47f3-8c8a-3bce6e5959fa#ref=rss)
+### konnte
+
+* [https://www.spiegel.de/panorama/saarbruecken-straefling-fluechtet-aus-gerichtssaal](https://www.spiegel.de/panorama/saarbruecken-straefling-fluechtet-aus-gerichtssaal-a-94f13d04-a7b1-4564-8a95-3f8a2968e53c#ref=rss)
 
