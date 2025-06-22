@@ -4,320 +4,377 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### mehr
-
-* [https://www.spiegel.de/wissenschaft/automatenrestaurants-warum-gibt-es-solche-lokale-nicht-mehr](https://www.spiegel.de/wissenschaft/automatenrestaurants-warum-gibt-es-solche-lokale-nicht-mehr-a-f813de29-7abc-4b4f-bfc3-1764ba0e1383#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/das-deutsche-rote-kreuz-zeichnet-blutspender-in-wiesbaden-aus](https://www.spiegel.de/panorama/gesellschaft/das-deutsche-rote-kreuz-zeichnet-blutspender-in-wiesbaden-aus-a-e7973a30-eafb-4e50-a4d5-a881055b3954#ref=rss)
-* [https://www.spiegel.de/kultur/us-auslandssender-voice-of-america-vor-dem-aus-ueber-600-weitere-kuendigungen](https://www.spiegel.de/kultur/us-auslandssender-voice-of-america-vor-dem-aus-ueber-600-weitere-kuendigungen-a-d571db40-e813-4af7-8a2e-adb2673a0581#ref=rss)
-* [https://www.spiegel.de/ausland/migration-fluechtling-aus-china-durchquert-darien-dschungel-auf-dem-weg-in-die-usa](https://www.spiegel.de/ausland/migration-fluechtling-aus-china-durchquert-darien-dschungel-auf-dem-weg-in-die-usa-a-f9b6b9bd-d6eb-450c-b79c-8fd7f911dbd6#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/usa-unter-donald-trump-harvard-hat-sich-zur-speerspitze-des-widerstands-gegen-trump-gemacht-das-war-ungeschickt](https://www.spiegel.de/ausland/usa-unter-donald-trump-harvard-hat-sich-zur-speerspitze-des-widerstands-gegen-trump-gemacht-das-war-ungeschickt-a-408118aa-317c-41b5-bcf4-1b2f9c109caf#ref=rss)
-* [https://www.spiegel.de/ausland/israel-iran-konflikt-spiegel-reporterin-beantwortet-fragen-aus-tel-aviv](https://www.spiegel.de/ausland/israel-iran-konflikt-spiegel-reporterin-beantwortet-fragen-aus-tel-aviv-a-09293455-767f-449c-b9d7-5563ae0f0cf6#ref=rss)
-### leben
-
-* [https://www.spiegel.de/panorama/brasilien-acht-tote-bei-absturz-eines-brennenden-heissluftballons](https://www.spiegel.de/panorama/brasilien-acht-tote-bei-absturz-eines-brennenden-heissluftballons-a-7f21446d-087d-449b-b193-a17799dd7f67#ref=rss)
-* [https://www.spiegel.de/ausland/hochschul-exil-in-montenegro-junge-russinnen-und-russen-vor-der-indoktrination-bewahren](https://www.spiegel.de/ausland/hochschul-exil-in-montenegro-junge-russinnen-und-russen-vor-der-indoktrination-bewahren-a-40004efb-a532-4b6f-aadd-047c52afe8dc#ref=rss)
-* [https://www.spiegel.de/kultur/musik/bhz-und-die-trauer-wie-veraendert-es-das-leben-wenn-der-beste-freund-ploetzlich-fehlt](https://www.spiegel.de/kultur/musik/bhz-und-die-trauer-wie-veraendert-es-das-leben-wenn-der-beste-freund-ploetzlich-fehlt-a-d8dc4c83-d150-402d-aa1a-9a109453d498#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/usa-unter-donald-trump-harvard-hat-sich-zur-speerspitze-des-widerstands-gegen-trump-gemacht-das-war-ungeschickt](https://www.spiegel.de/ausland/usa-unter-donald-trump-harvard-hat-sich-zur-speerspitze-des-widerstands-gegen-trump-gemacht-das-war-ungeschickt-a-408118aa-317c-41b5-bcf4-1b2f9c109caf#ref=rss)
-* [https://www.spiegel.de/ausland/israel-iran-krieg-israel-meldet-toetung-von-kommandeur-der-quds-brigade](https://www.spiegel.de/ausland/israel-iran-krieg-israel-meldet-toetung-von-kommandeur-der-quds-brigade-a-40fa6654-182a-4ed2-bf13-9b4623239704#ref=rss)
-* [https://www.spiegel.de/ausland/migration-fluechtling-aus-china-durchquert-darien-dschungel-auf-dem-weg-in-die-usa](https://www.spiegel.de/ausland/migration-fluechtling-aus-china-durchquert-darien-dschungel-auf-dem-weg-in-die-usa-a-f9b6b9bd-d6eb-450c-b79c-8fd7f911dbd6#ref=rss)
-### berliner
-
-* [https://www.spiegel.de/kultur/zikaden-so-schoen-und-traurig-ist-es-im-sommer-auf-dem-land](https://www.spiegel.de/kultur/zikaden-so-schoen-und-traurig-ist-es-im-sommer-auf-dem-land-a-79f4aee6-89ca-4eff-bc2f-b1ecb685d4a2#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/berliner-bildungssenatorin-widerspricht-sich-selbst](https://www.spiegel.de/panorama/gesellschaft/berliner-bildungssenatorin-widerspricht-sich-selbst-a-ed3c9369-9750-46cd-b024-87abf5c4f660#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-bruderkuss-bild-beschmiert-polizei-nimmt-aktivisten-der-neuen-generation-fest](https://www.spiegel.de/panorama/justiz/berlin-bruderkuss-bild-beschmiert-polizei-nimmt-aktivisten-der-neuen-generation-fest-a-55c59b01-d2b2-4f27-9e36-724492cf9b90#ref=rss)
-### till
-
-* [https://www.spiegel.de/kultur/tv/tv-kritik-till-tonight-mit-till-reiners-in-jan-boehmermanns-sommerpause](https://www.spiegel.de/kultur/tv/tv-kritik-till-tonight-mit-till-reiners-in-jan-boehmermanns-sommerpause-a-927803bf-3477-4f9e-8f5c-e25aad433034#ref=rss)
-### plötzlich
-
-* [https://www.spiegel.de/panorama/florenz-besucher-zerstoert-gemaelde-in-den-uffizien-fuer-ein-foto](https://www.spiegel.de/panorama/florenz-besucher-zerstoert-gemaelde-in-den-uffizien-fuer-ein-foto-a-d9d42599-7c9b-46d3-a2b0-f7eafc3af885#ref=rss)
-* [https://www.spiegel.de/kultur/musik/bhz-und-die-trauer-wie-veraendert-es-das-leben-wenn-der-beste-freund-ploetzlich-fehlt](https://www.spiegel.de/kultur/musik/bhz-und-die-trauer-wie-veraendert-es-das-leben-wenn-der-beste-freund-ploetzlich-fehlt-a-d8dc4c83-d150-402d-aa1a-9a109453d498#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/ausland/migration-warum-deutschland-so-wenige-fluechtlinge-an-der-grenze-nach-oesterreich-zurueckweist](https://www.spiegel.de/ausland/migration-warum-deutschland-so-wenige-fluechtlinge-an-der-grenze-nach-oesterreich-zurueckweist-a-47afdaa2-a00d-4b2b-b8b9-6bf517553153#ref=rss)
-* [https://www.spiegel.de/ausland/israel-iran-krieg-israel-meldet-toetung-von-kommandeur-der-quds-brigade](https://www.spiegel.de/ausland/israel-iran-krieg-israel-meldet-toetung-von-kommandeur-der-quds-brigade-a-40fa6654-182a-4ed2-bf13-9b4623239704#ref=rss)
-* [https://www.spiegel.de/politik/brandenburg-dietmar-woidke-als-spd-chef-bestaetigt](https://www.spiegel.de/politik/brandenburg-dietmar-woidke-als-spd-chef-bestaetigt-a-effe2e18-0243-4fe6-88df-eff45a0cf9e1#ref=rss)
 ### iran
 
-* [https://www.spiegel.de/ausland/iran-meldet-festnahme-eines-deutschen-touristen](https://www.spiegel.de/ausland/iran-meldet-festnahme-eines-deutschen-touristen-a-c149bc4a-4bc7-4cfd-8544-48f0fd137724#ref=rss)
-* [https://www.spiegel.de/ausland/israel-iran-konflikt-spiegel-reporterin-beantwortet-fragen-aus-tel-aviv](https://www.spiegel.de/ausland/israel-iran-konflikt-spiegel-reporterin-beantwortet-fragen-aus-tel-aviv-a-09293455-767f-449c-b9d7-5563ae0f0cf6#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-der-krieg-gegen-iran-was-der-us-angriff-fuer-den-nahen-osten-bedeutet](https://www.spiegel.de/ausland/donald-trump-und-der-krieg-gegen-iran-was-der-us-angriff-fuer-den-nahen-osten-bedeutet-a-cf8bad73-44e0-4009-b7f7-48cfedf08bff#ref=rss)
+* [https://www.spiegel.de/ausland/iran-us-kampfflieger-warfen-offenbar-mehrere-bunkerbrechende-bomben-ab](https://www.spiegel.de/ausland/iran-us-kampfflieger-warfen-offenbar-mehrere-bunkerbrechende-bomben-ab-a-3e60d164-fb46-4cdf-89fd-9b07c8b84923#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-sprache-in-der-politik-us-angriff-auf-iran-krankenkassen-wetter](https://www.spiegel.de/politik/deutschland/news-sprache-in-der-politik-us-angriff-auf-iran-krankenkassen-wetter-a-3ec0f154-dc18-4301-9afb-11ddd6d80521#ref=rss)
+* [https://www.spiegel.de/ausland/iran-internationale-reaktionen-auf-us-luftschlaege-im-iran](https://www.spiegel.de/ausland/iran-internationale-reaktionen-auf-us-luftschlaege-im-iran-a-f39ba2ac-28f0-4837-a65b-21887daf4365#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-nahost-iran-droht-mit-konsequenzen-und-startet-raketenangriff-auf-israel](https://www.spiegel.de/ausland/krieg-in-nahost-iran-droht-mit-konsequenzen-und-startet-raketenangriff-auf-israel-a-621e43a1-28f6-42d8-9194-67e6037e3c93#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-ueber-luftangriffe-irans-wichtigste-nuklearanreicherungsanlagen-komplett-ausgeloescht](https://www.spiegel.de/ausland/donald-trump-ueber-luftangriffe-irans-wichtigste-nuklearanreicherungsanlagen-komplett-ausgeloescht-a-a3130d46-d306-4616-8d50-c01ab15c3abe#ref=rss)
+* [https://www.spiegel.de/ausland/us-angriff-auf-iran-donald-trump-haelt-rede-an-die-nation](https://www.spiegel.de/ausland/us-angriff-auf-iran-donald-trump-haelt-rede-an-die-nation-a-72b5c52b-5fcc-4ea7-9832-25587d530ed7#ref=rss)
+* [https://www.spiegel.de/ausland/us-luftschlaege-gegen-iran-donald-trumps-kalkuliertes-risiko](https://www.spiegel.de/ausland/us-luftschlaege-gegen-iran-donald-trumps-kalkuliertes-risiko-a-9459ee44-2959-4b59-a8e0-966243b87f67#ref=rss)
+* [https://www.spiegel.de/ausland/reaktionen-auf-us-angriff-gegen-iran-republikaner-bejubeln-trump-demokratin-fordert-amtsenthebungsverfahren](https://www.spiegel.de/ausland/reaktionen-auf-us-angriff-gegen-iran-republikaner-bejubeln-trump-demokratin-fordert-amtsenthebungsverfahren-a-3d85ccb7-24aa-41a5-994c-ee5b83214940#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-krieg-usa-greifen-drei-ziele-in-iran-an-alles-wichtige-im-ueberblick](https://www.spiegel.de/ausland/israel-iran-krieg-usa-greifen-drei-ziele-in-iran-an-alles-wichtige-im-ueberblick-a-5efd7c64-45ee-46b4-81b5-fd91e6af5708#ref=rss)
+### usa
+
+* [https://www.spiegel.de/ausland/iran-us-kampfflieger-warfen-offenbar-mehrere-bunkerbrechende-bomben-ab](https://www.spiegel.de/ausland/iran-us-kampfflieger-warfen-offenbar-mehrere-bunkerbrechende-bomben-ab-a-3e60d164-fb46-4cdf-89fd-9b07c8b84923#ref=rss)
+* [https://www.spiegel.de/ausland/usa-texas-fuehrt-pflicht-zum-aushang-der-zehn-gebote-in-schulen-ein](https://www.spiegel.de/ausland/usa-texas-fuehrt-pflicht-zum-aushang-der-zehn-gebote-in-schulen-ein-a-c4d1d7ac-2283-4908-a13d-1a3fa27595af#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-nahost-iran-droht-mit-konsequenzen-und-startet-raketenangriff-auf-israel](https://www.spiegel.de/ausland/krieg-in-nahost-iran-droht-mit-konsequenzen-und-startet-raketenangriff-auf-israel-a-621e43a1-28f6-42d8-9194-67e6037e3c93#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-ueber-luftangriffe-irans-wichtigste-nuklearanreicherungsanlagen-komplett-ausgeloescht](https://www.spiegel.de/ausland/donald-trump-ueber-luftangriffe-irans-wichtigste-nuklearanreicherungsanlagen-komplett-ausgeloescht-a-a3130d46-d306-4616-8d50-c01ab15c3abe#ref=rss)
+* [https://www.spiegel.de/ausland/us-angriff-auf-iran-donald-trump-haelt-rede-an-die-nation](https://www.spiegel.de/ausland/us-angriff-auf-iran-donald-trump-haelt-rede-an-die-nation-a-72b5c52b-5fcc-4ea7-9832-25587d530ed7#ref=rss)
+* [https://www.spiegel.de/ausland/us-luftschlaege-gegen-iran-donald-trumps-kalkuliertes-risiko](https://www.spiegel.de/ausland/us-luftschlaege-gegen-iran-donald-trumps-kalkuliertes-risiko-a-9459ee44-2959-4b59-a8e0-966243b87f67#ref=rss)
+* [https://www.spiegel.de/ausland/reaktionen-auf-us-angriff-gegen-iran-republikaner-bejubeln-trump-demokratin-fordert-amtsenthebungsverfahren](https://www.spiegel.de/ausland/reaktionen-auf-us-angriff-gegen-iran-republikaner-bejubeln-trump-demokratin-fordert-amtsenthebungsverfahren-a-3d85ccb7-24aa-41a5-994c-ee5b83214940#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-krieg-usa-greifen-drei-ziele-in-iran-an-alles-wichtige-im-ueberblick](https://www.spiegel.de/ausland/israel-iran-krieg-usa-greifen-drei-ziele-in-iran-an-alles-wichtige-im-ueberblick-a-5efd7c64-45ee-46b4-81b5-fd91e6af5708#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/donald-trump-und-der-krieg-gegen-iran-was-der-us-angriff-fuer-den-nahen-osten-bedeutet](https://www.spiegel.de/ausland/donald-trump-und-der-krieg-gegen-iran-was-der-us-angriff-fuer-den-nahen-osten-bedeutet-a-cf8bad73-44e0-4009-b7f7-48cfedf08bff#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-ueber-luftangriffe-irans-wichtigste-nuklearanreicherungsanlagen-komplett-ausgeloescht](https://www.spiegel.de/ausland/donald-trump-ueber-luftangriffe-irans-wichtigste-nuklearanreicherungsanlagen-komplett-ausgeloescht-a-a3130d46-d306-4616-8d50-c01ab15c3abe#ref=rss)
+* [https://www.spiegel.de/ausland/us-angriff-auf-iran-donald-trump-haelt-rede-an-die-nation](https://www.spiegel.de/ausland/us-angriff-auf-iran-donald-trump-haelt-rede-an-die-nation-a-72b5c52b-5fcc-4ea7-9832-25587d530ed7#ref=rss)
+* [https://www.spiegel.de/ausland/us-luftschlaege-gegen-iran-donald-trumps-kalkuliertes-risiko](https://www.spiegel.de/ausland/us-luftschlaege-gegen-iran-donald-trumps-kalkuliertes-risiko-a-9459ee44-2959-4b59-a8e0-966243b87f67#ref=rss)
+* [https://www.spiegel.de/ausland/reaktionen-auf-us-angriff-gegen-iran-republikaner-bejubeln-trump-demokratin-fordert-amtsenthebungsverfahren](https://www.spiegel.de/ausland/reaktionen-auf-us-angriff-gegen-iran-republikaner-bejubeln-trump-demokratin-fordert-amtsenthebungsverfahren-a-3d85ccb7-24aa-41a5-994c-ee5b83214940#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/donald-trump-und-der-krieg-gegen-iran-was-der-us-angriff-fuer-den-nahen-osten-bedeutet](https://www.spiegel.de/ausland/donald-trump-und-der-krieg-gegen-iran-was-der-us-angriff-fuer-den-nahen-osten-bedeutet-a-cf8bad73-44e0-4009-b7f7-48cfedf08bff#ref=rss)
+* [https://www.spiegel.de/ausland/iran-us-kampfflieger-warfen-offenbar-mehrere-bunkerbrechende-bomben-ab](https://www.spiegel.de/ausland/iran-us-kampfflieger-warfen-offenbar-mehrere-bunkerbrechende-bomben-ab-a-3e60d164-fb46-4cdf-89fd-9b07c8b84923#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-ueber-luftangriffe-irans-wichtigste-nuklearanreicherungsanlagen-komplett-ausgeloescht](https://www.spiegel.de/ausland/donald-trump-ueber-luftangriffe-irans-wichtigste-nuklearanreicherungsanlagen-komplett-ausgeloescht-a-a3130d46-d306-4616-8d50-c01ab15c3abe#ref=rss)
+* [https://www.spiegel.de/ausland/us-angriff-auf-iran-donald-trump-haelt-rede-an-die-nation](https://www.spiegel.de/ausland/us-angriff-auf-iran-donald-trump-haelt-rede-an-die-nation-a-72b5c52b-5fcc-4ea7-9832-25587d530ed7#ref=rss)
+* [https://www.spiegel.de/ausland/us-luftschlaege-gegen-iran-donald-trumps-kalkuliertes-risiko](https://www.spiegel.de/ausland/us-luftschlaege-gegen-iran-donald-trumps-kalkuliertes-risiko-a-9459ee44-2959-4b59-a8e0-966243b87f67#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-krieg-usa-greifen-drei-ziele-in-iran-an-alles-wichtige-im-ueberblick](https://www.spiegel.de/ausland/israel-iran-krieg-usa-greifen-drei-ziele-in-iran-an-alles-wichtige-im-ueberblick-a-5efd7c64-45ee-46b4-81b5-fd91e6af5708#ref=rss)
+### irans
+
+* [https://www.spiegel.de/ausland/donald-trump-und-der-krieg-gegen-iran-was-der-us-angriff-fuer-den-nahen-osten-bedeutet](https://www.spiegel.de/ausland/donald-trump-und-der-krieg-gegen-iran-was-der-us-angriff-fuer-den-nahen-osten-bedeutet-a-cf8bad73-44e0-4009-b7f7-48cfedf08bff#ref=rss)
+* [https://www.spiegel.de/ausland/iran-internationale-reaktionen-auf-us-luftschlaege-im-iran](https://www.spiegel.de/ausland/iran-internationale-reaktionen-auf-us-luftschlaege-im-iran-a-f39ba2ac-28f0-4837-a65b-21887daf4365#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-ueber-luftangriffe-irans-wichtigste-nuklearanreicherungsanlagen-komplett-ausgeloescht](https://www.spiegel.de/ausland/donald-trump-ueber-luftangriffe-irans-wichtigste-nuklearanreicherungsanlagen-komplett-ausgeloescht-a-a3130d46-d306-4616-8d50-c01ab15c3abe#ref=rss)
+* [https://www.spiegel.de/ausland/us-luftschlaege-gegen-iran-donald-trumps-kalkuliertes-risiko](https://www.spiegel.de/ausland/us-luftschlaege-gegen-iran-donald-trumps-kalkuliertes-risiko-a-9459ee44-2959-4b59-a8e0-966243b87f67#ref=rss)
+### vs
+
+* [https://www.spiegel.de/kultur/pamela-anderson-britney-spears-und-co-wie-popkultur-frauen-zum-abschuss-freigab](https://www.spiegel.de/kultur/pamela-anderson-britney-spears-und-co-wie-popkultur-frauen-zum-abschuss-freigab-a-f5b99881-9a58-4e6c-adde-7cc1c75b95d8#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-nahost-iran-droht-mit-konsequenzen-und-startet-raketenangriff-auf-israel](https://www.spiegel.de/ausland/krieg-in-nahost-iran-droht-mit-konsequenzen-und-startet-raketenangriff-auf-israel-a-621e43a1-28f6-42d8-9194-67e6037e3c93#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-ueber-luftangriffe-irans-wichtigste-nuklearanreicherungsanlagen-komplett-ausgeloescht](https://www.spiegel.de/ausland/donald-trump-ueber-luftangriffe-irans-wichtigste-nuklearanreicherungsanlagen-komplett-ausgeloescht-a-a3130d46-d306-4616-8d50-c01ab15c3abe#ref=rss)
+* [https://www.spiegel.de/ausland/us-angriff-auf-iran-donald-trump-haelt-rede-an-die-nation](https://www.spiegel.de/ausland/us-angriff-auf-iran-donald-trump-haelt-rede-an-die-nation-a-72b5c52b-5fcc-4ea7-9832-25587d530ed7#ref=rss)
+### atomanlagen
+
+* [https://www.spiegel.de/ausland/iran-internationale-reaktionen-auf-us-luftschlaege-im-iran](https://www.spiegel.de/ausland/iran-internationale-reaktionen-auf-us-luftschlaege-im-iran-a-f39ba2ac-28f0-4837-a65b-21887daf4365#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-ueber-luftangriffe-irans-wichtigste-nuklearanreicherungsanlagen-komplett-ausgeloescht](https://www.spiegel.de/ausland/donald-trump-ueber-luftangriffe-irans-wichtigste-nuklearanreicherungsanlagen-komplett-ausgeloescht-a-a3130d46-d306-4616-8d50-c01ab15c3abe#ref=rss)
+* [https://www.spiegel.de/ausland/us-luftschlaege-gegen-iran-donald-trumps-kalkuliertes-risiko](https://www.spiegel.de/ausland/us-luftschlaege-gegen-iran-donald-trumps-kalkuliertes-risiko-a-9459ee44-2959-4b59-a8e0-966243b87f67#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-krieg-usa-greifen-drei-ziele-in-iran-an-alles-wichtige-im-ueberblick](https://www.spiegel.de/ausland/israel-iran-krieg-usa-greifen-drei-ziele-in-iran-an-alles-wichtige-im-ueberblick-a-5efd7c64-45ee-46b4-81b5-fd91e6af5708#ref=rss)
+### wichtige
+
+* [https://www.spiegel.de/politik/deutschland/heidi-reichinnek-und-jette-nietzard-warum-die-eine-methode-funktioniert-die-andere-nicht](https://www.spiegel.de/politik/deutschland/heidi-reichinnek-und-jette-nietzard-warum-die-eine-methode-funktioniert-die-andere-nicht-a-f12a464f-93ce-4fb2-bdff-230cf5b839d7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-sprache-in-der-politik-us-angriff-auf-iran-krankenkassen-wetter](https://www.spiegel.de/politik/deutschland/news-sprache-in-der-politik-us-angriff-auf-iran-krankenkassen-wetter-a-3ec0f154-dc18-4301-9afb-11ddd6d80521#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-krieg-usa-greifen-drei-ziele-in-iran-an-alles-wichtige-im-ueberblick](https://www.spiegel.de/ausland/israel-iran-krieg-usa-greifen-drei-ziele-in-iran-an-alles-wichtige-im-ueberblick-a-5efd7c64-45ee-46b4-81b5-fd91e6af5708#ref=rss)
+### krieg
+
+* [https://www.spiegel.de/ausland/donald-trump-und-der-krieg-gegen-iran-was-der-us-angriff-fuer-den-nahen-osten-bedeutet](https://www.spiegel.de/ausland/donald-trump-und-der-krieg-gegen-iran-was-der-us-angriff-fuer-den-nahen-osten-bedeutet-a-cf8bad73-44e0-4009-b7f7-48cfedf08bff#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-sprache-in-der-politik-us-angriff-auf-iran-krankenkassen-wetter](https://www.spiegel.de/politik/deutschland/news-sprache-in-der-politik-us-angriff-auf-iran-krankenkassen-wetter-a-3ec0f154-dc18-4301-9afb-11ddd6d80521#ref=rss)
+* [https://www.spiegel.de/ausland/us-luftschlaege-gegen-iran-donald-trumps-kalkuliertes-risiko](https://www.spiegel.de/ausland/us-luftschlaege-gegen-iran-donald-trumps-kalkuliertes-risiko-a-9459ee44-2959-4b59-a8e0-966243b87f67#ref=rss)
+### trumps
+
+* [https://www.spiegel.de/ausland/donald-trump-und-der-krieg-gegen-iran-was-der-us-angriff-fuer-den-nahen-osten-bedeutet](https://www.spiegel.de/ausland/donald-trump-und-der-krieg-gegen-iran-was-der-us-angriff-fuer-den-nahen-osten-bedeutet-a-cf8bad73-44e0-4009-b7f7-48cfedf08bff#ref=rss)
+* [https://www.spiegel.de/ausland/us-luftschlaege-gegen-iran-donald-trumps-kalkuliertes-risiko](https://www.spiegel.de/ausland/us-luftschlaege-gegen-iran-donald-trumps-kalkuliertes-risiko-a-9459ee44-2959-4b59-a8e0-966243b87f67#ref=rss)
+* [https://www.spiegel.de/ausland/reaktionen-auf-us-angriff-gegen-iran-republikaner-bejubeln-trump-demokratin-fordert-amtsenthebungsverfahren](https://www.spiegel.de/ausland/reaktionen-auf-us-angriff-gegen-iran-republikaner-bejubeln-trump-demokratin-fordert-amtsenthebungsverfahren-a-3d85ccb7-24aa-41a5-994c-ee5b83214940#ref=rss)
+### angegriffen
+
+* [https://www.spiegel.de/ausland/donald-trump-und-der-krieg-gegen-iran-was-der-us-angriff-fuer-den-nahen-osten-bedeutet](https://www.spiegel.de/ausland/donald-trump-und-der-krieg-gegen-iran-was-der-us-angriff-fuer-den-nahen-osten-bedeutet-a-cf8bad73-44e0-4009-b7f7-48cfedf08bff#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-ueber-luftangriffe-irans-wichtigste-nuklearanreicherungsanlagen-komplett-ausgeloescht](https://www.spiegel.de/ausland/donald-trump-ueber-luftangriffe-irans-wichtigste-nuklearanreicherungsanlagen-komplett-ausgeloescht-a-a3130d46-d306-4616-8d50-c01ab15c3abe#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-krieg-usa-greifen-drei-ziele-in-iran-an-alles-wichtige-im-ueberblick](https://www.spiegel.de/ausland/israel-iran-krieg-usa-greifen-drei-ziele-in-iran-an-alles-wichtige-im-ueberblick-a-5efd7c64-45ee-46b4-81b5-fd91e6af5708#ref=rss)
+### zeigen
+
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-kritik-an-ueppiger-ausstattung-fuer-kanzlerbuero](https://www.spiegel.de/politik/deutschland/olaf-scholz-kritik-an-ueppiger-ausstattung-fuer-kanzlerbuero-a-eefe6411-4abc-4c10-ae13-de2a37ff702a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/fruehrente-mehr-als-eine-viertelmillion-menschen-ohne-abschlaege-in-rente-gegangen](https://www.spiegel.de/wirtschaft/soziales/fruehrente-mehr-als-eine-viertelmillion-menschen-ohne-abschlaege-in-rente-gegangen-a-48a84e80-556f-4227-9d87-a20174364b9c#ref=rss)
+### paris
+
+* [https://www.spiegel.de/kultur/pamela-anderson-britney-spears-und-co-wie-popkultur-frauen-zum-abschuss-freigab](https://www.spiegel.de/kultur/pamela-anderson-britney-spears-und-co-wie-popkultur-frauen-zum-abschuss-freigab-a-f5b99881-9a58-4e6c-adde-7cc1c75b95d8#ref=rss)
+* [https://www.spiegel.de/geschichte/wiederaufbau-von-notre-dame-in-paris-was-forscher-ueber-den-kathedralenbau-im-mittelalter-erfuhren](https://www.spiegel.de/geschichte/wiederaufbau-von-notre-dame-in-paris-was-forscher-ueber-den-kathedralenbau-im-mittelalter-erfuhren-a-3cfb3334-c041-473c-86ca-a4799ec5f554#ref=rss)
+### vater
+
+* [https://www.spiegel.de/panorama/heidelberg-vater-von-ast-auf-spielplatz-erschlagen](https://www.spiegel.de/panorama/heidelberg-vater-von-ast-auf-spielplatz-erschlagen-a-b0f39361-e718-47c4-82dc-488be1b19823#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-die-verschwundenen-kinder-von-damaskus](https://www.spiegel.de/ausland/syrien-die-verschwundenen-kinder-von-damaskus-a-e03fbd3c-941c-4835-80bb-6329b298866f#ref=rss)
+### kinder
+
+* [https://www.spiegel.de/panorama/heidelberg-vater-von-ast-auf-spielplatz-erschlagen](https://www.spiegel.de/panorama/heidelberg-vater-von-ast-auf-spielplatz-erschlagen-a-b0f39361-e718-47c4-82dc-488be1b19823#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-die-verschwundenen-kinder-von-damaskus](https://www.spiegel.de/ausland/syrien-die-verschwundenen-kinder-von-damaskus-a-e03fbd3c-941c-4835-80bb-6329b298866f#ref=rss)
 ### offenbar
 
-* [https://www.spiegel.de/ausland/iran-meldet-festnahme-eines-deutschen-touristen](https://www.spiegel.de/ausland/iran-meldet-festnahme-eines-deutschen-touristen-a-c149bc4a-4bc7-4cfd-8544-48f0fd137724#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/berliner-bildungssenatorin-widerspricht-sich-selbst](https://www.spiegel.de/panorama/gesellschaft/berliner-bildungssenatorin-widerspricht-sich-selbst-a-ed3c9369-9750-46cd-b024-87abf5c4f660#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-bruderkuss-bild-beschmiert-polizei-nimmt-aktivisten-der-neuen-generation-fest](https://www.spiegel.de/panorama/justiz/berlin-bruderkuss-bild-beschmiert-polizei-nimmt-aktivisten-der-neuen-generation-fest-a-55c59b01-d2b2-4f27-9e36-724492cf9b90#ref=rss)
-### harvard
+* [https://www.spiegel.de/ausland/iran-us-kampfflieger-warfen-offenbar-mehrere-bunkerbrechende-bomben-ab](https://www.spiegel.de/ausland/iran-us-kampfflieger-warfen-offenbar-mehrere-bunkerbrechende-bomben-ab-a-3e60d164-fb46-4cdf-89fd-9b07c8b84923#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/fruehrente-mehr-als-eine-viertelmillion-menschen-ohne-abschlaege-in-rente-gegangen](https://www.spiegel.de/wirtschaft/soziales/fruehrente-mehr-als-eine-viertelmillion-menschen-ohne-abschlaege-in-rente-gegangen-a-48a84e80-556f-4227-9d87-a20174364b9c#ref=rss)
+### angaben
 
-* [https://www.spiegel.de/ausland/usa-unter-donald-trump-harvard-hat-sich-zur-speerspitze-des-widerstands-gegen-trump-gemacht-das-war-ungeschickt](https://www.spiegel.de/ausland/usa-unter-donald-trump-harvard-hat-sich-zur-speerspitze-des-widerstands-gegen-trump-gemacht-das-war-ungeschickt-a-408118aa-317c-41b5-bcf4-1b2f9c109caf#ref=rss)
-### sommer
+* [https://www.spiegel.de/ausland/israel-meldet-bergung-von-toten-geiseln-im-gazastreifen](https://www.spiegel.de/ausland/israel-meldet-bergung-von-toten-geiseln-im-gazastreifen-a-574c537d-5fde-4b30-ad16-90bbc14fd0ec#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-ueber-luftangriffe-irans-wichtigste-nuklearanreicherungsanlagen-komplett-ausgeloescht](https://www.spiegel.de/ausland/donald-trump-ueber-luftangriffe-irans-wichtigste-nuklearanreicherungsanlagen-komplett-ausgeloescht-a-a3130d46-d306-4616-8d50-c01ab15c3abe#ref=rss)
+### familie
 
-* [https://www.spiegel.de/kultur/zikaden-so-schoen-und-traurig-ist-es-im-sommer-auf-dem-land](https://www.spiegel.de/kultur/zikaden-so-schoen-und-traurig-ist-es-im-sommer-auf-dem-land-a-79f4aee6-89ca-4eff-bc2f-b1ecb685d4a2#ref=rss)
-* [https://www.spiegel.de/familie/sommer-mit-kindern-wie-viele-bleiben-mir-noch-und-was-macht-dieser-druck-mit-mir](https://www.spiegel.de/familie/sommer-mit-kindern-wie-viele-bleiben-mir-noch-und-was-macht-dieser-druck-mit-mir-a-832f20d3-fe03-4f57-ab63-abebccdacc48#ref=rss)
-### viele
+* [https://www.spiegel.de/ausland/syrien-die-verschwundenen-kinder-von-damaskus](https://www.spiegel.de/ausland/syrien-die-verschwundenen-kinder-von-damaskus-a-e03fbd3c-941c-4835-80bb-6329b298866f#ref=rss)
+* [https://www.spiegel.de/panorama/opioid-abhaengigkeit-tilman-starb-mit-24-seine-familie-kaempft-fuer-praevention](https://www.spiegel.de/panorama/opioid-abhaengigkeit-tilman-starb-mit-24-seine-familie-kaempft-fuer-praevention-a-fe2921ec-2102-408e-aa55-7e8bbdfc53cc#ref=rss)
+### heidi
 
-* [https://www.spiegel.de/ausland/hochschul-exil-in-montenegro-junge-russinnen-und-russen-vor-der-indoktrination-bewahren](https://www.spiegel.de/ausland/hochschul-exil-in-montenegro-junge-russinnen-und-russen-vor-der-indoktrination-bewahren-a-40004efb-a532-4b6f-aadd-047c52afe8dc#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/essen-polizei-im-einsatz-gegen-gewalt-und-drogen-spiegel-tv](https://www.spiegel.de/panorama/justiz/essen-polizei-im-einsatz-gegen-gewalt-und-drogen-spiegel-tv-a-fe7582c2-08b4-4470-9a43-964153da47c3#ref=rss)
-* [https://www.spiegel.de/familie/sommer-mit-kindern-wie-viele-bleiben-mir-noch-und-was-macht-dieser-druck-mit-mir](https://www.spiegel.de/familie/sommer-mit-kindern-wie-viele-bleiben-mir-noch-und-was-macht-dieser-druck-mit-mir-a-832f20d3-fe03-4f57-ab63-abebccdacc48#ref=rss)
-### spiegel
+* [https://www.spiegel.de/politik/deutschland/heidi-reichinnek-und-jette-nietzard-warum-die-eine-methode-funktioniert-die-andere-nicht](https://www.spiegel.de/politik/deutschland/heidi-reichinnek-und-jette-nietzard-warum-die-eine-methode-funktioniert-die-andere-nicht-a-f12a464f-93ce-4fb2-bdff-230cf5b839d7#ref=rss)
+### reichinnek
 
-* [https://www.spiegel.de/ausland/israel-iran-konflikt-spiegel-reporterin-beantwortet-fragen-aus-tel-aviv](https://www.spiegel.de/ausland/israel-iran-konflikt-spiegel-reporterin-beantwortet-fragen-aus-tel-aviv-a-09293455-767f-449c-b9d7-5563ae0f0cf6#ref=rss)
-* [https://www.spiegel.de/ausland/migration-fluechtling-aus-china-durchquert-darien-dschungel-auf-dem-weg-in-die-usa](https://www.spiegel.de/ausland/migration-fluechtling-aus-china-durchquert-darien-dschungel-auf-dem-weg-in-die-usa-a-f9b6b9bd-d6eb-450c-b79c-8fd7f911dbd6#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/essen-polizei-im-einsatz-gegen-gewalt-und-drogen-spiegel-tv](https://www.spiegel.de/panorama/justiz/essen-polizei-im-einsatz-gegen-gewalt-und-drogen-spiegel-tv-a-fe7582c2-08b4-4470-9a43-964153da47c3#ref=rss)
-### deutsche
+* [https://www.spiegel.de/politik/deutschland/heidi-reichinnek-und-jette-nietzard-warum-die-eine-methode-funktioniert-die-andere-nicht](https://www.spiegel.de/politik/deutschland/heidi-reichinnek-und-jette-nietzard-warum-die-eine-methode-funktioniert-die-andere-nicht-a-f12a464f-93ce-4fb2-bdff-230cf5b839d7#ref=rss)
+### jette
 
-* [https://www.spiegel.de/ausland/israel-iran-krieg-israel-meldet-toetung-von-kommandeur-der-quds-brigade](https://www.spiegel.de/ausland/israel-iran-krieg-israel-meldet-toetung-von-kommandeur-der-quds-brigade-a-40fa6654-182a-4ed2-bf13-9b4623239704#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/das-deutsche-rote-kreuz-zeichnet-blutspender-in-wiesbaden-aus](https://www.spiegel.de/panorama/gesellschaft/das-deutsche-rote-kreuz-zeichnet-blutspender-in-wiesbaden-aus-a-e7973a30-eafb-4e50-a4d5-a881055b3954#ref=rss)
-### polizei
+* [https://www.spiegel.de/politik/deutschland/heidi-reichinnek-und-jette-nietzard-warum-die-eine-methode-funktioniert-die-andere-nicht](https://www.spiegel.de/politik/deutschland/heidi-reichinnek-und-jette-nietzard-warum-die-eine-methode-funktioniert-die-andere-nicht-a-f12a464f-93ce-4fb2-bdff-230cf5b839d7#ref=rss)
+### nietzard
 
-* [https://www.spiegel.de/panorama/justiz/berlin-bruderkuss-bild-beschmiert-polizei-nimmt-aktivisten-der-neuen-generation-fest](https://www.spiegel.de/panorama/justiz/berlin-bruderkuss-bild-beschmiert-polizei-nimmt-aktivisten-der-neuen-generation-fest-a-55c59b01-d2b2-4f27-9e36-724492cf9b90#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/essen-polizei-im-einsatz-gegen-gewalt-und-drogen-spiegel-tv](https://www.spiegel.de/panorama/justiz/essen-polizei-im-einsatz-gegen-gewalt-und-drogen-spiegel-tv-a-fe7582c2-08b4-4470-9a43-964153da47c3#ref=rss)
-### florenz
+* [https://www.spiegel.de/politik/deutschland/heidi-reichinnek-und-jette-nietzard-warum-die-eine-methode-funktioniert-die-andere-nicht](https://www.spiegel.de/politik/deutschland/heidi-reichinnek-und-jette-nietzard-warum-die-eine-methode-funktioniert-die-andere-nicht-a-f12a464f-93ce-4fb2-bdff-230cf5b839d7#ref=rss)
+### linke
 
-* [https://www.spiegel.de/panorama/florenz-besucher-zerstoert-gemaelde-in-den-uffizien-fuer-ein-foto](https://www.spiegel.de/panorama/florenz-besucher-zerstoert-gemaelde-in-den-uffizien-fuer-ein-foto-a-d9d42599-7c9b-46d3-a2b0-f7eafc3af885#ref=rss)
-### foto
-
-* [https://www.spiegel.de/panorama/florenz-besucher-zerstoert-gemaelde-in-den-uffizien-fuer-ein-foto](https://www.spiegel.de/panorama/florenz-besucher-zerstoert-gemaelde-in-den-uffizien-fuer-ein-foto-a-d9d42599-7c9b-46d3-a2b0-f7eafc3af885#ref=rss)
-### einzelkinder
-
-* [https://www.spiegel.de/familie/einzelkinder-einsam-verwoehnt-egoistisch-was-wirklich-dahintersteckt](https://www.spiegel.de/familie/einzelkinder-einsam-verwoehnt-egoistisch-was-wirklich-dahintersteckt-a-cb27bb6d-e3c6-4ca8-b814-93ef5dd0ab11#ref=rss)
-### einsam
-
-* [https://www.spiegel.de/familie/einzelkinder-einsam-verwoehnt-egoistisch-was-wirklich-dahintersteckt](https://www.spiegel.de/familie/einzelkinder-einsam-verwoehnt-egoistisch-was-wirklich-dahintersteckt-a-cb27bb6d-e3c6-4ca8-b814-93ef5dd0ab11#ref=rss)
-### verwöhnt
-
-* [https://www.spiegel.de/familie/einzelkinder-einsam-verwoehnt-egoistisch-was-wirklich-dahintersteckt](https://www.spiegel.de/familie/einzelkinder-einsam-verwoehnt-egoistisch-was-wirklich-dahintersteckt-a-cb27bb6d-e3c6-4ca8-b814-93ef5dd0ab11#ref=rss)
-### egoistisch
-
-* [https://www.spiegel.de/familie/einzelkinder-einsam-verwoehnt-egoistisch-was-wirklich-dahintersteckt](https://www.spiegel.de/familie/einzelkinder-einsam-verwoehnt-egoistisch-was-wirklich-dahintersteckt-a-cb27bb6d-e3c6-4ca8-b814-93ef5dd0ab11#ref=rss)
-### stimmt
-
-* [https://www.spiegel.de/familie/einzelkinder-einsam-verwoehnt-egoistisch-was-wirklich-dahintersteckt](https://www.spiegel.de/familie/einzelkinder-einsam-verwoehnt-egoistisch-was-wirklich-dahintersteckt-a-cb27bb6d-e3c6-4ca8-b814-93ef5dd0ab11#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/berliner-bildungssenatorin-widerspricht-sich-selbst](https://www.spiegel.de/panorama/gesellschaft/berliner-bildungssenatorin-widerspricht-sich-selbst-a-ed3c9369-9750-46cd-b024-87abf5c4f660#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/familie/einzelkinder-einsam-verwoehnt-egoistisch-was-wirklich-dahintersteckt](https://www.spiegel.de/familie/einzelkinder-einsam-verwoehnt-egoistisch-was-wirklich-dahintersteckt-a-cb27bb6d-e3c6-4ca8-b814-93ef5dd0ab11#ref=rss)
-* [https://www.spiegel.de/ausland/migration-warum-deutschland-so-wenige-fluechtlinge-an-der-grenze-nach-oesterreich-zurueckweist](https://www.spiegel.de/ausland/migration-warum-deutschland-so-wenige-fluechtlinge-an-der-grenze-nach-oesterreich-zurueckweist-a-47afdaa2-a00d-4b2b-b8b9-6bf517553153#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/heidi-reichinnek-und-jette-nietzard-warum-die-eine-methode-funktioniert-die-andere-nicht](https://www.spiegel.de/politik/deutschland/heidi-reichinnek-und-jette-nietzard-warum-die-eine-methode-funktioniert-die-andere-nicht-a-f12a464f-93ce-4fb2-bdff-230cf5b839d7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-kritik-an-ueppiger-ausstattung-fuer-kanzlerbuero](https://www.spiegel.de/politik/deutschland/olaf-scholz-kritik-an-ueppiger-ausstattung-fuer-kanzlerbuero-a-eefe6411-4abc-4c10-ae13-de2a37ff702a#ref=rss)
 ### ohne
 
-* [https://www.spiegel.de/familie/einzelkinder-einsam-verwoehnt-egoistisch-was-wirklich-dahintersteckt](https://www.spiegel.de/familie/einzelkinder-einsam-verwoehnt-egoistisch-was-wirklich-dahintersteckt-a-cb27bb6d-e3c6-4ca8-b814-93ef5dd0ab11#ref=rss)
-* [https://www.spiegel.de/wissenschaft/robert-f-kennedy-drogenabhaengige-sollen-auf-reha-farmen-gegen-die-sucht-ackern](https://www.spiegel.de/wissenschaft/robert-f-kennedy-drogenabhaengige-sollen-auf-reha-farmen-gegen-die-sucht-ackern-a-ce09113b-56c5-456c-8de8-dbb42535cd17#ref=rss)
-### migration
+* [https://www.spiegel.de/sport/fussball/fussball-transferticker-hertha-bsc-erwaegt-rangnick-verpflichtung-ter-stegen-ohne-gespraech](https://www.spiegel.de/sport/fussball/fussball-transferticker-hertha-bsc-erwaegt-rangnick-verpflichtung-ter-stegen-ohne-gespraech-a-f9d05eea-e7b5-43d0-96af-165f76a5c219#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/fruehrente-mehr-als-eine-viertelmillion-menschen-ohne-abschlaege-in-rente-gegangen](https://www.spiegel.de/wirtschaft/soziales/fruehrente-mehr-als-eine-viertelmillion-menschen-ohne-abschlaege-in-rente-gegangen-a-48a84e80-556f-4227-9d87-a20174364b9c#ref=rss)
+### wichtigsten
 
-* [https://www.spiegel.de/ausland/migration-warum-deutschland-so-wenige-fluechtlinge-an-der-grenze-nach-oesterreich-zurueckweist](https://www.spiegel.de/ausland/migration-warum-deutschland-so-wenige-fluechtlinge-an-der-grenze-nach-oesterreich-zurueckweist-a-47afdaa2-a00d-4b2b-b8b9-6bf517553153#ref=rss)
-* [https://www.spiegel.de/ausland/migration-fluechtling-aus-china-durchquert-darien-dschungel-auf-dem-weg-in-die-usa](https://www.spiegel.de/ausland/migration-fluechtling-aus-china-durchquert-darien-dschungel-auf-dem-weg-in-die-usa-a-f9b6b9bd-d6eb-450c-b79c-8fd7f911dbd6#ref=rss)
-### grenze
+* [https://www.spiegel.de/sport/fussball/fussball-transferticker-hertha-bsc-erwaegt-rangnick-verpflichtung-ter-stegen-ohne-gespraech](https://www.spiegel.de/sport/fussball/fussball-transferticker-hertha-bsc-erwaegt-rangnick-verpflichtung-ter-stegen-ohne-gespraech-a-f9d05eea-e7b5-43d0-96af-165f76a5c219#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### spdchef
 
-* [https://www.spiegel.de/ausland/migration-warum-deutschland-so-wenige-fluechtlinge-an-der-grenze-nach-oesterreich-zurueckweist](https://www.spiegel.de/ausland/migration-warum-deutschland-so-wenige-fluechtlinge-an-der-grenze-nach-oesterreich-zurueckweist-a-47afdaa2-a00d-4b2b-b8b9-6bf517553153#ref=rss)
-### österreich
+* [https://www.spiegel.de/politik/deutschland/spd-chef-klingbeil-fuer-afd-verbotsverfahren-ein-historischer-auftrag](https://www.spiegel.de/politik/deutschland/spd-chef-klingbeil-fuer-afd-verbotsverfahren-ein-historischer-auftrag-a-c17943ad-51d9-4285-9f4d-1d20539dc745#ref=rss)
+### klingbeil
 
-* [https://www.spiegel.de/ausland/migration-warum-deutschland-so-wenige-fluechtlinge-an-der-grenze-nach-oesterreich-zurueckweist](https://www.spiegel.de/ausland/migration-warum-deutschland-so-wenige-fluechtlinge-an-der-grenze-nach-oesterreich-zurueckweist-a-47afdaa2-a00d-4b2b-b8b9-6bf517553153#ref=rss)
-### alexander
+* [https://www.spiegel.de/politik/deutschland/spd-chef-klingbeil-fuer-afd-verbotsverfahren-ein-historischer-auftrag](https://www.spiegel.de/politik/deutschland/spd-chef-klingbeil-fuer-afd-verbotsverfahren-ein-historischer-auftrag-a-c17943ad-51d9-4285-9f4d-1d20539dc745#ref=rss)
+### pflicht
 
-* [https://www.spiegel.de/ausland/migration-warum-deutschland-so-wenige-fluechtlinge-an-der-grenze-nach-oesterreich-zurueckweist](https://www.spiegel.de/ausland/migration-warum-deutschland-so-wenige-fluechtlinge-an-der-grenze-nach-oesterreich-zurueckweist-a-47afdaa2-a00d-4b2b-b8b9-6bf517553153#ref=rss)
-* [https://www.spiegel.de/ausland/belarus-sergej-tichanowski-nach-treffen-mit-us-gesandtem-freigelassen](https://www.spiegel.de/ausland/belarus-sergej-tichanowski-nach-treffen-mit-us-gesandtem-freigelassen-a-f047ad18-3ca5-475c-b00c-9dcf3561b664#ref=rss)
-### deutschen
+* [https://www.spiegel.de/politik/deutschland/spd-chef-klingbeil-fuer-afd-verbotsverfahren-ein-historischer-auftrag](https://www.spiegel.de/politik/deutschland/spd-chef-klingbeil-fuer-afd-verbotsverfahren-ein-historischer-auftrag-a-c17943ad-51d9-4285-9f4d-1d20539dc745#ref=rss)
+* [https://www.spiegel.de/ausland/usa-texas-fuehrt-pflicht-zum-aushang-der-zehn-gebote-in-schulen-ein](https://www.spiegel.de/ausland/usa-texas-fuehrt-pflicht-zum-aushang-der-zehn-gebote-in-schulen-ein-a-c4d1d7ac-2283-4908-a13d-1a3fa27595af#ref=rss)
+### möglichen
 
-* [https://www.spiegel.de/ausland/iran-meldet-festnahme-eines-deutschen-touristen](https://www.spiegel.de/ausland/iran-meldet-festnahme-eines-deutschen-touristen-a-c149bc4a-4bc7-4cfd-8544-48f0fd137724#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/ausland/iran-meldet-festnahme-eines-deutschen-touristen](https://www.spiegel.de/ausland/iran-meldet-festnahme-eines-deutschen-touristen-a-c149bc4a-4bc7-4cfd-8544-48f0fd137724#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-assad-cousin-und-prominenter-drogenhaendler-verhaftet](https://www.spiegel.de/ausland/syrien-assad-cousin-und-prominenter-drogenhaendler-verhaftet-a-2588c80c-395b-4f49-8d75-2a4a2da3868e#ref=rss)
-### macht
-
-* [https://www.spiegel.de/ausland/iran-meldet-festnahme-eines-deutschen-touristen](https://www.spiegel.de/ausland/iran-meldet-festnahme-eines-deutschen-touristen-a-c149bc4a-4bc7-4cfd-8544-48f0fd137724#ref=rss)
-* [https://www.spiegel.de/familie/sommer-mit-kindern-wie-viele-bleiben-mir-noch-und-was-macht-dieser-druck-mit-mir](https://www.spiegel.de/familie/sommer-mit-kindern-wie-viele-bleiben-mir-noch-und-was-macht-dieser-druck-mit-mir-a-832f20d3-fe03-4f57-ab63-abebccdacc48#ref=rss)
-### regime
-
-* [https://www.spiegel.de/ausland/iran-meldet-festnahme-eines-deutschen-touristen](https://www.spiegel.de/ausland/iran-meldet-festnahme-eines-deutschen-touristen-a-c149bc4a-4bc7-4cfd-8544-48f0fd137724#ref=rss)
-* [https://www.spiegel.de/ausland/hochschul-exil-in-montenegro-junge-russinnen-und-russen-vor-der-indoktrination-bewahren](https://www.spiegel.de/ausland/hochschul-exil-in-montenegro-junge-russinnen-und-russen-vor-der-indoktrination-bewahren-a-40004efb-a532-4b6f-aadd-047c52afe8dc#ref=rss)
-### moment
-
-* [https://www.spiegel.de/ausland/iran-meldet-festnahme-eines-deutschen-touristen](https://www.spiegel.de/ausland/iran-meldet-festnahme-eines-deutschen-touristen-a-c149bc4a-4bc7-4cfd-8544-48f0fd137724#ref=rss)
-* [https://www.spiegel.de/familie/sommer-mit-kindern-wie-viele-bleiben-mir-noch-und-was-macht-dieser-druck-mit-mir](https://www.spiegel.de/familie/sommer-mit-kindern-wie-viele-bleiben-mir-noch-und-was-macht-dieser-druck-mit-mir-a-832f20d3-fe03-4f57-ab63-abebccdacc48#ref=rss)
-### acht
-
-* [https://www.spiegel.de/panorama/brasilien-acht-tote-bei-absturz-eines-brennenden-heissluftballons](https://www.spiegel.de/panorama/brasilien-acht-tote-bei-absturz-eines-brennenden-heissluftballons-a-7f21446d-087d-449b-b193-a17799dd7f67#ref=rss)
-### hamburger
-
-* [https://www.spiegel.de/sport/fussball/hamburger-sv-henrik-koencke-folgt-auf-marcell-jansen-als-praesident](https://www.spiegel.de/sport/fussball/hamburger-sv-henrik-koencke-folgt-auf-marcell-jansen-als-praesident-a-f02ac8d4-e903-4527-907e-11ad2aa45ccb#ref=rss)
-### sv
-
-* [https://www.spiegel.de/sport/fussball/hamburger-sv-henrik-koencke-folgt-auf-marcell-jansen-als-praesident](https://www.spiegel.de/sport/fussball/hamburger-sv-henrik-koencke-folgt-auf-marcell-jansen-als-praesident-a-f02ac8d4-e903-4527-907e-11ad2aa45ccb#ref=rss)
-### henrik
-
-* [https://www.spiegel.de/sport/fussball/hamburger-sv-henrik-koencke-folgt-auf-marcell-jansen-als-praesident](https://www.spiegel.de/sport/fussball/hamburger-sv-henrik-koencke-folgt-auf-marcell-jansen-als-praesident-a-f02ac8d4-e903-4527-907e-11ad2aa45ccb#ref=rss)
-### köncke
-
-* [https://www.spiegel.de/sport/fussball/hamburger-sv-henrik-koencke-folgt-auf-marcell-jansen-als-praesident](https://www.spiegel.de/sport/fussball/hamburger-sv-henrik-koencke-folgt-auf-marcell-jansen-als-praesident-a-f02ac8d4-e903-4527-907e-11ad2aa45ccb#ref=rss)
-### marcell
-
-* [https://www.spiegel.de/sport/fussball/hamburger-sv-henrik-koencke-folgt-auf-marcell-jansen-als-praesident](https://www.spiegel.de/sport/fussball/hamburger-sv-henrik-koencke-folgt-auf-marcell-jansen-als-praesident-a-f02ac8d4-e903-4527-907e-11ad2aa45ccb#ref=rss)
-### jansen
-
-* [https://www.spiegel.de/sport/fussball/hamburger-sv-henrik-koencke-folgt-auf-marcell-jansen-als-praesident](https://www.spiegel.de/sport/fussball/hamburger-sv-henrik-koencke-folgt-auf-marcell-jansen-als-praesident-a-f02ac8d4-e903-4527-907e-11ad2aa45ccb#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/sport/fussball/hamburger-sv-henrik-koencke-folgt-auf-marcell-jansen-als-praesident](https://www.spiegel.de/sport/fussball/hamburger-sv-henrik-koencke-folgt-auf-marcell-jansen-als-praesident-a-f02ac8d4-e903-4527-907e-11ad2aa45ccb#ref=rss)
-### zikaden
-
-* [https://www.spiegel.de/kultur/zikaden-so-schoen-und-traurig-ist-es-im-sommer-auf-dem-land](https://www.spiegel.de/kultur/zikaden-so-schoen-und-traurig-ist-es-im-sommer-auf-dem-land-a-79f4aee6-89ca-4eff-bc2f-b1ecb685d4a2#ref=rss)
-### automatenrestaurants
-
-* [https://www.spiegel.de/wissenschaft/automatenrestaurants-warum-gibt-es-solche-lokale-nicht-mehr](https://www.spiegel.de/wissenschaft/automatenrestaurants-warum-gibt-es-solche-lokale-nicht-mehr-a-f813de29-7abc-4b4f-bfc3-1764ba0e1383#ref=rss)
-### solche
-
-* [https://www.spiegel.de/wissenschaft/automatenrestaurants-warum-gibt-es-solche-lokale-nicht-mehr](https://www.spiegel.de/wissenschaft/automatenrestaurants-warum-gibt-es-solche-lokale-nicht-mehr-a-f813de29-7abc-4b4f-bfc3-1764ba0e1383#ref=rss)
-### lokale
-
-* [https://www.spiegel.de/wissenschaft/automatenrestaurants-warum-gibt-es-solche-lokale-nicht-mehr](https://www.spiegel.de/wissenschaft/automatenrestaurants-warum-gibt-es-solche-lokale-nicht-mehr-a-f813de29-7abc-4b4f-bfc3-1764ba0e1383#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/wissenschaft/automatenrestaurants-warum-gibt-es-solche-lokale-nicht-mehr](https://www.spiegel.de/wissenschaft/automatenrestaurants-warum-gibt-es-solche-lokale-nicht-mehr-a-f813de29-7abc-4b4f-bfc3-1764ba0e1383#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/berliner-bildungssenatorin-widerspricht-sich-selbst](https://www.spiegel.de/panorama/gesellschaft/berliner-bildungssenatorin-widerspricht-sich-selbst-a-ed3c9369-9750-46cd-b024-87abf5c4f660#ref=rss)
-### montenegro
-
-* [https://www.spiegel.de/ausland/hochschul-exil-in-montenegro-junge-russinnen-und-russen-vor-der-indoktrination-bewahren](https://www.spiegel.de/ausland/hochschul-exil-in-montenegro-junge-russinnen-und-russen-vor-der-indoktrination-bewahren-a-40004efb-a532-4b6f-aadd-047c52afe8dc#ref=rss)
-### heimat
-
-* [https://www.spiegel.de/ausland/hochschul-exil-in-montenegro-junge-russinnen-und-russen-vor-der-indoktrination-bewahren](https://www.spiegel.de/ausland/hochschul-exil-in-montenegro-junge-russinnen-und-russen-vor-der-indoktrination-bewahren-a-40004efb-a532-4b6f-aadd-047c52afe8dc#ref=rss)
-* [https://www.spiegel.de/ausland/migration-fluechtling-aus-china-durchquert-darien-dschungel-auf-dem-weg-in-die-usa](https://www.spiegel.de/ausland/migration-fluechtling-aus-china-durchquert-darien-dschungel-auf-dem-weg-in-die-usa-a-f9b6b9bd-d6eb-450c-b79c-8fd7f911dbd6#ref=rss)
-### belarus
-
-* [https://www.spiegel.de/ausland/belarus-sergej-tichanowski-nach-treffen-mit-us-gesandtem-freigelassen](https://www.spiegel.de/ausland/belarus-sergej-tichanowski-nach-treffen-mit-us-gesandtem-freigelassen-a-f047ad18-3ca5-475c-b00c-9dcf3561b664#ref=rss)
-### sergej
-
-* [https://www.spiegel.de/ausland/belarus-sergej-tichanowski-nach-treffen-mit-us-gesandtem-freigelassen](https://www.spiegel.de/ausland/belarus-sergej-tichanowski-nach-treffen-mit-us-gesandtem-freigelassen-a-f047ad18-3ca5-475c-b00c-9dcf3561b664#ref=rss)
-### tichanowski
-
-* [https://www.spiegel.de/ausland/belarus-sergej-tichanowski-nach-treffen-mit-us-gesandtem-freigelassen](https://www.spiegel.de/ausland/belarus-sergej-tichanowski-nach-treffen-mit-us-gesandtem-freigelassen-a-f047ad18-3ca5-475c-b00c-9dcf3561b664#ref=rss)
-### freigelassen
-
-* [https://www.spiegel.de/ausland/belarus-sergej-tichanowski-nach-treffen-mit-us-gesandtem-freigelassen](https://www.spiegel.de/ausland/belarus-sergej-tichanowski-nach-treffen-mit-us-gesandtem-freigelassen-a-f047ad18-3ca5-475c-b00c-9dcf3561b664#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/ausland/israel-iran-konflikt-spiegel-reporterin-beantwortet-fragen-aus-tel-aviv](https://www.spiegel.de/ausland/israel-iran-konflikt-spiegel-reporterin-beantwortet-fragen-aus-tel-aviv-a-09293455-767f-449c-b9d7-5563ae0f0cf6#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-bruderkuss-bild-beschmiert-polizei-nimmt-aktivisten-der-neuen-generation-fest](https://www.spiegel.de/panorama/justiz/berlin-bruderkuss-bild-beschmiert-polizei-nimmt-aktivisten-der-neuen-generation-fest-a-55c59b01-d2b2-4f27-9e36-724492cf9b90#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/israel-iran-konflikt-spiegel-reporterin-beantwortet-fragen-aus-tel-aviv](https://www.spiegel.de/ausland/israel-iran-konflikt-spiegel-reporterin-beantwortet-fragen-aus-tel-aviv-a-09293455-767f-449c-b9d7-5563ae0f0cf6#ref=rss)
-* [https://www.spiegel.de/ausland/israel-iran-krieg-israel-meldet-toetung-von-kommandeur-der-quds-brigade](https://www.spiegel.de/ausland/israel-iran-krieg-israel-meldet-toetung-von-kommandeur-der-quds-brigade-a-40fa6654-182a-4ed2-bf13-9b4623239704#ref=rss)
-### nahost
-
-* [https://www.spiegel.de/ausland/israel-iran-konflikt-spiegel-reporterin-beantwortet-fragen-aus-tel-aviv](https://www.spiegel.de/ausland/israel-iran-konflikt-spiegel-reporterin-beantwortet-fragen-aus-tel-aviv-a-09293455-767f-449c-b9d7-5563ae0f0cf6#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-bruderkuss-bild-beschmiert-polizei-nimmt-aktivisten-der-neuen-generation-fest](https://www.spiegel.de/panorama/justiz/berlin-bruderkuss-bild-beschmiert-polizei-nimmt-aktivisten-der-neuen-generation-fest-a-55c59b01-d2b2-4f27-9e36-724492cf9b90#ref=rss)
-### verhaftet
-
-* [https://www.spiegel.de/ausland/syrien-assad-cousin-und-prominenter-drogenhaendler-verhaftet](https://www.spiegel.de/ausland/syrien-assad-cousin-und-prominenter-drogenhaendler-verhaftet-a-2588c80c-395b-4f49-8d75-2a4a2da3868e#ref=rss)
-### bildungssenatorin
-
-* [https://www.spiegel.de/panorama/gesellschaft/berliner-bildungssenatorin-widerspricht-sich-selbst](https://www.spiegel.de/panorama/gesellschaft/berliner-bildungssenatorin-widerspricht-sich-selbst-a-ed3c9369-9750-46cd-b024-87abf5c4f660#ref=rss)
-### digitalisierung
-
-* [https://www.spiegel.de/politik/deutschland/digitalisierung-der-verwaltung-ausgaben-des-bundes-fuer-software-deutlich-gestiegen](https://www.spiegel.de/politik/deutschland/digitalisierung-der-verwaltung-ausgaben-des-bundes-fuer-software-deutlich-gestiegen-a-fdbd0ccb-e285-4017-885e-104608c6709e#ref=rss)
-### verwaltung
-
-* [https://www.spiegel.de/politik/deutschland/digitalisierung-der-verwaltung-ausgaben-des-bundes-fuer-software-deutlich-gestiegen](https://www.spiegel.de/politik/deutschland/digitalisierung-der-verwaltung-ausgaben-des-bundes-fuer-software-deutlich-gestiegen-a-fdbd0ccb-e285-4017-885e-104608c6709e#ref=rss)
-### ausgaben
-
-* [https://www.spiegel.de/politik/deutschland/digitalisierung-der-verwaltung-ausgaben-des-bundes-fuer-software-deutlich-gestiegen](https://www.spiegel.de/politik/deutschland/digitalisierung-der-verwaltung-ausgaben-des-bundes-fuer-software-deutlich-gestiegen-a-fdbd0ccb-e285-4017-885e-104608c6709e#ref=rss)
-### gestiegen
-
-* [https://www.spiegel.de/politik/deutschland/digitalisierung-der-verwaltung-ausgaben-des-bundes-fuer-software-deutlich-gestiegen](https://www.spiegel.de/politik/deutschland/digitalisierung-der-verwaltung-ausgaben-des-bundes-fuer-software-deutlich-gestiegen-a-fdbd0ccb-e285-4017-885e-104608c6709e#ref=rss)
-### beschmiert
-
-* [https://www.spiegel.de/panorama/justiz/berlin-bruderkuss-bild-beschmiert-polizei-nimmt-aktivisten-der-neuen-generation-fest](https://www.spiegel.de/panorama/justiz/berlin-bruderkuss-bild-beschmiert-polizei-nimmt-aktivisten-der-neuen-generation-fest-a-55c59b01-d2b2-4f27-9e36-724492cf9b90#ref=rss)
-### rote
-
-* [https://www.spiegel.de/panorama/gesellschaft/das-deutsche-rote-kreuz-zeichnet-blutspender-in-wiesbaden-aus](https://www.spiegel.de/panorama/gesellschaft/das-deutsche-rote-kreuz-zeichnet-blutspender-in-wiesbaden-aus-a-e7973a30-eafb-4e50-a4d5-a881055b3954#ref=rss)
-### kreuz
-
-* [https://www.spiegel.de/panorama/gesellschaft/das-deutsche-rote-kreuz-zeichnet-blutspender-in-wiesbaden-aus](https://www.spiegel.de/panorama/gesellschaft/das-deutsche-rote-kreuz-zeichnet-blutspender-in-wiesbaden-aus-a-e7973a30-eafb-4e50-a4d5-a881055b3954#ref=rss)
-### wiesbaden
-
-* [https://www.spiegel.de/panorama/gesellschaft/das-deutsche-rote-kreuz-zeichnet-blutspender-in-wiesbaden-aus](https://www.spiegel.de/panorama/gesellschaft/das-deutsche-rote-kreuz-zeichnet-blutspender-in-wiesbaden-aus-a-e7973a30-eafb-4e50-a4d5-a881055b3954#ref=rss)
-### bhz
-
-* [https://www.spiegel.de/kultur/musik/bhz-und-die-trauer-wie-veraendert-es-das-leben-wenn-der-beste-freund-ploetzlich-fehlt](https://www.spiegel.de/kultur/musik/bhz-und-die-trauer-wie-veraendert-es-das-leben-wenn-der-beste-freund-ploetzlich-fehlt-a-d8dc4c83-d150-402d-aa1a-9a109453d498#ref=rss)
-### verändert
-
-* [https://www.spiegel.de/kultur/musik/bhz-und-die-trauer-wie-veraendert-es-das-leben-wenn-der-beste-freund-ploetzlich-fehlt](https://www.spiegel.de/kultur/musik/bhz-und-die-trauer-wie-veraendert-es-das-leben-wenn-der-beste-freund-ploetzlich-fehlt-a-d8dc4c83-d150-402d-aa1a-9a109453d498#ref=rss)
-### beste
-
-* [https://www.spiegel.de/kultur/musik/bhz-und-die-trauer-wie-veraendert-es-das-leben-wenn-der-beste-freund-ploetzlich-fehlt](https://www.spiegel.de/kultur/musik/bhz-und-die-trauer-wie-veraendert-es-das-leben-wenn-der-beste-freund-ploetzlich-fehlt-a-d8dc4c83-d150-402d-aa1a-9a109453d498#ref=rss)
-### freund
-
-* [https://www.spiegel.de/kultur/musik/bhz-und-die-trauer-wie-veraendert-es-das-leben-wenn-der-beste-freund-ploetzlich-fehlt](https://www.spiegel.de/kultur/musik/bhz-und-die-trauer-wie-veraendert-es-das-leben-wenn-der-beste-freund-ploetzlich-fehlt-a-d8dc4c83-d150-402d-aa1a-9a109453d498#ref=rss)
-### fehlt
-
-* [https://www.spiegel.de/kultur/musik/bhz-und-die-trauer-wie-veraendert-es-das-leben-wenn-der-beste-freund-ploetzlich-fehlt](https://www.spiegel.de/kultur/musik/bhz-und-die-trauer-wie-veraendert-es-das-leben-wenn-der-beste-freund-ploetzlich-fehlt-a-d8dc4c83-d150-402d-aa1a-9a109453d498#ref=rss)
-### mitglied
-
-* [https://www.spiegel.de/kultur/musik/bhz-und-die-trauer-wie-veraendert-es-das-leben-wenn-der-beste-freund-ploetzlich-fehlt](https://www.spiegel.de/kultur/musik/bhz-und-die-trauer-wie-veraendert-es-das-leben-wenn-der-beste-freund-ploetzlich-fehlt-a-d8dc4c83-d150-402d-aa1a-9a109453d498#ref=rss)
-* [https://www.spiegel.de/kultur/musik/k-pop-bts-saenger-suga-beendet-zivildienst-als-letztes-mitglied](https://www.spiegel.de/kultur/musik/k-pop-bts-saenger-suga-beendet-zivildienst-als-letztes-mitglied-a-dbddd544-49b8-4a6a-834e-eb88b581229a#ref=rss)
-### tonight
-
-* [https://www.spiegel.de/kultur/tv/tv-kritik-till-tonight-mit-till-reiners-in-jan-boehmermanns-sommerpause](https://www.spiegel.de/kultur/tv/tv-kritik-till-tonight-mit-till-reiners-in-jan-boehmermanns-sommerpause-a-927803bf-3477-4f9e-8f5c-e25aad433034#ref=rss)
-### reiners
-
-* [https://www.spiegel.de/kultur/tv/tv-kritik-till-tonight-mit-till-reiners-in-jan-boehmermanns-sommerpause](https://www.spiegel.de/kultur/tv/tv-kritik-till-tonight-mit-till-reiners-in-jan-boehmermanns-sommerpause-a-927803bf-3477-4f9e-8f5c-e25aad433034#ref=rss)
-### voice
-
-* [https://www.spiegel.de/kultur/us-auslandssender-voice-of-america-vor-dem-aus-ueber-600-weitere-kuendigungen](https://www.spiegel.de/kultur/us-auslandssender-voice-of-america-vor-dem-aus-ueber-600-weitere-kuendigungen-a-d571db40-e813-4af7-8a2e-adb2673a0581#ref=rss)
-### of
-
-* [https://www.spiegel.de/kultur/us-auslandssender-voice-of-america-vor-dem-aus-ueber-600-weitere-kuendigungen](https://www.spiegel.de/kultur/us-auslandssender-voice-of-america-vor-dem-aus-ueber-600-weitere-kuendigungen-a-d571db40-e813-4af7-8a2e-adb2673a0581#ref=rss)
-### america
-
-* [https://www.spiegel.de/kultur/us-auslandssender-voice-of-america-vor-dem-aus-ueber-600-weitere-kuendigungen](https://www.spiegel.de/kultur/us-auslandssender-voice-of-america-vor-dem-aus-ueber-600-weitere-kuendigungen-a-d571db40-e813-4af7-8a2e-adb2673a0581#ref=rss)
-### 600
-
-* [https://www.spiegel.de/kultur/us-auslandssender-voice-of-america-vor-dem-aus-ueber-600-weitere-kuendigungen](https://www.spiegel.de/kultur/us-auslandssender-voice-of-america-vor-dem-aus-ueber-600-weitere-kuendigungen-a-d571db40-e813-4af7-8a2e-adb2673a0581#ref=rss)
-### suga
-
-* [https://www.spiegel.de/kultur/musik/k-pop-bts-saenger-suga-beendet-zivildienst-als-letztes-mitglied](https://www.spiegel.de/kultur/musik/k-pop-bts-saenger-suga-beendet-zivildienst-als-letztes-mitglied-a-dbddd544-49b8-4a6a-834e-eb88b581229a#ref=rss)
-### opel
-
-* [https://www.spiegel.de/auto/fahrberichte/opel-frontera-im-test-einsteiger-e-suv-mit-vertrautem-namen](https://www.spiegel.de/auto/fahrberichte/opel-frontera-im-test-einsteiger-e-suv-mit-vertrautem-namen-a-5f927450-5fa4-4e79-b09d-c7d68eec854b#ref=rss)
-### frontera
-
-* [https://www.spiegel.de/auto/fahrberichte/opel-frontera-im-test-einsteiger-e-suv-mit-vertrautem-namen](https://www.spiegel.de/auto/fahrberichte/opel-frontera-im-test-einsteiger-e-suv-mit-vertrautem-namen-a-5f927450-5fa4-4e79-b09d-c7d68eec854b#ref=rss)
-### test
-
-* [https://www.spiegel.de/auto/fahrberichte/opel-frontera-im-test-einsteiger-e-suv-mit-vertrautem-namen](https://www.spiegel.de/auto/fahrberichte/opel-frontera-im-test-einsteiger-e-suv-mit-vertrautem-namen-a-5f927450-5fa4-4e79-b09d-c7d68eec854b#ref=rss)
-* [https://www.spiegel.de/tests/kueche/eiswuerfelformen-im-test-eiskalt-erfrischt](https://www.spiegel.de/tests/kueche/eiswuerfelformen-im-test-eiskalt-erfrischt-a-40e003af-9b66-400d-b805-1beb673a32ab#ref=rss)
-### namen
-
-* [https://www.spiegel.de/auto/fahrberichte/opel-frontera-im-test-einsteiger-e-suv-mit-vertrautem-namen](https://www.spiegel.de/auto/fahrberichte/opel-frontera-im-test-einsteiger-e-suv-mit-vertrautem-namen-a-5f927450-5fa4-4e79-b09d-c7d68eec854b#ref=rss)
-### wir
-
-* [https://www.spiegel.de/auto/fahrberichte/opel-frontera-im-test-einsteiger-e-suv-mit-vertrautem-namen](https://www.spiegel.de/auto/fahrberichte/opel-frontera-im-test-einsteiger-e-suv-mit-vertrautem-namen-a-5f927450-5fa4-4e79-b09d-c7d68eec854b#ref=rss)
-* [https://www.spiegel.de/tests/kueche/eiswuerfelformen-im-test-eiskalt-erfrischt](https://www.spiegel.de/tests/kueche/eiswuerfelformen-im-test-eiskalt-erfrischt-a-40e003af-9b66-400d-b805-1beb673a32ab#ref=rss)
-### woidke
-
-* [https://www.spiegel.de/politik/brandenburg-dietmar-woidke-als-spd-chef-bestaetigt](https://www.spiegel.de/politik/brandenburg-dietmar-woidke-als-spd-chef-bestaetigt-a-effe2e18-0243-4fe6-88df-eff45a0cf9e1#ref=rss)
-### bestätigt
-
-* [https://www.spiegel.de/politik/brandenburg-dietmar-woidke-als-spd-chef-bestaetigt](https://www.spiegel.de/politik/brandenburg-dietmar-woidke-als-spd-chef-bestaetigt-a-effe2e18-0243-4fe6-88df-eff45a0cf9e1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-chef-klingbeil-fuer-afd-verbotsverfahren-ein-historischer-auftrag](https://www.spiegel.de/politik/deutschland/spd-chef-klingbeil-fuer-afd-verbotsverfahren-ein-historischer-auftrag-a-c17943ad-51d9-4285-9f4d-1d20539dc745#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-der-krieg-gegen-iran-was-der-us-angriff-fuer-den-nahen-osten-bedeutet](https://www.spiegel.de/ausland/donald-trump-und-der-krieg-gegen-iran-was-der-us-angriff-fuer-den-nahen-osten-bedeutet-a-cf8bad73-44e0-4009-b7f7-48cfedf08bff#ref=rss)
 ### weg
 
-* [https://www.spiegel.de/ausland/migration-fluechtling-aus-china-durchquert-darien-dschungel-auf-dem-weg-in-die-usa](https://www.spiegel.de/ausland/migration-fluechtling-aus-china-durchquert-darien-dschungel-auf-dem-weg-in-die-usa-a-f9b6b9bd-d6eb-450c-b79c-8fd7f911dbd6#ref=rss)
-### essen
+* [https://www.spiegel.de/politik/deutschland/spd-chef-klingbeil-fuer-afd-verbotsverfahren-ein-historischer-auftrag](https://www.spiegel.de/politik/deutschland/spd-chef-klingbeil-fuer-afd-verbotsverfahren-ein-historischer-auftrag-a-c17943ad-51d9-4285-9f4d-1d20539dc745#ref=rss)
+* [https://www.spiegel.de/panorama/opioid-abhaengigkeit-tilman-starb-mit-24-seine-familie-kaempft-fuer-praevention](https://www.spiegel.de/panorama/opioid-abhaengigkeit-tilman-starb-mit-24-seine-familie-kaempft-fuer-praevention-a-fe2921ec-2102-408e-aa55-7e8bbdfc53cc#ref=rss)
+### usangriff
 
-* [https://www.spiegel.de/panorama/justiz/essen-polizei-im-einsatz-gegen-gewalt-und-drogen-spiegel-tv](https://www.spiegel.de/panorama/justiz/essen-polizei-im-einsatz-gegen-gewalt-und-drogen-spiegel-tv-a-fe7582c2-08b4-4470-9a43-964153da47c3#ref=rss)
-### drogen
+* [https://www.spiegel.de/ausland/donald-trump-und-der-krieg-gegen-iran-was-der-us-angriff-fuer-den-nahen-osten-bedeutet](https://www.spiegel.de/ausland/donald-trump-und-der-krieg-gegen-iran-was-der-us-angriff-fuer-den-nahen-osten-bedeutet-a-cf8bad73-44e0-4009-b7f7-48cfedf08bff#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-sprache-in-der-politik-us-angriff-auf-iran-krankenkassen-wetter](https://www.spiegel.de/politik/deutschland/news-sprache-in-der-politik-us-angriff-auf-iran-krankenkassen-wetter-a-3ec0f154-dc18-4301-9afb-11ddd6d80521#ref=rss)
+### folgen
 
-* [https://www.spiegel.de/panorama/justiz/essen-polizei-im-einsatz-gegen-gewalt-und-drogen-spiegel-tv](https://www.spiegel.de/panorama/justiz/essen-polizei-im-einsatz-gegen-gewalt-und-drogen-spiegel-tv-a-fe7582c2-08b4-4470-9a43-964153da47c3#ref=rss)
-### kindern
+* [https://www.spiegel.de/ausland/donald-trump-und-der-krieg-gegen-iran-was-der-us-angriff-fuer-den-nahen-osten-bedeutet](https://www.spiegel.de/ausland/donald-trump-und-der-krieg-gegen-iran-was-der-us-angriff-fuer-den-nahen-osten-bedeutet-a-cf8bad73-44e0-4009-b7f7-48cfedf08bff#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-nahost-iran-droht-mit-konsequenzen-und-startet-raketenangriff-auf-israel](https://www.spiegel.de/ausland/krieg-in-nahost-iran-droht-mit-konsequenzen-und-startet-raketenangriff-auf-israel-a-621e43a1-28f6-42d8-9194-67e6037e3c93#ref=rss)
+### olaf
 
-* [https://www.spiegel.de/familie/sommer-mit-kindern-wie-viele-bleiben-mir-noch-und-was-macht-dieser-druck-mit-mir](https://www.spiegel.de/familie/sommer-mit-kindern-wie-viele-bleiben-mir-noch-und-was-macht-dieser-druck-mit-mir-a-832f20d3-fe03-4f57-ab63-abebccdacc48#ref=rss)
-### mir
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-kritik-an-ueppiger-ausstattung-fuer-kanzlerbuero](https://www.spiegel.de/politik/deutschland/olaf-scholz-kritik-an-ueppiger-ausstattung-fuer-kanzlerbuero-a-eefe6411-4abc-4c10-ae13-de2a37ff702a#ref=rss)
+### scholz
 
-* [https://www.spiegel.de/familie/sommer-mit-kindern-wie-viele-bleiben-mir-noch-und-was-macht-dieser-druck-mit-mir](https://www.spiegel.de/familie/sommer-mit-kindern-wie-viele-bleiben-mir-noch-und-was-macht-dieser-druck-mit-mir-a-832f20d3-fe03-4f57-ab63-abebccdacc48#ref=rss)
-### botox
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-kritik-an-ueppiger-ausstattung-fuer-kanzlerbuero](https://www.spiegel.de/politik/deutschland/olaf-scholz-kritik-an-ueppiger-ausstattung-fuer-kanzlerbuero-a-eefe6411-4abc-4c10-ae13-de2a37ff702a#ref=rss)
+### ausstattung
 
-* [https://www.spiegel.de/panorama/botox-dutzende-faelle-von-lebensgefaehrlichem-botulismus-durch-botox](https://www.spiegel.de/panorama/botox-dutzende-faelle-von-lebensgefaehrlichem-botulismus-durch-botox-a-0f0795a0-5b44-4fe8-8d39-0e70ee6fc1b0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-kritik-an-ueppiger-ausstattung-fuer-kanzlerbuero](https://www.spiegel.de/politik/deutschland/olaf-scholz-kritik-an-ueppiger-ausstattung-fuer-kanzlerbuero-a-eefe6411-4abc-4c10-ae13-de2a37ff702a#ref=rss)
+### anderen
+
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-kritik-an-ueppiger-ausstattung-fuer-kanzlerbuero](https://www.spiegel.de/politik/deutschland/olaf-scholz-kritik-an-ueppiger-ausstattung-fuer-kanzlerbuero-a-eefe6411-4abc-4c10-ae13-de2a37ff702a#ref=rss)
+* [https://www.spiegel.de/ausland/usa-texas-fuehrt-pflicht-zum-aushang-der-zehn-gebote-in-schulen-ein](https://www.spiegel.de/ausland/usa-texas-fuehrt-pflicht-zum-aushang-der-zehn-gebote-in-schulen-ein-a-c4d1d7ac-2283-4908-a13d-1a3fa27595af#ref=rss)
+### pamela
+
+* [https://www.spiegel.de/kultur/pamela-anderson-britney-spears-und-co-wie-popkultur-frauen-zum-abschuss-freigab](https://www.spiegel.de/kultur/pamela-anderson-britney-spears-und-co-wie-popkultur-frauen-zum-abschuss-freigab-a-f5b99881-9a58-4e6c-adde-7cc1c75b95d8#ref=rss)
+### britney
+
+* [https://www.spiegel.de/kultur/pamela-anderson-britney-spears-und-co-wie-popkultur-frauen-zum-abschuss-freigab](https://www.spiegel.de/kultur/pamela-anderson-britney-spears-und-co-wie-popkultur-frauen-zum-abschuss-freigab-a-f5b99881-9a58-4e6c-adde-7cc1c75b95d8#ref=rss)
+### frauen
+
+* [https://www.spiegel.de/kultur/pamela-anderson-britney-spears-und-co-wie-popkultur-frauen-zum-abschuss-freigab](https://www.spiegel.de/kultur/pamela-anderson-britney-spears-und-co-wie-popkultur-frauen-zum-abschuss-freigab-a-f5b99881-9a58-4e6c-adde-7cc1c75b95d8#ref=rss)
+### abschuss
+
+* [https://www.spiegel.de/kultur/pamela-anderson-britney-spears-und-co-wie-popkultur-frauen-zum-abschuss-freigab](https://www.spiegel.de/kultur/pamela-anderson-britney-spears-und-co-wie-popkultur-frauen-zum-abschuss-freigab-a-f5b99881-9a58-4e6c-adde-7cc1c75b95d8#ref=rss)
+### girl
+
+* [https://www.spiegel.de/kultur/pamela-anderson-britney-spears-und-co-wie-popkultur-frauen-zum-abschuss-freigab](https://www.spiegel.de/kultur/pamela-anderson-britney-spears-und-co-wie-popkultur-frauen-zum-abschuss-freigab-a-f5b99881-9a58-4e6c-adde-7cc1c75b95d8#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/kultur/pamela-anderson-britney-spears-und-co-wie-popkultur-frauen-zum-abschuss-freigab](https://www.spiegel.de/kultur/pamela-anderson-britney-spears-und-co-wie-popkultur-frauen-zum-abschuss-freigab-a-f5b99881-9a58-4e6c-adde-7cc1c75b95d8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-sprache-in-der-politik-us-angriff-auf-iran-krankenkassen-wetter](https://www.spiegel.de/politik/deutschland/news-sprache-in-der-politik-us-angriff-auf-iran-krankenkassen-wetter-a-3ec0f154-dc18-4301-9afb-11ddd6d80521#ref=rss)
+### florian
+
+* [https://www.spiegel.de/sport/fussball/florian-wirtz-1-fc-koeln-profitiert-von-wechsel-zu-liverpool](https://www.spiegel.de/sport/fussball/florian-wirtz-1-fc-koeln-profitiert-von-wechsel-zu-liverpool-a-4be59275-9e8b-4170-af2e-41c7ab7f0177#ref=rss)
+### wirtz
+
+* [https://www.spiegel.de/sport/fussball/florian-wirtz-1-fc-koeln-profitiert-von-wechsel-zu-liverpool](https://www.spiegel.de/sport/fussball/florian-wirtz-1-fc-koeln-profitiert-von-wechsel-zu-liverpool-a-4be59275-9e8b-4170-af2e-41c7ab7f0177#ref=rss)
+### fc
+
+* [https://www.spiegel.de/sport/fussball/florian-wirtz-1-fc-koeln-profitiert-von-wechsel-zu-liverpool](https://www.spiegel.de/sport/fussball/florian-wirtz-1-fc-koeln-profitiert-von-wechsel-zu-liverpool-a-4be59275-9e8b-4170-af2e-41c7ab7f0177#ref=rss)
+### köln
+
+* [https://www.spiegel.de/sport/fussball/florian-wirtz-1-fc-koeln-profitiert-von-wechsel-zu-liverpool](https://www.spiegel.de/sport/fussball/florian-wirtz-1-fc-koeln-profitiert-von-wechsel-zu-liverpool-a-4be59275-9e8b-4170-af2e-41c7ab7f0177#ref=rss)
+### profitiert
+
+* [https://www.spiegel.de/sport/fussball/florian-wirtz-1-fc-koeln-profitiert-von-wechsel-zu-liverpool](https://www.spiegel.de/sport/fussball/florian-wirtz-1-fc-koeln-profitiert-von-wechsel-zu-liverpool-a-4be59275-9e8b-4170-af2e-41c7ab7f0177#ref=rss)
+### wechsel
+
+* [https://www.spiegel.de/sport/fussball/florian-wirtz-1-fc-koeln-profitiert-von-wechsel-zu-liverpool](https://www.spiegel.de/sport/fussball/florian-wirtz-1-fc-koeln-profitiert-von-wechsel-zu-liverpool-a-4be59275-9e8b-4170-af2e-41c7ab7f0177#ref=rss)
+### liverpool
+
+* [https://www.spiegel.de/sport/fussball/florian-wirtz-1-fc-koeln-profitiert-von-wechsel-zu-liverpool](https://www.spiegel.de/sport/fussball/florian-wirtz-1-fc-koeln-profitiert-von-wechsel-zu-liverpool-a-4be59275-9e8b-4170-af2e-41c7ab7f0177#ref=rss)
+### bäume
+
+* [https://www.spiegel.de/panorama/trockenheit-freiwilliges-giessen-als-rettung-fuer-bedrohte-baeume](https://www.spiegel.de/panorama/trockenheit-freiwilliges-giessen-als-rettung-fuer-bedrohte-baeume-a-e8a39b06-b110-4462-bbff-93240ec0a2c6#ref=rss)
+### heidelberg
+
+* [https://www.spiegel.de/panorama/heidelberg-vater-von-ast-auf-spielplatz-erschlagen](https://www.spiegel.de/panorama/heidelberg-vater-von-ast-auf-spielplatz-erschlagen-a-b0f39361-e718-47c4-82dc-488be1b19823#ref=rss)
+### spielplatz
+
+* [https://www.spiegel.de/panorama/heidelberg-vater-von-ast-auf-spielplatz-erschlagen](https://www.spiegel.de/panorama/heidelberg-vater-von-ast-auf-spielplatz-erschlagen-a-b0f39361-e718-47c4-82dc-488be1b19823#ref=rss)
+### mutter
+
+* [https://www.spiegel.de/panorama/heidelberg-vater-von-ast-auf-spielplatz-erschlagen](https://www.spiegel.de/panorama/heidelberg-vater-von-ast-auf-spielplatz-erschlagen-a-b0f39361-e718-47c4-82dc-488be1b19823#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-die-verschwundenen-kinder-von-damaskus](https://www.spiegel.de/ausland/syrien-die-verschwundenen-kinder-von-damaskus-a-e03fbd3c-941c-4835-80bb-6329b298866f#ref=rss)
+### aaron
+
+* [https://www.spiegel.de/panorama/leute/aaron-taylor-johnson-der-vielleicht-neue-bond-wollte-vaeterliches-ausstrahlen](https://www.spiegel.de/panorama/leute/aaron-taylor-johnson-der-vielleicht-neue-bond-wollte-vaeterliches-ausstrahlen-a-720efad7-8768-4ed0-8741-efc160f0900e#ref=rss)
+### taylorjohnson
+
+* [https://www.spiegel.de/panorama/leute/aaron-taylor-johnson-der-vielleicht-neue-bond-wollte-vaeterliches-ausstrahlen](https://www.spiegel.de/panorama/leute/aaron-taylor-johnson-der-vielleicht-neue-bond-wollte-vaeterliches-ausstrahlen-a-720efad7-8768-4ed0-8741-efc160f0900e#ref=rss)
+### neue
+
+* [https://www.spiegel.de/panorama/leute/aaron-taylor-johnson-der-vielleicht-neue-bond-wollte-vaeterliches-ausstrahlen](https://www.spiegel.de/panorama/leute/aaron-taylor-johnson-der-vielleicht-neue-bond-wollte-vaeterliches-ausstrahlen-a-720efad7-8768-4ed0-8741-efc160f0900e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/fruehrente-mehr-als-eine-viertelmillion-menschen-ohne-abschlaege-in-rente-gegangen](https://www.spiegel.de/wirtschaft/soziales/fruehrente-mehr-als-eine-viertelmillion-menschen-ohne-abschlaege-in-rente-gegangen-a-48a84e80-556f-4227-9d87-a20174364b9c#ref=rss)
+### spiegel
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-die-verschwundenen-kinder-von-damaskus](https://www.spiegel.de/ausland/syrien-die-verschwundenen-kinder-von-damaskus-a-e03fbd3c-941c-4835-80bb-6329b298866f#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### tag
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### bunkerbrechende
+
+* [https://www.spiegel.de/ausland/iran-us-kampfflieger-warfen-offenbar-mehrere-bunkerbrechende-bomben-ab](https://www.spiegel.de/ausland/iran-us-kampfflieger-warfen-offenbar-mehrere-bunkerbrechende-bomben-ab-a-3e60d164-fb46-4cdf-89fd-9b07c8b84923#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-krieg-usa-greifen-drei-ziele-in-iran-an-alles-wichtige-im-ueberblick](https://www.spiegel.de/ausland/israel-iran-krieg-usa-greifen-drei-ziele-in-iran-an-alles-wichtige-im-ueberblick-a-5efd7c64-45ee-46b4-81b5-fd91e6af5708#ref=rss)
+### bomben
+
+* [https://www.spiegel.de/ausland/iran-us-kampfflieger-warfen-offenbar-mehrere-bunkerbrechende-bomben-ab](https://www.spiegel.de/ausland/iran-us-kampfflieger-warfen-offenbar-mehrere-bunkerbrechende-bomben-ab-a-3e60d164-fb46-4cdf-89fd-9b07c8b84923#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-krieg-usa-greifen-drei-ziele-in-iran-an-alles-wichtige-im-ueberblick](https://www.spiegel.de/ausland/israel-iran-krieg-usa-greifen-drei-ziele-in-iran-an-alles-wichtige-im-ueberblick-a-5efd7c64-45ee-46b4-81b5-fd91e6af5708#ref=rss)
+### nation
+
+* [https://www.spiegel.de/ausland/iran-us-kampfflieger-warfen-offenbar-mehrere-bunkerbrechende-bomben-ab](https://www.spiegel.de/ausland/iran-us-kampfflieger-warfen-offenbar-mehrere-bunkerbrechende-bomben-ab-a-3e60d164-fb46-4cdf-89fd-9b07c8b84923#ref=rss)
+* [https://www.spiegel.de/ausland/us-angriff-auf-iran-donald-trump-haelt-rede-an-die-nation](https://www.spiegel.de/ausland/us-angriff-auf-iran-donald-trump-haelt-rede-an-die-nation-a-72b5c52b-5fcc-4ea7-9832-25587d530ed7#ref=rss)
+### präsident
+
+* [https://www.spiegel.de/ausland/iran-us-kampfflieger-warfen-offenbar-mehrere-bunkerbrechende-bomben-ab](https://www.spiegel.de/ausland/iran-us-kampfflieger-warfen-offenbar-mehrere-bunkerbrechende-bomben-ab-a-3e60d164-fb46-4cdf-89fd-9b07c8b84923#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-krieg-usa-greifen-drei-ziele-in-iran-an-alles-wichtige-im-ueberblick](https://www.spiegel.de/ausland/israel-iran-krieg-usa-greifen-drei-ziele-in-iran-an-alles-wichtige-im-ueberblick-a-5efd7c64-45ee-46b4-81b5-fd91e6af5708#ref=rss)
+### israel
+
+* [https://www.spiegel.de/ausland/israel-meldet-bergung-von-toten-geiseln-im-gazastreifen](https://www.spiegel.de/ausland/israel-meldet-bergung-von-toten-geiseln-im-gazastreifen-a-574c537d-5fde-4b30-ad16-90bbc14fd0ec#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-nahost-iran-droht-mit-konsequenzen-und-startet-raketenangriff-auf-israel](https://www.spiegel.de/ausland/krieg-in-nahost-iran-droht-mit-konsequenzen-und-startet-raketenangriff-auf-israel-a-621e43a1-28f6-42d8-9194-67e6037e3c93#ref=rss)
+### toten
+
+* [https://www.spiegel.de/ausland/israel-meldet-bergung-von-toten-geiseln-im-gazastreifen](https://www.spiegel.de/ausland/israel-meldet-bergung-von-toten-geiseln-im-gazastreifen-a-574c537d-5fde-4b30-ad16-90bbc14fd0ec#ref=rss)
+### geiseln
+
+* [https://www.spiegel.de/ausland/israel-meldet-bergung-von-toten-geiseln-im-gazastreifen](https://www.spiegel.de/ausland/israel-meldet-bergung-von-toten-geiseln-im-gazastreifen-a-574c537d-5fde-4b30-ad16-90bbc14fd0ec#ref=rss)
+### gazastreifen
+
+* [https://www.spiegel.de/ausland/israel-meldet-bergung-von-toten-geiseln-im-gazastreifen](https://www.spiegel.de/ausland/israel-meldet-bergung-von-toten-geiseln-im-gazastreifen-a-574c537d-5fde-4b30-ad16-90bbc14fd0ec#ref=rss)
+### zehn
+
+* [https://www.spiegel.de/ausland/usa-texas-fuehrt-pflicht-zum-aushang-der-zehn-gebote-in-schulen-ein](https://www.spiegel.de/ausland/usa-texas-fuehrt-pflicht-zum-aushang-der-zehn-gebote-in-schulen-ein-a-c4d1d7ac-2283-4908-a13d-1a3fa27595af#ref=rss)
+### gebote
+
+* [https://www.spiegel.de/ausland/usa-texas-fuehrt-pflicht-zum-aushang-der-zehn-gebote-in-schulen-ein](https://www.spiegel.de/ausland/usa-texas-fuehrt-pflicht-zum-aushang-der-zehn-gebote-in-schulen-ein-a-c4d1d7ac-2283-4908-a13d-1a3fa27595af#ref=rss)
+### sprache
+
+* [https://www.spiegel.de/politik/deutschland/news-sprache-in-der-politik-us-angriff-auf-iran-krankenkassen-wetter](https://www.spiegel.de/politik/deutschland/news-sprache-in-der-politik-us-angriff-auf-iran-krankenkassen-wetter-a-3ec0f154-dc18-4301-9afb-11ddd6d80521#ref=rss)
+### alles
+
+* [https://www.spiegel.de/politik/deutschland/news-sprache-in-der-politik-us-angriff-auf-iran-krankenkassen-wetter](https://www.spiegel.de/politik/deutschland/news-sprache-in-der-politik-us-angriff-auf-iran-krankenkassen-wetter-a-3ec0f154-dc18-4301-9afb-11ddd6d80521#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-krieg-usa-greifen-drei-ziele-in-iran-an-alles-wichtige-im-ueberblick](https://www.spiegel.de/ausland/israel-iran-krieg-usa-greifen-drei-ziele-in-iran-an-alles-wichtige-im-ueberblick-a-5efd7c64-45ee-46b4-81b5-fd91e6af5708#ref=rss)
+### intelligenz
+
+* [https://www.spiegel.de/wissenschaft/natur/kuenstliche-intelligenz-in-der-verhaltensforschung-gibt-es-bald-catgpt-und-uhulingo](https://www.spiegel.de/wissenschaft/natur/kuenstliche-intelligenz-in-der-verhaltensforschung-gibt-es-bald-catgpt-und-uhulingo-a-e2fe8f62-d83b-42a7-ac64-f5da8c66eef2#ref=rss)
+### rente
+
+* [https://www.spiegel.de/wirtschaft/soziales/fruehrente-mehr-als-eine-viertelmillion-menschen-ohne-abschlaege-in-rente-gegangen](https://www.spiegel.de/wirtschaft/soziales/fruehrente-mehr-als-eine-viertelmillion-menschen-ohne-abschlaege-in-rente-gegangen-a-48a84e80-556f-4227-9d87-a20174364b9c#ref=rss)
+### experten
+
+* [https://www.spiegel.de/wirtschaft/soziales/fruehrente-mehr-als-eine-viertelmillion-menschen-ohne-abschlaege-in-rente-gegangen](https://www.spiegel.de/wirtschaft/soziales/fruehrente-mehr-als-eine-viertelmillion-menschen-ohne-abschlaege-in-rente-gegangen-a-48a84e80-556f-4227-9d87-a20174364b9c#ref=rss)
+* [https://www.spiegel.de/netzwelt/livestreaming-aus-dem-auto-ist-das-legal](https://www.spiegel.de/netzwelt/livestreaming-aus-dem-auto-ist-das-legal-a-53e8d872-f4b0-486b-9d61-d7192cec08d6#ref=rss)
+### pelé
+
+* [https://www.spiegel.de/sport/fussball/pele-franz-beckenbauer-new-york-cosmos-lionel-messi-der-amerikanische-fussball-traum](https://www.spiegel.de/sport/fussball/pele-franz-beckenbauer-new-york-cosmos-lionel-messi-der-amerikanische-fussball-traum-a-cdfb1f0b-208c-4cdd-a162-4aa56feead3a#ref=rss)
+### beckenbauer
+
+* [https://www.spiegel.de/sport/fussball/pele-franz-beckenbauer-new-york-cosmos-lionel-messi-der-amerikanische-fussball-traum](https://www.spiegel.de/sport/fussball/pele-franz-beckenbauer-new-york-cosmos-lionel-messi-der-amerikanische-fussball-traum-a-cdfb1f0b-208c-4cdd-a162-4aa56feead3a#ref=rss)
+### new
+
+* [https://www.spiegel.de/sport/fussball/pele-franz-beckenbauer-new-york-cosmos-lionel-messi-der-amerikanische-fussball-traum](https://www.spiegel.de/sport/fussball/pele-franz-beckenbauer-new-york-cosmos-lionel-messi-der-amerikanische-fussball-traum-a-cdfb1f0b-208c-4cdd-a162-4aa56feead3a#ref=rss)
+### york
+
+* [https://www.spiegel.de/sport/fussball/pele-franz-beckenbauer-new-york-cosmos-lionel-messi-der-amerikanische-fussball-traum](https://www.spiegel.de/sport/fussball/pele-franz-beckenbauer-new-york-cosmos-lionel-messi-der-amerikanische-fussball-traum-a-cdfb1f0b-208c-4cdd-a162-4aa56feead3a#ref=rss)
+### cosmos
+
+* [https://www.spiegel.de/sport/fussball/pele-franz-beckenbauer-new-york-cosmos-lionel-messi-der-amerikanische-fussball-traum](https://www.spiegel.de/sport/fussball/pele-franz-beckenbauer-new-york-cosmos-lionel-messi-der-amerikanische-fussball-traum-a-cdfb1f0b-208c-4cdd-a162-4aa56feead3a#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/sport/fussball/pele-franz-beckenbauer-new-york-cosmos-lionel-messi-der-amerikanische-fussball-traum](https://www.spiegel.de/sport/fussball/pele-franz-beckenbauer-new-york-cosmos-lionel-messi-der-amerikanische-fussball-traum-a-cdfb1f0b-208c-4cdd-a162-4aa56feead3a#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-die-verschwundenen-kinder-von-damaskus](https://www.spiegel.de/ausland/syrien-die-verschwundenen-kinder-von-damaskus-a-e03fbd3c-941c-4835-80bb-6329b298866f#ref=rss)
+### sucht
+
+* [https://www.spiegel.de/ausland/syrien-die-verschwundenen-kinder-von-damaskus](https://www.spiegel.de/ausland/syrien-die-verschwundenen-kinder-von-damaskus-a-e03fbd3c-941c-4835-80bb-6329b298866f#ref=rss)
+* [https://www.spiegel.de/panorama/opioid-abhaengigkeit-tilman-starb-mit-24-seine-familie-kaempft-fuer-praevention](https://www.spiegel.de/panorama/opioid-abhaengigkeit-tilman-starb-mit-24-seine-familie-kaempft-fuer-praevention-a-fe2921ec-2102-408e-aa55-7e8bbdfc53cc#ref=rss)
+### internationale
+
+* [https://www.spiegel.de/ausland/iran-internationale-reaktionen-auf-us-luftschlaege-im-iran](https://www.spiegel.de/ausland/iran-internationale-reaktionen-auf-us-luftschlaege-im-iran-a-f39ba2ac-28f0-4837-a65b-21887daf4365#ref=rss)
+### bärbel
+
+* [https://www.spiegel.de/politik/deutschland/baerbel-bas-will-die-spd-retten-aber-wie](https://www.spiegel.de/politik/deutschland/baerbel-bas-will-die-spd-retten-aber-wie-a-f7353ecc-0284-4eaa-9c3e-f9ef5028f0f9#ref=rss)
+### bas
+
+* [https://www.spiegel.de/politik/deutschland/baerbel-bas-will-die-spd-retten-aber-wie](https://www.spiegel.de/politik/deutschland/baerbel-bas-will-die-spd-retten-aber-wie-a-f7353ecc-0284-4eaa-9c3e-f9ef5028f0f9#ref=rss)
+### partei
+
+* [https://www.spiegel.de/politik/deutschland/baerbel-bas-will-die-spd-retten-aber-wie](https://www.spiegel.de/politik/deutschland/baerbel-bas-will-die-spd-retten-aber-wie-a-f7353ecc-0284-4eaa-9c3e-f9ef5028f0f9#ref=rss)
+* [https://www.spiegel.de/ausland/reaktionen-auf-us-angriff-gegen-iran-republikaner-bejubeln-trump-demokratin-fordert-amtsenthebungsverfahren](https://www.spiegel.de/ausland/reaktionen-auf-us-angriff-gegen-iran-republikaner-bejubeln-trump-demokratin-fordert-amtsenthebungsverfahren-a-3d85ccb7-24aa-41a5-994c-ee5b83214940#ref=rss)
+### droht
+
+* [https://www.spiegel.de/ausland/krieg-in-nahost-iran-droht-mit-konsequenzen-und-startet-raketenangriff-auf-israel](https://www.spiegel.de/ausland/krieg-in-nahost-iran-droht-mit-konsequenzen-und-startet-raketenangriff-auf-israel-a-621e43a1-28f6-42d8-9194-67e6037e3c93#ref=rss)
+* [https://www.spiegel.de/ausland/us-angriff-auf-iran-donald-trump-haelt-rede-an-die-nation](https://www.spiegel.de/ausland/us-angriff-auf-iran-donald-trump-haelt-rede-an-die-nation-a-72b5c52b-5fcc-4ea7-9832-25587d530ed7#ref=rss)
+### konsequenzen
+
+* [https://www.spiegel.de/ausland/krieg-in-nahost-iran-droht-mit-konsequenzen-und-startet-raketenangriff-auf-israel](https://www.spiegel.de/ausland/krieg-in-nahost-iran-droht-mit-konsequenzen-und-startet-raketenangriff-auf-israel-a-621e43a1-28f6-42d8-9194-67e6037e3c93#ref=rss)
+* [https://www.spiegel.de/ausland/reaktionen-auf-us-angriff-gegen-iran-republikaner-bejubeln-trump-demokratin-fordert-amtsenthebungsverfahren](https://www.spiegel.de/ausland/reaktionen-auf-us-angriff-gegen-iran-republikaner-bejubeln-trump-demokratin-fordert-amtsenthebungsverfahren-a-3d85ccb7-24aa-41a5-994c-ee5b83214940#ref=rss)
+### fordo
+
+* [https://www.spiegel.de/ausland/donald-trump-ueber-luftangriffe-irans-wichtigste-nuklearanreicherungsanlagen-komplett-ausgeloescht](https://www.spiegel.de/ausland/donald-trump-ueber-luftangriffe-irans-wichtigste-nuklearanreicherungsanlagen-komplett-ausgeloescht-a-a3130d46-d306-4616-8d50-c01ab15c3abe#ref=rss)
+### natans
+
+* [https://www.spiegel.de/ausland/donald-trump-ueber-luftangriffe-irans-wichtigste-nuklearanreicherungsanlagen-komplett-ausgeloescht](https://www.spiegel.de/ausland/donald-trump-ueber-luftangriffe-irans-wichtigste-nuklearanreicherungsanlagen-komplett-ausgeloescht-a-a3130d46-d306-4616-8d50-c01ab15c3abe#ref=rss)
+### isfahan
+
+* [https://www.spiegel.de/ausland/donald-trump-ueber-luftangriffe-irans-wichtigste-nuklearanreicherungsanlagen-komplett-ausgeloescht](https://www.spiegel.de/ausland/donald-trump-ueber-luftangriffe-irans-wichtigste-nuklearanreicherungsanlagen-komplett-ausgeloescht-a-a3130d46-d306-4616-8d50-c01ab15c3abe#ref=rss)
+### tilman
+
+* [https://www.spiegel.de/panorama/opioid-abhaengigkeit-tilman-starb-mit-24-seine-familie-kaempft-fuer-praevention](https://www.spiegel.de/panorama/opioid-abhaengigkeit-tilman-starb-mit-24-seine-familie-kaempft-fuer-praevention-a-fe2921ec-2102-408e-aa55-7e8bbdfc53cc#ref=rss)
+### 24
+
+* [https://www.spiegel.de/panorama/opioid-abhaengigkeit-tilman-starb-mit-24-seine-familie-kaempft-fuer-praevention](https://www.spiegel.de/panorama/opioid-abhaengigkeit-tilman-starb-mit-24-seine-familie-kaempft-fuer-praevention-a-fe2921ec-2102-408e-aa55-7e8bbdfc53cc#ref=rss)
+### notredame
+
+* [https://www.spiegel.de/geschichte/wiederaufbau-von-notre-dame-in-paris-was-forscher-ueber-den-kathedralenbau-im-mittelalter-erfuhren](https://www.spiegel.de/geschichte/wiederaufbau-von-notre-dame-in-paris-was-forscher-ueber-den-kathedralenbau-im-mittelalter-erfuhren-a-3cfb3334-c041-473c-86ca-a4799ec5f554#ref=rss)
+### mittelalter
+
+* [https://www.spiegel.de/geschichte/wiederaufbau-von-notre-dame-in-paris-was-forscher-ueber-den-kathedralenbau-im-mittelalter-erfuhren](https://www.spiegel.de/geschichte/wiederaufbau-von-notre-dame-in-paris-was-forscher-ueber-den-kathedralenbau-im-mittelalter-erfuhren-a-3cfb3334-c041-473c-86ca-a4799ec5f554#ref=rss)
+### auto
+
+* [https://www.spiegel.de/netzwelt/livestreaming-aus-dem-auto-ist-das-legal](https://www.spiegel.de/netzwelt/livestreaming-aus-dem-auto-ist-das-legal-a-53e8d872-f4b0-486b-9d61-d7192cec08d6#ref=rss)
+### drei
+
+* [https://www.spiegel.de/netzwelt/livestreaming-aus-dem-auto-ist-das-legal](https://www.spiegel.de/netzwelt/livestreaming-aus-dem-auto-ist-das-legal-a-53e8d872-f4b0-486b-9d61-d7192cec08d6#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-krieg-usa-greifen-drei-ziele-in-iran-an-alles-wichtige-im-ueberblick](https://www.spiegel.de/ausland/israel-iran-krieg-usa-greifen-drei-ziele-in-iran-an-alles-wichtige-im-ueberblick-a-5efd7c64-45ee-46b4-81b5-fd91e6af5708#ref=rss)
+### rede
+
+* [https://www.spiegel.de/ausland/us-angriff-auf-iran-donald-trump-haelt-rede-an-die-nation](https://www.spiegel.de/ausland/us-angriff-auf-iran-donald-trump-haelt-rede-an-die-nation-a-72b5c52b-5fcc-4ea7-9832-25587d530ed7#ref=rss)
+### greifen
+
+* [https://www.spiegel.de/ausland/us-luftschlaege-gegen-iran-donald-trumps-kalkuliertes-risiko](https://www.spiegel.de/ausland/us-luftschlaege-gegen-iran-donald-trumps-kalkuliertes-risiko-a-9459ee44-2959-4b59-a8e0-966243b87f67#ref=rss)
+* [https://www.spiegel.de/ausland/reaktionen-auf-us-angriff-gegen-iran-republikaner-bejubeln-trump-demokratin-fordert-amtsenthebungsverfahren](https://www.spiegel.de/ausland/reaktionen-auf-us-angriff-gegen-iran-republikaner-bejubeln-trump-demokratin-fordert-amtsenthebungsverfahren-a-3d85ccb7-24aa-41a5-994c-ee5b83214940#ref=rss)
+### überblick
+
+* [https://www.spiegel.de/ausland/israel-iran-krieg-usa-greifen-drei-ziele-in-iran-an-alles-wichtige-im-ueberblick](https://www.spiegel.de/ausland/israel-iran-krieg-usa-greifen-drei-ziele-in-iran-an-alles-wichtige-im-ueberblick-a-5efd7c64-45ee-46b4-81b5-fd91e6af5708#ref=rss)
 
