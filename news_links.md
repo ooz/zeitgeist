@@ -6,362 +6,420 @@ tags: __no_header__
 
 ### iran
 
-* [https://www.spiegel.de/ausland/iran-israel-usa-news-donald-trump-aeussert-sich-ueber-regimewechsel-in-teheran-miga](https://www.spiegel.de/ausland/iran-israel-usa-news-donald-trump-aeussert-sich-ueber-regimewechsel-in-teheran-miga-a-e94350ce-15df-4a6f-9301-c6146bf3311b#ref=rss)
-* [https://www.spiegel.de/ausland/griechenland-mutmasslicher-spion-aus-aserbaidschan-auf-kreta-festgenommen](https://www.spiegel.de/ausland/griechenland-mutmasslicher-spion-aus-aserbaidschan-auf-kreta-festgenommen-a-c6de9a0d-0d20-46b8-988f-f66017552e8b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/iran-krieg-oekonomen-warnen-vor-oelpreis-schock-bei-hormus-blockade](https://www.spiegel.de/wirtschaft/iran-krieg-oekonomen-warnen-vor-oelpreis-schock-bei-hormus-blockade-a-4da056d1-71de-47db-bfbf-962c34dc7033#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-der-iran-krieg-er-ist-kein-krieger-kommentar](https://www.spiegel.de/ausland/donald-trump-und-der-iran-krieg-er-ist-kein-krieger-kommentar-a-e54ad0e5-d3ec-4395-9003-78e05f41b721#ref=rss)
-* [https://www.spiegel.de/ausland/usa-und-iran-die-presseschau-in-der-verbleibenden-amtszeit-von-trump-ist-alles-moeglich](https://www.spiegel.de/ausland/usa-und-iran-die-presseschau-in-der-verbleibenden-amtszeit-von-trump-ist-alles-moeglich-a-84f0afd5-7112-46ce-9e67-478b3daabf95#ref=rss)
-* [https://www.spiegel.de/ausland/usa-greifen-iran-an-donald-trump-agiert-verfassungswidrig-vermutlich-wird-es-folgenlos-bleiben](https://www.spiegel.de/ausland/usa-greifen-iran-an-donald-trump-agiert-verfassungswidrig-vermutlich-wird-es-folgenlos-bleiben-a-fc607d9f-2e6a-48e8-90cb-e29846204d87#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/usa-nach-dem-angriff-auf-irans-nuklearanlagen-ende-des-krieges-oder-endloskrieg](https://www.spiegel.de/ausland/usa-nach-dem-angriff-auf-irans-nuklearanlagen-ende-des-krieges-oder-endloskrieg-a-77c74172-61c9-4c70-9980-b3976e9b956c#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-der-iran-krieg-er-ist-kein-krieger-kommentar](https://www.spiegel.de/ausland/donald-trump-und-der-iran-krieg-er-ist-kein-krieger-kommentar-a-e54ad0e5-d3ec-4395-9003-78e05f41b721#ref=rss)
-* [https://www.spiegel.de/ausland/usa-und-iran-die-presseschau-in-der-verbleibenden-amtszeit-von-trump-ist-alles-moeglich](https://www.spiegel.de/ausland/usa-und-iran-die-presseschau-in-der-verbleibenden-amtszeit-von-trump-ist-alles-moeglich-a-84f0afd5-7112-46ce-9e67-478b3daabf95#ref=rss)
-* [https://www.spiegel.de/wirtschaft/boerse-europas-finanzmaerkte-uebertrumpfen-erstmals-seit-jahren-die-aus-den-usa](https://www.spiegel.de/wirtschaft/boerse-europas-finanzmaerkte-uebertrumpfen-erstmals-seit-jahren-die-aus-den-usa-a-6060694c-0a06-4539-a3a5-9bc716076315#ref=rss)
-* [https://www.spiegel.de/ausland/usa-greifen-iran-an-donald-trump-agiert-verfassungswidrig-vermutlich-wird-es-folgenlos-bleiben](https://www.spiegel.de/ausland/usa-greifen-iran-an-donald-trump-agiert-verfassungswidrig-vermutlich-wird-es-folgenlos-bleiben-a-fc607d9f-2e6a-48e8-90cb-e29846204d87#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/usa-nach-dem-angriff-auf-irans-nuklearanlagen-ende-des-krieges-oder-endloskrieg](https://www.spiegel.de/ausland/usa-nach-dem-angriff-auf-irans-nuklearanlagen-ende-des-krieges-oder-endloskrieg-a-77c74172-61c9-4c70-9980-b3976e9b956c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/iran-krieg-oekonomen-warnen-vor-oelpreis-schock-bei-hormus-blockade](https://www.spiegel.de/wirtschaft/iran-krieg-oekonomen-warnen-vor-oelpreis-schock-bei-hormus-blockade-a-4da056d1-71de-47db-bfbf-962c34dc7033#ref=rss)
-* [https://www.spiegel.de/ausland/usa-und-iran-die-presseschau-in-der-verbleibenden-amtszeit-von-trump-ist-alles-moeglich](https://www.spiegel.de/ausland/usa-und-iran-die-presseschau-in-der-verbleibenden-amtszeit-von-trump-ist-alles-moeglich-a-84f0afd5-7112-46ce-9e67-478b3daabf95#ref=rss)
-* [https://www.spiegel.de/wirtschaft/boerse-europas-finanzmaerkte-uebertrumpfen-erstmals-seit-jahren-die-aus-den-usa](https://www.spiegel.de/wirtschaft/boerse-europas-finanzmaerkte-uebertrumpfen-erstmals-seit-jahren-die-aus-den-usa-a-6060694c-0a06-4539-a3a5-9bc716076315#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/umfrage-mehrheit-der-deutschen-fuer-aufbau-eines-atom-schutzschirms-in-europa](https://www.spiegel.de/politik/deutschland/umfrage-mehrheit-der-deutschen-fuer-aufbau-eines-atom-schutzschirms-in-europa-a-b6f7ce77-8022-464b-8f52-4e6f19eba9f0#ref=rss)
-* [https://www.spiegel.de/ausland/usa-greifen-iran-an-donald-trump-agiert-verfassungswidrig-vermutlich-wird-es-folgenlos-bleiben](https://www.spiegel.de/ausland/usa-greifen-iran-an-donald-trump-agiert-verfassungswidrig-vermutlich-wird-es-folgenlos-bleiben-a-fc607d9f-2e6a-48e8-90cb-e29846204d87#ref=rss)
-### cyrus
-
-* [https://www.spiegel.de/panorama/london-billy-ray-cyrus-und-liz-hurley-besuchen-der-premiere-von-miley-cyrus](https://www.spiegel.de/panorama/london-billy-ray-cyrus-und-liz-hurley-besuchen-der-premiere-von-miley-cyrus-a-0379b7b3-6b88-480f-b4f5-e2e0514c146f#ref=rss)
-### griechenland
-
-* [https://www.spiegel.de/panorama/griechenland-braende-auf-chios-behoerden-gehen-von-brandstiftung-aus](https://www.spiegel.de/panorama/griechenland-braende-auf-chios-behoerden-gehen-von-brandstiftung-aus-a-73004c5d-3582-492b-8469-82a1a0fd12e2#ref=rss)
-* [https://www.spiegel.de/ausland/griechenland-mutmasslicher-spion-aus-aserbaidschan-auf-kreta-festgenommen](https://www.spiegel.de/ausland/griechenland-mutmasslicher-spion-aus-aserbaidschan-auf-kreta-festgenommen-a-c6de9a0d-0d20-46b8-988f-f66017552e8b#ref=rss)
-* [https://www.spiegel.de/reise/europa/neues-camper-gesetz-in-griechenland-ist-freies-stehen-am-meer-vorbei](https://www.spiegel.de/reise/europa/neues-camper-gesetz-in-griechenland-ist-freies-stehen-am-meer-vorbei-a-08a47947-5869-4ffa-a20f-745b6828297c#ref=rss)
+* [https://www.spiegel.de/ausland/usa-und-iran-bernie-sanders-verurteilt-angriff-auf-iran](https://www.spiegel.de/ausland/usa-und-iran-bernie-sanders-verurteilt-angriff-auf-iran-a-68802688-2cdc-448a-a4b9-b8617fb42507#ref=rss)
+* [https://www.spiegel.de/ausland/us-vs-iran-bomben-auf-das-iranischen-atomprogramm](https://www.spiegel.de/ausland/us-vs-iran-bomben-auf-das-iranischen-atomprogramm-a-ec075c15-acf0-4ae2-9c19-104528744de3#ref=rss)
+* [https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost](https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-a-a914f3f7-3012-4673-9fb6-6f2b5b6c08bc#ref=rss)
+* [https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-podcast](https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-podcast-a-9f4dda69-ee12-45b5-99c2-55a6a151cd52#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-israel-bombardiert-iran-strasse-von-hormus-europas-boersen](https://www.spiegel.de/politik/deutschland/news-des-tages-israel-bombardiert-iran-strasse-von-hormus-europas-boersen-a-e8c81e5d-dc02-4805-82f5-b5b765e0951b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/iran-cdu-spitze-widerspricht-aussenminister-johann-wadephul-nach-aussagen-zu-nahost](https://www.spiegel.de/politik/deutschland/iran-cdu-spitze-widerspricht-aussenminister-johann-wadephul-nach-aussagen-zu-nahost-a-9af42929-8687-49c4-b22b-a36e1205f39e#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/ausland/donald-trump-und-der-iran-krieg-er-ist-kein-krieger-kommentar](https://www.spiegel.de/ausland/donald-trump-und-der-iran-krieg-er-ist-kein-krieger-kommentar-a-e54ad0e5-d3ec-4395-9003-78e05f41b721#ref=rss)
-* [https://www.spiegel.de/ausland/usa-greifen-iran-an-donald-trump-agiert-verfassungswidrig-vermutlich-wird-es-folgenlos-bleiben](https://www.spiegel.de/ausland/usa-greifen-iran-an-donald-trump-agiert-verfassungswidrig-vermutlich-wird-es-folgenlos-bleiben-a-fc607d9f-2e6a-48e8-90cb-e29846204d87#ref=rss)
+* [https://www.spiegel.de/ausland/us-vs-iran-bomben-auf-das-iranischen-atomprogramm](https://www.spiegel.de/ausland/us-vs-iran-bomben-auf-das-iranischen-atomprogramm-a-ec075c15-acf0-4ae2-9c19-104528744de3#ref=rss)
+* [https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost](https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-a-a914f3f7-3012-4673-9fb6-6f2b5b6c08bc#ref=rss)
+* [https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-podcast](https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-podcast-a-9f4dda69-ee12-45b5-99c2-55a6a151cd52#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/nasa-amtierende-chefin-janet-petro-verteidigt-sparplaene-von-donald-trump](https://www.spiegel.de/wissenschaft/weltall/nasa-amtierende-chefin-janet-petro-verteidigt-sparplaene-von-donald-trump-a-38d65a79-39fe-4d04-b928-bb0c2a5f6dab#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/donald-trump-und-der-westen-die-grosse-unterwuerfigkeit-kommentar](https://www.spiegel.de/politik/deutschland/donald-trump-und-der-westen-die-grosse-unterwuerfigkeit-kommentar-a-2372984e-d42f-406a-a35b-faa3898ca786#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/us-vs-iran-bomben-auf-das-iranischen-atomprogramm](https://www.spiegel.de/ausland/us-vs-iran-bomben-auf-das-iranischen-atomprogramm-a-ec075c15-acf0-4ae2-9c19-104528744de3#ref=rss)
+* [https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost](https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-a-a914f3f7-3012-4673-9fb6-6f2b5b6c08bc#ref=rss)
+* [https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-podcast](https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-podcast-a-9f4dda69-ee12-45b5-99c2-55a6a151cd52#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/nasa-amtierende-chefin-janet-petro-verteidigt-sparplaene-von-donald-trump](https://www.spiegel.de/wissenschaft/weltall/nasa-amtierende-chefin-janet-petro-verteidigt-sparplaene-von-donald-trump-a-38d65a79-39fe-4d04-b928-bb0c2a5f6dab#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/donald-trump-und-der-westen-die-grosse-unterwuerfigkeit-kommentar](https://www.spiegel.de/politik/deutschland/donald-trump-und-der-westen-die-grosse-unterwuerfigkeit-kommentar-a-2372984e-d42f-406a-a35b-faa3898ca786#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/politik/deutschland/ralf-stegner-soll-geheimdienst-kontrollgremium-verlassen](https://www.spiegel.de/politik/deutschland/ralf-stegner-soll-geheimdienst-kontrollgremium-verlassen-a-f811927f-1b65-4df8-8f55-68d70e938089#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/osnabrueck-mann-erschiesst-offenbar-ex-partnerin-und-sich-selbst](https://www.spiegel.de/panorama/justiz/osnabrueck-mann-erschiesst-offenbar-ex-partnerin-und-sich-selbst-a-041fd085-f199-41b6-9391-5696e54889ac#ref=rss)
+* [https://www.spiegel.de/panorama/wieren-bei-uelzen-blitz-schlaegt-nachts-in-kirche-ein-und-laesst-die-glocke-dauerlaeuten](https://www.spiegel.de/panorama/wieren-bei-uelzen-blitz-schlaegt-nachts-in-kirche-ein-und-laesst-die-glocke-dauerlaeuten-a-31d1f1ff-ff0d-4790-96de-0a71cd542f63#ref=rss)
+* [https://www.spiegel.de/karriere/verlag-axel-springer-mitarbeitende-kritisieren-schaerfere-bueropflicht](https://www.spiegel.de/karriere/verlag-axel-springer-mitarbeitende-kritisieren-schaerfere-bueropflicht-a-7f1207b7-de7b-4f7a-a064-ce16f32fbf40#ref=rss)
+* [https://www.spiegel.de/wissenschaft/orcas-putzen-einander-offenbar-mit-selbstgebauten-werkzeugen](https://www.spiegel.de/wissenschaft/orcas-putzen-einander-offenbar-mit-selbstgebauten-werkzeugen-a-125a8cf6-b3d4-4376-a17a-bf26f44007e1#ref=rss)
+### usa
+
+* [https://www.spiegel.de/ausland/usa-und-iran-bernie-sanders-verurteilt-angriff-auf-iran](https://www.spiegel.de/ausland/usa-und-iran-bernie-sanders-verurteilt-angriff-auf-iran-a-68802688-2cdc-448a-a4b9-b8617fb42507#ref=rss)
+* [https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost](https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-a-a914f3f7-3012-4673-9fb6-6f2b5b6c08bc#ref=rss)
+* [https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-podcast](https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-podcast-a-9f4dda69-ee12-45b5-99c2-55a6a151cd52#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/b2-spirit-wie-amerikas-tarnkappenbomber-sich-vor-feinden-verbirgt](https://www.spiegel.de/wissenschaft/technik/b2-spirit-wie-amerikas-tarnkappenbomber-sich-vor-feinden-verbirgt-a-6e958d09-e384-434f-ad79-421a08fcc788#ref=rss)
+* [https://www.spiegel.de/wirtschaft/wirtschaft-bdi-rechnet-mit-konjunkturschwaeche-durch-zollstreit-mit-den-usa](https://www.spiegel.de/wirtschaft/wirtschaft-bdi-rechnet-mit-konjunkturschwaeche-durch-zollstreit-mit-den-usa-a-a4366605-80e1-4adb-8203-5d214725377f#ref=rss)
+### straße
+
+* [https://www.spiegel.de/ausland/usa-und-iran-bernie-sanders-verurteilt-angriff-auf-iran](https://www.spiegel.de/ausland/usa-und-iran-bernie-sanders-verurteilt-angriff-auf-iran-a-68802688-2cdc-448a-a4b9-b8617fb42507#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-israel-bombardiert-iran-strasse-von-hormus-europas-boersen](https://www.spiegel.de/politik/deutschland/news-des-tages-israel-bombardiert-iran-strasse-von-hormus-europas-boersen-a-e8c81e5d-dc02-4805-82f5-b5b765e0951b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/strasse-von-hormus-wie-schlimm-waere-eine-blockade-wirklich](https://www.spiegel.de/wirtschaft/soziales/strasse-von-hormus-wie-schlimm-waere-eine-blockade-wirklich-a-118dc73e-6d21-4349-8f85-3d416c8b28ac#ref=rss)
 ### israel
 
-* [https://www.spiegel.de/ausland/iran-israel-usa-news-donald-trump-aeussert-sich-ueber-regimewechsel-in-teheran-miga](https://www.spiegel.de/ausland/iran-israel-usa-news-donald-trump-aeussert-sich-ueber-regimewechsel-in-teheran-miga-a-e94350ce-15df-4a6f-9301-c6146bf3311b#ref=rss)
-* [https://www.spiegel.de/ausland/israel-iran-krieg-wie-es-den-buerger-in-tel-aviv-bei-den-raketenangriffen-ergeht](https://www.spiegel.de/ausland/israel-iran-krieg-wie-es-den-buerger-in-tel-aviv-bei-den-raketenangriffen-ergeht-a-e4366b32-24d2-4f1f-a16f-cc34db7ef052#ref=rss)
+* [https://www.spiegel.de/ausland/us-vs-iran-bomben-auf-das-iranischen-atomprogramm](https://www.spiegel.de/ausland/us-vs-iran-bomben-auf-das-iranischen-atomprogramm-a-ec075c15-acf0-4ae2-9c19-104528744de3#ref=rss)
+* [https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost](https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-a-a914f3f7-3012-4673-9fb6-6f2b5b6c08bc#ref=rss)
+* [https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-podcast](https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-podcast-a-9f4dda69-ee12-45b5-99c2-55a6a151cd52#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-israel-bombardiert-iran-strasse-von-hormus-europas-boersen](https://www.spiegel.de/politik/deutschland/news-des-tages-israel-bombardiert-iran-strasse-von-hormus-europas-boersen-a-e8c81e5d-dc02-4805-82f5-b5b765e0951b#ref=rss)
 ### irans
 
-* [https://www.spiegel.de/ausland/iran-israel-usa-news-donald-trump-aeussert-sich-ueber-regimewechsel-in-teheran-miga](https://www.spiegel.de/ausland/iran-israel-usa-news-donald-trump-aeussert-sich-ueber-regimewechsel-in-teheran-miga-a-e94350ce-15df-4a6f-9301-c6146bf3311b#ref=rss)
-* [https://www.spiegel.de/ausland/usa-nach-dem-angriff-auf-irans-nuklearanlagen-ende-des-krieges-oder-endloskrieg](https://www.spiegel.de/ausland/usa-nach-dem-angriff-auf-irans-nuklearanlagen-ende-des-krieges-oder-endloskrieg-a-77c74172-61c9-4c70-9980-b3976e9b956c#ref=rss)
-* [https://www.spiegel.de/ausland/israel-iran-krieg-wie-es-den-buerger-in-tel-aviv-bei-den-raketenangriffen-ergeht](https://www.spiegel.de/ausland/israel-iran-krieg-wie-es-den-buerger-in-tel-aviv-bei-den-raketenangriffen-ergeht-a-e4366b32-24d2-4f1f-a16f-cc34db7ef052#ref=rss)
-### sucht
+* [https://www.spiegel.de/ausland/us-vs-iran-bomben-auf-das-iranischen-atomprogramm](https://www.spiegel.de/ausland/us-vs-iran-bomben-auf-das-iranischen-atomprogramm-a-ec075c15-acf0-4ae2-9c19-104528744de3#ref=rss)
+* [https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost](https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-a-a914f3f7-3012-4673-9fb6-6f2b5b6c08bc#ref=rss)
+* [https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-podcast](https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-podcast-a-9f4dda69-ee12-45b5-99c2-55a6a151cd52#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/b2-spirit-wie-amerikas-tarnkappenbomber-sich-vor-feinden-verbirgt](https://www.spiegel.de/wissenschaft/technik/b2-spirit-wie-amerikas-tarnkappenbomber-sich-vor-feinden-verbirgt-a-6e958d09-e384-434f-ad79-421a08fcc788#ref=rss)
+### kirche
 
-* [https://www.spiegel.de/ausland/iran-israel-usa-news-donald-trump-aeussert-sich-ueber-regimewechsel-in-teheran-miga](https://www.spiegel.de/ausland/iran-israel-usa-news-donald-trump-aeussert-sich-ueber-regimewechsel-in-teheran-miga-a-e94350ce-15df-4a6f-9301-c6146bf3311b#ref=rss)
-* [https://www.spiegel.de/panorama/us-abschiebepolitik-68-jaehriger-mexikanischer-einwanderer-stirbt-auf-fahrt-in-haftanstalt](https://www.spiegel.de/panorama/us-abschiebepolitik-68-jaehriger-mexikanischer-einwanderer-stirbt-auf-fahrt-in-haftanstalt-a-ce5ed250-9936-42df-aa74-b7f643921b0f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/koernerpark-in-berlin-neukoelln-mordkommission-ermittelt-nach-tod-von-28-jaehrigem](https://www.spiegel.de/panorama/justiz/koernerpark-in-berlin-neukoelln-mordkommission-ermittelt-nach-tod-von-28-jaehrigem-a-dc25f5f1-52ba-4002-94ca-4da18de11f05#ref=rss)
-### sagt
+* [https://www.spiegel.de/ausland/syrien-anschlag-auf-kirche-in-damaskus-die-angst-vor-dem-islamischen-staat-ist-zurueck](https://www.spiegel.de/ausland/syrien-anschlag-auf-kirche-in-damaskus-die-angst-vor-dem-islamischen-staat-ist-zurueck-a-d4f78c13-3cfc-4890-a53e-32c80264d6a8#ref=rss)
+* [https://www.spiegel.de/panorama/wieren-bei-uelzen-blitz-schlaegt-nachts-in-kirche-ein-und-laesst-die-glocke-dauerlaeuten](https://www.spiegel.de/panorama/wieren-bei-uelzen-blitz-schlaegt-nachts-in-kirche-ein-und-laesst-die-glocke-dauerlaeuten-a-31d1f1ff-ff0d-4790-96de-0a71cd542f63#ref=rss)
+### hormus
 
-* [https://www.spiegel.de/karriere/umgang-im-buero-wer-seinen-chatbot-anschnauzt-ist-auch-zu-den-kollegen-barsch](https://www.spiegel.de/karriere/umgang-im-buero-wer-seinen-chatbot-anschnauzt-ist-auch-zu-den-kollegen-barsch-a-27f850e5-a280-4585-9ed2-04926820d45b#ref=rss)
-* [https://www.spiegel.de/panorama/scarlett-johansson-im-dino-fieber](https://www.spiegel.de/panorama/scarlett-johansson-im-dino-fieber-a-3414b953-74fc-4dff-8df9-9fdd723536ae#ref=rss)
-* [https://www.spiegel.de/ausland/usa-greifen-iran-an-donald-trump-agiert-verfassungswidrig-vermutlich-wird-es-folgenlos-bleiben](https://www.spiegel.de/ausland/usa-greifen-iran-an-donald-trump-agiert-verfassungswidrig-vermutlich-wird-es-folgenlos-bleiben-a-fc607d9f-2e6a-48e8-90cb-e29846204d87#ref=rss)
-### kind
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-israel-bombardiert-iran-strasse-von-hormus-europas-boersen](https://www.spiegel.de/politik/deutschland/news-des-tages-israel-bombardiert-iran-strasse-von-hormus-europas-boersen-a-e8c81e5d-dc02-4805-82f5-b5b765e0951b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/strasse-von-hormus-wie-schlimm-waere-eine-blockade-wirklich](https://www.spiegel.de/wirtschaft/soziales/strasse-von-hormus-wie-schlimm-waere-eine-blockade-wirklich-a-118dc73e-6d21-4349-8f85-3d416c8b28ac#ref=rss)
+### linke
 
-* [https://www.spiegel.de/panorama/wilhelmshaven-kind-stirbt-bei-brand-in-wohnhaus](https://www.spiegel.de/panorama/wilhelmshaven-kind-stirbt-bei-brand-in-wohnhaus-a-22a874c4-3833-44d8-98ee-2f262cc27907#ref=rss)
-* [https://www.spiegel.de/panorama/scarlett-johansson-im-dino-fieber](https://www.spiegel.de/panorama/scarlett-johansson-im-dino-fieber-a-3414b953-74fc-4dff-8df9-9fdd723536ae#ref=rss)
-### stirbt
+* [https://www.spiegel.de/ausland/usa-und-iran-bernie-sanders-verurteilt-angriff-auf-iran](https://www.spiegel.de/ausland/usa-und-iran-bernie-sanders-verurteilt-angriff-auf-iran-a-68802688-2cdc-448a-a4b9-b8617fb42507#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/geheimdienste-linke-draengt-cdu-heidi-reichinnek-ins-kontrollgremium-zu-waehlen](https://www.spiegel.de/politik/deutschland/geheimdienste-linke-draengt-cdu-heidi-reichinnek-ins-kontrollgremium-zu-waehlen-a-b889ebfc-e8e3-4fac-994c-c4d92b6adce6#ref=rss)
+### atomprogramm
 
-* [https://www.spiegel.de/panorama/wilhelmshaven-kind-stirbt-bei-brand-in-wohnhaus](https://www.spiegel.de/panorama/wilhelmshaven-kind-stirbt-bei-brand-in-wohnhaus-a-22a874c4-3833-44d8-98ee-2f262cc27907#ref=rss)
-* [https://www.spiegel.de/panorama/us-abschiebepolitik-68-jaehriger-mexikanischer-einwanderer-stirbt-auf-fahrt-in-haftanstalt](https://www.spiegel.de/panorama/us-abschiebepolitik-68-jaehriger-mexikanischer-einwanderer-stirbt-auf-fahrt-in-haftanstalt-a-ce5ed250-9936-42df-aa74-b7f643921b0f#ref=rss)
-### behörden
+* [https://www.spiegel.de/ausland/us-vs-iran-bomben-auf-das-iranischen-atomprogramm](https://www.spiegel.de/ausland/us-vs-iran-bomben-auf-das-iranischen-atomprogramm-a-ec075c15-acf0-4ae2-9c19-104528744de3#ref=rss)
+* [https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost](https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-a-a914f3f7-3012-4673-9fb6-6f2b5b6c08bc#ref=rss)
+* [https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-podcast](https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-podcast-a-9f4dda69-ee12-45b5-99c2-55a6a151cd52#ref=rss)
+### krieg
 
-* [https://www.spiegel.de/panorama/griechenland-braende-auf-chios-behoerden-gehen-von-brandstiftung-aus](https://www.spiegel.de/panorama/griechenland-braende-auf-chios-behoerden-gehen-von-brandstiftung-aus-a-73004c5d-3582-492b-8469-82a1a0fd12e2#ref=rss)
-* [https://www.spiegel.de/ausland/griechenland-mutmasslicher-spion-aus-aserbaidschan-auf-kreta-festgenommen](https://www.spiegel.de/ausland/griechenland-mutmasslicher-spion-aus-aserbaidschan-auf-kreta-festgenommen-a-c6de9a0d-0d20-46b8-988f-f66017552e8b#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-fuenf-tote-nach-massiven-russischen-luftangriffen-auf-kyjiw](https://www.spiegel.de/ausland/ukraine-fuenf-tote-nach-massiven-russischen-luftangriffen-auf-kyjiw-a-ad7e96aa-df1c-418b-b3fd-f14be17ffbc0#ref=rss)
-### uspräsident
+* [https://www.spiegel.de/ausland/us-vs-iran-bomben-auf-das-iranischen-atomprogramm](https://www.spiegel.de/ausland/us-vs-iran-bomben-auf-das-iranischen-atomprogramm-a-ec075c15-acf0-4ae2-9c19-104528744de3#ref=rss)
+* [https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost](https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-a-a914f3f7-3012-4673-9fb6-6f2b5b6c08bc#ref=rss)
+* [https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-podcast](https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-podcast-a-9f4dda69-ee12-45b5-99c2-55a6a151cd52#ref=rss)
+### nahost
 
-* [https://www.spiegel.de/ausland/usa-nach-dem-angriff-auf-irans-nuklearanlagen-ende-des-krieges-oder-endloskrieg](https://www.spiegel.de/ausland/usa-nach-dem-angriff-auf-irans-nuklearanlagen-ende-des-krieges-oder-endloskrieg-a-77c74172-61c9-4c70-9980-b3976e9b956c#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-der-iran-krieg-er-ist-kein-krieger-kommentar](https://www.spiegel.de/ausland/donald-trump-und-der-iran-krieg-er-ist-kein-krieger-kommentar-a-e54ad0e5-d3ec-4395-9003-78e05f41b721#ref=rss)
-* [https://www.spiegel.de/ausland/usa-und-iran-die-presseschau-in-der-verbleibenden-amtszeit-von-trump-ist-alles-moeglich](https://www.spiegel.de/ausland/usa-und-iran-die-presseschau-in-der-verbleibenden-amtszeit-von-trump-ist-alles-moeglich-a-84f0afd5-7112-46ce-9e67-478b3daabf95#ref=rss)
-### welt
+* [https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost](https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-a-a914f3f7-3012-4673-9fb6-6f2b5b6c08bc#ref=rss)
+* [https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-podcast](https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-podcast-a-9f4dda69-ee12-45b5-99c2-55a6a151cd52#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/iran-cdu-spitze-widerspricht-aussenminister-johann-wadephul-nach-aussagen-zu-nahost](https://www.spiegel.de/politik/deutschland/iran-cdu-spitze-widerspricht-aussenminister-johann-wadephul-nach-aussagen-zu-nahost-a-9af42929-8687-49c4-b22b-a36e1205f39e#ref=rss)
+### luftangriffen
 
-* [https://www.spiegel.de/ausland/donald-trump-und-der-iran-krieg-er-ist-kein-krieger-kommentar](https://www.spiegel.de/ausland/donald-trump-und-der-iran-krieg-er-ist-kein-krieger-kommentar-a-e54ad0e5-d3ec-4395-9003-78e05f41b721#ref=rss)
-* [https://www.spiegel.de/ausland/usa-und-iran-die-presseschau-in-der-verbleibenden-amtszeit-von-trump-ist-alles-moeglich](https://www.spiegel.de/ausland/usa-und-iran-die-presseschau-in-der-verbleibenden-amtszeit-von-trump-ist-alles-moeglich-a-84f0afd5-7112-46ce-9e67-478b3daabf95#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/umfrage-mehrheit-der-deutschen-fuer-aufbau-eines-atom-schutzschirms-in-europa](https://www.spiegel.de/politik/deutschland/umfrage-mehrheit-der-deutschen-fuer-aufbau-eines-atom-schutzschirms-in-europa-a-b6f7ce77-8022-464b-8f52-4e6f19eba9f0#ref=rss)
-### laut
+* [https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost](https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-a-a914f3f7-3012-4673-9fb6-6f2b5b6c08bc#ref=rss)
+* [https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-podcast](https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-podcast-a-9f4dda69-ee12-45b5-99c2-55a6a151cd52#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-krieg-wo-sollen-die-iraner-denn-hin](https://www.spiegel.de/ausland/israel-iran-krieg-wo-sollen-die-iraner-denn-hin-a-14ca6f9a-0d85-4aba-b1f5-f12dfb1b864e#ref=rss)
+### lars
 
-* [https://www.spiegel.de/panorama/scarlett-johansson-im-dino-fieber](https://www.spiegel.de/panorama/scarlett-johansson-im-dino-fieber-a-3414b953-74fc-4dff-8df9-9fdd723536ae#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-fuenf-tote-nach-massiven-russischen-luftangriffen-auf-kyjiw](https://www.spiegel.de/ausland/ukraine-fuenf-tote-nach-massiven-russischen-luftangriffen-auf-kyjiw-a-ad7e96aa-df1c-418b-b3fd-f14be17ffbc0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/umfrage-mehrheit-der-deutschen-fuer-aufbau-eines-atom-schutzschirms-in-europa](https://www.spiegel.de/politik/deutschland/umfrage-mehrheit-der-deutschen-fuer-aufbau-eines-atom-schutzschirms-in-europa-a-b6f7ce77-8022-464b-8f52-4e6f19eba9f0#ref=rss)
-### billy
+* [https://www.spiegel.de/wirtschaft/soziales/bundeshaushalt-lars-klingbeil-praesentiert-rekordschulden-und-investitionsplaene](https://www.spiegel.de/wirtschaft/soziales/bundeshaushalt-lars-klingbeil-praesentiert-rekordschulden-und-investitionsplaene-a-ed824a5b-5756-4161-8490-9fa6fc7ba5cc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-plant-fuer-2029-mit-3-5-prozent-verteidigungsausgaben](https://www.spiegel.de/politik/deutschland/lars-klingbeil-plant-fuer-2029-mit-3-5-prozent-verteidigungsausgaben-a-7e3c6d95-8a2d-4597-b2a6-366497789b0a#ref=rss)
+### klingbeil
 
-* [https://www.spiegel.de/panorama/london-billy-ray-cyrus-und-liz-hurley-besuchen-der-premiere-von-miley-cyrus](https://www.spiegel.de/panorama/london-billy-ray-cyrus-und-liz-hurley-besuchen-der-premiere-von-miley-cyrus-a-0379b7b3-6b88-480f-b4f5-e2e0514c146f#ref=rss)
-### ray
-
-* [https://www.spiegel.de/panorama/london-billy-ray-cyrus-und-liz-hurley-besuchen-der-premiere-von-miley-cyrus](https://www.spiegel.de/panorama/london-billy-ray-cyrus-und-liz-hurley-besuchen-der-premiere-von-miley-cyrus-a-0379b7b3-6b88-480f-b4f5-e2e0514c146f#ref=rss)
-### liz
-
-* [https://www.spiegel.de/panorama/london-billy-ray-cyrus-und-liz-hurley-besuchen-der-premiere-von-miley-cyrus](https://www.spiegel.de/panorama/london-billy-ray-cyrus-und-liz-hurley-besuchen-der-premiere-von-miley-cyrus-a-0379b7b3-6b88-480f-b4f5-e2e0514c146f#ref=rss)
-### hurley
-
-* [https://www.spiegel.de/panorama/london-billy-ray-cyrus-und-liz-hurley-besuchen-der-premiere-von-miley-cyrus](https://www.spiegel.de/panorama/london-billy-ray-cyrus-und-liz-hurley-besuchen-der-premiere-von-miley-cyrus-a-0379b7b3-6b88-480f-b4f5-e2e0514c146f#ref=rss)
-### miley
-
-* [https://www.spiegel.de/panorama/london-billy-ray-cyrus-und-liz-hurley-besuchen-der-premiere-von-miley-cyrus](https://www.spiegel.de/panorama/london-billy-ray-cyrus-und-liz-hurley-besuchen-der-premiere-von-miley-cyrus-a-0379b7b3-6b88-480f-b4f5-e2e0514c146f#ref=rss)
-### sorgt
-
-* [https://www.spiegel.de/panorama/london-billy-ray-cyrus-und-liz-hurley-besuchen-der-premiere-von-miley-cyrus](https://www.spiegel.de/panorama/london-billy-ray-cyrus-und-liz-hurley-besuchen-der-premiere-von-miley-cyrus-a-0379b7b3-6b88-480f-b4f5-e2e0514c146f#ref=rss)
-* [https://www.spiegel.de/auto/elon-musk-tesla-startet-robotaxi-dienst-mit-aufpasser-auf-dem-beifahrersitz](https://www.spiegel.de/auto/elon-musk-tesla-startet-robotaxi-dienst-mit-aufpasser-auf-dem-beifahrersitz-a-85efab74-6184-45f9-b0b0-eb8f594c64b2#ref=rss)
-### teheran
-
-* [https://www.spiegel.de/ausland/iran-israel-usa-news-donald-trump-aeussert-sich-ueber-regimewechsel-in-teheran-miga](https://www.spiegel.de/ausland/iran-israel-usa-news-donald-trump-aeussert-sich-ueber-regimewechsel-in-teheran-miga-a-e94350ce-15df-4a6f-9301-c6146bf3311b#ref=rss)
-### gefängnis
-
-* [https://www.spiegel.de/ausland/iran-israel-usa-news-donald-trump-aeussert-sich-ueber-regimewechsel-in-teheran-miga](https://www.spiegel.de/ausland/iran-israel-usa-news-donald-trump-aeussert-sich-ueber-regimewechsel-in-teheran-miga-a-e94350ce-15df-4a6f-9301-c6146bf3311b#ref=rss)
-* [https://www.spiegel.de/panorama/us-abschiebepolitik-68-jaehriger-mexikanischer-einwanderer-stirbt-auf-fahrt-in-haftanstalt](https://www.spiegel.de/panorama/us-abschiebepolitik-68-jaehriger-mexikanischer-einwanderer-stirbt-auf-fahrt-in-haftanstalt-a-ce5ed250-9936-42df-aa74-b7f643921b0f#ref=rss)
-### bildungsniveau
-
-* [https://www.spiegel.de/karriere/bildung-bildungsniveau-von-zuwanderern-in-der-eu-erreicht-rekordhoch](https://www.spiegel.de/karriere/bildung-bildungsniveau-von-zuwanderern-in-der-eu-erreicht-rekordhoch-a-72e874f6-7ac3-4735-8efc-f183af93829b#ref=rss)
-### eu
-
-* [https://www.spiegel.de/karriere/bildung-bildungsniveau-von-zuwanderern-in-der-eu-erreicht-rekordhoch](https://www.spiegel.de/karriere/bildung-bildungsniveau-von-zuwanderern-in-der-eu-erreicht-rekordhoch-a-72e874f6-7ac3-4735-8efc-f183af93829b#ref=rss)
-### steigt
-
-* [https://www.spiegel.de/karriere/bildung-bildungsniveau-von-zuwanderern-in-der-eu-erreicht-rekordhoch](https://www.spiegel.de/karriere/bildung-bildungsniveau-von-zuwanderern-in-der-eu-erreicht-rekordhoch-a-72e874f6-7ac3-4735-8efc-f183af93829b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutschland-staat-zahlte-zuletzt-rund-sieben-milliarden-euro-an-aufstocker](https://www.spiegel.de/wirtschaft/deutschland-staat-zahlte-zuletzt-rund-sieben-milliarden-euro-an-aufstocker-a-abb43721-281c-446e-a66d-0bad72bc0775#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/karriere/bildung-bildungsniveau-von-zuwanderern-in-der-eu-erreicht-rekordhoch](https://www.spiegel.de/karriere/bildung-bildungsniveau-von-zuwanderern-in-der-eu-erreicht-rekordhoch-a-72e874f6-7ac3-4735-8efc-f183af93829b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutschland-staat-zahlte-zuletzt-rund-sieben-milliarden-euro-an-aufstocker](https://www.spiegel.de/wirtschaft/deutschland-staat-zahlte-zuletzt-rund-sieben-milliarden-euro-an-aufstocker-a-abb43721-281c-446e-a66d-0bad72bc0775#ref=rss)
-### kommen
-
-* [https://www.spiegel.de/karriere/bildung-bildungsniveau-von-zuwanderern-in-der-eu-erreicht-rekordhoch](https://www.spiegel.de/karriere/bildung-bildungsniveau-von-zuwanderern-in-der-eu-erreicht-rekordhoch-a-72e874f6-7ac3-4735-8efc-f183af93829b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/seesen-in-niedersachsen-transporter-rast-auf-polizistinnen-zu](https://www.spiegel.de/panorama/justiz/seesen-in-niedersachsen-transporter-rast-auf-polizistinnen-zu-a-c7a21bc1-bf3e-413f-aa3a-cef1f038827f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/bundeshaushalt-lars-klingbeil-praesentiert-rekordschulden-und-investitionsplaene](https://www.spiegel.de/wirtschaft/soziales/bundeshaushalt-lars-klingbeil-praesentiert-rekordschulden-und-investitionsplaene-a-ed824a5b-5756-4161-8490-9fa6fc7ba5cc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-plant-fuer-2029-mit-3-5-prozent-verteidigungsausgaben](https://www.spiegel.de/politik/deutschland/lars-klingbeil-plant-fuer-2029-mit-3-5-prozent-verteidigungsausgaben-a-7e3c6d95-8a2d-4597-b2a6-366497789b0a#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/karriere/bildung-bildungsniveau-von-zuwanderern-in-der-eu-erreicht-rekordhoch](https://www.spiegel.de/karriere/bildung-bildungsniveau-von-zuwanderern-in-der-eu-erreicht-rekordhoch-a-72e874f6-7ac3-4735-8efc-f183af93829b#ref=rss)
-* [https://www.spiegel.de/ausland/usa-nach-dem-angriff-auf-irans-nuklearanlagen-ende-des-krieges-oder-endloskrieg](https://www.spiegel.de/ausland/usa-nach-dem-angriff-auf-irans-nuklearanlagen-ende-des-krieges-oder-endloskrieg-a-77c74172-61c9-4c70-9980-b3976e9b956c#ref=rss)
-### seesen
+* [https://www.spiegel.de/wirtschaft/soziales/bundeshaushalt-lars-klingbeil-praesentiert-rekordschulden-und-investitionsplaene](https://www.spiegel.de/wirtschaft/soziales/bundeshaushalt-lars-klingbeil-praesentiert-rekordschulden-und-investitionsplaene-a-ed824a5b-5756-4161-8490-9fa6fc7ba5cc#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-anschlag-auf-kirche-in-damaskus-die-angst-vor-dem-islamischen-staat-ist-zurueck](https://www.spiegel.de/ausland/syrien-anschlag-auf-kirche-in-damaskus-die-angst-vor-dem-islamischen-staat-ist-zurueck-a-d4f78c13-3cfc-4890-a53e-32c80264d6a8#ref=rss)
+* [https://www.spiegel.de/kultur/musik/roxette-mastermind-per-gessle-liebt-seine-arbeit-und-will-weitermachen](https://www.spiegel.de/kultur/musik/roxette-mastermind-per-gessle-liebt-seine-arbeit-und-will-weitermachen-a-02d1a662-918d-417d-9028-7b1cfc4feb15#ref=rss)
+### touren
 
-* [https://www.spiegel.de/panorama/justiz/seesen-in-niedersachsen-transporter-rast-auf-polizistinnen-zu](https://www.spiegel.de/panorama/justiz/seesen-in-niedersachsen-transporter-rast-auf-polizistinnen-zu-a-c7a21bc1-bf3e-413f-aa3a-cef1f038827f#ref=rss)
-### transporter
+* [https://www.spiegel.de/kultur/musik/roxette-mastermind-per-gessle-liebt-seine-arbeit-und-will-weitermachen](https://www.spiegel.de/kultur/musik/roxette-mastermind-per-gessle-liebt-seine-arbeit-und-will-weitermachen-a-02d1a662-918d-417d-9028-7b1cfc4feb15#ref=rss)
+### cdu
 
-* [https://www.spiegel.de/panorama/justiz/seesen-in-niedersachsen-transporter-rast-auf-polizistinnen-zu](https://www.spiegel.de/panorama/justiz/seesen-in-niedersachsen-transporter-rast-auf-polizistinnen-zu-a-c7a21bc1-bf3e-413f-aa3a-cef1f038827f#ref=rss)
-### polizistinnen
+* [https://www.spiegel.de/politik/deutschland/geheimdienste-linke-draengt-cdu-heidi-reichinnek-ins-kontrollgremium-zu-waehlen](https://www.spiegel.de/politik/deutschland/geheimdienste-linke-draengt-cdu-heidi-reichinnek-ins-kontrollgremium-zu-waehlen-a-b889ebfc-e8e3-4fac-994c-c4d92b6adce6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/iran-cdu-spitze-widerspricht-aussenminister-johann-wadephul-nach-aussagen-zu-nahost](https://www.spiegel.de/politik/deutschland/iran-cdu-spitze-widerspricht-aussenminister-johann-wadephul-nach-aussagen-zu-nahost-a-9af42929-8687-49c4-b22b-a36e1205f39e#ref=rss)
+### prozent
 
-* [https://www.spiegel.de/panorama/justiz/seesen-in-niedersachsen-transporter-rast-auf-polizistinnen-zu](https://www.spiegel.de/panorama/justiz/seesen-in-niedersachsen-transporter-rast-auf-polizistinnen-zu-a-c7a21bc1-bf3e-413f-aa3a-cef1f038827f#ref=rss)
-### mitten
+* [https://www.spiegel.de/karriere/verlag-axel-springer-mitarbeitende-kritisieren-schaerfere-bueropflicht](https://www.spiegel.de/karriere/verlag-axel-springer-mitarbeitende-kritisieren-schaerfere-bueropflicht-a-7f1207b7-de7b-4f7a-a064-ce16f32fbf40#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-plant-fuer-2029-mit-3-5-prozent-verteidigungsausgaben](https://www.spiegel.de/politik/deutschland/lars-klingbeil-plant-fuer-2029-mit-3-5-prozent-verteidigungsausgaben-a-7e3c6d95-8a2d-4597-b2a6-366497789b0a#ref=rss)
+### neue
 
-* [https://www.spiegel.de/panorama/justiz/seesen-in-niedersachsen-transporter-rast-auf-polizistinnen-zu](https://www.spiegel.de/panorama/justiz/seesen-in-niedersachsen-transporter-rast-auf-polizistinnen-zu-a-c7a21bc1-bf3e-413f-aa3a-cef1f038827f#ref=rss)
-* [https://www.spiegel.de/panorama/wilhelmshaven-kind-stirbt-bei-brand-in-wohnhaus](https://www.spiegel.de/panorama/wilhelmshaven-kind-stirbt-bei-brand-in-wohnhaus-a-22a874c4-3833-44d8-98ee-2f262cc27907#ref=rss)
-### nacht
+* [https://www.spiegel.de/karriere/verlag-axel-springer-mitarbeitende-kritisieren-schaerfere-bueropflicht](https://www.spiegel.de/karriere/verlag-axel-springer-mitarbeitende-kritisieren-schaerfere-bueropflicht-a-7f1207b7-de7b-4f7a-a064-ce16f32fbf40#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-repraesentative-wahlstatistik-zeigt-wie-friedrich-merz-die-wahl-gewonnen-hat](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-repraesentative-wahlstatistik-zeigt-wie-friedrich-merz-die-wahl-gewonnen-hat-a-80894fc6-5cd3-4786-97c3-d3a9e88e8da2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/donald-trump-und-der-westen-die-grosse-unterwuerfigkeit-kommentar](https://www.spiegel.de/politik/deutschland/donald-trump-und-der-westen-die-grosse-unterwuerfigkeit-kommentar-a-2372984e-d42f-406a-a35b-faa3898ca786#ref=rss)
+### bernie
 
-* [https://www.spiegel.de/panorama/justiz/seesen-in-niedersachsen-transporter-rast-auf-polizistinnen-zu](https://www.spiegel.de/panorama/justiz/seesen-in-niedersachsen-transporter-rast-auf-polizistinnen-zu-a-c7a21bc1-bf3e-413f-aa3a-cef1f038827f#ref=rss)
-* [https://www.spiegel.de/panorama/wilhelmshaven-kind-stirbt-bei-brand-in-wohnhaus](https://www.spiegel.de/panorama/wilhelmshaven-kind-stirbt-bei-brand-in-wohnhaus-a-22a874c4-3833-44d8-98ee-2f262cc27907#ref=rss)
-### unterwegs
+* [https://www.spiegel.de/ausland/usa-und-iran-bernie-sanders-verurteilt-angriff-auf-iran](https://www.spiegel.de/ausland/usa-und-iran-bernie-sanders-verurteilt-angriff-auf-iran-a-68802688-2cdc-448a-a4b9-b8617fb42507#ref=rss)
+### sanders
 
-* [https://www.spiegel.de/panorama/justiz/seesen-in-niedersachsen-transporter-rast-auf-polizistinnen-zu](https://www.spiegel.de/panorama/justiz/seesen-in-niedersachsen-transporter-rast-auf-polizistinnen-zu-a-c7a21bc1-bf3e-413f-aa3a-cef1f038827f#ref=rss)
-* [https://www.spiegel.de/auto/elon-musk-tesla-startet-robotaxi-dienst-mit-aufpasser-auf-dem-beifahrersitz](https://www.spiegel.de/auto/elon-musk-tesla-startet-robotaxi-dienst-mit-aufpasser-auf-dem-beifahrersitz-a-85efab74-6184-45f9-b0b0-eb8f594c64b2#ref=rss)
-### freundlich
+* [https://www.spiegel.de/ausland/usa-und-iran-bernie-sanders-verurteilt-angriff-auf-iran](https://www.spiegel.de/ausland/usa-und-iran-bernie-sanders-verurteilt-angriff-auf-iran-a-68802688-2cdc-448a-a4b9-b8617fb42507#ref=rss)
+### wütend
 
-* [https://www.spiegel.de/karriere/umgang-im-buero-wer-seinen-chatbot-anschnauzt-ist-auch-zu-den-kollegen-barsch](https://www.spiegel.de/karriere/umgang-im-buero-wer-seinen-chatbot-anschnauzt-ist-auch-zu-den-kollegen-barsch-a-27f850e5-a280-4585-9ed2-04926820d45b#ref=rss)
-* [https://www.spiegel.de/auto/elon-musk-tesla-startet-robotaxi-dienst-mit-aufpasser-auf-dem-beifahrersitz](https://www.spiegel.de/auto/elon-musk-tesla-startet-robotaxi-dienst-mit-aufpasser-auf-dem-beifahrersitz-a-85efab74-6184-45f9-b0b0-eb8f594c64b2#ref=rss)
-### zumindest
+* [https://www.spiegel.de/ausland/usa-und-iran-bernie-sanders-verurteilt-angriff-auf-iran](https://www.spiegel.de/ausland/usa-und-iran-bernie-sanders-verurteilt-angriff-auf-iran-a-68802688-2cdc-448a-a4b9-b8617fb42507#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-krieg-wo-sollen-die-iraner-denn-hin](https://www.spiegel.de/ausland/israel-iran-krieg-wo-sollen-die-iraner-denn-hin-a-14ca6f9a-0d85-4aba-b1f5-f12dfb1b864e#ref=rss)
+### new
 
-* [https://www.spiegel.de/karriere/umgang-im-buero-wer-seinen-chatbot-anschnauzt-ist-auch-zu-den-kollegen-barsch](https://www.spiegel.de/karriere/umgang-im-buero-wer-seinen-chatbot-anschnauzt-ist-auch-zu-den-kollegen-barsch-a-27f850e5-a280-4585-9ed2-04926820d45b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/klub-wm-antonio-ruediger-soll-von-einem-gegenspieler-rassistisch-beleidigt-worden-sein](https://www.spiegel.de/sport/fussball/klub-wm-antonio-ruediger-soll-von-einem-gegenspieler-rassistisch-beleidigt-worden-sein-a-3f2bce8e-d1d5-446e-90e6-d6e53566b0c2#ref=rss)
-### wilhelmshaven
+* [https://www.spiegel.de/ausland/usa-und-iran-bernie-sanders-verurteilt-angriff-auf-iran](https://www.spiegel.de/ausland/usa-und-iran-bernie-sanders-verurteilt-angriff-auf-iran-a-68802688-2cdc-448a-a4b9-b8617fb42507#ref=rss)
+* [https://www.spiegel.de/kultur/arnaldo-pomodoro-ist-tot-legendaerer-bildhauer-mit-98-jahren-gestorben](https://www.spiegel.de/kultur/arnaldo-pomodoro-ist-tot-legendaerer-bildhauer-mit-98-jahren-gestorben-a-2f0417a5-b4cf-402c-99f9-85cdad753599#ref=rss)
+### york
 
-* [https://www.spiegel.de/panorama/wilhelmshaven-kind-stirbt-bei-brand-in-wohnhaus](https://www.spiegel.de/panorama/wilhelmshaven-kind-stirbt-bei-brand-in-wohnhaus-a-22a874c4-3833-44d8-98ee-2f262cc27907#ref=rss)
-### brand
+* [https://www.spiegel.de/ausland/usa-und-iran-bernie-sanders-verurteilt-angriff-auf-iran](https://www.spiegel.de/ausland/usa-und-iran-bernie-sanders-verurteilt-angriff-auf-iran-a-68802688-2cdc-448a-a4b9-b8617fb42507#ref=rss)
+* [https://www.spiegel.de/kultur/arnaldo-pomodoro-ist-tot-legendaerer-bildhauer-mit-98-jahren-gestorben](https://www.spiegel.de/kultur/arnaldo-pomodoro-ist-tot-legendaerer-bildhauer-mit-98-jahren-gestorben-a-2f0417a5-b4cf-402c-99f9-85cdad753599#ref=rss)
+### anderen
 
-* [https://www.spiegel.de/panorama/wilhelmshaven-kind-stirbt-bei-brand-in-wohnhaus](https://www.spiegel.de/panorama/wilhelmshaven-kind-stirbt-bei-brand-in-wohnhaus-a-22a874c4-3833-44d8-98ee-2f262cc27907#ref=rss)
-### familie
+* [https://www.spiegel.de/ausland/usa-und-iran-bernie-sanders-verurteilt-angriff-auf-iran](https://www.spiegel.de/ausland/usa-und-iran-bernie-sanders-verurteilt-angriff-auf-iran-a-68802688-2cdc-448a-a4b9-b8617fb42507#ref=rss)
+* [https://www.spiegel.de/sport/basketball/nba-wie-shai-gilgeous-alexander-oklahoma-city-zum-titel-fuehrte](https://www.spiegel.de/sport/basketball/nba-wie-shai-gilgeous-alexander-oklahoma-city-zum-titel-fuehrte-a-a56d3c1f-73aa-414a-8ef2-d561875911c3#ref=rss)
+### mehrere
 
-* [https://www.spiegel.de/panorama/wilhelmshaven-kind-stirbt-bei-brand-in-wohnhaus](https://www.spiegel.de/panorama/wilhelmshaven-kind-stirbt-bei-brand-in-wohnhaus-a-22a874c4-3833-44d8-98ee-2f262cc27907#ref=rss)
-* [https://www.spiegel.de/panorama/us-abschiebepolitik-68-jaehriger-mexikanischer-einwanderer-stirbt-auf-fahrt-in-haftanstalt](https://www.spiegel.de/panorama/us-abschiebepolitik-68-jaehriger-mexikanischer-einwanderer-stirbt-auf-fahrt-in-haftanstalt-a-ce5ed250-9936-42df-aa74-b7f643921b0f#ref=rss)
-### tragödie
+* [https://www.spiegel.de/ausland/us-vs-iran-bomben-auf-das-iranischen-atomprogramm](https://www.spiegel.de/ausland/us-vs-iran-bomben-auf-das-iranischen-atomprogramm-a-ec075c15-acf0-4ae2-9c19-104528744de3#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/riesenwels-in-bayern-wie-gefaehrlich-sind-die-tiere-fuer-badende](https://www.spiegel.de/wissenschaft/natur/riesenwels-in-bayern-wie-gefaehrlich-sind-die-tiere-fuer-badende-a-7d03211d-10bd-4a87-985b-c4db13c73b2d#ref=rss)
+### attacken
 
-* [https://www.spiegel.de/panorama/wilhelmshaven-kind-stirbt-bei-brand-in-wohnhaus](https://www.spiegel.de/panorama/wilhelmshaven-kind-stirbt-bei-brand-in-wohnhaus-a-22a874c4-3833-44d8-98ee-2f262cc27907#ref=rss)
-* [https://www.spiegel.de/sport/basketball/indiana-pacers-verlieren-nba-finals-gegen-oklahoma-city-thunder-brutaler-kann-ein-maerchen-nicht-enden](https://www.spiegel.de/sport/basketball/indiana-pacers-verlieren-nba-finals-gegen-oklahoma-city-thunder-brutaler-kann-ein-maerchen-nicht-enden-a-68c30a6c-a6f3-446f-9409-ed41687e64c0#ref=rss)
-### drei
+* [https://www.spiegel.de/ausland/us-vs-iran-bomben-auf-das-iranischen-atomprogramm](https://www.spiegel.de/ausland/us-vs-iran-bomben-auf-das-iranischen-atomprogramm-a-ec075c15-acf0-4ae2-9c19-104528744de3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/iran-cdu-spitze-widerspricht-aussenminister-johann-wadephul-nach-aussagen-zu-nahost](https://www.spiegel.de/politik/deutschland/iran-cdu-spitze-widerspricht-aussenminister-johann-wadephul-nach-aussagen-zu-nahost-a-9af42929-8687-49c4-b22b-a36e1205f39e#ref=rss)
+### atomanlagen
 
-* [https://www.spiegel.de/panorama/wilhelmshaven-kind-stirbt-bei-brand-in-wohnhaus](https://www.spiegel.de/panorama/wilhelmshaven-kind-stirbt-bei-brand-in-wohnhaus-a-22a874c4-3833-44d8-98ee-2f262cc27907#ref=rss)
-* [https://www.spiegel.de/panorama/griechenland-braende-auf-chios-behoerden-gehen-von-brandstiftung-aus](https://www.spiegel.de/panorama/griechenland-braende-auf-chios-behoerden-gehen-von-brandstiftung-aus-a-73004c5d-3582-492b-8469-82a1a0fd12e2#ref=rss)
-### brände
+* [https://www.spiegel.de/ausland/us-vs-iran-bomben-auf-das-iranischen-atomprogramm](https://www.spiegel.de/ausland/us-vs-iran-bomben-auf-das-iranischen-atomprogramm-a-ec075c15-acf0-4ae2-9c19-104528744de3#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/b2-spirit-wie-amerikas-tarnkappenbomber-sich-vor-feinden-verbirgt](https://www.spiegel.de/wissenschaft/technik/b2-spirit-wie-amerikas-tarnkappenbomber-sich-vor-feinden-verbirgt-a-6e958d09-e384-434f-ad79-421a08fcc788#ref=rss)
+### hingegen
 
-* [https://www.spiegel.de/panorama/griechenland-braende-auf-chios-behoerden-gehen-von-brandstiftung-aus](https://www.spiegel.de/panorama/griechenland-braende-auf-chios-behoerden-gehen-von-brandstiftung-aus-a-73004c5d-3582-492b-8469-82a1a0fd12e2#ref=rss)
-### chios
+* [https://www.spiegel.de/ausland/us-vs-iran-bomben-auf-das-iranischen-atomprogramm](https://www.spiegel.de/ausland/us-vs-iran-bomben-auf-das-iranischen-atomprogramm-a-ec075c15-acf0-4ae2-9c19-104528744de3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/wirtschaft-bdi-rechnet-mit-konjunkturschwaeche-durch-zollstreit-mit-den-usa](https://www.spiegel.de/wirtschaft/wirtschaft-bdi-rechnet-mit-konjunkturschwaeche-durch-zollstreit-mit-den-usa-a-a4366605-80e1-4adb-8203-5d214725377f#ref=rss)
+### kam
 
-* [https://www.spiegel.de/panorama/griechenland-braende-auf-chios-behoerden-gehen-von-brandstiftung-aus](https://www.spiegel.de/panorama/griechenland-braende-auf-chios-behoerden-gehen-von-brandstiftung-aus-a-73004c5d-3582-492b-8469-82a1a0fd12e2#ref=rss)
-### gehen
+* [https://www.spiegel.de/ausland/us-vs-iran-bomben-auf-das-iranischen-atomprogramm](https://www.spiegel.de/ausland/us-vs-iran-bomben-auf-das-iranischen-atomprogramm-a-ec075c15-acf0-4ae2-9c19-104528744de3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-repraesentative-wahlstatistik-zeigt-wie-friedrich-merz-die-wahl-gewonnen-hat](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-repraesentative-wahlstatistik-zeigt-wie-friedrich-merz-die-wahl-gewonnen-hat-a-80894fc6-5cd3-4786-97c3-d3a9e88e8da2#ref=rss)
+### eskaliert
 
-* [https://www.spiegel.de/panorama/griechenland-braende-auf-chios-behoerden-gehen-von-brandstiftung-aus](https://www.spiegel.de/panorama/griechenland-braende-auf-chios-behoerden-gehen-von-brandstiftung-aus-a-73004c5d-3582-492b-8469-82a1a0fd12e2#ref=rss)
-### brandstiftung
+* [https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost](https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-a-a914f3f7-3012-4673-9fb6-6f2b5b6c08bc#ref=rss)
+* [https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-podcast](https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-podcast-a-9f4dda69-ee12-45b5-99c2-55a6a151cd52#ref=rss)
+### nimmt
 
-* [https://www.spiegel.de/panorama/griechenland-braende-auf-chios-behoerden-gehen-von-brandstiftung-aus](https://www.spiegel.de/panorama/griechenland-braende-auf-chios-behoerden-gehen-von-brandstiftung-aus-a-73004c5d-3582-492b-8469-82a1a0fd12e2#ref=rss)
-### chile
+* [https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost](https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-a-a914f3f7-3012-4673-9fb6-6f2b5b6c08bc#ref=rss)
+* [https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-podcast](https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-podcast-a-9f4dda69-ee12-45b5-99c2-55a6a151cd52#ref=rss)
+### uspräsident
 
-* [https://www.spiegel.de/wissenschaft/weltall/vera-c-rubin-observatory-in-chile-spektakulaere-erste-aufnahmen-von-nebeln-und-galaxien](https://www.spiegel.de/wissenschaft/weltall/vera-c-rubin-observatory-in-chile-spektakulaere-erste-aufnahmen-von-nebeln-und-galaxien-a-10caeeb7-2952-4992-9089-c5c21cf5a89f#ref=rss)
-### spektakuläre
+* [https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost](https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-a-a914f3f7-3012-4673-9fb6-6f2b5b6c08bc#ref=rss)
+* [https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-podcast](https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-podcast-a-9f4dda69-ee12-45b5-99c2-55a6a151cd52#ref=rss)
+### gefahr
 
-* [https://www.spiegel.de/wissenschaft/weltall/vera-c-rubin-observatory-in-chile-spektakulaere-erste-aufnahmen-von-nebeln-und-galaxien](https://www.spiegel.de/wissenschaft/weltall/vera-c-rubin-observatory-in-chile-spektakulaere-erste-aufnahmen-von-nebeln-und-galaxien-a-10caeeb7-2952-4992-9089-c5c21cf5a89f#ref=rss)
-### erste
+* [https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost](https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-a-a914f3f7-3012-4673-9fb6-6f2b5b6c08bc#ref=rss)
+* [https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-podcast](https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-podcast-a-9f4dda69-ee12-45b5-99c2-55a6a151cd52#ref=rss)
+### großen
 
-* [https://www.spiegel.de/wissenschaft/weltall/vera-c-rubin-observatory-in-chile-spektakulaere-erste-aufnahmen-von-nebeln-und-galaxien](https://www.spiegel.de/wissenschaft/weltall/vera-c-rubin-observatory-in-chile-spektakulaere-erste-aufnahmen-von-nebeln-und-galaxien-a-10caeeb7-2952-4992-9089-c5c21cf5a89f#ref=rss)
-### aufnahmen
+* [https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost](https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-a-a914f3f7-3012-4673-9fb6-6f2b5b6c08bc#ref=rss)
+* [https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-podcast](https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-podcast-a-9f4dda69-ee12-45b5-99c2-55a6a151cd52#ref=rss)
+### kriegs
 
-* [https://www.spiegel.de/wissenschaft/weltall/vera-c-rubin-observatory-in-chile-spektakulaere-erste-aufnahmen-von-nebeln-und-galaxien](https://www.spiegel.de/wissenschaft/weltall/vera-c-rubin-observatory-in-chile-spektakulaere-erste-aufnahmen-von-nebeln-und-galaxien-a-10caeeb7-2952-4992-9089-c5c21cf5a89f#ref=rss)
-### nebeln
+* [https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost](https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-a-a914f3f7-3012-4673-9fb6-6f2b5b6c08bc#ref=rss)
+* [https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-podcast](https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-podcast-a-9f4dda69-ee12-45b5-99c2-55a6a151cd52#ref=rss)
+### kauf
 
-* [https://www.spiegel.de/wissenschaft/weltall/vera-c-rubin-observatory-in-chile-spektakulaere-erste-aufnahmen-von-nebeln-und-galaxien](https://www.spiegel.de/wissenschaft/weltall/vera-c-rubin-observatory-in-chile-spektakulaere-erste-aufnahmen-von-nebeln-und-galaxien-a-10caeeb7-2952-4992-9089-c5c21cf5a89f#ref=rss)
-### groß
+* [https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost](https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-a-a914f3f7-3012-4673-9fb6-6f2b5b6c08bc#ref=rss)
+* [https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-podcast](https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-podcast-a-9f4dda69-ee12-45b5-99c2-55a6a151cd52#ref=rss)
+### maximilian
 
-* [https://www.spiegel.de/auto/elon-musk-tesla-startet-robotaxi-dienst-mit-aufpasser-auf-dem-beifahrersitz](https://www.spiegel.de/auto/elon-musk-tesla-startet-robotaxi-dienst-mit-aufpasser-auf-dem-beifahrersitz-a-85efab74-6184-45f9-b0b0-eb8f594c64b2#ref=rss)
-* [https://www.spiegel.de/ausland/israel-iran-krieg-wie-es-den-buerger-in-tel-aviv-bei-den-raketenangriffen-ergeht](https://www.spiegel.de/ausland/israel-iran-krieg-wie-es-den-buerger-in-tel-aviv-bei-den-raketenangriffen-ergeht-a-e4366b32-24d2-4f1f-a16f-cc34db7ef052#ref=rss)
-### ende
+* [https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost](https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-a-a914f3f7-3012-4673-9fb6-6f2b5b6c08bc#ref=rss)
+* [https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-podcast](https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-podcast-a-9f4dda69-ee12-45b5-99c2-55a6a151cd52#ref=rss)
+### popp
 
-* [https://www.spiegel.de/ausland/usa-nach-dem-angriff-auf-irans-nuklearanlagen-ende-des-krieges-oder-endloskrieg](https://www.spiegel.de/ausland/usa-nach-dem-angriff-auf-irans-nuklearanlagen-ende-des-krieges-oder-endloskrieg-a-77c74172-61c9-4c70-9980-b3976e9b956c#ref=rss)
-* [https://www.spiegel.de/kultur/sprachen-lernen-online-warum-ich-mit-duolingo-daddeln-lernte-aber-kein-italienisch](https://www.spiegel.de/kultur/sprachen-lernen-online-warum-ich-mit-duolingo-daddeln-lernte-aber-kein-italienisch-a-32508f58-8f25-4632-b6f7-5411592cd42f#ref=rss)
-### eigenen
+* [https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost](https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-a-a914f3f7-3012-4673-9fb6-6f2b5b6c08bc#ref=rss)
+* [https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-podcast](https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-podcast-a-9f4dda69-ee12-45b5-99c2-55a6a151cd52#ref=rss)
+### stellvertretender
 
-* [https://www.spiegel.de/ausland/usa-nach-dem-angriff-auf-irans-nuklearanlagen-ende-des-krieges-oder-endloskrieg](https://www.spiegel.de/ausland/usa-nach-dem-angriff-auf-irans-nuklearanlagen-ende-des-krieges-oder-endloskrieg-a-77c74172-61c9-4c70-9980-b3976e9b956c#ref=rss)
-* [https://www.spiegel.de/sport/fussball/klub-wm-antonio-ruediger-soll-von-einem-gegenspieler-rassistisch-beleidigt-worden-sein](https://www.spiegel.de/sport/fussball/klub-wm-antonio-ruediger-soll-von-einem-gegenspieler-rassistisch-beleidigt-worden-sein-a-3f2bce8e-d1d5-446e-90e6-d6e53566b0c2#ref=rss)
-### kreta
+* [https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost](https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-a-a914f3f7-3012-4673-9fb6-6f2b5b6c08bc#ref=rss)
+* [https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-podcast](https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-podcast-a-9f4dda69-ee12-45b5-99c2-55a6a151cd52#ref=rss)
+### leiter
 
-* [https://www.spiegel.de/ausland/griechenland-mutmasslicher-spion-aus-aserbaidschan-auf-kreta-festgenommen](https://www.spiegel.de/ausland/griechenland-mutmasslicher-spion-aus-aserbaidschan-auf-kreta-festgenommen-a-c6de9a0d-0d20-46b8-988f-f66017552e8b#ref=rss)
-### festgenommen
+* [https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost](https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-a-a914f3f7-3012-4673-9fb6-6f2b5b6c08bc#ref=rss)
+* [https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-podcast](https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-podcast-a-9f4dda69-ee12-45b5-99c2-55a6a151cd52#ref=rss)
+### auslandsressorts
 
-* [https://www.spiegel.de/ausland/griechenland-mutmasslicher-spion-aus-aserbaidschan-auf-kreta-festgenommen](https://www.spiegel.de/ausland/griechenland-mutmasslicher-spion-aus-aserbaidschan-auf-kreta-festgenommen-a-c6de9a0d-0d20-46b8-988f-f66017552e8b#ref=rss)
-### auftrag
+* [https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost](https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-a-a914f3f7-3012-4673-9fb6-6f2b5b6c08bc#ref=rss)
+* [https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-podcast](https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-podcast-a-9f4dda69-ee12-45b5-99c2-55a6a151cd52#ref=rss)
+### erklärt
 
-* [https://www.spiegel.de/ausland/griechenland-mutmasslicher-spion-aus-aserbaidschan-auf-kreta-festgenommen](https://www.spiegel.de/ausland/griechenland-mutmasslicher-spion-aus-aserbaidschan-auf-kreta-festgenommen-a-c6de9a0d-0d20-46b8-988f-f66017552e8b#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-der-iran-krieg-er-ist-kein-krieger-kommentar](https://www.spiegel.de/ausland/donald-trump-und-der-iran-krieg-er-ist-kein-krieger-kommentar-a-e54ad0e5-d3ec-4395-9003-78e05f41b721#ref=rss)
-### mexikanischer
+* [https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost](https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-a-a914f3f7-3012-4673-9fb6-6f2b5b6c08bc#ref=rss)
+* [https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-podcast](https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-podcast-a-9f4dda69-ee12-45b5-99c2-55a6a151cd52#ref=rss)
+### möglichen
 
-* [https://www.spiegel.de/panorama/us-abschiebepolitik-68-jaehriger-mexikanischer-einwanderer-stirbt-auf-fahrt-in-haftanstalt](https://www.spiegel.de/panorama/us-abschiebepolitik-68-jaehriger-mexikanischer-einwanderer-stirbt-auf-fahrt-in-haftanstalt-a-ce5ed250-9936-42df-aa74-b7f643921b0f#ref=rss)
-### experten
+* [https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost](https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-a-a914f3f7-3012-4673-9fb6-6f2b5b6c08bc#ref=rss)
+* [https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-podcast](https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-podcast-a-9f4dda69-ee12-45b5-99c2-55a6a151cd52#ref=rss)
+### szenarien
 
-* [https://www.spiegel.de/panorama/us-abschiebepolitik-68-jaehriger-mexikanischer-einwanderer-stirbt-auf-fahrt-in-haftanstalt](https://www.spiegel.de/panorama/us-abschiebepolitik-68-jaehriger-mexikanischer-einwanderer-stirbt-auf-fahrt-in-haftanstalt-a-ce5ed250-9936-42df-aa74-b7f643921b0f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/iran-krieg-oekonomen-warnen-vor-oelpreis-schock-bei-hormus-blockade](https://www.spiegel.de/wirtschaft/iran-krieg-oekonomen-warnen-vor-oelpreis-schock-bei-hormus-blockade-a-4da056d1-71de-47db-bfbf-962c34dc7033#ref=rss)
-### warnen
+* [https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost](https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-a-a914f3f7-3012-4673-9fb6-6f2b5b6c08bc#ref=rss)
+* [https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-podcast](https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-podcast-a-9f4dda69-ee12-45b5-99c2-55a6a151cd52#ref=rss)
+### eskalation
 
-* [https://www.spiegel.de/panorama/us-abschiebepolitik-68-jaehriger-mexikanischer-einwanderer-stirbt-auf-fahrt-in-haftanstalt](https://www.spiegel.de/panorama/us-abschiebepolitik-68-jaehriger-mexikanischer-einwanderer-stirbt-auf-fahrt-in-haftanstalt-a-ce5ed250-9936-42df-aa74-b7f643921b0f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/iran-krieg-oekonomen-warnen-vor-oelpreis-schock-bei-hormus-blockade](https://www.spiegel.de/wirtschaft/iran-krieg-oekonomen-warnen-vor-oelpreis-schock-bei-hormus-blockade-a-4da056d1-71de-47db-bfbf-962c34dc7033#ref=rss)
-### irankrieg
+* [https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost](https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-a-a914f3f7-3012-4673-9fb6-6f2b5b6c08bc#ref=rss)
+* [https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-podcast](https://www.spiegel.de/ausland/iran-usa-israel-eskaliert-der-krieg-in-nahost-podcast-a-9f4dda69-ee12-45b5-99c2-55a6a151cd52#ref=rss)
+### erwartet
 
-* [https://www.spiegel.de/wirtschaft/iran-krieg-oekonomen-warnen-vor-oelpreis-schock-bei-hormus-blockade](https://www.spiegel.de/wirtschaft/iran-krieg-oekonomen-warnen-vor-oelpreis-schock-bei-hormus-blockade-a-4da056d1-71de-47db-bfbf-962c34dc7033#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-der-iran-krieg-er-ist-kein-krieger-kommentar](https://www.spiegel.de/ausland/donald-trump-und-der-iran-krieg-er-ist-kein-krieger-kommentar-a-e54ad0e5-d3ec-4395-9003-78e05f41b721#ref=rss)
-### keinen
+* [https://www.spiegel.de/netzwelt/web/whatsapp-alternativen-das-erwartet-wechsler-bei-signal-threema-telegram-und-rcs](https://www.spiegel.de/netzwelt/web/whatsapp-alternativen-das-erwartet-wechsler-bei-signal-threema-telegram-und-rcs-a-78f0d553-e17b-47a6-9ea6-f8bcbd12897a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/wirtschaft-bdi-rechnet-mit-konjunkturschwaeche-durch-zollstreit-mit-den-usa](https://www.spiegel.de/wirtschaft/wirtschaft-bdi-rechnet-mit-konjunkturschwaeche-durch-zollstreit-mit-den-usa-a-a4366605-80e1-4adb-8203-5d214725377f#ref=rss)
+### manche
 
-* [https://www.spiegel.de/ausland/donald-trump-und-der-iran-krieg-er-ist-kein-krieger-kommentar](https://www.spiegel.de/ausland/donald-trump-und-der-iran-krieg-er-ist-kein-krieger-kommentar-a-e54ad0e5-d3ec-4395-9003-78e05f41b721#ref=rss)
-* [https://www.spiegel.de/ausland/israel-iran-krieg-wie-es-den-buerger-in-tel-aviv-bei-den-raketenangriffen-ergeht](https://www.spiegel.de/ausland/israel-iran-krieg-wie-es-den-buerger-in-tel-aviv-bei-den-raketenangriffen-ergeht-a-e4366b32-24d2-4f1f-a16f-cc34db7ef052#ref=rss)
-### daraus
+* [https://www.spiegel.de/netzwelt/web/whatsapp-alternativen-das-erwartet-wechsler-bei-signal-threema-telegram-und-rcs](https://www.spiegel.de/netzwelt/web/whatsapp-alternativen-das-erwartet-wechsler-bei-signal-threema-telegram-und-rcs-a-78f0d553-e17b-47a6-9ea6-f8bcbd12897a#ref=rss)
+* [https://www.spiegel.de/panorama/leute/allison-williams-findet-momfluencerinnen-toxisch](https://www.spiegel.de/panorama/leute/allison-williams-findet-momfluencerinnen-toxisch-a-9980c8d8-bbbb-4c0a-bf1e-bbce2b582fc7#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/ausland/donald-trump-und-der-iran-krieg-er-ist-kein-krieger-kommentar](https://www.spiegel.de/ausland/donald-trump-und-der-iran-krieg-er-ist-kein-krieger-kommentar-a-e54ad0e5-d3ec-4395-9003-78e05f41b721#ref=rss)
-* [https://www.spiegel.de/politik/rheinland-pfalz-will-den-friedhofszwang-abschaffen-letzte-ruhe-im-rhein](https://www.spiegel.de/politik/rheinland-pfalz-will-den-friedhofszwang-abschaffen-letzte-ruhe-im-rhein-a-61aecbba-cd09-4704-a1a4-6a84776b9434#ref=rss)
-### europas
+* [https://www.spiegel.de/netzwelt/web/whatsapp-alternativen-das-erwartet-wechsler-bei-signal-threema-telegram-und-rcs](https://www.spiegel.de/netzwelt/web/whatsapp-alternativen-das-erwartet-wechsler-bei-signal-threema-telegram-und-rcs-a-78f0d553-e17b-47a6-9ea6-f8bcbd12897a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/geheimdienste-linke-draengt-cdu-heidi-reichinnek-ins-kontrollgremium-zu-waehlen](https://www.spiegel.de/politik/deutschland/geheimdienste-linke-draengt-cdu-heidi-reichinnek-ins-kontrollgremium-zu-waehlen-a-b889ebfc-e8e3-4fac-994c-c4d92b6adce6#ref=rss)
+### vier
 
-* [https://www.spiegel.de/ausland/usa-und-iran-die-presseschau-in-der-verbleibenden-amtszeit-von-trump-ist-alles-moeglich](https://www.spiegel.de/ausland/usa-und-iran-die-presseschau-in-der-verbleibenden-amtszeit-von-trump-ist-alles-moeglich-a-84f0afd5-7112-46ce-9e67-478b3daabf95#ref=rss)
-* [https://www.spiegel.de/wirtschaft/boerse-europas-finanzmaerkte-uebertrumpfen-erstmals-seit-jahren-die-aus-den-usa](https://www.spiegel.de/wirtschaft/boerse-europas-finanzmaerkte-uebertrumpfen-erstmals-seit-jahren-die-aus-den-usa-a-6060694c-0a06-4539-a3a5-9bc716076315#ref=rss)
-### überblick
+* [https://www.spiegel.de/netzwelt/web/whatsapp-alternativen-das-erwartet-wechsler-bei-signal-threema-telegram-und-rcs](https://www.spiegel.de/netzwelt/web/whatsapp-alternativen-das-erwartet-wechsler-bei-signal-threema-telegram-und-rcs-a-78f0d553-e17b-47a6-9ea6-f8bcbd12897a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-plant-fuer-2029-mit-3-5-prozent-verteidigungsausgaben](https://www.spiegel.de/politik/deutschland/lars-klingbeil-plant-fuer-2029-mit-3-5-prozent-verteidigungsausgaben-a-7e3c6d95-8a2d-4597-b2a6-366497789b0a#ref=rss)
+### shai
 
-* [https://www.spiegel.de/ausland/usa-und-iran-die-presseschau-in-der-verbleibenden-amtszeit-von-trump-ist-alles-moeglich](https://www.spiegel.de/ausland/usa-und-iran-die-presseschau-in-der-verbleibenden-amtszeit-von-trump-ist-alles-moeglich-a-84f0afd5-7112-46ce-9e67-478b3daabf95#ref=rss)
-* [https://www.spiegel.de/reise/europa/neues-camper-gesetz-in-griechenland-ist-freies-stehen-am-meer-vorbei](https://www.spiegel.de/reise/europa/neues-camper-gesetz-in-griechenland-ist-freies-stehen-am-meer-vorbei-a-08a47947-5869-4ffa-a20f-745b6828297c#ref=rss)
-### tel
+* [https://www.spiegel.de/sport/basketball/nba-wie-shai-gilgeous-alexander-oklahoma-city-zum-titel-fuehrte](https://www.spiegel.de/sport/basketball/nba-wie-shai-gilgeous-alexander-oklahoma-city-zum-titel-fuehrte-a-a56d3c1f-73aa-414a-8ef2-d561875911c3#ref=rss)
+### gilgeousalexander
 
-* [https://www.spiegel.de/ausland/israel-iran-krieg-wie-es-den-buerger-in-tel-aviv-bei-den-raketenangriffen-ergeht](https://www.spiegel.de/ausland/israel-iran-krieg-wie-es-den-buerger-in-tel-aviv-bei-den-raketenangriffen-ergeht-a-e4366b32-24d2-4f1f-a16f-cc34db7ef052#ref=rss)
-### aviv
+* [https://www.spiegel.de/sport/basketball/nba-wie-shai-gilgeous-alexander-oklahoma-city-zum-titel-fuehrte](https://www.spiegel.de/sport/basketball/nba-wie-shai-gilgeous-alexander-oklahoma-city-zum-titel-fuehrte-a-a56d3c1f-73aa-414a-8ef2-d561875911c3#ref=rss)
+### oklahoma
 
-* [https://www.spiegel.de/ausland/israel-iran-krieg-wie-es-den-buerger-in-tel-aviv-bei-den-raketenangriffen-ergeht](https://www.spiegel.de/ausland/israel-iran-krieg-wie-es-den-buerger-in-tel-aviv-bei-den-raketenangriffen-ergeht-a-e4366b32-24d2-4f1f-a16f-cc34db7ef052#ref=rss)
-### klubwm
+* [https://www.spiegel.de/sport/basketball/nba-wie-shai-gilgeous-alexander-oklahoma-city-zum-titel-fuehrte](https://www.spiegel.de/sport/basketball/nba-wie-shai-gilgeous-alexander-oklahoma-city-zum-titel-fuehrte-a-a56d3c1f-73aa-414a-8ef2-d561875911c3#ref=rss)
+### city
 
-* [https://www.spiegel.de/sport/fussball/klub-wm-antonio-ruediger-soll-von-einem-gegenspieler-rassistisch-beleidigt-worden-sein](https://www.spiegel.de/sport/fussball/klub-wm-antonio-ruediger-soll-von-einem-gegenspieler-rassistisch-beleidigt-worden-sein-a-3f2bce8e-d1d5-446e-90e6-d6e53566b0c2#ref=rss)
-### antonio
+* [https://www.spiegel.de/sport/basketball/nba-wie-shai-gilgeous-alexander-oklahoma-city-zum-titel-fuehrte](https://www.spiegel.de/sport/basketball/nba-wie-shai-gilgeous-alexander-oklahoma-city-zum-titel-fuehrte-a-a56d3c1f-73aa-414a-8ef2-d561875911c3#ref=rss)
+### führte
 
-* [https://www.spiegel.de/sport/fussball/klub-wm-antonio-ruediger-soll-von-einem-gegenspieler-rassistisch-beleidigt-worden-sein](https://www.spiegel.de/sport/fussball/klub-wm-antonio-ruediger-soll-von-einem-gegenspieler-rassistisch-beleidigt-worden-sein-a-3f2bce8e-d1d5-446e-90e6-d6e53566b0c2#ref=rss)
-### rassistisch
+* [https://www.spiegel.de/sport/basketball/nba-wie-shai-gilgeous-alexander-oklahoma-city-zum-titel-fuehrte](https://www.spiegel.de/sport/basketball/nba-wie-shai-gilgeous-alexander-oklahoma-city-zum-titel-fuehrte-a-a56d3c1f-73aa-414a-8ef2-d561875911c3#ref=rss)
+### rekordschulden
 
-* [https://www.spiegel.de/sport/fussball/klub-wm-antonio-ruediger-soll-von-einem-gegenspieler-rassistisch-beleidigt-worden-sein](https://www.spiegel.de/sport/fussball/klub-wm-antonio-ruediger-soll-von-einem-gegenspieler-rassistisch-beleidigt-worden-sein-a-3f2bce8e-d1d5-446e-90e6-d6e53566b0c2#ref=rss)
-### scarlett
+* [https://www.spiegel.de/wirtschaft/soziales/bundeshaushalt-lars-klingbeil-praesentiert-rekordschulden-und-investitionsplaene](https://www.spiegel.de/wirtschaft/soziales/bundeshaushalt-lars-klingbeil-praesentiert-rekordschulden-und-investitionsplaene-a-ed824a5b-5756-4161-8490-9fa6fc7ba5cc#ref=rss)
+### damaskus
 
-* [https://www.spiegel.de/panorama/scarlett-johansson-im-dino-fieber](https://www.spiegel.de/panorama/scarlett-johansson-im-dino-fieber-a-3414b953-74fc-4dff-8df9-9fdd723536ae#ref=rss)
-### johansson
+* [https://www.spiegel.de/ausland/syrien-anschlag-auf-kirche-in-damaskus-die-angst-vor-dem-islamischen-staat-ist-zurueck](https://www.spiegel.de/ausland/syrien-anschlag-auf-kirche-in-damaskus-die-angst-vor-dem-islamischen-staat-ist-zurueck-a-d4f78c13-3cfc-4890-a53e-32c80264d6a8#ref=rss)
+### 20
 
-* [https://www.spiegel.de/panorama/scarlett-johansson-im-dino-fieber](https://www.spiegel.de/panorama/scarlett-johansson-im-dino-fieber-a-3414b953-74fc-4dff-8df9-9fdd723536ae#ref=rss)
-### disneyland
+* [https://www.spiegel.de/ausland/syrien-anschlag-auf-kirche-in-damaskus-die-angst-vor-dem-islamischen-staat-ist-zurueck](https://www.spiegel.de/ausland/syrien-anschlag-auf-kirche-in-damaskus-die-angst-vor-dem-islamischen-staat-ist-zurueck-a-d4f78c13-3cfc-4890-a53e-32c80264d6a8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/strasse-von-hormus-wie-schlimm-waere-eine-blockade-wirklich](https://www.spiegel.de/wirtschaft/soziales/strasse-von-hormus-wie-schlimm-waere-eine-blockade-wirklich-a-118dc73e-6d21-4349-8f85-3d416c8b28ac#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/panorama/disneyland-paris-polizei-ermittelt-in-fall-von-fake-hochzeit-mit-neunjaehriger-braut](https://www.spiegel.de/panorama/disneyland-paris-polizei-ermittelt-in-fall-von-fake-hochzeit-mit-neunjaehriger-braut-a-1a53544b-c72d-4d11-9f7c-146be67b3cad#ref=rss)
-### paris
+* [https://www.spiegel.de/ausland/syrien-anschlag-auf-kirche-in-damaskus-die-angst-vor-dem-islamischen-staat-ist-zurueck](https://www.spiegel.de/ausland/syrien-anschlag-auf-kirche-in-damaskus-die-angst-vor-dem-islamischen-staat-ist-zurueck-a-d4f78c13-3cfc-4890-a53e-32c80264d6a8#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/osnabrueck-mann-erschiesst-offenbar-ex-partnerin-und-sich-selbst](https://www.spiegel.de/panorama/justiz/osnabrueck-mann-erschiesst-offenbar-ex-partnerin-und-sich-selbst-a-041fd085-f199-41b6-9391-5696e54889ac#ref=rss)
+### verfassungsschutz
 
-* [https://www.spiegel.de/panorama/disneyland-paris-polizei-ermittelt-in-fall-von-fake-hochzeit-mit-neunjaehriger-braut](https://www.spiegel.de/panorama/disneyland-paris-polizei-ermittelt-in-fall-von-fake-hochzeit-mit-neunjaehriger-braut-a-1a53544b-c72d-4d11-9f7c-146be67b3cad#ref=rss)
+* [https://www.spiegel.de/panorama/hamburger-verfassungsschutz-beobachtet-organisatoren-von-pro-palaestina-camp](https://www.spiegel.de/panorama/hamburger-verfassungsschutz-beobachtet-organisatoren-von-pro-palaestina-camp-a-7b629053-1255-462a-a58f-f6d7d756d60a#ref=rss)
+### ralf
+
+* [https://www.spiegel.de/politik/deutschland/ralf-stegner-soll-geheimdienst-kontrollgremium-verlassen](https://www.spiegel.de/politik/deutschland/ralf-stegner-soll-geheimdienst-kontrollgremium-verlassen-a-f811927f-1b65-4df8-8f55-68d70e938089#ref=rss)
+### stegner
+
+* [https://www.spiegel.de/politik/deutschland/ralf-stegner-soll-geheimdienst-kontrollgremium-verlassen](https://www.spiegel.de/politik/deutschland/ralf-stegner-soll-geheimdienst-kontrollgremium-verlassen-a-f811927f-1b65-4df8-8f55-68d70e938089#ref=rss)
+### geheimdienste
+
+* [https://www.spiegel.de/politik/deutschland/ralf-stegner-soll-geheimdienst-kontrollgremium-verlassen](https://www.spiegel.de/politik/deutschland/ralf-stegner-soll-geheimdienst-kontrollgremium-verlassen-a-f811927f-1b65-4df8-8f55-68d70e938089#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/geheimdienste-linke-draengt-cdu-heidi-reichinnek-ins-kontrollgremium-zu-waehlen](https://www.spiegel.de/politik/deutschland/geheimdienste-linke-draengt-cdu-heidi-reichinnek-ins-kontrollgremium-zu-waehlen-a-b889ebfc-e8e3-4fac-994c-c4d92b6adce6#ref=rss)
+### osnabrück
+
+* [https://www.spiegel.de/panorama/justiz/osnabrueck-mann-erschiesst-offenbar-ex-partnerin-und-sich-selbst](https://www.spiegel.de/panorama/justiz/osnabrueck-mann-erschiesst-offenbar-ex-partnerin-und-sich-selbst-a-041fd085-f199-41b6-9391-5696e54889ac#ref=rss)
+### expartnerin
+
+* [https://www.spiegel.de/panorama/justiz/osnabrueck-mann-erschiesst-offenbar-ex-partnerin-und-sich-selbst](https://www.spiegel.de/panorama/justiz/osnabrueck-mann-erschiesst-offenbar-ex-partnerin-und-sich-selbst-a-041fd085-f199-41b6-9391-5696e54889ac#ref=rss)
+### selbst
+
+* [https://www.spiegel.de/panorama/justiz/osnabrueck-mann-erschiesst-offenbar-ex-partnerin-und-sich-selbst](https://www.spiegel.de/panorama/justiz/osnabrueck-mann-erschiesst-offenbar-ex-partnerin-und-sich-selbst-a-041fd085-f199-41b6-9391-5696e54889ac#ref=rss)
+### tot
+
+* [https://www.spiegel.de/panorama/justiz/osnabrueck-mann-erschiesst-offenbar-ex-partnerin-und-sich-selbst](https://www.spiegel.de/panorama/justiz/osnabrueck-mann-erschiesst-offenbar-ex-partnerin-und-sich-selbst-a-041fd085-f199-41b6-9391-5696e54889ac#ref=rss)
+* [https://www.spiegel.de/kultur/arnaldo-pomodoro-ist-tot-legendaerer-bildhauer-mit-98-jahren-gestorben](https://www.spiegel.de/kultur/arnaldo-pomodoro-ist-tot-legendaerer-bildhauer-mit-98-jahren-gestorben-a-2f0417a5-b4cf-402c-99f9-85cdad753599#ref=rss)
 ### polizei
 
-* [https://www.spiegel.de/panorama/disneyland-paris-polizei-ermittelt-in-fall-von-fake-hochzeit-mit-neunjaehriger-braut](https://www.spiegel.de/panorama/disneyland-paris-polizei-ermittelt-in-fall-von-fake-hochzeit-mit-neunjaehriger-braut-a-1a53544b-c72d-4d11-9f7c-146be67b3cad#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/koernerpark-in-berlin-neukoelln-mordkommission-ermittelt-nach-tod-von-28-jaehrigem](https://www.spiegel.de/panorama/justiz/koernerpark-in-berlin-neukoelln-mordkommission-ermittelt-nach-tod-von-28-jaehrigem-a-dc25f5f1-52ba-4002-94ca-4da18de11f05#ref=rss)
-### ermittelt
+* [https://www.spiegel.de/panorama/justiz/osnabrueck-mann-erschiesst-offenbar-ex-partnerin-und-sich-selbst](https://www.spiegel.de/panorama/justiz/osnabrueck-mann-erschiesst-offenbar-ex-partnerin-und-sich-selbst-a-041fd085-f199-41b6-9391-5696e54889ac#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/mecklenburg-vorpommern-polizei-muss-nach-hackerangriff-wieder-auf-funkgeraete-zurueckgreifen](https://www.spiegel.de/netzwelt/netzpolitik/mecklenburg-vorpommern-polizei-muss-nach-hackerangriff-wieder-auf-funkgeraete-zurueckgreifen-a-8bdb0919-5fa2-4ee3-a974-f2f78dc283be#ref=rss)
+### per
 
-* [https://www.spiegel.de/panorama/disneyland-paris-polizei-ermittelt-in-fall-von-fake-hochzeit-mit-neunjaehriger-braut](https://www.spiegel.de/panorama/disneyland-paris-polizei-ermittelt-in-fall-von-fake-hochzeit-mit-neunjaehriger-braut-a-1a53544b-c72d-4d11-9f7c-146be67b3cad#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/koernerpark-in-berlin-neukoelln-mordkommission-ermittelt-nach-tod-von-28-jaehrigem](https://www.spiegel.de/panorama/justiz/koernerpark-in-berlin-neukoelln-mordkommission-ermittelt-nach-tod-von-28-jaehrigem-a-dc25f5f1-52ba-4002-94ca-4da18de11f05#ref=rss)
-### braut
+* [https://www.spiegel.de/kultur/musik/roxette-mastermind-per-gessle-liebt-seine-arbeit-und-will-weitermachen](https://www.spiegel.de/kultur/musik/roxette-mastermind-per-gessle-liebt-seine-arbeit-und-will-weitermachen-a-02d1a662-918d-417d-9028-7b1cfc4feb15#ref=rss)
+### gessle
 
-* [https://www.spiegel.de/panorama/disneyland-paris-polizei-ermittelt-in-fall-von-fake-hochzeit-mit-neunjaehriger-braut](https://www.spiegel.de/panorama/disneyland-paris-polizei-ermittelt-in-fall-von-fake-hochzeit-mit-neunjaehriger-braut-a-1a53544b-c72d-4d11-9f7c-146be67b3cad#ref=rss)
-### rheinlandpfalz
+* [https://www.spiegel.de/kultur/musik/roxette-mastermind-per-gessle-liebt-seine-arbeit-und-will-weitermachen](https://www.spiegel.de/kultur/musik/roxette-mastermind-per-gessle-liebt-seine-arbeit-und-will-weitermachen-a-02d1a662-918d-417d-9028-7b1cfc4feb15#ref=rss)
+### aufnehmen
 
-* [https://www.spiegel.de/politik/rheinland-pfalz-will-den-friedhofszwang-abschaffen-letzte-ruhe-im-rhein](https://www.spiegel.de/politik/rheinland-pfalz-will-den-friedhofszwang-abschaffen-letzte-ruhe-im-rhein-a-61aecbba-cd09-4704-a1a4-6a84776b9434#ref=rss)
-### euro
+* [https://www.spiegel.de/kultur/musik/roxette-mastermind-per-gessle-liebt-seine-arbeit-und-will-weitermachen](https://www.spiegel.de/kultur/musik/roxette-mastermind-per-gessle-liebt-seine-arbeit-und-will-weitermachen-a-02d1a662-918d-417d-9028-7b1cfc4feb15#ref=rss)
+### schreiben
 
-* [https://www.spiegel.de/wirtschaft/deutschland-staat-zahlte-zuletzt-rund-sieben-milliarden-euro-an-aufstocker](https://www.spiegel.de/wirtschaft/deutschland-staat-zahlte-zuletzt-rund-sieben-milliarden-euro-an-aufstocker-a-abb43721-281c-446e-a66d-0bad72bc0775#ref=rss)
-* [https://www.spiegel.de/reise/europa/neues-camper-gesetz-in-griechenland-ist-freies-stehen-am-meer-vorbei](https://www.spiegel.de/reise/europa/neues-camper-gesetz-in-griechenland-ist-freies-stehen-am-meer-vorbei-a-08a47947-5869-4ffa-a20f-745b6828297c#ref=rss)
-### erstmals
+* [https://www.spiegel.de/kultur/musik/roxette-mastermind-per-gessle-liebt-seine-arbeit-und-will-weitermachen](https://www.spiegel.de/kultur/musik/roxette-mastermind-per-gessle-liebt-seine-arbeit-und-will-weitermachen-a-02d1a662-918d-417d-9028-7b1cfc4feb15#ref=rss)
+### plant
 
-* [https://www.spiegel.de/wirtschaft/deutschland-staat-zahlte-zuletzt-rund-sieben-milliarden-euro-an-aufstocker](https://www.spiegel.de/wirtschaft/deutschland-staat-zahlte-zuletzt-rund-sieben-milliarden-euro-an-aufstocker-a-abb43721-281c-446e-a66d-0bad72bc0775#ref=rss)
-* [https://www.spiegel.de/wirtschaft/boerse-europas-finanzmaerkte-uebertrumpfen-erstmals-seit-jahren-die-aus-den-usa](https://www.spiegel.de/wirtschaft/boerse-europas-finanzmaerkte-uebertrumpfen-erstmals-seit-jahren-die-aus-den-usa-a-6060694c-0a06-4539-a3a5-9bc716076315#ref=rss)
-### jahren
+* [https://www.spiegel.de/kultur/musik/roxette-mastermind-per-gessle-liebt-seine-arbeit-und-will-weitermachen](https://www.spiegel.de/kultur/musik/roxette-mastermind-per-gessle-liebt-seine-arbeit-und-will-weitermachen-a-02d1a662-918d-417d-9028-7b1cfc4feb15#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-plant-fuer-2029-mit-3-5-prozent-verteidigungsausgaben](https://www.spiegel.de/politik/deutschland/lars-klingbeil-plant-fuer-2029-mit-3-5-prozent-verteidigungsausgaben-a-7e3c6d95-8a2d-4597-b2a6-366497789b0a#ref=rss)
+### bombardiert
 
-* [https://www.spiegel.de/wirtschaft/deutschland-staat-zahlte-zuletzt-rund-sieben-milliarden-euro-an-aufstocker](https://www.spiegel.de/wirtschaft/deutschland-staat-zahlte-zuletzt-rund-sieben-milliarden-euro-an-aufstocker-a-abb43721-281c-446e-a66d-0bad72bc0775#ref=rss)
-* [https://www.spiegel.de/wirtschaft/boerse-europas-finanzmaerkte-uebertrumpfen-erstmals-seit-jahren-die-aus-den-usa](https://www.spiegel.de/wirtschaft/boerse-europas-finanzmaerkte-uebertrumpfen-erstmals-seit-jahren-die-aus-den-usa-a-6060694c-0a06-4539-a3a5-9bc716076315#ref=rss)
-### ukraine
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-israel-bombardiert-iran-strasse-von-hormus-europas-boersen](https://www.spiegel.de/politik/deutschland/news-des-tages-israel-bombardiert-iran-strasse-von-hormus-europas-boersen-a-e8c81e5d-dc02-4805-82f5-b5b765e0951b#ref=rss)
+### europas
 
-* [https://www.spiegel.de/ausland/ukraine-fuenf-tote-nach-massiven-russischen-luftangriffen-auf-kyjiw](https://www.spiegel.de/ausland/ukraine-fuenf-tote-nach-massiven-russischen-luftangriffen-auf-kyjiw-a-ad7e96aa-df1c-418b-b3fd-f14be17ffbc0#ref=rss)
-### russischen
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-israel-bombardiert-iran-strasse-von-hormus-europas-boersen](https://www.spiegel.de/politik/deutschland/news-des-tages-israel-bombardiert-iran-strasse-von-hormus-europas-boersen-a-e8c81e5d-dc02-4805-82f5-b5b765e0951b#ref=rss)
+### börsen
 
-* [https://www.spiegel.de/ausland/ukraine-fuenf-tote-nach-massiven-russischen-luftangriffen-auf-kyjiw](https://www.spiegel.de/ausland/ukraine-fuenf-tote-nach-massiven-russischen-luftangriffen-auf-kyjiw-a-ad7e96aa-df1c-418b-b3fd-f14be17ffbc0#ref=rss)
-### kyjiw
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-israel-bombardiert-iran-strasse-von-hormus-europas-boersen](https://www.spiegel.de/politik/deutschland/news-des-tages-israel-bombardiert-iran-strasse-von-hormus-europas-boersen-a-e8c81e5d-dc02-4805-82f5-b5b765e0951b#ref=rss)
+### blockade
 
-* [https://www.spiegel.de/ausland/ukraine-fuenf-tote-nach-massiven-russischen-luftangriffen-auf-kyjiw](https://www.spiegel.de/ausland/ukraine-fuenf-tote-nach-massiven-russischen-luftangriffen-auf-kyjiw-a-ad7e96aa-df1c-418b-b3fd-f14be17ffbc0#ref=rss)
-### umfrage
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-israel-bombardiert-iran-strasse-von-hormus-europas-boersen](https://www.spiegel.de/politik/deutschland/news-des-tages-israel-bombardiert-iran-strasse-von-hormus-europas-boersen-a-e8c81e5d-dc02-4805-82f5-b5b765e0951b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/strasse-von-hormus-wie-schlimm-waere-eine-blockade-wirklich](https://www.spiegel.de/wirtschaft/soziales/strasse-von-hormus-wie-schlimm-waere-eine-blockade-wirklich-a-118dc73e-6d21-4349-8f85-3d416c8b28ac#ref=rss)
+### blitz
 
-* [https://www.spiegel.de/politik/deutschland/umfrage-mehrheit-der-deutschen-fuer-aufbau-eines-atom-schutzschirms-in-europa](https://www.spiegel.de/politik/deutschland/umfrage-mehrheit-der-deutschen-fuer-aufbau-eines-atom-schutzschirms-in-europa-a-b6f7ce77-8022-464b-8f52-4e6f19eba9f0#ref=rss)
+* [https://www.spiegel.de/panorama/wieren-bei-uelzen-blitz-schlaegt-nachts-in-kirche-ein-und-laesst-die-glocke-dauerlaeuten](https://www.spiegel.de/panorama/wieren-bei-uelzen-blitz-schlaegt-nachts-in-kirche-ein-und-laesst-die-glocke-dauerlaeuten-a-31d1f1ff-ff0d-4790-96de-0a71cd542f63#ref=rss)
+### uelzen
+
+* [https://www.spiegel.de/panorama/wieren-bei-uelzen-blitz-schlaegt-nachts-in-kirche-ein-und-laesst-die-glocke-dauerlaeuten](https://www.spiegel.de/panorama/wieren-bei-uelzen-blitz-schlaegt-nachts-in-kirche-ein-und-laesst-die-glocke-dauerlaeuten-a-31d1f1ff-ff0d-4790-96de-0a71cd542f63#ref=rss)
+### bringen
+
+* [https://www.spiegel.de/panorama/wieren-bei-uelzen-blitz-schlaegt-nachts-in-kirche-ein-und-laesst-die-glocke-dauerlaeuten](https://www.spiegel.de/panorama/wieren-bei-uelzen-blitz-schlaegt-nachts-in-kirche-ein-und-laesst-die-glocke-dauerlaeuten-a-31d1f1ff-ff0d-4790-96de-0a71cd542f63#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-krieg-wo-sollen-die-iraner-denn-hin](https://www.spiegel.de/ausland/israel-iran-krieg-wo-sollen-die-iraner-denn-hin-a-14ca6f9a-0d85-4aba-b1f5-f12dfb1b864e#ref=rss)
+### axel
+
+* [https://www.spiegel.de/karriere/verlag-axel-springer-mitarbeitende-kritisieren-schaerfere-bueropflicht](https://www.spiegel.de/karriere/verlag-axel-springer-mitarbeitende-kritisieren-schaerfere-bueropflicht-a-7f1207b7-de7b-4f7a-a064-ce16f32fbf40#ref=rss)
+### springer
+
+* [https://www.spiegel.de/karriere/verlag-axel-springer-mitarbeitende-kritisieren-schaerfere-bueropflicht](https://www.spiegel.de/karriere/verlag-axel-springer-mitarbeitende-kritisieren-schaerfere-bueropflicht-a-7f1207b7-de7b-4f7a-a064-ce16f32fbf40#ref=rss)
+### alle
+
+* [https://www.spiegel.de/karriere/verlag-axel-springer-mitarbeitende-kritisieren-schaerfere-bueropflicht](https://www.spiegel.de/karriere/verlag-axel-springer-mitarbeitende-kritisieren-schaerfere-bueropflicht-a-7f1207b7-de7b-4f7a-a064-ce16f32fbf40#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/donald-trump-und-der-westen-die-grosse-unterwuerfigkeit-kommentar](https://www.spiegel.de/politik/deutschland/donald-trump-und-der-westen-die-grosse-unterwuerfigkeit-kommentar-a-2372984e-d42f-406a-a35b-faa3898ca786#ref=rss)
+### mecklenburgvorpommern
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/mecklenburg-vorpommern-polizei-muss-nach-hackerangriff-wieder-auf-funkgeraete-zurueckgreifen](https://www.spiegel.de/netzwelt/netzpolitik/mecklenburg-vorpommern-polizei-muss-nach-hackerangriff-wieder-auf-funkgeraete-zurueckgreifen-a-8bdb0919-5fa2-4ee3-a974-f2f78dc283be#ref=rss)
+### hackerangriff
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/mecklenburg-vorpommern-polizei-muss-nach-hackerangriff-wieder-auf-funkgeraete-zurueckgreifen](https://www.spiegel.de/netzwelt/netzpolitik/mecklenburg-vorpommern-polizei-muss-nach-hackerangriff-wieder-auf-funkgeraete-zurueckgreifen-a-8bdb0919-5fa2-4ee3-a974-f2f78dc283be#ref=rss)
+### pläne
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/mecklenburg-vorpommern-polizei-muss-nach-hackerangriff-wieder-auf-funkgeraete-zurueckgreifen](https://www.spiegel.de/netzwelt/netzpolitik/mecklenburg-vorpommern-polizei-muss-nach-hackerangriff-wieder-auf-funkgeraete-zurueckgreifen-a-8bdb0919-5fa2-4ee3-a974-f2f78dc283be#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-plant-fuer-2029-mit-3-5-prozent-verteidigungsausgaben](https://www.spiegel.de/politik/deutschland/lars-klingbeil-plant-fuer-2029-mit-3-5-prozent-verteidigungsausgaben-a-7e3c6d95-8a2d-4597-b2a6-366497789b0a#ref=rss)
+### orcas
+
+* [https://www.spiegel.de/wissenschaft/orcas-putzen-einander-offenbar-mit-selbstgebauten-werkzeugen](https://www.spiegel.de/wissenschaft/orcas-putzen-einander-offenbar-mit-selbstgebauten-werkzeugen-a-125a8cf6-b3d4-4376-a17a-bf26f44007e1#ref=rss)
 ### deutschen
 
-* [https://www.spiegel.de/politik/deutschland/umfrage-mehrheit-der-deutschen-fuer-aufbau-eines-atom-schutzschirms-in-europa](https://www.spiegel.de/politik/deutschland/umfrage-mehrheit-der-deutschen-fuer-aufbau-eines-atom-schutzschirms-in-europa-a-b6f7ce77-8022-464b-8f52-4e6f19eba9f0#ref=rss)
-### europa
+* [https://www.spiegel.de/wirtschaft/wirtschaft-bdi-rechnet-mit-konjunkturschwaeche-durch-zollstreit-mit-den-usa](https://www.spiegel.de/wirtschaft/wirtschaft-bdi-rechnet-mit-konjunkturschwaeche-durch-zollstreit-mit-den-usa-a-a4366605-80e1-4adb-8203-5d214725377f#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/riesenwels-in-bayern-wie-gefaehrlich-sind-die-tiere-fuer-badende](https://www.spiegel.de/wissenschaft/natur/riesenwels-in-bayern-wie-gefaehrlich-sind-die-tiere-fuer-badende-a-7d03211d-10bd-4a87-985b-c4db13c73b2d#ref=rss)
+### bruttoinlandsprodukts
 
-* [https://www.spiegel.de/politik/deutschland/umfrage-mehrheit-der-deutschen-fuer-aufbau-eines-atom-schutzschirms-in-europa](https://www.spiegel.de/politik/deutschland/umfrage-mehrheit-der-deutschen-fuer-aufbau-eines-atom-schutzschirms-in-europa-a-b6f7ce77-8022-464b-8f52-4e6f19eba9f0#ref=rss)
-### ohne
+* [https://www.spiegel.de/wirtschaft/wirtschaft-bdi-rechnet-mit-konjunkturschwaeche-durch-zollstreit-mit-den-usa](https://www.spiegel.de/wirtschaft/wirtschaft-bdi-rechnet-mit-konjunkturschwaeche-durch-zollstreit-mit-den-usa-a-a4366605-80e1-4adb-8203-5d214725377f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-plant-fuer-2029-mit-3-5-prozent-verteidigungsausgaben](https://www.spiegel.de/politik/deutschland/lars-klingbeil-plant-fuer-2029-mit-3-5-prozent-verteidigungsausgaben-a-7e3c6d95-8a2d-4597-b2a6-366497789b0a#ref=rss)
+### außenminister
 
-* [https://www.spiegel.de/politik/deutschland/umfrage-mehrheit-der-deutschen-fuer-aufbau-eines-atom-schutzschirms-in-europa](https://www.spiegel.de/politik/deutschland/umfrage-mehrheit-der-deutschen-fuer-aufbau-eines-atom-schutzschirms-in-europa-a-b6f7ce77-8022-464b-8f52-4e6f19eba9f0#ref=rss)
-* [https://www.spiegel.de/ausland/usa-greifen-iran-an-donald-trump-agiert-verfassungswidrig-vermutlich-wird-es-folgenlos-bleiben](https://www.spiegel.de/ausland/usa-greifen-iran-an-donald-trump-agiert-verfassungswidrig-vermutlich-wird-es-folgenlos-bleiben-a-fc607d9f-2e6a-48e8-90cb-e29846204d87#ref=rss)
-### italien
+* [https://www.spiegel.de/politik/deutschland/iran-cdu-spitze-widerspricht-aussenminister-johann-wadephul-nach-aussagen-zu-nahost](https://www.spiegel.de/politik/deutschland/iran-cdu-spitze-widerspricht-aussenminister-johann-wadephul-nach-aussagen-zu-nahost-a-9af42929-8687-49c4-b22b-a36e1205f39e#ref=rss)
+### wadephul
 
-* [https://www.spiegel.de/politik/deutschland/umfrage-mehrheit-der-deutschen-fuer-aufbau-eines-atom-schutzschirms-in-europa](https://www.spiegel.de/politik/deutschland/umfrage-mehrheit-der-deutschen-fuer-aufbau-eines-atom-schutzschirms-in-europa-a-b6f7ce77-8022-464b-8f52-4e6f19eba9f0#ref=rss)
-* [https://www.spiegel.de/reise/europa/neues-camper-gesetz-in-griechenland-ist-freies-stehen-am-meer-vorbei](https://www.spiegel.de/reise/europa/neues-camper-gesetz-in-griechenland-ist-freies-stehen-am-meer-vorbei-a-08a47947-5869-4ffa-a20f-745b6828297c#ref=rss)
-### berlinneukölln
+* [https://www.spiegel.de/politik/deutschland/iran-cdu-spitze-widerspricht-aussenminister-johann-wadephul-nach-aussagen-zu-nahost](https://www.spiegel.de/politik/deutschland/iran-cdu-spitze-widerspricht-aussenminister-johann-wadephul-nach-aussagen-zu-nahost-a-9af42929-8687-49c4-b22b-a36e1205f39e#ref=rss)
+### 35
 
-* [https://www.spiegel.de/panorama/justiz/koernerpark-in-berlin-neukoelln-mordkommission-ermittelt-nach-tod-von-28-jaehrigem](https://www.spiegel.de/panorama/justiz/koernerpark-in-berlin-neukoelln-mordkommission-ermittelt-nach-tod-von-28-jaehrigem-a-dc25f5f1-52ba-4002-94ca-4da18de11f05#ref=rss)
-### indiana
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-plant-fuer-2029-mit-3-5-prozent-verteidigungsausgaben](https://www.spiegel.de/politik/deutschland/lars-klingbeil-plant-fuer-2029-mit-3-5-prozent-verteidigungsausgaben-a-7e3c6d95-8a2d-4597-b2a6-366497789b0a#ref=rss)
+### verteidigungsausgaben
 
-* [https://www.spiegel.de/sport/basketball/indiana-pacers-verlieren-nba-finals-gegen-oklahoma-city-thunder-brutaler-kann-ein-maerchen-nicht-enden](https://www.spiegel.de/sport/basketball/indiana-pacers-verlieren-nba-finals-gegen-oklahoma-city-thunder-brutaler-kann-ein-maerchen-nicht-enden-a-68c30a6c-a6f3-446f-9409-ed41687e64c0#ref=rss)
-### pacers
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-plant-fuer-2029-mit-3-5-prozent-verteidigungsausgaben](https://www.spiegel.de/politik/deutschland/lars-klingbeil-plant-fuer-2029-mit-3-5-prozent-verteidigungsausgaben-a-7e3c6d95-8a2d-4597-b2a6-366497789b0a#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/sport/basketball/indiana-pacers-verlieren-nba-finals-gegen-oklahoma-city-thunder-brutaler-kann-ein-maerchen-nicht-enden](https://www.spiegel.de/sport/basketball/indiana-pacers-verlieren-nba-finals-gegen-oklahoma-city-thunder-brutaler-kann-ein-maerchen-nicht-enden-a-68c30a6c-a6f3-446f-9409-ed41687e64c0#ref=rss)
-### siegen
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-plant-fuer-2029-mit-3-5-prozent-verteidigungsausgaben](https://www.spiegel.de/politik/deutschland/lars-klingbeil-plant-fuer-2029-mit-3-5-prozent-verteidigungsausgaben-a-7e3c6d95-8a2d-4597-b2a6-366497789b0a#ref=rss)
+* [https://www.spiegel.de/kultur/arnaldo-pomodoro-ist-tot-legendaerer-bildhauer-mit-98-jahren-gestorben](https://www.spiegel.de/kultur/arnaldo-pomodoro-ist-tot-legendaerer-bildhauer-mit-98-jahren-gestorben-a-2f0417a5-b4cf-402c-99f9-85cdad753599#ref=rss)
+### janet
 
-* [https://www.spiegel.de/start/studieren-in-siegen-campus-wohnviertel-wg-zimmer-preise-kneipen](https://www.spiegel.de/start/studieren-in-siegen-campus-wohnviertel-wg-zimmer-preise-kneipen-a-0624f47e-f2c7-4384-a316-cbb6113e5aae#ref=rss)
-### sprachen
+* [https://www.spiegel.de/wissenschaft/weltall/nasa-amtierende-chefin-janet-petro-verteidigt-sparplaene-von-donald-trump](https://www.spiegel.de/wissenschaft/weltall/nasa-amtierende-chefin-janet-petro-verteidigt-sparplaene-von-donald-trump-a-38d65a79-39fe-4d04-b928-bb0c2a5f6dab#ref=rss)
+### petro
 
-* [https://www.spiegel.de/kultur/sprachen-lernen-online-warum-ich-mit-duolingo-daddeln-lernte-aber-kein-italienisch](https://www.spiegel.de/kultur/sprachen-lernen-online-warum-ich-mit-duolingo-daddeln-lernte-aber-kein-italienisch-a-32508f58-8f25-4632-b6f7-5411592cd42f#ref=rss)
-### lernen
+* [https://www.spiegel.de/wissenschaft/weltall/nasa-amtierende-chefin-janet-petro-verteidigt-sparplaene-von-donald-trump](https://www.spiegel.de/wissenschaft/weltall/nasa-amtierende-chefin-janet-petro-verteidigt-sparplaene-von-donald-trump-a-38d65a79-39fe-4d04-b928-bb0c2a5f6dab#ref=rss)
+### verteidigt
 
-* [https://www.spiegel.de/kultur/sprachen-lernen-online-warum-ich-mit-duolingo-daddeln-lernte-aber-kein-italienisch](https://www.spiegel.de/kultur/sprachen-lernen-online-warum-ich-mit-duolingo-daddeln-lernte-aber-kein-italienisch-a-32508f58-8f25-4632-b6f7-5411592cd42f#ref=rss)
-### duolingo
+* [https://www.spiegel.de/wissenschaft/weltall/nasa-amtierende-chefin-janet-petro-verteidigt-sparplaene-von-donald-trump](https://www.spiegel.de/wissenschaft/weltall/nasa-amtierende-chefin-janet-petro-verteidigt-sparplaene-von-donald-trump-a-38d65a79-39fe-4d04-b928-bb0c2a5f6dab#ref=rss)
+### allison
 
-* [https://www.spiegel.de/kultur/sprachen-lernen-online-warum-ich-mit-duolingo-daddeln-lernte-aber-kein-italienisch](https://www.spiegel.de/kultur/sprachen-lernen-online-warum-ich-mit-duolingo-daddeln-lernte-aber-kein-italienisch-a-32508f58-8f25-4632-b6f7-5411592cd42f#ref=rss)
-### neues
+* [https://www.spiegel.de/panorama/leute/allison-williams-findet-momfluencerinnen-toxisch](https://www.spiegel.de/panorama/leute/allison-williams-findet-momfluencerinnen-toxisch-a-9980c8d8-bbbb-4c0a-bf1e-bbce2b582fc7#ref=rss)
+### williams
 
-* [https://www.spiegel.de/reise/europa/neues-camper-gesetz-in-griechenland-ist-freies-stehen-am-meer-vorbei](https://www.spiegel.de/reise/europa/neues-camper-gesetz-in-griechenland-ist-freies-stehen-am-meer-vorbei-a-08a47947-5869-4ffa-a20f-745b6828297c#ref=rss)
+* [https://www.spiegel.de/panorama/leute/allison-williams-findet-momfluencerinnen-toxisch](https://www.spiegel.de/panorama/leute/allison-williams-findet-momfluencerinnen-toxisch-a-9980c8d8-bbbb-4c0a-bf1e-bbce2b582fc7#ref=rss)
+### findet
+
+* [https://www.spiegel.de/panorama/leute/allison-williams-findet-momfluencerinnen-toxisch](https://www.spiegel.de/panorama/leute/allison-williams-findet-momfluencerinnen-toxisch-a-9980c8d8-bbbb-4c0a-bf1e-bbce2b582fc7#ref=rss)
+### iraner
+
+* [https://www.spiegel.de/ausland/israel-iran-krieg-wo-sollen-die-iraner-denn-hin](https://www.spiegel.de/ausland/israel-iran-krieg-wo-sollen-die-iraner-denn-hin-a-14ca6f9a-0d85-4aba-b1f5-f12dfb1b864e#ref=rss)
+### hatten
+
+* [https://www.spiegel.de/ausland/israel-iran-krieg-wo-sollen-die-iraner-denn-hin](https://www.spiegel.de/ausland/israel-iran-krieg-wo-sollen-die-iraner-denn-hin-a-14ca6f9a-0d85-4aba-b1f5-f12dfb1b864e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/donald-trump-und-der-westen-die-grosse-unterwuerfigkeit-kommentar](https://www.spiegel.de/politik/deutschland/donald-trump-und-der-westen-die-grosse-unterwuerfigkeit-kommentar-a-2372984e-d42f-406a-a35b-faa3898ca786#ref=rss)
+### westen
+
+* [https://www.spiegel.de/politik/deutschland/donald-trump-und-der-westen-die-grosse-unterwuerfigkeit-kommentar](https://www.spiegel.de/politik/deutschland/donald-trump-und-der-westen-die-grosse-unterwuerfigkeit-kommentar-a-2372984e-d42f-406a-a35b-faa3898ca786#ref=rss)
+### arnaldo
+
+* [https://www.spiegel.de/kultur/arnaldo-pomodoro-ist-tot-legendaerer-bildhauer-mit-98-jahren-gestorben](https://www.spiegel.de/kultur/arnaldo-pomodoro-ist-tot-legendaerer-bildhauer-mit-98-jahren-gestorben-a-2f0417a5-b4cf-402c-99f9-85cdad753599#ref=rss)
+### bildhauer
+
+* [https://www.spiegel.de/kultur/arnaldo-pomodoro-ist-tot-legendaerer-bildhauer-mit-98-jahren-gestorben](https://www.spiegel.de/kultur/arnaldo-pomodoro-ist-tot-legendaerer-bildhauer-mit-98-jahren-gestorben-a-2f0417a5-b4cf-402c-99f9-85cdad753599#ref=rss)
+### gestorben
+
+* [https://www.spiegel.de/kultur/arnaldo-pomodoro-ist-tot-legendaerer-bildhauer-mit-98-jahren-gestorben](https://www.spiegel.de/kultur/arnaldo-pomodoro-ist-tot-legendaerer-bildhauer-mit-98-jahren-gestorben-a-2f0417a5-b4cf-402c-99f9-85cdad753599#ref=rss)
 
