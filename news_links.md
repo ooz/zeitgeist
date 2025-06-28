@@ -4,386 +4,333 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### usa
+### neues
 
-* [https://www.spiegel.de/ausland/usa-supreme-court-erlaubt-fehlen-bei-lgbtqi-inhalten-im-unterricht](https://www.spiegel.de/ausland/usa-supreme-court-erlaubt-fehlen-bei-lgbtqi-inhalten-im-unterricht-a-d0322d34-049e-4356-8c87-f6182184c717#ref=rss)
-* [https://www.spiegel.de/ausland/usa-oberstes-gericht-staerkt-trump-gegen-einzelne-bundesrichter](https://www.spiegel.de/ausland/usa-oberstes-gericht-staerkt-trump-gegen-einzelne-bundesrichter-a-706d237e-2d05-4c76-b9a1-6da9f340ec2c#ref=rss)
-* [https://www.spiegel.de/kultur/musik/album-der-woche-mit-bruce-springsteen-tracks-ii-alternative-rock](https://www.spiegel.de/kultur/musik/album-der-woche-mit-bruce-springsteen-tracks-ii-alternative-rock-a-97df3a92-4593-48d9-abe0-747a6cb5ddb9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/usa-und-china-lockern-beschraenkungen-im-handelskrieg](https://www.spiegel.de/wirtschaft/usa-und-china-lockern-beschraenkungen-im-handelskrieg-a-5f5da154-f997-44e4-958a-bf74329fa944#ref=rss)
-### spd
-
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-spd-streit-ueber-stellen-fuer-altkanzler-olaf-scholz](https://www.spiegel.de/politik/deutschland/cdu-csu-spd-streit-ueber-stellen-fuer-altkanzler-olaf-scholz-a-fb9b41da-2efc-4451-8d8a-3d6ec9492dfe#ref=rss)
-* [https://www.spiegel.de/wirtschaft/mindestlohn-steigt-warum-das-politische-theater-darum-unwuerdig-ist-meinung](https://www.spiegel.de/wirtschaft/mindestlohn-steigt-warum-das-politische-theater-darum-unwuerdig-ist-meinung-a-801b9600-3ab1-4405-9e78-8d3c6157d03a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-spd-parteitag-rtl-kauft-sky-deutschland-jeff-bezos](https://www.spiegel.de/politik/deutschland/news-des-tages-spd-parteitag-rtl-kauft-sky-deutschland-jeff-bezos-a-eb61251d-69fb-4dfa-a847-200aef175a9d#ref=rss)
-### euro
-
-* [https://www.spiegel.de/panorama/gesellschaft/berlin-warum-herr-lange-einen-ddr-grenzturm-fuer-156-000-euro-ersteigert-hat](https://www.spiegel.de/panorama/gesellschaft/berlin-warum-herr-lange-einen-ddr-grenzturm-fuer-156-000-euro-ersteigert-hat-a-845beeb3-0e72-44f4-984c-4be32c045045#ref=rss)
-* [https://www.spiegel.de/wirtschaft/mindestlohn-steigt-warum-das-politische-theater-darum-unwuerdig-ist-meinung](https://www.spiegel.de/wirtschaft/mindestlohn-steigt-warum-das-politische-theater-darum-unwuerdig-ist-meinung-a-801b9600-3ab1-4405-9e78-8d3c6157d03a#ref=rss)
-* [https://www.spiegel.de/panorama/unwetter-sorgt-in-kz-gedenkstaette-sachsenhausen-fuer-groessere-schaeden](https://www.spiegel.de/panorama/unwetter-sorgt-in-kz-gedenkstaette-sachsenhausen-fuer-groessere-schaeden-a-76f138bb-e258-4ae4-8371-75344b3ba92d#ref=rss)
-### jeff
-
-* [https://www.spiegel.de/panorama/jeff-bezos-so-laeuft-die-hochzeit-des-amazon-gruenders-mit-lauren-sanchez-in-venedig-newsblog](https://www.spiegel.de/panorama/jeff-bezos-so-laeuft-die-hochzeit-des-amazon-gruenders-mit-lauren-sanchez-in-venedig-newsblog-a-8ebab16c-f310-43d9-8e3d-c0dfbebef19b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-spd-parteitag-rtl-kauft-sky-deutschland-jeff-bezos](https://www.spiegel.de/politik/deutschland/news-des-tages-spd-parteitag-rtl-kauft-sky-deutschland-jeff-bezos-a-eb61251d-69fb-4dfa-a847-200aef175a9d#ref=rss)
-### bezos
-
-* [https://www.spiegel.de/panorama/jeff-bezos-so-laeuft-die-hochzeit-des-amazon-gruenders-mit-lauren-sanchez-in-venedig-newsblog](https://www.spiegel.de/panorama/jeff-bezos-so-laeuft-die-hochzeit-des-amazon-gruenders-mit-lauren-sanchez-in-venedig-newsblog-a-8ebab16c-f310-43d9-8e3d-c0dfbebef19b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-spd-parteitag-rtl-kauft-sky-deutschland-jeff-bezos](https://www.spiegel.de/politik/deutschland/news-des-tages-spd-parteitag-rtl-kauft-sky-deutschland-jeff-bezos-a-eb61251d-69fb-4dfa-a847-200aef175a9d#ref=rss)
-### the
-
-* [https://www.spiegel.de/kultur/musik/album-der-woche-mit-bruce-springsteen-tracks-ii-alternative-rock](https://www.spiegel.de/kultur/musik/album-der-woche-mit-bruce-springsteen-tracks-ii-alternative-rock-a-97df3a92-4593-48d9-abe0-747a6cb5ddb9#ref=rss)
-* [https://www.spiegel.de/kultur/tv/the-bear-rezension-zu-staffel-4-kommt-doch-mal-zum-ende](https://www.spiegel.de/kultur/tv/the-bear-rezension-zu-staffel-4-kommt-doch-mal-zum-ende-a-976ffe67-76eb-4ce7-83f7-6ea514822d92#ref=rss)
-### t
-
-* [https://www.spiegel.de/panorama/justiz/ungarn-maja-t-drohen-bis-zu-24-jahre-haft-nach-auslieferung](https://www.spiegel.de/panorama/justiz/ungarn-maja-t-drohen-bis-zu-24-jahre-haft-nach-auslieferung-a-2e40ddc5-4ab4-4684-95f7-5d21610c7fff#ref=rss)
-### haft
-
-* [https://www.spiegel.de/panorama/justiz/ungarn-maja-t-drohen-bis-zu-24-jahre-haft-nach-auslieferung](https://www.spiegel.de/panorama/justiz/ungarn-maja-t-drohen-bis-zu-24-jahre-haft-nach-auslieferung-a-2e40ddc5-4ab4-4684-95f7-5d21610c7fff#ref=rss)
-* [https://www.spiegel.de/panorama/jimi-blue-ochsenknecht-soll-ueber-wochenende-in-haft-bleiben](https://www.spiegel.de/panorama/jimi-blue-ochsenknecht-soll-ueber-wochenende-in-haft-bleiben-a-cce58ffe-fdbb-4571-9a0a-fed33e17c8b1#ref=rss)
-### fall
-
-* [https://www.spiegel.de/panorama/justiz/ungarn-maja-t-drohen-bis-zu-24-jahre-haft-nach-auslieferung](https://www.spiegel.de/panorama/justiz/ungarn-maja-t-drohen-bis-zu-24-jahre-haft-nach-auslieferung-a-2e40ddc5-4ab4-4684-95f7-5d21610c7fff#ref=rss)
-* [https://www.spiegel.de/ausland/usa-supreme-court-erlaubt-fehlen-bei-lgbtqi-inhalten-im-unterricht](https://www.spiegel.de/ausland/usa-supreme-court-erlaubt-fehlen-bei-lgbtqi-inhalten-im-unterricht-a-d0322d34-049e-4356-8c87-f6182184c717#ref=rss)
-* [https://www.spiegel.de/panorama/bernhard-guenther-opfer-von-saeureanschlag-meldet-sich-mit-kampfansage](https://www.spiegel.de/panorama/bernhard-guenther-opfer-von-saeureanschlag-meldet-sich-mit-kampfansage-a-a2e350e9-c2b7-4568-904c-17e1aa1b9d60#ref=rss)
-### unter
-
-* [https://www.spiegel.de/panorama/gesellschaft/berlin-warum-herr-lange-einen-ddr-grenzturm-fuer-156-000-euro-ersteigert-hat](https://www.spiegel.de/panorama/gesellschaft/berlin-warum-herr-lange-einen-ddr-grenzturm-fuer-156-000-euro-ersteigert-hat-a-845beeb3-0e72-44f4-984c-4be32c045045#ref=rss)
-* [https://www.spiegel.de/ausland/usa-supreme-court-erlaubt-fehlen-bei-lgbtqi-inhalten-im-unterricht](https://www.spiegel.de/ausland/usa-supreme-court-erlaubt-fehlen-bei-lgbtqi-inhalten-im-unterricht-a-d0322d34-049e-4356-8c87-f6182184c717#ref=rss)
-* [https://www.spiegel.de/stil/paprika-schneiden-so-wird-es-gemacht](https://www.spiegel.de/stil/paprika-schneiden-so-wird-es-gemacht-a-a339882d-c1ec-43a3-84e0-505f17c26058#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/ausland/usa-supreme-court-erlaubt-fehlen-bei-lgbtqi-inhalten-im-unterricht](https://www.spiegel.de/ausland/usa-supreme-court-erlaubt-fehlen-bei-lgbtqi-inhalten-im-unterricht-a-d0322d34-049e-4356-8c87-f6182184c717#ref=rss)
-* [https://www.spiegel.de/kultur/sean-diddy-combs-vor-gericht-verteidigung-will-im-schlussplaedoyer-nichts-von-verbrechen-wissen](https://www.spiegel.de/kultur/sean-diddy-combs-vor-gericht-verteidigung-will-im-schlussplaedoyer-nichts-von-verbrechen-wissen-a-f4add783-6e1b-44f8-aef1-7e31c7b0c290#ref=rss)
-* [https://www.spiegel.de/ausland/usa-oberstes-gericht-staerkt-trump-gegen-einzelne-bundesrichter](https://www.spiegel.de/ausland/usa-oberstes-gericht-staerkt-trump-gegen-einzelne-bundesrichter-a-706d237e-2d05-4c76-b9a1-6da9f340ec2c#ref=rss)
-### venedig
-
-* [https://www.spiegel.de/panorama/jeff-bezos-so-laeuft-die-hochzeit-des-amazon-gruenders-mit-lauren-sanchez-in-venedig-newsblog](https://www.spiegel.de/panorama/jeff-bezos-so-laeuft-die-hochzeit-des-amazon-gruenders-mit-lauren-sanchez-in-venedig-newsblog-a-8ebab16c-f310-43d9-8e3d-c0dfbebef19b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-spd-parteitag-rtl-kauft-sky-deutschland-jeff-bezos](https://www.spiegel.de/politik/deutschland/news-des-tages-spd-parteitag-rtl-kauft-sky-deutschland-jeff-bezos-a-eb61251d-69fb-4dfa-a847-200aef175a9d#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-sparplaene-sorgen-fuer-aerger-und-unverstaendnis](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-sparplaene-sorgen-fuer-aerger-und-unverstaendnis-a-a213ab75-564d-47f2-9dd0-c502c23db368#ref=rss)
-* [https://www.spiegel.de/sport/fussball/so-wird-die-kommende-bundesliga-saison-laufen-vielleicht](https://www.spiegel.de/sport/fussball/so-wird-die-kommende-bundesliga-saison-laufen-vielleicht-a-0c132d49-171d-4e51-a307-90f5648a282a#ref=rss)
-### viele
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-sparplaene-sorgen-fuer-aerger-und-unverstaendnis](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-sparplaene-sorgen-fuer-aerger-und-unverstaendnis-a-a213ab75-564d-47f2-9dd0-c502c23db368#ref=rss)
-* [https://www.spiegel.de/panorama/unwetter-sorgt-in-kz-gedenkstaette-sachsenhausen-fuer-groessere-schaeden](https://www.spiegel.de/panorama/unwetter-sorgt-in-kz-gedenkstaette-sachsenhausen-fuer-groessere-schaeden-a-76f138bb-e258-4ae4-8371-75344b3ba92d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/usa-und-china-lockern-beschraenkungen-im-handelskrieg](https://www.spiegel.de/wirtschaft/usa-und-china-lockern-beschraenkungen-im-handelskrieg-a-5f5da154-f997-44e4-958a-bf74329fa944#ref=rss)
-### opfer
-
-* [https://www.spiegel.de/panorama/hamburg-haftbefehl-nach-toedlicher-messerattacke-in-einkaufszentrum](https://www.spiegel.de/panorama/hamburg-haftbefehl-nach-toedlicher-messerattacke-in-einkaufszentrum-a-9658fe9f-7f6d-4d6a-a819-a69cca53f814#ref=rss)
-* [https://www.spiegel.de/panorama/bernhard-guenther-opfer-von-saeureanschlag-meldet-sich-mit-kampfansage](https://www.spiegel.de/panorama/bernhard-guenther-opfer-von-saeureanschlag-meldet-sich-mit-kampfansage-a-a2e350e9-c2b7-4568-904c-17e1aa1b9d60#ref=rss)
-### wir
-
-* [https://www.spiegel.de/sport/fussball/so-wird-die-kommende-bundesliga-saison-laufen-vielleicht](https://www.spiegel.de/sport/fussball/so-wird-die-kommende-bundesliga-saison-laufen-vielleicht-a-0c132d49-171d-4e51-a307-90f5648a282a#ref=rss)
-* [https://www.spiegel.de/stil/paprika-schneiden-so-wird-es-gemacht](https://www.spiegel.de/stil/paprika-schneiden-so-wird-es-gemacht-a-a339882d-c1ec-43a3-84e0-505f17c26058#ref=rss)
+* [https://www.spiegel.de/familie/ferien-mit-der-familie-neues-ausprobieren-im-urlaub-mit-kindern](https://www.spiegel.de/familie/ferien-mit-der-familie-neues-ausprobieren-im-urlaub-mit-kindern-a-fb7c80fa-7ece-4a88-a0a4-aff2b3a10106#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundesregierung-will-beschaffung-von-waffen-durch-neues-gesetz-beschleunigen](https://www.spiegel.de/politik/deutschland/bundesregierung-will-beschaffung-von-waffen-durch-neues-gesetz-beschleunigen-a-ccfa9d72-5077-40eb-90ea-54d4fd227476#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gruene-wollen-keine-elite-partei-sein-neues-strategiepapier](https://www.spiegel.de/politik/deutschland/gruene-wollen-keine-elite-partei-sein-neues-strategiepapier-a-17724c09-d904-4ccf-a9a8-898b08bad790#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-pride-parade-in-budapest-spd-parteitag-fehleranalyse-der-gruenen](https://www.spiegel.de/politik/deutschland/news-pride-parade-in-budapest-spd-parteitag-fehleranalyse-der-gruenen-a-773adc9c-4c4e-4f5b-8666-141630a170e2#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/wissenschaft/wetter-in-suedeuropa-extreme-hitze-ueber-40-grad-erwartet](https://www.spiegel.de/wissenschaft/wetter-in-suedeuropa-extreme-hitze-ueber-40-grad-erwartet-a-5694dced-2203-4cf9-bdd8-e5b1c1ebdcc0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-spd-parteitag-rtl-kauft-sky-deutschland-jeff-bezos](https://www.spiegel.de/politik/deutschland/news-des-tages-spd-parteitag-rtl-kauft-sky-deutschland-jeff-bezos-a-eb61251d-69fb-4dfa-a847-200aef175a9d#ref=rss)
-### israel
-
-* [https://www.spiegel.de/kultur/zeit-loescht-im-netz-kolumne-morbus-israel-von-maxim-biller](https://www.spiegel.de/kultur/zeit-loescht-im-netz-kolumne-morbus-israel-von-maxim-biller-a-61db226e-f125-42d5-8d87-265126b0d270#ref=rss)
-* [https://www.spiegel.de/ausland/bericht-ueber-gazastreifen-israels-armee-schiesst-gezielt-auf-hungernde-palaestinenser](https://www.spiegel.de/ausland/bericht-ueber-gazastreifen-israels-armee-schiesst-gezielt-auf-hungernde-palaestinenser-a-51ca124f-a6c0-41af-9114-0d0e750b643a#ref=rss)
-### nie
-
-* [https://www.spiegel.de/kultur/musik/album-der-woche-mit-bruce-springsteen-tracks-ii-alternative-rock](https://www.spiegel.de/kultur/musik/album-der-woche-mit-bruce-springsteen-tracks-ii-alternative-rock-a-97df3a92-4593-48d9-abe0-747a6cb5ddb9#ref=rss)
-* [https://www.spiegel.de/kultur/anna-wintour-und-ihr-behaupteter-ruecktritt-im-zentrum-des-modeimperiums](https://www.spiegel.de/kultur/anna-wintour-und-ihr-behaupteter-ruecktritt-im-zentrum-des-modeimperiums-a-defbc6b3-882f-4177-8878-ef46154500ca#ref=rss)
-### streit
-
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-spd-streit-ueber-stellen-fuer-altkanzler-olaf-scholz](https://www.spiegel.de/politik/deutschland/cdu-csu-spd-streit-ueber-stellen-fuer-altkanzler-olaf-scholz-a-fb9b41da-2efc-4451-8d8a-3d6ec9492dfe#ref=rss)
-* [https://www.spiegel.de/panorama/hamburg-haftbefehl-nach-toedlicher-messerattacke-in-einkaufszentrum](https://www.spiegel.de/panorama/hamburg-haftbefehl-nach-toedlicher-messerattacke-in-einkaufszentrum-a-9658fe9f-7f6d-4d6a-a819-a69cca53f814#ref=rss)
-### stellen
-
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-spd-streit-ueber-stellen-fuer-altkanzler-olaf-scholz](https://www.spiegel.de/politik/deutschland/cdu-csu-spd-streit-ueber-stellen-fuer-altkanzler-olaf-scholz-a-fb9b41da-2efc-4451-8d8a-3d6ec9492dfe#ref=rss)
-### scholz
-
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-spd-streit-ueber-stellen-fuer-altkanzler-olaf-scholz](https://www.spiegel.de/politik/deutschland/cdu-csu-spd-streit-ueber-stellen-fuer-altkanzler-olaf-scholz-a-fb9b41da-2efc-4451-8d8a-3d6ec9492dfe#ref=rss)
-### neue
-
-* [https://www.spiegel.de/politik/deutschland/cdu-csu-spd-streit-ueber-stellen-fuer-altkanzler-olaf-scholz](https://www.spiegel.de/politik/deutschland/cdu-csu-spd-streit-ueber-stellen-fuer-altkanzler-olaf-scholz-a-fb9b41da-2efc-4451-8d8a-3d6ec9492dfe#ref=rss)
-* [https://www.spiegel.de/panorama/bernhard-guenther-opfer-von-saeureanschlag-meldet-sich-mit-kampfansage](https://www.spiegel.de/panorama/bernhard-guenther-opfer-von-saeureanschlag-meldet-sich-mit-kampfansage-a-a2e350e9-c2b7-4568-904c-17e1aa1b9d60#ref=rss)
-### ungarn
-
-* [https://www.spiegel.de/panorama/justiz/ungarn-maja-t-drohen-bis-zu-24-jahre-haft-nach-auslieferung](https://www.spiegel.de/panorama/justiz/ungarn-maja-t-drohen-bis-zu-24-jahre-haft-nach-auslieferung-a-2e40ddc5-4ab4-4684-95f7-5d21610c7fff#ref=rss)
-### maja
-
-* [https://www.spiegel.de/panorama/justiz/ungarn-maja-t-drohen-bis-zu-24-jahre-haft-nach-auslieferung](https://www.spiegel.de/panorama/justiz/ungarn-maja-t-drohen-bis-zu-24-jahre-haft-nach-auslieferung-a-2e40ddc5-4ab4-4684-95f7-5d21610c7fff#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/panorama/justiz/ungarn-maja-t-drohen-bis-zu-24-jahre-haft-nach-auslieferung](https://www.spiegel.de/panorama/justiz/ungarn-maja-t-drohen-bis-zu-24-jahre-haft-nach-auslieferung-a-2e40ddc5-4ab4-4684-95f7-5d21610c7fff#ref=rss)
-* [https://www.spiegel.de/panorama/jimi-blue-ochsenknecht-soll-ueber-wochenende-in-haft-bleiben](https://www.spiegel.de/panorama/jimi-blue-ochsenknecht-soll-ueber-wochenende-in-haft-bleiben-a-cce58ffe-fdbb-4571-9a0a-fed33e17c8b1#ref=rss)
-### sprechen
-
-* [https://www.spiegel.de/panorama/justiz/ungarn-maja-t-drohen-bis-zu-24-jahre-haft-nach-auslieferung](https://www.spiegel.de/panorama/justiz/ungarn-maja-t-drohen-bis-zu-24-jahre-haft-nach-auslieferung-a-2e40ddc5-4ab4-4684-95f7-5d21610c7fff#ref=rss)
-* [https://www.spiegel.de/sport/fussball/nick-woltemade-bei-der-u21-will-der-stuermer-des-vfb-stuttgart-nicht-ueber-den-fc-bayern-sprechen](https://www.spiegel.de/sport/fussball/nick-woltemade-bei-der-u21-will-der-stuermer-des-vfb-stuttgart-nicht-ueber-den-fc-bayern-sprechen-a-6b56ce6b-829e-4b80-9584-ed0fb953de60#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/panorama/gesellschaft/berlin-warum-herr-lange-einen-ddr-grenzturm-fuer-156-000-euro-ersteigert-hat](https://www.spiegel.de/panorama/gesellschaft/berlin-warum-herr-lange-einen-ddr-grenzturm-fuer-156-000-euro-ersteigert-hat-a-845beeb3-0e72-44f4-984c-4be32c045045#ref=rss)
-### sergej
-
-* [https://www.spiegel.de/ausland/sergej-tichanowski-wie-die-trump-regierung-belarus-oppositionsfuehrer-befreite](https://www.spiegel.de/ausland/sergej-tichanowski-wie-die-trump-regierung-belarus-oppositionsfuehrer-befreite-a-d3041aac-bf74-47b8-87b5-67853ce9dd91#ref=rss)
-### tichanowski
-
-* [https://www.spiegel.de/ausland/sergej-tichanowski-wie-die-trump-regierung-belarus-oppositionsfuehrer-befreite](https://www.spiegel.de/ausland/sergej-tichanowski-wie-die-trump-regierung-belarus-oppositionsfuehrer-befreite-a-d3041aac-bf74-47b8-87b5-67853ce9dd91#ref=rss)
-### ließ
-
-* [https://www.spiegel.de/ausland/sergej-tichanowski-wie-die-trump-regierung-belarus-oppositionsfuehrer-befreite](https://www.spiegel.de/ausland/sergej-tichanowski-wie-die-trump-regierung-belarus-oppositionsfuehrer-befreite-a-d3041aac-bf74-47b8-87b5-67853ce9dd91#ref=rss)
-* [https://www.spiegel.de/wirtschaft/usa-und-china-lockern-beschraenkungen-im-handelskrieg](https://www.spiegel.de/wirtschaft/usa-und-china-lockern-beschraenkungen-im-handelskrieg-a-5f5da154-f997-44e4-958a-bf74329fa944#ref=rss)
-### washington
-
-* [https://www.spiegel.de/ausland/sergej-tichanowski-wie-die-trump-regierung-belarus-oppositionsfuehrer-befreite](https://www.spiegel.de/ausland/sergej-tichanowski-wie-die-trump-regierung-belarus-oppositionsfuehrer-befreite-a-d3041aac-bf74-47b8-87b5-67853ce9dd91#ref=rss)
-* [https://www.spiegel.de/wirtschaft/usa-und-china-lockern-beschraenkungen-im-handelskrieg](https://www.spiegel.de/wirtschaft/usa-und-china-lockern-beschraenkungen-im-handelskrieg-a-5f5da154-f997-44e4-958a-bf74329fa944#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/sergej-tichanowski-wie-die-trump-regierung-belarus-oppositionsfuehrer-befreite](https://www.spiegel.de/ausland/sergej-tichanowski-wie-die-trump-regierung-belarus-oppositionsfuehrer-befreite-a-d3041aac-bf74-47b8-87b5-67853ce9dd91#ref=rss)
-* [https://www.spiegel.de/ausland/russland-wie-deutlich-muss-wladimir-putin-eigentlich-noch-werden-meinung](https://www.spiegel.de/ausland/russland-wie-deutlich-muss-wladimir-putin-eigentlich-noch-werden-meinung-a-e2c1661d-9624-442d-aac8-3ae9e2716287#ref=rss)
-### eltern
-
-* [https://www.spiegel.de/ausland/usa-supreme-court-erlaubt-fehlen-bei-lgbtqi-inhalten-im-unterricht](https://www.spiegel.de/ausland/usa-supreme-court-erlaubt-fehlen-bei-lgbtqi-inhalten-im-unterricht-a-d0322d34-049e-4356-8c87-f6182184c717#ref=rss)
-### oberste
-
-* [https://www.spiegel.de/ausland/usa-supreme-court-erlaubt-fehlen-bei-lgbtqi-inhalten-im-unterricht](https://www.spiegel.de/ausland/usa-supreme-court-erlaubt-fehlen-bei-lgbtqi-inhalten-im-unterricht-a-d0322d34-049e-4356-8c87-f6182184c717#ref=rss)
-* [https://www.spiegel.de/ausland/usa-oberstes-gericht-staerkt-trump-gegen-einzelne-bundesrichter](https://www.spiegel.de/ausland/usa-oberstes-gericht-staerkt-trump-gegen-einzelne-bundesrichter-a-706d237e-2d05-4c76-b9a1-6da9f340ec2c#ref=rss)
-### hochzeit
-
-* [https://www.spiegel.de/panorama/jeff-bezos-so-laeuft-die-hochzeit-des-amazon-gruenders-mit-lauren-sanchez-in-venedig-newsblog](https://www.spiegel.de/panorama/jeff-bezos-so-laeuft-die-hochzeit-des-amazon-gruenders-mit-lauren-sanchez-in-venedig-newsblog-a-8ebab16c-f310-43d9-8e3d-c0dfbebef19b#ref=rss)
-### lauren
-
-* [https://www.spiegel.de/panorama/jeff-bezos-so-laeuft-die-hochzeit-des-amazon-gruenders-mit-lauren-sanchez-in-venedig-newsblog](https://www.spiegel.de/panorama/jeff-bezos-so-laeuft-die-hochzeit-des-amazon-gruenders-mit-lauren-sanchez-in-venedig-newsblog-a-8ebab16c-f310-43d9-8e3d-c0dfbebef19b#ref=rss)
-### sánchez
-
-* [https://www.spiegel.de/panorama/jeff-bezos-so-laeuft-die-hochzeit-des-amazon-gruenders-mit-lauren-sanchez-in-venedig-newsblog](https://www.spiegel.de/panorama/jeff-bezos-so-laeuft-die-hochzeit-des-amazon-gruenders-mit-lauren-sanchez-in-venedig-newsblog-a-8ebab16c-f310-43d9-8e3d-c0dfbebef19b#ref=rss)
-### newsblog
-
-* [https://www.spiegel.de/panorama/jeff-bezos-so-laeuft-die-hochzeit-des-amazon-gruenders-mit-lauren-sanchez-in-venedig-newsblog](https://www.spiegel.de/panorama/jeff-bezos-so-laeuft-die-hochzeit-des-amazon-gruenders-mit-lauren-sanchez-in-venedig-newsblog-a-8ebab16c-f310-43d9-8e3d-c0dfbebef19b#ref=rss)
-### tödlichen
-
-* [https://www.spiegel.de/panorama/justiz/eisbach-welle-in-muenchen-wiedereroeffnet-weg-von-der-leine](https://www.spiegel.de/panorama/justiz/eisbach-welle-in-muenchen-wiedereroeffnet-weg-von-der-leine-a-51a34499-aaeb-484a-a325-f2d5475661c5#ref=rss)
-* [https://www.spiegel.de/panorama/hamburg-haftbefehl-nach-toedlicher-messerattacke-in-einkaufszentrum](https://www.spiegel.de/panorama/hamburg-haftbefehl-nach-toedlicher-messerattacke-in-einkaufszentrum-a-9658fe9f-7f6d-4d6a-a819-a69cca53f814#ref=rss)
-### monaten
-
-* [https://www.spiegel.de/panorama/justiz/eisbach-welle-in-muenchen-wiedereroeffnet-weg-von-der-leine](https://www.spiegel.de/panorama/justiz/eisbach-welle-in-muenchen-wiedereroeffnet-weg-von-der-leine-a-51a34499-aaeb-484a-a325-f2d5475661c5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/usa-und-china-lockern-beschraenkungen-im-handelskrieg](https://www.spiegel.de/wirtschaft/usa-und-china-lockern-beschraenkungen-im-handelskrieg-a-5f5da154-f997-44e4-958a-bf74329fa944#ref=rss)
-### sean
-
-* [https://www.spiegel.de/kultur/sean-diddy-combs-vor-gericht-verteidigung-will-im-schlussplaedoyer-nichts-von-verbrechen-wissen](https://www.spiegel.de/kultur/sean-diddy-combs-vor-gericht-verteidigung-will-im-schlussplaedoyer-nichts-von-verbrechen-wissen-a-f4add783-6e1b-44f8-aef1-7e31c7b0c290#ref=rss)
-### diddy
-
-* [https://www.spiegel.de/kultur/sean-diddy-combs-vor-gericht-verteidigung-will-im-schlussplaedoyer-nichts-von-verbrechen-wissen](https://www.spiegel.de/kultur/sean-diddy-combs-vor-gericht-verteidigung-will-im-schlussplaedoyer-nichts-von-verbrechen-wissen-a-f4add783-6e1b-44f8-aef1-7e31c7b0c290#ref=rss)
-### combs
-
-* [https://www.spiegel.de/kultur/sean-diddy-combs-vor-gericht-verteidigung-will-im-schlussplaedoyer-nichts-von-verbrechen-wissen](https://www.spiegel.de/kultur/sean-diddy-combs-vor-gericht-verteidigung-will-im-schlussplaedoyer-nichts-von-verbrechen-wissen-a-f4add783-6e1b-44f8-aef1-7e31c7b0c290#ref=rss)
-### verteidigung
-
-* [https://www.spiegel.de/kultur/sean-diddy-combs-vor-gericht-verteidigung-will-im-schlussplaedoyer-nichts-von-verbrechen-wissen](https://www.spiegel.de/kultur/sean-diddy-combs-vor-gericht-verteidigung-will-im-schlussplaedoyer-nichts-von-verbrechen-wissen-a-f4add783-6e1b-44f8-aef1-7e31c7b0c290#ref=rss)
-### schlussplädoyer
-
-* [https://www.spiegel.de/kultur/sean-diddy-combs-vor-gericht-verteidigung-will-im-schlussplaedoyer-nichts-von-verbrechen-wissen](https://www.spiegel.de/kultur/sean-diddy-combs-vor-gericht-verteidigung-will-im-schlussplaedoyer-nichts-von-verbrechen-wissen-a-f4add783-6e1b-44f8-aef1-7e31c7b0c290#ref=rss)
-### nichts
-
-* [https://www.spiegel.de/kultur/sean-diddy-combs-vor-gericht-verteidigung-will-im-schlussplaedoyer-nichts-von-verbrechen-wissen](https://www.spiegel.de/kultur/sean-diddy-combs-vor-gericht-verteidigung-will-im-schlussplaedoyer-nichts-von-verbrechen-wissen-a-f4add783-6e1b-44f8-aef1-7e31c7b0c290#ref=rss)
-* [https://www.spiegel.de/sport/fussball/nick-woltemade-bei-der-u21-will-der-stuermer-des-vfb-stuttgart-nicht-ueber-den-fc-bayern-sprechen](https://www.spiegel.de/sport/fussball/nick-woltemade-bei-der-u21-will-der-stuermer-des-vfb-stuttgart-nicht-ueber-den-fc-bayern-sprechen-a-6b56ce6b-829e-4b80-9584-ed0fb953de60#ref=rss)
-### bahn
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-sparplaene-sorgen-fuer-aerger-und-unverstaendnis](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-sparplaene-sorgen-fuer-aerger-und-unverstaendnis-a-a213ab75-564d-47f2-9dd0-c502c23db368#ref=rss)
-### haftbefehl
-
-* [https://www.spiegel.de/panorama/hamburg-haftbefehl-nach-toedlicher-messerattacke-in-einkaufszentrum](https://www.spiegel.de/panorama/hamburg-haftbefehl-nach-toedlicher-messerattacke-in-einkaufszentrum-a-9658fe9f-7f6d-4d6a-a819-a69cca53f814#ref=rss)
-### einkaufszentrum
-
-* [https://www.spiegel.de/panorama/hamburg-haftbefehl-nach-toedlicher-messerattacke-in-einkaufszentrum](https://www.spiegel.de/panorama/hamburg-haftbefehl-nach-toedlicher-messerattacke-in-einkaufszentrum-a-9658fe9f-7f6d-4d6a-a819-a69cca53f814#ref=rss)
-### täter
-
-* [https://www.spiegel.de/panorama/hamburg-haftbefehl-nach-toedlicher-messerattacke-in-einkaufszentrum](https://www.spiegel.de/panorama/hamburg-haftbefehl-nach-toedlicher-messerattacke-in-einkaufszentrum-a-9658fe9f-7f6d-4d6a-a819-a69cca53f814#ref=rss)
-### bernhard
-
-* [https://www.spiegel.de/panorama/bernhard-guenther-opfer-von-saeureanschlag-meldet-sich-mit-kampfansage](https://www.spiegel.de/panorama/bernhard-guenther-opfer-von-saeureanschlag-meldet-sich-mit-kampfansage-a-a2e350e9-c2b7-4568-904c-17e1aa1b9d60#ref=rss)
-### günther
-
-* [https://www.spiegel.de/panorama/bernhard-guenther-opfer-von-saeureanschlag-meldet-sich-mit-kampfansage](https://www.spiegel.de/panorama/bernhard-guenther-opfer-von-saeureanschlag-meldet-sich-mit-kampfansage-a-a2e350e9-c2b7-4568-904c-17e1aa1b9d60#ref=rss)
-### sieben
-
-* [https://www.spiegel.de/panorama/bernhard-guenther-opfer-von-saeureanschlag-meldet-sich-mit-kampfansage](https://www.spiegel.de/panorama/bernhard-guenther-opfer-von-saeureanschlag-meldet-sich-mit-kampfansage-a-a2e350e9-c2b7-4568-904c-17e1aa1b9d60#ref=rss)
-* [https://www.spiegel.de/kultur/musik/album-der-woche-mit-bruce-springsteen-tracks-ii-alternative-rock](https://www.spiegel.de/kultur/musik/album-der-woche-mit-bruce-springsteen-tracks-ii-alternative-rock-a-97df3a92-4593-48d9-abe0-747a6cb5ddb9#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/usa-oberstes-gericht-staerkt-trump-gegen-einzelne-bundesrichter](https://www.spiegel.de/ausland/usa-oberstes-gericht-staerkt-trump-gegen-einzelne-bundesrichter-a-706d237e-2d05-4c76-b9a1-6da9f340ec2c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/usa-und-china-lockern-beschraenkungen-im-handelskrieg](https://www.spiegel.de/wirtschaft/usa-und-china-lockern-beschraenkungen-im-handelskrieg-a-5f5da154-f997-44e4-958a-bf74329fa944#ref=rss)
-### bundesrichter
-
-* [https://www.spiegel.de/ausland/usa-oberstes-gericht-staerkt-trump-gegen-einzelne-bundesrichter](https://www.spiegel.de/ausland/usa-oberstes-gericht-staerkt-trump-gegen-einzelne-bundesrichter-a-706d237e-2d05-4c76-b9a1-6da9f340ec2c#ref=rss)
-### mindestlohn
-
-* [https://www.spiegel.de/wirtschaft/mindestlohn-steigt-warum-das-politische-theater-darum-unwuerdig-ist-meinung](https://www.spiegel.de/wirtschaft/mindestlohn-steigt-warum-das-politische-theater-darum-unwuerdig-ist-meinung-a-801b9600-3ab1-4405-9e78-8d3c6157d03a#ref=rss)
-### steigt
-
-* [https://www.spiegel.de/wirtschaft/mindestlohn-steigt-warum-das-politische-theater-darum-unwuerdig-ist-meinung](https://www.spiegel.de/wirtschaft/mindestlohn-steigt-warum-das-politische-theater-darum-unwuerdig-ist-meinung-a-801b9600-3ab1-4405-9e78-8d3c6157d03a#ref=rss)
-### meinung
-
-* [https://www.spiegel.de/wirtschaft/mindestlohn-steigt-warum-das-politische-theater-darum-unwuerdig-ist-meinung](https://www.spiegel.de/wirtschaft/mindestlohn-steigt-warum-das-politische-theater-darum-unwuerdig-ist-meinung-a-801b9600-3ab1-4405-9e78-8d3c6157d03a#ref=rss)
-* [https://www.spiegel.de/ausland/russland-wie-deutlich-muss-wladimir-putin-eigentlich-noch-werden-meinung](https://www.spiegel.de/ausland/russland-wie-deutlich-muss-wladimir-putin-eigentlich-noch-werden-meinung-a-e2c1661d-9624-442d-aac8-3ae9e2716287#ref=rss)
-### sollten
-
-* [https://www.spiegel.de/wirtschaft/mindestlohn-steigt-warum-das-politische-theater-darum-unwuerdig-ist-meinung](https://www.spiegel.de/wirtschaft/mindestlohn-steigt-warum-das-politische-theater-darum-unwuerdig-ist-meinung-a-801b9600-3ab1-4405-9e78-8d3c6157d03a#ref=rss)
-* [https://www.spiegel.de/ausland/suedkorea-us-buerger-wollen-per-flaschenpost-bibeln-nach-nordkorea-schicken](https://www.spiegel.de/ausland/suedkorea-us-buerger-wollen-per-flaschenpost-bibeln-nach-nordkorea-schicken-a-a3424078-8bf7-47fe-bfc1-04e0f8f55020#ref=rss)
-### bundesligasaison
-
-* [https://www.spiegel.de/sport/fussball/so-wird-die-kommende-bundesliga-saison-laufen-vielleicht](https://www.spiegel.de/sport/fussball/so-wird-die-kommende-bundesliga-saison-laufen-vielleicht-a-0c132d49-171d-4e51-a307-90f5648a282a#ref=rss)
-### paprika
-
-* [https://www.spiegel.de/stil/paprika-schneiden-so-wird-es-gemacht](https://www.spiegel.de/stil/paprika-schneiden-so-wird-es-gemacht-a-a339882d-c1ec-43a3-84e0-505f17c26058#ref=rss)
-### glauben
-
-* [https://www.spiegel.de/stil/paprika-schneiden-so-wird-es-gemacht](https://www.spiegel.de/stil/paprika-schneiden-so-wird-es-gemacht-a-a339882d-c1ec-43a3-84e0-505f17c26058#ref=rss)
-* [https://www.spiegel.de/ausland/russland-wie-deutlich-muss-wladimir-putin-eigentlich-noch-werden-meinung](https://www.spiegel.de/ausland/russland-wie-deutlich-muss-wladimir-putin-eigentlich-noch-werden-meinung-a-e2c1661d-9624-442d-aac8-3ae9e2716287#ref=rss)
-### wochenende
-
-* [https://www.spiegel.de/wissenschaft/wetter-in-suedeuropa-extreme-hitze-ueber-40-grad-erwartet](https://www.spiegel.de/wissenschaft/wetter-in-suedeuropa-extreme-hitze-ueber-40-grad-erwartet-a-5694dced-2203-4cf9-bdd8-e5b1c1ebdcc0#ref=rss)
-* [https://www.spiegel.de/panorama/jimi-blue-ochsenknecht-soll-ueber-wochenende-in-haft-bleiben](https://www.spiegel.de/panorama/jimi-blue-ochsenknecht-soll-ueber-wochenende-in-haft-bleiben-a-cce58ffe-fdbb-4571-9a0a-fed33e17c8b1#ref=rss)
-### tages
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-spd-parteitag-rtl-kauft-sky-deutschland-jeff-bezos](https://www.spiegel.de/politik/deutschland/news-des-tages-spd-parteitag-rtl-kauft-sky-deutschland-jeff-bezos-a-eb61251d-69fb-4dfa-a847-200aef175a9d#ref=rss)
-* [https://www.spiegel.de/sport/fussball/nick-woltemade-bei-der-u21-will-der-stuermer-des-vfb-stuttgart-nicht-ueber-den-fc-bayern-sprechen](https://www.spiegel.de/sport/fussball/nick-woltemade-bei-der-u21-will-der-stuermer-des-vfb-stuttgart-nicht-ueber-den-fc-bayern-sprechen-a-6b56ce6b-829e-4b80-9584-ed0fb953de60#ref=rss)
-### rtl
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-spd-parteitag-rtl-kauft-sky-deutschland-jeff-bezos](https://www.spiegel.de/politik/deutschland/news-des-tages-spd-parteitag-rtl-kauft-sky-deutschland-jeff-bezos-a-eb61251d-69fb-4dfa-a847-200aef175a9d#ref=rss)
-### sky
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-spd-parteitag-rtl-kauft-sky-deutschland-jeff-bezos](https://www.spiegel.de/politik/deutschland/news-des-tages-spd-parteitag-rtl-kauft-sky-deutschland-jeff-bezos-a-eb61251d-69fb-4dfa-a847-200aef175a9d#ref=rss)
-### maxim
-
-* [https://www.spiegel.de/kultur/zeit-loescht-im-netz-kolumne-morbus-israel-von-maxim-biller](https://www.spiegel.de/kultur/zeit-loescht-im-netz-kolumne-morbus-israel-von-maxim-biller-a-61db226e-f125-42d5-8d87-265126b0d270#ref=rss)
-### biller
-
-* [https://www.spiegel.de/kultur/zeit-loescht-im-netz-kolumne-morbus-israel-von-maxim-biller](https://www.spiegel.de/kultur/zeit-loescht-im-netz-kolumne-morbus-israel-von-maxim-biller-a-61db226e-f125-42d5-8d87-265126b0d270#ref=rss)
-### hätte
-
-* [https://www.spiegel.de/kultur/zeit-loescht-im-netz-kolumne-morbus-israel-von-maxim-biller](https://www.spiegel.de/kultur/zeit-loescht-im-netz-kolumne-morbus-israel-von-maxim-biller-a-61db226e-f125-42d5-8d87-265126b0d270#ref=rss)
-* [https://www.spiegel.de/kultur/musik/album-der-woche-mit-bruce-springsteen-tracks-ii-alternative-rock](https://www.spiegel.de/kultur/musik/album-der-woche-mit-bruce-springsteen-tracks-ii-alternative-rock-a-97df3a92-4593-48d9-abe0-747a6cb5ddb9#ref=rss)
-### nick
-
-* [https://www.spiegel.de/sport/fussball/nick-woltemade-bei-der-u21-will-der-stuermer-des-vfb-stuttgart-nicht-ueber-den-fc-bayern-sprechen](https://www.spiegel.de/sport/fussball/nick-woltemade-bei-der-u21-will-der-stuermer-des-vfb-stuttgart-nicht-ueber-den-fc-bayern-sprechen-a-6b56ce6b-829e-4b80-9584-ed0fb953de60#ref=rss)
-### woltemade
-
-* [https://www.spiegel.de/sport/fussball/nick-woltemade-bei-der-u21-will-der-stuermer-des-vfb-stuttgart-nicht-ueber-den-fc-bayern-sprechen](https://www.spiegel.de/sport/fussball/nick-woltemade-bei-der-u21-will-der-stuermer-des-vfb-stuttgart-nicht-ueber-den-fc-bayern-sprechen-a-6b56ce6b-829e-4b80-9584-ed0fb953de60#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/nick-woltemade-bei-der-u21-will-der-stuermer-des-vfb-stuttgart-nicht-ueber-den-fc-bayern-sprechen](https://www.spiegel.de/sport/fussball/nick-woltemade-bei-der-u21-will-der-stuermer-des-vfb-stuttgart-nicht-ueber-den-fc-bayern-sprechen-a-6b56ce6b-829e-4b80-9584-ed0fb953de60#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/sport/fussball/nick-woltemade-bei-der-u21-will-der-stuermer-des-vfb-stuttgart-nicht-ueber-den-fc-bayern-sprechen](https://www.spiegel.de/sport/fussball/nick-woltemade-bei-der-u21-will-der-stuermer-des-vfb-stuttgart-nicht-ueber-den-fc-bayern-sprechen-a-6b56ce6b-829e-4b80-9584-ed0fb953de60#ref=rss)
-### usbürger
-
-* [https://www.spiegel.de/ausland/suedkorea-us-buerger-wollen-per-flaschenpost-bibeln-nach-nordkorea-schicken](https://www.spiegel.de/ausland/suedkorea-us-buerger-wollen-per-flaschenpost-bibeln-nach-nordkorea-schicken-a-a3424078-8bf7-47fe-bfc1-04e0f8f55020#ref=rss)
-### bibeln
-
-* [https://www.spiegel.de/ausland/suedkorea-us-buerger-wollen-per-flaschenpost-bibeln-nach-nordkorea-schicken](https://www.spiegel.de/ausland/suedkorea-us-buerger-wollen-per-flaschenpost-bibeln-nach-nordkorea-schicken-a-a3424078-8bf7-47fe-bfc1-04e0f8f55020#ref=rss)
-### nordkorea
-
-* [https://www.spiegel.de/ausland/suedkorea-us-buerger-wollen-per-flaschenpost-bibeln-nach-nordkorea-schicken](https://www.spiegel.de/ausland/suedkorea-us-buerger-wollen-per-flaschenpost-bibeln-nach-nordkorea-schicken-a-a3424078-8bf7-47fe-bfc1-04e0f8f55020#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/ausland/suedkorea-us-buerger-wollen-per-flaschenpost-bibeln-nach-nordkorea-schicken](https://www.spiegel.de/ausland/suedkorea-us-buerger-wollen-per-flaschenpost-bibeln-nach-nordkorea-schicken-a-a3424078-8bf7-47fe-bfc1-04e0f8f55020#ref=rss)
-* [https://www.spiegel.de/panorama/marius-borg-hoiby-ermittler-legen-sohn-von-mette-marit-23-straftaten-zur-last](https://www.spiegel.de/panorama/marius-borg-hoiby-ermittler-legen-sohn-von-mette-marit-23-straftaten-zur-last-a-6e4bca9c-07bc-4d09-a9a0-f1fdafaf1087#ref=rss)
-### gaza
-
-* [https://www.spiegel.de/ausland/bericht-ueber-gazastreifen-israels-armee-schiesst-gezielt-auf-hungernde-palaestinenser](https://www.spiegel.de/ausland/bericht-ueber-gazastreifen-israels-armee-schiesst-gezielt-auf-hungernde-palaestinenser-a-51ca124f-a6c0-41af-9114-0d0e750b643a#ref=rss)
-### hungernde
-
-* [https://www.spiegel.de/ausland/bericht-ueber-gazastreifen-israels-armee-schiesst-gezielt-auf-hungernde-palaestinenser](https://www.spiegel.de/ausland/bericht-ueber-gazastreifen-israels-armee-schiesst-gezielt-auf-hungernde-palaestinenser-a-51ca124f-a6c0-41af-9114-0d0e750b643a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/verteidigungsausgaben-oekonomen-bezweifeln-wirtschaftlichen-nutzen-des-ruestungsbooms](https://www.spiegel.de/wirtschaft/verteidigungsausgaben-oekonomen-bezweifeln-wirtschaftlichen-nutzen-des-ruestungsbooms-a-69c07016-7f8b-4eb9-ac91-6895682bac04#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundesregierung-will-beschaffung-von-waffen-durch-neues-gesetz-beschleunigen](https://www.spiegel.de/politik/deutschland/bundesregierung-will-beschaffung-von-waffen-durch-neues-gesetz-beschleunigen-a-ccfa9d72-5077-40eb-90ea-54d4fd227476#ref=rss)
+* [https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-investorin-jeannette-zu-fuerstenberg-sieht-grosse-chancen-fuer-deutschland](https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-investorin-jeannette-zu-fuerstenberg-sieht-grosse-chancen-fuer-deutschland-a-603d88fa-d286-4fa3-b3da-5fb328e39c86#ref=rss)
+* [https://www.spiegel.de/ausland/kernfusion-aus-deutschland-und-surfende-hunde-gute-nachrichten-der-woche](https://www.spiegel.de/ausland/kernfusion-aus-deutschland-und-surfende-hunde-gute-nachrichten-der-woche-a-f2a0e14f-7579-495a-b003-a41f61501ef6#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/ausland/bericht-ueber-gazastreifen-israels-armee-schiesst-gezielt-auf-hungernde-palaestinenser](https://www.spiegel.de/ausland/bericht-ueber-gazastreifen-israels-armee-schiesst-gezielt-auf-hungernde-palaestinenser-a-51ca124f-a6c0-41af-9114-0d0e750b643a#ref=rss)
-* [https://www.spiegel.de/ausland/russland-wie-deutlich-muss-wladimir-putin-eigentlich-noch-werden-meinung](https://www.spiegel.de/ausland/russland-wie-deutlich-muss-wladimir-putin-eigentlich-noch-werden-meinung-a-e2c1661d-9624-442d-aac8-3ae9e2716287#ref=rss)
-### bruce
+* [https://www.spiegel.de/panorama/wohnungsnot-in-spanien-die-rausschmeisser](https://www.spiegel.de/panorama/wohnungsnot-in-spanien-die-rausschmeisser-a-d727fc5f-fe81-4df4-9d6d-16531047afdf#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-trifft-gefluechtete-in-syrischem-restaurant](https://www.spiegel.de/politik/deutschland/angela-merkel-trifft-gefluechtete-in-syrischem-restaurant-a-b469a4f5-fbf4-4e34-90f0-412ac4f3de66#ref=rss)
+* [https://www.spiegel.de/ausland/usa-wollen-500-000-menschen-aus-haiti-abschieben](https://www.spiegel.de/ausland/usa-wollen-500-000-menschen-aus-haiti-abschieben-a-b1aa511b-c265-4b14-995f-7c059539151a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gruene-wollen-keine-elite-partei-sein-neues-strategiepapier](https://www.spiegel.de/politik/deutschland/gruene-wollen-keine-elite-partei-sein-neues-strategiepapier-a-17724c09-d904-4ccf-a9a8-898b08bad790#ref=rss)
+### turnier
 
-* [https://www.spiegel.de/kultur/musik/album-der-woche-mit-bruce-springsteen-tracks-ii-alternative-rock](https://www.spiegel.de/kultur/musik/album-der-woche-mit-bruce-springsteen-tracks-ii-alternative-rock-a-97df3a92-4593-48d9-abe0-747a6cb5ddb9#ref=rss)
-### springsteen
+* [https://www.spiegel.de/sport/fussball/fussball-em-2025-spanische-starfussballerin-aitana-bonmati-mit-meningitis-im-krankenhaus](https://www.spiegel.de/sport/fussball/fussball-em-2025-spanische-starfussballerin-aitana-bonmati-mit-meningitis-im-krankenhaus-a-9dc2ae5a-37f0-40d8-b5d8-31a2208807ff#ref=rss)
+* [https://www.spiegel.de/sport/pferdesport-chio-aachen-und-scientist-circle-wie-geht-es-sportpferden-beim-turnier](https://www.spiegel.de/sport/pferdesport-chio-aachen-und-scientist-circle-wie-geht-es-sportpferden-beim-turnier-a-da90b3ce-4b27-428c-8bf8-0fa087d674c7#ref=rss)
+* [https://www.spiegel.de/sport/fussball/klub-wm-die-kritik-am-turnier-in-den-usa-ist-wohlfeil-und-deutsch](https://www.spiegel.de/sport/fussball/klub-wm-die-kritik-am-turnier-in-den-usa-ist-wohlfeil-und-deutsch-a-9244f84b-1494-4c60-b036-d97bbc1ff83f#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/kultur/musik/album-der-woche-mit-bruce-springsteen-tracks-ii-alternative-rock](https://www.spiegel.de/kultur/musik/album-der-woche-mit-bruce-springsteen-tracks-ii-alternative-rock-a-97df3a92-4593-48d9-abe0-747a6cb5ddb9#ref=rss)
-### tracks
+* [https://www.spiegel.de/politik/deutschland/abschiedsrede-in-berlin-olaf-scholz-will-der-spd-als-altkanzler-freude-bereiten](https://www.spiegel.de/politik/deutschland/abschiedsrede-in-berlin-olaf-scholz-will-der-spd-als-altkanzler-freude-bereiten-a-67db624b-c37c-4c05-8693-14500669173e#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/virginia-unipraesident-tritt-im-streit-um-diverstitaetsprogramme-zurueck](https://www.spiegel.de/panorama/bildung/virginia-unipraesident-tritt-im-streit-um-diverstitaetsprogramme-zurueck-a-cf2dcf95-970f-4e73-9777-f5a5d125ba54#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/katzen-schlafen-gern-auf-der-linken-seite-um-so-schneller-reagieren-zu-koennen](https://www.spiegel.de/wissenschaft/natur/katzen-schlafen-gern-auf-der-linken-seite-um-so-schneller-reagieren-zu-koennen-a-c0fb5eb7-4764-4ea0-b335-64324a6f121b#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-russland-krieg-odessa-von-kampfdrohnen-angegriffen-kyjiw-meldet-zerstoerung-russischer-bomber](https://www.spiegel.de/ausland/ukraine-russland-krieg-odessa-von-kampfdrohnen-angegriffen-kyjiw-meldet-zerstoerung-russischer-bomber-a-f7d82919-1a4d-4e3d-a831-cbf3c7e80b9d#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/kultur/musik/album-der-woche-mit-bruce-springsteen-tracks-ii-alternative-rock](https://www.spiegel.de/kultur/musik/album-der-woche-mit-bruce-springsteen-tracks-ii-alternative-rock-a-97df3a92-4593-48d9-abe0-747a6cb5ddb9#ref=rss)
-### ii
+* [https://www.spiegel.de/wirtschaft/verteidigungsausgaben-oekonomen-bezweifeln-wirtschaftlichen-nutzen-des-ruestungsbooms](https://www.spiegel.de/wirtschaft/verteidigungsausgaben-oekonomen-bezweifeln-wirtschaftlichen-nutzen-des-ruestungsbooms-a-69c07016-7f8b-4eb9-ac91-6895682bac04#ref=rss)
+* [https://www.spiegel.de/sport/fussball/klub-wm-die-kritik-am-turnier-in-den-usa-ist-wohlfeil-und-deutsch](https://www.spiegel.de/sport/fussball/klub-wm-die-kritik-am-turnier-in-den-usa-ist-wohlfeil-und-deutsch-a-9244f84b-1494-4c60-b036-d97bbc1ff83f#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/nahostkonflikt-im-unterricht-koelner-schueler-lernen-mit-dem-hoerbus-nahost](https://www.spiegel.de/panorama/bildung/nahostkonflikt-im-unterricht-koelner-schueler-lernen-mit-dem-hoerbus-nahost-a-4c96bceb-4e54-4c6d-85e5-bc820ecfbadd#ref=rss)
+### sieht
 
-* [https://www.spiegel.de/kultur/musik/album-der-woche-mit-bruce-springsteen-tracks-ii-alternative-rock](https://www.spiegel.de/kultur/musik/album-der-woche-mit-bruce-springsteen-tracks-ii-alternative-rock-a-97df3a92-4593-48d9-abe0-747a6cb5ddb9#ref=rss)
-### born
+* [https://www.spiegel.de/panorama/gesellschaft/fkk-verband-ruegt-aufruf-zu-fkk-swinger-urlaub-von-stadtrat-in-mannheim](https://www.spiegel.de/panorama/gesellschaft/fkk-verband-ruegt-aufruf-zu-fkk-swinger-urlaub-von-stadtrat-in-mannheim-a-a7a717bb-3e9c-4334-a3d1-f6f6f16b8452#ref=rss)
+* [https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-investorin-jeannette-zu-fuerstenberg-sieht-grosse-chancen-fuer-deutschland](https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-investorin-jeannette-zu-fuerstenberg-sieht-grosse-chancen-fuer-deutschland-a-603d88fa-d286-4fa3-b3da-5fb328e39c86#ref=rss)
+* [https://www.spiegel.de/politik/stefanie-hubig-will-mietpreisbremse-bei-moeblierten-wohnungen-durchsetzen](https://www.spiegel.de/politik/stefanie-hubig-will-mietpreisbremse-bei-moeblierten-wohnungen-durchsetzen-a-90b82f5e-c24c-4082-b494-b7894b89d575#ref=rss)
+### budapest
 
-* [https://www.spiegel.de/kultur/musik/album-der-woche-mit-bruce-springsteen-tracks-ii-alternative-rock](https://www.spiegel.de/kultur/musik/album-der-woche-mit-bruce-springsteen-tracks-ii-alternative-rock-a-97df3a92-4593-48d9-abe0-747a6cb5ddb9#ref=rss)
-### erschienen
+* [https://www.spiegel.de/politik/deutschland/budapest-goering-eckardt-besucht-inhaftierte-aktivistin-maja-t](https://www.spiegel.de/politik/deutschland/budapest-goering-eckardt-besucht-inhaftierte-aktivistin-maja-t-a-8366d00a-bdab-43f3-aa77-7ccc5d39cc65#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-pride-parade-in-budapest-spd-parteitag-fehleranalyse-der-gruenen](https://www.spiegel.de/politik/deutschland/news-pride-parade-in-budapest-spd-parteitag-fehleranalyse-der-gruenen-a-773adc9c-4c4e-4f5b-8666-141630a170e2#ref=rss)
+### spanien
 
-* [https://www.spiegel.de/kultur/musik/album-der-woche-mit-bruce-springsteen-tracks-ii-alternative-rock](https://www.spiegel.de/kultur/musik/album-der-woche-mit-bruce-springsteen-tracks-ii-alternative-rock-a-97df3a92-4593-48d9-abe0-747a6cb5ddb9#ref=rss)
-### wäre
+* [https://www.spiegel.de/panorama/wohnungsnot-in-spanien-die-rausschmeisser](https://www.spiegel.de/panorama/wohnungsnot-in-spanien-die-rausschmeisser-a-d727fc5f-fe81-4df4-9d6d-16531047afdf#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-em-2025-spanische-starfussballerin-aitana-bonmati-mit-meningitis-im-krankenhaus](https://www.spiegel.de/sport/fussball/fussball-em-2025-spanische-starfussballerin-aitana-bonmati-mit-meningitis-im-krankenhaus-a-9dc2ae5a-37f0-40d8-b5d8-31a2208807ff#ref=rss)
+### spd
 
-* [https://www.spiegel.de/kultur/musik/album-der-woche-mit-bruce-springsteen-tracks-ii-alternative-rock](https://www.spiegel.de/kultur/musik/album-der-woche-mit-bruce-springsteen-tracks-ii-alternative-rock-a-97df3a92-4593-48d9-abe0-747a6cb5ddb9#ref=rss)
-### putin
+* [https://www.spiegel.de/politik/deutschland/abschiedsrede-in-berlin-olaf-scholz-will-der-spd-als-altkanzler-freude-bereiten](https://www.spiegel.de/politik/deutschland/abschiedsrede-in-berlin-olaf-scholz-will-der-spd-als-altkanzler-freude-bereiten-a-67db624b-c37c-4c05-8693-14500669173e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-pride-parade-in-budapest-spd-parteitag-fehleranalyse-der-gruenen](https://www.spiegel.de/politik/deutschland/news-pride-parade-in-budapest-spd-parteitag-fehleranalyse-der-gruenen-a-773adc9c-4c4e-4f5b-8666-141630a170e2#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/ausland/russland-wie-deutlich-muss-wladimir-putin-eigentlich-noch-werden-meinung](https://www.spiegel.de/ausland/russland-wie-deutlich-muss-wladimir-putin-eigentlich-noch-werden-meinung-a-e2c1661d-9624-442d-aac8-3ae9e2716287#ref=rss)
-### eigentlich
+* [https://www.spiegel.de/ausland/oesterreich-beate-meinl-reisinger-will-beziehungen-zur-ukraine-staerken-podcast](https://www.spiegel.de/ausland/oesterreich-beate-meinl-reisinger-will-beziehungen-zur-ukraine-staerken-podcast-a-9b9a88d7-33f0-4519-9ec5-3048c978d2a0#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-russland-krieg-odessa-von-kampfdrohnen-angegriffen-kyjiw-meldet-zerstoerung-russischer-bomber](https://www.spiegel.de/ausland/ukraine-russland-krieg-odessa-von-kampfdrohnen-angegriffen-kyjiw-meldet-zerstoerung-russischer-bomber-a-f7d82919-1a4d-4e3d-a831-cbf3c7e80b9d#ref=rss)
+### donald
 
-* [https://www.spiegel.de/ausland/russland-wie-deutlich-muss-wladimir-putin-eigentlich-noch-werden-meinung](https://www.spiegel.de/ausland/russland-wie-deutlich-muss-wladimir-putin-eigentlich-noch-werden-meinung-a-e2c1661d-9624-442d-aac8-3ae9e2716287#ref=rss)
-* [https://www.spiegel.de/kultur/tv/the-bear-rezension-zu-staffel-4-kommt-doch-mal-zum-ende](https://www.spiegel.de/kultur/tv/the-bear-rezension-zu-staffel-4-kommt-doch-mal-zum-ende-a-976ffe67-76eb-4ce7-83f7-6ea514822d92#ref=rss)
-### sachsenhausen
+* [https://www.spiegel.de/panorama/bildung/virginia-unipraesident-tritt-im-streit-um-diverstitaetsprogramme-zurueck](https://www.spiegel.de/panorama/bildung/virginia-unipraesident-tritt-im-streit-um-diverstitaetsprogramme-zurueck-a-cf2dcf95-970f-4e73-9777-f5a5d125ba54#ref=rss)
+* [https://www.spiegel.de/ausland/usa-und-iran-donald-trump-und-seine-ueberraschende-rolle-als-weltpolizist](https://www.spiegel.de/ausland/usa-und-iran-donald-trump-und-seine-ueberraschende-rolle-als-weltpolizist-a-af7f6abb-c102-4c8b-b5fc-e199809fcc98#ref=rss)
+### trump
 
-* [https://www.spiegel.de/panorama/unwetter-sorgt-in-kz-gedenkstaette-sachsenhausen-fuer-groessere-schaeden](https://www.spiegel.de/panorama/unwetter-sorgt-in-kz-gedenkstaette-sachsenhausen-fuer-groessere-schaeden-a-76f138bb-e258-4ae4-8371-75344b3ba92d#ref=rss)
-### schäden
+* [https://www.spiegel.de/panorama/bildung/virginia-unipraesident-tritt-im-streit-um-diverstitaetsprogramme-zurueck](https://www.spiegel.de/panorama/bildung/virginia-unipraesident-tritt-im-streit-um-diverstitaetsprogramme-zurueck-a-cf2dcf95-970f-4e73-9777-f5a5d125ba54#ref=rss)
+* [https://www.spiegel.de/ausland/usa-und-iran-donald-trump-und-seine-ueberraschende-rolle-als-weltpolizist](https://www.spiegel.de/ausland/usa-und-iran-donald-trump-und-seine-ueberraschende-rolle-als-weltpolizist-a-af7f6abb-c102-4c8b-b5fc-e199809fcc98#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/panorama/unwetter-sorgt-in-kz-gedenkstaette-sachsenhausen-fuer-groessere-schaeden](https://www.spiegel.de/panorama/unwetter-sorgt-in-kz-gedenkstaette-sachsenhausen-fuer-groessere-schaeden-a-76f138bb-e258-4ae4-8371-75344b3ba92d#ref=rss)
-### handelskrieg
+* [https://www.spiegel.de/panorama/gesellschaft/fkk-verband-ruegt-aufruf-zu-fkk-swinger-urlaub-von-stadtrat-in-mannheim](https://www.spiegel.de/panorama/gesellschaft/fkk-verband-ruegt-aufruf-zu-fkk-swinger-urlaub-von-stadtrat-in-mannheim-a-a7a717bb-3e9c-4334-a3d1-f6f6f16b8452#ref=rss)
+* [https://www.spiegel.de/sport/fussball/klub-wm-die-kritik-am-turnier-in-den-usa-ist-wohlfeil-und-deutsch](https://www.spiegel.de/sport/fussball/klub-wm-die-kritik-am-turnier-in-den-usa-ist-wohlfeil-und-deutsch-a-9244f84b-1494-4c60-b036-d97bbc1ff83f#ref=rss)
+### usa
 
-* [https://www.spiegel.de/wirtschaft/usa-und-china-lockern-beschraenkungen-im-handelskrieg](https://www.spiegel.de/wirtschaft/usa-und-china-lockern-beschraenkungen-im-handelskrieg-a-5f5da154-f997-44e4-958a-bf74329fa944#ref=rss)
-### zunächst
+* [https://www.spiegel.de/ausland/usa-und-iran-donald-trump-und-seine-ueberraschende-rolle-als-weltpolizist](https://www.spiegel.de/ausland/usa-und-iran-donald-trump-und-seine-ueberraschende-rolle-als-weltpolizist-a-af7f6abb-c102-4c8b-b5fc-e199809fcc98#ref=rss)
+* [https://www.spiegel.de/ausland/usa-wollen-500-000-menschen-aus-haiti-abschieben](https://www.spiegel.de/ausland/usa-wollen-500-000-menschen-aus-haiti-abschieben-a-b1aa511b-c265-4b14-995f-7c059539151a#ref=rss)
+### bomber
 
-* [https://www.spiegel.de/wirtschaft/usa-und-china-lockern-beschraenkungen-im-handelskrieg](https://www.spiegel.de/wirtschaft/usa-und-china-lockern-beschraenkungen-im-handelskrieg-a-5f5da154-f997-44e4-958a-bf74329fa944#ref=rss)
-* [https://www.spiegel.de/kultur/anna-wintour-und-ihr-behaupteter-ruecktritt-im-zentrum-des-modeimperiums](https://www.spiegel.de/kultur/anna-wintour-und-ihr-behaupteter-ruecktritt-im-zentrum-des-modeimperiums-a-defbc6b3-882f-4177-8878-ef46154500ca#ref=rss)
-### anna
+* [https://www.spiegel.de/ausland/usa-und-iran-donald-trump-und-seine-ueberraschende-rolle-als-weltpolizist](https://www.spiegel.de/ausland/usa-und-iran-donald-trump-und-seine-ueberraschende-rolle-als-weltpolizist-a-af7f6abb-c102-4c8b-b5fc-e199809fcc98#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-russland-krieg-odessa-von-kampfdrohnen-angegriffen-kyjiw-meldet-zerstoerung-russischer-bomber](https://www.spiegel.de/ausland/ukraine-russland-krieg-odessa-von-kampfdrohnen-angegriffen-kyjiw-meldet-zerstoerung-russischer-bomber-a-f7d82919-1a4d-4e3d-a831-cbf3c7e80b9d#ref=rss)
+### göringeckardt
 
-* [https://www.spiegel.de/kultur/anna-wintour-und-ihr-behaupteter-ruecktritt-im-zentrum-des-modeimperiums](https://www.spiegel.de/kultur/anna-wintour-und-ihr-behaupteter-ruecktritt-im-zentrum-des-modeimperiums-a-defbc6b3-882f-4177-8878-ef46154500ca#ref=rss)
-### wintour
+* [https://www.spiegel.de/politik/deutschland/budapest-goering-eckardt-besucht-inhaftierte-aktivistin-maja-t](https://www.spiegel.de/politik/deutschland/budapest-goering-eckardt-besucht-inhaftierte-aktivistin-maja-t-a-8366d00a-bdab-43f3-aa77-7ccc5d39cc65#ref=rss)
+### besucht
 
-* [https://www.spiegel.de/kultur/anna-wintour-und-ihr-behaupteter-ruecktritt-im-zentrum-des-modeimperiums](https://www.spiegel.de/kultur/anna-wintour-und-ihr-behaupteter-ruecktritt-im-zentrum-des-modeimperiums-a-defbc6b3-882f-4177-8878-ef46154500ca#ref=rss)
-### jimi
+* [https://www.spiegel.de/politik/deutschland/budapest-goering-eckardt-besucht-inhaftierte-aktivistin-maja-t](https://www.spiegel.de/politik/deutschland/budapest-goering-eckardt-besucht-inhaftierte-aktivistin-maja-t-a-8366d00a-bdab-43f3-aa77-7ccc5d39cc65#ref=rss)
+### aktivistin
 
-* [https://www.spiegel.de/panorama/jimi-blue-ochsenknecht-soll-ueber-wochenende-in-haft-bleiben](https://www.spiegel.de/panorama/jimi-blue-ochsenknecht-soll-ueber-wochenende-in-haft-bleiben-a-cce58ffe-fdbb-4571-9a0a-fed33e17c8b1#ref=rss)
-### blue
+* [https://www.spiegel.de/politik/deutschland/budapest-goering-eckardt-besucht-inhaftierte-aktivistin-maja-t](https://www.spiegel.de/politik/deutschland/budapest-goering-eckardt-besucht-inhaftierte-aktivistin-maja-t-a-8366d00a-bdab-43f3-aa77-7ccc5d39cc65#ref=rss)
+### maja
 
-* [https://www.spiegel.de/panorama/jimi-blue-ochsenknecht-soll-ueber-wochenende-in-haft-bleiben](https://www.spiegel.de/panorama/jimi-blue-ochsenknecht-soll-ueber-wochenende-in-haft-bleiben-a-cce58ffe-fdbb-4571-9a0a-fed33e17c8b1#ref=rss)
-### ochsenknecht
+* [https://www.spiegel.de/politik/deutschland/budapest-goering-eckardt-besucht-inhaftierte-aktivistin-maja-t](https://www.spiegel.de/politik/deutschland/budapest-goering-eckardt-besucht-inhaftierte-aktivistin-maja-t-a-8366d00a-bdab-43f3-aa77-7ccc5d39cc65#ref=rss)
+### t
 
-* [https://www.spiegel.de/panorama/jimi-blue-ochsenknecht-soll-ueber-wochenende-in-haft-bleiben](https://www.spiegel.de/panorama/jimi-blue-ochsenknecht-soll-ueber-wochenende-in-haft-bleiben-a-cce58ffe-fdbb-4571-9a0a-fed33e17c8b1#ref=rss)
-### bleiben
+* [https://www.spiegel.de/politik/deutschland/budapest-goering-eckardt-besucht-inhaftierte-aktivistin-maja-t](https://www.spiegel.de/politik/deutschland/budapest-goering-eckardt-besucht-inhaftierte-aktivistin-maja-t-a-8366d00a-bdab-43f3-aa77-7ccc5d39cc65#ref=rss)
+### gefängnis
 
-* [https://www.spiegel.de/panorama/jimi-blue-ochsenknecht-soll-ueber-wochenende-in-haft-bleiben](https://www.spiegel.de/panorama/jimi-blue-ochsenknecht-soll-ueber-wochenende-in-haft-bleiben-a-cce58ffe-fdbb-4571-9a0a-fed33e17c8b1#ref=rss)
-### schulden
+* [https://www.spiegel.de/politik/deutschland/budapest-goering-eckardt-besucht-inhaftierte-aktivistin-maja-t](https://www.spiegel.de/politik/deutschland/budapest-goering-eckardt-besucht-inhaftierte-aktivistin-maja-t-a-8366d00a-bdab-43f3-aa77-7ccc5d39cc65#ref=rss)
+### großkanzleien
 
-* [https://www.spiegel.de/panorama/jimi-blue-ochsenknecht-soll-ueber-wochenende-in-haft-bleiben](https://www.spiegel.de/panorama/jimi-blue-ochsenknecht-soll-ueber-wochenende-in-haft-bleiben-a-cce58ffe-fdbb-4571-9a0a-fed33e17c8b1#ref=rss)
-### marius
+* [https://www.spiegel.de/start/recruiting-events-von-grosskanzleien-wie-sie-mit-luxusreisen-junge-anwaelte-koedern](https://www.spiegel.de/start/recruiting-events-von-grosskanzleien-wie-sie-mit-luxusreisen-junge-anwaelte-koedern-a-28e89f85-efa3-47f1-aa44-e1cc0e0ade44#ref=rss)
+### party
 
-* [https://www.spiegel.de/panorama/marius-borg-hoiby-ermittler-legen-sohn-von-mette-marit-23-straftaten-zur-last](https://www.spiegel.de/panorama/marius-borg-hoiby-ermittler-legen-sohn-von-mette-marit-23-straftaten-zur-last-a-6e4bca9c-07bc-4d09-a9a0-f1fdafaf1087#ref=rss)
-### borg
+* [https://www.spiegel.de/start/recruiting-events-von-grosskanzleien-wie-sie-mit-luxusreisen-junge-anwaelte-koedern](https://www.spiegel.de/start/recruiting-events-von-grosskanzleien-wie-sie-mit-luxusreisen-junge-anwaelte-koedern-a-28e89f85-efa3-47f1-aa44-e1cc0e0ade44#ref=rss)
+* [https://www.spiegel.de/panorama/leute/180-knoepfe-900-stunden-handarbeit-und-zweimal-ja](https://www.spiegel.de/panorama/leute/180-knoepfe-900-stunden-handarbeit-und-zweimal-ja-a-9f9fceb2-95bd-4b10-8176-049b6869aa61#ref=rss)
+### fünf
 
-* [https://www.spiegel.de/panorama/marius-borg-hoiby-ermittler-legen-sohn-von-mette-marit-23-straftaten-zur-last](https://www.spiegel.de/panorama/marius-borg-hoiby-ermittler-legen-sohn-von-mette-marit-23-straftaten-zur-last-a-6e4bca9c-07bc-4d09-a9a0-f1fdafaf1087#ref=rss)
-### høiby
+* [https://www.spiegel.de/start/recruiting-events-von-grosskanzleien-wie-sie-mit-luxusreisen-junge-anwaelte-koedern](https://www.spiegel.de/start/recruiting-events-von-grosskanzleien-wie-sie-mit-luxusreisen-junge-anwaelte-koedern-a-28e89f85-efa3-47f1-aa44-e1cc0e0ade44#ref=rss)
+* [https://www.spiegel.de/sport/fussball/klub-wm-die-kritik-am-turnier-in-den-usa-ist-wohlfeil-und-deutsch](https://www.spiegel.de/sport/fussball/klub-wm-die-kritik-am-turnier-in-den-usa-ist-wohlfeil-und-deutsch-a-9244f84b-1494-4c60-b036-d97bbc1ff83f#ref=rss)
+### fußballem
 
-* [https://www.spiegel.de/panorama/marius-borg-hoiby-ermittler-legen-sohn-von-mette-marit-23-straftaten-zur-last](https://www.spiegel.de/panorama/marius-borg-hoiby-ermittler-legen-sohn-von-mette-marit-23-straftaten-zur-last-a-6e4bca9c-07bc-4d09-a9a0-f1fdafaf1087#ref=rss)
-### sohn
+* [https://www.spiegel.de/sport/fussball/fussball-em-2025-spanische-starfussballerin-aitana-bonmati-mit-meningitis-im-krankenhaus](https://www.spiegel.de/sport/fussball/fussball-em-2025-spanische-starfussballerin-aitana-bonmati-mit-meningitis-im-krankenhaus-a-9dc2ae5a-37f0-40d8-b5d8-31a2208807ff#ref=rss)
+### aitana
 
-* [https://www.spiegel.de/panorama/marius-borg-hoiby-ermittler-legen-sohn-von-mette-marit-23-straftaten-zur-last](https://www.spiegel.de/panorama/marius-borg-hoiby-ermittler-legen-sohn-von-mette-marit-23-straftaten-zur-last-a-6e4bca9c-07bc-4d09-a9a0-f1fdafaf1087#ref=rss)
-### mettemarit
+* [https://www.spiegel.de/sport/fussball/fussball-em-2025-spanische-starfussballerin-aitana-bonmati-mit-meningitis-im-krankenhaus](https://www.spiegel.de/sport/fussball/fussball-em-2025-spanische-starfussballerin-aitana-bonmati-mit-meningitis-im-krankenhaus-a-9dc2ae5a-37f0-40d8-b5d8-31a2208807ff#ref=rss)
+### bonmatí
 
-* [https://www.spiegel.de/panorama/marius-borg-hoiby-ermittler-legen-sohn-von-mette-marit-23-straftaten-zur-last](https://www.spiegel.de/panorama/marius-borg-hoiby-ermittler-legen-sohn-von-mette-marit-23-straftaten-zur-last-a-6e4bca9c-07bc-4d09-a9a0-f1fdafaf1087#ref=rss)
-### bear
+* [https://www.spiegel.de/sport/fussball/fussball-em-2025-spanische-starfussballerin-aitana-bonmati-mit-meningitis-im-krankenhaus](https://www.spiegel.de/sport/fussball/fussball-em-2025-spanische-starfussballerin-aitana-bonmati-mit-meningitis-im-krankenhaus-a-9dc2ae5a-37f0-40d8-b5d8-31a2208807ff#ref=rss)
+### spiegel
 
-* [https://www.spiegel.de/kultur/tv/the-bear-rezension-zu-staffel-4-kommt-doch-mal-zum-ende](https://www.spiegel.de/kultur/tv/the-bear-rezension-zu-staffel-4-kommt-doch-mal-zum-ende-a-976ffe67-76eb-4ce7-83f7-6ea514822d92#ref=rss)
-### staffel
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gruene-wollen-keine-elite-partei-sein-neues-strategiepapier](https://www.spiegel.de/politik/deutschland/gruene-wollen-keine-elite-partei-sein-neues-strategiepapier-a-17724c09-d904-4ccf-a9a8-898b08bad790#ref=rss)
+### fragen
 
-* [https://www.spiegel.de/kultur/tv/the-bear-rezension-zu-staffel-4-kommt-doch-mal-zum-ende](https://www.spiegel.de/kultur/tv/the-bear-rezension-zu-staffel-4-kommt-doch-mal-zum-ende-a-976ffe67-76eb-4ce7-83f7-6ea514822d92#ref=rss)
-### bräuchte
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### tag
 
-* [https://www.spiegel.de/kultur/tv/the-bear-rezension-zu-staffel-4-kommt-doch-mal-zum-ende](https://www.spiegel.de/kultur/tv/the-bear-rezension-zu-staffel-4-kommt-doch-mal-zum-ende-a-976ffe67-76eb-4ce7-83f7-6ea514822d92#ref=rss)
-### dringend
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### olaf
 
-* [https://www.spiegel.de/kultur/tv/the-bear-rezension-zu-staffel-4-kommt-doch-mal-zum-ende](https://www.spiegel.de/kultur/tv/the-bear-rezension-zu-staffel-4-kommt-doch-mal-zum-ende-a-976ffe67-76eb-4ce7-83f7-6ea514822d92#ref=rss)
-### schlusspunkt
+* [https://www.spiegel.de/politik/deutschland/abschiedsrede-in-berlin-olaf-scholz-will-der-spd-als-altkanzler-freude-bereiten](https://www.spiegel.de/politik/deutschland/abschiedsrede-in-berlin-olaf-scholz-will-der-spd-als-altkanzler-freude-bereiten-a-67db624b-c37c-4c05-8693-14500669173e#ref=rss)
+### scholz
 
-* [https://www.spiegel.de/kultur/tv/the-bear-rezension-zu-staffel-4-kommt-doch-mal-zum-ende](https://www.spiegel.de/kultur/tv/the-bear-rezension-zu-staffel-4-kommt-doch-mal-zum-ende-a-976ffe67-76eb-4ce7-83f7-6ea514822d92#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/abschiedsrede-in-berlin-olaf-scholz-will-der-spd-als-altkanzler-freude-bereiten](https://www.spiegel.de/politik/deutschland/abschiedsrede-in-berlin-olaf-scholz-will-der-spd-als-altkanzler-freude-bereiten-a-67db624b-c37c-4c05-8693-14500669173e#ref=rss)
+### ferien
+
+* [https://www.spiegel.de/familie/ferien-mit-der-familie-neues-ausprobieren-im-urlaub-mit-kindern](https://www.spiegel.de/familie/ferien-mit-der-familie-neues-ausprobieren-im-urlaub-mit-kindern-a-fb7c80fa-7ece-4a88-a0a4-aff2b3a10106#ref=rss)
+### familie
+
+* [https://www.spiegel.de/familie/ferien-mit-der-familie-neues-ausprobieren-im-urlaub-mit-kindern](https://www.spiegel.de/familie/ferien-mit-der-familie-neues-ausprobieren-im-urlaub-mit-kindern-a-fb7c80fa-7ece-4a88-a0a4-aff2b3a10106#ref=rss)
+### obwohl
+
+* [https://www.spiegel.de/familie/ferien-mit-der-familie-neues-ausprobieren-im-urlaub-mit-kindern](https://www.spiegel.de/familie/ferien-mit-der-familie-neues-ausprobieren-im-urlaub-mit-kindern-a-fb7c80fa-7ece-4a88-a0a4-aff2b3a10106#ref=rss)
+* [https://www.spiegel.de/ausland/usa-wollen-500-000-menschen-aus-haiti-abschieben](https://www.spiegel.de/ausland/usa-wollen-500-000-menschen-aus-haiti-abschieben-a-b1aa511b-c265-4b14-995f-7c059539151a#ref=rss)
+### nie
+
+* [https://www.spiegel.de/familie/ferien-mit-der-familie-neues-ausprobieren-im-urlaub-mit-kindern](https://www.spiegel.de/familie/ferien-mit-der-familie-neues-ausprobieren-im-urlaub-mit-kindern-a-fb7c80fa-7ece-4a88-a0a4-aff2b3a10106#ref=rss)
+* [https://www.spiegel.de/ausland/usa-und-iran-donald-trump-und-seine-ueberraschende-rolle-als-weltpolizist](https://www.spiegel.de/ausland/usa-und-iran-donald-trump-und-seine-ueberraschende-rolle-als-weltpolizist-a-af7f6abb-c102-4c8b-b5fc-e199809fcc98#ref=rss)
+### wandern
+
+* [https://www.spiegel.de/familie/ferien-mit-der-familie-neues-ausprobieren-im-urlaub-mit-kindern](https://www.spiegel.de/familie/ferien-mit-der-familie-neues-ausprobieren-im-urlaub-mit-kindern-a-fb7c80fa-7ece-4a88-a0a4-aff2b3a10106#ref=rss)
+* [https://www.spiegel.de/reise/europa/wandern-auf-dem-stockholm-archipelago-trail-ein-schwedischer-wandertraum](https://www.spiegel.de/reise/europa/wandern-auf-dem-stockholm-archipelago-trail-ein-schwedischer-wandertraum-a-8f6888c7-842c-4849-9166-4144286dd7a6#ref=rss)
+### beate
+
+* [https://www.spiegel.de/ausland/oesterreich-beate-meinl-reisinger-will-beziehungen-zur-ukraine-staerken-podcast](https://www.spiegel.de/ausland/oesterreich-beate-meinl-reisinger-will-beziehungen-zur-ukraine-staerken-podcast-a-9b9a88d7-33f0-4519-9ec5-3048c978d2a0#ref=rss)
+### meinlreisinger
+
+* [https://www.spiegel.de/ausland/oesterreich-beate-meinl-reisinger-will-beziehungen-zur-ukraine-staerken-podcast](https://www.spiegel.de/ausland/oesterreich-beate-meinl-reisinger-will-beziehungen-zur-ukraine-staerken-podcast-a-9b9a88d7-33f0-4519-9ec5-3048c978d2a0#ref=rss)
+### beziehungen
+
+* [https://www.spiegel.de/ausland/oesterreich-beate-meinl-reisinger-will-beziehungen-zur-ukraine-staerken-podcast](https://www.spiegel.de/ausland/oesterreich-beate-meinl-reisinger-will-beziehungen-zur-ukraine-staerken-podcast-a-9b9a88d7-33f0-4519-9ec5-3048c978d2a0#ref=rss)
+### verbessern
+
+* [https://www.spiegel.de/ausland/oesterreich-beate-meinl-reisinger-will-beziehungen-zur-ukraine-staerken-podcast](https://www.spiegel.de/ausland/oesterreich-beate-meinl-reisinger-will-beziehungen-zur-ukraine-staerken-podcast-a-9b9a88d7-33f0-4519-9ec5-3048c978d2a0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/verteidigungsausgaben-oekonomen-bezweifeln-wirtschaftlichen-nutzen-des-ruestungsbooms](https://www.spiegel.de/wirtschaft/verteidigungsausgaben-oekonomen-bezweifeln-wirtschaftlichen-nutzen-des-ruestungsbooms-a-69c07016-7f8b-4eb9-ac91-6895682bac04#ref=rss)
+### aachen
+
+* [https://www.spiegel.de/sport/pferdesport-chio-aachen-und-scientist-circle-wie-geht-es-sportpferden-beim-turnier](https://www.spiegel.de/sport/pferdesport-chio-aachen-und-scientist-circle-wie-geht-es-sportpferden-beim-turnier-a-da90b3ce-4b27-428c-8bf8-0fa087d674c7#ref=rss)
+### kämpft
+
+* [https://www.spiegel.de/sport/pferdesport-chio-aachen-und-scientist-circle-wie-geht-es-sportpferden-beim-turnier](https://www.spiegel.de/sport/pferdesport-chio-aachen-und-scientist-circle-wie-geht-es-sportpferden-beim-turnier-a-da90b3ce-4b27-428c-8bf8-0fa087d674c7#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/virginia-unipraesident-tritt-im-streit-um-diverstitaetsprogramme-zurueck](https://www.spiegel.de/panorama/bildung/virginia-unipraesident-tritt-im-streit-um-diverstitaetsprogramme-zurueck-a-cf2dcf95-970f-4e73-9777-f5a5d125ba54#ref=rss)
+### ökonomen
+
+* [https://www.spiegel.de/wirtschaft/verteidigungsausgaben-oekonomen-bezweifeln-wirtschaftlichen-nutzen-des-ruestungsbooms](https://www.spiegel.de/wirtschaft/verteidigungsausgaben-oekonomen-bezweifeln-wirtschaftlichen-nutzen-des-ruestungsbooms-a-69c07016-7f8b-4eb9-ac91-6895682bac04#ref=rss)
+### weniger
+
+* [https://www.spiegel.de/wirtschaft/verteidigungsausgaben-oekonomen-bezweifeln-wirtschaftlichen-nutzen-des-ruestungsbooms](https://www.spiegel.de/wirtschaft/verteidigungsausgaben-oekonomen-bezweifeln-wirtschaftlichen-nutzen-des-ruestungsbooms-a-69c07016-7f8b-4eb9-ac91-6895682bac04#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gruene-wollen-keine-elite-partei-sein-neues-strategiepapier](https://www.spiegel.de/politik/deutschland/gruene-wollen-keine-elite-partei-sein-neues-strategiepapier-a-17724c09-d904-4ccf-a9a8-898b08bad790#ref=rss)
+### angela
+
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-trifft-gefluechtete-in-syrischem-restaurant](https://www.spiegel.de/politik/deutschland/angela-merkel-trifft-gefluechtete-in-syrischem-restaurant-a-b469a4f5-fbf4-4e34-90f0-412ac4f3de66#ref=rss)
+### merkel
+
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-trifft-gefluechtete-in-syrischem-restaurant](https://www.spiegel.de/politik/deutschland/angela-merkel-trifft-gefluechtete-in-syrischem-restaurant-a-b469a4f5-fbf4-4e34-90f0-412ac4f3de66#ref=rss)
+### uns
+
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-trifft-gefluechtete-in-syrischem-restaurant](https://www.spiegel.de/politik/deutschland/angela-merkel-trifft-gefluechtete-in-syrischem-restaurant-a-b469a4f5-fbf4-4e34-90f0-412ac4f3de66#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gruene-wollen-keine-elite-partei-sein-neues-strategiepapier](https://www.spiegel.de/politik/deutschland/gruene-wollen-keine-elite-partei-sein-neues-strategiepapier-a-17724c09-d904-4ccf-a9a8-898b08bad790#ref=rss)
+### persönlichen
+
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-trifft-gefluechtete-in-syrischem-restaurant](https://www.spiegel.de/politik/deutschland/angela-merkel-trifft-gefluechtete-in-syrischem-restaurant-a-b469a4f5-fbf4-4e34-90f0-412ac4f3de66#ref=rss)
+* [https://www.spiegel.de/wirtschaft/warren-buffett-spendet-aktien-im-wert-von-sechs-milliarden-dollar](https://www.spiegel.de/wirtschaft/warren-buffett-spendet-aktien-im-wert-von-sechs-milliarden-dollar-a-e3de2ac5-8150-48e6-b5f5-3aff56f577bf#ref=rss)
+### wert
+
+* [https://www.spiegel.de/wirtschaft/warren-buffett-spendet-aktien-im-wert-von-sechs-milliarden-dollar](https://www.spiegel.de/wirtschaft/warren-buffett-spendet-aktien-im-wert-von-sechs-milliarden-dollar-a-e3de2ac5-8150-48e6-b5f5-3aff56f577bf#ref=rss)
+* [https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-investorin-jeannette-zu-fuerstenberg-sieht-grosse-chancen-fuer-deutschland](https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-investorin-jeannette-zu-fuerstenberg-sieht-grosse-chancen-fuer-deutschland-a-603d88fa-d286-4fa3-b3da-5fb328e39c86#ref=rss)
+### milliarden
+
+* [https://www.spiegel.de/wirtschaft/warren-buffett-spendet-aktien-im-wert-von-sechs-milliarden-dollar](https://www.spiegel.de/wirtschaft/warren-buffett-spendet-aktien-im-wert-von-sechs-milliarden-dollar-a-e3de2ac5-8150-48e6-b5f5-3aff56f577bf#ref=rss)
+* [https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-investorin-jeannette-zu-fuerstenberg-sieht-grosse-chancen-fuer-deutschland](https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-investorin-jeannette-zu-fuerstenberg-sieht-grosse-chancen-fuer-deutschland-a-603d88fa-d286-4fa3-b3da-5fb328e39c86#ref=rss)
+### waffen
+
+* [https://www.spiegel.de/wirtschaft/warren-buffett-spendet-aktien-im-wert-von-sechs-milliarden-dollar](https://www.spiegel.de/wirtschaft/warren-buffett-spendet-aktien-im-wert-von-sechs-milliarden-dollar-a-e3de2ac5-8150-48e6-b5f5-3aff56f577bf#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundesregierung-will-beschaffung-von-waffen-durch-neues-gesetz-beschleunigen](https://www.spiegel.de/politik/deutschland/bundesregierung-will-beschaffung-von-waffen-durch-neues-gesetz-beschleunigen-a-ccfa9d72-5077-40eb-90ea-54d4fd227476#ref=rss)
+### fast
+
+* [https://www.spiegel.de/wirtschaft/warren-buffett-spendet-aktien-im-wert-von-sechs-milliarden-dollar](https://www.spiegel.de/wirtschaft/warren-buffett-spendet-aktien-im-wert-von-sechs-milliarden-dollar-a-e3de2ac5-8150-48e6-b5f5-3aff56f577bf#ref=rss)
+* [https://www.spiegel.de/auto/allrad-antrieb-so-kassieren-autohersteller-mit-der-4x4-technik-ab](https://www.spiegel.de/auto/allrad-antrieb-so-kassieren-autohersteller-mit-der-4x4-technik-ab-a-51c80d78-4aea-48bc-9650-eafecb5e8ca0#ref=rss)
+### 20
+
+* [https://www.spiegel.de/wirtschaft/warren-buffett-spendet-aktien-im-wert-von-sechs-milliarden-dollar](https://www.spiegel.de/wirtschaft/warren-buffett-spendet-aktien-im-wert-von-sechs-milliarden-dollar-a-e3de2ac5-8150-48e6-b5f5-3aff56f577bf#ref=rss)
+* [https://www.spiegel.de/reise/europa/wandern-auf-dem-stockholm-archipelago-trail-ein-schwedischer-wandertraum](https://www.spiegel.de/reise/europa/wandern-auf-dem-stockholm-archipelago-trail-ein-schwedischer-wandertraum-a-8f6888c7-842c-4849-9166-4144286dd7a6#ref=rss)
+### virginia
+
+* [https://www.spiegel.de/panorama/bildung/virginia-unipraesident-tritt-im-streit-um-diverstitaetsprogramme-zurueck](https://www.spiegel.de/panorama/bildung/virginia-unipraesident-tritt-im-streit-um-diverstitaetsprogramme-zurueck-a-cf2dcf95-970f-4e73-9777-f5a5d125ba54#ref=rss)
+### katzen
+
+* [https://www.spiegel.de/wissenschaft/natur/katzen-schlafen-gern-auf-der-linken-seite-um-so-schneller-reagieren-zu-koennen](https://www.spiegel.de/wissenschaft/natur/katzen-schlafen-gern-auf-der-linken-seite-um-so-schneller-reagieren-zu-koennen-a-c0fb5eb7-4764-4ea0-b335-64324a6f121b#ref=rss)
+### linken
+
+* [https://www.spiegel.de/wissenschaft/natur/katzen-schlafen-gern-auf-der-linken-seite-um-so-schneller-reagieren-zu-koennen](https://www.spiegel.de/wissenschaft/natur/katzen-schlafen-gern-auf-der-linken-seite-um-so-schneller-reagieren-zu-koennen-a-c0fb5eb7-4764-4ea0-b335-64324a6f121b#ref=rss)
+### seite
+
+* [https://www.spiegel.de/wissenschaft/natur/katzen-schlafen-gern-auf-der-linken-seite-um-so-schneller-reagieren-zu-koennen](https://www.spiegel.de/wissenschaft/natur/katzen-schlafen-gern-auf-der-linken-seite-um-so-schneller-reagieren-zu-koennen-a-c0fb5eb7-4764-4ea0-b335-64324a6f121b#ref=rss)
+### stunden
+
+* [https://www.spiegel.de/wissenschaft/natur/katzen-schlafen-gern-auf-der-linken-seite-um-so-schneller-reagieren-zu-koennen](https://www.spiegel.de/wissenschaft/natur/katzen-schlafen-gern-auf-der-linken-seite-um-so-schneller-reagieren-zu-koennen-a-c0fb5eb7-4764-4ea0-b335-64324a6f121b#ref=rss)
+* [https://www.spiegel.de/panorama/leute/180-knoepfe-900-stunden-handarbeit-und-zweimal-ja](https://www.spiegel.de/panorama/leute/180-knoepfe-900-stunden-handarbeit-und-zweimal-ja-a-9f9fceb2-95bd-4b10-8176-049b6869aa61#ref=rss)
+### fkkverband
+
+* [https://www.spiegel.de/panorama/gesellschaft/fkk-verband-ruegt-aufruf-zu-fkk-swinger-urlaub-von-stadtrat-in-mannheim](https://www.spiegel.de/panorama/gesellschaft/fkk-verband-ruegt-aufruf-zu-fkk-swinger-urlaub-von-stadtrat-in-mannheim-a-a7a717bb-3e9c-4334-a3d1-f6f6f16b8452#ref=rss)
+### fkkswingerurlaub
+
+* [https://www.spiegel.de/panorama/gesellschaft/fkk-verband-ruegt-aufruf-zu-fkk-swinger-urlaub-von-stadtrat-in-mannheim](https://www.spiegel.de/panorama/gesellschaft/fkk-verband-ruegt-aufruf-zu-fkk-swinger-urlaub-von-stadtrat-in-mannheim-a-a7a717bb-3e9c-4334-a3d1-f6f6f16b8452#ref=rss)
+### stadtrat
+
+* [https://www.spiegel.de/panorama/gesellschaft/fkk-verband-ruegt-aufruf-zu-fkk-swinger-urlaub-von-stadtrat-in-mannheim](https://www.spiegel.de/panorama/gesellschaft/fkk-verband-ruegt-aufruf-zu-fkk-swinger-urlaub-von-stadtrat-in-mannheim-a-a7a717bb-3e9c-4334-a3d1-f6f6f16b8452#ref=rss)
+### bundeswehr
+
+* [https://www.spiegel.de/politik/deutschland/bundesregierung-will-beschaffung-von-waffen-durch-neues-gesetz-beschleunigen](https://www.spiegel.de/politik/deutschland/bundesregierung-will-beschaffung-von-waffen-durch-neues-gesetz-beschleunigen-a-ccfa9d72-5077-40eb-90ea-54d4fd227476#ref=rss)
+### gesetz
+
+* [https://www.spiegel.de/politik/deutschland/bundesregierung-will-beschaffung-von-waffen-durch-neues-gesetz-beschleunigen](https://www.spiegel.de/politik/deutschland/bundesregierung-will-beschaffung-von-waffen-durch-neues-gesetz-beschleunigen-a-ccfa9d72-5077-40eb-90ea-54d4fd227476#ref=rss)
+### oft
+
+* [https://www.spiegel.de/politik/deutschland/bundesregierung-will-beschaffung-von-waffen-durch-neues-gesetz-beschleunigen](https://www.spiegel.de/politik/deutschland/bundesregierung-will-beschaffung-von-waffen-durch-neues-gesetz-beschleunigen-a-ccfa9d72-5077-40eb-90ea-54d4fd227476#ref=rss)
+* [https://www.spiegel.de/auto/allrad-antrieb-so-kassieren-autohersteller-mit-der-4x4-technik-ab](https://www.spiegel.de/auto/allrad-antrieb-so-kassieren-autohersteller-mit-der-4x4-technik-ab-a-51c80d78-4aea-48bc-9650-eafecb5e8ca0#ref=rss)
+### iran
+
+* [https://www.spiegel.de/ausland/usa-und-iran-donald-trump-und-seine-ueberraschende-rolle-als-weltpolizist](https://www.spiegel.de/ausland/usa-und-iran-donald-trump-und-seine-ueberraschende-rolle-als-weltpolizist-a-af7f6abb-c102-4c8b-b5fc-e199809fcc98#ref=rss)
+### odessa
+
+* [https://www.spiegel.de/ausland/ukraine-russland-krieg-odessa-von-kampfdrohnen-angegriffen-kyjiw-meldet-zerstoerung-russischer-bomber](https://www.spiegel.de/ausland/ukraine-russland-krieg-odessa-von-kampfdrohnen-angegriffen-kyjiw-meldet-zerstoerung-russischer-bomber-a-f7d82919-1a4d-4e3d-a831-cbf3c7e80b9d#ref=rss)
+### kyjiw
+
+* [https://www.spiegel.de/ausland/ukraine-russland-krieg-odessa-von-kampfdrohnen-angegriffen-kyjiw-meldet-zerstoerung-russischer-bomber](https://www.spiegel.de/ausland/ukraine-russland-krieg-odessa-von-kampfdrohnen-angegriffen-kyjiw-meldet-zerstoerung-russischer-bomber-a-f7d82919-1a4d-4e3d-a831-cbf3c7e80b9d#ref=rss)
+### setzt
+
+* [https://www.spiegel.de/ausland/ukraine-russland-krieg-odessa-von-kampfdrohnen-angegriffen-kyjiw-meldet-zerstoerung-russischer-bomber](https://www.spiegel.de/ausland/ukraine-russland-krieg-odessa-von-kampfdrohnen-angegriffen-kyjiw-meldet-zerstoerung-russischer-bomber-a-f7d82919-1a4d-4e3d-a831-cbf3c7e80b9d#ref=rss)
+* [https://www.spiegel.de/politik/stefanie-hubig-will-mietpreisbremse-bei-moeblierten-wohnungen-durchsetzen](https://www.spiegel.de/politik/stefanie-hubig-will-mietpreisbremse-bei-moeblierten-wohnungen-durchsetzen-a-90b82f5e-c24c-4082-b494-b7894b89d575#ref=rss)
+### unverträglichkeiten
+
+* [https://www.spiegel.de/wissenschaft/mensch/mikrobiom-und-unvertraeglichkeiten-warum-der-apfel-auch-mal-ungewaschen-sein-darf](https://www.spiegel.de/wissenschaft/mensch/mikrobiom-und-unvertraeglichkeiten-warum-der-apfel-auch-mal-ungewaschen-sein-darf-a-3bb9b6ac-2584-4267-aa90-6712485ad128#ref=rss)
+### unserer
+
+* [https://www.spiegel.de/wissenschaft/mensch/mikrobiom-und-unvertraeglichkeiten-warum-der-apfel-auch-mal-ungewaschen-sein-darf](https://www.spiegel.de/wissenschaft/mensch/mikrobiom-und-unvertraeglichkeiten-warum-der-apfel-auch-mal-ungewaschen-sein-darf-a-3bb9b6ac-2584-4267-aa90-6712485ad128#ref=rss)
+### ja
+
+* [https://www.spiegel.de/panorama/leute/180-knoepfe-900-stunden-handarbeit-und-zweimal-ja](https://www.spiegel.de/panorama/leute/180-knoepfe-900-stunden-handarbeit-und-zweimal-ja-a-9f9fceb2-95bd-4b10-8176-049b6869aa61#ref=rss)
+### jeannette
+
+* [https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-investorin-jeannette-zu-fuerstenberg-sieht-grosse-chancen-fuer-deutschland](https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-investorin-jeannette-zu-fuerstenberg-sieht-grosse-chancen-fuer-deutschland-a-603d88fa-d286-4fa3-b3da-5fb328e39c86#ref=rss)
+### fürstenberg
+
+* [https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-investorin-jeannette-zu-fuerstenberg-sieht-grosse-chancen-fuer-deutschland](https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-investorin-jeannette-zu-fuerstenberg-sieht-grosse-chancen-fuer-deutschland-a-603d88fa-d286-4fa3-b3da-5fb328e39c86#ref=rss)
+### große
+
+* [https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-investorin-jeannette-zu-fuerstenberg-sieht-grosse-chancen-fuer-deutschland](https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-investorin-jeannette-zu-fuerstenberg-sieht-grosse-chancen-fuer-deutschland-a-603d88fa-d286-4fa3-b3da-5fb328e39c86#ref=rss)
+### chancen
+
+* [https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-investorin-jeannette-zu-fuerstenberg-sieht-grosse-chancen-fuer-deutschland](https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-investorin-jeannette-zu-fuerstenberg-sieht-grosse-chancen-fuer-deutschland-a-603d88fa-d286-4fa3-b3da-5fb328e39c86#ref=rss)
+### haiti
+
+* [https://www.spiegel.de/ausland/usa-wollen-500-000-menschen-aus-haiti-abschieben](https://www.spiegel.de/ausland/usa-wollen-500-000-menschen-aus-haiti-abschieben-a-b1aa511b-c265-4b14-995f-7c059539151a#ref=rss)
+### lage
+
+* [https://www.spiegel.de/ausland/usa-wollen-500-000-menschen-aus-haiti-abschieben](https://www.spiegel.de/ausland/usa-wollen-500-000-menschen-aus-haiti-abschieben-a-b1aa511b-c265-4b14-995f-7c059539151a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-pride-parade-in-budapest-spd-parteitag-fehleranalyse-der-gruenen](https://www.spiegel.de/politik/deutschland/news-pride-parade-in-budapest-spd-parteitag-fehleranalyse-der-gruenen-a-773adc9c-4c4e-4f5b-8666-141630a170e2#ref=rss)
+### trail
+
+* [https://www.spiegel.de/reise/europa/wandern-auf-dem-stockholm-archipelago-trail-ein-schwedischer-wandertraum](https://www.spiegel.de/reise/europa/wandern-auf-dem-stockholm-archipelago-trail-ein-schwedischer-wandertraum-a-8f6888c7-842c-4849-9166-4144286dd7a6#ref=rss)
+### allradantrieb
+
+* [https://www.spiegel.de/auto/allrad-antrieb-so-kassieren-autohersteller-mit-der-4x4-technik-ab](https://www.spiegel.de/auto/allrad-antrieb-so-kassieren-autohersteller-mit-der-4x4-technik-ab-a-51c80d78-4aea-48bc-9650-eafecb5e8ca0#ref=rss)
+### klubwm
+
+* [https://www.spiegel.de/sport/fussball/klub-wm-die-kritik-am-turnier-in-den-usa-ist-wohlfeil-und-deutsch](https://www.spiegel.de/sport/fussball/klub-wm-die-kritik-am-turnier-in-den-usa-ist-wohlfeil-und-deutsch-a-9244f84b-1494-4c60-b036-d97bbc1ff83f#ref=rss)
+### kölner
+
+* [https://www.spiegel.de/panorama/bildung/nahostkonflikt-im-unterricht-koelner-schueler-lernen-mit-dem-hoerbus-nahost](https://www.spiegel.de/panorama/bildung/nahostkonflikt-im-unterricht-koelner-schueler-lernen-mit-dem-hoerbus-nahost-a-4c96bceb-4e54-4c6d-85e5-bc820ecfbadd#ref=rss)
+### hörbus
+
+* [https://www.spiegel.de/panorama/bildung/nahostkonflikt-im-unterricht-koelner-schueler-lernen-mit-dem-hoerbus-nahost](https://www.spiegel.de/panorama/bildung/nahostkonflikt-im-unterricht-koelner-schueler-lernen-mit-dem-hoerbus-nahost-a-4c96bceb-4e54-4c6d-85e5-bc820ecfbadd#ref=rss)
+### nahost
+
+* [https://www.spiegel.de/panorama/bildung/nahostkonflikt-im-unterricht-koelner-schueler-lernen-mit-dem-hoerbus-nahost](https://www.spiegel.de/panorama/bildung/nahostkonflikt-im-unterricht-koelner-schueler-lernen-mit-dem-hoerbus-nahost-a-4c96bceb-4e54-4c6d-85e5-bc820ecfbadd#ref=rss)
+### kernfusion
+
+* [https://www.spiegel.de/ausland/kernfusion-aus-deutschland-und-surfende-hunde-gute-nachrichten-der-woche](https://www.spiegel.de/ausland/kernfusion-aus-deutschland-und-surfende-hunde-gute-nachrichten-der-woche-a-f2a0e14f-7579-495a-b003-a41f61501ef6#ref=rss)
+### hunde
+
+* [https://www.spiegel.de/ausland/kernfusion-aus-deutschland-und-surfende-hunde-gute-nachrichten-der-woche](https://www.spiegel.de/ausland/kernfusion-aus-deutschland-und-surfende-hunde-gute-nachrichten-der-woche-a-f2a0e14f-7579-495a-b003-a41f61501ef6#ref=rss)
+### nachrichten
+
+* [https://www.spiegel.de/ausland/kernfusion-aus-deutschland-und-surfende-hunde-gute-nachrichten-der-woche](https://www.spiegel.de/ausland/kernfusion-aus-deutschland-und-surfende-hunde-gute-nachrichten-der-woche-a-f2a0e14f-7579-495a-b003-a41f61501ef6#ref=rss)
+### woche
+
+* [https://www.spiegel.de/ausland/kernfusion-aus-deutschland-und-surfende-hunde-gute-nachrichten-der-woche](https://www.spiegel.de/ausland/kernfusion-aus-deutschland-und-surfende-hunde-gute-nachrichten-der-woche-a-f2a0e14f-7579-495a-b003-a41f61501ef6#ref=rss)
+### grüne
+
+* [https://www.spiegel.de/politik/deutschland/gruene-wollen-keine-elite-partei-sein-neues-strategiepapier](https://www.spiegel.de/politik/deutschland/gruene-wollen-keine-elite-partei-sein-neues-strategiepapier-a-17724c09-d904-4ccf-a9a8-898b08bad790#ref=rss)
+### grünen
+
+* [https://www.spiegel.de/politik/deutschland/news-pride-parade-in-budapest-spd-parteitag-fehleranalyse-der-gruenen](https://www.spiegel.de/politik/deutschland/news-pride-parade-in-budapest-spd-parteitag-fehleranalyse-der-gruenen-a-773adc9c-4c4e-4f5b-8666-141630a170e2#ref=rss)
+### mietpreisbremse
+
+* [https://www.spiegel.de/politik/stefanie-hubig-will-mietpreisbremse-bei-moeblierten-wohnungen-durchsetzen](https://www.spiegel.de/politik/stefanie-hubig-will-mietpreisbremse-bei-moeblierten-wohnungen-durchsetzen-a-90b82f5e-c24c-4082-b494-b7894b89d575#ref=rss)
+### stefanie
+
+* [https://www.spiegel.de/politik/stefanie-hubig-will-mietpreisbremse-bei-moeblierten-wohnungen-durchsetzen](https://www.spiegel.de/politik/stefanie-hubig-will-mietpreisbremse-bei-moeblierten-wohnungen-durchsetzen-a-90b82f5e-c24c-4082-b494-b7894b89d575#ref=rss)
+### hubig
+
+* [https://www.spiegel.de/politik/stefanie-hubig-will-mietpreisbremse-bei-moeblierten-wohnungen-durchsetzen](https://www.spiegel.de/politik/stefanie-hubig-will-mietpreisbremse-bei-moeblierten-wohnungen-durchsetzen-a-90b82f5e-c24c-4082-b494-b7894b89d575#ref=rss)
 
