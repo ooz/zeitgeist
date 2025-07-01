@@ -4,324 +4,372 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### erdoğan
-
-* [https://www.spiegel.de/ausland/erdogan-gewinnt-europa-schaut-hilflos-zu](https://www.spiegel.de/ausland/erdogan-gewinnt-europa-schaut-hilflos-zu-a-40810168-9f41-47a0-977a-6a63e6ece249#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-oppositionsfuehrer-oezguer-oezel-erdogan-gibt-sich-stark-aber-er-ist-schwach](https://www.spiegel.de/ausland/tuerkei-oppositionsfuehrer-oezguer-oezel-erdogan-gibt-sich-stark-aber-er-ist-schwach-a-767140af-0622-4fcf-aca1-e5e79002a9fa#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/panorama/bahamas-maedchen-stuerzt-von-kreuzfahrtschiff-vater-springt-hinterher](https://www.spiegel.de/panorama/bahamas-maedchen-stuerzt-von-kreuzfahrtschiff-vater-springt-hinterher-a-e3b062ab-631d-45c9-8467-0a29b0484ca5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-lange-war-die-bsw-chefin-abgetaucht-jetzt-ist-sie-zurueck-in-berlin](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-lange-war-die-bsw-chefin-abgetaucht-jetzt-ist-sie-zurueck-in-berlin-a-c9099680-4037-4b59-a125-1c91f941dbb5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/arbeitslosenzahl-geht-im-juni-nur-geringfuegig-zurueck](https://www.spiegel.de/wirtschaft/arbeitslosenzahl-geht-im-juni-nur-geringfuegig-zurueck-a-e4afdf3c-bc8c-467e-95cb-d88d61874a68#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/bahamas-maedchen-stuerzt-von-kreuzfahrtschiff-vater-springt-hinterher](https://www.spiegel.de/panorama/bahamas-maedchen-stuerzt-von-kreuzfahrtschiff-vater-springt-hinterher-a-e3b062ab-631d-45c9-8467-0a29b0484ca5#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mellrichstadt-in-bayern-mann-greift-mitarbeiter-in-firma-an-eine-tote](https://www.spiegel.de/panorama/justiz/mellrichstadt-in-bayern-mann-greift-mitarbeiter-in-firma-an-eine-tote-a-0ca6b9e3-e513-401e-9031-282bd1258322#ref=rss)
-### regeln
-
-* [https://www.spiegel.de/reise/handgepaeck-so-gross-und-schwer-darf-der-reisetrolley-sein](https://www.spiegel.de/reise/handgepaeck-so-gross-und-schwer-darf-der-reisetrolley-sein-a-cb53286b-28bf-4397-9797-366934c6126b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/friedrich-merz-und-die-wirtschaft-die-subventionswende-des-kanzlers-kolumne](https://www.spiegel.de/wirtschaft/friedrich-merz-und-die-wirtschaft-die-subventionswende-des-kanzlers-kolumne-a-db859e9a-443b-4203-8829-dde427349087#ref=rss)
-* [https://www.spiegel.de/auto/bundeswehr-und-autobahn-gmbh-regeln-fahrten-von-militaerkolonnen](https://www.spiegel.de/auto/bundeswehr-und-autobahn-gmbh-regeln-fahrten-von-militaerkolonnen-a-b26c8089-b467-47c4-8d72-9a25a7f6676c#ref=rss)
-### sorgt
-
-* [https://www.spiegel.de/reise/handgepaeck-so-gross-und-schwer-darf-der-reisetrolley-sein](https://www.spiegel.de/reise/handgepaeck-so-gross-und-schwer-darf-der-reisetrolley-sein-a-cb53286b-28bf-4397-9797-366934c6126b#ref=rss)
-* [https://www.spiegel.de/ausland/polen-fuehrt-kontrollen-an-der-grenze-zu-deutschland-ein](https://www.spiegel.de/ausland/polen-fuehrt-kontrollen-an-der-grenze-zu-deutschland-ein-a-d1059566-3f57-4c1b-9a8a-d6f7707c7594#ref=rss)
-* [https://www.spiegel.de/ausland/thailand-paetongtarn-shinawatra-nach-umstrittenem-telefonat-suspendiert](https://www.spiegel.de/ausland/thailand-paetongtarn-shinawatra-nach-umstrittenem-telefonat-suspendiert-a-e34fba67-8199-4a3b-a16d-08f07d2cf9da#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-lange-war-die-bsw-chefin-abgetaucht-jetzt-ist-sie-zurueck-in-berlin](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-lange-war-die-bsw-chefin-abgetaucht-jetzt-ist-sie-zurueck-in-berlin-a-c9099680-4037-4b59-a125-1c91f941dbb5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/friedrich-merz-und-die-wirtschaft-die-subventionswende-des-kanzlers-kolumne](https://www.spiegel.de/wirtschaft/friedrich-merz-und-die-wirtschaft-die-subventionswende-des-kanzlers-kolumne-a-db859e9a-443b-4203-8829-dde427349087#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/festnahme-iran-soll-anschlaege-auf-juedische-einrichtungen-in-deutschland-geplant-haben](https://www.spiegel.de/politik/deutschland/festnahme-iran-soll-anschlaege-auf-juedische-einrichtungen-in-deutschland-geplant-haben-a-82030b43-5cea-4464-86fa-2041531553b5#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/ausland/polen-fuehrt-kontrollen-an-der-grenze-zu-deutschland-ein](https://www.spiegel.de/ausland/polen-fuehrt-kontrollen-an-der-grenze-zu-deutschland-ein-a-d1059566-3f57-4c1b-9a8a-d6f7707c7594#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/festnahme-iran-soll-anschlaege-auf-juedische-einrichtungen-in-deutschland-geplant-haben](https://www.spiegel.de/politik/deutschland/festnahme-iran-soll-anschlaege-auf-juedische-einrichtungen-in-deutschland-geplant-haben-a-82030b43-5cea-4464-86fa-2041531553b5#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-extrem-heisser-dienstag-steht-bevor](https://www.spiegel.de/panorama/wetter-in-deutschland-extrem-heisser-dienstag-steht-bevor-a-e3e51a14-48bd-4b55-b2db-3e78f44817f4#ref=rss)
-### haft
-
-* [https://www.spiegel.de/ausland/oesterreich-rene-benko-bleibt-in-haft-aber-ex-finanzminister-karl-heinz-grasser-koennte-bald-freikommen](https://www.spiegel.de/ausland/oesterreich-rene-benko-bleibt-in-haft-aber-ex-finanzminister-karl-heinz-grasser-koennte-bald-freikommen-a-2cb2d38d-572a-4fa6-b6b5-c086f0ad695e#ref=rss)
-* [https://www.spiegel.de/ausland/erdogan-gewinnt-europa-schaut-hilflos-zu](https://www.spiegel.de/ausland/erdogan-gewinnt-europa-schaut-hilflos-zu-a-40810168-9f41-47a0-977a-6a63e6ece249#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-oppositionsfuehrer-oezguer-oezel-erdogan-gibt-sich-stark-aber-er-ist-schwach](https://www.spiegel.de/ausland/tuerkei-oppositionsfuehrer-oezguer-oezel-erdogan-gibt-sich-stark-aber-er-ist-schwach-a-767140af-0622-4fcf-aca1-e5e79002a9fa#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/ausland/erdogan-gewinnt-europa-schaut-hilflos-zu](https://www.spiegel.de/ausland/erdogan-gewinnt-europa-schaut-hilflos-zu-a-40810168-9f41-47a0-977a-6a63e6ece249#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-oppositionsfuehrer-oezguer-oezel-erdogan-gibt-sich-stark-aber-er-ist-schwach](https://www.spiegel.de/ausland/tuerkei-oppositionsfuehrer-oezguer-oezel-erdogan-gibt-sich-stark-aber-er-ist-schwach-a-767140af-0622-4fcf-aca1-e5e79002a9fa#ref=rss)
-### schwach
-
-* [https://www.spiegel.de/ausland/erdogan-gewinnt-europa-schaut-hilflos-zu](https://www.spiegel.de/ausland/erdogan-gewinnt-europa-schaut-hilflos-zu-a-40810168-9f41-47a0-977a-6a63e6ece249#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-oppositionsfuehrer-oezguer-oezel-erdogan-gibt-sich-stark-aber-er-ist-schwach](https://www.spiegel.de/ausland/tuerkei-oppositionsfuehrer-oezguer-oezel-erdogan-gibt-sich-stark-aber-er-ist-schwach-a-767140af-0622-4fcf-aca1-e5e79002a9fa#ref=rss)
-* [https://www.spiegel.de/wirtschaft/arbeitslosenzahl-geht-im-juni-nur-geringfuegig-zurueck](https://www.spiegel.de/wirtschaft/arbeitslosenzahl-geht-im-juni-nur-geringfuegig-zurueck-a-e4afdf3c-bc8c-467e-95cb-d88d61874a68#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/ausland/donald-trump-reagiert-auf-elon-musk-mit-neuen-laestereien](https://www.spiegel.de/ausland/donald-trump-reagiert-auf-elon-musk-mit-neuen-laestereien-a-2eaa3868-a1e8-4e92-b193-a8de43a1fefe#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-das-abschiebegefaengnis-in-den-everglades-alligatoren-im-dienste-des-praesidenten](https://www.spiegel.de/ausland/donald-trump-und-das-abschiebegefaengnis-in-den-everglades-alligatoren-im-dienste-des-praesidenten-a-68a18df4-67c4-40b7-8e51-8092813015d3#ref=rss)
-### trump
+* [https://www.spiegel.de/ausland/polen-warum-der-liberale-premier-donald-tusk-grenzkontrollen-einfuehrt](https://www.spiegel.de/ausland/polen-warum-der-liberale-premier-donald-tusk-grenzkontrollen-einfuehrt-a-47ae1980-6332-4151-a328-00115c2b1bbf#ref=rss)
+* [https://www.spiegel.de/ausland/usa-senat-verabschiedet-donald-trumps-steuergesetz-mit-hauchduenner-mehrheit](https://www.spiegel.de/ausland/usa-senat-verabschiedet-donald-trumps-steuergesetz-mit-hauchduenner-mehrheit-a-b2feb349-7510-451c-8646-596c0e87e716#ref=rss)
+* [https://www.spiegel.de/panorama/leute/donald-trump-parfuem-als-neuestes-produkt-im-praesidenten-marketing](https://www.spiegel.de/panorama/leute/donald-trump-parfuem-als-neuestes-produkt-im-praesidenten-marketing-a-5ee8c669-491c-4c67-8e10-55e6115b240a#ref=rss)
+### fußballem
 
-* [https://www.spiegel.de/ausland/donald-trump-reagiert-auf-elon-musk-mit-neuen-laestereien](https://www.spiegel.de/ausland/donald-trump-reagiert-auf-elon-musk-mit-neuen-laestereien-a-2eaa3868-a1e8-4e92-b193-a8de43a1fefe#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-das-abschiebegefaengnis-in-den-everglades-alligatoren-im-dienste-des-praesidenten](https://www.spiegel.de/ausland/donald-trump-und-das-abschiebegefaengnis-in-den-everglades-alligatoren-im-dienste-des-praesidenten-a-68a18df4-67c4-40b7-8e51-8092813015d3#ref=rss)
-### rheinmetall
+* [https://www.spiegel.de/sport/fussball/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-gross-oder-kaputt](https://www.spiegel.de/sport/fussball/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-gross-oder-kaputt-a-1afe936e-1a90-4c4b-81f4-c52ad09a8179#ref=rss)
+* [https://www.spiegel.de/sport/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-der-frauen-gross-oder-kaputt](https://www.spiegel.de/sport/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-der-frauen-gross-oder-kaputt-a-1a7a2284-b5f2-478a-a542-554594211a1a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-em-2025-nationalspielerinnen-veroeffentlichen-song-mit-wolfgang-petry](https://www.spiegel.de/sport/fussball/fussball-em-2025-nationalspielerinnen-veroeffentlichen-song-mit-wolfgang-petry-a-0b95b023-f1cb-47d9-b278-e3898c1a5a68#ref=rss)
+* [https://www.spiegel.de/sport/fussball-em-in-der-schweiz-dfb-kapitaenin-gwinn-traegt-regenbogenbinde](https://www.spiegel.de/sport/fussball-em-in-der-schweiz-dfb-kapitaenin-gwinn-traegt-regenbogenbinde-a-752cc503-ccc9-4a98-954f-d9be2f4bd403#ref=rss)
+### 2025
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-neues-werk-fuer-f-35-tarnkappenbomber-in-weeze-eroeffnet](https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-neues-werk-fuer-f-35-tarnkappenbomber-in-weeze-eroeffnet-a-def37aef-7a7d-44d1-9a9d-cee56a08b615#ref=rss)
-### neues
+* [https://www.spiegel.de/kultur/tv/netflix-amazon-prime-disney-neue-serien-und-filme-im-juli-2025-was-sich-jetzt-lohnt](https://www.spiegel.de/kultur/tv/netflix-amazon-prime-disney-neue-serien-und-filme-im-juli-2025-was-sich-jetzt-lohnt-a-e0f2a89d-f595-4771-8af8-dd54b0f5e30d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-gross-oder-kaputt](https://www.spiegel.de/sport/fussball/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-gross-oder-kaputt-a-1afe936e-1a90-4c4b-81f4-c52ad09a8179#ref=rss)
+* [https://www.spiegel.de/sport/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-der-frauen-gross-oder-kaputt](https://www.spiegel.de/sport/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-der-frauen-gross-oder-kaputt-a-1a7a2284-b5f2-478a-a542-554594211a1a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-em-2025-nationalspielerinnen-veroeffentlichen-song-mit-wolfgang-petry](https://www.spiegel.de/sport/fussball/fussball-em-2025-nationalspielerinnen-veroeffentlichen-song-mit-wolfgang-petry-a-0b95b023-f1cb-47d9-b278-e3898c1a5a68#ref=rss)
+### schweiz
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-neues-werk-fuer-f-35-tarnkappenbomber-in-weeze-eroeffnet](https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-neues-werk-fuer-f-35-tarnkappenbomber-in-weeze-eroeffnet-a-def37aef-7a7d-44d1-9a9d-cee56a08b615#ref=rss)
-* [https://www.spiegel.de/wirtschaft/friedrich-merz-und-die-wirtschaft-die-subventionswende-des-kanzlers-kolumne](https://www.spiegel.de/wirtschaft/friedrich-merz-und-die-wirtschaft-die-subventionswende-des-kanzlers-kolumne-a-db859e9a-443b-4203-8829-dde427349087#ref=rss)
-### f35
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-neues-werk-fuer-f-35-tarnkappenbomber-in-weeze-eroeffnet](https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-neues-werk-fuer-f-35-tarnkappenbomber-in-weeze-eroeffnet-a-def37aef-7a7d-44d1-9a9d-cee56a08b615#ref=rss)
-### weeze
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-neues-werk-fuer-f-35-tarnkappenbomber-in-weeze-eroeffnet](https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-neues-werk-fuer-f-35-tarnkappenbomber-in-weeze-eroeffnet-a-def37aef-7a7d-44d1-9a9d-cee56a08b615#ref=rss)
-### tagen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-neues-werk-fuer-f-35-tarnkappenbomber-in-weeze-eroeffnet](https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-neues-werk-fuer-f-35-tarnkappenbomber-in-weeze-eroeffnet-a-def37aef-7a7d-44d1-9a9d-cee56a08b615#ref=rss)
-* [https://www.spiegel.de/ausland/erdogan-gewinnt-europa-schaut-hilflos-zu](https://www.spiegel.de/ausland/erdogan-gewinnt-europa-schaut-hilflos-zu-a-40810168-9f41-47a0-977a-6a63e6ece249#ref=rss)
-### florida
-
-* [https://www.spiegel.de/panorama/bahamas-maedchen-stuerzt-von-kreuzfahrtschiff-vater-springt-hinterher](https://www.spiegel.de/panorama/bahamas-maedchen-stuerzt-von-kreuzfahrtschiff-vater-springt-hinterher-a-e3b062ab-631d-45c9-8467-0a29b0484ca5#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-das-abschiebegefaengnis-in-den-everglades-alligatoren-im-dienste-des-praesidenten](https://www.spiegel.de/ausland/donald-trump-und-das-abschiebegefaengnis-in-den-everglades-alligatoren-im-dienste-des-praesidenten-a-68a18df4-67c4-40b7-8e51-8092813015d3#ref=rss)
-### konnten
-
-* [https://www.spiegel.de/panorama/bahamas-maedchen-stuerzt-von-kreuzfahrtschiff-vater-springt-hinterher](https://www.spiegel.de/panorama/bahamas-maedchen-stuerzt-von-kreuzfahrtschiff-vater-springt-hinterher-a-e3b062ab-631d-45c9-8467-0a29b0484ca5#ref=rss)
-* [https://www.spiegel.de/auto/bundeswehr-und-autobahn-gmbh-regeln-fahrten-von-militaerkolonnen](https://www.spiegel.de/auto/bundeswehr-und-autobahn-gmbh-regeln-fahrten-von-militaerkolonnen-a-b26c8089-b467-47c4-8d72-9a25a7f6676c#ref=rss)
-### stark
-
-* [https://www.spiegel.de/reise/handgepaeck-so-gross-und-schwer-darf-der-reisetrolley-sein](https://www.spiegel.de/reise/handgepaeck-so-gross-und-schwer-darf-der-reisetrolley-sein-a-cb53286b-28bf-4397-9797-366934c6126b#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-oppositionsfuehrer-oezguer-oezel-erdogan-gibt-sich-stark-aber-er-ist-schwach](https://www.spiegel.de/ausland/tuerkei-oppositionsfuehrer-oezguer-oezel-erdogan-gibt-sich-stark-aber-er-ist-schwach-a-767140af-0622-4fcf-aca1-e5e79002a9fa#ref=rss)
-### sahra
-
-* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-lange-war-die-bsw-chefin-abgetaucht-jetzt-ist-sie-zurueck-in-berlin](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-lange-war-die-bsw-chefin-abgetaucht-jetzt-ist-sie-zurueck-in-berlin-a-c9099680-4037-4b59-a125-1c91f941dbb5#ref=rss)
-### wagenknecht
-
-* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-lange-war-die-bsw-chefin-abgetaucht-jetzt-ist-sie-zurueck-in-berlin](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-lange-war-die-bsw-chefin-abgetaucht-jetzt-ist-sie-zurueck-in-berlin-a-c9099680-4037-4b59-a125-1c91f941dbb5#ref=rss)
+* [https://www.spiegel.de/panorama/schweiz-kandersteg-kaempft-gegen-drohenden-bergabsturz-mit-wissenschaftlicher-hilfe](https://www.spiegel.de/panorama/schweiz-kandersteg-kaempft-gegen-drohenden-bergabsturz-mit-wissenschaftlicher-hilfe-a-19d98dfc-eac1-4c1c-b477-621e2d0bf7eb#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-gross-oder-kaputt](https://www.spiegel.de/sport/fussball/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-gross-oder-kaputt-a-1afe936e-1a90-4c4b-81f4-c52ad09a8179#ref=rss)
+* [https://www.spiegel.de/sport/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-der-frauen-gross-oder-kaputt](https://www.spiegel.de/sport/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-der-frauen-gross-oder-kaputt-a-1a7a2284-b5f2-478a-a542-554594211a1a#ref=rss)
+* [https://www.spiegel.de/sport/fussball-em-in-der-schweiz-dfb-kapitaenin-gwinn-traegt-regenbogenbinde](https://www.spiegel.de/sport/fussball-em-in-der-schweiz-dfb-kapitaenin-gwinn-traegt-regenbogenbinde-a-752cc503-ccc9-4a98-954f-d9be2f4bd403#ref=rss)
 ### polen
 
-* [https://www.spiegel.de/ausland/polen-fuehrt-kontrollen-an-der-grenze-zu-deutschland-ein](https://www.spiegel.de/ausland/polen-fuehrt-kontrollen-an-der-grenze-zu-deutschland-ein-a-d1059566-3f57-4c1b-9a8a-d6f7707c7594#ref=rss)
-### kontrollen
-
-* [https://www.spiegel.de/ausland/polen-fuehrt-kontrollen-an-der-grenze-zu-deutschland-ein](https://www.spiegel.de/ausland/polen-fuehrt-kontrollen-an-der-grenze-zu-deutschland-ein-a-d1059566-3f57-4c1b-9a8a-d6f7707c7594#ref=rss)
-### grenze
-
-* [https://www.spiegel.de/ausland/polen-fuehrt-kontrollen-an-der-grenze-zu-deutschland-ein](https://www.spiegel.de/ausland/polen-fuehrt-kontrollen-an-der-grenze-zu-deutschland-ein-a-d1059566-3f57-4c1b-9a8a-d6f7707c7594#ref=rss)
-* [https://www.spiegel.de/ausland/thailand-paetongtarn-shinawatra-nach-umstrittenem-telefonat-suspendiert](https://www.spiegel.de/ausland/thailand-paetongtarn-shinawatra-nach-umstrittenem-telefonat-suspendiert-a-e34fba67-8199-4a3b-a16d-08f07d2cf9da#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/ausland/polen-fuehrt-kontrollen-an-der-grenze-zu-deutschland-ein](https://www.spiegel.de/ausland/polen-fuehrt-kontrollen-an-der-grenze-zu-deutschland-ein-a-d1059566-3f57-4c1b-9a8a-d6f7707c7594#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-reagiert-auf-elon-musk-mit-neuen-laestereien](https://www.spiegel.de/ausland/donald-trump-reagiert-auf-elon-musk-mit-neuen-laestereien-a-2eaa3868-a1e8-4e92-b193-a8de43a1fefe#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/ausland/polen-fuehrt-kontrollen-an-der-grenze-zu-deutschland-ein](https://www.spiegel.de/ausland/polen-fuehrt-kontrollen-an-der-grenze-zu-deutschland-ein-a-d1059566-3f57-4c1b-9a8a-d6f7707c7594#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-reagiert-auf-elon-musk-mit-neuen-laestereien](https://www.spiegel.de/ausland/donald-trump-reagiert-auf-elon-musk-mit-neuen-laestereien-a-2eaa3868-a1e8-4e92-b193-a8de43a1fefe#ref=rss)
-### erik
-
-* [https://www.spiegel.de/kultur/tv/erik-satie-bei-arte-der-punk-der-die-zeit-aushebelte](https://www.spiegel.de/kultur/tv/erik-satie-bei-arte-der-punk-der-die-zeit-aushebelte-a-8ccf2c94-2256-4ad6-86c4-f47e8c599432#ref=rss)
-### satie
-
-* [https://www.spiegel.de/kultur/tv/erik-satie-bei-arte-der-punk-der-die-zeit-aushebelte](https://www.spiegel.de/kultur/tv/erik-satie-bei-arte-der-punk-der-die-zeit-aushebelte-a-8ccf2c94-2256-4ad6-86c4-f47e8c599432#ref=rss)
-### arte
-
-* [https://www.spiegel.de/kultur/tv/erik-satie-bei-arte-der-punk-der-die-zeit-aushebelte](https://www.spiegel.de/kultur/tv/erik-satie-bei-arte-der-punk-der-die-zeit-aushebelte-a-8ccf2c94-2256-4ad6-86c4-f47e8c599432#ref=rss)
-### zeit
-
-* [https://www.spiegel.de/kultur/tv/erik-satie-bei-arte-der-punk-der-die-zeit-aushebelte](https://www.spiegel.de/kultur/tv/erik-satie-bei-arte-der-punk-der-die-zeit-aushebelte-a-8ccf2c94-2256-4ad6-86c4-f47e8c599432#ref=rss)
-* [https://www.spiegel.de/panorama/leute/jacinda-ardern-neuseelands-ex-premierministerin-spritzte-sich-im-wahlkampf-hormone](https://www.spiegel.de/panorama/leute/jacinda-ardern-neuseelands-ex-premierministerin-spritzte-sich-im-wahlkampf-hormone-a-112d56ee-c0b3-4ead-98c5-f370465604cd#ref=rss)
-### musik
-
-* [https://www.spiegel.de/kultur/tv/erik-satie-bei-arte-der-punk-der-die-zeit-aushebelte](https://www.spiegel.de/kultur/tv/erik-satie-bei-arte-der-punk-der-die-zeit-aushebelte-a-8ccf2c94-2256-4ad6-86c4-f47e8c599432#ref=rss)
-### publikum
-
-* [https://www.spiegel.de/kultur/tv/erik-satie-bei-arte-der-punk-der-die-zeit-aushebelte](https://www.spiegel.de/kultur/tv/erik-satie-bei-arte-der-punk-der-die-zeit-aushebelte-a-8ccf2c94-2256-4ad6-86c4-f47e8c599432#ref=rss)
-* [https://www.spiegel.de/kultur/musik/olivia-rodrigo-beim-glastonbury-festival-springerstiefel-hotpants-und-ein-heimlicher-held](https://www.spiegel.de/kultur/musik/olivia-rodrigo-beim-glastonbury-festival-springerstiefel-hotpants-und-ein-heimlicher-held-a-5af7a605-2179-47ec-a28c-ba1034a6e9ba#ref=rss)
-### 100
-
-* [https://www.spiegel.de/kultur/tv/erik-satie-bei-arte-der-punk-der-die-zeit-aushebelte](https://www.spiegel.de/kultur/tv/erik-satie-bei-arte-der-punk-der-die-zeit-aushebelte-a-8ccf2c94-2256-4ad6-86c4-f47e8c599432#ref=rss)
-* [https://www.spiegel.de/ausland/erdogan-gewinnt-europa-schaut-hilflos-zu](https://www.spiegel.de/ausland/erdogan-gewinnt-europa-schaut-hilflos-zu-a-40810168-9f41-47a0-977a-6a63e6ece249#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/kultur/tv/erik-satie-bei-arte-der-punk-der-die-zeit-aushebelte](https://www.spiegel.de/kultur/tv/erik-satie-bei-arte-der-punk-der-die-zeit-aushebelte-a-8ccf2c94-2256-4ad6-86c4-f47e8c599432#ref=rss)
-* [https://www.spiegel.de/panorama/leute/jacinda-ardern-neuseelands-ex-premierministerin-spritzte-sich-im-wahlkampf-hormone](https://www.spiegel.de/panorama/leute/jacinda-ardern-neuseelands-ex-premierministerin-spritzte-sich-im-wahlkampf-hormone-a-112d56ee-c0b3-4ead-98c5-f370465604cd#ref=rss)
-### rené
-
-* [https://www.spiegel.de/ausland/oesterreich-rene-benko-bleibt-in-haft-aber-ex-finanzminister-karl-heinz-grasser-koennte-bald-freikommen](https://www.spiegel.de/ausland/oesterreich-rene-benko-bleibt-in-haft-aber-ex-finanzminister-karl-heinz-grasser-koennte-bald-freikommen-a-2cb2d38d-572a-4fa6-b6b5-c086f0ad695e#ref=rss)
-### benko
-
-* [https://www.spiegel.de/ausland/oesterreich-rene-benko-bleibt-in-haft-aber-ex-finanzminister-karl-heinz-grasser-koennte-bald-freikommen](https://www.spiegel.de/ausland/oesterreich-rene-benko-bleibt-in-haft-aber-ex-finanzminister-karl-heinz-grasser-koennte-bald-freikommen-a-2cb2d38d-572a-4fa6-b6b5-c086f0ad695e#ref=rss)
-### bleibt
-
-* [https://www.spiegel.de/ausland/oesterreich-rene-benko-bleibt-in-haft-aber-ex-finanzminister-karl-heinz-grasser-koennte-bald-freikommen](https://www.spiegel.de/ausland/oesterreich-rene-benko-bleibt-in-haft-aber-ex-finanzminister-karl-heinz-grasser-koennte-bald-freikommen-a-2cb2d38d-572a-4fa6-b6b5-c086f0ad695e#ref=rss)
-### exfinanzminister
-
-* [https://www.spiegel.de/ausland/oesterreich-rene-benko-bleibt-in-haft-aber-ex-finanzminister-karl-heinz-grasser-koennte-bald-freikommen](https://www.spiegel.de/ausland/oesterreich-rene-benko-bleibt-in-haft-aber-ex-finanzminister-karl-heinz-grasser-koennte-bald-freikommen-a-2cb2d38d-572a-4fa6-b6b5-c086f0ad695e#ref=rss)
-### karlheinz
-
-* [https://www.spiegel.de/ausland/oesterreich-rene-benko-bleibt-in-haft-aber-ex-finanzminister-karl-heinz-grasser-koennte-bald-freikommen](https://www.spiegel.de/ausland/oesterreich-rene-benko-bleibt-in-haft-aber-ex-finanzminister-karl-heinz-grasser-koennte-bald-freikommen-a-2cb2d38d-572a-4fa6-b6b5-c086f0ad695e#ref=rss)
-### grasser
-
-* [https://www.spiegel.de/ausland/oesterreich-rene-benko-bleibt-in-haft-aber-ex-finanzminister-karl-heinz-grasser-koennte-bald-freikommen](https://www.spiegel.de/ausland/oesterreich-rene-benko-bleibt-in-haft-aber-ex-finanzminister-karl-heinz-grasser-koennte-bald-freikommen-a-2cb2d38d-572a-4fa6-b6b5-c086f0ad695e#ref=rss)
-### bald
-
-* [https://www.spiegel.de/ausland/oesterreich-rene-benko-bleibt-in-haft-aber-ex-finanzminister-karl-heinz-grasser-koennte-bald-freikommen](https://www.spiegel.de/ausland/oesterreich-rene-benko-bleibt-in-haft-aber-ex-finanzminister-karl-heinz-grasser-koennte-bald-freikommen-a-2cb2d38d-572a-4fa6-b6b5-c086f0ad695e#ref=rss)
-### freikommen
-
-* [https://www.spiegel.de/ausland/oesterreich-rene-benko-bleibt-in-haft-aber-ex-finanzminister-karl-heinz-grasser-koennte-bald-freikommen](https://www.spiegel.de/ausland/oesterreich-rene-benko-bleibt-in-haft-aber-ex-finanzminister-karl-heinz-grasser-koennte-bald-freikommen-a-2cb2d38d-572a-4fa6-b6b5-c086f0ad695e#ref=rss)
-### sachsenanhalt
-
-* [https://www.spiegel.de/politik/deutschland/ermittler-durchsuchen-bueros-von-cdu-spd-und-afd-im-landtag-von-sachsen-anhalt](https://www.spiegel.de/politik/deutschland/ermittler-durchsuchen-bueros-von-cdu-spd-und-afd-im-landtag-von-sachsen-anhalt-a-232b4daf-21d3-45e4-a4ad-546daec9c2a7#ref=rss)
-### landtag
-
-* [https://www.spiegel.de/politik/deutschland/ermittler-durchsuchen-bueros-von-cdu-spd-und-afd-im-landtag-von-sachsen-anhalt](https://www.spiegel.de/politik/deutschland/ermittler-durchsuchen-bueros-von-cdu-spd-und-afd-im-landtag-von-sachsen-anhalt-a-232b4daf-21d3-45e4-a4ad-546daec9c2a7#ref=rss)
-### laut
-
-* [https://www.spiegel.de/politik/deutschland/ermittler-durchsuchen-bueros-von-cdu-spd-und-afd-im-landtag-von-sachsen-anhalt](https://www.spiegel.de/politik/deutschland/ermittler-durchsuchen-bueros-von-cdu-spd-und-afd-im-landtag-von-sachsen-anhalt-a-232b4daf-21d3-45e4-a4ad-546daec9c2a7#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/erzbistum-koeln-haftet-laut-urteil-nicht-fuer-missbrauchspriester](https://www.spiegel.de/panorama/justiz/erzbistum-koeln-haftet-laut-urteil-nicht-fuer-missbrauchspriester-a-0bbb2986-4e85-46cb-9ba5-b5cce8807b3c#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/politik/deutschland/festnahme-iran-soll-anschlaege-auf-juedische-einrichtungen-in-deutschland-geplant-haben](https://www.spiegel.de/politik/deutschland/festnahme-iran-soll-anschlaege-auf-juedische-einrichtungen-in-deutschland-geplant-haben-a-82030b43-5cea-4464-86fa-2041531553b5#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mellrichstadt-in-bayern-mann-greift-mitarbeiter-in-firma-an-eine-tote](https://www.spiegel.de/panorama/justiz/mellrichstadt-in-bayern-mann-greift-mitarbeiter-in-firma-an-eine-tote-a-0ca6b9e3-e513-401e-9031-282bd1258322#ref=rss)
-### festgenommen
-
-* [https://www.spiegel.de/politik/deutschland/festnahme-iran-soll-anschlaege-auf-juedische-einrichtungen-in-deutschland-geplant-haben](https://www.spiegel.de/politik/deutschland/festnahme-iran-soll-anschlaege-auf-juedische-einrichtungen-in-deutschland-geplant-haben-a-82030b43-5cea-4464-86fa-2041531553b5#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mellrichstadt-in-bayern-mann-greift-mitarbeiter-in-firma-an-eine-tote](https://www.spiegel.de/panorama/justiz/mellrichstadt-in-bayern-mann-greift-mitarbeiter-in-firma-an-eine-tote-a-0ca6b9e3-e513-401e-9031-282bd1258322#ref=rss)
-### extremer
-
-* [https://www.spiegel.de/wirtschaft/immer-mehr-fehltage-wegen-hitzebeschwerden](https://www.spiegel.de/wirtschaft/immer-mehr-fehltage-wegen-hitzebeschwerden-a-0a375b7b-546c-4e44-8841-d3cff9679acc#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-extrem-heisser-dienstag-steht-bevor](https://www.spiegel.de/panorama/wetter-in-deutschland-extrem-heisser-dienstag-steht-bevor-a-e3e51a14-48bd-4b55-b2db-3e78f44817f4#ref=rss)
-### viele
-
-* [https://www.spiegel.de/wirtschaft/immer-mehr-fehltage-wegen-hitzebeschwerden](https://www.spiegel.de/wirtschaft/immer-mehr-fehltage-wegen-hitzebeschwerden-a-0a375b7b-546c-4e44-8841-d3cff9679acc#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/dorsten-u-haft-fuer-16-jaehrigen-nach-tod-von-frau-und-kleinkind](https://www.spiegel.de/panorama/justiz/dorsten-u-haft-fuer-16-jaehrigen-nach-tod-von-frau-und-kleinkind-a-3bd5fd03-3dd7-4f1f-9cb1-0f238745d502#ref=rss)
-### rosie
-
-* [https://www.spiegel.de/kultur/rosie-odonnell-kritisiert-oprah-winfrey-fuer-teilnahme-an-bezos-hochzeit](https://www.spiegel.de/kultur/rosie-odonnell-kritisiert-oprah-winfrey-fuer-teilnahme-an-bezos-hochzeit-a-d87ef771-6634-44ef-ad4f-f11ad1f528ca#ref=rss)
-### o’donnell
-
-* [https://www.spiegel.de/kultur/rosie-odonnell-kritisiert-oprah-winfrey-fuer-teilnahme-an-bezos-hochzeit](https://www.spiegel.de/kultur/rosie-odonnell-kritisiert-oprah-winfrey-fuer-teilnahme-an-bezos-hochzeit-a-d87ef771-6634-44ef-ad4f-f11ad1f528ca#ref=rss)
-### oprah
-
-* [https://www.spiegel.de/kultur/rosie-odonnell-kritisiert-oprah-winfrey-fuer-teilnahme-an-bezos-hochzeit](https://www.spiegel.de/kultur/rosie-odonnell-kritisiert-oprah-winfrey-fuer-teilnahme-an-bezos-hochzeit-a-d87ef771-6634-44ef-ad4f-f11ad1f528ca#ref=rss)
-### winfrey
-
-* [https://www.spiegel.de/kultur/rosie-odonnell-kritisiert-oprah-winfrey-fuer-teilnahme-an-bezos-hochzeit](https://www.spiegel.de/kultur/rosie-odonnell-kritisiert-oprah-winfrey-fuer-teilnahme-an-bezos-hochzeit-a-d87ef771-6634-44ef-ad4f-f11ad1f528ca#ref=rss)
-### thailand
-
-* [https://www.spiegel.de/ausland/thailand-paetongtarn-shinawatra-nach-umstrittenem-telefonat-suspendiert](https://www.spiegel.de/ausland/thailand-paetongtarn-shinawatra-nach-umstrittenem-telefonat-suspendiert-a-e34fba67-8199-4a3b-a16d-08f07d2cf9da#ref=rss)
-### paetongtarn
-
-* [https://www.spiegel.de/ausland/thailand-paetongtarn-shinawatra-nach-umstrittenem-telefonat-suspendiert](https://www.spiegel.de/ausland/thailand-paetongtarn-shinawatra-nach-umstrittenem-telefonat-suspendiert-a-e34fba67-8199-4a3b-a16d-08f07d2cf9da#ref=rss)
-### kollegen
-
-* [https://www.spiegel.de/ausland/thailand-paetongtarn-shinawatra-nach-umstrittenem-telefonat-suspendiert](https://www.spiegel.de/ausland/thailand-paetongtarn-shinawatra-nach-umstrittenem-telefonat-suspendiert-a-e34fba67-8199-4a3b-a16d-08f07d2cf9da#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mellrichstadt-in-bayern-mann-greift-mitarbeiter-in-firma-an-eine-tote](https://www.spiegel.de/panorama/justiz/mellrichstadt-in-bayern-mann-greift-mitarbeiter-in-firma-an-eine-tote-a-0ca6b9e3-e513-401e-9031-282bd1258322#ref=rss)
-### olivia
-
-* [https://www.spiegel.de/kultur/musik/olivia-rodrigo-beim-glastonbury-festival-springerstiefel-hotpants-und-ein-heimlicher-held](https://www.spiegel.de/kultur/musik/olivia-rodrigo-beim-glastonbury-festival-springerstiefel-hotpants-und-ein-heimlicher-held-a-5af7a605-2179-47ec-a28c-ba1034a6e9ba#ref=rss)
-### rodrigo
-
-* [https://www.spiegel.de/kultur/musik/olivia-rodrigo-beim-glastonbury-festival-springerstiefel-hotpants-und-ein-heimlicher-held](https://www.spiegel.de/kultur/musik/olivia-rodrigo-beim-glastonbury-festival-springerstiefel-hotpants-und-ein-heimlicher-held-a-5af7a605-2179-47ec-a28c-ba1034a6e9ba#ref=rss)
-### glastonburyfestival
-
-* [https://www.spiegel.de/kultur/musik/olivia-rodrigo-beim-glastonbury-festival-springerstiefel-hotpants-und-ein-heimlicher-held](https://www.spiegel.de/kultur/musik/olivia-rodrigo-beim-glastonbury-festival-springerstiefel-hotpants-und-ein-heimlicher-held-a-5af7a605-2179-47ec-a28c-ba1034a6e9ba#ref=rss)
-### köln
-
-* [https://www.spiegel.de/panorama/justiz/erzbistum-koeln-haftet-laut-urteil-nicht-fuer-missbrauchspriester](https://www.spiegel.de/panorama/justiz/erzbistum-koeln-haftet-laut-urteil-nicht-fuer-missbrauchspriester-a-0bbb2986-4e85-46cb-9ba5-b5cce8807b3c#ref=rss)
-### jacinda
-
-* [https://www.spiegel.de/panorama/leute/jacinda-ardern-neuseelands-ex-premierministerin-spritzte-sich-im-wahlkampf-hormone](https://www.spiegel.de/panorama/leute/jacinda-ardern-neuseelands-ex-premierministerin-spritzte-sich-im-wahlkampf-hormone-a-112d56ee-c0b3-4ead-98c5-f370465604cd#ref=rss)
-### ardern
-
-* [https://www.spiegel.de/panorama/leute/jacinda-ardern-neuseelands-ex-premierministerin-spritzte-sich-im-wahlkampf-hormone](https://www.spiegel.de/panorama/leute/jacinda-ardern-neuseelands-ex-premierministerin-spritzte-sich-im-wahlkampf-hormone-a-112d56ee-c0b3-4ead-98c5-f370465604cd#ref=rss)
-### europa
-
-* [https://www.spiegel.de/ausland/erdogan-gewinnt-europa-schaut-hilflos-zu](https://www.spiegel.de/ausland/erdogan-gewinnt-europa-schaut-hilflos-zu-a-40810168-9f41-47a0-977a-6a63e6ece249#ref=rss)
-### istanbuler
-
-* [https://www.spiegel.de/ausland/erdogan-gewinnt-europa-schaut-hilflos-zu](https://www.spiegel.de/ausland/erdogan-gewinnt-europa-schaut-hilflos-zu-a-40810168-9f41-47a0-977a-6a63e6ece249#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-oppositionsfuehrer-oezguer-oezel-erdogan-gibt-sich-stark-aber-er-ist-schwach](https://www.spiegel.de/ausland/tuerkei-oppositionsfuehrer-oezguer-oezel-erdogan-gibt-sich-stark-aber-er-ist-schwach-a-767140af-0622-4fcf-aca1-e5e79002a9fa#ref=rss)
-### ekrem
-
-* [https://www.spiegel.de/ausland/erdogan-gewinnt-europa-schaut-hilflos-zu](https://www.spiegel.de/ausland/erdogan-gewinnt-europa-schaut-hilflos-zu-a-40810168-9f41-47a0-977a-6a63e6ece249#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-oppositionsfuehrer-oezguer-oezel-erdogan-gibt-sich-stark-aber-er-ist-schwach](https://www.spiegel.de/ausland/tuerkei-oppositionsfuehrer-oezguer-oezel-erdogan-gibt-sich-stark-aber-er-ist-schwach-a-767140af-0622-4fcf-aca1-e5e79002a9fa#ref=rss)
-### i̇mamoğlu
-
-* [https://www.spiegel.de/ausland/erdogan-gewinnt-europa-schaut-hilflos-zu](https://www.spiegel.de/ausland/erdogan-gewinnt-europa-schaut-hilflos-zu-a-40810168-9f41-47a0-977a-6a63e6ece249#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-oppositionsfuehrer-oezguer-oezel-erdogan-gibt-sich-stark-aber-er-ist-schwach](https://www.spiegel.de/ausland/tuerkei-oppositionsfuehrer-oezguer-oezel-erdogan-gibt-sich-stark-aber-er-ist-schwach-a-767140af-0622-4fcf-aca1-e5e79002a9fa#ref=rss)
-### dorsten
-
-* [https://www.spiegel.de/panorama/justiz/dorsten-u-haft-fuer-16-jaehrigen-nach-tod-von-frau-und-kleinkind](https://www.spiegel.de/panorama/justiz/dorsten-u-haft-fuer-16-jaehrigen-nach-tod-von-frau-und-kleinkind-a-3bd5fd03-3dd7-4f1f-9cb1-0f238745d502#ref=rss)
-### tod
-
-* [https://www.spiegel.de/panorama/justiz/dorsten-u-haft-fuer-16-jaehrigen-nach-tod-von-frau-und-kleinkind](https://www.spiegel.de/panorama/justiz/dorsten-u-haft-fuer-16-jaehrigen-nach-tod-von-frau-und-kleinkind-a-3bd5fd03-3dd7-4f1f-9cb1-0f238745d502#ref=rss)
+* [https://www.spiegel.de/ausland/polen-warum-der-liberale-premier-donald-tusk-grenzkontrollen-einfuehrt](https://www.spiegel.de/ausland/polen-warum-der-liberale-premier-donald-tusk-grenzkontrollen-einfuehrt-a-47ae1980-6332-4151-a328-00115c2b1bbf#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-grenzkontrollen-in-polen-sachsen-anhalt-untreue-im-magdeburger-landtag-anschlaege-auf-juedische-einrichtungen-durch-iran](https://www.spiegel.de/politik/deutschland/news-des-tages-grenzkontrollen-in-polen-sachsen-anhalt-untreue-im-magdeburger-landtag-anschlaege-auf-juedische-einrichtungen-durch-iran-a-86d1c95c-e1ab-4232-a413-f74e22f02e0f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/grenzkontrollen-spd-kritisiert-friedrich-merz-fuer-umgang-mit-europaeischen-nachbarn](https://www.spiegel.de/politik/deutschland/grenzkontrollen-spd-kritisiert-friedrich-merz-fuer-umgang-mit-europaeischen-nachbarn-a-7a8938eb-a74a-4941-b9c7-92606b5e1bb3#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/panorama/justiz/dorsten-u-haft-fuer-16-jaehrigen-nach-tod-von-frau-und-kleinkind](https://www.spiegel.de/panorama/justiz/dorsten-u-haft-fuer-16-jaehrigen-nach-tod-von-frau-und-kleinkind-a-3bd5fd03-3dd7-4f1f-9cb1-0f238745d502#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-extrem-heisser-dienstag-steht-bevor](https://www.spiegel.de/panorama/wetter-in-deutschland-extrem-heisser-dienstag-steht-bevor-a-e3e51a14-48bd-4b55-b2db-3e78f44817f4#ref=rss)
-### details
+* [https://www.spiegel.de/panorama/hitze-so-trotzt-europa-den-hohen-temperaturen-im-sommer](https://www.spiegel.de/panorama/hitze-so-trotzt-europa-den-hohen-temperaturen-im-sommer-a-76e35fe1-360d-4209-a51e-79abb57ed82e#ref=rss)
+* [https://www.spiegel.de/psychologie/einsamkeit-und-manipulation-beim-dating-vorsicht-du-ghostest-ein-gespenst](https://www.spiegel.de/psychologie/einsamkeit-und-manipulation-beim-dating-vorsicht-du-ghostest-ein-gespenst-a-a7824121-013d-4429-bfd1-35d221b1d38b#ref=rss)
+* [https://www.spiegel.de/ausland/kaschmir-konflikt-zwischen-indien-und-pakistan-das-bergidyll-um-das-sich-atommaechte-streiten](https://www.spiegel.de/ausland/kaschmir-konflikt-zwischen-indien-und-pakistan-das-bergidyll-um-das-sich-atommaechte-streiten-a-be2fa21e-712b-458a-8a9f-3d347f78120f#ref=rss)
+* [https://www.spiegel.de/fitness/fitness-fuer-uebergewichtige-bei-diesen-zumba-kursen-muessen-duenne-draussen-bleiben](https://www.spiegel.de/fitness/fitness-fuer-uebergewichtige-bei-diesen-zumba-kursen-muessen-duenne-draussen-bleiben-a-631b2aaa-d7ac-4df9-ac03-4b2a135846c3#ref=rss)
+### frauen
 
-* [https://www.spiegel.de/panorama/justiz/dorsten-u-haft-fuer-16-jaehrigen-nach-tod-von-frau-und-kleinkind](https://www.spiegel.de/panorama/justiz/dorsten-u-haft-fuer-16-jaehrigen-nach-tod-von-frau-und-kleinkind-a-3bd5fd03-3dd7-4f1f-9cb1-0f238745d502#ref=rss)
-* [https://www.spiegel.de/auto/bundeswehr-und-autobahn-gmbh-regeln-fahrten-von-militaerkolonnen](https://www.spiegel.de/auto/bundeswehr-und-autobahn-gmbh-regeln-fahrten-von-militaerkolonnen-a-b26c8089-b467-47c4-8d72-9a25a7f6676c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-gross-oder-kaputt](https://www.spiegel.de/sport/fussball/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-gross-oder-kaputt-a-1afe936e-1a90-4c4b-81f4-c52ad09a8179#ref=rss)
+* [https://www.spiegel.de/sport/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-der-frauen-gross-oder-kaputt](https://www.spiegel.de/sport/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-der-frauen-gross-oder-kaputt-a-1a7a2284-b5f2-478a-a542-554594211a1a#ref=rss)
+* [https://www.spiegel.de/kultur/maedchen-maedchen-remake-im-kino-hatz-zum-hoehepunkt](https://www.spiegel.de/kultur/maedchen-maedchen-remake-im-kino-hatz-zum-hoehepunkt-a-e5f98bc1-33bc-4eba-970e-8b1dab0f66ea#ref=rss)
+### viele
+
+* [https://www.spiegel.de/sport/fussball/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-gross-oder-kaputt](https://www.spiegel.de/sport/fussball/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-gross-oder-kaputt-a-1afe936e-1a90-4c4b-81f4-c52ad09a8179#ref=rss)
+* [https://www.spiegel.de/sport/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-der-frauen-gross-oder-kaputt](https://www.spiegel.de/sport/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-der-frauen-gross-oder-kaputt-a-1a7a2284-b5f2-478a-a542-554594211a1a#ref=rss)
+* [https://www.spiegel.de/wissenschaft/temperaturen-um-40-grad-warum-es-gerade-so-heiss-ist](https://www.spiegel.de/wissenschaft/temperaturen-um-40-grad-warum-es-gerade-so-heiss-ist-a-58d65a5d-6e2d-41e0-bb72-1d11cdc922a8#ref=rss)
+* [https://www.spiegel.de/fitness/fitness-fuer-uebergewichtige-bei-diesen-zumba-kursen-muessen-duenne-draussen-bleiben](https://www.spiegel.de/fitness/fitness-fuer-uebergewichtige-bei-diesen-zumba-kursen-muessen-duenne-draussen-bleiben-a-631b2aaa-d7ac-4df9-ac03-4b2a135846c3#ref=rss)
+### diesen
+
+* [https://www.spiegel.de/kultur/tv/netflix-amazon-prime-disney-neue-serien-und-filme-im-juli-2025-was-sich-jetzt-lohnt](https://www.spiegel.de/kultur/tv/netflix-amazon-prime-disney-neue-serien-und-filme-im-juli-2025-was-sich-jetzt-lohnt-a-e0f2a89d-f595-4771-8af8-dd54b0f5e30d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/temperaturen-um-40-grad-warum-es-gerade-so-heiss-ist](https://www.spiegel.de/wissenschaft/temperaturen-um-40-grad-warum-es-gerade-so-heiss-ist-a-58d65a5d-6e2d-41e0-bb72-1d11cdc922a8#ref=rss)
+* [https://www.spiegel.de/fitness/fitness-fuer-uebergewichtige-bei-diesen-zumba-kursen-muessen-duenne-draussen-bleiben](https://www.spiegel.de/fitness/fitness-fuer-uebergewichtige-bei-diesen-zumba-kursen-muessen-duenne-draussen-bleiben-a-631b2aaa-d7ac-4df9-ac03-4b2a135846c3#ref=rss)
+### grenzkontrollen
+
+* [https://www.spiegel.de/ausland/polen-warum-der-liberale-premier-donald-tusk-grenzkontrollen-einfuehrt](https://www.spiegel.de/ausland/polen-warum-der-liberale-premier-donald-tusk-grenzkontrollen-einfuehrt-a-47ae1980-6332-4151-a328-00115c2b1bbf#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-grenzkontrollen-in-polen-sachsen-anhalt-untreue-im-magdeburger-landtag-anschlaege-auf-juedische-einrichtungen-durch-iran](https://www.spiegel.de/politik/deutschland/news-des-tages-grenzkontrollen-in-polen-sachsen-anhalt-untreue-im-magdeburger-landtag-anschlaege-auf-juedische-einrichtungen-durch-iran-a-86d1c95c-e1ab-4232-a413-f74e22f02e0f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/grenzkontrollen-spd-kritisiert-friedrich-merz-fuer-umgang-mit-europaeischen-nachbarn](https://www.spiegel.de/politik/deutschland/grenzkontrollen-spd-kritisiert-friedrich-merz-fuer-umgang-mit-europaeischen-nachbarn-a-7a8938eb-a74a-4941-b9c7-92606b5e1bb3#ref=rss)
+### merz
+
+* [https://www.spiegel.de/ausland/polen-warum-der-liberale-premier-donald-tusk-grenzkontrollen-einfuehrt](https://www.spiegel.de/ausland/polen-warum-der-liberale-premier-donald-tusk-grenzkontrollen-einfuehrt-a-47ae1980-6332-4151-a328-00115c2b1bbf#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/grenzkontrollen-spd-kritisiert-friedrich-merz-fuer-umgang-mit-europaeischen-nachbarn](https://www.spiegel.de/politik/deutschland/grenzkontrollen-spd-kritisiert-friedrich-merz-fuer-umgang-mit-europaeischen-nachbarn-a-7a8938eb-a74a-4941-b9c7-92606b5e1bb3#ref=rss)
+### führt
+
+* [https://www.spiegel.de/ausland/polen-warum-der-liberale-premier-donald-tusk-grenzkontrollen-einfuehrt](https://www.spiegel.de/ausland/polen-warum-der-liberale-premier-donald-tusk-grenzkontrollen-einfuehrt-a-47ae1980-6332-4151-a328-00115c2b1bbf#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-grenzkontrollen-in-polen-sachsen-anhalt-untreue-im-magdeburger-landtag-anschlaege-auf-juedische-einrichtungen-durch-iran](https://www.spiegel.de/politik/deutschland/news-des-tages-grenzkontrollen-in-polen-sachsen-anhalt-untreue-im-magdeburger-landtag-anschlaege-auf-juedische-einrichtungen-durch-iran-a-86d1c95c-e1ab-4232-a413-f74e22f02e0f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/grenzkontrollen-spd-kritisiert-friedrich-merz-fuer-umgang-mit-europaeischen-nachbarn](https://www.spiegel.de/politik/deutschland/grenzkontrollen-spd-kritisiert-friedrich-merz-fuer-umgang-mit-europaeischen-nachbarn-a-7a8938eb-a74a-4941-b9c7-92606b5e1bb3#ref=rss)
+### kontrollen
+
+* [https://www.spiegel.de/ausland/polen-warum-der-liberale-premier-donald-tusk-grenzkontrollen-einfuehrt](https://www.spiegel.de/ausland/polen-warum-der-liberale-premier-donald-tusk-grenzkontrollen-einfuehrt-a-47ae1980-6332-4151-a328-00115c2b1bbf#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-grenzkontrollen-in-polen-sachsen-anhalt-untreue-im-magdeburger-landtag-anschlaege-auf-juedische-einrichtungen-durch-iran](https://www.spiegel.de/politik/deutschland/news-des-tages-grenzkontrollen-in-polen-sachsen-anhalt-untreue-im-magdeburger-landtag-anschlaege-auf-juedische-einrichtungen-durch-iran-a-86d1c95c-e1ab-4232-a413-f74e22f02e0f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/grenzkontrollen-spd-kritisiert-friedrich-merz-fuer-umgang-mit-europaeischen-nachbarn](https://www.spiegel.de/politik/deutschland/grenzkontrollen-spd-kritisiert-friedrich-merz-fuer-umgang-mit-europaeischen-nachbarn-a-7a8938eb-a74a-4941-b9c7-92606b5e1bb3#ref=rss)
+### temperaturen
+
+* [https://www.spiegel.de/panorama/hitze-so-trotzt-europa-den-hohen-temperaturen-im-sommer](https://www.spiegel.de/panorama/hitze-so-trotzt-europa-den-hohen-temperaturen-im-sommer-a-76e35fe1-360d-4209-a51e-79abb57ed82e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/temperaturen-um-40-grad-warum-es-gerade-so-heiss-ist](https://www.spiegel.de/wissenschaft/temperaturen-um-40-grad-warum-es-gerade-so-heiss-ist-a-58d65a5d-6e2d-41e0-bb72-1d11cdc922a8#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/panorama/hitze-so-trotzt-europa-den-hohen-temperaturen-im-sommer](https://www.spiegel.de/panorama/hitze-so-trotzt-europa-den-hohen-temperaturen-im-sommer-a-76e35fe1-360d-4209-a51e-79abb57ed82e#ref=rss)
+* [https://www.spiegel.de/panorama/jimi-blue-ochsenknecht-auslieferungshaftbefehl-gegen-schauspieler-erlassen](https://www.spiegel.de/panorama/jimi-blue-ochsenknecht-auslieferungshaftbefehl-gegen-schauspieler-erlassen-a-3cb19a69-aef3-46fd-a0a5-0f5f76183d3f#ref=rss)
+* [https://www.spiegel.de/geschichte/hitzewellen-in-der-geschichte-das-grosse-schwitzen](https://www.spiegel.de/geschichte/hitzewellen-in-der-geschichte-das-grosse-schwitzen-a-f0af7c64-5361-4b08-a10a-6a4d618422b9#ref=rss)
+### sehen
+
+* [https://www.spiegel.de/panorama/hitze-so-trotzt-europa-den-hohen-temperaturen-im-sommer](https://www.spiegel.de/panorama/hitze-so-trotzt-europa-den-hohen-temperaturen-im-sommer-a-76e35fe1-360d-4209-a51e-79abb57ed82e#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-gross-oder-kaputt](https://www.spiegel.de/sport/fussball/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-gross-oder-kaputt-a-1afe936e-1a90-4c4b-81f4-c52ad09a8179#ref=rss)
+* [https://www.spiegel.de/sport/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-der-frauen-gross-oder-kaputt](https://www.spiegel.de/sport/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-der-frauen-gross-oder-kaputt-a-1a7a2284-b5f2-478a-a542-554594211a1a#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/sport/fussball/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-gross-oder-kaputt](https://www.spiegel.de/sport/fussball/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-gross-oder-kaputt-a-1afe936e-1a90-4c4b-81f4-c52ad09a8179#ref=rss)
+* [https://www.spiegel.de/sport/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-der-frauen-gross-oder-kaputt](https://www.spiegel.de/sport/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-der-frauen-gross-oder-kaputt-a-1a7a2284-b5f2-478a-a542-554594211a1a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/grenzkontrollen-spd-kritisiert-friedrich-merz-fuer-umgang-mit-europaeischen-nachbarn](https://www.spiegel.de/politik/deutschland/grenzkontrollen-spd-kritisiert-friedrich-merz-fuer-umgang-mit-europaeischen-nachbarn-a-7a8938eb-a74a-4941-b9c7-92606b5e1bb3#ref=rss)
+### geld
+
+* [https://www.spiegel.de/sport/fussball/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-gross-oder-kaputt](https://www.spiegel.de/sport/fussball/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-gross-oder-kaputt-a-1afe936e-1a90-4c4b-81f4-c52ad09a8179#ref=rss)
+* [https://www.spiegel.de/sport/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-der-frauen-gross-oder-kaputt](https://www.spiegel.de/sport/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-der-frauen-gross-oder-kaputt-a-1a7a2284-b5f2-478a-a542-554594211a1a#ref=rss)
+* [https://www.spiegel.de/panorama/leute/donald-trump-parfuem-als-neuestes-produkt-im-praesidenten-marketing](https://www.spiegel.de/panorama/leute/donald-trump-parfuem-als-neuestes-produkt-im-praesidenten-marketing-a-5ee8c669-491c-4c67-8e10-55e6115b240a#ref=rss)
+### fußball
+
+* [https://www.spiegel.de/sport/fussball/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-gross-oder-kaputt](https://www.spiegel.de/sport/fussball/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-gross-oder-kaputt-a-1afe936e-1a90-4c4b-81f4-c52ad09a8179#ref=rss)
+* [https://www.spiegel.de/sport/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-der-frauen-gross-oder-kaputt](https://www.spiegel.de/sport/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-der-frauen-gross-oder-kaputt-a-1a7a2284-b5f2-478a-a542-554594211a1a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-em-2025-nationalspielerinnen-veroeffentlichen-song-mit-wolfgang-petry](https://www.spiegel.de/sport/fussball/fussball-em-2025-nationalspielerinnen-veroeffentlichen-song-mit-wolfgang-petry-a-0b95b023-f1cb-47d9-b278-e3898c1a5a68#ref=rss)
+### erklärt
+
+* [https://www.spiegel.de/sport/fussball/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-gross-oder-kaputt](https://www.spiegel.de/sport/fussball/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-gross-oder-kaputt-a-1afe936e-1a90-4c4b-81f4-c52ad09a8179#ref=rss)
+* [https://www.spiegel.de/sport/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-der-frauen-gross-oder-kaputt](https://www.spiegel.de/sport/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-der-frauen-gross-oder-kaputt-a-1a7a2284-b5f2-478a-a542-554594211a1a#ref=rss)
+* [https://www.spiegel.de/wissenschaft/temperaturen-um-40-grad-warum-es-gerade-so-heiss-ist](https://www.spiegel.de/wissenschaft/temperaturen-um-40-grad-warum-es-gerade-so-heiss-ist-a-58d65a5d-6e2d-41e0-bb72-1d11cdc922a8#ref=rss)
+### männer
+
+* [https://www.spiegel.de/sport/fussball/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-gross-oder-kaputt](https://www.spiegel.de/sport/fussball/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-gross-oder-kaputt-a-1afe936e-1a90-4c4b-81f4-c52ad09a8179#ref=rss)
+* [https://www.spiegel.de/sport/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-der-frauen-gross-oder-kaputt](https://www.spiegel.de/sport/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-der-frauen-gross-oder-kaputt-a-1a7a2284-b5f2-478a-a542-554594211a1a#ref=rss)
+* [https://www.spiegel.de/sport/fussball-em-in-der-schweiz-dfb-kapitaenin-gwinn-traegt-regenbogenbinde](https://www.spiegel.de/sport/fussball-em-in-der-schweiz-dfb-kapitaenin-gwinn-traegt-regenbogenbinde-a-752cc503-ccc9-4a98-954f-d9be2f4bd403#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/usa-senat-verabschiedet-donald-trumps-steuergesetz-mit-hauchduenner-mehrheit](https://www.spiegel.de/ausland/usa-senat-verabschiedet-donald-trumps-steuergesetz-mit-hauchduenner-mehrheit-a-b2feb349-7510-451c-8646-596c0e87e716#ref=rss)
+* [https://www.spiegel.de/panorama/leute/donald-trump-parfuem-als-neuestes-produkt-im-praesidenten-marketing](https://www.spiegel.de/panorama/leute/donald-trump-parfuem-als-neuestes-produkt-im-praesidenten-marketing-a-5ee8c669-491c-4c67-8e10-55e6115b240a#ref=rss)
+### mädchen
+
+* [https://www.spiegel.de/kultur/maedchen-maedchen-remake-im-kino-hatz-zum-hoehepunkt](https://www.spiegel.de/kultur/maedchen-maedchen-remake-im-kino-hatz-zum-hoehepunkt-a-e5f98bc1-33bc-4eba-970e-8b1dab0f66ea#ref=rss)
+### gestorben
+
+* [https://www.spiegel.de/wissenschaft/bayern-zweiter-borna-virus-patient-gestorben](https://www.spiegel.de/wissenschaft/bayern-zweiter-borna-virus-patient-gestorben-a-ba48e1f4-80ab-4acd-988a-939bfd03ca78#ref=rss)
+### union
+
+* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-die-linke-wirft-union-im-richterstreit-erpressung-vor](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-die-linke-wirft-union-im-richterstreit-erpressung-vor-a-24e0e8fb-01ec-43e2-a427-76e865f92e37#ref=rss)
+### blick
+
+* [https://www.spiegel.de/kultur/tv/netflix-amazon-prime-disney-neue-serien-und-filme-im-juli-2025-was-sich-jetzt-lohnt](https://www.spiegel.de/kultur/tv/netflix-amazon-prime-disney-neue-serien-und-filme-im-juli-2025-was-sich-jetzt-lohnt-a-e0f2a89d-f595-4771-8af8-dd54b0f5e30d#ref=rss)
+* [https://www.spiegel.de/geschichte/hitzewellen-in-der-geschichte-das-grosse-schwitzen](https://www.spiegel.de/geschichte/hitzewellen-in-der-geschichte-das-grosse-schwitzen-a-f0af7c64-5361-4b08-a10a-6a4d618422b9#ref=rss)
+### alexander
+
+* [https://www.spiegel.de/sport/tennis/tennis-in-wimbledon-alexander-zverev-scheitert-ueberraschend-in-der-ersten-runde](https://www.spiegel.de/sport/tennis/tennis-in-wimbledon-alexander-zverev-scheitert-ueberraschend-in-der-ersten-runde-a-82046bf0-aa5f-42a9-8b57-5538f9d9576c#ref=rss)
+### zverev
+
+* [https://www.spiegel.de/sport/tennis/tennis-in-wimbledon-alexander-zverev-scheitert-ueberraschend-in-der-ersten-runde](https://www.spiegel.de/sport/tennis/tennis-in-wimbledon-alexander-zverev-scheitert-ueberraschend-in-der-ersten-runde-a-82046bf0-aa5f-42a9-8b57-5538f9d9576c#ref=rss)
+### überraschend
+
+* [https://www.spiegel.de/sport/tennis/tennis-in-wimbledon-alexander-zverev-scheitert-ueberraschend-in-der-ersten-runde](https://www.spiegel.de/sport/tennis/tennis-in-wimbledon-alexander-zverev-scheitert-ueberraschend-in-der-ersten-runde-a-82046bf0-aa5f-42a9-8b57-5538f9d9576c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/astronomie-zombie-satellit-relay-2-sendet-mysterioeses-radiosignal](https://www.spiegel.de/wissenschaft/weltall/astronomie-zombie-satellit-relay-2-sendet-mysterioeses-radiosignal-a-433ee9c7-0ee9-423e-9593-d2a967d18ffd#ref=rss)
+### katastrophe
+
+* [https://www.spiegel.de/sport/tennis/tennis-in-wimbledon-alexander-zverev-scheitert-ueberraschend-in-der-ersten-runde](https://www.spiegel.de/sport/tennis/tennis-in-wimbledon-alexander-zverev-scheitert-ueberraschend-in-der-ersten-runde-a-82046bf0-aa5f-42a9-8b57-5538f9d9576c#ref=rss)
+* [https://www.spiegel.de/panorama/schweiz-kandersteg-kaempft-gegen-drohenden-bergabsturz-mit-wissenschaftlicher-hilfe](https://www.spiegel.de/panorama/schweiz-kandersteg-kaempft-gegen-drohenden-bergabsturz-mit-wissenschaftlicher-hilfe-a-19d98dfc-eac1-4c1c-b477-621e2d0bf7eb#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/sport/tennis/tennis-in-wimbledon-alexander-zverev-scheitert-ueberraschend-in-der-ersten-runde](https://www.spiegel.de/sport/tennis/tennis-in-wimbledon-alexander-zverev-scheitert-ueberraschend-in-der-ersten-runde-a-82046bf0-aa5f-42a9-8b57-5538f9d9576c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/temperaturen-um-40-grad-warum-es-gerade-so-heiss-ist](https://www.spiegel.de/wissenschaft/temperaturen-um-40-grad-warum-es-gerade-so-heiss-ist-a-58d65a5d-6e2d-41e0-bb72-1d11cdc922a8#ref=rss)
+### kandersteg
+
+* [https://www.spiegel.de/panorama/schweiz-kandersteg-kaempft-gegen-drohenden-bergabsturz-mit-wissenschaftlicher-hilfe](https://www.spiegel.de/panorama/schweiz-kandersteg-kaempft-gegen-drohenden-bergabsturz-mit-wissenschaftlicher-hilfe-a-19d98dfc-eac1-4c1c-b477-621e2d0bf7eb#ref=rss)
+### premier
+
+* [https://www.spiegel.de/ausland/polen-warum-der-liberale-premier-donald-tusk-grenzkontrollen-einfuehrt](https://www.spiegel.de/ausland/polen-warum-der-liberale-premier-donald-tusk-grenzkontrollen-einfuehrt-a-47ae1980-6332-4151-a328-00115c2b1bbf#ref=rss)
+### tusk
+
+* [https://www.spiegel.de/ausland/polen-warum-der-liberale-premier-donald-tusk-grenzkontrollen-einfuehrt](https://www.spiegel.de/ausland/polen-warum-der-liberale-premier-donald-tusk-grenzkontrollen-einfuehrt-a-47ae1980-6332-4151-a328-00115c2b1bbf#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/ausland/polen-warum-der-liberale-premier-donald-tusk-grenzkontrollen-einfuehrt](https://www.spiegel.de/ausland/polen-warum-der-liberale-premier-donald-tusk-grenzkontrollen-einfuehrt-a-47ae1980-6332-4151-a328-00115c2b1bbf#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/grenzkontrollen-spd-kritisiert-friedrich-merz-fuer-umgang-mit-europaeischen-nachbarn](https://www.spiegel.de/politik/deutschland/grenzkontrollen-spd-kritisiert-friedrich-merz-fuer-umgang-mit-europaeischen-nachbarn-a-7a8938eb-a74a-4941-b9c7-92606b5e1bb3#ref=rss)
+### weniger
+
+* [https://www.spiegel.de/ausland/polen-warum-der-liberale-premier-donald-tusk-grenzkontrollen-einfuehrt](https://www.spiegel.de/ausland/polen-warum-der-liberale-premier-donald-tusk-grenzkontrollen-einfuehrt-a-47ae1980-6332-4151-a328-00115c2b1bbf#ref=rss)
+* [https://www.spiegel.de/panorama/leute/donald-trump-parfuem-als-neuestes-produkt-im-praesidenten-marketing](https://www.spiegel.de/panorama/leute/donald-trump-parfuem-als-neuestes-produkt-im-praesidenten-marketing-a-5ee8c669-491c-4c67-8e10-55e6115b240a#ref=rss)
+### hitze
+
+* [https://www.spiegel.de/panorama/hitze-so-trotzt-europa-den-hohen-temperaturen-im-sommer](https://www.spiegel.de/panorama/hitze-so-trotzt-europa-den-hohen-temperaturen-im-sommer-a-76e35fe1-360d-4209-a51e-79abb57ed82e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/temperaturen-um-40-grad-warum-es-gerade-so-heiss-ist](https://www.spiegel.de/wissenschaft/temperaturen-um-40-grad-warum-es-gerade-so-heiss-ist-a-58d65a5d-6e2d-41e0-bb72-1d11cdc922a8#ref=rss)
+### europa
+
+* [https://www.spiegel.de/panorama/hitze-so-trotzt-europa-den-hohen-temperaturen-im-sommer](https://www.spiegel.de/panorama/hitze-so-trotzt-europa-den-hohen-temperaturen-im-sommer-a-76e35fe1-360d-4209-a51e-79abb57ed82e#ref=rss)
+### hohen
+
+* [https://www.spiegel.de/panorama/hitze-so-trotzt-europa-den-hohen-temperaturen-im-sommer](https://www.spiegel.de/panorama/hitze-so-trotzt-europa-den-hohen-temperaturen-im-sommer-a-76e35fe1-360d-4209-a51e-79abb57ed82e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/temperaturen-um-40-grad-warum-es-gerade-so-heiss-ist](https://www.spiegel.de/wissenschaft/temperaturen-um-40-grad-warum-es-gerade-so-heiss-ist-a-58d65a5d-6e2d-41e0-bb72-1d11cdc922a8#ref=rss)
+### sommer
+
+* [https://www.spiegel.de/panorama/hitze-so-trotzt-europa-den-hohen-temperaturen-im-sommer](https://www.spiegel.de/panorama/hitze-so-trotzt-europa-den-hohen-temperaturen-im-sommer-a-76e35fe1-360d-4209-a51e-79abb57ed82e#ref=rss)
+* [https://www.spiegel.de/panorama/iserlohn-mann-stirbt-wegen-mutmasslich-falsch-genutztem-klimageraet](https://www.spiegel.de/panorama/iserlohn-mann-stirbt-wegen-mutmasslich-falsch-genutztem-klimageraet-a-20fc1ebe-ae5b-4fcf-9f8d-da616a744fe0#ref=rss)
+### macht
+
+* [https://www.spiegel.de/sport/fussball/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-gross-oder-kaputt](https://www.spiegel.de/sport/fussball/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-gross-oder-kaputt-a-1afe936e-1a90-4c4b-81f4-c52ad09a8179#ref=rss)
+* [https://www.spiegel.de/sport/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-der-frauen-gross-oder-kaputt](https://www.spiegel.de/sport/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-der-frauen-gross-oder-kaputt-a-1a7a2284-b5f2-478a-a542-554594211a1a#ref=rss)
+### groß
+
+* [https://www.spiegel.de/sport/fussball/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-gross-oder-kaputt](https://www.spiegel.de/sport/fussball/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-gross-oder-kaputt-a-1afe936e-1a90-4c4b-81f4-c52ad09a8179#ref=rss)
+* [https://www.spiegel.de/sport/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-der-frauen-gross-oder-kaputt](https://www.spiegel.de/sport/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-der-frauen-gross-oder-kaputt-a-1a7a2284-b5f2-478a-a542-554594211a1a#ref=rss)
+### kaputt
+
+* [https://www.spiegel.de/sport/fussball/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-gross-oder-kaputt](https://www.spiegel.de/sport/fussball/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-gross-oder-kaputt-a-1afe936e-1a90-4c4b-81f4-c52ad09a8179#ref=rss)
+* [https://www.spiegel.de/sport/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-der-frauen-gross-oder-kaputt](https://www.spiegel.de/sport/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-der-frauen-gross-oder-kaputt-a-1a7a2284-b5f2-478a-a542-554594211a1a#ref=rss)
+### bricht
+
+* [https://www.spiegel.de/sport/fussball/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-gross-oder-kaputt](https://www.spiegel.de/sport/fussball/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-gross-oder-kaputt-a-1afe936e-1a90-4c4b-81f4-c52ad09a8179#ref=rss)
+* [https://www.spiegel.de/sport/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-der-frauen-gross-oder-kaputt](https://www.spiegel.de/sport/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-der-frauen-gross-oder-kaputt-a-1a7a2284-b5f2-478a-a542-554594211a1a#ref=rss)
+### start
+
+* [https://www.spiegel.de/sport/fussball/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-gross-oder-kaputt](https://www.spiegel.de/sport/fussball/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-gross-oder-kaputt-a-1afe936e-1a90-4c4b-81f4-c52ad09a8179#ref=rss)
+* [https://www.spiegel.de/sport/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-der-frauen-gross-oder-kaputt](https://www.spiegel.de/sport/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-der-frauen-gross-oder-kaputt-a-1a7a2284-b5f2-478a-a542-554594211a1a#ref=rss)
+### rekorde
+
+* [https://www.spiegel.de/sport/fussball/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-gross-oder-kaputt](https://www.spiegel.de/sport/fussball/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-gross-oder-kaputt-a-1afe936e-1a90-4c4b-81f4-c52ad09a8179#ref=rss)
+* [https://www.spiegel.de/sport/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-der-frauen-gross-oder-kaputt](https://www.spiegel.de/sport/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-der-frauen-gross-oder-kaputt-a-1a7a2284-b5f2-478a-a542-554594211a1a#ref=rss)
+### spiegelsportredakteur
+
+* [https://www.spiegel.de/sport/fussball/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-gross-oder-kaputt](https://www.spiegel.de/sport/fussball/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-gross-oder-kaputt-a-1afe936e-1a90-4c4b-81f4-c52ad09a8179#ref=rss)
+* [https://www.spiegel.de/sport/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-der-frauen-gross-oder-kaputt](https://www.spiegel.de/sport/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-der-frauen-gross-oder-kaputt-a-1a7a2284-b5f2-478a-a542-554594211a1a#ref=rss)
+### jan
+
+* [https://www.spiegel.de/sport/fussball/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-gross-oder-kaputt](https://www.spiegel.de/sport/fussball/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-gross-oder-kaputt-a-1afe936e-1a90-4c4b-81f4-c52ad09a8179#ref=rss)
+* [https://www.spiegel.de/sport/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-der-frauen-gross-oder-kaputt](https://www.spiegel.de/sport/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-der-frauen-gross-oder-kaputt-a-1a7a2284-b5f2-478a-a542-554594211a1a#ref=rss)
+### göbel
+
+* [https://www.spiegel.de/sport/fussball/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-gross-oder-kaputt](https://www.spiegel.de/sport/fussball/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-gross-oder-kaputt-a-1afe936e-1a90-4c4b-81f4-c52ad09a8179#ref=rss)
+* [https://www.spiegel.de/sport/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-der-frauen-gross-oder-kaputt](https://www.spiegel.de/sport/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-der-frauen-gross-oder-kaputt-a-1a7a2284-b5f2-478a-a542-554594211a1a#ref=rss)
+### spielerinnen
+
+* [https://www.spiegel.de/sport/fussball/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-gross-oder-kaputt](https://www.spiegel.de/sport/fussball/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-gross-oder-kaputt-a-1afe936e-1a90-4c4b-81f4-c52ad09a8179#ref=rss)
+* [https://www.spiegel.de/sport/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-der-frauen-gross-oder-kaputt](https://www.spiegel.de/sport/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-der-frauen-gross-oder-kaputt-a-1a7a2284-b5f2-478a-a542-554594211a1a#ref=rss)
+### wachstum
+
+* [https://www.spiegel.de/sport/fussball/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-gross-oder-kaputt](https://www.spiegel.de/sport/fussball/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-gross-oder-kaputt-a-1afe936e-1a90-4c4b-81f4-c52ad09a8179#ref=rss)
+* [https://www.spiegel.de/sport/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-der-frauen-gross-oder-kaputt](https://www.spiegel.de/sport/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-der-frauen-gross-oder-kaputt-a-1a7a2284-b5f2-478a-a542-554594211a1a#ref=rss)
+### kritisch
+
+* [https://www.spiegel.de/sport/fussball/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-gross-oder-kaputt](https://www.spiegel.de/sport/fussball/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-gross-oder-kaputt-a-1afe936e-1a90-4c4b-81f4-c52ad09a8179#ref=rss)
+* [https://www.spiegel.de/sport/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-der-frauen-gross-oder-kaputt](https://www.spiegel.de/sport/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-der-frauen-gross-oder-kaputt-a-1a7a2284-b5f2-478a-a542-554594211a1a#ref=rss)
+### anders
+
+* [https://www.spiegel.de/sport/fussball/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-gross-oder-kaputt](https://www.spiegel.de/sport/fussball/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-gross-oder-kaputt-a-1afe936e-1a90-4c4b-81f4-c52ad09a8179#ref=rss)
+* [https://www.spiegel.de/sport/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-der-frauen-gross-oder-kaputt](https://www.spiegel.de/sport/fussball-em-2025-der-frauen-macht-mehr-geld-den-fussball-der-frauen-gross-oder-kaputt-a-1a7a2284-b5f2-478a-a542-554594211a1a#ref=rss)
+### microsoft
+
+* [https://www.spiegel.de/wissenschaft/ki-von-microsoft-in-der-diagnostik-wirklich-ein-schritt-zur-medizinischen-superintelligenz](https://www.spiegel.de/wissenschaft/ki-von-microsoft-in-der-diagnostik-wirklich-ein-schritt-zur-medizinischen-superintelligenz-a-52d343fd-6588-4ce7-9e63-9ab77b146961#ref=rss)
+### experten
+
+* [https://www.spiegel.de/wissenschaft/ki-von-microsoft-in-der-diagnostik-wirklich-ein-schritt-zur-medizinischen-superintelligenz](https://www.spiegel.de/wissenschaft/ki-von-microsoft-in-der-diagnostik-wirklich-ein-schritt-zur-medizinischen-superintelligenz-a-52d343fd-6588-4ce7-9e63-9ab77b146961#ref=rss)
+* [https://www.spiegel.de/panorama/iserlohn-mann-stirbt-wegen-mutmasslich-falsch-genutztem-klimageraet](https://www.spiegel.de/panorama/iserlohn-mann-stirbt-wegen-mutmasslich-falsch-genutztem-klimageraet-a-20fc1ebe-ae5b-4fcf-9f8d-da616a744fe0#ref=rss)
 ### bleiben
 
-* [https://www.spiegel.de/auto/bundeswehr-und-autobahn-gmbh-regeln-fahrten-von-militaerkolonnen](https://www.spiegel.de/auto/bundeswehr-und-autobahn-gmbh-regeln-fahrten-von-militaerkolonnen-a-b26c8089-b467-47c4-8d72-9a25a7f6676c#ref=rss)
-* [https://www.spiegel.de/start/numerus-clausus-wo-man-ohne-nc-oder-eignungstest-studieren-kann](https://www.spiegel.de/start/numerus-clausus-wo-man-ohne-nc-oder-eignungstest-studieren-kann-a-d42982dc-2053-40b0-bf35-d9e7f8df6bc3#ref=rss)
-### buttergelb
+* [https://www.spiegel.de/wissenschaft/ki-von-microsoft-in-der-diagnostik-wirklich-ein-schritt-zur-medizinischen-superintelligenz](https://www.spiegel.de/wissenschaft/ki-von-microsoft-in-der-diagnostik-wirklich-ein-schritt-zur-medizinischen-superintelligenz-a-52d343fd-6588-4ce7-9e63-9ab77b146961#ref=rss)
+* [https://www.spiegel.de/fitness/fitness-fuer-uebergewichtige-bei-diesen-zumba-kursen-muessen-duenne-draussen-bleiben](https://www.spiegel.de/fitness/fitness-fuer-uebergewichtige-bei-diesen-zumba-kursen-muessen-duenne-draussen-bleiben-a-631b2aaa-d7ac-4df9-ac03-4b2a135846c3#ref=rss)
+### maja
 
-* [https://www.spiegel.de/stil/modetrend-buttergelb-und-flieder-praegen-die-aktuelle-herrenmode](https://www.spiegel.de/stil/modetrend-buttergelb-und-flieder-praegen-die-aktuelle-herrenmode-a-c7c954ac-8ef5-4191-939f-454a104d5991#ref=rss)
-### prägen
+* [https://www.spiegel.de/panorama/maja-t-nach-hungerstreik-in-ungarischem-gefaengniskrankenhaus](https://www.spiegel.de/panorama/maja-t-nach-hungerstreik-in-ungarischem-gefaengniskrankenhaus-a-8ee56dbb-a6a6-4129-a4ce-f7ea3ab17e65#ref=rss)
+### t
 
-* [https://www.spiegel.de/stil/modetrend-buttergelb-und-flieder-praegen-die-aktuelle-herrenmode](https://www.spiegel.de/stil/modetrend-buttergelb-und-flieder-praegen-die-aktuelle-herrenmode-a-c7c954ac-8ef5-4191-939f-454a104d5991#ref=rss)
-### aktuelle
+* [https://www.spiegel.de/panorama/maja-t-nach-hungerstreik-in-ungarischem-gefaengniskrankenhaus](https://www.spiegel.de/panorama/maja-t-nach-hungerstreik-in-ungarischem-gefaengniskrankenhaus-a-8ee56dbb-a6a6-4129-a4ce-f7ea3ab17e65#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/stil/modetrend-buttergelb-und-flieder-praegen-die-aktuelle-herrenmode](https://www.spiegel.de/stil/modetrend-buttergelb-und-flieder-praegen-die-aktuelle-herrenmode-a-c7c954ac-8ef5-4191-939f-454a104d5991#ref=rss)
-### herrenmode
+* [https://www.spiegel.de/panorama/maja-t-nach-hungerstreik-in-ungarischem-gefaengniskrankenhaus](https://www.spiegel.de/panorama/maja-t-nach-hungerstreik-in-ungarischem-gefaengniskrankenhaus-a-8ee56dbb-a6a6-4129-a4ce-f7ea3ab17e65#ref=rss)
+* [https://www.spiegel.de/panorama/jimi-blue-ochsenknecht-auslieferungshaftbefehl-gegen-schauspieler-erlassen](https://www.spiegel.de/panorama/jimi-blue-ochsenknecht-auslieferungshaftbefehl-gegen-schauspieler-erlassen-a-3cb19a69-aef3-46fd-a0a5-0f5f76183d3f#ref=rss)
+### wolfgang
 
-* [https://www.spiegel.de/stil/modetrend-buttergelb-und-flieder-praegen-die-aktuelle-herrenmode](https://www.spiegel.de/stil/modetrend-buttergelb-und-flieder-praegen-die-aktuelle-herrenmode-a-c7c954ac-8ef5-4191-939f-454a104d5991#ref=rss)
-### wimbledon
+* [https://www.spiegel.de/panorama/maja-t-nach-hungerstreik-in-ungarischem-gefaengniskrankenhaus](https://www.spiegel.de/panorama/maja-t-nach-hungerstreik-in-ungarischem-gefaengniskrankenhaus-a-8ee56dbb-a6a6-4129-a4ce-f7ea3ab17e65#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-em-2025-nationalspielerinnen-veroeffentlichen-song-mit-wolfgang-petry](https://www.spiegel.de/sport/fussball/fussball-em-2025-nationalspielerinnen-veroeffentlichen-song-mit-wolfgang-petry-a-0b95b023-f1cb-47d9-b278-e3898c1a5a68#ref=rss)
+### jimi
 
-* [https://www.spiegel.de/sport/tennis/wimbledon-giovanni-mpetshi-perricard-mit-schnellstem-aufschlag-der-turniergeschichte](https://www.spiegel.de/sport/tennis/wimbledon-giovanni-mpetshi-perricard-mit-schnellstem-aufschlag-der-turniergeschichte-a-1f65a00a-a48c-41a7-b909-62b6e2f1ed88#ref=rss)
-### giovanni
+* [https://www.spiegel.de/panorama/jimi-blue-ochsenknecht-auslieferungshaftbefehl-gegen-schauspieler-erlassen](https://www.spiegel.de/panorama/jimi-blue-ochsenknecht-auslieferungshaftbefehl-gegen-schauspieler-erlassen-a-3cb19a69-aef3-46fd-a0a5-0f5f76183d3f#ref=rss)
+### blue
 
-* [https://www.spiegel.de/sport/tennis/wimbledon-giovanni-mpetshi-perricard-mit-schnellstem-aufschlag-der-turniergeschichte](https://www.spiegel.de/sport/tennis/wimbledon-giovanni-mpetshi-perricard-mit-schnellstem-aufschlag-der-turniergeschichte-a-1f65a00a-a48c-41a7-b909-62b6e2f1ed88#ref=rss)
-### mpetshi
+* [https://www.spiegel.de/panorama/jimi-blue-ochsenknecht-auslieferungshaftbefehl-gegen-schauspieler-erlassen](https://www.spiegel.de/panorama/jimi-blue-ochsenknecht-auslieferungshaftbefehl-gegen-schauspieler-erlassen-a-3cb19a69-aef3-46fd-a0a5-0f5f76183d3f#ref=rss)
+### ochsenknecht
 
-* [https://www.spiegel.de/sport/tennis/wimbledon-giovanni-mpetshi-perricard-mit-schnellstem-aufschlag-der-turniergeschichte](https://www.spiegel.de/sport/tennis/wimbledon-giovanni-mpetshi-perricard-mit-schnellstem-aufschlag-der-turniergeschichte-a-1f65a00a-a48c-41a7-b909-62b6e2f1ed88#ref=rss)
-### perricard
+* [https://www.spiegel.de/panorama/jimi-blue-ochsenknecht-auslieferungshaftbefehl-gegen-schauspieler-erlassen](https://www.spiegel.de/panorama/jimi-blue-ochsenknecht-auslieferungshaftbefehl-gegen-schauspieler-erlassen-a-3cb19a69-aef3-46fd-a0a5-0f5f76183d3f#ref=rss)
+### erlassen
 
-* [https://www.spiegel.de/sport/tennis/wimbledon-giovanni-mpetshi-perricard-mit-schnellstem-aufschlag-der-turniergeschichte](https://www.spiegel.de/sport/tennis/wimbledon-giovanni-mpetshi-perricard-mit-schnellstem-aufschlag-der-turniergeschichte-a-1f65a00a-a48c-41a7-b909-62b6e2f1ed88#ref=rss)
-### özgür
+* [https://www.spiegel.de/panorama/jimi-blue-ochsenknecht-auslieferungshaftbefehl-gegen-schauspieler-erlassen](https://www.spiegel.de/panorama/jimi-blue-ochsenknecht-auslieferungshaftbefehl-gegen-schauspieler-erlassen-a-3cb19a69-aef3-46fd-a0a5-0f5f76183d3f#ref=rss)
+### shai
 
-* [https://www.spiegel.de/ausland/tuerkei-oppositionsfuehrer-oezguer-oezel-erdogan-gibt-sich-stark-aber-er-ist-schwach](https://www.spiegel.de/ausland/tuerkei-oppositionsfuehrer-oezguer-oezel-erdogan-gibt-sich-stark-aber-er-ist-schwach-a-767140af-0622-4fcf-aca1-e5e79002a9fa#ref=rss)
-### özel
+* [https://www.spiegel.de/sport/basketball/nba-shai-gilgeous-alexander-erhaelt-rekordvertrag-nach-meisterschaftssaison](https://www.spiegel.de/sport/basketball/nba-shai-gilgeous-alexander-erhaelt-rekordvertrag-nach-meisterschaftssaison-a-cd773d22-2193-49e7-9140-05cb75f00290#ref=rss)
+### gilgeousalexander
 
-* [https://www.spiegel.de/ausland/tuerkei-oppositionsfuehrer-oezguer-oezel-erdogan-gibt-sich-stark-aber-er-ist-schwach](https://www.spiegel.de/ausland/tuerkei-oppositionsfuehrer-oezguer-oezel-erdogan-gibt-sich-stark-aber-er-ist-schwach-a-767140af-0622-4fcf-aca1-e5e79002a9fa#ref=rss)
-### juni
+* [https://www.spiegel.de/sport/basketball/nba-shai-gilgeous-alexander-erhaelt-rekordvertrag-nach-meisterschaftssaison](https://www.spiegel.de/sport/basketball/nba-shai-gilgeous-alexander-erhaelt-rekordvertrag-nach-meisterschaftssaison-a-cd773d22-2193-49e7-9140-05cb75f00290#ref=rss)
+### sachsenanhalt
 
-* [https://www.spiegel.de/wirtschaft/arbeitslosenzahl-geht-im-juni-nur-geringfuegig-zurueck](https://www.spiegel.de/wirtschaft/arbeitslosenzahl-geht-im-juni-nur-geringfuegig-zurueck-a-e4afdf3c-bc8c-467e-95cb-d88d61874a68#ref=rss)
-### reagiert
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-grenzkontrollen-in-polen-sachsen-anhalt-untreue-im-magdeburger-landtag-anschlaege-auf-juedische-einrichtungen-durch-iran](https://www.spiegel.de/politik/deutschland/news-des-tages-grenzkontrollen-in-polen-sachsen-anhalt-untreue-im-magdeburger-landtag-anschlaege-auf-juedische-einrichtungen-durch-iran-a-86d1c95c-e1ab-4232-a413-f74e22f02e0f#ref=rss)
+### untreue
 
-* [https://www.spiegel.de/ausland/donald-trump-reagiert-auf-elon-musk-mit-neuen-laestereien](https://www.spiegel.de/ausland/donald-trump-reagiert-auf-elon-musk-mit-neuen-laestereien-a-2eaa3868-a1e8-4e92-b193-a8de43a1fefe#ref=rss)
-### elon
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-grenzkontrollen-in-polen-sachsen-anhalt-untreue-im-magdeburger-landtag-anschlaege-auf-juedische-einrichtungen-durch-iran](https://www.spiegel.de/politik/deutschland/news-des-tages-grenzkontrollen-in-polen-sachsen-anhalt-untreue-im-magdeburger-landtag-anschlaege-auf-juedische-einrichtungen-durch-iran-a-86d1c95c-e1ab-4232-a413-f74e22f02e0f#ref=rss)
+### landtag
 
-* [https://www.spiegel.de/ausland/donald-trump-reagiert-auf-elon-musk-mit-neuen-laestereien](https://www.spiegel.de/ausland/donald-trump-reagiert-auf-elon-musk-mit-neuen-laestereien-a-2eaa3868-a1e8-4e92-b193-a8de43a1fefe#ref=rss)
-### musk
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-grenzkontrollen-in-polen-sachsen-anhalt-untreue-im-magdeburger-landtag-anschlaege-auf-juedische-einrichtungen-durch-iran](https://www.spiegel.de/politik/deutschland/news-des-tages-grenzkontrollen-in-polen-sachsen-anhalt-untreue-im-magdeburger-landtag-anschlaege-auf-juedische-einrichtungen-durch-iran-a-86d1c95c-e1ab-4232-a413-f74e22f02e0f#ref=rss)
+### anschläge
 
-* [https://www.spiegel.de/ausland/donald-trump-reagiert-auf-elon-musk-mit-neuen-laestereien](https://www.spiegel.de/ausland/donald-trump-reagiert-auf-elon-musk-mit-neuen-laestereien-a-2eaa3868-a1e8-4e92-b193-a8de43a1fefe#ref=rss)
-### uspräsident
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-grenzkontrollen-in-polen-sachsen-anhalt-untreue-im-magdeburger-landtag-anschlaege-auf-juedische-einrichtungen-durch-iran](https://www.spiegel.de/politik/deutschland/news-des-tages-grenzkontrollen-in-polen-sachsen-anhalt-untreue-im-magdeburger-landtag-anschlaege-auf-juedische-einrichtungen-durch-iran-a-86d1c95c-e1ab-4232-a413-f74e22f02e0f#ref=rss)
+### iran
 
-* [https://www.spiegel.de/ausland/donald-trump-reagiert-auf-elon-musk-mit-neuen-laestereien](https://www.spiegel.de/ausland/donald-trump-reagiert-auf-elon-musk-mit-neuen-laestereien-a-2eaa3868-a1e8-4e92-b193-a8de43a1fefe#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-das-abschiebegefaengnis-in-den-everglades-alligatoren-im-dienste-des-praesidenten](https://www.spiegel.de/ausland/donald-trump-und-das-abschiebegefaengnis-in-den-everglades-alligatoren-im-dienste-des-praesidenten-a-68a18df4-67c4-40b7-8e51-8092813015d3#ref=rss)
-### kim
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-grenzkontrollen-in-polen-sachsen-anhalt-untreue-im-magdeburger-landtag-anschlaege-auf-juedische-einrichtungen-durch-iran](https://www.spiegel.de/politik/deutschland/news-des-tages-grenzkontrollen-in-polen-sachsen-anhalt-untreue-im-magdeburger-landtag-anschlaege-auf-juedische-einrichtungen-durch-iran-a-86d1c95c-e1ab-4232-a413-f74e22f02e0f#ref=rss)
+### spd
 
-* [https://www.spiegel.de/politik/deutschland/nordkorea-kim-jong-un-ehrt-im-ukrainekrieg-getoetete-soldaten](https://www.spiegel.de/politik/deutschland/nordkorea-kim-jong-un-ehrt-im-ukrainekrieg-getoetete-soldaten-a-1040e937-728f-4794-833e-8ed120822c7c#ref=rss)
-### jong
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-grenzkontrollen-in-polen-sachsen-anhalt-untreue-im-magdeburger-landtag-anschlaege-auf-juedische-einrichtungen-durch-iran](https://www.spiegel.de/politik/deutschland/news-des-tages-grenzkontrollen-in-polen-sachsen-anhalt-untreue-im-magdeburger-landtag-anschlaege-auf-juedische-einrichtungen-durch-iran-a-86d1c95c-e1ab-4232-a413-f74e22f02e0f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/grenzkontrollen-spd-kritisiert-friedrich-merz-fuer-umgang-mit-europaeischen-nachbarn](https://www.spiegel.de/politik/deutschland/grenzkontrollen-spd-kritisiert-friedrich-merz-fuer-umgang-mit-europaeischen-nachbarn-a-7a8938eb-a74a-4941-b9c7-92606b5e1bb3#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/politik/deutschland/nordkorea-kim-jong-un-ehrt-im-ukrainekrieg-getoetete-soldaten](https://www.spiegel.de/politik/deutschland/nordkorea-kim-jong-un-ehrt-im-ukrainekrieg-getoetete-soldaten-a-1040e937-728f-4794-833e-8ed120822c7c#ref=rss)
-### un
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-grenzkontrollen-in-polen-sachsen-anhalt-untreue-im-magdeburger-landtag-anschlaege-auf-juedische-einrichtungen-durch-iran](https://www.spiegel.de/politik/deutschland/news-des-tages-grenzkontrollen-in-polen-sachsen-anhalt-untreue-im-magdeburger-landtag-anschlaege-auf-juedische-einrichtungen-durch-iran-a-86d1c95c-e1ab-4232-a413-f74e22f02e0f#ref=rss)
+### bundeswehr
 
-* [https://www.spiegel.de/politik/deutschland/nordkorea-kim-jong-un-ehrt-im-ukrainekrieg-getoetete-soldaten](https://www.spiegel.de/politik/deutschland/nordkorea-kim-jong-un-ehrt-im-ukrainekrieg-getoetete-soldaten-a-1040e937-728f-4794-833e-8ed120822c7c#ref=rss)
-### heißer
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-entlaesst-den-chef-des-heers](https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-entlaesst-den-chef-des-heers-a-a0f8c12b-b636-4c4b-b75b-8f1784b1490b#ref=rss)
+### boris
 
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-extrem-heisser-dienstag-steht-bevor](https://www.spiegel.de/panorama/wetter-in-deutschland-extrem-heisser-dienstag-steht-bevor-a-e3e51a14-48bd-4b55-b2db-3e78f44817f4#ref=rss)
-### boeing
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-entlaesst-den-chef-des-heers](https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-entlaesst-den-chef-des-heers-a-a0f8c12b-b636-4c4b-b75b-8f1784b1490b#ref=rss)
+### pistorius
 
-* [https://www.spiegel.de/wirtschaft/boeing-tauscht-seinen-finanzchef-brian-west-aus](https://www.spiegel.de/wirtschaft/boeing-tauscht-seinen-finanzchef-brian-west-aus-a-bab2a906-6540-49e5-b284-f4cd80670fcb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-entlaesst-den-chef-des-heers](https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-entlaesst-den-chef-des-heers-a-a0f8c12b-b636-4c4b-b75b-8f1784b1490b#ref=rss)
+### neu
+
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-entlaesst-den-chef-des-heers](https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-entlaesst-den-chef-des-heers-a-a0f8c12b-b636-4c4b-b75b-8f1784b1490b#ref=rss)
+* [https://www.spiegel.de/kultur/maedchen-maedchen-remake-im-kino-hatz-zum-hoehepunkt](https://www.spiegel.de/kultur/maedchen-maedchen-remake-im-kino-hatz-zum-hoehepunkt-a-e5f98bc1-33bc-4eba-970e-8b1dab0f66ea#ref=rss)
+### hitzewellen
+
+* [https://www.spiegel.de/geschichte/hitzewellen-in-der-geschichte-das-grosse-schwitzen](https://www.spiegel.de/geschichte/hitzewellen-in-der-geschichte-das-grosse-schwitzen-a-f0af7c64-5361-4b08-a10a-6a4d618422b9#ref=rss)
+### geschichte
+
+* [https://www.spiegel.de/geschichte/hitzewellen-in-der-geschichte-das-grosse-schwitzen](https://www.spiegel.de/geschichte/hitzewellen-in-der-geschichte-das-grosse-schwitzen-a-f0af7c64-5361-4b08-a10a-6a4d618422b9#ref=rss)
+### unser
+
+* [https://www.spiegel.de/geschichte/hitzewellen-in-der-geschichte-das-grosse-schwitzen](https://www.spiegel.de/geschichte/hitzewellen-in-der-geschichte-das-grosse-schwitzen-a-f0af7c64-5361-4b08-a10a-6a4d618422b9#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-em-2025-nationalspielerinnen-veroeffentlichen-song-mit-wolfgang-petry](https://www.spiegel.de/sport/fussball/fussball-em-2025-nationalspielerinnen-veroeffentlichen-song-mit-wolfgang-petry-a-0b95b023-f1cb-47d9-b278-e3898c1a5a68#ref=rss)
+### leben
+
+* [https://www.spiegel.de/geschichte/hitzewellen-in-der-geschichte-das-grosse-schwitzen](https://www.spiegel.de/geschichte/hitzewellen-in-der-geschichte-das-grosse-schwitzen-a-f0af7c64-5361-4b08-a10a-6a4d618422b9#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-em-2025-nationalspielerinnen-veroeffentlichen-song-mit-wolfgang-petry](https://www.spiegel.de/sport/fussball/fussball-em-2025-nationalspielerinnen-veroeffentlichen-song-mit-wolfgang-petry-a-0b95b023-f1cb-47d9-b278-e3898c1a5a68#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/sport/fussball/fussball-em-2025-nationalspielerinnen-veroeffentlichen-song-mit-wolfgang-petry](https://www.spiegel.de/sport/fussball/fussball-em-2025-nationalspielerinnen-veroeffentlichen-song-mit-wolfgang-petry-a-0b95b023-f1cb-47d9-b278-e3898c1a5a68#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/grenzkontrollen-spd-kritisiert-friedrich-merz-fuer-umgang-mit-europaeischen-nachbarn](https://www.spiegel.de/politik/deutschland/grenzkontrollen-spd-kritisiert-friedrich-merz-fuer-umgang-mit-europaeischen-nachbarn-a-7a8938eb-a74a-4941-b9c7-92606b5e1bb3#ref=rss)
+### großen
+
+* [https://www.spiegel.de/sport/fussball/fussball-em-2025-nationalspielerinnen-veroeffentlichen-song-mit-wolfgang-petry](https://www.spiegel.de/sport/fussball/fussball-em-2025-nationalspielerinnen-veroeffentlichen-song-mit-wolfgang-petry-a-0b95b023-f1cb-47d9-b278-e3898c1a5a68#ref=rss)
+* [https://www.spiegel.de/ausland/kaschmir-konflikt-zwischen-indien-und-pakistan-das-bergidyll-um-das-sich-atommaechte-streiten](https://www.spiegel.de/ausland/kaschmir-konflikt-zwischen-indien-und-pakistan-das-bergidyll-um-das-sich-atommaechte-streiten-a-be2fa21e-712b-458a-8a9f-3d347f78120f#ref=rss)
+### vorsicht
+
+* [https://www.spiegel.de/psychologie/einsamkeit-und-manipulation-beim-dating-vorsicht-du-ghostest-ein-gespenst](https://www.spiegel.de/psychologie/einsamkeit-und-manipulation-beim-dating-vorsicht-du-ghostest-ein-gespenst-a-a7824121-013d-4429-bfd1-35d221b1d38b#ref=rss)
+* [https://www.spiegel.de/panorama/iserlohn-mann-stirbt-wegen-mutmasslich-falsch-genutztem-klimageraet](https://www.spiegel.de/panorama/iserlohn-mann-stirbt-wegen-mutmasslich-falsch-genutztem-klimageraet-a-20fc1ebe-ae5b-4fcf-9f8d-da616a744fe0#ref=rss)
+### du
+
+* [https://www.spiegel.de/psychologie/einsamkeit-und-manipulation-beim-dating-vorsicht-du-ghostest-ein-gespenst](https://www.spiegel.de/psychologie/einsamkeit-und-manipulation-beim-dating-vorsicht-du-ghostest-ein-gespenst-a-a7824121-013d-4429-bfd1-35d221b1d38b#ref=rss)
+### einfach
+
+* [https://www.spiegel.de/psychologie/einsamkeit-und-manipulation-beim-dating-vorsicht-du-ghostest-ein-gespenst](https://www.spiegel.de/psychologie/einsamkeit-und-manipulation-beim-dating-vorsicht-du-ghostest-ein-gespenst-a-a7824121-013d-4429-bfd1-35d221b1d38b#ref=rss)
+* [https://www.spiegel.de/sport/fussball-em-in-der-schweiz-dfb-kapitaenin-gwinn-traegt-regenbogenbinde](https://www.spiegel.de/sport/fussball-em-in-der-schweiz-dfb-kapitaenin-gwinn-traegt-regenbogenbinde-a-752cc503-ccc9-4a98-954f-d9be2f4bd403#ref=rss)
+### indien
+
+* [https://www.spiegel.de/ausland/kaschmir-konflikt-zwischen-indien-und-pakistan-das-bergidyll-um-das-sich-atommaechte-streiten](https://www.spiegel.de/ausland/kaschmir-konflikt-zwischen-indien-und-pakistan-das-bergidyll-um-das-sich-atommaechte-streiten-a-be2fa21e-712b-458a-8a9f-3d347f78120f#ref=rss)
+### pakistan
+
+* [https://www.spiegel.de/ausland/kaschmir-konflikt-zwischen-indien-und-pakistan-das-bergidyll-um-das-sich-atommaechte-streiten](https://www.spiegel.de/ausland/kaschmir-konflikt-zwischen-indien-und-pakistan-das-bergidyll-um-das-sich-atommaechte-streiten-a-be2fa21e-712b-458a-8a9f-3d347f78120f#ref=rss)
+### algerien
+
+* [https://www.spiegel.de/kultur/literatur/algerien-boualem-sansal-verliert-berufung-gericht-bestaetigt-haftstrafe-fuer-franzoesisch-algerischen-schriftsteller](https://www.spiegel.de/kultur/literatur/algerien-boualem-sansal-verliert-berufung-gericht-bestaetigt-haftstrafe-fuer-franzoesisch-algerischen-schriftsteller-a-46337486-5605-469c-8e37-e5c7b228a407#ref=rss)
+### boualem
+
+* [https://www.spiegel.de/kultur/literatur/algerien-boualem-sansal-verliert-berufung-gericht-bestaetigt-haftstrafe-fuer-franzoesisch-algerischen-schriftsteller](https://www.spiegel.de/kultur/literatur/algerien-boualem-sansal-verliert-berufung-gericht-bestaetigt-haftstrafe-fuer-franzoesisch-algerischen-schriftsteller-a-46337486-5605-469c-8e37-e5c7b228a407#ref=rss)
+### sansal
+
+* [https://www.spiegel.de/kultur/literatur/algerien-boualem-sansal-verliert-berufung-gericht-bestaetigt-haftstrafe-fuer-franzoesisch-algerischen-schriftsteller](https://www.spiegel.de/kultur/literatur/algerien-boualem-sansal-verliert-berufung-gericht-bestaetigt-haftstrafe-fuer-franzoesisch-algerischen-schriftsteller-a-46337486-5605-469c-8e37-e5c7b228a407#ref=rss)
+### schriftsteller
+
+* [https://www.spiegel.de/kultur/literatur/algerien-boualem-sansal-verliert-berufung-gericht-bestaetigt-haftstrafe-fuer-franzoesisch-algerischen-schriftsteller](https://www.spiegel.de/kultur/literatur/algerien-boualem-sansal-verliert-berufung-gericht-bestaetigt-haftstrafe-fuer-franzoesisch-algerischen-schriftsteller-a-46337486-5605-469c-8e37-e5c7b228a407#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/wissenschaft/bayern-zweiter-borna-virus-patient-gestorben](https://www.spiegel.de/wissenschaft/bayern-zweiter-borna-virus-patient-gestorben-a-ba48e1f4-80ab-4acd-988a-939bfd03ca78#ref=rss)
+### person
+
+* [https://www.spiegel.de/wissenschaft/bayern-zweiter-borna-virus-patient-gestorben](https://www.spiegel.de/wissenschaft/bayern-zweiter-borna-virus-patient-gestorben-a-ba48e1f4-80ab-4acd-988a-939bfd03ca78#ref=rss)
+### gwinn
+
+* [https://www.spiegel.de/sport/fussball-em-in-der-schweiz-dfb-kapitaenin-gwinn-traegt-regenbogenbinde](https://www.spiegel.de/sport/fussball-em-in-der-schweiz-dfb-kapitaenin-gwinn-traegt-regenbogenbinde-a-752cc503-ccc9-4a98-954f-d9be2f4bd403#ref=rss)
+### übergewichtige
+
+* [https://www.spiegel.de/fitness/fitness-fuer-uebergewichtige-bei-diesen-zumba-kursen-muessen-duenne-draussen-bleiben](https://www.spiegel.de/fitness/fitness-fuer-uebergewichtige-bei-diesen-zumba-kursen-muessen-duenne-draussen-bleiben-a-631b2aaa-d7ac-4df9-ac03-4b2a135846c3#ref=rss)
 
