@@ -4,389 +4,324 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### deutschland
-
-* [https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick](https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick-a-491b5d9f-feab-4c3f-93d6-48648d34cb90#ref=rss)
-* [https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick](https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick-a-b6230cc6-f6cd-4cef-bac5-6df649413c8f#ref=rss)
-* [https://www.spiegel.de/panorama/hitze-in-deutschland-wenn-die-heimat-zum-backofen-wird-die-bilder](https://www.spiegel.de/panorama/hitze-in-deutschland-wenn-die-heimat-zum-backofen-wird-die-bilder-a-5b887c1e-67c9-4291-91cd-5952b7f3b0e3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-aussenminister-wadephul-im-bombenhagel-von-kyjiw-baerbel-bas-auf-machtkur-die-plagen-der-hitze](https://www.spiegel.de/politik/deutschland/news-des-tages-aussenminister-wadephul-im-bombenhagel-von-kyjiw-baerbel-bas-auf-machtkur-die-plagen-der-hitze-a-b7a58f43-693f-45f8-b8e2-79d9ec39784b#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/wissenschaft/untersuchung-was-menschen-zu-coolen-menschen-macht](https://www.spiegel.de/wissenschaft/untersuchung-was-menschen-zu-coolen-menschen-macht-a-3f8ca51f-15fe-4830-b846-cb9037986b67#ref=rss)
-* [https://www.spiegel.de/geschichte/steuern-in-der-geschichte-gott-gibt-den-menschen-luft-das-gesetz-verkauft-sie-ihnen](https://www.spiegel.de/geschichte/steuern-in-der-geschichte-gott-gibt-den-menschen-luft-das-gesetz-verkauft-sie-ihnen-a-20967d54-c3e4-4545-86fb-f6ae3faf6ae4#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/demokratische-republik-kongo-und-ruanda-donald-trump-handelt-frieden-aus-wirklich](https://www.spiegel.de/ausland/demokratische-republik-kongo-und-ruanda-donald-trump-handelt-frieden-aus-wirklich-a-c5c1d53c-93eb-4521-a648-89ea48ec0ffe#ref=rss)
-* [https://www.spiegel.de/ausland/usa-regierung-von-donald-trump-wirft-harvard-universitaet-verletzung-von-buergerrechten-vor](https://www.spiegel.de/ausland/usa-regierung-von-donald-trump-wirft-harvard-universitaet-verletzung-von-buergerrechten-vor-a-d679230c-b952-4d76-b26d-ce4ae4ac9a64#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-will-journalisten-zur-offenlegung-von-quellen-draengen](https://www.spiegel.de/ausland/usa-donald-trump-will-journalisten-zur-offenlegung-von-quellen-draengen-a-1fddc016-7bea-4389-a466-fb8e68106adc#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/demokratische-republik-kongo-und-ruanda-donald-trump-handelt-frieden-aus-wirklich](https://www.spiegel.de/ausland/demokratische-republik-kongo-und-ruanda-donald-trump-handelt-frieden-aus-wirklich-a-c5c1d53c-93eb-4521-a648-89ea48ec0ffe#ref=rss)
-* [https://www.spiegel.de/ausland/usa-regierung-von-donald-trump-wirft-harvard-universitaet-verletzung-von-buergerrechten-vor](https://www.spiegel.de/ausland/usa-regierung-von-donald-trump-wirft-harvard-universitaet-verletzung-von-buergerrechten-vor-a-d679230c-b952-4d76-b26d-ce4ae4ac9a64#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-will-journalisten-zur-offenlegung-von-quellen-draengen](https://www.spiegel.de/ausland/usa-donald-trump-will-journalisten-zur-offenlegung-von-quellen-draengen-a-1fddc016-7bea-4389-a466-fb8e68106adc#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/ausland/aserbaidschan-festnahmen-nach-razzia-bei-russischem-sender-in-baku](https://www.spiegel.de/ausland/aserbaidschan-festnahmen-nach-razzia-bei-russischem-sender-in-baku-a-cafed5d8-8199-43a4-9e8a-f14b5534da74#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wimbledon-2025-zuschauerin-kollabiert-carlos-alcaraz-zittert-sich-in-runde-zwei](https://www.spiegel.de/sport/fussball/wimbledon-2025-zuschauerin-kollabiert-carlos-alcaraz-zittert-sich-in-runde-zwei-a-0716dd02-611f-42b1-aba0-ae43e1be0f73#ref=rss)
-* [https://www.spiegel.de/panorama/neuburg-an-der-donau-vater-rastet-in-kita-aus-und-verletzt-drei-erzieher-nach-streit-um-sohn](https://www.spiegel.de/panorama/neuburg-an-der-donau-vater-rastet-in-kita-aus-und-verletzt-drei-erzieher-nach-streit-um-sohn-a-a735fbb4-f3da-41cc-b051-3a8a8be7db65#ref=rss)
-* [https://www.spiegel.de/wirtschaft/oesterreich-zwei-drittel-haben-kein-problem-mit-zahl-der-touristen-oder-wollen-noch-mehr](https://www.spiegel.de/wirtschaft/oesterreich-zwei-drittel-haben-kein-problem-mit-zahl-der-touristen-oder-wollen-noch-mehr-a-aab5d8d1-213a-4bf6-9a90-ae0075b2c949#ref=rss)
-### wimbledon
-
-* [https://www.spiegel.de/sport/fussball/wimbledon-2025-zuschauerin-kollabiert-carlos-alcaraz-zittert-sich-in-runde-zwei](https://www.spiegel.de/sport/fussball/wimbledon-2025-zuschauerin-kollabiert-carlos-alcaraz-zittert-sich-in-runde-zwei-a-0716dd02-611f-42b1-aba0-ae43e1be0f73#ref=rss)
-* [https://www.spiegel.de/sport/tennis/wimbledon-2025-eva-lys-gewinnt-in-drei-saetzen](https://www.spiegel.de/sport/tennis/wimbledon-2025-eva-lys-gewinnt-in-drei-saetzen-a-ea09e2ab-b4e0-4239-ab8d-3f17fc90935b#ref=rss)
-### michelin
-
-* [https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick](https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick-a-491b5d9f-feab-4c3f-93d6-48648d34cb90#ref=rss)
-* [https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick](https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick-a-b6230cc6-f6cd-4cef-bac5-6df649413c8f#ref=rss)
-### unter
-
-* [https://www.spiegel.de/ausland/demokratische-republik-kongo-und-ruanda-donald-trump-handelt-frieden-aus-wirklich](https://www.spiegel.de/ausland/demokratische-republik-kongo-und-ruanda-donald-trump-handelt-frieden-aus-wirklich-a-c5c1d53c-93eb-4521-a648-89ea48ec0ffe#ref=rss)
-* [https://www.spiegel.de/panorama/europa-das-sind-die-folgen-der-hitzewelle](https://www.spiegel.de/panorama/europa-das-sind-die-folgen-der-hitzewelle-a-bf0a4b6e-f2ab-4730-ac58-14461b73e9d2#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-will-journalisten-zur-offenlegung-von-quellen-draengen](https://www.spiegel.de/ausland/usa-donald-trump-will-journalisten-zur-offenlegung-von-quellen-draengen-a-1fddc016-7bea-4389-a466-fb8e68106adc#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/demokratische-republik-kongo-und-ruanda-donald-trump-handelt-frieden-aus-wirklich](https://www.spiegel.de/ausland/demokratische-republik-kongo-und-ruanda-donald-trump-handelt-frieden-aus-wirklich-a-c5c1d53c-93eb-4521-a648-89ea48ec0ffe#ref=rss)
-* [https://www.spiegel.de/ausland/usa-regierung-von-donald-trump-wirft-harvard-universitaet-verletzung-von-buergerrechten-vor](https://www.spiegel.de/ausland/usa-regierung-von-donald-trump-wirft-harvard-universitaet-verletzung-von-buergerrechten-vor-a-d679230c-b952-4d76-b26d-ce4ae4ac9a64#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-will-journalisten-zur-offenlegung-von-quellen-draengen](https://www.spiegel.de/ausland/usa-donald-trump-will-journalisten-zur-offenlegung-von-quellen-draengen-a-1fddc016-7bea-4389-a466-fb8e68106adc#ref=rss)
-### journalisten
-
-* [https://www.spiegel.de/ausland/aserbaidschan-festnahmen-nach-razzia-bei-russischem-sender-in-baku](https://www.spiegel.de/ausland/aserbaidschan-festnahmen-nach-razzia-bei-russischem-sender-in-baku-a-cafed5d8-8199-43a4-9e8a-f14b5534da74#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-will-journalisten-zur-offenlegung-von-quellen-draengen](https://www.spiegel.de/ausland/usa-donald-trump-will-journalisten-zur-offenlegung-von-quellen-draengen-a-1fddc016-7bea-4389-a466-fb8e68106adc#ref=rss)
-### hitze
-
-* [https://www.spiegel.de/sport/fussball/wimbledon-2025-zuschauerin-kollabiert-carlos-alcaraz-zittert-sich-in-runde-zwei](https://www.spiegel.de/sport/fussball/wimbledon-2025-zuschauerin-kollabiert-carlos-alcaraz-zittert-sich-in-runde-zwei-a-0716dd02-611f-42b1-aba0-ae43e1be0f73#ref=rss)
-* [https://www.spiegel.de/panorama/hitze-in-deutschland-wenn-die-heimat-zum-backofen-wird-die-bilder](https://www.spiegel.de/panorama/hitze-in-deutschland-wenn-die-heimat-zum-backofen-wird-die-bilder-a-5b887c1e-67c9-4291-91cd-5952b7f3b0e3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-aussenminister-wadephul-im-bombenhagel-von-kyjiw-baerbel-bas-auf-machtkur-die-plagen-der-hitze](https://www.spiegel.de/politik/deutschland/news-des-tages-aussenminister-wadephul-im-bombenhagel-von-kyjiw-baerbel-bas-auf-machtkur-die-plagen-der-hitze-a-b7a58f43-693f-45f8-b8e2-79d9ec39784b#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick](https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick-a-491b5d9f-feab-4c3f-93d6-48648d34cb90#ref=rss)
-* [https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick](https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick-a-b6230cc6-f6cd-4cef-bac5-6df649413c8f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/maehroboter-verkaeufe-in-einem-jahr-um-45-prozent-gestiegen](https://www.spiegel.de/wirtschaft/maehroboter-verkaeufe-in-einem-jahr-um-45-prozent-gestiegen-a-88ed00e4-65b3-4567-9a73-293871550bb8#ref=rss)
-### kind
-
-* [https://www.spiegel.de/panorama/justiz/iffezheim-eltern-loesen-grosseinsatz-aus-weil-sie-ihr-kind-zu-frueh-abholen](https://www.spiegel.de/panorama/justiz/iffezheim-eltern-loesen-grosseinsatz-aus-weil-sie-ihr-kind-zu-frueh-abholen-a-6209ef8a-5eb9-40a6-adff-30918ab19be4#ref=rss)
-* [https://www.spiegel.de/sport/fussball/frankfurt-am-main-fussballtrainer-gesteht-sexuellen-missbrauch](https://www.spiegel.de/sport/fussball/frankfurt-am-main-fussballtrainer-gesteht-sexuellen-missbrauch-a-3e285125-8377-4709-a364-40954bed28a8#ref=rss)
-### letzte
-
-* [https://www.spiegel.de/ausland/hongkong-die-letzte-oppositionspartei-gibt-auf](https://www.spiegel.de/ausland/hongkong-die-letzte-oppositionspartei-gibt-auf-a-2e6a54b1-8818-4039-a1e9-9f58cd79beed#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/ausland/usa-regierung-von-donald-trump-wirft-harvard-universitaet-verletzung-von-buergerrechten-vor](https://www.spiegel.de/ausland/usa-regierung-von-donald-trump-wirft-harvard-universitaet-verletzung-von-buergerrechten-vor-a-d679230c-b952-4d76-b26d-ce4ae4ac9a64#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-das-bedeutet-die-klatsche-fuer-den-spd-chef-fuer-die-koalition](https://www.spiegel.de/politik/deutschland/lars-klingbeil-das-bedeutet-die-klatsche-fuer-den-spd-chef-fuer-die-koalition-a-44d1cccf-2356-46a3-aad6-3441c3820c98#ref=rss)
-* [https://www.spiegel.de/ausland/thailand-ein-geleaktes-telefonat-wird-zum-problem-fuer-die-premierministerin](https://www.spiegel.de/ausland/thailand-ein-geleaktes-telefonat-wird-zum-problem-fuer-die-premierministerin-a-d7770c00-f2ef-4f87-b34d-079b036f7d32#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/reise/europa/alpen-huetten-in-suedtirol-es-wurden-schon-ganze-staaten-unbenannt-aber-bei-ein-paar-huetten-regt-sich-die-halbe-welt-auf](https://www.spiegel.de/reise/europa/alpen-huetten-in-suedtirol-es-wurden-schon-ganze-staaten-unbenannt-aber-bei-ein-paar-huetten-regt-sich-die-halbe-welt-auf-a-77b8b2aa-e213-4d74-975c-48db169e1a28#ref=rss)
-* [https://www.spiegel.de/wirtschaft/michael-sommer-ist-tot-langjaehriger-dgb-chef-mit-73-jahren-gestorben](https://www.spiegel.de/wirtschaft/michael-sommer-ist-tot-langjaehriger-dgb-chef-mit-73-jahren-gestorben-a-b6174ec5-df08-4258-b9e6-dad3c6130bdb#ref=rss)
-* [https://www.spiegel.de/sport/tennis/wimbledon-2025-eva-lys-gewinnt-in-drei-saetzen](https://www.spiegel.de/sport/tennis/wimbledon-2025-eva-lys-gewinnt-in-drei-saetzen-a-ea09e2ab-b4e0-4239-ab8d-3f17fc90935b#ref=rss)
-### bärbel
-
-* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-das-bedeutet-die-klatsche-fuer-den-spd-chef-fuer-die-koalition](https://www.spiegel.de/politik/deutschland/lars-klingbeil-das-bedeutet-die-klatsche-fuer-den-spd-chef-fuer-die-koalition-a-44d1cccf-2356-46a3-aad6-3441c3820c98#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-aussenminister-wadephul-im-bombenhagel-von-kyjiw-baerbel-bas-auf-machtkur-die-plagen-der-hitze](https://www.spiegel.de/politik/deutschland/news-des-tages-aussenminister-wadephul-im-bombenhagel-von-kyjiw-baerbel-bas-auf-machtkur-die-plagen-der-hitze-a-b7a58f43-693f-45f8-b8e2-79d9ec39784b#ref=rss)
-### bas
-
-* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-das-bedeutet-die-klatsche-fuer-den-spd-chef-fuer-die-koalition](https://www.spiegel.de/politik/deutschland/lars-klingbeil-das-bedeutet-die-klatsche-fuer-den-spd-chef-fuer-die-koalition-a-44d1cccf-2356-46a3-aad6-3441c3820c98#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-aussenminister-wadephul-im-bombenhagel-von-kyjiw-baerbel-bas-auf-machtkur-die-plagen-der-hitze](https://www.spiegel.de/politik/deutschland/news-des-tages-aussenminister-wadephul-im-bombenhagel-von-kyjiw-baerbel-bas-auf-machtkur-die-plagen-der-hitze-a-b7a58f43-693f-45f8-b8e2-79d9ec39784b#ref=rss)
-### problem
-
-* [https://www.spiegel.de/ausland/thailand-ein-geleaktes-telefonat-wird-zum-problem-fuer-die-premierministerin](https://www.spiegel.de/ausland/thailand-ein-geleaktes-telefonat-wird-zum-problem-fuer-die-premierministerin-a-d7770c00-f2ef-4f87-b34d-079b036f7d32#ref=rss)
-* [https://www.spiegel.de/wirtschaft/oesterreich-zwei-drittel-haben-kein-problem-mit-zahl-der-touristen-oder-wollen-noch-mehr](https://www.spiegel.de/wirtschaft/oesterreich-zwei-drittel-haben-kein-problem-mit-zahl-der-touristen-oder-wollen-noch-mehr-a-aab5d8d1-213a-4bf6-9a90-ae0075b2c949#ref=rss)
-### demokratische
-
-* [https://www.spiegel.de/ausland/demokratische-republik-kongo-und-ruanda-donald-trump-handelt-frieden-aus-wirklich](https://www.spiegel.de/ausland/demokratische-republik-kongo-und-ruanda-donald-trump-handelt-frieden-aus-wirklich-a-c5c1d53c-93eb-4521-a648-89ea48ec0ffe#ref=rss)
-### republik
-
-* [https://www.spiegel.de/ausland/demokratische-republik-kongo-und-ruanda-donald-trump-handelt-frieden-aus-wirklich](https://www.spiegel.de/ausland/demokratische-republik-kongo-und-ruanda-donald-trump-handelt-frieden-aus-wirklich-a-c5c1d53c-93eb-4521-a648-89ea48ec0ffe#ref=rss)
-### kongo
-
-* [https://www.spiegel.de/ausland/demokratische-republik-kongo-und-ruanda-donald-trump-handelt-frieden-aus-wirklich](https://www.spiegel.de/ausland/demokratische-republik-kongo-und-ruanda-donald-trump-handelt-frieden-aus-wirklich-a-c5c1d53c-93eb-4521-a648-89ea48ec0ffe#ref=rss)
-### ruanda
-
-* [https://www.spiegel.de/ausland/demokratische-republik-kongo-und-ruanda-donald-trump-handelt-frieden-aus-wirklich](https://www.spiegel.de/ausland/demokratische-republik-kongo-und-ruanda-donald-trump-handelt-frieden-aus-wirklich-a-c5c1d53c-93eb-4521-a648-89ea48ec0ffe#ref=rss)
-### wirklich
-
-* [https://www.spiegel.de/ausland/demokratische-republik-kongo-und-ruanda-donald-trump-handelt-frieden-aus-wirklich](https://www.spiegel.de/ausland/demokratische-republik-kongo-und-ruanda-donald-trump-handelt-frieden-aus-wirklich-a-c5c1d53c-93eb-4521-a648-89ea48ec0ffe#ref=rss)
-### aserbaidschan
-
-* [https://www.spiegel.de/ausland/aserbaidschan-festnahmen-nach-razzia-bei-russischem-sender-in-baku](https://www.spiegel.de/ausland/aserbaidschan-festnahmen-nach-razzia-bei-russischem-sender-in-baku-a-cafed5d8-8199-43a4-9e8a-f14b5534da74#ref=rss)
-### baku
-
-* [https://www.spiegel.de/ausland/aserbaidschan-festnahmen-nach-razzia-bei-russischem-sender-in-baku](https://www.spiegel.de/ausland/aserbaidschan-festnahmen-nach-razzia-bei-russischem-sender-in-baku-a-cafed5d8-8199-43a4-9e8a-f14b5534da74#ref=rss)
-### verhältnis
-
-* [https://www.spiegel.de/ausland/aserbaidschan-festnahmen-nach-razzia-bei-russischem-sender-in-baku](https://www.spiegel.de/ausland/aserbaidschan-festnahmen-nach-razzia-bei-russischem-sender-in-baku-a-cafed5d8-8199-43a4-9e8a-f14b5534da74#ref=rss)
-* [https://www.spiegel.de/ausland/israel-will-diplomatische-beziehungen-zu-syrien-und-dem-libanon](https://www.spiegel.de/ausland/israel-will-diplomatische-beziehungen-zu-syrien-und-dem-libanon-a-dd3c5d94-8d16-4ea1-97f9-7f81465d7eff#ref=rss)
-### festgenommen
-
-* [https://www.spiegel.de/ausland/aserbaidschan-festnahmen-nach-razzia-bei-russischem-sender-in-baku](https://www.spiegel.de/ausland/aserbaidschan-festnahmen-nach-razzia-bei-russischem-sender-in-baku-a-cafed5d8-8199-43a4-9e8a-f14b5534da74#ref=rss)
-* [https://www.spiegel.de/panorama/neuburg-an-der-donau-vater-rastet-in-kita-aus-und-verletzt-drei-erzieher-nach-streit-um-sohn](https://www.spiegel.de/panorama/neuburg-an-der-donau-vater-rastet-in-kita-aus-und-verletzt-drei-erzieher-nach-streit-um-sohn-a-a735fbb4-f3da-41cc-b051-3a8a8be7db65#ref=rss)
-### 12000
-
-* [https://www.spiegel.de/politik/deutschland/afd-alice-weidel-und-tino-chrupalla-verdoppeln-sich-ihr-gehalt](https://www.spiegel.de/politik/deutschland/afd-alice-weidel-und-tino-chrupalla-verdoppeln-sich-ihr-gehalt-a-e0090ba9-1cd6-4fb7-997d-5ec2c9fda211#ref=rss)
-### euro
-
-* [https://www.spiegel.de/politik/deutschland/afd-alice-weidel-und-tino-chrupalla-verdoppeln-sich-ihr-gehalt](https://www.spiegel.de/politik/deutschland/afd-alice-weidel-und-tino-chrupalla-verdoppeln-sich-ihr-gehalt-a-e0090ba9-1cd6-4fb7-997d-5ec2c9fda211#ref=rss)
-### künftig
-
-* [https://www.spiegel.de/politik/deutschland/afd-alice-weidel-und-tino-chrupalla-verdoppeln-sich-ihr-gehalt](https://www.spiegel.de/politik/deutschland/afd-alice-weidel-und-tino-chrupalla-verdoppeln-sich-ihr-gehalt-a-e0090ba9-1cd6-4fb7-997d-5ec2c9fda211#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-das-bedeutet-die-klatsche-fuer-den-spd-chef-fuer-die-koalition](https://www.spiegel.de/politik/deutschland/lars-klingbeil-das-bedeutet-die-klatsche-fuer-den-spd-chef-fuer-die-koalition-a-44d1cccf-2356-46a3-aad6-3441c3820c98#ref=rss)
-### grund
-
-* [https://www.spiegel.de/politik/deutschland/afd-alice-weidel-und-tino-chrupalla-verdoppeln-sich-ihr-gehalt](https://www.spiegel.de/politik/deutschland/afd-alice-weidel-und-tino-chrupalla-verdoppeln-sich-ihr-gehalt-a-e0090ba9-1cd6-4fb7-997d-5ec2c9fda211#ref=rss)
-* [https://www.spiegel.de/panorama/neuburg-an-der-donau-vater-rastet-in-kita-aus-und-verletzt-drei-erzieher-nach-streit-um-sohn](https://www.spiegel.de/panorama/neuburg-an-der-donau-vater-rastet-in-kita-aus-und-verletzt-drei-erzieher-nach-streit-um-sohn-a-a735fbb4-f3da-41cc-b051-3a8a8be7db65#ref=rss)
-### 2025
-
-* [https://www.spiegel.de/sport/fussball/wimbledon-2025-zuschauerin-kollabiert-carlos-alcaraz-zittert-sich-in-runde-zwei](https://www.spiegel.de/sport/fussball/wimbledon-2025-zuschauerin-kollabiert-carlos-alcaraz-zittert-sich-in-runde-zwei-a-0716dd02-611f-42b1-aba0-ae43e1be0f73#ref=rss)
-* [https://www.spiegel.de/sport/tennis/wimbledon-2025-eva-lys-gewinnt-in-drei-saetzen](https://www.spiegel.de/sport/tennis/wimbledon-2025-eva-lys-gewinnt-in-drei-saetzen-a-ea09e2ab-b4e0-4239-ab8d-3f17fc90935b#ref=rss)
-### zuschauerin
-
-* [https://www.spiegel.de/sport/fussball/wimbledon-2025-zuschauerin-kollabiert-carlos-alcaraz-zittert-sich-in-runde-zwei](https://www.spiegel.de/sport/fussball/wimbledon-2025-zuschauerin-kollabiert-carlos-alcaraz-zittert-sich-in-runde-zwei-a-0716dd02-611f-42b1-aba0-ae43e1be0f73#ref=rss)
-### carlos
-
-* [https://www.spiegel.de/sport/fussball/wimbledon-2025-zuschauerin-kollabiert-carlos-alcaraz-zittert-sich-in-runde-zwei](https://www.spiegel.de/sport/fussball/wimbledon-2025-zuschauerin-kollabiert-carlos-alcaraz-zittert-sich-in-runde-zwei-a-0716dd02-611f-42b1-aba0-ae43e1be0f73#ref=rss)
-### alcaraz
-
-* [https://www.spiegel.de/sport/fussball/wimbledon-2025-zuschauerin-kollabiert-carlos-alcaraz-zittert-sich-in-runde-zwei](https://www.spiegel.de/sport/fussball/wimbledon-2025-zuschauerin-kollabiert-carlos-alcaraz-zittert-sich-in-runde-zwei-a-0716dd02-611f-42b1-aba0-ae43e1be0f73#ref=rss)
-### runde
-
-* [https://www.spiegel.de/sport/fussball/wimbledon-2025-zuschauerin-kollabiert-carlos-alcaraz-zittert-sich-in-runde-zwei](https://www.spiegel.de/sport/fussball/wimbledon-2025-zuschauerin-kollabiert-carlos-alcaraz-zittert-sich-in-runde-zwei-a-0716dd02-611f-42b1-aba0-ae43e1be0f73#ref=rss)
-* [https://www.spiegel.de/sport/tennis/wimbledon-2025-eva-lys-gewinnt-in-drei-saetzen](https://www.spiegel.de/sport/tennis/wimbledon-2025-eva-lys-gewinnt-in-drei-saetzen-a-ea09e2ab-b4e0-4239-ab8d-3f17fc90935b#ref=rss)
-### europa
-
-* [https://www.spiegel.de/panorama/europa-das-sind-die-folgen-der-hitzewelle](https://www.spiegel.de/panorama/europa-das-sind-die-folgen-der-hitzewelle-a-bf0a4b6e-f2ab-4730-ac58-14461b73e9d2#ref=rss)
-### folgen
-
-* [https://www.spiegel.de/panorama/europa-das-sind-die-folgen-der-hitzewelle](https://www.spiegel.de/panorama/europa-das-sind-die-folgen-der-hitzewelle-a-bf0a4b6e-f2ab-4730-ac58-14461b73e9d2#ref=rss)
-### mehrere
-
-* [https://www.spiegel.de/panorama/europa-das-sind-die-folgen-der-hitzewelle](https://www.spiegel.de/panorama/europa-das-sind-die-folgen-der-hitzewelle-a-bf0a4b6e-f2ab-4730-ac58-14461b73e9d2#ref=rss)
-* [https://www.spiegel.de/sport/fussball/frankfurt-am-main-fussballtrainer-gesteht-sexuellen-missbrauch](https://www.spiegel.de/sport/fussball/frankfurt-am-main-fussballtrainer-gesteht-sexuellen-missbrauch-a-3e285125-8377-4709-a364-40954bed28a8#ref=rss)
-### temperaturen
-
-* [https://www.spiegel.de/panorama/europa-das-sind-die-folgen-der-hitzewelle](https://www.spiegel.de/panorama/europa-das-sind-die-folgen-der-hitzewelle-a-bf0a4b6e-f2ab-4730-ac58-14461b73e9d2#ref=rss)
-* [https://www.spiegel.de/panorama/hitze-in-deutschland-wenn-die-heimat-zum-backofen-wird-die-bilder](https://www.spiegel.de/panorama/hitze-in-deutschland-wenn-die-heimat-zum-backofen-wird-die-bilder-a-5b887c1e-67c9-4291-91cd-5952b7f3b0e3#ref=rss)
-### sean
-
-* [https://www.spiegel.de/panorama/justiz/sean-diddy-combs-geschworene-beraten-ueber-urteil-im-missbrauchsprozess](https://www.spiegel.de/panorama/justiz/sean-diddy-combs-geschworene-beraten-ueber-urteil-im-missbrauchsprozess-a-2172d913-8629-4779-bf1c-05116bd47aad#ref=rss)
-### diddy
-
-* [https://www.spiegel.de/panorama/justiz/sean-diddy-combs-geschworene-beraten-ueber-urteil-im-missbrauchsprozess](https://www.spiegel.de/panorama/justiz/sean-diddy-combs-geschworene-beraten-ueber-urteil-im-missbrauchsprozess-a-2172d913-8629-4779-bf1c-05116bd47aad#ref=rss)
-### combs
-
-* [https://www.spiegel.de/panorama/justiz/sean-diddy-combs-geschworene-beraten-ueber-urteil-im-missbrauchsprozess](https://www.spiegel.de/panorama/justiz/sean-diddy-combs-geschworene-beraten-ueber-urteil-im-missbrauchsprozess-a-2172d913-8629-4779-bf1c-05116bd47aad#ref=rss)
-### missbrauchsprozess
-
-* [https://www.spiegel.de/panorama/justiz/sean-diddy-combs-geschworene-beraten-ueber-urteil-im-missbrauchsprozess](https://www.spiegel.de/panorama/justiz/sean-diddy-combs-geschworene-beraten-ueber-urteil-im-missbrauchsprozess-a-2172d913-8629-4779-bf1c-05116bd47aad#ref=rss)
-### droht
-
-* [https://www.spiegel.de/panorama/justiz/sean-diddy-combs-geschworene-beraten-ueber-urteil-im-missbrauchsprozess](https://www.spiegel.de/panorama/justiz/sean-diddy-combs-geschworene-beraten-ueber-urteil-im-missbrauchsprozess-a-2172d913-8629-4779-bf1c-05116bd47aad#ref=rss)
-* [https://www.spiegel.de/ausland/usa-regierung-von-donald-trump-wirft-harvard-universitaet-verletzung-von-buergerrechten-vor](https://www.spiegel.de/ausland/usa-regierung-von-donald-trump-wirft-harvard-universitaet-verletzung-von-buergerrechten-vor-a-d679230c-b952-4d76-b26d-ce4ae4ac9a64#ref=rss)
-### sternesystem
-
-* [https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick](https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick-a-491b5d9f-feab-4c3f-93d6-48648d34cb90#ref=rss)
-* [https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick](https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick-a-b6230cc6-f6cd-4cef-bac5-6df649413c8f#ref=rss)
-### überblick
-
-* [https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick](https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick-a-491b5d9f-feab-4c3f-93d6-48648d34cb90#ref=rss)
-* [https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick](https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick-a-b6230cc6-f6cd-4cef-bac5-6df649413c8f#ref=rss)
-### nie
-
-* [https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick](https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick-a-491b5d9f-feab-4c3f-93d6-48648d34cb90#ref=rss)
-* [https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick](https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick-a-b6230cc6-f6cd-4cef-bac5-6df649413c8f#ref=rss)
-### viele
-
-* [https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick](https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick-a-491b5d9f-feab-4c3f-93d6-48648d34cb90#ref=rss)
-* [https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick](https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick-a-b6230cc6-f6cd-4cef-bac5-6df649413c8f#ref=rss)
-### sternerestaurants
-
-* [https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick](https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick-a-491b5d9f-feab-4c3f-93d6-48648d34cb90#ref=rss)
-* [https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick](https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick-a-b6230cc6-f6cd-4cef-bac5-6df649413c8f#ref=rss)
-### diesem
-
-* [https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick](https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick-a-491b5d9f-feab-4c3f-93d6-48648d34cb90#ref=rss)
-* [https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick](https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick-a-b6230cc6-f6cd-4cef-bac5-6df649413c8f#ref=rss)
-### spiegelautor
-
-* [https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick](https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick-a-491b5d9f-feab-4c3f-93d6-48648d34cb90#ref=rss)
-* [https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick](https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick-a-b6230cc6-f6cd-4cef-bac5-6df649413c8f#ref=rss)
-### andreas
-
-* [https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick](https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick-a-491b5d9f-feab-4c3f-93d6-48648d34cb90#ref=rss)
-* [https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick](https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick-a-b6230cc6-f6cd-4cef-bac5-6df649413c8f#ref=rss)
-### bernard
-
-* [https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick](https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick-a-491b5d9f-feab-4c3f-93d6-48648d34cb90#ref=rss)
-* [https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick](https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick-a-b6230cc6-f6cd-4cef-bac5-6df649413c8f#ref=rss)
-### hinter
-
-* [https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick](https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick-a-491b5d9f-feab-4c3f-93d6-48648d34cb90#ref=rss)
-* [https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick](https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick-a-b6230cc6-f6cd-4cef-bac5-6df649413c8f#ref=rss)
-### kulissen
-
-* [https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick](https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick-a-491b5d9f-feab-4c3f-93d6-48648d34cb90#ref=rss)
-* [https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick](https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick-a-b6230cc6-f6cd-4cef-bac5-6df649413c8f#ref=rss)
-### mysteriösen
-
-* [https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick](https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick-a-491b5d9f-feab-4c3f-93d6-48648d34cb90#ref=rss)
-* [https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick](https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick-a-b6230cc6-f6cd-4cef-bac5-6df649413c8f#ref=rss)
-### auswahlverfahrens
-
-* [https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick](https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick-a-491b5d9f-feab-4c3f-93d6-48648d34cb90#ref=rss)
-* [https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick](https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick-a-b6230cc6-f6cd-4cef-bac5-6df649413c8f#ref=rss)
-### guide
-
-* [https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick](https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick-a-491b5d9f-feab-4c3f-93d6-48648d34cb90#ref=rss)
-* [https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick](https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick-a-b6230cc6-f6cd-4cef-bac5-6df649413c8f#ref=rss)
-### geschaut
-
-* [https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick](https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick-a-491b5d9f-feab-4c3f-93d6-48648d34cb90#ref=rss)
-* [https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick](https://www.spiegel.de/kultur/michelin-das-sterne-system-im-ueberblick-a-b6230cc6-f6cd-4cef-bac5-6df649413c8f#ref=rss)
-### mähroboter
-
-* [https://www.spiegel.de/wirtschaft/maehroboter-verkaeufe-in-einem-jahr-um-45-prozent-gestiegen](https://www.spiegel.de/wirtschaft/maehroboter-verkaeufe-in-einem-jahr-um-45-prozent-gestiegen-a-88ed00e4-65b3-4567-9a73-293871550bb8#ref=rss)
-### gestiegen
-
-* [https://www.spiegel.de/wirtschaft/maehroboter-verkaeufe-in-einem-jahr-um-45-prozent-gestiegen](https://www.spiegel.de/wirtschaft/maehroboter-verkaeufe-in-einem-jahr-um-45-prozent-gestiegen-a-88ed00e4-65b3-4567-9a73-293871550bb8#ref=rss)
-### eu
-
-* [https://www.spiegel.de/wirtschaft/eu-und-ukraine-schliessen-gespraeche-ueber-freihandelsabkommen-ab](https://www.spiegel.de/wirtschaft/eu-und-ukraine-schliessen-gespraeche-ueber-freihandelsabkommen-ab-a-0f712085-1f7e-46e7-a702-7ce605363ed2#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/wirtschaft/eu-und-ukraine-schliessen-gespraeche-ueber-freihandelsabkommen-ab](https://www.spiegel.de/wirtschaft/eu-und-ukraine-schliessen-gespraeche-ueber-freihandelsabkommen-ab-a-0f712085-1f7e-46e7-a702-7ce605363ed2#ref=rss)
-### eltern
-
-* [https://www.spiegel.de/panorama/justiz/iffezheim-eltern-loesen-grosseinsatz-aus-weil-sie-ihr-kind-zu-frueh-abholen](https://www.spiegel.de/panorama/justiz/iffezheim-eltern-loesen-grosseinsatz-aus-weil-sie-ihr-kind-zu-frueh-abholen-a-6209ef8a-5eb9-40a6-adff-30918ab19be4#ref=rss)
-### früh
-
-* [https://www.spiegel.de/panorama/justiz/iffezheim-eltern-loesen-grosseinsatz-aus-weil-sie-ihr-kind-zu-frueh-abholen](https://www.spiegel.de/panorama/justiz/iffezheim-eltern-loesen-grosseinsatz-aus-weil-sie-ihr-kind-zu-frueh-abholen-a-6209ef8a-5eb9-40a6-adff-30918ab19be4#ref=rss)
-* [https://www.spiegel.de/sport/tennis/wimbledon-2025-eva-lys-gewinnt-in-drei-saetzen](https://www.spiegel.de/sport/tennis/wimbledon-2025-eva-lys-gewinnt-in-drei-saetzen-a-ea09e2ab-b4e0-4239-ab8d-3f17fc90935b#ref=rss)
-### hongkong
-
-* [https://www.spiegel.de/ausland/hongkong-die-letzte-oppositionspartei-gibt-auf](https://www.spiegel.de/ausland/hongkong-die-letzte-oppositionspartei-gibt-auf-a-2e6a54b1-8818-4039-a1e9-9f58cd79beed#ref=rss)
-### oppositionspartei
-
-* [https://www.spiegel.de/ausland/hongkong-die-letzte-oppositionspartei-gibt-auf](https://www.spiegel.de/ausland/hongkong-die-letzte-oppositionspartei-gibt-auf-a-2e6a54b1-8818-4039-a1e9-9f58cd79beed#ref=rss)
-### wirft
-
-* [https://www.spiegel.de/ausland/usa-regierung-von-donald-trump-wirft-harvard-universitaet-verletzung-von-buergerrechten-vor](https://www.spiegel.de/ausland/usa-regierung-von-donald-trump-wirft-harvard-universitaet-verletzung-von-buergerrechten-vor-a-d679230c-b952-4d76-b26d-ce4ae4ac9a64#ref=rss)
-### streit
-
-* [https://www.spiegel.de/ausland/usa-regierung-von-donald-trump-wirft-harvard-universitaet-verletzung-von-buergerrechten-vor](https://www.spiegel.de/ausland/usa-regierung-von-donald-trump-wirft-harvard-universitaet-verletzung-von-buergerrechten-vor-a-d679230c-b952-4d76-b26d-ce4ae4ac9a64#ref=rss)
-* [https://www.spiegel.de/panorama/neuburg-an-der-donau-vater-rastet-in-kita-aus-und-verletzt-drei-erzieher-nach-streit-um-sohn](https://www.spiegel.de/panorama/neuburg-an-der-donau-vater-rastet-in-kita-aus-und-verletzt-drei-erzieher-nach-streit-um-sohn-a-a735fbb4-f3da-41cc-b051-3a8a8be7db65#ref=rss)
-### verletzt
-
-* [https://www.spiegel.de/ausland/usa-regierung-von-donald-trump-wirft-harvard-universitaet-verletzung-von-buergerrechten-vor](https://www.spiegel.de/ausland/usa-regierung-von-donald-trump-wirft-harvard-universitaet-verletzung-von-buergerrechten-vor-a-d679230c-b952-4d76-b26d-ce4ae4ac9a64#ref=rss)
-* [https://www.spiegel.de/panorama/neuburg-an-der-donau-vater-rastet-in-kita-aus-und-verletzt-drei-erzieher-nach-streit-um-sohn](https://www.spiegel.de/panorama/neuburg-an-der-donau-vater-rastet-in-kita-aus-und-verletzt-drei-erzieher-nach-streit-um-sohn-a-a735fbb4-f3da-41cc-b051-3a8a8be7db65#ref=rss)
-### südtirol
-
-* [https://www.spiegel.de/reise/europa/alpen-huetten-in-suedtirol-es-wurden-schon-ganze-staaten-unbenannt-aber-bei-ein-paar-huetten-regt-sich-die-halbe-welt-auf](https://www.spiegel.de/reise/europa/alpen-huetten-in-suedtirol-es-wurden-schon-ganze-staaten-unbenannt-aber-bei-ein-paar-huetten-regt-sich-die-halbe-welt-auf-a-77b8b2aa-e213-4d74-975c-48db169e1a28#ref=rss)
-### charité
-
-* [https://www.spiegel.de/panorama/bildung/charite-berlin-hochschulleitung-verbietet-muslimischer-studierendengruppe-vorerst-nutzung-von-raeumen](https://www.spiegel.de/panorama/bildung/charite-berlin-hochschulleitung-verbietet-muslimischer-studierendengruppe-vorerst-nutzung-von-raeumen-a-7c3f20c9-f379-4742-b72f-0f455a1af40a#ref=rss)
-### kritik
-
-* [https://www.spiegel.de/panorama/bildung/charite-berlin-hochschulleitung-verbietet-muslimischer-studierendengruppe-vorerst-nutzung-von-raeumen](https://www.spiegel.de/panorama/bildung/charite-berlin-hochschulleitung-verbietet-muslimischer-studierendengruppe-vorerst-nutzung-von-raeumen-a-7c3f20c9-f379-4742-b72f-0f455a1af40a#ref=rss)
-* [https://www.spiegel.de/panorama/leute/charlize-theron-kritik-an-jeff-bezos-fuer-dessen-hochzeit-in-venedig](https://www.spiegel.de/panorama/leute/charlize-theron-kritik-an-jeff-bezos-fuer-dessen-hochzeit-in-venedig-a-79310510-aa37-4ce4-8964-d49b67644d51#ref=rss)
-### escooter
-
-* [https://www.spiegel.de/auto/e-scooter-verkehrsminister-will-schaerfere-regeln-zum-parken](https://www.spiegel.de/auto/e-scooter-verkehrsminister-will-schaerfere-regeln-zum-parken-a-9178db38-b339-4bec-957d-cd98c29d470b#ref=rss)
-### verkehrsminister
-
-* [https://www.spiegel.de/auto/e-scooter-verkehrsminister-will-schaerfere-regeln-zum-parken](https://www.spiegel.de/auto/e-scooter-verkehrsminister-will-schaerfere-regeln-zum-parken-a-9178db38-b339-4bec-957d-cd98c29d470b#ref=rss)
+### erdoğan
+
+* [https://www.spiegel.de/ausland/erdogan-gewinnt-europa-schaut-hilflos-zu](https://www.spiegel.de/ausland/erdogan-gewinnt-europa-schaut-hilflos-zu-a-40810168-9f41-47a0-977a-6a63e6ece249#ref=rss)
+* [https://www.spiegel.de/ausland/tuerkei-oppositionsfuehrer-oezguer-oezel-erdogan-gibt-sich-stark-aber-er-ist-schwach](https://www.spiegel.de/ausland/tuerkei-oppositionsfuehrer-oezguer-oezel-erdogan-gibt-sich-stark-aber-er-ist-schwach-a-767140af-0622-4fcf-aca1-e5e79002a9fa#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/panorama/bahamas-maedchen-stuerzt-von-kreuzfahrtschiff-vater-springt-hinterher](https://www.spiegel.de/panorama/bahamas-maedchen-stuerzt-von-kreuzfahrtschiff-vater-springt-hinterher-a-e3b062ab-631d-45c9-8467-0a29b0484ca5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-lange-war-die-bsw-chefin-abgetaucht-jetzt-ist-sie-zurueck-in-berlin](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-lange-war-die-bsw-chefin-abgetaucht-jetzt-ist-sie-zurueck-in-berlin-a-c9099680-4037-4b59-a125-1c91f941dbb5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/arbeitslosenzahl-geht-im-juni-nur-geringfuegig-zurueck](https://www.spiegel.de/wirtschaft/arbeitslosenzahl-geht-im-juni-nur-geringfuegig-zurueck-a-e4afdf3c-bc8c-467e-95cb-d88d61874a68#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/bahamas-maedchen-stuerzt-von-kreuzfahrtschiff-vater-springt-hinterher](https://www.spiegel.de/panorama/bahamas-maedchen-stuerzt-von-kreuzfahrtschiff-vater-springt-hinterher-a-e3b062ab-631d-45c9-8467-0a29b0484ca5#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/mellrichstadt-in-bayern-mann-greift-mitarbeiter-in-firma-an-eine-tote](https://www.spiegel.de/panorama/justiz/mellrichstadt-in-bayern-mann-greift-mitarbeiter-in-firma-an-eine-tote-a-0ca6b9e3-e513-401e-9031-282bd1258322#ref=rss)
 ### regeln
 
-* [https://www.spiegel.de/auto/e-scooter-verkehrsminister-will-schaerfere-regeln-zum-parken](https://www.spiegel.de/auto/e-scooter-verkehrsminister-will-schaerfere-regeln-zum-parken-a-9178db38-b339-4bec-957d-cd98c29d470b#ref=rss)
-### parken
+* [https://www.spiegel.de/reise/handgepaeck-so-gross-und-schwer-darf-der-reisetrolley-sein](https://www.spiegel.de/reise/handgepaeck-so-gross-und-schwer-darf-der-reisetrolley-sein-a-cb53286b-28bf-4397-9797-366934c6126b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/friedrich-merz-und-die-wirtschaft-die-subventionswende-des-kanzlers-kolumne](https://www.spiegel.de/wirtschaft/friedrich-merz-und-die-wirtschaft-die-subventionswende-des-kanzlers-kolumne-a-db859e9a-443b-4203-8829-dde427349087#ref=rss)
+* [https://www.spiegel.de/auto/bundeswehr-und-autobahn-gmbh-regeln-fahrten-von-militaerkolonnen](https://www.spiegel.de/auto/bundeswehr-und-autobahn-gmbh-regeln-fahrten-von-militaerkolonnen-a-b26c8089-b467-47c4-8d72-9a25a7f6676c#ref=rss)
+### sorgt
 
-* [https://www.spiegel.de/auto/e-scooter-verkehrsminister-will-schaerfere-regeln-zum-parken](https://www.spiegel.de/auto/e-scooter-verkehrsminister-will-schaerfere-regeln-zum-parken-a-9178db38-b339-4bec-957d-cd98c29d470b#ref=rss)
-### bilder
+* [https://www.spiegel.de/reise/handgepaeck-so-gross-und-schwer-darf-der-reisetrolley-sein](https://www.spiegel.de/reise/handgepaeck-so-gross-und-schwer-darf-der-reisetrolley-sein-a-cb53286b-28bf-4397-9797-366934c6126b#ref=rss)
+* [https://www.spiegel.de/ausland/polen-fuehrt-kontrollen-an-der-grenze-zu-deutschland-ein](https://www.spiegel.de/ausland/polen-fuehrt-kontrollen-an-der-grenze-zu-deutschland-ein-a-d1059566-3f57-4c1b-9a8a-d6f7707c7594#ref=rss)
+* [https://www.spiegel.de/ausland/thailand-paetongtarn-shinawatra-nach-umstrittenem-telefonat-suspendiert](https://www.spiegel.de/ausland/thailand-paetongtarn-shinawatra-nach-umstrittenem-telefonat-suspendiert-a-e34fba67-8199-4a3b-a16d-08f07d2cf9da#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/panorama/hitze-in-deutschland-wenn-die-heimat-zum-backofen-wird-die-bilder](https://www.spiegel.de/panorama/hitze-in-deutschland-wenn-die-heimat-zum-backofen-wird-die-bilder-a-5b887c1e-67c9-4291-91cd-5952b7f3b0e3#ref=rss)
-### lars
+* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-lange-war-die-bsw-chefin-abgetaucht-jetzt-ist-sie-zurueck-in-berlin](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-lange-war-die-bsw-chefin-abgetaucht-jetzt-ist-sie-zurueck-in-berlin-a-c9099680-4037-4b59-a125-1c91f941dbb5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/friedrich-merz-und-die-wirtschaft-die-subventionswende-des-kanzlers-kolumne](https://www.spiegel.de/wirtschaft/friedrich-merz-und-die-wirtschaft-die-subventionswende-des-kanzlers-kolumne-a-db859e9a-443b-4203-8829-dde427349087#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/festnahme-iran-soll-anschlaege-auf-juedische-einrichtungen-in-deutschland-geplant-haben](https://www.spiegel.de/politik/deutschland/festnahme-iran-soll-anschlaege-auf-juedische-einrichtungen-in-deutschland-geplant-haben-a-82030b43-5cea-4464-86fa-2041531553b5#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-das-bedeutet-die-klatsche-fuer-den-spd-chef-fuer-die-koalition](https://www.spiegel.de/politik/deutschland/lars-klingbeil-das-bedeutet-die-klatsche-fuer-den-spd-chef-fuer-die-koalition-a-44d1cccf-2356-46a3-aad6-3441c3820c98#ref=rss)
-### klingbeil
+* [https://www.spiegel.de/ausland/polen-fuehrt-kontrollen-an-der-grenze-zu-deutschland-ein](https://www.spiegel.de/ausland/polen-fuehrt-kontrollen-an-der-grenze-zu-deutschland-ein-a-d1059566-3f57-4c1b-9a8a-d6f7707c7594#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/festnahme-iran-soll-anschlaege-auf-juedische-einrichtungen-in-deutschland-geplant-haben](https://www.spiegel.de/politik/deutschland/festnahme-iran-soll-anschlaege-auf-juedische-einrichtungen-in-deutschland-geplant-haben-a-82030b43-5cea-4464-86fa-2041531553b5#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-extrem-heisser-dienstag-steht-bevor](https://www.spiegel.de/panorama/wetter-in-deutschland-extrem-heisser-dienstag-steht-bevor-a-e3e51a14-48bd-4b55-b2db-3e78f44817f4#ref=rss)
+### haft
 
-* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-das-bedeutet-die-klatsche-fuer-den-spd-chef-fuer-die-koalition](https://www.spiegel.de/politik/deutschland/lars-klingbeil-das-bedeutet-die-klatsche-fuer-den-spd-chef-fuer-die-koalition-a-44d1cccf-2356-46a3-aad6-3441c3820c98#ref=rss)
-### spdchef
+* [https://www.spiegel.de/ausland/oesterreich-rene-benko-bleibt-in-haft-aber-ex-finanzminister-karl-heinz-grasser-koennte-bald-freikommen](https://www.spiegel.de/ausland/oesterreich-rene-benko-bleibt-in-haft-aber-ex-finanzminister-karl-heinz-grasser-koennte-bald-freikommen-a-2cb2d38d-572a-4fa6-b6b5-c086f0ad695e#ref=rss)
+* [https://www.spiegel.de/ausland/erdogan-gewinnt-europa-schaut-hilflos-zu](https://www.spiegel.de/ausland/erdogan-gewinnt-europa-schaut-hilflos-zu-a-40810168-9f41-47a0-977a-6a63e6ece249#ref=rss)
+* [https://www.spiegel.de/ausland/tuerkei-oppositionsfuehrer-oezguer-oezel-erdogan-gibt-sich-stark-aber-er-ist-schwach](https://www.spiegel.de/ausland/tuerkei-oppositionsfuehrer-oezguer-oezel-erdogan-gibt-sich-stark-aber-er-ist-schwach-a-767140af-0622-4fcf-aca1-e5e79002a9fa#ref=rss)
+### präsident
 
-* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-das-bedeutet-die-klatsche-fuer-den-spd-chef-fuer-die-koalition](https://www.spiegel.de/politik/deutschland/lars-klingbeil-das-bedeutet-die-klatsche-fuer-den-spd-chef-fuer-die-koalition-a-44d1cccf-2356-46a3-aad6-3441c3820c98#ref=rss)
-### wadephul
+* [https://www.spiegel.de/ausland/erdogan-gewinnt-europa-schaut-hilflos-zu](https://www.spiegel.de/ausland/erdogan-gewinnt-europa-schaut-hilflos-zu-a-40810168-9f41-47a0-977a-6a63e6ece249#ref=rss)
+* [https://www.spiegel.de/ausland/tuerkei-oppositionsfuehrer-oezguer-oezel-erdogan-gibt-sich-stark-aber-er-ist-schwach](https://www.spiegel.de/ausland/tuerkei-oppositionsfuehrer-oezguer-oezel-erdogan-gibt-sich-stark-aber-er-ist-schwach-a-767140af-0622-4fcf-aca1-e5e79002a9fa#ref=rss)
+### schwach
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-aussenminister-wadephul-im-bombenhagel-von-kyjiw-baerbel-bas-auf-machtkur-die-plagen-der-hitze](https://www.spiegel.de/politik/deutschland/news-des-tages-aussenminister-wadephul-im-bombenhagel-von-kyjiw-baerbel-bas-auf-machtkur-die-plagen-der-hitze-a-b7a58f43-693f-45f8-b8e2-79d9ec39784b#ref=rss)
-### kyjiw
+* [https://www.spiegel.de/ausland/erdogan-gewinnt-europa-schaut-hilflos-zu](https://www.spiegel.de/ausland/erdogan-gewinnt-europa-schaut-hilflos-zu-a-40810168-9f41-47a0-977a-6a63e6ece249#ref=rss)
+* [https://www.spiegel.de/ausland/tuerkei-oppositionsfuehrer-oezguer-oezel-erdogan-gibt-sich-stark-aber-er-ist-schwach](https://www.spiegel.de/ausland/tuerkei-oppositionsfuehrer-oezguer-oezel-erdogan-gibt-sich-stark-aber-er-ist-schwach-a-767140af-0622-4fcf-aca1-e5e79002a9fa#ref=rss)
+* [https://www.spiegel.de/wirtschaft/arbeitslosenzahl-geht-im-juni-nur-geringfuegig-zurueck](https://www.spiegel.de/wirtschaft/arbeitslosenzahl-geht-im-juni-nur-geringfuegig-zurueck-a-e4afdf3c-bc8c-467e-95cb-d88d61874a68#ref=rss)
+### donald
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-aussenminister-wadephul-im-bombenhagel-von-kyjiw-baerbel-bas-auf-machtkur-die-plagen-der-hitze](https://www.spiegel.de/politik/deutschland/news-des-tages-aussenminister-wadephul-im-bombenhagel-von-kyjiw-baerbel-bas-auf-machtkur-die-plagen-der-hitze-a-b7a58f43-693f-45f8-b8e2-79d9ec39784b#ref=rss)
-### außenminister
+* [https://www.spiegel.de/ausland/donald-trump-reagiert-auf-elon-musk-mit-neuen-laestereien](https://www.spiegel.de/ausland/donald-trump-reagiert-auf-elon-musk-mit-neuen-laestereien-a-2eaa3868-a1e8-4e92-b193-a8de43a1fefe#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-das-abschiebegefaengnis-in-den-everglades-alligatoren-im-dienste-des-praesidenten](https://www.spiegel.de/ausland/donald-trump-und-das-abschiebegefaengnis-in-den-everglades-alligatoren-im-dienste-des-praesidenten-a-68a18df4-67c4-40b7-8e51-8092813015d3#ref=rss)
+### trump
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-aussenminister-wadephul-im-bombenhagel-von-kyjiw-baerbel-bas-auf-machtkur-die-plagen-der-hitze](https://www.spiegel.de/politik/deutschland/news-des-tages-aussenminister-wadephul-im-bombenhagel-von-kyjiw-baerbel-bas-auf-machtkur-die-plagen-der-hitze-a-b7a58f43-693f-45f8-b8e2-79d9ec39784b#ref=rss)
-* [https://www.spiegel.de/ausland/israel-will-diplomatische-beziehungen-zu-syrien-und-dem-libanon](https://www.spiegel.de/ausland/israel-will-diplomatische-beziehungen-zu-syrien-und-dem-libanon-a-dd3c5d94-8d16-4ea1-97f9-7f81465d7eff#ref=rss)
-### charlize
+* [https://www.spiegel.de/ausland/donald-trump-reagiert-auf-elon-musk-mit-neuen-laestereien](https://www.spiegel.de/ausland/donald-trump-reagiert-auf-elon-musk-mit-neuen-laestereien-a-2eaa3868-a1e8-4e92-b193-a8de43a1fefe#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-das-abschiebegefaengnis-in-den-everglades-alligatoren-im-dienste-des-praesidenten](https://www.spiegel.de/ausland/donald-trump-und-das-abschiebegefaengnis-in-den-everglades-alligatoren-im-dienste-des-praesidenten-a-68a18df4-67c4-40b7-8e51-8092813015d3#ref=rss)
+### rheinmetall
 
-* [https://www.spiegel.de/panorama/leute/charlize-theron-kritik-an-jeff-bezos-fuer-dessen-hochzeit-in-venedig](https://www.spiegel.de/panorama/leute/charlize-theron-kritik-an-jeff-bezos-fuer-dessen-hochzeit-in-venedig-a-79310510-aa37-4ce4-8964-d49b67644d51#ref=rss)
-### theron
+* [https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-neues-werk-fuer-f-35-tarnkappenbomber-in-weeze-eroeffnet](https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-neues-werk-fuer-f-35-tarnkappenbomber-in-weeze-eroeffnet-a-def37aef-7a7d-44d1-9a9d-cee56a08b615#ref=rss)
+### neues
 
-* [https://www.spiegel.de/panorama/leute/charlize-theron-kritik-an-jeff-bezos-fuer-dessen-hochzeit-in-venedig](https://www.spiegel.de/panorama/leute/charlize-theron-kritik-an-jeff-bezos-fuer-dessen-hochzeit-in-venedig-a-79310510-aa37-4ce4-8964-d49b67644d51#ref=rss)
-### jeff
+* [https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-neues-werk-fuer-f-35-tarnkappenbomber-in-weeze-eroeffnet](https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-neues-werk-fuer-f-35-tarnkappenbomber-in-weeze-eroeffnet-a-def37aef-7a7d-44d1-9a9d-cee56a08b615#ref=rss)
+* [https://www.spiegel.de/wirtschaft/friedrich-merz-und-die-wirtschaft-die-subventionswende-des-kanzlers-kolumne](https://www.spiegel.de/wirtschaft/friedrich-merz-und-die-wirtschaft-die-subventionswende-des-kanzlers-kolumne-a-db859e9a-443b-4203-8829-dde427349087#ref=rss)
+### f35
 
-* [https://www.spiegel.de/panorama/leute/charlize-theron-kritik-an-jeff-bezos-fuer-dessen-hochzeit-in-venedig](https://www.spiegel.de/panorama/leute/charlize-theron-kritik-an-jeff-bezos-fuer-dessen-hochzeit-in-venedig-a-79310510-aa37-4ce4-8964-d49b67644d51#ref=rss)
-### bezos
+* [https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-neues-werk-fuer-f-35-tarnkappenbomber-in-weeze-eroeffnet](https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-neues-werk-fuer-f-35-tarnkappenbomber-in-weeze-eroeffnet-a-def37aef-7a7d-44d1-9a9d-cee56a08b615#ref=rss)
+### weeze
 
-* [https://www.spiegel.de/panorama/leute/charlize-theron-kritik-an-jeff-bezos-fuer-dessen-hochzeit-in-venedig](https://www.spiegel.de/panorama/leute/charlize-theron-kritik-an-jeff-bezos-fuer-dessen-hochzeit-in-venedig-a-79310510-aa37-4ce4-8964-d49b67644d51#ref=rss)
-### venedig
+* [https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-neues-werk-fuer-f-35-tarnkappenbomber-in-weeze-eroeffnet](https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-neues-werk-fuer-f-35-tarnkappenbomber-in-weeze-eroeffnet-a-def37aef-7a7d-44d1-9a9d-cee56a08b615#ref=rss)
+### tagen
 
-* [https://www.spiegel.de/panorama/leute/charlize-theron-kritik-an-jeff-bezos-fuer-dessen-hochzeit-in-venedig](https://www.spiegel.de/panorama/leute/charlize-theron-kritik-an-jeff-bezos-fuer-dessen-hochzeit-in-venedig-a-79310510-aa37-4ce4-8964-d49b67644d51#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-neues-werk-fuer-f-35-tarnkappenbomber-in-weeze-eroeffnet](https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-neues-werk-fuer-f-35-tarnkappenbomber-in-weeze-eroeffnet-a-def37aef-7a7d-44d1-9a9d-cee56a08b615#ref=rss)
+* [https://www.spiegel.de/ausland/erdogan-gewinnt-europa-schaut-hilflos-zu](https://www.spiegel.de/ausland/erdogan-gewinnt-europa-schaut-hilflos-zu-a-40810168-9f41-47a0-977a-6a63e6ece249#ref=rss)
+### florida
+
+* [https://www.spiegel.de/panorama/bahamas-maedchen-stuerzt-von-kreuzfahrtschiff-vater-springt-hinterher](https://www.spiegel.de/panorama/bahamas-maedchen-stuerzt-von-kreuzfahrtschiff-vater-springt-hinterher-a-e3b062ab-631d-45c9-8467-0a29b0484ca5#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-das-abschiebegefaengnis-in-den-everglades-alligatoren-im-dienste-des-praesidenten](https://www.spiegel.de/ausland/donald-trump-und-das-abschiebegefaengnis-in-den-everglades-alligatoren-im-dienste-des-praesidenten-a-68a18df4-67c4-40b7-8e51-8092813015d3#ref=rss)
+### konnten
+
+* [https://www.spiegel.de/panorama/bahamas-maedchen-stuerzt-von-kreuzfahrtschiff-vater-springt-hinterher](https://www.spiegel.de/panorama/bahamas-maedchen-stuerzt-von-kreuzfahrtschiff-vater-springt-hinterher-a-e3b062ab-631d-45c9-8467-0a29b0484ca5#ref=rss)
+* [https://www.spiegel.de/auto/bundeswehr-und-autobahn-gmbh-regeln-fahrten-von-militaerkolonnen](https://www.spiegel.de/auto/bundeswehr-und-autobahn-gmbh-regeln-fahrten-von-militaerkolonnen-a-b26c8089-b467-47c4-8d72-9a25a7f6676c#ref=rss)
+### stark
+
+* [https://www.spiegel.de/reise/handgepaeck-so-gross-und-schwer-darf-der-reisetrolley-sein](https://www.spiegel.de/reise/handgepaeck-so-gross-und-schwer-darf-der-reisetrolley-sein-a-cb53286b-28bf-4397-9797-366934c6126b#ref=rss)
+* [https://www.spiegel.de/ausland/tuerkei-oppositionsfuehrer-oezguer-oezel-erdogan-gibt-sich-stark-aber-er-ist-schwach](https://www.spiegel.de/ausland/tuerkei-oppositionsfuehrer-oezguer-oezel-erdogan-gibt-sich-stark-aber-er-ist-schwach-a-767140af-0622-4fcf-aca1-e5e79002a9fa#ref=rss)
+### sahra
+
+* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-lange-war-die-bsw-chefin-abgetaucht-jetzt-ist-sie-zurueck-in-berlin](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-lange-war-die-bsw-chefin-abgetaucht-jetzt-ist-sie-zurueck-in-berlin-a-c9099680-4037-4b59-a125-1c91f941dbb5#ref=rss)
+### wagenknecht
+
+* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-lange-war-die-bsw-chefin-abgetaucht-jetzt-ist-sie-zurueck-in-berlin](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-lange-war-die-bsw-chefin-abgetaucht-jetzt-ist-sie-zurueck-in-berlin-a-c9099680-4037-4b59-a125-1c91f941dbb5#ref=rss)
+### polen
+
+* [https://www.spiegel.de/ausland/polen-fuehrt-kontrollen-an-der-grenze-zu-deutschland-ein](https://www.spiegel.de/ausland/polen-fuehrt-kontrollen-an-der-grenze-zu-deutschland-ein-a-d1059566-3f57-4c1b-9a8a-d6f7707c7594#ref=rss)
+### kontrollen
+
+* [https://www.spiegel.de/ausland/polen-fuehrt-kontrollen-an-der-grenze-zu-deutschland-ein](https://www.spiegel.de/ausland/polen-fuehrt-kontrollen-an-der-grenze-zu-deutschland-ein-a-d1059566-3f57-4c1b-9a8a-d6f7707c7594#ref=rss)
+### grenze
+
+* [https://www.spiegel.de/ausland/polen-fuehrt-kontrollen-an-der-grenze-zu-deutschland-ein](https://www.spiegel.de/ausland/polen-fuehrt-kontrollen-an-der-grenze-zu-deutschland-ein-a-d1059566-3f57-4c1b-9a8a-d6f7707c7594#ref=rss)
+* [https://www.spiegel.de/ausland/thailand-paetongtarn-shinawatra-nach-umstrittenem-telefonat-suspendiert](https://www.spiegel.de/ausland/thailand-paetongtarn-shinawatra-nach-umstrittenem-telefonat-suspendiert-a-e34fba67-8199-4a3b-a16d-08f07d2cf9da#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/ausland/polen-fuehrt-kontrollen-an-der-grenze-zu-deutschland-ein](https://www.spiegel.de/ausland/polen-fuehrt-kontrollen-an-der-grenze-zu-deutschland-ein-a-d1059566-3f57-4c1b-9a8a-d6f7707c7594#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-reagiert-auf-elon-musk-mit-neuen-laestereien](https://www.spiegel.de/ausland/donald-trump-reagiert-auf-elon-musk-mit-neuen-laestereien-a-2eaa3868-a1e8-4e92-b193-a8de43a1fefe#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/ausland/polen-fuehrt-kontrollen-an-der-grenze-zu-deutschland-ein](https://www.spiegel.de/ausland/polen-fuehrt-kontrollen-an-der-grenze-zu-deutschland-ein-a-d1059566-3f57-4c1b-9a8a-d6f7707c7594#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-reagiert-auf-elon-musk-mit-neuen-laestereien](https://www.spiegel.de/ausland/donald-trump-reagiert-auf-elon-musk-mit-neuen-laestereien-a-2eaa3868-a1e8-4e92-b193-a8de43a1fefe#ref=rss)
+### erik
+
+* [https://www.spiegel.de/kultur/tv/erik-satie-bei-arte-der-punk-der-die-zeit-aushebelte](https://www.spiegel.de/kultur/tv/erik-satie-bei-arte-der-punk-der-die-zeit-aushebelte-a-8ccf2c94-2256-4ad6-86c4-f47e8c599432#ref=rss)
+### satie
+
+* [https://www.spiegel.de/kultur/tv/erik-satie-bei-arte-der-punk-der-die-zeit-aushebelte](https://www.spiegel.de/kultur/tv/erik-satie-bei-arte-der-punk-der-die-zeit-aushebelte-a-8ccf2c94-2256-4ad6-86c4-f47e8c599432#ref=rss)
+### arte
+
+* [https://www.spiegel.de/kultur/tv/erik-satie-bei-arte-der-punk-der-die-zeit-aushebelte](https://www.spiegel.de/kultur/tv/erik-satie-bei-arte-der-punk-der-die-zeit-aushebelte-a-8ccf2c94-2256-4ad6-86c4-f47e8c599432#ref=rss)
+### zeit
+
+* [https://www.spiegel.de/kultur/tv/erik-satie-bei-arte-der-punk-der-die-zeit-aushebelte](https://www.spiegel.de/kultur/tv/erik-satie-bei-arte-der-punk-der-die-zeit-aushebelte-a-8ccf2c94-2256-4ad6-86c4-f47e8c599432#ref=rss)
+* [https://www.spiegel.de/panorama/leute/jacinda-ardern-neuseelands-ex-premierministerin-spritzte-sich-im-wahlkampf-hormone](https://www.spiegel.de/panorama/leute/jacinda-ardern-neuseelands-ex-premierministerin-spritzte-sich-im-wahlkampf-hormone-a-112d56ee-c0b3-4ead-98c5-f370465604cd#ref=rss)
+### musik
+
+* [https://www.spiegel.de/kultur/tv/erik-satie-bei-arte-der-punk-der-die-zeit-aushebelte](https://www.spiegel.de/kultur/tv/erik-satie-bei-arte-der-punk-der-die-zeit-aushebelte-a-8ccf2c94-2256-4ad6-86c4-f47e8c599432#ref=rss)
+### publikum
+
+* [https://www.spiegel.de/kultur/tv/erik-satie-bei-arte-der-punk-der-die-zeit-aushebelte](https://www.spiegel.de/kultur/tv/erik-satie-bei-arte-der-punk-der-die-zeit-aushebelte-a-8ccf2c94-2256-4ad6-86c4-f47e8c599432#ref=rss)
+* [https://www.spiegel.de/kultur/musik/olivia-rodrigo-beim-glastonbury-festival-springerstiefel-hotpants-und-ein-heimlicher-held](https://www.spiegel.de/kultur/musik/olivia-rodrigo-beim-glastonbury-festival-springerstiefel-hotpants-und-ein-heimlicher-held-a-5af7a605-2179-47ec-a28c-ba1034a6e9ba#ref=rss)
+### 100
+
+* [https://www.spiegel.de/kultur/tv/erik-satie-bei-arte-der-punk-der-die-zeit-aushebelte](https://www.spiegel.de/kultur/tv/erik-satie-bei-arte-der-punk-der-die-zeit-aushebelte-a-8ccf2c94-2256-4ad6-86c4-f47e8c599432#ref=rss)
+* [https://www.spiegel.de/ausland/erdogan-gewinnt-europa-schaut-hilflos-zu](https://www.spiegel.de/ausland/erdogan-gewinnt-europa-schaut-hilflos-zu-a-40810168-9f41-47a0-977a-6a63e6ece249#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/kultur/tv/erik-satie-bei-arte-der-punk-der-die-zeit-aushebelte](https://www.spiegel.de/kultur/tv/erik-satie-bei-arte-der-punk-der-die-zeit-aushebelte-a-8ccf2c94-2256-4ad6-86c4-f47e8c599432#ref=rss)
+* [https://www.spiegel.de/panorama/leute/jacinda-ardern-neuseelands-ex-premierministerin-spritzte-sich-im-wahlkampf-hormone](https://www.spiegel.de/panorama/leute/jacinda-ardern-neuseelands-ex-premierministerin-spritzte-sich-im-wahlkampf-hormone-a-112d56ee-c0b3-4ead-98c5-f370465604cd#ref=rss)
+### rené
+
+* [https://www.spiegel.de/ausland/oesterreich-rene-benko-bleibt-in-haft-aber-ex-finanzminister-karl-heinz-grasser-koennte-bald-freikommen](https://www.spiegel.de/ausland/oesterreich-rene-benko-bleibt-in-haft-aber-ex-finanzminister-karl-heinz-grasser-koennte-bald-freikommen-a-2cb2d38d-572a-4fa6-b6b5-c086f0ad695e#ref=rss)
+### benko
+
+* [https://www.spiegel.de/ausland/oesterreich-rene-benko-bleibt-in-haft-aber-ex-finanzminister-karl-heinz-grasser-koennte-bald-freikommen](https://www.spiegel.de/ausland/oesterreich-rene-benko-bleibt-in-haft-aber-ex-finanzminister-karl-heinz-grasser-koennte-bald-freikommen-a-2cb2d38d-572a-4fa6-b6b5-c086f0ad695e#ref=rss)
+### bleibt
+
+* [https://www.spiegel.de/ausland/oesterreich-rene-benko-bleibt-in-haft-aber-ex-finanzminister-karl-heinz-grasser-koennte-bald-freikommen](https://www.spiegel.de/ausland/oesterreich-rene-benko-bleibt-in-haft-aber-ex-finanzminister-karl-heinz-grasser-koennte-bald-freikommen-a-2cb2d38d-572a-4fa6-b6b5-c086f0ad695e#ref=rss)
+### exfinanzminister
+
+* [https://www.spiegel.de/ausland/oesterreich-rene-benko-bleibt-in-haft-aber-ex-finanzminister-karl-heinz-grasser-koennte-bald-freikommen](https://www.spiegel.de/ausland/oesterreich-rene-benko-bleibt-in-haft-aber-ex-finanzminister-karl-heinz-grasser-koennte-bald-freikommen-a-2cb2d38d-572a-4fa6-b6b5-c086f0ad695e#ref=rss)
+### karlheinz
+
+* [https://www.spiegel.de/ausland/oesterreich-rene-benko-bleibt-in-haft-aber-ex-finanzminister-karl-heinz-grasser-koennte-bald-freikommen](https://www.spiegel.de/ausland/oesterreich-rene-benko-bleibt-in-haft-aber-ex-finanzminister-karl-heinz-grasser-koennte-bald-freikommen-a-2cb2d38d-572a-4fa6-b6b5-c086f0ad695e#ref=rss)
+### grasser
+
+* [https://www.spiegel.de/ausland/oesterreich-rene-benko-bleibt-in-haft-aber-ex-finanzminister-karl-heinz-grasser-koennte-bald-freikommen](https://www.spiegel.de/ausland/oesterreich-rene-benko-bleibt-in-haft-aber-ex-finanzminister-karl-heinz-grasser-koennte-bald-freikommen-a-2cb2d38d-572a-4fa6-b6b5-c086f0ad695e#ref=rss)
+### bald
+
+* [https://www.spiegel.de/ausland/oesterreich-rene-benko-bleibt-in-haft-aber-ex-finanzminister-karl-heinz-grasser-koennte-bald-freikommen](https://www.spiegel.de/ausland/oesterreich-rene-benko-bleibt-in-haft-aber-ex-finanzminister-karl-heinz-grasser-koennte-bald-freikommen-a-2cb2d38d-572a-4fa6-b6b5-c086f0ad695e#ref=rss)
+### freikommen
+
+* [https://www.spiegel.de/ausland/oesterreich-rene-benko-bleibt-in-haft-aber-ex-finanzminister-karl-heinz-grasser-koennte-bald-freikommen](https://www.spiegel.de/ausland/oesterreich-rene-benko-bleibt-in-haft-aber-ex-finanzminister-karl-heinz-grasser-koennte-bald-freikommen-a-2cb2d38d-572a-4fa6-b6b5-c086f0ad695e#ref=rss)
+### sachsenanhalt
+
+* [https://www.spiegel.de/politik/deutschland/ermittler-durchsuchen-bueros-von-cdu-spd-und-afd-im-landtag-von-sachsen-anhalt](https://www.spiegel.de/politik/deutschland/ermittler-durchsuchen-bueros-von-cdu-spd-und-afd-im-landtag-von-sachsen-anhalt-a-232b4daf-21d3-45e4-a4ad-546daec9c2a7#ref=rss)
+### landtag
+
+* [https://www.spiegel.de/politik/deutschland/ermittler-durchsuchen-bueros-von-cdu-spd-und-afd-im-landtag-von-sachsen-anhalt](https://www.spiegel.de/politik/deutschland/ermittler-durchsuchen-bueros-von-cdu-spd-und-afd-im-landtag-von-sachsen-anhalt-a-232b4daf-21d3-45e4-a4ad-546daec9c2a7#ref=rss)
+### laut
+
+* [https://www.spiegel.de/politik/deutschland/ermittler-durchsuchen-bueros-von-cdu-spd-und-afd-im-landtag-von-sachsen-anhalt](https://www.spiegel.de/politik/deutschland/ermittler-durchsuchen-bueros-von-cdu-spd-und-afd-im-landtag-von-sachsen-anhalt-a-232b4daf-21d3-45e4-a4ad-546daec9c2a7#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/erzbistum-koeln-haftet-laut-urteil-nicht-fuer-missbrauchspriester](https://www.spiegel.de/panorama/justiz/erzbistum-koeln-haftet-laut-urteil-nicht-fuer-missbrauchspriester-a-0bbb2986-4e85-46cb-9ba5-b5cce8807b3c#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/politik/deutschland/festnahme-iran-soll-anschlaege-auf-juedische-einrichtungen-in-deutschland-geplant-haben](https://www.spiegel.de/politik/deutschland/festnahme-iran-soll-anschlaege-auf-juedische-einrichtungen-in-deutschland-geplant-haben-a-82030b43-5cea-4464-86fa-2041531553b5#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/mellrichstadt-in-bayern-mann-greift-mitarbeiter-in-firma-an-eine-tote](https://www.spiegel.de/panorama/justiz/mellrichstadt-in-bayern-mann-greift-mitarbeiter-in-firma-an-eine-tote-a-0ca6b9e3-e513-401e-9031-282bd1258322#ref=rss)
+### festgenommen
+
+* [https://www.spiegel.de/politik/deutschland/festnahme-iran-soll-anschlaege-auf-juedische-einrichtungen-in-deutschland-geplant-haben](https://www.spiegel.de/politik/deutschland/festnahme-iran-soll-anschlaege-auf-juedische-einrichtungen-in-deutschland-geplant-haben-a-82030b43-5cea-4464-86fa-2041531553b5#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/mellrichstadt-in-bayern-mann-greift-mitarbeiter-in-firma-an-eine-tote](https://www.spiegel.de/panorama/justiz/mellrichstadt-in-bayern-mann-greift-mitarbeiter-in-firma-an-eine-tote-a-0ca6b9e3-e513-401e-9031-282bd1258322#ref=rss)
+### extremer
+
+* [https://www.spiegel.de/wirtschaft/immer-mehr-fehltage-wegen-hitzebeschwerden](https://www.spiegel.de/wirtschaft/immer-mehr-fehltage-wegen-hitzebeschwerden-a-0a375b7b-546c-4e44-8841-d3cff9679acc#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-extrem-heisser-dienstag-steht-bevor](https://www.spiegel.de/panorama/wetter-in-deutschland-extrem-heisser-dienstag-steht-bevor-a-e3e51a14-48bd-4b55-b2db-3e78f44817f4#ref=rss)
+### viele
+
+* [https://www.spiegel.de/wirtschaft/immer-mehr-fehltage-wegen-hitzebeschwerden](https://www.spiegel.de/wirtschaft/immer-mehr-fehltage-wegen-hitzebeschwerden-a-0a375b7b-546c-4e44-8841-d3cff9679acc#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/dorsten-u-haft-fuer-16-jaehrigen-nach-tod-von-frau-und-kleinkind](https://www.spiegel.de/panorama/justiz/dorsten-u-haft-fuer-16-jaehrigen-nach-tod-von-frau-und-kleinkind-a-3bd5fd03-3dd7-4f1f-9cb1-0f238745d502#ref=rss)
+### rosie
+
+* [https://www.spiegel.de/kultur/rosie-odonnell-kritisiert-oprah-winfrey-fuer-teilnahme-an-bezos-hochzeit](https://www.spiegel.de/kultur/rosie-odonnell-kritisiert-oprah-winfrey-fuer-teilnahme-an-bezos-hochzeit-a-d87ef771-6634-44ef-ad4f-f11ad1f528ca#ref=rss)
+### o’donnell
+
+* [https://www.spiegel.de/kultur/rosie-odonnell-kritisiert-oprah-winfrey-fuer-teilnahme-an-bezos-hochzeit](https://www.spiegel.de/kultur/rosie-odonnell-kritisiert-oprah-winfrey-fuer-teilnahme-an-bezos-hochzeit-a-d87ef771-6634-44ef-ad4f-f11ad1f528ca#ref=rss)
+### oprah
+
+* [https://www.spiegel.de/kultur/rosie-odonnell-kritisiert-oprah-winfrey-fuer-teilnahme-an-bezos-hochzeit](https://www.spiegel.de/kultur/rosie-odonnell-kritisiert-oprah-winfrey-fuer-teilnahme-an-bezos-hochzeit-a-d87ef771-6634-44ef-ad4f-f11ad1f528ca#ref=rss)
+### winfrey
+
+* [https://www.spiegel.de/kultur/rosie-odonnell-kritisiert-oprah-winfrey-fuer-teilnahme-an-bezos-hochzeit](https://www.spiegel.de/kultur/rosie-odonnell-kritisiert-oprah-winfrey-fuer-teilnahme-an-bezos-hochzeit-a-d87ef771-6634-44ef-ad4f-f11ad1f528ca#ref=rss)
 ### thailand
 
-* [https://www.spiegel.de/ausland/thailand-ein-geleaktes-telefonat-wird-zum-problem-fuer-die-premierministerin](https://www.spiegel.de/ausland/thailand-ein-geleaktes-telefonat-wird-zum-problem-fuer-die-premierministerin-a-d7770c00-f2ef-4f87-b34d-079b036f7d32#ref=rss)
-### kita
+* [https://www.spiegel.de/ausland/thailand-paetongtarn-shinawatra-nach-umstrittenem-telefonat-suspendiert](https://www.spiegel.de/ausland/thailand-paetongtarn-shinawatra-nach-umstrittenem-telefonat-suspendiert-a-e34fba67-8199-4a3b-a16d-08f07d2cf9da#ref=rss)
+### paetongtarn
 
-* [https://www.spiegel.de/panorama/neuburg-an-der-donau-vater-rastet-in-kita-aus-und-verletzt-drei-erzieher-nach-streit-um-sohn](https://www.spiegel.de/panorama/neuburg-an-der-donau-vater-rastet-in-kita-aus-und-verletzt-drei-erzieher-nach-streit-um-sohn-a-a735fbb4-f3da-41cc-b051-3a8a8be7db65#ref=rss)
-### drei
+* [https://www.spiegel.de/ausland/thailand-paetongtarn-shinawatra-nach-umstrittenem-telefonat-suspendiert](https://www.spiegel.de/ausland/thailand-paetongtarn-shinawatra-nach-umstrittenem-telefonat-suspendiert-a-e34fba67-8199-4a3b-a16d-08f07d2cf9da#ref=rss)
+### kollegen
 
-* [https://www.spiegel.de/panorama/neuburg-an-der-donau-vater-rastet-in-kita-aus-und-verletzt-drei-erzieher-nach-streit-um-sohn](https://www.spiegel.de/panorama/neuburg-an-der-donau-vater-rastet-in-kita-aus-und-verletzt-drei-erzieher-nach-streit-um-sohn-a-a735fbb4-f3da-41cc-b051-3a8a8be7db65#ref=rss)
-* [https://www.spiegel.de/sport/tennis/wimbledon-2025-eva-lys-gewinnt-in-drei-saetzen](https://www.spiegel.de/sport/tennis/wimbledon-2025-eva-lys-gewinnt-in-drei-saetzen-a-ea09e2ab-b4e0-4239-ab8d-3f17fc90935b#ref=rss)
-### sohn
+* [https://www.spiegel.de/ausland/thailand-paetongtarn-shinawatra-nach-umstrittenem-telefonat-suspendiert](https://www.spiegel.de/ausland/thailand-paetongtarn-shinawatra-nach-umstrittenem-telefonat-suspendiert-a-e34fba67-8199-4a3b-a16d-08f07d2cf9da#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/mellrichstadt-in-bayern-mann-greift-mitarbeiter-in-firma-an-eine-tote](https://www.spiegel.de/panorama/justiz/mellrichstadt-in-bayern-mann-greift-mitarbeiter-in-firma-an-eine-tote-a-0ca6b9e3-e513-401e-9031-282bd1258322#ref=rss)
+### olivia
 
-* [https://www.spiegel.de/panorama/neuburg-an-der-donau-vater-rastet-in-kita-aus-und-verletzt-drei-erzieher-nach-streit-um-sohn](https://www.spiegel.de/panorama/neuburg-an-der-donau-vater-rastet-in-kita-aus-und-verletzt-drei-erzieher-nach-streit-um-sohn-a-a735fbb4-f3da-41cc-b051-3a8a8be7db65#ref=rss)
-### personen
+* [https://www.spiegel.de/kultur/musik/olivia-rodrigo-beim-glastonbury-festival-springerstiefel-hotpants-und-ein-heimlicher-held](https://www.spiegel.de/kultur/musik/olivia-rodrigo-beim-glastonbury-festival-springerstiefel-hotpants-und-ein-heimlicher-held-a-5af7a605-2179-47ec-a28c-ba1034a6e9ba#ref=rss)
+### rodrigo
 
-* [https://www.spiegel.de/panorama/neuburg-an-der-donau-vater-rastet-in-kita-aus-und-verletzt-drei-erzieher-nach-streit-um-sohn](https://www.spiegel.de/panorama/neuburg-an-der-donau-vater-rastet-in-kita-aus-und-verletzt-drei-erzieher-nach-streit-um-sohn-a-a735fbb4-f3da-41cc-b051-3a8a8be7db65#ref=rss)
-* [https://www.spiegel.de/wissenschaft/untersuchung-was-menschen-zu-coolen-menschen-macht](https://www.spiegel.de/wissenschaft/untersuchung-was-menschen-zu-coolen-menschen-macht-a-3f8ca51f-15fe-4830-b846-cb9037986b67#ref=rss)
-### fußballtrainer
+* [https://www.spiegel.de/kultur/musik/olivia-rodrigo-beim-glastonbury-festival-springerstiefel-hotpants-und-ein-heimlicher-held](https://www.spiegel.de/kultur/musik/olivia-rodrigo-beim-glastonbury-festival-springerstiefel-hotpants-und-ein-heimlicher-held-a-5af7a605-2179-47ec-a28c-ba1034a6e9ba#ref=rss)
+### glastonburyfestival
 
-* [https://www.spiegel.de/sport/fussball/frankfurt-am-main-fussballtrainer-gesteht-sexuellen-missbrauch](https://www.spiegel.de/sport/fussball/frankfurt-am-main-fussballtrainer-gesteht-sexuellen-missbrauch-a-3e285125-8377-4709-a364-40954bed28a8#ref=rss)
-### geschichte
+* [https://www.spiegel.de/kultur/musik/olivia-rodrigo-beim-glastonbury-festival-springerstiefel-hotpants-und-ein-heimlicher-held](https://www.spiegel.de/kultur/musik/olivia-rodrigo-beim-glastonbury-festival-springerstiefel-hotpants-und-ein-heimlicher-held-a-5af7a605-2179-47ec-a28c-ba1034a6e9ba#ref=rss)
+### köln
 
-* [https://www.spiegel.de/geschichte/steuern-in-der-geschichte-gott-gibt-den-menschen-luft-das-gesetz-verkauft-sie-ihnen](https://www.spiegel.de/geschichte/steuern-in-der-geschichte-gott-gibt-den-menschen-luft-das-gesetz-verkauft-sie-ihnen-a-20967d54-c3e4-4545-86fb-f6ae3faf6ae4#ref=rss)
-### michael
+* [https://www.spiegel.de/panorama/justiz/erzbistum-koeln-haftet-laut-urteil-nicht-fuer-missbrauchspriester](https://www.spiegel.de/panorama/justiz/erzbistum-koeln-haftet-laut-urteil-nicht-fuer-missbrauchspriester-a-0bbb2986-4e85-46cb-9ba5-b5cce8807b3c#ref=rss)
+### jacinda
 
-* [https://www.spiegel.de/wirtschaft/michael-sommer-ist-tot-langjaehriger-dgb-chef-mit-73-jahren-gestorben](https://www.spiegel.de/wirtschaft/michael-sommer-ist-tot-langjaehriger-dgb-chef-mit-73-jahren-gestorben-a-b6174ec5-df08-4258-b9e6-dad3c6130bdb#ref=rss)
-### sommer
+* [https://www.spiegel.de/panorama/leute/jacinda-ardern-neuseelands-ex-premierministerin-spritzte-sich-im-wahlkampf-hormone](https://www.spiegel.de/panorama/leute/jacinda-ardern-neuseelands-ex-premierministerin-spritzte-sich-im-wahlkampf-hormone-a-112d56ee-c0b3-4ead-98c5-f370465604cd#ref=rss)
+### ardern
 
-* [https://www.spiegel.de/wirtschaft/michael-sommer-ist-tot-langjaehriger-dgb-chef-mit-73-jahren-gestorben](https://www.spiegel.de/wirtschaft/michael-sommer-ist-tot-langjaehriger-dgb-chef-mit-73-jahren-gestorben-a-b6174ec5-df08-4258-b9e6-dad3c6130bdb#ref=rss)
-### 73
+* [https://www.spiegel.de/panorama/leute/jacinda-ardern-neuseelands-ex-premierministerin-spritzte-sich-im-wahlkampf-hormone](https://www.spiegel.de/panorama/leute/jacinda-ardern-neuseelands-ex-premierministerin-spritzte-sich-im-wahlkampf-hormone-a-112d56ee-c0b3-4ead-98c5-f370465604cd#ref=rss)
+### europa
 
-* [https://www.spiegel.de/wirtschaft/michael-sommer-ist-tot-langjaehriger-dgb-chef-mit-73-jahren-gestorben](https://www.spiegel.de/wirtschaft/michael-sommer-ist-tot-langjaehriger-dgb-chef-mit-73-jahren-gestorben-a-b6174ec5-df08-4258-b9e6-dad3c6130bdb#ref=rss)
-### gestorben
+* [https://www.spiegel.de/ausland/erdogan-gewinnt-europa-schaut-hilflos-zu](https://www.spiegel.de/ausland/erdogan-gewinnt-europa-schaut-hilflos-zu-a-40810168-9f41-47a0-977a-6a63e6ece249#ref=rss)
+### istanbuler
 
-* [https://www.spiegel.de/wirtschaft/michael-sommer-ist-tot-langjaehriger-dgb-chef-mit-73-jahren-gestorben](https://www.spiegel.de/wirtschaft/michael-sommer-ist-tot-langjaehriger-dgb-chef-mit-73-jahren-gestorben-a-b6174ec5-df08-4258-b9e6-dad3c6130bdb#ref=rss)
-### israel
+* [https://www.spiegel.de/ausland/erdogan-gewinnt-europa-schaut-hilflos-zu](https://www.spiegel.de/ausland/erdogan-gewinnt-europa-schaut-hilflos-zu-a-40810168-9f41-47a0-977a-6a63e6ece249#ref=rss)
+* [https://www.spiegel.de/ausland/tuerkei-oppositionsfuehrer-oezguer-oezel-erdogan-gibt-sich-stark-aber-er-ist-schwach](https://www.spiegel.de/ausland/tuerkei-oppositionsfuehrer-oezguer-oezel-erdogan-gibt-sich-stark-aber-er-ist-schwach-a-767140af-0622-4fcf-aca1-e5e79002a9fa#ref=rss)
+### ekrem
 
-* [https://www.spiegel.de/ausland/israel-will-diplomatische-beziehungen-zu-syrien-und-dem-libanon](https://www.spiegel.de/ausland/israel-will-diplomatische-beziehungen-zu-syrien-und-dem-libanon-a-dd3c5d94-8d16-4ea1-97f9-7f81465d7eff#ref=rss)
-### beziehungen
+* [https://www.spiegel.de/ausland/erdogan-gewinnt-europa-schaut-hilflos-zu](https://www.spiegel.de/ausland/erdogan-gewinnt-europa-schaut-hilflos-zu-a-40810168-9f41-47a0-977a-6a63e6ece249#ref=rss)
+* [https://www.spiegel.de/ausland/tuerkei-oppositionsfuehrer-oezguer-oezel-erdogan-gibt-sich-stark-aber-er-ist-schwach](https://www.spiegel.de/ausland/tuerkei-oppositionsfuehrer-oezguer-oezel-erdogan-gibt-sich-stark-aber-er-ist-schwach-a-767140af-0622-4fcf-aca1-e5e79002a9fa#ref=rss)
+### i̇mamoğlu
 
-* [https://www.spiegel.de/ausland/israel-will-diplomatische-beziehungen-zu-syrien-und-dem-libanon](https://www.spiegel.de/ausland/israel-will-diplomatische-beziehungen-zu-syrien-und-dem-libanon-a-dd3c5d94-8d16-4ea1-97f9-7f81465d7eff#ref=rss)
-### syrien
+* [https://www.spiegel.de/ausland/erdogan-gewinnt-europa-schaut-hilflos-zu](https://www.spiegel.de/ausland/erdogan-gewinnt-europa-schaut-hilflos-zu-a-40810168-9f41-47a0-977a-6a63e6ece249#ref=rss)
+* [https://www.spiegel.de/ausland/tuerkei-oppositionsfuehrer-oezguer-oezel-erdogan-gibt-sich-stark-aber-er-ist-schwach](https://www.spiegel.de/ausland/tuerkei-oppositionsfuehrer-oezguer-oezel-erdogan-gibt-sich-stark-aber-er-ist-schwach-a-767140af-0622-4fcf-aca1-e5e79002a9fa#ref=rss)
+### dorsten
 
-* [https://www.spiegel.de/ausland/israel-will-diplomatische-beziehungen-zu-syrien-und-dem-libanon](https://www.spiegel.de/ausland/israel-will-diplomatische-beziehungen-zu-syrien-und-dem-libanon-a-dd3c5d94-8d16-4ea1-97f9-7f81465d7eff#ref=rss)
-### libanon
+* [https://www.spiegel.de/panorama/justiz/dorsten-u-haft-fuer-16-jaehrigen-nach-tod-von-frau-und-kleinkind](https://www.spiegel.de/panorama/justiz/dorsten-u-haft-fuer-16-jaehrigen-nach-tod-von-frau-und-kleinkind-a-3bd5fd03-3dd7-4f1f-9cb1-0f238745d502#ref=rss)
+### tod
 
-* [https://www.spiegel.de/ausland/israel-will-diplomatische-beziehungen-zu-syrien-und-dem-libanon](https://www.spiegel.de/ausland/israel-will-diplomatische-beziehungen-zu-syrien-und-dem-libanon-a-dd3c5d94-8d16-4ea1-97f9-7f81465d7eff#ref=rss)
-### eva
+* [https://www.spiegel.de/panorama/justiz/dorsten-u-haft-fuer-16-jaehrigen-nach-tod-von-frau-und-kleinkind](https://www.spiegel.de/panorama/justiz/dorsten-u-haft-fuer-16-jaehrigen-nach-tod-von-frau-und-kleinkind-a-3bd5fd03-3dd7-4f1f-9cb1-0f238745d502#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/sport/tennis/wimbledon-2025-eva-lys-gewinnt-in-drei-saetzen](https://www.spiegel.de/sport/tennis/wimbledon-2025-eva-lys-gewinnt-in-drei-saetzen-a-ea09e2ab-b4e0-4239-ab8d-3f17fc90935b#ref=rss)
-### lys
+* [https://www.spiegel.de/panorama/justiz/dorsten-u-haft-fuer-16-jaehrigen-nach-tod-von-frau-und-kleinkind](https://www.spiegel.de/panorama/justiz/dorsten-u-haft-fuer-16-jaehrigen-nach-tod-von-frau-und-kleinkind-a-3bd5fd03-3dd7-4f1f-9cb1-0f238745d502#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-extrem-heisser-dienstag-steht-bevor](https://www.spiegel.de/panorama/wetter-in-deutschland-extrem-heisser-dienstag-steht-bevor-a-e3e51a14-48bd-4b55-b2db-3e78f44817f4#ref=rss)
+### details
 
-* [https://www.spiegel.de/sport/tennis/wimbledon-2025-eva-lys-gewinnt-in-drei-saetzen](https://www.spiegel.de/sport/tennis/wimbledon-2025-eva-lys-gewinnt-in-drei-saetzen-a-ea09e2ab-b4e0-4239-ab8d-3f17fc90935b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/dorsten-u-haft-fuer-16-jaehrigen-nach-tod-von-frau-und-kleinkind](https://www.spiegel.de/panorama/justiz/dorsten-u-haft-fuer-16-jaehrigen-nach-tod-von-frau-und-kleinkind-a-3bd5fd03-3dd7-4f1f-9cb1-0f238745d502#ref=rss)
+* [https://www.spiegel.de/auto/bundeswehr-und-autobahn-gmbh-regeln-fahrten-von-militaerkolonnen](https://www.spiegel.de/auto/bundeswehr-und-autobahn-gmbh-regeln-fahrten-von-militaerkolonnen-a-b26c8089-b467-47c4-8d72-9a25a7f6676c#ref=rss)
+### bleiben
+
+* [https://www.spiegel.de/auto/bundeswehr-und-autobahn-gmbh-regeln-fahrten-von-militaerkolonnen](https://www.spiegel.de/auto/bundeswehr-und-autobahn-gmbh-regeln-fahrten-von-militaerkolonnen-a-b26c8089-b467-47c4-8d72-9a25a7f6676c#ref=rss)
+* [https://www.spiegel.de/start/numerus-clausus-wo-man-ohne-nc-oder-eignungstest-studieren-kann](https://www.spiegel.de/start/numerus-clausus-wo-man-ohne-nc-oder-eignungstest-studieren-kann-a-d42982dc-2053-40b0-bf35-d9e7f8df6bc3#ref=rss)
+### buttergelb
+
+* [https://www.spiegel.de/stil/modetrend-buttergelb-und-flieder-praegen-die-aktuelle-herrenmode](https://www.spiegel.de/stil/modetrend-buttergelb-und-flieder-praegen-die-aktuelle-herrenmode-a-c7c954ac-8ef5-4191-939f-454a104d5991#ref=rss)
+### prägen
+
+* [https://www.spiegel.de/stil/modetrend-buttergelb-und-flieder-praegen-die-aktuelle-herrenmode](https://www.spiegel.de/stil/modetrend-buttergelb-und-flieder-praegen-die-aktuelle-herrenmode-a-c7c954ac-8ef5-4191-939f-454a104d5991#ref=rss)
+### aktuelle
+
+* [https://www.spiegel.de/stil/modetrend-buttergelb-und-flieder-praegen-die-aktuelle-herrenmode](https://www.spiegel.de/stil/modetrend-buttergelb-und-flieder-praegen-die-aktuelle-herrenmode-a-c7c954ac-8ef5-4191-939f-454a104d5991#ref=rss)
+### herrenmode
+
+* [https://www.spiegel.de/stil/modetrend-buttergelb-und-flieder-praegen-die-aktuelle-herrenmode](https://www.spiegel.de/stil/modetrend-buttergelb-und-flieder-praegen-die-aktuelle-herrenmode-a-c7c954ac-8ef5-4191-939f-454a104d5991#ref=rss)
+### wimbledon
+
+* [https://www.spiegel.de/sport/tennis/wimbledon-giovanni-mpetshi-perricard-mit-schnellstem-aufschlag-der-turniergeschichte](https://www.spiegel.de/sport/tennis/wimbledon-giovanni-mpetshi-perricard-mit-schnellstem-aufschlag-der-turniergeschichte-a-1f65a00a-a48c-41a7-b909-62b6e2f1ed88#ref=rss)
+### giovanni
+
+* [https://www.spiegel.de/sport/tennis/wimbledon-giovanni-mpetshi-perricard-mit-schnellstem-aufschlag-der-turniergeschichte](https://www.spiegel.de/sport/tennis/wimbledon-giovanni-mpetshi-perricard-mit-schnellstem-aufschlag-der-turniergeschichte-a-1f65a00a-a48c-41a7-b909-62b6e2f1ed88#ref=rss)
+### mpetshi
+
+* [https://www.spiegel.de/sport/tennis/wimbledon-giovanni-mpetshi-perricard-mit-schnellstem-aufschlag-der-turniergeschichte](https://www.spiegel.de/sport/tennis/wimbledon-giovanni-mpetshi-perricard-mit-schnellstem-aufschlag-der-turniergeschichte-a-1f65a00a-a48c-41a7-b909-62b6e2f1ed88#ref=rss)
+### perricard
+
+* [https://www.spiegel.de/sport/tennis/wimbledon-giovanni-mpetshi-perricard-mit-schnellstem-aufschlag-der-turniergeschichte](https://www.spiegel.de/sport/tennis/wimbledon-giovanni-mpetshi-perricard-mit-schnellstem-aufschlag-der-turniergeschichte-a-1f65a00a-a48c-41a7-b909-62b6e2f1ed88#ref=rss)
+### özgür
+
+* [https://www.spiegel.de/ausland/tuerkei-oppositionsfuehrer-oezguer-oezel-erdogan-gibt-sich-stark-aber-er-ist-schwach](https://www.spiegel.de/ausland/tuerkei-oppositionsfuehrer-oezguer-oezel-erdogan-gibt-sich-stark-aber-er-ist-schwach-a-767140af-0622-4fcf-aca1-e5e79002a9fa#ref=rss)
+### özel
+
+* [https://www.spiegel.de/ausland/tuerkei-oppositionsfuehrer-oezguer-oezel-erdogan-gibt-sich-stark-aber-er-ist-schwach](https://www.spiegel.de/ausland/tuerkei-oppositionsfuehrer-oezguer-oezel-erdogan-gibt-sich-stark-aber-er-ist-schwach-a-767140af-0622-4fcf-aca1-e5e79002a9fa#ref=rss)
+### juni
+
+* [https://www.spiegel.de/wirtschaft/arbeitslosenzahl-geht-im-juni-nur-geringfuegig-zurueck](https://www.spiegel.de/wirtschaft/arbeitslosenzahl-geht-im-juni-nur-geringfuegig-zurueck-a-e4afdf3c-bc8c-467e-95cb-d88d61874a68#ref=rss)
+### reagiert
+
+* [https://www.spiegel.de/ausland/donald-trump-reagiert-auf-elon-musk-mit-neuen-laestereien](https://www.spiegel.de/ausland/donald-trump-reagiert-auf-elon-musk-mit-neuen-laestereien-a-2eaa3868-a1e8-4e92-b193-a8de43a1fefe#ref=rss)
+### elon
+
+* [https://www.spiegel.de/ausland/donald-trump-reagiert-auf-elon-musk-mit-neuen-laestereien](https://www.spiegel.de/ausland/donald-trump-reagiert-auf-elon-musk-mit-neuen-laestereien-a-2eaa3868-a1e8-4e92-b193-a8de43a1fefe#ref=rss)
+### musk
+
+* [https://www.spiegel.de/ausland/donald-trump-reagiert-auf-elon-musk-mit-neuen-laestereien](https://www.spiegel.de/ausland/donald-trump-reagiert-auf-elon-musk-mit-neuen-laestereien-a-2eaa3868-a1e8-4e92-b193-a8de43a1fefe#ref=rss)
+### uspräsident
+
+* [https://www.spiegel.de/ausland/donald-trump-reagiert-auf-elon-musk-mit-neuen-laestereien](https://www.spiegel.de/ausland/donald-trump-reagiert-auf-elon-musk-mit-neuen-laestereien-a-2eaa3868-a1e8-4e92-b193-a8de43a1fefe#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-das-abschiebegefaengnis-in-den-everglades-alligatoren-im-dienste-des-praesidenten](https://www.spiegel.de/ausland/donald-trump-und-das-abschiebegefaengnis-in-den-everglades-alligatoren-im-dienste-des-praesidenten-a-68a18df4-67c4-40b7-8e51-8092813015d3#ref=rss)
+### kim
+
+* [https://www.spiegel.de/politik/deutschland/nordkorea-kim-jong-un-ehrt-im-ukrainekrieg-getoetete-soldaten](https://www.spiegel.de/politik/deutschland/nordkorea-kim-jong-un-ehrt-im-ukrainekrieg-getoetete-soldaten-a-1040e937-728f-4794-833e-8ed120822c7c#ref=rss)
+### jong
+
+* [https://www.spiegel.de/politik/deutschland/nordkorea-kim-jong-un-ehrt-im-ukrainekrieg-getoetete-soldaten](https://www.spiegel.de/politik/deutschland/nordkorea-kim-jong-un-ehrt-im-ukrainekrieg-getoetete-soldaten-a-1040e937-728f-4794-833e-8ed120822c7c#ref=rss)
+### un
+
+* [https://www.spiegel.de/politik/deutschland/nordkorea-kim-jong-un-ehrt-im-ukrainekrieg-getoetete-soldaten](https://www.spiegel.de/politik/deutschland/nordkorea-kim-jong-un-ehrt-im-ukrainekrieg-getoetete-soldaten-a-1040e937-728f-4794-833e-8ed120822c7c#ref=rss)
+### heißer
+
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-extrem-heisser-dienstag-steht-bevor](https://www.spiegel.de/panorama/wetter-in-deutschland-extrem-heisser-dienstag-steht-bevor-a-e3e51a14-48bd-4b55-b2db-3e78f44817f4#ref=rss)
+### boeing
+
+* [https://www.spiegel.de/wirtschaft/boeing-tauscht-seinen-finanzchef-brian-west-aus](https://www.spiegel.de/wirtschaft/boeing-tauscht-seinen-finanzchef-brian-west-aus-a-bab2a906-6540-49e5-b284-f4cd80670fcb#ref=rss)
 
