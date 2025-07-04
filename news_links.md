@@ -4,321 +4,377 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### trump
+### israel
 
-* [https://www.spiegel.de/ausland/donald-trump-und-sein-steuergesetz-triumph-feiern-mit-ymca-und-ufc](https://www.spiegel.de/ausland/donald-trump-und-sein-steuergesetz-triumph-feiern-mit-ymca-und-ufc-a-c0f86ca0-d625-4856-8545-ead2e4000605#ref=rss)
-* [https://www.spiegel.de/ausland/ukrainekrieg-luftwaffe-meldet-schwerste-russische-angriffe-seit-kriegbeginn](https://www.spiegel.de/ausland/ukrainekrieg-luftwaffe-meldet-schwerste-russische-angriffe-seit-kriegbeginn-a-08414d88-2f91-4261-b78d-c6380e496fd5#ref=rss)
-* [https://www.spiegel.de/sport/donald-trump-wuenscht-sich-einen-ufc-kampf-im-weissen-haus](https://www.spiegel.de/sport/donald-trump-wuenscht-sich-einen-ufc-kampf-im-weissen-haus-a-678a0ad2-0716-49fe-9d7d-8702bc89dc2e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/usa-donald-trump-kuendigt-zoll-briefe-an-handelspartner-an](https://www.spiegel.de/wirtschaft/usa-donald-trump-kuendigt-zoll-briefe-an-handelspartner-an-a-24549029-b80f-4ebf-9073-8d02cfbf70ce#ref=rss)
-### russland
+* [https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast](https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast-a-578df558-b833-434f-afd0-00196e78d0e3#ref=rss)
+* [https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast](https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast-a-8af32ded-c689-4e72-9775-f889529fde57#ref=rss)
+* [https://www.spiegel.de/ausland/israel-deutsche-diplomaten-fordern-ende-der-siedlergewalt-im-westjordanland](https://www.spiegel.de/ausland/israel-deutsche-diplomaten-fordern-ende-der-siedlergewalt-im-westjordanland-a-af43b07d-5c71-4ae9-bd8b-b9847b2109ee#ref=rss)
+### angriffe
 
-* [https://www.spiegel.de/ausland/russland-oelmanager-andrej-badalow-stirbt-nach-fenstersturz](https://www.spiegel.de/ausland/russland-oelmanager-andrej-badalow-stirbt-nach-fenstersturz-a-da988f93-5288-43c1-91b8-d000ff967714#ref=rss)
-* [https://www.spiegel.de/ausland/ukrainekrieg-luftwaffe-meldet-schwerste-russische-angriffe-seit-kriegbeginn](https://www.spiegel.de/ausland/ukrainekrieg-luftwaffe-meldet-schwerste-russische-angriffe-seit-kriegbeginn-a-08414d88-2f91-4261-b78d-c6380e496fd5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukrainekrieg-russland-verstaerkt-laut-bnd-einsatz-von-chemiewaffen-in-der-ukraine](https://www.spiegel.de/politik/deutschland/ukrainekrieg-russland-verstaerkt-laut-bnd-einsatz-von-chemiewaffen-in-der-ukraine-a-ad80f04e-ae4b-406f-9734-dd588d0f4a36#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-sagt-russland-greift-uns-heute-schon-an-wie-kommt-er-darauf](https://www.spiegel.de/politik/deutschland/friedrich-merz-sagt-russland-greift-uns-heute-schon-an-wie-kommt-er-darauf-a-e635bcda-abf8-4cce-be69-8fa83f916e52#ref=rss)
-### tag
+* [https://www.spiegel.de/panorama/justiz/linksextremismus-anklage-gegen-sechs-mutmassliche-gewalttaeter](https://www.spiegel.de/panorama/justiz/linksextremismus-anklage-gegen-sechs-mutmassliche-gewalttaeter-a-e7c6eafe-fa7d-4b10-ae1a-7f7dc6f4a7c3#ref=rss)
+* [https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast](https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast-a-578df558-b833-434f-afd0-00196e78d0e3#ref=rss)
+* [https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast](https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast-a-8af32ded-c689-4e72-9775-f889529fde57#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-angriffe-auf-hilfesuchende-dreimal-ging-er-hin-den-vierten-versuch-ueberlebte-er-nicht](https://www.spiegel.de/ausland/gaza-angriffe-auf-hilfesuchende-dreimal-ging-er-hin-den-vierten-versuch-ueberlebte-er-nicht-a-b97b7078-377a-4593-bfce-a9ff3acc2294#ref=rss)
+### afd
 
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/hirnforschung-im-menschlichen-gehirn-bilden-sich-jeden-tag-frische-nervenzellen](https://www.spiegel.de/wissenschaft/medizin/hirnforschung-im-menschlichen-gehirn-bilden-sich-jeden-tag-frische-nervenzellen-a-496d34aa-a207-4d1b-a24d-9363a9d1a841#ref=rss)
-### donald
+* [https://www.spiegel.de/politik/deutschland/afd-fraktionsklausur-im-bundestag-keine-strategie-auf-dem-weg-zur-macht](https://www.spiegel.de/politik/deutschland/afd-fraktionsklausur-im-bundestag-keine-strategie-auf-dem-weg-zur-macht-a-a7f13703-81b6-4c23-bbcb-b90b486f0e58#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-und-bsw-wagenknechts-gefaehrlicher-flirt-mit-den-rechtsextremen](https://www.spiegel.de/politik/deutschland/afd-und-bsw-wagenknechts-gefaehrlicher-flirt-mit-den-rechtsextremen-a-1e38eb31-403f-4869-8a65-0f283702bc56#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-afd-und-bsw-bierpreise-em-2025](https://www.spiegel.de/politik/deutschland/news-des-tages-afd-und-bsw-bierpreise-em-2025-a-82a850cb-ee0a-4395-9f39-24d235ea76da#ref=rss)
+### iran
 
-* [https://www.spiegel.de/ausland/donald-trump-und-sein-steuergesetz-triumph-feiern-mit-ymca-und-ufc](https://www.spiegel.de/ausland/donald-trump-und-sein-steuergesetz-triumph-feiern-mit-ymca-und-ufc-a-c0f86ca0-d625-4856-8545-ead2e4000605#ref=rss)
-* [https://www.spiegel.de/sport/donald-trump-wuenscht-sich-einen-ufc-kampf-im-weissen-haus](https://www.spiegel.de/sport/donald-trump-wuenscht-sich-einen-ufc-kampf-im-weissen-haus-a-678a0ad2-0716-49fe-9d7d-8702bc89dc2e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/usa-donald-trump-kuendigt-zoll-briefe-an-handelspartner-an](https://www.spiegel.de/wirtschaft/usa-donald-trump-kuendigt-zoll-briefe-an-handelspartner-an-a-24549029-b80f-4ebf-9073-8d02cfbf70ce#ref=rss)
-### kommen
+* [https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast](https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast-a-578df558-b833-434f-afd0-00196e78d0e3#ref=rss)
+* [https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast](https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast-a-8af32ded-c689-4e72-9775-f889529fde57#ref=rss)
+* [https://www.spiegel.de/ausland/iran-atominspektoren-der-iaea-verlassen-iran](https://www.spiegel.de/ausland/iran-atominspektoren-der-iaea-verlassen-iran-a-074e7a3a-28dd-4987-a00b-6eebf5279c16#ref=rss)
+### regime
 
-* [https://www.spiegel.de/panorama/berlin-carl-bolle-grundschule-schulsenatorin-kuendigt-moegliche-konsequenzen-fuers-kollegium-an](https://www.spiegel.de/panorama/berlin-carl-bolle-grundschule-schulsenatorin-kuendigt-moegliche-konsequenzen-fuers-kollegium-an-a-e4a08dee-db29-4ce8-b857-dda7009b40c2#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/proben-aus-der-antarktis-1-2-millionen-jahre-altes-eis-wird-in-bremerhaven-zersaegt](https://www.spiegel.de/wissenschaft/natur/proben-aus-der-antarktis-1-2-millionen-jahre-altes-eis-wird-in-bremerhaven-zersaegt-a-bb2c1ef0-5e34-4c51-8d6c-b55a74bfc161#ref=rss)
-* [https://www.spiegel.de/reise/packen-reisen-staunen-mit-leichtigkeit-die-welt-entdecken](https://www.spiegel.de/reise/packen-reisen-staunen-mit-leichtigkeit-die-welt-entdecken-a-7d47ff56-209d-4054-a6df-d7ba1be6d61d#ref=rss)
-* [https://www.spiegel.de/sport/fussball/frauen-em-2025-gleichberechtigung-reicht-nicht-deutschland-braucht-erfolg](https://www.spiegel.de/sport/fussball/frauen-em-2025-gleichberechtigung-reicht-nicht-deutschland-braucht-erfolg-a-c760c411-45d3-440c-81d4-8bce657a7794#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/reise/packen-reisen-staunen-mit-leichtigkeit-die-welt-entdecken](https://www.spiegel.de/reise/packen-reisen-staunen-mit-leichtigkeit-die-welt-entdecken-a-7d47ff56-209d-4054-a6df-d7ba1be6d61d#ref=rss)
-* [https://www.spiegel.de/sport/fussball/frauen-em-2025-gleichberechtigung-reicht-nicht-deutschland-braucht-erfolg](https://www.spiegel.de/sport/fussball/frauen-em-2025-gleichberechtigung-reicht-nicht-deutschland-braucht-erfolg-a-c760c411-45d3-440c-81d4-8bce657a7794#ref=rss)
-* [https://www.spiegel.de/panorama/waldbraende-mehr-als-tausend-einsatzkraefte-kaempfen-in-ostdeutschland-gegen-die-flammen](https://www.spiegel.de/panorama/waldbraende-mehr-als-tausend-einsatzkraefte-kaempfen-in-ostdeutschland-gegen-die-flammen-a-f905a3cb-e4c1-4f33-8207-0a5c7c504df1#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/panorama/bildung/uni-kiel-forschungsgemeinschaft-wirft-ex-praesidentin-grobe-fahrlaessigkeit-vor](https://www.spiegel.de/panorama/bildung/uni-kiel-forschungsgemeinschaft-wirft-ex-praesidentin-grobe-fahrlaessigkeit-vor-a-e11e1532-3dba-4f64-8ad8-dfb58a5f0782#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukrainekrieg-russland-verstaerkt-laut-bnd-einsatz-von-chemiewaffen-in-der-ukraine](https://www.spiegel.de/politik/deutschland/ukrainekrieg-russland-verstaerkt-laut-bnd-einsatz-von-chemiewaffen-in-der-ukraine-a-ad80f04e-ae4b-406f-9734-dd588d0f4a36#ref=rss)
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-jamie-gittens-wechselt-fuer-viel-geld-zum-fc-chelsea](https://www.spiegel.de/sport/fussball/borussia-dortmund-jamie-gittens-wechselt-fuer-viel-geld-zum-fc-chelsea-a-35123e04-bc1d-4f78-839b-2d322b529f76#ref=rss)
-### jeden
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/hirnforschung-im-menschlichen-gehirn-bilden-sich-jeden-tag-frische-nervenzellen](https://www.spiegel.de/wissenschaft/medizin/hirnforschung-im-menschlichen-gehirn-bilden-sich-jeden-tag-frische-nervenzellen-a-496d34aa-a207-4d1b-a24d-9363a9d1a841#ref=rss)
-### kündigt
-
-* [https://www.spiegel.de/ausland/donald-trump-und-sein-steuergesetz-triumph-feiern-mit-ymca-und-ufc](https://www.spiegel.de/ausland/donald-trump-und-sein-steuergesetz-triumph-feiern-mit-ymca-und-ufc-a-c0f86ca0-d625-4856-8545-ead2e4000605#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-carl-bolle-grundschule-schulsenatorin-kuendigt-moegliche-konsequenzen-fuers-kollegium-an](https://www.spiegel.de/panorama/berlin-carl-bolle-grundschule-schulsenatorin-kuendigt-moegliche-konsequenzen-fuers-kollegium-an-a-e4a08dee-db29-4ce8-b857-dda7009b40c2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/usa-donald-trump-kuendigt-zoll-briefe-an-handelspartner-an](https://www.spiegel.de/wirtschaft/usa-donald-trump-kuendigt-zoll-briefe-an-handelspartner-an-a-24549029-b80f-4ebf-9073-8d02cfbf70ce#ref=rss)
-### titel
-
-* [https://www.spiegel.de/sport/fussball/em-2025-wie-giulia-gwinn-die-dfb-frauen-zum-titel-fuehren-will](https://www.spiegel.de/sport/fussball/em-2025-wie-giulia-gwinn-die-dfb-frauen-zum-titel-fuehren-will-a-4a7a305e-bb24-4a5b-a45e-7d92c1f08e00#ref=rss)
-* [https://www.spiegel.de/sport/fussball/frauen-em-2025-gleichberechtigung-reicht-nicht-deutschland-braucht-erfolg](https://www.spiegel.de/sport/fussball/frauen-em-2025-gleichberechtigung-reicht-nicht-deutschland-braucht-erfolg-a-c760c411-45d3-440c-81d4-8bce657a7794#ref=rss)
-### russischen
-
-* [https://www.spiegel.de/ausland/russland-oelmanager-andrej-badalow-stirbt-nach-fenstersturz](https://www.spiegel.de/ausland/russland-oelmanager-andrej-badalow-stirbt-nach-fenstersturz-a-da988f93-5288-43c1-91b8-d000ff967714#ref=rss)
-* [https://www.spiegel.de/panorama/spionageverdacht-in-oesterreich-auto-von-kaiser-enkel-habsburg-offenbar-verwanzt](https://www.spiegel.de/panorama/spionageverdacht-in-oesterreich-auto-von-kaiser-enkel-habsburg-offenbar-verwanzt-a-5f096e11-56c8-4707-8b6c-014b74639ed2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-sagt-russland-greift-uns-heute-schon-an-wie-kommt-er-darauf](https://www.spiegel.de/politik/deutschland/friedrich-merz-sagt-russland-greift-uns-heute-schon-an-wie-kommt-er-darauf-a-e635bcda-abf8-4cce-be69-8fa83f916e52#ref=rss)
-### neue
-
-* [https://www.spiegel.de/wissenschaft/medizin/hirnforschung-im-menschlichen-gehirn-bilden-sich-jeden-tag-frische-nervenzellen](https://www.spiegel.de/wissenschaft/medizin/hirnforschung-im-menschlichen-gehirn-bilden-sich-jeden-tag-frische-nervenzellen-a-496d34aa-a207-4d1b-a24d-9363a9d1a841#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-carl-bolle-grundschule-schulsenatorin-kuendigt-moegliche-konsequenzen-fuers-kollegium-an](https://www.spiegel.de/panorama/berlin-carl-bolle-grundschule-schulsenatorin-kuendigt-moegliche-konsequenzen-fuers-kollegium-an-a-e4a08dee-db29-4ce8-b857-dda7009b40c2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-sagt-russland-greift-uns-heute-schon-an-wie-kommt-er-darauf](https://www.spiegel.de/politik/deutschland/friedrich-merz-sagt-russland-greift-uns-heute-schon-an-wie-kommt-er-darauf-a-e635bcda-abf8-4cce-be69-8fa83f916e52#ref=rss)
-### mehrere
-
-* [https://www.spiegel.de/panorama/duesseldorf-sechsjaehriger-aus-duisburg-ertrinkt-im-rhein](https://www.spiegel.de/panorama/duesseldorf-sechsjaehriger-aus-duisburg-ertrinkt-im-rhein-a-bcaecb4e-5eb2-416a-8ad9-73c3c1aa70b9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukrainekrieg-russland-verstaerkt-laut-bnd-einsatz-von-chemiewaffen-in-der-ukraine](https://www.spiegel.de/politik/deutschland/ukrainekrieg-russland-verstaerkt-laut-bnd-einsatz-von-chemiewaffen-in-der-ukraine-a-ad80f04e-ae4b-406f-9734-dd588d0f4a36#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/attacke-in-niederbayern-was-ueber-den-angriff-mit-hammer-und-axt-im-ice-bisher-bekannt-ist](https://www.spiegel.de/panorama/justiz/attacke-in-niederbayern-was-ueber-den-angriff-mit-hammer-und-axt-im-ice-bisher-bekannt-ist-a-20c4f6ac-af85-48fd-8ee7-c6230d908ec4#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/ukrainekrieg-luftwaffe-meldet-schwerste-russische-angriffe-seit-kriegbeginn](https://www.spiegel.de/ausland/ukrainekrieg-luftwaffe-meldet-schwerste-russische-angriffe-seit-kriegbeginn-a-08414d88-2f91-4261-b78d-c6380e496fd5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukrainekrieg-russland-verstaerkt-laut-bnd-einsatz-von-chemiewaffen-in-der-ukraine](https://www.spiegel.de/politik/deutschland/ukrainekrieg-russland-verstaerkt-laut-bnd-einsatz-von-chemiewaffen-in-der-ukraine-a-ad80f04e-ae4b-406f-9734-dd588d0f4a36#ref=rss)
-### geld
-
-* [https://www.spiegel.de/wirtschaft/frankreich-fluglotsen-legen-ferienverkehr-lahm](https://www.spiegel.de/wirtschaft/frankreich-fluglotsen-legen-ferienverkehr-lahm-a-d5fdd79a-5a77-4ef2-865b-6c6ccb5977ab#ref=rss)
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-jamie-gittens-wechselt-fuer-viel-geld-zum-fc-chelsea](https://www.spiegel.de/sport/fussball/borussia-dortmund-jamie-gittens-wechselt-fuer-viel-geld-zum-fc-chelsea-a-35123e04-bc1d-4f78-839b-2d322b529f76#ref=rss)
+* [https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast](https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast-a-578df558-b833-434f-afd0-00196e78d0e3#ref=rss)
+* [https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast](https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast-a-8af32ded-c689-4e72-9775-f889529fde57#ref=rss)
 ### usa
 
-* [https://www.spiegel.de/sport/donald-trump-wuenscht-sich-einen-ufc-kampf-im-weissen-haus](https://www.spiegel.de/sport/donald-trump-wuenscht-sich-einen-ufc-kampf-im-weissen-haus-a-678a0ad2-0716-49fe-9d7d-8702bc89dc2e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/usa-donald-trump-kuendigt-zoll-briefe-an-handelspartner-an](https://www.spiegel.de/wirtschaft/usa-donald-trump-kuendigt-zoll-briefe-an-handelspartner-an-a-24549029-b80f-4ebf-9073-8d02cfbf70ce#ref=rss)
-### forschungsgemeinschaft
+* [https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast](https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast-a-578df558-b833-434f-afd0-00196e78d0e3#ref=rss)
+* [https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast](https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast-a-8af32ded-c689-4e72-9775-f889529fde57#ref=rss)
+### selbst
 
-* [https://www.spiegel.de/panorama/bildung/uni-kiel-forschungsgemeinschaft-wirft-ex-praesidentin-grobe-fahrlaessigkeit-vor](https://www.spiegel.de/panorama/bildung/uni-kiel-forschungsgemeinschaft-wirft-ex-praesidentin-grobe-fahrlaessigkeit-vor-a-e11e1532-3dba-4f64-8ad8-dfb58a5f0782#ref=rss)
-### fulda
-
-* [https://www.spiegel.de/panorama/bildung/uni-kiel-forschungsgemeinschaft-wirft-ex-praesidentin-grobe-fahrlaessigkeit-vor](https://www.spiegel.de/panorama/bildung/uni-kiel-forschungsgemeinschaft-wirft-ex-praesidentin-grobe-fahrlaessigkeit-vor-a-e11e1532-3dba-4f64-8ad8-dfb58a5f0782#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/panorama/bildung/uni-kiel-forschungsgemeinschaft-wirft-ex-praesidentin-grobe-fahrlaessigkeit-vor](https://www.spiegel.de/panorama/bildung/uni-kiel-forschungsgemeinschaft-wirft-ex-praesidentin-grobe-fahrlaessigkeit-vor-a-e11e1532-3dba-4f64-8ad8-dfb58a5f0782#ref=rss)
-* [https://www.spiegel.de/sport/fussball/frauen-em-2025-gleichberechtigung-reicht-nicht-deutschland-braucht-erfolg](https://www.spiegel.de/sport/fussball/frauen-em-2025-gleichberechtigung-reicht-nicht-deutschland-braucht-erfolg-a-c760c411-45d3-440c-81d4-8bce657a7794#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### feiern
-
-* [https://www.spiegel.de/ausland/donald-trump-und-sein-steuergesetz-triumph-feiern-mit-ymca-und-ufc](https://www.spiegel.de/ausland/donald-trump-und-sein-steuergesetz-triumph-feiern-mit-ymca-und-ufc-a-c0f86ca0-d625-4856-8545-ead2e4000605#ref=rss)
-* [https://www.spiegel.de/sport/donald-trump-wuenscht-sich-einen-ufc-kampf-im-weissen-haus](https://www.spiegel.de/sport/donald-trump-wuenscht-sich-einen-ufc-kampf-im-weissen-haus-a-678a0ad2-0716-49fe-9d7d-8702bc89dc2e#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/ausland/donald-trump-und-sein-steuergesetz-triumph-feiern-mit-ymca-und-ufc](https://www.spiegel.de/ausland/donald-trump-und-sein-steuergesetz-triumph-feiern-mit-ymca-und-ufc-a-c0f86ca0-d625-4856-8545-ead2e4000605#ref=rss)
-* [https://www.spiegel.de/sport/donald-trump-wuenscht-sich-einen-ufc-kampf-im-weissen-haus](https://www.spiegel.de/sport/donald-trump-wuenscht-sich-einen-ufc-kampf-im-weissen-haus-a-678a0ad2-0716-49fe-9d7d-8702bc89dc2e#ref=rss)
-### weißen
-
-* [https://www.spiegel.de/ausland/donald-trump-und-sein-steuergesetz-triumph-feiern-mit-ymca-und-ufc](https://www.spiegel.de/ausland/donald-trump-und-sein-steuergesetz-triumph-feiern-mit-ymca-und-ufc-a-c0f86ca0-d625-4856-8545-ead2e4000605#ref=rss)
-* [https://www.spiegel.de/sport/donald-trump-wuenscht-sich-einen-ufc-kampf-im-weissen-haus](https://www.spiegel.de/sport/donald-trump-wuenscht-sich-einen-ufc-kampf-im-weissen-haus-a-678a0ad2-0716-49fe-9d7d-8702bc89dc2e#ref=rss)
-### venus
-
-* [https://www.spiegel.de/panorama/leute/venus-williams-lag-vor-ihrem-wimbledon-sieg-vor-schmerzen-am-boden](https://www.spiegel.de/panorama/leute/venus-williams-lag-vor-ihrem-wimbledon-sieg-vor-schmerzen-am-boden-a-ffa03346-91b0-44f9-8685-2b2b7d4e0ea9#ref=rss)
-### williams
-
-* [https://www.spiegel.de/panorama/leute/venus-williams-lag-vor-ihrem-wimbledon-sieg-vor-schmerzen-am-boden](https://www.spiegel.de/panorama/leute/venus-williams-lag-vor-ihrem-wimbledon-sieg-vor-schmerzen-am-boden-a-ffa03346-91b0-44f9-8685-2b2b7d4e0ea9#ref=rss)
-### katy
-
-* [https://www.spiegel.de/kultur/katy-perry-und-orlando-bloom-geben-trennung-bekannt](https://www.spiegel.de/kultur/katy-perry-und-orlando-bloom-geben-trennung-bekannt-a-f8e6658d-734e-408f-96aa-ab4a7b337301#ref=rss)
-### perry
-
-* [https://www.spiegel.de/kultur/katy-perry-und-orlando-bloom-geben-trennung-bekannt](https://www.spiegel.de/kultur/katy-perry-und-orlando-bloom-geben-trennung-bekannt-a-f8e6658d-734e-408f-96aa-ab4a7b337301#ref=rss)
-### orlando
-
-* [https://www.spiegel.de/kultur/katy-perry-und-orlando-bloom-geben-trennung-bekannt](https://www.spiegel.de/kultur/katy-perry-und-orlando-bloom-geben-trennung-bekannt-a-f8e6658d-734e-408f-96aa-ab4a7b337301#ref=rss)
-### bloom
-
-* [https://www.spiegel.de/kultur/katy-perry-und-orlando-bloom-geben-trennung-bekannt](https://www.spiegel.de/kultur/katy-perry-und-orlando-bloom-geben-trennung-bekannt-a-f8e6658d-734e-408f-96aa-ab4a7b337301#ref=rss)
-### bekannt
-
-* [https://www.spiegel.de/kultur/katy-perry-und-orlando-bloom-geben-trennung-bekannt](https://www.spiegel.de/kultur/katy-perry-und-orlando-bloom-geben-trennung-bekannt-a-f8e6658d-734e-408f-96aa-ab4a7b337301#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/attacke-in-niederbayern-was-ueber-den-angriff-mit-hammer-und-axt-im-ice-bisher-bekannt-ist](https://www.spiegel.de/panorama/justiz/attacke-in-niederbayern-was-ueber-den-angriff-mit-hammer-und-axt-im-ice-bisher-bekannt-ist-a-20c4f6ac-af85-48fd-8ee7-c6230d908ec4#ref=rss)
-### em
-
-* [https://www.spiegel.de/sport/fussball/em-2025-wie-giulia-gwinn-die-dfb-frauen-zum-titel-fuehren-will](https://www.spiegel.de/sport/fussball/em-2025-wie-giulia-gwinn-die-dfb-frauen-zum-titel-fuehren-will-a-4a7a305e-bb24-4a5b-a45e-7d92c1f08e00#ref=rss)
-* [https://www.spiegel.de/sport/fussball/frauen-em-2025-gleichberechtigung-reicht-nicht-deutschland-braucht-erfolg](https://www.spiegel.de/sport/fussball/frauen-em-2025-gleichberechtigung-reicht-nicht-deutschland-braucht-erfolg-a-c760c411-45d3-440c-81d4-8bce657a7794#ref=rss)
-### 2025
-
-* [https://www.spiegel.de/sport/fussball/em-2025-wie-giulia-gwinn-die-dfb-frauen-zum-titel-fuehren-will](https://www.spiegel.de/sport/fussball/em-2025-wie-giulia-gwinn-die-dfb-frauen-zum-titel-fuehren-will-a-4a7a305e-bb24-4a5b-a45e-7d92c1f08e00#ref=rss)
-* [https://www.spiegel.de/sport/fussball/frauen-em-2025-gleichberechtigung-reicht-nicht-deutschland-braucht-erfolg](https://www.spiegel.de/sport/fussball/frauen-em-2025-gleichberechtigung-reicht-nicht-deutschland-braucht-erfolg-a-c760c411-45d3-440c-81d4-8bce657a7794#ref=rss)
-### giulia
-
-* [https://www.spiegel.de/sport/fussball/em-2025-wie-giulia-gwinn-die-dfb-frauen-zum-titel-fuehren-will](https://www.spiegel.de/sport/fussball/em-2025-wie-giulia-gwinn-die-dfb-frauen-zum-titel-fuehren-will-a-4a7a305e-bb24-4a5b-a45e-7d92c1f08e00#ref=rss)
-### gwinn
-
-* [https://www.spiegel.de/sport/fussball/em-2025-wie-giulia-gwinn-die-dfb-frauen-zum-titel-fuehren-will](https://www.spiegel.de/sport/fussball/em-2025-wie-giulia-gwinn-die-dfb-frauen-zum-titel-fuehren-will-a-4a7a305e-bb24-4a5b-a45e-7d92c1f08e00#ref=rss)
-### dfbfrauen
-
-* [https://www.spiegel.de/sport/fussball/em-2025-wie-giulia-gwinn-die-dfb-frauen-zum-titel-fuehren-will](https://www.spiegel.de/sport/fussball/em-2025-wie-giulia-gwinn-die-dfb-frauen-zum-titel-fuehren-will-a-4a7a305e-bb24-4a5b-a45e-7d92c1f08e00#ref=rss)
-### führen
-
-* [https://www.spiegel.de/sport/fussball/em-2025-wie-giulia-gwinn-die-dfb-frauen-zum-titel-fuehren-will](https://www.spiegel.de/sport/fussball/em-2025-wie-giulia-gwinn-die-dfb-frauen-zum-titel-fuehren-will-a-4a7a305e-bb24-4a5b-a45e-7d92c1f08e00#ref=rss)
-### andrej
-
-* [https://www.spiegel.de/ausland/russland-oelmanager-andrej-badalow-stirbt-nach-fenstersturz](https://www.spiegel.de/ausland/russland-oelmanager-andrej-badalow-stirbt-nach-fenstersturz-a-da988f93-5288-43c1-91b8-d000ff967714#ref=rss)
-### badalow
-
-* [https://www.spiegel.de/ausland/russland-oelmanager-andrej-badalow-stirbt-nach-fenstersturz](https://www.spiegel.de/ausland/russland-oelmanager-andrej-badalow-stirbt-nach-fenstersturz-a-da988f93-5288-43c1-91b8-d000ff967714#ref=rss)
-### behörden
-
-* [https://www.spiegel.de/ausland/russland-oelmanager-andrej-badalow-stirbt-nach-fenstersturz](https://www.spiegel.de/ausland/russland-oelmanager-andrej-badalow-stirbt-nach-fenstersturz-a-da988f93-5288-43c1-91b8-d000ff967714#ref=rss)
-* [https://www.spiegel.de/panorama/spionageverdacht-in-oesterreich-auto-von-kaiser-enkel-habsburg-offenbar-verwanzt](https://www.spiegel.de/panorama/spionageverdacht-in-oesterreich-auto-von-kaiser-enkel-habsburg-offenbar-verwanzt-a-5f096e11-56c8-4707-8b6c-014b74639ed2#ref=rss)
-### sprechen
-
-* [https://www.spiegel.de/ausland/russland-oelmanager-andrej-badalow-stirbt-nach-fenstersturz](https://www.spiegel.de/ausland/russland-oelmanager-andrej-badalow-stirbt-nach-fenstersturz-a-da988f93-5288-43c1-91b8-d000ff967714#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bsw-chefin-sahra-wagenknecht-zeigt-sich-offen-fuer-gespraeche-mit-afd-im-bund](https://www.spiegel.de/politik/deutschland/bsw-chefin-sahra-wagenknecht-zeigt-sich-offen-fuer-gespraeche-mit-afd-im-bund-a-f4ade7fd-169d-42a7-a56e-382ab5e4df39#ref=rss)
-### frage
-
-* [https://www.spiegel.de/politik/deutschland/bsw-chefin-sahra-wagenknecht-zeigt-sich-offen-fuer-gespraeche-mit-afd-im-bund](https://www.spiegel.de/politik/deutschland/bsw-chefin-sahra-wagenknecht-zeigt-sich-offen-fuer-gespraeche-mit-afd-im-bund-a-f4ade7fd-169d-42a7-a56e-382ab5e4df39#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/attacke-in-niederbayern-was-ueber-den-angriff-mit-hammer-und-axt-im-ice-bisher-bekannt-ist](https://www.spiegel.de/panorama/justiz/attacke-in-niederbayern-was-ueber-den-angriff-mit-hammer-und-axt-im-ice-bisher-bekannt-ist-a-20c4f6ac-af85-48fd-8ee7-c6230d908ec4#ref=rss)
-### thüringen
-
-* [https://www.spiegel.de/politik/deutschland/bsw-chefin-sahra-wagenknecht-zeigt-sich-offen-fuer-gespraeche-mit-afd-im-bund](https://www.spiegel.de/politik/deutschland/bsw-chefin-sahra-wagenknecht-zeigt-sich-offen-fuer-gespraeche-mit-afd-im-bund-a-f4ade7fd-169d-42a7-a56e-382ab5e4df39#ref=rss)
-* [https://www.spiegel.de/panorama/waldbraende-mehr-als-tausend-einsatzkraefte-kaempfen-in-ostdeutschland-gegen-die-flammen](https://www.spiegel.de/panorama/waldbraende-mehr-als-tausend-einsatzkraefte-kaempfen-in-ostdeutschland-gegen-die-flammen-a-f905a3cb-e4c1-4f33-8207-0a5c7c504df1#ref=rss)
-### auto
-
-* [https://www.spiegel.de/panorama/spionageverdacht-in-oesterreich-auto-von-kaiser-enkel-habsburg-offenbar-verwanzt](https://www.spiegel.de/panorama/spionageverdacht-in-oesterreich-auto-von-kaiser-enkel-habsburg-offenbar-verwanzt-a-5f096e11-56c8-4707-8b6c-014b74639ed2#ref=rss)
-### führt
-
-* [https://www.spiegel.de/panorama/spionageverdacht-in-oesterreich-auto-von-kaiser-enkel-habsburg-offenbar-verwanzt](https://www.spiegel.de/panorama/spionageverdacht-in-oesterreich-auto-von-kaiser-enkel-habsburg-offenbar-verwanzt-a-5f096e11-56c8-4707-8b6c-014b74639ed2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukrainekrieg-russland-verstaerkt-laut-bnd-einsatz-von-chemiewaffen-in-der-ukraine](https://www.spiegel.de/politik/deutschland/ukrainekrieg-russland-verstaerkt-laut-bnd-einsatz-von-chemiewaffen-in-der-ukraine-a-ad80f04e-ae4b-406f-9734-dd588d0f4a36#ref=rss)
-### gehirn
-
-* [https://www.spiegel.de/wissenschaft/medizin/hirnforschung-im-menschlichen-gehirn-bilden-sich-jeden-tag-frische-nervenzellen](https://www.spiegel.de/wissenschaft/medizin/hirnforschung-im-menschlichen-gehirn-bilden-sich-jeden-tag-frische-nervenzellen-a-496d34aa-a207-4d1b-a24d-9363a9d1a841#ref=rss)
-### frische
-
-* [https://www.spiegel.de/wissenschaft/medizin/hirnforschung-im-menschlichen-gehirn-bilden-sich-jeden-tag-frische-nervenzellen](https://www.spiegel.de/wissenschaft/medizin/hirnforschung-im-menschlichen-gehirn-bilden-sich-jeden-tag-frische-nervenzellen-a-496d34aa-a207-4d1b-a24d-9363a9d1a841#ref=rss)
-### nervenzellen
-
-* [https://www.spiegel.de/wissenschaft/medizin/hirnforschung-im-menschlichen-gehirn-bilden-sich-jeden-tag-frische-nervenzellen](https://www.spiegel.de/wissenschaft/medizin/hirnforschung-im-menschlichen-gehirn-bilden-sich-jeden-tag-frische-nervenzellen-a-496d34aa-a207-4d1b-a24d-9363a9d1a841#ref=rss)
-### düsseldorf
-
-* [https://www.spiegel.de/panorama/duesseldorf-sechsjaehriger-aus-duisburg-ertrinkt-im-rhein](https://www.spiegel.de/panorama/duesseldorf-sechsjaehriger-aus-duisburg-ertrinkt-im-rhein-a-bcaecb4e-5eb2-416a-8ad9-73c3c1aa70b9#ref=rss)
-### duisburg
-
-* [https://www.spiegel.de/panorama/duesseldorf-sechsjaehriger-aus-duisburg-ertrinkt-im-rhein](https://www.spiegel.de/panorama/duesseldorf-sechsjaehriger-aus-duisburg-ertrinkt-im-rhein-a-bcaecb4e-5eb2-416a-8ad9-73c3c1aa70b9#ref=rss)
-### rhein
-
-* [https://www.spiegel.de/panorama/duesseldorf-sechsjaehriger-aus-duisburg-ertrinkt-im-rhein](https://www.spiegel.de/panorama/duesseldorf-sechsjaehriger-aus-duisburg-ertrinkt-im-rhein-a-bcaecb4e-5eb2-416a-8ad9-73c3c1aa70b9#ref=rss)
-### wochen
-
-* [https://www.spiegel.de/panorama/duesseldorf-sechsjaehriger-aus-duisburg-ertrinkt-im-rhein](https://www.spiegel.de/panorama/duesseldorf-sechsjaehriger-aus-duisburg-ertrinkt-im-rhein-a-bcaecb4e-5eb2-416a-8ad9-73c3c1aa70b9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/usa-donald-trump-kuendigt-zoll-briefe-an-handelspartner-an](https://www.spiegel.de/wirtschaft/usa-donald-trump-kuendigt-zoll-briefe-an-handelspartner-an-a-24549029-b80f-4ebf-9073-8d02cfbf70ce#ref=rss)
-### vanille
-
-* [https://www.spiegel.de/wissenschaft/natur/wilde-vanille-geraet-durch-klimawandel-in-gefahr](https://www.spiegel.de/wissenschaft/natur/wilde-vanille-geraet-durch-klimawandel-in-gefahr-a-ea0172b7-4198-4e67-a325-6b24094adaca#ref=rss)
-### hitze
-
-* [https://www.spiegel.de/auto/wetter-extrem-hitze-hebt-betonplatten-auf-mehreren-autobahnen-an](https://www.spiegel.de/auto/wetter-extrem-hitze-hebt-betonplatten-auf-mehreren-autobahnen-an-a-c0597a18-4cc3-4bdb-a9d6-12f4ac976111#ref=rss)
-### mehreren
-
-* [https://www.spiegel.de/auto/wetter-extrem-hitze-hebt-betonplatten-auf-mehreren-autobahnen-an](https://www.spiegel.de/auto/wetter-extrem-hitze-hebt-betonplatten-auf-mehreren-autobahnen-an-a-c0597a18-4cc3-4bdb-a9d6-12f4ac976111#ref=rss)
-### autobahnen
-
-* [https://www.spiegel.de/auto/wetter-extrem-hitze-hebt-betonplatten-auf-mehreren-autobahnen-an](https://www.spiegel.de/auto/wetter-extrem-hitze-hebt-betonplatten-auf-mehreren-autobahnen-an-a-c0597a18-4cc3-4bdb-a9d6-12f4ac976111#ref=rss)
-### kollegium
-
-* [https://www.spiegel.de/panorama/berlin-carl-bolle-grundschule-schulsenatorin-kuendigt-moegliche-konsequenzen-fuers-kollegium-an](https://www.spiegel.de/panorama/berlin-carl-bolle-grundschule-schulsenatorin-kuendigt-moegliche-konsequenzen-fuers-kollegium-an-a-e4a08dee-db29-4ce8-b857-dda7009b40c2#ref=rss)
-### bremerhaven
-
-* [https://www.spiegel.de/wissenschaft/natur/proben-aus-der-antarktis-1-2-millionen-jahre-altes-eis-wird-in-bremerhaven-zersaegt](https://www.spiegel.de/wissenschaft/natur/proben-aus-der-antarktis-1-2-millionen-jahre-altes-eis-wird-in-bremerhaven-zersaegt-a-bb2c1ef0-5e34-4c51-8d6c-b55a74bfc161#ref=rss)
+* [https://www.spiegel.de/kultur/musik/kae-tempest-bisschen-kitschig-aber-was-fuer-ein-akt-der-befreiung-album-der-woche](https://www.spiegel.de/kultur/musik/kae-tempest-bisschen-kitschig-aber-was-fuer-ein-akt-der-befreiung-album-der-woche-a-54c06f96-dc9c-47fb-8a6f-8464b5896a18#ref=rss)
+* [https://www.spiegel.de/stil/lachs-selbst-beizen-so-gehts](https://www.spiegel.de/stil/lachs-selbst-beizen-so-gehts-a-b58b73e9-400c-41d5-96cc-d156d90664bb#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-die-liste-der-toten-generaele](https://www.spiegel.de/ausland/russland-ukraine-krieg-die-liste-der-toten-generaele-a-2ac3f6aa-9e45-4731-b8f1-ae45e953c559#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/wissenschaft/natur/proben-aus-der-antarktis-1-2-millionen-jahre-altes-eis-wird-in-bremerhaven-zersaegt](https://www.spiegel.de/wissenschaft/natur/proben-aus-der-antarktis-1-2-millionen-jahre-altes-eis-wird-in-bremerhaven-zersaegt-a-bb2c1ef0-5e34-4c51-8d6c-b55a74bfc161#ref=rss)
-* [https://www.spiegel.de/sport/fussball/frauen-em-2025-gleichberechtigung-reicht-nicht-deutschland-braucht-erfolg](https://www.spiegel.de/sport/fussball/frauen-em-2025-gleichberechtigung-reicht-nicht-deutschland-braucht-erfolg-a-c760c411-45d3-440c-81d4-8bce657a7794#ref=rss)
-### wehrdienst
+* [https://www.spiegel.de/panorama/justiz/linksextremismus-anklage-gegen-sechs-mutmassliche-gewalttaeter](https://www.spiegel.de/panorama/justiz/linksextremismus-anklage-gegen-sechs-mutmassliche-gewalttaeter-a-e7c6eafe-fa7d-4b10-ae1a-7f7dc6f4a7c3#ref=rss)
+* [https://www.spiegel.de/geschichte/zeitreise-der-spiegel-vor-50-jahren-raus-um-jeden-preis](https://www.spiegel.de/geschichte/zeitreise-der-spiegel-vor-50-jahren-raus-um-jeden-preis-a-e4cc6074-9829-4b20-89f6-53c4eccbe7bd#ref=rss)
+* [https://www.spiegel.de/sport/tour-de-france-2025-fokus-auf-frankreich-deutschland-hofft-auf-florian-lipowitz](https://www.spiegel.de/sport/tour-de-france-2025-fokus-auf-frankreich-deutschland-hofft-auf-florian-lipowitz-a-92dc7448-1a93-4e17-b072-156cedbd4b47#ref=rss)
+### gericht
 
-* [https://www.spiegel.de/politik/deutschland/neuer-wehrdienst-pistorius-will-bis-2029-gut-114-000-freiwillige-rekrutieren](https://www.spiegel.de/politik/deutschland/neuer-wehrdienst-pistorius-will-bis-2029-gut-114-000-freiwillige-rekrutieren-a-15bdcfc9-a6d5-4b32-a333-a64cdd786fca#ref=rss)
-### 2029
+* [https://www.spiegel.de/panorama/justiz/linksextremismus-anklage-gegen-sechs-mutmassliche-gewalttaeter](https://www.spiegel.de/panorama/justiz/linksextremismus-anklage-gegen-sechs-mutmassliche-gewalttaeter-a-e7c6eafe-fa7d-4b10-ae1a-7f7dc6f4a7c3#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/ecstasy-in-der-champagner-flasche-anklage-nach-tod-im-restaurant](https://www.spiegel.de/panorama/justiz/ecstasy-in-der-champagner-flasche-anklage-nach-tod-im-restaurant-a-3ce3958c-4203-4dfd-89e8-067772c433d0#ref=rss)
+* [https://www.spiegel.de/sport/fussball/premier-league-thomas-partey-wegen-vergewaltigung-in-fuenf-faellen-angeklagt](https://www.spiegel.de/sport/fussball/premier-league-thomas-partey-wegen-vergewaltigung-in-fuenf-faellen-angeklagt-a-a55e197c-c25e-4815-8875-e71337d996ed#ref=rss)
+### macht
 
-* [https://www.spiegel.de/politik/deutschland/neuer-wehrdienst-pistorius-will-bis-2029-gut-114-000-freiwillige-rekrutieren](https://www.spiegel.de/politik/deutschland/neuer-wehrdienst-pistorius-will-bis-2029-gut-114-000-freiwillige-rekrutieren-a-15bdcfc9-a6d5-4b32-a333-a64cdd786fca#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-sagt-russland-greift-uns-heute-schon-an-wie-kommt-er-darauf](https://www.spiegel.de/politik/deutschland/friedrich-merz-sagt-russland-greift-uns-heute-schon-an-wie-kommt-er-darauf-a-e635bcda-abf8-4cce-be69-8fa83f916e52#ref=rss)
-### ukrainekrieg
+* [https://www.spiegel.de/politik/deutschland/afd-fraktionsklausur-im-bundestag-keine-strategie-auf-dem-weg-zur-macht](https://www.spiegel.de/politik/deutschland/afd-fraktionsklausur-im-bundestag-keine-strategie-auf-dem-weg-zur-macht-a-a7f13703-81b6-4c23-bbcb-b90b486f0e58#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-und-bsw-wagenknechts-gefaehrlicher-flirt-mit-den-rechtsextremen](https://www.spiegel.de/politik/deutschland/afd-und-bsw-wagenknechts-gefaehrlicher-flirt-mit-den-rechtsextremen-a-1e38eb31-403f-4869-8a65-0f283702bc56#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-atomenergiebehoerde-iaea-meldet-stromausfall-im-atomkraftwerk-saporischschja](https://www.spiegel.de/ausland/ukraine-atomenergiebehoerde-iaea-meldet-stromausfall-im-atomkraftwerk-saporischschja-a-f062c4d4-045b-4f9a-91e2-1fb782af80bb#ref=rss)
+### wirkt
 
-* [https://www.spiegel.de/ausland/ukrainekrieg-luftwaffe-meldet-schwerste-russische-angriffe-seit-kriegbeginn](https://www.spiegel.de/ausland/ukrainekrieg-luftwaffe-meldet-schwerste-russische-angriffe-seit-kriegbeginn-a-08414d88-2f91-4261-b78d-c6380e496fd5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukrainekrieg-russland-verstaerkt-laut-bnd-einsatz-von-chemiewaffen-in-der-ukraine](https://www.spiegel.de/politik/deutschland/ukrainekrieg-russland-verstaerkt-laut-bnd-einsatz-von-chemiewaffen-in-der-ukraine-a-ad80f04e-ae4b-406f-9734-dd588d0f4a36#ref=rss)
-### russische
+* [https://www.spiegel.de/politik/deutschland/afd-fraktionsklausur-im-bundestag-keine-strategie-auf-dem-weg-zur-macht](https://www.spiegel.de/politik/deutschland/afd-fraktionsklausur-im-bundestag-keine-strategie-auf-dem-weg-zur-macht-a-a7f13703-81b6-4c23-bbcb-b90b486f0e58#ref=rss)
+* [https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast](https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast-a-578df558-b833-434f-afd0-00196e78d0e3#ref=rss)
+* [https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast](https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast-a-8af32ded-c689-4e72-9775-f889529fde57#ref=rss)
+### bsw
 
-* [https://www.spiegel.de/ausland/ukrainekrieg-luftwaffe-meldet-schwerste-russische-angriffe-seit-kriegbeginn](https://www.spiegel.de/ausland/ukrainekrieg-luftwaffe-meldet-schwerste-russische-angriffe-seit-kriegbeginn-a-08414d88-2f91-4261-b78d-c6380e496fd5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukrainekrieg-russland-verstaerkt-laut-bnd-einsatz-von-chemiewaffen-in-der-ukraine](https://www.spiegel.de/politik/deutschland/ukrainekrieg-russland-verstaerkt-laut-bnd-einsatz-von-chemiewaffen-in-der-ukraine-a-ad80f04e-ae4b-406f-9734-dd588d0f4a36#ref=rss)
-### viele
+* [https://www.spiegel.de/politik/deutschland/afd-und-bsw-wagenknechts-gefaehrlicher-flirt-mit-den-rechtsextremen](https://www.spiegel.de/politik/deutschland/afd-und-bsw-wagenknechts-gefaehrlicher-flirt-mit-den-rechtsextremen-a-1e38eb31-403f-4869-8a65-0f283702bc56#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-afd-und-bsw-bierpreise-em-2025](https://www.spiegel.de/politik/deutschland/news-des-tages-afd-und-bsw-bierpreise-em-2025-a-82a850cb-ee0a-4395-9f39-24d235ea76da#ref=rss)
+### zeigt
 
-* [https://www.spiegel.de/ausland/ukrainekrieg-luftwaffe-meldet-schwerste-russische-angriffe-seit-kriegbeginn](https://www.spiegel.de/ausland/ukrainekrieg-luftwaffe-meldet-schwerste-russische-angriffe-seit-kriegbeginn-a-08414d88-2f91-4261-b78d-c6380e496fd5#ref=rss)
-* [https://www.spiegel.de/reise/packen-reisen-staunen-mit-leichtigkeit-die-welt-entdecken](https://www.spiegel.de/reise/packen-reisen-staunen-mit-leichtigkeit-die-welt-entdecken-a-7d47ff56-209d-4054-a6df-d7ba1be6d61d#ref=rss)
-### fluglotsen
+* [https://www.spiegel.de/politik/deutschland/afd-und-bsw-wagenknechts-gefaehrlicher-flirt-mit-den-rechtsextremen](https://www.spiegel.de/politik/deutschland/afd-und-bsw-wagenknechts-gefaehrlicher-flirt-mit-den-rechtsextremen-a-1e38eb31-403f-4869-8a65-0f283702bc56#ref=rss)
+* [https://www.spiegel.de/ausland/italien-feuerwehr-zeigt-ausmasse-der-tankstellenexplosion-in-rom-30-verletzte](https://www.spiegel.de/ausland/italien-feuerwehr-zeigt-ausmasse-der-tankstellenexplosion-in-rom-30-verletzte-a-a7e3adf2-d0ea-409e-8efa-0e3d210ade21#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/jens-spahn-und-die-masken-sudhof-bericht-liefert-erkenntnisse-zu-kaeufen-bei-emix](https://www.spiegel.de/panorama/justiz/jens-spahn-und-die-masken-sudhof-bericht-liefert-erkenntnisse-zu-kaeufen-bei-emix-a-66cd774d-073e-4b54-bc78-71dcf9fd91b8#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/wirtschaft/frankreich-fluglotsen-legen-ferienverkehr-lahm](https://www.spiegel.de/wirtschaft/frankreich-fluglotsen-legen-ferienverkehr-lahm-a-d5fdd79a-5a77-4ef2-865b-6c6ccb5977ab#ref=rss)
-### unterhalten
+* [https://www.spiegel.de/ausland/ukraine-atomenergiebehoerde-iaea-meldet-stromausfall-im-atomkraftwerk-saporischschja](https://www.spiegel.de/ausland/ukraine-atomenergiebehoerde-iaea-meldet-stromausfall-im-atomkraftwerk-saporischschja-a-f062c4d4-045b-4f9a-91e2-1fb782af80bb#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-die-liste-der-toten-generaele](https://www.spiegel.de/ausland/russland-ukraine-krieg-die-liste-der-toten-generaele-a-2ac3f6aa-9e45-4731-b8f1-ae45e953c559#ref=rss)
+### iaea
 
-* [https://www.spiegel.de/stil/gastronomie-lohnt-es-sich-ein-sternerestaurant-zu-betreiben](https://www.spiegel.de/stil/gastronomie-lohnt-es-sich-ein-sternerestaurant-zu-betreiben-a-42511b90-217f-4956-a57d-3bc59471875b#ref=rss)
-* [https://www.spiegel.de/panorama/leute/amal-und-george-clooney-sacken-die-handys-ihrer-gaeste-ein](https://www.spiegel.de/panorama/leute/amal-und-george-clooney-sacken-die-handys-ihrer-gaeste-ein-a-b2ab09a1-3a00-4895-b359-9661a251027f#ref=rss)
-### packen
+* [https://www.spiegel.de/ausland/ukraine-atomenergiebehoerde-iaea-meldet-stromausfall-im-atomkraftwerk-saporischschja](https://www.spiegel.de/ausland/ukraine-atomenergiebehoerde-iaea-meldet-stromausfall-im-atomkraftwerk-saporischschja-a-f062c4d4-045b-4f9a-91e2-1fb782af80bb#ref=rss)
+* [https://www.spiegel.de/ausland/iran-atominspektoren-der-iaea-verlassen-iran](https://www.spiegel.de/ausland/iran-atominspektoren-der-iaea-verlassen-iran-a-074e7a3a-28dd-4987-a00b-6eebf5279c16#ref=rss)
+### palästinenser
 
-* [https://www.spiegel.de/reise/packen-reisen-staunen-mit-leichtigkeit-die-welt-entdecken](https://www.spiegel.de/reise/packen-reisen-staunen-mit-leichtigkeit-die-welt-entdecken-a-7d47ff56-209d-4054-a6df-d7ba1be6d61d#ref=rss)
-### reisen
+* [https://www.spiegel.de/ausland/israel-deutsche-diplomaten-fordern-ende-der-siedlergewalt-im-westjordanland](https://www.spiegel.de/ausland/israel-deutsche-diplomaten-fordern-ende-der-siedlergewalt-im-westjordanland-a-af43b07d-5c71-4ae9-bd8b-b9847b2109ee#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-angriffe-auf-hilfesuchende-dreimal-ging-er-hin-den-vierten-versuch-ueberlebte-er-nicht](https://www.spiegel.de/ausland/gaza-angriffe-auf-hilfesuchende-dreimal-ging-er-hin-den-vierten-versuch-ueberlebte-er-nicht-a-b97b7078-377a-4593-bfce-a9ff3acc2294#ref=rss)
+* [https://www.spiegel.de/ausland/uno-zaehlt-mehr-als-500-tote-in-naehe-von-verteilungszentren-in-gaza](https://www.spiegel.de/ausland/uno-zaehlt-mehr-als-500-tote-in-naehe-von-verteilungszentren-in-gaza-a-dd61bb21-e51d-4f1c-a577-78462ad7da72#ref=rss)
+### 2025
 
-* [https://www.spiegel.de/reise/packen-reisen-staunen-mit-leichtigkeit-die-welt-entdecken](https://www.spiegel.de/reise/packen-reisen-staunen-mit-leichtigkeit-die-welt-entdecken-a-7d47ff56-209d-4054-a6df-d7ba1be6d61d#ref=rss)
-### liegt
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-afd-und-bsw-bierpreise-em-2025](https://www.spiegel.de/politik/deutschland/news-des-tages-afd-und-bsw-bierpreise-em-2025-a-82a850cb-ee0a-4395-9f39-24d235ea76da#ref=rss)
+* [https://www.spiegel.de/sport/fussball/klub-wm-2025-al-hilal-und-der-milliardenlauf-ins-viertelfinale](https://www.spiegel.de/sport/fussball/klub-wm-2025-al-hilal-und-der-milliardenlauf-ins-viertelfinale-a-9d035c7e-779a-4fab-87cc-204dde4f8e7d#ref=rss)
+* [https://www.spiegel.de/sport/tour-de-france-2025-fokus-auf-frankreich-deutschland-hofft-auf-florian-lipowitz](https://www.spiegel.de/sport/tour-de-france-2025-fokus-auf-frankreich-deutschland-hofft-auf-florian-lipowitz-a-92dc7448-1a93-4e17-b072-156cedbd4b47#ref=rss)
+### spielplätze
 
-* [https://www.spiegel.de/reise/packen-reisen-staunen-mit-leichtigkeit-die-welt-entdecken](https://www.spiegel.de/reise/packen-reisen-staunen-mit-leichtigkeit-die-welt-entdecken-a-7d47ff56-209d-4054-a6df-d7ba1be6d61d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/deutschlandtrend-der-ard-spd-liegt-in-umfrage-noch-bei-13-prozent](https://www.spiegel.de/politik/deutschland/deutschlandtrend-der-ard-spd-liegt-in-umfrage-noch-bei-13-prozent-a-6e2ed7e2-f54f-4ca7-a247-fc1bb9fe9a02#ref=rss)
-### deutschlandtrend
+* [https://www.spiegel.de/panorama/gesellschaft/spielplatzschild-debatte-in-koeln-in-koeln-werden-spielplaetze-gestern-heute-und-auch-morgen-spielplaetze-heissen](https://www.spiegel.de/panorama/gesellschaft/spielplatzschild-debatte-in-koeln-in-koeln-werden-spielplaetze-gestern-heute-und-auch-morgen-spielplaetze-heissen-a-bc88be05-cf71-4451-a269-b286c798c568#ref=rss)
+### stadt
 
-* [https://www.spiegel.de/politik/deutschland/deutschlandtrend-der-ard-spd-liegt-in-umfrage-noch-bei-13-prozent](https://www.spiegel.de/politik/deutschland/deutschlandtrend-der-ard-spd-liegt-in-umfrage-noch-bei-13-prozent-a-6e2ed7e2-f54f-4ca7-a247-fc1bb9fe9a02#ref=rss)
-### spd
+* [https://www.spiegel.de/panorama/gesellschaft/spielplatzschild-debatte-in-koeln-in-koeln-werden-spielplaetze-gestern-heute-und-auch-morgen-spielplaetze-heissen](https://www.spiegel.de/panorama/gesellschaft/spielplatzschild-debatte-in-koeln-in-koeln-werden-spielplaetze-gestern-heute-und-auch-morgen-spielplaetze-heissen-a-bc88be05-cf71-4451-a269-b286c798c568#ref=rss)
+* [https://www.spiegel.de/panorama/freibad-stadt-bueren-verteidigt-plakat-mit-grapschender-frau](https://www.spiegel.de/panorama/freibad-stadt-bueren-verteidigt-plakat-mit-grapschender-frau-a-5a9fe6d4-42b7-46de-8a30-a17b47f57d2a#ref=rss)
+### gaza
 
-* [https://www.spiegel.de/politik/deutschland/deutschlandtrend-der-ard-spd-liegt-in-umfrage-noch-bei-13-prozent](https://www.spiegel.de/politik/deutschland/deutschlandtrend-der-ard-spd-liegt-in-umfrage-noch-bei-13-prozent-a-6e2ed7e2-f54f-4ca7-a247-fc1bb9fe9a02#ref=rss)
-### laut
+* [https://www.spiegel.de/ausland/gaza-angriffe-auf-hilfesuchende-dreimal-ging-er-hin-den-vierten-versuch-ueberlebte-er-nicht](https://www.spiegel.de/ausland/gaza-angriffe-auf-hilfesuchende-dreimal-ging-er-hin-den-vierten-versuch-ueberlebte-er-nicht-a-b97b7078-377a-4593-bfce-a9ff3acc2294#ref=rss)
+* [https://www.spiegel.de/ausland/uno-zaehlt-mehr-als-500-tote-in-naehe-von-verteilungszentren-in-gaza](https://www.spiegel.de/ausland/uno-zaehlt-mehr-als-500-tote-in-naehe-von-verteilungszentren-in-gaza-a-dd61bb21-e51d-4f1c-a577-78462ad7da72#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/politik/deutschland/ukrainekrieg-russland-verstaerkt-laut-bnd-einsatz-von-chemiewaffen-in-der-ukraine](https://www.spiegel.de/politik/deutschland/ukrainekrieg-russland-verstaerkt-laut-bnd-einsatz-von-chemiewaffen-in-der-ukraine-a-ad80f04e-ae4b-406f-9734-dd588d0f4a36#ref=rss)
-### bnd
+* [https://www.spiegel.de/ausland/gaza-angriffe-auf-hilfesuchende-dreimal-ging-er-hin-den-vierten-versuch-ueberlebte-er-nicht](https://www.spiegel.de/ausland/gaza-angriffe-auf-hilfesuchende-dreimal-ging-er-hin-den-vierten-versuch-ueberlebte-er-nicht-a-b97b7078-377a-4593-bfce-a9ff3acc2294#ref=rss)
+* [https://www.spiegel.de/ausland/uno-zaehlt-mehr-als-500-tote-in-naehe-von-verteilungszentren-in-gaza](https://www.spiegel.de/ausland/uno-zaehlt-mehr-als-500-tote-in-naehe-von-verteilungszentren-in-gaza-a-dd61bb21-e51d-4f1c-a577-78462ad7da72#ref=rss)
+* [https://www.spiegel.de/stil/lachs-selbst-beizen-so-gehts](https://www.spiegel.de/stil/lachs-selbst-beizen-so-gehts-a-b58b73e9-400c-41d5-96cc-d156d90664bb#ref=rss)
+### bayern
 
-* [https://www.spiegel.de/politik/deutschland/ukrainekrieg-russland-verstaerkt-laut-bnd-einsatz-von-chemiewaffen-in-der-ukraine](https://www.spiegel.de/politik/deutschland/ukrainekrieg-russland-verstaerkt-laut-bnd-einsatz-von-chemiewaffen-in-der-ukraine-a-ad80f04e-ae4b-406f-9734-dd588d0f4a36#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-sagt-russland-greift-uns-heute-schon-an-wie-kommt-er-darauf](https://www.spiegel.de/politik/deutschland/friedrich-merz-sagt-russland-greift-uns-heute-schon-an-wie-kommt-er-darauf-a-e635bcda-abf8-4cce-be69-8fa83f916e52#ref=rss)
-### einsatz
+* [https://www.spiegel.de/panorama/justiz/ecstasy-in-der-champagner-flasche-anklage-nach-tod-im-restaurant](https://www.spiegel.de/panorama/justiz/ecstasy-in-der-champagner-flasche-anklage-nach-tod-im-restaurant-a-3ce3958c-4203-4dfd-89e8-067772c433d0#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-wunschspieler-nico-williams-verlaengert-in-bilbao](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-wunschspieler-nico-williams-verlaengert-in-bilbao-a-3b9e0759-9423-4002-a951-e6a9a8120013#ref=rss)
+### fc
 
-* [https://www.spiegel.de/politik/deutschland/ukrainekrieg-russland-verstaerkt-laut-bnd-einsatz-von-chemiewaffen-in-der-ukraine](https://www.spiegel.de/politik/deutschland/ukrainekrieg-russland-verstaerkt-laut-bnd-einsatz-von-chemiewaffen-in-der-ukraine-a-ad80f04e-ae4b-406f-9734-dd588d0f4a36#ref=rss)
-### chemiewaffen
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-wunschspieler-nico-williams-verlaengert-in-bilbao](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-wunschspieler-nico-williams-verlaengert-in-bilbao-a-3b9e0759-9423-4002-a951-e6a9a8120013#ref=rss)
+### anklage
 
-* [https://www.spiegel.de/politik/deutschland/ukrainekrieg-russland-verstaerkt-laut-bnd-einsatz-von-chemiewaffen-in-der-ukraine](https://www.spiegel.de/politik/deutschland/ukrainekrieg-russland-verstaerkt-laut-bnd-einsatz-von-chemiewaffen-in-der-ukraine-a-ad80f04e-ae4b-406f-9734-dd588d0f4a36#ref=rss)
-### kommunikationsstrategie
+* [https://www.spiegel.de/panorama/justiz/linksextremismus-anklage-gegen-sechs-mutmassliche-gewalttaeter](https://www.spiegel.de/panorama/justiz/linksextremismus-anklage-gegen-sechs-mutmassliche-gewalttaeter-a-e7c6eafe-fa7d-4b10-ae1a-7f7dc6f4a7c3#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/ecstasy-in-der-champagner-flasche-anklage-nach-tod-im-restaurant](https://www.spiegel.de/panorama/justiz/ecstasy-in-der-champagner-flasche-anklage-nach-tod-im-restaurant-a-3ce3958c-4203-4dfd-89e8-067772c433d0#ref=rss)
+### sechs
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-sagt-russland-greift-uns-heute-schon-an-wie-kommt-er-darauf](https://www.spiegel.de/politik/deutschland/friedrich-merz-sagt-russland-greift-uns-heute-schon-an-wie-kommt-er-darauf-a-e635bcda-abf8-4cce-be69-8fa83f916e52#ref=rss)
-### bisher
+* [https://www.spiegel.de/panorama/justiz/linksextremismus-anklage-gegen-sechs-mutmassliche-gewalttaeter](https://www.spiegel.de/panorama/justiz/linksextremismus-anklage-gegen-sechs-mutmassliche-gewalttaeter-a-e7c6eafe-fa7d-4b10-ae1a-7f7dc6f4a7c3#ref=rss)
+### mutmaßliche
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-sagt-russland-greift-uns-heute-schon-an-wie-kommt-er-darauf](https://www.spiegel.de/politik/deutschland/friedrich-merz-sagt-russland-greift-uns-heute-schon-an-wie-kommt-er-darauf-a-e635bcda-abf8-4cce-be69-8fa83f916e52#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/attacke-in-niederbayern-was-ueber-den-angriff-mit-hammer-und-axt-im-ice-bisher-bekannt-ist](https://www.spiegel.de/panorama/justiz/attacke-in-niederbayern-was-ueber-den-angriff-mit-hammer-und-axt-im-ice-bisher-bekannt-ist-a-20c4f6ac-af85-48fd-8ee7-c6230d908ec4#ref=rss)
-### dahinter
+* [https://www.spiegel.de/panorama/justiz/linksextremismus-anklage-gegen-sechs-mutmassliche-gewalttaeter](https://www.spiegel.de/panorama/justiz/linksextremismus-anklage-gegen-sechs-mutmassliche-gewalttaeter-a-e7c6eafe-fa7d-4b10-ae1a-7f7dc6f4a7c3#ref=rss)
+### gruppe
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-sagt-russland-greift-uns-heute-schon-an-wie-kommt-er-darauf](https://www.spiegel.de/politik/deutschland/friedrich-merz-sagt-russland-greift-uns-heute-schon-an-wie-kommt-er-darauf-a-e635bcda-abf8-4cce-be69-8fa83f916e52#ref=rss)
-* [https://www.spiegel.de/panorama/leute/amal-und-george-clooney-sacken-die-handys-ihrer-gaeste-ein](https://www.spiegel.de/panorama/leute/amal-und-george-clooney-sacken-die-handys-ihrer-gaeste-ein-a-b2ab09a1-3a00-4895-b359-9661a251027f#ref=rss)
-### steckt
+* [https://www.spiegel.de/panorama/justiz/linksextremismus-anklage-gegen-sechs-mutmassliche-gewalttaeter](https://www.spiegel.de/panorama/justiz/linksextremismus-anklage-gegen-sechs-mutmassliche-gewalttaeter-a-e7c6eafe-fa7d-4b10-ae1a-7f7dc6f4a7c3#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/ecstasy-in-der-champagner-flasche-anklage-nach-tod-im-restaurant](https://www.spiegel.de/panorama/justiz/ecstasy-in-der-champagner-flasche-anklage-nach-tod-im-restaurant-a-3ce3958c-4203-4dfd-89e8-067772c433d0#ref=rss)
+### verantworten
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-sagt-russland-greift-uns-heute-schon-an-wie-kommt-er-darauf](https://www.spiegel.de/politik/deutschland/friedrich-merz-sagt-russland-greift-uns-heute-schon-an-wie-kommt-er-darauf-a-e635bcda-abf8-4cce-be69-8fa83f916e52#ref=rss)
-* [https://www.spiegel.de/panorama/leute/amal-und-george-clooney-sacken-die-handys-ihrer-gaeste-ein](https://www.spiegel.de/panorama/leute/amal-und-george-clooney-sacken-die-handys-ihrer-gaeste-ein-a-b2ab09a1-3a00-4895-b359-9661a251027f#ref=rss)
-### amal
+* [https://www.spiegel.de/panorama/justiz/linksextremismus-anklage-gegen-sechs-mutmassliche-gewalttaeter](https://www.spiegel.de/panorama/justiz/linksextremismus-anklage-gegen-sechs-mutmassliche-gewalttaeter-a-e7c6eafe-fa7d-4b10-ae1a-7f7dc6f4a7c3#ref=rss)
+* [https://www.spiegel.de/sport/fussball/premier-league-thomas-partey-wegen-vergewaltigung-in-fuenf-faellen-angeklagt](https://www.spiegel.de/sport/fussball/premier-league-thomas-partey-wegen-vergewaltigung-in-fuenf-faellen-angeklagt-a-a55e197c-c25e-4815-8875-e71337d996ed#ref=rss)
+### strategie
 
-* [https://www.spiegel.de/panorama/leute/amal-und-george-clooney-sacken-die-handys-ihrer-gaeste-ein](https://www.spiegel.de/panorama/leute/amal-und-george-clooney-sacken-die-handys-ihrer-gaeste-ein-a-b2ab09a1-3a00-4895-b359-9661a251027f#ref=rss)
-### george
+* [https://www.spiegel.de/politik/deutschland/afd-fraktionsklausur-im-bundestag-keine-strategie-auf-dem-weg-zur-macht](https://www.spiegel.de/politik/deutschland/afd-fraktionsklausur-im-bundestag-keine-strategie-auf-dem-weg-zur-macht-a-a7f13703-81b6-4c23-bbcb-b90b486f0e58#ref=rss)
+* [https://www.spiegel.de/panorama/leute/ross-antony-so-loest-er-konflikte-mit-seinem-ehemann-paul](https://www.spiegel.de/panorama/leute/ross-antony-so-loest-er-konflikte-mit-seinem-ehemann-paul-a-f5356e57-74f7-42ad-8745-24aef6220386#ref=rss)
+### spiegel
 
-* [https://www.spiegel.de/panorama/leute/amal-und-george-clooney-sacken-die-handys-ihrer-gaeste-ein](https://www.spiegel.de/panorama/leute/amal-und-george-clooney-sacken-die-handys-ihrer-gaeste-ein-a-b2ab09a1-3a00-4895-b359-9661a251027f#ref=rss)
-### clooney
+* [https://www.spiegel.de/politik/deutschland/afd-fraktionsklausur-im-bundestag-keine-strategie-auf-dem-weg-zur-macht](https://www.spiegel.de/politik/deutschland/afd-fraktionsklausur-im-bundestag-keine-strategie-auf-dem-weg-zur-macht-a-a7f13703-81b6-4c23-bbcb-b90b486f0e58#ref=rss)
+* [https://www.spiegel.de/geschichte/zeitreise-der-spiegel-vor-50-jahren-raus-um-jeden-preis](https://www.spiegel.de/geschichte/zeitreise-der-spiegel-vor-50-jahren-raus-um-jeden-preis-a-e4cc6074-9829-4b20-89f6-53c4eccbe7bd#ref=rss)
+### wagenknecht
 
-* [https://www.spiegel.de/panorama/leute/amal-und-george-clooney-sacken-die-handys-ihrer-gaeste-ein](https://www.spiegel.de/panorama/leute/amal-und-george-clooney-sacken-die-handys-ihrer-gaeste-ein-a-b2ab09a1-3a00-4895-b359-9661a251027f#ref=rss)
-### waldbrände
+* [https://www.spiegel.de/politik/deutschland/afd-und-bsw-wagenknechts-gefaehrlicher-flirt-mit-den-rechtsextremen](https://www.spiegel.de/politik/deutschland/afd-und-bsw-wagenknechts-gefaehrlicher-flirt-mit-den-rechtsextremen-a-1e38eb31-403f-4869-8a65-0f283702bc56#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-afd-und-bsw-bierpreise-em-2025](https://www.spiegel.de/politik/deutschland/news-des-tages-afd-und-bsw-bierpreise-em-2025-a-82a850cb-ee0a-4395-9f39-24d235ea76da#ref=rss)
+### offen
 
-* [https://www.spiegel.de/panorama/waldbraende-mehr-als-tausend-einsatzkraefte-kaempfen-in-ostdeutschland-gegen-die-flammen](https://www.spiegel.de/panorama/waldbraende-mehr-als-tausend-einsatzkraefte-kaempfen-in-ostdeutschland-gegen-die-flammen-a-f905a3cb-e4c1-4f33-8207-0a5c7c504df1#ref=rss)
-### jamie
+* [https://www.spiegel.de/politik/deutschland/afd-und-bsw-wagenknechts-gefaehrlicher-flirt-mit-den-rechtsextremen](https://www.spiegel.de/politik/deutschland/afd-und-bsw-wagenknechts-gefaehrlicher-flirt-mit-den-rechtsextremen-a-1e38eb31-403f-4869-8a65-0f283702bc56#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-afd-und-bsw-bierpreise-em-2025](https://www.spiegel.de/politik/deutschland/news-des-tages-afd-und-bsw-bierpreise-em-2025-a-82a850cb-ee0a-4395-9f39-24d235ea76da#ref=rss)
+### atomenergiebehörde
 
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-jamie-gittens-wechselt-fuer-viel-geld-zum-fc-chelsea](https://www.spiegel.de/sport/fussball/borussia-dortmund-jamie-gittens-wechselt-fuer-viel-geld-zum-fc-chelsea-a-35123e04-bc1d-4f78-839b-2d322b529f76#ref=rss)
-### gittens
+* [https://www.spiegel.de/ausland/ukraine-atomenergiebehoerde-iaea-meldet-stromausfall-im-atomkraftwerk-saporischschja](https://www.spiegel.de/ausland/ukraine-atomenergiebehoerde-iaea-meldet-stromausfall-im-atomkraftwerk-saporischschja-a-f062c4d4-045b-4f9a-91e2-1fb782af80bb#ref=rss)
+* [https://www.spiegel.de/ausland/iran-atominspektoren-der-iaea-verlassen-iran](https://www.spiegel.de/ausland/iran-atominspektoren-der-iaea-verlassen-iran-a-074e7a3a-28dd-4987-a00b-6eebf5279c16#ref=rss)
+### ali
 
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-jamie-gittens-wechselt-fuer-viel-geld-zum-fc-chelsea](https://www.spiegel.de/sport/fussball/borussia-dortmund-jamie-gittens-wechselt-fuer-viel-geld-zum-fc-chelsea-a-35123e04-bc1d-4f78-839b-2d322b529f76#ref=rss)
-### bvb
+* [https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast](https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast-a-578df558-b833-434f-afd0-00196e78d0e3#ref=rss)
+* [https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast](https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast-a-8af32ded-c689-4e72-9775-f889529fde57#ref=rss)
+### khamenei
 
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-jamie-gittens-wechselt-fuer-viel-geld-zum-fc-chelsea](https://www.spiegel.de/sport/fussball/borussia-dortmund-jamie-gittens-wechselt-fuer-viel-geld-zum-fc-chelsea-a-35123e04-bc1d-4f78-839b-2d322b529f76#ref=rss)
-### handelspartner
+* [https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast](https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast-a-578df558-b833-434f-afd0-00196e78d0e3#ref=rss)
+* [https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast](https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast-a-8af32ded-c689-4e72-9775-f889529fde57#ref=rss)
+### angriffen
 
-* [https://www.spiegel.de/wirtschaft/usa-donald-trump-kuendigt-zoll-briefe-an-handelspartner-an](https://www.spiegel.de/wirtschaft/usa-donald-trump-kuendigt-zoll-briefe-an-handelspartner-an-a-24549029-b80f-4ebf-9073-8d02cfbf70ce#ref=rss)
-### angriff
+* [https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast](https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast-a-578df558-b833-434f-afd0-00196e78d0e3#ref=rss)
+* [https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast](https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast-a-8af32ded-c689-4e72-9775-f889529fde57#ref=rss)
+### podcast
 
-* [https://www.spiegel.de/panorama/justiz/attacke-in-niederbayern-was-ueber-den-angriff-mit-hammer-und-axt-im-ice-bisher-bekannt-ist](https://www.spiegel.de/panorama/justiz/attacke-in-niederbayern-was-ueber-den-angriff-mit-hammer-und-axt-im-ice-bisher-bekannt-ist-a-20c4f6ac-af85-48fd-8ee7-c6230d908ec4#ref=rss)
-### ice
+* [https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast](https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast-a-578df558-b833-434f-afd0-00196e78d0e3#ref=rss)
+* [https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast](https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast-a-8af32ded-c689-4e72-9775-f889529fde57#ref=rss)
+### iranische
 
-* [https://www.spiegel.de/panorama/justiz/attacke-in-niederbayern-was-ueber-den-angriff-mit-hammer-und-axt-im-ice-bisher-bekannt-ist](https://www.spiegel.de/panorama/justiz/attacke-in-niederbayern-was-ueber-den-angriff-mit-hammer-und-axt-im-ice-bisher-bekannt-ist-a-20c4f6ac-af85-48fd-8ee7-c6230d908ec4#ref=rss)
+* [https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast](https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast-a-578df558-b833-434f-afd0-00196e78d0e3#ref=rss)
+* [https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast](https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast-a-8af32ded-c689-4e72-9775-f889529fde57#ref=rss)
+### gefestigt
+
+* [https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast](https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast-a-578df558-b833-434f-afd0-00196e78d0e3#ref=rss)
+* [https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast](https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast-a-8af32ded-c689-4e72-9775-f889529fde57#ref=rss)
+### spiegelreporterin
+
+* [https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast](https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast-a-578df558-b833-434f-afd0-00196e78d0e3#ref=rss)
+* [https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast](https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast-a-8af32ded-c689-4e72-9775-f889529fde57#ref=rss)
+### susanne
+
+* [https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast](https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast-a-578df558-b833-434f-afd0-00196e78d0e3#ref=rss)
+* [https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast](https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast-a-8af32ded-c689-4e72-9775-f889529fde57#ref=rss)
+### koelbl
+
+* [https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast](https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast-a-578df558-b833-434f-afd0-00196e78d0e3#ref=rss)
+* [https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast](https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast-a-8af32ded-c689-4e72-9775-f889529fde57#ref=rss)
+### erklärt
+
+* [https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast](https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast-a-578df558-b833-434f-afd0-00196e78d0e3#ref=rss)
+* [https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast](https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast-a-8af32ded-c689-4e72-9775-f889529fde57#ref=rss)
+### mullahs
+
+* [https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast](https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast-a-578df558-b833-434f-afd0-00196e78d0e3#ref=rss)
+* [https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast](https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast-a-8af32ded-c689-4e72-9775-f889529fde57#ref=rss)
+### widerstand
+
+* [https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast](https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast-a-578df558-b833-434f-afd0-00196e78d0e3#ref=rss)
+* [https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast](https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast-a-8af32ded-c689-4e72-9775-f889529fde57#ref=rss)
+### unterdrücken
+
+* [https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast](https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast-a-578df558-b833-434f-afd0-00196e78d0e3#ref=rss)
+* [https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast](https://www.spiegel.de/ausland/iran-wie-sich-das-regime-von-ali-khamenei-trotz-angriffen-von-israel-und-usa-haelt-podcast-a-8af32ded-c689-4e72-9775-f889529fde57#ref=rss)
+### westjordanland
+
+* [https://www.spiegel.de/ausland/israel-deutsche-diplomaten-fordern-ende-der-siedlergewalt-im-westjordanland](https://www.spiegel.de/ausland/israel-deutsche-diplomaten-fordern-ende-der-siedlergewalt-im-westjordanland-a-af43b07d-5c71-4ae9-bd8b-b9847b2109ee#ref=rss)
+### genommen
+
+* [https://www.spiegel.de/ausland/israel-deutsche-diplomaten-fordern-ende-der-siedlergewalt-im-westjordanland](https://www.spiegel.de/ausland/israel-deutsche-diplomaten-fordern-ende-der-siedlergewalt-im-westjordanland-a-af43b07d-5c71-4ae9-bd8b-b9847b2109ee#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/goettingen-23-jaehrige-nach-leichenfund-verhaftet](https://www.spiegel.de/panorama/justiz/goettingen-23-jaehrige-nach-leichenfund-verhaftet-a-b655d02b-6651-458a-ae75-3cd0b50a8e9b#ref=rss)
+### 1975
+
+* [https://www.spiegel.de/geschichte/zeitreise-der-spiegel-vor-50-jahren-raus-um-jeden-preis](https://www.spiegel.de/geschichte/zeitreise-der-spiegel-vor-50-jahren-raus-um-jeden-preis-a-e4cc6074-9829-4b20-89f6-53c4eccbe7bd#ref=rss)
+### wirtschaftskrise
+
+* [https://www.spiegel.de/geschichte/zeitreise-der-spiegel-vor-50-jahren-raus-um-jeden-preis](https://www.spiegel.de/geschichte/zeitreise-der-spiegel-vor-50-jahren-raus-um-jeden-preis-a-e4cc6074-9829-4b20-89f6-53c4eccbe7bd#ref=rss)
+### jahres
+
+* [https://www.spiegel.de/geschichte/zeitreise-der-spiegel-vor-50-jahren-raus-um-jeden-preis](https://www.spiegel.de/geschichte/zeitreise-der-spiegel-vor-50-jahren-raus-um-jeden-preis-a-e4cc6074-9829-4b20-89f6-53c4eccbe7bd#ref=rss)
+* [https://www.spiegel.de/kultur/musik/doechii-beim-splash-grammy-gewinnerin-live-bei-festival-in-sachsen-anhalt](https://www.spiegel.de/kultur/musik/doechii-beim-splash-grammy-gewinnerin-live-bei-festival-in-sachsen-anhalt-a-7e3744ea-32a9-4d39-9682-45aad5880fa0#ref=rss)
+### besonders
+
+* [https://www.spiegel.de/geschichte/zeitreise-der-spiegel-vor-50-jahren-raus-um-jeden-preis](https://www.spiegel.de/geschichte/zeitreise-der-spiegel-vor-50-jahren-raus-um-jeden-preis-a-e4cc6074-9829-4b20-89f6-53c4eccbe7bd#ref=rss)
+* [https://www.spiegel.de/sport/tour-de-france-2025-fokus-auf-frankreich-deutschland-hofft-auf-florian-lipowitz](https://www.spiegel.de/sport/tour-de-france-2025-fokus-auf-frankreich-deutschland-hofft-auf-florian-lipowitz-a-92dc7448-1a93-4e17-b072-156cedbd4b47#ref=rss)
+### doechii
+
+* [https://www.spiegel.de/kultur/musik/doechii-beim-splash-grammy-gewinnerin-live-bei-festival-in-sachsen-anhalt](https://www.spiegel.de/kultur/musik/doechii-beim-splash-grammy-gewinnerin-live-bei-festival-in-sachsen-anhalt-a-7e3744ea-32a9-4d39-9682-45aad5880fa0#ref=rss)
+### splash
+
+* [https://www.spiegel.de/kultur/musik/doechii-beim-splash-grammy-gewinnerin-live-bei-festival-in-sachsen-anhalt](https://www.spiegel.de/kultur/musik/doechii-beim-splash-grammy-gewinnerin-live-bei-festival-in-sachsen-anhalt-a-7e3744ea-32a9-4d39-9682-45aad5880fa0#ref=rss)
+### gewann
+
+* [https://www.spiegel.de/kultur/musik/doechii-beim-splash-grammy-gewinnerin-live-bei-festival-in-sachsen-anhalt](https://www.spiegel.de/kultur/musik/doechii-beim-splash-grammy-gewinnerin-live-bei-festival-in-sachsen-anhalt-a-7e3744ea-32a9-4d39-9682-45aad5880fa0#ref=rss)
+* [https://www.spiegel.de/sport/tennis/wimbledon-laura-siegemund-gewinnt-gegen-madison-keys-und-steht-im-achtelfinale](https://www.spiegel.de/sport/tennis/wimbledon-laura-siegemund-gewinnt-gegen-madison-keys-und-steht-im-achtelfinale-a-7c61b0b5-1fbd-4534-a7c0-3c27c2202fa6#ref=rss)
+### verfassungsgericht
+
+* [https://www.spiegel.de/panorama/justiz/hamburg-volksinitiative-schluss-mit-gendersprache-scheitert-vor-verfassungsgericht](https://www.spiegel.de/panorama/justiz/hamburg-volksinitiative-schluss-mit-gendersprache-scheitert-vor-verfassungsgericht-a-1d9c6d69-cf60-43ec-8e6d-8ea66461acf1#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-afd-und-bsw-bierpreise-em-2025](https://www.spiegel.de/politik/deutschland/news-des-tages-afd-und-bsw-bierpreise-em-2025-a-82a850cb-ee0a-4395-9f39-24d235ea76da#ref=rss)
+* [https://www.spiegel.de/sport/tour-de-france-2025-fokus-auf-frankreich-deutschland-hofft-auf-florian-lipowitz](https://www.spiegel.de/sport/tour-de-france-2025-fokus-auf-frankreich-deutschland-hofft-auf-florian-lipowitz-a-92dc7448-1a93-4e17-b072-156cedbd4b47#ref=rss)
+### kae
+
+* [https://www.spiegel.de/kultur/musik/kae-tempest-bisschen-kitschig-aber-was-fuer-ein-akt-der-befreiung-album-der-woche](https://www.spiegel.de/kultur/musik/kae-tempest-bisschen-kitschig-aber-was-fuer-ein-akt-der-befreiung-album-der-woche-a-54c06f96-dc9c-47fb-8a6f-8464b5896a18#ref=rss)
+### tempest
+
+* [https://www.spiegel.de/kultur/musik/kae-tempest-bisschen-kitschig-aber-was-fuer-ein-akt-der-befreiung-album-der-woche](https://www.spiegel.de/kultur/musik/kae-tempest-bisschen-kitschig-aber-was-fuer-ein-akt-der-befreiung-album-der-woche-a-54c06f96-dc9c-47fb-8a6f-8464b5896a18#ref=rss)
+### album
+
+* [https://www.spiegel.de/kultur/musik/kae-tempest-bisschen-kitschig-aber-was-fuer-ein-akt-der-befreiung-album-der-woche](https://www.spiegel.de/kultur/musik/kae-tempest-bisschen-kitschig-aber-was-fuer-ein-akt-der-befreiung-album-der-woche-a-54c06f96-dc9c-47fb-8a6f-8464b5896a18#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/kultur/musik/kae-tempest-bisschen-kitschig-aber-was-fuer-ein-akt-der-befreiung-album-der-woche](https://www.spiegel.de/kultur/musik/kae-tempest-bisschen-kitschig-aber-was-fuer-ein-akt-der-befreiung-album-der-woche-a-54c06f96-dc9c-47fb-8a6f-8464b5896a18#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-wunschspieler-nico-williams-verlaengert-in-bilbao](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-wunschspieler-nico-williams-verlaengert-in-bilbao-a-3b9e0759-9423-4002-a951-e6a9a8120013#ref=rss)
+### mann
+
+* [https://www.spiegel.de/kultur/musik/kae-tempest-bisschen-kitschig-aber-was-fuer-ein-akt-der-befreiung-album-der-woche](https://www.spiegel.de/kultur/musik/kae-tempest-bisschen-kitschig-aber-was-fuer-ein-akt-der-befreiung-album-der-woche-a-54c06f96-dc9c-47fb-8a6f-8464b5896a18#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/ecstasy-in-der-champagner-flasche-anklage-nach-tod-im-restaurant](https://www.spiegel.de/panorama/justiz/ecstasy-in-der-champagner-flasche-anklage-nach-tod-im-restaurant-a-3ce3958c-4203-4dfd-89e8-067772c433d0#ref=rss)
+### köln
+
+* [https://www.spiegel.de/panorama/gesellschaft/spielplatzschild-debatte-in-koeln-in-koeln-werden-spielplaetze-gestern-heute-und-auch-morgen-spielplaetze-heissen](https://www.spiegel.de/panorama/gesellschaft/spielplatzschild-debatte-in-koeln-in-koeln-werden-spielplaetze-gestern-heute-und-auch-morgen-spielplaetze-heissen-a-bc88be05-cf71-4451-a269-b286c798c568#ref=rss)
+### 500
+
+* [https://www.spiegel.de/ausland/gaza-angriffe-auf-hilfesuchende-dreimal-ging-er-hin-den-vierten-versuch-ueberlebte-er-nicht](https://www.spiegel.de/ausland/gaza-angriffe-auf-hilfesuchende-dreimal-ging-er-hin-den-vierten-versuch-ueberlebte-er-nicht-a-b97b7078-377a-4593-bfce-a9ff3acc2294#ref=rss)
+* [https://www.spiegel.de/ausland/uno-zaehlt-mehr-als-500-tote-in-naehe-von-verteilungszentren-in-gaza](https://www.spiegel.de/ausland/uno-zaehlt-mehr-als-500-tote-in-naehe-von-verteilungszentren-in-gaza-a-dd61bb21-e51d-4f1c-a577-78462ad7da72#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/ausland/gaza-angriffe-auf-hilfesuchende-dreimal-ging-er-hin-den-vierten-versuch-ueberlebte-er-nicht](https://www.spiegel.de/ausland/gaza-angriffe-auf-hilfesuchende-dreimal-ging-er-hin-den-vierten-versuch-ueberlebte-er-nicht-a-b97b7078-377a-4593-bfce-a9ff3acc2294#ref=rss)
+* [https://www.spiegel.de/ausland/italien-feuerwehr-zeigt-ausmasse-der-tankstellenexplosion-in-rom-30-verletzte](https://www.spiegel.de/ausland/italien-feuerwehr-zeigt-ausmasse-der-tankstellenexplosion-in-rom-30-verletzte-a-a7e3adf2-d0ea-409e-8efa-0e3d210ade21#ref=rss)
+### uno
+
+* [https://www.spiegel.de/ausland/uno-zaehlt-mehr-als-500-tote-in-naehe-von-verteilungszentren-in-gaza](https://www.spiegel.de/ausland/uno-zaehlt-mehr-als-500-tote-in-naehe-von-verteilungszentren-in-gaza-a-dd61bb21-e51d-4f1c-a577-78462ad7da72#ref=rss)
+### verteilungszentren
+
+* [https://www.spiegel.de/ausland/uno-zaehlt-mehr-als-500-tote-in-naehe-von-verteilungszentren-in-gaza](https://www.spiegel.de/ausland/uno-zaehlt-mehr-als-500-tote-in-naehe-von-verteilungszentren-in-gaza-a-dd61bb21-e51d-4f1c-a577-78462ad7da72#ref=rss)
+### lachs
+
+* [https://www.spiegel.de/stil/lachs-selbst-beizen-so-gehts](https://www.spiegel.de/stil/lachs-selbst-beizen-so-gehts-a-b58b73e9-400c-41d5-96cc-d156d90664bb#ref=rss)
+### beizen
+
+* [https://www.spiegel.de/stil/lachs-selbst-beizen-so-gehts](https://www.spiegel.de/stil/lachs-selbst-beizen-so-gehts-a-b58b73e9-400c-41d5-96cc-d156d90664bb#ref=rss)
+### klubwm
+
+* [https://www.spiegel.de/sport/fussball/klub-wm-2025-al-hilal-und-der-milliardenlauf-ins-viertelfinale](https://www.spiegel.de/sport/fussball/klub-wm-2025-al-hilal-und-der-milliardenlauf-ins-viertelfinale-a-9d035c7e-779a-4fab-87cc-204dde4f8e7d#ref=rss)
+### alhilal
+
+* [https://www.spiegel.de/sport/fussball/klub-wm-2025-al-hilal-und-der-milliardenlauf-ins-viertelfinale](https://www.spiegel.de/sport/fussball/klub-wm-2025-al-hilal-und-der-milliardenlauf-ins-viertelfinale-a-9d035c7e-779a-4fab-87cc-204dde4f8e7d#ref=rss)
+### ecstasy
+
+* [https://www.spiegel.de/panorama/justiz/ecstasy-in-der-champagner-flasche-anklage-nach-tod-im-restaurant](https://www.spiegel.de/panorama/justiz/ecstasy-in-der-champagner-flasche-anklage-nach-tod-im-restaurant-a-3ce3958c-4203-4dfd-89e8-067772c433d0#ref=rss)
+### laura
+
+* [https://www.spiegel.de/sport/tennis/wimbledon-laura-siegemund-gewinnt-gegen-madison-keys-und-steht-im-achtelfinale](https://www.spiegel.de/sport/tennis/wimbledon-laura-siegemund-gewinnt-gegen-madison-keys-und-steht-im-achtelfinale-a-7c61b0b5-1fbd-4534-a7c0-3c27c2202fa6#ref=rss)
+### siegemund
+
+* [https://www.spiegel.de/sport/tennis/wimbledon-laura-siegemund-gewinnt-gegen-madison-keys-und-steht-im-achtelfinale](https://www.spiegel.de/sport/tennis/wimbledon-laura-siegemund-gewinnt-gegen-madison-keys-und-steht-im-achtelfinale-a-7c61b0b5-1fbd-4534-a7c0-3c27c2202fa6#ref=rss)
+### madison
+
+* [https://www.spiegel.de/sport/tennis/wimbledon-laura-siegemund-gewinnt-gegen-madison-keys-und-steht-im-achtelfinale](https://www.spiegel.de/sport/tennis/wimbledon-laura-siegemund-gewinnt-gegen-madison-keys-und-steht-im-achtelfinale-a-7c61b0b5-1fbd-4534-a7c0-3c27c2202fa6#ref=rss)
+### keys
+
+* [https://www.spiegel.de/sport/tennis/wimbledon-laura-siegemund-gewinnt-gegen-madison-keys-und-steht-im-achtelfinale](https://www.spiegel.de/sport/tennis/wimbledon-laura-siegemund-gewinnt-gegen-madison-keys-und-steht-im-achtelfinale-a-7c61b0b5-1fbd-4534-a7c0-3c27c2202fa6#ref=rss)
+### diesem
+
+* [https://www.spiegel.de/sport/tennis/wimbledon-laura-siegemund-gewinnt-gegen-madison-keys-und-steht-im-achtelfinale](https://www.spiegel.de/sport/tennis/wimbledon-laura-siegemund-gewinnt-gegen-madison-keys-und-steht-im-achtelfinale-a-7c61b0b5-1fbd-4534-a7c0-3c27c2202fa6#ref=rss)
+* [https://www.spiegel.de/sport/tour-de-france-2025-fokus-auf-frankreich-deutschland-hofft-auf-florian-lipowitz](https://www.spiegel.de/sport/tour-de-france-2025-fokus-auf-frankreich-deutschland-hofft-auf-florian-lipowitz-a-92dc7448-1a93-4e17-b072-156cedbd4b47#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/sport/tennis/wimbledon-laura-siegemund-gewinnt-gegen-madison-keys-und-steht-im-achtelfinale](https://www.spiegel.de/sport/tennis/wimbledon-laura-siegemund-gewinnt-gegen-madison-keys-und-steht-im-achtelfinale-a-7c61b0b5-1fbd-4534-a7c0-3c27c2202fa6#ref=rss)
+* [https://www.spiegel.de/sport/tour-de-france-2025-fokus-auf-frankreich-deutschland-hofft-auf-florian-lipowitz](https://www.spiegel.de/sport/tour-de-france-2025-fokus-auf-frankreich-deutschland-hofft-auf-florian-lipowitz-a-92dc7448-1a93-4e17-b072-156cedbd4b47#ref=rss)
+### feuerwehr
+
+* [https://www.spiegel.de/ausland/italien-feuerwehr-zeigt-ausmasse-der-tankstellenexplosion-in-rom-30-verletzte](https://www.spiegel.de/ausland/italien-feuerwehr-zeigt-ausmasse-der-tankstellenexplosion-in-rom-30-verletzte-a-a7e3adf2-d0ea-409e-8efa-0e3d210ade21#ref=rss)
+### rom
+
+* [https://www.spiegel.de/ausland/italien-feuerwehr-zeigt-ausmasse-der-tankstellenexplosion-in-rom-30-verletzte](https://www.spiegel.de/ausland/italien-feuerwehr-zeigt-ausmasse-der-tankstellenexplosion-in-rom-30-verletzte-a-a7e3adf2-d0ea-409e-8efa-0e3d210ade21#ref=rss)
+### 30
+
+* [https://www.spiegel.de/ausland/italien-feuerwehr-zeigt-ausmasse-der-tankstellenexplosion-in-rom-30-verletzte](https://www.spiegel.de/ausland/italien-feuerwehr-zeigt-ausmasse-der-tankstellenexplosion-in-rom-30-verletzte-a-a7e3adf2-d0ea-409e-8efa-0e3d210ade21#ref=rss)
+### münchen
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-wunschspieler-nico-williams-verlaengert-in-bilbao](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-wunschspieler-nico-williams-verlaengert-in-bilbao-a-3b9e0759-9423-4002-a951-e6a9a8120013#ref=rss)
+### nico
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-wunschspieler-nico-williams-verlaengert-in-bilbao](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-wunschspieler-nico-williams-verlaengert-in-bilbao-a-3b9e0759-9423-4002-a951-e6a9a8120013#ref=rss)
+### bilbao
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-wunschspieler-nico-williams-verlaengert-in-bilbao](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-wunschspieler-nico-williams-verlaengert-in-bilbao-a-3b9e0759-9423-4002-a951-e6a9a8120013#ref=rss)
+### generäle
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-die-liste-der-toten-generaele](https://www.spiegel.de/ausland/russland-ukraine-krieg-die-liste-der-toten-generaele-a-2ac3f6aa-9e45-4731-b8f1-ae45e953c559#ref=rss)
+### büren
+
+* [https://www.spiegel.de/panorama/freibad-stadt-bueren-verteidigt-plakat-mit-grapschender-frau](https://www.spiegel.de/panorama/freibad-stadt-bueren-verteidigt-plakat-mit-grapschender-frau-a-5a9fe6d4-42b7-46de-8a30-a17b47f57d2a#ref=rss)
+### plakat
+
+* [https://www.spiegel.de/panorama/freibad-stadt-bueren-verteidigt-plakat-mit-grapschender-frau](https://www.spiegel.de/panorama/freibad-stadt-bueren-verteidigt-plakat-mit-grapschender-frau-a-5a9fe6d4-42b7-46de-8a30-a17b47f57d2a#ref=rss)
+### frau
+
+* [https://www.spiegel.de/panorama/freibad-stadt-bueren-verteidigt-plakat-mit-grapschender-frau](https://www.spiegel.de/panorama/freibad-stadt-bueren-verteidigt-plakat-mit-grapschender-frau-a-5a9fe6d4-42b7-46de-8a30-a17b47f57d2a#ref=rss)
+### eukommission
+
+* [https://www.spiegel.de/ausland/klimapolitik-der-eu-kommission-vorreiter-in-bruessel](https://www.spiegel.de/ausland/klimapolitik-der-eu-kommission-vorreiter-in-bruessel-a-712c7cde-cd96-4a2e-a7a4-11f0c3f6879d#ref=rss)
+### ross
+
+* [https://www.spiegel.de/panorama/leute/ross-antony-so-loest-er-konflikte-mit-seinem-ehemann-paul](https://www.spiegel.de/panorama/leute/ross-antony-so-loest-er-konflikte-mit-seinem-ehemann-paul-a-f5356e57-74f7-42ad-8745-24aef6220386#ref=rss)
+### antony
+
+* [https://www.spiegel.de/panorama/leute/ross-antony-so-loest-er-konflikte-mit-seinem-ehemann-paul](https://www.spiegel.de/panorama/leute/ross-antony-so-loest-er-konflikte-mit-seinem-ehemann-paul-a-f5356e57-74f7-42ad-8745-24aef6220386#ref=rss)
+### konflikte
+
+* [https://www.spiegel.de/panorama/leute/ross-antony-so-loest-er-konflikte-mit-seinem-ehemann-paul](https://www.spiegel.de/panorama/leute/ross-antony-so-loest-er-konflikte-mit-seinem-ehemann-paul-a-f5356e57-74f7-42ad-8745-24aef6220386#ref=rss)
+### ehemann
+
+* [https://www.spiegel.de/panorama/leute/ross-antony-so-loest-er-konflikte-mit-seinem-ehemann-paul](https://www.spiegel.de/panorama/leute/ross-antony-so-loest-er-konflikte-mit-seinem-ehemann-paul-a-f5356e57-74f7-42ad-8745-24aef6220386#ref=rss)
+### paul
+
+* [https://www.spiegel.de/panorama/leute/ross-antony-so-loest-er-konflikte-mit-seinem-ehemann-paul](https://www.spiegel.de/panorama/leute/ross-antony-so-loest-er-konflikte-mit-seinem-ehemann-paul-a-f5356e57-74f7-42ad-8745-24aef6220386#ref=rss)
+### jens
+
+* [https://www.spiegel.de/panorama/justiz/jens-spahn-und-die-masken-sudhof-bericht-liefert-erkenntnisse-zu-kaeufen-bei-emix](https://www.spiegel.de/panorama/justiz/jens-spahn-und-die-masken-sudhof-bericht-liefert-erkenntnisse-zu-kaeufen-bei-emix-a-66cd774d-073e-4b54-bc78-71dcf9fd91b8#ref=rss)
+### spahn
+
+* [https://www.spiegel.de/panorama/justiz/jens-spahn-und-die-masken-sudhof-bericht-liefert-erkenntnisse-zu-kaeufen-bei-emix](https://www.spiegel.de/panorama/justiz/jens-spahn-und-die-masken-sudhof-bericht-liefert-erkenntnisse-zu-kaeufen-bei-emix-a-66cd774d-073e-4b54-bc78-71dcf9fd91b8#ref=rss)
+### emix
+
+* [https://www.spiegel.de/panorama/justiz/jens-spahn-und-die-masken-sudhof-bericht-liefert-erkenntnisse-zu-kaeufen-bei-emix](https://www.spiegel.de/panorama/justiz/jens-spahn-und-die-masken-sudhof-bericht-liefert-erkenntnisse-zu-kaeufen-bei-emix-a-66cd774d-073e-4b54-bc78-71dcf9fd91b8#ref=rss)
+### thomas
+
+* [https://www.spiegel.de/sport/fussball/premier-league-thomas-partey-wegen-vergewaltigung-in-fuenf-faellen-angeklagt](https://www.spiegel.de/sport/fussball/premier-league-thomas-partey-wegen-vergewaltigung-in-fuenf-faellen-angeklagt-a-a55e197c-c25e-4815-8875-e71337d996ed#ref=rss)
+### partey
+
+* [https://www.spiegel.de/sport/fussball/premier-league-thomas-partey-wegen-vergewaltigung-in-fuenf-faellen-angeklagt](https://www.spiegel.de/sport/fussball/premier-league-thomas-partey-wegen-vergewaltigung-in-fuenf-faellen-angeklagt-a-a55e197c-c25e-4815-8875-e71337d996ed#ref=rss)
+### tour
+
+* [https://www.spiegel.de/sport/tour-de-france-2025-fokus-auf-frankreich-deutschland-hofft-auf-florian-lipowitz](https://www.spiegel.de/sport/tour-de-france-2025-fokus-auf-frankreich-deutschland-hofft-auf-florian-lipowitz-a-92dc7448-1a93-4e17-b072-156cedbd4b47#ref=rss)
+### de
+
+* [https://www.spiegel.de/sport/tour-de-france-2025-fokus-auf-frankreich-deutschland-hofft-auf-florian-lipowitz](https://www.spiegel.de/sport/tour-de-france-2025-fokus-auf-frankreich-deutschland-hofft-auf-florian-lipowitz-a-92dc7448-1a93-4e17-b072-156cedbd4b47#ref=rss)
+### france
+
+* [https://www.spiegel.de/sport/tour-de-france-2025-fokus-auf-frankreich-deutschland-hofft-auf-florian-lipowitz](https://www.spiegel.de/sport/tour-de-france-2025-fokus-auf-frankreich-deutschland-hofft-auf-florian-lipowitz-a-92dc7448-1a93-4e17-b072-156cedbd4b47#ref=rss)
 
