@@ -4,375 +4,332 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### israelischen
+### deutschland
 
-* [https://www.spiegel.de/ausland/deutsche-welle-journalisten-von-israelischen-siedlern-mit-steinen-beworfen](https://www.spiegel.de/ausland/deutsche-welle-journalisten-von-israelischen-siedlern-mit-steinen-beworfen-a-d1540dd4-7442-4605-89ad-927ce2ae21d3#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-palaestinenser-melden-mindestens-40-tote-nach-israelischen-angriffen](https://www.spiegel.de/ausland/israel-gaza-krieg-palaestinenser-melden-mindestens-40-tote-nach-israelischen-angriffen-a-3da17514-0bda-41d6-80f0-6ef5a9eaf831#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/kleinflugzeug-stuerzt-in-oesterreich-ab-mindestens-zwei-tote](https://www.spiegel.de/panorama/kleinflugzeug-stuerzt-in-oesterreich-ab-mindestens-zwei-tote-a-06f25266-329f-440c-ad28-e92176651edb#ref=rss)
-* [https://www.spiegel.de/panorama/nrw-warum-diese-fussballmannschaft-immer-verliert-und-trotzdem-weitermacht](https://www.spiegel.de/panorama/nrw-warum-diese-fussballmannschaft-immer-verliert-und-trotzdem-weitermacht-a-db2f96ab-021f-441c-941a-d570370194a6#ref=rss)
-* [https://www.spiegel.de/ausland/gazastreifen-offenbar-zwei-amerikanische-helfer-bei-angriff-verletzt](https://www.spiegel.de/ausland/gazastreifen-offenbar-zwei-amerikanische-helfer-bei-angriff-verletzt-a-791515e6-2bbd-40f8-b3ab-74a715d8a45d#ref=rss)
-### giulia
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-der-tragische-fall-der-giulia-gwinn](https://www.spiegel.de/sport/fussball/fussball-em-der-tragische-fall-der-giulia-gwinn-a-1e88616a-f5cc-4aa7-9770-14514b94e9f4#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2025-giulia-gwinn-faellt-fuer-den-rest-des-turniers-aus](https://www.spiegel.de/sport/fussball/fussball-em-2025-giulia-gwinn-faellt-fuer-den-rest-des-turniers-aus-a-aa173121-d286-4152-96ca-764e929ce0fd#ref=rss)
-### gwinn
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-der-tragische-fall-der-giulia-gwinn](https://www.spiegel.de/sport/fussball/fussball-em-der-tragische-fall-der-giulia-gwinn-a-1e88616a-f5cc-4aa7-9770-14514b94e9f4#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2025-giulia-gwinn-faellt-fuer-den-rest-des-turniers-aus](https://www.spiegel.de/sport/fussball/fussball-em-2025-giulia-gwinn-faellt-fuer-den-rest-des-turniers-aus-a-aa173121-d286-4152-96ca-764e929ce0fd#ref=rss)
-### fußballem
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-der-frauen-2025-niederlande-spielen-sich-gegen-wales-in-turnierform](https://www.spiegel.de/sport/fussball/fussball-em-der-frauen-2025-niederlande-spielen-sich-gegen-wales-in-turnierform-a-1931f026-070a-4272-99ea-73cb2c7a3260#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-der-tragische-fall-der-giulia-gwinn](https://www.spiegel.de/sport/fussball/fussball-em-der-tragische-fall-der-giulia-gwinn-a-1e88616a-f5cc-4aa7-9770-14514b94e9f4#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2025-giulia-gwinn-faellt-fuer-den-rest-des-turniers-aus](https://www.spiegel.de/sport/fussball/fussball-em-2025-giulia-gwinn-faellt-fuer-den-rest-des-turniers-aus-a-aa173121-d286-4152-96ca-764e929ce0fd#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-der-frauen-2025-niederlande-spielen-sich-gegen-wales-in-turnierform](https://www.spiegel.de/sport/fussball/fussball-em-der-frauen-2025-niederlande-spielen-sich-gegen-wales-in-turnierform-a-1931f026-070a-4272-99ea-73cb2c7a3260#ref=rss)
-* [https://www.spiegel.de/sport/tennis/wimbledon-titelverteidigerin-barbora-krejcikova-scheitert-in-runde-drei](https://www.spiegel.de/sport/tennis/wimbledon-titelverteidigerin-barbora-krejcikova-scheitert-in-runde-drei-a-b4b904da-bf20-4a13-904a-c409539f4ff9#ref=rss)
-* [https://www.spiegel.de/wissenschaft/juergen-margraf-ueber-die-zukunftsangst-der-deutschen-die-dosis-an-schlechten-nachrichten-macht-das-gift](https://www.spiegel.de/wissenschaft/juergen-margraf-ueber-die-zukunftsangst-der-deutschen-die-dosis-an-schlechten-nachrichten-macht-das-gift-a-73728912-e507-4070-bcc1-8cface15ff9f#ref=rss)
-### bundestag
-
-* [https://www.spiegel.de/politik/deutschland/afd-fraktion-verabschiedet-benimmregeln-fuer-gemaessigtes-auftreten-im-bundestag](https://www.spiegel.de/politik/deutschland/afd-fraktion-verabschiedet-benimmregeln-fuer-gemaessigtes-auftreten-im-bundestag-a-0e7d699c-5926-4435-b437-dc944ba76508#ref=rss)
-* [https://www.spiegel.de/geschichte/abschaffung-der-pruegelstrafe-im-jahr-2000-wer-nicht-hoeren-will-muss-fuehlen](https://www.spiegel.de/geschichte/abschaffung-der-pruegelstrafe-im-jahr-2000-wer-nicht-hoeren-will-muss-fuehlen-a-e351e07f-42ae-4930-8585-50de864b19ed#ref=rss)
-### partei
-
-* [https://www.spiegel.de/politik/deutschland/afd-fraktion-verabschiedet-benimmregeln-fuer-gemaessigtes-auftreten-im-bundestag](https://www.spiegel.de/politik/deutschland/afd-fraktion-verabschiedet-benimmregeln-fuer-gemaessigtes-auftreten-im-bundestag-a-0e7d699c-5926-4435-b437-dc944ba76508#ref=rss)
-* [https://www.spiegel.de/politik/afd-schiedsgericht-schliesst-helferich-aus-partei-aus-vorerst](https://www.spiegel.de/politik/afd-schiedsgericht-schliesst-helferich-aus-partei-aus-vorerst-a-155ff3c5-f481-4e5f-a4fa-d6c39aced752#ref=rss)
-### steinen
-
-* [https://www.spiegel.de/ausland/deutsche-welle-journalisten-von-israelischen-siedlern-mit-steinen-beworfen](https://www.spiegel.de/ausland/deutsche-welle-journalisten-von-israelischen-siedlern-mit-steinen-beworfen-a-d1540dd4-7442-4605-89ad-927ce2ae21d3#ref=rss)
-* [https://www.spiegel.de/panorama/lego-groesstes-legoland-der-welt-in-shanghai-mit-85-millionen-steinen-eroeffnet](https://www.spiegel.de/panorama/lego-groesstes-legoland-der-welt-in-shanghai-mit-85-millionen-steinen-eroeffnet-a-7c6f8328-d33f-42b6-a19f-ac230a053526#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/familie/erziehung-wie-eltern-wutanfaelle-liebevoll-begleiten-podcast-mit-eliane-retz](https://www.spiegel.de/familie/erziehung-wie-eltern-wutanfaelle-liebevoll-begleiten-podcast-mit-eliane-retz-a-63d177f5-b1ca-40da-acfd-c44c0d4d108c#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-hind-kabawat-ueber-die-zukunft-ihres-landes-frauenrechte-und-islamisten](https://www.spiegel.de/ausland/syrien-hind-kabawat-ueber-die-zukunft-ihres-landes-frauenrechte-und-islamisten-a-9aabbac8-84a2-4d5f-9efc-920669186ad7#ref=rss)
-* [https://www.spiegel.de/wissenschaft/juergen-margraf-ueber-die-zukunftsangst-der-deutschen-die-dosis-an-schlechten-nachrichten-macht-das-gift](https://www.spiegel.de/wissenschaft/juergen-margraf-ueber-die-zukunftsangst-der-deutschen-die-dosis-an-schlechten-nachrichten-macht-das-gift-a-73728912-e507-4070-bcc1-8cface15ff9f#ref=rss)
-### frau
-
-* [https://www.spiegel.de/ausland/syrien-hind-kabawat-ueber-die-zukunft-ihres-landes-frauenrechte-und-islamisten](https://www.spiegel.de/ausland/syrien-hind-kabawat-ueber-die-zukunft-ihres-landes-frauenrechte-und-islamisten-a-9aabbac8-84a2-4d5f-9efc-920669186ad7#ref=rss)
-* [https://www.spiegel.de/panorama/simbach-am-inn-niederbayern-frau-stuerzt-in-kletterzentrum-ab-schwer-verletzt](https://www.spiegel.de/panorama/simbach-am-inn-niederbayern-frau-stuerzt-in-kletterzentrum-ab-schwer-verletzt-a-556fe2c4-e145-4cbb-bcdb-674fd2d9739b#ref=rss)
+* [https://www.spiegel.de/ausland/polen-will-kontrollen-an-grenzen-zu-deutschland-auf-bestimmte-fahrzeuge-konzentrieren](https://www.spiegel.de/ausland/polen-will-kontrollen-an-grenzen-zu-deutschland-auf-bestimmte-fahrzeuge-konzentrieren-a-1c9a722f-3be5-481c-92be-6de585aff62f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-kanzler-russland-deutschland-krieg-neues-spiegel-cover](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-kanzler-russland-deutschland-krieg-neues-spiegel-cover-a-bbe72358-7bcf-450d-99fe-48c46e9d9d40#ref=rss)
+* [https://www.spiegel.de/wissenschaft/deutschland-unabhaengigkeit-durch-eigenproduktion-von-strom-und-waerme](https://www.spiegel.de/wissenschaft/deutschland-unabhaengigkeit-durch-eigenproduktion-von-strom-und-waerme-a-8fa6d84f-6004-469c-abc5-cffe3be68578#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1751786034](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1751786034-a-c6c8cdf3-e4d2-449b-9afb-acdc5c940734#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/wissenschaft/juergen-margraf-ueber-die-zukunftsangst-der-deutschen-die-dosis-an-schlechten-nachrichten-macht-das-gift](https://www.spiegel.de/wissenschaft/juergen-margraf-ueber-die-zukunftsangst-der-deutschen-die-dosis-an-schlechten-nachrichten-macht-das-gift-a-73728912-e507-4070-bcc1-8cface15ff9f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/leben-mit-tieren-hunde-und-katzen-foerdern-die-geistige-gesundheit-im-alter](https://www.spiegel.de/wissenschaft/leben-mit-tieren-hunde-und-katzen-foerdern-die-geistige-gesundheit-im-alter-a-d1fc9957-5a46-4a74-8733-3695da95918f#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-palaestinenser-melden-mindestens-40-tote-nach-israelischen-angriffen](https://www.spiegel.de/ausland/israel-gaza-krieg-palaestinenser-melden-mindestens-40-tote-nach-israelischen-angriffen-a-3da17514-0bda-41d6-80f0-6ef5a9eaf831#ref=rss)
-### 2025
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-der-frauen-2025-niederlande-spielen-sich-gegen-wales-in-turnierform](https://www.spiegel.de/sport/fussball/fussball-em-der-frauen-2025-niederlande-spielen-sich-gegen-wales-in-turnierform-a-1931f026-070a-4272-99ea-73cb2c7a3260#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2025-giulia-gwinn-faellt-fuer-den-rest-des-turniers-aus](https://www.spiegel.de/sport/fussball/fussball-em-2025-giulia-gwinn-faellt-fuer-den-rest-des-turniers-aus-a-aa173121-d286-4152-96ca-764e929ce0fd#ref=rss)
-### niederlande
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-der-frauen-2025-niederlande-spielen-sich-gegen-wales-in-turnierform](https://www.spiegel.de/sport/fussball/fussball-em-der-frauen-2025-niederlande-spielen-sich-gegen-wales-in-turnierform-a-1931f026-070a-4272-99ea-73cb2c7a3260#ref=rss)
-### wales
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-der-frauen-2025-niederlande-spielen-sich-gegen-wales-in-turnierform](https://www.spiegel.de/sport/fussball/fussball-em-der-frauen-2025-niederlande-spielen-sich-gegen-wales-in-turnierform-a-1931f026-070a-4272-99ea-73cb2c7a3260#ref=rss)
-### lang
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-der-frauen-2025-niederlande-spielen-sich-gegen-wales-in-turnierform](https://www.spiegel.de/sport/fussball/fussball-em-der-frauen-2025-niederlande-spielen-sich-gegen-wales-in-turnierform-a-1931f026-070a-4272-99ea-73cb2c7a3260#ref=rss)
-* [https://www.spiegel.de/geschichte/abschaffung-der-pruegelstrafe-im-jahr-2000-wer-nicht-hoeren-will-muss-fuehlen](https://www.spiegel.de/geschichte/abschaffung-der-pruegelstrafe-im-jahr-2000-wer-nicht-hoeren-will-muss-fuehlen-a-e351e07f-42ae-4930-8585-50de864b19ed#ref=rss)
-### feierte
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-der-frauen-2025-niederlande-spielen-sich-gegen-wales-in-turnierform](https://www.spiegel.de/sport/fussball/fussball-em-der-frauen-2025-niederlande-spielen-sich-gegen-wales-in-turnierform-a-1931f026-070a-4272-99ea-73cb2c7a3260#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-verletzter-jamal-musiala-bei-klub-wm-vom-platz-getragen](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-verletzter-jamal-musiala-bei-klub-wm-vom-platz-getragen-a-37d08dd1-72c7-4f2a-b1d0-631c3a12d284#ref=rss)
-### afd
-
-* [https://www.spiegel.de/politik/deutschland/afd-fraktion-verabschiedet-benimmregeln-fuer-gemaessigtes-auftreten-im-bundestag](https://www.spiegel.de/politik/deutschland/afd-fraktion-verabschiedet-benimmregeln-fuer-gemaessigtes-auftreten-im-bundestag-a-0e7d699c-5926-4435-b437-dc944ba76508#ref=rss)
-* [https://www.spiegel.de/politik/afd-schiedsgericht-schliesst-helferich-aus-partei-aus-vorerst](https://www.spiegel.de/politik/afd-schiedsgericht-schliesst-helferich-aus-partei-aus-vorerst-a-155ff3c5-f481-4e5f-a4fa-d6c39aced752#ref=rss)
-### verabschiedet
-
-* [https://www.spiegel.de/politik/deutschland/afd-fraktion-verabschiedet-benimmregeln-fuer-gemaessigtes-auftreten-im-bundestag](https://www.spiegel.de/politik/deutschland/afd-fraktion-verabschiedet-benimmregeln-fuer-gemaessigtes-auftreten-im-bundestag-a-0e7d699c-5926-4435-b437-dc944ba76508#ref=rss)
-* [https://www.spiegel.de/ausland/katholische-kirche-papst-leo-xiv-ernennt-neuen-missbrauchsbeauftragten](https://www.spiegel.de/ausland/katholische-kirche-papst-leo-xiv-ernennt-neuen-missbrauchsbeauftragten-a-827edc6e-abb7-41c2-80ce-76985b8b46b3#ref=rss)
-### gemäßigtes
-
-* [https://www.spiegel.de/politik/deutschland/afd-fraktion-verabschiedet-benimmregeln-fuer-gemaessigtes-auftreten-im-bundestag](https://www.spiegel.de/politik/deutschland/afd-fraktion-verabschiedet-benimmregeln-fuer-gemaessigtes-auftreten-im-bundestag-a-0e7d699c-5926-4435-b437-dc944ba76508#ref=rss)
-### auftreten
-
-* [https://www.spiegel.de/politik/deutschland/afd-fraktion-verabschiedet-benimmregeln-fuer-gemaessigtes-auftreten-im-bundestag](https://www.spiegel.de/politik/deutschland/afd-fraktion-verabschiedet-benimmregeln-fuer-gemaessigtes-auftreten-im-bundestag-a-0e7d699c-5926-4435-b437-dc944ba76508#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/politik/deutschland/afd-fraktion-verabschiedet-benimmregeln-fuer-gemaessigtes-auftreten-im-bundestag](https://www.spiegel.de/politik/deutschland/afd-fraktion-verabschiedet-benimmregeln-fuer-gemaessigtes-auftreten-im-bundestag-a-0e7d699c-5926-4435-b437-dc944ba76508#ref=rss)
-* [https://www.spiegel.de/panorama/ac-dc-und-die-aerzte-auf-der-drehorgel-beim-drehen-kann-ich-so-herrlich-abschalten](https://www.spiegel.de/panorama/ac-dc-und-die-aerzte-auf-der-drehorgel-beim-drehen-kann-ich-so-herrlich-abschalten-a-8e5c7938-8d36-466c-ac9c-e30010f0c618#ref=rss)
-### philippinische
-
-* [https://www.spiegel.de/ausland/suedchinesisches-meer-philippinische-jungsozialisten-gegen-china](https://www.spiegel.de/ausland/suedchinesisches-meer-philippinische-jungsozialisten-gegen-china-a-bb1c9612-71d2-496e-bea8-40aec35dc985#ref=rss)
-### jungsozialisten
-
-* [https://www.spiegel.de/ausland/suedchinesisches-meer-philippinische-jungsozialisten-gegen-china](https://www.spiegel.de/ausland/suedchinesisches-meer-philippinische-jungsozialisten-gegen-china-a-bb1c9612-71d2-496e-bea8-40aec35dc985#ref=rss)
-### umstrittenen
-
-* [https://www.spiegel.de/ausland/suedchinesisches-meer-philippinische-jungsozialisten-gegen-china](https://www.spiegel.de/ausland/suedchinesisches-meer-philippinische-jungsozialisten-gegen-china-a-bb1c9612-71d2-496e-bea8-40aec35dc985#ref=rss)
-* [https://www.spiegel.de/ausland/gazastreifen-offenbar-zwei-amerikanische-helfer-bei-angriff-verletzt](https://www.spiegel.de/ausland/gazastreifen-offenbar-zwei-amerikanische-helfer-bei-angriff-verletzt-a-791515e6-2bbd-40f8-b3ab-74a715d8a45d#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-verletzter-jamal-musiala-bei-klub-wm-vom-platz-getragen](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-verletzter-jamal-musiala-bei-klub-wm-vom-platz-getragen-a-37d08dd1-72c7-4f2a-b1d0-631c3a12d284#ref=rss)
-* [https://www.spiegel.de/panorama/simbach-am-inn-niederbayern-frau-stuerzt-in-kletterzentrum-ab-schwer-verletzt](https://www.spiegel.de/panorama/simbach-am-inn-niederbayern-frau-stuerzt-in-kletterzentrum-ab-schwer-verletzt-a-556fe2c4-e145-4cbb-bcdb-674fd2d9739b#ref=rss)
-### jamal
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-verletzter-jamal-musiala-bei-klub-wm-vom-platz-getragen](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-verletzter-jamal-musiala-bei-klub-wm-vom-platz-getragen-a-37d08dd1-72c7-4f2a-b1d0-631c3a12d284#ref=rss)
-### musiala
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-verletzter-jamal-musiala-bei-klub-wm-vom-platz-getragen](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-verletzter-jamal-musiala-bei-klub-wm-vom-platz-getragen-a-37d08dd1-72c7-4f2a-b1d0-631c3a12d284#ref=rss)
-### drei
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-verletzter-jamal-musiala-bei-klub-wm-vom-platz-getragen](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-verletzter-jamal-musiala-bei-klub-wm-vom-platz-getragen-a-37d08dd1-72c7-4f2a-b1d0-631c3a12d284#ref=rss)
-* [https://www.spiegel.de/sport/tennis/wimbledon-titelverteidigerin-barbora-krejcikova-scheitert-in-runde-drei](https://www.spiegel.de/sport/tennis/wimbledon-titelverteidigerin-barbora-krejcikova-scheitert-in-runde-drei-a-b4b904da-bf20-4a13-904a-c409539f4ff9#ref=rss)
-### schweren
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-verletzter-jamal-musiala-bei-klub-wm-vom-platz-getragen](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-verletzter-jamal-musiala-bei-klub-wm-vom-platz-getragen-a-37d08dd1-72c7-4f2a-b1d0-631c3a12d284#ref=rss)
-* [https://www.spiegel.de/ausland/katholische-kirche-papst-leo-xiv-ernennt-neuen-missbrauchsbeauftragten](https://www.spiegel.de/ausland/katholische-kirche-papst-leo-xiv-ernennt-neuen-missbrauchsbeauftragten-a-827edc6e-abb7-41c2-80ce-76985b8b46b3#ref=rss)
-### wimbledon
-
-* [https://www.spiegel.de/sport/tennis/wimbledon-titelverteidigerin-barbora-krejcikova-scheitert-in-runde-drei](https://www.spiegel.de/sport/tennis/wimbledon-titelverteidigerin-barbora-krejcikova-scheitert-in-runde-drei-a-b4b904da-bf20-4a13-904a-c409539f4ff9#ref=rss)
-### drehorgel
-
-* [https://www.spiegel.de/panorama/ac-dc-und-die-aerzte-auf-der-drehorgel-beim-drehen-kann-ich-so-herrlich-abschalten](https://www.spiegel.de/panorama/ac-dc-und-die-aerzte-auf-der-drehorgel-beim-drehen-kann-ich-so-herrlich-abschalten-a-8e5c7938-8d36-466c-ac9c-e30010f0c618#ref=rss)
-### euro
-
-* [https://www.spiegel.de/panorama/ac-dc-und-die-aerzte-auf-der-drehorgel-beim-drehen-kann-ich-so-herrlich-abschalten](https://www.spiegel.de/panorama/ac-dc-und-die-aerzte-auf-der-drehorgel-beim-drehen-kann-ich-so-herrlich-abschalten-a-8e5c7938-8d36-466c-ac9c-e30010f0c618#ref=rss)
-* [https://www.spiegel.de/auto/deutschlandticket-laender-rechnen-2026-mit-kosten-von-3-8-mrd-euro](https://www.spiegel.de/auto/deutschlandticket-laender-rechnen-2026-mit-kosten-von-3-8-mrd-euro-a-e7c26657-66dd-41c6-ac73-c4b1991fd727#ref=rss)
-### welle
-
-* [https://www.spiegel.de/ausland/deutsche-welle-journalisten-von-israelischen-siedlern-mit-steinen-beworfen](https://www.spiegel.de/ausland/deutsche-welle-journalisten-von-israelischen-siedlern-mit-steinen-beworfen-a-d1540dd4-7442-4605-89ad-927ce2ae21d3#ref=rss)
-### siedlern
-
-* [https://www.spiegel.de/ausland/deutsche-welle-journalisten-von-israelischen-siedlern-mit-steinen-beworfen](https://www.spiegel.de/ausland/deutsche-welle-journalisten-von-israelischen-siedlern-mit-steinen-beworfen-a-d1540dd4-7442-4605-89ad-927ce2ae21d3#ref=rss)
-### beworfen
-
-* [https://www.spiegel.de/ausland/deutsche-welle-journalisten-von-israelischen-siedlern-mit-steinen-beworfen](https://www.spiegel.de/ausland/deutsche-welle-journalisten-von-israelischen-siedlern-mit-steinen-beworfen-a-d1540dd4-7442-4605-89ad-927ce2ae21d3#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/ausland/deutsche-welle-journalisten-von-israelischen-siedlern-mit-steinen-beworfen](https://www.spiegel.de/ausland/deutsche-welle-journalisten-von-israelischen-siedlern-mit-steinen-beworfen-a-d1540dd4-7442-4605-89ad-927ce2ae21d3#ref=rss)
-* [https://www.spiegel.de/wissenschaft/juergen-margraf-ueber-die-zukunftsangst-der-deutschen-die-dosis-an-schlechten-nachrichten-macht-das-gift](https://www.spiegel.de/wissenschaft/juergen-margraf-ueber-die-zukunftsangst-der-deutschen-die-dosis-an-schlechten-nachrichten-macht-das-gift-a-73728912-e507-4070-bcc1-8cface15ff9f#ref=rss)
-### mexiko
-
-* [https://www.spiegel.de/ausland/mexiko-warum-sich-teile-vom-sinaloa-kartell-mit-ihren-rivalen-vom-jalisco-kartell-verbuenden](https://www.spiegel.de/ausland/mexiko-warum-sich-teile-vom-sinaloa-kartell-mit-ihren-rivalen-vom-jalisco-kartell-verbuenden-a-6e6ba772-85c8-482d-9e8a-a7def3fee7e7#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/ausland/mexiko-warum-sich-teile-vom-sinaloa-kartell-mit-ihren-rivalen-vom-jalisco-kartell-verbuenden](https://www.spiegel.de/ausland/mexiko-warum-sich-teile-vom-sinaloa-kartell-mit-ihren-rivalen-vom-jalisco-kartell-verbuenden-a-6e6ba772-85c8-482d-9e8a-a7def3fee7e7#ref=rss)
-* [https://www.spiegel.de/ausland/katholische-kirche-papst-leo-xiv-ernennt-neuen-missbrauchsbeauftragten](https://www.spiegel.de/ausland/katholische-kirche-papst-leo-xiv-ernennt-neuen-missbrauchsbeauftragten-a-827edc6e-abb7-41c2-80ce-76985b8b46b3#ref=rss)
-### chancen
-
-* [https://www.spiegel.de/ausland/mexiko-warum-sich-teile-vom-sinaloa-kartell-mit-ihren-rivalen-vom-jalisco-kartell-verbuenden](https://www.spiegel.de/ausland/mexiko-warum-sich-teile-vom-sinaloa-kartell-mit-ihren-rivalen-vom-jalisco-kartell-verbuenden-a-6e6ba772-85c8-482d-9e8a-a7def3fee7e7#ref=rss)
-* [https://www.spiegel.de/ausland/nigel-farage-im-umfragehoch-der-gefaehrlichste-mann-grossbritanniens](https://www.spiegel.de/ausland/nigel-farage-im-umfragehoch-der-gefaehrlichste-mann-grossbritanniens-a-aaa36d85-0961-4219-8287-fe3ea72ae0fc#ref=rss)
-### stürzt
-
-* [https://www.spiegel.de/panorama/kleinflugzeug-stuerzt-in-oesterreich-ab-mindestens-zwei-tote](https://www.spiegel.de/panorama/kleinflugzeug-stuerzt-in-oesterreich-ab-mindestens-zwei-tote-a-06f25266-329f-440c-ad28-e92176651edb#ref=rss)
-* [https://www.spiegel.de/panorama/simbach-am-inn-niederbayern-frau-stuerzt-in-kletterzentrum-ab-schwer-verletzt](https://www.spiegel.de/panorama/simbach-am-inn-niederbayern-frau-stuerzt-in-kletterzentrum-ab-schwer-verletzt-a-556fe2c4-e145-4cbb-bcdb-674fd2d9739b#ref=rss)
-### österreich
-
-* [https://www.spiegel.de/panorama/kleinflugzeug-stuerzt-in-oesterreich-ab-mindestens-zwei-tote](https://www.spiegel.de/panorama/kleinflugzeug-stuerzt-in-oesterreich-ab-mindestens-zwei-tote-a-06f25266-329f-440c-ad28-e92176651edb#ref=rss)
-### mindestens
-
-* [https://www.spiegel.de/panorama/kleinflugzeug-stuerzt-in-oesterreich-ab-mindestens-zwei-tote](https://www.spiegel.de/panorama/kleinflugzeug-stuerzt-in-oesterreich-ab-mindestens-zwei-tote-a-06f25266-329f-440c-ad28-e92176651edb#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-palaestinenser-melden-mindestens-40-tote-nach-israelischen-angriffen](https://www.spiegel.de/ausland/israel-gaza-krieg-palaestinenser-melden-mindestens-40-tote-nach-israelischen-angriffen-a-3da17514-0bda-41d6-80f0-6ef5a9eaf831#ref=rss)
-### tote
-
-* [https://www.spiegel.de/panorama/kleinflugzeug-stuerzt-in-oesterreich-ab-mindestens-zwei-tote](https://www.spiegel.de/panorama/kleinflugzeug-stuerzt-in-oesterreich-ab-mindestens-zwei-tote-a-06f25266-329f-440c-ad28-e92176651edb#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-palaestinenser-melden-mindestens-40-tote-nach-israelischen-angriffen](https://www.spiegel.de/ausland/israel-gaza-krieg-palaestinenser-melden-mindestens-40-tote-nach-israelischen-angriffen-a-3da17514-0bda-41d6-80f0-6ef5a9eaf831#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/panorama/kleinflugzeug-stuerzt-in-oesterreich-ab-mindestens-zwei-tote](https://www.spiegel.de/panorama/kleinflugzeug-stuerzt-in-oesterreich-ab-mindestens-zwei-tote-a-06f25266-329f-440c-ad28-e92176651edb#ref=rss)
-* [https://www.spiegel.de/ausland/gazastreifen-offenbar-zwei-amerikanische-helfer-bei-angriff-verletzt](https://www.spiegel.de/ausland/gazastreifen-offenbar-zwei-amerikanische-helfer-bei-angriff-verletzt-a-791515e6-2bbd-40f8-b3ab-74a715d8a45d#ref=rss)
-### erziehung
-
-* [https://www.spiegel.de/familie/erziehung-wie-eltern-wutanfaelle-liebevoll-begleiten-podcast-mit-eliane-retz](https://www.spiegel.de/familie/erziehung-wie-eltern-wutanfaelle-liebevoll-begleiten-podcast-mit-eliane-retz-a-63d177f5-b1ca-40da-acfd-c44c0d4d108c#ref=rss)
-* [https://www.spiegel.de/geschichte/abschaffung-der-pruegelstrafe-im-jahr-2000-wer-nicht-hoeren-will-muss-fuehlen](https://www.spiegel.de/geschichte/abschaffung-der-pruegelstrafe-im-jahr-2000-wer-nicht-hoeren-will-muss-fuehlen-a-e351e07f-42ae-4930-8585-50de864b19ed#ref=rss)
-### eltern
-
-* [https://www.spiegel.de/familie/erziehung-wie-eltern-wutanfaelle-liebevoll-begleiten-podcast-mit-eliane-retz](https://www.spiegel.de/familie/erziehung-wie-eltern-wutanfaelle-liebevoll-begleiten-podcast-mit-eliane-retz-a-63d177f5-b1ca-40da-acfd-c44c0d4d108c#ref=rss)
-### podcast
-
-* [https://www.spiegel.de/familie/erziehung-wie-eltern-wutanfaelle-liebevoll-begleiten-podcast-mit-eliane-retz](https://www.spiegel.de/familie/erziehung-wie-eltern-wutanfaelle-liebevoll-begleiten-podcast-mit-eliane-retz-a-63d177f5-b1ca-40da-acfd-c44c0d4d108c#ref=rss)
-* [https://www.spiegel.de/ausland/kriminalitaet-in-wien-ein-leben-zwischen-bandenkriegen-und-terror-podcast](https://www.spiegel.de/ausland/kriminalitaet-in-wien-ein-leben-zwischen-bandenkriegen-und-terror-podcast-a-dd157ba6-af6e-42f4-9975-313373bd95c2#ref=rss)
-### eliane
-
-* [https://www.spiegel.de/familie/erziehung-wie-eltern-wutanfaelle-liebevoll-begleiten-podcast-mit-eliane-retz](https://www.spiegel.de/familie/erziehung-wie-eltern-wutanfaelle-liebevoll-begleiten-podcast-mit-eliane-retz-a-63d177f5-b1ca-40da-acfd-c44c0d4d108c#ref=rss)
-### retz
-
-* [https://www.spiegel.de/familie/erziehung-wie-eltern-wutanfaelle-liebevoll-begleiten-podcast-mit-eliane-retz](https://www.spiegel.de/familie/erziehung-wie-eltern-wutanfaelle-liebevoll-begleiten-podcast-mit-eliane-retz-a-63d177f5-b1ca-40da-acfd-c44c0d4d108c#ref=rss)
-### angst
-
-* [https://www.spiegel.de/familie/erziehung-wie-eltern-wutanfaelle-liebevoll-begleiten-podcast-mit-eliane-retz](https://www.spiegel.de/familie/erziehung-wie-eltern-wutanfaelle-liebevoll-begleiten-podcast-mit-eliane-retz-a-63d177f5-b1ca-40da-acfd-c44c0d4d108c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/juergen-margraf-ueber-die-zukunftsangst-der-deutschen-die-dosis-an-schlechten-nachrichten-macht-das-gift](https://www.spiegel.de/wissenschaft/juergen-margraf-ueber-die-zukunftsangst-der-deutschen-die-dosis-an-schlechten-nachrichten-macht-das-gift-a-73728912-e507-4070-bcc1-8cface15ff9f#ref=rss)
-### erste
-
-* [https://www.spiegel.de/sport/1-etappe-der-tour-de-france-himmel-des-nordens](https://www.spiegel.de/sport/1-etappe-der-tour-de-france-himmel-des-nordens-a-44d54953-7b59-4768-bd02-7718878d0a1f#ref=rss)
-### etappe
-
-* [https://www.spiegel.de/sport/1-etappe-der-tour-de-france-himmel-des-nordens](https://www.spiegel.de/sport/1-etappe-der-tour-de-france-himmel-des-nordens-a-44d54953-7b59-4768-bd02-7718878d0a1f#ref=rss)
-### tour
-
-* [https://www.spiegel.de/sport/1-etappe-der-tour-de-france-himmel-des-nordens](https://www.spiegel.de/sport/1-etappe-der-tour-de-france-himmel-des-nordens-a-44d54953-7b59-4768-bd02-7718878d0a1f#ref=rss)
-### de
-
-* [https://www.spiegel.de/sport/1-etappe-der-tour-de-france-himmel-des-nordens](https://www.spiegel.de/sport/1-etappe-der-tour-de-france-himmel-des-nordens-a-44d54953-7b59-4768-bd02-7718878d0a1f#ref=rss)
-### france
-
-* [https://www.spiegel.de/sport/1-etappe-der-tour-de-france-himmel-des-nordens](https://www.spiegel.de/sport/1-etappe-der-tour-de-france-himmel-des-nordens-a-44d54953-7b59-4768-bd02-7718878d0a1f#ref=rss)
-### land
-
-* [https://www.spiegel.de/sport/1-etappe-der-tour-de-france-himmel-des-nordens](https://www.spiegel.de/sport/1-etappe-der-tour-de-france-himmel-des-nordens-a-44d54953-7b59-4768-bd02-7718878d0a1f#ref=rss)
-* [https://www.spiegel.de/ausland/niederlaendische-polizei-gegen-verschaerfung-des-asylrechts](https://www.spiegel.de/ausland/niederlaendische-polizei-gegen-verschaerfung-des-asylrechts-a-17873591-e428-48bd-bfd1-fd4da592b380#ref=rss)
-### landes
-
-* [https://www.spiegel.de/sport/1-etappe-der-tour-de-france-himmel-des-nordens](https://www.spiegel.de/sport/1-etappe-der-tour-de-france-himmel-des-nordens-a-44d54953-7b59-4768-bd02-7718878d0a1f#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-hind-kabawat-ueber-die-zukunft-ihres-landes-frauenrechte-und-islamisten](https://www.spiegel.de/ausland/syrien-hind-kabawat-ueber-die-zukunft-ihres-landes-frauenrechte-und-islamisten-a-9aabbac8-84a2-4d5f-9efc-920669186ad7#ref=rss)
-### nrw
-
-* [https://www.spiegel.de/panorama/nrw-warum-diese-fussballmannschaft-immer-verliert-und-trotzdem-weitermacht](https://www.spiegel.de/panorama/nrw-warum-diese-fussballmannschaft-immer-verliert-und-trotzdem-weitermacht-a-db2f96ab-021f-441c-941a-d570370194a6#ref=rss)
-* [https://www.spiegel.de/karriere/nordrhein-westfalen-richter-sollen-ueber-das-67-lebensjahr-hinaus-arbeiten-koennen](https://www.spiegel.de/karriere/nordrhein-westfalen-richter-sollen-ueber-das-67-lebensjahr-hinaus-arbeiten-koennen-a-ea41dfa5-21ed-47ad-8755-4b146cbecaef#ref=rss)
-### verliert
-
-* [https://www.spiegel.de/panorama/nrw-warum-diese-fussballmannschaft-immer-verliert-und-trotzdem-weitermacht](https://www.spiegel.de/panorama/nrw-warum-diese-fussballmannschaft-immer-verliert-und-trotzdem-weitermacht-a-db2f96ab-021f-441c-941a-d570370194a6#ref=rss)
-### nordrheinwestfalen
-
-* [https://www.spiegel.de/panorama/nrw-warum-diese-fussballmannschaft-immer-verliert-und-trotzdem-weitermacht](https://www.spiegel.de/panorama/nrw-warum-diese-fussballmannschaft-immer-verliert-und-trotzdem-weitermacht-a-db2f96ab-021f-441c-941a-d570370194a6#ref=rss)
-* [https://www.spiegel.de/karriere/nordrhein-westfalen-richter-sollen-ueber-das-67-lebensjahr-hinaus-arbeiten-koennen](https://www.spiegel.de/karriere/nordrhein-westfalen-richter-sollen-ueber-das-67-lebensjahr-hinaus-arbeiten-koennen-a-ea41dfa5-21ed-47ad-8755-4b146cbecaef#ref=rss)
-### erst
-
-* [https://www.spiegel.de/panorama/nrw-warum-diese-fussballmannschaft-immer-verliert-und-trotzdem-weitermacht](https://www.spiegel.de/panorama/nrw-warum-diese-fussballmannschaft-immer-verliert-und-trotzdem-weitermacht-a-db2f96ab-021f-441c-941a-d570370194a6#ref=rss)
-* [https://www.spiegel.de/geschichte/abschaffung-der-pruegelstrafe-im-jahr-2000-wer-nicht-hoeren-will-muss-fuehlen](https://www.spiegel.de/geschichte/abschaffung-der-pruegelstrafe-im-jahr-2000-wer-nicht-hoeren-will-muss-fuehlen-a-e351e07f-42ae-4930-8585-50de864b19ed#ref=rss)
-### macht
-
-* [https://www.spiegel.de/panorama/nrw-warum-diese-fussballmannschaft-immer-verliert-und-trotzdem-weitermacht](https://www.spiegel.de/panorama/nrw-warum-diese-fussballmannschaft-immer-verliert-und-trotzdem-weitermacht-a-db2f96ab-021f-441c-941a-d570370194a6#ref=rss)
-* [https://www.spiegel.de/wissenschaft/juergen-margraf-ueber-die-zukunftsangst-der-deutschen-die-dosis-an-schlechten-nachrichten-macht-das-gift](https://www.spiegel.de/wissenschaft/juergen-margraf-ueber-die-zukunftsangst-der-deutschen-die-dosis-an-schlechten-nachrichten-macht-das-gift-a-73728912-e507-4070-bcc1-8cface15ff9f#ref=rss)
-### team
-
-* [https://www.spiegel.de/panorama/nrw-warum-diese-fussballmannschaft-immer-verliert-und-trotzdem-weitermacht](https://www.spiegel.de/panorama/nrw-warum-diese-fussballmannschaft-immer-verliert-und-trotzdem-weitermacht-a-db2f96ab-021f-441c-941a-d570370194a6#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-der-tragische-fall-der-giulia-gwinn](https://www.spiegel.de/sport/fussball/fussball-em-der-tragische-fall-der-giulia-gwinn-a-1e88616a-f5cc-4aa7-9770-14514b94e9f4#ref=rss)
-### hind
-
-* [https://www.spiegel.de/ausland/syrien-hind-kabawat-ueber-die-zukunft-ihres-landes-frauenrechte-und-islamisten](https://www.spiegel.de/ausland/syrien-hind-kabawat-ueber-die-zukunft-ihres-landes-frauenrechte-und-islamisten-a-9aabbac8-84a2-4d5f-9efc-920669186ad7#ref=rss)
-### kabawat
-
-* [https://www.spiegel.de/ausland/syrien-hind-kabawat-ueber-die-zukunft-ihres-landes-frauenrechte-und-islamisten](https://www.spiegel.de/ausland/syrien-hind-kabawat-ueber-die-zukunft-ihres-landes-frauenrechte-und-islamisten-a-9aabbac8-84a2-4d5f-9efc-920669186ad7#ref=rss)
-### islamisten
-
-* [https://www.spiegel.de/ausland/syrien-hind-kabawat-ueber-die-zukunft-ihres-landes-frauenrechte-und-islamisten](https://www.spiegel.de/ausland/syrien-hind-kabawat-ueber-die-zukunft-ihres-landes-frauenrechte-und-islamisten-a-9aabbac8-84a2-4d5f-9efc-920669186ad7#ref=rss)
-### niederländische
-
-* [https://www.spiegel.de/ausland/niederlaendische-polizei-gegen-verschaerfung-des-asylrechts](https://www.spiegel.de/ausland/niederlaendische-polizei-gegen-verschaerfung-des-asylrechts-a-17873591-e428-48bd-bfd1-fd4da592b380#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/ausland/niederlaendische-polizei-gegen-verschaerfung-des-asylrechts](https://www.spiegel.de/ausland/niederlaendische-polizei-gegen-verschaerfung-des-asylrechts-a-17873591-e428-48bd-bfd1-fd4da592b380#ref=rss)
-### verschärfung
-
-* [https://www.spiegel.de/ausland/niederlaendische-polizei-gegen-verschaerfung-des-asylrechts](https://www.spiegel.de/ausland/niederlaendische-polizei-gegen-verschaerfung-des-asylrechts-a-17873591-e428-48bd-bfd1-fd4da592b380#ref=rss)
-### asylrechts
-
-* [https://www.spiegel.de/ausland/niederlaendische-polizei-gegen-verschaerfung-des-asylrechts](https://www.spiegel.de/ausland/niederlaendische-polizei-gegen-verschaerfung-des-asylrechts-a-17873591-e428-48bd-bfd1-fd4da592b380#ref=rss)
-### rechtspopulist
-
-* [https://www.spiegel.de/ausland/niederlaendische-polizei-gegen-verschaerfung-des-asylrechts](https://www.spiegel.de/ausland/niederlaendische-polizei-gegen-verschaerfung-des-asylrechts-a-17873591-e428-48bd-bfd1-fd4da592b380#ref=rss)
-* [https://www.spiegel.de/ausland/nigel-farage-im-umfragehoch-der-gefaehrlichste-mann-grossbritanniens](https://www.spiegel.de/ausland/nigel-farage-im-umfragehoch-der-gefaehrlichste-mann-grossbritanniens-a-aaa36d85-0961-4219-8287-fe3ea72ae0fc#ref=rss)
-### jürgen
-
-* [https://www.spiegel.de/wissenschaft/juergen-margraf-ueber-die-zukunftsangst-der-deutschen-die-dosis-an-schlechten-nachrichten-macht-das-gift](https://www.spiegel.de/wissenschaft/juergen-margraf-ueber-die-zukunftsangst-der-deutschen-die-dosis-an-schlechten-nachrichten-macht-das-gift-a-73728912-e507-4070-bcc1-8cface15ff9f#ref=rss)
-### margraf
-
-* [https://www.spiegel.de/wissenschaft/juergen-margraf-ueber-die-zukunftsangst-der-deutschen-die-dosis-an-schlechten-nachrichten-macht-das-gift](https://www.spiegel.de/wissenschaft/juergen-margraf-ueber-die-zukunftsangst-der-deutschen-die-dosis-an-schlechten-nachrichten-macht-das-gift-a-73728912-e507-4070-bcc1-8cface15ff9f#ref=rss)
-### nachrichten
-
-* [https://www.spiegel.de/wissenschaft/juergen-margraf-ueber-die-zukunftsangst-der-deutschen-die-dosis-an-schlechten-nachrichten-macht-das-gift](https://www.spiegel.de/wissenschaft/juergen-margraf-ueber-die-zukunftsangst-der-deutschen-die-dosis-an-schlechten-nachrichten-macht-das-gift-a-73728912-e507-4070-bcc1-8cface15ff9f#ref=rss)
-### wir
-
-* [https://www.spiegel.de/wissenschaft/juergen-margraf-ueber-die-zukunftsangst-der-deutschen-die-dosis-an-schlechten-nachrichten-macht-das-gift](https://www.spiegel.de/wissenschaft/juergen-margraf-ueber-die-zukunftsangst-der-deutschen-die-dosis-an-schlechten-nachrichten-macht-das-gift-a-73728912-e507-4070-bcc1-8cface15ff9f#ref=rss)
-* [https://www.spiegel.de/tests/fahrrad-zubehoer/lenkertaschen-von-aevor-peak-performance-acepac-capsuled-gusti-und-swift-industries-im-test](https://www.spiegel.de/tests/fahrrad-zubehoer/lenkertaschen-von-aevor-peak-performance-acepac-capsuled-gusti-und-swift-industries-im-test-a-f0ecf60b-6d55-44d8-a864-011c69d7afbe#ref=rss)
-### leben
-
-* [https://www.spiegel.de/wissenschaft/leben-mit-tieren-hunde-und-katzen-foerdern-die-geistige-gesundheit-im-alter](https://www.spiegel.de/wissenschaft/leben-mit-tieren-hunde-und-katzen-foerdern-die-geistige-gesundheit-im-alter-a-d1fc9957-5a46-4a74-8733-3695da95918f#ref=rss)
-* [https://www.spiegel.de/ausland/kriminalitaet-in-wien-ein-leben-zwischen-bandenkriegen-und-terror-podcast](https://www.spiegel.de/ausland/kriminalitaet-in-wien-ein-leben-zwischen-bandenkriegen-und-terror-podcast-a-dd157ba6-af6e-42f4-9975-313373bd95c2#ref=rss)
-### hunde
-
-* [https://www.spiegel.de/wissenschaft/leben-mit-tieren-hunde-und-katzen-foerdern-die-geistige-gesundheit-im-alter](https://www.spiegel.de/wissenschaft/leben-mit-tieren-hunde-und-katzen-foerdern-die-geistige-gesundheit-im-alter-a-d1fc9957-5a46-4a74-8733-3695da95918f#ref=rss)
-### katzen
-
-* [https://www.spiegel.de/wissenschaft/leben-mit-tieren-hunde-und-katzen-foerdern-die-geistige-gesundheit-im-alter](https://www.spiegel.de/wissenschaft/leben-mit-tieren-hunde-und-katzen-foerdern-die-geistige-gesundheit-im-alter-a-d1fc9957-5a46-4a74-8733-3695da95918f#ref=rss)
-### geistige
-
-* [https://www.spiegel.de/wissenschaft/leben-mit-tieren-hunde-und-katzen-foerdern-die-geistige-gesundheit-im-alter](https://www.spiegel.de/wissenschaft/leben-mit-tieren-hunde-und-katzen-foerdern-die-geistige-gesundheit-im-alter-a-d1fc9957-5a46-4a74-8733-3695da95918f#ref=rss)
-### länger
-
-* [https://www.spiegel.de/wissenschaft/leben-mit-tieren-hunde-und-katzen-foerdern-die-geistige-gesundheit-im-alter](https://www.spiegel.de/wissenschaft/leben-mit-tieren-hunde-und-katzen-foerdern-die-geistige-gesundheit-im-alter-a-d1fc9957-5a46-4a74-8733-3695da95918f#ref=rss)
-* [https://www.spiegel.de/karriere/nordrhein-westfalen-richter-sollen-ueber-das-67-lebensjahr-hinaus-arbeiten-koennen](https://www.spiegel.de/karriere/nordrhein-westfalen-richter-sollen-ueber-das-67-lebensjahr-hinaus-arbeiten-koennen-a-ea41dfa5-21ed-47ad-8755-4b146cbecaef#ref=rss)
-### wien
-
-* [https://www.spiegel.de/ausland/kriminalitaet-in-wien-ein-leben-zwischen-bandenkriegen-und-terror-podcast](https://www.spiegel.de/ausland/kriminalitaet-in-wien-ein-leben-zwischen-bandenkriegen-und-terror-podcast-a-dd157ba6-af6e-42f4-9975-313373bd95c2#ref=rss)
+* [https://www.spiegel.de/panorama/toedlicher-badeunfall-in-kehl-mann-springt-in-rhein-und-ertrinkt](https://www.spiegel.de/panorama/toedlicher-badeunfall-in-kehl-mann-springt-in-rhein-und-ertrinkt-a-d1be1b2e-eb2c-40ae-92a2-4120fa34106f#ref=rss)
+* [https://www.spiegel.de/panorama/leute/spice-girl-mel-b-hat-geheiratet-2-become-1](https://www.spiegel.de/panorama/leute/spice-girl-mel-b-hat-geheiratet-2-become-1-a-e7f5c89a-f9a7-4623-b181-55738f1d0f9c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/pflegeversicherung-bundesrechnungshof-warnt-vor-finanzluecke-von-12-3-milliarden-euro](https://www.spiegel.de/wirtschaft/pflegeversicherung-bundesrechnungshof-warnt-vor-finanzluecke-von-12-3-milliarden-euro-a-b368ed66-3409-476b-b422-bd0c40fefbdd#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/norovirus-auf-kreuzfahrtschiffen-ungewoehnlich-viele-ausbrueche-der-magen-darm-erkrankung](https://www.spiegel.de/wissenschaft/mensch/norovirus-auf-kreuzfahrtschiffen-ungewoehnlich-viele-ausbrueche-der-magen-darm-erkrankung-a-4d8c9473-d1f3-47e2-8e0d-8dee0b97918c#ref=rss)
+### dalai
+
+* [https://www.spiegel.de/geschichte/franz-alt-ueber-den-dalai-lama-ethik-ist-wichtiger-als-religion](https://www.spiegel.de/geschichte/franz-alt-ueber-den-dalai-lama-ethik-ist-wichtiger-als-religion-a-89530896-2a7d-49c6-a02a-4e09a2556b26#ref=rss)
+* [https://www.spiegel.de/ausland/dalai-lama-roland-koch-ueber-seine-ungewoehnliche-freundschaft-und-tibets-zukunft](https://www.spiegel.de/ausland/dalai-lama-roland-koch-ueber-seine-ungewoehnliche-freundschaft-und-tibets-zukunft-a-601e13b7-c8cd-4c70-b595-609cf75f2818#ref=rss)
+### lama
+
+* [https://www.spiegel.de/geschichte/franz-alt-ueber-den-dalai-lama-ethik-ist-wichtiger-als-religion](https://www.spiegel.de/geschichte/franz-alt-ueber-den-dalai-lama-ethik-ist-wichtiger-als-religion-a-89530896-2a7d-49c6-a02a-4e09a2556b26#ref=rss)
+* [https://www.spiegel.de/ausland/dalai-lama-roland-koch-ueber-seine-ungewoehnliche-freundschaft-und-tibets-zukunft](https://www.spiegel.de/ausland/dalai-lama-roland-koch-ueber-seine-ungewoehnliche-freundschaft-und-tibets-zukunft-a-601e13b7-c8cd-4c70-b595-609cf75f2818#ref=rss)
+### unter
+
+* [https://www.spiegel.de/panorama/leute/spice-girl-mel-b-hat-geheiratet-2-become-1](https://www.spiegel.de/panorama/leute/spice-girl-mel-b-hat-geheiratet-2-become-1-a-e7f5c89a-f9a7-4623-b181-55738f1d0f9c#ref=rss)
+* [https://www.spiegel.de/panorama/waldbraende-in-sachsen-thueringen-sachsen-anhalt-feuergeruch-bis-nach-berlin](https://www.spiegel.de/panorama/waldbraende-in-sachsen-thueringen-sachsen-anhalt-feuergeruch-bis-nach-berlin-a-35e0e8f6-d319-4f8e-99b5-acf49d2a7366#ref=rss)
+* [https://www.spiegel.de/ausland/russlands-angriffskrieg-ukraine-meldet-heftige-drohnenattacken-im-ganzen-land](https://www.spiegel.de/ausland/russlands-angriffskrieg-ukraine-meldet-heftige-drohnenattacken-im-ganzen-land-a-2f136eaf-efff-4bae-9ef0-fdcefcc66a6f#ref=rss)
+### thomas
+
+* [https://www.spiegel.de/sport/fussball/thomas-mueller-und-sein-letztes-spiel-fuer-den-fc-bayern-muenchen-leiser-abgang-des-lautsprechers](https://www.spiegel.de/sport/fussball/thomas-mueller-und-sein-letztes-spiel-fuer-den-fc-bayern-muenchen-leiser-abgang-des-lautsprechers-a-73ee3bb6-9695-4c91-90e0-bde819faee6e#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1751786034](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1751786034-a-c6c8cdf3-e4d2-449b-9afb-acdc5c940734#ref=rss)
+### russland
+
+* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-kanzler-russland-deutschland-krieg-neues-spiegel-cover](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-kanzler-russland-deutschland-krieg-neues-spiegel-cover-a-bbe72358-7bcf-450d-99fe-48c46e9d9d40#ref=rss)
+* [https://www.spiegel.de/ausland/brics-gipfel-in-brasilien-luiz-inacio-lula-da-silva-stemmt-sich-gegen-den-bedeutungsverlust](https://www.spiegel.de/ausland/brics-gipfel-in-brasilien-luiz-inacio-lula-da-silva-stemmt-sich-gegen-den-bedeutungsverlust-a-7024a6f3-360d-4e31-8b55-d56e6be0f787#ref=rss)
+* [https://www.spiegel.de/ausland/russlands-angriffskrieg-ukraine-meldet-heftige-drohnenattacken-im-ganzen-land](https://www.spiegel.de/ausland/russlands-angriffskrieg-ukraine-meldet-heftige-drohnenattacken-im-ganzen-land-a-2f136eaf-efff-4bae-9ef0-fdcefcc66a6f#ref=rss)
 ### mann
 
-* [https://www.spiegel.de/ausland/kriminalitaet-in-wien-ein-leben-zwischen-bandenkriegen-und-terror-podcast](https://www.spiegel.de/ausland/kriminalitaet-in-wien-ein-leben-zwischen-bandenkriegen-und-terror-podcast-a-dd157ba6-af6e-42f4-9975-313373bd95c2#ref=rss)
-* [https://www.spiegel.de/ausland/nigel-farage-im-umfragehoch-der-gefaehrlichste-mann-grossbritanniens](https://www.spiegel.de/ausland/nigel-farage-im-umfragehoch-der-gefaehrlichste-mann-grossbritanniens-a-aaa36d85-0961-4219-8287-fe3ea72ae0fc#ref=rss)
-### kreuzbandriss
+* [https://www.spiegel.de/panorama/toedlicher-badeunfall-in-kehl-mann-springt-in-rhein-und-ertrinkt](https://www.spiegel.de/panorama/toedlicher-badeunfall-in-kehl-mann-springt-in-rhein-und-ertrinkt-a-d1be1b2e-eb2c-40ae-92a2-4120fa34106f#ref=rss)
+* [https://www.spiegel.de/geschichte/franz-alt-ueber-den-dalai-lama-ethik-ist-wichtiger-als-religion](https://www.spiegel.de/geschichte/franz-alt-ueber-den-dalai-lama-ethik-ist-wichtiger-als-religion-a-89530896-2a7d-49c6-a02a-4e09a2556b26#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/sport/fussball/fussball-em-der-tragische-fall-der-giulia-gwinn](https://www.spiegel.de/sport/fussball/fussball-em-der-tragische-fall-der-giulia-gwinn-a-1e88616a-f5cc-4aa7-9770-14514b94e9f4#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2025-giulia-gwinn-faellt-fuer-den-rest-des-turniers-aus](https://www.spiegel.de/sport/fussball/fussball-em-2025-giulia-gwinn-faellt-fuer-den-rest-des-turniers-aus-a-aa173121-d286-4152-96ca-764e929ce0fd#ref=rss)
-### gaza
+* [https://www.spiegel.de/panorama/mallorca-geschaefte-und-autos-in-santanyi-mit-parolen-verunstaltet](https://www.spiegel.de/panorama/mallorca-geschaefte-und-autos-in-santanyi-mit-parolen-verunstaltet-a-465a478c-d1b3-4c12-bbfb-b533c6071050#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-vier-deutsche-bei-rundflug-ums-leben-gekommen-tote-identifiziert](https://www.spiegel.de/ausland/oesterreich-vier-deutsche-bei-rundflug-ums-leben-gekommen-tote-identifiziert-a-28af9e72-a56b-4630-a97b-769a0fcdfa05#ref=rss)
+### braucht
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-palaestinenser-melden-mindestens-40-tote-nach-israelischen-angriffen](https://www.spiegel.de/ausland/israel-gaza-krieg-palaestinenser-melden-mindestens-40-tote-nach-israelischen-angriffen-a-3da17514-0bda-41d6-80f0-6ef5a9eaf831#ref=rss)
-* [https://www.spiegel.de/ausland/gazastreifen-offenbar-zwei-amerikanische-helfer-bei-angriff-verletzt](https://www.spiegel.de/ausland/gazastreifen-offenbar-zwei-amerikanische-helfer-bei-angriff-verletzt-a-791515e6-2bbd-40f8-b3ab-74a715d8a45d#ref=rss)
-### helferich
+* [https://www.spiegel.de/ausland/die-rueckkehr-der-abschreckung-braucht-europa-die-eurobombe](https://www.spiegel.de/ausland/die-rueckkehr-der-abschreckung-braucht-europa-die-eurobombe-a-25e7b264-3c10-45a4-97b1-a20b368dab8e#ref=rss)
+* [https://www.spiegel.de/panorama/kyllburg-zwoelfjaehriger-schwimmt-neun-kilometer-mit-luftmatratze-auf-fluss-kyll](https://www.spiegel.de/panorama/kyllburg-zwoelfjaehriger-schwimmt-neun-kilometer-mit-luftmatratze-auf-fluss-kyll-a-23f27393-8a8a-4c32-ad08-6dfa83338c10#ref=rss)
+### müller
 
-* [https://www.spiegel.de/politik/afd-schiedsgericht-schliesst-helferich-aus-partei-aus-vorerst](https://www.spiegel.de/politik/afd-schiedsgericht-schliesst-helferich-aus-partei-aus-vorerst-a-155ff3c5-f481-4e5f-a4fa-d6c39aced752#ref=rss)
-### verfahren
+* [https://www.spiegel.de/sport/fussball/thomas-mueller-und-sein-letztes-spiel-fuer-den-fc-bayern-muenchen-leiser-abgang-des-lautsprechers](https://www.spiegel.de/sport/fussball/thomas-mueller-und-sein-letztes-spiel-fuer-den-fc-bayern-muenchen-leiser-abgang-des-lautsprechers-a-73ee3bb6-9695-4c91-90e0-bde819faee6e#ref=rss)
+### gestorben
 
-* [https://www.spiegel.de/politik/afd-schiedsgericht-schliesst-helferich-aus-partei-aus-vorerst](https://www.spiegel.de/politik/afd-schiedsgericht-schliesst-helferich-aus-partei-aus-vorerst-a-155ff3c5-f481-4e5f-a4fa-d6c39aced752#ref=rss)
-* [https://www.spiegel.de/karriere/nordrhein-westfalen-richter-sollen-ueber-das-67-lebensjahr-hinaus-arbeiten-koennen](https://www.spiegel.de/karriere/nordrhein-westfalen-richter-sollen-ueber-das-67-lebensjahr-hinaus-arbeiten-koennen-a-ea41dfa5-21ed-47ad-8755-4b146cbecaef#ref=rss)
-### rest
+* [https://www.spiegel.de/ausland/oesterreich-vier-deutsche-bei-rundflug-ums-leben-gekommen-tote-identifiziert](https://www.spiegel.de/ausland/oesterreich-vier-deutsche-bei-rundflug-ums-leben-gekommen-tote-identifiziert-a-28af9e72-a56b-4630-a97b-769a0fcdfa05#ref=rss)
+* [https://www.spiegel.de/politik/christean-wagner-ist-tot-ehemaliger-cdu-politiker-aus-hessen-gestorben](https://www.spiegel.de/politik/christean-wagner-ist-tot-ehemaliger-cdu-politiker-aus-hessen-gestorben-a-df3cd264-395b-4389-b657-2d1f6fc33a5d#ref=rss)
+### merz
 
-* [https://www.spiegel.de/sport/fussball/fussball-em-2025-giulia-gwinn-faellt-fuer-den-rest-des-turniers-aus](https://www.spiegel.de/sport/fussball/fussball-em-2025-giulia-gwinn-faellt-fuer-den-rest-des-turniers-aus-a-aa173121-d286-4152-96ca-764e929ce0fd#ref=rss)
-### legoland
+* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-kanzler-russland-deutschland-krieg-neues-spiegel-cover](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-kanzler-russland-deutschland-krieg-neues-spiegel-cover-a-bbe72358-7bcf-450d-99fe-48c46e9d9d40#ref=rss)
+* [https://www.spiegel.de/ausland/russlands-angriffskrieg-ukraine-meldet-heftige-drohnenattacken-im-ganzen-land](https://www.spiegel.de/ausland/russlands-angriffskrieg-ukraine-meldet-heftige-drohnenattacken-im-ganzen-land-a-2f136eaf-efff-4bae-9ef0-fdcefcc66a6f#ref=rss)
+### viele
 
-* [https://www.spiegel.de/panorama/lego-groesstes-legoland-der-welt-in-shanghai-mit-85-millionen-steinen-eroeffnet](https://www.spiegel.de/panorama/lego-groesstes-legoland-der-welt-in-shanghai-mit-85-millionen-steinen-eroeffnet-a-7c6f8328-d33f-42b6-a19f-ac230a053526#ref=rss)
-### welt
+* [https://www.spiegel.de/wissenschaft/mensch/norovirus-auf-kreuzfahrtschiffen-ungewoehnlich-viele-ausbrueche-der-magen-darm-erkrankung](https://www.spiegel.de/wissenschaft/mensch/norovirus-auf-kreuzfahrtschiffen-ungewoehnlich-viele-ausbrueche-der-magen-darm-erkrankung-a-4d8c9473-d1f3-47e2-8e0d-8dee0b97918c#ref=rss)
+* [https://www.spiegel.de/ausland/russlands-angriffskrieg-ukraine-meldet-heftige-drohnenattacken-im-ganzen-land](https://www.spiegel.de/ausland/russlands-angriffskrieg-ukraine-meldet-heftige-drohnenattacken-im-ganzen-land-a-2f136eaf-efff-4bae-9ef0-fdcefcc66a6f#ref=rss)
+### rhein
 
-* [https://www.spiegel.de/panorama/lego-groesstes-legoland-der-welt-in-shanghai-mit-85-millionen-steinen-eroeffnet](https://www.spiegel.de/panorama/lego-groesstes-legoland-der-welt-in-shanghai-mit-85-millionen-steinen-eroeffnet-a-7c6f8328-d33f-42b6-a19f-ac230a053526#ref=rss)
-### shanghai
+* [https://www.spiegel.de/panorama/toedlicher-badeunfall-in-kehl-mann-springt-in-rhein-und-ertrinkt](https://www.spiegel.de/panorama/toedlicher-badeunfall-in-kehl-mann-springt-in-rhein-und-ertrinkt-a-d1be1b2e-eb2c-40ae-92a2-4120fa34106f#ref=rss)
+### tot
 
-* [https://www.spiegel.de/panorama/lego-groesstes-legoland-der-welt-in-shanghai-mit-85-millionen-steinen-eroeffnet](https://www.spiegel.de/panorama/lego-groesstes-legoland-der-welt-in-shanghai-mit-85-millionen-steinen-eroeffnet-a-7c6f8328-d33f-42b6-a19f-ac230a053526#ref=rss)
-### länder
+* [https://www.spiegel.de/panorama/toedlicher-badeunfall-in-kehl-mann-springt-in-rhein-und-ertrinkt](https://www.spiegel.de/panorama/toedlicher-badeunfall-in-kehl-mann-springt-in-rhein-und-ertrinkt-a-d1be1b2e-eb2c-40ae-92a2-4120fa34106f#ref=rss)
+* [https://www.spiegel.de/politik/christean-wagner-ist-tot-ehemaliger-cdu-politiker-aus-hessen-gestorben](https://www.spiegel.de/politik/christean-wagner-ist-tot-ehemaliger-cdu-politiker-aus-hessen-gestorben-a-df3cd264-395b-4389-b657-2d1f6fc33a5d#ref=rss)
+### geschäfte
 
-* [https://www.spiegel.de/auto/deutschlandticket-laender-rechnen-2026-mit-kosten-von-3-8-mrd-euro](https://www.spiegel.de/auto/deutschlandticket-laender-rechnen-2026-mit-kosten-von-3-8-mrd-euro-a-e7c26657-66dd-41c6-ac73-c4b1991fd727#ref=rss)
+* [https://www.spiegel.de/panorama/mallorca-geschaefte-und-autos-in-santanyi-mit-parolen-verunstaltet](https://www.spiegel.de/panorama/mallorca-geschaefte-und-autos-in-santanyi-mit-parolen-verunstaltet-a-465a478c-d1b3-4c12-bbfb-b533c6071050#ref=rss)
+### autos
+
+* [https://www.spiegel.de/panorama/mallorca-geschaefte-und-autos-in-santanyi-mit-parolen-verunstaltet](https://www.spiegel.de/panorama/mallorca-geschaefte-und-autos-in-santanyi-mit-parolen-verunstaltet-a-465a478c-d1b3-4c12-bbfb-b533c6071050#ref=rss)
+### verunstaltet
+
+* [https://www.spiegel.de/panorama/mallorca-geschaefte-und-autos-in-santanyi-mit-parolen-verunstaltet](https://www.spiegel.de/panorama/mallorca-geschaefte-und-autos-in-santanyi-mit-parolen-verunstaltet-a-465a478c-d1b3-4c12-bbfb-b533c6071050#ref=rss)
+### eibsee
+
+* [https://www.spiegel.de/panorama/eibsee-vater-und-sohn-nach-tretbootausflug-vermisst-suche-laeuft](https://www.spiegel.de/panorama/eibsee-vater-und-sohn-nach-tretbootausflug-vermisst-suche-laeuft-a-31b29d15-59ba-480c-a835-211d210b4407#ref=rss)
+### vater
+
+* [https://www.spiegel.de/panorama/eibsee-vater-und-sohn-nach-tretbootausflug-vermisst-suche-laeuft](https://www.spiegel.de/panorama/eibsee-vater-und-sohn-nach-tretbootausflug-vermisst-suche-laeuft-a-31b29d15-59ba-480c-a835-211d210b4407#ref=rss)
+### sohn
+
+* [https://www.spiegel.de/panorama/eibsee-vater-und-sohn-nach-tretbootausflug-vermisst-suche-laeuft](https://www.spiegel.de/panorama/eibsee-vater-und-sohn-nach-tretbootausflug-vermisst-suche-laeuft-a-31b29d15-59ba-480c-a835-211d210b4407#ref=rss)
+### vermisst
+
+* [https://www.spiegel.de/panorama/eibsee-vater-und-sohn-nach-tretbootausflug-vermisst-suche-laeuft](https://www.spiegel.de/panorama/eibsee-vater-und-sohn-nach-tretbootausflug-vermisst-suche-laeuft-a-31b29d15-59ba-480c-a835-211d210b4407#ref=rss)
+### gar
+
+* [https://www.spiegel.de/panorama/kreisverkehre-die-beulenpest-der-landstrasse-meinung](https://www.spiegel.de/panorama/kreisverkehre-die-beulenpest-der-landstrasse-meinung-a-92fa9483-b09a-4ade-933a-07b5daabf376#ref=rss)
+* [https://www.spiegel.de/ausland/ukrainekrieg-us-regierung-log-offenbar-ueber-waffenknappheit](https://www.spiegel.de/ausland/ukrainekrieg-us-regierung-log-offenbar-ueber-waffenknappheit-a-45dcb31a-be74-4d3e-b99d-e693b1fcaabc#ref=rss)
+### raum
+
+* [https://www.spiegel.de/panorama/kreisverkehre-die-beulenpest-der-landstrasse-meinung](https://www.spiegel.de/panorama/kreisverkehre-die-beulenpest-der-landstrasse-meinung-a-92fa9483-b09a-4ade-933a-07b5daabf376#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/norovirus-auf-kreuzfahrtschiffen-ungewoehnlich-viele-ausbrueche-der-magen-darm-erkrankung](https://www.spiegel.de/wissenschaft/mensch/norovirus-auf-kreuzfahrtschiffen-ungewoehnlich-viele-ausbrueche-der-magen-darm-erkrankung-a-4d8c9473-d1f3-47e2-8e0d-8dee0b97918c#ref=rss)
+### franz
+
+* [https://www.spiegel.de/geschichte/franz-alt-ueber-den-dalai-lama-ethik-ist-wichtiger-als-religion](https://www.spiegel.de/geschichte/franz-alt-ueber-den-dalai-lama-ethik-ist-wichtiger-als-religion-a-89530896-2a7d-49c6-a02a-4e09a2556b26#ref=rss)
+### alt
+
+* [https://www.spiegel.de/geschichte/franz-alt-ueber-den-dalai-lama-ethik-ist-wichtiger-als-religion](https://www.spiegel.de/geschichte/franz-alt-ueber-den-dalai-lama-ethik-ist-wichtiger-als-religion-a-89530896-2a7d-49c6-a02a-4e09a2556b26#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/geschichte/franz-alt-ueber-den-dalai-lama-ethik-ist-wichtiger-als-religion](https://www.spiegel.de/geschichte/franz-alt-ueber-den-dalai-lama-ethik-ist-wichtiger-als-religion-a-89530896-2a7d-49c6-a02a-4e09a2556b26#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-kanzler-russland-deutschland-krieg-neues-spiegel-cover](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-kanzler-russland-deutschland-krieg-neues-spiegel-cover-a-bbe72358-7bcf-450d-99fe-48c46e9d9d40#ref=rss)
+### zukunft
+
+* [https://www.spiegel.de/geschichte/franz-alt-ueber-den-dalai-lama-ethik-ist-wichtiger-als-religion](https://www.spiegel.de/geschichte/franz-alt-ueber-den-dalai-lama-ethik-ist-wichtiger-als-religion-a-89530896-2a7d-49c6-a02a-4e09a2556b26#ref=rss)
+* [https://www.spiegel.de/ausland/dalai-lama-roland-koch-ueber-seine-ungewoehnliche-freundschaft-und-tibets-zukunft](https://www.spiegel.de/ausland/dalai-lama-roland-koch-ueber-seine-ungewoehnliche-freundschaft-und-tibets-zukunft-a-601e13b7-c8cd-4c70-b595-609cf75f2818#ref=rss)
+### china
+
+* [https://www.spiegel.de/wirtschaft/china-schraenkt-importe-von-medizintechnik-aus-der-eu-ein](https://www.spiegel.de/wirtschaft/china-schraenkt-importe-von-medizintechnik-aus-der-eu-ein-a-33d7da4a-9091-46d6-b639-fed6870c9be3#ref=rss)
+* [https://www.spiegel.de/ausland/brics-gipfel-in-brasilien-luiz-inacio-lula-da-silva-stemmt-sich-gegen-den-bedeutungsverlust](https://www.spiegel.de/ausland/brics-gipfel-in-brasilien-luiz-inacio-lula-da-silva-stemmt-sich-gegen-den-bedeutungsverlust-a-7024a6f3-360d-4e31-8b55-d56e6be0f787#ref=rss)
+### medizintechnik
+
+* [https://www.spiegel.de/wirtschaft/china-schraenkt-importe-von-medizintechnik-aus-der-eu-ein](https://www.spiegel.de/wirtschaft/china-schraenkt-importe-von-medizintechnik-aus-der-eu-ein-a-33d7da4a-9091-46d6-b639-fed6870c9be3#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### tag
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### wissen
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/ausland/israel-iran-konflikt-voelkerrechtler-zweifeln-gruende-fuer-israels-angriff-auf-iran-an](https://www.spiegel.de/ausland/israel-iran-konflikt-voelkerrechtler-zweifeln-gruende-fuer-israels-angriff-auf-iran-an-a-d50753d5-f5b3-4aea-9cb7-40f7f971c345#ref=rss)
+### europa
+
+* [https://www.spiegel.de/ausland/die-rueckkehr-der-abschreckung-braucht-europa-die-eurobombe](https://www.spiegel.de/ausland/die-rueckkehr-der-abschreckung-braucht-europa-die-eurobombe-a-25e7b264-3c10-45a4-97b1-a20b368dab8e#ref=rss)
+### eurobombe
+
+* [https://www.spiegel.de/ausland/die-rueckkehr-der-abschreckung-braucht-europa-die-eurobombe](https://www.spiegel.de/ausland/die-rueckkehr-der-abschreckung-braucht-europa-die-eurobombe-a-25e7b264-3c10-45a4-97b1-a20b368dab8e#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/die-rueckkehr-der-abschreckung-braucht-europa-die-eurobombe](https://www.spiegel.de/ausland/die-rueckkehr-der-abschreckung-braucht-europa-die-eurobombe-a-25e7b264-3c10-45a4-97b1-a20b368dab8e#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1751786034](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1751786034-a-c6c8cdf3-e4d2-449b-9afb-acdc5c940734#ref=rss)
+### spiel
+
+* [https://www.spiegel.de/ausland/die-rueckkehr-der-abschreckung-braucht-europa-die-eurobombe](https://www.spiegel.de/ausland/die-rueckkehr-der-abschreckung-braucht-europa-die-eurobombe-a-25e7b264-3c10-45a4-97b1-a20b368dab8e#ref=rss)
+* [https://www.spiegel.de/sport/fussball/thomas-mueller-und-sein-letztes-spiel-fuer-den-fc-bayern-muenchen-leiser-abgang-des-lautsprechers](https://www.spiegel.de/sport/fussball/thomas-mueller-und-sein-letztes-spiel-fuer-den-fc-bayern-muenchen-leiser-abgang-des-lautsprechers-a-73ee3bb6-9695-4c91-90e0-bde819faee6e#ref=rss)
+### spice
+
+* [https://www.spiegel.de/panorama/leute/spice-girl-mel-b-hat-geheiratet-2-become-1](https://www.spiegel.de/panorama/leute/spice-girl-mel-b-hat-geheiratet-2-become-1-a-e7f5c89a-f9a7-4623-b181-55738f1d0f9c#ref=rss)
+### mel
+
+* [https://www.spiegel.de/panorama/leute/spice-girl-mel-b-hat-geheiratet-2-become-1](https://www.spiegel.de/panorama/leute/spice-girl-mel-b-hat-geheiratet-2-become-1-a-e7f5c89a-f9a7-4623-b181-55738f1d0f9c#ref=rss)
+### b
+
+* [https://www.spiegel.de/panorama/leute/spice-girl-mel-b-hat-geheiratet-2-become-1](https://www.spiegel.de/panorama/leute/spice-girl-mel-b-hat-geheiratet-2-become-1-a-e7f5c89a-f9a7-4623-b181-55738f1d0f9c#ref=rss)
+### 2
+
+* [https://www.spiegel.de/panorama/leute/spice-girl-mel-b-hat-geheiratet-2-become-1](https://www.spiegel.de/panorama/leute/spice-girl-mel-b-hat-geheiratet-2-become-1-a-e7f5c89a-f9a7-4623-b181-55738f1d0f9c#ref=rss)
+* [https://www.spiegel.de/politik/markus-soeder-hat-laut-gruenen-politiker-martin-stuempfig-atom-luegen-verbreitet](https://www.spiegel.de/politik/markus-soeder-hat-laut-gruenen-politiker-martin-stuempfig-atom-luegen-verbreitet-a-38bed180-1809-425f-8fe1-87509fe0a21c#ref=rss)
+### mitglied
+
+* [https://www.spiegel.de/panorama/leute/spice-girl-mel-b-hat-geheiratet-2-become-1](https://www.spiegel.de/panorama/leute/spice-girl-mel-b-hat-geheiratet-2-become-1-a-e7f5c89a-f9a7-4623-b181-55738f1d0f9c#ref=rss)
+* [https://www.spiegel.de/ausland/spanien-regierungspartei-psoe-verbietet-mitgliedern-bezahlten-sex](https://www.spiegel.de/ausland/spanien-regierungspartei-psoe-verbietet-mitgliedern-bezahlten-sex-a-81a4aff2-1659-4590-bc2d-fc1f0089033e#ref=rss)
+### ozzy
+
+* [https://www.spiegel.de/kultur/musik/ozzy-osbourne-abschiedskonzert-in-birmingham-der-prinz-der-dunkelheit-nimmt-seinen-hut](https://www.spiegel.de/kultur/musik/ozzy-osbourne-abschiedskonzert-in-birmingham-der-prinz-der-dunkelheit-nimmt-seinen-hut-a-9b6c6d82-8209-4eed-8dbe-3086ad288a90#ref=rss)
+### osbourne
+
+* [https://www.spiegel.de/kultur/musik/ozzy-osbourne-abschiedskonzert-in-birmingham-der-prinz-der-dunkelheit-nimmt-seinen-hut](https://www.spiegel.de/kultur/musik/ozzy-osbourne-abschiedskonzert-in-birmingham-der-prinz-der-dunkelheit-nimmt-seinen-hut-a-9b6c6d82-8209-4eed-8dbe-3086ad288a90#ref=rss)
+### birmingham
+
+* [https://www.spiegel.de/kultur/musik/ozzy-osbourne-abschiedskonzert-in-birmingham-der-prinz-der-dunkelheit-nimmt-seinen-hut](https://www.spiegel.de/kultur/musik/ozzy-osbourne-abschiedskonzert-in-birmingham-der-prinz-der-dunkelheit-nimmt-seinen-hut-a-9b6c6d82-8209-4eed-8dbe-3086ad288a90#ref=rss)
+### letztes
+
+* [https://www.spiegel.de/kultur/musik/ozzy-osbourne-abschiedskonzert-in-birmingham-der-prinz-der-dunkelheit-nimmt-seinen-hut](https://www.spiegel.de/kultur/musik/ozzy-osbourne-abschiedskonzert-in-birmingham-der-prinz-der-dunkelheit-nimmt-seinen-hut-a-9b6c6d82-8209-4eed-8dbe-3086ad288a90#ref=rss)
+* [https://www.spiegel.de/sport/fussball/thomas-mueller-und-sein-letztes-spiel-fuer-den-fc-bayern-muenchen-leiser-abgang-des-lautsprechers](https://www.spiegel.de/sport/fussball/thomas-mueller-und-sein-letztes-spiel-fuer-den-fc-bayern-muenchen-leiser-abgang-des-lautsprechers-a-73ee3bb6-9695-4c91-90e0-bde819faee6e#ref=rss)
+### setzen
+
+* [https://www.spiegel.de/kultur/musik/ozzy-osbourne-abschiedskonzert-in-birmingham-der-prinz-der-dunkelheit-nimmt-seinen-hut](https://www.spiegel.de/kultur/musik/ozzy-osbourne-abschiedskonzert-in-birmingham-der-prinz-der-dunkelheit-nimmt-seinen-hut-a-9b6c6d82-8209-4eed-8dbe-3086ad288a90#ref=rss)
+* [https://www.spiegel.de/wissenschaft/deutschland-unabhaengigkeit-durch-eigenproduktion-von-strom-und-waerme](https://www.spiegel.de/wissenschaft/deutschland-unabhaengigkeit-durch-eigenproduktion-von-strom-und-waerme-a-8fa6d84f-6004-469c-abc5-cffe3be68578#ref=rss)
+### pflegeversicherung
+
+* [https://www.spiegel.de/wirtschaft/pflegeversicherung-bundesrechnungshof-warnt-vor-finanzluecke-von-12-3-milliarden-euro](https://www.spiegel.de/wirtschaft/pflegeversicherung-bundesrechnungshof-warnt-vor-finanzluecke-von-12-3-milliarden-euro-a-b368ed66-3409-476b-b422-bd0c40fefbdd#ref=rss)
+### bundesrechnungshof
+
+* [https://www.spiegel.de/wirtschaft/pflegeversicherung-bundesrechnungshof-warnt-vor-finanzluecke-von-12-3-milliarden-euro](https://www.spiegel.de/wirtschaft/pflegeversicherung-bundesrechnungshof-warnt-vor-finanzluecke-von-12-3-milliarden-euro-a-b368ed66-3409-476b-b422-bd0c40fefbdd#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/auto/deutschlandticket-laender-rechnen-2026-mit-kosten-von-3-8-mrd-euro](https://www.spiegel.de/auto/deutschlandticket-laender-rechnen-2026-mit-kosten-von-3-8-mrd-euro-a-e7c26657-66dd-41c6-ac73-c4b1991fd727#ref=rss)
-* [https://www.spiegel.de/karriere/nordrhein-westfalen-richter-sollen-ueber-das-67-lebensjahr-hinaus-arbeiten-koennen](https://www.spiegel.de/karriere/nordrhein-westfalen-richter-sollen-ueber-das-67-lebensjahr-hinaus-arbeiten-koennen-a-ea41dfa5-21ed-47ad-8755-4b146cbecaef#ref=rss)
-### nigel
+* [https://www.spiegel.de/wirtschaft/pflegeversicherung-bundesrechnungshof-warnt-vor-finanzluecke-von-12-3-milliarden-euro](https://www.spiegel.de/wirtschaft/pflegeversicherung-bundesrechnungshof-warnt-vor-finanzluecke-von-12-3-milliarden-euro-a-b368ed66-3409-476b-b422-bd0c40fefbdd#ref=rss)
+* [https://www.spiegel.de/ausland/spanien-regierungspartei-psoe-verbietet-mitgliedern-bezahlten-sex](https://www.spiegel.de/ausland/spanien-regierungspartei-psoe-verbietet-mitgliedern-bezahlten-sex-a-81a4aff2-1659-4590-bc2d-fc1f0089033e#ref=rss)
+### usregierung
 
-* [https://www.spiegel.de/ausland/nigel-farage-im-umfragehoch-der-gefaehrlichste-mann-grossbritanniens](https://www.spiegel.de/ausland/nigel-farage-im-umfragehoch-der-gefaehrlichste-mann-grossbritanniens-a-aaa36d85-0961-4219-8287-fe3ea72ae0fc#ref=rss)
-### farage
+* [https://www.spiegel.de/ausland/ukrainekrieg-us-regierung-log-offenbar-ueber-waffenknappheit](https://www.spiegel.de/ausland/ukrainekrieg-us-regierung-log-offenbar-ueber-waffenknappheit-a-45dcb31a-be74-4d3e-b99d-e693b1fcaabc#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/ausland/nigel-farage-im-umfragehoch-der-gefaehrlichste-mann-grossbritanniens](https://www.spiegel.de/ausland/nigel-farage-im-umfragehoch-der-gefaehrlichste-mann-grossbritanniens-a-aaa36d85-0961-4219-8287-fe3ea72ae0fc#ref=rss)
-### jahr
+* [https://www.spiegel.de/ausland/ukrainekrieg-us-regierung-log-offenbar-ueber-waffenknappheit](https://www.spiegel.de/ausland/ukrainekrieg-us-regierung-log-offenbar-ueber-waffenknappheit-a-45dcb31a-be74-4d3e-b99d-e693b1fcaabc#ref=rss)
+* [https://www.spiegel.de/politik/markus-soeder-hat-laut-gruenen-politiker-martin-stuempfig-atom-luegen-verbreitet](https://www.spiegel.de/politik/markus-soeder-hat-laut-gruenen-politiker-martin-stuempfig-atom-luegen-verbreitet-a-38bed180-1809-425f-8fe1-87509fe0a21c#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/ausland/nigel-farage-im-umfragehoch-der-gefaehrlichste-mann-grossbritanniens](https://www.spiegel.de/ausland/nigel-farage-im-umfragehoch-der-gefaehrlichste-mann-grossbritanniens-a-aaa36d85-0961-4219-8287-fe3ea72ae0fc#ref=rss)
-* [https://www.spiegel.de/geschichte/abschaffung-der-pruegelstrafe-im-jahr-2000-wer-nicht-hoeren-will-muss-fuehlen](https://www.spiegel.de/geschichte/abschaffung-der-pruegelstrafe-im-jahr-2000-wer-nicht-hoeren-will-muss-fuehlen-a-e351e07f-42ae-4930-8585-50de864b19ed#ref=rss)
-### kirche
+* [https://www.spiegel.de/ausland/ukrainekrieg-us-regierung-log-offenbar-ueber-waffenknappheit](https://www.spiegel.de/ausland/ukrainekrieg-us-regierung-log-offenbar-ueber-waffenknappheit-a-45dcb31a-be74-4d3e-b99d-e693b1fcaabc#ref=rss)
+* [https://www.spiegel.de/ausland/russlands-angriffskrieg-ukraine-meldet-heftige-drohnenattacken-im-ganzen-land](https://www.spiegel.de/ausland/russlands-angriffskrieg-ukraine-meldet-heftige-drohnenattacken-im-ganzen-land-a-2f136eaf-efff-4bae-9ef0-fdcefcc66a6f#ref=rss)
+### eigenen
 
-* [https://www.spiegel.de/ausland/katholische-kirche-papst-leo-xiv-ernennt-neuen-missbrauchsbeauftragten](https://www.spiegel.de/ausland/katholische-kirche-papst-leo-xiv-ernennt-neuen-missbrauchsbeauftragten-a-827edc6e-abb7-41c2-80ce-76985b8b46b3#ref=rss)
-### leo
+* [https://www.spiegel.de/ausland/ukrainekrieg-us-regierung-log-offenbar-ueber-waffenknappheit](https://www.spiegel.de/ausland/ukrainekrieg-us-regierung-log-offenbar-ueber-waffenknappheit-a-45dcb31a-be74-4d3e-b99d-e693b1fcaabc#ref=rss)
+* [https://www.spiegel.de/panorama/waldbraende-in-sachsen-thueringen-sachsen-anhalt-feuergeruch-bis-nach-berlin](https://www.spiegel.de/panorama/waldbraende-in-sachsen-thueringen-sachsen-anhalt-feuergeruch-bis-nach-berlin-a-35e0e8f6-d319-4f8e-99b5-acf49d2a7366#ref=rss)
+### luftmatratze
 
-* [https://www.spiegel.de/ausland/katholische-kirche-papst-leo-xiv-ernennt-neuen-missbrauchsbeauftragten](https://www.spiegel.de/ausland/katholische-kirche-papst-leo-xiv-ernennt-neuen-missbrauchsbeauftragten-a-827edc6e-abb7-41c2-80ce-76985b8b46b3#ref=rss)
-### xiv
+* [https://www.spiegel.de/panorama/kyllburg-zwoelfjaehriger-schwimmt-neun-kilometer-mit-luftmatratze-auf-fluss-kyll](https://www.spiegel.de/panorama/kyllburg-zwoelfjaehriger-schwimmt-neun-kilometer-mit-luftmatratze-auf-fluss-kyll-a-23f27393-8a8a-4c32-ad08-6dfa83338c10#ref=rss)
+### fluss
 
-* [https://www.spiegel.de/ausland/katholische-kirche-papst-leo-xiv-ernennt-neuen-missbrauchsbeauftragten](https://www.spiegel.de/ausland/katholische-kirche-papst-leo-xiv-ernennt-neuen-missbrauchsbeauftragten-a-827edc6e-abb7-41c2-80ce-76985b8b46b3#ref=rss)
-### ernennt
+* [https://www.spiegel.de/panorama/kyllburg-zwoelfjaehriger-schwimmt-neun-kilometer-mit-luftmatratze-auf-fluss-kyll](https://www.spiegel.de/panorama/kyllburg-zwoelfjaehriger-schwimmt-neun-kilometer-mit-luftmatratze-auf-fluss-kyll-a-23f27393-8a8a-4c32-ad08-6dfa83338c10#ref=rss)
+### längere
 
-* [https://www.spiegel.de/ausland/katholische-kirche-papst-leo-xiv-ernennt-neuen-missbrauchsbeauftragten](https://www.spiegel.de/ausland/katholische-kirche-papst-leo-xiv-ernennt-neuen-missbrauchsbeauftragten-a-827edc6e-abb7-41c2-80ce-76985b8b46b3#ref=rss)
-### missbrauchsbeauftragten
+* [https://www.spiegel.de/panorama/kyllburg-zwoelfjaehriger-schwimmt-neun-kilometer-mit-luftmatratze-auf-fluss-kyll](https://www.spiegel.de/panorama/kyllburg-zwoelfjaehriger-schwimmt-neun-kilometer-mit-luftmatratze-auf-fluss-kyll-a-23f27393-8a8a-4c32-ad08-6dfa83338c10#ref=rss)
+* [https://www.spiegel.de/ausland/polen-will-kontrollen-an-grenzen-zu-deutschland-auf-bestimmte-fahrzeuge-konzentrieren](https://www.spiegel.de/ausland/polen-will-kontrollen-an-grenzen-zu-deutschland-auf-bestimmte-fahrzeuge-konzentrieren-a-1c9a722f-3be5-481c-92be-6de585aff62f#ref=rss)
+### möchte
 
-* [https://www.spiegel.de/ausland/katholische-kirche-papst-leo-xiv-ernennt-neuen-missbrauchsbeauftragten](https://www.spiegel.de/ausland/katholische-kirche-papst-leo-xiv-ernennt-neuen-missbrauchsbeauftragten-a-827edc6e-abb7-41c2-80ce-76985b8b46b3#ref=rss)
-### schwer
+* [https://www.spiegel.de/panorama/kyllburg-zwoelfjaehriger-schwimmt-neun-kilometer-mit-luftmatratze-auf-fluss-kyll](https://www.spiegel.de/panorama/kyllburg-zwoelfjaehriger-schwimmt-neun-kilometer-mit-luftmatratze-auf-fluss-kyll-a-23f27393-8a8a-4c32-ad08-6dfa83338c10#ref=rss)
+* [https://www.spiegel.de/ausland/spanien-regierungspartei-psoe-verbietet-mitgliedern-bezahlten-sex](https://www.spiegel.de/ausland/spanien-regierungspartei-psoe-verbietet-mitgliedern-bezahlten-sex-a-81a4aff2-1659-4590-bc2d-fc1f0089033e#ref=rss)
+### polen
 
-* [https://www.spiegel.de/panorama/simbach-am-inn-niederbayern-frau-stuerzt-in-kletterzentrum-ab-schwer-verletzt](https://www.spiegel.de/panorama/simbach-am-inn-niederbayern-frau-stuerzt-in-kletterzentrum-ab-schwer-verletzt-a-556fe2c4-e145-4cbb-bcdb-674fd2d9739b#ref=rss)
-### verletzt
+* [https://www.spiegel.de/ausland/polen-will-kontrollen-an-grenzen-zu-deutschland-auf-bestimmte-fahrzeuge-konzentrieren](https://www.spiegel.de/ausland/polen-will-kontrollen-an-grenzen-zu-deutschland-auf-bestimmte-fahrzeuge-konzentrieren-a-1c9a722f-3be5-481c-92be-6de585aff62f#ref=rss)
+### fahrzeuge
 
-* [https://www.spiegel.de/panorama/simbach-am-inn-niederbayern-frau-stuerzt-in-kletterzentrum-ab-schwer-verletzt](https://www.spiegel.de/panorama/simbach-am-inn-niederbayern-frau-stuerzt-in-kletterzentrum-ab-schwer-verletzt-a-556fe2c4-e145-4cbb-bcdb-674fd2d9739b#ref=rss)
-* [https://www.spiegel.de/ausland/gazastreifen-offenbar-zwei-amerikanische-helfer-bei-angriff-verletzt](https://www.spiegel.de/ausland/gazastreifen-offenbar-zwei-amerikanische-helfer-bei-angriff-verletzt-a-791515e6-2bbd-40f8-b3ab-74a715d8a45d#ref=rss)
-### gazastreifen
+* [https://www.spiegel.de/ausland/polen-will-kontrollen-an-grenzen-zu-deutschland-auf-bestimmte-fahrzeuge-konzentrieren](https://www.spiegel.de/ausland/polen-will-kontrollen-an-grenzen-zu-deutschland-auf-bestimmte-fahrzeuge-konzentrieren-a-1c9a722f-3be5-481c-92be-6de585aff62f#ref=rss)
+### münchen
 
-* [https://www.spiegel.de/ausland/gazastreifen-offenbar-zwei-amerikanische-helfer-bei-angriff-verletzt](https://www.spiegel.de/ausland/gazastreifen-offenbar-zwei-amerikanische-helfer-bei-angriff-verletzt-a-791515e6-2bbd-40f8-b3ab-74a715d8a45d#ref=rss)
-### helfer
+* [https://www.spiegel.de/sport/fussball/thomas-mueller-und-sein-letztes-spiel-fuer-den-fc-bayern-muenchen-leiser-abgang-des-lautsprechers](https://www.spiegel.de/sport/fussball/thomas-mueller-und-sein-letztes-spiel-fuer-den-fc-bayern-muenchen-leiser-abgang-des-lautsprechers-a-73ee3bb6-9695-4c91-90e0-bde819faee6e#ref=rss)
+### österreich
 
-* [https://www.spiegel.de/ausland/gazastreifen-offenbar-zwei-amerikanische-helfer-bei-angriff-verletzt](https://www.spiegel.de/ausland/gazastreifen-offenbar-zwei-amerikanische-helfer-bei-angriff-verletzt-a-791515e6-2bbd-40f8-b3ab-74a715d8a45d#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-vier-deutsche-bei-rundflug-ums-leben-gekommen-tote-identifiziert](https://www.spiegel.de/ausland/oesterreich-vier-deutsche-bei-rundflug-ums-leben-gekommen-tote-identifiziert-a-28af9e72-a56b-4630-a97b-769a0fcdfa05#ref=rss)
+### vier
+
+* [https://www.spiegel.de/ausland/oesterreich-vier-deutsche-bei-rundflug-ums-leben-gekommen-tote-identifiziert](https://www.spiegel.de/ausland/oesterreich-vier-deutsche-bei-rundflug-ums-leben-gekommen-tote-identifiziert-a-28af9e72-a56b-4630-a97b-769a0fcdfa05#ref=rss)
+### rundflug
+
+* [https://www.spiegel.de/ausland/oesterreich-vier-deutsche-bei-rundflug-ums-leben-gekommen-tote-identifiziert](https://www.spiegel.de/ausland/oesterreich-vier-deutsche-bei-rundflug-ums-leben-gekommen-tote-identifiziert-a-28af9e72-a56b-4630-a97b-769a0fcdfa05#ref=rss)
+### kanzler
+
+* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-kanzler-russland-deutschland-krieg-neues-spiegel-cover](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-kanzler-russland-deutschland-krieg-neues-spiegel-cover-a-bbe72358-7bcf-450d-99fe-48c46e9d9d40#ref=rss)
+* [https://www.spiegel.de/ausland/russlands-angriffskrieg-ukraine-meldet-heftige-drohnenattacken-im-ganzen-land](https://www.spiegel.de/ausland/russlands-angriffskrieg-ukraine-meldet-heftige-drohnenattacken-im-ganzen-land-a-2f136eaf-efff-4bae-9ef0-fdcefcc66a6f#ref=rss)
+### a33
+
+* [https://www.spiegel.de/panorama/a33-bei-stukenbrock-senne-kleinkind-stirbt-bei-schwerem-auffahrunfall](https://www.spiegel.de/panorama/a33-bei-stukenbrock-senne-kleinkind-stirbt-bei-schwerem-auffahrunfall-a-19264ca4-f498-4b62-9c05-be1d8f6ce118#ref=rss)
+### cartoons
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1751786034](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1751786034-a-c6c8cdf3-e4d2-449b-9afb-acdc5c940734#ref=rss)
+### woche
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1751786034](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1751786034-a-c6c8cdf3-e4d2-449b-9afb-acdc5c940734#ref=rss)
+### chappatte
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1751786034](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1751786034-a-c6c8cdf3-e4d2-449b-9afb-acdc5c940734#ref=rss)
+### plaßmann
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1751786034](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1751786034-a-c6c8cdf3-e4d2-449b-9afb-acdc5c940734#ref=rss)
+### klaus
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1751786034](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1751786034-a-c6c8cdf3-e4d2-449b-9afb-acdc5c940734#ref=rss)
+### stuttmann
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1751786034](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1751786034-a-c6c8cdf3-e4d2-449b-9afb-acdc5c940734#ref=rss)
+### roland
+
+* [https://www.spiegel.de/ausland/dalai-lama-roland-koch-ueber-seine-ungewoehnliche-freundschaft-und-tibets-zukunft](https://www.spiegel.de/ausland/dalai-lama-roland-koch-ueber-seine-ungewoehnliche-freundschaft-und-tibets-zukunft-a-601e13b7-c8cd-4c70-b595-609cf75f2818#ref=rss)
+### koch
+
+* [https://www.spiegel.de/ausland/dalai-lama-roland-koch-ueber-seine-ungewoehnliche-freundschaft-und-tibets-zukunft](https://www.spiegel.de/ausland/dalai-lama-roland-koch-ueber-seine-ungewoehnliche-freundschaft-und-tibets-zukunft-a-601e13b7-c8cd-4c70-b595-609cf75f2818#ref=rss)
+### frühere
+
+* [https://www.spiegel.de/ausland/dalai-lama-roland-koch-ueber-seine-ungewoehnliche-freundschaft-und-tibets-zukunft](https://www.spiegel.de/ausland/dalai-lama-roland-koch-ueber-seine-ungewoehnliche-freundschaft-und-tibets-zukunft-a-601e13b7-c8cd-4c70-b595-609cf75f2818#ref=rss)
+* [https://www.spiegel.de/politik/christean-wagner-ist-tot-ehemaliger-cdu-politiker-aus-hessen-gestorben](https://www.spiegel.de/politik/christean-wagner-ist-tot-ehemaliger-cdu-politiker-aus-hessen-gestorben-a-df3cd264-395b-4389-b657-2d1f6fc33a5d#ref=rss)
+### ministerpräsident
+
+* [https://www.spiegel.de/ausland/dalai-lama-roland-koch-ueber-seine-ungewoehnliche-freundschaft-und-tibets-zukunft](https://www.spiegel.de/ausland/dalai-lama-roland-koch-ueber-seine-ungewoehnliche-freundschaft-und-tibets-zukunft-a-601e13b7-c8cd-4c70-b595-609cf75f2818#ref=rss)
+* [https://www.spiegel.de/politik/christean-wagner-ist-tot-ehemaliger-cdu-politiker-aus-hessen-gestorben](https://www.spiegel.de/politik/christean-wagner-ist-tot-ehemaliger-cdu-politiker-aus-hessen-gestorben-a-df3cd264-395b-4389-b657-2d1f6fc33a5d#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/ausland/dalai-lama-roland-koch-ueber-seine-ungewoehnliche-freundschaft-und-tibets-zukunft](https://www.spiegel.de/ausland/dalai-lama-roland-koch-ueber-seine-ungewoehnliche-freundschaft-und-tibets-zukunft-a-601e13b7-c8cd-4c70-b595-609cf75f2818#ref=rss)
+* [https://www.spiegel.de/politik/christean-wagner-ist-tot-ehemaliger-cdu-politiker-aus-hessen-gestorben](https://www.spiegel.de/politik/christean-wagner-ist-tot-ehemaliger-cdu-politiker-aus-hessen-gestorben-a-df3cd264-395b-4389-b657-2d1f6fc33a5d#ref=rss)
+### angriff
+
+* [https://www.spiegel.de/ausland/israel-iran-konflikt-voelkerrechtler-zweifeln-gruende-fuer-israels-angriff-auf-iran-an](https://www.spiegel.de/ausland/israel-iran-konflikt-voelkerrechtler-zweifeln-gruende-fuer-israels-angriff-auf-iran-an-a-d50753d5-f5b3-4aea-9cb7-40f7f971c345#ref=rss)
+### iran
+
+* [https://www.spiegel.de/ausland/israel-iran-konflikt-voelkerrechtler-zweifeln-gruende-fuer-israels-angriff-auf-iran-an](https://www.spiegel.de/ausland/israel-iran-konflikt-voelkerrechtler-zweifeln-gruende-fuer-israels-angriff-auf-iran-an-a-d50753d5-f5b3-4aea-9cb7-40f7f971c345#ref=rss)
+### regierungspartei
+
+* [https://www.spiegel.de/ausland/spanien-regierungspartei-psoe-verbietet-mitgliedern-bezahlten-sex](https://www.spiegel.de/ausland/spanien-regierungspartei-psoe-verbietet-mitgliedern-bezahlten-sex-a-81a4aff2-1659-4590-bc2d-fc1f0089033e#ref=rss)
+### psoe
+
+* [https://www.spiegel.de/ausland/spanien-regierungspartei-psoe-verbietet-mitgliedern-bezahlten-sex](https://www.spiegel.de/ausland/spanien-regierungspartei-psoe-verbietet-mitgliedern-bezahlten-sex-a-81a4aff2-1659-4590-bc2d-fc1f0089033e#ref=rss)
+### sachsen
+
+* [https://www.spiegel.de/panorama/waldbraende-in-sachsen-thueringen-sachsen-anhalt-feuergeruch-bis-nach-berlin](https://www.spiegel.de/panorama/waldbraende-in-sachsen-thueringen-sachsen-anhalt-feuergeruch-bis-nach-berlin-a-35e0e8f6-d319-4f8e-99b5-acf49d2a7366#ref=rss)
+### thüringen
+
+* [https://www.spiegel.de/panorama/waldbraende-in-sachsen-thueringen-sachsen-anhalt-feuergeruch-bis-nach-berlin](https://www.spiegel.de/panorama/waldbraende-in-sachsen-thueringen-sachsen-anhalt-feuergeruch-bis-nach-berlin-a-35e0e8f6-d319-4f8e-99b5-acf49d2a7366#ref=rss)
+### sachsenanhalt
+
+* [https://www.spiegel.de/panorama/waldbraende-in-sachsen-thueringen-sachsen-anhalt-feuergeruch-bis-nach-berlin](https://www.spiegel.de/panorama/waldbraende-in-sachsen-thueringen-sachsen-anhalt-feuergeruch-bis-nach-berlin-a-35e0e8f6-d319-4f8e-99b5-acf49d2a7366#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/panorama/waldbraende-in-sachsen-thueringen-sachsen-anhalt-feuergeruch-bis-nach-berlin](https://www.spiegel.de/panorama/waldbraende-in-sachsen-thueringen-sachsen-anhalt-feuergeruch-bis-nach-berlin-a-35e0e8f6-d319-4f8e-99b5-acf49d2a7366#ref=rss)
+### lula
+
+* [https://www.spiegel.de/ausland/brics-gipfel-in-brasilien-luiz-inacio-lula-da-silva-stemmt-sich-gegen-den-bedeutungsverlust](https://www.spiegel.de/ausland/brics-gipfel-in-brasilien-luiz-inacio-lula-da-silva-stemmt-sich-gegen-den-bedeutungsverlust-a-7024a6f3-360d-4e31-8b55-d56e6be0f787#ref=rss)
+### bedeutung
+
+* [https://www.spiegel.de/ausland/brics-gipfel-in-brasilien-luiz-inacio-lula-da-silva-stemmt-sich-gegen-den-bedeutungsverlust](https://www.spiegel.de/ausland/brics-gipfel-in-brasilien-luiz-inacio-lula-da-silva-stemmt-sich-gegen-den-bedeutungsverlust-a-7024a6f3-360d-4e31-8b55-d56e6be0f787#ref=rss)
+* [https://www.spiegel.de/psychologie/verlorener-ring-die-bedeutung-eines-gegenstands](https://www.spiegel.de/psychologie/verlorener-ring-die-bedeutung-eines-gegenstands-a-c0e837ef-6d5a-495c-addf-36343b63e2b2#ref=rss)
+### norovirus
+
+* [https://www.spiegel.de/wissenschaft/mensch/norovirus-auf-kreuzfahrtschiffen-ungewoehnlich-viele-ausbrueche-der-magen-darm-erkrankung](https://www.spiegel.de/wissenschaft/mensch/norovirus-auf-kreuzfahrtschiffen-ungewoehnlich-viele-ausbrueche-der-magen-darm-erkrankung-a-4d8c9473-d1f3-47e2-8e0d-8dee0b97918c#ref=rss)
+### markus
+
+* [https://www.spiegel.de/politik/markus-soeder-hat-laut-gruenen-politiker-martin-stuempfig-atom-luegen-verbreitet](https://www.spiegel.de/politik/markus-soeder-hat-laut-gruenen-politiker-martin-stuempfig-atom-luegen-verbreitet-a-38bed180-1809-425f-8fe1-87509fe0a21c#ref=rss)
+### söder
+
+* [https://www.spiegel.de/politik/markus-soeder-hat-laut-gruenen-politiker-martin-stuempfig-atom-luegen-verbreitet](https://www.spiegel.de/politik/markus-soeder-hat-laut-gruenen-politiker-martin-stuempfig-atom-luegen-verbreitet-a-38bed180-1809-425f-8fe1-87509fe0a21c#ref=rss)
+### christean
+
+* [https://www.spiegel.de/politik/christean-wagner-ist-tot-ehemaliger-cdu-politiker-aus-hessen-gestorben](https://www.spiegel.de/politik/christean-wagner-ist-tot-ehemaliger-cdu-politiker-aus-hessen-gestorben-a-df3cd264-395b-4389-b657-2d1f6fc33a5d#ref=rss)
+### wagner
+
+* [https://www.spiegel.de/politik/christean-wagner-ist-tot-ehemaliger-cdu-politiker-aus-hessen-gestorben](https://www.spiegel.de/politik/christean-wagner-ist-tot-ehemaliger-cdu-politiker-aus-hessen-gestorben-a-df3cd264-395b-4389-b657-2d1f6fc33a5d#ref=rss)
+### cdupolitiker
+
+* [https://www.spiegel.de/politik/christean-wagner-ist-tot-ehemaliger-cdu-politiker-aus-hessen-gestorben](https://www.spiegel.de/politik/christean-wagner-ist-tot-ehemaliger-cdu-politiker-aus-hessen-gestorben-a-df3cd264-395b-4389-b657-2d1f6fc33a5d#ref=rss)
+### ich
+
+* [https://www.spiegel.de/psychologie/verlorener-ring-die-bedeutung-eines-gegenstands](https://www.spiegel.de/psychologie/verlorener-ring-die-bedeutung-eines-gegenstands-a-c0e837ef-6d5a-495c-addf-36343b63e2b2#ref=rss)
 
