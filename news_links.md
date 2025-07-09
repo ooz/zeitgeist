@@ -4,424 +4,323 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### donald
-
-* [https://www.spiegel.de/ausland/donald-trump-vs-elon-musk-eine-dritte-partei-fuer-amerika](https://www.spiegel.de/ausland/donald-trump-vs-elon-musk-eine-dritte-partei-fuer-amerika-a-102ba460-bf1a-4aeb-a849-7d93978d1dfb#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-putin-erzaehlt-uns-eine-menge-bullshit](https://www.spiegel.de/ausland/donald-trump-putin-erzaehlt-uns-eine-menge-bullshit-a-9b9ff2fa-48d7-42a9-b93e-b1a444125494#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-zoelle-eu-kaempft-gegen-jobverluste-im-handelskrieg](https://www.spiegel.de/wirtschaft/donald-trump-und-zoelle-eu-kaempft-gegen-jobverluste-im-handelskrieg-a-847959de-0d02-4bc6-9235-ceca7954d367#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-chinas-laserangriff-afghanistan-visa-elon-musk](https://www.spiegel.de/politik/deutschland/news-des-tages-chinas-laserangriff-afghanistan-visa-elon-musk-a-69f34d91-d7d4-4607-8ac7-e8ab4ff6dcd4#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/donald-trump-vs-elon-musk-eine-dritte-partei-fuer-amerika](https://www.spiegel.de/ausland/donald-trump-vs-elon-musk-eine-dritte-partei-fuer-amerika-a-102ba460-bf1a-4aeb-a849-7d93978d1dfb#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-putin-erzaehlt-uns-eine-menge-bullshit](https://www.spiegel.de/ausland/donald-trump-putin-erzaehlt-uns-eine-menge-bullshit-a-9b9ff2fa-48d7-42a9-b93e-b1a444125494#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-zoelle-eu-kaempft-gegen-jobverluste-im-handelskrieg](https://www.spiegel.de/wirtschaft/donald-trump-und-zoelle-eu-kaempft-gegen-jobverluste-im-handelskrieg-a-847959de-0d02-4bc6-9235-ceca7954d367#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-chinas-laserangriff-afghanistan-visa-elon-musk](https://www.spiegel.de/politik/deutschland/news-des-tages-chinas-laserangriff-afghanistan-visa-elon-musk-a-69f34d91-d7d4-4607-8ac7-e8ab4ff6dcd4#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/iran-das-regime-lenkt-den-zorn-der-menschen-auf-afghanische-fluechtlinge](https://www.spiegel.de/ausland/iran-das-regime-lenkt-den-zorn-der-menschen-auf-afghanische-fluechtlinge-a-ea5976ab-0dbd-4cf4-85b5-334aa6c4cfa8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-podcast](https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-podcast-a-ac779203-17e4-4159-a132-8a263eae0fb0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen](https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-a-6c9d5e51-94e8-4fe5-a8a8-bc187d9f1c17#ref=rss)
-* [https://www.spiegel.de/panorama/texas-mehr-als-100-tote-bei-sturzflut-in-kerr-county-suche-nach-ueberlebenden](https://www.spiegel.de/panorama/texas-mehr-als-100-tote-bei-sturzflut-in-kerr-county-suche-nach-ueberlebenden-a-e842fe86-3832-44ab-ae47-dac1f5133a9c#ref=rss)
-* [https://www.spiegel.de/ausland/ted-cruz-us-senator-hat-aerger-wegen-griechenland-urlaub-waehrend-flut-in-texas](https://www.spiegel.de/ausland/ted-cruz-us-senator-hat-aerger-wegen-griechenland-urlaub-waehrend-flut-in-texas-a-57a705ba-a141-4f4b-a910-5fc7ed7fa0a8#ref=rss)
-### elon
-
-* [https://www.spiegel.de/ausland/donald-trump-vs-elon-musk-eine-dritte-partei-fuer-amerika](https://www.spiegel.de/ausland/donald-trump-vs-elon-musk-eine-dritte-partei-fuer-amerika-a-102ba460-bf1a-4aeb-a849-7d93978d1dfb#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-chinas-laserangriff-afghanistan-visa-elon-musk](https://www.spiegel.de/politik/deutschland/news-des-tages-chinas-laserangriff-afghanistan-visa-elon-musk-a-69f34d91-d7d4-4607-8ac7-e8ab4ff6dcd4#ref=rss)
-### musk
-
-* [https://www.spiegel.de/ausland/donald-trump-vs-elon-musk-eine-dritte-partei-fuer-amerika](https://www.spiegel.de/ausland/donald-trump-vs-elon-musk-eine-dritte-partei-fuer-amerika-a-102ba460-bf1a-4aeb-a849-7d93978d1dfb#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-chinas-laserangriff-afghanistan-visa-elon-musk](https://www.spiegel.de/politik/deutschland/news-des-tages-chinas-laserangriff-afghanistan-visa-elon-musk-a-69f34d91-d7d4-4607-8ac7-e8ab4ff6dcd4#ref=rss)
-### neue
-
-* [https://www.spiegel.de/ausland/donald-trump-vs-elon-musk-eine-dritte-partei-fuer-amerika](https://www.spiegel.de/ausland/donald-trump-vs-elon-musk-eine-dritte-partei-fuer-amerika-a-102ba460-bf1a-4aeb-a849-7d93978d1dfb#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-putin-erzaehlt-uns-eine-menge-bullshit](https://www.spiegel.de/ausland/donald-trump-putin-erzaehlt-uns-eine-menge-bullshit-a-9b9ff2fa-48d7-42a9-b93e-b1a444125494#ref=rss)
-* [https://www.spiegel.de/wirtschaft/innovationsfoerderung-so-verplempert-die-eu-ihre-technologie-milliarden](https://www.spiegel.de/wirtschaft/innovationsfoerderung-so-verplempert-die-eu-ihre-technologie-milliarden-a-b276335c-ce91-4de2-96f8-7cb4339f2bc7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bulgarien-bruessel-genehmigt-euro-einfuehrung](https://www.spiegel.de/wirtschaft/bulgarien-bruessel-genehmigt-euro-einfuehrung-a-7e4f4489-7b93-4cd2-a185-e122b81f11a9#ref=rss)
-### wimbledon
-
-* [https://www.spiegel.de/sport/tennis/wimbledon-laura-siegemunds-niederlage-gegen-aryna-sabalenka-schlaege-auf-den-hinterkopf](https://www.spiegel.de/sport/tennis/wimbledon-laura-siegemunds-niederlage-gegen-aryna-sabalenka-schlaege-auf-den-hinterkopf-a-dde1b908-3ad2-48cb-a736-9f59612cb1b1#ref=rss)
-* [https://www.spiegel.de/sport/tennis/wimbledon-laura-siegemund-unterliegt-aryna-sabalenka-im-viertelfinale](https://www.spiegel.de/sport/tennis/wimbledon-laura-siegemund-unterliegt-aryna-sabalenka-im-viertelfinale-a-8c72f63f-d815-40e6-afdd-4829e623aa81#ref=rss)
-### laura
-
-* [https://www.spiegel.de/sport/tennis/wimbledon-laura-siegemunds-niederlage-gegen-aryna-sabalenka-schlaege-auf-den-hinterkopf](https://www.spiegel.de/sport/tennis/wimbledon-laura-siegemunds-niederlage-gegen-aryna-sabalenka-schlaege-auf-den-hinterkopf-a-dde1b908-3ad2-48cb-a736-9f59612cb1b1#ref=rss)
-* [https://www.spiegel.de/sport/tennis/wimbledon-laura-siegemund-unterliegt-aryna-sabalenka-im-viertelfinale](https://www.spiegel.de/sport/tennis/wimbledon-laura-siegemund-unterliegt-aryna-sabalenka-im-viertelfinale-a-8c72f63f-d815-40e6-afdd-4829e623aa81#ref=rss)
-### aryna
-
-* [https://www.spiegel.de/sport/tennis/wimbledon-laura-siegemunds-niederlage-gegen-aryna-sabalenka-schlaege-auf-den-hinterkopf](https://www.spiegel.de/sport/tennis/wimbledon-laura-siegemunds-niederlage-gegen-aryna-sabalenka-schlaege-auf-den-hinterkopf-a-dde1b908-3ad2-48cb-a736-9f59612cb1b1#ref=rss)
-* [https://www.spiegel.de/sport/tennis/wimbledon-laura-siegemund-unterliegt-aryna-sabalenka-im-viertelfinale](https://www.spiegel.de/sport/tennis/wimbledon-laura-siegemund-unterliegt-aryna-sabalenka-im-viertelfinale-a-8c72f63f-d815-40e6-afdd-4829e623aa81#ref=rss)
-### sabalenka
-
-* [https://www.spiegel.de/sport/tennis/wimbledon-laura-siegemunds-niederlage-gegen-aryna-sabalenka-schlaege-auf-den-hinterkopf](https://www.spiegel.de/sport/tennis/wimbledon-laura-siegemunds-niederlage-gegen-aryna-sabalenka-schlaege-auf-den-hinterkopf-a-dde1b908-3ad2-48cb-a736-9f59612cb1b1#ref=rss)
-* [https://www.spiegel.de/sport/tennis/wimbledon-laura-siegemund-unterliegt-aryna-sabalenka-im-viertelfinale](https://www.spiegel.de/sport/tennis/wimbledon-laura-siegemund-unterliegt-aryna-sabalenka-im-viertelfinale-a-8c72f63f-d815-40e6-afdd-4829e623aa81#ref=rss)
-### balkon
-
-* [https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-podcast](https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-podcast-a-ac779203-17e4-4159-a132-8a263eae0fb0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen](https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-a-6c9d5e51-94e8-4fe5-a8a8-bc187d9f1c17#ref=rss)
-### hohe
-
-* [https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-podcast](https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-podcast-a-ac779203-17e4-4159-a132-8a263eae0fb0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen](https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-a-6c9d5e51-94e8-4fe5-a8a8-bc187d9f1c17#ref=rss)
 ### selbst
 
-* [https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-podcast](https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-podcast-a-ac779203-17e4-4159-a132-8a263eae0fb0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen](https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-a-6c9d5e51-94e8-4fe5-a8a8-bc187d9f1c17#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/mallorca-forscherin-will-blauen-drachen-entdeckt-haben](https://www.spiegel.de/wissenschaft/natur/mallorca-forscherin-will-blauen-drachen-entdeckt-haben-a-7b928f0d-e4c3-4b3b-85ed-038b7b856bc8#ref=rss)
-* [https://www.spiegel.de/sport/fussball/unfalltod-von-diogo-jota-und-andre-silva-polizei-vermutet-ueberhoehte-geschwindigkeit](https://www.spiegel.de/sport/fussball/unfalltod-von-diogo-jota-und-andre-silva-polizei-vermutet-ueberhoehte-geschwindigkeit-a-a0bf2e37-eacd-4cc1-9b6b-df1c442766d2#ref=rss)
-### mehr
+* [https://www.spiegel.de/sport/tennis/tennis-in-wimbledon-ben-shelton-der-showman](https://www.spiegel.de/sport/tennis/tennis-in-wimbledon-ben-shelton-der-showman-a-83684742-cc0b-4c75-a3fd-f1a7d5dfc363#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/baden-wuerttembergs-innenminister-strobl-ueber-krisenzeiten-fuer-notlagen-haben-wir-im-keller-knaeckebrot-buechsenwurst-und-haltbare-kekse](https://www.spiegel.de/politik/deutschland/baden-wuerttembergs-innenminister-strobl-ueber-krisenzeiten-fuer-notlagen-haben-wir-im-keller-knaeckebrot-buechsenwurst-und-haltbare-kekse-a-a051258a-5cb9-4b9c-bdab-35a59d7a1f45#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/katarina-barley-eu-parlamentsvizin-attackiert-ursula-von-der-leyens-evp](https://www.spiegel.de/politik/deutschland/katarina-barley-eu-parlamentsvizin-attackiert-ursula-von-der-leyens-evp-a-bfe6f8b1-2eba-4472-9bbd-69161813251d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hessen-grossrazzia-wegen-sexualisierter-gewalt-gegen-kinder-juengster-verdaechtiger-ist-15](https://www.spiegel.de/panorama/justiz/hessen-grossrazzia-wegen-sexualisierter-gewalt-gegen-kinder-juengster-verdaechtiger-ist-15-a-a963cbc4-f8b1-402a-b745-9608c9e118f1#ref=rss)
+### wirft
 
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-zoelle-eu-kaempft-gegen-jobverluste-im-handelskrieg](https://www.spiegel.de/wirtschaft/donald-trump-und-zoelle-eu-kaempft-gegen-jobverluste-im-handelskrieg-a-847959de-0d02-4bc6-9235-ceca7954d367#ref=rss)
-* [https://www.spiegel.de/panorama/texas-mehr-als-100-tote-bei-sturzflut-in-kerr-county-suche-nach-ueberlebenden](https://www.spiegel.de/panorama/texas-mehr-als-100-tote-bei-sturzflut-in-kerr-county-suche-nach-ueberlebenden-a-e842fe86-3832-44ab-ae47-dac1f5133a9c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/innovationsfoerderung-so-verplempert-die-eu-ihre-technologie-milliarden](https://www.spiegel.de/wirtschaft/innovationsfoerderung-so-verplempert-die-eu-ihre-technologie-milliarden-a-b276335c-ce91-4de2-96f8-7cb4339f2bc7#ref=rss)
-### texas
-
-* [https://www.spiegel.de/panorama/texas-mehr-als-100-tote-bei-sturzflut-in-kerr-county-suche-nach-ueberlebenden](https://www.spiegel.de/panorama/texas-mehr-als-100-tote-bei-sturzflut-in-kerr-county-suche-nach-ueberlebenden-a-e842fe86-3832-44ab-ae47-dac1f5133a9c#ref=rss)
-* [https://www.spiegel.de/ausland/ted-cruz-us-senator-hat-aerger-wegen-griechenland-urlaub-waehrend-flut-in-texas](https://www.spiegel.de/ausland/ted-cruz-us-senator-hat-aerger-wegen-griechenland-urlaub-waehrend-flut-in-texas-a-57a705ba-a141-4f4b-a910-5fc7ed7fa0a8#ref=rss)
-### siegemund
-
-* [https://www.spiegel.de/sport/tennis/wimbledon-laura-siegemunds-niederlage-gegen-aryna-sabalenka-schlaege-auf-den-hinterkopf](https://www.spiegel.de/sport/tennis/wimbledon-laura-siegemunds-niederlage-gegen-aryna-sabalenka-schlaege-auf-den-hinterkopf-a-dde1b908-3ad2-48cb-a736-9f59612cb1b1#ref=rss)
-* [https://www.spiegel.de/sport/tennis/wimbledon-laura-siegemund-unterliegt-aryna-sabalenka-im-viertelfinale](https://www.spiegel.de/sport/tennis/wimbledon-laura-siegemund-unterliegt-aryna-sabalenka-im-viertelfinale-a-8c72f63f-d815-40e6-afdd-4829e623aa81#ref=rss)
-### helfen
-
-* [https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-podcast](https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-podcast-a-ac779203-17e4-4159-a132-8a263eae0fb0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen](https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-a-6c9d5e51-94e8-4fe5-a8a8-bc187d9f1c17#ref=rss)
-* [https://www.spiegel.de/panorama/texas-mehr-als-100-tote-bei-sturzflut-in-kerr-county-suche-nach-ueberlebenden](https://www.spiegel.de/panorama/texas-mehr-als-100-tote-bei-sturzflut-in-kerr-county-suche-nach-ueberlebenden-a-e842fe86-3832-44ab-ae47-dac1f5133a9c#ref=rss)
-### eu
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-zoelle-eu-kaempft-gegen-jobverluste-im-handelskrieg](https://www.spiegel.de/wirtschaft/donald-trump-und-zoelle-eu-kaempft-gegen-jobverluste-im-handelskrieg-a-847959de-0d02-4bc6-9235-ceca7954d367#ref=rss)
-* [https://www.spiegel.de/wirtschaft/innovationsfoerderung-so-verplempert-die-eu-ihre-technologie-milliarden](https://www.spiegel.de/wirtschaft/innovationsfoerderung-so-verplempert-die-eu-ihre-technologie-milliarden-a-b276335c-ce91-4de2-96f8-7cb4339f2bc7#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-chinas-laserangriff-afghanistan-visa-elon-musk](https://www.spiegel.de/politik/deutschland/news-des-tages-chinas-laserangriff-afghanistan-visa-elon-musk-a-69f34d91-d7d4-4607-8ac7-e8ab4ff6dcd4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/daimler-truck-5000-stellen-sollen-in-deutschland-bis-2030-abgebaut-werden](https://www.spiegel.de/wirtschaft/daimler-truck-5000-stellen-sollen-in-deutschland-bis-2030-abgebaut-werden-a-8d9c6d20-d45f-4425-ac08-d48d575621d3#ref=rss)
-### euro
-
-* [https://www.spiegel.de/panorama/bildung/spiegel-bildungsnewsletter-ab-in-die-ferien](https://www.spiegel.de/panorama/bildung/spiegel-bildungsnewsletter-ab-in-die-ferien-a-a768aad7-1ff6-4968-8b80-1df1cee1d873#ref=rss)
-* [https://www.spiegel.de/wirtschaft/innovationsfoerderung-so-verplempert-die-eu-ihre-technologie-milliarden](https://www.spiegel.de/wirtschaft/innovationsfoerderung-so-verplempert-die-eu-ihre-technologie-milliarden-a-b276335c-ce91-4de2-96f8-7cb4339f2bc7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bulgarien-bruessel-genehmigt-euro-einfuehrung](https://www.spiegel.de/wirtschaft/bulgarien-bruessel-genehmigt-euro-einfuehrung-a-7e4f4489-7b93-4cd2-a185-e122b81f11a9#ref=rss)
-### erste
-
-* [https://www.spiegel.de/ausland/ted-cruz-us-senator-hat-aerger-wegen-griechenland-urlaub-waehrend-flut-in-texas](https://www.spiegel.de/ausland/ted-cruz-us-senator-hat-aerger-wegen-griechenland-urlaub-waehrend-flut-in-texas-a-57a705ba-a141-4f4b-a910-5fc7ed7fa0a8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/chinas-laserangriff-was-ueber-die-blendaktion-am-roten-meer-bekannt-ist](https://www.spiegel.de/politik/deutschland/chinas-laserangriff-was-ueber-die-blendaktion-am-roten-meer-bekannt-ist-a-a448c9b5-540c-4613-995a-f2f1c7829382#ref=rss)
-* [https://www.spiegel.de/sport/fussball/unfalltod-von-diogo-jota-und-andre-silva-polizei-vermutet-ueberhoehte-geschwindigkeit](https://www.spiegel.de/sport/fussball/unfalltod-von-diogo-jota-und-andre-silva-polizei-vermutet-ueberhoehte-geschwindigkeit-a-a0bf2e37-eacd-4cc1-9b6b-df1c442766d2#ref=rss)
-### mehrere
-
-* [https://www.spiegel.de/panorama/marseille-waldbrand-erreicht-stadtrand](https://www.spiegel.de/panorama/marseille-waldbrand-erreicht-stadtrand-a-b06080f2-fd9d-4ec8-af89-10219d406127#ref=rss)
-### jota
-
-* [https://www.spiegel.de/sport/fussball/unfalltod-von-diogo-jota-und-andre-silva-polizei-vermutet-ueberhoehte-geschwindigkeit](https://www.spiegel.de/sport/fussball/unfalltod-von-diogo-jota-und-andre-silva-polizei-vermutet-ueberhoehte-geschwindigkeit-a-a0bf2e37-eacd-4cc1-9b6b-df1c442766d2#ref=rss)
-### wolodymyr
-
-* [https://www.spiegel.de/stil/wolodymyr-selenskyj-viktor-anisimov-ueber-die-garderobe-des-praesidenten](https://www.spiegel.de/stil/wolodymyr-selenskyj-viktor-anisimov-ueber-die-garderobe-des-praesidenten-a-d8ab4236-55bc-4776-9d78-700ea47d6633#ref=rss)
-### selenskyj
-
-* [https://www.spiegel.de/stil/wolodymyr-selenskyj-viktor-anisimov-ueber-die-garderobe-des-praesidenten](https://www.spiegel.de/stil/wolodymyr-selenskyj-viktor-anisimov-ueber-die-garderobe-des-praesidenten-a-d8ab4236-55bc-4776-9d78-700ea47d6633#ref=rss)
-### viktor
-
-* [https://www.spiegel.de/stil/wolodymyr-selenskyj-viktor-anisimov-ueber-die-garderobe-des-praesidenten](https://www.spiegel.de/stil/wolodymyr-selenskyj-viktor-anisimov-ueber-die-garderobe-des-praesidenten-a-d8ab4236-55bc-4776-9d78-700ea47d6633#ref=rss)
-### anisimov
-
-* [https://www.spiegel.de/stil/wolodymyr-selenskyj-viktor-anisimov-ueber-die-garderobe-des-praesidenten](https://www.spiegel.de/stil/wolodymyr-selenskyj-viktor-anisimov-ueber-die-garderobe-des-praesidenten-a-d8ab4236-55bc-4776-9d78-700ea47d6633#ref=rss)
-### garderobe
-
-* [https://www.spiegel.de/stil/wolodymyr-selenskyj-viktor-anisimov-ueber-die-garderobe-des-praesidenten](https://www.spiegel.de/stil/wolodymyr-selenskyj-viktor-anisimov-ueber-die-garderobe-des-praesidenten-a-d8ab4236-55bc-4776-9d78-700ea47d6633#ref=rss)
-### präsidenten
-
-* [https://www.spiegel.de/stil/wolodymyr-selenskyj-viktor-anisimov-ueber-die-garderobe-des-praesidenten](https://www.spiegel.de/stil/wolodymyr-selenskyj-viktor-anisimov-ueber-die-garderobe-des-praesidenten-a-d8ab4236-55bc-4776-9d78-700ea47d6633#ref=rss)
-### drohnen
-
-* [https://www.spiegel.de/ausland/ukrainekrieg-drohnen-in-der-luft-zu-land-und-im-wasser-kaempfen-bald-nur-noch-roboter-gegen-roboter](https://www.spiegel.de/ausland/ukrainekrieg-drohnen-in-der-luft-zu-land-und-im-wasser-kaempfen-bald-nur-noch-roboter-gegen-roboter-a-c64db4a6-ac8f-439e-b805-77213b42f4e6#ref=rss)
-### luft
-
-* [https://www.spiegel.de/ausland/ukrainekrieg-drohnen-in-der-luft-zu-land-und-im-wasser-kaempfen-bald-nur-noch-roboter-gegen-roboter](https://www.spiegel.de/ausland/ukrainekrieg-drohnen-in-der-luft-zu-land-und-im-wasser-kaempfen-bald-nur-noch-roboter-gegen-roboter-a-c64db4a6-ac8f-439e-b805-77213b42f4e6#ref=rss)
-### wasser
-
-* [https://www.spiegel.de/ausland/ukrainekrieg-drohnen-in-der-luft-zu-land-und-im-wasser-kaempfen-bald-nur-noch-roboter-gegen-roboter](https://www.spiegel.de/ausland/ukrainekrieg-drohnen-in-der-luft-zu-land-und-im-wasser-kaempfen-bald-nur-noch-roboter-gegen-roboter-a-c64db4a6-ac8f-439e-b805-77213b42f4e6#ref=rss)
-### kämpfen
-
-* [https://www.spiegel.de/ausland/ukrainekrieg-drohnen-in-der-luft-zu-land-und-im-wasser-kaempfen-bald-nur-noch-roboter-gegen-roboter](https://www.spiegel.de/ausland/ukrainekrieg-drohnen-in-der-luft-zu-land-und-im-wasser-kaempfen-bald-nur-noch-roboter-gegen-roboter-a-c64db4a6-ac8f-439e-b805-77213b42f4e6#ref=rss)
-* [https://www.spiegel.de/panorama/marseille-waldbrand-erreicht-stadtrand](https://www.spiegel.de/panorama/marseille-waldbrand-erreicht-stadtrand-a-b06080f2-fd9d-4ec8-af89-10219d406127#ref=rss)
-### roboter
-
-* [https://www.spiegel.de/ausland/ukrainekrieg-drohnen-in-der-luft-zu-land-und-im-wasser-kaempfen-bald-nur-noch-roboter-gegen-roboter](https://www.spiegel.de/ausland/ukrainekrieg-drohnen-in-der-luft-zu-land-und-im-wasser-kaempfen-bald-nur-noch-roboter-gegen-roboter-a-c64db4a6-ac8f-439e-b805-77213b42f4e6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/rechnungshof-wirft-verkehrsminister-schnieder-mangelnde-transparenz-vor](https://www.spiegel.de/wirtschaft/unternehmen/rechnungshof-wirft-verkehrsminister-schnieder-mangelnde-transparenz-vor-a-c6c5e146-34a5-48b0-a65c-ea7bdd49bf89#ref=rss)
+* [https://www.spiegel.de/ausland/rotes-meer-china-weist-deutsche-darstellung-zu-laserangriff-zurueck](https://www.spiegel.de/ausland/rotes-meer-china-weist-deutsche-darstellung-zu-laserangriff-zurueck-a-da09ca68-b61c-475a-b6e2-369b21b7c283#ref=rss)
+* [https://www.spiegel.de/panorama/langenau-konflikt-zwischen-kirchgaengern-und-pro-palaestina-aktivisten-eskaliert](https://www.spiegel.de/panorama/langenau-konflikt-zwischen-kirchgaengern-und-pro-palaestina-aktivisten-eskaliert-a-03d1cd7b-dd94-44b4-ae9a-d70a0d01829a#ref=rss)
 ### ersten
 
-* [https://www.spiegel.de/ausland/ukrainekrieg-drohnen-in-der-luft-zu-land-und-im-wasser-kaempfen-bald-nur-noch-roboter-gegen-roboter](https://www.spiegel.de/ausland/ukrainekrieg-drohnen-in-der-luft-zu-land-und-im-wasser-kaempfen-bald-nur-noch-roboter-gegen-roboter-a-c64db4a6-ac8f-439e-b805-77213b42f4e6#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/kita-so-gelingt-die-eingewoehnung-tipps-fuer-eltern](https://www.spiegel.de/panorama/bildung/kita-so-gelingt-die-eingewoehnung-tipps-fuer-eltern-a-832921c1-c3e8-471f-a62d-60082d5f6647#ref=rss)
-### partei
+* [https://www.spiegel.de/wirtschaft/unternehmen/rechnungshof-wirft-verkehrsminister-schnieder-mangelnde-transparenz-vor](https://www.spiegel.de/wirtschaft/unternehmen/rechnungshof-wirft-verkehrsminister-schnieder-mangelnde-transparenz-vor-a-c6c5e146-34a5-48b0-a65c-ea7bdd49bf89#ref=rss)
+* [https://www.spiegel.de/kultur/barbie-puppe-mit-typ-1-diabetes-kommt-auf-den-markt](https://www.spiegel.de/kultur/barbie-puppe-mit-typ-1-diabetes-kommt-auf-den-markt-a-656c1f80-3cdd-4643-a478-2d89b2785895#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/haushaltsdebatte-im-bundestag-vergesst-den-koalitionsvertrag-kommentar](https://www.spiegel.de/politik/deutschland/haushaltsdebatte-im-bundestag-vergesst-den-koalitionsvertrag-kommentar-a-ef36781a-4cc8-469f-944a-35f66c0cbde2#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/ausland/donald-trump-vs-elon-musk-eine-dritte-partei-fuer-amerika](https://www.spiegel.de/ausland/donald-trump-vs-elon-musk-eine-dritte-partei-fuer-amerika-a-102ba460-bf1a-4aeb-a849-7d93978d1dfb#ref=rss)
-### streit
+* [https://www.spiegel.de/wirtschaft/unternehmen/rechnungshof-wirft-verkehrsminister-schnieder-mangelnde-transparenz-vor](https://www.spiegel.de/wirtschaft/unternehmen/rechnungshof-wirft-verkehrsminister-schnieder-mangelnde-transparenz-vor-a-c6c5e146-34a5-48b0-a65c-ea7bdd49bf89#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreichs-regierung-will-bundesstaatsanwaltschaft-schaffen](https://www.spiegel.de/ausland/oesterreichs-regierung-will-bundesstaatsanwaltschaft-schaffen-a-aa115bcc-6625-4e4f-8cf2-8b6cf61eb41f#ref=rss)
+* [https://www.spiegel.de/wissenschaft/juengste-hitzewelle-forschende-schreiben-mehrheit-der-toten-dem-klimawandel-zu](https://www.spiegel.de/wissenschaft/juengste-hitzewelle-forschende-schreiben-mehrheit-der-toten-dem-klimawandel-zu-a-750a0853-a7fa-4740-844f-0b33efab46ff#ref=rss)
+### regierung
 
-* [https://www.spiegel.de/ausland/donald-trump-vs-elon-musk-eine-dritte-partei-fuer-amerika](https://www.spiegel.de/ausland/donald-trump-vs-elon-musk-eine-dritte-partei-fuer-amerika-a-102ba460-bf1a-4aeb-a849-7d93978d1dfb#ref=rss)
-* [https://www.spiegel.de/politik/bundesverfassungsgericht-union-lehnt-gespraeche-mit-linken-zur-richterwahl-weiter-ab](https://www.spiegel.de/politik/bundesverfassungsgericht-union-lehnt-gespraeche-mit-linken-zur-richterwahl-weiter-ab-a-77b27904-0ba8-4625-8772-a89416ac7c66#ref=rss)
-### uspräsident
+* [https://www.spiegel.de/ausland/oesterreichs-regierung-will-bundesstaatsanwaltschaft-schaffen](https://www.spiegel.de/ausland/oesterreichs-regierung-will-bundesstaatsanwaltschaft-schaffen-a-aa115bcc-6625-4e4f-8cf2-8b6cf61eb41f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/haushaltsdebatte-im-bundestag-vergesst-den-koalitionsvertrag-kommentar](https://www.spiegel.de/politik/deutschland/haushaltsdebatte-im-bundestag-vergesst-den-koalitionsvertrag-kommentar-a-ef36781a-4cc8-469f-944a-35f66c0cbde2#ref=rss)
+### leben
 
-* [https://www.spiegel.de/ausland/donald-trump-vs-elon-musk-eine-dritte-partei-fuer-amerika](https://www.spiegel.de/ausland/donald-trump-vs-elon-musk-eine-dritte-partei-fuer-amerika-a-102ba460-bf1a-4aeb-a849-7d93978d1dfb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-zoelle-eu-kaempft-gegen-jobverluste-im-handelskrieg](https://www.spiegel.de/wirtschaft/donald-trump-und-zoelle-eu-kaempft-gegen-jobverluste-im-handelskrieg-a-847959de-0d02-4bc6-9235-ceca7954d367#ref=rss)
-### putin
+* [https://www.spiegel.de/ausland/oesterreichs-regierung-will-bundesstaatsanwaltschaft-schaffen](https://www.spiegel.de/ausland/oesterreichs-regierung-will-bundesstaatsanwaltschaft-schaffen-a-aa115bcc-6625-4e4f-8cf2-8b6cf61eb41f#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/nordrhein-westfalen-wiederbelebung-als-unterrichtsinhalt-schueler-lernen-leben-zu-retten](https://www.spiegel.de/panorama/bildung/nordrhein-westfalen-wiederbelebung-als-unterrichtsinhalt-schueler-lernen-leben-zu-retten-a-be4114b1-0e9b-411d-8756-5245374707af#ref=rss)
+* [https://www.spiegel.de/panorama/indien-mindestens-neun-tote-nach-brueckeneinsturz-in-indien](https://www.spiegel.de/panorama/indien-mindestens-neun-tote-nach-brueckeneinsturz-in-indien-a-44855cee-dc4b-4755-920f-2f51263dfc04#ref=rss)
+### studie
 
-* [https://www.spiegel.de/ausland/donald-trump-putin-erzaehlt-uns-eine-menge-bullshit](https://www.spiegel.de/ausland/donald-trump-putin-erzaehlt-uns-eine-menge-bullshit-a-9b9ff2fa-48d7-42a9-b93e-b1a444125494#ref=rss)
-### viertelfinale
+* [https://www.spiegel.de/wissenschaft/juengste-hitzewelle-forschende-schreiben-mehrheit-der-toten-dem-klimawandel-zu](https://www.spiegel.de/wissenschaft/juengste-hitzewelle-forschende-schreiben-mehrheit-der-toten-dem-klimawandel-zu-a-750a0853-a7fa-4740-844f-0b33efab46ff#ref=rss)
+* [https://www.spiegel.de/wissenschaft/studie-ueber-kopfbaelle-im-fussball-wie-schaedlich-sind-sie](https://www.spiegel.de/wissenschaft/studie-ueber-kopfbaelle-im-fussball-wie-schaedlich-sind-sie-a-c5ea5066-491c-4780-802f-643a872fae82#ref=rss)
+### hessen
 
-* [https://www.spiegel.de/sport/tennis/wimbledon-laura-siegemunds-niederlage-gegen-aryna-sabalenka-schlaege-auf-den-hinterkopf](https://www.spiegel.de/sport/tennis/wimbledon-laura-siegemunds-niederlage-gegen-aryna-sabalenka-schlaege-auf-den-hinterkopf-a-dde1b908-3ad2-48cb-a736-9f59612cb1b1#ref=rss)
-* [https://www.spiegel.de/sport/tennis/wimbledon-laura-siegemund-unterliegt-aryna-sabalenka-im-viertelfinale](https://www.spiegel.de/sport/tennis/wimbledon-laura-siegemund-unterliegt-aryna-sabalenka-im-viertelfinale-a-8c72f63f-d815-40e6-afdd-4829e623aa81#ref=rss)
-### regime
+* [https://www.spiegel.de/panorama/justiz/jimi-blue-ochsenknecht-sitzt-im-jva-bus-richtung-hessen](https://www.spiegel.de/panorama/justiz/jimi-blue-ochsenknecht-sitzt-im-jva-bus-richtung-hessen-a-4c2c0c0e-3afd-4906-a4f9-78aa5c617fa5#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hessen-grossrazzia-wegen-sexualisierter-gewalt-gegen-kinder-juengster-verdaechtiger-ist-15](https://www.spiegel.de/panorama/justiz/hessen-grossrazzia-wegen-sexualisierter-gewalt-gegen-kinder-juengster-verdaechtiger-ist-15-a-a963cbc4-f8b1-402a-b745-9608c9e118f1#ref=rss)
+### laut
 
-* [https://www.spiegel.de/ausland/iran-das-regime-lenkt-den-zorn-der-menschen-auf-afghanische-fluechtlinge](https://www.spiegel.de/ausland/iran-das-regime-lenkt-den-zorn-der-menschen-auf-afghanische-fluechtlinge-a-ea5976ab-0dbd-4cf4-85b5-334aa6c4cfa8#ref=rss)
-### afghanistan
+* [https://www.spiegel.de/wirtschaft/wirecard-betrugsskandal-wirecard-lebte-laut-insolvenzverwalter-von-krediten](https://www.spiegel.de/wirtschaft/wirecard-betrugsskandal-wirecard-lebte-laut-insolvenzverwalter-von-krediten-a-c67779f6-7aad-4c56-ae2a-b20dcd3a1215#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hessen-grossrazzia-wegen-sexualisierter-gewalt-gegen-kinder-juengster-verdaechtiger-ist-15](https://www.spiegel.de/panorama/justiz/hessen-grossrazzia-wegen-sexualisierter-gewalt-gegen-kinder-juengster-verdaechtiger-ist-15-a-a963cbc4-f8b1-402a-b745-9608c9e118f1#ref=rss)
+### läuft
 
-* [https://www.spiegel.de/ausland/iran-das-regime-lenkt-den-zorn-der-menschen-auf-afghanische-fluechtlinge](https://www.spiegel.de/ausland/iran-das-regime-lenkt-den-zorn-der-menschen-auf-afghanische-fluechtlinge-a-ea5976ab-0dbd-4cf4-85b5-334aa6c4cfa8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-chinas-laserangriff-afghanistan-visa-elon-musk](https://www.spiegel.de/politik/deutschland/news-des-tages-chinas-laserangriff-afghanistan-visa-elon-musk-a-69f34d91-d7d4-4607-8ac7-e8ab4ff6dcd4#ref=rss)
-### tag
+* [https://www.spiegel.de/ausland/jemen-rettungsaktion-fuer-crew-von-griechischem-frachtschiff-laeuft-berichte-ueber-untergang](https://www.spiegel.de/ausland/jemen-rettungsaktion-fuer-crew-von-griechischem-frachtschiff-laeuft-berichte-ueber-untergang-a-f757d71d-9881-44fd-affe-5c56e1714a82#ref=rss)
+* [https://www.spiegel.de/sport/100-meter-rekord-jamaikaner-kishane-thompson-laeuft-100-meter-in-9-75-sekunden](https://www.spiegel.de/sport/100-meter-rekord-jamaikaner-kishane-thompson-laeuft-100-meter-in-9-75-sekunden-a-8a24cb06-494d-4f40-b3a0-0e44b0d10687#ref=rss)
+### meer
 
-* [https://www.spiegel.de/ausland/iran-das-regime-lenkt-den-zorn-der-menschen-auf-afghanische-fluechtlinge](https://www.spiegel.de/ausland/iran-das-regime-lenkt-den-zorn-der-menschen-auf-afghanische-fluechtlinge-a-ea5976ab-0dbd-4cf4-85b5-334aa6c4cfa8#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/kita-so-gelingt-die-eingewoehnung-tipps-fuer-eltern](https://www.spiegel.de/panorama/bildung/kita-so-gelingt-die-eingewoehnung-tipps-fuer-eltern-a-832921c1-c3e8-471f-a62d-60082d5f6647#ref=rss)
-### teurer
-
-* [https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-podcast](https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-podcast-a-ac779203-17e4-4159-a132-8a263eae0fb0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen](https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-a-6c9d5e51-94e8-4fe5-a8a8-bc187d9f1c17#ref=rss)
-### strom
-
-* [https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-podcast](https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-podcast-a-ac779203-17e4-4159-a132-8a263eae0fb0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen](https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-a-6c9d5e51-94e8-4fe5-a8a8-bc187d9f1c17#ref=rss)
-### solarkraftwerke
-
-* [https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-podcast](https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-podcast-a-ac779203-17e4-4159-a132-8a263eae0fb0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen](https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-a-6c9d5e51-94e8-4fe5-a8a8-bc187d9f1c17#ref=rss)
-### kosten
-
-* [https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-podcast](https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-podcast-a-ac779203-17e4-4159-a132-8a263eae0fb0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen](https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-a-6c9d5e51-94e8-4fe5-a8a8-bc187d9f1c17#ref=rss)
-### viele
-
-* [https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-podcast](https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-podcast-a-ac779203-17e4-4159-a132-8a263eae0fb0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen](https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-a-6c9d5e51-94e8-4fe5-a8a8-bc187d9f1c17#ref=rss)
-### klagen
-
-* [https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-podcast](https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-podcast-a-ac779203-17e4-4159-a132-8a263eae0fb0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen](https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-a-6c9d5e51-94e8-4fe5-a8a8-bc187d9f1c17#ref=rss)
-### strompreise
-
-* [https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-podcast](https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-podcast-a-ac779203-17e4-4159-a132-8a263eae0fb0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen](https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-a-6c9d5e51-94e8-4fe5-a8a8-bc187d9f1c17#ref=rss)
-### wäre
-
-* [https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-podcast](https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-podcast-a-ac779203-17e4-4159-a132-8a263eae0fb0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen](https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-a-6c9d5e51-94e8-4fe5-a8a8-bc187d9f1c17#ref=rss)
-### toll
-
-* [https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-podcast](https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-podcast-a-ac779203-17e4-4159-a132-8a263eae0fb0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen](https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-a-6c9d5e51-94e8-4fe5-a8a8-bc187d9f1c17#ref=rss)
-### energie
-
-* [https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-podcast](https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-podcast-a-ac779203-17e4-4159-a132-8a263eae0fb0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen](https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-a-6c9d5e51-94e8-4fe5-a8a8-bc187d9f1c17#ref=rss)
-### erzeugen
-
-* [https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-podcast](https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-podcast-a-ac779203-17e4-4159-a132-8a263eae0fb0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen](https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-a-6c9d5e51-94e8-4fe5-a8a8-bc187d9f1c17#ref=rss)
-### spiegelredakteur
-
-* [https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-podcast](https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-podcast-a-ac779203-17e4-4159-a132-8a263eae0fb0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen](https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-a-6c9d5e51-94e8-4fe5-a8a8-bc187d9f1c17#ref=rss)
-### matthias
-
-* [https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-podcast](https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-podcast-a-ac779203-17e4-4159-a132-8a263eae0fb0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen](https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-a-6c9d5e51-94e8-4fe5-a8a8-bc187d9f1c17#ref=rss)
-### kaufmann
-
-* [https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-podcast](https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-podcast-a-ac779203-17e4-4159-a132-8a263eae0fb0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen](https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-a-6c9d5e51-94e8-4fe5-a8a8-bc187d9f1c17#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-podcast](https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-podcast-a-ac779203-17e4-4159-a132-8a263eae0fb0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen](https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-a-6c9d5e51-94e8-4fe5-a8a8-bc187d9f1c17#ref=rss)
-### wann
-
-* [https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-podcast](https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-podcast-a-ac779203-17e4-4159-a132-8a263eae0fb0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen](https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-a-6c9d5e51-94e8-4fe5-a8a8-bc187d9f1c17#ref=rss)
-### privates
-
-* [https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-podcast](https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-podcast-a-ac779203-17e4-4159-a132-8a263eae0fb0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen](https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-a-6c9d5e51-94e8-4fe5-a8a8-bc187d9f1c17#ref=rss)
-### kraftwerk
-
-* [https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-podcast](https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-podcast-a-ac779203-17e4-4159-a132-8a263eae0fb0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen](https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-a-6c9d5e51-94e8-4fe5-a8a8-bc187d9f1c17#ref=rss)
-### lohnt
-
-* [https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-podcast](https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-podcast-a-ac779203-17e4-4159-a132-8a263eae0fb0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen](https://www.spiegel.de/wirtschaft/service/teurer-strom-wie-solar-kraftwerke-am-balkon-gegen-hohe-kosten-helfen-a-6c9d5e51-94e8-4fe5-a8a8-bc187d9f1c17#ref=rss)
-### marco
-
-* [https://www.spiegel.de/ausland/usa-marco-rubio-betrueger-imitiert-offenbar-us-aussenminister](https://www.spiegel.de/ausland/usa-marco-rubio-betrueger-imitiert-offenbar-us-aussenminister-a-dde3a69c-c913-4e0e-bfd4-245c10ec3500#ref=rss)
-### rubio
-
-* [https://www.spiegel.de/ausland/usa-marco-rubio-betrueger-imitiert-offenbar-us-aussenminister](https://www.spiegel.de/ausland/usa-marco-rubio-betrueger-imitiert-offenbar-us-aussenminister-a-dde3a69c-c913-4e0e-bfd4-245c10ec3500#ref=rss)
+* [https://www.spiegel.de/ausland/jemen-rettungsaktion-fuer-crew-von-griechischem-frachtschiff-laeuft-berichte-ueber-untergang](https://www.spiegel.de/ausland/jemen-rettungsaktion-fuer-crew-von-griechischem-frachtschiff-laeuft-berichte-ueber-untergang-a-f757d71d-9881-44fd-affe-5c56e1714a82#ref=rss)
+* [https://www.spiegel.de/ausland/rotes-meer-china-weist-deutsche-darstellung-zu-laserangriff-zurueck](https://www.spiegel.de/ausland/rotes-meer-china-weist-deutsche-darstellung-zu-laserangriff-zurueck-a-da09ca68-b61c-475a-b6e2-369b21b7c283#ref=rss)
 ### offenbar
 
-* [https://www.spiegel.de/ausland/usa-marco-rubio-betrueger-imitiert-offenbar-us-aussenminister](https://www.spiegel.de/ausland/usa-marco-rubio-betrueger-imitiert-offenbar-us-aussenminister-a-dde3a69c-c913-4e0e-bfd4-245c10ec3500#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/klimawandel-erhoehter-co-gehalt-mindert-offenbar-naehrstoffe-in-gemuese](https://www.spiegel.de/wissenschaft/natur/klimawandel-erhoehter-co-gehalt-mindert-offenbar-naehrstoffe-in-gemuese-a-cf5f988b-c4e1-4dd3-b661-e12ecd49f6d7#ref=rss)
-### usaußenminister
+* [https://www.spiegel.de/ausland/jemen-rettungsaktion-fuer-crew-von-griechischem-frachtschiff-laeuft-berichte-ueber-untergang](https://www.spiegel.de/ausland/jemen-rettungsaktion-fuer-crew-von-griechischem-frachtschiff-laeuft-berichte-ueber-untergang-a-f757d71d-9881-44fd-affe-5c56e1714a82#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ueberzieht-ukraine-mit-schwerstem-drohnenangriff-seit-kriegsbeginn](https://www.spiegel.de/ausland/russland-ueberzieht-ukraine-mit-schwerstem-drohnenangriff-seit-kriegsbeginn-a-94e6394e-a7c0-4b0e-8161-d4afff5259af#ref=rss)
+### frankreich
 
-* [https://www.spiegel.de/ausland/usa-marco-rubio-betrueger-imitiert-offenbar-us-aussenminister](https://www.spiegel.de/ausland/usa-marco-rubio-betrueger-imitiert-offenbar-us-aussenminister-a-dde3a69c-c913-4e0e-bfd4-245c10ec3500#ref=rss)
-### zufolge
+* [https://www.spiegel.de/wirtschaft/lidl-muss-in-frankreich-43-millionen-euro-strafe-zahlen](https://www.spiegel.de/wirtschaft/lidl-muss-in-frankreich-43-millionen-euro-strafe-zahlen-a-74dd3368-e4a8-45de-94d4-3403e3ca63f2#ref=rss)
+* [https://www.spiegel.de/panorama/frankreich-feuerwehr-kaempft-gegen-waldbrand-bei-marseille](https://www.spiegel.de/panorama/frankreich-feuerwehr-kaempft-gegen-waldbrand-bei-marseille-a-5ce80f07-9504-4a70-bad8-ab49462c8587#ref=rss)
+### millionen
 
-* [https://www.spiegel.de/ausland/usa-marco-rubio-betrueger-imitiert-offenbar-us-aussenminister](https://www.spiegel.de/ausland/usa-marco-rubio-betrueger-imitiert-offenbar-us-aussenminister-a-dde3a69c-c913-4e0e-bfd4-245c10ec3500#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/klimawandel-erhoehter-co-gehalt-mindert-offenbar-naehrstoffe-in-gemuese](https://www.spiegel.de/wissenschaft/natur/klimawandel-erhoehter-co-gehalt-mindert-offenbar-naehrstoffe-in-gemuese-a-cf5f988b-c4e1-4dd3-b661-e12ecd49f6d7#ref=rss)
-### text
+* [https://www.spiegel.de/wirtschaft/lidl-muss-in-frankreich-43-millionen-euro-strafe-zahlen](https://www.spiegel.de/wirtschaft/lidl-muss-in-frankreich-43-millionen-euro-strafe-zahlen-a-74dd3368-e4a8-45de-94d4-3403e3ca63f2#ref=rss)
+* [https://www.spiegel.de/kultur/kino/minimaler-dank-fuer-twilight-regisseurin-catherine-hardwicke-ein-cupcake](https://www.spiegel.de/kultur/kino/minimaler-dank-fuer-twilight-regisseurin-catherine-hardwicke-ein-cupcake-a-88304a3d-bc3e-485a-8075-fbd698da5673#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/ausland/usa-marco-rubio-betrueger-imitiert-offenbar-us-aussenminister](https://www.spiegel.de/ausland/usa-marco-rubio-betrueger-imitiert-offenbar-us-aussenminister-a-dde3a69c-c913-4e0e-bfd4-245c10ec3500#ref=rss)
-* [https://www.spiegel.de/wirtschaft/italien-suedtirol-briefmarken-wegen-fehlendem-deutschen-text-zurueckgezogen](https://www.spiegel.de/wirtschaft/italien-suedtirol-briefmarken-wegen-fehlendem-deutschen-text-zurueckgezogen-a-4e1b9c5d-0582-45e8-9588-e21cc308d8f3#ref=rss)
-### demnach
+* [https://www.spiegel.de/panorama/indien-mindestens-neun-tote-nach-brueckeneinsturz-in-indien](https://www.spiegel.de/panorama/indien-mindestens-neun-tote-nach-brueckeneinsturz-in-indien-a-44855cee-dc4b-4755-920f-2f51263dfc04#ref=rss)
+* [https://www.spiegel.de/panorama/frankreich-feuerwehr-kaempft-gegen-waldbrand-bei-marseille](https://www.spiegel.de/panorama/frankreich-feuerwehr-kaempft-gegen-waldbrand-bei-marseille-a-5ce80f07-9504-4a70-bad8-ab49462c8587#ref=rss)
+* [https://www.spiegel.de/panorama/langenau-konflikt-zwischen-kirchgaengern-und-pro-palaestina-aktivisten-eskaliert](https://www.spiegel.de/panorama/langenau-konflikt-zwischen-kirchgaengern-und-pro-palaestina-aktivisten-eskaliert-a-03d1cd7b-dd94-44b4-ae9a-d70a0d01829a#ref=rss)
+### mead
 
-* [https://www.spiegel.de/ausland/usa-marco-rubio-betrueger-imitiert-offenbar-us-aussenminister](https://www.spiegel.de/ausland/usa-marco-rubio-betrueger-imitiert-offenbar-us-aussenminister-a-dde3a69c-c913-4e0e-bfd4-245c10ec3500#ref=rss)
-* [https://www.spiegel.de/sport/fussball/unfalltod-von-diogo-jota-und-andre-silva-polizei-vermutet-ueberhoehte-geschwindigkeit](https://www.spiegel.de/sport/fussball/unfalltod-von-diogo-jota-und-andre-silva-polizei-vermutet-ueberhoehte-geschwindigkeit-a-a0bf2e37-eacd-4cc1-9b6b-df1c442766d2#ref=rss)
-### union
+* [https://www.spiegel.de/sport/fussball/fussball-em-2025-miedema-und-mead-im-emotionalen-em-aufeinandertreffen](https://www.spiegel.de/sport/fussball/fussball-em-2025-miedema-und-mead-im-emotionalen-em-aufeinandertreffen-a-b8a23ad1-f1be-445c-8e27-c9bc18c0b051#ref=rss)
+### bundestag
 
-* [https://www.spiegel.de/politik/bundesverfassungsgericht-union-lehnt-gespraeche-mit-linken-zur-richterwahl-weiter-ab](https://www.spiegel.de/politik/bundesverfassungsgericht-union-lehnt-gespraeche-mit-linken-zur-richterwahl-weiter-ab-a-77b27904-0ba8-4625-8772-a89416ac7c66#ref=rss)
-### linken
+* [https://www.spiegel.de/politik/deutschland/generaldebatte-im-bundestag-der-liveblog-julia-kloeckner-ermahnt-polemische-alice-weidel](https://www.spiegel.de/politik/deutschland/generaldebatte-im-bundestag-der-liveblog-julia-kloeckner-ermahnt-polemische-alice-weidel-a-d4d3a9d4-a595-4209-aad1-e4e262c9b255#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/haushaltsdebatte-im-bundestag-vergesst-den-koalitionsvertrag-kommentar](https://www.spiegel.de/politik/deutschland/haushaltsdebatte-im-bundestag-vergesst-den-koalitionsvertrag-kommentar-a-ef36781a-4cc8-469f-944a-35f66c0cbde2#ref=rss)
+### verkehrsminister
 
-* [https://www.spiegel.de/politik/bundesverfassungsgericht-union-lehnt-gespraeche-mit-linken-zur-richterwahl-weiter-ab](https://www.spiegel.de/politik/bundesverfassungsgericht-union-lehnt-gespraeche-mit-linken-zur-richterwahl-weiter-ab-a-77b27904-0ba8-4625-8772-a89416ac7c66#ref=rss)
-### warnen
+* [https://www.spiegel.de/wirtschaft/unternehmen/rechnungshof-wirft-verkehrsminister-schnieder-mangelnde-transparenz-vor](https://www.spiegel.de/wirtschaft/unternehmen/rechnungshof-wirft-verkehrsminister-schnieder-mangelnde-transparenz-vor-a-c6c5e146-34a5-48b0-a65c-ea7bdd49bf89#ref=rss)
+### transparenz
 
-* [https://www.spiegel.de/politik/bundesverfassungsgericht-union-lehnt-gespraeche-mit-linken-zur-richterwahl-weiter-ab](https://www.spiegel.de/politik/bundesverfassungsgericht-union-lehnt-gespraeche-mit-linken-zur-richterwahl-weiter-ab-a-77b27904-0ba8-4625-8772-a89416ac7c66#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/klimawandel-erhoehter-co-gehalt-mindert-offenbar-naehrstoffe-in-gemuese](https://www.spiegel.de/wissenschaft/natur/klimawandel-erhoehter-co-gehalt-mindert-offenbar-naehrstoffe-in-gemuese-a-cf5f988b-c4e1-4dd3-b661-e12ecd49f6d7#ref=rss)
-### folgen
+* [https://www.spiegel.de/wirtschaft/unternehmen/rechnungshof-wirft-verkehrsminister-schnieder-mangelnde-transparenz-vor](https://www.spiegel.de/wirtschaft/unternehmen/rechnungshof-wirft-verkehrsminister-schnieder-mangelnde-transparenz-vor-a-c6c5e146-34a5-48b0-a65c-ea7bdd49bf89#ref=rss)
+### setzt
 
-* [https://www.spiegel.de/politik/bundesverfassungsgericht-union-lehnt-gespraeche-mit-linken-zur-richterwahl-weiter-ab](https://www.spiegel.de/politik/bundesverfassungsgericht-union-lehnt-gespraeche-mit-linken-zur-richterwahl-weiter-ab-a-77b27904-0ba8-4625-8772-a89416ac7c66#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/klimawandel-erhoehter-co-gehalt-mindert-offenbar-naehrstoffe-in-gemuese](https://www.spiegel.de/wissenschaft/natur/klimawandel-erhoehter-co-gehalt-mindert-offenbar-naehrstoffe-in-gemuese-a-cf5f988b-c4e1-4dd3-b661-e12ecd49f6d7#ref=rss)
-### chinas
+* [https://www.spiegel.de/wirtschaft/unternehmen/rechnungshof-wirft-verkehrsminister-schnieder-mangelnde-transparenz-vor](https://www.spiegel.de/wirtschaft/unternehmen/rechnungshof-wirft-verkehrsminister-schnieder-mangelnde-transparenz-vor-a-c6c5e146-34a5-48b0-a65c-ea7bdd49bf89#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ueberzieht-ukraine-mit-schwerstem-drohnenangriff-seit-kriegsbeginn](https://www.spiegel.de/ausland/russland-ueberzieht-ukraine-mit-schwerstem-drohnenangriff-seit-kriegsbeginn-a-94e6394e-a7c0-4b0e-8161-d4afff5259af#ref=rss)
+### kritisiert
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-chinas-laserangriff-afghanistan-visa-elon-musk](https://www.spiegel.de/politik/deutschland/news-des-tages-chinas-laserangriff-afghanistan-visa-elon-musk-a-69f34d91-d7d4-4607-8ac7-e8ab4ff6dcd4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/chinas-laserangriff-was-ueber-die-blendaktion-am-roten-meer-bekannt-ist](https://www.spiegel.de/politik/deutschland/chinas-laserangriff-was-ueber-die-blendaktion-am-roten-meer-bekannt-ist-a-a448c9b5-540c-4613-995a-f2f1c7829382#ref=rss)
-### laserangriff
+* [https://www.spiegel.de/wirtschaft/unternehmen/rechnungshof-wirft-verkehrsminister-schnieder-mangelnde-transparenz-vor](https://www.spiegel.de/wirtschaft/unternehmen/rechnungshof-wirft-verkehrsminister-schnieder-mangelnde-transparenz-vor-a-c6c5e146-34a5-48b0-a65c-ea7bdd49bf89#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/linken-politiker-ramelow-will-unions-richterkandidaten-spinner-waehlen](https://www.spiegel.de/politik/deutschland/linken-politiker-ramelow-will-unions-richterkandidaten-spinner-waehlen-a-aeb72a90-98a0-4626-b1a5-3ef907c079bc#ref=rss)
+### carola
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-chinas-laserangriff-afghanistan-visa-elon-musk](https://www.spiegel.de/politik/deutschland/news-des-tages-chinas-laserangriff-afghanistan-visa-elon-musk-a-69f34d91-d7d4-4607-8ac7-e8ab4ff6dcd4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/chinas-laserangriff-was-ueber-die-blendaktion-am-roten-meer-bekannt-ist](https://www.spiegel.de/politik/deutschland/chinas-laserangriff-was-ueber-die-blendaktion-am-roten-meer-bekannt-ist-a-a448c9b5-540c-4613-995a-f2f1c7829382#ref=rss)
-### visa
+* [https://www.spiegel.de/politik/deutschland/carola-rackete-ex-sea-watch-kapitaenin-gibt-mandat-im-eu-parlament-auf](https://www.spiegel.de/politik/deutschland/carola-rackete-ex-sea-watch-kapitaenin-gibt-mandat-im-eu-parlament-auf-a-fb54889c-35ba-4bd0-ba33-8528e24aace9#ref=rss)
+### rackete
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-chinas-laserangriff-afghanistan-visa-elon-musk](https://www.spiegel.de/politik/deutschland/news-des-tages-chinas-laserangriff-afghanistan-visa-elon-musk-a-69f34d91-d7d4-4607-8ac7-e8ab4ff6dcd4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/carola-rackete-ex-sea-watch-kapitaenin-gibt-mandat-im-eu-parlament-auf](https://www.spiegel.de/politik/deutschland/carola-rackete-ex-sea-watch-kapitaenin-gibt-mandat-im-eu-parlament-auf-a-fb54889c-35ba-4bd0-ba33-8528e24aace9#ref=rss)
+### euparlament
+
+* [https://www.spiegel.de/politik/deutschland/carola-rackete-ex-sea-watch-kapitaenin-gibt-mandat-im-eu-parlament-auf](https://www.spiegel.de/politik/deutschland/carola-rackete-ex-sea-watch-kapitaenin-gibt-mandat-im-eu-parlament-auf-a-fb54889c-35ba-4bd0-ba33-8528e24aace9#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/politik/deutschland/carola-rackete-ex-sea-watch-kapitaenin-gibt-mandat-im-eu-parlament-auf](https://www.spiegel.de/politik/deutschland/carola-rackete-ex-sea-watch-kapitaenin-gibt-mandat-im-eu-parlament-auf-a-fb54889c-35ba-4bd0-ba33-8528e24aace9#ref=rss)
+* [https://www.spiegel.de/wissenschaft/studie-ueber-kopfbaelle-im-fussball-wie-schaedlich-sind-sie](https://www.spiegel.de/wissenschaft/studie-ueber-kopfbaelle-im-fussball-wie-schaedlich-sind-sie-a-c5ea5066-491c-4780-802f-643a872fae82#ref=rss)
+### wohl
+
+* [https://www.spiegel.de/ausland/oesterreichs-regierung-will-bundesstaatsanwaltschaft-schaffen](https://www.spiegel.de/ausland/oesterreichs-regierung-will-bundesstaatsanwaltschaft-schaffen-a-aa115bcc-6625-4e4f-8cf2-8b6cf61eb41f#ref=rss)
+* [https://www.spiegel.de/ausland/jemen-rettungsaktion-fuer-crew-von-griechischem-frachtschiff-laeuft-berichte-ueber-untergang](https://www.spiegel.de/ausland/jemen-rettungsaktion-fuer-crew-von-griechischem-frachtschiff-laeuft-berichte-ueber-untergang-a-f757d71d-9881-44fd-affe-5c56e1714a82#ref=rss)
+### rufen
+
+* [https://www.spiegel.de/ausland/oesterreichs-regierung-will-bundesstaatsanwaltschaft-schaffen](https://www.spiegel.de/ausland/oesterreichs-regierung-will-bundesstaatsanwaltschaft-schaffen-a-aa115bcc-6625-4e4f-8cf2-8b6cf61eb41f#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/nordrhein-westfalen-wiederbelebung-als-unterrichtsinhalt-schueler-lernen-leben-zu-retten](https://www.spiegel.de/panorama/bildung/nordrhein-westfalen-wiederbelebung-als-unterrichtsinhalt-schueler-lernen-leben-zu-retten-a-be4114b1-0e9b-411d-8756-5245374707af#ref=rss)
+### verhindert
+
+* [https://www.spiegel.de/ausland/oesterreichs-regierung-will-bundesstaatsanwaltschaft-schaffen](https://www.spiegel.de/ausland/oesterreichs-regierung-will-bundesstaatsanwaltschaft-schaffen-a-aa115bcc-6625-4e4f-8cf2-8b6cf61eb41f#ref=rss)
+* [https://www.spiegel.de/panorama/frankreich-feuerwehr-kaempft-gegen-waldbrand-bei-marseille](https://www.spiegel.de/panorama/frankreich-feuerwehr-kaempft-gegen-waldbrand-bei-marseille-a-5ce80f07-9504-4a70-bad8-ab49462c8587#ref=rss)
+### ben
+
+* [https://www.spiegel.de/sport/tennis/tennis-in-wimbledon-ben-shelton-der-showman](https://www.spiegel.de/sport/tennis/tennis-in-wimbledon-ben-shelton-der-showman-a-83684742-cc0b-4c75-a3fd-f1a7d5dfc363#ref=rss)
+### shelton
+
+* [https://www.spiegel.de/sport/tennis/tennis-in-wimbledon-ben-shelton-der-showman](https://www.spiegel.de/sport/tennis/tennis-in-wimbledon-ben-shelton-der-showman-a-83684742-cc0b-4c75-a3fd-f1a7d5dfc363#ref=rss)
+### versetzt
+
+* [https://www.spiegel.de/sport/tennis/tennis-in-wimbledon-ben-shelton-der-showman](https://www.spiegel.de/sport/tennis/tennis-in-wimbledon-ben-shelton-der-showman-a-83684742-cc0b-4c75-a3fd-f1a7d5dfc363#ref=rss)
+* [https://www.spiegel.de/sport/100-meter-rekord-jamaikaner-kishane-thompson-laeuft-100-meter-in-9-75-sekunden](https://www.spiegel.de/sport/100-meter-rekord-jamaikaner-kishane-thompson-laeuft-100-meter-in-9-75-sekunden-a-8a24cb06-494d-4f40-b3a0-0e44b0d10687#ref=rss)
+### pkkchef
+
+* [https://www.spiegel.de/ausland/pkk-chef-abdullah-oecalan-bekraeftigt-seinen-aufruf-fuer-frieden-in-seltener-videobotschaft](https://www.spiegel.de/ausland/pkk-chef-abdullah-oecalan-bekraeftigt-seinen-aufruf-fuer-frieden-in-seltener-videobotschaft-a-3429a719-56bc-4a53-93e8-26cc9ab99e42#ref=rss)
+### abdullah
+
+* [https://www.spiegel.de/ausland/pkk-chef-abdullah-oecalan-bekraeftigt-seinen-aufruf-fuer-frieden-in-seltener-videobotschaft](https://www.spiegel.de/ausland/pkk-chef-abdullah-oecalan-bekraeftigt-seinen-aufruf-fuer-frieden-in-seltener-videobotschaft-a-3429a719-56bc-4a53-93e8-26cc9ab99e42#ref=rss)
+### erste
+
+* [https://www.spiegel.de/ausland/pkk-chef-abdullah-oecalan-bekraeftigt-seinen-aufruf-fuer-frieden-in-seltener-videobotschaft](https://www.spiegel.de/ausland/pkk-chef-abdullah-oecalan-bekraeftigt-seinen-aufruf-fuer-frieden-in-seltener-videobotschaft-a-3429a719-56bc-4a53-93e8-26cc9ab99e42#ref=rss)
+* [https://www.spiegel.de/kultur/kino/minimaler-dank-fuer-twilight-regisseurin-catherine-hardwicke-ein-cupcake](https://www.spiegel.de/kultur/kino/minimaler-dank-fuer-twilight-regisseurin-catherine-hardwicke-ein-cupcake-a-88304a3d-bc3e-485a-8075-fbd698da5673#ref=rss)
+### festnahme
+
+* [https://www.spiegel.de/ausland/pkk-chef-abdullah-oecalan-bekraeftigt-seinen-aufruf-fuer-frieden-in-seltener-videobotschaft](https://www.spiegel.de/ausland/pkk-chef-abdullah-oecalan-bekraeftigt-seinen-aufruf-fuer-frieden-in-seltener-videobotschaft-a-3429a719-56bc-4a53-93e8-26cc9ab99e42#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/jimi-blue-ochsenknecht-sitzt-im-jva-bus-richtung-hessen](https://www.spiegel.de/panorama/justiz/jimi-blue-ochsenknecht-sitzt-im-jva-bus-richtung-hessen-a-4c2c0c0e-3afd-4906-a4f9-78aa5c617fa5#ref=rss)
+### erreicht
+
+* [https://www.spiegel.de/ausland/pkk-chef-abdullah-oecalan-bekraeftigt-seinen-aufruf-fuer-frieden-in-seltener-videobotschaft](https://www.spiegel.de/ausland/pkk-chef-abdullah-oecalan-bekraeftigt-seinen-aufruf-fuer-frieden-in-seltener-videobotschaft-a-3429a719-56bc-4a53-93e8-26cc9ab99e42#ref=rss)
+* [https://www.spiegel.de/panorama/frankreich-feuerwehr-kaempft-gegen-waldbrand-bei-marseille](https://www.spiegel.de/panorama/frankreich-feuerwehr-kaempft-gegen-waldbrand-bei-marseille-a-5ce80f07-9504-4a70-bad8-ab49462c8587#ref=rss)
+### badenwürttembergs
+
+* [https://www.spiegel.de/politik/deutschland/baden-wuerttembergs-innenminister-strobl-ueber-krisenzeiten-fuer-notlagen-haben-wir-im-keller-knaeckebrot-buechsenwurst-und-haltbare-kekse](https://www.spiegel.de/politik/deutschland/baden-wuerttembergs-innenminister-strobl-ueber-krisenzeiten-fuer-notlagen-haben-wir-im-keller-knaeckebrot-buechsenwurst-und-haltbare-kekse-a-a051258a-5cb9-4b9c-bdab-35a59d7a1f45#ref=rss)
+### strobl
+
+* [https://www.spiegel.de/politik/deutschland/baden-wuerttembergs-innenminister-strobl-ueber-krisenzeiten-fuer-notlagen-haben-wir-im-keller-knaeckebrot-buechsenwurst-und-haltbare-kekse](https://www.spiegel.de/politik/deutschland/baden-wuerttembergs-innenminister-strobl-ueber-krisenzeiten-fuer-notlagen-haben-wir-im-keller-knaeckebrot-buechsenwurst-und-haltbare-kekse-a-a051258a-5cb9-4b9c-bdab-35a59d7a1f45#ref=rss)
+### gehen
+
+* [https://www.spiegel.de/wissenschaft/juengste-hitzewelle-forschende-schreiben-mehrheit-der-toten-dem-klimawandel-zu](https://www.spiegel.de/wissenschaft/juengste-hitzewelle-forschende-schreiben-mehrheit-der-toten-dem-klimawandel-zu-a-750a0853-a7fa-4740-844f-0b33efab46ff#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-red-bull-trennt-sich-von-manager-christian-horner](https://www.spiegel.de/sport/formel1/formel-1-red-bull-trennt-sich-von-manager-christian-horner-a-583aeea3-3e91-44c8-b85b-18f21b9d5759#ref=rss)
+### katarina
+
+* [https://www.spiegel.de/politik/deutschland/katarina-barley-eu-parlamentsvizin-attackiert-ursula-von-der-leyens-evp](https://www.spiegel.de/politik/deutschland/katarina-barley-eu-parlamentsvizin-attackiert-ursula-von-der-leyens-evp-a-bfe6f8b1-2eba-4472-9bbd-69161813251d#ref=rss)
+### barley
+
+* [https://www.spiegel.de/politik/deutschland/katarina-barley-eu-parlamentsvizin-attackiert-ursula-von-der-leyens-evp](https://www.spiegel.de/politik/deutschland/katarina-barley-eu-parlamentsvizin-attackiert-ursula-von-der-leyens-evp-a-bfe6f8b1-2eba-4472-9bbd-69161813251d#ref=rss)
+### ursula
+
+* [https://www.spiegel.de/politik/deutschland/katarina-barley-eu-parlamentsvizin-attackiert-ursula-von-der-leyens-evp](https://www.spiegel.de/politik/deutschland/katarina-barley-eu-parlamentsvizin-attackiert-ursula-von-der-leyens-evp-a-bfe6f8b1-2eba-4472-9bbd-69161813251d#ref=rss)
+### leyens
+
+* [https://www.spiegel.de/politik/deutschland/katarina-barley-eu-parlamentsvizin-attackiert-ursula-von-der-leyens-evp](https://www.spiegel.de/politik/deutschland/katarina-barley-eu-parlamentsvizin-attackiert-ursula-von-der-leyens-evp-a-bfe6f8b1-2eba-4472-9bbd-69161813251d#ref=rss)
+### per
+
+* [https://www.spiegel.de/politik/deutschland/katarina-barley-eu-parlamentsvizin-attackiert-ursula-von-der-leyens-evp](https://www.spiegel.de/politik/deutschland/katarina-barley-eu-parlamentsvizin-attackiert-ursula-von-der-leyens-evp-a-bfe6f8b1-2eba-4472-9bbd-69161813251d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/jimi-blue-ochsenknecht-sitzt-im-jva-bus-richtung-hessen](https://www.spiegel.de/panorama/justiz/jimi-blue-ochsenknecht-sitzt-im-jva-bus-richtung-hessen-a-4c2c0c0e-3afd-4906-a4f9-78aa5c617fa5#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/politik/deutschland/katarina-barley-eu-parlamentsvizin-attackiert-ursula-von-der-leyens-evp](https://www.spiegel.de/politik/deutschland/katarina-barley-eu-parlamentsvizin-attackiert-ursula-von-der-leyens-evp-a-bfe6f8b1-2eba-4472-9bbd-69161813251d#ref=rss)
+* [https://www.spiegel.de/kultur/barbie-puppe-mit-typ-1-diabetes-kommt-auf-den-markt](https://www.spiegel.de/kultur/barbie-puppe-mit-typ-1-diabetes-kommt-auf-den-markt-a-656c1f80-3cdd-4643-a478-2d89b2785895#ref=rss)
+### schuld
+
+* [https://www.spiegel.de/politik/deutschland/katarina-barley-eu-parlamentsvizin-attackiert-ursula-von-der-leyens-evp](https://www.spiegel.de/politik/deutschland/katarina-barley-eu-parlamentsvizin-attackiert-ursula-von-der-leyens-evp-a-bfe6f8b1-2eba-4472-9bbd-69161813251d#ref=rss)
+* [https://www.spiegel.de/sport/olympia/freispruch-vor-dem-cas-fuer-fechterin-ysaora-thibus-es-waren-kuesse-kein-doping](https://www.spiegel.de/sport/olympia/freispruch-vor-dem-cas-fuer-fechterin-ysaora-thibus-es-waren-kuesse-kein-doping-a-e170b1ad-d117-4beb-83d3-26f4a08305af#ref=rss)
+### jimi
+
+* [https://www.spiegel.de/panorama/justiz/jimi-blue-ochsenknecht-sitzt-im-jva-bus-richtung-hessen](https://www.spiegel.de/panorama/justiz/jimi-blue-ochsenknecht-sitzt-im-jva-bus-richtung-hessen-a-4c2c0c0e-3afd-4906-a4f9-78aa5c617fa5#ref=rss)
+### blue
+
+* [https://www.spiegel.de/panorama/justiz/jimi-blue-ochsenknecht-sitzt-im-jva-bus-richtung-hessen](https://www.spiegel.de/panorama/justiz/jimi-blue-ochsenknecht-sitzt-im-jva-bus-richtung-hessen-a-4c2c0c0e-3afd-4906-a4f9-78aa5c617fa5#ref=rss)
+### ochsenknecht
+
+* [https://www.spiegel.de/panorama/justiz/jimi-blue-ochsenknecht-sitzt-im-jva-bus-richtung-hessen](https://www.spiegel.de/panorama/justiz/jimi-blue-ochsenknecht-sitzt-im-jva-bus-richtung-hessen-a-4c2c0c0e-3afd-4906-a4f9-78aa5c617fa5#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/panorama/justiz/jimi-blue-ochsenknecht-sitzt-im-jva-bus-richtung-hessen](https://www.spiegel.de/panorama/justiz/jimi-blue-ochsenknecht-sitzt-im-jva-bus-richtung-hessen-a-4c2c0c0e-3afd-4906-a4f9-78aa5c617fa5#ref=rss)
+* [https://www.spiegel.de/ausland/jemen-rettungsaktion-fuer-crew-von-griechischem-frachtschiff-laeuft-berichte-ueber-untergang](https://www.spiegel.de/ausland/jemen-rettungsaktion-fuer-crew-von-griechischem-frachtschiff-laeuft-berichte-ueber-untergang-a-f757d71d-9881-44fd-affe-5c56e1714a82#ref=rss)
+### lebte
+
+* [https://www.spiegel.de/wirtschaft/wirecard-betrugsskandal-wirecard-lebte-laut-insolvenzverwalter-von-krediten](https://www.spiegel.de/wirtschaft/wirecard-betrugsskandal-wirecard-lebte-laut-insolvenzverwalter-von-krediten-a-c67779f6-7aad-4c56-ae2a-b20dcd3a1215#ref=rss)
+### insolvenzverwalter
+
+* [https://www.spiegel.de/wirtschaft/wirecard-betrugsskandal-wirecard-lebte-laut-insolvenzverwalter-von-krediten](https://www.spiegel.de/wirtschaft/wirecard-betrugsskandal-wirecard-lebte-laut-insolvenzverwalter-von-krediten-a-c67779f6-7aad-4c56-ae2a-b20dcd3a1215#ref=rss)
+### krediten
+
+* [https://www.spiegel.de/wirtschaft/wirecard-betrugsskandal-wirecard-lebte-laut-insolvenzverwalter-von-krediten](https://www.spiegel.de/wirtschaft/wirecard-betrugsskandal-wirecard-lebte-laut-insolvenzverwalter-von-krediten-a-c67779f6-7aad-4c56-ae2a-b20dcd3a1215#ref=rss)
+### ramelow
+
+* [https://www.spiegel.de/politik/deutschland/linken-politiker-ramelow-will-unions-richterkandidaten-spinner-waehlen](https://www.spiegel.de/politik/deutschland/linken-politiker-ramelow-will-unions-richterkandidaten-spinner-waehlen-a-aeb72a90-98a0-4626-b1a5-3ef907c079bc#ref=rss)
+### rettungsaktion
+
+* [https://www.spiegel.de/ausland/jemen-rettungsaktion-fuer-crew-von-griechischem-frachtschiff-laeuft-berichte-ueber-untergang](https://www.spiegel.de/ausland/jemen-rettungsaktion-fuer-crew-von-griechischem-frachtschiff-laeuft-berichte-ueber-untergang-a-f757d71d-9881-44fd-affe-5c56e1714a82#ref=rss)
+### fall
+
+* [https://www.spiegel.de/ausland/jemen-rettungsaktion-fuer-crew-von-griechischem-frachtschiff-laeuft-berichte-ueber-untergang](https://www.spiegel.de/ausland/jemen-rettungsaktion-fuer-crew-von-griechischem-frachtschiff-laeuft-berichte-ueber-untergang-a-f757d71d-9881-44fd-affe-5c56e1714a82#ref=rss)
+* [https://www.spiegel.de/sport/olympia/freispruch-vor-dem-cas-fuer-fechterin-ysaora-thibus-es-waren-kuesse-kein-doping](https://www.spiegel.de/sport/olympia/freispruch-vor-dem-cas-fuer-fechterin-ysaora-thibus-es-waren-kuesse-kein-doping-a-e170b1ad-d117-4beb-83d3-26f4a08305af#ref=rss)
+### lidl
+
+* [https://www.spiegel.de/wirtschaft/lidl-muss-in-frankreich-43-millionen-euro-strafe-zahlen](https://www.spiegel.de/wirtschaft/lidl-muss-in-frankreich-43-millionen-euro-strafe-zahlen-a-74dd3368-e4a8-45de-94d4-3403e3ca63f2#ref=rss)
+### euro
+
+* [https://www.spiegel.de/wirtschaft/lidl-muss-in-frankreich-43-millionen-euro-strafe-zahlen](https://www.spiegel.de/wirtschaft/lidl-muss-in-frankreich-43-millionen-euro-strafe-zahlen-a-74dd3368-e4a8-45de-94d4-3403e3ca63f2#ref=rss)
+* [https://www.spiegel.de/start/guenstiges-blitz-rezept-fuer-japanischen-suchtkohl-nur-1-50-euro-pro-portion](https://www.spiegel.de/start/guenstiges-blitz-rezept-fuer-japanischen-suchtkohl-nur-1-50-euro-pro-portion-a-3278c0bc-5d46-4109-ad57-f56cd17c2b73#ref=rss)
+### typ1diabetes
+
+* [https://www.spiegel.de/kultur/barbie-puppe-mit-typ-1-diabetes-kommt-auf-den-markt](https://www.spiegel.de/kultur/barbie-puppe-mit-typ-1-diabetes-kommt-auf-den-markt-a-656c1f80-3cdd-4643-a478-2d89b2785895#ref=rss)
+### weist
+
+* [https://www.spiegel.de/kultur/barbie-puppe-mit-typ-1-diabetes-kommt-auf-den-markt](https://www.spiegel.de/kultur/barbie-puppe-mit-typ-1-diabetes-kommt-auf-den-markt-a-656c1f80-3cdd-4643-a478-2d89b2785895#ref=rss)
+* [https://www.spiegel.de/ausland/rotes-meer-china-weist-deutsche-darstellung-zu-laserangriff-zurueck](https://www.spiegel.de/ausland/rotes-meer-china-weist-deutsche-darstellung-zu-laserangriff-zurueck-a-da09ca68-b61c-475a-b6e2-369b21b7c283#ref=rss)
+### formel
+
+* [https://www.spiegel.de/sport/formel1/formel-1-red-bull-trennt-sich-von-manager-christian-horner](https://www.spiegel.de/sport/formel1/formel-1-red-bull-trennt-sich-von-manager-christian-horner-a-583aeea3-3e91-44c8-b85b-18f21b9d5759#ref=rss)
+### 1
+
+* [https://www.spiegel.de/sport/formel1/formel-1-red-bull-trennt-sich-von-manager-christian-horner](https://www.spiegel.de/sport/formel1/formel-1-red-bull-trennt-sich-von-manager-christian-horner-a-583aeea3-3e91-44c8-b85b-18f21b9d5759#ref=rss)
+### red
+
+* [https://www.spiegel.de/sport/formel1/formel-1-red-bull-trennt-sich-von-manager-christian-horner](https://www.spiegel.de/sport/formel1/formel-1-red-bull-trennt-sich-von-manager-christian-horner-a-583aeea3-3e91-44c8-b85b-18f21b9d5759#ref=rss)
+### bull
+
+* [https://www.spiegel.de/sport/formel1/formel-1-red-bull-trennt-sich-von-manager-christian-horner](https://www.spiegel.de/sport/formel1/formel-1-red-bull-trennt-sich-von-manager-christian-horner-a-583aeea3-3e91-44c8-b85b-18f21b9d5759#ref=rss)
+### christian
+
+* [https://www.spiegel.de/sport/formel1/formel-1-red-bull-trennt-sich-von-manager-christian-horner](https://www.spiegel.de/sport/formel1/formel-1-red-bull-trennt-sich-von-manager-christian-horner-a-583aeea3-3e91-44c8-b85b-18f21b9d5759#ref=rss)
+### horner
+
+* [https://www.spiegel.de/sport/formel1/formel-1-red-bull-trennt-sich-von-manager-christian-horner](https://www.spiegel.de/sport/formel1/formel-1-red-bull-trennt-sich-von-manager-christian-horner-a-583aeea3-3e91-44c8-b85b-18f21b9d5759#ref=rss)
+### nordrheinwestfalen
+
+* [https://www.spiegel.de/panorama/bildung/nordrhein-westfalen-wiederbelebung-als-unterrichtsinhalt-schueler-lernen-leben-zu-retten](https://www.spiegel.de/panorama/bildung/nordrhein-westfalen-wiederbelebung-als-unterrichtsinhalt-schueler-lernen-leben-zu-retten-a-be4114b1-0e9b-411d-8756-5245374707af#ref=rss)
+### lernen
+
+* [https://www.spiegel.de/panorama/bildung/nordrhein-westfalen-wiederbelebung-als-unterrichtsinhalt-schueler-lernen-leben-zu-retten](https://www.spiegel.de/panorama/bildung/nordrhein-westfalen-wiederbelebung-als-unterrichtsinhalt-schueler-lernen-leben-zu-retten-a-be4114b1-0e9b-411d-8756-5245374707af#ref=rss)
+### china
+
+* [https://www.spiegel.de/ausland/rotes-meer-china-weist-deutsche-darstellung-zu-laserangriff-zurueck](https://www.spiegel.de/ausland/rotes-meer-china-weist-deutsche-darstellung-zu-laserangriff-zurueck-a-da09ca68-b61c-475a-b6e2-369b21b7c283#ref=rss)
+### indien
+
+* [https://www.spiegel.de/panorama/indien-mindestens-neun-tote-nach-brueckeneinsturz-in-indien](https://www.spiegel.de/panorama/indien-mindestens-neun-tote-nach-brueckeneinsturz-in-indien-a-44855cee-dc4b-4755-920f-2f51263dfc04#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/wissenschaft/studie-ueber-kopfbaelle-im-fussball-wie-schaedlich-sind-sie](https://www.spiegel.de/wissenschaft/studie-ueber-kopfbaelle-im-fussball-wie-schaedlich-sind-sie-a-c5ea5066-491c-4780-802f-643a872fae82#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/haushaltsdebatte-im-bundestag-vergesst-den-koalitionsvertrag-kommentar](https://www.spiegel.de/politik/deutschland/haushaltsdebatte-im-bundestag-vergesst-den-koalitionsvertrag-kommentar-a-ef36781a-4cc8-469f-944a-35f66c0cbde2#ref=rss)
+### miedema
+
+* [https://www.spiegel.de/sport/fussball/fussball-em-2025-miedema-und-mead-im-emotionalen-em-aufeinandertreffen](https://www.spiegel.de/sport/fussball/fussball-em-2025-miedema-und-mead-im-emotionalen-em-aufeinandertreffen-a-b8a23ad1-f1be-445c-8e27-c9bc18c0b051#ref=rss)
+### generaldebatte
+
+* [https://www.spiegel.de/politik/deutschland/generaldebatte-im-bundestag-der-liveblog-julia-kloeckner-ermahnt-polemische-alice-weidel](https://www.spiegel.de/politik/deutschland/generaldebatte-im-bundestag-der-liveblog-julia-kloeckner-ermahnt-polemische-alice-weidel-a-d4d3a9d4-a595-4209-aad1-e4e262c9b255#ref=rss)
+### klöckner
+
+* [https://www.spiegel.de/politik/deutschland/generaldebatte-im-bundestag-der-liveblog-julia-kloeckner-ermahnt-polemische-alice-weidel](https://www.spiegel.de/politik/deutschland/generaldebatte-im-bundestag-der-liveblog-julia-kloeckner-ermahnt-polemische-alice-weidel-a-d4d3a9d4-a595-4209-aad1-e4e262c9b255#ref=rss)
+### polemische
+
+* [https://www.spiegel.de/politik/deutschland/generaldebatte-im-bundestag-der-liveblog-julia-kloeckner-ermahnt-polemische-alice-weidel](https://www.spiegel.de/politik/deutschland/generaldebatte-im-bundestag-der-liveblog-julia-kloeckner-ermahnt-polemische-alice-weidel-a-d4d3a9d4-a595-4209-aad1-e4e262c9b255#ref=rss)
+### weidel
+
+* [https://www.spiegel.de/politik/deutschland/generaldebatte-im-bundestag-der-liveblog-julia-kloeckner-ermahnt-polemische-alice-weidel](https://www.spiegel.de/politik/deutschland/generaldebatte-im-bundestag-der-liveblog-julia-kloeckner-ermahnt-polemische-alice-weidel-a-d4d3a9d4-a595-4209-aad1-e4e262c9b255#ref=rss)
+### jamaikaner
+
+* [https://www.spiegel.de/sport/100-meter-rekord-jamaikaner-kishane-thompson-laeuft-100-meter-in-9-75-sekunden](https://www.spiegel.de/sport/100-meter-rekord-jamaikaner-kishane-thompson-laeuft-100-meter-in-9-75-sekunden-a-8a24cb06-494d-4f40-b3a0-0e44b0d10687#ref=rss)
+### kishane
+
+* [https://www.spiegel.de/sport/100-meter-rekord-jamaikaner-kishane-thompson-laeuft-100-meter-in-9-75-sekunden](https://www.spiegel.de/sport/100-meter-rekord-jamaikaner-kishane-thompson-laeuft-100-meter-in-9-75-sekunden-a-8a24cb06-494d-4f40-b3a0-0e44b0d10687#ref=rss)
+### thompson
+
+* [https://www.spiegel.de/sport/100-meter-rekord-jamaikaner-kishane-thompson-laeuft-100-meter-in-9-75-sekunden](https://www.spiegel.de/sport/100-meter-rekord-jamaikaner-kishane-thompson-laeuft-100-meter-in-9-75-sekunden-a-8a24cb06-494d-4f40-b3a0-0e44b0d10687#ref=rss)
 ### 100
 
-* [https://www.spiegel.de/panorama/texas-mehr-als-100-tote-bei-sturzflut-in-kerr-county-suche-nach-ueberlebenden](https://www.spiegel.de/panorama/texas-mehr-als-100-tote-bei-sturzflut-in-kerr-county-suche-nach-ueberlebenden-a-e842fe86-3832-44ab-ae47-dac1f5133a9c#ref=rss)
-### sturzflut
+* [https://www.spiegel.de/sport/100-meter-rekord-jamaikaner-kishane-thompson-laeuft-100-meter-in-9-75-sekunden](https://www.spiegel.de/sport/100-meter-rekord-jamaikaner-kishane-thompson-laeuft-100-meter-in-9-75-sekunden-a-8a24cb06-494d-4f40-b3a0-0e44b0d10687#ref=rss)
+### meter
 
-* [https://www.spiegel.de/panorama/texas-mehr-als-100-tote-bei-sturzflut-in-kerr-county-suche-nach-ueberlebenden](https://www.spiegel.de/panorama/texas-mehr-als-100-tote-bei-sturzflut-in-kerr-county-suche-nach-ueberlebenden-a-e842fe86-3832-44ab-ae47-dac1f5133a9c#ref=rss)
-### kerr
+* [https://www.spiegel.de/sport/100-meter-rekord-jamaikaner-kishane-thompson-laeuft-100-meter-in-9-75-sekunden](https://www.spiegel.de/sport/100-meter-rekord-jamaikaner-kishane-thompson-laeuft-100-meter-in-9-75-sekunden-a-8a24cb06-494d-4f40-b3a0-0e44b0d10687#ref=rss)
+### 975
 
-* [https://www.spiegel.de/panorama/texas-mehr-als-100-tote-bei-sturzflut-in-kerr-county-suche-nach-ueberlebenden](https://www.spiegel.de/panorama/texas-mehr-als-100-tote-bei-sturzflut-in-kerr-county-suche-nach-ueberlebenden-a-e842fe86-3832-44ab-ae47-dac1f5133a9c#ref=rss)
-### county
+* [https://www.spiegel.de/sport/100-meter-rekord-jamaikaner-kishane-thompson-laeuft-100-meter-in-9-75-sekunden](https://www.spiegel.de/sport/100-meter-rekord-jamaikaner-kishane-thompson-laeuft-100-meter-in-9-75-sekunden-a-8a24cb06-494d-4f40-b3a0-0e44b0d10687#ref=rss)
+### sekunden
 
-* [https://www.spiegel.de/panorama/texas-mehr-als-100-tote-bei-sturzflut-in-kerr-county-suche-nach-ueberlebenden](https://www.spiegel.de/panorama/texas-mehr-als-100-tote-bei-sturzflut-in-kerr-county-suche-nach-ueberlebenden-a-e842fe86-3832-44ab-ae47-dac1f5133a9c#ref=rss)
-### suche
+* [https://www.spiegel.de/sport/100-meter-rekord-jamaikaner-kishane-thompson-laeuft-100-meter-in-9-75-sekunden](https://www.spiegel.de/sport/100-meter-rekord-jamaikaner-kishane-thompson-laeuft-100-meter-in-9-75-sekunden-a-8a24cb06-494d-4f40-b3a0-0e44b0d10687#ref=rss)
+### catherine
 
-* [https://www.spiegel.de/panorama/texas-mehr-als-100-tote-bei-sturzflut-in-kerr-county-suche-nach-ueberlebenden](https://www.spiegel.de/panorama/texas-mehr-als-100-tote-bei-sturzflut-in-kerr-county-suche-nach-ueberlebenden-a-e842fe86-3832-44ab-ae47-dac1f5133a9c#ref=rss)
-### überlebenden
+* [https://www.spiegel.de/kultur/kino/minimaler-dank-fuer-twilight-regisseurin-catherine-hardwicke-ein-cupcake](https://www.spiegel.de/kultur/kino/minimaler-dank-fuer-twilight-regisseurin-catherine-hardwicke-ein-cupcake-a-88304a3d-bc3e-485a-8075-fbd698da5673#ref=rss)
+### hardwicke
 
-* [https://www.spiegel.de/panorama/texas-mehr-als-100-tote-bei-sturzflut-in-kerr-county-suche-nach-ueberlebenden](https://www.spiegel.de/panorama/texas-mehr-als-100-tote-bei-sturzflut-in-kerr-county-suche-nach-ueberlebenden-a-e842fe86-3832-44ab-ae47-dac1f5133a9c#ref=rss)
-### möglichen
+* [https://www.spiegel.de/kultur/kino/minimaler-dank-fuer-twilight-regisseurin-catherine-hardwicke-ein-cupcake](https://www.spiegel.de/kultur/kino/minimaler-dank-fuer-twilight-regisseurin-catherine-hardwicke-ein-cupcake-a-88304a3d-bc3e-485a-8075-fbd698da5673#ref=rss)
+### fechterin
 
-* [https://www.spiegel.de/panorama/texas-mehr-als-100-tote-bei-sturzflut-in-kerr-county-suche-nach-ueberlebenden](https://www.spiegel.de/panorama/texas-mehr-als-100-tote-bei-sturzflut-in-kerr-county-suche-nach-ueberlebenden-a-e842fe86-3832-44ab-ae47-dac1f5133a9c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/klimawandel-erhoehter-co-gehalt-mindert-offenbar-naehrstoffe-in-gemuese](https://www.spiegel.de/wissenschaft/natur/klimawandel-erhoehter-co-gehalt-mindert-offenbar-naehrstoffe-in-gemuese-a-cf5f988b-c4e1-4dd3-b661-e12ecd49f6d7#ref=rss)
-### tour
+* [https://www.spiegel.de/sport/olympia/freispruch-vor-dem-cas-fuer-fechterin-ysaora-thibus-es-waren-kuesse-kein-doping](https://www.spiegel.de/sport/olympia/freispruch-vor-dem-cas-fuer-fechterin-ysaora-thibus-es-waren-kuesse-kein-doping-a-e170b1ad-d117-4beb-83d3-26f4a08305af#ref=rss)
+### feuerwehr
 
-* [https://www.spiegel.de/sport/tour-de-france-4-etappe-die-kathedrale-des-radsports](https://www.spiegel.de/sport/tour-de-france-4-etappe-die-kathedrale-des-radsports-a-5d495c09-9561-4e44-9337-86495633dab4#ref=rss)
-### de
+* [https://www.spiegel.de/panorama/frankreich-feuerwehr-kaempft-gegen-waldbrand-bei-marseille](https://www.spiegel.de/panorama/frankreich-feuerwehr-kaempft-gegen-waldbrand-bei-marseille-a-5ce80f07-9504-4a70-bad8-ab49462c8587#ref=rss)
+### stadt
 
-* [https://www.spiegel.de/sport/tour-de-france-4-etappe-die-kathedrale-des-radsports](https://www.spiegel.de/sport/tour-de-france-4-etappe-die-kathedrale-des-radsports-a-5d495c09-9561-4e44-9337-86495633dab4#ref=rss)
-### france
+* [https://www.spiegel.de/panorama/frankreich-feuerwehr-kaempft-gegen-waldbrand-bei-marseille](https://www.spiegel.de/panorama/frankreich-feuerwehr-kaempft-gegen-waldbrand-bei-marseille-a-5ce80f07-9504-4a70-bad8-ab49462c8587#ref=rss)
+* [https://www.spiegel.de/panorama/langenau-konflikt-zwischen-kirchgaengern-und-pro-palaestina-aktivisten-eskaliert](https://www.spiegel.de/panorama/langenau-konflikt-zwischen-kirchgaengern-und-pro-palaestina-aktivisten-eskaliert-a-03d1cd7b-dd94-44b4-ae9a-d70a0d01829a#ref=rss)
+### russland
 
-* [https://www.spiegel.de/sport/tour-de-france-4-etappe-die-kathedrale-des-radsports](https://www.spiegel.de/sport/tour-de-france-4-etappe-die-kathedrale-des-radsports-a-5d495c09-9561-4e44-9337-86495633dab4#ref=rss)
-### milliarden
+* [https://www.spiegel.de/ausland/russland-ueberzieht-ukraine-mit-schwerstem-drohnenangriff-seit-kriegsbeginn](https://www.spiegel.de/ausland/russland-ueberzieht-ukraine-mit-schwerstem-drohnenangriff-seit-kriegsbeginn-a-94e6394e-a7c0-4b0e-8161-d4afff5259af#ref=rss)
+### drohnen
 
-* [https://www.spiegel.de/panorama/bildung/spiegel-bildungsnewsletter-ab-in-die-ferien](https://www.spiegel.de/panorama/bildung/spiegel-bildungsnewsletter-ab-in-die-ferien-a-a768aad7-1ff6-4968-8b80-1df1cee1d873#ref=rss)
-* [https://www.spiegel.de/wirtschaft/innovationsfoerderung-so-verplempert-die-eu-ihre-technologie-milliarden](https://www.spiegel.de/wirtschaft/innovationsfoerderung-so-verplempert-die-eu-ihre-technologie-milliarden-a-b276335c-ce91-4de2-96f8-7cb4339f2bc7#ref=rss)
-### ted
+* [https://www.spiegel.de/ausland/russland-ueberzieht-ukraine-mit-schwerstem-drohnenangriff-seit-kriegsbeginn](https://www.spiegel.de/ausland/russland-ueberzieht-ukraine-mit-schwerstem-drohnenangriff-seit-kriegsbeginn-a-94e6394e-a7c0-4b0e-8161-d4afff5259af#ref=rss)
+### raketen
 
-* [https://www.spiegel.de/ausland/ted-cruz-us-senator-hat-aerger-wegen-griechenland-urlaub-waehrend-flut-in-texas](https://www.spiegel.de/ausland/ted-cruz-us-senator-hat-aerger-wegen-griechenland-urlaub-waehrend-flut-in-texas-a-57a705ba-a141-4f4b-a910-5fc7ed7fa0a8#ref=rss)
-### cruz
+* [https://www.spiegel.de/ausland/russland-ueberzieht-ukraine-mit-schwerstem-drohnenangriff-seit-kriegsbeginn](https://www.spiegel.de/ausland/russland-ueberzieht-ukraine-mit-schwerstem-drohnenangriff-seit-kriegsbeginn-a-94e6394e-a7c0-4b0e-8161-d4afff5259af#ref=rss)
+### langenau
 
-* [https://www.spiegel.de/ausland/ted-cruz-us-senator-hat-aerger-wegen-griechenland-urlaub-waehrend-flut-in-texas](https://www.spiegel.de/ausland/ted-cruz-us-senator-hat-aerger-wegen-griechenland-urlaub-waehrend-flut-in-texas-a-57a705ba-a141-4f4b-a910-5fc7ed7fa0a8#ref=rss)
-### ussenator
-
-* [https://www.spiegel.de/ausland/ted-cruz-us-senator-hat-aerger-wegen-griechenland-urlaub-waehrend-flut-in-texas](https://www.spiegel.de/ausland/ted-cruz-us-senator-hat-aerger-wegen-griechenland-urlaub-waehrend-flut-in-texas-a-57a705ba-a141-4f4b-a910-5fc7ed7fa0a8#ref=rss)
-### brüssel
-
-* [https://www.spiegel.de/wirtschaft/innovationsfoerderung-so-verplempert-die-eu-ihre-technologie-milliarden](https://www.spiegel.de/wirtschaft/innovationsfoerderung-so-verplempert-die-eu-ihre-technologie-milliarden-a-b276335c-ce91-4de2-96f8-7cb4339f2bc7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bulgarien-bruessel-genehmigt-euro-einfuehrung](https://www.spiegel.de/wirtschaft/bulgarien-bruessel-genehmigt-euro-einfuehrung-a-7e4f4489-7b93-4cd2-a185-e122b81f11a9#ref=rss)
-### münster
-
-* [https://www.spiegel.de/kultur/muenster-gericht-stoppt-warnhinweise-in-stadtbuecherei](https://www.spiegel.de/kultur/muenster-gericht-stoppt-warnhinweise-in-stadtbuecherei-a-43c0c2c3-c574-4397-b830-58c97ee288fd#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/kultur/muenster-gericht-stoppt-warnhinweise-in-stadtbuecherei](https://www.spiegel.de/kultur/muenster-gericht-stoppt-warnhinweise-in-stadtbuecherei-a-43c0c2c3-c574-4397-b830-58c97ee288fd#ref=rss)
-### marseille
-
-* [https://www.spiegel.de/panorama/marseille-waldbrand-erreicht-stadtrand](https://www.spiegel.de/panorama/marseille-waldbrand-erreicht-stadtrand-a-b06080f2-fd9d-4ec8-af89-10219d406127#ref=rss)
-### italienische
-
-* [https://www.spiegel.de/wirtschaft/italien-suedtirol-briefmarken-wegen-fehlendem-deutschen-text-zurueckgezogen](https://www.spiegel.de/wirtschaft/italien-suedtirol-briefmarken-wegen-fehlendem-deutschen-text-zurueckgezogen-a-4e1b9c5d-0582-45e8-9588-e21cc308d8f3#ref=rss)
-### hexe
-
-* [https://www.spiegel.de/kultur/politische-hexe-wie-bibi-blocksberg-auf-tiktok-zur-feministischen-ikone-wird](https://www.spiegel.de/kultur/politische-hexe-wie-bibi-blocksberg-auf-tiktok-zur-feministischen-ikone-wird-a-470c5aea-bae4-4da8-9027-be6f400ed43d#ref=rss)
-### bibi
-
-* [https://www.spiegel.de/kultur/politische-hexe-wie-bibi-blocksberg-auf-tiktok-zur-feministischen-ikone-wird](https://www.spiegel.de/kultur/politische-hexe-wie-bibi-blocksberg-auf-tiktok-zur-feministischen-ikone-wird-a-470c5aea-bae4-4da8-9027-be6f400ed43d#ref=rss)
-### blocksberg
-
-* [https://www.spiegel.de/kultur/politische-hexe-wie-bibi-blocksberg-auf-tiktok-zur-feministischen-ikone-wird](https://www.spiegel.de/kultur/politische-hexe-wie-bibi-blocksberg-auf-tiktok-zur-feministischen-ikone-wird-a-470c5aea-bae4-4da8-9027-be6f400ed43d#ref=rss)
-### bekannt
-
-* [https://www.spiegel.de/kultur/politische-hexe-wie-bibi-blocksberg-auf-tiktok-zur-feministischen-ikone-wird](https://www.spiegel.de/kultur/politische-hexe-wie-bibi-blocksberg-auf-tiktok-zur-feministischen-ikone-wird-a-470c5aea-bae4-4da8-9027-be6f400ed43d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/chinas-laserangriff-was-ueber-die-blendaktion-am-roten-meer-bekannt-ist](https://www.spiegel.de/politik/deutschland/chinas-laserangriff-was-ueber-die-blendaktion-am-roten-meer-bekannt-ist-a-a448c9b5-540c-4613-995a-f2f1c7829382#ref=rss)
-### kräfte
-
-* [https://www.spiegel.de/kultur/politische-hexe-wie-bibi-blocksberg-auf-tiktok-zur-feministischen-ikone-wird](https://www.spiegel.de/kultur/politische-hexe-wie-bibi-blocksberg-auf-tiktok-zur-feministischen-ikone-wird-a-470c5aea-bae4-4da8-9027-be6f400ed43d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bulgarien-bruessel-genehmigt-euro-einfuehrung](https://www.spiegel.de/wirtschaft/bulgarien-bruessel-genehmigt-euro-einfuehrung-a-7e4f4489-7b93-4cd2-a185-e122b81f11a9#ref=rss)
-### eltern
-
-* [https://www.spiegel.de/panorama/bildung/kita-so-gelingt-die-eingewoehnung-tipps-fuer-eltern](https://www.spiegel.de/panorama/bildung/kita-so-gelingt-die-eingewoehnung-tipps-fuer-eltern-a-832921c1-c3e8-471f-a62d-60082d5f6647#ref=rss)
-### erhöhter
-
-* [https://www.spiegel.de/wissenschaft/natur/klimawandel-erhoehter-co-gehalt-mindert-offenbar-naehrstoffe-in-gemuese](https://www.spiegel.de/wissenschaft/natur/klimawandel-erhoehter-co-gehalt-mindert-offenbar-naehrstoffe-in-gemuese-a-cf5f988b-c4e1-4dd3-b661-e12ecd49f6d7#ref=rss)
-### co₂gehalt
-
-* [https://www.spiegel.de/wissenschaft/natur/klimawandel-erhoehter-co-gehalt-mindert-offenbar-naehrstoffe-in-gemuese](https://www.spiegel.de/wissenschaft/natur/klimawandel-erhoehter-co-gehalt-mindert-offenbar-naehrstoffe-in-gemuese-a-cf5f988b-c4e1-4dd3-b661-e12ecd49f6d7#ref=rss)
-### gemüse
-
-* [https://www.spiegel.de/wissenschaft/natur/klimawandel-erhoehter-co-gehalt-mindert-offenbar-naehrstoffe-in-gemuese](https://www.spiegel.de/wissenschaft/natur/klimawandel-erhoehter-co-gehalt-mindert-offenbar-naehrstoffe-in-gemuese-a-cf5f988b-c4e1-4dd3-b661-e12ecd49f6d7#ref=rss)
-### entdeckt
-
-* [https://www.spiegel.de/wissenschaft/natur/mallorca-forscherin-will-blauen-drachen-entdeckt-haben](https://www.spiegel.de/wissenschaft/natur/mallorca-forscherin-will-blauen-drachen-entdeckt-haben-a-7b928f0d-e4c3-4b3b-85ed-038b7b856bc8#ref=rss)
-### daimler
-
-* [https://www.spiegel.de/wirtschaft/daimler-truck-5000-stellen-sollen-in-deutschland-bis-2030-abgebaut-werden](https://www.spiegel.de/wirtschaft/daimler-truck-5000-stellen-sollen-in-deutschland-bis-2030-abgebaut-werden-a-8d9c6d20-d45f-4425-ac08-d48d575621d3#ref=rss)
-### truck
-
-* [https://www.spiegel.de/wirtschaft/daimler-truck-5000-stellen-sollen-in-deutschland-bis-2030-abgebaut-werden](https://www.spiegel.de/wirtschaft/daimler-truck-5000-stellen-sollen-in-deutschland-bis-2030-abgebaut-werden-a-8d9c6d20-d45f-4425-ac08-d48d575621d3#ref=rss)
-### 2030
-
-* [https://www.spiegel.de/wirtschaft/daimler-truck-5000-stellen-sollen-in-deutschland-bis-2030-abgebaut-werden](https://www.spiegel.de/wirtschaft/daimler-truck-5000-stellen-sollen-in-deutschland-bis-2030-abgebaut-werden-a-8d9c6d20-d45f-4425-ac08-d48d575621d3#ref=rss)
-### abgebaut
-
-* [https://www.spiegel.de/wirtschaft/daimler-truck-5000-stellen-sollen-in-deutschland-bis-2030-abgebaut-werden](https://www.spiegel.de/wirtschaft/daimler-truck-5000-stellen-sollen-in-deutschland-bis-2030-abgebaut-werden-a-8d9c6d20-d45f-4425-ac08-d48d575621d3#ref=rss)
-### bulgarien
-
-* [https://www.spiegel.de/wirtschaft/bulgarien-bruessel-genehmigt-euro-einfuehrung](https://www.spiegel.de/wirtschaft/bulgarien-bruessel-genehmigt-euro-einfuehrung-a-7e4f4489-7b93-4cd2-a185-e122b81f11a9#ref=rss)
-### unfalltod
-
-* [https://www.spiegel.de/sport/fussball/unfalltod-von-diogo-jota-und-andre-silva-polizei-vermutet-ueberhoehte-geschwindigkeit](https://www.spiegel.de/sport/fussball/unfalltod-von-diogo-jota-und-andre-silva-polizei-vermutet-ueberhoehte-geschwindigkeit-a-a0bf2e37-eacd-4cc1-9b6b-df1c442766d2#ref=rss)
-### diogo
-
-* [https://www.spiegel.de/sport/fussball/unfalltod-von-diogo-jota-und-andre-silva-polizei-vermutet-ueberhoehte-geschwindigkeit](https://www.spiegel.de/sport/fussball/unfalltod-von-diogo-jota-und-andre-silva-polizei-vermutet-ueberhoehte-geschwindigkeit-a-a0bf2e37-eacd-4cc1-9b6b-df1c442766d2#ref=rss)
-### andré
-
-* [https://www.spiegel.de/sport/fussball/unfalltod-von-diogo-jota-und-andre-silva-polizei-vermutet-ueberhoehte-geschwindigkeit](https://www.spiegel.de/sport/fussball/unfalltod-von-diogo-jota-und-andre-silva-polizei-vermutet-ueberhoehte-geschwindigkeit-a-a0bf2e37-eacd-4cc1-9b6b-df1c442766d2#ref=rss)
-### silva
-
-* [https://www.spiegel.de/sport/fussball/unfalltod-von-diogo-jota-und-andre-silva-polizei-vermutet-ueberhoehte-geschwindigkeit](https://www.spiegel.de/sport/fussball/unfalltod-von-diogo-jota-und-andre-silva-polizei-vermutet-ueberhoehte-geschwindigkeit-a-a0bf2e37-eacd-4cc1-9b6b-df1c442766d2#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/sport/fussball/unfalltod-von-diogo-jota-und-andre-silva-polizei-vermutet-ueberhoehte-geschwindigkeit](https://www.spiegel.de/sport/fussball/unfalltod-von-diogo-jota-und-andre-silva-polizei-vermutet-ueberhoehte-geschwindigkeit-a-a0bf2e37-eacd-4cc1-9b6b-df1c442766d2#ref=rss)
+* [https://www.spiegel.de/panorama/langenau-konflikt-zwischen-kirchgaengern-und-pro-palaestina-aktivisten-eskaliert](https://www.spiegel.de/panorama/langenau-konflikt-zwischen-kirchgaengern-und-pro-palaestina-aktivisten-eskaliert-a-03d1cd7b-dd94-44b4-ae9a-d70a0d01829a#ref=rss)
 
