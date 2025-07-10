@@ -4,401 +4,350 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### friedrich
+### trump
 
-* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-richterwahl-koennte-koalition-in-die-krise-stuerzen](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-richterwahl-koennte-koalition-in-die-krise-stuerzen-a-3255b96b-4c43-4aa8-ae22-e8d3a04a43d5#ref=rss)
-* [https://www.spiegel.de/politik/afd-dominiert-generaldebatte-im-bundestag-friedrich-merz-haelt-dagegen](https://www.spiegel.de/politik/afd-dominiert-generaldebatte-im-bundestag-friedrich-merz-haelt-dagegen-a-2659c996-321c-41d5-81b9-9e73d399a677#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-wirkt-als-muesse-er-sich-wehren-und-whatsapp-kanaele-koennen-gefaehrlich-sein-fuer-kinder](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-wirkt-als-muesse-er-sich-wehren-und-whatsapp-kanaele-koennen-gefaehrlich-sein-fuer-kinder-a-286caf03-7824-435e-bbef-ecbca7007427#ref=rss)
-### merz
+* [https://www.spiegel.de/politik/deutschland/urlaub-2025-das-sind-die-neuen-empfehlungen-statt-usa-ostsee-mallorca-satire](https://www.spiegel.de/politik/deutschland/urlaub-2025-das-sind-die-neuen-empfehlungen-statt-usa-ostsee-mallorca-satire-a-3c1a721f-59ac-4995-82f2-aa0e25c50b05#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-ex-funktionaer-wegen-untreue-nach-treffen-mit-donald-trump-und-elon-musk-angeklagt](https://www.spiegel.de/politik/deutschland/cdu-ex-funktionaer-wegen-untreue-nach-treffen-mit-donald-trump-und-elon-musk-angeklagt-a-98e8e45c-59cd-44a9-ab3c-5fd6d29c4774#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trumps-zoll-plaene-kupferpreise-in-den-usa-klettern-auf-allzeithoch](https://www.spiegel.de/wirtschaft/donald-trumps-zoll-plaene-kupferpreise-in-den-usa-klettern-auf-allzeithoch-a-0cb440ad-fa72-488d-8ae6-28dd7d48ba98#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-warum-donald-trump-ploetzlich-sauer-auf-wladimir-putin-ist](https://www.spiegel.de/ausland/ukraine-krieg-warum-donald-trump-ploetzlich-sauer-auf-wladimir-putin-ist-a-e16198b5-7e1c-426c-b12e-133e1d3b4b4c#ref=rss)
+### usa
 
-* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-richterwahl-koennte-koalition-in-die-krise-stuerzen](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-richterwahl-koennte-koalition-in-die-krise-stuerzen-a-3255b96b-4c43-4aa8-ae22-e8d3a04a43d5#ref=rss)
-* [https://www.spiegel.de/politik/afd-dominiert-generaldebatte-im-bundestag-friedrich-merz-haelt-dagegen](https://www.spiegel.de/politik/afd-dominiert-generaldebatte-im-bundestag-friedrich-merz-haelt-dagegen-a-2659c996-321c-41d5-81b9-9e73d399a677#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-wirkt-als-muesse-er-sich-wehren-und-whatsapp-kanaele-koennen-gefaehrlich-sein-fuer-kinder](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-wirkt-als-muesse-er-sich-wehren-und-whatsapp-kanaele-koennen-gefaehrlich-sein-fuer-kinder-a-286caf03-7824-435e-bbef-ecbca7007427#ref=rss)
-### jahren
+* [https://www.spiegel.de/politik/deutschland/urlaub-2025-das-sind-die-neuen-empfehlungen-statt-usa-ostsee-mallorca-satire](https://www.spiegel.de/politik/deutschland/urlaub-2025-das-sind-die-neuen-empfehlungen-statt-usa-ostsee-mallorca-satire-a-3c1a721f-59ac-4995-82f2-aa0e25c50b05#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trumps-zoll-plaene-kupferpreise-in-den-usa-klettern-auf-allzeithoch](https://www.spiegel.de/wirtschaft/donald-trumps-zoll-plaene-kupferpreise-in-den-usa-klettern-auf-allzeithoch-a-0cb440ad-fa72-488d-8ae6-28dd7d48ba98#ref=rss)
+* [https://www.spiegel.de/ausland/huthi-angriff-auf-eternity-c-usa-fordern-sofortige-freilassung-von-entfuehrter-frachterbesatzung](https://www.spiegel.de/ausland/huthi-angriff-auf-eternity-c-usa-fordern-sofortige-freilassung-von-entfuehrter-frachterbesatzung-a-1eb66184-f1ee-4d90-aba1-74a0d58cb4f4#ref=rss)
+### donald
 
-* [https://www.spiegel.de/panorama/leute/francesco-totti-teilt-sich-sorgerecht-fuer-vier-rolex-uhren-mit-ex-frau-ilary-blasi](https://www.spiegel.de/panorama/leute/francesco-totti-teilt-sich-sorgerecht-fuer-vier-rolex-uhren-mit-ex-frau-ilary-blasi-a-1c328491-6aee-4964-9328-61ce478fd830#ref=rss)
-* [https://www.spiegel.de/gesundheit/brustkrebs-mammografie-screening-senkt-sterblichkeit-deutlich](https://www.spiegel.de/gesundheit/brustkrebs-mammografie-screening-senkt-sterblichkeit-deutlich-a-d74a2d21-f3e5-460d-a546-6a9f852f78b8#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-verdacht-auf-missbrauch-durch-hiv-arzt-verfahren-endet-nach-jahren](https://www.spiegel.de/panorama/berlin-verdacht-auf-missbrauch-durch-hiv-arzt-verfahren-endet-nach-jahren-a-2ac93fe4-b708-4ba9-8527-951277c2beec#ref=rss)
-* [https://www.spiegel.de/netzwelt/elon-musk-kurznachrichtendienst-x-chefin-linda-yaccarino-tritt-zurueck](https://www.spiegel.de/netzwelt/elon-musk-kurznachrichtendienst-x-chefin-linda-yaccarino-tritt-zurueck-a-324caa2c-f74b-4cb1-a1f3-97844135c95a#ref=rss)
-### julia
+* [https://www.spiegel.de/politik/deutschland/cdu-ex-funktionaer-wegen-untreue-nach-treffen-mit-donald-trump-und-elon-musk-angeklagt](https://www.spiegel.de/politik/deutschland/cdu-ex-funktionaer-wegen-untreue-nach-treffen-mit-donald-trump-und-elon-musk-angeklagt-a-98e8e45c-59cd-44a9-ab3c-5fd6d29c4774#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trumps-zoll-plaene-kupferpreise-in-den-usa-klettern-auf-allzeithoch](https://www.spiegel.de/wirtschaft/donald-trumps-zoll-plaene-kupferpreise-in-den-usa-klettern-auf-allzeithoch-a-0cb440ad-fa72-488d-8ae6-28dd7d48ba98#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-warum-donald-trump-ploetzlich-sauer-auf-wladimir-putin-ist](https://www.spiegel.de/ausland/ukraine-krieg-warum-donald-trump-ploetzlich-sauer-auf-wladimir-putin-ist-a-e16198b5-7e1c-426c-b12e-133e1d3b4b4c#ref=rss)
+### abgeordnete
 
-* [https://www.spiegel.de/politik/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-podcast](https://www.spiegel.de/politik/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-podcast-a-9c7e1278-b56d-43ba-af6f-96d89590ce33#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet](https://www.spiegel.de/politik/deutschland/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-a-da9c6504-1577-4a02-b0aa-7bb38a03ca16#ref=rss)
-### klöckner
-
-* [https://www.spiegel.de/politik/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-podcast](https://www.spiegel.de/politik/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-podcast-a-9c7e1278-b56d-43ba-af6f-96d89590ce33#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet](https://www.spiegel.de/politik/deutschland/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-a-da9c6504-1577-4a02-b0aa-7bb38a03ca16#ref=rss)
-### afd
-
-* [https://www.spiegel.de/politik/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-podcast](https://www.spiegel.de/politik/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-podcast-a-9c7e1278-b56d-43ba-af6f-96d89590ce33#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet](https://www.spiegel.de/politik/deutschland/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-a-da9c6504-1577-4a02-b0aa-7bb38a03ca16#ref=rss)
-* [https://www.spiegel.de/politik/afd-dominiert-generaldebatte-im-bundestag-friedrich-merz-haelt-dagegen](https://www.spiegel.de/politik/afd-dominiert-generaldebatte-im-bundestag-friedrich-merz-haelt-dagegen-a-2659c996-321c-41d5-81b9-9e73d399a677#ref=rss)
+* [https://www.spiegel.de/panorama/bundestag-abgeordnete-muessen-regenbogenfahnen-von-bueros-entfernen](https://www.spiegel.de/panorama/bundestag-abgeordnete-muessen-regenbogenfahnen-von-bueros-entfernen-a-d6f5d79c-bd03-427c-a573-cb066e63805e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-mecklenburg-vorpommern-abgeordnete-von-fdp-und-cdu-besuchen-afd-sommerfest](https://www.spiegel.de/politik/deutschland/afd-mecklenburg-vorpommern-abgeordnete-von-fdp-und-cdu-besuchen-afd-sommerfest-a-24088b7a-e0a9-4534-a9be-24cf72406554#ref=rss)
+* [https://www.spiegel.de/ausland/ursula-von-der-leyen-rechte-scheitern-mit-misstrauensantrag-im-eu-parlament](https://www.spiegel.de/ausland/ursula-von-der-leyen-rechte-scheitern-mit-misstrauensantrag-im-eu-parlament-a-a8fce5fd-788c-46b9-85aa-9b5acd895f55#ref=rss)
 ### jonas
 
-* [https://www.spiegel.de/politik/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-podcast](https://www.spiegel.de/politik/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-podcast-a-9c7e1278-b56d-43ba-af6f-96d89590ce33#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet](https://www.spiegel.de/politik/deutschland/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-a-da9c6504-1577-4a02-b0aa-7bb38a03ca16#ref=rss)
-* [https://www.spiegel.de/sport/tour-de-france-5-etappe-tadej-pogacar-holt-sich-gelb-remco-evenepoel-ist-der-zeitfahrkoenig](https://www.spiegel.de/sport/tour-de-france-5-etappe-tadej-pogacar-holt-sich-gelb-remco-evenepoel-ist-der-zeitfahrkoenig-a-266009f4-2c11-4e60-af6c-c2bdbdad1eb7#ref=rss)
-### neue
+* [https://www.spiegel.de/kultur/musik/kevin-jonas-hat-nach-2013-fast-sein-ganzes-geld-verloren](https://www.spiegel.de/kultur/musik/kevin-jonas-hat-nach-2013-fast-sein-ganzes-geld-verloren-a-d2ec71d8-b6ec-4df4-a57b-6a45109ff127#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/kultur/netflix-serie-too-much-von-lena-dunham-im-fernsehen-der-guten-gefuehle](https://www.spiegel.de/kultur/netflix-serie-too-much-von-lena-dunham-im-fernsehen-der-guten-gefuehle-a-f6680d29-6f44-4ffb-9813-f6785b0a8911#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/samsung-galaxy-z-serie-neue-modelle-sind-duenner-schneller-und-teuer](https://www.spiegel.de/netzwelt/gadgets/samsung-galaxy-z-serie-neue-modelle-sind-duenner-schneller-und-teuer-a-200a8574-d9ab-4467-b31e-a2f3a199b111#ref=rss)
-### bundestag
+* [https://www.spiegel.de/politik/deutschland/urlaub-2025-das-sind-die-neuen-empfehlungen-statt-usa-ostsee-mallorca-satire](https://www.spiegel.de/politik/deutschland/urlaub-2025-das-sind-die-neuen-empfehlungen-statt-usa-ostsee-mallorca-satire-a-3c1a721f-59ac-4995-82f2-aa0e25c50b05#ref=rss)
+* [https://www.spiegel.de/wirtschaft/lars-klingbeil-haelt-an-seiner-prinzengarde-fest](https://www.spiegel.de/wirtschaft/lars-klingbeil-haelt-an-seiner-prinzengarde-fest-a-ca91250c-3811-487e-a819-059f755986e0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/gesamtmetall-praesident-stefan-wolf-soll-haushaltshilfe-schwarz-beschaeftigt-haben](https://www.spiegel.de/wirtschaft/soziales/gesamtmetall-praesident-stefan-wolf-soll-haushaltshilfe-schwarz-beschaeftigt-haben-a-5748eb3e-0d4a-49fe-912b-24fedf00047d#ref=rss)
+### tochter
 
-* [https://www.spiegel.de/politik/afd-dominiert-generaldebatte-im-bundestag-friedrich-merz-haelt-dagegen](https://www.spiegel.de/politik/afd-dominiert-generaldebatte-im-bundestag-friedrich-merz-haelt-dagegen-a-2659c996-321c-41d5-81b9-9e73d399a677#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-wirkt-als-muesse-er-sich-wehren-und-whatsapp-kanaele-koennen-gefaehrlich-sein-fuer-kinder](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-wirkt-als-muesse-er-sich-wehren-und-whatsapp-kanaele-koennen-gefaehrlich-sein-fuer-kinder-a-286caf03-7824-435e-bbef-ecbca7007427#ref=rss)
-### dagegen
+* [https://www.spiegel.de/panorama/leute/lulu-simon-tochter-von-paul-simon-hofft-dass-ihre-toten-haustiere-richard-gere-heimsuchen](https://www.spiegel.de/panorama/leute/lulu-simon-tochter-von-paul-simon-hofft-dass-ihre-toten-haustiere-richard-gere-heimsuchen-a-701b5aca-f05c-4fca-9422-f2de6248290d#ref=rss)
+* [https://www.spiegel.de/panorama/hamburg-eltern-verwirklichen-traum-ihrer-verstorbenen-tochter](https://www.spiegel.de/panorama/hamburg-eltern-verwirklichen-traum-ihrer-verstorbenen-tochter-a-c5de4fd9-52b0-4962-a015-94f319487f78#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/politik/afd-dominiert-generaldebatte-im-bundestag-friedrich-merz-haelt-dagegen](https://www.spiegel.de/politik/afd-dominiert-generaldebatte-im-bundestag-friedrich-merz-haelt-dagegen-a-2659c996-321c-41d5-81b9-9e73d399a677#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/niedersachsen-wissenschaftsministerium-rehabilitiert-ex-praesidenten-der-uni-goettingen](https://www.spiegel.de/panorama/bildung/niedersachsen-wissenschaftsministerium-rehabilitiert-ex-praesidenten-der-uni-goettingen-a-a5b2ce75-c125-43fe-a2ab-6a784b577c77#ref=rss)
-### deutschen
+* [https://www.spiegel.de/panorama/leute/lulu-simon-tochter-von-paul-simon-hofft-dass-ihre-toten-haustiere-richard-gere-heimsuchen](https://www.spiegel.de/panorama/leute/lulu-simon-tochter-von-paul-simon-hofft-dass-ihre-toten-haustiere-richard-gere-heimsuchen-a-701b5aca-f05c-4fca-9422-f2de6248290d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/gesamtmetall-praesident-stefan-wolf-soll-haushaltshilfe-schwarz-beschaeftigt-haben](https://www.spiegel.de/wirtschaft/soziales/gesamtmetall-praesident-stefan-wolf-soll-haushaltshilfe-schwarz-beschaeftigt-haben-a-5748eb3e-0d4a-49fe-912b-24fedf00047d#ref=rss)
+* [https://www.spiegel.de/ausland/huthi-angriff-auf-eternity-c-usa-fordern-sofortige-freilassung-von-entfuehrter-frachterbesatzung](https://www.spiegel.de/ausland/huthi-angriff-auf-eternity-c-usa-fordern-sofortige-freilassung-von-entfuehrter-frachterbesatzung-a-1eb66184-f1ee-4d90-aba1-74a0d58cb4f4#ref=rss)
+### cdu
 
-* [https://www.spiegel.de/politik/afd-dominiert-generaldebatte-im-bundestag-friedrich-merz-haelt-dagegen](https://www.spiegel.de/politik/afd-dominiert-generaldebatte-im-bundestag-friedrich-merz-haelt-dagegen-a-2659c996-321c-41d5-81b9-9e73d399a677#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-wirkt-als-muesse-er-sich-wehren-und-whatsapp-kanaele-koennen-gefaehrlich-sein-fuer-kinder](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-wirkt-als-muesse-er-sich-wehren-und-whatsapp-kanaele-koennen-gefaehrlich-sein-fuer-kinder-a-286caf03-7824-435e-bbef-ecbca7007427#ref=rss)
-* [https://www.spiegel.de/wirtschaft/volkswagen-ist-erpressbar-und-donald-trump-nutzt-das-eiskalt-aus](https://www.spiegel.de/wirtschaft/volkswagen-ist-erpressbar-und-donald-trump-nutzt-das-eiskalt-aus-a-a7fdd6dc-34d9-4e62-a4a7-2c791ff0f704#ref=rss)
-### elon
+* [https://www.spiegel.de/politik/deutschland/afd-mecklenburg-vorpommern-abgeordnete-von-fdp-und-cdu-besuchen-afd-sommerfest](https://www.spiegel.de/politik/deutschland/afd-mecklenburg-vorpommern-abgeordnete-von-fdp-und-cdu-besuchen-afd-sommerfest-a-24088b7a-e0a9-4534-a9be-24cf72406554#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-ex-funktionaer-wegen-untreue-nach-treffen-mit-donald-trump-und-elon-musk-angeklagt](https://www.spiegel.de/politik/deutschland/cdu-ex-funktionaer-wegen-untreue-nach-treffen-mit-donald-trump-und-elon-musk-angeklagt-a-98e8e45c-59cd-44a9-ab3c-5fd6d29c4774#ref=rss)
+### welt
 
-* [https://www.spiegel.de/netzwelt/apps/elon-musk-und-grok-die-ki-pannenserie](https://www.spiegel.de/netzwelt/apps/elon-musk-und-grok-die-ki-pannenserie-a-378587d2-cc22-486c-91c6-05c05110672e#ref=rss)
-* [https://www.spiegel.de/netzwelt/elon-musk-kurznachrichtendienst-x-chefin-linda-yaccarino-tritt-zurueck](https://www.spiegel.de/netzwelt/elon-musk-kurznachrichtendienst-x-chefin-linda-yaccarino-tritt-zurueck-a-324caa2c-f74b-4cb1-a1f3-97844135c95a#ref=rss)
-### musk
+* [https://www.spiegel.de/wissenschaft/weltall/3i-atlas-hier-fliegt-das-interstellare-objekt-durchs-sonnensystem](https://www.spiegel.de/wissenschaft/weltall/3i-atlas-hier-fliegt-das-interstellare-objekt-durchs-sonnensystem-a-401b7cfc-6000-447a-bbd2-c22735aea2ee#ref=rss)
+* [https://www.spiegel.de/ausland/lula-da-silva-die-welt-hat-keine-wahl-gastbeitrag-des-brasilianischen-praesidenten](https://www.spiegel.de/ausland/lula-da-silva-die-welt-hat-keine-wahl-gastbeitrag-des-brasilianischen-praesidenten-a-27f57e05-2d44-4fcb-a77c-70140aa3bd03#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/netzwelt/apps/elon-musk-und-grok-die-ki-pannenserie](https://www.spiegel.de/netzwelt/apps/elon-musk-und-grok-die-ki-pannenserie-a-378587d2-cc22-486c-91c6-05c05110672e#ref=rss)
-* [https://www.spiegel.de/netzwelt/elon-musk-kurznachrichtendienst-x-chefin-linda-yaccarino-tritt-zurueck](https://www.spiegel.de/netzwelt/elon-musk-kurznachrichtendienst-x-chefin-linda-yaccarino-tritt-zurueck-a-324caa2c-f74b-4cb1-a1f3-97844135c95a#ref=rss)
-### bundesverfassungsgericht
+* [https://www.spiegel.de/panorama/australien-beim-surfen-verschwunden-19-jaehriger-auf-unbewohnter-insel-gefunden](https://www.spiegel.de/panorama/australien-beim-surfen-verschwunden-19-jaehriger-auf-unbewohnter-insel-gefunden-a-a26f85f4-48ee-404b-b33b-d8ec80ee0c92#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/vogelsberg-in-thueringen-polizei-befreit-19-jaehrige-aus-kiste-in-scheune](https://www.spiegel.de/panorama/justiz/vogelsberg-in-thueringen-polizei-befreit-19-jaehrige-aus-kiste-in-scheune-a-dc393c9f-93d9-45c0-a82f-93f0f7a0519d#ref=rss)
+### uspräsident
 
-* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-richterwahl-koennte-koalition-in-die-krise-stuerzen](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-richterwahl-koennte-koalition-in-die-krise-stuerzen-a-3255b96b-4c43-4aa8-ae22-e8d3a04a43d5#ref=rss)
-### drei
+* [https://www.spiegel.de/politik/deutschland/cdu-ex-funktionaer-wegen-untreue-nach-treffen-mit-donald-trump-und-elon-musk-angeklagt](https://www.spiegel.de/politik/deutschland/cdu-ex-funktionaer-wegen-untreue-nach-treffen-mit-donald-trump-und-elon-musk-angeklagt-a-98e8e45c-59cd-44a9-ab3c-5fd6d29c4774#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trumps-zoll-plaene-kupferpreise-in-den-usa-klettern-auf-allzeithoch](https://www.spiegel.de/wirtschaft/donald-trumps-zoll-plaene-kupferpreise-in-den-usa-klettern-auf-allzeithoch-a-0cb440ad-fa72-488d-8ae6-28dd7d48ba98#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-warum-donald-trump-ploetzlich-sauer-auf-wladimir-putin-ist](https://www.spiegel.de/ausland/ukraine-krieg-warum-donald-trump-ploetzlich-sauer-auf-wladimir-putin-ist-a-e16198b5-7e1c-426c-b12e-133e1d3b4b4c#ref=rss)
+### hamburg
 
-* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-richterwahl-koennte-koalition-in-die-krise-stuerzen](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-richterwahl-koennte-koalition-in-die-krise-stuerzen-a-3255b96b-4c43-4aa8-ae22-e8d3a04a43d5#ref=rss)
-* [https://www.spiegel.de/panorama/new-mexiko-usa-hier-reisst-die-sturzflut-ein-ganzes-haus-weg](https://www.spiegel.de/panorama/new-mexiko-usa-hier-reisst-die-sturzflut-ein-ganzes-haus-weg-a-6dea78d5-6a7b-4dac-afd0-eb5bddb59140#ref=rss)
-### francesco
+* [https://www.spiegel.de/panorama/hamburg-eltern-verwirklichen-traum-ihrer-verstorbenen-tochter](https://www.spiegel.de/panorama/hamburg-eltern-verwirklichen-traum-ihrer-verstorbenen-tochter-a-c5de4fd9-52b0-4962-a015-94f319487f78#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hamburg-mutter-mit-harpune-getoetet-19-jaehriger-muss-in-psychiatrie](https://www.spiegel.de/panorama/justiz/hamburg-mutter-mit-harpune-getoetet-19-jaehriger-muss-in-psychiatrie-a-3f340a9a-8b3b-4c71-8447-b10ce495b045#ref=rss)
+### spd
 
-* [https://www.spiegel.de/panorama/leute/francesco-totti-teilt-sich-sorgerecht-fuer-vier-rolex-uhren-mit-ex-frau-ilary-blasi](https://www.spiegel.de/panorama/leute/francesco-totti-teilt-sich-sorgerecht-fuer-vier-rolex-uhren-mit-ex-frau-ilary-blasi-a-1c328491-6aee-4964-9328-61ce478fd830#ref=rss)
-### totti
+* [https://www.spiegel.de/politik/deutschland/margaretha-sudhof-spd-verteidigt-masken-ermittlerin-gegen-vorwuerfe](https://www.spiegel.de/politik/deutschland/margaretha-sudhof-spd-verteidigt-masken-ermittlerin-gegen-vorwuerfe-a-06bee9bf-78f0-4448-af41-0a3c848f78f9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/lars-klingbeil-haelt-an-seiner-prinzengarde-fest](https://www.spiegel.de/wirtschaft/lars-klingbeil-haelt-an-seiner-prinzengarde-fest-a-ca91250c-3811-487e-a819-059f755986e0#ref=rss)
+### 19jährige
 
-* [https://www.spiegel.de/panorama/leute/francesco-totti-teilt-sich-sorgerecht-fuer-vier-rolex-uhren-mit-ex-frau-ilary-blasi](https://www.spiegel.de/panorama/leute/francesco-totti-teilt-sich-sorgerecht-fuer-vier-rolex-uhren-mit-ex-frau-ilary-blasi-a-1c328491-6aee-4964-9328-61ce478fd830#ref=rss)
-### vier
+* [https://www.spiegel.de/panorama/justiz/hamburg-mutter-mit-harpune-getoetet-19-jaehriger-muss-in-psychiatrie](https://www.spiegel.de/panorama/justiz/hamburg-mutter-mit-harpune-getoetet-19-jaehriger-muss-in-psychiatrie-a-3f340a9a-8b3b-4c71-8447-b10ce495b045#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/vogelsberg-in-thueringen-polizei-befreit-19-jaehrige-aus-kiste-in-scheune](https://www.spiegel.de/panorama/justiz/vogelsberg-in-thueringen-polizei-befreit-19-jaehrige-aus-kiste-in-scheune-a-dc393c9f-93d9-45c0-a82f-93f0f7a0519d#ref=rss)
+### urlaub
 
-* [https://www.spiegel.de/panorama/leute/francesco-totti-teilt-sich-sorgerecht-fuer-vier-rolex-uhren-mit-ex-frau-ilary-blasi](https://www.spiegel.de/panorama/leute/francesco-totti-teilt-sich-sorgerecht-fuer-vier-rolex-uhren-mit-ex-frau-ilary-blasi-a-1c328491-6aee-4964-9328-61ce478fd830#ref=rss)
-### ilary
-
-* [https://www.spiegel.de/panorama/leute/francesco-totti-teilt-sich-sorgerecht-fuer-vier-rolex-uhren-mit-ex-frau-ilary-blasi](https://www.spiegel.de/panorama/leute/francesco-totti-teilt-sich-sorgerecht-fuer-vier-rolex-uhren-mit-ex-frau-ilary-blasi-a-1c328491-6aee-4964-9328-61ce478fd830#ref=rss)
-### blasi
-
-* [https://www.spiegel.de/panorama/leute/francesco-totti-teilt-sich-sorgerecht-fuer-vier-rolex-uhren-mit-ex-frau-ilary-blasi](https://www.spiegel.de/panorama/leute/francesco-totti-teilt-sich-sorgerecht-fuer-vier-rolex-uhren-mit-ex-frau-ilary-blasi-a-1c328491-6aee-4964-9328-61ce478fd830#ref=rss)
-### brustkrebs
-
-* [https://www.spiegel.de/gesundheit/brustkrebs-mammografie-screening-senkt-sterblichkeit-deutlich](https://www.spiegel.de/gesundheit/brustkrebs-mammografie-screening-senkt-sterblichkeit-deutlich-a-d74a2d21-f3e5-460d-a546-6a9f852f78b8#ref=rss)
-### retten
-
-* [https://www.spiegel.de/gesundheit/brustkrebs-mammografie-screening-senkt-sterblichkeit-deutlich](https://www.spiegel.de/gesundheit/brustkrebs-mammografie-screening-senkt-sterblichkeit-deutlich-a-d74a2d21-f3e5-460d-a546-6a9f852f78b8#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/segelunglueck-in-schweden-kann-man-jemanden-zu-tode-retten](https://www.spiegel.de/panorama/justiz/segelunglueck-in-schweden-kann-man-jemanden-zu-tode-retten-a-c46e93ce-b721-4989-ae6f-e62d8035e995#ref=rss)
-### csd
-
-* [https://www.spiegel.de/politik/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-podcast](https://www.spiegel.de/politik/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-podcast-a-9c7e1278-b56d-43ba-af6f-96d89590ce33#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet](https://www.spiegel.de/politik/deutschland/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-a-da9c6504-1577-4a02-b0aa-7bb38a03ca16#ref=rss)
-### frage
-
-* [https://www.spiegel.de/politik/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-podcast](https://www.spiegel.de/politik/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-podcast-a-9c7e1278-b56d-43ba-af6f-96d89590ce33#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet](https://www.spiegel.de/politik/deutschland/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-a-da9c6504-1577-4a02-b0aa-7bb38a03ca16#ref=rss)
-### neutralität
-
-* [https://www.spiegel.de/politik/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-podcast](https://www.spiegel.de/politik/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-podcast-a-9c7e1278-b56d-43ba-af6f-96d89590ce33#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet](https://www.spiegel.de/politik/deutschland/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-a-da9c6504-1577-4a02-b0aa-7bb38a03ca16#ref=rss)
-### präsidentin
-
-* [https://www.spiegel.de/politik/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-podcast](https://www.spiegel.de/politik/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-podcast-a-9c7e1278-b56d-43ba-af6f-96d89590ce33#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet](https://www.spiegel.de/politik/deutschland/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-a-da9c6504-1577-4a02-b0aa-7bb38a03ca16#ref=rss)
-### bundestags
-
-* [https://www.spiegel.de/politik/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-podcast](https://www.spiegel.de/politik/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-podcast-a-9c7e1278-b56d-43ba-af6f-96d89590ce33#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet](https://www.spiegel.de/politik/deutschland/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-a-da9c6504-1577-4a02-b0aa-7bb38a03ca16#ref=rss)
-### faire
-
-* [https://www.spiegel.de/politik/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-podcast](https://www.spiegel.de/politik/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-podcast-a-9c7e1278-b56d-43ba-af6f-96d89590ce33#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet](https://www.spiegel.de/politik/deutschland/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-a-da9c6504-1577-4a02-b0aa-7bb38a03ca16#ref=rss)
-### debatten
-
-* [https://www.spiegel.de/politik/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-podcast](https://www.spiegel.de/politik/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-podcast-a-9c7e1278-b56d-43ba-af6f-96d89590ce33#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet](https://www.spiegel.de/politik/deutschland/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-a-da9c6504-1577-4a02-b0aa-7bb38a03ca16#ref=rss)
-### sorgen
-
-* [https://www.spiegel.de/politik/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-podcast](https://www.spiegel.de/politik/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-podcast-a-9c7e1278-b56d-43ba-af6f-96d89590ce33#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet](https://www.spiegel.de/politik/deutschland/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-a-da9c6504-1577-4a02-b0aa-7bb38a03ca16#ref=rss)
-### amtsführung
-
-* [https://www.spiegel.de/politik/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-podcast](https://www.spiegel.de/politik/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-podcast-a-9c7e1278-b56d-43ba-af6f-96d89590ce33#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet](https://www.spiegel.de/politik/deutschland/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-a-da9c6504-1577-4a02-b0aa-7bb38a03ca16#ref=rss)
-### polarisiert
-
-* [https://www.spiegel.de/politik/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-podcast](https://www.spiegel.de/politik/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-podcast-a-9c7e1278-b56d-43ba-af6f-96d89590ce33#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet](https://www.spiegel.de/politik/deutschland/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-a-da9c6504-1577-4a02-b0aa-7bb38a03ca16#ref=rss)
-### spiegelredakteur
-
-* [https://www.spiegel.de/politik/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-podcast](https://www.spiegel.de/politik/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-podcast-a-9c7e1278-b56d-43ba-af6f-96d89590ce33#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet](https://www.spiegel.de/politik/deutschland/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-a-da9c6504-1577-4a02-b0aa-7bb38a03ca16#ref=rss)
-### schaible
-
-* [https://www.spiegel.de/politik/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-podcast](https://www.spiegel.de/politik/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-podcast-a-9c7e1278-b56d-43ba-af6f-96d89590ce33#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet](https://www.spiegel.de/politik/deutschland/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-a-da9c6504-1577-4a02-b0aa-7bb38a03ca16#ref=rss)
-### berichtet
-
-* [https://www.spiegel.de/politik/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-podcast](https://www.spiegel.de/politik/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-podcast-a-9c7e1278-b56d-43ba-af6f-96d89590ce33#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet](https://www.spiegel.de/politik/deutschland/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-a-da9c6504-1577-4a02-b0aa-7bb38a03ca16#ref=rss)
-### cdupolitikerin
-
-* [https://www.spiegel.de/politik/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-podcast](https://www.spiegel.de/politik/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-podcast-a-9c7e1278-b56d-43ba-af6f-96d89590ce33#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet](https://www.spiegel.de/politik/deutschland/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-a-da9c6504-1577-4a02-b0aa-7bb38a03ca16#ref=rss)
-### ordnungsrufen
-
-* [https://www.spiegel.de/politik/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-podcast](https://www.spiegel.de/politik/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-podcast-a-9c7e1278-b56d-43ba-af6f-96d89590ce33#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet](https://www.spiegel.de/politik/deutschland/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-a-da9c6504-1577-4a02-b0aa-7bb38a03ca16#ref=rss)
-### regenbogenflaggen
-
-* [https://www.spiegel.de/politik/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-podcast](https://www.spiegel.de/politik/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-podcast-a-9c7e1278-b56d-43ba-af6f-96d89590ce33#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet](https://www.spiegel.de/politik/deutschland/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-a-da9c6504-1577-4a02-b0aa-7bb38a03ca16#ref=rss)
-### umgeht
-
-* [https://www.spiegel.de/politik/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-podcast](https://www.spiegel.de/politik/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-podcast-a-9c7e1278-b56d-43ba-af6f-96d89590ce33#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet](https://www.spiegel.de/politik/deutschland/julia-kloeckner-csd-afd-und-die-frage-nach-der-neutralitaet-a-da9c6504-1577-4a02-b0aa-7bb38a03ca16#ref=rss)
-### familie
-
-* [https://www.spiegel.de/panorama/oesterreich-deutsche-familie-verirrt-sich-beim-bergsteigen-schwierige-rettungsmission](https://www.spiegel.de/panorama/oesterreich-deutsche-familie-verirrt-sich-beim-bergsteigen-schwierige-rettungsmission-a-af9e17ad-697d-4290-a87f-cdb7b37f7228#ref=rss)
-### weg
-
-* [https://www.spiegel.de/panorama/oesterreich-deutsche-familie-verirrt-sich-beim-bergsteigen-schwierige-rettungsmission](https://www.spiegel.de/panorama/oesterreich-deutsche-familie-verirrt-sich-beim-bergsteigen-schwierige-rettungsmission-a-af9e17ad-697d-4290-a87f-cdb7b37f7228#ref=rss)
-* [https://www.spiegel.de/panorama/new-mexiko-usa-hier-reisst-die-sturzflut-ein-ganzes-haus-weg](https://www.spiegel.de/panorama/new-mexiko-usa-hier-reisst-die-sturzflut-ein-ganzes-haus-weg-a-6dea78d5-6a7b-4dac-afd0-eb5bddb59140#ref=rss)
-### ed
-
-* [https://www.spiegel.de/kultur/ed-sheeran-tilda-swinton-brad-pitt-co-diese-prominenten-sind-auch-in-kuenstlerkreisen-bekannt](https://www.spiegel.de/kultur/ed-sheeran-tilda-swinton-brad-pitt-co-diese-prominenten-sind-auch-in-kuenstlerkreisen-bekannt-a-d5a66a06-84c2-4195-a69d-6c6119449408#ref=rss)
-### sheeran
-
-* [https://www.spiegel.de/kultur/ed-sheeran-tilda-swinton-brad-pitt-co-diese-prominenten-sind-auch-in-kuenstlerkreisen-bekannt](https://www.spiegel.de/kultur/ed-sheeran-tilda-swinton-brad-pitt-co-diese-prominenten-sind-auch-in-kuenstlerkreisen-bekannt-a-d5a66a06-84c2-4195-a69d-6c6119449408#ref=rss)
-### brad
-
-* [https://www.spiegel.de/kultur/ed-sheeran-tilda-swinton-brad-pitt-co-diese-prominenten-sind-auch-in-kuenstlerkreisen-bekannt](https://www.spiegel.de/kultur/ed-sheeran-tilda-swinton-brad-pitt-co-diese-prominenten-sind-auch-in-kuenstlerkreisen-bekannt-a-d5a66a06-84c2-4195-a69d-6c6119449408#ref=rss)
-### pitt
-
-* [https://www.spiegel.de/kultur/ed-sheeran-tilda-swinton-brad-pitt-co-diese-prominenten-sind-auch-in-kuenstlerkreisen-bekannt](https://www.spiegel.de/kultur/ed-sheeran-tilda-swinton-brad-pitt-co-diese-prominenten-sind-auch-in-kuenstlerkreisen-bekannt-a-d5a66a06-84c2-4195-a69d-6c6119449408#ref=rss)
-### bekannt
-
-* [https://www.spiegel.de/kultur/ed-sheeran-tilda-swinton-brad-pitt-co-diese-prominenten-sind-auch-in-kuenstlerkreisen-bekannt](https://www.spiegel.de/kultur/ed-sheeran-tilda-swinton-brad-pitt-co-diese-prominenten-sind-auch-in-kuenstlerkreisen-bekannt-a-d5a66a06-84c2-4195-a69d-6c6119449408#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/niedersachsen-wissenschaftsministerium-rehabilitiert-ex-praesidenten-der-uni-goettingen](https://www.spiegel.de/panorama/bildung/niedersachsen-wissenschaftsministerium-rehabilitiert-ex-praesidenten-der-uni-goettingen-a-a5b2ce75-c125-43fe-a2ab-6a784b577c77#ref=rss)
-### too
-
-* [https://www.spiegel.de/kultur/netflix-serie-too-much-von-lena-dunham-im-fernsehen-der-guten-gefuehle](https://www.spiegel.de/kultur/netflix-serie-too-much-von-lena-dunham-im-fernsehen-der-guten-gefuehle-a-f6680d29-6f44-4ffb-9813-f6785b0a8911#ref=rss)
-### much
-
-* [https://www.spiegel.de/kultur/netflix-serie-too-much-von-lena-dunham-im-fernsehen-der-guten-gefuehle](https://www.spiegel.de/kultur/netflix-serie-too-much-von-lena-dunham-im-fernsehen-der-guten-gefuehle-a-f6680d29-6f44-4ffb-9813-f6785b0a8911#ref=rss)
-### lena
-
-* [https://www.spiegel.de/kultur/netflix-serie-too-much-von-lena-dunham-im-fernsehen-der-guten-gefuehle](https://www.spiegel.de/kultur/netflix-serie-too-much-von-lena-dunham-im-fernsehen-der-guten-gefuehle-a-f6680d29-6f44-4ffb-9813-f6785b0a8911#ref=rss)
-### dunham
-
-* [https://www.spiegel.de/kultur/netflix-serie-too-much-von-lena-dunham-im-fernsehen-der-guten-gefuehle](https://www.spiegel.de/kultur/netflix-serie-too-much-von-lena-dunham-im-fernsehen-der-guten-gefuehle-a-f6680d29-6f44-4ffb-9813-f6785b0a8911#ref=rss)
-### guten
-
-* [https://www.spiegel.de/kultur/netflix-serie-too-much-von-lena-dunham-im-fernsehen-der-guten-gefuehle](https://www.spiegel.de/kultur/netflix-serie-too-much-von-lena-dunham-im-fernsehen-der-guten-gefuehle-a-f6680d29-6f44-4ffb-9813-f6785b0a8911#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/niedersachsen-wissenschaftsministerium-rehabilitiert-ex-praesidenten-der-uni-goettingen](https://www.spiegel.de/panorama/bildung/niedersachsen-wissenschaftsministerium-rehabilitiert-ex-praesidenten-der-uni-goettingen-a-a5b2ce75-c125-43fe-a2ab-6a784b577c77#ref=rss)
-### gerade
-
-* [https://www.spiegel.de/kultur/netflix-serie-too-much-von-lena-dunham-im-fernsehen-der-guten-gefuehle](https://www.spiegel.de/kultur/netflix-serie-too-much-von-lena-dunham-im-fernsehen-der-guten-gefuehle-a-f6680d29-6f44-4ffb-9813-f6785b0a8911#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-wales-nationaltorhueterin-safia-middleton-patel-ueber-autismus](https://www.spiegel.de/sport/fussball/fussball-em-wales-nationaltorhueterin-safia-middleton-patel-ueber-autismus-a-10f0149b-3943-4437-903a-594cfb9c9dba#ref=rss)
-### stunde
-
-* [https://www.spiegel.de/kultur/netflix-serie-too-much-von-lena-dunham-im-fernsehen-der-guten-gefuehle](https://www.spiegel.de/kultur/netflix-serie-too-much-von-lena-dunham-im-fernsehen-der-guten-gefuehle-a-f6680d29-6f44-4ffb-9813-f6785b0a8911#ref=rss)
-* [https://www.spiegel.de/panorama/new-mexiko-usa-hier-reisst-die-sturzflut-ein-ganzes-haus-weg](https://www.spiegel.de/panorama/new-mexiko-usa-hier-reisst-die-sturzflut-ein-ganzes-haus-weg-a-6dea78d5-6a7b-4dac-afd0-eb5bddb59140#ref=rss)
-### generaldebatte
-
-* [https://www.spiegel.de/politik/afd-dominiert-generaldebatte-im-bundestag-friedrich-merz-haelt-dagegen](https://www.spiegel.de/politik/afd-dominiert-generaldebatte-im-bundestag-friedrich-merz-haelt-dagegen-a-2659c996-321c-41d5-81b9-9e73d399a677#ref=rss)
-### grok
-
-* [https://www.spiegel.de/netzwelt/apps/elon-musk-und-grok-die-ki-pannenserie](https://www.spiegel.de/netzwelt/apps/elon-musk-und-grok-die-ki-pannenserie-a-378587d2-cc22-486c-91c6-05c05110672e#ref=rss)
-### probleme
-
-* [https://www.spiegel.de/netzwelt/apps/elon-musk-und-grok-die-ki-pannenserie](https://www.spiegel.de/netzwelt/apps/elon-musk-und-grok-die-ki-pannenserie-a-378587d2-cc22-486c-91c6-05c05110672e#ref=rss)
-* [https://www.spiegel.de/sport/fussball/frankeich-olympique-lyon-ex-serienmeister-wendet-zwangsabstieg-aus-der-ligue-1ab](https://www.spiegel.de/sport/fussball/frankeich-olympique-lyon-ex-serienmeister-wendet-zwangsabstieg-aus-der-ligue-1ab-a-ddbb1b30-07d7-4bcb-95e4-c17edaee5247#ref=rss)
-### verdacht
-
-* [https://www.spiegel.de/panorama/berlin-verdacht-auf-missbrauch-durch-hiv-arzt-verfahren-endet-nach-jahren](https://www.spiegel.de/panorama/berlin-verdacht-auf-missbrauch-durch-hiv-arzt-verfahren-endet-nach-jahren-a-2ac93fe4-b708-4ba9-8527-951277c2beec#ref=rss)
-### verfahren
-
-* [https://www.spiegel.de/panorama/berlin-verdacht-auf-missbrauch-durch-hiv-arzt-verfahren-endet-nach-jahren](https://www.spiegel.de/panorama/berlin-verdacht-auf-missbrauch-durch-hiv-arzt-verfahren-endet-nach-jahren-a-2ac93fe4-b708-4ba9-8527-951277c2beec#ref=rss)
-### bleibt
-
-* [https://www.spiegel.de/panorama/berlin-verdacht-auf-missbrauch-durch-hiv-arzt-verfahren-endet-nach-jahren](https://www.spiegel.de/panorama/berlin-verdacht-auf-missbrauch-durch-hiv-arzt-verfahren-endet-nach-jahren-a-2ac93fe4-b708-4ba9-8527-951277c2beec#ref=rss)
-* [https://www.spiegel.de/kultur/musik/deichbrand-festival-trotz-antisemitismusvorwuerfen-tritt-macklemore-auf](https://www.spiegel.de/kultur/musik/deichbrand-festival-trotz-antisemitismusvorwuerfen-tritt-macklemore-auf-a-b16531ad-b7ef-46ac-b0b0-e6f00b3744db#ref=rss)
-### fußballem
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2025-var-aerger-bei-deutschland-gegen-daenemark-das-sagen-ard-und-uefa](https://www.spiegel.de/sport/fussball/fussball-em-2025-var-aerger-bei-deutschland-gegen-daenemark-das-sagen-ard-und-uefa-a-4498b554-cbb1-4ceb-a25f-e10e887ea729#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-wales-nationaltorhueterin-safia-middleton-patel-ueber-autismus](https://www.spiegel.de/sport/fussball/fussball-em-wales-nationaltorhueterin-safia-middleton-patel-ueber-autismus-a-10f0149b-3943-4437-903a-594cfb9c9dba#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/urlaub-2025-das-sind-die-neuen-empfehlungen-statt-usa-ostsee-mallorca-satire](https://www.spiegel.de/politik/deutschland/urlaub-2025-das-sind-die-neuen-empfehlungen-statt-usa-ostsee-mallorca-satire-a-3c1a721f-59ac-4995-82f2-aa0e25c50b05#ref=rss)
 ### 2025
 
-* [https://www.spiegel.de/sport/fussball/fussball-em-2025-var-aerger-bei-deutschland-gegen-daenemark-das-sagen-ard-und-uefa](https://www.spiegel.de/sport/fussball/fussball-em-2025-var-aerger-bei-deutschland-gegen-daenemark-das-sagen-ard-und-uefa-a-4498b554-cbb1-4ceb-a25f-e10e887ea729#ref=rss)
-### varärger
+* [https://www.spiegel.de/politik/deutschland/urlaub-2025-das-sind-die-neuen-empfehlungen-statt-usa-ostsee-mallorca-satire](https://www.spiegel.de/politik/deutschland/urlaub-2025-das-sind-die-neuen-empfehlungen-statt-usa-ostsee-mallorca-satire-a-3c1a721f-59ac-4995-82f2-aa0e25c50b05#ref=rss)
+* [https://www.spiegel.de/kultur/tv/fussball-em-der-frauen-2025-die-trainerinnen-bringen-ungewohnten-stil-auf-die-bildschirme](https://www.spiegel.de/kultur/tv/fussball-em-der-frauen-2025-die-trainerinnen-bringen-ungewohnten-stil-auf-die-bildschirme-a-6bb7b626-5f47-4577-88b9-5779577fb00f#ref=rss)
+### statt
 
-* [https://www.spiegel.de/sport/fussball/fussball-em-2025-var-aerger-bei-deutschland-gegen-daenemark-das-sagen-ard-und-uefa](https://www.spiegel.de/sport/fussball/fussball-em-2025-var-aerger-bei-deutschland-gegen-daenemark-das-sagen-ard-und-uefa-a-4498b554-cbb1-4ceb-a25f-e10e887ea729#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/urlaub-2025-das-sind-die-neuen-empfehlungen-statt-usa-ostsee-mallorca-satire](https://www.spiegel.de/politik/deutschland/urlaub-2025-das-sind-die-neuen-empfehlungen-statt-usa-ostsee-mallorca-satire-a-3c1a721f-59ac-4995-82f2-aa0e25c50b05#ref=rss)
+* [https://www.spiegel.de/ausland/lula-da-silva-die-welt-hat-keine-wahl-gastbeitrag-des-brasilianischen-praesidenten](https://www.spiegel.de/ausland/lula-da-silva-die-welt-hat-keine-wahl-gastbeitrag-des-brasilianischen-praesidenten-a-27f57e05-2d44-4fcb-a77c-70140aa3bd03#ref=rss)
+### ostsee
+
+* [https://www.spiegel.de/politik/deutschland/urlaub-2025-das-sind-die-neuen-empfehlungen-statt-usa-ostsee-mallorca-satire](https://www.spiegel.de/politik/deutschland/urlaub-2025-das-sind-die-neuen-empfehlungen-statt-usa-ostsee-mallorca-satire-a-3c1a721f-59ac-4995-82f2-aa0e25c50b05#ref=rss)
+### mallorca
+
+* [https://www.spiegel.de/politik/deutschland/urlaub-2025-das-sind-die-neuen-empfehlungen-statt-usa-ostsee-mallorca-satire](https://www.spiegel.de/politik/deutschland/urlaub-2025-das-sind-die-neuen-empfehlungen-statt-usa-ostsee-mallorca-satire-a-3c1a721f-59ac-4995-82f2-aa0e25c50b05#ref=rss)
+### guten
+
+* [https://www.spiegel.de/politik/deutschland/urlaub-2025-das-sind-die-neuen-empfehlungen-statt-usa-ostsee-mallorca-satire](https://www.spiegel.de/politik/deutschland/urlaub-2025-das-sind-die-neuen-empfehlungen-statt-usa-ostsee-mallorca-satire-a-3c1a721f-59ac-4995-82f2-aa0e25c50b05#ref=rss)
+* [https://www.spiegel.de/wirtschaft/immobilien-baupreise-in-deutschland-steigen-weiter](https://www.spiegel.de/wirtschaft/immobilien-baupreise-in-deutschland-steigen-weiter-a-55247d8e-1b7d-45a2-bd61-65294ccf0f61#ref=rss)
+### simon
+
+* [https://www.spiegel.de/panorama/leute/lulu-simon-tochter-von-paul-simon-hofft-dass-ihre-toten-haustiere-richard-gere-heimsuchen](https://www.spiegel.de/panorama/leute/lulu-simon-tochter-von-paul-simon-hofft-dass-ihre-toten-haustiere-richard-gere-heimsuchen-a-701b5aca-f05c-4fca-9422-f2de6248290d#ref=rss)
+### richard
+
+* [https://www.spiegel.de/panorama/leute/lulu-simon-tochter-von-paul-simon-hofft-dass-ihre-toten-haustiere-richard-gere-heimsuchen](https://www.spiegel.de/panorama/leute/lulu-simon-tochter-von-paul-simon-hofft-dass-ihre-toten-haustiere-richard-gere-heimsuchen-a-701b5aca-f05c-4fca-9422-f2de6248290d#ref=rss)
+### gere
+
+* [https://www.spiegel.de/panorama/leute/lulu-simon-tochter-von-paul-simon-hofft-dass-ihre-toten-haustiere-richard-gere-heimsuchen](https://www.spiegel.de/panorama/leute/lulu-simon-tochter-von-paul-simon-hofft-dass-ihre-toten-haustiere-richard-gere-heimsuchen-a-701b5aca-f05c-4fca-9422-f2de6248290d#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### tag
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### regenbogenfahnen
+
+* [https://www.spiegel.de/panorama/bundestag-abgeordnete-muessen-regenbogenfahnen-von-bueros-entfernen](https://www.spiegel.de/panorama/bundestag-abgeordnete-muessen-regenbogenfahnen-von-bueros-entfernen-a-d6f5d79c-bd03-427c-a573-cb066e63805e#ref=rss)
+### parlamentarier
+
+* [https://www.spiegel.de/panorama/bundestag-abgeordnete-muessen-regenbogenfahnen-von-bueros-entfernen](https://www.spiegel.de/panorama/bundestag-abgeordnete-muessen-regenbogenfahnen-von-bueros-entfernen-a-d6f5d79c-bd03-427c-a573-cb066e63805e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-mecklenburg-vorpommern-abgeordnete-von-fdp-und-cdu-besuchen-afd-sommerfest](https://www.spiegel.de/politik/deutschland/afd-mecklenburg-vorpommern-abgeordnete-von-fdp-und-cdu-besuchen-afd-sommerfest-a-24088b7a-e0a9-4534-a9be-24cf72406554#ref=rss)
+### mecklenburgvorpommern
+
+* [https://www.spiegel.de/politik/deutschland/afd-mecklenburg-vorpommern-abgeordnete-von-fdp-und-cdu-besuchen-afd-sommerfest](https://www.spiegel.de/politik/deutschland/afd-mecklenburg-vorpommern-abgeordnete-von-fdp-und-cdu-besuchen-afd-sommerfest-a-24088b7a-e0a9-4534-a9be-24cf72406554#ref=rss)
+### fdp
+
+* [https://www.spiegel.de/politik/deutschland/afd-mecklenburg-vorpommern-abgeordnete-von-fdp-und-cdu-besuchen-afd-sommerfest](https://www.spiegel.de/politik/deutschland/afd-mecklenburg-vorpommern-abgeordnete-von-fdp-und-cdu-besuchen-afd-sommerfest-a-24088b7a-e0a9-4534-a9be-24cf72406554#ref=rss)
+### afdsommerfest
+
+* [https://www.spiegel.de/politik/deutschland/afd-mecklenburg-vorpommern-abgeordnete-von-fdp-und-cdu-besuchen-afd-sommerfest](https://www.spiegel.de/politik/deutschland/afd-mecklenburg-vorpommern-abgeordnete-von-fdp-und-cdu-besuchen-afd-sommerfest-a-24088b7a-e0a9-4534-a9be-24cf72406554#ref=rss)
+### waren
+
+* [https://www.spiegel.de/politik/deutschland/afd-mecklenburg-vorpommern-abgeordnete-von-fdp-und-cdu-besuchen-afd-sommerfest](https://www.spiegel.de/politik/deutschland/afd-mecklenburg-vorpommern-abgeordnete-von-fdp-und-cdu-besuchen-afd-sommerfest-a-24088b7a-e0a9-4534-a9be-24cf72406554#ref=rss)
+* [https://www.spiegel.de/kultur/musik/kevin-jonas-hat-nach-2013-fast-sein-ganzes-geld-verloren](https://www.spiegel.de/kultur/musik/kevin-jonas-hat-nach-2013-fast-sein-ganzes-geld-verloren-a-d2ec71d8-b6ec-4df4-a57b-6a45109ff127#ref=rss)
+### gast
+
+* [https://www.spiegel.de/politik/deutschland/afd-mecklenburg-vorpommern-abgeordnete-von-fdp-und-cdu-besuchen-afd-sommerfest](https://www.spiegel.de/politik/deutschland/afd-mecklenburg-vorpommern-abgeordnete-von-fdp-und-cdu-besuchen-afd-sommerfest-a-24088b7a-e0a9-4534-a9be-24cf72406554#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/3i-atlas-hier-fliegt-das-interstellare-objekt-durchs-sonnensystem](https://www.spiegel.de/wissenschaft/weltall/3i-atlas-hier-fliegt-das-interstellare-objekt-durchs-sonnensystem-a-401b7cfc-6000-447a-bbd2-c22735aea2ee#ref=rss)
+### sehen
+
+* [https://www.spiegel.de/politik/deutschland/afd-mecklenburg-vorpommern-abgeordnete-von-fdp-und-cdu-besuchen-afd-sommerfest](https://www.spiegel.de/politik/deutschland/afd-mecklenburg-vorpommern-abgeordnete-von-fdp-und-cdu-besuchen-afd-sommerfest-a-24088b7a-e0a9-4534-a9be-24cf72406554#ref=rss)
+* [https://www.spiegel.de/kultur/tv/fussball-em-der-frauen-2025-die-trainerinnen-bringen-ungewohnten-stil-auf-die-bildschirme](https://www.spiegel.de/kultur/tv/fussball-em-der-frauen-2025-die-trainerinnen-bringen-ungewohnten-stil-auf-die-bildschirme-a-6bb7b626-5f47-4577-88b9-5779577fb00f#ref=rss)
+### fußballem
+
+* [https://www.spiegel.de/kultur/tv/fussball-em-der-frauen-2025-die-trainerinnen-bringen-ungewohnten-stil-auf-die-bildschirme](https://www.spiegel.de/kultur/tv/fussball-em-der-frauen-2025-die-trainerinnen-bringen-ungewohnten-stil-auf-die-bildschirme-a-6bb7b626-5f47-4577-88b9-5779577fb00f#ref=rss)
+### frauen
+
+* [https://www.spiegel.de/kultur/tv/fussball-em-der-frauen-2025-die-trainerinnen-bringen-ungewohnten-stil-auf-die-bildschirme](https://www.spiegel.de/kultur/tv/fussball-em-der-frauen-2025-die-trainerinnen-bringen-ungewohnten-stil-auf-die-bildschirme-a-6bb7b626-5f47-4577-88b9-5779577fb00f#ref=rss)
+### trainerinnen
+
+* [https://www.spiegel.de/kultur/tv/fussball-em-der-frauen-2025-die-trainerinnen-bringen-ungewohnten-stil-auf-die-bildschirme](https://www.spiegel.de/kultur/tv/fussball-em-der-frauen-2025-die-trainerinnen-bringen-ungewohnten-stil-auf-die-bildschirme-a-6bb7b626-5f47-4577-88b9-5779577fb00f#ref=rss)
+### dank
+
+* [https://www.spiegel.de/kultur/tv/fussball-em-der-frauen-2025-die-trainerinnen-bringen-ungewohnten-stil-auf-die-bildschirme](https://www.spiegel.de/kultur/tv/fussball-em-der-frauen-2025-die-trainerinnen-bringen-ungewohnten-stil-auf-die-bildschirme-a-6bb7b626-5f47-4577-88b9-5779577fb00f#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-christian-horner-verabschiedet-sich-nach-abloesung-als-teamchef](https://www.spiegel.de/sport/formel1/formel-1-christian-horner-verabschiedet-sich-nach-abloesung-als-teamchef-a-07541600-e2e5-4351-813d-8b04402ac347#ref=rss)
+### 3i/atlas
+
+* [https://www.spiegel.de/wissenschaft/weltall/3i-atlas-hier-fliegt-das-interstellare-objekt-durchs-sonnensystem](https://www.spiegel.de/wissenschaft/weltall/3i-atlas-hier-fliegt-das-interstellare-objekt-durchs-sonnensystem-a-401b7cfc-6000-447a-bbd2-c22735aea2ee#ref=rss)
+### interstellare
+
+* [https://www.spiegel.de/wissenschaft/weltall/3i-atlas-hier-fliegt-das-interstellare-objekt-durchs-sonnensystem](https://www.spiegel.de/wissenschaft/weltall/3i-atlas-hier-fliegt-das-interstellare-objekt-durchs-sonnensystem-a-401b7cfc-6000-447a-bbd2-c22735aea2ee#ref=rss)
+### objekt
+
+* [https://www.spiegel.de/wissenschaft/weltall/3i-atlas-hier-fliegt-das-interstellare-objekt-durchs-sonnensystem](https://www.spiegel.de/wissenschaft/weltall/3i-atlas-hier-fliegt-das-interstellare-objekt-durchs-sonnensystem-a-401b7cfc-6000-447a-bbd2-c22735aea2ee#ref=rss)
+### durchs
+
+* [https://www.spiegel.de/wissenschaft/weltall/3i-atlas-hier-fliegt-das-interstellare-objekt-durchs-sonnensystem](https://www.spiegel.de/wissenschaft/weltall/3i-atlas-hier-fliegt-das-interstellare-objekt-durchs-sonnensystem-a-401b7cfc-6000-447a-bbd2-c22735aea2ee#ref=rss)
+### sonnensystem
+
+* [https://www.spiegel.de/wissenschaft/weltall/3i-atlas-hier-fliegt-das-interstellare-objekt-durchs-sonnensystem](https://www.spiegel.de/wissenschaft/weltall/3i-atlas-hier-fliegt-das-interstellare-objekt-durchs-sonnensystem-a-401b7cfc-6000-447a-bbd2-c22735aea2ee#ref=rss)
+### video
+
+* [https://www.spiegel.de/wissenschaft/weltall/3i-atlas-hier-fliegt-das-interstellare-objekt-durchs-sonnensystem](https://www.spiegel.de/wissenschaft/weltall/3i-atlas-hier-fliegt-das-interstellare-objekt-durchs-sonnensystem-a-401b7cfc-6000-447a-bbd2-c22735aea2ee#ref=rss)
+* [https://www.spiegel.de/ausland/huthi-angriff-auf-eternity-c-usa-fordern-sofortige-freilassung-von-entfuehrter-frachterbesatzung](https://www.spiegel.de/ausland/huthi-angriff-auf-eternity-c-usa-fordern-sofortige-freilassung-von-entfuehrter-frachterbesatzung-a-1eb66184-f1ee-4d90-aba1-74a0d58cb4f4#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/sport/fussball/dfb-verzeichnet-rekordzuwachs-bei-mitgliedern](https://www.spiegel.de/sport/fussball/dfb-verzeichnet-rekordzuwachs-bei-mitgliedern-a-997b0861-57d7-4d20-aa75-ccaf85be04d8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-will-generalsanierung-um-weiteres-jahr-strecken](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-will-generalsanierung-um-weiteres-jahr-strecken-a-6f0a22bf-cc80-451e-ab02-23c6348d5c75#ref=rss)
+### ursula
+
+* [https://www.spiegel.de/ausland/ursula-von-der-leyen-rechte-scheitern-mit-misstrauensantrag-im-eu-parlament](https://www.spiegel.de/ausland/ursula-von-der-leyen-rechte-scheitern-mit-misstrauensantrag-im-eu-parlament-a-a8fce5fd-788c-46b9-85aa-9b5acd895f55#ref=rss)
+### leyen
+
+* [https://www.spiegel.de/ausland/ursula-von-der-leyen-rechte-scheitern-mit-misstrauensantrag-im-eu-parlament](https://www.spiegel.de/ausland/ursula-von-der-leyen-rechte-scheitern-mit-misstrauensantrag-im-eu-parlament-a-a8fce5fd-788c-46b9-85aa-9b5acd895f55#ref=rss)
+### rechte
+
+* [https://www.spiegel.de/ausland/ursula-von-der-leyen-rechte-scheitern-mit-misstrauensantrag-im-eu-parlament](https://www.spiegel.de/ausland/ursula-von-der-leyen-rechte-scheitern-mit-misstrauensantrag-im-eu-parlament-a-a8fce5fd-788c-46b9-85aa-9b5acd895f55#ref=rss)
+* [https://www.spiegel.de/sport/urteil-des-europaeischen-gerichtshofes-schweizer-gericht-gab-caster-semenya-keine-faire-anhoerung](https://www.spiegel.de/sport/urteil-des-europaeischen-gerichtshofes-schweizer-gericht-gab-caster-semenya-keine-faire-anhoerung-a-0b85f7a6-162f-4ffb-8393-cc898b9da9cd#ref=rss)
+### christian
+
+* [https://www.spiegel.de/sport/formel1/formel-1-christian-horner-verabschiedet-sich-nach-abloesung-als-teamchef](https://www.spiegel.de/sport/formel1/formel-1-christian-horner-verabschiedet-sich-nach-abloesung-als-teamchef-a-07541600-e2e5-4351-813d-8b04402ac347#ref=rss)
+### horner
+
+* [https://www.spiegel.de/sport/formel1/formel-1-christian-horner-verabschiedet-sich-nach-abloesung-als-teamchef](https://www.spiegel.de/sport/formel1/formel-1-christian-horner-verabschiedet-sich-nach-abloesung-als-teamchef-a-07541600-e2e5-4351-813d-8b04402ac347#ref=rss)
+### verabschiedet
+
+* [https://www.spiegel.de/sport/formel1/formel-1-christian-horner-verabschiedet-sich-nach-abloesung-als-teamchef](https://www.spiegel.de/sport/formel1/formel-1-christian-horner-verabschiedet-sich-nach-abloesung-als-teamchef-a-07541600-e2e5-4351-813d-8b04402ac347#ref=rss)
+### ablösung
+
+* [https://www.spiegel.de/sport/formel1/formel-1-christian-horner-verabschiedet-sich-nach-abloesung-als-teamchef](https://www.spiegel.de/sport/formel1/formel-1-christian-horner-verabschiedet-sich-nach-abloesung-als-teamchef-a-07541600-e2e5-4351-813d-8b04402ac347#ref=rss)
+### teamchef
+
+* [https://www.spiegel.de/sport/formel1/formel-1-christian-horner-verabschiedet-sich-nach-abloesung-als-teamchef](https://www.spiegel.de/sport/formel1/formel-1-christian-horner-verabschiedet-sich-nach-abloesung-als-teamchef-a-07541600-e2e5-4351-813d-8b04402ac347#ref=rss)
+### australien
+
+* [https://www.spiegel.de/panorama/australien-beim-surfen-verschwunden-19-jaehriger-auf-unbewohnter-insel-gefunden](https://www.spiegel.de/panorama/australien-beim-surfen-verschwunden-19-jaehriger-auf-unbewohnter-insel-gefunden-a-a26f85f4-48ee-404b-b33b-d8ec80ee0c92#ref=rss)
+### surfen
+
+* [https://www.spiegel.de/panorama/australien-beim-surfen-verschwunden-19-jaehriger-auf-unbewohnter-insel-gefunden](https://www.spiegel.de/panorama/australien-beim-surfen-verschwunden-19-jaehriger-auf-unbewohnter-insel-gefunden-a-a26f85f4-48ee-404b-b33b-d8ec80ee0c92#ref=rss)
+### 19jähriger
+
+* [https://www.spiegel.de/panorama/australien-beim-surfen-verschwunden-19-jaehriger-auf-unbewohnter-insel-gefunden](https://www.spiegel.de/panorama/australien-beim-surfen-verschwunden-19-jaehriger-auf-unbewohnter-insel-gefunden-a-a26f85f4-48ee-404b-b33b-d8ec80ee0c92#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hamburg-mutter-mit-harpune-getoetet-19-jaehriger-muss-in-psychiatrie](https://www.spiegel.de/panorama/justiz/hamburg-mutter-mit-harpune-getoetet-19-jaehriger-muss-in-psychiatrie-a-3f340a9a-8b3b-4c71-8447-b10ce495b045#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/australien-beim-surfen-verschwunden-19-jaehriger-auf-unbewohnter-insel-gefunden](https://www.spiegel.de/panorama/australien-beim-surfen-verschwunden-19-jaehriger-auf-unbewohnter-insel-gefunden-a-a26f85f4-48ee-404b-b33b-d8ec80ee0c92#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/vogelsberg-in-thueringen-polizei-befreit-19-jaehrige-aus-kiste-in-scheune](https://www.spiegel.de/panorama/justiz/vogelsberg-in-thueringen-polizei-befreit-19-jaehrige-aus-kiste-in-scheune-a-dc393c9f-93d9-45c0-a82f-93f0f7a0519d#ref=rss)
+### weiteren
+
+* [https://www.spiegel.de/panorama/berlin-mordprozess-gegen-arzt-ermittlungen-in-75-weiteren-todesfaellen](https://www.spiegel.de/panorama/berlin-mordprozess-gegen-arzt-ermittlungen-in-75-weiteren-todesfaellen-a-7f7a9e57-27a9-4562-9f1f-e442bcaf5db3#ref=rss)
+### später
+
+* [https://www.spiegel.de/panorama/berlin-mordprozess-gegen-arzt-ermittlungen-in-75-weiteren-todesfaellen](https://www.spiegel.de/panorama/berlin-mordprozess-gegen-arzt-ermittlungen-in-75-weiteren-todesfaellen-a-7f7a9e57-27a9-4562-9f1f-e442bcaf5db3#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/vogelsberg-in-thueringen-polizei-befreit-19-jaehrige-aus-kiste-in-scheune](https://www.spiegel.de/panorama/justiz/vogelsberg-in-thueringen-polizei-befreit-19-jaehrige-aus-kiste-in-scheune-a-dc393c9f-93d9-45c0-a82f-93f0f7a0519d#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/panorama/berlin-mordprozess-gegen-arzt-ermittlungen-in-75-weiteren-todesfaellen](https://www.spiegel.de/panorama/berlin-mordprozess-gegen-arzt-ermittlungen-in-75-weiteren-todesfaellen-a-7f7a9e57-27a9-4562-9f1f-e442bcaf5db3#ref=rss)
+* [https://www.spiegel.de/sport/urteil-des-europaeischen-gerichtshofes-schweizer-gericht-gab-caster-semenya-keine-faire-anhoerung](https://www.spiegel.de/sport/urteil-des-europaeischen-gerichtshofes-schweizer-gericht-gab-caster-semenya-keine-faire-anhoerung-a-0b85f7a6-162f-4ffb-8393-cc898b9da9cd#ref=rss)
+### vorwürfe
+
+* [https://www.spiegel.de/politik/deutschland/cdu-ex-funktionaer-wegen-untreue-nach-treffen-mit-donald-trump-und-elon-musk-angeklagt](https://www.spiegel.de/politik/deutschland/cdu-ex-funktionaer-wegen-untreue-nach-treffen-mit-donald-trump-und-elon-musk-angeklagt-a-98e8e45c-59cd-44a9-ab3c-5fd6d29c4774#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/margaretha-sudhof-spd-verteidigt-masken-ermittlerin-gegen-vorwuerfe](https://www.spiegel.de/politik/deutschland/margaretha-sudhof-spd-verteidigt-masken-ermittlerin-gegen-vorwuerfe-a-06bee9bf-78f0-4448-af41-0a3c848f78f9#ref=rss)
+### bahn
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-will-generalsanierung-um-weiteres-jahr-strecken](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-will-generalsanierung-um-weiteres-jahr-strecken-a-6f0a22bf-cc80-451e-ab02-23c6348d5c75#ref=rss)
+### generalsanierung
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-will-generalsanierung-um-weiteres-jahr-strecken](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-will-generalsanierung-um-weiteres-jahr-strecken-a-6f0a22bf-cc80-451e-ab02-23c6348d5c75#ref=rss)
+### frau
+
+* [https://www.spiegel.de/panorama/hamburg-eltern-verwirklichen-traum-ihrer-verstorbenen-tochter](https://www.spiegel.de/panorama/hamburg-eltern-verwirklichen-traum-ihrer-verstorbenen-tochter-a-c5de4fd9-52b0-4962-a015-94f319487f78#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/vogelsberg-in-thueringen-polizei-befreit-19-jaehrige-aus-kiste-in-scheune](https://www.spiegel.de/panorama/justiz/vogelsberg-in-thueringen-polizei-befreit-19-jaehrige-aus-kiste-in-scheune-a-dc393c9f-93d9-45c0-a82f-93f0f7a0519d#ref=rss)
+### kam
+
+* [https://www.spiegel.de/panorama/hamburg-eltern-verwirklichen-traum-ihrer-verstorbenen-tochter](https://www.spiegel.de/panorama/hamburg-eltern-verwirklichen-traum-ihrer-verstorbenen-tochter-a-c5de4fd9-52b0-4962-a015-94f319487f78#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-warum-donald-trump-ploetzlich-sauer-auf-wladimir-putin-ist](https://www.spiegel.de/ausland/ukraine-krieg-warum-donald-trump-ploetzlich-sauer-auf-wladimir-putin-ist-a-e16198b5-7e1c-426c-b12e-133e1d3b4b4c#ref=rss)
+### urteil
+
+* [https://www.spiegel.de/sport/urteil-des-europaeischen-gerichtshofes-schweizer-gericht-gab-caster-semenya-keine-faire-anhoerung](https://www.spiegel.de/sport/urteil-des-europaeischen-gerichtshofes-schweizer-gericht-gab-caster-semenya-keine-faire-anhoerung-a-0b85f7a6-162f-4ffb-8393-cc898b9da9cd#ref=rss)
+### schweizer
+
+* [https://www.spiegel.de/sport/urteil-des-europaeischen-gerichtshofes-schweizer-gericht-gab-caster-semenya-keine-faire-anhoerung](https://www.spiegel.de/sport/urteil-des-europaeischen-gerichtshofes-schweizer-gericht-gab-caster-semenya-keine-faire-anhoerung-a-0b85f7a6-162f-4ffb-8393-cc898b9da9cd#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/schweiz-ki-generiertes-kinderbuch-sorgt-fuer-proteste](https://www.spiegel.de/kultur/literatur/schweiz-ki-generiertes-kinderbuch-sorgt-fuer-proteste-a-fe33e616-a24a-4898-816d-e17f311e67b3#ref=rss)
+### caster
+
+* [https://www.spiegel.de/sport/urteil-des-europaeischen-gerichtshofes-schweizer-gericht-gab-caster-semenya-keine-faire-anhoerung](https://www.spiegel.de/sport/urteil-des-europaeischen-gerichtshofes-schweizer-gericht-gab-caster-semenya-keine-faire-anhoerung-a-0b85f7a6-162f-4ffb-8393-cc898b9da9cd#ref=rss)
+### semenya
+
+* [https://www.spiegel.de/sport/urteil-des-europaeischen-gerichtshofes-schweizer-gericht-gab-caster-semenya-keine-faire-anhoerung](https://www.spiegel.de/sport/urteil-des-europaeischen-gerichtshofes-schweizer-gericht-gab-caster-semenya-keine-faire-anhoerung-a-0b85f7a6-162f-4ffb-8393-cc898b9da9cd#ref=rss)
+### schweiz
+
+* [https://www.spiegel.de/sport/urteil-des-europaeischen-gerichtshofes-schweizer-gericht-gab-caster-semenya-keine-faire-anhoerung](https://www.spiegel.de/sport/urteil-des-europaeischen-gerichtshofes-schweizer-gericht-gab-caster-semenya-keine-faire-anhoerung-a-0b85f7a6-162f-4ffb-8393-cc898b9da9cd#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/schweiz-ki-generiertes-kinderbuch-sorgt-fuer-proteste](https://www.spiegel.de/kultur/literatur/schweiz-ki-generiertes-kinderbuch-sorgt-fuer-proteste-a-fe33e616-a24a-4898-816d-e17f311e67b3#ref=rss)
+### netflixthriller
+
+* [https://www.spiegel.de/kultur/netflix-thriller-brick-matthias-schweighoefer-in-der-moebelhaus-dystopie](https://www.spiegel.de/kultur/netflix-thriller-brick-matthias-schweighoefer-in-der-moebelhaus-dystopie-a-4da3f7d1-4f32-450e-881b-a97195eb1f46#ref=rss)
+### brick
+
+* [https://www.spiegel.de/kultur/netflix-thriller-brick-matthias-schweighoefer-in-der-moebelhaus-dystopie](https://www.spiegel.de/kultur/netflix-thriller-brick-matthias-schweighoefer-in-der-moebelhaus-dystopie-a-4da3f7d1-4f32-450e-881b-a97195eb1f46#ref=rss)
+### matthias
+
+* [https://www.spiegel.de/kultur/netflix-thriller-brick-matthias-schweighoefer-in-der-moebelhaus-dystopie](https://www.spiegel.de/kultur/netflix-thriller-brick-matthias-schweighoefer-in-der-moebelhaus-dystopie-a-4da3f7d1-4f32-450e-881b-a97195eb1f46#ref=rss)
+### schweighöfer
+
+* [https://www.spiegel.de/kultur/netflix-thriller-brick-matthias-schweighoefer-in-der-moebelhaus-dystopie](https://www.spiegel.de/kultur/netflix-thriller-brick-matthias-schweighoefer-in-der-moebelhaus-dystopie-a-4da3f7d1-4f32-450e-881b-a97195eb1f46#ref=rss)
+### gern
+
+* [https://www.spiegel.de/kultur/netflix-thriller-brick-matthias-schweighoefer-in-der-moebelhaus-dystopie](https://www.spiegel.de/kultur/netflix-thriller-brick-matthias-schweighoefer-in-der-moebelhaus-dystopie-a-4da3f7d1-4f32-450e-881b-a97195eb1f46#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/gesamtmetall-praesident-stefan-wolf-soll-haushaltshilfe-schwarz-beschaeftigt-haben](https://www.spiegel.de/wirtschaft/soziales/gesamtmetall-praesident-stefan-wolf-soll-haushaltshilfe-schwarz-beschaeftigt-haben-a-5748eb3e-0d4a-49fe-912b-24fedf00047d#ref=rss)
+### margaretha
+
+* [https://www.spiegel.de/politik/deutschland/margaretha-sudhof-spd-verteidigt-masken-ermittlerin-gegen-vorwuerfe](https://www.spiegel.de/politik/deutschland/margaretha-sudhof-spd-verteidigt-masken-ermittlerin-gegen-vorwuerfe-a-06bee9bf-78f0-4448-af41-0a3c848f78f9#ref=rss)
+### sudhof
+
+* [https://www.spiegel.de/politik/deutschland/margaretha-sudhof-spd-verteidigt-masken-ermittlerin-gegen-vorwuerfe](https://www.spiegel.de/politik/deutschland/margaretha-sudhof-spd-verteidigt-masken-ermittlerin-gegen-vorwuerfe-a-06bee9bf-78f0-4448-af41-0a3c848f78f9#ref=rss)
+### berliner
+
+* [https://www.spiegel.de/panorama/bildung/bundesverfassungsgericht-entfristungsregel-im-berliner-hochschulgesetz-verfassungswidrig](https://www.spiegel.de/panorama/bildung/bundesverfassungsgericht-entfristungsregel-im-berliner-hochschulgesetz-verfassungswidrig-a-1abc0636-25e5-4076-8fa4-b05442dd20b0#ref=rss)
+### verfassungswidrig
+
+* [https://www.spiegel.de/panorama/bildung/bundesverfassungsgericht-entfristungsregel-im-berliner-hochschulgesetz-verfassungswidrig](https://www.spiegel.de/panorama/bildung/bundesverfassungsgericht-entfristungsregel-im-berliner-hochschulgesetz-verfassungswidrig-a-1abc0636-25e5-4076-8fa4-b05442dd20b0#ref=rss)
+### mutter
+
+* [https://www.spiegel.de/panorama/justiz/hamburg-mutter-mit-harpune-getoetet-19-jaehriger-muss-in-psychiatrie](https://www.spiegel.de/panorama/justiz/hamburg-mutter-mit-harpune-getoetet-19-jaehriger-muss-in-psychiatrie-a-3f340a9a-8b3b-4c71-8447-b10ce495b045#ref=rss)
+### getötet
+
+* [https://www.spiegel.de/panorama/justiz/hamburg-mutter-mit-harpune-getoetet-19-jaehriger-muss-in-psychiatrie](https://www.spiegel.de/panorama/justiz/hamburg-mutter-mit-harpune-getoetet-19-jaehriger-muss-in-psychiatrie-a-3f340a9a-8b3b-4c71-8447-b10ce495b045#ref=rss)
+### baupreise
+
+* [https://www.spiegel.de/wirtschaft/immobilien-baupreise-in-deutschland-steigen-weiter](https://www.spiegel.de/wirtschaft/immobilien-baupreise-in-deutschland-steigen-weiter-a-55247d8e-1b7d-45a2-bd61-65294ccf0f61#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/sport/fussball/fussball-em-2025-var-aerger-bei-deutschland-gegen-daenemark-das-sagen-ard-und-uefa](https://www.spiegel.de/sport/fussball/fussball-em-2025-var-aerger-bei-deutschland-gegen-daenemark-das-sagen-ard-und-uefa-a-4498b554-cbb1-4ceb-a25f-e10e887ea729#ref=rss)
-* [https://www.spiegel.de/wissenschaft/chikungunya-baden-wuerttemberg-befuerchtet-faelle-der-virus-infektion](https://www.spiegel.de/wissenschaft/chikungunya-baden-wuerttemberg-befuerchtet-faelle-der-virus-infektion-a-b92c4d11-2aad-46b3-9b1a-c4908a0e108e#ref=rss)
-### dänemark
+* [https://www.spiegel.de/wirtschaft/immobilien-baupreise-in-deutschland-steigen-weiter](https://www.spiegel.de/wirtschaft/immobilien-baupreise-in-deutschland-steigen-weiter-a-55247d8e-1b7d-45a2-bd61-65294ccf0f61#ref=rss)
+### steigen
 
-* [https://www.spiegel.de/sport/fussball/fussball-em-2025-var-aerger-bei-deutschland-gegen-daenemark-das-sagen-ard-und-uefa](https://www.spiegel.de/sport/fussball/fussball-em-2025-var-aerger-bei-deutschland-gegen-daenemark-das-sagen-ard-und-uefa-a-4498b554-cbb1-4ceb-a25f-e10e887ea729#ref=rss)
-### ard
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2025-var-aerger-bei-deutschland-gegen-daenemark-das-sagen-ard-und-uefa](https://www.spiegel.de/sport/fussball/fussball-em-2025-var-aerger-bei-deutschland-gegen-daenemark-das-sagen-ard-und-uefa-a-4498b554-cbb1-4ceb-a25f-e10e887ea729#ref=rss)
-### fälle
-
-* [https://www.spiegel.de/wissenschaft/chikungunya-baden-wuerttemberg-befuerchtet-faelle-der-virus-infektion](https://www.spiegel.de/wissenschaft/chikungunya-baden-wuerttemberg-befuerchtet-faelle-der-virus-infektion-a-b92c4d11-2aad-46b3-9b1a-c4908a0e108e#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/justiz/segelunglueck-in-schweden-kann-man-jemanden-zu-tode-retten](https://www.spiegel.de/panorama/justiz/segelunglueck-in-schweden-kann-man-jemanden-zu-tode-retten-a-c46e93ce-b721-4989-ae6f-e62d8035e995#ref=rss)
-* [https://www.spiegel.de/netzwelt/elon-musk-kurznachrichtendienst-x-chefin-linda-yaccarino-tritt-zurueck](https://www.spiegel.de/netzwelt/elon-musk-kurznachrichtendienst-x-chefin-linda-yaccarino-tritt-zurueck-a-324caa2c-f74b-4cb1-a1f3-97844135c95a#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/panorama/justiz/segelunglueck-in-schweden-kann-man-jemanden-zu-tode-retten](https://www.spiegel.de/panorama/justiz/segelunglueck-in-schweden-kann-man-jemanden-zu-tode-retten-a-c46e93ce-b721-4989-ae6f-e62d8035e995#ref=rss)
-* [https://www.spiegel.de/netzwelt/elon-musk-kurznachrichtendienst-x-chefin-linda-yaccarino-tritt-zurueck](https://www.spiegel.de/netzwelt/elon-musk-kurznachrichtendienst-x-chefin-linda-yaccarino-tritt-zurueck-a-324caa2c-f74b-4cb1-a1f3-97844135c95a#ref=rss)
-### safia
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-wales-nationaltorhueterin-safia-middleton-patel-ueber-autismus](https://www.spiegel.de/sport/fussball/fussball-em-wales-nationaltorhueterin-safia-middleton-patel-ueber-autismus-a-10f0149b-3943-4437-903a-594cfb9c9dba#ref=rss)
-### middletonpatel
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-wales-nationaltorhueterin-safia-middleton-patel-ueber-autismus](https://www.spiegel.de/sport/fussball/fussball-em-wales-nationaltorhueterin-safia-middleton-patel-ueber-autismus-a-10f0149b-3943-4437-903a-594cfb9c9dba#ref=rss)
-### autismus
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-wales-nationaltorhueterin-safia-middleton-patel-ueber-autismus](https://www.spiegel.de/sport/fussball/fussball-em-wales-nationaltorhueterin-safia-middleton-patel-ueber-autismus-a-10f0149b-3943-4437-903a-594cfb9c9dba#ref=rss)
-### nationalspielerin
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-wales-nationaltorhueterin-safia-middleton-patel-ueber-autismus](https://www.spiegel.de/sport/fussball/fussball-em-wales-nationaltorhueterin-safia-middleton-patel-ueber-autismus-a-10f0149b-3943-4437-903a-594cfb9c9dba#ref=rss)
-* [https://www.spiegel.de/sport/fussball/nationalspielerin-sydney-lohmann-verlaesst-fc-bayern-muenchen-und-wechselt-zu-manchester-city](https://www.spiegel.de/sport/fussball/nationalspielerin-sydney-lohmann-verlaesst-fc-bayern-muenchen-und-wechselt-zu-manchester-city-a-567b2b3f-488f-4215-8d83-08e690208c49#ref=rss)
-### darin
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-wales-nationaltorhueterin-safia-middleton-patel-ueber-autismus](https://www.spiegel.de/sport/fussball/fussball-em-wales-nationaltorhueterin-safia-middleton-patel-ueber-autismus-a-10f0149b-3943-4437-903a-594cfb9c9dba#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/niedersachsen-wissenschaftsministerium-rehabilitiert-ex-praesidenten-der-uni-goettingen](https://www.spiegel.de/panorama/bildung/niedersachsen-wissenschaftsministerium-rehabilitiert-ex-praesidenten-der-uni-goettingen-a-a5b2ce75-c125-43fe-a2ab-6a784b577c77#ref=rss)
-### samsung
-
-* [https://www.spiegel.de/netzwelt/gadgets/samsung-galaxy-z-serie-neue-modelle-sind-duenner-schneller-und-teuer](https://www.spiegel.de/netzwelt/gadgets/samsung-galaxy-z-serie-neue-modelle-sind-duenner-schneller-und-teuer-a-200a8574-d9ab-4467-b31e-a2f3a199b111#ref=rss)
-### modelle
-
-* [https://www.spiegel.de/netzwelt/gadgets/samsung-galaxy-z-serie-neue-modelle-sind-duenner-schneller-und-teuer](https://www.spiegel.de/netzwelt/gadgets/samsung-galaxy-z-serie-neue-modelle-sind-duenner-schneller-und-teuer-a-200a8574-d9ab-4467-b31e-a2f3a199b111#ref=rss)
+* [https://www.spiegel.de/wirtschaft/immobilien-baupreise-in-deutschland-steigen-weiter](https://www.spiegel.de/wirtschaft/immobilien-baupreise-in-deutschland-steigen-weiter-a-55247d8e-1b7d-45a2-bd61-65294ccf0f61#ref=rss)
 ### schneller
 
-* [https://www.spiegel.de/netzwelt/gadgets/samsung-galaxy-z-serie-neue-modelle-sind-duenner-schneller-und-teuer](https://www.spiegel.de/netzwelt/gadgets/samsung-galaxy-z-serie-neue-modelle-sind-duenner-schneller-und-teuer-a-200a8574-d9ab-4467-b31e-a2f3a199b111#ref=rss)
-### teuer
+* [https://www.spiegel.de/wirtschaft/immobilien-baupreise-in-deutschland-steigen-weiter](https://www.spiegel.de/wirtschaft/immobilien-baupreise-in-deutschland-steigen-weiter-a-55247d8e-1b7d-45a2-bd61-65294ccf0f61#ref=rss)
+### lars
 
-* [https://www.spiegel.de/netzwelt/gadgets/samsung-galaxy-z-serie-neue-modelle-sind-duenner-schneller-und-teuer](https://www.spiegel.de/netzwelt/gadgets/samsung-galaxy-z-serie-neue-modelle-sind-duenner-schneller-und-teuer-a-200a8574-d9ab-4467-b31e-a2f3a199b111#ref=rss)
-### abgabe
+* [https://www.spiegel.de/wirtschaft/lars-klingbeil-haelt-an-seiner-prinzengarde-fest](https://www.spiegel.de/wirtschaft/lars-klingbeil-haelt-an-seiner-prinzengarde-fest-a-ca91250c-3811-487e-a819-059f755986e0#ref=rss)
+### klingbeil
 
-* [https://www.spiegel.de/wirtschaft/temu-und-shein-eu-staaten-wollen-abgabe-auf-pakete-mit-billigware](https://www.spiegel.de/wirtschaft/temu-und-shein-eu-staaten-wollen-abgabe-auf-pakete-mit-billigware-a-bb13cf60-c471-4a15-8fe2-1c8d43deb0fe#ref=rss)
-### olympique
+* [https://www.spiegel.de/wirtschaft/lars-klingbeil-haelt-an-seiner-prinzengarde-fest](https://www.spiegel.de/wirtschaft/lars-klingbeil-haelt-an-seiner-prinzengarde-fest-a-ca91250c-3811-487e-a819-059f755986e0#ref=rss)
+### brothers
 
-* [https://www.spiegel.de/sport/fussball/frankeich-olympique-lyon-ex-serienmeister-wendet-zwangsabstieg-aus-der-ligue-1ab](https://www.spiegel.de/sport/fussball/frankeich-olympique-lyon-ex-serienmeister-wendet-zwangsabstieg-aus-der-ligue-1ab-a-ddbb1b30-07d7-4bcb-95e4-c17edaee5247#ref=rss)
-### lyon
+* [https://www.spiegel.de/kultur/musik/kevin-jonas-hat-nach-2013-fast-sein-ganzes-geld-verloren](https://www.spiegel.de/kultur/musik/kevin-jonas-hat-nach-2013-fast-sein-ganzes-geld-verloren-a-d2ec71d8-b6ec-4df4-a57b-6a45109ff127#ref=rss)
+### kevin
 
-* [https://www.spiegel.de/sport/fussball/frankeich-olympique-lyon-ex-serienmeister-wendet-zwangsabstieg-aus-der-ligue-1ab](https://www.spiegel.de/sport/fussball/frankeich-olympique-lyon-ex-serienmeister-wendet-zwangsabstieg-aus-der-ligue-1ab-a-ddbb1b30-07d7-4bcb-95e4-c17edaee5247#ref=rss)
-### göttingen
+* [https://www.spiegel.de/kultur/musik/kevin-jonas-hat-nach-2013-fast-sein-ganzes-geld-verloren](https://www.spiegel.de/kultur/musik/kevin-jonas-hat-nach-2013-fast-sein-ganzes-geld-verloren-a-d2ec71d8-b6ec-4df4-a57b-6a45109ff127#ref=rss)
+### fast
 
-* [https://www.spiegel.de/panorama/bildung/niedersachsen-wissenschaftsministerium-rehabilitiert-ex-praesidenten-der-uni-goettingen](https://www.spiegel.de/panorama/bildung/niedersachsen-wissenschaftsministerium-rehabilitiert-ex-praesidenten-der-uni-goettingen-a-a5b2ce75-c125-43fe-a2ab-6a784b577c77#ref=rss)
-### erst
+* [https://www.spiegel.de/kultur/musik/kevin-jonas-hat-nach-2013-fast-sein-ganzes-geld-verloren](https://www.spiegel.de/kultur/musik/kevin-jonas-hat-nach-2013-fast-sein-ganzes-geld-verloren-a-d2ec71d8-b6ec-4df4-a57b-6a45109ff127#ref=rss)
+### vogelsberg
 
-* [https://www.spiegel.de/panorama/bildung/niedersachsen-wissenschaftsministerium-rehabilitiert-ex-praesidenten-der-uni-goettingen](https://www.spiegel.de/panorama/bildung/niedersachsen-wissenschaftsministerium-rehabilitiert-ex-praesidenten-der-uni-goettingen-a-a5b2ce75-c125-43fe-a2ab-6a784b577c77#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-wirkt-als-muesse-er-sich-wehren-und-whatsapp-kanaele-koennen-gefaehrlich-sein-fuer-kinder](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-wirkt-als-muesse-er-sich-wehren-und-whatsapp-kanaele-koennen-gefaehrlich-sein-fuer-kinder-a-286caf03-7824-435e-bbef-ecbca7007427#ref=rss)
-### tour
+* [https://www.spiegel.de/panorama/justiz/vogelsberg-in-thueringen-polizei-befreit-19-jaehrige-aus-kiste-in-scheune](https://www.spiegel.de/panorama/justiz/vogelsberg-in-thueringen-polizei-befreit-19-jaehrige-aus-kiste-in-scheune-a-dc393c9f-93d9-45c0-a82f-93f0f7a0519d#ref=rss)
+### kiste
 
-* [https://www.spiegel.de/sport/tour-de-france-5-etappe-tadej-pogacar-holt-sich-gelb-remco-evenepoel-ist-der-zeitfahrkoenig](https://www.spiegel.de/sport/tour-de-france-5-etappe-tadej-pogacar-holt-sich-gelb-remco-evenepoel-ist-der-zeitfahrkoenig-a-266009f4-2c11-4e60-af6c-c2bdbdad1eb7#ref=rss)
-### de
+* [https://www.spiegel.de/panorama/justiz/vogelsberg-in-thueringen-polizei-befreit-19-jaehrige-aus-kiste-in-scheune](https://www.spiegel.de/panorama/justiz/vogelsberg-in-thueringen-polizei-befreit-19-jaehrige-aus-kiste-in-scheune-a-dc393c9f-93d9-45c0-a82f-93f0f7a0519d#ref=rss)
+### stefan
 
-* [https://www.spiegel.de/sport/tour-de-france-5-etappe-tadej-pogacar-holt-sich-gelb-remco-evenepoel-ist-der-zeitfahrkoenig](https://www.spiegel.de/sport/tour-de-france-5-etappe-tadej-pogacar-holt-sich-gelb-remco-evenepoel-ist-der-zeitfahrkoenig-a-266009f4-2c11-4e60-af6c-c2bdbdad1eb7#ref=rss)
-### france
+* [https://www.spiegel.de/wirtschaft/soziales/gesamtmetall-praesident-stefan-wolf-soll-haushaltshilfe-schwarz-beschaeftigt-haben](https://www.spiegel.de/wirtschaft/soziales/gesamtmetall-praesident-stefan-wolf-soll-haushaltshilfe-schwarz-beschaeftigt-haben-a-5748eb3e-0d4a-49fe-912b-24fedf00047d#ref=rss)
+### wolf
 
-* [https://www.spiegel.de/sport/tour-de-france-5-etappe-tadej-pogacar-holt-sich-gelb-remco-evenepoel-ist-der-zeitfahrkoenig](https://www.spiegel.de/sport/tour-de-france-5-etappe-tadej-pogacar-holt-sich-gelb-remco-evenepoel-ist-der-zeitfahrkoenig-a-266009f4-2c11-4e60-af6c-c2bdbdad1eb7#ref=rss)
-### tadej
+* [https://www.spiegel.de/wirtschaft/soziales/gesamtmetall-praesident-stefan-wolf-soll-haushaltshilfe-schwarz-beschaeftigt-haben](https://www.spiegel.de/wirtschaft/soziales/gesamtmetall-praesident-stefan-wolf-soll-haushaltshilfe-schwarz-beschaeftigt-haben-a-5748eb3e-0d4a-49fe-912b-24fedf00047d#ref=rss)
+### haushaltshilfe
 
-* [https://www.spiegel.de/sport/tour-de-france-5-etappe-tadej-pogacar-holt-sich-gelb-remco-evenepoel-ist-der-zeitfahrkoenig](https://www.spiegel.de/sport/tour-de-france-5-etappe-tadej-pogacar-holt-sich-gelb-remco-evenepoel-ist-der-zeitfahrkoenig-a-266009f4-2c11-4e60-af6c-c2bdbdad1eb7#ref=rss)
-### pogačar
+* [https://www.spiegel.de/wirtschaft/soziales/gesamtmetall-praesident-stefan-wolf-soll-haushaltshilfe-schwarz-beschaeftigt-haben](https://www.spiegel.de/wirtschaft/soziales/gesamtmetall-praesident-stefan-wolf-soll-haushaltshilfe-schwarz-beschaeftigt-haben-a-5748eb3e-0d4a-49fe-912b-24fedf00047d#ref=rss)
+### kinderbuch
 
-* [https://www.spiegel.de/sport/tour-de-france-5-etappe-tadej-pogacar-holt-sich-gelb-remco-evenepoel-ist-der-zeitfahrkoenig](https://www.spiegel.de/sport/tour-de-france-5-etappe-tadej-pogacar-holt-sich-gelb-remco-evenepoel-ist-der-zeitfahrkoenig-a-266009f4-2c11-4e60-af6c-c2bdbdad1eb7#ref=rss)
-### remco
+* [https://www.spiegel.de/kultur/literatur/schweiz-ki-generiertes-kinderbuch-sorgt-fuer-proteste](https://www.spiegel.de/kultur/literatur/schweiz-ki-generiertes-kinderbuch-sorgt-fuer-proteste-a-fe33e616-a24a-4898-816d-e17f311e67b3#ref=rss)
+### wladimir
 
-* [https://www.spiegel.de/sport/tour-de-france-5-etappe-tadej-pogacar-holt-sich-gelb-remco-evenepoel-ist-der-zeitfahrkoenig](https://www.spiegel.de/sport/tour-de-france-5-etappe-tadej-pogacar-holt-sich-gelb-remco-evenepoel-ist-der-zeitfahrkoenig-a-266009f4-2c11-4e60-af6c-c2bdbdad1eb7#ref=rss)
-### evenepoel
+* [https://www.spiegel.de/ausland/ukraine-krieg-warum-donald-trump-ploetzlich-sauer-auf-wladimir-putin-ist](https://www.spiegel.de/ausland/ukraine-krieg-warum-donald-trump-ploetzlich-sauer-auf-wladimir-putin-ist-a-e16198b5-7e1c-426c-b12e-133e1d3b4b4c#ref=rss)
+### putin
 
-* [https://www.spiegel.de/sport/tour-de-france-5-etappe-tadej-pogacar-holt-sich-gelb-remco-evenepoel-ist-der-zeitfahrkoenig](https://www.spiegel.de/sport/tour-de-france-5-etappe-tadej-pogacar-holt-sich-gelb-remco-evenepoel-ist-der-zeitfahrkoenig-a-266009f4-2c11-4e60-af6c-c2bdbdad1eb7#ref=rss)
-### ancelotti
+* [https://www.spiegel.de/ausland/ukraine-krieg-warum-donald-trump-ploetzlich-sauer-auf-wladimir-putin-ist](https://www.spiegel.de/ausland/ukraine-krieg-warum-donald-trump-ploetzlich-sauer-auf-wladimir-putin-ist-a-e16198b5-7e1c-426c-b12e-133e1d3b4b4c#ref=rss)
+### huthiangriff
 
-* [https://www.spiegel.de/sport/fussball/ex-trainer-von-real-madrid-ancelotti-in-spanien-zu-einjaehriger-haftstrafe-verurteilt](https://www.spiegel.de/sport/fussball/ex-trainer-von-real-madrid-ancelotti-in-spanien-zu-einjaehriger-haftstrafe-verurteilt-a-d20471cf-23e6-4a78-957b-ddcc10ab1649#ref=rss)
-### linda
+* [https://www.spiegel.de/ausland/huthi-angriff-auf-eternity-c-usa-fordern-sofortige-freilassung-von-entfuehrter-frachterbesatzung](https://www.spiegel.de/ausland/huthi-angriff-auf-eternity-c-usa-fordern-sofortige-freilassung-von-entfuehrter-frachterbesatzung-a-1eb66184-f1ee-4d90-aba1-74a0d58cb4f4#ref=rss)
+### eternity
 
-* [https://www.spiegel.de/netzwelt/elon-musk-kurznachrichtendienst-x-chefin-linda-yaccarino-tritt-zurueck](https://www.spiegel.de/netzwelt/elon-musk-kurznachrichtendienst-x-chefin-linda-yaccarino-tritt-zurueck-a-324caa2c-f74b-4cb1-a1f3-97844135c95a#ref=rss)
-### yaccarino
+* [https://www.spiegel.de/ausland/huthi-angriff-auf-eternity-c-usa-fordern-sofortige-freilassung-von-entfuehrter-frachterbesatzung](https://www.spiegel.de/ausland/huthi-angriff-auf-eternity-c-usa-fordern-sofortige-freilassung-von-entfuehrter-frachterbesatzung-a-1eb66184-f1ee-4d90-aba1-74a0d58cb4f4#ref=rss)
+### c
 
-* [https://www.spiegel.de/netzwelt/elon-musk-kurznachrichtendienst-x-chefin-linda-yaccarino-tritt-zurueck](https://www.spiegel.de/netzwelt/elon-musk-kurznachrichtendienst-x-chefin-linda-yaccarino-tritt-zurueck-a-324caa2c-f74b-4cb1-a1f3-97844135c95a#ref=rss)
-### tritt
-
-* [https://www.spiegel.de/netzwelt/elon-musk-kurznachrichtendienst-x-chefin-linda-yaccarino-tritt-zurueck](https://www.spiegel.de/netzwelt/elon-musk-kurznachrichtendienst-x-chefin-linda-yaccarino-tritt-zurueck-a-324caa2c-f74b-4cb1-a1f3-97844135c95a#ref=rss)
-* [https://www.spiegel.de/kultur/musik/deichbrand-festival-trotz-antisemitismusvorwuerfen-tritt-macklemore-auf](https://www.spiegel.de/kultur/musik/deichbrand-festival-trotz-antisemitismusvorwuerfen-tritt-macklemore-auf-a-b16531ad-b7ef-46ac-b0b0-e6f00b3744db#ref=rss)
-### steuern
-
-* [https://www.spiegel.de/wirtschaft/service/vorabpauschale-warum-sie-dieses-jahr-steuern-auf-ihr-etf-depot-zahlen-muessen](https://www.spiegel.de/wirtschaft/service/vorabpauschale-warum-sie-dieses-jahr-steuern-auf-ihr-etf-depot-zahlen-muessen-a-e277bac5-804d-414d-88f3-a09fa760a3a9#ref=rss)
-### sollten
-
-* [https://www.spiegel.de/wirtschaft/service/vorabpauschale-warum-sie-dieses-jahr-steuern-auf-ihr-etf-depot-zahlen-muessen](https://www.spiegel.de/wirtschaft/service/vorabpauschale-warum-sie-dieses-jahr-steuern-auf-ihr-etf-depot-zahlen-muessen-a-e277bac5-804d-414d-88f3-a09fa760a3a9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-wirkt-als-muesse-er-sich-wehren-und-whatsapp-kanaele-koennen-gefaehrlich-sein-fuer-kinder](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-wirkt-als-muesse-er-sich-wehren-und-whatsapp-kanaele-koennen-gefaehrlich-sein-fuer-kinder-a-286caf03-7824-435e-bbef-ecbca7007427#ref=rss)
-### ernst
-
-* [https://www.spiegel.de/kultur/ernst-kahl-kuenstler-nach-langer-krankheit-gestorben](https://www.spiegel.de/kultur/ernst-kahl-kuenstler-nach-langer-krankheit-gestorben-a-b8385ad7-2e4f-4ca1-b081-02cee6d729c8#ref=rss)
-### kahl
-
-* [https://www.spiegel.de/kultur/ernst-kahl-kuenstler-nach-langer-krankheit-gestorben](https://www.spiegel.de/kultur/ernst-kahl-kuenstler-nach-langer-krankheit-gestorben-a-b8385ad7-2e4f-4ca1-b081-02cee6d729c8#ref=rss)
-### künstler
-
-* [https://www.spiegel.de/kultur/ernst-kahl-kuenstler-nach-langer-krankheit-gestorben](https://www.spiegel.de/kultur/ernst-kahl-kuenstler-nach-langer-krankheit-gestorben-a-b8385ad7-2e4f-4ca1-b081-02cee6d729c8#ref=rss)
-### gestorben
-
-* [https://www.spiegel.de/kultur/ernst-kahl-kuenstler-nach-langer-krankheit-gestorben](https://www.spiegel.de/kultur/ernst-kahl-kuenstler-nach-langer-krankheit-gestorben-a-b8385ad7-2e4f-4ca1-b081-02cee6d729c8#ref=rss)
-### deichbrandfestival
-
-* [https://www.spiegel.de/kultur/musik/deichbrand-festival-trotz-antisemitismusvorwuerfen-tritt-macklemore-auf](https://www.spiegel.de/kultur/musik/deichbrand-festival-trotz-antisemitismusvorwuerfen-tritt-macklemore-auf-a-b16531ad-b7ef-46ac-b0b0-e6f00b3744db#ref=rss)
-### antisemitismusvorwürfen
-
-* [https://www.spiegel.de/kultur/musik/deichbrand-festival-trotz-antisemitismusvorwuerfen-tritt-macklemore-auf](https://www.spiegel.de/kultur/musik/deichbrand-festival-trotz-antisemitismusvorwuerfen-tritt-macklemore-auf-a-b16531ad-b7ef-46ac-b0b0-e6f00b3744db#ref=rss)
-### macklemore
-
-* [https://www.spiegel.de/kultur/musik/deichbrand-festival-trotz-antisemitismusvorwuerfen-tritt-macklemore-auf](https://www.spiegel.de/kultur/musik/deichbrand-festival-trotz-antisemitismusvorwuerfen-tritt-macklemore-auf-a-b16531ad-b7ef-46ac-b0b0-e6f00b3744db#ref=rss)
-### whatsappkanäle
-
-* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-wirkt-als-muesse-er-sich-wehren-und-whatsapp-kanaele-koennen-gefaehrlich-sein-fuer-kinder](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-wirkt-als-muesse-er-sich-wehren-und-whatsapp-kanaele-koennen-gefaehrlich-sein-fuer-kinder-a-286caf03-7824-435e-bbef-ecbca7007427#ref=rss)
-### gefährlich
-
-* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-wirkt-als-muesse-er-sich-wehren-und-whatsapp-kanaele-koennen-gefaehrlich-sein-fuer-kinder](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-wirkt-als-muesse-er-sich-wehren-und-whatsapp-kanaele-koennen-gefaehrlich-sein-fuer-kinder-a-286caf03-7824-435e-bbef-ecbca7007427#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-wirkt-als-muesse-er-sich-wehren-und-whatsapp-kanaele-koennen-gefaehrlich-sein-fuer-kinder](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-wirkt-als-muesse-er-sich-wehren-und-whatsapp-kanaele-koennen-gefaehrlich-sein-fuer-kinder-a-286caf03-7824-435e-bbef-ecbca7007427#ref=rss)
-### sydney
-
-* [https://www.spiegel.de/sport/fussball/nationalspielerin-sydney-lohmann-verlaesst-fc-bayern-muenchen-und-wechselt-zu-manchester-city](https://www.spiegel.de/sport/fussball/nationalspielerin-sydney-lohmann-verlaesst-fc-bayern-muenchen-und-wechselt-zu-manchester-city-a-567b2b3f-488f-4215-8d83-08e690208c49#ref=rss)
-### lohmann
-
-* [https://www.spiegel.de/sport/fussball/nationalspielerin-sydney-lohmann-verlaesst-fc-bayern-muenchen-und-wechselt-zu-manchester-city](https://www.spiegel.de/sport/fussball/nationalspielerin-sydney-lohmann-verlaesst-fc-bayern-muenchen-und-wechselt-zu-manchester-city-a-567b2b3f-488f-4215-8d83-08e690208c49#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/nationalspielerin-sydney-lohmann-verlaesst-fc-bayern-muenchen-und-wechselt-zu-manchester-city](https://www.spiegel.de/sport/fussball/nationalspielerin-sydney-lohmann-verlaesst-fc-bayern-muenchen-und-wechselt-zu-manchester-city-a-567b2b3f-488f-4215-8d83-08e690208c49#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/sport/fussball/nationalspielerin-sydney-lohmann-verlaesst-fc-bayern-muenchen-und-wechselt-zu-manchester-city](https://www.spiegel.de/sport/fussball/nationalspielerin-sydney-lohmann-verlaesst-fc-bayern-muenchen-und-wechselt-zu-manchester-city-a-567b2b3f-488f-4215-8d83-08e690208c49#ref=rss)
-### münchen
-
-* [https://www.spiegel.de/sport/fussball/nationalspielerin-sydney-lohmann-verlaesst-fc-bayern-muenchen-und-wechselt-zu-manchester-city](https://www.spiegel.de/sport/fussball/nationalspielerin-sydney-lohmann-verlaesst-fc-bayern-muenchen-und-wechselt-zu-manchester-city-a-567b2b3f-488f-4215-8d83-08e690208c49#ref=rss)
-### selenskyj
-
-* [https://www.spiegel.de/ausland/rom-wolodymyr-selenskyj-und-papst-leo-xiv-sprechen-ueber-frieden-in-der-ukraine](https://www.spiegel.de/ausland/rom-wolodymyr-selenskyj-und-papst-leo-xiv-sprechen-ueber-frieden-in-der-ukraine-a-5165e0c8-c0d2-4adb-a98e-36a6f46aeeed#ref=rss)
-### papst
-
-* [https://www.spiegel.de/ausland/rom-wolodymyr-selenskyj-und-papst-leo-xiv-sprechen-ueber-frieden-in-der-ukraine](https://www.spiegel.de/ausland/rom-wolodymyr-selenskyj-und-papst-leo-xiv-sprechen-ueber-frieden-in-der-ukraine-a-5165e0c8-c0d2-4adb-a98e-36a6f46aeeed#ref=rss)
-### leo
-
-* [https://www.spiegel.de/ausland/rom-wolodymyr-selenskyj-und-papst-leo-xiv-sprechen-ueber-frieden-in-der-ukraine](https://www.spiegel.de/ausland/rom-wolodymyr-selenskyj-und-papst-leo-xiv-sprechen-ueber-frieden-in-der-ukraine-a-5165e0c8-c0d2-4adb-a98e-36a6f46aeeed#ref=rss)
-### xiv
-
-* [https://www.spiegel.de/ausland/rom-wolodymyr-selenskyj-und-papst-leo-xiv-sprechen-ueber-frieden-in-der-ukraine](https://www.spiegel.de/ausland/rom-wolodymyr-selenskyj-und-papst-leo-xiv-sprechen-ueber-frieden-in-der-ukraine-a-5165e0c8-c0d2-4adb-a98e-36a6f46aeeed#ref=rss)
+* [https://www.spiegel.de/ausland/huthi-angriff-auf-eternity-c-usa-fordern-sofortige-freilassung-von-entfuehrter-frachterbesatzung](https://www.spiegel.de/ausland/huthi-angriff-auf-eternity-c-usa-fordern-sofortige-freilassung-von-entfuehrter-frachterbesatzung-a-1eb66184-f1ee-4d90-aba1-74a0d58cb4f4#ref=rss)
 
