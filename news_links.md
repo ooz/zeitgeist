@@ -4,369 +4,319 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### sollte
+### trump
 
-* [https://www.spiegel.de/tests/elektronik/wasserdichte-kopfhoerer-im-test-modelle-von-shokz-auvisio-sony-und-jbl](https://www.spiegel.de/tests/elektronik/wasserdichte-kopfhoerer-im-test-modelle-von-shokz-auvisio-sony-und-jbl-a-49b1f5aa-5ad4-4d16-8001-528df3319333#ref=rss)
-* [https://www.spiegel.de/reise/baden-im-fluss-darf-man-das-und-sollte-man-das-ueberhaupt-tipps-von-einem-experten](https://www.spiegel.de/reise/baden-im-fluss-darf-man-das-und-sollte-man-das-ueberhaupt-tipps-von-einem-experten-a-6a3fcd93-257e-40f2-8e54-d7a2bf37ba42#ref=rss)
-* [https://www.spiegel.de/panorama/australien-spitzenpolitiker-warnt-vor-gefahren-im-outback-nach-rettung-von-backpackerin](https://www.spiegel.de/panorama/australien-spitzenpolitiker-warnt-vor-gefahren-im-outback-nach-rettung-von-backpackerin-a-6cfa0ea7-8d2e-4f24-b298-327be96cf427#ref=rss)
-* [https://www.spiegel.de/politik/regenbogenflagge-und-richterwahl-ist-das-noch-ein-kampf-um-die-mitte-oder-schon-ein-kulturkampf](https://www.spiegel.de/politik/regenbogenflagge-und-richterwahl-ist-das-noch-ein-kampf-um-die-mitte-oder-schon-ein-kulturkampf-a-605b938d-4433-4446-bf31-006d55c40343#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/ard-sommerinterview-friedrich-merz-verteidigt-jens-spahn-im-streit-ueber-richterwahl](https://www.spiegel.de/politik/deutschland/ard-sommerinterview-friedrich-merz-verteidigt-jens-spahn-im-streit-ueber-richterwahl-a-33e095e5-1585-4586-9fd7-ca303f6f320d#ref=rss)
-* [https://www.spiegel.de/kultur/weltpolitik-friedensforscherin-sieht-weltordnung-im-freien-fall-das-ende-des-westens](https://www.spiegel.de/kultur/weltpolitik-friedensforscherin-sieht-weltordnung-im-freien-fall-das-ende-des-westens-a-72833446-375f-4f9a-9b42-b6e936999d4e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-der-kanzler-auf-weltreise-und-auf-der-flucht-vor-der-innenpolitik](https://www.spiegel.de/politik/deutschland/friedrich-merz-der-kanzler-auf-weltreise-und-auf-der-flucht-vor-der-innenpolitik-a-c182c372-60d2-41b9-a939-ce0690679ac1#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/ard-sommerinterview-friedrich-merz-verteidigt-jens-spahn-im-streit-ueber-richterwahl](https://www.spiegel.de/politik/deutschland/ard-sommerinterview-friedrich-merz-verteidigt-jens-spahn-im-streit-ueber-richterwahl-a-33e095e5-1585-4586-9fd7-ca303f6f320d#ref=rss)
-* [https://www.spiegel.de/kultur/weltpolitik-friedensforscherin-sieht-weltordnung-im-freien-fall-das-ende-des-westens](https://www.spiegel.de/kultur/weltpolitik-friedensforscherin-sieht-weltordnung-im-freien-fall-das-ende-des-westens-a-72833446-375f-4f9a-9b42-b6e936999d4e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-der-kanzler-auf-weltreise-und-auf-der-flucht-vor-der-innenpolitik](https://www.spiegel.de/politik/deutschland/friedrich-merz-der-kanzler-auf-weltreise-und-auf-der-flucht-vor-der-innenpolitik-a-c182c372-60d2-41b9-a939-ce0690679ac1#ref=rss)
-### usa
-
-* [https://www.spiegel.de/politik/deutschland/ard-sommerinterview-friedrich-merz-verteidigt-jens-spahn-im-streit-ueber-richterwahl](https://www.spiegel.de/politik/deutschland/ard-sommerinterview-friedrich-merz-verteidigt-jens-spahn-im-streit-ueber-richterwahl-a-33e095e5-1585-4586-9fd7-ca303f6f320d#ref=rss)
-* [https://www.spiegel.de/sport/fussball/klub-wm-2025-hat-die-milliardenschoepfung-eine-zukunft](https://www.spiegel.de/sport/fussball/klub-wm-2025-hat-die-milliardenschoepfung-eine-zukunft-a-a65d06f3-d992-486c-8c74-99cca58b5398#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ursula-von-der-leyen-eu-verschiebt-im-zollstreit-mit-den-usa-die-angekuendigten-gegenzoelle](https://www.spiegel.de/wirtschaft/ursula-von-der-leyen-eu-verschiebt-im-zollstreit-mit-den-usa-die-angekuendigten-gegenzoelle-a-7f17508d-c0a5-408a-afd0-f2f02e9d4b82#ref=rss)
-### neue
-
-* [https://www.spiegel.de/panorama/texas-neue-hochwasserwarnung-rettungskraefte-unterbrechen-suche-nach-ueberschwemmungsopfern](https://www.spiegel.de/panorama/texas-neue-hochwasserwarnung-rettungskraefte-unterbrechen-suche-nach-ueberschwemmungsopfern-a-f202da93-ef2e-415e-a0f1-224b7a94400f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/klub-wm-2025-hat-die-milliardenschoepfung-eine-zukunft](https://www.spiegel.de/sport/fussball/klub-wm-2025-hat-die-milliardenschoepfung-eine-zukunft-a-a65d06f3-d992-486c-8c74-99cca58b5398#ref=rss)
-* [https://www.spiegel.de/wirtschaft/generation-z-hauptsache-reich-woher-die-neue-fixierung-auf-kapital-und-luxus-kommt](https://www.spiegel.de/wirtschaft/generation-z-hauptsache-reich-woher-die-neue-fixierung-auf-kapital-und-luxus-kommt-a-a260d588-f919-4f9e-9cc6-ecae956cc30c#ref=rss)
-### unter
-
-* [https://www.spiegel.de/panorama/gesellschaft/afd-setzt-zivilgesellschaft-in-ostdeutschland-unter-druck-wie-die-cdu-ihr-dabei-hilft](https://www.spiegel.de/panorama/gesellschaft/afd-setzt-zivilgesellschaft-in-ostdeutschland-unter-druck-wie-die-cdu-ihr-dabei-hilft-a-3306ebc0-57d1-418e-a297-26ddf4ea6afc#ref=rss)
-* [https://www.spiegel.de/panorama/leute/guido-maria-kretschmer-waere-gern-staendig-schwanger-gewesen](https://www.spiegel.de/panorama/leute/guido-maria-kretschmer-waere-gern-staendig-schwanger-gewesen-a-8e2878a1-20eb-4c7d-bf8d-98fdb527cf3c#ref=rss)
-### hilft
-
-* [https://www.spiegel.de/panorama/gesellschaft/afd-setzt-zivilgesellschaft-in-ostdeutschland-unter-druck-wie-die-cdu-ihr-dabei-hilft](https://www.spiegel.de/panorama/gesellschaft/afd-setzt-zivilgesellschaft-in-ostdeutschland-unter-druck-wie-die-cdu-ihr-dabei-hilft-a-3306ebc0-57d1-418e-a297-26ddf4ea6afc#ref=rss)
-* [https://www.spiegel.de/partnerschaft/wochenbett-paartherapeutin-louisa-scheel-gibt-tipps-fuer-die-beziehung](https://www.spiegel.de/partnerschaft/wochenbett-paartherapeutin-louisa-scheel-gibt-tipps-fuer-die-beziehung-a-42026907-4183-4408-b8ca-33a07692b71f#ref=rss)
-### test
-
-* [https://www.spiegel.de/tests/elektronik/wasserdichte-kopfhoerer-im-test-modelle-von-shokz-auvisio-sony-und-jbl](https://www.spiegel.de/tests/elektronik/wasserdichte-kopfhoerer-im-test-modelle-von-shokz-auvisio-sony-und-jbl-a-49b1f5aa-5ad4-4d16-8001-528df3319333#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-liverpool-beginnt-erstes-testspiel-mit-gedenkfeier-fuer-diogo-jota](https://www.spiegel.de/sport/fussball/fc-liverpool-beginnt-erstes-testspiel-mit-gedenkfeier-fuer-diogo-jota-a-2a0a89a9-4922-43c5-825c-4879cede6d0e#ref=rss)
-### kanzler
-
-* [https://www.spiegel.de/politik/deutschland/ard-sommerinterview-friedrich-merz-verteidigt-jens-spahn-im-streit-ueber-richterwahl](https://www.spiegel.de/politik/deutschland/ard-sommerinterview-friedrich-merz-verteidigt-jens-spahn-im-streit-ueber-richterwahl-a-33e095e5-1585-4586-9fd7-ca303f6f320d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-der-kanzler-auf-weltreise-und-auf-der-flucht-vor-der-innenpolitik](https://www.spiegel.de/politik/deutschland/friedrich-merz-der-kanzler-auf-weltreise-und-auf-der-flucht-vor-der-innenpolitik-a-c182c372-60d2-41b9-a939-ce0690679ac1#ref=rss)
-### mann
-
-* [https://www.spiegel.de/ausland/attentat-auf-donald-trump-us-senatsausschuss-attestiert-dem-secret-service-gravierende-maengel](https://www.spiegel.de/ausland/attentat-auf-donald-trump-us-senatsausschuss-attestiert-dem-secret-service-gravierende-maengel-a-b3ff0690-6cba-4024-b51e-0c20c70f2bd8#ref=rss)
-* [https://www.spiegel.de/panorama/leute/guido-maria-kretschmer-waere-gern-staendig-schwanger-gewesen](https://www.spiegel.de/panorama/leute/guido-maria-kretschmer-waere-gern-staendig-schwanger-gewesen-a-8e2878a1-20eb-4c7d-bf8d-98fdb527cf3c#ref=rss)
-* [https://www.spiegel.de/panorama/schweiz-deutsche-kletterin-stuerzt-100-meter-tief-und-stirbt](https://www.spiegel.de/panorama/schweiz-deutsche-kletterin-stuerzt-100-meter-tief-und-stirbt-a-2a78cacd-afec-4550-aa2a-5e1c9c929835#ref=rss)
-### sollten
-
-* [https://www.spiegel.de/wissenschaft/medizin/abnehmspritzen-wegovy-und-mounjaro-was-sie-ueber-die-mittel-wissen-sollten](https://www.spiegel.de/wissenschaft/medizin/abnehmspritzen-wegovy-und-mounjaro-was-sie-ueber-die-mittel-wissen-sollten-a-1bd38de4-cd9b-42d9-a817-145064ffeef5#ref=rss)
-* [https://www.spiegel.de/wissenschaft/stress-so-viele-kleine-auszeiten-sollten-sie-in-job-und-alltag-einplanen](https://www.spiegel.de/wissenschaft/stress-so-viele-kleine-auszeiten-sollten-sie-in-job-und-alltag-einplanen-a-52e0a3c8-3f6f-4a5a-9b2f-0421d0537c8c#ref=rss)
-### viele
-
-* [https://www.spiegel.de/wissenschaft/stress-so-viele-kleine-auszeiten-sollten-sie-in-job-und-alltag-einplanen](https://www.spiegel.de/wissenschaft/stress-so-viele-kleine-auszeiten-sollten-sie-in-job-und-alltag-einplanen-a-52e0a3c8-3f6f-4a5a-9b2f-0421d0537c8c#ref=rss)
-* [https://www.spiegel.de/sport/fussball/klub-wm-2025-hat-die-milliardenschoepfung-eine-zukunft](https://www.spiegel.de/sport/fussball/klub-wm-2025-hat-die-milliardenschoepfung-eine-zukunft-a-a65d06f3-d992-486c-8c74-99cca58b5398#ref=rss)
-* [https://www.spiegel.de/panorama/leute/guido-maria-kretschmer-waere-gern-staendig-schwanger-gewesen](https://www.spiegel.de/panorama/leute/guido-maria-kretschmer-waere-gern-staendig-schwanger-gewesen-a-8e2878a1-20eb-4c7d-bf8d-98fdb527cf3c#ref=rss)
-### zukunft
-
-* [https://www.spiegel.de/sport/fussball/klub-wm-2025-hat-die-milliardenschoepfung-eine-zukunft](https://www.spiegel.de/sport/fussball/klub-wm-2025-hat-die-milliardenschoepfung-eine-zukunft-a-a65d06f3-d992-486c-8c74-99cca58b5398#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-der-kanzler-auf-weltreise-und-auf-der-flucht-vor-der-innenpolitik](https://www.spiegel.de/politik/deutschland/friedrich-merz-der-kanzler-auf-weltreise-und-auf-der-flucht-vor-der-innenpolitik-a-c182c372-60d2-41b9-a939-ce0690679ac1#ref=rss)
-### afd
-
-* [https://www.spiegel.de/panorama/gesellschaft/afd-setzt-zivilgesellschaft-in-ostdeutschland-unter-druck-wie-die-cdu-ihr-dabei-hilft](https://www.spiegel.de/panorama/gesellschaft/afd-setzt-zivilgesellschaft-in-ostdeutschland-unter-druck-wie-die-cdu-ihr-dabei-hilft-a-3306ebc0-57d1-418e-a297-26ddf4ea6afc#ref=rss)
-### setzt
-
-* [https://www.spiegel.de/panorama/gesellschaft/afd-setzt-zivilgesellschaft-in-ostdeutschland-unter-druck-wie-die-cdu-ihr-dabei-hilft](https://www.spiegel.de/panorama/gesellschaft/afd-setzt-zivilgesellschaft-in-ostdeutschland-unter-druck-wie-die-cdu-ihr-dabei-hilft-a-3306ebc0-57d1-418e-a297-26ddf4ea6afc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ursula-von-der-leyen-eu-verschiebt-im-zollstreit-mit-den-usa-die-angekuendigten-gegenzoelle](https://www.spiegel.de/wirtschaft/ursula-von-der-leyen-eu-verschiebt-im-zollstreit-mit-den-usa-die-angekuendigten-gegenzoelle-a-7f17508d-c0a5-408a-afd0-f2f02e9d4b82#ref=rss)
-### ostdeutschland
-
-* [https://www.spiegel.de/panorama/gesellschaft/afd-setzt-zivilgesellschaft-in-ostdeutschland-unter-druck-wie-die-cdu-ihr-dabei-hilft](https://www.spiegel.de/panorama/gesellschaft/afd-setzt-zivilgesellschaft-in-ostdeutschland-unter-druck-wie-die-cdu-ihr-dabei-hilft-a-3306ebc0-57d1-418e-a297-26ddf4ea6afc#ref=rss)
-### druck
-
-* [https://www.spiegel.de/panorama/gesellschaft/afd-setzt-zivilgesellschaft-in-ostdeutschland-unter-druck-wie-die-cdu-ihr-dabei-hilft](https://www.spiegel.de/panorama/gesellschaft/afd-setzt-zivilgesellschaft-in-ostdeutschland-unter-druck-wie-die-cdu-ihr-dabei-hilft-a-3306ebc0-57d1-418e-a297-26ddf4ea6afc#ref=rss)
-### cdu
-
-* [https://www.spiegel.de/panorama/gesellschaft/afd-setzt-zivilgesellschaft-in-ostdeutschland-unter-druck-wie-die-cdu-ihr-dabei-hilft](https://www.spiegel.de/panorama/gesellschaft/afd-setzt-zivilgesellschaft-in-ostdeutschland-unter-druck-wie-die-cdu-ihr-dabei-hilft-a-3306ebc0-57d1-418e-a297-26ddf4ea6afc#ref=rss)
-### champagnerkorken
-
-* [https://www.spiegel.de/sport/tennis/wimbledon-finale-champagnerkorken-fliegt-waehrend-des-spiels-auf-den-platz](https://www.spiegel.de/sport/tennis/wimbledon-finale-champagnerkorken-fliegt-waehrend-des-spiels-auf-den-platz-a-62223de9-8301-4bee-b579-921608bf5c42#ref=rss)
-### wissen
-
-* [https://www.spiegel.de/tests/elektronik/wasserdichte-kopfhoerer-im-test-modelle-von-shokz-auvisio-sony-und-jbl](https://www.spiegel.de/tests/elektronik/wasserdichte-kopfhoerer-im-test-modelle-von-shokz-auvisio-sony-und-jbl-a-49b1f5aa-5ad4-4d16-8001-528df3319333#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/abnehmspritzen-wegovy-und-mounjaro-was-sie-ueber-die-mittel-wissen-sollten](https://www.spiegel.de/wissenschaft/medizin/abnehmspritzen-wegovy-und-mounjaro-was-sie-ueber-die-mittel-wissen-sollten-a-1bd38de4-cd9b-42d9-a817-145064ffeef5#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/tests/elektronik/wasserdichte-kopfhoerer-im-test-modelle-von-shokz-auvisio-sony-und-jbl](https://www.spiegel.de/tests/elektronik/wasserdichte-kopfhoerer-im-test-modelle-von-shokz-auvisio-sony-und-jbl-a-49b1f5aa-5ad4-4d16-8001-528df3319333#ref=rss)
-* [https://www.spiegel.de/partnerschaft/wochenbett-paartherapeutin-louisa-scheel-gibt-tipps-fuer-die-beziehung](https://www.spiegel.de/partnerschaft/wochenbett-paartherapeutin-louisa-scheel-gibt-tipps-fuer-die-beziehung-a-42026907-4183-4408-b8ca-33a07692b71f#ref=rss)
-### baden
-
-* [https://www.spiegel.de/reise/baden-im-fluss-darf-man-das-und-sollte-man-das-ueberhaupt-tipps-von-einem-experten](https://www.spiegel.de/reise/baden-im-fluss-darf-man-das-und-sollte-man-das-ueberhaupt-tipps-von-einem-experten-a-6a3fcd93-257e-40f2-8e54-d7a2bf37ba42#ref=rss)
-### fluss
-
-* [https://www.spiegel.de/reise/baden-im-fluss-darf-man-das-und-sollte-man-das-ueberhaupt-tipps-von-einem-experten](https://www.spiegel.de/reise/baden-im-fluss-darf-man-das-und-sollte-man-das-ueberhaupt-tipps-von-einem-experten-a-6a3fcd93-257e-40f2-8e54-d7a2bf37ba42#ref=rss)
-### tipps
-
-* [https://www.spiegel.de/reise/baden-im-fluss-darf-man-das-und-sollte-man-das-ueberhaupt-tipps-von-einem-experten](https://www.spiegel.de/reise/baden-im-fluss-darf-man-das-und-sollte-man-das-ueberhaupt-tipps-von-einem-experten-a-6a3fcd93-257e-40f2-8e54-d7a2bf37ba42#ref=rss)
-* [https://www.spiegel.de/partnerschaft/wochenbett-paartherapeutin-louisa-scheel-gibt-tipps-fuer-die-beziehung](https://www.spiegel.de/partnerschaft/wochenbett-paartherapeutin-louisa-scheel-gibt-tipps-fuer-die-beziehung-a-42026907-4183-4408-b8ca-33a07692b71f#ref=rss)
-### ich
-
-* [https://www.spiegel.de/reise/baden-im-fluss-darf-man-das-und-sollte-man-das-ueberhaupt-tipps-von-einem-experten](https://www.spiegel.de/reise/baden-im-fluss-darf-man-das-und-sollte-man-das-ueberhaupt-tipps-von-einem-experten-a-6a3fcd93-257e-40f2-8e54-d7a2bf37ba42#ref=rss)
-### gisèle
-
-* [https://www.spiegel.de/panorama/leute/gisele-pelicot-erhaelt-hoechsten-franzoesischen-verdienstorden](https://www.spiegel.de/panorama/leute/gisele-pelicot-erhaelt-hoechsten-franzoesischen-verdienstorden-a-9b66e486-ffaf-48ab-95ea-16bc9e579e01#ref=rss)
-### pelicot
-
-* [https://www.spiegel.de/panorama/leute/gisele-pelicot-erhaelt-hoechsten-franzoesischen-verdienstorden](https://www.spiegel.de/panorama/leute/gisele-pelicot-erhaelt-hoechsten-franzoesischen-verdienstorden-a-9b66e486-ffaf-48ab-95ea-16bc9e579e01#ref=rss)
-### backpackerin
-
-* [https://www.spiegel.de/panorama/australien-spitzenpolitiker-warnt-vor-gefahren-im-outback-nach-rettung-von-backpackerin](https://www.spiegel.de/panorama/australien-spitzenpolitiker-warnt-vor-gefahren-im-outback-nach-rettung-von-backpackerin-a-6cfa0ea7-8d2e-4f24-b298-327be96cf427#ref=rss)
-### ardsommerinterview
-
-* [https://www.spiegel.de/politik/deutschland/ard-sommerinterview-friedrich-merz-verteidigt-jens-spahn-im-streit-ueber-richterwahl](https://www.spiegel.de/politik/deutschland/ard-sommerinterview-friedrich-merz-verteidigt-jens-spahn-im-streit-ueber-richterwahl-a-33e095e5-1585-4586-9fd7-ca303f6f320d#ref=rss)
-### richterwahl
-
-* [https://www.spiegel.de/politik/deutschland/ard-sommerinterview-friedrich-merz-verteidigt-jens-spahn-im-streit-ueber-richterwahl](https://www.spiegel.de/politik/deutschland/ard-sommerinterview-friedrich-merz-verteidigt-jens-spahn-im-streit-ueber-richterwahl-a-33e095e5-1585-4586-9fd7-ca303f6f320d#ref=rss)
-* [https://www.spiegel.de/politik/regenbogenflagge-und-richterwahl-ist-das-noch-ein-kampf-um-die-mitte-oder-schon-ein-kulturkampf](https://www.spiegel.de/politik/regenbogenflagge-und-richterwahl-ist-das-noch-ein-kampf-um-die-mitte-oder-schon-ein-kulturkampf-a-605b938d-4433-4446-bf31-006d55c40343#ref=rss)
-### richterstreit
-
-* [https://www.spiegel.de/politik/deutschland/ard-sommerinterview-friedrich-merz-verteidigt-jens-spahn-im-streit-ueber-richterwahl](https://www.spiegel.de/politik/deutschland/ard-sommerinterview-friedrich-merz-verteidigt-jens-spahn-im-streit-ueber-richterwahl-a-33e095e5-1585-4586-9fd7-ca303f6f320d#ref=rss)
-* [https://www.spiegel.de/politik/richterstreit-bundespraesident-frank-walter-steinmeier-haelt-koalition-fuer-beschaedigt](https://www.spiegel.de/politik/richterstreit-bundespraesident-frank-walter-steinmeier-haelt-koalition-fuer-beschaedigt-a-95710697-90cc-4ad5-812d-34fbb3f81b1b#ref=rss)
-### drohungen
-
-* [https://www.spiegel.de/politik/deutschland/ard-sommerinterview-friedrich-merz-verteidigt-jens-spahn-im-streit-ueber-richterwahl](https://www.spiegel.de/politik/deutschland/ard-sommerinterview-friedrich-merz-verteidigt-jens-spahn-im-streit-ueber-richterwahl-a-33e095e5-1585-4586-9fd7-ca303f6f320d#ref=rss)
-* [https://www.spiegel.de/ausland/torre-pacheco-in-spanien-zusammenstoesse-zwischen-rechtsextremen-und-migranten](https://www.spiegel.de/ausland/torre-pacheco-in-spanien-zusammenstoesse-zwischen-rechtsextremen-und-migranten-a-9bae7ecd-4252-4f76-9c11-a5513e011438#ref=rss)
-### harte
-
-* [https://www.spiegel.de/politik/deutschland/ard-sommerinterview-friedrich-merz-verteidigt-jens-spahn-im-streit-ueber-richterwahl](https://www.spiegel.de/politik/deutschland/ard-sommerinterview-friedrich-merz-verteidigt-jens-spahn-im-streit-ueber-richterwahl-a-33e095e5-1585-4586-9fd7-ca303f6f320d#ref=rss)
-* [https://www.spiegel.de/politik/richterstreit-bundespraesident-frank-walter-steinmeier-haelt-koalition-fuer-beschaedigt](https://www.spiegel.de/politik/richterstreit-bundespraesident-frank-walter-steinmeier-haelt-koalition-fuer-beschaedigt-a-95710697-90cc-4ad5-812d-34fbb3f81b1b#ref=rss)
-### stellt
-
-* [https://www.spiegel.de/politik/deutschland/ard-sommerinterview-friedrich-merz-verteidigt-jens-spahn-im-streit-ueber-richterwahl](https://www.spiegel.de/politik/deutschland/ard-sommerinterview-friedrich-merz-verteidigt-jens-spahn-im-streit-ueber-richterwahl-a-33e095e5-1585-4586-9fd7-ca303f6f320d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/sachsen-anhalt-polizei-stellt-aufputschdroge-captagon-in-einem-gemuesehandel-sicher](https://www.spiegel.de/panorama/justiz/sachsen-anhalt-polizei-stellt-aufputschdroge-captagon-in-einem-gemuesehandel-sicher-a-07f9f7d1-5502-4292-9b69-a3591940eee9#ref=rss)
-### hinter
-
-* [https://www.spiegel.de/politik/deutschland/ard-sommerinterview-friedrich-merz-verteidigt-jens-spahn-im-streit-ueber-richterwahl](https://www.spiegel.de/politik/deutschland/ard-sommerinterview-friedrich-merz-verteidigt-jens-spahn-im-streit-ueber-richterwahl-a-33e095e5-1585-4586-9fd7-ca303f6f320d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/generation-z-hauptsache-reich-woher-die-neue-fixierung-auf-kapital-und-luxus-kommt](https://www.spiegel.de/wirtschaft/generation-z-hauptsache-reich-woher-die-neue-fixierung-auf-kapital-und-luxus-kommt-a-a260d588-f919-4f9e-9cc6-ecae956cc30c#ref=rss)
-### rave
-
-* [https://www.spiegel.de/panorama/rave-the-planet-hunderte-einsaetze-bei-berliner-techno-parade](https://www.spiegel.de/panorama/rave-the-planet-hunderte-einsaetze-bei-berliner-techno-parade-a-d183ef32-1f6e-4611-930b-85b74126a8d3#ref=rss)
-### the
-
-* [https://www.spiegel.de/panorama/rave-the-planet-hunderte-einsaetze-bei-berliner-techno-parade](https://www.spiegel.de/panorama/rave-the-planet-hunderte-einsaetze-bei-berliner-techno-parade-a-d183ef32-1f6e-4611-930b-85b74126a8d3#ref=rss)
-### planet
-
-* [https://www.spiegel.de/panorama/rave-the-planet-hunderte-einsaetze-bei-berliner-techno-parade](https://www.spiegel.de/panorama/rave-the-planet-hunderte-einsaetze-bei-berliner-techno-parade-a-d183ef32-1f6e-4611-930b-85b74126a8d3#ref=rss)
-### hunderte
-
-* [https://www.spiegel.de/panorama/rave-the-planet-hunderte-einsaetze-bei-berliner-techno-parade](https://www.spiegel.de/panorama/rave-the-planet-hunderte-einsaetze-bei-berliner-techno-parade-a-d183ef32-1f6e-4611-930b-85b74126a8d3#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/sachsen-anhalt-polizei-stellt-aufputschdroge-captagon-in-einem-gemuesehandel-sicher](https://www.spiegel.de/panorama/justiz/sachsen-anhalt-polizei-stellt-aufputschdroge-captagon-in-einem-gemuesehandel-sicher-a-07f9f7d1-5502-4292-9b69-a3591940eee9#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/panorama/rave-the-planet-hunderte-einsaetze-bei-berliner-techno-parade](https://www.spiegel.de/panorama/rave-the-planet-hunderte-einsaetze-bei-berliner-techno-parade-a-d183ef32-1f6e-4611-930b-85b74126a8d3#ref=rss)
-* [https://www.spiegel.de/sport/tour-de-france-tim-merlier-gewinnt-neunte-etappe-im-sprint-georg-zimmermann-stuerzt](https://www.spiegel.de/sport/tour-de-france-tim-merlier-gewinnt-neunte-etappe-im-sprint-georg-zimmermann-stuerzt-a-a2b56d60-4c37-41e6-9a93-ff38a738b02f#ref=rss)
-### rettungskräfte
-
-* [https://www.spiegel.de/panorama/rave-the-planet-hunderte-einsaetze-bei-berliner-techno-parade](https://www.spiegel.de/panorama/rave-the-planet-hunderte-einsaetze-bei-berliner-techno-parade-a-d183ef32-1f6e-4611-930b-85b74126a8d3#ref=rss)
-* [https://www.spiegel.de/panorama/texas-neue-hochwasserwarnung-rettungskraefte-unterbrechen-suche-nach-ueberschwemmungsopfern](https://www.spiegel.de/panorama/texas-neue-hochwasserwarnung-rettungskraefte-unterbrechen-suche-nach-ueberschwemmungsopfern-a-f202da93-ef2e-415e-a0f1-224b7a94400f#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/fc-liverpool-beginnt-erstes-testspiel-mit-gedenkfeier-fuer-diogo-jota](https://www.spiegel.de/sport/fussball/fc-liverpool-beginnt-erstes-testspiel-mit-gedenkfeier-fuer-diogo-jota-a-2a0a89a9-4922-43c5-825c-4879cede6d0e#ref=rss)
-### liverpool
-
-* [https://www.spiegel.de/sport/fussball/fc-liverpool-beginnt-erstes-testspiel-mit-gedenkfeier-fuer-diogo-jota](https://www.spiegel.de/sport/fussball/fc-liverpool-beginnt-erstes-testspiel-mit-gedenkfeier-fuer-diogo-jota-a-2a0a89a9-4922-43c5-825c-4879cede6d0e#ref=rss)
-### diogo
-
-* [https://www.spiegel.de/sport/fussball/fc-liverpool-beginnt-erstes-testspiel-mit-gedenkfeier-fuer-diogo-jota](https://www.spiegel.de/sport/fussball/fc-liverpool-beginnt-erstes-testspiel-mit-gedenkfeier-fuer-diogo-jota-a-2a0a89a9-4922-43c5-825c-4879cede6d0e#ref=rss)
-### jota
-
-* [https://www.spiegel.de/sport/fussball/fc-liverpool-beginnt-erstes-testspiel-mit-gedenkfeier-fuer-diogo-jota](https://www.spiegel.de/sport/fussball/fc-liverpool-beginnt-erstes-testspiel-mit-gedenkfeier-fuer-diogo-jota-a-2a0a89a9-4922-43c5-825c-4879cede6d0e#ref=rss)
+* [https://www.spiegel.de/panorama/leute/donald-trump-rosie-odonnell-kontert-ausbuergerungs-drohung-bin-alles-was-du-fuerchtest](https://www.spiegel.de/panorama/leute/donald-trump-rosie-odonnell-kontert-ausbuergerungs-drohung-bin-alles-was-du-fuerchtest-a-2e86a091-957b-4d9f-b221-24056de42176#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-ex-us-praesident-verteidigt-begnadigungen-per-signierroboter](https://www.spiegel.de/ausland/joe-biden-ex-us-praesident-verteidigt-begnadigungen-per-signierroboter-a-44e390aa-c6fd-4b2f-b408-876bf50ac1a7#ref=rss)
+* [https://www.spiegel.de/sport/fussball/klub-wm-sieger-fc-chelsea-and-the-winner-is-ein-casting-klub](https://www.spiegel.de/sport/fussball/klub-wm-sieger-fc-chelsea-and-the-winner-is-ein-casting-klub-a-73986238-2e6d-4472-987a-210a82595c6e#ref=rss)
+* [https://www.spiegel.de/ausland/usa-donald-trump-versucht-die-us-medien-auf-linie-zu-bringen-oder-zu-knebeln](https://www.spiegel.de/ausland/usa-donald-trump-versucht-die-us-medien-auf-linie-zu-bringen-oder-zu-knebeln-a-86552950-4118-4dbb-a98a-6e3058fef26f#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/sesamstrasse-unbekannte-posten-antisemitische-aussagen-auf-elmos-x-account](https://www.spiegel.de/netzwelt/web/sesamstrasse-unbekannte-posten-antisemitische-aussagen-auf-elmos-x-account-a-3da636bd-b0d6-46da-a7ab-1a746e06675b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/nach-trump-brief-eu-treibt-arbeit-an-gegenzoellen-voran](https://www.spiegel.de/wirtschaft/nach-trump-brief-eu-treibt-arbeit-an-gegenzoellen-voran-a-ae3bb202-2d11-41d1-8b80-7f3cb173be9d#ref=rss)
+* [https://www.spiegel.de/panorama/leute/donald-trump-besucht-koenig-charles-im-september-auf-schloss-windsor](https://www.spiegel.de/panorama/leute/donald-trump-besucht-koenig-charles-im-september-auf-schloss-windsor-a-18b77940-8203-418b-92f8-c390d8a656bc#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/ausland/attentat-auf-donald-trump-us-senatsausschuss-attestiert-dem-secret-service-gravierende-maengel](https://www.spiegel.de/ausland/attentat-auf-donald-trump-us-senatsausschuss-attestiert-dem-secret-service-gravierende-maengel-a-b3ff0690-6cba-4024-b51e-0c20c70f2bd8#ref=rss)
-### jahr
+* [https://www.spiegel.de/panorama/leute/donald-trump-rosie-odonnell-kontert-ausbuergerungs-drohung-bin-alles-was-du-fuerchtest](https://www.spiegel.de/panorama/leute/donald-trump-rosie-odonnell-kontert-ausbuergerungs-drohung-bin-alles-was-du-fuerchtest-a-2e86a091-957b-4d9f-b221-24056de42176#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-ex-us-praesident-verteidigt-begnadigungen-per-signierroboter](https://www.spiegel.de/ausland/joe-biden-ex-us-praesident-verteidigt-begnadigungen-per-signierroboter-a-44e390aa-c6fd-4b2f-b408-876bf50ac1a7#ref=rss)
+* [https://www.spiegel.de/sport/fussball/klub-wm-sieger-fc-chelsea-and-the-winner-is-ein-casting-klub](https://www.spiegel.de/sport/fussball/klub-wm-sieger-fc-chelsea-and-the-winner-is-ein-casting-klub-a-73986238-2e6d-4472-987a-210a82595c6e#ref=rss)
+* [https://www.spiegel.de/ausland/usa-donald-trump-versucht-die-us-medien-auf-linie-zu-bringen-oder-zu-knebeln](https://www.spiegel.de/ausland/usa-donald-trump-versucht-die-us-medien-auf-linie-zu-bringen-oder-zu-knebeln-a-86552950-4118-4dbb-a98a-6e3058fef26f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/nach-trump-brief-eu-treibt-arbeit-an-gegenzoellen-voran](https://www.spiegel.de/wirtschaft/nach-trump-brief-eu-treibt-arbeit-an-gegenzoellen-voran-a-ae3bb202-2d11-41d1-8b80-7f3cb173be9d#ref=rss)
+* [https://www.spiegel.de/panorama/leute/donald-trump-besucht-koenig-charles-im-september-auf-schloss-windsor](https://www.spiegel.de/panorama/leute/donald-trump-besucht-koenig-charles-im-september-auf-schloss-windsor-a-18b77940-8203-418b-92f8-c390d8a656bc#ref=rss)
+### uspräsident
 
-* [https://www.spiegel.de/ausland/attentat-auf-donald-trump-us-senatsausschuss-attestiert-dem-secret-service-gravierende-maengel](https://www.spiegel.de/ausland/attentat-auf-donald-trump-us-senatsausschuss-attestiert-dem-secret-service-gravierende-maengel-a-b3ff0690-6cba-4024-b51e-0c20c70f2bd8#ref=rss)
-* [https://www.spiegel.de/panorama/leute/guido-maria-kretschmer-waere-gern-staendig-schwanger-gewesen](https://www.spiegel.de/panorama/leute/guido-maria-kretschmer-waere-gern-staendig-schwanger-gewesen-a-8e2878a1-20eb-4c7d-bf8d-98fdb527cf3c#ref=rss)
-### friedensforscherin
+* [https://www.spiegel.de/panorama/leute/donald-trump-rosie-odonnell-kontert-ausbuergerungs-drohung-bin-alles-was-du-fuerchtest](https://www.spiegel.de/panorama/leute/donald-trump-rosie-odonnell-kontert-ausbuergerungs-drohung-bin-alles-was-du-fuerchtest-a-2e86a091-957b-4d9f-b221-24056de42176#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/sesamstrasse-unbekannte-posten-antisemitische-aussagen-auf-elmos-x-account](https://www.spiegel.de/netzwelt/web/sesamstrasse-unbekannte-posten-antisemitische-aussagen-auf-elmos-x-account-a-3da636bd-b0d6-46da-a7ab-1a746e06675b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/nach-trump-brief-eu-treibt-arbeit-an-gegenzoellen-voran](https://www.spiegel.de/wirtschaft/nach-trump-brief-eu-treibt-arbeit-an-gegenzoellen-voran-a-ae3bb202-2d11-41d1-8b80-7f3cb173be9d#ref=rss)
+* [https://www.spiegel.de/panorama/leute/donald-trump-besucht-koenig-charles-im-september-auf-schloss-windsor](https://www.spiegel.de/panorama/leute/donald-trump-besucht-koenig-charles-im-september-auf-schloss-windsor-a-18b77940-8203-418b-92f8-c390d8a656bc#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/kultur/weltpolitik-friedensforscherin-sieht-weltordnung-im-freien-fall-das-ende-des-westens](https://www.spiegel.de/kultur/weltpolitik-friedensforscherin-sieht-weltordnung-im-freien-fall-das-ende-des-westens-a-72833446-375f-4f9a-9b42-b6e936999d4e#ref=rss)
-### fall
+* [https://www.spiegel.de/auto/berlin-karl-marx-strasse-in-neukoelln-wieder-frei-nach-15-jahren-bauarbeiten](https://www.spiegel.de/auto/berlin-karl-marx-strasse-in-neukoelln-wieder-frei-nach-15-jahren-bauarbeiten-a-47132d5d-e587-402d-9967-1c063f6f70b5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gericht-verurteilt-alfons-schubeck-zu-vier-jahren-und-drei-monaten-haft](https://www.spiegel.de/wirtschaft/gericht-verurteilt-alfons-schubeck-zu-vier-jahren-und-drei-monaten-haft-a-76854648-967d-4f23-a27f-9368a76d52a8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/mindestlohn-rund-6-6-millionen-menschen-profitieren-von-erhoehung](https://www.spiegel.de/wirtschaft/soziales/mindestlohn-rund-6-6-millionen-menschen-profitieren-von-erhoehung-a-7fb52883-9829-47fd-9b9b-9e3aa692e906#ref=rss)
+### alfons
 
-* [https://www.spiegel.de/kultur/weltpolitik-friedensforscherin-sieht-weltordnung-im-freien-fall-das-ende-des-westens](https://www.spiegel.de/kultur/weltpolitik-friedensforscherin-sieht-weltordnung-im-freien-fall-das-ende-des-westens-a-72833446-375f-4f9a-9b42-b6e936999d4e#ref=rss)
-* [https://www.spiegel.de/sport/tour-de-france-tim-merlier-gewinnt-neunte-etappe-im-sprint-georg-zimmermann-stuerzt](https://www.spiegel.de/sport/tour-de-france-tim-merlier-gewinnt-neunte-etappe-im-sprint-georg-zimmermann-stuerzt-a-a2b56d60-4c37-41e6-9a93-ff38a738b02f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gericht-verurteilt-alfons-schubeck-zu-vier-jahren-und-drei-monaten-haft](https://www.spiegel.de/wirtschaft/gericht-verurteilt-alfons-schubeck-zu-vier-jahren-und-drei-monaten-haft-a-76854648-967d-4f23-a27f-9368a76d52a8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/alfons-schuhbeck-wie-der-schwerkranke-promikoch-sich-selbst-ruinierte](https://www.spiegel.de/wirtschaft/alfons-schuhbeck-wie-der-schwerkranke-promikoch-sich-selbst-ruinierte-a-53cbbcb5-b891-487b-90b3-e77a2dcac296#ref=rss)
+### schuhbeck
+
+* [https://www.spiegel.de/wirtschaft/gericht-verurteilt-alfons-schubeck-zu-vier-jahren-und-drei-monaten-haft](https://www.spiegel.de/wirtschaft/gericht-verurteilt-alfons-schubeck-zu-vier-jahren-und-drei-monaten-haft-a-76854648-967d-4f23-a27f-9368a76d52a8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/alfons-schuhbeck-wie-der-schwerkranke-promikoch-sich-selbst-ruinierte](https://www.spiegel.de/wirtschaft/alfons-schuhbeck-wie-der-schwerkranke-promikoch-sich-selbst-ruinierte-a-53cbbcb5-b891-487b-90b3-e77a2dcac296#ref=rss)
+### drei
+
+* [https://www.spiegel.de/wirtschaft/gericht-verurteilt-alfons-schubeck-zu-vier-jahren-und-drei-monaten-haft](https://www.spiegel.de/wirtschaft/gericht-verurteilt-alfons-schubeck-zu-vier-jahren-und-drei-monaten-haft-a-76854648-967d-4f23-a27f-9368a76d52a8#ref=rss)
+* [https://www.spiegel.de/kultur/kino/superman-hebt-ab-an-den-kinokassen-aber-nur-in-den-usa-in-deutschland-platz-drei](https://www.spiegel.de/kultur/kino/superman-hebt-ab-an-den-kinokassen-aber-nur-in-den-usa-in-deutschland-platz-drei-a-86ffc796-18a8-42af-ba4e-b51e574ed287#ref=rss)
+### besonders
+
+* [https://www.spiegel.de/ausland/konflikt-mit-thailand-kambodscha-verkuendet-wehrpflicht-ab-2026](https://www.spiegel.de/ausland/konflikt-mit-thailand-kambodscha-verkuendet-wehrpflicht-ab-2026-a-5eff3879-8631-45da-8f87-a3c65d9fa5fb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/mindestlohn-rund-6-6-millionen-menschen-profitieren-von-erhoehung](https://www.spiegel.de/wirtschaft/soziales/mindestlohn-rund-6-6-millionen-menschen-profitieren-von-erhoehung-a-7fb52883-9829-47fd-9b9b-9e3aa692e906#ref=rss)
+* [https://www.spiegel.de/netzwelt/games/spiel-des-jahres-2025-was-das-gewinnerspiel-bomb-busters-so-besonders-macht](https://www.spiegel.de/netzwelt/games/spiel-des-jahres-2025-was-das-gewinnerspiel-bomb-busters-so-besonders-macht-a-9ca1560d-b03b-435d-8f61-b4fd8d3e8269#ref=rss)
+* [https://www.spiegel.de/karriere/fachkraeftemangel-oekonomen-rechnen-mit-rasantem-anstieg](https://www.spiegel.de/karriere/fachkraeftemangel-oekonomen-rechnen-mit-rasantem-anstieg-a-e7c4b123-762a-4797-bbc0-21034e0afbc5#ref=rss)
+### fc
+
+* [https://www.spiegel.de/sport/fussball/fussball-transfers-yussuf-poulsen-zum-hsv-konkurrenz-fuer-kai-havertz-beim-fc-arsenal](https://www.spiegel.de/sport/fussball/fussball-transfers-yussuf-poulsen-zum-hsv-konkurrenz-fuer-kai-havertz-beim-fc-arsenal-a-3931296e-dcb1-4c8b-a4f2-daca7edfb76f#ref=rss)
+* [https://www.spiegel.de/sport/fussball/klub-wm-sieger-fc-chelsea-and-the-winner-is-ein-casting-klub](https://www.spiegel.de/sport/fussball/klub-wm-sieger-fc-chelsea-and-the-winner-is-ein-casting-klub-a-73986238-2e6d-4472-987a-210a82595c6e#ref=rss)
+### biden
+
+* [https://www.spiegel.de/ausland/joe-biden-ex-us-praesident-verteidigt-begnadigungen-per-signierroboter](https://www.spiegel.de/ausland/joe-biden-ex-us-praesident-verteidigt-begnadigungen-per-signierroboter-a-44e390aa-c6fd-4b2f-b408-876bf50ac1a7#ref=rss)
+### usa
+
+* [https://www.spiegel.de/ausland/usa-donald-trump-versucht-die-us-medien-auf-linie-zu-bringen-oder-zu-knebeln](https://www.spiegel.de/ausland/usa-donald-trump-versucht-die-us-medien-auf-linie-zu-bringen-oder-zu-knebeln-a-86552950-4118-4dbb-a98a-6e3058fef26f#ref=rss)
+* [https://www.spiegel.de/kultur/kino/superman-hebt-ab-an-den-kinokassen-aber-nur-in-den-usa-in-deutschland-platz-drei](https://www.spiegel.de/kultur/kino/superman-hebt-ab-an-den-kinokassen-aber-nur-in-den-usa-in-deutschland-platz-drei-a-86ffc796-18a8-42af-ba4e-b51e574ed287#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/ausland/usa-donald-trump-versucht-die-us-medien-auf-linie-zu-bringen-oder-zu-knebeln](https://www.spiegel.de/ausland/usa-donald-trump-versucht-die-us-medien-auf-linie-zu-bringen-oder-zu-knebeln-a-86552950-4118-4dbb-a98a-6e3058fef26f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/buerokratieabbau-dgb-warnt-vor-aushoehlung-der-rechte-von-arbeitnehmern](https://www.spiegel.de/wirtschaft/buerokratieabbau-dgb-warnt-vor-aushoehlung-der-rechte-von-arbeitnehmern-a-6976e1ff-3ca8-4d64-a22d-8723a8658e41#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/noch-so-ein-debakel-kann-merz-sich-nicht-leisten](https://www.spiegel.de/politik/deutschland/noch-so-ein-debakel-kann-merz-sich-nicht-leisten-a-0da3e1e3-e425-476a-b317-407b3ad4dc2c#ref=rss)
+### rund
+
+* [https://www.spiegel.de/auto/berlin-karl-marx-strasse-in-neukoelln-wieder-frei-nach-15-jahren-bauarbeiten](https://www.spiegel.de/auto/berlin-karl-marx-strasse-in-neukoelln-wieder-frei-nach-15-jahren-bauarbeiten-a-47132d5d-e587-402d-9967-1c063f6f70b5#ref=rss)
+* [https://www.spiegel.de/panorama/leute/roy-black-sohn-torsten-hoellerich-hat-das-gesamte-erbe-verloren](https://www.spiegel.de/panorama/leute/roy-black-sohn-torsten-hoellerich-hat-das-gesamte-erbe-verloren-a-9adc1596-6714-4c79-bb3c-a180f48eb85d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/mindestlohn-rund-6-6-millionen-menschen-profitieren-von-erhoehung](https://www.spiegel.de/wirtschaft/soziales/mindestlohn-rund-6-6-millionen-menschen-profitieren-von-erhoehung-a-7fb52883-9829-47fd-9b9b-9e3aa692e906#ref=rss)
+### haft
+
+* [https://www.spiegel.de/wirtschaft/gericht-verurteilt-alfons-schubeck-zu-vier-jahren-und-drei-monaten-haft](https://www.spiegel.de/wirtschaft/gericht-verurteilt-alfons-schubeck-zu-vier-jahren-und-drei-monaten-haft-a-76854648-967d-4f23-a27f-9368a76d52a8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/alfons-schuhbeck-wie-der-schwerkranke-promikoch-sich-selbst-ruinierte](https://www.spiegel.de/wirtschaft/alfons-schuhbeck-wie-der-schwerkranke-promikoch-sich-selbst-ruinierte-a-53cbbcb5-b891-487b-90b3-e77a2dcac296#ref=rss)
+### lage
+
+* [https://www.spiegel.de/ausland/konflikt-mit-thailand-kambodscha-verkuendet-wehrpflicht-ab-2026](https://www.spiegel.de/ausland/konflikt-mit-thailand-kambodscha-verkuendet-wehrpflicht-ab-2026-a-5eff3879-8631-45da-8f87-a3c65d9fa5fb#ref=rss)
+* [https://www.spiegel.de/ausland/spanien-torre-pacheco-rechtsextremen-greifen-migranten-an-lage-eskaliert](https://www.spiegel.de/ausland/spanien-torre-pacheco-rechtsextremen-greifen-migranten-an-lage-eskaliert-a-b77841ea-6c2c-427a-96a5-b7720b551c3a#ref=rss)
+### selbst
+
+* [https://www.spiegel.de/politik/deutschland/noch-so-ein-debakel-kann-merz-sich-nicht-leisten](https://www.spiegel.de/politik/deutschland/noch-so-ein-debakel-kann-merz-sich-nicht-leisten-a-0da3e1e3-e425-476a-b317-407b3ad4dc2c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/alfons-schuhbeck-wie-der-schwerkranke-promikoch-sich-selbst-ruinierte](https://www.spiegel.de/wirtschaft/alfons-schuhbeck-wie-der-schwerkranke-promikoch-sich-selbst-ruinierte-a-53cbbcb5-b891-487b-90b3-e77a2dcac296#ref=rss)
+### pakistan
+
+* [https://www.spiegel.de/panorama/justiz/offenbach-kindesmissbrauch-in-pakistan-verdaechtiger-aus-hessen-festgenommen](https://www.spiegel.de/panorama/justiz/offenbach-kindesmissbrauch-in-pakistan-verdaechtiger-aus-hessen-festgenommen-a-9e0df484-4e40-4d89-8037-8befba529a96#ref=rss)
+### hessen
+
+* [https://www.spiegel.de/panorama/justiz/offenbach-kindesmissbrauch-in-pakistan-verdaechtiger-aus-hessen-festgenommen](https://www.spiegel.de/panorama/justiz/offenbach-kindesmissbrauch-in-pakistan-verdaechtiger-aus-hessen-festgenommen-a-9e0df484-4e40-4d89-8037-8befba529a96#ref=rss)
+### gefasst
+
+* [https://www.spiegel.de/panorama/justiz/offenbach-kindesmissbrauch-in-pakistan-verdaechtiger-aus-hessen-festgenommen](https://www.spiegel.de/panorama/justiz/offenbach-kindesmissbrauch-in-pakistan-verdaechtiger-aus-hessen-festgenommen-a-9e0df484-4e40-4d89-8037-8befba529a96#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/frankreich-in-tasche-eines-mithaeftlings-aus-gefaengnis-geflohen-mann-gefasst](https://www.spiegel.de/panorama/justiz/frankreich-in-tasche-eines-mithaeftlings-aus-gefaengnis-geflohen-mann-gefasst-a-425d0024-3c25-48af-af62-34ebca45baf2#ref=rss)
+### rosie
+
+* [https://www.spiegel.de/panorama/leute/donald-trump-rosie-odonnell-kontert-ausbuergerungs-drohung-bin-alles-was-du-fuerchtest](https://www.spiegel.de/panorama/leute/donald-trump-rosie-odonnell-kontert-ausbuergerungs-drohung-bin-alles-was-du-fuerchtest-a-2e86a091-957b-4d9f-b221-24056de42176#ref=rss)
+### hsv
+
+* [https://www.spiegel.de/sport/fussball/fussball-transfers-yussuf-poulsen-zum-hsv-konkurrenz-fuer-kai-havertz-beim-fc-arsenal](https://www.spiegel.de/sport/fussball/fussball-transfers-yussuf-poulsen-zum-hsv-konkurrenz-fuer-kai-havertz-beim-fc-arsenal-a-3931296e-dcb1-4c8b-a4f2-daca7edfb76f#ref=rss)
+### arsenal
+
+* [https://www.spiegel.de/sport/fussball/fussball-transfers-yussuf-poulsen-zum-hsv-konkurrenz-fuer-kai-havertz-beim-fc-arsenal](https://www.spiegel.de/sport/fussball/fussball-transfers-yussuf-poulsen-zum-hsv-konkurrenz-fuer-kai-havertz-beim-fc-arsenal-a-3931296e-dcb1-4c8b-a4f2-daca7edfb76f#ref=rss)
+### ersatz
+
+* [https://www.spiegel.de/sport/fussball/fussball-transfers-yussuf-poulsen-zum-hsv-konkurrenz-fuer-kai-havertz-beim-fc-arsenal](https://www.spiegel.de/sport/fussball/fussball-transfers-yussuf-poulsen-zum-hsv-konkurrenz-fuer-kai-havertz-beim-fc-arsenal-a-3931296e-dcb1-4c8b-a4f2-daca7edfb76f#ref=rss)
+* [https://www.spiegel.de/karriere/fachkraeftemangel-oekonomen-rechnen-mit-rasantem-anstieg](https://www.spiegel.de/karriere/fachkraeftemangel-oekonomen-rechnen-mit-rasantem-anstieg-a-e7c4b123-762a-4797-bbc0-21034e0afbc5#ref=rss)
+### geld
+
+* [https://www.spiegel.de/sport/fussball/fussball-transfers-yussuf-poulsen-zum-hsv-konkurrenz-fuer-kai-havertz-beim-fc-arsenal](https://www.spiegel.de/sport/fussball/fussball-transfers-yussuf-poulsen-zum-hsv-konkurrenz-fuer-kai-havertz-beim-fc-arsenal-a-3931296e-dcb1-4c8b-a4f2-daca7edfb76f#ref=rss)
+* [https://www.spiegel.de/panorama/leute/roy-black-sohn-torsten-hoellerich-hat-das-gesamte-erbe-verloren](https://www.spiegel.de/panorama/leute/roy-black-sohn-torsten-hoellerich-hat-das-gesamte-erbe-verloren-a-9adc1596-6714-4c79-bb3c-a180f48eb85d#ref=rss)
+### warnt
+
+* [https://www.spiegel.de/wissenschaft/technik/air-india-empfohlene-regler-inspektion-laut-bericht-nicht-durchgefuehrt](https://www.spiegel.de/wissenschaft/technik/air-india-empfohlene-regler-inspektion-laut-bericht-nicht-durchgefuehrt-a-c8167af1-27ce-434b-b624-fdc7524cd238#ref=rss)
+* [https://www.spiegel.de/wirtschaft/buerokratieabbau-dgb-warnt-vor-aushoehlung-der-rechte-von-arbeitnehmern](https://www.spiegel.de/wirtschaft/buerokratieabbau-dgb-warnt-vor-aushoehlung-der-rechte-von-arbeitnehmern-a-6976e1ff-3ca8-4d64-a22d-8723a8658e41#ref=rss)
+### joe
+
+* [https://www.spiegel.de/ausland/joe-biden-ex-us-praesident-verteidigt-begnadigungen-per-signierroboter](https://www.spiegel.de/ausland/joe-biden-ex-us-praesident-verteidigt-begnadigungen-per-signierroboter-a-44e390aa-c6fd-4b2f-b408-876bf50ac1a7#ref=rss)
 ### ende
 
-* [https://www.spiegel.de/kultur/weltpolitik-friedensforscherin-sieht-weltordnung-im-freien-fall-das-ende-des-westens](https://www.spiegel.de/kultur/weltpolitik-friedensforscherin-sieht-weltordnung-im-freien-fall-das-ende-des-westens-a-72833446-375f-4f9a-9b42-b6e936999d4e#ref=rss)
-* [https://www.spiegel.de/panorama/leute/ed-helms-seine-mutter-weinte-nach-der-hangover-premiere](https://www.spiegel.de/panorama/leute/ed-helms-seine-mutter-weinte-nach-der-hangover-premiere-a-3752312c-af6c-46ca-a82f-dbae2f02eedb#ref=rss)
-### sagt
+* [https://www.spiegel.de/ausland/joe-biden-ex-us-praesident-verteidigt-begnadigungen-per-signierroboter](https://www.spiegel.de/ausland/joe-biden-ex-us-praesident-verteidigt-begnadigungen-per-signierroboter-a-44e390aa-c6fd-4b2f-b408-876bf50ac1a7#ref=rss)
+* [https://www.spiegel.de/sport/fussball/klub-wm-sieger-fc-chelsea-and-the-winner-is-ein-casting-klub](https://www.spiegel.de/sport/fussball/klub-wm-sieger-fc-chelsea-and-the-winner-is-ein-casting-klub-a-73986238-2e6d-4472-987a-210a82595c6e#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/kultur/weltpolitik-friedensforscherin-sieht-weltordnung-im-freien-fall-das-ende-des-westens](https://www.spiegel.de/kultur/weltpolitik-friedensforscherin-sieht-weltordnung-im-freien-fall-das-ende-des-westens-a-72833446-375f-4f9a-9b42-b6e936999d4e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/abnehmspritzen-wegovy-und-mounjaro-was-sie-ueber-die-mittel-wissen-sollten](https://www.spiegel.de/wissenschaft/medizin/abnehmspritzen-wegovy-und-mounjaro-was-sie-ueber-die-mittel-wissen-sollten-a-1bd38de4-cd9b-42d9-a817-145064ffeef5#ref=rss)
-### tim
+* [https://www.spiegel.de/ausland/joe-biden-ex-us-praesident-verteidigt-begnadigungen-per-signierroboter](https://www.spiegel.de/ausland/joe-biden-ex-us-praesident-verteidigt-begnadigungen-per-signierroboter-a-44e390aa-c6fd-4b2f-b408-876bf50ac1a7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/mindestlohn-rund-6-6-millionen-menschen-profitieren-von-erhoehung](https://www.spiegel.de/wirtschaft/soziales/mindestlohn-rund-6-6-millionen-menschen-profitieren-von-erhoehung-a-7fb52883-9829-47fd-9b9b-9e3aa692e906#ref=rss)
+### chelsea
 
-* [https://www.spiegel.de/sport/tour-de-france-tim-merlier-gewinnt-neunte-etappe-im-sprint-georg-zimmermann-stuerzt](https://www.spiegel.de/sport/tour-de-france-tim-merlier-gewinnt-neunte-etappe-im-sprint-georg-zimmermann-stuerzt-a-a2b56d60-4c37-41e6-9a93-ff38a738b02f#ref=rss)
-### merlier
+* [https://www.spiegel.de/sport/fussball/klub-wm-sieger-fc-chelsea-and-the-winner-is-ein-casting-klub](https://www.spiegel.de/sport/fussball/klub-wm-sieger-fc-chelsea-and-the-winner-is-ein-casting-klub-a-73986238-2e6d-4472-987a-210a82595c6e#ref=rss)
+### karlmarxstraße
 
-* [https://www.spiegel.de/sport/tour-de-france-tim-merlier-gewinnt-neunte-etappe-im-sprint-georg-zimmermann-stuerzt](https://www.spiegel.de/sport/tour-de-france-tim-merlier-gewinnt-neunte-etappe-im-sprint-georg-zimmermann-stuerzt-a-a2b56d60-4c37-41e6-9a93-ff38a738b02f#ref=rss)
-### etappe
+* [https://www.spiegel.de/auto/berlin-karl-marx-strasse-in-neukoelln-wieder-frei-nach-15-jahren-bauarbeiten](https://www.spiegel.de/auto/berlin-karl-marx-strasse-in-neukoelln-wieder-frei-nach-15-jahren-bauarbeiten-a-47132d5d-e587-402d-9967-1c063f6f70b5#ref=rss)
+### 15
 
-* [https://www.spiegel.de/sport/tour-de-france-tim-merlier-gewinnt-neunte-etappe-im-sprint-georg-zimmermann-stuerzt](https://www.spiegel.de/sport/tour-de-france-tim-merlier-gewinnt-neunte-etappe-im-sprint-georg-zimmermann-stuerzt-a-a2b56d60-4c37-41e6-9a93-ff38a738b02f#ref=rss)
-### georg
+* [https://www.spiegel.de/auto/berlin-karl-marx-strasse-in-neukoelln-wieder-frei-nach-15-jahren-bauarbeiten](https://www.spiegel.de/auto/berlin-karl-marx-strasse-in-neukoelln-wieder-frei-nach-15-jahren-bauarbeiten-a-47132d5d-e587-402d-9967-1c063f6f70b5#ref=rss)
+### bauarbeiten
 
-* [https://www.spiegel.de/sport/tour-de-france-tim-merlier-gewinnt-neunte-etappe-im-sprint-georg-zimmermann-stuerzt](https://www.spiegel.de/sport/tour-de-france-tim-merlier-gewinnt-neunte-etappe-im-sprint-georg-zimmermann-stuerzt-a-a2b56d60-4c37-41e6-9a93-ff38a738b02f#ref=rss)
-### zimmermann
+* [https://www.spiegel.de/auto/berlin-karl-marx-strasse-in-neukoelln-wieder-frei-nach-15-jahren-bauarbeiten](https://www.spiegel.de/auto/berlin-karl-marx-strasse-in-neukoelln-wieder-frei-nach-15-jahren-bauarbeiten-a-47132d5d-e587-402d-9967-1c063f6f70b5#ref=rss)
+### gericht
 
-* [https://www.spiegel.de/sport/tour-de-france-tim-merlier-gewinnt-neunte-etappe-im-sprint-georg-zimmermann-stuerzt](https://www.spiegel.de/sport/tour-de-france-tim-merlier-gewinnt-neunte-etappe-im-sprint-georg-zimmermann-stuerzt-a-a2b56d60-4c37-41e6-9a93-ff38a738b02f#ref=rss)
-### stürzt
+* [https://www.spiegel.de/wirtschaft/gericht-verurteilt-alfons-schubeck-zu-vier-jahren-und-drei-monaten-haft](https://www.spiegel.de/wirtschaft/gericht-verurteilt-alfons-schubeck-zu-vier-jahren-und-drei-monaten-haft-a-76854648-967d-4f23-a27f-9368a76d52a8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/alfons-schuhbeck-wie-der-schwerkranke-promikoch-sich-selbst-ruinierte](https://www.spiegel.de/wirtschaft/alfons-schuhbeck-wie-der-schwerkranke-promikoch-sich-selbst-ruinierte-a-53cbbcb5-b891-487b-90b3-e77a2dcac296#ref=rss)
+### verurteilt
 
-* [https://www.spiegel.de/sport/tour-de-france-tim-merlier-gewinnt-neunte-etappe-im-sprint-georg-zimmermann-stuerzt](https://www.spiegel.de/sport/tour-de-france-tim-merlier-gewinnt-neunte-etappe-im-sprint-georg-zimmermann-stuerzt-a-a2b56d60-4c37-41e6-9a93-ff38a738b02f#ref=rss)
-* [https://www.spiegel.de/panorama/schweiz-deutsche-kletterin-stuerzt-100-meter-tief-und-stirbt](https://www.spiegel.de/panorama/schweiz-deutsche-kletterin-stuerzt-100-meter-tief-und-stirbt-a-2a78cacd-afec-4550-aa2a-5e1c9c929835#ref=rss)
-### 170
+* [https://www.spiegel.de/wirtschaft/gericht-verurteilt-alfons-schubeck-zu-vier-jahren-und-drei-monaten-haft](https://www.spiegel.de/wirtschaft/gericht-verurteilt-alfons-schubeck-zu-vier-jahren-und-drei-monaten-haft-a-76854648-967d-4f23-a27f-9368a76d52a8#ref=rss)
+### vier
 
-* [https://www.spiegel.de/sport/tour-de-france-tim-merlier-gewinnt-neunte-etappe-im-sprint-georg-zimmermann-stuerzt](https://www.spiegel.de/sport/tour-de-france-tim-merlier-gewinnt-neunte-etappe-im-sprint-georg-zimmermann-stuerzt-a-a2b56d60-4c37-41e6-9a93-ff38a738b02f#ref=rss)
-* [https://www.spiegel.de/panorama/texas-neue-hochwasserwarnung-rettungskraefte-unterbrechen-suche-nach-ueberschwemmungsopfern](https://www.spiegel.de/panorama/texas-neue-hochwasserwarnung-rettungskraefte-unterbrechen-suche-nach-ueberschwemmungsopfern-a-f202da93-ef2e-415e-a0f1-224b7a94400f#ref=rss)
-### kam
+* [https://www.spiegel.de/wirtschaft/gericht-verurteilt-alfons-schubeck-zu-vier-jahren-und-drei-monaten-haft](https://www.spiegel.de/wirtschaft/gericht-verurteilt-alfons-schubeck-zu-vier-jahren-und-drei-monaten-haft-a-76854648-967d-4f23-a27f-9368a76d52a8#ref=rss)
+### monaten
 
-* [https://www.spiegel.de/sport/tour-de-france-tim-merlier-gewinnt-neunte-etappe-im-sprint-georg-zimmermann-stuerzt](https://www.spiegel.de/sport/tour-de-france-tim-merlier-gewinnt-neunte-etappe-im-sprint-georg-zimmermann-stuerzt-a-a2b56d60-4c37-41e6-9a93-ff38a738b02f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/klub-wm-2025-hat-die-milliardenschoepfung-eine-zukunft](https://www.spiegel.de/sport/fussball/klub-wm-2025-hat-die-milliardenschoepfung-eine-zukunft-a-a65d06f3-d992-486c-8c74-99cca58b5398#ref=rss)
-### texas
+* [https://www.spiegel.de/wirtschaft/gericht-verurteilt-alfons-schubeck-zu-vier-jahren-und-drei-monaten-haft](https://www.spiegel.de/wirtschaft/gericht-verurteilt-alfons-schubeck-zu-vier-jahren-und-drei-monaten-haft-a-76854648-967d-4f23-a27f-9368a76d52a8#ref=rss)
+### starkoch
 
-* [https://www.spiegel.de/panorama/texas-neue-hochwasserwarnung-rettungskraefte-unterbrechen-suche-nach-ueberschwemmungsopfern](https://www.spiegel.de/panorama/texas-neue-hochwasserwarnung-rettungskraefte-unterbrechen-suche-nach-ueberschwemmungsopfern-a-f202da93-ef2e-415e-a0f1-224b7a94400f#ref=rss)
-### suche
+* [https://www.spiegel.de/wirtschaft/gericht-verurteilt-alfons-schubeck-zu-vier-jahren-und-drei-monaten-haft](https://www.spiegel.de/wirtschaft/gericht-verurteilt-alfons-schubeck-zu-vier-jahren-und-drei-monaten-haft-a-76854648-967d-4f23-a27f-9368a76d52a8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/alfons-schuhbeck-wie-der-schwerkranke-promikoch-sich-selbst-ruinierte](https://www.spiegel.de/wirtschaft/alfons-schuhbeck-wie-der-schwerkranke-promikoch-sich-selbst-ruinierte-a-53cbbcb5-b891-487b-90b3-e77a2dcac296#ref=rss)
+### thailand
 
-* [https://www.spiegel.de/panorama/texas-neue-hochwasserwarnung-rettungskraefte-unterbrechen-suche-nach-ueberschwemmungsopfern](https://www.spiegel.de/panorama/texas-neue-hochwasserwarnung-rettungskraefte-unterbrechen-suche-nach-ueberschwemmungsopfern-a-f202da93-ef2e-415e-a0f1-224b7a94400f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/flamingos-fressen-sich-durch-italienische-reisfelder](https://www.spiegel.de/wissenschaft/natur/flamingos-fressen-sich-durch-italienische-reisfelder-a-c1609ba1-5775-4325-af12-39c7e56400d4#ref=rss)
-### abnehmspritzen
+* [https://www.spiegel.de/ausland/konflikt-mit-thailand-kambodscha-verkuendet-wehrpflicht-ab-2026](https://www.spiegel.de/ausland/konflikt-mit-thailand-kambodscha-verkuendet-wehrpflicht-ab-2026-a-5eff3879-8631-45da-8f87-a3c65d9fa5fb#ref=rss)
+### kambodscha
 
-* [https://www.spiegel.de/wissenschaft/medizin/abnehmspritzen-wegovy-und-mounjaro-was-sie-ueber-die-mittel-wissen-sollten](https://www.spiegel.de/wissenschaft/medizin/abnehmspritzen-wegovy-und-mounjaro-was-sie-ueber-die-mittel-wissen-sollten-a-1bd38de4-cd9b-42d9-a817-145064ffeef5#ref=rss)
-### wegovy
+* [https://www.spiegel.de/ausland/konflikt-mit-thailand-kambodscha-verkuendet-wehrpflicht-ab-2026](https://www.spiegel.de/ausland/konflikt-mit-thailand-kambodscha-verkuendet-wehrpflicht-ab-2026-a-5eff3879-8631-45da-8f87-a3c65d9fa5fb#ref=rss)
+### beiden
 
-* [https://www.spiegel.de/wissenschaft/medizin/abnehmspritzen-wegovy-und-mounjaro-was-sie-ueber-die-mittel-wissen-sollten](https://www.spiegel.de/wissenschaft/medizin/abnehmspritzen-wegovy-und-mounjaro-was-sie-ueber-die-mittel-wissen-sollten-a-1bd38de4-cd9b-42d9-a817-145064ffeef5#ref=rss)
-### mounjaro
+* [https://www.spiegel.de/ausland/konflikt-mit-thailand-kambodscha-verkuendet-wehrpflicht-ab-2026](https://www.spiegel.de/ausland/konflikt-mit-thailand-kambodscha-verkuendet-wehrpflicht-ab-2026-a-5eff3879-8631-45da-8f87-a3c65d9fa5fb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/mindestlohn-rund-6-6-millionen-menschen-profitieren-von-erhoehung](https://www.spiegel.de/wirtschaft/soziales/mindestlohn-rund-6-6-millionen-menschen-profitieren-von-erhoehung-a-7fb52883-9829-47fd-9b9b-9e3aa692e906#ref=rss)
+### dürfte
 
-* [https://www.spiegel.de/wissenschaft/medizin/abnehmspritzen-wegovy-und-mounjaro-was-sie-ueber-die-mittel-wissen-sollten](https://www.spiegel.de/wissenschaft/medizin/abnehmspritzen-wegovy-und-mounjaro-was-sie-ueber-die-mittel-wissen-sollten-a-1bd38de4-cd9b-42d9-a817-145064ffeef5#ref=rss)
-### mittel
+* [https://www.spiegel.de/ausland/konflikt-mit-thailand-kambodscha-verkuendet-wehrpflicht-ab-2026](https://www.spiegel.de/ausland/konflikt-mit-thailand-kambodscha-verkuendet-wehrpflicht-ab-2026-a-5eff3879-8631-45da-8f87-a3c65d9fa5fb#ref=rss)
+* [https://www.spiegel.de/karriere/fachkraeftemangel-oekonomen-rechnen-mit-rasantem-anstieg](https://www.spiegel.de/karriere/fachkraeftemangel-oekonomen-rechnen-mit-rasantem-anstieg-a-e7c4b123-762a-4797-bbc0-21034e0afbc5#ref=rss)
+### verschärfen
 
-* [https://www.spiegel.de/wissenschaft/medizin/abnehmspritzen-wegovy-und-mounjaro-was-sie-ueber-die-mittel-wissen-sollten](https://www.spiegel.de/wissenschaft/medizin/abnehmspritzen-wegovy-und-mounjaro-was-sie-ueber-die-mittel-wissen-sollten-a-1bd38de4-cd9b-42d9-a817-145064ffeef5#ref=rss)
-### zahlen
+* [https://www.spiegel.de/ausland/konflikt-mit-thailand-kambodscha-verkuendet-wehrpflicht-ab-2026](https://www.spiegel.de/ausland/konflikt-mit-thailand-kambodscha-verkuendet-wehrpflicht-ab-2026-a-5eff3879-8631-45da-8f87-a3c65d9fa5fb#ref=rss)
+* [https://www.spiegel.de/karriere/fachkraeftemangel-oekonomen-rechnen-mit-rasantem-anstieg](https://www.spiegel.de/karriere/fachkraeftemangel-oekonomen-rechnen-mit-rasantem-anstieg-a-e7c4b123-762a-4797-bbc0-21034e0afbc5#ref=rss)
+### roy
 
-* [https://www.spiegel.de/wissenschaft/medizin/abnehmspritzen-wegovy-und-mounjaro-was-sie-ueber-die-mittel-wissen-sollten](https://www.spiegel.de/wissenschaft/medizin/abnehmspritzen-wegovy-und-mounjaro-was-sie-ueber-die-mittel-wissen-sollten-a-1bd38de4-cd9b-42d9-a817-145064ffeef5#ref=rss)
-* [https://www.spiegel.de/karriere/hat-diese-gleichung-eine-loesung-raetsel-der-woche](https://www.spiegel.de/karriere/hat-diese-gleichung-eine-loesung-raetsel-der-woche-a-082dc0e4-5336-4709-8865-a4033f5ec6eb#ref=rss)
-### michael
+* [https://www.spiegel.de/panorama/leute/roy-black-sohn-torsten-hoellerich-hat-das-gesamte-erbe-verloren](https://www.spiegel.de/panorama/leute/roy-black-sohn-torsten-hoellerich-hat-das-gesamte-erbe-verloren-a-9adc1596-6714-4c79-bb3c-a180f48eb85d#ref=rss)
+### sohn
 
-* [https://www.spiegel.de/panorama/leute/michael-jordan-luxusvilla-des-basketballstars-ueber-airbnb-zu-vermieten](https://www.spiegel.de/panorama/leute/michael-jordan-luxusvilla-des-basketballstars-ueber-airbnb-zu-vermieten-a-1d50d4d7-c941-449a-a036-ac1f8122c170#ref=rss)
-### jordan
+* [https://www.spiegel.de/panorama/leute/roy-black-sohn-torsten-hoellerich-hat-das-gesamte-erbe-verloren](https://www.spiegel.de/panorama/leute/roy-black-sohn-torsten-hoellerich-hat-das-gesamte-erbe-verloren-a-9adc1596-6714-4c79-bb3c-a180f48eb85d#ref=rss)
+### torsten
 
-* [https://www.spiegel.de/panorama/leute/michael-jordan-luxusvilla-des-basketballstars-ueber-airbnb-zu-vermieten](https://www.spiegel.de/panorama/leute/michael-jordan-luxusvilla-des-basketballstars-ueber-airbnb-zu-vermieten-a-1d50d4d7-c941-449a-a036-ac1f8122c170#ref=rss)
-### tief
+* [https://www.spiegel.de/panorama/leute/roy-black-sohn-torsten-hoellerich-hat-das-gesamte-erbe-verloren](https://www.spiegel.de/panorama/leute/roy-black-sohn-torsten-hoellerich-hat-das-gesamte-erbe-verloren-a-9adc1596-6714-4c79-bb3c-a180f48eb85d#ref=rss)
+### höllerich
 
-* [https://www.spiegel.de/panorama/leute/michael-jordan-luxusvilla-des-basketballstars-ueber-airbnb-zu-vermieten](https://www.spiegel.de/panorama/leute/michael-jordan-luxusvilla-des-basketballstars-ueber-airbnb-zu-vermieten-a-1d50d4d7-c941-449a-a036-ac1f8122c170#ref=rss)
-* [https://www.spiegel.de/panorama/schweiz-deutsche-kletterin-stuerzt-100-meter-tief-und-stirbt](https://www.spiegel.de/panorama/schweiz-deutsche-kletterin-stuerzt-100-meter-tief-und-stirbt-a-2a78cacd-afec-4550-aa2a-5e1c9c929835#ref=rss)
-### kleine
+* [https://www.spiegel.de/panorama/leute/roy-black-sohn-torsten-hoellerich-hat-das-gesamte-erbe-verloren](https://www.spiegel.de/panorama/leute/roy-black-sohn-torsten-hoellerich-hat-das-gesamte-erbe-verloren-a-9adc1596-6714-4c79-bb3c-a180f48eb85d#ref=rss)
+### euro
 
-* [https://www.spiegel.de/wissenschaft/stress-so-viele-kleine-auszeiten-sollten-sie-in-job-und-alltag-einplanen](https://www.spiegel.de/wissenschaft/stress-so-viele-kleine-auszeiten-sollten-sie-in-job-und-alltag-einplanen-a-52e0a3c8-3f6f-4a5a-9b2f-0421d0537c8c#ref=rss)
-### auszeiten
+* [https://www.spiegel.de/panorama/leute/roy-black-sohn-torsten-hoellerich-hat-das-gesamte-erbe-verloren](https://www.spiegel.de/panorama/leute/roy-black-sohn-torsten-hoellerich-hat-das-gesamte-erbe-verloren-a-9adc1596-6714-4c79-bb3c-a180f48eb85d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/mindestlohn-rund-6-6-millionen-menschen-profitieren-von-erhoehung](https://www.spiegel.de/wirtschaft/soziales/mindestlohn-rund-6-6-millionen-menschen-profitieren-von-erhoehung-a-7fb52883-9829-47fd-9b9b-9e3aa692e906#ref=rss)
+### xaccount
 
-* [https://www.spiegel.de/wissenschaft/stress-so-viele-kleine-auszeiten-sollten-sie-in-job-und-alltag-einplanen](https://www.spiegel.de/wissenschaft/stress-so-viele-kleine-auszeiten-sollten-sie-in-job-und-alltag-einplanen-a-52e0a3c8-3f6f-4a5a-9b2f-0421d0537c8c#ref=rss)
-### alltag
-
-* [https://www.spiegel.de/wissenschaft/stress-so-viele-kleine-auszeiten-sollten-sie-in-job-und-alltag-einplanen](https://www.spiegel.de/wissenschaft/stress-so-viele-kleine-auszeiten-sollten-sie-in-job-und-alltag-einplanen-a-52e0a3c8-3f6f-4a5a-9b2f-0421d0537c8c#ref=rss)
-### feiert
-
-* [https://www.spiegel.de/sport/fussball/klub-wm-2025-hat-die-milliardenschoepfung-eine-zukunft](https://www.spiegel.de/sport/fussball/klub-wm-2025-hat-die-milliardenschoepfung-eine-zukunft-a-a65d06f3-d992-486c-8c74-99cca58b5398#ref=rss)
-* [https://www.spiegel.de/panorama/leute/guido-maria-kretschmer-waere-gern-staendig-schwanger-gewesen](https://www.spiegel.de/panorama/leute/guido-maria-kretschmer-waere-gern-staendig-schwanger-gewesen-a-8e2878a1-20eb-4c7d-bf8d-98fdb527cf3c#ref=rss)
-### torrepacheco
-
-* [https://www.spiegel.de/ausland/torre-pacheco-in-spanien-zusammenstoesse-zwischen-rechtsextremen-und-migranten](https://www.spiegel.de/ausland/torre-pacheco-in-spanien-zusammenstoesse-zwischen-rechtsextremen-und-migranten-a-9bae7ecd-4252-4f76-9c11-a5513e011438#ref=rss)
-### migranten
-
-* [https://www.spiegel.de/ausland/torre-pacheco-in-spanien-zusammenstoesse-zwischen-rechtsextremen-und-migranten](https://www.spiegel.de/ausland/torre-pacheco-in-spanien-zusammenstoesse-zwischen-rechtsextremen-und-migranten-a-9bae7ecd-4252-4f76-9c11-a5513e011438#ref=rss)
-### luxus
-
-* [https://www.spiegel.de/wirtschaft/generation-z-hauptsache-reich-woher-die-neue-fixierung-auf-kapital-und-luxus-kommt](https://www.spiegel.de/wirtschaft/generation-z-hauptsache-reich-woher-die-neue-fixierung-auf-kapital-und-luxus-kommt-a-a260d588-f919-4f9e-9cc6-ecae956cc30c#ref=rss)
-### anderen
-
-* [https://www.spiegel.de/wirtschaft/generation-z-hauptsache-reich-woher-die-neue-fixierung-auf-kapital-und-luxus-kommt](https://www.spiegel.de/wirtschaft/generation-z-hauptsache-reich-woher-die-neue-fixierung-auf-kapital-und-luxus-kommt-a-a260d588-f919-4f9e-9cc6-ecae956cc30c#ref=rss)
-* [https://www.spiegel.de/panorama/leute/guido-maria-kretschmer-waere-gern-staendig-schwanger-gewesen](https://www.spiegel.de/panorama/leute/guido-maria-kretschmer-waere-gern-staendig-schwanger-gewesen-a-8e2878a1-20eb-4c7d-bf8d-98fdb527cf3c#ref=rss)
-### wochenbett
-
-* [https://www.spiegel.de/partnerschaft/wochenbett-paartherapeutin-louisa-scheel-gibt-tipps-fuer-die-beziehung](https://www.spiegel.de/partnerschaft/wochenbett-paartherapeutin-louisa-scheel-gibt-tipps-fuer-die-beziehung-a-42026907-4183-4408-b8ca-33a07692b71f#ref=rss)
-### paartherapeutin
-
-* [https://www.spiegel.de/partnerschaft/wochenbett-paartherapeutin-louisa-scheel-gibt-tipps-fuer-die-beziehung](https://www.spiegel.de/partnerschaft/wochenbett-paartherapeutin-louisa-scheel-gibt-tipps-fuer-die-beziehung-a-42026907-4183-4408-b8ca-33a07692b71f#ref=rss)
-### louisa
-
-* [https://www.spiegel.de/partnerschaft/wochenbett-paartherapeutin-louisa-scheel-gibt-tipps-fuer-die-beziehung](https://www.spiegel.de/partnerschaft/wochenbett-paartherapeutin-louisa-scheel-gibt-tipps-fuer-die-beziehung-a-42026907-4183-4408-b8ca-33a07692b71f#ref=rss)
-### scheel
-
-* [https://www.spiegel.de/partnerschaft/wochenbett-paartherapeutin-louisa-scheel-gibt-tipps-fuer-die-beziehung](https://www.spiegel.de/partnerschaft/wochenbett-paartherapeutin-louisa-scheel-gibt-tipps-fuer-die-beziehung-a-42026907-4183-4408-b8ca-33a07692b71f#ref=rss)
-### beziehung
-
-* [https://www.spiegel.de/partnerschaft/wochenbett-paartherapeutin-louisa-scheel-gibt-tipps-fuer-die-beziehung](https://www.spiegel.de/partnerschaft/wochenbett-paartherapeutin-louisa-scheel-gibt-tipps-fuer-die-beziehung-a-42026907-4183-4408-b8ca-33a07692b71f#ref=rss)
-### verschiebt
-
-* [https://www.spiegel.de/partnerschaft/wochenbett-paartherapeutin-louisa-scheel-gibt-tipps-fuer-die-beziehung](https://www.spiegel.de/partnerschaft/wochenbett-paartherapeutin-louisa-scheel-gibt-tipps-fuer-die-beziehung-a-42026907-4183-4408-b8ca-33a07692b71f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ursula-von-der-leyen-eu-verschiebt-im-zollstreit-mit-den-usa-die-angekuendigten-gegenzoelle](https://www.spiegel.de/wirtschaft/ursula-von-der-leyen-eu-verschiebt-im-zollstreit-mit-den-usa-die-angekuendigten-gegenzoelle-a-7f17508d-c0a5-408a-afd0-f2f02e9d4b82#ref=rss)
-### guido
-
-* [https://www.spiegel.de/panorama/leute/guido-maria-kretschmer-waere-gern-staendig-schwanger-gewesen](https://www.spiegel.de/panorama/leute/guido-maria-kretschmer-waere-gern-staendig-schwanger-gewesen-a-8e2878a1-20eb-4c7d-bf8d-98fdb527cf3c#ref=rss)
-### maria
-
-* [https://www.spiegel.de/panorama/leute/guido-maria-kretschmer-waere-gern-staendig-schwanger-gewesen](https://www.spiegel.de/panorama/leute/guido-maria-kretschmer-waere-gern-staendig-schwanger-gewesen-a-8e2878a1-20eb-4c7d-bf8d-98fdb527cf3c#ref=rss)
-### kretschmer
-
-* [https://www.spiegel.de/panorama/leute/guido-maria-kretschmer-waere-gern-staendig-schwanger-gewesen](https://www.spiegel.de/panorama/leute/guido-maria-kretschmer-waere-gern-staendig-schwanger-gewesen-a-8e2878a1-20eb-4c7d-bf8d-98fdb527cf3c#ref=rss)
-### schweiz
-
-* [https://www.spiegel.de/panorama/schweiz-deutsche-kletterin-stuerzt-100-meter-tief-und-stirbt](https://www.spiegel.de/panorama/schweiz-deutsche-kletterin-stuerzt-100-meter-tief-und-stirbt-a-2a78cacd-afec-4550-aa2a-5e1c9c929835#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/panorama/schweiz-deutsche-kletterin-stuerzt-100-meter-tief-und-stirbt](https://www.spiegel.de/panorama/schweiz-deutsche-kletterin-stuerzt-100-meter-tief-und-stirbt-a-2a78cacd-afec-4550-aa2a-5e1c9c929835#ref=rss)
-### kletterin
-
-* [https://www.spiegel.de/panorama/schweiz-deutsche-kletterin-stuerzt-100-meter-tief-und-stirbt](https://www.spiegel.de/panorama/schweiz-deutsche-kletterin-stuerzt-100-meter-tief-und-stirbt-a-2a78cacd-afec-4550-aa2a-5e1c9c929835#ref=rss)
-### bundespräsident
-
-* [https://www.spiegel.de/politik/richterstreit-bundespraesident-frank-walter-steinmeier-haelt-koalition-fuer-beschaedigt](https://www.spiegel.de/politik/richterstreit-bundespraesident-frank-walter-steinmeier-haelt-koalition-fuer-beschaedigt-a-95710697-90cc-4ad5-812d-34fbb3f81b1b#ref=rss)
-### frankwalter
-
-* [https://www.spiegel.de/politik/richterstreit-bundespraesident-frank-walter-steinmeier-haelt-koalition-fuer-beschaedigt](https://www.spiegel.de/politik/richterstreit-bundespraesident-frank-walter-steinmeier-haelt-koalition-fuer-beschaedigt-a-95710697-90cc-4ad5-812d-34fbb3f81b1b#ref=rss)
-### steinmeier
-
-* [https://www.spiegel.de/politik/richterstreit-bundespraesident-frank-walter-steinmeier-haelt-koalition-fuer-beschaedigt](https://www.spiegel.de/politik/richterstreit-bundespraesident-frank-walter-steinmeier-haelt-koalition-fuer-beschaedigt-a-95710697-90cc-4ad5-812d-34fbb3f81b1b#ref=rss)
-### beschädigt
-
-* [https://www.spiegel.de/politik/richterstreit-bundespraesident-frank-walter-steinmeier-haelt-koalition-fuer-beschaedigt](https://www.spiegel.de/politik/richterstreit-bundespraesident-frank-walter-steinmeier-haelt-koalition-fuer-beschaedigt-a-95710697-90cc-4ad5-812d-34fbb3f81b1b#ref=rss)
-### ursula
-
-* [https://www.spiegel.de/wirtschaft/ursula-von-der-leyen-eu-verschiebt-im-zollstreit-mit-den-usa-die-angekuendigten-gegenzoelle](https://www.spiegel.de/wirtschaft/ursula-von-der-leyen-eu-verschiebt-im-zollstreit-mit-den-usa-die-angekuendigten-gegenzoelle-a-7f17508d-c0a5-408a-afd0-f2f02e9d4b82#ref=rss)
-### leyen
-
-* [https://www.spiegel.de/wirtschaft/ursula-von-der-leyen-eu-verschiebt-im-zollstreit-mit-den-usa-die-angekuendigten-gegenzoelle](https://www.spiegel.de/wirtschaft/ursula-von-der-leyen-eu-verschiebt-im-zollstreit-mit-den-usa-die-angekuendigten-gegenzoelle-a-7f17508d-c0a5-408a-afd0-f2f02e9d4b82#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/sesamstrasse-unbekannte-posten-antisemitische-aussagen-auf-elmos-x-account](https://www.spiegel.de/netzwelt/web/sesamstrasse-unbekannte-posten-antisemitische-aussagen-auf-elmos-x-account-a-3da636bd-b0d6-46da-a7ab-1a746e06675b#ref=rss)
 ### eu
 
-* [https://www.spiegel.de/wirtschaft/ursula-von-der-leyen-eu-verschiebt-im-zollstreit-mit-den-usa-die-angekuendigten-gegenzoelle](https://www.spiegel.de/wirtschaft/ursula-von-der-leyen-eu-verschiebt-im-zollstreit-mit-den-usa-die-angekuendigten-gegenzoelle-a-7f17508d-c0a5-408a-afd0-f2f02e9d4b82#ref=rss)
-### zollstreit
+* [https://www.spiegel.de/wirtschaft/nach-trump-brief-eu-treibt-arbeit-an-gegenzoellen-voran](https://www.spiegel.de/wirtschaft/nach-trump-brief-eu-treibt-arbeit-an-gegenzoellen-voran-a-ae3bb202-2d11-41d1-8b80-7f3cb173be9d#ref=rss)
+### betroffen
 
-* [https://www.spiegel.de/wirtschaft/ursula-von-der-leyen-eu-verschiebt-im-zollstreit-mit-den-usa-die-angekuendigten-gegenzoelle](https://www.spiegel.de/wirtschaft/ursula-von-der-leyen-eu-verschiebt-im-zollstreit-mit-den-usa-die-angekuendigten-gegenzoelle-a-7f17508d-c0a5-408a-afd0-f2f02e9d4b82#ref=rss)
-### gegenzölle
+* [https://www.spiegel.de/wirtschaft/nach-trump-brief-eu-treibt-arbeit-an-gegenzoellen-voran](https://www.spiegel.de/wirtschaft/nach-trump-brief-eu-treibt-arbeit-an-gegenzoellen-voran-a-ae3bb202-2d11-41d1-8b80-7f3cb173be9d#ref=rss)
+* [https://www.spiegel.de/karriere/fachkraeftemangel-oekonomen-rechnen-mit-rasantem-anstieg](https://www.spiegel.de/karriere/fachkraeftemangel-oekonomen-rechnen-mit-rasantem-anstieg-a-e7c4b123-762a-4797-bbc0-21034e0afbc5#ref=rss)
+### mann
 
-* [https://www.spiegel.de/wirtschaft/ursula-von-der-leyen-eu-verschiebt-im-zollstreit-mit-den-usa-die-angekuendigten-gegenzoelle](https://www.spiegel.de/wirtschaft/ursula-von-der-leyen-eu-verschiebt-im-zollstreit-mit-den-usa-die-angekuendigten-gegenzoelle-a-7f17508d-c0a5-408a-afd0-f2f02e9d4b82#ref=rss)
-### ed
+* [https://www.spiegel.de/panorama/justiz/frankreich-in-tasche-eines-mithaeftlings-aus-gefaengnis-geflohen-mann-gefasst](https://www.spiegel.de/panorama/justiz/frankreich-in-tasche-eines-mithaeftlings-aus-gefaengnis-geflohen-mann-gefasst-a-425d0024-3c25-48af-af62-34ebca45baf2#ref=rss)
+* [https://www.spiegel.de/sport/tennis/wimbledon-jannik-sinner-begeistert-mit-sieg-ueber-carlos-alcaraz-pressestimmen](https://www.spiegel.de/sport/tennis/wimbledon-jannik-sinner-begeistert-mit-sieg-ueber-carlos-alcaraz-pressestimmen-a-7d81d49a-da50-4f55-a338-1f2d6214f591#ref=rss)
+### torrepacheco
 
-* [https://www.spiegel.de/panorama/leute/ed-helms-seine-mutter-weinte-nach-der-hangover-premiere](https://www.spiegel.de/panorama/leute/ed-helms-seine-mutter-weinte-nach-der-hangover-premiere-a-3752312c-af6c-46ca-a82f-dbae2f02eedb#ref=rss)
-### helms
+* [https://www.spiegel.de/ausland/spanien-torre-pacheco-rechtsextremen-greifen-migranten-an-lage-eskaliert](https://www.spiegel.de/ausland/spanien-torre-pacheco-rechtsextremen-greifen-migranten-an-lage-eskaliert-a-b77841ea-6c2c-427a-96a5-b7720b551c3a#ref=rss)
+### migranten
 
-* [https://www.spiegel.de/panorama/leute/ed-helms-seine-mutter-weinte-nach-der-hangover-premiere](https://www.spiegel.de/panorama/leute/ed-helms-seine-mutter-weinte-nach-der-hangover-premiere-a-3752312c-af6c-46ca-a82f-dbae2f02eedb#ref=rss)
-### sachsenanhalt
+* [https://www.spiegel.de/ausland/spanien-torre-pacheco-rechtsextremen-greifen-migranten-an-lage-eskaliert](https://www.spiegel.de/ausland/spanien-torre-pacheco-rechtsextremen-greifen-migranten-an-lage-eskaliert-a-b77841ea-6c2c-427a-96a5-b7720b551c3a#ref=rss)
+### eskaliert
 
-* [https://www.spiegel.de/panorama/justiz/sachsen-anhalt-polizei-stellt-aufputschdroge-captagon-in-einem-gemuesehandel-sicher](https://www.spiegel.de/panorama/justiz/sachsen-anhalt-polizei-stellt-aufputschdroge-captagon-in-einem-gemuesehandel-sicher-a-07f9f7d1-5502-4292-9b69-a3591940eee9#ref=rss)
-### aufputschdroge
+* [https://www.spiegel.de/ausland/spanien-torre-pacheco-rechtsextremen-greifen-migranten-an-lage-eskaliert](https://www.spiegel.de/ausland/spanien-torre-pacheco-rechtsextremen-greifen-migranten-an-lage-eskaliert-a-b77841ea-6c2c-427a-96a5-b7720b551c3a#ref=rss)
+### australien
 
-* [https://www.spiegel.de/panorama/justiz/sachsen-anhalt-polizei-stellt-aufputschdroge-captagon-in-einem-gemuesehandel-sicher](https://www.spiegel.de/panorama/justiz/sachsen-anhalt-polizei-stellt-aufputschdroge-captagon-in-einem-gemuesehandel-sicher-a-07f9f7d1-5502-4292-9b69-a3591940eee9#ref=rss)
-### captagon
+* [https://www.spiegel.de/panorama/australien-carolina-w-bedankt-sich-nach-rettung-fuer-unglaubliche-unterstuetzung](https://www.spiegel.de/panorama/australien-carolina-w-bedankt-sich-nach-rettung-fuer-unglaubliche-unterstuetzung-a-8fc2e1a2-c46f-411b-b706-564f12f64161#ref=rss)
+### carolina
 
-* [https://www.spiegel.de/panorama/justiz/sachsen-anhalt-polizei-stellt-aufputschdroge-captagon-in-einem-gemuesehandel-sicher](https://www.spiegel.de/panorama/justiz/sachsen-anhalt-polizei-stellt-aufputschdroge-captagon-in-einem-gemuesehandel-sicher-a-07f9f7d1-5502-4292-9b69-a3591940eee9#ref=rss)
-### gemüsehandel
+* [https://www.spiegel.de/panorama/australien-carolina-w-bedankt-sich-nach-rettung-fuer-unglaubliche-unterstuetzung](https://www.spiegel.de/panorama/australien-carolina-w-bedankt-sich-nach-rettung-fuer-unglaubliche-unterstuetzung-a-8fc2e1a2-c46f-411b-b706-564f12f64161#ref=rss)
+### w
 
-* [https://www.spiegel.de/panorama/justiz/sachsen-anhalt-polizei-stellt-aufputschdroge-captagon-in-einem-gemuesehandel-sicher](https://www.spiegel.de/panorama/justiz/sachsen-anhalt-polizei-stellt-aufputschdroge-captagon-in-einem-gemuesehandel-sicher-a-07f9f7d1-5502-4292-9b69-a3591940eee9#ref=rss)
-### gleichung
+* [https://www.spiegel.de/panorama/australien-carolina-w-bedankt-sich-nach-rettung-fuer-unglaubliche-unterstuetzung](https://www.spiegel.de/panorama/australien-carolina-w-bedankt-sich-nach-rettung-fuer-unglaubliche-unterstuetzung-a-8fc2e1a2-c46f-411b-b706-564f12f64161#ref=rss)
+### rettung
 
-* [https://www.spiegel.de/karriere/hat-diese-gleichung-eine-loesung-raetsel-der-woche](https://www.spiegel.de/karriere/hat-diese-gleichung-eine-loesung-raetsel-der-woche-a-082dc0e4-5336-4709-8865-a4033f5ec6eb#ref=rss)
-### lösung
+* [https://www.spiegel.de/panorama/australien-carolina-w-bedankt-sich-nach-rettung-fuer-unglaubliche-unterstuetzung](https://www.spiegel.de/panorama/australien-carolina-w-bedankt-sich-nach-rettung-fuer-unglaubliche-unterstuetzung-a-8fc2e1a2-c46f-411b-b706-564f12f64161#ref=rss)
+### mindestlohn
 
-* [https://www.spiegel.de/karriere/hat-diese-gleichung-eine-loesung-raetsel-der-woche](https://www.spiegel.de/karriere/hat-diese-gleichung-eine-loesung-raetsel-der-woche-a-082dc0e4-5336-4709-8865-a4033f5ec6eb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/mindestlohn-rund-6-6-millionen-menschen-profitieren-von-erhoehung](https://www.spiegel.de/wirtschaft/soziales/mindestlohn-rund-6-6-millionen-menschen-profitieren-von-erhoehung-a-7fb52883-9829-47fd-9b9b-9e3aa692e906#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/wirtschaft/soziales/mindestlohn-rund-6-6-millionen-menschen-profitieren-von-erhoehung](https://www.spiegel.de/wirtschaft/soziales/mindestlohn-rund-6-6-millionen-menschen-profitieren-von-erhoehung-a-7fb52883-9829-47fd-9b9b-9e3aa692e906#ref=rss)
+* [https://www.spiegel.de/kultur/kino/superman-hebt-ab-an-den-kinokassen-aber-nur-in-den-usa-in-deutschland-platz-drei](https://www.spiegel.de/kultur/kino/superman-hebt-ab-an-den-kinokassen-aber-nur-in-den-usa-in-deutschland-platz-drei-a-86ffc796-18a8-42af-ba4e-b51e574ed287#ref=rss)
+### steigen
+
+* [https://www.spiegel.de/wirtschaft/soziales/mindestlohn-rund-6-6-millionen-menschen-profitieren-von-erhoehung](https://www.spiegel.de/wirtschaft/soziales/mindestlohn-rund-6-6-millionen-menschen-profitieren-von-erhoehung-a-7fb52883-9829-47fd-9b9b-9e3aa692e906#ref=rss)
+* [https://www.spiegel.de/wirtschaft/china-exporte-steigen-trotz-handelsstreit](https://www.spiegel.de/wirtschaft/china-exporte-steigen-trotz-handelsstreit-a-410ea265-d8c9-4a85-aee2-4b3d7e82715e#ref=rss)
+### kinokassen
+
+* [https://www.spiegel.de/kultur/kino/superman-hebt-ab-an-den-kinokassen-aber-nur-in-den-usa-in-deutschland-platz-drei](https://www.spiegel.de/kultur/kino/superman-hebt-ab-an-den-kinokassen-aber-nur-in-den-usa-in-deutschland-platz-drei-a-86ffc796-18a8-42af-ba4e-b51e574ed287#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/kultur/kino/superman-hebt-ab-an-den-kinokassen-aber-nur-in-den-usa-in-deutschland-platz-drei](https://www.spiegel.de/kultur/kino/superman-hebt-ab-an-den-kinokassen-aber-nur-in-den-usa-in-deutschland-platz-drei-a-86ffc796-18a8-42af-ba4e-b51e574ed287#ref=rss)
+### platz
+
+* [https://www.spiegel.de/kultur/kino/superman-hebt-ab-an-den-kinokassen-aber-nur-in-den-usa-in-deutschland-platz-drei](https://www.spiegel.de/kultur/kino/superman-hebt-ab-an-den-kinokassen-aber-nur-in-den-usa-in-deutschland-platz-drei-a-86ffc796-18a8-42af-ba4e-b51e574ed287#ref=rss)
+### ehud
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-ehud-olmert-kritisiert-plaene-fuer-lager-auf-rafahs-truemmern](https://www.spiegel.de/ausland/israel-gaza-krieg-ehud-olmert-kritisiert-plaene-fuer-lager-auf-rafahs-truemmern-a-323b3aaa-b96d-4515-9564-ade5d275ccb4#ref=rss)
+### olmert
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-ehud-olmert-kritisiert-plaene-fuer-lager-auf-rafahs-truemmern](https://www.spiegel.de/ausland/israel-gaza-krieg-ehud-olmert-kritisiert-plaene-fuer-lager-auf-rafahs-truemmern-a-323b3aaa-b96d-4515-9564-ade5d275ccb4#ref=rss)
+### lager
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-ehud-olmert-kritisiert-plaene-fuer-lager-auf-rafahs-truemmern](https://www.spiegel.de/ausland/israel-gaza-krieg-ehud-olmert-kritisiert-plaene-fuer-lager-auf-rafahs-truemmern-a-323b3aaa-b96d-4515-9564-ade5d275ccb4#ref=rss)
+### trümmern
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-ehud-olmert-kritisiert-plaene-fuer-lager-auf-rafahs-truemmern](https://www.spiegel.de/ausland/israel-gaza-krieg-ehud-olmert-kritisiert-plaene-fuer-lager-auf-rafahs-truemmern-a-323b3aaa-b96d-4515-9564-ade5d275ccb4#ref=rss)
+### skandinavien
+
+* [https://www.spiegel.de/reise/nachtzug-von-basel-nach-skandinavien-ab-naechstem-jahr-geplant](https://www.spiegel.de/reise/nachtzug-von-basel-nach-skandinavien-ab-naechstem-jahr-geplant-a-ccb1eb14-181f-468e-baf7-3e7b4bc7e7d5#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/reise/nachtzug-von-basel-nach-skandinavien-ab-naechstem-jahr-geplant](https://www.spiegel.de/reise/nachtzug-von-basel-nach-skandinavien-ab-naechstem-jahr-geplant-a-ccb1eb14-181f-468e-baf7-3e7b4bc7e7d5#ref=rss)
+### nivea
+
+* [https://www.spiegel.de/psychologie/einsamkeit-kann-mich-eine-cremedose-troesten](https://www.spiegel.de/psychologie/einsamkeit-kann-mich-eine-cremedose-troesten-a-5d2b16df-cdd5-4efa-a16f-a21627171606#ref=rss)
+### studie
+
+* [https://www.spiegel.de/psychologie/einsamkeit-kann-mich-eine-cremedose-troesten](https://www.spiegel.de/psychologie/einsamkeit-kann-mich-eine-cremedose-troesten-a-5d2b16df-cdd5-4efa-a16f-a21627171606#ref=rss)
+* [https://www.spiegel.de/karriere/fachkraeftemangel-oekonomen-rechnen-mit-rasantem-anstieg](https://www.spiegel.de/karriere/fachkraeftemangel-oekonomen-rechnen-mit-rasantem-anstieg-a-e7c4b123-762a-4797-bbc0-21034e0afbc5#ref=rss)
+### spiel
+
+* [https://www.spiegel.de/netzwelt/games/spiel-des-jahres-2025-was-das-gewinnerspiel-bomb-busters-so-besonders-macht](https://www.spiegel.de/netzwelt/games/spiel-des-jahres-2025-was-das-gewinnerspiel-bomb-busters-so-besonders-macht-a-9ca1560d-b03b-435d-8f61-b4fd8d3e8269#ref=rss)
+### jahres
+
+* [https://www.spiegel.de/netzwelt/games/spiel-des-jahres-2025-was-das-gewinnerspiel-bomb-busters-so-besonders-macht](https://www.spiegel.de/netzwelt/games/spiel-des-jahres-2025-was-das-gewinnerspiel-bomb-busters-so-besonders-macht-a-9ca1560d-b03b-435d-8f61-b4fd8d3e8269#ref=rss)
+### bomb
+
+* [https://www.spiegel.de/netzwelt/games/spiel-des-jahres-2025-was-das-gewinnerspiel-bomb-busters-so-besonders-macht](https://www.spiegel.de/netzwelt/games/spiel-des-jahres-2025-was-das-gewinnerspiel-bomb-busters-so-besonders-macht-a-9ca1560d-b03b-435d-8f61-b4fd8d3e8269#ref=rss)
+### busters
+
+* [https://www.spiegel.de/netzwelt/games/spiel-des-jahres-2025-was-das-gewinnerspiel-bomb-busters-so-besonders-macht](https://www.spiegel.de/netzwelt/games/spiel-des-jahres-2025-was-das-gewinnerspiel-bomb-busters-so-besonders-macht-a-9ca1560d-b03b-435d-8f61-b4fd8d3e8269#ref=rss)
+### jannik
+
+* [https://www.spiegel.de/sport/tennis/wimbledon-jannik-sinner-begeistert-mit-sieg-ueber-carlos-alcaraz-pressestimmen](https://www.spiegel.de/sport/tennis/wimbledon-jannik-sinner-begeistert-mit-sieg-ueber-carlos-alcaraz-pressestimmen-a-7d81d49a-da50-4f55-a338-1f2d6214f591#ref=rss)
+### sinner
+
+* [https://www.spiegel.de/sport/tennis/wimbledon-jannik-sinner-begeistert-mit-sieg-ueber-carlos-alcaraz-pressestimmen](https://www.spiegel.de/sport/tennis/wimbledon-jannik-sinner-begeistert-mit-sieg-ueber-carlos-alcaraz-pressestimmen-a-7d81d49a-da50-4f55-a338-1f2d6214f591#ref=rss)
+### begeistert
+
+* [https://www.spiegel.de/sport/tennis/wimbledon-jannik-sinner-begeistert-mit-sieg-ueber-carlos-alcaraz-pressestimmen](https://www.spiegel.de/sport/tennis/wimbledon-jannik-sinner-begeistert-mit-sieg-ueber-carlos-alcaraz-pressestimmen-a-7d81d49a-da50-4f55-a338-1f2d6214f591#ref=rss)
+### sieg
+
+* [https://www.spiegel.de/sport/tennis/wimbledon-jannik-sinner-begeistert-mit-sieg-ueber-carlos-alcaraz-pressestimmen](https://www.spiegel.de/sport/tennis/wimbledon-jannik-sinner-begeistert-mit-sieg-ueber-carlos-alcaraz-pressestimmen-a-7d81d49a-da50-4f55-a338-1f2d6214f591#ref=rss)
+### carlos
+
+* [https://www.spiegel.de/sport/tennis/wimbledon-jannik-sinner-begeistert-mit-sieg-ueber-carlos-alcaraz-pressestimmen](https://www.spiegel.de/sport/tennis/wimbledon-jannik-sinner-begeistert-mit-sieg-ueber-carlos-alcaraz-pressestimmen-a-7d81d49a-da50-4f55-a338-1f2d6214f591#ref=rss)
+### alcaraz
+
+* [https://www.spiegel.de/sport/tennis/wimbledon-jannik-sinner-begeistert-mit-sieg-ueber-carlos-alcaraz-pressestimmen](https://www.spiegel.de/sport/tennis/wimbledon-jannik-sinner-begeistert-mit-sieg-ueber-carlos-alcaraz-pressestimmen-a-7d81d49a-da50-4f55-a338-1f2d6214f591#ref=rss)
+### pressestimmen
+
+* [https://www.spiegel.de/sport/tennis/wimbledon-jannik-sinner-begeistert-mit-sieg-ueber-carlos-alcaraz-pressestimmen](https://www.spiegel.de/sport/tennis/wimbledon-jannik-sinner-begeistert-mit-sieg-ueber-carlos-alcaraz-pressestimmen-a-7d81d49a-da50-4f55-a338-1f2d6214f591#ref=rss)
+### bitcoin
+
+* [https://www.spiegel.de/wirtschaft/bitcoin-kryptowaehrung-ueberspringt-120-000-dollar-marke](https://www.spiegel.de/wirtschaft/bitcoin-kryptowaehrung-ueberspringt-120-000-dollar-marke-a-41aeef0f-1afd-485e-92ed-b4257f28b9ba#ref=rss)
+### kryptowährung
+
+* [https://www.spiegel.de/wirtschaft/bitcoin-kryptowaehrung-ueberspringt-120-000-dollar-marke](https://www.spiegel.de/wirtschaft/bitcoin-kryptowaehrung-ueberspringt-120-000-dollar-marke-a-41aeef0f-1afd-485e-92ed-b4257f28b9ba#ref=rss)
+### leisten
+
+* [https://www.spiegel.de/politik/deutschland/noch-so-ein-debakel-kann-merz-sich-nicht-leisten](https://www.spiegel.de/politik/deutschland/noch-so-ein-debakel-kann-merz-sich-nicht-leisten-a-0da3e1e3-e425-476a-b317-407b3ad4dc2c#ref=rss)
+### könig
+
+* [https://www.spiegel.de/panorama/leute/donald-trump-besucht-koenig-charles-im-september-auf-schloss-windsor](https://www.spiegel.de/panorama/leute/donald-trump-besucht-koenig-charles-im-september-auf-schloss-windsor-a-18b77940-8203-418b-92f8-c390d8a656bc#ref=rss)
+### charles
+
+* [https://www.spiegel.de/panorama/leute/donald-trump-besucht-koenig-charles-im-september-auf-schloss-windsor](https://www.spiegel.de/panorama/leute/donald-trump-besucht-koenig-charles-im-september-auf-schloss-windsor-a-18b77940-8203-418b-92f8-c390d8a656bc#ref=rss)
+### september
+
+* [https://www.spiegel.de/panorama/leute/donald-trump-besucht-koenig-charles-im-september-auf-schloss-windsor](https://www.spiegel.de/panorama/leute/donald-trump-besucht-koenig-charles-im-september-auf-schloss-windsor-a-18b77940-8203-418b-92f8-c390d8a656bc#ref=rss)
 
