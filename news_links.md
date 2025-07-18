@@ -4,265 +4,406 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### donald
-
-* [https://www.spiegel.de/ausland/epstein-akten-donald-trump-sagt-pam-bondi-macht-einen-fantastischen-job-wie-lange-noch](https://www.spiegel.de/ausland/epstein-akten-donald-trump-sagt-pam-bondi-macht-einen-fantastischen-job-wie-lange-noch-a-00607104-1503-4118-a977-4b676af1a313#ref=rss)
-* [https://www.spiegel.de/ausland/us-senat-demokraten-verlassen-sitzung-wegen-donald-trumps-richterkandidat-emil-bove](https://www.spiegel.de/ausland/us-senat-demokraten-verlassen-sitzung-wegen-donald-trumps-richterkandidat-emil-bove-a-6d4d60a3-718c-4479-a0bf-8c016367d329#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-und-der-westen-donald-trump-bei-laune-zu-halten-wird-nicht-reichen](https://www.spiegel.de/ausland/ukraine-und-der-westen-donald-trump-bei-laune-zu-halten-wird-nicht-reichen-a-28fed812-6743-422b-b37d-7171de4537b0#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-wendet-sich-donald-trump-von-wladimir-putin-ab](https://www.spiegel.de/ausland/ukraine-krieg-wendet-sich-donald-trump-von-wladimir-putin-ab-a-e6c68723-4c48-46d6-9766-3d243701dc4e#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/epstein-akten-donald-trump-sagt-pam-bondi-macht-einen-fantastischen-job-wie-lange-noch](https://www.spiegel.de/ausland/epstein-akten-donald-trump-sagt-pam-bondi-macht-einen-fantastischen-job-wie-lange-noch-a-00607104-1503-4118-a977-4b676af1a313#ref=rss)
-* [https://www.spiegel.de/ausland/us-senat-demokraten-verlassen-sitzung-wegen-donald-trumps-richterkandidat-emil-bove](https://www.spiegel.de/ausland/us-senat-demokraten-verlassen-sitzung-wegen-donald-trumps-richterkandidat-emil-bove-a-6d4d60a3-718c-4479-a0bf-8c016367d329#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-und-der-westen-donald-trump-bei-laune-zu-halten-wird-nicht-reichen](https://www.spiegel.de/ausland/ukraine-und-der-westen-donald-trump-bei-laune-zu-halten-wird-nicht-reichen-a-28fed812-6743-422b-b37d-7171de4537b0#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-wendet-sich-donald-trump-von-wladimir-putin-ab](https://www.spiegel.de/ausland/ukraine-krieg-wendet-sich-donald-trump-von-wladimir-putin-ab-a-e6c68723-4c48-46d6-9766-3d243701dc4e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/powell-rechtfertigt-renovierung-von-fed-hauptquartier](https://www.spiegel.de/wirtschaft/powell-rechtfertigt-renovierung-von-fed-hauptquartier-a-2f6bbd8a-c31f-4ebf-bbbc-8ec750d1254d#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/richterstreit-friedrich-merz-stellt-sich-vor-frauke-brosius-gersdorf-aber-haelt-sich-ihre-wahl-offen](https://www.spiegel.de/politik/deutschland/richterstreit-friedrich-merz-stellt-sich-vor-frauke-brosius-gersdorf-aber-haelt-sich-ihre-wahl-offen-a-8777d71b-3777-45b0-8bca-4b20990ae549#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-und-der-westen-donald-trump-bei-laune-zu-halten-wird-nicht-reichen](https://www.spiegel.de/ausland/ukraine-und-der-westen-donald-trump-bei-laune-zu-halten-wird-nicht-reichen-a-28fed812-6743-422b-b37d-7171de4537b0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-spricht-auf-sommerpressekonferenz-hier-im-livestream](https://www.spiegel.de/politik/deutschland/friedrich-merz-spricht-auf-sommerpressekonferenz-hier-im-livestream-a-709541ee-e217-4ea5-b5b9-73ba4d9ed1bf#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/netzwelt/apps/netflix-bringt-mehr-ki-auf-den-bildschirm](https://www.spiegel.de/netzwelt/apps/netflix-bringt-mehr-ki-auf-den-bildschirm-a-0d3a7902-7c25-4e95-a6c5-33392d826ad1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bamf-entscheidet-wieder-ueber-asylantraege-aus-gaza](https://www.spiegel.de/politik/deutschland/bamf-entscheidet-wieder-ueber-asylantraege-aus-gaza-a-c8886bdf-5355-4cd2-9db1-46c36e2a7ec8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/karge-ernten-bei-erdbeeren-und-spargel](https://www.spiegel.de/wirtschaft/karge-ernten-bei-erdbeeren-und-spargel-a-f3a21e5c-587b-4602-b95a-c898d7bebae4#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/kultur/musik/k-popband-1verse-flucht-aus-nordkorea-ins-popstar-dasein](https://www.spiegel.de/kultur/musik/k-popband-1verse-flucht-aus-nordkorea-ins-popstar-dasein-a-8e4fea04-d391-452c-b9a0-5c95c77e8460#ref=rss)
-* [https://www.spiegel.de/panorama/leute/coldplay-produziert-zwei-neue-singles-wie-chris-martin-aus-versehen-eine-affaere-aufgedeckt-hat](https://www.spiegel.de/panorama/leute/coldplay-produziert-zwei-neue-singles-wie-chris-martin-aus-versehen-eine-affaere-aufgedeckt-hat-a-6d6e6dee-623f-4030-b8f1-f042cc872e58#ref=rss)
-* [https://www.spiegel.de/sport/fussball/klara-buehl-bei-der-fussball-em-2025-die-zwei-gesichter-der-dfb-stuermerin](https://www.spiegel.de/sport/fussball/klara-buehl-bei-der-fussball-em-2025-die-zwei-gesichter-der-dfb-stuermerin-a-ab241261-f311-46e5-8fff-68f97e089411#ref=rss)
-* [https://www.spiegel.de/ausland/israel-abgelehnt-im-inland-und-im-ausland-das-leben-eines-israelischen-pazifisten](https://www.spiegel.de/ausland/israel-abgelehnt-im-inland-und-im-ausland-das-leben-eines-israelischen-pazifisten-a-85d6e8a4-5d4b-419b-99a0-7d8251c52109#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/wirtschaft/porsche-autobauer-offenbar-vor-neuem-sparprogramm](https://www.spiegel.de/wirtschaft/porsche-autobauer-offenbar-vor-neuem-sparprogramm-a-707e50d6-7eec-43aa-9b2d-bae65f55e419#ref=rss)
-* [https://www.spiegel.de/kultur/musik/k-popband-1verse-flucht-aus-nordkorea-ins-popstar-dasein](https://www.spiegel.de/kultur/musik/k-popband-1verse-flucht-aus-nordkorea-ins-popstar-dasein-a-8e4fea04-d391-452c-b9a0-5c95c77e8460#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-datenleck-betrifft-offenbar-ueber-100-britische-spione-und-spezialkraefte](https://www.spiegel.de/ausland/afghanistan-datenleck-betrifft-offenbar-ueber-100-britische-spione-und-spezialkraefte-a-a207b7e4-b8d1-4881-8290-aeb13294e440#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/ausland/epstein-akten-donald-trump-sagt-pam-bondi-macht-einen-fantastischen-job-wie-lange-noch](https://www.spiegel.de/ausland/epstein-akten-donald-trump-sagt-pam-bondi-macht-einen-fantastischen-job-wie-lange-noch-a-00607104-1503-4118-a977-4b676af1a313#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-wendet-sich-donald-trump-von-wladimir-putin-ab](https://www.spiegel.de/ausland/ukraine-krieg-wendet-sich-donald-trump-von-wladimir-putin-ab-a-e6c68723-4c48-46d6-9766-3d243701dc4e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/powell-rechtfertigt-renovierung-von-fed-hauptquartier](https://www.spiegel.de/wirtschaft/powell-rechtfertigt-renovierung-von-fed-hauptquartier-a-2f6bbd8a-c31f-4ebf-bbbc-8ec750d1254d#ref=rss)
-### neue
-
-* [https://www.spiegel.de/kultur/musik/k-popband-1verse-flucht-aus-nordkorea-ins-popstar-dasein](https://www.spiegel.de/kultur/musik/k-popband-1verse-flucht-aus-nordkorea-ins-popstar-dasein-a-8e4fea04-d391-452c-b9a0-5c95c77e8460#ref=rss)
-* [https://www.spiegel.de/panorama/leute/coldplay-produziert-zwei-neue-singles-wie-chris-martin-aus-versehen-eine-affaere-aufgedeckt-hat](https://www.spiegel.de/panorama/leute/coldplay-produziert-zwei-neue-singles-wie-chris-martin-aus-versehen-eine-affaere-aufgedeckt-hat-a-6d6e6dee-623f-4030-b8f1-f042cc872e58#ref=rss)
-* [https://www.spiegel.de/ausland/eu-verhaengt-neue-russland-sanktionen](https://www.spiegel.de/ausland/eu-verhaengt-neue-russland-sanktionen-a-4658d30e-73ea-4cf5-9786-4f80dd9541d9#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/richterstreit-friedrich-merz-stellt-sich-vor-frauke-brosius-gersdorf-aber-haelt-sich-ihre-wahl-offen](https://www.spiegel.de/politik/deutschland/richterstreit-friedrich-merz-stellt-sich-vor-frauke-brosius-gersdorf-aber-haelt-sich-ihre-wahl-offen-a-8777d71b-3777-45b0-8bca-4b20990ae549#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-spricht-auf-sommerpressekonferenz-hier-im-livestream](https://www.spiegel.de/politik/deutschland/friedrich-merz-spricht-auf-sommerpressekonferenz-hier-im-livestream-a-709541ee-e217-4ea5-b5b9-73ba4d9ed1bf#ref=rss)
-### fahren
-
-* [https://www.spiegel.de/auto/auto-fahren-alkohol-verbot-bis-zum-25-lebensjahr-das-fordern-versicherer](https://www.spiegel.de/auto/auto-fahren-alkohol-verbot-bis-zum-25-lebensjahr-das-fordern-versicherer-a-f1ac5cad-c75e-4d7b-a19d-1f92335f2c06#ref=rss)
-* [https://www.spiegel.de/auto/uber-lucid-soll-20-000-suv-fuer-autonomes-fahren-liefern](https://www.spiegel.de/auto/uber-lucid-soll-20-000-suv-fuer-autonomes-fahren-liefern-a-7f264a02-c61e-48e6-a6ae-2cad77e4e9d5#ref=rss)
-### viele
-
-* [https://www.spiegel.de/auto/auto-fahren-alkohol-verbot-bis-zum-25-lebensjahr-das-fordern-versicherer](https://www.spiegel.de/auto/auto-fahren-alkohol-verbot-bis-zum-25-lebensjahr-das-fordern-versicherer-a-f1ac5cad-c75e-4d7b-a19d-1f92335f2c06#ref=rss)
-* [https://www.spiegel.de/auto/uber-lucid-soll-20-000-suv-fuer-autonomes-fahren-liefern](https://www.spiegel.de/auto/uber-lucid-soll-20-000-suv-fuer-autonomes-fahren-liefern-a-7f264a02-c61e-48e6-a6ae-2cad77e4e9d5#ref=rss)
-* [https://www.spiegel.de/sport/nachruf-auf-felix-baumgartner-der-sturz](https://www.spiegel.de/sport/nachruf-auf-felix-baumgartner-der-sturz-a-b161163d-9ba3-40b8-b4b5-40e541d29de5#ref=rss)
-### lage
-
-* [https://www.spiegel.de/politik/deutschland/bamf-entscheidet-wieder-ueber-asylantraege-aus-gaza](https://www.spiegel.de/politik/deutschland/bamf-entscheidet-wieder-ueber-asylantraege-aus-gaza-a-c8886bdf-5355-4cd2-9db1-46c36e2a7ec8#ref=rss)
-* [https://www.spiegel.de/panorama/lage-bei-bielefeld-feuerwehr-hebt-feststeckendes-pferd-aus-bachlauf](https://www.spiegel.de/panorama/lage-bei-bielefeld-feuerwehr-hebt-feststeckendes-pferd-aus-bachlauf-a-30c93e18-76e0-430d-b697-a3ba29a3a8ca#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-so-ist-die-lage-an-der-front](https://www.spiegel.de/ausland/russland-ukraine-krieg-so-ist-die-lage-an-der-front-a-a0f6ad15-11eb-4bb4-9211-73b07082e59a#ref=rss)
-### wladimir
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-wendet-sich-donald-trump-von-wladimir-putin-ab](https://www.spiegel.de/ausland/ukraine-krieg-wendet-sich-donald-trump-von-wladimir-putin-ab-a-e6c68723-4c48-46d6-9766-3d243701dc4e#ref=rss)
-* [https://www.spiegel.de/ausland/eu-verhaengt-neue-russland-sanktionen](https://www.spiegel.de/ausland/eu-verhaengt-neue-russland-sanktionen-a-4658d30e-73ea-4cf5-9786-4f80dd9541d9#ref=rss)
-### putin
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-wendet-sich-donald-trump-von-wladimir-putin-ab](https://www.spiegel.de/ausland/ukraine-krieg-wendet-sich-donald-trump-von-wladimir-putin-ab-a-e6c68723-4c48-46d6-9766-3d243701dc4e#ref=rss)
-* [https://www.spiegel.de/ausland/eu-verhaengt-neue-russland-sanktionen](https://www.spiegel.de/ausland/eu-verhaengt-neue-russland-sanktionen-a-4658d30e-73ea-4cf5-9786-4f80dd9541d9#ref=rss)
-### mauna
-
-* [https://www.spiegel.de/wissenschaft/mauna-loa-klima-messstation-auf-hawaii-von-schliessung-bedroht](https://www.spiegel.de/wissenschaft/mauna-loa-klima-messstation-auf-hawaii-von-schliessung-bedroht-a-68e6d3f1-c525-4a92-84e2-3f38745ed22c#ref=rss)
-### loa
-
-* [https://www.spiegel.de/wissenschaft/mauna-loa-klima-messstation-auf-hawaii-von-schliessung-bedroht](https://www.spiegel.de/wissenschaft/mauna-loa-klima-messstation-auf-hawaii-von-schliessung-bedroht-a-68e6d3f1-c525-4a92-84e2-3f38745ed22c#ref=rss)
-### geld
-
-* [https://www.spiegel.de/wissenschaft/mauna-loa-klima-messstation-auf-hawaii-von-schliessung-bedroht](https://www.spiegel.de/wissenschaft/mauna-loa-klima-messstation-auf-hawaii-von-schliessung-bedroht-a-68e6d3f1-c525-4a92-84e2-3f38745ed22c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/tod-von-13-jaehriger-auf-klassenfahrt-vater-verklagt-das-land-nrw](https://www.spiegel.de/panorama/justiz/tod-von-13-jaehriger-auf-klassenfahrt-vater-verklagt-das-land-nrw-a-65fc7aec-da38-4356-b1ce-fa9b5db763cb#ref=rss)
-### porsche
-
-* [https://www.spiegel.de/wirtschaft/porsche-autobauer-offenbar-vor-neuem-sparprogramm](https://www.spiegel.de/wirtschaft/porsche-autobauer-offenbar-vor-neuem-sparprogramm-a-707e50d6-7eec-43aa-9b2d-bae65f55e419#ref=rss)
-### bekommen
-
-* [https://www.spiegel.de/wirtschaft/porsche-autobauer-offenbar-vor-neuem-sparprogramm](https://www.spiegel.de/wirtschaft/porsche-autobauer-offenbar-vor-neuem-sparprogramm-a-707e50d6-7eec-43aa-9b2d-bae65f55e419#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/netflix-bringt-mehr-ki-auf-den-bildschirm](https://www.spiegel.de/netzwelt/apps/netflix-bringt-mehr-ki-auf-den-bildschirm-a-0d3a7902-7c25-4e95-a6c5-33392d826ad1#ref=rss)
-### pam
-
-* [https://www.spiegel.de/ausland/epstein-akten-donald-trump-sagt-pam-bondi-macht-einen-fantastischen-job-wie-lange-noch](https://www.spiegel.de/ausland/epstein-akten-donald-trump-sagt-pam-bondi-macht-einen-fantastischen-job-wie-lange-noch-a-00607104-1503-4118-a977-4b676af1a313#ref=rss)
-### bondi
-
-* [https://www.spiegel.de/ausland/epstein-akten-donald-trump-sagt-pam-bondi-macht-einen-fantastischen-job-wie-lange-noch](https://www.spiegel.de/ausland/epstein-akten-donald-trump-sagt-pam-bondi-macht-einen-fantastischen-job-wie-lange-noch-a-00607104-1503-4118-a977-4b676af1a313#ref=rss)
-### job
-
-* [https://www.spiegel.de/ausland/epstein-akten-donald-trump-sagt-pam-bondi-macht-einen-fantastischen-job-wie-lange-noch](https://www.spiegel.de/ausland/epstein-akten-donald-trump-sagt-pam-bondi-macht-einen-fantastischen-job-wie-lange-noch-a-00607104-1503-4118-a977-4b676af1a313#ref=rss)
-* [https://www.spiegel.de/start/berufswahl-persoenlichkeit-spielt-entscheidende-rolle-wie-man-das-beruecksichtigt](https://www.spiegel.de/start/berufswahl-persoenlichkeit-spielt-entscheidende-rolle-wie-man-das-beruecksichtigt-a-79bc7e52-f77d-471b-8465-4ca0dd85d984#ref=rss)
-### lange
-
-* [https://www.spiegel.de/ausland/epstein-akten-donald-trump-sagt-pam-bondi-macht-einen-fantastischen-job-wie-lange-noch](https://www.spiegel.de/ausland/epstein-akten-donald-trump-sagt-pam-bondi-macht-einen-fantastischen-job-wie-lange-noch-a-00607104-1503-4118-a977-4b676af1a313#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-wendet-sich-donald-trump-von-wladimir-putin-ab](https://www.spiegel.de/ausland/ukraine-krieg-wendet-sich-donald-trump-von-wladimir-putin-ab-a-e6c68723-4c48-46d6-9766-3d243701dc4e#ref=rss)
-### skandal
-
-* [https://www.spiegel.de/ausland/epstein-akten-donald-trump-sagt-pam-bondi-macht-einen-fantastischen-job-wie-lange-noch](https://www.spiegel.de/ausland/epstein-akten-donald-trump-sagt-pam-bondi-macht-einen-fantastischen-job-wie-lange-noch-a-00607104-1503-4118-a977-4b676af1a313#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-datenleck-betrifft-offenbar-ueber-100-britische-spione-und-spezialkraefte](https://www.spiegel.de/ausland/afghanistan-datenleck-betrifft-offenbar-ueber-100-britische-spione-und-spezialkraefte-a-a207b7e4-b8d1-4881-8290-aeb13294e440#ref=rss)
-### ki
-
-* [https://www.spiegel.de/netzwelt/apps/netflix-bringt-mehr-ki-auf-den-bildschirm](https://www.spiegel.de/netzwelt/apps/netflix-bringt-mehr-ki-auf-den-bildschirm-a-0d3a7902-7c25-4e95-a6c5-33392d826ad1#ref=rss)
-### bald
-
-* [https://www.spiegel.de/netzwelt/apps/netflix-bringt-mehr-ki-auf-den-bildschirm](https://www.spiegel.de/netzwelt/apps/netflix-bringt-mehr-ki-auf-den-bildschirm-a-0d3a7902-7c25-4e95-a6c5-33392d826ad1#ref=rss)
-* [https://www.spiegel.de/auto/uber-lucid-soll-20-000-suv-fuer-autonomes-fahren-liefern](https://www.spiegel.de/auto/uber-lucid-soll-20-000-suv-fuer-autonomes-fahren-liefern-a-7f264a02-c61e-48e6-a6ae-2cad77e4e9d5#ref=rss)
-### 1verse
-
-* [https://www.spiegel.de/kultur/musik/k-popband-1verse-flucht-aus-nordkorea-ins-popstar-dasein](https://www.spiegel.de/kultur/musik/k-popband-1verse-flucht-aus-nordkorea-ins-popstar-dasein-a-8e4fea04-d391-452c-b9a0-5c95c77e8460#ref=rss)
-### kpop
-
-* [https://www.spiegel.de/kultur/musik/k-popband-1verse-flucht-aus-nordkorea-ins-popstar-dasein](https://www.spiegel.de/kultur/musik/k-popband-1verse-flucht-aus-nordkorea-ins-popstar-dasein-a-8e4fea04-d391-452c-b9a0-5c95c77e8460#ref=rss)
-### stellt
-
-* [https://www.spiegel.de/politik/deutschland/richterstreit-friedrich-merz-stellt-sich-vor-frauke-brosius-gersdorf-aber-haelt-sich-ihre-wahl-offen](https://www.spiegel.de/politik/deutschland/richterstreit-friedrich-merz-stellt-sich-vor-frauke-brosius-gersdorf-aber-haelt-sich-ihre-wahl-offen-a-8777d71b-3777-45b0-8bca-4b20990ae549#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-spricht-auf-sommerpressekonferenz-hier-im-livestream](https://www.spiegel.de/politik/deutschland/friedrich-merz-spricht-auf-sommerpressekonferenz-hier-im-livestream-a-709541ee-e217-4ea5-b5b9-73ba4d9ed1bf#ref=rss)
 ### frauke
 
-* [https://www.spiegel.de/politik/deutschland/richterstreit-friedrich-merz-stellt-sich-vor-frauke-brosius-gersdorf-aber-haelt-sich-ihre-wahl-offen](https://www.spiegel.de/politik/deutschland/richterstreit-friedrich-merz-stellt-sich-vor-frauke-brosius-gersdorf-aber-haelt-sich-ihre-wahl-offen-a-8777d71b-3777-45b0-8bca-4b20990ae549#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet](https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet-a-3152dba0-771c-43bf-93e3-7b2a951abed3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet](https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet-a-ac90de16-842d-4399-9f5f-37a34607f9af#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-abschiebung-nach-afghanistan-frauke-brosius-gersdorf-epstein-skandal](https://www.spiegel.de/politik/deutschland/news-des-tages-abschiebung-nach-afghanistan-frauke-brosius-gersdorf-epstein-skandal-a-dfb0dd2a-1f9c-40bf-9374-2258f6f64efa#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-frauke-brosius-gersdorf-stiehlt-dem-kanzler-die-show](https://www.spiegel.de/politik/deutschland/friedrich-merz-frauke-brosius-gersdorf-stiehlt-dem-kanzler-die-show-a-66054994-3080-48ca-957f-5e70470df599#ref=rss)
 ### brosiusgersdorf
 
-* [https://www.spiegel.de/politik/deutschland/richterstreit-friedrich-merz-stellt-sich-vor-frauke-brosius-gersdorf-aber-haelt-sich-ihre-wahl-offen](https://www.spiegel.de/politik/deutschland/richterstreit-friedrich-merz-stellt-sich-vor-frauke-brosius-gersdorf-aber-haelt-sich-ihre-wahl-offen-a-8777d71b-3777-45b0-8bca-4b20990ae549#ref=rss)
-### 25
+* [https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet](https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet-a-3152dba0-771c-43bf-93e3-7b2a951abed3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet](https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet-a-ac90de16-842d-4399-9f5f-37a34607f9af#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-abschiebung-nach-afghanistan-frauke-brosius-gersdorf-epstein-skandal](https://www.spiegel.de/politik/deutschland/news-des-tages-abschiebung-nach-afghanistan-frauke-brosius-gersdorf-epstein-skandal-a-dfb0dd2a-1f9c-40bf-9374-2258f6f64efa#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-frauke-brosius-gersdorf-stiehlt-dem-kanzler-die-show](https://www.spiegel.de/politik/deutschland/friedrich-merz-frauke-brosius-gersdorf-stiehlt-dem-kanzler-die-show-a-66054994-3080-48ca-957f-5e70470df599#ref=rss)
+### dobrindt
 
-* [https://www.spiegel.de/auto/auto-fahren-alkohol-verbot-bis-zum-25-lebensjahr-das-fordern-versicherer](https://www.spiegel.de/auto/auto-fahren-alkohol-verbot-bis-zum-25-lebensjahr-das-fordern-versicherer-a-f1ac5cad-c75e-4d7b-a19d-1f92335f2c06#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/migration-alexander-dobrindt-will-schaerfere-regeln-in-europa](https://www.spiegel.de/politik/deutschland/migration-alexander-dobrindt-will-schaerfere-regeln-in-europa-a-4fdfdd34-9832-4cb6-93f3-f0f5dddd45db#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-abschiebung-nach-afghanistan-frauke-brosius-gersdorf-epstein-skandal](https://www.spiegel.de/politik/deutschland/news-des-tages-abschiebung-nach-afghanistan-frauke-brosius-gersdorf-epstein-skandal-a-dfb0dd2a-1f9c-40bf-9374-2258f6f64efa#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/asyl-alexander-dobrindt-kuendigt-schnellere-rueckfuehrungen-an](https://www.spiegel.de/politik/deutschland/asyl-alexander-dobrindt-kuendigt-schnellere-rueckfuehrungen-an-a-c0de60e7-9c5d-4e23-8749-3b6613689053#ref=rss)
+### drei
+
+* [https://www.spiegel.de/panorama/los-angeles-drei-menschen-sterben-bei-explosion-auf-polizeigelaende](https://www.spiegel.de/panorama/los-angeles-drei-menschen-sterben-bei-explosion-auf-polizeigelaende-a-baddff7a-711c-40ef-9873-cc15220fc803#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/erfurt-ermittlungen-gegen-drei-verdaechtige-nach-brandanschlag-auf-bundeswehr-lkw](https://www.spiegel.de/panorama/justiz/erfurt-ermittlungen-gegen-drei-verdaechtige-nach-brandanschlag-auf-bundeswehr-lkw-a-eb584c8c-bc83-4df6-83bf-4e97605b3413#ref=rss)
+* [https://www.spiegel.de/ausland/wladimir-putin-und-donald-trump-im-kreml-gibt-es-drei-plaene-fuer-den-umgang-mit-trump](https://www.spiegel.de/ausland/wladimir-putin-und-donald-trump-im-kreml-gibt-es-drei-plaene-fuer-den-umgang-mit-trump-a-d9d2bc6f-ba9d-40bf-8d87-ab3eed8a6d1a#ref=rss)
+### cdu
+
+* [https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet](https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet-a-3152dba0-771c-43bf-93e3-7b2a951abed3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet](https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet-a-ac90de16-842d-4399-9f5f-37a34607f9af#ref=rss)
+### innenminister
+
+* [https://www.spiegel.de/politik/deutschland/migration-alexander-dobrindt-will-schaerfere-regeln-in-europa](https://www.spiegel.de/politik/deutschland/migration-alexander-dobrindt-will-schaerfere-regeln-in-europa-a-4fdfdd34-9832-4cb6-93f3-f0f5dddd45db#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-abschiebung-nach-afghanistan-frauke-brosius-gersdorf-epstein-skandal](https://www.spiegel.de/politik/deutschland/news-des-tages-abschiebung-nach-afghanistan-frauke-brosius-gersdorf-epstein-skandal-a-dfb0dd2a-1f9c-40bf-9374-2258f6f64efa#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/asyl-alexander-dobrindt-kuendigt-schnellere-rueckfuehrungen-an](https://www.spiegel.de/politik/deutschland/asyl-alexander-dobrindt-kuendigt-schnellere-rueckfuehrungen-an-a-c0de60e7-9c5d-4e23-8749-3b6613689053#ref=rss)
+* [https://www.spiegel.de/ausland/italien-matteo-salvini-muss-wieder-vor-gericht](https://www.spiegel.de/ausland/italien-matteo-salvini-muss-wieder-vor-gericht-a-284afeed-0ec6-4046-bbc2-12ec6b1510cb#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/wirtschaft/energie-us-oelkonzern-chevron-siegt-im-rechtsstreit-mit-exxon-ueber-oelfeld-in-guyana](https://www.spiegel.de/wirtschaft/energie-us-oelkonzern-chevron-siegt-im-rechtsstreit-mit-exxon-ueber-oelfeld-in-guyana-a-72a4e08a-cc21-4cc9-b8e8-f7d42268a1d2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/asyl-alexander-dobrindt-kuendigt-schnellere-rueckfuehrungen-an](https://www.spiegel.de/politik/deutschland/asyl-alexander-dobrindt-kuendigt-schnellere-rueckfuehrungen-an-a-c0de60e7-9c5d-4e23-8749-3b6613689053#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-mit-tulpennetzen-und-schrotflinten-gegen-putins-drohnen](https://www.spiegel.de/ausland/russland-ukraine-krieg-mit-tulpennetzen-und-schrotflinten-gegen-putins-drohnen-a-ce881ee9-4691-4ea9-bfa5-1f6832a6f7a7#ref=rss)
+* [https://www.spiegel.de/sport/fussball/england-fussball-klubs-und-ihre-promiinvestoren-snoop-dogg-ryan-reynolds-claudia-schiffer](https://www.spiegel.de/sport/fussball/england-fussball-klubs-und-ihre-promiinvestoren-snoop-dogg-ryan-reynolds-claudia-schiffer-a-a6a4d08e-0acc-43b2-a884-53e641e270f7#ref=rss)
+### neue
+
+* [https://www.spiegel.de/ausland/syrien-wer-kaempft-hier-eigentlich-gegen-wen](https://www.spiegel.de/ausland/syrien-wer-kaempft-hier-eigentlich-gegen-wen-a-397efc7d-2448-47e5-ac3a-164d10353b16#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/matthias-platzeck-ex-spd-chef-fliegt-regelmaessig-nach-moskau](https://www.spiegel.de/politik/deutschland/matthias-platzeck-ex-spd-chef-fliegt-regelmaessig-nach-moskau-a-dae5c9b2-15c9-4bd2-87ff-1cb96e944333#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/langenau-75-jaehriger-muss-t-shirt-mit-hamas-parole-aushaendigen](https://www.spiegel.de/panorama/justiz/langenau-75-jaehriger-muss-t-shirt-mit-hamas-parole-aushaendigen-a-ecee13a2-59bb-405a-a81c-14277208ecae#ref=rss)
+### zeigen
+
+* [https://www.spiegel.de/ausland/syrien-wer-kaempft-hier-eigentlich-gegen-wen](https://www.spiegel.de/ausland/syrien-wer-kaempft-hier-eigentlich-gegen-wen-a-397efc7d-2448-47e5-ac3a-164d10353b16#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/matthias-platzeck-ex-spd-chef-fliegt-regelmaessig-nach-moskau](https://www.spiegel.de/politik/deutschland/matthias-platzeck-ex-spd-chef-fliegt-regelmaessig-nach-moskau-a-dae5c9b2-15c9-4bd2-87ff-1cb96e944333#ref=rss)
+* [https://www.spiegel.de/ausland/brasilien-jair-bolsonaro-bekommt-fussfessel-und-social-media-verbot](https://www.spiegel.de/ausland/brasilien-jair-bolsonaro-bekommt-fussfessel-und-social-media-verbot-a-1a1412c5-3e5e-4511-895a-3c102f799e26#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/auto/auto-fahren-alkohol-verbot-bis-zum-25-lebensjahr-das-fordern-versicherer](https://www.spiegel.de/auto/auto-fahren-alkohol-verbot-bis-zum-25-lebensjahr-das-fordern-versicherer-a-f1ac5cad-c75e-4d7b-a19d-1f92335f2c06#ref=rss)
-* [https://www.spiegel.de/sport/nachruf-auf-felix-baumgartner-der-sturz](https://www.spiegel.de/sport/nachruf-auf-felix-baumgartner-der-sturz-a-b161163d-9ba3-40b8-b4b5-40e541d29de5#ref=rss)
-### bamf
+* [https://www.spiegel.de/panorama/los-angeles-drei-menschen-sterben-bei-explosion-auf-polizeigelaende](https://www.spiegel.de/panorama/los-angeles-drei-menschen-sterben-bei-explosion-auf-polizeigelaende-a-baddff7a-711c-40ef-9873-cc15220fc803#ref=rss)
+* [https://www.spiegel.de/ausland/grossmanoever-in-taiwan-die-strassen-sind-wie-leergefegt](https://www.spiegel.de/ausland/grossmanoever-in-taiwan-die-strassen-sind-wie-leergefegt-a-0fd5cd03-fa23-4782-8fdb-a869058e8ca2#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/politik/deutschland/bamf-entscheidet-wieder-ueber-asylantraege-aus-gaza](https://www.spiegel.de/politik/deutschland/bamf-entscheidet-wieder-ueber-asylantraege-aus-gaza-a-c8886bdf-5355-4cd2-9db1-46c36e2a7ec8#ref=rss)
-### asylanträge
+* [https://www.spiegel.de/panorama/los-angeles-drei-menschen-sterben-bei-explosion-auf-polizeigelaende](https://www.spiegel.de/panorama/los-angeles-drei-menschen-sterben-bei-explosion-auf-polizeigelaende-a-baddff7a-711c-40ef-9873-cc15220fc803#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/neckar-wasserschutzpolizei-stoppt-bekifften-kapitaen-nach-schleusenunfall](https://www.spiegel.de/panorama/justiz/neckar-wasserschutzpolizei-stoppt-bekifften-kapitaen-nach-schleusenunfall-a-47e0ccc7-aa8b-4634-86a9-d51621140705#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/langenau-75-jaehriger-muss-t-shirt-mit-hamas-parole-aushaendigen](https://www.spiegel.de/panorama/justiz/langenau-75-jaehriger-muss-t-shirt-mit-hamas-parole-aushaendigen-a-ecee13a2-59bb-405a-a81c-14277208ecae#ref=rss)
+### ryan
 
-* [https://www.spiegel.de/politik/deutschland/bamf-entscheidet-wieder-ueber-asylantraege-aus-gaza](https://www.spiegel.de/politik/deutschland/bamf-entscheidet-wieder-ueber-asylantraege-aus-gaza-a-c8886bdf-5355-4cd2-9db1-46c36e2a7ec8#ref=rss)
-### gaza
+* [https://www.spiegel.de/sport/golf/golfer-ryan-peake-bei-der-british-open-der-ex-haeftling-der-es-zur-british-open-schaffte](https://www.spiegel.de/sport/golf/golfer-ryan-peake-bei-der-british-open-der-ex-haeftling-der-es-zur-british-open-schaffte-a-bc82fcd2-ff47-466e-9859-dcf97686aabc#ref=rss)
+* [https://www.spiegel.de/sport/fussball/england-fussball-klubs-und-ihre-promiinvestoren-snoop-dogg-ryan-reynolds-claudia-schiffer](https://www.spiegel.de/sport/fussball/england-fussball-klubs-und-ihre-promiinvestoren-snoop-dogg-ryan-reynolds-claudia-schiffer-a-a6a4d08e-0acc-43b2-a884-53e641e270f7#ref=rss)
+### kritik
 
-* [https://www.spiegel.de/politik/deutschland/bamf-entscheidet-wieder-ueber-asylantraege-aus-gaza](https://www.spiegel.de/politik/deutschland/bamf-entscheidet-wieder-ueber-asylantraege-aus-gaza-a-c8886bdf-5355-4cd2-9db1-46c36e2a7ec8#ref=rss)
-### chris
+* [https://www.spiegel.de/politik/deutschland/die-linke-kritik-an-verschobener-gaza-demo-der-linkspartei](https://www.spiegel.de/politik/deutschland/die-linke-kritik-an-verschobener-gaza-demo-der-linkspartei-a-6323f483-8084-498e-8214-fbbce99203df#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/matthias-platzeck-ex-spd-chef-fliegt-regelmaessig-nach-moskau](https://www.spiegel.de/politik/deutschland/matthias-platzeck-ex-spd-chef-fliegt-regelmaessig-nach-moskau-a-dae5c9b2-15c9-4bd2-87ff-1cb96e944333#ref=rss)
+### alexander
 
-* [https://www.spiegel.de/panorama/leute/coldplay-produziert-zwei-neue-singles-wie-chris-martin-aus-versehen-eine-affaere-aufgedeckt-hat](https://www.spiegel.de/panorama/leute/coldplay-produziert-zwei-neue-singles-wie-chris-martin-aus-versehen-eine-affaere-aufgedeckt-hat-a-6d6e6dee-623f-4030-b8f1-f042cc872e58#ref=rss)
-### martin
+* [https://www.spiegel.de/politik/deutschland/migration-alexander-dobrindt-will-schaerfere-regeln-in-europa](https://www.spiegel.de/politik/deutschland/migration-alexander-dobrindt-will-schaerfere-regeln-in-europa-a-4fdfdd34-9832-4cb6-93f3-f0f5dddd45db#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/asyl-alexander-dobrindt-kuendigt-schnellere-rueckfuehrungen-an](https://www.spiegel.de/politik/deutschland/asyl-alexander-dobrindt-kuendigt-schnellere-rueckfuehrungen-an-a-c0de60e7-9c5d-4e23-8749-3b6613689053#ref=rss)
+* [https://www.spiegel.de/ausland/wladimir-putin-und-donald-trump-im-kreml-gibt-es-drei-plaene-fuer-den-umgang-mit-trump](https://www.spiegel.de/ausland/wladimir-putin-und-donald-trump-im-kreml-gibt-es-drei-plaene-fuer-den-umgang-mit-trump-a-d9d2bc6f-ba9d-40bf-8d87-ab3eed8a6d1a#ref=rss)
+### mehrfach
 
-* [https://www.spiegel.de/panorama/leute/coldplay-produziert-zwei-neue-singles-wie-chris-martin-aus-versehen-eine-affaere-aufgedeckt-hat](https://www.spiegel.de/panorama/leute/coldplay-produziert-zwei-neue-singles-wie-chris-martin-aus-versehen-eine-affaere-aufgedeckt-hat-a-6d6e6dee-623f-4030-b8f1-f042cc872e58#ref=rss)
-### gute
+* [https://www.spiegel.de/panorama/justiz/neckar-wasserschutzpolizei-stoppt-bekifften-kapitaen-nach-schleusenunfall](https://www.spiegel.de/panorama/justiz/neckar-wasserschutzpolizei-stoppt-bekifften-kapitaen-nach-schleusenunfall-a-47e0ccc7-aa8b-4634-86a9-d51621140705#ref=rss)
+* [https://www.spiegel.de/ausland/brasilien-jair-bolsonaro-bekommt-fussfessel-und-social-media-verbot](https://www.spiegel.de/ausland/brasilien-jair-bolsonaro-bekommt-fussfessel-und-social-media-verbot-a-1a1412c5-3e5e-4511-895a-3c102f799e26#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/apolda-in-thueringen-47-jaehriger-mit-3-8-promille-sorgt-fuer-mehrere-polizeieinsaetze](https://www.spiegel.de/panorama/justiz/apolda-in-thueringen-47-jaehriger-mit-3-8-promille-sorgt-fuer-mehrere-polizeieinsaetze-a-4cf6a588-8d2d-44a0-adfa-d1eb4304b905#ref=rss)
+### gericht
 
-* [https://www.spiegel.de/wissenschaft/mensch/klimaschutz-diese-fuenf-news-machen-hoffnung](https://www.spiegel.de/wissenschaft/mensch/klimaschutz-diese-fuenf-news-machen-hoffnung-a-e3e83fd2-6fc1-4b37-ad12-723bb320f633#ref=rss)
-* [https://www.spiegel.de/sport/fussball/klara-buehl-bei-der-fussball-em-2025-die-zwei-gesichter-der-dfb-stuermerin](https://www.spiegel.de/sport/fussball/klara-buehl-bei-der-fussball-em-2025-die-zwei-gesichter-der-dfb-stuermerin-a-ab241261-f311-46e5-8fff-68f97e089411#ref=rss)
-### demokraten
+* [https://www.spiegel.de/ausland/brasilien-jair-bolsonaro-bekommt-fussfessel-und-social-media-verbot](https://www.spiegel.de/ausland/brasilien-jair-bolsonaro-bekommt-fussfessel-und-social-media-verbot-a-1a1412c5-3e5e-4511-895a-3c102f799e26#ref=rss)
+* [https://www.spiegel.de/ausland/italien-matteo-salvini-muss-wieder-vor-gericht](https://www.spiegel.de/ausland/italien-matteo-salvini-muss-wieder-vor-gericht-a-284afeed-0ec6-4046-bbc2-12ec6b1510cb#ref=rss)
+### trump
 
-* [https://www.spiegel.de/ausland/us-senat-demokraten-verlassen-sitzung-wegen-donald-trumps-richterkandidat-emil-bove](https://www.spiegel.de/ausland/us-senat-demokraten-verlassen-sitzung-wegen-donald-trumps-richterkandidat-emil-bove-a-6d4d60a3-718c-4479-a0bf-8c016367d329#ref=rss)
-### verlassen
+* [https://www.spiegel.de/ausland/brasilien-jair-bolsonaro-bekommt-fussfessel-und-social-media-verbot](https://www.spiegel.de/ausland/brasilien-jair-bolsonaro-bekommt-fussfessel-und-social-media-verbot-a-1a1412c5-3e5e-4511-895a-3c102f799e26#ref=rss)
+* [https://www.spiegel.de/ausland/wladimir-putin-und-donald-trump-im-kreml-gibt-es-drei-plaene-fuer-den-umgang-mit-trump](https://www.spiegel.de/ausland/wladimir-putin-und-donald-trump-im-kreml-gibt-es-drei-plaene-fuer-den-umgang-mit-trump-a-d9d2bc6f-ba9d-40bf-8d87-ab3eed8a6d1a#ref=rss)
+### syrien
 
-* [https://www.spiegel.de/ausland/us-senat-demokraten-verlassen-sitzung-wegen-donald-trumps-richterkandidat-emil-bove](https://www.spiegel.de/ausland/us-senat-demokraten-verlassen-sitzung-wegen-donald-trumps-richterkandidat-emil-bove-a-6d4d60a3-718c-4479-a0bf-8c016367d329#ref=rss)
-### klara
+* [https://www.spiegel.de/ausland/syrien-wer-kaempft-hier-eigentlich-gegen-wen](https://www.spiegel.de/ausland/syrien-wer-kaempft-hier-eigentlich-gegen-wen-a-397efc7d-2448-47e5-ac3a-164d10353b16#ref=rss)
+### kämpft
 
-* [https://www.spiegel.de/sport/fussball/klara-buehl-bei-der-fussball-em-2025-die-zwei-gesichter-der-dfb-stuermerin](https://www.spiegel.de/sport/fussball/klara-buehl-bei-der-fussball-em-2025-die-zwei-gesichter-der-dfb-stuermerin-a-ab241261-f311-46e5-8fff-68f97e089411#ref=rss)
-### bühl
+* [https://www.spiegel.de/ausland/syrien-wer-kaempft-hier-eigentlich-gegen-wen](https://www.spiegel.de/ausland/syrien-wer-kaempft-hier-eigentlich-gegen-wen-a-397efc7d-2448-47e5-ac3a-164d10353b16#ref=rss)
+* [https://www.spiegel.de/wirtschaft/massentourismus-in-spanien-barcelona-will-zahl-der-kreuzfahrtschiffe-deutlich-senken](https://www.spiegel.de/wirtschaft/massentourismus-in-spanien-barcelona-will-zahl-der-kreuzfahrtschiffe-deutlich-senken-a-c7f4a352-072a-40b2-a7ce-883a7b403e80#ref=rss)
+### wen
 
-* [https://www.spiegel.de/sport/fussball/klara-buehl-bei-der-fussball-em-2025-die-zwei-gesichter-der-dfb-stuermerin](https://www.spiegel.de/sport/fussball/klara-buehl-bei-der-fussball-em-2025-die-zwei-gesichter-der-dfb-stuermerin-a-ab241261-f311-46e5-8fff-68f97e089411#ref=rss)
-### fußballem
+* [https://www.spiegel.de/ausland/syrien-wer-kaempft-hier-eigentlich-gegen-wen](https://www.spiegel.de/ausland/syrien-wer-kaempft-hier-eigentlich-gegen-wen-a-397efc7d-2448-47e5-ac3a-164d10353b16#ref=rss)
+* [https://www.spiegel.de/sport/fussball/england-fussball-klubs-und-ihre-promiinvestoren-snoop-dogg-ryan-reynolds-claudia-schiffer](https://www.spiegel.de/sport/fussball/england-fussball-klubs-und-ihre-promiinvestoren-snoop-dogg-ryan-reynolds-claudia-schiffer-a-a6a4d08e-0acc-43b2-a884-53e641e270f7#ref=rss)
+### los
 
-* [https://www.spiegel.de/sport/fussball/klara-buehl-bei-der-fussball-em-2025-die-zwei-gesichter-der-dfb-stuermerin](https://www.spiegel.de/sport/fussball/klara-buehl-bei-der-fussball-em-2025-die-zwei-gesichter-der-dfb-stuermerin-a-ab241261-f311-46e5-8fff-68f97e089411#ref=rss)
-* [https://www.spiegel.de/sport/fussball/england-vs-schweden-bei-fussball-em-das-schlechteste-bitterste-und-beste-elfmeterschiessen](https://www.spiegel.de/sport/fussball/england-vs-schweden-bei-fussball-em-das-schlechteste-bitterste-und-beste-elfmeterschiessen-a-7ed55a94-91be-4704-8642-2d281a67136f#ref=rss)
-### uber
+* [https://www.spiegel.de/panorama/los-angeles-drei-menschen-sterben-bei-explosion-auf-polizeigelaende](https://www.spiegel.de/panorama/los-angeles-drei-menschen-sterben-bei-explosion-auf-polizeigelaende-a-baddff7a-711c-40ef-9873-cc15220fc803#ref=rss)
+### angeles
 
-* [https://www.spiegel.de/auto/uber-lucid-soll-20-000-suv-fuer-autonomes-fahren-liefern](https://www.spiegel.de/auto/uber-lucid-soll-20-000-suv-fuer-autonomes-fahren-liefern-a-7f264a02-c61e-48e6-a6ae-2cad77e4e9d5#ref=rss)
-### suv
+* [https://www.spiegel.de/panorama/los-angeles-drei-menschen-sterben-bei-explosion-auf-polizeigelaende](https://www.spiegel.de/panorama/los-angeles-drei-menschen-sterben-bei-explosion-auf-polizeigelaende-a-baddff7a-711c-40ef-9873-cc15220fc803#ref=rss)
+### explosion
 
-* [https://www.spiegel.de/auto/uber-lucid-soll-20-000-suv-fuer-autonomes-fahren-liefern](https://www.spiegel.de/auto/uber-lucid-soll-20-000-suv-fuer-autonomes-fahren-liefern-a-7f264a02-c61e-48e6-a6ae-2cad77e4e9d5#ref=rss)
-### bielefeld
+* [https://www.spiegel.de/panorama/los-angeles-drei-menschen-sterben-bei-explosion-auf-polizeigelaende](https://www.spiegel.de/panorama/los-angeles-drei-menschen-sterben-bei-explosion-auf-polizeigelaende-a-baddff7a-711c-40ef-9873-cc15220fc803#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/panorama/lage-bei-bielefeld-feuerwehr-hebt-feststeckendes-pferd-aus-bachlauf](https://www.spiegel.de/panorama/lage-bei-bielefeld-feuerwehr-hebt-feststeckendes-pferd-aus-bachlauf-a-30c93e18-76e0-430d-b697-a3ba29a3a8ca#ref=rss)
-### pferd
+* [https://www.spiegel.de/panorama/los-angeles-drei-menschen-sterben-bei-explosion-auf-polizeigelaende](https://www.spiegel.de/panorama/los-angeles-drei-menschen-sterben-bei-explosion-auf-polizeigelaende-a-baddff7a-711c-40ef-9873-cc15220fc803#ref=rss)
+* [https://www.spiegel.de/auto/verzoegerung-beim-regionalverkehr-stuttgart-21-soll-erst-2027-fertig-werden](https://www.spiegel.de/auto/verzoegerung-beim-regionalverkehr-stuttgart-21-soll-erst-2027-fertig-werden-a-d78442aa-d2c3-4028-ad18-86ea77f75b71#ref=rss)
+### derzeit
 
-* [https://www.spiegel.de/panorama/lage-bei-bielefeld-feuerwehr-hebt-feststeckendes-pferd-aus-bachlauf](https://www.spiegel.de/panorama/lage-bei-bielefeld-feuerwehr-hebt-feststeckendes-pferd-aus-bachlauf-a-30c93e18-76e0-430d-b697-a3ba29a3a8ca#ref=rss)
-### berufswahl
+* [https://www.spiegel.de/panorama/los-angeles-drei-menschen-sterben-bei-explosion-auf-polizeigelaende](https://www.spiegel.de/panorama/los-angeles-drei-menschen-sterben-bei-explosion-auf-polizeigelaende-a-baddff7a-711c-40ef-9873-cc15220fc803#ref=rss)
+* [https://www.spiegel.de/ausland/brasilien-jair-bolsonaro-bekommt-fussfessel-und-social-media-verbot](https://www.spiegel.de/ausland/brasilien-jair-bolsonaro-bekommt-fussfessel-und-social-media-verbot-a-1a1412c5-3e5e-4511-895a-3c102f799e26#ref=rss)
+### moia
 
-* [https://www.spiegel.de/start/berufswahl-persoenlichkeit-spielt-entscheidende-rolle-wie-man-das-beruecksichtigt](https://www.spiegel.de/start/berufswahl-persoenlichkeit-spielt-entscheidende-rolle-wie-man-das-beruecksichtigt-a-79bc7e52-f77d-471b-8465-4ca0dd85d984#ref=rss)
-### persönlichkeit
+* [https://www.spiegel.de/wirtschaft/moia-mobilitaetsdienstleister-beendet-betrieb-in-hannover](https://www.spiegel.de/wirtschaft/moia-mobilitaetsdienstleister-beendet-betrieb-in-hannover-a-bb5e0196-8dc9-4e91-8c6e-7798b6fe7837#ref=rss)
+### mobilitätsdienstleister
 
-* [https://www.spiegel.de/start/berufswahl-persoenlichkeit-spielt-entscheidende-rolle-wie-man-das-beruecksichtigt](https://www.spiegel.de/start/berufswahl-persoenlichkeit-spielt-entscheidende-rolle-wie-man-das-beruecksichtigt-a-79bc7e52-f77d-471b-8465-4ca0dd85d984#ref=rss)
-### emily
+* [https://www.spiegel.de/wirtschaft/moia-mobilitaetsdienstleister-beendet-betrieb-in-hannover](https://www.spiegel.de/wirtschaft/moia-mobilitaetsdienstleister-beendet-betrieb-in-hannover-a-bb5e0196-8dc9-4e91-8c6e-7798b6fe7837#ref=rss)
+### betrieb
 
-* [https://www.spiegel.de/panorama/justiz/tod-von-13-jaehriger-auf-klassenfahrt-vater-verklagt-das-land-nrw](https://www.spiegel.de/panorama/justiz/tod-von-13-jaehriger-auf-klassenfahrt-vater-verklagt-das-land-nrw-a-65fc7aec-da38-4356-b1ce-fa9b5db763cb#ref=rss)
-### tod
+* [https://www.spiegel.de/wirtschaft/moia-mobilitaetsdienstleister-beendet-betrieb-in-hannover](https://www.spiegel.de/wirtschaft/moia-mobilitaetsdienstleister-beendet-betrieb-in-hannover-a-bb5e0196-8dc9-4e91-8c6e-7798b6fe7837#ref=rss)
+### hannover
 
-* [https://www.spiegel.de/panorama/justiz/tod-von-13-jaehriger-auf-klassenfahrt-vater-verklagt-das-land-nrw](https://www.spiegel.de/panorama/justiz/tod-von-13-jaehriger-auf-klassenfahrt-vater-verklagt-das-land-nrw-a-65fc7aec-da38-4356-b1ce-fa9b5db763cb#ref=rss)
-### klassenfahrt
+* [https://www.spiegel.de/wirtschaft/moia-mobilitaetsdienstleister-beendet-betrieb-in-hannover](https://www.spiegel.de/wirtschaft/moia-mobilitaetsdienstleister-beendet-betrieb-in-hannover-a-bb5e0196-8dc9-4e91-8c6e-7798b6fe7837#ref=rss)
+### weniger
 
-* [https://www.spiegel.de/panorama/justiz/tod-von-13-jaehriger-auf-klassenfahrt-vater-verklagt-das-land-nrw](https://www.spiegel.de/panorama/justiz/tod-von-13-jaehriger-auf-klassenfahrt-vater-verklagt-das-land-nrw-a-65fc7aec-da38-4356-b1ce-fa9b5db763cb#ref=rss)
-### vater
+* [https://www.spiegel.de/wirtschaft/moia-mobilitaetsdienstleister-beendet-betrieb-in-hannover](https://www.spiegel.de/wirtschaft/moia-mobilitaetsdienstleister-beendet-betrieb-in-hannover-a-bb5e0196-8dc9-4e91-8c6e-7798b6fe7837#ref=rss)
+* [https://www.spiegel.de/wirtschaft/massentourismus-in-spanien-barcelona-will-zahl-der-kreuzfahrtschiffe-deutlich-senken](https://www.spiegel.de/wirtschaft/massentourismus-in-spanien-barcelona-will-zahl-der-kreuzfahrtschiffe-deutlich-senken-a-c7f4a352-072a-40b2-a7ce-883a7b403e80#ref=rss)
+### peake
 
-* [https://www.spiegel.de/panorama/justiz/tod-von-13-jaehriger-auf-klassenfahrt-vater-verklagt-das-land-nrw](https://www.spiegel.de/panorama/justiz/tod-von-13-jaehriger-auf-klassenfahrt-vater-verklagt-das-land-nrw-a-65fc7aec-da38-4356-b1ce-fa9b5db763cb#ref=rss)
-### land
+* [https://www.spiegel.de/sport/golf/golfer-ryan-peake-bei-der-british-open-der-ex-haeftling-der-es-zur-british-open-schaffte](https://www.spiegel.de/sport/golf/golfer-ryan-peake-bei-der-british-open-der-ex-haeftling-der-es-zur-british-open-schaffte-a-bc82fcd2-ff47-466e-9859-dcf97686aabc#ref=rss)
+### british
 
-* [https://www.spiegel.de/panorama/justiz/tod-von-13-jaehriger-auf-klassenfahrt-vater-verklagt-das-land-nrw](https://www.spiegel.de/panorama/justiz/tod-von-13-jaehriger-auf-klassenfahrt-vater-verklagt-das-land-nrw-a-65fc7aec-da38-4356-b1ce-fa9b5db763cb#ref=rss)
-### israel
+* [https://www.spiegel.de/sport/golf/golfer-ryan-peake-bei-der-british-open-der-ex-haeftling-der-es-zur-british-open-schaffte](https://www.spiegel.de/sport/golf/golfer-ryan-peake-bei-der-british-open-der-ex-haeftling-der-es-zur-british-open-schaffte-a-bc82fcd2-ff47-466e-9859-dcf97686aabc#ref=rss)
+### open
 
-* [https://www.spiegel.de/ausland/israel-abgelehnt-im-inland-und-im-ausland-das-leben-eines-israelischen-pazifisten](https://www.spiegel.de/ausland/israel-abgelehnt-im-inland-und-im-ausland-das-leben-eines-israelischen-pazifisten-a-85d6e8a4-5d4b-419b-99a0-7d8251c52109#ref=rss)
-### ausland
+* [https://www.spiegel.de/sport/golf/golfer-ryan-peake-bei-der-british-open-der-ex-haeftling-der-es-zur-british-open-schaffte](https://www.spiegel.de/sport/golf/golfer-ryan-peake-bei-der-british-open-der-ex-haeftling-der-es-zur-british-open-schaffte-a-bc82fcd2-ff47-466e-9859-dcf97686aabc#ref=rss)
+### fünf
 
-* [https://www.spiegel.de/ausland/israel-abgelehnt-im-inland-und-im-ausland-das-leben-eines-israelischen-pazifisten](https://www.spiegel.de/ausland/israel-abgelehnt-im-inland-und-im-ausland-das-leben-eines-israelischen-pazifisten-a-85d6e8a4-5d4b-419b-99a0-7d8251c52109#ref=rss)
-### leben
+* [https://www.spiegel.de/sport/golf/golfer-ryan-peake-bei-der-british-open-der-ex-haeftling-der-es-zur-british-open-schaffte](https://www.spiegel.de/sport/golf/golfer-ryan-peake-bei-der-british-open-der-ex-haeftling-der-es-zur-british-open-schaffte-a-bc82fcd2-ff47-466e-9859-dcf97686aabc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/asyl-alexander-dobrindt-kuendigt-schnellere-rueckfuehrungen-an](https://www.spiegel.de/politik/deutschland/asyl-alexander-dobrindt-kuendigt-schnellere-rueckfuehrungen-an-a-c0de60e7-9c5d-4e23-8749-3b6613689053#ref=rss)
+### blockiert
 
-* [https://www.spiegel.de/ausland/israel-abgelehnt-im-inland-und-im-ausland-das-leben-eines-israelischen-pazifisten](https://www.spiegel.de/ausland/israel-abgelehnt-im-inland-und-im-ausland-das-leben-eines-israelischen-pazifisten-a-85d6e8a4-5d4b-419b-99a0-7d8251c52109#ref=rss)
-### juchef
+* [https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet](https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet-a-3152dba0-771c-43bf-93e3-7b2a951abed3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet](https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet-a-ac90de16-842d-4399-9f5f-37a34607f9af#ref=rss)
+### jens
 
-* [https://www.spiegel.de/wirtschaft/rente-ju-chef-johannes-winkel-haelt-boomer-soli-fuer-ablenkungsvorschlag](https://www.spiegel.de/wirtschaft/rente-ju-chef-johannes-winkel-haelt-boomer-soli-fuer-ablenkungsvorschlag-a-dbb775ce-5e15-4c2a-a43f-93200d14cfd4#ref=rss)
-### boomersoli
+* [https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet](https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet-a-3152dba0-771c-43bf-93e3-7b2a951abed3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet](https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet-a-ac90de16-842d-4399-9f5f-37a34607f9af#ref=rss)
+### spahn
 
-* [https://www.spiegel.de/wirtschaft/rente-ju-chef-johannes-winkel-haelt-boomer-soli-fuer-ablenkungsvorschlag](https://www.spiegel.de/wirtschaft/rente-ju-chef-johannes-winkel-haelt-boomer-soli-fuer-ablenkungsvorschlag-a-dbb775ce-5e15-4c2a-a43f-93200d14cfd4#ref=rss)
-### sommerpressekonferenz
+* [https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet](https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet-a-3152dba0-771c-43bf-93e3-7b2a951abed3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet](https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet-a-ac90de16-842d-4399-9f5f-37a34607f9af#ref=rss)
+### versagt
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-spricht-auf-sommerpressekonferenz-hier-im-livestream](https://www.spiegel.de/politik/deutschland/friedrich-merz-spricht-auf-sommerpressekonferenz-hier-im-livestream-a-709541ee-e217-4ea5-b5b9-73ba4d9ed1bf#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet](https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet-a-3152dba0-771c-43bf-93e3-7b2a951abed3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet](https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet-a-ac90de16-842d-4399-9f5f-37a34607f9af#ref=rss)
+### richterin
+
+* [https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet](https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet-a-3152dba0-771c-43bf-93e3-7b2a951abed3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet](https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet-a-ac90de16-842d-4399-9f5f-37a34607f9af#ref=rss)
+### leidet
+
+* [https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet](https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet-a-3152dba0-771c-43bf-93e3-7b2a951abed3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet](https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet-a-ac90de16-842d-4399-9f5f-37a34607f9af#ref=rss)
+### csu
+
+* [https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet](https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet-a-3152dba0-771c-43bf-93e3-7b2a951abed3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet](https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet-a-ac90de16-842d-4399-9f5f-37a34607f9af#ref=rss)
+### blockieren
+
+* [https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet](https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet-a-3152dba0-771c-43bf-93e3-7b2a951abed3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet](https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet-a-ac90de16-842d-4399-9f5f-37a34607f9af#ref=rss)
+### wahl
+
+* [https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet](https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet-a-3152dba0-771c-43bf-93e3-7b2a951abed3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet](https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet-a-ac90de16-842d-4399-9f5f-37a34607f9af#ref=rss)
+### verfassungsrichterin
+
+* [https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet](https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet-a-3152dba0-771c-43bf-93e3-7b2a951abed3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet](https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet-a-ac90de16-842d-4399-9f5f-37a34607f9af#ref=rss)
+### debatte
+
+* [https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet](https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet-a-3152dba0-771c-43bf-93e3-7b2a951abed3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet](https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet-a-ac90de16-842d-4399-9f5f-37a34607f9af#ref=rss)
+### abtreibungsrecht
+
+* [https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet](https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet-a-3152dba0-771c-43bf-93e3-7b2a951abed3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet](https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet-a-ac90de16-842d-4399-9f5f-37a34607f9af#ref=rss)
+### entgleist
+
+* [https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet](https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet-a-3152dba0-771c-43bf-93e3-7b2a951abed3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet](https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet-a-ac90de16-842d-4399-9f5f-37a34607f9af#ref=rss)
+### melanie
+
+* [https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet](https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet-a-3152dba0-771c-43bf-93e3-7b2a951abed3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet](https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet-a-ac90de16-842d-4399-9f5f-37a34607f9af#ref=rss)
+### amann
+
+* [https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet](https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet-a-3152dba0-771c-43bf-93e3-7b2a951abed3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet](https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet-a-ac90de16-842d-4399-9f5f-37a34607f9af#ref=rss)
+### stellvertretende
+
+* [https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet](https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet-a-3152dba0-771c-43bf-93e3-7b2a951abed3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet](https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet-a-ac90de16-842d-4399-9f5f-37a34607f9af#ref=rss)
+### chefredakteurin
+
+* [https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet](https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet-a-3152dba0-771c-43bf-93e3-7b2a951abed3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet](https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet-a-ac90de16-842d-4399-9f5f-37a34607f9af#ref=rss)
+### spiegel
+
+* [https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet](https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet-a-3152dba0-771c-43bf-93e3-7b2a951abed3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet](https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet-a-ac90de16-842d-4399-9f5f-37a34607f9af#ref=rss)
+### analysiert
+
+* [https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet](https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet-a-3152dba0-771c-43bf-93e3-7b2a951abed3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet](https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet-a-ac90de16-842d-4399-9f5f-37a34607f9af#ref=rss)
+### folgen
+
+* [https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet](https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet-a-3152dba0-771c-43bf-93e3-7b2a951abed3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet](https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-die-cdu-blockiert-jens-spahn-versagt-die-richterin-leidet-a-ac90de16-842d-4399-9f5f-37a34607f9af#ref=rss)
+### tour
+
+* [https://www.spiegel.de/sport/13-etappe-der-tour-de-france-es-geht-weiter-nur-bergauf-fuer-tadej-pogacar](https://www.spiegel.de/sport/13-etappe-der-tour-de-france-es-geht-weiter-nur-bergauf-fuer-tadej-pogacar-a-e117000f-c23f-4e53-923b-c6a999677b61#ref=rss)
+### de
+
+* [https://www.spiegel.de/sport/13-etappe-der-tour-de-france-es-geht-weiter-nur-bergauf-fuer-tadej-pogacar](https://www.spiegel.de/sport/13-etappe-der-tour-de-france-es-geht-weiter-nur-bergauf-fuer-tadej-pogacar-a-e117000f-c23f-4e53-923b-c6a999677b61#ref=rss)
+### france
+
+* [https://www.spiegel.de/sport/13-etappe-der-tour-de-france-es-geht-weiter-nur-bergauf-fuer-tadej-pogacar](https://www.spiegel.de/sport/13-etappe-der-tour-de-france-es-geht-weiter-nur-bergauf-fuer-tadej-pogacar-a-e117000f-c23f-4e53-923b-c6a999677b61#ref=rss)
+### tadej
+
+* [https://www.spiegel.de/sport/13-etappe-der-tour-de-france-es-geht-weiter-nur-bergauf-fuer-tadej-pogacar](https://www.spiegel.de/sport/13-etappe-der-tour-de-france-es-geht-weiter-nur-bergauf-fuer-tadej-pogacar-a-e117000f-c23f-4e53-923b-c6a999677b61#ref=rss)
+### linke
+
+* [https://www.spiegel.de/politik/deutschland/die-linke-kritik-an-verschobener-gaza-demo-der-linkspartei](https://www.spiegel.de/politik/deutschland/die-linke-kritik-an-verschobener-gaza-demo-der-linkspartei-a-6323f483-8084-498e-8214-fbbce99203df#ref=rss)
+### lage
+
+* [https://www.spiegel.de/politik/deutschland/die-linke-kritik-an-verschobener-gaza-demo-der-linkspartei](https://www.spiegel.de/politik/deutschland/die-linke-kritik-an-verschobener-gaza-demo-der-linkspartei-a-6323f483-8084-498e-8214-fbbce99203df#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-abschiebung-nach-afghanistan-frauke-brosius-gersdorf-epstein-skandal](https://www.spiegel.de/politik/deutschland/news-des-tages-abschiebung-nach-afghanistan-frauke-brosius-gersdorf-epstein-skandal-a-dfb0dd2a-1f9c-40bf-9374-2258f6f64efa#ref=rss)
+### stuttgart
+
+* [https://www.spiegel.de/auto/verzoegerung-beim-regionalverkehr-stuttgart-21-soll-erst-2027-fertig-werden](https://www.spiegel.de/auto/verzoegerung-beim-regionalverkehr-stuttgart-21-soll-erst-2027-fertig-werden-a-d78442aa-d2c3-4028-ad18-86ea77f75b71#ref=rss)
+### 21
+
+* [https://www.spiegel.de/auto/verzoegerung-beim-regionalverkehr-stuttgart-21-soll-erst-2027-fertig-werden](https://www.spiegel.de/auto/verzoegerung-beim-regionalverkehr-stuttgart-21-soll-erst-2027-fertig-werden-a-d78442aa-d2c3-4028-ad18-86ea77f75b71#ref=rss)
+### kündigt
+
+* [https://www.spiegel.de/auto/verzoegerung-beim-regionalverkehr-stuttgart-21-soll-erst-2027-fertig-werden](https://www.spiegel.de/auto/verzoegerung-beim-regionalverkehr-stuttgart-21-soll-erst-2027-fertig-werden-a-d78442aa-d2c3-4028-ad18-86ea77f75b71#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/asyl-alexander-dobrindt-kuendigt-schnellere-rueckfuehrungen-an](https://www.spiegel.de/politik/deutschland/asyl-alexander-dobrindt-kuendigt-schnellere-rueckfuehrungen-an-a-c0de60e7-9c5d-4e23-8749-3b6613689053#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/auto/verzoegerung-beim-regionalverkehr-stuttgart-21-soll-erst-2027-fertig-werden](https://www.spiegel.de/auto/verzoegerung-beim-regionalverkehr-stuttgart-21-soll-erst-2027-fertig-werden-a-d78442aa-d2c3-4028-ad18-86ea77f75b71#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-mit-tulpennetzen-und-schrotflinten-gegen-putins-drohnen](https://www.spiegel.de/ausland/russland-ukraine-krieg-mit-tulpennetzen-und-schrotflinten-gegen-putins-drohnen-a-ce881ee9-4691-4ea9-bfa5-1f6832a6f7a7#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/auto/verzoegerung-beim-regionalverkehr-stuttgart-21-soll-erst-2027-fertig-werden](https://www.spiegel.de/auto/verzoegerung-beim-regionalverkehr-stuttgart-21-soll-erst-2027-fertig-werden-a-d78442aa-d2c3-4028-ad18-86ea77f75b71#ref=rss)
+* [https://www.spiegel.de/wirtschaft/massentourismus-in-spanien-barcelona-will-zahl-der-kreuzfahrtschiffe-deutlich-senken](https://www.spiegel.de/wirtschaft/massentourismus-in-spanien-barcelona-will-zahl-der-kreuzfahrtschiffe-deutlich-senken-a-c7f4a352-072a-40b2-a7ce-883a7b403e80#ref=rss)
+### dagegen
+
+* [https://www.spiegel.de/auto/verzoegerung-beim-regionalverkehr-stuttgart-21-soll-erst-2027-fertig-werden](https://www.spiegel.de/auto/verzoegerung-beim-regionalverkehr-stuttgart-21-soll-erst-2027-fertig-werden-a-d78442aa-d2c3-4028-ad18-86ea77f75b71#ref=rss)
+* [https://www.spiegel.de/wirtschaft/massentourismus-in-spanien-barcelona-will-zahl-der-kreuzfahrtschiffe-deutlich-senken](https://www.spiegel.de/wirtschaft/massentourismus-in-spanien-barcelona-will-zahl-der-kreuzfahrtschiffe-deutlich-senken-a-c7f4a352-072a-40b2-a7ce-883a7b403e80#ref=rss)
+### europa
+
+* [https://www.spiegel.de/politik/deutschland/migration-alexander-dobrindt-will-schaerfere-regeln-in-europa](https://www.spiegel.de/politik/deutschland/migration-alexander-dobrindt-will-schaerfere-regeln-in-europa-a-4fdfdd34-9832-4cb6-93f3-f0f5dddd45db#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/wirtschaft/karge-ernten-bei-erdbeeren-und-spargel](https://www.spiegel.de/wirtschaft/karge-ernten-bei-erdbeeren-und-spargel-a-f3a21e5c-587b-4602-b95a-c898d7bebae4#ref=rss)
-### erdbeeren
+* [https://www.spiegel.de/politik/deutschland/migration-alexander-dobrindt-will-schaerfere-regeln-in-europa](https://www.spiegel.de/politik/deutschland/migration-alexander-dobrindt-will-schaerfere-regeln-in-europa-a-4fdfdd34-9832-4cb6-93f3-f0f5dddd45db#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-abschiebung-nach-afghanistan-frauke-brosius-gersdorf-epstein-skandal](https://www.spiegel.de/politik/deutschland/news-des-tages-abschiebung-nach-afghanistan-frauke-brosius-gersdorf-epstein-skandal-a-dfb0dd2a-1f9c-40bf-9374-2258f6f64efa#ref=rss)
+### matthias
 
-* [https://www.spiegel.de/wirtschaft/karge-ernten-bei-erdbeeren-und-spargel](https://www.spiegel.de/wirtschaft/karge-ernten-bei-erdbeeren-und-spargel-a-f3a21e5c-587b-4602-b95a-c898d7bebae4#ref=rss)
-### spargel
+* [https://www.spiegel.de/politik/deutschland/matthias-platzeck-ex-spd-chef-fliegt-regelmaessig-nach-moskau](https://www.spiegel.de/politik/deutschland/matthias-platzeck-ex-spd-chef-fliegt-regelmaessig-nach-moskau-a-dae5c9b2-15c9-4bd2-87ff-1cb96e944333#ref=rss)
+### platzeck
 
-* [https://www.spiegel.de/wirtschaft/karge-ernten-bei-erdbeeren-und-spargel](https://www.spiegel.de/wirtschaft/karge-ernten-bei-erdbeeren-und-spargel-a-f3a21e5c-587b-4602-b95a-c898d7bebae4#ref=rss)
-### lars
+* [https://www.spiegel.de/politik/deutschland/matthias-platzeck-ex-spd-chef-fliegt-regelmaessig-nach-moskau](https://www.spiegel.de/politik/deutschland/matthias-platzeck-ex-spd-chef-fliegt-regelmaessig-nach-moskau-a-dae5c9b2-15c9-4bd2-87ff-1cb96e944333#ref=rss)
+### moskau
 
-* [https://www.spiegel.de/wirtschaft/lars-klingbeil-jetzt-um-das-ueberleben-der-g20](https://www.spiegel.de/wirtschaft/lars-klingbeil-jetzt-um-das-ueberleben-der-g20-a-288f070d-65cf-4939-b8d2-df43e70bb098#ref=rss)
-### klingbeil
+* [https://www.spiegel.de/politik/deutschland/matthias-platzeck-ex-spd-chef-fliegt-regelmaessig-nach-moskau](https://www.spiegel.de/politik/deutschland/matthias-platzeck-ex-spd-chef-fliegt-regelmaessig-nach-moskau-a-dae5c9b2-15c9-4bd2-87ff-1cb96e944333#ref=rss)
+### stoppt
 
-* [https://www.spiegel.de/wirtschaft/lars-klingbeil-jetzt-um-das-ueberleben-der-g20](https://www.spiegel.de/wirtschaft/lars-klingbeil-jetzt-um-das-ueberleben-der-g20-a-288f070d-65cf-4939-b8d2-df43e70bb098#ref=rss)
-### retten
+* [https://www.spiegel.de/panorama/justiz/neckar-wasserschutzpolizei-stoppt-bekifften-kapitaen-nach-schleusenunfall](https://www.spiegel.de/panorama/justiz/neckar-wasserschutzpolizei-stoppt-bekifften-kapitaen-nach-schleusenunfall-a-47e0ccc7-aa8b-4634-86a9-d51621140705#ref=rss)
+### kapitän
 
-* [https://www.spiegel.de/wirtschaft/lars-klingbeil-jetzt-um-das-ueberleben-der-g20](https://www.spiegel.de/wirtschaft/lars-klingbeil-jetzt-um-das-ueberleben-der-g20-a-288f070d-65cf-4939-b8d2-df43e70bb098#ref=rss)
-### schweden
+* [https://www.spiegel.de/panorama/justiz/neckar-wasserschutzpolizei-stoppt-bekifften-kapitaen-nach-schleusenunfall](https://www.spiegel.de/panorama/justiz/neckar-wasserschutzpolizei-stoppt-bekifften-kapitaen-nach-schleusenunfall-a-47e0ccc7-aa8b-4634-86a9-d51621140705#ref=rss)
+### gleich
 
-* [https://www.spiegel.de/sport/fussball/england-vs-schweden-bei-fussball-em-das-schlechteste-bitterste-und-beste-elfmeterschiessen](https://www.spiegel.de/sport/fussball/england-vs-schweden-bei-fussball-em-das-schlechteste-bitterste-und-beste-elfmeterschiessen-a-7ed55a94-91be-4704-8642-2d281a67136f#ref=rss)
-### art
+* [https://www.spiegel.de/panorama/justiz/neckar-wasserschutzpolizei-stoppt-bekifften-kapitaen-nach-schleusenunfall](https://www.spiegel.de/panorama/justiz/neckar-wasserschutzpolizei-stoppt-bekifften-kapitaen-nach-schleusenunfall-a-47e0ccc7-aa8b-4634-86a9-d51621140705#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/apolda-in-thueringen-47-jaehriger-mit-3-8-promille-sorgt-fuer-mehrere-polizeieinsaetze](https://www.spiegel.de/panorama/justiz/apolda-in-thueringen-47-jaehriger-mit-3-8-promille-sorgt-fuer-mehrere-polizeieinsaetze-a-4cf6a588-8d2d-44a0-adfa-d1eb4304b905#ref=rss)
+### stephen
 
-* [https://www.spiegel.de/sport/fussball/england-vs-schweden-bei-fussball-em-das-schlechteste-bitterste-und-beste-elfmeterschiessen](https://www.spiegel.de/sport/fussball/england-vs-schweden-bei-fussball-em-das-schlechteste-bitterste-und-beste-elfmeterschiessen-a-7ed55a94-91be-4704-8642-2d281a67136f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/powell-rechtfertigt-renovierung-von-fed-hauptquartier](https://www.spiegel.de/wirtschaft/powell-rechtfertigt-renovierung-von-fed-hauptquartier-a-2f6bbd8a-c31f-4ebf-bbbc-8ec750d1254d#ref=rss)
-### powell
+* [https://www.spiegel.de/kultur/tv/stephen-colbert-und-das-aus-der-the-late-show-die-grosse-aera-eines-genres-geht-zu-ende](https://www.spiegel.de/kultur/tv/stephen-colbert-und-das-aus-der-the-late-show-die-grosse-aera-eines-genres-geht-zu-ende-a-a15ff509-1b41-44d2-981f-4d26548c073a#ref=rss)
+### colbert
 
-* [https://www.spiegel.de/wirtschaft/powell-rechtfertigt-renovierung-von-fed-hauptquartier](https://www.spiegel.de/wirtschaft/powell-rechtfertigt-renovierung-von-fed-hauptquartier-a-2f6bbd8a-c31f-4ebf-bbbc-8ec750d1254d#ref=rss)
-### renovierung
+* [https://www.spiegel.de/kultur/tv/stephen-colbert-und-das-aus-der-the-late-show-die-grosse-aera-eines-genres-geht-zu-ende](https://www.spiegel.de/kultur/tv/stephen-colbert-und-das-aus-der-the-late-show-die-grosse-aera-eines-genres-geht-zu-ende-a-a15ff509-1b41-44d2-981f-4d26548c073a#ref=rss)
+### show
 
-* [https://www.spiegel.de/wirtschaft/powell-rechtfertigt-renovierung-von-fed-hauptquartier](https://www.spiegel.de/wirtschaft/powell-rechtfertigt-renovierung-von-fed-hauptquartier-a-2f6bbd8a-c31f-4ebf-bbbc-8ec750d1254d#ref=rss)
-### felix
+* [https://www.spiegel.de/kultur/tv/stephen-colbert-und-das-aus-der-the-late-show-die-grosse-aera-eines-genres-geht-zu-ende](https://www.spiegel.de/kultur/tv/stephen-colbert-und-das-aus-der-the-late-show-die-grosse-aera-eines-genres-geht-zu-ende-a-a15ff509-1b41-44d2-981f-4d26548c073a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-frauke-brosius-gersdorf-stiehlt-dem-kanzler-die-show](https://www.spiegel.de/politik/deutschland/friedrich-merz-frauke-brosius-gersdorf-stiehlt-dem-kanzler-die-show-a-66054994-3080-48ca-957f-5e70470df599#ref=rss)
+### chevron
 
-* [https://www.spiegel.de/sport/nachruf-auf-felix-baumgartner-der-sturz](https://www.spiegel.de/sport/nachruf-auf-felix-baumgartner-der-sturz-a-b161163d-9ba3-40b8-b4b5-40e541d29de5#ref=rss)
-### baumgartner
+* [https://www.spiegel.de/wirtschaft/energie-us-oelkonzern-chevron-siegt-im-rechtsstreit-mit-exxon-ueber-oelfeld-in-guyana](https://www.spiegel.de/wirtschaft/energie-us-oelkonzern-chevron-siegt-im-rechtsstreit-mit-exxon-ueber-oelfeld-in-guyana-a-72a4e08a-cc21-4cc9-b8e8-f7d42268a1d2#ref=rss)
+### ölfeld
 
-* [https://www.spiegel.de/sport/nachruf-auf-felix-baumgartner-der-sturz](https://www.spiegel.de/sport/nachruf-auf-felix-baumgartner-der-sturz-a-b161163d-9ba3-40b8-b4b5-40e541d29de5#ref=rss)
-### eu
+* [https://www.spiegel.de/wirtschaft/energie-us-oelkonzern-chevron-siegt-im-rechtsstreit-mit-exxon-ueber-oelfeld-in-guyana](https://www.spiegel.de/wirtschaft/energie-us-oelkonzern-chevron-siegt-im-rechtsstreit-mit-exxon-ueber-oelfeld-in-guyana-a-72a4e08a-cc21-4cc9-b8e8-f7d42268a1d2#ref=rss)
+### guyana
 
-* [https://www.spiegel.de/ausland/eu-verhaengt-neue-russland-sanktionen](https://www.spiegel.de/ausland/eu-verhaengt-neue-russland-sanktionen-a-4658d30e-73ea-4cf5-9786-4f80dd9541d9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/energie-us-oelkonzern-chevron-siegt-im-rechtsstreit-mit-exxon-ueber-oelfeld-in-guyana](https://www.spiegel.de/wirtschaft/energie-us-oelkonzern-chevron-siegt-im-rechtsstreit-mit-exxon-ueber-oelfeld-in-guyana-a-72a4e08a-cc21-4cc9-b8e8-f7d42268a1d2#ref=rss)
+### jair
+
+* [https://www.spiegel.de/ausland/brasilien-jair-bolsonaro-bekommt-fussfessel-und-social-media-verbot](https://www.spiegel.de/ausland/brasilien-jair-bolsonaro-bekommt-fussfessel-und-social-media-verbot-a-1a1412c5-3e5e-4511-895a-3c102f799e26#ref=rss)
+### bolsonaro
+
+* [https://www.spiegel.de/ausland/brasilien-jair-bolsonaro-bekommt-fussfessel-und-social-media-verbot](https://www.spiegel.de/ausland/brasilien-jair-bolsonaro-bekommt-fussfessel-und-social-media-verbot-a-1a1412c5-3e5e-4511-895a-3c102f799e26#ref=rss)
+### uspräsident
+
+* [https://www.spiegel.de/ausland/brasilien-jair-bolsonaro-bekommt-fussfessel-und-social-media-verbot](https://www.spiegel.de/ausland/brasilien-jair-bolsonaro-bekommt-fussfessel-und-social-media-verbot-a-1a1412c5-3e5e-4511-895a-3c102f799e26#ref=rss)
+* [https://www.spiegel.de/ausland/wladimir-putin-und-donald-trump-im-kreml-gibt-es-drei-plaene-fuer-den-umgang-mit-trump](https://www.spiegel.de/ausland/wladimir-putin-und-donald-trump-im-kreml-gibt-es-drei-plaene-fuer-den-umgang-mit-trump-a-d9d2bc6f-ba9d-40bf-8d87-ab3eed8a6d1a#ref=rss)
+### apolda
+
+* [https://www.spiegel.de/panorama/justiz/apolda-in-thueringen-47-jaehriger-mit-3-8-promille-sorgt-fuer-mehrere-polizeieinsaetze](https://www.spiegel.de/panorama/justiz/apolda-in-thueringen-47-jaehriger-mit-3-8-promille-sorgt-fuer-mehrere-polizeieinsaetze-a-4cf6a588-8d2d-44a0-adfa-d1eb4304b905#ref=rss)
+### mehrere
+
+* [https://www.spiegel.de/panorama/justiz/apolda-in-thueringen-47-jaehriger-mit-3-8-promille-sorgt-fuer-mehrere-polizeieinsaetze](https://www.spiegel.de/panorama/justiz/apolda-in-thueringen-47-jaehriger-mit-3-8-promille-sorgt-fuer-mehrere-polizeieinsaetze-a-4cf6a588-8d2d-44a0-adfa-d1eb4304b905#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/erfurt-ermittlungen-gegen-drei-verdaechtige-nach-brandanschlag-auf-bundeswehr-lkw](https://www.spiegel.de/panorama/justiz/erfurt-ermittlungen-gegen-drei-verdaechtige-nach-brandanschlag-auf-bundeswehr-lkw-a-eb584c8c-bc83-4df6-83bf-4e97605b3413#ref=rss)
+### epsteinskandal
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-abschiebung-nach-afghanistan-frauke-brosius-gersdorf-epstein-skandal](https://www.spiegel.de/politik/deutschland/news-des-tages-abschiebung-nach-afghanistan-frauke-brosius-gersdorf-epstein-skandal-a-dfb0dd2a-1f9c-40bf-9374-2258f6f64efa#ref=rss)
+### trumps
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-abschiebung-nach-afghanistan-frauke-brosius-gersdorf-epstein-skandal](https://www.spiegel.de/politik/deutschland/news-des-tages-abschiebung-nach-afghanistan-frauke-brosius-gersdorf-epstein-skandal-a-dfb0dd2a-1f9c-40bf-9374-2258f6f64efa#ref=rss)
+* [https://www.spiegel.de/ausland/wladimir-putin-und-donald-trump-im-kreml-gibt-es-drei-plaene-fuer-den-umgang-mit-trump](https://www.spiegel.de/ausland/wladimir-putin-und-donald-trump-im-kreml-gibt-es-drei-plaene-fuer-den-umgang-mit-trump-a-d9d2bc6f-ba9d-40bf-8d87-ab3eed8a6d1a#ref=rss)
+### streit
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-abschiebung-nach-afghanistan-frauke-brosius-gersdorf-epstein-skandal](https://www.spiegel.de/politik/deutschland/news-des-tages-abschiebung-nach-afghanistan-frauke-brosius-gersdorf-epstein-skandal-a-dfb0dd2a-1f9c-40bf-9374-2258f6f64efa#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/langenau-75-jaehriger-muss-t-shirt-mit-hamas-parole-aushaendigen](https://www.spiegel.de/panorama/justiz/langenau-75-jaehriger-muss-t-shirt-mit-hamas-parole-aushaendigen-a-ecee13a2-59bb-405a-a81c-14277208ecae#ref=rss)
+### bringt
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-abschiebung-nach-afghanistan-frauke-brosius-gersdorf-epstein-skandal](https://www.spiegel.de/politik/deutschland/news-des-tages-abschiebung-nach-afghanistan-frauke-brosius-gersdorf-epstein-skandal-a-dfb0dd2a-1f9c-40bf-9374-2258f6f64efa#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-mit-tulpennetzen-und-schrotflinten-gegen-putins-drohnen](https://www.spiegel.de/ausland/russland-ukraine-krieg-mit-tulpennetzen-und-schrotflinten-gegen-putins-drohnen-a-ce881ee9-4691-4ea9-bfa5-1f6832a6f7a7#ref=rss)
+### erfurt
+
+* [https://www.spiegel.de/panorama/justiz/erfurt-ermittlungen-gegen-drei-verdaechtige-nach-brandanschlag-auf-bundeswehr-lkw](https://www.spiegel.de/panorama/justiz/erfurt-ermittlungen-gegen-drei-verdaechtige-nach-brandanschlag-auf-bundeswehr-lkw-a-eb584c8c-bc83-4df6-83bf-4e97605b3413#ref=rss)
+### staatsanwaltschaft
+
+* [https://www.spiegel.de/panorama/justiz/erfurt-ermittlungen-gegen-drei-verdaechtige-nach-brandanschlag-auf-bundeswehr-lkw](https://www.spiegel.de/panorama/justiz/erfurt-ermittlungen-gegen-drei-verdaechtige-nach-brandanschlag-auf-bundeswehr-lkw-a-eb584c8c-bc83-4df6-83bf-4e97605b3413#ref=rss)
+* [https://www.spiegel.de/ausland/italien-matteo-salvini-muss-wieder-vor-gericht](https://www.spiegel.de/ausland/italien-matteo-salvini-muss-wieder-vor-gericht-a-284afeed-0ec6-4046-bbc2-12ec6b1510cb#ref=rss)
+### 1860
+
+* [https://www.spiegel.de/sport/fussball/1860-muenchen-investor-hasan-ismaik-will-jetzt-doch-bleiben](https://www.spiegel.de/sport/fussball/1860-muenchen-investor-hasan-ismaik-will-jetzt-doch-bleiben-a-3e029a0a-c257-47f4-a7ac-d0167bda99be#ref=rss)
+### münchen
+
+* [https://www.spiegel.de/sport/fussball/1860-muenchen-investor-hasan-ismaik-will-jetzt-doch-bleiben](https://www.spiegel.de/sport/fussball/1860-muenchen-investor-hasan-ismaik-will-jetzt-doch-bleiben-a-3e029a0a-c257-47f4-a7ac-d0167bda99be#ref=rss)
+### investor
+
+* [https://www.spiegel.de/sport/fussball/1860-muenchen-investor-hasan-ismaik-will-jetzt-doch-bleiben](https://www.spiegel.de/sport/fussball/1860-muenchen-investor-hasan-ismaik-will-jetzt-doch-bleiben-a-3e029a0a-c257-47f4-a7ac-d0167bda99be#ref=rss)
+### hasan
+
+* [https://www.spiegel.de/sport/fussball/1860-muenchen-investor-hasan-ismaik-will-jetzt-doch-bleiben](https://www.spiegel.de/sport/fussball/1860-muenchen-investor-hasan-ismaik-will-jetzt-doch-bleiben-a-3e029a0a-c257-47f4-a7ac-d0167bda99be#ref=rss)
+### ismaik
+
+* [https://www.spiegel.de/sport/fussball/1860-muenchen-investor-hasan-ismaik-will-jetzt-doch-bleiben](https://www.spiegel.de/sport/fussball/1860-muenchen-investor-hasan-ismaik-will-jetzt-doch-bleiben-a-3e029a0a-c257-47f4-a7ac-d0167bda99be#ref=rss)
+### dj
+
+* [https://www.spiegel.de/kultur/musik/dj-haram-big-special-rio-kosta-poor-creature-album-der-woche](https://www.spiegel.de/kultur/musik/dj-haram-big-special-rio-kosta-poor-creature-album-der-woche-a-34a88cc9-8d52-4f01-8650-d80acd7e87b8#ref=rss)
+### haram
+
+* [https://www.spiegel.de/kultur/musik/dj-haram-big-special-rio-kosta-poor-creature-album-der-woche](https://www.spiegel.de/kultur/musik/dj-haram-big-special-rio-kosta-poor-creature-album-der-woche-a-34a88cc9-8d52-4f01-8650-d80acd7e87b8#ref=rss)
+### big
+
+* [https://www.spiegel.de/kultur/musik/dj-haram-big-special-rio-kosta-poor-creature-album-der-woche](https://www.spiegel.de/kultur/musik/dj-haram-big-special-rio-kosta-poor-creature-album-der-woche-a-34a88cc9-8d52-4f01-8650-d80acd7e87b8#ref=rss)
+### special
+
+* [https://www.spiegel.de/kultur/musik/dj-haram-big-special-rio-kosta-poor-creature-album-der-woche](https://www.spiegel.de/kultur/musik/dj-haram-big-special-rio-kosta-poor-creature-album-der-woche-a-34a88cc9-8d52-4f01-8650-d80acd7e87b8#ref=rss)
+### barcelona
+
+* [https://www.spiegel.de/wirtschaft/massentourismus-in-spanien-barcelona-will-zahl-der-kreuzfahrtschiffe-deutlich-senken](https://www.spiegel.de/wirtschaft/massentourismus-in-spanien-barcelona-will-zahl-der-kreuzfahrtschiffe-deutlich-senken-a-c7f4a352-072a-40b2-a7ce-883a7b403e80#ref=rss)
+### langenau
+
+* [https://www.spiegel.de/panorama/justiz/langenau-75-jaehriger-muss-t-shirt-mit-hamas-parole-aushaendigen](https://www.spiegel.de/panorama/justiz/langenau-75-jaehriger-muss-t-shirt-mit-hamas-parole-aushaendigen-a-ecee13a2-59bb-405a-a81c-14277208ecae#ref=rss)
+### matteo
+
+* [https://www.spiegel.de/ausland/italien-matteo-salvini-muss-wieder-vor-gericht](https://www.spiegel.de/ausland/italien-matteo-salvini-muss-wieder-vor-gericht-a-284afeed-0ec6-4046-bbc2-12ec6b1510cb#ref=rss)
+### salvini
+
+* [https://www.spiegel.de/ausland/italien-matteo-salvini-muss-wieder-vor-gericht](https://www.spiegel.de/ausland/italien-matteo-salvini-muss-wieder-vor-gericht-a-284afeed-0ec6-4046-bbc2-12ec6b1510cb#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-frauke-brosius-gersdorf-stiehlt-dem-kanzler-die-show](https://www.spiegel.de/politik/deutschland/friedrich-merz-frauke-brosius-gersdorf-stiehlt-dem-kanzler-die-show-a-66054994-3080-48ca-957f-5e70470df599#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-frauke-brosius-gersdorf-stiehlt-dem-kanzler-die-show](https://www.spiegel.de/politik/deutschland/friedrich-merz-frauke-brosius-gersdorf-stiehlt-dem-kanzler-die-show-a-66054994-3080-48ca-957f-5e70470df599#ref=rss)
+### kanzler
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-frauke-brosius-gersdorf-stiehlt-dem-kanzler-die-show](https://www.spiegel.de/politik/deutschland/friedrich-merz-frauke-brosius-gersdorf-stiehlt-dem-kanzler-die-show-a-66054994-3080-48ca-957f-5e70470df599#ref=rss)
+### großmanöver
+
+* [https://www.spiegel.de/ausland/grossmanoever-in-taiwan-die-strassen-sind-wie-leergefegt](https://www.spiegel.de/ausland/grossmanoever-in-taiwan-die-strassen-sind-wie-leergefegt-a-0fd5cd03-fa23-4782-8fdb-a869058e8ca2#ref=rss)
+### taiwan
+
+* [https://www.spiegel.de/ausland/grossmanoever-in-taiwan-die-strassen-sind-wie-leergefegt](https://www.spiegel.de/ausland/grossmanoever-in-taiwan-die-strassen-sind-wie-leergefegt-a-0fd5cd03-fa23-4782-8fdb-a869058e8ca2#ref=rss)
+### putin
+
+* [https://www.spiegel.de/ausland/wladimir-putin-und-donald-trump-im-kreml-gibt-es-drei-plaene-fuer-den-umgang-mit-trump](https://www.spiegel.de/ausland/wladimir-putin-und-donald-trump-im-kreml-gibt-es-drei-plaene-fuer-den-umgang-mit-trump-a-d9d2bc6f-ba9d-40bf-8d87-ab3eed8a6d1a#ref=rss)
 
