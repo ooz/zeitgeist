@@ -6,452 +6,263 @@ tags: __no_header__
 
 ### donald
 
-* [https://www.spiegel.de/ausland/fall-jeffrey-epstein-warum-donald-trump-die-bekannte-staatsanwaeltin-maurene-comey-feuerte](https://www.spiegel.de/ausland/fall-jeffrey-epstein-warum-donald-trump-die-bekannte-staatsanwaeltin-maurene-comey-feuerte-a-21ffbb67-86a2-45d8-aa15-7e2ef8a686f1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-geburtenrate-bert-ruerup-donald-trump-wladimir-putin](https://www.spiegel.de/politik/deutschland/news-des-tages-geburtenrate-bert-ruerup-donald-trump-wladimir-putin-a-3bd4588a-f3ee-4e17-9afd-b5017057f07b#ref=rss)
+* [https://www.spiegel.de/ausland/epstein-akten-donald-trump-sagt-pam-bondi-macht-einen-fantastischen-job-wie-lange-noch](https://www.spiegel.de/ausland/epstein-akten-donald-trump-sagt-pam-bondi-macht-einen-fantastischen-job-wie-lange-noch-a-00607104-1503-4118-a977-4b676af1a313#ref=rss)
+* [https://www.spiegel.de/ausland/us-senat-demokraten-verlassen-sitzung-wegen-donald-trumps-richterkandidat-emil-bove](https://www.spiegel.de/ausland/us-senat-demokraten-verlassen-sitzung-wegen-donald-trumps-richterkandidat-emil-bove-a-6d4d60a3-718c-4479-a0bf-8c016367d329#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-und-der-westen-donald-trump-bei-laune-zu-halten-wird-nicht-reichen](https://www.spiegel.de/ausland/ukraine-und-der-westen-donald-trump-bei-laune-zu-halten-wird-nicht-reichen-a-28fed812-6743-422b-b37d-7171de4537b0#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-wendet-sich-donald-trump-von-wladimir-putin-ab](https://www.spiegel.de/ausland/ukraine-krieg-wendet-sich-donald-trump-von-wladimir-putin-ab-a-e6c68723-4c48-46d6-9766-3d243701dc4e#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/ausland/fall-jeffrey-epstein-warum-donald-trump-die-bekannte-staatsanwaeltin-maurene-comey-feuerte](https://www.spiegel.de/ausland/fall-jeffrey-epstein-warum-donald-trump-die-bekannte-staatsanwaeltin-maurene-comey-feuerte-a-21ffbb67-86a2-45d8-aa15-7e2ef8a686f1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-geburtenrate-bert-ruerup-donald-trump-wladimir-putin](https://www.spiegel.de/politik/deutschland/news-des-tages-geburtenrate-bert-ruerup-donald-trump-wladimir-putin-a-3bd4588a-f3ee-4e17-9afd-b5017057f07b#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/berliner-polizisten-sollen-mann-in-zelle-misshandelt-haben](https://www.spiegel.de/panorama/berliner-polizisten-sollen-mann-in-zelle-misshandelt-haben-a-d7a19fab-66b2-452d-9c39-d2b1f1b5c72f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hamburg-gemeindegruender-wegen-sexueller-uebergriffe-zu-haftstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/hamburg-gemeindegruender-wegen-sexueller-uebergriffe-zu-haftstrafe-verurteilt-a-cb812216-09f1-4b5f-946f-a71b74f942d2#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/zella-mehlis-leblos-in-bach-gefundener-23-jaehriger-wurde-vor-tod-misshandelt](https://www.spiegel.de/panorama/justiz/zella-mehlis-leblos-in-bach-gefundener-23-jaehriger-wurde-vor-tod-misshandelt-a-eb39a0b2-f627-497e-8c78-941a4ee93d4b#ref=rss)
-* [https://www.spiegel.de/geschichte/modekrankheit-neurasthenie-der-vorlaeufer-des-burn-out](https://www.spiegel.de/geschichte/modekrankheit-neurasthenie-der-vorlaeufer-des-burn-out-a-4fc882a4-0124-4761-af9c-a00cde3e9434#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/berliner-polizisten-sollen-mann-in-zelle-misshandelt-haben](https://www.spiegel.de/panorama/berliner-polizisten-sollen-mann-in-zelle-misshandelt-haben-a-d7a19fab-66b2-452d-9c39-d2b1f1b5c72f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/zella-mehlis-leblos-in-bach-gefundener-23-jaehriger-wurde-vor-tod-misshandelt](https://www.spiegel.de/panorama/justiz/zella-mehlis-leblos-in-bach-gefundener-23-jaehriger-wurde-vor-tod-misshandelt-a-eb39a0b2-f627-497e-8c78-941a4ee93d4b#ref=rss)
-* [https://www.spiegel.de/sport/marathon-weltrekordlerin-ruth-chepngetich-nach-positivem-dopingtest-suspendiert](https://www.spiegel.de/sport/marathon-weltrekordlerin-ruth-chepngetich-nach-positivem-dopingtest-suspendiert-a-bab84d7f-2040-411e-a451-fc4508831b20#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-brandenburg-anklage-gegen-vier-maenner-wegen-betrug-mit-faksimile-masche](https://www.spiegel.de/panorama/justiz/berlin-brandenburg-anklage-gegen-vier-maenner-wegen-betrug-mit-faksimile-masche-a-c38ed435-2ebb-46ed-8379-69e76870e788#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/politik/deutschland/eu-haushalt-widerstand-gegen-finanzplaene-der-kommission-formiert-sich](https://www.spiegel.de/politik/deutschland/eu-haushalt-widerstand-gegen-finanzplaene-der-kommission-formiert-sich-a-8027b6fb-a78e-4bf0-b1e7-29834e72362d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-geburtenrate-bert-ruerup-donald-trump-wladimir-putin](https://www.spiegel.de/politik/deutschland/news-des-tages-geburtenrate-bert-ruerup-donald-trump-wladimir-putin-a-3bd4588a-f3ee-4e17-9afd-b5017057f07b#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-flandern-verbietet-durchfuhr-von-militaerguetern-nach-israel](https://www.spiegel.de/ausland/israel-gaza-krieg-flandern-verbietet-durchfuhr-von-militaerguetern-nach-israel-a-7b4ebbd1-84a6-4342-9b65-b63c8c6b441b#ref=rss)
-### weimer
-
-* [https://www.spiegel.de/politik/deutschland/die-linke-lorenz-goesta-beutin-stemmt-sich-gegen-wolfram-weimer](https://www.spiegel.de/politik/deutschland/die-linke-lorenz-goesta-beutin-stemmt-sich-gegen-wolfram-weimer-a-c9f04e9f-9f1b-428f-beab-81be960f0059#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-kulturstaatsminister-wolfram-weimer-plaediert-fuer-wahlverfahren-aenderung](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-kulturstaatsminister-wolfram-weimer-plaediert-fuer-wahlverfahren-aenderung-a-9282b9a0-eaac-4283-8337-c90a328c997c#ref=rss)
-### verurteilt
-
-* [https://www.spiegel.de/panorama/justiz/hamburg-gemeindegruender-wegen-sexueller-uebergriffe-zu-haftstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/hamburg-gemeindegruender-wegen-sexueller-uebergriffe-zu-haftstrafe-verurteilt-a-cb812216-09f1-4b5f-946f-a71b74f942d2#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-bauunternehmer-zu-fuenf-jahren-haft-wegen-schwarzarbeit-verurteilt](https://www.spiegel.de/panorama/justiz/berlin-bauunternehmer-zu-fuenf-jahren-haft-wegen-schwarzarbeit-verurteilt-a-95de0c45-a735-4dc5-970f-b91b72ab4b50#ref=rss)
-### umgang
-
-* [https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat](https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat-a-385e2a87-66f9-400c-ad9d-3c1ea83855d8#ref=rss)
-* [https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat](https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat-a-d5c4ec17-4085-4fbc-8620-f20083e89173#ref=rss)
-### psychischen
-
-* [https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat](https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat-a-385e2a87-66f9-400c-ad9d-3c1ea83855d8#ref=rss)
-* [https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat](https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat-a-d5c4ec17-4085-4fbc-8620-f20083e89173#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat](https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat-a-385e2a87-66f9-400c-ad9d-3c1ea83855d8#ref=rss)
-* [https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat](https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat-a-d5c4ec17-4085-4fbc-8620-f20083e89173#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-brandenburg-anklage-gegen-vier-maenner-wegen-betrug-mit-faksimile-masche](https://www.spiegel.de/panorama/justiz/berlin-brandenburg-anklage-gegen-vier-maenner-wegen-betrug-mit-faksimile-masche-a-c38ed435-2ebb-46ed-8379-69e76870e788#ref=rss)
-* [https://www.spiegel.de/panorama/irak-mehrere-dutzend-tote-bei-grossbrand-in-einkaufszentrum](https://www.spiegel.de/panorama/irak-mehrere-dutzend-tote-bei-grossbrand-in-einkaufszentrum-a-f5395289-e06e-4d43-a18a-82306dbe75d1#ref=rss)
-### fall
-
-* [https://www.spiegel.de/ausland/fall-jeffrey-epstein-warum-donald-trump-die-bekannte-staatsanwaeltin-maurene-comey-feuerte](https://www.spiegel.de/ausland/fall-jeffrey-epstein-warum-donald-trump-die-bekannte-staatsanwaeltin-maurene-comey-feuerte-a-21ffbb67-86a2-45d8-aa15-7e2ef8a686f1#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/zella-mehlis-leblos-in-bach-gefundener-23-jaehriger-wurde-vor-tod-misshandelt](https://www.spiegel.de/panorama/justiz/zella-mehlis-leblos-in-bach-gefundener-23-jaehriger-wurde-vor-tod-misshandelt-a-eb39a0b2-f627-497e-8c78-941a4ee93d4b#ref=rss)
-### comey
-
-* [https://www.spiegel.de/ausland/fall-jeffrey-epstein-warum-donald-trump-die-bekannte-staatsanwaeltin-maurene-comey-feuerte](https://www.spiegel.de/ausland/fall-jeffrey-epstein-warum-donald-trump-die-bekannte-staatsanwaeltin-maurene-comey-feuerte-a-21ffbb67-86a2-45d8-aa15-7e2ef8a686f1#ref=rss)
-### vater
-
-* [https://www.spiegel.de/ausland/fall-jeffrey-epstein-warum-donald-trump-die-bekannte-staatsanwaeltin-maurene-comey-feuerte](https://www.spiegel.de/ausland/fall-jeffrey-epstein-warum-donald-trump-die-bekannte-staatsanwaeltin-maurene-comey-feuerte-a-21ffbb67-86a2-45d8-aa15-7e2ef8a686f1#ref=rss)
-* [https://www.spiegel.de/sport/fussball/florian-wirtz-wechsel-zum-fc-liverpool-hier-spricht-wirtz-vater-ueber-die-details](https://www.spiegel.de/sport/fussball/florian-wirtz-wechsel-zum-fc-liverpool-hier-spricht-wirtz-vater-ueber-die-details-a-02f772a6-ce59-427e-9527-6119843f81fa#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-bundeskanzler-will-angela-merkel-erst-zum-100-geburtstag-oeffentlich-gratulieren](https://www.spiegel.de/politik/deutschland/friedrich-merz-bundeskanzler-will-angela-merkel-erst-zum-100-geburtstag-oeffentlich-gratulieren-a-2e99b064-7a25-43b0-90fa-970ec5b5576c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/jens-spahn-unter-druck-im-zentrum-des-versagens](https://www.spiegel.de/politik/deutschland/jens-spahn-unter-druck-im-zentrum-des-versagens-a-73c1e24f-3e4a-4fca-be2c-a5c4ed405220#ref=rss)
+* [https://www.spiegel.de/ausland/epstein-akten-donald-trump-sagt-pam-bondi-macht-einen-fantastischen-job-wie-lange-noch](https://www.spiegel.de/ausland/epstein-akten-donald-trump-sagt-pam-bondi-macht-einen-fantastischen-job-wie-lange-noch-a-00607104-1503-4118-a977-4b676af1a313#ref=rss)
+* [https://www.spiegel.de/ausland/us-senat-demokraten-verlassen-sitzung-wegen-donald-trumps-richterkandidat-emil-bove](https://www.spiegel.de/ausland/us-senat-demokraten-verlassen-sitzung-wegen-donald-trumps-richterkandidat-emil-bove-a-6d4d60a3-718c-4479-a0bf-8c016367d329#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-und-der-westen-donald-trump-bei-laune-zu-halten-wird-nicht-reichen](https://www.spiegel.de/ausland/ukraine-und-der-westen-donald-trump-bei-laune-zu-halten-wird-nicht-reichen-a-28fed812-6743-422b-b37d-7171de4537b0#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-wendet-sich-donald-trump-von-wladimir-putin-ab](https://www.spiegel.de/ausland/ukraine-krieg-wendet-sich-donald-trump-von-wladimir-putin-ab-a-e6c68723-4c48-46d6-9766-3d243701dc4e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/powell-rechtfertigt-renovierung-von-fed-hauptquartier](https://www.spiegel.de/wirtschaft/powell-rechtfertigt-renovierung-von-fed-hauptquartier-a-2f6bbd8a-c31f-4ebf-bbbc-8ec750d1254d#ref=rss)
 ### merz
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-bundeskanzler-will-angela-merkel-erst-zum-100-geburtstag-oeffentlich-gratulieren](https://www.spiegel.de/politik/deutschland/friedrich-merz-bundeskanzler-will-angela-merkel-erst-zum-100-geburtstag-oeffentlich-gratulieren-a-2e99b064-7a25-43b0-90fa-970ec5b5576c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/jens-spahn-unter-druck-im-zentrum-des-versagens](https://www.spiegel.de/politik/deutschland/jens-spahn-unter-druck-im-zentrum-des-versagens-a-73c1e24f-3e4a-4fca-be2c-a5c4ed405220#ref=rss)
-### berliner
-
-* [https://www.spiegel.de/panorama/berliner-polizisten-sollen-mann-in-zelle-misshandelt-haben](https://www.spiegel.de/panorama/berliner-polizisten-sollen-mann-in-zelle-misshandelt-haben-a-d7a19fab-66b2-452d-9c39-d2b1f1b5c72f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-bauunternehmer-zu-fuenf-jahren-haft-wegen-schwarzarbeit-verurteilt](https://www.spiegel.de/panorama/justiz/berlin-bauunternehmer-zu-fuenf-jahren-haft-wegen-schwarzarbeit-verurteilt-a-95de0c45-a735-4dc5-970f-b91b72ab4b50#ref=rss)
-### wolfram
-
-* [https://www.spiegel.de/politik/deutschland/die-linke-lorenz-goesta-beutin-stemmt-sich-gegen-wolfram-weimer](https://www.spiegel.de/politik/deutschland/die-linke-lorenz-goesta-beutin-stemmt-sich-gegen-wolfram-weimer-a-c9f04e9f-9f1b-428f-beab-81be960f0059#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-kulturstaatsminister-wolfram-weimer-plaediert-fuer-wahlverfahren-aenderung](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-kulturstaatsminister-wolfram-weimer-plaediert-fuer-wahlverfahren-aenderung-a-9282b9a0-eaac-4283-8337-c90a328c997c#ref=rss)
-### extremisten
-
-* [https://www.spiegel.de/politik/deutschland/die-linke-lorenz-goesta-beutin-stemmt-sich-gegen-wolfram-weimer](https://www.spiegel.de/politik/deutschland/die-linke-lorenz-goesta-beutin-stemmt-sich-gegen-wolfram-weimer-a-c9f04e9f-9f1b-428f-beab-81be960f0059#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-kulturstaatsminister-wolfram-weimer-plaediert-fuer-wahlverfahren-aenderung](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-kulturstaatsminister-wolfram-weimer-plaediert-fuer-wahlverfahren-aenderung-a-9282b9a0-eaac-4283-8337-c90a328c997c#ref=rss)
-### hamburg
-
-* [https://www.spiegel.de/panorama/justiz/hamburg-gemeindegruender-wegen-sexueller-uebergriffe-zu-haftstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/hamburg-gemeindegruender-wegen-sexueller-uebergriffe-zu-haftstrafe-verurteilt-a-cb812216-09f1-4b5f-946f-a71b74f942d2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/lieferando-kuendigt-entlassung-von-bis-zu-2000-fahrern-an](https://www.spiegel.de/wirtschaft/unternehmen/lieferando-kuendigt-entlassung-von-bis-zu-2000-fahrern-an-a-bf1b60b2-3295-4745-bd11-21a98d43fa13#ref=rss)
-### dazu
-
-* [https://www.spiegel.de/panorama/justiz/hamburg-gemeindegruender-wegen-sexueller-uebergriffe-zu-haftstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/hamburg-gemeindegruender-wegen-sexueller-uebergriffe-zu-haftstrafe-verurteilt-a-cb812216-09f1-4b5f-946f-a71b74f942d2#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/sommerferien-debatte-was-der-lehrerverbands-praesident-aus-bayern-dazu-sagt](https://www.spiegel.de/panorama/bildung/sommerferien-debatte-was-der-lehrerverbands-praesident-aus-bayern-dazu-sagt-a-1dde82a2-0e3c-4ee2-9988-b91d9fc3c379#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/wolfgang-grupp-macht-suizidversuch-oeffentlich](https://www.spiegel.de/panorama/gesellschaft/wolfgang-grupp-macht-suizidversuch-oeffentlich-a-8752f7d6-88da-410f-9f0e-a8605ed313df#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/panorama/bildung/sommerferien-debatte-was-der-lehrerverbands-praesident-aus-bayern-dazu-sagt](https://www.spiegel.de/panorama/bildung/sommerferien-debatte-was-der-lehrerverbands-praesident-aus-bayern-dazu-sagt-a-1dde82a2-0e3c-4ee2-9988-b91d9fc3c379#ref=rss)
-* [https://www.spiegel.de/sport/fussball/florian-wirtz-wechsel-zum-fc-liverpool-hier-spricht-wirtz-vater-ueber-die-details](https://www.spiegel.de/sport/fussball/florian-wirtz-wechsel-zum-fc-liverpool-hier-spricht-wirtz-vater-ueber-die-details-a-02f772a6-ce59-427e-9527-6119843f81fa#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/panorama/bildung/sommerferien-debatte-was-der-lehrerverbands-praesident-aus-bayern-dazu-sagt](https://www.spiegel.de/panorama/bildung/sommerferien-debatte-was-der-lehrerverbands-praesident-aus-bayern-dazu-sagt-a-1dde82a2-0e3c-4ee2-9988-b91d9fc3c379#ref=rss)
-* [https://www.spiegel.de/sport/fussball/florian-wirtz-wechsel-zum-fc-liverpool-hier-spricht-wirtz-vater-ueber-die-details](https://www.spiegel.de/sport/fussball/florian-wirtz-wechsel-zum-fc-liverpool-hier-spricht-wirtz-vater-ueber-die-details-a-02f772a6-ce59-427e-9527-6119843f81fa#ref=rss)
-* [https://www.spiegel.de/kultur/musik/steve-miller-band-sagt-tournee-ab-schuld-hat-das-wetter](https://www.spiegel.de/kultur/musik/steve-miller-band-sagt-tournee-ab-schuld-hat-das-wetter-a-0831ee83-8c25-4e47-b315-89c0bc3b3477#ref=rss)
-### erste
-
-* [https://www.spiegel.de/panorama/justiz/zella-mehlis-leblos-in-bach-gefundener-23-jaehriger-wurde-vor-tod-misshandelt](https://www.spiegel.de/panorama/justiz/zella-mehlis-leblos-in-bach-gefundener-23-jaehriger-wurde-vor-tod-misshandelt-a-eb39a0b2-f627-497e-8c78-941a4ee93d4b#ref=rss)
-* [https://www.spiegel.de/sport/marathon-weltrekordlerin-ruth-chepngetich-nach-positivem-dopingtest-suspendiert](https://www.spiegel.de/sport/marathon-weltrekordlerin-ruth-chepngetich-nach-positivem-dopingtest-suspendiert-a-bab84d7f-2040-411e-a451-fc4508831b20#ref=rss)
-* [https://www.spiegel.de/kultur/musik/steve-miller-band-sagt-tournee-ab-schuld-hat-das-wetter](https://www.spiegel.de/kultur/musik/steve-miller-band-sagt-tournee-ab-schuld-hat-das-wetter-a-0831ee83-8c25-4e47-b315-89c0bc3b3477#ref=rss)
-### florian
-
-* [https://www.spiegel.de/sport/12-etappe-der-tour-de-france-der-gipfelsturm-des-tadej-pogacar](https://www.spiegel.de/sport/12-etappe-der-tour-de-france-der-gipfelsturm-des-tadej-pogacar-a-67b0c3d8-076d-4ad0-85f8-e65456b8a0a8#ref=rss)
-* [https://www.spiegel.de/sport/fussball/florian-wirtz-wechsel-zum-fc-liverpool-hier-spricht-wirtz-vater-ueber-die-details](https://www.spiegel.de/sport/fussball/florian-wirtz-wechsel-zum-fc-liverpool-hier-spricht-wirtz-vater-ueber-die-details-a-02f772a6-ce59-427e-9527-6119843f81fa#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/panorama/justiz/berlin-bauunternehmer-zu-fuenf-jahren-haft-wegen-schwarzarbeit-verurteilt](https://www.spiegel.de/panorama/justiz/berlin-bauunternehmer-zu-fuenf-jahren-haft-wegen-schwarzarbeit-verurteilt-a-95de0c45-a735-4dc5-970f-b91b72ab4b50#ref=rss)
-* [https://www.spiegel.de/panorama/irak-mehrere-dutzend-tote-bei-grossbrand-in-einkaufszentrum](https://www.spiegel.de/panorama/irak-mehrere-dutzend-tote-bei-grossbrand-in-einkaufszentrum-a-f5395289-e06e-4d43-a18a-82306dbe75d1#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/florian-wirtz-wechsel-zum-fc-liverpool-hier-spricht-wirtz-vater-ueber-die-details](https://www.spiegel.de/sport/fussball/florian-wirtz-wechsel-zum-fc-liverpool-hier-spricht-wirtz-vater-ueber-die-details-a-02f772a6-ce59-427e-9527-6119843f81fa#ref=rss)
-### brosiusgersdorf
-
-* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-kulturstaatsminister-wolfram-weimer-plaediert-fuer-wahlverfahren-aenderung](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-kulturstaatsminister-wolfram-weimer-plaediert-fuer-wahlverfahren-aenderung-a-9282b9a0-eaac-4283-8337-c90a328c997c#ref=rss)
-* [https://www.spiegel.de/panorama/debatte-ueber-frauke-brosius-gersdorf-bamberger-erzbischof-nimmt-aussagen-aus-seiner-predigt-zurueck](https://www.spiegel.de/panorama/debatte-ueber-frauke-brosius-gersdorf-bamberger-erzbischof-nimmt-aussagen-aus-seiner-predigt-zurueck-a-441979e2-39f0-4a82-8e7c-705ebed06760#ref=rss)
-### jeffrey
-
-* [https://www.spiegel.de/ausland/fall-jeffrey-epstein-warum-donald-trump-die-bekannte-staatsanwaeltin-maurene-comey-feuerte](https://www.spiegel.de/ausland/fall-jeffrey-epstein-warum-donald-trump-die-bekannte-staatsanwaeltin-maurene-comey-feuerte-a-21ffbb67-86a2-45d8-aa15-7e2ef8a686f1#ref=rss)
-### epstein
-
-* [https://www.spiegel.de/ausland/fall-jeffrey-epstein-warum-donald-trump-die-bekannte-staatsanwaeltin-maurene-comey-feuerte](https://www.spiegel.de/ausland/fall-jeffrey-epstein-warum-donald-trump-die-bekannte-staatsanwaeltin-maurene-comey-feuerte-a-21ffbb67-86a2-45d8-aa15-7e2ef8a686f1#ref=rss)
-### maurene
-
-* [https://www.spiegel.de/ausland/fall-jeffrey-epstein-warum-donald-trump-die-bekannte-staatsanwaeltin-maurene-comey-feuerte](https://www.spiegel.de/ausland/fall-jeffrey-epstein-warum-donald-trump-die-bekannte-staatsanwaeltin-maurene-comey-feuerte-a-21ffbb67-86a2-45d8-aa15-7e2ef8a686f1#ref=rss)
-### feuerte
-
-* [https://www.spiegel.de/ausland/fall-jeffrey-epstein-warum-donald-trump-die-bekannte-staatsanwaeltin-maurene-comey-feuerte](https://www.spiegel.de/ausland/fall-jeffrey-epstein-warum-donald-trump-die-bekannte-staatsanwaeltin-maurene-comey-feuerte-a-21ffbb67-86a2-45d8-aa15-7e2ef8a686f1#ref=rss)
-### angela
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-bundeskanzler-will-angela-merkel-erst-zum-100-geburtstag-oeffentlich-gratulieren](https://www.spiegel.de/politik/deutschland/friedrich-merz-bundeskanzler-will-angela-merkel-erst-zum-100-geburtstag-oeffentlich-gratulieren-a-2e99b064-7a25-43b0-90fa-970ec5b5576c#ref=rss)
-### merkel
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-bundeskanzler-will-angela-merkel-erst-zum-100-geburtstag-oeffentlich-gratulieren](https://www.spiegel.de/politik/deutschland/friedrich-merz-bundeskanzler-will-angela-merkel-erst-zum-100-geburtstag-oeffentlich-gratulieren-a-2e99b064-7a25-43b0-90fa-970ec5b5576c#ref=rss)
-### 100
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-bundeskanzler-will-angela-merkel-erst-zum-100-geburtstag-oeffentlich-gratulieren](https://www.spiegel.de/politik/deutschland/friedrich-merz-bundeskanzler-will-angela-merkel-erst-zum-100-geburtstag-oeffentlich-gratulieren-a-2e99b064-7a25-43b0-90fa-970ec5b5576c#ref=rss)
-### öffentlich
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-bundeskanzler-will-angela-merkel-erst-zum-100-geburtstag-oeffentlich-gratulieren](https://www.spiegel.de/politik/deutschland/friedrich-merz-bundeskanzler-will-angela-merkel-erst-zum-100-geburtstag-oeffentlich-gratulieren-a-2e99b064-7a25-43b0-90fa-970ec5b5576c#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/wolfgang-grupp-macht-suizidversuch-oeffentlich](https://www.spiegel.de/panorama/gesellschaft/wolfgang-grupp-macht-suizidversuch-oeffentlich-a-8752f7d6-88da-410f-9f0e-a8605ed313df#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-bundeskanzler-will-angela-merkel-erst-zum-100-geburtstag-oeffentlich-gratulieren](https://www.spiegel.de/politik/deutschland/friedrich-merz-bundeskanzler-will-angela-merkel-erst-zum-100-geburtstag-oeffentlich-gratulieren-a-2e99b064-7a25-43b0-90fa-970ec5b5576c#ref=rss)
-* [https://www.spiegel.de/familie/kinder-und-digitale-medien-wie-viel-smartphone-zeit-ist-normal](https://www.spiegel.de/familie/kinder-und-digitale-medien-wie-viel-smartphone-zeit-ist-normal-a-9a68b57d-c48f-4787-9be7-c2833557e68f#ref=rss)
-### zelle
-
-* [https://www.spiegel.de/panorama/berliner-polizisten-sollen-mann-in-zelle-misshandelt-haben](https://www.spiegel.de/panorama/berliner-polizisten-sollen-mann-in-zelle-misshandelt-haben-a-d7a19fab-66b2-452d-9c39-d2b1f1b5c72f#ref=rss)
-### misshandelt
-
-* [https://www.spiegel.de/panorama/berliner-polizisten-sollen-mann-in-zelle-misshandelt-haben](https://www.spiegel.de/panorama/berliner-polizisten-sollen-mann-in-zelle-misshandelt-haben-a-d7a19fab-66b2-452d-9c39-d2b1f1b5c72f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/zella-mehlis-leblos-in-bach-gefundener-23-jaehriger-wurde-vor-tod-misshandelt](https://www.spiegel.de/panorama/justiz/zella-mehlis-leblos-in-bach-gefundener-23-jaehriger-wurde-vor-tod-misshandelt-a-eb39a0b2-f627-497e-8c78-941a4ee93d4b#ref=rss)
-### ermittler
-
-* [https://www.spiegel.de/panorama/berliner-polizisten-sollen-mann-in-zelle-misshandelt-haben](https://www.spiegel.de/panorama/berliner-polizisten-sollen-mann-in-zelle-misshandelt-haben-a-d7a19fab-66b2-452d-9c39-d2b1f1b5c72f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/zella-mehlis-leblos-in-bach-gefundener-23-jaehriger-wurde-vor-tod-misshandelt](https://www.spiegel.de/panorama/justiz/zella-mehlis-leblos-in-bach-gefundener-23-jaehriger-wurde-vor-tod-misshandelt-a-eb39a0b2-f627-497e-8c78-941a4ee93d4b#ref=rss)
-### widerstand
-
-* [https://www.spiegel.de/politik/deutschland/eu-haushalt-widerstand-gegen-finanzplaene-der-kommission-formiert-sich](https://www.spiegel.de/politik/deutschland/eu-haushalt-widerstand-gegen-finanzplaene-der-kommission-formiert-sich-a-8027b6fb-a78e-4bf0-b1e7-29834e72362d#ref=rss)
-### formiert
-
-* [https://www.spiegel.de/politik/deutschland/eu-haushalt-widerstand-gegen-finanzplaene-der-kommission-formiert-sich](https://www.spiegel.de/politik/deutschland/eu-haushalt-widerstand-gegen-finanzplaene-der-kommission-formiert-sich-a-8027b6fb-a78e-4bf0-b1e7-29834e72362d#ref=rss)
-### eltern
-
-* [https://www.spiegel.de/familie/kinder-und-digitale-medien-wie-viel-smartphone-zeit-ist-normal](https://www.spiegel.de/familie/kinder-und-digitale-medien-wie-viel-smartphone-zeit-ist-normal-a-9a68b57d-c48f-4787-9be7-c2833557e68f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/florian-wirtz-wechsel-zum-fc-liverpool-hier-spricht-wirtz-vater-ueber-die-details](https://www.spiegel.de/sport/fussball/florian-wirtz-wechsel-zum-fc-liverpool-hier-spricht-wirtz-vater-ueber-die-details-a-02f772a6-ce59-427e-9527-6119843f81fa#ref=rss)
-### beutin
-
-* [https://www.spiegel.de/politik/deutschland/die-linke-lorenz-goesta-beutin-stemmt-sich-gegen-wolfram-weimer](https://www.spiegel.de/politik/deutschland/die-linke-lorenz-goesta-beutin-stemmt-sich-gegen-wolfram-weimer-a-c9f04e9f-9f1b-428f-beab-81be960f0059#ref=rss)
-### kulturstaatsminister
-
-* [https://www.spiegel.de/politik/deutschland/die-linke-lorenz-goesta-beutin-stemmt-sich-gegen-wolfram-weimer](https://www.spiegel.de/politik/deutschland/die-linke-lorenz-goesta-beutin-stemmt-sich-gegen-wolfram-weimer-a-c9f04e9f-9f1b-428f-beab-81be960f0059#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-kulturstaatsminister-wolfram-weimer-plaediert-fuer-wahlverfahren-aenderung](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-kulturstaatsminister-wolfram-weimer-plaediert-fuer-wahlverfahren-aenderung-a-9282b9a0-eaac-4283-8337-c90a328c997c#ref=rss)
-### bundestag
-
-* [https://www.spiegel.de/politik/deutschland/die-linke-lorenz-goesta-beutin-stemmt-sich-gegen-wolfram-weimer](https://www.spiegel.de/politik/deutschland/die-linke-lorenz-goesta-beutin-stemmt-sich-gegen-wolfram-weimer-a-c9f04e9f-9f1b-428f-beab-81be960f0059#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-kulturstaatsminister-wolfram-weimer-plaediert-fuer-wahlverfahren-aenderung](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-kulturstaatsminister-wolfram-weimer-plaediert-fuer-wahlverfahren-aenderung-a-9282b9a0-eaac-4283-8337-c90a328c997c#ref=rss)
-### mehrere
-
-* [https://www.spiegel.de/panorama/justiz/hamburg-gemeindegruender-wegen-sexueller-uebergriffe-zu-haftstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/hamburg-gemeindegruender-wegen-sexueller-uebergriffe-zu-haftstrafe-verurteilt-a-cb812216-09f1-4b5f-946f-a71b74f942d2#ref=rss)
-* [https://www.spiegel.de/panorama/irak-mehrere-dutzend-tote-bei-grossbrand-in-einkaufszentrum](https://www.spiegel.de/panorama/irak-mehrere-dutzend-tote-bei-grossbrand-in-einkaufszentrum-a-f5395289-e06e-4d43-a18a-82306dbe75d1#ref=rss)
-### geschichte
-
-* [https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat](https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat-a-385e2a87-66f9-400c-ad9d-3c1ea83855d8#ref=rss)
-* [https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat](https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat-a-d5c4ec17-4085-4fbc-8620-f20083e89173#ref=rss)
-### krankheiten
-
-* [https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat](https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat-a-385e2a87-66f9-400c-ad9d-3c1ea83855d8#ref=rss)
-* [https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat](https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat-a-d5c4ec17-4085-4fbc-8620-f20083e89173#ref=rss)
-### verändert
-
-* [https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat](https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat-a-385e2a87-66f9-400c-ad9d-3c1ea83855d8#ref=rss)
-* [https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat](https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat-a-d5c4ec17-4085-4fbc-8620-f20083e89173#ref=rss)
-### jahrhunderte
-
-* [https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat](https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat-a-385e2a87-66f9-400c-ad9d-3c1ea83855d8#ref=rss)
-* [https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat](https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat-a-d5c4ec17-4085-4fbc-8620-f20083e89173#ref=rss)
-### erkrankungen
-
-* [https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat](https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat-a-385e2a87-66f9-400c-ad9d-3c1ea83855d8#ref=rss)
-* [https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat](https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat-a-d5c4ec17-4085-4fbc-8620-f20083e89173#ref=rss)
-### stigmatisiert
-
-* [https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat](https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat-a-385e2a87-66f9-400c-ad9d-3c1ea83855d8#ref=rss)
-* [https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat](https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat-a-d5c4ec17-4085-4fbc-8620-f20083e89173#ref=rss)
-### grausam
-
-* [https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat](https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat-a-385e2a87-66f9-400c-ad9d-3c1ea83855d8#ref=rss)
-* [https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat](https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat-a-d5c4ec17-4085-4fbc-8620-f20083e89173#ref=rss)
-### behandelt
-
-* [https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat](https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat-a-385e2a87-66f9-400c-ad9d-3c1ea83855d8#ref=rss)
-* [https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat](https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat-a-d5c4ec17-4085-4fbc-8620-f20083e89173#ref=rss)
-### weggesperrt
-
-* [https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat](https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat-a-385e2a87-66f9-400c-ad9d-3c1ea83855d8#ref=rss)
-* [https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat](https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat-a-d5c4ec17-4085-4fbc-8620-f20083e89173#ref=rss)
-### spiegelredakteurin
-
-* [https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat](https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat-a-385e2a87-66f9-400c-ad9d-3c1ea83855d8#ref=rss)
-* [https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat](https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat-a-d5c4ec17-4085-4fbc-8620-f20083e89173#ref=rss)
-### evamaria
-
-* [https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat](https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat-a-385e2a87-66f9-400c-ad9d-3c1ea83855d8#ref=rss)
-* [https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat](https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat-a-d5c4ec17-4085-4fbc-8620-f20083e89173#ref=rss)
-### schnurr
-
-* [https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat](https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat-a-385e2a87-66f9-400c-ad9d-3c1ea83855d8#ref=rss)
-* [https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat](https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat-a-d5c4ec17-4085-4fbc-8620-f20083e89173#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat](https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat-a-385e2a87-66f9-400c-ad9d-3c1ea83855d8#ref=rss)
-* [https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat](https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat-a-d5c4ec17-4085-4fbc-8620-f20083e89173#ref=rss)
-### seelischem
-
-* [https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat](https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat-a-385e2a87-66f9-400c-ad9d-3c1ea83855d8#ref=rss)
-* [https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat](https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat-a-d5c4ec17-4085-4fbc-8620-f20083e89173#ref=rss)
-### leid
-
-* [https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat](https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat-a-385e2a87-66f9-400c-ad9d-3c1ea83855d8#ref=rss)
-* [https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat](https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat-a-d5c4ec17-4085-4fbc-8620-f20083e89173#ref=rss)
-### gewandelt
-
-* [https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat](https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat-a-385e2a87-66f9-400c-ad9d-3c1ea83855d8#ref=rss)
-* [https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat](https://www.spiegel.de/geschichte/geschichte-wie-sich-der-umgang-mit-psychischen-krankheiten-veraendert-hat-a-d5c4ec17-4085-4fbc-8620-f20083e89173#ref=rss)
-### vier
-
-* [https://www.spiegel.de/panorama/justiz/zella-mehlis-leblos-in-bach-gefundener-23-jaehriger-wurde-vor-tod-misshandelt](https://www.spiegel.de/panorama/justiz/zella-mehlis-leblos-in-bach-gefundener-23-jaehriger-wurde-vor-tod-misshandelt-a-eb39a0b2-f627-497e-8c78-941a4ee93d4b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-brandenburg-anklage-gegen-vier-maenner-wegen-betrug-mit-faksimile-masche](https://www.spiegel.de/panorama/justiz/berlin-brandenburg-anklage-gegen-vier-maenner-wegen-betrug-mit-faksimile-masche-a-c38ed435-2ebb-46ed-8379-69e76870e788#ref=rss)
-### details
-
-* [https://www.spiegel.de/panorama/justiz/zella-mehlis-leblos-in-bach-gefundener-23-jaehriger-wurde-vor-tod-misshandelt](https://www.spiegel.de/panorama/justiz/zella-mehlis-leblos-in-bach-gefundener-23-jaehriger-wurde-vor-tod-misshandelt-a-eb39a0b2-f627-497e-8c78-941a4ee93d4b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/florian-wirtz-wechsel-zum-fc-liverpool-hier-spricht-wirtz-vater-ueber-die-details](https://www.spiegel.de/sport/fussball/florian-wirtz-wechsel-zum-fc-liverpool-hier-spricht-wirtz-vater-ueber-die-details-a-02f772a6-ce59-427e-9527-6119843f81fa#ref=rss)
-### marathon
-
-* [https://www.spiegel.de/sport/marathon-weltrekordlerin-ruth-chepngetich-nach-positivem-dopingtest-suspendiert](https://www.spiegel.de/sport/marathon-weltrekordlerin-ruth-chepngetich-nach-positivem-dopingtest-suspendiert-a-bab84d7f-2040-411e-a451-fc4508831b20#ref=rss)
-### ruth
-
-* [https://www.spiegel.de/sport/marathon-weltrekordlerin-ruth-chepngetich-nach-positivem-dopingtest-suspendiert](https://www.spiegel.de/sport/marathon-weltrekordlerin-ruth-chepngetich-nach-positivem-dopingtest-suspendiert-a-bab84d7f-2040-411e-a451-fc4508831b20#ref=rss)
-### chepngetich
-
-* [https://www.spiegel.de/sport/marathon-weltrekordlerin-ruth-chepngetich-nach-positivem-dopingtest-suspendiert](https://www.spiegel.de/sport/marathon-weltrekordlerin-ruth-chepngetich-nach-positivem-dopingtest-suspendiert-a-bab84d7f-2040-411e-a451-fc4508831b20#ref=rss)
-### frau
-
-* [https://www.spiegel.de/sport/marathon-weltrekordlerin-ruth-chepngetich-nach-positivem-dopingtest-suspendiert](https://www.spiegel.de/sport/marathon-weltrekordlerin-ruth-chepngetich-nach-positivem-dopingtest-suspendiert-a-bab84d7f-2040-411e-a451-fc4508831b20#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/boulevardblatt-zeigt-ungewollt-entbloesste-brust-eines-models-und-soll-nun-zahlen](https://www.spiegel.de/panorama/justiz/boulevardblatt-zeigt-ungewollt-entbloesste-brust-eines-models-und-soll-nun-zahlen-a-963916fb-ab6a-4690-8987-e5deb5090971#ref=rss)
-### unter
-
-* [https://www.spiegel.de/sport/marathon-weltrekordlerin-ruth-chepngetich-nach-positivem-dopingtest-suspendiert](https://www.spiegel.de/sport/marathon-weltrekordlerin-ruth-chepngetich-nach-positivem-dopingtest-suspendiert-a-bab84d7f-2040-411e-a451-fc4508831b20#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/jens-spahn-unter-druck-im-zentrum-des-versagens](https://www.spiegel.de/politik/deutschland/jens-spahn-unter-druck-im-zentrum-des-versagens-a-73c1e24f-3e4a-4fca-be2c-a5c4ed405220#ref=rss)
-### tour
-
-* [https://www.spiegel.de/sport/12-etappe-der-tour-de-france-der-gipfelsturm-des-tadej-pogacar](https://www.spiegel.de/sport/12-etappe-der-tour-de-france-der-gipfelsturm-des-tadej-pogacar-a-67b0c3d8-076d-4ad0-85f8-e65456b8a0a8#ref=rss)
-### de
-
-* [https://www.spiegel.de/sport/12-etappe-der-tour-de-france-der-gipfelsturm-des-tadej-pogacar](https://www.spiegel.de/sport/12-etappe-der-tour-de-france-der-gipfelsturm-des-tadej-pogacar-a-67b0c3d8-076d-4ad0-85f8-e65456b8a0a8#ref=rss)
-### france
-
-* [https://www.spiegel.de/sport/12-etappe-der-tour-de-france-der-gipfelsturm-des-tadej-pogacar](https://www.spiegel.de/sport/12-etappe-der-tour-de-france-der-gipfelsturm-des-tadej-pogacar-a-67b0c3d8-076d-4ad0-85f8-e65456b8a0a8#ref=rss)
-### tadej
-
-* [https://www.spiegel.de/sport/12-etappe-der-tour-de-france-der-gipfelsturm-des-tadej-pogacar](https://www.spiegel.de/sport/12-etappe-der-tour-de-france-der-gipfelsturm-des-tadej-pogacar-a-67b0c3d8-076d-4ad0-85f8-e65456b8a0a8#ref=rss)
-### pogačar
-
-* [https://www.spiegel.de/sport/12-etappe-der-tour-de-france-der-gipfelsturm-des-tadej-pogacar](https://www.spiegel.de/sport/12-etappe-der-tour-de-france-der-gipfelsturm-des-tadej-pogacar-a-67b0c3d8-076d-4ad0-85f8-e65456b8a0a8#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/panorama/justiz/berlin-bauunternehmer-zu-fuenf-jahren-haft-wegen-schwarzarbeit-verurteilt](https://www.spiegel.de/panorama/justiz/berlin-bauunternehmer-zu-fuenf-jahren-haft-wegen-schwarzarbeit-verurteilt-a-95de0c45-a735-4dc5-970f-b91b72ab4b50#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-brandenburg-anklage-gegen-vier-maenner-wegen-betrug-mit-faksimile-masche](https://www.spiegel.de/panorama/justiz/berlin-brandenburg-anklage-gegen-vier-maenner-wegen-betrug-mit-faksimile-masche-a-c38ed435-2ebb-46ed-8379-69e76870e788#ref=rss)
-### bauunternehmer
-
-* [https://www.spiegel.de/panorama/justiz/berlin-bauunternehmer-zu-fuenf-jahren-haft-wegen-schwarzarbeit-verurteilt](https://www.spiegel.de/panorama/justiz/berlin-bauunternehmer-zu-fuenf-jahren-haft-wegen-schwarzarbeit-verurteilt-a-95de0c45-a735-4dc5-970f-b91b72ab4b50#ref=rss)
-### fünf
-
-* [https://www.spiegel.de/panorama/justiz/berlin-bauunternehmer-zu-fuenf-jahren-haft-wegen-schwarzarbeit-verurteilt](https://www.spiegel.de/panorama/justiz/berlin-bauunternehmer-zu-fuenf-jahren-haft-wegen-schwarzarbeit-verurteilt-a-95de0c45-a735-4dc5-970f-b91b72ab4b50#ref=rss)
-### haft
-
-* [https://www.spiegel.de/panorama/justiz/berlin-bauunternehmer-zu-fuenf-jahren-haft-wegen-schwarzarbeit-verurteilt](https://www.spiegel.de/panorama/justiz/berlin-bauunternehmer-zu-fuenf-jahren-haft-wegen-schwarzarbeit-verurteilt-a-95de0c45-a735-4dc5-970f-b91b72ab4b50#ref=rss)
-### schwarzarbeit
-
-* [https://www.spiegel.de/panorama/justiz/berlin-bauunternehmer-zu-fuenf-jahren-haft-wegen-schwarzarbeit-verurteilt](https://www.spiegel.de/panorama/justiz/berlin-bauunternehmer-zu-fuenf-jahren-haft-wegen-schwarzarbeit-verurteilt-a-95de0c45-a735-4dc5-970f-b91b72ab4b50#ref=rss)
-### liverpool
-
-* [https://www.spiegel.de/sport/fussball/florian-wirtz-wechsel-zum-fc-liverpool-hier-spricht-wirtz-vater-ueber-die-details](https://www.spiegel.de/sport/fussball/florian-wirtz-wechsel-zum-fc-liverpool-hier-spricht-wirtz-vater-ueber-die-details-a-02f772a6-ce59-427e-9527-6119843f81fa#ref=rss)
-### wirtz
-
-* [https://www.spiegel.de/sport/fussball/florian-wirtz-wechsel-zum-fc-liverpool-hier-spricht-wirtz-vater-ueber-die-details](https://www.spiegel.de/sport/fussball/florian-wirtz-wechsel-zum-fc-liverpool-hier-spricht-wirtz-vater-ueber-die-details-a-02f772a6-ce59-427e-9527-6119843f81fa#ref=rss)
-### entscheidung
-
-* [https://www.spiegel.de/sport/fussball/florian-wirtz-wechsel-zum-fc-liverpool-hier-spricht-wirtz-vater-ueber-die-details](https://www.spiegel.de/sport/fussball/florian-wirtz-wechsel-zum-fc-liverpool-hier-spricht-wirtz-vater-ueber-die-details-a-02f772a6-ce59-427e-9527-6119843f81fa#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/boulevardblatt-zeigt-ungewollt-entbloesste-brust-eines-models-und-soll-nun-zahlen](https://www.spiegel.de/panorama/justiz/boulevardblatt-zeigt-ungewollt-entbloesste-brust-eines-models-und-soll-nun-zahlen-a-963916fb-ab6a-4690-8987-e5deb5090971#ref=rss)
-### welt
-
-* [https://www.spiegel.de/geschichte/modekrankheit-neurasthenie-der-vorlaeufer-des-burn-out](https://www.spiegel.de/geschichte/modekrankheit-neurasthenie-der-vorlaeufer-des-burn-out-a-4fc882a4-0124-4761-af9c-a00cde3e9434#ref=rss)
-* [https://www.spiegel.de/kultur/kino/superman-wer-ist-ihr-lieblings-superman-david-corenswet-christopher-reeve-henry-cavill-dean-cain](https://www.spiegel.de/kultur/kino/superman-wer-ist-ihr-lieblings-superman-david-corenswet-christopher-reeve-henry-cavill-dean-cain-a-752cdd71-826e-4cbd-b5c8-2dde602bb7e8#ref=rss)
-### neues
-
-* [https://www.spiegel.de/geschichte/modekrankheit-neurasthenie-der-vorlaeufer-des-burn-out](https://www.spiegel.de/geschichte/modekrankheit-neurasthenie-der-vorlaeufer-des-burn-out-a-4fc882a4-0124-4761-af9c-a00cde3e9434#ref=rss)
-* [https://www.spiegel.de/ausland/zensur-in-russland-neues-gesetz-schraenkt-internetnutzung-ein](https://www.spiegel.de/ausland/zensur-in-russland-neues-gesetz-schraenkt-internetnutzung-ein-a-c3c57681-b143-455c-bf9e-d1d7713c2f33#ref=rss)
-### faksimilemasche
-
-* [https://www.spiegel.de/panorama/justiz/berlin-brandenburg-anklage-gegen-vier-maenner-wegen-betrug-mit-faksimile-masche](https://www.spiegel.de/panorama/justiz/berlin-brandenburg-anklage-gegen-vier-maenner-wegen-betrug-mit-faksimile-masche-a-c38ed435-2ebb-46ed-8379-69e76870e788#ref=rss)
-### geburtenrate
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-geburtenrate-bert-ruerup-donald-trump-wladimir-putin](https://www.spiegel.de/politik/deutschland/news-des-tages-geburtenrate-bert-ruerup-donald-trump-wladimir-putin-a-3bd4588a-f3ee-4e17-9afd-b5017057f07b#ref=rss)
-### bert
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-geburtenrate-bert-ruerup-donald-trump-wladimir-putin](https://www.spiegel.de/politik/deutschland/news-des-tages-geburtenrate-bert-ruerup-donald-trump-wladimir-putin-a-3bd4588a-f3ee-4e17-9afd-b5017057f07b#ref=rss)
-### rürup
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-geburtenrate-bert-ruerup-donald-trump-wladimir-putin](https://www.spiegel.de/politik/deutschland/news-des-tages-geburtenrate-bert-ruerup-donald-trump-wladimir-putin-a-3bd4588a-f3ee-4e17-9afd-b5017057f07b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/richterstreit-friedrich-merz-stellt-sich-vor-frauke-brosius-gersdorf-aber-haelt-sich-ihre-wahl-offen](https://www.spiegel.de/politik/deutschland/richterstreit-friedrich-merz-stellt-sich-vor-frauke-brosius-gersdorf-aber-haelt-sich-ihre-wahl-offen-a-8777d71b-3777-45b0-8bca-4b20990ae549#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-und-der-westen-donald-trump-bei-laune-zu-halten-wird-nicht-reichen](https://www.spiegel.de/ausland/ukraine-und-der-westen-donald-trump-bei-laune-zu-halten-wird-nicht-reichen-a-28fed812-6743-422b-b37d-7171de4537b0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-spricht-auf-sommerpressekonferenz-hier-im-livestream](https://www.spiegel.de/politik/deutschland/friedrich-merz-spricht-auf-sommerpressekonferenz-hier-im-livestream-a-709541ee-e217-4ea5-b5b9-73ba4d9ed1bf#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/netzwelt/apps/netflix-bringt-mehr-ki-auf-den-bildschirm](https://www.spiegel.de/netzwelt/apps/netflix-bringt-mehr-ki-auf-den-bildschirm-a-0d3a7902-7c25-4e95-a6c5-33392d826ad1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bamf-entscheidet-wieder-ueber-asylantraege-aus-gaza](https://www.spiegel.de/politik/deutschland/bamf-entscheidet-wieder-ueber-asylantraege-aus-gaza-a-c8886bdf-5355-4cd2-9db1-46c36e2a7ec8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/karge-ernten-bei-erdbeeren-und-spargel](https://www.spiegel.de/wirtschaft/karge-ernten-bei-erdbeeren-und-spargel-a-f3a21e5c-587b-4602-b95a-c898d7bebae4#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/kultur/musik/k-popband-1verse-flucht-aus-nordkorea-ins-popstar-dasein](https://www.spiegel.de/kultur/musik/k-popband-1verse-flucht-aus-nordkorea-ins-popstar-dasein-a-8e4fea04-d391-452c-b9a0-5c95c77e8460#ref=rss)
+* [https://www.spiegel.de/panorama/leute/coldplay-produziert-zwei-neue-singles-wie-chris-martin-aus-versehen-eine-affaere-aufgedeckt-hat](https://www.spiegel.de/panorama/leute/coldplay-produziert-zwei-neue-singles-wie-chris-martin-aus-versehen-eine-affaere-aufgedeckt-hat-a-6d6e6dee-623f-4030-b8f1-f042cc872e58#ref=rss)
+* [https://www.spiegel.de/sport/fussball/klara-buehl-bei-der-fussball-em-2025-die-zwei-gesichter-der-dfb-stuermerin](https://www.spiegel.de/sport/fussball/klara-buehl-bei-der-fussball-em-2025-die-zwei-gesichter-der-dfb-stuermerin-a-ab241261-f311-46e5-8fff-68f97e089411#ref=rss)
+* [https://www.spiegel.de/ausland/israel-abgelehnt-im-inland-und-im-ausland-das-leben-eines-israelischen-pazifisten](https://www.spiegel.de/ausland/israel-abgelehnt-im-inland-und-im-ausland-das-leben-eines-israelischen-pazifisten-a-85d6e8a4-5d4b-419b-99a0-7d8251c52109#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/wirtschaft/porsche-autobauer-offenbar-vor-neuem-sparprogramm](https://www.spiegel.de/wirtschaft/porsche-autobauer-offenbar-vor-neuem-sparprogramm-a-707e50d6-7eec-43aa-9b2d-bae65f55e419#ref=rss)
+* [https://www.spiegel.de/kultur/musik/k-popband-1verse-flucht-aus-nordkorea-ins-popstar-dasein](https://www.spiegel.de/kultur/musik/k-popband-1verse-flucht-aus-nordkorea-ins-popstar-dasein-a-8e4fea04-d391-452c-b9a0-5c95c77e8460#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-datenleck-betrifft-offenbar-ueber-100-britische-spione-und-spezialkraefte](https://www.spiegel.de/ausland/afghanistan-datenleck-betrifft-offenbar-ueber-100-britische-spione-und-spezialkraefte-a-a207b7e4-b8d1-4881-8290-aeb13294e440#ref=rss)
+### uspräsident
+
+* [https://www.spiegel.de/ausland/epstein-akten-donald-trump-sagt-pam-bondi-macht-einen-fantastischen-job-wie-lange-noch](https://www.spiegel.de/ausland/epstein-akten-donald-trump-sagt-pam-bondi-macht-einen-fantastischen-job-wie-lange-noch-a-00607104-1503-4118-a977-4b676af1a313#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-wendet-sich-donald-trump-von-wladimir-putin-ab](https://www.spiegel.de/ausland/ukraine-krieg-wendet-sich-donald-trump-von-wladimir-putin-ab-a-e6c68723-4c48-46d6-9766-3d243701dc4e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/powell-rechtfertigt-renovierung-von-fed-hauptquartier](https://www.spiegel.de/wirtschaft/powell-rechtfertigt-renovierung-von-fed-hauptquartier-a-2f6bbd8a-c31f-4ebf-bbbc-8ec750d1254d#ref=rss)
+### neue
+
+* [https://www.spiegel.de/kultur/musik/k-popband-1verse-flucht-aus-nordkorea-ins-popstar-dasein](https://www.spiegel.de/kultur/musik/k-popband-1verse-flucht-aus-nordkorea-ins-popstar-dasein-a-8e4fea04-d391-452c-b9a0-5c95c77e8460#ref=rss)
+* [https://www.spiegel.de/panorama/leute/coldplay-produziert-zwei-neue-singles-wie-chris-martin-aus-versehen-eine-affaere-aufgedeckt-hat](https://www.spiegel.de/panorama/leute/coldplay-produziert-zwei-neue-singles-wie-chris-martin-aus-versehen-eine-affaere-aufgedeckt-hat-a-6d6e6dee-623f-4030-b8f1-f042cc872e58#ref=rss)
+* [https://www.spiegel.de/ausland/eu-verhaengt-neue-russland-sanktionen](https://www.spiegel.de/ausland/eu-verhaengt-neue-russland-sanktionen-a-4658d30e-73ea-4cf5-9786-4f80dd9541d9#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/politik/deutschland/richterstreit-friedrich-merz-stellt-sich-vor-frauke-brosius-gersdorf-aber-haelt-sich-ihre-wahl-offen](https://www.spiegel.de/politik/deutschland/richterstreit-friedrich-merz-stellt-sich-vor-frauke-brosius-gersdorf-aber-haelt-sich-ihre-wahl-offen-a-8777d71b-3777-45b0-8bca-4b20990ae549#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-spricht-auf-sommerpressekonferenz-hier-im-livestream](https://www.spiegel.de/politik/deutschland/friedrich-merz-spricht-auf-sommerpressekonferenz-hier-im-livestream-a-709541ee-e217-4ea5-b5b9-73ba4d9ed1bf#ref=rss)
+### fahren
+
+* [https://www.spiegel.de/auto/auto-fahren-alkohol-verbot-bis-zum-25-lebensjahr-das-fordern-versicherer](https://www.spiegel.de/auto/auto-fahren-alkohol-verbot-bis-zum-25-lebensjahr-das-fordern-versicherer-a-f1ac5cad-c75e-4d7b-a19d-1f92335f2c06#ref=rss)
+* [https://www.spiegel.de/auto/uber-lucid-soll-20-000-suv-fuer-autonomes-fahren-liefern](https://www.spiegel.de/auto/uber-lucid-soll-20-000-suv-fuer-autonomes-fahren-liefern-a-7f264a02-c61e-48e6-a6ae-2cad77e4e9d5#ref=rss)
+### viele
+
+* [https://www.spiegel.de/auto/auto-fahren-alkohol-verbot-bis-zum-25-lebensjahr-das-fordern-versicherer](https://www.spiegel.de/auto/auto-fahren-alkohol-verbot-bis-zum-25-lebensjahr-das-fordern-versicherer-a-f1ac5cad-c75e-4d7b-a19d-1f92335f2c06#ref=rss)
+* [https://www.spiegel.de/auto/uber-lucid-soll-20-000-suv-fuer-autonomes-fahren-liefern](https://www.spiegel.de/auto/uber-lucid-soll-20-000-suv-fuer-autonomes-fahren-liefern-a-7f264a02-c61e-48e6-a6ae-2cad77e4e9d5#ref=rss)
+* [https://www.spiegel.de/sport/nachruf-auf-felix-baumgartner-der-sturz](https://www.spiegel.de/sport/nachruf-auf-felix-baumgartner-der-sturz-a-b161163d-9ba3-40b8-b4b5-40e541d29de5#ref=rss)
+### lage
+
+* [https://www.spiegel.de/politik/deutschland/bamf-entscheidet-wieder-ueber-asylantraege-aus-gaza](https://www.spiegel.de/politik/deutschland/bamf-entscheidet-wieder-ueber-asylantraege-aus-gaza-a-c8886bdf-5355-4cd2-9db1-46c36e2a7ec8#ref=rss)
+* [https://www.spiegel.de/panorama/lage-bei-bielefeld-feuerwehr-hebt-feststeckendes-pferd-aus-bachlauf](https://www.spiegel.de/panorama/lage-bei-bielefeld-feuerwehr-hebt-feststeckendes-pferd-aus-bachlauf-a-30c93e18-76e0-430d-b697-a3ba29a3a8ca#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-so-ist-die-lage-an-der-front](https://www.spiegel.de/ausland/russland-ukraine-krieg-so-ist-die-lage-an-der-front-a-a0f6ad15-11eb-4bb4-9211-73b07082e59a#ref=rss)
 ### wladimir
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-geburtenrate-bert-ruerup-donald-trump-wladimir-putin](https://www.spiegel.de/politik/deutschland/news-des-tages-geburtenrate-bert-ruerup-donald-trump-wladimir-putin-a-3bd4588a-f3ee-4e17-9afd-b5017057f07b#ref=rss)
-### wohl
+* [https://www.spiegel.de/ausland/ukraine-krieg-wendet-sich-donald-trump-von-wladimir-putin-ab](https://www.spiegel.de/ausland/ukraine-krieg-wendet-sich-donald-trump-von-wladimir-putin-ab-a-e6c68723-4c48-46d6-9766-3d243701dc4e#ref=rss)
+* [https://www.spiegel.de/ausland/eu-verhaengt-neue-russland-sanktionen](https://www.spiegel.de/ausland/eu-verhaengt-neue-russland-sanktionen-a-4658d30e-73ea-4cf5-9786-4f80dd9541d9#ref=rss)
+### putin
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-geburtenrate-bert-ruerup-donald-trump-wladimir-putin](https://www.spiegel.de/politik/deutschland/news-des-tages-geburtenrate-bert-ruerup-donald-trump-wladimir-putin-a-3bd4588a-f3ee-4e17-9afd-b5017057f07b#ref=rss)
-* [https://www.spiegel.de/kultur/musik/steve-miller-band-sagt-tournee-ab-schuld-hat-das-wetter](https://www.spiegel.de/kultur/musik/steve-miller-band-sagt-tournee-ab-schuld-hat-das-wetter-a-0831ee83-8c25-4e47-b315-89c0bc3b3477#ref=rss)
-### connie
+* [https://www.spiegel.de/ausland/ukraine-krieg-wendet-sich-donald-trump-von-wladimir-putin-ab](https://www.spiegel.de/ausland/ukraine-krieg-wendet-sich-donald-trump-von-wladimir-putin-ab-a-e6c68723-4c48-46d6-9766-3d243701dc4e#ref=rss)
+* [https://www.spiegel.de/ausland/eu-verhaengt-neue-russland-sanktionen](https://www.spiegel.de/ausland/eu-verhaengt-neue-russland-sanktionen-a-4658d30e-73ea-4cf5-9786-4f80dd9541d9#ref=rss)
+### mauna
 
-* [https://www.spiegel.de/kultur/musik/connie-francis-ist-tot-die-stehauffrau-nachruf](https://www.spiegel.de/kultur/musik/connie-francis-ist-tot-die-stehauffrau-nachruf-a-164af626-2a88-4408-9a18-7a30c8926d26#ref=rss)
-### francis
+* [https://www.spiegel.de/wissenschaft/mauna-loa-klima-messstation-auf-hawaii-von-schliessung-bedroht](https://www.spiegel.de/wissenschaft/mauna-loa-klima-messstation-auf-hawaii-von-schliessung-bedroht-a-68e6d3f1-c525-4a92-84e2-3f38745ed22c#ref=rss)
+### loa
 
-* [https://www.spiegel.de/kultur/musik/connie-francis-ist-tot-die-stehauffrau-nachruf](https://www.spiegel.de/kultur/musik/connie-francis-ist-tot-die-stehauffrau-nachruf-a-164af626-2a88-4408-9a18-7a30c8926d26#ref=rss)
-### leben
+* [https://www.spiegel.de/wissenschaft/mauna-loa-klima-messstation-auf-hawaii-von-schliessung-bedroht](https://www.spiegel.de/wissenschaft/mauna-loa-klima-messstation-auf-hawaii-von-schliessung-bedroht-a-68e6d3f1-c525-4a92-84e2-3f38745ed22c#ref=rss)
+### geld
 
-* [https://www.spiegel.de/kultur/musik/connie-francis-ist-tot-die-stehauffrau-nachruf](https://www.spiegel.de/kultur/musik/connie-francis-ist-tot-die-stehauffrau-nachruf-a-164af626-2a88-4408-9a18-7a30c8926d26#ref=rss)
-* [https://www.spiegel.de/panorama/irak-mehrere-dutzend-tote-bei-grossbrand-in-einkaufszentrum](https://www.spiegel.de/panorama/irak-mehrere-dutzend-tote-bei-grossbrand-in-einkaufszentrum-a-f5395289-e06e-4d43-a18a-82306dbe75d1#ref=rss)
-### zurück
+* [https://www.spiegel.de/wissenschaft/mauna-loa-klima-messstation-auf-hawaii-von-schliessung-bedroht](https://www.spiegel.de/wissenschaft/mauna-loa-klima-messstation-auf-hawaii-von-schliessung-bedroht-a-68e6d3f1-c525-4a92-84e2-3f38745ed22c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/tod-von-13-jaehriger-auf-klassenfahrt-vater-verklagt-das-land-nrw](https://www.spiegel.de/panorama/justiz/tod-von-13-jaehriger-auf-klassenfahrt-vater-verklagt-das-land-nrw-a-65fc7aec-da38-4356-b1ce-fa9b5db763cb#ref=rss)
+### porsche
 
-* [https://www.spiegel.de/kultur/musik/connie-francis-ist-tot-die-stehauffrau-nachruf](https://www.spiegel.de/kultur/musik/connie-francis-ist-tot-die-stehauffrau-nachruf-a-164af626-2a88-4408-9a18-7a30c8926d26#ref=rss)
-* [https://www.spiegel.de/panorama/debatte-ueber-frauke-brosius-gersdorf-bamberger-erzbischof-nimmt-aussagen-aus-seiner-predigt-zurueck](https://www.spiegel.de/panorama/debatte-ueber-frauke-brosius-gersdorf-bamberger-erzbischof-nimmt-aussagen-aus-seiner-predigt-zurueck-a-441979e2-39f0-4a82-8e7c-705ebed06760#ref=rss)
-### superman
+* [https://www.spiegel.de/wirtschaft/porsche-autobauer-offenbar-vor-neuem-sparprogramm](https://www.spiegel.de/wirtschaft/porsche-autobauer-offenbar-vor-neuem-sparprogramm-a-707e50d6-7eec-43aa-9b2d-bae65f55e419#ref=rss)
+### bekommen
 
-* [https://www.spiegel.de/kultur/kino/superman-wer-ist-ihr-lieblings-superman-david-corenswet-christopher-reeve-henry-cavill-dean-cain](https://www.spiegel.de/kultur/kino/superman-wer-ist-ihr-lieblings-superman-david-corenswet-christopher-reeve-henry-cavill-dean-cain-a-752cdd71-826e-4cbd-b5c8-2dde602bb7e8#ref=rss)
-### david
+* [https://www.spiegel.de/wirtschaft/porsche-autobauer-offenbar-vor-neuem-sparprogramm](https://www.spiegel.de/wirtschaft/porsche-autobauer-offenbar-vor-neuem-sparprogramm-a-707e50d6-7eec-43aa-9b2d-bae65f55e419#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/netflix-bringt-mehr-ki-auf-den-bildschirm](https://www.spiegel.de/netzwelt/apps/netflix-bringt-mehr-ki-auf-den-bildschirm-a-0d3a7902-7c25-4e95-a6c5-33392d826ad1#ref=rss)
+### pam
 
-* [https://www.spiegel.de/kultur/kino/superman-wer-ist-ihr-lieblings-superman-david-corenswet-christopher-reeve-henry-cavill-dean-cain](https://www.spiegel.de/kultur/kino/superman-wer-ist-ihr-lieblings-superman-david-corenswet-christopher-reeve-henry-cavill-dean-cain-a-752cdd71-826e-4cbd-b5c8-2dde602bb7e8#ref=rss)
-### corenswet
+* [https://www.spiegel.de/ausland/epstein-akten-donald-trump-sagt-pam-bondi-macht-einen-fantastischen-job-wie-lange-noch](https://www.spiegel.de/ausland/epstein-akten-donald-trump-sagt-pam-bondi-macht-einen-fantastischen-job-wie-lange-noch-a-00607104-1503-4118-a977-4b676af1a313#ref=rss)
+### bondi
 
-* [https://www.spiegel.de/kultur/kino/superman-wer-ist-ihr-lieblings-superman-david-corenswet-christopher-reeve-henry-cavill-dean-cain](https://www.spiegel.de/kultur/kino/superman-wer-ist-ihr-lieblings-superman-david-corenswet-christopher-reeve-henry-cavill-dean-cain-a-752cdd71-826e-4cbd-b5c8-2dde602bb7e8#ref=rss)
-### christopher
+* [https://www.spiegel.de/ausland/epstein-akten-donald-trump-sagt-pam-bondi-macht-einen-fantastischen-job-wie-lange-noch](https://www.spiegel.de/ausland/epstein-akten-donald-trump-sagt-pam-bondi-macht-einen-fantastischen-job-wie-lange-noch-a-00607104-1503-4118-a977-4b676af1a313#ref=rss)
+### job
 
-* [https://www.spiegel.de/kultur/kino/superman-wer-ist-ihr-lieblings-superman-david-corenswet-christopher-reeve-henry-cavill-dean-cain](https://www.spiegel.de/kultur/kino/superman-wer-ist-ihr-lieblings-superman-david-corenswet-christopher-reeve-henry-cavill-dean-cain-a-752cdd71-826e-4cbd-b5c8-2dde602bb7e8#ref=rss)
-### reeve
+* [https://www.spiegel.de/ausland/epstein-akten-donald-trump-sagt-pam-bondi-macht-einen-fantastischen-job-wie-lange-noch](https://www.spiegel.de/ausland/epstein-akten-donald-trump-sagt-pam-bondi-macht-einen-fantastischen-job-wie-lange-noch-a-00607104-1503-4118-a977-4b676af1a313#ref=rss)
+* [https://www.spiegel.de/start/berufswahl-persoenlichkeit-spielt-entscheidende-rolle-wie-man-das-beruecksichtigt](https://www.spiegel.de/start/berufswahl-persoenlichkeit-spielt-entscheidende-rolle-wie-man-das-beruecksichtigt-a-79bc7e52-f77d-471b-8465-4ca0dd85d984#ref=rss)
+### lange
 
-* [https://www.spiegel.de/kultur/kino/superman-wer-ist-ihr-lieblings-superman-david-corenswet-christopher-reeve-henry-cavill-dean-cain](https://www.spiegel.de/kultur/kino/superman-wer-ist-ihr-lieblings-superman-david-corenswet-christopher-reeve-henry-cavill-dean-cain-a-752cdd71-826e-4cbd-b5c8-2dde602bb7e8#ref=rss)
-### henry
+* [https://www.spiegel.de/ausland/epstein-akten-donald-trump-sagt-pam-bondi-macht-einen-fantastischen-job-wie-lange-noch](https://www.spiegel.de/ausland/epstein-akten-donald-trump-sagt-pam-bondi-macht-einen-fantastischen-job-wie-lange-noch-a-00607104-1503-4118-a977-4b676af1a313#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-wendet-sich-donald-trump-von-wladimir-putin-ab](https://www.spiegel.de/ausland/ukraine-krieg-wendet-sich-donald-trump-von-wladimir-putin-ab-a-e6c68723-4c48-46d6-9766-3d243701dc4e#ref=rss)
+### skandal
 
-* [https://www.spiegel.de/kultur/kino/superman-wer-ist-ihr-lieblings-superman-david-corenswet-christopher-reeve-henry-cavill-dean-cain](https://www.spiegel.de/kultur/kino/superman-wer-ist-ihr-lieblings-superman-david-corenswet-christopher-reeve-henry-cavill-dean-cain-a-752cdd71-826e-4cbd-b5c8-2dde602bb7e8#ref=rss)
-### cavill
+* [https://www.spiegel.de/ausland/epstein-akten-donald-trump-sagt-pam-bondi-macht-einen-fantastischen-job-wie-lange-noch](https://www.spiegel.de/ausland/epstein-akten-donald-trump-sagt-pam-bondi-macht-einen-fantastischen-job-wie-lange-noch-a-00607104-1503-4118-a977-4b676af1a313#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-datenleck-betrifft-offenbar-ueber-100-britische-spione-und-spezialkraefte](https://www.spiegel.de/ausland/afghanistan-datenleck-betrifft-offenbar-ueber-100-britische-spione-und-spezialkraefte-a-a207b7e4-b8d1-4881-8290-aeb13294e440#ref=rss)
+### ki
 
-* [https://www.spiegel.de/kultur/kino/superman-wer-ist-ihr-lieblings-superman-david-corenswet-christopher-reeve-henry-cavill-dean-cain](https://www.spiegel.de/kultur/kino/superman-wer-ist-ihr-lieblings-superman-david-corenswet-christopher-reeve-henry-cavill-dean-cain-a-752cdd71-826e-4cbd-b5c8-2dde602bb7e8#ref=rss)
-### macht
+* [https://www.spiegel.de/netzwelt/apps/netflix-bringt-mehr-ki-auf-den-bildschirm](https://www.spiegel.de/netzwelt/apps/netflix-bringt-mehr-ki-auf-den-bildschirm-a-0d3a7902-7c25-4e95-a6c5-33392d826ad1#ref=rss)
+### bald
 
-* [https://www.spiegel.de/kultur/kino/superman-wer-ist-ihr-lieblings-superman-david-corenswet-christopher-reeve-henry-cavill-dean-cain](https://www.spiegel.de/kultur/kino/superman-wer-ist-ihr-lieblings-superman-david-corenswet-christopher-reeve-henry-cavill-dean-cain-a-752cdd71-826e-4cbd-b5c8-2dde602bb7e8#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/wolfgang-grupp-macht-suizidversuch-oeffentlich](https://www.spiegel.de/panorama/gesellschaft/wolfgang-grupp-macht-suizidversuch-oeffentlich-a-8752f7d6-88da-410f-9f0e-a8605ed313df#ref=rss)
-### weniger
+* [https://www.spiegel.de/netzwelt/apps/netflix-bringt-mehr-ki-auf-den-bildschirm](https://www.spiegel.de/netzwelt/apps/netflix-bringt-mehr-ki-auf-den-bildschirm-a-0d3a7902-7c25-4e95-a6c5-33392d826ad1#ref=rss)
+* [https://www.spiegel.de/auto/uber-lucid-soll-20-000-suv-fuer-autonomes-fahren-liefern](https://www.spiegel.de/auto/uber-lucid-soll-20-000-suv-fuer-autonomes-fahren-liefern-a-7f264a02-c61e-48e6-a6ae-2cad77e4e9d5#ref=rss)
+### 1verse
 
-* [https://www.spiegel.de/kultur/kino/superman-wer-ist-ihr-lieblings-superman-david-corenswet-christopher-reeve-henry-cavill-dean-cain](https://www.spiegel.de/kultur/kino/superman-wer-ist-ihr-lieblings-superman-david-corenswet-christopher-reeve-henry-cavill-dean-cain-a-752cdd71-826e-4cbd-b5c8-2dde602bb7e8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/lieferando-kuendigt-entlassung-von-bis-zu-2000-fahrern-an](https://www.spiegel.de/wirtschaft/unternehmen/lieferando-kuendigt-entlassung-von-bis-zu-2000-fahrern-an-a-bf1b60b2-3295-4745-bd11-21a98d43fa13#ref=rss)
-### selbst
+* [https://www.spiegel.de/kultur/musik/k-popband-1verse-flucht-aus-nordkorea-ins-popstar-dasein](https://www.spiegel.de/kultur/musik/k-popband-1verse-flucht-aus-nordkorea-ins-popstar-dasein-a-8e4fea04-d391-452c-b9a0-5c95c77e8460#ref=rss)
+### kpop
 
-* [https://www.spiegel.de/kultur/kino/superman-wer-ist-ihr-lieblings-superman-david-corenswet-christopher-reeve-henry-cavill-dean-cain](https://www.spiegel.de/kultur/kino/superman-wer-ist-ihr-lieblings-superman-david-corenswet-christopher-reeve-henry-cavill-dean-cain-a-752cdd71-826e-4cbd-b5c8-2dde602bb7e8#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/wolfgang-grupp-macht-suizidversuch-oeffentlich](https://www.spiegel.de/panorama/gesellschaft/wolfgang-grupp-macht-suizidversuch-oeffentlich-a-8752f7d6-88da-410f-9f0e-a8605ed313df#ref=rss)
-### gesetz
+* [https://www.spiegel.de/kultur/musik/k-popband-1verse-flucht-aus-nordkorea-ins-popstar-dasein](https://www.spiegel.de/kultur/musik/k-popband-1verse-flucht-aus-nordkorea-ins-popstar-dasein-a-8e4fea04-d391-452c-b9a0-5c95c77e8460#ref=rss)
+### stellt
 
-* [https://www.spiegel.de/ausland/zensur-in-russland-neues-gesetz-schraenkt-internetnutzung-ein](https://www.spiegel.de/ausland/zensur-in-russland-neues-gesetz-schraenkt-internetnutzung-ein-a-c3c57681-b143-455c-bf9e-d1d7713c2f33#ref=rss)
-### internetnutzung
-
-* [https://www.spiegel.de/ausland/zensur-in-russland-neues-gesetz-schraenkt-internetnutzung-ein](https://www.spiegel.de/ausland/zensur-in-russland-neues-gesetz-schraenkt-internetnutzung-ein-a-c3c57681-b143-455c-bf9e-d1d7713c2f33#ref=rss)
-### lieferando
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/lieferando-kuendigt-entlassung-von-bis-zu-2000-fahrern-an](https://www.spiegel.de/wirtschaft/unternehmen/lieferando-kuendigt-entlassung-von-bis-zu-2000-fahrern-an-a-bf1b60b2-3295-4745-bd11-21a98d43fa13#ref=rss)
-### künftig
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/lieferando-kuendigt-entlassung-von-bis-zu-2000-fahrern-an](https://www.spiegel.de/wirtschaft/unternehmen/lieferando-kuendigt-entlassung-von-bis-zu-2000-fahrern-an-a-bf1b60b2-3295-4745-bd11-21a98d43fa13#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-flandern-verbietet-durchfuhr-von-militaerguetern-nach-israel](https://www.spiegel.de/ausland/israel-gaza-krieg-flandern-verbietet-durchfuhr-von-militaerguetern-nach-israel-a-7b4ebbd1-84a6-4342-9b65-b63c8c6b441b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/richterstreit-friedrich-merz-stellt-sich-vor-frauke-brosius-gersdorf-aber-haelt-sich-ihre-wahl-offen](https://www.spiegel.de/politik/deutschland/richterstreit-friedrich-merz-stellt-sich-vor-frauke-brosius-gersdorf-aber-haelt-sich-ihre-wahl-offen-a-8777d71b-3777-45b0-8bca-4b20990ae549#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-spricht-auf-sommerpressekonferenz-hier-im-livestream](https://www.spiegel.de/politik/deutschland/friedrich-merz-spricht-auf-sommerpressekonferenz-hier-im-livestream-a-709541ee-e217-4ea5-b5b9-73ba4d9ed1bf#ref=rss)
 ### frauke
 
-* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-kulturstaatsminister-wolfram-weimer-plaediert-fuer-wahlverfahren-aenderung](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-kulturstaatsminister-wolfram-weimer-plaediert-fuer-wahlverfahren-aenderung-a-9282b9a0-eaac-4283-8337-c90a328c997c#ref=rss)
-* [https://www.spiegel.de/panorama/debatte-ueber-frauke-brosius-gersdorf-bamberger-erzbischof-nimmt-aussagen-aus-seiner-predigt-zurueck](https://www.spiegel.de/panorama/debatte-ueber-frauke-brosius-gersdorf-bamberger-erzbischof-nimmt-aussagen-aus-seiner-predigt-zurueck-a-441979e2-39f0-4a82-8e7c-705ebed06760#ref=rss)
-### bamberger
+* [https://www.spiegel.de/politik/deutschland/richterstreit-friedrich-merz-stellt-sich-vor-frauke-brosius-gersdorf-aber-haelt-sich-ihre-wahl-offen](https://www.spiegel.de/politik/deutschland/richterstreit-friedrich-merz-stellt-sich-vor-frauke-brosius-gersdorf-aber-haelt-sich-ihre-wahl-offen-a-8777d71b-3777-45b0-8bca-4b20990ae549#ref=rss)
+### brosiusgersdorf
 
-* [https://www.spiegel.de/panorama/debatte-ueber-frauke-brosius-gersdorf-bamberger-erzbischof-nimmt-aussagen-aus-seiner-predigt-zurueck](https://www.spiegel.de/panorama/debatte-ueber-frauke-brosius-gersdorf-bamberger-erzbischof-nimmt-aussagen-aus-seiner-predigt-zurueck-a-441979e2-39f0-4a82-8e7c-705ebed06760#ref=rss)
-### erzbischof
+* [https://www.spiegel.de/politik/deutschland/richterstreit-friedrich-merz-stellt-sich-vor-frauke-brosius-gersdorf-aber-haelt-sich-ihre-wahl-offen](https://www.spiegel.de/politik/deutschland/richterstreit-friedrich-merz-stellt-sich-vor-frauke-brosius-gersdorf-aber-haelt-sich-ihre-wahl-offen-a-8777d71b-3777-45b0-8bca-4b20990ae549#ref=rss)
+### 25
 
-* [https://www.spiegel.de/panorama/debatte-ueber-frauke-brosius-gersdorf-bamberger-erzbischof-nimmt-aussagen-aus-seiner-predigt-zurueck](https://www.spiegel.de/panorama/debatte-ueber-frauke-brosius-gersdorf-bamberger-erzbischof-nimmt-aussagen-aus-seiner-predigt-zurueck-a-441979e2-39f0-4a82-8e7c-705ebed06760#ref=rss)
-### predigt
+* [https://www.spiegel.de/auto/auto-fahren-alkohol-verbot-bis-zum-25-lebensjahr-das-fordern-versicherer](https://www.spiegel.de/auto/auto-fahren-alkohol-verbot-bis-zum-25-lebensjahr-das-fordern-versicherer-a-f1ac5cad-c75e-4d7b-a19d-1f92335f2c06#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/panorama/debatte-ueber-frauke-brosius-gersdorf-bamberger-erzbischof-nimmt-aussagen-aus-seiner-predigt-zurueck](https://www.spiegel.de/panorama/debatte-ueber-frauke-brosius-gersdorf-bamberger-erzbischof-nimmt-aussagen-aus-seiner-predigt-zurueck-a-441979e2-39f0-4a82-8e7c-705ebed06760#ref=rss)
-### wolfgang
+* [https://www.spiegel.de/auto/auto-fahren-alkohol-verbot-bis-zum-25-lebensjahr-das-fordern-versicherer](https://www.spiegel.de/auto/auto-fahren-alkohol-verbot-bis-zum-25-lebensjahr-das-fordern-versicherer-a-f1ac5cad-c75e-4d7b-a19d-1f92335f2c06#ref=rss)
+* [https://www.spiegel.de/sport/nachruf-auf-felix-baumgartner-der-sturz](https://www.spiegel.de/sport/nachruf-auf-felix-baumgartner-der-sturz-a-b161163d-9ba3-40b8-b4b5-40e541d29de5#ref=rss)
+### bamf
 
-* [https://www.spiegel.de/panorama/gesellschaft/wolfgang-grupp-macht-suizidversuch-oeffentlich](https://www.spiegel.de/panorama/gesellschaft/wolfgang-grupp-macht-suizidversuch-oeffentlich-a-8752f7d6-88da-410f-9f0e-a8605ed313df#ref=rss)
-### grupp
+* [https://www.spiegel.de/politik/deutschland/bamf-entscheidet-wieder-ueber-asylantraege-aus-gaza](https://www.spiegel.de/politik/deutschland/bamf-entscheidet-wieder-ueber-asylantraege-aus-gaza-a-c8886bdf-5355-4cd2-9db1-46c36e2a7ec8#ref=rss)
+### asylanträge
 
-* [https://www.spiegel.de/panorama/gesellschaft/wolfgang-grupp-macht-suizidversuch-oeffentlich](https://www.spiegel.de/panorama/gesellschaft/wolfgang-grupp-macht-suizidversuch-oeffentlich-a-8752f7d6-88da-410f-9f0e-a8605ed313df#ref=rss)
-### entblößte
+* [https://www.spiegel.de/politik/deutschland/bamf-entscheidet-wieder-ueber-asylantraege-aus-gaza](https://www.spiegel.de/politik/deutschland/bamf-entscheidet-wieder-ueber-asylantraege-aus-gaza-a-c8886bdf-5355-4cd2-9db1-46c36e2a7ec8#ref=rss)
+### gaza
 
-* [https://www.spiegel.de/panorama/justiz/boulevardblatt-zeigt-ungewollt-entbloesste-brust-eines-models-und-soll-nun-zahlen](https://www.spiegel.de/panorama/justiz/boulevardblatt-zeigt-ungewollt-entbloesste-brust-eines-models-und-soll-nun-zahlen-a-963916fb-ab6a-4690-8987-e5deb5090971#ref=rss)
-### brust
+* [https://www.spiegel.de/politik/deutschland/bamf-entscheidet-wieder-ueber-asylantraege-aus-gaza](https://www.spiegel.de/politik/deutschland/bamf-entscheidet-wieder-ueber-asylantraege-aus-gaza-a-c8886bdf-5355-4cd2-9db1-46c36e2a7ec8#ref=rss)
+### chris
 
-* [https://www.spiegel.de/panorama/justiz/boulevardblatt-zeigt-ungewollt-entbloesste-brust-eines-models-und-soll-nun-zahlen](https://www.spiegel.de/panorama/justiz/boulevardblatt-zeigt-ungewollt-entbloesste-brust-eines-models-und-soll-nun-zahlen-a-963916fb-ab6a-4690-8987-e5deb5090971#ref=rss)
-### models
+* [https://www.spiegel.de/panorama/leute/coldplay-produziert-zwei-neue-singles-wie-chris-martin-aus-versehen-eine-affaere-aufgedeckt-hat](https://www.spiegel.de/panorama/leute/coldplay-produziert-zwei-neue-singles-wie-chris-martin-aus-versehen-eine-affaere-aufgedeckt-hat-a-6d6e6dee-623f-4030-b8f1-f042cc872e58#ref=rss)
+### martin
 
-* [https://www.spiegel.de/panorama/justiz/boulevardblatt-zeigt-ungewollt-entbloesste-brust-eines-models-und-soll-nun-zahlen](https://www.spiegel.de/panorama/justiz/boulevardblatt-zeigt-ungewollt-entbloesste-brust-eines-models-und-soll-nun-zahlen-a-963916fb-ab6a-4690-8987-e5deb5090971#ref=rss)
-### irak
+* [https://www.spiegel.de/panorama/leute/coldplay-produziert-zwei-neue-singles-wie-chris-martin-aus-versehen-eine-affaere-aufgedeckt-hat](https://www.spiegel.de/panorama/leute/coldplay-produziert-zwei-neue-singles-wie-chris-martin-aus-versehen-eine-affaere-aufgedeckt-hat-a-6d6e6dee-623f-4030-b8f1-f042cc872e58#ref=rss)
+### gute
 
-* [https://www.spiegel.de/panorama/irak-mehrere-dutzend-tote-bei-grossbrand-in-einkaufszentrum](https://www.spiegel.de/panorama/irak-mehrere-dutzend-tote-bei-grossbrand-in-einkaufszentrum-a-f5395289-e06e-4d43-a18a-82306dbe75d1#ref=rss)
-### jens
+* [https://www.spiegel.de/wissenschaft/mensch/klimaschutz-diese-fuenf-news-machen-hoffnung](https://www.spiegel.de/wissenschaft/mensch/klimaschutz-diese-fuenf-news-machen-hoffnung-a-e3e83fd2-6fc1-4b37-ad12-723bb320f633#ref=rss)
+* [https://www.spiegel.de/sport/fussball/klara-buehl-bei-der-fussball-em-2025-die-zwei-gesichter-der-dfb-stuermerin](https://www.spiegel.de/sport/fussball/klara-buehl-bei-der-fussball-em-2025-die-zwei-gesichter-der-dfb-stuermerin-a-ab241261-f311-46e5-8fff-68f97e089411#ref=rss)
+### demokraten
 
-* [https://www.spiegel.de/politik/deutschland/jens-spahn-unter-druck-im-zentrum-des-versagens](https://www.spiegel.de/politik/deutschland/jens-spahn-unter-druck-im-zentrum-des-versagens-a-73c1e24f-3e4a-4fca-be2c-a5c4ed405220#ref=rss)
-### spahn
+* [https://www.spiegel.de/ausland/us-senat-demokraten-verlassen-sitzung-wegen-donald-trumps-richterkandidat-emil-bove](https://www.spiegel.de/ausland/us-senat-demokraten-verlassen-sitzung-wegen-donald-trumps-richterkandidat-emil-bove-a-6d4d60a3-718c-4479-a0bf-8c016367d329#ref=rss)
+### verlassen
 
-* [https://www.spiegel.de/politik/deutschland/jens-spahn-unter-druck-im-zentrum-des-versagens](https://www.spiegel.de/politik/deutschland/jens-spahn-unter-druck-im-zentrum-des-versagens-a-73c1e24f-3e4a-4fca-be2c-a5c4ed405220#ref=rss)
-### flandern
+* [https://www.spiegel.de/ausland/us-senat-demokraten-verlassen-sitzung-wegen-donald-trumps-richterkandidat-emil-bove](https://www.spiegel.de/ausland/us-senat-demokraten-verlassen-sitzung-wegen-donald-trumps-richterkandidat-emil-bove-a-6d4d60a3-718c-4479-a0bf-8c016367d329#ref=rss)
+### klara
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-flandern-verbietet-durchfuhr-von-militaerguetern-nach-israel](https://www.spiegel.de/ausland/israel-gaza-krieg-flandern-verbietet-durchfuhr-von-militaerguetern-nach-israel-a-7b4ebbd1-84a6-4342-9b65-b63c8c6b441b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/klara-buehl-bei-der-fussball-em-2025-die-zwei-gesichter-der-dfb-stuermerin](https://www.spiegel.de/sport/fussball/klara-buehl-bei-der-fussball-em-2025-die-zwei-gesichter-der-dfb-stuermerin-a-ab241261-f311-46e5-8fff-68f97e089411#ref=rss)
+### bühl
+
+* [https://www.spiegel.de/sport/fussball/klara-buehl-bei-der-fussball-em-2025-die-zwei-gesichter-der-dfb-stuermerin](https://www.spiegel.de/sport/fussball/klara-buehl-bei-der-fussball-em-2025-die-zwei-gesichter-der-dfb-stuermerin-a-ab241261-f311-46e5-8fff-68f97e089411#ref=rss)
+### fußballem
+
+* [https://www.spiegel.de/sport/fussball/klara-buehl-bei-der-fussball-em-2025-die-zwei-gesichter-der-dfb-stuermerin](https://www.spiegel.de/sport/fussball/klara-buehl-bei-der-fussball-em-2025-die-zwei-gesichter-der-dfb-stuermerin-a-ab241261-f311-46e5-8fff-68f97e089411#ref=rss)
+* [https://www.spiegel.de/sport/fussball/england-vs-schweden-bei-fussball-em-das-schlechteste-bitterste-und-beste-elfmeterschiessen](https://www.spiegel.de/sport/fussball/england-vs-schweden-bei-fussball-em-das-schlechteste-bitterste-und-beste-elfmeterschiessen-a-7ed55a94-91be-4704-8642-2d281a67136f#ref=rss)
+### uber
+
+* [https://www.spiegel.de/auto/uber-lucid-soll-20-000-suv-fuer-autonomes-fahren-liefern](https://www.spiegel.de/auto/uber-lucid-soll-20-000-suv-fuer-autonomes-fahren-liefern-a-7f264a02-c61e-48e6-a6ae-2cad77e4e9d5#ref=rss)
+### suv
+
+* [https://www.spiegel.de/auto/uber-lucid-soll-20-000-suv-fuer-autonomes-fahren-liefern](https://www.spiegel.de/auto/uber-lucid-soll-20-000-suv-fuer-autonomes-fahren-liefern-a-7f264a02-c61e-48e6-a6ae-2cad77e4e9d5#ref=rss)
+### bielefeld
+
+* [https://www.spiegel.de/panorama/lage-bei-bielefeld-feuerwehr-hebt-feststeckendes-pferd-aus-bachlauf](https://www.spiegel.de/panorama/lage-bei-bielefeld-feuerwehr-hebt-feststeckendes-pferd-aus-bachlauf-a-30c93e18-76e0-430d-b697-a3ba29a3a8ca#ref=rss)
+### pferd
+
+* [https://www.spiegel.de/panorama/lage-bei-bielefeld-feuerwehr-hebt-feststeckendes-pferd-aus-bachlauf](https://www.spiegel.de/panorama/lage-bei-bielefeld-feuerwehr-hebt-feststeckendes-pferd-aus-bachlauf-a-30c93e18-76e0-430d-b697-a3ba29a3a8ca#ref=rss)
+### berufswahl
+
+* [https://www.spiegel.de/start/berufswahl-persoenlichkeit-spielt-entscheidende-rolle-wie-man-das-beruecksichtigt](https://www.spiegel.de/start/berufswahl-persoenlichkeit-spielt-entscheidende-rolle-wie-man-das-beruecksichtigt-a-79bc7e52-f77d-471b-8465-4ca0dd85d984#ref=rss)
+### persönlichkeit
+
+* [https://www.spiegel.de/start/berufswahl-persoenlichkeit-spielt-entscheidende-rolle-wie-man-das-beruecksichtigt](https://www.spiegel.de/start/berufswahl-persoenlichkeit-spielt-entscheidende-rolle-wie-man-das-beruecksichtigt-a-79bc7e52-f77d-471b-8465-4ca0dd85d984#ref=rss)
+### emily
+
+* [https://www.spiegel.de/panorama/justiz/tod-von-13-jaehriger-auf-klassenfahrt-vater-verklagt-das-land-nrw](https://www.spiegel.de/panorama/justiz/tod-von-13-jaehriger-auf-klassenfahrt-vater-verklagt-das-land-nrw-a-65fc7aec-da38-4356-b1ce-fa9b5db763cb#ref=rss)
+### tod
+
+* [https://www.spiegel.de/panorama/justiz/tod-von-13-jaehriger-auf-klassenfahrt-vater-verklagt-das-land-nrw](https://www.spiegel.de/panorama/justiz/tod-von-13-jaehriger-auf-klassenfahrt-vater-verklagt-das-land-nrw-a-65fc7aec-da38-4356-b1ce-fa9b5db763cb#ref=rss)
+### klassenfahrt
+
+* [https://www.spiegel.de/panorama/justiz/tod-von-13-jaehriger-auf-klassenfahrt-vater-verklagt-das-land-nrw](https://www.spiegel.de/panorama/justiz/tod-von-13-jaehriger-auf-klassenfahrt-vater-verklagt-das-land-nrw-a-65fc7aec-da38-4356-b1ce-fa9b5db763cb#ref=rss)
+### vater
+
+* [https://www.spiegel.de/panorama/justiz/tod-von-13-jaehriger-auf-klassenfahrt-vater-verklagt-das-land-nrw](https://www.spiegel.de/panorama/justiz/tod-von-13-jaehriger-auf-klassenfahrt-vater-verklagt-das-land-nrw-a-65fc7aec-da38-4356-b1ce-fa9b5db763cb#ref=rss)
+### land
+
+* [https://www.spiegel.de/panorama/justiz/tod-von-13-jaehriger-auf-klassenfahrt-vater-verklagt-das-land-nrw](https://www.spiegel.de/panorama/justiz/tod-von-13-jaehriger-auf-klassenfahrt-vater-verklagt-das-land-nrw-a-65fc7aec-da38-4356-b1ce-fa9b5db763cb#ref=rss)
 ### israel
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-flandern-verbietet-durchfuhr-von-militaerguetern-nach-israel](https://www.spiegel.de/ausland/israel-gaza-krieg-flandern-verbietet-durchfuhr-von-militaerguetern-nach-israel-a-7b4ebbd1-84a6-4342-9b65-b63c8c6b441b#ref=rss)
-### steve
+* [https://www.spiegel.de/ausland/israel-abgelehnt-im-inland-und-im-ausland-das-leben-eines-israelischen-pazifisten](https://www.spiegel.de/ausland/israel-abgelehnt-im-inland-und-im-ausland-das-leben-eines-israelischen-pazifisten-a-85d6e8a4-5d4b-419b-99a0-7d8251c52109#ref=rss)
+### ausland
 
-* [https://www.spiegel.de/kultur/musik/steve-miller-band-sagt-tournee-ab-schuld-hat-das-wetter](https://www.spiegel.de/kultur/musik/steve-miller-band-sagt-tournee-ab-schuld-hat-das-wetter-a-0831ee83-8c25-4e47-b315-89c0bc3b3477#ref=rss)
-### miller
+* [https://www.spiegel.de/ausland/israel-abgelehnt-im-inland-und-im-ausland-das-leben-eines-israelischen-pazifisten](https://www.spiegel.de/ausland/israel-abgelehnt-im-inland-und-im-ausland-das-leben-eines-israelischen-pazifisten-a-85d6e8a4-5d4b-419b-99a0-7d8251c52109#ref=rss)
+### leben
 
-* [https://www.spiegel.de/kultur/musik/steve-miller-band-sagt-tournee-ab-schuld-hat-das-wetter](https://www.spiegel.de/kultur/musik/steve-miller-band-sagt-tournee-ab-schuld-hat-das-wetter-a-0831ee83-8c25-4e47-b315-89c0bc3b3477#ref=rss)
-### band
+* [https://www.spiegel.de/ausland/israel-abgelehnt-im-inland-und-im-ausland-das-leben-eines-israelischen-pazifisten](https://www.spiegel.de/ausland/israel-abgelehnt-im-inland-und-im-ausland-das-leben-eines-israelischen-pazifisten-a-85d6e8a4-5d4b-419b-99a0-7d8251c52109#ref=rss)
+### juchef
 
-* [https://www.spiegel.de/kultur/musik/steve-miller-band-sagt-tournee-ab-schuld-hat-das-wetter](https://www.spiegel.de/kultur/musik/steve-miller-band-sagt-tournee-ab-schuld-hat-das-wetter-a-0831ee83-8c25-4e47-b315-89c0bc3b3477#ref=rss)
+* [https://www.spiegel.de/wirtschaft/rente-ju-chef-johannes-winkel-haelt-boomer-soli-fuer-ablenkungsvorschlag](https://www.spiegel.de/wirtschaft/rente-ju-chef-johannes-winkel-haelt-boomer-soli-fuer-ablenkungsvorschlag-a-dbb775ce-5e15-4c2a-a43f-93200d14cfd4#ref=rss)
+### boomersoli
+
+* [https://www.spiegel.de/wirtschaft/rente-ju-chef-johannes-winkel-haelt-boomer-soli-fuer-ablenkungsvorschlag](https://www.spiegel.de/wirtschaft/rente-ju-chef-johannes-winkel-haelt-boomer-soli-fuer-ablenkungsvorschlag-a-dbb775ce-5e15-4c2a-a43f-93200d14cfd4#ref=rss)
+### sommerpressekonferenz
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-spricht-auf-sommerpressekonferenz-hier-im-livestream](https://www.spiegel.de/politik/deutschland/friedrich-merz-spricht-auf-sommerpressekonferenz-hier-im-livestream-a-709541ee-e217-4ea5-b5b9-73ba4d9ed1bf#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/wirtschaft/karge-ernten-bei-erdbeeren-und-spargel](https://www.spiegel.de/wirtschaft/karge-ernten-bei-erdbeeren-und-spargel-a-f3a21e5c-587b-4602-b95a-c898d7bebae4#ref=rss)
+### erdbeeren
+
+* [https://www.spiegel.de/wirtschaft/karge-ernten-bei-erdbeeren-und-spargel](https://www.spiegel.de/wirtschaft/karge-ernten-bei-erdbeeren-und-spargel-a-f3a21e5c-587b-4602-b95a-c898d7bebae4#ref=rss)
+### spargel
+
+* [https://www.spiegel.de/wirtschaft/karge-ernten-bei-erdbeeren-und-spargel](https://www.spiegel.de/wirtschaft/karge-ernten-bei-erdbeeren-und-spargel-a-f3a21e5c-587b-4602-b95a-c898d7bebae4#ref=rss)
+### lars
+
+* [https://www.spiegel.de/wirtschaft/lars-klingbeil-jetzt-um-das-ueberleben-der-g20](https://www.spiegel.de/wirtschaft/lars-klingbeil-jetzt-um-das-ueberleben-der-g20-a-288f070d-65cf-4939-b8d2-df43e70bb098#ref=rss)
+### klingbeil
+
+* [https://www.spiegel.de/wirtschaft/lars-klingbeil-jetzt-um-das-ueberleben-der-g20](https://www.spiegel.de/wirtschaft/lars-klingbeil-jetzt-um-das-ueberleben-der-g20-a-288f070d-65cf-4939-b8d2-df43e70bb098#ref=rss)
+### retten
+
+* [https://www.spiegel.de/wirtschaft/lars-klingbeil-jetzt-um-das-ueberleben-der-g20](https://www.spiegel.de/wirtschaft/lars-klingbeil-jetzt-um-das-ueberleben-der-g20-a-288f070d-65cf-4939-b8d2-df43e70bb098#ref=rss)
+### schweden
+
+* [https://www.spiegel.de/sport/fussball/england-vs-schweden-bei-fussball-em-das-schlechteste-bitterste-und-beste-elfmeterschiessen](https://www.spiegel.de/sport/fussball/england-vs-schweden-bei-fussball-em-das-schlechteste-bitterste-und-beste-elfmeterschiessen-a-7ed55a94-91be-4704-8642-2d281a67136f#ref=rss)
+### art
+
+* [https://www.spiegel.de/sport/fussball/england-vs-schweden-bei-fussball-em-das-schlechteste-bitterste-und-beste-elfmeterschiessen](https://www.spiegel.de/sport/fussball/england-vs-schweden-bei-fussball-em-das-schlechteste-bitterste-und-beste-elfmeterschiessen-a-7ed55a94-91be-4704-8642-2d281a67136f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/powell-rechtfertigt-renovierung-von-fed-hauptquartier](https://www.spiegel.de/wirtschaft/powell-rechtfertigt-renovierung-von-fed-hauptquartier-a-2f6bbd8a-c31f-4ebf-bbbc-8ec750d1254d#ref=rss)
+### powell
+
+* [https://www.spiegel.de/wirtschaft/powell-rechtfertigt-renovierung-von-fed-hauptquartier](https://www.spiegel.de/wirtschaft/powell-rechtfertigt-renovierung-von-fed-hauptquartier-a-2f6bbd8a-c31f-4ebf-bbbc-8ec750d1254d#ref=rss)
+### renovierung
+
+* [https://www.spiegel.de/wirtschaft/powell-rechtfertigt-renovierung-von-fed-hauptquartier](https://www.spiegel.de/wirtschaft/powell-rechtfertigt-renovierung-von-fed-hauptquartier-a-2f6bbd8a-c31f-4ebf-bbbc-8ec750d1254d#ref=rss)
+### felix
+
+* [https://www.spiegel.de/sport/nachruf-auf-felix-baumgartner-der-sturz](https://www.spiegel.de/sport/nachruf-auf-felix-baumgartner-der-sturz-a-b161163d-9ba3-40b8-b4b5-40e541d29de5#ref=rss)
+### baumgartner
+
+* [https://www.spiegel.de/sport/nachruf-auf-felix-baumgartner-der-sturz](https://www.spiegel.de/sport/nachruf-auf-felix-baumgartner-der-sturz-a-b161163d-9ba3-40b8-b4b5-40e541d29de5#ref=rss)
+### eu
+
+* [https://www.spiegel.de/ausland/eu-verhaengt-neue-russland-sanktionen](https://www.spiegel.de/ausland/eu-verhaengt-neue-russland-sanktionen-a-4658d30e-73ea-4cf5-9786-4f80dd9541d9#ref=rss)
 
