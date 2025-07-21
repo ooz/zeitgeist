@@ -4,304 +4,332 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
+### berlin
+
+* [https://www.spiegel.de/panorama/berlin-zehlendorf-mutmasslicher-s-bahn-surfer-tot-auf-zugdach-entdeckt](https://www.spiegel.de/panorama/berlin-zehlendorf-mutmasslicher-s-bahn-surfer-tot-auf-zugdach-entdeckt-a-93a9f9ac-297d-4019-98e3-5f015168fb54#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-razzien-wegen-mutmasslicher-islamistischer-propaganda-in-berlin](https://www.spiegel.de/panorama/justiz/berlin-razzien-wegen-mutmasslicher-islamistischer-propaganda-in-berlin-a-72a78412-5fb4-4f59-9aaf-e5374cf373d6#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/wirtschaft/treffen-im-kanzleramt-merz-grosse-gipfel-show](https://www.spiegel.de/wirtschaft/treffen-im-kanzleramt-merz-grosse-gipfel-show-a-77b1a45f-8e78-4858-a273-4919110f43eb#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-schwere-russische-luftschlaege-auf-charkiw-und-kyjiw](https://www.spiegel.de/ausland/ukraine-krieg-schwere-russische-luftschlaege-auf-charkiw-und-kyjiw-a-39004045-eca9-44c5-98cd-e29d9d983163#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsches-gastgewerbe-erleidet-staerksten-umsatzeinbruch-seit-ende-2021](https://www.spiegel.de/wirtschaft/deutsches-gastgewerbe-erleidet-staerksten-umsatzeinbruch-seit-ende-2021-a-4093c556-29f8-4089-b254-10287ab31de3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-industrie-warnt-vor-produktschwemme-aus-china](https://www.spiegel.de/wirtschaft/deutsche-industrie-warnt-vor-produktschwemme-aus-china-a-cb169273-4d93-4d02-83bd-e99667b24b91#ref=rss)
+### wissen
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/verbraucherschuetzer-bieten-tool-fuer-post-beschwerden-an](https://www.spiegel.de/wirtschaft/verbraucherschuetzer-bieten-tool-fuer-post-beschwerden-an-a-e7e05931-3be2-4744-8228-f493c450348d#ref=rss)
+* [https://www.spiegel.de/geschichte/familienserien-im-fernsehen-meine-tv-familie](https://www.spiegel.de/geschichte/familienserien-im-fernsehen-meine-tv-familie-a-1d66670f-07bf-4de7-9226-3dafd3ce0d82#ref=rss)
+### drei
+
+* [https://www.spiegel.de/ausland/japan-premier-shigeru-ishiba-will-ohne-mehrheit-weitermachen](https://www.spiegel.de/ausland/japan-premier-shigeru-ishiba-will-ohne-mehrheit-weitermachen-a-71d569ed-571b-489d-9fec-4fdd5c9a8f11#ref=rss)
+* [https://www.spiegel.de/panorama/indonesien-mehrere-menschen-sterben-bei-brand-auf-faehre-in-nordsulawesi](https://www.spiegel.de/panorama/indonesien-mehrere-menschen-sterben-bei-brand-auf-faehre-in-nordsulawesi-a-3d0c4339-83fb-4603-aeac-79fa28a064fc#ref=rss)
+* [https://www.spiegel.de/wirtschaft/alaska-airlines-stellt-voruebergehend-alle-fluege-ein](https://www.spiegel.de/wirtschaft/alaska-airlines-stellt-voruebergehend-alle-fluege-ein-a-3ed85e24-2054-414d-ba27-32be156ca2ad#ref=rss)
+### studie
+
+* [https://www.spiegel.de/wissenschaft/natur/lebensmittelpreise-duerre-und-starkregen-verteuern-weltweit-wichtige-nahrungsmittel](https://www.spiegel.de/wissenschaft/natur/lebensmittelpreise-duerre-und-starkregen-verteuern-weltweit-wichtige-nahrungsmittel-a-8609fe19-fb90-4ddf-aea3-bc0bcb317293#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/strassenbeleuchtung-neue-studie-zeigt-vorteile-von-insektenfreundlichen-lampen](https://www.spiegel.de/wissenschaft/technik/strassenbeleuchtung-neue-studie-zeigt-vorteile-von-insektenfreundlichen-lampen-a-1eddd01d-52e7-43e5-b24c-2ca4058d3085#ref=rss)
+### bord
+
+* [https://www.spiegel.de/panorama/justiz/el-salvador-halbtauchboot-mit-1-3-tonnen-kokain-an-bord-abgefangen](https://www.spiegel.de/panorama/justiz/el-salvador-halbtauchboot-mit-1-3-tonnen-kokain-an-bord-abgefangen-a-f3109468-191e-4b6c-bfb9-2e24f2befbc6#ref=rss)
+* [https://www.spiegel.de/panorama/indonesien-mehrere-menschen-sterben-bei-brand-auf-faehre-in-nordsulawesi](https://www.spiegel.de/panorama/indonesien-mehrere-menschen-sterben-bei-brand-auf-faehre-in-nordsulawesi-a-3d0c4339-83fb-4603-aeac-79fa28a064fc#ref=rss)
+### schwere
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-schwere-russische-luftschlaege-auf-charkiw-und-kyjiw](https://www.spiegel.de/ausland/ukraine-krieg-schwere-russische-luftschlaege-auf-charkiw-und-kyjiw-a-39004045-eca9-44c5-98cd-e29d9d983163#ref=rss)
+* [https://www.spiegel.de/panorama/indonesien-mehrere-menschen-sterben-bei-brand-auf-faehre-in-nordsulawesi](https://www.spiegel.de/panorama/indonesien-mehrere-menschen-sterben-bei-brand-auf-faehre-in-nordsulawesi-a-3d0c4339-83fb-4603-aeac-79fa28a064fc#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-krieg-papst-leo-xiv-verurteilt-beschuss-auf-katholische-kirche](https://www.spiegel.de/ausland/gaza-krieg-papst-leo-xiv-verurteilt-beschuss-auf-katholische-kirche-a-9aba1b00-ac8c-42c3-a360-980f96769728#ref=rss)
+### mutmaßlicher
+
+* [https://www.spiegel.de/panorama/berlin-zehlendorf-mutmasslicher-s-bahn-surfer-tot-auf-zugdach-entdeckt](https://www.spiegel.de/panorama/berlin-zehlendorf-mutmasslicher-s-bahn-surfer-tot-auf-zugdach-entdeckt-a-93a9f9ac-297d-4019-98e3-5f015168fb54#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/cybertrading-mutmasslicher-kopf-von-internationalem-betrugsnetzwerk-vor-gericht](https://www.spiegel.de/netzwelt/web/cybertrading-mutmasslicher-kopf-von-internationalem-betrugsnetzwerk-vor-gericht-a-06a33a98-2bf2-45a4-977c-043b29da4f21#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-razzien-wegen-mutmasslicher-islamistischer-propaganda-in-berlin](https://www.spiegel.de/panorama/justiz/berlin-razzien-wegen-mutmasslicher-islamistischer-propaganda-in-berlin-a-72a78412-5fb4-4f59-9aaf-e5374cf373d6#ref=rss)
 ### polizei
 
-* [https://www.spiegel.de/panorama/justiz/norwegen-schuesse-in-osloer-einkaufszentrum-polizei-fasst-mutmasslichen-taeter](https://www.spiegel.de/panorama/justiz/norwegen-schuesse-in-osloer-einkaufszentrum-polizei-fasst-mutmasslichen-taeter-a-39f55158-fa9b-442c-9b68-34ab8d82c46f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/jette-nietzard-die-wutprobe-der-gruene-jugend-chefin-die-wutprobe](https://www.spiegel.de/politik/deutschland/jette-nietzard-die-wutprobe-der-gruene-jugend-chefin-die-wutprobe-a-2b7dcf54-f0c7-4f9e-8f9d-ad93a87ee047#ref=rss)
-* [https://www.spiegel.de/panorama/groesste-holzkirche-deutschlands-geraet-in-brand](https://www.spiegel.de/panorama/groesste-holzkirche-deutschlands-geraet-in-brand-a-aaf8ac1c-d789-453e-a193-df250c85814a#ref=rss)
-### fußballem
+* [https://www.spiegel.de/panorama/justiz/grossbritannien-leitet-untersuchung-zur-schlacht-von-orgreave-ein](https://www.spiegel.de/panorama/justiz/grossbritannien-leitet-untersuchung-zur-schlacht-von-orgreave-ein-a-e4bbc2df-46e0-4fdd-abaa-82a7c758653e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/ronneburg-polizei-ermittelt-wegen-verdacht-auf-chlor-in-freibad-drink](https://www.spiegel.de/panorama/justiz/ronneburg-polizei-ermittelt-wegen-verdacht-auf-chlor-in-freibad-drink-a-3fb259b9-aafa-421a-9d97-27cd786dd030#ref=rss)
+### neue
 
-* [https://www.spiegel.de/sport/fussball/fussball-em-2025-englands-jess-carter-wehrt-sich-gegen-rassismusattacken](https://www.spiegel.de/sport/fussball/fussball-em-2025-englands-jess-carter-wehrt-sich-gegen-rassismusattacken-a-e83b10df-c680-44fd-9f0f-a317e9e43342#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2025-dfb-sportdirektorin-nia-kuenzer-blamiert-sich-mit-erklaerung-zu-hendrich-rot](https://www.spiegel.de/sport/fussball/fussball-em-2025-dfb-sportdirektorin-nia-kuenzer-blamiert-sich-mit-erklaerung-zu-hendrich-rot-a-fe4e476e-7916-46b4-b89c-8884c4cb0843#ref=rss)
-* [https://www.spiegel.de/sport/fussball/kathrin-hendrich-bei-der-fussball-em-2025-die-ungluecklichste-unter-den-gluecklichen](https://www.spiegel.de/sport/fussball/kathrin-hendrich-bei-der-fussball-em-2025-die-ungluecklichste-unter-den-gluecklichen-a-671f4b95-3fb2-49ac-bc56-9c8a5c5c0fdc#ref=rss)
-### 2025
+* [https://www.spiegel.de/wissenschaft/technik/strassenbeleuchtung-neue-studie-zeigt-vorteile-von-insektenfreundlichen-lampen](https://www.spiegel.de/wissenschaft/technik/strassenbeleuchtung-neue-studie-zeigt-vorteile-von-insektenfreundlichen-lampen-a-1eddd01d-52e7-43e5-b24c-2ca4058d3085#ref=rss)
+* [https://www.spiegel.de/netzwelt/microsoft-software-hacker-nutzen-sicherheitsluecke-zum-angriff-auf-behoerden-und-firmen](https://www.spiegel.de/netzwelt/microsoft-software-hacker-nutzen-sicherheitsluecke-zum-angriff-auf-behoerden-und-firmen-a-a57ab385-861f-4c4b-8be3-5df4b834a0d0#ref=rss)
+### ermittelt
 
-* [https://www.spiegel.de/sport/fussball/fussball-em-2025-englands-jess-carter-wehrt-sich-gegen-rassismusattacken](https://www.spiegel.de/sport/fussball/fussball-em-2025-englands-jess-carter-wehrt-sich-gegen-rassismusattacken-a-e83b10df-c680-44fd-9f0f-a317e9e43342#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2025-dfb-sportdirektorin-nia-kuenzer-blamiert-sich-mit-erklaerung-zu-hendrich-rot](https://www.spiegel.de/sport/fussball/fussball-em-2025-dfb-sportdirektorin-nia-kuenzer-blamiert-sich-mit-erklaerung-zu-hendrich-rot-a-fe4e476e-7916-46b4-b89c-8884c4cb0843#ref=rss)
-* [https://www.spiegel.de/sport/fussball/kathrin-hendrich-bei-der-fussball-em-2025-die-ungluecklichste-unter-den-gluecklichen](https://www.spiegel.de/sport/fussball/kathrin-hendrich-bei-der-fussball-em-2025-die-ungluecklichste-unter-den-gluecklichen-a-671f4b95-3fb2-49ac-bc56-9c8a5c5c0fdc#ref=rss)
-### menschen
+* [https://www.spiegel.de/panorama/justiz/ronneburg-polizei-ermittelt-wegen-verdacht-auf-chlor-in-freibad-drink](https://www.spiegel.de/panorama/justiz/ronneburg-polizei-ermittelt-wegen-verdacht-auf-chlor-in-freibad-drink-a-3fb259b9-aafa-421a-9d97-27cd786dd030#ref=rss)
+* [https://www.spiegel.de/netzwelt/microsoft-software-hacker-nutzen-sicherheitsluecke-zum-angriff-auf-behoerden-und-firmen](https://www.spiegel.de/netzwelt/microsoft-software-hacker-nutzen-sicherheitsluecke-zum-angriff-auf-behoerden-und-firmen-a-a57ab385-861f-4c4b-8be3-5df4b834a0d0#ref=rss)
+### linke
 
-* [https://www.spiegel.de/wissenschaft/natur/west-nil-fieber-fordert-todesopfer-in-italien](https://www.spiegel.de/wissenschaft/natur/west-nil-fieber-fordert-todesopfer-in-italien-a-e69236ab-2b10-478e-84e5-063107f6fb2b#ref=rss)
-* [https://www.spiegel.de/panorama/triebwerk-von-boeing-faengt-nach-start-feuer](https://www.spiegel.de/panorama/triebwerk-von-boeing-faengt-nach-start-feuer-a-ad2a3ed5-644c-492f-8f4c-75afc82a6b11#ref=rss)
-* [https://www.spiegel.de/wissenschaft/unterwasserarchaelogie-in-albanien-die-siedler-vom-ohridsee](https://www.spiegel.de/wissenschaft/unterwasserarchaelogie-in-albanien-die-siedler-vom-ohridsee-a-ae4d88ea-d6b6-4e46-805e-1767e6dbbe70#ref=rss)
-### hendrich
+* [https://www.spiegel.de/panorama/bildung/badetote-linke-fordert-verpflichtenden-schwimmunterricht-an-grundschulen](https://www.spiegel.de/panorama/bildung/badetote-linke-fordert-verpflichtenden-schwimmunterricht-an-grundschulen-a-74b99966-16eb-4871-a0cd-c7894265858f#ref=rss)
+* [https://www.spiegel.de/politik/cdu-carsten-linnemann-will-richterstreit-um-frauke-brosius-gersdorf-intern-klaeren](https://www.spiegel.de/politik/cdu-carsten-linnemann-will-richterstreit-um-frauke-brosius-gersdorf-intern-klaeren-a-0d5f5708-fe3a-4754-8a76-cf18c2f0e6a4#ref=rss)
+### ende
 
-* [https://www.spiegel.de/sport/fussball/fussball-em-2025-dfb-sportdirektorin-nia-kuenzer-blamiert-sich-mit-erklaerung-zu-hendrich-rot](https://www.spiegel.de/sport/fussball/fussball-em-2025-dfb-sportdirektorin-nia-kuenzer-blamiert-sich-mit-erklaerung-zu-hendrich-rot-a-fe4e476e-7916-46b4-b89c-8884c4cb0843#ref=rss)
-* [https://www.spiegel.de/sport/fussball/kathrin-hendrich-bei-der-fussball-em-2025-die-ungluecklichste-unter-den-gluecklichen](https://www.spiegel.de/sport/fussball/kathrin-hendrich-bei-der-fussball-em-2025-die-ungluecklichste-unter-den-gluecklichen-a-671f4b95-3fb2-49ac-bc56-9c8a5c5c0fdc#ref=rss)
-### rechteck
+* [https://www.spiegel.de/panorama/bildung/badetote-linke-fordert-verpflichtenden-schwimmunterricht-an-grundschulen](https://www.spiegel.de/panorama/bildung/badetote-linke-fordert-verpflichtenden-schwimmunterricht-an-grundschulen-a-74b99966-16eb-4871-a0cd-c7894265858f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsches-gastgewerbe-erleidet-staerksten-umsatzeinbruch-seit-ende-2021](https://www.spiegel.de/wirtschaft/deutsches-gastgewerbe-erleidet-staerksten-umsatzeinbruch-seit-ende-2021-a-4093c556-29f8-4089-b254-10287ab31de3#ref=rss)
+### schwimmen
 
-* [https://www.spiegel.de/karriere/wie-gross-sind-die-farbigen-flaechen-raetsel-der-woche](https://www.spiegel.de/karriere/wie-gross-sind-die-farbigen-flaechen-raetsel-der-woche-a-848c6600-fef1-4352-b0a7-f6712028ee11#ref=rss)
-### gaza
+* [https://www.spiegel.de/panorama/bildung/badetote-linke-fordert-verpflichtenden-schwimmunterricht-an-grundschulen](https://www.spiegel.de/panorama/bildung/badetote-linke-fordert-verpflichtenden-schwimmunterricht-an-grundschulen-a-74b99966-16eb-4871-a0cd-c7894265858f#ref=rss)
+* [https://www.spiegel.de/panorama/winterhausen-bei-wuerzburg-jugendlicher-nach-schwimmen-im-main-vermisst](https://www.spiegel.de/panorama/winterhausen-bei-wuerzburg-jugendlicher-nach-schwimmen-im-main-vermisst-a-29cf4ec0-b86c-4208-b6c0-6c7cdec5ab3f#ref=rss)
+### fragen
 
-* [https://www.spiegel.de/politik/deutschland/gaza-gruene-kritisieren-passive-zuschauerrolle-der-bundesregierung-gegenueber-leid-in-gaza](https://www.spiegel.de/politik/deutschland/gaza-gruene-kritisieren-passive-zuschauerrolle-der-bundesregierung-gegenueber-leid-in-gaza-a-9db480c7-3e8c-4293-9167-7efaa4940614#ref=rss)
-### musk
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### tag
 
-* [https://www.spiegel.de/netzwelt/web/elon-musk-und-grok-kinderfreundliche-chatbot-variante-angekuendigt](https://www.spiegel.de/netzwelt/web/elon-musk-und-grok-kinderfreundliche-chatbot-variante-angekuendigt-a-4364b888-5859-48f8-b99f-f9c90386db5a#ref=rss)
-### brandt
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### rainer
 
-* [https://www.spiegel.de/geschichte/matthias-brandt-ueber-den-widerstand-seiner-eltern-gegen-hitler-bemerkenswert-unaengstlich](https://www.spiegel.de/geschichte/matthias-brandt-ueber-den-widerstand-seiner-eltern-gegen-hitler-bemerkenswert-unaengstlich-a-a24891b7-16ba-46e4-9d62-4605198793b4#ref=rss)
-### banane
+* [https://www.spiegel.de/panorama/justiz/rainer-maria-woelki-missbrauchsbetroffene-zeigen-koelner-kardinal-beim-vatikan-an](https://www.spiegel.de/panorama/justiz/rainer-maria-woelki-missbrauchsbetroffene-zeigen-koelner-kardinal-beim-vatikan-an-a-56e979da-1662-4ac6-bdae-06cc254de709#ref=rss)
+### maria
 
-* [https://www.spiegel.de/kultur/beruehmtes-kunstwerk-von-maurizio-cattelan-millionenschwere-banane-verputzt](https://www.spiegel.de/kultur/beruehmtes-kunstwerk-von-maurizio-cattelan-millionenschwere-banane-verputzt-a-5409d058-f096-40d6-813a-caebd8636c3b#ref=rss)
-### bergen
+* [https://www.spiegel.de/panorama/justiz/rainer-maria-woelki-missbrauchsbetroffene-zeigen-koelner-kardinal-beim-vatikan-an](https://www.spiegel.de/panorama/justiz/rainer-maria-woelki-missbrauchsbetroffene-zeigen-koelner-kardinal-beim-vatikan-an-a-56e979da-1662-4ac6-bdae-06cc254de709#ref=rss)
+### woelki
 
-* [https://www.spiegel.de/reise/europa/wandern-in-zeiten-von-extremwetter-so-bewegen-sie-sich-sicher-in-den-bergen](https://www.spiegel.de/reise/europa/wandern-in-zeiten-von-extremwetter-so-bewegen-sie-sich-sicher-in-den-bergen-a-f9eb2f06-a4c6-4ff9-95fb-a59bae8f5356#ref=rss)
-### tour
+* [https://www.spiegel.de/panorama/justiz/rainer-maria-woelki-missbrauchsbetroffene-zeigen-koelner-kardinal-beim-vatikan-an](https://www.spiegel.de/panorama/justiz/rainer-maria-woelki-missbrauchsbetroffene-zeigen-koelner-kardinal-beim-vatikan-an-a-56e979da-1662-4ac6-bdae-06cc254de709#ref=rss)
+### kölner
 
-* [https://www.spiegel.de/reise/europa/wandern-in-zeiten-von-extremwetter-so-bewegen-sie-sich-sicher-in-den-bergen](https://www.spiegel.de/reise/europa/wandern-in-zeiten-von-extremwetter-so-bewegen-sie-sich-sicher-in-den-bergen-a-f9eb2f06-a4c6-4ff9-95fb-a59bae8f5356#ref=rss)
-* [https://www.spiegel.de/sport/15-etappe-der-tour-de-france-ausreisser-tim-wellens-siegt-florian-lipowitz-bleibt-dritter](https://www.spiegel.de/sport/15-etappe-der-tour-de-france-ausreisser-tim-wellens-siegt-florian-lipowitz-bleibt-dritter-a-7873eecb-0c5b-4040-8bb3-d41e8f1219fb#ref=rss)
-### goethe
+* [https://www.spiegel.de/panorama/justiz/rainer-maria-woelki-missbrauchsbetroffene-zeigen-koelner-kardinal-beim-vatikan-an](https://www.spiegel.de/panorama/justiz/rainer-maria-woelki-missbrauchsbetroffene-zeigen-koelner-kardinal-beim-vatikan-an-a-56e979da-1662-4ac6-bdae-06cc254de709#ref=rss)
+### kardinal
 
-* [https://www.spiegel.de/kultur/literatur/schoener-schreiben-goethe-und-der-perfekte-letzte-satz-die-deutschkolumne](https://www.spiegel.de/kultur/literatur/schoener-schreiben-goethe-und-der-perfekte-letzte-satz-die-deutschkolumne-a-baa7d862-e639-4d65-ac21-43738f5e6eae#ref=rss)
-### perfekte
-
-* [https://www.spiegel.de/kultur/literatur/schoener-schreiben-goethe-und-der-perfekte-letzte-satz-die-deutschkolumne](https://www.spiegel.de/kultur/literatur/schoener-schreiben-goethe-und-der-perfekte-letzte-satz-die-deutschkolumne-a-baa7d862-e639-4d65-ac21-43738f5e6eae#ref=rss)
-### letzte
-
-* [https://www.spiegel.de/kultur/literatur/schoener-schreiben-goethe-und-der-perfekte-letzte-satz-die-deutschkolumne](https://www.spiegel.de/kultur/literatur/schoener-schreiben-goethe-und-der-perfekte-letzte-satz-die-deutschkolumne-a-baa7d862-e639-4d65-ac21-43738f5e6eae#ref=rss)
-### satz
-
-* [https://www.spiegel.de/kultur/literatur/schoener-schreiben-goethe-und-der-perfekte-letzte-satz-die-deutschkolumne](https://www.spiegel.de/kultur/literatur/schoener-schreiben-goethe-und-der-perfekte-letzte-satz-die-deutschkolumne-a-baa7d862-e639-4d65-ac21-43738f5e6eae#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/reise/kein-geld-fuer-reisen-wenn-selbst-das-freibad-zu-teuer-ist](https://www.spiegel.de/reise/kein-geld-fuer-reisen-wenn-selbst-das-freibad-zu-teuer-ist-a-fbedd359-f119-496b-bc91-39de5c2268ba#ref=rss)
-* [https://www.spiegel.de/ausland/hatz-auf-einwanderer-in-den-usa-das-ist-beaengstigend-nah-dran-an-einem-konzentrationslager](https://www.spiegel.de/ausland/hatz-auf-einwanderer-in-den-usa-das-ist-beaengstigend-nah-dran-an-einem-konzentrationslager-a-2cc01613-92a2-4990-9b8d-dae6348c431c#ref=rss)
-### freibad
-
-* [https://www.spiegel.de/reise/kein-geld-fuer-reisen-wenn-selbst-das-freibad-zu-teuer-ist](https://www.spiegel.de/reise/kein-geld-fuer-reisen-wenn-selbst-das-freibad-zu-teuer-ist-a-fbedd359-f119-496b-bc91-39de5c2268ba#ref=rss)
-### woche
-
-* [https://www.spiegel.de/reise/kein-geld-fuer-reisen-wenn-selbst-das-freibad-zu-teuer-ist](https://www.spiegel.de/reise/kein-geld-fuer-reisen-wenn-selbst-das-freibad-zu-teuer-ist-a-fbedd359-f119-496b-bc91-39de5c2268ba#ref=rss)
-* [https://www.spiegel.de/karriere/wie-gross-sind-die-farbigen-flaechen-raetsel-der-woche](https://www.spiegel.de/karriere/wie-gross-sind-die-farbigen-flaechen-raetsel-der-woche-a-848c6600-fef1-4352-b0a7-f6712028ee11#ref=rss)
-### anders
-
-* [https://www.spiegel.de/reise/kein-geld-fuer-reisen-wenn-selbst-das-freibad-zu-teuer-ist](https://www.spiegel.de/reise/kein-geld-fuer-reisen-wenn-selbst-das-freibad-zu-teuer-ist-a-fbedd359-f119-496b-bc91-39de5c2268ba#ref=rss)
-* [https://www.spiegel.de/sport/fussball/frankreichs-spielerin-selma-bacha-nach-dem-em-aus-die-deutschen-haben-nichts-geboten](https://www.spiegel.de/sport/fussball/frankreichs-spielerin-selma-bacha-nach-dem-em-aus-die-deutschen-haben-nichts-geboten-a-69479aff-9d05-413a-9760-e9e9b93e715f#ref=rss)
-### englands
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2025-englands-jess-carter-wehrt-sich-gegen-rassismusattacken](https://www.spiegel.de/sport/fussball/fussball-em-2025-englands-jess-carter-wehrt-sich-gegen-rassismusattacken-a-e83b10df-c680-44fd-9f0f-a317e9e43342#ref=rss)
-### jess
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2025-englands-jess-carter-wehrt-sich-gegen-rassismusattacken](https://www.spiegel.de/sport/fussball/fussball-em-2025-englands-jess-carter-wehrt-sich-gegen-rassismusattacken-a-e83b10df-c680-44fd-9f0f-a317e9e43342#ref=rss)
-### carter
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2025-englands-jess-carter-wehrt-sich-gegen-rassismusattacken](https://www.spiegel.de/sport/fussball/fussball-em-2025-englands-jess-carter-wehrt-sich-gegen-rassismusattacken-a-e83b10df-c680-44fd-9f0f-a317e9e43342#ref=rss)
-### wehrt
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2025-englands-jess-carter-wehrt-sich-gegen-rassismusattacken](https://www.spiegel.de/sport/fussball/fussball-em-2025-englands-jess-carter-wehrt-sich-gegen-rassismusattacken-a-e83b10df-c680-44fd-9f0f-a317e9e43342#ref=rss)
-### schüsse
-
-* [https://www.spiegel.de/panorama/justiz/norwegen-schuesse-in-osloer-einkaufszentrum-polizei-fasst-mutmasslichen-taeter](https://www.spiegel.de/panorama/justiz/norwegen-schuesse-in-osloer-einkaufszentrum-polizei-fasst-mutmasslichen-taeter-a-39f55158-fa9b-442c-9b68-34ab8d82c46f#ref=rss)
-### osloer
-
-* [https://www.spiegel.de/panorama/justiz/norwegen-schuesse-in-osloer-einkaufszentrum-polizei-fasst-mutmasslichen-taeter](https://www.spiegel.de/panorama/justiz/norwegen-schuesse-in-osloer-einkaufszentrum-polizei-fasst-mutmasslichen-taeter-a-39f55158-fa9b-442c-9b68-34ab8d82c46f#ref=rss)
-### großen
-
-* [https://www.spiegel.de/panorama/justiz/norwegen-schuesse-in-osloer-einkaufszentrum-polizei-fasst-mutmasslichen-taeter](https://www.spiegel.de/panorama/justiz/norwegen-schuesse-in-osloer-einkaufszentrum-polizei-fasst-mutmasslichen-taeter-a-39f55158-fa9b-442c-9b68-34ab8d82c46f#ref=rss)
-* [https://www.spiegel.de/karriere/wie-gross-sind-die-farbigen-flaechen-raetsel-der-woche](https://www.spiegel.de/karriere/wie-gross-sind-die-farbigen-flaechen-raetsel-der-woche-a-848c6600-fef1-4352-b0a7-f6712028ee11#ref=rss)
-### erst
-
-* [https://www.spiegel.de/panorama/justiz/norwegen-schuesse-in-osloer-einkaufszentrum-polizei-fasst-mutmasslichen-taeter](https://www.spiegel.de/panorama/justiz/norwegen-schuesse-in-osloer-einkaufszentrum-polizei-fasst-mutmasslichen-taeter-a-39f55158-fa9b-442c-9b68-34ab8d82c46f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/kathrin-hendrich-bei-der-fussball-em-2025-die-ungluecklichste-unter-den-gluecklichen](https://www.spiegel.de/sport/fussball/kathrin-hendrich-bei-der-fussball-em-2025-die-ungluecklichste-unter-den-gluecklichen-a-671f4b95-3fb2-49ac-bc56-9c8a5c5c0fdc#ref=rss)
-### tim
-
-* [https://www.spiegel.de/sport/15-etappe-der-tour-de-france-ausreisser-tim-wellens-siegt-florian-lipowitz-bleibt-dritter](https://www.spiegel.de/sport/15-etappe-der-tour-de-france-ausreisser-tim-wellens-siegt-florian-lipowitz-bleibt-dritter-a-7873eecb-0c5b-4040-8bb3-d41e8f1219fb#ref=rss)
-### wellens
-
-* [https://www.spiegel.de/sport/15-etappe-der-tour-de-france-ausreisser-tim-wellens-siegt-florian-lipowitz-bleibt-dritter](https://www.spiegel.de/sport/15-etappe-der-tour-de-france-ausreisser-tim-wellens-siegt-florian-lipowitz-bleibt-dritter-a-7873eecb-0c5b-4040-8bb3-d41e8f1219fb#ref=rss)
-### bleibt
-
-* [https://www.spiegel.de/sport/15-etappe-der-tour-de-france-ausreisser-tim-wellens-siegt-florian-lipowitz-bleibt-dritter](https://www.spiegel.de/sport/15-etappe-der-tour-de-france-ausreisser-tim-wellens-siegt-florian-lipowitz-bleibt-dritter-a-7873eecb-0c5b-4040-8bb3-d41e8f1219fb#ref=rss)
-* [https://www.spiegel.de/ausland/gazastreifen-offenbar-erneut-dutzende-tote-rund-um-hilfsgueterlieferung](https://www.spiegel.de/ausland/gazastreifen-offenbar-erneut-dutzende-tote-rund-um-hilfsgueterlieferung-a-76fecea5-0d15-4a2e-9786-2e5fcd566a58#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/hatz-auf-einwanderer-in-den-usa-das-ist-beaengstigend-nah-dran-an-einem-konzentrationslager](https://www.spiegel.de/ausland/hatz-auf-einwanderer-in-den-usa-das-ist-beaengstigend-nah-dran-an-einem-konzentrationslager-a-2cc01613-92a2-4990-9b8d-dae6348c431c#ref=rss)
-* [https://www.spiegel.de/panorama/triebwerk-von-boeing-faengt-nach-start-feuer](https://www.spiegel.de/panorama/triebwerk-von-boeing-faengt-nach-start-feuer-a-ad2a3ed5-644c-492f-8f4c-75afc82a6b11#ref=rss)
-### behörden
-
-* [https://www.spiegel.de/ausland/hatz-auf-einwanderer-in-den-usa-das-ist-beaengstigend-nah-dran-an-einem-konzentrationslager](https://www.spiegel.de/ausland/hatz-auf-einwanderer-in-den-usa-das-ist-beaengstigend-nah-dran-an-einem-konzentrationslager-a-2cc01613-92a2-4990-9b8d-dae6348c431c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/west-nil-fieber-fordert-todesopfer-in-italien](https://www.spiegel.de/wissenschaft/natur/west-nil-fieber-fordert-todesopfer-in-italien-a-e69236ab-2b10-478e-84e5-063107f6fb2b#ref=rss)
-### afdchefin
-
-* [https://www.spiegel.de/politik/deutschland/tv-gespraech-mit-afd-chefin-weidel-geht-in-demo-laerm-fast-unter](https://www.spiegel.de/politik/deutschland/tv-gespraech-mit-afd-chefin-weidel-geht-in-demo-laerm-fast-unter-a-cfae3318-b5a5-470e-aa95-7a26e6599a35#ref=rss)
-### weidel
-
-* [https://www.spiegel.de/politik/deutschland/tv-gespraech-mit-afd-chefin-weidel-geht-in-demo-laerm-fast-unter](https://www.spiegel.de/politik/deutschland/tv-gespraech-mit-afd-chefin-weidel-geht-in-demo-laerm-fast-unter-a-cfae3318-b5a5-470e-aa95-7a26e6599a35#ref=rss)
-### unter
-
-* [https://www.spiegel.de/politik/deutschland/tv-gespraech-mit-afd-chefin-weidel-geht-in-demo-laerm-fast-unter](https://www.spiegel.de/politik/deutschland/tv-gespraech-mit-afd-chefin-weidel-geht-in-demo-laerm-fast-unter-a-cfae3318-b5a5-470e-aa95-7a26e6599a35#ref=rss)
-* [https://www.spiegel.de/sport/fussball/kathrin-hendrich-bei-der-fussball-em-2025-die-ungluecklichste-unter-den-gluecklichen](https://www.spiegel.de/sport/fussball/kathrin-hendrich-bei-der-fussball-em-2025-die-ungluecklichste-unter-den-gluecklichen-a-671f4b95-3fb2-49ac-bc56-9c8a5c5c0fdc#ref=rss)
-### dahinter
-
-* [https://www.spiegel.de/politik/deutschland/tv-gespraech-mit-afd-chefin-weidel-geht-in-demo-laerm-fast-unter](https://www.spiegel.de/politik/deutschland/tv-gespraech-mit-afd-chefin-weidel-geht-in-demo-laerm-fast-unter-a-cfae3318-b5a5-470e-aa95-7a26e6599a35#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/jette-nietzard-die-wutprobe-der-gruene-jugend-chefin-die-wutprobe](https://www.spiegel.de/politik/deutschland/jette-nietzard-die-wutprobe-der-gruene-jugend-chefin-die-wutprobe-a-2b7dcf54-f0c7-4f9e-8f9d-ad93a87ee047#ref=rss)
-### westnilfieber
-
-* [https://www.spiegel.de/wissenschaft/natur/west-nil-fieber-fordert-todesopfer-in-italien](https://www.spiegel.de/wissenschaft/natur/west-nil-fieber-fordert-todesopfer-in-italien-a-e69236ab-2b10-478e-84e5-063107f6fb2b#ref=rss)
-### region
-
-* [https://www.spiegel.de/wissenschaft/natur/west-nil-fieber-fordert-todesopfer-in-italien](https://www.spiegel.de/wissenschaft/natur/west-nil-fieber-fordert-todesopfer-in-italien-a-e69236ab-2b10-478e-84e5-063107f6fb2b#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/spremberg-in-brandenburg-innenminister-kuendigt-hilfe-gegen-rechtsextremismus-an](https://www.spiegel.de/panorama/gesellschaft/spremberg-in-brandenburg-innenminister-kuendigt-hilfe-gegen-rechtsextremismus-an-a-6732f99b-cd7b-434f-8ace-fce3753d793b#ref=rss)
-### japans
-
-* [https://www.spiegel.de/ausland/japans-regierung-rutscht-durch-oberhauswahl-weiter-in-die-krise](https://www.spiegel.de/ausland/japans-regierung-rutscht-durch-oberhauswahl-weiter-in-die-krise-a-890f7102-7563-4273-8456-336080342712#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/ausland/japans-regierung-rutscht-durch-oberhauswahl-weiter-in-die-krise](https://www.spiegel.de/ausland/japans-regierung-rutscht-durch-oberhauswahl-weiter-in-die-krise-a-890f7102-7563-4273-8456-336080342712#ref=rss)
-### ergebnis
-
-* [https://www.spiegel.de/ausland/japans-regierung-rutscht-durch-oberhauswahl-weiter-in-die-krise](https://www.spiegel.de/ausland/japans-regierung-rutscht-durch-oberhauswahl-weiter-in-die-krise-a-890f7102-7563-4273-8456-336080342712#ref=rss)
-* [https://www.spiegel.de/sport/fussball/frankreichs-spielerin-selma-bacha-nach-dem-em-aus-die-deutschen-haben-nichts-geboten](https://www.spiegel.de/sport/fussball/frankreichs-spielerin-selma-bacha-nach-dem-em-aus-die-deutschen-haben-nichts-geboten-a-69479aff-9d05-413a-9760-e9e9b93e715f#ref=rss)
-### triebwerk
-
-* [https://www.spiegel.de/panorama/triebwerk-von-boeing-faengt-nach-start-feuer](https://www.spiegel.de/panorama/triebwerk-von-boeing-faengt-nach-start-feuer-a-ad2a3ed5-644c-492f-8f4c-75afc82a6b11#ref=rss)
-### feuer
-
-* [https://www.spiegel.de/panorama/triebwerk-von-boeing-faengt-nach-start-feuer](https://www.spiegel.de/panorama/triebwerk-von-boeing-faengt-nach-start-feuer-a-ad2a3ed5-644c-492f-8f4c-75afc82a6b11#ref=rss)
-* [https://www.spiegel.de/panorama/groesste-holzkirche-deutschlands-geraet-in-brand](https://www.spiegel.de/panorama/groesste-holzkirche-deutschlands-geraet-in-brand-a-aaf8ac1c-d789-453e-a193-df250c85814a#ref=rss)
-### brand
-
-* [https://www.spiegel.de/panorama/triebwerk-von-boeing-faengt-nach-start-feuer](https://www.spiegel.de/panorama/triebwerk-von-boeing-faengt-nach-start-feuer-a-ad2a3ed5-644c-492f-8f4c-75afc82a6b11#ref=rss)
-* [https://www.spiegel.de/panorama/groesste-holzkirche-deutschlands-geraet-in-brand](https://www.spiegel.de/panorama/groesste-holzkirche-deutschlands-geraet-in-brand-a-aaf8ac1c-d789-453e-a193-df250c85814a#ref=rss)
-### gazastreifen
-
-* [https://www.spiegel.de/ausland/gazastreifen-offenbar-erneut-dutzende-tote-rund-um-hilfsgueterlieferung](https://www.spiegel.de/ausland/gazastreifen-offenbar-erneut-dutzende-tote-rund-um-hilfsgueterlieferung-a-76fecea5-0d15-4a2e-9786-2e5fcd566a58#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/ausland/gazastreifen-offenbar-erneut-dutzende-tote-rund-um-hilfsgueterlieferung](https://www.spiegel.de/ausland/gazastreifen-offenbar-erneut-dutzende-tote-rund-um-hilfsgueterlieferung-a-76fecea5-0d15-4a2e-9786-2e5fcd566a58#ref=rss)
-### lage
-
-* [https://www.spiegel.de/ausland/gazastreifen-offenbar-erneut-dutzende-tote-rund-um-hilfsgueterlieferung](https://www.spiegel.de/ausland/gazastreifen-offenbar-erneut-dutzende-tote-rund-um-hilfsgueterlieferung-a-76fecea5-0d15-4a2e-9786-2e5fcd566a58#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gaza-gruene-kritisieren-passive-zuschauerrolle-der-bundesregierung-gegenueber-leid-in-gaza](https://www.spiegel.de/politik/deutschland/gaza-gruene-kritisieren-passive-zuschauerrolle-der-bundesregierung-gegenueber-leid-in-gaza-a-9db480c7-3e8c-4293-9167-7efaa4940614#ref=rss)
-### dfbsportdirektorin
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2025-dfb-sportdirektorin-nia-kuenzer-blamiert-sich-mit-erklaerung-zu-hendrich-rot](https://www.spiegel.de/sport/fussball/fussball-em-2025-dfb-sportdirektorin-nia-kuenzer-blamiert-sich-mit-erklaerung-zu-hendrich-rot-a-fe4e476e-7916-46b4-b89c-8884c4cb0843#ref=rss)
-### nia
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2025-dfb-sportdirektorin-nia-kuenzer-blamiert-sich-mit-erklaerung-zu-hendrich-rot](https://www.spiegel.de/sport/fussball/fussball-em-2025-dfb-sportdirektorin-nia-kuenzer-blamiert-sich-mit-erklaerung-zu-hendrich-rot-a-fe4e476e-7916-46b4-b89c-8884c4cb0843#ref=rss)
-### künzer
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2025-dfb-sportdirektorin-nia-kuenzer-blamiert-sich-mit-erklaerung-zu-hendrich-rot](https://www.spiegel.de/sport/fussball/fussball-em-2025-dfb-sportdirektorin-nia-kuenzer-blamiert-sich-mit-erklaerung-zu-hendrich-rot-a-fe4e476e-7916-46b4-b89c-8884c4cb0843#ref=rss)
-### emviertelfinale
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2025-dfb-sportdirektorin-nia-kuenzer-blamiert-sich-mit-erklaerung-zu-hendrich-rot](https://www.spiegel.de/sport/fussball/fussball-em-2025-dfb-sportdirektorin-nia-kuenzer-blamiert-sich-mit-erklaerung-zu-hendrich-rot-a-fe4e476e-7916-46b4-b89c-8884c4cb0843#ref=rss)
-* [https://www.spiegel.de/sport/fussball/frankreichs-spielerin-selma-bacha-nach-dem-em-aus-die-deutschen-haben-nichts-geboten](https://www.spiegel.de/sport/fussball/frankreichs-spielerin-selma-bacha-nach-dem-em-aus-die-deutschen-haben-nichts-geboten-a-69479aff-9d05-413a-9760-e9e9b93e715f#ref=rss)
-### frankreich
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2025-dfb-sportdirektorin-nia-kuenzer-blamiert-sich-mit-erklaerung-zu-hendrich-rot](https://www.spiegel.de/sport/fussball/fussball-em-2025-dfb-sportdirektorin-nia-kuenzer-blamiert-sich-mit-erklaerung-zu-hendrich-rot-a-fe4e476e-7916-46b4-b89c-8884c4cb0843#ref=rss)
-* [https://www.spiegel.de/sport/fussball/frankreichs-spielerin-selma-bacha-nach-dem-em-aus-die-deutschen-haben-nichts-geboten](https://www.spiegel.de/sport/fussball/frankreichs-spielerin-selma-bacha-nach-dem-em-aus-die-deutschen-haben-nichts-geboten-a-69479aff-9d05-413a-9760-e9e9b93e715f#ref=rss)
-### charli
-
-* [https://www.spiegel.de/kultur/musik/charli-xcx-hat-geheiratet-und-ihren-mann-zum-weinen-gebracht](https://www.spiegel.de/kultur/musik/charli-xcx-hat-geheiratet-und-ihren-mann-zum-weinen-gebracht-a-f666598e-d04b-4874-b52f-bd2c95c851c2#ref=rss)
-### xcx
-
-* [https://www.spiegel.de/kultur/musik/charli-xcx-hat-geheiratet-und-ihren-mann-zum-weinen-gebracht](https://www.spiegel.de/kultur/musik/charli-xcx-hat-geheiratet-und-ihren-mann-zum-weinen-gebracht-a-f666598e-d04b-4874-b52f-bd2c95c851c2#ref=rss)
-### geheiratet
-
-* [https://www.spiegel.de/kultur/musik/charli-xcx-hat-geheiratet-und-ihren-mann-zum-weinen-gebracht](https://www.spiegel.de/kultur/musik/charli-xcx-hat-geheiratet-und-ihren-mann-zum-weinen-gebracht-a-f666598e-d04b-4874-b52f-bd2c95c851c2#ref=rss)
-### billie
-
-* [https://www.spiegel.de/kultur/musik/billie-eilish-holt-sich-james-cameron-als-regisseur-fuer-konzertfilm](https://www.spiegel.de/kultur/musik/billie-eilish-holt-sich-james-cameron-als-regisseur-fuer-konzertfilm-a-ca32fa50-29eb-4b7d-89f0-f41c8640128c#ref=rss)
-### eilish
-
-* [https://www.spiegel.de/kultur/musik/billie-eilish-holt-sich-james-cameron-als-regisseur-fuer-konzertfilm](https://www.spiegel.de/kultur/musik/billie-eilish-holt-sich-james-cameron-als-regisseur-fuer-konzertfilm-a-ca32fa50-29eb-4b7d-89f0-f41c8640128c#ref=rss)
-### james
-
-* [https://www.spiegel.de/kultur/musik/billie-eilish-holt-sich-james-cameron-als-regisseur-fuer-konzertfilm](https://www.spiegel.de/kultur/musik/billie-eilish-holt-sich-james-cameron-als-regisseur-fuer-konzertfilm-a-ca32fa50-29eb-4b7d-89f0-f41c8640128c#ref=rss)
-### cameron
-
-* [https://www.spiegel.de/kultur/musik/billie-eilish-holt-sich-james-cameron-als-regisseur-fuer-konzertfilm](https://www.spiegel.de/kultur/musik/billie-eilish-holt-sich-james-cameron-als-regisseur-fuer-konzertfilm-a-ca32fa50-29eb-4b7d-89f0-f41c8640128c#ref=rss)
-### filmprojekt
-
-* [https://www.spiegel.de/kultur/musik/billie-eilish-holt-sich-james-cameron-als-regisseur-fuer-konzertfilm](https://www.spiegel.de/kultur/musik/billie-eilish-holt-sich-james-cameron-als-regisseur-fuer-konzertfilm-a-ca32fa50-29eb-4b7d-89f0-f41c8640128c#ref=rss)
-### kathrin
-
-* [https://www.spiegel.de/sport/fussball/kathrin-hendrich-bei-der-fussball-em-2025-die-ungluecklichste-unter-den-gluecklichen](https://www.spiegel.de/sport/fussball/kathrin-hendrich-bei-der-fussball-em-2025-die-ungluecklichste-unter-den-gluecklichen-a-671f4b95-3fb2-49ac-bc56-9c8a5c5c0fdc#ref=rss)
-### aktion
-
-* [https://www.spiegel.de/sport/fussball/kathrin-hendrich-bei-der-fussball-em-2025-die-ungluecklichste-unter-den-gluecklichen](https://www.spiegel.de/sport/fussball/kathrin-hendrich-bei-der-fussball-em-2025-die-ungluecklichste-unter-den-gluecklichen-a-671f4b95-3fb2-49ac-bc56-9c8a5c5c0fdc#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/rainer-maria-woelki-missbrauchsbetroffene-zeigen-koelner-kardinal-beim-vatikan-an](https://www.spiegel.de/panorama/justiz/rainer-maria-woelki-missbrauchsbetroffene-zeigen-koelner-kardinal-beim-vatikan-an-a-56e979da-1662-4ac6-bdae-06cc254de709#ref=rss)
 ### deutschen
 
-* [https://www.spiegel.de/sport/fussball/kathrin-hendrich-bei-der-fussball-em-2025-die-ungluecklichste-unter-den-gluecklichen](https://www.spiegel.de/sport/fussball/kathrin-hendrich-bei-der-fussball-em-2025-die-ungluecklichste-unter-den-gluecklichen-a-671f4b95-3fb2-49ac-bc56-9c8a5c5c0fdc#ref=rss)
-* [https://www.spiegel.de/sport/fussball/frankreichs-spielerin-selma-bacha-nach-dem-em-aus-die-deutschen-haben-nichts-geboten](https://www.spiegel.de/sport/fussball/frankreichs-spielerin-selma-bacha-nach-dem-em-aus-die-deutschen-haben-nichts-geboten-a-69479aff-9d05-413a-9760-e9e9b93e715f#ref=rss)
-### emaus
+* [https://www.spiegel.de/panorama/justiz/rainer-maria-woelki-missbrauchsbetroffene-zeigen-koelner-kardinal-beim-vatikan-an](https://www.spiegel.de/panorama/justiz/rainer-maria-woelki-missbrauchsbetroffene-zeigen-koelner-kardinal-beim-vatikan-an-a-56e979da-1662-4ac6-bdae-06cc254de709#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsches-gastgewerbe-erleidet-staerksten-umsatzeinbruch-seit-ende-2021](https://www.spiegel.de/wirtschaft/deutsches-gastgewerbe-erleidet-staerksten-umsatzeinbruch-seit-ende-2021-a-4093c556-29f8-4089-b254-10287ab31de3#ref=rss)
+### japan
 
-* [https://www.spiegel.de/sport/fussball/kathrin-hendrich-bei-der-fussball-em-2025-die-ungluecklichste-unter-den-gluecklichen](https://www.spiegel.de/sport/fussball/kathrin-hendrich-bei-der-fussball-em-2025-die-ungluecklichste-unter-den-gluecklichen-a-671f4b95-3fb2-49ac-bc56-9c8a5c5c0fdc#ref=rss)
-* [https://www.spiegel.de/sport/fussball/frankreichs-spielerin-selma-bacha-nach-dem-em-aus-die-deutschen-haben-nichts-geboten](https://www.spiegel.de/sport/fussball/frankreichs-spielerin-selma-bacha-nach-dem-em-aus-die-deutschen-haben-nichts-geboten-a-69479aff-9d05-413a-9760-e9e9b93e715f#ref=rss)
-### owe
+* [https://www.spiegel.de/ausland/japan-premier-shigeru-ishiba-will-ohne-mehrheit-weitermachen](https://www.spiegel.de/ausland/japan-premier-shigeru-ishiba-will-ohne-mehrheit-weitermachen-a-71d569ed-571b-489d-9fec-4fdd5c9a8f11#ref=rss)
+### premier
 
-* [https://www.spiegel.de/sport/fussball/leichtathletik-owe-fischer-breiholz-laeuft-aus-dem-nichts-in-die-weltspitze](https://www.spiegel.de/sport/fussball/leichtathletik-owe-fischer-breiholz-laeuft-aus-dem-nichts-in-die-weltspitze-a-277ab2ac-6f4e-47aa-bbd2-8d1b29338854#ref=rss)
-### fischerbreiholz
+* [https://www.spiegel.de/ausland/japan-premier-shigeru-ishiba-will-ohne-mehrheit-weitermachen](https://www.spiegel.de/ausland/japan-premier-shigeru-ishiba-will-ohne-mehrheit-weitermachen-a-71d569ed-571b-489d-9fec-4fdd5c9a8f11#ref=rss)
+### ishiba
 
-* [https://www.spiegel.de/sport/fussball/leichtathletik-owe-fischer-breiholz-laeuft-aus-dem-nichts-in-die-weltspitze](https://www.spiegel.de/sport/fussball/leichtathletik-owe-fischer-breiholz-laeuft-aus-dem-nichts-in-die-weltspitze-a-277ab2ac-6f4e-47aa-bbd2-8d1b29338854#ref=rss)
-### nichts
+* [https://www.spiegel.de/ausland/japan-premier-shigeru-ishiba-will-ohne-mehrheit-weitermachen](https://www.spiegel.de/ausland/japan-premier-shigeru-ishiba-will-ohne-mehrheit-weitermachen-a-71d569ed-571b-489d-9fec-4fdd5c9a8f11#ref=rss)
+### mehrheit
 
-* [https://www.spiegel.de/sport/fussball/leichtathletik-owe-fischer-breiholz-laeuft-aus-dem-nichts-in-die-weltspitze](https://www.spiegel.de/sport/fussball/leichtathletik-owe-fischer-breiholz-laeuft-aus-dem-nichts-in-die-weltspitze-a-277ab2ac-6f4e-47aa-bbd2-8d1b29338854#ref=rss)
-* [https://www.spiegel.de/sport/fussball/frankreichs-spielerin-selma-bacha-nach-dem-em-aus-die-deutschen-haben-nichts-geboten](https://www.spiegel.de/sport/fussball/frankreichs-spielerin-selma-bacha-nach-dem-em-aus-die-deutschen-haben-nichts-geboten-a-69479aff-9d05-413a-9760-e9e9b93e715f#ref=rss)
-### welt
+* [https://www.spiegel.de/ausland/japan-premier-shigeru-ishiba-will-ohne-mehrheit-weitermachen](https://www.spiegel.de/ausland/japan-premier-shigeru-ishiba-will-ohne-mehrheit-weitermachen-a-71d569ed-571b-489d-9fec-4fdd5c9a8f11#ref=rss)
+### david
 
-* [https://www.spiegel.de/sport/fussball/leichtathletik-owe-fischer-breiholz-laeuft-aus-dem-nichts-in-die-weltspitze](https://www.spiegel.de/sport/fussball/leichtathletik-owe-fischer-breiholz-laeuft-aus-dem-nichts-in-die-weltspitze-a-277ab2ac-6f4e-47aa-bbd2-8d1b29338854#ref=rss)
-* [https://www.spiegel.de/kultur/tv/deleila-piasko-spuert-eine-wachsende-sehnsucht-nach-dem-judentum](https://www.spiegel.de/kultur/tv/deleila-piasko-spuert-eine-wachsende-sehnsucht-nach-dem-judentum-a-f64c9255-10c4-4d8f-975f-a400798777ee#ref=rss)
-### jette
+* [https://www.spiegel.de/panorama/leute/david-beckham-ex-fussballer-erntet-spott-fuer-furchtbare-frisur](https://www.spiegel.de/panorama/leute/david-beckham-ex-fussballer-erntet-spott-fuer-furchtbare-frisur-a-e1471f3a-cd1e-4908-b325-af9524b42ec6#ref=rss)
+### exfußballer
 
-* [https://www.spiegel.de/politik/deutschland/jette-nietzard-die-wutprobe-der-gruene-jugend-chefin-die-wutprobe](https://www.spiegel.de/politik/deutschland/jette-nietzard-die-wutprobe-der-gruene-jugend-chefin-die-wutprobe-a-2b7dcf54-f0c7-4f9e-8f9d-ad93a87ee047#ref=rss)
-### nietzard
+* [https://www.spiegel.de/panorama/leute/david-beckham-ex-fussballer-erntet-spott-fuer-furchtbare-frisur](https://www.spiegel.de/panorama/leute/david-beckham-ex-fussballer-erntet-spott-fuer-furchtbare-frisur-a-e1471f3a-cd1e-4908-b325-af9524b42ec6#ref=rss)
+### frisur
 
-* [https://www.spiegel.de/politik/deutschland/jette-nietzard-die-wutprobe-der-gruene-jugend-chefin-die-wutprobe](https://www.spiegel.de/politik/deutschland/jette-nietzard-die-wutprobe-der-gruene-jugend-chefin-die-wutprobe-a-2b7dcf54-f0c7-4f9e-8f9d-ad93a87ee047#ref=rss)
-### grüne
+* [https://www.spiegel.de/panorama/leute/david-beckham-ex-fussballer-erntet-spott-fuer-furchtbare-frisur](https://www.spiegel.de/panorama/leute/david-beckham-ex-fussballer-erntet-spott-fuer-furchtbare-frisur-a-e1471f3a-cd1e-4908-b325-af9524b42ec6#ref=rss)
+### kopf
 
-* [https://www.spiegel.de/politik/deutschland/jette-nietzard-die-wutprobe-der-gruene-jugend-chefin-die-wutprobe](https://www.spiegel.de/politik/deutschland/jette-nietzard-die-wutprobe-der-gruene-jugend-chefin-die-wutprobe-a-2b7dcf54-f0c7-4f9e-8f9d-ad93a87ee047#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gaza-gruene-kritisieren-passive-zuschauerrolle-der-bundesregierung-gegenueber-leid-in-gaza](https://www.spiegel.de/politik/deutschland/gaza-gruene-kritisieren-passive-zuschauerrolle-der-bundesregierung-gegenueber-leid-in-gaza-a-9db480c7-3e8c-4293-9167-7efaa4940614#ref=rss)
-### quadrat
+* [https://www.spiegel.de/panorama/leute/david-beckham-ex-fussballer-erntet-spott-fuer-furchtbare-frisur](https://www.spiegel.de/panorama/leute/david-beckham-ex-fussballer-erntet-spott-fuer-furchtbare-frisur-a-e1471f3a-cd1e-4908-b325-af9524b42ec6#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/cybertrading-mutmasslicher-kopf-von-internationalem-betrugsnetzwerk-vor-gericht](https://www.spiegel.de/netzwelt/web/cybertrading-mutmasslicher-kopf-von-internationalem-betrugsnetzwerk-vor-gericht-a-06a33a98-2bf2-45a4-977c-043b29da4f21#ref=rss)
+### selbst
 
-* [https://www.spiegel.de/karriere/wie-gross-sind-die-farbigen-flaechen-raetsel-der-woche](https://www.spiegel.de/karriere/wie-gross-sind-die-farbigen-flaechen-raetsel-der-woche-a-848c6600-fef1-4352-b0a7-f6712028ee11#ref=rss)
-### albanien
+* [https://www.spiegel.de/panorama/leute/david-beckham-ex-fussballer-erntet-spott-fuer-furchtbare-frisur](https://www.spiegel.de/panorama/leute/david-beckham-ex-fussballer-erntet-spott-fuer-furchtbare-frisur-a-e1471f3a-cd1e-4908-b325-af9524b42ec6#ref=rss)
+* [https://www.spiegel.de/netzwelt/microsoft-software-hacker-nutzen-sicherheitsluecke-zum-angriff-auf-behoerden-und-firmen](https://www.spiegel.de/netzwelt/microsoft-software-hacker-nutzen-sicherheitsluecke-zum-angriff-auf-behoerden-und-firmen-a-a57ab385-861f-4c4b-8be3-5df4b834a0d0#ref=rss)
+### uspräsident
 
-* [https://www.spiegel.de/wissenschaft/unterwasserarchaelogie-in-albanien-die-siedler-vom-ohridsee](https://www.spiegel.de/wissenschaft/unterwasserarchaelogie-in-albanien-die-siedler-vom-ohridsee-a-ae4d88ea-d6b6-4e46-805e-1767e6dbbe70#ref=rss)
-### forscher
+* [https://www.spiegel.de/ausland/donald-trump-us-praesident-verbreitet-fake-video-in-dem-obama-verhaftet-wird](https://www.spiegel.de/ausland/donald-trump-us-praesident-verbreitet-fake-video-in-dem-obama-verhaftet-wird-a-abb1565b-aac8-4b4d-8b8c-ce882af25a75#ref=rss)
+### obama
 
-* [https://www.spiegel.de/wissenschaft/unterwasserarchaelogie-in-albanien-die-siedler-vom-ohridsee](https://www.spiegel.de/wissenschaft/unterwasserarchaelogie-in-albanien-die-siedler-vom-ohridsee-a-ae4d88ea-d6b6-4e46-805e-1767e6dbbe70#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/klimawandel-gefaehrdet-engelhaie-zu-heiss-zum-paaren](https://www.spiegel.de/wissenschaft/natur/klimawandel-gefaehrdet-engelhaie-zu-heiss-zum-paaren-a-4d344504-0926-40e2-8dfc-9cf575a7b4ef#ref=rss)
-### innenminister
+* [https://www.spiegel.de/ausland/donald-trump-us-praesident-verbreitet-fake-video-in-dem-obama-verhaftet-wird](https://www.spiegel.de/ausland/donald-trump-us-praesident-verbreitet-fake-video-in-dem-obama-verhaftet-wird-a-abb1565b-aac8-4b4d-8b8c-ce882af25a75#ref=rss)
+### video
 
-* [https://www.spiegel.de/panorama/gesellschaft/spremberg-in-brandenburg-innenminister-kuendigt-hilfe-gegen-rechtsextremismus-an](https://www.spiegel.de/panorama/gesellschaft/spremberg-in-brandenburg-innenminister-kuendigt-hilfe-gegen-rechtsextremismus-an-a-6732f99b-cd7b-434f-8ace-fce3753d793b#ref=rss)
-### tibet
+* [https://www.spiegel.de/ausland/donald-trump-us-praesident-verbreitet-fake-video-in-dem-obama-verhaftet-wird](https://www.spiegel.de/ausland/donald-trump-us-praesident-verbreitet-fake-video-in-dem-obama-verhaftet-wird-a-abb1565b-aac8-4b4d-8b8c-ce882af25a75#ref=rss)
+* [https://www.spiegel.de/panorama/alice-weidel-sommerinterview-bei-ard-von-demonstrationen-gestoert](https://www.spiegel.de/panorama/alice-weidel-sommerinterview-bei-ard-von-demonstrationen-gestoert-a-961c8279-8e2d-41e9-a3a3-4a9ecdce90bf#ref=rss)
+### dürre
 
-* [https://www.spiegel.de/ausland/tibet-china-beginnt-bau-von-umstrittenem-riesenstaudamm](https://www.spiegel.de/ausland/tibet-china-beginnt-bau-von-umstrittenem-riesenstaudamm-a-50db8c8c-734a-4b56-8e9b-b974f9752596#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/lebensmittelpreise-duerre-und-starkregen-verteuern-weltweit-wichtige-nahrungsmittel](https://www.spiegel.de/wissenschaft/natur/lebensmittelpreise-duerre-und-starkregen-verteuern-weltweit-wichtige-nahrungsmittel-a-8609fe19-fb90-4ddf-aea3-bc0bcb317293#ref=rss)
+### starkregen
+
+* [https://www.spiegel.de/wissenschaft/natur/lebensmittelpreise-duerre-und-starkregen-verteuern-weltweit-wichtige-nahrungsmittel](https://www.spiegel.de/wissenschaft/natur/lebensmittelpreise-duerre-und-starkregen-verteuern-weltweit-wichtige-nahrungsmittel-a-8609fe19-fb90-4ddf-aea3-bc0bcb317293#ref=rss)
+### verteuern
+
+* [https://www.spiegel.de/wissenschaft/natur/lebensmittelpreise-duerre-und-starkregen-verteuern-weltweit-wichtige-nahrungsmittel](https://www.spiegel.de/wissenschaft/natur/lebensmittelpreise-duerre-und-starkregen-verteuern-weltweit-wichtige-nahrungsmittel-a-8609fe19-fb90-4ddf-aea3-bc0bcb317293#ref=rss)
+### weltweit
+
+* [https://www.spiegel.de/wissenschaft/natur/lebensmittelpreise-duerre-und-starkregen-verteuern-weltweit-wichtige-nahrungsmittel](https://www.spiegel.de/wissenschaft/natur/lebensmittelpreise-duerre-und-starkregen-verteuern-weltweit-wichtige-nahrungsmittel-a-8609fe19-fb90-4ddf-aea3-bc0bcb317293#ref=rss)
+### wichtige
+
+* [https://www.spiegel.de/wissenschaft/natur/lebensmittelpreise-duerre-und-starkregen-verteuern-weltweit-wichtige-nahrungsmittel](https://www.spiegel.de/wissenschaft/natur/lebensmittelpreise-duerre-und-starkregen-verteuern-weltweit-wichtige-nahrungsmittel-a-8609fe19-fb90-4ddf-aea3-bc0bcb317293#ref=rss)
+### nahrungsmittel
+
+* [https://www.spiegel.de/wissenschaft/natur/lebensmittelpreise-duerre-und-starkregen-verteuern-weltweit-wichtige-nahrungsmittel](https://www.spiegel.de/wissenschaft/natur/lebensmittelpreise-duerre-und-starkregen-verteuern-weltweit-wichtige-nahrungsmittel-a-8609fe19-fb90-4ddf-aea3-bc0bcb317293#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/wissenschaft/natur/lebensmittelpreise-duerre-und-starkregen-verteuern-weltweit-wichtige-nahrungsmittel](https://www.spiegel.de/wissenschaft/natur/lebensmittelpreise-duerre-und-starkregen-verteuern-weltweit-wichtige-nahrungsmittel-a-8609fe19-fb90-4ddf-aea3-bc0bcb317293#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/strassenbeleuchtung-neue-studie-zeigt-vorteile-von-insektenfreundlichen-lampen](https://www.spiegel.de/wissenschaft/technik/strassenbeleuchtung-neue-studie-zeigt-vorteile-von-insektenfreundlichen-lampen-a-1eddd01d-52e7-43e5-b24c-2ca4058d3085#ref=rss)
+### große
+
+* [https://www.spiegel.de/wirtschaft/treffen-im-kanzleramt-merz-grosse-gipfel-show](https://www.spiegel.de/wirtschaft/treffen-im-kanzleramt-merz-grosse-gipfel-show-a-77b1a45f-8e78-4858-a273-4919110f43eb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-industrie-warnt-vor-produktschwemme-aus-china](https://www.spiegel.de/wirtschaft/deutsche-industrie-warnt-vor-produktschwemme-aus-china-a-cb169273-4d93-4d02-83bd-e99667b24b91#ref=rss)
+### firmen
+
+* [https://www.spiegel.de/wirtschaft/treffen-im-kanzleramt-merz-grosse-gipfel-show](https://www.spiegel.de/wirtschaft/treffen-im-kanzleramt-merz-grosse-gipfel-show-a-77b1a45f-8e78-4858-a273-4919110f43eb#ref=rss)
+* [https://www.spiegel.de/netzwelt/microsoft-software-hacker-nutzen-sicherheitsluecke-zum-angriff-auf-behoerden-und-firmen](https://www.spiegel.de/netzwelt/microsoft-software-hacker-nutzen-sicherheitsluecke-zum-angriff-auf-behoerden-und-firmen-a-a57ab385-861f-4c4b-8be3-5df4b834a0d0#ref=rss)
+### stellt
+
+* [https://www.spiegel.de/wirtschaft/treffen-im-kanzleramt-merz-grosse-gipfel-show](https://www.spiegel.de/wirtschaft/treffen-im-kanzleramt-merz-grosse-gipfel-show-a-77b1a45f-8e78-4858-a273-4919110f43eb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/alaska-airlines-stellt-voruebergehend-alle-fluege-ein](https://www.spiegel.de/wirtschaft/alaska-airlines-stellt-voruebergehend-alle-fluege-ein-a-3ed85e24-2054-414d-ba27-32be156ca2ad#ref=rss)
+### standort
+
+* [https://www.spiegel.de/wirtschaft/treffen-im-kanzleramt-merz-grosse-gipfel-show](https://www.spiegel.de/wirtschaft/treffen-im-kanzleramt-merz-grosse-gipfel-show-a-77b1a45f-8e78-4858-a273-4919110f43eb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-industrie-warnt-vor-produktschwemme-aus-china](https://www.spiegel.de/wirtschaft/deutsche-industrie-warnt-vor-produktschwemme-aus-china-a-cb169273-4d93-4d02-83bd-e99667b24b91#ref=rss)
+### el
+
+* [https://www.spiegel.de/panorama/justiz/el-salvador-halbtauchboot-mit-1-3-tonnen-kokain-an-bord-abgefangen](https://www.spiegel.de/panorama/justiz/el-salvador-halbtauchboot-mit-1-3-tonnen-kokain-an-bord-abgefangen-a-f3109468-191e-4b6c-bfb9-2e24f2befbc6#ref=rss)
+### salvador
+
+* [https://www.spiegel.de/panorama/justiz/el-salvador-halbtauchboot-mit-1-3-tonnen-kokain-an-bord-abgefangen](https://www.spiegel.de/panorama/justiz/el-salvador-halbtauchboot-mit-1-3-tonnen-kokain-an-bord-abgefangen-a-f3109468-191e-4b6c-bfb9-2e24f2befbc6#ref=rss)
+### kokain
+
+* [https://www.spiegel.de/panorama/justiz/el-salvador-halbtauchboot-mit-1-3-tonnen-kokain-an-bord-abgefangen](https://www.spiegel.de/panorama/justiz/el-salvador-halbtauchboot-mit-1-3-tonnen-kokain-an-bord-abgefangen-a-f3109468-191e-4b6c-bfb9-2e24f2befbc6#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/panorama/justiz/el-salvador-halbtauchboot-mit-1-3-tonnen-kokain-an-bord-abgefangen](https://www.spiegel.de/panorama/justiz/el-salvador-halbtauchboot-mit-1-3-tonnen-kokain-an-bord-abgefangen-a-f3109468-191e-4b6c-bfb9-2e24f2befbc6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsches-gastgewerbe-erleidet-staerksten-umsatzeinbruch-seit-ende-2021](https://www.spiegel.de/wirtschaft/deutsches-gastgewerbe-erleidet-staerksten-umsatzeinbruch-seit-ende-2021-a-4093c556-29f8-4089-b254-10287ab31de3#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/panorama/justiz/el-salvador-halbtauchboot-mit-1-3-tonnen-kokain-an-bord-abgefangen](https://www.spiegel.de/panorama/justiz/el-salvador-halbtauchboot-mit-1-3-tonnen-kokain-an-bord-abgefangen-a-f3109468-191e-4b6c-bfb9-2e24f2befbc6#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/cybertrading-mutmasslicher-kopf-von-internationalem-betrugsnetzwerk-vor-gericht](https://www.spiegel.de/netzwelt/web/cybertrading-mutmasslicher-kopf-von-internationalem-betrugsnetzwerk-vor-gericht-a-06a33a98-2bf2-45a4-977c-043b29da4f21#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-schwere-russische-luftschlaege-auf-charkiw-und-kyjiw](https://www.spiegel.de/ausland/ukraine-krieg-schwere-russische-luftschlaege-auf-charkiw-und-kyjiw-a-39004045-eca9-44c5-98cd-e29d9d983163#ref=rss)
+### mindestens
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-schwere-russische-luftschlaege-auf-charkiw-und-kyjiw](https://www.spiegel.de/ausland/ukraine-krieg-schwere-russische-luftschlaege-auf-charkiw-und-kyjiw-a-39004045-eca9-44c5-98cd-e29d9d983163#ref=rss)
+* [https://www.spiegel.de/panorama/indonesien-mehrere-menschen-sterben-bei-brand-auf-faehre-in-nordsulawesi](https://www.spiegel.de/panorama/indonesien-mehrere-menschen-sterben-bei-brand-auf-faehre-in-nordsulawesi-a-3d0c4339-83fb-4603-aeac-79fa28a064fc#ref=rss)
+### starb
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-schwere-russische-luftschlaege-auf-charkiw-und-kyjiw](https://www.spiegel.de/ausland/ukraine-krieg-schwere-russische-luftschlaege-auf-charkiw-und-kyjiw-a-39004045-eca9-44c5-98cd-e29d9d983163#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-zehlendorf-mutmasslicher-s-bahn-surfer-tot-auf-zugdach-entdeckt](https://www.spiegel.de/panorama/berlin-zehlendorf-mutmasslicher-s-bahn-surfer-tot-auf-zugdach-entdeckt-a-93a9f9ac-297d-4019-98e3-5f015168fb54#ref=rss)
+### großbritannien
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-schwere-russische-luftschlaege-auf-charkiw-und-kyjiw](https://www.spiegel.de/ausland/ukraine-krieg-schwere-russische-luftschlaege-auf-charkiw-und-kyjiw-a-39004045-eca9-44c5-98cd-e29d9d983163#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/grossbritannien-leitet-untersuchung-zur-schlacht-von-orgreave-ein](https://www.spiegel.de/panorama/justiz/grossbritannien-leitet-untersuchung-zur-schlacht-von-orgreave-ein-a-e4bbc2df-46e0-4fdd-abaa-82a7c758653e#ref=rss)
+### leben
+
+* [https://www.spiegel.de/panorama/berlin-zehlendorf-mutmasslicher-s-bahn-surfer-tot-auf-zugdach-entdeckt](https://www.spiegel.de/panorama/berlin-zehlendorf-mutmasslicher-s-bahn-surfer-tot-auf-zugdach-entdeckt-a-93a9f9ac-297d-4019-98e3-5f015168fb54#ref=rss)
+* [https://www.spiegel.de/panorama/indonesien-mehrere-menschen-sterben-bei-brand-auf-faehre-in-nordsulawesi](https://www.spiegel.de/panorama/indonesien-mehrere-menschen-sterben-bei-brand-auf-faehre-in-nordsulawesi-a-3d0c4339-83fb-4603-aeac-79fa28a064fc#ref=rss)
+### macklemore
+
+* [https://www.spiegel.de/kultur/macklemore-beim-deichbrand-ein-bisschen-israel-bashing-und-dann-einfach-weiterfeiern](https://www.spiegel.de/kultur/macklemore-beim-deichbrand-ein-bisschen-israel-bashing-und-dann-einfach-weiterfeiern-a-a6269507-8a07-4a37-a425-964501c4d67c#ref=rss)
+### euro
+
+* [https://www.spiegel.de/netzwelt/web/cybertrading-mutmasslicher-kopf-von-internationalem-betrugsnetzwerk-vor-gericht](https://www.spiegel.de/netzwelt/web/cybertrading-mutmasslicher-kopf-von-internationalem-betrugsnetzwerk-vor-gericht-a-06a33a98-2bf2-45a4-977c-043b29da4f21#ref=rss)
+### schlacht
+
+* [https://www.spiegel.de/panorama/justiz/grossbritannien-leitet-untersuchung-zur-schlacht-von-orgreave-ein](https://www.spiegel.de/panorama/justiz/grossbritannien-leitet-untersuchung-zur-schlacht-von-orgreave-ein-a-e4bbc2df-46e0-4fdd-abaa-82a7c758653e#ref=rss)
+### orgreave
+
+* [https://www.spiegel.de/panorama/justiz/grossbritannien-leitet-untersuchung-zur-schlacht-von-orgreave-ein](https://www.spiegel.de/panorama/justiz/grossbritannien-leitet-untersuchung-zur-schlacht-von-orgreave-ein-a-e4bbc2df-46e0-4fdd-abaa-82a7c758653e#ref=rss)
+### lampen
+
+* [https://www.spiegel.de/wissenschaft/technik/strassenbeleuchtung-neue-studie-zeigt-vorteile-von-insektenfreundlichen-lampen](https://www.spiegel.de/wissenschaft/technik/strassenbeleuchtung-neue-studie-zeigt-vorteile-von-insektenfreundlichen-lampen-a-1eddd01d-52e7-43e5-b24c-2ca4058d3085#ref=rss)
+### weniger
+
+* [https://www.spiegel.de/wissenschaft/technik/strassenbeleuchtung-neue-studie-zeigt-vorteile-von-insektenfreundlichen-lampen](https://www.spiegel.de/wissenschaft/technik/strassenbeleuchtung-neue-studie-zeigt-vorteile-von-insektenfreundlichen-lampen-a-1eddd01d-52e7-43e5-b24c-2ca4058d3085#ref=rss)
+* [https://www.spiegel.de/panorama/indonesien-mehrere-menschen-sterben-bei-brand-auf-faehre-in-nordsulawesi](https://www.spiegel.de/panorama/indonesien-mehrere-menschen-sterben-bei-brand-auf-faehre-in-nordsulawesi-a-3d0c4339-83fb-4603-aeac-79fa28a064fc#ref=rss)
+### sommerinterview
+
+* [https://www.spiegel.de/panorama/alice-weidel-sommerinterview-bei-ard-von-demonstrationen-gestoert](https://www.spiegel.de/panorama/alice-weidel-sommerinterview-bei-ard-von-demonstrationen-gestoert-a-961c8279-8e2d-41e9-a3a3-4a9ecdce90bf#ref=rss)
+### ard
+
+* [https://www.spiegel.de/panorama/alice-weidel-sommerinterview-bei-ard-von-demonstrationen-gestoert](https://www.spiegel.de/panorama/alice-weidel-sommerinterview-bei-ard-von-demonstrationen-gestoert-a-961c8279-8e2d-41e9-a3a3-4a9ecdce90bf#ref=rss)
+### rund
+
+* [https://www.spiegel.de/panorama/bildung/badetote-linke-fordert-verpflichtenden-schwimmunterricht-an-grundschulen](https://www.spiegel.de/panorama/bildung/badetote-linke-fordert-verpflichtenden-schwimmunterricht-an-grundschulen-a-74b99966-16eb-4871-a0cd-c7894265858f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/alaska-airlines-stellt-voruebergehend-alle-fluege-ein](https://www.spiegel.de/wirtschaft/alaska-airlines-stellt-voruebergehend-alle-fluege-ein-a-3ed85e24-2054-414d-ba27-32be156ca2ad#ref=rss)
+### warnt
+
+* [https://www.spiegel.de/panorama/bildung/badetote-linke-fordert-verpflichtenden-schwimmunterricht-an-grundschulen](https://www.spiegel.de/panorama/bildung/badetote-linke-fordert-verpflichtenden-schwimmunterricht-an-grundschulen-a-74b99966-16eb-4871-a0cd-c7894265858f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-industrie-warnt-vor-produktschwemme-aus-china](https://www.spiegel.de/wirtschaft/deutsche-industrie-warnt-vor-produktschwemme-aus-china-a-cb169273-4d93-4d02-83bd-e99667b24b91#ref=rss)
+### islamistischer
+
+* [https://www.spiegel.de/panorama/justiz/berlin-razzien-wegen-mutmasslicher-islamistischer-propaganda-in-berlin](https://www.spiegel.de/panorama/justiz/berlin-razzien-wegen-mutmasslicher-islamistischer-propaganda-in-berlin-a-72a78412-5fb4-4f59-9aaf-e5374cf373d6#ref=rss)
+### propaganda
+
+* [https://www.spiegel.de/panorama/justiz/berlin-razzien-wegen-mutmasslicher-islamistischer-propaganda-in-berlin](https://www.spiegel.de/panorama/justiz/berlin-razzien-wegen-mutmasslicher-islamistischer-propaganda-in-berlin-a-72a78412-5fb4-4f59-9aaf-e5374cf373d6#ref=rss)
+### mehrere
+
+* [https://www.spiegel.de/panorama/justiz/berlin-razzien-wegen-mutmasslicher-islamistischer-propaganda-in-berlin](https://www.spiegel.de/panorama/justiz/berlin-razzien-wegen-mutmasslicher-islamistischer-propaganda-in-berlin-a-72a78412-5fb4-4f59-9aaf-e5374cf373d6#ref=rss)
+* [https://www.spiegel.de/panorama/indonesien-mehrere-menschen-sterben-bei-brand-auf-faehre-in-nordsulawesi](https://www.spiegel.de/panorama/indonesien-mehrere-menschen-sterben-bei-brand-auf-faehre-in-nordsulawesi-a-3d0c4339-83fb-4603-aeac-79fa28a064fc#ref=rss)
+### gastgewerbe
+
+* [https://www.spiegel.de/wirtschaft/deutsches-gastgewerbe-erleidet-staerksten-umsatzeinbruch-seit-ende-2021](https://www.spiegel.de/wirtschaft/deutsches-gastgewerbe-erleidet-staerksten-umsatzeinbruch-seit-ende-2021-a-4093c556-29f8-4089-b254-10287ab31de3#ref=rss)
+### 2021
+
+* [https://www.spiegel.de/wirtschaft/deutsches-gastgewerbe-erleidet-staerksten-umsatzeinbruch-seit-ende-2021](https://www.spiegel.de/wirtschaft/deutsches-gastgewerbe-erleidet-staerksten-umsatzeinbruch-seit-ende-2021-a-4093c556-29f8-4089-b254-10287ab31de3#ref=rss)
+### indonesien
+
+* [https://www.spiegel.de/panorama/indonesien-mehrere-menschen-sterben-bei-brand-auf-faehre-in-nordsulawesi](https://www.spiegel.de/panorama/indonesien-mehrere-menschen-sterben-bei-brand-auf-faehre-in-nordsulawesi-a-3d0c4339-83fb-4603-aeac-79fa28a064fc#ref=rss)
+### fähre
+
+* [https://www.spiegel.de/panorama/indonesien-mehrere-menschen-sterben-bei-brand-auf-faehre-in-nordsulawesi](https://www.spiegel.de/panorama/indonesien-mehrere-menschen-sterben-bei-brand-auf-faehre-in-nordsulawesi-a-3d0c4339-83fb-4603-aeac-79fa28a064fc#ref=rss)
+### nordsulawesi
+
+* [https://www.spiegel.de/panorama/indonesien-mehrere-menschen-sterben-bei-brand-auf-faehre-in-nordsulawesi](https://www.spiegel.de/panorama/indonesien-mehrere-menschen-sterben-bei-brand-auf-faehre-in-nordsulawesi-a-3d0c4339-83fb-4603-aeac-79fa28a064fc#ref=rss)
+### problem
+
+* [https://www.spiegel.de/wirtschaft/verbraucherschuetzer-bieten-tool-fuer-post-beschwerden-an](https://www.spiegel.de/wirtschaft/verbraucherschuetzer-bieten-tool-fuer-post-beschwerden-an-a-e7e05931-3be2-4744-8228-f493c450348d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/alaska-airlines-stellt-voruebergehend-alle-fluege-ein](https://www.spiegel.de/wirtschaft/alaska-airlines-stellt-voruebergehend-alle-fluege-ein-a-3ed85e24-2054-414d-ba27-32be156ca2ad#ref=rss)
+### industrie
+
+* [https://www.spiegel.de/wirtschaft/deutsche-industrie-warnt-vor-produktschwemme-aus-china](https://www.spiegel.de/wirtschaft/deutsche-industrie-warnt-vor-produktschwemme-aus-china-a-cb169273-4d93-4d02-83bd-e99667b24b91#ref=rss)
 ### china
 
-* [https://www.spiegel.de/ausland/tibet-china-beginnt-bau-von-umstrittenem-riesenstaudamm](https://www.spiegel.de/ausland/tibet-china-beginnt-bau-von-umstrittenem-riesenstaudamm-a-50db8c8c-734a-4b56-8e9b-b974f9752596#ref=rss)
-### engelhaie
+* [https://www.spiegel.de/wirtschaft/deutsche-industrie-warnt-vor-produktschwemme-aus-china](https://www.spiegel.de/wirtschaft/deutsche-industrie-warnt-vor-produktschwemme-aus-china-a-cb169273-4d93-4d02-83bd-e99667b24b91#ref=rss)
+### cdu
 
-* [https://www.spiegel.de/wissenschaft/natur/klimawandel-gefaehrdet-engelhaie-zu-heiss-zum-paaren](https://www.spiegel.de/wissenschaft/natur/klimawandel-gefaehrdet-engelhaie-zu-heiss-zum-paaren-a-4d344504-0926-40e2-8dfc-9cf575a7b4ef#ref=rss)
-### selma
+* [https://www.spiegel.de/politik/cdu-carsten-linnemann-will-richterstreit-um-frauke-brosius-gersdorf-intern-klaeren](https://www.spiegel.de/politik/cdu-carsten-linnemann-will-richterstreit-um-frauke-brosius-gersdorf-intern-klaeren-a-0d5f5708-fe3a-4754-8a76-cf18c2f0e6a4#ref=rss)
+### jugendlicher
 
-* [https://www.spiegel.de/sport/fussball/frankreichs-spielerin-selma-bacha-nach-dem-em-aus-die-deutschen-haben-nichts-geboten](https://www.spiegel.de/sport/fussball/frankreichs-spielerin-selma-bacha-nach-dem-em-aus-die-deutschen-haben-nichts-geboten-a-69479aff-9d05-413a-9760-e9e9b93e715f#ref=rss)
-### bacha
+* [https://www.spiegel.de/panorama/winterhausen-bei-wuerzburg-jugendlicher-nach-schwimmen-im-main-vermisst](https://www.spiegel.de/panorama/winterhausen-bei-wuerzburg-jugendlicher-nach-schwimmen-im-main-vermisst-a-29cf4ec0-b86c-4208-b6c0-6c7cdec5ab3f#ref=rss)
+### main
 
-* [https://www.spiegel.de/sport/fussball/frankreichs-spielerin-selma-bacha-nach-dem-em-aus-die-deutschen-haben-nichts-geboten](https://www.spiegel.de/sport/fussball/frankreichs-spielerin-selma-bacha-nach-dem-em-aus-die-deutschen-haben-nichts-geboten-a-69479aff-9d05-413a-9760-e9e9b93e715f#ref=rss)
-### elon
+* [https://www.spiegel.de/panorama/winterhausen-bei-wuerzburg-jugendlicher-nach-schwimmen-im-main-vermisst](https://www.spiegel.de/panorama/winterhausen-bei-wuerzburg-jugendlicher-nach-schwimmen-im-main-vermisst-a-29cf4ec0-b86c-4208-b6c0-6c7cdec5ab3f#ref=rss)
+### vermisst
 
-* [https://www.spiegel.de/netzwelt/web/elon-musk-und-grok-kinderfreundliche-chatbot-variante-angekuendigt](https://www.spiegel.de/netzwelt/web/elon-musk-und-grok-kinderfreundliche-chatbot-variante-angekuendigt-a-4364b888-5859-48f8-b99f-f9c90386db5a#ref=rss)
-### kinderfreundliche
+* [https://www.spiegel.de/panorama/winterhausen-bei-wuerzburg-jugendlicher-nach-schwimmen-im-main-vermisst](https://www.spiegel.de/panorama/winterhausen-bei-wuerzburg-jugendlicher-nach-schwimmen-im-main-vermisst-a-29cf4ec0-b86c-4208-b6c0-6c7cdec5ab3f#ref=rss)
+### alle
 
-* [https://www.spiegel.de/netzwelt/web/elon-musk-und-grok-kinderfreundliche-chatbot-variante-angekuendigt](https://www.spiegel.de/netzwelt/web/elon-musk-und-grok-kinderfreundliche-chatbot-variante-angekuendigt-a-4364b888-5859-48f8-b99f-f9c90386db5a#ref=rss)
-### angekündigt
+* [https://www.spiegel.de/panorama/winterhausen-bei-wuerzburg-jugendlicher-nach-schwimmen-im-main-vermisst](https://www.spiegel.de/panorama/winterhausen-bei-wuerzburg-jugendlicher-nach-schwimmen-im-main-vermisst-a-29cf4ec0-b86c-4208-b6c0-6c7cdec5ab3f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/alaska-airlines-stellt-voruebergehend-alle-fluege-ein](https://www.spiegel.de/wirtschaft/alaska-airlines-stellt-voruebergehend-alle-fluege-ein-a-3ed85e24-2054-414d-ba27-32be156ca2ad#ref=rss)
+### hacker
 
-* [https://www.spiegel.de/netzwelt/web/elon-musk-und-grok-kinderfreundliche-chatbot-variante-angekuendigt](https://www.spiegel.de/netzwelt/web/elon-musk-und-grok-kinderfreundliche-chatbot-variante-angekuendigt-a-4364b888-5859-48f8-b99f-f9c90386db5a#ref=rss)
-### matthias
+* [https://www.spiegel.de/netzwelt/microsoft-software-hacker-nutzen-sicherheitsluecke-zum-angriff-auf-behoerden-und-firmen](https://www.spiegel.de/netzwelt/microsoft-software-hacker-nutzen-sicherheitsluecke-zum-angriff-auf-behoerden-und-firmen-a-a57ab385-861f-4c4b-8be3-5df4b834a0d0#ref=rss)
+### nutzen
 
-* [https://www.spiegel.de/geschichte/matthias-brandt-ueber-den-widerstand-seiner-eltern-gegen-hitler-bemerkenswert-unaengstlich](https://www.spiegel.de/geschichte/matthias-brandt-ueber-den-widerstand-seiner-eltern-gegen-hitler-bemerkenswert-unaengstlich-a-a24891b7-16ba-46e4-9d62-4605198793b4#ref=rss)
-### widerstand
+* [https://www.spiegel.de/netzwelt/microsoft-software-hacker-nutzen-sicherheitsluecke-zum-angriff-auf-behoerden-und-firmen](https://www.spiegel.de/netzwelt/microsoft-software-hacker-nutzen-sicherheitsluecke-zum-angriff-auf-behoerden-und-firmen-a-a57ab385-861f-4c4b-8be3-5df4b834a0d0#ref=rss)
+### angriff
 
-* [https://www.spiegel.de/geschichte/matthias-brandt-ueber-den-widerstand-seiner-eltern-gegen-hitler-bemerkenswert-unaengstlich](https://www.spiegel.de/geschichte/matthias-brandt-ueber-den-widerstand-seiner-eltern-gegen-hitler-bemerkenswert-unaengstlich-a-a24891b7-16ba-46e4-9d62-4605198793b4#ref=rss)
-### eltern
+* [https://www.spiegel.de/netzwelt/microsoft-software-hacker-nutzen-sicherheitsluecke-zum-angriff-auf-behoerden-und-firmen](https://www.spiegel.de/netzwelt/microsoft-software-hacker-nutzen-sicherheitsluecke-zum-angriff-auf-behoerden-und-firmen-a-a57ab385-861f-4c4b-8be3-5df4b834a0d0#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-krieg-papst-leo-xiv-verurteilt-beschuss-auf-katholische-kirche](https://www.spiegel.de/ausland/gaza-krieg-papst-leo-xiv-verurteilt-beschuss-auf-katholische-kirche-a-9aba1b00-ac8c-42c3-a360-980f96769728#ref=rss)
+### behörden
 
-* [https://www.spiegel.de/geschichte/matthias-brandt-ueber-den-widerstand-seiner-eltern-gegen-hitler-bemerkenswert-unaengstlich](https://www.spiegel.de/geschichte/matthias-brandt-ueber-den-widerstand-seiner-eltern-gegen-hitler-bemerkenswert-unaengstlich-a-a24891b7-16ba-46e4-9d62-4605198793b4#ref=rss)
-### deleila
+* [https://www.spiegel.de/netzwelt/microsoft-software-hacker-nutzen-sicherheitsluecke-zum-angriff-auf-behoerden-und-firmen](https://www.spiegel.de/netzwelt/microsoft-software-hacker-nutzen-sicherheitsluecke-zum-angriff-auf-behoerden-und-firmen-a-a57ab385-861f-4c4b-8be3-5df4b834a0d0#ref=rss)
+### unternehmen
 
-* [https://www.spiegel.de/kultur/tv/deleila-piasko-spuert-eine-wachsende-sehnsucht-nach-dem-judentum](https://www.spiegel.de/kultur/tv/deleila-piasko-spuert-eine-wachsende-sehnsucht-nach-dem-judentum-a-f64c9255-10c4-4d8f-975f-a400798777ee#ref=rss)
-### piasko
+* [https://www.spiegel.de/netzwelt/microsoft-software-hacker-nutzen-sicherheitsluecke-zum-angriff-auf-behoerden-und-firmen](https://www.spiegel.de/netzwelt/microsoft-software-hacker-nutzen-sicherheitsluecke-zum-angriff-auf-behoerden-und-firmen-a-a57ab385-861f-4c4b-8be3-5df4b834a0d0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/alaska-airlines-stellt-voruebergehend-alle-fluege-ein](https://www.spiegel.de/wirtschaft/alaska-airlines-stellt-voruebergehend-alle-fluege-ein-a-3ed85e24-2054-414d-ba27-32be156ca2ad#ref=rss)
+### papst
 
-* [https://www.spiegel.de/kultur/tv/deleila-piasko-spuert-eine-wachsende-sehnsucht-nach-dem-judentum](https://www.spiegel.de/kultur/tv/deleila-piasko-spuert-eine-wachsende-sehnsucht-nach-dem-judentum-a-f64c9255-10c4-4d8f-975f-a400798777ee#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-krieg-papst-leo-xiv-verurteilt-beschuss-auf-katholische-kirche](https://www.spiegel.de/ausland/gaza-krieg-papst-leo-xiv-verurteilt-beschuss-auf-katholische-kirche-a-9aba1b00-ac8c-42c3-a360-980f96769728#ref=rss)
+### leo
+
+* [https://www.spiegel.de/ausland/gaza-krieg-papst-leo-xiv-verurteilt-beschuss-auf-katholische-kirche](https://www.spiegel.de/ausland/gaza-krieg-papst-leo-xiv-verurteilt-beschuss-auf-katholische-kirche-a-9aba1b00-ac8c-42c3-a360-980f96769728#ref=rss)
+### xiv
+
+* [https://www.spiegel.de/ausland/gaza-krieg-papst-leo-xiv-verurteilt-beschuss-auf-katholische-kirche](https://www.spiegel.de/ausland/gaza-krieg-papst-leo-xiv-verurteilt-beschuss-auf-katholische-kirche-a-9aba1b00-ac8c-42c3-a360-980f96769728#ref=rss)
+### beschuss
+
+* [https://www.spiegel.de/ausland/gaza-krieg-papst-leo-xiv-verurteilt-beschuss-auf-katholische-kirche](https://www.spiegel.de/ausland/gaza-krieg-papst-leo-xiv-verurteilt-beschuss-auf-katholische-kirche-a-9aba1b00-ac8c-42c3-a360-980f96769728#ref=rss)
+### kirche
+
+* [https://www.spiegel.de/ausland/gaza-krieg-papst-leo-xiv-verurteilt-beschuss-auf-katholische-kirche](https://www.spiegel.de/ausland/gaza-krieg-papst-leo-xiv-verurteilt-beschuss-auf-katholische-kirche-a-9aba1b00-ac8c-42c3-a360-980f96769728#ref=rss)
+### wo
+
+* [https://www.spiegel.de/auto/infrastruktur-milliarden-die-fragwuerdige-autobahn-offensive-von-schwarz-rot](https://www.spiegel.de/auto/infrastruktur-milliarden-die-fragwuerdige-autobahn-offensive-von-schwarz-rot-a-8da6f81d-ebb2-41f8-bca3-908d7dab6b44#ref=rss)
+### alaska
+
+* [https://www.spiegel.de/wirtschaft/alaska-airlines-stellt-voruebergehend-alle-fluege-ein](https://www.spiegel.de/wirtschaft/alaska-airlines-stellt-voruebergehend-alle-fluege-ein-a-3ed85e24-2054-414d-ba27-32be156ca2ad#ref=rss)
+### airlines
+
+* [https://www.spiegel.de/wirtschaft/alaska-airlines-stellt-voruebergehend-alle-fluege-ein](https://www.spiegel.de/wirtschaft/alaska-airlines-stellt-voruebergehend-alle-fluege-ein-a-3ed85e24-2054-414d-ba27-32be156ca2ad#ref=rss)
+### flüge
+
+* [https://www.spiegel.de/wirtschaft/alaska-airlines-stellt-voruebergehend-alle-fluege-ein](https://www.spiegel.de/wirtschaft/alaska-airlines-stellt-voruebergehend-alle-fluege-ein-a-3ed85e24-2054-414d-ba27-32be156ca2ad#ref=rss)
 
