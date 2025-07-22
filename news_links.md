@@ -4,377 +4,384 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
+### trump
+
+* [https://www.spiegel.de/ausland/epstein-skandal-stuerzt-trump-ueber-diese-affaere](https://www.spiegel.de/ausland/epstein-skandal-stuerzt-trump-ueber-diese-affaere-a-31ab0a1c-a4f9-408b-8c4c-2e4cd44fa6c4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/mohamed-el-erian-top-oekonom-fordert-ruecktritt-von-us-notenbankchef](https://www.spiegel.de/wirtschaft/mohamed-el-erian-top-oekonom-fordert-ruecktritt-von-us-notenbankchef-a-b0d8fa8d-760b-472f-bfd9-b378c27e3639#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-die-akte-epstein-gutachten-fuer-den-agrarminister-sicher-schwimmen-im-see](https://www.spiegel.de/politik/deutschland/news-des-tages-die-akte-epstein-gutachten-fuer-den-agrarminister-sicher-schwimmen-im-see-a-7f306cc9-4b4a-4827-afee-1b5398195d35#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/coca-cola-bringt-in-den-usa-cola-mit-rohrzucker-auf-den-markt](https://www.spiegel.de/wirtschaft/unternehmen/coca-cola-bringt-in-den-usa-cola-mit-rohrzucker-auf-den-markt-a-f4742605-53c0-4974-9787-bc103c4af389#ref=rss)
+* [https://www.spiegel.de/ausland/martin-luther-king-jr-us-regierung-veroeffentlicht-akten-zum-attentat-auf-buergerrechtsaktivist](https://www.spiegel.de/ausland/martin-luther-king-jr-us-regierung-veroeffentlicht-akten-zum-attentat-auf-buergerrechtsaktivist-a-37a4f01b-06c7-4cfc-a3ac-fb3d316093f3#ref=rss)
+### rené
+
+* [https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll](https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-a-ff231354-2d48-495c-a63b-d6f4ee209ac2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-podcast](https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-podcast-a-0c7e2545-8f30-4de8-b574-0bfa9dcab71e#ref=rss)
+### benko
+
+* [https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll](https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-a-ff231354-2d48-495c-a63b-d6f4ee209ac2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-podcast](https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-podcast-a-0c7e2545-8f30-4de8-b574-0bfa9dcab71e#ref=rss)
+### donald
+
+* [https://www.spiegel.de/wissenschaft/mauna-loa-observatory-donald-trumps-plaene-bedrohen-das-symbol-der-globalen-klimaforschung](https://www.spiegel.de/wissenschaft/mauna-loa-observatory-donald-trumps-plaene-bedrohen-das-symbol-der-globalen-klimaforschung-a-406ed69d-960d-493c-b869-0933e7a79bba#ref=rss)
+* [https://www.spiegel.de/ausland/epstein-skandal-stuerzt-trump-ueber-diese-affaere](https://www.spiegel.de/ausland/epstein-skandal-stuerzt-trump-ueber-diese-affaere-a-31ab0a1c-a4f9-408b-8c4c-2e4cd44fa6c4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/coca-cola-bringt-in-den-usa-cola-mit-rohrzucker-auf-den-markt](https://www.spiegel.de/wirtschaft/unternehmen/coca-cola-bringt-in-den-usa-cola-mit-rohrzucker-auf-den-markt-a-f4742605-53c0-4974-9787-bc103c4af389#ref=rss)
+* [https://www.spiegel.de/ausland/martin-luther-king-jr-us-regierung-veroeffentlicht-akten-zum-attentat-auf-buergerrechtsaktivist](https://www.spiegel.de/ausland/martin-luther-king-jr-us-regierung-veroeffentlicht-akten-zum-attentat-auf-buergerrechtsaktivist-a-37a4f01b-06c7-4cfc-a3ac-fb3d316093f3#ref=rss)
+### studie
+
+* [https://www.spiegel.de/wissenschaft/technik/chatbots-tendieren-laut-studie-zu-selbstueberschaetzung](https://www.spiegel.de/wissenschaft/technik/chatbots-tendieren-laut-studie-zu-selbstueberschaetzung-a-946d474d-a95f-441a-ab68-a7a1bba3000c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/hygiene-studie-zeigt-mangelnde-handhygiene-nach-toilettengang](https://www.spiegel.de/wissenschaft/mensch/hygiene-studie-zeigt-mangelnde-handhygiene-nach-toilettengang-a-47ccb280-6331-4309-9a5e-e583d4f72c92#ref=rss)
+### erklärt
+
+* [https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll](https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-a-ff231354-2d48-495c-a63b-d6f4ee209ac2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-podcast](https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-podcast-a-0c7e2545-8f30-4de8-b574-0bfa9dcab71e#ref=rss)
+* [https://www.spiegel.de/ausland/russland-erklaert-rosa-luxemburg-stiftung-zur-unerwuenschten-organisation](https://www.spiegel.de/ausland/russland-erklaert-rosa-luxemburg-stiftung-zur-unerwuenschten-organisation-a-fffd2b5a-c926-4bec-bb33-7a87dd59174a#ref=rss)
+### schwimmen
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-die-akte-epstein-gutachten-fuer-den-agrarminister-sicher-schwimmen-im-see](https://www.spiegel.de/politik/deutschland/news-des-tages-die-akte-epstein-gutachten-fuer-den-agrarminister-sicher-schwimmen-im-see-a-7f306cc9-4b4a-4827-afee-1b5398195d35#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/tipps-fuer-sicheres-schwimmen-in-see-fluessen-und-kanaelen](https://www.spiegel.de/wissenschaft/natur/tipps-fuer-sicheres-schwimmen-in-see-fluessen-und-kanaelen-a-ff9bed34-7f30-4f7b-8f05-8bb3c8fdf660#ref=rss)
+### fans
+
+* [https://www.spiegel.de/panorama/leute/ana-ivanovic-bestaetigt-trennung-von-bastian-schweinsteiger](https://www.spiegel.de/panorama/leute/ana-ivanovic-bestaetigt-trennung-von-bastian-schweinsteiger-a-8234d33b-b1ae-4f21-baff-ac8ab8c28c8b#ref=rss)
+* [https://www.spiegel.de/ausland/epstein-skandal-stuerzt-trump-ueber-diese-affaere](https://www.spiegel.de/ausland/epstein-skandal-stuerzt-trump-ueber-diese-affaere-a-31ab0a1c-a4f9-408b-8c4c-2e4cd44fa6c4#ref=rss)
+* [https://www.spiegel.de/sport/16-etappe-der-tour-de-france-fuehrt-auf-den-beruehmten-berg-mont-ventoux](https://www.spiegel.de/sport/16-etappe-der-tour-de-france-fuehrt-auf-den-beruehmten-berg-mont-ventoux-a-35f5ee1f-ef93-4984-ae7c-6b9714044e0f#ref=rss)
+### uspräsident
+
+* [https://www.spiegel.de/wissenschaft/mauna-loa-observatory-donald-trumps-plaene-bedrohen-das-symbol-der-globalen-klimaforschung](https://www.spiegel.de/wissenschaft/mauna-loa-observatory-donald-trumps-plaene-bedrohen-das-symbol-der-globalen-klimaforschung-a-406ed69d-960d-493c-b869-0933e7a79bba#ref=rss)
+* [https://www.spiegel.de/ausland/epstein-skandal-stuerzt-trump-ueber-diese-affaere](https://www.spiegel.de/ausland/epstein-skandal-stuerzt-trump-ueber-diese-affaere-a-31ab0a1c-a4f9-408b-8c4c-2e4cd44fa6c4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/mohamed-el-erian-top-oekonom-fordert-ruecktritt-von-us-notenbankchef](https://www.spiegel.de/wirtschaft/mohamed-el-erian-top-oekonom-fordert-ruecktritt-von-us-notenbankchef-a-b0d8fa8d-760b-472f-bfd9-b378c27e3639#ref=rss)
+### anders
+
+* [https://www.spiegel.de/ausland/epstein-skandal-stuerzt-trump-ueber-diese-affaere](https://www.spiegel.de/ausland/epstein-skandal-stuerzt-trump-ueber-diese-affaere-a-31ab0a1c-a4f9-408b-8c4c-2e4cd44fa6c4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll](https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-a-ff231354-2d48-495c-a63b-d6f4ee209ac2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-podcast](https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-podcast-a-0c7e2545-8f30-4de8-b574-0bfa9dcab71e#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/wirtschaft/eu-haushalt-hauptstaedte-bestimmen-zunehmend-bruesseler-finanzpolitik](https://www.spiegel.de/wirtschaft/eu-haushalt-hauptstaedte-bestimmen-zunehmend-bruesseler-finanzpolitik-a-6403c0c5-b2ca-474e-b021-7698ca181dd9#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/tipps-fuer-sicheres-schwimmen-in-see-fluessen-und-kanaelen](https://www.spiegel.de/wissenschaft/natur/tipps-fuer-sicheres-schwimmen-in-see-fluessen-und-kanaelen-a-ff9bed34-7f30-4f7b-8f05-8bb3c8fdf660#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/hygiene-studie-zeigt-mangelnde-handhygiene-nach-toilettengang](https://www.spiegel.de/wissenschaft/mensch/hygiene-studie-zeigt-mangelnde-handhygiene-nach-toilettengang-a-47ccb280-6331-4309-9a5e-e583d4f72c92#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/politik/deutschland/manuela-schwesig-entlaesst-zum-bsw-uebergelaufenen-justizstaatssekretaer-friedrich-straetmanns](https://www.spiegel.de/politik/deutschland/manuela-schwesig-entlaesst-zum-bsw-uebergelaufenen-justizstaatssekretaer-friedrich-straetmanns-a-765fb536-d92e-46e4-baa4-aa3ba45c28b4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll](https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-a-ff231354-2d48-495c-a63b-d6f4ee209ac2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-podcast](https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-podcast-a-0c7e2545-8f30-4de8-b574-0bfa9dcab71e#ref=rss)
+### sicher
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-die-akte-epstein-gutachten-fuer-den-agrarminister-sicher-schwimmen-im-see](https://www.spiegel.de/politik/deutschland/news-des-tages-die-akte-epstein-gutachten-fuer-den-agrarminister-sicher-schwimmen-im-see-a-7f306cc9-4b4a-4827-afee-1b5398195d35#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/tipps-fuer-sicheres-schwimmen-in-see-fluessen-und-kanaelen](https://www.spiegel.de/wissenschaft/natur/tipps-fuer-sicheres-schwimmen-in-see-fluessen-und-kanaelen-a-ff9bed34-7f30-4f7b-8f05-8bb3c8fdf660#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/sport/fussball/pilotprojekt-in-england-ein-stadionbesuch-soll-bei-depressionen-helfen](https://www.spiegel.de/sport/fussball/pilotprojekt-in-england-ein-stadionbesuch-soll-bei-depressionen-helfen-a-defc9df9-5a63-4e1b-93ad-bd3b1baf588c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/tipps-fuer-sicheres-schwimmen-in-see-fluessen-und-kanaelen](https://www.spiegel.de/wissenschaft/natur/tipps-fuer-sicheres-schwimmen-in-see-fluessen-und-kanaelen-a-ff9bed34-7f30-4f7b-8f05-8bb3c8fdf660#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/hygiene-studie-zeigt-mangelnde-handhygiene-nach-toilettengang](https://www.spiegel.de/wissenschaft/mensch/hygiene-studie-zeigt-mangelnde-handhygiene-nach-toilettengang-a-47ccb280-6331-4309-9a5e-e583d4f72c92#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/netzwelt/toolshell-chinesische-angreifer-laut-forschern-an-microsoft-attacken-beteiligt](https://www.spiegel.de/netzwelt/toolshell-chinesische-angreifer-laut-forschern-an-microsoft-attacken-beteiligt-a-e5ab140e-7338-41b8-ad99-06ffa7749867#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/sozialstaat-ifo-forscher-andreas-peichl-kritisiert-wildwuchs-bei-staatlichen-hilfen](https://www.spiegel.de/wirtschaft/soziales/sozialstaat-ifo-forscher-andreas-peichl-kritisiert-wildwuchs-bei-staatlichen-hilfen-a-7482d771-caac-41c5-9ee3-bfb51ed4bed4#ref=rss)
-* [https://www.spiegel.de/panorama/pakistan-mehr-als-200-tote-nach-ueberschwemmungen](https://www.spiegel.de/panorama/pakistan-mehr-als-200-tote-nach-ueberschwemmungen-a-419e18ec-b11a-4080-b29d-f8a6422e64b9#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2025-uefa-direktorin-nadine-kessler-transfermarkt-fuer-fussballerinnen-wird-explodieren](https://www.spiegel.de/sport/fussball/fussball-em-2025-uefa-direktorin-nadine-kessler-transfermarkt-fuer-fussballerinnen-wird-explodieren-a-654bdbda-7dff-4edf-b9b5-6908f587e0ad#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bund-und-laender-nehmen-im-ersten-halbjahr-deutlich-mehr-steuern-ein](https://www.spiegel.de/wirtschaft/bund-und-laender-nehmen-im-ersten-halbjahr-deutlich-mehr-steuern-ein-a-431919a2-65c8-4a5b-9505-6a2d57252958#ref=rss)
-### nordrheinwestfalen
+* [https://www.spiegel.de/panorama/leute/prinz-george-wird-zwoelf-jahre-alt-und-darf-nicht-mehr-mit-seinem-vater-ins-flugzeug-steigen](https://www.spiegel.de/panorama/leute/prinz-george-wird-zwoelf-jahre-alt-und-darf-nicht-mehr-mit-seinem-vater-ins-flugzeug-steigen-a-a33d67bf-8955-4b48-b21b-775559f7c716#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/grossbritannien-mehr-als-200-schueler-innerhalb-drei-wochen-von-der-schule-suspendiert](https://www.spiegel.de/panorama/bildung/grossbritannien-mehr-als-200-schueler-innerhalb-drei-wochen-von-der-schule-suspendiert-a-efe0b857-d1fd-4daa-aea5-223978a2fcf6#ref=rss)
+### minijobber
 
-* [https://www.spiegel.de/netzwelt/schockanrufe-falsche-polizisten-bei-gelduebergabe-festgenommen](https://www.spiegel.de/netzwelt/schockanrufe-falsche-polizisten-bei-gelduebergabe-festgenommen-a-69ff1b55-651e-427f-909b-4beb2e5df76d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/nahe-eitorf-in-nordrhein-westfalen-zwei-menschen-werden-von-s-bahn-erfasst-und-sterben](https://www.spiegel.de/panorama/justiz/nahe-eitorf-in-nordrhein-westfalen-zwei-menschen-werden-von-s-bahn-erfasst-und-sterben-a-1f727adf-835c-4e1c-9987-67d28a794d13#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/ingo-thiel-mordermittler-im-fall-mirco-ist-tot](https://www.spiegel.de/panorama/justiz/ingo-thiel-mordermittler-im-fall-mirco-ist-tot-a-adb1b5a8-31be-4d7a-9e52-2990886b7cd6#ref=rss)
+* [https://www.spiegel.de/karriere/fristlose-kuendigung-minijobber-erstreitet-100-000-euro-schadensersatz-nach-betriebsratsgruendung](https://www.spiegel.de/karriere/fristlose-kuendigung-minijobber-erstreitet-100-000-euro-schadensersatz-nach-betriebsratsgruendung-a-bdfecb91-9cf8-4af6-9c15-36696f3e44f6#ref=rss)
+### erzbistum
+
+* [https://www.spiegel.de/panorama/gesellschaft/erzbistum-koeln-immer-konflikt-mit-kardinal-woelki](https://www.spiegel.de/panorama/gesellschaft/erzbistum-koeln-immer-konflikt-mit-kardinal-woelki-a-047cae07-1926-453a-9453-0e50ea35d968#ref=rss)
 ### laut
 
-* [https://www.spiegel.de/netzwelt/toolshell-chinesische-angreifer-laut-forschern-an-microsoft-attacken-beteiligt](https://www.spiegel.de/netzwelt/toolshell-chinesische-angreifer-laut-forschern-an-microsoft-attacken-beteiligt-a-e5ab140e-7338-41b8-ad99-06ffa7749867#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2025-uefa-direktorin-nadine-kessler-transfermarkt-fuer-fussballerinnen-wird-explodieren](https://www.spiegel.de/sport/fussball/fussball-em-2025-uefa-direktorin-nadine-kessler-transfermarkt-fuer-fussballerinnen-wird-explodieren-a-654bdbda-7dff-4edf-b9b5-6908f587e0ad#ref=rss)
-* [https://www.spiegel.de/wirtschaft/arbeitslosengeld-milliarden-einsparungen-laut-iw-studie-moeglich](https://www.spiegel.de/wirtschaft/arbeitslosengeld-milliarden-einsparungen-laut-iw-studie-moeglich-a-fb2b1523-4cd4-48b1-b8b0-f3d78e9518d7#ref=rss)
-### deutschland
+* [https://www.spiegel.de/panorama/gesellschaft/erzbistum-koeln-immer-konflikt-mit-kardinal-woelki](https://www.spiegel.de/panorama/gesellschaft/erzbistum-koeln-immer-konflikt-mit-kardinal-woelki-a-047cae07-1926-453a-9453-0e50ea35d968#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/chatbots-tendieren-laut-studie-zu-selbstueberschaetzung](https://www.spiegel.de/wissenschaft/technik/chatbots-tendieren-laut-studie-zu-selbstueberschaetzung-a-946d474d-a95f-441a-ab68-a7a1bba3000c#ref=rss)
+### möchte
 
-* [https://www.spiegel.de/netzwelt/toolshell-chinesische-angreifer-laut-forschern-an-microsoft-attacken-beteiligt](https://www.spiegel.de/netzwelt/toolshell-chinesische-angreifer-laut-forschern-an-microsoft-attacken-beteiligt-a-e5ab140e-7338-41b8-ad99-06ffa7749867#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/durchschnittsmensch-in-deutschland-wie-durchschnittlich-sind-sie-alter-gewicht-gehalt](https://www.spiegel.de/panorama/gesellschaft/durchschnittsmensch-in-deutschland-wie-durchschnittlich-sind-sie-alter-gewicht-gehalt-a-08f77977-d507-487e-bb85-7e7f4d7aaa8c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wohnung-in-mieten-in-merlin-hamburg-muenchen-koeln-frankfurt-mietwohnungsmarkt-bleibt-extrem-angespannt](https://www.spiegel.de/wirtschaft/wohnung-in-mieten-in-merlin-hamburg-muenchen-koeln-frankfurt-mietwohnungsmarkt-bleibt-extrem-angespannt-a-832fe548-3986-46c4-b7b2-d4ee0df49a42#ref=rss)
-### 40
+* [https://www.spiegel.de/panorama/gesellschaft/erzbistum-koeln-immer-konflikt-mit-kardinal-woelki](https://www.spiegel.de/panorama/gesellschaft/erzbistum-koeln-immer-konflikt-mit-kardinal-woelki-a-047cae07-1926-453a-9453-0e50ea35d968#ref=rss)
+* [https://www.spiegel.de/wirtschaft/mohamed-el-erian-top-oekonom-fordert-ruecktritt-von-us-notenbankchef](https://www.spiegel.de/wirtschaft/mohamed-el-erian-top-oekonom-fordert-ruecktritt-von-us-notenbankchef-a-b0d8fa8d-760b-472f-bfd9-b378c27e3639#ref=rss)
+### ana
 
-* [https://www.spiegel.de/panorama/griechenland-behoerden-ergreifen-schutzmassnahmen-gegen-hitzewelle](https://www.spiegel.de/panorama/griechenland-behoerden-ergreifen-schutzmassnahmen-gegen-hitzewelle-a-6dfaaa1b-2eee-4689-a2e1-916db0c400a7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/rente-mit-40-ist-das-konzept-des-frugalismus-gescheitert](https://www.spiegel.de/wirtschaft/service/rente-mit-40-ist-das-konzept-des-frugalismus-gescheitert-a-da0a38a3-e214-4643-97b8-23b5a5531551#ref=rss)
-### arbeit
+* [https://www.spiegel.de/panorama/leute/ana-ivanovic-bestaetigt-trennung-von-bastian-schweinsteiger](https://www.spiegel.de/panorama/leute/ana-ivanovic-bestaetigt-trennung-von-bastian-schweinsteiger-a-8234d33b-b1ae-4f21-baff-ac8ab8c28c8b#ref=rss)
+### ivanović
 
-* [https://www.spiegel.de/panorama/griechenland-behoerden-ergreifen-schutzmassnahmen-gegen-hitzewelle](https://www.spiegel.de/panorama/griechenland-behoerden-ergreifen-schutzmassnahmen-gegen-hitzewelle-a-6dfaaa1b-2eee-4689-a2e1-916db0c400a7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/arbeitslosengeld-milliarden-einsparungen-laut-iw-studie-moeglich](https://www.spiegel.de/wirtschaft/arbeitslosengeld-milliarden-einsparungen-laut-iw-studie-moeglich-a-fb2b1523-4cd4-48b1-b8b0-f3d78e9518d7#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/sylt-st-peter-ording-nahe-wangerooge-gestrandete-wale-haeufen-sich-ist-das-noch-normal](https://www.spiegel.de/wissenschaft/natur/sylt-st-peter-ording-nahe-wangerooge-gestrandete-wale-haeufen-sich-ist-das-noch-normal-a-312a843c-aee1-4eff-b1dd-9fc80f14173d#ref=rss)
-### 2025
+* [https://www.spiegel.de/panorama/leute/ana-ivanovic-bestaetigt-trennung-von-bastian-schweinsteiger](https://www.spiegel.de/panorama/leute/ana-ivanovic-bestaetigt-trennung-von-bastian-schweinsteiger-a-8234d33b-b1ae-4f21-baff-ac8ab8c28c8b#ref=rss)
+### bastian
 
-* [https://www.spiegel.de/sport/fussball/fussball-em-2025-die-besondere-geschichte-von-giovanna-hoffmann](https://www.spiegel.de/sport/fussball/fussball-em-2025-die-besondere-geschichte-von-giovanna-hoffmann-a-973ec6da-cb99-4c67-ab20-bd2ef9a0cb2d#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2025-uefa-direktorin-nadine-kessler-transfermarkt-fuer-fussballerinnen-wird-explodieren](https://www.spiegel.de/sport/fussball/fussball-em-2025-uefa-direktorin-nadine-kessler-transfermarkt-fuer-fussballerinnen-wird-explodieren-a-654bdbda-7dff-4edf-b9b5-6908f587e0ad#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bund-und-laender-nehmen-im-ersten-halbjahr-deutlich-mehr-steuern-ein](https://www.spiegel.de/wirtschaft/bund-und-laender-nehmen-im-ersten-halbjahr-deutlich-mehr-steuern-ein-a-431919a2-65c8-4a5b-9505-6a2d57252958#ref=rss)
-### ohne
+* [https://www.spiegel.de/panorama/leute/ana-ivanovic-bestaetigt-trennung-von-bastian-schweinsteiger](https://www.spiegel.de/panorama/leute/ana-ivanovic-bestaetigt-trennung-von-bastian-schweinsteiger-a-8234d33b-b1ae-4f21-baff-ac8ab8c28c8b#ref=rss)
+### schweinsteiger
 
-* [https://www.spiegel.de/sport/fussball/fussball-em-2025-die-besondere-geschichte-von-giovanna-hoffmann](https://www.spiegel.de/sport/fussball/fussball-em-2025-die-besondere-geschichte-von-giovanna-hoffmann-a-973ec6da-cb99-4c67-ab20-bd2ef9a0cb2d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wohnung-in-mieten-in-merlin-hamburg-muenchen-koeln-frankfurt-mietwohnungsmarkt-bleibt-extrem-angespannt](https://www.spiegel.de/wirtschaft/wohnung-in-mieten-in-merlin-hamburg-muenchen-koeln-frankfurt-mietwohnungsmarkt-bleibt-extrem-angespannt-a-832fe548-3986-46c4-b7b2-d4ee0df49a42#ref=rss)
-### kinder
+* [https://www.spiegel.de/panorama/leute/ana-ivanovic-bestaetigt-trennung-von-bastian-schweinsteiger](https://www.spiegel.de/panorama/leute/ana-ivanovic-bestaetigt-trennung-von-bastian-schweinsteiger-a-8234d33b-b1ae-4f21-baff-ac8ab8c28c8b#ref=rss)
+### epsteinskandal
 
-* [https://www.spiegel.de/panorama/pakistan-mehr-als-200-tote-nach-ueberschwemmungen](https://www.spiegel.de/panorama/pakistan-mehr-als-200-tote-nach-ueberschwemmungen-a-419e18ec-b11a-4080-b29d-f8a6422e64b9#ref=rss)
-* [https://www.spiegel.de/familie/sinkende-geburtenraten-mutterschaft-so-nicht](https://www.spiegel.de/familie/sinkende-geburtenraten-mutterschaft-so-nicht-a-1c4ace1c-fd55-452e-b294-7f44c40c79aa#ref=rss)
-### nahe
+* [https://www.spiegel.de/ausland/epstein-skandal-stuerzt-trump-ueber-diese-affaere](https://www.spiegel.de/ausland/epstein-skandal-stuerzt-trump-ueber-diese-affaere-a-31ab0a1c-a4f9-408b-8c4c-2e4cd44fa6c4#ref=rss)
+### afd
 
-* [https://www.spiegel.de/panorama/justiz/nahe-eitorf-in-nordrhein-westfalen-zwei-menschen-werden-von-s-bahn-erfasst-und-sterben](https://www.spiegel.de/panorama/justiz/nahe-eitorf-in-nordrhein-westfalen-zwei-menschen-werden-von-s-bahn-erfasst-und-sterben-a-1f727adf-835c-4e1c-9987-67d28a794d13#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/sylt-st-peter-ording-nahe-wangerooge-gestrandete-wale-haeufen-sich-ist-das-noch-normal](https://www.spiegel.de/wissenschaft/natur/sylt-st-peter-ording-nahe-wangerooge-gestrandete-wale-haeufen-sich-ist-das-noch-normal-a-312a843c-aee1-4eff-b1dd-9fc80f14173d#ref=rss)
-### euro
+* [https://www.spiegel.de/politik/deutschland/afd-bundesverwaltungsgericht-weist-afd-beschwerden-zurueck](https://www.spiegel.de/politik/deutschland/afd-bundesverwaltungsgericht-weist-afd-beschwerden-zurueck-a-58068c6c-5986-4713-becc-9c3de02dd499#ref=rss)
+### drei
 
-* [https://www.spiegel.de/sport/fussball/fussball-em-2025-uefa-direktorin-nadine-kessler-transfermarkt-fuer-fussballerinnen-wird-explodieren](https://www.spiegel.de/sport/fussball/fussball-em-2025-uefa-direktorin-nadine-kessler-transfermarkt-fuer-fussballerinnen-wird-explodieren-a-654bdbda-7dff-4edf-b9b5-6908f587e0ad#ref=rss)
-* [https://www.spiegel.de/wirtschaft/arbeitslosengeld-milliarden-einsparungen-laut-iw-studie-moeglich](https://www.spiegel.de/wirtschaft/arbeitslosengeld-milliarden-einsparungen-laut-iw-studie-moeglich-a-fb2b1523-4cd4-48b1-b8b0-f3d78e9518d7#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-transfer-news-hsv-holt-daniel-peretz-vom-fc-bayern-muenchen](https://www.spiegel.de/sport/fussball/fussball-transfer-news-hsv-holt-daniel-peretz-vom-fc-bayern-muenchen-a-9c698d64-99eb-4eec-953b-5fd34d2e75e8#ref=rss)
-### ersten
+* [https://www.spiegel.de/politik/deutschland/afd-bundesverwaltungsgericht-weist-afd-beschwerden-zurueck](https://www.spiegel.de/politik/deutschland/afd-bundesverwaltungsgericht-weist-afd-beschwerden-zurueck-a-58068c6c-5986-4713-becc-9c3de02dd499#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/grossbritannien-mehr-als-200-schueler-innerhalb-drei-wochen-von-der-schule-suspendiert](https://www.spiegel.de/panorama/bildung/grossbritannien-mehr-als-200-schueler-innerhalb-drei-wochen-von-der-schule-suspendiert-a-efe0b857-d1fd-4daa-aea5-223978a2fcf6#ref=rss)
+### julia
 
-* [https://www.spiegel.de/wirtschaft/bund-und-laender-nehmen-im-ersten-halbjahr-deutlich-mehr-steuern-ein](https://www.spiegel.de/wirtschaft/bund-und-laender-nehmen-im-ersten-halbjahr-deutlich-mehr-steuern-ein-a-431919a2-65c8-4a5b-9505-6a2d57252958#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/rente-mit-40-ist-das-konzept-des-frugalismus-gescheitert](https://www.spiegel.de/wirtschaft/service/rente-mit-40-ist-das-konzept-des-frugalismus-gescheitert-a-da0a38a3-e214-4643-97b8-23b5a5531551#ref=rss)
-### china
+* [https://www.spiegel.de/politik/deutschland/julia-kloeckner-bundestagspraesidentin-verteidigt-strengen-kurs](https://www.spiegel.de/politik/deutschland/julia-kloeckner-bundestagspraesidentin-verteidigt-strengen-kurs-a-355b4d4a-00ce-4eb8-adc0-f5d5e68fff81#ref=rss)
+### klöckner
 
-* [https://www.spiegel.de/wirtschaft/china-ueberproduktion-erstmals-von-peking-eingeraeumt](https://www.spiegel.de/wirtschaft/china-ueberproduktion-erstmals-von-peking-eingeraeumt-a-af8441ad-d1e4-4b65-a988-2a2be3b7f501#ref=rss)
-* [https://www.spiegel.de/ausland/ekranoplan-tueftelt-china-an-einem-neuartigen-flugboot](https://www.spiegel.de/ausland/ekranoplan-tueftelt-china-an-einem-neuartigen-flugboot-a-f79d3f52-2364-4fb5-9116-b3cde6a39464#ref=rss)
-### polizei
+* [https://www.spiegel.de/politik/deutschland/julia-kloeckner-bundestagspraesidentin-verteidigt-strengen-kurs](https://www.spiegel.de/politik/deutschland/julia-kloeckner-bundestagspraesidentin-verteidigt-strengen-kurs-a-355b4d4a-00ce-4eb8-adc0-f5d5e68fff81#ref=rss)
+### bundestagspräsidentin
 
-* [https://www.spiegel.de/panorama/justiz/ingo-thiel-mordermittler-im-fall-mirco-ist-tot](https://www.spiegel.de/panorama/justiz/ingo-thiel-mordermittler-im-fall-mirco-ist-tot-a-adb1b5a8-31be-4d7a-9e52-2990886b7cd6#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/spanien-polizei-fasst-bei-razzia-mutmassliche-schmuggler-von-mehr-als-3000-archaeologischen-objekten](https://www.spiegel.de/panorama/justiz/spanien-polizei-fasst-bei-razzia-mutmassliche-schmuggler-von-mehr-als-3000-archaeologischen-objekten-a-5c63fa51-c1ab-4167-90ac-fd9d33198618#ref=rss)
-### 100
+* [https://www.spiegel.de/politik/deutschland/julia-kloeckner-bundestagspraesidentin-verteidigt-strengen-kurs](https://www.spiegel.de/politik/deutschland/julia-kloeckner-bundestagspraesidentin-verteidigt-strengen-kurs-a-355b4d4a-00ce-4eb8-adc0-f5d5e68fff81#ref=rss)
+### ochsenknecht
 
-* [https://www.spiegel.de/netzwelt/toolshell-chinesische-angreifer-laut-forschern-an-microsoft-attacken-beteiligt](https://www.spiegel.de/netzwelt/toolshell-chinesische-angreifer-laut-forschern-an-microsoft-attacken-beteiligt-a-e5ab140e-7338-41b8-ad99-06ffa7749867#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2025-uefa-direktorin-nadine-kessler-transfermarkt-fuer-fussballerinnen-wird-explodieren](https://www.spiegel.de/sport/fussball/fussball-em-2025-uefa-direktorin-nadine-kessler-transfermarkt-fuer-fussballerinnen-wird-explodieren-a-654bdbda-7dff-4edf-b9b5-6908f587e0ad#ref=rss)
-### griechenland
+* [https://www.spiegel.de/ausland/jimi-blue-ochsenknecht-fahrt-als-haeftling-von-hamburg-nach-innsbruck-sorgt-fuer-aufsehen](https://www.spiegel.de/ausland/jimi-blue-ochsenknecht-fahrt-als-haeftling-von-hamburg-nach-innsbruck-sorgt-fuer-aufsehen-a-152c797a-f7e4-4281-a82a-566a1df9b452#ref=rss)
+### fahrt
 
-* [https://www.spiegel.de/panorama/griechenland-behoerden-ergreifen-schutzmassnahmen-gegen-hitzewelle](https://www.spiegel.de/panorama/griechenland-behoerden-ergreifen-schutzmassnahmen-gegen-hitzewelle-a-6dfaaa1b-2eee-4689-a2e1-916db0c400a7#ref=rss)
-### behörden
+* [https://www.spiegel.de/ausland/jimi-blue-ochsenknecht-fahrt-als-haeftling-von-hamburg-nach-innsbruck-sorgt-fuer-aufsehen](https://www.spiegel.de/ausland/jimi-blue-ochsenknecht-fahrt-als-haeftling-von-hamburg-nach-innsbruck-sorgt-fuer-aufsehen-a-152c797a-f7e4-4281-a82a-566a1df9b452#ref=rss)
+### häftling
 
-* [https://www.spiegel.de/panorama/griechenland-behoerden-ergreifen-schutzmassnahmen-gegen-hitzewelle](https://www.spiegel.de/panorama/griechenland-behoerden-ergreifen-schutzmassnahmen-gegen-hitzewelle-a-6dfaaa1b-2eee-4689-a2e1-916db0c400a7#ref=rss)
-### grad
+* [https://www.spiegel.de/ausland/jimi-blue-ochsenknecht-fahrt-als-haeftling-von-hamburg-nach-innsbruck-sorgt-fuer-aufsehen](https://www.spiegel.de/ausland/jimi-blue-ochsenknecht-fahrt-als-haeftling-von-hamburg-nach-innsbruck-sorgt-fuer-aufsehen-a-152c797a-f7e4-4281-a82a-566a1df9b452#ref=rss)
+### hamburg
 
-* [https://www.spiegel.de/panorama/griechenland-behoerden-ergreifen-schutzmassnahmen-gegen-hitzewelle](https://www.spiegel.de/panorama/griechenland-behoerden-ergreifen-schutzmassnahmen-gegen-hitzewelle-a-6dfaaa1b-2eee-4689-a2e1-916db0c400a7#ref=rss)
-### unter
+* [https://www.spiegel.de/ausland/jimi-blue-ochsenknecht-fahrt-als-haeftling-von-hamburg-nach-innsbruck-sorgt-fuer-aufsehen](https://www.spiegel.de/ausland/jimi-blue-ochsenknecht-fahrt-als-haeftling-von-hamburg-nach-innsbruck-sorgt-fuer-aufsehen-a-152c797a-f7e4-4281-a82a-566a1df9b452#ref=rss)
+### innsbruck
 
-* [https://www.spiegel.de/panorama/griechenland-behoerden-ergreifen-schutzmassnahmen-gegen-hitzewelle](https://www.spiegel.de/panorama/griechenland-behoerden-ergreifen-schutzmassnahmen-gegen-hitzewelle-a-6dfaaa1b-2eee-4689-a2e1-916db0c400a7#ref=rss)
-* [https://www.spiegel.de/sport/schwimm-wm-in-singapur-josha-salchow-kritisiert-teilnahme-von-athleten-aus-russland](https://www.spiegel.de/sport/schwimm-wm-in-singapur-josha-salchow-kritisiert-teilnahme-von-athleten-aus-russland-a-a711bfd6-55be-49f6-ab99-af026c6be6b2#ref=rss)
-### andreas
+* [https://www.spiegel.de/ausland/jimi-blue-ochsenknecht-fahrt-als-haeftling-von-hamburg-nach-innsbruck-sorgt-fuer-aufsehen](https://www.spiegel.de/ausland/jimi-blue-ochsenknecht-fahrt-als-haeftling-von-hamburg-nach-innsbruck-sorgt-fuer-aufsehen-a-152c797a-f7e4-4281-a82a-566a1df9b452#ref=rss)
+### sorgt
 
-* [https://www.spiegel.de/wirtschaft/soziales/sozialstaat-ifo-forscher-andreas-peichl-kritisiert-wildwuchs-bei-staatlichen-hilfen](https://www.spiegel.de/wirtschaft/soziales/sozialstaat-ifo-forscher-andreas-peichl-kritisiert-wildwuchs-bei-staatlichen-hilfen-a-7482d771-caac-41c5-9ee3-bfb51ed4bed4#ref=rss)
-### peichl
+* [https://www.spiegel.de/ausland/jimi-blue-ochsenknecht-fahrt-als-haeftling-von-hamburg-nach-innsbruck-sorgt-fuer-aufsehen](https://www.spiegel.de/ausland/jimi-blue-ochsenknecht-fahrt-als-haeftling-von-hamburg-nach-innsbruck-sorgt-fuer-aufsehen-a-152c797a-f7e4-4281-a82a-566a1df9b452#ref=rss)
+### aufsehen
 
-* [https://www.spiegel.de/wirtschaft/soziales/sozialstaat-ifo-forscher-andreas-peichl-kritisiert-wildwuchs-bei-staatlichen-hilfen](https://www.spiegel.de/wirtschaft/soziales/sozialstaat-ifo-forscher-andreas-peichl-kritisiert-wildwuchs-bei-staatlichen-hilfen-a-7482d771-caac-41c5-9ee3-bfb51ed4bed4#ref=rss)
-### kritisiert
+* [https://www.spiegel.de/ausland/jimi-blue-ochsenknecht-fahrt-als-haeftling-von-hamburg-nach-innsbruck-sorgt-fuer-aufsehen](https://www.spiegel.de/ausland/jimi-blue-ochsenknecht-fahrt-als-haeftling-von-hamburg-nach-innsbruck-sorgt-fuer-aufsehen-a-152c797a-f7e4-4281-a82a-566a1df9b452#ref=rss)
+### nächsten
 
-* [https://www.spiegel.de/wirtschaft/soziales/sozialstaat-ifo-forscher-andreas-peichl-kritisiert-wildwuchs-bei-staatlichen-hilfen](https://www.spiegel.de/wirtschaft/soziales/sozialstaat-ifo-forscher-andreas-peichl-kritisiert-wildwuchs-bei-staatlichen-hilfen-a-7482d771-caac-41c5-9ee3-bfb51ed4bed4#ref=rss)
-* [https://www.spiegel.de/sport/schwimm-wm-in-singapur-josha-salchow-kritisiert-teilnahme-von-athleten-aus-russland](https://www.spiegel.de/sport/schwimm-wm-in-singapur-josha-salchow-kritisiert-teilnahme-von-athleten-aus-russland-a-a711bfd6-55be-49f6-ab99-af026c6be6b2#ref=rss)
-### polizisten
+* [https://www.spiegel.de/ausland/jimi-blue-ochsenknecht-fahrt-als-haeftling-von-hamburg-nach-innsbruck-sorgt-fuer-aufsehen](https://www.spiegel.de/ausland/jimi-blue-ochsenknecht-fahrt-als-haeftling-von-hamburg-nach-innsbruck-sorgt-fuer-aufsehen-a-152c797a-f7e4-4281-a82a-566a1df9b452#ref=rss)
+* [https://www.spiegel.de/kultur/kino/fantastic-four-first-steps-babyschritte-bis-zum-naechsten-blockbuster-filmkritik](https://www.spiegel.de/kultur/kino/fantastic-four-first-steps-babyschritte-bis-zum-naechsten-blockbuster-filmkritik-a-e76ef9a3-46e7-46e9-ad5a-bb6f8752ffc1#ref=rss)
+### brüsseler
 
-* [https://www.spiegel.de/netzwelt/schockanrufe-falsche-polizisten-bei-gelduebergabe-festgenommen](https://www.spiegel.de/netzwelt/schockanrufe-falsche-polizisten-bei-gelduebergabe-festgenommen-a-69ff1b55-651e-427f-909b-4beb2e5df76d#ref=rss)
-* [https://www.spiegel.de/ausland/breonna-taylor-polizist-fuer-toedlichen-einsatz-zu-33-monaten-haft-verurteilt](https://www.spiegel.de/ausland/breonna-taylor-polizist-fuer-toedlichen-einsatz-zu-33-monaten-haft-verurteilt-a-31361031-ae02-4c4f-8cdf-33dec06d0640#ref=rss)
-### geldübergabe
+* [https://www.spiegel.de/wirtschaft/eu-haushalt-hauptstaedte-bestimmen-zunehmend-bruesseler-finanzpolitik](https://www.spiegel.de/wirtschaft/eu-haushalt-hauptstaedte-bestimmen-zunehmend-bruesseler-finanzpolitik-a-6403c0c5-b2ca-474e-b021-7698ca181dd9#ref=rss)
+### wiesenhof
 
-* [https://www.spiegel.de/netzwelt/schockanrufe-falsche-polizisten-bei-gelduebergabe-festgenommen](https://www.spiegel.de/netzwelt/schockanrufe-falsche-polizisten-bei-gelduebergabe-festgenommen-a-69ff1b55-651e-427f-909b-4beb2e5df76d#ref=rss)
-### festgenommen
+* [https://www.spiegel.de/wirtschaft/service/wiesenhof-vorsicht-bei-bruzzler-veggiewuersten-rueckruf-wegen-verunreinigung](https://www.spiegel.de/wirtschaft/service/wiesenhof-vorsicht-bei-bruzzler-veggiewuersten-rueckruf-wegen-verunreinigung-a-55a178ef-7e0a-4d96-887f-9844f7d3fb2b#ref=rss)
+### chatbots
 
-* [https://www.spiegel.de/netzwelt/schockanrufe-falsche-polizisten-bei-gelduebergabe-festgenommen](https://www.spiegel.de/netzwelt/schockanrufe-falsche-polizisten-bei-gelduebergabe-festgenommen-a-69ff1b55-651e-427f-909b-4beb2e5df76d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/spanien-polizei-fasst-bei-razzia-mutmassliche-schmuggler-von-mehr-als-3000-archaeologischen-objekten](https://www.spiegel.de/panorama/justiz/spanien-polizei-fasst-bei-razzia-mutmassliche-schmuggler-von-mehr-als-3000-archaeologischen-objekten-a-5c63fa51-c1ab-4167-90ac-fd9d33198618#ref=rss)
-### nahrung
+* [https://www.spiegel.de/wissenschaft/technik/chatbots-tendieren-laut-studie-zu-selbstueberschaetzung](https://www.spiegel.de/wissenschaft/technik/chatbots-tendieren-laut-studie-zu-selbstueberschaetzung-a-946d474d-a95f-441a-ab68-a7a1bba3000c#ref=rss)
+### google
 
-* [https://www.spiegel.de/ausland/gazastreifen-ueberlebenskampf-um-nahrung-im-kriegsgebiet](https://www.spiegel.de/ausland/gazastreifen-ueberlebenskampf-um-nahrung-im-kriegsgebiet-a-3de952fb-ec74-4ca5-a453-5607c86e856a#ref=rss)
-### lange
+* [https://www.spiegel.de/wissenschaft/technik/chatbots-tendieren-laut-studie-zu-selbstueberschaetzung](https://www.spiegel.de/wissenschaft/technik/chatbots-tendieren-laut-studie-zu-selbstueberschaetzung-a-946d474d-a95f-441a-ab68-a7a1bba3000c#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/ki-modelle-von-google-und-openai-meistern-mathewettbewerb-fuer-schueler](https://www.spiegel.de/netzwelt/apps/ki-modelle-von-google-und-openai-meistern-mathewettbewerb-fuer-schueler-a-1ce3de27-68ce-403e-ad32-054396800643#ref=rss)
+### fähigkeiten
 
-* [https://www.spiegel.de/ausland/gazastreifen-ueberlebenskampf-um-nahrung-im-kriegsgebiet](https://www.spiegel.de/ausland/gazastreifen-ueberlebenskampf-um-nahrung-im-kriegsgebiet-a-3de952fb-ec74-4ca5-a453-5607c86e856a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2025-die-besondere-geschichte-von-giovanna-hoffmann](https://www.spiegel.de/sport/fussball/fussball-em-2025-die-besondere-geschichte-von-giovanna-hoffmann-a-973ec6da-cb99-4c67-ab20-bd2ef9a0cb2d#ref=rss)
-### kampf
+* [https://www.spiegel.de/wissenschaft/technik/chatbots-tendieren-laut-studie-zu-selbstueberschaetzung](https://www.spiegel.de/wissenschaft/technik/chatbots-tendieren-laut-studie-zu-selbstueberschaetzung-a-946d474d-a95f-441a-ab68-a7a1bba3000c#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/ki-modelle-von-google-und-openai-meistern-mathewettbewerb-fuer-schueler](https://www.spiegel.de/netzwelt/apps/ki-modelle-von-google-und-openai-meistern-mathewettbewerb-fuer-schueler-a-1ce3de27-68ce-403e-ad32-054396800643#ref=rss)
+### mohamed
 
-* [https://www.spiegel.de/ausland/gazastreifen-ueberlebenskampf-um-nahrung-im-kriegsgebiet](https://www.spiegel.de/ausland/gazastreifen-ueberlebenskampf-um-nahrung-im-kriegsgebiet-a-3de952fb-ec74-4ca5-a453-5607c86e856a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-transfer-news-hsv-holt-daniel-peretz-vom-fc-bayern-muenchen](https://www.spiegel.de/sport/fussball/fussball-transfer-news-hsv-holt-daniel-peretz-vom-fc-bayern-muenchen-a-9c698d64-99eb-4eec-953b-5fd34d2e75e8#ref=rss)
-### fußballem
+* [https://www.spiegel.de/wirtschaft/mohamed-el-erian-top-oekonom-fordert-ruecktritt-von-us-notenbankchef](https://www.spiegel.de/wirtschaft/mohamed-el-erian-top-oekonom-fordert-ruecktritt-von-us-notenbankchef-a-b0d8fa8d-760b-472f-bfd9-b378c27e3639#ref=rss)
+### elerian
 
-* [https://www.spiegel.de/sport/fussball/fussball-em-2025-die-besondere-geschichte-von-giovanna-hoffmann](https://www.spiegel.de/sport/fussball/fussball-em-2025-die-besondere-geschichte-von-giovanna-hoffmann-a-973ec6da-cb99-4c67-ab20-bd2ef9a0cb2d#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2025-uefa-direktorin-nadine-kessler-transfermarkt-fuer-fussballerinnen-wird-explodieren](https://www.spiegel.de/sport/fussball/fussball-em-2025-uefa-direktorin-nadine-kessler-transfermarkt-fuer-fussballerinnen-wird-explodieren-a-654bdbda-7dff-4edf-b9b5-6908f587e0ad#ref=rss)
-### giovanna
+* [https://www.spiegel.de/wirtschaft/mohamed-el-erian-top-oekonom-fordert-ruecktritt-von-us-notenbankchef](https://www.spiegel.de/wirtschaft/mohamed-el-erian-top-oekonom-fordert-ruecktritt-von-us-notenbankchef-a-b0d8fa8d-760b-472f-bfd9-b378c27e3639#ref=rss)
+### fordert
 
-* [https://www.spiegel.de/sport/fussball/fussball-em-2025-die-besondere-geschichte-von-giovanna-hoffmann](https://www.spiegel.de/sport/fussball/fussball-em-2025-die-besondere-geschichte-von-giovanna-hoffmann-a-973ec6da-cb99-4c67-ab20-bd2ef9a0cb2d#ref=rss)
-### hoffmann
+* [https://www.spiegel.de/wirtschaft/mohamed-el-erian-top-oekonom-fordert-ruecktritt-von-us-notenbankchef](https://www.spiegel.de/wirtschaft/mohamed-el-erian-top-oekonom-fordert-ruecktritt-von-us-notenbankchef-a-b0d8fa8d-760b-472f-bfd9-b378c27e3639#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/israel-gaza-krieg-spd-fraktion-fordert-bundesregierung-zur-unterstuetzung-von-gaza-appell-auf](https://www.spiegel.de/politik/deutschland/israel-gaza-krieg-spd-fraktion-fordert-bundesregierung-zur-unterstuetzung-von-gaza-appell-auf-a-e5ce4060-8acc-4360-b848-9848a2ce8ef0#ref=rss)
+### gründe
 
-* [https://www.spiegel.de/sport/fussball/fussball-em-2025-die-besondere-geschichte-von-giovanna-hoffmann](https://www.spiegel.de/sport/fussball/fussball-em-2025-die-besondere-geschichte-von-giovanna-hoffmann-a-973ec6da-cb99-4c67-ab20-bd2ef9a0cb2d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/mohamed-el-erian-top-oekonom-fordert-ruecktritt-von-us-notenbankchef](https://www.spiegel.de/wirtschaft/mohamed-el-erian-top-oekonom-fordert-ruecktritt-von-us-notenbankchef-a-b0d8fa8d-760b-472f-bfd9-b378c27e3639#ref=rss)
+* [https://www.spiegel.de/panorama/leute/prinz-george-wird-zwoelf-jahre-alt-und-darf-nicht-mehr-mit-seinem-vater-ins-flugzeug-steigen](https://www.spiegel.de/panorama/leute/prinz-george-wird-zwoelf-jahre-alt-und-darf-nicht-mehr-mit-seinem-vater-ins-flugzeug-steigen-a-a33d67bf-8955-4b48-b21b-775559f7c716#ref=rss)
+### schwesig
+
+* [https://www.spiegel.de/politik/deutschland/manuela-schwesig-entlaesst-zum-bsw-uebergelaufenen-justizstaatssekretaer-friedrich-straetmanns](https://www.spiegel.de/politik/deutschland/manuela-schwesig-entlaesst-zum-bsw-uebergelaufenen-justizstaatssekretaer-friedrich-straetmanns-a-765fb536-d92e-46e4-baa4-aa3ba45c28b4#ref=rss)
+### justizstaatssekretär
+
+* [https://www.spiegel.de/politik/deutschland/manuela-schwesig-entlaesst-zum-bsw-uebergelaufenen-justizstaatssekretaer-friedrich-straetmanns](https://www.spiegel.de/politik/deutschland/manuela-schwesig-entlaesst-zum-bsw-uebergelaufenen-justizstaatssekretaer-friedrich-straetmanns-a-765fb536-d92e-46e4-baa4-aa3ba45c28b4#ref=rss)
 ### verletzt
 
-* [https://www.spiegel.de/sport/fussball/fussball-em-2025-die-besondere-geschichte-von-giovanna-hoffmann](https://www.spiegel.de/sport/fussball/fussball-em-2025-die-besondere-geschichte-von-giovanna-hoffmann-a-973ec6da-cb99-4c67-ab20-bd2ef9a0cb2d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/nahe-eitorf-in-nordrhein-westfalen-zwei-menschen-werden-von-s-bahn-erfasst-und-sterben](https://www.spiegel.de/panorama/justiz/nahe-eitorf-in-nordrhein-westfalen-zwei-menschen-werden-von-s-bahn-erfasst-und-sterben-a-1f727adf-835c-4e1c-9987-67d28a794d13#ref=rss)
-### plant
+* [https://www.spiegel.de/politik/deutschland/manuela-schwesig-entlaesst-zum-bsw-uebergelaufenen-justizstaatssekretaer-friedrich-straetmanns](https://www.spiegel.de/politik/deutschland/manuela-schwesig-entlaesst-zum-bsw-uebergelaufenen-justizstaatssekretaer-friedrich-straetmanns-a-765fb536-d92e-46e4-baa4-aa3ba45c28b4#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/ludwigshafen-landgericht-frankenthal-verhaengt-13-jahre-gefaengnis-fuer-ueberfall-und-vergewaltigung-einer-seniorin](https://www.spiegel.de/panorama/justiz/ludwigshafen-landgericht-frankenthal-verhaengt-13-jahre-gefaengnis-fuer-ueberfall-und-vergewaltigung-einer-seniorin-a-70d18eff-33e9-4361-91c4-e3f38c267f98#ref=rss)
+### angeklagt
 
-* [https://www.spiegel.de/wissenschaft/weltall/raumfahrt-suedkorea-plant-mondbasis-bis-2045-fuer-weitere-all-missionen](https://www.spiegel.de/wissenschaft/weltall/raumfahrt-suedkorea-plant-mondbasis-bis-2045-fuer-weitere-all-missionen-a-91ffdd6c-dca6-441e-88ac-ff326cc0e003#ref=rss)
-* [https://www.spiegel.de/wirtschaft/handgepaeck-ryanair-chef-plant-hoehere-praemien-fuer-strenge-gepaeckkontrollen](https://www.spiegel.de/wirtschaft/handgepaeck-ryanair-chef-plant-hoehere-praemien-fuer-strenge-gepaeckkontrollen-a-f7e001e4-d15c-4863-b830-e6b2fdf26dab#ref=rss)
-### jahren
+* [https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll](https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-a-ff231354-2d48-495c-a63b-d6f4ee209ac2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-podcast](https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-podcast-a-0c7e2545-8f30-4de8-b574-0bfa9dcab71e#ref=rss)
+### signagründer
 
-* [https://www.spiegel.de/wissenschaft/weltall/raumfahrt-suedkorea-plant-mondbasis-bis-2045-fuer-weitere-all-missionen](https://www.spiegel.de/wissenschaft/weltall/raumfahrt-suedkorea-plant-mondbasis-bis-2045-fuer-weitere-all-missionen-a-91ffdd6c-dca6-441e-88ac-ff326cc0e003#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wohnung-in-mieten-in-merlin-hamburg-muenchen-koeln-frankfurt-mietwohnungsmarkt-bleibt-extrem-angespannt](https://www.spiegel.de/wirtschaft/wohnung-in-mieten-in-merlin-hamburg-muenchen-koeln-frankfurt-mietwohnungsmarkt-bleibt-extrem-angespannt-a-832fe548-3986-46c4-b7b2-d4ee0df49a42#ref=rss)
-### pakistan
+* [https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll](https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-a-ff231354-2d48-495c-a63b-d6f4ee209ac2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-podcast](https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-podcast-a-0c7e2545-8f30-4de8-b574-0bfa9dcab71e#ref=rss)
+### insolvenz
 
-* [https://www.spiegel.de/panorama/pakistan-mehr-als-200-tote-nach-ueberschwemmungen](https://www.spiegel.de/panorama/pakistan-mehr-als-200-tote-nach-ueberschwemmungen-a-419e18ec-b11a-4080-b29d-f8a6422e64b9#ref=rss)
-### tote
+* [https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll](https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-a-ff231354-2d48-495c-a63b-d6f4ee209ac2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-podcast](https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-podcast-a-0c7e2545-8f30-4de8-b574-0bfa9dcab71e#ref=rss)
+### getrickst
 
-* [https://www.spiegel.de/panorama/pakistan-mehr-als-200-tote-nach-ueberschwemmungen](https://www.spiegel.de/panorama/pakistan-mehr-als-200-tote-nach-ueberschwemmungen-a-419e18ec-b11a-4080-b29d-f8a6422e64b9#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/sylt-st-peter-ording-nahe-wangerooge-gestrandete-wale-haeufen-sich-ist-das-noch-normal](https://www.spiegel.de/wissenschaft/natur/sylt-st-peter-ording-nahe-wangerooge-gestrandete-wale-haeufen-sich-ist-das-noch-normal-a-312a843c-aee1-4eff-b1dd-9fc80f14173d#ref=rss)
-### zahl
+* [https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll](https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-a-ff231354-2d48-495c-a63b-d6f4ee209ac2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-podcast](https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-podcast-a-0c7e2545-8f30-4de8-b574-0bfa9dcab71e#ref=rss)
+### besitzt
 
-* [https://www.spiegel.de/panorama/pakistan-mehr-als-200-tote-nach-ueberschwemmungen](https://www.spiegel.de/panorama/pakistan-mehr-als-200-tote-nach-ueberschwemmungen-a-419e18ec-b11a-4080-b29d-f8a6422e64b9#ref=rss)
-* [https://www.spiegel.de/familie/sinkende-geburtenraten-mutterschaft-so-nicht](https://www.spiegel.de/familie/sinkende-geburtenraten-mutterschaft-so-nicht-a-1c4ace1c-fd55-452e-b294-7f44c40c79aa#ref=rss)
-### toten
+* [https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll](https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-a-ff231354-2d48-495c-a63b-d6f4ee209ac2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-podcast](https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-podcast-a-0c7e2545-8f30-4de8-b574-0bfa9dcab71e#ref=rss)
+### fast
 
-* [https://www.spiegel.de/panorama/pakistan-mehr-als-200-tote-nach-ueberschwemmungen](https://www.spiegel.de/panorama/pakistan-mehr-als-200-tote-nach-ueberschwemmungen-a-419e18ec-b11a-4080-b29d-f8a6422e64b9#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-wie-der-krieg-in-der-drusenprovinz-suwaida-eskalierte](https://www.spiegel.de/ausland/syrien-wie-der-krieg-in-der-drusenprovinz-suwaida-eskalierte-a-05fd0e93-58b6-4e16-8be8-4226f5d7e2c9#ref=rss)
-### sehr
+* [https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll](https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-a-ff231354-2d48-495c-a63b-d6f4ee209ac2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-podcast](https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-podcast-a-0c7e2545-8f30-4de8-b574-0bfa9dcab71e#ref=rss)
+### nichts
 
-* [https://www.spiegel.de/panorama/pakistan-mehr-als-200-tote-nach-ueberschwemmungen](https://www.spiegel.de/panorama/pakistan-mehr-als-200-tote-nach-ueberschwemmungen-a-419e18ec-b11a-4080-b29d-f8a6422e64b9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wohnung-in-mieten-in-merlin-hamburg-muenchen-koeln-frankfurt-mietwohnungsmarkt-bleibt-extrem-angespannt](https://www.spiegel.de/wirtschaft/wohnung-in-mieten-in-merlin-hamburg-muenchen-koeln-frankfurt-mietwohnungsmarkt-bleibt-extrem-angespannt-a-832fe548-3986-46c4-b7b2-d4ee0df49a42#ref=rss)
-### viele
+* [https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll](https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-a-ff231354-2d48-495c-a63b-d6f4ee209ac2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-podcast](https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-podcast-a-0c7e2545-8f30-4de8-b574-0bfa9dcab71e#ref=rss)
+### sagt
 
-* [https://www.spiegel.de/panorama/pakistan-mehr-als-200-tote-nach-ueberschwemmungen](https://www.spiegel.de/panorama/pakistan-mehr-als-200-tote-nach-ueberschwemmungen-a-419e18ec-b11a-4080-b29d-f8a6422e64b9#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/sylt-st-peter-ording-nahe-wangerooge-gestrandete-wale-haeufen-sich-ist-das-noch-normal](https://www.spiegel.de/wissenschaft/natur/sylt-st-peter-ording-nahe-wangerooge-gestrandete-wale-haeufen-sich-ist-das-noch-normal-a-312a843c-aee1-4eff-b1dd-9fc80f14173d#ref=rss)
-### eitorf
+* [https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll](https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-a-ff231354-2d48-495c-a63b-d6f4ee209ac2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-podcast](https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-podcast-a-0c7e2545-8f30-4de8-b574-0bfa9dcab71e#ref=rss)
+### staatsanwaltschaft
 
-* [https://www.spiegel.de/panorama/justiz/nahe-eitorf-in-nordrhein-westfalen-zwei-menschen-werden-von-s-bahn-erfasst-und-sterben](https://www.spiegel.de/panorama/justiz/nahe-eitorf-in-nordrhein-westfalen-zwei-menschen-werden-von-s-bahn-erfasst-und-sterben-a-1f727adf-835c-4e1c-9987-67d28a794d13#ref=rss)
-### zwei
+* [https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll](https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-a-ff231354-2d48-495c-a63b-d6f4ee209ac2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-podcast](https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-podcast-a-0c7e2545-8f30-4de8-b574-0bfa9dcab71e#ref=rss)
+### spiegelredakteurin
 
-* [https://www.spiegel.de/panorama/justiz/nahe-eitorf-in-nordrhein-westfalen-zwei-menschen-werden-von-s-bahn-erfasst-und-sterben](https://www.spiegel.de/panorama/justiz/nahe-eitorf-in-nordrhein-westfalen-zwei-menschen-werden-von-s-bahn-erfasst-und-sterben-a-1f727adf-835c-4e1c-9987-67d28a794d13#ref=rss)
-* [https://www.spiegel.de/wirtschaft/arbeitslosengeld-milliarden-einsparungen-laut-iw-studie-moeglich](https://www.spiegel.de/wirtschaft/arbeitslosengeld-milliarden-einsparungen-laut-iw-studie-moeglich-a-fb2b1523-4cd4-48b1-b8b0-f3d78e9518d7#ref=rss)
-### sbahn
+* [https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll](https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-a-ff231354-2d48-495c-a63b-d6f4ee209ac2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-podcast](https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-podcast-a-0c7e2545-8f30-4de8-b574-0bfa9dcab71e#ref=rss)
+### kristina
 
-* [https://www.spiegel.de/panorama/justiz/nahe-eitorf-in-nordrhein-westfalen-zwei-menschen-werden-von-s-bahn-erfasst-und-sterben](https://www.spiegel.de/panorama/justiz/nahe-eitorf-in-nordrhein-westfalen-zwei-menschen-werden-von-s-bahn-erfasst-und-sterben-a-1f727adf-835c-4e1c-9987-67d28a794d13#ref=rss)
-### erfasst
+* [https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll](https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-a-ff231354-2d48-495c-a63b-d6f4ee209ac2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-podcast](https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-podcast-a-0c7e2545-8f30-4de8-b574-0bfa9dcab71e#ref=rss)
+### gnirke
 
-* [https://www.spiegel.de/panorama/justiz/nahe-eitorf-in-nordrhein-westfalen-zwei-menschen-werden-von-s-bahn-erfasst-und-sterben](https://www.spiegel.de/panorama/justiz/nahe-eitorf-in-nordrhein-westfalen-zwei-menschen-werden-von-s-bahn-erfasst-und-sterben-a-1f727adf-835c-4e1c-9987-67d28a794d13#ref=rss)
-### frau
+* [https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll](https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-a-ff231354-2d48-495c-a63b-d6f4ee209ac2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-podcast](https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-podcast-a-0c7e2545-8f30-4de8-b574-0bfa9dcab71e#ref=rss)
+### anklage
 
-* [https://www.spiegel.de/panorama/justiz/nahe-eitorf-in-nordrhein-westfalen-zwei-menschen-werden-von-s-bahn-erfasst-und-sterben](https://www.spiegel.de/panorama/justiz/nahe-eitorf-in-nordrhein-westfalen-zwei-menschen-werden-von-s-bahn-erfasst-und-sterben-a-1f727adf-835c-4e1c-9987-67d28a794d13#ref=rss)
-* [https://www.spiegel.de/familie/sinkende-geburtenraten-mutterschaft-so-nicht](https://www.spiegel.de/familie/sinkende-geburtenraten-mutterschaft-so-nicht-a-1c4ace1c-fd55-452e-b294-7f44c40c79aa#ref=rss)
-### uefadirektorin
+* [https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll](https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-a-ff231354-2d48-495c-a63b-d6f4ee209ac2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-podcast](https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-podcast-a-0c7e2545-8f30-4de8-b574-0bfa9dcab71e#ref=rss)
+### exmilliardär
 
-* [https://www.spiegel.de/sport/fussball/fussball-em-2025-uefa-direktorin-nadine-kessler-transfermarkt-fuer-fussballerinnen-wird-explodieren](https://www.spiegel.de/sport/fussball/fussball-em-2025-uefa-direktorin-nadine-kessler-transfermarkt-fuer-fussballerinnen-wird-explodieren-a-654bdbda-7dff-4edf-b9b5-6908f587e0ad#ref=rss)
-### nadine
+* [https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll](https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-a-ff231354-2d48-495c-a63b-d6f4ee209ac2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-podcast](https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-podcast-a-0c7e2545-8f30-4de8-b574-0bfa9dcab71e#ref=rss)
+### verhängnis
 
-* [https://www.spiegel.de/sport/fussball/fussball-em-2025-uefa-direktorin-nadine-kessler-transfermarkt-fuer-fussballerinnen-wird-explodieren](https://www.spiegel.de/sport/fussball/fussball-em-2025-uefa-direktorin-nadine-kessler-transfermarkt-fuer-fussballerinnen-wird-explodieren-a-654bdbda-7dff-4edf-b9b5-6908f587e0ad#ref=rss)
-### keßler
+* [https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll](https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-a-ff231354-2d48-495c-a63b-d6f4ee209ac2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-podcast](https://www.spiegel.de/wirtschaft/rene-benko-angeklagt-wie-der-signa-gruender-bei-seiner-insolvenz-getrickst-haben-soll-podcast-a-0c7e2545-8f30-4de8-b574-0bfa9dcab71e#ref=rss)
+### fantastic
 
-* [https://www.spiegel.de/sport/fussball/fussball-em-2025-uefa-direktorin-nadine-kessler-transfermarkt-fuer-fussballerinnen-wird-explodieren](https://www.spiegel.de/sport/fussball/fussball-em-2025-uefa-direktorin-nadine-kessler-transfermarkt-fuer-fussballerinnen-wird-explodieren-a-654bdbda-7dff-4edf-b9b5-6908f587e0ad#ref=rss)
-### fußballerinnen
+* [https://www.spiegel.de/kultur/kino/fantastic-four-first-steps-babyschritte-bis-zum-naechsten-blockbuster-filmkritik](https://www.spiegel.de/kultur/kino/fantastic-four-first-steps-babyschritte-bis-zum-naechsten-blockbuster-filmkritik-a-e76ef9a3-46e7-46e9-ad5a-bb6f8752ffc1#ref=rss)
+### four
 
-* [https://www.spiegel.de/sport/fussball/fussball-em-2025-uefa-direktorin-nadine-kessler-transfermarkt-fuer-fussballerinnen-wird-explodieren](https://www.spiegel.de/sport/fussball/fussball-em-2025-uefa-direktorin-nadine-kessler-transfermarkt-fuer-fussballerinnen-wird-explodieren-a-654bdbda-7dff-4edf-b9b5-6908f587e0ad#ref=rss)
-### millionen
+* [https://www.spiegel.de/kultur/kino/fantastic-four-first-steps-babyschritte-bis-zum-naechsten-blockbuster-filmkritik](https://www.spiegel.de/kultur/kino/fantastic-four-first-steps-babyschritte-bis-zum-naechsten-blockbuster-filmkritik-a-e76ef9a3-46e7-46e9-ad5a-bb6f8752ffc1#ref=rss)
+### first
 
-* [https://www.spiegel.de/sport/fussball/fussball-em-2025-uefa-direktorin-nadine-kessler-transfermarkt-fuer-fussballerinnen-wird-explodieren](https://www.spiegel.de/sport/fussball/fussball-em-2025-uefa-direktorin-nadine-kessler-transfermarkt-fuer-fussballerinnen-wird-explodieren-a-654bdbda-7dff-4edf-b9b5-6908f587e0ad#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-transfer-news-hsv-holt-daniel-peretz-vom-fc-bayern-muenchen](https://www.spiegel.de/sport/fussball/fussball-transfer-news-hsv-holt-daniel-peretz-vom-fc-bayern-muenchen-a-9c698d64-99eb-4eec-953b-5fd34d2e75e8#ref=rss)
-### entwicklung
+* [https://www.spiegel.de/kultur/kino/fantastic-four-first-steps-babyschritte-bis-zum-naechsten-blockbuster-filmkritik](https://www.spiegel.de/kultur/kino/fantastic-four-first-steps-babyschritte-bis-zum-naechsten-blockbuster-filmkritik-a-e76ef9a3-46e7-46e9-ad5a-bb6f8752ffc1#ref=rss)
+### steps
 
-* [https://www.spiegel.de/sport/fussball/fussball-em-2025-uefa-direktorin-nadine-kessler-transfermarkt-fuer-fussballerinnen-wird-explodieren](https://www.spiegel.de/sport/fussball/fussball-em-2025-uefa-direktorin-nadine-kessler-transfermarkt-fuer-fussballerinnen-wird-explodieren-a-654bdbda-7dff-4edf-b9b5-6908f587e0ad#ref=rss)
-* [https://www.spiegel.de/sport/schwimm-wm-in-singapur-josha-salchow-kritisiert-teilnahme-von-athleten-aus-russland](https://www.spiegel.de/sport/schwimm-wm-in-singapur-josha-salchow-kritisiert-teilnahme-von-athleten-aus-russland-a-a711bfd6-55be-49f6-ab99-af026c6be6b2#ref=rss)
-### billy
+* [https://www.spiegel.de/kultur/kino/fantastic-four-first-steps-babyschritte-bis-zum-naechsten-blockbuster-filmkritik](https://www.spiegel.de/kultur/kino/fantastic-four-first-steps-babyschritte-bis-zum-naechsten-blockbuster-filmkritik-a-e76ef9a3-46e7-46e9-ad5a-bb6f8752ffc1#ref=rss)
+### gutachten
 
-* [https://www.spiegel.de/kultur/musik/billy-joel-musiker-aeussert-sich-zu-abgesagten-konzerten-wegen-hirnerkrankung](https://www.spiegel.de/kultur/musik/billy-joel-musiker-aeussert-sich-zu-abgesagten-konzerten-wegen-hirnerkrankung-a-9536b0b4-236e-4978-a6a1-155df860daed#ref=rss)
-### joel
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-die-akte-epstein-gutachten-fuer-den-agrarminister-sicher-schwimmen-im-see](https://www.spiegel.de/politik/deutschland/news-des-tages-die-akte-epstein-gutachten-fuer-den-agrarminister-sicher-schwimmen-im-see-a-7f306cc9-4b4a-4827-afee-1b5398195d35#ref=rss)
+### agrarminister
 
-* [https://www.spiegel.de/kultur/musik/billy-joel-musiker-aeussert-sich-zu-abgesagten-konzerten-wegen-hirnerkrankung](https://www.spiegel.de/kultur/musik/billy-joel-musiker-aeussert-sich-zu-abgesagten-konzerten-wegen-hirnerkrankung-a-9536b0b4-236e-4978-a6a1-155df860daed#ref=rss)
-### musiker
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-die-akte-epstein-gutachten-fuer-den-agrarminister-sicher-schwimmen-im-see](https://www.spiegel.de/politik/deutschland/news-des-tages-die-akte-epstein-gutachten-fuer-den-agrarminister-sicher-schwimmen-im-see-a-7f306cc9-4b4a-4827-afee-1b5398195d35#ref=rss)
+### eigenen
 
-* [https://www.spiegel.de/kultur/musik/billy-joel-musiker-aeussert-sich-zu-abgesagten-konzerten-wegen-hirnerkrankung](https://www.spiegel.de/kultur/musik/billy-joel-musiker-aeussert-sich-zu-abgesagten-konzerten-wegen-hirnerkrankung-a-9536b0b4-236e-4978-a6a1-155df860daed#ref=rss)
-### hirnerkrankung
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-die-akte-epstein-gutachten-fuer-den-agrarminister-sicher-schwimmen-im-see](https://www.spiegel.de/politik/deutschland/news-des-tages-die-akte-epstein-gutachten-fuer-den-agrarminister-sicher-schwimmen-im-see-a-7f306cc9-4b4a-4827-afee-1b5398195d35#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/bosch-autozulieferer-plant-stellenabbau-in-reutlingen-bis-2029](https://www.spiegel.de/wirtschaft/unternehmen/bosch-autozulieferer-plant-stellenabbau-in-reutlingen-bis-2029-a-2f49cf44-29fc-4872-ab38-4f2d56fdf57b#ref=rss)
+### seen
 
-* [https://www.spiegel.de/kultur/musik/billy-joel-musiker-aeussert-sich-zu-abgesagten-konzerten-wegen-hirnerkrankung](https://www.spiegel.de/kultur/musik/billy-joel-musiker-aeussert-sich-zu-abgesagten-konzerten-wegen-hirnerkrankung-a-9536b0b4-236e-4978-a6a1-155df860daed#ref=rss)
-### bund
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-die-akte-epstein-gutachten-fuer-den-agrarminister-sicher-schwimmen-im-see](https://www.spiegel.de/politik/deutschland/news-des-tages-die-akte-epstein-gutachten-fuer-den-agrarminister-sicher-schwimmen-im-see-a-7f306cc9-4b4a-4827-afee-1b5398195d35#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/tipps-fuer-sicheres-schwimmen-in-see-fluessen-und-kanaelen](https://www.spiegel.de/wissenschaft/natur/tipps-fuer-sicheres-schwimmen-in-see-fluessen-und-kanaelen-a-ff9bed34-7f30-4f7b-8f05-8bb3c8fdf660#ref=rss)
+### flüssen
 
-* [https://www.spiegel.de/wirtschaft/bund-und-laender-nehmen-im-ersten-halbjahr-deutlich-mehr-steuern-ein](https://www.spiegel.de/wirtschaft/bund-und-laender-nehmen-im-ersten-halbjahr-deutlich-mehr-steuern-ein-a-431919a2-65c8-4a5b-9505-6a2d57252958#ref=rss)
-### halbjahr
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-die-akte-epstein-gutachten-fuer-den-agrarminister-sicher-schwimmen-im-see](https://www.spiegel.de/politik/deutschland/news-des-tages-die-akte-epstein-gutachten-fuer-den-agrarminister-sicher-schwimmen-im-see-a-7f306cc9-4b4a-4827-afee-1b5398195d35#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/tipps-fuer-sicheres-schwimmen-in-see-fluessen-und-kanaelen](https://www.spiegel.de/wissenschaft/natur/tipps-fuer-sicheres-schwimmen-in-see-fluessen-und-kanaelen-a-ff9bed34-7f30-4f7b-8f05-8bb3c8fdf660#ref=rss)
+### ludwigshafen
 
-* [https://www.spiegel.de/wirtschaft/bund-und-laender-nehmen-im-ersten-halbjahr-deutlich-mehr-steuern-ein](https://www.spiegel.de/wirtschaft/bund-und-laender-nehmen-im-ersten-halbjahr-deutlich-mehr-steuern-ein-a-431919a2-65c8-4a5b-9505-6a2d57252958#ref=rss)
-### bemüht
+* [https://www.spiegel.de/panorama/justiz/ludwigshafen-landgericht-frankenthal-verhaengt-13-jahre-gefaengnis-fuer-ueberfall-und-vergewaltigung-einer-seniorin](https://www.spiegel.de/panorama/justiz/ludwigshafen-landgericht-frankenthal-verhaengt-13-jahre-gefaengnis-fuer-ueberfall-und-vergewaltigung-einer-seniorin-a-70d18eff-33e9-4361-91c4-e3f38c267f98#ref=rss)
+### 13
 
-* [https://www.spiegel.de/wirtschaft/bund-und-laender-nehmen-im-ersten-halbjahr-deutlich-mehr-steuern-ein](https://www.spiegel.de/wirtschaft/bund-und-laender-nehmen-im-ersten-halbjahr-deutlich-mehr-steuern-ein-a-431919a2-65c8-4a5b-9505-6a2d57252958#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wohnung-in-mieten-in-merlin-hamburg-muenchen-koeln-frankfurt-mietwohnungsmarkt-bleibt-extrem-angespannt](https://www.spiegel.de/wirtschaft/wohnung-in-mieten-in-merlin-hamburg-muenchen-koeln-frankfurt-mietwohnungsmarkt-bleibt-extrem-angespannt-a-832fe548-3986-46c4-b7b2-d4ee0df49a42#ref=rss)
-### arbeitslosengeld
+* [https://www.spiegel.de/panorama/justiz/ludwigshafen-landgericht-frankenthal-verhaengt-13-jahre-gefaengnis-fuer-ueberfall-und-vergewaltigung-einer-seniorin](https://www.spiegel.de/panorama/justiz/ludwigshafen-landgericht-frankenthal-verhaengt-13-jahre-gefaengnis-fuer-ueberfall-und-vergewaltigung-einer-seniorin-a-70d18eff-33e9-4361-91c4-e3f38c267f98#ref=rss)
+### jahre
 
-* [https://www.spiegel.de/wirtschaft/arbeitslosengeld-milliarden-einsparungen-laut-iw-studie-moeglich](https://www.spiegel.de/wirtschaft/arbeitslosengeld-milliarden-einsparungen-laut-iw-studie-moeglich-a-fb2b1523-4cd4-48b1-b8b0-f3d78e9518d7#ref=rss)
-### alter
+* [https://www.spiegel.de/panorama/justiz/ludwigshafen-landgericht-frankenthal-verhaengt-13-jahre-gefaengnis-fuer-ueberfall-und-vergewaltigung-einer-seniorin](https://www.spiegel.de/panorama/justiz/ludwigshafen-landgericht-frankenthal-verhaengt-13-jahre-gefaengnis-fuer-ueberfall-und-vergewaltigung-einer-seniorin-a-70d18eff-33e9-4361-91c4-e3f38c267f98#ref=rss)
+* [https://www.spiegel.de/panorama/leute/prinz-george-wird-zwoelf-jahre-alt-und-darf-nicht-mehr-mit-seinem-vater-ins-flugzeug-steigen](https://www.spiegel.de/panorama/leute/prinz-george-wird-zwoelf-jahre-alt-und-darf-nicht-mehr-mit-seinem-vater-ins-flugzeug-steigen-a-a33d67bf-8955-4b48-b21b-775559f7c716#ref=rss)
+### gefängnis
 
-* [https://www.spiegel.de/wirtschaft/arbeitslosengeld-milliarden-einsparungen-laut-iw-studie-moeglich](https://www.spiegel.de/wirtschaft/arbeitslosengeld-milliarden-einsparungen-laut-iw-studie-moeglich-a-fb2b1523-4cd4-48b1-b8b0-f3d78e9518d7#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/durchschnittsmensch-in-deutschland-wie-durchschnittlich-sind-sie-alter-gewicht-gehalt](https://www.spiegel.de/panorama/gesellschaft/durchschnittsmensch-in-deutschland-wie-durchschnittlich-sind-sie-alter-gewicht-gehalt-a-08f77977-d507-487e-bb85-7e7f4d7aaa8c#ref=rss)
-### pro
-
-* [https://www.spiegel.de/wirtschaft/arbeitslosengeld-milliarden-einsparungen-laut-iw-studie-moeglich](https://www.spiegel.de/wirtschaft/arbeitslosengeld-milliarden-einsparungen-laut-iw-studie-moeglich-a-fb2b1523-4cd4-48b1-b8b0-f3d78e9518d7#ref=rss)
-* [https://www.spiegel.de/familie/sinkende-geburtenraten-mutterschaft-so-nicht](https://www.spiegel.de/familie/sinkende-geburtenraten-mutterschaft-so-nicht-a-1c4ace1c-fd55-452e-b294-7f44c40c79aa#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/wirtschaft/arbeitslosengeld-milliarden-einsparungen-laut-iw-studie-moeglich](https://www.spiegel.de/wirtschaft/arbeitslosengeld-milliarden-einsparungen-laut-iw-studie-moeglich-a-fb2b1523-4cd4-48b1-b8b0-f3d78e9518d7#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/sylt-st-peter-ording-nahe-wangerooge-gestrandete-wale-haeufen-sich-ist-das-noch-normal](https://www.spiegel.de/wissenschaft/natur/sylt-st-peter-ording-nahe-wangerooge-gestrandete-wale-haeufen-sich-ist-das-noch-normal-a-312a843c-aee1-4eff-b1dd-9fc80f14173d#ref=rss)
-### sparen
-
-* [https://www.spiegel.de/wirtschaft/arbeitslosengeld-milliarden-einsparungen-laut-iw-studie-moeglich](https://www.spiegel.de/wirtschaft/arbeitslosengeld-milliarden-einsparungen-laut-iw-studie-moeglich-a-fb2b1523-4cd4-48b1-b8b0-f3d78e9518d7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/rente-mit-40-ist-das-konzept-des-frugalismus-gescheitert](https://www.spiegel.de/wirtschaft/service/rente-mit-40-ist-das-konzept-des-frugalismus-gescheitert-a-da0a38a3-e214-4643-97b8-23b5a5531551#ref=rss)
-### coldplay
-
-* [https://www.spiegel.de/kultur/musik/coldplay-oasis-saenger-liam-gallagher-stichelt-nach-kiss-cam-desaster](https://www.spiegel.de/kultur/musik/coldplay-oasis-saenger-liam-gallagher-stichelt-nach-kiss-cam-desaster-a-52e79f43-e10a-4469-8970-79e9b3969fc5#ref=rss)
-### liam
-
-* [https://www.spiegel.de/kultur/musik/coldplay-oasis-saenger-liam-gallagher-stichelt-nach-kiss-cam-desaster](https://www.spiegel.de/kultur/musik/coldplay-oasis-saenger-liam-gallagher-stichelt-nach-kiss-cam-desaster-a-52e79f43-e10a-4469-8970-79e9b3969fc5#ref=rss)
-### gallagher
-
-* [https://www.spiegel.de/kultur/musik/coldplay-oasis-saenger-liam-gallagher-stichelt-nach-kiss-cam-desaster](https://www.spiegel.de/kultur/musik/coldplay-oasis-saenger-liam-gallagher-stichelt-nach-kiss-cam-desaster-a-52e79f43-e10a-4469-8970-79e9b3969fc5#ref=rss)
-### durchschnittlich
-
-* [https://www.spiegel.de/panorama/gesellschaft/durchschnittsmensch-in-deutschland-wie-durchschnittlich-sind-sie-alter-gewicht-gehalt](https://www.spiegel.de/panorama/gesellschaft/durchschnittsmensch-in-deutschland-wie-durchschnittlich-sind-sie-alter-gewicht-gehalt-a-08f77977-d507-487e-bb85-7e7f4d7aaa8c#ref=rss)
-### sylt
-
-* [https://www.spiegel.de/wissenschaft/natur/sylt-st-peter-ording-nahe-wangerooge-gestrandete-wale-haeufen-sich-ist-das-noch-normal](https://www.spiegel.de/wissenschaft/natur/sylt-st-peter-ording-nahe-wangerooge-gestrandete-wale-haeufen-sich-ist-das-noch-normal-a-312a843c-aee1-4eff-b1dd-9fc80f14173d#ref=rss)
-### peterording
-
-* [https://www.spiegel.de/wissenschaft/natur/sylt-st-peter-ording-nahe-wangerooge-gestrandete-wale-haeufen-sich-ist-das-noch-normal](https://www.spiegel.de/wissenschaft/natur/sylt-st-peter-ording-nahe-wangerooge-gestrandete-wale-haeufen-sich-ist-das-noch-normal-a-312a843c-aee1-4eff-b1dd-9fc80f14173d#ref=rss)
-### wangerooge
-
-* [https://www.spiegel.de/wissenschaft/natur/sylt-st-peter-ording-nahe-wangerooge-gestrandete-wale-haeufen-sich-ist-das-noch-normal](https://www.spiegel.de/wissenschaft/natur/sylt-st-peter-ording-nahe-wangerooge-gestrandete-wale-haeufen-sich-ist-das-noch-normal-a-312a843c-aee1-4eff-b1dd-9fc80f14173d#ref=rss)
-### wale
-
-* [https://www.spiegel.de/wissenschaft/natur/sylt-st-peter-ording-nahe-wangerooge-gestrandete-wale-haeufen-sich-ist-das-noch-normal](https://www.spiegel.de/wissenschaft/natur/sylt-st-peter-ording-nahe-wangerooge-gestrandete-wale-haeufen-sich-ist-das-noch-normal-a-312a843c-aee1-4eff-b1dd-9fc80f14173d#ref=rss)
-### jeder
-
-* [https://www.spiegel.de/wissenschaft/natur/sylt-st-peter-ording-nahe-wangerooge-gestrandete-wale-haeufen-sich-ist-das-noch-normal](https://www.spiegel.de/wissenschaft/natur/sylt-st-peter-ording-nahe-wangerooge-gestrandete-wale-haeufen-sich-ist-das-noch-normal-a-312a843c-aee1-4eff-b1dd-9fc80f14173d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/rente-mit-40-ist-das-konzept-des-frugalismus-gescheitert](https://www.spiegel.de/wirtschaft/service/rente-mit-40-ist-das-konzept-des-frugalismus-gescheitert-a-da0a38a3-e214-4643-97b8-23b5a5531551#ref=rss)
-### peking
-
-* [https://www.spiegel.de/wirtschaft/china-ueberproduktion-erstmals-von-peking-eingeraeumt](https://www.spiegel.de/wirtschaft/china-ueberproduktion-erstmals-von-peking-eingeraeumt-a-af8441ad-d1e4-4b65-a988-2a2be3b7f501#ref=rss)
-* [https://www.spiegel.de/ausland/ekranoplan-tueftelt-china-an-einem-neuartigen-flugboot](https://www.spiegel.de/ausland/ekranoplan-tueftelt-china-an-einem-neuartigen-flugboot-a-f79d3f52-2364-4fb5-9116-b3cde6a39464#ref=rss)
-### streit
-
-* [https://www.spiegel.de/wirtschaft/china-ueberproduktion-erstmals-von-peking-eingeraeumt](https://www.spiegel.de/wirtschaft/china-ueberproduktion-erstmals-von-peking-eingeraeumt-a-af8441ad-d1e4-4b65-a988-2a2be3b7f501#ref=rss)
-### sogenannten
-
-* [https://www.spiegel.de/ausland/ekranoplan-tueftelt-china-an-einem-neuartigen-flugboot](https://www.spiegel.de/ausland/ekranoplan-tueftelt-china-an-einem-neuartigen-flugboot-a-f79d3f52-2364-4fb5-9116-b3cde6a39464#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/rente-mit-40-ist-das-konzept-des-frugalismus-gescheitert](https://www.spiegel.de/wirtschaft/service/rente-mit-40-ist-das-konzept-des-frugalismus-gescheitert-a-da0a38a3-e214-4643-97b8-23b5a5531551#ref=rss)
-### rente
-
-* [https://www.spiegel.de/wirtschaft/service/rente-mit-40-ist-das-konzept-des-frugalismus-gescheitert](https://www.spiegel.de/wirtschaft/service/rente-mit-40-ist-das-konzept-des-frugalismus-gescheitert-a-da0a38a3-e214-4643-97b8-23b5a5531551#ref=rss)
-### ausdruck
-
-* [https://www.spiegel.de/familie/sinkende-geburtenraten-mutterschaft-so-nicht](https://www.spiegel.de/familie/sinkende-geburtenraten-mutterschaft-so-nicht-a-1c4ace1c-fd55-452e-b294-7f44c40c79aa#ref=rss)
-### selbstbestimmung
-
-* [https://www.spiegel.de/familie/sinkende-geburtenraten-mutterschaft-so-nicht](https://www.spiegel.de/familie/sinkende-geburtenraten-mutterschaft-so-nicht-a-1c4ace1c-fd55-452e-b294-7f44c40c79aa#ref=rss)
-### sollte
-
-* [https://www.spiegel.de/familie/sinkende-geburtenraten-mutterschaft-so-nicht](https://www.spiegel.de/familie/sinkende-geburtenraten-mutterschaft-so-nicht-a-1c4ace1c-fd55-452e-b294-7f44c40c79aa#ref=rss)
-* [https://www.spiegel.de/politik/flugbereitschaft-der-bundeswehr-regierungsmaschine-muss-ungeplant-in-leipzig-landen](https://www.spiegel.de/politik/flugbereitschaft-der-bundeswehr-regierungsmaschine-muss-ungeplant-in-leipzig-landen-a-ef5956a9-1152-4e99-98b5-9bce92daf3e1#ref=rss)
-### ingo
-
-* [https://www.spiegel.de/panorama/justiz/ingo-thiel-mordermittler-im-fall-mirco-ist-tot](https://www.spiegel.de/panorama/justiz/ingo-thiel-mordermittler-im-fall-mirco-ist-tot-a-adb1b5a8-31be-4d7a-9e52-2990886b7cd6#ref=rss)
-### thiel
-
-* [https://www.spiegel.de/panorama/justiz/ingo-thiel-mordermittler-im-fall-mirco-ist-tot](https://www.spiegel.de/panorama/justiz/ingo-thiel-mordermittler-im-fall-mirco-ist-tot-a-adb1b5a8-31be-4d7a-9e52-2990886b7cd6#ref=rss)
-### fall
-
-* [https://www.spiegel.de/panorama/justiz/ingo-thiel-mordermittler-im-fall-mirco-ist-tot](https://www.spiegel.de/panorama/justiz/ingo-thiel-mordermittler-im-fall-mirco-ist-tot-a-adb1b5a8-31be-4d7a-9e52-2990886b7cd6#ref=rss)
-### mirco
-
-* [https://www.spiegel.de/panorama/justiz/ingo-thiel-mordermittler-im-fall-mirco-ist-tot](https://www.spiegel.de/panorama/justiz/ingo-thiel-mordermittler-im-fall-mirco-ist-tot-a-adb1b5a8-31be-4d7a-9e52-2990886b7cd6#ref=rss)
-### polizist
-
-* [https://www.spiegel.de/panorama/justiz/ingo-thiel-mordermittler-im-fall-mirco-ist-tot](https://www.spiegel.de/panorama/justiz/ingo-thiel-mordermittler-im-fall-mirco-ist-tot-a-adb1b5a8-31be-4d7a-9e52-2990886b7cd6#ref=rss)
-* [https://www.spiegel.de/ausland/breonna-taylor-polizist-fuer-toedlichen-einsatz-zu-33-monaten-haft-verurteilt](https://www.spiegel.de/ausland/breonna-taylor-polizist-fuer-toedlichen-einsatz-zu-33-monaten-haft-verurteilt-a-31361031-ae02-4c4f-8cdf-33dec06d0640#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/politik/flugbereitschaft-der-bundeswehr-regierungsmaschine-muss-ungeplant-in-leipzig-landen](https://www.spiegel.de/politik/flugbereitschaft-der-bundeswehr-regierungsmaschine-muss-ungeplant-in-leipzig-landen-a-ef5956a9-1152-4e99-98b5-9bce92daf3e1#ref=rss)
-* [https://www.spiegel.de/sport/schwimm-wm-in-singapur-josha-salchow-kritisiert-teilnahme-von-athleten-aus-russland](https://www.spiegel.de/sport/schwimm-wm-in-singapur-josha-salchow-kritisiert-teilnahme-von-athleten-aus-russland-a-a711bfd6-55be-49f6-ab99-af026c6be6b2#ref=rss)
-### mutmaßliche
-
-* [https://www.spiegel.de/panorama/justiz/spanien-polizei-fasst-bei-razzia-mutmassliche-schmuggler-von-mehr-als-3000-archaeologischen-objekten](https://www.spiegel.de/panorama/justiz/spanien-polizei-fasst-bei-razzia-mutmassliche-schmuggler-von-mehr-als-3000-archaeologischen-objekten-a-5c63fa51-c1ab-4167-90ac-fd9d33198618#ref=rss)
-### schmuggler
-
-* [https://www.spiegel.de/panorama/justiz/spanien-polizei-fasst-bei-razzia-mutmassliche-schmuggler-von-mehr-als-3000-archaeologischen-objekten](https://www.spiegel.de/panorama/justiz/spanien-polizei-fasst-bei-razzia-mutmassliche-schmuggler-von-mehr-als-3000-archaeologischen-objekten-a-5c63fa51-c1ab-4167-90ac-fd9d33198618#ref=rss)
-### objekte
-
-* [https://www.spiegel.de/panorama/justiz/spanien-polizei-fasst-bei-razzia-mutmassliche-schmuggler-von-mehr-als-3000-archaeologischen-objekten](https://www.spiegel.de/panorama/justiz/spanien-polizei-fasst-bei-razzia-mutmassliche-schmuggler-von-mehr-als-3000-archaeologischen-objekten-a-5c63fa51-c1ab-4167-90ac-fd9d33198618#ref=rss)
-### breonna
-
-* [https://www.spiegel.de/ausland/breonna-taylor-polizist-fuer-toedlichen-einsatz-zu-33-monaten-haft-verurteilt](https://www.spiegel.de/ausland/breonna-taylor-polizist-fuer-toedlichen-einsatz-zu-33-monaten-haft-verurteilt-a-31361031-ae02-4c4f-8cdf-33dec06d0640#ref=rss)
-### taylor
-
-* [https://www.spiegel.de/ausland/breonna-taylor-polizist-fuer-toedlichen-einsatz-zu-33-monaten-haft-verurteilt](https://www.spiegel.de/ausland/breonna-taylor-polizist-fuer-toedlichen-einsatz-zu-33-monaten-haft-verurteilt-a-31361031-ae02-4c4f-8cdf-33dec06d0640#ref=rss)
-### haft
-
-* [https://www.spiegel.de/ausland/breonna-taylor-polizist-fuer-toedlichen-einsatz-zu-33-monaten-haft-verurteilt](https://www.spiegel.de/ausland/breonna-taylor-polizist-fuer-toedlichen-einsatz-zu-33-monaten-haft-verurteilt-a-31361031-ae02-4c4f-8cdf-33dec06d0640#ref=rss)
-* [https://www.spiegel.de/ausland/brasilien-oberstes-gericht-droht-jair-bolsonaro-mit-haft-wegen-onlinevideo](https://www.spiegel.de/ausland/brasilien-oberstes-gericht-droht-jair-bolsonaro-mit-haft-wegen-onlinevideo-a-edb79449-9fcc-4332-af2e-229ee24768b4#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/ludwigshafen-landgericht-frankenthal-verhaengt-13-jahre-gefaengnis-fuer-ueberfall-und-vergewaltigung-einer-seniorin](https://www.spiegel.de/panorama/justiz/ludwigshafen-landgericht-frankenthal-verhaengt-13-jahre-gefaengnis-fuer-ueberfall-und-vergewaltigung-einer-seniorin-a-70d18eff-33e9-4361-91c4-e3f38c267f98#ref=rss)
 ### verurteilt
 
-* [https://www.spiegel.de/ausland/breonna-taylor-polizist-fuer-toedlichen-einsatz-zu-33-monaten-haft-verurteilt](https://www.spiegel.de/ausland/breonna-taylor-polizist-fuer-toedlichen-einsatz-zu-33-monaten-haft-verurteilt-a-31361031-ae02-4c4f-8cdf-33dec06d0640#ref=rss)
-### josha
+* [https://www.spiegel.de/panorama/justiz/ludwigshafen-landgericht-frankenthal-verhaengt-13-jahre-gefaengnis-fuer-ueberfall-und-vergewaltigung-einer-seniorin](https://www.spiegel.de/panorama/justiz/ludwigshafen-landgericht-frankenthal-verhaengt-13-jahre-gefaengnis-fuer-ueberfall-und-vergewaltigung-einer-seniorin-a-70d18eff-33e9-4361-91c4-e3f38c267f98#ref=rss)
+* [https://www.spiegel.de/ausland/russland-erklaert-rosa-luxemburg-stiftung-zur-unerwuenschten-organisation](https://www.spiegel.de/ausland/russland-erklaert-rosa-luxemburg-stiftung-zur-unerwuenschten-organisation-a-fffd2b5a-c926-4bec-bb33-7a87dd59174a#ref=rss)
+### russland
 
-* [https://www.spiegel.de/sport/schwimm-wm-in-singapur-josha-salchow-kritisiert-teilnahme-von-athleten-aus-russland](https://www.spiegel.de/sport/schwimm-wm-in-singapur-josha-salchow-kritisiert-teilnahme-von-athleten-aus-russland-a-a711bfd6-55be-49f6-ab99-af026c6be6b2#ref=rss)
-### salchow
+* [https://www.spiegel.de/ausland/russland-erklaert-rosa-luxemburg-stiftung-zur-unerwuenschten-organisation](https://www.spiegel.de/ausland/russland-erklaert-rosa-luxemburg-stiftung-zur-unerwuenschten-organisation-a-fffd2b5a-c926-4bec-bb33-7a87dd59174a#ref=rss)
+### rosaluxemburgstiftung
 
-* [https://www.spiegel.de/sport/schwimm-wm-in-singapur-josha-salchow-kritisiert-teilnahme-von-athleten-aus-russland](https://www.spiegel.de/sport/schwimm-wm-in-singapur-josha-salchow-kritisiert-teilnahme-von-athleten-aus-russland-a-a711bfd6-55be-49f6-ab99-af026c6be6b2#ref=rss)
-### athleten
+* [https://www.spiegel.de/ausland/russland-erklaert-rosa-luxemburg-stiftung-zur-unerwuenschten-organisation](https://www.spiegel.de/ausland/russland-erklaert-rosa-luxemburg-stiftung-zur-unerwuenschten-organisation-a-fffd2b5a-c926-4bec-bb33-7a87dd59174a#ref=rss)
+### organisation
 
-* [https://www.spiegel.de/sport/schwimm-wm-in-singapur-josha-salchow-kritisiert-teilnahme-von-athleten-aus-russland](https://www.spiegel.de/sport/schwimm-wm-in-singapur-josha-salchow-kritisiert-teilnahme-von-athleten-aus-russland-a-a711bfd6-55be-49f6-ab99-af026c6be6b2#ref=rss)
-### wohnungsmarkt
+* [https://www.spiegel.de/ausland/russland-erklaert-rosa-luxemburg-stiftung-zur-unerwuenschten-organisation](https://www.spiegel.de/ausland/russland-erklaert-rosa-luxemburg-stiftung-zur-unerwuenschten-organisation-a-fffd2b5a-c926-4bec-bb33-7a87dd59174a#ref=rss)
+### depressionen
 
-* [https://www.spiegel.de/wirtschaft/wohnung-in-mieten-in-merlin-hamburg-muenchen-koeln-frankfurt-mietwohnungsmarkt-bleibt-extrem-angespannt](https://www.spiegel.de/wirtschaft/wohnung-in-mieten-in-merlin-hamburg-muenchen-koeln-frankfurt-mietwohnungsmarkt-bleibt-extrem-angespannt-a-832fe548-3986-46c4-b7b2-d4ee0df49a42#ref=rss)
-### schnell
+* [https://www.spiegel.de/sport/fussball/pilotprojekt-in-england-ein-stadionbesuch-soll-bei-depressionen-helfen](https://www.spiegel.de/sport/fussball/pilotprojekt-in-england-ein-stadionbesuch-soll-bei-depressionen-helfen-a-defc9df9-5a63-4e1b-93ad-bd3b1baf588c#ref=rss)
+### baden
 
-* [https://www.spiegel.de/wirtschaft/wohnung-in-mieten-in-merlin-hamburg-muenchen-koeln-frankfurt-mietwohnungsmarkt-bleibt-extrem-angespannt](https://www.spiegel.de/wirtschaft/wohnung-in-mieten-in-merlin-hamburg-muenchen-koeln-frankfurt-mietwohnungsmarkt-bleibt-extrem-angespannt-a-832fe548-3986-46c4-b7b2-d4ee0df49a42#ref=rss)
-### suwaida
+* [https://www.spiegel.de/wissenschaft/natur/tipps-fuer-sicheres-schwimmen-in-see-fluessen-und-kanaelen](https://www.spiegel.de/wissenschaft/natur/tipps-fuer-sicheres-schwimmen-in-see-fluessen-und-kanaelen-a-ff9bed34-7f30-4f7b-8f05-8bb3c8fdf660#ref=rss)
+### prinz
 
-* [https://www.spiegel.de/ausland/syrien-wie-der-krieg-in-der-drusenprovinz-suwaida-eskalierte](https://www.spiegel.de/ausland/syrien-wie-der-krieg-in-der-drusenprovinz-suwaida-eskalierte-a-05fd0e93-58b6-4e16-8be8-4226f5d7e2c9#ref=rss)
-### ryanairchef
+* [https://www.spiegel.de/panorama/leute/prinz-george-wird-zwoelf-jahre-alt-und-darf-nicht-mehr-mit-seinem-vater-ins-flugzeug-steigen](https://www.spiegel.de/panorama/leute/prinz-george-wird-zwoelf-jahre-alt-und-darf-nicht-mehr-mit-seinem-vater-ins-flugzeug-steigen-a-a33d67bf-8955-4b48-b21b-775559f7c716#ref=rss)
+### george
 
-* [https://www.spiegel.de/wirtschaft/handgepaeck-ryanair-chef-plant-hoehere-praemien-fuer-strenge-gepaeckkontrollen](https://www.spiegel.de/wirtschaft/handgepaeck-ryanair-chef-plant-hoehere-praemien-fuer-strenge-gepaeckkontrollen-a-f7e001e4-d15c-4863-b830-e6b2fdf26dab#ref=rss)
-### höhere
+* [https://www.spiegel.de/panorama/leute/prinz-george-wird-zwoelf-jahre-alt-und-darf-nicht-mehr-mit-seinem-vater-ins-flugzeug-steigen](https://www.spiegel.de/panorama/leute/prinz-george-wird-zwoelf-jahre-alt-und-darf-nicht-mehr-mit-seinem-vater-ins-flugzeug-steigen-a-a33d67bf-8955-4b48-b21b-775559f7c716#ref=rss)
+### vater
 
-* [https://www.spiegel.de/wirtschaft/handgepaeck-ryanair-chef-plant-hoehere-praemien-fuer-strenge-gepaeckkontrollen](https://www.spiegel.de/wirtschaft/handgepaeck-ryanair-chef-plant-hoehere-praemien-fuer-strenge-gepaeckkontrollen-a-f7e001e4-d15c-4863-b830-e6b2fdf26dab#ref=rss)
-### prämien
+* [https://www.spiegel.de/panorama/leute/prinz-george-wird-zwoelf-jahre-alt-und-darf-nicht-mehr-mit-seinem-vater-ins-flugzeug-steigen](https://www.spiegel.de/panorama/leute/prinz-george-wird-zwoelf-jahre-alt-und-darf-nicht-mehr-mit-seinem-vater-ins-flugzeug-steigen-a-a33d67bf-8955-4b48-b21b-775559f7c716#ref=rss)
+### flugzeug
 
-* [https://www.spiegel.de/wirtschaft/handgepaeck-ryanair-chef-plant-hoehere-praemien-fuer-strenge-gepaeckkontrollen](https://www.spiegel.de/wirtschaft/handgepaeck-ryanair-chef-plant-hoehere-praemien-fuer-strenge-gepaeckkontrollen-a-f7e001e4-d15c-4863-b830-e6b2fdf26dab#ref=rss)
-### gericht
+* [https://www.spiegel.de/panorama/leute/prinz-george-wird-zwoelf-jahre-alt-und-darf-nicht-mehr-mit-seinem-vater-ins-flugzeug-steigen](https://www.spiegel.de/panorama/leute/prinz-george-wird-zwoelf-jahre-alt-und-darf-nicht-mehr-mit-seinem-vater-ins-flugzeug-steigen-a-a33d67bf-8955-4b48-b21b-775559f7c716#ref=rss)
+### tour
 
-* [https://www.spiegel.de/ausland/brasilien-oberstes-gericht-droht-jair-bolsonaro-mit-haft-wegen-onlinevideo](https://www.spiegel.de/ausland/brasilien-oberstes-gericht-droht-jair-bolsonaro-mit-haft-wegen-onlinevideo-a-edb79449-9fcc-4332-af2e-229ee24768b4#ref=rss)
-### jair
+* [https://www.spiegel.de/sport/16-etappe-der-tour-de-france-fuehrt-auf-den-beruehmten-berg-mont-ventoux](https://www.spiegel.de/sport/16-etappe-der-tour-de-france-fuehrt-auf-den-beruehmten-berg-mont-ventoux-a-35f5ee1f-ef93-4984-ae7c-6b9714044e0f#ref=rss)
+### de
 
-* [https://www.spiegel.de/ausland/brasilien-oberstes-gericht-droht-jair-bolsonaro-mit-haft-wegen-onlinevideo](https://www.spiegel.de/ausland/brasilien-oberstes-gericht-droht-jair-bolsonaro-mit-haft-wegen-onlinevideo-a-edb79449-9fcc-4332-af2e-229ee24768b4#ref=rss)
-### bolsonaro
+* [https://www.spiegel.de/sport/16-etappe-der-tour-de-france-fuehrt-auf-den-beruehmten-berg-mont-ventoux](https://www.spiegel.de/sport/16-etappe-der-tour-de-france-fuehrt-auf-den-beruehmten-berg-mont-ventoux-a-35f5ee1f-ef93-4984-ae7c-6b9714044e0f#ref=rss)
+### france
 
-* [https://www.spiegel.de/ausland/brasilien-oberstes-gericht-droht-jair-bolsonaro-mit-haft-wegen-onlinevideo](https://www.spiegel.de/ausland/brasilien-oberstes-gericht-droht-jair-bolsonaro-mit-haft-wegen-onlinevideo-a-edb79449-9fcc-4332-af2e-229ee24768b4#ref=rss)
-### daniel
+* [https://www.spiegel.de/sport/16-etappe-der-tour-de-france-fuehrt-auf-den-beruehmten-berg-mont-ventoux](https://www.spiegel.de/sport/16-etappe-der-tour-de-france-fuehrt-auf-den-beruehmten-berg-mont-ventoux-a-35f5ee1f-ef93-4984-ae7c-6b9714044e0f#ref=rss)
+### berg
 
-* [https://www.spiegel.de/sport/fussball/fussball-transfer-news-hsv-holt-daniel-peretz-vom-fc-bayern-muenchen](https://www.spiegel.de/sport/fussball/fussball-transfer-news-hsv-holt-daniel-peretz-vom-fc-bayern-muenchen-a-9c698d64-99eb-4eec-953b-5fd34d2e75e8#ref=rss)
-### peretz
+* [https://www.spiegel.de/sport/16-etappe-der-tour-de-france-fuehrt-auf-den-beruehmten-berg-mont-ventoux](https://www.spiegel.de/sport/16-etappe-der-tour-de-france-fuehrt-auf-den-beruehmten-berg-mont-ventoux-a-35f5ee1f-ef93-4984-ae7c-6b9714044e0f#ref=rss)
+### openai
 
-* [https://www.spiegel.de/sport/fussball/fussball-transfer-news-hsv-holt-daniel-peretz-vom-fc-bayern-muenchen](https://www.spiegel.de/sport/fussball/fussball-transfer-news-hsv-holt-daniel-peretz-vom-fc-bayern-muenchen-a-9c698d64-99eb-4eec-953b-5fd34d2e75e8#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/ki-modelle-von-google-und-openai-meistern-mathewettbewerb-fuer-schueler](https://www.spiegel.de/netzwelt/apps/ki-modelle-von-google-und-openai-meistern-mathewettbewerb-fuer-schueler-a-1ce3de27-68ce-403e-ad32-054396800643#ref=rss)
+### schüler
+
+* [https://www.spiegel.de/netzwelt/apps/ki-modelle-von-google-und-openai-meistern-mathewettbewerb-fuer-schueler](https://www.spiegel.de/netzwelt/apps/ki-modelle-von-google-und-openai-meistern-mathewettbewerb-fuer-schueler-a-1ce3de27-68ce-403e-ad32-054396800643#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/grossbritannien-mehr-als-200-schueler-innerhalb-drei-wochen-von-der-schule-suspendiert](https://www.spiegel.de/panorama/bildung/grossbritannien-mehr-als-200-schueler-innerhalb-drei-wochen-von-der-schule-suspendiert-a-efe0b857-d1fd-4daa-aea5-223978a2fcf6#ref=rss)
+### cocacola
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/coca-cola-bringt-in-den-usa-cola-mit-rohrzucker-auf-den-markt](https://www.spiegel.de/wirtschaft/unternehmen/coca-cola-bringt-in-den-usa-cola-mit-rohrzucker-auf-den-markt-a-f4742605-53c0-4974-9787-bc103c4af389#ref=rss)
+### usa
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/coca-cola-bringt-in-den-usa-cola-mit-rohrzucker-auf-den-markt](https://www.spiegel.de/wirtschaft/unternehmen/coca-cola-bringt-in-den-usa-cola-mit-rohrzucker-auf-den-markt-a-f4742605-53c0-4974-9787-bc103c4af389#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/coca-cola-bringt-in-den-usa-cola-mit-rohrzucker-auf-den-markt](https://www.spiegel.de/wirtschaft/unternehmen/coca-cola-bringt-in-den-usa-cola-mit-rohrzucker-auf-den-markt-a-f4742605-53c0-4974-9787-bc103c4af389#ref=rss)
+* [https://www.spiegel.de/ausland/martin-luther-king-jr-us-regierung-veroeffentlicht-akten-zum-attentat-auf-buergerrechtsaktivist](https://www.spiegel.de/ausland/martin-luther-king-jr-us-regierung-veroeffentlicht-akten-zum-attentat-auf-buergerrechtsaktivist-a-37a4f01b-06c7-4cfc-a3ac-fb3d316093f3#ref=rss)
+### neue
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/coca-cola-bringt-in-den-usa-cola-mit-rohrzucker-auf-den-markt](https://www.spiegel.de/wirtschaft/unternehmen/coca-cola-bringt-in-den-usa-cola-mit-rohrzucker-auf-den-markt-a-f4742605-53c0-4974-9787-bc103c4af389#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/hygiene-studie-zeigt-mangelnde-handhygiene-nach-toilettengang](https://www.spiegel.de/wissenschaft/mensch/hygiene-studie-zeigt-mangelnde-handhygiene-nach-toilettengang-a-47ccb280-6331-4309-9a5e-e583d4f72c92#ref=rss)
+### großbritannien
+
+* [https://www.spiegel.de/panorama/bildung/grossbritannien-mehr-als-200-schueler-innerhalb-drei-wochen-von-der-schule-suspendiert](https://www.spiegel.de/panorama/bildung/grossbritannien-mehr-als-200-schueler-innerhalb-drei-wochen-von-der-schule-suspendiert-a-efe0b857-d1fd-4daa-aea5-223978a2fcf6#ref=rss)
+### schule
+
+* [https://www.spiegel.de/panorama/bildung/grossbritannien-mehr-als-200-schueler-innerhalb-drei-wochen-von-der-schule-suspendiert](https://www.spiegel.de/panorama/bildung/grossbritannien-mehr-als-200-schueler-innerhalb-drei-wochen-von-der-schule-suspendiert-a-efe0b857-d1fd-4daa-aea5-223978a2fcf6#ref=rss)
+### martin
+
+* [https://www.spiegel.de/ausland/martin-luther-king-jr-us-regierung-veroeffentlicht-akten-zum-attentat-auf-buergerrechtsaktivist](https://www.spiegel.de/ausland/martin-luther-king-jr-us-regierung-veroeffentlicht-akten-zum-attentat-auf-buergerrechtsaktivist-a-37a4f01b-06c7-4cfc-a3ac-fb3d316093f3#ref=rss)
+### luther
+
+* [https://www.spiegel.de/ausland/martin-luther-king-jr-us-regierung-veroeffentlicht-akten-zum-attentat-auf-buergerrechtsaktivist](https://www.spiegel.de/ausland/martin-luther-king-jr-us-regierung-veroeffentlicht-akten-zum-attentat-auf-buergerrechtsaktivist-a-37a4f01b-06c7-4cfc-a3ac-fb3d316093f3#ref=rss)
+### king
+
+* [https://www.spiegel.de/ausland/martin-luther-king-jr-us-regierung-veroeffentlicht-akten-zum-attentat-auf-buergerrechtsaktivist](https://www.spiegel.de/ausland/martin-luther-king-jr-us-regierung-veroeffentlicht-akten-zum-attentat-auf-buergerrechtsaktivist-a-37a4f01b-06c7-4cfc-a3ac-fb3d316093f3#ref=rss)
+### jr
+
+* [https://www.spiegel.de/ausland/martin-luther-king-jr-us-regierung-veroeffentlicht-akten-zum-attentat-auf-buergerrechtsaktivist](https://www.spiegel.de/ausland/martin-luther-king-jr-us-regierung-veroeffentlicht-akten-zum-attentat-auf-buergerrechtsaktivist-a-37a4f01b-06c7-4cfc-a3ac-fb3d316093f3#ref=rss)
+### attentat
+
+* [https://www.spiegel.de/ausland/martin-luther-king-jr-us-regierung-veroeffentlicht-akten-zum-attentat-auf-buergerrechtsaktivist](https://www.spiegel.de/ausland/martin-luther-king-jr-us-regierung-veroeffentlicht-akten-zum-attentat-auf-buergerrechtsaktivist-a-37a4f01b-06c7-4cfc-a3ac-fb3d316093f3#ref=rss)
+### bosch
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bosch-autozulieferer-plant-stellenabbau-in-reutlingen-bis-2029](https://www.spiegel.de/wirtschaft/unternehmen/bosch-autozulieferer-plant-stellenabbau-in-reutlingen-bis-2029-a-2f49cf44-29fc-4872-ab38-4f2d56fdf57b#ref=rss)
+### autozulieferer
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bosch-autozulieferer-plant-stellenabbau-in-reutlingen-bis-2029](https://www.spiegel.de/wirtschaft/unternehmen/bosch-autozulieferer-plant-stellenabbau-in-reutlingen-bis-2029-a-2f49cf44-29fc-4872-ab38-4f2d56fdf57b#ref=rss)
+### 2029
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bosch-autozulieferer-plant-stellenabbau-in-reutlingen-bis-2029](https://www.spiegel.de/wirtschaft/unternehmen/bosch-autozulieferer-plant-stellenabbau-in-reutlingen-bis-2029-a-2f49cf44-29fc-4872-ab38-4f2d56fdf57b#ref=rss)
 
