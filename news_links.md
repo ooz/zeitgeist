@@ -4,63 +4,336 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### unter
+### mehr
 
-* [https://www.spiegel.de/familie/freundschaft-unter-kindern-ich-muss-mich-mal-wieder-bei-stefan-melden-familiennewsletter](https://www.spiegel.de/familie/freundschaft-unter-kindern-ich-muss-mich-mal-wieder-bei-stefan-melden-familiennewsletter-a-9081a911-68c3-4859-bf39-04a1c8b7753e#ref=rss)
-* [https://www.spiegel.de/auto/elektroautos-weltweite-zulassungen-steigen-im-ersten-halbjahr-2025-stark](https://www.spiegel.de/auto/elektroautos-weltweite-zulassungen-steigen-im-ersten-halbjahr-2025-stark-a-3d834188-45a4-4907-afbc-a0bb03261014#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-und-die-medien-recep-tayyip-erdogan-geht-drastisch-gegen-medien-vor](https://www.spiegel.de/ausland/tuerkei-und-die-medien-recep-tayyip-erdogan-geht-drastisch-gegen-medien-vor-a-fe91c75f-b20c-41f8-80e7-eeedb771ef63#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-csd-in-berlin-lachen-ueber-donald-trump-emmanuel-macrons-palaestina-vorstoss](https://www.spiegel.de/politik/deutschland/news-csd-in-berlin-lachen-ueber-donald-trump-emmanuel-macrons-palaestina-vorstoss-a-a7e774ff-b41f-42fc-b3ff-870f55f2c2dd#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/jeffrey-epstein-donald-trump-will-sich-nicht-zu-moeglicher-begnadigung-von-ghislaine-maxwell-aeussern](https://www.spiegel.de/ausland/jeffrey-epstein-donald-trump-will-sich-nicht-zu-moeglicher-begnadigung-von-ghislaine-maxwell-aeussern-a-b92c59a2-d617-4e23-8c90-e0e36fb5b55d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-csd-in-berlin-lachen-ueber-donald-trump-emmanuel-macrons-palaestina-vorstoss](https://www.spiegel.de/politik/deutschland/news-csd-in-berlin-lachen-ueber-donald-trump-emmanuel-macrons-palaestina-vorstoss-a-a7e774ff-b41f-42fc-b3ff-870f55f2c2dd#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/jeffrey-epstein-donald-trump-will-sich-nicht-zu-moeglicher-begnadigung-von-ghislaine-maxwell-aeussern](https://www.spiegel.de/ausland/jeffrey-epstein-donald-trump-will-sich-nicht-zu-moeglicher-begnadigung-von-ghislaine-maxwell-aeussern-a-b92c59a2-d617-4e23-8c90-e0e36fb5b55d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-csd-in-berlin-lachen-ueber-donald-trump-emmanuel-macrons-palaestina-vorstoss](https://www.spiegel.de/politik/deutschland/news-csd-in-berlin-lachen-ueber-donald-trump-emmanuel-macrons-palaestina-vorstoss-a-a7e774ff-b41f-42fc-b3ff-870f55f2c2dd#ref=rss)
-### china
-
-* [https://www.spiegel.de/wirtschaft/ceconomy-gelingt-jd-com-aus-china-die-uebernahme-von-mediamarktsaturn](https://www.spiegel.de/wirtschaft/ceconomy-gelingt-jd-com-aus-china-die-uebernahme-von-mediamarktsaturn-a-635f30c3-0ce5-4a52-8027-8286a2358716#ref=rss)
-* [https://www.spiegel.de/auto/elektroautos-weltweite-zulassungen-steigen-im-ersten-halbjahr-2025-stark](https://www.spiegel.de/auto/elektroautos-weltweite-zulassungen-steigen-im-ersten-halbjahr-2025-stark-a-3d834188-45a4-4907-afbc-a0bb03261014#ref=rss)
-* [https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-china-schlaegt-weltweit-anerkanntes-ki-regelwerk-vor](https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-china-schlaegt-weltweit-anerkanntes-ki-regelwerk-vor-a-f80ccdb2-29d2-469d-a350-259348ed7a3b#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/sport/american-football/nfl-strafen-fuer-profis-wegen-ueberteuert-verkaufter-super-bowl-tickets](https://www.spiegel.de/sport/american-football/nfl-strafen-fuer-profis-wegen-ueberteuert-verkaufter-super-bowl-tickets-a-dd7ac829-f5e5-4583-befb-dcefd4ad14ba#ref=rss)
-* [https://www.spiegel.de/panorama/zwischenfall-in-kalifornien-zwei-verletzte-nach-rasantem-ausweichmanoever-von-passagierflugzeug](https://www.spiegel.de/panorama/zwischenfall-in-kalifornien-zwei-verletzte-nach-rasantem-ausweichmanoever-von-passagierflugzeug-a-a03c80af-eeed-4b12-8a76-4834193cd8ee#ref=rss)
-* [https://www.spiegel.de/ausland/usaid-us-regierung-plant-vernichtung-von-verhuetungsmittel-vorraeten](https://www.spiegel.de/ausland/usaid-us-regierung-plant-vernichtung-von-verhuetungsmittel-vorraeten-a-f259bfc4-bd55-4d7c-8d65-1f6bd5611cb9#ref=rss)
-### ich
-
-* [https://www.spiegel.de/familie/freundschaft-unter-kindern-ich-muss-mich-mal-wieder-bei-stefan-melden-familiennewsletter](https://www.spiegel.de/familie/freundschaft-unter-kindern-ich-muss-mich-mal-wieder-bei-stefan-melden-familiennewsletter-a-9081a911-68c3-4859-bf39-04a1c8b7753e#ref=rss)
-* [https://www.spiegel.de/sport/fussball/inter-miami-lionel-messi-veraergert-ueber-sperre-nach-all-star-game-auslassung](https://www.spiegel.de/sport/fussball/inter-miami-lionel-messi-veraergert-ueber-sperre-nach-all-star-game-auslassung-a-79d3aadc-658a-4393-8be6-9b91d94843ce#ref=rss)
-### viele
-
-* [https://www.spiegel.de/familie/freundschaft-unter-kindern-ich-muss-mich-mal-wieder-bei-stefan-melden-familiennewsletter](https://www.spiegel.de/familie/freundschaft-unter-kindern-ich-muss-mich-mal-wieder-bei-stefan-melden-familiennewsletter-a-9081a911-68c3-4859-bf39-04a1c8b7753e#ref=rss)
-* [https://www.spiegel.de/deinspiegel/naturschutz-auf-madagaskar-forscher-engagiert-sich-fuer-den-erhalt-der-lemuren](https://www.spiegel.de/deinspiegel/naturschutz-auf-madagaskar-forscher-engagiert-sich-fuer-den-erhalt-der-lemuren-a-48eda4dd-3d73-472a-8bdb-77fce335a4c6#ref=rss)
-* [https://www.spiegel.de/ausland/alles-gute-vom-spiegel-eine-steinbildhauerin-erobert-die-welt-und-insekten-koennen-aufatmen](https://www.spiegel.de/ausland/alles-gute-vom-spiegel-eine-steinbildhauerin-erobert-die-welt-und-insekten-koennen-aufatmen-a-1cb741fe-23a4-4b9c-a630-03d1e65df7da#ref=rss)
-### spiegel
-
-* [https://www.spiegel.de/politik/deutschland/fdp-und-gerhart-baum-warum-der-liberale-vor-seinem-tod-vor-der-afd-warnte](https://www.spiegel.de/politik/deutschland/fdp-und-gerhart-baum-warum-der-liberale-vor-seinem-tod-vor-der-afd-warnte-a-2f394847-167d-4e65-be19-cbfb8475e77b#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-* [https://www.spiegel.de/ausland/alles-gute-vom-spiegel-eine-steinbildhauerin-erobert-die-welt-und-insekten-koennen-aufatmen](https://www.spiegel.de/ausland/alles-gute-vom-spiegel-eine-steinbildhauerin-erobert-die-welt-und-insekten-koennen-aufatmen-a-1cb741fe-23a4-4b9c-a630-03d1e65df7da#ref=rss)
-### tag
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-* [https://www.spiegel.de/start/mensaessen-auf-social-media-schlechter-geschmack-ist-verzeihlich-kleine-portionen-nie](https://www.spiegel.de/start/mensaessen-auf-social-media-schlechter-geschmack-ist-verzeihlich-kleine-portionen-nie-a-0285a676-5def-4455-9858-ec8efefb096b#ref=rss)
+* [https://www.spiegel.de/panorama/christopher-street-day-csd-in-berlin-die-party-in-bildern](https://www.spiegel.de/panorama/christopher-street-day-csd-in-berlin-die-party-in-bildern-a-ff715bc0-11bf-4e6b-9c10-8e5940724f56#ref=rss)
+* [https://www.spiegel.de/panorama/bayern-markus-blume-zum-verbot-von-zivilklauseln-an-hochschulen](https://www.spiegel.de/panorama/bayern-markus-blume-zum-verbot-von-zivilklauseln-an-hochschulen-a-621fbe1d-92bf-435e-b586-64944f6cc548#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/ferien-mehr-als-1000-bussgeldbescheide-in-nrw-weil-eltern-frueher-in-den-urlaub-wollten](https://www.spiegel.de/panorama/bildung/ferien-mehr-als-1000-bussgeldbescheide-in-nrw-weil-eltern-frueher-in-den-urlaub-wollten-a-74f6d437-0985-403a-8fa2-fdf98ff7a24c#ref=rss)
+* [https://www.spiegel.de/politik/pflege-gesundheitsministerin-warken-will-eigenanteile-fuer-heimpflege-senken](https://www.spiegel.de/politik/pflege-gesundheitsministerin-warken-will-eigenanteile-fuer-heimpflege-senken-a-1e38ba8e-41b9-4fa9-b055-6aee8ef17481#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/rente-katherina-reiche-deutsche-muessen-laut-wirtschaftsministerin-mehr-und-laenger-arbeiten](https://www.spiegel.de/politik/deutschland/rente-katherina-reiche-deutsche-muessen-laut-wirtschaftsministerin-mehr-und-laenger-arbeiten-a-da40b7b2-154a-4b80-a447-1a955f4ab57c#ref=rss)
+* [https://www.spiegel.de/geschichte/symbolik-im-bundestag-ist-der-bundestagsadler-nazi-kunst](https://www.spiegel.de/geschichte/symbolik-im-bundestag-ist-der-bundestagsadler-nazi-kunst-a-e70119a1-ef00-4860-8fd0-4f457856f6fd#ref=rss)
 ### berlin
 
-* [https://www.spiegel.de/panorama/berlin-csd-teilnehmende-protestieren-mit-riesiger-regenbogenflagge-vor-reichstag](https://www.spiegel.de/panorama/berlin-csd-teilnehmende-protestieren-mit-riesiger-regenbogenflagge-vor-reichstag-a-b6e9506f-a935-4e8a-8dad-4e7a38cb62f5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-csd-in-berlin-lachen-ueber-donald-trump-emmanuel-macrons-palaestina-vorstoss](https://www.spiegel.de/politik/deutschland/news-csd-in-berlin-lachen-ueber-donald-trump-emmanuel-macrons-palaestina-vorstoss-a-a7e774ff-b41f-42fc-b3ff-870f55f2c2dd#ref=rss)
-### druck
+* [https://www.spiegel.de/panorama/christopher-street-day-csd-in-berlin-die-party-in-bildern](https://www.spiegel.de/panorama/christopher-street-day-csd-in-berlin-die-party-in-bildern-a-ff715bc0-11bf-4e6b-9c10-8e5940724f56#ref=rss)
+* [https://www.spiegel.de/panorama/csd-gegenkundgebung-polizei-in-berlin-nimmt-sieben-menschen-fest](https://www.spiegel.de/panorama/csd-gegenkundgebung-polizei-in-berlin-nimmt-sieben-menschen-fest-a-aee2f4b0-0cf0-480c-8fba-99265ec5e98a#ref=rss)
+### usa
 
-* [https://www.spiegel.de/auto/elektroautos-weltweite-zulassungen-steigen-im-ersten-halbjahr-2025-stark](https://www.spiegel.de/auto/elektroautos-weltweite-zulassungen-steigen-im-ersten-halbjahr-2025-stark-a-3d834188-45a4-4907-afbc-a0bb03261014#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-und-die-medien-recep-tayyip-erdogan-geht-drastisch-gegen-medien-vor](https://www.spiegel.de/ausland/tuerkei-und-die-medien-recep-tayyip-erdogan-geht-drastisch-gegen-medien-vor-a-fe91c75f-b20c-41f8-80e7-eeedb771ef63#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-csd-in-berlin-lachen-ueber-donald-trump-emmanuel-macrons-palaestina-vorstoss](https://www.spiegel.de/politik/deutschland/news-csd-in-berlin-lachen-ueber-donald-trump-emmanuel-macrons-palaestina-vorstoss-a-a7e774ff-b41f-42fc-b3ff-870f55f2c2dd#ref=rss)
-### medien
+* [https://www.spiegel.de/panorama/bayern-markus-blume-zum-verbot-von-zivilklauseln-an-hochschulen](https://www.spiegel.de/panorama/bayern-markus-blume-zum-verbot-von-zivilklauseln-an-hochschulen-a-621fbe1d-92bf-435e-b586-64944f6cc548#ref=rss)
+* [https://www.spiegel.de/panorama/guinnessbuch-der-rekorde-fruehstes-fruehchen-der-welt-feiert-ersten-geburtstag](https://www.spiegel.de/panorama/guinnessbuch-der-rekorde-fruehstes-fruehchen-der-welt-feiert-ersten-geburtstag-a-4d018771-5c84-4af3-8f72-e3251dcbc49c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dann-gehts-uebern-grossen-teich-mueller-deutet-entscheidung-fuer-wechsel-in-die-usa-an](https://www.spiegel.de/sport/fussball/dann-gehts-uebern-grossen-teich-mueller-deutet-entscheidung-fuer-wechsel-in-die-usa-an-a-fec57060-4d2a-4daf-b343-2a34ab6ca710#ref=rss)
+### donald
 
-* [https://www.spiegel.de/ausland/tuerkei-und-die-medien-recep-tayyip-erdogan-geht-drastisch-gegen-medien-vor](https://www.spiegel.de/ausland/tuerkei-und-die-medien-recep-tayyip-erdogan-geht-drastisch-gegen-medien-vor-a-fe91c75f-b20c-41f8-80e7-eeedb771ef63#ref=rss)
-### wir
+* [https://www.spiegel.de/ausland/suedostasien-donald-trump-kuendigt-verhandlungen-zwischen-thailand-und-kambodscha-an](https://www.spiegel.de/ausland/suedostasien-donald-trump-kuendigt-verhandlungen-zwischen-thailand-und-kambodscha-an-a-85d4eaa2-ce00-4dee-89fa-61123030be1f#ref=rss)
+* [https://www.spiegel.de/ausland/polen-ministerpraesident-donald-tusk-warnt-vor-konflikt-mit-russland-schon-2027](https://www.spiegel.de/ausland/polen-ministerpraesident-donald-tusk-warnt-vor-konflikt-mit-russland-schon-2027-a-fca31ba7-743f-41b3-a005-dc7ded7c1236#ref=rss)
+### macht
 
-* [https://www.spiegel.de/familie/wie-wir-im-urlaub-entspannen-auch-ohne-wegzufahren](https://www.spiegel.de/familie/wie-wir-im-urlaub-entspannen-auch-ohne-wegzufahren-a-d70df4cb-7027-442c-8d1f-83466377367a#ref=rss)
+* [https://www.spiegel.de/ausland/suedostasien-donald-trump-kuendigt-verhandlungen-zwischen-thailand-und-kambodscha-an](https://www.spiegel.de/ausland/suedostasien-donald-trump-kuendigt-verhandlungen-zwischen-thailand-und-kambodscha-an-a-85d4eaa2-ce00-4dee-89fa-61123030be1f#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/ausserirdisches-bauen-forscher-testen-lasertechnik-fuer-den-mond](https://www.spiegel.de/wissenschaft/weltall/ausserirdisches-bauen-forscher-testen-lasertechnik-fuer-den-mond-a-3bbfea7a-77e8-4ee8-80e8-2977987a7394#ref=rss)
+* [https://www.spiegel.de/kultur/die-meistersinger-von-nuernberg-in-bayreuth-so-macht-antifaschismus-spass](https://www.spiegel.de/kultur/die-meistersinger-von-nuernberg-in-bayreuth-so-macht-antifaschismus-spass-a-53432197-c074-4d05-a4c3-89fea8287faa#ref=rss)
+### 400
+
+* [https://www.spiegel.de/panorama/deutsche-bahn-400-ice-reisende-harrten-stundenlang-in-tunnel-bei-wien-aus](https://www.spiegel.de/panorama/deutsche-bahn-400-ice-reisende-harrten-stundenlang-in-tunnel-bei-wien-aus-a-d9103e88-cfa5-44a3-aec8-f6f4786bf25e#ref=rss)
+* [https://www.spiegel.de/panorama/csd-gegenkundgebung-polizei-in-berlin-nimmt-sieben-menschen-fest](https://www.spiegel.de/panorama/csd-gegenkundgebung-polizei-in-berlin-nimmt-sieben-menschen-fest-a-aee2f4b0-0cf0-480c-8fba-99265ec5e98a#ref=rss)
+### politisch
+
+* [https://www.spiegel.de/panorama/christopher-street-day-csd-in-berlin-die-party-in-bildern](https://www.spiegel.de/panorama/christopher-street-day-csd-in-berlin-die-party-in-bildern-a-ff715bc0-11bf-4e6b-9c10-8e5940724f56#ref=rss)
+* [https://www.spiegel.de/kultur/die-meistersinger-von-nuernberg-in-bayreuth-so-macht-antifaschismus-spass](https://www.spiegel.de/kultur/die-meistersinger-von-nuernberg-in-bayreuth-so-macht-antifaschismus-spass-a-53432197-c074-4d05-a4c3-89fea8287faa#ref=rss)
+* [https://www.spiegel.de/kultur/die-letzten-tage-der-menschheit-bei-den-salzburger-festspielen-es-ist-nur-eine-phrase-hase](https://www.spiegel.de/kultur/die-letzten-tage-der-menschheit-bei-den-salzburger-festspielen-es-ist-nur-eine-phrase-hase-a-0d85cab0-b88f-4492-b064-414d6f45e363#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/panorama/christopher-street-day-csd-in-berlin-die-party-in-bildern](https://www.spiegel.de/panorama/christopher-street-day-csd-in-berlin-die-party-in-bildern-a-ff715bc0-11bf-4e6b-9c10-8e5940724f56#ref=rss)
+* [https://www.spiegel.de/panorama/bayern-markus-blume-zum-verbot-von-zivilklauseln-an-hochschulen](https://www.spiegel.de/panorama/bayern-markus-blume-zum-verbot-von-zivilklauseln-an-hochschulen-a-621fbe1d-92bf-435e-b586-64944f6cc548#ref=rss)
+* [https://www.spiegel.de/panorama/guinnessbuch-der-rekorde-fruehstes-fruehchen-der-welt-feiert-ersten-geburtstag](https://www.spiegel.de/panorama/guinnessbuch-der-rekorde-fruehstes-fruehchen-der-welt-feiert-ersten-geburtstag-a-4d018771-5c84-4af3-8f72-e3251dcbc49c#ref=rss)
+### merz
+
+* [https://www.spiegel.de/ausland/gaza-krieg-friedrich-merz-stimmt-sich-mit-frankreich-und-grossbritannien-ueber-kurs-in-nahostpolitik-ab](https://www.spiegel.de/ausland/gaza-krieg-friedrich-merz-stimmt-sich-mit-frankreich-und-grossbritannien-ueber-kurs-in-nahostpolitik-ab-a-33549412-9d3b-4162-9850-1390e0fafe41#ref=rss)
+* [https://www.spiegel.de/kultur/die-meistersinger-von-nuernberg-in-bayreuth-so-macht-antifaschismus-spass](https://www.spiegel.de/kultur/die-meistersinger-von-nuernberg-in-bayreuth-so-macht-antifaschismus-spass-a-53432197-c074-4d05-a4c3-89fea8287faa#ref=rss)
+### laut
+
+* [https://www.spiegel.de/ausland/gaza-krieg-friedrich-merz-stimmt-sich-mit-frankreich-und-grossbritannien-ueber-kurs-in-nahostpolitik-ab](https://www.spiegel.de/ausland/gaza-krieg-friedrich-merz-stimmt-sich-mit-frankreich-und-grossbritannien-ueber-kurs-in-nahostpolitik-ab-a-33549412-9d3b-4162-9850-1390e0fafe41#ref=rss)
+* [https://www.spiegel.de/panorama/csd-gegenkundgebung-polizei-in-berlin-nimmt-sieben-menschen-fest](https://www.spiegel.de/panorama/csd-gegenkundgebung-polizei-in-berlin-nimmt-sieben-menschen-fest-a-aee2f4b0-0cf0-480c-8fba-99265ec5e98a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/rente-katherina-reiche-deutsche-muessen-laut-wirtschaftsministerin-mehr-und-laenger-arbeiten](https://www.spiegel.de/politik/deutschland/rente-katherina-reiche-deutsche-muessen-laut-wirtschaftsministerin-mehr-und-laenger-arbeiten-a-da40b7b2-154a-4b80-a447-1a955f4ab57c#ref=rss)
+### berlusconi
+
+* [https://www.spiegel.de/politik/deutschland/wolfram-weimer-ueber-prosiebensat-1-und-pier-silvio-berlusconi-meine-sorge-ist-ob-die-journalistische-unabhaengigkeit-gewahrt-bleibt](https://www.spiegel.de/politik/deutschland/wolfram-weimer-ueber-prosiebensat-1-und-pier-silvio-berlusconi-meine-sorge-ist-ob-die-journalistische-unabhaengigkeit-gewahrt-bleibt-a-7c93974f-a4bc-4b60-897d-a6f534af5581#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/panorama/bayern-markus-blume-zum-verbot-von-zivilklauseln-an-hochschulen](https://www.spiegel.de/panorama/bayern-markus-blume-zum-verbot-von-zivilklauseln-an-hochschulen-a-621fbe1d-92bf-435e-b586-64944f6cc548#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dann-gehts-uebern-grossen-teich-mueller-deutet-entscheidung-fuer-wechsel-in-die-usa-an](https://www.spiegel.de/sport/fussball/dann-gehts-uebern-grossen-teich-mueller-deutet-entscheidung-fuer-wechsel-in-die-usa-an-a-fec57060-4d2a-4daf-b343-2a34ab6ca710#ref=rss)
+### eltern
+
+* [https://www.spiegel.de/panorama/bildung/ferien-mehr-als-1000-bussgeldbescheide-in-nrw-weil-eltern-frueher-in-den-urlaub-wollten](https://www.spiegel.de/panorama/bildung/ferien-mehr-als-1000-bussgeldbescheide-in-nrw-weil-eltern-frueher-in-den-urlaub-wollten-a-74f6d437-0985-403a-8fa2-fdf98ff7a24c#ref=rss)
+* [https://www.spiegel.de/panorama/guinnessbuch-der-rekorde-fruehstes-fruehchen-der-welt-feiert-ersten-geburtstag](https://www.spiegel.de/panorama/guinnessbuch-der-rekorde-fruehstes-fruehchen-der-welt-feiert-ersten-geburtstag-a-4d018771-5c84-4af3-8f72-e3251dcbc49c#ref=rss)
+### menschheit
+
+* [https://www.spiegel.de/kultur/die-letzten-tage-der-menschheit-bei-den-salzburger-festspielen-es-ist-nur-eine-phrase-hase](https://www.spiegel.de/kultur/die-letzten-tage-der-menschheit-bei-den-salzburger-festspielen-es-ist-nur-eine-phrase-hase-a-0d85cab0-b88f-4492-b064-414d6f45e363#ref=rss)
+* [https://www.spiegel.de/politik/journalismus-angus-hervey-ueber-zerrbilder-und-die-besten-jahre-der-menschheit](https://www.spiegel.de/politik/journalismus-angus-hervey-ueber-zerrbilder-und-die-besten-jahre-der-menschheit-a-ba497818-ccd2-48e7-9fa2-2d0ca264d97e#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/suedostasien-donald-trump-kuendigt-verhandlungen-zwischen-thailand-und-kambodscha-an](https://www.spiegel.de/ausland/suedostasien-donald-trump-kuendigt-verhandlungen-zwischen-thailand-und-kambodscha-an-a-85d4eaa2-ce00-4dee-89fa-61123030be1f#ref=rss)
+### thailand
+
+* [https://www.spiegel.de/ausland/suedostasien-donald-trump-kuendigt-verhandlungen-zwischen-thailand-und-kambodscha-an](https://www.spiegel.de/ausland/suedostasien-donald-trump-kuendigt-verhandlungen-zwischen-thailand-und-kambodscha-an-a-85d4eaa2-ce00-4dee-89fa-61123030be1f#ref=rss)
+### kambodscha
+
+* [https://www.spiegel.de/ausland/suedostasien-donald-trump-kuendigt-verhandlungen-zwischen-thailand-und-kambodscha-an](https://www.spiegel.de/ausland/suedostasien-donald-trump-kuendigt-verhandlungen-zwischen-thailand-und-kambodscha-an-a-85d4eaa2-ce00-4dee-89fa-61123030be1f#ref=rss)
+### staaten
+
+* [https://www.spiegel.de/ausland/suedostasien-donald-trump-kuendigt-verhandlungen-zwischen-thailand-und-kambodscha-an](https://www.spiegel.de/ausland/suedostasien-donald-trump-kuendigt-verhandlungen-zwischen-thailand-und-kambodscha-an-a-85d4eaa2-ce00-4dee-89fa-61123030be1f#ref=rss)
+* [https://www.spiegel.de/ausland/polen-ministerpraesident-donald-tusk-warnt-vor-konflikt-mit-russland-schon-2027](https://www.spiegel.de/ausland/polen-ministerpraesident-donald-tusk-warnt-vor-konflikt-mit-russland-schon-2027-a-fca31ba7-743f-41b3-a005-dc7ded7c1236#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/panorama/deutsche-bahn-400-ice-reisende-harrten-stundenlang-in-tunnel-bei-wien-aus](https://www.spiegel.de/panorama/deutsche-bahn-400-ice-reisende-harrten-stundenlang-in-tunnel-bei-wien-aus-a-d9103e88-cfa5-44a3-aec8-f6f4786bf25e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/rente-katherina-reiche-deutsche-muessen-laut-wirtschaftsministerin-mehr-und-laenger-arbeiten](https://www.spiegel.de/politik/deutschland/rente-katherina-reiche-deutsche-muessen-laut-wirtschaftsministerin-mehr-und-laenger-arbeiten-a-da40b7b2-154a-4b80-a447-1a955f4ab57c#ref=rss)
+### tunnel
+
+* [https://www.spiegel.de/panorama/deutsche-bahn-400-ice-reisende-harrten-stundenlang-in-tunnel-bei-wien-aus](https://www.spiegel.de/panorama/deutsche-bahn-400-ice-reisende-harrten-stundenlang-in-tunnel-bei-wien-aus-a-d9103e88-cfa5-44a3-aec8-f6f4786bf25e#ref=rss)
+### wien
+
+* [https://www.spiegel.de/panorama/deutsche-bahn-400-ice-reisende-harrten-stundenlang-in-tunnel-bei-wien-aus](https://www.spiegel.de/panorama/deutsche-bahn-400-ice-reisende-harrten-stundenlang-in-tunnel-bei-wien-aus-a-d9103e88-cfa5-44a3-aec8-f6f4786bf25e#ref=rss)
+### hatten
+
+* [https://www.spiegel.de/panorama/deutsche-bahn-400-ice-reisende-harrten-stundenlang-in-tunnel-bei-wien-aus](https://www.spiegel.de/panorama/deutsche-bahn-400-ice-reisende-harrten-stundenlang-in-tunnel-bei-wien-aus-a-d9103e88-cfa5-44a3-aec8-f6f4786bf25e#ref=rss)
+* [https://www.spiegel.de/panorama/christopher-street-day-csd-in-berlin-die-party-in-bildern](https://www.spiegel.de/panorama/christopher-street-day-csd-in-berlin-die-party-in-bildern-a-ff715bc0-11bf-4e6b-9c10-8e5940724f56#ref=rss)
+### erst
+
+* [https://www.spiegel.de/panorama/deutsche-bahn-400-ice-reisende-harrten-stundenlang-in-tunnel-bei-wien-aus](https://www.spiegel.de/panorama/deutsche-bahn-400-ice-reisende-harrten-stundenlang-in-tunnel-bei-wien-aus-a-d9103e88-cfa5-44a3-aec8-f6f4786bf25e#ref=rss)
+* [https://www.spiegel.de/ausland/weisse-haus-sprecherin-karoline-leavitt-trumps-sterbehelferin](https://www.spiegel.de/ausland/weisse-haus-sprecherin-karoline-leavitt-trumps-sterbehelferin-a-8d795716-11c3-44c7-8d8d-aeb28d8b26bb#ref=rss)
+### frühen
+
+* [https://www.spiegel.de/panorama/deutsche-bahn-400-ice-reisende-harrten-stundenlang-in-tunnel-bei-wien-aus](https://www.spiegel.de/panorama/deutsche-bahn-400-ice-reisende-harrten-stundenlang-in-tunnel-bei-wien-aus-a-d9103e88-cfa5-44a3-aec8-f6f4786bf25e#ref=rss)
+* [https://www.spiegel.de/panorama/guinnessbuch-der-rekorde-fruehstes-fruehchen-der-welt-feiert-ersten-geburtstag](https://www.spiegel.de/panorama/guinnessbuch-der-rekorde-fruehstes-fruehchen-der-welt-feiert-ersten-geburtstag-a-4d018771-5c84-4af3-8f72-e3251dcbc49c#ref=rss)
+### christopher
+
+* [https://www.spiegel.de/panorama/christopher-street-day-csd-in-berlin-die-party-in-bildern](https://www.spiegel.de/panorama/christopher-street-day-csd-in-berlin-die-party-in-bildern-a-ff715bc0-11bf-4e6b-9c10-8e5940724f56#ref=rss)
+### street
+
+* [https://www.spiegel.de/panorama/christopher-street-day-csd-in-berlin-die-party-in-bildern](https://www.spiegel.de/panorama/christopher-street-day-csd-in-berlin-die-party-in-bildern-a-ff715bc0-11bf-4e6b-9c10-8e5940724f56#ref=rss)
+### day
+
+* [https://www.spiegel.de/panorama/christopher-street-day-csd-in-berlin-die-party-in-bildern](https://www.spiegel.de/panorama/christopher-street-day-csd-in-berlin-die-party-in-bildern-a-ff715bc0-11bf-4e6b-9c10-8e5940724f56#ref=rss)
+### diesem
+
+* [https://www.spiegel.de/panorama/christopher-street-day-csd-in-berlin-die-party-in-bildern](https://www.spiegel.de/panorama/christopher-street-day-csd-in-berlin-die-party-in-bildern-a-ff715bc0-11bf-4e6b-9c10-8e5940724f56#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-israel-fehlen-beweise-fuer-hilfsgueter-diebstahl-durch-hamas](https://www.spiegel.de/ausland/gaza-israel-fehlen-beweise-fuer-hilfsgueter-diebstahl-durch-hamas-a-dab7039a-0e25-4ced-9d8a-8f198b3ae599#ref=rss)
+### frankreich
+
+* [https://www.spiegel.de/ausland/gaza-krieg-friedrich-merz-stimmt-sich-mit-frankreich-und-grossbritannien-ueber-kurs-in-nahostpolitik-ab](https://www.spiegel.de/ausland/gaza-krieg-friedrich-merz-stimmt-sich-mit-frankreich-und-grossbritannien-ueber-kurs-in-nahostpolitik-ab-a-33549412-9d3b-4162-9850-1390e0fafe41#ref=rss)
+### großbritannien
+
+* [https://www.spiegel.de/ausland/gaza-krieg-friedrich-merz-stimmt-sich-mit-frankreich-und-grossbritannien-ueber-kurs-in-nahostpolitik-ab](https://www.spiegel.de/ausland/gaza-krieg-friedrich-merz-stimmt-sich-mit-frankreich-und-grossbritannien-ueber-kurs-in-nahostpolitik-ab-a-33549412-9d3b-4162-9850-1390e0fafe41#ref=rss)
+### nahostpolitik
+
+* [https://www.spiegel.de/ausland/gaza-krieg-friedrich-merz-stimmt-sich-mit-frankreich-und-grossbritannien-ueber-kurs-in-nahostpolitik-ab](https://www.spiegel.de/ausland/gaza-krieg-friedrich-merz-stimmt-sich-mit-frankreich-und-grossbritannien-ueber-kurs-in-nahostpolitik-ab-a-33549412-9d3b-4162-9850-1390e0fafe41#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/ausland/gaza-krieg-friedrich-merz-stimmt-sich-mit-frankreich-und-grossbritannien-ueber-kurs-in-nahostpolitik-ab](https://www.spiegel.de/ausland/gaza-krieg-friedrich-merz-stimmt-sich-mit-frankreich-und-grossbritannien-ueber-kurs-in-nahostpolitik-ab-a-33549412-9d3b-4162-9850-1390e0fafe41#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/rente-katherina-reiche-deutsche-muessen-laut-wirtschaftsministerin-mehr-und-laenger-arbeiten](https://www.spiegel.de/politik/deutschland/rente-katherina-reiche-deutsche-muessen-laut-wirtschaftsministerin-mehr-und-laenger-arbeiten-a-da40b7b2-154a-4b80-a447-1a955f4ab57c#ref=rss)
+### debatte
+
+* [https://www.spiegel.de/panorama/vueling-antisemitismus-vorwuerfe-gegen-airline-rauswurf-einer-juedischen-jugendgruppe-aus-spanischem-flugzeug-entfacht-debatte](https://www.spiegel.de/panorama/vueling-antisemitismus-vorwuerfe-gegen-airline-rauswurf-einer-juedischen-jugendgruppe-aus-spanischem-flugzeug-entfacht-debatte-a-8dac5cc5-f8ee-495e-ad3e-95f1716b5a7c#ref=rss)
+* [https://www.spiegel.de/geschichte/symbolik-im-bundestag-ist-der-bundestagsadler-nazi-kunst](https://www.spiegel.de/geschichte/symbolik-im-bundestag-ist-der-bundestagsadler-nazi-kunst-a-e70119a1-ef00-4860-8fd0-4f457856f6fd#ref=rss)
+### kinder
+
+* [https://www.spiegel.de/panorama/vueling-antisemitismus-vorwuerfe-gegen-airline-rauswurf-einer-juedischen-jugendgruppe-aus-spanischem-flugzeug-entfacht-debatte](https://www.spiegel.de/panorama/vueling-antisemitismus-vorwuerfe-gegen-airline-rauswurf-einer-juedischen-jugendgruppe-aus-spanischem-flugzeug-entfacht-debatte-a-8dac5cc5-f8ee-495e-ad3e-95f1716b5a7c#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/ferien-mehr-als-1000-bussgeldbescheide-in-nrw-weil-eltern-frueher-in-den-urlaub-wollten](https://www.spiegel.de/panorama/bildung/ferien-mehr-als-1000-bussgeldbescheide-in-nrw-weil-eltern-frueher-in-den-urlaub-wollten-a-74f6d437-0985-403a-8fa2-fdf98ff7a24c#ref=rss)
+### karoline
+
+* [https://www.spiegel.de/ausland/weisse-haus-sprecherin-karoline-leavitt-trumps-sterbehelferin](https://www.spiegel.de/ausland/weisse-haus-sprecherin-karoline-leavitt-trumps-sterbehelferin-a-8d795716-11c3-44c7-8d8d-aeb28d8b26bb#ref=rss)
+### leavitt
+
+* [https://www.spiegel.de/ausland/weisse-haus-sprecherin-karoline-leavitt-trumps-sterbehelferin](https://www.spiegel.de/ausland/weisse-haus-sprecherin-karoline-leavitt-trumps-sterbehelferin-a-8d795716-11c3-44c7-8d8d-aeb28d8b26bb#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/ausland/weisse-haus-sprecherin-karoline-leavitt-trumps-sterbehelferin](https://www.spiegel.de/ausland/weisse-haus-sprecherin-karoline-leavitt-trumps-sterbehelferin-a-8d795716-11c3-44c7-8d8d-aeb28d8b26bb#ref=rss)
+* [https://www.spiegel.de/politik/journalismus-angus-hervey-ueber-zerrbilder-und-die-besten-jahre-der-menschheit](https://www.spiegel.de/politik/journalismus-angus-hervey-ueber-zerrbilder-und-die-besten-jahre-der-menschheit-a-ba497818-ccd2-48e7-9fa2-2d0ca264d97e#ref=rss)
+### forscher
+
+* [https://www.spiegel.de/wissenschaft/weltall/ausserirdisches-bauen-forscher-testen-lasertechnik-fuer-den-mond](https://www.spiegel.de/wissenschaft/weltall/ausserirdisches-bauen-forscher-testen-lasertechnik-fuer-den-mond-a-3bbfea7a-77e8-4ee8-80e8-2977987a7394#ref=rss)
+### mond
+
+* [https://www.spiegel.de/wissenschaft/weltall/ausserirdisches-bauen-forscher-testen-lasertechnik-fuer-den-mond](https://www.spiegel.de/wissenschaft/weltall/ausserirdisches-bauen-forscher-testen-lasertechnik-fuer-den-mond-a-3bbfea7a-77e8-4ee8-80e8-2977987a7394#ref=rss)
+### berliner
+
+* [https://www.spiegel.de/wissenschaft/weltall/ausserirdisches-bauen-forscher-testen-lasertechnik-fuer-den-mond](https://www.spiegel.de/wissenschaft/weltall/ausserirdisches-bauen-forscher-testen-lasertechnik-fuer-den-mond-a-3bbfea7a-77e8-4ee8-80e8-2977987a7394#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/nach-klassenfahrt-eklat-zwei-schulen-in-brandenburg-gehen-rassismus-vorwuerfen-nach](https://www.spiegel.de/panorama/bildung/nach-klassenfahrt-eklat-zwei-schulen-in-brandenburg-gehen-rassismus-vorwuerfen-nach-a-87b39485-43a6-4714-bed0-ff7d274e9843#ref=rss)
+### wolfram
+
+* [https://www.spiegel.de/politik/deutschland/wolfram-weimer-ueber-prosiebensat-1-und-pier-silvio-berlusconi-meine-sorge-ist-ob-die-journalistische-unabhaengigkeit-gewahrt-bleibt](https://www.spiegel.de/politik/deutschland/wolfram-weimer-ueber-prosiebensat-1-und-pier-silvio-berlusconi-meine-sorge-ist-ob-die-journalistische-unabhaengigkeit-gewahrt-bleibt-a-7c93974f-a4bc-4b60-897d-a6f534af5581#ref=rss)
+### weimer
+
+* [https://www.spiegel.de/politik/deutschland/wolfram-weimer-ueber-prosiebensat-1-und-pier-silvio-berlusconi-meine-sorge-ist-ob-die-journalistische-unabhaengigkeit-gewahrt-bleibt](https://www.spiegel.de/politik/deutschland/wolfram-weimer-ueber-prosiebensat-1-und-pier-silvio-berlusconi-meine-sorge-ist-ob-die-journalistische-unabhaengigkeit-gewahrt-bleibt-a-7c93974f-a4bc-4b60-897d-a6f534af5581#ref=rss)
+### prosiebensat1
+
+* [https://www.spiegel.de/politik/deutschland/wolfram-weimer-ueber-prosiebensat-1-und-pier-silvio-berlusconi-meine-sorge-ist-ob-die-journalistische-unabhaengigkeit-gewahrt-bleibt](https://www.spiegel.de/politik/deutschland/wolfram-weimer-ueber-prosiebensat-1-und-pier-silvio-berlusconi-meine-sorge-ist-ob-die-journalistische-unabhaengigkeit-gewahrt-bleibt-a-7c93974f-a4bc-4b60-897d-a6f534af5581#ref=rss)
+### pier
+
+* [https://www.spiegel.de/politik/deutschland/wolfram-weimer-ueber-prosiebensat-1-und-pier-silvio-berlusconi-meine-sorge-ist-ob-die-journalistische-unabhaengigkeit-gewahrt-bleibt](https://www.spiegel.de/politik/deutschland/wolfram-weimer-ueber-prosiebensat-1-und-pier-silvio-berlusconi-meine-sorge-ist-ob-die-journalistische-unabhaengigkeit-gewahrt-bleibt-a-7c93974f-a4bc-4b60-897d-a6f534af5581#ref=rss)
+### silvio
+
+* [https://www.spiegel.de/politik/deutschland/wolfram-weimer-ueber-prosiebensat-1-und-pier-silvio-berlusconi-meine-sorge-ist-ob-die-journalistische-unabhaengigkeit-gewahrt-bleibt](https://www.spiegel.de/politik/deutschland/wolfram-weimer-ueber-prosiebensat-1-und-pier-silvio-berlusconi-meine-sorge-ist-ob-die-journalistische-unabhaengigkeit-gewahrt-bleibt-a-7c93974f-a4bc-4b60-897d-a6f534af5581#ref=rss)
+### wissenschaftsminister
+
+* [https://www.spiegel.de/panorama/bayern-markus-blume-zum-verbot-von-zivilklauseln-an-hochschulen](https://www.spiegel.de/panorama/bayern-markus-blume-zum-verbot-von-zivilklauseln-an-hochschulen-a-621fbe1d-92bf-435e-b586-64944f6cc548#ref=rss)
+### blume
+
+* [https://www.spiegel.de/panorama/bayern-markus-blume-zum-verbot-von-zivilklauseln-an-hochschulen](https://www.spiegel.de/panorama/bayern-markus-blume-zum-verbot-von-zivilklauseln-an-hochschulen-a-621fbe1d-92bf-435e-b586-64944f6cc548#ref=rss)
+### hochschulen
+
+* [https://www.spiegel.de/panorama/bayern-markus-blume-zum-verbot-von-zivilklauseln-an-hochschulen](https://www.spiegel.de/panorama/bayern-markus-blume-zum-verbot-von-zivilklauseln-an-hochschulen-a-621fbe1d-92bf-435e-b586-64944f6cc548#ref=rss)
+### tusk
+
+* [https://www.spiegel.de/ausland/polen-ministerpraesident-donald-tusk-warnt-vor-konflikt-mit-russland-schon-2027](https://www.spiegel.de/ausland/polen-ministerpraesident-donald-tusk-warnt-vor-konflikt-mit-russland-schon-2027-a-fca31ba7-743f-41b3-a005-dc7ded7c1236#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/polen-ministerpraesident-donald-tusk-warnt-vor-konflikt-mit-russland-schon-2027](https://www.spiegel.de/ausland/polen-ministerpraesident-donald-tusk-warnt-vor-konflikt-mit-russland-schon-2027-a-fca31ba7-743f-41b3-a005-dc7ded7c1236#ref=rss)
+### andere
+
+* [https://www.spiegel.de/ausland/polen-ministerpraesident-donald-tusk-warnt-vor-konflikt-mit-russland-schon-2027](https://www.spiegel.de/ausland/polen-ministerpraesident-donald-tusk-warnt-vor-konflikt-mit-russland-schon-2027-a-fca31ba7-743f-41b3-a005-dc7ded7c1236#ref=rss)
+* [https://www.spiegel.de/geschichte/symbolik-im-bundestag-ist-der-bundestagsadler-nazi-kunst](https://www.spiegel.de/geschichte/symbolik-im-bundestag-ist-der-bundestagsadler-nazi-kunst-a-e70119a1-ef00-4860-8fd0-4f457856f6fd#ref=rss)
+### tadej
+
+* [https://www.spiegel.de/sport/tour-de-france-tadej-pogacar-vor-tour-sieg-florian-lipowitz-verteidigt-rang-drei](https://www.spiegel.de/sport/tour-de-france-tadej-pogacar-vor-tour-sieg-florian-lipowitz-verteidigt-rang-drei-a-ae7c812c-6450-464a-8c9d-ba2c31b03d6b#ref=rss)
+### pogačar
+
+* [https://www.spiegel.de/sport/tour-de-france-tadej-pogacar-vor-tour-sieg-florian-lipowitz-verteidigt-rang-drei](https://www.spiegel.de/sport/tour-de-france-tadej-pogacar-vor-tour-sieg-florian-lipowitz-verteidigt-rang-drei-a-ae7c812c-6450-464a-8c9d-ba2c31b03d6b#ref=rss)
+### toursieg
+
+* [https://www.spiegel.de/sport/tour-de-france-tadej-pogacar-vor-tour-sieg-florian-lipowitz-verteidigt-rang-drei](https://www.spiegel.de/sport/tour-de-france-tadej-pogacar-vor-tour-sieg-florian-lipowitz-verteidigt-rang-drei-a-ae7c812c-6450-464a-8c9d-ba2c31b03d6b#ref=rss)
+### florian
+
+* [https://www.spiegel.de/sport/tour-de-france-tadej-pogacar-vor-tour-sieg-florian-lipowitz-verteidigt-rang-drei](https://www.spiegel.de/sport/tour-de-france-tadej-pogacar-vor-tour-sieg-florian-lipowitz-verteidigt-rang-drei-a-ae7c812c-6450-464a-8c9d-ba2c31b03d6b#ref=rss)
+### lipowitz
+
+* [https://www.spiegel.de/sport/tour-de-france-tadej-pogacar-vor-tour-sieg-florian-lipowitz-verteidigt-rang-drei](https://www.spiegel.de/sport/tour-de-france-tadej-pogacar-vor-tour-sieg-florian-lipowitz-verteidigt-rang-drei-a-ae7c812c-6450-464a-8c9d-ba2c31b03d6b#ref=rss)
+### beweise
+
+* [https://www.spiegel.de/ausland/gaza-israel-fehlen-beweise-fuer-hilfsgueter-diebstahl-durch-hamas](https://www.spiegel.de/ausland/gaza-israel-fehlen-beweise-fuer-hilfsgueter-diebstahl-durch-hamas-a-dab7039a-0e25-4ced-9d8a-8f198b3ae599#ref=rss)
+### hamas
+
+* [https://www.spiegel.de/ausland/gaza-israel-fehlen-beweise-fuer-hilfsgueter-diebstahl-durch-hamas](https://www.spiegel.de/ausland/gaza-israel-fehlen-beweise-fuer-hilfsgueter-diebstahl-durch-hamas-a-dab7039a-0e25-4ced-9d8a-8f198b3ae599#ref=rss)
+### großen
+
+* [https://www.spiegel.de/ausland/gaza-israel-fehlen-beweise-fuer-hilfsgueter-diebstahl-durch-hamas](https://www.spiegel.de/ausland/gaza-israel-fehlen-beweise-fuer-hilfsgueter-diebstahl-durch-hamas-a-dab7039a-0e25-4ced-9d8a-8f198b3ae599#ref=rss)
+* [https://www.spiegel.de/kultur/die-meistersinger-von-nuernberg-in-bayreuth-so-macht-antifaschismus-spass](https://www.spiegel.de/kultur/die-meistersinger-von-nuernberg-in-bayreuth-so-macht-antifaschismus-spass-a-53432197-c074-4d05-a4c3-89fea8287faa#ref=rss)
+### jagdinfluencerin
+
+* [https://www.spiegel.de/netzwelt/jagd-influencerin-mrs_artemis-auf-der-jagd-nach-followern-und-wild](https://www.spiegel.de/netzwelt/jagd-influencerin-mrs_artemis-auf-der-jagd-nach-followern-und-wild-a-204a38a4-98de-4631-9177-aa5baa5359b8#ref=rss)
+### mrs_artemis
+
+* [https://www.spiegel.de/netzwelt/jagd-influencerin-mrs_artemis-auf-der-jagd-nach-followern-und-wild](https://www.spiegel.de/netzwelt/jagd-influencerin-mrs_artemis-auf-der-jagd-nach-followern-und-wild-a-204a38a4-98de-4631-9177-aa5baa5359b8#ref=rss)
+### followern
+
+* [https://www.spiegel.de/netzwelt/jagd-influencerin-mrs_artemis-auf-der-jagd-nach-followern-und-wild](https://www.spiegel.de/netzwelt/jagd-influencerin-mrs_artemis-auf-der-jagd-nach-followern-und-wild-a-204a38a4-98de-4631-9177-aa5baa5359b8#ref=rss)
+### viele
+
+* [https://www.spiegel.de/netzwelt/jagd-influencerin-mrs_artemis-auf-der-jagd-nach-followern-und-wild](https://www.spiegel.de/netzwelt/jagd-influencerin-mrs_artemis-auf-der-jagd-nach-followern-und-wild-a-204a38a4-98de-4631-9177-aa5baa5359b8#ref=rss)
+* [https://www.spiegel.de/panorama/juso-chef-tuermer-spendete-stammzellen-an-frau-aus-texas](https://www.spiegel.de/panorama/juso-chef-tuermer-spendete-stammzellen-an-frau-aus-texas-a-e859ed31-9e3d-428a-962d-29c5b19f720a#ref=rss)
+### ferien
+
+* [https://www.spiegel.de/panorama/bildung/ferien-mehr-als-1000-bussgeldbescheide-in-nrw-weil-eltern-frueher-in-den-urlaub-wollten](https://www.spiegel.de/panorama/bildung/ferien-mehr-als-1000-bussgeldbescheide-in-nrw-weil-eltern-frueher-in-den-urlaub-wollten-a-74f6d437-0985-403a-8fa2-fdf98ff7a24c#ref=rss)
+### kurz
+
+* [https://www.spiegel.de/panorama/bildung/ferien-mehr-als-1000-bussgeldbescheide-in-nrw-weil-eltern-frueher-in-den-urlaub-wollten](https://www.spiegel.de/panorama/bildung/ferien-mehr-als-1000-bussgeldbescheide-in-nrw-weil-eltern-frueher-in-den-urlaub-wollten-a-74f6d437-0985-403a-8fa2-fdf98ff7a24c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ceconomy-gelingt-jd-com-aus-china-die-uebernahme-von-mediamarktsaturn](https://www.spiegel.de/wirtschaft/ceconomy-gelingt-jd-com-aus-china-die-uebernahme-von-mediamarktsaturn-a-635f30c3-0ce5-4a52-8027-8286a2358716#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/panorama/bildung/nach-klassenfahrt-eklat-zwei-schulen-in-brandenburg-gehen-rassismus-vorwuerfen-nach](https://www.spiegel.de/panorama/bildung/nach-klassenfahrt-eklat-zwei-schulen-in-brandenburg-gehen-rassismus-vorwuerfen-nach-a-87b39485-43a6-4714-bed0-ff7d274e9843#ref=rss)
+* [https://www.spiegel.de/kultur/musik/wembley-oasis-gedenken-ozzy-osbournes-bei-konzert-in-london](https://www.spiegel.de/kultur/musik/wembley-oasis-gedenken-ozzy-osbournes-bei-konzert-in-london-a-5f6bce48-add8-4eb4-9bf3-c321842b341a#ref=rss)
+### wenige
+
+* [https://www.spiegel.de/panorama/csd-gegenkundgebung-polizei-in-berlin-nimmt-sieben-menschen-fest](https://www.spiegel.de/panorama/csd-gegenkundgebung-polizei-in-berlin-nimmt-sieben-menschen-fest-a-aee2f4b0-0cf0-480c-8fba-99265ec5e98a#ref=rss)
+### teilnehmer
+
+* [https://www.spiegel.de/panorama/csd-gegenkundgebung-polizei-in-berlin-nimmt-sieben-menschen-fest](https://www.spiegel.de/panorama/csd-gegenkundgebung-polizei-in-berlin-nimmt-sieben-menschen-fest-a-aee2f4b0-0cf0-480c-8fba-99265ec5e98a#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/panorama/csd-gegenkundgebung-polizei-in-berlin-nimmt-sieben-menschen-fest](https://www.spiegel.de/panorama/csd-gegenkundgebung-polizei-in-berlin-nimmt-sieben-menschen-fest-a-aee2f4b0-0cf0-480c-8fba-99265ec5e98a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/rente-katherina-reiche-deutsche-muessen-laut-wirtschaftsministerin-mehr-und-laenger-arbeiten](https://www.spiegel.de/politik/deutschland/rente-katherina-reiche-deutsche-muessen-laut-wirtschaftsministerin-mehr-und-laenger-arbeiten-a-da40b7b2-154a-4b80-a447-1a955f4ab57c#ref=rss)
+### gesundheitsministerin
+
+* [https://www.spiegel.de/politik/pflege-gesundheitsministerin-warken-will-eigenanteile-fuer-heimpflege-senken](https://www.spiegel.de/politik/pflege-gesundheitsministerin-warken-will-eigenanteile-fuer-heimpflege-senken-a-1e38ba8e-41b9-4fa9-b055-6aee8ef17481#ref=rss)
+### warken
+
+* [https://www.spiegel.de/politik/pflege-gesundheitsministerin-warken-will-eigenanteile-fuer-heimpflege-senken](https://www.spiegel.de/politik/pflege-gesundheitsministerin-warken-will-eigenanteile-fuer-heimpflege-senken-a-1e38ba8e-41b9-4fa9-b055-6aee8ef17481#ref=rss)
+### senken
+
+* [https://www.spiegel.de/politik/pflege-gesundheitsministerin-warken-will-eigenanteile-fuer-heimpflege-senken](https://www.spiegel.de/politik/pflege-gesundheitsministerin-warken-will-eigenanteile-fuer-heimpflege-senken-a-1e38ba8e-41b9-4fa9-b055-6aee8ef17481#ref=rss)
+### kosten
+
+* [https://www.spiegel.de/politik/pflege-gesundheitsministerin-warken-will-eigenanteile-fuer-heimpflege-senken](https://www.spiegel.de/politik/pflege-gesundheitsministerin-warken-will-eigenanteile-fuer-heimpflege-senken-a-1e38ba8e-41b9-4fa9-b055-6aee8ef17481#ref=rss)
+### meistersinger
+
+* [https://www.spiegel.de/kultur/die-meistersinger-von-nuernberg-in-bayreuth-so-macht-antifaschismus-spass](https://www.spiegel.de/kultur/die-meistersinger-von-nuernberg-in-bayreuth-so-macht-antifaschismus-spass-a-53432197-c074-4d05-a4c3-89fea8287faa#ref=rss)
+### nürnberg
+
+* [https://www.spiegel.de/kultur/die-meistersinger-von-nuernberg-in-bayreuth-so-macht-antifaschismus-spass](https://www.spiegel.de/kultur/die-meistersinger-von-nuernberg-in-bayreuth-so-macht-antifaschismus-spass-a-53432197-c074-4d05-a4c3-89fea8287faa#ref=rss)
+### bayreuth
+
+* [https://www.spiegel.de/kultur/die-meistersinger-von-nuernberg-in-bayreuth-so-macht-antifaschismus-spass](https://www.spiegel.de/kultur/die-meistersinger-von-nuernberg-in-bayreuth-so-macht-antifaschismus-spass-a-53432197-c074-4d05-a4c3-89fea8287faa#ref=rss)
+### köln
+
+* [https://www.spiegel.de/panorama/maus-vor-wdr-gebaeude-angezuendet](https://www.spiegel.de/panorama/maus-vor-wdr-gebaeude-angezuendet-a-23b18cb0-c462-4457-8809-1e117e76b6ee#ref=rss)
+### maus
+
+* [https://www.spiegel.de/panorama/maus-vor-wdr-gebaeude-angezuendet](https://www.spiegel.de/panorama/maus-vor-wdr-gebaeude-angezuendet-a-23b18cb0-c462-4457-8809-1e117e76b6ee#ref=rss)
+### wdrgebäude
+
+* [https://www.spiegel.de/panorama/maus-vor-wdr-gebaeude-angezuendet](https://www.spiegel.de/panorama/maus-vor-wdr-gebaeude-angezuendet-a-23b18cb0-c462-4457-8809-1e117e76b6ee#ref=rss)
+### letzten
+
+* [https://www.spiegel.de/kultur/die-letzten-tage-der-menschheit-bei-den-salzburger-festspielen-es-ist-nur-eine-phrase-hase](https://www.spiegel.de/kultur/die-letzten-tage-der-menschheit-bei-den-salzburger-festspielen-es-ist-nur-eine-phrase-hase-a-0d85cab0-b88f-4492-b064-414d6f45e363#ref=rss)
+### tage
+
+* [https://www.spiegel.de/kultur/die-letzten-tage-der-menschheit-bei-den-salzburger-festspielen-es-ist-nur-eine-phrase-hase](https://www.spiegel.de/kultur/die-letzten-tage-der-menschheit-bei-den-salzburger-festspielen-es-ist-nur-eine-phrase-hase-a-0d85cab0-b88f-4492-b064-414d6f45e363#ref=rss)
+### salzburger
+
+* [https://www.spiegel.de/kultur/die-letzten-tage-der-menschheit-bei-den-salzburger-festspielen-es-ist-nur-eine-phrase-hase](https://www.spiegel.de/kultur/die-letzten-tage-der-menschheit-bei-den-salzburger-festspielen-es-ist-nur-eine-phrase-hase-a-0d85cab0-b88f-4492-b064-414d6f45e363#ref=rss)
+### rente
+
+* [https://www.spiegel.de/politik/deutschland/rente-katherina-reiche-deutsche-muessen-laut-wirtschaftsministerin-mehr-und-laenger-arbeiten](https://www.spiegel.de/politik/deutschland/rente-katherina-reiche-deutsche-muessen-laut-wirtschaftsministerin-mehr-und-laenger-arbeiten-a-da40b7b2-154a-4b80-a447-1a955f4ab57c#ref=rss)
+### katherina
+
+* [https://www.spiegel.de/politik/deutschland/rente-katherina-reiche-deutsche-muessen-laut-wirtschaftsministerin-mehr-und-laenger-arbeiten](https://www.spiegel.de/politik/deutschland/rente-katherina-reiche-deutsche-muessen-laut-wirtschaftsministerin-mehr-und-laenger-arbeiten-a-da40b7b2-154a-4b80-a447-1a955f4ab57c#ref=rss)
+### reiche
+
+* [https://www.spiegel.de/politik/deutschland/rente-katherina-reiche-deutsche-muessen-laut-wirtschaftsministerin-mehr-und-laenger-arbeiten](https://www.spiegel.de/politik/deutschland/rente-katherina-reiche-deutsche-muessen-laut-wirtschaftsministerin-mehr-und-laenger-arbeiten-a-da40b7b2-154a-4b80-a447-1a955f4ab57c#ref=rss)
+### wirtschaftsministerin
+
+* [https://www.spiegel.de/politik/deutschland/rente-katherina-reiche-deutsche-muessen-laut-wirtschaftsministerin-mehr-und-laenger-arbeiten](https://www.spiegel.de/politik/deutschland/rente-katherina-reiche-deutsche-muessen-laut-wirtschaftsministerin-mehr-und-laenger-arbeiten-a-da40b7b2-154a-4b80-a447-1a955f4ab57c#ref=rss)
+### angus
+
+* [https://www.spiegel.de/politik/journalismus-angus-hervey-ueber-zerrbilder-und-die-besten-jahre-der-menschheit](https://www.spiegel.de/politik/journalismus-angus-hervey-ueber-zerrbilder-und-die-besten-jahre-der-menschheit-a-ba497818-ccd2-48e7-9fa2-2d0ca264d97e#ref=rss)
+### hervey
+
+* [https://www.spiegel.de/politik/journalismus-angus-hervey-ueber-zerrbilder-und-die-besten-jahre-der-menschheit](https://www.spiegel.de/politik/journalismus-angus-hervey-ueber-zerrbilder-und-die-besten-jahre-der-menschheit-a-ba497818-ccd2-48e7-9fa2-2d0ca264d97e#ref=rss)
+### jusochef
+
+* [https://www.spiegel.de/panorama/juso-chef-tuermer-spendete-stammzellen-an-frau-aus-texas](https://www.spiegel.de/panorama/juso-chef-tuermer-spendete-stammzellen-an-frau-aus-texas-a-e859ed31-9e3d-428a-962d-29c5b19f720a#ref=rss)
+### türmer
+
+* [https://www.spiegel.de/panorama/juso-chef-tuermer-spendete-stammzellen-an-frau-aus-texas](https://www.spiegel.de/panorama/juso-chef-tuermer-spendete-stammzellen-an-frau-aus-texas-a-e859ed31-9e3d-428a-962d-29c5b19f720a#ref=rss)
+### oasis
+
+* [https://www.spiegel.de/kultur/musik/wembley-oasis-gedenken-ozzy-osbournes-bei-konzert-in-london](https://www.spiegel.de/kultur/musik/wembley-oasis-gedenken-ozzy-osbournes-bei-konzert-in-london-a-5f6bce48-add8-4eb4-9bf3-c321842b341a#ref=rss)
+### ozzy
+
+* [https://www.spiegel.de/kultur/musik/wembley-oasis-gedenken-ozzy-osbournes-bei-konzert-in-london](https://www.spiegel.de/kultur/musik/wembley-oasis-gedenken-ozzy-osbournes-bei-konzert-in-london-a-5f6bce48-add8-4eb4-9bf3-c321842b341a#ref=rss)
+### konzert
+
+* [https://www.spiegel.de/kultur/musik/wembley-oasis-gedenken-ozzy-osbournes-bei-konzert-in-london](https://www.spiegel.de/kultur/musik/wembley-oasis-gedenken-ozzy-osbournes-bei-konzert-in-london-a-5f6bce48-add8-4eb4-9bf3-c321842b341a#ref=rss)
+### musiklegenden
+
+* [https://www.spiegel.de/kultur/musik/wembley-oasis-gedenken-ozzy-osbournes-bei-konzert-in-london](https://www.spiegel.de/kultur/musik/wembley-oasis-gedenken-ozzy-osbournes-bei-konzert-in-london-a-5f6bce48-add8-4eb4-9bf3-c321842b341a#ref=rss)
+### iowa
+
+* [https://www.spiegel.de/panorama/guinnessbuch-der-rekorde-fruehstes-fruehchen-der-welt-feiert-ersten-geburtstag](https://www.spiegel.de/panorama/guinnessbuch-der-rekorde-fruehstes-fruehchen-der-welt-feiert-ersten-geburtstag-a-4d018771-5c84-4af3-8f72-e3251dcbc49c#ref=rss)
+### guinnessbuch
+
+* [https://www.spiegel.de/panorama/guinnessbuch-der-rekorde-fruehstes-fruehchen-der-welt-feiert-ersten-geburtstag](https://www.spiegel.de/panorama/guinnessbuch-der-rekorde-fruehstes-fruehchen-der-welt-feiert-ersten-geburtstag-a-4d018771-5c84-4af3-8f72-e3251dcbc49c#ref=rss)
+### rekorde
+
+* [https://www.spiegel.de/panorama/guinnessbuch-der-rekorde-fruehstes-fruehchen-der-welt-feiert-ersten-geburtstag](https://www.spiegel.de/panorama/guinnessbuch-der-rekorde-fruehstes-fruehchen-der-welt-feiert-ersten-geburtstag-a-4d018771-5c84-4af3-8f72-e3251dcbc49c#ref=rss)
 ### ceconomy
 
 * [https://www.spiegel.de/wirtschaft/ceconomy-gelingt-jd-com-aus-china-die-uebernahme-von-mediamarktsaturn](https://www.spiegel.de/wirtschaft/ceconomy-gelingt-jd-com-aus-china-die-uebernahme-von-mediamarktsaturn-a-635f30c3-0ce5-4a52-8027-8286a2358716#ref=rss)
@@ -70,258 +343,17 @@ tags: __no_header__
 ### mediamarktsaturn
 
 * [https://www.spiegel.de/wirtschaft/ceconomy-gelingt-jd-com-aus-china-die-uebernahme-von-mediamarktsaturn](https://www.spiegel.de/wirtschaft/ceconomy-gelingt-jd-com-aus-china-die-uebernahme-von-mediamarktsaturn-a-635f30c3-0ce5-4a52-8027-8286a2358716#ref=rss)
-### chinas
-
-* [https://www.spiegel.de/wirtschaft/ceconomy-gelingt-jd-com-aus-china-die-uebernahme-von-mediamarktsaturn](https://www.spiegel.de/wirtschaft/ceconomy-gelingt-jd-com-aus-china-die-uebernahme-von-mediamarktsaturn-a-635f30c3-0ce5-4a52-8027-8286a2358716#ref=rss)
-* [https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-china-schlaegt-weltweit-anerkanntes-ki-regelwerk-vor](https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-china-schlaegt-weltweit-anerkanntes-ki-regelwerk-vor-a-f80ccdb2-29d2-469d-a350-259348ed7a3b#ref=rss)
-### europa
-
-* [https://www.spiegel.de/wirtschaft/ceconomy-gelingt-jd-com-aus-china-die-uebernahme-von-mediamarktsaturn](https://www.spiegel.de/wirtschaft/ceconomy-gelingt-jd-com-aus-china-die-uebernahme-von-mediamarktsaturn-a-635f30c3-0ce5-4a52-8027-8286a2358716#ref=rss)
-* [https://www.spiegel.de/auto/elektroautos-weltweite-zulassungen-steigen-im-ersten-halbjahr-2025-stark](https://www.spiegel.de/auto/elektroautos-weltweite-zulassungen-steigen-im-ersten-halbjahr-2025-stark-a-3d834188-45a4-4907-afbc-a0bb03261014#ref=rss)
 ### entscheidung
 
 * [https://www.spiegel.de/wirtschaft/ceconomy-gelingt-jd-com-aus-china-die-uebernahme-von-mediamarktsaturn](https://www.spiegel.de/wirtschaft/ceconomy-gelingt-jd-com-aus-china-die-uebernahme-von-mediamarktsaturn-a-635f30c3-0ce5-4a52-8027-8286a2358716#ref=rss)
 * [https://www.spiegel.de/sport/fussball/dann-gehts-uebern-grossen-teich-mueller-deutet-entscheidung-fuer-wechsel-in-die-usa-an](https://www.spiegel.de/sport/fussball/dann-gehts-uebern-grossen-teich-mueller-deutet-entscheidung-fuer-wechsel-in-die-usa-an-a-fec57060-4d2a-4daf-b343-2a34ab6ca710#ref=rss)
-### kurz
+### thomas
 
-* [https://www.spiegel.de/wirtschaft/ceconomy-gelingt-jd-com-aus-china-die-uebernahme-von-mediamarktsaturn](https://www.spiegel.de/wirtschaft/ceconomy-gelingt-jd-com-aus-china-die-uebernahme-von-mediamarktsaturn-a-635f30c3-0ce5-4a52-8027-8286a2358716#ref=rss)
-* [https://www.spiegel.de/panorama/zwischenfall-in-kalifornien-zwei-verletzte-nach-rasantem-ausweichmanoever-von-passagierflugzeug](https://www.spiegel.de/panorama/zwischenfall-in-kalifornien-zwei-verletzte-nach-rasantem-ausweichmanoever-von-passagierflugzeug-a-a03c80af-eeed-4b12-8a76-4834193cd8ee#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dann-gehts-uebern-grossen-teich-mueller-deutet-entscheidung-fuer-wechsel-in-die-usa-an](https://www.spiegel.de/sport/fussball/dann-gehts-uebern-grossen-teich-mueller-deutet-entscheidung-fuer-wechsel-in-die-usa-an-a-fec57060-4d2a-4daf-b343-2a34ab6ca710#ref=rss)
 ### müller
 
 * [https://www.spiegel.de/sport/fussball/dann-gehts-uebern-grossen-teich-mueller-deutet-entscheidung-fuer-wechsel-in-die-usa-an](https://www.spiegel.de/sport/fussball/dann-gehts-uebern-grossen-teich-mueller-deutet-entscheidung-fuer-wechsel-in-die-usa-an-a-fec57060-4d2a-4daf-b343-2a34ab6ca710#ref=rss)
 ### wechsel
 
 * [https://www.spiegel.de/sport/fussball/dann-gehts-uebern-grossen-teich-mueller-deutet-entscheidung-fuer-wechsel-in-die-usa-an](https://www.spiegel.de/sport/fussball/dann-gehts-uebern-grossen-teich-mueller-deutet-entscheidung-fuer-wechsel-in-die-usa-an-a-fec57060-4d2a-4daf-b343-2a34ab6ca710#ref=rss)
-### usa
-
-* [https://www.spiegel.de/sport/fussball/dann-gehts-uebern-grossen-teich-mueller-deutet-entscheidung-fuer-wechsel-in-die-usa-an](https://www.spiegel.de/sport/fussball/dann-gehts-uebern-grossen-teich-mueller-deutet-entscheidung-fuer-wechsel-in-die-usa-an-a-fec57060-4d2a-4daf-b343-2a34ab6ca710#ref=rss)
-### wichtigsten
-
-* [https://www.spiegel.de/sport/fussball/dann-gehts-uebern-grossen-teich-mueller-deutet-entscheidung-fuer-wechsel-in-die-usa-an](https://www.spiegel.de/sport/fussball/dann-gehts-uebern-grossen-teich-mueller-deutet-entscheidung-fuer-wechsel-in-die-usa-an-a-fec57060-4d2a-4daf-b343-2a34ab6ca710#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### verletzt
-
-* [https://www.spiegel.de/panorama/unfall-in-hamburg-jugendlicher-wird-von-stromschlag-aus-oberleitung-schwer-verletzt](https://www.spiegel.de/panorama/unfall-in-hamburg-jugendlicher-wird-von-stromschlag-aus-oberleitung-schwer-verletzt-a-5ea3d87b-4c02-4410-a5f1-7c6d7600c31b#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-charkiw-meldet-fast-drei-stunden-langen-dauerbeschuss](https://www.spiegel.de/ausland/russland-ukraine-krieg-charkiw-meldet-fast-drei-stunden-langen-dauerbeschuss-a-a76a2d18-3723-42bc-9eb2-2de12da824de#ref=rss)
-### nfl
-
-* [https://www.spiegel.de/sport/american-football/nfl-strafen-fuer-profis-wegen-ueberteuert-verkaufter-super-bowl-tickets](https://www.spiegel.de/sport/american-football/nfl-strafen-fuer-profis-wegen-ueberteuert-verkaufter-super-bowl-tickets-a-dd7ac829-f5e5-4583-befb-dcefd4ad14ba#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/sport/american-football/nfl-strafen-fuer-profis-wegen-ueberteuert-verkaufter-super-bowl-tickets](https://www.spiegel.de/sport/american-football/nfl-strafen-fuer-profis-wegen-ueberteuert-verkaufter-super-bowl-tickets-a-dd7ac829-f5e5-4583-befb-dcefd4ad14ba#ref=rss)
-* [https://www.spiegel.de/panorama/zwischenfall-in-kalifornien-zwei-verletzte-nach-rasantem-ausweichmanoever-von-passagierflugzeug](https://www.spiegel.de/panorama/zwischenfall-in-kalifornien-zwei-verletzte-nach-rasantem-ausweichmanoever-von-passagierflugzeug-a-a03c80af-eeed-4b12-8a76-4834193cd8ee#ref=rss)
-### verboten
-
-* [https://www.spiegel.de/sport/american-football/nfl-strafen-fuer-profis-wegen-ueberteuert-verkaufter-super-bowl-tickets](https://www.spiegel.de/sport/american-football/nfl-strafen-fuer-profis-wegen-ueberteuert-verkaufter-super-bowl-tickets-a-dd7ac829-f5e5-4583-befb-dcefd4ad14ba#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-csd-teilnehmende-protestieren-mit-riesiger-regenbogenflagge-vor-reichstag](https://www.spiegel.de/panorama/berlin-csd-teilnehmende-protestieren-mit-riesiger-regenbogenflagge-vor-reichstag-a-b6e9506f-a935-4e8a-8dad-4e7a38cb62f5#ref=rss)
-### gute
-
-* [https://www.spiegel.de/familie/freundschaft-unter-kindern-ich-muss-mich-mal-wieder-bei-stefan-melden-familiennewsletter](https://www.spiegel.de/familie/freundschaft-unter-kindern-ich-muss-mich-mal-wieder-bei-stefan-melden-familiennewsletter-a-9081a911-68c3-4859-bf39-04a1c8b7753e#ref=rss)
-* [https://www.spiegel.de/ausland/alles-gute-vom-spiegel-eine-steinbildhauerin-erobert-die-welt-und-insekten-koennen-aufatmen](https://www.spiegel.de/ausland/alles-gute-vom-spiegel-eine-steinbildhauerin-erobert-die-welt-und-insekten-koennen-aufatmen-a-1cb741fe-23a4-4b9c-a630-03d1e65df7da#ref=rss)
-### eigentlich
-
-* [https://www.spiegel.de/familie/freundschaft-unter-kindern-ich-muss-mich-mal-wieder-bei-stefan-melden-familiennewsletter](https://www.spiegel.de/familie/freundschaft-unter-kindern-ich-muss-mich-mal-wieder-bei-stefan-melden-familiennewsletter-a-9081a911-68c3-4859-bf39-04a1c8b7753e#ref=rss)
-* [https://www.spiegel.de/ausland/usaid-us-regierung-plant-vernichtung-von-verhuetungsmittel-vorraeten](https://www.spiegel.de/ausland/usaid-us-regierung-plant-vernichtung-von-verhuetungsmittel-vorraeten-a-f259bfc4-bd55-4d7c-8d65-1f6bd5611cb9#ref=rss)
-### benjamin
-
-* [https://www.spiegel.de/sport/tennis-benjamin-hassan-und-seine-unwahrscheinliche-karriere](https://www.spiegel.de/sport/tennis-benjamin-hassan-und-seine-unwahrscheinliche-karriere-a-d32a7986-da76-49e4-9b00-9658988eec2b#ref=rss)
-### hassan
-
-* [https://www.spiegel.de/sport/tennis-benjamin-hassan-und-seine-unwahrscheinliche-karriere](https://www.spiegel.de/sport/tennis-benjamin-hassan-und-seine-unwahrscheinliche-karriere-a-d32a7986-da76-49e4-9b00-9658988eec2b#ref=rss)
-### jimi
-
-* [https://www.spiegel.de/ausland/jimi-blue-ochsenknecht-vom-kinderstar-zum-notorischen-zechpreller-podcast](https://www.spiegel.de/ausland/jimi-blue-ochsenknecht-vom-kinderstar-zum-notorischen-zechpreller-podcast-a-3c5c2618-d85e-4d3f-8822-c751ecbe163d#ref=rss)
-### blue
-
-* [https://www.spiegel.de/ausland/jimi-blue-ochsenknecht-vom-kinderstar-zum-notorischen-zechpreller-podcast](https://www.spiegel.de/ausland/jimi-blue-ochsenknecht-vom-kinderstar-zum-notorischen-zechpreller-podcast-a-3c5c2618-d85e-4d3f-8822-c751ecbe163d#ref=rss)
-### podcast
-
-* [https://www.spiegel.de/ausland/jimi-blue-ochsenknecht-vom-kinderstar-zum-notorischen-zechpreller-podcast](https://www.spiegel.de/ausland/jimi-blue-ochsenknecht-vom-kinderstar-zum-notorischen-zechpreller-podcast-a-3c5c2618-d85e-4d3f-8822-c751ecbe163d#ref=rss)
-* [https://www.spiegel.de/kultur/kino/pedro-pascal-warum-der-fantastic-four-star-ein-vorbild-fuer-maenner-ist-podcast](https://www.spiegel.de/kultur/kino/pedro-pascal-warum-der-fantastic-four-star-ein-vorbild-fuer-maenner-ist-podcast-a-0d17d994-2bc7-46d9-b183-b3f8e8f856e0#ref=rss)
-### gerhart
-
-* [https://www.spiegel.de/politik/deutschland/fdp-und-gerhart-baum-warum-der-liberale-vor-seinem-tod-vor-der-afd-warnte](https://www.spiegel.de/politik/deutschland/fdp-und-gerhart-baum-warum-der-liberale-vor-seinem-tod-vor-der-afd-warnte-a-2f394847-167d-4e65-be19-cbfb8475e77b#ref=rss)
-### baum
-
-* [https://www.spiegel.de/politik/deutschland/fdp-und-gerhart-baum-warum-der-liberale-vor-seinem-tod-vor-der-afd-warnte](https://www.spiegel.de/politik/deutschland/fdp-und-gerhart-baum-warum-der-liberale-vor-seinem-tod-vor-der-afd-warnte-a-2f394847-167d-4e65-be19-cbfb8475e77b#ref=rss)
-### afd
-
-* [https://www.spiegel.de/politik/deutschland/fdp-und-gerhart-baum-warum-der-liberale-vor-seinem-tod-vor-der-afd-warnte](https://www.spiegel.de/politik/deutschland/fdp-und-gerhart-baum-warum-der-liberale-vor-seinem-tod-vor-der-afd-warnte-a-2f394847-167d-4e65-be19-cbfb8475e77b#ref=rss)
-### warnt
-
-* [https://www.spiegel.de/politik/deutschland/fdp-und-gerhart-baum-warum-der-liberale-vor-seinem-tod-vor-der-afd-warnte](https://www.spiegel.de/politik/deutschland/fdp-und-gerhart-baum-warum-der-liberale-vor-seinem-tod-vor-der-afd-warnte-a-2f394847-167d-4e65-be19-cbfb8475e77b#ref=rss)
-* [https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-china-schlaegt-weltweit-anerkanntes-ki-regelwerk-vor](https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-china-schlaegt-weltweit-anerkanntes-ki-regelwerk-vor-a-f80ccdb2-29d2-469d-a350-259348ed7a3b#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### jeden
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-* [https://www.spiegel.de/start/mensaessen-auf-social-media-schlechter-geschmack-ist-verzeihlich-kleine-portionen-nie](https://www.spiegel.de/start/mensaessen-auf-social-media-schlechter-geschmack-ist-verzeihlich-kleine-portionen-nie-a-0285a676-5def-4455-9858-ec8efefb096b#ref=rss)
-### sieben
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-lewis-hamilton-frustriert-ueber-aktuelle-ferrari-leistung](https://www.spiegel.de/sport/formel1/formel-1-lewis-hamilton-frustriert-ueber-aktuelle-ferrari-leistung-a-0106a174-03e6-4f63-93c9-5e84f0beec62#ref=rss)
-### pedro
-
-* [https://www.spiegel.de/kultur/kino/pedro-pascal-warum-der-fantastic-four-star-ein-vorbild-fuer-maenner-ist-podcast](https://www.spiegel.de/kultur/kino/pedro-pascal-warum-der-fantastic-four-star-ein-vorbild-fuer-maenner-ist-podcast-a-0d17d994-2bc7-46d9-b183-b3f8e8f856e0#ref=rss)
-### pascal
-
-* [https://www.spiegel.de/kultur/kino/pedro-pascal-warum-der-fantastic-four-star-ein-vorbild-fuer-maenner-ist-podcast](https://www.spiegel.de/kultur/kino/pedro-pascal-warum-der-fantastic-four-star-ein-vorbild-fuer-maenner-ist-podcast-a-0d17d994-2bc7-46d9-b183-b3f8e8f856e0#ref=rss)
-### ganz
-
-* [https://www.spiegel.de/kultur/kino/pedro-pascal-warum-der-fantastic-four-star-ein-vorbild-fuer-maenner-ist-podcast](https://www.spiegel.de/kultur/kino/pedro-pascal-warum-der-fantastic-four-star-ein-vorbild-fuer-maenner-ist-podcast-a-0d17d994-2bc7-46d9-b183-b3f8e8f856e0#ref=rss)
-* [https://www.spiegel.de/start/mensaessen-auf-social-media-schlechter-geschmack-ist-verzeihlich-kleine-portionen-nie](https://www.spiegel.de/start/mensaessen-auf-social-media-schlechter-geschmack-ist-verzeihlich-kleine-portionen-nie-a-0285a676-5def-4455-9858-ec8efefb096b#ref=rss)
-### neue
-
-* [https://www.spiegel.de/kultur/kino/pedro-pascal-warum-der-fantastic-four-star-ein-vorbild-fuer-maenner-ist-podcast](https://www.spiegel.de/kultur/kino/pedro-pascal-warum-der-fantastic-four-star-ein-vorbild-fuer-maenner-ist-podcast-a-0d17d994-2bc7-46d9-b183-b3f8e8f856e0#ref=rss)
-* [https://www.spiegel.de/ausland/usaid-us-regierung-plant-vernichtung-von-verhuetungsmittel-vorraeten](https://www.spiegel.de/ausland/usaid-us-regierung-plant-vernichtung-von-verhuetungsmittel-vorraeten-a-f259bfc4-bd55-4d7c-8d65-1f6bd5611cb9#ref=rss)
-### astronomer
-
-* [https://www.spiegel.de/panorama/astronomer-coldplay-gwyneth-paltrow-wirbt-nach-konzertposse-fuer-softwarefirma](https://www.spiegel.de/panorama/astronomer-coldplay-gwyneth-paltrow-wirbt-nach-konzertposse-fuer-softwarefirma-a-373109da-c56e-4fac-b8d1-1caa0c737ba2#ref=rss)
-### schlägt
-
-* [https://www.spiegel.de/panorama/astronomer-coldplay-gwyneth-paltrow-wirbt-nach-konzertposse-fuer-softwarefirma](https://www.spiegel.de/panorama/astronomer-coldplay-gwyneth-paltrow-wirbt-nach-konzertposse-fuer-softwarefirma-a-373109da-c56e-4fac-b8d1-1caa0c737ba2#ref=rss)
-* [https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-china-schlaegt-weltweit-anerkanntes-ki-regelwerk-vor](https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-china-schlaegt-weltweit-anerkanntes-ki-regelwerk-vor-a-f80ccdb2-29d2-469d-a350-259348ed7a3b#ref=rss)
-### lewis
-
-* [https://www.spiegel.de/sport/formel1/formel-1-lewis-hamilton-frustriert-ueber-aktuelle-ferrari-leistung](https://www.spiegel.de/sport/formel1/formel-1-lewis-hamilton-frustriert-ueber-aktuelle-ferrari-leistung-a-0106a174-03e6-4f63-93c9-5e84f0beec62#ref=rss)
-### hamilton
-
-* [https://www.spiegel.de/sport/formel1/formel-1-lewis-hamilton-frustriert-ueber-aktuelle-ferrari-leistung](https://www.spiegel.de/sport/formel1/formel-1-lewis-hamilton-frustriert-ueber-aktuelle-ferrari-leistung-a-0106a174-03e6-4f63-93c9-5e84f0beec62#ref=rss)
-### reichstag
-
-* [https://www.spiegel.de/panorama/berlin-csd-teilnehmende-protestieren-mit-riesiger-regenbogenflagge-vor-reichstag](https://www.spiegel.de/panorama/berlin-csd-teilnehmende-protestieren-mit-riesiger-regenbogenflagge-vor-reichstag-a-b6e9506f-a935-4e8a-8dad-4e7a38cb62f5#ref=rss)
-### andere
-
-* [https://www.spiegel.de/panorama/berlin-csd-teilnehmende-protestieren-mit-riesiger-regenbogenflagge-vor-reichstag](https://www.spiegel.de/panorama/berlin-csd-teilnehmende-protestieren-mit-riesiger-regenbogenflagge-vor-reichstag-a-b6e9506f-a935-4e8a-8dad-4e7a38cb62f5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-csd-in-berlin-lachen-ueber-donald-trump-emmanuel-macrons-palaestina-vorstoss](https://www.spiegel.de/politik/deutschland/news-csd-in-berlin-lachen-ueber-donald-trump-emmanuel-macrons-palaestina-vorstoss-a-a7e774ff-b41f-42fc-b3ff-870f55f2c2dd#ref=rss)
-### inter
-
-* [https://www.spiegel.de/sport/fussball/inter-miami-lionel-messi-veraergert-ueber-sperre-nach-all-star-game-auslassung](https://www.spiegel.de/sport/fussball/inter-miami-lionel-messi-veraergert-ueber-sperre-nach-all-star-game-auslassung-a-79d3aadc-658a-4393-8be6-9b91d94843ce#ref=rss)
-### miami
-
-* [https://www.spiegel.de/sport/fussball/inter-miami-lionel-messi-veraergert-ueber-sperre-nach-all-star-game-auslassung](https://www.spiegel.de/sport/fussball/inter-miami-lionel-messi-veraergert-ueber-sperre-nach-all-star-game-auslassung-a-79d3aadc-658a-4393-8be6-9b91d94843ce#ref=rss)
-### lionel
-
-* [https://www.spiegel.de/sport/fussball/inter-miami-lionel-messi-veraergert-ueber-sperre-nach-all-star-game-auslassung](https://www.spiegel.de/sport/fussball/inter-miami-lionel-messi-veraergert-ueber-sperre-nach-all-star-game-auslassung-a-79d3aadc-658a-4393-8be6-9b91d94843ce#ref=rss)
-### spiel
-
-* [https://www.spiegel.de/sport/fussball/inter-miami-lionel-messi-veraergert-ueber-sperre-nach-all-star-game-auslassung](https://www.spiegel.de/sport/fussball/inter-miami-lionel-messi-veraergert-ueber-sperre-nach-all-star-game-auslassung-a-79d3aadc-658a-4393-8be6-9b91d94843ce#ref=rss)
-* [https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-china-schlaegt-weltweit-anerkanntes-ki-regelwerk-vor](https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-china-schlaegt-weltweit-anerkanntes-ki-regelwerk-vor-a-f80ccdb2-29d2-469d-a350-259348ed7a3b#ref=rss)
-### elektroautos
-
-* [https://www.spiegel.de/auto/elektroautos-weltweite-zulassungen-steigen-im-ersten-halbjahr-2025-stark](https://www.spiegel.de/auto/elektroautos-weltweite-zulassungen-steigen-im-ersten-halbjahr-2025-stark-a-3d834188-45a4-4907-afbc-a0bb03261014#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/auto/elektroautos-weltweite-zulassungen-steigen-im-ersten-halbjahr-2025-stark](https://www.spiegel.de/auto/elektroautos-weltweite-zulassungen-steigen-im-ersten-halbjahr-2025-stark-a-3d834188-45a4-4907-afbc-a0bb03261014#ref=rss)
-### halbjahr
-
-* [https://www.spiegel.de/auto/elektroautos-weltweite-zulassungen-steigen-im-ersten-halbjahr-2025-stark](https://www.spiegel.de/auto/elektroautos-weltweite-zulassungen-steigen-im-ersten-halbjahr-2025-stark-a-3d834188-45a4-4907-afbc-a0bb03261014#ref=rss)
-### 2025
-
-* [https://www.spiegel.de/auto/elektroautos-weltweite-zulassungen-steigen-im-ersten-halbjahr-2025-stark](https://www.spiegel.de/auto/elektroautos-weltweite-zulassungen-steigen-im-ersten-halbjahr-2025-stark-a-3d834188-45a4-4907-afbc-a0bb03261014#ref=rss)
-### weltweit
-
-* [https://www.spiegel.de/auto/elektroautos-weltweite-zulassungen-steigen-im-ersten-halbjahr-2025-stark](https://www.spiegel.de/auto/elektroautos-weltweite-zulassungen-steigen-im-ersten-halbjahr-2025-stark-a-3d834188-45a4-4907-afbc-a0bb03261014#ref=rss)
-* [https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-china-schlaegt-weltweit-anerkanntes-ki-regelwerk-vor](https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-china-schlaegt-weltweit-anerkanntes-ki-regelwerk-vor-a-f80ccdb2-29d2-469d-a350-259348ed7a3b#ref=rss)
-### fast
-
-* [https://www.spiegel.de/auto/elektroautos-weltweite-zulassungen-steigen-im-ersten-halbjahr-2025-stark](https://www.spiegel.de/auto/elektroautos-weltweite-zulassungen-steigen-im-ersten-halbjahr-2025-stark-a-3d834188-45a4-4907-afbc-a0bb03261014#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-charkiw-meldet-fast-drei-stunden-langen-dauerbeschuss](https://www.spiegel.de/ausland/russland-ukraine-krieg-charkiw-meldet-fast-drei-stunden-langen-dauerbeschuss-a-a76a2d18-3723-42bc-9eb2-2de12da824de#ref=rss)
-### social
-
-* [https://www.spiegel.de/start/mensaessen-auf-social-media-schlechter-geschmack-ist-verzeihlich-kleine-portionen-nie](https://www.spiegel.de/start/mensaessen-auf-social-media-schlechter-geschmack-ist-verzeihlich-kleine-portionen-nie-a-0285a676-5def-4455-9858-ec8efefb096b#ref=rss)
-### media
-
-* [https://www.spiegel.de/start/mensaessen-auf-social-media-schlechter-geschmack-ist-verzeihlich-kleine-portionen-nie](https://www.spiegel.de/start/mensaessen-auf-social-media-schlechter-geschmack-ist-verzeihlich-kleine-portionen-nie-a-0285a676-5def-4455-9858-ec8efefb096b#ref=rss)
-### eigenen
-
-* [https://www.spiegel.de/start/mensaessen-auf-social-media-schlechter-geschmack-ist-verzeihlich-kleine-portionen-nie](https://www.spiegel.de/start/mensaessen-auf-social-media-schlechter-geschmack-ist-verzeihlich-kleine-portionen-nie-a-0285a676-5def-4455-9858-ec8efefb096b#ref=rss)
-* [https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-china-schlaegt-weltweit-anerkanntes-ki-regelwerk-vor](https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-china-schlaegt-weltweit-anerkanntes-ki-regelwerk-vor-a-f80ccdb2-29d2-469d-a350-259348ed7a3b#ref=rss)
-### chemikerin
-
-* [https://www.spiegel.de/panorama/drug-checking-in-mecklenburg-vorpommern-chemikerin-anja-gummesson-testet-drogen-auf-festivals](https://www.spiegel.de/panorama/drug-checking-in-mecklenburg-vorpommern-chemikerin-anja-gummesson-testet-drogen-auf-festivals-a-63fc3417-b8b0-4d93-a00f-3d39c92565b7#ref=rss)
-### anja
-
-* [https://www.spiegel.de/panorama/drug-checking-in-mecklenburg-vorpommern-chemikerin-anja-gummesson-testet-drogen-auf-festivals](https://www.spiegel.de/panorama/drug-checking-in-mecklenburg-vorpommern-chemikerin-anja-gummesson-testet-drogen-auf-festivals-a-63fc3417-b8b0-4d93-a00f-3d39c92565b7#ref=rss)
-### gummesson
-
-* [https://www.spiegel.de/panorama/drug-checking-in-mecklenburg-vorpommern-chemikerin-anja-gummesson-testet-drogen-auf-festivals](https://www.spiegel.de/panorama/drug-checking-in-mecklenburg-vorpommern-chemikerin-anja-gummesson-testet-drogen-auf-festivals-a-63fc3417-b8b0-4d93-a00f-3d39c92565b7#ref=rss)
-### drogen
-
-* [https://www.spiegel.de/panorama/drug-checking-in-mecklenburg-vorpommern-chemikerin-anja-gummesson-testet-drogen-auf-festivals](https://www.spiegel.de/panorama/drug-checking-in-mecklenburg-vorpommern-chemikerin-anja-gummesson-testet-drogen-auf-festivals-a-63fc3417-b8b0-4d93-a00f-3d39c92565b7#ref=rss)
-### festivals
-
-* [https://www.spiegel.de/panorama/drug-checking-in-mecklenburg-vorpommern-chemikerin-anja-gummesson-testet-drogen-auf-festivals](https://www.spiegel.de/panorama/drug-checking-in-mecklenburg-vorpommern-chemikerin-anja-gummesson-testet-drogen-auf-festivals-a-63fc3417-b8b0-4d93-a00f-3d39c92565b7#ref=rss)
-### türkei
-
-* [https://www.spiegel.de/ausland/tuerkei-und-die-medien-recep-tayyip-erdogan-geht-drastisch-gegen-medien-vor](https://www.spiegel.de/ausland/tuerkei-und-die-medien-recep-tayyip-erdogan-geht-drastisch-gegen-medien-vor-a-fe91c75f-b20c-41f8-80e7-eeedb771ef63#ref=rss)
-* [https://www.spiegel.de/wirtschaft/klimakrise-obstbauern-in-deutschland-setzen-verstaerkt-auf-aprikosen-pfirsiche-und-nektarinen](https://www.spiegel.de/wirtschaft/klimakrise-obstbauern-in-deutschland-setzen-verstaerkt-auf-aprikosen-pfirsiche-und-nektarinen-a-941ea095-1b92-4f87-8e2a-153996d01660#ref=rss)
-### setzt
-
-* [https://www.spiegel.de/ausland/tuerkei-und-die-medien-recep-tayyip-erdogan-geht-drastisch-gegen-medien-vor](https://www.spiegel.de/ausland/tuerkei-und-die-medien-recep-tayyip-erdogan-geht-drastisch-gegen-medien-vor-a-fe91c75f-b20c-41f8-80e7-eeedb771ef63#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-csd-in-berlin-lachen-ueber-donald-trump-emmanuel-macrons-palaestina-vorstoss](https://www.spiegel.de/politik/deutschland/news-csd-in-berlin-lachen-ueber-donald-trump-emmanuel-macrons-palaestina-vorstoss-a-a7e774ff-b41f-42fc-b3ff-870f55f2c2dd#ref=rss)
-### kalifornien
-
-* [https://www.spiegel.de/panorama/zwischenfall-in-kalifornien-zwei-verletzte-nach-rasantem-ausweichmanoever-von-passagierflugzeug](https://www.spiegel.de/panorama/zwischenfall-in-kalifornien-zwei-verletzte-nach-rasantem-ausweichmanoever-von-passagierflugzeug-a-a03c80af-eeed-4b12-8a76-4834193cd8ee#ref=rss)
-### charkiw
-
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-charkiw-meldet-fast-drei-stunden-langen-dauerbeschuss](https://www.spiegel.de/ausland/russland-ukraine-krieg-charkiw-meldet-fast-drei-stunden-langen-dauerbeschuss-a-a76a2d18-3723-42bc-9eb2-2de12da824de#ref=rss)
-### verstärkt
-
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-charkiw-meldet-fast-drei-stunden-langen-dauerbeschuss](https://www.spiegel.de/ausland/russland-ukraine-krieg-charkiw-meldet-fast-drei-stunden-langen-dauerbeschuss-a-a76a2d18-3723-42bc-9eb2-2de12da824de#ref=rss)
-* [https://www.spiegel.de/wirtschaft/klimakrise-obstbauern-in-deutschland-setzen-verstaerkt-auf-aprikosen-pfirsiche-und-nektarinen](https://www.spiegel.de/wirtschaft/klimakrise-obstbauern-in-deutschland-setzen-verstaerkt-auf-aprikosen-pfirsiche-und-nektarinen-a-941ea095-1b92-4f87-8e2a-153996d01660#ref=rss)
-### usaid
-
-* [https://www.spiegel.de/ausland/usaid-us-regierung-plant-vernichtung-von-verhuetungsmittel-vorraeten](https://www.spiegel.de/ausland/usaid-us-regierung-plant-vernichtung-von-verhuetungsmittel-vorraeten-a-f259bfc4-bd55-4d7c-8d65-1f6bd5611cb9#ref=rss)
-### usregierung
-
-* [https://www.spiegel.de/ausland/usaid-us-regierung-plant-vernichtung-von-verhuetungsmittel-vorraeten](https://www.spiegel.de/ausland/usaid-us-regierung-plant-vernichtung-von-verhuetungsmittel-vorraeten-a-f259bfc4-bd55-4d7c-8d65-1f6bd5611cb9#ref=rss)
-### waren
-
-* [https://www.spiegel.de/ausland/usaid-us-regierung-plant-vernichtung-von-verhuetungsmittel-vorraeten](https://www.spiegel.de/ausland/usaid-us-regierung-plant-vernichtung-von-verhuetungsmittel-vorraeten-a-f259bfc4-bd55-4d7c-8d65-1f6bd5611cb9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ilse-aigner-als-bundespraesidentin-diese-frau-koennte-frank-walter-steinmeier-beerben](https://www.spiegel.de/politik/deutschland/ilse-aigner-als-bundespraesidentin-diese-frau-koennte-frank-walter-steinmeier-beerben-a-8742c952-bb1e-43b2-9a6b-ab2d3b69a8e1#ref=rss)
-### forscher
-
-* [https://www.spiegel.de/deinspiegel/naturschutz-auf-madagaskar-forscher-engagiert-sich-fuer-den-erhalt-der-lemuren](https://www.spiegel.de/deinspiegel/naturschutz-auf-madagaskar-forscher-engagiert-sich-fuer-den-erhalt-der-lemuren-a-48eda4dd-3d73-472a-8bdb-77fce335a4c6#ref=rss)
-### lemuren
-
-* [https://www.spiegel.de/deinspiegel/naturschutz-auf-madagaskar-forscher-engagiert-sich-fuer-den-erhalt-der-lemuren](https://www.spiegel.de/deinspiegel/naturschutz-auf-madagaskar-forscher-engagiert-sich-fuer-den-erhalt-der-lemuren-a-48eda4dd-3d73-472a-8bdb-77fce335a4c6#ref=rss)
-### intelligenz
-
-* [https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-china-schlaegt-weltweit-anerkanntes-ki-regelwerk-vor](https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-china-schlaegt-weltweit-anerkanntes-ki-regelwerk-vor-a-f80ccdb2-29d2-469d-a350-259348ed7a3b#ref=rss)
-### test
-
-* [https://www.spiegel.de/tests/garten/terrassenreiniger-im-test-einhell-kaercher-gardena-und-gloria](https://www.spiegel.de/tests/garten/terrassenreiniger-im-test-einhell-kaercher-gardena-und-gloria-a-2c836f94-40a4-4548-b845-9b9c974244cd#ref=rss)
-### steinbildhauerin
-
-* [https://www.spiegel.de/ausland/alles-gute-vom-spiegel-eine-steinbildhauerin-erobert-die-welt-und-insekten-koennen-aufatmen](https://www.spiegel.de/ausland/alles-gute-vom-spiegel-eine-steinbildhauerin-erobert-die-welt-und-insekten-koennen-aufatmen-a-1cb741fe-23a4-4b9c-a630-03d1e65df7da#ref=rss)
-### erobert
-
-* [https://www.spiegel.de/ausland/alles-gute-vom-spiegel-eine-steinbildhauerin-erobert-die-welt-und-insekten-koennen-aufatmen](https://www.spiegel.de/ausland/alles-gute-vom-spiegel-eine-steinbildhauerin-erobert-die-welt-und-insekten-koennen-aufatmen-a-1cb741fe-23a4-4b9c-a630-03d1e65df7da#ref=rss)
-### welt
-
-* [https://www.spiegel.de/ausland/alles-gute-vom-spiegel-eine-steinbildhauerin-erobert-die-welt-und-insekten-koennen-aufatmen](https://www.spiegel.de/ausland/alles-gute-vom-spiegel-eine-steinbildhauerin-erobert-die-welt-und-insekten-koennen-aufatmen-a-1cb741fe-23a4-4b9c-a630-03d1e65df7da#ref=rss)
-### ilse
-
-* [https://www.spiegel.de/politik/deutschland/ilse-aigner-als-bundespraesidentin-diese-frau-koennte-frank-walter-steinmeier-beerben](https://www.spiegel.de/politik/deutschland/ilse-aigner-als-bundespraesidentin-diese-frau-koennte-frank-walter-steinmeier-beerben-a-8742c952-bb1e-43b2-9a6b-ab2d3b69a8e1#ref=rss)
-### aigner
-
-* [https://www.spiegel.de/politik/deutschland/ilse-aigner-als-bundespraesidentin-diese-frau-koennte-frank-walter-steinmeier-beerben](https://www.spiegel.de/politik/deutschland/ilse-aigner-als-bundespraesidentin-diese-frau-koennte-frank-walter-steinmeier-beerben-a-8742c952-bb1e-43b2-9a6b-ab2d3b69a8e1#ref=rss)
-### steinmeier
-
-* [https://www.spiegel.de/politik/deutschland/ilse-aigner-als-bundespraesidentin-diese-frau-koennte-frank-walter-steinmeier-beerben](https://www.spiegel.de/politik/deutschland/ilse-aigner-als-bundespraesidentin-diese-frau-koennte-frank-walter-steinmeier-beerben-a-8742c952-bb1e-43b2-9a6b-ab2d3b69a8e1#ref=rss)
-### beerben
-
-* [https://www.spiegel.de/politik/deutschland/ilse-aigner-als-bundespraesidentin-diese-frau-koennte-frank-walter-steinmeier-beerben](https://www.spiegel.de/politik/deutschland/ilse-aigner-als-bundespraesidentin-diese-frau-koennte-frank-walter-steinmeier-beerben-a-8742c952-bb1e-43b2-9a6b-ab2d3b69a8e1#ref=rss)
-### csd
-
-* [https://www.spiegel.de/politik/deutschland/news-csd-in-berlin-lachen-ueber-donald-trump-emmanuel-macrons-palaestina-vorstoss](https://www.spiegel.de/politik/deutschland/news-csd-in-berlin-lachen-ueber-donald-trump-emmanuel-macrons-palaestina-vorstoss-a-a7e774ff-b41f-42fc-b3ff-870f55f2c2dd#ref=rss)
-### emmanuel
-
-* [https://www.spiegel.de/politik/deutschland/news-csd-in-berlin-lachen-ueber-donald-trump-emmanuel-macrons-palaestina-vorstoss](https://www.spiegel.de/politik/deutschland/news-csd-in-berlin-lachen-ueber-donald-trump-emmanuel-macrons-palaestina-vorstoss-a-a7e774ff-b41f-42fc-b3ff-870f55f2c2dd#ref=rss)
-### palästinavorstoß
-
-* [https://www.spiegel.de/politik/deutschland/news-csd-in-berlin-lachen-ueber-donald-trump-emmanuel-macrons-palaestina-vorstoss](https://www.spiegel.de/politik/deutschland/news-csd-in-berlin-lachen-ueber-donald-trump-emmanuel-macrons-palaestina-vorstoss-a-a7e774ff-b41f-42fc-b3ff-870f55f2c2dd#ref=rss)
 
